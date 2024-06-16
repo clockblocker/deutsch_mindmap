@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "221ea04d7b896dfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "60108645b1d311fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87a6f327914daeb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wortlisten/207 am häufigsten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11b84d145109f361",
+    "type": "split",
+    "children": [
+      {
+        "id": "0372cc9342a26192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0dd1351b59a3225",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c572581800d3354",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6b68bd3d7724240",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "515e4d54eb84c724",
+    "type": "split",
+    "children": [
+      {
+        "id": "4531bcf68f6c5416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c03c8f70a63e6155",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wortlisten/207 am häufigsten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d214b6f738eafb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wortlisten/207 am häufigsten.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0a68252545bb3a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d100e64b9dd08b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wortlisten/207 am häufigsten.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0dd1351b59a3225",
+  "lastOpenFiles": [
+    "Anhänge",
+    "Wörter/die.md",
+    "Wortlisten/207 am häufigsten.md",
+    "Wortlisten/1000 am häufigsten.md",
+    "LICENSE",
+    "Texte/Skripte",
+    "Welcome.md",
+    "Lektionen",
+    "Texte/Ditor",
+    "Texte/Italkie",
+    "Texte/Gedichte",
+    "Texte",
+    "Wortlisten",
+    "Wörter"
+  ]
+}
