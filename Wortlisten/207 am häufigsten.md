@@ -1,421 +1,415 @@
 [[die]]
 
-der
+[[der]]
 
-und
+[[und]]
 
-in
+[[in]]
 
-zu
+[[zu]]
 
-den
+[[den]]
 
-das
+[[das]]
 
-nicht
+[[nicht]]
 
-von
+[[von]]
 
-sie
+[[sie]]
 
-  
+[[ist]]
 
-ist
+[[des]]
 
-des
+[[sich]]
 
-sich
+[[mit]]
 
-mit
+[[dem]]
 
-dem
+[[dass]]
 
-dass
+[[er]]
 
-er
+[[es]]
 
-es
+[[ein]]
 
-ein
+[[ich]]
 
-ich
+[[auf]]
 
-  
+[[so]]
 
-auf
+[[eine]]
 
-so
+[[auch]]
 
-eine
+[[als]]
 
-auch
+[[an]]
 
-als
+[[nach]]
 
-an
+[[wie]]
 
-nach
+[[im]]
 
-wie
+[[für]]
 
-im
+[[ ]]
 
-für
+[[man]]
 
-  
+[[aber]]
 
-man
+[[aus]]
 
-aber
+[[durch]]
 
-aus
+[[wenn]]
 
-durch
+[[nur]]
 
-wenn
+[[war]]
 
-nur
+[[noch]]
 
-war
+[[werden]]
 
-noch
+[[bei]]
 
-werden
+[[hat]]
 
-bei
+[[wir]]
 
-hat
+[[was]]
 
-wir
+[[wird]]
 
-was
+[[sein]]
 
-wird
+[[einen]]
 
-sein
+[[welche]]
 
-einen
+[[sind]]
 
-welche
+[[oder]]
 
-sind
+[[zur]]
 
-oder
+[[um]]
 
-zur
+[[haben]]
 
-um
+[[einer]]
 
-haben
+[[mir]]
 
-einer
+[[über]]
 
-mir
+[[ihm]]
 
-über
+[[diese]]
 
-ihm
+[[einem]]
 
-diese
+[[ihr]]
 
-einem
+[[uns]]
 
-ihr
+[[da]]
 
-uns
+[[zum]]
 
-da
+[[kann]]
 
-zum
+[[doch]]
 
-kann
+[[vor]]
 
-doch
+[[dieser]]
 
-vor
+[[mich]]
 
-dieser
+[[ihn]]
 
-mich
+[[du]]
 
-ihn
+[[hatte]]
 
-du
+[[seine]]
 
-hatte
+[[mehr]]
 
-seine
+[[am]]
 
-mehr
+[[denn]]
 
-am
+[[nun]]
 
-denn
+[[unter]]
 
-nun
+[[sehr]]
 
-unter
+[[selbst]]
 
-sehr
+[[schon]]
 
-selbst
+[[hier]]
 
-schon
+[[bis]]
 
-hier
+[[habe]]
 
-bis
+[[ihre]]
 
-habe
+[[dann]]
 
-ihre
+[[ihnen]]
 
-dann
+[[seiner]]
 
-ihnen
+[[alle]]
 
-seiner
+[[wieder]]
 
-alle
+[[meine]]
 
-wieder
+[[Zeit]]
 
-meine
+[[gegen]]
 
-Zeit
+[[vom]]
 
-gegen
+[[ganz]]
 
-vom
+[[einzelnen]]
 
-ganz
+[[wo]]
 
-einzelnen
+[[muss]]
 
-wo
+[[ohne]]
 
-muss
+[[eines]]
 
-ohne
+[[können]]
 
-eines
+[[sei]]
 
-können
+[[ja]]
 
-sei
+[[wurde]]
 
-  
+[[jetzt]]
 
-ja
+[[immer]]
 
-wurde
+[[seinen]]
 
-jetzt
+[[wohl]]
 
-immer
+[[dieses]]
 
-seinen
+[[ihren]]
 
-wohl
+[[würde]]
 
-dieses
+[[diesen]]
 
-ihren
+[[sondern]]
 
-würde
+[[weil]]
 
-diesen
+[[welcher]]
 
-sondern
+[[nichts]]
 
-weil
+[[diesem]]
 
-welcher
+[[alles]]
 
-nichts
+[[waren]]
 
-diesem
+[[will]]
 
-alles
+[[Herr]]
 
-waren
+[[viel]]
 
-will
+[[mein]]
 
-Herr
+[[also]]
 
-viel
+[[soll]]
 
-mein
+[[worden]]
 
-also
+[[lassen]]
 
-soll
+[[dies]]
 
-worden
+[[machen]]
 
-lassen
+[[ihrer]]
 
-dies
+[[weiter]]
 
-machen
+[[Leben]]
 
-ihrer
+[[recht]]
 
-weiter
+[[etwas]]
 
-Leben
+[[keine]]
 
-recht
+[[seinem]]
 
-etwas
+[[ob]]
 
-keine
+[[dir]]
 
-seinem
+[[allen]]
 
-ob
+[[großen]]
 
-dir
+[[Jahre]]
 
-allen
+[[Weise]]
 
-großen
+[[müssen]]
 
-Jahre
+[[welches]]
 
-Weise
+[[wäre]]
 
-müssen
+[[erst]]
 
-welches
+[[einmal]]
 
-wäre
+[[Mann]]
 
-erst
+[[hätte]]
 
-einmal
+[[zwei]]
 
-Mann
+[[dich]]
 
-hätte
+[[allein]]
 
-zwei
+[[Herren]]
 
-dich
+[[während]]
 
-allein
+[[Paragraph]]
 
-Herren
+[[anders]]
 
-während
+[[Liebe]]
 
-Paragraph
+[[kein]]
 
-anders
+[[damit]]
 
-Liebe
+[[gar]]
 
-kein
+[[Hand]]
 
-damit
+[[Herrn]]
 
-gar
+[[euch]]
 
-Hand
+[[sollte]]
 
-Herrn
+[[konnte]]
 
-euch
+[[ersten]]
 
-sollte
+[[deren]]
 
-konnte
+[[zwischen]]
 
-ersten
+[[wollen]]
 
-deren
+[[denen]]
 
-zwischen
+[[dessen]]
 
-wollen
+[[sagen]]
 
-denen
+[[bin]]
 
-dessen
+[[Menschen]]
 
-sagen
+[[gut]]
 
-bin
+[[darauf]]
 
-Menschen
+[[wurden]]
 
-gut
+[[weiß]]
 
-darauf
+[[gewesen]]
 
-wurden
+[[Seite]]
 
-weiß
+[[bald]]
 
-gewesen
+[[weit]]
 
-Seite
+[[große]]
 
-bald
+[[solche]]
 
-weit
+[[hatten]]
 
-große
+[[eben]]
 
-solche
+[[andern]]
 
-hatten
+[[beiden]]
 
-eben
+[[macht]]
 
-andern
+[[sehen]]
 
-beiden
+[[ganze]]
 
-macht
+[[anderen]]
 
-sehen
+[[lange]]
 
-ganze
+[[wer]]
 
-anderen
+[[ihrem]]
 
-lange
+[[zwar]]
 
-wer
+[[gemacht]]
 
-ihrem
+[[dort]]
 
-zwar
+[[kommen]]
 
-gemacht
+[[Welt]]
 
-dort
+[[heute]]
 
-kommen
+[[Frau]]
 
-Welt
+[[werde]]
 
-heute
+[[derselben]]
 
-Frau
+[[ganzen]]
 
-werde
+[[deutschen]]
 
-derselben
+[[lässt]]
 
-ganzen
+[[vielleicht]]
 
-deutschen
-
-lässt
-
-vielleicht
-
-meiner
+[[meiner]]
