@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Du hast.md",
+                "file": "Lektionen/Bekker/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Du hast.md",
+                "file": "Lektionen/Bekker/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Du hast.md",
+                "file": "Lektionen/Bekker/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Du hast.md"
+                "file": "Lektionen/Bekker/1.md"
               }
             }
           }
@@ -234,12 +234,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0dd1351b59a3225",
+  "active": "b9abc435f6988ab1",
   "lastOpenFiles": [
-    "Texte/Gedichte/Rammstein",
-    "Wortlisten/1000 am häufigsten.md",
     "Wortlisten/207 am häufigsten.md",
+    "Wortlisten/1000 am häufigsten.md",
+    "Wortlisten/A1_SD1.md",
     "Texte/Gedichte/Rammstein/Du hast.md",
+    "Texte/Gedichte/Rammstein",
     "Wörter/Du.md",
     "Wörter/ein.md",
     "Wörter/eine.md",
@@ -270,7 +271,6 @@
     "Lektionen",
     "Texte/Ditor",
     "Texte/Italkie",
-    "Texte/Gedichte",
-    "Texte"
+    "Texte/Gedichte"
   ]
 }
