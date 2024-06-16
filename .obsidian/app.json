@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "Wörter",
-  "attachmentFolderPath": "Anhänge"
+  "attachmentFolderPath": "Anhänge",
+  "promptDelete": false
 }

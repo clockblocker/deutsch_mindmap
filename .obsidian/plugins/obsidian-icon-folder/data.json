@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "🔢",
+      "3️⃣",
+      "2️⃣",
+      "🔟",
+      "4️⃣"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -25,5 +31,26 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "Wörter/Acht.md": "8️⃣",
+  "Wörter/Drei.md": "3️⃣",
+  "Wörter/Eins.md": "1️⃣",
+  "Wörter/ein.md": "🅰",
+  "Wörter/eine.md": "🅰",
+  "Wörter/Elf.md": "🔢",
+  "Wörter/Fünf.md": "5️⃣",
+  "Wörter/Neun.md": "9️⃣",
+  "Wörter/Sechs.md": "6️⃣",
+  "Wörter/sieben.md": "7️⃣",
+  "Wörter/Vier.md": "4️⃣",
+  "Wörter/Zehn.md": "🔟",
+  "Wörter/zwei.md": "2️⃣",
+  "Wörter/Dreizehn.md": "🔢",
+  "Wörter/Zwölf.md": "🔢",
+  "Wörter/Vierzehn.md": "🔢",
+  "Wörter/Fünfzehn.md": "🔢",
+  "Wörter/Sechzehn.md": "🔢",
+  "Wörter/Siebzehn.md": "🔢",
+  "Wörter/Achtzehn.md": "🔢",
+  "Wörter/Zwanzig.md": "🔢"
 }

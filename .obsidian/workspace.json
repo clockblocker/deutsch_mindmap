@@ -4,22 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "e715faf6aa2f4cf6",
+        "id": "87581a05e11c86fb",
         "type": "tabs",
         "children": [
           {
-            "id": "405b978c7db7fb60",
+            "id": "a98c9996826eb990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wortlisten/207 am häufigsten.md",
+                "file": "Wörter/eine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d645cff5a7a9332d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/ein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9abc435f6988ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Gedichte/Rammstein/Du hast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1fa2c6fb0a21266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Achtzehn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08c311701f9407f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Siebzehn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c67e56417de37aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Vierzehn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4128f71abe4b9fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Zehn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9787c8089584d553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Neun.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.5
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -85,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wortlisten/207 am häufigsten.md",
+                "file": "Texte/Gedichte/Rammstein/Du hast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wortlisten/207 am häufigsten.md",
+                "file": "Texte/Gedichte/Rammstein/Du hast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wortlisten/207 am häufigsten.md"
+                "file": "Texte/Gedichte/Rammstein/Du hast.md"
               }
             }
           }
@@ -149,24 +234,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "405b978c7db7fb60",
+  "active": "d0dd1351b59a3225",
   "lastOpenFiles": [
+    "Texte/Gedichte/Rammstein",
     "Wortlisten/1000 am häufigsten.md",
     "Wortlisten/207 am häufigsten.md",
-    "Wörter/Zusammenarbeit.md",
-    "Wörter/sieben.md",
+    "Texte/Gedichte/Rammstein/Du hast.md",
+    "Wörter/Du.md",
+    "Wörter/ein.md",
     "Wörter/eine.md",
-    "Wörter/die.md",
+    "Lektionen/Bekker/1.md",
+    "Wörter/Neunzehn.md",
+    "Wörter/Zehn.md",
+    "Wörter/Neun.md",
+    "Wörter/Zwanzig.md",
+    "Wörter/Siebzehn.md",
+    "Wörter/Achtzehn.md",
+    "Wörter/Acht.md",
+    "Wörter/–Acht.md",
+    "Wörter/Sechzehn.md",
+    "Wörter/Sechs.md",
+    "Wörter/Sech.md",
+    "Wörter/Fünfzehn.md",
+    "Wörter/Vierzehn.md",
+    "Wörter/Zwölf.md",
+    "Wörter/Dreizehn.md",
+    "Wörter/sieben.md",
+    "Wörter/Fünf.md",
+    "Wörter/Elf.md",
+    "Lektionen/Bekker",
+    "Anhänge/icons",
     "Anhänge",
     "LICENSE",
     "Texte/Skripte",
-    "Welcome.md",
     "Lektionen",
     "Texte/Ditor",
     "Texte/Italkie",
     "Texte/Gedichte",
-    "Texte",
-    "Wortlisten",
-    "Wörter"
+    "Texte"
   ]
 }
