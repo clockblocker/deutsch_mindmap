@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🔢",
-      "3️⃣",
-      "2️⃣",
-      "🔟",
-      "4️⃣"
+      "🌜",
+      "🏃‍♂️",
+      "🔵",
+      "🟢",
+      "🔢"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,16 @@
   "Wörter/Sechzehn.md": "🔢",
   "Wörter/Siebzehn.md": "🔢",
   "Wörter/Achtzehn.md": "🔢",
-  "Wörter/Zwanzig.md": "🔢"
+  "Wörter/Zwanzig.md": "🔢",
+  "Wörter/Tod.md": "🔵",
+  "Wörter/spiele.md": "🏃‍♂️",
+  "Wörter/Spielen.md": "🏃‍♂️",
+  "Wörter/spielst.md": "🏃‍♂️",
+  "Wörter/spielt.md": "🏃‍♂️",
+  "Wörter/Du.md": "🌜",
+  "Wörter/er.md": "🌜",
+  "Wörter/es.md": "🌜",
+  "Wörter/Ich.md": "🌜",
+  "Wörter/ihr.md": "🌜",
+  "Wörter/sie.md": "🌜"
 }

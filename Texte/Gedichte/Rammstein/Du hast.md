@@ -1,5 +1,5 @@
-[[Du]], du hast, du hast mich  
-Du, du hast, du hast mich  
+[[Du]], du [[hast]], du hast mich  
+Du, du hast, [[du]] hast mich  
 Du, du hast, du hast mich  
 Du, du hast, du hast mich
 
@@ -7,7 +7,7 @@ Du, du hast, du hast mich, du hast mich
 Du hast mich gefragt, du hast mich gefragt  
 Du hast mich gefragt und ich hab nichts gesagt
 
-Willst du bis der Tod euch scheidet  
+Willst du bis der [[Tod]] euch scheidet  
 Treu ihr sein für alle Tage?  
 Nein!  
 Nein!

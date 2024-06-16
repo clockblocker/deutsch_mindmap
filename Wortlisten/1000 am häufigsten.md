@@ -1,20 +1,5 @@
-[[der]] [[die]] [[und]] [[in]] [[den]] [[von]] [[zu]] [[das]] [[mit]] [[sich]] [[des]] [[auf]] [[für]] [[ist]] [[im]] [[dem]] [[nicht]] [[ein]] [[eine]] [[als]] [[auch]] [[es]] [[an]] [[werden]]
-
-[[aus]] [[er]] [[hat]] [[dass]] [[sie]] [[nach]] [[wird]] [[bei]] [[einer]] [[um]] [[am]] [[sind]] [[noch]] [[wie]] [[einem]] [[über]] [[einen]] [[so]] [[zum]] [[war]] [[haben]] [[nur]] [[oder]]
-
-[[aber]] [[vor]] [[zur]] [[bis]] [[mehr]] [[durch]] [[man]] [[sein]] [[wurde]] [[sei]] [[in]] [[Prozent]] [[hatte]] [[kann]] [[gegen]] [[vom]] [[können]] [[schon]] [[wenn]] [[habe]]
-
-[[seine]] [[Euro]] [[ihre]] [[dann]] [[unter]] [[wir]] [[soll]] [[ich]] [[eines]] [[es]] [[Jahr]] [[zwei]] [[Jahren]] [[diese]] [[wieder]] [[keine]] [[Uhr]] [[seiner]] [[worden]]
-
-[[und]] [[will]] [[zwischen]] [[immer]] [[Millionen]] [[ein]] [[was]] [[sagte]] [[er]] [[gibt]] [[alle]] [[diesem]] [[seit]] [[muss]] [[wurden]] [[beim]] [[doch]] [[jetzt]]
-
-[[waren]] [[drei]] [[Jahre]] [[mit]] [[neue]] [[neuen]] [[damit]] [[bereits]] [[da]] [[auch]] [[ihr]] [[seinen]] [[müssen]] [[ab]] [[ihrer]] [[nach]] [[ohne]] [[sondern]]
-
-[[selbst]] [[ersten]] [[nun]] [[etwa]] [[bei]] [[heute]] [[ihren]] [[weil]] [[ihm]] [[seien]] [[Menschen]] [[Deutschland]] [[anderen]] [[werde]] [[ich]] [[sagt]] [[wir]]
-
-[[eine]] [[rund]] [[für]] [[aber]] [[ihn]] [[Ende]] [[jedoch]] [[Zeit]] [[sollen]] [[ins]] [[wenn]] [[so]] [[seinem]] [[uns]] [[Stadt]] [[geht]] [[doch]] [[sehr]] [[hier]] [[ganz]]
-
-[[erst]] [[wollen]] [[Berlin]] [[vor]] [[allem]] [[sowie]] [[hatten]] [[kein]] [[deutschen]] [[machen]] [[lassen]] [[als]] [[Unternehmen]] [[andere]] [[ob]] [[dieses]]
+[[der]] [[die]] [[und]] [[in]] [[den]] [[von]] [[zu]] [[das]] [[mit]] [[sich]] [[des]] [[auf]] [[für]] [[ist]] [[im]] [[dem]] [[nicht]] [[ein]] [[eine]] [[als]] [[auch]] [[es]] [[an]] [[werden]] [[aus]] [[er]] [[hat]] [[dass]] [[sie]] [[nach]] [[wird]] [[bei]] [[einer]] [[um]] [[am]] [[sind]] [[noch]] [[wie]] [[einem]] [[über]] [[einen]] [[so]] [[zum]] [[war]] [[haben]] [[nur]] [[oder]]
+[[aber]] [[vor]] [[zur]] [[bis]] [[mehr]] [[durch]] [[man]] [[sein]] [[wurde]] [[sei]] [[in]] [[Prozent]] [[hatte]] [[kann]] [[gegen]] [[vom]] [[können]] [[schon]] [[wenn]] [[habe]] [[seine]] [[Euro]] [[ihre]] [[dann]] [[unter]] [[wir]] [[soll]] [[ich]] [[eines]] [[es]] [[Jahr]] [[zwei]] [[Jahren]] [[diese]] [[wieder]] [[keine]] [[Uhr]] [[seiner]] [[worden]] [[und]] [[will]] [[zwischen]] [[immer]] [[Millionen]] [[ein]] [[was]] [[sagte]] [[er]] [[gibt]] [[alle]] [[diesem]] [[seit]] [[muss]] [[wurden]] [[beim]] [[doch]] [[jetzt]] [[waren]] [[drei]] [[Jahre]] [[mit]] [[neue]] [[neuen]] [[damit]] [[bereits]] [[da]] [[auch]] [[ihr]] [[seinen]] [[müssen]] [[ab]] [[ihrer]] [[nach]] [[ohne]] [[sondern]] [[selbst]] [[ersten]] [[nun]] [[etwa]] [[bei]] [[heute]] [[ihren]] [[weil]] [[ihm]] [[seien]] [[Menschen]] [[Deutschland]] [[anderen]] [[werde]] [[ich]] [[sagt]] [[wir]]  [[eine]] [[rund]] [[für]] [[aber]] [[ihn]] [[Ende]] [[jedoch]] [[Zeit]] [[sollen]] [[ins]] [[wenn]] [[so]] [[seinem]] [[uns]] [[Stadt]] [[geht]] [[doch]] [[sehr]] [[hier]] [[ganz]] [[erst]] [[wollen]] [[Berlin]] [[vor]] [[allem]] [[sowie]] [[hatten]] [[kein]] [[deutschen]] [[machen]] [[lassen]] [[als]] [[Unternehmen]] [[andere]] [[ob]] [[dieses]]
 
 [[steht]] [[dabei]] [[wegen]] [[weiter]] [[denn]] [[beiden]] [[einmal]] [[etwas]] [[wie]] [[nichts]] [[allerdings]] [[vier]] [[gut]] [[viele]] [[wo]] [[viel]] [[dort]] [[alles]]
 
