@@ -1,3 +1,6 @@
+inf: [[Spielen]]
+
+
  [[Ich]] [[spiele]], 
  [[du]] [[spielst]]
  [[er]] [[spielt]],
