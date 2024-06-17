@@ -21,7 +21,7 @@ Beispiele:
 
 
 ---
-Translation:
+**Übersetzung**:
 
 
 

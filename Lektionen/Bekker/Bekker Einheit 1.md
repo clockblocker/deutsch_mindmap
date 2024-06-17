@@ -1,3 +1,8 @@
+
+[[Bekker]]
+[[Bekker Einheit 1]]
+[[Bekker Einheit 2]]
+
 [[Eins]] – [[zwei]] – [[Drei]] – [[Vier]] – [[Fünf]] – [[Sechs]] – [[sieben]] – [[Acht]] – [[Neun]] – [[Zehn]] – [[Elf]] – [[Zwölf]] – [[Dreizehn]] – [[Vierzehn]] – [[Fünfzehn]] – [[Sechzehn]] – [[Siebzehn]] – [[Achtzehn]] – [[Neunzehn]] – [[Zwanzig]].
 
   
@@ -13,7 +18,7 @@
 1. [[Spielen]]: [[Ich]] [[spiele]], [[Du]] [[spielst]], [[er]] [[spielt]], [[sie]] [[spielt]].
 2. [[stehen]]: [[Ich]] [[stehe]], [[Du]] [[stehst]], [[er]] [[steht]], [[sie]] [[steht]].
 3. [[schlafen]]: [[Ich]] [[schlafe]], [[Du]] [[schläfst]], [[er]] [[schläft]], [[sie]] [[schläft]].
-4. [[Jagen]]: [[Ich]] [[jage]], [[Du]] [[jagst]], [[er]] [[jagt]], [[sie]] [[jagt]].
+4. [[jagen]]: [[Ich]] [[jage]], [[Du]] [[jagst]], [[er]] [[jagt]], [[sie]] [[jagt]].
 
   
 1. [[Eins]], [[zwei]], [[Drei]], [[ein]], [[eine]], [[mein]], [[dein]], [[sein]].
@@ -27,3 +32,5 @@
 9. [[Sechzehn]], [[möchten]], [[Löcher]], [[Licht]].
 10. [[Zwanzig]], [[wichtig]], [[richtig]].
 11. [[Bär]], [[Märchen]], [[Mädchen]], [[Käse]], [[März]].
+
+

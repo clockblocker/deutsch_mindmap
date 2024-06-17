@@ -229,14 +229,158 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Infinitive/schlafen.md",
+                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a2ba28dc5562884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/jagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a76ae5a097bc0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3846e64a5559697e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b87949fc3cfd58f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/gejagt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e21c562db6f7e89e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagtest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b17d2259e06316f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df474e0ceb9f28b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagtet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "262224262d188142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46f054e286bc063a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52a131f30e5fa675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aae03e79a3f285ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Bekker/Bekker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0356ce34bc4bdba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -302,7 +446,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/Verben/Infinitive/schlafen.md",
+                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +463,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/Verben/Infinitive/schlafen.md",
+                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +486,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörter/Verben/Infinitive/schlafen.md"
+                "file": "Lektionen/Bekker/Bekker Einheit 1.md"
               }
             }
           }
@@ -368,35 +512,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "73013649bdce224f",
+  "active": "b0356ce34bc4bdba",
   "lastOpenFiles": [
-    "Wörter/Verben/Verbformen/geschlafen.md",
-    "Wörter/hab.md",
-    "Wörter/habe gesagt.md",
-    "Wörter/Verben/Infinitive/schlafen.md",
-    "Wörter/Verben/Verbformen/schlief.md",
-    "Wörter/Verben/Verbformen/schliefen.md",
-    "Wörter/Verben/Verbformen/schliefst.md",
-    "Wörter/Verben/Verbformen/schlaft.md",
-    "Wörter/Verben/Verbformen/schläft.md",
-    "Wörter/Verben/Verbformen/schläfst.md",
-    "Wörter/Verben/Verbformen/schlafe.md",
-    "Wörter/Verben/Verbformen/schlieft.md",
+    "Lektionen/Bekker/Bekker Einheit 2.md",
+    "Lektionen/Bekker/Bekker Einheit 3.md",
     "Lektionen/Bekker/Bekker Einheit 1.md",
-    "Templates/Verb.md",
-    "Wörter/Verben/Verbformen/sagtet.md",
-    "Wörter/Verben/Verbformen/sagten.md",
-    "Wörter/Verben/Verbformen/sagtest.md",
-    "Wörter/Verben/Verbformen/sagte.md",
-    "Wörter/Verben/Verbformen/sagt.md",
-    "Wörter/Verben/Verbformen/sagst.md",
+    "Lektionen/Bekker/Bekker.md",
     "Wörter/Decke.md",
+    "Wortlisten/100 adjectives.md",
+    "Wortlisten/50 verbs.md",
+    "Wortlisten/100 nouns.md",
+    "Wortlisten/50 nouns.md",
+    "Wortlisten/50 adjectives.md",
+    "Wortlisten/100 verbs.md",
+    "Wortlisten/50 verbs copy.md",
+    "Wörter/Schlecht.md",
+    "Wörter/Verben/Verbformen/jage.md",
+    "Wörter/Verben/Infinitive/jagen.md",
+    "Wörter/Verben/Verbformen/jagt.md",
+    "Wörter/Verben/Verbformen/jagst.md",
+    "Wörter/Verben/Verbformen/jagtet.md",
+    "Wörter/Verben/Verbformen/jagten.md",
+    "Wörter/Verben/Verbformen/jagtest.md",
+    "Wörter/gejagt.md",
+    "Wörter/Verben/Verbformen/jagte.md",
+    "Templates/Verb.md",
+    "Templates/Noun.md",
+    "Wörter/Verben/Infinitive/schlafen.md",
+    "Wörter/Verben/Verbformen/geschlafen.md",
     "Anhänge/Pasted image 20240617155113.png",
-    "Wörter/Verben/Infinitive/stehen.md",
-    "Wörter/Verben/Infinitive/spielen.md",
-    "Wörter/Verben/Infinitive/machen.md",
-    "Wörter/Verben/Infinitive/haben.md",
-    "Wörter/Verben/Infinitive/sagen.md",
     "Wörter/Phrasen",
     "Wörter/Artikels/Untitled",
     "Grammatik",
