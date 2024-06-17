@@ -419,12 +419,8 @@
             "id": "5c9de676a78163b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/stand.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -494,7 +490,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/Verben/Verbformen/stand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -511,7 +506,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/Verben/Verbformen/stand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -533,9 +527,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/stand.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -559,17 +551,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0dd1351b59a3225",
+  "active": "5c9de676a78163b7",
   "lastOpenFiles": [
-    "Wörter/Verben/Infinitive/stehen.md",
     "Wörter/Verben/Infinitive/spielen.md",
+    "Wörter/Verben/Infinitive/stehen.md",
+    "Wörter/Verben/Verbformen/gespielt.md",
+    "Texte/Gedichte/Rammstein/Du hast.md",
+    "Lektionen/Bekker/Bekker Einheit 1.md",
+    "Wörter/Verben/Verbformen/stand.md",
     "Wörter/Verben/Verbformen/standet.md",
     "Wörter/Verben/Verbformen/standen.md",
     "Wörter/Verben/Verbformen/standest.md",
     "Wörter/Verben/Verbformen/steht.md",
     "Wörter/Verben/Verbformen/stehst.md",
     "Wörter/Verben/Verbformen/stehe.md",
-    "Wörter/Verben/Verbformen/stand.md",
     "Wörter/gestanden.md",
     "Templates/Verb.md",
     "Wörter/Verben/Verbformen/spieltest.md",
@@ -579,9 +574,7 @@
     "Bilder/Drawing 2024-06-17 10.03.58.excalidraw.md",
     "images",
     "Bilder",
-    "Lektionen/Bekker/Bekker Einheit 1.md",
     "Templates/Noun.md",
-    "Wörter/Verben/Verbformen/gespielt.md",
     "Wörter/Verben/Verbformen/spiele.md",
     "Wörter/Verben/Verbformen/spielst.md",
     "Wörter/Verben/Verbformen/spielte.md",
@@ -589,7 +582,6 @@
     "Wörter/hast.md",
     "Wörter/Verben/Verbformen/spielt.md",
     "Wörter/Spielen.md",
-    "Wörter/die.md",
     "scripts/create-verb.js",
     "scripts",
     "Wörter/Articles",
