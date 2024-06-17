@@ -1,5 +1,5 @@
-[Ich will](https://genius.com/16069030/Rammstein-ich-will/Ich-will)  
-[Ich will](https://genius.com/18627439/Rammstein-ich-will/Ich-will)  
+[[Rammstein]]
+
 [[Ich]] [[will]]  
 Ich will  
 Ich will  

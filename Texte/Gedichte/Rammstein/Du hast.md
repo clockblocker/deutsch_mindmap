@@ -1,3 +1,5 @@
+[[Rammstein]]
+
 [[Du]], du [[hast]], du hast [[mich]]  
 Du, du hast, [[Du]] hast mich  
 Du, du hast, du hast mich  
@@ -38,3 +40,4 @@ Willst du bis der Tod euch scheidet
 Treu ihr sein?  
 Nein!  
 Nein!
+

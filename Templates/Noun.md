@@ -2,14 +2,13 @@ Singular: [[]]
 Plural: [[]]
 
 
-Translation:
-
----
 Beispiele:
 
+---
+Translation:
 
 
 ---
 
 #Noun
-#Masculine | #Feminine | #Neutral
+#Masculin | #Feminin | #Neuter 

@@ -1,3 +1,4 @@
+
 [[Nun]], [[liebe]] [[Kinder]], [[Gebt fein Acht]]  
 [[Ich]] [[bin]] [[die]] [[Stimme]] [[aus]] [[dem]] [[Kissen]]
 Ich [hab]' [[euch]] [[etwas]] [[mitgebracht]]  

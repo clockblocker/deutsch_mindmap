@@ -3,7 +3,7 @@ Past: [[]]
 Perfect: [[]]
 
 ---
-Translation:
+Beispiele:
 
 ---
 
@@ -21,7 +21,7 @@ Translation:
 
 
 ---
-Beispiele:
+Translation:
 
 
 

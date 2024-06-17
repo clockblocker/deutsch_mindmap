@@ -4,18 +4,239 @@
     "type": "split",
     "children": [
       {
-        "id": "d0bf424c4e5b301c",
+        "id": "ccfb76679ef86674",
         "type": "tabs",
         "children": [
           {
-            "id": "65f89b52dd0d949f",
+            "id": "c1598c1ac8b90e2b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9427cca222fa87b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/schlafen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e79338628d5326d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5218bd381a7177c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/geschlafen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9d33cf36b2d4966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schliefst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "696a99b7b546fb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schliefen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1a0da7a1300d814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlieft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45162d9d35187597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1fcc61b35a8cb03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/geschlafen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386b52ca49d1afeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlafe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be95ddc40866b3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schläfst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "400f60fe0596e718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schläft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46e6c3db943dc378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlaft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b10b79356e2aa3b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schliefst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f755b1f3eb59d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "498e148efb2b3966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schliefen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb92e28f4a1c2ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schliefen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21798dbf28c7c8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73013649bdce224f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/schlafen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -44,7 +265,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Nominative",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wörter/Verben/Infinitive/schlafen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wörter/Verben/Infinitive/schlafen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +341,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wörter/Verben/Infinitive/schlafen.md"
+              }
             }
           }
         ]
@@ -143,34 +368,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "65f89b52dd0d949f",
+  "active": "73013649bdce224f",
   "lastOpenFiles": [
-    "Bilder/Positions.excalidraw.md",
-    "Wörter/Konjunktion/Positionen/in.md",
-    "Wörter/Konjunktion/Positionen/unter.md",
-    "Wörter/Konjunktion/Positionen/neben.md",
-    "Wörter/Verben/Verbformen/gemacht.md",
+    "Wörter/Verben/Verbformen/geschlafen.md",
+    "Wörter/hab.md",
+    "Wörter/habe gesagt.md",
+    "Wörter/Verben/Infinitive/schlafen.md",
+    "Wörter/Verben/Verbformen/schlief.md",
+    "Wörter/Verben/Verbformen/schliefen.md",
+    "Wörter/Verben/Verbformen/schliefst.md",
+    "Wörter/Verben/Verbformen/schlaft.md",
+    "Wörter/Verben/Verbformen/schläft.md",
+    "Wörter/Verben/Verbformen/schläfst.md",
+    "Wörter/Verben/Verbformen/schlafe.md",
+    "Wörter/Verben/Verbformen/schlieft.md",
+    "Lektionen/Bekker/Bekker Einheit 1.md",
+    "Templates/Verb.md",
+    "Wörter/Verben/Verbformen/sagtet.md",
+    "Wörter/Verben/Verbformen/sagten.md",
+    "Wörter/Verben/Verbformen/sagtest.md",
+    "Wörter/Verben/Verbformen/sagte.md",
+    "Wörter/Verben/Verbformen/sagt.md",
+    "Wörter/Verben/Verbformen/sagst.md",
+    "Wörter/Decke.md",
+    "Anhänge/Pasted image 20240617155113.png",
+    "Wörter/Verben/Infinitive/stehen.md",
+    "Wörter/Verben/Infinitive/spielen.md",
     "Wörter/Verben/Infinitive/machen.md",
-    "Wörter/Verben/Verbformen/machtet.md",
-    "Wörter/Verben/Verbformen/machten.md",
-    "Wörter/Verben/Verbformen/machtest.md",
-    "Wörter/Verben/Verbformen/machte.md",
-    "Wörter/Verben/Verbformen/machst.md",
-    "Wörter/Verben/Verbformen/mache.md",
-    "Wörter/Verben/Verbformen/macht.md",
-    "Wortlisten/207 am häufigsten.md",
-    "Texte/Ditor/Position.md",
-    "Wörter/Konjunktion/Positionen/hinter.md",
-    "Wörter/Konjunktion/Positionen/vor.md",
-    "Wörter/Konjunktion/Positionen/auf.md",
-    "Wörter/Konjunktion/Positionen/an.md",
-    "Texte/Gedichte/Rammstein/Mein Herz brennt.md",
-    "Wörter/Konjunktion/aber.md",
-    "Wörter/Konjunktion/für.md",
-    "Wörter/Konjunktion/aus.md",
-    "Wörter/Kissen.md",
-    "Texte/Gedichte/Rammstein/Ich Will.md",
-    "Wörter/Phrasen/Gebt fein Acht.md",
+    "Wörter/Verben/Infinitive/haben.md",
+    "Wörter/Verben/Infinitive/sagen.md",
     "Wörter/Phrasen",
     "Wörter/Artikels/Untitled",
     "Grammatik",
@@ -184,7 +410,6 @@
     "Anhänge/Pasted image 20240617123522.png",
     "Texte/Ditor/Positionen.canvas",
     "Anhänge/Pasted image 20240617115750.png",
-    "Anhänge/Pasted image 20240617115107.png",
     "Wörter/Adjektive",
     "Wörter/Nomen",
     "Wörter/Konjunktion/Positionen",
