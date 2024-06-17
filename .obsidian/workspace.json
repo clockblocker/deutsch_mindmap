@@ -4,419 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "87581a05e11c86fb",
+        "id": "f2f64faf4a93cbe0",
         "type": "tabs",
         "children": [
           {
-            "id": "a98c9996826eb990",
+            "id": "9e631d34a6a53a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Articles/eine.md",
+                "file": "Grammatik/Accusativ.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1fa2c6fb0a21266",
+            "id": "e4285cab6bf47f56",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Bilder/Positions.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5fe8e991ca03ae39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Zahlwörter/Achtzehn.md",
+                "file": "Wörter/Konjunktion/Positionen/neben.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "08c311701f9407f7",
+            "id": "74253f9e824fdad1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Zahlwörter/Siebzehn.md",
+                "file": "Wörter/Konjunktion/Positionen/unter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3c67e56417de37aa",
+            "id": "ce69e3852f2f50a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Zahlwörter/Vierzehn.md",
+                "file": "Wörter/Konjunktion/Positionen/in.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4128f71abe4b9fe5",
+            "id": "11a6ef3677f8db78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Wörter/Zahlwörter/Zehn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9787c8089584d553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Zahlwörter/Neun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b312fbc6f9223e8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/unregelmäßige.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0695c2ee664f704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Zahlwörter/Drei.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c6b4c145753381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Articles/ein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd47f9d164f7acf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Articles/einen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "702ebf3bdcf07445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Articles/ein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d4db024c43a1552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Articles/einer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a39e981a4b74ba7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Articles/ein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf9f9eaff6e6945f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Articles/eines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d845d9d2aa0fc10d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Articles/ein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2d28e027f8e8d3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Infinitive/spielen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ce4216c851f43af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/spielte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ad1a8bdb43cd7a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/gespielt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1db4148fc0c9cd79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/spiele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a43833b2b1ef0cd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/spielst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a6d5542ca66d56e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/spielt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "277a71cf3ff510bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Infinitive/stehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55bc8e7f75a1a4cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/stehe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbccd058ee13e18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/steht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1d29161c37aa03d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/stehst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bd90664a10e94d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/gestanden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a14afb94c0688a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/stand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab6f0247a9a3fcbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Infinitive/stehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08402d51f8e80d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/stehe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daed5aa6d05889fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/stehst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f92986a4cb57bf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/steht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "818766b5cf9e0458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Infinitive/stehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c57c3faa79d35b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/standest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50f8d453fe748285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Noun.md",
-                "mode": "source",
-                "source": false
+                "file": "Bilder/Positions.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 33
+        ]
       }
     ],
     "direction": "vertical"
@@ -445,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Nominative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -466,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 200
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -482,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Noun.md",
+                "file": "Grammatik/Accusativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -499,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Noun.md",
+                "file": "Grammatik/Accusativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -522,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Noun.md"
+                "file": "Grammatik/Accusativ.md"
               }
             }
           }
@@ -530,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -548,46 +207,56 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "50f8d453fe748285",
+  "active": "9e631d34a6a53a8e",
   "lastOpenFiles": [
-    "Templates/Verb.md",
-    "Templates/Noun.md",
-    "Lektionen/Bekker/Bekker Einheit 1.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Wörter/hast.md",
-    "Wörter/2024-06-17.md",
-    "Wörter/Tod.md",
-    "Wörter/unregelmäßige.md",
-    "Wörter/Urlaub.md",
-    "Wörter/Pronomen/wir.md",
-    "Wörter/Articles/die.md",
-    "Wörter/aber.md",
-    "Wörter/Verben/Verbformen/standen.md",
-    "Wörter/Verben/Infinitive/spielen.md",
-    "Wörter/Verben/Infinitive/stehen.md",
-    "Wörter/Verben/Verbformen/gespielt.md",
+    "Texte/Ditor/Position.md",
     "Texte/Gedichte/Rammstein/Du hast.md",
-    "Wörter/Verben/Verbformen/stand.md",
-    "Wörter/Verben/Verbformen/standet.md",
-    "Wörter/Verben/Verbformen/standest.md",
-    "Wörter/Verben/Verbformen/steht.md",
-    "Wörter/Verben/Verbformen/stehst.md",
-    "Wörter/Verben/Verbformen/stehe.md",
-    "Wörter/gestanden.md",
-    "Wörter/Verben/Verbformen/spieltest.md",
-    "Anhänge/stehen.png",
-    "Wörter/Verben/Verbformen/spielten.md",
-    "images/Pasted.md",
+    "Wörter/Artikels_/Artikels.md",
+    "Wörter/Artikels_/der.md",
+    "Wörter/Verben/Infinitive/haben.md",
+    "Wörter/Verben/Verbformen/hatte.md",
+    "Wörter/gehabt.md",
+    "Wörter/Verben/Verbformen/hattest.md",
+    "Wörter/Verben/Verbformen/hatten.md",
+    "Wörter/Verben/Verbformen/hattet.md",
+    "Wörter/Verben/Verbformen/habe.md",
+    "Wörter/Verben/Verbformen/hat.md",
+    "Wörter/Verben/Verbformen/hast.md",
+    "Wörter/Verben/Verbformen/habt.md",
+    "Wörter/Verben/Infinitive/spielen.md",
+    "Wörter/Pronomen/mich.md",
+    "Wörter/Konjunktion/für.md",
+    "Wörter/Artikels_/das.md",
+    "Wörter/euch.md",
+    "Wörter/des.md",
+    "Wörter/Artikels_/die.md",
+    "Wörter/Artikels_/einem.md",
+    "Wörter/Artikels.md",
+    "Wörter/Artikels/Untitled",
+    "Grammatik/Dativ.md",
+    "Grammatik/Accusativ.md",
+    "Grammatik",
+    "Templates/Noun.md",
+    "Anhänge/Pasted image 20240617130203.png",
+    "Anhänge/Pasted image 20240617125602.png",
+    "Anhänge/Pasted image 20240617125310.png",
+    "Anhänge/Pasted image 20240617125304.png",
+    "Anhänge/Pasted image 20240617124336.png",
+    "Anhänge/Pasted image 20240617123904.png",
+    "Anhänge/Pasted image 20240617123809.png",
+    "Anhänge/Pasted image 20240617123522.png",
+    "Texte/Ditor/Positionen.canvas",
+    "Anhänge/Pasted image 20240617115750.png",
+    "Anhänge/Pasted image 20240617115107.png",
+    "Wörter/Adjektive",
+    "Wörter/Nomen",
+    "Wörter/Konjunktion/Positionen",
+    "Wörter/Konjunktion",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "images",
     "Bilder",
     "scripts/create-verb.js",
-    "scripts",
-    "Wörter/Articles",
-    "Wörter/Pronomen",
-    "Wörter/Zahlwörter",
-    "Wörter/Verben/Infinitive",
-    "Wörter/Verben/Verbformen",
-    "Wörter/Verben"
+    "scripts"
   ]
 }
