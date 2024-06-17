@@ -4,383 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ccfb76679ef86674",
+        "id": "18c7a32b590dca87",
         "type": "tabs",
         "children": [
           {
-            "id": "c1598c1ac8b90e2b",
+            "id": "531fd512bd0c36f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9427cca222fa87b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Infinitive/schlafen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e79338628d5326d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schlief.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5218bd381a7177c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/geschlafen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9d33cf36b2d4966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schliefst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "696a99b7b546fb79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schliefen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1a0da7a1300d814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schlieft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45162d9d35187597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schlief.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1fcc61b35a8cb03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/geschlafen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "386b52ca49d1afeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schlafe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be95ddc40866b3eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schläfst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "400f60fe0596e718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schläft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46e6c3db943dc378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schlaft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b10b79356e2aa3b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schliefst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f755b1f3eb59d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schlief.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "498e148efb2b3966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schliefen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb92e28f4a1c2ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schliefen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21798dbf28c7c8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/schlief.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73013649bdce224f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a2ba28dc5562884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Infinitive/jagen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a76ae5a097bc0b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/jage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3846e64a5559697e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/jagte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b87949fc3cfd58f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/gejagt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e21c562db6f7e89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/jagtest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b17d2259e06316f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/jagten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df474e0ceb9f28b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/jagtet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "262224262d188142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/jagst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46f054e286bc063a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/jagt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52a131f30e5fa675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aae03e79a3f285ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Bekker/Bekker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0356ce34bc4bdba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 30
+        ]
       }
     ],
     "direction": "vertical"
@@ -409,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Masculin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -446,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -463,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lektionen/Bekker/Bekker Einheit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -485,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lektionen/Bekker/Bekker Einheit 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -512,34 +143,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b0356ce34bc4bdba",
+  "active": "531fd512bd0c36f9",
   "lastOpenFiles": [
-    "Lektionen/Bekker/Bekker Einheit 2.md",
+    "Wörter/Minister.md",
+    "Wörter/Nomen/Mutter.md",
+    "Wörter/Verben/Verbformen/sind.md",
+    "Wörter/Nomen/Hund.md",
+    "Wörter/Nomen/Hunde.md",
+    "Wörter/Nomen/Frauen.md",
+    "Wörter/Nomen/Frau.md",
+    "Wörter/Verben/Infinitive/sein.md",
+    "Wörter/Verben/Verbformen/war.md",
+    "Wörter/gewesen.md",
+    "Wörter/Verben/Verbformen/bin.md",
+    "Wörter/Verben/Verbformen/bist.md",
+    "Wörter/Verben/Verbformen/ist.md",
+    "Wörter/Verben/Verbformen/seid.md",
+    "Wörter/Verben/Verbformen/warst.md",
     "Lektionen/Bekker/Bekker Einheit 3.md",
-    "Lektionen/Bekker/Bekker Einheit 1.md",
-    "Lektionen/Bekker/Bekker.md",
-    "Wörter/Decke.md",
-    "Wortlisten/100 adjectives.md",
-    "Wortlisten/50 verbs.md",
-    "Wortlisten/100 nouns.md",
-    "Wortlisten/50 nouns.md",
-    "Wortlisten/50 adjectives.md",
-    "Wortlisten/100 verbs.md",
-    "Wortlisten/50 verbs copy.md",
-    "Wörter/Schlecht.md",
-    "Wörter/Verben/Verbformen/jage.md",
-    "Wörter/Verben/Infinitive/jagen.md",
-    "Wörter/Verben/Verbformen/jagt.md",
-    "Wörter/Verben/Verbformen/jagst.md",
-    "Wörter/Verben/Verbformen/jagtet.md",
-    "Wörter/Verben/Verbformen/jagten.md",
-    "Wörter/Verben/Verbformen/jagtest.md",
-    "Wörter/gejagt.md",
-    "Wörter/Verben/Verbformen/jagte.md",
-    "Templates/Verb.md",
-    "Templates/Noun.md",
-    "Wörter/Verben/Infinitive/schlafen.md",
-    "Wörter/Verben/Verbformen/geschlafen.md",
+    "Wörter/Nomen/Mann.md",
+    "Wörter/Nomen/Männer.md",
+    "Wörter/Nomen/Junge.md",
+    "Wörter/Nomen/Vater.md",
+    "Wörter/Nomen/Väter.md",
+    "Wörter/Nomen/Kind.md",
+    "Wörter/Nomen/Kinder.md",
+    "Wörter/Nomen/Opa.md",
+    "Wörter/Nomen/Opas.md",
+    "Wörter/Nomen/Mütter.md",
+    "Excalidraw",
+    "Texte/Misc",
     "Anhänge/Pasted image 20240617155113.png",
     "Wörter/Phrasen",
     "Wörter/Artikels/Untitled",
@@ -560,8 +193,6 @@
     "Wörter/Konjunktion",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "images",
-    "Bilder",
-    "scripts/create-verb.js"
+    "images"
   ]
 }

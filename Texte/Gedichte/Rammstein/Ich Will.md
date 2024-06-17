@@ -20,7 +20,7 @@ Ich will
 (Ich will) Ich will eure Hände sehen  
 (Ich will) in Beifall [[untergehen]]  
 
-[[Seht]] ihr mich?  
+[[seht]] ihr mich?  
 [[Versteht]] ihr mich?  
 [[Fühlt]] ihr mich?  
 [[Hört]] ihr mich?  

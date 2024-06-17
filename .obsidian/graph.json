@@ -5,18 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Wortlisten  ",
+      "color": {
+        "a": 1,
+        "rgb": 4144959
+      }
+    },
+    {
+      "query": "path:Lektionen/Bekker  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 2.40433178425574,
-  "lineSizeMultiplier": 0.185289395859738,
-  "collapse-forces": true,
-  "centerStrength": 0,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.55371310587598,
+  "lineSizeMultiplier": 0.423581776333604,
+  "collapse-forces": false,
+  "centerStrength": 0.294103709721094,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.6565294852661939,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.21650024901090847,
+  "close": true
 }

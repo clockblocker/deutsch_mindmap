@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🟢",
+      "🛍",
+      "🔵",
       "⛓",
-      "🏃‍♂️",
-      "🗒",
-      "👤",
-      "📖"
+      "🏃‍♂️"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,7 +32,6 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "Wörter/Tod.md": "🔵",
   "Wörter/Verben": "🏃‍♂️",
   "Wörter/Zahlwörter": "🔢",
   "Wörter/Zahlwörter/Dreizehn.md": "🔢",
@@ -98,5 +97,27 @@
   "Wörter/Konjunktion/aus.md": "⛓",
   "Wörter/Verben/Infinitive/sagen.md": "🏃‍♂️",
   "Wörter/Verben/Infinitive/schlafen.md": "🏃‍♂️",
-  "Wörter/Verben/Infinitive/jagen.md": "🏃‍♂️"
+  "Wörter/Verben/Infinitive/jagen.md": "🏃‍♂️",
+  "Wörter/Verben/Infinitive/sehen.md": "🏃‍♂️",
+  "Wörter/Verben/Infinitive/sein.md": "🏃‍♂️",
+  "Wörter/Nomen/Hunde.md": "🔵",
+  "Wörter/Nomen/Hund.md": "🔵",
+  "Wörter/Nomen/Frauen.md": "🛍",
+  "Wörter/Nomen/Mann.md": "🔵",
+  "Wörter/Nomen/Männer.md": "🔵",
+  "Wörter/Nomen/Frau.md": "🛍",
+  "Wörter/Nomen/Jungen.md": "🔵",
+  "Wörter/Nomen/Junge.md": "🔵",
+  "Wörter/Nomen/Mädchen.md": "🛍",
+  "Wörter/Nomen/Tod.md": "🔵",
+  "Wörter/Nomen/Vater.md": "🔵",
+  "Wörter/Nomen/Väter.md": "🔵",
+  "Wörter/Nomen/Opas.md": "🔵",
+  "Wörter/Nomen/Opa.md": "🔵",
+  "Wörter/Nomen/Kinder.md": "🟢",
+  "Wörter/Nomen/Kind.md": "🟢",
+  "Wörter/Nomen/Mutter.md": "🛍",
+  "Wörter/Nomen/Mütter.md": "🛍",
+  "Wörter/Nomen/Oma.md": "🛍",
+  "Wörter/Nomen/Omas.md": "🛍"
 }
