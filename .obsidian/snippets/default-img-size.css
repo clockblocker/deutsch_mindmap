@@ -1,0 +1,5 @@
+/* === Images size defaults === */
+.image-embed.image-embed img:not([width]) {
+  max-height: 250px;
+  max-width: 300px;
+}

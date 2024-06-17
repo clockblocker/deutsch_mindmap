@@ -32,6 +32,7 @@ Tags:
 [Verb]
 [Ablaut] | [Schwache]
 [Unregelmäßige] | [Regelmäßige]
+[Inf] | [Form]
 
 ---
 Präteritum

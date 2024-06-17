@@ -265,46 +265,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Verbformen/spieltest.md",
+                "file": "Wörter/Verben/Infinitive/stehen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c729f151d111a4b1",
+            "id": "55bc8e7f75a1a4cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Verbformen/spielten.md",
+                "file": "Wörter/Verben/Verbformen/stehe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea623baae090ce0e",
+            "id": "bbccd058ee13e18f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Verbformen/spieltet.md",
+                "file": "Wörter/Verben/Verbformen/steht.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7b1478c55970947",
+            "id": "f1d29161c37aa03d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stehst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bd90664a10e94d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/gestanden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a14afb94c0688a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab6f0247a9a3fcbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/stehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08402d51f8e80d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stehe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daed5aa6d05889fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stehst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f92986a4cb57bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/steht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "818766b5cf9e0458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/stehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c57c3faa79d35b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/standest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50f8d453fe748285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/standen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c9de676a78163b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stand.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -370,6 +494,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wörter/Verben/Verbformen/stand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,6 +511,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wörter/Verben/Verbformen/stand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -407,7 +533,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stand.md"
+              }
             }
           }
         ]
@@ -431,43 +559,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7b1478c55970947",
+  "active": "d0dd1351b59a3225",
   "lastOpenFiles": [
-    "Wörter/Verben/Verbformen/spiele.md",
+    "Wörter/Verben/Infinitive/stehen.md",
     "Wörter/Verben/Infinitive/spielen.md",
-    "Wörter/Verben/Verbformen/spieltet.md",
-    "Wörter/Verben/Verbformen/spielten.md",
-    "Wörter/Verben/Verbformen/spieltest.md",
-    "Wörter/Verben/Verbformen/spielt.md",
-    "Wörter/Verben/Verbformen/spielst.md",
-    "Wörter/Verben/Verbformen/gespielt.md",
-    "Wörter/Verben/Verbformen/spielte.md",
+    "Wörter/Verben/Verbformen/standet.md",
+    "Wörter/Verben/Verbformen/standen.md",
+    "Wörter/Verben/Verbformen/standest.md",
+    "Wörter/Verben/Verbformen/steht.md",
+    "Wörter/Verben/Verbformen/stehst.md",
+    "Wörter/Verben/Verbformen/stehe.md",
+    "Wörter/Verben/Verbformen/stand.md",
+    "Wörter/gestanden.md",
     "Templates/Verb.md",
-    "Wörter/Spielen.md",
+    "Wörter/Verben/Verbformen/spieltest.md",
+    "Anhänge/stehen.png",
+    "Wörter/Verben/Verbformen/spielten.md",
+    "images/Pasted.md",
+    "Bilder/Drawing 2024-06-17 10.03.58.excalidraw.md",
+    "images",
+    "Bilder",
+    "Lektionen/Bekker/Bekker Einheit 1.md",
     "Templates/Noun.md",
+    "Wörter/Verben/Verbformen/gespielt.md",
+    "Wörter/Verben/Verbformen/spiele.md",
+    "Wörter/Verben/Verbformen/spielst.md",
+    "Wörter/Verben/Verbformen/spielte.md",
+    "Wörter/Verben/Verbformen/spieltet.md",
+    "Wörter/hast.md",
+    "Wörter/Verben/Verbformen/spielt.md",
+    "Wörter/Spielen.md",
     "Wörter/die.md",
     "scripts/create-verb.js",
     "scripts",
-    "Wörter/Articles/einer.md",
-    "Wörter/Tod.md",
-    "Wörter/Articles/einem.md",
-    "Wörter/Articles/einen.md",
-    "Wörter/Articles/ein.md",
-    "Wörter/Articles/eine.md",
-    "Wörter/Articles/eines.md",
     "Wörter/Articles",
-    "Wörter/Pronomen/Du.md",
-    "Wörter/Pronomen/Drawing 2024-06-17 08.27.58.excalidraw.md",
-    "Wörter/aber.md",
-    "Wörter/Zahlwörter/Zwölf.md",
     "Wörter/Pronomen",
-    "Wörter/Zahlwörter/zwei.md",
-    "Wörter/Zahlwörter/Zwanzig.md",
     "Wörter/Zahlwörter",
     "Wörter/Verben/Infinitive",
     "Wörter/Verben/Verbformen",
-    "Wörter/Verben",
-    "Templates",
-    "Texte/Gedichte/Rammstein"
+    "Wörter/Verben"
   ]
 }

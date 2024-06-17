@@ -11,7 +11,7 @@
   
 
 1. [[Spielen]]: [[Ich]] [[spiele]], [[Du]] [[spielst]], [[er]] [[spielt]], [[sie]] [[spielt]].
-2. [[Stehen]]: [[Ich]] [[stehe]], [[Du]] [[stehst]], [[er]] [[steht]], [[sie]] [[steht]].
+2. [[stehen]]: [[Ich]] [[stehe]], [[Du]] [[stehst]], [[er]] [[steht]], [[sie]] [[steht]].
 3. [[Schlafen]]: [[Ich]] [[schlafe]], [[Du]] [[schläfst]], [[er]] [[schläft]], [[sie]] [[schläft]].
 4. [[Jagen]]: [[Ich]] [[jage]], [[Du]] [[jagst]], [[er]] [[jagt]], [[sie]] [[jagt]].
 
