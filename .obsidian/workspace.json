@@ -409,22 +409,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Verbformen/standen.md",
+                "file": "Templates/Noun.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5c9de676a78163b7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 34
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -490,6 +482,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Noun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -506,6 +499,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Noun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -527,7 +521,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Noun.md"
+              }
             }
           }
         ]
@@ -548,40 +544,43 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "5c9de676a78163b7",
+  "active": "50f8d453fe748285",
   "lastOpenFiles": [
+    "Templates/Verb.md",
+    "Templates/Noun.md",
+    "Lektionen/Bekker/Bekker Einheit 1.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Wörter/hast.md",
+    "Wörter/2024-06-17.md",
+    "Wörter/Tod.md",
+    "Wörter/unregelmäßige.md",
+    "Wörter/Urlaub.md",
+    "Wörter/Pronomen/wir.md",
+    "Wörter/Articles/die.md",
+    "Wörter/aber.md",
+    "Wörter/Verben/Verbformen/standen.md",
     "Wörter/Verben/Infinitive/spielen.md",
     "Wörter/Verben/Infinitive/stehen.md",
     "Wörter/Verben/Verbformen/gespielt.md",
     "Texte/Gedichte/Rammstein/Du hast.md",
-    "Lektionen/Bekker/Bekker Einheit 1.md",
     "Wörter/Verben/Verbformen/stand.md",
     "Wörter/Verben/Verbformen/standet.md",
-    "Wörter/Verben/Verbformen/standen.md",
     "Wörter/Verben/Verbformen/standest.md",
     "Wörter/Verben/Verbformen/steht.md",
     "Wörter/Verben/Verbformen/stehst.md",
     "Wörter/Verben/Verbformen/stehe.md",
     "Wörter/gestanden.md",
-    "Templates/Verb.md",
     "Wörter/Verben/Verbformen/spieltest.md",
     "Anhänge/stehen.png",
     "Wörter/Verben/Verbformen/spielten.md",
     "images/Pasted.md",
-    "Bilder/Drawing 2024-06-17 10.03.58.excalidraw.md",
     "images",
     "Bilder",
-    "Templates/Noun.md",
-    "Wörter/Verben/Verbformen/spiele.md",
-    "Wörter/Verben/Verbformen/spielst.md",
-    "Wörter/Verben/Verbformen/spielte.md",
-    "Wörter/Verben/Verbformen/spieltet.md",
-    "Wörter/hast.md",
-    "Wörter/Verben/Verbformen/spielt.md",
-    "Wörter/Spielen.md",
     "scripts/create-verb.js",
     "scripts",
     "Wörter/Articles",

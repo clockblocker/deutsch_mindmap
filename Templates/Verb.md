@@ -29,10 +29,10 @@ Beispiele:
 ---
 
 Tags: 
-[Verb]
-[Ablaut] | [Schwache]
-[Unregelmäßige] | [Regelmäßige]
-[Inf] | [Form]
+#Verb
+#Ablaut | #Schwache
+#Unregelmäßige | #Regelmäßige
+#Inf | #Form
 
 ---
 Präteritum

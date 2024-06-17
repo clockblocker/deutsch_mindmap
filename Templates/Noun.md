@@ -12,5 +12,5 @@ Beispiele:
 Tags: 
 
 Tags: 
-[Noun]
-[Masculine] | [Feminine] | [Neutral]
+#Noun
+#Masculine | #Feminine | #Neutral

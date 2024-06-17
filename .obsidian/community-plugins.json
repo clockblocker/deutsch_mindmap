@@ -2,5 +2,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
   "templater-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "better-word-count",
+  "omnisearch",
+  "colored-tags-wrangler"
 ]
