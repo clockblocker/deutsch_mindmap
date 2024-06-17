@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⛓",
       "🏃‍♂️",
       "🗒",
       "👤",
-      "📖",
-      "🏔"
+      "📖"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -93,5 +93,7 @@
   "Wörter/Artikels_/das.md": "🅰",
   "Wörter/Artikels_/der.md": "🅰",
   "Wörter/Artikels_/Artikels.md": "🗒",
-  "Wörter/Verben/Infinitive/haben.md": "🏃‍♂️"
+  "Wörter/Verben/Infinitive/haben.md": "🏃‍♂️",
+  "Wörter/Verben/Infinitive/machen.md": "🏃‍♂️",
+  "Wörter/Konjunktion/aus.md": "⛓"
 }

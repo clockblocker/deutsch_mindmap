@@ -35,7 +35,7 @@
 [[Kampf]] [[weder]] [[tatsächlich]] [[Personen]] [[heute]] [[geführt]] [[Gespräch]] [[Kreis]] [[Hamburger]] [[Schule]] [[guten]] [[Hauptstadt]]
 [[durchaus]] [[Zusammenarbeit]] [[darin]] [[Amt]] [[Schritt]] [[meist]] [[groß]] [[zufolge]] [[Sprache]] [[Region]] [[Punkte]] [[Vergleich]] [[genommen]]
 [[gleichen]] [[Du]] [[ob]] [[Soldaten]] [[Universität]] [[verschiedenen]] [[Kollegen]] [[neues]] [[Bürgermeister]] [[Angst]] [[Unterstützung]]
-[[stellte]] [[Sommer]] [[danach]] [[anderer]] [[gesagt]] [[Sicherheit]] [[Macht]] [[Bau]] [[handelt]] [[Folge]] [[Bilder]] [[lag]] [[Osten]] [[Handel]] [[sprach]] [[Aufgabe]]
+[[stellte]] [[Sommer]] [[danach]] [[anderer]] [[gesagt]] [[Sicherheit]] [[macht]] [[Bau]] [[handelt]] [[Folge]] [[Bilder]] [[lag]] [[Osten]] [[Handel]] [[sprach]] [[Aufgabe]]
 [[Chef]] [[frei]] [[dennoch]] [[hohe]] [[Firmen]] [[Koalition]] [[Mädchen]] [[zur]] [[entwickelt]] [[fand]] [[Diskussion]] [[bringt]] [[deshalb]] [[Hause]] [[Gefahr]] [[per]]
 [[zugleich]] [[früheren]] [[dadurch]] [[ganzen]] [[abend]] [[erzählt]] [[Streit]] [[Vergangenheit]] [[Parteien]] [[Verhandlungen]] [[jedenfalls]] [[gesehen]]
 [[französischen]] [[Trotz]] [[darunter]] [[Spieler]] [[forderte]] [[Meinung]] [[wenigen]] [[Publikum]] [[sowohl]] [[meinte]] [[mag]] [[Auto]] [[Lösung]] [[Boden]]

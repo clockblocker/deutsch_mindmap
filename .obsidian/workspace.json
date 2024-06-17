@@ -4,75 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f64faf4a93cbe0",
+        "id": "d0bf424c4e5b301c",
         "type": "tabs",
         "children": [
           {
-            "id": "9e631d34a6a53a8e",
+            "id": "65f89b52dd0d949f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammatik/Accusativ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4285cab6bf47f56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Bilder/Positions.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5fe8e991ca03ae39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Konjunktion/Positionen/neben.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74253f9e824fdad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Konjunktion/Positionen/unter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce69e3852f2f50a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Konjunktion/Positionen/in.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11a6ef3677f8db78",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Bilder/Positions.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -125,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.500732421875
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -141,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grammatik/Accusativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grammatik/Accusativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Grammatik/Accusativ.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,36 +143,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e631d34a6a53a8e",
+  "active": "65f89b52dd0d949f",
   "lastOpenFiles": [
+    "Bilder/Positions.excalidraw.md",
+    "Wörter/Konjunktion/Positionen/in.md",
+    "Wörter/Konjunktion/Positionen/unter.md",
+    "Wörter/Konjunktion/Positionen/neben.md",
+    "Wörter/Verben/Verbformen/gemacht.md",
+    "Wörter/Verben/Infinitive/machen.md",
+    "Wörter/Verben/Verbformen/machtet.md",
+    "Wörter/Verben/Verbformen/machten.md",
+    "Wörter/Verben/Verbformen/machtest.md",
+    "Wörter/Verben/Verbformen/machte.md",
+    "Wörter/Verben/Verbformen/machst.md",
+    "Wörter/Verben/Verbformen/mache.md",
+    "Wörter/Verben/Verbformen/macht.md",
+    "Wortlisten/207 am häufigsten.md",
     "Texte/Ditor/Position.md",
-    "Texte/Gedichte/Rammstein/Du hast.md",
-    "Wörter/Artikels_/Artikels.md",
-    "Wörter/Artikels_/der.md",
-    "Wörter/Verben/Infinitive/haben.md",
-    "Wörter/Verben/Verbformen/hatte.md",
-    "Wörter/gehabt.md",
-    "Wörter/Verben/Verbformen/hattest.md",
-    "Wörter/Verben/Verbformen/hatten.md",
-    "Wörter/Verben/Verbformen/hattet.md",
-    "Wörter/Verben/Verbformen/habe.md",
-    "Wörter/Verben/Verbformen/hat.md",
-    "Wörter/Verben/Verbformen/hast.md",
-    "Wörter/Verben/Verbformen/habt.md",
-    "Wörter/Verben/Infinitive/spielen.md",
-    "Wörter/Pronomen/mich.md",
+    "Wörter/Konjunktion/Positionen/hinter.md",
+    "Wörter/Konjunktion/Positionen/vor.md",
+    "Wörter/Konjunktion/Positionen/auf.md",
+    "Wörter/Konjunktion/Positionen/an.md",
+    "Texte/Gedichte/Rammstein/Mein Herz brennt.md",
+    "Wörter/Konjunktion/aber.md",
     "Wörter/Konjunktion/für.md",
-    "Wörter/Artikels_/das.md",
-    "Wörter/euch.md",
-    "Wörter/des.md",
-    "Wörter/Artikels_/die.md",
-    "Wörter/Artikels_/einem.md",
-    "Wörter/Artikels.md",
+    "Wörter/Konjunktion/aus.md",
+    "Wörter/Kissen.md",
+    "Texte/Gedichte/Rammstein/Ich Will.md",
+    "Wörter/Phrasen/Gebt fein Acht.md",
+    "Wörter/Phrasen",
     "Wörter/Artikels/Untitled",
-    "Grammatik/Dativ.md",
-    "Grammatik/Accusativ.md",
     "Grammatik",
-    "Templates/Noun.md",
     "Anhänge/Pasted image 20240617130203.png",
     "Anhänge/Pasted image 20240617125602.png",
     "Anhänge/Pasted image 20240617125310.png",
@@ -256,7 +193,6 @@
     "Untitled 1.canvas",
     "images",
     "Bilder",
-    "scripts/create-verb.js",
-    "scripts"
+    "scripts/create-verb.js"
   ]
 }
