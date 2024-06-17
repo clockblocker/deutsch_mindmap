@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/eine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d645cff5a7a9332d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/ein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9abc435f6988ab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Bekker/1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2885bd6b62a062cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/hast.md",
+                "file": "Wörter/Articles/eine.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Achtzehn.md",
+                "file": "Wörter/Zahlwörter/Achtzehn.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Siebzehn.md",
+                "file": "Wörter/Zahlwörter/Siebzehn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Vierzehn.md",
+                "file": "Wörter/Zahlwörter/Vierzehn.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Zehn.md",
+                "file": "Wörter/Zahlwörter/Zehn.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +73,238 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Neun.md",
+                "file": "Wörter/Zahlwörter/Neun.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b312fbc6f9223e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/unregelmäßige.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0695c2ee664f704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Zahlwörter/Drei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1c6b4c145753381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Articles/ein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd47f9d164f7acf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Articles/einen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "702ebf3bdcf07445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Articles/ein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d4db024c43a1552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Articles/einer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a39e981a4b74ba7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Articles/ein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf9f9eaff6e6945f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Articles/eines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d845d9d2aa0fc10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Articles/ein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2d28e027f8e8d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/spielen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ce4216c851f43af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ad1a8bdb43cd7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/gespielt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1db4148fc0c9cd79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spiele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a43833b2b1ef0cd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a6d5542ca66d56e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "277a71cf3ff510bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spieltest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c729f151d111a4b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea623baae090ce0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spieltet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7b1478c55970947",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -166,7 +354,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 330.5
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -182,7 +370,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lektionen/Bekker/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +386,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lektionen/Bekker/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +407,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lektionen/Bekker/1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -243,46 +427,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9abc435f6988ab1",
+  "active": "e7b1478c55970947",
   "lastOpenFiles": [
+    "Wörter/Verben/Verbformen/spiele.md",
+    "Wörter/Verben/Infinitive/spielen.md",
+    "Wörter/Verben/Verbformen/spieltet.md",
+    "Wörter/Verben/Verbformen/spielten.md",
+    "Wörter/Verben/Verbformen/spieltest.md",
+    "Wörter/Verben/Verbformen/spielt.md",
+    "Wörter/Verben/Verbformen/spielst.md",
+    "Wörter/Verben/Verbformen/gespielt.md",
+    "Wörter/Verben/Verbformen/spielte.md",
+    "Templates/Verb.md",
     "Wörter/Spielen.md",
-    "Wörter/spiele.md",
-    "Wörter/spielst.md",
-    "Wörter/spielt.md",
-    "Lektionen/Bekker/1.md",
+    "Templates/Noun.md",
     "Wörter/die.md",
-    "Wörter/eine.md",
-    "Wörter/Ich.md",
-    "Wörter/sie.md",
-    "Wörter/ihr.md",
-    "Wörter/wir.md",
-    "Wörter/es.md",
-    "Wörter/er.md",
-    "Wörter/Du.md",
-    "Texte/Gedichte/Rammstein/Du hast.md",
-    "Wörter/aber.md",
-    "Wortlisten/1000 am häufigsten.md",
-    "Wörter/Fünf.md",
-    "Wörter/Neun.md",
-    "Wörter/zwei.md",
-    "Wörter/Vier.md",
-    "Wortlisten/207 am häufigsten.md",
-    "Wörter/Fünfzehn.md",
-    "Wörter/Zehn.md",
+    "scripts/create-verb.js",
+    "scripts",
+    "Wörter/Articles/einer.md",
     "Wörter/Tod.md",
-    "Wörter/hast.md",
-    "Texte/Gedichte/Rammstein",
-    "Lektionen/Bekker",
-    "Anhänge/icons",
-    "Anhänge",
-    "LICENSE",
-    "Texte/Skripte",
-    "Lektionen",
-    "Texte/Ditor",
-    "Texte/Italkie",
-    "Texte/Gedichte"
+    "Wörter/Articles/einem.md",
+    "Wörter/Articles/einen.md",
+    "Wörter/Articles/ein.md",
+    "Wörter/Articles/eine.md",
+    "Wörter/Articles/eines.md",
+    "Wörter/Articles",
+    "Wörter/Pronomen/Du.md",
+    "Wörter/Pronomen/Drawing 2024-06-17 08.27.58.excalidraw.md",
+    "Wörter/aber.md",
+    "Wörter/Zahlwörter/Zwölf.md",
+    "Wörter/Pronomen",
+    "Wörter/Zahlwörter/zwei.md",
+    "Wörter/Zahlwörter/Zwanzig.md",
+    "Wörter/Zahlwörter",
+    "Wörter/Verben/Infinitive",
+    "Wörter/Verben/Verbformen",
+    "Wörter/Verben",
+    "Templates",
+    "Texte/Gedichte/Rammstein"
   ]
 }

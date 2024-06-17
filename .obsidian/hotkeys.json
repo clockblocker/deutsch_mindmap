@@ -1,0 +1,20 @@
+{
+  "templater-obsidian:Templates/Verb.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "V"
+    }
+  ],
+  "templater-obsidian:Templates/Noun.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "N"
+    }
+  ]
+}

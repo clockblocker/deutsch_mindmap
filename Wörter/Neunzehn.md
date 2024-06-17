@@ -1,3 +1,3 @@
 19
 
-[[Neun]][[zehn]]
+[[Neun]][[Zehn]]

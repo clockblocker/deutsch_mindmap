@@ -1,5 +1,5 @@
 [[Du]], du [[hast]], du hast mich  
-Du, du hast, [[du]] hast mich  
+Du, du hast, [[Du]] hast mich  
 Du, du hast, du hast mich  
 Du, du hast, du hast mich
 

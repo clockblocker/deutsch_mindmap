@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Wörter",
   "attachmentFolderPath": "Anhänge",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

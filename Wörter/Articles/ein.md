@@ -1,5 +1,5 @@
 **Masculine:**
-• Nominative: ein
+• Nominative: [[ein]]
 • Accusative: [[einen]]
 • Genitive: [[eines]]
 • Dative: [[einem]]
