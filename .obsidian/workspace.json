@@ -4,18 +4,1643 @@
     "type": "split",
     "children": [
       {
-        "id": "18c7a32b590dca87",
+        "id": "2898c9cc0097f903",
         "type": "tabs",
         "children": [
           {
-            "id": "531fd512bd0c36f9",
+            "id": "45d5765502e7f8c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Aleksa/18.06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d31fff23e6ecafc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Meine Körperteil tut weh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a63f7275876b598e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Nomen/Körperteil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a95722e84b558893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Nomen/Körperteil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "717ac91aa82358b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Nomen/Körper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12db3de4f65b4c1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Nomen/Körperteil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "070c95f32a6fffa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Nomen/Teil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c255355681e12f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/laufen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5430ae36421e043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/lief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f56df5b02c7c970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/gelaufen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cf2de9f74477954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/laufe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d96eb58deaf295b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/läufst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8cb80acabcf9f7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/läuft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ec35681f77b16f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/lauft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2bce424dd467c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/liefst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48c45c2f4b774f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfd96209d1e6e58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9858e289eb4b509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "547aa2a91128281a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/getan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ebf26383b8eedf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c02daa9f8b15d9b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1aa2a0824eb367f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tatest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b14adc7b4ff41f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/taten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ee6bc03c2b1c02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Gedichte/Rammstein/Ich Will.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "405b1625ba78ec8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/sehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31f4fc4c7f17f7de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/tun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00d878d744a134ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/tun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11da783aa81c1463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/getan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21fccce31d1e5ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/taten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94605db229021f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tatet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "755f0c6d4e9b8696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/taten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f9db57dd25b777f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "051f4254870f6477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tatest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "534058ee009a9860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/tun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84b4fa59d16da434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/tun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b81c908628d6f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c813349361c25bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5051d48bbafdf7f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/stehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ced271a8151ac471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/standen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2974da2257991c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/standet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18f12fe7bd81ff5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/standen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c03f38aa1c173979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56c5f51b3e154402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/standest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bf825f5d7743869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/stehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e76f3b69bdd7a2c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/steht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da7679c24a8b8680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/steht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1333ce92980f7a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stehst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cebc03a11b13209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stehe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff8267265b3aae47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/spielen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd10c3ba97a6f6bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12d0ecd531e7d387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spieltet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "576138e6d6a20228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e02ce59f0fe775d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07d3750a191499ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0056eb79af1b0d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spieltest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2f285c9956e71fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0d2f209ce8a2daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/spielen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b6b3c1630f44603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f342e2599a3aadab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea80b8cb7cf35c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b06a30eed803f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spielst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1017ffe3b30fd9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/spiele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5524860bdf88a055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/gespielt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57ea0e0ea8a2ac73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/schlafen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c951d22303cca20d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schliefen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73f361c90fa6be89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlieft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ad3f3e78e86b3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schliefen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8388d1e61ee8586a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4afcd9844610fe8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b694235c1ce347b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schliefst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "817fc620dee89974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6088a06d7646b10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/schlafen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6a84437fe5568e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlaft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59fa110899375c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schläft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55c297f24dbf7f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schläfst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a23e18ba14ef9bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/schlafe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6232cab6f928eed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/sagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53a5c2b1c6682a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a270cf87a00b2392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagtet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75d85ec9c391456a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bfc00e9d03afa13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagtet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39cc1b71fe801df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1f6234f2576cc86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagtest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "333d714f885e7ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a01c4c87bcdac01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/sagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06f7b08a63db49ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f0d4b3402e469d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ad3adebd0cc0a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sagst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "361583285a3d2c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/sage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a444e579bfac990b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/machen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebf4e8ad9c9ee863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/machten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad55ba2b72a39afb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/machtet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46d5ef583a159c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/machten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eee4c18f982c4287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/machte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3324b0fa55216832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/machtest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e484698fb0b49473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/machte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e2dae544402809e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/machen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e56f9537ae47f7ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/macht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "354cda5714dd6920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/machst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ef7f51f09e419cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/mache.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7bae391ad685d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/laufen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a38809904e5e1868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/lief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28cd3df97d643c33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/liefen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99c7303070c02528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/lieft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7722ed9e6f7b1f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/liefen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d17da00edb290e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/lief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86907a9d3e9e228a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/liefst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cdb31ff4b8ec4ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/lief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29b4e23ab8a2226e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/laufen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a384d6c74b56f966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/laufen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac0baed0ce96908a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/lauft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95f6f2295546ebe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/läuft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c52c7bec1881c0e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/läufst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4572c6cfec4218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/laufe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95fa245a94dd931f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/läufst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34659556139125a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/gelaufen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7392fea3630a07a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/jagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbe7aa055407010f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f8b407f298b8a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7436c04491a4c73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "576cfc247c121fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86997d663d67f19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jagst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46304949e64eb055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/jage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba1c4f99b88ea4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Infinitive/haben.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3215778b780c274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/hatte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5de370fd0f73a90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/hatte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04de97dbd157c845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/hattest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b47cc4c30f699bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/hatte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51e2c76b7a85c524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/habt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbca0333e0b46146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/hat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "352c6698675b545f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/hast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e264fef3c221a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/gehabt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67bf3433d30e55bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Nomen/Teil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72e400b1cce19a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Meine Körperteil tut weh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98f7a0ae3c5fc416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/tut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "102babe84e2e00c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Was tut denn weh?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 131
       }
     ],
     "direction": "vertical"
@@ -44,7 +1669,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Masculin",
+                "query": "tag:#Verb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +1706,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wörter/Verben/Verbformen/gehabt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +1723,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wörter/Verben/Verbformen/gehabt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +1745,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wörter/Verben/Verbformen/gehabt.md"
+              }
             }
           }
         ]
@@ -143,34 +1772,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "531fd512bd0c36f9",
+  "active": "1e264fef3c221a13",
   "lastOpenFiles": [
-    "Wörter/Minister.md",
-    "Wörter/Nomen/Mutter.md",
-    "Wörter/Verben/Verbformen/sind.md",
-    "Wörter/Nomen/Hund.md",
-    "Wörter/Nomen/Hunde.md",
-    "Wörter/Nomen/Frauen.md",
-    "Wörter/Nomen/Frau.md",
-    "Wörter/Verben/Infinitive/sein.md",
-    "Wörter/Verben/Verbformen/war.md",
-    "Wörter/gewesen.md",
-    "Wörter/Verben/Verbformen/bin.md",
-    "Wörter/Verben/Verbformen/bist.md",
-    "Wörter/Verben/Verbformen/ist.md",
-    "Wörter/Verben/Verbformen/seid.md",
-    "Wörter/Verben/Verbformen/warst.md",
-    "Lektionen/Bekker/Bekker Einheit 3.md",
-    "Wörter/Nomen/Mann.md",
-    "Wörter/Nomen/Männer.md",
-    "Wörter/Nomen/Junge.md",
-    "Wörter/Nomen/Vater.md",
-    "Wörter/Nomen/Väter.md",
-    "Wörter/Nomen/Kind.md",
-    "Wörter/Nomen/Kinder.md",
-    "Wörter/Nomen/Opa.md",
-    "Wörter/Nomen/Opas.md",
-    "Wörter/Nomen/Mütter.md",
+    "Wörter/Verben/Verbformen/habe.md",
+    "Wörter/Verben/Verbformen/hast.md",
+    "Wörter/Verben/Verbformen/hat.md",
+    "Wörter/Verben/Verbformen/habt.md",
+    "Wörter/Verben/Verbformen/hatte.md",
+    "Wörter/Verben/Verbformen/hattest.md",
+    "Wörter/Verben/Verbformen/hatten.md",
+    "Wörter/Verben/Verbformen/hattet.md",
+    "Wörter/Verben/Infinitive/haben.md",
+    "Wörter/Verben/Infinitive/jagen.md",
+    "Wörter/Verben/Infinitive/laufen.md",
+    "Wörter/gejagt.md",
+    "Wörter/Verben/Verbformen/jage.md",
+    "Wörter/Verben/Verbformen/jagst.md",
+    "Wörter/Verben/Verbformen/jagt.md",
+    "Wörter/Verben/Verbformen/jagte.md",
+    "Wörter/Verben/Verbformen/jagtest.md",
+    "Wörter/Verben/Verbformen/jagten.md",
+    "Wörter/Verben/Verbformen/jagtet.md",
+    "Wörter/Verben/Verbformen/gelaufen.md",
+    "Wörter/Verben/Verbformen/läufst.md",
+    "Wörter/Verben/Verbformen/laufe.md",
+    "Wörter/Verben/Verbformen/läuft.md",
+    "Wörter/Verben/Verbformen/lauft.md",
+    "Wörter/Verben/Verbformen/lief.md",
+    "Wörter/Verben/Verbformen/liefst.md",
+    "Anhänge/Pasted image 20240618100529.png",
+    "Anhänge/Pasted image 20240618091846.png",
     "Excalidraw",
     "Texte/Misc",
     "Anhänge/Pasted image 20240617155113.png",
@@ -184,9 +1815,7 @@
     "Anhänge/Pasted image 20240617124336.png",
     "Anhänge/Pasted image 20240617123904.png",
     "Anhänge/Pasted image 20240617123809.png",
-    "Anhänge/Pasted image 20240617123522.png",
     "Texte/Ditor/Positionen.canvas",
-    "Anhänge/Pasted image 20240617115750.png",
     "Wörter/Adjektive",
     "Wörter/Nomen",
     "Wörter/Konjunktion/Positionen",

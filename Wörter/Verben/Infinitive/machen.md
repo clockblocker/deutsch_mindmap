@@ -3,8 +3,11 @@ Past: [[machte]]
 Perfect: [[gemacht]]
 
 ---
-Translation:
-to do, to make
+Beispiele:
+- Was machst du heute? 
+- Ich mache meine Hausaufgaben. 
+- Du machst das Abendessen. 
+
 
 ---
 
@@ -21,20 +24,15 @@ to do, to make
 | Sie | [[machen]] |
 
 ---
-Beispiele:
-- Ich mache meine Hausaufgaben. (I do my homework.)
-- Du machst das Abendessen. (You make dinner.)
-- Er macht eine Pause. (He takes a break.)
-- Wir machen eine Reise. (We are making a trip.)
-- Ihr macht ein Foto. (You [plural] take a photo.)
-- Sie machen Musik. (They/You [formal] make music.)
+Translate: to do
+
 
 ---
 
 Tags: 
 #Verb
 #Regelmäßige
-#Form #Inf 
+#Inf #Form
 
 ---
 Präteritum

@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Wortlisten  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -22,16 +22,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1.55371310587598,
-  "lineSizeMultiplier": 0.423581776333604,
+  "lineSizeMultiplier": 0.167170999187652,
   "collapse-forces": false,
   "centerStrength": 0.294103709721094,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.21650024901090847,
-  "close": true
+  "scale": 0.866948393325817,
+  "close": false
 }

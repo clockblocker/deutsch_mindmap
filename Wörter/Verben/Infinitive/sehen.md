@@ -4,7 +4,7 @@ Perfect: [[gesehen]]
 
 ---
 Beispiele:
-- 
+- [[Ich Will|Wir wollen eure Hände sehen]]  
 
 
 ---
@@ -29,7 +29,7 @@ to see
 
 Tags: 
 #Verb
-#Unregelmäßige
+#Ablaut 
 #Inf 
 
 ---

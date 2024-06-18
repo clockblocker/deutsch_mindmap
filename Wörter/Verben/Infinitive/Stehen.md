@@ -5,7 +5,7 @@ Perfect: [[gestanden]]
 ![img](/Anhänge/stehen.png)
 
 ---
-Translation: stand
+Beispiele:
 
 ---
 
@@ -23,7 +23,7 @@ Translation: stand
 
 
 ---
-Beispiele:
+Translation: stand
 
 
 
@@ -31,10 +31,9 @@ Beispiele:
 ---
 
 Tags: 
-[Verb]
-[Schwache]
-[Regelmäßige]
-[Form]
+#Verb
+#Regelmäßige
+#Inf #Form
 
 ---
 Präteritum

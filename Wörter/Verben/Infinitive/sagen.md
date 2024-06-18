@@ -4,7 +4,7 @@ Perfect: [[gesagt]]
 
 ---
 Beispiele:
-[[Du hast]] mich gefragt und ich hab nichts [[gesagt]]
+[[Du hast|Du hast mich gefragt und ich hab nichts **gesagt**]]
 
 ---
 
@@ -29,7 +29,7 @@ to say
 Tags: 
 #Verb
 #Regelmäßige
- #Inf
+#Inf #Form
 
 ---
 Präteritum
@@ -41,13 +41,3 @@ sie [[sagte]]
 wir [[sagten]]
 ihr [[sagtet]]
 Sie [[sagten]]
-
-Perfekt
-Ich [[habe gesagt]]
-du [[hast gesagt]]
-er [[hat gesagt]]
-es [[hat gesagt]]
-sie [[hat gesagt]]
-wir [[haben gesagt]]
-ihr [[habt gesagt]]
-Sie [[haben gesagt]]

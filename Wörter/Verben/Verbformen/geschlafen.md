@@ -29,8 +29,7 @@ Translation: to sleep
 Tags: 
 #Verb
 #Ablaut
-#Regelmäßige
-#Form
+#Form 
 
 ---
 Präteritum
@@ -42,4 +41,3 @@ sie [[schlief]]
 wir [[schliefen]]
 ihr [[schlieft]]
 Sie [[schliefen]]
-

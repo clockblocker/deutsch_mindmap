@@ -29,9 +29,8 @@ to hunt
 
 Tags: 
 #Verb
-#Schwache
 #Regelmäßige
-#Inf 
+#Inf #Form 
 
 ---
 Präteritum

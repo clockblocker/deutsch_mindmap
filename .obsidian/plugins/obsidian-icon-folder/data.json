@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏃‍♂️",
+      "🏃‍♀️",
       "🟢",
       "🛍",
-      "🔵",
-      "⛓",
-      "🏃‍♂️"
+      "🔵"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -119,5 +119,12 @@
   "Wörter/Nomen/Mutter.md": "🛍",
   "Wörter/Nomen/Mütter.md": "🛍",
   "Wörter/Nomen/Oma.md": "🛍",
-  "Wörter/Nomen/Omas.md": "🛍"
+  "Wörter/Nomen/Omas.md": "🛍",
+  "Wörter/Nomen/Körperteile.md": "🔵",
+  "Wörter/Nomen/Körperteil.md": "🔵",
+  "Wörter/Nomen/Körper.md": "🔵",
+  "Wörter/Nomen/Teile.md": "🔵",
+  "Wörter/Nomen/Teil.md": "🔵",
+  "Wörter/Verben/Infinitive/laufen.md": "🏃‍♀️",
+  "Wörter/Verben/Infinitive/tun.md": "🏃‍♂️"
 }

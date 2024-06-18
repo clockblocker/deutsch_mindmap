@@ -29,8 +29,7 @@ Translation: to sleep
 Tags: 
 #Verb
 #Ablaut
-#Regelmäßige
-#Inf 
+#Inf #Form 
 
 ---
 Präteritum

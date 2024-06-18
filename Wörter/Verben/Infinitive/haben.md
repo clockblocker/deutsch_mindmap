@@ -3,8 +3,8 @@ Past: [[hatte]]
 Perfect: [[gehabt]]
 
 ---
-Translation:
-to have
+Beispiele:
+
 
 ---
 
@@ -21,14 +21,15 @@ to have
 | Sie | [[haben]]|
 
 ---
-Beispiele:
+Translation:
+to have
 
 ---
 
 Tags: 
 #Verb
 #Unregelmäßige
-#Inf
+#Inf #Form 
 
 ---
 Präteritum

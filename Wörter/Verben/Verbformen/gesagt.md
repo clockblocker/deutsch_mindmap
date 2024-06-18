@@ -3,8 +3,8 @@ Past: [[sagte]]
 Perfect: [[gesagt]]
 
 ---
-Translation:
-to say
+Beispiele:
+[[Du hast|Du hast mich gefragt und ich hab nichts **gesagt**]]
 
 ---
 
@@ -21,20 +21,15 @@ to say
 | Sie | [[sagen]] |
 
 ---
-Beispiele:
-- Ich habe es gesagt. (I have said it.)
-- Du sagst immer die Wahrheit. (You always tell the truth.)
-- Er sagt, dass er müde ist. (He says that he is tired.)
-- Wir sagen dir die Neuigkeiten. (We tell you the news.)
-- Ihr sagt, dass ihr beschäftigt seid. (You [plural] say that you are busy.)
-- Sie sagen, dass sie morgen kommen. (They/You [formal] say that they/you are coming tomorrow.)
+Translation:
+to say
 
 ---
 
 Tags: 
 #Verb
 #Regelmäßige
-#Inf #Form
+#Form
 
 ---
 Präteritum

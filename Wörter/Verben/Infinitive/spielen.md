@@ -25,10 +25,9 @@ Beispiele:
 ---
 
 Tags: 
-[Verb]
-[Schwache]
-[Regelmäßige]
-[Inf] 
+#Verb
+#Regelmäßige
+#Inf #Form
 
 **Präteritum**
 • ich [[spielte]]
