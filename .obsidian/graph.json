@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 13515706
       }
+    },
+    {
+      "query": "path:Texte  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6393140569253765,
+  "scale": 0.1751086053863799,
   "close": false
 }

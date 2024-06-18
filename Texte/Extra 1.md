@@ -30,18 +30,12 @@ ANNA: [[Guter]] Hund!
 ANNA: Telefon[[Rechnung]], Gas[[Rechnung]], Strom[[Rechnung]] … Oh, [[was]] ist das?  
 Sascha, ein Brief [[für]] dich!
 
-SASCHA: Ein Brief für mich.  
-Von meiner Mutter ...
+SASCHA: Ein Brief [[für]] mich.  
+[[Von]] meiner Mutter ...
 
-SASCHA: Hey, was ist 
+SASCHA: Hey, was ist [[denn]] das?
 
-because
-
-denn
-
- das?
-
-ANNA: „Sascha Maus dieser Brief ist für dich. Hast du immer noch so viele Pickel?  
+ANNA: „Sascha Maus dieser Brief ist für dich. Hast du [[immer noch]] so viele [[Pickel]]?  
 Deine Mama.”
 
 SASCHA: Danke. Der hier ist aus Amerika.

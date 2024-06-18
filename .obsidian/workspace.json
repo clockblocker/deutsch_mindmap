@@ -4,15 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "980aaea5e42e969a",
+        "id": "776bada0e5d1dc51",
         "type": "tabs",
         "children": [
           {
-            "id": "55988109e0d2e1ea",
+            "id": "ae68d3de4769dbcc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Pickel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "825a3ecc457b145c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/so.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "271e1b14cbb6075f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/viele.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wörter/Pickel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wörter/Pickel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wörter/Pickel.md"
+              }
             }
           }
         ]
@@ -144,34 +176,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "55988109e0d2e1ea",
+  "active": "ae68d3de4769dbcc",
   "lastOpenFiles": [
     "Texte/Extra 1.md",
-    "Wörter/Pronomen/Pronomen.md",
-    "Wörter/was.md",
-    "Wörter/denn.md",
-    "Wörter/Verben/Verbformen/tut.md",
+    "Wörter/Pickel.md",
+    "Anhänge/Pasted image 20240618222711.png",
+    "Wörter/noch.md",
+    "Wörter/viele.md",
+    "Wörter/so.md",
+    "Wörter/immer noch.md",
+    "Wörter/immer.md",
+    "Wörter/so viele.md",
     "Wörter/Phrasen/Was tut denn weh?.md",
-    "Wörter/weh.md",
-    "Wortlisten/1000 am häufigsten.md",
-    "Wortlisten/207 am häufigsten.md",
-    "Wörter/sofort.md",
-    "Wörter/schon.md",
-    "Wörter/Verben/Verbformen/Gebt.md",
-    "Wörter/Verben/Infinitive/geben.md",
-    "Wörter/Verben/Verbformen/gebe.md",
-    "Wörter/Verben/Verbformen/gefallen.md",
-    "Wörter/Verben/Verbformen/gekommen.md",
-    "Wörter/Verben/Verbformen/gegeben.md",
-    "Wörter/Verben/Verbformen/Gib.md",
-    "Wörter/Verben/Verbformen/gibst.md",
-    "Wörter/Verben/Verbformen/gibt.md",
-    "Wörter/gut.md",
-    "Wörter/Guter.md",
-    "Wörter/Rechnung.md",
-    "Wörter/nung.md",
-    "Wörter/Verben/Infinitive/kommen.md",
-    "Wörter/Verben/Verbformen/kommt.md",
+    "Wörter/denn.md",
+    "Wörter/von.md",
+    "Wörter/sich.md",
+    "Wörter/Pronomen/Pronomen.md",
+    "Wortlisten/Custom/ROI.md",
+    "Wörter/was.md",
+    "Wörter/wer.md",
+    "Wörter/welche.md",
+    "Wörter/welcher.md",
+    "Wörter/dessen.md",
+    "Wörter/welches.md",
+    "Wörter/deren.md",
+    "Wörter/welchem.md",
+    "Wörter/welchen.md",
+    "Wörter/Artikels_/die.md",
+    "Wörter/Artikels_/der.md",
     "Wortlisten/Custom",
     "Anhänge/Pasted image 20240618145621.png",
     "Anhänge/Pasted image 20240618145559.png",
@@ -190,7 +222,6 @@
     "Anhänge/Pasted image 20240617130203.png",
     "Anhänge/Pasted image 20240617125602.png",
     "Anhänge/Pasted image 20240617125310.png",
-    "Anhänge/Pasted image 20240617125304.png",
     "Texte/Ditor/Positionen.canvas",
     "Wörter/Adjektive",
     "Untitled.canvas",
