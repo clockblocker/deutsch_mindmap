@@ -9,26 +9,26 @@ Und Anna ist in Nic verliebt.
 Aber [[dann]] [[bekommt]] Sascha Post aus Amerika ...
 
 Jo, ich hab dir [[doch]] [[gesagt]]: –[[ Es ist vorbei]]!!!  
-(Und nenn mich bitte nicht CHA CHA).
+(Und [[nenn]] mich bitte nicht CHA CHA).
 
 Hallo Jo.
 
-Ja – das Kissen hab’ ich auch bekommen.  
-Aber es ist vorbei! Vorbei! Und jetzt heul bitte nicht!  
+Ja – das Kissen hab’ ich auch [[bekommen]].  
+Aber es ist vorbei! [[Vorbei]]! Und [[jetzt]] [[heul]] bitte nicht!  
 Tschüs.  
 Männer!
 
-ANNA: Louis komm schon. Sascha! Die Post! Louis und ich haben die Post!  
-Gib mir die Post Louis!
+ANNA: Louis [[komm]] [[schon]]. Sascha! Die Post! Louis und ich haben die Post!  
+[[Gib]] mir die Post Louis!
 
-SASCHA: Gib mir sofort die Post Louis!
+SASCHA: Gib mir [[sofort]] die Post Louis!
 
 ANNA: Louis. Lass das fallen!
 
-ANNA: Guter Hund!
+ANNA: [[Guter]] Hund!
 
-ANNA: Telefonrechnung, Gasrechnung, Stromrechnung … Oh, was ist das?  
-Sascha, ein Brief für dich!
+ANNA: Telefon[[Rechnung]], Gas[[Rechnung]], Strom[[Rechnung]] … Oh, [[was]] ist das?  
+Sascha, ein Brief [[für]] dich!
 
 SASCHA: Ein Brief für mich.  
 Von meiner Mutter ...

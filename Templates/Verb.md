@@ -44,3 +44,15 @@ sie[[]]
 wir [[]]
 ihr [[]]
 Sie [[]]
+
+---
+
+Imperativ
+Ich [[]]
+du [[]]
+er [[]]
+es [[]]
+sie[[]]
+wir [[]]
+ihr [[]]
+Sie [[]]

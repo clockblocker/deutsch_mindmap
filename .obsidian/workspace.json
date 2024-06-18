@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f7e166ceb2efe1ed",
+        "id": "980aaea5e42e969a",
         "type": "tabs",
         "children": [
           {
-            "id": "30e2eacb1966582e",
+            "id": "55988109e0d2e1ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#Neutra",
+                "query": "was",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,34 +144,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "30e2eacb1966582e",
+  "active": "55988109e0d2e1ea",
   "lastOpenFiles": [
-    "Wörter/Pronomen/Pronomenformen/meine.md",
-    "Wörter/Pronomen/Pronomenformen/meinen.md",
-    "Wörter/Pronomen/Pronomenformen/meiner.md",
-    "Wörter/Nomen/Kissen.md",
-    "Wörter/Pronomen/Pronomenformen/minen.md",
-    "Wörter/Pronomen/mein.md",
-    "Wörter/Pronomen/Pronomenformen/meinem.md",
-    "Wörter/Pronomen/Pronomen.md",
-    "Wörter/Pronomen/Du.md",
-    "Wörter/Pronomen/er.md",
-    "Wörter/Pronomen/es.md",
-    "Wörter/Nomen/Jahreszeit.md",
-    "Wörter/Nomen/Zeit.md",
-    "Wörter/Nomen/Jahreszeiten.md",
-    "Wörter/Nomen/Herbst.md",
-    "Wörter/Nomen/Winter.md",
-    "Wörter/Dezember.md",
-    "Wörter/Es ist vorbei.md",
-    "Wörter/vorbei.md",
     "Texte/Extra 1.md",
-    "Wörter/Verben/Verbformen/gesagt.md",
-    "Wörter/doch.md",
-    "Wörter/bekommt.md",
-    "Wörter/bekommen.md",
-    "Wörter/dann.md",
-    "Wörter/verliebt.md",
+    "Wörter/Pronomen/Pronomen.md",
+    "Wörter/was.md",
+    "Wörter/denn.md",
+    "Wörter/Verben/Verbformen/tut.md",
+    "Wörter/Phrasen/Was tut denn weh?.md",
+    "Wörter/weh.md",
+    "Wortlisten/1000 am häufigsten.md",
+    "Wortlisten/207 am häufigsten.md",
+    "Wörter/sofort.md",
+    "Wörter/schon.md",
+    "Wörter/Verben/Verbformen/Gebt.md",
+    "Wörter/Verben/Infinitive/geben.md",
+    "Wörter/Verben/Verbformen/gebe.md",
+    "Wörter/Verben/Verbformen/gefallen.md",
+    "Wörter/Verben/Verbformen/gekommen.md",
+    "Wörter/Verben/Verbformen/gegeben.md",
+    "Wörter/Verben/Verbformen/Gib.md",
+    "Wörter/Verben/Verbformen/gibst.md",
+    "Wörter/Verben/Verbformen/gibt.md",
+    "Wörter/gut.md",
+    "Wörter/Guter.md",
+    "Wörter/Rechnung.md",
+    "Wörter/nung.md",
+    "Wörter/Verben/Infinitive/kommen.md",
+    "Wörter/Verben/Verbformen/kommt.md",
     "Wortlisten/Custom",
     "Anhänge/Pasted image 20240618145621.png",
     "Anhänge/Pasted image 20240618145559.png",

@@ -5,6 +5,7 @@ Perfect: [[bekommen]]
 ---
 Beispiele:
 - Aber dann [[bekommt]] Sascha Post aus Amerika ...
+- Ja – das Kissen hab’ ich auch [[bekommen]].  
 
 
 ---

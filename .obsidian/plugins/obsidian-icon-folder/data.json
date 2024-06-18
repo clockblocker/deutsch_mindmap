@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏃‍♂️",
       "🔵",
       "🟢",
       "🛍",
-      "👤",
-      "📖"
+      "👤"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -147,5 +147,8 @@
   "Wörter/Nomen/Sommer.md": "🔵",
   "Wörter/Nomen/Winter.md": "🔵",
   "Wörter/Ankunft.md": "🛍",
-  "Wörter/Geschichte.md": "🛍"
+  "Wörter/Verben/Infinitive/kommen.md": "🏃‍♂️",
+  "Wörter/Nomen/Geschichte.md": "🛍",
+  "Wörter/Rechnung.md": "🛍",
+  "Wörter/Verben/Infinitive/geben.md": "🏃‍♂️"
 }
