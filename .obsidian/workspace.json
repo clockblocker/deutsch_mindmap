@@ -4,355 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2898c9cc0097f903",
+        "id": "f7e166ceb2efe1ed",
         "type": "tabs",
         "children": [
           {
-            "id": "102babe84e2e00c0",
+            "id": "30e2eacb1966582e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Kissen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b67f67546fb85ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomenformen/minen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c13e9aaaf882fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/mein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5921611897184773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomenformen/meine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37fb50633f8492de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/mein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c12b6dc143d2d5a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomenformen/meinem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a12888a0f371d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomenformen/meine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ee27e7541839823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "017cf0447fd1ce6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Du.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daad86f5128f643c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f7f539c7596d2bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/er.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9453e1cc7c7f7cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8fa8e25b2806159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bf53a92228e70bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/es.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff1390bdddb48ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cc101ed426fe9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Jahreszeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e498c7d4a064ec81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Jahreszeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e50cbaaca88010a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Jahreszeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a40dabf93a88eec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Zeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52c06817a72d2525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Jahreszeiten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4178756e702d7f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Herbst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68beaa1751a33f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Jahreszeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b7a06e3586c73de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Winter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "777c103c99599550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Dezember.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7af15286749b8f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nomen/Frühling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35224a619eaeaf80",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0f915177a114bd7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomenformen/meiner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4d4ef2142ae38ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomenformen/meinen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c0f928632c29277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Pronomen/Pronomenformen/meine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 25
+        ]
       }
     ],
     "direction": "vertical"
@@ -480,38 +143,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "35224a619eaeaf80",
+  "active": "30e2eacb1966582e",
   "lastOpenFiles": [
-    "Wörter/Nomen/Winter.md",
-    "Wörter/Artikels_/eine.md",
+    "Wörter/Pronomen/Pronomenformen/meine.md",
+    "Wörter/Pronomen/Pronomenformen/meinen.md",
+    "Wörter/Pronomen/Pronomenformen/meiner.md",
+    "Wörter/Nomen/Kissen.md",
+    "Wörter/Pronomen/Pronomenformen/minen.md",
+    "Wörter/Pronomen/mein.md",
+    "Wörter/Pronomen/Pronomenformen/meinem.md",
+    "Wörter/Pronomen/Pronomen.md",
+    "Wörter/Pronomen/Du.md",
+    "Wörter/Pronomen/er.md",
+    "Wörter/Pronomen/es.md",
     "Wörter/Nomen/Jahreszeit.md",
-    "Wörter/Nomen/Frühling.md",
-    "Wörter/Nomen/Herbst.md",
-    "Wörter/Nomen/Sommer.md",
-    "Wörter/Dezember.md",
-    "Anhänge/Pasted image 20240618145621.png",
+    "Wörter/Nomen/Zeit.md",
     "Wörter/Nomen/Jahreszeiten.md",
+    "Wörter/Nomen/Herbst.md",
+    "Wörter/Nomen/Winter.md",
+    "Wörter/Dezember.md",
+    "Wörter/Es ist vorbei.md",
+    "Wörter/vorbei.md",
+    "Texte/Extra 1.md",
+    "Wörter/Verben/Verbformen/gesagt.md",
+    "Wörter/doch.md",
+    "Wörter/bekommt.md",
+    "Wörter/bekommen.md",
+    "Wörter/dann.md",
+    "Wörter/verliebt.md",
+    "Wortlisten/Custom",
+    "Anhänge/Pasted image 20240618145621.png",
     "Anhänge/Pasted image 20240618145559.png",
     "Anhänge/Pasted image 20240618145555.png",
-    "Excalidraw/Drawing 2024-06-17 19.15.21.excalidraw.md",
-    "Wörter/Nomen/Einladung.md",
-    "Wörter/Nomen/Einladungen.md",
-    "Wörter/Phrasen/Was tut denn weh?.md",
-    "Wörter/Phrasen/Was kann ich tun?.md",
-    "Wörter/Phrasen/Meine Körperteil tut weh.md",
-    "Wörter/Phrasen/Gebt fein Acht.md",
-    "Wörter/Nomen/Zeit.md",
-    "Wörter/Nomen/Zeiten.md",
-    "Wörter/Nomen/Jahr.md",
-    "Wörter/Es gibt.md",
-    "Wörter/Nomen/Thematik/Jahrenzeiten Thema.md",
-    "Wortlisten/ROI.md",
     "Wörter/Nomen/Thematik",
-    "Wörter/Pronomen/Pronomen.md",
-    "Wörter/Pronomen/es.md",
-    "Wörter/Verben/Verbformen/gesagt.md",
-    "Wörter/Pronomen/mein.md",
-    "Wörter/Pronomen/Pronomenformen/meine.md",
     "Wörter/Pronomen/Pronomenformen",
     "excalibrain",
     "Anhänge/Pasted image 20240618100529.png",
@@ -528,7 +192,6 @@
     "Anhänge/Pasted image 20240617125304.png",
     "Texte/Ditor/Positionen.canvas",
     "Wörter/Adjektive",
-    "Wörter/Nomen",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
