@@ -9,9 +9,9 @@ Beispiele:
 
 ---
 
-|     |         |
-| --- | ------- |
-| ich | [[laufe]] |
+|     |            |
+| --- | ---------- |
+| ich | [[laufe]]  |
 | du  | [[läufst]] |
 | er  | [[läuft]]  |
 | sie | [[läuft]]  |

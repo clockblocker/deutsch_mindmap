@@ -3,7 +3,7 @@
 | Case       | #Masculin | #Feminin | #Neuter | #Plural |
 | ---------- | --------- | -------- | ------- | ------- |
 | #Nominativ | [[der]]   | [[die]]  | [[das]] | [[die]] |
-| #Accusativ | [[den]]   | [[die]]  | [[das]] | [[die]] |
+| #Akkusativ | [[den]]   | [[die]]  | [[das]] | [[die]] |
 | #Dativ     | [[dem]]   | [[der]]  | [[dem]] | [[den]] |
 | #Genitiv   | [[des]]   | [[der]]  | [[des]] | [[der]] |
 
@@ -12,7 +12,7 @@
 | Case       | #Masculin | #Feminin  | #Neuter   | #Plural |
 | ---------- | --------- | --------- | --------- | ------- |
 | #Nominativ | [[ein]]   | [[eine]]  | [[ein]]   | (none)  |
-| #Accusativ | [[einen]] | [[eine]]  | [[ein]]   | (none)  |
+| #Akkusativ | [[einen]] | [[eine]]  | [[ein]]   | (none)  |
 | #Dativ     | [[einem]] | [[einer]] | [[einem]] | (none)  |
 | #Genitiv   | [[eines]] | [[einer]] | [[eines]] | (none)  |
 

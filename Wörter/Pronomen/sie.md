@@ -1,3 +1,6 @@
+#pronomen #Personalpronomen 
+[[Pronomen]]
+
 she
 
 они

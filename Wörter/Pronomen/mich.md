@@ -1,3 +1,3 @@
-[[Accusativ]] [[für]] [[ich]]
+[[Akkusativ]] [[für]] [[ich]]
 
 [[Du hast]] mich  

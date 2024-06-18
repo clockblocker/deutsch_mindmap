@@ -1,2 +1,1 @@
- #Neutral 
- #bestimmte
+ #Neuter  #bestimmte

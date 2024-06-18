@@ -1,14 +1,14 @@
 {
   "collapse-filter": false,
-  "search": "path:Wortlisten  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Wortlisten  ",
+      "query": "path:Wortlisten",
       "color": {
         "a": 1,
         "rgb": 4144959
@@ -19,6 +19,20 @@
       "color": {
         "a": 1,
         "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Lektionen/Ditor  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:Lektionen/Aleksa  ",
+      "color": {
+        "a": 1,
+        "rgb": 13515706
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.866948393325817,
+  "scale": 0.09539988777276466,
   "close": false
 }
