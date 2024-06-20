@@ -1,3 +1,5 @@
+[лёйфт]
+
 Inf: [[laufen]]
 Past: [[lief]]
 Perfect: [[gelaufen]]

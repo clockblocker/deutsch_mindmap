@@ -1,0 +1,3 @@
+
+Positive: [[reich]]
+#Adjective

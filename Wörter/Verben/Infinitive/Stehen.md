@@ -6,6 +6,7 @@ Perfect: [[gestanden]]
 
 ---
 Beispiele:
+SASCHA: Mmh ... hier [[steht]] ...am 7. Juli ...
 
 ---
 

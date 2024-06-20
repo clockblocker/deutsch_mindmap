@@ -4,40 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "776bada0e5d1dc51",
+        "id": "f1799266845b5e8c",
         "type": "tabs",
         "children": [
           {
-            "id": "ae68d3de4769dbcc",
+            "id": "29cc7f048623c913",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cf6e37e2ecfd25e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Pickel.md",
+                "file": "Wörter/Ausländer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "825a3ecc457b145c",
+            "id": "218d972b155bbcca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/so.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "271e1b14cbb6075f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/viele.md",
+                "file": "Wörter/langsam.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "was",
+                "query": "tag:#Unregelmäßige",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/Pickel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/Pickel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wörter/Pickel.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -176,34 +168,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ae68d3de4769dbcc",
+  "active": "29cc7f048623c913",
   "lastOpenFiles": [
-    "Texte/Extra 1.md",
-    "Wörter/Pickel.md",
-    "Anhänge/Pasted image 20240618222711.png",
-    "Wörter/noch.md",
-    "Wörter/viele.md",
-    "Wörter/so.md",
-    "Wörter/immer noch.md",
-    "Wörter/immer.md",
-    "Wörter/so viele.md",
-    "Wörter/Phrasen/Was tut denn weh?.md",
-    "Wörter/denn.md",
-    "Wörter/von.md",
-    "Wörter/sich.md",
+    "Wortlisten/A1_SD1.md",
+    "Wörter/Ausländer.md",
     "Wörter/Pronomen/Pronomen.md",
-    "Wortlisten/Custom/ROI.md",
-    "Wörter/was.md",
-    "Wörter/wer.md",
-    "Wörter/welche.md",
-    "Wörter/welcher.md",
-    "Wörter/dessen.md",
-    "Wörter/welches.md",
-    "Wörter/deren.md",
-    "Wörter/welchem.md",
-    "Wörter/welchen.md",
-    "Wörter/Artikels_/die.md",
-    "Wörter/Artikels_/der.md",
+    "Texte/Skripte/extra/Extra 1.md",
+    "Wörter/fliegt raus.md",
+    "Wörter/fliegen.md",
+    "Wörter/flieg.md",
+    "Wörter/flogt.md",
+    "Wörter/flogen.md",
+    "Wörter/flogst.md",
+    "Wörter/fliegt.md",
+    "Wörter/fliegst.md",
+    "Wörter/fliege.md",
+    "Wörter/geflogen.md",
+    "Wörter/flog.md",
+    "Wörter/raus.md",
+    "Wörter/langsam.md",
+    "Wörter/langsamsten.md",
+    "Wörter/langsamste.md",
+    "Wörter/langsamere.md",
+    "Wörter/langsameren.md",
+    "Wörter/langsameres.md",
+    "Wörter/langsame.md",
+    "Wörter/langsamen.md",
+    "Wörter/langsames.md",
+    "Wörter/am langsamsten.md",
+    "Untitled 2.canvas",
+    "Texte/Skripte/extra",
+    "Anhänge/Pasted image 20240619090900.png",
+    "Anhänge/Pasted image 20240618222711.png",
     "Wortlisten/Custom",
     "Anhänge/Pasted image 20240618145621.png",
     "Anhänge/Pasted image 20240618145559.png",
@@ -221,9 +217,7 @@
     "Grammatik",
     "Anhänge/Pasted image 20240617130203.png",
     "Anhänge/Pasted image 20240617125602.png",
-    "Anhänge/Pasted image 20240617125310.png",
     "Texte/Ditor/Positionen.canvas",
-    "Wörter/Adjektive",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

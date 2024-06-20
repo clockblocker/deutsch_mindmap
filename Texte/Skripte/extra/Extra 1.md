@@ -23,7 +23,7 @@ ANNA: Louis [[komm]] [[schon]]. Sascha! Die Post! Louis und ich haben�
 
 SASCHA: Gib mir [[sofort]] die Post Louis!
 
-ANNA: Louis. Lass das fallen!
+ANNA: Louis. [[Lass das fallen!]]
 
 ANNA: [[Guter]] Hund!
 
@@ -40,42 +40,42 @@ Deine Mama.”
 
 SASCHA: Danke. Der hier ist aus Amerika.
 
-ANNA: Aus Amerika? Von wem denn? Na sag schon ...
+ANNA: Aus Amerika? Von [[wem]] denn? [[Na]] [[sag]] [[schon]] ...
 
-SASCHA: Mmh … „Hallo! Kennst du mich noch?“  
-Nein ... „vor sieben Jahren Brieffreunde sind wir ...“
+SASCHA: Mmh … „Hallo! Kennst du mich [[noch]]?“  
+Nein ... „vor sieben Jahren [[Brieffreunde]] sind wir ...“
 
-Vor sieben Jahren waren wir Brieffreunde.
+Vor sieben Jahren [[waren]] wir Brieffreunde.
 
-Ach du liebe Zeit! ... Jetzt erinnere ich mich wieder.  
+[[Ach du liebe Zeit]] ... [[Jetzt]] [[erinnere]] ich mich wieder.  
 Der Brief ist von Sam! Sam Scott!
 
 ANNA: Wer ist Sam Scott?
 
-SASCHA: Er war mein Brieffreund. Aber das ist sieben Jahre her.
+SASCHA: Er [[war]] mein Brieffreund. Aber das ist sieben [[Jahr]]e [[her]].
 
 ANNA: Oh …
 
-SASCHA: „Ich gut spreche Deutsch jetzt…”  
-- Ich spreche jetzt gut Deutsch - „und ich komme nach Deutschland.”
+SASCHA: „Ich [[gut]] spreche Deutsch jetzt…”  
+- Ich spreche jetzt gut Deutsch - „und ich komme [[nach]] Deutschland.”
 
 ANNA: Ein Amerikaner…
 
-SASCHA: „Ich möchte mit dir schlafen.”
+SASCHA: „Ich [[möchte]] mit dir [[schlafen]].”
 
 ANNA: Waaaas!
 
 SASCHA: „Hast du ein Bett für mich?”  
-Ach so – Er will hier übernachten …
+Ach so – Er [[will]] hier [[übernachten]] …
 
-ANNA: Ah die Tarantel!  
-Ein Amerikaner hier – wie Brad Pitt. Groß , sportlich ...
+ANNA: Ah die [[Tarantel]]!  
+Ein Amerikaner hier – wie Brad Pitt. [[Groß]] , [[sportlich]] ...
 
-SASCHA: Und … reich?
+SASCHA: Und … [[reich]]?
 
-ANNA: Wann kommt er denn?
+ANNA: [[Wann]] kommt er denn?
 
-SASCHA: Mmh ... hier steht ...am 7. Juli ...
+SASCHA: Mmh ... hier [[steht]] ...am 7. Juli ...
 
 ANNA: Aha – am 7. Juli...  
 aber das ist ja …
@@ -91,21 +91,21 @@ SASCHA: Nic ...
 ANNA: Hallo Nic! Wie geht’s dir?
 
 NIC: Alles unter Kontrolle. Hey, du hast aber Muskeln!!!  
-Ich bring eure Milch zurück.
+Ich bring eure Milch [[zurück]].
 
-SASCHA: Was? Unsere Milch? Doch nicht etwa die Milch ... von vor drei Wochen?
+SASCHA: Was? [[Unsere]] Milch? [[Doch nicht etwa]] die Milch ... von vor drei Wochen?
 
-NIC: Ich vergesse nie etwas!
+NIC: Ich vergesse [[nie]] [[etwas]]!
 
 ANNA: Danke Nic.
 
-NIC: Na Ladies, was geht so ab?
+NIC: Na Ladies, was geht so [[ab]]?
 
-ANNA: Möchtest du was trinken, Nic?
+ANNA: [[Möchtest]] du was trinken, Nic?
 
 NIC: „Ja hallo?”
 
-ANNA: Ich hab gefragt, ob du was trinken willst!!!
+ANNA: Ich hab gefragt, [[ob]] du was trinken willst!!!
 
 NIC: Ääh … ja … eine Cola?
 
@@ -121,20 +121,20 @@ ANNA: „Sie“ ist ein „Er“.
 
 NIC: Wie?
 
-ANNA: Na Mensch … Sam ist männlich!
+ANNA: Na Mensch … Sam ist [[männlich]]!
 
 NIC: Ach so … ein cooler Ami, ja? Huh!
 
-SASCHA: Nic! Niemand darf mein Fahrrad anfassen! Kapiert?  
+SASCHA: Nic! Niemand [[darf]] mein Fahrrad anfassen! [[Kapiert]]?  
 Niemand!
 
 NIC: Aber warum nicht?
 
 SASCHA: Muss ich das begründen?
 
-NIC: Hey, hey hey! Mach mal langsam.
+NIC: Hey, hey hey! Mach mal [[langsam]].
 
-SASCHA: Wer mein Fahrrad anfasst fliegt raus, kapiert, R-A-U-S.
+SASCHA: Wer mein Fahrrad anfasst [[fliegt raus]], kapiert, R-A-U-S.
 
 SAM: Hi.
 

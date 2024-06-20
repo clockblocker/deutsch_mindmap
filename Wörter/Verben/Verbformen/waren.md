@@ -4,12 +4,7 @@ Perfect: [[gewesen]]
 
 ---
 Beispiele:
-- Ich bin glücklich. (I am happy.)
-- Du bist mein Freund. (You are my friend.)
-- Er ist Lehrer. (He is a teacher.)
-- Wir sind im Park. (We are in the park.)
-- Ihr seid müde. (You [plural] are tired.)
-- Sie sind Ärzte. (They are doctors.)
+- Vor sieben Jahren [[waren]] wir Brieffreunde.
 
 ---
 

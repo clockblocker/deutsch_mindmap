@@ -5,6 +5,7 @@ Perfect: [[gesagt]]
 ---
 Beispiele:
 [[Du hast|Du hast mich gefragt und ich hab nichts **gesagt**]]
+Na sag schon!
 
 ---
 
@@ -41,3 +42,6 @@ sie [[sagte]]
 wir [[sagten]]
 ihr [[sagtet]]
 Sie [[sagten]]
+
+
+[[sag]]

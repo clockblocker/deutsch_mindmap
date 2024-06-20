@@ -3,6 +3,7 @@ Plural: [[Jahre]]
 
 
 Beispiele:
+Aber das ist sieben [[Jahr]]e [[her]].
 
 ---
 Translation:
