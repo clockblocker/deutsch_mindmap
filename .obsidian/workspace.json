@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/readmi.md",
+                "file": "readmi.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/readmi.md",
+                "file": "readmi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/readmi.md",
+                "file": "readmi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörter/readmi.md"
+                "file": "readmi.md"
               }
             }
           }
@@ -160,9 +160,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "825d7f8aed7d0e96",
+  "active": "d0dd1351b59a3225",
   "lastOpenFiles": [
-    "Wörter/readmi.md",
+    "readmi.md",
     "Wortlisten/100 adjectives.md",
     "Wörter/Pronomen/Pronomen.md",
     "Wörter/komisch.md",
