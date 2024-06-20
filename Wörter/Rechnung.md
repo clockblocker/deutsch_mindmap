@@ -6,7 +6,7 @@ Rech[[nung]]
 
 
 Beispiele:
- Telefon[[rechnung]], Gas[[rechnung]], Strom[[rechnung]]
+ [[Telefon]][[rechnung]], Gas[[rechnung]], Strom[[rechnung]]
 ---
 Translation:
 bill

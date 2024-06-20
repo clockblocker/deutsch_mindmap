@@ -1,8 +1,7 @@
 https://readlang.com/shelf/571aec12f654850e459a4f11
 
 Episode One: Sams [[Ankunft]]
-
-SASCHA: Das ist die [[Geschichte]] von Sascha und Anna. Sie [[wohnen]] [[zusammen]] in Berlin.  
+Das ist die [[Geschichte]] von Sascha und Anna. Sie [[wohnen]] [[zusammen]] in Berlin.  
 Sie haben einen [[Nachbarn]]: Nic.  
 Nic ist in Sascha [[verliebt]].  
 Und Anna ist in Nic verliebt.  
@@ -152,13 +151,13 @@ SAM: Nein. Was sie sagen will, ist „Ich heiße Sam und komme aus 
 
 SAM: Du kommst aus Amerika?
 
-SASCHA: Hilfe, komm schon rein.
+SASCHA: Hilfe, komm schon [[rein]].
 
 SAM: Hi Mom! I’m in Germany! And I introduced myself in German: My name is Sam, I live in America’ At least I think that’s what I said …
 
 ANNA: Hallo Nadja,  
-Saschas Brieffreund ist heute angekommen. Der Typ ist komisch!  
-Und Nic von nebenan ist total witzig. Er hat unsere Milch zurückgebracht – die Milch von vor 3 Wochen!!
+Saschas Brieffreund ist heute angekommen. Der [[Typ]] ist [[komisch]]!  
+Und Nic von [[nebenan]] ist total witzig. Er hat unsere Milch [[zurückgebracht]] – die Milch von vor 3 Wochen!!
 
 NIC: Ich vergesse nie etwas.
 

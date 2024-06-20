@@ -46,7 +46,7 @@ Beispiele:
 - Ich sehe [[langsamere]] Bewegungen. 
 - Ich helfe den [[langsameren]] Menschen. 
 - Die Reaktionen der [[langsameren]] Spieler sind auffällig. 
-
+е
 - Er fährt das [[langsamste]] Auto. 
 - Ich sehe den [[langsamsten]] Zug. 
 - Ich helfe dem [[langsamsten]] Mann. 
