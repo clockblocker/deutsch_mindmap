@@ -1,1 +1,0 @@
-[[Hier]] [[ist]] [[die]] [[Karte]] [[für]] [[alle]] [[deutschen]] [[Wörter]], [[die]] [[ich]] [[gewusst]] [[habe]]
