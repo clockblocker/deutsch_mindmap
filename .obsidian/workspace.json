@@ -4,24 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "08a574b188e9cf07",
+        "id": "e70de32405936431",
         "type": "tabs",
         "children": [
           {
-            "id": "9e4863dda32fa5a4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "825d7f8aed7d0e96",
+            "id": "e5b83900fdced46c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Wörter/Verben/Infinitive/stehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9abde7bbdd4a0c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/stand.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Verb",
+                "query": "tag:#Ablaut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Wörter/Verben/Verbformen/stand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Wörter/Verben/Verbformen/stand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Wörter/Verben/Verbformen/stand.md"
               }
             }
           }
@@ -160,34 +164,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "825d7f8aed7d0e96",
+  "active": "9abde7bbdd4a0c50",
   "lastOpenFiles": [
+    "Wörter/Verben/Verbformen/gestanden.md",
+    "Wörter/Verben/Infinitive/stehen.md",
+    "Wörter/Verben/Verbformen/stehe.md",
+    "Wörter/Verben/Verbformen/steht.md",
+    "Wörter/Verben/Verbformen/stand.md",
+    "Wörter/Verben/Verbformen/standest.md",
+    "Wörter/Verben/Verbformen/standen.md",
+    "Wörter/Verben/Verbformen/standet.md",
+    "Wörter/Verben/Verbformen/stehst.md",
+    "Wörter/ausseiht.md",
+    "Wörter/doch.md",
+    "Wörter/wichtig.md",
+    "Wörter/richtig.md",
+    "Wörter/am.md",
+    "Wörter/Nomen/Sommer.md",
+    "Wörter/Nomen/Jahreszeit.md",
+    "Wörter/Nomen/Geschichte.md",
+    "Wörter/bekommen.md",
+    "Wörter/bekam.md",
+    "Wörter/bekommt.md",
+    "Wörter/Konjunktion/und.md",
+    "Wörter/bekommst.md",
+    "Wörter/bekomme.md",
+    "Wörter/Verben/Infinitive/jagen.md",
+    "Wörter/Verben/Verbformen/jagt.md",
+    "Wörter/Verben/Verbformen/jagte.md",
+    "Wortlisten/IMG_5118.MOV",
     "Anhänge/Pasted image 20240620183840.png",
-    "readme.md",
-    "Wortlisten/100 adjectives.md",
-    "Wörter/Pronomen/Pronomen.md",
-    "Wörter/komisch.md",
-    "Wörter/wollte.md",
-    "Wörter/wollen.md",
-    "Wörter/wolltest.md",
-    "Wörter/willst.md",
-    "Wörter/will.md",
-    "Wörter/gewollt.md",
-    "Texte/Skripte/extra/Extra 1.md",
-    "Wörter/Ausländer.md",
-    "Wörter/bringen.md",
-    "Wörter/zurückgebracht.md",
-    "Wörter/gebracht.md",
-    "Texte/Gedichte/Rammstein/Mein Herz brennt.md",
-    "Wörter/mitgebracht.md",
-    "Wörter/bring.md",
-    "Wörter/brachten.md",
-    "Wörter/brachtest.md",
-    "Wörter/bringt.md",
-    "Wörter/bringst.md",
-    "Wörter/bringe.md",
-    "Wörter/brachte.md",
-    "Wörter/nebenan.md",
     "Untitled 2.canvas",
     "Texte/Skripte/extra",
     "Anhänge/Pasted image 20240619090900.png",
@@ -206,9 +212,7 @@
     "Anhänge/Pasted image 20240617155113.png",
     "Wörter/Phrasen",
     "Wörter/Artikels/Untitled",
-    "Grammatik",
     "Anhänge/Pasted image 20240617130203.png",
-    "Anhänge/Pasted image 20240617125602.png",
     "Texte/Ditor/Positionen.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

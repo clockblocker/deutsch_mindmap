@@ -4,7 +4,7 @@ Perfect: [[gehabt]]
 
 ---
 Beispiele:
-
+[[Du]], du [[hast]], du hast [[mich]]  
 
 ---
 

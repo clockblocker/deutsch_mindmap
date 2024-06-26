@@ -2,6 +2,13 @@ Inf: [[sein]]
 Past: [[war]]
 Perfect: [[gewesen]]
 
+Tags: 
+#Verb
+#Ablaut 
+#Unregelmäßige
+#Form 
+
+
 ---
 Beispiele:
 - Ich bin glücklich. (I am happy.)
@@ -33,6 +40,7 @@ to be
 
 Tags: 
 #Verb
+#Ablaut 
 #Unregelmäßige
 #Inf 
 
@@ -46,3 +54,5 @@ sie [[war]]
 wir [[waren]]
 ihr [[wart]]
 Sie [[waren]]
+
+

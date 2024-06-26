@@ -112,7 +112,7 @@ ANNA: Sascha hat Post von Sam …
 
 NIC: Ach ja?
 
-ANNA: Ja, Sam – aus Amerika!
+ANNA: Ja, Sam – [[aus]] Amerika!
 
 NIC: Ach ja, aus Amerika?  
 Wow, und ist sie cool?  

@@ -30,6 +30,7 @@ to run, to walk
 Tags: 
 #Verb
 #Ablaut 
+#Unregelmäßige 
 #Inf #Form
 
 ---

@@ -28,7 +28,7 @@ to give
 
 Tags: 
 #Verb
-#Ablaut | #Schwache
+#Ablaut
 #Unregelmäßige | #Regelmäßige
 #Inf | #Form
 

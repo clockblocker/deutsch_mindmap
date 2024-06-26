@@ -2,6 +2,7 @@ Inf: [[stehen]]
 Past: [[stand]]
 Perfect: [[gestanden]]
 
+
 ![img](/Anhänge/stehen.png)
 
 ---

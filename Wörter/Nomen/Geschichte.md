@@ -4,10 +4,10 @@ Plural: [[Geschichten]]
 
 Beispiele:
 
----
-Translation:
-story
+Das ist die [[Geschichte]] von Sascha und Anna
 
 ---
 
 #Noun #Feminin 
+
+
