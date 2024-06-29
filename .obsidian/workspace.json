@@ -4,35 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "e70de32405936431",
+        "id": "df914cad0a61e180",
         "type": "tabs",
         "children": [
           {
-            "id": "e5b83900fdced46c",
+            "id": "19e7659e83f83df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Infinitive/stehen.md",
+                "file": "Texte/Skripte/extra/Extra 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9abde7bbdd4a0c50",
+            "id": "3b4c0336556feefe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Verbformen/stand.md",
+                "file": "Wörter/Dort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee870a9f95a6279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/herein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "816cf404337419b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/mal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ablaut",
+                "query": "GU HAST",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.500732421875
+    "width": 200
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/Verben/Verbformen/stand.md",
+                "file": "Texte/Skripte/extra/Extra 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/Verben/Verbformen/stand.md",
+                "file": "Texte/Skripte/extra/Extra 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörter/Verben/Verbformen/stand.md"
+                "file": "Texte/Skripte/extra/Extra 1.md"
               }
             }
           }
@@ -164,34 +187,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9abde7bbdd4a0c50",
+  "active": "19e7659e83f83df4",
   "lastOpenFiles": [
-    "Wörter/Verben/Verbformen/gestanden.md",
-    "Wörter/Verben/Infinitive/stehen.md",
-    "Wörter/Verben/Verbformen/stehe.md",
-    "Wörter/Verben/Verbformen/steht.md",
-    "Wörter/Verben/Verbformen/stand.md",
-    "Wörter/Verben/Verbformen/standest.md",
-    "Wörter/Verben/Verbformen/standen.md",
-    "Wörter/Verben/Verbformen/standet.md",
-    "Wörter/Verben/Verbformen/stehst.md",
-    "Wörter/ausseiht.md",
-    "Wörter/doch.md",
-    "Wörter/wichtig.md",
-    "Wörter/richtig.md",
-    "Wörter/am.md",
-    "Wörter/Nomen/Sommer.md",
-    "Wörter/Nomen/Jahreszeit.md",
-    "Wörter/Nomen/Geschichte.md",
-    "Wörter/bekommen.md",
-    "Wörter/bekam.md",
-    "Wörter/bekommt.md",
-    "Wörter/Konjunktion/und.md",
-    "Wörter/bekommst.md",
-    "Wörter/bekomme.md",
-    "Wörter/Verben/Infinitive/jagen.md",
-    "Wörter/Verben/Verbformen/jagt.md",
-    "Wörter/Verben/Verbformen/jagte.md",
+    "Wörter/toll.md",
+    "Wörter/so toll.md",
+    "Texte/Skripte/extra/Extra 1.md",
+    "Wörter/Aber klar.md",
+    "Wörter/so.md",
+    "Wörter/Dort.md",
+    "Wörter/klar.md",
+    "Wörter/rein.md",
+    "Wörter/herein.md",
+    "Wörter/schon.md",
+    "Wörter/Hilfe.md",
+    "Wörter/Hilfen.md",
+    "Wörter/Konjunktion/aus.md",
+    "Wörter/Mach mal langsam.md",
+    "Wörter/mal.md",
+    "Wörter/begründen.md",
+    "Wörter/Konjunktion/aber.md",
+    "Wörter/warum.md",
+    "Wörter/gefragt.md",
+    "Wörter/Verben/Verbformen/hast.md",
+    "Lektionen/Bekker/Bekker Einheit 3.md",
+    "Wortlisten/50 verbs.md",
+    "Wörter/fragen.md",
+    "Wörter/Muskeln.md",
+    "Wörter/übernachten.md",
+    "Wörter/Verben/Verbformen/erinnere.md",
     "Wortlisten/IMG_5118.MOV",
     "Anhänge/Pasted image 20240620183840.png",
     "Untitled 2.canvas",

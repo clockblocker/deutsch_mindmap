@@ -1,3 +1,4 @@
+SAM: Du kommst [[aus]] Amerika?
 
 ANNA: Ja, Sam – [[aus]] Amerika!
 

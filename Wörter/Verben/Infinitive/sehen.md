@@ -2,6 +2,7 @@ Inf: [[sehen]]
 Past: [[sah]]
 Perfect: [[gesehen]]
 
+
 ---
 Beispiele:
 - [[Ich Will|Wir wollen eure Hände sehen]]  
@@ -30,7 +31,8 @@ to see
 Tags: 
 #Verb
 #Ablaut 
-#Inf 
+#Unregelmäßige 
+#Inf #Form 
 
 ---
 Präteritum
@@ -42,13 +44,3 @@ sie [[sah]]
 wir [[sahen]]
 ihr [[saht]]
 Sie [[sahen]]
-
-Perfekt
-Ich [[habe gesehen]]
-du [[hast gesehen]]
-er [[hat gesehen]]
-es [[hat gesehen]]
-sie [[hat gesehen]]
-wir [[haben gesehen]]
-ihr [[habt gesehen]]
-Sie [[haben gesehen]]

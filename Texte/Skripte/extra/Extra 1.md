@@ -39,7 +39,7 @@ Deine Mama.”
 
 SASCHA: Danke. Der hier ist aus Amerika.
 
-ANNA: Aus Amerika? Von [[wem]] denn? [[Na]] [[sag]] [[schon]] ...
+ANNA: Aus Amerika? Von [[wem]] denn? [[Na sag schon]] ...
 
 SASCHA: Mmh … „Hallo! Kennst du mich [[noch]]?“  
 Nein ... „vor sieben Jahren [[Brieffreunde]] sind wir ...“
@@ -72,7 +72,7 @@ Ein Amerikaner hier – wie Brad Pitt. [[Groß]] , [[sportlich]] ...
 
 SASCHA: Und … [[reich]]?
 
-ANNA: [[Wann]] kommt er denn?
+ANNA: [[Wann]] kommt er [[denn]]?
 
 SASCHA: Mmh ... hier [[steht]] ...am 7. Juli ...
 
@@ -89,12 +89,12 @@ SASCHA: Nic ...
 
 ANNA: Hallo Nic! Wie geht’s dir?
 
-NIC: Alles unter Kontrolle. Hey, du hast aber Muskeln!!!  
+NIC: Alles unter Kontrolle. Hey, du hast aber [[Muskeln]]!!!  
 Ich bring eure Milch [[zurück]].
 
 SASCHA: Was? [[Unsere]] Milch? [[Doch nicht etwa]] die Milch ... von vor drei Wochen?
 
-NIC: Ich vergesse [[nie]] [[etwas]]!
+NIC: Ich [[vergesse]] [[nie]] [[etwas]]!
 
 ANNA: Danke Nic.
 
@@ -104,7 +104,7 @@ ANNA: [[Möchtest]] du was trinken, Nic?
 
 NIC: „Ja hallo?”
 
-ANNA: Ich hab gefragt, [[ob]] du was trinken willst!!!
+ANNA: Ich hab [[gefragt]], [[ob]] du was trinken [[willst]]!!!
 
 NIC: Ääh … ja … eine Cola?
 
@@ -124,14 +124,14 @@ ANNA: Na Mensch … Sam ist [[männlich]]!
 
 NIC: Ach so … ein cooler Ami, ja? Huh!
 
-SASCHA: Nic! Niemand [[darf]] mein Fahrrad anfassen! [[Kapiert]]?  
+SASCHA: Nic! Niemand [[darf]] mein Fahrrad [[anfassen]]! [[Kapiert]]?  
 Niemand!
 
-NIC: Aber warum nicht?
+NIC: [[Aber]] [[warum]] nicht?
 
-SASCHA: Muss ich das begründen?
+SASCHA: Muss ich das [[begründen]]?
 
-NIC: Hey, hey hey! Mach mal [[langsam]].
+NIC: Hey, hey hey! [[Mach mal langsam]].
 
 SASCHA: Wer mein Fahrrad anfasst [[fliegt raus]], kapiert, R-A-U-S.
 
@@ -149,9 +149,9 @@ SAM: Aah, ich heiße Anna.
 
 SAM: Nein. Was sie sagen will, ist „Ich heiße Sam und komme aus Amerika“.
 
-SAM: Du kommst aus Amerika?
+SAM: Du kommst [[aus]] Amerika?
 
-SASCHA: Hilfe, komm schon [[rein]].
+SASCHA: [[Hilfe]], komm [[schon]] [[rein]].
 
 SAM: Hi Mom! I’m in Germany! And I introduced myself in German: My name is Sam, I live in America’ At least I think that’s what I said …
 
@@ -162,7 +162,7 @@ Und Nic von [[nebenan]] ist total witzig. Er hat unsere Milch [[zurü
 NIC: Ich vergesse nie etwas.
 
 SASCHA: Schwesterherz,  
-Grrr! Nic, NIC HAT MEIN FAHRRAD ANGEFASST! Wie blöd! Und Sam Scott aus Amerika ist hier. Aber sein Deutsch ist katastrophal! Männer!
+Grrr! Nic, NIC HAT MEIN FAHRRAD ANGEFASST! Wie blöd! Und Sam Scott aus Amerika ist hier. Aber sein Deutsch ist katastrophal! [[Männer]]!
 
 SAM: Ich heiße Amerika, ich komme aus Sam.  
 Anyway… Sascha and her flatmate were very impressed!
@@ -182,7 +182,8 @@ SASCHA: Oh, wie interessant.
 
 ANNA: Ja, wir gehen auch immer in die Bücherei, nicht wahr?
 
-SASCHA: Aber klaaaar. Dort ist es sooooo toll.
+SASCHA: Aber klaaaar. [[Dort]] ist es sooooo [[toll]].
+[[Aber klar]]
 
 SAM: Super!
 

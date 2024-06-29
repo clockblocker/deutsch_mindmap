@@ -2,6 +2,8 @@ Inf: [[kommen]]
 Past: [[kam]]
 Perfect: [[gekommen]]
 
+
+
 ---
 Beispiele:
 - Louis komm [[schon]]
@@ -10,9 +12,9 @@ Beispiele:
 
 ---
 
-|     |          |
-| --- | -------- |
-| ich | [[komme]] |
+|     |            |
+| --- | ---------- |
+| ich | [[komme]]  |
 | du  | [[kommst]] |
 | er  | [[kommt]]  |
 | sie | [[kommt]]  |
@@ -30,6 +32,7 @@ to come
 
 Tags: 
 #Verb
+#Schwache 
 #Unregelmäßige
 #Inf #Form
 
