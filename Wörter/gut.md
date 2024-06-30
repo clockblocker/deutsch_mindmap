@@ -5,13 +5,15 @@ Superlative: am [[besten]]
 ---
 Beispiele:
 
+[[Gutes]] Bett! So where do you sleep? [[Wo]] schlaft ihr?
+
 - Er ist ein [[guter]] Freund.
 - Ich sehe einen [[guten]] Film.
 - Ich helfe dem [[guten]] Mann.
 - Das Auto des [[guten]] Nachbarn.
 
 - Sie ist eine [[gute]] Lehrerin.
-- Ich sehe eine [[gute]] Idee.
+- Ich sehe eine [[gute]] [[Idee]].
 - Ich helfe der [[guten]] Frau.
 - Das Buch der [[guten]] Freundin.
 

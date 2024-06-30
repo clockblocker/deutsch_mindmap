@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df914cad0a61e180",
+        "id": "400d255856952cbf",
         "type": "tabs",
         "children": [
           {
-            "id": "19e7659e83f83df4",
+            "id": "8e7d02c345dcec57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b4c0336556feefe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Dort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aee870a9f95a6279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/herein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "816cf404337419b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/mal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -84,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GU HAST",
+                "query": "anto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -187,34 +143,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "19e7659e83f83df4",
+  "active": "8e7d02c345dcec57",
   "lastOpenFiles": [
-    "Wörter/toll.md",
-    "Wörter/so toll.md",
+    "Wortlisten/Custom/1000 am häufigsten.md",
     "Texte/Skripte/extra/Extra 1.md",
-    "Wörter/Aber klar.md",
-    "Wörter/so.md",
-    "Wörter/Dort.md",
-    "Wörter/klar.md",
-    "Wörter/rein.md",
-    "Wörter/herein.md",
-    "Wörter/schon.md",
-    "Wörter/Hilfe.md",
-    "Wörter/Hilfen.md",
-    "Wörter/Konjunktion/aus.md",
-    "Wörter/Mach mal langsam.md",
-    "Wörter/mal.md",
-    "Wörter/begründen.md",
-    "Wörter/Konjunktion/aber.md",
-    "Wörter/warum.md",
-    "Wörter/gefragt.md",
-    "Wörter/Verben/Verbformen/hast.md",
-    "Lektionen/Bekker/Bekker Einheit 3.md",
-    "Wortlisten/50 verbs.md",
-    "Wörter/fragen.md",
-    "Wörter/Muskeln.md",
-    "Wörter/übernachten.md",
-    "Wörter/Verben/Verbformen/erinnere.md",
+    "Wörter/Wie bitte.md",
+    "Wörter/los.md",
+    "Wörter/Was ist denn hier los.md",
+    "Wörter/Was ist denn mit dir los.md",
+    "Wörter/Was ist los.md",
+    "Wörter/denn.md",
+    "Wörter/bitte.md",
+    "Wörter/Gepäck.md",
+    "Wörter/Gepäcke.md",
+    "Wörter/unten.md",
+    "Wörter/Wer bist du denn.md",
+    "Wörter/wer.md",
+    "Wörter/altmodisch.md",
+    "Wörter/älter.md",
+    "Wörter/am ältesten.md",
+    "Wörter/alter.md",
+    "Wörter/alt.md",
+    "Wörter/alte.md",
+    "Wörter/altes.md",
+    "Wörter/alten.md",
+    "Wörter/jung.md",
+    "Wörter/jünger.md",
+    "Wörter/am jüngsten.md",
+    "Wörter/Nomen/Junge.md",
+    "Anhänge/Pasted image 20240630143624.png",
+    "Anhänge/Pasted image 20240630143618.png",
+    "Texte/Gedichte/Kinder",
     "Wortlisten/IMG_5118.MOV",
     "Anhänge/Pasted image 20240620183840.png",
     "Untitled 2.canvas",
@@ -232,10 +191,7 @@
     "Anhänge/Pasted image 20240618091846.png",
     "Excalidraw",
     "Texte/Misc",
-    "Anhänge/Pasted image 20240617155113.png",
     "Wörter/Phrasen",
-    "Wörter/Artikels/Untitled",
-    "Anhänge/Pasted image 20240617130203.png",
     "Texte/Ditor/Positionen.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

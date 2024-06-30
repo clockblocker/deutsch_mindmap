@@ -1,0 +1,1 @@
+  - **Neuter**: Ich [[besuche]] ein [[altes]] Haus. (I visit an old house.)

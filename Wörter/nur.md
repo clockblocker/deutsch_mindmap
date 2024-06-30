@@ -1,4 +1,9 @@
-только 
 
 Nur ein bisschen
-Roland isst [[nur]] eine [[Kleinigkeit]].
+
+SASCHA: Hey, nein ... hier gibt es [[nur]] ein Schlafzimmer.
+
+
+
+только 
+

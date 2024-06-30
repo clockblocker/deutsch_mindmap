@@ -2,7 +2,11 @@ Positive: [[langsam]]
 Comparative: [[langsamer]]
 Superlative: [[am langsamsten]]
 
-nicht schnell
+nicht [[schnell]]
+
+ “[[Schnell]]” und “[[langsam]]” sind [[Antonym]]e.
+  Das [[Gegenteil]] von “[[schnell]]” ist “[[langsam]]”.
+
 
 ---
 Beispiele:

@@ -1,0 +1,1 @@
+  - **Plural**: Das sind [[junge]] [[Leute]]. (Those are young people.)

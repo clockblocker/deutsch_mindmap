@@ -180,7 +180,7 @@ SAM: Ich lese…
 
 SASCHA: Oh, wie interessant.
 
-ANNA: Ja, wir gehen auch immer in die Bücherei, nicht wahr?
+ANNA: Ja, wir [[gehen]] auch immer in die [[Bücherei]], [[nicht wahr]]?
 
 SASCHA: Aber klaaaar. [[Dort]] ist es sooooo [[toll]].
 [[Aber klar]]
@@ -189,33 +189,33 @@ SAM: Super!
 
 SAM: Hier wohne ich.
 
-SASCHA: Du wohnst in einem Museum!
+SASCHA: Du [[wohnst]] in einem Museum!
 
 SAM: OK. Ein Museum.  
 Ich wohne in einem Museum. Ich wohne in einem Museum.
 
 SASCHA: Okay.
 
-ANNA: Ich glaube, er arbeitet in einem Museum.
+ANNA: Ich [[glaube]], er arbeitet in einem Museum.
 
-ANNA: Hey Sam, komm … Wir zeigen dir die Wohnung.
+ANNA: Hey Sam, komm … Wir [[zeigen]] dir die [[Wohnung]].
 
 SAM: Super!
 
 ANNA: Sam, wir zeigen dir die Wohnung!
 
-SASCHA: Hier ist das Schlafzimmer.
+SASCHA: Hier ist das [[Schlafzimmer]].
 
 SAM: Wow, danke.  
-Gutes Bett! So where do you sleep? Wo schlaft ihr?
+[[Gutes]] Bett! So where do you sleep? [[Wo]] schlaft ihr?
 
-SASCHA: Hey, nein ... hier gibt es nur ein Schlafzimmer.
+SASCHA: Hey, nein ... [[hier]] [[gibt]] es [[nur]] ein Schlafzimmer.
 
 SAM: Wie? Nur eins? Ich habe zweiundzwanzig …
 
 ANNA: Zweiundzwanzig. Er hat zweiundzwanzig Zimmer?
 
-SASCHA: Ich glaube er meint zwei Zimmer. Okay du kannst hier schlafen.
+SASCHA: Ich [[glaube]] er [[meint]] zwei Zimmer. Okay du [[kannst]] hier schlafen.
 
 SAM: Okay.
 
@@ -227,31 +227,31 @@ ANNA: Ja.
 
 SAM: Wow, fantastic.
 
-SASCHA: Und hier ist ein Kissen für dich …
+SASCHA: Und hier ist ein Kissen [[für]] dich …
 
 SAM: Thanks.
 
-ANNA: Und hier ist die Fernbedienung.
+ANNA: Und hier ist die [[Fernbedienung]].
 
 SAM: Danke.
 
-SASCHA: Fühl dich wie zu Hause. Ich muss mal ins Bad.
+SASCHA: [[Fühl dich wie zu Hause]]. Ich muss mal ins [[Bad]].
 
-SASCHA: Psst Anna! Ins Bad! Schnell!
+SASCHA: Psst Anna! [[Ins]] Bad! [[Schnell]]!
 
-SASCHA: Hilfe! Was machen wir mit ihm? Er spielt mit Spielzeug-Autos. Das gibt’s doch nicht!
+SASCHA: [[Hilfe]]! Was [[machen]] wir mit ihm? Er spielt mit Spielzeug-Autos. [[Das gibt’s doch nicht!]]
 
-ANNA: Und besonders sexy ist er auch nicht!
+ANNA: Und [[besonders]] sexy ist er auch nicht!
 
 SAM: Room service.
 
-ANNA: Aber er ist so süß …
+ANNA: Aber er ist so [[süß]] …
 
-SASCHA: Und er ist höflich …
+SASCHA: Und er ist [[höflich]] …
 
-BOTH: Aber seine Klamotten!
+BOTH: Aber seine [[Klamotten]]!
 
-ANNA: Er ist so altmodisch!
+ANNA: Er ist so [[altmodisch]]!
 
 SASCHA: Er muss hier raus!
 
@@ -259,15 +259,15 @@ NIC: Hallo.
 
 SAM: Hi.
 
-NIC: Wer bist du denn?
+NIC: [[Wer]] bist du denn?
 
-SAM: Du bist aber schnell! Gut! Mein ... Gepäck ... ist unten …
+SAM: Du bist aber schnell! Gut! Mein ... [[Gepäck]] ... ist [[unten]] …
 
 NIC: Was?
 
 SAM: Bitte bringen ... Sie mir ... mein Gepäck.
 
-NIC: Gepäck? Wie bitte? Was ist denn mit dir los?
+NIC: Gepäck? [[Wie bitte]]? [[Was ist denn mit dir los]]?
 
 SAM: Ich ziehe – du kommst. Du bist der Portier right?
 
@@ -536,9 +536,6 @@ NIC: Ich muss los!
 SASCHA: Nein ins Schlafzimmer.
 
 NIC: Ahh ... die Miete.
-
-SAM: I’m going to love it here Mom.  
-The Germans are just so friendly.
 
 Nächstes Mal in Extra ...  
 Unsere Freunde gehen für Sam einkaufen  
