@@ -4,18 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "400d255856952cbf",
+        "id": "1faf04601d6fe218",
         "type": "tabs",
         "children": [
           {
-            "id": "8e7d02c345dcec57",
+            "id": "568c420f3c116ce9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ffeaba9632a3be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Tisch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f258026037754291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Tische.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a01ebe3c1b5a414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Tisch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d055743d21512459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Итоги работы за прошедшие полгода.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bc09d6eeca19ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/warte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77c5d970c1143cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Regal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02ad5a27578b85c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Regale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48b924bfa73f4182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Regal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -44,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anto",
+                "query": "Tisch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wörter/Итоги работы за прошедшие полгода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wörter/Итоги работы за прошедшие полгода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wörter/Итоги работы за прошедшие полгода.md"
+              }
             }
           }
         ]
@@ -143,57 +249,57 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8e7d02c345dcec57",
+  "active": "d055743d21512459",
   "lastOpenFiles": [
-    "Wortlisten/Custom/1000 am häufigsten.md",
+    "Wörter/Tisch.md",
+    "Wörter/Итоги работы за прошедшие полгода.md",
+    "Wörter/Das ist eine Lüge.md",
+    "Wörter/Geschlechter.md",
+    "Wörter/Falsch.md",
+    "Wörter/Tische.md",
+    "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 2.md",
+    "Wörter/gleiche.md",
+    "Wörter/Geschlecht.md",
+    "Wörter/das Geschlecht.md",
+    "Wörter/warte.md",
+    "Wörter/warten.md",
+    "Wörter/wartete.md",
+    "Wörter/gewartet.md",
+    "Wörter/wartest.md",
+    "Wörter/wartet.md",
+    "Wörter/wartetest.md",
+    "Wörter/warteten.md",
+    "Wörter/wartetet.md",
+    "Wörter/Regal.md",
+    "Wörter/Regale.md",
+    "Lektionen/Intensiv/A2.1 Kursbuch/Lesson 3.md",
     "Texte/Skripte/extra/Extra 1.md",
-    "Wörter/Wie bitte.md",
-    "Wörter/los.md",
-    "Wörter/Was ist denn hier los.md",
-    "Wörter/Was ist denn mit dir los.md",
-    "Wörter/Was ist los.md",
-    "Wörter/denn.md",
-    "Wörter/bitte.md",
-    "Wörter/Gepäck.md",
-    "Wörter/Gepäcke.md",
-    "Wörter/unten.md",
-    "Wörter/Wer bist du denn.md",
-    "Wörter/wer.md",
-    "Wörter/altmodisch.md",
-    "Wörter/älter.md",
-    "Wörter/am ältesten.md",
-    "Wörter/alter.md",
-    "Wörter/alt.md",
-    "Wörter/alte.md",
-    "Wörter/altes.md",
-    "Wörter/alten.md",
-    "Wörter/jung.md",
-    "Wörter/jünger.md",
-    "Wörter/am jüngsten.md",
-    "Wörter/Nomen/Junge.md",
-    "Anhänge/Pasted image 20240630143624.png",
-    "Anhänge/Pasted image 20240630143618.png",
+    "Wortlisten/Custom/1000 am häufigsten.md",
+    "Excalidraw/Drawing 2024-07-03 13.02.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-30 15.23.24.excalidraw.md",
+    "Anhänge/Pasted image 20240703133033.png",
+    "Anhänge/Pasted image 20240703131951.png",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Anhänge/Pasted image 20240703131821.png",
+    "Anhänge/Pasted image 20240703131433.png",
+    "Anhänge/Pasted image 20240703130609.png",
+    "Anhänge/Pasted image 20240703130355.png",
+    "Anhänge/Pasted image 20240703130315.png",
+    "Anhänge/Pasted image 20240703121521.png",
+    "Anhänge/Pasted image 20240702140537.png",
+    "Lektionen/Intensiv/A2.1 Kursbuch",
+    "Lektionen/Intensiv/A2.1 Arbeitsbuch",
+    "Lektionen/Intensiv",
+    "Anhänge/Pasted image 20240630154141.png",
     "Texte/Gedichte/Kinder",
     "Wortlisten/IMG_5118.MOV",
-    "Anhänge/Pasted image 20240620183840.png",
-    "Untitled 2.canvas",
     "Texte/Skripte/extra",
-    "Anhänge/Pasted image 20240619090900.png",
-    "Anhänge/Pasted image 20240618222711.png",
     "Wortlisten/Custom",
-    "Anhänge/Pasted image 20240618145621.png",
-    "Anhänge/Pasted image 20240618145559.png",
-    "Anhänge/Pasted image 20240618145555.png",
     "Wörter/Nomen/Thematik",
     "Wörter/Pronomen/Pronomenformen",
     "excalibrain",
-    "Anhänge/Pasted image 20240618100529.png",
-    "Anhänge/Pasted image 20240618091846.png",
-    "Excalidraw",
-    "Texte/Misc",
-    "Wörter/Phrasen",
-    "Texte/Ditor/Positionen.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Texte/Ditor/Positionen.canvas"
   ]
 }

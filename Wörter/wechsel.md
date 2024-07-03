@@ -1,1 +1,3 @@
 смена
+
+[[Ortwechsel]] des Subjekts
