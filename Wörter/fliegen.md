@@ -2,6 +2,8 @@ Inf: [[fliegen]]
 Past: [[flog]]
 Perfect: [[geflogen]]
 
+[[nachfliegen]]
+
 ---
 Beispiele:
 - SASCHA: Wer mein Fahrrad anfasst [[fliegt raus]], kapiert, R-A-U-S.

@@ -6,6 +6,8 @@ Perfect: [[gesehen]]
 ---
 Beispiele:
 - [[Ich Will|Wir wollen eure Hände sehen]]  
+- Das Bild [[aussiecht|siecht]] wie Zürich aus
+
 
 
 ---

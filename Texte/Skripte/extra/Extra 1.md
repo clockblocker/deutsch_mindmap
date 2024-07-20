@@ -25,7 +25,7 @@ SASCHA: Gib mir [[sofort]] die Post Louis!
 ANNA: Louis. [[Lass das fallen!]]
 
 ANNA: [[Guter]] Hund!
-
+[[Ohne]] Pause Zurich nach Hause
 ANNA: Telefon[[Rechnung]], Gas[[Rechnung]], Strom[[Rechnung]] … Oh, [[was]] ist das?  
 Sascha, ein Brief [[für]] dich!
 
@@ -330,7 +330,7 @@ Wirklich! Hihi!
 
 SAM: „Ich wohne in einem Museum ..."
 
-NIC: Also pass auf. Das hier ist der Ofen.
+NIC: Also pass auf. Das hier ist der [[Ofen]].
 
 SAM: Das hier ist der Ofen.
 

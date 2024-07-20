@@ -5,6 +5,7 @@ Perfect: [[gefühlt]]
 ---
 Beispiele:
 
+She [[fühlte]] sich nicht [[wohl]]
 SASCHA: [[fühl dich wie zu Hause]]. Ich muss mal ins Bad.
 
 

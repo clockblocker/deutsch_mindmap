@@ -4,119 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1faf04601d6fe218",
+        "id": "a044621bfc3848ec",
         "type": "tabs",
         "children": [
           {
-            "id": "568c420f3c116ce9",
+            "id": "0b4c0b8f4d2dc41f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 2.md",
+                "file": "Lektionen/Dieter/20.07.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0ffeaba9632a3be6",
+            "id": "3763f6fa5cae95f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Tisch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f258026037754291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Tische.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a01ebe3c1b5a414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Tisch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d055743d21512459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Итоги работы за прошедшие полгода.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bc09d6eeca19ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/warte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77c5d970c1143cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Regal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02ad5a27578b85c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Regale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48b924bfa73f4182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Regal.md",
+                "file": "Wörter/einwilligen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tisch",
+                "query": "fühl dich wie zu Hause",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/Итоги работы за прошедшие полгода.md",
+                "file": "Wörter/einwilligen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/Итоги работы за прошедшие полгода.md",
+                "file": "Wörter/einwilligen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörter/Итоги работы за прошедшие полгода.md"
+                "file": "Wörter/einwilligen.md"
               }
             }
           }
@@ -249,34 +164,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d055743d21512459",
+  "active": "3763f6fa5cae95f4",
   "lastOpenFiles": [
-    "Wörter/Tisch.md",
-    "Wörter/Итоги работы за прошедшие полгода.md",
-    "Wörter/Das ist eine Lüge.md",
-    "Wörter/Geschlechter.md",
-    "Wörter/Falsch.md",
-    "Wörter/Tische.md",
-    "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 2.md",
-    "Wörter/gleiche.md",
-    "Wörter/Geschlecht.md",
-    "Wörter/das Geschlecht.md",
-    "Wörter/warte.md",
-    "Wörter/warten.md",
-    "Wörter/wartete.md",
-    "Wörter/gewartet.md",
-    "Wörter/wartest.md",
-    "Wörter/wartet.md",
-    "Wörter/wartetest.md",
-    "Wörter/warteten.md",
-    "Wörter/wartetet.md",
-    "Wörter/Regal.md",
-    "Wörter/Regale.md",
-    "Lektionen/Intensiv/A2.1 Kursbuch/Lesson 3.md",
+    "Lektionen/Dieter/20.07.md",
+    "Wörter/einwilligen.md",
+    "Wörter/bejahen.md",
+    "Wörter/verneinen.md",
+    "Wörter/ja.md",
+    "Wörter/nein.md",
+    "Lektionen/Dieter/20.06.md",
+    "Lektionen/Dieter/22.06.md",
+    "Templates/Verb.md",
+    "Wörter/zwar+aber.md",
+    "Wörter/arm.md",
+    "Wörter/Amit Garg.md",
+    "Wörter/Was für ein.md",
+    "Wörter/übersetzen.md",
+    "Lektionen/Dieter/untrenbarens.md",
+    "Templates/Noun.md",
+    "Wörter/ent-.md",
+    "Wörter/er-.md",
+    "Wörter/Pronomen/er.md",
     "Texte/Skripte/extra/Extra 1.md",
-    "Wortlisten/Custom/1000 am häufigsten.md",
-    "Excalidraw/Drawing 2024-07-03 13.02.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-30 15.23.24.excalidraw.md",
+    "Wörter/fühlen.md",
+    "Wörter/fühlte.md",
+    "Wörter/Sie fühlte sich nicht wohl.md",
+    "Wörter/Weg.md",
+    "Wörter/Fühl dich wie zu Hause.md",
+    "Wörter/wohl.md",
+    "Anhänge/Pasted image 20240711191857.png",
+    "Anhänge/Pasted image 20240709230059.png",
+    "Texte/Skripte/Muzzy",
+    "Anhänge/Pasted image 20240704201608.png",
+    "Anhänge/Pasted image 20240704201459.png",
+    "Anhänge/Pasted image 20240704193617.png",
     "Anhänge/Pasted image 20240703133033.png",
     "Anhänge/Pasted image 20240703131951.png",
     "Untitled 2.canvas",
@@ -285,21 +206,15 @@
     "Anhänge/Pasted image 20240703131821.png",
     "Anhänge/Pasted image 20240703131433.png",
     "Anhänge/Pasted image 20240703130609.png",
-    "Anhänge/Pasted image 20240703130355.png",
-    "Anhänge/Pasted image 20240703130315.png",
-    "Anhänge/Pasted image 20240703121521.png",
-    "Anhänge/Pasted image 20240702140537.png",
     "Lektionen/Intensiv/A2.1 Kursbuch",
     "Lektionen/Intensiv/A2.1 Arbeitsbuch",
     "Lektionen/Intensiv",
-    "Anhänge/Pasted image 20240630154141.png",
     "Texte/Gedichte/Kinder",
     "Wortlisten/IMG_5118.MOV",
     "Texte/Skripte/extra",
     "Wortlisten/Custom",
     "Wörter/Nomen/Thematik",
     "Wörter/Pronomen/Pronomenformen",
-    "excalibrain",
     "Texte/Ditor/Positionen.canvas"
   ]
 }

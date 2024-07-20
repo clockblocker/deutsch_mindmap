@@ -1,0 +1,1 @@
+Infinitive: [[essen]]

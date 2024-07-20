@@ -7,16 +7,16 @@ schwimmen auf dem [[See]],
 
 ![[Pasted image 20240630153821.png]]
 
-Alle meine Täubchen 
+Alle meine [[Täubchen]] 
+[[gurren]] auf dem [[Dach]], 
 gurren auf dem Dach, 
-gurren auf dem Dach, 
-fliegt eins in die Lüfte, 
-fliegen alle nach. 
+\[ [[Wenn]] \] [[fliegt]] eins in die [[Lüfte]], 
+[[nachfliegen|fliegen]] alle nach. 
 
-Alle meine Hühner
+Alle meine [[Hühner]]
+[[scharren]] in dem [[Stroh]], 
 scharren in dem Stroh, 
-scharren in dem Stroh, 
-finden sie ein Körnchen, 
-sind sie alle froh.
+finden sie ein [[Körnchen]], 
+sind sie alle [[froh]].
 
 https://www.youtube.com/watch?v=TBT6edKlNj4

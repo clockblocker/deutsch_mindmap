@@ -1,0 +1,4 @@
+[[ver]][[nein]][[en]]
+
+[[bejahen]]
+

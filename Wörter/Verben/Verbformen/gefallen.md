@@ -1,52 +1,62 @@
-
 Inf: [[gefallen]]
-Past: [[]]
-Perfect: [[]]
+Past: [[gefiel]]
+Perfect: [[gefallen]]
 
 ---
-Beispiele: [[Diese]] Blumen [[gefallen]] [[mir]] 
-
-#через_жопу
- 
+Beispiele:
+- Welches Foto [[gefällt]] Ihnen?
 
 ---
 
-|     |      |
-| --- | ---- |
-| ich | [[]] |
-| du  | [[]] |
-| er  | [[]] |
-| sie | [[]] |
-| es  | [[]] |
-| wir | [[]] |
-| ihr | [[]] |
-| sie | [[]] |
-| Sie | [[]] |
-
+|     |                  |
+| --- | ---------------- |
+| ich | [[gefalle]]      |
+| du  | [[gefällst]]     |
+| er  | [[gefällt]]      |
+| sie | [[gefällt]]      |
+| es  | [[gefällt]]      |
+| wir | [[gefallen]]     |
+| ihr | [[gefallt]]      |
+| sie | [[gefallen]]     |
+| Sie | [[gefallen]]     |
 
 ---
 **Übersetzung**:
-
-
-
+to like, to please
 
 ---
 
 Tags: 
 #Verb
-#Ablaut | #Schwache
-#Unregelmäßige | #Regelmäßige
-#Inf | #Form
+#Unregelmäßige
+#Inf | #Partizip II
 
 ---
 Präteritum
-Ich [[]]
-du [[]]
-er [[]]
-es [[]]
-sie[[]]
-wir [[]]
-ihr [[]]
-Sie [[]]
+Ich [[gefiel]]
+du [[gefielst]]
+er [[gefiel]]
+es [[gefiel]]
+sie [[gefiel]]
+wir [[gefielen]]
+ihr [[gefielt]]
+Sie [[gefielen]]
 
+---
 
+Perfekt
+Ich habe [[gefallen]]
+du hast [[gefallen]]
+er hat [[gefallen]]
+es hat [[gefallen]]
+sie hat [[gefallen]]
+wir haben [[gefallen]]
+ihr habt [[gefallen]]
+Sie haben [[gefallen]]
+
+---
+
+Imperativ
+du [[gefalle]]
+ihr [[gefallt]]
+Sie [[gefallen]]

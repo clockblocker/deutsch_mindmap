@@ -3,7 +3,7 @@ Plural: die [[Kissen]]
 
 
 Beispiele:
-[[Du hast|Ich bin die Stimme aus dem Kissen]]
+[[Mein Herz brennt|Ich bin die Stimme aus dem Kissen]]
 Ich [[schlafe]] auf [[minen]] Kissen
 
 ---

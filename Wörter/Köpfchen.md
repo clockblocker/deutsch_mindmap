@@ -1,12 +1,8 @@
 Singular: das [[Köpfchen]]
-Plural: die [[Köpfchen]]
+[[Plural]]: die [[Köpfchen]]
 
 Beispiele:
-[[Kopf]][[chen]] in das [[Wasser]],
-
----
-Translation:
-little head
+[[Kopf]][[chen]] in das [[Wasser]]
 
 ---
 

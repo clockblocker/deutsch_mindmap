@@ -5,6 +5,8 @@ Perfect: [[geglaubt]]
 ---
 Beispiele:
 -  Ich [[glaube]], er arbeitet in einem Museum.
+- Ich [[glaube]], er kauft für seine Frau ein.
+- Ich [[denke]], er kauft für seine Frau ein.
 - SASCHA: Ich [[glaube]] er meint zwei Zimmer.
 
 ---

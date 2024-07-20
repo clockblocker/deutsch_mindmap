@@ -1,0 +1,1 @@
+Plural: die [[Pläne]]

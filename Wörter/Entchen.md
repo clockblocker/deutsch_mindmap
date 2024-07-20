@@ -5,6 +5,8 @@ Plural: die [[Entchen]]
 
 [[Ente]]
 
+ Ent[[chen]]
+
 Beispiele:
 [[Alle meine Entchen]]
 
