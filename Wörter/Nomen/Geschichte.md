@@ -8,6 +8,6 @@ Das ist die [[Geschichte]] von Sascha und Anna
 
 ---
 
-#Noun #Feminin 
+#Substantiv #Feminin 
 
 

@@ -46,3 +46,15 @@ sie [[sah]]
 wir [[sahen]]
 ihr [[saht]]
 Sie [[sahen]]
+
+--- 
+
+Imperativ  
+Ich (—)  
+du [[sieh]]  
+er (—)  
+es (—)  
+sie (—)  
+wir [[sehen]]  
+ihr [[seht]]  
+Sie [[sehen Sie]]

@@ -10,5 +10,5 @@ Plural: die [[Entchen]]
 Beispiele:
 [[Alle meine Entchen]]
 
-#Noun #Neuter
+#Substantiv #Neuter
 

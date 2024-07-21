@@ -11,5 +11,5 @@ Translation: приглашение
 
 ---
 
-#Noun
+#Substantiv
 #Feminin

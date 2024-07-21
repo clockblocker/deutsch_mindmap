@@ -13,4 +13,4 @@ Translation:
 
 ---
 
-#Noun #Feminin 
+#Substantiv #Feminin 

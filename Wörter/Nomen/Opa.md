@@ -15,4 +15,4 @@ Translation:
 
 ---
 
-#Noun #Masculin 
+#Substantiv #Masculin 

@@ -20,7 +20,7 @@ wall
 
 ---
 
-#Noun
+#Substantiv
 #Feminine
 
 ---

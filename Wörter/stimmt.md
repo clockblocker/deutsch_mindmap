@@ -1,1 +1,1 @@
-правда
+Ya [[das stimmt]]

@@ -11,7 +11,7 @@ grain
 
 ---
 
-#Noun
+#Substantiv
 #Neuter
 
 ---

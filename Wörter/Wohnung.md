@@ -11,7 +11,7 @@ apartment
 
 ---
 
-#Noun
+#Substantiv
 #Feminin
 
 ---

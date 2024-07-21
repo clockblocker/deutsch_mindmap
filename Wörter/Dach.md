@@ -12,7 +12,7 @@ roof
 
 ---
 
-#Noun
+#Substantiv
 #Neuter
 
 ---

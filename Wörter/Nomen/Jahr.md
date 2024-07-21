@@ -11,4 +11,4 @@ Translation:
 
 ---
 
-#Noun #Neuter 
+#Substantiv #Neuter 

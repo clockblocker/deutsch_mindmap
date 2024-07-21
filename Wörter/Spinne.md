@@ -6,7 +6,7 @@ die [[Tarantel]]
 
 ---
 
-#Noun
+#Substantiv
 #Feminin
 
 ---

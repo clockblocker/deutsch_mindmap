@@ -10,7 +10,7 @@ lesson, class
 
 ---
 
-#Noun
+#Substantiv
 #Masculine
 
 ---

@@ -6,7 +6,7 @@ Beispiele:
 
 ---
 
-#Noun #Neuter
+#Substantiv #Neuter
 
 ---
 

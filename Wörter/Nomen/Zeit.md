@@ -12,4 +12,4 @@ time
 
 ---
 
-#Noun #Feminin
+#Substantiv #Feminin

@@ -13,5 +13,5 @@ bill
 
 ---
 
-#Noun
+#Substantiv
 #Feminin 

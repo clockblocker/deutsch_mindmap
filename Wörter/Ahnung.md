@@ -10,7 +10,7 @@ idea, notion, clue
 
 ---
 
-#Noun
+#Substantiv
 #Feminine
 
 ---

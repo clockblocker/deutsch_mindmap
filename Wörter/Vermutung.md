@@ -18,7 +18,7 @@ assumption, presumption
 
 ---
 
-#Noun
+#Substantiv
 #Feminine
 
 ---

@@ -7,7 +7,7 @@ Köpfchen in das Wasser,
 
 ---
 
-#Noun
+#Substantiv
 #Neuter
 
 ---

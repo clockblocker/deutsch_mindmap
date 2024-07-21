@@ -9,7 +9,7 @@ recording
 
 ---
 
-#Noun
+#Substantiv
 #Feminine
 
 ---

@@ -9,7 +9,7 @@ shelf, bookcase
 
 ---
 
-#Noun
+#Substantiv
 #Neuter
 
 ---

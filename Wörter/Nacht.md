@@ -10,7 +10,7 @@ night
 
 ---
 
-#Noun #Feminin
+#Substantiv #Feminin
 
 ---
 

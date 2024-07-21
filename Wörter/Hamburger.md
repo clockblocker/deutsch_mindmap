@@ -1,0 +1,1 @@
+der [[Hamburger]] / die [[Hamburger]] | #Substantiv #Masculin | hamburger

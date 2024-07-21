@@ -1,3 +1,3 @@
 Singular: der [[Typ]]
-#Noun
+#Substantiv
 #Masculin

@@ -10,7 +10,7 @@ plan
 
 ---
 
-#Noun
+#Substantiv
 #Masculine
 
 ---

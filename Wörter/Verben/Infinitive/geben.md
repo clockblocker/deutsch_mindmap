@@ -6,6 +6,7 @@ Perfect: [[gegeben]]
 Beispiele:
 - Gib [[mir]] [[sofort]] die Post Louis!
 - SASCHA: Hey, nein ... [[hier gibt es]] nur ein Schlafzimmer.
+- Und Sascha hat ihm ein Herz-Kissen [[gegeben]]
 
 
 ---

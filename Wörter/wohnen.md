@@ -5,6 +5,7 @@ Perfect: [[gewohnt]]
 ---
 Beispiele:
 SASCHA: Du [[wohnst]] in einem Museum!
+Er geht in die Bücherei und wohnt in einem Museum!  Wirklich! Hihi!
 
 ---
 

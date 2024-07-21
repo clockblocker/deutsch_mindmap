@@ -1,0 +1,1 @@
+die [[Milch]] | #Substantiv #Feminin | milk

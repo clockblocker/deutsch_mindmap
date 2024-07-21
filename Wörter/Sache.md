@@ -23,7 +23,7 @@ thing, item, matter
 
 ---
 
-#Noun
+#Substantiv
 #Feminine
 
 ---

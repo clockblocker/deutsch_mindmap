@@ -18,12 +18,7 @@ Perfect: [[gemeint]]
 
 ---
 Beispiele:
-- Ich [[meine]], dass er recht hat. (I mean that he is right.)
-- Du [[meinst]], sie kommt heute. (You mean she is coming today.)
-- Er [[meint]], das ist eine gute Idee. (He means that is a good idea.)
-- Wir [[meinen]], es wird besser. (We mean it will get better.)
-- Ihr [[meint]], es ist einfach. (You all mean it is easy.)
-- Sie [[meinen]], das ist nicht möglich. (They/You [formal] mean that is not possible.)
+- SASCHA: Also [[was meinst du]]– rot oder blau?
 
 ---
 

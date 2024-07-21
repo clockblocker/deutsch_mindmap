@@ -10,7 +10,7 @@ idea
 
 ---
 
-#Noun
+#Substantiv
 #Feminin
 
 ---

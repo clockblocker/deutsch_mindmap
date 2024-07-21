@@ -20,7 +20,7 @@ floor, ground
 
 ---
 
-#Noun
+#Substantiv
 #Masculine
 
 ---

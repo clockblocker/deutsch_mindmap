@@ -11,7 +11,7 @@ table
 
 ---
 
-#Noun
+#Substantiv
 #Masculine
 
 ---

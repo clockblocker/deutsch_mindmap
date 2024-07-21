@@ -1,0 +1,1 @@
+die [[Schokolade]] / die [[Schokoladen]] | #Substantiv #Feminin | chocolate

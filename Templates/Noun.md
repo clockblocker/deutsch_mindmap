@@ -10,5 +10,5 @@ Translation:
 
 ---
 
-#Noun
+#Substantiv
 #Masculin | #Feminin | #Neuter 

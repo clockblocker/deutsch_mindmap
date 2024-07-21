@@ -18,14 +18,13 @@ Tschüs.
 Männer!
 
 ANNA: Louis [[komm]] [[schon]]. Sascha! Die Post! Louis und ich haben die Post!  
-[[Gib]] mir die Post Louis!
+[[Gib]] mir die Post Louis! 
 
 SASCHA: Gib mir [[sofort]] die Post Louis!
 
 ANNA: Louis. [[Lass das fallen!]]
 
 ANNA: [[Guter]] Hund!
-[[Ohne]] Pause Zurich nach Hause
 ANNA: Telefon[[Rechnung]], Gas[[Rechnung]], Strom[[Rechnung]] … Oh, [[was]] ist das?  
 Sascha, ein Brief [[für]] dich!
 
@@ -34,14 +33,14 @@ SASCHA: Ein Brief [[für]] mich.
 
 SASCHA: Hey, was ist [[denn]] das?
 
-ANNA: „Sascha Maus dieser Brief ist für dich. Hast du [[immer noch]] so viele [[Pickel]]?  
+ANNA: „Sascha Maus [[dieser]] Brief ist für dich. Hast du [[immer noch]] so [[viele]] [[Pickel]]?  
 Deine Mama.”
 
-SASCHA: Danke. Der hier ist aus Amerika.
+SASCHA: Danke. [[Der hier]] ist [[aus]] Amerika.
 
-ANNA: Aus Amerika? Von [[wem]] denn? [[Na sag schon]] ...
+ANNA: Aus Amerika? [[Von wem denn]]? [[Na sag schon]] ...
 
-SASCHA: Mmh … „Hallo! Kennst du mich [[noch]]?“  
+SASCHA: Mmh … „Hallo! [[Kennst]] du mich [[noch]]?“  
 Nein ... „vor sieben Jahren [[Brieffreunde]] sind wir ...“
 
 Vor sieben Jahren [[waren]] wir Brieffreunde.
@@ -173,7 +172,7 @@ SASCHA: Du spielst mit Autos?
 
 SAM: Ja, du spielst (KORRIGIERT SICH) nein, nein, ich spiele mit Autos!
 
-SASCHA: Der Typ spielt mit Autos!
+SASCHA: Der [[Typ]] [[spielt]] mit Autos!
 
 SAM: Ich lese…  
 ….Ich liebe die Bücherei …
@@ -202,7 +201,7 @@ ANNA: Hey Sam, komm … Wir [[zeigen]] dir die [[Wohnung]].
 
 SAM: Super!
 
-ANNA: Sam, wir zeigen dir die Wohnung!
+ANNA: Sam, wir [[zeigen]] dir die Wohnung!
 
 SASCHA: Hier ist das [[Schlafzimmer]].
 
@@ -287,11 +286,11 @@ NIC: Sascha und Anna.
 
 SAM: Sascha und Anna wohnen hier.
 
-NIC: Ja, das weiß ich. Aber wo ist Sascha?
+NIC: Ja, [[das weiß ich]]. Aber wo ist Sascha?
 
 SAM: Ah! Sascha ... hat mir ... hat mir das ... gegeben!
 
-NIC: Ach so … Sascha hat dir das gegeben.
+NIC: Ach so … Sascha hat [[dir]] das gegeben.
 
 ANNA: Hallo Nic – das hier ist Sam Scott aus Amerika.
 
@@ -299,38 +298,38 @@ NIC: Mmh, ja ... Ich weiß.
 
 SASCHA: Ist er nicht süüüüüß …
 
-Hast du Hunger?
+[[Hast du Hunger?]]
 
-Wir kaufen dir was zu essen – was ist dein Lieblingsessen – Currywurst?
+Wir [[kaufen]] dir [[was zu]] essen – [[was ist dein Lieblings]]essen – Currywurst?
 
 SAM: Currywurst, OK.
 
-ANNA: Nic, Sam, ihr habt bestimmt viel Spaß miteinander!
+ANNA: Nic, Sam, ihr habt [[bestimmt]] [[viel]] [[Spaß]] [[miteinander]]!
 
-SASCHA: Nic – du kannst ihm ja Deutschunterricht geben!
+SASCHA: Nic – du kannst ihm ja [[Deutsch]][[unterricht]] geben!
 
-NIC: Deutschunterricht?Ja, ich werd’ ihm Deutsch-Unterricht geben …
+NIC: Deutschunterricht?Ja, ich [[werden|werd]]’ ihm Deutsch-Unterricht geben …
 
 SAM: And do you know what the German for ‘house’ is?  
 It’s ‘Museum’ Yeah! Good isn’t it!
 
 NIC: Hallo Jo! Dieser Amerikaner - Sam - hat gedacht, ich wäre der Portier!!!
 
-SAM: Bitte bringen Sie mir mein Gepäck.
+SAM: Bitte [[bringen]] Sie mir mein [[Gepäck]].
 
-NIC: Und Sascha hat ihm ein Herz-Kissen gegeben ... mmh ... Das muss ein Ende haben ...
+NIC: Und Sascha hat ihm ein Herz-Kissen [[gegeben]] ... mmh ... [[Das muss ein Ende haben]] ...
 
-ANNA: Nadja,stell dir vor:  
+ANNA: Nadja, [[stell dir vor]]:  
 Sam spielt mit Spielzeug-Autos!
 
 SAM: Meine kleinen Autos.
 
-ANNA: Er geht in die Bücherei und wohnt in einem Museum!  
-Wirklich! Hihi!
+ANNA: Er geht in die Bücherei und [[wohnt]] in einem Museum!  
+[[wirklich]]! [[Hihi]]!
 
 SAM: „Ich wohne in einem Museum ..."
 
-NIC: Also pass auf. Das hier ist der [[Ofen]].
+NIC: [[Also]] [[aufpassen|pass auf]]. Das hier ist der [[Ofen]].
 
 SAM: Das hier ist der Ofen.
 
@@ -350,7 +349,7 @@ NIC: Keine Chance.
 
 SAM: What?
 
-NIC: Sascha steht auf starke Männer mit starken Beinen.
+NIC: Sascha [[steht auf etwas|steht auf]] starke Männer mit starken [[Bein]]en.
 
 SAM: Stark, ich bin stark.
 
@@ -358,13 +357,13 @@ NIC: Ach ja? Kannst du 50 Kilometer auf dem Fahrrad fahren?
 
 SAM: Yeah!
 
-NIC: Niemals! Das will ich sehen.
+NIC: [[Niemals]]! Das will ich sehen.
 
-SAM: Pass auf!
+SAM: [[aufpassen|Pass auf]]!
 
-SASCHA: Also was meinst du– rot oder blau?
+SASCHA: Also [[was meinst du]] – [[rot]] [[oder]] [[blau]]?
 
-ANNA: Blau, blau finde ich besser.
+ANNA: Blau, blau [[finde ich besser]].
 
 SASCHA: Findest du?
 
@@ -372,15 +371,15 @@ ANNA: Ja.
 
 SAM: Hey, Anna, Sascha. Viel shopping?
 
-ANNA: Ähh, ja klar, Sam … Wir haben viel eingekauft.
+ANNA: Ähh, ja [[klar]], Sam … Wir haben viel [[eingekauft]].
 
-SAM: Ah Sascha! Schau mal – 50 Kilometer!
+SAM: Ah Sascha! [[schau]] mal – 50 Kilometer!
 
 SAM: Anna – der Hund ist im Ofen!
 
 ANNA: Waaas?
 
-NIC: Hi! Alles in Ordnung?
+NIC: Hi! [[Alles in Ordnung]]?
 
 SAM: Super!
 
@@ -388,49 +387,49 @@ SAM: Ufff! Jetzt bin ich ... jetzt ich bin.
 
 SASCHA: … tot …
 
-SAM: Ich bin heiß.
+SAM: Ich bin [[heiß]].
 
 NIC: Nein. Nein. Du meinst: Mir ist heiß.  
-Sam, du solltest duschen gehen.
+Sam, du [[solltest]] duschen gehen.
 
 SAM: Ahh – duschen. Mir ist heiß. Ich gehe duschen. Excuse me.
 
-SASCHA: Das war’s! Der Typ fliegt raus!
+SASCHA: [[Das war’s]]! Der Typ fliegt raus!
 
-NIC: Aber wieso? Er ist doch so nett ...
+NIC: [[Aber]] [[wieso]]? Er ist doch so [[nett]] ...
 
 SASCHA: Er – ist – mit meinem Fahrrad – gefahren!
 
 NIC: Huuuh!
 
-ANNA: Und er hat gesagt: „Der Hund ist im Ofen”. So ein blöder Witz.  
+ANNA: Und er hat gesagt: „Der Hund ist im Ofen”. So ein [[blöder]] [[Witz]].  
 Louis? Wo ist Louis? Louis?
 
-NIC: So ein böser Junge!
+NIC: So ein [[böser]] Junge!
 
 SASCHA: Der Typ fliegt raus!
 
-ANNA: Kann er bei dir wohnen, Nic?
+ANNA: Kann er [[bei]] dir wohnen, Nic?
 
-NIC: ah. Sorry, Ladies. Das geht wirklich nicht.
+NIC: ah. Sorry, Ladies. [[Das geht nicht|Das geht]] wirklich nicht.
 
-ANNA: Du hast doch ein freies Zimmer! Bitte.
+ANNA: Du hast doch ein [[freies]] Zimmer! Bitte.
 
-NIC: Auf keinen Fall! Der Typ ist nicht mein Problem.
+NIC: [[Auf keinen Fall]]! Der Typ ist nicht mein Problem.
 
-SASCHA: Er fliegt raus – und zwar sofort!
+SASCHA: Er fliegt raus – und [[zwar]] [[sofort]]!
 
-ANNA: Aber er duscht gerade!
+ANNA: [[Aber]] er [[duscht]] [[gerade]]!
 
-SASCHA: Das ist mir egal …
+SASCHA: [[Das ist mir egal]] …
 
 SASCHA: Sam! Komm sofort raus.
 
 SAM: Was?
 
-SASCHA: Wir müssen mit dir sprechen!
+SASCHA: Wir [[müssen]] mit dir sprechen!
 
-SAM: Okay. Komme sofort.
+SAM: Okay. [[Komme]] sofort.
 
 SAM: Sorry – you wanted me?
 
@@ -452,13 +451,13 @@ NIC: Sam, bist du das?
 
 SAM: Mmh…ja… mit meinen Eltern…
 
-NIC: „Familie Scott – eine der reichsten Familien Amerikas.“
+NIC: „Familie Scott – eine der [[reichsten]] [[Familie]]n Amerikas.“
 
 NIC: Aaa… Und wer ist das?
 
 SAM: Meine …
 
-NIC: … deine Dienstboten?
+NIC: … deine [[Dienstboten]]?
 
 SAM: Mmh – Ja meine Dienstboten.
 
@@ -466,33 +465,33 @@ NIC: Deine Autos?
 
 SAM: Ja, meine Autos …
 
-NIC: Mensch Sam … Du bist total reich … Warum willst du dann hier wohnen?
+NIC: Mensch Sam … Du bist [[total]] reich … Warum willst du dann hier wohnen?
 
-SAM: Ich will real ... richtige ... Freunde …
+SAM: Ich will [[real]] ... [[richtige]] ... Freunde …
 
-NIC: Die Leute mögen dich nur, weil du reich bist?
+NIC: Die [[Leute]] [[mögen]] dich nur, weil du reich bist?
 
 SAM: Ja.
 
-NIC: Mensch das ist ja schrecklich! Kein Wort zu den Mädchen! Pssst. Verstehst du?
+NIC: Mensch das ist ja [[schrecklich]]! Kein Wort zu den Mädchen! Pssst. Verstehst du?
 
 SAM: Okay. Psst … don’t tell the girls.
 
-SASCHA: Vielleicht … vielleicht sollte er doch hier wohnen?
+SASCHA: [[Vielleicht]] … vielleicht [[sollte]] er doch hier wohnen?
 
-ANNA: Oh ja, der arme kleine Amerikaner!
+ANNA: Oh ja, der [[arme]] [[kleine]] Amerikaner!
 
-NIC: Hey Sam! Du kannst bei mir wohnen. Ich habe zwei Betten.
+NIC: Hey Sam! Du kannst [[bei mir]] wohnen. Ich habe zwei Betten.
 
-SASCHA: Halt die Klappe Nic!
+SASCHA: [[Halt die Klappe]] Nic!
 
-ANNA: Sam bleibt hier bei uns. Nicht wahr Sam?
+ANNA: Sam bleibt hier bei uns. [[Nicht wahr]] Sam?
 
 SASCHA: Sam … komm hier setz dich zu mir.
 
 SASCHA: Sam – du kannst mich Cha Cha nennen. Alle meine Freunde nennen mich Cha Cha.
 
-ANNA: Louis! Da bist du ja!
+ANNA: Louis! [[Da bist du ja]]!
 
 SAM: Ah! Der Hund ist im ... Ofen.
 
@@ -506,7 +505,7 @@ NIC: Annas Hund schläft im Ofen.
 
 ANNA: Was!
 
-SASCHA: Hey Leute! Was sitzen wir herum? Heute ist die Love Parade.
+SASCHA: Hey [[Leute]]! Was sitzen wir herum? Heute ist die Love Parade.
 
 SAM: Love Parade?
 
@@ -515,9 +514,9 @@ Mein Make-up ...
 
 SAM: Ich muss schnell Room Service.
 
-SASCHA: Hat jemand meine neue Zeitschrift gesehen?
+SASCHA: Hat [[jemand]] meine [[neue]] [[Zeitschrift]] gesehen?
 
-NIC: Keine Ahnung.
+NIC: Keine [[Ahnung]].
 
 ANNA: Ich geh schon.  
 Ja hallo?
@@ -525,20 +524,20 @@ Ja hallo?
 ANNA: Oh nein …  
 Ja, kommen Sie bitte hoch.
 
-Hilfe, es ist die Vermieterin!
+[[Hilfe]], es ist die [[Vermieterin]]!
 
 NIC: Was? Die Tarantel?
 
-SASCHA: Schnell Sam! Versteck dich!
+SASCHA: [[Schnell]] Sam! [[Versteck]] dich!
 
 NIC: Ich muss los!
 
 SASCHA: Nein ins Schlafzimmer.
 
-NIC: Ahh ... die Miete.
+NIC: Ahh ... die [[Miete]].
 
 Nächstes Mal in Extra ...  
-Unsere Freunde gehen für Sam einkaufen  
-Sam geht für die Mädchen einkaufen  
-Und Sam geht selber einkaufen  
-Das dürft ihr nicht verpassen!
+Unsere Freunde [[gehen]] für Sam [[einkaufen]]  
+Sam geht für die [[Mädchen]] einkaufen  
+Und Sam geht [[selber]] einkaufen  
+Das [[dürft]] ihr nicht [[verpassen]]!

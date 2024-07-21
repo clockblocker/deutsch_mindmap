@@ -1,0 +1,2 @@
+die [[Person]]
+die [[Leute]]

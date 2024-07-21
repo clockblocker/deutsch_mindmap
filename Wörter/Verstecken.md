@@ -5,6 +5,7 @@ Perfect: [[versteckt]]
 ---
 Beispiele:
 - [[Verstecken]] in dem [[Schrank]]
+- [[Schnell]] Sam! [[Versteck]] dich!
 
 ---
 

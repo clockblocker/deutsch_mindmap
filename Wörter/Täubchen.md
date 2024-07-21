@@ -12,7 +12,7 @@ little dove, pigeon
 
 ---
 
-#Noun
+#Substantiv
 #Neuter
 
 ---

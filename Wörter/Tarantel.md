@@ -8,7 +8,7 @@ Beispiele:
 
 ---
 
-#Noun
+#Substantiv
 #Feminin
 
 ---

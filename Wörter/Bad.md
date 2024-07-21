@@ -6,7 +6,7 @@ Ich muss mal ins [[Bad]].
 
 ![[Pasted image 20240630143624.png]]
 
-#Noun
+#Substantiv
 #Neuter
 
 

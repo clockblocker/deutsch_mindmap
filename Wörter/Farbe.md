@@ -17,5 +17,5 @@ Beispiele:
 
 ---
 
-#Noun
+#Substantiv
 #Feminin

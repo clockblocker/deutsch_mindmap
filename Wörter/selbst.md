@@ -1,0 +1,7 @@
+[[ich selbst]]
+[[mich selbst]]
+[[dich selbst]]
+[[sich selbst]]
+[[uns selbst]]
+[[euch selbst]]
+[[sich selbst]]

@@ -12,7 +12,7 @@ picture, image
 
 ---
 
-#Noun
+#Substantiv
 #Neuter
 
 ---

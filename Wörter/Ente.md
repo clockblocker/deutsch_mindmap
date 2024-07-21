@@ -9,5 +9,5 @@ Beispiele:
 
 ---
 
-#Noun
+#Substantiv
 #Feminin

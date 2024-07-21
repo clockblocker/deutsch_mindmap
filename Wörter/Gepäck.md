@@ -10,5 +10,5 @@ luggage
 
 ---
 
-#Noun
+#Substantiv
 #Neuter

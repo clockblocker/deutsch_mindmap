@@ -10,7 +10,7 @@ Translation:
 
 ---
 
-#Noun
+#Substantiv
 #Masculin 
 
 

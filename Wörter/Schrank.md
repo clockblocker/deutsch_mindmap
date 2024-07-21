@@ -18,7 +18,7 @@ cabinet, cupboard, wardrobe
 
 ---
 
-#Noun
+#Substantiv
 #Masculine
 
 ---

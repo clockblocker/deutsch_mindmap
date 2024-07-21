@@ -12,7 +12,7 @@ little tail
 
 ---
 
-#Noun
+#Substantiv
 #Neuter
 
 ---

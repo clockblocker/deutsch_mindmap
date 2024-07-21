@@ -1,0 +1,1 @@
+das [[Sandwich]] / die [[Sandwiches]] | #Substantiv #Neuter | sandwich

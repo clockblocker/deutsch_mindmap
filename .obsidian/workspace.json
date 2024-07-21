@@ -4,35 +4,94 @@
     "type": "split",
     "children": [
       {
-        "id": "a044621bfc3848ec",
+        "id": "7a91d8eef7c062e8",
         "type": "tabs",
         "children": [
           {
-            "id": "0b4c0b8f4d2dc41f",
+            "id": "e0627b449d378408",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Dieter/20.07.md",
+                "file": "Texte/Skripte/extra/Extra 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3763f6fa5cae95f4",
+            "id": "1a40f29f4ff5bf95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/einwilligen.md",
+                "file": "Wörter/verpassen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff2404169741798a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verstecken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f24434dfba77f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/mietete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b2982aa24288bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/mieten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea5dfa9b00969e33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/bei mir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38d0736d95c69ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/mir.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fühl dich wie zu Hause",
+                "query": "gro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/einwilligen.md",
+                "file": "Texte/Skripte/extra/Extra 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/einwilligen.md",
+                "file": "Texte/Skripte/extra/Extra 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,20 +192,21 @@
             }
           },
           {
-            "id": "7d100e64b9dd08b9",
+            "id": "4673c4d4e694df2b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörter/einwilligen.md"
+                "file": "Texte/Skripte/extra/Extra 1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 476.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,34 +224,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3763f6fa5cae95f4",
+  "active": "e0627b449d378408",
   "lastOpenFiles": [
-    "Lektionen/Dieter/20.07.md",
-    "Wörter/einwilligen.md",
-    "Wörter/bejahen.md",
-    "Wörter/verneinen.md",
-    "Wörter/ja.md",
-    "Wörter/nein.md",
-    "Lektionen/Dieter/20.06.md",
-    "Lektionen/Dieter/22.06.md",
-    "Templates/Verb.md",
-    "Wörter/zwar+aber.md",
-    "Wörter/arm.md",
-    "Wörter/Amit Garg.md",
-    "Wörter/Was für ein.md",
-    "Wörter/übersetzen.md",
-    "Lektionen/Dieter/untrenbarens.md",
-    "Templates/Noun.md",
-    "Wörter/ent-.md",
-    "Wörter/er-.md",
-    "Wörter/Pronomen/er.md",
+    "Wörter/verpassen.md",
+    "Wörter/verpasst.md",
+    "Wörter/verpasse.md",
+    "Wörter/verpasste.md",
     "Texte/Skripte/extra/Extra 1.md",
-    "Wörter/fühlen.md",
-    "Wörter/fühlte.md",
-    "Wörter/Sie fühlte sich nicht wohl.md",
-    "Wörter/Weg.md",
-    "Wörter/Fühl dich wie zu Hause.md",
-    "Wörter/wohl.md",
+    "Wörter/selbst.md",
+    "Wörter/selber.md",
+    "Wörter/miete.md",
+    "Wörter/mieten.md",
+    "Wörter/versteck.md",
+    "Wörter/Verstecken.md",
+    "Wörter/Vermieterin.md",
+    "Wörter/Vermieterinnen.md",
+    "Wörter/mietete.md",
+    "Wörter/rin.md",
+    "Wörter/mietetet.md",
+    "Wörter/mieteten.md",
+    "Wörter/mietetest.md",
+    "Wörter/mietet.md",
+    "Wörter/miest.md",
+    "Wörter/gemietet.md",
+    "Wörter/Hilfe.md",
+    "Wörter/Ahnung.md",
+    "Wörter/Zeitschrift.md",
+    "Wörter/Schrift.md",
+    "Wörter/Zeitschriften.md",
+    "Wörter/Adverbien",
+    "Anhänge/Pasted image 20240724210501.png",
+    "smart-chats",
     "Anhänge/Pasted image 20240711191857.png",
     "Anhänge/Pasted image 20240709230059.png",
     "Texte/Skripte/Muzzy",
@@ -205,7 +268,6 @@
     "Untitled 1.canvas",
     "Anhänge/Pasted image 20240703131821.png",
     "Anhänge/Pasted image 20240703131433.png",
-    "Anhänge/Pasted image 20240703130609.png",
     "Lektionen/Intensiv/A2.1 Kursbuch",
     "Lektionen/Intensiv/A2.1 Arbeitsbuch",
     "Lektionen/Intensiv",
@@ -213,8 +275,6 @@
     "Wortlisten/IMG_5118.MOV",
     "Texte/Skripte/extra",
     "Wortlisten/Custom",
-    "Wörter/Nomen/Thematik",
-    "Wörter/Pronomen/Pronomenformen",
     "Texte/Ditor/Positionen.canvas"
   ]
 }

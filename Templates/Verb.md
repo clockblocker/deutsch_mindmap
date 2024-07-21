@@ -1,6 +1,6 @@
-Inf: [[]]
-Past: [[]]
-Perfect: [[]]
+[[]]
+[[]]
+haben [[]]
 
 ---
 Beispiele:
@@ -32,7 +32,6 @@ Tags:
 #Verb
 #Ablaut | #Schwache
 #Unregelmäßige | #Regelmäßige
-#Inf | #Form
 
 ---
 Präteritum

@@ -10,7 +10,7 @@ opposite
 
 ---
 
-#Noun
+#Substantiv
 #Neuter
 
 ---

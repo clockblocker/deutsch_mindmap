@@ -10,7 +10,7 @@ remote control
 
 ---
 
-#Noun
+#Substantiv
 #Feminin
 
 ---

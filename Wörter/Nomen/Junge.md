@@ -4,7 +4,7 @@ Plural: die [[Jungen]]
 
 ---
 
-#Noun #Masculin   #Plural 
+#Substantiv #Masculin   #Plural 
 
 
 --- 

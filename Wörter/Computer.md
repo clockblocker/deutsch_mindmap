@@ -1,0 +1,1 @@
+der [[Computer]] / die [[Computer]] | #Substantiv #Masculin | computer

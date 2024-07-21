@@ -18,7 +18,7 @@ gender, sex
 
 ---
 
-#Noun
+#Substantiv
 #Neuter
 
 ---

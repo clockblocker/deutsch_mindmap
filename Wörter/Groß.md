@@ -1,6 +1,6 @@
-Positive: [[groß]]
-Comparative: [[größer]]
-Superlative: [[am]] [[größten]]
+[[groß]]
+[[größer]]
+[[am]] [[größten]]
 
 ---
 Beispiele:
@@ -11,7 +11,7 @@ Beispiele:
 
 - Ich sehe eine [[große]] Katze.
 - Ich gebe der [[großen]] Katze Milch.
-- Das Spielzeug der [[großen]] Katze ist kaputt.
+- Das [[Spielzeug]] der [[großen]] Katze ist kaputt.
 
 - Ich sehe ein [[großes]] Haus.
 - Ich wohne in einem [[großen]] Haus.
