@@ -1,27 +1,24 @@
-Inf: [[geben]]
-Past: [[gab]]
-Perfect: [[gegeben]]
+[[geben]]
+[[gibt]]
+haben [[gegeben]]
+
+---
+synonyms
+- [[überreichen]]
+- [[aushändigen]]
+- [[zuteilen]]
 
 ---
 Beispiele:
-- Gib [[mir]] [[sofort]] die Post Louis!
-- SASCHA: Hey, nein ... [[hier gibt es]] nur ein Schlafzimmer.
-- Und Sascha hat ihm ein Herz-Kissen [[gegeben]]
 
-
----
-
-|     |           |
-| --- | --------- |
-| ich | [[gebe]]  |
-| du  | [[gibst]] |
-| er  | [[gibt]]  |
-| sie | [[gibt]]  |
-| es  | [[gibt]]  |
-| wir | [[geben]] |
-| ihr | [[Gebt]]  |
-| sie | [[geben]] |
-| Sie | [[geben]] |
+- Ich [[gebe]] dir das Buch.
+- Du [[gibst]] mir deine Telefonnummer.
+- Er [[gibt]] der Freundin ein Geschenk.
+- Es [[gibt]] viele Möglichkeiten, das Problem zu lösen.
+- Sie [[gibt]] dem Kind ein Spielzeug.
+- Wir [[geben]] den Gästen Getränke aus.
+- Ihr [[gebt]] den Schülern die Hausaufgaben.
+- Sie [[geben]] der Organisation eine Spende.
 
 ---
 **Übersetzung**:
@@ -31,23 +28,31 @@ to give
 
 Tags: 
 #Verb
-#Ablaut
+#Ablaut | #Schwache
 #Unregelmäßige | #Regelmäßige
-#Inf | #Form
 
 ---
 Präteritum
-Ich [[gab]]
-du [[gabst]]
-er [[gab]]
-es [[gab]]
-sie [[gab]]
-wir [[gaben]]
-ihr [[gabt]]
-Sie [[gaben]]
+- Ich [[gab]] dir das Buch gestern.
+- Du [[gabst]] mir die Informationen rechtzeitig.
+- Er [[gab]] ihr einen Rat.
+- Es [[gab]] ein Missverständnis.
+- Sie [[gab]] mir eine wichtige Nachricht.
+- Wir [[gaben]] den Gästen Essen und Trinken.
+- Ihr [[gabt]] den Kindern Geschenke.
+- Sie [[gaben]] der Firma Feedback.
 
 ---
 
 Imperativ
-du [[Gib]]
-ihr [[Gebt]]
+- Ich [[gib]] mir bitte das Dokument!
+- Du [[gib]] mir sofort die Antwort!
+- Er [[gib]] der Mitarbeiterin das Formular!
+- Es [[gib]] den Kindern die Aufgaben!
+- Sie [[gib]] mir die Schlüssel!
+- Wir [[geben]] euch die Infos!
+- Ihr [[gebt]] den Besuchern die Tickets!
+- Sie [[geben]] den Kunden die Produkte!
+
+Morphems of only infinitive:
+- [[geb]][[en]]

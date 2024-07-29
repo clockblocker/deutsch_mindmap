@@ -4,88 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a91d8eef7c062e8",
+        "id": "b2807fbe4fe1e785",
         "type": "tabs",
         "children": [
           {
-            "id": "e0627b449d378408",
+            "id": "3188950314771ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a40f29f4ff5bf95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/verpassen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2404169741798a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verstecken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f24434dfba77f92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/mietete.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2982aa24288bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/mieten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea5dfa9b00969e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/bei mir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38d0736d95c69ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/mir.md",
+                "file": "Templates/Verb.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gro",
+                "query": "klein",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md",
+                "file": "Templates/Verb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md",
+                "file": "Templates/Verb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md"
+                "file": "Templates/Verb.md"
               }
             }
           }
@@ -224,34 +152,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e0627b449d378408",
+  "active": "3188950314771ff0",
   "lastOpenFiles": [
-    "Wörter/verpassen.md",
-    "Wörter/verpasst.md",
-    "Wörter/verpasse.md",
-    "Wörter/verpasste.md",
-    "Texte/Skripte/extra/Extra 1.md",
-    "Wörter/selbst.md",
-    "Wörter/selber.md",
-    "Wörter/miete.md",
+    "Wörter/mir.md",
+    "Wörter/bei mir.md",
     "Wörter/mieten.md",
-    "Wörter/versteck.md",
-    "Wörter/Verstecken.md",
-    "Wörter/Vermieterin.md",
-    "Wörter/Vermieterinnen.md",
     "Wörter/mietete.md",
-    "Wörter/rin.md",
-    "Wörter/mietetet.md",
-    "Wörter/mieteten.md",
-    "Wörter/mietetest.md",
-    "Wörter/mietet.md",
-    "Wörter/miest.md",
-    "Wörter/gemietet.md",
-    "Wörter/Hilfe.md",
-    "Wörter/Ahnung.md",
-    "Wörter/Zeitschrift.md",
-    "Wörter/Schrift.md",
-    "Wörter/Zeitschriften.md",
+    "Wörter/Verstecken.md",
+    "Wörter/ziehen.md",
+    "Wörter/Eltern.md",
+    "Wörter/herum.md",
+    "Wörter/letzte.md",
+    "Wörter/hoch.md",
+    "Templates/Adjective.md",
+    "Wörter/Folge.md",
+    "Wörter/Etage.md",
+    "Templates/Nomen.md",
+    "Wörter/Verben/Infinitive/geben.md",
+    "Wörter/Verben/Verbformen/gab.md",
+    "Texte/Skripte/extra/Extra 2.md",
+    "Wörter/schlank.md",
+    "Templates/Verb.md",
+    "Templates/Noun.md",
+    "Wörter/dünn.md",
+    "Wörter/dünnste.md",
+    "Wörter/dünneres.md",
+    "Wörter/dünnere.md",
+    "Wörter/dünneren.md",
+    "Wörter/dünnes.md",
     "Wörter/Adverbien",
     "Anhänge/Pasted image 20240724210501.png",
     "smart-chats",

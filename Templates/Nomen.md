@@ -1,14 +1,29 @@
-[[]]
+der | die | das [[]]
 die [[]]
 
 
 Beispiele:
-
+ [leave this empty]
+ 
 ---
-Translation:
+Synonyme:
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+- [[]]
+---
+Übersetzung:
 
 
 ---
 
 #Substantiv
 #Masculin | #Feminin | #Neuter 
+
+---
+
+Morphems:
+[[place]][[each]][[morphem]][[in]][[brackets]]
+
+

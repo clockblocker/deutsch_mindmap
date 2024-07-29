@@ -45,12 +45,12 @@ Nein ... „vor sieben Jahren [[Brieffreunde]] sind wir ...“
 
 Vor sieben Jahren [[waren]] wir Brieffreunde.
 
-[[Ach du liebe Zeit]] ... [[Jetzt]] [[erinnere]] ich mich wieder.  
+[[Ach du liebe Zeit]] ... [[Jetzt]] [[erinnere]] ich mich [[wieder]].  
 Der Brief ist von Sam! Sam Scott!
 
 ANNA: Wer ist Sam Scott?
 
-SASCHA: Er [[war]] mein Brieffreund. Aber das ist sieben [[Jahr]]e [[her]].
+SASCHA: Er [[war]] mein Brieffreund. [[Aber]] das ist sieben [[Jahr]]e [[her]].
 
 ANNA: Oh …
 
@@ -91,7 +91,7 @@ ANNA: Hallo Nic! Wie geht’s dir?
 NIC: Alles unter Kontrolle. Hey, du hast aber [[Muskeln]]!!!  
 Ich bring eure Milch [[zurück]].
 
-SASCHA: Was? [[Unsere]] Milch? [[Doch nicht etwa]] die Milch ... von vor drei Wochen?
+SASCHA: Was? [[Unsere]] Milch? [[Doch nicht etwa]] die [[Milch]] ... von vor drei Wochen?
 
 NIC: Ich [[vergesse]] [[nie]] [[etwas]]!
 
@@ -140,7 +140,7 @@ ANNA: Hallo.
 
 SAM: Ich heiße Amerika. Ich komme aus Sam.
 
-ANNA: Du meinst „Ich heiße Sam“.
+ANNA: Du [[meinst]] „Ich heiße Sam“.
 
 ANNA: Nein – ich heiße Anna.
 
@@ -268,9 +268,9 @@ SAM: Bitte bringen ... Sie mir ... mein Gepäck.
 
 NIC: Gepäck? [[Wie bitte]]? [[Was ist denn mit dir los]]?
 
-SAM: Ich ziehe – du kommst. Du bist der Portier right?
+SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?
 
-NIC: Portier? Ich bin Nic. Ich wohne nebenan.
+NIC: Portier? Ich bin Nic. Ich wohne [[nebenan]].
 
 SAM: Oh I’m sorry man, I’m Sam.
 
@@ -385,7 +385,7 @@ SAM: Super!
 
 SAM: Ufff! Jetzt bin ich ... jetzt ich bin.
 
-SASCHA: … tot …
+SASCHA: … [[tot]] …
 
 SAM: Ich bin [[heiß]].
 
@@ -411,7 +411,7 @@ SASCHA: Der Typ fliegt raus!
 
 ANNA: Kann er [[bei]] dir wohnen, Nic?
 
-NIC: ah. Sorry, Ladies. [[Das geht nicht|Das geht]] wirklich nicht.
+NIC: ah. Sorry, Ladies. [[Das geht nicht|Das geht]] [[wirklich]] nicht.
 
 ANNA: Du hast doch ein [[freies]] Zimmer! Bitte.
 
@@ -449,7 +449,7 @@ ANNA, SASCHA: Brad Pitt!
 
 NIC: Sam, bist du das?
 
-SAM: Mmh…ja… mit meinen Eltern…
+SAM: Mmh…ja… mit meinen [[Eltern]]…
 
 NIC: „Familie Scott – eine der [[reichsten]] [[Familie]]n Amerikas.“
 
@@ -505,7 +505,7 @@ NIC: Annas Hund schläft im Ofen.
 
 ANNA: Was!
 
-SASCHA: Hey [[Leute]]! Was sitzen wir herum? Heute ist die Love Parade.
+SASCHA: Hey [[Leute]]! Was sitzen wir [[herum]]? Heute ist die Love Parade.
 
 SAM: Love Parade?
 

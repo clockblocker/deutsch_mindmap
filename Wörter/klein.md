@@ -3,6 +3,12 @@
 [[am]] [[kleinsten]]
 
 ---
+Synonyme:
+- [[winzig]]
+- [[gering]]
+- [[mickrig]]
+
+---
 Beispiele:
 
 - Ich sehe einen [[kleinen]] Hund.

@@ -1,1 +1,3 @@
-Und Nic von nebenan
+Und Nic von [[neben]]an
+
+Ich wohne [[nebenan]].

@@ -19,6 +19,7 @@ Perfect: [[gemeint]]
 ---
 Beispiele:
 - SASCHA: Also [[was meinst du]]– rot oder blau?
+- ANNA: Du [[meinst]] „Ich heiße Sam“.
 
 ---
 

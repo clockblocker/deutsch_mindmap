@@ -3,22 +3,21 @@
 haben [[]]
 
 ---
+synonyms
+
+---
 Beispiele:
 
 ---
 
-|     |      |
-| --- | ---- |
-| ich | [[]] |
-| du  | [[]] |
-| er  | [[]] |
-| sie | [[]] |
-| es  | [[]] |
-| wir | [[]] |
-| ihr | [[]] |
-| sie | [[]] |
-| Sie | [[]] |
-
+Ich [[]] ... [give small example sentence for every line]
+du [[]]
+er [[]]
+es [[]]
+sie[[]]
+wir [[]]
+ihr [[]]
+Sie [[]]
 
 ---
 **Übersetzung**:
@@ -35,7 +34,7 @@ Tags:
 
 ---
 Präteritum
-Ich [[]]
+Ich [[]] ... [give small example sentence for every line]
 du [[]]
 er [[]]
 es [[]]
@@ -47,7 +46,7 @@ Sie [[]]
 ---
 
 Imperativ
-Ich [[]]
+Ich [[]] ... [give small example sentence for every line]
 du [[]]
 er [[]]
 es [[]]
@@ -55,3 +54,7 @@ sie[[]]
 wir [[]]
 ihr [[]]
 Sie [[]]
+
+
+Morphems of only infinitive:
+[[lauf]][[en]]
