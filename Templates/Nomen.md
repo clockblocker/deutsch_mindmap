@@ -3,7 +3,7 @@ die [[]]
 
 
 Beispiele:
- [leave this empty]
+ //leave this empty
  
 ---
 Synonyme:

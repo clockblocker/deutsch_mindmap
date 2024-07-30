@@ -11,6 +11,7 @@ Synonyme:
 
 ---
 Das Auto ist [[echt]] cool. 
+NIC: Seine neuen Klamotten sind hier – du [[wirst]] [[echt]] cool aussehen!
 
 ---
 Beispiele:

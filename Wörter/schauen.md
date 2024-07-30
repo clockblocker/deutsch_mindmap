@@ -6,6 +6,8 @@ haben [[geschaut]]
 
 Beispiele:
 SAM: Ah Sascha! [[schau]] mal – 50 Kilometer! ([[sieh]] mal)
+ANNA: [[Schau]] mal Sam! Das hier hab’ ich für dich!
+
 
 ---
 

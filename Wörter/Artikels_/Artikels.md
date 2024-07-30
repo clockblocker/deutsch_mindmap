@@ -1,11 +1,11 @@
 ### Bestimmte Artikel:
 
-| Case       | #Masculin | #Feminin | #Neuter | #Plural |
-| ---------- | --------- | -------- | ------- | ------- |
-| #Nominativ | [[der]]   | [[die]]  | [[das]] | [[die]] |
-| #Akkusativ | [[den]]   | [[die]]  | [[das]] | [[die]] |
-| #Dativ     | [[dem]]   | [[der]]  | [[dem]] | [[den]] |
-| #Genitiv   | [[des]]   | [[der]]  | [[des]] | [[der]] |
+| Case       | #Masculin | Feminin | #Neuter | #Plural |
+| ---------- | --------- | ------- | ------- | ------- |
+| #Nominativ | [[der]]   | [[die]] | [[das]] | [[die]] |
+| #Akkusativ | [[den]]   | [[die]] | [[das]] | [[die]] |
+| #Dativ     | [[dem]]   | [[der]] | [[dem]] | [[den]] |
+| #Genitiv   | [[des]]   | [[der]] | [[des]] | [[der]] |
 
 ### Unbestimmte Artikel:
 

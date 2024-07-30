@@ -1,11 +1,11 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder",
   "templater-obsidian",
   "table-editor-obsidian",
   "better-word-count",
   "omnisearch",
   "dataview",
   "excalibrain",
-  "copilot"
+  "copilot",
+  "obsidian-icon-folder"
 ]

@@ -1,58 +1,63 @@
-Inf: [[kaufen]]  
-Past: [[kaufte]]  
-Perfect: [[gekauft]]
+🛒 [[kaufen]]  
+[[kaufte]]  
+haben [[gekauft]]
 
 ---
 
-Beispiele:
-Wir [[kaufen]] dir was zu essen 
+---
+
+**Synonyme:**
+
+- [[erwerben]], [[anschaffen]], [[besorgen]]
 
 ---
 
-|     |      |
-| --- | ---- |
-| ich | [[kaufe]] |
-| du  | [[kaufst]] |
-| er  | [[kauft]]  |
-| sie | [[kauft]]  |
-| es  | [[kauft]]  |
-| wir | [[kaufen]]|
-| ihr | [[kauft]] |
-| sie | [[kaufen]]|
-| Sie | [[kaufen]]|
+**Beispiele:**
+
+- Ich [[kaufe]] ein neues Auto.
+- Du [[kaufst]] immer im Supermarkt ein.
+- Er [[kauft]] teure Geschenke.
+- Es [[kauft]] das Produkt online.
+- Sie [[kaufen]] frisches Gemüse.
+- Wir [[kaufen]] jeden Samstag ein.
+- Ihr [[kauft]] selten Kleidung.
+- Sie [[kaufen]] regelmäßig Bücher.
 
 ---
 
-**Übersetzung**: to buy
+**Übersetzung**:
+to buy
+
+---
+ #Verb  #Unregelmäßig
 
 ---
 
-Tags:  
-#Verb  
-#Regelmäßige
+**Präteritum:**
+
+- Ich [[kaufte]] ein neues Auto.
+- Du [[kauftest]] immer im Supermarkt ein.
+- Er [[kaufte]] teure Geschenke.
+- Es [[kaufte]] das Produkt online.
+- Sie [[kaufte]] frisches Gemüse.
+- Wir [[kauften]] jeden Samstag ein.
+- Ihr [[kauftet]] selten Kleidung.
+- Sie [[kauften]] regelmäßig Bücher.
 
 ---
 
-Präteritum  
-Ich [[kaufte]]  
-du [[kauftest]]  
-er [[kaufte]]  
-es [[kaufte]]  
-sie [[kaufte]]  
-wir [[kauften]]  
-ihr [[kauftet]]  
-Sie [[kauften]]
+**Imperativ:**
+
+- Ich [[kaufe]] ein neues Auto.
+- Du [[kauf|kaufe]] ein neues Auto.
+- Er [[kaufe]] ein neues Auto.
+- Es [[kauft]] ein neues Auto.
+- Sie [[kaufe]] ein neues Auto.
+- Wir [[kaufen]] ein neues Auto.
+- Ihr [[kauft]] ein neues Auto.
+- Sie [[kaufen]] ein neues Auto.
 
 ---
 
-Imperativ  
-Ich (—)  
-du [[kaufe]]  
-er (—)  
-es (—)  
-sie (—)  
-wir [[kaufen]]  
-ihr [[kauft]]  
-Sie [[kaufen]]
-
-[[einkaufen]]
+**Morphems of only infinitive:**  
+- [[kauf]][[en]]

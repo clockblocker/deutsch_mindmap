@@ -5,6 +5,7 @@ Perfect: [[gefallen]]
 ---
 Beispiele:
 - Welches Foto [[gefällt]] Ihnen?
+- SASCHA: [[Gefällt]] Ihnen diese Hose?
 
 ---
 

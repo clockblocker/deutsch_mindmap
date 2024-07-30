@@ -11,6 +11,7 @@ Synonyme:
 ---
 Beispiele:
 
+- NIC: Seine neuen Klamotten sind hier – du [[wirst]] [[echt]] cool [[aussehen]]!
 - Ich [[sehe]] gut [[aus]]. (Ich sehe gut aus.)
 - Du [[sahst]] gestern müde [[aus]]. (Du sahst gestern müde aus.)
 - Er [[hat]] heute besonders schick [[ausgesehen]]. (Er hat heute besonders schick ausgesehen.)

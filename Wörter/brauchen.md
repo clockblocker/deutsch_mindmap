@@ -12,7 +12,9 @@ synonyms
 ---
 Beispiele:
 
+NIC: Das wirst du [[brauchen]] …
 NIC: Aber du [[brauchst]] doch [[uns]] …
+Aber ich denke, er [[braucht]] eine Lederjacke 
 
 ---
 

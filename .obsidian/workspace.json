@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "ad892907090300b9",
+        "id": "0dc64cf37f85b851",
         "type": "tabs",
         "children": [
           {
-            "id": "5656fe9b794ac23b",
+            "id": "b3e68f84af85e24a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 2.md",
+                "file": "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "47e6187e4b199bc7",
+            "id": "5c05f06869e21a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Jeder.md",
+                "file": "Wörter/kaufen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "88b694559ec60a4a",
+            "id": "fc4264736249bc65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Indefinitpronomen.md",
+                "file": "Wortlisten/50 adjectives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1696d8b8c853e505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Prompt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "süß",
+                "query": "kau",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/Indefinitpronomen.md",
+                "file": "Wörter/kaufen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/Indefinitpronomen.md",
+                "file": "Wörter/kaufen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörter/Indefinitpronomen.md"
+                "file": "Wörter/kaufen.md"
               }
             }
           }
@@ -177,34 +190,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "88b694559ec60a4a",
+  "active": "5c05f06869e21a1f",
   "lastOpenFiles": [
-    "Wörter/jede.md",
-    "Wörter/Indefinitpronomen.md",
-    "Wörter/Jeder.md",
-    "Wörter/Alle.md",
-    "Wörter/irgendwelche.md",
-    "Wörter/einerlei.md",
-    "Wörter/lei.md",
+    "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 2.md",
+    "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 1.md",
     "Texte/Skripte/extra/Extra 2.md",
-    "Wörter/solche.md",
-    "Wörter/jemanden.md",
-    "Wörter/mand.md",
-    "Wörter/irgendwo.md",
-    "Wörter/irgendetwas.md",
-    "Wörter/irgendjemand.md",
-    "Wörter/irgendwie.md",
-    "Wörter/Jemand.md",
-    "Wörter/irgend.md",
-    "Wörter/irgendje.md",
-    "Wörter/jemals.md",
-    "Wörter/ein paar.md",
-    "Wörter/manche.md",
-    "Wörter/derselbe.md",
-    "Wörter/dieser.md",
-    "Wörter/solcher.md",
-    "Wörter/irgendein.md",
-    "Wörter/etliche.md",
+    "Templates/Prompt.md",
+    "Templates/promp small.md",
+    "Wörter/klein.md",
+    "Wortlisten/50 adjectives.md",
+    "Wörter/Tuch.md",
+    "Wörter/Pronomen/Pronomen.md",
+    "Wörter/Das gibt’s doch nicht!.md",
+    "Lektionen/Dieter/22.06.md",
+    "Wortlisten/Custom/207 am häufigsten.md",
+    "Wörter/Pronomen/Ich.md",
+    "Templates/Untrenbares.md",
+    "Templates/Verb.md",
+    "Templates/Trenbares verb.md",
+    "Templates/Adjective.md",
+    "Templates/Nomen.md",
+    "Texte/Skripte/extra/Extra 1.md",
+    "Wörter/helfen.md",
+    "Wörter/Schluss.md",
+    "Wörter/anrufen.md",
+    "Wörter/ruf an.md",
+    "Wörter/riefet an.md",
+    "Wörter/riefen an.md",
+    "Wörter/riefst an.md",
     "Anhänge/Pasted image 20240729135443.png",
     "Anhänge/Pasted image 20240729135330.png",
     "Anhänge/Pasted image 20240729135226.png",

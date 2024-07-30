@@ -211,7 +211,7 @@ ANNA: Nein mit mir …
 SASCHA: Er ist mein Brieffreund …
 
 NIC: Hey! Ich hab eine Idee.  
-Wir gehen einkaufen ich, du und du gehen für Sam. [[Jeder]] kauft etwas.  
+Wir gehen einkaufen ich, du und du gehen für Sam. [[Jeder]] kauft [[etwas]].  
 Ich kaufe die Schuhe.
 
 ANNA: Okay – ich kaufe die Hose …
@@ -223,15 +223,15 @@ ANNA: Okay – ich kaufe das Hemd.
 SASCHA: Und ich kaufe die Hose.
 
 ANNA: Also gut – gehen wir!  
-Ach! Wir brauchen Eier, Äpfel, Hundefutter! Das kauf ich später – online!
+Ach! Wir brauchen Eier, Äpfel, Hundefutter! Das kauf ich [[später]] – online!
 
-SAM: Ach so, Eier, Äpfel und Hundefutter!
+SAM: Ach so, Eier, Äpfel und [[Hundefutter]]!
 
 ANNA: Prima Sam!
 
-SASCHA: Tschüs Sam! Wir gehen. Und ach ... lass die Tarantel nicht rein. Am besten, du antwortest nicht!
+SASCHA: Tschüs Sam! Wir gehen. Und ach ... [[lass]] die Tarantel nicht [[rein]]. Am besten, du antwortest nicht!
 
-NIC: Mach’s gut, mach’s besser.
+NIC: [[Mach’s gut]], [[mach’s besser]].
 
 SAM: Ähhh?
 
@@ -241,19 +241,19 @@ SAM: Tchau.
 
 SAM: Mum - guess what? They are going to dress me like a German man!
 
-SASCHA: Schwesterherz – Sams Klamotten sind total altmodisch!
+SASCHA: [[Schwesterherz]] – Sams Klamotten sind total altmodisch!
 
-SASCHA: Cooler Schlafanzug.
+SASCHA: Cooler [[Schlafanzug]].
 
 SASCHA: Aber das ist kein Problem! Ich gehe mit ihm einkaufen! Er wird total cool aussehen!
 
-NIC: Und Anna denkt, der Cowboy-Look ist das Richtige für ihn. Aber ich denke, er braucht eine Lederjacke – wie ich – im Biker-Look!
+NIC: Und Anna [[denkt]], der Cowboy-Look ist das [[Richtige]] für ihn. Aber ich denke, er [[braucht]] eine Lederjacke – wie ich – im Biker-Look!
 
 SAM: It’s called the Biker-Trendy-Cowboy look – I think.  
 I’m going to look so cool! Total Cool!
 
 SAM: Guten Morgen – ich möchte ein Schaf kaufen. Für meinen Hals! Hahaha …  
-Eier, ich möchte ein Ei für meinen Hals ...  
+[[Eier]], ich möchte ein [[Ei]] für meinen Hals ...  
 Room Service, Room Service!
 
 SAM: Die Tarantel!!!!
@@ -272,7 +272,7 @@ SAM: Louis! Shhh!
 What is that?  
 Ein Hund?… nein, nein … Anna. Es ist Anna. Anna ... ist ... auch erkältet.
 
-SAM: Danke! Hatschi! Bis bald!
+SAM: Danke! Hatschi! [[Bis bald]]!
 
 SAM: Louis are you okay?
 
@@ -283,11 +283,11 @@ ANNA: Hallo.
 
 SAM: Hi Anna, hallo.
 
-ANNA: Schau mal Sam! Das hier hab’ ich für dich!
+ANNA: [[Schau]] mal Sam! Das hier hab’ ich für dich!
 
 SAM: Oh – danke! Was ist das?
 
-ANNA: Probier es mal an!
+ANNA: [[Anprobieren|Probier]] es mal an!
 
 SAM: Probier es mal an?
 
@@ -312,14 +312,14 @@ SAM: Yeah?
 
 SASCHA: Ich hab’ was für dich.
 
-SAM: Warte mal …  
+SAM: [[Warte]] mal …  
 Komm rein!
 
 NIC: Sam?
 
 SAM: Hello?
 
-NIC: Seine neuen Klamotten sind hier – du wirst echt cool aussehen!
+NIC: Seine neuen Klamotten sind hier – du [[wirst]] [[echt]] cool [[aussehen]]!
 
 SAM: Cool?
 
@@ -331,7 +331,7 @@ ANNA: Ich glaube, Sam hat eingekauft – online!
 
 SASCHA: Aber wir brauchen doch keine Apfelsinen!
 
-ANNA: Er hat es gut gemeint ... Ahh ... Eier hat er auch gekauft ...
+ANNA: Er hat es gut [[gemeint]] ... Ahh ... Eier hat er auch gekauft ...
 
 NIC: Ja. Der ist nicht dumm! Der Sam.
 
@@ -341,21 +341,21 @@ ANNA: Okay – aber wie hat Sam online eingekauft? Aha!
 
 SASCHA: Was?
 
-ANNA: Sam hat 10 Kilo Apfelsinen eingekauft – statt 10 Äpfel.
+ANNA: Sam hat 10 Kilo Apfelsinen eingekauft – [[statt]] 10 Äpfel.
 
 NIC: Und die Eier?
 
-ANNA: Okay, Eier. Aber zwölf Eier sind doch genug!
+ANNA: Okay, Eier. Aber zwölf Eier sind doch [[genug]]!
 
-ANNA: Sam hat hier 12 hingeschrieben …
+ANNA: Sam hat hier 12 [[hingeschrieben]] …
 
-ANNA: Na ja, er hat 12 Packungen Eier bestellt!
+ANNA: Na ja, er hat 12 [[Packungen]] Eier bestellt!
 
 SASCHA: Hey Süße. Das sind einhundertvierundvierzig Eier!
 
 ANNA: Okay, aber wo ist das Hundefutter?
 
-NIC: Hey das ist ja spannend!
+NIC: Hey das ist ja [[spannend]]!
 
 SAM: OK – I’m ready.
 
@@ -375,19 +375,19 @@ SAM: Also, sehe ich cool aus?
 
 ALL: Mhhh ...
 
-SAM: Ich sehe überhaupt nicht cool aus.
+SAM: Ich sehe [[überhaupt]] nicht cool aus.
 
 ALL: Nein.
 
-SAM: Na dann … gehe ich jetzt einkaufen.
+SAM: [[Na dann]] … gehe ich jetzt einkaufen.
 
-NIC: Jetzt geht das wieder los … Sam! Du kannst nicht allein einkaufen gehen! Du hast online eingekauft ...
+NIC: Jetzt geht das [[wieder]] [[los]] … Sam! Du kannst nicht allein einkaufen gehen! Du hast online eingekauft ...
 
 SAM: Ja!
 
-NIC: Und du hast Apfelsinen statt Äpfel gekauft!
+NIC: Und du hast Apfelsinen [[statt]] Äpfel gekauft!
 
-SAM: Aber Apfelsinen – Orangen – sind doch auch okay? Oder?
+SAM: Aber Apfelsinen – Orangen – sind doch auch okay? [[Oder]]?
 
 NIC: Ja, aber 10 Kilo Apfelsinen sind zu viel!  
 Und zu viele Eier!
@@ -462,7 +462,7 @@ SASCHA: Welche Größe?
 
 SAM: Oh I don’t know.
 
-SASCHA: Dann müssen wir Sie messen.
+SASCHA: Dann müssen wir Sie [[messen]].
 
 SASCHA: Arme hoch!
 
@@ -470,9 +470,9 @@ SAM: Euh?
 
 ANNA: Arme hoch!
 
-SASCHA: Brustumfang – einhundertzwei Zentimeter.
+SASCHA: [[Brustumfang]] – einhundertzwei Zentimeter.
 
-SASCHA: Hüftumfang.
+SASCHA: [[Hüftumfang]].
 
 ANNA: Hüftumfang.
 
@@ -486,11 +486,11 @@ NIC: Das mach ich!
 
 SASCHA: Nein, das mach ich!
 
-NIC: Das ist Männersache!
+NIC: Das ist [[Männersache]]!
 
 NIC: Vierundneunzig Zentimeter!
 
-SASCHA: Gefällt Ihnen diese Hose?
+SASCHA: [[Gefällt]] Ihnen diese Hose?
 
 ANNA: Gefällt Ihnen dieses Hemd?
 
@@ -500,9 +500,9 @@ SASCHA: Das macht sechstausend Euro!
 
 SAM: Okay.
 
-ANNA: Mensch Sam! Sechstausend Euro sind ... das sind etwa sechstausend Dollar!
+ANNA: Mensch Sam! Sechstausend Euro sind ... das sind [[etwa]] sechstausend Dollar!
 
-SAM: Kann ich mit einer Kreditkarte bezahlen?
+SAM: Kann ich mit einer Kreditkarte [[bezahlen]]?
 
 SASCHA: Schätzchen. Das ist zu viel! Das ist viel zu teuer!
 
@@ -510,17 +510,17 @@ NIC: Aber nicht für Sam!
 
 SAM: Okay – jetzt geht‘s los ich gehe einkaufen.
 
-ANNA: Viel Glück!
+ANNA: Viel [[Glück]]!
 
 SASCHA: Ja – viel Glück.
 
-NIC: Das wirst du brauchen …
+NIC: Das wirst du [[brauchen]] …
 
 SASCHA: Wo ist meine heiße Zitrone, Nic?
 
 NIC: Hey! Bleib cool! Ich komm ja schon!
 
-SASCHA: Nic, kannst du meinen Chef anrufen? Ich bin noch krank.
+SASCHA: Nic, kannst du meinen Chef [[anrufen]]? Ich bin noch krank.
 
 ANNA: Nic! Gibt es noch Taschentücher?
 

@@ -2,7 +2,7 @@
   "settings": {
     "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 12,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
@@ -13,7 +13,32 @@
       "👤"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "#Neuter",
+        "icon": "🟢",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "Feminine",
+        "icon": "🔴",
+        "for": "everything",
+        "order": 6
+      },
+      {
+        "rule": "#Feminin",
+        "icon": "🔴",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "#Mascullin",
+        "icon": "🔵",
+        "for": "everything",
+        "order": 3
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
