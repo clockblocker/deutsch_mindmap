@@ -6,7 +6,6 @@ das [[Haus]] / die [[Häuser]] | #Substantiv #Neuter | house
 die [[Mutter]] / die [[Mütter]] | #Substantiv #Feminin | mother
 der [[Vater]] / die [[Väter]] | #Substantiv #Masculin | father
 die [[Katze]] / die [[Katzen]] | #Substantiv #Feminin | cat
-der [[Hund]] / die [[Hunde]] | #Substantiv #Masculin | dog
 das [[Wasser]] / die [[Wasser]] | #Substantiv #Neuter | water
 das [[Buch]] / die [[Bücher]] | #Substantiv #Neuter | book
 der [[Finger]] / die [[Finger]] | #Substantiv #Masculin | finger

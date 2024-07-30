@@ -5,7 +5,8 @@ Perfect: [[getan]]
 ---
 Beispiele:
 
-- Ich weiß nicht, was ich tun soll. (I don't know what to do.)
+- ANNA: Aber Sascha – du hast sooo viel zu [[tun]]. 
+- Ich weiß nicht, was ich tun soll. 
 - [[Was tut denn weh?]]
 - [[Was kann ich tun?]] 
 - [[Meine Körperteil tut weh]]

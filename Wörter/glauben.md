@@ -1,9 +1,10 @@
-Inf: [[glauben]]
-Past: [[glaubte]]
-Perfect: [[geglaubt]]
+ [[glauben]]
+ [[glaubte]]
+ [[geglaubt]]
 
 ---
 Beispiele:
+- NIC: Nein, ich [[glaube]] du meinst einen Schal für meinen Hals.
 - Ich [[glaube]] nicht
 -  Ich [[glaube]], er arbeitet in einem Museum.
 - Ich [[glaube]], er kauft für seine Frau ein.

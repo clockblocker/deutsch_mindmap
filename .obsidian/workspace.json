@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b2807fbe4fe1e785",
+        "id": "ad892907090300b9",
         "type": "tabs",
         "children": [
           {
-            "id": "3188950314771ff0",
+            "id": "5656fe9b794ac23b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Verb.md",
+                "file": "Texte/Skripte/extra/Extra 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47e6187e4b199bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Jeder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88b694559ec60a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Indefinitpronomen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "klein",
+                "query": "süß",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Verb.md",
+                "file": "Wörter/Indefinitpronomen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Verb.md",
+                "file": "Wörter/Indefinitpronomen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Verb.md"
+                "file": "Wörter/Indefinitpronomen.md"
               }
             }
           }
@@ -152,50 +177,50 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3188950314771ff0",
+  "active": "88b694559ec60a4a",
   "lastOpenFiles": [
-    "Wörter/mir.md",
-    "Wörter/bei mir.md",
-    "Wörter/mieten.md",
-    "Wörter/mietete.md",
-    "Wörter/Verstecken.md",
-    "Wörter/ziehen.md",
-    "Wörter/Eltern.md",
-    "Wörter/herum.md",
-    "Wörter/letzte.md",
-    "Wörter/hoch.md",
-    "Templates/Adjective.md",
-    "Wörter/Folge.md",
-    "Wörter/Etage.md",
-    "Templates/Nomen.md",
-    "Wörter/Verben/Infinitive/geben.md",
-    "Wörter/Verben/Verbformen/gab.md",
+    "Wörter/jede.md",
+    "Wörter/Indefinitpronomen.md",
+    "Wörter/Jeder.md",
+    "Wörter/Alle.md",
+    "Wörter/irgendwelche.md",
+    "Wörter/einerlei.md",
+    "Wörter/lei.md",
     "Texte/Skripte/extra/Extra 2.md",
-    "Wörter/schlank.md",
-    "Templates/Verb.md",
-    "Templates/Noun.md",
-    "Wörter/dünn.md",
-    "Wörter/dünnste.md",
-    "Wörter/dünneres.md",
-    "Wörter/dünnere.md",
-    "Wörter/dünneren.md",
-    "Wörter/dünnes.md",
+    "Wörter/solche.md",
+    "Wörter/jemanden.md",
+    "Wörter/mand.md",
+    "Wörter/irgendwo.md",
+    "Wörter/irgendetwas.md",
+    "Wörter/irgendjemand.md",
+    "Wörter/irgendwie.md",
+    "Wörter/Jemand.md",
+    "Wörter/irgend.md",
+    "Wörter/irgendje.md",
+    "Wörter/jemals.md",
+    "Wörter/ein paar.md",
+    "Wörter/manche.md",
+    "Wörter/derselbe.md",
+    "Wörter/dieser.md",
+    "Wörter/solcher.md",
+    "Wörter/irgendein.md",
+    "Wörter/etliche.md",
+    "Anhänge/Pasted image 20240729135443.png",
+    "Anhänge/Pasted image 20240729135330.png",
+    "Anhänge/Pasted image 20240729135226.png",
+    "Anhänge/Pasted image 20240729135147.png",
+    "Anhänge/Pasted image 20240729134938.png",
+    "Anhänge/Pasted image 20240729134659.png",
+    "Anhänge/Pasted image 20240729133936.png",
+    "Anhänge/Pasted image 20240729133800.png",
+    "Anhänge/Pasted image 20240729133715.png",
     "Wörter/Adverbien",
     "Anhänge/Pasted image 20240724210501.png",
     "smart-chats",
-    "Anhänge/Pasted image 20240711191857.png",
-    "Anhänge/Pasted image 20240709230059.png",
     "Texte/Skripte/Muzzy",
-    "Anhänge/Pasted image 20240704201608.png",
-    "Anhänge/Pasted image 20240704201459.png",
-    "Anhänge/Pasted image 20240704193617.png",
-    "Anhänge/Pasted image 20240703133033.png",
-    "Anhänge/Pasted image 20240703131951.png",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Anhänge/Pasted image 20240703131821.png",
-    "Anhänge/Pasted image 20240703131433.png",
     "Lektionen/Intensiv/A2.1 Kursbuch",
     "Lektionen/Intensiv/A2.1 Arbeitsbuch",
     "Lektionen/Intensiv",

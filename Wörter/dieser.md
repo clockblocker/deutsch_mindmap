@@ -35,3 +35,6 @@ Genitiv (Genitive):
 | ---------- | ---------- | ---------- | ---------- |
 | Maskulinum | Femininum  | Neutrum    | Plural     |
 | [[dieses]] | [[dieser]] | [[dieses]] | [[dieser]] |
+
+
+[[Indefinitpronomen]]

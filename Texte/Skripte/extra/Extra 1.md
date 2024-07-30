@@ -5,7 +5,7 @@ Das ist die [[Geschichte]] von Sascha und Anna. Sie [[wohnen]] [[zusam
 Sie haben einen [[Nachbarn]]: Nic.  
 Nic ist in Sascha [[verliebt]].  
 Und Anna ist in Nic verliebt.  
-Aber [[dann]] [[bekommt]] Sascha Post aus Amerika ...
+Aber [[dann]] [[bekommt]] Sascha [[Post]] aus Amerika ...
 
 Jo, ich hab dir [[doch]] [[gesagt]]: –[[ Es ist vorbei]]!!!  
 (Und [[nenn]] mich bitte nicht CHA CHA).

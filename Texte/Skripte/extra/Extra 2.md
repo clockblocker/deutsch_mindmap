@@ -13,33 +13,33 @@ ANNA: Groß, [[schlank]] .. ein cooler Amerikaner.
 ANNA: Hahahah. (NIEST) Hatschiiii!  
 Wow! Fantastisch! Ist er dein neuer Freund?
 
-ANNA: Vielleicht – aber kein Wort davon zu Sascha!
+ANNA: [[Vielleicht]] – aber kein Wort [[davon]] zu Sascha!
 
 SASCHA: Du kannst mich Cha Cha nennen.
 
 ANNA: Sam – du kannst mich Cha Cha nennen…
 
-ANNA: Muss Schluss machen! Bis bald! A x
+ANNA: Muss [[Schluss]] machen! [[Bis bald]]! A x
 
-SASCHA: Schläft – Sam – immer noch? (NIEST DOCH NICHT)
+SASCHA: Schläft – Sam – [[immer noch]]? ([[niest]] DOCH NICHT)
 
 ANNA: Ja.
 
-SASCHA: Sam … Guten Morgen! Wach auf!
+SASCHA: Sam … Guten Morgen! [[aufwachen|Wach auf]]!
 
-SASCHA: Hey! Raus aus dem Bett!
+SASCHA: Hey! [[Raus]] aus dem Bett!
 
 SACHA: Ach …
 
-ANNA: Süß …
+ANNA: [[Süß]] …
 
-SAM: Guten Morgen.
+SAM: Guten [[Morgen]].
 
 SASCHA, ANNA: Guten Morgen.
 
 SAM: What’s up?
 
-ANNA: Sam, ich bin erkältet.
+ANNA: Sam, ich bin [[erkältet]].
 
 SASCHA: Ja - ich auch!
 
@@ -51,12 +51,12 @@ ANNA: Ja, wir sind erkältet ...
 
 SAM: Ahh, poor girls, don’t give it to me.
 
-SASCHA: Cooler Schlafanzug.
+SASCHA: Cooler [[Schlafanzug]].
 
 SAM: Huh?
 
-SASCHA: Sam – wir müssen mal schnell ins Bad …  
-Psst! Anna – ins Bad – schnell!
+SASCHA: Sam – wir müssen mal schnell ins [[Bad]] …  
+Psst! Anna – ins Bad – [[schnell]]!
 
 SAM: Ahh Guten Morgen!
 
@@ -75,7 +75,7 @@ SAM: Die Girls? Nein ...
 
 NIC: Sam pass mal auf. Soll ich dir was sagen?
 
-NIC: Das Auto ist echt cool. Du musst auch cool aussehen.
+NIC: Das Auto ist [[echt]] cool. Du musst auch cool [[aussehen]].
 
 SAM: Ich sehe … cool aus?
 
@@ -83,15 +83,15 @@ NIC: Umm. Sorry. Nein, du siehst nicht cool aus.
 
 SAM: Oh!
 
-NIC: Hey! Aber ich kann dir helfen!
+NIC: Hey! Aber ich kann dir [[helfen]]!
 
 SASCHA: Sams Klamotten sind eine Katastrophe!
 
 ANNA: Sie sind total altmodisch!
 
-SASCHA: Hey! Ich geh’ mit ihm einkaufen!
+SASCHA: Hey! Ich geh’ mit ihm [[einkaufen]]!
 
-ANNA: Aber Sascha – du hast sooo viel zu tun. Ich geh’ mit ihm einkaufen.
+ANNA: Aber Sascha – du hast sooo viel zu [[tun]]. Ich geh’ mit ihm einkaufen.
 
 SASCHA: Ist schon okay! Ich geh’ mit ihm einkaufen.
 
@@ -101,7 +101,7 @@ SASCHA: Ich hab gesagt – Ich geh’ mit ihm einkaufen.
 
 BOTH: Hatschiii!
 
-NIC: Sam man muss sehen, dass du schnelle Autos fährst. So wie bei mir.  
+NIC: Sam man muss sehen, dass du [[schnelle]] Autos fährst. So [[wie bei mir]].  
 Ich fahre schnelle Maschinen.
 
 NIC: Oh hi Girls …
@@ -114,17 +114,17 @@ NIC: Sam hat mich gefragt, was für Klamotten cool sind.
 
 SASCHA: Huh. Ach ja?
 
-SASCHA: Nein! Nein! Sam! Hör nicht auf Nic! Hör auf mich!
+SASCHA: Nein! Nein! Sam! [[Hör]] nicht auf Nic! Hör auf mich!
 
-SASCHA: Du musst Designer- Klamotten tragen…
+SASCHA: Du musst Designer- Klamotten [[tragen]]…
 
-ANNA: Nein Sam. Das ist nichts für dich! Der Cowboy-Look ist viel besser für dich!
+ANNA: Nein Sam. Das ist nichts für dich! Der Cowboy-Look ist viel [[besser]] für dich!
 
 NIC: Nein! Nein! … Eine Lederjacke!
 
 ANNA: ... ein Jeans-Hemd …
 
-SASCHA: … ein Tuch und eine Weste
+SASCHA: … ein [[Tuch]] und eine [[Weste]]
 
 NIC: … eine schnelle Maschine ...
 
@@ -134,7 +134,7 @@ ANNA: … im Cowboy-Look …
 
 SASCHA: Designer-Klamotten … ein Tuch und eine Weste.
 
-ANNA: ... ein Jeans-Hemd...und eine Lederjacke.
+ANNA: ... ein Jeans-[[Hemd]]...und eine Lederjacke.
 
 SASCHA: Designer-Look.
 
@@ -146,9 +146,9 @@ SAM: Stop ok, ok I get the message – I will go shopping!
 
 SASCHA: Was?
 
-ANNA: Allein???
+ANNA: [[Allein]]???
 
-NIC: Aber du brauchst doch uns …
+NIC: Aber du [[brauchst]] doch [[uns]] …
 
 SAM: O ha!
 
@@ -157,13 +157,13 @@ ANNA: Was willst du denn sagen?
 SAM: Ich, wir, er …
 
 NIC: Alles klar. Nic macht das schon!  
-Keine Sorge ...
+Keine [[Sorge]] ...
 
-NIC: Also das hier ist ein Geschäft. Ich verkaufe – und du kaufst. Huh?
+NIC: Also das hier ist ein [[Geschäft]]. Ich [[verkaufe]] – und du [[kaufst]]. Huh?
 
 SAM: Huh?
 
-NIC: Ich bin der Verkäufer und du bist der Kunde.
+NIC: Ich bin der [[Verkäufer]] und du bist der [[Kunde]].
 
 SAM: Kunde.
 
@@ -180,22 +180,22 @@ SAM: Ich … äh ... ich ...
 
 NIC: Ich möchte eine ...
 
-SAM: Ich möchte eine ... Jacke kaufen.
+SAM: Ich möchte eine ... [[Jacke]] kaufen.
 
-NIC: Hose …
+NIC: [[Hose]] …
 
 SAM: Ich möchte eine Hose kaufen ...
 
 NIC: Gut. Sehr gut!
 
-SAM: Und ein Hemd.
+SAM: Und ein [[Hemd]].
 
-NIC: Nein! Nein, Schuhe.Du musst sagen: Ich möchte Schuhe kaufen.
+NIC: Nein! Nein, Schuhe. Du musst sagen: Ich möchte [[Schuhe]] kaufen.
 
 SAM: Ah! Schuhe.  
-Ich möchte Schuhe kaufen ... und ein ... äh ... Schaf für meinen Hals.
+Ich möchte Schuhe kaufen ... und ein ... äh ... Schaf für meinen [[Hals]].
 
-NIC: Nein, ich glaube du meinst einen Schal für meinen Hals.
+NIC: Nein, ich [[glaube]] du [[meinst]] einen Schal für meinen Hals.
 
 Das hier ist ein Schaf.
 
@@ -211,7 +211,7 @@ ANNA: Nein mit mir …
 SASCHA: Er ist mein Brieffreund …
 
 NIC: Hey! Ich hab eine Idee.  
-Wir gehen einkaufen ich, du und du gehen für Sam. Jeder kauft etwas.  
+Wir gehen einkaufen ich, du und du gehen für Sam. [[Jeder]] kauft etwas.  
 Ich kaufe die Schuhe.
 
 ANNA: Okay – ich kaufe die Hose …
