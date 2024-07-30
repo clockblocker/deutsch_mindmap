@@ -1,69 +1,66 @@
 
-Inf: [[legen]]
-Past: [[legte]]
-Perfect: [[gelegt]]
+📍 [[legen]]  
+[[legte]]  
+haben [[gelegt]]
 
 ![[Pasted image 20240703130355.png]]
 
 ---
-Beispiele:
-- Ich [[lege]] das Buch auf den Tisch. (I lay the book on the table.)
-- Du [[legst]] die Schlüssel in die Schublade. (You place the keys in the drawer.)
-- Er [[legt]] das Kissen auf das Sofa. (He lays the pillow on the sofa.)
-- Wir [[legen]] die Decke auf das Bett. (We lay the blanket on the bed.)
-- Ihr [[legt]] die Kleidung in den Schrank. (You all place the clothes in the closet.)
-- Sie [[legen]] die Dokumente auf den Schreibtisch. (They/You [formal] lay the documents on the desk.)
 
 ---
 
-|     |                  |
-| --- | ---------------- |
-| ich | [[lege]]         |
-| du  | [[legst]]        |
-| er  | [[legt]]         |
-| sie | [[legt]]         |
-| es  | [[legt]]         |
-| wir | [[legen]]        |
-| ihr | [[legt]]         |
-| sie | [[legen]]        |
-| Sie | [[legen]]        |
+**Synonyme:**
+
+- [[platzieren]], [[setzen]], [[stellen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[lege]] das Buch auf den Tisch.
+- Du [[legst]] den Stift hin.
+- Er [[legt]] den Schlüssel ab.
+- Es [[legt]] das Ei ins Nest.
+- Sie [[legt]] das Kind ins Bett.
+- Wir [[legen]] die Karten auf den Tisch.
+- Ihr [[legt]] die Blumen ins Wasser.
+- Sie [[legen]] das Fundament.
+
+---
+
 **Übersetzung**:
 to lay, to place
 
 ---
-
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
-
----
-Präteritum
-Ich [[legte]]
-du [[legtest]]
-er [[legte]]
-es [[legte]]
-sie [[legte]]
-wir [[legten]]
-ihr [[legtet]]
-Sie [[legten]]
+ #Verb
 
 ---
 
-Perfekt
-Ich habe [[gelegt]]
-du hast [[gelegt]]
-er hat [[gelegt]]
-es hat [[gelegt]]
-sie hat [[gelegt]]
-wir haben [[gelegt]]
-ihr habt [[gelegt]]
-Sie haben [[gelegt]]
+**Präteritum:**
+
+- Ich [[legte]] das Buch auf den Tisch.
+- Du [[legtest]] den Stift hin.
+- Er [[legte]] den Schlüssel ab.
+- Es [[legte]] das Ei ins Nest.
+- Sie [[legte]] das Kind ins Bett.
+- Wir [[legten]] die Karten auf den Tisch.
+- Ihr [[legtet]] die Blumen ins Wasser.
+- Sie [[legten]] das Fundament.
 
 ---
 
-Imperativ
-du [[leg]]
-​⬤
+**Imperativ:**
+
+- Ich [[lege]] das Buch hin.
+- Du [[leg|lege]] das Buch hin.
+- Er [[lege]] das Buch hin.
+- Es [[legt]] das Buch hin.
+- Sie [[lege]] das Buch hin.
+- Wir [[legen]] das Buch hin.
+- Ihr [[legt]] das Buch hin.
+- Sie [[legen]] das Buch hin.
+
+---
+
+**Morphems of only infinitive:**  
+- [[leg]][[en]]

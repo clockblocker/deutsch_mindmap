@@ -1,55 +1,63 @@
-[[ordnen]]  
+🗂️ [[ordnen]]  
 [[ordnete]]  
 haben [[geordnet]]
 
 ---
 
-Beispiele:
+---
+
+**Synonyme:**
+
+- [[sortieren]], [[strukturieren]], [[organisieren]]
 
 ---
 
-|     |             |
-| --- | ----------- |
-| ich | [[ordne]]   |
-| du  | [[ordnest]] |
-| er  | [[ordnet]]  |
-| sie | [[ordnet]]  |
-| es  | [[ordnet]]  |
-| wir | [[ordnen]]  |
-| ihr | [[ordnet]]  |
-| sie | [[ordnen]]  |
-| Sie | [[ordnen]]  |
+**Beispiele:**
+
+- Ich [[ordne]] meine Bücher.
+- Du [[ordnest]] deine Unterlagen.
+- Er [[ordnet]] seine Gedanken.
+- Es [[ordnet]] die Dateien.
+- Sie [[ordnet]] das Chaos.
+- Wir [[ordnen]] die Regale.
+- Ihr [[ordnet]] eure Aufgaben.
+- Sie [[ordnen]] die Papiere.
 
 ---
 
-**Übersetzung**: to arrange, to organize
+**Übersetzung**:
+to organize, to arrange
+
+---
+ #Verb
 
 ---
 
-Tags:  
-#Verb  
-#Regelmäßig
+**Präteritum:**
+
+- Ich [[ordnete]] meine Bücher.
+- Du [[ordnetest]] deine Unterlagen.
+- Er [[ordnete]] seine Gedanken.
+- Es [[ordnete]] die Dateien.
+- Sie [[ordnete]] das Chaos.
+- Wir [[ordneten]] die Regale.
+- Ihr [[ordnetet]] eure Aufgaben.
+- Sie [[ordneten]] die Papiere.
 
 ---
 
-Präteritum  
-Ich [[ordnete]]  
-du [[ordnetest]]  
-er [[ordnete]]  
-es [[ordnete]]  
-sie [[ordnete]]  
-wir [[ordneten]]  
-ihr [[ordnetet]]  
-Sie [[ordneten]]
+**Imperativ:**
+
+- Ich [[ordne]] jetzt.
+- Du [[ordne]] jetzt.
+- Er [[ordne]] jetzt.
+- Es [[ordnet]] jetzt.
+- Sie [[ordne]] jetzt.
+- Wir [[ordnen]] jetzt.
+- Ihr [[ordnet]] jetzt.
+- Sie [[ordnen]] jetzt.
 
 ---
 
-Imperativ  
-Ich (—)  
-du [[ordne]]  
-er (—)  
-es (—)  
-sie (—)  
-wir [[ordnen]]  
-ihr [[ordnet]]  
-Sie [[ordnen Sie]]
+**Morphems of only infinitive:**  
+- [[ordn]][[en]]

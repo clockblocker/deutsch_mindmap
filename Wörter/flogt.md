@@ -1,4 +1,1 @@
-Inf: [[fliegen]]
-#Verb
-#Unregelmäßige
-#Form
+✈️ [[fliegen]]  

@@ -1,46 +1,63 @@
-Inf: [[laufen]]
-Past: [[lief]]
-Perfect: [[gelaufen]]
-
----
-Beispiele:
-- Ich laufe jeden Morgen im Park
-- Du läufst sehr schnell
+🏃‍♂️ [[laufen]]  
+[[lief]]  
+sein [[gelaufen]]
 
 ---
 
-|     |         |
-| --- | ------- |
-| ich | [[laufe]] |
-| du  | [[läufst]] |
-| er  | [[läuft]]  |
-| sie | [[läuft]]  |
-| es  | [[läuft]]  |
-| wir | [[laufen]] |
-| ihr | [[lauft]]  |
-| sie | [[laufen]] |
-| Sie | [[laufen]] |
+---
+
+**Synonyme:**
+
+- [[rennen]], [[sprinten]], [[gehen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[laufe]] jeden Morgen.
+- Du [[läufst]] schnell.
+- Er [[läuft]] einen Marathon.
+- Es [[läuft]] ohne Pause.
+- Sie [[läuft]] gerne.
+- Wir [[laufen]] im Park.
+- Ihr [[lauft]] oft zusammen.
+- Sie [[laufen]] zum Bahnhof.
+
+---
+
 **Übersetzung**:
 to run, to walk
 
 ---
-
-Tags: 
-#Verb
-#Ablaut 
-#Unregelmäßige 
-#Inf #Form
+ #Verb  #Unregelmäßig
 
 ---
-Präteritum
-Ich [[lief]]
-du [[liefst]]
-er [[lief]]
-es [[lief]]
-sie [[lief]]
-wir [[liefen]]
-ihr [[lieft]]
-Sie [[liefen]]
 
+**Präteritum:**
+
+- Ich [[lief]] jeden Morgen.
+- Du [[liefst]] schnell.
+- Er [[lief]] einen Marathon.
+- Es [[lief]] ohne Pause.
+- Sie [[lief]] gerne.
+- Wir [[liefen]] im Park.
+- Ihr [[lieft]] oft zusammen.
+- Sie [[liefen]] zum Bahnhof.
+
+---
+
+**Imperativ:**
+
+- Ich [[laufe]] schneller.
+- Du [[lauf]] schneller.
+- Er [[laufe]] schneller.
+- Es [[läuft]] schneller.
+- Sie [[laufe]] schneller.
+- Wir [[laufen]] schneller.
+- Ihr [[lauft]] schneller.
+- Sie [[laufen]] schneller.
+
+---
+
+**Morphems of only infinitive:**  
+- [[lauf]][[en]]

@@ -1,43 +1,56 @@
-Inf: [[haben]]
-Past: [[hatte]]
-Perfect: [[gehabt]]
-
----
-Beispiele:
-
+💼 [[haben]]  
+[[hatte]]  
+haben [[gehabt]]
 
 ---
 
-|     |          |
-| --- | -------- |
-| ich | [[habe]] |
-| du  | [[hast]] |
-| er  | [[hat]]  |
-| sie | [[hat]]  |
-| es  | [[hat]]  |
-| wir | [[haben]]|
-| ihr | [[habt]] |
-| sie | [[haben]]|
-| Sie | [[haben]]|
+---
+
+**Synonyme:**
+
+- [[besitzen]], [[halten]], [[verfügen]]
 
 ---
-Translation:
+
+**Beispiele:**
+
+- Ich [[habe]] ein Auto.
+- Du [[hast]] viel Arbeit.
+- Er [[hat]] ein neues Handy.
+- Es [[hat]] viele Vorteile.
+- Sie [[hat]] eine Katze.
+- Wir [[haben]] einen Plan.
+- Ihr [[habt]] gute Ideen.
+- Sie [[haben]] eine große Familie.
+
+---
+
+**Übersetzung**:
 to have
 
 ---
-
-Tags: 
-#Verb
-#Unregelmäßige
-#Form 
+ #Verb  #Unregelmäßig
 
 ---
-Präteritum
-Ich [[hatte]]
-du [[hattest]]
-er [[hatte]]
-es [[hatte]]
-sie [[hatte]]
-wir [[hatten]]
-ihr [[hattet]]
-Sie [[hatten]]
+
+**Präteritum:**
+
+- Ich [[hatte]] ein Auto.
+- Du [[hattest]] viel Arbeit.
+- Er [[hatte]] ein neues Handy.
+- Es [[hatte]] viele Vorteile.
+- Sie [[hatte]] eine Katze.
+- Wir [[hatten]] einen Plan.
+- Ihr [[hattet]] gute Ideen.
+- Sie [[hatten]] eine große Familie.
+
+---
+
+**Imperativ:**
+
+- (Imperative forms are not used with this verb)
+
+---
+
+**Morphems of only infinitive:**  
+- [[hab]][[en]]

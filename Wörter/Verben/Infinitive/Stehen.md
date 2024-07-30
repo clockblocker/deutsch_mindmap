@@ -1,6 +1,6 @@
-Inf: [[stehen]]
-Past: [[stand]]
-Perfect: [[gestanden]]
+🚶‍♂️ [[stehen]]  
+[[stand]]  
+haben [[gestanden]]
 
 
 ![img](/Anhänge/stehen.png)
@@ -11,37 +11,58 @@ SASCHA: Mmh ... hier [[steht]] ...am 7. Juli ...
 
 ---
 
-|     |            |
-| --- | ---------- |
-| ich | [[stehe]]  |
-| du  | [[stehst]] |
-| er  | [[steht]]  |
-| sie | [[steht]]  |
-| es  | [[steht]]  |
-| wir | [[stehen]] |
-| ihr | [[steht]]  |
-| sie | [[stehen]] |
-| Sie | [[stehen]] |
+**Synonyme:**
 
-
----
-Translation: stand
-
-
-
+- [[aufrecht sein]], [[sich befinden]], [[stehenbleiben]]
 
 ---
 
-Tags: 
-#Verb
-#Regelmäßige
-#Inf #Form
+**Beispiele:**
+
+- Ich [[stehe]] im Raum.
+- Du [[stehst]] an der Ecke.
+- Er [[steht]] aufrecht.
+- Es [[steht]] da.
+- Sie [[steht]] neben mir.
+- Wir [[stehen]] zusammen.
+- Ihr [[steht]] draußen.
+- Sie [[stehen]] in der Schlange.
 
 ---
-Präteritum
-• ich [[stand]] 
-• du [[standest]]
-• er/sie/es [[stand]] 
-• wir [[standen]] 
-• ihr [[standet]]
-• sie/Sie [[standen]] 
+
+**Übersetzung**:
+to stand
+
+---
+ #Verb  #Unregelmäßig
+
+---
+
+**Präteritum:**
+
+- Ich [[stand]] im Raum.
+- Du [[standst]] an der Ecke.
+- Er [[stand]] aufrecht.
+- Es [[stand]] da.
+- Sie [[stand]] neben mir.
+- Wir [[standen]] zusammen.
+- Ihr [[standet]] draußen.
+- Sie [[standen]] in der Schlange.
+
+---
+
+**Imperativ:**
+
+- Ich [[stehe]] hier.
+- Du [[steh]] hier.
+- Er [[stehe]] hier.
+- Es [[steht]] hier.
+- Sie [[stehe]] hier.
+- Wir [[stehen]] hier.
+- Ihr [[steht]] hier.
+- Sie [[stehen]] hier.
+
+---
+
+**Morphems of only infinitive:**  
+- [[steh]][[en]]

@@ -1,65 +1,65 @@
-Inf: [[gehen]]
-Past: [[ging]]
-Perfect: [[gegangen]]
+🚶‍♂️ [[gehen]]  
+[[ging]]  
+sein [[gegangen]]
 
 ---
-Beispiele:
-
 ANNA: Ja, wir [[gehen auch immer]] in die Bücherei, nicht wahr?
 Er [[geht]] in die Bücherei und wohnt in einem Museum!  Wirklich! Hihi!
 
+---
+
+**Synonyme:**
+
+- [[laufen]], [[wandern]], [[schreiten]]
 
 ---
 
-|     |              |
-| --- | ------------ |
-| ich | [[gehe]]     |
-| du  | [[gehst]]    |
-| er  | [[geht]]     |
-| sie | [[geht]]     |
-| es  | [[geht]]     |
-| wir | [[gehen]]    |
-| ihr | [[geht]]     |
-| sie | [[gehen]]    |
-| Sie | [[gehen]]    |
+**Beispiele:**
+
+- Ich [[gehe]] jeden Tag spazieren.
+- Du [[gehst]] zur Schule.
+- Er [[geht]] ins Büro.
+- Es [[geht]] nicht mehr.
+- Sie [[geht]] zum Arzt.
+- Wir [[gehen]] oft wandern.
+- Ihr [[geht]] in die Stadt.
+- Sie [[gehen]] ins Kino.
 
 ---
+
 **Übersetzung**:
-to go
+to go, to walk
+
+---
+ #Verb  #Unregelmäßig
 
 ---
 
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
+**Präteritum:**
 
----
-Präteritum
-Ich [[ging]]
-du [[gingst]]
-er [[ging]]
-es [[ging]]
-sie [[ging]]
-wir [[gingen]]
-ihr [[gingt]]
-Sie [[gingen]]
+- Ich [[ging]] jeden Tag spazieren.
+- Du [[gingst]] zur Schule.
+- Er [[ging]] ins Büro.
+- Es [[ging]] nicht mehr.
+- Sie [[ging]] zum Arzt.
+- Wir [[gingen]] oft wandern.
+- Ihr [[gingt]] in die Stadt.
+- Sie [[gingen]] ins Kino.
 
 ---
 
-Perfekt
-Ich bin [[gegangen]]
-du bist [[gegangen]]
-er ist [[gegangen]]
-es ist [[gegangen]]
-sie ist [[gegangen]]
-wir sind [[gegangen]]
-ihr seid [[gegangen]]
-Sie sind [[gegangen]]
+**Imperativ:**
+
+- Ich [[gehe]] jetzt.
+- Du [[geh|gehe]] jetzt.
+- Er [[gehe]] jetzt.
+- Es [[geht]] jetzt.
+- Sie [[gehe]] jetzt.
+- Wir [[gehen]] jetzt.
+- Ihr [[geht]] jetzt.
+- Sie [[gehen]] jetzt.
 
 ---
 
-Imperativ
-du [[geh]]
-ihr [[geht]]
-Sie [[gehen]]
+**Morphems of only infinitive:**  
+- [[geh]][[en]]

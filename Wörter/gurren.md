@@ -1,62 +1,63 @@
-Inf: [[gurren]]
-Past: [[gurrte]]
-Perfect: [[gegurrt]]
-
----
-Beispiele:
-- Alle meine Täubchen [[gurren]] auf dem Dach, 
+🕊️ [[gurren]]  
+[[gurrte]]  
+haben [[gegurrt]]
 
 ---
 
-|     |                  |
-| --- | ---------------- |
-| ich | [[gurre]]        |
-| du  | [[gurrst]]       |
-| er  | [[gurrt]]        |
-| sie | [[gurrt]]        |
-| es  | [[gurrt]]        |
-| wir | [[gurren]]       |
-| ihr | [[gurrt]]        |
-| sie | [[gurren]]       |
-| Sie | [[gurren]]       |
+---
+
+**Synonyme:**
+
+- [[kurren]], [[turteln]], [[gurrlaut von sich geben]]
 
 ---
+
+**Beispiele:**
+
+- Die Tauben [[gurren]] auf dem Dach.
+- Du [[gurrst]] wie eine Taube.
+- Er [[gurrt]], wenn er glücklich ist.
+- Es [[gurrt]] leise.
+- Sie [[gurrt]] in der Nähe des Nestes.
+- Wir [[gurren]] im Park.
+- Ihr [[gurrt]] den ganzen Tag.
+- Sie [[gurren]] miteinander.
+
+---
+
 **Übersetzung**:
 to coo
 
 ---
-
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
-
----
-Präteritum
-Ich [[gurrte]]
-du [[gurrtest]]
-er [[gurrte]]
-es [[gurrte]]
-sie [[gurrte]]
-wir [[gurrten]]
-ihr [[gurrtet]]
-Sie [[gurrten]]
+ #Verb
 
 ---
 
-Perfekt
-Ich habe [[gegurrt]]
-du hast [[gegurrt]]
-er hat [[gegurrt]]
-es hat [[gegurrt]]
-sie hat [[gegurrt]]
-wir haben [[gegurrt]]
-ihr habt [[gegurrt]]
-Sie haben [[gegurrt]]
+**Präteritum:**
+
+- Die Tauben [[gurrten]] auf dem Dach.
+- Du [[gurrtest]] wie eine Taube.
+- Er [[gurrte]], wenn er glücklich war.
+- Es [[gurrte]] leise.
+- Sie [[gurrte]] in der Nähe des Nestes.
+- Wir [[gurrten]] im Park.
+- Ihr [[gurrtet]] den ganzen Tag.
+- Sie [[gurrten]] miteinander.
 
 ---
 
-Imperativ
-du [[gurre]]
-ihr [[gurrt]]
-Sie [[gurren]]
+**Imperativ:**
+
+- Ich [[gurre]] jetzt.
+- Du [[gurr|gurre]] jetzt.
+- Er [[gurre]] jetzt.
+- Es [[gurrt]] jetzt.
+- Sie [[gurre]] jetzt.
+- Wir [[gurren]] jetzt.
+- Ihr [[gurrt]] jetzt.
+- Sie [[gurren]] jetzt.
+
+---
+
+**Morphems of only infinitive:**  
+- [[gurr]][[en]]

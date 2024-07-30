@@ -1,61 +1,63 @@
-Inf: [[werden]]
-Past: [[wurde]]
-Perfect: [[geworden]]
+🌱 [[werden]]  
+[[wurde]]  
+sein [[geworden]]
 
 ---
-Beispiele:
-- Er ist Vater geworden
----
-
-|     |            |
-| --- | ---------- |
-| ich | [[werde]]  |
-| du  | [[wirst]]  |
-| er  | [[wird]]   |
-| sie | [[wird]]   |
-| es  | [[wird]]   |
-| wir | [[werden]] |
-| ihr | [[werdet]] |
-| sie | [[werden]] |
-| Sie | [[werden]] |
 
 ---
+
+**Synonyme:**
+
+- [[entwickeln]], [[entstehen]], [[wachsen]]
+
+---
+
+**Beispiele:**
+
+- Ich [[werde]] müde.
+- Du [[wirst]] groß.
+- Er [[wird]] Arzt.
+- Es [[wird]] dunkel.
+- Sie [[wird]] nervös.
+- Wir [[werden]] älter.
+- Ihr [[werdet]] stärker.
+- Sie [[werden]] erfolgreich.
+
+---
+
 **Übersetzung**:
-to become
+to become, to get, to turn
+
+---
+ #Verb  #Unregelmäßig
 
 ---
 
-Tags: 
-#Verb
-#Unregelmäßige
-#Inf | #Partizip II
+**Präteritum:**
 
----
-Präteritum
-Ich [[wurde]]
-du [[wurdest]]
-er [[wurde]]
-es [[wurde]]
-sie [[wurde]]
-wir [[wurden]]
-ihr [[wurdet]]
-Sie [[wurden]]
+- Ich [[wurde]] müde.
+- Du [[wurdest]] groß.
+- Er [[wurde]] Arzt.
+- Es [[wurde]] dunkel.
+- Sie [[wurde]] nervös.
+- Wir [[wurden]] älter.
+- Ihr [[wurdet]] stärker.
+- Sie [[wurden]] erfolgreich.
 
 ---
 
-Perfekt
-Ich bin [[geworden]]
-du bist [[geworden]]
-er ist [[geworden]]
-es ist [[geworden]]
-sie ist [[geworden]]
-wir sind [[geworden]]
-ihr seid [[geworden]]
-Sie sind [[geworden]]
+**Imperativ:**
+
+- Ich [[werde]] gesund.
+- Du [[werd]] gesund.
+- Er [[werde]] gesund.
+- Es [[wird]] gesund.
+- Sie [[werde]] gesund.
+- Wir [[werden]] gesund.
+- Ihr [[werdet]] gesund.
+- Sie [[werden]] gesund.
 
 ---
 
-Imperativ
-du [[werde]]
-ihr [[werdet]]
-Sie [[werden]]
+**Morphems of only infinitive:**  
+- [[werd]][[en]]

@@ -1,4 +1,4 @@
-[[hinschreiben]]
+✍️ [[hinschreiben]]
 [[schrieb hin]]
 haben [[hingeschrieben]]
 

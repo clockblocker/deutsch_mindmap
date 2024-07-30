@@ -1,44 +1,57 @@
-Inf: [[möchten]]
-Past: [[wollte]]
-Perfect: [[gewollt]]
+🌟 [[möchten]]  
+[[mochte]]  
+haben [[gemocht]]
 
 ---
-Beispiele:
 - Ich [[möchte]] mit dir schlafen.
 - ANNA: [[Möchtest]] du was trinken, Nic?
+---
+
+**Synonyme:**
+
+- [[wollen]], [[begehren]], [[wünschen]]
 
 ---
 
-|     |              |
-| --- | ------------ |
-| ich | [[möchte]]   |
-| du  | [[möchtest]] |
-| er  | [[möchte]]   |
-| sie | [[möchte]]   |
-| es  | [[möchte]]   |
-| wir | [[möchten]]  |
-| ihr | [[möchtet]]  |
-| sie | [[möchten]]  |
-| Sie | [[möchten]]  |
+**Beispiele:**
+
+- Ich [[möchte]] ein Eis.
+- Du [[möchtest]] einen Kaffee.
+- Er [[möchte]] ins Kino gehen.
+- Es [[möchte]] spielen.
+- Sie [[möchte]] reisen.
+- Wir [[möchten]] das Buch lesen.
+- Ihr [[möchtet]] ins Restaurant gehen.
+- Sie [[möchten]] mehr Zeit.
 
 ---
+
 **Übersetzung**:
-would like
+to want, to would like to
+
+---
+ #Verb  #Modalverb
 
 ---
 
-Tags: 
-#Verb
- #Regelmäßige
-#Inf | #Form
+**Präteritum:**
+
+- Ich [[mochte]] ein Eis.
+- Du [[mochtest]] einen Kaffee.
+- Er [[mochte]] ins Kino gehen.
+- Es [[mochte]] spielen.
+- Sie [[mochte]] reisen.
+- Wir [[mochten]] das Buch lesen.
+- Ihr [[mochtet]] ins Restaurant gehen.
+- Sie [[mochten]] mehr Zeit.
 
 ---
-Präteritum
-Ich [[wollte]]
-du [[wolltest]]
-er [[wollte]]
-es [[wollte]]
-sie [[wollte]]
-wir [[wollten]]
-ihr [[wolltet]]
-Sie [[wollten]]
+
+**Imperativ:**
+
+- (Imperative forms are not used with modal verbs)
+
+---
+
+**Morphems of only infinitive:**  
+- [[möcht]][[en]]

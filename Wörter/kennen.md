@@ -1,50 +1,56 @@
-**Infinitive:** [[kennen]]  
-**Past:** [[kannte]]  
-**Perfect:** [[gekannt]]
+👤 [[kennen]]  
+[[kannte]]  
+haben [[gekannt]]
 
 ---
-Beispiele:
-
-|     |          |
-| --- | -------- |
-| ich | [[kenne]]  |
-| du  | [[kennst]] |
-| er  | [[kennt]]  |
-| sie | [[kennt]]  |
-| es  | [[kennt]]  |
-| wir | [[kennen]] |
-| ihr | [[kennt]]  |
-| sie | [[kennen]] |
-| Sie | [[kennen]] |
 
 ---
-**Übersetzung:** to know, be acquainted with
+
+**Synonyme:**
+
+- [[wissen]], [[verstehen]], [[erkennen]]
 
 ---
-Tags: 
-#Verb #Ablaut #Schwache #Unregelmäßige #Regelmäßige #Inf #Form
+
+**Beispiele:**
+
+- Ich [[kenne]] diesen Ort.
+- Du [[kennst]] meine Freunde.
+- Er [[kennt]] die Antwort.
+- Es [[kennt]] den Weg.
+- Sie [[kennt]] das Problem.
+- Wir [[kennen]] den Lehrer.
+- Ihr [[kennt]] das Lied.
+- Sie [[kennen]] die Stadt.
 
 ---
-Präteritum:
 
-|     |            |
-| --- | ---------- |
-| ich | [[kannte]]  |
-| du  | [[kanntest]]|
-| er  | [[kannte]]  |
-| sie | [[kannte]]  |
-| es  | [[kannte]]  |
-| wir | [[kannten]] |
-| ihr | [[kanntet]] |
-| sie | [[kannten]] |
-| Sie | [[kannten]] |
+**Übersetzung**:
+to know, to be familiar with
 
 ---
-Imperativ:
+ #Verb  #Unregelmäßig
 
-|     |          |
-| --- | -------- |
-| du  | [[kenne]]  |
-| wir | [[kennen]] |
-| ihr | [[kennt]]  |
-| Sie | [[kennen]] |
+---
+
+**Präteritum:**
+
+- Ich [[kannte]] diesen Ort.
+- Du [[kanntest]] meine Freunde.
+- Er [[kannte]] die Antwort.
+- Es [[kannte]] den Weg.
+- Sie [[kannte]] das Problem.
+- Wir [[kannten]] den Lehrer.
+- Ihr [[kanntet]] das Lied.
+- Sie [[kannten]] die Stadt.
+
+---
+
+**Imperativ:**
+
+- (Imperative forms are not used with this verb)
+
+---
+
+**Morphems of only infinitive:**  
+- [[kenn]][[en]]

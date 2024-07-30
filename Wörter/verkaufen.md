@@ -1,65 +1,63 @@
-[[verkaufen]]
-[[verkaufst]]
+💰 [[verkaufen]]  
+[[verkaufte]]  
 haben [[verkauft]]
 
 ---
 
-Synonyme:
-- [[veräußern]]
-- [[absetzen]]
-- [[handeln]]
+---
+
+**Synonyme:**
+
+- [[veräußern]], [[absetzen]], [[anbieten]]
 
 ---
 
-Beispiele:
+**Beispiele:**
 
-Ich [[verkaufe]] mein altes Auto.  
-du [[verkaufst]] deine Bücher.  
-er [[verkauft]] seine Ware auf dem Markt.  
-es [[verkauft]] sich gut.  
-sie [[verkauft]] ihre Produkte online.  
-wir [[verkaufen]] unsere Sachen auf dem Flohmarkt.  
-ihr [[verkauft]] die Kunstwerke in der Galerie.  
-Sie [[verkaufen]] die Tickets an der Kasse.
-
----
-
-**Übersetzung**: to sell
+- Ich [[verkaufe]] mein Auto.
+- Du [[verkaufst]] deine alten Bücher.
+- Er [[verkauft]] Gemüse auf dem Markt.
+- Es [[verkauft]] sich gut.
+- Sie [[verkauft]] ihren Schmuck.
+- Wir [[verkaufen]] unser Haus.
+- Ihr [[verkauft]] Tickets für das Konzert.
+- Sie [[verkaufen]] ihre Produkte online.
 
 ---
 
-Tags: 
-#Verb
-#Ablaut | #Schwache
-#Unregelmäßige | #Regelmäßige
+**Übersetzung**:
+to sell
+
+---
+ #Verb
 
 ---
 
-Präteritum
-[[verkaufen]]
-Ich [[verkaufte]] mein Auto.  
-[[verkaufen]]
-du [[verkauftest]] deine Bücher.  
-er [[verkaufte]] seine Ware.  
-es [[verkaufte]] sich gut.  
-sie [[verkaufte]] ihre Produkte.  
-wir [[verkauften]] unsere Sachen.  
-ihr [[verkauftet]] die Kunstwerke.  
-Sie [[verkauften]] die Tickets.
+**Präteritum:**
+
+- Ich [[verkaufte]] mein Auto.
+- Du [[verkauftest]] deine alten Bücher.
+- Er [[verkaufte]] Gemüse auf dem Markt.
+- Es [[verkaufte]] sich gut.
+- Sie [[verkaufte]] ihren Schmuck.
+- Wir [[verkauften]] unser Haus.
+- Ihr [[verkauftet]] Tickets für das Konzert.
+- Sie [[verkauften]] ihre Produkte online.
 
 ---
 
-Imperativ
-Ich [[verkaufe]] das Auto.  
-du [[verkauf]] die Bücher.  
-er [[verkaufe]] die Ware.  
-es [[verkaufe]] sich gut.  
-sie [[verkaufe]] die Produkte.  
-wir [[verkaufen]] die Sachen.  
-ihr [[verkauft]] die Kunstwerke.  
-Sie [[verkaufen]] die Tickets.
+**Imperativ:**
+
+- Ich [[verkaufe]] es jetzt.
+- Du [[verkauf]] es jetzt.
+- Er [[verkaufe]] es jetzt.
+- Es [[verkauft]] es jetzt.
+- Sie [[verkaufe]] es jetzt.
+- Wir [[verkaufen]] es jetzt.
+- Ihr [[verkauft]] es jetzt.
+- Sie [[verkaufen]] es jetzt.
 
 ---
 
-Morphems of only infinitive:
-[[verkauf]][[en]]
+**Morphems of only infinitive:**  
+- [[verkauf]][[en]]

@@ -12,76 +12,70 @@ Beispiele:
 
 
 ---
-Inf: [[meinen]]
-Past: [[meinte]]
-Perfect: [[gemeint]]
+🗯️ [[meinen]]  
+[[meinte]]  
+haben [[gemeint]]
 
 ---
-Beispiele:
 - SASCHA: Also [[was meinst du]]– rot oder blau?
 - ANNA: Du [[meinst]] „Ich heiße Sam“.
+---
+
+**Synonyme:**
+
+- [[denken]], [[glauben]], [[vermuten]]
 
 ---
 
-|     |             |
-| --- | ----------- |
-| ich | [[meine]]   |
-| du  | [[meinst]]  |
-| er  | [[meint]]   |
-| sie | [[meint]]   |
-| es  | [[meint]]   |
-| wir | [[meinen]]  |
-| ihr | [[meint]]   |
-| sie | [[meinen]]  |
-| Sie | [[meinen]]  |
+**Beispiele:**
+
+- Ich [[meine]], dass es richtig ist.
+- Du [[meinst]], es ist einfach.
+- Er [[meint]], sie hat recht.
+- Es [[meint]], dass alles gut wird.
+- Sie [[meint]], das wäre klug.
+- Wir [[meinen]], das Projekt ist wichtig.
+- Ihr [[meint]], ihr wisst Bescheid.
+- Sie [[meinen]], dass es schwierig ist.
 
 ---
+
 **Übersetzung**:
-to mean
+to mean, to think
+
+---
+ #Verb
 
 ---
 
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
+**Präteritum:**
 
----
-Präteritum
-Ich [[meinte]]
-du [[meintest]]
-er [[meinte]]
-es [[meinte]]
-sie [[meinte]]
-wir [[meinten]]
-ihr [[meintet]]
-Sie [[meinten]]
+- Ich [[meinte]], dass es richtig ist.
+- Du [[meintest]], es ist einfach.
+- Er [[meinte]], sie hat recht.
+- Es [[meinte]], dass alles gut wird.
+- Sie [[meinte]], das wäre klug.
+- Wir [[meinten]], das Projekt ist wichtig.
+- Ihr [[meintet]], ihr wisst Bescheid.
+- Sie [[meinten]], dass es schwierig ist.
 
 ---
 
-Perfekt
-Ich habe [[gemeint]]
-du hast [[gemeint]]
-er hat [[gemeint]]
-es hat [[gemeint]]
-sie hat [[gemeint]]
-wir haben [[gemeint]]
-ihr habt [[gemeint]]
-Sie haben [[gemeint]]
+**Imperativ:**
+
+- Ich [[meine]] es ernst.
+- Du [[mein|meine]] es ernst.
+- Er [[meine]] es ernst.
+- Es [[meint]] es ernst.
+- Sie [[meine]] es ernst.
+- Wir [[meinen]] es ernst.
+- Ihr [[meint]] es ernst.
+- Sie [[meinen]] es ernst.
 
 ---
 
-Imperativ
-du [[meine]]
-ihr [[meint]]
-Sie [[meinen]]
-
-
-
-
-
-
-
+**Morphems of only infinitive:**  
+- [[mein]][[en]]
 
 
 

@@ -1,56 +1,63 @@
-[[wirken]]  
+✨ [[wirken]]  
 [[wirkte]]  
 haben [[gewirkt]]
 
 ---
 
-Beispiele:
-[[wirklich]]
+---
+
+**Synonyme:**
+
+- [[einwirken]], [[beeinflussen]], [[handeln]]
 
 ---
 
-|     |      |
-| --- | ---- |
-| ich | [[wirke]] |
-| du  | [[wirkst]] |
-| er  | [[wirkt]]  |
-| sie | [[wirkt]]  |
-| es  | [[wirkt]]  |
-| wir | [[wirken]]|
-| ihr | [[wirkt]] |
-| sie | [[wirken]]|
-| Sie | [[wirken]]|
+**Beispiele:**
+
+- Ich [[wirke]] entspannt.
+- Du [[wirkst]] nervös.
+- Er [[wirkt]] freundlich.
+- Es [[wirkt]] beruhigend.
+- Sie [[wirkt]] kompetent.
+- Wir [[wirken]] engagiert.
+- Ihr [[wirkt]] motiviert.
+- Sie [[wirken]] zufrieden.
 
 ---
 
-**Übersetzung**: to work, to have an effect
+**Übersetzung**:
+to appear, to seem, to have an effect
+
+---
+ #Verb
 
 ---
 
-Tags:  
-#Verb  
-#Regelmäßig
+**Präteritum:**
+
+- Ich [[wirkte]] entspannt.
+- Du [[wirkst]] nervös.
+- Er [[wirkte]] freundlich.
+- Es [[wirkte]] beruhigend.
+- Sie [[wirkte]] kompetent.
+- Wir [[wirkten]] engagiert.
+- Ihr [[wirktet]] motiviert.
+- Sie [[wirkten]] zufrieden.
 
 ---
 
-Präteritum  
-Ich [[wirkte]]  
-du [[wirkst]]  
-er [[wirkte]]  
-es [[wirkte]]  
-sie [[wirkte]]  
-wir [[wirkten]]  
-ihr [[wirkten]]  
-Sie [[wirkten]]
+**Imperativ:**
+
+- Ich [[wirke]] ruhig.
+- Du [[wirk|wirke]] ruhig.
+- Er [[wirke]] ruhig.
+- Es [[wirkt]] ruhig.
+- Sie [[wirke]] ruhig.
+- Wir [[wirken]] ruhig.
+- Ihr [[wirkt]] ruhig.
+- Sie [[wirken]] ruhig.
 
 ---
 
-Imperativ  
-Ich (—)  
-du [[wirke]]  
-er (—)  
-es (—)  
-sie (—)  
-wir [[wirken]]  
-ihr [[wirkt]]  
-Sie [[wirken]] Sie
+**Morphems of only infinitive:**  
+- [[wirk]][[en]]

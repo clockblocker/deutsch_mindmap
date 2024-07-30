@@ -1,4 +1,1 @@
-Inf: [[wollen]]
-#Verb
-#Unregelmäßige 
-#Form
+✨ [[wollen]]  

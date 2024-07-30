@@ -1,45 +1,64 @@
-[[vergessen]]
-[[vergaß]]
-[[vergessen]]
+🧠 [[vergessen]]  
+[[vergaß]]  
+haben [[vergessen]]
 
 ---
-Beispiele:
-NIC: Ich [[vergesse]] nie etwas!
-
-
+NIC: Ich [[vergesse]] nie etwas!\
 
 ---
 
-|     |      |
-| --- | ---- |
-| ich | [[vergesse]] |
-| du  | [[vergisst]] |
-| er  | [[vergisst]] |
-| sie | [[vergisst]] |
-| es  | [[vergisst]] |
-| wir | [[vergessen]] |
-| ihr | [[vergesst]] |
-| sie | [[vergessen]] |
-| Sie | [[vergessen]] |
+**Synonyme:**
+
+- [[übersehen]], [[verdrängen]], [[nicht mehr wissen]]
 
 ---
 
-- **Ich [[vergaß]]**
-- **Du [[vergaßt]]**
-- **Er/Sie/Es [[vergaß]]**
-- **Wir [[vergaßen]]**
-- **Ihr [[vergaßt]]**
-- **Sie [[vergaßen]]**
+**Beispiele:**
 
- Imperativ 
-
-- **(du) [[vergiss]]** 
-- **(ihr) [[vergesst]]** 
-- (Sie) [[vergessen]] Sie 
+- Ich [[vergesse]] oft meine Schlüssel.
+- Du [[vergisst]] den Termin.
+- Er [[vergisst]] alles.
+- Es [[vergisst]] die Namen.
+- Sie [[vergisst]] nichts.
+- Wir [[vergessen]] die Aufgaben.
+- Ihr [[vergesst]] die Hausaufgaben.
+- Sie [[vergessen]] die Vergangenheit.
 
 ---
 
-Tags: 
-#Verb
-#Starke
-#Unregelmäßige
+**Übersetzung**:
+to forget
+
+---
+ #Verb  #Unregelmäßig
+
+---
+
+**Präteritum:**
+
+- Ich [[vergaß]] oft meine Schlüssel.
+- Du [[vergaßest]] den Termin.
+- Er [[vergaß]] alles.
+- Es [[vergaß]] die Namen.
+- Sie [[vergaß]] nichts.
+- Wir [[vergaßen]] die Aufgaben.
+- Ihr [[vergaßt]] die Hausaufgaben.
+- Sie [[vergaßen]] die Vergangenheit.
+
+---
+
+**Imperativ:**
+
+- Ich [[vergesse]] nichts.
+- Du [[vergiss]] nichts.
+- Er [[vergesse]] nichts.
+- Es [[vergisst]] nichts.
+- Sie [[vergesse]] nichts.
+- Wir [[vergessen]] nichts.
+- Ihr [[vergesst]] nichts.
+- Sie [[vergessen]] nichts.
+
+---
+
+**Morphems of only infinitive:**  
+- [[vergess]][[en]]

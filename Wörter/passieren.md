@@ -1,70 +1,63 @@
-Inf: [[passieren]]
-Past: [[passierte]]
-Perfect: [[passiert]]
-
----
-Beispiele:
-- Ich frage mich, was [[passiert]] ist. (I wonder what happened.)
-- Du [[passierst]] die Grenze. (You pass the border.)
-- Er [[passiert]] den Test. (He passes the test.)
-- Wir [[passieren]] den Tunnel. (We pass through the tunnel.)
-- Ihr [[passiert]] die Stadt. (You all pass the city.)
-- Sie [[passieren]] den Fluss. (They/You [formal] pass the river.)
+🚦 [[passieren]]  
+[[passierte]]  
+sein [[passiert]]
 
 ---
 
-|     |                  |
-| --- | ---------------- |
-| ich | [[passiere]]     |
-| du  | [[passierst]]    |
-| er  | [[passiert]]     |
-| sie | [[passiert]]     |
-| es  | [[passiert]]     |
-| wir | [[passieren]]    |
-| ihr | [[passiert]]     |
-| sie | [[passieren]]    |
-| Sie | [[passieren]]    |
+---
+
+**Synonyme:**
+
+- [[geschehen]], [[vorkommen]], [[sich ereignen]]
 
 ---
+
+**Beispiele:**
+
+- Ich frage mich, was [[passiert]] ist.
+- Du [[passierst]] die Grenze.
+- Er [[passiert]] das Tor.
+- Es [[passiert]] schnell.
+- Sie [[passiert]] den Unfallort.
+- Wir [[passieren]] den Fluss.
+- Ihr [[passiert]] die Brücke.
+- Sie [[passieren]] die Straße.
+
+---
+
 **Übersetzung**:
-to happen, to occur, to pass
+to happen, to pass
+
+---
+ #Verb
 
 ---
 
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
+**Präteritum:**
 
----
-Präteritum
-Ich [[passierte]]
-du [[passiertest]]
-er [[passierte]]
-es [[passierte]]
-sie [[passierte]]
-Inf: [[passieren]]
-wir [[passierten]]
-ihr [[passiertet]]
-Sie [[passierten]]
+- Ich fragte mich, was [[passierte]].
+- Du [[passiertest]] die Grenze.
+- Er [[passierte]] das Tor.
+- Es [[passierte]] schnell.
+- Sie [[passierte]] den Unfallort.
+- Wir [[passierten]] den Fluss.
+- Ihr [[passiertet]] die Brücke.
+- Sie [[passierten]] die Straße.
 
 ---
 
-Perfekt
-Ich bin [[passiert]]
-du bist [[passiert]]
-er ist [[passiert]]
-es ist [[passiert]]
-sie ist [[passiert]]
-wir sind [[passiert]]
-ihr seid [[passiert]]
-Sie sind [[passiert]]
+**Imperativ:**
+
+- Ich [[passiere]] das Tor.
+- Du [[passier|passiere]] das Tor.
+- Er [[passiere]] das Tor.
+- Es [[passiert]] das Tor.
+- Sie [[passiere]] das Tor.
+- Wir [[passieren]] das Tor.
+- Ihr [[passiert]] das Tor.
+- Sie [[passieren]] das Tor.
 
 ---
 
-Imperativ
-du [[passiere]]
-ihr [[passiert]]
-Sie [[passieren]]
-
-pass[[ieren]]
+**Morphems of only infinitive:**  
+- [[passier]][[en]]

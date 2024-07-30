@@ -1,62 +1,64 @@
-Inf: [[warten]]
-Past: [[wartete]]
-Perfect: [[gewartet]]
+⏳ [[warten]]  
+[[wartete]]  
+haben [[gewartet]]
 
 ---
-Beispiele:
 Ich [[warte]] auf die Post.
 
 ---
 
-|     |                  |
-| --- | ---------------- |
-| ich | [[warte]]        |
-| du  | [[wartest]]      |
-| er  | [[wartet]]       |
-| sie | [[wartet]]       |
-| es  | [[wartet]]       |
-| wir | [[warten]]       |
-| ihr | [[wartet]]       |
-| sie | [[warten]]       |
-| Sie | [[warten]]       |
+**Synonyme:**
+
+- [[abwarten]], [[verweilen]], [[zuwarten]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[warte]] auf den Bus.
+- Du [[wartest]] auf deinen Freund.
+- Er [[wartet]] auf eine Antwort.
+- Es [[wartet]] geduldig.
+- Sie [[wartet]] auf die Ergebnisse.
+- Wir [[warten]] zusammen.
+- Ihr [[wartet]] auf das Essen.
+- Sie [[warten]] auf den nächsten Zug.
+
+---
+
 **Übersetzung**:
 to wait
 
 ---
-
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
-
----
-Präteritum
-Ich [[wartete]]
-du [[wartetest]]
-er [[wartete]]
-es [[wartete]]
-sie [[wartete]]
-wir [[warteten]]
-ihr [[wartetet]]
-Sie [[warteten]]
+ #Verb
 
 ---
 
-Perfekt
-Ich habe [[gewartet]]
-du hast [[gewartet]]
-er hat [[gewartet]]
-es hat [[gewartet]]
-sie hat [[gewartet]]
-wir haben [[gewartet]]
-ihr habt [[gewartet]]
-Sie haben [[gewartet]]
+**Präteritum:**
+
+- Ich [[wartete]] auf den Bus.
+- Du [[wartetest]] auf deinen Freund.
+- Er [[wartete]] auf eine Antwort.
+- Es [[wartete]] geduldig.
+- Sie [[wartete]] auf die Ergebnisse.
+- Wir [[warteten]] zusammen.
+- Ihr [[wartetet]] auf das Essen.
+- Sie [[warteten]] auf den nächsten Zug.
 
 ---
 
-Imperativ
-du [[warte]]
-ihr [[wartet]]
-Sie [[warten]]
+**Imperativ:**
+
+- Ich [[warte]] hier.
+- Du [[warte]] hier.
+- Er [[warte]] hier.
+- Es [[wartet]] hier.
+- Sie [[warte]] hier.
+- Wir [[warten]] hier.
+- Ihr [[wartet]] hier.
+- Sie [[warten]] hier.
+
+---
+
+**Morphems of only infinitive:**  
+- [[wart]][[en]]

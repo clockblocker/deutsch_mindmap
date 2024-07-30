@@ -1,67 +1,63 @@
-Inf: [[üben]]
-Past: [[übte]]
-Perfect: [[geübt]]
-
----
-Beispiele:
-- Ich [[übe]] jeden Tag Klavier. (I practice piano every day.)
-- Du [[übst]] deine Aussprache. (You practice your pronunciation.)
-- Er [[übt]] für die Prüfung. (He practices for the exam.)
-- Wir [[üben]] zusammen. (We practice together.)
-- Ihr [[übt]] fleißig. (You all practice diligently.)
-- Sie [[üben]] ihre Fähigkeiten. (They/You [formal] practice their/your skills.)
+🏋️ [[üben]]  
+[[übte]]  
+haben [[geübt]]
 
 ---
 
-|     |              |
-| --- | ------------ |
-| ich | [[übe]]      |
-| du  | [[übst]]     |
-| er  | [[übt]]      |
-| sie | [[übt]]      |
-| es  | [[übt]]      |
-| wir | [[üben]]     |
-| ihr | [[übt]]      |
-| sie | [[üben]]     |
-| Sie | [[üben]]     |
+---
+
+**Synonyme:**
+
+- [[trainieren]], [[praktizieren]], [[proben]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[übe]] Klavier.
+- Du [[übst]] jeden Tag.
+- Er [[übt]] seine Rede.
+- Es [[übt]] fleißig.
+- Sie [[übt]] den Tanz.
+- Wir [[üben]] für den Test.
+- Ihr [[übt]] zusammen.
+- Sie [[üben]] die Aussprache.
+
+---
+
 **Übersetzung**:
-to practice
+to practice, to exercise
+
+---
+ #Verb
 
 ---
 
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
+**Präteritum:**
 
----
-Präteritum
-Ich [[übte]]
-du [[übtest]]
-er [[übte]]
-es [[übte]]
-sie [[übte]]
-wir [[übten]]
-ihr [[übtet]]
-Sie [[übten]]
+- Ich [[übte]] Klavier.
+- Du [[übtest]] jeden Tag.
+- Er [[übte]] seine Rede.
+- Es [[übte]] fleißig.
+- Sie [[übte]] den Tanz.
+- Wir [[übten]] für den Test.
+- Ihr [[übtest]] zusammen.
+- Sie [[übten]] die Aussprache.
 
 ---
 
-Perfekt
-Ich habe [[geübt]]
-du hast [[geübt]]
-er hat [[geübt]]
-es hat [[geübt]]
-sie hat [[geübt]]
-wir haben [[geübt]]
-ihr habt [[geübt]]
-Sie haben [[geübt]]
+**Imperativ:**
+
+- Ich [[übe]] das Stück.
+- Du [[üb|übe]] das Stück.
+- Er [[übe]] das Stück.
+- Es [[übt]] das Stück.
+- Sie [[übe]] das Stück.
+- Wir [[üben]] das Stück.
+- Ihr [[übt]] das Stück.
+- Sie [[üben]] das Stück.
 
 ---
 
-Imperativ
-du [[übe]]
-ihr [[übt]]
-Sie [[üben]]
+**Morphems of only infinitive:**  
+- [[üb]][[en]]

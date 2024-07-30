@@ -1,66 +1,64 @@
-[[tragen]]  
-[[trägst]]  
-[[tragen]]  
+👕 [[tragen]]  
+[[trug]]  
 haben [[getragen]]
 
 ---
 SASCHA: Du musst Designer- Klamotten [[tragen]]…
 
+---
+
+**Synonyme:**
+
+- [[anlegen]], [[befördern]], [[transportieren]]
 
 ---
-synonyms:
-- [[bedecken]]
-- [[schleppen]]
-- [[befördern]]
 
----
-Beispiele:
+**Beispiele:**
 
 - Ich [[trage]] einen schweren Koffer.
-- Du [[trägst]] eine schöne Jacke.
-- Er [[trägt]] das Buch zur Bibliothek.
-- Es [[trägt]] den Rucksack zur Schule.
-- Sie [[trägt]] ihre Katze zum Tierarzt.
-- Wir [[tragen]] die Möbel in die neue Wohnung.
-- Ihr [[tragt]] die Einkaufstaschen.
-- Sie [[tragen]] die Verantwortung.
-
----
-**Übersetzung**: carry, wear
+- Du [[trägst]] eine rote Jacke.
+- Er [[trägt]] die Einkäufe nach Hause.
+- Es [[trägt]] viele Blüten.
+- Sie [[trägt]] die Verantwortung.
+- Wir [[tragen]] die Möbel in die Wohnung.
+- Ihr [[tragt]] die Bücher zur Bibliothek.
+- Sie [[tragen]] die gleiche Uniform.
 
 ---
 
-Tags: 
-#Verb
-#Ablaut | #Starke
-#Unregelmäßige
+**Übersetzung**:
+to carry, to wear
 
 ---
-Präteritum
-Ich [[trug]] den Rucksack zur Schule.  
-du [[trugst]] eine schwere Tasche.  
-er [[trug]] den Koffer ins Hotel.  
-es [[trug]] die Last auf seinen Schultern.  
-sie [[trug]] einen roten Mantel.  
-wir [[trugen]] die Bücher in die Bibliothek.  
-ihr [[tragt]] die Kisten zum Auto.  
-Sie [[trugen]] die Verantwortung.
+ #Verb  #Unregelmäßig
 
 ---
 
-Imperativ
-Ich [[trage]] die Schachtel vorsichtig.  
-du [[trag]] das Buch zu mir.  
-er [[trag]] die schweren Taschen.  
-es [[trag]] den Brief zur Post.  
-sie [[trag]] die Box in den Raum.  
-wir [[tragen]] die Sachen ins Haus.  
-ihr [[tragt]] die Geschenke.  
-Sie [[tragen]] bitte die Kisten.
+**Präteritum:**
 
-Morphems of only infinitive:
+- Ich [[trug]] einen schweren Koffer.
+- Du [[trugst]] eine rote Jacke.
+- Er [[trug]] die Einkäufe nach Hause.
+- Es [[trug]] viele Blüten.
+- Sie [[trug]] die Verantwortung.
+- Wir [[trugen]] die Möbel in die Wohnung.
+- Ihr [[trugt]] die Bücher zur Bibliothek.
+- Sie [[trugen]] die gleiche Uniform.
+
+---
+
+**Imperativ:**
+
+- Ich [[trage]] die Tasche.
+- Du [[trag]] die Tasche.
+- Er [[trage]] die Tasche.
+- Es [[trägt]] die Tasche.
+- Sie [[trage]] die Tasche.
+- Wir [[tragen]] die Tasche.
+- Ihr [[tragt]] die Tasche.
+- Sie [[tragen]] die Tasche.
+
+---
+
+**Morphems of only infinitive:**  
 - [[trag]][[en]]
-
----
-
-carry

@@ -1,73 +1,66 @@
-Inf: [[stellen]]
-Past: [[stellte]]
-Perfect: [[gestellt]]
-
-[[le`gen]]
+\🛠️ [[stellen]]  
+[[stellte]]  
+haben [[gestellt]]
 
 ![[Pasted image 20240703130315.png]]
 
-
-
 ---
-Beispiele:
-- Ich [[stelle]] das Buch auf den Tisch. (I place the book on the table.)
-- Du [[stellst]] die Vase ins Regal. (You put the vase on the shelf.)
-- Er [[stellt]] die Lampe neben das Bett. (He places the lamp next to the bed.)
-- Wir [[stellen]] die Stühle in den Garten. (We put the chairs in the garden.)
-- Ihr [[stellt]] das Auto in die Garage. (You all park the car in the garage.)
-- Sie [[stellen]] die Kisten in den Keller. (They/You [formal] place the boxes in the basement.)
+ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 
 ---
 
-|     |                  |
-| --- | ---------------- |
-| ich | [[stelle]]       |
-| du  | [[stellst]]      |
-| er  | [[stellt]]       |
-| sie | [[stellt]]       |
-| es  | [[stellt]]       |
-| wir | [[stellen]]      |
-| ihr | [[stellt]]       |
-| sie | [[stellen]]      |
-| Sie | [[stellen]]      |
+**Synonyme:**
+
+- [[platzieren]], [[setzen]], [[aufbauen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[stelle]] den Stuhl in die Ecke.
+- Du [[stellst]] das Glas auf den Tisch.
+- Er [[stellt]] die Frage.
+- Es [[stellt]] das Buch ins Regal.
+- Sie [[stellt]] die Lampe auf den Schreibtisch.
+- Wir [[stellen]] den Schrank an die Wand.
+- Ihr [[stellt]] die Kisten auf den Boden.
+- Sie [[stellen]] die Regeln auf.
+
+---
+
 **Übersetzung**:
-to place, to put
+to place, to put, to set
+
+---
+ #Verb
 
 ---
 
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
+**Präteritum:**
 
----
-Präteritum
-Ich [[stellte]]
-du [[stelltest]]
-er [[stellte]]
-es [[stellte]]
-sie [[stellte]]
-wir [[stellten]]
-ihr [[stelltet]]
-Sie [[stellten]]
+- Ich [[stellte]] den Stuhl in die Ecke.
+- Du [[stelltest]] das Glas auf den Tisch.
+- Er [[stellte]] die Frage.
+- Es [[stellte]] das Buch ins Regal.
+- Sie [[stellte]] die Lampe auf den Schreibtisch.
+- Wir [[stellten]] den Schrank an die Wand.
+- Ihr [[stelltet]] die Kisten auf den Boden.
+- Sie [[stellten]] die Regeln auf.
 
 ---
 
-Perfekt
-Ich habe [[gestellt]]
-du hast [[gestellt]]
-er hat [[gestellt]]
-es hat [[gestellt]]
-sie hat [[gestellt]]
-wir haben [[gestellt]]
-ihr habt [[gestellt]]
-Sie haben [[gestellt]]
+**Imperativ:**
+
+- Ich [[stelle]] es hin.
+- Du [[stell|stelle]] es hin.
+- Er [[stelle]] es hin.
+- Es [[stellt]] es hin.
+- Sie [[stelle]] es hin.
+- Wir [[stellen]] es hin.
+- Ihr [[stellt]] es hin.
+- Sie [[stellen]] es hin.
 
 ---
 
-Imperativ
-du [[stell]]
-ihr [[stellt]]
-Sie [[stellen]]
+**Morphems of only infinitive:**  
+- [[stell]][[en]]

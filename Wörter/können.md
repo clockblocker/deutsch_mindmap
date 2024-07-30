@@ -1,60 +1,56 @@
-Inf: [[können]]
-Past: [[konnte]]
-Perfect: [[gekonnt]]
-
----
-Beispiele:
-- Ich [[kann]] schwimmen. (I can swim.)
-- Du [[kannst]] das machen. (You can do that.)
-- Er [[kann]] gut kochen. (He can cook well.)
-- Wir [[können]] heute Abend kommen. (We can come this evening.)
-- Ihr [[könnt]] mit uns gehen. (You all can go with us.)
-- Sie [[können]] alles verstehen. (They/You [formal] can understand everything.)
+💪 [[können]]  
+[[konnte]]  
+haben [[gekonnt]]
 
 ---
 
-|     |              |
-| --- | ------------ |
-| ich | [[kann]]     |
-| du  | [[kannst]]   |
-| er  | [[kann]]     |
-| sie | [[kann]]     |
-| es  | [[kann]]     |
-| wir | [[können]]   |
-| ihr | [[könnt]]    |
-| sie | [[können]]   |
-| Sie | [[können]]   |
+---
+
+**Synonyme:**
+
+- [[vermögen]], [[fähig sein]], [[imstande sein]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[kann]] Deutsch sprechen.
+- Du [[kannst]] gut kochen.
+- Er [[kann]] schwimmen.
+- Es [[kann]] fliegen.
+- Sie [[kann]] singen.
+- Wir [[können]] helfen.
+- Ihr [[könnt]] spielen.
+- Sie [[können]] tanzen.
+
+---
+
 **Übersetzung**:
 to be able to, can
 
 ---
-
-Tags: 
-#Verb
-#Modal | #Schwache
-#Inf | #Partizip II
-
----
-Präteritum
-Ich [[konnte]]
-du [[konntest]]
-er [[konnte]]
-es [[konnte]]
-sie [[konnte]]
-wir [[konnten]]
-ihr [[konntet]]
-Sie [[konnten]]
+ #Verb  #Modalverb
 
 ---
 
-Perfekt
-Ich habe [[gekonnt]]
-du hast [[gekonnt]]
-er hat [[gekonnt]]
-es hat [[gekonnt]]
-sie hat [[gekonnt]]
-wir haben [[gekonnt]]
-ihr habt [[gekonnt]]
-Sie haben [[gekonnt]]
+**Präteritum:**
+
+- Ich [[konnte]] Deutsch sprechen.
+- Du [[konntest]] gut kochen.
+- Er [[konnte]] schwimmen.
+- Es [[konnte]] fliegen.
+- Sie [[konnte]] singen.
+- Wir [[konnten]] helfen.
+- Ihr [[konntet]] spielen.
+- Sie [[konnten]] tanzen.
+
+---
+
+**Imperativ:**
+
+- (Imperative forms are not used with modal verbs)
+
+---
+
+**Morphems of only infinitive:**  
+- [[könn]][[en]]

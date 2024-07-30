@@ -1,43 +1,57 @@
-Inf: [[mögen]]
-Past: [[mochte]]
-Perfect: [[gemocht]]
+❤️ [[mögen]]  
+[[mochte]]  
+haben [[gemocht]]
 
 ---
-Beispiele:
 - Ich [[mag]] Rosen
 
 ---
 
-|     |           |
-| --- | --------- |
-| ich | [[mag]]   |
-| du  | [[magst]] |
-| er  | [[mag]]   |
-| sie | [[mag]]   |
-| es  | [[mag]]   |
-| wir | [[mögen]] |
-| ihr | [[mögt]]  |
-| sie | [[mögen]] |
-| Sie | [[mögen]] |
+**Synonyme:**
+
+- [[lieben]], [[gern haben]], [[schätzen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[mag]] Schokolade.
+- Du [[magst]] Bücher.
+- Er [[mag]] Musik.
+- Es [[mag]] Ruhe.
+- Sie [[mag]] Katzen.
+- Wir [[mögen]] Abenteuer.
+- Ihr [[mögt]] Filme.
+- Sie [[mögen]] das Meer.
+
+---
+
 **Übersetzung**:
 to like
 
 ---
-
-Tags: 
-#Verb
-#Unregelmäßige 
-#Inf | #Form
+ #Verb  #Modalverb
 
 ---
-Präteritum
-Ich [[mochte]]
-du [[mochtest]]
-er [[mochte]]
-es [[mochte]]
-sie [[mochte]]
-wir [[mochten]]
-ihr [[mochtet]]
-Sie [[mochten]]
+
+**Präteritum:**
+
+- Ich [[mochte]] Schokolade.
+- Du [[mochtest]] Bücher.
+- Er [[mochte]] Musik.
+- Es [[mochte]] Ruhe.
+- Sie [[mochte]] Katzen.
+- Wir [[mochten]] Abenteuer.
+- Ihr [[mochtet]] Filme.
+- Sie [[mochten]] das Meer.
+
+---
+
+**Imperativ:**
+
+- (Imperative forms are not used with modal verbs)
+
+---
+
+**Morphems of only infinitive:**  
+- [[mög]][[en]]

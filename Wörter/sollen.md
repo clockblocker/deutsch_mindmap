@@ -1,51 +1,56 @@
-Inf: [[sollen]]
-Past: [[sollte]]
-Perfect: [[gesollt]]
+👉 [[sollen]]  
+[[sollte]]  
+haben [[gesollt]]
 
 ---
 
-|     |           |
-| --- | --------- |
-| ich | [[soll]]  |
-| du  | [[sollst]]|
-| er  | [[soll]]  |
-| sie | [[soll]]  |
-| es  | [[soll]]  |
-| wir | [[sollen]]|
-| ihr | [[sollt]] |
-| sie | [[sollen]]|
-| Sie | [[sollen]]|
+---
+
+**Synonyme:**
+
+- [[müssen]], [[empfohlen sein]], [[beauftragt sein]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[soll]] die Hausaufgaben machen.
+- Du [[sollst]] mehr Wasser trinken.
+- Er [[soll]] früh ins Bett gehen.
+- Es [[soll]] morgen regnen.
+- Sie [[soll]] ihren Chef anrufen.
+- Wir [[sollen]] pünktlich sein.
+- Ihr [[sollt]] den Raum verlassen.
+- Sie [[sollen]] die Regeln befolgen.
+
+---
+
 **Übersetzung**:
-to be supposed to, should, ought to
+should, to be supposed to
+
+---
+ #Verb  #Modalverb
 
 ---
 
-Tags: 
-#Verb
-#Schwache
-#Unregelmäßige 
+**Präteritum:**
 
----
-Präteritum
-Ich [[sollte]]
-du [[solltest]]
-er [[sollte]]
-es [[sollte]]
-sie [[sollte]]
-wir [[sollten]]
-ihr [[solltet]]
-Sie [[sollten]]
+- Ich [[sollte]] die Hausaufgaben machen.
+- Du [[solltest]] mehr Wasser trinken.
+- Er [[sollte]] früh ins Bett gehen.
+- Es [[sollte]] morgen regnen.
+- Sie [[sollte]] ihren Chef anrufen.
+- Wir [[sollten]] pünktlich sein.
+- Ihr [[solltet]] den Raum verlassen.
+- Sie [[sollten]] die Regeln befolgen.
 
 ---
 
-Imperativ
-Ich [[]]
-du [[soll]]
-er [[]]
-es [[]]
-sie [[]]
-wir [[]]
-ihr [[sollt]]
-Sie [[sollen]]
+**Imperativ:**
+
+- (Imperative forms are not used with modal verbs)
+
+---
+
+**Morphems of only infinitive:**  
+- [[soll]][[en]]

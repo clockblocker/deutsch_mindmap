@@ -1,63 +1,57 @@
-Inf: [[sterben]]
-Past: [[starb]]
-Perfect: [[gestorben]]
+⚰️ [[sterben]]  
+[[starb]]  
+sein [[gestorben]]
 
 ---
-Beispiele:
 - Er ist vor 3 Jahren [[gestorben]].
 
+---
+
+**Synonyme:**
+
+- [[versterben]], [[umkommen]], [[ableben]]
 
 ---
 
-|     |              |
-| --- | ------------ |
-| ich | [[sterbe]]   |
-| du  | [[stirbst]]  |
-| er  | [[stirbt]]   |
-| sie | [[stirbt]]   |
-| es  | [[stirbt]]   |
-| wir | [[sterben]]  |
-| ihr | [[sterbt]]   |
-| sie | [[sterben]]  |
-| Sie | [[sterben]]  |
+**Beispiele:**
+
+- Ich [[sterbe]] vor Durst.
+- Du [[stirbst]] vor Angst.
+- Er [[stirbt]] an einer Krankheit.
+- Es [[stirbt]] langsam.
+- Sie [[stirbt]] im hohen Alter.
+- Wir [[sterben]] eines Tages.
+- Ihr [[sterbt]] vor Lachen.
+- Sie [[sterben]] friedlich.
 
 ---
+
 **Übersetzung**:
 to die
 
 ---
-
-Tags: 
-#Verb
-#Unregelmäßige
-#Inf | #Partizip II
-
----
-Präteritum
-Ich [[starb]]
-du [[starbst]]
-er [[starb]]
-es [[starb]]
-sie [[starb]]
-wir [[starben]]
-ihr [[starbt]]
-Sie [[starben]]
+ #Verb  #Unregelmäßig
 
 ---
 
-Perfekt
-Ich bin [[gestorben]]
-du bist [[gestorben]]
-er ist [[gestorben]]
-es ist [[gestorben]]
-sie ist [[gestorben]]
-wir sind [[gestorben]]
-ihr seid [[gestorben]]
-Sie sind [[gestorben]]
+**Präteritum:**
+
+- Ich [[starb]] vor Durst.
+- Du [[starbst]] vor Angst.
+- Er [[starb]] an einer Krankheit.
+- Es [[starb]] langsam.
+- Sie [[starb]] im hohen Alter.
+- Wir [[starben]] eines Tages.
+- Ihr [[starbt]] vor Lachen.
+- Sie [[starben]] friedlich.
 
 ---
 
-Imperativ
-du [[stirb]]
-ihr [[sterbt]]
-Sie [[sterben]]
+**Imperativ:**
+
+- (Imperative forms are not used with this verb)
+
+---
+
+**Morphems of only infinitive:**  
+- [[sterb]][[en]]

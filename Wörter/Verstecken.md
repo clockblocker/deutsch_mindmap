@@ -1,63 +1,64 @@
-Inf: [[verstecken]]
-Past: [[versteckte]]
-Perfect: [[versteckt]]
+🕵️ [[verstecken]]  
+[[versteckte]]  
+haben [[versteckt]]
 
 ---
-Beispiele:
 - [[Verstecken]] in dem [[Schrank]]
 - [[Schnell]] Sam! [[Versteck]] dich!
+---
+
+**Synonyme:**
+
+- [[verbergen]], [[verhüllen]], [[verheimlichen]]
 
 ---
 
-|     |                        |
-| --- | ---------------------- |
-| ich | [[verstecke]]          |
-| du  | [[versteckst]]         |
-| er  | [[versteckt]]          |
-| sie | [[versteckt]]          |
-| es  | [[versteckt]]          |
-| wir | [[verstecken]]         |
-| ihr | [[versteckt]]          |
-| sie | [[verstecken]]         |
-| Sie | [[verstecken]]         |
+**Beispiele:**
+
+- Ich [[verstecke]] das Geschenk.
+- Du [[versteckst]] dich hinter dem Baum.
+- Er [[versteckt]] das Buch unter dem Bett.
+- Es [[versteckt]] sich im Schrank.
+- Sie [[versteckt]] das Geld im Safe.
+- Wir [[verstecken]] uns im Haus.
+- Ihr [[versteckt]] die Schlüssel.
+- Sie [[verstecken]] die Ostereier.
 
 ---
+
 **Übersetzung**:
 to hide
 
 ---
-
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
-
----
-Präteritum
-Ich [[versteckte]]
-du [[verstecktest]]
-er [[versteckte]]
-es [[versteckte]]
-sie [[versteckte]]
-wir [[versteckten]]
-ihr [[verstecktet]]
-Sie [[versteckten]]
+ #Verb
 
 ---
 
-Perfekt
-Ich habe [[versteckt]]
-du hast [[versteckt]]
-er hat [[versteckt]]
-es hat [[versteckt]]
-sie hat [[versteckt]]
-wir haben [[versteckt]]
-ihr habt [[versteckt]]
-Sie haben [[versteckt]]
+**Präteritum:**
+
+- Ich [[versteckte]] das Geschenk.
+- Du [[verstecktest]] dich hinter dem Baum.
+- Er [[versteckte]] das Buch unter dem Bett.
+- Es [[versteckte]] sich im Schrank.
+- Sie [[versteckte]] das Geld im Safe.
+- Wir [[versteckten]] uns im Haus.
+- Ihr [[verstecktet]] die Schlüssel.
+- Sie [[versteckten]] die Ostereier.
 
 ---
 
-Imperativ
-du [[versteck]]
-ihr [[versteckt]]
-Sie [[verstecken]]
+**Imperativ:**
+
+- Ich [[verstecke]] es.
+- Du [[versteck]] es.
+- Er [[verstecke]] es.
+- Es [[versteckt]] es.
+- Sie [[verstecke]] es.
+- Wir [[verstecken]] es.
+- Ihr [[versteckt]] es.
+- Sie [[verstecken]] es.
+
+---
+
+**Morphems of only infinitive:**  
+- [[ver]][[steck]][[en]]

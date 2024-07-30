@@ -1,58 +1,64 @@
-[[geben]]
-[[gibt]]
+🎁 [[geben]]  
+[[gab]]  
 haben [[gegeben]]
 
 ---
-synonyms
-- [[überreichen]]
-- [[aushändigen]]
-- [[zuteilen]]
+Gib mir [[sofort]] die Post Louis!
 
 ---
-Beispiele:
 
-- Ich [[gebe]] dir das Buch.
-- Du [[gibst]] mir deine Telefonnummer.
-- Er [[gibt]] der Freundin ein Geschenk.
-- Es [[gibt]] viele Möglichkeiten, das Problem zu lösen.
-- Sie [[gibt]] dem Kind ein Spielzeug.
-- Wir [[geben]] den Gästen Getränke aus.
-- Ihr [[gebt]] den Schülern die Hausaufgaben.
-- Sie [[geben]] der Organisation eine Spende.
+**Synonyme:**
+
+- [[überreichen]], [[spenden]], [[zuteilen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[gebe]] dir ein Geschenk.
+- Du [[gibst]] mir einen Tipp.
+- Er [[gibt]] seiner Schwester Geld.
+- Es [[gibt]] keine Probleme.
+- Sie [[gibt]] ihm einen Kuss.
+- Wir [[geben]] unser Bestes.
+- Ihr [[gebt]] den Kindern Bonbons.
+- Sie [[geben]] dem Obdachlosen Essen.
+
+---
+
 **Übersetzung**:
 to give
 
 ---
-
-Tags: 
-#Verb
-#Ablaut | #Schwache
-#Unregelmäßige | #Regelmäßige
-
----
-Präteritum
-- Ich [[gab]] dir das Buch gestern.
-- Du [[gabst]] mir die Informationen rechtzeitig.
-- Er [[gab]] ihr einen Rat.
-- Es [[gab]] ein Missverständnis.
-- Sie [[gab]] mir eine wichtige Nachricht.
-- Wir [[gaben]] den Gästen Essen und Trinken.
-- Ihr [[gabt]] den Kindern Geschenke.
-- Sie [[gaben]] der Firma Feedback.
+ #Verb  #Unregelmäßig
 
 ---
 
-Imperativ
-- Ich [[gib]] mir bitte das Dokument!
-- Du [[gib]] mir sofort die Antwort!
-- Er [[gib]] der Mitarbeiterin das Formular!
-- Es [[gib]] den Kindern die Aufgaben!
-- Sie [[gib]] mir die Schlüssel!
-- Wir [[geben]] euch die Infos!
-- Ihr [[gebt]] den Besuchern die Tickets!
-- Sie [[geben]] den Kunden die Produkte!
+**Präteritum:**
 
-Morphems of only infinitive:
+- Ich [[gab]] dir ein Geschenk.
+- Du [[gabst]] mir einen Tipp.
+- Er [[gab]] seiner Schwester Geld.
+- Es [[gab]] keine Probleme.
+- Sie [[gab]] ihm einen Kuss.
+- Wir [[gaben]] unser Bestes.
+- Ihr [[gabt]] den Kindern Bonbons.
+- Sie [[gaben]] dem Obdachlosen Essen.
+
+---
+
+**Imperativ:**
+
+- Ich [[gebe]] es dir.
+- Du [[gib]] es mir.
+- Er [[gebe]] es ihm.
+- Es [[gibt]] es uns.
+- Sie [[gebe]] es ihr.
+- Wir [[geben]] es ihnen.
+- Ihr [[gebt]] es ihnen.
+- Sie [[geben]] es allen.
+
+---
+
+**Morphems of only infinitive:**  
 - [[geb]][[en]]

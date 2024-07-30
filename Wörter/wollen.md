@@ -1,50 +1,56 @@
-Inf: [[wollen]]
-Past: [[wollte]]
-Perfect: [[gewollt]]
+✨ [[wollen]]  
+[[wollte]]  
+haben [[gewollt]]
 
 ---
-Beispiele:
-- Er will hier [[übernachten]]
-- Ich will, [[dass]] [[ihr]] mir vertraut  
-- Wir wollen eure Hände sehen  
----
-
-|     |         |
-| --- | ------- |
-| ich | [[will]] |
-| du  | [[willst]] |
-| er  | [[will]]  |
-| sie | [[will]]  |
-| es  | [[will]]  |
-| wir | [[wollen]] |
-| ihr | [[wollt]]  |
-| sie | [[wollen]] |
-| Sie | [[wollen]] |
 
 ---
+
+**Synonyme:**
+
+- [[möchten]], [[beabsichtigen]], [[vorhaben]]
+
+---
+
+**Beispiele:**
+
+- Ich [[will]] ein Eis.
+- Du [[willst]] nach Hause.
+- Er [[will]] mehr Geld.
+- Es [[will]] spielen.
+- Sie [[will]] Erfolg haben.
+- Wir [[wollen]] das Spiel gewinnen.
+- Ihr [[wollt]] in den Urlaub fahren.
+- Sie [[wollen]] einen neuen Plan.
+
+---
+
 **Übersetzung**:
 to want
 
 ---
-
-Tags: 
-#Verb
-#Unregelmäßige 
-#Inf | #Form
-
----
-Präteritum
-Ich [[wollte]]
-du [[wolltest]]
-er [[wollte]]
-es [[wollte]]
-sie [[wollte]]
-wir [[wollten]]
-ihr [[wolltet]]
-Sie [[wollten]]
+ #Verb  #Modalverb
 
 ---
 
-Imperativ
-du -
-ihr -
+**Präteritum:**
+
+- Ich [[wollte]] ein Eis.
+- Du [[wolltest]] nach Hause.
+- Er [[wollte]] mehr Geld.
+- Es [[wollte]] spielen.
+- Sie [[wollte]] Erfolg haben.
+- Wir [[wollten]] das Spiel gewinnen.
+- Ihr [[wolltet]] in den Urlaub fahren.
+- Sie [[wollten]] einen neuen Plan.
+
+---
+
+**Imperativ:**
+
+- (Imperative forms are not used with modal verbs)
+
+---
+
+**Morphems of only infinitive:**  
+- [[woll]][[en]]

@@ -1,63 +1,65 @@
-Inf: [[gefallen]]
-Past: [[gefiel]]
-Perfect: [[gefallen]]
+💖 [[gefallen]]  
+[[gefiel]]  
+haben [[gefallen]]
 
 ---
-Beispiele:
 - Welches Foto [[gefällt]] Ihnen?
 - SASCHA: [[Gefällt]] Ihnen diese Hose?
 
 ---
 
-|     |                  |
-| --- | ---------------- |
-| ich | [[gefalle]]      |
-| du  | [[gefällst]]     |
-| er  | [[gefällt]]      |
-| sie | [[gefällt]]      |
-| es  | [[gefällt]]      |
-| wir | [[gefallen]]     |
-| ihr | [[gefallt]]      |
-| sie | [[gefallen]]     |
-| Sie | [[gefallen]]     |
+**Synonyme:**
+
+- [[mögen]], [[schätzen]], [[begeistern]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[gefalle]] ihm sehr.
+- Du [[gefällst]] mir.
+- Er [[gefällt]] ihr.
+- Es [[gefällt]] mir gut hier.
+- Sie [[gefällt]] ihm.
+- Wir [[gefallen]] ihnen.
+- Ihr [[gefallt]] uns.
+- Sie [[gefallen]] mir sehr.
+
+---
+
 **Übersetzung**:
-to like, to please
+to please, to like
+
+---
+ #Verb  #Unregelmäßig
 
 ---
 
-Tags: 
-#Verb
-#Unregelmäßige
-#Inf | #Partizip II
+**Präteritum:**
 
----
-Präteritum
-Ich [[gefiel]]
-du [[gefielst]]
-er [[gefiel]]
-es [[gefiel]]
-sie [[gefiel]]
-wir [[gefielen]]
-ihr [[gefielt]]
-Sie [[gefielen]]
+- Ich [[gefiel]] ihm sehr.
+- Du [[gefielst]] mir.
+- Er [[gefiel]] ihr.
+- Es [[gefiel]] mir gut hier.
+- Sie [[gefiel]] ihm.
+- Wir [[gefielen]] ihnen.
+- Ihr [[gefielt]] uns.
+- Sie [[gefielen]] mir sehr.
 
 ---
 
-Perfekt
-Ich habe [[gefallen]]
-du hast [[gefallen]]
-er hat [[gefallen]]
-es hat [[gefallen]]
-sie hat [[gefallen]]
-wir haben [[gefallen]]
-ihr habt [[gefallen]]
-Sie haben [[gefallen]]
+**Imperativ:**
+
+- Ich [[gefalle]] ihm.
+- Du [[gefalle]] ihm.
+- Er [[gefalle]] ihm.
+- Es [[gefällt]] ihm.
+- Sie [[gefalle]] ihm.
+- Wir [[gefallen]] ihm.
+- Ihr [[gefallt]] ihm.
+- Sie [[gefallen]] ihm.
 
 ---
 
-Imperativ
-du [[gefalle]]
-ihr [[gefallt]]
-Sie [[gefallen]]
+**Morphems of only infinitive:**  
+- [[ge]][[fall]][[en]]

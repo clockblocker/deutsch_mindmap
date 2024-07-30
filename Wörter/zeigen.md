@@ -1,62 +1,64 @@
-Inf: [[zeigen]]
-Past: [[zeigte]]
-Perfect: [[gezeigt]]
+👆 [[zeigen]]  
+[[zeigte]]  
+haben [[gezeigt]]
 
 ---
-Beispiele:
 ANNA: Hey Sam, komm … Wir [[zeigen]] dir die Wohnung.
 
 ---
 
-|     |            |
-| --- | ---------- |
-| ich | [[zeige]]  |
-| du  | [[zeigst]] |
-| er  | [[zeigt]]  |
-| sie | [[zeigt]]  |
-| es  | [[zeigt]]  |
-| wir | [[zeigen]] |
-| ihr | [[zeigt]]  |
-| sie | [[zeigen]] |
-| Sie | [[zeigen]] |
+**Synonyme:**
+
+- [[demonstrieren]], [[präsentieren]], [[veranschaulichen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[zeige]] dir den Weg.
+- Du [[zeigst]] mir dein neues Buch.
+- Er [[zeigt]] uns seine Fotos.
+- Es [[zeigt]] auf die Karte.
+- Sie [[zeigt]] ihre Zeichnungen.
+- Wir [[zeigen]] euch unsere Wohnung.
+- Ihr [[zeigt]] ihnen den Plan.
+- Sie [[zeigen]] uns ihre Fähigkeiten.
+
+---
+
 **Übersetzung**:
-to show
+to show, to demonstrate
+
+---
+ #Verb
 
 ---
 
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
+**Präteritum:**
 
----
-Präteritum
-Ich [[zeigte]]
-du [[zeigtest]]
-er [[zeigte]]
-es [[zeigte]]
-sie [[zeigte]]
-wir [[zeigten]]
-ihr [[zeigtet]]
-Sie [[zeigten]]
+- Ich [[zeigte]] dir den Weg.
+- Du [[zeigtest]] mir dein neues Buch.
+- Er [[zeigte]] uns seine Fotos.
+- Es [[zeigte]] auf die Karte.
+- Sie [[zeigte]] ihre Zeichnungen.
+- Wir [[zeigten]] euch unsere Wohnung.
+- Ihr [[zeigtet]] ihnen den Plan.
+- Sie [[zeigten]] uns ihre Fähigkeiten.
 
 ---
 
-Perfekt
-Ich habe [[gezeigt]]
-du hast [[gezeigt]]
-er hat [[gezeigt]]
-es hat [[gezeigt]]
-sie hat [[gezeigt]]
-wir haben [[gezeigt]]
-ihr habt [[gezeigt]]
-Sie haben [[gezeigt]]
+**Imperativ:**
+
+- Ich [[zeige]] dir das.
+- Du [[zeig]] mir das.
+- Er [[zeige]] das.
+- Es [[zeigt]] das.
+- Sie [[zeige]] das.
+- Wir [[zeigen]] das.
+- Ihr [[zeigt]] das.
+- Sie [[zeigen]] das.
 
 ---
 
-Imperativ
-du [[zeige]]
-ihr [[zeigt]]
-Sie [[zeigen]]
+**Morphems of only infinitive:**  
+- [[zeig]][[en]]

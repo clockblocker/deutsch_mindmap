@@ -1,53 +1,63 @@
-Here is the filled form for the verb "singen" in copyable markdown:
-
-Inf: [[singen]]
-Past: [[sang]]
-Perfect: [[gesungen]]
+🎤 [[singen]]  
+[[sang]]  
+haben [[gesungen]]
 
 ---
 
-|     |             |
-| --- | ----------- |
-| ich | [[singe]]   |
-| du  | [[singst]]  |
-| er  | [[singt]]   |
-| sie | [[singt]]   |
-| es  | [[singt]]   |
-| wir | [[singen]]  |
-| ihr | [[singt]]   |
-| sie | [[singen]]  |
-| Sie | [[singen]]  |
+---
+
+**Synonyme:**
+
+- [[trällern]], [[intonieren]], [[tönen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[singe]] gerne Lieder.
+- Du [[singst]] im Chor.
+- Er [[singt]] ein Lied.
+- Es [[singt]] schön.
+- Sie [[singt]] jeden Morgen.
+- Wir [[singen]] zusammen.
+- Ihr [[singt]] laut.
+- Sie [[singen]] im Konzert.
+
+---
+
 **Übersetzung**:
 to sing
 
 ---
-
-Tags: 
-#Verb
-#Schwache
-#Unregelmäßige | #Regelmäßige
-
----
-Präteritum
-Ich [[sang]]
-du [[sangst]]
-er [[sang]]
-es [[sang]]
-sie [[sang]]
-wir [[sangen]]
-ihr [[sangt]]
-Sie [[sangen]]
+ #Verb  #Unregelmäßig
 
 ---
 
-Imperativ
-Ich [[]]
-du [[sing]]
-er [[]]
-es [[]]
-sie [[]]
-wir [[]]
-ihr [[singt]]
-Sie [[]]
+**Präteritum:**
+
+- Ich [[sang]] gerne Lieder.
+- Du [[sangst]] im Chor.
+- Er [[sang]] ein Lied.
+- Es [[sang]] schön.
+- Sie [[sang]] jeden Morgen.
+- Wir [[sangen]] zusammen.
+- Ihr [[sangt]] laut.
+- Sie [[sangen]] im Konzert.
+
+---
+
+**Imperativ:**
+
+- Ich [[singe]] laut.
+- Du [[sing]] laut.
+- Er [[singe]] laut.
+- Es [[singt]] laut.
+- Sie [[singe]] laut.
+- Wir [[singen]] laut.
+- Ihr [[singt]] laut.
+- Sie [[singen]] laut.
+
+---
+
+**Morphems of only infinitive:**  
+- [[sing]][[en]]

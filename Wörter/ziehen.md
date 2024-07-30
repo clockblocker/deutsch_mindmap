@@ -1,54 +1,65 @@
-[[ziehen]]
-[[zog]]
-[[gezogen]]
+🚚 [[ziehen]]  
+[[zog]]  
+haben [[gezogen]]
 
 ---
-Beispiele:
 - SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?
 
+---
 
-- **Ich [[ziehe]] die Tür auf.**
-- **Er [[zog]] das Seil kräftig.**
-- **Wir sind nach Berlin [[gezogen]].**
+**Synonyme:**
+
+- [[schleppen]], [[zerren]], [[holen]]
 
 ---
 
-|     |            |
-| --- | ---------- |
-| ich | [[ziehe]]  |
-| du  | [[ziehst]] |
-| er  | [[zieht]]  |
-| sie | [[zieht]]  |
-| es  | [[zieht]]  |
-| wir | [[ziehen]] |
-| ihr | [[zieht]]  |
-| sie | [[ziehen]] |
-| Sie | [[ziehen]] |
+**Beispiele:**
+
+- Ich [[ziehe]] den Wagen.
+- Du [[ziehst]] die Tür auf.
+- Er [[zieht]] das Seil.
+- Es [[zieht]] nach Osten.
+- Sie [[zieht]] den Vorhang zu.
+- Wir [[ziehen]] ins Ausland.
+- Ihr [[zieht]] die Stühle an den Tisch.
+- Sie [[ziehen]] die Jacken an.
 
 ---
 
-**Übersetzung**: to pull, to move
+**Übersetzung**:
+to pull, to move
+
+---
+ #Verb  #Unregelmäßig
 
 ---
 
-### Präteritum (Simple Past)
+**Präteritum:**
 
-- **Ich [[zog]]**
-- **Du [[zogst]]**
-- **Er/Sie/Es [[zog]]**
-- **Wir [[zogen]]**
-- **Ihr [[zogt]]**
-- **Sie [[zogen]]**
-
-### Imperativ (Imperative)
-
-- **(du) [[zieh]]** (Pull! - singular informal)
-- **(ihr) [[zieht]]** (Pull! - plural informal)
-- **(Sie) [[ziehen Sie]]** (Pull! - formal)
+- Ich [[zog]] den Wagen.
+- Du [[zogst]] die Tür auf.
+- Er [[zog]] das Seil.
+- Es [[zog]] nach Osten.
+- Sie [[zog]] den Vorhang zu.
+- Wir [[zogen]] ins Ausland.
+- Ihr [[zogt]] die Stühle an den Tisch.
+- Sie [[zogen]] die Jacken an.
 
 ---
 
-Tags: 
-#Verb
-#Starke
-#Unregelmäßige
+**Imperativ:**
+
+- Ich [[ziehe]] den Wagen.
+- Du [[zieh]] den Wagen.
+- Er [[ziehe]] den Wagen.
+- Es [[zieht]] den Wagen.
+- Sie [[ziehe]] den Wagen.
+- Wir [[ziehen]] den Wagen.
+- Ihr [[zieht]] den Wagen.
+- Sie [[ziehen]] den Wagen.
+
+---
+
+**Morphems of only infinitive:**  
+- [[zieh]][[en]]
+

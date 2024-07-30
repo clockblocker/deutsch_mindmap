@@ -1,59 +1,63 @@
-[[hören]]  
-[[hörst]]  
+👂 [[hören]]  
+[[hörte]]  
 haben [[gehört]]
 
 ---
-synonyms:
-- [[lauschen]]
-- [[zuhören]]
-- [[wahrnehmen]]
 
 ---
-Beispiele:
+
+**Synonyme:**
+
+- [[lauschen]], [[vernehmen]], [[belauschen]]
+
+---
+
+**Beispiele:**
 
 - Ich [[höre]] Musik.
-- Du [[hörst]] den Wecker.
-- Er [[hört]] einen Hund bellen.
-- Es [[hört]] den Regen auf das Dach prasseln.
-- Sie [[hört]] die Kinder spielen.
-- Wir [[hören]] das Konzert.
-- Ihr [[hört]] den Lehrer.
-- Sie [[hören]] die Nachrichten.
-
----
-**Übersetzung**: hear
+- Du [[hörst]] ein Geräusch.
+- Er [[hört]] aufmerksam zu.
+- Es [[hört]] auf Befehle.
+- Sie [[hört]] den Wind.
+- Wir [[hören]] einen Vortrag.
+- Ihr [[hört]] das Radio.
+- Sie [[hören]] ein Konzert.
 
 ---
 
-Tags: 
-#Verb
-#Ablaut | #Schwache
-#Unregelmäßige | #Regelmäßige
+**Übersetzung**:
+to hear, to listen
 
 ---
-Präteritum
-Ich [[hörte]] die Vögel singen.  
-du [[hörtest]] den Zug ankommen.  
-er [[hörte]] die Nachricht.  
-es [[hörte]] den Anruf.  
-sie [[hörte]] die Musik spielen.  
-wir [[hörten]] die Diskussion.  
-ihr [[hörtet]] den Lehrer sprechen.  
-Sie [[hörten]] die Sirene.
+ #Verb
 
 ---
 
-Imperativ
-Ich [[höre]] auf den Rat.  
-du [[hör]] gut zu.  
-er [[hör]] die Warnung.  
-es [[hör]] dir zu.  
-sie [[hör]] auf mich.  
-wir [[hören]] die Anleitung.  
-ihr [[hört]] jetzt zu.  
-Sie [[hören]] bitte aufmerksam.
+**Präteritum:**
 
-Morphems of only infinitive:
+- Ich [[hörte]] Musik.
+- Du [[hörtest]] ein Geräusch.
+- Er [[hörte]] aufmerksam zu.
+- Es [[hörte]] auf Befehle.
+- Sie [[hörte]] den Wind.
+- Wir [[hörten]] einen Vortrag.
+- Ihr [[hörtet]] das Radio.
+- Sie [[hörten]] ein Konzert.
+
+---
+
+**Imperativ:**
+
+- Ich [[höre]] zu.
+- Du [[hör|höre]] zu.
+- Er [[höre]] zu.
+- Es [[hört]] zu.
+- Sie [[höre]] zu.
+- Wir [[hören]] zu.
+- Ihr [[hört]] zu.
+- Sie [[hören]] zu.
+
+---
+
+**Morphems of only infinitive:**  
 - [[hör]][[en]]
-
----

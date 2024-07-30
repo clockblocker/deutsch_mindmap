@@ -1,60 +1,64 @@
-Inf: [[sehen]]
-Past: [[sah]]
-Perfect: [[gesehen]]
-
+👀 [[sehen]]  
+[[sah]]  
+haben [[gesehen]]
 
 ---
-Beispiele:
 - [[Ich Will|Wir wollen eure Hände sehen]]  
 - Das Bild [[aussiecht|siecht]] wie Zürich aus
+---
 
+**Synonyme:**
 
+- [[blicken]], [[schauen]], [[wahrnehmen]]
 
 ---
 
-|     |          |
-| --- | -------- |
-| ich | [[sehe]] |
-| du  | [[siehst]] |
-| er  | [[sieht]]  |
-| sie | [[sieht]]  |
-| es  | [[sieht]]  |
-| wir | [[sehen]] |
-| ihr | [[seht]]  |
-| sie | [[sehen]] |
-| Sie | [[sehen]] |
+**Beispiele:**
+
+- Ich [[sehe]] den Film.
+- Du [[siehst]] die Sterne.
+- Er [[sieht]] gut aus.
+- Es [[sieht]] dich an.
+- Sie [[sieht]] die Landschaft.
+- Wir [[sehen]] das Spiel.
+- Ihr [[seht]] das Problem.
+- Sie [[sehen]] die Wahrheit.
 
 ---
+
 **Übersetzung**:
 to see
 
 ---
-
-Tags: 
-#Verb
-#Ablaut 
-#Unregelmäßige 
-#Inf #Form 
+ #Verb  #Unregelmäßig
 
 ---
-Präteritum
-Ich [[sah]]
-du [[sahst]]
-er [[sah]]
-es [[sah]]
-sie [[sah]]
-wir [[sahen]]
-ihr [[saht]]
-Sie [[sahen]]
 
---- 
+**Präteritum:**
 
-Imperativ  
-Ich (—)  
-du [[sieh]]  
-er (—)  
-es (—)  
-sie (—)  
-wir [[sehen]]  
-ihr [[seht]]  
-Sie [[sehen Sie]]
+- Ich [[sah]] den Film.
+- Du [[sahst]] die Sterne.
+- Er [[sah]] gut aus.
+- Es [[sah]] dich an.
+- Sie [[sah]] die Landschaft.
+- Wir [[sahen]] das Spiel.
+- Ihr [[saht]] das Problem.
+- Sie [[sahen]] die Wahrheit.
+
+---
+
+**Imperativ:**
+
+- Ich [[sehe]] dich.
+- Du [[sieh]] mich.
+- Er [[sehe]] mich.
+- Es [[sieht]] mich.
+- Sie [[sehe]] mich.
+- Wir [[sehen]] dich.
+- Ihr [[seht]] mich.
+- Sie [[sehen]] mich.
+
+---
+
+**Morphems of only infinitive:**  
+- [[seh]][[en]]

@@ -1,63 +1,65 @@
-Inf: [[wohnen]]
-Past: [[wohnte]]
-Perfect: [[gewohnt]]
+🏡 [[wohnen]]  
+[[wohnte]]  
+haben [[gewohnt]]
 
 ---
-Beispiele:
 SASCHA: Du [[wohnst]] in einem Museum!
 Er geht in die Bücherei und wohnt in einem Museum!  Wirklich! Hihi!
 
 ---
 
-|     |             |
-| --- | ----------- |
-| ich | [[wohne]]   |
-| du  | [[wohnst]]  |
-| er  | [[wohnt]]   |
-| sie | [[wohnt]]   |
-| es  | [[wohnt]]   |
-| wir | [[wohnen]]  |
-| ihr | [[wohnt]]   |
-| sie | [[wohnen]]  |
-| Sie | [[wohnen]]  |
+**Synonyme:**
+
+- [[leben]], [[residieren]], [[verweilen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[wohne]] in Berlin.
+- Du [[wohnst]] in einem Haus.
+- Er [[wohnt]] in einer Wohnung.
+- Es [[wohnt]] in der Stadt.
+- Sie [[wohnt]] bei ihren Eltern.
+- Wir [[wohnen]] zusammen.
+- Ihr [[wohnt]] auf dem Land.
+- Sie [[wohnen]] in einer WG.
+
+---
+
 **Übersetzung**:
 to live, to reside
 
 ---
-
-Tags: 
-#Verb
-#Schwache
-#Inf | #Partizip II
-
----
-Präteritum
-Ich [[wohnte]]
-du [[wohntest]]
-er [[wohnte]]
-es [[wohnte]]
-sie [[wohnte]]
-wir [[wohnten]]
-ihr [[wohntet]]
-Sie [[wohnten]]
+ #Verb
 
 ---
 
-Perfekt
-Ich habe [[gewohnt]]
-du hast [[gewohnt]]
-er hat [[gewohnt]]
-es hat [[gewohnt]]
-sie hat [[gewohnt]]
-wir haben [[gewohnt]]
-ihr habt [[gewohnt]]
-Sie haben [[gewohnt]]
+**Präteritum:**
+
+- Ich [[wohnte]] in Berlin.
+- Du [[wohntest]] in einem Haus.
+- Er [[wohnte]] in einer Wohnung.
+- Es [[wohnte]] in der Stadt.
+- Sie [[wohnte]] bei ihren Eltern.
+- Wir [[wohnten]] zusammen.
+- Ihr [[wohntet]] auf dem Land.
+- Sie [[wohnten]] in einer WG.
 
 ---
 
-Imperativ
-du [[wohn]]
-ihr [[wohnt]]
-Sie [[wohnen]]
+**Imperativ:**
+
+- Ich [[wohne]] hier.
+- Du [[wohn|wohne]] hier.
+- Er [[wohne]] hier.
+- Es [[wohnt]] hier.
+- Sie [[wohne]] hier.
+- Wir [[wohnen]] hier.
+- Ihr [[wohnt]] hier.
+- Sie [[wohnen]] hier.
+
+---
+
+**Morphems of only infinitive:**  
+- [[wohn]][[en]]

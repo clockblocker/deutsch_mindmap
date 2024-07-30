@@ -1,10 +1,8 @@
-Inf: [[tun]]
-Past: [[tat]]
-Perfect: [[getan]]
+⚙️ [[tun]]  
+[[tat]]  
+haben [[getan]]
 
 ---
-Beispiele:
-
 - ANNA: Aber Sascha – du hast sooo viel zu [[tun]]. 
 - Ich weiß nicht, was ich tun soll. 
 - [[Was tut denn weh?]]
@@ -13,37 +11,58 @@ Beispiele:
 
 ---
 
-|     |      |
-| --- | ---- |
-| ich | [[tue]] |
-| du  | [[tust]] |
-| er  | [[tut]]  |
-| sie | [[tut]]  |
-| es  | [[tut]]  |
-| wir | [[tun]]  |
-| ihr | [[tut]]  |
-| sie | [[tun]]  |
-| Sie | [[tun]] |
+**Synonyme:**
+
+- [[machen]], [[handeln]], [[ausführen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[tue]] mein Bestes.
+- Du [[tust]] das Richtige.
+- Er [[tut]] nichts.
+- Es [[tut]] weh.
+- Sie [[tut]] das Notwendige.
+- Wir [[tun]] alles für dich.
+- Ihr [[tut]] viel Gutes.
+- Sie [[tun]] so, als ob.
+
+---
+
 **Übersetzung**:
 to do
-to heart
+
+---
+ #Verb  #Unregelmäßig
 
 ---
 
-Tags: 
-#Verb
-#Unregelmäßige
-#Inf #Form 
+**Präteritum:**
+
+- Ich [[tat]] mein Bestes.
+- Du [[tatest]] das Richtige.
+- Er [[tat]] nichts.
+- Es [[tat]] weh.
+- Sie [[tat]] das Notwendige.
+- Wir [[taten]] alles für dich.
+- Ihr [[tatet]] viel Gutes.
+- Sie [[taten]] so, als ob.
 
 ---
-Präteritum
-Ich [[tat]]
-du [[tatest]]
-er [[tat]]
-es [[tat]]
-sie [[tat]]
-wir [[taten]]
-ihr [[tatet]]
-Sie [[taten]]
+
+**Imperativ:**
+
+- Ich [[tue]] es.
+- Du [[tu]] es.
+- Er [[tue]] es.
+- Es [[tut]] es.
+- Sie [[tue]] es.
+- Wir [[tun]] es.
+- Ihr [[tut]] es.
+- Sie [[tun]] es.
+
+---
+
+**Morphems of only infinitive:**  
+- [[tu]][[n]]
