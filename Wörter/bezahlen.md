@@ -1,4 +1,4 @@
-[[bezahlen]]  
+💰 [[bezahlen]]  
 [[bezahlt]]  
 haben [[bezahlt]]  
 
@@ -57,6 +57,6 @@ Imperativ:
 ---
 
 Morphems of only infinitive:
-- [[bezahl]][[en]]
+- [[be]][[zahlen|zahl]][[en]]
 
 ---

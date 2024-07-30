@@ -1,66 +1,63 @@
-Inf: [[anfassen]]
-Past: [[fasste an]]
-Perfect: [[angefasst]]
-
-Inf: [[anfassen]]
-
-Tags: 
-#Verb
-
----
-Beispiele:
-SASCHA: Nic! [[Niemand]] [[darf]] mein Fahrrad [[anfassen]]! [[Kapiert]]?  
+🤲 [[anfassen]]
+[[fasste an|fasste an]]  
+haben [[angefasst]]
 
 ---
 
-|     |                 |
-| --- | --------------- |
-| ich | [[fasse an]]    |
-| du  | [[fasst an]]    |
-| er  | [[fasst an]]    |
-| sie | [[fasst an]]    |
-| es  | [[fasst an]]    |
-| wir | [[fassen an]]   |
-| ihr | [[fasst an]]    |
-| sie | [[fassen an]]   |
-| Sie | [[fassen an]]   |
+---
+
+**Synonyme:**
+
+- [[berühren]], [[greifen]], [[erfassen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[fasse an|fasse]] die Vase vorsichtig an.
+- Du [[fasst an|fasst]] den Hund sanft an.
+- Er [[fasst an|fasst]] die Tasse mit beiden Händen an.
+- Es [[fasst an|fasst]] das Spielzeug neugierig an.
+- Sie [[fasst an|fasst]] den Stoff, um seine Qualität zu prüfen.
+- Wir [[fassen an|fassen]] die Seile fest an.
+- Ihr [[fasst an|fasst]] die Wände, um die Farbe zu fühlen.
+- Sie [[fassen an|fassen]] das Buch behutsam an.
+
+---
+
 **Übersetzung**:
-to touch
+to touch, to handle
+
+---
+ #Verb  #Trennbar
 
 ---
 
-Tags: 
-#Verb
+**Präteritum:**
 
-
----
-Präteritum
-Ich [[fasste an]]
-du [[fasstest an]]
-er [[fasste an]]
-es [[fasste an]]
-sie [[fasste an]]
-wir [[fassten an]]
-ihr [[fasstet an]]
-Sie [[fassten an]]
+- Ich [[fasste an|fasste]] die Vase vorsichtig an.
+- Du [[fasstest an|fasstest]] den Hund sanft an.
+- Er [[fasste an|fasste]] die Tasse mit beiden Händen an.
+- Es [[fasste an|fasste]] das Spielzeug neugierig an.
+- Sie [[fasste an|fasste]] den Stoff, um seine Qualität zu prüfen.
+- Wir [[fassten an|fassten]] die Seile fest an.
+- Ihr [[fasstet an|fasstet]] die Wände, um die Farbe zu fühlen.
+- Sie [[fassten an|fassten]] das Buch behutsam an.
 
 ---
 
-Perfekt
-Ich habe [[angefasst]]
-du hast [[angefasst]]
-er hat [[angefasst]]
-es hat [[angefasst]]
-sie hat [[angefasst]]
-wir haben [[angefasst]]
-ihr habt [[angefasst]]
-Sie haben [[angefasst]]
+**Imperativ:**
+
+- Ich [[fasse an|fasse]] die Vase vorsichtig an.
+- Du [[fass an|fasse]] die Vase vorsichtig an.
+- Er [[fasse an|fasse]] die Vase vorsichtig an.
+- Es [[fasst an|fasst]] die Vase vorsichtig an.
+- Sie [[fasse an|fasse]] die Vase vorsichtig an.
+- Wir [[fassen an|fassen]] die Vase vorsichtig an.
+- Ihr [[fasst an|fasst]] die Vase vorsichtig an.
+- Sie [[fassen an|fassen]] die Vase vorsichtig an.
 
 ---
 
-Imperativ
-du [[fass an]]
-ihr [[fasst an]]
-Sie [[fassen an]]
+**Morphems of only infinitive:**  
+- [[an]][[fassen]]

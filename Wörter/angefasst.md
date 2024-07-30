@@ -1,5 +1,1 @@
-
-Inf: [[anfassen]]
-
-Tags: 
-#Verb
+ [[anfassen]]

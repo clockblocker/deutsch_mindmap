@@ -1,65 +1,66 @@
-[[brauchen]]
-[[brauch]]
-[[brauchen]]
+🔧 [[brauchen]]  
+[[brauchte]]  
 haben [[gebraucht]]
 
 ---
-synonyms
-- [[benötigen]]
-- [[erforderlich]] sein
-- [[nötig]] haben
-
----
-Beispiele:
-
 NIC: Das wirst du [[brauchen]] …
 NIC: Aber du [[brauchst]] doch [[uns]] …
 Aber ich denke, er [[braucht]] eine Lederjacke 
 
 ---
 
-Ich [[brauche]] Hilfe.  
-du [[brauchst]] meine Unterstützung.  
-er [[braucht]] eine neue Idee.  
-es [[braucht]] etwas Zeit.  
-sie [[braucht]] mehr Informationen.  
-wir [[brauchen]] eure Hilfe.  
-ihr [[braucht]] eine Pause.  
-Sie [[brauchen]] einen Plan.
+**Synonyme:**
+
+- [[benötigen]], [[erfordern]], [[verlangen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[brauche]] Hilfe.
+- Du [[brauchst]] Geld.
+- Er [[braucht]] Ruhe.
+- Es [[braucht]] Zeit.
+- Sie [[braucht]] einen Rat.
+- Wir [[brauchen]] Informationen.
+- Ihr [[braucht]] Unterstützung.
+- Sie [[brauchen]] ein Auto.
+
+---
+
 **Übersetzung**:
 to need
 
 ---
-
-Tags: 
-#Verb
-#Schwache
-#Regelmäßige
-
----
-Präteritum
-Ich [[brauchte]] eine Lösung.  
-du [[brauchtest]] eine Antwort.  
-er [[brauchte]] mehr Zeit.  
-es [[brauchte]] eine Erklärung.  
-sie [[brauchte]] eine Chance.  
-wir [[brauchten]] eine Entscheidung.  
-ihr [[brauchtet]] Hilfe.  
-Sie [[brauchten]] Unterstützung.
+ #Verb
 
 ---
 
-Imperativ
-Ich [[brauche]] keine Antwort.  
-du [[brauchst]] Geduld.  
-er [[brauche]] das Buch nicht.  
-es [[brauche]] keine Erklärung.  
-sie [[brauch]] Hilfe.  
-wir [[brauchen]] Ruhe.  
-ihr [[braucht]] keine Ausrede.  
-Sie [[brauchen]] keine Entschuldigung.
+**Präteritum:**
 
-Morphems of only infinitive:
-[[brauch]][[en]]
+- Ich [[brauchte]] Hilfe.
+- Du [[brauchtest]] Geld.
+- Er [[brauchte]] Ruhe.
+- Es [[brauchte]] Zeit.
+- Sie [[brauchte]] einen Rat.
+- Wir [[brauchten]] Informationen.
+- Ihr [[brauchtet]] Unterstützung.
+- Sie [[brauchten]] ein Auto.
+
+---
+
+**Imperativ:**
+
+- Ich [[brauche]] Hilfe.
+- Du [[brauch|brauche]] Hilfe.
+- Er [[brauche]] Hilfe.
+- Es [[braucht]] Hilfe.
+- Sie [[brauche]] Hilfe.
+- Wir [[brauchen]] Hilfe.
+- Ihr [[braucht]] Hilfe.
+- Sie [[brauchen]] Hilfe.
+
+---
+
+**Morphems of only infinitive:**  
+- [[brauch]][[en]]

@@ -2,7 +2,7 @@
   "settings": {
     "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 12,
+    "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
@@ -33,7 +33,7 @@
         "order": 2
       },
       {
-        "rule": "#Mascullin",
+        "rule": "#Masculin",
         "icon": "🔵",
         "for": "everything",
         "order": 3
@@ -57,7 +57,6 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "Wörter/Verben": "🏃‍♂️",
   "Wörter/Zahlwörter": "🔢",
   "Wörter/Zahlwörter/Dreizehn.md": "🔢",
   "Wörter/Zahlwörter/Drei.md": "3️⃣",
@@ -85,8 +84,6 @@
   "Wörter/Pronomen/Ich.md": "👤",
   "Wörter/Pronomen/ihr.md": "👤",
   "Wörter/Pronomen/sie.md": "👤",
-  "Wörter/Verben/Infinitive/spielen.md": "🏃‍♂️",
-  "Wörter/Verben/Infinitive/stehen.md": "🏃‍♂️",
   "Wörter/Pronomen/wir.md": "👤",
   "Wörter/Konjunktion": "⛓",
   "Wörter/Konjunktion/aber.md": "⛓",
@@ -116,14 +113,7 @@
   "Wörter/Artikels_/das.md": "🅰",
   "Wörter/Artikels_/der.md": "🅰",
   "Wörter/Artikels_/Artikels.md": "🗒",
-  "Wörter/Verben/Infinitive/haben.md": "🏃‍♂️",
-  "Wörter/Verben/Infinitive/machen.md": "🏃‍♂️",
   "Wörter/Konjunktion/aus.md": "⛓",
-  "Wörter/Verben/Infinitive/sagen.md": "🏃‍♂️",
-  "Wörter/Verben/Infinitive/schlafen.md": "🏃‍♂️",
-  "Wörter/Verben/Infinitive/jagen.md": "🏃‍♂️",
-  "Wörter/Verben/Infinitive/sehen.md": "🏃‍♂️",
-  "Wörter/Verben/Infinitive/sein.md": "🏃‍♂️",
   "Wörter/Nomen/Hunde.md": "🔵",
   "Wörter/Nomen/Hund.md": "🔵",
   "Wörter/Nomen/Frauen.md": "🛍",
@@ -149,8 +139,6 @@
   "Wörter/Nomen/Körper.md": "🔵",
   "Wörter/Nomen/Teile.md": "🔵",
   "Wörter/Nomen/Teil.md": "🔵",
-  "Wörter/Verben/Infinitive/laufen.md": "🏃‍♀️",
-  "Wörter/Verben/Infinitive/tun.md": "🏃‍♂️",
   "Grammatik/Genetiv.md": "📖",
   "Grammatik/Nominativ.md": "📖",
   "Grammatik/Kasus.md": "📖",
@@ -172,9 +160,6 @@
   "Wörter/Nomen/Sommer.md": "🔵",
   "Wörter/Nomen/Winter.md": "🔵",
   "Wörter/Ankunft.md": "🛍",
-  "Wörter/Verben/Infinitive/kommen.md": "🏃‍♂️",
   "Wörter/Nomen/Geschichte.md": "🛍",
-  "Wörter/Rechnung.md": "🛍",
-  "Wörter/Verben/Infinitive/geben.md": "🏃‍♂️",
-  "Wörter/Verben/erinnern.md": "🏃‍♂️"
+  "Wörter/Rechnung.md": "🛍"
 }

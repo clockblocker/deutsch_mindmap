@@ -8,24 +8,156 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3e68f84af85e24a",
+            "id": "5c05f06869e21a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 2.md",
+                "file": "Wörter/angefasst.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c05f06869e21a1f",
+            "id": "707d15c79fc1c236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/kaufen.md",
+                "file": "Wörter/fasste an.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60edc57a0361f3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/begründen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40e35c98ae90deb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/bekommen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "545c6d9fb2b26c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/bekommen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1697b1c893f11c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/komm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1940c73b61eac89d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/bin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bae0bb8c436837a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/brachte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e83084e8f003706e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/darf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5759106ec0d059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/dürfen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2076e32522bd4d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/dürfen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d1632369cdcefa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/finden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e862484d7ddd9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Verben/Verbformen/komm.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -85,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kau",
+                "query": " #Verb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/kaufen.md",
+                "file": "Wörter/finden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/kaufen.md",
+                "file": "Wörter/finden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörter/kaufen.md"
+                "file": "Wörter/finden.md"
               }
             }
           }
@@ -190,34 +322,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5c05f06869e21a1f",
+  "active": "02d1632369cdcefa",
   "lastOpenFiles": [
-    "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 2.md",
-    "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 1.md",
-    "Texte/Skripte/extra/Extra 2.md",
-    "Templates/Prompt.md",
-    "Templates/promp small.md",
-    "Wörter/klein.md",
-    "Wortlisten/50 adjectives.md",
-    "Wörter/Tuch.md",
-    "Wörter/Pronomen/Pronomen.md",
-    "Wörter/Das gibt’s doch nicht!.md",
-    "Lektionen/Dieter/22.06.md",
-    "Wortlisten/Custom/207 am häufigsten.md",
-    "Wörter/Pronomen/Ich.md",
-    "Templates/Untrenbares.md",
-    "Templates/Verb.md",
-    "Templates/Trenbares verb.md",
-    "Templates/Adjective.md",
-    "Templates/Nomen.md",
-    "Texte/Skripte/extra/Extra 1.md",
-    "Wörter/helfen.md",
-    "Wörter/Schluss.md",
-    "Wörter/anrufen.md",
-    "Wörter/ruf an.md",
-    "Wörter/riefet an.md",
-    "Wörter/riefen an.md",
-    "Wörter/riefst an.md",
+    "Wörter/Verben/Verbformen/erinnere.md",
+    "Wörter/fasstet an.md",
+    "Wörter/finden.md",
+    "Wörter/fasstest.md",
+    "Wörter/fassten an.md",
+    "Wörter/fassten.md",
+    "Wörter/fass an.md",
+    "Wörter/fass.md",
+    "Wörter/fassen.md",
+    "Wörter/fasst.md",
+    "Wörter/fasse.md",
+    "Wörter/gefasst.md",
+    "Wörter/fasste.md",
+    "Wörter/anfassen.md",
+    "Wörter/essen.md",
+    "Wörter/Verben/Verbformen/erinnertet.md",
+    "Wörter/Verben/Verbformen/erinnertest.md",
+    "Wörter/Verben/Verbformen/erinnerten.md",
+    "Wörter/Verben/Verbformen/erinnerte.md",
+    "Wörter/Verben/Verbformen/erinnert.md",
+    "Wörter/Verben/Verbformen/erinnerst.md",
+    "Wörter/Verben/erinnern.md",
+    "Wörter/wieder.md",
+    "Wörter/einkaufen.md",
+    "Wörter/duschen.md",
+    "Wörter/denken.md",
     "Anhänge/Pasted image 20240729135443.png",
     "Anhänge/Pasted image 20240729135330.png",
     "Anhänge/Pasted image 20240729135226.png",

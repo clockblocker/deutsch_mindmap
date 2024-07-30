@@ -1,59 +1,64 @@
-[[aufstehen]]
-[[steht auf]]
-haben [[aufgestanden]]
+🚶‍♂️[[aufstehen]]  
+[[stand auf|stand auf]]  
+sein [[aufgestanden]]
 
 ---
-Synonyms:
-- [[erheben]]
-- [[sich erheben]]
-- [[aufwachen]]
 
 ---
-Beispiele:
 
-- Ich [[stehe auf]] um 6 Uhr morgens.
-- Du [[stehst auf]] und machst dich fertig.
-- Er [[steht auf]] und geht ins Bad.
+**Synonyme:**
 
-- Es [[steht auf]] und begrüßt den neuen Tag.
-- Sie [[steht auf]] und bereitet das Frühstück vor.
-- Wir [[stehen auf]] und gehen zur Arbeit.
-
-- Ihr [[steht auf]] und beginnt eure Aufgaben.
-- Sie [[stehen auf]] und machen sich bereit für die Schule.
-- Sie [[stehen auf]] und machen Yoga.
+- [[erheben]], [[sich erheben]], [[hochkommen]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[stehe auf|stehe]] jeden Morgen um 6 Uhr auf.
+- Du [[stehst auf|stehst]] früh auf, um zu joggen.
+- Er [[steht auf|steht]] schnell auf, wenn der Wecker klingelt.
+- Es [[steht auf|steht]] von alleine auf.
+- Sie [[steht auf|steht]] auf, um Kaffee zu machen.
+- Wir [[stehen auf|stehen]] gemeinsam auf.
+- Ihr [[steht auf|steht]] immer zur gleichen Zeit auf.
+- Sie [[stehen auf|stehen]] spät auf am Wochenende.
+
+---
+
 **Übersetzung**:
 to get up, to stand up
 
 ---
-
-Tags: 
-#Verb
-#Unregelmäßige
+ #Verb  #Trennbar
 
 ---
-Präteritum
-Ich [[stand auf]] um 6 Uhr morgens.
-du [[standest auf]]
-er [[stand auf]]
-es [[stand auf]]
-sie [[stand auf]]
-wir [[standen auf]]
-ihr [[standet auf]]
-Sie [[standen auf]]
+
+**Präteritum:**
+
+- Ich [[stand auf|stand]] jeden Morgen um 6 Uhr auf.
+- Du [[standest auf|standest]] früh auf, um zu joggen.
+- Er [[stand auf|stand]] schnell auf, wenn der Wecker klingelt.
+- Es [[stand auf|stand]] von alleine auf.
+- Sie [[stand auf|stand]] auf, um Kaffee zu machen.
+- Wir [[standen auf|standen]] gemeinsam auf.
+- Ihr [[standet auf|standet]] immer zur gleichen Zeit auf.
+- Sie [[standen auf|standen]] spät auf am Wochenende.
 
 ---
-Imperativ
-Ich [[stehe auf]] um 6 Uhr morgens.
-du [[steh auf]]
-er [[stehe auf]]
-es [[stehe auf]]
-sie [[stehe auf]]
-wir [[stehen auf]]
-ihr [[steht auf]]
-Sie [[stehen auf]]
 
-Morphems of only infinitive:
+**Imperativ:**
+
+- Ich [[stehe auf|stehe]] auf.
+- Du [[steh auf|stehe]] auf.
+- Er [[stehe auf|stehe]] auf.
+- Es [[steht auf|steht]] auf.
+- Sie [[stehe auf|stehe]] auf.
+- Wir [[stehen auf|stehen]] auf.
+- Ihr [[steht auf|steht]] auf.
+- Sie [[stehen auf|stehen]] auf.
+
+---
+
+**Morphems of only infinitive:**  
 - [[auf]][[stehen]]
+```​⬤

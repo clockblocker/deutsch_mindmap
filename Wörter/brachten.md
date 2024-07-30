@@ -1,5 +1,1 @@
-
-Inf: [[bringen]]
-#Verb
-#Regelmäßige
- #Form 
+[[bringen]]

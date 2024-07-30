@@ -1,44 +1,59 @@
-Inf: [[dürfen]]
-Past: [[durfte]]
-Perfect: [[gedurft]]
+🚫 [[dürfen]]  
+[[durfte]]  
+haben [[gedurft]]
 
 ---
-Beispiele:
 - SASCHA: Nic! Niemand [[darf]] mein Fahrrad anfassen! Kapiert?  
 - [[Was darf es sein]]
 
 ---
 
-|     |            |
-| --- | ---------- |
-| ich | [[darf]]   |
-| du  | [[darfst]] |
-| er  | [[darf]]   |
-| sie | [[darf]]   |
-| es  | [[darf]]   |
-| wir | [[dürfen]] |
-| ihr | [[dürft]]  |
-| sie | [[dürfen]] |
-| Sie | [[dürfen]] |
+**Synonyme:**
+
+- [[erlaubt sein]], [[können]], [[gestattet sein]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[darf]] ins Kino gehen.
+- Du [[darfst]] heute länger aufbleiben.
+- Er [[darf]] das Auto benutzen.
+- Es [[darf]] mitkommen.
+- Sie [[darf]] alles fragen.
+- Wir [[dürfen]] hier parken.
+- Ihr [[dürft]] teilnehmen.
+- Sie [[dürfen]] laut sprechen.
+
+---
+
 **Übersetzung**:
-to be allowed to
+to be allowed to, may
+
+---
+ #Verb  #Modalverb
 
 ---
 
-Tags: 
-#Verb
-#Regelmäßige
-#Inf | #Form
+**Präteritum:**
+
+- Ich [[durfte]] ins Kino gehen.
+- Du [[durftest]] heute länger aufbleiben.
+- Er [[durfte]] das Auto benutzen.
+- Es [[durfte]] mitkommen.
+- Sie [[durfte]] alles fragen.
+- Wir [[durften]] hier parken.
+- Ihr [[durftet]] teilnehmen.
+- Sie [[durften]] laut sprechen.
 
 ---
-Präteritum
-Ich [[durfte]]
-du [[durftest]]
-er [[durfte]]
-es [[durfte]]
-sie [[durfte]]
-wir [[durften]]
-ihr [[durftet]]
-Sie [[durften]]
+
+**Imperativ:**
+
+- (Imperative forms are not used with modal verbs)
+
+---
+
+**Morphems of only infinitive:**  
+- [[dürf]][[en]]
+

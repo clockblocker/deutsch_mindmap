@@ -1,52 +1,63 @@
-[[duschen]]  
+🚿 [[duschen]]  
 [[duschte]]  
-[[geduscht]]
+haben [[geduscht]]
 
 ---
 
-**Übersetzung**: to shower
-
 ---
 
-#Verb
-#Schwache
+**Synonyme:**
+
+- [[baden]], [[waschen]], [[spülen]]
 
 ---
 
 **Beispiele:**
 
-|     |             |
-| --- | ----------- |
-| ich | [[dusche]]  |
-| du  | [[duschst]] |
-| er  | [[duscht]]  |
-| sie | [[duscht]]  |
-| es  | [[duscht]]  |
-| wir | [[duschen]] |
-| ihr | [[duscht]]  |
-| sie | [[duschen]] |
-| Sie | [[duschen]] |
+- Ich [[dusche]] jeden Morgen.
+- Du [[duschst]] nach dem Training.
+- Er [[duscht]] schnell.
+- Es [[duscht]] gerne kalt.
+- Sie [[duscht]] abends.
+- Wir [[duschen]] nach dem Sport.
+- Ihr [[duscht]] zusammen.
+- Sie [[duschen]] im Sommer oft.
 
 ---
 
-**Übersetzung der Formen:**
+**Übersetzung**:
+to shower
 
-- **Infinitiv (Inf):** [[duschen]] – to shower
-- **Präteritum (Past):** [[duschte]] – showered
-- **Perfekt (Perfect):** [[geduscht]] – showered (past participle)
+---
+ #Verb
 
 ---
 
 **Präteritum:**
-- Ich [[duschte]]
-- Du [[duschtest]]
-- Er/Sie/Es [[duschte]]
-- Wir [[duschten]]
-- Ihr [[duschtet]]
-- Sie [[duschten]]
+
+- Ich [[duschte]] jeden Morgen.
+- Du [[duschtest]] nach dem Training.
+- Er [[duschte]] schnell.
+- Es [[duschte]] gerne kalt.
+- Sie [[duschte]] abends.
+- Wir [[duschten]] nach dem Sport.
+- Ihr [[duschtet]] zusammen.
+- Sie [[duschten]] im Sommer oft.
 
 ---
 
 **Imperativ:**
-- (Du) [[dusch]]
-- (Sie) [[duschen Sie]]
+
+- Ich [[dusche]] jetzt.
+- Du [[dusch|dusche]] jetzt.
+- Er [[dusche]] jetzt.
+- Es [[duscht]] jetzt.
+- Sie [[dusche]] jetzt.
+- Wir [[duschen]] jetzt.
+- Ihr [[duscht]] jetzt.
+- Sie [[duschen]] jetzt.
+
+---
+
+**Morphems of only infinitive:**  
+- [[dusch]][[en]]

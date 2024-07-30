@@ -1,55 +1,63 @@
-[[aufpassen]]  
-[[passte auf]]  
+👀 [[aufpassen]]  
+[[passte auf|passte auf]]  
 haben [[aufgepasst]]
 
 ---
 
-Beispiele:
+---
+
+**Synonyme:**
+
+- [[achten]], [[beobachten]], [[bewachen]]
 
 ---
 
-|     |      |
-| --- | ---- |
-| ich | [[passe auf]] |
-| du  | [[passt auf]] |
-| er  | [[passt auf]]  |
-| sie | [[passt auf]]  |
-| es  | [[passt auf]]  |
-| wir | [[passen auf]]|
-| ihr | [[passt auf]] |
-| sie | [[passen auf]]|
-| Sie | [[passen auf]]|
+**Beispiele:**
+
+- Ich [[passe auf|passe]] auf die Kinder auf.
+- Du [[passt auf|passt]] auf den Verkehr auf.
+- Er [[passt auf|passt]] auf seine Gesundheit auf.
+- Es [[passt auf|passt]] auf das Haus auf.
+- Sie [[passt auf|passt]] auf ihre Sachen auf.
+- Wir [[passen auf|passen]] auf die Tiere auf.
+- Ihr [[passt auf|passt]] auf die Taschen auf.
+- Sie [[passen auf|passen]] auf die Schüler auf.
 
 ---
 
-**Übersetzung**: to pay attention, to be careful
+**Übersetzung**:
+to pay attention, to take care
+
+---
+ #Verb  #Trennbar
 
 ---
 
-Tags:  
-#Verb  
-#Trennbar | #Regelmäßig
+**Präteritum:**
+
+- Ich [[passte auf|passte]] auf die Kinder auf.
+- Du [[passtest auf|passtest]] auf den Verkehr auf.
+- Er [[passte auf|passte]] auf seine Gesundheit auf.
+- Es [[passte auf|passte]] auf das Haus auf.
+- Sie [[passte auf|passte]] auf ihre Sachen auf.
+- Wir [[passten auf|passten]] auf die Tiere auf.
+- Ihr [[passtet auf|passtet]] auf die Taschen auf.
+- Sie [[passten auf|passten]] auf die Schüler auf.
 
 ---
 
-Präteritum  
-Ich [[passte auf]]  
-du [[passtest auf]]  
-er [[passte auf]]  
-es [[passte auf]]  
-sie [[passte auf]]  
-wir [[passten auf]]  
-ihr [[passtet auf]]  
-Sie [[passten auf]]
+**Imperativ:**
+
+- Ich [[passe auf|passe]] auf die Kinder auf.
+- Du [[pass auf|passe]] auf die Kinder auf.
+- Er [[passe auf|passe]] auf die Kinder auf.
+- Es [[passt auf|passt]] auf die Kinder auf.
+- Sie [[passe auf|passe]] auf die Kinder auf.
+- Wir [[passen auf|passen]] auf die Kinder auf.
+- Ihr [[passt auf|passt]] auf die Kinder auf.
+- Sie [[passen auf|passen]] auf die Kinder auf.
 
 ---
 
-Imperativ  
-Ich (—)  
-du [[pass auf]]  
-er (—)  
-es (—)  
-sie (—)  
-wir [[passen auf]]  
-ihr [[passt auf]]  
-Sie [[passen Sie auf]]
+**Morphems of only infinitive:**  
+- [[auf]][[passen]]

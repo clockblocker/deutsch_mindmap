@@ -1,4 +1,1 @@
-Inf: [[erinnern]]
-#Verb
-#Regelmäßige
-#Form
+🧠 [[erinnern]]  

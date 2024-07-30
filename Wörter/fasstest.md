@@ -1,6 +1,1 @@
-[[fasstest an]]
-
-Inf: [[anfassen]]
-
-Tags: 
-#Verb
+✋ [[fassen]]  

@@ -1,4 +1,1 @@
-Inf: [[dürfen]]
-#Verb
-#Regelmäßige
-#Form
+[[dürfen]]

@@ -1,58 +1,63 @@
-Inf: [[sein]]
-Past: [[war]]
-Perfect: [[gewesen]]
-
-Tags: 
-#Verb
-#Ablaut 
-#Unregelmäßige
-#Form 
-
-
----
-Beispiele:
-- Ich bin glücklich. (I am happy.)
-- Du bist mein Freund. (You are my friend.)
-- Er ist Lehrer. (He is a teacher.)
-- Wir sind im Park. (We are in the park.)
-- Ihr seid müde. (You [plural] are tired.)
-- Sie sind Ärzte. (They are doctors.)
+👤 [[sein]]  
+[[war]]  
+sein [[gewesen]]
 
 ---
 
-|     |          |
-| --- | -------- |
-| ich | [[bin]]  |
-| du  | [[bist]] |
-| er  | [[ist]]  |
-| sie | [[ist]]  |
-| es  | [[ist]]  |
-| wir | [[sind]] |
-| ihr | [[seid]] |
-| sie | [[sind]] |
-| Sie | [[sind]] |
+---
+
+**Synonyme:**
+
+- [[existieren]], [[bestehen]], [[leben]]
 
 ---
+
+**Beispiele:**
+
+- Ich [[bin]] müde.
+- Du [[bist]] glücklich.
+- Er [[ist]] krank.
+- Es [[ist]] spät.
+- Sie [[ist]] intelligent.
+- Wir [[sind]] bereit.
+- Ihr [[seid]] freundlich.
+- Sie [[sind]] pünktlich.
+
+---
+
 **Übersetzung**:
 to be
 
 ---
-
-Tags: 
-#Verb
-#Ablaut 
-#Unregelmäßige
-#Inf 
+ #Verb  #Unregelmäßig
 
 ---
-Präteritum
-Ich [[war]]
-du [[warst]]
-er [[war]]
-es [[war]]
-sie [[war]]
-wir [[waren]]
-ihr [[wart]]
-Sie [[waren]]
 
+**Präteritum:**
 
+- Ich [[war]] müde.
+- Du [[warst]] glücklich.
+- Er [[war]] krank.
+- Es [[war]] spät.
+- Sie [[war]] intelligent.
+- Wir [[waren]] bereit.
+- Ihr [[wart]] freundlich.
+- Sie [[waren]] pünktlich.
+
+---
+
+**Imperativ:**
+
+- Ich [[bin]] müde.
+- Du [[sei]] mutig.
+- Er [[sei]] stark.
+- Es [[sei]] gut.
+- Sie [[sei]] geduldig.
+- Wir [[seien]] vorsichtig.
+- Ihr [[seid]] ruhig.
+- Sie [[seien]] höflich.
+
+---
+
+**Morphems of only infinitive:**  
+- [[sein]]

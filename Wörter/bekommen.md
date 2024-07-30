@@ -1,117 +1,64 @@
-Inf: [[bekommen]]
-Past: [[bekam]]
-Perfect: [[bekommen]]
+📦 [[bekommen]]  
+[[bekam]]  
+haben [[bekommen]]
 
 ---
-Beispiele:
 - Aber dann [[bekommt]] Sascha Post aus Amerika ...
 - Ja – das Kissen hab’ ich auch [[bekommen]].  
+---
 
+**Synonyme:**
+
+- [[erhalten]], [[empfangen]], [[kriegen]]
 
 ---
 
-|     |              |
-| --- | ------------ |
-| ich | [[bekomme]]  |
-| du  | [[bekommst]] |
-| er  | [[bekommt]]  |
-| sie | [[bekommt]]  |
-| es  | [[bekommt]]  |
-| wir | [[bekommen]] |
-| ihr | [[bekommt]]  |
-| sie | [[bekommen]] |
-| Sie | [[bekommen]] |
+**Beispiele:**
+
+- Ich [[bekomme]] ein Geschenk.
+- Du [[bekommst]] einen Brief.
+- Er [[bekommt]] gute Noten.
+- Es [[bekommt]] neues Spielzeug.
+- Sie [[bekommt]] eine Gehaltserhöhung.
+- Wir [[bekommen]] viele Anfragen.
+- Ihr [[bekommt]] eine Einladung.
+- Sie [[bekommen]] Lob für ihre Arbeit.
 
 ---
+
 **Übersetzung**:
-to get, to receive
+to receive, to get
+
+---
+ #Verb  #Unregelmäßig
 
 ---
 
-Tags: 
-#Verb
-#Unregelmäßige
-#Inf #Form
+**Präteritum:**
 
----
-Präteritum
-Ich [[bekam]]
-du [[bekamst]]
-er [[bekam]]
-es [[bekam]]
-sie [[bekam]]
-wir [[bekamen]]
-ihr [[bekamt]]
-Sie [[bekamen]]
-
-Perfekt
-Ich [[habe bekommen]]
-du [[hast bekommen]]
-er [[hat bekommen]]
-es [[hat bekommen]]
-sie [[hat bekommen]]
-wir [[haben bekommen]]
-ihr [[habt bekommen]]
-Sie [[haben bekommen]]
-
-
-
-
-Inf: [[]]
-Past: [[]]
-Perfect: [[]]
-
----
-Beispiele:
+- Ich [[bekam]] ein Geschenk.
+- Du [[bekamst]] einen Brief.
+- Er [[bekam]] gute Noten.
+- Es [[bekam]] neues Spielzeug.
+- Sie [[bekam]] eine Gehaltserhöhung.
+- Wir [[bekamen]] viele Anfragen.
+- Ihr [[bekamt]] eine Einladung.
+- Sie [[bekamen]] Lob für ihre Arbeit.
 
 ---
 
-|     |      |
-| --- | ---- |
-| ich | [[]] |
-| du  | [[]] |
-| er  | [[]] |
-| sie | [[]] |
-| es  | [[]] |
-| wir | [[]] |
-| ihr | [[]] |
-| sie | [[]] |
-| Sie | [[]] |
+**Imperativ:**
 
-
----
-**Übersetzung**:
-
-
-
+- Ich [[bekomme]] das Geschenk.
+- Du [[bekomme]] das Geschenk.
+- Er [[bekomme]] das Geschenk.
+- Es [[bekommt]] das Geschenk.
+- Sie [[bekomme]] das Geschenk.
+- Wir [[bekommen]] das Geschenk.
+- Ihr [[bekommt]] das Geschenk.
+- Sie [[bekommen]] das Geschenk.
 
 ---
 
-Tags: 
-#Verb
-#Ablaut | #Schwache
-#Unregelmäßige | #Regelmäßige
-#Inf | #Form
-
----
-Präteritum
-Ich [[]]
-du [[]]
-er [[]]
-es [[]]
-sie[[]]
-wir [[]]
-ihr [[]]
-Sie [[]]
-
----
-
-Imperativ
-Ich [[]]
-du [[]]
-er [[]]
-es [[]]
-sie[[]]
-wir [[]]
-ihr [[]]
-Sie [[]]
+**Morphems of only infinitive:**  
+- [[be]][[komm]][[en]]

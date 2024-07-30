@@ -1,21 +1,27 @@
-[[aussehen]]
-[[sah aus]]
+👀 [[aussehen]]  
+[[sah aus|sah aus]]  
 haben [[ausgesehen]]
 
 ---
-Synonyme:
-- [[erschienen]]
-- [[wirken]]
-- [[aussehen]]
 
 ---
-Beispiele:
 
-- NIC: Seine neuen Klamotten sind hier – du [[wirst]] [[echt]] cool [[aussehen]]!
-- Ich [[sehe]] gut [[aus]]. (Ich sehe gut aus.)
-- Du [[sahst]] gestern müde [[aus]]. (Du sahst gestern müde aus.)
-- Er [[hat]] heute besonders schick [[ausgesehen]]. (Er hat heute besonders schick ausgesehen.)
-- Das Bild [[sieht]] wunderschön [[aus]]. (Das Bild sieht wunderschön aus.)
+**Synonyme:**
+
+- [[wirken]], [[erscheinen]], [[scheinen]]
+
+---
+
+**Beispiele:**
+
+- Ich [[sehe aus|sehe]] müde aus.
+- Du [[siehst aus|siehst]] glücklich aus.
+- Er [[sieht aus|sieht]] traurig aus.
+- Es [[sieht aus|sieht]] kaputt aus.
+- Sie [[sieht aus|sieht]] wie ein Model aus.
+- Wir [[sehen aus|sehen]] sportlich aus.
+- Ihr [[seht aus|seht]] überrascht aus.
+- Sie [[sehen aus|sehen]] sehr zufrieden aus.
 
 ---
 
@@ -23,37 +29,35 @@ Beispiele:
 to look, to appear
 
 ---
-
-Tags: 
-#Verb
-#Ablaut | #Schwache
-#Unregelmäßige
+ #Verb  #Trennbar
 
 ---
 
-Präteritum
-Ich [[sah aus]] wie ein König.
-du [[sahst aus]] wie ein Sportler.
-er [[sah aus]] wie ein Held.
-es [[sah aus]] wie ein Klassiker.
-sie [[sah aus]] wie ein Model.
-wir [[sahen aus]] wie Touristen.
-ihr [[saht aus]] wie Abenteurer.
-Sie [[sahen aus]] wie Profis.
+**Präteritum:**
+
+- Ich [[sah aus|sah]] müde aus.
+- Du [[sahst aus|sahst]] glücklich aus.
+- Er [[sah aus|sah]] traurig aus.
+- Es [[sah aus|sah]] kaputt aus.
+- Sie [[sah aus|sah]] wie ein Model aus.
+- Wir [[sahen aus|sahen]] sportlich aus.
+- Ihr [[saht aus|saht]] überrascht aus.
+- Sie [[sahen aus|sahen]] sehr zufrieden aus.
 
 ---
 
-Imperativ
-Ich [[sehe aus]] wie ein Experte.
-du [[sieh aus]] wie ein Gewinner!
-er [[sehe aus]] wie ein Profi!
-es [[sehe aus]] wie ein Klassiker!
-sie [[sehe aus]] wie ein Star!
-wir [[sehen aus]] wie Stars!
-ihr [[seht aus]] wie Profis!
-Sie [[sehen aus]] wie Champions!
+**Imperativ:**
+
+- Ich [[sehe aus|sehe]] gut aus.
+- Du [[sieh aus|sehe]] gut aus.
+- Er [[sehe aus|sehe]] gut aus.
+- Es [[sieht aus|sieht]] gut aus.
+- Sie [[sehe aus|sehe]] gut aus.
+- Wir [[sehen aus|sehen]] gut aus.
+- Ihr [[seht aus|seht]] gut aus.
+- Sie [[sehen aus|sehen]] gut aus.
 
 ---
 
-Morphems of only infinitive:
-[[aus]][[sehen]]x
+**Morphems of only infinitive:**  
+- [[aus]][[sehen]]

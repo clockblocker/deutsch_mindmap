@@ -1,56 +1,64 @@
-[[ein]][[kaufen]]
-[[kaufte ein]]  
+🛒 [[einkaufen]]  
+[[kaufte ein|kaufte ein]]  
 haben [[eingekauft]]
 
 ---
-
-Beispiele:
 Wir haben viel [[eingekauft]].
 
 ---
 
-|     |      |
-| --- | ---- |
-| ich | [[kaufe ein]] |
-| du  | [[kaufst ein]] |
-| er  | [[kauft ein]]  |
-| sie | [[kauft ein]]  |
-| es  | [[kauft ein]]  |
-| wir | [[kaufen ein]]|
-| ihr | [[kauft ein]] |
-| sie | [[kaufen ein]]|
-| Sie | [[kaufen ein]]|
+**Synonyme:**
+
+- [[besorgen]], [[erwerben]], [[shoppen]]
 
 ---
 
-**Übersetzung**: to shop, to buy
+**Beispiele:**
+
+- Ich [[kaufe ein|kaufe]] jeden Samstag ein.
+- Du [[kaufst ein|kaufst]] frisches Gemüse ein.
+- Er [[kauft ein|kauft]] gerne online ein.
+- Es [[kauft ein|kauft]] alles ein, was nötig ist.
+- Sie [[kauft ein|kauft]] oft im Supermarkt ein.
+- Wir [[kaufen ein|kaufen]] gemeinsam ein.
+- Ihr [[kauft ein|kauft]] immer zu viel ein.
+- Sie [[kaufen ein|kaufen]] für die ganze Woche ein.
 
 ---
 
-Tags:  
-#Verb  
-#Trennbar | #Regelmäßig
+**Übersetzung**:
+to shop, to buy
+
+---
+ #Verb  #Trennbar
 
 ---
 
-Präteritum  
-Ich [[kaufte ein]]  
-du [[kaufte ein]]  
-er [[kaufte ein]]  
-es [[kaufte ein]]  
-sie [[kaufte ein]]  
-wir [[kauften ein]]  
-ihr [[kauftet ein]]  
-Sie [[kauften ein]]
+**Präteritum:**
+
+- Ich [[kaufte ein|kaufte]] jeden Samstag ein.
+- Du [[kauftest ein|kauftest]] frisches Gemüse ein.
+- Er [[kaufte ein|kaufte]] gerne online ein.
+- Es [[kaufte ein|kaufte]] alles ein, was nötig war.
+- Sie [[kaufte ein|kaufte]] oft im Supermarkt ein.
+- Wir [[kauften ein|kauften]] gemeinsam ein.
+- Ihr [[kauftet ein|kauftet]] immer zu viel ein.
+- Sie [[kauften ein|kauften]] für die ganze Woche ein.
 
 ---
 
-Imperativ  
-Ich (—)  
-du [[kauf ein]]  
-er (—)  
-es (—)  
-sie (—)  
-wir [[kaufen ein]]  
-ihr [[kauft ein]]  
-Sie [[kaufen Sie ein]]
+**Imperativ:**
+
+- Ich [[kaufe ein|kaufe]] jetzt ein.
+- Du [[kauf ein|kaufe]] jetzt ein.
+- Er [[kaufe ein|kaufe]] jetzt ein.
+- Es [[kauft ein|kauft]] jetzt ein.
+- Sie [[kaufe ein|kaufe]] jetzt ein.
+- Wir [[kaufen ein|kaufen]] jetzt ein.
+- Ihr [[kauft ein|kauft]] jetzt ein.
+- Sie [[kaufen ein|kaufen]] jetzt ein.
+
+---
+
+**Morphems of only infinitive:**  
+- [[ein]][[kaufen]]

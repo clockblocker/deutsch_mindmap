@@ -1,6 +1,1 @@
-[[fass]] [[an]]
-
-Inf: [[anfassen]]
-
-Tags: 
-#Verb
+✋ [[fassen]]  

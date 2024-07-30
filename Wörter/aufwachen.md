@@ -1,62 +1,63 @@
-[[aufwachen]]
-[[wacht auf]]
-haben [[aufgewacht]]
+⏰ [[aufwachen]]  
+[[wachte auf|wachte auf]]  
+sein [[aufgewacht]]
 
 ---
-Synonyms:
-- [[erwachen]]
-- [[aufstehen]]
-- [[sich erheben]]
 
 ---
-SASCHA: Sam … Guten Morgen! [[aufwachen|Wach auf]]!
+
+**Synonyme:**
+
+- [[erwachen]], [[wachwerden]], [[aufstehen]]
 
 ---
-Beispiele:
 
-- Ich [[wache auf]] um 7 Uhr morgens.
-- Du [[wachst auf]] und hörst den Wecker.
-- Er [[wacht auf]] und steht aus dem Bett auf.
+**Beispiele:**
 
-- Es [[wacht auf]], wenn die [[Sonne]] aufgeht.
-- Sie [[wacht auf]] und bereitet das [[Frühstück]] vor.
-- Wir [[wachen auf]] und beginnen den [[Tag]].
-
-- Ihr [[wacht auf]] und bereitet euch auf die Schule vor.
-- Sie [[wachen auf]] und ziehen sich an.
-- Sie [[wachen auf]] und gehen zum Frühstück.
+- Ich [[wache auf|wache]] jeden Tag um 7 Uhr auf.
+- Du [[wachst auf|wachst]] immer vor dem Wecker auf.
+- Er [[wacht auf|wacht]] schnell auf, wenn es laut ist.
+- Es [[wacht auf|wacht]] von alleine auf.
+- Sie [[wacht auf|wacht]] früh auf, um zur Arbeit zu gehen.
+- Wir [[wachen auf|wachen]] gemeinsam auf.
+- Ihr [[wacht auf|wacht]] spät am Wochenende auf.
+- Sie [[wachen auf|wachen]] meistens zur gleichen Zeit auf.
 
 ---
+
 **Übersetzung**:
 to wake up
 
 ---
-
-Tags: 
-#Verb
-#Unregelmäßige
+ #Verb  #Trennbar
 
 ---
-Präteritum
-Ich [[wachte auf]] um 7 Uhr morgens.
-du [[wachtest auf]]
-er [[wachte auf]]
-es [[wachte auf]]
-sie [[wachte auf]]
-wir [[wachten auf]]
-ihr [[wachtet auf]]
-Sie [[wachten auf]]
+
+**Präteritum:**
+
+- Ich [[wachte auf|wachte]] jeden Tag um 7 Uhr auf.
+- Du [[wachtest auf|wachtest]] immer vor dem Wecker auf.
+- Er [[wachte auf|wachte]] schnell auf, wenn es laut war.
+- Es [[wachte auf|wachte]] von alleine auf.
+- Sie [[wachte auf|wachte]] früh auf, um zur Arbeit zu gehen.
+- Wir [[wachten auf|wachten]] gemeinsam auf.
+- Ihr [[wachtet auf|wachtet]] spät am Wochenende auf.
+- Sie [[wachten auf|wachten]] meistens zur gleichen Zeit auf.
 
 ---
-Imperativ
-Ich [[wache auf]] um 7 Uhr morgens.
-du [[wach auf]]
-er [[wache auf]]
-es [[wache auf]]
-sie [[wache auf]]
-wir [[wachen auf]]
-ihr [[wach auf]]
-Sie [[wachen auf]]
 
-Morphems of only infinitive:
+**Imperativ:**
+
+- Ich [[wache auf|wache]] auf.
+- Du [[wach auf|wache]] auf.
+- Er [[wache auf|wache]] auf.
+- Es [[wacht auf|wacht]] auf.
+- Sie [[wache auf|wache]] auf.
+- Wir [[wachen auf|wachen]] auf.
+- Ihr [[wacht auf|wacht]] auf.
+- Sie [[wachen auf|wachen]] auf.
+
+---
+
+**Morphems of only infinitive:**  
 - [[auf]][[wachen]]
