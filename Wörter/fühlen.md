@@ -1,65 +1,67 @@
-Inf: [[fühlen]]
-Past: [[fühlte]]
-Perfect: [[gefühlt]]
+💓 [[fühlen]]  
+[[fühlte]]  
+haben [[gefühlt]]
 
 ---
-Beispiele:
-
+ANNA: Ich [[fühl]] mich schlecht
 She [[fühlte]] sich nicht [[wohl]]
 SASCHA: [[fühl dich wie zu Hause]]. Ich muss mal ins Bad.
 
+---
+
+**Synonyme:**
+
+- [[spüren]], [[empfinden]], [[bemerken]]
 
 ---
 
-|     |              |
-| --- | ------------ |
-| ich | [[fühle]]    |
-| du  | [[fühlst]]   |
-| er  | [[fühlt]]    |
-| sie | [[fühlt]]    |
-| es  | [[fühlt]]    |
-| wir | [[fühlen]]   |
-| ihr | [[fühlt]]    |
-| sie | [[fühlen]]   |
-| Sie | [[fühlen]]   |
+**Beispiele:**
+
+- Ich [[fühle]] Freude.
+- Du [[fühlst]] dich gut.
+- Er [[fühlt]] Schmerz.
+- Es [[fühlt]] sich kalt an.
+- Sie [[fühlt]] die Wärme der Sonne.
+- Wir [[fühlen]] uns glücklich.
+- Ihr [[fühlt]] den Wind.
+- Sie [[fühlen]] sich wohl.
 
 ---
+
 **Übersetzung**:
 to feel
 
 ---
-
-Tags: 
 #Verb
-#Schwache
-#Inf | #Partizip II
-
----
-Präteritum
-Ich [[fühlte]]
-du [[fühltest]]
-er [[fühlte]]
-es [[fühlte]]
-sie [[fühlte]]
-wir [[fühlten]]
-ihr [[fühltet]]
-Sie [[fühlten]]
 
 ---
 
-Perfekt
-Ich habe [[gefühlt]]
-du hast [[gefühlt]]
-er hat [[gefühlt]]
-es hat [[gefühlt]]
-sie hat [[gefühlt]]
-wir haben [[gefühlt]]
-ihr habt [[gefühlt]]
-Sie haben [[gefühlt]]
+**Präteritum:**
+
+- Ich [[fühlte]] Freude.
+- Du [[fühltest]] dich gut.
+- Er [[fühlte]] Schmerz.
+- Es [[fühlte]] sich kalt an.
+- Sie [[fühlte]] die Wärme der Sonne.
+- Wir [[fühlten]] uns glücklich.
+- Ihr [[fühltet]] den Wind.
+- Sie [[fühlten]] sich wohl.
 
 ---
 
-Imperativ
-du [[fühl]]
-ihr [[fühlt]]
-Sie [[fühlen]]
+**Imperativ:**
+
+- Ich [[fühle]] die Freude.
+- Du [[fühl|fühle]] die Freude.
+- Er [[fühle]] die Freude.
+- Es [[fühlt]] die Freude.
+- Sie [[fühle]] die Freude.
+- Wir [[fühlen]] die Freude.
+- Ihr [[fühlt]] die Freude.
+- Sie [[fühlen]] die Freude.
+
+---
+
+**Morphems of only infinitive:**  
+- [[fühl]][[en]]
+

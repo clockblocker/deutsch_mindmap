@@ -8,155 +8,111 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c05f06869e21a1f",
+            "id": "0cf3b6c365ac584b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/angefasst.md",
+                "file": "Texte/Skripte/extra/Extra 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "707d15c79fc1c236",
+            "id": "41cc0ada9800133a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/fasste an.md",
+                "file": "Wörter/Überraschung.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "60edc57a0361f3dd",
+            "id": "c1c4e4c6d10cb219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/begründen.md",
+                "file": "Wörter/rasch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "40e35c98ae90deb1",
+            "id": "d53c563380018460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/bekommen.md",
+                "file": "Wörter/Nächstes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "545c6d9fb2b26c54",
+            "id": "8fd6df054eaf1761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/bekommen.md",
+                "file": "Wörter/erst.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1697b1c893f11c97",
+            "id": "1c7186844ef4fb0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Verbformen/komm.md",
+                "file": "Wörter/erst.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1940c73b61eac89d",
+            "id": "7c669fb87165a52b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Verbformen/bin.md",
+                "file": "Wörter/Taschentücher.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bae0bb8c436837a4",
+            "id": "98a9ff10ad077fb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Verbformen/gelaufen.md",
+                "file": "Wörter/Taschentuch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b33362c116eb290e",
+            "id": "5a6410f39d41baca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Verben/Verbformen/gemacht.md",
+                "file": "Wörter/Taschentuch.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "82d86ed0665d048a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/gemacht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16f42abb2073560f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/gemocht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "928e7e4d5d029ead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/gesagt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d5ccfd50c801800",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -196,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#verb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wörter/rasch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,6 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wörter/rasch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wörter/rasch.md"
+              }
             }
           }
         ],
@@ -326,34 +285,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7d5ccfd50c801800",
+  "active": "c1c4e4c6d10cb219",
   "lastOpenFiles": [
-    "Wörter/ziehen.md",
-    "Wörter/zeigen.md",
-    "Wörter/zahlen.md",
-    "Wörter/wolltet.md",
-    "Wörter/wolltest.md",
-    "Wörter/wollten.md",
-    "Wörter/wollte.md",
-    "Wörter/wollt.md",
-    "Wörter/wollen.md",
-    "Wörter/wohnen.md",
-    "Wörter/wirken.md",
-    "Wörter/werden.md",
-    "Wörter/Verben/Verbformen/gesagt.md",
-    "Wörter/will.md",
-    "Wörter/wirktet.md",
-    "Wörter/willst.md",
-    "Wörter/werd.md",
-    "Wörter/warten.md",
-    "Wörter/vorstellen.md",
-    "Wörter/Verstecken.md",
-    "Wörter/verpassen.md",
-    "Wörter/Verben/Verbformen/tat.md",
-    "Wörter/pass.md",
-    "Wörter/dürft.md",
-    "Wörter/dürfen.md",
-    "Wörter/verkaufen.md",
+    "Wörter/raschesten.md",
+    "Wörter/rasch.md",
+    "Wörter/rascher.md",
+    "Wörter/Überraschung.md",
+    "Texte/Skripte/extra/Extra 2.md",
+    "Wörter/Überraschungen.md",
+    "Texte/Skripte/extra/Extra 1.md",
+    "Wörter/Nächstes.md",
+    "Wörter/angefasst.md",
+    "Wörter/fasste an.md",
+    "Wörter/begründen.md",
+    "Wörter/bekommen.md",
+    "Wörter/Verben/Verbformen/komm.md",
+    "Wörter/Verben/Verbformen/bin.md",
+    "Wörter/Verben/Verbformen/gelaufen.md",
+    "Wörter/Verben/Verbformen/gemacht.md",
+    "Wörter/nächster.md",
+    "Wörter/Eingang.md",
+    "Wörter/gang.md",
+    "Wörter/Ausgang.md",
+    "Wörter/Ausgänge.md",
+    "Wörter/Eingänge.md",
+    "Wörter/merkwürdig.md",
+    "Wörter/merkwürdigsten.md",
+    "Wörter/merkwürdiger.md",
+    "Wörter/Erkältung.md",
     "Anhänge/Pasted image 20240729135443.png",
     "Anhänge/Pasted image 20240729135330.png",
     "Anhänge/Pasted image 20240729135226.png",

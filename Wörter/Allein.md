@@ -10,9 +10,7 @@ Synonyme:
 ---
 Beispiele:
 
-- Ich bin [[allein]] im Raum.
-- Er wohnt [[alleiner]] in einer großen Wohnung.
-- Das [[alleinste]] Haus am Ende der Straße ist verlassen.
+SAM: Ich war [[allein]] einkaufen!
 
 ---
 **Übersetzung**: alone, solitary
