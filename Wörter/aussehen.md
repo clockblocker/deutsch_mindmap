@@ -3,6 +3,7 @@
 haben [[ausgesehen]]
 
 ---
+Aber er [[aussehen|sieht]] total gut aus!  
 
 ---
 

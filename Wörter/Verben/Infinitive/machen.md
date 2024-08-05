@@ -3,6 +3,9 @@
 haben [[gemacht]]
 
 ---
+[[Mach]] meinen Traum wahr!  
+Na [[mach weiter]], Sam!  
+
 
 ---
 
@@ -56,6 +59,7 @@ to do, to make
 - Wir [[machen]] das jetzt.
 - Ihr [[macht]] das jetzt.
 - Sie [[machen]] das jetzt.
+- Mach
 
 ---
 

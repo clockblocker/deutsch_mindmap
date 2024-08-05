@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc64cf37f85b851",
+        "id": "58b1fcf9de4c251c",
         "type": "tabs",
         "children": [
           {
-            "id": "0cf3b6c365ac584b",
+            "id": "a0774a2dc7045b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41cc0ada9800133a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Überraschung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1c4e4c6d10cb219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/rasch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d53c563380018460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Nächstes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fd6df054eaf1761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/erst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c7186844ef4fb0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/erst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c669fb87165a52b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Taschentücher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98a9ff10ad077fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Taschentuch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a6410f39d41baca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Taschentuch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e862484d7ddd9f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Verben/Verbformen/komm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc4264736249bc65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wortlisten/50 adjectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1696d8b8c853e505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Prompt.md",
+                "file": "Texte/Skripte/extra/Extra 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/rasch.md",
+                "file": "Texte/Skripte/extra/Extra 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/rasch.md",
+                "file": "Texte/Skripte/extra/Extra 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörter/rasch.md"
+                "file": "Texte/Skripte/extra/Extra 3.md"
               }
             }
           }
@@ -285,34 +152,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c1c4e4c6d10cb219",
+  "active": "a0774a2dc7045b73",
   "lastOpenFiles": [
-    "Wörter/raschesten.md",
-    "Wörter/rasch.md",
-    "Wörter/rascher.md",
-    "Wörter/Überraschung.md",
-    "Texte/Skripte/extra/Extra 2.md",
-    "Wörter/Überraschungen.md",
-    "Texte/Skripte/extra/Extra 1.md",
-    "Wörter/Nächstes.md",
-    "Wörter/angefasst.md",
-    "Wörter/fasste an.md",
-    "Wörter/begründen.md",
-    "Wörter/bekommen.md",
-    "Wörter/Verben/Verbformen/komm.md",
-    "Wörter/Verben/Verbformen/bin.md",
-    "Wörter/Verben/Verbformen/gelaufen.md",
-    "Wörter/Verben/Verbformen/gemacht.md",
-    "Wörter/nächster.md",
-    "Wörter/Eingang.md",
-    "Wörter/gang.md",
-    "Wörter/Ausgang.md",
-    "Wörter/Ausgänge.md",
-    "Wörter/Eingänge.md",
-    "Wörter/merkwürdig.md",
-    "Wörter/merkwürdigsten.md",
-    "Wörter/merkwürdiger.md",
-    "Wörter/Erkältung.md",
+    "Wörter/glänzt.md",
+    "Wörter/versteck.md",
+    "Wörter/Verstecken.md",
+    "Texte/Skripte/extra/Extra 3.md",
+    "Wörter/Lächeln.md",
+    "Wörter/dachten.md",
+    "Wörter/denken.md",
+    "Wörter/wärt.md",
+    "Wörter/werden.md",
+    "Wörter/glänzen.md",
+    "Wörter/glänzet.md",
+    "Wörter/glänzest.md",
+    "Wörter/glänze.md",
+    "Wörter/glänztet.md",
+    "Wörter/glänzten.md",
+    "Wörter/glänztest.md",
+    "Wörter/geglänzt.md",
+    "Wörter/glänzte.md",
+    "Wörter/Hecheln.md",
+    "Wörter/lächeltet.md",
+    "Wörter/lächelten.md",
+    "Wörter/lächeltest.md",
+    "Wörter/lächelt.md",
+    "Wörter/lächelst.md",
+    "Wörter/lächle.md",
+    "Wörter/gelächelt.md",
+    "Anhänge/Pasted image 20240804150741.png",
     "Anhänge/Pasted image 20240729135443.png",
     "Anhänge/Pasted image 20240729135330.png",
     "Anhänge/Pasted image 20240729135226.png",
@@ -323,7 +191,6 @@
     "Anhänge/Pasted image 20240729133800.png",
     "Anhänge/Pasted image 20240729133715.png",
     "Wörter/Adverbien",
-    "Anhänge/Pasted image 20240724210501.png",
     "smart-chats",
     "Texte/Skripte/Muzzy",
     "Untitled 2.canvas",

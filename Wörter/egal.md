@@ -1,6 +1,11 @@
 [[egal]]
 
 ---
+ANNA: Das ist ein … ein ... ach, ist [[egal]] …  
+NIC: [[Egal]] … Komm … das müssen wir feiern!  
+
+
+---
 
 **Übersetzung**: indifferent, doesn’t matter, of no concern
 

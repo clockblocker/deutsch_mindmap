@@ -2,6 +2,9 @@ der [[Witz]]
 die [[Witze]]
 
 ---
+Das ist doch ein [[Witz]]! Und dafür bekommen sie E-Mails von 633 Frauen.  
+
+---
 
 **Übersetzung**: joke, wit
 

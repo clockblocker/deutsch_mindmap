@@ -3,6 +3,8 @@
 sein [[geworden]]
 
 ---
+ANNA: Ich [[würde]] dir antworten …  
+Bella und Struppi! … Aber … Wir [[dachten]], ihr [[wärt]] Tänzerinnen ...  
 
 ---
 
@@ -56,6 +58,17 @@ to become, to get, to turn
 - Wir [[werden]] gesund.
 - Ihr [[werdet]] gesund.
 - Sie [[werden]] gesund.
+
+Konjunktiv II
+- Wenn ich reich wäre, [[würde]] ich eine Weltreise machen.
+- Wenn du Zeit hättest, [[würdest]] du mir helfen?
+- Wenn er hier wäre, [[würde]] er das sofort verstehen.
+- Wenn wir zusammenarbeiten, [[würden]] wir es schaffen.
+- Wenn ihr pünktlich wärt, [[würdet]] ihr den Zug nicht verpassen.
+- Wenn sie die Wahrheit kennen würden, [[würden]] sie anders handeln.\
+
+Konjunktiv I
+
 
 ---
 

@@ -4,6 +4,8 @@ haben [[getan]]
 
 ---
 - ANNA: Aber Sascha – du hast sooo viel zu [[tun]]. 
+- ANNA: Mir tun die Beine [[weh]]!  
+- 
 - Ich weiß nicht, was ich tun soll. 
 - [[Was tut denn weh?]]
 - [[Was kann ich tun?]] 

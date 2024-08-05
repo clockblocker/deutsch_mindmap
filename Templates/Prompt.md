@@ -17,6 +17,10 @@ Synonyme:
 **Übersetzung**: cloth, towel
 
 ---
+Morphems:
+[[Tuch]] // place each morphem in brackets
+
+---
 #Substantiv #Neuter
 ```
 
@@ -131,9 +135,12 @@ haben [[angerufen]]
 - Sie [[rufen an|rufen]] die Nummer an, um eine Nachricht zu hinterlassen.
 
 ---
-
 **Übersetzung**:
 to call (on the phone)
+
+---
+**Morphems of only infinitive:**  
+- [[an]][[rufen]]
 
 ---
  #Verb  #Trennbar
@@ -165,10 +172,22 @@ to call (on the phone)
 - Sie [[rufen an|rufen]] die Nummer an.
 
 ---
+Konjunktiv I:
+- Er sagt, ich [[rufe an]], sobald ich zu Hause bin.
+- Sie meint, du [[rufest an]], wenn du Hilfe brauchst.
+- Er behauptet, er [[rufe an]], sobald er Zeit hat.
+- Wir erklären, wir [[rufen an]], wenn wir ankommen.
+- Ihr sagt, ihr [[rufet an]], sobald ihr fertig seid.
+- Sie sagen, sie [[rufen an]], sobald sie können.
 
-**Morphems of only infinitive:**  
-- [[an]][[rufen]]
-
+---
+Konjunktiv II:
+- Wenn ich seine Nummer hätte, [[riefe an|riefe]] ich ihn [[an]].
+- Wenn du Zeit hättest, [[riefest an|riefest]] du ihn [[an]].
+- Wenn er hier wäre, [[riefe an|riefe]] er sofort [[an]].
+- Wenn wir das Geld hätten, [[riefen an|riefen]] wir den Service [[an]].
+- Wenn ihr es wüsstet, [[riefet an|riefet]] ihr uns sofort [[an]].
+- Wenn sie den Auftrag hätten, [[riefen an|riefen]] sie den Kunden [[an]].
 
 ```
 
@@ -188,7 +207,6 @@ synonyms
 - [[assistieren]]
 
 ---
-
 Beispiele:
 - Ich [[helfe]] dir bei den Hausaufgaben.
 - Du [[hilfst]] mir immer, wenn ich Probleme habe.
@@ -201,6 +219,10 @@ Beispiele:
 
 ---
 **Übersetzung**: to help
+
+---
+Morphems of only infinitive:
+[[helf]][[en]]
 
 ---
 
@@ -231,9 +253,59 @@ wir [[helft]] den Nachbarn.
 ihr [[hilft]] den Kindern bei den Aufgaben.
 Sie [[helfen]] beim Aufräumen.
 
-Morphems of only infinitive:
-- [[helf]][[en]]
+---
+Konjunktiv I
+- Er sagt, ich [[helfe]] dir gern.
+- Sie behauptet, du [[helfest]] immer bereitwillig.
+- Er meint, er [[helfe]] so gut er kann.
+- Wir hoffen, wir [[helfen]] euch genug.
+- Ihr sagt, ihr [[helfet]] den Bedürftigen.
+- Sie erklären, sie [[helfen]] allen, die Unterstützung brauchen.
+
+---
+Konjunktiv II
+- Wenn ich mehr Zeit hätte, [[hülfe]] ich dir.
+- Wenn du stärker wärst, [[hülfest]] du uns.
+- Wenn er hier wäre, [[hülfe]] er sofort.
+- Wenn wir zusammenarbeiten würden, [[hülfen]] wir euch.
+- Wenn ihr mehr wüsstet, [[hülfet]] ihr den anderen.
+- Wenn sie die Möglichkeit hätten, [[hülfen]] sie allen.
+
 ```
+
+for Adverbs:
+```
+[[hierher]]
+
+---
+Bella … und Struppi kommen [[hierher]] 
+
+---
+
+Synonyme:
+- [[hierhin]], [[an diesen Ort]], [[in diese Richtung]]
+
+---
+Beispiele:
+
+- Komm [[hierher]]!
+- Ich bin [[hierher]] gezogen.
+- Setz dich [[hierher]].
+
+---
+**Übersetzung**:
+here, to this place
+
+---
+
+Tags:
+#Adverb
+
+---
+Morphems:
+[[hier]][[her]]
+```
+
 
 
 do not try to improve upon templates, do not add extra information, do not use bold. just fill in the templates

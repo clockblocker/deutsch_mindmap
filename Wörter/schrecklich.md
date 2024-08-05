@@ -2,6 +2,8 @@
 
 ---
 Mensch das ist ja [[schrecklich]]!
+ANNA: Igitt! Ein Tier-Präparator! Wie [[schrecklich]]!  
+
 
 ---
 
