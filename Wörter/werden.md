@@ -5,6 +5,8 @@ sein [[geworden]]
 ---
 ANNA: Ich [[würde]] dir antworten …  
 Bella und Struppi! … Aber … Wir [[dachten]], ihr [[wärt]] Tänzerinnen ...  
+NIC: Sam – hier [[werden]] wir sie finden. Girls, Girls, Girls!  
+
 
 ---
 

@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "58b1fcf9de4c251c",
+        "id": "64829a584100b245",
         "type": "tabs",
         "children": [
           {
-            "id": "a0774a2dc7045b73",
+            "id": "bb0c7bacc1179ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 3.md",
+                "file": "Wortlisten/100 verbs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "364d740ec6a7c366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Welt/Delivery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0fbdcce3ff8c255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/voraussichtlich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "811bfcb6e437cd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/zugestellt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e47613819c1b3aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/vorbereiten.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ziehen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 3.md",
+                "file": "Wörter/voraussichtlich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 3.md",
+                "file": "Wörter/voraussichtlich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 3.md"
+                "file": "Wörter/voraussichtlich.md"
               }
             }
           }
@@ -152,34 +201,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a0774a2dc7045b73",
+  "active": "a0fbdcce3ff8c255",
   "lastOpenFiles": [
-    "Wörter/glänzt.md",
-    "Wörter/versteck.md",
-    "Wörter/Verstecken.md",
-    "Texte/Skripte/extra/Extra 3.md",
-    "Wörter/Lächeln.md",
-    "Wörter/dachten.md",
-    "Wörter/denken.md",
-    "Wörter/wärt.md",
-    "Wörter/werden.md",
-    "Wörter/glänzen.md",
-    "Wörter/glänzet.md",
-    "Wörter/glänzest.md",
-    "Wörter/glänze.md",
-    "Wörter/glänztet.md",
-    "Wörter/glänzten.md",
-    "Wörter/glänztest.md",
-    "Wörter/geglänzt.md",
-    "Wörter/glänzte.md",
-    "Wörter/Hecheln.md",
-    "Wörter/lächeltet.md",
-    "Wörter/lächelten.md",
-    "Wörter/lächeltest.md",
-    "Wörter/lächelt.md",
-    "Wörter/lächelst.md",
-    "Wörter/lächle.md",
-    "Wörter/gelächelt.md",
+    "Wörter/zugestellt.md",
+    "Wörter/voraussichtlich.md",
+    "Wörter/zugestelltsten.md",
+    "Wörter/zugestellter.md",
+    "Texte/Welt/Delivery.md",
+    "Wörter/sichtlich.md",
+    "Wörter/sichtlichsten.md",
+    "Wörter/sichtlicher.md",
+    "Wörter/voraussichtlichsten.md",
+    "Wörter/voraussichtlicher.md",
+    "Wörter/vorbereiten.md",
+    "Wörter/bereite vor.md",
+    "Wörter/vorbereitet.md",
+    "Wörter/bereitete vor.md",
+    "Wörter/Hilfreiche.md",
+    "Wörter/hilfreich.md",
+    "Wörter/hilfreichsten.md",
+    "Wörter/hilfreicher.md",
+    "Wörter/Sendung.md",
+    "Wörter/Sendungen.md",
+    "Wortlisten/100 verbs.md",
+    "Wörter/freigegeben.md",
+    "Wörter/freigegebensten.md",
+    "Wörter/freigegebener.md",
+    "Wörter/Zustellung.md",
+    "Wörter/Zustellungen.md",
+    "Texte/Welt",
     "Anhänge/Pasted image 20240804150741.png",
     "Anhänge/Pasted image 20240729135443.png",
     "Anhänge/Pasted image 20240729135330.png",
@@ -202,7 +252,6 @@
     "Texte/Gedichte/Kinder",
     "Wortlisten/IMG_5118.MOV",
     "Texte/Skripte/extra",
-    "Wortlisten/Custom",
     "Texte/Ditor/Positionen.canvas"
   ]
 }

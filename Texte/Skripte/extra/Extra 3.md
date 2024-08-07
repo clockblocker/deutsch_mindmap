@@ -78,7 +78,7 @@ NIC: Louis!
 ANNA: Schon gut, Louis!  
 SAM: Anna? … Was ist ein Tier-Präparator?  
 ANNA: Das ist ein … ein ... ach, ist [[egal]] …  
-NIC: Hey du hast ja [[echt]] Glück [[beim]] Flirten!  
+NIC: Hey du hast ja [[echt]] [[Glück]] [[beim]] Flirten!  
 Anna – Kannst du so gut [[kochen]] wie meine Mutter? Magst du [[Lokomotiven]]?  
 Können wir [[uns]] heute [[treffen]]?  
 [[Detlef]] Meier 24 P.S. Um 5 Uhr muss ich bei meiner Mutter sein.  
@@ -127,7 +127,7 @@ NIC: [[Na klar]]! Total viele!
 SAM: Zehn?  
 NIC: Hunderte!  
 SAM: Wow!  
-NIC: Ja Frauen so wie Sascha mögen schnelle Autos, Geld und sie tanzen gern.  
+NIC: Ja Frauen so [[wie]] Sascha mögen schnelle Autos, Geld und sie tanzen gern.  
 SAM: Tanzen? Ach so: tanzen! Ich liebe tanzen.  
 NIC: Nein, nein, nicht so. Pass auf, [[es geht|so geht das]]!  
 SAM: Really? Wirklich?  
@@ -137,7 +137,7 @@ NIC: Ah Hilfe! Sam, Annas [[Pflanze]]!
 Die [[Sprühflasche]] mit dem Wasser! Im Bad!  
 SAM: Psst! Psst! Alles klar!  
 SAM: Wasser … Ahh ... Wasser! Sehr gut.  
-NIC: Klasse!  
+NIC: [[Klasse]]!  
 SAM: Klasse!  
 SAM: MMMhhh – kalt, oder… heiß … heiß ... Nic?  
 NIC: Jaaaaaa?  
@@ -147,10 +147,10 @@ SAM: Okay.
 SAM: [[Das war es|Das war’s]]! [[Fertig]]!  
 NIC: Super!  
 SAM: Super!  
-NIC: Sam – hier werden wir sie finden. Girls, Girls, Girls!  
+NIC: Sam – hier [[werden]] wir sie finden. Girls, Girls, Girls!  
 SAM: Yo Yo Yo!  
 NIC: [[genial]]! Sam, du [[brauchst]] ein neues [[Aftershave]] ...  
-NIC: [[Egal]] … Komm … das müssen wir [[feiern]]!  
+NIC: [[Egal]] … Komm … das [[müssen]] wir [[feiern]]!  
 SASCHA: Päh! Wie [[riecht]]’s [[denn]] hier?  
 ANNA: Hier riecht’s wie in der Parfümerie!  
 Meine Pflanze! Meine [[arme]] Pflanze!  
@@ -171,7 +171,7 @@ Hallo Sam und Nic!
 Ja! Wir sind total [[hübsch]]!  
 Und wir tanzen [[gern]]!  
 Und natürlich finden wir Millionäre super! Fifi und Sarah xxxxxxxx  
-ANNA: Schau mal, das gibt’s doch nicht.  
+ANNA: [[Schau]] mal, das gibt’s doch nicht.  
 Bist du hübsch?  
 Hast du eine hübsche Freundin?  
 Tanzt du gern? Magst du [[schnelle]] Autos?  
@@ -199,7 +199,7 @@ Wow! Die hören sich ja fantastisch an!
 SAM: Was?  
 NIC: Bella … und Struppi kommen [[hierher]] … Wenn die Show zu Ende ist. Um 22 Uhr …  
 Um zweiundzwanzig Uhr… Neunzehn ... zwanzig ... einundzwanzig ... zweiundzwanzig ...  
-Hey! [[Warte]] mal, zweiundzwanzig Uhr – das ist in 3 Stunden! Was [[ziehe]] ich an? Und was ziehst du an?  
+Hey! [[Warte]] mal, zweiundzwanzig Uhr – das ist in 3 Stunden! Was [[anziehen|ziehe]] ich an? Und was [[ziehst]] du an?  
 SAM: Aber Sascha und Anna?  
 NIC: Kein Problem …  
 NOTE: Hallo Nic und Sam! Wir gehen heute Abend aus! A + S  
@@ -217,7 +217,7 @@ Oh mother! I haven’t even thought about it!
 SAM: Hey Nic? Was soll ich sagen?  
 NIC: Mensch relax! Das ist doch [[ganz]] einfach.  
 SAM: Ja, klar! Nic mit seinen 100 Freundinnen!  
-NIC: Na ja, … also … es [[waren]] schon weniger [[als]] 100 …  
+NIC: Na ja, … also … es [[waren]] schon [[weniger]] [[als]] 100 …  
 SAM: Fünfzig!  
 NIC: Mmhh .. nicht [[ganz]].  
 SAM: Zehn?  

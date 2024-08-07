@@ -4,6 +4,8 @@ haben [[gemusst]]
 
 ---
 Das [[muss]] ein [[Ende]] haben .
+NIC: [[Egal]] … Komm … das [[müssen]] wir [[feiern]]!  
+
 
 ---
 

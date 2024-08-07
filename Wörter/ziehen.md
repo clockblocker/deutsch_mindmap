@@ -4,7 +4,6 @@ haben [[gezogen]]
 
 ---
 - SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?
-- Was [[ziehe]] ich an? Und was ziehst du an?  
 
 ---
 
@@ -28,7 +27,7 @@ haben [[gezogen]]
 ---
 
 **Übersetzung**:
-to pull, to move, to wear
+to pull, to move
 
 ---
  #Verb  #Unregelmäßig

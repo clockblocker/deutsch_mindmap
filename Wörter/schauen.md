@@ -5,6 +5,8 @@ haben [[geschaut]]
 ---
 SAM: Ah Sascha! [[schau]] mal – 50 Kilometer! ([[sieh]] mal)
 ANNA: [[Schau]] mal Sam! Das hier hab’ ich für dich!
+ANNA: [[Schau]] mal, das gibt’s doch nicht.  
+
 
 ---
 
