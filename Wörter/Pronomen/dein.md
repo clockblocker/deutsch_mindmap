@@ -1,4 +1,6 @@
 #pronomen #Possessivpronomen
+[[Nominativ possessiv Pronomen]]
+
 
 Plural
 - **[[deine]] Freunde sind nett** #Nominativ (Your friends are nice)
@@ -23,3 +25,5 @@ Neuter
 - **Ich sehe [[dein]] Kind**  #Akkusativ (I see your child)
 - **Ich erzähle [[deinem]] Kind eine Geschichte**  #Dativ (I tell your child a story)
 - **Das Spielzeug [[deines]] Kindes ist bunt**  #Genitiv (Your child’s toy is colorful)
+
+[[Akkusativ possessiv Pronomen]]

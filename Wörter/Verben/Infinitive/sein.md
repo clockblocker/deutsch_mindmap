@@ -61,3 +61,7 @@ to be
 
 **Morphems of only infinitive:**  
 - [[sein]]
+
+[[Akkusativ possessiv Pronomen]]
+[[Nominativ possessiv Pronomen]]
+

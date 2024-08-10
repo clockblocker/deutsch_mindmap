@@ -1,3 +1,5 @@
+[[Nominativ possessiv Pronomen]]
+
 #pronomen #Possessivpronomen
 
 Plural
@@ -23,4 +25,7 @@ Neuter
 - **Ich sehe [[mein]] Kind**  #Akkusativ (I see my child)
 - **Ich erzähle [[meinem]] Kind eine Geschichte**  #Dativ (I tell my child a story)
 - **Das Spielzeug [[meines]] Kindes ist bunt**  #Genitiv (My child’s toy is colorful)
+
+
+[[Akkusativ possessiv Pronomen]]
 

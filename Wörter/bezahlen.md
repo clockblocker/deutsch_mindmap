@@ -1,3 +1,6 @@
+
+Wir können nicht mal die Rechnungen hier [[bezahlen]] ...  
+
 💰 [[bezahlen]]  
 [[bezahlt]]  
 haben [[bezahlt]]  

@@ -162,14 +162,14 @@ to call (on the phone)
 
 **Imperativ:**
 
-- Ich [[rufe an|rufe]] die Nummer an.
-- Du [[ruf an|rufe]] die Nummer an.
-- Er [[rufe an|rufe]] die Nummer an.
-- Es [[ruft an|ruft]] die Nummer an.
-- Sie [[rufe an|rufe]] die Nummer an.
-- Wir [[rufen an|rufen]] die Nummer an.
-- Ihr [[ruft an|ruft]] die Nummer an.
-- Sie [[rufen an|rufen]] die Nummer an.
+- (Ich) [[rufe an|rufe]] die Nummer an.
+- (Du) [[ruf an|rufe]] die Nummer an.
+- (Er) [[rufe an|rufe]] die Nummer an.
+- (Es) [[ruft an|ruft]] die Nummer an.
+- (Sie) [[rufe an|rufe]] die Nummer an.
+- (Wir) [[rufen an|rufen]] die Nummer an.
+- (Ihr) [[ruft an|ruft]] die Nummer an.
+- (Sie) [[rufen an|rufen]] die Nummer an.
 
 ---
 Konjunktiv I:

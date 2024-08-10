@@ -23,3 +23,6 @@
 - **Ich sehe [[unser]] Kind**  #Akkusativ (I see our child)
 - **Ich erzähle [[unserem]] Kind eine Geschichte**  #Dativ (I tell our child a story)
 - **Das Spielzeug [[unseres]] Kindes ist bunt**  #Genitiv (Our child’s toy is colorful)
+
+[[Akkusativ possessiv Pronomen]]
+[[Nominativ possessiv Pronomen]]

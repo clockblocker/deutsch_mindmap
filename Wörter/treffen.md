@@ -4,6 +4,8 @@ haben [[getroffen]]
 
 ---
 NIC: Wenn unsere Show zu Ende ist, [[treffen]] wir euch in eurer Wohnung!  
+NIC: Muss sie ihn allein [[treffen]]?  
+
 
 ---
 

@@ -11,6 +11,10 @@ Meines ist die #Genitiv  und #Neuter  form von [[mein]]
 Beispiele:
 
 
+[[Genetiv possessiv Pronomen]]
+
+
+
 
 
 

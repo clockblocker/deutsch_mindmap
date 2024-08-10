@@ -7,6 +7,8 @@ nicht [[ungern]]
 ---
 Und wir tanzen [[gern]]!  
 Ich renoviere gern
+SASCHA: Saaaam – die Eier sind total schwarz … möchtest du [[lieber]] Käse?  
+
 
 ---
 

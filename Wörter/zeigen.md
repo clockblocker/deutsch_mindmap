@@ -4,6 +4,8 @@ haben [[gezeigt]]
 
 ---
 ANNA: Hey Sam, komm … Wir [[zeigen]] dir die Wohnung.
+Ich [[zeig]] es dir!  
+
 
 ---
 

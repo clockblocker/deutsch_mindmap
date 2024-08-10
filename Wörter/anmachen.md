@@ -3,6 +3,7 @@
 haben [[angemacht]]
 
 ---
+nicht [[ausschalten]]
 
 ---
 

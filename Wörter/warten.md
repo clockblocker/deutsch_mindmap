@@ -4,6 +4,9 @@ haben [[gewartet]]
 
 ---
 Ich [[warte]] auf die Post.
+Ich [[warte]] nur noch auf die Antwort!  
+ANNA: [[Warte]] mal. Hier! Das ist gut!  
+
 
 ---
 

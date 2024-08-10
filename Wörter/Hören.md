@@ -3,6 +3,7 @@
 haben [[gehört]]
 
 ---
+Ich habe [[gehört]] … dass Stefan einen Spitznamen hat …  
 
 ---
 
