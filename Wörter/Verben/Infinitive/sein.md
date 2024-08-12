@@ -3,6 +3,8 @@
 sein [[gewesen]]
 
 ---
+Ich bin klein [[gewesen]]
+Ich bin schon [[geblieben]]
 
 ---
 

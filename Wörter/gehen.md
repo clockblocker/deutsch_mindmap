@@ -5,6 +5,8 @@ sein [[gegangen]]
 ---
 ANNA: Ja, wir [[gehen auch immer]] in die Bücherei, nicht wahr?
 Er [[geht]] in die Bücherei und wohnt in einem Museum!  Wirklich! Hihi!
+Frau W. [[geht]] [[gleich]] [[ins]] Wohnzimmer.)
+
 
 ---
 

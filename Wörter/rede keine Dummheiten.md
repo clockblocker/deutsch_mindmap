@@ -1,0 +1,1 @@
+[[rede]] [[kein]]e [[Dummheiten]]

@@ -1,15 +1,23 @@
-Singular: der [[Spaß]]  
-Plural: die [[Späße]]
+🔵 der [[Spaß]]
+die [[Späße]]
 
-ANNA: Nic, Sam, ihr habt bestimmt viel Spaß miteinander!
+Beispiele:
+- Spaß ist [[kurz]] [[Freude]]
+- ANNA: Nic, Sam, ihr habt bestimmt viel [[Spaß]] miteinander!
 
 
 ---
+Synonyme:
+- [[Vergnügen]], [[Freude]], [[Gaudi]]
 
-**Übersetzung**: fun
+---
+**Übersetzung**: fun, enjoyment
 
 ---
 
+Morphems:
+[[Spaß]]
 
-#Substantiv 
-#Masculin
+---
+#Substantiv #Masculin
+

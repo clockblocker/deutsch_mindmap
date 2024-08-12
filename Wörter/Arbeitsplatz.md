@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Arbeits]][[platz]]
+[[Arbeits]][[Platz]]
 
 ---
 #Substantiv #Maskulin

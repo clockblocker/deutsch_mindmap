@@ -4,6 +4,7 @@
 
 ---
 NIC: Aber wieso? Er ist doch so [[nett]] ...
+SAM: Ihr [[ward]] sehr [[nett]] zu mir.  
 
 ---
 

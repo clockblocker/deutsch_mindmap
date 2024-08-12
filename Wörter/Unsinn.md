@@ -2,7 +2,8 @@
 kein Plural
 
 Beispiele:
-- SASCHA: Okay … okay! Aber mach keinen [[Unsinn]]! Stefan ist mein Chef!  
+- SASCHA: Okay … okay! Aber mach keinen [[Unsinn]]! Stefan ist mein Chef! 
+- Christiane, [[rede keinen Unsinn]]!
 
 ---
 Synonyme:

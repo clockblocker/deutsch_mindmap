@@ -5,6 +5,8 @@ haben [[gemocht]]
 ---
 - Ich [[möchte]] mit dir schlafen.
 - ANNA: [[Möchtest]] du was trinken, Nic?
+- [[Möchten]] Sie hier sitzen? ... oder da?  
+
 ---
 
 **Synonyme:**

@@ -4,59 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "55668dccf01a9d00",
+        "id": "359e0cbecd107f6a",
         "type": "tabs",
         "children": [
           {
-            "id": "a674ec9022bf6126",
+            "id": "d8b074a89297dca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Prompt.md",
+                "file": "Texte/Diter/12 08.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "30badb947a288191",
+            "id": "2121428c3c729735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Pronomen/dein.md",
+                "file": "Wörter/denken.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "75adf22666e20a84",
+            "id": "c29f8f1cfcfe0ace",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/geheimsten.md",
+                "file": "Wörter/Ins.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b46346fc06de2b5",
+            "id": "e38eda06879616e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Geheimnis.md",
+                "file": "Wörter/betritt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pronomen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörter/Pronomen/dein.md",
+                "file": "Texte/Diter/12 08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wörter/Pronomen/dein.md",
+                "file": "Texte/Diter/12 08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörter/Pronomen/dein.md"
+                "file": "Texte/Diter/12 08.md"
               }
             }
           }
@@ -190,34 +188,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "30badb947a288191",
+  "active": "d8b074a89297dca1",
   "lastOpenFiles": [
-    "Wörter/sicher.md",
-    "Templates/Prompt.md",
-    "Wörter/aussehende.md",
-    "Wörter/en.md",
-    "Wörter/hoffe.md",
-    "Wörter/deine.md",
-    "Wörter/Pronomen/Pronomenformen/Nominativ possessiv Pronomen.md",
-    "Wörter/ihre.md",
-    "Wörter/eure.md",
-    "Wörter/Unsere.md",
-    "Wörter/Pronomen/Pronomenformen/Akkusativ possessiv Pronomen.md",
-    "Wörter/seine.md",
-    "Wörter/Pronomen/Pronomenformen/meine.md",
-    "Wörter/Pronomen/euer.md",
-    "Wörter/unser.md",
-    "Wörter/Pronomen/ihr.md",
-    "Wörter/Verben/Infinitive/sein.md",
-    "Wörter/Pronomen/dein.md",
-    "Wörter/Pronomen/mein.md",
-    "Wörter/Pronomen/Pronomenformen/Dativ possessiv Pronomen.md",
-    "Wörter/Pronomen/Pronomenformen/Genetiv possessiv Pronomen.md",
-    "Wörter/deiner.md",
-    "Wörter/Pronomen/Pronomenformen/meiner.md",
-    "Wörter/eures.md",
-    "Wörter/unseres.md",
-    "Wörter/ihres.md",
+    "Wörter/mitgenommen.md",
+    "Wörter/mitnehmen.md",
+    "Wörter/nehme mit.md",
+    "Wörter/Nehmen Sie mit.md",
+    "Wörter/Nehmen wir mit.md",
+    "Wörter/Nehmt mit.md",
+    "Wörter/Nimm mit.md",
+    "Wörter/nahmt mit.md",
+    "Wörter/nahmen mit.md",
+    "Wörter/nahmst mit.md",
+    "Wörter/nahm mit.md",
+    "Texte/Diter/12 08.md",
+    "Wörter/gegen.md",
+    "Wörter/Pelzmantel.md",
+    "Wörter/Pelzmäntel.md",
+    "Wörter/dagegen.md",
+    "Wörter/Gar nichts.md",
+    "Wörter/ärgern.md",
+    "Wörter/ärgertet.md",
+    "Wörter/ärgerten.md",
+    "Wörter/ärgertest.md",
+    "Wörter/ärgert.md",
+    "Wörter/ärgere.md",
+    "Wörter/ärgerst.md",
+    "Wörter/geärgert.md",
+    "Wörter/ärgerte.md",
+    "Anhänge/Pasted image 20240812120139.png",
+    "Anhänge/Pasted image 20240812115319.png",
+    "Texte/Diter",
+    "Anhänge/Pasted image 20240810175316.png",
     "Texte/Welt",
     "Anhänge/Pasted image 20240804150741.png",
     "Anhänge/Pasted image 20240729135443.png",
@@ -226,9 +228,6 @@
     "Anhänge/Pasted image 20240729135147.png",
     "Anhänge/Pasted image 20240729134938.png",
     "Anhänge/Pasted image 20240729134659.png",
-    "Anhänge/Pasted image 20240729133936.png",
-    "Anhänge/Pasted image 20240729133800.png",
-    "Anhänge/Pasted image 20240729133715.png",
     "Wörter/Adverbien",
     "smart-chats",
     "Texte/Skripte/Muzzy",
@@ -240,7 +239,6 @@
     "Lektionen/Intensiv",
     "Texte/Gedichte/Kinder",
     "Wortlisten/IMG_5118.MOV",
-    "Texte/Skripte/extra",
     "Texte/Ditor/Positionen.canvas"
   ]
 }

@@ -5,7 +5,7 @@ Sam kann nicht sehr gut Deutsch sprechen.
 Nic findet heraus, dass Sam sehr reich ist.  
 Ist Sam in Sascha verliebt?  
 Ist Sascha in Sam verliebt?  
-Und in wen ist Nic verliebt?  
+Und in [[wen]] ist Nic verliebt?  
 Hier ist die nächste Folge von EXTRA …  
 NIC: JOB: STUNTMAN  
 ALTER: zwanzig, … nein, dreißig – das [[wirkt]] besser.  
@@ -29,7 +29,7 @@ NIC: Möchtest du lieber Käse?
 SASCHA: Was machst du an meinem Computer?  
 NIC: [[Gar nichts]] … Tja, Ladies … [[eines Tages werdet ihr sagen]].  
 	Johnny Depp? Nein, danke!  
-Aber Nic von nebenan!  
+Aber Nic von [[nebenan]]!  
 Der coolste Stuntman der Welt!  
 ANNA: Was? Du – ein Stuntman?  
 NIC: Ja [[klar]]– ich hab einen Job – über’s Internet.  
@@ -46,7 +46,6 @@ BOTH: Was? Sooooo viel?
 ANNA: Ich bin Studentin! Das ist zu [[teuer]] für mich.  
 SASCHA: Ich arbeite. Das ist zu teuer für mich.  
 Wir können nicht mal die [[Rechnungen]] hier [[bezahlen]] ...  
-ANNA: Wir haben nie Geld!  
 ANNA: Wir haben [[nie]] Geld!  
 SASCHA: Ja, wir [[brauchen]] mehr Geld.  
 SAM: Mehr Geld,more money, Ääh, Sascha, Anna …  
@@ -59,7 +58,7 @@ SAM: Ich [[muss]] euch [[etwas]] sagen ...
 SASCHA: Ja?  
 NIC: [[Ich bin sicher]], dass Anna und Sascha [[ein bisschen]] Geld haben.  
 SASCHA: Halt die Klappe Nic.  
-SAM: Ihr ward sehr nett zu mir.  
+SAM: Ihr [[ward]] sehr [[nett]] zu mir.  
 SASCHA/ANNA: Jaaaa?  
 SAM: … ich … [[suche]] mir … einen Job!  
 ANNA: Super! Das ist eine gute Idee, Sam!  
@@ -103,7 +102,7 @@ Ja hallo Stefaaaan! Ja, wie geht’s dir? Stefan?
 SASCHA: Heute Abend? Zum Abendessen? Ja gern Stefan. Ja fantastisch Stefan. Bis dann Stefan.  
 Das war Stefan.  
 A/N/S: Nein!  
-SASCHA: Er will mit mir essen gehen … und über meinen neuen Job sprechen! Jaaaa!  
+SASCHA: Er will mit mir essen gehen … und [[über]] meinen neuen Job sprechen! Jaaaa!  
 SAM: Ohhh! Wer ist Stefan?  
 ANNA: Er ist Saschas Chef.  
 SASCHA: Ja, er ist total reich. Und so intelligent! Und er will mit mir essen gehen!  
@@ -111,7 +110,7 @@ SASCHA: Was ziehe ich an? Hilfe! Ich habe nichts [[anzuziehen]]!
 NIC: Ha – ich [[wette]], Stefan kann nicht Motorrad fahren …  
 ANNA: Ich [[hoffe]], Sascha bekommt einen [[besseren]] Job, aber …  
 Ich habe [[gehört]] … [[dass]] Stefan einen Spitznamen hat …  
-NIC: Nein, welchen Spitznamen?  
+NIC: Nein, welchen [[Spitznamen]]?  
 ANNA: Oktopus!  
 NIC: Muss sie ihn allein [[treffen]]?  
 ANNA: Nein … Sascha [[braucht]] Hilfe …  
@@ -133,35 +132,35 @@ NIC: Kein Problem Sascha! Wir haben alles unter Kontrolle! Du bekommst
 SAM: Ah! Guten Tag.  
 NIC: Guten Tag. Haben Sie einen Tisch für mich?  
 SAM: Hhhmm..ja, ich habe einen Tisch für Sie…  
-Möchten Sie hier sitzen? ... oder da?  
+[[Möchten]] Sie hier sitzen? ... oder [[da]]?  
 NIC: Hier.  
 SAM: Ja bitte? Ahh. Okay.  
 Die Rechnung!  
-NIC: Nein! Nicht die Rechnung, die Speisekarte!  
+NIC: Nein! Nicht die Rechnung, die [[Speisekarte]]!  
 SAM: Oh! Uhh! Die Speisekarte! Ah right!  
 NIC: Nein, nicht die Speisekarte – was gibt es heute?  
 SAM: Zu essen?  
 NIC: Ja, zu essen.  
-SAM: Ja, das Gericht des Tages ist Pudelauflauf …  
-NIC: Pudelauflauf? Du meinst Nudelauflauf!  
+SAM: Ja, das [[Gericht]] [[des Tages]] ist Pudelauflauf …  
+NIC: Pudelauflauf? Du meinst [[Nudelauflauf]]!  
 SAM: Okay, Nudelauflauf … Aber was ist ein Pudelauflauf?  
 NIC: Das ist ein Pudel.  
 SAM: Pudelauflauf! Nudelauflauf, Nudelauflauf, Pudelauflauf!  
 NIC: Hilfe!  
-ANNA: Na, wie läuft’s?  
+ANNA: [[Na]], wie [[läuft]]’s?  
 SAM: Super! Nic ist ein super Lehrer!  
-ANNA: Ja, zeig es uns ‘mal!  
-NIC: Sams Café ist jetzt geschlossen …  
+ANNA: Ja, [[zeig]] es [[uns]] ‘mal!  
+NIC: Sams Café ist jetzt [[geschlossen]] …  
 SAM/ANNA: Awwwwww.  
 VOICE: Ein Paket für Sascha Meier und Anna Schmidt.  
 ANNA: Schon. Ohh! Danke! … Sascha … schau ‘mal!  
-SASCHA: … Für die liebe Anna … von S.  
-… Für die hübsche Sascha …von S … Wer ist S?  
+SASCHA: … [[Für]] die liebe Anna … von S.  
+… Für die [[hübsche]] Sascha …von S … [[Wer]] ist S?  
 SASCHA: Das muss Stefan sein ...  
 ANNA: Oh, was ist es?  
 Ahh! Sascha! Schau ‘mal!  
-Das ist Claudias Kleid aus der Zeitschrift! Woher weiß er das?  
-SASCHA: Er ist so intelligent! Ja, und jetzt ist das hier nicht Claudias Kleid, sondern Saschas Kleid!!! Danke Stefan!  
+Das ist Claudias Kleid aus der [[Zeitschrift]]! Woher weiß er das?  
+SASCHA: Er ist so intelligent! Ja, und jetzt ist das hier nicht Claudias Kleid, [[sondern]] Saschas Kleid!!! Danke Stefan!  
 ANNA: Sascha – dein Chef ist soooo nett!! Warum hat er mir ein Kleid gekauft?  
 SASCHA: Oh – ich hab’ ihm eine E-Mail geschickt – und von dir geschrieben!  
 SAM: Great!  
