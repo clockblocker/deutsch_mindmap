@@ -11,8 +11,12 @@
             "id": "7191863cd0f7fdd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md"
+              }
             }
           }
         ],
@@ -147,6 +154,28 @@
   },
   "active": "7191863cd0f7fdd5",
   "lastOpenFiles": [
+    "Anhänge/Pasted image 20240815085048.png",
+    "Anhänge/Pasted image 20240815085036.png",
+    "Anhänge/Pasted image 20240815085031.png",
+    "Anhänge/Pasted image 20240815085002.png",
+    "Anhänge/Pasted image 20240815084944.png",
+    "Anhänge/Pasted image 20240815084926.png",
+    "Anhänge/Pasted image 20240815084911.png",
+    "Anhänge/Pasted image 20240815084853.png",
+    "Anhänge/Pasted image 20240815084841.png",
+    "Anhänge/Pasted image 20240815084827.png",
+    "Anhänge/Pasted image 20240815084807.png",
+    "Texte/Gedichte/Kinder/Piep, Piep, Piep.md",
+    "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md",
+    "Texte/Gedichte/Kinder/Buhe",
+    "Texte/Gedichte/Kinder/Kuckuck, Kuckuck.md",
+    "Texte/Gedichte/Kinder/Hoppe, hoppe Reiter.md",
+    "Texte/Gedichte/Kinder/Hänschen klein.md",
+    "Texte/Gedichte/Kinder/Fingerspiel.md",
+    "Texte/Gedichte/Kinder/Ein Männlein steht im Walde.md",
+    "Texte/Gedichte/Kinder/Der Mond ist aufgegangen.md",
+    "Texte/Gedichte/Kinder/Backe, backe Kuchen.md",
+    "Texte/Skripte/extra/Extra 4.md",
     "Wörter/geschickt.md",
     "Wörter/Ehre.md",
     "Wörter/Feen.md",
@@ -162,29 +191,8 @@
     "Wörter/schaffen.md",
     "Wörter/streiten.md",
     "Wörter/schaffet.md",
-    "Wörter/schaffest.md",
-    "Wörter/schufen.md",
-    "Wörter/schafftet.md",
-    "Wörter/schafften.md",
-    "Wörter/schafftest.md",
-    "Wörter/schafft.md",
-    "Wörter/schaffst.md",
-    "Wörter/geschaffen.md",
-    "Wörter/geschafft.md",
-    "Wörter/schuf.md",
-    "Wörter/schaffte.md",
-    "Anhänge/Pasted image 20240812120139.png",
-    "Anhänge/Pasted image 20240812115319.png",
     "Texte/Diter",
-    "Anhänge/Pasted image 20240810175316.png",
     "Texte/Welt",
-    "Anhänge/Pasted image 20240804150741.png",
-    "Anhänge/Pasted image 20240729135443.png",
-    "Anhänge/Pasted image 20240729135330.png",
-    "Anhänge/Pasted image 20240729135226.png",
-    "Anhänge/Pasted image 20240729135147.png",
-    "Anhänge/Pasted image 20240729134938.png",
-    "Anhänge/Pasted image 20240729134659.png",
     "Wörter/Adverbien",
     "smart-chats",
     "Texte/Skripte/Muzzy",
@@ -195,7 +203,6 @@
     "Lektionen/Intensiv/A2.1 Arbeitsbuch",
     "Lektionen/Intensiv",
     "Texte/Gedichte/Kinder",
-    "Wortlisten/IMG_5118.MOV",
     "Texte/Ditor/Positionen.canvas"
   ]
 }
