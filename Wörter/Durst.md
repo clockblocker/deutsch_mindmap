@@ -2,7 +2,7 @@
 die [[Durste]] (selten verwendet)
 
 Beispiele:
-
+- Was wollen wir trinken? So ein [[Durst]] 
 - SASCHA: Okay, ich hab’ [[Durst]].  
 - Der Herr Einbrecher hat wohl großen [[Durst]] gehabt.
 

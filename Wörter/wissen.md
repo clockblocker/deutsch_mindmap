@@ -4,6 +4,9 @@ haben [[gewusst]]
 
 ---
 SASCHA:[[ Ich hab’s gewusst]]. Was machst du nur? Spinnst du?  
+Ja, das [[wissen|weiß]] ich. Aber wo ist Sascha?
+Keiner [[weiß]] wie lang 
+
 
 ---
 

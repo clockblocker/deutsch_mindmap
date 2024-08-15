@@ -1,5 +1,5 @@
 NIC: Und du hast Apfelsinen [[statt]] Äpfel gekauft!
-
+Ich [[nehme]] [[statt]] der Suppe einen Salat
 ANNA: Sam hat 10 Kilo Apfelsinen eingekauft – [[statt]] 10 Äpfel.
 
 instead of

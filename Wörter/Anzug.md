@@ -1,7 +1,7 @@
 der [[Anzug]]
 die [[Anzüge]]
 
-Beispiele:
+Im Vatis Schrank ist nur noch ein alter [[Anzug]].
 
 ---
 

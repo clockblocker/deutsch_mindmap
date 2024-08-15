@@ -1,4 +1,5 @@
 die [[Farbe]]
 
 
-Ja, das [[weiß]] ich. Aber wo ist Sascha?
+Ja, das [[wissen|weiß]] ich. Aber wo ist Sascha?
+Keiner [[wissen|weiß]] wie lang 

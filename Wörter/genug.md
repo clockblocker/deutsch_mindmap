@@ -1,4 +1,6 @@
 ANNA: Okay, Eier. Aber zwölf Eier sind doch [[genug]]!
+Es wird [[genug]] für alle sein 
+
 
 
 1. **[[Ausreichend]]**

@@ -1,31 +1,22 @@
-**die** [[Brust]]
+🔴 die [[Brust]]
+die [[Brüste]]
 
 Beispiele:
+- Hab' es aus meiner [[Brust]] gerissen
 
-- Er hat sich beim Sport die [[Brust]] verletzt.
-- Die [[Brust]] des Schauspielers ist muskulös.
-- Sie trägt ein enges Oberteil, das ihre [[Brust]] betont.
 
 ---
 Synonyme:
-- [[Torso]]
-- [[Brustkorb]]
-- [[Oberkörper]]
+- [[Thorax]], [[Oberkörper]], [[Brustkorb]]
 
 ---
-**Übersetzung**:
-- chest
+**Übersetzung**: chest, breast
 
 ---
 
-#Substantiv
-#Feminin
+Morphems:
+[[Brust]]
 
 ---
+#Substantiv #Feminin
 
-Morphems of only noun:
-- [[Brust]]
-
----
-
-Let me know if you need any more information!

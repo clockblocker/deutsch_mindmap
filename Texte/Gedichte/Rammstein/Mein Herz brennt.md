@@ -11,7 +11,7 @@ Ein [[heller]] [[Schein]] [[am]] [[Firmament]]
 Mein [[Herz]] brennt!
 
 Sie kommen zu euch in der Nacht  
-Dämonen, Geister, schwarze Feen  
+[[Dämonen]], [[Geister]], schwarze [[Feen]]  
 Sie kriechen aus dem Kellerschacht  
 Und werden unter euer Bettzeug sehen
 

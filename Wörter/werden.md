@@ -7,6 +7,10 @@ ANNA: Ich [[würde]] dir antworten …
 Bella und Struppi! … Aber … Wir [[dachten]], ihr [[wärt]] Tänzerinnen ...  
 NIC: Sam – hier [[werden]] wir sie finden. Girls, Girls, Girls! 
 Tja, Ladies [[eines Tages werdet ihr sagen]] Johnny Depp? Nein, danke!  
+Es [[wird]] genug für alle sein 
+Und das [[wird]] keine Plagerei 
+
+
 
 
 ---

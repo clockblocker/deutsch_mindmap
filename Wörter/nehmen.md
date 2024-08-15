@@ -3,6 +3,9 @@
 haben [[genommen]]
 
 ---
+Ich [[nehme]] statt der Suppe einen Salat
+
+---
 
 Synonyme:
 - [[greifen]], [[holen]], [[erfassen]]

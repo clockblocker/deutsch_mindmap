@@ -161,15 +161,15 @@ ANNA: Oh, was ist es?
 Ahh! Sascha! Schau ‘mal!  
 Das ist Claudias Kleid aus der [[Zeitschrift]]! Woher weiß er das?  
 SASCHA: Er ist so intelligent! Ja, und jetzt ist das hier nicht Claudias Kleid, [[sondern]] Saschas Kleid!!! Danke Stefan!  
-ANNA: Sascha – dein Chef ist soooo nett!! Warum hat er mir ein Kleid gekauft?  
-SASCHA: Oh – ich hab’ ihm eine E-Mail geschickt – und von dir geschrieben!  
+ANNA: Sascha – dein Chef ist soooo [[nett]]!! Warum hat er mir ein Kleid gekauft?  
+SASCHA: Oh – ich hab’ ihm eine E-Mail [[schicken|geschickt]] – und von dir geschrieben!  
 SAM: Great!  
 NIC: Yeah, great.  
 SAM: Tonight Sacha’s boss is coming to talk about her very important new job. And to make things go smoothly Nico and I are serving dinner!  
 SASCHA: Schwesterherz,  
 Stefan, mein Chef, kommt zum Essen.  
 Er will über meinen neuen Job sprechen!  
-Ich bin so nervös! Er hat mir sogar ein Kleid geschickt!  
+Ich bin so nervös! Er hat mir [[sogar]] ein Kleid geschickt!  
 NICO: Sein Spitzname ist "Oktopus"! Igitt!  
 Sam und ich werden ein nettes Essen für Sascha und ihren Octopus organisieren ...  
 SAM: Yes, I know I’ve never picked up a tray in my life … but Nico has trained me well!  
@@ -182,10 +182,10 @@ SASCHA: Hallo Stefan.
 STEFAN: Saschaaaa! Da ist ja meine Prinzessin!  
 SASCHA: Komm rein Stefan.  
 STEFAN: Sascha, du siehst fantastisch aus!  
-Und du bist sicher Anna... Seid ihr Schwestern? Und eure Kleider!  
+Und du bist [[sicher]] Anna... Seid ihr [[Schwestern]]? Und eure Kleider!  
 Fantastisch!  
 A/S: Oh danke Stefan, danke.  
-STEFAN: Keine Ursache. Es ist mir eine Ehre.  
+STEFAN: [[Keine Ursache]]. Es ist mir eine [[Ehre]].  
 ANNA: Das hier ist Nic.  
 NIC: Hi.  
 SASCHA: Und das hier ist Sam … aus Amerika.  

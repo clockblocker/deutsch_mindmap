@@ -1,6 +1,4 @@
-🔵 [[drin]]
-
----
+Herr W.:  Ja, der Umschlag ist noch da,   aber das Geld ist nicht mehr [[drin]].
 Erich:       Ein Einbrecher? Oh, vielleicht ist er sogar [[noch drin]]?
 
 

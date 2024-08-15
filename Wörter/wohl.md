@@ -6,6 +6,7 @@ nicht [[unwohl]]
 
 ---
 She [[fühlte]] sich nicht [[wohl]]
+Herr W.:  Er hat sie [[wohl]] nicht für echt gehalten.
 
 ---
 

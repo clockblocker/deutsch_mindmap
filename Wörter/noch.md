@@ -3,6 +3,8 @@ Hast du [[immer noch]] so viele Pickel?
 „Hallo! Kennst du mich [[noch]]?“
 Ich [[warte]] [[nur noch]] auf die Antwort!  
 Ein Einbrecher? Oh, vielleicht ist er sogar [[noch drin]]?
+der Umschlag mit den fünfhundert Mark [[noch]] unter dem Teppich liegt
+Jetzt muß ich gleich [[nachsehen]], ob mein Schmuck [[noch]] da ist
 
 
 

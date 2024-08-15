@@ -3,6 +3,9 @@
 haben [[mitgenommen]]
 
 ---
+Alles hat er [[mitgenommen]], nur meine Perlenkette nicht.
+
+---
 
 Synonyme:
 - [[einpacken]], [[mitführen]], [[transportieren]]

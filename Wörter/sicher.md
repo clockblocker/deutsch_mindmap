@@ -7,6 +7,8 @@ nicht [[unsicher]]
 ---
 NIC: Ich bin [[sicher]], dass Anna und Sascha ein bisschen Geld haben.  
 Er hat sicher das offene Küchenfenster gesehen
+ [[Sicher]] hat der Einbrecher danach gesucht.
+ Und du bist [[sicher]] Anna.
 
 
 ---

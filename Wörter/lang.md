@@ -3,6 +3,10 @@
 [[am]] [[längsten]]
 
 ---
+Was wollen wir trinken, sieben Tage [[lang]]? 
+
+
+---
 Synonyms:
 - [[langwierig]]
 - [[ausgedehnt]]

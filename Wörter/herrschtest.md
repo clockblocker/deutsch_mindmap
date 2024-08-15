@@ -1,0 +1,1 @@
+- Damals [[herrschten]] andere Regeln.

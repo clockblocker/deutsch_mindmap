@@ -3,6 +3,7 @@
 haben [[angefasst]]
 
 ---
+Dann wollen wir schaffen, komm, [[anfassen|fass' an]] 
 
 ---
 
@@ -26,7 +27,7 @@ haben [[angefasst]]
 ---
 
 **Übersetzung**:
-to touch, to handle
+to touch, to handle, get to work
 
 ---
  #Verb  #Trennbar

@@ -3,6 +3,10 @@
 [[am]] [[kleinsten]]
 
 ---
+Dann kriegt der Frust uns nicht mehr [[klein]] 
+
+
+---
 Synonyme:
 - [[winzig]]
 - [[gering]]

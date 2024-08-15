@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "359e0cbecd107f6a",
+        "id": "d21d4f994e0232f4",
         "type": "tabs",
         "children": [
           {
-            "id": "d8b074a89297dca1",
+            "id": "7191863cd0f7fdd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Diter/12 08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2121428c3c729735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/denken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c29f8f1cfcfe0ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/Ins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e38eda06879616e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wörter/betritt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "II",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -121,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Diter/12 08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Diter/12 08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Texte/Diter/12 08.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -188,34 +145,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d8b074a89297dca1",
+  "active": "7191863cd0f7fdd5",
   "lastOpenFiles": [
-    "Wörter/mitgenommen.md",
-    "Wörter/mitnehmen.md",
-    "Wörter/nehme mit.md",
-    "Wörter/Nehmen Sie mit.md",
-    "Wörter/Nehmen wir mit.md",
-    "Wörter/Nehmt mit.md",
-    "Wörter/Nimm mit.md",
-    "Wörter/nahmt mit.md",
-    "Wörter/nahmen mit.md",
-    "Wörter/nahmst mit.md",
-    "Wörter/nahm mit.md",
-    "Texte/Diter/12 08.md",
-    "Wörter/gegen.md",
-    "Wörter/Pelzmantel.md",
-    "Wörter/Pelzmäntel.md",
-    "Wörter/dagegen.md",
-    "Wörter/Gar nichts.md",
-    "Wörter/ärgern.md",
-    "Wörter/ärgertet.md",
-    "Wörter/ärgerten.md",
-    "Wörter/ärgertest.md",
-    "Wörter/ärgert.md",
-    "Wörter/ärgere.md",
-    "Wörter/ärgerst.md",
-    "Wörter/geärgert.md",
-    "Wörter/ärgerte.md",
+    "Wörter/geschickt.md",
+    "Wörter/Ehre.md",
+    "Wörter/Feen.md",
+    "Wörter/gerissen.md",
+    "Wörter/Brust.md",
+    "Wörter/für ein Leben.md",
+    "Wortlisten/Custom/1000 am häufigsten.md",
+    "Wörter/en.md",
+    "Wörter/kriegen.md",
+    "Wörter/kriegt.md",
+    "Wörter/Zwang.md",
+    "Texte/Gedichte/Was wollen wir trinken.md",
+    "Wörter/schaffen.md",
+    "Wörter/streiten.md",
+    "Wörter/schaffet.md",
+    "Wörter/schaffest.md",
+    "Wörter/schufen.md",
+    "Wörter/schafftet.md",
+    "Wörter/schafften.md",
+    "Wörter/schafftest.md",
+    "Wörter/schafft.md",
+    "Wörter/schaffst.md",
+    "Wörter/geschaffen.md",
+    "Wörter/geschafft.md",
+    "Wörter/schuf.md",
+    "Wörter/schaffte.md",
     "Anhänge/Pasted image 20240812120139.png",
     "Anhänge/Pasted image 20240812115319.png",
     "Texte/Diter",
