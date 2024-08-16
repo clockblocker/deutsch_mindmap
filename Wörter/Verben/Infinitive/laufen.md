@@ -5,6 +5,9 @@ sein [[gelaufen]]
 ---
 ANNA: Na, wie [[läuft]]’s?  
 
+*Jedoch nach Hause [[lief]] der Hund*  
+*und trug die Peitsche in dem Mund*
+
 ---
 
 **Synonyme:**

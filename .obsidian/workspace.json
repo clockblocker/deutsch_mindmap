@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d21d4f994e0232f4",
+        "id": "e1351764d7c961fb",
         "type": "tabs",
         "children": [
           {
-            "id": "7191863cd0f7fdd5",
+            "id": "c5ab12f3e18d2220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md",
+                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f0a53ba66e9ddce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Wohin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md",
+                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md",
+                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md"
+                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md"
               }
             }
           }
@@ -152,8 +164,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7191863cd0f7fdd5",
+  "active": "c5ab12f3e18d2220",
   "lastOpenFiles": [
+    "Texte/Skripte/extra/Extra 4.md",
+    "Wörter/Treppe.md",
+    "Wörter/Treppen.md",
+    "Wörter/raten.md",
+    "Wörter/riete.md",
+    "Wörter/rietet.md",
+    "Wörter/rieten.md",
+    "Wörter/rietest.md",
+    "Wörter/ratet.md",
+    "Wörter/rät.md",
+    "Wörter/rätst.md",
+    "Wörter/rate.md",
+    "Wörter/geraten.md",
+    "Wörter/riet.md",
+    "Wörter/wirklich.md",
+    "Wörter/weißt.md",
+    "Wörter/wissen.md",
+    "Wörter/echter.md",
+    "Wörter/echt.md",
+    "Wörter/runter.md",
+    "Wörter/letzte.md",
+    "Wörter/Wohin.md",
+    "Wörter/vorher.md",
+    "Wörter/sparen.md",
+    "Wörter/gespart.md",
+    "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter b.md",
+    "Anhänge/Pasted image 20240816075949.png",
+    "Anhänge/Pasted image 20240815214334.png",
+    "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter",
     "Anhänge/Pasted image 20240815085048.png",
     "Anhänge/Pasted image 20240815085036.png",
     "Anhänge/Pasted image 20240815085031.png",
@@ -162,35 +203,7 @@
     "Anhänge/Pasted image 20240815084926.png",
     "Anhänge/Pasted image 20240815084911.png",
     "Anhänge/Pasted image 20240815084853.png",
-    "Anhänge/Pasted image 20240815084841.png",
-    "Anhänge/Pasted image 20240815084827.png",
-    "Anhänge/Pasted image 20240815084807.png",
-    "Texte/Gedichte/Kinder/Piep, Piep, Piep.md",
-    "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter.md",
     "Texte/Gedichte/Kinder/Buhe",
-    "Texte/Gedichte/Kinder/Kuckuck, Kuckuck.md",
-    "Texte/Gedichte/Kinder/Hoppe, hoppe Reiter.md",
-    "Texte/Gedichte/Kinder/Hänschen klein.md",
-    "Texte/Gedichte/Kinder/Fingerspiel.md",
-    "Texte/Gedichte/Kinder/Ein Männlein steht im Walde.md",
-    "Texte/Gedichte/Kinder/Der Mond ist aufgegangen.md",
-    "Texte/Gedichte/Kinder/Backe, backe Kuchen.md",
-    "Texte/Skripte/extra/Extra 4.md",
-    "Wörter/geschickt.md",
-    "Wörter/Ehre.md",
-    "Wörter/Feen.md",
-    "Wörter/gerissen.md",
-    "Wörter/Brust.md",
-    "Wörter/für ein Leben.md",
-    "Wortlisten/Custom/1000 am häufigsten.md",
-    "Wörter/en.md",
-    "Wörter/kriegen.md",
-    "Wörter/kriegt.md",
-    "Wörter/Zwang.md",
-    "Texte/Gedichte/Was wollen wir trinken.md",
-    "Wörter/schaffen.md",
-    "Wörter/streiten.md",
-    "Wörter/schaffet.md",
     "Texte/Diter",
     "Texte/Welt",
     "Wörter/Adverbien",
@@ -202,7 +215,6 @@
     "Lektionen/Intensiv/A2.1 Kursbuch",
     "Lektionen/Intensiv/A2.1 Arbeitsbuch",
     "Lektionen/Intensiv",
-    "Texte/Gedichte/Kinder",
     "Texte/Ditor/Positionen.canvas"
   ]
 }

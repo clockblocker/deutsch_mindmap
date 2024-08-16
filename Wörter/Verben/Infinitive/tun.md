@@ -4,9 +4,9 @@ haben [[getan]]
 
 ---
 - ANNA: Aber Sascha – du hast sooo viel zu [[tun]]. 
-- ANNA: Mir tun die Beine [[weh]]!  
-- 
-- Ich weiß nicht, was ich tun soll. 
+- ANNA: Mir [[tun]] die Beine [[weh]]!  
+- SAM: Sorry Sascha, [[es tut mir so leid]].  
+- Ich weiß nicht, was ich [[tun]] soll. 
 - [[Was tut denn weh?]]
 - [[Was kann ich tun?]] 
 - [[Meine Körperteil tut weh]]

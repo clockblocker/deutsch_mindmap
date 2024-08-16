@@ -5,6 +5,7 @@
 nicht [[unfertig]]
 
 ---
+SAM: Das Essen ist [[fertig]]! Bitte setzt euch!  
 
 ---
 

@@ -1,6 +1,10 @@
-🚶‍♂️ [[treten]]
+👟 [[treten]]
 [[trat]]
-sein [[getreten]]
+sein [[getreten]]\
+
+---
+*und schlug den Hund, der heulte sehr,*  
+*und [[trat]] und schlug ihn immer mehr.*  
 
 ---
 

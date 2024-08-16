@@ -2,6 +2,11 @@
 [[letzter]]
 [[am]] [[letzten]]
 
+---
+SASCHA: Ja, Sven Väth war [[letzte]] Woche auch da!  
+
+---
+
 Synonyme:
 - [[abschließend]]
 - [[zuletzt]]

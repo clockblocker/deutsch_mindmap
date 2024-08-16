@@ -3,6 +3,10 @@
 haben [[geschickt]]
 
 ---
+SASCHA: … und die Kleider [[schicken]] wir zurück …  
+
+
+---
 
 Synonyme:
 - [[senden]], [[verschicken]], [[übermitteln]]

@@ -2,6 +2,11 @@
 [[echter]]
 [[am]] [[echtesten]]
 
+---
+NIC: Hey Sam, du bist ein [[echter]] Freund 
+
+---
+
 Nicht [[anwendbar]]
 
 Synonyme:

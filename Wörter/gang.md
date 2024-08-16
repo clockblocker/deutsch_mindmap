@@ -2,7 +2,7 @@
 die [[Gänge]]
 
 Beispiele:
-
+- SAM: Der zweite [[Gang]]! Hunde-Suppe!  
 - [[Eingang]], [[Ausgang]]
 
 Synonyme:

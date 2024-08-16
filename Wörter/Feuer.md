@@ -3,6 +3,8 @@ die [[Feuer]]
 
 ---
 SASCHA: [[Feuer]]? Wo brennt es!?  
+NIC: Einen heißen Kaffee. Das hier wird ihm [[Feuer]] geben.  
+
 
 ---
 

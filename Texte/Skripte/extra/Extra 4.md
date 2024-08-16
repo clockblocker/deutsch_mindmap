@@ -192,59 +192,59 @@ SASCHA: Und das hier ist Sam … aus Amerika.
 STEFAN: Aus Amerika!  
 SAM: Hello.  
 STEFAN: Hallo Sam.Wie geht’s Präsident Bush?  
-SAM: Sehr gut danke. Meine Eltern essen oft im Weißen Haus.  
+SAM: Sehr gut danke. Meine Eltern essen [[oft]] im Weißen Haus.  
 STEFAN: Ach ja? Und ist das ein gutes Restaurant?  
 SAM: Nein, es ist das Haus des Präsidenten.  
 SASCHA: Danke Sam.  
 Sam spricht nicht so gut Deutsch.  
 STEFAN: Ach so? Komisch.  
 STEFAN: Also Sascha, so eine schöne Wohnung ... für eine wunderschöne Lady!  
-SAM: Das Essen ist fertig! Bitte setzt euch!  
-NIC: Hey Sam! Na los!  
+SAM: Das Essen ist [[fertig]]! Bitte [[setzt]] euch!  
+NIC: Hey Sam! [[Na los]]!  
 SAM: Heute gibt es Stinke-Brot mit Ei.  
-STEFAN: Lecker! Mein Lieblingsessen. Stinke-Brot mit Ei!  
-SASCHA: Schinkenbrot.  
+STEFAN: Lecker! Mein Lieblingsessen. [[Stinke]]-Brot mit Ei!  
+SASCHA: [[Schinken]]brot.  
 SAM: Ach sorry .... Schinkenbrot mit Ei!  
-STEFAN: Haaha – der Typ ist gut! Wo habt ihr den denn her? Aus dem weißen Haus?  
+STEFAN: Haaha – der Typ ist gut! Wo habt ihr den denn [[her]]? Aus dem weißen Haus?  
 Hahahaha … Stinke-Brot mit Ei!  
-Es riecht wie Stinke-brot.  
-SASCHA: Also Stefan, wollen wir über die Arbeit reden?  
-STEFAN: Sascha, dein Lächeln … ist so süß.  
+Es [[riecht]] wie Stinke-brot.  
+SASCHA: Also Stefan, wollen wir über die Arbeit [[reden]]?  
+STEFAN: Sascha, dein [[Lächeln]] … ist so süß.  
 NIC: Dein Lächeln ist total falsch.  
-STEFAN: … Ja Sascha, und mit deiner Figur ... wirst du auch viel Erfolg haben …  
+STEFAN: … Ja Sascha, und mit deiner Figur ... [[wirst]] du auch viel [[Erfolg]] haben …  
 STEFAN: Ja, ich glaube, … du bekommst einen besseren Job …  
-SAM: Der zweite Gang! Hunde-Suppe!  
+SAM: Der zweite [[Gang]]! Hunde-Suppe!  
 STEFAN: Was? Hunde-Suppe?  
-SASCHA: Hühnersuppe!  
+SASCHA: [[Hühner]]suppe!  
 SAM: Oh … sorry ... Hühnersuppe!  
-STEFAN: Haahahhhhha … Ich wette, es schmeckt wie Hunde-Suppe! Was Nic!  
+STEFAN: Haahahhhhha … Ich [[wette]], es [[schmeckt]] wie Hunde-Suppe! Was Nic!  
 NIC: Ja, das ware schön.  
 STEFAN: Ja Sascha, du willst also einen besseren Job?  
 SASCHA: Hmm, ja Stefan … also … ich …  
 STEFAN: Ja, und wie sehr willst du einen neuen Job? MMmh?  
-STEFAN: Du blöder ....  
+STEFAN: Du [[blöder]] ....  
 SAM: I’m sorry man. Sorry Sascha.  
-STEFAN: Bring mir einen Kaffee du Trottel!  
+STEFAN: Bring mir einen Kaffee du [[Trottel]]!  
 ANNA: Trottel!  
-STEFAN: Also zurück zum Thema, lass uns über dich und mich reden. …Sascha.. du hast so schöne Augen …  
-NIC: … Warte nur, du Schleimer!  
+STEFAN: Also [[zurück zum Thema]], [[lass]] uns über dich und mich reden. …Sascha.. du hast so schöne Augen …  
+NIC: … [[Warte nur]], du [[Schleimer]]!  
 STEFAN: Igitt! Der ist kalt!  
 Ich will einen heißen Kaffee!  
 SAM: Einen heißen Kaffee, hot coffee. Er will einen heißen Kaffee....  
-NIC: Einen heißen Kaffee. Das hier wird ihm Feuer geben.  
+NIC: Einen heißen Kaffee. Das hier [[wird]] ihm [[Feuer]] geben.  
 BOTH: Super!  
 STEFAN: Man muss hart arbeiten … für sein Geld … hart arbeiten ... Igitt!!!  
-Du Idiot! Willst du mich vergiften?  
-SASCHA: Hey, spinnst du? Sprich nicht so mit meinem Freund!  
-SASCHA: … behalt deinen Job, du Schleimer, du Oktopus!  
-SASCHA: … und die Kleider schicken wir zurück …  
+Du Idiot! Willst du mich [[vergiften]]?  
+SASCHA: Hey, [[spinnst]] du? Sprich nicht so mit meinem Freund!  
+SASCHA: … [[behalt]] deinen Job, du [[Schleimer]], du Oktopus!  
+SASCHA: … und die Kleider [[schicken]] wir zurück …  
 STEFAN: Welche Kleider?  
 SASCHA: Na die hier. Die hast du uns doch geschickt! Oder nicht?  
-STEFAN: Ich? Ich würde nie Geld für dich ausgeben! Niemals!  
+STEFAN: Ich? Ich würde nie Geld für dich [[ausgeben]]! Niemals!  
 SASCHA: Tschüs Stefan!  
-STEFAN: Du bist gefeuert!  
-SASCHA: Zu spät! Ich kündige!  
-SAM: Sorry Sascha, es tut mir so leid.  
+STEFAN: Du bist [[gefeuert]]!  
+SASCHA: Zu spät! Ich [[kündige]]!  
+SAM: Sorry Sascha, [[es tut mir so leid]].  
 SASCHA: Das macht nichts, Sam! Geld ist nicht alles!  
 NIC: Hey warte mal! –Wenn Stefan die Kleider nicht geschickt hat … Wer dann?  
 SASCHA: Für die hübsche Sascha …von S. ... S. ist nicht Stefan ...  
@@ -253,25 +253,25 @@ SASCHA: Du? Aber warum schickst du uns Kleider?
 SAM: … als Dankeschön …  
 ANNA: Sam, die Kleider sind total teuer! Woher hast du das Geld?  
 SAM: Mmh … Sascha und Anna … ich muss euch was sagen …  
-NIC: Oh nein. Jetzt geht das wieder los …  
+NIC: Oh nein. [[Jetzt geht das wieder los]] …  
 SAM: In Amerika … habe ich … Geld ...  
-SASCHA: Ja, weil du in einem Museum arbeitest.  
+SASCHA: Ja, [[weil]] du in einem Museum arbeitest.  
 ANNA: Ja! Das Museum auf den Fotos!  
 SAM: Ich wohne in einem Museum.  
 ANNA: Ich glaube er arbeitet in einem Museum.  
-NIC: Ja! Genau, genau und du hast das Geld dafür gespart!  
+NIC: Ja! Genau, genau und du hast das Geld [[dafür]] [[sparen|gespart]]!  
 SAM: … ja … hahaha!  
-SASCHA: Aber vorher gehen wir aus!  
+SASCHA: Aber [[vorher]] gehen wir aus!  
 ANNA: In einen Club! Hey, Nic und Sam! Kommt mit!  
-SASCHA: Ja, aber wohin?  
+SASCHA: Ja, aber [[wohin]]?  
 ANNA: Wir gehen ins „Babylon“!  
 SASCHA: Nein! Das ist total out!  
 ANNA: Okay. Wollen wir in den „Energy-Club“ gehen?  
-SASCHA: Ja, Sven Väth war letzte Woche auch da!  
+SASCHA: Ja, Sven Väth war [[letzte]] Woche auch da!  
 ANNA: Nein ...  
-SASCHA: Jungs wir gehen schon mal runter.  
-NIC: Hey Sam, du bist ein echter Freund … weißt du Geld ist wirklich nicht alles ... Und was hast du für mich gekauft?  
-SAM: Rate mal!  
+SASCHA: Jungs wir gehen schon mal [[runter]].  
+NIC: Hey Sam, du bist ein [[echter]] Freund … [[weißt]] du Geld ist [[wirklich]] nicht alles ... Und was hast du für mich gekauft?  
+SAM: [[raten|Rate]] mal!  
 NIC: Mensch Sam, das ist ja Klasse!  
 NIC: Er hat mir kein Motorrad gekauft. Er hat mir kein Motorrad gekauft. Er hat mir kein Motorrad gekauft.  
 SAM: Tada!  
@@ -281,7 +281,7 @@ SAM: It’s ok, don’t mention it.
 NIC: Komm – ich nehm’ dich mit …  
 NIC: Sag mal Sam, willst du immer noch als Kellner arbeiten?  
 SAM: Nein! Ich werde Stuntman. So wie du, Nic … Stuntman!  
-NIC: Die Treppe!  
+NIC: Die [[Treppe]]!  
 S/N: Auaaaaaa!  
 SAM: Mum, have we got medical insurance?  
 Jetzt heißt es tschüs bis zum nächsten Mal.  

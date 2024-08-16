@@ -6,6 +6,9 @@ haben [[gelassen]]
 Und ach ... [[lass]] die Tarantel nicht rein
 NIC: [[Lass]] mich mal sehen …  
 
+STEFAN: Also zurück zum Thema, [[lass]] uns über dich und mich reden. 
+
+
 
 ---
 

@@ -4,6 +4,8 @@ haben [[gerissen]]
 
 ---
 - Hab' es aus meiner Brust [[gerissen]]
+- Er fing die Fliegen in dem Haus  
+  und [[riss|riß]] ihnen die Flügel aus.  
 
 ---
 

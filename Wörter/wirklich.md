@@ -5,6 +5,7 @@ am [[wirklichsten]]
 ---
 Er geht in die Bücherei und wohnt in einem Museum! [[wirklich]]! Hihi!
 Das geht [[wirklich]] nicht.
+NIC: Hey Sam, du bist ein [[echter]] Freund … weißt du Geld ist [[wirklich]] nicht alles 
 
 ---
 
@@ -15,5 +16,13 @@ Das geht [[wirklich]] nicht.
 #Adjektiv
 
 
-[[echt]]
+[[wirklich]] Synonyms:
+- [[tatsächlich]]
+- [[echt]]
+- [[wahrhaftig]]
+- [[faktisch]]
+- [[in der Tat]]
+- [[authentisch]]
+- [[wahrhaft]]
+- [[ernsthaft]]
 

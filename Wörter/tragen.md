@@ -5,6 +5,9 @@ haben [[getragen]]
 ---
 SASCHA: Du musst Designer- Klamotten [[tragen]]…
 
+Jedoch nach Hause lief der Hund  
+und [[trug]] die Peitsche in dem Mund
+
 ---
 
 **Synonyme:**

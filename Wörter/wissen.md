@@ -3,9 +3,11 @@
 haben [[gewusst]]
 
 ---
-SASCHA:[[ Ich hab’s gewusst]]. Was machst du nur? Spinnst du?  
-Ja, das [[wissen|weiß]] ich. Aber wo ist Sascha?
-Keiner [[weiß]] wie lang 
+- SASCHA:[[ Ich hab’s gewusst]]. Was machst du nur? Spinnst du?  
+- Ja, das [[wissen|weiß]] ich. Aber wo ist Sascha?
+- Keiner [[weiß]] wie lang 
+- NIC: Hey Sam, du bist ein echter Freund … [[weißt]] du Geld ist wirklich nicht alles 
+
 
 
 ---

@@ -4,6 +4,8 @@ haben [[geredet]]
 
 ---
 Erich, [[rede keine Dummheiten]]! Dazu ist jetzt nicht der richtig Augenblick. 
+SASCHA: Also Stefan, wollen wir über die Arbeit [[reden]]?  
+
 
 ---
 

@@ -5,6 +5,11 @@ haben [[genommen]]
 ---
 Ich [[nehme]] statt der Suppe einen Salat
 
+*Die Peitsche hat er mitgebracht*  
+*und [[nimmt]] sie sorglich sehr in acht.*
+
+[[in Acht nehmen]]
+
 ---
 
 Synonyme:
