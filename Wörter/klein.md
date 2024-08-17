@@ -3,7 +3,7 @@
 [[am]] [[kleinsten]]
 
 ---
-Dann kriegt der Frust uns nicht mehr [[klein]] 
+Dann kriegt der Frust uns nicht mehr [[klein]] ([[Kriegt uns klein]])
 
 
 ---

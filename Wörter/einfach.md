@@ -2,7 +2,7 @@
 [[einfacher]]
 [[am]] [[einfachsten]]
 
-nicht [[kompliziert]]
+nicht [[kompliziert]]/[[schwierig]]
 
 ---
 NIC: Im Internet flirten? Ist total [[einfach]]!  

@@ -2,7 +2,7 @@ Episode Four: Sam [[Sucht]] Einen Job
 Das ist die [[Geschichte]] von Anna und Sascha aus Berlin.  
 Sie haben [[Besuch]] von Sam aus Amerika.  
 Sam kann nicht sehr gut Deutsch sprechen.  
-Nic findet heraus, dass Sam sehr reich ist.  
+Nic findet [[heraus]], dass Sam sehr reich ist.  
 Ist Sam in Sascha verliebt?  
 Ist Sascha in Sam verliebt?  
 Und in [[wen]] ist Nic verliebt?  
@@ -87,7 +87,7 @@ NIC: Ja, hey, kein Problem! Ich [[zeig]] es dir!
 SAM: Super!  
 SAM: Mum! Guess what! I’ve got a job!  
 ANNIE: Nadja,  
-Sam will einen Job – aber das ist sehr schwierig.  
+Sam will einen Job – aber das ist sehr [[schwierig]].  
 [[Als]] [[was]] kann er arbeiten?  
 In einem Waschsalon? Oh nein!  
 Als Gärtner? Oh nein!  
@@ -159,7 +159,7 @@ SASCHA: … [[Für]] die liebe Anna … von S.
 SASCHA: Das muss Stefan sein ...  
 ANNA: Oh, was ist es?  
 Ahh! Sascha! Schau ‘mal!  
-Das ist Claudias Kleid aus der [[Zeitschrift]]! Woher weiß er das?  
+Das ist Claudias Kleid aus der [[Zeitschrift]]! [[Woher]] weiß er das?  
 SASCHA: Er ist so intelligent! Ja, und jetzt ist das hier nicht Claudias Kleid, [[sondern]] Saschas Kleid!!! Danke Stefan!  
 ANNA: Sascha – dein Chef ist soooo [[nett]]!! Warum hat er mir ein Kleid gekauft?  
 SASCHA: Oh – ich hab’ ihm eine E-Mail [[schicken|geschickt]] – und von dir geschrieben!  
@@ -170,9 +170,9 @@ SASCHA: Schwesterherz,
 Stefan, mein Chef, kommt zum Essen.  
 Er will über meinen neuen Job sprechen!  
 Ich bin so nervös! Er hat mir [[sogar]] ein Kleid geschickt!  
-NICO: Sein Spitzname ist "Oktopus"! Igitt!  
+NICO: Sein Spitzname ist "Oktopus"! [[Igitt]]!  
 Sam und ich werden ein nettes Essen für Sascha und ihren Octopus organisieren ...  
-SAM: Yes, I know I’ve never picked up a tray in my life … but Nico has trained me well!  
+SAM: Yes, I know I’ve never picked up a tray in my life … but Nic has trained me well!  
 NIC: Hallooooo! Heiß! Die Suppe - heiß!  
 SASCHA: Ja Nic?  
 NIC: Die Suppe - heiß!  
@@ -185,11 +185,14 @@ STEFAN: Sascha, du siehst fantastisch aus!
 Und du bist [[sicher]] Anna... Seid ihr [[Schwestern]]? Und eure Kleider!  
 Fantastisch!  
 A/S: Oh danke Stefan, danke.  
-STEFAN: [[Keine Ursache]]. Es ist mir eine [[Ehre]].  
+STEFAN: [[Keine Ursache]]. [[Es ist mir eine Ehre]].  
 ANNA: Das hier ist Nic.  
 NIC: Hi.  
 SASCHA: Und das hier ist Sam … aus Amerika.  
 STEFAN: Aus Amerika!  
+
+
+
 SAM: Hello.  
 STEFAN: Hallo Sam.Wie geht’s Präsident Bush?  
 SAM: Sehr gut danke. Meine Eltern essen [[oft]] im Weißen Haus.  

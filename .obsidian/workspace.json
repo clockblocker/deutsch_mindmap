@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5ab12f3e18d2220",
+            "id": "8f0a53ba66e9ddce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md",
+                "file": "Lektionen/Dieter/17.08.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f0a53ba66e9ddce",
+            "id": "8ab26114ad3b0057",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/Wohin.md",
+                "file": "Wörter/klein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a20b0e33f712bc56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wörter/Kriegt uns klein.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,12 +67,24 @@
             }
           },
           {
+            "id": "a7384b43d86f8cf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Dieter/17.08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2c572581800d3354",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "II",
+                "query": "Es gibt einen speziellen Platz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 246.50247192382812
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -97,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md",
+                "file": "Lektionen/Dieter/17.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md",
+                "file": "Lektionen/Dieter/17.08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md"
+                "file": "Lektionen/Dieter/17.08.md"
               }
             }
           }
@@ -164,34 +188,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c5ab12f3e18d2220",
+  "active": "8f0a53ba66e9ddce",
   "lastOpenFiles": [
-    "Texte/Skripte/extra/Extra 4.md",
-    "Wörter/Treppe.md",
-    "Wörter/Treppen.md",
-    "Wörter/raten.md",
-    "Wörter/riete.md",
-    "Wörter/rietet.md",
-    "Wörter/rieten.md",
-    "Wörter/rietest.md",
-    "Wörter/ratet.md",
-    "Wörter/rät.md",
-    "Wörter/rätst.md",
-    "Wörter/rate.md",
-    "Wörter/geraten.md",
-    "Wörter/riet.md",
-    "Wörter/wirklich.md",
-    "Wörter/weißt.md",
-    "Wörter/wissen.md",
-    "Wörter/echter.md",
-    "Wörter/echt.md",
-    "Wörter/runter.md",
-    "Wörter/letzte.md",
+    "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md",
+    "Lektionen/Dieter/17.08.md",
+    "Wörter/Was ist anders als.md",
+    "Wörter/Bitte wiederholen.md",
+    "Texte/Gedichte/Was wollen wir trinken.md",
+    "Wörter/Kriegt uns klein.md",
+    "Wörter/klein.md",
+    "Wörter/kämpft.md",
+    "Wörter/kämpfen.md",
+    "Wörter/kämpfet.md",
+    "Wörter/kämpfest.md",
+    "Wörter/kämpftet.md",
+    "Wörter/kämpften.md",
+    "Wörter/kämpftest.md",
+    "Wörter/kämpfst.md",
+    "Wörter/kämpfe.md",
+    "Wörter/gekämpft.md",
+    "Wörter/kämpfte.md",
+    "Wörter/nicht mehr.md",
+    "Wörter/kriegt.md",
+    "Wörter/kriegen.md",
+    "Wörter/Frust.md",
     "Wörter/Wohin.md",
-    "Wörter/vorher.md",
-    "Wörter/sparen.md",
-    "Wörter/gespart.md",
-    "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter b.md",
+    "Wörter/Zwang.md",
+    "Wörter/für ein Leben.md",
+    "Wörter/Leben.md",
     "Anhänge/Pasted image 20240816075949.png",
     "Anhänge/Pasted image 20240815214334.png",
     "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter",
