@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "1e2dc075bd55dddc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Anhänge/telegram-cloud-document-2-5337012686557302967.jpg"
+              }
+            }
+          },
+          {
             "id": "8ab26114ad3b0057",
             "type": "leaf",
             "state": {
@@ -190,8 +200,15 @@
   },
   "active": "8f0a53ba66e9ddce",
   "lastOpenFiles": [
-    "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md",
+    "Lektionen/Dieter/20.06.md",
     "Lektionen/Dieter/17.08.md",
+    "Lektionen/Dieter/13.08.md",
+    "Lektionen/Grammatik/Adjektivdeklination.md",
+    "Anhänge/telegram-cloud-document-2-5337012686557302967.jpg",
+    "Anhänge/Pasted image 20240818092345.png",
+    "Anhänge/Pasted image 20240818092322.png",
+    "Lektionen/Grammatik",
+    "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter/bösen Friederich.md",
     "Wörter/Was ist anders als.md",
     "Wörter/Bitte wiederholen.md",
     "Texte/Gedichte/Was wollen wir trinken.md",
@@ -213,9 +230,6 @@
     "Wörter/kriegen.md",
     "Wörter/Frust.md",
     "Wörter/Wohin.md",
-    "Wörter/Zwang.md",
-    "Wörter/für ein Leben.md",
-    "Wörter/Leben.md",
     "Anhänge/Pasted image 20240816075949.png",
     "Anhänge/Pasted image 20240815214334.png",
     "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter",
@@ -224,9 +238,6 @@
     "Anhänge/Pasted image 20240815085031.png",
     "Anhänge/Pasted image 20240815085002.png",
     "Anhänge/Pasted image 20240815084944.png",
-    "Anhänge/Pasted image 20240815084926.png",
-    "Anhänge/Pasted image 20240815084911.png",
-    "Anhänge/Pasted image 20240815084853.png",
     "Texte/Gedichte/Kinder/Buhe",
     "Texte/Diter",
     "Texte/Welt",
@@ -238,7 +249,6 @@
     "Untitled 1.canvas",
     "Lektionen/Intensiv/A2.1 Kursbuch",
     "Lektionen/Intensiv/A2.1 Arbeitsbuch",
-    "Lektionen/Intensiv",
     "Texte/Ditor/Positionen.canvas"
   ]
 }
