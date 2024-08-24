@@ -2,7 +2,7 @@
 die [[Sendungen]]
 
 Beispiele:
-
+- Das ist Saschas Lieblings[[sendung]] …  
 - Freigabeprobleme gelöst. [[Sendung]] zur Zustellung freigegeben
 
 ---

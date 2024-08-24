@@ -7,6 +7,8 @@ nicht [[kompliziert]]/[[schwierig]]
 ---
 NIC: Im Internet flirten? Ist total [[einfach]]!  
 SASCHA: Hah! Die haben [[einfach]] ihre Fotos auf das Auto geklebt!  
+NIC: [[Sagen wir einfach]] - dass du dieses Gesicht …  
+
 
 
 ---

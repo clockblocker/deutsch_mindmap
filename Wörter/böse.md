@@ -1,14 +1,15 @@
-
-
 [[böse]]
 [[böser]]
 [[am]] [[bösesten]]
 
-nicht [[gut]], [[freundlich]]
-
----
 NIC: So ein [[böser]] Junge!
 Die Geschichte vom [[bösen]] Friederich
+Bitte sei nicht [[böse]]
+
+---
+
+
+nicht [[gut]], [[freundlich]]
 
 ---
 

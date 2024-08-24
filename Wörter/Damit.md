@@ -1,4 +1,6 @@
-[[Damit]] hat er die Schränke aufgemacht
+[[Damit]] hat er die [[Schränke]] [[aufgemacht]]
+ANNA: Was meinst du [[damit]]? Zu viel Werbung …  
+
 
 Synonyme:
 - [[hiermit]], [[dazu]], [[mit dem]]

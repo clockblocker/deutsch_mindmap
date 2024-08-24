@@ -6,6 +6,8 @@ haben [[geschafft]] / [[geschaffen]]
 Dann wollen wir [[schaffen]], sieben Tage lang 
 Dann wollen wir [[schaffen]], komm, [[anfassen|fass' an]] 
 
+SAM: Nic, du hast es [[geschafft]]! Heute Berlin … morgen Hollywood!  
+
 
 
 ---

@@ -1,6 +1,5 @@
 👃 [[riechen]]
 [[roch]]
-👃 [[riechen]]
 haben [[gerochen]]
 
 ---

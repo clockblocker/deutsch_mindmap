@@ -1,5 +1,4 @@
-Synonyme:
-
+Schokolade so seidig, da schmilzt das Herz [[jeder]] schönen Frau
 
 • [[Alle]]
 • [[Jeder Einzelne]]

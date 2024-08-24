@@ -1,10 +1,9 @@
-Here’s the filled template for the adjective "spannend":
-
----
-
 [[spannend]]
 [[spannender]]
 [[am]] [[spannendsten]]
+
+ANNA: Ooh … heiß und stürmisch … ein Drama! Wie [[spannend]]!  
+
 
 **Synonyme:**
 - [[interessant]]

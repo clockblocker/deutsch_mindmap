@@ -4,6 +4,7 @@ haben [[gehofft]]
 
 ---
 Ich [[hoffe]], Sascha bekommt einen besseren Job, aber …  
+Ich [[hoffe]] nur, dass jemand angerufen hat
 
 ---
 

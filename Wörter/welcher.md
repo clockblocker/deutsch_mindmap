@@ -1,9 +1,7 @@
-**Welcher** (who, which)
-
-• **Nominative**: Der Mann, [[welcher]] im Park joggt, ist mein Vater.
+• **Nominative**: Der Mann, [[welcher]] / [[der]] im Park joggt, ist mein Vater.
 • **Accusative**: Der Hund, [[welchen]] ich gestern gesehen habe, ist sehr freundlich.
 • **Dative**: Der Freund, [[welchem]] ich das Buch gegeben habe, heißt Tom.
-• **Genitive**: Der Mann, [[dessen]] Auto kaputt ist, braucht Hilfe.
+• **Genitive**: Der Mann, [[dessen]] Auto kaputt ist, braucht Hilfe. +
 
 **Feminine:**
 • **Nominative**: Die Frau, [[welche]] dort steht, ist meine Lehrerin.
@@ -16,6 +14,14 @@
 • **Accusative**: Das Haus, [[welches]] wir gekauft haben, ist sehr alt.
 • **Dative**: Das Kind, [[welchem]] ich die Süßigkeiten gegeben habe, ist glücklich.
 • **Genitive**: Das Auto, [[dessen]] Tür kaputt ist, steht in der Garage.
+
+
+Plural:  Die Kender [[deren]] Tasche gestohlen wurde, ist sehr traurig.
+
+
+Haben Sie Geld?
+Nein, Ich habe keins.
+Ya, Ich habe [[welches]].
 
 
 [[Pronomen]]

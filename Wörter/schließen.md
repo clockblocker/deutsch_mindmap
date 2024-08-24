@@ -4,6 +4,7 @@ haben [[geschlossen]]
 
 ---
 [[Hattest]] du nicht [[daran]] gedacht, es zu [[schließen]], Brigitte?
+SEXY VOICE: Ah, komm herein, setz dich hin und [[schließ]] die [[Augen]] …  
 
 ---
 

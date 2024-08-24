@@ -1,4 +1,5 @@
 SASCHA: Hilfe, komm schon [[rein]].
+SEXY VOICE: Ah, komm [[herein]], setz dich [[hin]] und [[schließ]] die Augen …  
 
 1. Hinein
 2. [[Drinnen]]

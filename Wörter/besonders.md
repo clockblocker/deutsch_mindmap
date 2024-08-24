@@ -2,10 +2,10 @@
 [[besonderer]]
 [[am]] [[besondersten]]
 
----
-Beispiele:
 
 ANNA: Und [[besonders]] sexy ist er auch nicht!
+ANNA: Ja, [[besonders]] Poptastisch Popcorn!  
+
 
 - **Das ist ein [[besonderes]] Buch.**
   - **Translation:** "That is a special book."

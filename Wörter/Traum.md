@@ -2,7 +2,7 @@
 die [[Träume]]
 
 Beispiele:
-
+- NIC: Ach so! Der [[wahre]] [[Traum]] der [[Liebe]]'’.  
 - ANNA: Hallo [[Traum]]-Boy! Ich heiße Anna.  
 
 ---

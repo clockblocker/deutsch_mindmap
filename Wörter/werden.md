@@ -14,6 +14,11 @@ STEFAN: … Ja Sascha, und mit deiner Figur ... [[wirst]] du auch vie
 
 NIC: Einen heißen Kaffee. Das hier wird ihm Feuer geben.  
 
+---
+Wir werden eine Rise machen = Futur 
+Wir werden oft gefragt = Passiv
+Wir werden krank / reich = Anderung 
+
 
 
 ---
