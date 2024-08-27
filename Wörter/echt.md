@@ -4,6 +4,8 @@
 
 ---
 NIC: Hey Sam, du bist ein [[echter]] Freund 
+SAM: Klar! Ich wollte dir [[echt]] amerikanisches Popcorn machen!  
+
 
 ---
 

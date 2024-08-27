@@ -3,7 +3,9 @@
 haben [[gekämpft]]
 
 ---
-Wir halten zusammen Keiner kämpft allein 
+- Wir halten zusammen Keiner kämpft allein 
+- Eines Tages aber bekam der Hase Streit mit einem Hirsch; dieser [[kämpfte]] gegen den Hasen und tötete ihn mit dem Geweih
+
 
 ---
 

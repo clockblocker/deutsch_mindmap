@@ -6,6 +6,10 @@ haben [[gezogen]]
 - SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?
 
 ---
++ + weiter = [[weiterziehen]]
+
+---
+
 
 **Synonyme:**
 

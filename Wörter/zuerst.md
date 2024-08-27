@@ -1,5 +1,6 @@
 SASCHA: Nein, du [[zuerst]]!  
-SAM: Nein, du zuerst. Bitte. Ladies first!  
+SAM: Nein, du [[zuerst]]. Bitte. Ladies first!  
+[[Zuerst]] schloss sie Freundschaft mit dem Hasen und begleitete ihn überall hin.
 
 nicht [[zuletzt]]
 

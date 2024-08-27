@@ -1,1 +1,3 @@
-SASCHA: ‚Kurt Knall“ - so ein [[doofer]] Name!  
+SASCHA: ‚Kurt Knall“ - so ein [[doof]]er Name!  
+
+

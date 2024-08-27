@@ -5,6 +5,12 @@ haben [[geschlossen]]
 ---
 [[Hattest]] du nicht [[daran]] gedacht, es zu [[schließen]], Brigitte?
 SEXY VOICE: Ah, komm herein, setz dich hin und [[schließ]] die [[Augen]] …  
+Zuerst [[schloss]] sie Freundschaft mit dem Hasen und begleitete ihn überall hin.
+Mit ihnen muss ich [[Freundschaft]] [[schließen]]."
+
+---
++[[an]] = 🔗 [[anschließen]]
+
 
 ---
 

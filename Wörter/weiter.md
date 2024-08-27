@@ -3,6 +3,10 @@
 Beispiele:
 
 - SASCHA: Na [[mach weiter]], Sam!  
+-  Die Katze saß immer noch auf dem Baum und [[weiterdenken|dachte weiter]] nach
+
+---
++[[ziehen]] = [[weiterziehen]]
 
 ---
 Synonyme:

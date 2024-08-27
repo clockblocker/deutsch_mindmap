@@ -1,4 +1,3 @@
-
 🎁 [[bringen]]  
 [[brachte]]  
 haben [[gebracht]]
@@ -6,6 +5,9 @@ haben [[gebracht]]
 ---
 - Er hat unsere Milch [[zurückgebracht]]
 - Ich hab' euch etwas [[mitgebracht]]  
+
+---
++[[um]] = [[umbringen]]
 
 ---
 

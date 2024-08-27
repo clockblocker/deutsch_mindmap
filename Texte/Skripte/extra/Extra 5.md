@@ -5,12 +5,12 @@ MAN: Oh, Darling! Nein! Mein Herz wird [[zerbrechen]]!
 LADY: [[Es tut mir leid]] … es tut mir so leid.  
 ANNA: Das [[darf]] sie nicht …  
 SASCHA: Nein! Das darf sie nicht - er ist so [[toll]] …  
-ANNA: Und ihr Mann ist so ein [[Ekel]] … Du bist [[dranx]] …  -
+ANNA: Und ihr Mann ist so ein [[Ekel]] … Du bist [[dran]] …  -
 SASCHA: Ja, hallo?… Kurt Knall?… ob ich seine was bin?  
 Seine Agentin? Nein, tut mir Leid … [[den]] gibt es hier nicht ...  -
-SASCHA: ‚Kurt Knall“ - so ein [[doofer]] Name!  -
+SASCHA: ‚Kurt Knall“ - so ein [[doof]]erName!  -
 ANNA: Wer würde sich so nennen!  
-SASCHA: Ha! Alle Männer sind wie kleine Jungs - spielen immer nur dumme [[Spielchen]] …  -
+	SASCHA: Ha! Alle Männer sind wie kleine Jungs - spielen immer nur dumme [[Spielchen]] …  -
 COP1/NIC: Razzia!  
 COP 2/SAM: FBI! Keine [[Bewegung]] -
 … Beine hoch … Hände hoch … Hände hoch, nicht Beine hoch …!  
@@ -96,22 +96,22 @@ Gut - und das hier ist ‚B’
 Okay, Herr Müller,  
 Auf welchem Teller waren ‚Saftige Happen’?  
 NIC: Die [[riechen]] [[beide]] [[toll]]!  
-ANNA: Korrekt! Gut gemacht! Auf beiden Tellern waren Saftige Happen!  
-Der Unterschied ist, ‚A’ ist Saftige Happen mit Kaninchen…und ‚B’ ist Saftige Happen mit Huhn!  
+ANNA: Korrekt! Gut gemacht! Auf [[beiden]] Tellern waren Saftige Happen!  
+Der Unterschied ist, ‚A’ ist Saftige Happen mit [[Kaninchen]]…und ‚B’ ist Saftige Happen mit [[Huhn]]!  
 Herr Müller - was mochten Sie lieber?  
-NIC: Oh, Hühnchen … Oh – sag mal Anna …  
+NIC: Oh, [[Hühnchen]] … Oh – sag mal Anna …  
 ANNA: Mhm …  
 NIC: Was sind Saftige Happen?  
 ANNA: Hundefutter natürlich!  
 SASCHA: Weißt du jetzt, was ich meine?  
-ANNA: Ich glaube schon … Was ist das für ein Lärm ?  
+ANNA: Ich glaube schon … Was ist das für ein [[Lärm]] ?  
 SAM: Aah! Annas Popcorn!  
 ANNA: Mein Popcorn?  
-SAM: Klar! Ich wollte dir echt amerikanisches Popcorn machen!  
+SAM: Klar! Ich wollte dir [[echt]] amerikanisches Popcorn machen!  
 ANNA: Danke, Sam - du bist so süß!  
 SASCHA: Ich mag Popcorn auch, Sam!  
 SAM: Hi Mom! Guess what? I’m sharing an appartment with Nic! Yeah I know, I’m so grown up!  
-AN:MARIA; VON: SASCHA In dieser Wohnung ist sehr viel los! Verrückte Anrufe für einen Fremden namens Kurt Knall ... Sam und Nic kommen herein ohne anzuklopfen Und Anna ist ganz verrückt nach Werbung!  
+AN:MARIA; VON: SASCHA In dieser Wohnung ist sehr viel [[los]]! [[Verrückte]] Anrufe für einen Fremden namens Kurt Knall ... Sam und Nic kommen [[herein]] ohne [[anzuklopfen]] Und Anna ist ganz [[verrückt]] nach Werbung!  
 AN: JO; VON: NIC Weißt du was? Ich habe die Rolle! Ich werde ein Star sein! Mein eigenes Programm, jeden Abend, um 6 Uhr vor einem riesigen Publikum! Hollywood, ich komme!  
 SAM: I made popcorn for Anna, American style. Yeah, I know I’ve never made popcorn before Mom. A success? Um, kinda!  
 SCENE TWO  

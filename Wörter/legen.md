@@ -1,4 +1,3 @@
-
 📍 [[legen]]  
 [[legte]]  
 haben [[gelegt]]
@@ -6,6 +5,8 @@ haben [[gelegt]]
 ![[Pasted image 20240703130355.png]]
 
 ---
++[[über]] = 💭 [[überlegen]]
+
 
 ---
 

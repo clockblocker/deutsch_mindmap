@@ -1,6 +1,8 @@
 🔵 der [[Verrückte]]
 die [[Verrückten]]
 
+[[Verrückte]] Anrufe für einen Fremden namens Kurt Knall
+
 Beispiele:
 
 - Er ist ein [[Verrückter]], der immer gefährliche Sachen macht.
