@@ -1,4 +1,4 @@
 #Suffix
 [[Ordentlich]]
 
-[[bedeuten]]
+[[bedeuten]][[heißen]][[fahren]][[spüren]][[kontrollieren]][[stören]][[verstehen]][[untergehen]]

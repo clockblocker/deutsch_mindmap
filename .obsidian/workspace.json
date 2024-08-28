@@ -8,60 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "483ad64ae9519fb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Skripte/extra/Extra 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a57681c664023232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/bedeutet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5113eb4c9ec935e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/bedeuten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33bd4be680a7097c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/bedeuten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c8a01eb3c23be52c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/brauchen.md",
+                "file": "Texte/Gedichte/Rammstein/Ich Will.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20401c7cbd15bfc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/untergehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8abc9cfb36571ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Herzschlag.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worter/bedeuten.md",
+                "file": "Texte/Gedichte/Rammstein/Ich Will.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worter/bedeuten.md",
+                "file": "Texte/Gedichte/Rammstein/Ich Will.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worter/bedeuten.md"
+                "file": "Texte/Gedichte/Rammstein/Ich Will.md"
               }
             }
           }
@@ -297,34 +272,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a5113eb4c9ec935e",
+  "active": "c8a01eb3c23be52c",
   "lastOpenFiles": [
-    "Worter/deuten.md",
-    "Worter/bedeutend.md",
-    "Worter/bedeuten Sie.md",
-    "Worter/bedeutetet.md",
-    "Worter/bedeuteten.md",
-    "Worter/bedeutetest.md",
-    "Worter/bedeutest.md",
-    "Worter/bedeute.md",
-    "Worter/deut.md",
-    "Worter/verdecken.md",
-    "Worter/verschleiern.md",
-    "Worter/verbergen.md",
-    "Worter/verhüllen.md",
-    "Worter/ausdrücken.md",
-    "Worter/kennzeichnen.md",
-    "Worter/anzeigen.md",
-    "Worter/signalisieren.md",
-    "Worter/meinen.md",
-    "Worter/bedeutete.md",
-    "Worter/bedeutet.md",
-    "Worter/bedeuten.md",
-    "Texte/Skripte/extra/Extra 5.md",
-    "Worter/brauchen.md",
-    "Worter/durch.md",
-    "Worter/Magen.md",
-    "Worter/Magens.md",
+    "Worter/fühlen.md",
+    "Texte/Gedichte/Rammstein/Ich Will.md",
+    "Worter/untergehen.md",
+    "Worter/untergehend.md",
+    "Worter/gehen Sie unter.md",
+    "Worter/ginget unter.md",
+    "Worter/gehet unter.md",
+    "Worter/gingt unter.md",
+    "Worter/gingen unter.md",
+    "Worter/gehen unter.md",
+    "Worter/geht unter.md",
+    "Worter/gingest unter.md",
+    "Worter/gehest unter.md",
+    "Worter/geh unter.md",
+    "Worter/gingst unter.md",
+    "Worter/gehst unter.md",
+    "Worter/ginge unter.md",
+    "Worter/gehe unter.md",
+    "Worter/unter.md",
+    "Worter/beginnen.md",
+    "Worter/aufgehen.md",
+    "Worter/aufsteigen.md",
+    "Worter/auftauchen.md",
+    "Worter/zu Grunde gehen.md",
+    "Worter/verschwinden.md",
+    "Worter/versinken.md",
     "Anhänge/Pasted image 20240826114709.png",
     "Anhänge/telegram-cloud-document-2-5337012686557302967.jpg",
     "Anhänge/telegram-cloud-document-2-5346047493861823310.jpg",

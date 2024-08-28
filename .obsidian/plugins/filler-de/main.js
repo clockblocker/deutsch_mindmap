@@ -14,7 +14,7 @@ PLEASE MAKE SHURE THAT IDENTIFIED
 For Trennbar verb use:
 
 '''
-📞 [[anrufen]] + Akk, [ˈanruːfn̩]
+<pick appropriate emoji for this word>📞 [[anrufen]] + Akk, [ˈanruːfn̩]
 [[rief an|rief an]]  
 haben [[angerufen]]
 

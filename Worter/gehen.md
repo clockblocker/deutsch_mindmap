@@ -65,4 +65,4 @@ to go, to walk
 ---
 
 **Morphems of only infinitive:**  
-- [[geh]][[en]]
+- [[geh]][[en]][[untergehen]]

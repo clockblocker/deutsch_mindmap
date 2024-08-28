@@ -18,7 +18,7 @@ Ich will
 (Ich will) Ich will eure [[Fantasie]]  
 (Ich will) Ich will eure [[Energie]]  
 (Ich will) Ich will eure Hände sehen  
-(Ich will) in Beifall [[untergehen]]  
+(Ich will) in [[Beifall]] [[untergehen]]  
 
 [[seht]] ihr mich?  
 [[Versteht]] ihr mich?  
@@ -31,7 +31,7 @@ Könnt ihr mich fühlen? (_Wir [[fühlen]] dich_)
 Ich versteh’ euch nicht  
 Könnt ihr mich hören? (_Wir [[Hören]] dich_)  
 Könnt ihr mich sehen? (_Wir [[sehen]] dich_)  
-Könnt ihr mich fühlen? (_Wir [[fühlen]] dich_)  
+Könnt ihr mich [[fühlen]]? (_Wir [[fühlen]] dich_)  
 Ich versteh’ euch [[nicht]]  
   
 Ich will  

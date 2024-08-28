@@ -1,1 +1,1 @@
-nicht trenbaren 
+nicht trenbaren [[verstehen]]

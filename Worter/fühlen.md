@@ -7,6 +7,8 @@ ANNA: Ich [[fühl]] mich schlecht
 She [[fühlte]] sich nicht [[wohl]]
 SASCHA: [[Fühl dich wie zu Hause]]. Ich muss mal ins Bad.
 Sie [[fühlte]] sich aber einsam und schwach.
+Könnt ihr mich [[fühlen]]? (_Wir [[fühlen]] dich_)  
+
 
 ---
 

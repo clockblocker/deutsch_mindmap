@@ -70,4 +70,4 @@ Konjunktiv II:
 - Wenn er wollte, [[erschiene]] er pünktlich.
 - Wenn wir nicht so müde wären, [[erschienen]] wir öfter.
 - Wenn ihr wüsstet, wann es ist, [[erschienet]] ihr pünktlich.
-- Wenn sie die Möglichkeit hätten, [[erschienen]] sie zur Versammlung.
+- Wenn sie die Möglichkeit hätten, [[erschienen]] sie zur Versammlung.[[untergehen]]

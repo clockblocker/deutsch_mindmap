@@ -37,3 +37,4 @@ Morphems:
 
 
 сoвсем
+[[jeden]]

@@ -23,4 +23,4 @@ Morphems:
 [[Lärm]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin[[Ruhe]]
