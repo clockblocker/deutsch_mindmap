@@ -1,0 +1,11 @@
+{
+	"id": "cbcr-filler-de",
+	"name": "Filler Deutsch",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Fills in your gaps of German knowledge",
+	"author": "clockblocker",
+	"authorUrl": "https://github.com/clockblocker/",
+	"fundingUrl": "https://buymeacoffee.com/fniqc5g0nr",
+	"isDesktopOnly": false
+}
