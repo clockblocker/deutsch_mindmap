@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=93s5rHx1S8o
 
 Der _Friederich_, der Friederich  
 das war ein [[arger]] [[Wüterich]]!  
-Er [[fing]] die [[Fliegen]] in dem Haus  
+Er [[fing]] die [[fliegen]] in dem Haus  
 und [[ausrissen|riß]] ihnen die [[Flügel]] aus.  
 Er [[schlug]] den [[Stuhl]] und [[Vogel]] [[tot]],  
 die Katzen [[litten]] [[große Not]].  
@@ -14,7 +14,7 @@ Er [[peitschen|peitschte]] seine Gretchen [[gar]]!
 
 ![[Pasted image 20240815083950.png]]
 Am [[Brunnen]] stand ein großer Hund,  
-trank Wasser [[dort]] mit seinem [[Mund]].  
+trank Wasser [[Dort]] mit seinem [[Mund]].  
 
 
 Da mit der [[Peitsch]] [[herzu]] sich [[schleichen|schlich]]  

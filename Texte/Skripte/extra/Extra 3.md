@@ -3,7 +3,7 @@
 
 Episode Three: Sam Hat ein Date  
 Das ist die Geschichte von Sascha und Anna aus Berlin.  
-[[Bei]] [[ihnen]] ist ein Amerikaner zu [[Besuch]].  
+[[bei]] [[ihnen]] ist ein Amerikaner zu [[Besuch]].  
 Aber er kann nicht sehr gut Deutsch sprechen.  
 [[Stil]] hat er auch nicht.  
 Und einkaufen kann er auch nicht.  
@@ -34,7 +34,7 @@ CINDY: … super, eins und zwei und drei und vier …
 ANNA: Also … Sam hat Cindys 100 Top Fitness-[[Übungen]] [[gefunden]] …  
 CINDY: … und runter ...  
 SASCHA: Nein Sam.  
-SAM: Hey [[was ist los]]?  
+SAM: Hey [[Was ist los]]?  
 SASCHA: Fit mit Cindy? Oh nein!  
 Fit mit Sascha! Das ist viel [[besser]]!  
 SAM: Aber …  
@@ -84,7 +84,7 @@ Können wir [[uns]] heute [[treffen]]?
 [[Detlef]] Meier 24 P.S. Um 5 Uhr muss ich bei meiner Mutter sein.  
 Ach du liebe Zeit!  
 ANNA: So finde ich nie einen Freund! Die Männer wollen immer Sascha!  
-NIC: [[Wirklich]]? Mensch Anna, es [[darauf ankommen|kommt darauf an]], [[wie]] du schreibst – und nicht [[was]].  
+NIC: [[wirklich]]? Mensch Anna, es [[darauf ankommen|kommt darauf an]], [[wie]] du schreibst – und nicht [[was]].  
 ANNA: Wie?  
 NIC: Ich [[wette]], ich kann eine Freundin übers Internet finden.  
 ANNA: Nic, du kannst ja alles!  
@@ -150,13 +150,13 @@ SAM: Super!
 NIC: Sam – hier [[werden]] wir sie finden. Girls, Girls, Girls!  
 SAM: Yo Yo Yo!  
 NIC: [[genial]]! Sam, du [[brauchst]] ein neues [[Aftershave]] ...  
-NIC: [[Egal]] … Komm … das [[müssen]] wir [[feiern]]!  
+NIC: [[egal]] … Komm … das [[müssen]] wir [[feiern]]!  
 SASCHA: Päh! Wie [[riecht]]’s [[denn]] hier?  
 ANNA: Hier riecht’s wie in der Parfümerie!  
-Meine Pflanze! Meine [[arme]] Pflanze!  
+Meine Pflanze! Meine [[Arme]] Pflanze!  
 SASCHA: Mein Parfüm ist [[leer]]!  
 ANNA: Das ist [[Mord]]!  
-SASCHA: [[Wer]] war das?  
+SASCHA: [[wer]] war das?  
 BOTH: Nic! Nic!  
 SASCHA: Männer! Oh nein!  
 ANNA: Was ist los?  
@@ -171,7 +171,7 @@ Hallo Sam und Nic!
 Ja! Wir sind total [[hübsch]]!  
 Und wir tanzen [[gern]]!  
 Und natürlich finden wir Millionäre super! Fifi und Sarah xxxxxxxx  
-ANNA: [[Schau]] mal, das gibt’s doch nicht.  
+ANNA: [[schau]] mal, das gibt’s doch nicht.  
 Bist du hübsch?  
 Hast du eine hübsche Freundin?  
 Tanzt du gern? Magst du [[schnelle]] Autos?  
@@ -199,7 +199,7 @@ Wow! Die hören sich ja fantastisch an!
 SAM: Was?  
 NIC: Bella … und Struppi kommen [[hierher]] … Wenn die Show zu Ende ist. Um 22 Uhr …  
 Um zweiundzwanzig Uhr… Neunzehn ... zwanzig ... einundzwanzig ... zweiundzwanzig ...  
-Hey! [[Warte]] mal, zweiundzwanzig Uhr – das ist in 3 Stunden! Was [[anziehen|ziehe]] ich an? Und was [[ziehst]] du an?  
+Hey! [[warte]] mal, zweiundzwanzig Uhr – das ist in 3 Stunden! Was [[anziehen|ziehe]] ich an? Und was [[ziehst]] du an?  
 SAM: Aber Sascha und Anna?  
 NIC: Kein Problem …  
 NOTE: Hallo Nic und Sam! Wir gehen heute Abend aus! A + S  
@@ -217,7 +217,7 @@ Oh mother! I haven’t even thought about it!
 SAM: Hey Nic? Was soll ich sagen?  
 NIC: Mensch relax! Das ist doch [[ganz]] einfach.  
 SAM: Ja, klar! Nic mit seinen 100 Freundinnen!  
-NIC: Na ja, … also … es [[waren]] schon [[weniger]] [[als]] 100 …  
+NIC: Na ja, … also … es [[waren]] schon [[Weniger]] [[als]] 100 …  
 SAM: Fünfzig!  
 NIC: Mmhh .. nicht [[ganz]].  
 SAM: Zehn?  

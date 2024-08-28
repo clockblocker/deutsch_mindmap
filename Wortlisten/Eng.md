@@ -10,7 +10,7 @@ das [[Wasser]] / die [[Wasser]] | #Substantiv #Neuter | water
 das [[Buch]] / die [[Bücher]] | #Substantiv #Neuter | book
 der [[Finger]] / die [[Finger]] | #Substantiv #Masculin | finger
 die [[Hand]] / die [[Hände]] | #Substantiv #Feminin | hand
-der [[Arm]] / die [[Arme]] | #Substantiv #Masculin | arm
+der [[arm]] / die [[Arme]] | #Substantiv #Masculin | arm
 der [[Name]] / die [[Namen]] | #Substantiv #Masculin | name
 die [[Musik]] | #Substantiv #Feminin | music
 der [[Film]] / die [[Filme]] | #Substantiv #Masculin | film
@@ -53,7 +53,7 @@ die [[Zitrone]] / die [[Zitronen]] | #Substantiv #Feminin | lemon
 die [[Erdbeere]] / die [[Erdbeeren]] | #Substantiv #Feminin | strawberry
 das [[Bett]] / die [[Betten]] | #Substantiv #Neuter | bed
 die [[Lampe]] / die [[Lampen]] | #Substantiv #Feminin | lamp
-der [[Arm]] / die [[Arme]] | #Substantiv #Masculin | arm
+der [[arm]] / die [[Arme]] | #Substantiv #Masculin | arm
 die [[Hand]] / die [[Hände]] | #Substantiv #Feminin | hand
 das [[Kinn]] / die [[Kinne]] | #Substantiv #Neuter | chin
 die [[Schulter]] / die [[Schultern]] | #Substantiv #Feminin | shoulder

@@ -13,7 +13,7 @@ Jo, ich hab dir [[doch]] [[gesagt]]: –[[ Es ist vorbei]]!!!
 Hallo Jo.
 
 Ja – das Kissen hab’ ich auch [[bekommen]].  
-Aber es ist vorbei! [[Vorbei]]! Und [[jetzt]] [[heul]] bitte nicht!  
+Aber es ist vorbei! [[vorbei]]! Und [[jetzt]] [[heul]] bitte nicht!  
 Tschüs.  
 Männer!
 
@@ -29,7 +29,7 @@ ANNA: Telefon[[Rechnung]], Gas[[Rechnung]], Strom[[Rechnung]] … Oh, [[wa
 Sascha, ein Brief [[für]] dich!
 
 SASCHA: Ein Brief [[für]] mich.  
-[[Von]] meiner Mutter ...
+[[von]] meiner Mutter ...
 
 SASCHA: Hey, was ist [[denn]] das?
 
@@ -45,12 +45,12 @@ Nein ... „vor sieben Jahren [[Brieffreunde]] sind wir ...“
 
 Vor sieben Jahren [[waren]] wir Brieffreunde.
 
-[[Ach du liebe Zeit]] ... [[Jetzt]] [[erinnere]] ich mich [[wieder]].  
+[[Ach du liebe Zeit]] ... [[jetzt]] [[erinnere]] ich mich [[wieder]].  
 Der Brief ist von Sam! Sam Scott!
 
 ANNA: Wer ist Sam Scott?
 
-SASCHA: Er [[war]] mein Brieffreund. [[Aber]] das ist sieben [[Jahr]]e [[her]].
+SASCHA: Er [[war]] mein Brieffreund. [[aber]] das ist sieben [[Jahr]]e [[her]].
 
 ANNA: Oh …
 
@@ -99,7 +99,7 @@ ANNA: Danke Nic.
 
 NIC: Na Ladies, was geht so [[ab]]?
 
-ANNA: [[Möchtest]] du was trinken, Nic?
+ANNA: [[möchtest]] du was trinken, Nic?
 
 NIC: „Ja hallo?”
 
@@ -126,7 +126,7 @@ NIC: Ach so … ein cooler Ami, ja? Huh!
 SASCHA: Nic! Niemand [[darf]] mein Fahrrad [[anfassen]]! [[Kapiert]]?  
 Niemand!
 
-NIC: [[Aber]] [[warum]] nicht?
+NIC: [[aber]] [[warum]] nicht?
 
 SASCHA: Muss ich das [[begründen]]?
 
@@ -206,7 +206,7 @@ ANNA: Sam, wir [[zeigen]] dir die Wohnung!
 SASCHA: Hier ist das [[Schlafzimmer]].
 
 SAM: Wow, danke.  
-[[Gutes]] Bett! So where do you sleep? [[Wo]] schlaft ihr?
+[[gutes]] Bett! So where do you sleep? [[Wo]] schlaft ihr?
 
 SASCHA: Hey, nein ... [[hier]] [[gibt]] es [[nur]] ein Schlafzimmer.
 
@@ -258,7 +258,7 @@ NIC: Hallo.
 
 SAM: Hi.
 
-NIC: [[Wer]] bist du denn?
+NIC: [[wer]] bist du denn?
 
 SAM: Du bist aber schnell! Gut! Mein ... [[Gepäck]] ... ist [[unten]] …
 
@@ -306,7 +306,7 @@ SAM: Currywurst, OK.
 
 ANNA: Nic, Sam, ihr habt [[bestimmt]] [[viel]] [[Spaß]] [[miteinander]]!
 
-SASCHA: Nic – du kannst ihm ja [[Deutsch]][[unterricht]] geben!
+SASCHA: Nic – du kannst ihm ja [[Deutsch]][[Unterricht]] geben!
 
 NIC: Deutschunterricht?Ja, ich [[werden|werd]]’ ihm Deutsch-Unterricht geben …
 
@@ -361,7 +361,7 @@ NIC: [[Niemals]]! Das will ich sehen.
 
 SAM: [[aufpassen|Pass auf]]!
 
-SASCHA: Also [[was meinst du]] – [[rot]] [[oder]] [[blau]]?
+SASCHA: Also [[was meinst du]] – [[Rot]] [[oder]] [[Blau]]?
 
 ANNA: Blau, blau [[finde ich besser]].
 
@@ -396,7 +396,7 @@ SAM: Ahh – duschen. Mir ist heiß. Ich gehe duschen. Excuse me.
 
 SASCHA: [[Das war’s]]! Der Typ fliegt raus!
 
-NIC: [[Aber]] [[wieso]]? Er ist doch so [[nett]] ...
+NIC: [[aber]] [[wieso]]? Er ist doch so [[nett]] ...
 
 SASCHA: Er – ist – mit meinem Fahrrad – gefahren!
 
@@ -419,7 +419,7 @@ NIC: [[Auf keinen Fall]]! Der Typ ist nicht mein Problem.
 
 SASCHA: Er fliegt raus – und [[zwar]] [[sofort]]!
 
-ANNA: [[Aber]] er [[duscht]] [[gerade]]!
+ANNA: [[aber]] er [[duscht]] [[gerade]]!
 
 SASCHA: [[Das ist mir egal]] …
 
@@ -429,7 +429,7 @@ SAM: Was?
 
 SASCHA: Wir [[müssen]] mit dir sprechen!
 
-SAM: Okay. [[Komme]] sofort.
+SAM: Okay. [[komme]] sofort.
 
 SAM: Sorry – you wanted me?
 
@@ -477,15 +477,15 @@ NIC: Mensch das ist ja [[schrecklich]]! Kein Wort zu den Mädchen! Ps
 
 SAM: Okay. Psst … don’t tell the girls.
 
-SASCHA: [[Vielleicht]] … vielleicht [[sollte]] er doch hier wohnen?
+SASCHA: [[vielleicht]] … vielleicht [[sollte]] er doch hier wohnen?
 
-ANNA: Oh ja, der [[arme]] [[kleine]] Amerikaner!
+ANNA: Oh ja, der [[Arme]] [[kleine]] Amerikaner!
 
 NIC: Hey Sam! Du kannst [[bei mir]] wohnen. Ich habe zwei Betten.
 
 SASCHA: [[Halt die Klappe]] Nic!
 
-ANNA: Sam bleibt hier bei uns. [[Nicht wahr]] Sam?
+ANNA: Sam bleibt hier bei uns. [[nicht wahr]] Sam?
 
 SASCHA: Sam … komm hier setz dich zu mir.
 
@@ -514,7 +514,7 @@ Mein Make-up ...
 
 SAM: Ich muss schnell Room Service.
 
-SASCHA: Hat [[jemand]] meine [[neue]] [[Zeitschrift]] gesehen?
+SASCHA: Hat [[Jemand]] meine [[neue]] [[Zeitschrift]] gesehen?
 
 NIC: Keine [[Ahnung]].
 
@@ -528,13 +528,13 @@ Ja, kommen Sie bitte hoch.
 
 NIC: Was? Die Tarantel?
 
-SASCHA: [[Schnell]] Sam! [[Versteck]] dich!
+SASCHA: [[Schnell]] Sam! [[versteck]] dich!
 
 NIC: Ich muss los!
 
 SASCHA: Nein ins Schlafzimmer.
 
-NIC: Ahh ... die [[Miete]].
+NIC: Ahh ... die [[miete]].
 
 Nächstes Mal in Extra ...  
 Unsere Freunde [[gehen]] für Sam [[einkaufen]]  

@@ -13,7 +13,7 @@ ANNA: Groß, [[schlank]] .. ein cooler Amerikaner.
 ANNA: Hahahah. (NIEST) Hatschiiii!  
 Wow! Fantastisch! Ist er dein neuer Freund?
 
-ANNA: [[Vielleicht]] – aber kein Wort [[davon]] zu Sascha!
+ANNA: [[vielleicht]] – aber kein Wort [[davon]] zu Sascha!
 
 SASCHA: Du kannst mich Cha Cha nennen.
 
@@ -27,13 +27,13 @@ ANNA: Ja.
 
 SASCHA: Sam … Guten Morgen! [[aufwachen|Wach auf]]!
 
-SASCHA: Hey! [[Raus]] aus dem Bett!
+SASCHA: Hey! [[raus]] aus dem Bett!
 
 SACHA: Ach …
 
-ANNA: [[Süß]] …
+ANNA: [[süß]] …
 
-SAM: Guten [[Morgen]].
+SAM: Guten [[morgen]].
 
 SASCHA, ANNA: Guten Morgen.
 
@@ -56,7 +56,7 @@ SASCHA: Cooler [[Schlafanzug]].
 SAM: Huh?
 
 SASCHA: Sam – wir müssen mal schnell ins [[Bad]] …  
-Psst! Anna – ins Bad – [[schnell]]!
+Psst! Anna – ins Bad – [[Schnell]]!
 
 SAM: Ahh Guten Morgen!
 
@@ -229,7 +229,7 @@ SAM: Ach so, Eier, Äpfel und [[Hundefutter]]!
 
 ANNA: Prima Sam!
 
-SASCHA: Tschüs Sam! Wir gehen. Und ach ... [[lass]] die Tarantel nicht [[rein]]. Am besten, du antwortest nicht!
+SASCHA: Tschüs Sam! Wir gehen. Und ach ... [[Lass]] die Tarantel nicht [[rein]]. Am besten, du antwortest nicht!
 
 NIC: [[Mach’s gut]], [[mach’s besser]].
 
@@ -247,13 +247,13 @@ SASCHA: Cooler [[Schlafanzug]].
 
 SASCHA: Aber das ist kein Problem! Ich gehe mit ihm einkaufen! Er wird total cool aussehen!
 
-NIC: Und Anna [[denkt]], der Cowboy-Look ist das [[Richtige]] für ihn. Aber ich denke, er [[braucht]] eine Lederjacke – wie ich – im Biker-Look!
+NIC: Und Anna [[denkt]], der Cowboy-Look ist das [[richtige]] für ihn. Aber ich denke, er [[braucht]] eine Lederjacke – wie ich – im Biker-Look!
 
 SAM: It’s called the Biker-Trendy-Cowboy look – I think.  
 I’m going to look so cool! Total Cool!
 
 SAM: Guten Morgen – ich möchte ein Schaf kaufen. Für meinen Hals! Hahaha …  
-[[Eier]], ich möchte ein [[Ei]] für meinen Hals ...  
+[[Eier]], ich möchte ein [[ei]] für meinen Hals ...  
 Room Service, Room Service!
 
 SAM: Die Tarantel!!!!
@@ -283,7 +283,7 @@ ANNA: Hallo.
 
 SAM: Hi Anna, hallo.
 
-ANNA: [[Schau]] mal Sam! Das hier hab’ ich für dich!
+ANNA: [[schau]] mal Sam! Das hier hab’ ich für dich!
 
 SAM: Oh – danke! Was ist das?
 
@@ -312,7 +312,7 @@ SAM: Yeah?
 
 SASCHA: Ich hab’ was für dich.
 
-SAM: [[Warte]] mal …  
+SAM: [[warte]] mal …  
 Komm rein!
 
 NIC: Sam?
@@ -387,7 +387,7 @@ SAM: Ja!
 
 NIC: Und du hast Apfelsinen [[statt]] Äpfel gekauft!
 
-SAM: Aber Apfelsinen – Orangen – sind doch auch okay? [[Oder]]?
+SAM: Aber Apfelsinen – Orangen – sind doch auch okay? [[oder]]?
 
 NIC: Ja, aber 10 Kilo Apfelsinen sind zu viel!  
 Und zu viele Eier!
@@ -490,7 +490,7 @@ NIC: Das ist [[Männersache]]!
 
 NIC: Vierundneunzig Zentimeter!
 
-SASCHA: [[Gefällt]] Ihnen diese Hose?
+SASCHA: [[gefällt]] Ihnen diese Hose?
 
 ANNA: Gefällt Ihnen dieses Hemd?
 
@@ -524,7 +524,7 @@ SASCHA: Nic, kannst du meinen Chef [[anrufen]]? Ich bin [[noch]] krank
 
 ANNA: Nic! Gibt es noch [[Taschentücher]]?
 
-ANNA: Ich [[fühl]] mich [[schlecht]] ... Ich kann morgen nicht in die [[Uni]] gehen hatschi!
+ANNA: Ich [[fühl]] mich [[Schlecht]] ... Ich kann morgen nicht in die [[Uni]] gehen hatschi!
 
 SASCHA: … und ich [[erst]] … mir geht’s noch schlechter ...
 
@@ -534,7 +534,7 @@ NIC: Was, ich gehe schon. Hey, es ist Sam!
 
 SAM: Na, ist das cool?
 
-NIC: Wow [[Alter]]! Total cool Mensch!
+NIC: Wow [[alter]]! Total cool Mensch!
 
 SAM: Ich möchte eine Hose kaufen …
 
@@ -546,7 +546,7 @@ ANNA: Mensch Sam, du bist nicht dumm. Du kannst schon gut Deutsch sp
 
 SAM: Und ein Paar Schuhe ...
 
-SAM: Ich war [[allein]] einkaufen!
+SAM: Ich war [[Allein]] einkaufen!
 
 SASCHA: [[Ich geh]]!
 
@@ -562,7 +562,7 @@ SASCHA: Wie bitte?
 
 SASCHA: Ich weiß nicht ... Das ist [[merkwürdig]] ... das sind sehr viele Dosen ... ich weiß wirklich nicht ...
 
-SASCHA: Ja, ich frage Anna. Auf [[Wieder]]sehen!
+SASCHA: Ja, ich frage Anna. Auf [[wieder]]sehen!
 
 SASCHA: Die Tarantel hat gefragt: Warum stehen 400 Dosen Hundefutter vor dem [[Eingang]]?  
 Saam?

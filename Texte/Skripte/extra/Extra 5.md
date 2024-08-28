@@ -1,5 +1,5 @@
 EIN STAR IST GEBOREN  
-MAN: Aber… ich kann nicht [[ohne]] dich leben - ich liebe dich!  
+MAN: Aber… ich kann nicht [[Ohne]] dich leben - ich liebe dich!  
 LADY: Ich liebe dich auch - aber es muss [[sein]]! Es ist vorbei!  
 MAN: Oh, Darling! Nein! Mein Herz wird [[zerbrechen]]!  
 LADY: [[Es tut mir leid]] … es tut mir so leid.  
@@ -22,7 +22,7 @@ SASCHA: [[Das ist ja wie]] Berlin Mitte hier, am Freitag Abend!
 SAM: Häh?  
 SASCHA: In dieser Wohnung ist sehr viel [[los]] … [[Verrückte]] Anrufe … verrückte Namen und jetzt das FBI!  
 NIC: Sascha, [[Schätzchen]] - hat jemand für mich angerufen?  
-SASCHA: … hat [[jemand]] angerufen? [[Wer]] bin ich denn? Deine Sekretärin?  
+SASCHA: … hat [[Jemand]] angerufen? [[wer]] bin ich denn? Deine Sekretärin?  
 NIC: Nein!  
 SASCHA: Du wohnst nicht einmal hier… diese Wohnung ist nicht deine Wohnung … Nie habe ich meine Ruhe hier…  
 NIC: Aber mein Telefon ist kaputt!  
@@ -41,7 +41,7 @@ NIC: Ach so! Der [[wahr]]e [[Traum]] der [[Liebe]]'’.
 SAM: ‚Der wahre Traum der Liebe’ - was ist das?  
 NIC: ‚oh, Troy! Troy! Ich liebe dich!’  
 ‚Und ich liebe dich auch, Erika!’  
-Das ist Saschas Lieblings[[sendung]] …  
+Das ist Saschas Lieblings[[Sendung]] …  
 ANNA: Ja … meine auch …  
 SAM: Ja [[wirklich]], Anna? Und warum?  
 ANNA: Es geht um die Liebe zwischen einem Jungen aus Amerika und einem Mädchen aus Deutschland.  
@@ -52,8 +52,8 @@ NIC: Sascha! ... Bitte sei nicht [[böse]]: ich [[hoffe]] nur, dass je
 SEXY VOICE: Ah, komm [[herein]], setz dich [[hin]] und [[schließ]] die Augen …  
 ANNA: Oh, Sam! Ich liebe diese Werbung.  
 SAM: Oh, [[wofür]] ist das?  
-SEXY VOICE: [[Nun]] … willst du ein [[Stück]] vom Paradies probieren?  
-ANNA: Die Werbung ist für Schoko-Eisbombe Schokolade so [[seidig]], da [[schmilzt]] das Herz [[jeder]] schönen Frau. Schoko-Eisbombe: die Schokolade für Liebende! Hmm - Ich liebe Schoko-Eisbombe! He - die Werbung ist auch gut!  
+SEXY VOICE: [[nun]] … willst du ein [[stück]] vom Paradies probieren?  
+ANNA: Die Werbung ist für Schoko-Eisbombe Schokolade so [[seidig]], da [[schmilzt]] das Herz [[Jeder]] schönen Frau. Schoko-Eisbombe: die Schokolade für Liebende! Hmm - Ich liebe Schoko-Eisbombe! He - die Werbung ist auch gut!  
 V/O: Popcorn in der Mikrowelle, Popcorn in [[Sekundenschnelle]], Und dann auch - Popcorn im [[Bauch]], Es ist Poptastisch!  
 SAM: Und, Anna, magst du Popcorn?  
 ANNA: Ja, [[besonders]] Poptastisch Popcorn!  
@@ -61,7 +61,7 @@ SAM: Wir haben kein Poptastisch Popcorn in the USA, but we make grea
 ANNA: [[Ehrlich]]?  
 SAM: Keine Mikrowelle … just corn in a pan …  
 NIC: Ich hab die Rolle! Ich hab die Rolle!  
-SAM: He! [[Toll]], Mann! Ist ja super…  
+SAM: He! [[toll]], Mann! Ist ja super…  
 ANNA: Was ist los?! Was ist?  
 NIC: [[Sagen wir einfach]] - dass du dieses [[Gesicht]] …  
 … in deinem [[Fernseher]] sehen [[wirst]] …  
@@ -79,13 +79,13 @@ NIC: Nun, es [[läuft]] jeden Tag … es ist heiß … und auch man
 ANNA: Ooh … heiß und stürmisch … ein Drama! Wie [[spannend]]!  
 NIC: Sascha, Baby - wirst du mich lieben, wenn ich ein großer Superstar bin?  
 SASCHA: Ja, Nic … Ich werde dir helfen, ein ganz [[toll]]er Superstar zu werden!  
-NIC: [[Echt]]?  
+NIC: [[echt]]?  
 SASCHA: Ja, echt … Lektion Nummer 1 - So machen alle Superstars einen ganz großen [[ABGANG]]! Auf Wiedersehen, Nic!  
 … Wir sehen uns bei den Oscars!  
 Anna …  
 ANNA: Mhm?  
 SASCHA: Ich glaube, du siehst dir zu viel Werbung an …  
-ANNA: Was meinst du [[damit]]? Zu viel [[Werbung]] …  
+ANNA: Was meinst du [[Damit]]? Zu viel [[Werbung]] …  
 SASCHA: Nun ja, denk mal an [[Saftige]] Happen …  
 ANNA: Ach, Saftige Happen …  
 Hallo - willkomen beim Test für Saftige Happen …  

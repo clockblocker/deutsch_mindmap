@@ -1,1 +1,0 @@
-[[Wörter/Dativ pronomen]]

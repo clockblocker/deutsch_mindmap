@@ -1,0 +1,1 @@
+  - **Neuter**: Die Eltern eines [[Jungen]] Kindes sind [[stolz]]. (The parents of a young child are proud.)

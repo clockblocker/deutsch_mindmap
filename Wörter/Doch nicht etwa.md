@@ -1,1 +1,0 @@
-Was? Unsere Milch? [[Doch]] [[nicht]] [[etwa]] die Milch ... von vor drei Wochen?

@@ -5,7 +5,7 @@ Was wollen wir trinken? So ein Durst
 
 Es [[wird]] [[genug]] für alle sein 
 Wir trinken zusammen 
-[[rollen|Roll]]' das [[Fass]] mal [[rein]] 
+[[rollen|Roll]]' das [[fass]] mal [[rein]] 
 Wir trinken zusammen, nicht allein 
 
 Es wird genug für alle sein 
@@ -27,7 +27,7 @@ Wir schaffen zusammen, nicht allein
 
 
 Jetzt müssen wir [[streiten]] 
-Keiner [[weiß]] wie lang 
+Keiner [[Weiß]] wie lang 
 Ja, [[für ein Leben]] ohne Zwang 
 Jetzt müssen wir streiten
 Keiner weiß wie lang 
@@ -37,7 +37,7 @@ Dann [[kriegt]] der [[Frust]] uns [[nicht mehr]] [[klein]]
 Wir [[halten]] zusammen Keiner [[kämpft]] allein 
 Wir gehen zusammen, nicht allein 
 Dann kriegt der Frust uns nicht mehr klein 
-Wir halten zusammen [[Keiner]] kämpft allein 
+Wir halten zusammen [[keiner]] kämpft allein 
 Wir gehen zusammen, nicht allein 
 
 Was wollen wir trinken, sieben Tage lang? 

@@ -1,3 +1,0 @@
-[[Indefinitpronomen]]
-
-[[je]]de

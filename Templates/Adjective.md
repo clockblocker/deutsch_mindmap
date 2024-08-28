@@ -2,7 +2,7 @@
 [[kleiner]]
 [[am]] [[kleinsten]]
 
-nicht [[groß]]
+nicht [[Groß]]
 
 Synonyme:
 - [[]]

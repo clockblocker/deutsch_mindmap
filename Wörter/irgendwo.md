@@ -1,3 +1,0 @@
- [[irgend]][[wo]]
- 
- [[Indefinitpronomen]] 

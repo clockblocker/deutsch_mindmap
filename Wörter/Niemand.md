@@ -1,3 +1,0 @@
-[[Nie]][[mand]]
-
-[[Indefinitpronomen]]

@@ -1,3 +1,0 @@
-[[je]][[mand]]en
-
- [[Indefinitpronomen]] 

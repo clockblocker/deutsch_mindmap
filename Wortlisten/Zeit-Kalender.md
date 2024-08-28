@@ -32,7 +32,7 @@
 - der [[Feiertag]]
 - der [[Werktag]]
 - das [[Wochenende]]
-- der [[Morgen]]
+- der [[morgen]]
 - der [[Vormittag]]
 - der [[Mittag]]
 - der [[Nachmittag]]
@@ -50,7 +50,7 @@
 - [[gestern]] (no gender, it is an adverb meaning “yesterday”)
 - [[heute]] (no gender, it is an adverb meaning “today”)
 - [[morgen]] (no gender, it is an adverb meaning “tomorrow”)
-- der [[Morgen]] (morning)
+- der [[morgen]] (morning)
 
 - der [[Abend]] (evening)
 

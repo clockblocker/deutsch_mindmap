@@ -7,11 +7,11 @@ Du, du hast, du hast mich
 
 Du, du hast, du hast mich, du hast mich  
 Du hast mich [[gefragt]], du hast mich gefragt  
-Du hast mich gefragt [[und]] [[ich]] [[hab]] [[nichts]] [[gesagt]]
+Du hast mich gefragt [[und]] [[Ich]] [[hab]] [[nichts]] [[gesagt]]
 
-[[Willst]] du [[bis]] [[der]] [[Tod]] [[euch]] [[scheidet]]  
-[[Treu]] [[ihr]] [[sein]] [[für]] [[alle]] [[Tage]]?  
-[[Nein]]!  
+[[willst]] du [[bis]] [[der]] [[Tod]] [[euch]] [[scheidet]]  
+[[Treu]] [[ihr]] [[sein]] [[für]] [[Alle]] [[Tage]]?  
+[[nein]]!  
 Nein!
 
 Willst du bis der Tod euch scheidet  
@@ -32,7 +32,7 @@ Nein!
 Nein!
 
 Willst du bis [[zum]] Tod der [[Scheide]]  
-Sie [[lieben]] [[auch]] in [[schlechten]] [[Tagen]]?  
+Sie [[Lieben]] [[auch]] in [[schlechten]] [[Tagen]]?  
 Nein!  
 Nein!
 

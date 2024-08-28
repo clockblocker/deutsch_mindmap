@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/sicherem.md",
+                "file": "Worter/sicherem.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/umbringen.md",
+                "file": "Worter/umbringen.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wörter/weiter.md",
+                "file": "Worter/weiter.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,40 +194,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "483ad64ae9519fb7",
+  "active": "d0dd1351b59a3225",
   "lastOpenFiles": [
-    "Wörter/sicherem.md",
+    "Worter/sicherem.md",
     "Texte/Diter/Die Katze und die Frau 26.08.md",
-    "Wörter/umbringen.md",
-    "Wörter/brachte.md",
-    "Wörter/bringen.md",
-    "Wörter/mächtigsten.md",
-    "Wörter/zertrampeln.md",
-    "Wörter/besiegen.md",
-    "Wörter/Boden.md",
-    "Wörter/restliche.md",
-    "Wörter/abschießen.md",
-    "Wörter/als.md",
-    "Wörter/mächtig.md",
-    "Wörter/erschien.md",
-    "Wörter/Prankenhieb.md",
-    "Wörter/vertreiben.md",
-    "Wörter/en.md",
-    "Wörter/weiter.md",
-    "Wörter/weiterziehen.md",
-    "Wörter/kämpfen.md",
-    "Wörter/kämpfte.md",
-    "Wörter/mächtigen.md",
-    "Wörter/Verben/Verbformen/macht.md",
-    "Wörter/sondern.md",
-    "Wörter/springen.md",
-    "Wörter/Pranken.md",
+    "Worter/umbringen.md",
+    "Worter/brachte.md",
+    "Worter/bringen.md",
+    "Worter/mächtigsten.md",
+    "Worter/zertrampeln.md",
+    "Worter/besiegen.md",
+    "Worter/Boden.md",
+    "Worter/restliche.md",
+    "Worter/abschießen.md",
+    "Worter/als.md",
+    "Worter/mächtig.md",
+    "Worter/erschien.md",
+    "Worter/Prankenhieb.md",
+    "Worter/vertreiben.md",
+    "Worter/en.md",
+    "Worter/weiter.md",
+    "Worter/weiterziehen.md",
+    "Worter/kämpfen.md",
+    "Worter/kämpfte.md",
+    "Worter/mächtigen.md",
+    "Worter/Verben/Verbformen/macht.md",
+    "Worter/sondern.md",
+    "Worter/springen.md",
+    "Worter/Pranken.md",
     "Anhänge/Pasted image 20240826114709.png",
     "Anhänge/telegram-cloud-document-2-5337012686557302967.jpg",
     "Anhänge/telegram-cloud-document-2-5346047493861823310.jpg",
@@ -245,7 +245,7 @@
     "Texte/Gedichte/Kinder/Buhe",
     "Texte/Diter",
     "Texte/Welt",
-    "Wörter/Adverbien",
+    "Worter/Adverbien",
     "smart-chats",
     "Texte/Skripte/Muzzy",
     "Untitled 2.canvas",

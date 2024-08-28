@@ -1,9 +1,9 @@
 
-[[Nun]], [[liebe]] [[Kinder]], [[Gebt fein Acht]]  
+[[nun]], [[Liebe]] [[Kinder]], [[Gebt fein Acht]]  
 [[Ich]] [[bin]] [[die]] [[Stimme]] [[aus]] [[dem]] [[Kissen]]
 Ich [hab]' [[euch]] [[etwas]] [[mitgebracht]]  
 Hab' [[es]] [[aus]] [[meiner]] [[Brust]] [[gerissen]]
-[[Mit]] [[diesem]] [[Herz]] hab' [[ich]] [[die]] [[Macht]]  
+[[Mit]] [[diesem]] [[Herz]] hab' [[Ich]] [[die]] [[macht]]  
 Die [[Augenlider]] [[zu]] [[erpressen]]
 Ich [[singe]], [[bis]] der [[Tag]] [[erwacht]]
 Ein [[heller]] [[Schein]] [[am]] [[Firmament]]  

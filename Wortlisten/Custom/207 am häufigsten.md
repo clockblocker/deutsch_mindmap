@@ -41,7 +41,7 @@
 
 [[durch]]
 
-[[wenn]]
+[[Wenn]]
 
 [[nur]]
 
@@ -81,7 +81,7 @@
 
 [[mir]]
 
-[[über]]
+[[Über]]
 
 [[ihm]]
 
@@ -93,7 +93,7 @@
 
 [[uns]]
 
-[[da]]
+[[Da]]
 
 [[zum]]
 
@@ -145,7 +145,7 @@
 
 [[seiner]]
 
-[[alle]]
+[[Alle]]
 
 [[wieder]]
 
@@ -161,11 +161,11 @@
 
 [[einzelnen]]
 
-[[wo]]
+[[Wo]]
 
 [[muss]]
 
-[[ohne]]
+[[Ohne]]
 
 [[eines]]
 
@@ -195,7 +195,7 @@
 
 [[sondern]]
 
-[[weil]]
+[[Weil]]
 
 [[welcher]]
 
@@ -203,7 +203,7 @@
 
 [[diesem]]
 
-[[alles]]
+[[Alles]]
 
 [[waren]]
 
@@ -215,7 +215,7 @@
 
 [[mein]]
 
-[[also]]
+[[Also]]
 
 [[soll]]
 
@@ -271,7 +271,7 @@
 
 [[dich]]
 
-[[allein]]
+[[Allein]]
 
 [[Herren]]
 
@@ -285,7 +285,7 @@
 
 [[kein]]
 
-[[damit]]
+[[Damit]]
 
 [[gar]]
 
@@ -323,7 +323,7 @@
 
 [[wurden]]
 
-[[weiß]]
+[[Weiß]]
 
 [[gewesen]]
 [[Seite]]
@@ -344,7 +344,7 @@
 [[ihrem]]
 [[zwar]]
 [[gemacht]]
-[[dort]]
+[[Dort]]
 [[kommen]]
 [[Welt]]
 [[heute]]

@@ -1,8 +1,0 @@
-[[mir]]
-[[dir]]
-[[ihm]]
-[[ihr]]
-[[uns]]
-[[euch]]
-[[ihnen]]
-[[Ihnen]]

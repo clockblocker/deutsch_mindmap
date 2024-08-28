@@ -5,7 +5,7 @@ Sam kann nicht sehr gut Deutsch sprechen.
 Nic findet [[heraus]], dass Sam sehr reich ist.  
 Ist Sam in Sascha verliebt?  
 Ist Sascha in Sam verliebt?  
-Und in [[wen]] ist Nic verliebt?  
+Und in [[Wen]] ist Nic verliebt?  
 Hier ist die nächste Folge von EXTRA …  
 NIC: JOB: STUNTMAN  
 ALTER: zwanzig, … nein, dreißig – das [[wirkt]] besser.  
@@ -16,7 +16,7 @@ ANNA: Das ist der [[Rauchmelder]]!
 SASCHA: Das weiß ich.  
 SACSHA: [[So ist besser]].  
 ANNA: Das hier war das Problem!  
-ANNA: [[Möchte]] [[jemand]] [[schwarze]], [[hartgekocht|hart gekochte]] Eier?  
+ANNA: [[möchte]] [[Jemand]] [[schwarze]], [[hartgekocht|hart gekochte]] Eier?  
 SASCHA: Nic? Sind das deine Eier?  
 NIC: Was?  
 SASCHA:[[ Ich hab’s gewusst]]. Was machst du nur? [[Spinnst]] du?  
@@ -38,8 +38,8 @@ ANNA: Ein Stuntman! Das ist ja super!
 SASCHA: Was? Der coolste Stuntman der Welt. Auf einem Moped?  
 NIC: Nein, Baby, auf einer coolen Harley Davidson!  
 ANNA: Wow! Filme! Stars! Und viel Geld!  
-[[Schau]] dir Claudia an. Ich will auch [[so ein]] [[Kleid]].  
-SASCHA: Ahh. Genau das [[Richtige]] für mich!  
+[[schau]] dir Claudia an. Ich will auch [[so ein]] [[Kleid]].  
+SASCHA: Ahh. Genau das [[richtige]] für mich!  
 SASCHA: [[Wie viel kostet]] es?  
 ANNA: Mal sehen ...  
 BOTH: Was? Sooooo viel?  
@@ -63,7 +63,7 @@ SASCHA/ANNA: Jaaaa?
 SAM: … ich … [[suche]] mir … einen Job!  
 ANNA: Super! Das ist eine gute Idee, Sam!  
 SASCHA: Ja, gibt es im Internet gute Jobs?  
-NIC: Hey Sam,[[was ist los]] mit dir? Du musst nicht arbeiten!  
+NIC: Hey Sam,[[Was ist los]] mit dir? Du musst nicht arbeiten!  
 Du hast doch Geld!  
 ANNA: Okay – hier: Job-[[Angebote]] …  
 SASCHA: Und, was steht da?  
@@ -75,7 +75,7 @@ ANNA: Meine Pflanze! Ahhh meine arme Pflanze!
 BOTH: Nein …  
 ANNA: Und hier ist ein [[Job als]] Koch …  
 BOTH: Nein …  
-ANNA: [[Warte]] mal. Hier! Das ist gut!  
+ANNA: [[warte]] mal. Hier! Das ist gut!  
 Ein Job als Kellner!  
 SASCHA: Ja, genau! Gut [[aussehende]] [[Kellner]] finde ich super!  
 NIC: Hast du gut aussehend gesagt? Hier bin ich!  
@@ -88,7 +88,7 @@ SAM: Super!
 SAM: Mum! Guess what! I’ve got a job!  
 ANNIE: Nadja,  
 Sam will einen Job – aber das ist sehr [[schwierig]].  
-[[Als]] [[was]] kann er arbeiten?  
+[[als]] [[was]] kann er arbeiten?  
 In einem Waschsalon? Oh nein!  
 Als Gärtner? Oh nein!  
 SASCHA: mmh …  
@@ -102,7 +102,7 @@ Ja hallo Stefaaaan! Ja, wie geht’s dir? Stefan?
 SASCHA: Heute Abend? Zum Abendessen? Ja gern Stefan. Ja fantastisch Stefan. Bis dann Stefan.  
 Das war Stefan.  
 A/N/S: Nein!  
-SASCHA: Er will mit mir essen gehen … und [[über]] meinen neuen Job sprechen! Jaaaa!  
+SASCHA: Er will mit mir essen gehen … und [[Über]] meinen neuen Job sprechen! Jaaaa!  
 SAM: Ohhh! Wer ist Stefan?  
 ANNA: Er ist Saschas Chef.  
 SASCHA: Ja, er ist total reich. Und so intelligent! Und er will mit mir essen gehen!  
@@ -119,7 +119,7 @@ SAM: Yeah!
 SASCHA: Was soll ich zu Stefan sagen? Ich habe nichts zu sagen.  
 NIC: Ich habe eine Idee... Wir können alle hier zu Hause essen!  
 ANNA: Ja! Wir können zusammen mit Stefan sprechen … über deinen neuen Job …  
-SASCHA: Hier? Nein, [[das geht nicht]]!  
+SASCHA: Hier? Nein, [[Das geht nicht]]!  
 NIC: Ich kann [[für]] euch kochen …  
 SASCHA: Nein! Das geht nicht!  
 NIC: Komm schon, Sascha.  
@@ -132,7 +132,7 @@ NIC: Kein Problem Sascha! Wir haben alles unter Kontrolle! Du bekommst
 SAM: Ah! Guten Tag.  
 NIC: Guten Tag. Haben Sie einen Tisch für mich?  
 SAM: Hhhmm..ja, ich habe einen Tisch für Sie…  
-[[Möchten]] Sie hier sitzen? ... oder [[da]]?  
+[[möchten]] Sie hier sitzen? ... oder [[Da]]?  
 NIC: Hier.  
 SAM: Ja bitte? Ahh. Okay.  
 Die Rechnung!  
@@ -154,8 +154,8 @@ NIC: Sams Café ist jetzt [[geschlossen]] …
 SAM/ANNA: Awwwwww.  
 VOICE: Ein Paket für Sascha Meier und Anna Schmidt.  
 ANNA: Schon. Ohh! Danke! … Sascha … schau ‘mal!  
-SASCHA: … [[Für]] die liebe Anna … von S.  
-… Für die [[hübsche]] Sascha …von S … [[Wer]] ist S?  
+SASCHA: … [[für]] die liebe Anna … von S.  
+… Für die [[hübsche]] Sascha …von S … [[wer]] ist S?  
 SASCHA: Das muss Stefan sein ...  
 ANNA: Oh, was ist es?  
 Ahh! Sascha! Schau ‘mal!  
@@ -202,8 +202,8 @@ SASCHA: Danke Sam.
 Sam spricht nicht so gut Deutsch.  
 STEFAN: Ach so? Komisch.  
 STEFAN: Also Sascha, so eine schöne Wohnung ... für eine wunderschöne Lady!  
-SAM: Das Essen ist [[fertig]]! Bitte [[setzt]] euch!  
-NIC: Hey Sam! [[Na los]]!  
+SAM: Das Essen ist [[Fertig]]! Bitte [[setzt]] euch!  
+NIC: Hey Sam! [[na los]]!  
 SAM: Heute gibt es Stinke-Brot mit Ei.  
 STEFAN: Lecker! Mein Lieblingsessen. [[Stinke]]-Brot mit Ei!  
 SASCHA: [[Schinken]]brot.  
@@ -216,7 +216,7 @@ STEFAN: Sascha, dein [[Lächeln]] … ist so süß.
 NIC: Dein Lächeln ist total falsch.  
 STEFAN: … Ja Sascha, und mit deiner Figur ... [[wirst]] du auch viel [[Erfolg]] haben …  
 STEFAN: Ja, ich glaube, … du bekommst einen besseren Job …  
-SAM: Der zweite [[Gang]]! Hunde-Suppe!  
+SAM: Der zweite [[gang]]! Hunde-Suppe!  
 STEFAN: Was? Hunde-Suppe?  
 SASCHA: [[Hühner]]suppe!  
 SAM: Oh … sorry ... Hühnersuppe!  
@@ -229,7 +229,7 @@ STEFAN: Du [[blöder]] ....
 SAM: I’m sorry man. Sorry Sascha.  
 STEFAN: Bring mir einen Kaffee du [[Trottel]]!  
 ANNA: Trottel!  
-STEFAN: Also [[zurück zum Thema]], [[lass]] uns über dich und mich reden. …Sascha.. du hast so schöne Augen …  
+STEFAN: Also [[zurück zum Thema]], [[Lass]] uns über dich und mich reden. …Sascha.. du hast so schöne Augen …  
 NIC: … [[Warte nur]], du [[Schleimer]]!  
 STEFAN: Igitt! Der ist kalt!  
 Ich will einen heißen Kaffee!  
@@ -238,7 +238,7 @@ NIC: Einen heißen Kaffee. Das hier [[wird]] ihm [[Feuer]] geben.
 BOTH: Super!  
 STEFAN: Man muss hart arbeiten … für sein Geld … hart arbeiten ... Igitt!!!  
 Du Idiot! Willst du mich [[vergiften]]?  
-SASCHA: Hey, [[spinnst]] du? Sprich nicht so mit meinem Freund!  
+SASCHA: Hey, [[Spinnst]] du? Sprich nicht so mit meinem Freund!  
 SASCHA: … [[behalt]] deinen Job, du [[Schleimer]], du Oktopus!  
 SASCHA: … und die Kleider [[schicken]] wir zurück …  
 STEFAN: Welche Kleider?  
@@ -258,7 +258,7 @@ ANNA: Sam, die Kleider sind total teuer! Woher hast du das Geld?
 SAM: Mmh … Sascha und Anna … ich muss euch was sagen …  
 NIC: Oh nein. [[Jetzt geht das wieder los]] …  
 SAM: In Amerika … habe ich … Geld ...  
-SASCHA: Ja, [[weil]] du in einem Museum arbeitest.  
+SASCHA: Ja, [[Weil]] du in einem Museum arbeitest.  
 ANNA: Ja! Das Museum auf den Fotos!  
 SAM: Ich wohne in einem Museum.  
 ANNA: Ich glaube er arbeitet in einem Museum.  
@@ -266,7 +266,7 @@ NIC: Ja! Genau, genau und du hast das Geld [[dafür]] [[sparen|gespart
 SAM: … ja … hahaha!  
 SASCHA: Aber [[vorher]] gehen wir aus!  
 ANNA: In einen Club! Hey, Nic und Sam! Kommt mit!  
-SASCHA: Ja, aber [[wohin]]?  
+SASCHA: Ja, aber [[Wohin]]?  
 ANNA: Wir gehen ins „Babylon“!  
 SASCHA: Nein! Das ist total out!  
 ANNA: Okay. Wollen wir in den „Energy-Club“ gehen?  

@@ -1,1 +1,0 @@
-  - **Plural**: Ich vertraue [[jungen]] Leuten. (I trust young people.)
