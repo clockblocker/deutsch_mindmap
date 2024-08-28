@@ -13,7 +13,103 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Diter/Die Katze und die Frau 26.08.md",
+                "file": "Texte/Skripte/extra/Extra 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a57681c664023232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/bedeutet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5113eb4c9ec935e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/bedeuten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33bd4be680a7097c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/bedeuten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8a01eb3c23be52c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/brauchen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd7ffe8f35fb8954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/köstliche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f6aef14174d9341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/köstlich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a22ca685ed83d98d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/köstlich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59f5a0a2237c10b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/köstlich.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Diter/Die Katze und die Frau 26.08.md",
+                "file": "Worter/bedeuten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Diter/Die Katze und die Frau 26.08.md",
+                "file": "Worter/bedeuten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Diter/Die Katze und die Frau 26.08.md"
+                "file": "Worter/bedeuten.md"
               }
             }
           }
@@ -200,34 +297,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d0dd1351b59a3225",
+  "active": "a5113eb4c9ec935e",
   "lastOpenFiles": [
-    "Worter/sicherem.md",
-    "Texte/Diter/Die Katze und die Frau 26.08.md",
-    "Worter/umbringen.md",
-    "Worter/brachte.md",
-    "Worter/bringen.md",
-    "Worter/mächtigsten.md",
-    "Worter/zertrampeln.md",
-    "Worter/besiegen.md",
-    "Worter/Boden.md",
-    "Worter/restliche.md",
-    "Worter/abschießen.md",
-    "Worter/als.md",
-    "Worter/mächtig.md",
-    "Worter/erschien.md",
-    "Worter/Prankenhieb.md",
-    "Worter/vertreiben.md",
-    "Worter/en.md",
-    "Worter/weiter.md",
-    "Worter/weiterziehen.md",
-    "Worter/kämpfen.md",
-    "Worter/kämpfte.md",
-    "Worter/mächtigen.md",
-    "Worter/Verben/Verbformen/macht.md",
-    "Worter/sondern.md",
-    "Worter/springen.md",
-    "Worter/Pranken.md",
+    "Worter/deuten.md",
+    "Worter/bedeutend.md",
+    "Worter/bedeuten Sie.md",
+    "Worter/bedeutetet.md",
+    "Worter/bedeuteten.md",
+    "Worter/bedeutetest.md",
+    "Worter/bedeutest.md",
+    "Worter/bedeute.md",
+    "Worter/deut.md",
+    "Worter/verdecken.md",
+    "Worter/verschleiern.md",
+    "Worter/verbergen.md",
+    "Worter/verhüllen.md",
+    "Worter/ausdrücken.md",
+    "Worter/kennzeichnen.md",
+    "Worter/anzeigen.md",
+    "Worter/signalisieren.md",
+    "Worter/meinen.md",
+    "Worter/bedeutete.md",
+    "Worter/bedeutet.md",
+    "Worter/bedeuten.md",
+    "Texte/Skripte/extra/Extra 5.md",
+    "Worter/brauchen.md",
+    "Worter/durch.md",
+    "Worter/Magen.md",
+    "Worter/Magens.md",
     "Anhänge/Pasted image 20240826114709.png",
     "Anhänge/telegram-cloud-document-2-5337012686557302967.jpg",
     "Anhänge/telegram-cloud-document-2-5346047493861823310.jpg",

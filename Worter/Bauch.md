@@ -22,4 +22,4 @@ Morphems:
 [[Bauch]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin[[Magen]]

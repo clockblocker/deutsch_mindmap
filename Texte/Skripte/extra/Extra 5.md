@@ -127,8 +127,8 @@ NIC: Aaaaahhh! Aber jetzt, Sam, habe ich ein ganzes Drehbuch für mic
 SAM: Nic - sag es mir! Was ist es?  
 NIC: Es ist meine Show … und wenn ich ein Star bin … werde ich dich nicht vergessen, mein Freund …  
 NIC: Nein, nein, nein, nein, ich werde meine Freunde nicht vergessen - aber manchmal will ich auch allein sein und dann gehen meine Dienstboten ans Telefon …  
-CHARLOTTE: Hallöchen - hier ist Charlotte… sehen Sie um 17.30 Uhr zu: ich zeige Ihnen, wie man eine köstliche Schoko-Eisbombe macht. Sie brauchen nur Eier, Schokolade und Butter … Und vergessen Sie nicht: Liebe geht durch den Magen!  
-SAM: Liebe geht durch den Magen? Was bedeutet das?  
+CHARLOTTE: Hallöchen - hier ist Charlotte… sehen Sie um 17.30 Uhr zu: ich zeige Ihnen, wie man eine [[köstliche]] Schoko-Eisbombe macht. Sie [[brauchen]] nur Eier, Schokolade und Butter … Und vergessen Sie nicht: Liebe geht durch den Magen!  
+SAM: Liebe geht [[durch]] den [[Magen]]? Was [[bedeutet]] das?  
 NIC: Das heißt, wenn du ein Mädchen liebst, dann koch' für sie!  
 SAM: Ich will kochen lernen …  
 NIC: Du? Kochen?  

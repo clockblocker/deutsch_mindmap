@@ -16,5 +16,23 @@
       ],
       "key": "N"
     }
+  ],
+  "cbcr-filler-de:backlink-all-to-current-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "cbcr-filler-de:log-to-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }
