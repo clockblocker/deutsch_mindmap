@@ -4,6 +4,7 @@ die [[Geister]]
 Beispiele:
 
 - [[Dämonen]], [[Geister]], schwarze [[Feen]]  
+- Im [[Geist]] [[getrennt]] (getrennt, getrennt, getrennt, getrennt)  
 
 ---
 Synonyme:

@@ -66,4 +66,4 @@ to let, to allow
 ---
 
 **Morphems of only infinitive:**  
-- [[Lass]][[en]][[stören]]
+- [[Lass]][[en]][[stören]][[verlassen]]

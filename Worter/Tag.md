@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tag]], [[Tages]], [[Tage]], [[Tagen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin[[erwachen]]

@@ -75,3 +75,4 @@ good
 
 Tags: 
 #Adjective
+[[Schlecht]]

@@ -36,7 +36,7 @@ Sie [[Lieben]] [[auch]] in [[schlechten]] [[Tagen]]?
 Nein!  
 Nein!
 
-Willst du bis der Tod euch scheidet  
+Willst du bis der Tod euch [[scheidet]]  
 Treu ihr sein?  
 Nein!  
 Nein!

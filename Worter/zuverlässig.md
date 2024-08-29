@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[zu]][[verlässig]]
+[[zu]][[verlässig]][[Treu]]

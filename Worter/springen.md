@@ -70,4 +70,4 @@ Konjunktiv II:
 - Wenn er trainiert hätte, [[spränge]] er weiter.
 - Wenn wir zusammenarbeiten, [[sprängen]] wir synchron.
 - Wenn ihr es übt, [[sprängt]] ihr weiter.
-- Wenn sie wollten, [[sprängen]] sie über alle Hindernisse.
+- Wenn sie wollten, [[sprängen]] sie über alle Hindernisse.[[kriechen]]

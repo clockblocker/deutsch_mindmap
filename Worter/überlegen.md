@@ -4,6 +4,7 @@ haben [[überlegt]]
 
 ---
 Die Katze [[Über]][[legte]] noch, wie sie das anstellen sollte,
+Überheblich, überlegen  
 
 ---
 

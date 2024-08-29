@@ -1,1 +1,1 @@
-nicht trenbaren [[verstehen]]
+nicht trenbaren [[verstehen]][[verdammen]][[verlassen]]

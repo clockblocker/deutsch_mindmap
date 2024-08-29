@@ -6,6 +6,10 @@ haben [[geweint]]
 *Der bitterböse Friederich,*  
 *der schrie und [[weinte]] bitterlich.*  
 
+*Hast viel [[geweint]] (geweint, geweint, geweint, geweint)*  
+
+*Ich will dich nie [[verlassen]] (du [[weinst]], du weinst, du weinst, du weinst)*  
+
 ---
 
 Synonyme:

@@ -8,12 +8,156 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8a01eb3c23be52c",
+            "id": "f39cb5c7fe7e7249",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Ich Will.md",
+                "file": "Texte/Skripte/extra/Extra 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7438e2e0bca9a47e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/überfallen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2cb6cb817e59c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Überraschen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e25b08c7a5a10314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Überheblich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d8cbb352de9bcd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Schlecht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1d0ad10f1ec15f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Bettzeug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ad451e57cd25d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/kriechen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "124659b7078e17bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/heller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34e145bee8f7de44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/hell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d97781905a1880d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/erwachen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8ac6e8b05d6e63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/scheidet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e3d69b5259e092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/scheiden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7149298227c119c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/scheiden.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +349,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Ich Will.md",
+                "file": "Texte/Skripte/extra/Extra 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Ich Will.md",
+                "file": "Texte/Skripte/extra/Extra 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +389,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Ich Will.md"
+                "file": "Texte/Skripte/extra/Extra 5.md"
               }
             }
           }
@@ -272,34 +416,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8a01eb3c23be52c",
+  "active": "f39cb5c7fe7e7249",
   "lastOpenFiles": [
-    "Worter/fühlen.md",
-    "Texte/Gedichte/Rammstein/Ich Will.md",
-    "Worter/untergehen.md",
-    "Worter/untergehend.md",
-    "Worter/gehen Sie unter.md",
-    "Worter/ginget unter.md",
-    "Worter/gehet unter.md",
-    "Worter/gingt unter.md",
-    "Worter/gingen unter.md",
-    "Worter/gehen unter.md",
-    "Worter/geht unter.md",
-    "Worter/gingest unter.md",
-    "Worter/gehest unter.md",
-    "Worter/geh unter.md",
-    "Worter/gingst unter.md",
-    "Worter/gehst unter.md",
-    "Worter/ginge unter.md",
-    "Worter/gehe unter.md",
-    "Worter/unter.md",
-    "Worter/beginnen.md",
-    "Worter/aufgehen.md",
-    "Worter/aufsteigen.md",
-    "Worter/auftauchen.md",
-    "Worter/zu Grunde gehen.md",
-    "Worter/verschwinden.md",
-    "Worter/versinken.md",
+    "Texte/Skripte/extra/Extra 13.md",
+    "Texte/Skripte/extra/Extra 12.md",
+    "Texte/Skripte/extra/Extra 11.md",
+    "Texte/Skripte/extra/Extra 10.md",
+    "Texte/Skripte/extra/Extra 9.md",
+    "Texte/Skripte/extra/Extra 8.md",
+    "Texte/Skripte/extra/Extra 7.md",
+    "Texte/Skripte/extra/Extra 6.md",
+    "Texte/Skripte/extra/Extra 1.md",
+    "Texte/Skripte/extra/Extra 5.md",
+    "Texte/Emil und die Detektive/Emil und die Detektive 1.md",
+    "Texte/Emil und die Detektive",
+    "Texte/Gedichte/Rammstein/deutschland.md",
+    "Worter/wer hoch steigt, der wird tief fallen.md",
+    "Worter/tief.md",
+    "Worter/wer.md",
+    "Worter/proverbs.md",
+    "Worter/Segen.md",
+    "Worter/Fluch.md",
+    "Worter/Segens.md",
+    "Worter/Schutz.md",
+    "Worter/Fürsorge.md",
+    "Worter/Gnade.md",
+    "Worter/Weihe.md",
+    "Worter/Segnung.md",
+    "Worter/Weihung.md",
+    "Worter/Flüchen.md",
     "Anhänge/Pasted image 20240826114709.png",
     "Anhänge/telegram-cloud-document-2-5337012686557302967.jpg",
     "Anhänge/telegram-cloud-document-2-5346047493861823310.jpg",
@@ -319,7 +464,6 @@
     "Texte/Welt",
     "Worter/Adverbien",
     "smart-chats",
-    "Texte/Skripte/Muzzy",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

@@ -6,6 +6,7 @@ haben [[gewartet]]
 Ich [[warte]] auf die Post.
 Ich [[warte]] nur noch auf die Antwort!  
 ANNA: [[warte]] mal. Hier! Das ist gut!  
+Sie [[warten]], bis der Mond erwacht  
 
 
 ---
@@ -65,3 +66,4 @@ to wait
 
 **Morphems of only infinitive:**  
 - [[wart]][[en]]
+

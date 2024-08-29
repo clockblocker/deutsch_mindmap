@@ -12,8 +12,8 @@ Mein [[Herz]] brennt!
 
 Sie kommen zu euch in der Nacht  
 [[Dämonen]], [[Geister]], schwarze [[Feen]]  
-Sie kriechen aus dem Kellerschacht  
-Und werden unter euer Bettzeug sehen
+Sie [[kriechen]] aus dem [[Kellerschacht]]  
+Und werden unter euer [[Bettzeug]] sehen
 
 Nun, liebe Kinder, gebt fein Acht  
 Ich bin die Stimme aus dem Kissen  
@@ -24,14 +24,14 @@ Mein Herz brennt!
 Mein Herz brennt!
   
 Sie kommen zu euch in der Nacht  
-Und stehlen eure kleinen, heißen Tränen
-Sie warten, bis der Mond erwacht  
-Und drücken sie in meine kalten Venen
+Und [[stehlen]] eure kleinen, [[heißen]] [[Tränen]]
+Sie [[warten]], bis der [[Mond]] erwacht  
+Und [[drücken]] sie in meine kalten [[Venen]]
 
 Nun, liebe Kinder, gebt fein Acht  
 Ich bin die Stimme aus dem Kissen
 
-Ich singe, bis der Tag erwacht  
+Ich singe, bis der Tag [[erwacht]]  
 Ein heller Schein am Firmament
   
 Mit diesem Herz hab' ich die Macht  

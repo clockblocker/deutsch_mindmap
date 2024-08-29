@@ -73,4 +73,4 @@ Konjunktiv II:
 - Wenn er könnte, [[behielte]] er das Geheimnis.
 - Wenn wir dürften, [[behielten]] wir den Ring.
 - Wenn ihr es wüsstet, [[behieltet]] ihr die Wahrheit.
-- Wenn sie es könnten, [[behielten]] sie die Kontrolle.
+- Wenn sie es könnten, [[behielten]] sie die Kontrolle.[[übergeben]]

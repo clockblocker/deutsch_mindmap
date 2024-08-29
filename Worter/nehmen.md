@@ -79,4 +79,4 @@ Konjunktiv II:
 - Wenn wir es uns leisten könnten, [[nähmen]] wir die Reise.
 - Wenn ihr wüsstet, was ihr wollt, [[nähmet]] ihr die Chance.
 - Wenn sie die Mittel hätten, [[nähmen]] sie die Gelegenheit.
-```​⬤
+```​⬤[[Übernehmen]]

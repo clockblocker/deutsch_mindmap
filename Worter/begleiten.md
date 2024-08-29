@@ -73,4 +73,4 @@ Konjunktiv II:
 - Wenn er es wollte, [[begleitete]] er uns.
 - Wenn wir eingeladen wären, [[begleiteten]] wir sie.
 - Wenn ihr nichts vorhättet, [[begleitetet]] ihr uns.
-- Wenn sie verfügbar wären, [[begleiteten]] sie die Gruppe.
+- Wenn sie verfügbar wären, [[begleiteten]] sie die Gruppe.[[verlassen]]
