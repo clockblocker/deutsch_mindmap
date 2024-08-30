@@ -1,69 +1,35 @@
-🚚 [[ziehen]]  
+🚚 [[ziehen]] + Akk/Dat, [ˈʦiːən]
 [[zog]]  
 haben [[gezogen]]
 
 ---
-- SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?
+- SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?\
+- Also [[ziehen]] Sie Ihre Strandkleider an!
 
 ---
 + + weiter = [[weiterziehen]]
 
 ---
+Synonyme: [[zerren]], [[reißen]], [[schleifen]], [[schleppen]], [[verziehen]]
+Antonyme: [[schieben]], [[heben]], [[legen]], [[drücken]], [[stoßen]]
 
+---
+Übersetzung: to pull, to draw
 
-**Synonyme:**
-
-- [[schleppen]], [[zerren]], [[holen]]
+---
+Morpheme: [[zieh]][[en]]
+ #Verb  #Trennbar
 
 ---
 
-**Beispiele:**
 
-- Ich [[ziehe]] den Wagen.
-- Du [[ziehst]] die Tür auf.
-- Er [[zieht]] das Seil.
-- Es [[zieht]] nach Osten.
-- Sie [[zieht]] den Vorhang zu.
-- Wir [[ziehen]] ins Ausland.
-- Ihr [[zieht]] die Stühle an den Tisch.
-- Sie [[ziehen]] die Jacken an.
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[ziehe]] | [[zog]] | - | [[ziehe]] | [[zöge]] |
+| Du | [[ziehst]] | [[zogst]] | [[zieh]] | [[zögest]] | [[zögest]] |
+| Er/sie/es | [[zieht]] | [[zog]] | - | [[ziehe]] | [[zöge]] |
+| Wir | [[ziehen]] | [[zogen]] | - | [[ziehen]] | [[zögen]] |
+| Ihr | [[zieht]] | [[zogt]] | [[zieht]] | [[ziehet]] | [[zöget]] |
+| Sie | [[ziehen]] | [[zogen]] | [[ziehen Sie]] | [[ziehen]] | [[zögen]] |
 
----
-
-**Übersetzung**:
-to pull, to move
-
----
- #Verb  #Unregelmäßig
-
----
-
-**Präteritum:**
-
-- Ich [[zog]] den Wagen.
-- Du [[zogst]] die Tür auf.
-- Er [[zog]] das Seil.
-- Es [[zog]] nach Osten.
-- Sie [[zog]] den Vorhang zu.
-- Wir [[zogen]] ins Ausland.
-- Ihr [[zogt]] die Stühle an den Tisch.
-- Sie [[zogen]] die Jacken an.
-
----
-
-**Imperativ:**
-
-- Ich [[ziehe]] den Wagen.
-- Du [[zieh]] den Wagen.
-- Er [[ziehe]] den Wagen.
-- Es [[zieht]] den Wagen.
-- Sie [[ziehe]] den Wagen.
-- Wir [[ziehen]] den Wagen.
-- Ihr [[zieht]] den Wagen.
-- Sie [[ziehen]] den Wagen.
-
----
-
-**Morphems of only infinitive:**  
-- [[zieh]][[en]]
-
+Partizip I: [[ziehend]], Partizip II: [[gezogen]]

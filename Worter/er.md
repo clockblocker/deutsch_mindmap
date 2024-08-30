@@ -1,1 +1,1 @@
-[[erwachen]]
+[[erwachen]][[erzählen]][[Wetter]][[Strandkleider]]

@@ -1,7 +1,7 @@
 [[köstlichen]]
 
 ---
--
+- Und besonders mit deiner [[köstlichen]] Schoko-Eisbombe. Das freut mich …  
 -
 
 ---

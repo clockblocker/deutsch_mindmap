@@ -63,4 +63,4 @@ Konjunktiv I:
 - Sie meint, du [[reißest]] die Verpackung auf.
 - Er behauptet, er [[reiße]] das Seil durch.
 - Wir erklären, wir [[reißen]] das Gebäude ab.
-- Ihr sagt,​⬤
+- Ihr sagt,​⬤[[ziehen]]

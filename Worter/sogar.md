@@ -3,6 +3,7 @@
 ---
 Ein [[Einbrecher]]? Oh, vielleicht ist er [[sogar]] noch drin?
 Er hat mir [[sogar]] ein Kleid geschickt!  
+...sogar Ei
 
 ---
 

@@ -1,3 +1,3 @@
 Alle [[anderen]] 
 
-other
+other[[andere]][[anders]]

@@ -7,6 +7,7 @@ Beispiele:
 - Sie hat das [[durch]] geschafft.
 - Das [[durch]] ist ein wichtiger Teil des Prozesses.
 - SAM: Liebe geht [[durch]] den Magen? Was bedeutet das?  
+- ‘[[Leibe geht durch den Magen]].’ What’s that? Um, just a German saying, that’s all.  
 
 ---
 Synonyme:
@@ -31,3 +32,4 @@ Morphems:
 По городу
 
 
+[[Leibe geht durch den Magen]]

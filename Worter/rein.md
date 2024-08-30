@@ -3,3 +3,4 @@ kutz für [[herein]]
 Roll' das Fass mal [[rein]] 
 SASCHA: Hilfe, komm schon [[rein]].
 Und ach ... lass die Tarantel nicht [[rein]]
+[[sauber]][[schmutzig]]

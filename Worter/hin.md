@@ -1,4 +1,5 @@
 SEXY VOICE: Ah, komm [[herein]], setz dich [[hin]] und schließ die Augen …
+schließ die Augen und [[setz]] dich [[hin]]
 
 Synonyme:
 - [[dorthin]], [[dahin]], [[nach dort]]

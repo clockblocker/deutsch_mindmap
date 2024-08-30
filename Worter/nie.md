@@ -3,4 +3,4 @@ ANNA: Wir haben [[nie]] Geld!
 
 
 [[Nimmer]]
-[[Niemand]]
+[[Niemand]][[sowie]]

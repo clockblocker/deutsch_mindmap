@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[weich]]
+[[weich]][[seidig]]

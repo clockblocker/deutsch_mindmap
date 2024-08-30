@@ -31,4 +31,4 @@ Morpheme: [[scheide]][[n]]
 
 Partizip I: [[scheidend]], Partizip II: [[geschieden]]
 
-[[scheiden]] - [[scheide]] = [[n]]
+[[scheiden]] - [[scheide]] = [[n]][[vermischen]]

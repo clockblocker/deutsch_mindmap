@@ -22,3 +22,6 @@ Alle Formen:
 | Accusative  | den Fernseher     | die Fernseher    |
 | Dative      | dem Fernseher     | den Fernsehern   |
 | Genitive    | des Fernsehers    | der Fernseher    |
+
+
+[[Fernsehwerbung]]

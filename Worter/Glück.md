@@ -4,6 +4,7 @@ die [[Glücke]]
 Beispiele:
 SAM: Okay – jetzt geht‘s los ich gehe einkaufen.
 ANNA: Viel [[Glück]]!
+Heute ist mein [[Glückstag]]!  
 
 ---
 
@@ -30,4 +31,4 @@ Plural forms:
 Morphems:
 - [[Glück]]
 
----
+---[[Glückstag]]

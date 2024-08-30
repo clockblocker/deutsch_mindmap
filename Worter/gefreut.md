@@ -1,4 +1,4 @@
 freut 
 
 
-[[sich freuen]]
+[[sich freuen]][[freuen]]

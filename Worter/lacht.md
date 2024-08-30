@@ -1,0 +1,1 @@
+ [[lachen]][[lacht ihr nur]]

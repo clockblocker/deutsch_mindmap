@@ -1,39 +1,33 @@
-[[besonders]]
-[[besonderer]]
-[[am]] [[besondersten]]
+besonders, [bəˈzɔndɐs]
+nicht [[normal]], nicht [[gewöhnlich]]
 
-
+---
 ANNA: Und [[besonders]] sexy ist er auch nicht!
 ANNA: Ja, [[besonders]] Poptastisch Popcorn!  
+Und [[besonders]] mit deiner köstlichen Schoko-Eisbombe.
 
-
-- **Das ist ein [[besonderes]] Buch.**
-  - **Translation:** "That is a special book."
-  - **Usage:** Refers to something unique or noteworthy.
-
-- **Sie hat eine [[besondere]] Fähigkeit.**
-  - **Translation:** "She has a special ability."
-  - **Usage:** Indicates a unique or exceptional skill.
-
-- **Wir haben ein [[besonderes]] Ereignis geplant.**
-  - **Translation:** "We have planned a special event."
-  - **Usage:** Refers to an event that is out of the ordinary or important.
-
-[[besonders]]
-- **Das sind [[besondere]] Tage.**
-  - **Translation:** "These are special days."
-  - **Usage:** Refers to days that are unusual or significant in some way.
-
-- **Das ist der [[besonderste]] Moment meines Lebens.**
-  - **Translation:** "That is the most special moment of my life."
-  - **Usage:** Refers to the most outstanding or remarkable moment.
 
 ---
-
-**Übersetzung**: special, particularly
+Synonyme: [[außergewöhnlich]], [[einzigartig]], [[hervorragend]], [[einmalig]], [[speziell]]
+Antonyme: [[normal]], [[üblich]], [[gewöhnlich]], [[durchschnittlich]], [[regulär]]
 
 ---
+**Übersetzung**:
+special, particular, extraordinary, remarkable
 
-Tags:
+---
 #Adjective [[besonders]]
 
+---
+Morpheme:
+[[be]][[sonder]][[s]]
+
+---
+
+
+Einzigartige mögliche Formen: 
+[[besonders]], [[besonderer]], [[besondere]], [[besonderes]], [[besonderen]], [[besonderem]], [[besonderer]], [[besonderen]]
+[[besonderer]], [[besonderer er]], [[besondere re]], [[besonderes res]], [[besonderen ren]], [[besonderem rem]], [[besonderer rer]], [[besonderen ren]]
+[[besondersten]], [[besonderstder]], [[besonderstste]], [[besonderststes]], [[besondersten]], [[besonderstemdert]], [[besonderstder]], [[besondersten]]
+
+[[mittel]]

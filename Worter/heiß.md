@@ -1,1 +1,1 @@
-nicht [[kalt]][[heißen]]
+nicht [[kalt]][[heißen]][[Kühl]]

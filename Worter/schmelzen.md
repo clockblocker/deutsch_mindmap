@@ -4,6 +4,8 @@ haben [[geschmolzen]]
 
 ---
 Schokolade so seidig, da [[schmilzt]] das Herz jeder schönen Frau.
+CHARLOTTE: … über heißem Wasser [[schmelzen]] lassen …  
+Schokolade so seidig, da [[schmilzt]] das Herz jeder schönen Frau Bist du bereit?  
 
 ---
 

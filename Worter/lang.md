@@ -72,4 +72,4 @@ long, lengthy
 Tags: 
 #Adjective [[lang]]
 
-#Antonyms: [[kurz]]
+#Antonyms: [[kurz]][[speziellen]]

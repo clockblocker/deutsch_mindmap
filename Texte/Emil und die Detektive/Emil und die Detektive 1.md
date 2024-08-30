@@ -4,8 +4,8 @@ pdf https://nosologoethevlc.wordpress.com/wp-content/uploads/2013/03/kc3a4stner-
 
 Erstes Kapitel 
 
-Emil hilft Köpfe waschen So -, sagte Frau Tischbein, 
-"und nun bringe mir mal den Krug mit dem warmen Wasser nach!" Sie selber nahm einen anderen Krug und den kleinen blauen Topf mit der flüssigen Kamillenseife und spazierte aus der Küche in die Stube. Emil packte seinen Krug an und lief hinter der Mutter her. 
+Emil hilft [[Köpfe]] [[waschen]] So -, sagte Frau Tischbein, 
+"und nun bringe mir mal den Krug mit dem warmen Wasser nach!" Sie selber nahm einen anderen Krug und den kleinen blauen Topf mit der flüssigen Kamillenseife und spazierte aus der Küche in die [[Stube]]. Emil packte seinen Krug an und lief hinter der Mutter her. 
 
 In der Stube saß eine Frau und hielt den Kopf über das weiße Waschbecken gebückt. Ihre Frisur war aufgelöst und hing wie drei Pfund Wolle nach unten. Emils Mutter goß die Kamillenseife in das blonde Haar und begann, den fremden Kopf zu waschen, daß es schäumte. 
 

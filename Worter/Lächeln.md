@@ -4,6 +4,7 @@ haben [[gelächelt]]
 
 ---
 STEFAN: Sascha, dein [[Lächeln]] … ist so süß.  
+Und hier ist das Wetter. Freundlich [[lächeln]].
 
 ---
 

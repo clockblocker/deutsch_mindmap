@@ -3,10 +3,7 @@ die [[Werbungen]]
 
 Beispiele:
 
-- Die [[Werbung]] im Fernsehen ist oft sehr kreativ.
-- Er arbeitet in der [[Werbung]].
-- Ich habe die neue [[Werbung]] für das Produkt gesehen.
-
+- [[Fernsehwerbung]]
 ---
 Synonyme:
 - [[Reklame]], [[Anzeigen]], [[Marketing]]

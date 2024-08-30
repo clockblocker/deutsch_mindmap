@@ -1,31 +1,28 @@
-[[seidig]]
-[[seidiger]]
-[[am]] [[seidigesten]]
-
-nicht [[rau]]
+[[seidig]], [ˈzaɪ̯dɪg]
+nicht [[grob]]
 
 ---
-
-Synonyme:
-- [[glatt]], [[weich]], [[geschmeidig]]
+Schokolade so [[seidig]], da schmilzt das Herz jeder schönen Frau Bist du bereit? 
 
 ---
-
-Beispiele:
-
-- Das Tuch fühlt sich [[seidig]] an.
-- Ihr Haar war noch [[seidiger]] nach der Pflege.
-- Der Stoff ist [[am]] [[seidigesten]], wenn er frisch gewaschen ist.
+Synonyme: [[samtig]], [[weich]], [[glatt]], [[fein]], [[zart]]
+Antonyme: [[rau]], [[hart]], [[grobkörnig]], [[kratzig]], [[struppig]]
 
 ---
-**Übersetzung**: silky, smooth
+**Übersetzung**:
+silky, silken
 
 ---
-
-Tags:
-#Adjective
+#Adjective [[seidig]]
 
 ---
-
-Morphems:
+Morpheme:
 [[seid]][[ig]]
+
+---
+
+
+Einzigartige mögliche Formen: 
+[[seidig]], [[seidiger]], [[seidige]], [[seidiges]], [[seidigen]], [[seidigem]], [[seidiger]], [[seidigen]]
+[[seidiger]], [[seidigerer]], [[seidigere]], [[seidigeres]], [[seidigeren]], [[seidigerem]], [[seidigerer]], [[seidigeren]]
+[[seidigsten]], [[seidigster]], [[seidigste]], [[seidigstes]], [[seidigsten]], [[seidigstem]], [[seidigster]], [[seidigsten]][[bereit]]

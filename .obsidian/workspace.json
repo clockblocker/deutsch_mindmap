@@ -4,268 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "d75e517799ee409d",
+        "id": "a61769330297357a",
         "type": "tabs",
         "children": [
           {
-            "id": "f39cb5c7fe7e7249",
+            "id": "aae6f6df653dec06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 5.md",
+                "file": "Texte/Skripte/extra/Extra 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7438e2e0bca9a47e",
+            "id": "9524479e618e64d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/überfallen.md",
+                "file": "Worter/Reihenfolge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d2cb6cb817e59c99",
+            "id": "d95b5dfafa9705e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Überraschen.md",
+                "file": "Worter/Glück.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e25b08c7a5a10314",
+            "id": "fd420d7cf6e36e16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Überheblich.md",
+                "file": "Worter/verändern.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d8cbb352de9bcd0",
+            "id": "e4a6e64f5a3adef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Schlecht.md",
+                "file": "Worter/feinen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1d0ad10f1ec15f9",
+            "id": "05baf32ed809c652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Bettzeug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ad451e57cd25d68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/kriechen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "124659b7078e17bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/heller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34e145bee8f7de44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/hell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97781905a1880d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/erwachen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8ac6e8b05d6e63c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/scheidet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13e3d69b5259e092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/scheiden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7149298227c119c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/scheiden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20401c7cbd15bfc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/untergehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8abc9cfb36571ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Herzschlag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd7ffe8f35fb8954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/köstliche.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f6aef14174d9341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/köstlich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a22ca685ed83d98d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/köstlich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59f5a0a2237c10b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/köstlich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ab468800bd0b8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/sicherem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9ad980a74f93812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/umbringen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b06306bee8f1e1b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/weiter.md",
+                "file": "Worter/Sorte.md",
                 "mode": "source",
                 "source": false
               }
@@ -349,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 5.md",
+                "file": "Texte/Skripte/extra/Extra 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 5.md",
+                "file": "Texte/Skripte/extra/Extra 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -389,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 5.md"
+                "file": "Texte/Skripte/extra/Extra 6.md"
               }
             }
           }
@@ -416,35 +224,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f39cb5c7fe7e7249",
+  "active": "aae6f6df653dec06",
   "lastOpenFiles": [
-    "Texte/Skripte/extra/Extra 13.md",
-    "Texte/Skripte/extra/Extra 12.md",
-    "Texte/Skripte/extra/Extra 11.md",
-    "Texte/Skripte/extra/Extra 10.md",
-    "Texte/Skripte/extra/Extra 9.md",
-    "Texte/Skripte/extra/Extra 8.md",
-    "Texte/Skripte/extra/Extra 7.md",
+    "Worter/Reihenfolge.md",
+    "Worter/Reihe.md",
+    "Worter/Reihung.md",
+    "Worter/Rangfolge.md",
+    "Worter/Chronologie.md",
+    "Worter/Sequenz.md",
+    "Worter/Abfolge.md",
+    "Worter/Reihenfolgen.md",
     "Texte/Skripte/extra/Extra 6.md",
-    "Texte/Skripte/extra/Extra 1.md",
-    "Texte/Skripte/extra/Extra 5.md",
-    "Texte/Emil und die Detektive/Emil und die Detektive 1.md",
+    "Worter/speziellen.md",
+    "Worter/speziellestem.md",
+    "Worter/speziellestes.md",
+    "Worter/speziellste.md",
+    "Worter/spezielster.md",
+    "Worter/speziellsten.md",
+    "Worter/speziellerem.md",
+    "Worter/spezielleren.md",
+    "Worter/spezielleres.md",
+    "Worter/speziellere.md",
+    "Worter/speziellerer.md",
+    "Worter/weit.md",
+    "Worter/schmal.md",
+    "Worter/gering.md",
+    "Worter/winzig.md",
+    "Worter/Glückstag.md",
+    "Worter/Glück.md",
+    "Anhänge/Pasted image 20240829080933.png",
+    "Anhänge/Pasted image 20240829080852.png",
     "Texte/Emil und die Detektive",
-    "Texte/Gedichte/Rammstein/deutschland.md",
-    "Worter/wer hoch steigt, der wird tief fallen.md",
-    "Worter/tief.md",
-    "Worter/wer.md",
-    "Worter/proverbs.md",
-    "Worter/Segen.md",
-    "Worter/Fluch.md",
-    "Worter/Segens.md",
-    "Worter/Schutz.md",
-    "Worter/Fürsorge.md",
-    "Worter/Gnade.md",
-    "Worter/Weihe.md",
-    "Worter/Segnung.md",
-    "Worter/Weihung.md",
-    "Worter/Flüchen.md",
     "Anhänge/Pasted image 20240826114709.png",
     "Anhänge/telegram-cloud-document-2-5337012686557302967.jpg",
     "Anhänge/telegram-cloud-document-2-5346047493861823310.jpg",
@@ -456,9 +266,7 @@
     "Anhänge/Pasted image 20240818092322.png",
     "Lektionen/Grammatik",
     "Anhänge/Pasted image 20240816075949.png",
-    "Anhänge/Pasted image 20240815214334.png",
     "Texte/Gedichte/Kinder/Buhe/Der Struwwelpeter",
-    "Anhänge/Pasted image 20240815085048.png",
     "Texte/Gedichte/Kinder/Buhe",
     "Texte/Diter",
     "Texte/Welt",

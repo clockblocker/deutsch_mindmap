@@ -4,7 +4,10 @@ haben [[gelassen]]
 
 ---
 Und ach ... [[Lass]] die Tarantel nicht rein
+
 NIC: [[Lass]] mich mal sehen …  
+
+CHARLOTTE: … über heißem Wasser [[schmelzen]] [[lassen]] …  
 
 STEFAN: Also zurück zum Thema, [[Lass]] uns über dich und mich reden. 
 
@@ -66,4 +69,4 @@ to let, to allow
 ---
 
 **Morphems of only infinitive:**  
-- [[Lass]][[en]][[stören]][[verlassen]]
+- [[Lass]][[en]][[stören]][[verlassen]][[Quirlen]][[umschalten]][[ändern]]

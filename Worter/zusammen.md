@@ -1,2 +1,2 @@
 [[miteinander]]
-[[getrennt]][[vereint]]
+[[getrennt]][[vereint]][[beide]]

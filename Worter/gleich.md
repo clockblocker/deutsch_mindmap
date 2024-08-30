@@ -4,6 +4,8 @@
 Frau W. geht [[gleich]] ins Wohnzimmer.
 Das habe ich mir [[gleich]] gedacht.
  Wolfgang, sieh doch [[gleich]] mal nach
+ist [[gleich]] nur etwas [[anders]]
+ 
 
 ---
 
@@ -34,3 +36,4 @@ Morphems:
 
 = [[wie]]
 
+[[andere]]

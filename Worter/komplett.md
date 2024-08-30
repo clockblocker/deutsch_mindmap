@@ -1,1 +1,1 @@
-[[jeden]]
+[[jeden]][[ganz]][[Alle]]

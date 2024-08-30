@@ -4,7 +4,7 @@ die [[Mägen]]
 
 ---
 - SAM: Liebe geht durch den [[Magen]]? 
-
+- [[Leibe geht durch den Magen]]
 ---
 Synonyme:
 - [[Bauch]], [[Verdauungsapparat]], [[Essorgan]]

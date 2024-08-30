@@ -1,4 +1,4 @@
 #Suffix
 [[Ordentlich]]
 
-[[bedeuten]][[heißen]][[fahren]][[spüren]][[kontrollieren]][[stören]][[verstehen]][[untergehen]][[erwachen]][[kriechen]][[stehlen]][[drücken]][[Schlecht]][[verdammen]][[verlassen]][[Übernehmen]][[übergeben]][[Überraschen]][[überfallen]]
+[[bedeuten]][[heißen]][[fahren]][[spüren]][[kontrollieren]][[stören]][[verstehen]][[untergehen]][[erwachen]][[kriechen]][[stehlen]][[drücken]][[Schlecht]][[verdammen]][[verlassen]][[Übernehmen]][[übergeben]][[Überraschen]][[überfallen]][[Unternehmen]][[lernen]][[gelten]][[bestehen]][[setzen]][[erzählen]][[Waschen]][[lachen]][[liebsten]][[trennen]][[vermischen]][[reden]][[umschalten]][[freuen]][[ziehen]][[abpacken]]

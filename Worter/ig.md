@@ -1,0 +1,1 @@
+[[schwierig]][[nötig]][[windig]][[seidig]]

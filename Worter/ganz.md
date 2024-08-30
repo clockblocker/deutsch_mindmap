@@ -1,40 +1,29 @@
-[[ganz]]
-
-nicht [[teilweise]]
-
----
-NIC: Mensch relax! Das ist doch [[ganz]] einfach.
+ganz, [ɡants]
+nicht [[halb]], [[teilweise]], [[partiell]]
 
 ---
-
-Synonyme:
-- [[vollständig]], [[komplett]], [[voll]]
+- NIC: Mensch relax! Das ist doch [[ganz]] einfach.
+- 
 
 ---
-Beispiele:
-
-- Das ist ein [[ganz]]es Haus.
-- Sie hat [[ganz]] den Überblick verloren.
-- Er ist [[ganz]] sicher.
-
-- Das ist ein [[ganzer]] Bericht.
-- Sie hat einen [[ganzer]]en Überblick als zuvor.
-- Er ist [[ganzer]] sicher als vorher.
-
-
+Synonyme: 
+[[komplett]], [[vollständig]], [[komplett]], [[gesamt]], [[total]], [[völlig]]
+Antonyme: [[teilweise]], [[partiell]], [[halbiert]], [[unvollständig]]
 
 ---
 **Übersetzung**:
-whole, entire, very
+whole, complete, entire
+
+---
+#Adjective [[ganz]]
+
+---
+Morpheme:
+[[ganz]]
 
 ---
 
-#Adverb
 
----
-Morphems:
-[[ganz]]  
-
-
-сoвсем
-[[jeden]]
+Einzigartige mögliche Formen: 
+[[ganz]], [[ganze]], [[ganzes]], [[ganzer]], [[ganzen]], [[ganzem]]
+[[ganzer]], [[ganzer]], [[beide]]

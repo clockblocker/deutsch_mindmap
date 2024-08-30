@@ -21,4 +21,4 @@ Alle Formen:
 | Nominative  | das Regal         | die Regale       |
 | Accusative  | das Regal         | die Regale       |
 | Dative      | dem Regal         | den Regalen      |
-| Genitive    | des Regals        | der Regale       |
+| Genitive    | des Regals        | der Regale       |[[Schrank]]

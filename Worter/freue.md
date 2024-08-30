@@ -1,3 +1,3 @@
 [[Ich freue mich]]
 \
-я рад 
+я рад [[freuen]]

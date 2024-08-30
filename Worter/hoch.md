@@ -43,4 +43,4 @@ high, tall
 Tags: 
 #Adjective [[hoch]]
 
-nicht [[niedrig]]
+nicht [[niedrig]][[mittel]][[speziellen]]

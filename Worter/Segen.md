@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Segens]], [[Segen]], [[Segen]], [[Segen]], [[Segen]], [[Segen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin[[Glückstag]][[Glück]]

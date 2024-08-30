@@ -35,4 +35,4 @@ Tags:
 ---
 
 Morphems:
-[[riesig]]
+[[riesig]][[speziellen]]

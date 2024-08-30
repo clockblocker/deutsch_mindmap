@@ -5,7 +5,8 @@ haben [[gedurft]]
 ---
 - SASCHA: Nic! Niemand [[darf]] mein Fahrrad anfassen! Kapiert?  
 - [[Was darf es sein]]
-- ANNA: Das [[darf]] sie nicht …  
+- ANNA: Das [[darf]] sie nicht …
+- Herr E.: Was [[darf]] es heute sein?  
 
 ---
 

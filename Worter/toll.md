@@ -7,6 +7,8 @@
 SAM: He! [[toll]], Mann! Ist ja super…  
 Ich werde dir helfen, ein ganz [[toll]]er Superstar zu werden!  
 NIC: Die [[riechen]] [[beide]] [[toll]]!  
+AN: NADJA; VON: ANNA Ist die Fernsehwerbung nicht [[toll]]?  
+
 
 
 ---

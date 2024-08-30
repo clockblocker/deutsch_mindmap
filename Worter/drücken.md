@@ -30,4 +30,4 @@ Morpheme: [[drück]][[en]]
 
 Partizip I: [[drückend]], Partizip II: [[gedrückt]]
 
-[[drücken]] - [[drück]] = [[en]]
+[[drücken]] - [[drück]] = [[en]][[ziehen]]

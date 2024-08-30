@@ -1,41 +1,29 @@
-[[Fertig]]
-[[fertiger]]
-[[am]] [[fertigsten]]
-
+[[fertig]], [ˈfɛɐ̯tɪç]
 nicht [[unfertig]]
 
 ---
 SAM: Das Essen ist [[Fertig]]! Bitte setzt euch!  
 
----
-
-Synonyme:
-- [[bereit]], [[vollendet]], [[abgeschlossen]]
+Es ist bald [[fertig]] – zum Schluss das Eiweiß zur Schokolade
+geben und in den Kühlschrank stellen …  
 
 ---
-Beispiele:
-
-- Das Essen ist [[Fertig]].
-- Er hat die Arbeit [[Fertig]] gemacht.
-- Ich bin endlich [[Fertig]].
-
-- Das Essen ist [[fertiger]] als erwartet.
-- Er hat die Arbeit [[fertiger]] gemacht als zuvor.
-- Ich bin [[fertiger]] als alle anderen.
-
-- Das Essen ist [[am fertigsten]].
-- Er hat die Arbeit [[am fertigsten]] gemacht.
-- Ich bin [[am fertigsten]] von allen.
+Synonyme: [[abgeschlossen]], [[bereit]], [[erledigt]], [[vollendet]], [[vollendet]], [[perfekt]]
+Antonyme: [[unfertig]], [[unvollendet]], [[unvollständig]], [[mangelhaft]], [[lückenhaft]]
 
 ---
 **Übersetzung**:
-finished, ready
+ready, finished, done
+
+---
+#Adjective [[fertig]]
+
+---
+Morpheme:
+[[fertig]]
 
 ---
 
-Tags: 
-#Adjective
 
----
-Morphems:
-[[Fertig]]
+Einzigartige mögliche Formen: 
+[[fertig]], [[fertige]], [[fertiges]], [[fertiger]], [[fertigem]], [[fertigen]], [[fertigste]], [[fertigster]], [[fertigste]], [[fertigstes]], [[fertigsten]], [[fertigstem]]

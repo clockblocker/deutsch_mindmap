@@ -1,1 +1,1 @@
-[[Indefinitpronomen]][[jeden]]
+[[Indefinitpronomen]][[jeden]][[Alle]]

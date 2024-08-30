@@ -1,1 +1,1 @@
-[[scheiden]]
+[[scheiden]][[regeln]][[verändern]][[ändern]]

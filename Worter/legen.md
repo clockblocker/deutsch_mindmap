@@ -64,4 +64,4 @@ to lay, to place
 ---
 
 **Morphems of only infinitive:**  
-- [[leg]][[en]]
+- [[leg]][[en]][[ziehen]]

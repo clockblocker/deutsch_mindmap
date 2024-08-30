@@ -67,4 +67,4 @@ Konjunktiv II:
 - Wenn er keine Angst hätte, [[zöge]] er weiter.
 - Wenn wir entschlossener wären, [[zögen]] wir weiter.
 - Wenn ihr nicht zögern würdet, [[zöget]] ihr weiter.
-- Wenn sie es wagen würden, [[zögen]] sie weiter.
+- Wenn sie es wagen würden, [[zögen]] sie weiter.[[ziehen]]

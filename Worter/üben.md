@@ -60,4 +60,4 @@ to practice, to exercise
 ---
 
 **Morphems of only infinitive:**  
-- [[üb]][[en]]
+- [[üb]][[en]][[lernen]]

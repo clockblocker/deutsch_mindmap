@@ -4,6 +4,7 @@
 - ANNA: Und hier ist ein [[Job als]] Koch …  
 - ANNA: Nein Nic. Sam soll [[als]] Kellner arbeiten.  
 - Als was kann er arbeiten?  
+- ANNA: Oh je … Hallo! [[Als]] Mutter [[kämpfe]] ich [[täglich]] gegen [[schwierige]] [[Flecken]] …  
 
 
 

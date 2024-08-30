@@ -5,7 +5,7 @@ die [[Schlüsse]]
 
 Beispiele:
 - Muss [[Schluss]] machen! [[Bis bald]]! 
-
+- zum [[Schluss]] das Eiweiß zur Schokolade geben
 ---
 
 Synonyms:
