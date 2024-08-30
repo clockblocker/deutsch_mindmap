@@ -15,36 +15,42 @@ SASCHA: Aah!
 ANNA: Es ist gut, Sascha, du hast es nicht gesehen! Du hast es nicht gesehen!  
 SASCHA: Du hast es an! Zieh es aus!  
 SAM: Was?  
-SASCHA: Dein Hemd hat diese Farbe zieh es aus!  
-SAM: Dieses Hemd? Es gefällt dir nicht? Es is o  
-SASCHA: Sag die Farbe nicht - zieh es aus und wirf es hinaus!  
+SASCHA: Dein Hemd hat diese [[Farbe]] zieh es aus!  
+SAM: Dieses Hemd? Es [[gefällt]] dir nicht? Es is o  
+SASCHA: Sag die Farbe nicht - zieh es aus und [[wirf]] es [[hinaus]]!  
 SAM: Okay, Okay, Gut, gut.  
 SASCHA: Fertig?  
-SAM: Fertig.  
-ANNA: Sascha darf vor dem Lotto niemanden in der Farbe sehen!  
+SAM: [[Fertig]].  
+ANNA: Sascha darf vor dem Lotto [[niemanden]] in der Farbe sehen!  
 SAM: Warum nicht?  
-SASCHA: Weil diese Farbe mir sehr viel Unglück bringt und heute Lotto-Tag ist.  
+SASCHA: Weil diese Farbe mir sehr viel [[Unglück]] bringt und heute Lotto-Tag ist.  
 SAM: „Lotto-Tag¡§?  
 SASCHA: Die Lotterie?  
-SASCHA: Ich suche mir fünf Zahlen aus - meine Zahlen sind 66, 11, 89, 18, 69 und wenn meine Zahlen im Fernsehen kommen ¡V gewinne ich Millionen!  
-SAM: Oh. I¡¦ve never heard of it.  
-ANNA: Und am Lotto-Tag macht Sascha immer alle die Dinge, die ihr Glück bringesie bürstet ihre Haare und arrangiert die Kissen.  
-Und niemand darf etwas Oranges anhaben.  
-Sascha wird sehr nervös  
-SASCHA: Aber ich weiß, wie ich ruhig bleiben kann  
+SASCHA: Ich [[aussuchen|suche]] mir fünf Zahlen aus - meine Zahlen sind 66, 11, 89, 18, 69 und wenn meine Zahlen im Fernsehen kommen gewinne ich Millionen!  
+SAM: Oh. I've never heard of it.  
+ANNA: Und am Lotto-Tag macht Sascha immer alle die [[Dinge]], die ihr Glück bringesie [[bürstet]] ihre Haare und [[arrangiert]] die Kissen.  
+Und [[niemand]] darf etwas Oranges [[anhaben]].  
+Sascha wird sehr [[nervös]]  
+SASCHA: Aber ich weiß, wie ich [[ruhig]] bleiben kann  
 ANNA: Yoga. Siehst du, Sam - Alles für die Lotterie!  
-SAM: Toll! Ich gehe einkaufen. Brauchst du etwas?  
-SASCHA: Kannst du mein Kleid von der Reinigung abholen?  
+SAM: Toll! Ich gehe einkaufen. [[Brauchst]] du etwas?  
+SASCHA: Kannst du mein Kleid von der [[Reinigung]] [[abholen]]?  
 SAM: Reinigung? Oh, I get it: dry cleaners! OK.  
-SASCHA: Der blaue Schein hängt am Brett  
-SAM: Gut Ich hab¡¦ ihn! Bis nachher, Sascha!  
+SASCHA: Der blaue [[Schein]] hängt am Brett  
+SAM: Gut Ich hab¡¦ ihn! Bis [[nachher]], Sascha!  
 SASCHA: Danke, Sam! Tschüss!  
+
+
+
+
 SCENE TWO  
 NIC: 224-32-32, 224-32-32 Sam!  
 SAM: Hallo, Nic - ich war gerade bei Sascha  
 NIC: Ja - das sehe ich Ja, und wohin gehst du jetzt?  
 SAM: Wohin ich gehe? Äh  
 NIC: Warte warte komm hier rein  
+
+
 SCENE THREE  
 NIC: 224-32-32 - Stift, Stift!  
 Ah, Papier!  
@@ -64,6 +70,8 @@ SAM: Ich verstehe
 NIC: He, Kumpel - vielleicht hat sie eine Freundin oder eine Schwester!  
 SAM: Wow yeah!  
 NIC: He, komm, Sam! He, komm, wir gehen aus - heute habe ich Glück!  
+
+
 SCENE FOUR  
 VOICE: Und nun die Ziehung der Lottozahlen!  
 SASCHA: Na los, Sascha, hab Glück.  
@@ -72,7 +80,7 @@ SASCHA: Ja! Oh, hallo Mutter Ja, ich bin gerade beschäftigt * Aaaaah
 VOICE: Und das waren die Lottozahlen für diese Woche! Und nicht vergessen: Der Gewinn muss bis 10 Uhr heute Abend gemeldet werden.  
 ANNA: Wer war am Telefon?  
 SASCHA: Ahh ahh aaah  
-ANNA: Na, na, na, Sascha ¡V was ist los?  
+ANNA: Na, na, na, Sascha was ist los?  
 SASCHA: Anna -ich-habe-im-Lotto-gewonnen!  
 BOTH: Waaaaaaaaaaaaaaaaaaaa!  
 SASCHA: Von nun an werden wir im Luxus leben Designerklamotten  
@@ -91,6 +99,8 @@ SASCHA: Mein Lottoschein ist weg
 ANNA: Was?  
 SASCHA: aber der Reinigungsschein ist noch da  
 SASCHA: Sam!  
+
+
 SCENE 5  
 SASCHA: Ich hab's! Wir gehen zur Reinigung - da geht er hin!  
 ANNA: Gute Idee! Und dann holen wir auch gleich dein Kleid ab!  
@@ -101,6 +111,8 @@ Die schlechte Neuigkeit:
 Ihr Lotto-Gewinnschein ist verschwunden!  
 Sascha bat Sam, ihre Sachen aus der Reinigung zu holen   aber Sam nahm den falschen Schein! Oh je, oh je, oh je!  
 SAM: I think they really trust me now Mom. They trust me to do anything!  
+
+
 SCENE 6  
 SAM: Die Kellnerin fand dich echt cool!  
 NIC: Ja, zwei Mädels an einem Tag! Alle Frauen lieben mich!  
@@ -142,6 +154,8 @@ S/N: Aye, Aye.
 SASCHA: Der Gewinn muss bis 10 Uhr heute Abend gemeldet werden - klar?  
 S/N: Klar!  
 ANNA: Krebs - heute gibt es &AUML;rger zu Hause. Das kannst du laut sagen  
+
+
 SCENE 7  
 NIC: Also bis später, Sam - viel Glück bei der Suche nach dem Schein!  
 SAM: Heh, heh! Nic, wo gehst du hin?  
@@ -171,10 +185,14 @@ SAM: Ein Müllmann? A dustman?
 NIC: Ja! Ein Müllmann kann im Müll suchen!  
 Tolle Idee, Nic!  
 SAM: Äh, ja tolle Idee, Nic  
+
+
 SCENE 8  
 SASCHA: Sam? Hast du den Schein?  
 SAM: &AUML;h, noch nicht  
 SASCHA: Grrrr - ruf mich an, wenn du den Schein gefunden hast!  
+
+
 SCENE 10  
 ANNA: Löwe - Heute erleben Sie eine große &UUML;berraschung!  
 Ihr Leben wird auf dem Kopf stehen!  
@@ -233,6 +251,8 @@ Ich muss die Kassette haben.
 ANNA: Ja, aber sofort!  
 SASCHA: Und ich kenne genau die richtigen Männer für den Job  
 NIC/SAM: Oh no!  
+
+
 SCENE 11  
 SAM: Nic! Dürfen wir hier sein?  
 NIC: Es ist okay! Sascha hat gesagt, dass es in Ordnung ist!  

@@ -20,4 +20,4 @@ Tags:
 ---
 
 Morphems:
-[[hinein]]
+[[hinein]][[hinaus]]

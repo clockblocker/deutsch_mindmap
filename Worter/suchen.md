@@ -55,4 +55,4 @@ Imperativ:
 - [[suche]] deine Schlüssel!
 - [[such]] nach dem Buch!
 - [[Sucht]] eure Sachen!
-- [[suchen]] wir nach einer Lösung!
+- [[suchen]] wir nach einer Lösung![[aussuchen]]

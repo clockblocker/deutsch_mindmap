@@ -20,6 +20,66 @@
             }
           },
           {
+            "id": "501220543ca4a6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/arrangieren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53ab1cc4d4a5cda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/bürstet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e86b4ba5e1233f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Dinge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "063c59654f4866b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/wirf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0e8d1f8b9a47f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/werfen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9524479e618e64d7",
             "type": "leaf",
             "state": {
@@ -226,32 +286,32 @@
   },
   "active": "aae6f6df653dec06",
   "lastOpenFiles": [
-    "Worter/Reihenfolge.md",
-    "Worter/Reihe.md",
-    "Worter/Reihung.md",
-    "Worter/Rangfolge.md",
-    "Worter/Chronologie.md",
-    "Worter/Sequenz.md",
-    "Worter/Abfolge.md",
-    "Worter/Reihenfolgen.md",
+    "Worter/nachher.md",
+    "Worter/davor.md",
+    "Worter/zuvor.md",
+    "Worter/anschließend.md",
+    "Worter/hernach.md",
+    "Worter/daraufhin.md",
     "Texte/Skripte/extra/Extra 6.md",
-    "Worter/speziellen.md",
-    "Worter/speziellestem.md",
-    "Worter/speziellestes.md",
-    "Worter/speziellste.md",
-    "Worter/spezielster.md",
-    "Worter/speziellsten.md",
-    "Worter/speziellerem.md",
-    "Worter/spezielleren.md",
-    "Worter/spezielleres.md",
-    "Worter/speziellere.md",
-    "Worter/speziellerer.md",
-    "Worter/weit.md",
-    "Worter/schmal.md",
-    "Worter/gering.md",
-    "Worter/winzig.md",
-    "Worter/Glückstag.md",
-    "Worter/Glück.md",
+    "Worter/Schein.md",
+    "Worter/abholen.md",
+    "Worter/holen.md",
+    "Worter/abholend.md",
+    "Worter/holen Sie ab.md",
+    "Worter/holet ab.md",
+    "Worter/holtet ab.md",
+    "Worter/holten ab.md",
+    "Worter/holen ab.md",
+    "Worter/holt ab.md",
+    "Worter/hotest ab.md",
+    "Worter/hol ab.md",
+    "Worter/holtest ab.md",
+    "Worter/holst ab.md",
+    "Worter/hole ab.md",
+    "Worter/hol.md",
+    "Worter/liegenlassen.md",
+    "Worter/wegbringen.md",
+    "Worter/abfangen.md",
     "Anhänge/Pasted image 20240829080933.png",
     "Anhänge/Pasted image 20240829080852.png",
     "Texte/Emil und die Detektive",

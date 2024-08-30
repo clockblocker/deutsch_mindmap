@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er sich beeilen würde, [[finge]] er den Zug.
 - Wenn wir ein Netz hätten, [[fingen]] wir die Schmetterlinge.
 - Wenn ihr mehr Geduld hättet, [[fingt]] ihr den Fisch.
-- Wenn sie die Falle aufstellen würden, [[fingen]] sie die Maus.
+- Wenn sie die Falle aufstellen würden, [[fingen]] sie die Maus.[[werfen]]

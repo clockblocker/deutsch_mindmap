@@ -9,3 +9,4 @@ Sam und Nic kommen [[herein]] ohne anzuklopfen 
 5. [[Eintreten]]
 6. [[betreten]]
 
+[[hinaus]]

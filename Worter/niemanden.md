@@ -1,0 +1,2 @@
+[[niemand]]en [ˈniːmandən]
+[[Niemand]]

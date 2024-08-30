@@ -4,7 +4,7 @@ die [[Scheine]]
 
 ---
 - Ein heller Schein am Firmament
-- 
+- SASCHA: Der blaue [[Schein]] hängt am Brett  
 
 ---
 Synonyme:

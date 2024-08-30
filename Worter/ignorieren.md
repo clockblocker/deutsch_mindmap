@@ -1,1 +1,1 @@
-[[spüren]][[kontrollieren]]
+[[spüren]][[kontrollieren]][[bürsten]]

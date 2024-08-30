@@ -30,4 +30,4 @@ Morpheme: [[wasch]][[en]]
 
 Partizip I: [[waschend]], Partizip II: [[gewaschen]]
 
-[[waschen]] - [[wasch]] = [[en]]
+[[waschen]] - [[wasch]] = [[en]][[Reinigung]]

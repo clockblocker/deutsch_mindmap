@@ -73,4 +73,4 @@ Konjunktiv II:
 - Wenn er es wüsste, [[hielte]] er sein Versprechen.
 - Wenn wir die Zeit hätten, [[hielten]] wir das Treffen.
 - Wenn ihr geduldiger wäret, [[hieltet]] ihr durch.
-- Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.
+- Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]]

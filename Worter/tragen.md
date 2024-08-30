@@ -64,4 +64,4 @@ to carry, to wear
 ---
 
 **Morphems of only infinitive:**  
-- [[trag]][[en]]
+- [[trag]][[en]][[anhaben]]

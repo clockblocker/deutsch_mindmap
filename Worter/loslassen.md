@@ -1,1 +1,1 @@
-[[drücken]][[verlassen]][[Übernehmen]]
+[[drücken]][[verlassen]][[Übernehmen]][[werfen]]

@@ -2,4 +2,4 @@ die [[Fernbedienung]]
 
 die [[Zeitung]]
 
-die [[Heizung]][[Veränderung]]
+die [[Heizung]][[Veränderung]][[Reinigung]]

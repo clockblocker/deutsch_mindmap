@@ -7,6 +7,9 @@ SAM: Das Essen ist [[Fertig]]! Bitte setzt euch!
 Es ist bald [[fertig]] – zum Schluss das Eiweiß zur Schokolade
 geben und in den Kühlschrank stellen …  
 
+SAM: Okay, Okay, Gut, gut.  
+SASCHA: [[Fertig]]?  
+
 ---
 Synonyme: [[abgeschlossen]], [[bereit]], [[erledigt]], [[vollendet]], [[vollendet]], [[perfekt]]
 Antonyme: [[unfertig]], [[unvollendet]], [[unvollständig]], [[mangelhaft]], [[lückenhaft]]

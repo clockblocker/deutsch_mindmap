@@ -23,4 +23,4 @@ Tags:
 ---
 
 Morphems:
-[[vor]][[her]]
+[[vor]][[her]][[nachher]]

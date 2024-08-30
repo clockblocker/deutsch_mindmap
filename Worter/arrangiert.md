@@ -1,0 +1,1 @@
+🎼 [[arrangieren]] + Akk, [aʁaŋˈʒiːʁən]

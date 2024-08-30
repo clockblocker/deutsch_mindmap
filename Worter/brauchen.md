@@ -9,6 +9,7 @@ Aber ich denke, er [[braucht]] eine Lederjacke 
 NIC: genial! Sam, du [[brauchst]] ein neues Aftershave ...  
 SASCHA: Ja, wir [[brauchen]] mehr Geld.  
 ANNA: Nein … Sascha [[braucht]] Hilfe …  
+SAM: Toll! Ich gehe einkaufen. [[Brauchst]] du etwas?  
 
 
 

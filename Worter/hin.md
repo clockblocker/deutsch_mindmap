@@ -24,3 +24,4 @@ Tags:
 
 Morphems:
 [[hin]]
+[[hinaus]]
