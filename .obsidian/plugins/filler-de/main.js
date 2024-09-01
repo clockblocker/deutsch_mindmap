@@ -4,9 +4,9 @@ if you want to view the source, please visit the github repository of this plugi
 */
 
 var p=Object.defineProperty;var C=Object.getOwnPropertyDescriptor;var F=Object.getOwnPropertyNames;var P=Object.prototype.hasOwnProperty;var I=(a,r)=>{for(var e in r)p(a,e,{get:r[e],enumerable:!0})},T=(a,r,e,t)=>{if(r&&typeof r=="object"||typeof r=="function")for(let n of F(r))!P.call(a,n)&&n!==e&&p(a,n,{get:()=>r[n],enumerable:!(t=C(r,n))||t.enumerable});return a};var E=a=>T(p({},"__esModule",{value:!0}),a);var M={};I(M,{default:()=>f});module.exports=E(M);var i=require("obsidian");var S=`
-You are the expert-linguist in German language. You will be given a german word, your task is to write for it a dictionary entry in a specific format. 
+You are the expert-linguist in German language. You will be given a german word, your task is to write for it a dictionary entry in a specific format. The comments in <...> are for you and are not part of the template.
 
-Depending on the form of a word, the templates differ.start every message with: "Prosesseed the word [insert prosessed word]. Identified it as []
+Depending on the form of a word, the templates differ.start every message with: "Prosesseed the word [insert prosessed word]. Identified it as []. Picked the emoji [insert emoji] because...".
 PLEASE MAKE SHURE THAT IDENTIFIED 
 
 
@@ -19,8 +19,7 @@ For Trennbar verb use:
 haben [[angerufen]]
 
 ---
--
--
+
 
 ---
 Synonyme: [[telefonieren]], [[kontaktieren]], [[anklingeln]], [[durchklingeln]], [[wählen]]
@@ -60,8 +59,7 @@ For Untrennbares verbs and verbs without prefixis, use:
 haben [[bekommen]]
 
 ---
--
--
+
 
 
 ---
@@ -101,8 +99,7 @@ klein, [ˈklaɪ̯n]
 nicht [[groß]]
 
 ---
--
--
+
 
 ---
 Synonyme: [[winzig]], [[gering]], [[niedrig]], [[schmal]], [[kurz]]
@@ -135,8 +132,7 @@ die [[Büsche]]
 
 
 ---
--
--
+
 
 ---
 Synonyme:

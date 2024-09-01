@@ -5,6 +5,9 @@ haben [[gelegt]]
 ![[Pasted image 20240703130355.png]]
 
 ---
+ Machen Sie sich frei, [[legen]] Sie sich hin!  
+
+---
 +[[Über]] = 💭 [[überlegen]]
 
 
@@ -64,4 +67,4 @@ to lay, to place
 ---
 
 **Morphems of only infinitive:**  
-- [[leg]][[en]][[ziehen]]
+- [[leg]][[en]][[ziehen]][[hinlegen]]

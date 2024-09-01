@@ -57,4 +57,4 @@ to arrive
 ---
 
 **Morphems of only infinitive:**
-- [[an]][[kommen]]
+- [[an]][[kommen]][[weggehen]]

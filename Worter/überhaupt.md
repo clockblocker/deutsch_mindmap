@@ -1,29 +1,21 @@
-[[Über]][[haupt]]
 
-**Synonyme:**
-- [[generell]]
-- [[grundsätzlich]]
-- [[vollständig]]
+[[überhaupt]], [ˈyːbɐˌhaʊ̯pt]
 
 ---
-**Beispiele:**
+- NIC: Gut - das tut [[überhaupt]] nicht weh, keine Spur…  
 
-- Hast du [[überhaupt]] verstanden, was ich gesagt habe?
-- Das war [[überhaupt]] nicht nötig.
-- Er hat [[überhaupt]] keine Ahnung von der Materie.
-
-- Ich habe [[überhaupt]] nichts dagegen.
-- Ihre Antwort war [[überhaupt]] nicht hilfreich.
-- Wie ist das [[überhaupt]] möglich?
 
 ---
-
-**Übersetzung**:
-at all, generally, completely
-
----
-
-Tags:
-#Adverb
+Synonyme: [[generell]], [[grundsätzlich]], [[absolut]], [[gänzlich]], [[vollkommen]]
+Antonyme: [[teilweise]], [[bedingt]], [[ansatzweise]], [[beschränkt]]
 
 ---
+Übersetzung: at all, in general, altogether, entirely
+
+---
+Morpheme:
+[[über]][[haupt]]
+
+---
+#Adverb [[überhaupt]]
+[[Spur]]

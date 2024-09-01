@@ -30,4 +30,3 @@ Morpheme: [[arrangier]][[en]]
 
 Partizip I: [[arrangierend]], Partizip II: [[arrangiert]]
 
-[[arrangieren]] - [[arrangier]] = [[en]]

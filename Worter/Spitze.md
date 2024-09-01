@@ -19,4 +19,4 @@ Morphems:
 [[Spitz]][[e]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin[[haupt]]

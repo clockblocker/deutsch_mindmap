@@ -9,6 +9,8 @@ haben [[geschlagen]]
 *und [[schlug]] den Hund, der heulte sehr,*  
 *und trat und schlug ihn immer mehr.*
 
+NIC: Herr Scott, Beine übereinander [[schlagen]].  
+
 ---
 
 Synonyme:

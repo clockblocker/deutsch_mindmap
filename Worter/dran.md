@@ -1,4 +1,5 @@
 ANNA: Und ihr Mann ist so ein [[Ekel]] … Du bist [[dran]] …  
+Du bist früh [[dran]]!
 
 ---
 

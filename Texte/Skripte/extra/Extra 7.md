@@ -1,74 +1,74 @@
-Episode 7: Der Zwilling  
-Transcript  
-EXTRA GERMAN 7  
+Episode 7: Der [[Zwilling]]  
 DER ZWILLIG  
 SCENE 1  
 SASCHA: Endlich kommst du aus Mexiko nach Hause! Hast du die Fotos bekommen?  
 MARIA: Habe die Bilder, danke - deine Freunde sind süß!  
 Wissen sie von mir?  
 SASCHA: Sie wissen, dass ich eine Schwester habe…aber sie wissen nicht, dass wir Zwillinge sind!  
-MARIA: Bis zum 16. Juni dann - mein Flugzeug landet um 15.00 Uhr, ich nehme mir ein Taxi vom Flughafen … Alles Liebe von Maria.  
+MARIA: Bis zum 16. Juni dann - mein Flugzeug landet um 15 Uhr, ich nehme mir ein Taxi vom Flughafen … Alles Liebe von Maria.  
 SCENE 2  
 SAM: No Mom … I’m not in a bar… I’m working out.  
-What did I have for breakfast? Schokoflocken.  
+What did I have for breakfast? [[Schokoflocken]].  
 No, it’s what the Germans eat!  
 Ok, yes I will, I promise Mom, love you too! Bye!  
 BOTH: Mütter!  
 SAM: Mom denkt, ich bin zehn!  
-SASCHA: Meine Mutter behandelt mich auch wie ein Baby … Und meine Klamotten gefallen ihr auch nicht …  
+SASCHA: Meine Mutter [[behandelt]] mich auch wie ein Baby … Und meine Klamotten [[gefallen]] ihr auch nicht …  
 Sie versteht mich nicht …  
 Einen Moment …  
 Hallo, Mutter ...  
-SAM: I’ll get my weights - die Hanteln …  
+SAM: I’ll get my weights - die [[Hanteln]] …  
 SASCHA: Ja, Mutter! Ich weiß, dass sie heute ankommt …  
+
+
 SCENE 3  
-SAM: Oh, hi, Nic - Ich will meine Hanteln holen …  
-NIC: Ah! Herr Scott! Machen Sie sich frei, legen Sie sich hin!  
+SAM: Oh, hi, Nic - Ich will meine Hanteln [[holen]] …  
+NIC: Ah! Herr Scott! [[freimachen|Machen]] Sie sich frei, [[hinlegen|legen]] Sie sich hin!  
 SAM: Wie bitte, Nic?  
 NIC: Bitte nennen Sie mich Dr. Müller …  
 SAM: Dr. Müller?  
-NIC: Sam- ich muss üben! Ich will den Arzt spielen in der Serie Notstation und die Girls lieben Männer im weißen Kittel!  
+NIC: Sam- ich muss [[üben]]! Ich will den Arzt spielen in der [[Serie]] "Notstation" und Girls lieben Männer im weißen [[Kittel]]!  
 SAM: Ah.  
-NIC: Also ... wo tut es Ihnen weh?  
+NIC: Also ... wo [[tut weh|tut]] es Ihnen weh?  
 SAM: Wo tut was weh?  
-NIC: Du bist mein Patient - dir muss irgend etwas wehtun!  
+NIC: Du bist mein Patient - dir muss [[irgend]] etwas [[wehtun]]!  
 SAM: Ah … mir tut das Bein weh. Das Bein.  
-NIC: Herr Scott, Beine übereinander schlagen.  
+NIC: Herr Scott, Beine [[übereinander]] [[schlagen]].  
 SAM: Okay - ich schlage die Beine übereinander.  
-NIC: Gut - das tut überhaupt nicht weh, keine Spur…  
+NIC: Gut - das tut [[überhaupt]] nicht weh, keine [[Spur]]…  
 SAM: Ah!  
 NIC: Uuumpf!!  
 SAM: Oh, sorry man! I couldn't help it! Are you okay?  
 NIC: Ich … Ihre, haha, Reflexe sind in Ordnung.  
 Gut, bitte sagen Sie ‚Aah’.  
 SAM: ‘Aah'.  
-NIC: Hmmm … das dachte ich mir…  
+NIC: Hmmm … das [[dachte]] ich mir…  
 Herr Scott, Sie haben Schokoflocken zum Frühstück gegessen …  
-So - ich muss Ihnen eine Spritze geben …  
+So - ich muss Ihnen eine [[Spritze]] geben …  
 SAM: Eine Spritze?  
-NIC: Ja! Eine Spritze! Bitte bücken Sie sich!  
-SAM: Nein danke, Nic - ich muss gehen! Aahh! Mein Rücken!  
+NIC: Ja! Eine Spritze! Bitte [[bücken]] Sie sich!  
+SAM: Nein danke, Nic - ich muss gehen! Aahh! Mein [[Rücken]]!  
 NIC: Schon gut, schon gut! Ich kann helfen! Ich bin Arzt!  
 SASCHA: Es ist offen!  
 MARIA: Tra- rah!  
-SASCHA: Maria! Du bist früh dran! Komm rein! Oh, hallo Schwesterherz.  
-MARIA: Saschalein! Endlich sehen wir uns wieder!  
+SASCHA: Maria! Du bist [[früh]] [[dran]]! Komm rein! Oh, hallo Schwesterherz.  
+MARIA: Saschalein! Endlich [[wiedersehen|sehen]] wir uns [[wieder]]!  
 SASCHA: Oh, Maria, wie schön! Wie war der Flug?  
-MARIA: Prima! Aber die haben mein Gepäck verloren!  
-SASCHA: Fluglinien sind so schlampig … Aber, sag, Maria:  
-Warum bist du von Mexiko weggegangen?  
-MARIA: Ich hatte kein Geld mehr - schade! Ich wollte doch noch die Welt sehen!  
-SASCHA: Ach Maria! Sieh dich an! Du änderst dich nie! Du siehst immer noch aus wie ein Teenager!  
+MARIA: [[Prima]]! Aber die haben mein Gepäck [[verloren]]!  
+SASCHA: [[Fluglinien]] sind so [[schlampig]] … Aber, sag, Maria:  
+Warum bist du von Mexiko [[weggegangen]]?  
+MARIA: Ich hatte kein Geld mehr - [[schade]]! Ich wollte doch noch die Welt sehen!  
+SASCHA: Ach Maria! [[Sieh an|Sieh]] dich an! Du [[änderst]] dich nie! Du siehst immer noch aus wie ein Teenager!  
 MARIA: Und wir hatten so viel Spaß … miteinander.  
 SASCHA: Ja … in der Schule …  
-MARIA: Ich war es nicht, Fräulein, es war bestimmt Sascha!  
-SASCHA: Ich war es nicht, Fräulein, es war bestimmt Maria! Und wir haben uns alles geteilt!  
-MARIA: Ja, allerdings …  
+MARIA: Ich war es nicht, [[Fräulein]], es war bestimmt Sascha!  
+SASCHA: Ich war es nicht, Fräulein, es war bestimmt Maria! Und wir haben uns alles [[geteilt]]!  
+MARIA: Ja, [[allerdings]] …  
 FLASHBACK  
 MARIA: Er liebt mich!  
 SASCHA: Nein - er liebt mich!  
 MARIA: Mich!  
-SASCHA: Mich! Na ja - hier sind wir nun …  
+SASCHA: Mich! Na ja - hier sind wir [[nun]] …  
 MARIA: Kann ich mir von dir Kleider leihen?  
 SASCHA: So etwas vielleicht? Es gab zwei für den Preis von einem!  
 MARIA: Na gut.  
@@ -87,23 +87,24 @@ MARIA: Nic … der Schauspieler! Und heute bist du ein … Arzt!
 NIC: Ja! Sieht man das?  
 MARIA: Du bist so ein guter Schauspieler … oohh, ich liebe &AUML;rzte!  
 Moment … Ja, hallo!  
-NIC: Siehst du? Frauen lieben &AUML;rzte! Sascha kann mir nicht widerstehen!  
+NIC: Siehst du? Frauen lieben Azte! Sascha kann mir nicht widerstehen!  
 SAM: Ehrlich?  
 NIC: Na klar! So geht das! Schätzchen, komm zu Doktor Nic …  
 MARIA: … bis bald, Mami, danke, Mami, Tschüss!  
-Na, Herr Doktor, wo waren wir?  
+Na, Herr Doktor, wo [[waren]] wir?  
 Hah … Ich glaube, ich habe Fieber…  
 NIC: Madame - ich glaube, ich kann helfen. Wo tut es weh?  
-ANNA: Hallo, Sam.  
+ANNA: Hallo.  
 MARIA: Annalein! Wie geht es dir? Wie geht es Louis? Ach, du siehst heute so hübsch aus!  
 Sieht Nic nicht gut aus als Arzt?  
-ANNA: &AUML;h, ja, sehr gut …  
+ANNA: Ah, ja, sehr gut …  
 MARIA: Und jetzt muss ich mich frisch machen …  
 SAM: Yes Ma, I have washed behind my ears.  
 AN: SABINE / VON: SASCHA Meine Zwillingsschwester aus Mexiko ist hier … Sie hat ihr Gepäck verloren, deshalb trägt sie meine Kleider…  
 AN: JO / VON: NIC Genau! Ich hab's! Frauen lieben &AUML;rzte!  
 Heute habe ich die Arztrolle geübt ...  
 Sascha konnte mir nicht widerstehen …  
+
 SCENE 6  
 SAM: Sascha ist komisch heute …  
 NIC: Nein, ist sie nicht …  
@@ -112,17 +113,17 @@ SAM: Gerade hat sie gesagt, ihre Mutter sei ihre beste Freundin …
 ANNA: Und?  
 SAM: Aber vor einer Stunde hat sie gesagt, ihre Mutter behandle sie wie ein Baby.  
 NIC: Wie Sascha wohl war als Baby?  
-SAM: … Wie war wohl Anna?  
+SAM: … Wie war [[wohl]] Anna?  
 ANNA: … Wie war wohl Nic als Baby?  
 NIC: Ich weiß wie Sam war…  
 VT: One day my son, all this will be yours.  
-NIC: Okay, ich muss weiter an Dr. Müller arbeiten - vor allem weil Sascha &AUML;rzte so gern hat!  
+NIC: Okay, ich muss weiter an Dr. Müller arbeiten - vor allem weil Sascha Arzte so gern hat!  
 ANNA: Nic mag immer nur Sascha, Sascha, Sascha …  
 SAM: Ist schon gut, Anna …  
 SASCHA: Störe ich?  
 SAM: Ja.  
 ANNA: Nein … nichts …  
-SASCHA: &UUML;brigens Anna: die Farbe steht dir gar nicht …  
+SASCHA: übrigens Anna: die Farbe steht dir gar nicht …  
 SAM: Siehst du? Sie ist komisch…ist sie eifersüchtig?  
 ANNA: Aber warum denn? Nic bemerkt mich gar nicht …  
 Dabei sieht er gut aus in seinem Arztkittel …  
@@ -140,7 +141,7 @@ SAM: Klingt klasse!
 ANNA: Oh, Sam, du bist süß!  
 Oh, wie sehe ich denn aus!? Ahh! Hat Nic mich so gesehen?  
 MARIA: Ah - da ist sie ja … Na, Sam, seid ihr nun ein Paar, du und Anna?  
-SAM: &AUML;h, na ja … Ich mag Anna unheimlich gerne …  
+SAM: Ah, na ja … Ich mag Anna unheimlich gerne …  
 MARIA: Ja …?  
 SAM: Aber sie bemerkt mich gar nicht …  
 MARIA: Dann frag sie, ob sie mit dir ausgehen will!  
@@ -152,7 +153,7 @@ SAM: Am Flughafen?
 MARIA: Bist das du?  
 SAM: Äh …  
 MARIA: Du bist es also?  
-SAM: &AUML;h …  
+SAM: Äh …  
 MARIA: DIE FÜNF REICHSTEN FAMILIEN IN AMERIKA AUF PLATZ 4: DIE FAMILIE SCOTT. Ist das ein Geheimnis?  
 SAM: Äh, ja, bitte sage nichts zu Anna.  
 MARIA: Keine Sorge, dein Geheimnis ist sicher bei mir!  
@@ -199,7 +200,7 @@ ANNA: Ja, Sam …
 SAM: Ich wollte dich etwas fragen …  
 ANNA: Ja, Sam …  
 SAM: Es ist so …  
-Es ist so … willstdumorgenabendmitmirinskinogehen …  
+Es ist so … willst du morgen abend mit mir ins kino gehen …  
 ANNA: Wie bitte?  
 SAM: Willst du morgen Abend mit mir ins Kino gehen?  
 ANNA: Ja … gut, … schon …  
@@ -242,6 +243,8 @@ MARIA: Dr. Müller!
 SASCHA: Nein! Dr. Scott!  
 ANNA: Wisst ihr … wir könnten uns damit einen Spaß machen …  
 Ein Zaubertrick …  
+
+
 SCENE 8  
 ANNA: Sam! Nic! Ihr kommt gerade rechtzeitig für meinen Zaubertrick! Setzt euch hin!  
 SAM: Can’t wait!  

@@ -24,4 +24,4 @@ Synonyme:
 ---
 
 #Substantiv
-#Neuter
+#Neuter[[handel]]

@@ -1,1 +1,1 @@
-[[Schlecht]][[Fertig]]
+[[Schlecht]][[Fertig]][[prima]]

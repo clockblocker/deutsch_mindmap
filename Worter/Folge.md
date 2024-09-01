@@ -19,4 +19,4 @@ sequence, episode
 ---
 
 #Substantiv
-#Feminin
+#Feminin[[Serie]]

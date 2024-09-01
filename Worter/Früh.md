@@ -2,3 +2,5 @@
 
 [[Frühstück]]
 
+Du bist [[früh]] [[dran]]!
+

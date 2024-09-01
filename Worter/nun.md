@@ -2,6 +2,8 @@
 *litt vielen Schmerz an seinem Bein;*  
 
 SEXY VOICE: [[nun]] … willst du ein [[stück]] vom Paradies probieren?  
+SASCHA: Mich! Na ja - hier sind wir [[nun]] …  
+
 
 ---
 Synonyme:
@@ -23,3 +25,5 @@ Tags:
 
 Morphems:
 [[nun]]
+
+

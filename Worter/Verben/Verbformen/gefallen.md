@@ -6,6 +6,7 @@ haben [[gefallen]]
 - Welches Foto [[gefällt]] Ihnen?
 - SASCHA: [[gefällt]] Ihnen diese Hose?
 - Es [[gefällt]] dir nicht? 
+-  Und meine Klamotten [[gefallen]] ihr auch nicht …  
 
 ---
 

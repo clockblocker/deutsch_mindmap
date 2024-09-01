@@ -24,4 +24,4 @@ Tags:
 
 Morphems:
 [[hin]]
-[[hinaus]]
+[[hinaus]][[hinlegen]]

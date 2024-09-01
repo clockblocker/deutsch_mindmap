@@ -3,6 +3,7 @@
 haben [[geübt]]
 
 ---
+NIC: Sam- ich muss [[üben]]!
 
 ---
 

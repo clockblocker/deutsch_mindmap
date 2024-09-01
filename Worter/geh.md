@@ -1,2 +1,2 @@
 Inf: [[gehen]]
-[[untergehen]]
+[[untergehen]][[weggehen]]

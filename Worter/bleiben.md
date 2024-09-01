@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er nichts zu tun hätte, [[bliebe]] er hier.
 - Wenn wir könnten, [[blieben]] wir den ganzen Tag.
 - Wenn ihr nicht müsstet, [[bliebt]] ihr länger.
-- Wenn sie wollten, [[blieben]] sie noch ein bisschen.[[verlassen]]
+- Wenn sie wollten, [[blieben]] sie noch ein bisschen.[[verlassen]][[weggehen]]

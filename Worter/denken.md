@@ -4,9 +4,15 @@ haben [[gedacht]]
 
 ---
 Und Anna [[denkt]], der Cowboy
+
 Hattest du nicht daran [[gedacht]], es zu schließen, Brigitte?
+
 Alles liegt drunter und drüber. Das habe ich mir gleich [[gedacht]]. Ein Einbrecher!
+
 Sie [[dachte]]: „Ich sollte mich einem starken und mächtigen Tier anschließen."
+
+NIC: Hmmm … das [[dachte]] ich mir…  
+
 
 ---
 

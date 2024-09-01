@@ -5,7 +5,6 @@ haben [[vermischt]]
 ---
 CHARLOTTE: Das Eigelb mit der Schokolade [[vermischen]] …  
 
--
 
 ---
 Synonyme: [[mischen]], [[vereinen]], [[kombinieren]], [[vermengen]], [[vermischen]]

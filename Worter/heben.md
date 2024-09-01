@@ -1,1 +1,1 @@
-[[setzen]][[ziehen]]
+[[setzen]][[ziehen]][[bücken]]

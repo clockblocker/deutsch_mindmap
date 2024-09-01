@@ -3,8 +3,9 @@
 haben [[geändert]]
 
 ---
--
--
+- Ach Maria! [[Sieh an|Sieh]] dich an! Du [[änderst]] dich nie! 
+- Heute werden Sie eine [[Veränderung]] im Beruf haben, für mehr Geld
+- 
 
 ---
 Synonyme: [[verändern]], [[umändern]], [[modifizieren]], [[wandeln]], [[umwandeln]], 
@@ -31,4 +32,3 @@ Morpheme: [[änder]][[n]]
 
 Partizip I: [[ändernd]], Partizip II: [[geändert]]
 
-[[verändern]]

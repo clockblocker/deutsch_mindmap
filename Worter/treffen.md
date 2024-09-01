@@ -61,4 +61,4 @@ to meet
 ---
 
 **Morphems of only infinitive:**
-- [[treff]][[en]]
+- [[treff]][[en]][[schlagen]][[wiedersehen]]

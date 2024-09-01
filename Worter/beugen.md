@@ -60,4 +60,4 @@ to bend
 ---
 
 **Morphems of only infinitive:**
-- [[beug]][[en]]
+- [[beug]][[en]][[bücken]]

@@ -20,4 +20,4 @@ Morphems:
 [[Schwester]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin[[Zwilling]]

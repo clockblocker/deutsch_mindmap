@@ -1,1 +1,1 @@
-[[bestimmt]][[bedeuten]][[bestehen]][[bericht]][[besonders]]
+[[bestimmt]][[bedeuten]][[bestehen]][[bericht]][[besonders]][[behandeln]][[handeln]]

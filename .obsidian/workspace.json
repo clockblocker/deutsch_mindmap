@@ -13,19 +13,247 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 6.md",
+                "file": "Texte/Skripte/extra/Extra 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "501220543ca4a6c8",
+            "id": "919c8327758e8c92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/arrangieren.md",
+                "file": "Worter/verloren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f47878b8d975897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/verlieren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "036aa4697f1c9b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/verloren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bc5bba9dbc1d5ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Skripte/extra/Extra 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c28cfb65a27b4ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/allerdings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5669e330fa4810bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/teilen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ce7d90425455c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/ansehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a45b40f954fa538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/ansehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36ccd0e12cba100d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/ansehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25bfb7462226af85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Sieh an.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dc70d416f1dff7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/weggehen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2afa8b9b02962592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/schlampig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06ae9dda8da4d5da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/schlampig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "655cf49edb2a0923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/behandeln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "944e337680d8340a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/behandelt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7118c793e7b59501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/bücken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19f0ecd75820fbe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/übereinander.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b2753441bc07690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/behandelt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8e083c0eff5e3e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Schokoflocken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d1dcd602dd4f35f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Schokoflocken.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +367,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,7 +446,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 6.md",
+                "file": "Texte/Skripte/extra/Extra 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +463,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 6.md",
+                "file": "Texte/Skripte/extra/Extra 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +486,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 6.md"
+                "file": "Texte/Skripte/extra/Extra 7.md"
               }
             }
           }
@@ -284,34 +513,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aae6f6df653dec06",
+  "active": "2bc5bba9dbc1d5ec",
   "lastOpenFiles": [
-    "Worter/nachher.md",
-    "Worter/davor.md",
-    "Worter/zuvor.md",
-    "Worter/anschließend.md",
-    "Worter/hernach.md",
-    "Worter/daraufhin.md",
-    "Texte/Skripte/extra/Extra 6.md",
-    "Worter/Schein.md",
-    "Worter/abholen.md",
-    "Worter/holen.md",
-    "Worter/abholend.md",
-    "Worter/holen Sie ab.md",
-    "Worter/holet ab.md",
-    "Worter/holtet ab.md",
-    "Worter/holten ab.md",
-    "Worter/holen ab.md",
-    "Worter/holt ab.md",
-    "Worter/hotest ab.md",
-    "Worter/hol ab.md",
-    "Worter/holtest ab.md",
-    "Worter/holst ab.md",
-    "Worter/hole ab.md",
-    "Worter/hol.md",
-    "Worter/liegenlassen.md",
-    "Worter/wegbringen.md",
-    "Worter/abfangen.md",
+    "Worter/nun.md",
+    "Texte/Skripte/extra/Extra 7.md",
+    "Worter/allerdings.md",
+    "Worter/geteilt.md",
+    "Worter/teilen.md",
+    "Worter/teilend.md",
+    "Worter/teilen Sie.md",
+    "Worter/teilet.md",
+    "Worter/teiltet.md",
+    "Worter/teilten.md",
+    "Worter/teilt.md",
+    "Worter/teilest.md",
+    "Worter/teiltest.md",
+    "Worter/teilst.md",
+    "Worter/teile.md",
+    "Worter/teil.md",
+    "Worter/zusammenführen.md",
+    "Worter/separieren.md",
+    "Worter/splitten.md",
+    "Worter/zerteilen.md",
+    "Worter/verteilen.md",
+    "Worter/aufteilen.md",
+    "Worter/teilte.md",
+    "Worter/vermischen.md",
+    "Worter/Nomen/Teile.md",
+    "Worter/Fräulein.md",
     "Anhänge/Pasted image 20240829080933.png",
     "Anhänge/Pasted image 20240829080852.png",
     "Texte/Emil und die Detektive",

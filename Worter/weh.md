@@ -12,4 +12,4 @@ Synonyme:
 **Übersetzung**: sore, hurt
 
 ---
-#Adjektiv
+#Adjektiv[[wehtun]]

@@ -30,4 +30,4 @@ Morpheme: [[ver]][[lass]][[en]]
 
 Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 
-[[verlassen]] - [[ver]] = [[lassen]]
+[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]]
