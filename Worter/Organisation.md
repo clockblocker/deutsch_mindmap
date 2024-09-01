@@ -1,1 +1,1 @@
-[[Unternehmen]]
+[[Unternehmen]], [[Verein]]

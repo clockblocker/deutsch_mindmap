@@ -1,1 +1,1 @@
-[[bestimmt]][[bedeuten]][[bestehen]][[bericht]][[besonders]][[behandeln]][[handeln]], [[bekannt]]
+[[bestimmt]][[bedeuten]][[bestehen]][[bericht]][[besonders]][[behandeln]][[handeln]], [[bekannt]], [[benutzen]], [[bestellt]]

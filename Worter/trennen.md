@@ -31,4 +31,4 @@ Morpheme: [[trenn]][[en]]
 
 Partizip I: [[trennend]], Partizip II: [[getrennt]]
 
-[[trennen]] - [[trenn]] = [[en]][[vermischen]]
+[[trennen]] - [[trenn]] = [[en]][[vermischen]], [[vergleichen]]

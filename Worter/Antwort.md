@@ -19,4 +19,4 @@ Morphems:
 [[Ant]][[wort]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Lösung]], [[Auskunft]]

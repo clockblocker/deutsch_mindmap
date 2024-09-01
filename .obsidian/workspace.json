@@ -4,343 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a61769330297357a",
+        "id": "7807a5e748fef472",
         "type": "tabs",
         "children": [
           {
-            "id": "c28cfb65a27b4ff0",
+            "id": "08ec60410806d70a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wortlisten/ROI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a99ba8f6eea48fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Verben/Verbformen/waren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf8a000b7e9fc4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Verben/Infinitive/sein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dddaf84a1b84326b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/widerstehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5669e330fa4810bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/teilen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ce7d90425455c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/ansehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a45b40f954fa538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/ansehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36ccd0e12cba100d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/ansehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25bfb7462226af85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Sieh an.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dc70d416f1dff7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/weggehen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2afa8b9b02962592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/schlampig.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ae9dda8da4d5da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/schlampig.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "655cf49edb2a0923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/behandeln.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "944e337680d8340a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/behandelt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7118c793e7b59501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/bücken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19f0ecd75820fbe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/übereinander.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b2753441bc07690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/behandelt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8e083c0eff5e3e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Schokoflocken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d1dcd602dd4f35f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Schokoflocken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53ab1cc4d4a5cda8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/bürstet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e86b4ba5e1233f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Dinge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "063c59654f4866b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/wirf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0e8d1f8b9a47f2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/werfen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9524479e618e64d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Reihenfolge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d95b5dfafa9705e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Glück.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd420d7cf6e36e16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/verändern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4a6e64f5a3adef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/feinen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05baf32ed809c652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Sorte.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -384,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Es gibt einen speziellen Platz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -421,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wortlisten/ROI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -438,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wortlisten/ROI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -460,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wortlisten/ROI.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -488,34 +156,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c28cfb65a27b4ff0",
+  "active": "08ec60410806d70a",
   "lastOpenFiles": [
-    "Wortlisten/Eng.md",
-    "Wortlisten/core verbs.md",
-    "Wortlisten/100 adjectives.md",
-    "Worter/liegen.md",
-    "Worter/liegend.md",
-    "Worter/liegen Sie.md",
-    "Worter/läget.md",
-    "Worter/lieget.md",
-    "Worter/lagt.md",
-    "Worter/lägen.md",
-    "Worter/lagen.md",
-    "Worter/liegt.md",
-    "Worter/lägest.md",
-    "Worter/liegest.md",
-    "Worter/lagst.md",
-    "Worter/liegst.md",
-    "Worter/läge.md",
-    "Worter/liege.md",
-    "Worter/lieg.md",
-    "Worter/pausieren.md",
-    "Worter/verweilen.md",
-    "Worter/positioniert sein.md",
-    "Worter/gelegen.md",
-    "Worter/lag.md",
-    "Wortlisten/100 verbs.md",
-    "Worter/erklären.md",
+    "Worter/Sorte.md",
+    "Worter/feinen.md",
+    "Worter/verändern.md",
+    "Worter/Glück.md",
+    "Worter/Reihenfolge.md",
+    "Worter/werfen.md",
+    "Worter/wirf.md",
+    "Worter/Dinge.md",
+    "Worter/bürstet.md",
+    "Worter/Schokoflocken.md",
+    "Worter/behandelt.md",
+    "Worter/übereinander.md",
+    "Worter/bücken.md",
+    "Worter/behandeln.md",
+    "Worter/schlampig.md",
+    "Worter/weggehen.md",
+    "Worter/Sieh an.md",
+    "Worter/ansehen.md",
+    "Worter/teilen.md",
+    "Worter/widerstehen.md",
+    "Worter/Verben/Infinitive/sein.md",
+    "Worter/vergleichen.md",
+    "Worter/Beamte.md",
+    "Worter/Großmutter.md",
+    "Wortlisten/Custom/1000 am häufigsten.md",
+    "Wortlisten/Custom/A1_SD1.md",
     "Anhänge/Pasted image 20240829080933.png",
     "Anhänge/Pasted image 20240829080852.png",
     "Texte/Emil und die Detektive",

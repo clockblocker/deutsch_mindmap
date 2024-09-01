@@ -17,4 +17,4 @@ Synonyme:
 [[nach]][[Richt]]
 
 ---
-#Substantiv #Feminin[[bericht]]
+#Substantiv #Feminin[[bericht]], [[Auskunft]]
