@@ -1,1 +1,1 @@
-[[bedeuten]][[erzählen]]
+[[bedeuten]][[erzählen]], [[erklären]]

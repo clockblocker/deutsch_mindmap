@@ -37,4 +37,4 @@ Genitiv (Genitive):
 | [[dieses]] | [[dieser]] | [[dieses]] | [[dieser]] |
 
 
-[[Indefinitpronomen]]
+[[Indefinitpronomen]], [[dies]]

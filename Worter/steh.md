@@ -1,1 +1,1 @@
-[[verstehen]][[stehlen]][[bestehen]]
+[[verstehen]][[stehlen]][[bestehen]], [[widerstehen]]

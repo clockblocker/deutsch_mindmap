@@ -69,3 +69,4 @@ Der [[Typ]] ist [[komisch]]!
 ---
 Tags: 
 #Adjective
+, [[witzig]]

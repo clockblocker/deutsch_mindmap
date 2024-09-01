@@ -1,1 +1,1 @@
-[[Übernehmen]][[lernen]][[aussuchen]][[behandeln]]
+[[Übernehmen]][[lernen]][[aussuchen]][[behandeln]], [[Trinken]]

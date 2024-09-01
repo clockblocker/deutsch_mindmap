@@ -1,1 +1,1 @@
-[[schade]]
+[[schade]], [[wohl]], [[unbequem]]

@@ -1,1 +1,1 @@
-[[köstlich]]
+[[köstlich]], [[interessant]]

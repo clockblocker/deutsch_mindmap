@@ -19,4 +19,4 @@ Morphems:
 [[Not]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Notfall]]

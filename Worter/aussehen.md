@@ -5,61 +5,30 @@ haben [[ausgesehen]]
 ---
 Aber er [[aussehen|sieht]] total gut aus!  
 Mein Gott! Wie [[sieht aus|sieht]] das hier aus! Alles liegt drunter und drüber. 
+MARIA: Annalein! Wie geht es dir? Wie geht es Louis? Ach, du [[siehst aus|siehst]] heute so hübsch aus!  
 
 ---
-
-**Synonyme:**
-
-- [[wirken]], [[erscheinen]], [[scheinen]]
+Synonyme: [[erscheinen]], [[wirken]], [[aussehen]], [[sich präsentieren]], [[sich zeigen]]
+Antonyme: [[unsichtbar sein]], [[verbergen]], [[verdecken]], [[verstecken]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[sehe aus|sehe]] müde aus.
-- Du [[siehst aus|siehst]] glücklich aus.
-- Er [[sieht aus|sieht]] traurig aus.
-- Es [[sieht aus|sieht]] kaputt aus.
-- Sie [[sieht aus|sieht]] wie ein Model aus.
-- Wir [[sehen aus|sehen]] sportlich aus.
-- Ihr [[seht aus|seht]] überrascht aus.
-- Sie [[sehen aus|sehen]] sehr zufrieden aus.
+Übersetzung: to look, to appear
 
 ---
-
-**Übersetzung**:
-to look, to appear
-
----
+Morpheme: [[aus]][[seh]][[en]]
  #Verb  #Trennbar
-
+ 
 ---
 
-**Präteritum:**
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[sehe aus]] | [[sah aus]] | - | [[sehe aus]] | [[sähe aus]] |
+| Du | [[siehst aus]] | [[sahst aus]] | [[sieh aus]] | [[sehest aus]] | [[sähest aus]] |
+| Er/sie/es | [[sieht aus]] | [[sah aus]] | - | [[sehe aus]] | [[sähe aus]] |
+| Wir | [[sehen aus]] | [[sahen aus]] | - | [[sehen aus]] | [[sähen aus]] |
+| Ihr | [[seht aus]] | [[saht aus]] | [[seht aus]] | [[sehet aus]] | [[sähet aus]] |
+| Sie | [[sehen aus]] | [[sahen aus]] | [[sehen Sie aus]] | [[sehen aus]] | [[sähen aus]] |
 
-- Ich [[sah aus|sah]] müde aus.
-- Du [[sahst aus|sahst]] glücklich aus.
-- Er [[sah aus|sah]] traurig aus.
-- Es [[sah aus|sah]] kaputt aus.
-- Sie [[sah aus|sah]] wie ein Model aus.
-- Wir [[sahen aus|sahen]] sportlich aus.
-- Ihr [[saht aus|saht]] überrascht aus.
-- Sie [[sahen aus|sahen]] sehr zufrieden aus.
+Partizip I: [[aussehend]], Partizip II: [[ausgesehen]]
 
----
-
-**Imperativ:**
-
-- Ich [[sehe aus|sehe]] gut aus.
-- Du [[sieh aus|sehe]] gut aus.
-- Er [[sehe aus|sehe]] gut aus.
-- Es [[sieht aus|sieht]] gut aus.
-- Sie [[sehe aus|sehe]] gut aus.
-- Wir [[sehen aus|sehen]] gut aus.
-- Ihr [[seht aus|seht]] gut aus.
-- Sie [[sehen aus|sehen]] gut aus.
-
----
-
-**Morphems of only infinitive:**  
-- [[aus]][[sehen]]
+[[aussehen]] - [[aus]] = [[sehen]]

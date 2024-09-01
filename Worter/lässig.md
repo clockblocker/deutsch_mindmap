@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[lässig]][[schlampig]]
+[[lässig]][[schlampig]], [[faul]]

@@ -1,0 +1,1 @@
+, [[schwer]], [[unbequem]], [[faul]]

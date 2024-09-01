@@ -1,1 +1,2 @@
 [[erkältet]]
+, [[gesund]]

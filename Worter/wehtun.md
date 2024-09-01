@@ -5,7 +5,7 @@ haben [[wehgetan]]
 ---
 - NIC: Also ... wo [[wehtun|tut]] es Ihnen weh?  
 - NIC: Du bist mein Patient - dir muss irgend etwas wehtun!  
-- 
+- Mein Rücken [[tut weh]]!  
 ---
 Synonyme: [[schmerzen]], [[weh sein]], [[plagen]], [[quälen]], [[verletzen]]
 Antonyme: [[heilen]], [[erleichtern]], [[lindern]]

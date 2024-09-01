@@ -1,4 +1,4 @@
 Ich mag grüne [[Ort]]e
 
 
-place
+place, [[Stadt]]

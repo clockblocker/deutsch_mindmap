@@ -1,1 +1,1 @@
-[[ändern]][[holen]][[verloren]][[verlieren]]
+[[ändern]][[holen]][[verloren]][[verlieren]], [[haben]]

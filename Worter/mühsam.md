@@ -1,1 +1,1 @@
-[[schwierig]]
+[[schwierig]], [[schwer]], [[unbequem]]

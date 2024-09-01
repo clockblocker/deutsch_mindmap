@@ -29,4 +29,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[schwierig]], [[schwierigerer]], [[schwierigere]], [[schwierigeres]], [[schwierigeren]], [[schwierigerem]], [[schwierigerer]], [[schwierigeren]]
 [[schwierigste]], [[schwierigster]], [[schwierigste]], [[schwierigestes]], [[schwierigsten]], [[schwierrigstem]], [[schwierigster]], [[schwierigsten]]
-[[einfachen]]
+[[einfachen]], [[schwer]], [[unbequem]]

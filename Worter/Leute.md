@@ -6,4 +6,4 @@ CINDY: Hey [[Leute]] seid ihr startklar? Los gehts!
 
 die [[Person]]
 
-Man
+Man, [[Menschen]]

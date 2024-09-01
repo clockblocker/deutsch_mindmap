@@ -1,4 +1,4 @@
 📍[[bleiben]]
 
 Ich bin klein [[gewesen]]
-Ich bin schon [[geblieben]]
+Ich bin schon [[geblieben]], [[sein]]

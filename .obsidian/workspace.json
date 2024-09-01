@@ -8,72 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aae6f6df653dec06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Skripte/extra/Extra 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "919c8327758e8c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/verloren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f47878b8d975897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/verlieren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "036aa4697f1c9b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/verloren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bc5bba9dbc1d5ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Skripte/extra/Extra 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c28cfb65a27b4ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/allerdings.md",
+                "file": "Wortlisten/ROI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a99ba8f6eea48fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Verben/Verbformen/waren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf8a000b7e9fc4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Verben/Infinitive/sein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dddaf84a1b84326b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/widerstehen.md",
                 "mode": "source",
                 "source": false
               }
@@ -367,8 +343,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -446,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 7.md",
+                "file": "Wortlisten/ROI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -463,7 +438,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 7.md",
+                "file": "Wortlisten/ROI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -486,7 +461,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 7.md"
+                "file": "Wortlisten/ROI.md"
               }
             }
           }
@@ -513,34 +488,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2bc5bba9dbc1d5ec",
+  "active": "c28cfb65a27b4ff0",
   "lastOpenFiles": [
-    "Worter/nun.md",
-    "Texte/Skripte/extra/Extra 7.md",
-    "Worter/allerdings.md",
-    "Worter/geteilt.md",
-    "Worter/teilen.md",
-    "Worter/teilend.md",
-    "Worter/teilen Sie.md",
-    "Worter/teilet.md",
-    "Worter/teiltet.md",
-    "Worter/teilten.md",
-    "Worter/teilt.md",
-    "Worter/teilest.md",
-    "Worter/teiltest.md",
-    "Worter/teilst.md",
-    "Worter/teile.md",
-    "Worter/teil.md",
-    "Worter/zusammenführen.md",
-    "Worter/separieren.md",
-    "Worter/splitten.md",
-    "Worter/zerteilen.md",
-    "Worter/verteilen.md",
-    "Worter/aufteilen.md",
-    "Worter/teilte.md",
-    "Worter/vermischen.md",
-    "Worter/Nomen/Teile.md",
-    "Worter/Fräulein.md",
+    "Wortlisten/Eng.md",
+    "Wortlisten/core verbs.md",
+    "Wortlisten/100 adjectives.md",
+    "Worter/liegen.md",
+    "Worter/liegend.md",
+    "Worter/liegen Sie.md",
+    "Worter/läget.md",
+    "Worter/lieget.md",
+    "Worter/lagt.md",
+    "Worter/lägen.md",
+    "Worter/lagen.md",
+    "Worter/liegt.md",
+    "Worter/lägest.md",
+    "Worter/liegest.md",
+    "Worter/lagst.md",
+    "Worter/liegst.md",
+    "Worter/läge.md",
+    "Worter/liege.md",
+    "Worter/lieg.md",
+    "Worter/pausieren.md",
+    "Worter/verweilen.md",
+    "Worter/positioniert sein.md",
+    "Worter/gelegen.md",
+    "Worter/lag.md",
+    "Wortlisten/100 verbs.md",
+    "Worter/erklären.md",
     "Anhänge/Pasted image 20240829080933.png",
     "Anhänge/Pasted image 20240829080852.png",
     "Texte/Emil und die Detektive",

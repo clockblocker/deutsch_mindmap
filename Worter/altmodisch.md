@@ -1,1 +1,1 @@
-[[alt]][[mod]][[isch]]
+[[alt]][[mod]][[isch]], [[modern]]

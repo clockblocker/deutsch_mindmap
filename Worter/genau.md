@@ -23,4 +23,4 @@ Tags:
 
 ---
 Morphems:
-[[ge]][[nau]]
+[[ge]][[nau]], [[eben]]

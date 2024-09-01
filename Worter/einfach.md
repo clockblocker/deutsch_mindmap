@@ -44,4 +44,4 @@ Tags:
 Morphems:
 [[ein]][[fach]]
 
-просто[[einfachen]]
+просто[[einfachen]], [[schwer]], [[unbequem]]

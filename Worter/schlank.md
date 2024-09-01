@@ -70,4 +70,4 @@ slim, slender
 ---
 
 Tags: 
-#Adjective [[schlank]]
+#Adjective [[schlank]], [[dick]]

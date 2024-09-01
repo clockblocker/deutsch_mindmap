@@ -5,65 +5,33 @@ sein [[gewesen]]
 ---
 Ich bin klein [[gewesen]]
 Ich bin schon [[geblieben]]
+Na, Herr Doktor, wo [[waren]] wir?  
 
 ---
 
-**Synonyme:**
-
-- [[existieren]], [[bestehen]], [[Leben]]
-
----
-
-**Beispiele:**
-
-- Ich [[bin]] müde.
-- Du [[bist]] glücklich.
-- Er [[ist]] krank.
-- Es [[ist]] spät.
-- Sie [[ist]] intelligent.
-- Wir [[sind]] bereit.
-- Ihr [[seid]] freundlich.
-- Sie [[sind]] pünktlich.
+Synonyme: [[existieren]], [[vorhanden sein]], [[sich befinden]], [[dastehen]], [[dabeisein]]
+Antonyme: [[nicht sein]], [[fehlen]], [[verschwinden]]
 
 ---
-
 **Übersetzung**:
 to be
 
 ---
- #Verb  #Unregelmäßig
+Morpheme:
+[[sein]]
 
 ---
 
-**Präteritum:**
 
-- Ich [[war]] müde.
-- Du [[warst]] glücklich.
-- Er [[war]] krank.
-- Es [[war]] spät.
-- Sie [[war]] intelligent.
-- Wir [[waren]] bereit.
-- Ihr [[wart]] freundlich.
-- Sie [[waren]] pünktlich.
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[bin]]              | [[war]]               | -                 | [[sei]]                | [[wäre]]                |
+| Du        | [[bist]]             | [[warst]]             | [[sei]]           | [[seist]]              | [[wärest]]              |
+| Er/sie/es | [[ist]]              | [[war]]               | -                 | [[sei]]                | [[wäre]]                |
+| Wir       | [[sind]]             | [[waren]]             | -                 | [[seien]]              | [[wären]]               |
+| Ihr       | [[seid]]             | [[wart]]              | [[seid]]          | [[seiet]]              | [[wäret]]               |
+| Sie       | [[sind]]             | [[waren]]             | [[seien Sie]]     | [[seien]]              | [[wären]]               |
 
----
+Partizip I: [[seiend]], Partizip II: [[gewesen]]
 
-**Imperativ:**
-
-- Ich [[bin]] müde.
-- Du [[sei]] mutig.
-- Er [[sei]] stark.
-- Es [[sei]] gut.
-- Sie [[sei]] geduldig.
-- Wir [[seien]] vorsichtig.
-- Ihr [[seid]] ruhig.
-- Sie [[seien]] höflich.
-
----
-
-**Morphems of only infinitive:**  
-- [[sein]]
-
-[[Akkusativ possessiv Pronomen]]
-[[Nominativ possessiv Pronomen]]
-
+[[sein]] - [[sein]] = [[sein]]

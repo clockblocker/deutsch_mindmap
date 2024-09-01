@@ -73,32 +73,32 @@ MARIA: Kann ich mir von dir Kleider leihen?
 SASCHA: So etwas vielleicht? Es gab zwei für den Preis von einem!  
 MARIA: Na gut.  
 SCENE 5  
-MARIA: He, Sascha, das passt richtig gut.  
+MARIA: He, Sascha, das [[passt]] richtig gut.  
 SASCHA: Prima.  
-SAM: Tut mir Leid! Ich kann nicht trainieren. Mein Rücken tut weh!  
+SAM: Tut mir Leid! Ich kann nicht trainieren. Mein Rücken [[tut weh]]!  
 MARIA: Sam! Hahaha! Du hast so schöne Muskeln!  
 SAM: Äh, danke … Wie geht es deiner Mutter?  
 MARIA: Meiner Mutter? Danke, ich glaube, es geht ihr gut.  
 SAM: Aber du hast doch mit ihr gesprochen!  
-MARIA: Ja! Wir sprechen dauernd miteinander – sie ist mir eine echte Freundin.  
+MARIA: Ja! Wir sprechen [[dauernd]] miteinander – sie ist mir eine echte Freundin.  
 SAM: Aber ich dachte …  
-NIC: Keine Panik! Ich bin da! Wo ist der Notfall?  
-MARIA: Nic … der Schauspieler! Und heute bist du ein … Arzt!  
+NIC: Keine Panik! Ich bin da! Wo ist der [[Notfall]]?  
+MARIA: Nic … der [[Schauspieler]]! Und heute bist du ein … Arzt!  
 NIC: Ja! Sieht man das?  
 MARIA: Du bist so ein guter Schauspieler … oohh, ich liebe &AUML;rzte!  
 Moment … Ja, hallo!  
-NIC: Siehst du? Frauen lieben Azte! Sascha kann mir nicht widerstehen!  
-SAM: Ehrlich?  
+NIC: Siehst du? Frauen lieben Azte! Sascha kann mir nicht [[widerstehen]]!  
+SAM: [[Ehrlich]]?  
 NIC: Na klar! So geht das! Schätzchen, komm zu Doktor Nic …  
 MARIA: … bis bald, Mami, danke, Mami, Tschüss!  
 Na, Herr Doktor, wo [[waren]] wir?  
 Hah … Ich glaube, ich habe Fieber…  
 NIC: Madame - ich glaube, ich kann helfen. Wo tut es weh?  
 ANNA: Hallo.  
-MARIA: Annalein! Wie geht es dir? Wie geht es Louis? Ach, du siehst heute so hübsch aus!  
+MARIA: Annalein! Wie geht es dir? Wie geht es Louis? Ach, du [[siehst aus|siehst]] heute so [[hübsch]] aus!  
 Sieht Nic nicht gut aus als Arzt?  
 ANNA: Ah, ja, sehr gut …  
-MARIA: Und jetzt muss ich mich frisch machen …  
+MARIA: Und jetzt muss ich mich [[frisch]] machen …  
 SAM: Yes Ma, I have washed behind my ears.  
 AN: SABINE / VON: SASCHA Meine Zwillingsschwester aus Mexiko ist hier … Sie hat ihr Gepäck verloren, deshalb trägt sie meine Kleider…  
 AN: JO / VON: NIC Genau! Ich hab's! Frauen lieben &AUML;rzte!  

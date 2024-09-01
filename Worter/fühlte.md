@@ -1,2 +1,3 @@
 Inf: [[fühlen]]
 
+, [[wohl]]

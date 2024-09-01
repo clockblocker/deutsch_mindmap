@@ -1,1 +1,1 @@
-[[einfachen]][[einander]]
+[[einfachen]][[einander]], [[einzelnen]]

@@ -41,3 +41,4 @@ Tags:
 Morphems:
 [[bestimmt]]
 
+, [[wohl]]

@@ -25,3 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[sauber]], [[sauberer]], [[saubere]], [[sauberes]], [[sauberen]], [[sauberem]], [[sauberer]], [[sauberen]]
 [[sauberste]], [[sauberster]], [[saubersteste]], [[sauberstes]], [[saubersten]], [[sauberstem]], [[sauberstester]], [[saubersten]]
+, [[frisch]]

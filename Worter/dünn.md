@@ -67,4 +67,4 @@ thin
 ---
 
 Tags: 
-#Adjective [[dünn]]
+#Adjective [[dünn]], [[dick]]

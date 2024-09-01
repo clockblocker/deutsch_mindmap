@@ -1,44 +1,30 @@
 [[hübsch]]
-[[hübscher]]
-[[am]] [[hübschesten]]
-
-nicht [[hässlich]]
+nicht [[unattraktiv]], nicht [[häßlich]]
 
 ---
 Hallo Sam und Nic! Ja! Wir sind total [[hübsch]]!  
 … Für die [[hübsche]] Sascha …von S … Wer ist S?  
+ Ach, du siehst heute so [[hübsch]] aus!  
 
 
 ---
-
 Synonyme:
-- [[schön]], [[attraktiv]], [[ansehnlich]], [[süß]]
+- [[schön]], [[attraktiv]], [[ansehnlich]], [[reizvoll]], [[anmutig]]
+Antonyme: 
+- [[unattraktiv]], [[hässlich]], [[unansehnlich]], [[unangenehm]], [[unzierlich]]
 
 ---
-Beispiele:
+Übersetzung: 
+pretty, beautiful, handsome
 
-- Sie hat ein [[hübsches]] Gesicht.
-- Er trägt eine [[hübsche]] Jacke.
-- Das Haus sieht [[hübsch]] aus.
-
-- Sie hat ein [[hübscheres]] Gesicht als ihre Schwester.
-- Er trägt eine [[hübschere]] Jacke als gestern.
-- Das Haus sieht jetzt [[hübscher]] aus.
-
+---
+Morpheme:
 [[hübsch]]
-- Sie hat das [[hübscheste]] Gesicht von allen.
-- Er trägt die [[hübscheste]] Jacke auf der Party.
-- Das Haus sieht [[am hübschesten]] im Frühling aus.
 
 ---
-**Übersetzung**:
-pretty, handsome
+#Adjektiv [[hübsch]]
 
 ---
-
-Tags: 
-#Adjective
-
----
-Morphems:
-[[hübsch]]
+Einzigartige mögliche Formen:
+[[hübsch]], [[hübscher]], [[hübsche]], [[hübsches]], [[hübschen]], [[hübschem]], [[hübscher]], [[hübscheren]]
+[[hübscheste]], [[hübschester]], [[hübscheste]], [[hübschestes]], [[hübschesten]], [[hübschestem]], [[hübschester]], [[hübschesten]]

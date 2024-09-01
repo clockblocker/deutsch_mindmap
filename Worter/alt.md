@@ -42,4 +42,4 @@ jung (young)
 ---
 Tags: 
 #Adjective
-#Positive | #Comparative | #Superlative
+#Positive | #Comparative | #Superlative, [[frisch]]

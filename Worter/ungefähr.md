@@ -30,3 +30,4 @@ Tags:
 Morphems:
 [[unge]][[fähr]]
 
+, [[eben]]

@@ -1,1 +1,1 @@
-[[Kühl]]
+[[Kühl]], [[durstig]]
