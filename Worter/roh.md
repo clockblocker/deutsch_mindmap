@@ -1,1 +1,1 @@
-[[rund]]
+[[rund]], [[lackiertes]]

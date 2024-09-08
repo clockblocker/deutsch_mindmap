@@ -1,1 +1,1 @@
-[[schwierig]][[einfachen]], [[schwer]], [[unbequem]], [[ernst]]
+[[schwierig]][[einfachen]], [[schwer]], [[unbequem]], [[ernst]], [[einfach]]

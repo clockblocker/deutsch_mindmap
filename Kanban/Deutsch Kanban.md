@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Extra
 
-- [ ] [[Extra 9]]
 - [ ] [[Extra 10]]
 - [ ] [[Extra 11]]
 - [ ] [[Extra 12]]
@@ -15,13 +14,15 @@ kanban-plugin: board
 
 ## In progress
 
-- [ ] [[Extra 8]]
+- [ ] [[Extra 9]]
 - [ ] [[Sonne]]
 
 
 ## Done
 
 - [ ] [[Deutschland]]
+- [ ] [[Extra 8]]
+- [ ] [[Alle meine Entchen]]
 - [ ] [[Ich Will]]
 - [ ] [[Mein Herz brennt]]
 - [ ] [[Du hast]]
@@ -50,19 +51,49 @@ kanban-plugin: board
 
 ## Kamyanova
 
+- [ ] [[15 genetiv]]
+- [ ] [[1 Phonetik]]
 - [ ] [[2 Das Substantiv]]
+- [ ] [[3 Die Pluralbildung der Substantive]]
+- [ ] [[4 Adj]]
+- [ ] [[5 Akk]]
+- [ ] [[6 Verb]]
+- [ ] [[7 Modal]]
+- [ ] [[8 Imperativ]]
+- [ ] [[9 Pronomen]]
+- [ ] [[10 KRANK]]
+- [ ] [[11 Tren]]
+- [ ] [[12 Past]]
+- [ ] [[13 Nebensätze]]
+- [ ] [[14 perfekt]]
 
 
 ## Deiter
 
 - [ ] [[Wie funktioniert die Waschmaschine?]]
 - [ ] prap karte
+- [ ] prpap x 5
+
+
+## Lieder
+
+- [ ] [[Zum Tanze, da geht ein Mädel]]
+- [ ] [[Der Mond ist aufgegangen]]
+- [ ] [[Die Gedanken sind frei]]
+- [ ] [[Es klappert die Mühle am rauschenden Bach]]
+- [ ] [[Texte/Gedichte/Folk/Hänschen klein]]
+- [ ] [[Texte/Gedichte/Folk/Was wollen wir trinken]]
+- [ ] [[Verdammt Ich Lieb Dich]]
+- [ ] [[99]]
+- [ ] [[Major Tom (Völlig losgelöst...)]]
+- [ ] [[Texte/Gedichte/Pop/Männer]]
+- [ ] [[Revolverheld - Lass Uns Gehen]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,false,true,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,false,true,true,false,false,true,false,true]}
 ```
 %%

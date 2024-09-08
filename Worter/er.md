@@ -1,1 +1,1 @@
-[[erwachen]][[erzählen]][[Wetter]][[Strandkleider]], [[Schauspieler]], [[erklären]], [[Absender]]
+[[erwachen]][[erzählen]][[Wetter]][[Strandkleider]], [[Schauspieler]], [[erklären]], [[Absender]], [[Schlimmer]], [[Mitbewohner]], [[erkennen]]

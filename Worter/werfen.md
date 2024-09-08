@@ -4,7 +4,8 @@ haben [[geworfen]]
 
 ---
 - Sag die Farbe nicht - zieh es aus und [[wirf]] es hinaus!  
--
+
+ANNA: Und die Türe nicht zu … [[werfen]] …  
 
 ---
 Synonyme: [[schleudern]], [[schmeißen]], [[stoßen]], [[abwerfen]], [[loslassen]]
@@ -30,3 +31,4 @@ Morpheme: [[werf]][[en]]
 
 Partizip I: [[werfend]], Partizip II: [[geworfen]]
 
+, [[Extra 8]]

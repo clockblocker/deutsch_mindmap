@@ -1,1 +1,1 @@
-, [[widerstehen]]
+, [[widerstehen]], [[angreifen]]

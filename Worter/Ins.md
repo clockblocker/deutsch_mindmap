@@ -7,3 +7,4 @@ Frau W. geht gleich [[Ins]] Wohnzimmer.)
 
 
 
+, [[gehen]]

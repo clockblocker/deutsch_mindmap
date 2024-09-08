@@ -8,6 +8,8 @@ Sprechen Sie mit meiner Agentin, Sascha - vielleicht können Sie das 
 
 MARIA: Eure [[Gesichter]]! Also, seid ihr [[beide]]?  
 
+SASCHA: Wir [[beide]] sprechen uns noch …  
+
 
 ---
 Synonyme: [[jeder]], [[alle]], [[zusammen]], [[insgesamt]], [[ganz]]
@@ -28,4 +30,4 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[beide]], [[beider]], [[beiden]], [[beides]]
+[[beide]], [[beider]], [[beiden]], [[beides]], [[Extra 8]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Mondes]], [[Monde]], [[Monden]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Extra 8]]

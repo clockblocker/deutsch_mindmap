@@ -12,6 +12,7 @@ SASCHA: [[Fertig]]?
 
 Ah, Sascha bist du [[fertig]]?  
 
+Und eine Energie hat die Frau! Ich bin total [[fertig]]!  
 
 ---
 Synonyme: [[abgeschlossen]], [[bereit]], [[erledigt]], [[vollendet]], [[vollendet]], [[perfekt]]

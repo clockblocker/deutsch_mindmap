@@ -1,1 +1,1 @@
-[[abgepackt]]
+[[abgepackt]], [[streng]]

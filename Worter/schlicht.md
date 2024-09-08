@@ -1,2 +1,2 @@
 🐾 [[schleichen]]
-[[einfachen]]
+[[einfachen]], [[lackiertes]]

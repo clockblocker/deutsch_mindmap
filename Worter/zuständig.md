@@ -23,4 +23,4 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[zuständig]], [[zuständige]], [[zuständiges]], [[zuständiger]], [[zuständigem]], [[zuständigen]], [[zuständigere]], [[zuständigeres]], [[zuständigerer]], [[zuständigerem]], [[zuständigeren]], [[zuständigste]], [[zuständigstes]], [[zuständigster]], [[zuständigstem]], [[zuständigsten]]
+[[zuständig]], [[zuständige]], [[zuständiges]], [[zuständiger]], [[zuständigem]], [[zuständigen]], [[zuständigere]], [[zuständigeres]], [[zuständigerer]], [[zuständigerem]], [[zuständigeren]], [[zuständigste]], [[zuständigstes]], [[zuständigster]], [[zuständigstem]], [[zuständigsten]], [[Extra 8]]

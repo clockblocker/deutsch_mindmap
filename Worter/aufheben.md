@@ -1,1 +1,1 @@
-[[werfen]][[hinlegen]]
+[[werfen]][[hinlegen]], [[fallen]], [[loswerden]]

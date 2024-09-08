@@ -61,4 +61,4 @@ to forget
 ---
 
 **Morphems of only infinitive:**  
-- [[vergess]][[en]][[lernen]]
+- [[vergess]][[en]][[lernen]], [[einfallen]]

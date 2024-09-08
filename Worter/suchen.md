@@ -7,6 +7,7 @@ Episode Four: Sam [[Sucht]] Einen Job
 SAM: … ich … [[suche]] mir … einen Job!  
 ich [[suche]] meine brille
 
+NIC: Ach, danke, Sascha - die habe ich gerade [[gesucht]]!  
 
 
 ---

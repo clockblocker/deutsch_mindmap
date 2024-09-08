@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er wütend wäre, [[zerbräche]] er den Stuhl.
 - Wenn wir es nicht wüssten, [[zerbrächen]] wir das Gleichgewicht.
 - Wenn ihr unachtsam wäret, [[zerbrächet]] ihr das Glas.
-- Wenn sie verzweifelt wären, [[zerbrächen]] sie alles um sich herum.
+- Wenn sie verzweifelt wären, [[zerbrächen]] sie alles um sich herum., [[aufbauen]]

@@ -15,7 +15,7 @@ Max [[liest]] [[gerne]] [[Bücher]]. [[sein]] [[Lieblingsbuch]] [[ist]] [[Worter
 
 
 1. Der [[Mann]] – Мужчина. Муж.
-• Plural: die [[Männer]]
+• Plural: die [[Worter/Nomen/Männer]]
 2. Die [[Frau]] – Женщина. Жена.
 • Plural: die [[Frauen]]
 3. Der [[Junge]] – Мальчик.

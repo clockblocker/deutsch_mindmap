@@ -4,6 +4,7 @@ die [[Spitzen]]
 Beispiele:
 
 - Die [[Spitze]] des Berges ist schneebedeckt.
+- Du siehst spitze aus!  
 
 ---
 Synonyme:

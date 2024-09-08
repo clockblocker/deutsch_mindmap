@@ -7,6 +7,7 @@ sein [[gegangen]]
 - Er [[geht]] in die Bücherei und wohnt in einem Museum!  Wirklich! Hihi!
 - Frau W. [[geht]] [[gleich]] [[Ins]] Wohnzimmer.)
 - [[Jetzt geht das wieder los]]
+- NIC: Ach, na ja - … es [[ging]] so  
 
 
 ---
@@ -65,4 +66,4 @@ to go, to walk
 ---
 
 **Morphems of only infinitive:**  
-- [[geh]][[en]][[untergehen]][[weggehen]], [[liegen]]
+- [[geh]][[en]][[untergehen]][[weggehen]], [[liegen]], [[ausgehen]]

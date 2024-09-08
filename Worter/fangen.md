@@ -3,8 +3,8 @@
 haben [[gefangen]]
 
 ---
-- Er [[fing]] die Fliegen in dem Haus  
-  und riß ihnen die Flügel aus.  
+- *Er [[fing]] die Fliegen in dem Haus*  
+  *und riß ihnen die Flügel aus.*  
 
 ---
 
@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er sich beeilen würde, [[finge]] er den Zug.
 - Wenn wir ein Netz hätten, [[fingen]] wir die Schmetterlinge.
 - Wenn ihr mehr Geduld hättet, [[fingt]] ihr den Fisch.
-- Wenn sie die Falle aufstellen würden, [[fingen]] sie die Maus.[[werfen]]
+- Wenn sie die Falle aufstellen würden, [[fingen]] sie die Maus.[[werfen]], [[anfangen]]

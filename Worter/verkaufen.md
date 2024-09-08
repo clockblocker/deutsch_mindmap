@@ -60,4 +60,4 @@ to sell
 ---
 
 **Morphems of only infinitive:**  
-- [[verkauf]][[en]]
+- [[verkauf]][[en]], [[leihen]]

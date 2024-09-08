@@ -1,1 +1,1 @@
-[[einfachen]][[einander]], [[einzelnen]]
+[[einfachen]][[einander]], [[einzelnen]], [[einfach]], [[einbauen]], [[einfallen]]

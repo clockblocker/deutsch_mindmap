@@ -33,3 +33,4 @@ Morpheme: [[zieh]][[en]]
 | Sie | [[ziehen]] | [[zogen]] | [[ziehen Sie]] | [[ziehen]] | [[zögen]] |
 
 Partizip I: [[ziehend]], Partizip II: [[gezogen]]
+, [[festziehen]]

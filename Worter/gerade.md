@@ -5,6 +5,11 @@ Er hat sicher das offene Küchenfenster gesehen, und darum ist er [[gerade]] in 
 
 hr kommt [[gerade]] rechtzeitig für meinen Zaubertrick! 
 
+NIC: Ach, danke, Sascha - die habe ich [[gerade]] [[gesucht]]!  
+
+Übrigens - das Regal ist nicht [[gerade]]!  
+
+
 ---
 Synonyme: [[direkt]], [[genau]], [[eben]], [[unmittelbar]], [[soeben]]
 Antonyme: [[schief]], [[krumm]], [[unvermittelt]], [[ungerade]], [[indirekt]]
@@ -21,4 +26,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[gerade]], [[gerader]], [[gerade]], [[gerades]], [[geraden]], [[geradem]], [[gerader]], [[geraden]], [[rechtzeitig]]
+[[gerade]], [[gerader]], [[gerade]], [[gerades]], [[geraden]], [[geradem]], [[gerader]], [[geraden]], [[rechtzeitig]], [[Extra 8]]

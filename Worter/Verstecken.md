@@ -5,6 +5,9 @@ haben [[versteckt]]
 ---
 - [[Verstecken]] in dem [[Schrank]]
 - [[Schnell]] Sam! [[versteck]] dich!
+
+NIC: Hilfe! [[Versteckt]] mich! Oh!  
+
 ---
 
 **Synonyme:**

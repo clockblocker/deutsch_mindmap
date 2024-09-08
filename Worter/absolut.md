@@ -45,4 +45,4 @@ Tags:
 Morphems:
 [[absolut]][[er]]
 
-[[überhaupt]]
+[[überhaupt]], [[völlig]]

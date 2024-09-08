@@ -3,7 +3,7 @@
 haben [[getrunken]]
 
 ---
-[[Was wollen wir trinken]]
+[[Worter/Was wollen wir trinken]]
 
 ---
 Synonyme: [[saufen]], [[schlürfen]], [[genießen]], [[nippen]], [[verkosten]]

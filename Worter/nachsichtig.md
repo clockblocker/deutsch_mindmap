@@ -1,1 +1,1 @@
-, [[geduldig]]
+, [[geduldig]], [[streng]]

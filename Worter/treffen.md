@@ -4,7 +4,10 @@ haben [[getroffen]]
 
 ---
 NIC: Wenn unsere Show zu Ende ist, [[treffen]] wir euch in eurer Wohnung!  
+
 NIC: Muss sie ihn allein [[treffen]]?  
+
+ANNA: Dein Vater … hat seinen eigenen Jet und [[trifft]] den Bundeskanzler?  
 
 
 ---

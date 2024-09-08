@@ -4,6 +4,7 @@
 
 ---
 SASCHA: … und ich [[erst]] … mir geht’s noch schlechter ...
+man muss immer [[erst]] die Anleitung lesen.  
 
 ---
 
@@ -45,4 +46,4 @@ Tags:
 
 ---
 Morphems:
-[[erst]]
+[[erst]], [[Extra 8]]

@@ -1,1 +1,1 @@
-[[Übernehmen]][[Unternehmen]]
+[[Übernehmen]][[Unternehmen]], [[herausnehmen]]

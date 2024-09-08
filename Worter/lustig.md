@@ -1,1 +1,1 @@
-, [[ernst]], [[witzig]]
+, [[ernst]], [[witzig]], [[fröhlich]]

@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kusine]], [[Kusinen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Extra 8]]

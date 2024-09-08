@@ -3,6 +3,10 @@
 haben [[gefressen]]
 
 ---
+Sag’ ihr, ich habe einen [[Igel]] gefressen
+
+
+---
 
 Synonyme:
 - [[verschlingen]], [[verzehren]], [[essen]]

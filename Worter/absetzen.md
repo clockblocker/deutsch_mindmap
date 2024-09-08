@@ -1,1 +1,1 @@
-[[hinlegen]]
+[[hinlegen]], [[loswerden]]

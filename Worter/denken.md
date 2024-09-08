@@ -70,4 +70,4 @@ to think
 ---
 
 **Morphems of only infinitive:**  
-- [[denk]][[en]]
+- [[denk]][[en]], [[meinen]]

@@ -1,1 +1,1 @@
-[[hinaus]][[aussuchen]], [[aussehen]], [[Ausbildung]]
+[[hinaus]][[aussuchen]], [[aussehen]], [[Ausbildung]], [[ausgehen]]

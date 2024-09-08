@@ -88,4 +88,4 @@ Konjunktiv I
 ---
 
 **Morphems of only infinitive:**  
-- [[werd]][[en]]
+- [[werd]][[en]], [[loswerden]]

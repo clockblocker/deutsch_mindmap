@@ -34,4 +34,4 @@ Morphems:
 7. [[durcheinander]]
 8. [[nebeneinander]]
 9. [[hintereinander]]
-10. [[voreinander]]
+10. [[voreinander]], [[aneinander]]

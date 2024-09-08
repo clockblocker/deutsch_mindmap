@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Grußes]], [[Gruße]], [[Grüße]], [[Grüßen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Extra 8]]

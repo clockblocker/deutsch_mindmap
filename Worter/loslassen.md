@@ -1,1 +1,1 @@
-[[drücken]][[verlassen]][[Übernehmen]][[werfen]]
+[[drücken]][[verlassen]][[Übernehmen]][[werfen]], [[greifen]], [[fassen]], [[nachjagen]]

@@ -6,6 +6,9 @@ haben [[geklopft]]
 also [[klopfen|klopf]]' bitte an … Und jetzt … will ich allein sein!
 ANNA: Nun einmal mit dem [[Zauberstab]] [[klopfen]] ...  
 
+ Ich habe [[geklopft]] aber die Musik war so laut, 
+ ihr habt mich nicht gehört …  
+
 
 ---
 Synonyme: [[pochen]], [[hämmern]], [[schlagen]], [[anklopfen]], [[klopfem]]

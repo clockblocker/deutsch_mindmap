@@ -30,4 +30,4 @@ Tags:
 Morphems:
 [[unge]][[fähr]]
 
-, [[eben]]
+, [[eben]], [[abmessen]]

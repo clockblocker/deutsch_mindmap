@@ -1,1 +1,1 @@
-[[besonders]][[Glückstag]]
+[[besonders]][[Glückstag]], [[lesen]]

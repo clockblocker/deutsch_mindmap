@@ -4,6 +4,7 @@ haben [[gerollt]]
 
 ---
 [[rollen|Roll]]' das Fass mal rein 
+ANNA: … mit sechs [[Rollen]].  
 
 
 ---

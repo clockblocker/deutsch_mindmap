@@ -3,4 +3,4 @@ die [[Öfen]]
 
 
 #Substantiv  
-#Maskulin
+#Maskulin, [[Heizung]]

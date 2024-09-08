@@ -1,6 +1,7 @@
 ⚫ [[eben]], [ˈeːbən]
 
 ---
+EDELTRAUT: Dann musst du [[eben]] mitkommen …  
 
 
 ---
@@ -21,4 +22,4 @@ Morpheme:
 [[eben]]
 
 ---
-'''
+''', [[Extra 8]]

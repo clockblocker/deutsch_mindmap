@@ -6,30 +6,14 @@ nicht [[kompliziert]]/[[schwierig]]
 
 ---
 NIC: Im Internet flirten? Ist total [[einfach]]!  
-SASCHA: Hah! Die haben [[einfach]] ihre Fotos auf das Auto geklebt!  
+SASCHA: Hah! Die haben [[einfach]] ihre Fotos auf das Auto 
+geklebt!  
 NIC: [[Sagen wir einfach]] - dass du dieses Gesicht …  
-
-
-
----
-
-Synonyme:
-- [[simpel]], [[leicht]], [[unkompliziert]]
+SASCHA: Anna! Ganz [[einfach]]!
 
 ---
-Beispiele:
-
-- Das ist eine [[einfache]] Aufgabe.
-- Ich finde diesen Weg [[einfach]].
-- Die Lösung ist [[einfach]].
-
-- Das ist eine [[einfachere]] Aufgabe.
-- Ich finde diesen Weg [[einfacher]].
-- Die Lösung ist [[einfacher]].
-
-- Das ist die [[einfachste]] Aufgabe.
-- Ich finde diesen Weg [[am einfachsten]].
-- Die Lösung ist [[am einfachsten]].
+Synonyme: [[leicht]], [[simpel]], [[unkompliziert]], [[klar]], [[überschaubar]]
+Antonyme: [[kompliziert]], [[schwierig]], [[verschachtelt]], [[verworren]], [[unübersichtlich]]
 
 ---
 **Übersetzung**:
@@ -44,4 +28,14 @@ Tags:
 Morphems:
 [[ein]][[fach]]
 
-просто[[einfachen]], [[schwer]], [[unbequem]]
+просто
+
+
+
+Einzigartige mögliche Formen: 
+[[einfach]], [[einfachere]], [[einfachere]], [[einfacheres]], [[einfacheren]], [[einfacherem]], [[einfacherer]], [[einfacheren]]
+[[einfachste]], [[einfachster]], [[einfachste]], [[einfachstes]], [[einfachsten]], [[einfachstem]], [[einfachster]], [[einfachsten]]
+
+
+[[einfachen]], [[schwer]], [[unbequem]], [[lackiertes]]
+, [[Extra 8]]

@@ -1,1 +1,1 @@
-[[scheiden]][[bestehen]][[regnen]]
+[[scheiden]][[bestehen]][[regnen]], [[anfangen]], [[dauern]], [[sein]]

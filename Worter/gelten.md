@@ -30,4 +30,4 @@ Morpheme: [[gelt]][[en]]
 
 Partizip I: [[geltend]], Partizip II: [[gegolten]]
 
-[[gelten]] - [[gelt]] = [[en]]
+[[gelten]] - [[gelt]] = [[en]], [[sein]]

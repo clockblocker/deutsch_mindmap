@@ -3,8 +3,8 @@
 haben [[erzählt]]
 
 ---
--
--
+EDELTRAUT: Wenn ich das meiner Kusine [[erzähle]]!
+
 
 ---
 Synonyme: [[berichten]], [[schildern]], [[mitteilen]], [[wiedergeben]], [[darlegen]]

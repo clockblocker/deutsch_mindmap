@@ -1,1 +1,1 @@
-[[Schlecht]][[prima]]
+[[Schlecht]][[prima]], [[Schlimmer]]

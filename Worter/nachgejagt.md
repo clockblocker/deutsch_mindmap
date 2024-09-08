@@ -1,0 +1,1 @@
+🏃‍♂️ [[nachjagten]] + Akk, [ˈnaxɡəˌjaːgt], [[nachjagen]], [[Extra 8]]

@@ -14,6 +14,9 @@ Oh, wie [[aussehen|sehe]] ich denn aus!? Ahh! Hat Nic mich so gesehen
 
 SASCHA: Sam, Dr. Scott! Du [[siehst aus|siehst]] spitze aus! Ich liebe Ärzte!  
 
+Er [[aussehen|sieht]] völlig erschöpft aus!  
+
+
 
 ---
 Synonyme: [[erscheinen]], [[wirken]], [[aussehen]], [[sich präsentieren]], [[sich zeigen]]
@@ -39,4 +42,4 @@ Morpheme: [[aus]][[seh]][[en]]
 
 Partizip I: [[aussehend]], Partizip II: [[ausgesehen]]
 
-[[aussehen]] - [[aus]] = [[sehen]]
+[[aussehen]] - [[aus]] = [[sehen]], [[Extra 8]]

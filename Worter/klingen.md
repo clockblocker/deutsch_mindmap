@@ -5,6 +5,7 @@ haben [[geklungen]]
 ---
 SAM: [[Klingt]] klasse!  
 
+Die [[klingt]] ja schrecklich! 
 
 ---
 Synonyme: [[tönen]], [[schallen]], [[resonnieren]], [[erklingen]], [[ertönen]]

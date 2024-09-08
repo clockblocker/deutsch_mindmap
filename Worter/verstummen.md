@@ -1,1 +1,1 @@
-[[reden]], [[klingen]]
+[[reden]], [[klingen]], [[vorlesen]]

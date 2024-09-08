@@ -161,7 +161,7 @@ Und Nic von [[nebenan]] ist total witzig. Er hat unsere Milch [[zurü
 NIC: Ich vergesse nie etwas.
 
 SASCHA: Schwesterherz,  
-Grrr! Nic, NIC HAT MEIN FAHRRAD ANGEFASST! Wie blöd! Und Sam Scott aus Amerika ist hier. Aber sein Deutsch ist katastrophal! [[Männer]]!
+Grrr! Nic, NIC HAT MEIN FAHRRAD ANGEFASST! Wie blöd! Und Sam Scott aus Amerika ist hier. Aber sein Deutsch ist katastrophal! [[Worter/Nomen/Männer]]!
 
 SAM: Ich heiße Amerika, ich komme aus Sam.  
 Anyway… Sascha and her flatmate were very impressed!
