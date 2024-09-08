@@ -33,4 +33,4 @@ Tags:
 ---
 
 Morphems:
-[[schwach]], [[gesund]]
+[[schwach]], [[gesund]], [[übermächtig]]

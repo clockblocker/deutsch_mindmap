@@ -15,12 +15,12 @@ Synonyme:
 
 Beispiele:
 
-- Ich [[sehe nach|sehe]] später [[nach]].
+- Ich [[sehe nach|sehe]] später [[Worter/nach]].
 - Du [[siehst nach|siehst]] nach den Kindern.
-- Er [[sieht nach|sieht]] dem Problem [[nach]].
-- Wir [[sehen nach|sehen]] noch einmal [[nach]].
-- Ihr [[seht nach|seht]] den Unterlagen [[nach]].
-- Sie [[sehen nach|sehen]] sofort [[nach]].
+- Er [[sieht nach|sieht]] dem Problem [[Worter/nach]].
+- Wir [[sehen nach|sehen]] noch einmal [[Worter/nach]].
+- Ihr [[seht nach|seht]] den Unterlagen [[Worter/nach]].
+- Sie [[sehen nach|sehen]] sofort [[Worter/nach]].
 
 ---
 **Übersetzung**: to check, to look after
@@ -28,7 +28,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[nach]][[sehen]]
+[[Worter/nach]][[sehen]]
 
 ---
 Tags:
@@ -38,39 +38,39 @@ Tags:
 
 Präteritum:
 
-- Ich [[sah nach|sah]] nach dem Auto [[nach]].
-- Du [[sahst nach|sahst]] nach den Kindern [[nach]].
-- Er [[sah nach|sah]] der Sache [[nach]].
-- Wir [[sahen nach|sahen]] noch einmal [[nach]].
-- Ihr [[saht nach|saht]] nach den Unterlagen [[nach]].
-- Sie [[sahen nach|sahen]] sofort [[nach]].
+- Ich [[sah nach|sah]] nach dem Auto [[Worter/nach]].
+- Du [[sahst nach|sahst]] nach den Kindern [[Worter/nach]].
+- Er [[sah nach|sah]] der Sache [[Worter/nach]].
+- Wir [[sahen nach|sahen]] noch einmal [[Worter/nach]].
+- Ihr [[saht nach|saht]] nach den Unterlagen [[Worter/nach]].
+- Sie [[sahen nach|sahen]] sofort [[Worter/nach]].
 
 ---
 
 Imperativ:
 
-- [[Sieh nach|sieh]] bitte [[nach]]!
-- [[seht nach|seht]] den Kindern [[nach]]!
-- [[Sehen wir nach|sehen]] wir [[nach]]!
+- [[Sieh nach|sieh]] bitte [[Worter/nach]]!
+- [[seht nach|seht]] den Kindern [[Worter/nach]]!
+- [[Sehen wir nach|sehen]] wir [[Worter/nach]]!
 
 ---
 
 Konjunktiv I:
 
-- Er sagt, ich [[sehe nach]] dem Plan [[nach]].
-- Sie meint, du [[sehest nach]] der Arbeit [[nach]].
-- Er behauptet, er [[sehe nach]] dem Auto [[nach]].
-- Wir erklären, wir [[sehen nach]] der Sache [[nach]].
-- Ihr sagt, ihr [[sehet nach]] den Kindern [[nach]].
-- Sie sagen, sie [[sehen nach]] der Lösung [[nach]].
+- Er sagt, ich [[sehe nach]] dem Plan [[Worter/nach]].
+- Sie meint, du [[sehest nach]] der Arbeit [[Worter/nach]].
+- Er behauptet, er [[sehe nach]] dem Auto [[Worter/nach]].
+- Wir erklären, wir [[sehen nach]] der Sache [[Worter/nach]].
+- Ihr sagt, ihr [[sehet nach]] den Kindern [[Worter/nach]].
+- Sie sagen, sie [[sehen nach]] der Lösung [[Worter/nach]].
 
 ---
 
 Konjunktiv II:
 
-- Wenn ich Zeit hätte, [[sähe nach|sähe]] ich noch einmal [[nach]].
-- Wenn du es nicht wüsstest, [[sähest nach|sähest]] du in den Unterlagen [[nach]].
-- Wenn er unsicher wäre, [[sähe nach|sähe]] er in den Papieren [[nach]].
-- Wenn wir nicht sicher wären, [[sähen nach|sähen]] wir in den Plänen [[nach]].
-- Wenn ihr Zweifel hättet, [[sähet nach|sähet]] ihr den Kindern [[nach]].
-- Wenn sie nicht sicher wären, [[sähen nach|sähen]] sie der Sache [[nach]].
+- Wenn ich Zeit hätte, [[sähe nach|sähe]] ich noch einmal [[Worter/nach]].
+- Wenn du es nicht wüsstest, [[sähest nach|sähest]] du in den Unterlagen [[Worter/nach]].
+- Wenn er unsicher wäre, [[sähe nach|sähe]] er in den Papieren [[Worter/nach]].
+- Wenn wir nicht sicher wären, [[sähen nach|sähen]] wir in den Plänen [[Worter/nach]].
+- Wenn ihr Zweifel hättet, [[sähet nach|sähet]] ihr den Kindern [[Worter/nach]].
+- Wenn sie nicht sicher wären, [[sähen nach|sähen]] sie der Sache [[Worter/nach]].

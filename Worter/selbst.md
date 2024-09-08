@@ -34,3 +34,4 @@ Tags:
 ---
 Morphems:
 [[selbst]]
+, [[eigene]]

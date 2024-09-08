@@ -4,4 +4,4 @@ Plural: die [[Hungern]]
 
 
 #Substantiv
-#Masculin
+#Masculin, [[Bärenhunger]]

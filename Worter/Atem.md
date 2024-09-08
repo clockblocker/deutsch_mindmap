@@ -3,8 +3,9 @@ die [[Atemzüge]]
 
 
 ---
-- (Deutschland) dein [[Atem]] kalt  
-- 
+*Dein [[Atem]] kalt (so kalt, so kalt, so kalt, so kalt)*  
+
+
 
 ---
 Synonyme:

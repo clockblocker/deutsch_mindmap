@@ -42,3 +42,4 @@ Tags:
 nicht [[Früh]]
 
 
+, [[rechtzeitig]]

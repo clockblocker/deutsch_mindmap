@@ -4,6 +4,8 @@ nicht [[gefunden]]
 ---
 MARIA: Prima! Aber die haben mein Gepäck [[verloren]]!  
 
+Jeder Tag, an dem du nicht lächelst, ist ein [[verlorener]] Tag 
+
 
 ---
 Synonyme: [[weg]], [[verschollen]], [[vermisst]], [[abhanden gekommen]], [[unauffindbar]]

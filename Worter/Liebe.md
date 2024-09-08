@@ -25,4 +25,4 @@ Morphems:
 [[Lieb]][[e]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Liebestanz]]

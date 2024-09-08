@@ -14,7 +14,7 @@ Antonyme: [[erwarten]], [[antizipieren]], [[vorhersehen]]
 Übersetzung: to surprise, to astonish
 
 ---
-Morpheme: [[über]][[rasch]][[en]]
+Morpheme: [[Worter/über]][[rasch]][[en]]
  #Verb #Untrennbar
 
 ---
@@ -29,4 +29,4 @@ Morpheme: [[über]][[rasch]][[en]]
 | Sie       | [[überraschen]]      | [[überraschten]]      | [[überraschen Sie]] | [[überraschen]]      | [[überraschten]]        |
 
 Partizip I: [[überraschend]], Partizip II: [[überrascht]]
-[[überraschen]] - [[über]] = [[raschen]]
+[[überraschen]] - [[Worter/über]] = [[raschen]]

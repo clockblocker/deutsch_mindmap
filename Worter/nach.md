@@ -1,6 +1,6 @@
-Ich komme [[nach]] Deutschland
+Ich komme [[Worter/nach]] Deutschland
 
-CINDY: Kopf [[nach]] rechts und links und rechts und noch einmal.  
+CINDY: Kopf [[Worter/nach]] rechts und links und rechts und noch einmal.  
 
 \[ Wenn \] [[fliegt]] eins in die Lüfte, [[nachfliegen|fliegen]] alle nach. 
 

@@ -1,6 +1,5 @@
-[[toll]]
-[[toller]]
-[[am]] [[tollsten]]
+😆 [[toll]], [tɔl]
+nicht [[schlecht]]
 
 ---
 [[so toll]]
@@ -9,38 +8,24 @@ Ich werde dir helfen, ein ganz [[toll]]er Superstar zu werden!
 NIC: Die [[riechen]] [[beide]] [[toll]]!  
 AN: NADJA; VON: ANNA Ist die Fernsehwerbung nicht [[toll]]?  
 
-
+---
+Synonyme: [[fantastisch]], [[grossartig]], [[wunderbar]], [[hervorragend]], [[Spitze]], [[super]]
+Antonyme: [[schlecht]], [[mies]], [[furchtbar]], [[erbärmlich]], [[schrecklich]]
 
 ---
-
-
-nicht [[Schlecht]]
-
----
-
-Synonyme:
-- [[großartig]], [[fantastisch]], [[wunderbar]]
+**Übersetzung**:
+great, wonderful, fantastic
 
 ---
-
-Beispiele:
-
-- Das war ein [[toller]] Film.
-- Er hat einen [[tolleren]] Vorschlag gemacht.
-- Das ist das [[tollste]] Geschenk, das ich je bekommen habe.
+#Adjective [[toll]]
 
 ---
-**Übersetzung**: great, amazing, fantastic
-
----
-
-Tags:
-#Adjective
-
----
-
-Morphems:
+Morpheme:
 [[toll]]
 
+---
 
-great
+Einzigartige mögliche Formen: 
+[[toll]], [[toller]], [[tolle]], [[tolles]], [[ollen]], [[ollem]], [[oller]], [[ollen]]
+[[toller]], [[tollerer]], [[tollere]], [[tolleres]], [[olleren]], [[ollerem]], [[tollerer]], [[olleren]]
+[[tollsten]], [[tollster]], [[tollste]], [[tollstes]], [[tollsten]], [[tollstem]], [[tollster]], [[tollsten]]

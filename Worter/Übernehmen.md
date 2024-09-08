@@ -15,7 +15,7 @@ Antonyme: [[abgeben]], [[ausschlagen]], [[loslassen]], [[ablehnen]]
 Übersetzung: to take over, to assume
 
 ---
-Morpheme: [[über]][[nehm]][[en]]
+Morpheme: [[Worter/über]][[nehm]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -32,4 +32,4 @@ Morpheme: [[über]][[nehm]][[en]]
 
 Partizip I: [[übernehmend]], Partizip II: [[übernommen]]
 
-[[Übernehmen]] - [[über]] = [[nehmen]]
+[[Übernehmen]] - [[Worter/über]] = [[nehmen]]

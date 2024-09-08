@@ -1,18 +1,25 @@
-🔴 die [[Tasche]]  
+˝Prosessed the word Tasche. Identified it as a Noun.
+
+🔴 die [[Tasche]], [ˈtaʃə]
 die [[Taschen]]
 
-Beispiele:
-
-- Ich habe meine [[Tasche]] vergessen.
-- Du trägst eine rote [[Tasche]].
-- Er packt die Bücher in die [[Tasche]].
-- Sie kaufen neue [[Taschen]].
-
-Synonyme:
-- [[Beutel]], [[Rucksack]], [[Koffer]]
-
-**Übersetzung**: bag, pocket
 
 ---
-#Substantiv #Feminine
-```​⬤
+
+
+---
+Synonyme:
+- [[Sack]], [[Beutel]], [[Schultertasche]], [[Rucksack]], [[Handtasche]]
+
+---
+Übersetzung: bag, pocket
+
+---
+Morpheme:
+[[Tasche]]
+
+---
+Einzigartige mögliche Formen: [[Tasche]], [[Taschen]], [[Tasche]], [[Taschen]], [[Tasche]], [[Taschen]], [[Tasche]], [[Taschen]]
+
+---
+#Substantiv #Feminin

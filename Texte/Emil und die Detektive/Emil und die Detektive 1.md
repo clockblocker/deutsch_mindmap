@@ -1,6 +1,6 @@
 https://archive.org/details/Emil_und_die_Detektive/Emil_Kapitel_00.wav
 https://www.youtube.com/watch?v=ZfMD-ZpwI94
-pdf https://nosologoethevlc.wordpress.com/wp-content/uploads/2013/03/kc3a4stner-erich-emil-und-die-detektive.pdf
+	pdf https://nosologoethevlc.wordpress.com/wp-content/uploads/2013/03/kc3a4stner-erich-emil-und-die-detektive.pdf
 
 Erstes Kapitel 
 

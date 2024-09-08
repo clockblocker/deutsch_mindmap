@@ -20,4 +20,4 @@ Morphems:
 [[Pranke]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Hand]]

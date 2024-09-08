@@ -14,7 +14,7 @@ Antonyme: [[teilweise]], [[bedingt]], [[ansatzweise]], [[beschränkt]]
 
 ---
 Morpheme:
-[[über]][[haupt]]
+[[Worter/über]][[haupt]]
 
 ---
 #Adverb [[überhaupt]]

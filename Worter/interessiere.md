@@ -1,0 +1,1 @@
+📝 [[interessieren]] sich für music + Akk, [ɪntʁəˈsɪʁən]

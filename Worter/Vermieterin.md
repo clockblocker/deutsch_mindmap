@@ -20,4 +20,4 @@ Beispiele:
 
 Tags: 
 #Substantiv
-#Feminin
+#Feminin, [[Mieter]]

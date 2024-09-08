@@ -10,7 +10,7 @@ Beispiele:
 
 ---
 Synonyme:
-- [[Plan]], [[Ticket]], [[Visitenkarte]]
+- [[Plan]], [[Ticket]], [[Visitenkarte]], [[Spielkarten]]
 
 ---
 **Übersetzung**: map, card, ticket
@@ -21,3 +21,5 @@ Morphems:
 
 ---
 #Substantiv #Feminin
+
+

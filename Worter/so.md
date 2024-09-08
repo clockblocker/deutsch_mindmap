@@ -2,4 +2,4 @@
 
 
 SASCHA: Aber klar. Dort  ist es sooooo toll.
-[[Also]][[sowie]]
+[[Also]][[sowie]], [[sowieso]]

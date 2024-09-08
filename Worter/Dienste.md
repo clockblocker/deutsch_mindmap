@@ -1,1 +1,1 @@
-der [[Dienst]]
+der [[Dienst]], [[Diensten]]

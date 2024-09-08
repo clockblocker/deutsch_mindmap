@@ -1,7 +1,7 @@
 Singular: der [[Nachbarn]]
 Plural: die [[Nachbarn]]
 
-[[nach]][[barn]]
+[[Worter/nach]][[barn]]
 
 Beispiele:
 

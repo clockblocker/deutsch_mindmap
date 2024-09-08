@@ -13,7 +13,7 @@ Antonyme: [[nebeneinander]], [[auseinander]], [[getrennt]]
 
 ---
 Morpheme:
-[[über]][[einander]]
+[[Worter/über]][[einander]]
 
 ---
 #Adverb #übereinander

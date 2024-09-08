@@ -1,1 +1,1 @@
-[[bedeuten]], [[aussehen]], [[erklären]]
+[[bedeuten]], [[aussehen]], [[erklären]], [[wegzaubern]]

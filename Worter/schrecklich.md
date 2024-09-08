@@ -12,3 +12,4 @@ ANNA: Igitt! Ein Tier-Präparator! Wie [[schrecklich]]!
 ---
 
 #Adjektiv
+, [[toll]]

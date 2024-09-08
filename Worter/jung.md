@@ -2,6 +2,9 @@ Positive: [[jung]]
 Comparative: [[jünger]]
 Superlative: [[am jüngsten]]
 
+So [[jung]] und doch so alt
+
+
 ---
 Beispiele:
 

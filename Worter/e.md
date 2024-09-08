@@ -1,1 +1,1 @@
-[[andere]]
+[[andere]], [[Spitze]], [[Stimme]]

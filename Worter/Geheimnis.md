@@ -1,15 +1,10 @@
-NIC: Sam, psst ... das ist ein [[Geheimnis]]!!  
 
----
-
-🔵 das [[Geheimnis]]
+🟢 das [[Geheimnis]]
 die [[Geheimnisse]]
 
 Beispiele:
-
-- Er hat ein großes [[Geheimnis]].
-- Die [[Geheimnisse]] der alten Stadt wurden entdeckt.
-- Sie vertraute ihm ihr [[Geheimnis]] an.
+NIC: Sam, psst ... das ist ein [[Geheimnis]]!!  
+MARIA: Keine Sorge, dein Geheimnis ist [[sicher]] bei mir!  
 
 ---
 Synonyme:

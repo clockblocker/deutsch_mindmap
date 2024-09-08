@@ -8,6 +8,9 @@ Ich [[warte]] nur noch auf die Antwort!
 ANNA: [[warte]] mal. Hier! Das ist gut!  
 Sie [[warten]], bis der Mond erwacht  
 
+Alle [[warten]] auf das Licht
+
+
 
 ---
 

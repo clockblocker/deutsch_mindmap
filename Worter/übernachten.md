@@ -1,3 +1,3 @@
  Er [[will]] [[hier]] [[übernachten]] 
 
-[[Über]][[Nacht]]en
+[[Worter/über]][[Nacht]]en

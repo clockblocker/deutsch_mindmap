@@ -1,1 +1,1 @@
-nicht trenbaren [[verstehen]][[verdammen]][[verlassen]][[vermischen]][[verquirlen]][[Veränderung]][[verändern]][[verloren]][[verlieren]], [[vergleichen]]
+nicht trenbaren [[verstehen]][[verdammen]][[verlassen]][[vermischen]][[verquirlen]][[Veränderung]][[verändern]][[verloren]][[verlieren]], [[vergleichen]], [[verschiedene]], [[gleichen]], [[dammen]]

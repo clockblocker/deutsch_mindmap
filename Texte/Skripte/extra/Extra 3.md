@@ -20,7 +20,7 @@ SASCHA: Hallo Traum-Girl! [[Mach]] meinen Traum [[wahr]]!
 ANNA: [[Nanu]]? Was ist das denn?  
 SASCHA: … Total süß …  
 CINDY: Hey [[Leute]] seid ihr [[startklar]]? Los gehts!  
-CINDY: Kopf [[nach]] [[rechts]] und [[links]] und rechts und noch einmal.  
+CINDY: Kopf [[Worter/nach]] [[rechts]] und [[links]] und rechts und noch einmal.  
 SACHA: Sam?  
 Sam!  
 SAM: Oh! Ja Sascha?  
@@ -40,7 +40,7 @@ Fit mit Sascha! Das ist viel [[besser]]!
 SAM: Aber …  
 SASCHA: Ist schon okay!  
 Anna! Die Musik bitte!  
-SASCHA: In die Knie, eins, zwei, drei, vier, fünf, sechs, sieben, acht und Arme hoch und [[nach]] [[vorne]] und [[wieder]].  
+SASCHA: In die Knie, eins, zwei, drei, vier, fünf, sechs, sieben, acht und Arme hoch und [[Worter/nach]] [[vorne]] und [[wieder]].  
 SASCHA: Eins, zwei, drei, vier, fünf, sechs, sieben, acht. Okay, und jetzt schneller!  
 [[Linkes]] Bein hoch!  
 SASCHA: Hey, [[na los]], nicht [[schlapp]] machen!  

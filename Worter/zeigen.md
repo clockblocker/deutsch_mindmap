@@ -64,4 +64,4 @@ to show, to demonstrate
 ---
 
 **Morphems of only infinitive:**  
-- [[zeig]][[en]]
+- [[zeig]][[en]], [[wegzaubern]]

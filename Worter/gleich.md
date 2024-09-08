@@ -36,4 +36,4 @@ Morphems:
 
 = [[wie]]
 
-[[andere]], [[derselben]], [[vergleichen]]
+[[andere]], [[derselben]], [[vergleichen]], [[verschiedene]], [[gleichen]]

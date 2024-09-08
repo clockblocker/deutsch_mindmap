@@ -1,47 +1,33 @@
-[[leer]]
-[[leerer]]
-[[am]] [[leersten]]
+🔵 [[leer]], [leːʁ]
 
-nicht [[voll]]
+nicht [[gefüllt]], nicht [[voll]]
 [[voll]] ist das Gegenteil von [[leer]].
 
 
 ---
 SASCHA: Mein Parfüm ist [[leer]]!  
 
----
-
-Synonyme:
-- [[unbesetzt]], [[unbefüllt]], [[ausgehöhlt]]
+Nun, der erste Kasten muss jetzt also [[leer]] sein! Sehen wir mal.  
 
 ---
-Beispiele:
-
-- Die Flasche ist [[leer]].
-- Der Raum ist [[leer]].
-- Sein Glas ist [[leer]].
-
-- Die Flasche ist [[leerer]] als vorher.
-- Der Raum ist [[leerer]] als erwartet.
-- Sein Glas ist [[leerer]] als das meine.
-
-- Die Flasche ist die [[leerste]].
-- Der Raum ist der [[leerste]] im Gebäude.
-- Sein Glas ist [[am leersten]] von allen.
+Synonyme: [[ledig]], [[frei]], [[unbesetzt]], [[ledig]], [[unbefüllt]], [[hungrig]]
+Antonyme: [[voll]], [[belegt]], [[besetzt]]
 
 ---
 **Übersetzung**:
-empty
+empty, vacant, blank
 
 ---
-
-Tags: 
-#Adjective
+#Adjektiv [[leer]]
 
 ---
-Morphems:
+Morpheme:
 [[leer]]
 
+---
 
 
-, [[hungrig]]
+Einzigartige mögliche Formen: 
+[[leer]], [[leerer]], [[leere]], [[leeres]], [[leeren]], [[leerem]], [[leerer]], [[leeren]]
+[[leerer]], [[leererer]], [[leerere]], [[leereres]], [[leereren]], [[leeserem]], [[leererer]], [[leereren]]
+[[leersten]], [[leerster]], [[leerste]], [[leerstes]], [[leersten]], [[leerstem]], [[leerster]], [[leersten]]

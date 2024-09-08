@@ -72,6 +72,8 @@ SASCHA: Mich! Na ja - hier sind wir [[nun]] …
 MARIA: Kann ich mir von dir Kleider leihen?  
 SASCHA: So etwas vielleicht? Es gab zwei für den Preis von einem!  
 MARIA: Na gut.  
+
+
 SCENE 5  
 MARIA: He, Sascha, das [[passt]] richtig gut.  
 SASCHA: Prima.  
@@ -120,81 +122,83 @@ VT: One day my son, all this will be yours.
 NIC: Okay, ich muss weiter an Dr. Müller arbeiten - vor allem weil Sascha Arzte so gern hat!  
 ANNA: Nic mag immer nur Sascha, Sascha, Sascha …  
 SAM: Ist schon gut, Anna …  
-SASCHA: Störe ich?  
+SASCHA: [[Störe]] ich?  
 SAM: Ja.  
 ANNA: Nein … nichts …  
-SASCHA: übrigens Anna: die Farbe steht dir gar nicht …  
-SAM: Siehst du? Sie ist komisch…ist sie eifersüchtig?  
-ANNA: Aber warum denn? Nic bemerkt mich gar nicht …  
-Dabei sieht er gut aus in seinem Arztkittel …  
+SASCHA: [[übrigens]] Anna: die Farbe steht dir gar nicht …  
+SAM: Siehst du? Sie ist komisch…ist sie [[eifersüchtig]]?  
+ANNA: Aber warum denn? Nic [[bemerkt]] mich gar nicht …  
+[[Dabei]] sieht er gut aus in seinem Arztkittel …  
 SAM: Jaaaa …  
 MARIA: Wie süß!  
 ANNA: … aber ich dachte …  
-MARIA: Eure Gesichter! Also, seid ihr beide?  
+MARIA: Eure [[Gesichter]]! Also, seid ihr [[beide]]?  
 SAM: Ja …  
 ANNA: Nein!  
 MARIA: Ah! Ihr seht so gut aus zusammen … Darf ich?  
 SAM: Du hast aber Hunger…  
-MARIA: Ich habe immer Hunger … Und jetzt ist es Zeit für meinen Liebestanz der Delphine … Wo ist meine CD …  
+MARIA: Ich habe immer Hunger … Und jetzt ist es Zeit für meinen [[Liebestanz]] der Delphine … Wo ist meine CD …  
 ANNA: Liebestanz der Delphine?  
-SAM: Klingt klasse!  
+SAM: [[Klingt]] [[klasse]]!  
 ANNA: Oh, Sam, du bist süß!  
-Oh, wie sehe ich denn aus!? Ahh! Hat Nic mich so gesehen?  
+Oh, wie [[aussehen|sehe]] ich denn aus!? Ahh! Hat Nic mich so gesehen?  
 MARIA: Ah - da ist sie ja … Na, Sam, seid ihr nun ein Paar, du und Anna?  
-SAM: Ah, na ja … Ich mag Anna unheimlich gerne …  
+SAM: Ah, na ja … Ich mag Anna [[unheimlich]] gerne …  
 MARIA: Ja …?  
-SAM: Aber sie bemerkt mich gar nicht …  
+SAM: Aber sie [[bemerkt]] mich gar nicht …  
 MARIA: Dann frag sie, ob sie mit dir ausgehen will!  
 SAM: Was?  
 MARIA: Frag sie, ob sie mit dir ausgehen will!  
 SAM: Wow! Soll ich? Okay  
-MARIA: Sam, am Flughafen heute, da habe ich diese alte Zeitschrift gesehen.  
+MARIA: Sam, am Flughafen heute, da habe ich diese alte [[Zeitschrift]] gesehen.  
 SAM: Am Flughafen?  
 MARIA: Bist das du?  
 SAM: Äh …  
 MARIA: Du bist es also?  
 SAM: Äh …  
-MARIA: DIE FÜNF REICHSTEN FAMILIEN IN AMERIKA AUF PLATZ 4: DIE FAMILIE SCOTT. Ist das ein Geheimnis?  
+MARIA: DIE FÜNF REICHSTEN FAMILIEN IN AMERIKA AUF PLATZ 4: DIE FAMILIE SCOTT. Ist das ein [[Geheimnis]]?  
 SAM: Äh, ja, bitte sage nichts zu Anna.  
-MARIA: Keine Sorge, dein Geheimnis ist sicher bei mir!  
-SAM: Gee … danke. Sascha ist wirklich nett heute!  
+MARIA: Keine Sorge, dein Geheimnis ist [[sicher]] bei mir!  
+SAM: Gee … danke. Sascha ist wirklich [[nett]] heute!  
 NIC: Echt? Gut! Hi …  
 MARIA: Ooh, Nic, hallo Liebling! Nic, … oder Dr. Müller - darf ich dich was fragen?  
 NIC: Klar…  
-MARIA: Kannst du das Fahrrad woanders hinstellen?  
+MARIA: Kannst du das Fahrrad [[woanders]] [[hinstellen]]?  
 NIC: Klar!  
 MARIA: Nic, du bist ja so stark! Danke! Ah, so ist es besser.  
 NIC: Ich brauche eine Cola – willst du auch eine?  
 MARIA: Ja, bitte!  
-Ah, Sascha bist du fertig?  
-NIC: Dann können wir jetzt unsere eigene süße Musik spielen, Babe …  
-SASCHA: Das würde dir so passen.  
+Ah, Sascha bist du [[fertig]]?  
+NIC: Dann können wir jetzt unsere [[eigene]] süße Musik spielen, Babe …  
+SASCHA: Das würde dir so [[passen]].  
 NIC: Hä?  
-SASCHA: Und warum steht mein Rad woanders? Los, stell es zurück … oder bist du nicht stark genug?  
-SAM: Dr. Scott zu Ihren Diensten … Anna …  
+SASCHA: Und warum steht mein Rad [[woanders]]? Los, stell es zurück … oder bist du nicht stark genug?  
+SAM: Dr. Scott zu Ihren [[Diensten]] … Anna …  
 ANNA: Hallo …  
-SASCHA: Sam, Dr. Scott! Du siehst spitze aus! Ich liebe Ärzte!  
+SASCHA: Sam, Dr. Scott! Du [[siehst aus|siehst]] [[Spitze]] aus! Ich liebe Ärzte!  
 SAM: Mom, please stop giving our photographs to magazines!  
 AN: NADJA / VON: ANNA Aber Sascha! Sie ist so komisch!  
 Erst sagt sie ...  
 ... und zwei Minuten später sagt sie ...  
-... wie zwei ganz verschiedene Leute!  
+... wie zwei ganz [[verschiedene]] Leute!  
 AN: JO / VON NIC Erst nennt sie mich „Liebling“ ...  
 und bittet mich, ihr Fahrrad umzustellen …  
 … und eine Minute später, sagt sie, ich soll es wieder zurück stellen!  
 Frauen!  
 SAM: Mom, would I make a good Doctor?  
+
+
 SCENE 7  
 SAM: Hi, Anna!  
-ANNA: Hallo Sam … Sam … denk an eine Karte …  
-SAM: Okay; äh … Karo As.  
+ANNA: Hallo Sam … Sam … denk an eine [[Karte]] …  
+SAM: Okay; äh … [[Karo]] As.  
 ANNA: Nein! Nicht sagen!  
 SAM: Oh, okay.  
 ANNA: Such dir eine Karte aus …  
 Schau sie dir an …  
 Ist das die Karte, an die du gedacht hast?  
 SAM: Nein …  
-ANNA: Ach Mist!  
+ANNA: Ach [[Mist]]!  
 SAM: Ähm, Anna …  
 ANNA: Ja, Sam …  
 SAM: Ich wollte dich etwas fragen …  
@@ -213,13 +217,13 @@ ANNA: Okay, bis morgen Abend dann.
 MARIA: Hat Sam dich also gefragt Anna?  
 ANNA: Ob ich mit ihm ins Kino gehen will? Ja! Willst du auch mitkommen …?  
 MARIA: Natürlich nicht! Viel Spaß!  
-ANNA: Welchen Film wir uns wohl ansehen?  
+ANNA: Welchen Film wir uns [[wohl]] ansehen?  
 SASCHA: Wann?  
 ANNA: Na, wenn ich mit Sam ins Kino gehe!  
 SASCHA: Was?! Du gehst mit Sam ins Kino! Ich kann’s nicht glauben!  
 Pah!  
-MARIA: Ich habe einen Bärenhunger! Hmm - lecker! Das sind meine Lieblingskekse. Im Kino laufen bestimmt gute Filme.  
-SASCHA: Zur Zeit läuft sowieso nur Mist im Kino!  
+MARIA: Ich habe einen [[Bärenhunger]]! Hmm - lecker! Das sind meine Lieblingskekse. Im Kino [[laufen]] bestimmt gute Filme.  
+SASCHA: Zur Zeit [[läuft]] [[sowieso]] nur [[Mist]] im Kino!  
 Bäh! Pfui Teufel! Ich hasse diese Kekse.  
 MARIA: Ich muss beim Flughafen anrufen …  
 ANNA: Ah!  
@@ -242,24 +246,24 @@ ANNA: Ah - jetzt ist mir klar… sagt mal, welcher Doktor ist euch 
 MARIA: Dr. Müller!  
 SASCHA: Nein! Dr. Scott!  
 ANNA: Wisst ihr … wir könnten uns damit einen Spaß machen …  
-Ein Zaubertrick …  
+Ein [[Zaubertrick]] …  
 
 
 SCENE 8  
-ANNA: Sam! Nic! Ihr kommt gerade rechtzeitig für meinen Zaubertrick! Setzt euch hin!  
+ANNA: Sam! Nic! Ihr kommt [[gerade]] [[rechtzeitig]] für meinen Zaubertrick! Setzt euch hin!  
 SAM: Can’t wait!  
-ANNA: Meine Damen und Herren… nur Herren - Heute werde ich meine wunderschöne Assistentin, Sascha, wegzaubern!  
+ANNA: Meine Damen und Herren… nur Herren - Heute werde ich meine wunderschöne Assistentin, Sascha, [[wegzaubern]]!  
 Sascha! Tritt ein!  
 Gut, Sascha - Hier hinein  
 Ich werde Sascha aus diesem Kasten wegzaubern …  
-… und in diesen Kasten hinein  
+… und in diesen [[Kasten]] hinein  
 NIC: Das muss ich sehen …  
-ANNA: Nun einmal mit dem Zauberstab klopfen ...  
+ANNA: Nun einmal mit dem [[Zauberstab]] [[klopfen]] ...  
 Abrakadabra! Simsalabim!  
-Nun, der erste Kasten muss jetzt also leer sein! Sehen wir mal.  
+Nun, der erste Kasten muss jetzt also [[leer]] sein! Sehen wir mal.  
 Sascha! Du bist aber schnell heute!  
 Sehen wir mal, ob der andere Kasten leer ist …  
-SAM: Na, das ist klar! Sie geht hinten herum!  
+SAM: Na, das ist klar! Sie geht hinten [[herum]]!  
 ANNA: Nun, meine Herren, raten Sie!  
 NIC: Im linken Kasten!  
 SAM: Nein … nein! Im rechten.  
@@ -268,9 +272,11 @@ Trommelwirbel bitte!
 Meine Damen und Herren - Applaus für Sascha und Maria!  
 Dem Publikum geht es nicht gut.  
 Is there a Doctor in the House?  
+
+
 SCENE 9  
 SASCHA: Tschüss, Maria!  
-Ach - Maria, du wirst mir fehlen.  
+Ach - Maria, du wirst mir [[fehlen]].  
 Oh, sie hat ihre Zeitschrift vergessen … Was?  
 DIE FÜNF REICHSTEN FAMILIEN IN AMERIKA AUF PLATZ 4: DIE FAMILIE SCOTT.  
 Es ist Sam!  

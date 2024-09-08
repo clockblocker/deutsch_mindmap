@@ -60,4 +60,4 @@ to pay attention, to take care
 ---
 
 **Morphems of only infinitive:**  
-- [[auf]][[passen]]
+- [[Worter/Konjunktion/Positionen/auf]][[passen]]

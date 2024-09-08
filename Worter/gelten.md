@@ -3,7 +3,7 @@
 haben [[gegolten]]
 
 ---
--
+- DIE GLEICHEN REGELN GELTEN!  
 -
 
 ---

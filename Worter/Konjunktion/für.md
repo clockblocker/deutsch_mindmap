@@ -1,5 +1,5 @@
-NIC: Ich kann [[für]] euch kochen …  
-SASCHA: … [[für]] die liebe Anna … von S.  
+NIC: Ich kann [[Worter/Konjunktion/für]] euch kochen …  
+SASCHA: … [[Worter/Konjunktion/für]] die liebe Anna … von S.  
 
 
 

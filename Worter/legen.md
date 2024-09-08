@@ -8,7 +8,7 @@ haben [[gelegt]]
  Machen Sie sich frei, [[legen]] Sie sich hin!  
 
 ---
-+[[Über]] = 💭 [[überlegen]]
++[[Worter/über]] = 💭 [[überlegen]]
 
 
 ---

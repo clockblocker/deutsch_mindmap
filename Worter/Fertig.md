@@ -10,6 +10,9 @@ geben und in den Kühlschrank stellen …
 SAM: Okay, Okay, Gut, gut.  
 SASCHA: [[Fertig]]?  
 
+Ah, Sascha bist du [[fertig]]?  
+
+
 ---
 Synonyme: [[abgeschlossen]], [[bereit]], [[erledigt]], [[vollendet]], [[vollendet]], [[perfekt]]
 Antonyme: [[unfertig]], [[unvollendet]], [[unvollständig]], [[mangelhaft]], [[lückenhaft]]

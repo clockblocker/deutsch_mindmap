@@ -9,3 +9,4 @@ der [[Dienste]]
 
 #Substantiv
 #Maskulin
+, [[Diensten]]

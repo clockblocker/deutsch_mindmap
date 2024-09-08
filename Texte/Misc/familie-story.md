@@ -10,7 +10,7 @@ Der [[Vater]], Peter, [[fährt]] [[jeden]] [[Tag]] [[mit]] [[dem]] [[Auto]] [[zu
 
 Max [[fährt]] [[gerne]] [[Fahrrad]] und [[Lena]] [[spielt]] [[gerne]] [[mit]] [[dem]] [[Hund]]. [[an]] [[Wochenenden]] [[fährt]] die [[Familie]] [[oft]] [[mit]] [[dem]] [[Bus]] [[Ins]] [[Kino]]. Sie [[sehen]] [[viele]] [[Filme]] [[zusammen]].
 
-Max [[liest]] [[gerne]] [[Bücher]]. [[sein]] [[Lieblingsbuch]] [[ist]] [[Über]] [[ein]] [[großes]] [[Schiff]]. Lena [[mag]] [[Puppen]] und [[spielt]] [[oft]] [[in]] [[ihrem]] [[zimmer]].Die [Familie]] [[ist]] [[glücklich]]. Sie [[verbringen]] [[viel]] [[Zeit]] [[zusammen]] und [[haben]] [[immer]] [[Spaß]].
+Max [[liest]] [[gerne]] [[Bücher]]. [[sein]] [[Lieblingsbuch]] [[ist]] [[Worter/über]] [[ein]] [[großes]] [[Schiff]]. Lena [[mag]] [[Puppen]] und [[spielt]] [[oft]] [[in]] [[ihrem]] [[zimmer]].Die [Familie]] [[ist]] [[glücklich]]. Sie [[verbringen]] [[viel]] [[Zeit]] [[zusammen]] und [[haben]] [[immer]] [[Spaß]].
 
 
 

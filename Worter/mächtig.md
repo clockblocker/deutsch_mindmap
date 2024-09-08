@@ -30,4 +30,4 @@ Tags:
 ---
 
 Morphems:
-[[mächtig]]
+[[mächtig]], [[übermächtig]]

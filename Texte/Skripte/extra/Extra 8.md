@@ -1,13 +1,13 @@
-Episode 8: Die Kusine der Vermieterin  
-Transcript  
-EXTRA GERMAN 8  
-DIE KUSINE DER VERMIETERIN  
+Episode 8: Die [[Kusine]] der Vermieterin  
+
 SCENE 1  
-ANNA: An alle Mieter -  
-Meine Kusine, Ihre Vermieterin, hat diese Woche Urlaub - also bin ich zuständig! DIE GLEICHEN REGELN GELTEN!  
-Keine Haustiere!  
-Keine Partys!  
-Gruß, Edeltraut Berg  
+ANNA: *An alle [[Mieter]] -*  
+*Meine Kusine, Ihre Vermieterin, hat diese Woche Urlaub - also bin ich [[zuständig]]! DIE [[GLEICHEN]] [[REGELN]] [[GELTEN]]!*  
+*Keine Haustiere!*  
+*Keine Partys!*  
+*[[Gruß]], Edeltraut Berg*  
+
+
 Edeltraut Berg! Die klingt ja schrecklich! Schlimmer als die Tarantel!  
 SASCHA: Hm … wenn das möglich ist!  
 ANNA: Glaubst du, sie wird sagen: Keine Regale'? Hihihi.  

@@ -13,7 +13,7 @@ Antonyme: [[vorher]], [[zuvor]], [[davor]], [[eher]], [[früher]]
 
 ---
 Morpheme:
-[[nach]][[her]]
+[[Worter/nach]][[her]]
 
 ---
 #Adverb

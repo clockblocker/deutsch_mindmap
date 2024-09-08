@@ -21,4 +21,4 @@ Morpheme:
 ---
 
 Einzigartige mögliche Formen:
-[[unhöflich]], [[unhöfliche]], [[unhöfliches]], [[unhöflichen]], [[unhöflichem]], [[unhöflicher]], [[unhöflicheren]], [[unhöflichster]], [[unhöflichste]]
+[[unhöflich]], [[unhöfliche]], [[unhöfliches]], [[unhöflichen]], [[unhöflichem]], [[unhöflicher]], [[unhöflicheren]], [[unhöflichster]], [[unhöflichste]], [[nett]]

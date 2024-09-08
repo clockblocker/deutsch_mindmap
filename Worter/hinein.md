@@ -4,6 +4,9 @@
 *Ins Bett muß Friedrich nun [[hinein]],*  
 *litt vielen Schmerz an seinem Bein;*  
 
+Ich werde Sascha aus diesem [[Kasten]] wegzaubern … und in diesen [[Kasten]] hinein  
+
+
 ---
 
 Synonyme:

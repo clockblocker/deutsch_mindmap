@@ -5,6 +5,8 @@ haben [[geregelt]]
 ---
 Sprechen Sie mit meiner Agentin, Sascha - vielleicht können Sie das beide [[regeln]]
 
+DIE GLEICHEN [[REGELN]] GELTEN!  
+
 ---
 Synonyme: [[ordnen]], [[lenken]], [[steuern]], [[bestimmen]], [[kontrollieren]]
 Antonyme: [[durcheinanderbringen]], [[verwirren]], [[auflösen]]

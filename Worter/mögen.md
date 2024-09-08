@@ -54,4 +54,4 @@ to like
 ---
 
 **Morphems of only infinitive:**  
-- [[mög]][[en]][[gefallen]]
+- [[mög]][[en]][[gefallen]], [[hassen]]

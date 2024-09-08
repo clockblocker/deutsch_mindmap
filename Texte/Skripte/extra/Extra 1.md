@@ -26,9 +26,9 @@ ANNA: Louis. [[Lass das fallen!]]
 
 ANNA: [[Guter]] Hund!
 ANNA: Telefon[[Rechnung]], Gas[[Rechnung]], Strom[[Rechnung]] … Oh, [[was]] ist das?  
-Sascha, ein Brief [[für]] dich!
+Sascha, ein Brief [[Worter/Konjunktion/für]] dich!
 
-SASCHA: Ein Brief [[für]] mich.  
+SASCHA: Ein Brief [[Worter/Konjunktion/für]] mich.  
 [[von]] meiner Mutter ...
 
 SASCHA: Hey, was ist [[denn]] das?
@@ -55,7 +55,7 @@ SASCHA: Er [[war]] mein Brieffreund. [[aber]] das ist sieben [[Jahr]]e�
 ANNA: Oh …
 
 SASCHA: „Ich [[gut]] spreche Deutsch jetzt…”  
-- Ich spreche jetzt gut Deutsch - „und ich komme [[nach]] Deutschland.”
+- Ich spreche jetzt gut Deutsch - „und ich komme [[Worter/nach]] Deutschland.”
 
 ANNA: Ein Amerikaner…
 
@@ -226,7 +226,7 @@ ANNA: Ja.
 
 SAM: Wow, fantastic.
 
-SASCHA: Und hier ist ein Kissen [[für]] dich …
+SASCHA: Und hier ist ein Kissen [[Worter/Konjunktion/für]] dich …
 
 SAM: Thanks.
 

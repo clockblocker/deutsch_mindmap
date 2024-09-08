@@ -4,8 +4,13 @@ haben [[gemusst]]
 
 ---
 Das [[muss]] ein [[Ende]] haben .
+
 NIC: [[egal]] … Komm … das [[müssen]] wir [[feiern]]!  
+
 SAM: Ich [[muss]] euch etwas sagen ...  
+
+Ich habe gemacht was ich tun [[musste]]
+
 
 
 ---

@@ -1,1 +1,1 @@
-[[Schlecht]][[besonders]][[prima]]
+[[Schlecht]][[besonders]][[prima]], [[toll]]

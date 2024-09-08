@@ -1,32 +1,24 @@
-🕒 [[gerade]]
+🕒 [[gerade]], [ˈɡeːʁaːdə]
 
 ---
 Er hat sicher das offene Küchenfenster gesehen, und darum ist er [[gerade]] in unser Haus gekommen.
 
----
-
-Synonyme:
-- [[eben]], [[momentan]], [[zurzeit]]
+hr kommt [[gerade]] rechtzeitig für meinen Zaubertrick! 
 
 ---
-Beispiele:
-
-- Ich habe [[gerade]] gegessen.
-- Sie sind [[gerade]] angekommen.
-- Wir machen [[gerade]] eine Pause.
+Synonyme: [[direkt]], [[genau]], [[eben]], [[unmittelbar]], [[soeben]]
+Antonyme: [[schief]], [[krumm]], [[unvermittelt]], [[ungerade]], [[indirekt]]
 
 ---
-**Übersetzung**:
-just, currently, straight
+Übersetzung: straight, just, right (now)
 
 ---
+Morpheme: 
+[[gerade]]
 
-Tags:
+---
 #Adverb
 
 ---
-Morphems:
-[[gerade]]
-
-
-Aber er duscht gerade!, [[derselben]]
+Einzigartige mögliche Formen:
+[[gerade]], [[gerader]], [[gerade]], [[gerades]], [[geraden]], [[geradem]], [[gerader]], [[geraden]], [[rechtzeitig]]

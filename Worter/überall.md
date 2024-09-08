@@ -1,4 +1,4 @@
-Es stink [[Über]][[all]]
+Es stink [[Worter/über]][[all]]
 Zuerst schloss sie Freundschaft mit dem Hasen und begleitete ihn [[überall]] hin.
 
 ---
@@ -25,6 +25,6 @@ Tags:
 ---
 
 Morphems:
-[[Über]][[all]]
+[[Worter/über]][[all]]
 
 [[irgendwo]]

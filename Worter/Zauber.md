@@ -1,4 +1,4 @@
-🔴 der [[Zauber]], [ˈtsaʊ̯bɐ]
+ 🔵 i der [[Zauber]], [ˈtsaʊ̯bɐ]
 die [[Zauber]]
 
 
@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Zaubers]], [[Zaubern]], [[Zauber]], [[Zaubers]], [[Zauber]], [[Zauber]], [[Zauber]], [[Zauber]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Zaubertrick]], [[Zauberstab]]

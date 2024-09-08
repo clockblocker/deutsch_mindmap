@@ -24,4 +24,4 @@ Tags:
 ---
 
 Morphems:
-[[Da]][[nach]][[nachher]]
+[[Da]][[Worter/nach]][[nachher]]

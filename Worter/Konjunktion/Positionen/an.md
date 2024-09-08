@@ -1,5 +1,5 @@
 ![[Pasted image 20240617123809.png]]
 
-[[auf]]
+[[Worter/Konjunktion/Positionen/auf]]
 
 [[Position]]

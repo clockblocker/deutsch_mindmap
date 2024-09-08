@@ -1,1 +1,1 @@
-[[verdammen]]
+[[verdammen]], [[hassen]]

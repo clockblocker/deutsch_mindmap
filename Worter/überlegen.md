@@ -3,7 +3,7 @@
 haben [[überlegt]]
 
 ---
-Die Katze [[Über]][[legte]] noch, wie sie das anstellen sollte,
+Die Katze [[Worter/über]][[legte]] noch, wie sie das [[anstellen]] sollte,
 Überheblich, überlegen  
 
 ---
@@ -25,7 +25,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[Über]][[leg]][[en]]
+[[Worter/über]][[leg]][[en]]
 
 ---
 Tags:
@@ -71,4 +71,4 @@ Konjunktiv II:
 - Wenn er weiser wäre, [[überlegte]] er sich alles genau.
 - Wenn wir nicht in Eile wären, [[überlegten]] wir noch gründlicher.
 - Wenn ihr mehr Informationen hättet, [[überlegtet]] ihr genauer.
-- Wenn sie vorsichtiger wären, [[überlegten]] sie mehr.
+- Wenn sie vorsichtiger wären, [[überlegten]] sie mehr., [[übermächtig]]

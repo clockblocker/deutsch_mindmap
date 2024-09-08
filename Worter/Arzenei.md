@@ -2,7 +2,7 @@
 die [[Arzeneien]]
 
 Beispiele:
-- *und der Herr Doktor sitzt dabei*  
+- *und der Herr Doktor sitzt [[dabei]]*  
   *und gibt ihm bittre [[Arzenei]].*
 
 ---
@@ -15,7 +15,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Arzen]][[ei]]
+[[Arz]][[en]][[ei]]
 
 ---
 #Substantiv #Feminin

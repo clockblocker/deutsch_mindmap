@@ -1,1 +1,1 @@
-[[verstehen]][[bestehen]][[bücken]], [[widerstehen]], [[liegen]]
+[[verstehen]][[bestehen]][[bücken]], [[widerstehen]], [[liegen]], [[laufen]]

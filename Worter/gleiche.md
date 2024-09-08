@@ -1,4 +1,4 @@
 sind sie [[Geschlechter]] [[gleiche]]?
 
 
-same[[andere]]
+same[[andere]], [[gleichen]]

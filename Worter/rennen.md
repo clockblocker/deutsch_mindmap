@@ -1,1 +1,1 @@
-[[kriechen]], [[liegen]]
+[[kriechen]], [[liegen]], [[laufen]]

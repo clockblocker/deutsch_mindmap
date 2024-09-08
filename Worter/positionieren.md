@@ -1,1 +1,1 @@
-[[setzen]]
+[[setzen]], [[hinstellen]]

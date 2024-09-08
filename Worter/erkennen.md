@@ -1,1 +1,1 @@
-[[spüren]]
+[[spüren]], [[bemerken]]

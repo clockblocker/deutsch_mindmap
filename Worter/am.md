@@ -11,4 +11,4 @@ Ich komme an diesem Montag
 Ich komme am Montag 
 
 
-[[Schlecht]][[schwierig]], [[wohl]]
+[[Schlecht]][[schwierig]], [[wohl]], [[toll]], [[wichtig]]

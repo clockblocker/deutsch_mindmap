@@ -1,11 +1,10 @@
-Processed the word stören. Identified it as Verb.
-
 🚫 [[stören]] + Akk, [ˈʃtøːʁən]
 [[störte]]  
 haben [[gestört]]
 
 ---
-- (Ich will) Ich will die Ruhe [[stören]]  
+- *(Ich will) Ich will die Ruhe [[stören]]*  
+- SASCHA: [[Störe]] ich?  
 -
 
 ---

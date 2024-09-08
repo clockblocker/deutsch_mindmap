@@ -1,1 +1,1 @@
-[[setzen]][[hinlegen]]
+[[setzen]][[hinlegen]], [[hinstellen]], [[wegzaubern]]

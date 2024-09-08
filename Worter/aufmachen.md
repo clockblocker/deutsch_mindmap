@@ -27,7 +27,7 @@ Beispiele:
 ---
 
 Morphems:
-[[auf]][[machen]]
+[[Worter/Konjunktion/Positionen/auf]][[machen]]
 
 ---
 Tags:
@@ -37,41 +37,41 @@ Tags:
 
 Präteritum:
 
-- Ich [[machte auf|machte]] das Fenster [[auf]].
-- Du [[machtest auf|machtest]] die Tür [[auf]].
-- Er [[machte auf|machte]] das Buch [[auf]].
-- Wir [[machten auf|machten]] das Geschäft [[auf]].
-- Ihr [[machtet auf|machtet]] den Brief [[auf]].
-- Sie [[machten auf|machten]] die Schachtel [[auf]].
+- Ich [[machte auf|machte]] das Fenster [[Worter/Konjunktion/Positionen/auf]].
+- Du [[machtest auf|machtest]] die Tür [[Worter/Konjunktion/Positionen/auf]].
+- Er [[machte auf|machte]] das Buch [[Worter/Konjunktion/Positionen/auf]].
+- Wir [[machten auf|machten]] das Geschäft [[Worter/Konjunktion/Positionen/auf]].
+- Ihr [[machtet auf|machtet]] den Brief [[Worter/Konjunktion/Positionen/auf]].
+- Sie [[machten auf|machten]] die Schachtel [[Worter/Konjunktion/Positionen/auf]].
 
 ---
 
 Imperativ:
 
-- [[Mach auf|mach]] die Tür [[auf]]!
-- [[Macht auf|macht]] das Fenster [[auf]]!
-- [[Machen wir auf|machen]] wir das Paket [[auf]]!
-- [[Machen Sie auf|machen]] Sie das Buch [[auf]]!
+- [[Mach auf|mach]] die Tür [[Worter/Konjunktion/Positionen/auf]]!
+- [[Macht auf|macht]] das Fenster [[Worter/Konjunktion/Positionen/auf]]!
+- [[Machen wir auf|machen]] wir das Paket [[Worter/Konjunktion/Positionen/auf]]!
+- [[Machen Sie auf|machen]] Sie das Buch [[Worter/Konjunktion/Positionen/auf]]!
 
 ---
 
 Konjunktiv I:
 
-- Er sagt, ich [[mache]] das Fenster [[auf]].
-- Sie meint, du [[machest]] die Tür [[auf]].
-- Er behauptet, er [[mache]] die Schachtel [[auf]].
-- Wir erklären, wir [[machen auf]] das Geschäft [[auf]].
-- Ihr sagt, ihr [[machet auf]] das Buch [[auf]].
-- Sie sagen, sie [[machen auf]] das Geschenk [[auf]].
+- Er sagt, ich [[mache]] das Fenster [[Worter/Konjunktion/Positionen/auf]].
+- Sie meint, du [[machest]] die Tür [[Worter/Konjunktion/Positionen/auf]].
+- Er behauptet, er [[mache]] die Schachtel [[Worter/Konjunktion/Positionen/auf]].
+- Wir erklären, wir [[machen auf]] das Geschäft [[Worter/Konjunktion/Positionen/auf]].
+- Ihr sagt, ihr [[machet auf]] das Buch [[Worter/Konjunktion/Positionen/auf]].
+- Sie sagen, sie [[machen auf]] das Geschenk [[Worter/Konjunktion/Positionen/auf]].
 
 ---
 
 Konjunktiv II:
 
-- Wenn ich den Schlüssel hätte, [[machte auf|machte]] ich die Tür [[auf]].
-- Wenn du es wüsstest, [[machtest auf|machtest]] du das Fenster [[auf]].
-- Wenn er mehr Zeit hätte, [[machte auf|machte]] er die Schachtel [[auf]].
-- Wenn wir es eilig hätten, [[machten auf|machten]] wir den Laden [[auf]].
-- Wenn ihr neugierig wäret, [[machtet auf|machtet]] ihr den Brief [[auf]].
-- Wenn sie bereit wären, [[machten auf|machten]] sie das Paket [[auf]].
+- Wenn ich den Schlüssel hätte, [[machte auf|machte]] ich die Tür [[Worter/Konjunktion/Positionen/auf]].
+- Wenn du es wüsstest, [[machtest auf|machtest]] du das Fenster [[Worter/Konjunktion/Positionen/auf]].
+- Wenn er mehr Zeit hätte, [[machte auf|machte]] er die Schachtel [[Worter/Konjunktion/Positionen/auf]].
+- Wenn wir es eilig hätten, [[machten auf|machten]] wir den Laden [[Worter/Konjunktion/Positionen/auf]].
+- Wenn ihr neugierig wäret, [[machtet auf|machtet]] ihr den Brief [[Worter/Konjunktion/Positionen/auf]].
+- Wenn sie bereit wären, [[machten auf|machten]] sie das Paket [[Worter/Konjunktion/Positionen/auf]].
 ```​⬤
