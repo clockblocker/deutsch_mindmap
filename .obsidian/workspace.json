@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5cce7d834313c5b",
+        "id": "a7f82e3212611173",
         "type": "tabs",
         "children": [
           {
-            "id": "50dd8bd294444dc4",
+            "id": "f6380898c9eb8b07",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -19,13 +19,13 @@
                   "list-collapse": [
                     true,
                     false,
-                    true,
-                    true,
-                    false,
                     false,
                     true,
                     false,
-                    true
+                    false,
+                    true,
+                    false,
+                    false
                   ]
                 }
               }
@@ -177,9 +177,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "50dd8bd294444dc4",
+  "active": "f6380898c9eb8b07",
   "lastOpenFiles": [
+    "Texte/Gedichte/Rammstein/Sonne.md",
     "Kanban/Deutsch Kanban.md",
+    "Texte/Skripte/extra/Extra 8.md",
     "Worter/Buchen.md",
     "Worter/anfangen.md",
     "Worter/Anleitung.md",
@@ -196,7 +198,6 @@
     "Worter/nachjagen.md",
     "Worter/Albtraum.md",
     "Worter/fast.md",
-    "Texte/Skripte/extra/Extra 8.md",
     "Worter/Traum.md",
     "Worter/leisen.md",
     "Worter/messen.md",
@@ -204,7 +205,6 @@
     "Worter/Bundeskanzlers.md",
     "Worter/Bundeskanzler.md",
     "Worter/kanzler.md",
-    "Worter/Bundes.md",
     "Texte/Gedichte/Pop",
     "Texte/Gedichte/Folk",
     "Anhänge/Pasted image 20240908093937.png",
