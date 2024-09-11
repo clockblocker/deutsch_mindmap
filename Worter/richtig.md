@@ -76,4 +76,4 @@ Tags:
 
 ---
 Morphems:
-[[richtig]]
+[[richtig]], [[wahr]]

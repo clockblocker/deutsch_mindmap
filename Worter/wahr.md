@@ -1,44 +1,34 @@
-[[wahr]]
-[[wahrer]]
-[[am]] [[wahrsten]]
+🟡 [[wahr]], [vaːɐ̯]
+nicht [[Falsch]]
 
 ---
 ANNA: Ja, wir gehen auch immer in die Bücherei, [[nicht wahr]]?
 Ist das wirklich wahr?
 *Der wahre Traum der Liebe*
+
  Mach meinen Traum [[wahr]]!  
 
+Wahrheit
+
+
 ---
-
-nicht [[Falsch]]
-
----
-
 Synonyme:
-- [[richtig]], [[authentisch]], [[echt]]
+- [[korrekt]], [[richtig]], [[zutreffend]], [[genau]], [[authentisch]]
+Antonyme:
+- [[falsch]], [[ungenau]], [[unrichtig]], [[unzutreffend]], [[unecht]]
 
 ---
-
-Beispiele:
-
-- Das ist die [[wahre]] Geschichte.
-- Er sucht den [[wahreren]] Sinn des Lebens.
-- Das ist die [[wahrste]] Form von Freundschaft.
+Übersetzung: true, real, genuine
 
 ---
-**Übersetzung**: true, real
-
----
-
-Tags:
-#Adjective
-
----
-
-Morphems:
+Morpheme:
 [[wahr]]
 
 ---
+#Adjective [[wahr]]
 
-
-true
+---
+Einzigartige mögliche Formen: 
+[[wahr]], [[wahre]], [[wahres]], [[wahren]], [[wahrem]]
+[[wahrer]], [[wahrere]], [[wahreres]], [[wahrerem]], [[wahrererer]]
+[[wahrste]], [[wahrster]], [[wahrstes]], [[wahrstem]], [[wahrstesten]]

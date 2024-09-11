@@ -7,6 +7,7 @@ ANNA: Hey Sam, komm … Wir [[zeigen]] dir die Wohnung.
 ANNA: Ja, [[zeig]] es uns ‘mal!  
 Ich [[zeig]] es dir!  
 
+Ja – ich [[zeige]] dir, wie man als Fernsehreporter arbeitet.  
 
 ---
 

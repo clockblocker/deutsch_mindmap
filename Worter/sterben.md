@@ -4,54 +4,32 @@ sein [[gestorben]]
 
 ---
 - Er ist vor 3 Jahren [[gestorben]].
+- [[Sterben]], schlafen und sonst nichts.  
+- Und [[deshalb]] ermordet Hamlet die Mutter und den Onkel … und dann stirbt er.
+
+---
+Synonyme: [[verscheiden]], [[ableben]], [[entschlafen]], [[verenden]], [[versterben]]
+Antonyme: [[leben]], [[weiterleben]], [[wiederaufleben]]
+
+
+---
+Übersetzung: to die
+
+---
+Morpheme: [[sterb]][[en]]
+ #Verb  #Untrennbar
+ 
 
 ---
 
-**Synonyme:**
+| Person    | Präsens     | Präteritum  | Imperativ       | Konjunktiv I | Konjunktiv II |
+| --------- | ----------- | ----------- | --------------- | ------------ | ------------- |
+| Ich       | [[sterbe]]  | [[starb]]   | -               | [[sterbe]]   | [[stürbe]]    |
+| Du        | [[stirbst]] | [[starbst]] | [[stirb]]       | [[sterbest]] | [[stürbest]]  |
+| Er/sie/es | [[stirbt]]  | [[starb]]   | -               | [[sterbe]]   | [[stürbe]]    |
+| Wir       | [[sterben]] | [[starben]] | -               | [[sterben]]  | [[stürben]]   |
+| Ihr       | [[sterbt]]  | [[starbt]]  | [[sterbt]]      | [[sterbet]]  | [[stürbet]]   |
+| Sie       | [[sterben]] | [[starben]] | [[sterben Sie]] | [[sterben]]  | [[stürben]]   |
 
-- [[versterben]], [[umkommen]], [[ableben]]
-
----
-
-**Beispiele:**
-
-- Ich [[sterbe]] vor Durst.
-- Du [[stirbst]] vor Angst.
-- Er [[stirbt]] an einer Krankheit.
-- Es [[stirbt]] langsam.
-- Sie [[stirbt]] im hohen Alter.
-- Wir [[sterben]] eines Tages.
-- Ihr [[sterbt]] vor Lachen.
-- Sie [[sterben]] friedlich.
-
----
-
-**Übersetzung**:
-to die
-
----
- #Verb  #Unregelmäßig
-
----
-
-**Präteritum:**
-
-- Ich [[starb]] vor Durst.
-- Du [[starbst]] vor Angst.
-- Er [[starb]] an einer Krankheit.
-- Es [[starb]] langsam.
-- Sie [[starb]] im hohen Alter.
-- Wir [[starben]] eines Tages.
-- Ihr [[starbt]] vor Lachen.
-- Sie [[starben]] friedlich.
-
----
-
-**Imperativ:**
-
-- (Imperative forms are not used with this verb)
-
----
-
-**Morphems of only infinitive:**  
-- [[sterb]][[en]]
+Partizip I: [[sterbend]], Partizip II: [[gestorben]]
+[[sterben]] - [[st]] = [[erb]]

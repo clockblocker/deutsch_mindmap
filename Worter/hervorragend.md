@@ -1,1 +1,1 @@
-[[Schlecht]][[besonders]][[prima]], [[toll]], [[Schlimmer]]
+[[Schlecht]][[besonders]][[prima]], [[toll]], [[Schlimmer]], [[einfachfantastisch]]

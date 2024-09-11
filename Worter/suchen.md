@@ -9,51 +9,44 @@ ich [[suche]] meine brille
 
 NIC: Ach, danke, Sascha - die habe ich gerade [[gesucht]]!  
 
+Sam, ich hab' super Nachrichten für dich – Kanal 9 [[sucht]] ein Reporter. 
+
+ [[Such]] mal CNN!  
 
 ---
 
-Synonyme:
-- [[nachforschen]], [[erkunden]], [[durchsuchen]]
+Prosessed the word suchen. Identified it as Verb.
+
+📚 [[suchen]] + Akk, [ˈzuːxn̩]
+[[suchte]]
+haben [[gesucht]]
 
 ---
 
-Beispiele:
-
-- Ich [[suche]] meine Schlüssel.
-- Du [[suchst]] nach einem Buch.
-- Er [[Sucht]] seine Brille.
-- Wir [[suchen]] die Antwort.
-- Ihr [[Sucht]] nach dem richtigen Weg.
-- Sie [[suchen]] ihre Freunde.
 
 ---
-**Übersetzung**: to search, to look for
+Synonyme: [[finden]], [[erforschen]], [[erkunden]], [[durchkämmen]], [[durchstöbern]]
+Antonyme: [[verlieren]], [[aufgeben]], [[vermeiden]], [[ignorieren]]
 
 ---
-
-Morphems of only infinitive:
-[[such]][[en]]
+Übersetzung: to search, to look for
 
 ---
-Tags: 
-#Verb
+Morpheme: [[such]][[en]]
+ #Verb #Untrennbar
 
 ---
 
-Präteritum:
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[suche]]            | [[suchte]]            | -                 | [[suche]]              | [[suchte]]              |
+| Du        | [[suchst]]           | [[suchtest]]          | [[such]]          | [[suchest]]            | [[suchtest]]            |
+| Er/sie/es | [[sucht]]            | [[suchte]]            | -                 | [[suche]]              | [[suchte]]              |
+| Wir       | [[suchen]]           | [[suchten]]           | -                 | [[suchen]]             | [[suchten]]             |
+| Ihr       | [[sucht]]            | [[suchtet]]           | [[sucht]]         | [[suchet]]             | [[suchtet]]             |
+| Sie       | [[suchen]]           | [[suchten]]           | [[suchen Sie]]    | [[suchen]]             | [[suchten]]             |
 
-- Ich [[suchte]] meine Schlüssel.
-- Du [[suchtest]] nach einem Buch.
-- Er [[suchte]] seine Brille.
-- Wir [[suchten]] die Antwort.
-- Ihr [[suchtet]] nach dem richtigen Weg.
-- Sie [[suchten]] ihre Freunde.
+Partizip I: [[suchend]], Partizip II: [[gesucht]]
 
----
 
-Imperativ:
-
-- [[suche]] deine Schlüssel!
-- [[such]] nach dem Buch!
-- [[Sucht]] eure Sachen!
-- [[suchen]] wir nach einer Lösung![[aussuchen]]
++[[aus]] = [[aussuchen]]

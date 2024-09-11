@@ -1,0 +1,1 @@
+💍 [[heiraten]] + Akk, [ˈhaɪ̯ʁaːtn̩]

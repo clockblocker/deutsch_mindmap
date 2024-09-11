@@ -1,1 +1,1 @@
-[[andere]], [[Spitze]], [[Stimme]], [[Schraube]]
+[[andere]], [[Spitze]], [[Stimme]], [[Schraube]], [[IPA]]

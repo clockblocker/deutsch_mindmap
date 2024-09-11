@@ -1,1 +1,1 @@
-[[lernen]], [[lesen]]
+[[lernen]], [[lesen]], [[recherchieren]]

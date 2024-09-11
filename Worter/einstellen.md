@@ -3,6 +3,10 @@
 haben [[eingestellt]]
 
 ---
+9. Temperatur [[einstellen]].
+
+
+---
 
 Synonyme:
 - [[justieren]], [[anpassen]], [[regulieren]]

@@ -1,1 +1,1 @@
-, [[haben]], [[fehlen]]
+, [[haben]], [[fehlen]], [[gehören]]

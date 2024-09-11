@@ -1,1 +1,1 @@
-[[gelten]][[erzählen]]
+[[gelten]][[erzählen]], [[vertrauen]]

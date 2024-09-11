@@ -1,1 +1,1 @@
-[[verlieren]]
+[[verlieren]], [[gehören]]

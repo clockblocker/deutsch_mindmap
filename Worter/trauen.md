@@ -1,79 +1,34 @@
-🛡 [[trauen]]
+💖 [[trauen]] + Dat, Akk, [ˈtʁaʊ̯ən]
 [[traute]]
 haben [[getraut]]
 
 ---
 
----
-
-**Synonyme:**
-
-- [[glauben]], [[vertrauen]], [[sich verlassen]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[traue]] ihm nicht.
-- Du [[traust]] dir selbst.
-- Er [[traut]] ihren Fähigkeiten.
-- Es [[traut]] der neuen Technologie.
-- Sie [[traut]] ihrer Intuition.
-- Wir [[trauen]] unserer Entscheidung.
-- Ihr [[traut]] dem Ergebnis.
-- Sie [[trauen]] den Zeugen.
+Synonyme: [[heiraten]], [[vermählen]], [[kopulieren]], [[binden]], [[verbinden]]
+Antonyme: [[scheiden]], [[trennen]], [[entloben]]
 
 ---
-**Übersetzung**:
-to trust, to dare
+Übersetzung: trust, dare
 
 ---
-**Morphems of only infinitive:**  
-- [[trau]][[en]]
-
----
-#Verb #Untrennbar
-
+Morpheme: [[tr]][[au]][[en]]
+ #Verb  #Trennbar
+ 
 ---
 
-**Präteritum:**
 
-- Ich [[traute]] ihm nicht.
-- Du [[trautest]] dir selbst.
-- Er [[traute]] ihren Fähigkeiten.
-- Es [[traute]] der neuen Technologie.
-- Sie [[traute]] ihrer Intuition.
-- Wir [[trauten]] unserer Entscheidung.
-- Ihr [[trautet]] dem Ergebnis.
-- Sie [[trauten]] den Zeugen.
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[traue]] | [[traute]] | - | [[traue]] | [[träute]] |
+| Du | [[traust]] | [[trautest]] | [[traue]] | [[trauest]] | [[träutest]] |
+| Er/sie/es | [[traut]] | [[traute]] | - | [[traue]] | [[träute]] |
+| Wir | [[trauen]] | [[trauten]] | - | [[trauen]] | [[träuten]] |
+| Ihr | [[traut]] | [[trautet]] | [[traut]] | [[trauet]] | [[träutet]] |
+| Sie | [[trauen]] | [[trauten]] | [[trauen Sie]] | [[trauen]] | [[träuten]] |
 
----
+Partizip I: [[trauend]], Partizip II: [[getraut]]
 
-**Imperativ:**
-
-- Ich [[traue]] ihm nicht.
-- Du [[traue]] dir selbst.
-- Er [[traue]] ihren Fähigkeiten.
-- Es [[traue]] der neuen Technologie.
-- Sie [[traue]] ihrer Intuition.
-- Wir [[trauen]] unserer Entscheidung.
-- Ihr [[traut]] dem Ergebnis.
-- Sie [[trauen]] den Zeugen.
-
----
-Konjunktiv I:
-- Er sagt, ich [[traue]] ihm.
-- Sie meint, du [[trauest]] dir selbst.
-- Er behauptet, er [[traue]] ihren Fähigkeiten.
-- Wir erklären, wir [[trauen]] unserer Entscheidung.
-- Ihr sagt, ihr [[trauet]] dem Ergebnis.
-- Sie sagen, sie [[trauen]] den Zeugen.
-
----
-Konjunktiv II:
-- Wenn ich mehr Mut hätte, [[traute]] ich ihm.
-- Wenn du mehr Selbstvertrauen hättest, [[trautest]] du dir selbst.
-- Wenn er mehr Informationen hätte, [[traute]] er ihren Fähigkeiten.
-- Wenn wir sicherer wären, [[trauten]] wir unserer Entscheidung.
-- Wenn ihr mehr Beweise hättet, [[trautet]] ihr dem Ergebnis.
-- Wenn sie keine Zweifel hätten, [[trauten]] sie den Zeugen.
+[[trauen]] - [[tr]] = [[au]]
+''', [[vertrauen]]

@@ -32,4 +32,4 @@ Morpheme: [[rett]][[en]]
 Partizip I: [[rettend]], Partizip II: [[gerettet]]
 
 [[retten]] - [[rett]] = [[en]]
-'''
+''', [[ermorden]], [[morden]]

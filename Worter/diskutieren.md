@@ -1,3 +1,3 @@
 discuss
 
-diskut[[ieren]][[reden]]
+diskut[[ieren]][[reden]], [[sprechen]]

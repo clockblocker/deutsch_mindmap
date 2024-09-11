@@ -3,8 +3,7 @@ die [[Flecken]]
 
 
 ---
--
--
+• Eisenteller nicht mitwaschen. Sonst [[Rostflecken]].
 
 ---
 Synonyme:
@@ -21,4 +20,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fleckens]], [[Flecken]], [[Flecke]], [[Flecken]], [[Fleckens]], [[Flecke]], [[Flecken]], [[Flecken]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[fleck]]
+

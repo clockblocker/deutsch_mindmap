@@ -5,6 +5,8 @@ haben [[herausgenommen]]
 ---
 Karton A öffnen und Regalbrett Nummer eins [[herausnehmen]].  
 
+18. Wäsche [[herausnehmen]].
+
 ---
 Synonyme: [[entfernen]], [[hervorziehen]], [[aussondern]], [[extrahieren]], [[ausgraben]]
 Antonyme: [[einsetzen]], [[hineinstecken]], [[einpacken]], [[einbauen]], [[verstauen]]

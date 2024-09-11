@@ -3,6 +3,10 @@
 haben [[eingeschaltet]]
 
 ---
+Waschmaschine an die Steckdose anschließen oder:
+Hauptschalter [[einschalten]].
+
+---
 
 Synonyme:
 - [[anmachen]], [[aktivieren]], [[in Betrieb nehmen]]
@@ -72,4 +76,4 @@ Konjunktiv II:
 - Wenn er das Licht brauchte, [[schaltete ein|schaltete]] er es [[ein]].
 - Wenn wir Wärme bräuchten, [[schalteten ein|schalteten]] wir die Heizung [[ein]].
 - Wenn ihr telefonieren wolltet, [[schaltetet ein|schaltetet]] ihr das Handy [[ein]].
-- Wenn sie es benutzen müssten, [[schalteten ein|schalteten]] sie den Computer [[ein]].
+- Wenn sie es benutzen müssten, [[schalteten ein|schalteten]] sie den Computer [[ein]]., [[aufdrehen]]

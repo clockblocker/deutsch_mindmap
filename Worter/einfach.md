@@ -11,6 +11,9 @@ geklebt!
 NIC: [[Sagen wir einfach]] - dass du dieses Gesicht …  
 SASCHA: Anna! Ganz [[einfach]]!
 
+Siehst du, so [[einfach]] ist das.  
+
+
 ---
 Synonyme: [[leicht]], [[simpel]], [[unkompliziert]], [[klar]], [[überschaubar]]
 Antonyme: [[kompliziert]], [[schwierig]], [[verschachtelt]], [[verworren]], [[unübersichtlich]]
@@ -38,4 +41,4 @@ Einzigartige mögliche Formen:
 
 
 [[einfachen]], [[schwer]], [[unbequem]], [[lackiertes]]
-, [[Extra 8]]
+, [[Extra 8]], [[einfachfantastisch]]

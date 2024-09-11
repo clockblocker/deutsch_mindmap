@@ -4,7 +4,7 @@ haben [[überrascht]]
 
 ---
 - [[Überraschen]], überfallen  
-- 
+- [[Überraschung]]s ei 
 
 ---
 Synonyme: [[erstaunen]], [[schocken]], [[verblüffen]], [[erschrecken]], [[verwundern]]

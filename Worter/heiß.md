@@ -1,1 +1,1 @@
-nicht [[kalt]][[heißen]][[Kühl]]
+nicht [[kalt]][[heißen]][[Kühl]], [[Heißwäsche]]

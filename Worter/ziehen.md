@@ -7,7 +7,8 @@ haben [[gezogen]]
 - Also [[ziehen]] Sie Ihre Strandkleider an!
 
 ---
-+ + weiter = [[weiterziehen]]
++ + [[weiter]] = [[weiterziehen]]
+- + [[um]] = [[umziehen]] 
 
 ---
 Synonyme: [[zerren]], [[reißen]], [[schleifen]], [[schleppen]], [[verziehen]]
@@ -33,4 +34,4 @@ Morpheme: [[zieh]][[en]]
 | Sie | [[ziehen]] | [[zogen]] | [[ziehen Sie]] | [[ziehen]] | [[zögen]] |
 
 Partizip I: [[ziehend]], Partizip II: [[gezogen]]
-, [[festziehen]]
+, [[festziehen]], [[herausziehen]], [[umziehen]]

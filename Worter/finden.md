@@ -60,4 +60,4 @@ to find
 ---
 
 **Morphems of only infinitive:**  
-- [[find]][[en]][[verlieren]]
+- [[find]][[en]][[verlieren]], [[suchen]]

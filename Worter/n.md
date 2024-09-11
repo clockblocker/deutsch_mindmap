@@ -1,1 +1,1 @@
-[[scheiden]][[regeln]][[verändern]][[ändern]][[behandeln]][[Fluglinien]], [[derselben]], [[erklären]], [[Spielkarten]]
+[[scheiden]][[regeln]][[verändern]][[ändern]][[behandeln]][[Fluglinien]], [[derselben]], [[erklären]], [[Spielkarten]], [[Chemiefasern]], [[IPA]]

@@ -26,4 +26,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[Auswahl]], [[Auswahle]], [[Auswahlen]], [[Auswahl]], [[Auswahl]], [[Auswahl]], [[Auswahl]], [[Auswahl]]
+[[Auswahl]], [[Auswahle]], [[Auswahlen]], [[Auswahl]], [[Auswahl]], [[Auswahl]], [[Auswahl]], [[Auswahl]], [[Nationalmannschaft]]

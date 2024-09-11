@@ -1,1 +1,1 @@
-, [[Mehrheit]], [[Frechheit]]
+, [[Mehrheit]], [[Frechheit]], [[Wahrheit]]

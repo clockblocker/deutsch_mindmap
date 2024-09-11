@@ -1,1 +1,1 @@
-[[Schlecht]]
+[[Schlecht]], [[Nachricht]]

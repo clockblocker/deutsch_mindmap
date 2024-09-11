@@ -70,4 +70,4 @@ Konjunktiv II:
 - Wenn er Zeit hätte, [[stellte]] er etwas Großes [[an]].
 - Wenn wir besser vorbereitet wären, [[stellten]] wir mehr Experimente [[an]].
 - Wenn ihr euch sicher wäret, [[stelltet]] ihr die Maschine [[an]].
-- Wenn sie eine Firma hätten, [[stellten]] sie viele Mitarbeiter [[an]].
+- Wenn sie eine Firma hätten, [[stellten]] sie viele Mitarbeiter [[an]]., [[aufdrehen]]

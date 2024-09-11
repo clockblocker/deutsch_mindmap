@@ -56,4 +56,4 @@ ihr [[hilft]] den Kindern bei den Aufgaben.
 Sie [[helfen]] beim Aufräumen.
 
 Morphems of only infinitive:
-- [[helf]][[en]][[verlassen]][[überfallen]]
+- [[helf]][[en]][[verlassen]][[überfallen]], [[dienen]]

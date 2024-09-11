@@ -77,4 +77,4 @@ Konjunktiv II:
 - Wenn er hier wäre, [[machte an|machte]] er die Heizung [[an]].
 - Wenn wir dort wären, [[machten an|machten]] wir den Computer [[an]].
 - Wenn ihr es wüsstet, [[machtet an|machtet]] ihr die Waschmaschine [[an]].
-- Wenn sie den Auftrag hätten, [[machten an|machten]] sie den Herd [[an]].
+- Wenn sie den Auftrag hätten, [[machten an|machten]] sie den Herd [[an]]., [[aufdrehen]]

@@ -1,5 +1,3 @@
-. @) Beim Passiv bedeutet „durch“ das Mittel und die Ursache
-(vgl. „von"), Beispiele oben unter d.
 
 Es hat zwei Hauptbedeutungen:
 

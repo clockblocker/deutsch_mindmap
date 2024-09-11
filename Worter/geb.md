@@ -1,1 +1,1 @@
-[[übergeben]]
+[[übergeben]], [[zugeben]]

@@ -14,34 +14,36 @@ kanban-plugin: board
 
 ## In progress
 
-- [ ] [[Extra 9]]
-- [ ] [[Sonne]]
+- [ ] [[Engel]]
+- [ ] [[Fullmetal]]
 
 
 ## Done
 
+- [ ] [[Extra 9]]
 - [ ] [[Deutschland]]
 - [ ] [[Extra 8]]
 - [ ] [[Alle meine Entchen]]
+- [ ] [[Wie funktioniert die Waschmaschine?]]
 - [ ] [[Ich Will]]
 - [ ] [[Mein Herz brennt]]
 - [ ] [[Du hast]]
 - [ ] [[Rammstein]]
 
 
-## Struwwelpeter
-
-
-
 ## Rammstein
 
 - [ ] [[Feuer frei!]]
-- [ ] [[Engel]]
+- [ ] [[Sonne]]
 - [ ] [[Haifisch]]
 - [ ] [[Mann Gegen Mann]]
 - [ ] [[Puppe]]
 - [ ] [[Zeig dich]]
 - [ ] [[Du riechst so gut]]
+
+
+## Struwwelpeter
+
 
 
 ## Emil
@@ -70,7 +72,6 @@ kanban-plugin: board
 
 ## Deiter
 
-- [ ] [[Wie funktioniert die Waschmaschine?]]
 - [ ] prap karte
 - [ ] prpap x 5
 
@@ -94,6 +95,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,false,true,false,false,true,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,false,true,false,false,false,true,false,false]}
 ```
 %%

@@ -1,0 +1,1 @@
+🛒 [[bedienen]] + Akk/Gen, [bəˈdiːnən]

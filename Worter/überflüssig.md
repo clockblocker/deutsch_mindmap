@@ -27,3 +27,4 @@ Einzigartige mögliche Formen:
 [[überflüssigsten]], [[überflüssigste]], [[überflüssigstes]], [[überflüssigsten]], [[überflüssigstem]], [[überflüssigster]], [[überflüssigsten]]
 
 [[nötig]], [[übermächtig]]
+, [[dien]]

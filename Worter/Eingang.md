@@ -15,4 +15,4 @@ Synonyme:
 
 ---
 #Substantiv #Masculine
-, [[Tür]]
+, [[Tür]], [[Steckdose]]

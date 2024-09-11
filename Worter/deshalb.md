@@ -3,6 +3,8 @@
 ---
 [[Deshalb]] ist ihre Kusine jetzt hier. Sehr streng!  
 
+Und [[deshalb]] ermordet Hamlet die Mutter und den Onkel … und dann stirbt er.
+
 
 ---
 Synonyme: [[daher]], [[darum]], [[aus diesem Grund]], [[infolgedessen]], [[folglich]]
@@ -20,3 +22,4 @@ Morpheme:
 
 ---
 
+, [[sterben]]

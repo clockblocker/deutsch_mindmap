@@ -1,1 +1,2 @@
 🤲 [[kriegen]]
+, [[krieg]]

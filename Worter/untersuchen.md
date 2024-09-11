@@ -1,1 +1,1 @@
-[[kontrollieren]][[behandeln]]
+[[kontrollieren]][[behandeln]], [[recherchieren]]

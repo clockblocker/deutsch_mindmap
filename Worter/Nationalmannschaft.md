@@ -1,0 +1,23 @@
+die [[Nationalmannschaft]], [ˌnaːtsjoˈnaːlˌmanʃaft]
+die [[Nationalmannschaften]]
+
+
+---
+Das Training mit der deutschen [[Nationalmannschaft]] heute Morgen
+
+---
+Synonyme:
+- [[Auswahl]], [[Team]], [[Equipe]], [[Elf]]
+
+---
+Übersetzung: national team
+
+---
+Morpheme:
+[[National]][[mann]][[schaft]]
+
+---
+Einzigartige mögliche Formen: [[Nationalmannschaft]], [[Nationalmannschaften]]
+
+---
+#Substantiv #Feminin

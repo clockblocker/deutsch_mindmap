@@ -7,7 +7,9 @@ NIC: Wenn unsere Show zu Ende ist, [[treffen]] wir euch in eurer Woh
 
 NIC: Muss sie ihn allein [[treffen]]?  
 
-ANNA: Dein Vater … hat seinen eigenen Jet und [[trifft]] den Bundeskanzler?  
+ANNA: Dein Vater … hat seinen eigenen Jet und [[trifft]] den Bundeskanzler?
+
+Kann ich ihn vielleicht ganz, ganz, ganz kurz [[treffen]]?  
 
 
 ---

@@ -3,8 +3,7 @@
 haben [[gewaschen]]
 
 ---
--
--
+1. Vor dem [[Waschen]] Wäsche sortieren:
 
 ---
 Synonyme: [[reinigen]], [[säubern]], [[putzen]], [[spülen]], [[schrubben]]
@@ -30,4 +29,4 @@ Morpheme: [[wasch]][[en]]
 
 Partizip I: [[waschend]], Partizip II: [[gewaschen]]
 
-[[waschen]] - [[wasch]] = [[en]][[Reinigung]]
+[[waschen]] - [[wasch]] = [[en]][[Reinigung]], [[Wäsche]], [[sortieren]]

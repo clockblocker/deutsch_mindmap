@@ -19,4 +19,4 @@ Morpheme: [[nöt]][[ig]]
 
 Einzigartige mögliche Formen: 
 [[nötig]], [[nötiger]], [[nötige]], [[nötiges]], [[nötigen]], [[nötigem]], [[nötiger]], [[nötigen]]
-[[nötigste]], [[nötigster]], [[nötigste]], [[nötigstes]], [[nötigsten]], [[nötigstem]], [[nötigster]], [[nötigsten]]
+[[nötigste]], [[nötigster]], [[nötigste]], [[nötigstes]], [[nötigsten]], [[nötigstem]], [[nötigster]], [[nötigsten]], [[dien]]

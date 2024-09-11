@@ -1,4 +1,4 @@
-🔧 [[brauchen]]  
+🙏  [[brauchen]]  
 [[brauchte]]  
 haben [[gebraucht]]
 
@@ -11,63 +11,30 @@ SASCHA: Ja, wir [[brauchen]] mehr Geld.
 ANNA: Nein … Sascha [[braucht]] Hilfe …  
 SAM: Toll! Ich gehe einkaufen. [[Brauchst]] du etwas?  
 
+Was du brauchst, ist Nics Training für Fernsehreporter!  
 
+---
+Synonyme: [[benötigen]], [[verwenden]], [[nötig haben]], [[erforderlich sein]], [[in Anspruch nehmen]]
+Antonyme: [[entbehren]], [[verzichten]], [[ablehnen]], [[verschmähen]], [[missen]]
 
+---
+Übersetzung: to need, to require
+
+---
+Morpheme: [[brau]][[ch]][[en]]
+ #Verb #Untrennbar
 
 ---
 
-**Synonyme:**
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[brauche]]          | [[brauchte]]          | -                 | [[brauche]]            | [[bräuchte]]            |
+| Du        | [[brauchst]]         | [[brauchtest]]        | [[brauche]]       | [[brauchest]]          | [[bräuchtest]]          |
+| Er/sie/es | [[braucht]]          | [[brauchte]]          | -                 | [[brauche]]            | [[bräuchte]]            |
+| Wir       | [[brauchen]]         | [[brauchten]]         | -                 | [[brauchen]]           | [[bräuchten]]           |
+| Ihr       | [[braucht]]          | [[brauchtet]]         | [[braucht]]       | [[brauchet]]           | [[bräuchtet]]           |
+| Sie       | [[brauchen]]         | [[brauchten]]         | [[brauchen Sie]]  | [[brauchen]]           | [[bräuchten]]           |
 
-- [[benötigen]], [[erfordern]], [[verlangen]]
+Partizip I: [[brauchend]], Partizip II: [[gebraucht]]
 
----
-
-**Beispiele:**
-
-- Ich [[brauche]] Hilfe.
-- Du [[brauchst]] Geld.
-- Er [[braucht]] Ruhe.
-- Es [[braucht]] Zeit.
-- Sie [[braucht]] einen Rat.
-- Wir [[brauchen]] Informationen.
-- Ihr [[braucht]] Unterstützung.
-- Sie [[brauchen]] ein Auto.
-
----
-
-**Übersetzung**:
-to need
-
----
- #Verb
-
----
-
-**Präteritum:**
-
-- Ich [[brauchte]] Hilfe.
-- Du [[brauchtest]] Geld.
-- Er [[brauchte]] Ruhe.
-- Es [[brauchte]] Zeit.
-- Sie [[brauchte]] einen Rat.
-- Wir [[brauchten]] Informationen.
-- Ihr [[brauchtet]] Unterstützung.
-- Sie [[brauchten]] ein Auto.
-
----
-
-**Imperativ:**
-
-- Ich [[brauche]] Hilfe.
-- Du [[brauch|brauche]] Hilfe.
-- Er [[brauche]] Hilfe.
-- Es [[braucht]] Hilfe.
-- Sie [[brauche]] Hilfe.
-- Wir [[brauchen]] Hilfe.
-- Ihr [[braucht]] Hilfe.
-- Sie [[brauchen]] Hilfe.
-
----
-
-**Morphems of only infinitive:**  
-- [[brauch]][[en]]
+[[brauchen]] - [[brau]] = [[ch]][[en]]

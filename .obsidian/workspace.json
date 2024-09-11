@@ -4,30 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f82e3212611173",
+        "id": "53b8598bdfeeb9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f6380898c9eb8b07",
+            "id": "8d06cc25a7b0cded",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Deutsch Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    false,
-                    false,
-                    true,
-                    false,
-                    false,
-                    true,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Texte/Gedichte/Rammstein/Engel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ef95387efddd079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/bewerben.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39b05ca77ad4bfef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/vertrauen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f91885719b24131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/sprechen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c3a2ca322cacf09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Mach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf0911d9cb431d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/machen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ad37e3961623fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ich mach mir Sorgen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -55,24 +115,12 @@
             }
           },
           {
-            "id": "a7384b43d86f8cf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Dieter/17.08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c572581800d3354",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "benutzen",
+                "query": "anstatt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Deutsch Kanban.md",
+                "file": "Texte/Gedichte/Rammstein/Engel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Deutsch Kanban.md",
+                "file": "Texte/Gedichte/Rammstein/Engel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Deutsch Kanban.md"
+                "file": "Texte/Gedichte/Rammstein/Engel.md"
               }
             }
           }
@@ -177,54 +225,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f6380898c9eb8b07",
+  "active": "8d06cc25a7b0cded",
   "lastOpenFiles": [
-    "Texte/Gedichte/Rammstein/Sonne.md",
     "Kanban/Deutsch Kanban.md",
-    "Texte/Skripte/extra/Extra 8.md",
-    "Worter/Buchen.md",
-    "Worter/anfangen.md",
-    "Worter/Anleitung.md",
-    "Worter/dauern.md",
-    "Worter/suchen.md",
-    "Worter/gesucht.md",
-    "Worter/erkennen.md",
-    "Worter/Rhinozeros.md",
-    "Worter/vorlesen.md",
-    "Worter/lesen.md",
-    "Worter/aneinander.md",
-    "Worter/baut.md",
-    "Worter/dauernd.md",
-    "Worter/nachjagen.md",
-    "Worter/Albtraum.md",
-    "Worter/fast.md",
-    "Worter/Traum.md",
-    "Worter/leisen.md",
-    "Worter/messen.md",
-    "Worter/Bundeskanzlern.md",
-    "Worter/Bundeskanzlers.md",
-    "Worter/Bundeskanzler.md",
-    "Worter/kanzler.md",
+    "Texte/Der Struwwelpeter/bösen Friederich.md",
+    "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
+    "Texte/Der Struwwelpeter/Der Struwwelpeter b.md",
+    "Worter/Fullmetal.md",
+    "Worter/tödlich.md",
+    "Worter/tödlichstes.md",
+    "Worter/tödlichster.md",
+    "Worter/tödlichsten.md",
+    "Worter/tödlichstem.md",
+    "Worter/tödlichste.md",
+    "Worter/tödlicheres.md",
+    "Worter/tödlicherer.md",
+    "Worter/tödlicheren.md",
+    "Worter/tödlicherem.md",
+    "Worter/tödlicher.md",
+    "Worter/tödlichen.md",
+    "Worter/tödliches.md",
+    "Worter/tödliche.md",
+    "Worter/unschädlich.md",
+    "Worter/verhängnisvoll.md",
+    "Worter/mörderisch.md",
+    "Worter/gefährlich.md",
+    "Worter/lebensbedrohlich.md",
+    "Worter/fatal.md",
+    "Worter/lebendig.md",
+    "Anhänge/Pasted image 20240910200018.png",
+    "Anhänge/Pasted image 20240910194810.png",
+    "Anhänge/Pasted image 20240910194805.png",
+    "Anhänge/Pasted image 20240910194743.png",
+    "Anhänge/Pasted image 20240910194735.png",
+    "Anhänge/Pasted image 20240910194722.png",
+    "Anhänge/Pasted image 20240910180043.png",
+    "Anhänge/Pasted image 20240910174739.png",
+    "Anhänge/Pasted image 20240910174656.png",
+    "Anhänge/Pasted image 20240910174312.png",
+    "Lektionen/Logo/w1",
+    "Lektionen/Logo",
+    "Lektionen/Phonetik/Material",
+    "Lektionen/Phonetik",
     "Texte/Gedichte/Pop",
     "Texte/Gedichte/Folk",
-    "Anhänge/Pasted image 20240908093937.png",
-    "Anhänge/Pasted image 20240908093836.png",
     "Lektionen/Kamanova/Audio/L-02.mp3",
     "Lektionen/Kamanova/Audio/L-11.mp3",
     "Lektionen/Kamanova/Audio/L-10.mp3",
     "Lektionen/Kamanova/Audio/L-09.mp3",
-    "Lektionen/Kamanova/Audio/L-08.mp3",
-    "Lektionen/Kamanova/Audio/L-07.mp3",
-    "Lektionen/Kamanova/Audio/L-06.mp3",
-    "Lektionen/Kamanova/Audio/L-05.mp3",
-    "Anhänge/Pasted image 20240829080933.png",
-    "Anhänge/Pasted image 20240829080852.png",
-    "Anhänge/Pasted image 20240826114709.png",
-    "Anhänge/telegram-cloud-document-2-5337012686557302967.jpg",
-    "Anhänge/telegram-cloud-document-2-5346047493861823310.jpg",
-    "Anhänge/Pasted image 20240821160814.png",
-    "Anhänge/Pasted image 20240819124958.png",
-    "Anhänge/Pasted image 20240818092345.png",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

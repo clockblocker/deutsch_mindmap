@@ -12,4 +12,4 @@ Und höre [[nur]], wie bös er war:
 
 только 
 
-[[lacht ihr nur]]
+[[lacht ihr nur]], [[sonst]]

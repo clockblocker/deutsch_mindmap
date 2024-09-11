@@ -1,1 +1,1 @@
-[[seidig]], [[Spitze]]
+[[seidig]], [[Spitze]], [[Feinwäsche]]

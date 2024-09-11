@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[gesund]], [[gesunder]], [[gesunde]], [[gesundes]], [[gesunden]], [[gesundem]], [[gesunder]], [[gesunden]]
 [[gesünder]], [[gesünderer]], [[gesündere]], [[gesünderes]], [[gesünderen]], [[gesünderem]], [[gesünderer]], [[gesünderen]]
-[[gesündesten]], [[gesündester]], [[gesündeste]], [[gesündestes]], [[gesündesten]], [[gesündestes]], [[gesündester]], [[gesündesten]]
+[[gesündesten]], [[gesündester]], [[gesündeste]], [[gesündestes]], [[gesündesten]], [[gesündestes]], [[gesündester]], [[gesündesten]], [[tödlich]]

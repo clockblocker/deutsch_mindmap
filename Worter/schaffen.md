@@ -82,4 +82,4 @@ Konjunktiv II:
 - Wenn wir zusammenarbeiten würden, [[schafften]] wir es schneller.
 - Wenn ihr euch bemüht, [[schafftet]] ihr es.
 - Wenn sie Unterstützung hätten, [[schafften]] sie alles.
-```​⬤
+```​⬤, [[machen]]

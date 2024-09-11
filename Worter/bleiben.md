@@ -6,6 +6,8 @@ sein [[geblieben]]
 Ich bin klein [[gewesen]]
 Ich bin schon [[geblieben]]
 
+Also [[bleibt dran]], hier ist die nächste Folge von Extra.  
+
 ---
 
 Synonyme:

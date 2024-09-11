@@ -1,1 +1,1 @@
-[[abholen]][[holen]]
+[[abholen]][[holen]], [[kriegen]]

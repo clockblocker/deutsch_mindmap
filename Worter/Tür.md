@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tür]], [[Tüe]], [[Türen]], [[Türen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Innentür]], [[Außentür]]

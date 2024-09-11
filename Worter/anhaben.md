@@ -4,7 +4,7 @@ haben [[angehabt]]
 
 ---
 - Und [[niemand]] darf etwas Oranges anhaben.  
-- 
+- Nic! [anhaben|[Hast]] du meine [[Strumpfhose]] an?
 
 ---
 Synonyme: [[tragen]], [[aufhaben]], [[umhaben]], [[bedecken]], [[bekleiden]]

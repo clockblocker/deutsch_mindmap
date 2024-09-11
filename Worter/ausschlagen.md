@@ -1,1 +1,1 @@
-[[Übernehmen]]
+[[Übernehmen]], [[bewerben]]

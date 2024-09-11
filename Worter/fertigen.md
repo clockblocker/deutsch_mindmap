@@ -1,1 +1,1 @@
-[[Fertig]], [[bauen]]
+[[Fertig]], [[bauen]], [[machen]]
