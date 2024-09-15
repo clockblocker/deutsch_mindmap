@@ -61,4 +61,4 @@ to receive, to get
 ---
 
 **Morphems of only infinitive:**  
-- [[be]][[komm]][[en]][[holen]][[verloren]][[verlieren]]
+- [[be]][[komm]][[en]][[holen]][[verloren]][[verlieren]], [[nehm]]

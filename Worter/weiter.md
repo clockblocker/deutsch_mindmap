@@ -16,4 +16,4 @@ Synonyme:
 **Übersetzung**: further, continue, go on
 
 ---
-#Adverb
+#Adverb, [[weit]]

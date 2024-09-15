@@ -19,4 +19,4 @@ Morphems:
 [[Küche]]n[[Fenster]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[11 08]]

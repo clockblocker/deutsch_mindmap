@@ -7,6 +7,9 @@ Beispiele:
 - Die [[Vögel]] fliegen in den Süden.
 - Ich habe einen [[Vogel]] auf dem Baum gesehen.
 
+*Die späten [[Vögel]] singen*  
+*Und die Schwester schreit*
+
 ---
 Synonyme:
 - [[Geflügel]], [[Piepmatz]], [[Flügeltier]]

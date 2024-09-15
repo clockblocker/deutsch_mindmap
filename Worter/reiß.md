@@ -1,0 +1,1 @@
+, [[reißen]], [[anreißen]], [[ausreißen]], [[abreißen]]

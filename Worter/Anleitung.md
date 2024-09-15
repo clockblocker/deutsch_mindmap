@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Anleitung]], [[Anleitung]], [[Anleitungen]], [[Anleitungen]]
 
 ---
-#Substantiv #Maskulin, [[vorlesen]], [[Extra 8]]
+#Substantiv #Maskulin, [[vorlesen]], [[Extra 8]], [[erst]]

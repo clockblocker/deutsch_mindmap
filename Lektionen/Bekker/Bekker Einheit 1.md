@@ -29,7 +29,7 @@
 6. [[Neun]], [[neu]], [[Freund]], [[freundlich]], [[Eule]].
 7. [[Zehn]], [[lahm]], [[Kahn]], [[sehen]], [[drehen]].
 8. [[Zwölf]], [[Öl]], [[Wörter]], [[böse]], [[schön]].
-9. [[Sechzehn]], [[möchten]], [[Löcher]], [[Licht]].
+9. [[Sechzehn]], [[möchten]], [[Löcher]], [[licht]].
 10. [[Zwanzig]], [[wichtig]], [[richtig]].
 11. [[Bär]], [[Märchen]], [[Mädchen]], [[Käse]], [[März]].
 

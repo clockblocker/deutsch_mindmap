@@ -1,5 +1,8 @@
 Ich habe auch gar nichts [[gegen]] den Durst deines Einbrechers, aber ich habe [[etwas]] [[dagegen]]
 
+*Mann [[gegen]] Mann*  
+*Meine Haut gehört den Herren*  
+
 ---
 
 Synonyme:
@@ -26,3 +29,4 @@ Tags:
 Morphems:
 [[gegen]]
 
+, [[11 08]]

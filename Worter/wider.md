@@ -18,3 +18,4 @@ Morpheme:
 #Adverb [[wider]]
 
 [[widerstehen]]
+, [[dagegen]]

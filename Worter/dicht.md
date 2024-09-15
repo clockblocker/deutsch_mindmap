@@ -1,1 +1,1 @@
-, [[locker]]
+, [[locker]], [[licht]]

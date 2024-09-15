@@ -29,4 +29,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[andere]], [[anderer]], [[anderes]], [[anderen]], [[anderem]]
 [[anderer]], [[anderer]], [[anderes]], [[anderen]], [[anderem]]
-[[anderen]], [[anderen]], [[andere]], [[andere]], [[anderen]][[anders]]
+[[anderen]], [[anderen]], [[andere]], [[andere]], [[anderen]][[anders]], [[zweit]]

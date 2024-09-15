@@ -27,4 +27,4 @@ Tags:
 
 ---
 Morphems:
-[[sogar]]
+[[sogar]], [[11 08]]

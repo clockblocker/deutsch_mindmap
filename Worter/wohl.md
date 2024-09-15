@@ -20,4 +20,4 @@ Morpheme:
 [[wohl]]
 
 ---
-#Adverb
+#Adverb, [[11 08]]

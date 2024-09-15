@@ -1,1 +1,1 @@
-[[übergeben]], [[zugeben]]
+[[übergeben]], [[zugeben]], [[Verlangen]], [[frönen]]

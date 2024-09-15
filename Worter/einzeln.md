@@ -1,1 +1,1 @@
-[[Alle]][[beide]], [[einzelnen]], [[aneinander]]
+[[Alle]][[beide]], [[einzelnen]], [[aneinander]], [[zu zweit]]

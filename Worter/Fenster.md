@@ -3,9 +3,8 @@ die [[Fenster]]
 
 Beispiele:
 
-- Das [[Fenster]] ist offen.
-- Ich habe das [[Fenster]] geschlossen.
-- Die [[Fenster]] im Haus sind groß.
+Wenn Schwesterlein der Arbeit frönt*  
+*Das Licht im [[Fenster]] rot
 
 ---
 Synonyme:
@@ -19,4 +18,4 @@ Morphems:
 [[Fenst]][[er]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[frönen]]

@@ -1,1 +1,1 @@
-[[andere]][[anders]], [[derselben]], [[verschiedene]]
+[[andere]][[anders]], [[derselben]], [[verschiedene]], [[gleich]]

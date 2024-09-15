@@ -33,4 +33,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[sicher]], [[sichere]], [[sicheres]], [[sicheren]], [[sicherem]], [[sicherer]], [[sicheren]]
 [[sicherer]], [[sichrerer]], [[sichrere]], [[sichreres]], [[sichreren]], [[sichrrerem]], [[sichrerer]], [[sichreren]]
-[[sichersten]], [[sicherster]], [[sicherste]], [[sicherstes]], [[sichersten]], [[sicherstem]], [[sicherster]], [[sichersten]], [[Extra 8]], [[tödlich]]
+[[sichersten]], [[sicherster]], [[sicherste]], [[sicherstes]], [[sichersten]], [[sicherstem]], [[sicherster]], [[sichersten]], [[Extra 8]], [[tödlich]], [[fest]], [[verirrt]], [[11 08]], [[gefährlich]]

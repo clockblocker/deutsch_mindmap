@@ -5,6 +5,9 @@ haben [[geschienen]]
 ---
  [[von]] Schmuck [[scheint]] er nicht viel zu verstehen.
 
+*Mich interessiert kein Gleichgewicht*  
+*Mir scheint die Sonne ins Gesicht*  
+
 ---
 
 Synonyme:

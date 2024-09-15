@@ -4,4 +4,4 @@ die [[Bücher]]
 [[Bücherei]]
 
 #Neuter 
-#Substantiv 
+#Substantiv , [[Buchstabe]]

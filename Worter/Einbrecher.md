@@ -17,4 +17,4 @@ Morphems:
 [[ein]][[Brecher]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[11 08]]

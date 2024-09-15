@@ -73,4 +73,4 @@ Konjunktiv II:
 - Wenn er es gesehen hätte, [[machte zu|machte]] er das Buch [[zu]].
 - Wenn wir rechtzeitig da wären, [[machten zu|machten]] wir die Kiste [[zu]].
 - Wenn ihr es wüsstet, [[machtet zu|machtet]] ihr die Tasche [[zu]].
-- Wenn sie die Zeit hätten, [[machten zu|machten]] sie das Tor [[zu]].
+- Wenn sie die Zeit hätten, [[machten zu|machten]] sie das Tor [[zu]]., [[11 08]]

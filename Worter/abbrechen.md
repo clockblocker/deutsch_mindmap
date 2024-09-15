@@ -1,1 +1,1 @@
-[[bestehen]], [[anfangen]], [[dauern]], [[aufbauen]], [[machen]]
+[[bestehen]], [[anfangen]], [[dauern]], [[aufbauen]], [[machen]], [[abreißen]]

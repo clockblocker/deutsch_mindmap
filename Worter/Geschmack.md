@@ -18,4 +18,4 @@ Morphems:
 [[Gesch]][[mack]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[11 08]]

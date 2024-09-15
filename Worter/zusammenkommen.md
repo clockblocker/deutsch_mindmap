@@ -1,1 +1,1 @@
-[[scheiden]][[wiedersehen]]
+[[scheiden]][[wiedersehen]], [[gesellen]]

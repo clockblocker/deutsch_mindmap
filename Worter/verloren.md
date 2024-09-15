@@ -6,6 +6,9 @@ MARIA: Prima! Aber die haben mein Gepäck [[verloren]]!
 
 Jeder Tag, an dem du nicht lächelst, ist ein [[verlorener]] Tag 
 
+*Wenn sich an mir ein Weib [[verirrt]]*  
+*Dann ist die helle Welt verwirrt*  
+
 
 ---
 Synonyme: [[weg]], [[verschollen]], [[vermisst]], [[abhanden gekommen]], [[unauffindbar]]
@@ -30,4 +33,4 @@ Einzigartige mögliche Formen:
 [[verlorenere]], [[verloreneres]], [[verlorenerer]], [[verloreneren]], [[verlorenerem]]
 [[verlorensten]], [[verlorenste]], [[verlorstes]], [[verlorenster]], [[verlorensten]], [[verlorenstem]]
 
-[[prima]]
+[[prima]], [[verirrt]]

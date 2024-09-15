@@ -16,4 +16,4 @@ Morphems:
 [[Reise]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[11 08]]

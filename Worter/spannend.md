@@ -54,4 +54,4 @@ Tags:
 **Morphems of infinitive:**
 - [[spann]][[end]]
 
----
+---, [[spannen]]

@@ -74,3 +74,4 @@ Konjunktiv II:
 - Wenn wir nicht sicher wären, [[sähen nach|sähen]] wir in den Plänen [[Worter/nach]].
 - Wenn ihr Zweifel hättet, [[sähet nach|sähet]] ihr den Kindern [[Worter/nach]].
 - Wenn sie nicht sicher wären, [[sähen nach|sähen]] sie der Sache [[Worter/nach]].
+, [[11 08]]

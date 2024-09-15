@@ -1,1 +1,1 @@
-[[überhaupt]]
+[[überhaupt]], [[weit]], [[beschränken]]

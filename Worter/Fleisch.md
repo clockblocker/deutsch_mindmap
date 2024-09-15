@@ -22,4 +22,4 @@ Morphems:
 [[Fleisch]]
 
 ---
-#Substantiv #Neuter[[Braten]]
+#Substantiv #Neuter[[Braten]], [[Haut]]

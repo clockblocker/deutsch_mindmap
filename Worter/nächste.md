@@ -46,4 +46,4 @@ next, nearest
 Tags: 
 #Adjective [[nächste]]
 
-nicht [[letzte]]
+nicht [[letzte]], [[zweit]]

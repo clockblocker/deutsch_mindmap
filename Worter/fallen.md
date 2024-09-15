@@ -1,9 +1,12 @@
-🟨 [[fallen]], [ˈfalənfallen]
+🟨 [[fallen]] von dem, [ˈfalənfallen]
 [[fiel]]
 sein [[gefallen]]
 
 ---
 so [[fallen]] die Bücher doch runter …  
+
+*Sie müssen sich an Sterne krallen, (ganz fest)*  
+*damit sie nicht vom Himmel [[fallen]].*
 
 ---
 Synonyme: [[stürzen]], [[abstürzen]], [[niedersinken]], [[abstürzen]], [[herunterfallen]]

@@ -1,1 +1,1 @@
-, [[bedienen]]
+, [[bedienen]], [[bemannt]]

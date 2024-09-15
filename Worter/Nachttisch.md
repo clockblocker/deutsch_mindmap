@@ -20,4 +20,4 @@ Morphems:
 [[Nacht]][[Tisch]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[11 08]]

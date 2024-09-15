@@ -1,66 +1,45 @@
-✂️ [[reißen]]
+🔪  [[reißen]]
 [[riss]]
 haben [[gerissen]]
 
 ---
 - Hab' es aus meiner Brust [[gerissen]]
-- Er fing die Fliegen in dem Haus  
-  und [[riss|riß]] ihnen die Flügel aus.  
+ 
+*Er fing die Fliegen in dem Haus*  
+*und [[ausreißen|riß]] ihnen die Flügel aus.*  
+
+*Und dann [[reißen|reiß]] ich der Puppe den Kopf ab*  
+*Dann [[abreißen|reiß]] ich der Puppe den Kopf ab*  
+
+---
+[[ausreißen]] - [[aus]] = [[reißen]]
+[[anreißen]] - [[an]] = [[reißen]]
+[[abreißen]] - [[ab]] = [[reißen]]
+
+
+
+
+---
+Synonyme: [[zerreißen]], [[zerfetzen]], [[zerschneiden]], [[aufreißen]], [[zerstören]]
+Antonyme: [[zusammenfügen]], [[kitten]], [[zusammensetzen]], [[verbinden]], [[befestigen]]
+
+---
+Übersetzung: to tear, to rip
+
+---
+Morpheme: [[reiß]][[en]]
+ #Verb #Untrennbar
 
 ---
 
-Synonyme:
-- [[zerreißen]], [[brechen]], [[durchtrennen]]
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[reiße]] | [[riss]] | - | [[reiße]] | [[risse]] |
+| Du | [[reißt]] | [[rissest]] | [[reiß]] | [[reißest]] | [[rissest]] |
+| Er/sie/es | [[reißt]] | [[riss]] | - | [[reiße]] | [[risse]] |
+| Wir | [[reißen]] | [[rissen]] | - | [[reißen]] | [[rissen]] |
+| Ihr | [[reißt]] | [[risset]] | [[reißt]] | [[reißet]] | [[risset]] |
+| Sie | [[reißen]] | [[rissen]] | [[reißen Sie]] | [[reißen]] | [[rissen]] |
 
----
+Partizip I: [[reißend]], Partizip II: [[gerissen]]
 
-Beispiele:
-
-- Ich [[reiße]] das Papier in zwei Teile.
-- Du [[reißt]] den Brief auf.
-- Er [[reißt]] das Seil durch.
-- Wir [[reißen]] das alte Gebäude ab.
-- Ihr [[reißt]] die Seite aus dem Buch.
-- Sie [[reißen]] die Verpackung auf.
-
----
-**Übersetzung**: to tear, to rip
-
----
-
-Morphems of only infinitive:
-[[reiß]][[en]]
-
----
-Tags:
-#Verb #Unregelmäßige
-
----
-
-Präteritum:
-
-- Ich [[riss]] das Papier in zwei Teile.
-- Du [[rissest]] den Brief auf.
-- Er [[riss]] das Seil durch.
-- Wir [[rissen]] das alte Gebäude ab.
-- Ihr [[risst]] die Seite aus dem Buch.
-- Sie [[rissen]] die Verpackung auf.
-
----
-
-Imperativ:
-
-- [[reiße]] das Papier in Stücke!
-- [[reißt]] den Brief auf!
-- [[Reißen wir]] die Mauer ein!
-- [[Reißen Sie]] das Paket auf!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[reiße]] das Papier in zwei Teile.
-- Sie meint, du [[reißest]] die Verpackung auf.
-- Er behauptet, er [[reiße]] das Seil durch.
-- Wir erklären, wir [[reißen]] das Gebäude ab.
-- Ihr sagt,​⬤[[ziehen]]

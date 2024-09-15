@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er gelassener wäre, [[ärgerte]] er sich nicht so sehr.
 - Wenn wir entspannt wären, [[ärgerten]] wir uns nicht.
 - Wenn ihr weniger stressig wäret, [[ärgertet]] ihr euch nicht.
-- Wenn sie es ignorieren könnten, [[ärgerten]] sie sich nicht.
+- Wenn sie es ignorieren könnten, [[ärgerten]] sie sich nicht., [[11 08]]

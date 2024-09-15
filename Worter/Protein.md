@@ -1,1 +1,1 @@
-[[Eiweiß]]
+[[Eiweiß]], [[Fleisch]]

@@ -19,4 +19,4 @@ Synonyme:
 
 ---
 
-#Adverb
+#Adverb, [[erst]]

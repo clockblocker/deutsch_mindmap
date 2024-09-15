@@ -1,1 +1,1 @@
-✂️[[ausrissen]]
+✂️[[ausrissen]], [[ausreißen]]

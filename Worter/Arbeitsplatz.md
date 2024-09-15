@@ -19,4 +19,4 @@ Morphems:
 [[Arbeits]][[Platz]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Schaffensplatz]]

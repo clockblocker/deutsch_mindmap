@@ -16,4 +16,4 @@ Synonyme:
 
 ---
 
-#Adverb
+#Adverb, [[erst]]

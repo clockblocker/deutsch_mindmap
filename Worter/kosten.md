@@ -5,7 +5,7 @@ haben [[gekostet]]
 ---
 
 Synonyme:
-- [[verlangen]], [[brechen]], [[preislich sein]]
+- [[Verlangen]], [[brechen]], [[preislich sein]]
 
 ---
 

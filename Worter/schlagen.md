@@ -9,7 +9,10 @@ haben [[geschlagen]]
 *und [[schlug]] den Hund, der heulte sehr,*  
 *und trat und schlug ihn immer mehr.*
 
-NIC: Herr Scott, Beine übereinander [[schlagen]].  
+NIC: Herr Scott, Beine übereinander [[schlagen]]. 
+
+*Ich sehe zu durchs  Schlüsselloch*  
+*Und einer [[schlug]] sie tot*
 
 ---
 

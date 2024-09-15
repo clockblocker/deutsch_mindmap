@@ -3,4 +3,4 @@
 Möchten Sie hier sitzen? ... oder [[Da]]?  
 
 
-там[[Dazu]]
+там[[Dazu]], [[dagegen]]

@@ -8,6 +8,9 @@ SASCHA: Du musst Designer- Klamotten [[tragen]]…
 Jedoch nach Hause lief der Hund  
 und [[trug]] die Peitsche in dem Mund
 
+*[[Trag]]' ich den kleinen Prinz im Sinn*  
+*Ein König ohne Königin*
+
 ---
 
 **Synonyme:**

@@ -29,3 +29,4 @@ Tags:
 Morphems:
 [[Da]][[zu]] 
  
+, [[11 08]]

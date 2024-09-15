@@ -2,4 +2,4 @@ SASCHA: Und er ist [[höflich]] …
 
 
 polite
-, [[unhöflich]], [[nett]], [[frech]]
+, [[unhöflich]], [[nett]], [[frech]], [[artig]]

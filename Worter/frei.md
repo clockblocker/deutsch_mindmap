@@ -12,4 +12,4 @@ ANNA: Du hast doch ein [[freies]] Zimmer! Bitte.
 
 ---
 
-#Adjektiv[[abgepackt]][[freimachen]], [[leer]], [[machen]]
+#Adjektiv[[abgepackt]][[freimachen]], [[leer]], [[machen]], [[verwirrt]]

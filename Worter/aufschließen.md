@@ -71,4 +71,4 @@ Konjunktiv II:
 - Wenn ich den Schlüssel hätte, [[schlösse auf|schlösse]] ich die Tür [[Worter/Konjunktion/Positionen/auf]].
 - Wenn du aufpassen würdest, [[schlösset auf|schlösset]] du das Auto [[Worter/Konjunktion/Positionen/auf]].
 - Wenn er sich erinnern könnte, [[schlösse auf|schlösse]] er das Schloss [[Worter/Konjunktion/Positionen/auf]].
-- Wenn wir es eilig hätten, [[schlö​⬤
+- Wenn wir es eilig hätten, [[schlö​⬤, [[11 08]]

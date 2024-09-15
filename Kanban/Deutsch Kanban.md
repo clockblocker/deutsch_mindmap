@@ -14,12 +14,15 @@ kanban-plugin: board
 
 ## In progress
 
-- [ ] [[Engel]]
 - [ ] [[Fullmetal]]
+- [ ] [[Puppe]]
 
 
 ## Done
 
+- [ ] [[Feuer frei!]]
+- [ ] [[Mann Gegen Mann]]
+- [ ] [[Engel]]
 - [ ] [[Extra 9]]
 - [ ] [[Deutschland]]
 - [ ] [[Extra 8]]
@@ -33,11 +36,8 @@ kanban-plugin: board
 
 ## Rammstein
 
-- [ ] [[Feuer frei!]]
 - [ ] [[Sonne]]
 - [ ] [[Haifisch]]
-- [ ] [[Mann Gegen Mann]]
-- [ ] [[Puppe]]
 - [ ] [[Zeig dich]]
 - [ ] [[Du riechst so gut]]
 

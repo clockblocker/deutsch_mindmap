@@ -20,4 +20,4 @@ Morphems:
 [[Pelz]][[mantel]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[11 08]]

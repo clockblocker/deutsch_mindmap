@@ -4,88 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53b8598bdfeeb9b7",
+        "id": "08758f1cc577154f",
         "type": "tabs",
         "children": [
           {
-            "id": "8d06cc25a7b0cded",
+            "id": "ef97f0c58d71d3dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Engel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ef95387efddd079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/bewerben.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39b05ca77ad4bfef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/vertrauen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f91885719b24131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/sprechen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c3a2ca322cacf09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Mach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf0911d9cb431d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/machen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ad37e3961623fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ich mach mir Sorgen.md",
+                "file": "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anstatt",
+                "query": "rede keine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Engel.md",
+                "file": "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Engel.md",
+                "file": "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Gedichte/Rammstein/Engel.md"
+                "file": "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md"
               }
             }
           }
@@ -225,34 +153,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8d06cc25a7b0cded",
+  "active": "ef97f0c58d71d3dd",
   "lastOpenFiles": [
-    "Kanban/Deutsch Kanban.md",
-    "Texte/Der Struwwelpeter/bösen Friederich.md",
-    "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
     "Texte/Der Struwwelpeter/Der Struwwelpeter b.md",
-    "Worter/Fullmetal.md",
-    "Worter/tödlich.md",
-    "Worter/tödlichstes.md",
-    "Worter/tödlichster.md",
-    "Worter/tödlichsten.md",
-    "Worter/tödlichstem.md",
-    "Worter/tödlichste.md",
-    "Worter/tödlicheres.md",
-    "Worter/tödlicherer.md",
-    "Worter/tödlicheren.md",
-    "Worter/tödlicherem.md",
-    "Worter/tödlicher.md",
-    "Worter/tödlichen.md",
-    "Worter/tödliches.md",
-    "Worter/tödliche.md",
-    "Worter/unschädlich.md",
-    "Worter/verhängnisvoll.md",
-    "Worter/mörderisch.md",
-    "Worter/gefährlich.md",
-    "Worter/lebensbedrohlich.md",
-    "Worter/fatal.md",
-    "Worter/lebendig.md",
+    "Worter/Getadelt.md",
+    "Worter/schimpfen.md",
+    "Worter/heiß.md",
+    "Worter/Schrei.md",
+    "Worter/schoss.md",
+    "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
+    "Worter/sprang.md",
+    "Worter/springen.md",
+    "Worter/springend.md",
+    "Worter/spränget.md",
+    "Worter/sprången.md",
+    "Worter/sprängest.md",
+    "Worter/springst.md",
+    "Worter/stehenbleiben.md",
+    "Worter/kullern.md",
+    "Worter/sprudeln.md",
+    "Worter/hopsen.md",
+    "Worter/sprängt.md",
+    "Worter/sprängen.md",
+    "Worter/sprängst.md",
+    "Worter/spränge.md",
+    "Worter/springet.md",
+    "Worter/springest.md",
+    "Worter/springe.md",
+    "Worter/Springen Sie.md",
     "Anhänge/Pasted image 20240910200018.png",
     "Anhänge/Pasted image 20240910194810.png",
     "Anhänge/Pasted image 20240910194805.png",

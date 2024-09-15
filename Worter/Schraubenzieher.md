@@ -20,4 +20,4 @@ Morphems:
 [[Schrauben]][[zieher]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[11 08]]

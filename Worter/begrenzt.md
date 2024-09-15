@@ -1,1 +1,1 @@
-, [[breit]], [[völlig]]
+, [[breit]], [[völlig]], [[weit]]

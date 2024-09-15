@@ -26,4 +26,4 @@ Tags:
 ---
 
 Morphems:
-[[eigent]][[lich]], [[Extra 8]]
+[[eigent]][[lich]], [[Extra 8]], [[erst]]

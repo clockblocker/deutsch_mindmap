@@ -1,1 +1,1 @@
-[[lachen]]
+[[lachen]], [[anlachen]]

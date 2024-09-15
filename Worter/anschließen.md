@@ -5,7 +5,7 @@ haben [[angeschlossen]]
 ---
 Sie dachte: „Ich sollte mich einem starken und mächtigen Tier [[an]][[schließen]]
 
-Waschmaschine an die [[Steckdose]] [[anschließen]] oder:
+Waschmaschine an die [[Steckdose]] [[anschließen]] oder
 
 
 ---

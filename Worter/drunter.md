@@ -27,4 +27,4 @@ Tags:
 ---
 
 Morphems:
-[[drunter]] ([[Da]][[runter]])
+[[drunter]] ([[Da]][[runter]]), [[11 08]]

@@ -5,6 +5,8 @@ haben [[gefehlt]]
 ---
 Ach - Maria, du wirst mir [[fehlen]].  
 
+*In meiner Kette [[fehlt]] kein Glied*  
+*Wenn die Lust von hinten zieht*  
 
 ---
 Synonyme: [[mangeln]], [[vermissen]], [[abgehen]], [[nicht vorhanden sein]], [[ausbleiben]]

@@ -1,1 +1,1 @@
-[[vereint]], [[einzelnen]], [[aneinander]]
+[[vereint]], [[einzelnen]], [[aneinander]], [[zu zweit]]

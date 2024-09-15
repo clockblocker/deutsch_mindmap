@@ -20,4 +20,4 @@ Morphems:
 [[Perl]][[en]][[kette]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[11 08]]

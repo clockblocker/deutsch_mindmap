@@ -27,4 +27,4 @@ Tags:
 ---
 
 Morphems:
-[[drüber]] ([[Da]][[rüber]])
+[[drüber]] ([[Da]][[rüber]]), [[11 08]]

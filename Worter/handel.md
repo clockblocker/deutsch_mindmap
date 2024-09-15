@@ -1,11 +1,10 @@
-[[behandeln]]
 
 🔵 der [[Handel]], [ˈhandl̩]
 die [[Handel]]
 
 
 ---
-
+[[Handelsspanne]]
 
 ---
 Synonyme:
@@ -22,4 +21,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Handels]], [[Handel]], [[Händler]], [[Händlern]]
 
 ---
-#Substantiv #Maskulin[[handeln]]
+
+#Substantiv #Maskulin[[handeln]], [[verhandelen]], [[Verhandlung]], [[behandeln]]

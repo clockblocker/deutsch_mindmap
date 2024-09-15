@@ -17,4 +17,4 @@ Morphems:
 [[Schmuck]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[11 08]]

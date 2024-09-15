@@ -1,1 +1,1 @@
-[[Mond]]
+[[Mond]], [[Stern]]

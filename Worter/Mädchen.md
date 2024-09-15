@@ -1,1 +1,1 @@
-[[Fräulein]]
+[[Fräulein]], [[Weib]]

@@ -1,4 +1,4 @@
-🥏 [[werfen]] + Akk, [ˈvɛɐ̯fn̩]
+🥏 [[werfen]] mich auf + Akk, [ˈvɛɐ̯fn̩]
 [[warf]]  
 haben [[geworfen]]
 
@@ -6,6 +6,12 @@ haben [[geworfen]]
 - Sag die Farbe nicht - zieh es aus und [[wirf]] es hinaus!  
 
 ANNA: Und die Türe nicht zu … [[werfen]] …  
+
+*[[Warf]] mich auf einen warmen Stern*  
+*Der Haut so nah, dem Auge fern*  
+
+*Ich [[werf]] ein Licht in mein Gesicht*  
+*Ein heißer Schrei, Feuer frei!*  
 
 ---
 Synonyme: [[schleudern]], [[schmeißen]], [[stoßen]], [[abwerfen]], [[loslassen]]

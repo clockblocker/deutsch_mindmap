@@ -3,8 +3,11 @@
 sein [[untergegangen]]
 
 ---
-- (Ich will) in [[Beifall]] [[untergehen]]  
-- 
+ *(Ich will) in [[Beifall]] [[untergehen]]*  
+
+*Und [[warte]] hier im [[Daunenbeet]]*  
+*Bis die Sonne [[untergeht]]*
+
 
 ---
 Synonyme: [[versinken]], [[untergehen]], [[verschwinden]], [[enden]], [[zu Grunde gehen]]

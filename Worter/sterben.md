@@ -7,6 +7,9 @@ sein [[gestorben]]
 - [[Sterben]], schlafen und sonst nichts.  
 - Und [[deshalb]] ermordet Hamlet die Mutter und den Onkel … und dann stirbt er.
 
+*Wo das süße Wasser [[stirbt]]*  
+*Weil es sich im Salz verdirbt*  
+
 ---
 Synonyme: [[verscheiden]], [[ableben]], [[entschlafen]], [[verenden]], [[versterben]]
 Antonyme: [[leben]], [[weiterleben]], [[wiederaufleben]]

@@ -18,4 +18,4 @@ Morphems:
 [[durch]][[ein]][[ander]] [[einander]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[11 08]]

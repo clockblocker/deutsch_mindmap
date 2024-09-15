@@ -3,3 +3,7 @@
 3. [[wichtige]] – This sounds like “wichtige,” which means “important.”
 
 4. [[tödlich]] – This is likely “tödlich,” which means “deadly.”
+
+jlsdjlfdsklj; [[frönten]] dadadfs
+
+

@@ -20,4 +20,4 @@ Morphems:
 [[um]][[schlag]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[11 08]]

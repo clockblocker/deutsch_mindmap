@@ -35,4 +35,4 @@ Morpheme: [[auf]][[bau]][[en]]
 Partizip I: [[aufbauend]], Partizip II: [[aufgebaut]]
 
 [[aufbauen]] - [[auf]] = [[bauen]]
-, [[Extra 8]]
+, [[Extra 8]], [[abreißen]]

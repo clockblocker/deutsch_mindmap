@@ -2,13 +2,10 @@
 
 nicht [[vorne]]
 
-Beispiele:
+---
+*In meiner Kette fehlt kein Glied*  
+*Wenn die Lust von [[hinten]] zieht*  
 
-- Ich sitze ganz [[hinten]] im Klassenzimmer.
-- Das Auto ist [[hinten]] beschädigt.
-- Bitte stellen Sie sich [[hinten]] an.
-- Der Eingang ist [[hinten]].
-- Er lief bis nach ganz [[hinten]].
 
 ---
 Synonyme:

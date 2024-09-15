@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=A5VROJt4Abs
 
 _Paulinchen_ war allein zu Haus,  
 die Eltern waren beide aus.  
-Als sie nun durch das Zimmer sprang  
+Als sie nun durch das Zimmer [[sprang]]  
 mit leichtem Mut und Sing und Sang,  
 da sah sie plötzlich vor sich stehn  
 ein Feuerzeug, nett anzusehn.  

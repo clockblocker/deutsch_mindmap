@@ -6,6 +6,9 @@ haben [[gezogen]]
 - SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?\
 - Also [[ziehen]] Sie Ihre Strandkleider an!
 
+*Am Himmel dunkle [[Wolke]]n [[ziehen]]*  
+*Ich nehme artig meine Medizin*  
+
 ---
 + + [[weiter]] = [[weiterziehen]]
 - + [[um]] = [[umziehen]] 
@@ -34,4 +37,4 @@ Morpheme: [[zieh]][[en]]
 | Sie | [[ziehen]] | [[zogen]] | [[ziehen Sie]] | [[ziehen]] | [[zögen]] |
 
 Partizip I: [[ziehend]], Partizip II: [[gezogen]]
-, [[festziehen]], [[herausziehen]], [[umziehen]]
+, [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]]

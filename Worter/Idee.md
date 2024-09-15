@@ -22,4 +22,4 @@ Alle Formen:
 | Nominative  | die Idee          | die Ideen         |
 | Accusative  | die Idee          | die Ideen         |
 | Dative      | der Idee          | den Ideen         |
-| Genitive    | der Idee          | der Ideen         |
+| Genitive    | der Idee          | der Ideen         |, [[Sinn]]

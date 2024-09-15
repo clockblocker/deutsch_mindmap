@@ -1,1 +1,1 @@
-, [[Minderheit]]
+, [[Minderheit]], [[Gesellschaft]]

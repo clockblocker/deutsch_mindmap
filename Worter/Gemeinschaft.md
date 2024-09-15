@@ -1,1 +1,1 @@
-, [[Verein]]
+, [[Verein]], [[Gesellschaft]]

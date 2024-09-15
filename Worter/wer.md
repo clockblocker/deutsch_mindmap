@@ -5,6 +5,9 @@ SASCHA: [[wer]] war das?
 [[wer]] ist S?  
 [[wer]] bin ich denn? Deine Sekretärin?  
 
+*[[Wer]] zu Lebzeit' gut auf Erden,*  
+
+
 
 
 [[Pronomen]]

@@ -10,6 +10,9 @@ Sie [[warten]], bis der Mond erwacht
 
 Alle [[warten]] auf das Licht
 
+*Und [[warte]] hier im Daunenbeet*  
+*Bis die Sonne untergeht*
+
 
 
 ---

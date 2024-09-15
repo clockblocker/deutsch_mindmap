@@ -29,4 +29,4 @@ Morpheme: [[lieg]][[en]]
 
 Partizip I: [[liegend]], Partizip II: [[gelegen]]
 
-[[liegen]] - no prefix
+[[liegen]] - no prefix, [[springen]]

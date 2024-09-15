@@ -1,1 +1,1 @@
-#Adjective [[Groß]]
+#Adjective [[Groß]], [[11 08]]

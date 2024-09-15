@@ -7,6 +7,9 @@ ANNA: Das ist ein Albtraum!
 
 Sam, dein [[Traum]] ist mein [[Albtraum]] 
 
+*Mein Geschlecht schimpft mich Verräter*  
+*Ich bin der [[Albtraum]] aller Väter*  
+
 
 ---
 Synonyme:

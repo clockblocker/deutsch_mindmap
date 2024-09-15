@@ -1,28 +1,30 @@
+🟡 [[Damit]], [daˈmɪt]
+
+---
 [[Damit]] hat er die [[Schränke]] [[aufgemacht]]
+
 ANNA: Was meinst du [[Damit]]? Zu viel Werbung …  
-Zuerst, [[damit]] ich es nicht vergesse
 
+[[Zuerst]], [[damit]] ich es nicht vergesse
 
-Synonyme:
-- [[hiermit]], [[Dazu]], [[mit dem]]
-
----
-
-Beispiele:
-
-- [[Damit]] hat er das Problem gelöst.
-- Sie hat [[Damit]] den Kuchen gebacken.
-- Was machst du [[Damit]]?
+*Sie müssen sich an Sterne krallen, (ganz fest)*  
+*[[damit]] sie nicht vom Himmel fallen.
 
 ---
-**Übersetzung**: with that, using that
+Synonyme: [[dadurch]], [[deswegen]], [[aus diesem Grund]], [[infolgedessen]]
+Antonyme: [[dagegen]], [[andererseits]], [[stattdessen]]
 
 ---
+Übersetzung: with it, thereby, thus, for that reason
 
-Tags:
+---
+Morpheme:
+[[da]][[mit]]
+
+---
 #Adverb
 
 ---
-
-Morphems:
-[[Da]][[mit]]
+Einzigartige mögliche Formen: 
+[[Damit]]
+, [[11 08]]

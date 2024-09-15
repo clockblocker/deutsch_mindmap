@@ -1,1 +1,1 @@
-, [[einhängen]]
+, [[einhängen]], [[springen]]

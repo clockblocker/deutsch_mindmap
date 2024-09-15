@@ -24,4 +24,4 @@ Tags:
 ---
 
 Morphems:
-[[end]][[lich]]
+[[end]][[lich]], [[erst]]

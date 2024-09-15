@@ -1,49 +1,32 @@
-[[erst]]
-[[erster]]
-[[am]] [[ersten]]
+🟢 [[erst]], [ʔɛ(ː)ʁst]
 
 ---
 SASCHA: … und ich [[erst]] … mir geht’s noch schlechter ...
-man muss immer [[erst]] die Anleitung lesen.  
+man muss immer [[erst]] die [[Anleitung]] lesen.  
+
+*[[Erst]] wenn die Wolken schlafen gehen,*  
+*kann man uns am Himmel sehen.*  
+
+---
+Synonyme: 
+- [[zuerst]], [[anfangs]], [[zuallererst]], [[zunächst]], [[vorerst]], [[vorab]], [[vorab]], [[primär]], [[vor allem]], [[hauptsächlich]], [[eigentlich]], [[lediglich]], [[bloß]], [[ausschließlich]], [[ausnahmsweise]]
+Antonyme:
+- [[zuletzt]], [[schließlich]], [[letztendlich]], [[endlich]], [[abschließend]], [[nachher]]
+
+---
+**Übersetzung:**
+first, at first, only, just, merely, simply
+
+---
+#Adverb/Adjektiv [[erst]]
+
+---
+Morpheme:
+[[erst]]
 
 ---
 
-Synonyme:
-- [[zuerst]], [[anfänglich]], [[einzig]]
-
----
-
-Beispiele:
-
-- Ich bin [[erst]] angekommen.
-- Du hast das [[erst]] gesehen.
-- Er ist [[erst]] 20 Jahre alt.
-- Es war [[erst]] gestern.
-- Sie sind [[erst]] später gekommen.
-- Wir haben das [[erst]] jetzt bemerkt.
-- Ihr seid [[erst]] heute hier.
-- Sie haben das [[erst]] letzte Woche gehört.
-
-- Du bist der [[erste]] in der Schlange.
-- Sie ist die [[erste]] im Wettbewerb.
-- Es ist das [[erste]] Mal.
-- Ihr seid die [[ersten]], die das wissen.
-- Sie sind die [[ersten]], die ankommen.
-
-- Er ist [[am ersten]] Tag hier.
-- Sie sind [[am ersten]] Januar geboren.
-- Es ist [[am ersten]] Platz.
-- Ihr seid [[am ersten]] dran.
-
----
-**Übersetzung**:
-especially, only, just
-
----
-
-Tags: 
-#Adjective
-
----
-Morphems:
-[[erst]], [[Extra 8]]
+Einzigartige mögliche Formen:
+[[erst]], [[erste]], [[ersten]], [[erstem]], [[erster]], [[erstes]]
+[[erstere]], [[ersterer]], [[ersteres]], [[erstere]], [[ersteren]], [[ersterem]], [[ersterer]], [[ersteren]]
+[[Ersten]], [[Erster]], [[Erstes]], [[Ersten]], [[Erstem]], [[Erster]], [[Ersten]], [[zweit]]

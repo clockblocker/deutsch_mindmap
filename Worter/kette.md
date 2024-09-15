@@ -1,11 +1,9 @@
 🔴 die [[kette]]
 die [[Ketten]]
 
-Beispiele:
-
-- Die [[kette]] ist aus Silber.
-- Er repariert die kaputte [[kette]].
-- In der Schatulle liegen viele verschiedene [[Ketten]].
+---
+*In meiner [[Kette]] fehlt kein Glied*  
+*Wenn die Lust von hinten zieht*  
 
 ---
 Synonyme:

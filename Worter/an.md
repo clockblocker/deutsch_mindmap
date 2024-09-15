@@ -1,1 +1,1 @@
-[[anhaben]][[ansehen]], [[anfangen]], [[angreifen]], [[greifen]], [[aneinander]], [[anschließen]]
+[[anhaben]][[ansehen]], [[anfangen]], [[angreifen]], [[greifen]], [[aneinander]], [[anschließen]], [[anlachen]], [[anreißen]]

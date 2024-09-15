@@ -1,10 +1,11 @@
-😀 [[freuen]] + Akk, [ˈfʁɔʏ̯ən]
+😀 [[freuen]] mich [[über]] + Akk, [ˈfʁɔʏ̯ən]
 [[freute]]  
 haben [[gefreut]]
 
 ---
 - Und besonders mit deiner köstlichen Schoko-Eisbombe. Das [[freut]] mich …
--
+
+Vielen Dank für all die schönen Sachen. Ich habe mich wirklich darüber [[gefreut]]
 
 ---
 Synonyme: [[erfreuen]], [[beglücken]], [[entzücken]], [[erheitern]], [[ergötzen]]

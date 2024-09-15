@@ -1,4 +1,4 @@
-😱 [[schreien]]
+😱🗣️ [[schreien]]
 [[schrie]]
 haben [[geschrien]]
 
@@ -6,72 +6,32 @@ haben [[geschrien]]
 *Der bitterböse Friederich,*  
 *der [[schrie]] und weinte bitterlich.*  
 
----
+*Ein heißer [[Schrei]], Feuer frei!*  
 
-Synonyme:
-- [[brüllen]], [[rufen]], [[kreischen]]
-
----
-
-Beispiele:
-
-- Das Baby [[schreit]] laut.
-- Du [[schreist]] um Hilfe.
-- Er [[schreit]] vor Wut.
-- Wir [[schreien]] vor Freude.
-- Ihr [[schreit]] in den Wald.
-- Sie [[schreien]] in Panik.
+*Die späten Vögel singen*  
+*Und die Schwester [[schreit]]*
 
 ---
-**Übersetzung**: to scream, to yell
+Synonyme: [[brüllen]], [[johlen]], [[rufen]], [[bellen]], [[gellen]], [[heulen]], [[kreischen]]
+Antonyme: [[flüstern]], [[wispern]], [[murmeln]], [[lispeln]], [[tuscheln]]
+
+---
+Übersetzung: to shout, to scream
+
+---
+Morpheme: [[schrei]][[en]]
+ #Verb #Untrennbar
 
 ---
 
-Morphems of only infinitive:
-[[schrei]][[en]]
 
----
-Tags:
-#Verb #Unregelmäßige
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[schreie]]          | [[schrie]]            | -                 | [[schreie]]            | [[schriee]]             |
+| Du        | [[schreist]]         | [[schriest]]          | [[schrei]]        | [[schreiest]]          | [[schrieest]]           |
+| Er/sie/es | [[schreit]]          | [[schrie]]            | -                 | [[schreie]]            | [[schriee]]             |
+| Wir       | [[schreien]]         | [[schrien]]           | -                 | [[schreien]]           | [[schrieen]]            |
+| Ihr       | [[schreit]]          | [[schriet]]           | [[schreit]]       | [[schreiget]]          | [[schrieget]]           |
+| Sie       | [[schreien]]         | [[schrien]]           | [[schreien Sie]]  | [[schreien]]           | [[schrieen]]            |
 
----
-
-Präteritum:
-
-- Ich [[schrie]] laut.
-- Du [[schriest]] um Hilfe.
-- Er [[schrie]] vor Schmerz.
-- Wir [[schrien]] vor Freude.
-- Ihr [[schriet]] vor Angst.
-- Sie [[schrien]] in Panik.
-
----
-
-Imperativ:
-
-- [[Schrei]] nicht so laut!
-- [[Schreit]] um Hilfe!
-- [[Schreien wir]] zusammen!
-- [[Schreien Sie]] bei Gefahr!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[schreie]] nicht oft.
-- Sie meint, du [[schreist]] manchmal.
-- Er behauptet, er [[schreie]] nur bei Schmerz.
-- Wir erklären, wir [[schreien]] selten.
-- Ihr sagt, ihr [[schreiet]] bei Gefahr.
-- Sie sagen, sie [[schreien]] vor Freude.
-
----
-
-Konjunktiv II:
-
-- Wenn ich Angst hätte, [[schrie]] ich laut.
-- Wenn du mutiger wärest, [[schriest]] du weniger.
-- Wenn er verletzt wäre, [[schrie]] er sofort.
-- Wenn wir überrascht wären, [[schrien]] wir vor Freude.
-- Wenn ihr euch erschreckt, [[schriet]] ihr laut.
-- Wenn sie Panik hätten, [[schrien]] sie wild.
+Partizip I: [[schreiend]], Partizip II: [[geschrieen]]

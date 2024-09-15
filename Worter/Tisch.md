@@ -23,4 +23,4 @@ Alle Formen:
 | Nominative  | der Tisch         | die Tische      |
 | Accusative  | den Tisch         | die Tische      |
 | Dative      | dem Tisch         | den Tischen     |
-| Genitive    | des Tisches       | der Tische      |
+| Genitive    | des Tisches       | der Tische      |, [[Nachttisch]]

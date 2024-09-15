@@ -1,1 +1,1 @@
-[[speziellen]], [[breit]]
+[[speziellen]], [[breit]], [[weit]]

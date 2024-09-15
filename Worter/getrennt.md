@@ -1,9 +1,11 @@
-[[getrennt]], [ɡəˈtʁɛnt]
+[[getrennt]] von uns [ɡəˈtʁɛnt]
 nicht [[zusammen]]
 
----
-- Im [[Geist]] [[getrennt]] (getrennt, getrennt, getrennt, getrennt)  
-- 
+---*Im [[Geist]] [[getrennt]] (getrennt, getrennt, getrennt, getrennt)*  
+
+*Sie leben hinterm Sonnenschein,*  
+*[[getrennt]] von uns unendlich weit.*  
+
 ---
 Synonyme: 
 [[abgetrennt]], [[abgesondert]], [[eigenständig]], [[unabhängig]], [[losgelöst]], [[isoliert]]

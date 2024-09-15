@@ -5,6 +5,9 @@ haben [[gemacht]]
 ---
 Oh Mann. [[Ich mach mir Sorgen]] …  
 
+*Das Schicksal hat mich angelacht*  
+*Und mir ein [[Geschenk]] gemacht*  
+
 
 ---
 Synonyme: [[erstellen]], [[schaffen]], [[produzieren]], [[fertigen]], [[herstellen]]

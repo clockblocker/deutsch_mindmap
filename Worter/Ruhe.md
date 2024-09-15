@@ -2,7 +2,7 @@
 die Ruhen
 
 ---
-- (Ich will) Ich will die [[Ruhe]] [[stören]]  
+- *(Ich will) Ich will die [[Ruhe]] [[stören]]*  
 -
 
 ---

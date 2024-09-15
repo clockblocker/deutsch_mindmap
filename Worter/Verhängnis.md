@@ -1,1 +1,1 @@
-[[Unglück]]
+[[Unglück]], [[Schicksal]]

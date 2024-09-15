@@ -1,1 +1,1 @@
-[[arrangieren]], [[aufbauen]], [[bauen]], [[retten]], [[machen]]
+[[arrangieren]], [[aufbauen]], [[bauen]], [[retten]], [[machen]], [[verderben]], [[reißen]], [[abreißen]]
