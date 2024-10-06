@@ -1,1 +1,1 @@
-[[Herzschlag]][[schlagen]]
+[[Herzschlag]][[schlagen]], [[Vorschlag]]

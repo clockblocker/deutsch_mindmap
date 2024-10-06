@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Speis]][[e]]
+[[Speis]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

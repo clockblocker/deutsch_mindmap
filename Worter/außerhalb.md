@@ -1,1 +1,1 @@
-[[hinaus]]
+[[hinaus]], [[durchs]]

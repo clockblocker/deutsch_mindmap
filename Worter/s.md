@@ -1,1 +1,1 @@
-[[besonders]][[Glückstag]], [[lesen]], [[Handelsgesellschaft]], [[Handelsspanne]], [[Schaffensplatz]]
+[[besonders]][[Glückstag]], [[lesen]], [[Handelsgesellschaft]], [[Handelsspanne]], [[Schaffensplatz]], [[durchs]]

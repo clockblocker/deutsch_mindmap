@@ -15,11 +15,12 @@ kanban-plugin: board
 ## In progress
 
 - [ ] [[Fullmetal]]
-- [ ] [[Puppe]]
 
 
 ## Done
 
+- [ ] [[Ohne dich]]
+- [ ] [[Puppe]]
 - [ ] [[Feuer frei!]]
 - [ ] [[Mann Gegen Mann]]
 - [ ] [[Engel]]
@@ -44,6 +45,7 @@ kanban-plugin: board
 
 ## Struwwelpeter
 
+- [ ] [[2 Die gar traurige Geschichte mit dem Feuerzeug]]
 
 
 ## Emil
@@ -95,6 +97,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,true,false,false,false,true,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false,true,false,false]}
 ```
 %%

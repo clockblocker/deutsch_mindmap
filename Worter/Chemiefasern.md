@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Chemie]][[faser]][[n]]
+[[Chemie]][[faser]][[Worter/n]]
 
 ---
 Einzigartige mögliche Formen: [[Chemiefaser]], [[Chemiefasers]], [[Chemiefasern]], [[Chemiefasern]]

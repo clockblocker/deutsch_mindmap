@@ -18,7 +18,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Brill]][[e]]
+[[Brill]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

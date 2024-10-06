@@ -1,1 +1,1 @@
-[[untergehen]]
+[[untergehen]], [[steigen]]

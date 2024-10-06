@@ -1,10 +1,14 @@
 🔵 der [[Geist]]
 die [[Geister]]
 
-Beispiele:
+---
+*Das Sonnenlicht den Geist verwirrt*  
+*Ein blindes Kind, das vorwärts kriecht*  
 
-- [[Dämonen]], [[Geister]], schwarze [[Feen]]  
-- Im [[Geist]] [[getrennt]] (getrennt, getrennt, getrennt, getrennt)  
+*[[Dämonen]], [[Geister]], schwarze [[Feen]]*
+
+*Im* [[Geist]] [[getrennt]] (getrennt, getrennt, getrennt, getrennt)  
+
 
 ---
 Synonyme:

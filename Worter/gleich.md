@@ -15,6 +15,12 @@ ist [[gleich]] nur etwas [[anders]]
 
 *Ihr Schaffensplatz ist gar nicht weit*  
 *Ist gleich im Zimmer nebenan*
+
+[[geselle]], [[Gesellschaft]], 
+
+---
++[[ver]] = [[vergleichen]]
++[[be]] = [[begleichen]]
  
 ---
 Synonyme: 

@@ -1,11 +1,11 @@
-(Der Wahnsinn)  
-Ist nur eine schmale Brücke  
-Die Ufer sind Vernunft und Trieb  
-Ich steig' dir nach  
-Das Sonnenlicht den Geist verwirrt  
-Ein blindes Kind, das vorwärts kriecht  
-Weil es seine Mutter riecht  
-  
+(Der [[Wahnsinn]])  
+Ist nur eine [[schmale]] [[Brücke]]  
+Die [[Ufer]] sind [[Vernunft]] und [[Trieb]]  
+Ich [[steigen|steig]]' dir nach  
+Das [[Sonnenlicht]] den [[Geist]] [[verwirrt]]  
+Ein [[blindes]] Kind, das [[vorwärts]] [[kriecht]]  
+Weil es seine Mutter [[riecht]]  
+
 (Ich finde dich)  
 Die Spur ist frisch und auf die Brücke  
 Tropft dein Schweiß, dein warmes Blut  

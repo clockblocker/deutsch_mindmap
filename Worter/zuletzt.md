@@ -1,6 +1,10 @@
 nicht [[zuerst]]
 
 ---
+*Ich werde in die Tannen gehen*  
+*Dahin, wo ich sie [[zuletzt]] gesehen*  
+
+---
 
 Synonyme:
 

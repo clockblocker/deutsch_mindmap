@@ -1,1 +1,1 @@
-[[Energie]]
+[[Energie]], [[Trieb]]

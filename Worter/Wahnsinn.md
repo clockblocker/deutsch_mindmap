@@ -5,6 +5,9 @@ die [[Wahnsinne]]
 ---
 Um Liebe, [[Wahnsinn]], Mord …  
 
+*(Der [[Wahnsinn]])*  
+*Ist nur eine schmale Brücke*  
+*Die Ufer sind Vernunft und Trieb*  
 
 ---
 Synonyme:

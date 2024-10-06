@@ -1,1 +1,1 @@
-[[Schale]], [[Kasten]]
+[[Schale]], [[Kasten]], [[Krug]]

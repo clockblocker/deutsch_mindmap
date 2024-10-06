@@ -17,7 +17,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Herd]][[e]]
+[[Herd]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

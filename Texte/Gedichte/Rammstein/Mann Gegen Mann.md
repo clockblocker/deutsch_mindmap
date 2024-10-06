@@ -1,13 +1,13 @@
-Das [[Schicksal]] hat mich [[angelacht]]  
+Das [[Schicksal]] hat mich [[anlachen|angelacht]]  
 Und mir ein [[Geschenk]] [[gemacht]]  
-*[[Warf]] mich auf einen [[warmen]] [[Stern]]*  
-*Der [[Haut]] so [[nah]], dem Auge [[fern]]*  
+*[[werfen|Warf]] mich auf einen [[warmen]] [[Stern]]*  
+*Der [[Haut]] so [[nah]], dem [[Auge]] [[fern]]*  
 
 Ich [[nehm]] mein [[Schicksal]] in die Hand  
 Mein [[Verlangen]] ist [[bemannt]]  
 
   
-Wo das süße Wasser [[stirbt]]  
+Wo das süße Wasser [[sterben|stirbt]]  
 [[Weil]] es sich im Salz [[verdirbt]]  
 [[Tragen|Trag]]' ich den kleinen Prinz im [[Sinn]]  
 Ein König ohne Königin  
@@ -27,20 +27,20 @@ Gleich und Gleich gesellt sich gern
   
 Ich bin die [[Ecke]] aller [[Räume]]  
 Ich bin der [[Schatten]] aller [[Bäume]]  
-In meiner [[Kette]] [[fehlt]] kein [[Glied]]  
+In meiner [[Kette]] [[fehlen|fehlt]] kein [[Glied]]  
 Wenn die [[Lust]] von [[hinten]] [[zieht]]  
-Mein [[Geschlecht]] [[schimpft]] mich [[Verräter]]  
+Mein [[Geschlecht]] [[schimpfen|schimpft]] mich [[Verräter]]  
 Ich bin der [[Albtraum]] aller [[Väter]]  
 
 
 Mann gegen Mann  
-Meine Haut gehört den Herren  
+Meine [[Haut]] [[gehört]] den Herren  
 Mann gegen Mann  
 Gleich und Gleich gesellt sich gern  
 Mann gegen Mann  
-Doch friert mein Herz an manchen Tagen  
+Doch [[friert]] mein Herz an manchen Tagen  
 Mann gegen Mann  
-Kalte Zungen, die da schlagen  
+Kalte [[Zungen]], die da [[schlagen]]  
   
 Kalte [[Zungen]], die da [[schlagen]]  
 [[Schwuler]]!  

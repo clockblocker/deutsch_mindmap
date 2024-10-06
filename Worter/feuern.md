@@ -24,7 +24,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[Feuer]][[n]]
+[[Feuer]][[Worter/n]]
 
 ---
 Tags:

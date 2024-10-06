@@ -33,3 +33,4 @@ Morpheme: [[spring]][[en]]
 | Sie       | [[springen]]         | [[sprangen]]          | [[springen Sie]]  | [[springen]]           | [[sprången]]            |
 
 Partizip I: [[springend]], Partizip II: [[gesprungen]]
+, [[kriechen]]

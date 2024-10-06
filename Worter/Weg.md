@@ -1,6 +1,28 @@
+🔵 der [[Weg]], [veːk]
+die [[Wege]]
+
+
+---
+*Und auf die [[Wege]] hinterm Waldesrand*  
+*Und der Wald, er steht so schwarz und leer*
+
 Der [[Weg]] ist weit [[Weg]]
 
-Away
+---
+Synonyme:
+- [[Pfad]], [[Bahn]], [[Straße]], [[Route]]
 
-Path
+---
+Übersetzung: way, path, away
+
+---
+Morpheme:
+[[Weg]]
+
+---
+Einzigartige mögliche Formen: [[Weges]], [[Wege]], [[Wegen]]
+
+---
+#Substantiv #Maskulin
+
 , [[Straße]]

@@ -1,1 +1,1 @@
-[[bürsten]], [[einschließen]]
+[[bürsten]], [[einschließen]], [[zählen]]

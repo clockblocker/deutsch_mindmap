@@ -1,1 +1,1 @@
-[[hinaus]]
+[[hinaus]], [[vorwärts]]

@@ -6,7 +6,7 @@ https://www.gutenberg.org/files/24571/24571-h/24571-h.htm
 # Der Struwwelpeter
 oder lustige Geschichten und **drollige Bilder**  
 
-Wenn die Kinder artig sind,  
+Wenn die [[Kinder]] [[artig]] [[sind]],  
 kommt zu ihnen das Christkind;  
 wenn sie ihre Suppe essen  
 und das Brot auch nicht vergessen,  
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=LIw-L8Mnehs
 ![[Pasted image 20240815083911.png]]
 Sieh einmal, hier steht er,  
 pfui, der _Struwwelpeter_!  
-An den Händen beiden  
-ließ er sich nicht schneiden  
-seine Nägel fast ein Jahr;  
+An den [[Händen]] beiden  
+ließ er sich nicht [[schneiden]]  
+seine [[Nägel]] fast ein Jahr;  
 kämmen ließ er nicht sein Haar.  
 Pfui, ruft da ein jeder:  
 Garstger Struwwelpeter!

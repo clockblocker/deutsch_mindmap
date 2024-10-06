@@ -1,10 +1,11 @@
-
 🔔 [[gehören]] + Dat, [ɡəˈhøːʁən]
 [[gehörte]]
 haben [[gehört]]
 
 ---
 mach es so wie ich - und der Job [[gehört]] dir.  
+*Mann gegen Mann*  
+*Meine Haut [[gehört]] den Herren*  
 
 ---
 Synonyme: [[besitzen]], [[zustehen]], [[zukommen]], [[zueigen sein]], [[zufallen]]

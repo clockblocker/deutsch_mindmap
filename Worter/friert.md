@@ -1,0 +1,1 @@
+🥶 [[frieren]] + Dat, [ˈfriːʁən]

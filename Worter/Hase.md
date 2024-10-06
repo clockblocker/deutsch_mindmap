@@ -19,7 +19,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Has]][[e]]
+[[Has]][[Worter/e]]
 
 ---
 #Substantiv #Maskulin

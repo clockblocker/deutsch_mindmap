@@ -13,7 +13,7 @@ Antonyme: [[verbergen]], [[verheimlichen]], [[verschleiern]]
 Übersetzung: to explain, to clarify
 
 ---
-Morpheme: [[er]][[kläre]][[n]]
+Morpheme: [[er]][[kläre]][[Worter/n]]
  #Verb  #Untrennbar
 
 ---

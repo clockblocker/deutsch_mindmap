@@ -13,7 +13,7 @@ Antonyme: [[beibehalten]], [[konservieren]], [[unverändert lassen]]
 Übersetzung: to change, to modify, to alter
 
 ---
-Morpheme: [[ver]][[änder]][[n]]
+Morpheme: [[ver]][[änder]][[Worter/n]]
  #Verb  #Trennbar
 
 ---

@@ -1,1 +1,2 @@
 Singular: der [[Boden]]
+, [[Erden]]

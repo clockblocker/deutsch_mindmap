@@ -14,7 +14,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Ehr]][[e]]
+[[Ehr]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

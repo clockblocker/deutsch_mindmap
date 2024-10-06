@@ -4,22 +4,111 @@
     "type": "split",
     "children": [
       {
-        "id": "08758f1cc577154f",
+        "id": "76a09c13d71006c7",
         "type": "tabs",
         "children": [
           {
-            "id": "ef97f0c58d71d3dd",
+            "id": "9c59f96e4904cb68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
+                "file": "Texte/Diter/4 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "831bafcb9100c878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/während.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "250caa7c6f1f74cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/bei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70dff6e69d7d268c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "04177ce4be9658a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/verletzt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfe9823edb913926",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2779a5f83f1e7c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Weg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c782c71db63e8ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/gehört.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82634e78577c6506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/gehören.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rede keine",
+                "query": "fertig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
+                "file": "Worter/bei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
+                "file": "Worter/bei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md"
+                "file": "Worter/bei.md"
               }
             }
           }
@@ -134,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -153,44 +242,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ef97f0c58d71d3dd",
+  "active": "250caa7c6f1f74cd",
   "lastOpenFiles": [
-    "Texte/Der Struwwelpeter/Der Struwwelpeter b.md",
-    "Worter/Getadelt.md",
-    "Worter/schimpfen.md",
-    "Worter/heiß.md",
-    "Worter/Schrei.md",
-    "Worter/schoss.md",
-    "Texte/Der Struwwelpeter/Die gar traurige Geschichte  mit dem Feuerzeug.md",
-    "Worter/sprang.md",
-    "Worter/springen.md",
-    "Worter/springend.md",
-    "Worter/spränget.md",
-    "Worter/sprången.md",
-    "Worter/sprängest.md",
-    "Worter/springst.md",
-    "Worter/stehenbleiben.md",
-    "Worter/kullern.md",
-    "Worter/sprudeln.md",
-    "Worter/hopsen.md",
-    "Worter/sprängt.md",
-    "Worter/sprängen.md",
-    "Worter/sprängst.md",
-    "Worter/spränge.md",
-    "Worter/springet.md",
-    "Worter/springest.md",
-    "Worter/springe.md",
-    "Worter/Springen Sie.md",
+    "Worter/während.md",
+    "Texte/Diter/4 11.md",
+    "Wortlisten/Tren veren.md",
+    "Worter/Freude.md",
+    "Worter/Freud.md",
+    "Worter/Zufriedenheit.md",
+    "Worter/Vergnügen.md",
+    "Worter/Witz.md",
+    "Wortlisten/Zeit-Kalender.md",
+    "Worter/verletzen.md",
+    "Lektionen/Kamanova/8 Imperativ.md",
+    "Worter/Fertig.md",
+    "readme.md",
+    "Worter/verletzt.md",
+    "Worter/Schockraum.md",
+    "Worter/einstellen.md",
+    "Worter/anstellen.md",
+    "Worter/regulieren.md",
+    "Worter/anpassen.md",
+    "Worter/justieren.md",
+    "Worter/an.md",
+    "Texte/Misc/aa.md",
+    "Worter/Schockräumen.md",
+    "Worter/Schockraums.md",
+    "Worter/Schock.md",
+    "Worter/Intensivraum.md",
+    "Texte/Misc1",
+    "Texte/Gedichte/Rammstein/Untitled",
+    "Anhänge/Pasted image 20240915204253.png",
+    "Anhänge/Pasted image 20240915204246.png",
+    "Anhänge/Pasted image 20240915203916.png",
+    "Anhänge/Pasted image 20240915203903.png",
+    "Anhänge/Pasted image 20240915203840.png",
     "Anhänge/Pasted image 20240910200018.png",
     "Anhänge/Pasted image 20240910194810.png",
     "Anhänge/Pasted image 20240910194805.png",
     "Anhänge/Pasted image 20240910194743.png",
     "Anhänge/Pasted image 20240910194735.png",
-    "Anhänge/Pasted image 20240910194722.png",
-    "Anhänge/Pasted image 20240910180043.png",
-    "Anhänge/Pasted image 20240910174739.png",
-    "Anhänge/Pasted image 20240910174656.png",
-    "Anhänge/Pasted image 20240910174312.png",
     "Lektionen/Logo/w1",
     "Lektionen/Logo",
     "Lektionen/Phonetik/Material",
@@ -199,8 +290,6 @@
     "Texte/Gedichte/Folk",
     "Lektionen/Kamanova/Audio/L-02.mp3",
     "Lektionen/Kamanova/Audio/L-11.mp3",
-    "Lektionen/Kamanova/Audio/L-10.mp3",
-    "Lektionen/Kamanova/Audio/L-09.mp3",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

@@ -22,7 +22,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Lieb]][[e]]
+[[Lieb]][[Worter/e]]
 
 ---
 #Substantiv #Feminin, [[Liebestanz]]

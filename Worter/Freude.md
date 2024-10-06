@@ -16,7 +16,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Freud]][[e]]
+[[Freud]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

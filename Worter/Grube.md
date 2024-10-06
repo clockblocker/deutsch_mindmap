@@ -1,1 +1,1 @@
-[[Schacht]]
+[[Schacht]], [[loch]]

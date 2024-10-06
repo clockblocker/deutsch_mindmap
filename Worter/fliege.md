@@ -18,7 +18,7 @@ Synonyme:
 ---
 
 Morphems:
-[[flieg]][[e]]
+[[flieg]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

@@ -1,0 +1,2 @@
+die [[Tanne]], [ˈtanə]
+

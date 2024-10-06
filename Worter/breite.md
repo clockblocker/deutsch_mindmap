@@ -1,1 +1,1 @@
-, [[breit]]
+, [[breit]], [[schmale]]

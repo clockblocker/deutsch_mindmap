@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Spiel]][[karte]][[n]]
+[[Spiel]][[karte]][[Worter/n]]
 
 ---
 Einzigartige mögliche Formen: [[Spielkarte]], [[Spielkarten]], [[Spielkartes]], [[Spielkarten]]

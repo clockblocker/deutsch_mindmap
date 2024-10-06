@@ -28,7 +28,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[ärger]][[n]]
+[[ärger]][[Worter/n]]
 
 ---
 Tags:

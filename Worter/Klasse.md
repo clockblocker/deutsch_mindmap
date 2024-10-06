@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Klass]][[e]]
+[[Klass]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

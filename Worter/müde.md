@@ -35,4 +35,4 @@ Tags:
 
 ---
 Morphems:
-[[müd]][[e]]
+[[müd]][[Worter/e]], [[überdrüssig]]

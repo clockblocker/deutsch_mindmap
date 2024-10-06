@@ -2,6 +2,9 @@ der [[Hals]]
 die [[Hälse]]
 ![[Pasted image 20240729135443.png]]
 
+---
+*Ja, ich beiß der Puppe den Hals ab*  
+
 
 ---
 

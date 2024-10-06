@@ -3,7 +3,8 @@ die [[Hände]]
 
 
 ---
-
+*An den [[Händen]] beiden*  
+*ließ er sich nicht schneiden*  
 
 ---
 Synonyme:

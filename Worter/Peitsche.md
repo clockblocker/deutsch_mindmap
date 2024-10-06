@@ -20,7 +20,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Peitsch]][[e]]
+[[Peitsch]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

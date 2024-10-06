@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Schrank]][[e]]
+[[Schrank]][[Worter/e]]
 
 ---
 Einzigartige mögliche Formen: [[Schrankes]], [[Schranke]], [[Schranken]], [[Schranken]]

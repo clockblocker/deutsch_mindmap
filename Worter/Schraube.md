@@ -18,7 +18,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Schraub]][[e]]
+[[Schraub]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

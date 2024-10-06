@@ -32,4 +32,4 @@ Morphems:
 По городу
 
 
-[[Leibe geht durch den Magen]]
+[[Leibe geht durch den Magen]], [[durchs]]

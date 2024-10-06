@@ -34,3 +34,4 @@ Einzigartige mögliche Formen:
 [[weitesten]], [[weitester]], [[weiteste]], [[weitstes]], [[weitesten]], [[weitestem]], [[weitester]], [[weitesten]]
 
 [[speziellen]], [[breit]]
+, [[schmale]]

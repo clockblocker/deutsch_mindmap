@@ -1,5 +1,7 @@
 nicht weit vor
 
+[[Während]] der Arbeit = [[Bei]] der Arbiet 
+
 Bei  die Arbeit trinke ich Tee
 
 [[bei]] ihnen ist ein Amerikaner zu Besuch.  

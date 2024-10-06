@@ -3,8 +3,8 @@
 sein [[gekrochen]]
 
 ---
-- Sie [[kriechen]] aus dem Kellerschacht  
-- 
+*Ein blindes Kind, das vorwärts [[kriecht]]*  
+*Weil es seine Mutter riecht*  
 
 ---
 Synonyme: [[schleichen]], [[robben]], [[winden]], [[rutschen]], [[schlängeln]]

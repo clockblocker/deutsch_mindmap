@@ -31,7 +31,7 @@ to smile
 
 ---
 **Morphems of only infinitive:**  
-- [[lächel]][[n]]
+- [[lächel]][[Worter/n]]
 
 ---
  #Verb #Regelmäßig

@@ -25,12 +25,9 @@ Und warte hier im Daunenbeet
 Bis die Sonne untergeht
 
 Und dann [[reißen|reiß]] ich der Puppe den Kopf ab  
-Dann reiß ich der Puppe den Kopf ab  
-Ja, ich [[beiß]] der Puppe den Hals ab  
+Dann reiß ich der Puppe den [[Kopf]] ab  
+Ja, ich [[beiß]] der Puppe den [[Hals]] ab  
 Es geht mir nicht gut
-
-*Ja, ich beiß der Puppe den Hals ab*  
-*Es geht mir nicht gut*
 
 Ich reiß der Puppe den Kopf ab  
 Ja, ich reiß der Puppe den Kopf ab  
@@ -42,12 +39,10 @@ Dam-dam
 Dam-dam
 
 Wenn Schwesterlein der Arbeit [[frönt]]  
-Das Licht im [[Fenster]] rot  
+Das Licht im [[Fenster]] [[rot]]  
 Ich sehe zu [[durchs]] [[Schlüsselloch]]  
 Und einer [[schlug]] sie tot
 
-*Wenn Schwesterlein der Arbeit [[frönt]]*  
-*Das Licht im [[Fenster]] rot*  
 
 Und jetzt reiß ich der Puppe den Kopf ab  
 Ja, ich reiß der Puppe den Kopf ab  

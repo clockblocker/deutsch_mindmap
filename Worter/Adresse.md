@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Adress]][[e]]
+[[Adress]][[Worter/e]]
 
 ---
 #Substantiv #Feminin

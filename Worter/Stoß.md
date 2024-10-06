@@ -3,7 +3,7 @@ die [[Stöße]]
 
 
 ---
-*Ein [[Funkenstoß]] in ihren Schoß*  
+*Ein [[Funkenstoß]] in ihren [[Schoss]]*  
 *Ein heißer Schrei, Feuer frei!*  
 
 ---

@@ -3,6 +3,8 @@
 haben [[wehgetan]]
 
 ---
+Mein Kopf [[wehtun|Tut]] mir weh = Ich hab Kopfschmetzen 
+
 - NIC: Also ... wo [[wehtun|tut]] es Ihnen weh?  
 - NIC: Du bist mein Patient - dir muss irgend etwas wehtun!  
 - Mein Rücken [[tut weh]]!  

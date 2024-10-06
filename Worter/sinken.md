@@ -73,4 +73,4 @@ Konjunktiv II:
 - Wenn er sich gehen lässt, [[sänke]] er auf den Grund.
 - Wenn wir schwerer wären, [[sänken]] wir schneller.
 - Wenn ihr mutiger wäret, [[sänket]] ihr tiefer.
-- Wenn sie aufgeben, [[sänken]] sie ab.
+- Wenn sie aufgeben, [[sänken]] sie ab., [[steigen]]

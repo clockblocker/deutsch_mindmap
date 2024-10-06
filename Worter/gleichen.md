@@ -6,6 +6,10 @@ haben [[geglichen]]
 DIE [[GLEICHEN]] REGELN GELTEN!  
 
 ---
++[[ver]] = [[vergleichen]]
++[[be]] = [[begleichen]]
+
+---
 Synonyme: [[ähneln]], [[entsprechen]], [[angleichen]], [[vergleichen]], [[gleichkommen]]
 Antonyme: [[unterscheiden]], [[differenzieren]], [[divergieren]]
 

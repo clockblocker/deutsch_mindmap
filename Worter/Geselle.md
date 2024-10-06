@@ -17,7 +17,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Gesell]][[e]]
+[[Gesell]][[Worter/e]]
 
 ---
 Einzigartige mögliche Formen: [[Gesellen]], [[Gesellen]], [[Gesellen]], [[Gesellen]], [[Gesellen]], [[Gesellen]], [[Gesellen]], [[Gesellen]]
@@ -42,7 +42,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Gesell]][[e]]
+[[Gesell]][[Worter/e]]
 
 ---
 Einzigartige mögliche Formen: [[Gesellen]], [[Gesellen]], [[Gesellen]], [[Gesellen]]

@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Problem]][[e]]
+[[Problem]][[Worter/e]]
 
 ---
 #Substantiv #Neuter

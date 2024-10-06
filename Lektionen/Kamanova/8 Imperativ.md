@@ -6,7 +6,7 @@ Die dritte Regel. Essen Sie Zitronen, Apfelsinen und Kiwis. Diese Früchte haben
 Die vierte Regel. Kaufen Sie ein neues Parfum. Ein schöner Duft bringt gute Laune.
 Die fünfte Regel. Gehen Sie nicht spät ins Bett und stehen Sie früh auf. Man soll immer acht bis zehn Stunden schlafen.
 Die sechste Regel. Finden Sie eine gute Creme für Ihre Haut. Für die trockene Haut können Sie selbst eine Maske machen. Nehmen
-Sie Erdbeeren, Jogurt, ein Ei und ein bisschen Honig. In fünf Minuten ist die Maske fertig.
+Sie Erdbeeren, Jogurt, ein Ei und ein bisschen Honig. In fünf Minuten ist die Maske [[fertig]].
 Die siebte Regel. Besuchen Sie einen Friseur und machen Sie eine neue Frisur. Ihr Haar soll auch immer in Ordnung sein.
 Die achte Regel. Kaufen Sie ein Tagebuch. Planen Sie Ihre Zeit richtig und seien Sie nie müde!
 Die neunte Regel. Haben Sie keinen Stress! Man soll immer froh und nicht nervös sein.

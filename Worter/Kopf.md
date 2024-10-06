@@ -5,6 +5,7 @@ Beispiele:
 [[Köpfchen]] in das [[Wasser]],
 
 ---
+*Dann reiß ich der Puppe den [[Kopf]] ab*  
 
 ---
 

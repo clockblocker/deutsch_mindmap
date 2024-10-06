@@ -5,6 +5,9 @@ nicht [[unartig]]
 *Am Himmel dunkle Wolken ziehen*  
 *Ich nehme [[artig]] meine Medizin*  
 
+Wenn die [[Kinder]] [[artig]] [[sind]],  
+
+
 ---
 Synonyme: [[brav]], [[folgsam]], [[gehorsam]], [[höflich]], [[anständig]]
 Antonyme: [[frech]], [[ungezogen]], [[ungehorsam]], [[unhöflich]], [[unmanierlich]]

@@ -3,7 +3,7 @@ nicht [[klar]], nicht [[frei]]
 
 ---
 *Wenn sich an mir ein Weib verirrt*  
-*Dann ist die helle Welt verwirrt*  
+*Dann ist die helle Welt [[verwirrt]]*  
 
 ---
 Synonyme: [[durcheinander]], [[konfus]], [[unübersichtlich]], [[chaotisch]], [[desorientiert]]

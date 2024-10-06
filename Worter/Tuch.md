@@ -1,6 +1,12 @@
 das [[Tuch]]  
 die [[Tücher]]
 
+---
+*Doch der Abend wirft ein [[Tuch]] aufs Land*  
+*Und auf die Wege hinterm Waldesrand*  
+
+---
+
 ![[Pasted image 20240729133715.png]]
 
 Beispiele:
