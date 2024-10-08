@@ -11,6 +11,9 @@ haben [[geschrien]]
 *Die späten Vögel singen*  
 *Und die Schwester [[schreit]]*
 
+*Und Minz und Maunz, die [[schreien]]*  
+*gar jämmerlich zu zweien:*  
+
 ---
 Synonyme: [[brüllen]], [[johlen]], [[rufen]], [[bellen]], [[gellen]], [[heulen]], [[kreischen]]
 Antonyme: [[flüstern]], [[wispern]], [[murmeln]], [[lispeln]], [[tuscheln]]

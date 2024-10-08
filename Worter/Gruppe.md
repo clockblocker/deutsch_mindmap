@@ -1,1 +1,1 @@
-, [[Minderheit]], [[Gesellschaft]]
+, [[Minderheit]], [[Gesellschaft]], [[Häuflein]]

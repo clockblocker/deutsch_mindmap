@@ -5,6 +5,9 @@ nicht [[unattraktiv]], nicht [[häßlich]]
 Hallo Sam und Nic! Ja! Wir sind total [[hübsch]]!  
 … Für die [[hübsche]] Sascha …von S … Wer ist S?  
  Ach, du siehst heute so [[hübsch]] aus!  
+ 
+*ein Häuflein Asche bleibt allein*  
+*und beide Schuh, so [[hübsch]] und fein.*
 
 
 ---

@@ -28,4 +28,4 @@ Morphems:
 [[Feuer]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[Feuerzeug]]

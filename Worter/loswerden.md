@@ -34,4 +34,4 @@ Morpheme: [[los]][[werd]][[en]]
 Partizip I: [[loswerden]], Partizip II: [[losgeworden]]
 
 [[loswerden]] - [[los]] = [[werden]]
-''', [[Extra 8]]
+''', [[Extra 8]], [[wegwerfen]]

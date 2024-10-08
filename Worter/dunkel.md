@@ -73,4 +73,4 @@ Tags:
 
 ---
 Morphems:
-[[dunkel]], [[licht]]
+[[dunkel]], [[licht]], [[tief]]

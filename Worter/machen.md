@@ -35,3 +35,4 @@ Morpheme: [[mach]][[en]]
 Partizip I: [[machend]], Partizip II: [[gemacht]]
 
 +[[frei]] = [[freimachen]]
+, [[tun]]

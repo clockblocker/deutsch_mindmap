@@ -1,4 +1,4 @@
 [[anhaben]][[ansehen]], [[anfangen]], [[angreifen]], [[greifen]], [[aneinander]], [[anschließen]], [[anlachen]], [[anreißen]]
 
 
-contact, to start
+contact, to start, [[anzünden]], [[zünden]]

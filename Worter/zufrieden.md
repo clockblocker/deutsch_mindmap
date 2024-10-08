@@ -1,1 +1,1 @@
-[[glücklich]]
+[[glücklich]], [[jämmerlich]]

@@ -4,6 +4,9 @@ die [[Tränen]]
 ---
 - Und stehlen eure kleinen, heißen [[Tränen]]
 
+*Und ihre [[Tränen]] fließen  
+*wie’s Bächlein auf den Wiesen.
+
 
 ---
 Synonyme: 

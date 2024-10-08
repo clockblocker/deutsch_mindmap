@@ -10,9 +10,9 @@ haben [[gelitten]]
 *[[litt]] vielen Schmerz an seinem Bein;*  
 
 ---
+Synonyme: [[erdulden]], [[aushalten]], [[ertragen]], [[durchmachen]], [[ausstehen]]
+Antonyme: [[genießen]], [[profitieren]], [[profitieren]]
 
-Synonyme:
-- [[ertragen]], [[ausstehen]], [[durchmachen]]
 
 ---
 
@@ -78,3 +78,4 @@ Konjunktiv II:
 - Wenn wir zusammenhalten würden, [[litte]] keiner allein.
 - Wenn ihr vorsichtiger wäret, [[littet]] ihr weniger.
 - Wenn sie Unterstützung hätten, [[litten]] sie nicht so sehr.
+[[leidend]]

@@ -1,1 +1,1 @@
-[[mittel]]
+[[mittel]], [[bitterlich]], [[lichterloh]]

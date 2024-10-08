@@ -3,6 +3,9 @@
 haben [[geschaut]]
 
 ---
+*das flackert lustig, knistert laut,*  
+*grad wie ihr’s auf dem Bilde [[schaut]].*  
+
 SAM: Ah Sascha! [[schau]] mal – 50 Kilometer! ([[sieh]] mal)
 ANNA: [[schau]] mal Sam! Das hier hab’ ich für dich!
 ANNA: [[schau]] mal, das gibt’s doch nicht.  

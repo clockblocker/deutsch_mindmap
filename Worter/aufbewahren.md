@@ -1,1 +1,1 @@
-, [[loswerden]], [[herausziehen]], [[verderben]]
+, [[loswerden]], [[herausziehen]], [[verderben]], [[wegwerfen]]

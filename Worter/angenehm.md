@@ -1,1 +1,1 @@
-[[schade]], [[wohl]], [[unbequem]], [[unheimlich]]
+[[schade]], [[wohl]], [[unbequem]], [[unheimlich]], [[bittre]]

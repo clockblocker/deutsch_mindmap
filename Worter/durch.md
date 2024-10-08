@@ -1,5 +1,33 @@
-🟢 das [[durch]]
+ [[durch]]
 kein Plural
+
+*Als sie nun [[durch]] das Zimmer sprang*  
+*mit leichtem Mut und Sing und Sang,*  
+
+[[Leibe geht durch den Magen]]
+
+
+---
+
+Verwendungen:
+- Räumlich: Sie ging durch den Wald. (spatial)
+- Modal: Er kommt durch Ausdauer zum Erfolg. (manner)
+- Kausal: Durch den Regen wurde alles nass. (cause)
+- Temporal: Durch den ganzen Tag arbeitete er. (time)
+
+---
+Synonyme: [[hindurch]], [[über]], [[entlang]], [[mittels]], [[vermittels]]
+Antonyme: [[um]], [[vor]], [[hinter]], [[über]], [[neben]]
+
+---
+Übersetzung: through, across
+
+---
+Morpheme: [[durch]]
+
+---
+#Preposition [[durch]]
+
 
 Beispiele:
 
@@ -33,3 +61,5 @@ Morphems:
 
 
 [[Leibe geht durch den Magen]], [[durchs]]
+
+ [[durch]], [dʊʁç]

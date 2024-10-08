@@ -3,8 +3,10 @@
 haben [[angesehen]]
 
 ---
-- Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
+Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 
+*da sah sie plötzlich vor sich stehn*  
+*ein Feuerzeug, nett anzusehn.*  
 
 ---
 Synonyme: [[betrachten]], [[begutachten]], [[besichtigen]], [[mustern]], [[inspizieren]], [[prüfen]]

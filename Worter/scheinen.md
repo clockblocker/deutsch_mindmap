@@ -77,4 +77,4 @@ Konjunktiv II:
 - Wenn wir ausgeruht wären, [[schienen]] wir glücklicher.
 - Wenn ihr die Lösung wüsstet, [[schient]] ihr gelassener.
 - Wenn sie das Ergebnis akzeptierten, [[schienen]] sie zufriedener.
-```​⬤
+```​⬤, [[leuchten]]

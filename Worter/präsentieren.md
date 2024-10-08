@@ -1,1 +1,1 @@
-, [[wegzaubern]], [[schenken]]
+, [[wegzaubern]], [[schenken]], [[bieten]]

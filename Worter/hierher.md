@@ -28,3 +28,4 @@ Tags:
 Morphems:
 [[hier]][[her]]
 
+, [[Herbei]]

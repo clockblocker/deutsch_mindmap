@@ -9,7 +9,7 @@ und [[ausrissen|riß]] ihnen die [[Flügel]] aus.
 Er [[schlug]] den [[Stuhl]] und [[Vogel]] [[tot]],  
 die Katzen [[litten]] [[große Not]].  
 
-Und höre [[nur]], [[wie]] bös er war:  
+Und höre [[nur]], [[wie]] [[bös]] er war:  
 Er [[peitschen|peitschte]] seine Gretchen [[gar]]!
 
 ![[Pasted image 20240815083950.png]]
@@ -28,7 +28,7 @@ Da [[beißen|biß]] der Hund ihn in das [[Bein]],
 Der bitterböse Friederich,  
 der [[schreien|schrie]] und [[weinen|weinte]] [[bitterlich]].  
 [[Jedoch]] nach Hause [[lief]] der Hund  
-und [[trug]] die [[Peitsche]] in dem Mund\
+und [[trug]] die [[Peitsche]] in dem Mund
 
 
 ![[Pasted image 20240815084002.png]]
@@ -36,7 +36,8 @@ und [[trug]] die [[Peitsche]] in dem Mund\
 Ins Bett [[müssen|muß]] Friedrich [[nun]] [[hinein]],  
 [[litt]] [[viele]]n [[Schmerz]] an seinem Bein;  
 und der Herr Doktor sitzt [[dabei]]  
-und gibt ihm bittre [[Arzenei]].
+und gibt ihm [[bittre]] [[Arzenei]].
+
 
 Der Hund an Friedrichs Tischchen [[saß]],  
 wo er den großen Kuchen [[aß]];  

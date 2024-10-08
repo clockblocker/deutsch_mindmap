@@ -1,1 +1,1 @@
-, [[aufdrehen]]
+, [[aufdrehen]], [[anzünden]], [[zünden]]

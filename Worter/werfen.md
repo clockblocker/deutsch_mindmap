@@ -18,6 +18,9 @@ Synonyme: [[schleudern]], [[schmeißen]], [[stoßen]], [[abwerfen]], [[loslassen
 Antonyme: [[fangen]], [[aufheben]], [[halten]]
 
 ---
+[[wegwerfen]] - [[weg]] = [[werfen]]
+
+---
 Übersetzung: to throw
 
 ---

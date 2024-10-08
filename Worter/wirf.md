@@ -1,2 +1,1 @@
-
-[[werfen]][[hinaus]]
+[[werfen]], [[hinaus]]

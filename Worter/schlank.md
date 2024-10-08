@@ -7,6 +7,8 @@ Synonyme:
 - [[zart]]
 - [[hager]]
 
+[[vollschlank]]
+
 ---
 ANNA: Groß, [[schlank]] .. ein cooler Amerikaner.
 

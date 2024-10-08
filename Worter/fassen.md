@@ -5,7 +5,8 @@ haben [[gefasst]]
 ---
 Nichts zu [[fassen]]!
 
-
+*Doch weh! die Flamme [[faßt]] das Kleid,*  
+*die Schürze brennt, es leuchtet weit.*  
 
 ---
 Synonyme: [[greifen]], [[umfassen]], [[ergreifen]], [[packen]], [[halten]], [[greifen]]

@@ -2,6 +2,9 @@
 nicht [[unhöflich]], nicht [[unfreundlich]]
 
 ---
+*da sah sie plötzlich vor sich stehn*  
+*ein Feuerzeug, nett anzusehn.*  
+
 NIC: Aber wieso? Er ist doch so [[nett]] ...
 SAM: Ihr [[ward]] sehr [[nett]] zu mir.  
  Sascha – dein Chef ist soooo [[nett]]!! 
@@ -31,4 +34,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[nett]], [[netter]], [[nette]], [[nettes]], [[netten]], [[nettem]], [[netter]], [[netten]]
-[[nettester]], [[nettester]], [[netteste]], [[nettstes]], [[nettesten]], [[nettstem]], [[nettester]], [[nettesten]], [[Extra 8]]
+[[nettester]], [[nettester]], [[netteste]], [[nettstes]], [[nettesten]], [[nettstem]], [[nettester]], [[nettesten]], [[Extra 8]], [[bös]]

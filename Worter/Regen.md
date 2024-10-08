@@ -5,6 +5,8 @@ die [[Regen]]
 ---
 Sie nicht Ihren [[Regen]] … … schirm!
 
+Sich [[Regen]] bring [[Segen]]
+
 ---
 Synonyme:
 - [[Niederschlag]], [[Wasser]], [[Nass]], [[Tropfen]]

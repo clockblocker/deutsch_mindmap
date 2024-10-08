@@ -1,4 +1,3 @@
-
 *[[Jedoch]] nach Hause lief der Hund*  
 *und trug die Peitsche in dem Mund
 

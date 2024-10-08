@@ -1,1 +1,1 @@
-[[hell]], [[licht]]
+[[hell]], [[licht]], [[lustig]]

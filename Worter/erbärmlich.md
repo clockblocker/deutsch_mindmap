@@ -1,1 +1,1 @@
-, [[toll]], [[einfachfantastisch]]
+, [[toll]], [[einfachfantastisch]], [[bitterlich]], [[jämmerlich]]

@@ -4,6 +4,11 @@
 • Eisenteller nicht mitwaschen. [[Sonst]] Rostflecken.
 - Sterben, schlafen und [[sonst nichts]].  
 
+*Miau! Mio! Miau! Mio!*  
+*laß stehn! [[sonst]] brennst du lichterloh!
+
+*Miau! Mio! Miau! Mio!*  
+*wirf’s weg! sonst brennst du lichterloh!*
 
 ---
 Synonyme:

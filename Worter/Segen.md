@@ -3,8 +3,10 @@ die [[Segen]]
 
 
 ---
-- Ist Fluch und [[Segen]]  
-- 
+Ist Fluch und [[Segen]]  
+
+Sich [[Regen]] bring [[Segen]]
+
 
 ---
 Synonyme:

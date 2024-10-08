@@ -12,4 +12,4 @@ Synonyme:
 **Übersetzung**: very
 
 ---
-#Adverb
+#Adverb, [[bitterlich]]

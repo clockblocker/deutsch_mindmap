@@ -1,1 +1,1 @@
-, [[zugeben]], [[beißen]]
+, [[zugeben]], [[beißen]], [[verbieten]]

@@ -41,4 +41,4 @@ Tags:
 
 ---
 Morphems:
-[[rasch]][[Überraschen]]
+[[rasch]][[Überraschen]], [[geschwind]]

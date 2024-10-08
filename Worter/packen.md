@@ -1,1 +1,1 @@
-[[abpacken]], [[greifen]], [[fassen]], [[beißen]]
+[[abpacken]], [[greifen]], [[fassen]], [[beißen]], [[fangen]]

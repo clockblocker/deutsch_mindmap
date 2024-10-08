@@ -26,4 +26,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[schwer]], [[schwerer]], [[schwere]], [[schweres]], [[schweren]], [[schwerem]], [[schwerer]], [[schweren]]
-[[schwerster]], [[schwerste]], [[schwerstes]], [[schwersten]], [[schwerstem]], [[schwerster]], [[schwersten]], [[ernst]]
+[[schwerster]], [[schwerste]], [[schwerstes]], [[schwersten]], [[schwerstem]], [[schwerster]], [[schwersten]], [[ernst]], [[arg]]

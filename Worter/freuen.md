@@ -3,7 +3,10 @@
 haben [[gefreut]]
 
 ---
-- Und besonders mit deiner köstlichen Schoko-Eisbombe. Das [[freut]] mich …
+*Paulinchen aber freut sich sehr*  
+*und sprang im Zimmer hin und her.*  
+
+Und [[besonders]] mit deiner köstlichen Schoko-Eisbombe. Das [[freut]] mich …
 
 Vielen Dank für all die schönen Sachen. Ich habe mich wirklich darüber [[gefreut]]
 

@@ -8,6 +8,9 @@ nicht [[eng]]
 *Ihr Schaffensplatz ist gar nicht [[weit]]*  
 *Ist gleich im Zimmer nebenan
 
+*Doch weh! die Flamme faßt das Kleid,*  
+*die Schürze brennt, es leuchtet [[weit]].*  
+
 ---
 Synonyme: 
 [[ausgedehnt]], [[groß]], [[geräumig]], [[breit]], [[umfassend]], [[weitläufig]]

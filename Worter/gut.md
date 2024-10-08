@@ -75,4 +75,4 @@ good
 
 Tags: 
 #Adjective
-[[Schlecht]][[schade]], [[wohl]], [[Schlimmer]]
+[[Schlecht]][[schade]], [[wohl]], [[Schlimmer]], [[bös]]

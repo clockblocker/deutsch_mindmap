@@ -1,1 +1,1 @@
-🔴 die [[Pranke]]
+🔴 die [[Pranke]], [[Pfote]]

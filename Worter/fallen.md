@@ -34,4 +34,4 @@ Partizip I: [[fallend]], Partizip II: [[gefallen]]
 
 
 +[[über]] = [[überfallen]]
-+[[ein]] = [[einfallen]], [[Extra 8]], [[steigen]]
++[[ein]] = [[einfallen]], [[Extra 8]], [[steigen]], [[stehen]]

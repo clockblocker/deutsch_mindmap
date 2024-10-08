@@ -1,1 +1,1 @@
-, [[fröhlich]]
+, [[fröhlich]], [[leicht]]

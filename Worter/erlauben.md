@@ -1,1 +1,1 @@
-[[stören]]
+[[stören]], [[verbieten]]

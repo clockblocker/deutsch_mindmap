@@ -38,4 +38,4 @@ Tags:
 ---
 
 Morphems:
-[[böse]]
+[[böse]], [[arg]], [[bös]]

@@ -1,0 +1,1 @@
+Aus [[Mitleid]] gebe ich dem [[Obdachlosen]] Geld

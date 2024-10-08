@@ -2,8 +2,8 @@ das [[Spiel]][[zeug]]
 die [[Spielzeuge]]
 
 ---
-
-**Übersetzung**: toy, toys
+*»Ei,« sprach sie, »ei, wie schön und fein!*  
+*Das muß ein trefflich Spielzeug sein.*  
 
 ---
 

@@ -43,3 +43,4 @@ Morpheme: [[reiß]][[en]]
 
 Partizip I: [[reißend]], Partizip II: [[gerissen]]
 
+, [[ausrissen]]

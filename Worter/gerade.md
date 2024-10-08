@@ -1,6 +1,9 @@
 🕒 [[gerade]], [ˈɡeːʁaːdə]
 
 ---
+*das flackert lustig, knistert laut,*  
+*[[grad]] wie ihr’s auf dem Bilde schaut.*  
+
 Er hat sicher das offene Küchenfenster gesehen, und darum ist er [[gerade]] in unser Haus gekommen.
 
 hr kommt [[gerade]] rechtzeitig für meinen Zaubertrick! 
@@ -26,4 +29,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[gerade]], [[gerader]], [[gerade]], [[gerades]], [[geraden]], [[geradem]], [[gerader]], [[geraden]], [[rechtzeitig]], [[Extra 8]], [[11 08]]
+[[gerade]], [[gerader]], [[gerade]], [[gerades]], [[geraden]], [[geradem]], [[gerader]], [[geraden]], [[rechtzeitig]], [[Extra 8]], [[11 08]], [[grad]]

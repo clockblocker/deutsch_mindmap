@@ -66,4 +66,4 @@ to go, to walk
 ---
 
 **Morphems of only infinitive:**  
-- [[geh]][[en]][[untergehen]][[weggehen]], [[liegen]], [[ausgehen]], [[springen]]
+- [[geh]][[en]][[untergehen]][[weggehen]], [[liegen]], [[ausgehen]], [[springen]], [[stehen]]

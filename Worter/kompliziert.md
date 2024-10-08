@@ -37,4 +37,4 @@ Tags:
 
 ---
 Morphems:
-[[kompli]][[ziert]][[einfachen]], [[schwer]]
+[[kompli]][[ziert]][[einfachen]], [[schwer]], [[leicht]]

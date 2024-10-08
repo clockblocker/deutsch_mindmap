@@ -1,15 +1,15 @@
 der [[arm]] / die [[Arme]] | #Substantiv #Masculin | arm
 
 ---
-[[arm]]
-[[ärmer]]
-[[am]] [[ärmsten]]
-
+[[arm]], [[ärmer]], [[am]] [[ärmsten]]
 nicht [[reich]]
 
 ---
 Oh ja, der [[Arme]] kleine Amerikaner!
 Meine Pflanze! Meine [[Arme]] Pflanze!  
+
+*Verbrannt ist alles ganz und gar,*  
+*das [[arme]] Kind mit Haut und Haar;*  
 
 ---
 

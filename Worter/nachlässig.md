@@ -1,1 +1,1 @@
-[[schlampig]], [[faul]]
+[[schlampig]], [[faul]], [[sorglich]]

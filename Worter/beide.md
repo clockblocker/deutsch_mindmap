@@ -10,6 +10,9 @@ MARIA: Eure [[Gesichter]]! Also, seid ihr [[beide]]?
 
 SASCHA: Wir [[beide]] sprechen uns noch …  
 
+*ein Häuflein Asche bleibt allein*  
+*und [[beide]] Schuh, so hübsch und fein.
+
 
 ---
 Synonyme: [[jeder]], [[alle]], [[zusammen]], [[insgesamt]], [[ganz]]

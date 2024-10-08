@@ -1,1 +1,1 @@
-, [[wegzaubern]]
+, [[wegzaubern]], [[wegwerfen]]

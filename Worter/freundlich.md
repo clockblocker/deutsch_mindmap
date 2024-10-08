@@ -1,1 +1,1 @@
-, [[unhöflich]], [[nett]]
+, [[unhöflich]], [[nett]], [[bös]]

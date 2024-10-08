@@ -26,4 +26,4 @@ Beispiele:
 
 Tags:
 #Substantiv
-#Feminin
+#Feminin, [[Schuh]]

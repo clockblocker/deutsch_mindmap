@@ -1,1 +1,1 @@
-, [[Spitze]], [[blindes]]
+, [[Spitze]], [[blindes]], [[bittre]]
