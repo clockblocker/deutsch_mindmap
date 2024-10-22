@@ -1,10 +1,14 @@
 [[wild]]
-[[wilder]]
-[[am]] [[wildesten]]
+
+nicht [[zahm]]
+
+---
 
 Vor langer, langer Zeit lebte die Katze nicht in den Häusern der Menschen, sondern [[wild]] im Busch
 
-nicht [[zahm]]
+
+*Der Niklas wurde bös und [[wild]],*  
+*du siehst es hier auf diesem Bild!*  
 
 ---
 

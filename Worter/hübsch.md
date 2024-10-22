@@ -9,6 +9,8 @@ Hallo Sam und Nic! Ja! Wir sind total [[hübsch]]!
 *ein Häuflein Asche bleibt allein*  
 *und beide Schuh, so [[hübsch]] und fein.*
 
+*Der sprach: »Ihr Kinder, hört mir zu*  
+*und laßt den Mohren [[hübsch]] in Ruh!*  
 
 ---
 Synonyme:

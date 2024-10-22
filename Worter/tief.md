@@ -1,12 +1,15 @@
-[[tief]]
-[[tiefer]]
-[[am]] [[tiefsten]]
+[[tief]], [[tiefer]], [[am]] [[tiefsten]]
 
 nicht [[flach]]
 
 ---
+[[wer hoch steigt, der wird tief fallen]]
+
 *Da biß der Hund ihn in das Bein,*  
 *recht [[tief]] bis in das Blut hinein.*  
+
+*Er tunkt sie in die Tinte [[tief]],*  
+*wie auch der Kaspar »Feuer« rief.*  
 
 ---
 

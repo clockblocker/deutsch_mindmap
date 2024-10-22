@@ -2,8 +2,8 @@
 nicht [[eckig]]
 
 ---
--
--
+*Und auch der Wilhelm war nicht steif*  
+*und brachte seinen [[runden]] Reif.*  
 
 ---
 Synonyme: [[kreisförmig]], [[zirkelrund]], [[kugelförmig]], [[kugelig]], [[roh]]

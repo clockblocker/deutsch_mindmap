@@ -18,4 +18,4 @@ Morphems:
 [[Kleid]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[Rock]]

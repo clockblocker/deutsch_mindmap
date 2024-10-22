@@ -43,4 +43,4 @@ alt (old)
 ---
 Tags: 
 #Adjective
-#Positive | #Comparative | #Superlative
+#Positive | #Comparative | #Superlative, [[Reif]]

@@ -73,4 +73,4 @@ Konjunktiv II:
 - Wenn wir zusammenarbeiten würden, [[glitten]] wir synchron.
 - Wenn ihr euch traut, [[glittet]] ihr über das Eis.
 - Wenn sie die Technik beherrschen, [[glitten]] sie durch die Luft.
-```​⬤
+```​⬤, [[fliegen]]

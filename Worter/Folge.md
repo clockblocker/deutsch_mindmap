@@ -1,5 +1,5 @@
 **die [[Folge]]**
-**die [[Folgen]]**
+**die [[folgen]]**
 
 Beispiele:
 - Und hier ist die [[nächste]] [[Folge]] von Extra!

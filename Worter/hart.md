@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[hart]][[seidig]], [[schwer]], [[streng]]
+[[hart]][[seidig]], [[schwer]], [[streng]], [[steif]]

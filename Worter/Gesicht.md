@@ -34,3 +34,4 @@ Morphems:
 ---
 #Substantiv #Neuter
 
+, [[Angesicht]]

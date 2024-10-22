@@ -4,7 +4,10 @@ haben [[gebracht]]
 
 ---
 - Er hat unsere Milch [[zurückgebracht]]
-- Ich hab' euch etwas [[mitgebracht]]  
+- Ich hab' euch etwas [[mitgebracht]]  \
+
+*Und auch der Wilhelm war nicht steif*  
+*und [[brachte]] seinen runden Reif.*  
 
 ---
 +[[um]] = [[umbringen]]

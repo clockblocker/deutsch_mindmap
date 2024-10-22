@@ -1,1 +1,1 @@
-, [[herum]], [[vorwärts]]
+, [[herum]], [[vorwärts]], [[voraus]]

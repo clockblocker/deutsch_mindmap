@@ -1,4 +1,4 @@
- [[lachen]] + Akk, [ˈlaxən]
+[[lachen]] + Akk, [ˈlaxən]
 [[lachte]]
 haben [[gelacht]]
 
@@ -6,7 +6,11 @@ haben [[gelacht]]
 [[lacht]] ihr nur - aber heute Abend um sechs Uhr, da werdet ihr sehen, 
 dass Nic von nebenan Starqualität hat 
 
+*Die schrien und [[lachten]] alle drei,*  
+*als dort das Mohrchen ging vorbei,*  
 
+*Die Buben aber folgten nicht*  
+*und [[lachten]] ihm ins Angesicht*  
 
 
 ---

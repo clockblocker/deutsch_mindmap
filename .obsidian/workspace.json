@@ -4,80 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc087fb3d3500a6",
+        "id": "3c9a146271e782fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e47ba3f43d62f171",
+            "id": "4e19480c80510cb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Der Struwwelpeter/2 Die gar traurige Geschichte mit dem Feuerzeug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db6cdc3e0af53e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Wiesen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4425b20990bcf943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Häuflein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a52197db2714c8ae",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "65c3bef2c3d1b91e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1aa46008885c31ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/wirf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebe8018a437cc8fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/werfen.md",
+                "file": "Worter/tauchten.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texte/Der Struwwelpeter/2 Die gar traurige Geschichte mit dem Feuerzeug.md",
+                "file": "Worter/tauchten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Der Struwwelpeter/2 Die gar traurige Geschichte mit dem Feuerzeug.md",
+                "file": "Worter/tauchten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Der Struwwelpeter/2 Die gar traurige Geschichte mit dem Feuerzeug.md"
+                "file": "Worter/tauchten.md"
               }
             }
           }
@@ -217,34 +154,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e47ba3f43d62f171",
+  "active": "4e19480c80510cb7",
   "lastOpenFiles": [
-    "Worter/Tränen.md",
-    "Texte/Der Struwwelpeter/2 Die gar traurige Geschichte mit dem Feuerzeug.md",
-    "Worter/Wieses.md",
-    "Worter/Matte.md",
-    "Worter/Wiesen.md",
-    "Worter/Flur.md",
-    "Worter/Grünfläche.md",
-    "Worter/Gras.md",
-    "Worter/Wiese.md",
-    "Worter/Bächleinen.md",
-    "Worter/Bächlein.md",
-    "Worter/Bächleine.md",
-    "Worter/Bächleins.md",
-    "Worter/Flüsschen.md",
-    "Worter/Rinnchen.md",
-    "Worter/Rinnsal.md",
-    "Worter/Bach.md",
-    "Worter/fließen.md",
-    "Worter/fließend.md",
-    "Worter/fließen Sie.md",
-    "Worter/flösset.md",
-    "Worter/fließet.md",
-    "Worter/floßt.md",
-    "Worter/flössen.md",
-    "Worter/flossen.md",
-    "Worter/flössest.md",
+    "Worter/rufen.md",
+    "Texte/Der Struwwelpeter/3 Die Geschichte von den schwarzen Buben.md",
+    "Worter/hätten.md",
+    "Worter/hinterdrein.md",
+    "Worter/drein.md",
+    "Worter/im Anschluss.md",
+    "Worter/voraus.md",
+    "Worter/vorn.md",
+    "Worter/rufend.md",
+    "Worter/rufen Sie.md",
+    "Worter/rief.md",
+    "Worter/riefet.md",
+    "Worter/rufet.md",
+    "Worter/rieft.md",
+    "Worter/riefen.md",
+    "Worter/ruft.md",
+    "Worter/riefest.md",
+    "Worter/rufest.md",
+    "Worter/riefst.md",
+    "Worter/rufst.md",
+    "Worter/riefe.md",
+    "Worter/rufe.md",
+    "Worter/herbeirufen.md",
+    "Worter/verkünden.md",
+    "Worter/ausrufen.md",
+    "Worter/gerufen.md",
     "Texte/Misc1",
     "Texte/Gedichte/Rammstein/Untitled",
     "Anhänge/Pasted image 20240915204253.png",

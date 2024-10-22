@@ -13,4 +13,4 @@ Tags:
 
 **Übersetzung**:
 back
-, [[vorwärts]]
+, [[vorwärts]], [[voraus]]

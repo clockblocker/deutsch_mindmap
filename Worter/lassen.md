@@ -13,6 +13,8 @@ CHARLOTTE: … über heißem Wasser [[schmelzen]] [[lassen]] …
 
 STEFAN: Also zurück zum Thema, [[Lass]] uns über dich und mich reden. 
 
+*Der sprach: »Ihr Kinder, hört mir zu*  
+*und [[laßt]] den Mohren hübsch in Ruh!*  
 
 
 ---

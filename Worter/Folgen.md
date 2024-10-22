@@ -1,59 +1,34 @@
-🚶‍♂️ [[Folgen]]
+👣 [[folgen]] + Dat, [ˈfɔlɡn̩]
 [[folgte]]
-sein [[gefolgt]]
+haben [[gefolgt]]
+
+---
+*Die Buben aber [[folgten]] nicht*  
+*und lachten ihm ins Angesicht*  
+
+
+---
+Synonyme: [[nachgehen]], [[befolgen]], [[nachfolgen]], [[gehorchen]], [[sich richten nach]]
+Antonyme: [[ignorieren]], [[abweichen von]], [[sich widersetzen]]
+
+---
+Übersetzung: to follow
+
+---
+Morpheme: [[fol]][[g]][[en]]
+ #Verb  #Untrennbar
+ 
 
 ---
 
-Synonyme:
-- [[hinterhergehen]], [[nachgehen]], [[nachkommen]]
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[folge]]            | [[folgte]]            | -                 | [[folge]]              | [[folgte]]              |
+| Du        | [[folgst]]           | [[folgtest]]          | [[folg]]          | [[folgest]]            | [[folgetest]]           |
+| Er/sie/es | [[folgt]]            | [[folgte]]            | -                 | [[folge]]              | [[folgte]]              |
+| Wir       | [[folgen]]           | [[folgten]]           | -                 | [[folgen]]             | [[folgten]]             |
+| Ihr       | [[folgt]]            | [[folgtet]]           | [[folgt]]         | [[folget]]             | [[folgtet]]             |
+| Sie       | [[folgen]]           | [[folgten]]           | [[folgen Sie]]    | [[folgen]]             | [[folgten]]             |
 
----
+Partizip I: [[folgend]], Partizip II: [[gefolgt]]
 
-Beispiele:
-
-- Der Hund [[folgte]] seinem Besitzer treu.
-- Sie [[folgte]] ihm bis zum Haus.
-- Die Spuren im Schnee verrieten, wem sie [[gefolgt]] waren.
-
----
-**Übersetzung**: followed
-
----
-
-Morphems of only infinitive:
-[[folg]][[en]]
-
----
-Tags:
-#Verb  #Regelmäßig
-
----
-
-Präteritum:
-
-- Ich [[folgte]] dem Weg durch den Wald.
-- Du [[folgtest]] den Anweisungen genau.
-- Er [[folgte]] dem Ratschlag seines Freundes.
-- Wir [[folgten]] der Spur im Schnee.
-- Ihr [[folgtet]] dem Geräusch bis zur Quelle.
-- Sie [[folgten]] den Lichtstrahlen bis zum Ausgang.
-
----
-
-Imperativ:
-
-- [[Folge]] mir unauffällig!
-- [[Folgt]] dem Anführer!
-- [[Folgen wir]] der Route!
-- [[Folgen Sie]] mir bitte!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[Folge]] immer dem Licht.
-- Sie meint, du [[folgest]] den richtigen Hinweisen.
-- Er behauptet, er [[Folge]] seinem Instinkt.
-- Wir erklären, wir [[Folgen]] den Spuren.
-- Ihr sagt, ihr [[folget]] der Anleitung.
-- Sie sagen, sie [[Folgen]] der Wahrheit**die [[Folge]]**

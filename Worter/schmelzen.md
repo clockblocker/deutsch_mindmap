@@ -68,4 +68,4 @@ Konjunktiv II:
 - Wenn er Sonne sähe, [[schmölze]] er sofort.
 - Wenn wir aufpassen würden, [[schmölzen]] wir langsamer.
 - Wenn ihr in der Sonne wäret, [[schmölzet]] ihr bald.
-- Wenn sie in der Hitze wären, [[schmölzen]] sie vollständig.
+- Wenn sie in der Hitze wären, [[schmölzen]] sie vollständig., [[lassen]]

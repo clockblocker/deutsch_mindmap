@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ruhe]], [[Ruhen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Ruh]]
