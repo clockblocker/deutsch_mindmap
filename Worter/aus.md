@@ -1,1 +1,1 @@
-[[hinaus]][[aussuchen]], [[aussehen]], [[Ausbildung]], [[ausgehen]], [[suchen]], [[ausreißen]], [[ausrissen]], [[voraus]], [[aussichtslos]]
+[[hinaus]][[aussuchen]], [[aussehen]], [[Ausbildung]], [[ausgehen]], [[suchen]], [[ausreißen]], [[ausrissen]], [[voraus]], [[aussichtslos]], [[auslachen]]

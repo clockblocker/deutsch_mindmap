@@ -31,4 +31,4 @@ Morpheme: [[flacker]][[en]]
 Partizip I: [[flackernd]], Partizip II: [[geflackert]]
 
 [[flackern]] - [[flacker]][[en]]
-''', [[knistern]]
+''', [[knistern]], [[brennen]]

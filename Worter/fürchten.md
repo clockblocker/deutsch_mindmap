@@ -3,7 +3,11 @@
 haben [[gefürchtet]]
 
 ---
-[[Fürchtet]] euch, fürchtet euch nicht  
+*Alle warten auf das Licht*
+*[[Fürchtet]] euch, fürchtet euch nicht*  
+
+*und schießen will’s aus dem Gewehr.*  
+*Der Jäger aber [[fürcht]] sich sehr.*  
 
 
 ---
@@ -31,4 +35,3 @@ Morpheme: [[fürch]][[ten]]
 Partizip I: [[fürchtend]], Partizip II: [[gefürchtet]]
 
 [[fürchten]] - no prefix/separable part
-'''

@@ -1,13 +1,11 @@
 🔵 der [[Hase]]
 die [[Hasen]]\
 
+---
 Zuerst schloss sie Freundschaft mit dem [[Hasen]] und begleitete ihn überall hin.
 
-Beispiele:
-
-- Der [[Hase]] hoppelte über das Feld.
-- Sie beobachtete die [[Hasen]] im Park.
-- Ein [[Hase]] versteckte sich im Gebüsch.
+*Er trug die Brille auf der Nas*  
+*und wollte schießen tot den Has.
 
 ---
 Synonyme:

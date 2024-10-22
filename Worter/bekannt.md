@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[bekannt]], [[bekannter]], [[bekannte]], [[bekanntes]], [[bekannten]], [[bekanntem]], [[bekannter]], [[bekannten]]
 [[bekanntere]], [[bekannterer]], [[bekanntere]], [[bekannteres]], [[bekannteren]], [[bekannterem]], [[bekannterer]], [[bekannteren]]
-[[bekanntesten]], [[bekanntester]], [[bekannteste]], [[bekanntestes]], [[bekanntesten]], [[bekannlestem]], [[bekanntester]], [[bekanntesten]]
+[[bekanntesten]], [[bekanntester]], [[bekannteste]], [[bekanntestes]], [[bekanntesten]], [[bekannlestem]], [[bekanntester]], [[bekanntesten]], [[heimlich]]

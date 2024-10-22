@@ -1,1 +1,1 @@
-[[erwachen]]
+[[erwachen]], [[schlafen]]

@@ -5,6 +5,12 @@ sein [[gelaufen]]
 ---
  Im Kino [[laufen]] bestimmt gute Filme.  
 
+*Und als der Jäger schnarcht und schlief,*  
+*der Has ganz heimlich zu ihm [[lief]]*  
+
+*Er [[läuft]] davon und springt und schreit:*  
+*»Zu Hilf, ihr Leut, zu Hilf, ihr Leut!
+
 ---
 Synonyme: [[rennen]], [[joggen]], [[gehen]], [[spazieren]], [[traben]]
 Antonyme: [[sitzen]], [[liegen]], [[stehen]], [[bleiben]]

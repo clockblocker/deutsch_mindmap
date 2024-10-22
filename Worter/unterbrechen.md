@@ -1,1 +1,1 @@
-[[stören]][[bestehen]]
+[[stören]][[bestehen]], [[losschießen]]

@@ -1,11 +1,10 @@
-Prosessed the word Röcklein. Identified it as Noun.
-
 🟢 das [[Röcklein]], [ˈrœklʌɪ̯n]
 die [[Röcklein]]
 
 
 ---
-
+*Es zog der wilde Jägersmann*  
+*sein grasgrün neues Röcklein an;*  
 
 ---
 Synonyme:

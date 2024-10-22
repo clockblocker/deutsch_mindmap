@@ -1,2 +1,2 @@
 die [[Person]]
-die [[Leute]]
+die [[Leute]], [[Leut]]

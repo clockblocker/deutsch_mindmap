@@ -1,13 +1,19 @@
 ANNA: Vielleicht – aber kein Wort [[Da]][[von]] zu Sascha!
 Nein, [[davon]] versteht er sicher nichts.
 
+*und nahm die Flint und auch die Brill*  
+*und schlich [[davon]] ganz leis und still.*
+
+*Er läuft [[davon]] und springt und schreit:*  
+*»Zu Hilf, ihr Leut, zu Hilf, ihr Leut!
+
 [[davonlaufen]]
 
 Wir haben eine lange Reise hinter uns und sind alle recht müde [[davon]]
 
 
-**[darüber]**
-**[hierüber]**
+[[darüber]]
+[[hierüber]]
 
 #Pronoun
 

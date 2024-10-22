@@ -30,4 +30,4 @@ Einzigartige mögliche Formen:
 
 
 [[schwierig]][[einfachen]], [[schwer]], [[unbequem]], [[ernst]], [[einfach]]
-, [[bitterlich]], [[leichtsinnig]]
+, [[bitterlich]], [[leichtsinnig]], [[tief]]

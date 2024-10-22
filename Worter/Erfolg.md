@@ -18,3 +18,4 @@ Morphems:
 
 ---
 #Substantiv #Maskulin
+, [[werden]]

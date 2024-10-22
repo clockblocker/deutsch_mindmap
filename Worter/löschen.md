@@ -1,1 +1,1 @@
-, [[anreißen]], [[anzünden]], [[zünden]]
+, [[anreißen]], [[anzünden]], [[zünden]], [[brennen]]

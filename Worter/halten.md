@@ -3,6 +3,9 @@
 haben [[gehalten]]
 
 ---
+*Er schrie: »Wer hat mich da verbrannt?«*  
+*und [[hielt]] den Löffel in der Hand.*
+
 Wir [[halten]] zusammen Keiner kämpft allein 
 
 [[Für wen hält sich die]]

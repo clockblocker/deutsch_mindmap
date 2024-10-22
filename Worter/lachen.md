@@ -12,6 +12,8 @@ dass Nic von nebenan Starqualität hat 
 *Die Buben aber folgten nicht*  
 *und [[lachten]] ihm ins Angesicht*  
 
+---
+[[auslachen]] - [[aus]] = [[lachen]]
 
 ---
 Synonyme: [[kichern]], [[grinsen]], [[schmunzeln]], [[prusten]], [[glucksen]]
@@ -38,4 +40,4 @@ Morpheme: [[lach]][[en]]
 
 Partizip I: [[lachend]], Partizip II: [[gelacht]]
 
-[[lachen]] - keine Trennbarkeit, [[anlachen]]
+[[lachen]] - keine Trennbarkeit, [[anlachen]], [[auslachen]]

@@ -1,1 +1,1 @@
-, [[wehrten]]
+, [[wehrten]], [[Gewehr]]

@@ -3,6 +3,11 @@
 haben [[geschossen]]
 
 ---
+*Er trug die Brille auf der Nas*  
+*und wollte [[schießen]] [[tot]] den Has.*
+
+*und [[schießen]] will’s aus dem Gewehr.*  
+*Der Jäger aber fürcht sich sehr.*  
 
 ---
 +[[ab]] = [[abschießen]]
@@ -72,4 +77,4 @@ Konjunktiv II:
 - Wenn er ruhig bleibt, [[schösse]] er besser.
 - Wenn wir zusammenarbeiten, [[schössen]] wir mehr Tore.
 - Wenn ihr euch konzentriert, [[schösset]] ihr besser.
-- Wenn sie Zeit hätten, [[schössen]] sie perfekt.
+- Wenn sie Zeit hätten, [[schössen]] sie perfekt., [[losschießen]]

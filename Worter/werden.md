@@ -14,78 +14,41 @@ STEFAN: … Ja Sascha, und mit deiner Figur ... [[wirst]] du auch vie
 
 NIC: Einen heißen Kaffee. Das hier wird ihm Feuer geben.  
 
+*Jetzt schien die Sonne gar zu sehr,*  
+*da [[ward]] ihm sein Gewehr zu schwer.*  
+
 ---
 Wir werden eine Rise machen = Futur 
 Wir werden oft gefragt = Passiv
 Wir werden krank / reich = Anderung 
 
+---
+Synonyme: 
+- [[entstehen]], [[sich entwickeln]], [[umwandeln]], [[verwandeln]], [[ändern]], [[zukünftig sein]]
+Antonyme:
+- [[bleiben]], [[verharren]], [[verweilen]], [[stagnieren]]
 
+---
+Übersetzung: 
+to become, to turn into, to grow, to develop
+
+---
+Morpheme:
+[[werd]][[en]]
+
+---
+ #Verb #Untrennbar
 
 ---
 
-**Synonyme:**
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[werde]]            | [[wurde]]             | -                 | [[werde]]              | [[würde]]               |
+| Du        | [[wirst]]            | [[wurdest]]           | [[werde]]         | [[werdest]]            | [[würdest]]             |
+| Er/sie/es | [[wird]]             | [[wurde]]             | -                 | [[werde]]              | [[würde]]               |
+| Wir       | [[werden]]           | [[wurden]]            | -                 | [[werden]]             | [[würden]]              |
+| Ihr       | [[werdet]]           | [[wurdet]]            | [[werdet]]        | [[werdet]]             | [[würdet]]              |
+| Sie       | [[werden]]           | [[wurden]]            | [[werden Sie]]    | [[werden]]             | [[würden]]              |
 
-- [[entwickeln]], [[entstehen]], [[wachsen]]
+Partizip I: [[werdend]], Partizip II: [[geworden]]
 
----
-
-**Beispiele:**
-
-- Ich [[werde]] müde.
-- Du [[wirst]] groß.
-- Er [[wird]] Arzt.
-- Es [[wird]] dunkel.
-- Sie [[wird]] nervös.
-- Wir [[werden]] älter.
-- Ihr [[werdet]] stärker.
-- Sie [[werden]] erfolgreich.
-
----
-
-**Übersetzung**:
-to become, to get, to turn
-
----
- #Verb  #Unregelmäßig
-
----
-
-**Präteritum:**
-
-- Ich [[wurde]] müde.
-- Du [[wurdest]] groß.
-- Er [[wurde]] Arzt.
-- Es [[wurde]] dunkel.
-- Sie [[wurde]] nervös.
-- Wir [[wurden]] älter.
-- Ihr [[wurdet]] stärker.
-- Sie [[wurden]] erfolgreich.
-
----
-
-**Imperativ:**
-
-- Ich [[werde]] gesund.
-- Du [[werd]] gesund.
-- Er [[werde]] gesund.
-- Es [[wird]] gesund.
-- Sie [[werde]] gesund.
-- Wir [[werden]] gesund.
-- Ihr [[werdet]] gesund.
-- Sie [[werden]] gesund.
-
-Konjunktiv II
-- Wenn ich reich wäre, [[würde]] ich eine Weltreise machen.
-- Wenn du Zeit hättest, [[würdest]] du mir helfen?
-- Wenn er hier wäre, [[würde]] er das sofort verstehen.
-- Wenn wir zusammenarbeiten, [[würden]] wir es schaffen.
-- Wenn ihr pünktlich wärt, [[würdet]] ihr den Zug nicht verpassen.
-- Wenn sie die Wahrheit kennen würden, [[würden]] sie anders handeln.\
-
-Konjunktiv I
-
-
----
-
-**Morphems of only infinitive:**  
-- [[werd]][[en]], [[loswerden]]

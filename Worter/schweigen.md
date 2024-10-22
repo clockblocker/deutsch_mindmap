@@ -1,1 +1,1 @@
-[[erzählen]][[reden]], [[klingen]], [[klopfen]], [[vorlesen]], [[sprechen]], [[knistern]], [[rufen]]
+[[erzählen]][[reden]], [[klingen]], [[klopfen]], [[vorlesen]], [[sprechen]], [[knistern]], [[rufen]], [[schnarchen]]

@@ -6,6 +6,9 @@ sein [[geschlichen]]
 *Da mit der Peitsch herzu sich [[schleichen|schlich]]*  
 *der bitterböse Friederich;*  
 
+*und nahm die Flint und auch die Brill*  
+*und [[schlich]] davon ganz leis und still.*
+
 
 ---
 

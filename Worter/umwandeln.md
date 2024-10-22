@@ -1,1 +1,1 @@
-[[verändern]][[ändern]]
+[[verändern]][[ändern]], [[werden]]

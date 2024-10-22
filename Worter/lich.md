@@ -2,4 +2,4 @@
 [[wirklich]]
 
 [[männlich]]
-[[täglich]][[glücklich]], [[möglich]], [[fröhlich]], [[gefährlich]], [[plötzlich]], [[bitterlich]], [[sorglich]], [[jämmerlich]]
+[[täglich]][[glücklich]], [[möglich]], [[fröhlich]], [[gefährlich]], [[plötzlich]], [[bitterlich]], [[sorglich]], [[jämmerlich]], [[heimlich]]

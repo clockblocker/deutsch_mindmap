@@ -1,5 +1,8 @@
 [[selbst]]
 
+*Die Brille hat das Häschen jetzt*  
+*sich [[selbst]] auf seine Nas gesetzt;*  
+
 ---
 
 [[ich selbst]]

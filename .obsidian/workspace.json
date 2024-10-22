@@ -8,27 +8,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4f20211c21dfc5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Schmerz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d9d39013a3fdefc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Röcklein.md",
+                "file": "Texte/Der Struwwelpeter/4 Die Geschichte vom wilden Jäger.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "4 Die Geschichte vom wilden Jäger"
+            }
+          },
+          {
+            "id": "5406d1de31119bc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "cfa8716826daf28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Brünnchen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brünnchen"
+            }
+          },
+          {
+            "id": "3ab96b4a504ea2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/fürcht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fürcht"
+            }
+          },
+          {
+            "id": "62583df533ddd53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/*Und als der Jäger schnarcht und schlief,*  *der Has ganz heimlich zu ihm lief*  schnarcht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "*Und als der Jäger schnarcht und schlief,*  *der Has ganz heimlich zu ihm lief*  schnarcht"
+            }
+          },
+          {
+            "id": "c5f473658925bb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/ward.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ward"
+            }
+          },
+          {
+            "id": "338dfe2b46a23280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Pulverhorn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pulverhorn"
             }
           }
         ]
@@ -51,7 +121,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -66,7 +138,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -97,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worter/Schmerz.md",
+                "file": "Texte/Der Struwwelpeter/4 Die Geschichte vom wilden Jäger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +181,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4 Die Geschichte vom wilden Jäger"
             }
           },
           {
@@ -114,10 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worter/Schmerz.md",
+                "file": "Texte/Der Struwwelpeter/4 Die Geschichte vom wilden Jäger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4 Die Geschichte vom wilden Jäger"
             }
           },
           {
@@ -128,7 +208,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,8 +219,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worter/Schmerz.md"
-              }
+                "file": "Texte/Der Struwwelpeter/4 Die Geschichte vom wilden Jäger.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4 Die Geschichte vom wilden Jäger"
             }
           }
         ],
@@ -165,34 +249,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b4f20211c21dfc5c",
+  "active": "d9d39013a3fdefc0",
   "lastOpenFiles": [
-    "Texte/Gedichte/Misc/Es ist was es ist.md",
-    "Worter/Liebe.md",
-    "Worter/Sympathie.md",
-    "Worter/Herzlichkeit.md",
-    "Worter/Zuneigung.md",
-    "Worter/unmöglich.md",
-    "Worter/Erfahrung.md",
-    "Worter/Inkompetenz.md",
-    "Worter/Unerfahrenheit.md",
-    "Worter/Vertrautheit.md",
-    "Worter/Expertise.md",
-    "Worter/Kompetenz.md",
-    "Worter/Kenntnis.md",
-    "Worter/Erfahrungen.md",
-    "Worter/unmöglich stem.md",
-    "Worter/unmöglichsten.md",
-    "Worter/unmöglich stes.md",
-    "Worter/unmöglichster.md",
-    "Worter/unmöglichste.md",
-    "Worter/unmöglicherem.md",
-    "Worter/unmöglicherer.md",
-    "Worter/unmöglicheres.md",
-    "Worter/unmöglicheren.md",
-    "Worter/unmöglichere.md",
-    "Worter/unmöglichem.md",
-    "Worter/unmöglicher.md",
+    "Worter/Löffel.md",
+    "Texte/Der Struwwelpeter/4 Die Geschichte vom wilden Jäger.md",
+    "Worter/hielt.md",
+    "Worter/halten.md",
+    "Worter/brennen.md",
+    "Worter/brennen Sie.md",
+    "Worter/brenntet.md",
+    "Worter/brennten.md",
+    "Worter/brenntest.md",
+    "Worter/brandtest.md",
+    "Worter/brennte.md",
+    "Worter/brenn.md",
+    "Worter/schwelen.md",
+    "Worter/funkeln.md",
+    "Worter/flammen.md",
+    "Worter/glühen.md",
+    "Worter/verbrannt.md",
+    "Worter/verbrannten.md",
+    "Worter/verbranntem.md",
+    "Worter/verbranntes.md",
+    "Worter/verbrannter.md",
+    "Worter/verbrannte.md",
+    "Worter/brann.md",
+    "Worter/unverbrannt.md",
+    "Worter/entzündet.md",
+    "Worter/verschmort.md",
     "Texte/Gedichte/Misc",
     "Texte/Misc1",
     "Texte/Gedichte/Rammstein/Untitled",

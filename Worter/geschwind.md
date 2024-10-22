@@ -5,6 +5,9 @@ nicht [[langsam]], nicht [[träge]]
 *"Herbei! Herbei! Wer hilft [[geschwind]]?*  
 *In Feuer steht das ganze Kind!*  
 
+*nahm Ranzen, Pulverhorn und Flint*  
+*und lief hinaus ins Feld [[geschwind]].
+
 ---
 Synonyme: [[schnell]], [[rasch]], [[flink]], [[hurtig]], [[behende]], [[eilig]]
 Antonyme: [[langsam]], [[träge]], [[schwerfällig]], [[saumseelig]], [[schleppend]]

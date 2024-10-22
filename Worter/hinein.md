@@ -4,6 +4,10 @@
 *Ins Bett muß Friedrich nun [[hinein]],*  
 *litt vielen Schmerz an seinem Bein;*  
 
+*Er springt [[hinein]]. Die Not war groß;*  
+*es schießt der Has die Flinte los.*
+
+
 Ich werde Sascha aus diesem Kasten wegzaubern … und in diesen Kasten [[hinein]]  
 
 

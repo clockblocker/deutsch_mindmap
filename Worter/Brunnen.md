@@ -22,4 +22,4 @@ Morphems:
 
 ---
 #Substantiv #Maskulin
-```​⬤
+```​⬤, [[Brünnchen]], [[Brünn]]

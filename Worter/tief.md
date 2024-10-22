@@ -1,6 +1,5 @@
-[[tief]], [[tiefer]], [[am]] [[tiefsten]]
-
-nicht [[flach]]
+🔵 [[tief]], [tiːf]
+[[tiefere]], [[tiefsten]]
 
 ---
 [[wer hoch steigt, der wird tief fallen]]
@@ -11,28 +10,35 @@ nicht [[flach]]
 *Er tunkt sie in die Tinte [[tief]],*  
 *wie auch der Kaspar »Feuer« rief.*  
 
----
+*Da kommt der wilde Jägersmann*  
+*zuletzt beim [[tiefen]] Brünnchen an.*  
 
-Synonyme:
-- [[abgründig]], [[versunken]], [[dunkel]]
-
----
-
-Beispiele:
-
-- Das Wasser ist hier [[tief]].
-- Der [[tiefe]] Brunnen birgt viele Geheimnisse.
-- Der [[tiefste]] Punkt des Meeres ist unerreichbar.
 
 ---
-**Übersetzung**: deep
+Synonyme: 
+[[abgründig]], [[bodenlos]], [[eingehend]], [[fundamental]], [[gründlich]], [[profund]], [[substantiell]]
+Antonyme:
+[[seicht]], [[oberflächlich]], [[banal]], [[trivial]], [[flach]], [[leicht]]
 
 ---
-
-Tags:
-#Adjective
+**Übersetzung**:
+deep
 
 ---
+#Adjective [[tief]]
 
-Morphems:
+---
+Morpheme:
 [[tief]]
+
+---
+
+
+Einzigartige mögliche Formen: 
+[[tief]], [[tiefe]], [[tiefen]], [[tiefes]], [[tiefem]], [[tieferer]], [[tieferes]], [[tiefere]], [[tieferen]], [[tiefster]], [[tiefste]], [[tiefstes]], [[tiefsten]], [[tiefstem]]
+
+---
+
+
+---
+
