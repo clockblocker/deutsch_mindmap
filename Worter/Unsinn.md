@@ -5,6 +5,8 @@ Beispiele:
 - SASCHA: Okay … okay! Aber mach keinen [[Unsinn]]! Stefan ist mein Chef! 
 - Christiane, [[rede keinen Unsinn]]!
 
+*Es ist [[Unsinn]]  sagt die [[Vernunft]]* 
+
 ---
 Synonyme:
 - [[Blödsinn]], [[Quatsch]], [[Nonsens]]

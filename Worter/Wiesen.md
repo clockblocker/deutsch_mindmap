@@ -3,7 +3,7 @@ die [[Wiese]]
 
 ---
 *Und ihre Tränen fließen  
-*wie’s Bächlein auf den Wiesen.
+*wie’s Bächlein auf den [[Wiesen]].
 
 
 ---

@@ -1,1 +1,1 @@
-[[Überheblich]], [[frech]], [[berühmt]]
+[[Überheblich]], [[frech]], [[berühmt]], [[stolz]]

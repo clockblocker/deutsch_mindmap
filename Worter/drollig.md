@@ -1,1 +1,1 @@
-, [[witzig]], [[lustig]]
+, [[witzig]], [[lustig]], [[lächerlich]]

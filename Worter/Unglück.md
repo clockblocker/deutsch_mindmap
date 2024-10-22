@@ -4,7 +4,8 @@ die [[Unglücke]]
 ---
 SASCHA: Weil diese Farbe mir sehr viel Unglück bringt und heute Lotto-Tag ist.  
 
--
+*Es ist [[Unglück]]*  
+*sagt die [[Berechnung]]*  
 
 ---
 Synonyme: 

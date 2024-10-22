@@ -4,7 +4,9 @@ die [[Vernünfte]]
 ---
 
 *Ist nur eine schmale Brücke*  
-*Die Ufer sind Vernunft und Trieb*  
+*Die Ufer sind [[Vernunft]] und Trieb*  
+
+Es ist [[Unsinn]] sagt die [[Vernunft]]  
 
 ---
 Synonyme:

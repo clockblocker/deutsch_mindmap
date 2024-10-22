@@ -1,1 +1,1 @@
-, [[ernst]]
+, [[ernst]], [[lächerlich]]

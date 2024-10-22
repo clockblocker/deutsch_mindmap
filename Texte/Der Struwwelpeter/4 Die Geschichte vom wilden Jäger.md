@@ -1,10 +1,15 @@
 https://www.youtube.com/watch?v=dlHBzo_9YTo
 ![[Pasted image 20240815084223.png]]
 
-Es zog der wilde Jägersmann  
-sein grasgrün neues Röcklein an;  
+Es [[anziehen|zog]] der wilde Jägersmann  
+sein [[grasgrün]] neues [[Röcklein]] an;  
 nahm Ranzen, Pulverhorn und Flint  
 und lief hinaus ins Feld geschwind.
+
+*Es zog der wilde Jägersmann*  
+*sein grasgrün neues Röcklein an;*  
+*nahm Ranzen, Pulverhorn und Flint*  
+*und lief hinaus ins Feld geschwind.*
 
 Er trug die Brille auf der Nas  
 und wollte schießen tot den Has.

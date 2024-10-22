@@ -1,1 +1,1 @@
-[[Rechnung]]
+[[Rechnung]], [[Berechnung]]

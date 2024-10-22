@@ -4,6 +4,9 @@ die [[Lieben]]
 ---
 Der wahre Traum der Liebe
 
+*Es ist was es ist*  
+*sagt die [[Liebe]]*
+
 ---
 
 Beispiele:

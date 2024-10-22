@@ -8,6 +8,8 @@ Beispiele:
 *Getadelt wird, wer [[Schmerzen]] kennt*  
 *Vom Feuer, das die Haut verbrennt*
 
+*Es ist nichts als [[Schmerz]]*  
+*sagt die [[Angst]]*  
 
 ---
 Synonyme:

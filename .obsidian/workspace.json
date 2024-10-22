@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "3c9a146271e782fc",
+        "id": "fbb70c6841e996ab",
         "type": "tabs",
         "children": [
           {
-            "id": "4e19480c80510cb7",
+            "id": "b4f20211c21dfc5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/tauchten.md",
+                "file": "Worter/Schmerz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d39013a3fdefc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Röcklein.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worter/tauchten.md",
+                "file": "Worter/Schmerz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worter/tauchten.md",
+                "file": "Worter/Schmerz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worter/tauchten.md"
+                "file": "Worter/Schmerz.md"
               }
             }
           }
@@ -154,34 +165,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4e19480c80510cb7",
+  "active": "b4f20211c21dfc5c",
   "lastOpenFiles": [
-    "Worter/rufen.md",
-    "Texte/Der Struwwelpeter/3 Die Geschichte von den schwarzen Buben.md",
-    "Worter/hätten.md",
-    "Worter/hinterdrein.md",
-    "Worter/drein.md",
-    "Worter/im Anschluss.md",
-    "Worter/voraus.md",
-    "Worter/vorn.md",
-    "Worter/rufend.md",
-    "Worter/rufen Sie.md",
-    "Worter/rief.md",
-    "Worter/riefet.md",
-    "Worter/rufet.md",
-    "Worter/rieft.md",
-    "Worter/riefen.md",
-    "Worter/ruft.md",
-    "Worter/riefest.md",
-    "Worter/rufest.md",
-    "Worter/riefst.md",
-    "Worter/rufst.md",
-    "Worter/riefe.md",
-    "Worter/rufe.md",
-    "Worter/herbeirufen.md",
-    "Worter/verkünden.md",
-    "Worter/ausrufen.md",
-    "Worter/gerufen.md",
+    "Texte/Gedichte/Misc/Es ist was es ist.md",
+    "Worter/Liebe.md",
+    "Worter/Sympathie.md",
+    "Worter/Herzlichkeit.md",
+    "Worter/Zuneigung.md",
+    "Worter/unmöglich.md",
+    "Worter/Erfahrung.md",
+    "Worter/Inkompetenz.md",
+    "Worter/Unerfahrenheit.md",
+    "Worter/Vertrautheit.md",
+    "Worter/Expertise.md",
+    "Worter/Kompetenz.md",
+    "Worter/Kenntnis.md",
+    "Worter/Erfahrungen.md",
+    "Worter/unmöglich stem.md",
+    "Worter/unmöglichsten.md",
+    "Worter/unmöglich stes.md",
+    "Worter/unmöglichster.md",
+    "Worter/unmöglichste.md",
+    "Worter/unmöglicherem.md",
+    "Worter/unmöglicherer.md",
+    "Worter/unmöglicheres.md",
+    "Worter/unmöglicheren.md",
+    "Worter/unmöglichere.md",
+    "Worter/unmöglichem.md",
+    "Worter/unmöglicher.md",
+    "Texte/Gedichte/Misc",
     "Texte/Misc1",
     "Texte/Gedichte/Rammstein/Untitled",
     "Anhänge/Pasted image 20240915204253.png",
@@ -201,7 +213,6 @@
     "Texte/Gedichte/Pop",
     "Texte/Gedichte/Folk",
     "Lektionen/Kamanova/Audio/L-02.mp3",
-    "Lektionen/Kamanova/Audio/L-11.mp3",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

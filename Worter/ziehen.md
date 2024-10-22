@@ -12,6 +12,7 @@ haben [[gezogen]]
 ---
 + + [[weiter]] = [[weiterziehen]]
 - + [[um]] = [[umziehen]] 
+- + [[an]] = [[anziehen]] 
 
 ---
 Synonyme: [[zerren]], [[reißen]], [[schleifen]], [[schleppen]], [[verziehen]]
