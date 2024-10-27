@@ -8,7 +8,11 @@
 *laß stehn! [[sonst]] brennst du lichterloh!
 
 *Miau! Mio! Miau! Mio!*  
-*wirf’s weg! sonst brennst du lichterloh!*
+*wirf’s weg! [[sonst]] brennst du lichterloh!*
+
+*denn der Schneider mit der Scher*  
+*kommt [[sonst]] ganz geschwind daher,*  
+*und die Daumen schneidet er*  
 
 ---
 Synonyme:

@@ -1,5 +1,5 @@
 SAM: Ihr [[ward]] sehr nett zu mir.  
- [[werden]], [[nett]]
+[[war]]
 
 ---
 *Jetzt schien die Sonne gar zu sehr,*  

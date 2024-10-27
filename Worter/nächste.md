@@ -2,6 +2,10 @@
 [[näher]]
 [[am]] [[nächsten]]
 
+
+*Am [[nächsten]] Tag, – ja sieh nur her!*  
+*da war er schon viel magerer.*  
+
 Synonyme:
 - [[kommend]]
 - [[bevorstehend]]

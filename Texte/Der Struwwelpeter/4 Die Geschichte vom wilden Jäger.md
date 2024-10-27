@@ -25,10 +25,12 @@ und [[schlich]] [[davon]] ganz [[leis]] und [[still]].
 ![[Pasted image 20240815084241.png]]
 Die Brille hat das Häschen jetzt  
 sich [[selbst]] auf seine Nas gesetzt;  
+
 und [[schießen]] [[will’s]] aus dem [[Gewehr]].  
 Der Jäger aber [[fürcht]] sich sehr.  
 Er [[läuft]] [[davon]] und springt und schreit:  
 »Zu Hilf, ihr [[Leut]], zu Hilf, ihr Leut!
+
 
 
 ![[Pasted image 20240815084258.png]]
@@ -49,4 +51,4 @@ dem floß der Kaffee auf die Nas.
 Er schrie: »Wer hat mich da [[verbrannt]]?«  
 und [[hielt]] den [[Löffel]] in der Hand.
 
-
+x

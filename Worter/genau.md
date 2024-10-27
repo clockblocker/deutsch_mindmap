@@ -23,4 +23,4 @@ Tags:
 
 ---
 Morphems:
-[[ge]][[nau]], [[eben]], [[gerade]], [[wahr]]
+[[ge]][[nau]], [[eben]], [[gerade]], [[wahr]], [[ordentlich]]

@@ -1,1 +1,1 @@
-, [[gesund]]
+, [[gesund]], [[kerngesund]]

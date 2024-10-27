@@ -29,3 +29,4 @@ Einzigartige mögliche Formen:
 [[frechste]], [[frechster]], [[frechstes]], [[frechste]], [[frechsten]], [[frechstem]], [[frechster]], [[frechsten]]
 
 , [[Frechheit]]
+, [[gehorsam]]

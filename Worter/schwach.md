@@ -3,7 +3,10 @@
 [[am]] [[schwächsten]]
 
 ---
-Sie fühlte sich aber einsam und [[schwach]].
+Sie fühlte sich aber [[einsam]] und [[schwach]].
+
+*Am dritten Tag, o weh und ach!*  
+*wie ist der Kaspar [[dünn]] und [[schwach]]!*  
 
 ---
  
@@ -33,4 +36,4 @@ Tags:
 ---
 
 Morphems:
-[[schwach]], [[gesund]], [[übermächtig]]
+[[schwach]], [[gesund]], [[übermächtig]], [[kerngesund]]

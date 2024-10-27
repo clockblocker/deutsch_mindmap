@@ -35,4 +35,3 @@ Morpheme: [[unter]][[geh]][[en]]
 Partizip I: [[untergehend]], Partizip II: [[untergegangen]]
 
 [[untergehen]] - [[unter]] = [[gehen]]
-'''

@@ -1,1 +1,1 @@
-[[getrennt]][[abgepackt]][[gefallen]], [[geliehen]], [[gehören]], [[gesellen]], [[zählen]], [[geschwind]]
+[[getrennt]][[abgepackt]][[gefallen]], [[geliehen]], [[gehören]], [[gesellen]], [[zählen]], [[geschwind]], [[gehen]], [[gehorsam]]

@@ -5,6 +5,8 @@ haben [[behalten]]
 ---
 SASCHA: … [[ behalten|behalt]] deinen Job, du Schleimer, du Oktopus!  
 
+Das Kind bricht das Essen. (Es kann das Essen nicht [[behalten]].)
+
 ---
 
 Synonyme:

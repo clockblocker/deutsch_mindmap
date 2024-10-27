@@ -12,6 +12,12 @@ Hallo Sam und Nic! Ja! Wir sind total [[hübsch]]!
 *Der sprach: »Ihr Kinder, hört mir zu*  
 *und laßt den Mohren [[hübsch]] in Ruh!*  
 
+*Sei [[hübsch]] ordentlich und fromm,*  
+*bis nach Haus ich wieder komm.*  
+
+*Er hatte Backen rot und frisch;*  
+*die Suppe aß er [[hübsch]] bei Tisch.*  
+
 ---
 Synonyme:
 - [[schön]], [[attraktiv]], [[ansehnlich]], [[reizvoll]], [[anmutig]]

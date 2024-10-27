@@ -3,8 +3,11 @@
 haben [[gefangen]]
 
 ---
-- *Er [[fing]] die Fliegen in dem Haus*  
-  *und riß ihnen die Flügel aus.*  
+*Er [[fing]] die Fliegen in dem Haus*  
+*und riß ihnen die Flügel aus.*  
+
+*gleich [[fing]] er wieder an zu schrein:*  
+*»Ich esse keine Suppe! nein!*  
 
 ---
 

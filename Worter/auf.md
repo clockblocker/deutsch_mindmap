@@ -1,1 +1,1 @@
-, [[aufbauen]], [[bauen]], [[aufdrehen]]
+, [[aufbauen]], [[bauen]], [[aufdrehen]], [[aufgehen]], [[gehen]]

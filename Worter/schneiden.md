@@ -1,3 +1,4 @@
+
 ✂️ [[schneiden]] + Akk, [ˈʃnaɪ̯dn̩]
 [[schnitt]]
 haben [[geschnitten]]
@@ -27,7 +28,7 @@ Morpheme: [[schneid]][[en]]
 | Du | [[schneidest]] | [[schnittst]] | [[schneide]] | [[schneidest]] | [[schnitttest]] |
 | Er/sie/es | [[schneidet]] | [[schnitt]] | - | [[schneide]] | [[schnitte]] |
 | Wir | [[schneiden]] | [[schnitten]] | - | [[schneiden]] | [[schnitten]] |
-| Ihr | [[schneidet]] | [[schnittet]] | [[schneidet]] | [[schneider]] | [[schnittet]] |
+| Ihr | [[schneidet]] | [[schnittet]] | [[schneidet]] | [[Schneider]] | [[schnittet]] |
 | Sie | [[schneiden]] | [[schnitten]] | [[schneiden Sie]] | [[schneiden]] | [[schnitten]] |
 
 Partizip I: [[schneidend]], Partizip II: [[geschnitten]]

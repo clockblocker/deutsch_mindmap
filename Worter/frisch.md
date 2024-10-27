@@ -4,6 +4,8 @@ nicht [[alt]], nicht [[verfault]]
 ---
 MARIA: Und jetzt muss ich mich [[frisch]] machen …  
 
+*Er hatte Backen rot und [[frisch]];*  
+*die Suppe aß er hübsch bei Tisch.*  
 
 ---
 Synonyme: [[neu]], [[grün]], [[unberührt]], [[sauber]], [[klar]], [[kühl]]

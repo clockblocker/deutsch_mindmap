@@ -1,5 +1,5 @@
-🚶‍♂️ [[gehen]]  
-[[ging]]  
+🚶‍♂️  [[gehen]] + Dat, [ˈɡeːən]
+[[ging]]
 sein [[gegangen]]
 
 ---
@@ -9,61 +9,40 @@ sein [[gegangen]]
 - [[Jetzt geht das wieder los]]
 - NIC: Ach, na ja - … es [[ging]] so  
 
+---
+[[untergehen]] - [[unter]] = [[gehen]]
+[[aufgehen]] - [[auf]] = [[gehen]]
+[[weggehen]] - [[weg]] = [[gehen]]
+
 
 ---
 
-**Synonyme:**
+Synonyme: [[laufen]], [[wandern]], [[schreiten]], [[spazieren]], [[treten]]
+Antonyme: [[stehen]], [[bleiben]], [[sitzen]], [[liegen]], [[hocken]]
 
-- [[laufen]], [[wandern]], [[schreiten]]
 
----
 
-**Beispiele:**
 
-- Ich [[gehe]] jeden Tag spazieren.
-- Du [[gehst]] zur Schule.
-- Er [[geht]] ins Büro.
-- Es [[geht]] nicht mehr.
-- Sie [[geht]] zum Arzt.
-- Wir [[gehen]] oft wandern.
-- Ihr [[geht]] in die Stadt.
-- Sie [[gehen]] ins Kino.
 
 ---
-
-**Übersetzung**:
-to go, to walk
+Übersetzung: to go, to walk
 
 ---
- #Verb  #Unregelmäßig
-
+Morpheme: [[ge]][[h]][[en]]
+ #Verb  #Trennbar
+ 
 ---
 
-**Präteritum:**
 
-- Ich [[ging]] jeden Tag spazieren.
-- Du [[gingst]] zur Schule.
-- Er [[ging]] ins Büro.
-- Es [[ging]] nicht mehr.
-- Sie [[ging]] zum Arzt.
-- Wir [[gingen]] oft wandern.
-- Ihr [[gingt]] in die Stadt.
-- Sie [[gingen]] ins Kino.
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[gehe]] | [[ging]] | - | [[gehe]] | [[ginge]] |
+| Du | [[gehst]] | [[gingst]] | [[geh]] | [[gehest]] | [[gingest]] |
+| Er/sie/es | [[geht]] | [[ging]] | - | [[gehe]] | [[ginge]] |
+| Wir | [[gehen]] | [[gingen]] | - | [[gehen]] | [[gingen]] |
+| Ihr | [[geht]] | [[gingt]] | [[geht]] | [[gehet]] | [[hinget]] |
+| Sie | [[gehen]] | [[gingen]] | [[gehen Sie]] | [[gehen]] | [[gingen]] |
 
----
+Partizip I: [[gehend]], Partizip II: [[gegangen]]
 
-**Imperativ:**
-
-- Ich [[gehe]] jetzt.
-- Du [[geh|gehe]] jetzt.
-- Er [[gehe]] jetzt.
-- Es [[geht]] jetzt.
-- Sie [[gehe]] jetzt.
-- Wir [[gehen]] jetzt.
-- Ihr [[geht]] jetzt.
-- Sie [[gehen]] jetzt.
-
----
-
-**Morphems of only infinitive:**  
-- [[geh]][[en]][[untergehen]][[weggehen]], [[liegen]], [[ausgehen]], [[springen]], [[stehen]], [[rennen]], [[fliegen]]
+[[untergehen]], [[weggehen]], [[liegen]], [[ausgehen]], [[springen]], [[stehen]], [[rennen]], [[fliegen]], [[aufgehen]]

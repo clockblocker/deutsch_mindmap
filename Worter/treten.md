@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er mehr Zeit hätte, [[träte]] er näher.
 - Wenn wir es wüssten, [[träten]] wir sofort ein.
 - Wenn ihr schneller wäret, [[trätet]] ihr vor.
-- Wenn sie wollten, [[träten]] sie in den Verein ein.
+- Wenn sie wollten, [[träten]] sie in den Verein ein., [[gehen]]

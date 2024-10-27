@@ -1,1 +1,1 @@
-, [[Trinken]]
+, [[Trinken]], [[lutschen]]

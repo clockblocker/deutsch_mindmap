@@ -1,1 +1,1 @@
-🔵 der [[Bube]], [ˈbuːbə]
+🔵 der [[Bube]], [ˈbuːbə], [[Bub]]

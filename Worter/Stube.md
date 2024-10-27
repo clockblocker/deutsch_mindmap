@@ -1,11 +1,9 @@
-Processed the word Stube. Identified it as a Noun.
-
 🔴 die [[Stube]], [ˈʃtuːbə]
 die [[Stuben]]
 
 ---
--
--
+*springt der Schneider in die [[Stub]]  
+*zu dem Daumen-Lutscher-Bub.*  
 
 ---
 Synonyme:

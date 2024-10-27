@@ -31,4 +31,4 @@ Morpheme: [[hock]][[en]]
 Partizip I: [[hockend]], Partizip II: [[gehockt]]
 
 
-, [[stehen]]
+, [[stehen]], [[gehen]]

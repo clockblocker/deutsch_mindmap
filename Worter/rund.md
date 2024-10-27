@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[rund]], [[runder]], [[runde]], [[rundes]], [[runden]], [[rundem]], [[runder]], [[runden]]
 [[runderer]], [[rundere]], [[runderes]], [[runderen]], [[runderem]], [[runderer]], [[runderen]]
-[[rundesten]], [[rundester]], [[rundeste]], [[rundestem]], [[rundesten]], [[rundester]], [[rundesten]]
+[[rundesten]], [[rundester]], [[rundeste]], [[rundestem]], [[rundesten]], [[rundester]], [[rundesten]], [[kugelrund]]

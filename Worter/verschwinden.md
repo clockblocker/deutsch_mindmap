@@ -1,1 +1,1 @@
-[[untergehen]][[weggehen]], [[sein]]
+[[untergehen]][[weggehen]], [[sein]], [[aufgehen]]

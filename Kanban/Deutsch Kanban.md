@@ -17,10 +17,21 @@ kanban-plugin: board
 - [ ] [[Fullmetal]]
 
 
+## Rammstein
+
+- [ ] [[Sonne]]
+- [ ] [[Haifisch]]
+- [ ] [[Zeig dich]]
+- [ ] [[Du riechst so gut]]
+
+
 ## Done
 
+- [ ] [[4 Die Geschichte vom wilden Jäger]]
+- [ ] [[3 Die Geschichte von den schwarzen Buben]]
 - [ ] [[Ohne dich]]
 - [ ] [[Puppe]]
+- [ ] [[2 Die gar traurige Geschichte mit dem Feuerzeug]]
 - [ ] [[Feuer frei!]]
 - [ ] [[Mann Gegen Mann]]
 - [ ] [[Engel]]
@@ -35,17 +46,10 @@ kanban-plugin: board
 - [ ] [[Rammstein]]
 
 
-## Rammstein
-
-- [ ] [[Sonne]]
-- [ ] [[Haifisch]]
-- [ ] [[Zeig dich]]
-- [ ] [[Du riechst so gut]]
-
-
 ## Struwwelpeter
 
-- [ ] [[2 Die gar traurige Geschichte mit dem Feuerzeug]]
+- [ ] [[5 Die Geschichte vom Daumenlutscher]]
+- [ ] [[6 Die Geschichte vom Suppen-Kaspar]]
 
 
 ## Emil
@@ -97,6 +101,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false,true,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,false,false,true,false,true,true,false,false]}
 ```
 %%

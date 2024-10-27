@@ -8,6 +8,10 @@ nicht [[langsam]], nicht [[träge]]
 *nahm Ranzen, Pulverhorn und Flint*  
 *und lief hinaus ins Feld [[geschwind]].
 
+*denn der Schneider mit der Scher*  
+*kommt sonst ganz [[geschwind]] daher,*  
+*und die Daumen schneidet er*  
+
 ---
 Synonyme: [[schnell]], [[rasch]], [[flink]], [[hurtig]], [[behende]], [[eilig]]
 Antonyme: [[langsam]], [[träge]], [[schwerfällig]], [[saumseelig]], [[schleppend]]

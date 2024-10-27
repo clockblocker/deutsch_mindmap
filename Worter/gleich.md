@@ -4,17 +4,18 @@ nicht [[unterschiedlich]]
 = [[wie]]
 
 ---
-*Frau W. geht [[gleich]] ins Wohnzimmer.*
-*Das habe ich mir [[gleich]] gedacht.*
+Frau W. geht [[gleich]] ins Wohnzimmer. Das habe ich mir [[gleich]] gedacht.
 
-*Wolfgang, sieh doch [[gleich]] mal nach*
-*ist [[gleich]] nur etwas [[anders]]*
+Wolfgang, sieh doch [[gleich]] mal nach ist [[gleich]] nur etwas [[anders]]
 
 *Mann gegen Mann*  
 *[[Gleich]] und Gleich gesellt sich gern*  
 
 *Ihr Schaffensplatz ist gar nicht weit*  
 *Ist [[gleich]] im Zimmer nebenan*
+
+*[[gleich]] fing er wieder an zu schrein:*  
+*»Ich esse keine Suppe! nein!*  
 
 [[geselle]], [[Gesellschaft]], 
 

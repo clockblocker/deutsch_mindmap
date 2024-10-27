@@ -3,4 +3,4 @@ das [[Köpfchen]]
 das [[Täubchen]]
 
 
-, [[Hölzchen]], [[Fähnchen]], [[Brünnchen]]
+, [[Hölzchen]], [[Fähnchen]], [[Brünnchen]], [[Fädchen]]

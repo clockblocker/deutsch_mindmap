@@ -7,6 +7,8 @@
 ---
 SASCHA: So, die wären wir los!  
 
+*[[Sei]] hübsch ordentlich und fromm,*  
+*bis nach Haus ich wieder komm.*  
 
 ---
 Synonyme: [[existieren]], [[vorhanden sein]], [[zutreffen]], [[dastehen]], [[gelten]]

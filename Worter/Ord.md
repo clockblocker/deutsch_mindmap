@@ -1,5 +1,5 @@
 [[Ordnung]]
 [[Orden]]
 [[Ordnen]]
-[[Ordentlich]]
+[[ordentlich]]
 [[Ordnungsthema]]

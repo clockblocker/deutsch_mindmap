@@ -24,4 +24,4 @@ Tags:
 ---
 
 Morphems:
-[[Da]][[rüber]], [[dabei]], [[11 08]], [[davon]]
+[[Da]][[rüber]], [[dabei]], [[11 08]], [[davon]], [[daran]]

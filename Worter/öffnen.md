@@ -1,1 +1,1 @@
-[[drücken]], [[dammen]], [[festziehen]], [[beißen]]
+[[drücken]], [[dammen]], [[festziehen]], [[beißen]], [[aufgehen]]

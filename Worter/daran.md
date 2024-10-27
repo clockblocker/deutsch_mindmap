@@ -1,5 +1,11 @@
 🔵 daran
 
+Denkst du an Anja?
+Ja, ich denke an sie.
+
+Denkst du an deine Rente?
+Ja, ich denke [[daran]].
+
 ---
  [[hattest]] du nicht [[daran]] gedacht, es zu schließen, Brigitte?
 
