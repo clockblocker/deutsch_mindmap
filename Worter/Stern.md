@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sterns]], [[Sterne]], [[Sternen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Sonne]]

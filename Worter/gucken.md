@@ -1,0 +1,4 @@
+[[gucken]]
+[[sehen]]
+[[schauen]]
+[[anblicken]]

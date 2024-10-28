@@ -8,6 +8,9 @@ sein [[untergegangen]]
 *Und [[warte]] hier im [[Daunenbeet]]*  
 *Bis die Sonne [[untergeht]]*
 
+*Sie wird heut Nacht nicht [[untergehen]]*  
+*Und die Welt zählt laut bis zehn*
+
 
 ---
 Synonyme: [[versinken]], [[untergehen]], [[verschwinden]], [[enden]], [[zu Grunde gehen]]

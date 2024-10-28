@@ -30,8 +30,3 @@ Am _vierten_ Tage endlich gar
 der Kaspar wie ein [[Fädchen]] war.  
 Er [[wiegen|wog]] vielleicht ein [[halbes]] [[Lot]] –  
 und war am _fünften_ Tage tot.
-
-*Am vierten Tage endlich gar*  
-*der Kaspar wie ein Fädchen war.*  
-*Er wog vielleicht ein halbes Lot –*  
-*und war am fünften Tage tot.*

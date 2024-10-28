@@ -1,1 +1,1 @@
-[[regeln]][[arrangieren]]
+[[regeln]][[arrangieren]], [[verbrennen]]

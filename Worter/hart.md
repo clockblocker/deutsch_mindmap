@@ -1,8 +1,10 @@
-[[hart]]
-[[härter]]
-[[am]] [[härtesten]]
+[[hart]], [[härter]], [[am]] [[härtesten]]
 
 nicht [[weich]]
+
+---
+*Lässt dich hart zu Boden geh'n*
+*Und die Welt zählt laut bis zehn*
 
 ---
 

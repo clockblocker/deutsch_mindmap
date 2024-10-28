@@ -1,1 +1,1 @@
-, [[Waldesrand]], [[blindes]]
+, [[Waldesrand]], [[blindes]], [[halbes]]

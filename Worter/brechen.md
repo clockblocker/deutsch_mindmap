@@ -1,76 +1,32 @@
-💥 [[brechen]]
+💥 [[brechen]] + Akk/Gen, [ˈbrɛçn̩]
 [[brach]]
 haben [[gebrochen]]
 
 ---
+*Wenn sie aus den Fäusten [[bricht]]*  
+*Legt sich heiß auf das Gesicht*
 
-Synonyme:
-- [[zerbrechen]], [[zerschlagen]], [[durchbrechen]]
+---
+Synonyme: [[zerbrechen]], [[kaputtmachen]], [[zerstören]], [[zerschlagen]], [[spalten]], [[trennen]]
+Antonyme: [[reparieren]], [[wiederherstellen]], [[zusammenfügen]], [[fixieren]]
+
+---
+Übersetzung: to break
+
+---
+Morpheme: [[brech]][[en]]
+ #Verb #Trennbar
 
 ---
 
-Beispiele:
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[breche]] | [[brach]] | - | [[breche]] | [[bräche]] |
+| Du | [[brichst]] | [[brachst]] | [[brich]] | [[brechest]] | [[brächost]] |
+| Er/sie/es | [[bricht]] | [[brach]] | - | [[breche]] | [[bräche]] |
+| Wir | [[brechen]] | [[brachen]] | - | [[brechen]] | [[brächen]] |
+| Ihr | [[brecht]] | [[bracht]] | [[brecht]] | [[brechet]] | [[brächet]] |
+| Sie | [[brechen]] | [[brachen]] | [[brechen Sie]] | [[brechen]] | [[brächen]] |
 
-- Ich [[breche]] das Brot in zwei Teile.
-- Du [[brichst]] den Stab durch.
-- Er [[bricht]] das Glas.
-- Sie [[brechen]] den Rekord.
-- Es [[bricht]] das Schweigen.
-- Wir [[brechen]] die Regeln.
-- Ihr [[brecht]] das Eis.
-- Sie [[brechen]] die Mauer.
+Partizip I: [[brechend]], Partizip II: [[gebrochen]]
 
----
-**Übersetzung**: to break
-
----
-
-Morphems of only infinitive:
-[[Brech]][[en]]
-
----
-Tags:
-#Verb #Unregelmäßige
-
----
-
-Präteritum:
-
-- Ich [[brach]] das Glas.
-- Du [[brachst]] den Stock.
-- Er [[brach]] den Spiegel.
-- Wir [[brachen]] den Rekord.
-- Ihr [[brachtet]] das Eis.
-- Sie [[brachen]] die Tür.
-
----
-
-Imperativ:
-
-- [[Brich]] das Brot!
-- [[brecht]] die Kette!
-- [[Brechen wir]] den Rekord!
-- [[Brechen Sie]] das Schweigen!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[breche]] den Rekord.
-- Sie meint, du [[brechest]] das Glas.
-- Er behauptet, er [[breche]] die Regeln.
-- Wir erklären, wir [[brechen]] das Eis.
-- Ihr sagt, ihr [[brechet]] die Stille.
-- Sie sagen, sie [[brechen]] die Tradition.
-
----
-
-Konjunktiv II:
-
-- Wenn ich stärker wäre, [[bräche]] ich den Stock.
-- Wenn du es versuchtest, [[brächtest]] du den Rekord.
-- Wenn er mehr Mut hätte, [[bräche]] er das Schweigen.
-- Wenn wir zusammenarbeiteten, [[brächen]] wir die Tür.
-- Wenn ihr es wüsstet, [[brächet]] ihr den Spiegel.
-- Wenn sie könnten, [[brächen]] sie die Regeln.
-```​⬤

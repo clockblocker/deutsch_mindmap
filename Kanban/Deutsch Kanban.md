@@ -19,7 +19,6 @@ kanban-plugin: board
 
 ## Rammstein
 
-- [ ] [[Sonne]]
 - [ ] [[Haifisch]]
 - [ ] [[Zeig dich]]
 - [ ] [[Du riechst so gut]]
@@ -27,6 +26,9 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[Sonne (das lied)]]
+- [ ] [[6 Die Geschichte vom Suppen-Kaspar]]
+- [ ] [[5 Die Geschichte vom Daumenlutscher]]
 - [ ] [[4 Die Geschichte vom wilden Jäger]]
 - [ ] [[3 Die Geschichte von den schwarzen Buben]]
 - [ ] [[Ohne dich]]
@@ -48,8 +50,6 @@ kanban-plugin: board
 
 ## Struwwelpeter
 
-- [ ] [[5 Die Geschichte vom Daumenlutscher]]
-- [ ] [[6 Die Geschichte vom Suppen-Kaspar]]
 
 
 ## Emil

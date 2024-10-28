@@ -21,3 +21,4 @@ Morpheme: [[ver]][[brann]][[t]]
 ---
 Weitere Formen:
 [[verbrannte]], [[verbrannter]], [[verbranntes]], [[verbranntem]], [[verbrannten]]
+, [[verbrennen]]

@@ -1,1 +1,1 @@
-🔴 die [[Tatze]], [ˈtatsə], [[Pfote]]
+🔴 die [[Tatze]], [ˈtatsə], [[Pfote]], [[Fäuste]]

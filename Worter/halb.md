@@ -1,1 +1,1 @@
-[[ganz]], [[deshalb]], [[Halbleinen]]
+[[ganz]], [[deshalb]], [[Halbleinen]], [[halbes]]

@@ -1,4 +1,4 @@
-🟢 das [[Gesicht]]
+das [[Gesicht]]
 die [[Gesichter]]
 
 ---
@@ -11,6 +11,9 @@ MARIA: Eure [[Gesichter]]! Also, seid ihr beide?
 
 *Ich werf ein Licht in mein [[Gesicht]]*  
 *Ein heißer Schrei, Feuer frei!*  
+
+*Wenn sie aus den Fäusten bricht*  
+*Legt sich heiß auf das [[Gesicht]]*
 
 
 ---

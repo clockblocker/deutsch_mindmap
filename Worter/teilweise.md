@@ -1,1 +1,1 @@
-[[ganz]][[Alle]][[überhaupt]], [[völlig]]
+[[ganz]][[Alle]][[überhaupt]], [[völlig]], [[halbes]]

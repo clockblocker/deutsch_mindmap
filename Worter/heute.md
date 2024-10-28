@@ -1,3 +1,4 @@
 [[heute]]  
 [[morgen]]  
 [[gestern]]  
+, [[heut]]

@@ -5,7 +5,7 @@ Alle [[warten]] auf das Licht
 [[Fürchtet]] euch, fürchtet euch nicht  
 Die Sonne scheint mir aus den Augen
 
-Sie wird heut Nacht nicht untergeh'n  
+Sie wird [[heut]] Nacht nicht [[untergehen]]  
 Und die Welt zählt laut bis zehn
 
 Eins, hier kommt die Sonne  
@@ -14,9 +14,9 @@ Drei, sie ist der hellste Stern von allen
 Vier, hier kommt die Sonne
 
 Die Sonne scheint mir aus den Händen  
-Kann verbrennen, kann euch blenden  
-Wenn sie aus den Fäusten bricht  
-Legt sich heiß auf das Gesicht
+Kann [[verbrennen]], kann euch [[blenden]]  
+Wenn sie aus den [[Fäusten]] [[bricht]]  
+Legt sich heiß auf das [[Gesicht]]
 
 Sie wird heut Nacht nicht untergeh'n
 
@@ -36,9 +36,15 @@ Die Sonne scheint mir aus den Händen
 Kann verbrennen, kann dich blenden  
 Wenn sie aus den Fäusten bricht  
 Legt sich heiß auf dein Gesicht
-Legt sich schmerzend auf die Brust  
-Das Gleichgewicht wird zum Verlust  
-Lässt dich hart zu Boden geh'n
+
+*Legt sich schmerzend auf die Brust*  
+*Das Gleichgewicht wird zum Verlust*  
+*Lässt dich hart zu Boden geh'n*
+*Und die Welt zählt laut bis zehn*
+
+Legt sich [[schmerzend]] auf die [[Brust]]  
+Das [[Gleichgewicht]] wird zum [[Verlust]]  
+Lässt dich [[hart]] zu [[Boden]] [[gehen]]
 Und die Welt zählt laut bis zehn
 
 (Eins) Hier kommt die Sonne  

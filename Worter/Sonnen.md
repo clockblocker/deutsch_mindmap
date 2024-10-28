@@ -1,1 +1,1 @@
-, [[Sonnenschein]], [[Sonnenlicht]]
+, [[Sonnenschein]], [[Sonnenlicht]], [[Sonne]]

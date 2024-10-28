@@ -1,1 +1,1 @@
-[[Übernehmen]], [[meinen]], [[abmessen]], [[nehm]]
+[[Übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]]

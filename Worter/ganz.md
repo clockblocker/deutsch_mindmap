@@ -26,4 +26,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[ganz]], [[ganze]], [[ganzes]], [[ganzer]], [[ganzen]], [[ganzem]]
-[[ganzer]], [[ganzer]], [[beide]], [[ganz und gar]]
+[[ganzer]], [[ganzer]], [[beide]], [[ganz und gar]], [[halbes]]

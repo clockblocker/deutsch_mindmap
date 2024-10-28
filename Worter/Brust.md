@@ -1,9 +1,11 @@
 🔴 die [[Brust]]
 die [[Brüste]]
 
-Beispiele:
-- Hab' es aus meiner [[Brust]] gerissen
+---
+*Hab' es aus meiner [[Brust]] gerissen*
 
+*Legt sich schmerzend auf die Brust*
+*Das Gleichgewicht wird zum Verlust*  
 
 ---
 Synonyme:

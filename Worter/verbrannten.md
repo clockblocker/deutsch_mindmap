@@ -1,1 +1,1 @@
-, [[verbrannt]]
+, [[verbrannt]], [[verbrennen]]

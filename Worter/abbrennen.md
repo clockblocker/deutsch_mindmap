@@ -1,1 +1,1 @@
-, [[zünden]]
+, [[zünden]], [[verbrennen]]
