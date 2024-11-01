@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schale]], [[Schalen]], [[Schalen]], [[Schalen]]
 
 ---
-#Substantiv #Neutrum, [[Kaffeetaß]]
+#Substantiv #Neutrum, [[Kaffeetaß]], [[Becken]]

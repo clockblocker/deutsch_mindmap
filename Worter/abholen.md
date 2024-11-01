@@ -5,6 +5,7 @@ haben [[abgeholt]]
 ---
 SASCHA: Kannst du mein Kleid von der Reinigung abholen?  
 
+Außerdem [[holt ab|holt]] ihn meine Mutter am Bahnhof Friedrichstraße ab. 
 
 ---
 Synonyme: [[einsammeln]], [[mitnehmen]], [[empfangen]], [[entgegennehmen]], [[abfangen]]

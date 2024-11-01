@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schachtes]], [[Schacht]], [[Schächte]], [[Schächten]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Tiefe]]

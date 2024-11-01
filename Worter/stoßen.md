@@ -1,1 +1,1 @@
-[[ziehen]][[werfen]]
+[[ziehen]][[werfen]], [[schieben]]

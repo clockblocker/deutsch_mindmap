@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 [[dien]], [[dienere]], [[dienere]], [[dienes]], [[dienen]], [[dienem]], [[dienere]], [[dienen]]
 [[dienerer]], [[dienererer]], [[dienere]], [[dienereres]], [[dieneren]], [[dienerem]], [[dienererer]], [[dieneren]]
 [[dienstesten]], [[dienstester]], [[diensteste]], [[dienstestes]], [[dienstesten]], [[dienstem]], [[dienstester]], [[dienstesten]]
-, [[bedienen]]
+, [[bedienen]], [[verdienen]]

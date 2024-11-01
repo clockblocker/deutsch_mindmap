@@ -1,1 +1,1 @@
-, [[festziehen]], [[einhängen]], [[spannen]]
+, [[festziehen]], [[einhängen]], [[spannen]], [[hängen]]

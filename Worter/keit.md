@@ -1,1 +1,1 @@
-, [[Wirklichkeit]]
+, [[Wirklichkeit]], [[Fähigkeiten]], [[Fähigkeit]]

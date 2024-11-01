@@ -31,4 +31,4 @@ Tags:
 Morphems:
 [[recht]]
 
-, [[rechtzeitig]], [[11 08]]
+, [[rechtzeitig]], [[11 08]], [[rechte]]

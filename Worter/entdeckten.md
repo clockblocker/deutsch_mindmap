@@ -1,0 +1,1 @@
+📚 [[entdecken]] + Akk, [ɛntˈdɛkən]

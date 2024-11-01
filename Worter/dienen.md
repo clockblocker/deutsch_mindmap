@@ -30,4 +30,4 @@ Morpheme: [[dien]][[en]]
 
 Partizip I: [[dienend]], Partizip II: [[gedient]]
 
-+[[be]] = [[bedienen]]
++[[be]] = [[bedienen]], [[verdienen]]

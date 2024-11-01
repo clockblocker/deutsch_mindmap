@@ -1,1 +1,1 @@
-[[untergehen]], [[tauchten]]
+[[untergehen]], [[tauchten]], [[untertauchen]], [[verschwinden]]

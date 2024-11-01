@@ -1,1 +1,1 @@
-[[Waschmittel]]
+[[Waschmittel]], [[Seife]]

@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[verschiedene]], [[verschiedener]], [[verschiedenes]], [[verschiedenen]], [[verschiedenem]]
 [[verschiedenere]], [[verschiedenerer]], [[verschiedeneres]], [[verschiedeneren]], [[verschiedenerem]]
-[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]]
+[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]]

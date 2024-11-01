@@ -5,6 +5,8 @@ nicht [[locker]], nicht [[weich]]
 *Sie müssen sich an Sterne [[krallen]], (ganz [[fest]])*  
 *damit sie nicht vom Himmel fallen.*
 
+Aber ich glaube [[fest]] daran, Aang kann diese Welt retten.
+
 [[festziehen]],
 
 ---
@@ -30,4 +32,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[fest]], [[fester]], [[feste]], [[festes]], [[festen]], [[festem]], [[fester]], [[festen]]
 [[festest]], [[festester]], [[festeste]], [[festestes]], [[festesten]], [[festestem]], [[festester]], [[festesten]]
-, [[steif]]
+, [[steif]], [[flüssigen]]

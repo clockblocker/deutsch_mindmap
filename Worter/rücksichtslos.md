@@ -1,1 +1,1 @@
-, [[streng]], [[leichtsinnig]]
+, [[streng]], [[leichtsinnig]], [[anständig]]

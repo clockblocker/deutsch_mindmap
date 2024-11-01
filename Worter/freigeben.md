@@ -1,1 +1,1 @@
-[[drücken]], [[dammen]], [[greifen]], [[fassen]], [[beißen]], [[verbieten]], [[hüllen]]
+[[drücken]], [[dammen]], [[greifen]], [[fassen]], [[beißen]], [[verbieten]], [[hüllen]], [[aufhalten]]

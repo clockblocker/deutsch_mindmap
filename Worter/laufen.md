@@ -11,6 +11,12 @@ sein [[gelaufen]]
 *Er [[läuft]] davon und springt und schreit:*  
 *»Zu Hilf, ihr Leut, zu Hilf, ihr Leut!
 
+*Und der Haifisch der hat Tränen*  
+*Und die [[laufen]] vom Gesicht*  
+*Doch der Haifisch lebt im Wasser*  
+*So die Tränen sieht man nicht*  
+
+
 ---
 Synonyme: [[rennen]], [[joggen]], [[gehen]], [[spazieren]], [[traben]]
 Antonyme: [[sitzen]], [[liegen]], [[stehen]], [[bleiben]]
@@ -36,3 +42,4 @@ Morpheme: [[lauf]][[en]]
 Partizip I: [[laufend]], Partizip II: [[gelaufen]]
 
 [[kriechen]], [[liegen]]
+, [[hinterherlaufen]]

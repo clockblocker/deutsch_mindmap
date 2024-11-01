@@ -1,3 +1,2 @@
-Alle [[anderen]] 
+🟢 [[andere]], [ˈandɐ̆ʁə]
 
-other[[andere]][[anders]]

@@ -1,21 +1,42 @@
 https://archive.org/details/Emil_und_die_Detektive/Emil_Kapitel_00.wav
-https://www.youtube.com/watch?v=ZfMD-ZpwI94
+https://www.youtube.com/watch?v=XJ6DnU68dw4&list=PLm528RB36sFAxr-d5Wp3MsHPiYBUP22Ih
 	pdf https://nosologoethevlc.wordpress.com/wp-content/uploads/2013/03/kc3a4stner-erich-emil-und-die-detektive.pdf
 
 Erstes Kapitel 
 
-Emil hilft [[Köpfe]] [[waschen]] So -, sagte Frau Tischbein, 
-"und nun bringe mir mal den [[Krug]] mit dem warmen Wasser nach!" Sie [[selber]] nahm einen anderen Krug und den kleinen blauen Topf mit der flüssigen Kamillenseife und spazierte aus der Küche in die [[Stube]]. Emil packte seinen Krug an und lief hinter der Mutter her. 
+Emil hilft [[Köpfe]] [[waschen]] 
 
-In der Stube saß eine Frau und hielt den Kopf über das weiße Waschbecken gebückt. Ihre Frisur war aufgelöst und hing wie drei Pfund Wolle nach unten. Emils Mutter goß die Kamillenseife in das blonde Haar und begann, den fremden Kopf zu waschen, daß es schäumte. 
+So -, sagte Frau Tischbein, 
+"und nun [[nachbringen|bringe]] mir mal den [[Krug]] mit dem warmen Wasser nach!" Sie [[selber]] nahm einen [[anderen]] Krug und den kleinen blauen [[Topf]] mit der [[flüssigen]] [[Kamillenseife]] und spazierte aus der Küche in die [[Stube]]. Emil packte seinen Krug an und [[hinterherlaufen|lief]] hinter der Mutter her. 
+
+In der Stube saß eine Frau und [[hielt]] den Kopf über das weiße [[Waschbecken]] [[gebückt]]. Ihre [[Frisur]] war [[aufgelöst]] und [[hing]] wie drei [[Pfund]] [[Wolle]] [[nach unten]]. Emils Mutter [[goß]] die Kamillenseife in das blonde Haar und begann, den [[fremden]] Kopf zu waschen, daß es [[schäumte]]. 
 
 
 --Ist es nicht zu heiß? - fragte sie. 
 --Nein, es geht -, antwortete der Kopf. 
+--Ach, das ist ja Frau [[Bäckermeister]] [[Wirth]]! Guten Tag! - sagte Emil und [[schob]] seinen Krug unter die [[Waschtoilette]]. 
+--Du hast's gut, Emil. Du fährst nach Berlin, [[wie ich höre]] -, [[meinte]] der Kopf. Und es [[klang]], als [[spräche]] [[wer]], der in [[Schlagsahne]] [[untertauchen|untergetaucht]] worden ist. 
+-- [[Erst]] hatte er [[zwar]] [[keine rechte Lust]] -, sagte die Mutter und schrubbte die Bäckermeisterin. 
+--Aber [[wozu]] soll der Junge die [[Ferien]] hier [[totschlagen]]? Er kennt Berlin [[überhaupt]] noch nicht. Und meine Schwester Martha hat uns schon immer mal [[einladen]] wollen. Ihr Mann [[verdient]] ganz [[anständig]]. Er ist bei der Post. Im [[Innendienst]]. Ich kann [[freilich]] nicht mitfahren. Vor den [[Feiertagen]] gibt's viel zu tun. Na, er ist [[ja groß genug]] und muß [[eben]] [[unterwegs]] gut [[aufpassen]]. [[Außerdem]] [[holt ab|holt]] ihn meine Mutter am Bahnhof Friedrichstraße ab. Sie [[treffen]] sich am Blumenkiosk. - 
+
 --Ach, das ist ja Frau Bäckermeister Wirth! Guten Tag! - sagte Emil und schob seinen Krug unter die Waschtoilette. 
---Du hast's gut, Emil. Du fährst nach Berlin, wie ich höre -, meinte der Kopf. Und es klang, als spräche wer, der in Schlagsahne untergetaucht worden ist. 
+--Du hast's gut, Emil. Du fährst nach Berlin, wie ich höre -, meinte der Kopf. 
+Und es klang, als spräche wer, der in [[Schlagsahne]] untergetaucht worden ist. 
+
 --Erst hatte er zwar keine rechte Lust -, sagte die Mutter und schrubbte die Bäckermeisterin. 
---Aber wozu soll der Junge die Ferien hier totschlagen? Er kennt Berlin überhaupt noch nicht. Und meine Schwester Martha hat uns schon immer mal einladen wollen. Ihr Mann verdient ganz anständig. Er ist bei der Post. Im Innendienst. Ich kann freilich nicht mitfahren. Vor den Feiertagen gibt's viel zu tun. Na, er ist ja groß genug und muß eben unterwegs gut aufpassen. Außerdem holt ihn meine Mutter am Bahnhof Friedrichstraße ab. Sie treffen sich am Blumenkiosk. - 
+--Aber wozu soll der Junge die Ferien hier totschlagen? 
+Er kennt Berlin überhaupt noch nicht. 
+Und meine Schwester Martha hat uns schon immer mal einladen wollen. 
+Ihr Mann verdient ganz anständig. 
+Er ist bei der Post. 
+Im Innendienst. 
+Ich kann freilich nicht mitfahren. 
+Vor den Feiertagen gibt's viel zu tun. 
+Na, er ist ja groß genug und muß eben unterwegs gut aufpassen. 
+Außerdem holt ihn meine Mutter am Bahnhof Friedrichstraße ab. 
+Sie treffen sich am Blumenkiosk. 
+
+
 --Berlin wird ihm sicher gefallen. Das ist was für Kinder. Wir waren vor anderthalb Jahren mit dem Kegelklub drüben. So ein Rummel! Da gibt es doch wirklich Straßen, die nachts genau so hell sind wie am Tage. Und die Autos! - berichtete Frau Wirth aus der Tiefe des Waschbeckens. 
 --Sehr viele ausländische Wagen? - fragte Emil. 
 --Woher soll ich denn das wissen? - sagte Frau Wirth und mußte niesen. Ihr war Seifenschaum in die Nase gekommen. 

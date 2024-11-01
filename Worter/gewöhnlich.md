@@ -1,1 +1,1 @@
-[[täglich]][[normal]][[besonders]]
+[[täglich]][[normal]][[besonders]], [[erstaunlich]]

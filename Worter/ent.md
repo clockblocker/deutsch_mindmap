@@ -1,1 +1,1 @@
-, [[enthüllen]], [[hüllen]]
+, [[enthüllen]], [[hüllen]], [[entdeckten]]

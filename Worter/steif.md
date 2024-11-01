@@ -29,3 +29,4 @@ Einzigartige mögliche Formen:
 [[steif]], [[steifer]], [[steife]], [[steifen]], [[steiferem]], [[steiferer]], [[steiferem]], [[steiferen]], [[steifest]], [[steifeste]], [[steifestes]], [[steifesten]], [[steifestem]]
 
 , [[witzig]], [[locker]]
+, [[flüssigen]]

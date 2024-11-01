@@ -77,4 +77,4 @@ Konjunktiv II:
 - Wenn wir es könnten, [[brächten mit|brächten]] wir die Getränke [[mit]].
 - Wenn ihr euch beeilt, [[brächtet mit|brächtet]] ihr die Sachen [[mit]].
 - Wenn sie die Möglichkeit hätten, [[brächten mit|brächten]] sie die Kinder [[mit]].
-```​⬤
+```​⬤, [[nachbringen]]

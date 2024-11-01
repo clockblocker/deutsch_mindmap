@@ -1,0 +1,1 @@
+[[verdienen]] + Akk, [fɛɐ̯ˈdiːnən]

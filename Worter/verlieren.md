@@ -31,4 +31,4 @@ Morpheme: [[ver]][[lier]][[en]]
 
 Partizip I: [[verlierend]], Partizip II: [[verloren]]
 
-[[verlieren]] - [[ver]] = [[lieren]], [[haben]], [[retten]], [[kriegen]], [[suchen]], [[gehören]], [[nehm]], [[Lohnen]]
+[[verlieren]] - [[ver]] = [[lieren]], [[haben]], [[retten]], [[kriegen]], [[suchen]], [[gehören]], [[nehm]], [[Lohnen]], [[verdienen]], [[entdeckten]]

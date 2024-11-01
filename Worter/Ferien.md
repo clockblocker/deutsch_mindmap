@@ -4,6 +4,8 @@ die [[Ferien]]
 ---
 [[Urlaub]] der Kinder
 
+Aber wozu soll der Junge die [[Ferien]] hier totschlagen? 
+
 ---
 Synonyme:
 - [[Urlaub]], [[Sommerferien]], [[Semester]]

@@ -1,4 +1,4 @@
-🤝 [[treffen]]
+🤝 [[treffen]] sich am
 [[traf]]
 haben [[getroffen]]
 
@@ -11,59 +11,30 @@ ANNA: Dein Vater … hat seinen eigenen Jet und [[trifft]] den Bundes
 
 Kann ich ihn vielleicht ganz, ganz, ganz kurz [[treffen]]?  
 
+Sie [[treffen]] sich am Blumenkiosk
+
+---
+Synonyme:  [[wiedersehen]], [[begegnen]], [[zusammenkommen]], [[aufeinandertreffen]], [[aneinanderstoßen]], [[zusammentreffen]]
+Antonyme: [[meiden]], [[vermeiden]], [[entgehen]], [[ausweichen]], [[fernbleiben]]
+
+---
+Übersetzung: to meet, to encounter
+
+---
+Morpheme: [[treff]][[en]]
+ #Verb  #Trennbar
 
 ---
 
-**Synonyme:**
 
-- [[begegnen]], [[zusammentreffen]], [[sich versammeln]]
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[treffe]] | [[traf]] | - | [[treffe]] | [[träfe]] |
+| Du | [[triffst]] | [[trafast]] | [[triff]] | [[treffest]] | [[träfest]] |
+| Er/sie/es | [[trifft]] | [[traf]] | - | [[treffe]] | [[träfe]] |
+| Wir | [[treffen]] | [[trafen]] | - | [[treffen]] | [[träfen]] |
+| Ihr | [[trefft]] | [[traft]] | [[trefft]] | [[treffet]] | [[träfet]] |
+| Sie | [[treffen]] | [[trafen]] | [[treffen Sie]] | [[treffen]] | [[träfen]] |
 
----
+Partizip I: [[treffend]], Partizip II: [[getroffen]]
 
-**Beispiele:**
-
-- Ich [[treffe]] meine Freunde nach der Arbeit.
-- Du [[triffst]] ihn heute Abend.
-- Er [[trifft]] sich mit seiner Familie.
-- Sie [[trifft]] ihre Kollegen jeden Montag.
-- Wir [[treffen]] uns um 18 Uhr.
-- Ihr [[trefft]] euch im Park.
-- Sie [[treffen]] sich regelmäßig.
-
----
-
-**Übersetzung**:
-to meet
-
----
-#Verb
-
----
-
-**Präteritum:**
-
-- Ich [[traf]] meine Freunde nach der Arbeit.
-- Du [[trafst]] ihn gestern Abend.
-- Er [[traf]] sich mit seiner Familie.
-- Sie [[traf]] ihre Kollegen letzten Montag.
-- Wir [[trafen]] uns um 18 Uhr.
-- Ihr [[traft]] euch im Park.
-- Sie [[trafen]] sich regelmäßig.
-
----
-
-**Imperativ:**
-
-- Ich [[treffe]].
-- Du [[triff]].
-- Er [[treffe]].
-- Es [[treffe]].
-- Sie [[treffe]].
-- Wir [[treffen]].
-- Ihr [[trefft]].
-- Sie [[treffen]].
-
----
-
-**Morphems of only infinitive:**
-- [[treff]][[en]][[schlagen]][[wiedersehen]]

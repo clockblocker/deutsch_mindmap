@@ -1,4 +1,4 @@
-🔎 [[bemerken]] + Akk, [bəˈmɛʁkn̩]
+[[bemerken]] + Akk, [bəˈmɛʁkn̩]
 [[bemerkte]]
 haben [[bemerkt]]
 
@@ -34,4 +34,4 @@ Morpheme: [[be]][[merk]][[en]]
 
 Partizip I: [[bemerkend]], Partizip II: [[bemerkt]]
 [[bemerken]] - [[be]] = [[merken]]
-'''
+''', [[entdeckten]]

@@ -7,6 +7,8 @@ man muss immer [[erst]] die [[Anleitung]] lesen.
 *[[Erst]] wenn die Wolken schlafen gehen,*  
 *kann man uns am Himmel sehen.*  
 
+Erst hatte er zwar keine rechte Lust -, sagte die Mutter und schrubbte die Bäckermeisterin. 
+
 ---
 Synonyme: 
 - [[zuerst]], [[anfangs]], [[zuallererst]], [[zunächst]], [[vorerst]], [[vorab]], [[vorab]], [[primär]], [[vor allem]], [[hauptsächlich]], [[eigentlich]], [[lediglich]], [[bloß]], [[ausschließlich]], [[ausnahmsweise]]

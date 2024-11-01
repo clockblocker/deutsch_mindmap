@@ -3,7 +3,7 @@
 haben [[erklärt]]
 
 ---
-
+Doch dann [[erklärte]] uns die Feuernation den Krieg und alles änderte sich. 
 
 ---
 Synonyme: [[definieren]], [[darlegen]], [[beschreiben]], [[ausführen]], [[verdeutlichen]]

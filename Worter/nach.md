@@ -4,4 +4,4 @@ CINDY: Kopf [[Worter/nach]] rechts und links und rechts und noch einma
 
 \[ Wenn \] [[fliegt]] eins in die Lüfte, [[nachfliegen|fliegen]] alle nach. 
 
-[[nachher]], [[nachjagen]], [[nach dem]], [[Nachdem]], [[Nachspeise]]
+[[nachher]], [[nachjagen]], [[nach dem]], [[Nachdem]], [[Nachspeise]], [[nachbringen]], [[nach unten]]

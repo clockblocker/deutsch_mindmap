@@ -15,6 +15,11 @@ MARIA: Eure [[Gesichter]]! Also, seid ihr beide?
 *Wenn sie aus den Fäusten bricht*  
 *Legt sich heiß auf das [[Gesicht]]*
 
+*Und der Haifisch der hat Tränen*  
+*Und die laufen vom [[Gesicht]]  
+*Doch der Haifisch lebt im Wasser*  
+*So die Tränen sieht man nicht*  
+
 
 ---
 Beispiele:

@@ -3,7 +3,7 @@ die [[Haufen]]
 
 
 ---
-*ein [[Häuflein]] Asche bleibt allein*  
+*ein [[Häuflein]] [[Asche]] bleibt allein*  
 *und beide Schuh, so hübsch und fein.*
 
 ---

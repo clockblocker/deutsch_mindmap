@@ -3,6 +3,7 @@
 haben [[aufgepasst]]
 
 ---
+Na, er ist ja groß genug und muß eben unterwegs gut aufpassen. 
 
 ---
 

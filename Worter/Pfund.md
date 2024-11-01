@@ -4,6 +4,8 @@ die [[Pfunde]]
 
 ---
 - ein [[Pfund]] Salz, 
+- 
+Ihre Frisur war aufgelöst und hing wie drei Pfund Wolle nach unten. 
 
 ---
 Synonyme:

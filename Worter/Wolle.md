@@ -3,7 +3,7 @@ die [[Wollen]
 
 
 ---
-
+Ihre Frisur war aufgelöst und hing wie drei Pfund [[Wolle]] nach unten. 
 
 ---
 Synonyme:

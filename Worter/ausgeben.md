@@ -73,3 +73,4 @@ Konjunktiv II:
 - Wenn wir weniger Sorgen hätten, [[gäben aus|gäben]] wir freier [[aus]].
 - Wenn ihr sparsamer wäret, [[gäbet aus|gäbet]] ihr weniger [[aus]].
 - Wenn sie es sich leisten könnten, [[gäben aus|gäben]] sie mehr für Wohltätigkeit [[aus]].
+, [[verdienen]]

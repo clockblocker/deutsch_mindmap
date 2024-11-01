@@ -1,1 +1,1 @@
-, [[widerstehen]], [[frönen]]
+, [[widerstehen]], [[frönen]], [[aushalten]]

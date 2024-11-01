@@ -1,4 +1,4 @@
-🔵 [[tief]], [tiːf]
+[[tief]], [tiːf]
 [[tiefere]], [[tiefsten]]
 
 ---
@@ -12,6 +12,11 @@
 
 *Da kommt der wilde Jägersmann*  
 *zuletzt beim [[tiefen]] Brünnchen an.*  
+
+*In der [[Tiefe]] ist es einsam*  
+*Und so manche Zähre fließt*  
+*Und so kommt es, dass das Wasser*  
+*In den Meeren salzig ist*  
 
 
 ---
@@ -35,7 +40,7 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[tief]], [[tiefe]], [[tiefen]], [[tiefes]], [[tiefem]], [[tieferer]], [[tieferes]], [[tiefere]], [[tieferen]], [[tiefster]], [[tiefste]], [[tiefstes]], [[tiefsten]], [[tiefstem]]
+[[tief]], [[Tiefe]], [[tiefen]], [[tiefes]], [[tiefem]], [[tieferer]], [[tieferes]], [[tiefere]], [[tieferen]], [[tiefster]], [[tiefste]], [[tiefstes]], [[tiefsten]], [[tiefstem]]
 
 ---
 

@@ -1,1 +1,1 @@
-, [[gehen]]
+, [[gehen]], [[hängen]]

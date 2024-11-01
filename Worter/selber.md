@@ -1,14 +1,12 @@
+ [[selber]], [ˈzelbɐ]
+nicht [[anders]], nicht [[fremd]]
+
+---
 Und Sam geht [[selber]] einkaufen  
 Sie [[selber]] nahm einen anderen Krug und den kleinen blauen Topf 
 
 [[sich]] [[selbst]]
 Processed the word selber. Identified it as an ADJECTIVE.
-
-🔴 [[selber]], [ˈzelbɐ]
-nicht [[anders]], nicht [[fremd]]
-
----
-
 
 ---
 Synonyme: 
@@ -32,4 +30,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[selber]], [[selberer]], [[selbere]], [[selberes]], [[selberen]], [[selberm]], [[selbere]], [[selberen]]
-[[selbsten]], [[selbster]], [[selbste]], [[selbstes]], [[selbsten]], [[selbstem]], [[selbster]], [[selbsten]]
+[[selbsten]], [[selbster]], [[selbste]], [[selbstes]], [[selbsten]], [[selbstem]], [[selbster]], [[selbsten]], [[andere]]

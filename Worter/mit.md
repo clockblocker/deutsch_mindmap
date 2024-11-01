@@ -12,4 +12,4 @@ Antonyme: [[ohne]], [[getrennt]], [[abgesondert]], [[allein]]
 
 ---
 #Preposition #mit
-''', [[Mitbewohner]], [[mitwaschen]], [[Damit]]
+''', [[Mitbewohner]], [[mitwaschen]], [[Damit]], [[mithalten]]

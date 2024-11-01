@@ -3,7 +3,7 @@
 haben [[eingehängt]]
 
 ---
-Ablaufschlauch in einen [[Ausguss]] einhängen.
+[[Ablaufschlauch]] in einen [[Ausguss]] einhängen.
 
 
 ---

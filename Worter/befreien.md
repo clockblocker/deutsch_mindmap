@@ -1,1 +1,1 @@
-[[freimachen]], [[loswerden]], [[retten]]
+[[freimachen]], [[loswerden]], [[retten]], [[aufhalten]], [[laden]]

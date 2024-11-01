@@ -6,6 +6,12 @@ ANNA: Nic, Sam, ihr habt bestimmt viel Spaß [[miteinander]]
  
  mit normalem Waschmittel waschen und das [[andere]] mit dem neuen Powerpep  
 
+Alle [[anderen]] 
+
+other
+
+Sie [[selber]] nahm einen [[anderen]] Krug
+ 
 ---
 Synonyme: 
 - [[verschieden]], [[abweichend]], [[unterschiedlich]], [[sonstig]], [[fremde]]

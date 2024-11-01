@@ -1,1 +1,1 @@
-, [[wohl]], [[sicher]]
+, [[wohl]], [[sicher]], [[freilich]]

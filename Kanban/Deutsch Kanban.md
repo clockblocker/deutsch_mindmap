@@ -19,13 +19,13 @@ kanban-plugin: board
 
 ## Rammstein
 
-- [ ] [[Haifisch]]
 - [ ] [[Zeig dich]]
 - [ ] [[Du riechst so gut]]
 
 
 ## Done
 
+- [ ] [[Haifisch]]
 - [ ] [[Sonne (das lied)]]
 - [ ] [[6 Die Geschichte vom Suppen-Kaspar]]
 - [ ] [[5 Die Geschichte vom Daumenlutscher]]

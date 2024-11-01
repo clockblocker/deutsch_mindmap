@@ -1,10 +1,11 @@
 🙇‍♂️ [[bücken]] sich + Akk/Dat, [ˈbyːkn̩]
 [[beugte|beugte sich]]
-haben [[gebeugt]]
+haben [[gebückt]]
 
 ---
 NIC: Ja! Eine Spritze! Bitte [[bücken]] Sie sich!  
 
+In der Stube saß eine Frau und hielt den Kopf über das weiße Waschbecken [[gebückt]].
 
 ---
 Synonyme: [[neigen]], [[senken]], [[krümmen]], [[wölben]], [[verbiegen]]

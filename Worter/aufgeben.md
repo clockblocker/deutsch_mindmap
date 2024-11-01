@@ -1,1 +1,1 @@
-[[verlassen]][[verlieren]], [[angreifen]], [[retten]], [[nachjagen]], [[suchen]]
+[[verlassen]][[verlieren]], [[angreifen]], [[retten]], [[nachjagen]], [[suchen]], [[aushalten]], [[mithalten]]

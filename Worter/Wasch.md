@@ -1,3 +1,3 @@
 [[Waschmittel]]
 
-[[Waschen]]
+[[Waschen]], [[Waschbecken]]

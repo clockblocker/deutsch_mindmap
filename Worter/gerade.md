@@ -29,4 +29,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[gerade]], [[gerader]], [[gerade]], [[gerades]], [[geraden]], [[geradem]], [[gerader]], [[geraden]], [[rechtzeitig]], [[Extra 8]], [[11 08]], [[grad]]
+[[gerade]], [[gerader]], [[gerade]], [[gerades]], [[geraden]], [[geradem]], [[gerader]], [[geraden]], [[rechtzeitig]], [[Extra 8]], [[11 08]], [[grad]], [[gebückt]]

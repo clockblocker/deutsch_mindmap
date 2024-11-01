@@ -70,4 +70,4 @@ Konjunktiv II:
 - Wenn er keine Wahl hätte, [[tötete]] er den Verbrecher.
 - Wenn wir uns wehren müssten, [[töteten]] wir die Angreifer.
 - Wenn ihr in Gefahr wäret, [[tötetet]] ihr die Schlangen.
-- Wenn sie keine andere Möglichkeit hätten, [[töteten]] sie die Angreifer., [[ermordet]], [[morden]]
+- Wenn sie keine andere Möglichkeit hätten, [[töteten]] sie die Angreifer., [[ermordet]], [[morden]], [[totschlagen]]

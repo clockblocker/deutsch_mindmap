@@ -10,6 +10,14 @@ Wir [[halten]] zusammen Keiner kämpft allein
 
 [[Für wen hält sich die]]
 
+In der Stube saß eine Frau und hielt den Kopf über das weiße Waschbecken gebückt. I
+
+---
+[[aushalten]] - [[aus]] = [[halten]]
+[[mithalten]] - [[mit]] = [[halten]]
+
+
+
 ---
 
 Synonyme:
@@ -78,4 +86,4 @@ Konjunktiv II:
 - Wenn er es wüsste, [[hielte]] er sein Versprechen.
 - Wenn wir die Zeit hätten, [[hielten]] wir das Treffen.
 - Wenn ihr geduldiger wäret, [[hieltet]] ihr durch.
-- Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]], [[fassen]]
+- Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]], [[fassen]], [[aushalten]], [[aufhalten]], [[mithalten]], [[schieben]]

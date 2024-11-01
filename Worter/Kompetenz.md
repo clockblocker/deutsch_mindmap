@@ -1,1 +1,1 @@
-, [[Erfahrung]]
+, [[Erfahrung]], [[Fähigkeiten]], [[Fähigkeit]]

@@ -4,47 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc60abd14fa882c4",
+        "id": "847255bf8de773dc",
         "type": "tabs",
         "children": [
           {
-            "id": "2245dbc3ae4bf635",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Deutsch Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    false,
-                    false,
-                    true,
-                    false,
-                    true,
-                    true,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Deutsch Kanban"
-            }
-          },
-          {
-            "id": "aaf1b4acfb8918a1",
+            "id": "6f666b0cbf8d860f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/blenden.md",
+                "file": "Texte/Avatar/s1 e2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blenden"
+              "title": "s1 e2"
             }
           }
         ]
@@ -103,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.50043487548828
+    "width": 200
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -195,34 +169,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2245dbc3ae4bf635",
+  "active": "6f666b0cbf8d860f",
   "lastOpenFiles": [
-    "Texte/Gedichte/Rammstein/Sonne (das lied).md",
-    "Worter/Boden.md",
-    "Worter/hart.md",
-    "Kanban/Deutsch Kanban.md",
-    "Worter/Fäusten.md",
-    "Worter/Sonne.md",
-    "Worter/blenden.md",
-    "Worter/schmerzend.md",
-    "Worter/Verlustens.md",
-    "Worter/Verlusten.md",
-    "Worter/Verlustes.md",
-    "Worter/Erwerb.md",
-    "Worter/Zuwachs.md",
-    "Worter/Zugewinn.md",
-    "Worter/Ertrag.md",
-    "Worter/Verlust.md",
-    "Worter/Gewinn.md",
-    "Worter/Manko.md",
-    "Worter/Defizit.md",
-    "Worter/Entzug.md",
-    "Worter/Einbuße.md",
-    "Worter/Verluste.md",
-    "Worter/Gleichgewicht.md",
-    "Worter/Brust.md",
-    "Worter/schmerzhaftestem.md",
-    "Worter/schmerzhaftesten.md",
+    "Texte/Avatar/s1 e1.md",
+    "Texte/Avatar/s1 e4.md",
+    "Texte/Avatar/s1 e3.md",
+    "Texte/Avatar/s1 e2.md",
+    "Texte/Emil und die Detektive/Emil und die Detektive 1.md",
+    "Texte/Avatar",
+    "Texte/Avatar.md",
+    "Worter/daran.md",
+    "Worter/fest.md",
+    "Worter/retten.md",
+    "Worter/untergetaucht.md",
+    "Worter/untertauchen.md",
+    "Worter/Lust.md",
+    "Worter/abholen.md",
+    "Worter/holt ab.md",
+    "Worter/meist.md",
+    "Worter/seltener.md",
+    "Worter/zumeist.md",
+    "Worter/überwiegend.md",
+    "Worter/öftesten.md",
+    "Worter/häufigsten.md",
+    "Worter/verschwinden.md",
+    "Worter/verschwindend.md",
+    "Worter/verschwinden Sie.md",
+    "Worter/verschwändet.md",
+    "Worter/verschwänden.md",
+    "Worter/verschwanden.md",
     "Texte/Gedichte/Misc",
     "Texte/Misc1",
     "Texte/Gedichte/Rammstein/Untitled",
@@ -242,7 +217,6 @@
     "Lektionen/Phonetik",
     "Texte/Gedichte/Pop",
     "Texte/Gedichte/Folk",
-    "Lektionen/Kamanova/Audio/L-02.mp3",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

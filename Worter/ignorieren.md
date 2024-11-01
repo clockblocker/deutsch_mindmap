@@ -1,1 +1,1 @@
-[[spüren]][[kontrollieren]][[bürsten]][[behandeln]][[ansehen]], [[bemerken]], [[interessieren]], [[erkennen]], [[hinhören]], [[recherchieren]], [[suchen]], [[bedienen]], [[bewerben]], [[danken]], [[anlachen]], [[Verlangen]], [[verhandelen]], [[folgen]]
+[[spüren]][[kontrollieren]][[bürsten]][[behandeln]][[ansehen]], [[bemerken]], [[interessieren]], [[erkennen]], [[hinhören]], [[recherchieren]], [[suchen]], [[bedienen]], [[bewerben]], [[danken]], [[anlachen]], [[Verlangen]], [[verhandelen]], [[folgen]], [[einladen]], [[entdeckten]]

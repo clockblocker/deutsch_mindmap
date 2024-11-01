@@ -6,6 +6,13 @@ Ja, ich denke an sie.
 Denkst du an deine Rente?
 Ja, ich denke [[daran]].
 
+*Wir halten euch die Treue*  
+*Wir halten [[daran]] fest*  
+*Und halten uns an Regeln*  
+*Wenn man uns Regeln lässt*  
+
+Aber ich glaube fest [[daran]], Aang kann diese Welt retten.
+
 ---
  [[hattest]] du nicht [[daran]] gedacht, es zu schließen, Brigitte?
 
