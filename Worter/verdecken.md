@@ -1,1 +1,1 @@
-[[bedeuten]], [[aussehen]]
+[[bedeuten]], [[aussehen]], [[sehen]]

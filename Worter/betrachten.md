@@ -1,1 +1,1 @@
-[[ansehen]], [[lesen]]
+[[ansehen]], [[lesen]], [[sehen]]

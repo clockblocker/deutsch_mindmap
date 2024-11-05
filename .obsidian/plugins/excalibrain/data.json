@@ -44,11 +44,11 @@
       "nurtures",
       "South"
     ],
-    "leftFriends": [
+    "leftfs": [
       "advantages",
       "alternatives",
-      "Friend",
-      "Friends",
+      "f",
+      "fs",
       "j",
       "Jump",
       "Jumps",
@@ -56,7 +56,7 @@
       "similar",
       "supports"
     ],
-    "rightFriends": [
+    "rightfs": [
       "cons",
       "disadvantages",
       "missing",
@@ -80,7 +80,7 @@
       "hidden"
     ]
   },
-  "inferAllLinksAsFriends": false,
+  "inferAllLinksAsfs": false,
   "inverseInfer": false,
   "inverseArrowDirection": true,
   "renderAlias": true,
@@ -203,8 +203,8 @@
     "South": {},
     "advantages": {},
     "alternatives": {},
-    "Friend": {},
-    "Friends": {},
+    "f": {},
+    "fs": {},
     "j": {},
     "Jump": {},
     "Jumps": {},
@@ -240,8 +240,8 @@
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
   "ontologySuggesterChildTrigger": "::c",
-  "ontologySuggesterLeftFriendTrigger": "::l",
-  "ontologySuggesterRightFriendTrigger": "::r",
+  "ontologySuggesterLeftfTrigger": "::l",
+  "ontologySuggesterRightfTrigger": "::r",
   "ontologySuggesterPreviousTrigger": "::e",
   "ontologySuggesterNextTrigger": "::n",
   "ontologySuggesterTrigger": ":::",

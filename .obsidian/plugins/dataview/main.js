@@ -3599,8 +3599,8 @@ class Interval {
    * @return {Interval}
    */
   static fromDateTimes(start, end) {
-    const builtStart = friendlyDateTime(start),
-      builtEnd = friendlyDateTime(end);
+    const builtStart = flyDateTime(start),
+      builtEnd = flyDateTime(end);
 
     const validateError = validateStartEnd(builtStart, builtEnd);
 
@@ -3622,7 +3622,7 @@ class Interval {
    */
   static after(start, duration) {
     const dur = Duration.fromDurationLike(duration),
-      dt = friendlyDateTime(start);
+      dt = flyDateTime(start);
     return Interval.fromDateTimes(dt, dt.plus(dur));
   }
 
@@ -3634,7 +3634,7 @@ class Interval {
    */
   static before(end, duration) {
     const dur = Duration.fromDurationLike(duration),
-      dt = friendlyDateTime(end);
+      dt = flyDateTime(end);
     return Interval.fromDateTimes(dt.minus(dur), dt);
   }
 
@@ -3823,7 +3823,7 @@ class Interval {
   splitAt(...dateTimes) {
     if (!this.isValid) return [];
     const sorted = dateTimes
-        .map(friendlyDateTime)
+        .map(flyDateTime)
         .filter((d) => this.contains(d))
         .sort(),
       results = [];
@@ -7318,7 +7318,7 @@ class DateTime {
 /**
  * @private
  */
-function friendlyDateTime(dateTimeish) {
+function flyDateTime(dateTimeish) {
   if (DateTime.isDateTime(dateTimeish)) {
     return dateTimeish;
   } else if (dateTimeish && dateTimeish.valueOf && isNumber(dateTimeish.valueOf())) {
@@ -7578,7 +7578,7 @@ function escapeRegex(str) {
 const VAR_NAME_CANONICALIZER = parsimmon_umd_minExports.alt(parsimmon_umd_minExports.regex(new RegExp(emojiRegex(), "")), parsimmon_umd_minExports.regex(/[0-9\p{Letter}_-]+/u).map(str => str.toLocaleLowerCase()), parsimmon_umd_minExports.whitespace.map(_ => "-"), parsimmon_umd_minExports.any.map(_ => ""))
     .many()
     .map(result => result.join(""));
-/** Convert an arbitrary variable name into something JS/query friendly. */
+/** Convert an arbitrary variable name into something JS/query fly. */
 function canonicalizeVarName(name) {
     return VAR_NAME_CANONICALIZER.tryParse(name);
 }
@@ -7621,7 +7621,7 @@ function setsEqual(first, second) {
 
 var Values;
 (function (Values) {
-    /** Convert an arbitrary value into a reasonable, Markdown-friendly string if possible. */
+    /** Convert an arbitrary value into a reasonable, Markdown-fly string if possible. */
     function toString(field, setting = DEFAULT_QUERY_SETTINGS, recursive = false) {
         let wrapped = wrapValue(field);
         if (!wrapped)
@@ -8046,7 +8046,7 @@ class Link {
     toString() {
         return this.markdown();
     }
-    /** Convert this link to a raw object which is serialization-friendly. */
+    /** Convert this link to a raw object which is serialization-fly. */
     toObject() {
         return { path: this.path, type: this.type, subpath: this.subpath, display: this.display, embed: this.embed };
     }
@@ -8502,7 +8502,7 @@ Array.isArray = (arg) => {
     return oldArrayIsArray(arg) || DataArray.isDataArray(arg);
 };
 
-/** Test-environment-friendly function which fetches the current system locale. */
+/** Test-environment-fly function which fetches the current system locale. */
 function currentLocale() {
     if (typeof window === "undefined")
         return "en-US";
@@ -9479,7 +9479,7 @@ class ListItem$1 {
     scheduled() {
         return this.fields.get("scheduled")?.[0];
     }
-    /** Create an API-friendly copy of this list item. De-duplication is done via the provided cache. */
+    /** Create an API-fly copy of this list item. De-duplication is done via the provided cache. */
     serialize(cache) {
         // Map children to their serialized/de-duplicated equivalents right away.
         let children = this.children.map(l => cache.get(l)).filter((l) => l !== undefined);
@@ -9639,7 +9639,7 @@ function parseCsv(content) {
 /** Simplifies passing dataview values across the JS web worker barrier. */
 var Transferable;
 (function (Transferable) {
-    /** Convert a literal value to a serializer-friendly transferable value. */
+    /** Convert a literal value to a serializer-fly transferable value. */
     function transferable(value) {
         // Handle simple universal types first.
         if (value instanceof Map) {
@@ -18986,11 +18986,11 @@ function markdownTable(headers, values, settings) {
     }
     return table;
 }
-/** Convert a value to a Markdown-friendly string. */
+/** Convert a value to a Markdown-fly string. */
 function tableLiteral(value, allowHtml = true, settings) {
     return escapeTable(rawTableLiteral(value, allowHtml, settings));
 }
-/** Convert a value to a Markdown-friendly string; does not do escaping. */
+/** Convert a value to a Markdown-fly string; does not do escaping. */
 function rawTableLiteral(value, allowHtml = true, settings) {
     if (!allowHtml)
         return Values.toString(value, settings);

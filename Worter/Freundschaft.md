@@ -12,7 +12,7 @@ Synonyme:
 - [[Kameradschaft]], [[Beziehung]], [[Verbindung]]
 
 ---
-**Übersetzung**: friendship
+**Übersetzung**: fship
 
 ---
 

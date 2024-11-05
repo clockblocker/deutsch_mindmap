@@ -10,7 +10,7 @@ Synonyme:
 - [[Kameradin]], [[Geliebte]], [[Partnerin]], [[Lebensgefährtin]]
 
 ---
-Übersetzung: friend (female)
+Übersetzung: f (female)
 
 ---
 Morpheme:

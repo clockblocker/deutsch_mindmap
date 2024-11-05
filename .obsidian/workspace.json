@@ -8,17 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f666b0cbf8d860f",
+            "id": "5bdea41b96da987a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Avatar/s1 e1.md",
+                "file": "Worter/Wasserblase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s1 e1"
+              "title": "Wasserblase"
+            }
+          },
+          {
+            "id": "877786895703bed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Handschuh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Handschuh"
+            }
+          },
+          {
+            "id": "9e1dc55ab4d3b356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Handschuhe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Handschuhe"
+            }
+          },
+          {
+            "id": "dcdff3d23243f054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Handschuh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Handschuh"
+            }
+          },
+          {
+            "id": "b4537de20aa713ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Handschuh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Handschuh"
+            }
+          },
+          {
+            "id": "fb386b28d20cd9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Mädchen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mädchen"
             }
           }
         ]
@@ -169,35 +239,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6f666b0cbf8d860f",
+  "active": "5bdea41b96da987a",
   "lastOpenFiles": [
-    "Texte/Avatar/s1 e2.md",
-    "Texte/Avatar/s1 e3.md",
-    "Texte/Avatar/s1 e4.md",
     "Texte/Avatar/s1 e1.md",
-    "Texte/Emil und die Detektive/Emil und die Detektive 1.md",
+    "Worter/Verben/Verbformen/sieht.md",
+    "Worter/sehen.md",
+    "Worter/sehen Sie.md",
+    "Worter/sähet.md",
+    "Worter/sehet.md",
+    "Worter/saht.md",
+    "Worter/seht.md",
+    "Worter/sähen.md",
+    "Worter/sahen.md",
+    "Worter/sieht.md",
+    "Worter/sähest.md",
+    "Worter/sehest.md",
+    "Worter/sahst.md",
+    "Worter/siehst.md",
+    "Worter/sähe.md",
+    "Worter/sehe.md",
+    "Worter/hen.md",
+    "Worter/se.md",
+    "Worter/blicken.md",
+    "Worter/sah.md",
+    "Worter/Wasserblase.md",
+    "Worter/Wasserblases.md",
+    "Worter/Gebilde.md",
+    "Worter/Kuppe.md",
+    "Worter/Blase.md",
     "Texte/Avatar",
-    "Texte/Avatar.md",
-    "Worter/daran.md",
-    "Worter/fest.md",
-    "Worter/retten.md",
-    "Worter/untergetaucht.md",
-    "Worter/untertauchen.md",
-    "Worter/Lust.md",
-    "Worter/abholen.md",
-    "Worter/holt ab.md",
-    "Worter/meist.md",
-    "Worter/seltener.md",
-    "Worter/zumeist.md",
-    "Worter/überwiegend.md",
-    "Worter/öftesten.md",
-    "Worter/häufigsten.md",
-    "Worter/verschwinden.md",
-    "Worter/verschwindend.md",
-    "Worter/verschwinden Sie.md",
-    "Worter/verschwändet.md",
-    "Worter/verschwänden.md",
-    "Worter/verschwanden.md",
     "Texte/Gedichte/Misc",
     "Texte/Misc1",
     "Texte/Gedichte/Rammstein/Untitled",

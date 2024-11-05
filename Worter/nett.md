@@ -20,7 +20,7 @@ Antonyme: [[unhöflich]], [[unfreundlich]], [[barsch]], [[schroff]], [[brüsk]]
 
 ---
 **Übersetzung**:
-nice, friendly, kind
+nice, fly, kind
 
 ---
 #Adjective [[nett]]

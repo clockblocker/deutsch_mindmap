@@ -1,10 +1,10 @@
 #pronomen #Possessivpronomen
 
 #Plural
-- **[[eure]] Freunde sind nett** #Nominativ (Your friends are nice)
-- **Ich sehe [[eure]] Freunde**  #Akkusativ (I see your friends)
-- **Ich gebe [[euren]] Freunden ein Geschenk** #Dativ (I give your friends a gift)
-- **Die Bücher [[eurer]] Freunde sind interessant**  #Genitiv (The books of your friends are interesting)
+- **[[eure]] Freunde sind nett** #Nominativ (Your fs are nice)
+- **Ich sehe [[eure]] Freunde**  #Akkusativ (I see your fs)
+- **Ich gebe [[euren]] Freunden ein Geschenk** #Dativ (I give your fs a gift)
+- **Die Bücher [[eurer]] Freunde sind interessant**  #Genitiv (The books of your fs are interesting)
 
 #Masculin
 - **[[euer]] Vater arbeitet hart**  #Nominativ (Your father works hard)

@@ -10,7 +10,7 @@ Synonyme:
 - [[Kumpel]], [[Kamerad]], [[Gefährte]], [[Buddy]], [[Kollege]]
 
 ---
-Übersetzung: friend
+Übersetzung: f
 
 ---
 Morpheme:

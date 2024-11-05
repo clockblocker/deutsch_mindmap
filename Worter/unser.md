@@ -1,10 +1,10 @@
 #pronomen #Possessivpronomen
 
 #Plural
-- **[[Unsere]] Freunde sind nett** #Nominativ (Our friends are nice)
-- **Ich sehe [[Unsere]] Freunde**  #Akkusativ (I see our friends)
-- **Ich gebe [[unseren]] Freunden ein Geschenk** #Dativ (I give our friends a gift)
-- **Die Bücher [[unserer]] Freunde sind interessant**  #Genitiv (The books of our friends are interesting)
+- **[[Unsere]] Freunde sind nett** #Nominativ (Our fs are nice)
+- **Ich sehe [[Unsere]] Freunde**  #Akkusativ (I see our fs)
+- **Ich gebe [[unseren]] Freunden ein Geschenk** #Dativ (I give our fs a gift)
+- **Die Bücher [[unserer]] Freunde sind interessant**  #Genitiv (The books of our fs are interesting)
 
 #Masculin
 - **[[unser]] Vater arbeitet hart**  #Nominativ (Our father works hard)

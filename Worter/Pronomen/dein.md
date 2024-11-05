@@ -3,10 +3,10 @@
 
 
 Plural
-- **[[deine]] Freunde sind nett** #Nominativ (Your friends are nice)
-- **Ich sehe [[deine]] Freunde**  #Akkusativ (I see your friends)
-- **Ich gebe [[deinen]] Freunden ein Geschenk** #Dativ (I give your friends a gift)
-- **Die Bücher [[deiner]] Freunde sind interessant**  #Genitiv (The books of your friends are interesting)
+- **[[deine]] Freunde sind nett** #Nominativ (Your fs are nice)
+- **Ich sehe [[deine]] Freunde**  #Akkusativ (I see your fs)
+- **Ich gebe [[deinen]] Freunden ein Geschenk** #Dativ (I give your fs a gift)
+- **Die Bücher [[deiner]] Freunde sind interessant**  #Genitiv (The books of your fs are interesting)
 
 Masculine
 - **[[dein]] Vater arbeitet hart**  #Nominativ (Your father works hard)

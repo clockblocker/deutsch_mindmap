@@ -51,7 +51,7 @@ Imperativ:
 - Ich [[bezahle]] die Rechnung. (Pay the bill!)
 - Du [[bezahle]] die Miete pünktlich. (Pay the rent on time!)
 - Er [[bezahle]] das Essen im Restaurant. (Pay for the food in the restaurant!)
-- Es [[bezahle]] sich immer, freundlich zu sein. (Pay attention to being friendly!)
+- Es [[bezahle]] sich immer, freundlich zu sein. (Pay attention to being fly!)
 - Sie [[bezahle]] den Kauf mit Karte. (Pay for the purchase with a card!)
 - Wir [[bezahlen]] die Tickets am Schalter. (Let’s pay for the tickets at the counter!)
 - Ihr [[bezahlt]] jeden Monat die Abonnements. (Pay the subscriptions every month!)

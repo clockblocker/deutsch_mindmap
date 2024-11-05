@@ -3,10 +3,10 @@
 #pronomen #Possessivpronomen
 
 Plural
-- **[[meine]] Freunde sind nett** #Nominativ (My friends are nice)
-- **Ich sehe [[meine]] Freunde**  #Akkusativ (I see my friends)
-- **Ich gebe [[meinen]] Freunden ein Geschenk** #Dativ (I give my friends a gift)
-- **Die Bücher [[meiner]] Freunde sind interessant**  #Genitiv (The books of my friends are interesting)
+- **[[meine]] Freunde sind nett** #Nominativ (My fs are nice)
+- **Ich sehe [[meine]] Freunde**  #Akkusativ (I see my fs)
+- **Ich gebe [[meinen]] Freunden ein Geschenk** #Dativ (I give my fs a gift)
+- **Die Bücher [[meiner]] Freunde sind interessant**  #Genitiv (The books of my fs are interesting)
 
 Masculine
 - **[[mein]] Vater arbeitet hart**  #Nominativ (My father works hard)
