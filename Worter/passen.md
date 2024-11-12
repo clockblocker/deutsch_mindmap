@@ -7,6 +7,7 @@ Ha! Das würde dir so [[passen]]!
 MARIA: He, Sascha, das [[passt]] richtig gut.  
 SASCHA: Das würde dir so [[passen]].  
 
+_Katara bewegt ihre Hände und der Wasserball mit dem Fisch bewegt sich [[passend]] dazu.
 
 ---
 Synonyme: [[angemessen sein]], [[zutreffen]], [[entsprechen]], [[geeignet sein]], [[sitzen]]

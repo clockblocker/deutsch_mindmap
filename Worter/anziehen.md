@@ -83,4 +83,4 @@ Konjunktiv II:
 - Wenn ihr Handschuhe hättet, [[zöget]] ihr sie [[an]].
 - Wenn sie nicht so müde wären, [[zögen]] sie die Hosen [[an]].
 
-, [[festziehen]]
+, [[festziehen]], [[verscheuchen]]

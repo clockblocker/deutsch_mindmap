@@ -28,4 +28,4 @@ Einzigartige mögliche Formen:
 [[ruhigsten]], [[ruhigster]], [[ruhigste]], [[ruhigstes]], [[ruhigsten]], [[ruhigstem]], [[ruhigster]], [[ruhigsten]]
 
 [[windig]], [[nervös]]
-, [[lichterloh]], [[leis]]
+, [[lichterloh]], [[leis]], [[Flüsternd]]

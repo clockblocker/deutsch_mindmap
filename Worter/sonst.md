@@ -14,6 +14,9 @@
 *kommt [[sonst]] ganz geschwind daher,*  
 *und die Daumen schneidet er*  
 
+Nicht so laut, [[sonst]] verscheuchst du ihn Katara
+
+
 ---
 Synonyme:
 - [[andernfalls]], [[ansonsten]], [[übrigens]], [[im Übrigen]], [[außerdem]], [[ferner]], [[darüber hinaus]], [[zusätzlich]], [[weiterhin]]

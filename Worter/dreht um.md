@@ -1,0 +1,1 @@
+[[umdrehen]] + Akk, [ˈʊmdʀeːən]

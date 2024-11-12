@@ -1,0 +1,1 @@
+🔵 [[ballen]] + Akk, [ˈbalən]

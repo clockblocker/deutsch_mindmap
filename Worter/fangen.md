@@ -9,6 +9,9 @@ haben [[gefangen]]
 *gleich [[fing]] er wieder an zu schrein:*  
 *»Ich esse keine Suppe! nein!*  
 
+
+ Pass auf, so [[fängt]] man einen Fisch!
+
 ---
 
 Synonyme:
@@ -77,4 +80,4 @@ Konjunktiv II:
 - Wenn er sich beeilen würde, [[finge]] er den Zug.
 - Wenn wir ein Netz hätten, [[fingen]] wir die Schmetterlinge.
 - Wenn ihr mehr Geduld hättet, [[fingt]] ihr den Fisch.
-- Wenn sie die Falle aufstellen würden, [[fingen]] sie die Maus.[[werfen]], [[anfangen]]
+- Wenn sie die Falle aufstellen würden, [[fingen]] sie die Maus.[[werfen]], [[anfangen]], [[entwischen]], [[stoßen]]

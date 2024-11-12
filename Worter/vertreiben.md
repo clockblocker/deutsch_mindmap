@@ -70,4 +70,4 @@ Konjunktiv II:
 - Wenn er sich bemühte, [[vertriebe]] er die schlechten Einflüsse.
 - Wenn wir uns anstrengten, [[vertrieben]] wir die Gefahren.
 - Wenn ihr euch anstrengt, [[vertriebt]] ihr die negativen Gedanken.
-- Wenn sie wollten, [[vertrieben]] sie die schlechten Einflüsse.
+- Wenn sie wollten, [[vertrieben]] sie die schlechten Einflüsse., [[verscheuchen]], [[scheuchen]]

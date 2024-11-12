@@ -1,1 +1,1 @@
-[[regeln]]
+[[regeln]], [[brutzeln]]

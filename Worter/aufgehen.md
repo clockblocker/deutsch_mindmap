@@ -32,3 +32,4 @@ Morpheme: [[auf]][[geh]][[en]]
 Partizip I: [[aufgehend]], Partizip II: [[aufgegangen]]
 
 [[aufgehen]] - [[auf]] = [[gehen]]
+, [[zerplatzen]]

@@ -20,7 +20,7 @@ Morpheme:
 [[Weg]]
 
 ---
-Einzigartige mögliche Formen: [[Weges]], [[Wege]], [[Wegen]]
+Einzigartige mögliche Formen: [[Weges]], [[Wege]], [[wegen]]
 
 ---
 #Substantiv #Maskulin

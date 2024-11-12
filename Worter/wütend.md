@@ -2,6 +2,8 @@ Positive: [[wütend]]
 Comparative: [[wütender]]
 Superlative: [[am wütendsten]]
 
+_Sokka dreht sich [[wütend]] zu Katara um._
+
 ![[Pasted image 20240702140537.png]]
 
 

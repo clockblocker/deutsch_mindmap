@@ -3,8 +3,10 @@ die [[Fäuste]]
 
 
 ---
-*Wenn sie aus den Fäusten bricht*  
+*Wenn sie aus den [[Fäusten]] bricht*  
 *Legt sich heiß auf das Gesicht*
+
+(Ballt die Handschuhe zu [[Fäusten]], sodass Wasser aus ihnen tropft)
 
 
 ---

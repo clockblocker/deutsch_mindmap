@@ -1,1 +1,1 @@
-[[Waschen]], [[kehren]]
+[[Waschen]], [[kehren]], [[wischen]]

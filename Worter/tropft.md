@@ -1,0 +1,1 @@
+[[tropfen]] + Dat., [ˈtrɔpfn̩]

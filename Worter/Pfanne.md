@@ -4,6 +4,8 @@ die [[Pfannen]]
 ---
 SAM: ‚Öl in der [[Pfanne]] [[erhitzen]] …’  
 
+Ich riech' schon, wie er in der [[Pfanne]] brutzelt!
+
 ---
 
 Beispiele:

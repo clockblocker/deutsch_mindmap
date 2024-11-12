@@ -1,1 +1,1 @@
-[[Kühl]], [[warmen]], [[heiß]]
+[[Kühl]], [[warmen]], [[heiß]], [[eiskaltem]]

@@ -1,0 +1,1 @@
+🟡 [[zerplatzen]], [ts͜ɛɐ̯ˈplat͜sn̩]

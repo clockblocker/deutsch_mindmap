@@ -1,1 +1,1 @@
-[[verlassen]], [[ausreißen]], [[hinterherlaufen]]
+[[verlassen]], [[ausreißen]], [[hinterherlaufen]], [[entwischen]]
