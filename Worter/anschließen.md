@@ -35,4 +35,4 @@ Morpheme: [[an]][[schließ]][[en]]
 Partizip I: [[anschließend]], Partizip II: [[angeschlossen]]
 
 [[anschließen]] - [[an]] = [[schließen]]
-, [[einhängen]]
+, [[einhängen]], [[unterbrechen]]

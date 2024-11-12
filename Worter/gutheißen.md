@@ -1,1 +1,1 @@
-[[verdammen]], [[tadeln]]
+[[verdammen]], [[tadeln]], [[mögen]]

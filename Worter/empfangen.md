@@ -1,1 +1,1 @@
-[[abholen]][[holen]], [[kriegen]], [[nehm]], [[überweisen]]
+[[abholen]][[holen]], [[kriegen]], [[nehm]], [[überweisen]], [[geben]]

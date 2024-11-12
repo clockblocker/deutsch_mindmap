@@ -1,0 +1,1 @@
+🔵 der [[Frieden]], [ˈfʁiːdən]

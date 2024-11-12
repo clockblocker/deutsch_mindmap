@@ -27,4 +27,4 @@ Tags:
 ---
 
 Morphems:
-[[hinein]][[hinaus]]
+[[hinein]][[hinaus]], [[hineingezogen]]

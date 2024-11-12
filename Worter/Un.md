@@ -1,1 +1,1 @@
-[[Unglück]], [[Unsinn]]
+[[Unglück]], [[Unsinn]], [[Unfall]]

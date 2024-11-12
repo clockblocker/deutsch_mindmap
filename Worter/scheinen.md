@@ -1,5 +1,5 @@
-💡 [[scheinen]]
-[[schien]]
+💡 [[scheinen]] + Dat, [ʃaɪ̯nən]
+[[schien]]  
 haben [[geschienen]]
 
 ---
@@ -8,73 +8,32 @@ haben [[geschienen]]
 *Mich interessiert kein Gleichgewicht*  
 *Mir scheint die Sonne ins Gesicht*  
 
----
+100 Jahre sind seitdem vergangen und die Feuernation [[scheint]] den Krieg bald zu gewinnen.
 
-Synonyme:
-- [[wirken]], [[erscheinen]], [[den Anschein haben]]
 
 ---
-
-Beispiele:
-
-- Die Sonne [[scheint]] durch das Fenster.
-- Es [[scheint]], als ob es gleich regnen würde.
-- Er [[scheint]] sehr glücklich zu sein.
-- Der Weg [[schien]] kürzer zu sein, als er tatsächlich war.
-- Ihr [[schient]] das Problem gelöst zu haben.
-- Sie [[schienen]] zu verstehen, worum es ging.
+Synonyme: [[glänzen]], [[leuchten]], [[erstrahlen]], [[erglänzen]], [[funkeln]]
+Antonyme: [[verdunkeln]], [[verlöschen]], [[dunkel sein]], [[untergehen]]
 
 ---
-**Übersetzung**: to seem, to appear, to shine
+Übersetzung: to shine, to appear
 
 ---
-
-Morphems of only infinitive:
-[[schein]][[en]]
-
----
-Tags:
-#Verb
-
+Morpheme: [[schein]][[en]]
+ #Verb  #Untrennbar
+ 
 ---
 
-Präteritum:
 
-- Ich [[schien]] die Antwort zu wissen.
-- Du [[schienst]] überrascht.
-- Er [[schien]] über das Ergebnis nachzudenken.
-- Wir [[schienen]] glücklich mit der Entscheidung.
-- Ihr [[schient]] müde zu sein.
-- Sie [[schienen]] zufrieden.
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[scheine]] | [[schien]] | - | [[scheine]] | [[schiene]] |
+| Du | [[scheinst]] | [[schienst]] | [[schein]] | [[scheinest]] | [[schienest]] |
+| Er/sie/es | [[scheint]] | [[schien]] | - | [[scheine]] | [[schiene]] |
+| Wir | [[scheinen]] | [[schienen]] | - | [[scheinen]] | [[schienen]] |
+| Ihr | [[scheint]] | [[schient]] | [[scheint]] | [[scheinet]] | [[schienel]] |
+| Sie | [[scheinen]] | [[schienen]] | [[scheinen Sie]] | [[scheinen]] | [[schienen]] |
 
----
+Partizip I: [[scheinend]], Partizip II: [[geschienen]]
 
-Imperativ:
-
-- [[Scheine]] hell wie die Sonne!
-- [[scheint]] nicht so überrascht!
-- [[Scheinen wir]] optimistisch!
-- [[Scheinen Sie]] selbstbewusst!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[Scheine]] ruhig.
-- Sie meint, du [[scheinest]] überzeugt.
-- Er behauptet, er [[Scheine]] recht zu haben.
-- Wir erklären, wir [[scheinen]] bereit.
-- Ihr sagt, ihr [[scheinet]] glücklich.
-- Sie sagen, sie [[scheinen]] zufrieden.
-
----
-
-Konjunktiv II:
-
-- Wenn ich mehr Zeit hätte, [[schiene]] ich entspannter.
-- Wenn du weniger Sorgen hättest, [[schienst]] du fröhlicher.
-- Wenn er sich sicherer fühlte, [[schiene]] er selbstbewusster.
-- Wenn wir ausgeruht wären, [[schienen]] wir glücklicher.
-- Wenn ihr die Lösung wüsstet, [[schient]] ihr gelassener.
-- Wenn sie das Ergebnis akzeptierten, [[schienen]] sie zufriedener.
-```​⬤, [[leuchten]]
+[[scheinen]] - [[schein]] = [[en]]

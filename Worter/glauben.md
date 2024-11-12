@@ -10,7 +10,8 @@ Beispiele:
 - Ich [[glaube]], er kauft für seine Frau ein.
 - Ich [[denke]], er kauft für seine Frau ein.
 - SASCHA: Ich [[glaube]] er meint zwei Zimmer.
--
+
+Viele [[glauben]], dass der Avatar nicht wiedergeboren wurde und dass der Kreislauf für immer unterbrochen ist.
 
 ---
 

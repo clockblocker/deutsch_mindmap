@@ -1,57 +1,35 @@
-❤️ [[mögen]]  
-[[mochte]]  
+❤️ [[mögen]] + Akk, [ˈmøːɡən]
+[[mochte]]
 haben [[gemocht]]
 
 ---
 - Ich [[mag]] Rosen
 
----
-
-**Synonyme:**
-
-- [[Lieben]], [[gern haben]], [[schätzen]]
 
 ---
+Synonyme: [[lieben]], [[gernhaben]], [[bevorzugen]], [[schätzen]], [[gutheißen]]  
+Antonyme: [[hassen]], [[verabscheuen]], [[ablehnen]], [[missbilligen]], [[verurteilen]]
 
-**Beispiele:**
+---
+Übersetzung: to like, to love
 
-- Ich [[mag]] Schokolade.
-- Du [[magst]] Bücher.
-- Er [[mag]] Musik.
-- Es [[mag]] Ruhe.
-- Sie [[mag]] Katzen.
-- Wir [[mögen]] Abenteuer.
-- Ihr [[mögt]] Filme.
-- Sie [[mögen]] das Meer.
+---
+Morpheme: [[mögen]]
+
+---
+#Verb #Untrennbar
 
 ---
 
-**Übersetzung**:
-to like
+| Person    | Präsens   | Präteritum   | Imperativ     | Konjunktiv I | Konjunktiv II |
+| --------- | --------- | ------------ | ------------- | ------------ | ------------- |
+| Ich       | [[mag]]   | [[mochte]]   | -             | [[möge]]     | [[möchte]]    |
+| Du        | [[magst]] | [[mochtest]] | [[möge]]      | [[mögest]]   | [[möchtest]]  |
+| Er/sie/es | [[mag]]   | [[mochte]]   | -             | [[möge]]     | [[möchte]]    |
+| Wir       | [[mögen]] | [[mochten]]  | -             | [[mögen]]    | [[möchten]]   |
+| Ihr       | [[mögt]]  | [[mochtet]]  | [[möget]]     | [[möget]]    | [[möchtet]]   |
+| Sie       | [[mögen]] | [[mochten]]  | [[mögen Sie]] | [[mögen]]    | [[möchten]]   |
 
----
- #Verb  #Modalverb
+Partizip I: [[mogend]], Partizip II: [[gemocht]]
 
----
-
-**Präteritum:**
-
-- Ich [[mochte]] Schokolade.
-- Du [[mochtest]] Bücher.
-- Er [[mochte]] Musik.
-- Es [[mochte]] Ruhe.
-- Sie [[mochte]] Katzen.
-- Wir [[mochten]] Abenteuer.
-- Ihr [[mochtet]] Filme.
-- Sie [[mochten]] das Meer.
-
----
-
-**Imperativ:**
-
-- (Imperative forms are not used with modal verbs)
-
----
-
-**Morphems of only infinitive:**  
-- [[mög]][[en]][[gefallen]], [[hassen]]
+[[mögen]] - [[mögen]]

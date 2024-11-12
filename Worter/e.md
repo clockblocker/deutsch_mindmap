@@ -1,1 +1,1 @@
-[[andere]], [[Spitze]], [[Stimme]], [[Schraube]], [[IPA]], [[Silbe]], [[Geselle]], [[Schranke]], [[Tatze]], [[lutschen]], [[Strenge]], [[Zähre]], [[Feiertage]]
+[[andere]], [[Spitze]], [[Stimme]], [[Schraube]], [[IPA]], [[Silbe]], [[Geselle]], [[Schranke]], [[Tatze]], [[lutschen]], [[Strenge]], [[Zähre]], [[Feiertage]], [[Geschichte]]

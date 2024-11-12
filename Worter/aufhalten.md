@@ -9,6 +9,8 @@ haben [[aufgehalten]]
 *Niemand [[aufhalten|hält]] uns auf*  
 
 Nur der Avatar, Herr der 4 Elemente, hätte sie [[aufhalten]] können. 
+
+Nur der Avatar beherrschte alle vier Elemente, nur er hätte den gewaltigen Angriff der Feuerbändiger [[aufhalten]] können.
   
 
 ---

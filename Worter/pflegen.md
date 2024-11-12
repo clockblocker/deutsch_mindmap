@@ -1,1 +1,1 @@
-[[behandeln]], [[verletzen]]
+[[behandeln]], [[verletzen]], [[kümmern]]

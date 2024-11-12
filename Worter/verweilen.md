@@ -1,1 +1,1 @@
-, [[liegen]], [[stehen]], [[werden]]
+, [[liegen]], [[stehen]], [[werden]], [[losziehen]]

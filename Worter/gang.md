@@ -11,4 +11,4 @@ Synonyme:
 **Übersetzung**: corridor, aisle, passage
 
 ---
-#Substantiv #Masculine
+#Substantiv #Masculine, [[vergangen]]

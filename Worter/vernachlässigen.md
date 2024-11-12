@@ -1,1 +1,1 @@
-[[kontrollieren]][[lernen]][[bürsten]][[behandeln]], [[recherchieren]], [[bedienen]]
+[[kontrollieren]][[lernen]][[bürsten]][[behandeln]], [[recherchieren]], [[bedienen]], [[Sorgen]], [[kümmern]], [[kehren]]

@@ -1,1 +1,1 @@
-[[Übernehmen]][[lernen]][[aussuchen]][[behandeln]], [[Trinken]], [[bestellt]], [[hassen]], [[meinen]], [[zugeben]], [[brauchen]], [[gehören]], [[bewerben]], [[nehm]], [[Verlangen]], [[verhandelen]], [[frönen]], [[tun]], [[bieten]], [[nachbringen]], [[einladen]]
+[[Übernehmen]][[lernen]][[aussuchen]][[behandeln]], [[Trinken]], [[bestellt]], [[hassen]], [[meinen]], [[zugeben]], [[brauchen]], [[gehören]], [[bewerben]], [[nehm]], [[Verlangen]], [[verhandelen]], [[frönen]], [[tun]], [[bieten]], [[nachbringen]], [[einladen]], [[mögen]], [[kümmern]]

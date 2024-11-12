@@ -83,4 +83,4 @@ Konjunktiv II:
 
 
 +[[über]] = [[Übernehmen]]
-+[[heraus]] = [[herausnehmen]]
++[[heraus]] = [[herausnehmen]], [[geben]]

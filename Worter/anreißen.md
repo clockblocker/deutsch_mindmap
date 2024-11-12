@@ -11,7 +11,7 @@ Synonyme: [[markieren]], [[kennzeichnen]], [[hervorheben]], [[unterstreichen]], 
 Antonyme: [[verwischen]], [[auslöschen]], [[löschen]], [[tilgen]], [[streichen]]
 
 ---
-Übersetzung: to mark, to highlight
+Übersetzung: немногожко надорвать, to mark, to highlight
 
 ---
 Morpheme: [[an]][[reiß]][[en]]

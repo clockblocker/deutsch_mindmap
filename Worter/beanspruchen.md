@@ -1,1 +1,1 @@
-, [[Verlangen]]
+, [[Verlangen]], [[geben]]

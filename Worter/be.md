@@ -1,1 +1,1 @@
-[[bestimmt]][[bedeuten]][[bestehen]][[bericht]][[besonders]][[behandeln]][[handeln]], [[bekannt]], [[benutzen]], [[bestellt]], [[bemerken]], [[berühmt]], [[beeindruckt]], [[bedienen]], [[dienen]], [[bewerben]], [[bemannt]], [[beschränken]], [[begleichen]], [[Berechnung]]
+[[bestimmt]][[bedeuten]][[bestehen]][[bericht]][[besonders]][[behandeln]][[handeln]], [[bekannt]], [[benutzen]], [[bestellt]], [[bemerken]], [[berühmt]], [[beeindruckt]], [[bedienen]], [[dienen]], [[bewerben]], [[bemannt]], [[beschränken]], [[begleichen]], [[Berechnung]], [[beherrschen]]

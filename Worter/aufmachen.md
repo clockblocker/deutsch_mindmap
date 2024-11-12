@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn wir es eilig hätten, [[machten auf|machten]] wir den Laden [[Worter/Konjunktion/Positionen/auf]].
 - Wenn ihr neugierig wäret, [[machtet auf|machtet]] ihr den Brief [[Worter/Konjunktion/Positionen/auf]].
 - Wenn sie bereit wären, [[machten auf|machten]] sie das Paket [[Worter/Konjunktion/Positionen/auf]].
-```​⬤, [[festziehen]]
+```​⬤, [[festziehen]], [[losziehen]]

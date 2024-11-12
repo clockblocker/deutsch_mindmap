@@ -8,59 +8,171 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bdea41b96da987a",
+            "id": "70b1f3bd978c9c99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Wasserblase.md",
+                "file": "Texte/Avatar/s1 e2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wasserblase"
+              "title": "s1 e2"
             }
           },
           {
-            "id": "877786895703bed1",
+            "id": "18b98381901e2202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Handschuh.md",
+                "file": "Texte/Avatar/s1 e1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Handschuh"
+              "title": "s1 e1"
             }
           },
           {
-            "id": "9e1dc55ab4d3b356",
+            "id": "a708070dbd265b07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Handschuhe.md",
+                "file": "Worter/zurückkehren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Handschuhe"
+              "title": "zurückkehren"
             }
           },
           {
-            "id": "dcdff3d23243f054",
+            "id": "767b0ce901749e06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Handschuh.md",
+                "file": "Worter/beherrschen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Handschuh"
+              "title": "beherrschen"
+            }
+          },
+          {
+            "id": "3c589666c424c7cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/beherrschte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "beherrschte"
+            }
+          },
+          {
+            "id": "32eff45dac1c38d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Frieden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frieden"
+            }
+          },
+          {
+            "id": "5679c3c6fd0cde14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Friedens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friedens"
+            }
+          },
+          {
+            "id": "89a9c3bbd5b7dff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Frieden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frieden"
+            }
+          },
+          {
+            "id": "3f46bcfe0e908e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/vergangen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vergangen"
+            }
+          },
+          {
+            "id": "88279612f71b7177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Der Struwwelpeter/3 Die Geschichte von den schwarzen Buben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 Die Geschichte von den schwarzen Buben"
+            }
+          },
+          {
+            "id": "f89d575be04fcf78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Vorsicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vorsicht"
+            }
+          },
+          {
+            "id": "c97066d44cc85932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Vorsicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vorsicht"
             }
           },
           {
@@ -91,7 +203,8 @@
               "title": "Mädchen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,34 +352,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5bdea41b96da987a",
+  "active": "18b98381901e2202",
   "lastOpenFiles": [
-    "Texte/Avatar/s1 e1.md",
-    "Worter/Verben/Verbformen/sieht.md",
-    "Worter/sehen.md",
-    "Worter/sehen Sie.md",
-    "Worter/sähet.md",
-    "Worter/sehet.md",
-    "Worter/saht.md",
-    "Worter/seht.md",
-    "Worter/sähen.md",
-    "Worter/sahen.md",
-    "Worter/sieht.md",
-    "Worter/sähest.md",
-    "Worter/sehest.md",
-    "Worter/sahst.md",
-    "Worter/siehst.md",
-    "Worter/sähe.md",
-    "Worter/sehe.md",
-    "Worter/hen.md",
-    "Worter/se.md",
-    "Worter/blicken.md",
-    "Worter/sah.md",
-    "Worter/Wasserblase.md",
-    "Worter/Wasserblases.md",
-    "Worter/Gebilde.md",
-    "Worter/Kuppe.md",
-    "Worter/Blase.md",
+    "Worter/zurückkehrt.md",
+    "Worter/zurückkehren.md",
+    "Worter/kehren.md",
+    "Worter/kehrend.md",
+    "Worter/kehren Sie.md",
+    "Worter/kehret.md",
+    "Worter/kehrten.md",
+    "Worter/kehrt.md",
+    "Worter/kehrtest.md",
+    "Worter/kehrst.md",
+    "Worter/kehre.md",
+    "Worter/vermüllen.md",
+    "Worter/aufräumen.md",
+    "Worter/gekehrt.md",
+    "Worter/kehrte.md",
+    "Worter/zurückkehrend.md",
+    "Worter/kehren Sie zurück.md",
+    "Worter/kehret zurück.md",
+    "Worter/kehrtet zurück.md",
+    "Worter/kehrten zurück.md",
+    "Worter/kehren zurück.md",
+    "Worter/kehrt zurück.md",
+    "Worter/kehrtest zurück.md",
+    "Worter/kehrst zurück.md",
+    "Worter/kehre zurück.md",
+    "Worter/kehr.md",
     "Texte/Avatar",
     "Texte/Gedichte/Misc",
     "Texte/Misc1",

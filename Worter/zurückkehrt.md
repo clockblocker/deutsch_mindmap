@@ -1,0 +1,1 @@
+🔄 [[zurückkehren]] + Akk, [tsʏˈʁʏkkeːɐ̯ən]

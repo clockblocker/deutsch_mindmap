@@ -1,13 +1,22 @@
-Singular: die [[Geschichte]]
-Plural: [[Geschichten]]
-
-
-Beispiele:
-
-Das ist die [[Geschichte]] von Sascha und Anna
+die [[Geschichte]], [ˈɡəʃɪçtə]
+die [[Geschichten]]
 
 ---
+Meine Großmutter erzählte mir oft [[Geschichten]] über eine längst vergangene Zeit, von einer Zeit des Friedens. 
 
-#Substantiv #Feminin 
+---
+Synonyme:
+- [[Erzählung]], [[Bericht]], [[Ereignis]], [[Vorfall]], [[Verlauf]]
 
+---
+Übersetzung: history, story
 
+---
+Morpheme:
+[[Ge]][[schicht]][[e]]
+
+---
+Einzigartige mögliche Formen: [[Geschichte]], [[Geschichten]], [[Geschichte]], [[Geschichten]], [[Geschichte]], [[Geschichten]], [[Geschichte]], [[Geschichten]]
+
+---
+#Substantiv #Feminin

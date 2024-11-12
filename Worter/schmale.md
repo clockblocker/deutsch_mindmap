@@ -1,4 +1,3 @@
-
 🔴 [[schmale]], [ˈʃmaːlə]
 nicht [[breit]]
 

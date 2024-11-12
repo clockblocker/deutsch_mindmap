@@ -21,3 +21,5 @@ Einzigartige mögliche Formen: [[Handschuhs]], [[Handschuhe]], [[Handschuhen]]
 
 ---
 #Substantiv #Maskulin
+
+

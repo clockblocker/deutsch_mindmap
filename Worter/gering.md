@@ -1,1 +1,1 @@
-[[speziellen]][[prima]], [[breit]], [[bitterlich]]
+[[speziellen]][[prima]], [[breit]], [[bitterlich]], [[gewaltigen]], [[gewaltig]]

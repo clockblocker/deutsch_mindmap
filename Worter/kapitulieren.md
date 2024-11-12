@@ -1,1 +1,1 @@
-, [[widerstehen]], [[angreifen]], [[aushalten]]
+, [[widerstehen]], [[angreifen]], [[aushalten]], [[beherrschen]], [[aufgeben]]

@@ -1,1 +1,1 @@
-[[weggehen]], [[ausgehen]]
+[[weggehen]], [[ausgehen]], [[zurückkehren]]

@@ -32,4 +32,4 @@ Morpheme: [[kontroll]][[ier]][[en]]
 
 Partizip I: [[kontrollierend]], Partizip II: [[kontrolliert]]
 
-[[kontrollieren]] - [[kontroll]] = [[ieren]][[regeln]], [[dienen]]
+[[kontrollieren]] - [[kontroll]] = [[ieren]][[regeln]], [[dienen]], [[beherrschen]]

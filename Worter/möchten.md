@@ -56,4 +56,4 @@ to want, to would like to
 ---
 
 **Morphems of only infinitive:**  
-- [[möcht]][[en]]
+- [[möcht]][[en]], [[mögen]]

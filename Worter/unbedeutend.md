@@ -1,1 +1,1 @@
-, [[wichtig]], [[berühmt]]
+, [[wichtig]], [[berühmt]], [[gewaltigen]], [[gewaltig]]

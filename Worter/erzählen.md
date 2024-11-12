@@ -5,6 +5,7 @@ haben [[erzählt]]
 ---
 EDELTRAUT: Wenn ich das meiner Kusine [[erzähle]]!
 
+Meine Großmutter [[erzählte]] mir oft Geschichten über eine längst vergangene Zeit, von einer Zeit des Friedens. 
 
 ---
 Synonyme: [[berichten]], [[schildern]], [[mitteilen]], [[wiedergeben]], [[darlegen]]

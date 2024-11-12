@@ -1,1 +1,1 @@
-, [[benutzen]], [[bedienen]]
+, [[benutzen]], [[bedienen]], [[beherrschen]]

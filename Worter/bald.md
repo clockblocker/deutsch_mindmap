@@ -1,5 +1,8 @@
 CHARLOTTE: Es ist [[bald]] [[fertig]] –zum Schluss das Eiweiß zur Schokolade geben und in den Kühlschrank stellen
 
+100 Jahre sind seitdem vergangen und die Feuernation scheint den Krieg [[bald]] zu gewinnen.
+
+
 soon
 nicht [[spät]]
 
