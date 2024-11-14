@@ -1,2 +1,2 @@
 [[ziehen]]
-, [[festziehen]], [[herausziehen]], [[umziehen]], [[losziehen]]
+, [[festziehen]], [[herausziehen]], [[umziehen]], [[losziehen]], [[weiterziehen]], [[anziehen]]

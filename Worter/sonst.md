@@ -37,4 +37,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen: 
 [[sonst]]
-, [[sonst nichts]]
+, [[sonst nichts]], [[s1 e1]]

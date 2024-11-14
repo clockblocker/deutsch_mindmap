@@ -2,8 +2,11 @@
 
 ---
 Ein [[Einbrecher]]? Oh, vielleicht ist er [[sogar]] noch drin?
+
 Er hat mir [[sogar]] ein Kleid geschickt!  
 ...sogar Ei
+
+Ich wasche [[sogar]] all deine Sachen! 
 
 ---
 

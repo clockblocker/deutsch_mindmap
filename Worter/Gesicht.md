@@ -42,4 +42,4 @@ Morphems:
 ---
 #Substantiv #Neuter
 
-, [[Angesicht]], [[Backen]]
+, [[Angesicht]], [[Backen]], [[Gesichtsausdruck]]

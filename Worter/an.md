@@ -9,3 +9,4 @@ an = begin / contact
 Der Bus helt an 
 Der bus fährt an 
 
+, [[anziehen]], [[anspannen]], [[Von heute an]], [[antippen]], [[tippen]]

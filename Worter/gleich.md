@@ -1,9 +1,14 @@
 [[gleich]], [ɡlaɪ̯ç] 
 nicht [[unterschiedlich]]
 
+= immediately
 = [[wie]]
 
+
+
 ---
+Wer von uns beiden lässt denn hier jedes mal [[gleich]] seine Muskeln spielen, wenn er sein Spiegelbild im Wasser sieht?
+
 Frau W. geht [[gleich]] ins Wohnzimmer. Das habe ich mir [[gleich]] gedacht.
 
 Wolfgang, sieh doch [[gleich]] mal nach ist [[gleich]] nur etwas [[anders]]
@@ -47,4 +52,4 @@ Einzigartige mögliche Formen:
 ''
 
 [[andere]], [[derselben]], [[vergleichen]], [[verschiedene]], [[gleichen]], [[gehen]]
-, [[11 08]]
+, [[11 08]], [[s1 e1]]

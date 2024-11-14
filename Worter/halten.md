@@ -1,4 +1,4 @@
-✋ [[halten]]
+✋ [[halten]] sich
 [[hielt]]
 haben [[gehalten]]
 
@@ -10,7 +10,9 @@ Wir [[halten]] zusammen Keiner kämpft allein
 
 [[Für wen hält sich die]]
 
-In der Stube saß eine Frau und hielt den Kopf über das weiße Waschbecken gebückt. I
+In der Stube saß eine Frau und hielt den Kopf über das weiße Waschbecken gebückt. 
+
+Katara und Sokka [[halten]] sich an der Eisscholle fest und werden mit ihr von einer Welle weggespült.
 
 ---
 [[aushalten]] - [[aus]] = [[halten]]

@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[bereit]], [[bereite]], [[bereites]], [[bereiten]], [[bereitem]], [[bereiter]], [[bereitem]]
 [[bereiter]], [[bereiterer]], [[bereitere]], [[bereiteres]], [[bereitereren]], [[bereiterem]], [[bereiterer]], [[bereitereren]]
-[[bereitesten]], [[bereitester]], [[bereiteste]], [[bereitestes]], [[bereitesten]], [[bereitstem]], [[bereitester]], [[bereitesten]]
+[[bereitesten]], [[bereitester]], [[bereiteste]], [[bereitestes]], [[bereitesten]], [[bereitstem]], [[bereitester]], [[bereitesten]], [[erledigt]]

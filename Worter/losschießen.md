@@ -31,4 +31,4 @@ Morpheme: [[los]][[schieß]][[en]]
 
 Partizip I: [[losschießend]], Partizip II: [[losgeschossen]]
 
-[[losschießen]] - [[los]] = [[schießen]]
+[[losschießen]] - [[los]] = [[schießen]], [[durchknallen]]

@@ -72,4 +72,4 @@ Konjunktiv II:
 - Wenn er geübt hätte, [[räse]] er in Rekordzeit.
 - Wenn wir mutiger wären, [[räsen]] wir ins Ungewisse.
 - Wenn ihr schneller wäret, [[räset]] ihr durch den Sturm.
-- Wenn sie es wollten, [[räsen]] sie dem Ziel entgegen.
+- Wenn sie es wollten, [[räsen]] sie dem Ziel entgegen., [[durchknallen]]

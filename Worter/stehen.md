@@ -32,4 +32,4 @@ Partizip I: [[stehend]], Partizip II: [[gestanden]]
 
 
 [[verstehen]], [[bestehen]], [[bücken]], [[widerstehen]], [[liegen]], [[laufen]]
-, [[stehen lassen]]
+, [[stehen lassen]], [[krabbeln]]

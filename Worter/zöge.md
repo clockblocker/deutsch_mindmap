@@ -1,2 +1,2 @@
 👗 [[anziehen]]
-[[ziehen]]
+[[ziehen]], [[weiterziehen]]

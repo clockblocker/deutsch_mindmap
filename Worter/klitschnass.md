@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[klitschnass]], [[klitschnassel]], [[klitschnaße]], [[klitschnaßes]], [[klitschnaßen]], [[klitschnaßem]], [[klitschnaßer]], [[klitschnaßen]]
 [[klitschnaßer]], [[klitschnasserer]], [[klitschnaßere]], [[klitschnasseres]], [[klitschnaßeren]], [[klitschnasserem]], [[klitschnasserer]], [[klitschnaßeren]]
-[[klitschnaßeste]], [[klitschnaßester]], [[klitschnaßeste]], [[klitschnaßestes]], [[klitschnaßesten]], [[klitschnaßestem]], [[klitschnaßester]], [[klitschnaßesten]]
+[[klitschnaßeste]], [[klitschnaßester]], [[klitschnaßeste]], [[klitschnaßestes]], [[klitschnaßesten]], [[klitschnaßestem]], [[klitschnaßester]], [[klitschnaßesten]], [[s1 e1]]

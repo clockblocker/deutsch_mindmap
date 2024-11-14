@@ -1,1 +1,1 @@
-, [[stehen]], [[werden]], [[losziehen]], [[umdrehen]]
+, [[stehen]], [[werden]], [[losziehen]], [[umdrehen]], [[paddeln]]

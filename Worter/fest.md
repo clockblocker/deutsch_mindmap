@@ -2,6 +2,8 @@
 nicht [[locker]], nicht [[weich]]
 
 ---
+Katara und Sokka halten sich an der Eisscholle [[fest]] und werden mit ihr von einer Welle weggespült.
+
 *Sie müssen sich an Sterne [[krallen]], (ganz [[fest]])*  
 *damit sie nicht vom Himmel fallen.*
 

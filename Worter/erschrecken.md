@@ -5,6 +5,8 @@ sein [[erschrocken]]
 ---
 Eines Tages aber lief der Löwe [[erschrocken]] davon und die Katze versteckte sich auf einem Baum
 
+_Katara und Sokka gucken [[erschrocken]] nach vorne. 
+
 ---
 
 Synonyme:

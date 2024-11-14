@@ -31,4 +31,4 @@ Morpheme: [[auf]][[dreh]][[en]]
 
 Partizip I: [[aufdrehend]], Partizip II: [[aufgedreht]]
 
-[[aufdrehen]] - [[auf]] = [[drehen]]
+[[aufdrehen]] - [[auf]] = [[drehen]], [[wringen]]

@@ -14,14 +14,9 @@ Sam, ich hab' super Nachrichten für dich – Kanal 9 [[sucht]] ein R
  [[Such]] mal CNN!  
 
 ---
+[[versuchen]] - [[ver]] = [[suchen]]
+[[aussuchen]] - [[aus]] = [[suchen]]
 
-Prosessed the word suchen. Identified it as Verb.
-
-📚 [[suchen]] + Akk, [ˈzuːxn̩]
-[[suchte]]
-haben [[gesucht]]
-
----
 
 
 ---
@@ -50,3 +45,4 @@ Partizip I: [[suchend]], Partizip II: [[gesucht]]
 
 
 +[[aus]] = [[aussuchen]]
+, [[versuchen]]

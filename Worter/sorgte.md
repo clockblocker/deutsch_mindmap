@@ -29,4 +29,4 @@ Morpheme: [[sorg]][[en]]
 
 Partizip I: [[sorgend]], Partizip II: [[gesorgt]]
 
-[[sorgen]] - keine Trennbarkeit, [[Sorgen]]
+[[sorgen]] - keine Trennbarkeit, [[Sorgen]], [[s1 e1]]

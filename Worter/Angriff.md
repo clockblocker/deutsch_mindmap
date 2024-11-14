@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Angriffs]], [[Angriffen]], [[Angriffe]], [[Angriffen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[s1 e1]]

@@ -1,1 +1,1 @@
-[[umdrehen]] + Akk, [ˈʊmdʀeːən]
+[[umdrehen]] + Akk, [ˈʊmdʀeːən], [[s1 e1]]

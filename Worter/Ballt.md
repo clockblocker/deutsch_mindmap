@@ -1,1 +1,1 @@
-🔵 [[ballen]] + Akk, [ˈbalən]
+🔵 [[ballen]] + Akk, [ˈbalən], [[s1 e1]]

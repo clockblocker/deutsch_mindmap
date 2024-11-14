@@ -5,6 +5,8 @@ haben [[umgedreht]]
 ---
 Sokka [[dreht um|dreht]] sich wütend zu Katara um.
 
+Der Eisberg bekommt mehr Risse. Katara [[dreht]] [[sich]] [[um]] und sieht es nun auch.
+
 ---
 Synonyme: [[wenden]], [[rotieren]], [[schwenken]], [[kreisen]], [[pendeln]]
 Antonyme: [[stillstehen]], [[fixieren]], [[verharren]]
@@ -31,3 +33,4 @@ Morpheme: [[um]][[dreh]][[en]]
 Partizip I: [[umdrehend]], Partizip II: [[umgedreht]]
 
 [[umdrehen]] - [[um]] = [[drehen]]
+, [[wegdrehen]]

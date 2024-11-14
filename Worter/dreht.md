@@ -1,1 +1,1 @@
-, [[drehen]]
+, [[drehen]], [[s1 e1]], [[umdrehen]]

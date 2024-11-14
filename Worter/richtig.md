@@ -6,6 +6,9 @@
 nicht [[Falsch]]
 
 ---
+Wird richtig sauer, macht einen bösen Gesichtsausdruck und fuchtelt mit den Armen
+
+---
 
 Synonyme:
 - [[korrekt]], [[genau]], [[zutreffend]]

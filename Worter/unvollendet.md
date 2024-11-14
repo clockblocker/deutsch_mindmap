@@ -1,1 +1,1 @@
-[[Fertig]], [[halbes]]
+[[Fertig]], [[halbes]], [[erledigt]]

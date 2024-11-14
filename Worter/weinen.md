@@ -78,4 +78,4 @@ Konjunktiv II:
 - Wenn er sich ärgern würde, [[weinte]] er leise.
 - Wenn wir uns erinnern würden, [[weinten]] wir gemeinsam.
 - Wenn ihr sensibler wäret, [[weintet]] ihr schneller.
-- Wenn sie glücklich wären, [[weinten]] sie vor Freude.[[lachen]]
+- Wenn sie glücklich wären, [[weinten]] sie vor Freude.[[lachen]], [[grinsen]]

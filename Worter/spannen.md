@@ -7,6 +7,9 @@ haben [[gespannt]]
 
 
 ---
+[[anspannen]] - [[an]] = [[spannen]]
+
+---
 Synonyme: [[dehnen]], [[ausspannen]], [[straffen]], [[aufziehen]], [[ziehen]]
 Antonyme: [[lockern]], [[entspannen]], [[lösen]]
 
@@ -31,3 +34,4 @@ Morpheme: [[spann]][[en]]
 
 Partizip I: [[spannend]], Partizip II: [[gespannt]]
 
+, [[anspannen]]

@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kamera]], [[Kamera]], [[Kameras]], [[Kameras]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[s1 e1]]

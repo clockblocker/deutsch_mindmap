@@ -1,1 +1,1 @@
-, [[Freund]]
+, [[Freund]], [[Soldat]]

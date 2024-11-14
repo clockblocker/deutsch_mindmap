@@ -3,6 +3,7 @@
 ---
 Dabei sieht er gut aus in seinem Arztkittel …  
 
+Kaum hat man ein Mädchen dabei, schon geht alles schief!
 
 ---
 Synonyme: [[hierbei]], [[daran]], [[dazu]], [[darüber]], [[damit]], [[darin]], [[hierzu]], [[dran]]

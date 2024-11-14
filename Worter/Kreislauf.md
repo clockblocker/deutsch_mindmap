@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kreislaufs]], [[Kreislaufe]], [[Kreisläufe]], [[Kreisläufen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neutrum, [[s1 e1]]

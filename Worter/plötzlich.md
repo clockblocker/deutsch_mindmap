@@ -1,8 +1,10 @@
 🟠 [[plötzlich]], [ˈplœt͡sliç]
 
 ---
-*da sah sie plötzlich vor sich stehn*  
+*da sah sie [[plötzlich]] vor sich stehn*  
 *ein Feuerzeug, nett anzusehn.*  
+
+[[Plötzlich]] leuchtet das Wasser unter der Eisscholle hellblau auf
 
 ---
 Synonyme: [[unerwartet]], [[unverhofft]], [[abrupt]], [[schlagartig]], [[urplötzlich]]

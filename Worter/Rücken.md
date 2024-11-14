@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Rückens]], [[Rücken]], [[Rücken]], [[Rücken]], [[Rücken]], [[Rücken]], [[Rücken]], [[Rücken]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Ruck]]

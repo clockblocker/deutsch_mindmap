@@ -1,1 +1,1 @@
-, [[bittre]], [[schmerzend]], [[Flüsternd]]
+, [[bittre]], [[schmerzend]], [[Flüsternd]], [[böse]], [[sauer]]

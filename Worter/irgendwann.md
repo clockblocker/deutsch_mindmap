@@ -18,4 +18,4 @@ Morpheme: [[irgend]][[wann]]
 
 ---
 
-[[irgend]], [[demnächst]]
+[[irgend]], [[demnächst]], [[s1 e1]]

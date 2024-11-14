@@ -37,4 +37,4 @@ Morphems:
 
 ---
 Tags:
-#Adverb #Pronomen, [[11 08]]
+#Adverb #Pronomen, [[11 08]], [[s1 e1]]

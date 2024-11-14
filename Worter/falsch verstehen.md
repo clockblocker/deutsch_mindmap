@@ -1,1 +1,1 @@
-[[verstehen]]
+[[verstehen]], [[deuten]]

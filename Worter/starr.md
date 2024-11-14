@@ -1,1 +1,1 @@
-, [[steif]], [[flüssigen]]
+, [[steif]], [[flüssigen]], [[wenden]]

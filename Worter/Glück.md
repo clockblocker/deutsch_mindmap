@@ -31,4 +31,4 @@ Plural forms:
 Morphems:
 - [[Glück]]
 
----[[Glückstag]][[Unglück]], [[Freude]]
+---[[Glückstag]][[Unglück]], [[Freude]], [[Glückwunsch]]

@@ -1,5 +1,13 @@
 ich gehe um die Tafel
 
 um 7 Uhr 
+[[am]] Abend
 
-[[am]] Abend[[umschalten]], [[herum]], [[umziehen]], [[ziehen]], [[durch]], [[umdrehen]], [[drehen]]
+
+[[ziehen]], [[durch]], [[drehen]], 
+
+[[umschalten]], 
+[[herum]], 
+[[umziehen]], 
+[[umdrehen]],
+[[umgeben]]

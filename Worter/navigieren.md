@@ -1,1 +1,1 @@
-[[fahren]], [[bedienen]]
+[[fahren]], [[bedienen]], [[steuere]]

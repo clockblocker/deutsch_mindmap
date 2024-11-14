@@ -6,6 +6,8 @@ haben [[geflogen]]
 *Er fing die [[fliegen]] in dem Haus*  
 *und riß ihnen die Flügel aus.* 
 
+Katara und Sokka [[fliegen]] in hohem Bogen aus dem Boot und landen auf einer großen Scholle. 
+
 ---
 Synonyme: [[schweben]], [[gleiten]], [[segeln]], [[flattern]], [[dahinfliegen]]
 Antonyme: [[landen]], [[stürzen]], [[kriechen]], [[gehen]]
@@ -39,3 +41,4 @@ Partizip I: [[fliegend]], Partizip II: [[geflogen]]
 
 [[ausrissen]]
 
+, [[krabbeln]], [[s1 e1]]

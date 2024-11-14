@@ -1,1 +1,1 @@
-🔵 [[beherrschen]], [bəˈhɛʁʃən]
+🔵 [[beherrschen]], [bəˈhɛʁʃən], [[s1 e1]]

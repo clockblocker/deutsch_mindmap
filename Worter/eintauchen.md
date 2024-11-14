@@ -1,1 +1,1 @@
-, [[tauchten]], [[untertauchen]]
+, [[tauchten]], [[untertauchen]], [[auswringen]]

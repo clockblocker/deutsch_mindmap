@@ -6,6 +6,9 @@ Beispiele:
 
 - SASCHA: In die Knie, eins, zwei, drei, vier, fünf, sechs, sieben, acht und Arme hoch und [[Worter/nach]] [[vorne]] und [[wieder]].  
 
+_Katara und Sokka gucken erschrocken nach [[vorne]]. 
+
+
 ---
 Synonyme:
 - [[vorn]], [[vorwärts]], [[an der Spitze]]
@@ -14,4 +17,4 @@ Synonyme:
 **Übersetzung**: in front, ahead
 
 ---
-#Adverb, [[voraus]]
+#Adverb, [[voraus]], [[s1 e1]]

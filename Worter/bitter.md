@@ -33,4 +33,4 @@ Tags:
 ---
 
 Morphems:
-[[bitter]], [[bitterlich]], [[bittre]]
+[[bitter]], [[bitterlich]], [[bittre]], [[sauer]]

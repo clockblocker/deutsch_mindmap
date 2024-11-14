@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[ordentlich]], [[ordentlicher]], [[ordentliche]], [[ordentliches]], [[ordentlichen]], [[ordentlichem]], [[ordentlicher]], [[ordentlichen]]
 [[ordentlicherer]], [[ordentlichere]], [[ordentlicheres]], [[ordentlicheren]], [[ordentlicherem]], [[ordentlicherer]], [[ordentlicheren]]
-[[ordentlichsten]], [[ordentlichster]], [[ordentlichste]], [[ordentlichstes]], [[ordentlichsten]], [[ordentlichstem]], [[ordentlichster]], [[ordentlichsten]]
+[[ordentlichsten]], [[ordentlichster]], [[ordentlichste]], [[ordentlichstes]], [[ordentlichsten]], [[ordentlichstem]], [[ordentlichster]], [[ordentlichsten]], [[schief]], [[dreckigen]], [[dreckig]]

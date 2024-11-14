@@ -66,4 +66,4 @@ Sie haben [[geglaubt]]
 Imperativ
 du [[glaube]]
 ihr [[glaubt]]
-Sie [[glauben]], [[meinen]], [[vertrauen]]
+Sie [[glauben]], [[meinen]], [[vertrauen]], [[s1 e1]]

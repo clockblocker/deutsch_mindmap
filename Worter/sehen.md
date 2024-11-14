@@ -32,3 +32,4 @@ Partizip I: [[sehend]], Partizip II: [[gesehen]]
 
 
 [[wiedersehen]], [[ansehen]], [[aussehen]]
+, [[gucken]]

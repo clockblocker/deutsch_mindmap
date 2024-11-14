@@ -4,6 +4,8 @@
 SEXY VOICE: [[nun]] … willst du ein [[stück]] vom Paradies probieren?  
 SASCHA: Mich! Na ja - hier sind wir [[nun]] …  
 
+_Der Eisberg bekommt mehr Risse. Katara dreht sich um und sieht es [[nun]] auch.
+
 
 ---
 Synonyme:

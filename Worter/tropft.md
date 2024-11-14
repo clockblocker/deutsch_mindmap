@@ -1,1 +1,1 @@
-[[tropfen]] + Dat., [ˈtrɔpfn̩]
+[[tropfen]] + Dat., [ˈtrɔpfn̩], [[s1 e1]]

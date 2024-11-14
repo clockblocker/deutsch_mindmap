@@ -5,6 +5,9 @@ die [[Handschuhe]]
 ---
 Katara sieht einen Fisch kommen und zieht einen [[Handschuh]] aus.
 
+(Ballt die [[Handschuhe]] zu Fäusten, sodass Wasser aus ihnen tropft)\
+
+
 ---
 Synonyme:
 - [[Fausthandschuh]], [[Fingerhandschuh]], [[Stulpe]]
@@ -23,3 +26,4 @@ Einzigartige mögliche Formen: [[Handschuhs]], [[Handschuhe]], [[Handschuhen]]
 #Substantiv #Maskulin
 
 
+, [[s1 e1]]

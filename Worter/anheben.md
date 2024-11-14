@@ -1,1 +1,1 @@
-, [[heben]], [[erheben]]
+, [[heben]], [[erheben]], [[hochziehen]]

@@ -1,1 +1,1 @@
-[[kriechen]]
+[[kriechen]], [[krabbeln]]

@@ -8,6 +8,8 @@ Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 *da sah sie plötzlich vor sich stehn*  
 *ein Feuerzeug, nett anzusehn.*  
 
+Nennst du das etwa links? _[[ansehen|Sieht]] Sokka böse [[an]]_
+
 ---
 Synonyme: [[betrachten]], [[begutachten]], [[besichtigen]], [[mustern]], [[inspizieren]], [[prüfen]]
 Antonyme: [[ignorieren]], [[übersehen]], [[wegsehen]], [[abwenden]]
@@ -33,4 +35,4 @@ Morpheme: [[an]][[seh]][[en]]
 
 Partizip I: [[ansehend]], Partizip II: [[angesehen]]
 
-[[ansehen]] - [[an]] = [[sehen]]
+[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]]

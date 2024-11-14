@@ -1,0 +1,1 @@
+[[deuten]] auf den [ˈdɔɪ̯tn̩]

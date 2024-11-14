@@ -6,6 +6,9 @@ die [[Sache]]
 Singular: die [[Sache]]
 Plural: die [[Sachen]]
 
+Ich wasche [[sogar]] all deine Sachen! 
+
+
 Beispiele:
 - Die [[Sache]] ist wichtig. (The matter is important.)
 - Ich habe eine [[Sache]] für dich. (I have something for you.)

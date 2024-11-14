@@ -1,1 +1,1 @@
-🔵 der [[Frieden]], [ˈfʁiːdən]
+🔵 der [[Frieden]], [ˈfʁiːdən], [[s1 e1]]

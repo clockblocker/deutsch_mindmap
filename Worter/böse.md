@@ -1,41 +1,34 @@
-[[böse]]
-[[böser]]
-[[am]] [[bösesten]]
+🟣 böse, [ˈbœzə]
+nicht [[gut]], nicht [[nett]], nicht [[freundlich]]
 
+---
 NIC: So ein [[böser]] Junge!
 Die Geschichte vom [[bösen]] Friederich
 Bitte sei nicht [[böse]]
 
+Nennst du das etwa links? Sieht Sokka [[böse]] an_
+
+---
+Synonyme: 
+[[schlimm]], [[gemein]], [[bösartig]], [[ärgerlich]], [[wütend]]
+Antonyme:
+[[gut]], [[nett]], [[freundlich]], [[sanft]], [[liebevoll]]
+
+---
+**Übersetzung:**
+evil, bad, mean
+
+---
+#Adjective [[böse]]
+
+---
+Morpheme:
+[[böse]]
+
 ---
 
 
-nicht [[gut]], [[freundlich]]
-
----
-
-Synonyme:
-- [[gemein]], [[unfreundlich]], [[Schlecht]]
-
----
-
-Beispiele:
-
-- Er hat einen [[bösen]] Blick.
-- Sie ist heute besonders [[böse]].
-- Das war eine [[böse]] Überraschung.
-- Ich will nicht [[böse]] sein, aber das war falsch.
-- Er hatte eine [[bösere]] Absicht, als ich dachte.
-- Das war die [[böseste]] Tat, die ich je gesehen habe.
-
----
-**Übersetzung**: evil, mean, angry
-
----
-
-Tags:
-#Adjective
-
----
-
-Morphems:
-[[böse]], [[arg]], [[bös]]
+Einzigartige mögliche Formen: 
+[[böse]], [[böser]], [[böse]], [[böses]], [[bösen]], [[bösen]], [[böser]], [[bösen]]
+[[böser]], [[böserer]], [[bösere]], [[böseres]], [[böseren]], [[böserem]], [[böserer]], [[böseren]]
+[[bösesten]], [[bösester]], [[böheste]], [[bösestes]], [[bösesten]], [[böhestem]], [[bösester]], [[bösesten]], [[s1 e1]]

@@ -1,13 +1,15 @@
-🔁 [[drehen]] + Akk/Dat, [ˈdʀeːən]
+🔁 [[drehen]] sich zu, [ˈdʀeːən]
 [[drehte|drehte]]
 haben [[gedreht]]
 
 ---
-
+_Sokka zieht seinen Ärmel wieder runter und [[dreht]] sich zu Katara. 
 
 ---
 [[umdrehen]] - [[um]] = [[drehen]]
 [[aufdrehen]] - [[auf]] = [[drehen]]
+[[wegdrehen]] - [[weg]] = [[drehen]]
+
 
 
 ---
@@ -38,3 +40,4 @@ Partizip I: [[drehend]], Partizip II: [[gedreht]]
 
 
 , [[aufdrehen]], [[umdrehen]]
+, [[wegdrehen]]

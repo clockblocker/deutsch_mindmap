@@ -1,1 +1,1 @@
-💙 [[vergangen]], [fɛɐˈɡaŋɡən]
+💙 [[vergangen]], [fɛɐˈɡaŋɡən], [[s1 e1]]

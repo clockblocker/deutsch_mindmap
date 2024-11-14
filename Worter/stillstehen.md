@@ -1,1 +1,1 @@
-[[fahren]], [[bewegen]], [[umdrehen]], [[drehen]]
+[[fahren]], [[bewegen]], [[umdrehen]], [[drehen]], [[paddeln]]

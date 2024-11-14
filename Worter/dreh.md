@@ -1,1 +1,1 @@
-, [[aufdrehen]], [[umdrehen]], [[drehen]]
+, [[aufdrehen]], [[umdrehen]], [[drehen]], [[wegdrehen]]

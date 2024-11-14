@@ -2,7 +2,7 @@
 nicht [[sauber]]
 
 ---
-Nun, sehen wir einmal was passiert ist - das Hemd mit dem normalen Waschmittel ist noch [[schmutzig]] …  
+Nun, sehen wir einmal was passiert ist - das [[Hemd]] mit dem normalen Waschmittel ist noch [[schmutzig]] …  
 
 
 ---
@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 [[schmutzig]], [[schmutziger]], [[schmutzige]], [[schmutziges]], [[schmutzigen]], [[schmutzigem]], [[schmutziger]], [[schmutzigen]]
 [[schmutziger]], [[schmutzigerer]], [[schmutzigere]], [[schmutzigeres]], [[schmutzigeren]], [[schmutzigereम]], [[schmutzigerer]], [[schmutzigeren]]
 [[schmutzigsten]], [[schmutzigster]], [[schmutziгste]], [[schmutzigвtes]], [[schmutzigsten]], [[schmutzigвtем]], [[schmutzigster]], [[schmutzigsten]]
-''', [[frisch]]
+''', [[frisch]], [[dreckigen]]

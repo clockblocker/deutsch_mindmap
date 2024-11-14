@@ -13,6 +13,7 @@ haben [[gezogen]]
 + + [[weiter]] = [[weiterziehen]]
 - + [[um]] = [[umziehen]] 
 - + [[an]] = [[anziehen]] 
+- [[hochziehen]] - [[hoch]] = [[ziehen]]
 
 ---
 Synonyme: [[zerren]], [[reißen]], [[schleifen]], [[schleppen]], [[verziehen]]
@@ -38,4 +39,4 @@ Morpheme: [[zieh]][[en]]
 | Sie | [[ziehen]] | [[zogen]] | [[ziehen Sie]] | [[ziehen]] | [[zögen]] |
 
 Partizip I: [[ziehend]], Partizip II: [[gezogen]]
-, [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]], [[losziehen]]
+, [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]], [[losziehen]], [[hochziehen]]

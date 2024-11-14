@@ -10,6 +10,7 @@ Antonyme: [[nehmen]], [[empfangen]], [[bekommen]], [[beanspruchen]]
 
 ---
 [[aufgeben]] - [[auf]] = [[geben]]
+[[umgeben]] - [[um]] = [[geben]], 
 
 
 ---
@@ -33,4 +34,4 @@ Morpheme: [[geb]][[en]]
 Partizip I: [[gebend]], Partizip II: [[gegeben]]
 
 [[übergeben]], [[zugeben]], [[kriegen]], [[schenken]]
-, [[aufgeben]]
+, [[aufgeben]], [[umgeben]]

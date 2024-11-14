@@ -27,4 +27,4 @@ Tags:
 ---
 
 Morphems:
-[[beid]][[en]]
+[[beid]][[en]], [[Wer von uns beiden]]

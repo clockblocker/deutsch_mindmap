@@ -1,1 +1,1 @@
-🔄 [[zurückkehren]] + Akk, [tsʏˈʁʏkkeːɐ̯ən]
+🔄 [[zurückkehren]] + Akk, [tsʏˈʁʏkkeːɐ̯ən], [[s1 e1]]

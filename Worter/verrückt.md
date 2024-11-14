@@ -30,4 +30,4 @@ Tags:
 ---
 
 Morphems:
-[[ver]][[rückt]]
+[[ver]][[rückt]], [[durchgeknallt]]

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Hoffnung]], [[Hoffnungen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[s1 e1]]

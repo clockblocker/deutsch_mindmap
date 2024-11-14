@@ -1,1 +1,1 @@
-🍆 [[lecken]] + Akk, [ˈlɛkən]
+🍆 [[lecken]] + Akk, [ˈlɛkən], [[s1 e1]]

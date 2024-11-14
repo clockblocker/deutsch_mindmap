@@ -3,7 +3,7 @@
 Was sitzen wir [[herum]]?
 SAM: Na, das ist klar! Sie geht hinten [[herum]]!  
 
-
+Um sie [[herum]] ist nun alles still und sie sind umgeben von großen Eisschollen
 
 
 ---
@@ -32,3 +32,4 @@ Morpheme:
 5. **[[um]]**
 6. **[[herumstehen]]**
 7. [[hier]]P
+, [[Um sie herum]]

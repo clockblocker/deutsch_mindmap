@@ -1,1 +1,1 @@
-🎯 [[stoßen]] + Akk/Dat, [ˈʃtɔsən]
+🎯 [[stoßen]] + Akk/Dat, [ˈʃtɔsən], [[s1 e1]]

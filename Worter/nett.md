@@ -34,4 +34,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[nett]], [[netter]], [[nette]], [[nettes]], [[netten]], [[nettem]], [[netter]], [[netten]]
-[[nettester]], [[nettester]], [[netteste]], [[nettstes]], [[nettesten]], [[nettstem]], [[nettester]], [[nettesten]], [[Extra 8]], [[bös]]
+[[nettester]], [[nettester]], [[netteste]], [[nettstes]], [[nettesten]], [[nettstem]], [[nettester]], [[nettesten]], [[Extra 8]], [[bös]], [[böse]]

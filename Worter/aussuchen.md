@@ -4,7 +4,7 @@ haben [[ausgesucht]]
 
 ---
 - Ich [[suche]] mir fünf Zahlen aus
--
+
 
 ---
 Synonyme: [[wählen]], [[auswählen]], [[bestimmen]], [[selektieren]], [[heraussuchen]]

@@ -1,1 +1,1 @@
-[[umschalten]], [[hinstellen]]
+[[umschalten]], [[hinstellen]], [[wenden]]

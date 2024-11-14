@@ -2,7 +2,7 @@
 nicht [[vertraut]], nicht [[bekannt]]
 
 ---
-Emils Mutter goß die Kamillenseife in das blonde Haar und begann, den fremden Kopf zu waschen, daß es schäumte. 
+Emils Mutter goß die Kamillenseife in das blonde Haar und begann, den [[fremden]] Kopf zu waschen, daß es schäumte. 
 
 ---
 Synonyme: 
@@ -29,4 +29,4 @@ Einzigartige mögliche Formen:
 [[fremder]], [[fremderen]], [[fremdere]], [[fremderes]], [[fremderen]], [[fremderm]], [[fremder]], [[fremderen]]
 [[fremdesten]], [[fremdester]], [[fremdeste]], [[fremdstes]], [[fremdesten]], [[fremdesten]], [[fremdester]], [[fremdesten]]
 
-, [[bekannt]], [[eigene]]
+, [[bekannt]], [[eigene]], [[verwandt]]

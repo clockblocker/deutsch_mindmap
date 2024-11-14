@@ -1,1 +1,1 @@
-🍳 [[brutzeln]], [ˈbʁʊtsl̩n]
+🍳 [[brutzeln]], [ˈbʁʊtsl̩n], [[s1 e1]]

@@ -5,4 +5,4 @@ Können [[wir]] [[uns]] heute treffen?
 ANNA: Ja, [[zeig]] es [[uns]] ‘mal!  
 
 
-ourself, [[brauchen]]
+ourself, [[brauchen]], [[Wer von uns beiden]]

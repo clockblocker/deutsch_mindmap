@@ -1,1 +1,1 @@
-, [[benutzen]], [[tun]]
+, [[benutzen]], [[tun]], [[versuchen]], [[wegspülen]]

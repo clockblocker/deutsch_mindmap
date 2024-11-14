@@ -1,1 +1,1 @@
-, [[anfangen]], [[dauern]], [[machen]], [[losschießen]], [[unterbrechen]]
+, [[anfangen]], [[dauern]], [[machen]], [[losschießen]], [[unterbrechen]], [[erledigen]]

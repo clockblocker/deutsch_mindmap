@@ -1,1 +1,1 @@
-[[heißen]]
+[[heißen]], [[nennen]]

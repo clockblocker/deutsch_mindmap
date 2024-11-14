@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[flüsternd]], [[flüsternde]], [[flüsterndes]], [[flüsterndem]], [[flüsternden]], [[flüsternder]]
 [[flüsternder]], [[flüsternderen]], [[flüsterndere]], [[flüsterndes]], [[flüsterndere]], [[flüsternderem]], [[flüsternderen]], [[flüsterndere]]
-[[flüsterendsten]], [[flüsterendster]], [[flüsterendste]], [[flüsterendstes]], [[flüsterendsten]], [[flüsterendstem]], [[flüsterendster]], [[flüsterendsten]]
+[[flüsterendsten]], [[flüsterendster]], [[flüsterendste]], [[flüsterendstes]], [[flüsterendsten]], [[flüsterendstem]], [[flüsterendster]], [[flüsterendsten]], [[s1 e1]]

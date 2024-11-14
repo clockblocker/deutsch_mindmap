@@ -31,4 +31,4 @@ Morpheme: [[ein]][[fall]][[en]]
 
 Partizip I: [[einfallend]], Partizip II: [[eingefallen]]
 
-[[einfallen]] - [[ein]] = [[fallen]], [[Extra 8]]
+[[einfallen]] - [[ein]] = [[fallen]], [[Extra 8]], [[landen]]

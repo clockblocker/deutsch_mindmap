@@ -33,3 +33,4 @@ Morpheme: [[freu]][[en]]
 | Sie       | [[freuen]]           | [[freuten]]           | [[freuen Sie]]    | [[freuen]]             | [[freuten]]             |
 
 Partizip I: [[freuend]], Partizip II: [[gefreut]]
+, [[gefallen]]

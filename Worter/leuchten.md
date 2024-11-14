@@ -7,6 +7,10 @@ haben [[geleuchtet]]
 *die Schürze brennt, es [[leuchtet]] weit.*  
 
 ---
+[[aufleuchten]] - [[auf]] = [[leuchten]]
+
+
+---
 Synonyme: [[strahlen]], [[glänzen]], [[glimmen]], [[scheinen]], [[erleuchten]]
 Antonyme: [[verdunkeln]], [[auslöschen]], [[verlöschen]]
 

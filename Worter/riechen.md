@@ -6,6 +6,7 @@ haben [[gerochen]]
 SASCHA: Päh! Wie [[riecht]]’s [[denn]] hier?  
 Es [[riecht]] wie Stinke-brot.  
 
+Hast du zufällig mal an deinen dreckigen Socken [[gerochen]]?
 
 ---
 

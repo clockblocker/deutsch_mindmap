@@ -1,1 +1,1 @@
-[[freuen]]
+[[freuen]], [[gefallen]]

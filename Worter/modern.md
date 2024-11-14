@@ -23,4 +23,4 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[modern]], [[modernere]], [[moderneren]], [[moderneres]], [[modernem]], [[modernster]], [[modernste]], [[modernstes]], [[modernsten]], [[modernsten]]
+[[modern]], [[modernere]], [[moderneren]], [[moderneres]], [[modernem]], [[modernster]], [[modernste]], [[modernstes]], [[modernsten]], [[modernsten]], [[uralte]]

@@ -1,1 +1,1 @@
-💡 [[leuchten]], [ˈlɔʏ̯tn̩]
+💡 [[leuchten]], [ˈlɔʏ̯tn̩], [[aufleuchten]]

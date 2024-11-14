@@ -7,6 +7,7 @@ Tot [[zusinken|sank]] dieser zu Boden und die restliche Herde raste in panischem
 
 ---
 +[[zu]] = [[zusinken]]
+[[versinken]] - [[ver]] = [[sinken]]
 
 ---
 
@@ -73,4 +74,4 @@ Konjunktiv II:
 - Wenn er sich gehen lässt, [[sänke]] er auf den Grund.
 - Wenn wir schwerer wären, [[sänken]] wir schneller.
 - Wenn ihr mutiger wäret, [[sänket]] ihr tiefer.
-- Wenn sie aufgeben, [[sänken]] sie ab., [[steigen]], [[tauchten]]
+- Wenn sie aufgeben, [[sänken]] sie ab., [[steigen]], [[tauchten]], [[schweben]]

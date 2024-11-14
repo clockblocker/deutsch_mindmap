@@ -32,4 +32,4 @@ Morpheme: [[fahr]][[en]]
 
 Partizip I: [[fahrend]], Partizip II: [[gefahren]]
 
-[[fahren]] - [[fahr]] = [[en]]
+[[fahren]] - [[fahr]] = [[en]], [[paddeln]]

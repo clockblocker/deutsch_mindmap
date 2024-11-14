@@ -5,4 +5,4 @@
 - Dative (Singular): [[viel]]
 - Dative (Plural): [[vielen]]
 - Genitive (Singular): [[vieles]]
-- Genitive (Plural): [[vieler]]
+- Genitive (Plural): [[vieler]], [[Kaum]]

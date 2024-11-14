@@ -1,1 +1,1 @@
-[[weggehen]], [[ausreißen]]
+[[weggehen]], [[ausreißen]], [[dorthin]]

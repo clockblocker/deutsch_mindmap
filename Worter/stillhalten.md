@@ -1,1 +1,1 @@
-[[handeln]], [[klopfen]]
+[[handeln]], [[klopfen]], [[fuchteln]]

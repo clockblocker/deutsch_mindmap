@@ -30,4 +30,4 @@ Morpheme: [[los]][[zieh]][[en]]
 
 Partizip I: [[loszziehend]], Partizip II: [[losgezogen]]
 
-[[losziehen]] - [[los]] = [[ziehen]]
+[[losziehen]] - [[los]] = [[ziehen]], [[s1 e1]]

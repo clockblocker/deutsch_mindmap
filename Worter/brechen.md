@@ -9,6 +9,8 @@ haben [[gebrochen]]
 
 Das Wasserblase [[bricht]] über Sokka zusammen und der Fisch fällt ins Wasser_
 
+Mit einem Krachen [[bricht]] der Eisberg auseinander und versinkt im Wasser.
+
 ---
 Synonyme: [[zerbrechen]], [[kaputtmachen]], [[zerstören]], [[zerschlagen]], [[spalten]], [[trennen]]
 Antonyme: [[reparieren]], [[wiederherstellen]], [[zusammenfügen]], [[fixieren]]

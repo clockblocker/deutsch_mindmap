@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Speerendes]], [[Speerenden]], [[Speerendenn]], [[Speerendee]], [[Speerendeder]], [[Speerender]], [[Speerendem]], [[Speerendes]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[s1 e1]]

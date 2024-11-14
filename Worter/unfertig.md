@@ -1,2 +1,2 @@
 nicht [[Fertig]]
-[[bereit]], [[Reif]]
+[[bereit]], [[Reif]], [[unreif]], [[erledigt]]

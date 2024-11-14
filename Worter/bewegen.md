@@ -5,6 +5,8 @@ haben [[bewegt]]
 ---
 _Katara [[bewegt]] ihre Hände und der Wasserball mit dem Fisch bewegt sich passend dazu.
 
+Durch Kataras Handbewegungen [[bewegt]] sich das Wasser und in einem großen Eisberg hinter ihr bilden sich Risse.
+
 ---
 Synonyme: [[in Bewegung setzen]], [[umher bewegen]], [[verschaffen]], [[umstimmen]], [[antreiben]]
 Antonyme: [[stillstehen]], [[festhalten]], [[lähmen]], [[behalten]], [[belassen]]

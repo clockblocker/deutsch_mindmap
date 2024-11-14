@@ -17,4 +17,4 @@ Morphems:
 [[Trott]][[el]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Erbsenhirn]]

@@ -6,6 +6,8 @@
 ---
 Es gefällt mere sere
 
+Dir gefällt also nicht wie ich steuere, ja? 
+
 ---
 Synonyme: [[zusagen]], [[behagen]], [[freuen]], [[erfreuen]], [[zusagen]]
 Antonyme: [[missfallen]], [[ablehnen]], [[stören]], [[verärgern]]

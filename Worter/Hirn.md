@@ -1,1 +1,1 @@
-, [[Gehirn]]
+= [[Gehirn]], [[Erbsenhirn]]

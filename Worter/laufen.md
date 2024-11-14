@@ -42,4 +42,4 @@ Morpheme: [[lauf]][[en]]
 Partizip I: [[laufend]], Partizip II: [[gelaufen]]
 
 [[kriechen]], [[liegen]]
-, [[hinterherlaufen]]
+, [[hinterherlaufen]], [[krabbeln]]

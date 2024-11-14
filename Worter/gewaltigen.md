@@ -22,4 +22,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[gewaltiger]], [[gewaltigere]], [[gewaltigeres]], [[gewaltigeren]], [[gewaltigerem]], [[gewaltigerer]], [[gewaltigeren]]
-[[gewaltigsten]], [[gewaltigster]], [[gewaltigste]], [[gewaltigstes]], [[gewaltigsten]], [[gewaltigstem]], [[gewaltigster]], [[gewaltigsten]]
+[[gewaltigsten]], [[gewaltigster]], [[gewaltigste]], [[gewaltigstes]], [[gewaltigsten]], [[gewaltigstem]], [[gewaltigster]], [[gewaltigsten]], [[s1 e1]]

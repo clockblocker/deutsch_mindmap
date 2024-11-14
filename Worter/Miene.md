@@ -1,1 +1,1 @@
-, [[Gesicht]], [[Angesicht]]
+, [[Gesicht]], [[Angesicht]], [[Gesichtsausdruck]]

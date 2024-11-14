@@ -77,4 +77,4 @@ Konjunktiv II:
 - Wenn er Platz hätte, [[säße]] er in der Mitte.
 - Wenn wir warten müssten, [[säßen]] wir im Café.
 - Wenn ihr pünktlich wäret, [[säßet]] ihr in der ersten Reihe.
-- Wenn sie früher gekommen wären, [[säßen]] sie bereits hier., [[liegen]], [[passen]], [[laufen]], [[springen]], [[stehen]], [[gehen]]
+- Wenn sie früher gekommen wären, [[säßen]] sie bereits hier., [[liegen]], [[passen]], [[laufen]], [[springen]], [[stehen]], [[gehen]], [[krabbeln]]

@@ -1,1 +1,1 @@
-[[heißen]][[erzählen]]
+[[heißen]][[erzählen]], [[nennen]]

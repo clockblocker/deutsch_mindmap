@@ -20,3 +20,4 @@ Morpheme:
 [[so]] + [[dass]]
 
 ---
+, [[s1 e1]]

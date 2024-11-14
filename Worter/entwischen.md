@@ -31,4 +31,4 @@ Morpheme: [[ent]][[wisch]][[en]]
 
 Partizip I: [[entwischend]], Partizip II: [[entwischt]]
 
-[[entwischen]] - [[ent]] = [[wischen]]
+[[entwischen]] - [[ent]] = [[wischen]], [[s1 e1]]

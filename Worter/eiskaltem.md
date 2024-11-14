@@ -23,4 +23,4 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[eiskalter]], [[eiskalte]], [[eiskaltes]], [[eiskaltem]], [[eiskalten]], [[eiskalterer]], [[eiskaltere]], [[eiskalteres]], [[eiskalteres]], [[eiskälter]], [[eiskältere]], [[eiskältestes]], [[eiskälteste]], [[eiskältestem]], [[eiskältesten]]
+[[eiskalter]], [[eiskalte]], [[eiskaltes]], [[eiskaltem]], [[eiskalten]], [[eiskalterer]], [[eiskaltere]], [[eiskalteres]], [[eiskalteres]], [[eiskälter]], [[eiskältere]], [[eiskältestes]], [[eiskälteste]], [[eiskältestem]], [[eiskältesten]], [[s1 e1]]

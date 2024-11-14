@@ -1,1 +1,1 @@
-[[bedeuten]]
+[[bedeuten]], [[wringen]], [[auswringen]]

@@ -31,4 +31,4 @@ Morpheme: [[ver]][[steh]][[en]]
 
 Partizip I: [[verstehend]], Partizip II: [[verstanden]]
 
-[[verstehen]] - [[ver]] = [[stehen]]
+[[verstehen]] - [[ver]] = [[stehen]], [[deuten]]

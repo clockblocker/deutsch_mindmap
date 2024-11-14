@@ -1,1 +1,1 @@
-, [[Spitze]], [[blindes]], [[bittre]], [[scharfen]]
+, [[Spitze]], [[blindes]], [[bittre]], [[scharfen]], [[sauer]]

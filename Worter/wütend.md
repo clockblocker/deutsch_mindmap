@@ -45,4 +45,4 @@ ruhig (calm)
 ---
 Tags: 
 #Adjective
-#Positive | #Comparative | #Superlative, [[bös]]
+#Positive | #Comparative | #Superlative, [[bös]], [[böse]]

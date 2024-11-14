@@ -1,1 +1,1 @@
-, [[vorwärts]], [[zurückkehren]]
+, [[vorwärts]], [[zurückkehren]], [[wenden]]

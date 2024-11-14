@@ -2,6 +2,7 @@
 [[zog hinein]], [[hineingezogen]] haben
 
 ---
+Dort ist eine Enge aus Eisschollen, in welche sie [[hineingezogen]] werden.
 
 ---
 Synonyme: [[hineingezogen werden]], [[sich hineinziehen lassen]], [[einbezogen werden]], [[miteinbezogen werden]]
@@ -29,3 +30,4 @@ Morpheme: [[hinein]][[gezogen]]
 Partizip I: [[hineingezogen werdend]], Partizip II: [[hineingezogen]]
 
 [[hineingezogen]] - [[hinein]] [[gezogen]]
+, [[s1 e1]]

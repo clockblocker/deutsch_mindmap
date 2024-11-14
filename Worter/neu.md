@@ -52,4 +52,4 @@ new
 Tags: 
 #Adjective [[neu]]
 
-nicht [[alt]], [[bekannt]]
+nicht [[alt]], [[bekannt]], [[uralte]]

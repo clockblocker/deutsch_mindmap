@@ -1,1 +1,1 @@
-, [[leer]], [[füllen]]
+, [[leer]], [[füllen]], [[voll]]

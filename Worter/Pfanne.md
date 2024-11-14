@@ -27,4 +27,4 @@ Morphems:
 [[Pfanne]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[s1 e1]]

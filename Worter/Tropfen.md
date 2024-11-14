@@ -3,7 +3,7 @@
 haben [[getropft]]
 
 ---
-(Ballt die Handschuhe zu Fäusten, sodass Wasser aus ihnen tropft)
+(Ballt die Handschuhe zu Fäusten, sodass Wasser aus ihnen [[tropft]])
 
 
 ---

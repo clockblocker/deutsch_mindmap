@@ -15,4 +15,4 @@ Morpheme:
 [[Dies]][[mal]]
 
 ---
-#Adverb
+#Adverb, [[s1 e1]]

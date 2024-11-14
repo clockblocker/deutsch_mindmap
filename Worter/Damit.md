@@ -10,6 +10,8 @@ ANNA: Was meinst du [[Damit]]? Zu viel Werbung …
 *Sie müssen sich an Sterne krallen, (ganz fest)*  
 *[[damit]] sie nicht vom Himmel fallen.
 
+Willst du [[damit]] sagen, dass ich das getan habe?
+
 ---
 Synonyme: [[dadurch]], [[deswegen]], [[aus diesem Grund]], [[infolgedessen]]
 Antonyme: [[dagegen]], [[andererseits]], [[stattdessen]]
