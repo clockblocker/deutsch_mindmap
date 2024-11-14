@@ -1,1 +1,1 @@
-, [[vorlesen]], [[schreien]], [[knistern]], [[rufen]], [[krachen]], [[knallen]]
+, [[vorlesen]], [[schreien]], [[knistern]], [[rufen]], [[krachen]], [[knallen]], [[Zischen]], [[jaulen]]

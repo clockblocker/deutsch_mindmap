@@ -1,1 +1,1 @@
-, [[ermordet]]
+, [[ermordet]], [[einschlagen]]

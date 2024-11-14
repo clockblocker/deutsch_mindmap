@@ -1,3 +1,3 @@
 сейчас
 
-[[Jetzt geht das wieder los]], [[irgendwann]]
+[[Jetzt geht das wieder los]], [[irgendwann]], [[bald]]

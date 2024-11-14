@@ -1,10 +1,42 @@
+🟢 [[bald]], [balt]
+nicht [[langsam]]
+
+---
 CHARLOTTE: Es ist [[bald]] [[fertig]] –zum Schluss das Eiweiß zur Schokolade geben und in den Kühlschrank stellen
+
+Katara [[einschlagen|schlägt]] auf den Berg ein und [[bald]] öffnet er sich.
+
+100 Jahre sind seitdem vergangen und die Feuernation scheint den Krieg [[bald]] zu gewinnen.
+
+---
+Synonyme: [[schnell]], [[rasch]], [[plötzlich]], [[umgehend]], [[unverzüglich]]  
+Antonyme: [[langsam]], [[zögernd]], [[träge]], [[schleppend]], [[verzögert]]
+
+---
+**Übersetzung**:
+soon, shortly, quickly, rapidly
+
+---
+#Adjective [[bald]]
+
+---
+Morpheme:
+[[bald]]
+
+---
+
+
+Einzigartige mögliche Formen: 
+[[bald]], [[baldere]], [[balderes]], [[balderen]], [[balderes]], [[baldesten]], [[baldester]], [[baldestes]], [[baldeste]]
+
+
+CHARLOTTE: Es ist [[bald]] [[fertig]] –zum Schluss das Eiweiß zur Schokolade geben und in den Kühlschrank stellen
+
+Katara [[einschlagen|schlägt]] auf den Berg ein und [[bald]] öffnet er sich.
 
 100 Jahre sind seitdem vergangen und die Feuernation scheint den Krieg [[bald]] zu gewinnen.
 
 
-soon
-nicht [[spät]]
 
 [[immer]]  
 [[nie]]  
@@ -57,3 +89,6 @@ nicht [[spät]]
 [[fast]]  
 [[voll]]  
 [[oftmals]][[nachher]], [[demnächst]], [[s1 e1]]
+
+
+

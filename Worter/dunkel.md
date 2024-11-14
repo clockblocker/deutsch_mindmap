@@ -73,4 +73,4 @@ Tags:
 
 ---
 Morphems:
-[[dunkel]], [[licht]], [[tief]], [[grasgrün]]
+[[dunkel]], [[licht]], [[tief]], [[grasgrün]], [[leuchtender]]

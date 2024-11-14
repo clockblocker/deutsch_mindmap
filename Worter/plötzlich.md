@@ -23,4 +23,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen:
 [[plötzlich]]
-'''
+''', [[bald]]

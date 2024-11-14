@@ -1,1 +1,1 @@
-[[verstehen]]
+[[verstehen]], [[wundern]]

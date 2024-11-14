@@ -1,1 +1,1 @@
-[[schlagen]]
+[[schlagen]], [[hauen]]

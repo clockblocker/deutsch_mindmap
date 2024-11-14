@@ -22,4 +22,4 @@ Morpheme:
 
 ---
 
-, [[sterben]]
+, [[sterben]], [[bald]]

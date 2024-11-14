@@ -1,1 +1,1 @@
-[[Herzschlag]][[schlagen]], [[Vorschlag]], [[herausschlagen]], [[totschlagen]]
+[[Herzschlag]][[schlagen]], [[Vorschlag]], [[herausschlagen]], [[totschlagen]], [[einschlagen]]

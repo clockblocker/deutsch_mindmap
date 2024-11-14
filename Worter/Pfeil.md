@@ -1,23 +1,23 @@
-🔵 der [[Pfeil]]
+🔵 der [[Pfeil]], [ˈpfaɪ̯l]
 die [[Pfeile]]
 
-Beispiele:
 
-- Der Bogenschütze schoss den [[Pfeil]] ab.
-- Der [[Pfeil]] traf genau ins Ziel.
-- Sie sammelten die [[Pfeile]] nach dem Training ein.
+---
+Katara sieht den Eisberg genauer an und erkennt einen Jungen mit leuchtenden [[Pfeilen]] auf dem Kopf und den Händen. 
 
 ---
 Synonyme:
-- [[Geschoss]], [[Wurfgeschoss]], [[Speer]]
+- [[Bolzen]], [[Geschoss]], [[Projektil]], [[Wurfspieß]]
 
 ---
-**Übersetzung**: arrow
+Übersetzung: arrow
 
 ---
-
-Morphems:
+Morpheme:
 [[Pfeil]]
+
+---
+Einzigartige mögliche Formen: [[Pfeile]], [[Pfeilen]], [[Pfeils]], [[Pfeile]], [[Pfeilens]]
 
 ---
 #Substantiv #Maskulin

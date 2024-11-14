@@ -10,6 +10,9 @@ Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 
 Nennst du das etwa links? _[[ansehen|Sieht]] Sokka böse [[an]]_
 
+Katara [[sieht]] den Eisberg genauer [[an]] und erkennt einen Jungen mit leuchtenden [[Pfeilen]] auf dem Kopf und den Händen. 
+
+
 ---
 Synonyme: [[betrachten]], [[begutachten]], [[besichtigen]], [[mustern]], [[inspizieren]], [[prüfen]]
 Antonyme: [[ignorieren]], [[übersehen]], [[wegsehen]], [[abwenden]]

@@ -5,6 +5,7 @@
 nicht [[ungefähr]]
 
 ---
+Katara sieht den Eisberg [[genauer]] an und erkennt einen Jungen mit leuchtenden Pfeilen auf dem Kopf und den Händen. 
 
 ---
 

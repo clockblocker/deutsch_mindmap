@@ -1,1 +1,1 @@
-, [[versinken]]
+, [[versinken]], [[auftauchten]]

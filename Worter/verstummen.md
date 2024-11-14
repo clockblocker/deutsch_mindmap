@@ -1,1 +1,1 @@
-[[reden]], [[klingen]], [[vorlesen]], [[sprechen]], [[knistern]], [[rufen]]
+[[reden]], [[klingen]], [[vorlesen]], [[sprechen]], [[knistern]], [[rufen]], [[Zischen]]

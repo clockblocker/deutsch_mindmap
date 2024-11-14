@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Verwandten]], [[Verwandtem]], [[Verwandter]], [
 ---
 #Substantiv #Maskulin
 
-, [[Kusine]]
+, [[Kusine]], [[Geschwister]]

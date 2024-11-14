@@ -19,4 +19,4 @@ floor, storey
 ---
 
 #Substantiv
-#Masculin
+#Masculin, [[Keule]]

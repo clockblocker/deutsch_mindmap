@@ -1,1 +1,1 @@
-, [[erstaunlich]]
+, [[erstaunlich]], [[verwundern]], [[wundern]]

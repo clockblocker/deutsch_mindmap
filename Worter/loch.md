@@ -5,6 +5,8 @@ die [[Löcher]]
 ---
 , [[Schlüsselloch]]
 
+Durch das [[Loch]], das Katara in den Eisberg gehauen hat, strömt ein Lichtstrahl in den Himmel.
+
 ---
 Synonyme:
 - [[Öffnung]], [[Vertiefung]], [[Höhle]], [[Grube]], [[Lücke]], [[Spalte]]

@@ -15,4 +15,4 @@ Morpheme:
 [[da]][[mals]]
 
 ---
-#Adverb #Temporaladverb
+#Adverb #Temporaladverb, [[bald]]

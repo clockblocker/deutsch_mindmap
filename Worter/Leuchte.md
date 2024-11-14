@@ -1,1 +1,1 @@
-, [[licht]]
+, [[licht]], [[Lichtstrahl]]

@@ -31,3 +31,4 @@ Einzigartige mögliche Formen:
 [[besondersten]], [[besonderstder]], [[besonderstste]], [[besonderststes]], [[besondersten]], [[besonderstemdert]], [[besonderstder]], [[besondersten]]
 
 [[mittel]]
+, [[bald]]

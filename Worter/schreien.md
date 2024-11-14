@@ -38,3 +38,4 @@ Morpheme: [[schrei]][[en]]
 | Sie       | [[schreien]]         | [[schrien]]           | [[schreien Sie]]  | [[schreien]]           | [[schrieen]]            |
 
 Partizip I: [[schreiend]], Partizip II: [[geschrieen]]
+, [[jaulen]]

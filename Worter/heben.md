@@ -3,7 +3,7 @@
 haben [[gehoben]]
 
 ---
-
+Ein paar Tiger-Seelöwen [[heben]] verwundert die Köpfe und jaulen.
 
 ---
 Synonyme: [[anheben]], [[aufheben]], [[emporbringen]], [[emporheben]], [[hochheben]], [[lupfen]], [[stemmen]]

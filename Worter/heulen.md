@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er einsam wäre, [[heulte]] er in der Nacht.
 - Wenn wir uns ärgern würden, [[heulten]] wir vor Wut.
 - Wenn ihr frustriert wäret, [[heultet]] ihr leise.
-- Wenn sie nostalgisch wären, [[heulten]] sie bei alten Erinnerungen., [[schreien]]
+- Wenn sie nostalgisch wären, [[heulten]] sie bei alten Erinnerungen., [[schreien]], [[jaulen]]

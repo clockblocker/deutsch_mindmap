@@ -6,6 +6,8 @@ haben [[geleuchtet]]
 *Doch weh! die Flamme faßt das Kleid,*  
 *die Schürze brennt, es [[leuchtet]] weit.*  
 
+Der Junge öffnet die Augen, auch sie [[leuchten]].
+
 ---
 [[aufleuchten]] - [[auf]] = [[leuchten]]
 

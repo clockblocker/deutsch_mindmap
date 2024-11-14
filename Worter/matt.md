@@ -1,1 +1,1 @@
-, [[gesund]], [[schwach]]
+, [[gesund]], [[schwach]], [[leuchtender]]

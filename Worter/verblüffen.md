@@ -1,1 +1,1 @@
-[[Überraschen]]
+[[Überraschen]], [[wundern]]

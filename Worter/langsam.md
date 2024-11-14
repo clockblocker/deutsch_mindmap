@@ -82,4 +82,4 @@ schnell (fast)
 ---
 Tags: 
 #Adjective
-, [[lichterloh]], [[geschwind]]
+, [[lichterloh]], [[geschwind]], [[bald]]

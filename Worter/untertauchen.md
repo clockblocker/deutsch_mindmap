@@ -3,7 +3,7 @@
 haben [[untergetaucht]]
 
 ---
-Und es klang, als spräche wer, der in Schlagsahne untergetaucht worden ist. 
+Und es klang, als spräche wer, der in Schlagsahne [[untergetaucht]] worden ist. 
 
 
 ---
@@ -31,4 +31,4 @@ Morpheme: [[unter]][[tauch]][[en]]
 
 Partizip I: [[untertauchend]], Partizip II: [[untergetaucht]]
 
-[[untertauchen]] - [[unter]] = [[tauchen]]
+[[untertauchen]] - [[unter]] = [[tauchen]], [[auftauchten]]

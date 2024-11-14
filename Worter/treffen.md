@@ -38,3 +38,4 @@ Morpheme: [[treff]][[en]]
 
 Partizip I: [[treffend]], Partizip II: [[getroffen]]
 
+, [[einschlagen]]
