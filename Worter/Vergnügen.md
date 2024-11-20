@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Vergnügens]], [[Vergnügen]], [[Vergnügen]], [[Vergnügungen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[s1 e1]]

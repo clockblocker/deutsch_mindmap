@@ -1,1 +1,1 @@
-, [[durchknallen]]
+, [[durchknallen]], [[warten]]

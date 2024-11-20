@@ -1,1 +1,1 @@
-[[ruhig]], [[unheimlich]]
+[[ruhig]], [[unheimlich]], [[beruhig]], [[beruhigenden]]

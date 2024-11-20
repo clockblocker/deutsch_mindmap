@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[dreckig]], [[dreckiger]], [[dreckige]], [[dreckiges]], [[dreckigen]], [[dreckigem]], [[dreckiger]], [[dreckigen]]
 [[dreckigerer]], [[dreckigere]], [[dreckigeres]], [[dreckigeren]], [[dreckigerem]], [[dreckigerer]], [[dreckigeren]]
-[[dreckigsten]], [[dreckigster]], [[dreckigste]], [[dreckigstes]], [[dreckigsten]], [[dreckigstem]], [[dreckigster]], [[dreckigsten]]
+[[dreckigsten]], [[dreckigster]], [[dreckigste]], [[dreckigstes]], [[dreckigsten]], [[dreckigstem]], [[dreckigster]], [[dreckigsten]], [[s1 e1]]

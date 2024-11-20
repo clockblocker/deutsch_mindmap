@@ -32,4 +32,4 @@ Morpheme: [[be]][[schränk]][[en]]
 
 Partizip I: [[beschränkend]], Partizip II: [[beschränkt]]
 
-[[beschränken]] - [[be]] = [[schränken]]
+[[beschränken]] - [[be]] = [[schränken]], [[breiten]]

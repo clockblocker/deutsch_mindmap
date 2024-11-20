@@ -1,11 +1,13 @@
-🔄[[umdrehen]] + Akk, [ˈʊmdʀeːən]
+🔄[[umdrehen]] sich zu + Akk, [ˈʊmdʀeːən]
 [[drehte um|drehte um]]  
 haben [[umgedreht]]
 
 ---
-Sokka [[dreht um|dreht]] sich wütend zu Katara um.
+Sokka [[dreht um|dreht]] sich wütend zu Katara [[um]].
 
 Der Eisberg bekommt mehr Risse. Katara [[dreht]] [[sich]] [[um]] und sieht es nun auch.
+
+Na, endlich! _[[Dreht]] [[sich]] [[um]]_ Onkel, wisst Ihr eigentlich was das bedeutet?
 
 ---
 Synonyme: [[wenden]], [[rotieren]], [[schwenken]], [[kreisen]], [[pendeln]]

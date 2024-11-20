@@ -73,4 +73,4 @@ to let, to allow
 ---
 
 **Morphems of only infinitive:**  
-- [[Lass]][[en]][[stören]][[verlassen]][[Quirlen]][[umschalten]][[ändern]], [[tun]], [[stehen lassen]], [[versuchen]]
+- [[Lass]][[en]][[stören]][[verlassen]][[Quirlen]][[umschalten]][[ändern]], [[tun]], [[stehen lassen]], [[versuchen]], [[wechseln]]

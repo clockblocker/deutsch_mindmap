@@ -22,7 +22,7 @@ Mann gegen Mann
 Mann gegen Mann  
 Ich bin der [[Diener]] zweier Herren  
 Mann gegen Mann  
-Gleich und Gleich gesellt sich gern  
+Gleich und Gleich [[gesellt]] sich gern  
 
   
 Ich bin die [[Ecke]] aller [[Räume]]  
@@ -52,11 +52,6 @@ Mich [[interessiert]] kein [[Gleichgewicht]]
 Mir [[scheint]] die Sonne ins [[Gesicht]]  
 Doch [[friert]] mein Herz an [[manchen]] Tagen  
 Kalte [[Zungen]], die da [[schlagen]]  
-
-*Mich interessiert kein Gleichgewicht*  
-*Mir scheint die Sonne ins Gesicht*  
-*Doch friert mein Herz an manchen Tagen*  
-*Kalte Zungen, die da schlagen*  
 
 
   

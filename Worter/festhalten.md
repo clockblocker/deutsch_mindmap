@@ -1,1 +1,1 @@
-[[freimachen]], [[aufhalten]], [[schieben]], [[entwischen]], [[bewegen]]
+[[freimachen]], [[aufhalten]], [[schieben]], [[entwischen]], [[bewegen]], [[hinterherschicken]], [[ablösen]], [[lösen]]

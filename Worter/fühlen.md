@@ -3,6 +3,9 @@
 haben [[gefühlt]]
 
 ---
+*Die Nachbarn haben nichts [[raffen|gerafft]]*  
+*Und [[fühlten]] sich gleich angemacht*
+
 ANNA: Ich [[fühl]] mich schlecht
 She [[fühlte]] sich nicht [[wohl]]
 SASCHA: [[Fühl dich wie zu Hause]]. Ich muss mal ins Bad.

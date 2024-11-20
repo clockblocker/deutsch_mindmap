@@ -16,4 +16,4 @@ Morphems:
 
 ---
 #Adverb
-[[Dazu]], [[dabei]]
+[[Dazu]], [[dabei]], [[sparen]]

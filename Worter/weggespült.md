@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[weggespült]], [[weggespülter]], [[weggespülte]], [[weggespültes]], [[weggespülten]], [[weggespültem]], [[weggespülter]], [[weggespülten]]
 [[weggespülterer]], [[weggespültere]], [[weggespülteres]], [[weggespülteren]], [[weggespülterem]], [[weggespülterer]], [[weggespülteren]]
-[[weggespültesten]], [[weggespültester]], [[weggespülteste]], [[weggespültestes]], [[weggespültesten]], [[weggespülstem]], [[weggespültester]], [[weggespültesten]]
+[[weggespültesten]], [[weggespültester]], [[weggespülteste]], [[weggespültestes]], [[weggespültesten]], [[weggespülstem]], [[weggespültester]], [[weggespültesten]], [[s1 e1]]

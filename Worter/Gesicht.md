@@ -21,6 +21,9 @@ MARIA: Eure [[Gesichter]]! Also, seid ihr beide?
 *So die Tränen sieht man nicht*  
 
 
+Ein junger Mann mit einem Pferdeschwanz und einer Narbe im [[Gesicht]] starrt den Lichtstrahl an._
+
+
 ---
 Beispiele:
 - Ihr [[Gesicht]] strahlt vor Freude.
@@ -42,4 +45,4 @@ Morphems:
 ---
 #Substantiv #Neuter
 
-, [[Angesicht]], [[Backen]], [[Gesichtsausdruck]]
+, [[Angesicht]], [[Backen]], [[Gesichtsausdruck]], [[s1 e1]]

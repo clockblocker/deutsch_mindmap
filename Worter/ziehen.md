@@ -13,6 +13,7 @@ haben [[gezogen]]
 + + [[weiter]] = [[weiterziehen]]
 - + [[um]] = [[umziehen]] 
 - + [[an]] = [[anziehen]] 
+- [[verziehen]] - [[ver]] = [[ziehen]]
 - [[hochziehen]] - [[hoch]] = [[ziehen]]
 
 ---

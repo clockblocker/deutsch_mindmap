@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[aufgelöst]], [[aufgelöste]], [[aufgelöstes]], [[aufgelösten]], [[aufgelöstem]], [[aufgelöster]]
 [[aufgelöster]], [[aufgelöstere]], [[aufgelösteres]], [[aufgelösteren]], [[aufgelösterem]], [[aufgelösterer]]
-[[aufgelöstesten]], [[aufgelöstester]], [[aufgelösteste]], [[aufgelöstestes]], [[aufgelöstesten]], [[aufgelöfstem]], [[aufgelöfster]], [[aufgelöfsten]]
+[[aufgelöstesten]], [[aufgelöstester]], [[aufgelösteste]], [[aufgelöstestes]], [[aufgelöstesten]], [[aufgelöfstem]], [[aufgelöfster]], [[aufgelöfsten]], [[auflösen]]

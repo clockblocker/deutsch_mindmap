@@ -1,3 +1,4 @@
 [[Indefinitpronomen]]
 
 [[Je]]de
+, [[Jeder]]

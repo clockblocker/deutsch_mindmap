@@ -10,4 +10,4 @@ Bei  die Arbeit trinke ich Tee
 die Kinder essen [[bei]] Freunden.
 
 Ich [[beim]] [[Frühstück]]
-, [[dabei]], [[Herbei]]
+, [[dabei]], [[Herbei]], [[nebenbei]]

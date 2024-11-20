@@ -1,1 +1,1 @@
-Singular: der [[Schwanz]]
+Singular: der [[Schwanz]], [[schwanz]]

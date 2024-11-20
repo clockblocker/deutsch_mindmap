@@ -79,4 +79,4 @@ Tags:
 
 ---
 Morphems:
-[[richtig]], [[wahr]]
+[[richtig]], [[wahr]], [[s1 e1]]

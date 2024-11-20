@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[verwandt]], [[verwandter]], [[verwandte]], [[verwandtes]], [[verwandten]], [[verwandem]], [[verwandter]], [[verwandten]]
 [[verwandter]], [[verwandterer]], [[verwandtere]], [[verwandteres]], [[verwandeteren]], [[verwandterem]], [[verwandterer]], [[verwanderen]]
-[[verwandtesten]], [[verwandtester]], [[verwandteste]], [[verwandtestes]], [[verwandtesten]], [[verwandtestem]], [[verwandtester]], [[verwandtesten]], [[Verwandte]]
+[[verwandtesten]], [[verwandtester]], [[verwandteste]], [[verwandtestes]], [[verwandtesten]], [[verwandtestem]], [[verwandtester]], [[verwandtesten]], [[Verwandte]], [[s1 e1]]

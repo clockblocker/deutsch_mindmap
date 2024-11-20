@@ -1,9 +1,11 @@
-👀 [[gucken]] + Akk, [ˈɡʊkən]
+👀 [[gucken]] auf den, [ˈɡʊkən]
 [[guckte]]  
 haben [[geguckt]]
 
 ---
-Katara und Sokka [[gucken]] erschrocken nach vorne.
+Katara und Sokka [[gucken]] [[erschrocken]] nach vorne.
+
+Sokka sieht Katara an und [[guckt]] dann auf den Eisberg vor ihnen. 
 
 ---
 Synonyme: [[schauen]], [[sehen]], [[beobachten]], [[betrachten]], [[blicken]]

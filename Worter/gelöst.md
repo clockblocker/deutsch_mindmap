@@ -38,4 +38,4 @@ Tags:
 
 ---
 Morphems:
-[[ge]][[löst]]
+[[ge]][[löst]], [[lösen]]

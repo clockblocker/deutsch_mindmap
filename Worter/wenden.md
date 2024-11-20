@@ -3,7 +3,12 @@
 haben [[gewendet]]
 
 ---
-[[verwenden]]
+([[Wendet]] sich unbeeindruckt seinem Spiel zu)
+
+---
++[[ver]] = [[verwenden]]
++[[zu]] = [[zuwenden]]
+
 
 ---
 Synonyme: [[drehen]], [[umdrehen]], [[umkehren]], [[umstellen]], [[umlenken]], [[umdrehen]], [[drehen]]

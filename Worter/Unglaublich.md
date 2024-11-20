@@ -1,41 +1,31 @@
-[[Unglaublich]]
-[[unglaublicher]]
-[[am]] [[unglaublichsten]]
-
-nicht [[glaubwürdig]]
+[[unglaublich]], [ʊnˈɡlaʊ̯blɪç]
+nicht [[gläubig]], nicht [[wahrscheinlich]]
 
 ---
 SASCHA: Sie hat drei katastrophale Antworten bekommen! [[Unglaublich]]!  
 
----
+Das Licht stammt von einer unglaublich starken Quelle, das muss er sein!
 
-Synonyme:
-- [[unfassbar]], [[unvorstellbar]], [[unerhört]]
 
 ---
-Beispiele:
-
-- Das ist eine [[unglaubliche]] Geschichte.
-- Er hat eine [[unglaubliche]] Leistung vollbracht.
-- Die Aussicht war [[Unglaublich]] schön.
-
-- Das ist eine [[unglaublichere]] Geschichte.
-- Er hat eine [[unglaublichere]] Leistung vollbracht.
-- Die Aussicht war [[unglaublicher]] schön.
-
-- Das ist die [[unglaublichste]] Geschichte.
-- Er hat die [[unglaublichste]] Leistung vollbracht.
-- Die Aussicht war [[am unglaublichsten]].
+Synonyme: [[unfassbar]], [[unvorstellbar]], [[unbegreiflich]], [[erstaunlich]], [[unglaubwürdig]]
+Antonyme: [[glaubhaft]], [[wahrscheinlich]], [[realistisch]], [[gewöhnlich]], [[überzeugend]]
 
 ---
 **Übersetzung**:
-unbelievable, incredible
+incredible, unbelievable
 
 ---
-
-Tags: 
-#Adjective
+#Adjective [[unglaublich]]
 
 ---
-Morphems:
+Morpheme:
 [[un]][[glaub]][[lich]]
+
+---
+
+
+Einzigartige mögliche Formen: 
+[[unglaublich]], [[unglaubliche]], [[unglaubliches]], [[unglaublichen]], [[unglaublicher]], [[unglaublichem]], [[unglaublicher]], [[unglaublichen]]
+[[unglaublicher]], [[unglaublicherer]], [[unglaublichere]], [[unglaublicheres]], [[unglaublicheren]], [[unglaublicherem]], [[unglaublicherer]], [[unglaublicheren]]
+[[unglaublichsten]], [[unglaublichster]], [[unglaublichste]], [[unglaublichstes]], [[unglaublichsten]], [[unglaublichstem]], [[unglaublichster]], [[unglaublichsten]]

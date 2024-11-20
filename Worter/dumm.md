@@ -37,4 +37,4 @@ Tags:
 
 ---
 Morphems:
-[[dumm]]
+[[dumm]], [[schlauen]]

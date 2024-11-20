@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lagers]], [[Lagern]], [[Lägern]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neutrum, [[s1 e1]]

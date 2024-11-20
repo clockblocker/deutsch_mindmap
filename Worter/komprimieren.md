@@ -1,1 +1,1 @@
-, [[ballen]]
+, [[ballen]], [[verkürzen]], [[kürzen]]

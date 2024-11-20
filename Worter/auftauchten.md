@@ -31,3 +31,4 @@ Morpheme: [[auf]][[tauch]][[en]]
 Partizip I: [[auftauchend]], Partizip II: [[aufgetaucht]]
 
 [[auftauchen]] - [[auf]] = [[tauchen]]
+, [[s1 e1]]

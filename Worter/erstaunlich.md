@@ -25,4 +25,4 @@ Einzigartige mögliche Formen:
 [[erstaunlich]], [[erstaunliche]], [[erstaunliches]], [[erstaunlichen]], [[erstaunlichem]], [[erstaunlicher]], [[erstaunlichen]]
 [[erstaunlicher]], [[erstaunlicherer]], [[erstaunlichere]], [[erstaunlicheres]], [[erstaunlicheren]], [[erstaunlicherem]], [[erstaunlicherer]], [[erstaunlicheren]]
 [[erstaunlichsten]], [[erstaunlichster]], [[erstaunlichste]], [[erstaunlichstes]], [[erstaunlichsten]], [[erstaunlichstem]], [[erstaunlichster]], [[erstaunlichsten]]
-'''
+''', [[Unglaublich]]

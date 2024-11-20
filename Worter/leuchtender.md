@@ -29,4 +29,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[leuchtender]], [[leuchtendere]], [[leuchtendes]], [[leuchtenden]], [[leuchtendem]], [[leuchtenderer]], [[leuchtenderen]], [[leuchtendes]], [[leuchtendem]], [[leuchtenderer]]
 [[leuchtendstes]], [[leuchtenster]], [[leuchtendste]], [[leuchtendstes]], [[leuchtendsten]], [[leuchtendstem]], [[leuchtenster]], [[leuchtendsten]]
-'''
+''', [[s1 e1]]

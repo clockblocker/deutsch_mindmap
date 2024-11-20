@@ -18,4 +18,4 @@ Morpheme:
 
 ---
 #Adverb [[dorthin]]
-'''
+''', [[s1 e1]]

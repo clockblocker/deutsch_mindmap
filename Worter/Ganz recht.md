@@ -1,1 +1,1 @@
-[[Ganz]] [[recht]] _Sokka tippt sie mit dem Ellenbogen an_ Meinen herzlichen Glückwunsch!
+[[Ganz]] [[recht]] _Sokka tippt sie mit dem Ellenbogen an_ Meinen herzlichen Glückwunsch!, [[s1 e1]]

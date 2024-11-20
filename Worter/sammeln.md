@@ -1,1 +1,1 @@
-, [[wegwerfen]], [[gießen]], [[schleudern]]
+, [[wegwerfen]], [[gießen]], [[schleudern]], [[ausbreiten]], [[verschwenden]], [[schwenden]], [[verschicken]]

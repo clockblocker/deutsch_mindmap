@@ -2,6 +2,8 @@ Was ist [[eigentlich]] los hier?
 
 SASCHA: Für wen hält sich die [[eigentlich]]?  
 
+Na, endlich! _Dreht sich um_ Onkel, wisst Ihr [[eigentlich]] was das bedeutet?
+
 ---
 
 Synonyme:
@@ -26,4 +28,4 @@ Tags:
 ---
 
 Morphems:
-[[eigent]][[lich]], [[Extra 8]], [[erst]], [[bald]]
+[[eigent]][[lich]], [[Extra 8]], [[erst]], [[bald]], [[s1 e1]]

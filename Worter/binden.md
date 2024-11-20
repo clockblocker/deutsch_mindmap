@@ -1,1 +1,1 @@
-[[freimachen]], [[heiraten]], [[trauen]], [[hängen]], [[ledigen]]
+[[freimachen]], [[heiraten]], [[trauen]], [[hängen]], [[ledigen]], [[auflösen]]

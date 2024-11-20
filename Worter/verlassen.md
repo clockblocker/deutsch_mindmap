@@ -2,8 +2,9 @@
 [[verließ]], [[hat verlassen]]
 
 ---
-- Ich will dich nie [[verlassen]] (du weinst, du weinst, du weinst, du weinst)  
-- 
+*Ich will dich nie [[verlassen]] (du weinst, du weinst, du weinst, du weinst)*  
+
+Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den Fahrstuhl
 
 ---
 Synonyme: [[aufgeben]], [[zurücklassen]], [[loslassen]], [[abhauen]], [[weggehen]],[[scheiden]]
@@ -30,4 +31,4 @@ Morpheme: [[ver]][[lass]][[en]]
 
 Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 
-[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]]
+[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]]

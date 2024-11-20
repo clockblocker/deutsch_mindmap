@@ -1,1 +1,1 @@
-[[scheiden]][[trennen]][[vermischen]][[teilen]], [[gesellen]]
+[[scheiden]][[trennen]][[vermischen]][[teilen]], [[gesellen]], [[auflösen]]

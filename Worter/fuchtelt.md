@@ -32,4 +32,4 @@ Morpheme: [[fuchtel]][[n]]
 Partizip I: [[fuchtelnde]], Partizip II: [[gefuchtelt]]
 
 [[fuchteln]] - [[n]] = [[fuchtel]]
-'''
+''', [[s1 e1]]

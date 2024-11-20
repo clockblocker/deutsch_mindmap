@@ -5,9 +5,9 @@
 - Aber Sascha mag Nic [[überhaupt]] nicht.
 Nein! Aang hat überhaupt nichts gemacht. Das war ein [[Unfall]]!
 
-Aang hat [[überhaupt]] nichts gemacht. Das war ein Unfall!
-
 Er kennt Berlin [[überhaupt]] noch nicht. 
+
+„Ich habe [[überhaupt]] keine Zeit!“ oder „Ich bin total im Stress!“
 
 ---
 Synonyme: [[grundsätzlich]], [[generell]], [[im Allgemeinen]], [[insgesamt]], [[vollkommen]]

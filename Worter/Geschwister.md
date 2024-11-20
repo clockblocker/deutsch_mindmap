@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Geschwister]], [[Geschwistern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[s1 e1]]

@@ -1,1 +1,1 @@
-, [[leuchtender]]
+, [[leuchtender]], [[leuchtenden]]

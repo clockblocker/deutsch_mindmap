@@ -1,1 +1,1 @@
-, [[breit]], [[locker]], [[weit]], [[schmale]]
+, [[breit]], [[locker]], [[weit]], [[schmale]], [[nah]]

@@ -1,7 +1,9 @@
 🔗 während, [ˈveːʀʌnt]
 
 ---
-[[während]] (during) der Spleilz esse ich.
+[[während]] (during) der Spleilzs esse ich.
+
+Wie oft haben Sie schon auf den Fahrstuhl gewartet und [[während]] des Wartens ungefähr siebenmal auf den Fahrstuhlknopf gedrückt?
 
 [[Während]] ich arbeite.
 [[Während]] der Arbeit = [[Bei]] der Arbiet 
@@ -21,4 +23,4 @@ Morpheme:
 [[während]]
 
 ---
-#Präposition
+#Präposition, [[s1 e1]], [[warten]]

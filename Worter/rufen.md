@@ -6,6 +6,11 @@ haben [[gerufen]]
 *Er tunkt sie in die Tinte tief,*  
 *wie auch der Kaspar »Feuer« [[rief]].*  
 
+*Hielten sich für schlaue Leute*  
+*Witterten schon fette Beute*  
+*[[Riefen]]: „Krieg!“, und wollten Macht*  
+*Mann, wer hätte das gedacht?
+
 ---
 Synonyme: [[ausrufen]], [[schreien]], [[brüllen]], [[bellen]], [[verkünden]], [[herbeirufen]]
 Antonyme: [[schweigen]], [[flüstern]], [[murmeln]], [[verstummen]]

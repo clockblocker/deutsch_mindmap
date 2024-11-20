@@ -18,3 +18,4 @@ barely, hardly, scarcely
 ---
 Morpheme:
 [[Kaum]]
+, [[s1 e1]]

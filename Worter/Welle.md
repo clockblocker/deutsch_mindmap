@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Welle]], [[Wellen]], [[Welle]], [[Welle]], [[Welle]], [[Welle]], [[Welle]], [[Wellen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[s1 e1]]

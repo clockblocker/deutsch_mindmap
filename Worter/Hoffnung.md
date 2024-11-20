@@ -3,7 +3,10 @@ die [[Hoffnungen]]
 
 
 ---
-Aber ich habe die Hoffnung nicht aufgegeben. Ich glaube daran, dass der Avatar irgendwann zurückkehrt und die Welt rettet.
+Aber ich habe die [[Hoffnung]] nicht aufgegeben. Ich glaube daran, dass der Avatar irgendwann zurückkehrt und die Welt rettet.
+
+Ich möchte nicht, dass Ihr Euch vergebens [[Hoffnungen]] macht. 
+
 
 ---
 Synonyme:

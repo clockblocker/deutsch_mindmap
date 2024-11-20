@@ -32,4 +32,4 @@ Morpheme: [[schenk]][[en]]
 
 Partizip I: [[schenkend]], Partizip II: [[geschenkt]]
 
-[[schenken]] - [[en]] = [[schenk]]
+[[schenken]] - [[en]] = [[schenk]], [[rauben]]

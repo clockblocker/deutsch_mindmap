@@ -20,3 +20,4 @@ Einzigartige mögliche Formen: [[Erbsenhirns]], [[Erbsenhirne]], [[Erbsenhirnen]
 
 ---
 #Substantiv #Neutrum #Kompositum
+, [[s1 e1]]

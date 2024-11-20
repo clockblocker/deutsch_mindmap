@@ -1,19 +1,29 @@
+👥 [[jeder]], [ˈjeːdɐ]
+
+---
 Schokolade so seidig, da schmilzt das Herz [[Jeder]] schönen Frau
 
-• [[Alle]]
-• [[Jeder Einzelne]]
-• [[Sämtliche]]
-  
-
-Beispiele:
-
-Wir gehen einkaufen ich, du und du gehen für Sam. [[Jeder]] kauft etwas. Ich kaufe die Schuhe.
+*99 [[Düsenflieger]]*  
+*[[Jeder]] war ein großer Krieger*  
 
 
-**Übersetzung**: everyone, each
+---
+Synonyme: [[alle]], [[sämtliche]], [[beliebig]]
+Antonyme: [[keiner]], [[niemand]]
 
+---
+**Übersetzung**:
+each, every, everyone
 
-Tags:
+---
 #Pronomen
 
-[[Indefinitpronomen]]
+---
+Mögliche Formen:
+- Maskulin: [[jeder]], [[jeden]], [[jedem]]
+- Feminin: [[jede]], [[jeder]], [[jeder]]
+- Neutrum: [[jedes]], [[jedem]], [[jedes]]
+- Plural: [[jeder]], [[jeden]], [[jedem]]
+
+---
+

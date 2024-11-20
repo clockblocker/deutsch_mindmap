@@ -30,3 +30,4 @@ Morpheme: [[schweb]][[en]]
 
 Partizip I: [[schwebend]], Partizip II: [[geschwebt]]
 
+, [[s1 e1]]

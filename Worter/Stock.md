@@ -1,8 +1,10 @@
 **der [[Stock]]**
 **die [[Stock]]**
 
-Beispiele:
-- [[erste]] [[Stock]]
+---
+[[erste]] [[Stock]]
+
+Warum haben Sie nicht [[einfach]] die Treppe genommen und sind in den zweiten Stock gelaufen?
 
 ---
 

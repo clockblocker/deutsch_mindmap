@@ -1,9 +1,12 @@
- [[glauben]]
- [[glaubte]]
- [[geglaubt]]
+🗣️ [[glauben]], [ˈɡlaʊ̯bn̩]
+[[glaubte]]
+haben [[geglaubt]]
 
 ---
-Beispiele:
+Aber ich habe die Hoffnung nicht aufgegeben. Ich [[glaube]] daran, dass der Avatar irgendwann zurückkehrt und die Welt rettet.
+
+, [[Unglaublich]]
+
 - NIC: Nein, ich [[glaube]] du meinst einen Schal für meinen Hals.
 - Ich [[glaube]] nicht
 -  Ich [[glaube]], er arbeitet in einem Museum.
@@ -13,57 +16,28 @@ Beispiele:
 
 Viele [[glauben]], dass der Avatar nicht wiedergeboren wurde und dass der Kreislauf für immer unterbrochen ist.
 
----
-
-|     |             |
-| --- | ----------- |
-| ich | [[glaube]]  |
-| du  | [[glaubst]] |
-| er  | [[glaubt]]  |
-| sie | [[glaubt]]  |
-| es  | [[glaubt]]  |
-| wir | [[glauben]] |
-| ihr | [[glaubt]]  |
-| sie | [[glauben]] |
-| Sie | [[glauben]] |
 
 ---
-**Übersetzung**:
-to believe
+Synonyme: [[denken]], [[vermuten]], [[annehmen]], [[meinen]], [[überzeugt sein]]
+Antonyme: [[zweifeln]], [[bezweifeln]], [[ungläubig sein]]
+
+---
+Übersetzung: to believe
+
+---
+Morpheme: [[glaub]][[en]]
+ #Verb  #Untrennbar
 
 ---
 
-Tags: 
-#Verb
-#Schwache
-#Inf 
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[glaube]]           | [[glaubte]]           | -                 | [[glaube]]             | [[glaubte]]             |
+| Du        | [[glaubst]]          | [[glaubtest]]         | [[glaub]]         | [[glaubest]]           | [[glaubtest]]           |
+| Er/sie/es | [[glaubt]]           | [[glaubte]]           | -                 | [[glaube]]             | [[glaubte]]             |
+| Wir       | [[glauben]]          | [[glaubten]]          | -                 | [[glauben]]            | [[glaubten]]            |
+| Ihr       | [[glaubt]]           | [[glaubtet]]          | [[glaubt]]        | [[glaubet]]            | [[glaubtet]]            |
+| Sie       | [[glauben]]          | [[glaubten]]          | [[glauben Sie]]   | [[glauben]]            | [[glaubten]]            |
 
----
-Präteritum
-Ich [[glaubte]]
-du [[glaubtest]]
-er [[glaubte]]
-es [[glaubte]]
-sie [[glaubte]]
-wir [[glaubten]]
-ihr [[glaubtet]]
-Sie [[glaubten]]
+Partizip I: [[glaubend]], Partizip II: [[geglaubt]]
 
----
-
-Perfekt
-Ich habe [[geglaubt]]
-du hast [[geglaubt]]
-er hat [[geglaubt]]
-es hat [[geglaubt]]
-sie hat [[geglaubt]]
-wir haben [[geglaubt]]
-ihr habt [[geglaubt]]
-Sie haben [[geglaubt]]
-
----
-
-Imperativ
-du [[glaube]]
-ihr [[glaubt]]
-Sie [[glauben]], [[meinen]], [[vertrauen]], [[s1 e1]]

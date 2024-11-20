@@ -12,6 +12,7 @@ NIC: Ach, danke, Sascha - die habe ich [[gerade]] [[gesucht]]!
 
 Übrigens - das Regal ist nicht [[gerade]]!  
 
+Und sie stören die Konzentration auf die Tätigkeit, die wir [[gerade]] ausüben.-
 
 ---
 Synonyme: [[direkt]], [[genau]], [[eben]], [[unmittelbar]], [[soeben]]

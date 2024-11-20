@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Keulen]], [[Keulenend]], [[Keulenartig]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[s1 e1]]

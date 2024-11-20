@@ -1,1 +1,1 @@
-, [[brutzeln]]
+, [[brutzeln]], [[beruhigen]]

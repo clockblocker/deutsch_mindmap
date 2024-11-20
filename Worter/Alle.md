@@ -34,4 +34,4 @@ Einzigartige mögliche Formen:
 [[alle]], [[aller]], [[alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
 [[alle]], [[aller]], [[alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
 [[alle]], [[aller]], [[alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
-'''
+''', [[Jeder]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "847255bf8de773dc",
+        "id": "7c2796995d8cdd0b",
         "type": "tabs",
         "children": [
           {
-            "id": "e02acca757f84513",
+            "id": "62259c498ca8af08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,118 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "s1 e1"
-            }
-          },
-          {
-            "id": "88f7d67b0a236a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/jaulen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "jaulen"
-            }
-          },
-          {
-            "id": "64aaeb50f66a4d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/jaulen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "jaulen"
-            }
-          },
-          {
-            "id": "3da9e69b4f6db1a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/verwundern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "verwundern"
-            }
-          },
-          {
-            "id": "a4992e335383aa77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/hauen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hauen"
-            }
-          },
-          {
-            "id": "ae0f7a0708ded5a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/einschlagen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "einschlagen"
-            }
-          },
-          {
-            "id": "b08cd23fa025898f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Vergnügen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vergnügen"
-            }
-          },
-          {
-            "id": "1918cf4b0ac601d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/peinlich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "peinlich"
-            }
-          },
-          {
-            "id": "4b86deb051ca7529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/unreifste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "unreifste"
             }
           }
         ]
@@ -281,34 +169,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e02acca757f84513",
+  "active": "62259c498ca8af08",
   "lastOpenFiles": [
-    "Worter/jaulen.md",
+    "Worter/rettet.md",
+    "Worter/retten.md",
     "Texte/Avatar/s1 e1.md",
-    "Worter/gejault.md",
-    "Worter/jaulend.md",
-    "Worter/jaulen Sie.md",
-    "Worter/jaulet.md",
-    "Worter/jaultet.md",
-    "Worter/jaulten.md",
-    "Worter/jault.md",
-    "Worter/jaulest.md",
-    "Worter/jaultest.md",
-    "Worter/jaulst.md",
-    "Worter/jaule.md",
-    "Worter/jaul.md",
-    "Worter/miauen.md",
-    "Worter/quieken.md",
-    "Worter/winseln.md",
-    "Worter/hat gejault.md",
-    "Worter/jaulte.md",
+    "Worter/zurückkehrt.md",
+    "Worter/zurückkehren.md",
+    "Worter/Frieden.md",
+    "Worter/Kreislauf.md",
+    "Worter/sorgte.md",
+    "Worter/Sorgen.md",
+    "Worter/Friedens.md",
+    "Worter/gezeigt.md",
+    "Worter/zeigen.md",
+    "Worter/wechseln.md",
+    "Worter/wechselt.md",
+    "Worter/erheben.md",
+    "Worter/erhebt.md",
     "Worter/heben.md",
-    "Worter/verwundert.md",
-    "Worter/verwundern.md",
-    "Worter/wundern.md",
-    "Worter/sich gewundert.md",
-    "Worter/sich wundernd.md",
-    "Worter/wundern Sie sich.md",
+    "Worter/losfahren.md",
+    "Worter/losfährt.md",
+    "Worter/Gespräch.md",
+    "Worter/führen.md",
+    "Worter/Klatsch.md",
+    "Worter/Fehler.md",
+    "Worter/verkürzen.md",
+    "Worter/Führer.md",
+    "Worter/Raub.md",
+    "Texte/b1",
     "Anhänge/Pasted image 20241112104051.png",
     "Texte/Avatar",
     "Texte/Gedichte/Misc",
@@ -328,7 +217,6 @@
     "Lektionen/Phonetik/Material",
     "Lektionen/Phonetik",
     "Texte/Gedichte/Pop",
-    "Texte/Gedichte/Folk",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

@@ -1,8 +1,10 @@
-⏳ [[warten]]  
-[[wartete]]  
+🕰️ [[warten]] auf den, [ˈvartən] | das Warten | 
+[[wartete]]
 haben [[gewartet]]
 
 ---
+Wie oft haben Sie schon auf den Fahrstuhl gewartet und [[während]] des Wartens ungefähr siebenmal auf den Fahrstuhlknopf gedrückt?
+
 Ich [[warte]] auf die Post.
 Ich [[warte]] nur noch auf die Antwort!  
 ANNA: [[warte]] mal. Hier! Das ist gut!  
@@ -14,62 +16,59 @@ Alle [[warten]] auf das Licht
 *Bis die Sonne untergeht*
 
 
+---
+Synonyme: [[abwarten]], [[erwarten]], [[zuwarten]], [[verweilen]], [[ausharren]]
+Antonyme: [[eilen]], [[vorwärtskommen]], [[handeln]]
+
+---
+Übersetzung: to wait, to wait for
+
+---
+Morpheme: [[wart]][[en]]
+ #Verb #Untrennbar
 
 ---
 
-**Synonyme:**
+| Person    | Präsens   | Präteritum | Imperativ      | Konjunktiv I | Konjunktiv II |
+| --------- | --------- | ---------- | -------------- | ------------ | ------------- |
+| Ich       | [[warte]] | [[wartete]]| -              | [[warte]]    | [[wartete]]   |
+| Du        | [[wartest]]| [[wartetest]]| [[warte]]     | [[wartest]] | [[wartetest]] |
+| Er/sie/es | [[wartet]]| [[wartete]]| -              | [[warte]]    | [[wartete]]   |
+| Wir       | [[warten]]| [[warteten]]| -              | [[warten]]  | [[warteten]]  |
+| Ihr       | [[wartet]]| [[wartetet]]| [[wartet]]     | [[wartet]]  | [[wartetet]]  |
+| Sie       | [[warten]]| [[warteten]]| [[warten Sie]] | [[warten]]  | [[warteten]]  |
 
-- [[abwarten]], [[verweilen]], [[zuwarten]]
+Partizip I: [[wartend]], Partizip II: [[gewartet]]
+
+
+---
+🟢 das [[warten]], [ˈvartən]
+die [[Wartens]]
 
 ---
 
-**Beispiele:**
-
-- Ich [[warte]] auf den Bus.
-- Du [[wartest]] auf deinen Freund.
-- Er [[wartet]] auf eine Antwort.
-- Es [[wartet]] geduldig.
-- Sie [[wartet]] auf die Ergebnisse.
-- Wir [[warten]] zusammen.
-- Ihr [[wartet]] auf das Essen.
-- Sie [[warten]] auf den nächsten Zug.
+Bedeutung: act of waiting, waiting
 
 ---
 
-**Übersetzung**:
-to wait
+Synonyme:
+- [[Erwartung]], [[Zögern]], [[Verzögerung]]
 
 ---
- #Verb
+Übersetzung: waiting
 
 ---
-
-**Präteritum:**
-
-- Ich [[wartete]] auf den Bus.
-- Du [[wartetest]] auf deinen Freund.
-- Er [[wartete]] auf eine Antwort.
-- Es [[wartete]] geduldig.
-- Sie [[wartete]] auf die Ergebnisse.
-- Wir [[warteten]] zusammen.
-- Ihr [[wartetet]] auf das Essen.
-- Sie [[warteten]] auf den nächsten Zug.
+Morpheme:
+[[wart]][[en]]
 
 ---
-
-**Imperativ:**
-
-- Ich [[warte]] hier.
-- Du [[warte]] hier.
-- Er [[warte]] hier.
-- Es [[wartet]] hier.
-- Sie [[warte]] hier.
-- Wir [[warten]] hier.
-- Ihr [[wartet]] hier.
-- Sie [[warten]] hier.
+Einzigartige mögliche Formen: [[Wartens]], [[warten]]
 
 ---
+#Substantiv #Neutrum #Verbal-Noun
 
-**Morphems of only infinitive:**  
-- [[wart]][[en]]
-
+---
+Zusätzliche Informationen:
+- Abgeleitet vom Verb [[warten]]
+- Bezeichnet den Vorgang oder Zustand des Wartens
+- Infinitiv als Substantivierung

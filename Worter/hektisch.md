@@ -1,1 +1,1 @@
-[[ruhig]], [[geduldig]]
+[[ruhig]], [[geduldig]], [[beruhig]]

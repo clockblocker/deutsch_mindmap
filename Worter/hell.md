@@ -29,4 +29,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[hell]], [[heller]], [[helle]], [[helles]], [[hellen]], [[hellem]], [[heller]], [[hellen]]
 [[heller]], [[hellerer]], [[hellere]], [[helleres]], [[helleren]], [[hellerem]], [[hellerer]], [[helleren]]
-[[hellsten]], [[hellster]], [[hellste]], [[hellstes]], [[hellsten]], [[hellstem]], [[hellster]], [[hellsten]], [[dunkle]], [[hellblau]], [[leuchtender]]
+[[hellsten]], [[hellster]], [[hellste]], [[hellstes]], [[hellsten]], [[hellstem]], [[hellster]], [[hellsten]], [[dunkle]], [[hellblau]], [[leuchtender]], [[leuchtenden]]

@@ -5,7 +5,8 @@ haben [[gestört]]
 ---
 - *(Ich will) Ich will die Ruhe [[stören]]*  
 - SASCHA: [[Störe]] ich?  
--
+
+Und sie [[stören]] die Konzentration auf die Tätigkeit, die wir gerade ausüben.-
 
 ---
 Synonyme: [[belästigen]], [[beunruhigen]], [[beeinträchtigen]], [[unterbrechen]], [[irritieren]]

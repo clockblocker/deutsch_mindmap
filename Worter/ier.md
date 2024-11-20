@@ -1,1 +1,1 @@
-[[kontrollieren]], [[sortieren]], [[recherchieren]]
+[[kontrollieren]], [[sortieren]], [[recherchieren]], [[telefonieren]], [[passieren]]

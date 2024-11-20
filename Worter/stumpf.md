@@ -1,1 +1,1 @@
-, [[Spitze]], [[scharfen]]
+, [[Spitze]], [[scharfen]], [[leuchtenden]]

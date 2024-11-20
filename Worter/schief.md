@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[schief]], [[schiefer]], [[schiefe]], [[schiefes]], [[schiefen]], [[schiefem]], [[schiefer]], [[schiefen]]
 [[schiefer]], [[schiefer-er]], [[schiefer-e]], [[schiefer-es]], [[schiefer-en]], [[schiefer-em]], [[schiefer-er]], [[schiefer-en]]
-[[schiefsten]], [[schiefster]], [[schiefste]], [[schiefestes]], [[schiefsten]], [[schiefestem]], [[schiefster]], [[schiefsten]]
+[[schiefsten]], [[schiefster]], [[schiefste]], [[schiefestes]], [[schiefsten]], [[schiefestem]], [[schiefster]], [[schiefsten]], [[s1 e1]]

@@ -1,1 +1,1 @@
-, [[fest]], [[steif]]
+, [[fest]], [[steif]], [[wendig]]

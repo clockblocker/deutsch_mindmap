@@ -1,1 +1,1 @@
-, [[schmerzend]], [[leuchtender]]
+, [[schmerzend]], [[leuchtender]], [[beruhigenden]], [[leuchtenden]], [[anwesend]]

@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ruhe]], [[Ruhen]]
 
 ---
-#Substantiv #Feminin, [[Ruh]], [[leis]], [[Frieden]]
+#Substantiv #Feminin, [[Ruh]], [[leis]], [[Frieden]], [[ruhig]], [[Tätigkeit]]

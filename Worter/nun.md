@@ -29,3 +29,4 @@ Morphems:
 [[nun]]
 
 
+, [[s1 e1]]

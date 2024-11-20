@@ -1,1 +1,1 @@
-das Antonym
+das Antonym, [[fern]], [[nah]]

@@ -3,6 +3,13 @@
 haben [[gehalten]]
 
 ---
+*[[Hielt]] man für Ufos aus dem All*
+*Darum schickte ein General*  
+
+*Jeder war ein großer Krieger*  
+*[[Hielten]] [[sich]] für Captain Kirk*  
+*Es gab ein großes Feuerwerk*  
+
 *Er schrie: »Wer hat mich da verbrannt?«*  
 *und [[hielt]] den Löffel in der Hand.*
 
@@ -88,4 +95,4 @@ Konjunktiv II:
 - Wenn er es wüsste, [[hielte]] er sein Versprechen.
 - Wenn wir die Zeit hätten, [[hielten]] wir das Treffen.
 - Wenn ihr geduldiger wäret, [[hieltet]] ihr durch.
-- Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]], [[fassen]], [[aushalten]], [[aufhalten]], [[mithalten]], [[schieben]]
+- Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]], [[fassen]], [[aushalten]], [[aufhalten]], [[mithalten]], [[schieben]], [[s1 e1]]

@@ -1,1 +1,1 @@
-, [[deuten]]
+, [[deuten]], [[ausbreiten]]

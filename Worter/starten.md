@@ -1,1 +1,1 @@
-, [[anfangen]], [[landen]]
+, [[anfangen]], [[landen]], [[anmachen]], [[losfahren]]

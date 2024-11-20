@@ -1,1 +1,1 @@
-, [[eben]], [[gerade]]
+, [[eben]], [[gerade]], [[fern]]

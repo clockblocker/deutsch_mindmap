@@ -1,1 +1,1 @@
-, [[aufhalten]], [[unterbrechen]]
+, [[aufhalten]], [[unterbrechen]], [[anmachen]], [[losfahren]]

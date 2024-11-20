@@ -1,1 +1,1 @@
-, [[einbauen]]
+, [[einbauen]], [[kürzen]]

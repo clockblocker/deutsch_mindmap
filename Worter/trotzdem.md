@@ -1,1 +1,1 @@
-, [[deshalb]], [[bald]]
+, [[deshalb]], [[bald]], [[obwohl]]

@@ -3,9 +3,12 @@
 haben [[gedrückt]]
 
 ---
-- Und [[drücken]] sie in meine kalten [[Venen]]
-- 
+Und [[drücken]] sie in meine kalten [[Venen]]
 
+Wie oft haben Sie schon auf den Fahrstuhl gewartet und während des Wartens ungefähr siebenmal auf den Fahrstuhlknopf [[gedrückt]]?
+
+ jeder [[drückt]] eine andere Etage und kurz bevor der Fahrstuhl losfährt,
+ 
 ---
 Synonyme: [[pressen]], [[drängen]], [[quetschen]], [[zusammendrücken]], [[knautschen]], [[quälen]]
 Antonyme: [[loslassen]], [[freigeben]], [[öffnen]]

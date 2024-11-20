@@ -1,1 +1,1 @@
-, [[reißen]], [[beißen]]
+, [[reißen]], [[beißen]], [[abmachen]]

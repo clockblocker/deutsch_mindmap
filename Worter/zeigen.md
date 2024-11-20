@@ -1,6 +1,7 @@
-👆 [[zeigen]]  
-[[zeigte]]  
+👉 [[zeigen]] + Akk, [ˈtsaɪ̯ɡn̩]
+[[zeigte]]
 haben [[gezeigt]]
+
 
 ---
 ANNA: Hey Sam, komm … Wir [[zeigen]] dir die Wohnung.
@@ -9,60 +10,32 @@ Ich [[zeig]] es dir!
 
 Ja – ich [[zeige]] dir, wie man als Fernsehreporter arbeitet.  
 
----
+[[Gezeigt]] wird das Intro der ersten Folge Wasser, Erde, Feuer Luft.
 
-**Synonyme:**
-
-- [[demonstrieren]], [[präsentieren]], [[veranschaulichen]]
 
 ---
+Synonyme: [[demonstrieren]], [[präsentieren]], [[vorführen]], [[aufzeigen]], [[darstellen]]
+Antonyme: [[verbergen]], [[verstecken]], [[verschweigen]], [[verdunkeln]]
 
-**Beispiele:**
+---
+Übersetzung: to show, to point out
 
-- Ich [[zeige]] dir den Weg.
-- Du [[zeigst]] mir dein neues Buch.
-- Er [[zeigt]] uns seine Fotos.
-- Es [[zeigt]] auf die Karte.
-- Sie [[zeigt]] ihre Zeichnungen.
-- Wir [[zeigen]] euch unsere Wohnung.
-- Ihr [[zeigt]] ihnen den Plan.
-- Sie [[zeigen]] uns ihre Fähigkeiten.
+---
+Morpheme: [[zeig]][[en]]
+ #Verb  #Untrennbar
+ 
 
 ---
 
-**Übersetzung**:
-to show, to demonstrate
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[zeige]]            | [[zeigte]]            | -                 | [[zeige]]              | [[zeigte]]              |
+| Du        | [[zeigst]]           | [[zeigtest]]          | [[zeige]]         | [[zeigest]]            | [[zeigtest]]            |
+| Er/sie/es | [[zeigt]]            | [[zeigte]]            | -                 | [[zeige]]              | [[zeigte]]              |
+| Wir       | [[zeigen]]           | [[zeigten]]           | -                 | [[zeigen]]             | [[zeigten]]             |
+| Ihr       | [[zeigt]]            | [[zeigtet]]           | [[zeigt]]         | [[zeiget]]             | [[zeigtet]]             |
+| Sie       | [[zeigen]]           | [[zeigten]]           | [[zeigen Sie]]    | [[zeigen]]             | [[zeigten]]             |
 
----
- #Verb
-
----
-
-**Präteritum:**
-
-- Ich [[zeigte]] dir den Weg.
-- Du [[zeigtest]] mir dein neues Buch.
-- Er [[zeigte]] uns seine Fotos.
-- Es [[zeigte]] auf die Karte.
-- Sie [[zeigte]] ihre Zeichnungen.
-- Wir [[zeigten]] euch unsere Wohnung.
-- Ihr [[zeigtet]] ihnen den Plan.
-- Sie [[zeigten]] uns ihre Fähigkeiten.
-
----
-
-**Imperativ:**
-
-- Ich [[zeige]] dir das.
-- Du [[zeig]] mir das.
-- Er [[zeige]] das.
-- Es [[zeigt]] das.
-- Sie [[zeige]] das.
-- Wir [[zeigen]] das.
-- Ihr [[zeigt]] das.
-- Sie [[zeigen]] das.
-
----
-
-**Morphems of only infinitive:**  
-- [[zeig]][[en]], [[wegzaubern]]
+Partizip I: [[zeigend]], Partizip II: [[gezeigt]]
+[[zeigen]] - [[zeig]] = [[en]]
+'''

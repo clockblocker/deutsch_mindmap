@@ -1,2 +1,2 @@
 Singular: der [[Kopf]]
-, [[Krug]]
+, [[Krug]], [[s1 e1]]

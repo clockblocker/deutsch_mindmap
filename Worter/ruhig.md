@@ -2,7 +2,11 @@ ruhig, [ˈʀuːɪ̯ç]
 nicht [[unruhig]]
 
 ---
-SASCHA: Aber ich weiß, wie ich [[ruhig]] bleiben kann  
+SASCHA: Aber ich weiß, wie ich [[ruhig]] bleiben kann 
+(Ich will) Ich will die [[Ruhe]] stören  
+
+---
+[[beruhigen]] - [[be]] = [[ruhig]]
 
 ---
 Synonyme: [[friedlich]], [[gelassen]], [[harmonisch]], [[still]], [[entspannt]]
@@ -28,4 +32,4 @@ Einzigartige mögliche Formen:
 [[ruhigsten]], [[ruhigster]], [[ruhigste]], [[ruhigstes]], [[ruhigsten]], [[ruhigstem]], [[ruhigster]], [[ruhigsten]]
 
 [[windig]], [[nervös]]
-, [[lichterloh]], [[leis]], [[Flüsternd]]
+, [[lichterloh]], [[leis]], [[Flüsternd]], [[unbeeindruckt]], [[beruhig]], [[beruhigen]], [[beruhigenden]]

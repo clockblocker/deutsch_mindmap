@@ -31,4 +31,4 @@ Morpheme: [[ver]][[sink]][[en]]
 Partizip I: [[versinkend]], Partizip II: [[versunken]]
 
 [[versinken]] - [[ver]] = [[sinken]]
-'''
+''', [[s1 e1]]

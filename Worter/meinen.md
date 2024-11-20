@@ -5,6 +5,7 @@ haben [[gemeint]]
 ---
 ANNA: Ah … Sam … [[meinst]] du, das ist richtig so?  
 
+Psychologen [[meinen]], dass 60 Prozent aller Gespräche von Menschen handeln, die nicht anwesend sind. 
 
 ---
 Synonyme: [[denken]], [[glauben]], [[vermuten]], [[erachten]], [[annehmen]]. [[bedeuten]]
@@ -29,4 +30,4 @@ Morpheme: [[mein]][[en]]
 | Sie       | [[meinen]]           | [[meinten]]           | [[meinen Sie]]    | [[meinen]]             | [[meinten]]             |
 
 Partizip I: [[meinend]], Partizip II: [[gemeint]]
-[[meinen]] - [[mein]] = [[en]]
+[[meinen]] - [[mein]] = [[en]], [[glaub]]

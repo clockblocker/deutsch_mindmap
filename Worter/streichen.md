@@ -1,1 +1,1 @@
-, [[anreißen]], [[tippen]]
+, [[anreißen]], [[tippen]], [[Streichholz]]

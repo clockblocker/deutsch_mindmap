@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er konzentrierter wäre, [[riete]] er schneller.
 - Wenn wir aufmerksamer wären, [[rieten]] wir besser.
 - Wenn ihr raten müsstet, [[rietet]] ihr richtig.
-- Wenn sie raten würden, [[rieten]] sie richtig.
+- Wenn sie raten würden, [[rieten]] sie richtig., [[rechnen]]

@@ -1,2 +1,2 @@
 Singular: die [[Sache]]
-, [[Kram]]
+, [[Kram]], [[s1 e1]]

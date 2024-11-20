@@ -3,6 +3,9 @@
 haben [[gedacht]]
 
 ---
+*Riefen: „Krieg!“, und wollten Macht*  
+*Mann, [[wer hätte das gedacht]]?*  
+
 Und Anna [[denkt]], der Cowboy
 
 Hattest du nicht daran [[gedacht]], es zu schließen, Brigitte?
@@ -70,4 +73,4 @@ to think
 ---
 
 **Morphems of only infinitive:**  
-- [[denk]][[en]], [[meinen]]
+- [[denk]][[en]], [[meinen]], [[glaub]]

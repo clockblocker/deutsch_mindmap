@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Glückwunsch]], [[Glückwünsche]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[s1 e1]]

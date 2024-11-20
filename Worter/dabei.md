@@ -1,9 +1,13 @@
 ⚙️ [[dabei]], [daˈbaɪ̯]
 
 ---
-Dabei sieht er gut aus in seinem Arztkittel …  
+[[Dabei]] sieht er gut aus in seinem Arztkittel …  
 
-Kaum hat man ein Mädchen dabei, schon geht alles schief!
+Kaum hat man ein Mädchen [[dabei]], schon geht alles schief!
+
+*Alarm zu geben, wenn's so wär*  
+*[[Dabei]] war'n dort am Horizont*  
+*Nur 99 Luftballons
 
 ---
 Synonyme: [[hierbei]], [[daran]], [[dazu]], [[darüber]], [[damit]], [[darin]], [[hierzu]], [[dran]]
@@ -19,4 +23,4 @@ thereby, therewith, in this, in that, along with it
 ---
 Morpheme:
 [[da]][[bei]]
-, [[Arzenei]]
+, [[Arzenei]], [[s1 e1]], [[anwesend]]

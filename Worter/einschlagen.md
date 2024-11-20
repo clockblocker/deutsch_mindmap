@@ -30,4 +30,4 @@ Morpheme: [[ein]][[schlag]][[en]]
 
 Partizip I: [[einschlagend]], Partizip II: [[eingeschlagen]]
 
-[[einschlagen]] - [[ein]] = [[schlagen]], [[bald]]
+[[einschlagen]] - [[ein]] = [[schlagen]], [[bald]], [[s1 e1]]

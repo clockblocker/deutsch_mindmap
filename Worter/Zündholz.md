@@ -1,1 +1,1 @@
-, [[Feuerzeug]]
+, [[Feuerzeug]], [[Streichholz]]

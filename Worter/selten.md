@@ -1,1 +1,1 @@
-[[täglich]][[normal]], [[meist]], [[bald]]
+[[täglich]][[normal]], [[meist]], [[bald]], [[Öfteren]]

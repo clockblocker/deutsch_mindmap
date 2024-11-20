@@ -30,4 +30,4 @@ Morpheme: [[bil]][[d]][[en]]
 
 Partizip I: [[bildend]], Partizip II: [[gebildet]]
 
-[[bilden]] - [[bil]] = [[d]]en
+[[bilden]] - [[bil]] = [[d]]en, [[s1 e1]]

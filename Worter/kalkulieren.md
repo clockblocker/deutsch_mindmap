@@ -1,1 +1,1 @@
-, [[zählen]]
+, [[zählen]], [[rechnen]]

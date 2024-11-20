@@ -31,4 +31,4 @@ Morpheme: [[ent]][[deck]][[en]]
 
 Partizip I: [[entdeckend]], Partizip II: [[entdeckt]]
 
-[[entdecken]] - [[ent]] = [[decken]]
+[[entdecken]] - [[ent]] = [[decken]], [[ausmachen]]

@@ -1,0 +1,1 @@
+🧮 [[zusammenrechnen]] + Akk, [ˌtsʊˈzamənʁɛçnən]

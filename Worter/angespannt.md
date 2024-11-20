@@ -1,1 +1,1 @@
-[[nervös]][[ruhig]], [[anspannen]]
+[[nervös]][[ruhig]], [[anspannen]], [[beruhig]]

@@ -1,10 +1,13 @@
-🖋️ [[erheben]] + Akk, [ɛɐ̯ˈheːbn̩]
+[[erheben]] sich aus, [ɛɐ̯ˈheːbn̩]
 [[erhob]]
 haben [[erhoben]]
 
 ---
 *Und Minz und Maunz, die Katzen,*  
 *[[erheben]] ihre Tatzen.*  
+
+Der Junge mit den leuchtenden Pfeilen [[erhebt]] sich aus dem Eisberg._
+
 
 
 ---

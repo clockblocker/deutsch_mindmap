@@ -1,1 +1,1 @@
-, [[loswerden]], [[herausziehen]], [[verderben]], [[wegwerfen]], [[behalten]], [[gießen]]
+, [[loswerden]], [[herausziehen]], [[verderben]], [[wegwerfen]], [[behalten]], [[gießen]], [[sparen]], [[verschwenden]]

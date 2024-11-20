@@ -1,1 +1,1 @@
-[[gefallen]], [[hassen]], [[abmessen]], [[wiegen]], [[mögen]]
+[[gefallen]], [[hassen]], [[abmessen]], [[wiegen]], [[mögen]], [[rechnen]]

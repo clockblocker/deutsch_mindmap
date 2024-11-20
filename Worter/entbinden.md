@@ -1,1 +1,1 @@
-[[freimachen]], [[ledigen]]
+[[freimachen]], [[ledigen]], [[auflösen]]

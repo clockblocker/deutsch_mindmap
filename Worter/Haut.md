@@ -34,4 +34,4 @@ Einzigartige mögliche Formen:
 [[Haut]], [[Haut]], [[Haut]], [[Haut]], [[Haut]], [[Haut]], [[Haut]], [[Haut]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[fern]], [[nah]]

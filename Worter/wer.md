@@ -18,3 +18,4 @@ Nominative ([[wer]]?): (who)
 Accusative ([[Wen]]?): (whom)
 Dative ([[wem]]?): to whom)
 Genitive ([[Wessen]]?) (whose)
+, [[wer hätte das gedacht]]

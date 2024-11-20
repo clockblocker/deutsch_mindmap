@@ -1,0 +1,1 @@
+, [[verschwenden]], [[schwenden]]

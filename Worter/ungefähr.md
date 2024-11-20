@@ -1,33 +1,23 @@
-[[ungefähr]]
-[[ungefährer]]
-[[am]] [[ungefährsten]]
-
-nicht [[genau]]
+[[ungefähr]] = nicht [[genau]]
 
 ---
+Wie oft haben Sie schon auf den Fahrstuhl gewartet und während des Wartens ungefähr siebenmal auf den Fahrstuhlknopf gedrückt?
 
 Wir schlafen meistens [[ungefähr]] acht Stunden
 NIC: Ja, so [[ungefähr]] …  
 
+---
+Synonyme: [[etwa]], [[circa]], [[annähernd]], [[zirka]], [[nahezu]]
+Antonyme: [[genau]], [[präzise]], [[exakt]]
 
 ---
-
-Synonyme:
-- [[etwa]], [[zirka]], [[annähernd]]
+Übersetzung: approximately, about, around
 
 ---
+Morpheme: [[un]][[ge]][[fähr]]
 
 ---
-**Übersetzung**:
-approximately, about
+#Adverb #Approximation
 
 ---
-
-Tags: 
-#Adverb
-
----
-Morphems:
-[[unge]][[fähr]]
-
-, [[eben]], [[abmessen]]
+, [[eben]], [[abmessen]], [[Gefahr]]

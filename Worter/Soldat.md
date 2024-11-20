@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Soldaten]], [[Soldaten]], [[Soldaten]], [[Soldaten]], [[Soldaten]], [[Soldaten]], [[Soldaten]], [[Soldaten]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[s1 e1]]

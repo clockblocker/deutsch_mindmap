@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Holzes]], [[Holze]], [[Hölzer]], [[Hölzern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[Streichholz]]

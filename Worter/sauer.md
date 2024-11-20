@@ -27,3 +27,4 @@ Einzigartige mögliche Formen:
 [[saurerer]], [[saurere]], [[saureres]], [[saureren]], [[saurerem]], [[saurerer]], [[saureren]]
 [[sauerstne]], [[sauester]], [[saueste]], [[sauestes]], [[sauesten]], [[sauerstem]], [[sauester]], [[sauesten]]
 [[bittre]]
+, [[s1 e1]]

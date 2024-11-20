@@ -8,7 +8,7 @@ Wir halten [[daran]] [[fest]]
 Und halten uns an [[Regeln]]  
 Wenn man uns Regeln [[lässt]]  
 
-Und der [[der Haifisch]] der hat [[Tränen]]  
+Und [[der Haifisch]] der hat [[Tränen]]  
 Und die [[laufen]] vom [[Gesicht]]  
 Doch der Haifisch lebt im Wasser  
 So die Tränen sieht man nicht  
@@ -28,7 +28,7 @@ Und die laufen vom Gesicht
 Doch der Haifisch lebt im Wasser  
 So die Tränen sieht man nicht  
   
-In der Tiefe ist es einsam  
+In der Tiefe ist es [[einsam]]  
 Und so [[manche]] [[Zähre]] [[fließt]]  
 Und so kommt es, dass das Wasser  
 In den [[Meeren]] [[salzig]] ist  

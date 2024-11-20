@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Krams]], [[Krämen]], [[Kramen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neutrum, [[s1 e1]]

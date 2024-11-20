@@ -30,4 +30,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[peinlich]], [[peinliche]], [[peinliches]], [[peinlichen]], [[peinlichem]], [[peinlicher]], [[peinlichen]]
 [[peinlicher]], [[peinlichere]], [[peinlicheres]], [[peinlicheren]], [[peinlicherem]], [[peinlicherer]], [[peinlicheren]]
-[[peinlichsten]], [[peinlichster]], [[peinlichste]], [[peinlichstes]], [[peinlichsten]], [[peinlichstem]], [[peinlichster]], [[peinlichsten]]
+[[peinlichsten]], [[peinlichster]], [[peinlichste]], [[peinlichstes]], [[peinlichsten]], [[peinlichstem]], [[peinlichster]], [[peinlichsten]], [[s1 e1]]

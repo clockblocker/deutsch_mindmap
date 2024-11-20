@@ -1,1 +1,1 @@
-[[nötig]], [[dien]]
+[[nötig]], [[dien]], [[notwendig]]

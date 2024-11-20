@@ -1,1 +1,1 @@
-, [[lesen]], [[vorlesen]], [[vorwärts]], [[durch]], [[voraus]]
+, [[lesen]], [[vorlesen]], [[vorwärts]], [[durch]], [[voraus]], [[vormachen]]

@@ -5,6 +5,10 @@
 nicht [[kompliziert]]/[[schwierig]]
 
 ---
+Bitte setzt Euch. Wieso nehmt Ihr nicht [[einfach]] eine Tasse [[beruhigenden]] Jasmintees zu euch?
+
+Warum haben Sie nicht [[einfach]] die Treppe genommen und sind in den zweiten Stock gelaufen?
+
 NIC: Im Internet flirten? Ist total [[einfach]]!  
 SASCHA: Hah! Die haben [[einfach]] ihre Fotos auf das Auto 
 geklebt!  
@@ -41,4 +45,4 @@ Einzigartige mögliche Formen:
 
 
 [[einfachen]], [[schwer]], [[unbequem]], [[lackiertes]]
-, [[Extra 8]], [[einfachfantastisch]], [[Gesicht]], [[bald]]
+, [[Extra 8]], [[einfachfantastisch]], [[Gesicht]], [[bald]], [[Stock]]

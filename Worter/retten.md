@@ -3,7 +3,7 @@
 haben [[gerettet]]
 
 ---
-NIC: Edeltraut. Sascha! Bitte rette mich!  
+NIC: Edeltraut. Sascha! Bitte [[rette]] mich!  
 
 Aber ich glaube fest daran, Aang kann diese Welt retten.
 

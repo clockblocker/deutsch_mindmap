@@ -30,3 +30,4 @@ Morpheme: [[zisch]][[en]]
 
 Partizip I: [[zischend]], Partizip II: [[gezischt]]
 
+, [[s1 e1]]

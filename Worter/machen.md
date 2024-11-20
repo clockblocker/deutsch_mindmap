@@ -8,6 +8,13 @@ Oh Mann. [[Ich mach mir Sorgen]] …
 *Das Schicksal hat mich angelacht*  
 *Und mir ein [[Geschenk]] gemacht*  
 
+---
+[[anmachen]] - [[an]] = [[machen]]
+[[ausmachen]] - [[aus]] = [[machen]]
+[[vormachen]] - [[vor]] = [[machen]]
+[[aufmachen]] - [[auf]] = [[machen]]
+[[abmachen]] - [[ab]] = [[machen]]
+
 
 ---
 Synonyme: [[erstellen]], [[schaffen]], [[produzieren]], [[fertigen]], [[herstellen]]
@@ -35,4 +42,4 @@ Morpheme: [[mach]][[en]]
 Partizip I: [[machend]], Partizip II: [[gemacht]]
 
 +[[frei]] = [[freimachen]]
-, [[tun]], [[Sorgen]]
+, [[tun]], [[Sorgen]], [[anmachen]]

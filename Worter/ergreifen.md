@@ -1,1 +1,1 @@
-, [[greifen]], [[fassen]], [[nehm]], [[entwischen]]
+, [[greifen]], [[fassen]], [[nehm]], [[entwischen]], [[fangen]]

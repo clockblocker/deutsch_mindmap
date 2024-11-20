@@ -36,3 +36,4 @@ Partizip I: [[erkennend]], Partizip II: [[erkannt]]
 
 
 [[spüren]], [[bemerken]]
+, [[ausmachen]]

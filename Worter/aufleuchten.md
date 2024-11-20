@@ -32,3 +32,4 @@ Morpheme: [[auf]][[leucht]][[en]]
 Partizip I: [[aufleuchtend]], Partizip II: [[aufgeleuchtet]]
 
 [[aufleuchten]] - [[auf]] = [[leuchten]]
+, [[s1 e1]]

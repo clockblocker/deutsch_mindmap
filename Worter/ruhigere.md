@@ -1,1 +1,1 @@
-[[ruhig]]
+[[ruhig]], [[beruhig]]

@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[faul]], [[fauler]], [[faule]], [[faules]], [[faulen]], [[faulem]], [[fauler]], [[faulen]]
 [[faulere]], [[faulerer]], [[faulere]], [[fauleres]], [[fauleren]], [[faulerem]], [[faulerer]], [[fauleren]]
-[[faulsten]], [[faulster]], [[faulste]], [[faulstes]], [[faulsten]], [[faulstem]], [[faulster]], [[faulsten]]
+[[faulsten]], [[faulster]], [[faulste]], [[faulstes]], [[faulsten]], [[faulstem]], [[faulster]], [[faulsten]], [[tätig]]

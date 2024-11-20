@@ -1,1 +1,1 @@
-[[deuten]] auf den [ˈdɔɪ̯tn̩]
+[[deuten]] auf den [ˈdɔɪ̯tn̩], [[s1 e1]]

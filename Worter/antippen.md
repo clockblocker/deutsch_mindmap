@@ -32,3 +32,4 @@ Morpheme: [[an]][[tipp]][[en]]
 Partizip I: [[antippend]], Partizip II: [[angekippt]]
 
 [[antippen]] - [[an]] = [[tippen]]
+, [[s1 e1]]

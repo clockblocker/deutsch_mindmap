@@ -1,24 +1,22 @@
- das [[Gespräch]], [ɡəˈʃpʁɛːx]
+ц🟢 das [[Gespräch]], [ɡəˈʃpʁɛçə]
 die [[Gespräche]]
 
+---
+Oder denken Sie an die [[Gespräche]], die Sie jeden Tag mit Kollegen oder Freunden führen. 
 
 ---
--
--
+Synonyme:
+- [[Unterhaltung]], [[Diskussion]], [[Dialog]], [[Konversation]], [[Austausch]]
 
 ---
-Synonyme: 
-- [[Unterhaltung]], [[Diskussion]], [[Konversation]], [[Besprechung]], [[Beratung]]
-
----
-Übersetzung: conversation, talk
+Übersetzung: conversation, talk, discussion
 
 ---
 Morpheme:
-[[Ge]][[spräch]]
+[[ge]][[Sprech]][[e]]
 
 ---
-Einzigartige mögliche Formen: [[Gespräches]], [[Gespräch]], [[Gespräche]], [[Gesprächen]]
+Einzigartige mögliche Formen: [[Gesprächs]], [[Gespräche]], [[Gesprächen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutrum

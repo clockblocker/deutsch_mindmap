@@ -6,7 +6,9 @@ haben [[gefahren]]
 Sag’ ihr, ich habe einen [[Igel]]
 Igel gefressen … oder dass ich zum Mond [[gefahren]] bin …  
 
--
+---
+[[losfahren]] - [[los]] = [[fahren]]
+
 
 ---
 Synonyme: [[reisen]], [[transportieren]], [[bewegen]], [[steuern]], [[navigieren]]
@@ -32,4 +34,4 @@ Morpheme: [[fahr]][[en]]
 
 Partizip I: [[fahrend]], Partizip II: [[gefahren]]
 
-[[fahren]] - [[fahr]] = [[en]], [[paddeln]]
+ [[paddeln]], [[losfahren]]

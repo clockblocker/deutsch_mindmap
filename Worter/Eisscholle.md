@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Eisscholles]], [[Eisscholle]], [[Eisschollen]], [[Eisschollen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[s1 e1]]

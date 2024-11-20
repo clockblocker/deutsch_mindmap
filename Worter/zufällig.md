@@ -26,4 +26,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[zufällig]], [[zufälliger]], [[zufällige]], [[zufälliges]], [[zufälligen]], [[zufälligem]], [[zufälliger]], [[zufälligen]]
-[[zufälligste]], [[zufälligster]], [[zufälligste]], [[zufälligstes]], [[zufälligsten]], [[zufälligstem]], [[zufälligster]], [[zufälligsten]]
+[[zufälligste]], [[zufälligster]], [[zufälligste]], [[zufälligstes]], [[zufälligsten]], [[zufälligstem]], [[zufälligster]], [[zufälligsten]], [[s1 e1]]

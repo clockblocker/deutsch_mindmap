@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Zopfes]], [[Zopfe]], [[Zöpfe]], [[Zöpfen]]
 
 ---
-#Substantiv #Feminin, [[s1 e1]]
+#Substantiv #Feminin, [[s1 e1]], [[Pferdeschwanz]]

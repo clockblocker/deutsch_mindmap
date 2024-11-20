@@ -20,3 +20,4 @@ Morphologie:
 #Adverb
 
 [[hinaus]], [[vorwärts]], [[Herbei]]
+, [[anwesend]]

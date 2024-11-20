@@ -1,1 +1,1 @@
-[[verändern]][[ändern]], [[verbrennen]]
+[[verändern]][[ändern]], [[verbrennen]], [[verschwenden]]

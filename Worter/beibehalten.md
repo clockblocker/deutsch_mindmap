@@ -1,1 +1,1 @@
-[[umschalten]][[verändern]][[ändern]]
+[[umschalten]][[verändern]][[ändern]], [[wechseln]]

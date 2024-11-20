@@ -1,2 +1,2 @@
 [[lassen]]
-[[nervös]][[ruhig]]
+[[nervös]][[ruhig]], [[unbeeindruckt]], [[beruhig]], [[beruhigenden]]

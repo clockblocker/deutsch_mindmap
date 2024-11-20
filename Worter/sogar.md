@@ -30,4 +30,4 @@ Tags:
 
 ---
 Morphems:
-[[sogar]], [[11 08]]
+[[sogar]], [[11 08]], [[s1 e1]]

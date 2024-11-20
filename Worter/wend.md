@@ -1,1 +1,1 @@
-, [[wenden]], [[verwenden]]
+, [[wenden]], [[verwenden]], [[zuwenden]], [[wendig]]

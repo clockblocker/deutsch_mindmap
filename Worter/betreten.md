@@ -1,76 +1,36 @@
-🚶‍♂️ [[betreten]]
+🚶‍♂️  [[betreten]] + Akk, [bəˈtreːtn̩]
 [[betrat]]
 haben [[betreten]]
 
 ---
 die Familie [[betritt]] den Vorplatz.
 
+Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den Fahrstuhl, acht andere Menschen [[betreten]] den Fahrstuhl,
+
+
+---
+Synonyme: [[besteigen]], [[betreten]], [[überschreiten]], [[eintreten]], [[hineinschreiten]]
+Antonyme: [[verlassen]], [[aussteigen]], [[herausgehen]]
+
+---
+Übersetzung: to enter, to step into
+
+
+---
+Morpheme: [[be]][[tret]][[en]]
+ #Verb  #Untrennbar
+ 
 
 ---
 
-Synonyme:
-- [[eintreten]], [[hineingehen]], [[durchschreiten]]
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[betrete]]          | [[betrat]]            | -                 | [[betrete]]            | [[beträte]]             |
+| Du        | [[betrittst]]        | [[betratest]]         | [[betritt]]       | [[betretest]]          | [[beträtest]]           |
+| Er/sie/es | [[betritt]]          | [[betrat]]            | -                 | [[betrete]]            | [[beträte]]             |
+| Wir       | [[betreten]]         | [[betraten]]          | -                 | [[betreten]]           | [[beträten]]            |
+| Ihr       | [[betretet]]         | [[betratet]]          | [[betretet]]      | [[betretet]]           | [[beträtet]]            |
+| Sie       | [[betreten]]         | [[betraten]]          | [[betreten Sie]]  | [[betreten]]           | [[beträten]]            |
 
----
-
-Beispiele:
-
-- Ich [[betrete]] das Zimmer vorsichtig.
-- Du [[betrittst]] den Garten.
-- Er [[betritt]] die Bühne mit einem Lächeln.
-- Wir [[betreten]] das Gebäude durch den Haupteingang.
-- Ihr [[betretet]] den Raum nacheinander.
-- Sie [[betreten]] den Saal.
-
----
-**Übersetzung**: to enter, to step into
-
----
-
-Morphems of only infinitive:
-[[be]][[tret]][[en]] [[treten]]
-
----
-Tags:
-#Verb
-
----
-
-Präteritum:
-
-- Ich [[betrat]] das Haus.
-- Du [[betratst]] den Raum.
-- Er [[betrat]] die Brücke.
-- Wir [[betraten]] den Wald.
-- Ihr [[betratet]] das Stadion.
-- Sie [[betraten]] das Geschäft.
-
----
-
-Imperativ:
-
-- [[betritt]] den Raum leise!
-- [[betretet]] das Gebäude durch den Seiteneingang!
-- [[Betreten wir]] das Haus gemeinsam!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[betrete]] den Raum.
-- Sie meint, du [[betretest]] das Haus.
-- Er behauptet, er [[betrete]] den Wald.
-- Wir erklären, wir [[betreten]] das Gelände.
-- Ihr sagt, ihr [[betretet]] das Zimmer.
-- Sie sagen, sie [[betreten]] den Park.
-
----
-
-Konjunktiv II:
-
-- Wenn ich mutiger wäre, [[beträte]] ich das dunkle Haus.
-- Wenn du eingeladen wärst, [[beträtest]] du den Saal.
-- Wenn er neugierig wäre, [[beträte]] er das Gebäude.
-- Wenn wir mehr Zeit hätten, [[beträten]] wir den Garten.
-- Wenn ihr mehr wüsstet, [[beträtet]] ihr den Raum.
-- Wenn sie den Schlüssel hätten, [[beträten]] sie das Schloss.
+Partizip I: [[betretend]], Partizip II: [[betreten]]
+[[betreten]] - [[be]] = [[treten]]

@@ -5,6 +5,7 @@ die [[Lichtstrahle]]
 ---
 Durch das Loch, das Katara in den Eisberg gehauen hat, strömt ein [[Lichtstrahl]] in den Himmel.
 
+Ein junger Mann mit einem Pferdeschwanz und einer Narbe im Gesicht starrt den [[Lichtstrahl]] an._
 
 ---
 Synonyme:
@@ -21,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lichtstrahls]], [[Lichtstrahl]], [[Lichtstrahle]], [[Lichtstrahlen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neutrum, [[s1 e1]]

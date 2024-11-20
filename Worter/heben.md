@@ -6,6 +6,10 @@ haben [[gehoben]]
 Ein paar Tiger-Seelöwen [[heben]] verwundert die Köpfe und jaulen.
 
 ---
+[[erheben]] - [[er]] = [[heben]]
+
+
+---
 Synonyme: [[anheben]], [[aufheben]], [[emporbringen]], [[emporheben]], [[hochheben]], [[lupfen]], [[stemmen]]
 Antonyme: [[absenken]], [[fallenlassen]], [[hinunterlassen]], [[niederlegen]], [[runternehmen]]
 
@@ -31,4 +35,4 @@ Partizip I: [[hebend]], Partizip II: [[gehoben]]
 
 
 [[setzen]], [[ziehen]], [[bücken]]
-, [[erheben]]
+, [[erheben]], [[s1 e1]]

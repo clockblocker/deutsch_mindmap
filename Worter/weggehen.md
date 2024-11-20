@@ -33,4 +33,4 @@ Partizip I: [[weggehend]], Partizip II: [[weggegangen]]
 [[weggehen]] - [[weg]] = [[gehen]]
 
 [[verlassen]]
-, [[ausgehen]]
+, [[ausgehen]], [[lösen]]

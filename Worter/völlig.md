@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[völlig]], [[völlige]], [[völligen]], [[völligem]], [[völliger]]
 [[völligere]], [[völligeres]], [[völligeren]], [[völligerem]], [[völligerer]]
-[[völligste]], [[völligster]], [[völligste]], [[völligstes]], [[völligsten]], [[völligstem]], [[völligster]], [[völligsten]], [[Extra 8]], [[durchknallen]], [[durchgeknallt]]
+[[völligste]], [[völligster]], [[völligste]], [[völligstes]], [[völligsten]], [[völligstem]], [[völligster]], [[völligsten]], [[Extra 8]], [[durchknallen]], [[durchgeknallt]], [[s1 e1]]

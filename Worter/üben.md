@@ -1,64 +1,36 @@
-🏋️ [[üben]]  
-[[übte]]  
+🏋️ [[üben]] + Akk, [ˈyːbən]
+[[übte]]
 haben [[geübt]]
 
 ---
 NIC: Sam- ich muss [[üben]]!
+[[Übung]]
+
+---
+[[ausüben]] - [[aus]] = [[üben]]
+
+
+---
+Synonyme: [[trainieren]], [[proben]], [[einüben]], [[praktizieren]], [[wiederholen]]
+Antonyme: [[vernachlässigen]], [[aufgeben]], [[ignorieren]]
+
+---
+Übersetzung: to practice, to train
+
+---
+Morpheme: [[üb]][[en]]
+ #Verb  #Untrennbar
+ 
 
 ---
 
-**Synonyme:**
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[übe]]              | [[übte]]              | -                 | [[übe]]                | [[übte]]                |
+| Du        | [[übst]]             | [[übtest]]            | [[übe]]           | [[übest]]              | [[übtest]]              |
+| Er/sie/es | [[übt]]              | [[übte]]              | -                 | [[übe]]                | [[übte]]                |
+| Wir       | [[üben]]             | [[übten]]             | -                 | [[üben]]               | [[übten]]               |
+| Ihr       | [[übt]]              | [[übtet]]             | [[übt]]           | [[übtet]]              | [[übtet]]               |
+| Sie       | [[üben]]             | [[übten]]             | [[üben Sie]]      | [[üben]]               | [[übten]]               |
 
-- [[trainieren]], [[praktizieren]], [[proben]]
-
----
-
-**Beispiele:**
-
-- Ich [[übe]] Klavier.
-- Du [[übst]] jeden Tag.
-- Er [[übt]] seine Rede.
-- Es [[übt]] fleißig.
-- Sie [[übt]] den Tanz.
-- Wir [[üben]] für den Test.
-- Ihr [[übt]] zusammen.
-- Sie [[üben]] die Aussprache.
-
----
-
-**Übersetzung**:
-to practice, to exercise
-
----
- #Verb
-
----
-
-**Präteritum:**
-
-- Ich [[übte]] Klavier.
-- Du [[übtest]] jeden Tag.
-- Er [[übte]] seine Rede.
-- Es [[übte]] fleißig.
-- Sie [[übte]] den Tanz.
-- Wir [[übten]] für den Test.
-- Ihr [[übtest]] zusammen.
-- Sie [[übten]] die Aussprache.
-
----
-
-**Imperativ:**
-
-- Ich [[übe]] das Stück.
-- Du [[üb|übe]] das Stück.
-- Er [[übe]] das Stück.
-- Es [[übt]] das Stück.
-- Sie [[übe]] das Stück.
-- Wir [[üben]] das Stück.
-- Ihr [[übt]] das Stück.
-- Sie [[üben]] das Stück.
-
----
-
-**Morphems of only infinitive:**  
-- [[üb]][[en]][[lernen]]
+Partizip I: [[übend]], Partizip II: [[geübt]]

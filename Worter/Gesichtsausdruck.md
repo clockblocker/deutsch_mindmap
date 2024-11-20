@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gesichtsausdrucks]], [[Gesichtsausdrucke]], [[Gesichtsausdrücken]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[s1 e1]]

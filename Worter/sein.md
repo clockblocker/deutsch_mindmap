@@ -34,6 +34,6 @@ Morpheme:
 | Wir       | [[sind]] | [[waren]]   | -         | [[seien]]    | [[wären]]     |
 | Ihr       | [[seid]] | [[wart]]    | [[seid]]  | [[seiet]]    | [[wäret]]     |
 | Sie       | [[sind]] | [[waren]]   | [[seien Sie]] | [[seien]] | [[wären]]     |
-
+[[wär]]
 Partizip I: [[seiend]], Partizip II: [[gewesen]]
 '''

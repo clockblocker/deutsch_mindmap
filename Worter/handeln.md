@@ -3,6 +3,7 @@
 haben [[gehandelt]]
 
 ---
+Psychologen meinen, dass 60 Prozent aller Gespräche von Menschen [[handeln]], die nicht anwesend sind. 
 
 ---
 +[[be]] = [[behandeln]]
@@ -31,4 +32,4 @@ Morpheme: [[handel]][[en]]
 
 Partizip I: [[handelnd]], Partizip II: [[gehandelt]]
 
-[[handeln]] - untrennbar, [[tun]]
+[[handeln]] - untrennbar, [[tun]], [[warten]]

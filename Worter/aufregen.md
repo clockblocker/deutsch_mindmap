@@ -1,1 +1,1 @@
-, [[ärgern]]
+, [[ärgern]], [[beruhigen]]

@@ -29,4 +29,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[hellblau]], [[hellblauen]], [[hellblaue]], [[hellblaues]], [[hellblauen]], [[hellblauem]], [[hellblauer]], [[hellblauen]]
 [[hellblauer]], [[hellblauerer]], [[hellblauerere]], [[hellblaueres]], [[hellblaueren]], [[hellblauerem]], [[hellblauerer]], [[hellblaueren]]
-[[hellblauten]], [[hellblauteste]], [[hellblauteste]], [[hellblautestes]], [[hellblauten]], [[hellbläutetem]], [[hellblautester]], [[hellblauten]]
+[[hellblauten]], [[hellblauteste]], [[hellblauteste]], [[hellblautestes]], [[hellblauten]], [[hellbläutetem]], [[hellblautester]], [[hellblauten]], [[s1 e1]]

@@ -1,3 +1,3 @@
 [[echt]]
 
-NIC: Hey Sam, du bist ein [[echter]] Freund 
+NIC: Hey Sam, du bist ein [[echter]] Freund , [[echten]]

@@ -1,6 +1,12 @@
 Na Ladies, was geht so [[ab]]?
 
+[[weg]] / off, away
+completely
+
+
+
+
 
 у 
 
-прочь[[abgepackt]][[abpacken]][[abholen]][[holen]], [[abmessen]], [[abreißen]], [[beißen]], [[abbeißen]]
+прочь[[abgepackt]][[abpacken]][[abholen]][[holen]], [[abmessen]], [[abreißen]], [[beißen]], [[abbeißen]], [[abmachen]], [[ablösen]], [[lösen]]

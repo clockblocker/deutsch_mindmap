@@ -1,1 +1,1 @@
-[[fahren]], [[dauern]], [[vergehen]]
+[[fahren]], [[dauern]], [[vergehen]], [[losfahren]]
