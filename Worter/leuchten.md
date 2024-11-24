@@ -8,6 +8,9 @@ haben [[geleuchtet]]
 
 Der Junge öffnet die Augen, auch sie [[leuchten]].
 
+_Die Pfeile des Jungen hören auf zu [[leuchten]] und er bricht zusammen.
+
+
 ---
 [[aufleuchten]] - [[auf]] = [[leuchten]]
 
@@ -35,4 +38,4 @@ Morpheme: [[leucht]][[en]]
 | Sie       | [[leuchten]]         | [[leuchteten]]        | [[leuchten Sie]]  | [[leuchten]]           | [[leuchteten]]          |
 
 Partizip I: [[leuchtend]], Partizip II: [[geleuchtet]]
-, [[s1 e1]]
+, [[s1 e1]], [[zusammenbrechen]]

@@ -1,1 +1,1 @@
-[[andere]], [[Spitze]], [[Stimme]], [[Schraube]], [[IPA]], [[Silbe]], [[Geselle]], [[Schranke]], [[Tatze]], [[lutschen]], [[Strenge]], [[Zähre]], [[Feiertage]], [[Geschichte]], [[uralte]], [[Vorfahre]], [[steuere]], [[Verwandte]], [[Gespräch]]
+[[andere]], [[Spitze]], [[Stimme]], [[Schraube]], [[IPA]], [[Silbe]], [[Geselle]], [[Schranke]], [[Tatze]], [[lutschen]], [[Strenge]], [[Zähre]], [[Feiertage]], [[Geschichte]], [[uralte]], [[Vorfahre]], [[steuere]], [[Verwandte]], [[Gespräch]], [[anschauliche]], [[ehemalige]]

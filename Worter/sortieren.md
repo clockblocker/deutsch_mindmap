@@ -31,3 +31,4 @@ Morpheme: [[sort]][[ier]][[en]]
 
 Partizip I: [[sortierend]], Partizip II: [[sortiert]]
 
+, [[zusammenstellen]]

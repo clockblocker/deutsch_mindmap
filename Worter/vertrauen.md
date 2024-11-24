@@ -33,4 +33,4 @@ Morpheme: [[ver]][[trau]][[en]]
 
 Partizip I: [[vertrauend]], Partizip II: [[vertraut]]
 
-[[vertrauen]] - [[ver]] = [[trauen]]
+[[vertrauen]] - [[ver]] = [[trauen]], [[abhören]]

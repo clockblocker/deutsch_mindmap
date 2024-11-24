@@ -1,1 +1,1 @@
-[[Sorte]]
+[[Sorte]], [[Weise]]

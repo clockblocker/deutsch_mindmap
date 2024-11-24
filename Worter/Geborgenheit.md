@@ -1,1 +1,1 @@
-, [[Sicherheit]]
+, [[Sicherheit]], [[Gemütlichkeit]]

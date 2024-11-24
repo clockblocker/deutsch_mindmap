@@ -4,6 +4,8 @@ die [[Sicherheiten]]
 ---
 Das ist mit [[Sicherheit]] die schnellere Variante, denn nicht nur das Warten auf den Fahrstuhl kostet Zeit. 
 
+[[Staatssicherheit]]
+
 ---
 Synonyme:
 - [[Geborgenheit]], [[Schutz]], [[Vertrauen]], [[Stabilität]], [[Gewissheit]]

@@ -71,4 +71,4 @@ Konjunktiv II:
 - Wenn er standhaft wäre, [[liefe]] er nicht [[davon]].
 - Wenn wir sicher wären, [[liefen]] wir nicht [[davon]].
 - Wenn ihr mutiger wäret, [[liefet]] ihr nicht einfach [[davon]].
-- Wenn sie stark wären, [[liefen]] sie nicht einfach [[davon]].
+- Wenn sie stark wären, [[liefen]] sie nicht einfach [[davon]]., [[zurennen]]

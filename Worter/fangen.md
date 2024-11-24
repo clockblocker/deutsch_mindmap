@@ -12,6 +12,10 @@ haben [[gefangen]]
 Ich brauch keinen Beruhigungstee! Ich will nur endlich den Avatar fangen! 
 
  Pass auf, so [[fängt]] man einen Fisch!
+ 
+---
+[[auffangen]] - [[auf]] = [[fangen]]
+ 
 
 ---
 Synonyme: [[ergreifen]], [[einfangen]], [[festnehmen]], [[packen]], [[greifen]]
@@ -38,3 +42,4 @@ Morpheme: [[fang]][[en]]
 Partizip I: [[fangend]], Partizip II: [[gefangen]]
 
 [[werfen]], [[anfangen]], [[entwischen]], [[stoßen]], [[schleudern]]
+, [[auffangen]]

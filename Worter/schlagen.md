@@ -14,8 +14,10 @@ NIC: Herr Scott, Beine übereinander [[schlagen]].
 *Ich sehe zu durchs  Schlüsselloch*  
 *Und einer [[schlug]] sie tot*
 
+ 
 ---
 [[einschlagen]] - [[ein]] = [[schlagen]]
+[[wegschlagen]] - [[weg]] = [[schlagen]]
 
 
 ---
@@ -86,4 +88,4 @@ Konjunktiv II:
 - Wenn er schneller wäre, [[schlüge]] er zuerst.
 - Wenn wir gut vorbereitet wären, [[schlügen]] wir das Zelt schneller auf.
 - Wenn ihr euch beeiltet, [[schlüget]] ihr noch pünktlich zu.
-- Wenn sie trainieren würden, [[schlügen]] sie ihre Gegner.[[Quirlen]], [[klopfen]], [[peitschen]], [[herausschlagen]], [[totschlagen]], [[einschlagen]]
+- Wenn sie trainieren würden, [[schlügen]] sie ihre Gegner.[[Quirlen]], [[klopfen]], [[peitschen]], [[herausschlagen]], [[totschlagen]], [[einschlagen]], [[wegshlagen]]

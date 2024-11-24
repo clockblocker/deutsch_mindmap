@@ -3,7 +3,9 @@
 haben [[gestoßen]]
 
 ---
-_Der Wasserball stößt an Sokkas Speerende und zerplatzt.
+_Der Wasserball [[stößt]] an Sokkas Speerende und zerplatzt.
+
+_Sokka [[stößt]] ihm mit dem Ende des Speers an den Kopf und Katara schlägt ihn weg._
 
 
 ---

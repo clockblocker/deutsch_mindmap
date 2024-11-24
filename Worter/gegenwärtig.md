@@ -1,1 +1,1 @@
-, [[heut]], [[vergangen]], [[anwesend]]
+, [[heut]], [[vergangen]], [[anwesend]], [[ehemaligen]], [[ehemalige]]

@@ -1,1 +1,1 @@
-[[stellen]]  , [[bestellt]], [[hinstellen]]
+[[stellen]]  , [[bestellt]], [[hinstellen]], [[ausstellen]], [[Ausstellung]], [[aufstellen]], [[darstellen]], [[zusammenstellen]]

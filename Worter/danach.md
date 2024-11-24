@@ -24,4 +24,4 @@ Tags:
 ---
 
 Morphems:
-[[Da]][[Worter/nach]][[nachher]], [[11 08]], [[hinterdrein]], [[seitdem]]
+[[Da]][[Worter/nach]][[nachher]], [[11 08]], [[hinterdrein]], [[seitdem]], [[bereits]]

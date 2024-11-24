@@ -20,7 +20,7 @@ Mit dir stehen die Sekunden
   
   
 Auf den [[Ästen]] in den [[Gräben]]  
-Ist es [[nun]] [[still]] und ohne [[Leben]]  
+Ist es [[nun]] [[still]] und ohne [[leben]]  
 Und das [[Atmen]] [[fällt]] mir ach so schwer  
 Weh mir, oh weh  
 Und die Vögel singen nicht mehr  

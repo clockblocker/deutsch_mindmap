@@ -7,6 +7,10 @@ Ich habe [[gehört]] … dass Stefan einen Spitznamen hat …
 
 SASCHA: Und wo [[hinHören|gehört]] dieses Stück hin …?  
 
+---
+[[abhören]] - [[ab]] = [[hören]] // подслушивать
+
+
 
 ---
 

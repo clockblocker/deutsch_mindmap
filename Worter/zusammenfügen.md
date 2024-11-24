@@ -1,1 +1,1 @@
-[[trennen]], [[gesellen]], [[reißen]], [[schneiden]], [[brechen]], [[auflösen]]
+[[trennen]], [[gesellen]], [[reißen]], [[schneiden]], [[brechen]], [[auflösen]], [[zusammenstellen]]

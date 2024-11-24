@@ -1,2 +1,2 @@
 Keiner weiß wie lang 
-Ja, für ein [[Leben]] ohne Zwang 
+Ja, für ein [[leben]] ohne Zwang 

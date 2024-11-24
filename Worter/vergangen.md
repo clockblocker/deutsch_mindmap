@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[vergangen]], [[vergangene]], [[vergangenes]], [[vergangener]], [[vergangenem]], [[vergangenen]]
 [[vergangener]], [[vergangenes]], [[vergangener]], [[vergangenes]], [[vergangener]], [[vergangenem]], [[vergangener]], [[vergangenen]]
-[[vergangenste]], [[vergangenster]], [[vergangenstes]], [[vergangenster]], [[vergangensten]], [[vergangstem]], [[vergangenster]], [[vergangensten]]
+[[vergangenste]], [[vergangenster]], [[vergangenstes]], [[vergangenster]], [[vergangensten]], [[vergangstem]], [[vergangenster]], [[vergangensten]], [[ehemalige]]

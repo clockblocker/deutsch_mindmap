@@ -61,4 +61,4 @@ to miss
 ---
 
 **Morphems of only infinitive:**  
-- [[ver]][[pass]][[en]]
+- [[ver]][[pass]][[en]], [[erleben]]

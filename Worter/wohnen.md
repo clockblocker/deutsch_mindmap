@@ -10,7 +10,7 @@ Er geht in die Bücherei und wohnt in einem Museum!  Wirklich! Hihi!
 
 **Synonyme:**
 
-- [[Leben]], [[residieren]], [[verweilen]]
+- [[leben]], [[residieren]], [[verweilen]]
 
 ---
 

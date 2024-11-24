@@ -12,6 +12,8 @@ Ja – ich [[zeige]] dir, wie man als Fernsehreporter arbeitet.
 
 [[Gezeigt]] wird das Intro der ersten Folge Wasser, Erde, Feuer Luft.
 
+(Sieht nach oben und [[zeigt]] in die Richtung aus der das Licht kam) 
+
 
 ---
 Synonyme: [[demonstrieren]], [[präsentieren]], [[vorführen]], [[aufzeigen]], [[darstellen]]

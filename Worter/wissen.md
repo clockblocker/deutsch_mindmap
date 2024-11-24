@@ -8,7 +8,7 @@ haben [[gewusst]]
 - Keiner [[Weiß]] wie lang 
 - NIC: Hey Sam, du bist ein echter Freund … [[weißt]] du Geld ist wirklich nicht alles 
 
-
+_[Ärgerlich]_ Ich [[wusste]] es doch! Du hast der Feuermarine ein Lichtsignal [[gegeben]], oder?
 
 ---
 

@@ -1,1 +1,1 @@
-, [[einzelnen]]
+, [[einzelnen]], [[gemeinsam]]

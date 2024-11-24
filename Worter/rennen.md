@@ -7,6 +7,9 @@ haben [[gerannt]]
 *und trug sein Fähnchen in der Hand.*  
 
 ---
+[[zurennen]] - [[zu]] = [[rennen]]
+
+---
 Synonyme: [[laufen]], [[eilen]], [[spurten]], [[joggen]], [[flitzen]]
 Antonyme: [[gehen]], [[schleichen]], [[kriechen]]
 
@@ -32,4 +35,4 @@ Morpheme: [[renn]][[en]]
 Partizip I: [[rennend]], Partizip II: [[gerannt]]
 
 [[kriechen]], [[liegen]], [[laufen]]
-, [[hinterherlaufen]]
+, [[hinterherlaufen]], [[zurennen]]

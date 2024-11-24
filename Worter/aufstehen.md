@@ -61,4 +61,4 @@ to get up, to stand up
 
 **Morphems of only infinitive:**  
 - [[Worter/Konjunktion/Positionen/auf]][[Stehen]]
-```​⬤[[erwachen]], [[fallen]], [[hocken]]
+```​⬤[[erwachen]], [[fallen]], [[hocken]], [[zusammenbrechen]]

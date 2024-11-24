@@ -32,3 +32,4 @@ Morpheme: [[ver]][[scheuch]][[en]]
 Partizip I: [[verscheuchend]], Partizip II: [[verscheucht]]
 
 [[verscheuchen]] - [[ver]] = [[scheuchen]]
+, [[wegshlagen]]

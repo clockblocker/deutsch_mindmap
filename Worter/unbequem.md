@@ -22,4 +22,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[unbequem]], [[unbequeme]], [[unbequemes]], [[unbequemer]], [[unbequemem]], [[unbequemen]], [[unbequemerer]], [[unbequemeres]], [[unbequemerer]], [[unbequemeren]], [[unbequemster]], [[unbequemste]], [[unbequemstes]], [[unbequemsten]], [[unbequemstem]]
+[[unbequem]], [[unbequeme]], [[unbequemes]], [[unbequemer]], [[unbequemem]], [[unbequemen]], [[unbequemerer]], [[unbequemeres]], [[unbequemerer]], [[unbequemeren]], [[unbequemster]], [[unbequemste]], [[unbequemstes]], [[unbequemsten]], [[unbequemstem]], [[gemütlich]]

@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[getrennt]], [[getrennte]], [[getrenntes]], [[getrenntem]], [[getrennter]], [[getrennten]]
 [[getrennter]], [[getrenntere]], [[getrennteres]], [[getrennterem]], [[getrennterer]], [[getrennteren]]
-[[beide]][[trennen]][[übereinander]], [[vergleichen]], [[aneinander]]
+[[beide]][[trennen]][[übereinander]], [[vergleichen]], [[aneinander]], [[gemeinsam]]

@@ -5,6 +5,8 @@ die [[Pfeile]]
 ---
 Katara sieht den Eisberg genauer an und erkennt einen Jungen mit leuchtenden [[Pfeilen]] auf dem Kopf und den Händen. 
 
+Die [[Pfeile]] des Jungen hören auf zu leuchten und er bricht zusammen.
+
 ---
 Synonyme:
 - [[Bolzen]], [[Geschoss]], [[Projektil]], [[Wurfspieß]]

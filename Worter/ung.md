@@ -2,4 +2,4 @@ die [[Fernbedienung]]
 
 die [[Zeitung]]
 
-die [[Heizung]][[Veränderung]][[Reinigung]], [[Ausbildung]], [[Bedeutung]], [[Anleitung]], [[Gründung]], [[Verhandlung]], [[Erfahrung]], [[Nutzung]]
+die [[Heizung]][[Veränderung]][[Reinigung]], [[Ausbildung]], [[Bedeutung]], [[Anleitung]], [[Gründung]], [[Verhandlung]], [[Erfahrung]], [[Nutzung]], [[Richtung]], [[Ausstellung]]

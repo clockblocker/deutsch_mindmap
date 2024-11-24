@@ -7,6 +7,9 @@ Eines Tages aber lief der Löwe [[erschrocken]] davon und die Katze versteckte s
 
 _Katara und Sokka gucken [[erschrocken]] nach vorne. 
 
+*Katara rennt [[erschrocken]] auf ihn zu und fängt ihn auf.* 
+
+
 ---
 
 Synonyme:
