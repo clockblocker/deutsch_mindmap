@@ -1,1 +1,1 @@
-🔥 [[brennen]]
+🔥 [[brennen]], [[Rauchmelder]]

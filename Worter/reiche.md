@@ -1,3 +1,3 @@
 
 Positive: [[reich]]
-#Adjective, [[zahlreiche]]
+#Adjective, [[zahlreiche]], [[reichen]]

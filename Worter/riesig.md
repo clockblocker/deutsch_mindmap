@@ -7,6 +7,8 @@ NIC: Sagen wir [[einfach]] - dass du dieses [[Gesicht]] …
 … in deinem Fernseher sehen [[wirst]] …  
 … und [[zwar]] jeden Abend … um Punkt sechs, vor einem [[riesigen]] [[Publikum]]!  
 
+Er springt auf ein [[riesiges]] pelziges Tier, das vor sich hin grummelt.*
+
 ---
 
 nicht [[klein]]

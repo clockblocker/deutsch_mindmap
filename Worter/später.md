@@ -1,1 +1,1 @@
-[[spät]][[nachher]], [[demnächst]], [[hinterdrein]], [[bald]], [[bereits]]
+[[spät]][[nachher]], [[demnächst]], [[hinterdrein]], [[bald]], [[bereits]], [[zuvor]]

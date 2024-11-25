@@ -19,4 +19,4 @@ Morphems:
 [[Arbeit]]
 
 ---
-#Substantiv #Feminin[[Beruf]]
+#Substantiv #Feminin[[Beruf]], [[Werk]]

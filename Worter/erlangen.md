@@ -1,1 +1,1 @@
-, [[kriegen]], [[verdienen]]
+, [[kriegen]], [[verdienen]], [[erzielen]], [[erreichten]]

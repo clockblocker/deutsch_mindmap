@@ -79,4 +79,4 @@ rich
 
 Tags: 
 #Adjective
-, [[armer]], [[armen]]
+, [[armer]], [[armen]], [[erreichten]], [[Bereich]]

@@ -40,4 +40,4 @@ Morpheme: [[zeig]][[en]]
 
 Partizip I: [[zeigend]], Partizip II: [[gezeigt]]
 [[zeigen]] - [[zeig]] = [[en]]
-'''
+''', [[sehen lassen]]

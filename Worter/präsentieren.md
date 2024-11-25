@@ -1,1 +1,1 @@
-, [[wegzaubern]], [[schenken]], [[bieten]], [[ausstellen]], [[darstellen]]
+, [[wegzaubern]], [[schenken]], [[bieten]], [[ausstellen]], [[darstellen]], [[sehen lassen]]

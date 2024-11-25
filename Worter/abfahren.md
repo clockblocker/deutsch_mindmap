@@ -1,3 +1,3 @@
 уезжать
 
-[[ab]][[fahren]], [[losfahren]]
+[[ab]][[fahren]], [[losfahren]], [[kommen]]

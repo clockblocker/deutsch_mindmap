@@ -1,1 +1,1 @@
-, [[meinen]], [[glaub]]
+, [[meinen]], [[glaub]], [[feststellen]]

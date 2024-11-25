@@ -1,0 +1,1 @@
+📝 [[zusammenstellen]] + Akk, [ˈtsʊzamənˌʃtɛlən]

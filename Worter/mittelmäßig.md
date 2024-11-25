@@ -1,1 +1,1 @@
-[[mittel]][[prima]]
+[[mittel]][[prima]], [[durchschnittliches]]

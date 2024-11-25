@@ -1,1 +1,1 @@
-, [[eben]], [[tief]]
+, [[eben]], [[tief]], [[hoch]]

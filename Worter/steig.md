@@ -1,1 +1,1 @@
-, [[steigen]]
+, [[steigen]], [[versteigen]], [[steigende]]

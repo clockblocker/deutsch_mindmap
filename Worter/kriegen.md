@@ -4,8 +4,10 @@ haben [[gekriegt]]
 
 ---
 *Dann [[kriegt]] der Frust uns nicht mehr klein* 
-
 Wir kriegen doch CNN über Satellit, oder nicht?
+
+---
+[[aufzukriegen]] - [[auf]][[zu]] = [[kriegen]]
 
 ---
 Synonyme: [[bekommen]], [[erhalten]], [[erlangen]], [[empfangen]], [[erreichen]]
@@ -33,4 +35,4 @@ Morpheme: [[krieg]][[en]]
 | Sie       | [[kriegen]]          | [[kriegten]]          | [[kriegen Sie]]   | [[kriegen]]            | [[kriegten]]            |
 
 Partizip I: [[kriegend]], Partizip II: [[gekriegt]]
-, [[verdienen]]
+, [[verdienen]], [[aufzukriegen]]

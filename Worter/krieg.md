@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Krieges]], [[Kriege]], [[Kriegen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[aufzukriegen]]

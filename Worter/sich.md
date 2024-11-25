@@ -2,4 +2,4 @@
 #Pronomen #Reflexivpronomen
 
 himself/hersef/itself
-(themselves/yourselves, formal), [[umdrehen]]
+(themselves/yourselves, formal), [[umdrehen]], [[umsehen]]

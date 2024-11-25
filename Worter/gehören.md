@@ -4,8 +4,12 @@ haben [[gehört]]
 
 ---
 mach es so wie ich - und der Job [[gehört]] dir.  
+
 *Mann gegen Mann*  
 *Meine Haut [[gehört]] den Herren*  
+
+So [[gehört]] es heute zu jedem Partygespräch, eine Meinung über Kunst zu haben und zeitgenössische [[Künstler]] wie Neo Rauch zu kennen.
+
 
 ---
 Synonyme: [[besitzen]], [[zustehen]], [[zukommen]], [[zueigen sein]], [[zufallen]]

@@ -3,8 +3,16 @@
 sein [[gestiegen]]
 
 ---
-Die Ufer sind Vernunft und Trieb  
-Ich [[steigen|steig]]' dir nach  
+*Die Ufer sind Vernunft und Trieb*  
+*Ich [[steigen|steig]]' dir nach*  
+
+110 Millionen Besucher kommen im Jahr, Tendenz [[steigend]].
+
+Bei den Kunstauktionen in London [[stieg]] der Umsatz in den letzten Jahren kontinuierlich.
+
+---
+[[versteigen]] - [[ver]] = [[steigen]]
+
 
 ---
 Synonyme: [[aufsteigen]], [[hochkommen]], [[erklimmen]], [[emporsteigen]], [[heraufkommen]]
@@ -31,3 +39,4 @@ Morpheme: [[stei]][[g]][[en]]
 Partizip I: [[steigend]], Partizip II: [[gestiegen]]
 
 [[steigen]] - [[en]] = [[steig]]
+, [[versteigen]], [[steigende]], [[klettern]]

@@ -1,1 +1,1 @@
-[[Wetter]]
+[[Wetter]], [[Stellung]]

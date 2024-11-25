@@ -1,4 +1,3 @@
-
 ✂️ [[schneiden]] + Akk, [ˈʃnaɪ̯dn̩]
 [[schnitt]]
 haben [[geschnitten]]
@@ -7,6 +6,8 @@ haben [[geschnitten]]
 *An den [[Händen]] beiden*  
 *ließ er sich nicht [[schneiden]]*  
 *seine [[Nägel]] fast ein Jahr;*  
+
+
 
 ---
 Synonyme: [[zerschneiden]], [[zerteilen]], [[durchtrennen]], [[abschneiden]], [[zerlegen]]

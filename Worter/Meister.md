@@ -6,6 +6,8 @@ die [[Meister]]
 r [[Geselle]] | 3 Jahr
 r [[Meister]] | 3-5
 
+[[Weltmeister]]
+
 ---
 Synonyme:
 - [[Fachmann]], [[Experte]], [[Könner]], [[Virtuose]], [[Koryphäe]]
@@ -23,4 +25,4 @@ Einzigartige mögliche Formen: [[Meisters]], [[Meistern]], [[Meister]], [[Meiste
 ---
 #Substantiv #Maskulin
 
-, [[Lehrling]], [[Geselle]], [[Sieger]]
+, [[Lehrling]], [[Geselle]], [[Sieger]], [[Weltmeister]]

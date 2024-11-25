@@ -1,63 +1,35 @@
-💰 [[verkaufen]]  
-[[verkaufte]]  
+🛍️ [[verkaufen]] + Akk, [fɛɐ̯ˈkaʊ̯fən]
+[[verkaufte|verkaufte]]  
 haben [[verkauft]]
 
 ---
+ So [[verkaufte]] der englische Künstler
+
 
 ---
-
-**Synonyme:**
-
-- [[veräußern]], [[absetzen]], [[anbieten]]
+Synonyme: [[veräußern]], [[absetzen]], [[verscherbeln]], [[verschachern]], [[feilbieten]]
+Antonyme: [[kaufen]], [[behalten]], [[aufbewahren]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[verkaufe]] mein Auto.
-- Du [[verkaufst]] deine alten Bücher.
-- Er [[verkauft]] Gemüse auf dem Markt.
-- Es [[verkauft]] sich gut.
-- Sie [[verkauft]] ihren Schmuck.
-- Wir [[verkaufen]] unser Haus.
-- Ihr [[verkauft]] Tickets für das Konzert.
-- Sie [[verkaufen]] ihre Produkte online.
+Übersetzung: to sell
 
 ---
-
-**Übersetzung**:
-to sell
-
----
- #Verb
-
+Morpheme: [[ver]][[kauf]][[en]]
+ #Verb  #Trennbar
+ 
 ---
 
-**Präteritum:**
 
-- Ich [[verkaufte]] mein Auto.
-- Du [[verkauftest]] deine alten Bücher.
-- Er [[verkaufte]] Gemüse auf dem Markt.
-- Es [[verkaufte]] sich gut.
-- Sie [[verkaufte]] ihren Schmuck.
-- Wir [[verkauften]] unser Haus.
-- Ihr [[verkauftet]] Tickets für das Konzert.
-- Sie [[verkauften]] ihre Produkte online.
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[verkaufe]] | [[verkaufte]] | - | [[verkaufe]] | [[verkaufte]] |
+| Du | [[verkaufst]] | [[verkauftest]] | [[verkauf]] | [[verkaufest]] | [[verkauftest]] |
+| Er/sie/es | [[verkauft]] | [[verkaufte]] | - | [[verkaufe]] | [[verkaufte]] |
+| Wir | [[verkaufen]] | [[verkauften]] | - | [[verkaufen]] | [[verkauften]] |
+| Ihr | [[verkauft]] | [[verkauftet]] | [[verkauft]] | [[verkaufet]] | [[verkaufetet]] |
+| Sie | [[verkaufen]] | [[verkauften]] | [[verkaufen Sie]] | [[verkaufen]] | [[verkauften]] |
 
----
+Partizip I: [[verkaufend]], Partizip II: [[verkauft]]
 
-**Imperativ:**
-
-- Ich [[verkaufe]] es jetzt.
-- Du [[verkauf]] es jetzt.
-- Er [[verkaufe]] es jetzt.
-- Es [[verkauft]] es jetzt.
-- Sie [[verkaufe]] es jetzt.
-- Wir [[verkaufen]] es jetzt.
-- Ihr [[verkauft]] es jetzt.
-- Sie [[verkaufen]] es jetzt.
-
----
-
-**Morphems of only infinitive:**  
-- [[verkauf]][[en]], [[leihen]]
+[[verkaufen]] - [[ver]] = [[kaufen]]
+'''

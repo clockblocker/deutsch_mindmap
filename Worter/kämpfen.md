@@ -75,4 +75,4 @@ Konjunktiv II:
 - Wenn er nicht aufgeben würde, [[kämpfte]] er bis zum Schluss.
 - Wenn wir vereint wären, [[kämpften]] wir erfolgreicher.
 - Wenn ihr Vertrauen hättet, [[kämpftet]] ihr mit Zuversicht.
-- Wenn sie mehr Unterstützung hätten, [[kämpften]] sie mit größerem Einsatz.
+- Wenn sie mehr Unterstützung hätten, [[kämpften]] sie mit größerem Einsatz., [[bemühen]]

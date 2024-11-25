@@ -7,9 +7,8 @@ haben [[gezählt]]
 *Mit dir stehen die Sekunden*, *Lohnen nicht*  
 
 ---
-+[[ge]] = [[gelten]], 
-+[[er]] = [[erzählen]],
-+[[ver]] = [[vertrauen]]
++[[er]] = [[erzählen]], / to tell, to narrate
+[[dazuzählen]] - [[dazu]] = [[zählen]] / to count in addition, to include
   
 
 ---
@@ -37,3 +36,4 @@ Morpheme: [[zähl]][[en]]
 
 Partizip I: [[zählend]], Partizip II: [[gezählt]]
 
+, [[dazuzählen]]

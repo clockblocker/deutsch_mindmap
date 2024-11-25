@@ -24,4 +24,4 @@ Synonyme:
 ---
 
 #Substantiv
-#Neuter[[handel]]
+#Neuter[[handel]], [[Geschäftsleben]]

@@ -7,6 +7,8 @@ nicht [[unbedeutend]]
 ---
 die [[Zeit]] is wichtig
 
+Ich muss dich etwas [[wichtiges]] fragen.
+
 ---
 
 Synonyme: [[bedeutsam]], [[relevant]], [[essenziell]], [[signifikant]], [[entscheidend]]

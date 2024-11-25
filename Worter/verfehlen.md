@@ -1,1 +1,1 @@
-, [[einschlagen]]
+, [[einschlagen]], [[erzielen]], [[zielen]], [[erreichten]]

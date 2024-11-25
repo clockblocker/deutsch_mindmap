@@ -31,4 +31,4 @@ Morpheme: [[schimpf]][[en]]
 
 Partizip I: [[schimpfend]], Partizip II: [[geschimpft]]
 
-[[schimpfen]] - [[schimpf]] = [[en]]
+[[schimpfen]] - [[schimpf]] = [[en]], [[grummeln]]

@@ -1,46 +1,30 @@
-[[hoch]]
-[[höher]]
-[[am]] [[höchsten]]
-
-Synonyme:
-- [[eleviert]]
-- [[erhaben]]
-- [[steil]]
+📏 hoch, [ˈhoːx]
+nicht [[niedrig]]
 
 ---
-Beispiele:
+Das bisher [[höchste]] Ergebnis erzielte ein Gemälde von Claude Monet mit einem Preis von 36,5 Millionen Pfund
 
-- Ich sehe ein [[hohes]] Gebäude.
-- Ich gebe dem [[hohen]] Gebäude einen Blick.
-- Die Fenster des [[hohen]] Gebäudes sind groß.
 
-- Ich sehe einen [[höheren]] Turm.
-- Ich besteige den [[höheren]] Turm.
-- Die Aussicht vom [[höheren]] Turm ist beeindruckend.
-
-- Ich sehe die [[höchste]] Spitze.
-- Ich erreiche die [[höchste]] Spitze des Berges.
-- Die Aussicht von der [[höchsten]] Spitze ist atemberaubend.
-
-- Ich sehe [[hohe]] Berge.
-- Ich wandere in den [[hohen]] Bergen.
-- Die Gipfel der [[hohen]] Berge sind schneebedeckt.
-
-- Ich sehe einen [[höheren]] Turm als den vorherigen.
-- Ich steige auf den [[höheren]] Turm.
-- Die Aussicht vom [[höheren]] Turm ist noch besser.
-
-- Ich sehe die [[höchsten]] Gebäude in der Stadt.
-- Ich bewundere die [[höchsten]] Gebäude.
-- Die Architektur der [[höchsten]] Gebäude ist beeindruckend.
+---
+Synonyme: [[erhaben]], [[groß]], [[erhöht]], [[steil]], [[ragend]]
+Antonyme: [[niedrig]], [[flach]], [[kurz]], [[klein]]
 
 ---
 **Übersetzung**:
-high, tall
+high, tall, elevated
+
+---
+#Adjective [[hoch]]
+
+---
+Morpheme:
+[[hoch]]
 
 ---
 
-Tags: 
-#Adjective [[hoch]]
 
-nicht [[niedrig]][[mittel]][[speziellen]], [[runter]], [[hochziehen]]
+Einzigartige mögliche Formen: 
+[[hoch]], [[hoher]], [[hohe]], [[hohes]], [[hohen]], [[hohem]], [[hoher]], [[hohen]]
+[[höher]], [[höherer]], [[höhere]], [[höheres]], [[höheren]], [[höherem]], [[höherer]], [[höheren]]
+[[höchsten]], [[höchster]], [[höchste]], [[höchstes]], [[höchsten]], [[höchstem]], [[höchster]], [[höchsten]]
+'''

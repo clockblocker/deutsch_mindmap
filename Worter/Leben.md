@@ -60,3 +60,4 @@ Morpheme: [[leb]][[en]]
 
 Partizip I: [[lebend]], Partizip II: [[gelebt]]
 [[leben]] - keine Vorsilbe
+, [[Geschäftsleben]]

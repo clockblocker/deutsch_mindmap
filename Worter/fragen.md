@@ -1,4 +1,4 @@
-🔍 [[fragen]] + Akk., [ˈfʁaːɡən]
+🙋 [[fragen]] + Akk., [ˈfʁaːɡən]
 [[fragte]]
 haben [[gefragt]]
 

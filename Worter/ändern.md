@@ -9,6 +9,8 @@ haben [[geändert]]
 
 Doch dann erklärte uns die Feuernation den Krieg und alles [[änderte]] sich. 
 
+[[Daran]] [[ändern]] auch die [[explodierenden]] Preise nichts.
+
 ---
 Synonyme: [[verändern]], [[umändern]], [[modifizieren]], [[wandeln]], [[umwandeln]], 
 Antonyme: [[beibehalten]], [[lassen]], [[konservieren]], [[erhalten]], [[fixieren]]

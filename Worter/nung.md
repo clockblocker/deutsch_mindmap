@@ -1,1 +1,1 @@
-[[Rechnung]], [[Berechnung]], [[Hoffnung]]
+[[Rechnung]], [[Berechnung]], [[Hoffnung]], [[Meinung]]

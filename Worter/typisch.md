@@ -1,1 +1,1 @@
-[[normal]]
+[[normal]], [[durchschnittliches]]

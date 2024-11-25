@@ -1,1 +1,1 @@
-[[erzählen]], [[erklären]], [[wegzaubern]], [[zugeben]], [[enthüllen]]
+[[erzählen]], [[erklären]], [[wegzaubern]], [[zugeben]], [[enthüllen]], [[sehen lassen]]

@@ -72,4 +72,4 @@ small, little
 Tags: 
 #Adjective [[klein]]
 
-nicht [[Groß]][[mittel]], [[breit]], [[gewaltigen]], [[gewaltig]]
+nicht [[Groß]][[mittel]], [[breit]], [[gewaltigen]], [[gewaltig]], [[hoch]]

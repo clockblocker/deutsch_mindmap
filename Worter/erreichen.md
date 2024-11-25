@@ -1,1 +1,1 @@
-, [[kriegen]], [[aufgeben]]
+, [[kriegen]], [[aufgeben]], [[erzielen]], [[erreichten]], [[reichen]]

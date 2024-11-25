@@ -1,1 +1,1 @@
-[[regeln]], [[brutzeln]], [[krabbeln]]
+[[regeln]], [[brutzeln]], [[krabbeln]], [[widerspiegeln]]

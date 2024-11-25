@@ -1,1 +1,1 @@
-[[erzählen]][[reden]], [[klingen]], [[klopfen]], [[vorlesen]], [[sprechen]], [[knistern]], [[rufen]], [[schnarchen]], [[Zischen]], [[jaulen]], [[telefonieren]]
+[[erzählen]][[reden]], [[klingen]], [[klopfen]], [[vorlesen]], [[sprechen]], [[knistern]], [[rufen]], [[schnarchen]], [[Zischen]], [[jaulen]], [[telefonieren]], [[grummeln]], [[Antworten]]

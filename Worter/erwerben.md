@@ -1,1 +1,1 @@
-[[Übernehmen]], [[verdienen]]
+[[Übernehmen]], [[verdienen]], [[kaufen]]

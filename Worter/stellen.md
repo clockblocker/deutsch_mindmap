@@ -13,6 +13,7 @@ ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 [[hinstellen]] - [[hin]] = [[stellen]] / to put
 [[darstellen]] - [[dar]] = [[stellen]] / to represent
 [[zusammenstellen]] - [[zusammen]] = [[stellen]] / составлять / собирать
+[[feststellen]] - [[fest]] = [[stellen]] // to determine
 
 
 
@@ -73,4 +74,4 @@ to place, to put, to set
 ---
 
 **Morphems of only infinitive:**  
-- [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]]
+- [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]]

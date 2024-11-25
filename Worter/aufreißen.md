@@ -1,1 +1,1 @@
-, [[reißen]]
+, [[reißen]], [[aufzukriegen]]

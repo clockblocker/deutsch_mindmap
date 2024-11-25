@@ -1,1 +1,1 @@
-, [[aufgeben]]
+, [[aufgeben]], [[bemühen]]

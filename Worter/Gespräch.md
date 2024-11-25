@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gesprächs]], [[Gespräche]], [[Gesprächen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neutrum, [[Partygespräch]]

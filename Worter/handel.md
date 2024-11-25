@@ -1,4 +1,3 @@
-
 🔵 der [[Handel]], [ˈhandl̩]
 die [[Handel]]
 

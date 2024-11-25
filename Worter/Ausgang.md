@@ -15,3 +15,4 @@ Synonyme:
 
 ---
 #Substantiv #Masculine
+, [[Ergebnis]]

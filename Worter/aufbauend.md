@@ -1,1 +1,1 @@
-, [[aufbauen]]
+, [[aufbauen]], [[explodierenden]]

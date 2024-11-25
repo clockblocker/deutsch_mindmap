@@ -1,1 +1,1 @@
-[[drücken]][[wehtun]]
+[[drücken]][[wehtun]], [[mühen]]

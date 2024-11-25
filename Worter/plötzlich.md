@@ -6,6 +6,9 @@
 
 [[Plötzlich]] leuchtet das Wasser unter der Eisscholle hellblau auf
 
+([[Plötzlich]] munter) 
+Willst du mit mir Pinguinschlitten fahren?
+
 ---
 Synonyme: [[unerwartet]], [[unverhofft]], [[abrupt]], [[schlagartig]], [[urplötzlich]]
 Antonyme: [[erwartbar]], [[allmählich]], [[schrittweise]]

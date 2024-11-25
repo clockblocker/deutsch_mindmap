@@ -5,6 +5,8 @@ haben [[gehoben]]
 ---
 Ein paar Tiger-Seelöwen [[heben]] verwundert die Köpfe und jaulen.
 
+Appa! Alles okay bei dir? *([[Hebt]] ein Augenlid von Appa [[hoch]])* Wach auf Kumpel!
+
 ---
 [[erheben]] - [[er]] = [[heben]]
 

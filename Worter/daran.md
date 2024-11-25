@@ -13,6 +13,9 @@ Ja, ich denke [[daran]].
 
 Aber ich glaube fest [[daran]], Aang kann diese Welt retten.
 
+
+Ihr durchschnittliches Einkommen, sagt die Künstlersozialkasse, liegt bei 10000 Euro im Jahr. [[Daran]] ändern auch die explodierenden Preise nichts.
+
 ---
  [[hattest]] du nicht [[daran]] gedacht, es zu schließen, Brigitte?
 

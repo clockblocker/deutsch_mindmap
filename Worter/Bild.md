@@ -24,4 +24,4 @@ Alle Formen:
 | Nominative  | das Bild          | die Bilder       |
 | Accusative  | das Bild          | die Bilder       |
 | Dative      | dem Bild          | den Bildern      |
-| Genitive    | des Bildes        | der Bilder       |
+| Genitive    | des Bildes        | der Bilder       |, [[Bildgefühl]]

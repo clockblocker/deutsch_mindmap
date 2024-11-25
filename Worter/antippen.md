@@ -1,9 +1,11 @@
 👆 [[antippen]] + Akk, [ˈantɪpn̩]
 [[tippte an|tippte an]]  
-haben [[angekippt]]
+haben [[angetippt]]
 
 ---
 Ganz recht! _Sokka [[tippt]] sie mit dem Ellenbogen [[an]]_ Meinen herzlichen Glückwunsch!
+
+Sag du es uns! Wie bist du in das Eis gekommen und warum bist du gar nicht erfroren? ([[Tippt]] Aang mit dem der Rückseite des Speers an)
 
 
 ---

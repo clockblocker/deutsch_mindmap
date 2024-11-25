@@ -10,4 +10,4 @@ um 7 Uhr
 [[herum]], 
 [[umziehen]], 
 [[umdrehen]],
-[[umgeben]], [[telefonieren]]
+[[umgeben]], [[telefonieren]], [[umsehen]]

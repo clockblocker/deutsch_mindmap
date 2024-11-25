@@ -1,1 +1,1 @@
-[[hinlegen]], [[loswerden]], [[unterbrechen]], [[auftauchten]]
+[[hinlegen]], [[loswerden]], [[unterbrechen]], [[auftauchten]], [[verkaufen]]

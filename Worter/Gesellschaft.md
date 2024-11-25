@@ -15,7 +15,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Gesell]][[schaft]]
+[[Gesell]][[Schaft]]
 
 ---
 Einzigartige mögliche Formen: [[Gesellschaft]], [[Gesellschaften]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaften]]

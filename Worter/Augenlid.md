@@ -1,8 +1,9 @@
 🔴 das [[Augenlid]]
 die [[Augenlider]]
 
-Beispiele:
-- Die [[Augenlider]] zu erpressen
+---
+Appa! Alles okay bei dir? *(Hebt ein [[Augenlid]] von Appa hoch)* Wach auf Kumpel!
+
 ---
 Synonyme:
 - [[Lid]], [[Augendeckel]]

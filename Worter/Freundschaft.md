@@ -17,7 +17,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Freund]][[schaft]]
+[[Freund]][[Schaft]]
 
 ---
 #Substantiv #Feminin

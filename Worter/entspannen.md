@@ -1,1 +1,1 @@
-, [[spannen]], [[anspannen]]
+, [[spannen]], [[anspannen]], [[mühen]]

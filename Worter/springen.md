@@ -9,6 +9,10 @@ Eines Tages aber sprang aus einem Busch ein Leopard auf den Hirsch und brachte i
 *mit leichtem Mut und Sing und Sang,*  
 
 ---
+[[aufspringen]] - [[auf]] = [[springen]]
+
+
+---
 Synonyme: [[hüpfen]], [[hopsen]], [[hüpfen]], [[springen]], [[sprudeln]], [[kullern]]
 Antonyme: [[stehenbleiben]], [[sitzen]], [[liegen]], [[hängen]], [[gehen]]
 
@@ -33,4 +37,4 @@ Morpheme: [[spring]][[en]]
 | Sie       | [[springen]]         | [[sprangen]]          | [[springen Sie]]  | [[springen]]           | [[sprången]]            |
 
 Partizip I: [[springend]], Partizip II: [[gesprungen]]
-, [[kriechen]]
+, [[kriechen]], [[aufspringen]]

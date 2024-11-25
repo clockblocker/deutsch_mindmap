@@ -1,0 +1,1 @@
+Sag du es uns! Wie bist du in das Eis gekommen und warum bist du gar nicht erfroren? (Tippt Aang mit dem der Rückseite des Speers an)

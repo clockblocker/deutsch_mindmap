@@ -1,1 +1,1 @@
-[[wehtun]]
+[[wehtun]], [[mühen]]

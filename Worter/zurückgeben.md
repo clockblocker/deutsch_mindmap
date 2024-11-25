@@ -1,1 +1,1 @@
-[[stehlen]], [[leihen]], [[rauben]]
+[[stehlen]], [[leihen]], [[rauben]], [[kaufen]]

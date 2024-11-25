@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[National]][[mann]][[schaft]]
+[[National]][[mann]][[Schaft]]
 
 ---
 Einzigartige mögliche Formen: [[Nationalmannschaft]], [[Nationalmannschaften]]

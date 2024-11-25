@@ -30,4 +30,4 @@ Morpheme: [[ver]][[such]][[en]]
 Partizip I: [[versuchend]], Partizip II: [[versucht]]
 
 [[versuchen]] - [[ver]] = [[suchen]]
-''', [[s1 e1]]
+''', [[s1 e1]], [[bemühen]]

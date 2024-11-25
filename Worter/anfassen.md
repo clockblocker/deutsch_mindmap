@@ -3,7 +3,7 @@
 haben [[angefasst]]
 
 ---
-Dann wollen wir schaffen, komm, [[anfassen|fass' an]] 
+*Dann wollen wir schaffen, komm, [[anfassen|fass' an]]* 
 
 ---
 
@@ -61,4 +61,4 @@ to touch, to handle, get to work
 ---
 
 **Morphems of only infinitive:**  
-- [[an]][[fassen]]
+- [[an]][[fassen]], [[schaffen]]

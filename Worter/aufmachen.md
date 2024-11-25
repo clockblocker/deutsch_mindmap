@@ -35,3 +35,4 @@ Morpheme: [[auf]][[mach]][[en]]
 Partizip I: [[aufmachend]], Partizip II: [[aufgemacht]]
 
 [[aufmachen]] - [[auf]] = [[machen]]
+, [[aufzukriegen]]

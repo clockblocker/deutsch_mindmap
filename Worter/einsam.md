@@ -4,6 +4,9 @@ nicht [[gesellig]], [[allein]]
 ---
 Sie fühlte sich aber [[einsam]] und schwach.
 
+Dort kann man für nicht einmal 50 Euro zwischen Sommerblumen, einem Haus in [[einsamer]] Landschaft oder einer Straße im Nebel wählen.
+
+
 ---
 Synonyme: 
 [[vereinzelt]], [[verlassen]], [[alleinig]], [[isoliert]], [[abgelegen]]
@@ -26,3 +29,5 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[einsam]], [[einsamere]], [[einsamste]], [[einsamster]], [[einsameres]], [[einsamem]], [[einsameren]], [[einsamsten]]
+[[einsamer]], [[einsamerer]], [[einsamere]], [[einsameres]], [[einsameren]], [[einsamarem]], [[einsamarer]], [[einsamaren]]
+[[einsame]], [[einsamere]], [[einsamste]], [[einsamstes]], [[einsamsten]], [[einsamstem]], [[einsamster]], [[einsamsten]]
