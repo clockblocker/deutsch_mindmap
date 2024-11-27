@@ -1,43 +1,30 @@
-📞 [[anrufen]]  
+📞 [[anrufen]] + Akk, [ˈanruːfn̩]
 [[rief an|rief an]]  
 haben [[angerufen]]
 
 ---
 
----
-
-**Synonyme:**
-
-- [[telefonieren]], [[kontaktieren]], [[zurückrufen]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[rufe an|rufe]] meinen Freund an.
-- Du [[rufst an|rufst]] die Firma an.
-- Er [[ruft an|ruft]] seine Eltern an.
-- Es [[ruft an|ruft]] niemanden an.
-- Sie [[ruft an|ruft]] die Schule an.
-- Wir [[rufen an|rufen]] den Arzt an.
-- Ihr [[ruft an|ruft]] den Kunden an.
-- Sie [[rufen an|rufen]] die Polizei an.
+Synonyme: [[telefonieren]], [[kontaktieren]], [[anklingeln]], [[durchklingeln]], [[wählen]]
+Antonyme: [[auflegen]], [[ignorieren]], [[schweigen]]
 
 ---
-
-**Übersetzung**:
-to call (on the phone)
+Übersetzung: to call (on the phone)
 
 ---
+Morpheme: [[an]][[ruf]][[en]]
  #Verb  #Trennbar
+ 
 
----
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[rufe an]] | [[rief an]] | - | [[rufe an]] | [[riefe an]] |
+| Du | [[rufst an]] | [[riefst an]] | [[ruf an]] | [[rufest an]] | [[riefest an]] |
+| Er/sie/es | [[ruft an]] | [[rief an]] | - | [[rufe an]] | [[riefe an]] |
+| Wir | [[rufen an]] | [[riefen an]] | - | [[rufen an]] | [[riefen an]] |
+| Ihr | [[ruft an]] | [[rieft an]] | [[ruft an]] | [[rufet an]] | [[riefet an]] |
+| Sie | [[rufen an]] | [[riefen an]] | [[rufen Sie an]] | [[rufen an]] | [[riefen an]] |
 
-**Präteritum:**
-
-- Ich [[rief an|rief]] meinen Freund an.
-- Du [[riefst an|riefst]] die Firma an.
-- Er [[rief an|rief]] seine Eltern an.
-- Es [[rief an|rief]] niemanden an.
-- Sie [[rief an|rief]] die Schule an.
--​⬤
+Partizip I: [[anrufend]], Partizip II: [[angerufen]], Zu Infinitiv: [[anzurufen]], 
+[[anrufen]] - [[an]] = [[rufen]]

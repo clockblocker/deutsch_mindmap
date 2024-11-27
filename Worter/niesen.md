@@ -1,60 +1,31 @@
-🤧 [[niesen]]
-[[niest]]
-haben [[geniesst]]
+🤧 [[niesen]], [ˈniːzən]
+[[nieste]]
+haben [[geniest]]
 
 ---
-Synonyms:
-- [[schniefen]]
-- [[husten]]
-- [[schnauben]]
+(Bekommt den [[Nieser]] ab) Uäh!! Iehh!! (Reibt sich am Boden um alles wieder abzubekommen)
 
 ---
-Beispiele:
-
-- Ich [[niese]] in den Taschentuch.
-- Du [[niest]] häufig in der Allergiesaison.
-- Er [[niest]] schon den ganzen Tag.
-- Es [[niest]] manchmal sehr laut.
-- Sie [[niest]] immer, wenn sie eine Erkältung hat.
-- Wir [[niesen]] oft zusammen, wenn wir draußen sind.
-- Ihr [[niest]] alle, wenn die Pollen fliegen.
-- Sie [[niesen]] gerne in die Sonne.
+Synonyme: [[schnäuzen]], [[prusten]], [[ausatmen]]
+Antonyme: [[einatmen]], [[schweigen]], [[stillstehen]]
 
 ---
-**Übersetzung**:
-to sneeze
+Übersetzung: to sneeze
+
+---
+Morpheme: [[nies]][[en]]
+ #Verb  #Untrennbar
 
 ---
 
-Tags:
-#Verb
-#Ablaut | #Schwache
-#Unregelmäßige | #Regelmäßige
+| Person    | Präsens   | Präteritum | Imperativ    | Konjunktiv I | Konjunktiv II |
+| --------- | --------- | ---------- | ------------ | ------------ | ------------- |
+| Ich       | [[niese]] | [[nieste]] | -            | [[niese]]    | [[niesete]]   |
+| Du        | [[niest]] | [[niestest]]| [[niese]]    | [[niesest]]  | [[niestest]]  |
+| Er/sie/es | [[niest]] | [[nieste]] | -            | [[niese]]    | [[niesete]]   |
+| Wir       | [[niesen]]| [[niestetn]]| -            | [[niesen]]   | [[nieseten]]  |
+| Ihr       | [[nieest]]| [[niestet]] | [[nieest]]   | [[nieset]]   | [[niesetet]]  |
+| Sie       | [[niesen]]| [[niestetn]]| [[niesen Sie]]| [[niesen]]   | [[nieseten]]  |
 
----
-Präteritum:
-- Ich [[nieste]] oft im Frühling.
-- Du [[niestest]] nach dem Staubsaugen.
-- Er [[nieste]] gestern mehrere Male.
-- Es [[nieste]] [[kurz]], dann war es vorbei.
-- Sie [[nieste]] mehrmals, als sie das Haus betrat.
-- Wir [[niesten]] in der Bibliothek.
-- Ihr [[niestet]] nach dem Aufstehen.
-- Sie [[niesten]] bei jedem Spaziergang.
-
----
-
-Imperativ:
-- Ich [[niese]] jetzt.
-- Du [[niest]] bitte leise.
-- Er [[niest]] schnell und leise.
-- Es [[niest]] nicht mehr laut.
-- Sie [[niest]] gelegentlich.
-- Wir [[niesen]] zusammen, wenn wir allergisch sind.
-- Ihr [[niest]] leise in das Taschentuch.
-- Sie [[niesen]] sanft.
-
----
-
-Morphems of only infinitive:
-- [[nies]][[en]]
+Partizip I: [[niesend]], Partizip II: [[geniest]]
+[[niesen]] - = [[niesen]]

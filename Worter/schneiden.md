@@ -34,3 +34,4 @@ Morpheme: [[schneid]][[en]]
 
 Partizip I: [[schneidend]], Partizip II: [[geschnitten]]
 
+, [[stechen]]

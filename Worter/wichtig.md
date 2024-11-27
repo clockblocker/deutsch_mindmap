@@ -30,4 +30,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[wichtig]], [[wichtiger]], [[wichtige]], [[wichtiges]], [[wichtigen]], [[wichtigem]], [[wichtiger]], [[wichtigen]]
-[[wichtigste]], [[wichtigster]], [[wichtigste]], [[wichtigstes]], [[wichtigsten]], [[wichtigstem]], [[wichtigster]], [[wichtigsten]], [[notwendig]]
+[[wichtigste]], [[wichtigster]], [[wichtigste]], [[wichtigstes]], [[wichtigsten]], [[wichtigstem]], [[wichtigster]], [[wichtigsten]], [[notwendig]], [[egal]]

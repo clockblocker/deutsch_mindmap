@@ -1,28 +1,23 @@
-💙 [[vergangen]], [fɛɐˈɡaŋɡən]
-nicht [[zukünftig]], nicht [[anwesend]]
+vergangen, [fɛɐ̯ˈɡaŋən]
+nicht [[zukünftig]]
 
 ---
-Meine Großmutter erzählte mir oft Geschichten über eine längst [[vergangene]] Zeit, von einer Zeit des Friedens. 
+Meine Großmutter [[erzählte]] mir oft [[Geschichten]] über eine längst [[vergangene]] Zeit, von einer Zeit des [[Friedens]].
 
 ---
-Synonyme: [[früher]], [[vormalig]], [[damalig]], [[vorherig]], [[ehemalig]]
-Antonyme: [[zukünftig]], [[gegenwärtig]], [[aktuell]], [[anwesend]], [[bevorstehend]]
+Synonyme: [[vorig]], [[früher]], [[vorherig]], [[vormals]], [[ehemals]]
+Antonyme: [[zukünftig]], [[kommend]], [[gegenwärtig]], [[aktuell]]
 
 ---
 **Übersetzung**:
-past, former, gone by
+past, previous, bygone
 
 ---
-#Adjektiv [[vergangen]]
-
----
-Morpheme:
-[[ver]][[gang]][[en]]
-
----
+#Adjective [[vergangen]]
 
 
 Einzigartige mögliche Formen: 
-[[vergangen]], [[vergangene]], [[vergangenes]], [[vergangener]], [[vergangenem]], [[vergangenen]]
-[[vergangener]], [[vergangenes]], [[vergangener]], [[vergangenes]], [[vergangener]], [[vergangenem]], [[vergangener]], [[vergangenen]]
-[[vergangenste]], [[vergangenster]], [[vergangenstes]], [[vergangenster]], [[vergangensten]], [[vergangstem]], [[vergangenster]], [[vergangensten]], [[ehemalige]]
+[[vergangen]], [[vergangener]], [[vergangene]], [[vergangenes]], [[vergangenen]], [[vergangenem]], [[vergangener]], [[vergangenen]]
+[[vergangener]], [[vergangener]], [[vergangene]], [[vergangenes]], [[vergangenen]], [[vergangenem]], [[vergangener]], [[vergangenen]]
+[[vergangendsten]], [[vergangendster]], [[vergangendste]], [[vergangendsten]], [[vergangendsten]], [[vergangendstens]], [[vergangendster]], [[vergangendsten]]
+'''

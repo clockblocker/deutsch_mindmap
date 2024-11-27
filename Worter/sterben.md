@@ -35,4 +35,4 @@ Morpheme: [[sterb]][[en]]
 | Sie       | [[sterben]] | [[starben]] | [[sterben Sie]] | [[sterben]]  | [[stürben]]   |
 
 Partizip I: [[sterbend]], Partizip II: [[gestorben]]
-[[sterben]] - [[st]] = [[erb]]
+[[sterben]] - [[st]] = [[erb]], [[blühen]]

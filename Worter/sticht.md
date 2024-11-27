@@ -1,0 +1,1 @@
+🔪 [[stechen]] | 🔵 der [[Stich]]

@@ -1,1 +1,1 @@
-, [[verwirrt]], [[blindes]], [[anschauliche]]
+, [[verwirrt]], [[blindes]], [[anschauliche]], [[klar]], [[kund]]

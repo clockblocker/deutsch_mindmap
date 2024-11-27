@@ -1,1 +1,1 @@
-[[liebsten]], [[wichtig]], [[notwendig]]
+[[liebsten]], [[wichtig]], [[notwendig]], [[egal]]

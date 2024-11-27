@@ -1,1 +1,1 @@
-[[einfachen]], [[einfach]]
+[[einfachen]], [[einfach]], [[klar]]

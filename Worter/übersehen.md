@@ -1,1 +1,1 @@
-[[spüren]][[kontrollieren]][[verstehen]][[ansehen]], [[bemerken]], [[erkennen]], [[recherchieren]], [[zählen]], [[entdeckten]], [[sehen]], [[gucken]], [[ausmachen]], [[witterten]], [[checken]], [[erleben]], [[umsehen]]
+[[spüren]][[kontrollieren]][[verstehen]][[ansehen]], [[bemerken]], [[erkennen]], [[recherchieren]], [[zählen]], [[entdeckten]], [[sehen]], [[gucken]], [[ausmachen]], [[witterten]], [[checken]], [[erleben]], [[umsehen]], [[durchchecken]]

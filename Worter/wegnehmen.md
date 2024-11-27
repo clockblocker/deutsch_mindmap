@@ -1,1 +1,1 @@
-[[setzen]], [[hinstellen]], [[schenken]], [[nachbringen]]
+[[setzen]], [[hinstellen]], [[schenken]], [[nachbringen]], [[hinbringen]]

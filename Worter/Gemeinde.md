@@ -1,1 +1,1 @@
-, [[Stadt]], [[Minderheit]]
+, [[Stadt]], [[Minderheit]], [[Dorf]]

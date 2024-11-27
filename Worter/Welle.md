@@ -5,6 +5,9 @@ die [[Wellen]]
 ---
 Katara und Sokka halten sich an der Eisscholle fest und werden mit ihr von einer [[Welle]] weggespült.
 
+*Auf den [[Wellen]] wird gefochten*  
+*Wo Fisch und Fleisch zur See geflochten*  
+
 ---
 Synonyme:
 - [[Brandung]], [[Dünung]], [[Flut]], [[Meereswelle]], [[Schwingung]]

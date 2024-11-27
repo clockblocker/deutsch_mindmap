@@ -1,5 +1,6 @@
 🕰️ [[damals]], [ˈdaːmals]
 
+
 ---
 [[Damals]] sorgte der Avatar für Harmonie zwischen den Wasserstämmen, dem Erdkönigreich, der Feuernation und den Luftnomaden. 
 
@@ -15,4 +16,5 @@ Morpheme:
 [[da]][[mals]]
 
 ---
-#Adverb #Temporaladverb, [[bald]]
+#Adverb #Temporaladverb, [[bald]]🕰️ [[damals]]
+

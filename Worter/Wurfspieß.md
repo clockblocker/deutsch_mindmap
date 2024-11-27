@@ -1,1 +1,1 @@
-, [[Pfeil]]
+, [[Pfeil]], [[Lanz]]

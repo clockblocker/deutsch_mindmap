@@ -25,4 +25,4 @@ Tags:
 
 Morphems:
 [[hin]]
-[[hinaus]][[hinlegen]], [[hinstellen]], [[hinhören]], [[Extra 8]], [[schicken]], [[stellen]]
+[[hinaus]][[hinlegen]], [[hinstellen]], [[hinhören]], [[Extra 8]], [[schicken]], [[stellen]], [[hinbringen]]

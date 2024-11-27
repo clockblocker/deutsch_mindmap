@@ -1,1 +1,1 @@
-, [[näherkommen]], [[kommen]]
+, [[näherkommen]], [[kommen]], [[abbekommen]]

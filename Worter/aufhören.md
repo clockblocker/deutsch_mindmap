@@ -1,1 +1,1 @@
-[[scheiden]][[bestehen]][[regnen]], [[anfangen]], [[dauern]], [[sein]], [[losschießen]], [[aufgehen]], [[Tropfen]], [[leben]]
+[[scheiden]][[bestehen]][[regnen]], [[anfangen]], [[dauern]], [[sein]], [[losschießen]], [[aufgehen]], [[Tropfen]], [[leben]], [[qualmen]]

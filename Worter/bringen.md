@@ -68,4 +68,4 @@ to bring
 ---
 
 **Morphems of only infinitive:**  
-- [[bring]][[en]][[abholen]], [[nachbringen]]
+- [[bring]][[en]][[abholen]], [[nachbringen]], [[hinbringen]]

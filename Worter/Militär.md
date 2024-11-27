@@ -1,1 +1,1 @@
-, [[Soldat]]
+, [[Soldat]], [[Heer]]

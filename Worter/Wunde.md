@@ -1,1 +1,1 @@
-, [[Narbe]]
+, [[Narbe]], [[Stich]]

@@ -1,4 +1,3 @@
-
 🔴 die [[Vorsicht]], [foɐ̯ˈzɪçt]
 die [[Vorsichten]]
 

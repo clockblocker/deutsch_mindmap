@@ -34,5 +34,32 @@
       ],
       "key": "G"
     }
+  ],
+  "cbcr-filler-de:get-infinitive-and-emoji": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "cbcr-filler-de:duplicate-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "cbcr-filler-de:translate-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
   ]
 }

@@ -32,4 +32,4 @@ Morpheme: [[ab]][[hol]][[en]]
 
 Partizip I: [[abholend]], Partizip II: [[abgeholt]]
 
-[[abholen]] - [[ab]] = [[holen]]
+[[abholen]] - [[ab]] = [[holen]], [[hinbringen]]

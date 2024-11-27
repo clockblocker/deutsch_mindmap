@@ -13,6 +13,8 @@ SASCHA: Wir [[beide]] sprechen uns noch …
 *ein Häuflein Asche bleibt allein*  
 *und [[beide]] Schuh, so hübsch und fein.
 
+ [[Wer von uns beiden]]
+Auf [[beiden]] Tellern waren Saftige Happen! 
 
 ---
 Synonyme: [[jeder]], [[alle]], [[zusammen]], [[insgesamt]], [[ganz]]
@@ -34,3 +36,5 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[beide]], [[beider]], [[beiden]], [[beides]], [[Extra 8]]
+
+[[klein]]

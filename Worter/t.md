@@ -1,1 +1,1 @@
-[[getrennt]][[abgepackt]], [[berühmt]], [[beeindruckt]], [[IPA]], [[bemannt]], [[verirrt]], [[verwirrt]], [[verletzt]], [[wehrten]], [[verbrannt]], [[gebückt]], [[erledigt]]
+[[getrennt]][[abgepackt]], [[berühmt]], [[beeindruckt]], [[IPA]], [[bemannt]], [[verirrt]], [[verwirrt]], [[verletzt]], [[wehrten]], [[verbrannt]], [[gebückt]], [[erledigt]], [[lichten]]

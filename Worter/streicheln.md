@@ -1,1 +1,1 @@
-, [[hauen]]
+, [[hauen]], [[stechen]]

@@ -1,1 +1,1 @@
-[[Übernehmen]][[holen]], [[Trinken]], [[haben]], [[loswerden]], [[kriegen]], [[gehören]], [[nehm]]
+[[Übernehmen]][[holen]], [[Trinken]], [[haben]], [[loswerden]], [[kriegen]], [[gehören]], [[nehm]], [[abbekommen]]

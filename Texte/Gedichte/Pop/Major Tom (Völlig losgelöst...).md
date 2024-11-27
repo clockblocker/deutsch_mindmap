@@ -1,5 +1,3 @@
-	https://www.youtube.com/watch?v=KQRaj1vcnrs
-
 Gründlich durchgecheckt steht sie da  
 Und wartet auf den Start, alles klar  
 Experten streiten sich um ein paar Daten  

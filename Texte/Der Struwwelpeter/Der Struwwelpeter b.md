@@ -33,14 +33,26 @@ Garstger Struwwelpeter!
 https://www.youtube.com/watch?v=93s5rHx1S8o
 ![[Pasted image 20240815083927.png]]
 
-Der _Friederich_, der Friederich  
+Der Friederich, der Friederich  
 das war ein arger Wüterich!  
 Er fing die Fliegen in dem Haus  
+
 und riß ihnen die Flügel aus.  
+und [[ausreißen|riß]] ihnen die [[Flügel]] aus.
+
+Er schlug die Stühl und Vögel tot,  
+Er [[totschlagen|schlug]] die [[Stuhl|Stühl]] und [[Vogel|Vögel]] tot,
+
 Er schlug die Stühl und Vögel tot,  
 die Katzen litten große Not.  
 Und höre nur, wie bös er war:  
 Er peitschte seine Gretchen gar!
+
+Er schlug die Stühl und Vögel tot,  
+Er [[totschlagen|schlug]] die [[Stuhl|Stühl]] und [[Vogel|Vögel]] tot,
+die [[Katze|Katzen]] [[leiden|litten]] große [[Not]].
+Und [[hören|höre]] nur, wie [[böse|bös]] er war:
+Er [[peitschen|peitschte]] seine Gretchen [[gar]]!
 
 ![[Pasted image 20240815083950.png]]
 Am Brunnen stand ein großer Hund,  
@@ -232,6 +244,10 @@ Da kommt der wilde Jägersmann
 zuletzt beim tiefen Brünnchen an.  
 Er springt hinein. Die Not war groß;  
 es schießt der Has die Flinte los.
+Da kommt der [[wild|wilde]] [[Jägersmann]]
+[[zuletzt]] beim [[tief|tiefen]] [[Brünnchen]] an.
+Er [[springen|springt]] [[hinein]]. Die [[Not]] [[sein|war]] [[groß]];
+es [[schießen|schießt]] der [[Hase|Has]] die [[Flinte]] [[auslösen|los]].
 
 Des Jägers Frau am Fenster saß  
 und trank aus ihrer Kaffeetaß.  

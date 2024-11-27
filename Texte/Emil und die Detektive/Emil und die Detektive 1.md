@@ -24,8 +24,10 @@ In der Stube saß eine Frau und [[hielt]] den Kopf über das weiße [[Waschbecke
 Und es klang, als spräche wer, der in [[Schlagsahne]] untergetaucht worden ist. 
 
 --Erst hatte er zwar keine rechte Lust -, sagte die Mutter und schrubbte die Bäckermeisterin. 
+
 --Aber wozu soll der Junge die Ferien hier totschlagen? 
 Er kennt Berlin überhaupt noch nicht. 
+
 Und meine Schwester Martha hat uns schon immer mal einladen wollen. 
 Ihr Mann verdient ganz anständig. 
 Er ist bei der Post. 
@@ -38,6 +40,12 @@ Sie treffen sich am Blumenkiosk.
 
 
 --Berlin wird ihm sicher gefallen. Das ist was für Kinder. Wir waren vor anderthalb Jahren mit dem Kegelklub drüben. So ein Rummel! Da gibt es doch wirklich Straßen, die nachts genau so hell sind wie am Tage. Und die Autos! - berichtete Frau Wirth aus der Tiefe des Waschbeckens. 
+
+--Berlin will certainly please him. This is something for children. We were with the bowling club over there one and a half years ago. Such a hustle and bustle! There are truly streets that are just as bright at night as during the day. And the cars! - reported Mrs. Wirth from the depths of the washbasin.
+
+[[Berlin]] [[werden|wird]] ihm [[sicher]] [[gefallen]]. Das ist was für [[Kinder]]. [[Wir]] [[sein|waren]] vor [[anderthalb]] [[Jahr|Jahren]] mit dem [[Kegelklub]] [[drüben]]. So ein [[Rummel]]! Da [[geben|gibt]] es doch [[wirklich]] [[Straße|Straßen]], die nachts [[genau]] so [[hell]] [[sein|sind]] wie am [[Tag|Tage]]. Und die [[Auto|Autos]]! - [[berichten|berichtete]] [[Frau]] [[Wirth]] aus der [[Tiefe]] des [[Waschbecken|Waschbeckens]].
+
+
 --Sehr viele ausländische Wagen? - fragte Emil. 
 --Woher soll ich denn das wissen? - sagte Frau Wirth und mußte niesen. Ihr war Seifenschaum in die Nase gekommen. 
 --Na, nun mach aber, daß du fertig wirst -, drängte die Mutter. 

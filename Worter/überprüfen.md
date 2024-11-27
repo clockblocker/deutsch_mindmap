@@ -1,1 +1,1 @@
-[[kontrollieren]], [[checken]]
+[[kontrollieren]], [[checken]], [[durchchecken]]

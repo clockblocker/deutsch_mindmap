@@ -35,4 +35,4 @@ Morpheme: [[krieg]][[en]]
 | Sie       | [[kriegen]]          | [[kriegten]]          | [[kriegen Sie]]   | [[kriegen]]            | [[kriegten]]            |
 
 Partizip I: [[kriegend]], Partizip II: [[gekriegt]]
-, [[verdienen]], [[aufzukriegen]]
+, [[verdienen]], [[aufzukriegen]], [[abbekommen]]

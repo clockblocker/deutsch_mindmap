@@ -7,7 +7,9 @@ das war ein [[arger]] [[Wüterich]]!
 Er [[fing]] die [[fliegen]] in dem Haus  
 und [[ausrissen|riß]] ihnen die [[Flügel]] aus.  
 Er [[schlug]] den [[Stuhl]] und [[Vogel]] [[tot]],  
-die Katzen [[litten]] [[große Not]].  
+die [[Katzen]] [[litten]] [[große Not]].  
+
+[[arger]]
 
 Und höre [[nur]], [[wie]] [[bös]] er war:  
 Er [[peitschen|peitschte]] seine Gretchen [[gar]]!

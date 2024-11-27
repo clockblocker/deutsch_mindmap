@@ -31,4 +31,4 @@ Morpheme: [[check]][[en]]
 Partizip I: [[checkend]], Partizip II: [[gecheckt]]
 '''
 
-Note: This is a colloquial, borrowed verb from English that has been integrated into German language usage. The conjugation follows typical German verb patterns, but is less formal and more conversational.
+Note: This is a colloquial, borrowed verb from English that has been integrated into German language usage. The conjugation follows typical German verb patterns, but is less formal and more conversational., [[durchchecken]]

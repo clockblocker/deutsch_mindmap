@@ -8,6 +8,11 @@ nicht [[grob]], [[grobkörnig]]
 *ein Häuflein Asche bleibt allein*  
 *und beide Schuh, so hübsch und [[fein]].*
 
+*Sie will es und so ist es [[fein]]*  
+*So war es und so wird es immer sein*  
+*Sie will es und so ist es Brauch*  
+*Was sie will, bekommt sie auch*
+
 ---
 Synonyme: [[subtil]], [[zart]], [[delikat]], [[elegant]], [[feinfühlig]]
 Antonyme: [[grob]], [[klobig]], [[plump]], [[ungeschliffen]], [[unfeinfühlig]]

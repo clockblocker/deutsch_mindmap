@@ -1,1 +1,1 @@
-[[Beruf]], [[rufen]]
+[[Beruf]], [[rufen]], [[anrufen]]

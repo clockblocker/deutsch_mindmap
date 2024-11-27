@@ -65,4 +65,4 @@ Morphems:
 
 [[Leibe geht durch den Magen]], [[durchs]]
 
- [[durch]], [dʊʁç], [[durchknallen]], [[knallen]], [[durchgeknallt]], [[durchschnittliches]]
+ [[durch]], [dʊʁç], [[durchknallen]], [[knallen]], [[durchgeknallt]], [[durchschnittliches]], [[durchchecken]]

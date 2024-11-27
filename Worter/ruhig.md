@@ -1,9 +1,14 @@
 ruhig, [ˈʀuːɪ̯ç]
 nicht [[unruhig]]
 
+ohne inere und äusere Bevegung 
+
 ---
 SASCHA: Aber ich weiß, wie ich [[ruhig]] bleiben kann 
 (Ich will) Ich will die [[Ruhe]] stören  
+
+Bleib [[ruhig]]!
+
 
 ---
 [[beruhigen]] - [[be]] = [[ruhig]]

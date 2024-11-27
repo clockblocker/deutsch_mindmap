@@ -6,7 +6,7 @@ nicht [[laut]], [[ruhig]]
 *und schlich davon ganz leis und still.*
 
 ---
-Synonyme: [[leise]], [[geräuschlos]], [[stumm]], [[mäuschenstill]], [[unhörbar]], [[ruhig]], [[leis]]
+Synonyme: [[leise]], [[ruhig]], [[geräuschlos]], [[stumm]], [[mäuschenstill]], [[unhörbar]], [[ruhig]], [[leis]]
 Antonyme: [[laut]], [[geräuschvoll]], [[tosend]], [[lärmend]], [[schallend]]
 
 ---

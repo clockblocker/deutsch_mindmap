@@ -1,1 +1,1 @@
-[[speziellen]], [[gewaltigen]], [[gewaltig]]
+[[speziellen]], [[gewaltigen]], [[gewaltig]], [[klein]]

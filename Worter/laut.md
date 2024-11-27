@@ -1,1 +1,1 @@
-nicht [[leise]], [[leis]], [[still]], [[Flüsternd]]
+nicht [[leise]], [[leis]], [[still]], [[Flüsternd]], [[stumm]]

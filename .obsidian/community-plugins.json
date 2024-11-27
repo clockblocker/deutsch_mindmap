@@ -1,13 +1,10 @@
 [
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "table-editor-obsidian",
   "better-word-count",
   "omnisearch",
-  "dataview",
-  "excalibrain",
   "copilot",
   "obsidian-icon-folder",
-  "cbcr-filler-de",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "cbcr-filler-de"
 ]

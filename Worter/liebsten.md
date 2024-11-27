@@ -4,6 +4,9 @@ sehr [[gern]]
 ---
 Ist die [[Fernsehwerbung]] nicht toll?  Am [[liebsten]] mag ich …  
 
+*So [[sprach]] sie ihren [[Liebsten]] [[an]]*  
+*Ob er es ihr steigen kann
+
 ---
 Synonyme: 
 - [[favorit]], [[bevorzugt]], [[beliebt]], [[präferiert]], [[wichtigst]]

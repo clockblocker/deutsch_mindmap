@@ -38,4 +38,4 @@ Partizip I: [[rufend]], Partizip II: [[gerufen]]
 
 [[rufen]] - kein Präfix
 
-[[schreien]]
+[[schreien]], [[anrufen]]

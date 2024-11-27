@@ -2,7 +2,7 @@
 nicht [[warm]]
 
 ---
-
+given "eisigen", reply with 🥶 [[eisig]]
 
 ---
 Synonyme: [[frostig]], [[kalt]], [[gefroren]], [[glatt]], [[steif]]

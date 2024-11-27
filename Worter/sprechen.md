@@ -31,3 +31,4 @@ Morpheme: [[sprech]][[en]]
 
 Partizip I: [[sprechend]], Partizip II: [[gesprochen]]
 
+, [[ansprechen]]
