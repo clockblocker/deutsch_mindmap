@@ -27,4 +27,4 @@ Tags:
 ---
 
 Morphems:
-[[dran]]
+[[dran]], [[Früh]]

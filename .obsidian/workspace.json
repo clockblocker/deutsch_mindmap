@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abb11722c037d159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Gedichte/Pop/Major Tom (Völlig losgelöst...).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Major Tom (Völlig losgelöst...)"
-            }
-          },
-          {
             "id": "e3232feff3aa502d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/durchchecken.md",
+                "file": "Worter/herausziehen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "durchchecken"
+              "title": "herausziehen"
             }
           },
           {
@@ -265,10 +251,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Gedichte/Pop/Major Tom (Völlig losgelöst...).md"
+                "file": "Worter/herausziehen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Major Tom (Völlig losgelöst...)"
+              "title": "Outline of herausziehen"
             }
           }
         ],
@@ -289,39 +275,38 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "abb11722c037d159",
+  "active": "e3232feff3aa502d",
   "lastOpenFiles": [
-    "Texte/Gedichte/Misc/Es ist was es ist.md",
-    "Texte/Gedichte/Kinder/Backe, backe Kuchen.md",
-    "Texte/Gedichte/Folk/Zum Tanze, da geht ein Mädel.md",
-    "Texte/Gedichte/Folk/Was wollen wir trinken.md",
-    "Texte/Gedichte/Folk/Hänschen klein.md",
-    "Texte/Gedichte/Folk/Es klappert die Mühle am rauschenden Bach.md",
-    "Texte/Gedichte/Folk/Die Gedanken sind frei.md",
-    "Texte/Gedichte/Folk/Der Mond ist aufgegangen.md",
-    "Worter/aufgegangen.md",
-    "Worter/aufgehen.md",
-    "Texte/Gedichte/Folk/Alle meine Entchen.md",
-    "Texte/Emil und die Detektive/Emil und die Detektive 1.md",
-    "Texte/Gedichte/Kinder/Hänschen klein.md",
-    "Texte/Der Struwwelpeter/Der Struwwelpeter b.md",
-    "Texte/Der Struwwelpeter/2 Die gar traurige Geschichte mit dem Feuerzeug.md",
-    "Texte/Gedichte/Rammstein/Reise, reise.md",
-    "Texte/Gedichte/Rammstein/Rosenrot (lied).md",
-    "Texte/Gedichte/Rammstein/Sonne (das lied).md",
-    "Texte/Gedichte/Rammstein/Du riechst so gut.md",
-    "Texte/Gedichte/Rammstein/Mann Gegen Mann.md",
-    "Texte/Gedichte/Rammstein/Ich Will.md",
-    "Texte/Gedichte/Rammstein/Haifisch.md",
-    "Texte/Gedichte/Rammstein/Feuer frei!.md",
-    "Texte/Gedichte/Pop/Revolverheld - Lass Uns Gehen.md",
-    "Texte/Gedichte/Kinder/Ein Männlein steht im Walde.md",
-    "Texte/Gedichte/Kinder/Ringel, Ringel, Reihe.md",
+    "Texte/Gedichte/Rammstein/Ausländer.md",
+    "Worter/Missverständnis.md",
+    "Worter/Unklarheit.md",
+    "Worter/-nis.md",
+    "Worter/miss.md",
+    "Worter/Fehlinterpretation.md",
+    "Worter/Mehrdeutigkeit.md",
+    "Worter/Verwirrung.md",
+    "Worter/Fehldeutung.md",
+    "Worter/Missverständnisse.md",
+    "Worter/ander.md",
+    "Worter/Früh.md",
+    "Worter/frühesten.md",
+    "Worter/früheres.md",
+    "Worter/frühe.md",
+    "Worter/frühesteʼm.md",
+    "Worter/frühestes.md",
+    "Worter/frühesteʼs.md",
+    "Worter/frühester.md",
+    "Worter/früherem.md",
+    "Worter/frühere.md",
+    "Worter/früherer.md",
+    "Worter/früheren.md",
+    "Worter/frühem.md",
+    "Worter/frühen.md",
+    "Worter/frühes.md",
     "Texte/b1",
     "Anhänge/Pasted image 20241112104051.png",
     "Texte/Avatar",

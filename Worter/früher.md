@@ -1,1 +1,1 @@
-[[nachher]], [[hinterdrein]], [[vergangen]], [[bald]], [[ehemaligen]], [[ehemalige]], [[bisher]]
+[[nachher]], [[hinterdrein]], [[vergangen]], [[bald]], [[ehemaligen]], [[ehemalige]], [[bisher]], [[Früh]]
