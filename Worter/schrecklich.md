@@ -13,4 +13,4 @@ Die [[klingt]] ja schrecklich! 
 ---
 
 #Adjektiv
-, [[toll]], [[Schlimmer]], [[Extra 8]], [[einfachfantastisch]]
+, [[toll]], [[Schlimmer]], [[Extra 8]], [[einfachfantastisch]], [[furchtbar]]

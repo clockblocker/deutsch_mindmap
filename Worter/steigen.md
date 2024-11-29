@@ -13,6 +13,8 @@ Bei den Kunstauktionen in London [[stieg]] der Umsatz in den letzten Jahren kont
 *So [[sprach]] sie ihren Liebsten [[an]]*  
 *Ob er es ihr [[steigen]] kann
 
+(Hebt die Hand um zu protestieren) Äh. ([[Steigt]] auf Appa)
+
 ---
 [[versteigen]] - [[ver]] = [[steigen]]
 

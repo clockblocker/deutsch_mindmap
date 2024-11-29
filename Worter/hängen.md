@@ -6,7 +6,9 @@ haben [[gehangen]]
 Ihre Frisur war aufgelöst und [[hing]] wie drei Pfund Wolle nach unten. 
 
 ---
-+[[ein]] = [[einhängen]]
+[[einhängen]] - [[ein]] = [[hängen]]
+[[abhängen]] - [[ab]] = [[hängen]]
+
 
 ---
 Synonyme: [[aufhängen]], [[befestigen]], [[binden]], [[aufhängen]], [[montieren]]
@@ -32,4 +34,4 @@ Morpheme: [[hängen]]
 
 Partizip I: [[hängend]], Partizip II: [[gehangen]]
 
-, [[einhängen]], [[springen]]
+, [[einhängen]], [[springen]], [[abhängen]]

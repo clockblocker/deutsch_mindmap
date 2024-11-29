@@ -1,1 +1,1 @@
-, [[spannen]]
+, [[spannen]], [[strecken]]

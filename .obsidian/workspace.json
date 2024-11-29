@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3232feff3aa502d",
+            "id": "6688e384eabc8f4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/herausziehen.md",
+                "file": "Texte/Avatar/s1 e1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "herausziehen"
+              "title": "s1 e1"
+            }
+          },
+          {
+            "id": "1032695d2a30e039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/selbst.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "selbst"
             }
           },
           {
@@ -189,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -251,10 +266,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worter/herausziehen.md"
+                "file": "Texte/Avatar/s1 e1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of herausziehen"
+              "title": "Outline of s1 e1"
             }
           }
         ],
@@ -262,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,34 +295,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e3232feff3aa502d",
+  "active": "6688e384eabc8f4e",
   "lastOpenFiles": [
-    "Texte/Gedichte/Rammstein/Ausländer.md",
-    "Worter/Missverständnis.md",
-    "Worter/Unklarheit.md",
-    "Worter/-nis.md",
-    "Worter/miss.md",
-    "Worter/Fehlinterpretation.md",
-    "Worter/Mehrdeutigkeit.md",
-    "Worter/Verwirrung.md",
-    "Worter/Fehldeutung.md",
-    "Worter/Missverständnisse.md",
-    "Worter/ander.md",
-    "Worter/Früh.md",
-    "Worter/frühesten.md",
-    "Worter/früheres.md",
-    "Worter/frühe.md",
-    "Worter/frühesteʼm.md",
-    "Worter/frühestes.md",
-    "Worter/frühesteʼs.md",
-    "Worter/frühester.md",
-    "Worter/früherem.md",
-    "Worter/frühere.md",
-    "Worter/früherer.md",
-    "Worter/früheren.md",
-    "Worter/frühem.md",
-    "Worter/frühen.md",
-    "Worter/frühes.md",
+    "Worter/begegnet.md",
+    "Worter/begegnen.md",
+    "Worter/gegnen.md",
+    "Worter/begegnend.md",
+    "Worter/begegnen Sie.md",
+    "Worter/begegnetet.md",
+    "Worter/begegneten.md",
+    "Worter/begegnetest.md",
+    "Worter/begegnest.md",
+    "Worter/begegne.md",
+    "Worter/gegn.md",
+    "Worter/encountern.md",
+    "Worter/begegnete.md",
+    "Worter/treffen.md",
+    "Worter/wiedersehen.md",
+    "Texte/Avatar/s1 e1.md",
+    "Worter/Ah.md",
+    "Worter/Ahnung.md",
+    "Worter/Vorahnung.md",
+    "Worter/Verdacht.md",
+    "Worter/offenbar.md",
+    "Worter/offenbartes.md",
+    "Worter/offenbarste.md",
+    "Worter/offenbarster.md",
+    "Worter/offenbarsten.md",
+    "Worter/offenbarerem.md",
     "Texte/b1",
     "Anhänge/Pasted image 20241112104051.png",
     "Texte/Avatar",

@@ -1,0 +1,1 @@
+🔵 [[möglich]] | die [[Möglichkeit]]

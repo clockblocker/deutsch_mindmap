@@ -1,1 +1,1 @@
-[[Schlecht]], [[Schlimmer]], [[arg]], [[böse]]
+[[Schlecht]], [[Schlimmer]], [[arg]], [[böse]], [[furchtbar]]

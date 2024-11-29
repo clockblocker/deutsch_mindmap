@@ -7,6 +7,8 @@ Ein paar Tiger-Seelöwen [[heben]] verwundert die Köpfe und jaulen.
 
 Appa! Alles okay bei dir? *([[Hebt]] ein Augenlid von Appa [[hoch]])* Wach auf Kumpel!
 
+([[Hebt]] die Hand um zu protestieren) Äh. (Steigt auf Appa)
+
 ---
 [[erheben]] - [[er]] = [[heben]]
 

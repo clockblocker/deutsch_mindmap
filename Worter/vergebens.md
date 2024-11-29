@@ -3,6 +3,7 @@
 ---
 Ich möchte nicht, dass Ihr Euch [[vergebens]] Hoffnungen macht. 
 
+Euer Vater, Großvater und Urgroßvater, alle haben es versucht und alle [[vergebens]].
 
 ---
 Synonyme: [[umsonst]], [[erfolglos]], [[fruchtlos]], [[zwecklos]], [[verlorenmühe]]

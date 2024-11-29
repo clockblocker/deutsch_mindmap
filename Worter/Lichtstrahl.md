@@ -7,6 +7,8 @@ Durch das Loch, das Katara in den Eisberg gehauen hat, strömt ein [[Lichtstrahl
 
 Ein junger Mann mit einem Pferdeschwanz und einer Narbe im Gesicht starrt den [[Lichtstrahl]] an._
 
+Fette [[Lichtstrahlen]], ein Himmelsbison, ein Luftbändiger. Ich leide wohl an Mitternachtssonne Wahnsinn! (Dreht sich um und geht) 
+
 ---
 Synonyme:
 - [[Strahl]], [[Strahlung]], [[Lichtquelle]], [[Leuchtstrahl]], [[Leuchte]]
@@ -22,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lichtstrahls]], [[Lichtstrahl]], [[Lichtstrahle]], [[Lichtstrahlen]]
 
 ---
-#Substantiv #Neutrum, [[s1 e1]]
+#Substantiv #Neutrum, [[s1 e1]], [[Lichtblitz]]

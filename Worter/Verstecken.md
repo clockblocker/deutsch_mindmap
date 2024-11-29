@@ -64,4 +64,4 @@ to hide
 ---
 
 **Morphems of only infinitive:**  
-- [[ver]][[steck]][[en]]
+- [[ver]][[steck]][[en]], [[versteckspielen]]

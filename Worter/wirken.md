@@ -61,4 +61,4 @@ to appear, to seem, to have an effect
 ---
 
 **Morphems of only infinitive:**  
-- [[Wirk]][[en]], [[aussehen]]
+- [[Wirk]][[en]], [[aussehen]], [[spinnen]]

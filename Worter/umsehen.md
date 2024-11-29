@@ -7,6 +7,8 @@ _Aang springt auf, [[umsehen|sieht]] [[sich]] [[um]] und Sokka geht in Kampfstel
 
 *Aang [[sieht]] [[sich]] [[wieder]] [[um]] und klettert schnell den Eisberg hinauf.*
 
+(Sieht sich um) Wirklich? Ich dachte, es wäre höher gewesen!
+
 ---
 Synonyme: [[umschauen]], [[herumschauen]], [[umblicken]], [[orientieren]], [[erkunden]]
 Antonyme: [[ignorieren]], [[übersehen]], [[wegschauen]]

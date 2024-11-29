@@ -1,4 +1,4 @@
-🕸️ [[spinnen]]
+🌀[[spinnen]] + Akk, [ˈʃpɪnən]
 [[spann]]
 haben [[gesponnen]]
 
@@ -6,74 +6,32 @@ haben [[gesponnen]]
 SASCHA:[[ Ich hab’s gewusst]]. Was machst du nur? [[Spinnst]] du?  
 SASCHA: Hey, [[Spinnst]] du? Sprich nicht so mit meinem Freund!  
 
-
-
----
-
-Synonyme:
-- [[verrückt sein]], [[durchdrehen]], [[flausen im kopf haben]]
+Ich gehe nach Hause, da [[spinnt]] wenigstens keiner. (Bleibt stehen und merkt, dass er auf offenem Meer ist)
 
 ---
-
-Beispiele:
-
-- Ich [[Spinne]] nicht, ich weiß genau, was ich tue.
-- Du [[Spinnst]] doch, das kann nicht wahr sein!
-- Er [[spinnt]] manchmal, wenn er müde ist.
-- Wir [[spinnen]] den Plan weiter.
-- Ihr [[spinnt]] wohl, so viel Geld dafür auszugeben!
-- Sie [[spinnen]] Geschichten, die nicht wahr sind.
+Synonyme: [[weben]], [[stricken]], [[wirken]], [[phantasieren]], [[träumen]]
+Antonyme: [[ernstmachen]], [[realistisch sein]], [[rational denken]]
 
 ---
-**Übersetzung**: to be crazy (colloquial), to spin
+Übersetzung: to spin; to be crazy (colloquial)
 
 ---
+Morpheme: [[spinn]][[en]]
+ #Verb  #Untrennbar
 
-Morphems of only infinitive:
-[[spinn]][[en]]
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[spinne]] | [[spann]] | - | [[spinne]] | [[spönne]] |
+| Du | [[spinnst]] | [[spannst]] | [[spinn]] | [[spinnest]] | [[spönnest]] |
+| Er/sie/es | [[spinnt]] | [[spann]] | - | [[spinne]] | [[spönne]] |
+| Wir | [[spinnen]] | [[spannen]] | - | [[spinnen]] | [[spönnen]] |
+| Ihr | [[spinnt]] | [[spannt]] | [[spinnt]] | [[spinnet]] | [[spönnet]] |
+| Sie | [[spinnen]] | [[spannen]] | [[spinnen Sie]] | [[spinnen]] | [[spönnen]] |
 
----
-Tags:
-#Verb
-#Unregelmäßige
+Partizip I: [[spinnend]], Partizip II: [[gesponnen]]
 
----
-
-Präteritum:
-
-- Ich [[spann]] das Garn.
-- Du [[spannst]] ein Netz.
-- Er [[spann]] eine Geschichte.
-- Wir [[spannen]] ein Seil.
-- Ihr [[spanntet]] einen Faden.
-- Sie [[spannen]] weiter an der Idee.
-
----
-
-Imperativ:
-
-- [[Spinn nicht]] so rum!
-- [[Spinnt]] euch was Besseres aus!
-- [[Spinnen wir]] die Idee weiter!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[Spinne]] manchmal.
-- Sie meint, du [[spinnest]] dir was zusammen.
-- Er behauptet, er [[Spinne]] nur im Spaß.
-- Wir erklären, wir [[spinnen]] keine Lügen.
-- Ihr sagt, ihr [[spinnet]] manchmal wilde Geschichten.
-- Sie sagen, sie [[spinnen]] keine Märchen.
-
----
-
-Konjunktiv II:
-
-- Wenn ich wüsste, dass du Recht hast, [[spönne]] ich nicht so.
-- Wenn du müde wärst, [[spönnest]] du nicht herum.
-- Wenn er sich konzentrieren könnte, [[spönne]] er keine Flausen.
-- Wenn wir mehr Zeit hätten, [[spännen]] wir die Idee weiter.
-- Wenn ihr das wüsstet, [[spönnet]] ihr nicht.
-- Wenn sie nicht so aufgeregt wären, [[spännen]] sie keine Geschichten.
+Zusätzliche Bedeutungen:
+1. Technisches Verb: Fasern zu Garn oder Faden verarbeiten
+2. Umgangssprachlich: verrückte Ideen entwickeln, fantasieren
+3. Dialektal: sich benehmen, handeln
+, [[umwerfen]]

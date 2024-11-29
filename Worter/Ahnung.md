@@ -1,25 +1,23 @@
-Singular: die [[Ahnung]]
-Plural: die [[Ahnungen]]
-
-Beispiele:
-- [[Keine Ahnung]]
+🤷 🔴 die [[Ahnung]], [ˈaːnʊŋ]
+die [[Ahnungen]]
 
 ---
-Translation:
-idea, notion, clue
+Ich habe mich gerade gefragt, da du ja offenbar ein Luftbändiger bist. Vielleicht hast du ja eine [[Ahnung]] was mit dem Avatar passiert ist.
 
 ---
-
-#Substantiv
-#Feminine
+Synonyme:
+- [[Vermutung]], [[Verdacht]], [[Eindruck]], [[Vorahnung]], [[Gefühl]]
 
 ---
+Übersetzung: idea, notion, inkling, suspicion
 
-Alle Formen:
+---
+Morpheme:
+[[Ah]][[nung]]
 
-| Case        | Singular           | Plural          |
-|-------------|--------------------|-----------------|
-| Nominative  | die Ahnung         | die Ahnungen    |
-| Accusative  | die Ahnung         | die Ahnungen    |
-| Dative      | der Ahnung         | den Ahnungen    |
-| Genitive    | der Ahnung         | der Ahnungen    |
+---
+#Substantiv #Feminin
+
+Einzigartige mögliche Formen:
+[[Ahnung]], [[Ahnung]], [[Ahnung]], [[Ahnung]]
+[[Ahnungen]], [[Ahnungen]], [[Ahnungen]], [[Ahnungen]]

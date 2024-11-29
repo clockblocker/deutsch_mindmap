@@ -28,4 +28,4 @@ Morpheme: [[schubs]][[en]]
 
 Partizip I: [[schubsend]], Partizip II: [[geschubst]]
 
-[[schubsen]] - Keine Vorsilbe = [[schubs]]
+[[schubsen]] - Keine Vorsilbe = [[schubs]], [[wegschubsen]]

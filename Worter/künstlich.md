@@ -1,1 +1,1 @@
-, [[digen]], [[echten]], [[gewachsene]]
+, [[digen]], [[echten]], [[gewachsene]], [[echt]]

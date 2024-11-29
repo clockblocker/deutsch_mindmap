@@ -3,12 +3,13 @@
 haben [[gereicht]]
 
 ---
+Weil ihre Ehre nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es [[reicht]]!
 
 ---
 [[erreichen]] - [[er]] = [[reichen]]
 
 ---
-Synonyme: [[ausreichen]], [[genügen]], [[hinreichen]], [[zureichen]], [[ausreichend sein]]
+Synonyme: [[ausreichen]], [[genug]], [[hinreichen]], [[zureichen]], [[ausreichend sein]]
 Antonyme: [[fehlen]], [[mangeln]], [[unzureichend sein]]
 
 ---

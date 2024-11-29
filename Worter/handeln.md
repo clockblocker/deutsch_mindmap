@@ -32,4 +32,4 @@ Morpheme: [[handel]][[en]]
 
 Partizip I: [[handelnd]], Partizip II: [[gehandelt]]
 
-[[handeln]] - untrennbar, [[tun]], [[warten]]
+[[handeln]] - untrennbar, [[tun]], [[warten]], [[abwarten]]

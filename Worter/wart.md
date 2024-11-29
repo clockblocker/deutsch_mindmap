@@ -1,1 +1,1 @@
-, [[sein]], [[warten]]
+, [[sein]], [[warten]], [[abwarten]]

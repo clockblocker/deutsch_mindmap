@@ -1,40 +1,26 @@
 [[selbst]]
 
+---
 *Die Brille hat das Häschen jetzt*  
 *sich [[selbst]] auf seine Nas gesetzt;*  
 
----
+Prinz Zuko, Ihr braucht auch ein wenig Schlaf. [[Selbst]] wenn Ihr Recht haben solltet und der Avatar wirklich am Leben ist, Ihr werdet ihn nicht finden. 
 
-[[ich selbst]]
-[[mich selbst]]
-[[dich selbst]]
-[[sich selbst]]
-[[uns selbst]]
-[[euch selbst]]
-[[sich selbst]]
 
 ---
+Synonyme: 
+- [[eigenständig]], [[persönlich]], [[individuell]]
+- [[sogar]], [[noch]]
 
-Synonyme:
-- [[eigenhändig]], [[persönlich]], [[ohne fremde Hilfe]]
-
----
-Beispiele:
-
-- Ich habe es [[selbst]] gemacht.
-- Du musst es [[selbst]] entscheiden.
-- Sie ist [[selbst]] hingegangen.
+Antonyme: 
+- [[fremdbestimmt]], [[abhängig]]
+- [[nicht einmal]]
 
 ---
-**Übersetzung**:
-self, oneself
+Übersetzung: 
+- myself/yourself/himself/herself/itself
+- even
+- on one's own
 
 ---
-
-Tags: 
-#Pronoun
-
----
-Morphems:
-[[selbst]]
-, [[eigene]]
+#Adverb #Partikel

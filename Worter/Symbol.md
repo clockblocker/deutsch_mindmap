@@ -1,1 +1,1 @@
-, [[Buchstabe]]
+, [[Buchstabe]], [[Zeichen]]

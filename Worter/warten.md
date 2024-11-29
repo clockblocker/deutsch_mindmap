@@ -15,6 +15,10 @@ Alle [[warten]] auf das Licht
 *Und [[warte]] hier im Daunenbeet*  
 *Bis die Sonne untergeht*
 
+---
+[[abwarten]] - [[ab]] = [[warten]]
+
+
 
 ---
 Synonyme: [[abwarten]], [[erwarten]], [[zuwarten]], [[verweilen]], [[ausharren]]

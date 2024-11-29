@@ -5,6 +5,9 @@ haben [[gegrinst]]
 ---
 _Du findest also, dass ich ein Spinner bin, ja?! ([[grinst]]) 
 
+(Dreht sich um und merkt, dass Aang sie anguckt) Warum [[grinst]] du mich eigentlich so komisch an?
+
+
 ---
 Synonyme: [[lächeln]], [[schmunzeln]], [[kichern]], [[prusten]], [[glucksen]], [[lachen]]
 Antonyme: [[trauern]], [[weinen]], [[grinsen]]

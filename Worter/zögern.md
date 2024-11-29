@@ -1,1 +1,1 @@
-[[bereit]], [[losziehen]]
+[[bereit]], [[losziehen]], [[abwarten]]

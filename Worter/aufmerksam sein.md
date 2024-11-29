@@ -1,1 +1,1 @@
-, [[hinhören]]
+, [[hinhören]], [[gähnen]]

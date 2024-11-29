@@ -5,6 +5,9 @@ haben [[verdient]]
 ---
 Ihr Mann [[verdient]] ganz anständig. 
 
+So, ich gehe jetzt ins Bett! (Gähnt und streckt sich) Ja, das hab ich mir heute redlich [[verdient]]. 
+
+
 ---
 Synonyme: [[erwerben]], [[erhalten]], [[bekommen]], [[kriegen]], [[erlangen]]
 Antonyme: [[verlieren]], [[ausgeben]], [[verschwenden]]

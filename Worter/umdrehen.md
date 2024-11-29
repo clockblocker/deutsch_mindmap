@@ -9,6 +9,10 @@ Der Eisberg bekommt mehr Risse. Katara [[dreht]] [[sich]] [[um]] und sieht es nu
 
 Na, endlich! _[[Dreht]] [[sich]] [[um]]_ Onkel, wisst Ihr eigentlich was das bedeutet?
 
+Fette Lichtstrahlen, ein Himmelsbison, ein Luftbändiger. Ich leide wohl an Mitternachtssonne Wahnsinn! ([[Dreht]] [[sich]] [[um]] und geht) 
+
+([[Dreht]] [[sich]] [[um]] und merkt, dass Aang sie anguckt) Warum grinst du mich eigentlich so komisch an?
+
 ---
 Synonyme: [[wenden]], [[rotieren]], [[schwenken]], [[kreisen]], [[pendeln]]
 Antonyme: [[stillstehen]], [[fixieren]], [[verharren]]

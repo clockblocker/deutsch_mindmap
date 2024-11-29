@@ -17,6 +17,8 @@ NIC: Einen heißen Kaffee. Das hier wird ihm Feuer geben.
 *Jetzt schien die Sonne gar zu sehr,*  
 *da [[ward]] ihm sein Gewehr zu schwer.*  
 
+Prinz Zuko, Ihr braucht auch ein wenig Schlaf. Selbst wenn Ihr Recht haben solltet und der Avatar wirklich am Leben ist, Ihr [[werdet]] ihn nicht finden. 
+
 ---
 Wir werden eine Rise machen = Futur 
 Wir werden oft gefragt = Passiv
@@ -52,3 +54,4 @@ Morpheme:
 
 Partizip I: [[werdend]], Partizip II: [[geworden]]
 
+, [[sollen]]

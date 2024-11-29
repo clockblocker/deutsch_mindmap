@@ -1,20 +1,25 @@
 🔴 die [[Ehre]]
 die [[Ehren]]
 
-Beispiele:
-- STEFAN: Keine Ursache. Es ist mir eine [[Ehre]].  
+---
+STEFAN: Keine Ursache. Es ist mir eine [[Ehre]].  
+
+Weil ihre [[Ehre]] nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
 
 ---
 Synonyme:
-- [[Anerkennung]], [[würde]], [[Ruhm]]
+- [[Ruhm]], [[Ansehen]], [[Würde]], [[Prestige]], [[Reputation]]
 
 ---
-**Übersetzung**: honor
+Übersetzung: honor, dignity, reputation
 
 ---
-
-Morphems:
-[[Ehr]][[Worter/e]]
+Morpheme:
+[[Ehre]]
 
 ---
 #Substantiv #Feminin
+
+Einzigartige mögliche Formen:
+- Singular: [[Ehre]], [[Ehre]], [[Ehre]], [[Ehre]], [[Ehre]], [[Ehre]]
+- Plural: [[Ehren]], [[Ehren]], [[Ehren]], [[Ehren]], [[Ehren]], [[Ehren]]

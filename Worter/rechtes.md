@@ -1,1 +1,1 @@
-, [[rechte]]
+, [[rechte]], [[recht]]

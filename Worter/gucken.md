@@ -5,7 +5,11 @@ haben [[geguckt]]
 ---
 Katara und Sokka [[gucken]] [[erschrocken]] nach vorne.
 
-Sokka sieht Katara an und [[guckt]] dann auf den Eisberg vor ihnen. 
+Sokka sieht Katara an und [[guckt]] dann auf den Eisberg vor ihnen.
+
+---
+[[angucken]] - [[an]] = [[gucken]]
+
 
 ---
 Synonyme: [[schauen]], [[sehen]], [[beobachten]], [[betrachten]], [[blicken]]
@@ -37,4 +41,4 @@ Partizip I: [[guckend]], Partizip II: [[geguckt]]
 [[sehen]]
 [[schauen]]
 [[anblicken]]
-, [[s1 e1]]
+, [[s1 e1]], [[angucken]]

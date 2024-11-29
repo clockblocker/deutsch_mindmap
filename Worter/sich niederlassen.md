@@ -1,1 +1,1 @@
-, [[hocken]]
+, [[hocken]], [[sitzen]]

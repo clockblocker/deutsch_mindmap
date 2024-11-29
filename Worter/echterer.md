@@ -1,1 +1,1 @@
-, [[echten]]
+, [[echten]], [[echt]]

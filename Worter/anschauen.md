@@ -78,4 +78,4 @@ Konjunktiv II:
 - Wenn er hier wäre, [[schaute an|schaute]] er die Ausstellung [[an]].
 - Wenn wir dort wären, [[schauten an|schauten]] wir uns die Sehenswürdigkeiten [[an]].
 - Wenn ihr eingeladen wärt, [[schautet an|schautet]] ihr die Show [[an]].
-- Wenn sie die Möglichkeit hätten, [[schauten an|schauten]] sie die Bücher [[an]].
+- Wenn sie die Möglichkeit hätten, [[schauten an|schauten]] sie die Bücher [[an]]., [[angucken]]

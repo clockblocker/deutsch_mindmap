@@ -5,6 +5,10 @@ haben [[versucht]]
 ---
 Also wenn ich so ein Spinner wär wie du, dann würde ich [[versuchen]] die Leute damit nicht so zu nerven! 
 
+Hast du den Lichtblitz gesehen? Er hat sicher [[versucht]] der Feuermarine ein Zeichen zu geben!
+
+Euer Vater, Großvater und Urgroßvater, alle haben es [[versucht]] und alle vergebens.
+
 ---
 Synonyme: [[probieren]], [[wagen]], [[unternehmen]], [[anstreben]], [[wollen]]
 Antonyme: [[aufgeben]], [[lassen]], [[unterlassen]], [[meiden]], [[vermeiden]]

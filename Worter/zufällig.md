@@ -4,6 +4,7 @@ nicht [[vorsätzlich]], [[geplant]]
 ---
 Hast du zufällig mal an deinen dreckigen Socken gerochen?
 
+Willst du vielleicht warten bis [[zufällig]] ein anderes Monster vorbeikommt und dich nach Hause bringt?
 
 ---
 Synonyme: 

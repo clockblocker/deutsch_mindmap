@@ -34,4 +34,4 @@ Morpheme: [[spann]][[en]]
 
 Partizip I: [[spannend]], Partizip II: [[gespannt]]
 
-, [[anspannen]]
+, [[anspannen]], [[spinnen]], [[strecken]]

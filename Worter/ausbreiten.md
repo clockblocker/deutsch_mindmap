@@ -31,4 +31,4 @@ Morpheme: [[aus]][[breit]][[en]]
 
 Partizip I: [[ausbreitend]], Partizip II: [[ausgebreitet]]
 
-[[ausbreiten]] - [[aus]] = [[breiten]]
+[[ausbreiten]] - [[aus]] = [[breiten]], [[strecken]]

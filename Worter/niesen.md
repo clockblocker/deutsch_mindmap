@@ -5,6 +5,8 @@ haben [[geniest]]
 ---
 (Bekommt den [[Nieser]] ab) Uäh!! Iehh!! (Reibt sich am Boden um alles wieder abzubekommen)
 
+Ich bin A-Aan-Aa- Hatschu! ([[Niest]] und fliegt hoch in die Luft) Ich bin Aang.
+
 ---
 Synonyme: [[schnäuzen]], [[prusten]], [[ausatmen]]
 Antonyme: [[einatmen]], [[schweigen]], [[stillstehen]]

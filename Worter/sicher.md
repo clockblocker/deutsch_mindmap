@@ -14,6 +14,8 @@ Und du bist [[sicher]] Anna.
 
 ANNA: Das [[dauert]] [[sicher]] nur eine Woche …  
 
+Er hat [[sicher]] versucht der Feuermarine ein Zeichen zu geben!
+
 ---
 Synonyme: [[gewiss]], [[bestimmt]], [[zuverlässig]], [[sicher]], [[garantiert]]
 Antonyme: [[unsicher]], [[ungewiss]], [[riskant]], [[zweifelhaft]], [[prekär

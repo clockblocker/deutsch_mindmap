@@ -5,6 +5,8 @@ haben [[gedeutet]]
 ---
 Deutet auf den Eisberg
 
+([[Deutet]] auf Sokka) Der paranoide Typ hier ist mein Bruder Sokka. Du hast uns deinen Namen noch nicht gesagt!
+
 ---
 [[bedeuten]] - [[be]] = [[deuten]]
 

@@ -5,6 +5,9 @@ sein [[gekommen]]
 ---
 
 
+---
+[[vorbeikommen]] - [[vorbei]] = [[kommen]]
+
 
 ---
 Synonyme: [[ankommen]], [[erscheinen]], [[hinzukommen]], [[eintreffen]], [[gelangen]]
@@ -31,3 +34,4 @@ Morpheme: [[komm]][[en]]
 Partizip I: [[kommend]], Partizip II: [[gekommen]]
 
 [[weggehen]], [[ausreißen]], [[dorthin]], [[näherkommen]]
+, [[vorbeikommen]]

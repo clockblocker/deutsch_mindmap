@@ -53,4 +53,4 @@ to be able to, can
 ---
 
 **Morphems of only infinitive:**  
-- [[könn]][[en]]
+- [[könn]][[en]], [[sollen]]

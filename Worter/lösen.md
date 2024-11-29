@@ -41,3 +41,4 @@ Morpheme: [[lös]][[en]]
 Partizip I: [[lösend]], Partizip II: [[gelöst]]
 
 , [[festziehen]], [[einhängen]], [[spannen]], [[hängen]], [[ballen]], [[wringen]], [[auflösen]], [[ablösen]]
+, [[festsitzen]]

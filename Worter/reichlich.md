@@ -1,1 +1,1 @@
-, [[Kaum]]
+, [[Kaum]], [[genug]]

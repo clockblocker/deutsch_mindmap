@@ -1,56 +1,31 @@
-👉 [[sollen]]  
-[[sollte]]  
+🤔 [[sollen]] + Dat, [ˈzɔlən]
+[[sollte]]
 haben [[gesollt]]
 
 ---
+Prinz Zuko, Ihr braucht auch ein wenig Schlaf. Selbst wenn Ihr Recht haben [[solltet]] und der Avatar wirklich am Leben ist, Ihr werdet ihn nicht finden. 
+
+
 
 ---
-
-**Synonyme:**
-
-- [[müssen]], [[empfohlen sein]], [[beauftragt sein]]
+Synonyme: [[müssen]], [[haben zu]], [[werden]]
+Antonyme: [[können]], [[dürfen]], [[wollen]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[soll]] die Hausaufgaben machen.
-- Du [[sollst]] mehr Wasser trinken.
-- Er [[soll]] früh ins Bett gehen.
-- Es [[soll]] morgen regnen.
-- Sie [[soll]] ihren Chef anrufen.
-- Wir [[sollen]] pünktlich sein.
-- Ihr [[sollt]] den Raum verlassen.
-- Sie [[sollen]] die Regeln befolgen.
+Übersetzung: should, ought to, to be supposed to
 
 ---
+Morpheme: [[soll]][[en]]
+ #Verb  #Modal #Untrennbar
 
-**Übersetzung**:
-should, to be supposed to
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[soll]] | [[sollte]] | - | [[solle]] | [[sollte]] |
+| Du | [[sollst]] | [[solltest]] | [[soll]] | [[sollest]] | [[solltest]] |
+| Er/sie/es | [[soll]] | [[sollte]] | - | [[solle]] | [[sollte]] |
+| Wir | [[sollen]] | [[sollten]] | - | [[sollen]] | [[sollten]] |
+| Ihr | [[sollt]] | [[solltet]] | [[sollt]] | [[sollet]] | [[solltet]] |
+| Sie | [[sollen]] | [[sollten]] | [[sollen Sie]] | [[sollen]] | [[sollten]] |
 
----
- #Verb  #Modalverb
+Partizip I: [[sollend]], Partizip II: [[gesollt]]
 
----
-
-**Präteritum:**
-
-- Ich [[sollte]] die Hausaufgaben machen.
-- Du [[solltest]] mehr Wasser trinken.
-- Er [[sollte]] früh ins Bett gehen.
-- Es [[sollte]] morgen regnen.
-- Sie [[sollte]] ihren Chef anrufen.
-- Wir [[sollten]] pünktlich sein.
-- Ihr [[solltet]] den Raum verlassen.
-- Sie [[sollten]] die Regeln befolgen.
-
----
-
-**Imperativ:**
-
-- (Imperative forms are not used with modal verbs)
-
----
-
-**Morphems of only infinitive:**  
-- [[soll]][[en]]

@@ -1,4 +1,4 @@
-😥 [[leiden]]
+😥 [[leiden]] | leide an
 [[litt]]
 haben [[gelitten]]
 
@@ -8,6 +8,8 @@ haben [[gelitten]]
 
 *Ins Bett muß Friedrich nun hinein,*  
 *[[litt]] vielen Schmerz an seinem Bein;*  
+
+Fette Lichtstrahlen, ein Himmelsbison, ein Luftbändiger. Ich [[leide]] wohl [[an]] Mitternachtssonne Wahnsinn! (Dreht sich um und geht) 
 
 ---
 Synonyme: [[erdulden]], [[aushalten]], [[ertragen]], [[durchmachen]], [[ausstehen]]

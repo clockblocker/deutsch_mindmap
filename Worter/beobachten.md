@@ -1,1 +1,1 @@
-[[kontrollieren]], [[sehen]], [[gucken]]
+[[kontrollieren]], [[sehen]], [[gucken]], [[abwarten]]

@@ -1,1 +1,1 @@
-[[prima]], [[trefflich]]
+[[prima]], [[trefflich]], [[genug]]

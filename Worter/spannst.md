@@ -1,1 +1,1 @@
-, [[spannen]]
+, [[spannen]], [[spinnen]]

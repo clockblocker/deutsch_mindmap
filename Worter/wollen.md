@@ -53,4 +53,4 @@ to want
 ---
 
 **Morphems of only infinitive:**  
-- [[woll]][[en]], [[versuchen]]
+- [[woll]][[en]], [[versuchen]], [[sollen]]

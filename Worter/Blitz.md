@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Blitzes]], [[Blitz]], [[Blitze]], [[Blitzen]]
 
 ---
-#Substantiv #Maskulin, [[Wasserblase]]
+#Substantiv #Maskulin, [[Wasserblase]], [[Lichtblitz]]

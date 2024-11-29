@@ -14,6 +14,10 @@ ANNA: Und die Türe nicht zu … [[werfen]] …
 *Ein heißer Schrei, Feuer frei!*  
 
 ---
+[[umwerfen]] - [[um]] = [[werfen]]
+
+
+---
 Synonyme: [[schleudern]], [[schmeißen]], [[stoßen]], [[abwerfen]], [[loslassen]]
 Antonyme: [[fangen]], [[aufheben]], [[halten]]
 
@@ -40,4 +44,4 @@ Morpheme: [[werf]][[en]]
 
 Partizip I: [[werfend]], Partizip II: [[geworfen]]
 
-, [[Extra 8]]
+, [[Extra 8]], [[umwerfen]]

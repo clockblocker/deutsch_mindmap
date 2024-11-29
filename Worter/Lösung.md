@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lösung]], [[Lösung]], [[Lösungen]], [[Lösungen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Möglichkeit]]
