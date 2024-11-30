@@ -13,4 +13,4 @@ Tags:
 
 **Übersetzung**:
 back
-, [[vorwärts]], [[voraus]], [[zurückkehren]], [[kehren]], [[Rück]]
+, [[vorwärts]], [[voraus]], [[zurückkehren]], [[kehren]], [[Rück]], [[hinweg]]

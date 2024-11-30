@@ -21,4 +21,4 @@ floor, storey
 ---
 
 #Substantiv
-#Masculin, [[Keule]]
+#Masculin, [[Keule]], [[stab]]

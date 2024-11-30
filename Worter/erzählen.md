@@ -7,6 +7,8 @@ EDELTRAUT: Wenn ich das meiner Kusine [[erzähle]]!
 
 Meine Großmutter [[erzählte]] mir oft Geschichten über eine längst vergangene Zeit, von einer Zeit des Friedens. 
 
+Oh Mann, du [[erzählst]] einen Schwachsinn. Kein Mensch auf der Welt kann fliegen.
+
 ---
 Synonyme: [[berichten]], [[schildern]], [[mitteilen]], [[wiedergeben]], [[darlegen]]
 Antonyme: [[schweigen]], [[verheimlichen]], [[verschweigen]], [[unterdrücken]], [[verschleiern]]

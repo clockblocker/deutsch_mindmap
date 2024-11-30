@@ -1,1 +1,1 @@
-, [[springen]], [[losfahren]]
+, [[springen]], [[losfahren]], [[gleiten]]

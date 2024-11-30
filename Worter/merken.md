@@ -7,6 +7,9 @@ Ich gehe nach Hause, da spinnt wenigstens keiner. (Bleibt stehen und [[merkt]],
 
 (Dreht sich um und [[merkt]], dass Aang sie anguckt) Warum grinst du mich eigentlich so komisch an?
 
+_Aang schreckt hoch und [[merkt]], dass es nur ein Traum war._
+
+
 ---
 [[bemerken]] - [[be]] = [[merken]]
 

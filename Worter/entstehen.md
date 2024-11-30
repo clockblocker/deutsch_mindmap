@@ -1,1 +1,1 @@
-, [[werden]], [[aufgehen]]
+, [[werden]], [[aufgehen]], [[aussterben]]

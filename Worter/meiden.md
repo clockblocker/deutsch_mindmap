@@ -1,1 +1,1 @@
-[[wiedersehen]], [[benutzen]], [[treffen]], [[lecken]], [[stoßen]], [[versuchen]], [[verwenden]]
+[[wiedersehen]], [[benutzen]], [[treffen]], [[lecken]], [[stoßen]], [[versuchen]], [[verwenden]], [[bewohnen]]

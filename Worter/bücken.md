@@ -32,3 +32,4 @@ Morpheme: [[bück]][[en]]
 
 Partizip I: [[sich beugend]], Partizip II: [[gebeugt]]
 
+, [[verbeugen]], [[beugen]]

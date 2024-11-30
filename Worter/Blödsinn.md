@@ -1,1 +1,1 @@
-, [[Unsinn]]
+, [[Unsinn]], [[Schwachsinn]]

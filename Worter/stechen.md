@@ -31,3 +31,4 @@ Morpheme: [[stach]][[en]]
 Partizip I: [[stechend]], Partizip II: [[gestochen]]
 
 [[stechen]] = [[stach]]
+, [[spießen]]

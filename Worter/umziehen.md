@@ -32,3 +32,4 @@ Morpheme: [[um]][[zieh]][[en]]
 Partizip I: [[umziehend]], Partizip II: [[umgezogen]]
 
 [[umziehen]] - [[um]] = [[ziehen]]
+, [[wohnen]]

@@ -1,1 +1,1 @@
-[[arrangieren]], [[ausbreiten]]
+[[arrangieren]], [[ausbreiten]], [[ansammeln]]

@@ -21,3 +21,4 @@ Morphems:
 ---
 #Substantiv #Masculin
 
+, [[Schwachsinn]]

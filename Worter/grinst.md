@@ -1,1 +1,1 @@
-😁 [[grinsen]] + Akk, [ˈɡʁɪnzn̩], [[s1 e1]]
+😁 [[grinsen]] + Akk, [ˈɡʁɪnzn̩], [[s1 e1]], [[angrinsen]]

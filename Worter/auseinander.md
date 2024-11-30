@@ -1,4 +1,33 @@
-[[übereinander]]
+🔍 [[auseinander]], [ˌaʊ̯sˈʔaɪ̯nˌʔandɐ]
 
+---
 Mit einem Krachen bricht der Eisberg [[auseinander]] und versinkt im Wasser.
-, [[s1 e1]]
+
+[[auseinanderklapfen]]
+
+---
+Synonyme: [[separat]], [[getrennt]], [[unterschiedlich]], [[verstreut]]
+Antonyme: [[zusammen]], [[vereint]], [[gebündelt]]
+
+---
+Übersetzung: apart, separately, asunder
+
+---
+#Adverb #Präfix
+Morpheme: [[aus]][[einander]]
+
+Verwendungsbeispiele:
+- Die Kinder gingen [[auseinander]].
+- Die Gruppe löste sich [[auseinander]].
+- Die Teile fielen [[auseinander]].
+
+---
+Typische Verbindungen:
+- [[auseinandersetzen]]
+- [[auseinanderfallen]]
+- [[auseinanderbrechen]]
+- [[auseinanderliegen]]
+
+---
+
+[[übereinander]]

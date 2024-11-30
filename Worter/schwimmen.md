@@ -1,1 +1,1 @@
-, [[tauchten]], [[paddeln]]
+, [[tauchten]], [[paddeln]], [[gleiten]]

@@ -75,4 +75,4 @@ Konjunktiv II:
 - Wenn er gelassener wäre, [[erschräke]] er nicht bei jeder Kleinigkeit.
 - Wenn wir entspannter wären, [[erschräken]] wir uns nicht so schnell.
 - Wenn ihr ruhiger wäret, [[erschräket]] ihr euch nicht bei jedem Geräusch.
-- Wenn sie furchtlos wären, [[erschräken]] sie nicht bei plötzlichen Ereignissen.[[Überraschen]]
+- Wenn sie furchtlos wären, [[erschräken]] sie nicht bei plötzlichen Ereignissen.[[Überraschen]], [[hochschrecken]], [[schrecken]]

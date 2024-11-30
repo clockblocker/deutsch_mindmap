@@ -7,6 +7,8 @@ Plural: die [[Böden]]
 *Lässt dich hart zu [[Boden]] geh'n*
 *Und die Welt zählt laut bis zehn*
 
+Dann pass mal gut auf! (Nimmt seinen Gleiter auf den Rücken, stößt sich vom [[Boden]] ab und fliegt)
+
 ---
 Translation:
 floor, ground

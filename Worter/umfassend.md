@@ -1,1 +1,1 @@
-, [[weit]], [[gründlich]]
+, [[weit]], [[gründlich]], [[gesamt]]

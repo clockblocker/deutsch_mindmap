@@ -1,1 +1,1 @@
-, [[ausbreiten]], [[breiten]]
+, [[ausbreiten]], [[breiten]], [[auseinanderklapfen]]

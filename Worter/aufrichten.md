@@ -1,1 +1,1 @@
-[[bücken]], [[erheben]], [[einschlagen]]
+[[bücken]], [[erheben]], [[einschlagen]], [[beugen]]

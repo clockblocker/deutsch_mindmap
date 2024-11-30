@@ -1,1 +1,1 @@
-, [[ablösen]], [[wegschubsen]]
+, [[ablösen]], [[wegschubsen]], [[abstoßen]]

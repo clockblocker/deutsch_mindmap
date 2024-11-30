@@ -1,10 +1,10 @@
-[[einfach]]
-[[einfacher]]
-[[am]] [[einfachsten]]
+[[einfach]], [[einfacher]], [[am]] [[einfachsten]]
 
 nicht [[kompliziert]]/[[schwierig]]
 
 ---
+Nenn mich [[einfach]] GranGran.
+
 Bitte setzt Euch. Wieso nehmt Ihr nicht [[einfach]] eine Tasse [[beruhigenden]] Jasmintees zu euch?
 
 Warum haben Sie nicht [[einfach]] die Treppe genommen und sind in den zweiten Stock gelaufen?

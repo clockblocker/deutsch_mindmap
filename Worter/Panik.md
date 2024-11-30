@@ -6,7 +6,7 @@ NIC: Keine [[Panik]]! Ich bin da! Wo ist der [[Notfall]]?
 
 ---
 Synonyme:
-- [[Angst]], [[Furcht]], [[Schrecken]], [[Aufregung]], [[Bestürzung]], [[Entsetzen]]
+- [[Angst]], [[Furcht]], [[schrecken]], [[Aufregung]], [[Bestürzung]], [[Entsetzen]]
 
 ---
 Übersetzung: panic

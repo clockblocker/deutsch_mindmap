@@ -9,6 +9,9 @@ ANNA: Nun einmal mit dem [[Zauberstab]] [[klopfen]] ...
  Ich habe [[geklopft]] aber die Musik war so laut, 
  ihr habt mich nicht gehört …  
 
+---
+[[auseinanderklapfen]] - [[aus]][[einander]] = [[klapfen]]
+
 
 ---
 Synonyme: [[pochen]], [[hämmern]], [[schlagen]], [[anklopfen]], [[klopfem]]

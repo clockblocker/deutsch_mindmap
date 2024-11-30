@@ -1,2 +1,2 @@
 🙇‍♂️[[beugen]]
-[[bücken]]
+[[bücken]], [[verbeugen]]

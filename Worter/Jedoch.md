@@ -1,6 +1,8 @@
 *[[Jedoch]] nach Hause lief der Hund*  
 *und trug die Peitsche in dem Mund
 
+_Aang achtet [[jedoch]] nur auf sie und kracht mitten im Flug in Sokkas Wachturm._
+
 ---
 
 Synonyme:

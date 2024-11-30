@@ -16,6 +16,8 @@ Sie [[dachte]]: „Ich sollte mich einem starken und mächtigen Tier anschließe
 
 NIC: Hmmm … das [[dachte]] ich mir…  
 
+Wir [[dachten]] sie sind ausgestorben. Und nun haben meine Enkeltochter und mein Enkelsohn dich gefunden.
+
 
 ---
 

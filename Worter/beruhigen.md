@@ -32,3 +32,4 @@ Morpheme: [[be]][[ruhig]][[en]]
 Partizip I: [[beruhigend]], Partizip II: [[beruhigt]]
 
 [[beruhigen]] - [[be]] = [[ruhig]]
+, [[hochschrecken]], [[schrecken]]

@@ -30,4 +30,4 @@ Morpheme: [[ver]][[schwind]][[en]]
 
 Partizip I: [[verschwindend]], Partizip II: [[verschwunden]]
 
-[[verschwinden]] - [[ver]] = [[schwinden]], [[auftauchten]], [[sein]], [[kommen]]
+[[verschwinden]] - [[ver]] = [[schwinden]], [[auftauchten]], [[sein]], [[kommen]], [[aussterben]]

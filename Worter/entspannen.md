@@ -1,1 +1,1 @@
-, [[spannen]], [[anspannen]], [[mühen]]
+, [[spannen]], [[anspannen]], [[mühen]], [[hochschrecken]], [[schrecken]]

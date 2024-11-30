@@ -1,1 +1,1 @@
-, [[Mitbewohner]]
+, [[Mitbewohner]], [[bewohnen]]

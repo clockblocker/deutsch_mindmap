@@ -1,1 +1,1 @@
-[[stören]], [[beruhigen]]
+[[stören]], [[beruhigen]], [[schrecken]]

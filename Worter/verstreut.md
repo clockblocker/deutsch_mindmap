@@ -1,1 +1,1 @@
-, [[zerstreut]]
+, [[zerstreut]], [[auseinander]]

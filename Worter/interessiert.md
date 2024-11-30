@@ -1,1 +1,1 @@
-, [[interessieren]], [[überdrüssig]]
+, [[interessieren]], [[überdrüssig]], [[neugierig]]

@@ -2,6 +2,10 @@
 nicht [[schlecht]]
 
 ---
+Do seist [[toll]] aus!
+
+[[Begleite]]
+
 [[so toll]]
 SAM: He! [[toll]], Mann! Ist ja super…  
 

@@ -7,6 +7,8 @@ Sokka paddelt und hinter ihnen [[krachen]] zwei Schollen zusammen._
 
 Mit einem [[Krachen]] bricht der Eisberg auseinander und versinkt im Wasser. 
 
+_Aang achtet jedoch nur auf sie und [[kracht]] mitten im Flug in Sokkas Wachturm._
+
 ---
 Synonyme: [[bersten]], [[zerbrechen]], [[splittern]], [[platzen]], [[explodieren]]
 Antonyme: [[flüstern]], [[murmeln]], [[schleichen]]

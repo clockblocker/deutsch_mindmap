@@ -1,1 +1,1 @@
-, [[Aufwachsen]]
+, [[Aufwachsen]], [[aussterben]]

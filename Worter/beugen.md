@@ -6,58 +6,31 @@ haben [[gebeugt]]
 CINDY: … Und eins und zwei und Knie [[beugen]] …  
 
 ---
+[[verbeugen]] - [[ver]] = [[beugen]]
 
-**Synonyme:**
 
-- [[biegen]], [[krümmen]], [[neigen]]
+---
+Synonyme: [[biegen]], [[krümmen]], [[neigen]], [[verbiegen]], [[verformen]]
+Antonyme: [[strecken]], [[gerade machen]], [[aufrichten]]
+
+---
+Übersetzung: to bend, to curve, to inflect (grammatically)
+
+---
+Morpheme: [[beug]][[en]]
+ #Verb  #Untrennbar
 
 ---
 
-**Beispiele:**
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[beuge]]            | [[beugte]]            | -                 | [[beuge]]              | [[beugte]]              |
+| Du        | [[beugst]]           | [[beugtest]]          | [[beuge]]         | [[beugest]]            | [[beugtesst]]           |
+| Er/sie/es | [[beugt]]            | [[beugte]]            | -                 | [[beuge]]              | [[beugte]]              |
+| Wir       | [[beugen]]           | [[beugten]]           | -                 | [[beugen]]             | [[beugten]]             |
+| Ihr       | [[beugt]]            | [[beugtet]]           | [[beugt]]         | [[beuget]]             | [[beugtet]]             |
+| Sie       | [[beugen]]           | [[beugten]]           | [[beugen Sie]]    | [[beugen]]             | [[beugten]]             |
 
-- Ich [[beuge]] meine Knie.
-- Du [[beugst]] dich vor.
-- Er [[beugt]] den Arm.
-- Sie [[beugt]] den Kopf.
-- Wir [[beugen]] uns nach vorne.
-- Ihr [[beugt]] eure Körper.
-- Sie [[beugen]] die Regeln.
+Partizip I: [[beugend]], Partizip II: [[gebeugt]], Zu infinitive: zu beugen
 
----
-
-**Übersetzung**:
-to bend
-
----
-#Verb
-
----
-
-**Präteritum:**
-
-- Ich [[beugte]] meine Knie.
-- Du [[beugtest]] dich vor.
-- Er [[beugte]] den Arm.
-- Sie [[beugte]] den Kopf.
-- Wir [[beugten]] uns nach vorne.
-🙇‍♂️[[beugen]]
-- Ihr [[beugtet]] eure Körper.
-- Sie [[beugten]] die Regeln.
-
----
-
-**Imperativ:**
-
-- Ich [[beuge]] meine Knie.
-- Du [[beug]] deine Knie.
-- Er [[beuge]] seine Knie.
-- Es [[beuge]] seine Knie.
-- Sie [[beuge]] ihre Knie.
-- Wir [[beugen]] unsere Knie.
-- Ihr [[beugt]] eure Knie.
-- Sie [[beugen]] ihre Knie.
-
----
-
-**Morphems of only infinitive:**
-- [[beug]][[en]][[bücken]], [[strecken]]
+- [[beug]][[en]][[bücken]], [[strecken]], [[verbeugen]]

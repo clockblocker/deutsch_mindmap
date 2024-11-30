@@ -6,6 +6,9 @@ haben/sein [[getreten]]
 *und schlug den Hund, der heulte sehr,*  
 *und [[trat]] und schlug ihn immer mehr.*  
 
+
+([[Tritt]] vor) Seit 100 Jahren hat niemand von uns einen Luftbändiger gesehen
+
 ---
 [[betreten]] - [[be]] = [[treten]]
 [[betreten]] - [[]] = [[treten]]

@@ -11,6 +11,10 @@ sein [[gestorben]]
 *Weil es sich im Salz verdirbt*  
 
 ---
+[[aussterben]] - [[aus]] = [[sterben]]
+
+
+---
 Synonyme: [[verscheiden]], [[ableben]], [[entschlafen]], [[verenden]], [[versterben]]
 Antonyme: [[leben]], [[weiterleben]], [[wiederaufleben]]
 
@@ -35,4 +39,4 @@ Morpheme: [[sterb]][[en]]
 | Sie       | [[sterben]] | [[starben]] | [[sterben Sie]] | [[sterben]]  | [[stürben]]   |
 
 Partizip I: [[sterbend]], Partizip II: [[gestorben]]
-[[sterben]] - [[st]] = [[erb]], [[blühen]]
+[[sterben]] - [[st]] = [[erb]], [[blühen]], [[aussterben]]

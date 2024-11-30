@@ -1,1 +1,1 @@
-, [[verziehen]]
+, [[verziehen]], [[beugen]]

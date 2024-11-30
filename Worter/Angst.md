@@ -8,7 +8,7 @@ die [[Ängste]]
 
 ---
 Synonyme:
-- [[Furcht]], [[Sorge]], [[Schrecken]], [[Befürchtung]], [[Beklemmung]], [[Grauen]], [[Panik]]
+- [[Furcht]], [[Sorge]], [[schrecken]], [[Befürchtung]], [[Beklemmung]], [[Grauen]], [[Panik]]
 
 ---
 Antonyme:

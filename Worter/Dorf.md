@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Dorfes]], [[Dorfe]], [[Dörfer]], [[Dörfern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[Dorfbewohner]]

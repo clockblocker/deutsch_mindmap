@@ -28,4 +28,4 @@ Tags:
 Morphems:
 [[hier]][[her]]
 
-, [[Herbei]], [[dorthin]]
+, [[Herbei]], [[dorthin]], [[hinweg]]

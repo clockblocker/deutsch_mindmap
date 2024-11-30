@@ -1,1 +1,1 @@
-, [[hassen]], [[mögen]]
+, [[hassen]], [[mögen]], [[gieren]]

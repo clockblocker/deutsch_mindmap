@@ -1,7 +1,9 @@
-📍 [[mitten]] [ˈmɪtn̩]
+📍 [[mitten]] im [ˈmɪtn̩]
 
 ---
 Die Kunst ist mitten im Leben angekommen, das heißt auch, [[mitten]] im Geschäftsleben.
+
+_Aang achtet jedoch nur auf sie und kracht [[mitten]] im Flug in Sokkas Wachturm._
 
 
 ---
