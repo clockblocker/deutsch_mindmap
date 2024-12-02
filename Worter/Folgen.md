@@ -6,6 +6,9 @@ haben [[gefolgt]]
 *Die Buben aber [[folgten]] nicht*  
 *und lachten ihm ins Angesicht*  
 
+---
+[[verfolgen]] - [[ver]] = [[folgen]]
+
 
 ---
 Synonyme: [[nachgehen]], [[befolgen]], [[nachfolgen]], [[gehorchen]], [[sich richten nach]]

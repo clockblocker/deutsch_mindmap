@@ -4,6 +4,7 @@ nicht [[traurig]]
 ---
 EDELTRAUT: So? Dann muss er tanzen kommen, das macht [[fröhlich]].  
 
+_Beide lachen und sind [[fröhlich]]._
 
 ---
 Synonyme: [[heiter]], [[glücklich]], [[vergnügt]], [[lustig]], [[gut gelaunt]], [[unbeschwert]]

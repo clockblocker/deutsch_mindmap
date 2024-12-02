@@ -6,9 +6,24 @@
       {
         "id": "dbeb3dfb84ee20d8",
         "type": "tabs",
+        "dimension": 23.04147465437788,
         "children": [
           {
-            "id": "b5a25ab82855c3b5",
+            "id": "fe21ebaad79bf8e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/hinunter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hinunter"
+            }
+          },
+          {
+            "id": "19ec8b56da1f0db1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,101 +37,45 @@
             }
           },
           {
-            "id": "a7e5dd9c91b9cd3f",
+            "id": "2a1534c4b3a2a17f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Bewohner.md",
+                "file": "Worter/winden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bewohner"
+              "title": "winden"
             }
           },
           {
-            "id": "49499ab3d6398897",
+            "id": "9552f482f35054e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/gieren.md",
+                "file": "Worter/zuwerfen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gieren"
+              "title": "zuwerfen"
             }
           },
           {
-            "id": "1032695d2a30e039",
+            "id": "18efd96d98bac460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/selbst.md",
+                "file": "Worter/wirft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "selbst"
-            }
-          },
-          {
-            "id": "1cffdc3c99d35c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/durchchecken.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "durchchecken"
-            }
-          },
-          {
-            "id": "dedca222d738c3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/klaren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "klaren"
-            }
-          },
-          {
-            "id": "b4cbba06df330343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ansprache.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ansprache"
-            }
-          },
-          {
-            "id": "a1716ce07c96f593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/lichten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lichten"
+              "title": "wirft"
             }
           },
           {
@@ -153,27 +112,102 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/blühen.md",
+                "file": "Texte/Avatar/s1 e1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blühen"
-            }
+              "title": "s1 e1"
+            },
+            "group": "7f5562c8be898755"
           },
           {
-            "id": "28f760d9231f9a9b",
+            "id": "5c8de313917b10a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Blühte.md",
+                "file": "Worter/Rohr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blühte"
+              "title": "Rohr"
             }
+          },
+          {
+            "id": "644c9b73688190dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Fernrohr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fernrohr"
+            }
+          },
+          {
+            "id": "9455b2e483a5ecd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/außer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "außer"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "be7863cb43f5683a",
+        "type": "tabs",
+        "dimension": 76.95852534562212,
+        "children": [
+          {
+            "id": "76aa73185349d71b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Texte/Avatar/s1 e1.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2.3,
+                  "nodeSizeMultiplier": 0.794261407579273,
+                  "lineSizeMultiplier": 0.1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 12.6847125547822,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3507280958287501,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of s1 e1"
+            },
+            "group": "7f5562c8be898755"
           }
         ]
       }
@@ -267,12 +301,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lektionen/Dieter/gebrochen+.md",
+                "file": "Texte/Avatar/s1 e1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gebrochen+"
+              "title": "Outgoing links from s1 e1"
             }
           },
           {
@@ -305,7 +339,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 210.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,34 +357,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b5a25ab82855c3b5",
+  "active": "76aa73185349d71b",
   "lastOpenFiles": [
-    "Worter/Gleiter.md",
-    "Worter/gleiten.md",
-    "Worter/begleiten.md",
-    "Worter/Gleitern.md",
-    "Worter/Gleiters.md",
-    "Worter/Flugapparat.md",
-    "Worter/Flugzeug.md",
-    "Worter/Segelflugzeug.md",
+    "Worter/versteck.md",
+    "Worter/Verstecken.md",
     "Texte/Avatar/s1 e1.md",
-    "Worter/angrinsend.md",
-    "Worter/grinsen Sie an.md",
-    "Worter/grinset an.md",
-    "Worter/grinstet an.md",
-    "Worter/grinsten an.md",
-    "Worter/grinsen an.md",
-    "Worter/grinsest an.md",
-    "Worter/grinstest an.md",
-    "Worter/grinst an.md",
-    "Worter/grinse an.md",
-    "Worter/schmollen.md",
-    "Worter/ernst sein.md",
-    "Worter/angrinsen.md",
-    "Worter/angegrinst.md",
-    "Worter/grinste an.md",
-    "Worter/grinsen.md",
-    "Worter/anlachen.md",
+    "Worter/Siedlung.md",
+    "Worter/sied.md",
+    "Worter/Niederlassung.md",
+    "Worter/Kolonie.md",
+    "Worter/Wohnanlage.md",
+    "Worter/Wohngebiet.md",
+    "Worter/Ansiedlung.md",
+    "Worter/Siedlungen.md",
+    "Worter/südlichen.md",
+    "Worter/Dorf.md",
+    "Worter/südlicherer.md",
+    "Worter/südlichedem.md",
+    "Worter/südlicheres.md",
+    "Worter/südlichere.md",
+    "Worter/südlicheren.md",
+    "Worter/nordwärts.md",
+    "Worter/südorientiert.md",
+    "Worter/südlich.md",
+    "Worter/südwärts.md",
+    "Worter/meridional.md",
+    "Worter/nördlich.md",
+    "Worter/dads.md",
+    "Worter/richtet.md",
     "Texte/b1",
     "Anhänge/Pasted image 20241112104051.png",
     "Texte/Avatar",

@@ -1,6 +1,4 @@
-👕 [[tragen]]  
-[[trug]]  
-haben [[getragen]]
+👕 [[tragen]], [[trug]], haben [[getragen]]
 
 ---
 SASCHA: Du musst Designer- Klamotten [[tragen]]…
@@ -12,59 +10,30 @@ und [[trug]] die Peitsche in dem Mund
 *Ein König ohne Königin*
 
 ---
-
-**Synonyme:**
-
-- [[anlegen]], [[befördern]], [[transportieren]]
+[[übertragen]] - [[über]] = [[tragen]]
 
 ---
 
-**Beispiele:**
-
-- Ich [[trage]] einen schweren Koffer.
-- Du [[trägst]] eine rote Jacke.
-- Er [[trägt]] die Einkäufe nach Hause.
-- Es [[trägt]] viele Blüten.
-- Sie [[trägt]] die Verantwortung.
-- Wir [[tragen]] die Möbel in die Wohnung.
-- Ihr [[tragt]] die Bücher zur Bibliothek.
-- Sie [[tragen]] die gleiche Uniform.
+---
+Synonyme: [[transportieren]], [[befördern]], [[schleppen]], [[heben]], [[mitführen]]
+Antonyme: [[ablegen]], [[absetzen]], [[fallenlassen]], [[loslassen]]
 
 ---
-
-**Übersetzung**:
-to carry, to wear
+Übersetzung: to carry, to wear
 
 ---
- #Verb  #Unregelmäßig
+Morpheme: [[trag]][[en]]
+ #Verb  #Untrennbar
 
----
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[trage]] | [[trug]] | - | [[trage]] | [[trüge]] |
+| Du | [[trägst]] | [[trugst]] | [[trag]] | [[tragest]] | [[trügest]] |
+| Er/sie/es | [[trägt]] | [[trug]] | - | [[trage]] | [[trüge]] |
+| Wir | [[tragen]] | [[trugen]] | - | [[tragen]] | [[trügen]] |
+| Ihr | [[tragt]] | [[trugt]] | [[tragt]] | [[traget]] | [[trüget]] |
+| Sie | [[tragen]] | [[trugen]] | [[tragen Sie]] | [[tragen]] | [[trügen]] |
 
-**Präteritum:**
+Partizip I: [[tragend]], Partizip II: [[getragen]]
+- [[trag]][[en]], [[anhaben]], [[übertragen]]
 
-- Ich [[trug]] einen schweren Koffer.
-- Du [[trugst]] eine rote Jacke.
-- Er [[trug]] die Einkäufe nach Hause.
-- Es [[trug]] viele Blüten.
-- Sie [[trug]] die Verantwortung.
-- Wir [[trugen]] die Möbel in die Wohnung.
-- Ihr [[trugt]] die Bücher zur Bibliothek.
-- Sie [[trugen]] die gleiche Uniform.
-
----
-
-**Imperativ:**
-
-- Ich [[trage]] die Tasche.
-- Du [[trag]] die Tasche.
-- Er [[trage]] die Tasche.
-- Es [[trägt]] die Tasche.
-- Sie [[trage]] die Tasche.
-- Wir [[tragen]] die Tasche.
-- Ihr [[tragt]] die Tasche.
-- Sie [[tragen]] die Tasche.
-
----
-
-**Morphems of only infinitive:**  
-- [[trag]][[en]][[anhaben]]

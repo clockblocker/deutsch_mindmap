@@ -34,4 +34,4 @@ Morpheme: [[nei]][[g]][[en]]
 
 Partizip I: [[neigend]], Partizip II: [[geneigt]]
 
-[[neigen]] - [[nei]] = [[gen]], [[beugen]]
+[[neigen]] - [[nei]] = [[gen]], [[beugen]], [[biegen]]

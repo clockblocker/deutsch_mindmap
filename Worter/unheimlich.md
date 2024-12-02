@@ -4,6 +4,7 @@ nicht [[heimlich]]
 ---
 SAM: Ah, na ja … Ich mag Anna [[unheimlich]] gerne …  
 
+Aang? Lass uns nach Hause gehen. Dieser Ort ist mir [[unheimlich]]!
 
 ---
 Synonyme: 

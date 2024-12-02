@@ -3,7 +3,9 @@
 haben [[gegriffen]]
 
 ---
-
+*Nach dem Tischtuch [[greift]] er, schreit.*  
+*Doch was hilft’s? Zu gleicher Zeit*  
+*fallen Teller, Flasch und Brot.*  
 
 ---
 Synonyme: [[ergreifen]], [[fassen]], [[packen]], [[zupacken]], [[umfassen]]

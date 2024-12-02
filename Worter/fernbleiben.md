@@ -1,1 +1,1 @@
-, [[treffen]], [[zuneigen]], [[vorbeikommen]]
+, [[treffen]], [[zuneigen]], [[vorbeikommen]], [[beteiligen]]

@@ -4,6 +4,8 @@ die [[Türme]]
 ---
 [[Wachturm]]
 
+(Bekommt Schneemassen von dem [[Turm]] ab) Na irre. Du bist ein Luftbändiger, Katara ist eine Wasserbändigerin.
+
 ---
 Synonyme:
 - [[Hochhaus]], [[Gebäude]], [[Bauwerk]], [[Aussichtsturm]], [[Kirchturm]]

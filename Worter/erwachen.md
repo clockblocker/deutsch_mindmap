@@ -32,4 +32,4 @@ Morpheme: [[er]][[wach]][[en]]
 | Sie       | [[erwachen]]         | [[erwachten]]         | [[erwachen Sie]]  | [[erwachen]]           | [[erwachten]]           |
 
 Partizip I: [[erwachend]], Partizip II: [[erwacht]]
-[[erwachen]] - [[er]] = [[wachen]]
+[[erwachen]] - [[er]] = [[wachen]], [[wecken]]

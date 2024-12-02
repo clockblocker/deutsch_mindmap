@@ -1,1 +1,1 @@
-, [[verderben]], [[verletzen]], [[brechen]]
+, [[verderben]], [[verletzen]], [[brechen]], [[richten]]

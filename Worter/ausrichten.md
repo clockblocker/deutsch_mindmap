@@ -1,1 +1,1 @@
-, [[zuwenden]]
+, [[zuwenden]], [[richten]]

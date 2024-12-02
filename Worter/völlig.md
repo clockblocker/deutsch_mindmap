@@ -5,6 +5,7 @@ Er sieht [[völlig]] erschöpft aus!
 
 Also schön! Du bist kein Spinner, du bist [[völlig]] durchgeknallt!
 
+Was? Das ist [[völlig]] unmöglich! Findest du, dass ich wie ein 112 Jahre alter Mann aussehe?
 
 ---
 Synonyme: 

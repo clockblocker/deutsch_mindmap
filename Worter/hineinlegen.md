@@ -1,1 +1,1 @@
-, [[herausziehen]]
+, [[herausziehen]], [[stecken]]

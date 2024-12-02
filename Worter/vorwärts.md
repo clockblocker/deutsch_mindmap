@@ -22,4 +22,4 @@ Morpheme:
 ---
 Steigerungsformen:
 [[vorwärts]], [[vorwärtser]], [[am vorwärtsten]]
-, [[voraus]], [[vorne]]
+, [[voraus]], [[vorne]], [[vorn]]

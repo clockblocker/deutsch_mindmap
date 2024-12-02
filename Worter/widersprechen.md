@@ -1,1 +1,1 @@
-, [[meinen]]
+, [[meinen]], [[pflichten]], [[einverstanden]]

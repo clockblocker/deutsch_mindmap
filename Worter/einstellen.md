@@ -76,4 +76,4 @@ Konjunktiv II:
 - Wenn er hier wäre, [[stellte ein|stellte]] er die Maschine [[ein]].
 - Wenn wir das Radio [[ein]]stellen könnten, [[stellten ein|stellten]] wir es [[ein]].
 - Wenn ihr die Parameter korrigieren wolltet, [[stelltet ein|stelltet]] ihr sie [[ein]].
-- Wenn sie die Uhr richten müssten, [[stellten ein|stellten]] sie sie [[ein]]., [[losschießen]], [[unterbrechen]], [[aufgeben]]
+- Wenn sie die Uhr richten müssten, [[stellten ein|stellten]] sie sie [[ein]]., [[losschießen]], [[unterbrechen]], [[aufgeben]], [[feuern]]

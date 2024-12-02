@@ -1,10 +1,5 @@
-[[gleich]], [ɡlaɪ̯ç] 
-nicht [[unterschiedlich]]
-
-= immediately
-= [[wie]]
-
-
+[[gleich]], [ɡlaɪ̯ç]  nicht [[unterschiedlich]]
+= immediately = [[wie]]
 
 ---
 Wer von uns beiden lässt denn hier jedes mal [[gleich]] seine Muskeln spielen, wenn er sein Spiegelbild im Wasser sieht?
@@ -22,7 +17,9 @@ Wolfgang, sieh doch [[gleich]] mal nach ist [[gleich]] nur etwas [[anders]]
 *[[gleich]] fing er wieder an zu schrein:*  
 *»Ich esse keine Suppe! nein!*  
 
-[[geselle]], [[Gesellschaft]], 
+*Nach dem Tischtuch greift er, schreit.*  
+*Doch was hilft’s? Zu [[gleicher]] Zeit*  
+*fallen Teller, Flasch und Brot.*  
 
 ---
 +[[ver]] = [[vergleichen]]
@@ -49,7 +46,10 @@ Morpheme:
 ---
 Einzigartige mögliche Formen: 
 [[gleich]], [[gleiche]], [[gleiches]], [[gleichem]], [[gleichen]], [[gleicherer]], [[gleicheres]], [[gleicherer]], [[gleicheres]], [[gleichsten]], [[gleichster]], [[gleichstes]], [[gleichsten]]
-''
+[[gleicher]]
 
 [[andere]], [[derselben]], [[vergleichen]], [[verschiedene]], [[gleichen]], [[gehen]]
 , [[11 08]], [[s1 e1]]
+
+[[geselle]], [[Gesellschaft]], 
+, [[solche]]

@@ -1,1 +1,1 @@
-[[ansehen]], [[wegdrehen]], [[starren]], [[zuwenden]]
+[[ansehen]], [[wegdrehen]], [[starren]], [[zuwenden]], [[abbiegen]]

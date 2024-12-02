@@ -1,1 +1,1 @@
-[[verstehen]], [[aufspießen]]
+[[verstehen]], [[aufspießen]], [[dringen]]

@@ -8,6 +8,8 @@ r [[Meister]] | 3-5
 
 [[Weltmeister]]
 
+Er hatte ein Jahrhundert Zeit ein [[Meister]] der vier Elemente zu werden
+
 ---
 Synonyme:
 - [[Fachmann]], [[Experte]], [[Könner]], [[Virtuose]], [[Koryphäe]]

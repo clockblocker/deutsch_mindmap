@@ -1,1 +1,1 @@
-, [[entdeckten]]
+, [[entdeckten]], [[abdecken]], [[decken]], [[verdecken]]

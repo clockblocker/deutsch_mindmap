@@ -2,6 +2,8 @@
 [[änderte|änderte]]
 haben [[geändert]]
 
+[[ändern]] 1p+1s, [[wechseln]] 1p+2s, [[tauschen]] 2p+2s
+
 ---
 - Ach Maria! [[Sieh an|Sieh]] dich an! Du [[änderst]] dich nie! 
 - Heute werden Sie eine [[Veränderung]] im Beruf haben, für mehr Geld

@@ -3,7 +3,8 @@
 haben [[umgeworfen]]
 
 ---
-(sarkastisch) Wahnsinn. Das war ja echt umwerfend, Leute.
+(sarkastisch) Wahnsinn. Das war ja ech
+
 
 ---
 Synonyme: [[umstoßen]], [[umkippen]], [[niederwerfen]], [[kullern]], [[fallen lassen]]

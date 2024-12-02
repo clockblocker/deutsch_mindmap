@@ -70,4 +70,4 @@ Konjunktiv II:
 - Wenn er wütend wäre, [[brächte]] er jemanden um.
 - Wenn wir in dieser Situation wären, [[brächten]] wir den Feind um.
 - Wenn ihr euch verteidigen müsstet, [[brächtet]] ihr ihn um.
-- Wenn sie keine andere Wahl hätten, [[brächten]] sie jemanden um., [[ermordet]], [[morden]], [[totschlagen]]
+- Wenn sie keine andere Wahl hätten, [[brächten]] sie jemanden um., [[ermordet]], [[morden]], [[totschlagen]], [[bringen]]

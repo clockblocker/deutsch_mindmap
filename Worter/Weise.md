@@ -30,26 +30,26 @@ Einzigartige mögliche Formen:
 
 
 ----
-
-🔴 die [[Weise]], [ˈvaɪ̯zə]
+🔵 der [[Weise]], [ˈvaɪ̯zə]
 die [[Weisen]]
 
 ---
-
+Die [[Weisen]] berichten davon, dass der Avatar der letzte Luftbändiger ist.
 
 ---
 Synonyme:
-- [[Art]], [[Methode]], [[Art und Weise]], [[Vorgehensweise]]
+- [[Gelehrte]], [[Intellektuelle]], [[Philosoph]], [[Denker]], [[Experte]]
 
 ---
-Übersetzung: way, manner, method
+Übersetzung: wise men, sages, scholars
 
 ---
 Morpheme:
-[[Weise]]
+[[Weis]][[e]]
 
 ---
-Einzigartige mögliche Formen: [[Weise]], [[Weisen]]
+Einzigartige mögliche Formen: [[Weisen]], [[Weisen]], [[Weisen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Maskulin #Plural
+

@@ -40,4 +40,4 @@ Partizip I: [[drehend]], Partizip II: [[gedreht]]
 
 
 , [[aufdrehen]], [[umdrehen]]
-, [[wegdrehen]]
+, [[wegdrehen]], [[winden]]

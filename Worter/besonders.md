@@ -6,6 +6,7 @@ ANNA: Und [[besonders]] sexy ist er auch nicht!
 ANNA: Ja, [[besonders]] Poptastisch Popcorn!  
 Und [[besonders]] mit deiner köstlichen Schoko-Eisbombe.
 
+Aber er ist etwas [[besonderes]], das merke ich. Er steckt voller Weisheit, ich spüre es.
 
 ---
 Synonyme: [[außergewöhnlich]], [[einzigartig]], [[hervorragend]], [[einmalig]], [[speziell]]

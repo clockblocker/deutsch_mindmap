@@ -26,4 +26,4 @@ Tags:
 Morphems:
 [[Da]][[gegen]]
 
-, [[dabei]], [[deshalb]], [[Damit]], [[11 08]], [[ebenfalls]]
+, [[dabei]], [[deshalb]], [[Damit]], [[11 08]], [[ebenfalls]], [[einverstanden]]

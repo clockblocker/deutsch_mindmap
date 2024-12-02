@@ -1,1 +1,1 @@
-, [[springen]], [[aufspringen]]
+, [[springen]], [[aufspringen]], [[entspringen]]

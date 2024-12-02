@@ -1,1 +1,1 @@
-[[freimachen]], [[auflösen]], [[fangen]]
+[[freimachen]], [[auflösen]], [[fangen]], [[ausbilden]], [[feuern]]

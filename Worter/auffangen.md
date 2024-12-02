@@ -32,3 +32,4 @@ Morpheme: [[auf]][[fang]][[en]]
 Partizip I: [[auffangend]], Partizip II: [[aufgefangen]]
 
 [[auffangen]] - [[auf]] = [[fangen]]
+, [[zuwerfen]]

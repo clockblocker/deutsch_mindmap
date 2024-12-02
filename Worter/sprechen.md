@@ -5,6 +5,8 @@ haben [[gesprochen]]
 ---
 Sprich mit der Kamera wie mit einer schönen Frau …  
 
+(Hängt mit der Zunge an seinem Stab und [[spricht]] undeutlich)
+
 
 ---
 Synonyme: [[reden]], [[diskutieren]], [[konversieren]], [[artikulieren]], [[debattieren]]
@@ -31,4 +33,4 @@ Morpheme: [[sprech]][[en]]
 
 Partizip I: [[sprechend]], Partizip II: [[gesprochen]]
 
-, [[ansprechen]]
+, [[ansprechen]], [[7 Die Geschichte vom Zappel-Philipp]]

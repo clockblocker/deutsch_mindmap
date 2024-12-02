@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Absatzes]], [[Absätze]], [[Absätzen]]
 
 ---
-#Substantiv #Maskulin, [[Silbe]]
+#Substantiv #Maskulin, [[Silbe]], [[Stufe]]

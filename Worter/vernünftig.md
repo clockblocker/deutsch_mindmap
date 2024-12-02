@@ -1,1 +1,1 @@
-, [[lächerlich]], [[sinnvoll]]
+, [[lächerlich]], [[sinnvoll]], [[irre]], [[verrückt]]

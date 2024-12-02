@@ -8,6 +8,11 @@ haben [[versteckt]]
 
 NIC: Hilfe! [[Versteckt]] mich! Oh!  
 
+*Nun ist Philipp ganz [[versteckt]],*  
+*und der Tisch ist abgedeckt.*  
+
+Und wie's aussieht auch sein Versteck!
+
 ---
 
 **Synonyme:**

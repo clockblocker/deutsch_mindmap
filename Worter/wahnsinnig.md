@@ -1,1 +1,1 @@
-, [[durchgeknallt]]
+, [[durchgeknallt]], [[irre]], [[verrückt]]

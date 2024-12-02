@@ -1,1 +1,1 @@
-, [[Topf]]
+, [[Topf]], [[Suppenschüssel]], [[Schüssel]]

@@ -13,6 +13,8 @@ Fette Lichtstrahlen, ein Himmelsbison, ein Luftbändiger. Ich leide wohl an Mit
 
 ([[Dreht]] [[sich]] [[um]] und merkt, dass Aang sie anguckt) Warum grinst du mich eigentlich so komisch an?
 
+Der letzte Luftbändiger. Ganz schön flott für sein hohes Alter. ([[Dreht]] [[sich]] [[um]])
+
 ---
 Synonyme: [[wenden]], [[rotieren]], [[schwenken]], [[kreisen]], [[pendeln]]
 Antonyme: [[stillstehen]], [[fixieren]], [[verharren]]

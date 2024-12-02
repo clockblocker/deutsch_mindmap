@@ -5,6 +5,8 @@ haben [[beherrscht]]
 ---
 Nur der Avatar [[beherrschte]] alle vier Elemente, nur er hätte den gewaltigen Angriff der Feuerbändiger aufhalten können.
 
+Nein. Ihr seid zu ungeduldig. Ihr müsst zuerst die Grundlagen richtig [[beherrschen]]! Weiterüben.
+
 ---
 Synonyme: [[kontrollieren]], [[meistern]], [[steuern]], [[handhaben]], [[regieren]]
 Antonyme: [[verlieren]], [[aufgeben]], [[hilflos sein]], [[kapitulieren]]

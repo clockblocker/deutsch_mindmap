@@ -31,3 +31,4 @@ Typische Verbindungen:
 ---
 
 [[übereinander]]
+, [[entzwei]]

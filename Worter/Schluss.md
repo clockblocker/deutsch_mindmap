@@ -2,6 +2,7 @@ der [[Schluss]]
 die [[Schlüsse]]
 
 ---
+Jetzt ist [[Schluss]]. Genug gespielt. Katara, denk dran, du hast Pflichten.
 
 Beispiele:
 - Muss [[Schluss]] machen! [[Bis bald]]! 

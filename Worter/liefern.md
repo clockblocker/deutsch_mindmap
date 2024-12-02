@@ -1,1 +1,1 @@
-[[holen]], [[geben]], [[hinbringen]]
+[[holen]], [[geben]], [[hinbringen]], [[bringen]]

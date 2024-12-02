@@ -1,5 +1,5 @@
 🔴 die [[Richt]]
-die [[Richten]]
+die [[richten]]
 
 Beispiele:
 

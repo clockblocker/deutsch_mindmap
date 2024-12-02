@@ -15,4 +15,4 @@ Synonyme:
 **Übersetzung**: in the back, behind
 
 ---
-#Adverb, [[voraus]], [[Rück]]
+#Adverb, [[voraus]], [[Rück]], [[vorn]]

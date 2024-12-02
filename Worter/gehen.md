@@ -10,9 +10,11 @@ sein [[gegangen]]
 - NIC: Ach, na ja - … es [[ging]] so  
 
 ---
-[[untergehen]] - [[unter]] = [[gehen]]
-[[aufgehen]] - [[auf]] = [[gehen]]
-[[weggehen]] - [[weg]] = [[gehen]]
+[[untergehen]] - [[unter]] = [[gehen]] / sink
+[[aufgehen]] - [[auf]] = [[gehen]] / open
+[[weggehen]] - [[weg]] = [[gehen]] / leave
+[[zugehen]] - [[zu]] = [[gehen]] / approach 
+[[rangehen]] - [[ran]] = [[gehen]] / get closer 
 
 
 ---
@@ -46,4 +48,4 @@ Morpheme: [[ge]][[h]][[en]]
 Partizip I: [[gehend]], Partizip II: [[gegangen]]
 
 [[untergehen]], [[weggehen]], [[liegen]], [[ausgehen]], [[springen]], [[stehen]], [[rennen]], [[fliegen]], [[aufgehen]]
-, [[vergehen]], [[kommen]]
+, [[vergehen]], [[kommen]], [[wandeln]], [[trappeln]], [[zugehen]], [[rangehen]]

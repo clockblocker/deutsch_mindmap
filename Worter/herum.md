@@ -5,6 +5,8 @@ SAM: Na, das ist klar! Sie geht hinten [[herum]]!
 
 Um sie [[herum]] ist nun alles still und sie sind umgeben von großen Eisschollen
 
+*und die Mutter blickte stumm*  
+*auf dem ganzen Tisch [[herum]].*  
 
 ---
 
@@ -32,4 +34,4 @@ Morpheme:
 5. **[[um]]**
 6. **[[herumstehen]]**
 7. [[hier]]P
-, [[Um sie herum]]
+, [[Um sie herum]], [[7 Die Geschichte vom Zappel-Philipp]]

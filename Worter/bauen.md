@@ -3,7 +3,7 @@
 haben [[gebaut]]
 
 ---
-
+_Aang hat aus Appas Schwanz eine Rutsche [[gebaut]], von der nun die kleinen Kinder rutschen._
 
 ---
 Synonyme: [[errichten]], [[konstruieren]], [[erbauen]], [[fertigen]], [[herstellen]], [[anfertigen]]

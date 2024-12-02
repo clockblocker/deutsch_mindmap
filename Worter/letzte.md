@@ -48,4 +48,4 @@ last, final
 Tags: 
 #Adjective [[letzte]]
 
-nicht [[erste]]
+nicht [[erste]], [[allerletzten]]

@@ -32,4 +32,4 @@ Morpheme: [[mögen]]
 
 Partizip I: [[mogend]], Partizip II: [[gemocht]]
 
-[[mögen]] - [[mögen]]
+[[mögen]] - [[mögen]], [[missfallen]]

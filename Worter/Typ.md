@@ -28,4 +28,4 @@ Alle Formen:
 
 
 
-[[Sorte]], [[Leut]]
+[[Sorte]], [[Leut]], [[Art]]

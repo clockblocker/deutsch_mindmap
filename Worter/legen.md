@@ -67,4 +67,4 @@ to lay, to place
 ---
 
 **Morphems of only infinitive:**  
-- [[leg]][[en]][[ziehen]][[hinlegen]]
+- [[leg]][[en]][[ziehen]][[hinlegen]], [[stecken]]

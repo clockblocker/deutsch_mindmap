@@ -15,7 +15,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Pferde]][[schwanz]]
+[[Pferde]][[Schwanz]]
 
 ---
 Einzigartige mögliche Formen: [[Pferdeschwanzes]], [[Pferdeschwänze]], [[Pferdeschwänzen]]

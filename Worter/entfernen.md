@@ -1,1 +1,1 @@
-[[setzen]][[hinlegen]], [[hinstellen]], [[wegzaubern]], [[herausnehmen]], [[einbauen]], [[einhängen]], [[einfüllen]], [[herausziehen]], [[ausrissen]], [[herausschlagen]], [[nachbringen]], [[hängen]], [[aufstellen]], [[hinbringen]], [[aufspießen]], [[spießen]]
+[[setzen]][[hinlegen]], [[hinstellen]], [[wegzaubern]], [[herausnehmen]], [[einbauen]], [[einhängen]], [[einfüllen]], [[herausziehen]], [[ausrissen]], [[herausschlagen]], [[nachbringen]], [[hängen]], [[aufstellen]], [[hinbringen]], [[aufspießen]], [[spießen]], [[stecken]], [[festkleben]]

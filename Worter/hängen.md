@@ -5,6 +5,8 @@ haben [[gehangen]]
 ---
 Ihre Frisur war aufgelöst und [[hing]] wie drei Pfund Wolle nach unten. 
 
+([[Hängt]] mit der Zunge an seinem Stab und spricht undeutlich)
+
 ---
 [[einhängen]] - [[ein]] = [[hängen]]
 [[abhängen]] - [[ab]] = [[hängen]]

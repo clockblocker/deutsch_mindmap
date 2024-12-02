@@ -6,8 +6,8 @@ um 7 Uhr
 
 [[ziehen]], [[durch]], [[drehen]], 
 
-[[umschalten]], 
-[[herum]], 
-[[umziehen]], 
-[[umdrehen]],
-[[umgeben]], [[telefonieren]], [[umsehen]], [[umwerfen]]
+[[umschalten]], [[herum]], [[umziehen]], [[umdrehen]],
+[[umgeben]], [[umsehen]], [[umwerfen]], [[wandeln]], [[umwandeln]], 
+
+
+[[bringen]]

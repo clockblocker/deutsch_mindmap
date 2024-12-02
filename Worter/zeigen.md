@@ -14,6 +14,9 @@ Ja – ich [[zeige]] dir, wie man als Fernsehreporter arbeitet.
 
 (Sieht nach oben und [[zeigt]] in die Richtung aus der das Licht kam) 
 
+Also Männer, Es ist wichtig, dass ihr keine Angst [[zeigt]], wenn ihr einem Feuerbändiger begegnet. 
+
+Das Fangen von Pinguinen ist eine alte und heilige Kunst. Und ich werd's dir [[zeigen]]!
 
 ---
 Synonyme: [[demonstrieren]], [[präsentieren]], [[vorführen]], [[aufzeigen]], [[darstellen]]
@@ -40,4 +43,4 @@ Morpheme: [[zeig]][[en]]
 
 Partizip I: [[zeigend]], Partizip II: [[gezeigt]]
 [[zeigen]] - [[zeig]] = [[en]]
-''', [[sehen lassen]]
+''', [[sehen lassen]], [[beibringen]], [[verdecken]]

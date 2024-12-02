@@ -1,1 +1,1 @@
-[[schwierig]][[nötig]][[windig]][[seidig]][[Reinigung]], [[durstig]], [[geduldig]], [[übrigens]], [[rechtzeitig]], [[zuständig]], [[artig]], [[salzig]], [[wendig]], [[Tätigkeit]], [[tätig]], [[pelzig]]
+[[schwierig]][[nötig]][[windig]][[seidig]][[Reinigung]], [[durstig]], [[geduldig]], [[übrigens]], [[rechtzeitig]], [[zuständig]], [[artig]], [[salzig]], [[wendig]], [[Tätigkeit]], [[tätig]], [[pelzig]], [[beteiligen]]

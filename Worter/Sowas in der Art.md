@@ -1,0 +1,1 @@
+[[Sowas]] in der [[Art]]

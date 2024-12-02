@@ -1,0 +1,1 @@
+😌 [[gleichen]] | 😌 [[gleich]] | 🔵 der [[Gleicher]], [[Zu gleicher Zeit]]

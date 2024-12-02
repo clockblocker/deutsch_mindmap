@@ -1,2 +1,1 @@
-[[hoch]]
-, [[Weniger]]
+[[hoch]] , [[Weniger]], [[nächsthöher]]

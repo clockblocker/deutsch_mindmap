@@ -1,1 +1,1 @@
-Засыпать[[erwachen]]
+Засыпать[[erwachen]], [[wecken]]

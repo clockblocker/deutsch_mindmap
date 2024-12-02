@@ -9,6 +9,8 @@ Plural: die [[Böden]]
 
 Dann pass mal gut auf! (Nimmt seinen Gleiter auf den Rücken, stößt sich vom [[Boden]] ab und fliegt)
 
+_Verdeckt im Schnee läuft Aang in eine Schnur hinein, die über den [[Boden]] gespannt ist. Hinter Katara schließt sich ein Tor. Aang rennt zu ihr._
+
 ---
 Translation:
 floor, ground

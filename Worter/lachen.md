@@ -12,6 +12,8 @@ dass Nic von nebenan Starqualität hat 
 *Die Buben aber folgten nicht*  
 *und [[lachten]] ihm ins Angesicht*  
 
+_[[Lachend]] fahren sie durch einen Eistunnel, bis sie an einem riesigen Schiffswrack ankommen._
+
 ---
 [[auslachen]] - [[aus]] = [[lachen]]
 

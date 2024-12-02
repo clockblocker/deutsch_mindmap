@@ -5,6 +5,9 @@ haben [[gesetzt]]
 ---
 schließ die Augen und setz dich [[hin]]
 
+setzen Hoffnung auf den:
+Katara, du solltest nicht deine ganze Hoffnung [[auf]] diesen Jungen [[setzen]].
+
 ---
 Synonyme: [[platzieren]], [[positionieren]], [[legen]], [[stellen]], [[aufstellen]]
 Antonyme: [[entfernen]], [[heben]], [[nehmen]], [[wegnehmen]]

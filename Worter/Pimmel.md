@@ -1,1 +1,1 @@
-, [[schwanz]]
+, [[Schwanz]]

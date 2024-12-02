@@ -47,4 +47,4 @@ ruhig (calm)
 ---
 Tags: 
 #Adjective
-#Positive | #Comparative | #Superlative, [[bös]], [[böse]]
+#Positive | #Comparative | #Superlative, [[bös]], [[böse]], [[zornig]]

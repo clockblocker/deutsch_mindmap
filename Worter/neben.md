@@ -1,1 +1,1 @@
-, [[durch]], [[nebenbei]]
+, [[durch]], [[nebenbei]], [[außer]]

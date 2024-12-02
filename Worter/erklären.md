@@ -29,4 +29,4 @@ Morpheme: [[er]][[kläre]]
 
 Partizip I: [[erklärend]], Partizip II: [[erklärt]]
 [[erklären]] - [[er]] = [[klären]]
-''', [[deuten]], [[vormachen]], [[Antworten]]
+''', [[deuten]], [[vormachen]], [[Antworten]], [[beibringen]]

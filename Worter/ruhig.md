@@ -37,4 +37,4 @@ Einzigartige mögliche Formen:
 [[ruhigsten]], [[ruhigster]], [[ruhigste]], [[ruhigstes]], [[ruhigsten]], [[ruhigstem]], [[ruhigster]], [[ruhigsten]]
 
 [[windig]], [[nervös]]
-, [[lichterloh]], [[leis]], [[Flüsternd]], [[unbeeindruckt]], [[beruhig]], [[beruhigen]], [[beruhigenden]]
+, [[lichterloh]], [[leis]], [[Flüsternd]], [[unbeeindruckt]], [[beruhig]], [[beruhigen]], [[beruhigenden]], [[ungeduldig]], [[wild]], [[zornig]]

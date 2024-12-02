@@ -8,6 +8,8 @@ Nichts zu [[fassen]]!
 *Doch weh! die Flamme [[faßt]] das Kleid,*  
 *die Schürze brennt, es leuchtet weit.*  
 
+(Setzt sich) 100 Jahre! Ich kann es echt nicht [[fassen]]!
+
 ---
 Synonyme: [[greifen]], [[umfassen]], [[ergreifen]], [[packen]], [[halten]], [[greifen]]
 Antonyme: [[loslassen]], [[fallen lassen]], [[freilassen]], [[freigeben]]

@@ -1,1 +1,1 @@
-, [[angreifen]], [[retten]], [[verletzen]], [[wehrten]], [[verbrennen]], [[totschlagen]], [[rauben]]
+, [[angreifen]], [[retten]], [[verletzen]], [[wehrten]], [[verbrennen]], [[totschlagen]], [[rauben]], [[abdecken]], [[decken]]

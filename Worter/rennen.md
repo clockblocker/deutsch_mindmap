@@ -4,7 +4,9 @@ haben [[gerannt]]
 
 ---
 *Da kam der Ludwig her[[gerannt]]*  
-*und trug sein Fähnchen in der Hand.*  
+*und trug sein Fähnchen in der Hand.* 
+
+EIN PINGUIN! ([[Rennt]] hinter dem Pinguin her)
 
 ---
 [[zurennen]] - [[zu]] = [[rennen]]

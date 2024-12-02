@@ -1,1 +1,1 @@
-, [[faul]], [[geschwind]], [[bald]]
+, [[faul]], [[geschwind]], [[bald]], [[flott]]

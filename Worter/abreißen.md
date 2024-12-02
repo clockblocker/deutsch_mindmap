@@ -6,6 +6,9 @@ haben [[abgerissen]]
 *Und dann [[reißen|reiß]] ich der Puppe den Kopf ab*  
 *Dann [[abreißen|reiß]] ich der Puppe den Kopf ab*  
 
+Suppe, Brot und alle [[Bissen]],  
+alles ist her[[abgerissen]].  
+
 ---
 Synonyme: [[demontieren]], [[niederreißen]], [[zerstören]], [[einreißen]], [[abbrechen]]
 Antonyme: [[aufbauen]], [[errichten]], [[erbauen]], [[konstruieren]], [[restaurieren]]

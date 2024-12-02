@@ -2,8 +2,8 @@ das [[Weib]], [vaɪ̯p]
 die [[Weiber]]
 
 ---
-*Wenn sich an mir ein [[Weib]] verirrt*  
-*Dann ist die helle Welt verwirrt*  
+*Wenn sich an mir ein [[Weib]] [[verirrt]]*  
+*Dann ist die helle Welt [[verwirrt]]*  
 
 ---
 Synonyme: 

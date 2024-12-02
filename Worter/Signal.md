@@ -1,1 +1,1 @@
-, [[Zeichen]]
+, [[Zeichen]], [[Leuchtrakete]]

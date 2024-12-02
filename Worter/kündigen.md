@@ -75,4 +75,4 @@ Konjunktiv II:
 - Wenn wir mehr Alternativen hätten, [[kündigten]] wir schneller.
 - Wenn ihr euch sicher wäret, [[kündigtet]] ihr.
 - Wenn sie genug hätten, [[kündigten]] sie sofort.
-[[kündigen]]
+[[kündigen]], [[feuern]]

@@ -3,7 +3,9 @@
 haben [[abbekommen]]
 
 ---
-(Bekommt den Nieser ab) Uäh!! Iehh!! (Reibt sich am Boden um alles wieder abzubekommen)
+([[Bekommt]] den Nieser [[ab]]) Uäh!! Iehh!! (Reibt sich am Boden um alles wieder abzubekommen)
+
+([[Bekommt]] Schneemassen von dem Turm [[ab]]) Na irre. Du bist ein Luftbändiger, Katara ist eine Wasserbändigerin.
 
 ---
 Synonyme: [[erhalten]], [[kriegen]], [[abkriegen]], [[mitbekommen]], [[zugeteilt bekommen]]

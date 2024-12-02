@@ -9,6 +9,11 @@ so [[fallen]] die Bücher doch runter …
 *damit sie nicht vom Himmel [[fallen]].*
 
 ---
+[[gefallen]] - [[ge]] = [[fallen]] / like
+[[missfallen]] - [[miss]] = [[fallen]] / dislike
+
+
+---
 Synonyme: [[stürzen]], [[abstürzen]], [[niedersinken]], [[abstürzen]], [[herunterfallen]]
 Antonyme: [[aufstehen]], [[aufheben]], [[aufsetzen]], [[erheben]], [[hochkommen]]
 
@@ -34,4 +39,4 @@ Partizip I: [[fallend]], Partizip II: [[gefallen]]
 
 
 +[[über]] = [[überfallen]]
-+[[ein]] = [[einfallen]], [[Extra 8]], [[steigen]], [[stehen]], [[schweben]], [[klettern]]
++[[ein]] = [[einfallen]], [[Extra 8]], [[steigen]], [[stehen]], [[schweben]], [[klettern]], [[missfallen]]

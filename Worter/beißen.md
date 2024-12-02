@@ -28,9 +28,9 @@ Morpheme: [[beiß]][[en]]
 | Ich       | [[beiße]]            | [[biss]]              | -                 | [[beiße]]              | [[bisse]]               |
 | Du        | [[beißt]]            | [[bissest]]           | [[beiß]]          | [[beißest]]            | [[bissest]]             |
 | Er/sie/es | [[beißt]]            | [[biss]]              | -                 | [[beiße]]              | [[bisse]]               |
-| Wir       | [[beißen]]           | [[bissen]]            | -                 | [[beißen]]             | [[bissen]]              |
+| Wir       | [[beißen]]           | [[Bissen]]            | -                 | [[beißen]]             | [[Bissen]]              |
 | Ihr       | [[beißt]]            | [[ißt]]               | [[beißt]]         | [[beißet]]             | [[ißet]]                |
-| Sie       | [[beißen]]           | [[bissen]]            | [[beißen Sie]]    | [[beißen]]             | [[bissen]]              |
+| Sie       | [[beißen]]           | [[Bissen]]            | [[beißen Sie]]    | [[beißen]]             | [[Bissen]]              |
 
 Partizip I: [[beißend]], Partizip II: [[gebissen]]
 

@@ -7,6 +7,8 @@ die [[Löcher]]
 
 Durch das [[Loch]], das Katara in den Eisberg gehauen hat, strömt ein Lichtstrahl in den Himmel.
 
+Aang findet jedoch ein [[Loch]] in der Decke.
+
 ---
 Synonyme:
 - [[Öffnung]], [[Vertiefung]], [[Höhle]], [[Grube]], [[Lücke]], [[Spalte]]

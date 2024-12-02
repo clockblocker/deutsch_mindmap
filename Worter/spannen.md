@@ -3,6 +3,8 @@
 haben [[gespannt]]
 
 ---
+_Verdeckt im Schnee läuft Aang in eine Schnur hinein, die über den Boden [[gespannt]] ist. Hinter Katara schließt sich ein Tor. Aang rennt zu ihr._
+
 [[Handelsspanne]]
 
 

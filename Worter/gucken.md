@@ -9,6 +9,8 @@ Sokka sieht Katara an und [[guckt]] dann auf den Eisberg vor ihnen.
 
 (Verbeugt sich) Äh, sag mal, warum [[gucken]] die mich denn alle so komisch an? Hat mich Appa beim Niesen geschnoddert?
 
+([[Guckt]] wieder in das Fernrohr und richtet dads Fernrohr auf die Siedlung des südlichen Wasserstamms)
+
 ---
 [[angucken]] - [[an]] = [[gucken]]
 

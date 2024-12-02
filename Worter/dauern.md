@@ -5,6 +5,7 @@ haben [[gedauert]]
 ---
 ANNA: Das [[dauert]] sicher nur eine Woche …  
 
+Der Krieg [[dauert]] schon 100 Jahre. Und du weißt nichts über ihn, weil du aus irgendeinem Grund die ganze Zeit da drin warst! 
 
 ---
 Synonyme: [[andauern]], [[währen]], [[anhalten]], [[bestehen]], [[fortfahren]]

@@ -35,4 +35,4 @@ Morpheme: [[knall]][[en]]
 
 Partizip I: [[knallend]], Partizip II: [[geknallt]]
 
-[[knallen]] - [[knall]] = [[en]]
+[[knallen]] - [[knall]] = [[en]], [[abfeuern]]

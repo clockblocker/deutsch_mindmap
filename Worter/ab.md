@@ -9,4 +9,4 @@ completely
 
 у 
 
-прочь[[abgepackt]][[abpacken]][[abholen]][[holen]], [[abmessen]], [[abreißen]], [[beißen]], [[abbeißen]], [[abmachen]], [[ablösen]], [[lösen]], [[abhören]], [[abbekommen]], [[abwarten]], [[abhängen]], [[abstoßen]]
+прочь[[abgepackt]][[abpacken]][[abholen]][[holen]], [[abmessen]], [[abreißen]], [[beißen]], [[abbeißen]], [[abmachen]], [[ablösen]], [[lösen]], [[abhören]], [[abbekommen]], [[abwarten]], [[abhängen]], [[abstoßen]], [[abdecken]], [[decken]], [[abbiegen]], [[biegen]], [[abfeuern]], [[feuern]]

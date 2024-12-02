@@ -3,6 +3,8 @@
 
 _Aang achtet [[jedoch]] nur auf sie und kracht mitten im Flug in Sokkas Wachturm._
 
+Aang findet [[jedoch]] ein Loch in der Decke.
+
 ---
 
 Synonyme:

@@ -1,13 +1,12 @@
 [[wichtig]]
-[[wichtiger]]
-[[am]] [[wichtigsten]]
-
 nicht [[unbedeutend]]
 
 ---
 die [[Zeit]] is wichtig
 
 Ich muss dich etwas [[wichtiges]] fragen.
+
+Also Männer, Es ist [[wichtig]], dass ihr keine Angst zeigt, wenn ihr einem Feuerbändiger begegnet. 
 
 ---
 

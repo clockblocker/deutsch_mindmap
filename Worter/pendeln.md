@@ -1,1 +1,1 @@
-, [[umdrehen]]
+, [[umdrehen]], [[schaukeln]]

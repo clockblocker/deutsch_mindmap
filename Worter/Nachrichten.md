@@ -1,1 +1,1 @@
-🔴 die [[Nachricht]]
+🔴 die [[Nachricht]], [[Richt]]

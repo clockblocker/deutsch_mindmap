@@ -1,1 +1,1 @@
-, [[umsehen]]
+, [[umsehen]], [[richten]]

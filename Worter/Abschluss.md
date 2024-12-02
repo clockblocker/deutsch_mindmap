@@ -1,1 +1,1 @@
-, [[durch]]
+, [[durch]], [[Schluss]]

@@ -2,7 +2,9 @@
 
 ---
 Schokolade so [[seidig]], da schmilzt das Herz jeder schönen Frau Bist du [[bereit]]?  
--
+
+
+Wenn wir dazu nicht [[bereit]] sind, wie können wir uns dann Männer nennen?!
 
 ---
 Synonyme: 

@@ -45,4 +45,4 @@ Morphems:
 ---
 #Substantiv #Neuter
 
-, [[Angesicht]], [[Backen]], [[Gesichtsausdruck]], [[s1 e1]]
+, [[Angesicht]], [[Backen]], [[Gesichtsausdruck]], [[s1 e1]], [[riesig]]

@@ -3,7 +3,9 @@
 sein [[begegnet]]
 
 ---
-Öh, nein. Ich weiß nicht. Ich meine, ich kannte Leute die ihm begegnet sind. Ich aber nicht.
+Öh, nein. Ich weiß nicht. Ich meine, ich kannte Leute die ihm [[begegnet]] sind. Ich aber nicht.
+
+Also Männer, Es ist wichtig, dass ihr keine Angst zeigt, wenn ihr einem Feuerbändiger [[begegnet]]. 
 
 ---
 Synonyme: [[treffen]], [[antreffen]], [[encountern]], [[aufeinandertreffen]], [[zusammenkommen]], [[wiedersehen]], [[treffen]]

@@ -14,8 +14,8 @@ ANNA: Und die Türe nicht zu … [[werfen]] …
 *Ein heißer Schrei, Feuer frei!*  
 
 ---
-[[umwerfen]] - [[um]] = [[werfen]]
-
+[[umwerfen]] - [[um]] = [[werfen]] / knock over
+[[zuwerfen]] - [[zu]] = [[werfen]] / throw
 
 ---
 Synonyme: [[schleudern]], [[schmeißen]], [[stoßen]], [[abwerfen]], [[loslassen]]

@@ -1,6 +1,4 @@
 [[riesig]]
-[[riesiger]]
-[[am]] [[riesigsten]]
 
 ---
 NIC: Sagen wir [[einfach]] - dass du dieses [[Gesicht]] …  
@@ -9,32 +7,24 @@ NIC: Sagen wir [[einfach]] - dass du dieses [[Gesicht]] …
 
 Er springt auf ein [[riesiges]] pelziges Tier, das vor sich hin grummelt.*
 
----
-
-nicht [[klein]]
+_Lachend fahren sie durch einen Eistunnel, bis sie an einem [[riesigen]] Schiffswrack ankommen._
 
 ---
-
-Synonyme:
-- [[enorm]], [[gigantisch]], [[kolossal]]
-
----
-
-Beispiele:
-
-- Der Elefant ist ein [[riesiges]] Tier.
-- Sie haben ein [[riesiges]] Haus.
-- Das war der [[riesigste]] Berg, den ich je gesehen habe.
+Synonyme: [[gigantisch]], [[gewaltig]], [[monumental]], [[immens]], [[riesenhaft]], [[kolossal]]
+Antonyme: [[klein]], [[winzig]], [[minimal]], [[mikroskopisch]]
 
 ---
-**Übersetzung**: huge, gigantic
+**Übersetzung**:
+huge, enormous, gigantic
 
 ---
+#Adjective [[riesig]]
 
-Tags:
-#Adjective
 
----
+Einzigartige mögliche Formen: 
+[[riesig]], [[riesiger]], [[riesige]], [[riesiges]], [[riesigen]], [[riesigem]], [[riesiger]], [[riesigen]]
+[[riesiger]], [[riesigerer]], [[riesigere]], [[riesigeres]], [[riesigeren]], [[riesigerem]], [[riesigerer]], [[riesigeren]]
+[[riesigsten]], [[riesigster]], [[riesigste]], [[riesigtes]], [[riesigsten]], [[riesigtem]], [[riesigster]], [[riesigsten]]
 
-Morphems:
+
 [[riesig]][[speziellen]], [[gewaltigen]], [[gewaltig]]

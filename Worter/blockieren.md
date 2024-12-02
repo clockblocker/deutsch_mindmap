@@ -1,1 +1,1 @@
-[[freimachen]], [[dammen]], [[fließen]], [[aufhalten]], [[schieben]], [[drehen]], [[festsitzen]]
+[[freimachen]], [[dammen]], [[fließen]], [[aufhalten]], [[schieben]], [[drehen]], [[festsitzen]], [[übertragen]]

@@ -31,4 +31,4 @@ Morpheme: [[ab]][[löse]][[n]]
 Partizip I: [[ablösend]], Partizip II: [[abgelöst]]
 
 [[ablösen]] - [[ab]] = [[lösen]]
-, [[aufspießen]]
+, [[aufspießen]], [[kleben]]

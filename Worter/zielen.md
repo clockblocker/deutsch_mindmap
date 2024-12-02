@@ -32,3 +32,4 @@ Morpheme: [[ziel]][[en]]
 | Sie | [[zielen]] | [[zielten]] | [[zielen Sie]] | [[zielen]] | [[zielten]] |
 
 Partizip I: [[zielend]], Partizip II: [[gezielt]]
+, [[abfeuern]]

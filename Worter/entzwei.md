@@ -4,6 +4,10 @@
 *Die schoß das Häschen ganz [[entzwei]];*  
 *da rief die Frau: »O wei! O wei!«*  
 
+*Suppenschüssel ist [[entzwei]],*  
+*und die Eltern stehn dabei.*
+
+
 ---
 Synonyme: [[in zwei Teile]], [[auseinander]], [[in Stücke]], [[zerbrochen]]
 Antonyme: [[ganz]], [[heil]], [[vereint]], [[zusammen]]
@@ -22,4 +26,4 @@ Morpheme:
 ---
 
 Entzwei kann als Adjektiv, Adverb oder Substantiv verwendet werden. Als Adverb beschreibt es, dass etwas in zwei Teile zerbrochen oder getrennt ist.
-'''
+''', [[7 Die Geschichte vom Zappel-Philipp]]

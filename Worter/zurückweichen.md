@@ -1,1 +1,1 @@
-, [[auftauchten]], [[näherkommen]]
+, [[auftauchten]], [[näherkommen]], [[dringen]]

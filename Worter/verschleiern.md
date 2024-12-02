@@ -1,1 +1,1 @@
-[[bedeuten]][[erzählen]], [[erklären]], [[enthüllen]], [[spiegeln]], [[klären]]
+[[bedeuten]][[erzählen]], [[erklären]], [[enthüllen]], [[spiegeln]], [[klären]], [[verdecken]]

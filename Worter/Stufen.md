@@ -1,1 +1,1 @@
-, [[Treppe]]
+, [[Treppe]], [[Stufe]]

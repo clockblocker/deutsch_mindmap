@@ -3,7 +3,11 @@
 haben [[gebildet]]
 
 ---
-Durch Kataras Handbewegungen bewegt sich das Wasser und in einem großen Eisberg hinter ihr [[bilden]] sich Risse.
+Durch Kataras Handbewegungen bewegt sich das Wasser und in einem großen Eisberg hinter ihr [[bilden]] sich [[Risse]].
+
+---
+[[ausbilden]] - [[aus]] = [[bilden]]
+
 
 ---
 Synonyme: [[formen]], [[gestalten]], [[schaffen]], [[erschaffen]], [[kreieren]], [[produzieren]]
@@ -30,4 +34,4 @@ Morpheme: [[bil]][[d]][[en]]
 
 Partizip I: [[bildend]], Partizip II: [[gebildet]]
 
-[[bilden]] - [[bil]] = [[d]]en, [[s1 e1]]
+[[bilden]] - [[bil]] = [[d]]en, [[s1 e1]], [[ausbilden]]

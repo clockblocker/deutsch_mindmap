@@ -4,13 +4,16 @@ haben [[gebracht]]
 
 ---
 - Er hat unsere Milch [[zurückgebracht]]
-- Ich hab' euch etwas [[mitgebracht]]  \
+- Ich hab' euch etwas [[mitgebracht]]  
 
 *Und auch der Wilhelm war nicht steif*  
 *und [[brachte]] seinen runden Reif.*  
 
 ---
-+[[um]] = [[umbringen]]
+[[umbringen]] - [[um]] = [[bringen]]        // kill
+[[beibringen]] - [[bei]] = [[bringen]]        // teach
+[[nachbringen]] - [[nach]] = [[bringen]]  // fetch, add
+
 
 ---
 
@@ -68,4 +71,4 @@ to bring
 ---
 
 **Morphems of only infinitive:**  
-- [[bring]][[en]][[abholen]], [[nachbringen]], [[hinbringen]]
+- [[bring]][[en]][[abholen]], [[nachbringen]], [[hinbringen]], [[beibringen]]

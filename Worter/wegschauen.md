@@ -1,1 +1,1 @@
-, [[anstarrten]], [[umsehen]], [[angucken]]
+, [[anstarrten]], [[umsehen]], [[angucken]], [[blicken]]

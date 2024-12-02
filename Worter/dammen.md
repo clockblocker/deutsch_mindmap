@@ -1,4 +1,3 @@
-
 ⚽️ [[dammen]], [ˈdamən]
 [[dammte]]
 haben [[gedammt]]

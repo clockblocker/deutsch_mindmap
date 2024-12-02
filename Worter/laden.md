@@ -29,4 +29,4 @@ Morpheme: [[la]][[d]][[en]]
 | Sie       | [[laden]]            | [[luден]]             | [[laden Sie]]     | [[laden]]              | [[lüden]]               |
 
 Partizip I: [[ladend]], Partizip II: [[geladen]]
-[[laden]] - [[la]] = [[d]]en
+[[laden]] - [[la]] = [[d]]en, [[abfeuern]]

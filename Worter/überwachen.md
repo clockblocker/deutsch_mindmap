@@ -1,1 +1,1 @@
-, [[abhören]]
+, [[abhören]], [[beobachten]]

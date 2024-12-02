@@ -1,1 +1,1 @@
-[[werfen]], [[wegwerfen]], [[umwerfen]]
+[[werfen]], [[wegwerfen]], [[umwerfen]], [[zuwerfen]]

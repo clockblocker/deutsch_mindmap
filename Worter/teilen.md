@@ -33,4 +33,4 @@ Morpheme: [[teil]][[en]]
 
 Partizip I: [[teilend]], Partizip II: [[geteilt]]
 
-[[teilen]] - [[teil]] = [[en]]
+[[teilen]] - [[teil]] = [[en]], [[beteiligen]]

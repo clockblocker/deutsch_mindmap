@@ -1,1 +1,1 @@
-, [[gesellen]], [[einschließen]], [[einladen]]
+, [[gesellen]], [[einschließen]], [[einladen]], [[beteiligen]]

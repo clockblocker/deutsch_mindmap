@@ -1,1 +1,1 @@
-[[kontrollieren]][[behandeln]], [[recherchieren]], [[checken]], [[durchchecken]]
+[[kontrollieren]][[behandeln]], [[recherchieren]], [[checken]], [[durchchecken]], [[beobachten]]

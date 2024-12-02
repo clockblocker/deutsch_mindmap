@@ -1,1 +1,1 @@
-, [[entwischen]]
+, [[entwischen]], [[entspringen]]

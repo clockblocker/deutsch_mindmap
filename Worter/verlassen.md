@@ -6,12 +6,14 @@
 
 Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den Fahrstuhl
 
+Solange eure Väter im Krieg sind, [[verlassen]] sie sich auf euch. 
+
 ---
 Synonyme: [[aufgeben]], [[zurücklassen]], [[loslassen]], [[abhauen]], [[weggehen]],[[scheiden]]
 Antonyme: [[bleiben]], [[begleiten]], [[folgen]], [[unterstützen]], [[helfen]]
 
 ---
-Übersetzung: to leave, to abandon
+Übersetzung: to leave, to abandon, rely on
 
 ---
 Morpheme: [[ver]][[lass]][[en]]
@@ -31,4 +33,4 @@ Morpheme: [[ver]][[lass]][[en]]
 
 Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 
-[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]]
+[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]]

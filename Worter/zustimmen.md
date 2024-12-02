@@ -1,1 +1,1 @@
-, [[tadeln]], [[grummeln]]
+, [[tadeln]], [[grummeln]], [[pflichten]]

@@ -1,1 +1,1 @@
-, [[Schuld]]
+, [[Schuld]], [[Pflicht]]

@@ -3,6 +3,7 @@
 haben [[geklettert]]
 
 ---
+_Langsam gehen Aang und Katara auf das Schiff zu, [[klettern]] hinein und laufen durch das Schiff._
 
 ---
 [[hinaufklettern]] - [[hinauf]] = [[klettern]]

@@ -6,8 +6,11 @@ haben [[geübt]]
 NIC: Sam- ich muss [[üben]]!
 [[Übung]]
 
+Nein, es reicht! Ich hab diese Sequenz den ganzen Tag lang [[geübt]]. Bringt mir die nächste bei! Ich bin schon lange soweit
+
 ---
 [[ausüben]] - [[aus]] = [[üben]]
+[[weiterüben]] - [[weiter]] = [[üben]]
 
 
 ---

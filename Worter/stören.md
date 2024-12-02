@@ -33,4 +33,4 @@ Morpheme: [[stör]][[en]]
 
 Partizip I: [[störend]], Partizip II: [[gestört]]
 
-[[stören]] - [[stör]] = [[en]], [[gefallen]]
+[[stören]] - [[stör]] = [[en]], [[gefallen]], [[missfallen]]

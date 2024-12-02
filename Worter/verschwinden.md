@@ -5,6 +5,8 @@ sein [[verschwunden]]
 ---
 Aber als die Welt ihn am meisten brauchte, [[verschwand]] er. 
 
+Hast du Aang gesehen? GranGran sagt, er ist schon seit über einer Stunde [[verschwunden]].
+
 ---
 Synonyme: [[entschwinden]], [[abhanden kommen]], [[verloren gehen]], [[weggehen]], [[wegziehen]], [[untergehen]], [[weggehen]],  [[aufgehen]]
 Antonyme: [[erscheinen]], [[auftauchen]], [[ankommen]], [[bleiben]]

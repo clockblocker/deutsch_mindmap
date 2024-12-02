@@ -1,1 +1,1 @@
-, [[ausreißen]]
+, [[ausreißen]], [[entspringen]]

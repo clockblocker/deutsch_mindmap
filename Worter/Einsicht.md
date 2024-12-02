@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Einsicht]], [[Einsicht]], [[Einsichten]], [[Einsichten]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Weisheit]]

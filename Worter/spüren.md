@@ -4,7 +4,9 @@ haben [[gespürt]]
 
 ---
 - (Ich will) Ich will eure Blicke [[spüren]]  
-- 
+
+Aber er ist etwas besonderes, das merke ich. Er steckt voller Weisheit, ich [[spüre]] es.
+
 ---
 Synonyme: [[fühlen]], [[empfinden]], [[wahrnehmen]], [[erleben]], [[erkennen]]
 Antonyme: [[ignorieren]], [[übersehen]], [[verleugnen]]

@@ -31,3 +31,4 @@ Morpheme: [[schleudern]]
 
 Partizip I: [[schleudernd]], Partizip II: [[geschleudert]]
 
+, [[zuwerfen]]

@@ -1,75 +1,33 @@
-🏃 [[rasen]]
+🏎️ [[rasen]], [ˈʁaːzən]
 [[raste]]
-sein [[gerast]]
+haben [[gerast]]
 
 ---
 Tot sank dieser zu Boden und die restliche Herde [[raste]] in panischem Schrecken davon.
 
----
+Dead sank this to ground and the remaining herd raced in panicked terror away.
+
+
+Kurz darauf sitzen Aang und Katara auf den Rücken von zwei Pinguinen und [[rasen]] die Berge [[hinunter]]._
 
 ---
-
-Synonyme:
-- [[rennen]], [[sausen]], [[stürmen]]
-
----
-
-Beispiele:
-
-- Das Auto [[raste]] die Straße entlang.
-- Der Hund [[raste]] durch den Garten.
-- Sie sind mit voller Geschwindigkeit [[gerast]].
+Synonyme: [[sausen]], [[brettern]], [[donnern]], [[dahinjagen]], [[rauschen]]
+Antonyme: [[stoppen]], [[langsam fahren]], [[verweilen]]
 
 ---
-**Übersetzung**: raced, rushed
+Übersetzung: to speed, to race, to rush
 
 ---
+Morpheme: [[ras]][[en]]
+ #Verb #Untrennbar
 
-Morphems of only infinitive:
-[[ras]][[en]]
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[rase]] | [[raste]] | - | [[rase]] | [[raste]] |
+| Du | [[rast]] | [[rastest]] | [[rase]] | [[rasest]] | [[rastest]] |
+| Er/sie/es | [[rast]] | [[raste]] | - | [[rase]] | [[raste]] |
+| Wir | [[rasen]] | [[rasten]] | - | [[rasen]] | [[rasten]] |
+| Ihr | [[rast]] | [[rastet]] | [[rast]] | [[raset]] | [[rastet]] |
+| Sie | [[rasen]] | [[rasten]] | [[rasen Sie]] | [[rasen]] | [[rasten]] |
 
----
-Tags:
-#Verb  #Unregelmäßig
-
----
-
-Präteritum:
-
-- Ich [[raste]] durch den Park.
-- Du [[rastest]] über die Felder.
-- Er [[raste]] zum Ziel.
-- Wir [[rasten]] gegen die Zeit.
-- Ihr [[rastet]] durch die Straßen.
-- Sie [[rasten]] vorwärts.
-
----
-
-Imperativ:
-
-- [[Rase]] so schnell du kannst!
-- [[Rast]] zum Ende des Rennens!
-- [[Rasen wir]] durch den Wald!
-- [[Rasen Sie]] nicht zu schnell!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[Rase]] schneller als jeder andere.
-- Sie meint, du [[rasest]] immer mit Höchstgeschwindigkeit.
-- Er behauptet, er [[Rase]] wie der Wind.
-- Wir erklären, wir [[rasen]] den Berg hinunter.
-- Ihr sagt, ihr [[raset]] durch die Stadt.
-- Sie sagen, sie [[rasen]], wenn es eilig ist.
-
----
-
-Konjunktiv II:
-
-- Wenn ich schneller wäre, [[räse]] ich davon.
-- Wenn du dich traust, [[räsest]] du auf die Ziellinie zu.
-- Wenn er geübt hätte, [[räse]] er in Rekordzeit.
-- Wenn wir mutiger wären, [[räsen]] wir ins Ungewisse.
-- Wenn ihr schneller wäret, [[räset]] ihr durch den Sturm.
-- Wenn sie es wollten, [[räsen]] sie dem Ziel entgegen., [[durchknallen]]
+Partizip I: [[rasend]], Partizip II: [[gerast]]

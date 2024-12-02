@@ -1,1 +1,1 @@
-, [[schwanz]], [[stab]]
+, [[Schwanz]], [[stab]]

@@ -39,4 +39,4 @@ Morpheme: [[auf]][[halt]][[en]]
 Partizip I: [[aufhaltend]], Partizip II: [[aufgehalten]]
 
 [[aufhalten]] - [[auf]] = [[halten]]
-''', [[s1 e1]]
+''', [[s1 e1]], [[dringen]]

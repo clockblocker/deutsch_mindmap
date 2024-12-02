@@ -1,1 +1,1 @@
-[[lernen]][[üben]]
+[[lernen]][[üben]], [[weiterüben]], [[ausbilden]]

@@ -8,6 +8,8 @@ SASCHA: … und die Kleider [[schicken]] wir zurück …
 Hielt man für Ufos aus dem All
 Darum [[schickte]] ein General  
 
+([[Schickt]] einen Feuerstoß zu Zuko) Diesmal, aber bitte richtig.
+
 ---
 [[verschicken]] - [[ver]] = [[schicken]]
 [[wegschicken]] - [[weg]] = [[schicken]]

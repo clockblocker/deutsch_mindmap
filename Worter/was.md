@@ -8,3 +8,4 @@ Mensch Anna, es kommt darauf an, [[wie]] du schreibst – und nicht 
 
 #Pronomen #Interrogativpronomen 
 
+, [[sowas]]

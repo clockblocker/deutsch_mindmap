@@ -1,1 +1,1 @@
-, [[sparen]], [[verschwenden]], [[schwenden]]
+, [[sparen]], [[verschwenden]], [[schwenden]], [[verplempern]]

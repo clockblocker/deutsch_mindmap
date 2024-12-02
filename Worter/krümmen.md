@@ -1,1 +1,1 @@
-[[bücken]], [[beugen]]
+[[bücken]], [[beugen]], [[biegen]]

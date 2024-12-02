@@ -4,6 +4,8 @@
 *Es ist [[unmöglich]]*  
 *sagt die [[Erfahrung]]*  
 
+Was? Das ist völlig [[unmöglich]]! Findest du, dass ich wie ein 112 Jahre alter Mann aussehe?
+
 ---
 Synonyme: [[undurchführbar]], [[unerreichbar]], [[unausführbar]], [[unerreichlich]], [[unerfüllbar]]
 Antonyme: [[möglich]], [[erreichbar]], [[durchführbar]], [[realisierbar]], [[bewältigbar]]  
