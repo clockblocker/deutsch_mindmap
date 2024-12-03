@@ -1,1 +1,1 @@
-, [[fern]]
+, [[fern]], [[gegenüber]]

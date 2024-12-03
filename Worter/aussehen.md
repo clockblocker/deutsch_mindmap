@@ -16,7 +16,7 @@ SASCHA: Sam, Dr. Scott! Du [[siehst aus|siehst]] spitze aus! Ich liebe�
 
 Er [[aussehen|sieht]] völlig erschöpft aus!  
 
-
+Katrin seufzt. „Werner, jetzt mach doch keine Doktorarbeit daraus. Das Foto ist sehr schön, und wir werden uns immer gerne an diesen Urlaub erinnern, [[egal]], wie der Rahmen [[aussieht]].“ 
 
 ---
 Synonyme: [[erscheinen]], [[wirken]], [[aussehen]], [[sich präsentieren]], [[sich zeigen]]

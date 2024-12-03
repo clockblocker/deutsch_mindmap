@@ -1,1 +1,1 @@
-, [[schlauen]]
+, [[schlauen]], [[überlegen]]

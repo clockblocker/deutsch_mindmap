@@ -1,64 +1,31 @@
-✨ [[wirken]]  
-[[wirkte]]  
-haben [[gewirkt]]
+✨ [[wirken]], [[wirkte]], haben [[gewirkt]]
 
 ---
 ALTER: zwanzig, … nein, dreißig – das [[wirkt]] besser.  
 
----
-
-**Synonyme:**
-
-- [[einwirken]], [[beeinflussen]], [[handeln]]
+"In Ordnung", denkt Werner. Aber vielleicht würde das Bild ohne Rahmen besser [[wirken]]. 
 
 ---
-
-**Beispiele:**
-
-- Ich [[wirke]] entspannt.
-- Du [[wirkst]] nervös.
-- Er [[wirkt]] freundlich.
-- Es [[wirkt]] beruhigend.
-- Sie [[wirkt]] kompetent.
-- Wir [[wirken]] engagiert.
-- Ihr [[wirkt]] motiviert.
-- Sie [[wirken]] zufrieden.
+Synonyme: [[agieren]], [[handeln]], [[funktionieren]], [[erscheinen]], [[bewirken]]
+Antonyme: [[untätig sein]], [[ruhen]], [[stillstehen]]
 
 ---
-
-**Übersetzung**:
-to appear, to seem, to have an effect
+Übersetzung: to act, to work, to have an effect
 
 ---
- #Verb
+Morpheme: [[wirk]][[en]]
+ #Verb #Untrennbar
 
----
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[wirke]] | [[wirkte]] | - | [[wirke]] | [[wirkte]] |
+| Du | [[wirkst]] | [[wirktest]] | [[wirk]] | [[wirkest]] | [[wirktest]] |
+| Er/sie/es | [[wirkt]] | [[wirkte]] | - | [[wirke]] | [[wirkte]] |
+| Wir | [[wirken]] | [[wirkten]] | - | [[wirken]] | [[wirkten]] |
+| Ihr | [[wirkt]] | [[wirktet]] | [[wirkt]] | [[wirket]] | [[wirktet]] |
+| Sie | [[wirken]] | [[wirkten]] | [[wirken Sie]] | [[wirken]] | [[wirkten]] |
 
-**Präteritum:**
+Partizip I: [[wirkend]], Partizip II: [[gewirkt]]
 
-- Ich [[wirkte]] entspannt.
-- Du [[wirkst]] nervös.
-- Er [[wirkte]] freundlich.
-- Es [[wirkte]] beruhigend.
-- Sie [[wirkte]] kompetent.
-- Wir [[wirkten]] engagiert.
-- Ihr [[wirktet]] motiviert.
-- Sie [[wirkten]] zufrieden.
 
----
-
-**Imperativ:**
-
-- Ich [[wirke]] ruhig.
-- Du [[Wirk|wirke]] ruhig.
-- Er [[wirke]] ruhig.
-- Es [[wirkt]] ruhig.
-- Sie [[wirke]] ruhig.
-- Wir [[wirken]] ruhig.
-- Ihr [[wirkt]] ruhig.
-- Sie [[wirken]] ruhig.
-
----
-
-**Morphems of only infinitive:**  
 - [[Wirk]][[en]], [[aussehen]], [[spinnen]]

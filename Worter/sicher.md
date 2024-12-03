@@ -1,7 +1,4 @@
 👍 [[sicher]]
-[[sicherer]]
-[[am]] [[sichersten]]
-
 nicht [[unsicher]]
 
 ---
@@ -15,6 +12,8 @@ Und du bist [[sicher]] Anna.
 ANNA: Das [[dauert]] [[sicher]] nur eine Woche …  
 
 Er hat [[sicher]] versucht der Feuermarine ein Zeichen zu geben!
+
+Aber ist das Wohnzimmer überhaupt der richtige Platz dafür? Passt das Bild zur Farbe des Sofas? Werner [[ist]] [[sich]] nicht [[sicher]]. 
 
 ---
 Synonyme: [[gewiss]], [[bestimmt]], [[zuverlässig]], [[sicher]], [[garantiert]]

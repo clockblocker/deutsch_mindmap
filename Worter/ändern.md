@@ -38,4 +38,4 @@ Morpheme: [[änder]][[Worter/n]]
 
 Partizip I: [[ändernd]], Partizip II: [[geändert]]
 
-, [[werden]], [[wechseln]]
+, [[werden]], [[wechseln]], [[umentscheiden]]

@@ -1,1 +1,1 @@
-, [[festziehen]], [[einhängen]], [[hängen]], [[festkleben]], [[wachsen]]
+, [[festziehen]], [[einhängen]], [[hängen]], [[festkleben]], [[wachsen]], [[aufhängen]]

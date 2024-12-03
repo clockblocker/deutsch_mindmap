@@ -1,4 +1,4 @@
-💭 [[überlegen]]
+🤔 [[überlegen]] + Akk, [ˈyːbɐleːɡən]
 [[überlegte]]
 haben [[überlegt]]
 
@@ -6,69 +6,52 @@ haben [[überlegt]]
 Die Katze [[Worter/über]][[legte]] noch, wie sie das [[anstellen]] sollte,
 Überheblich, überlegen  
 
----
-
-Synonyme:
-- [[nachdenken]], [[abwiegen]], [[erwägen]]
+Jetzt [[überlegt]] er: Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand gegenüber vom Fenster? 
 
 ---
-
-Beispiele:
-
-- Sie [[überlegte]] lange, bevor sie eine Entscheidung traf.
-- Er [[überlegte]] sich eine neue Strategie.
-- Ich habe mir gut [[überlegt]], was ich sagen werde.
+Synonyme: [[nachdenken]], [[reflektieren]], [[grübeln]], [[meditieren]], [[sinnen]]
+Antonyme: [[handeln]], [[spontan sein]], [[ohne Nachdenken]]
 
 ---
-**Übersetzung**: considered, thought about
+Übersetzung: to think over, to consider, to ponder
 
 ---
+Morpheme: [[über]][[leg]][[en]]
+ #Verb #Untrennbar
 
-Morphems of only infinitive:
-[[Worter/über]][[leg]][[en]]
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[überlege]] | [[überlegte]] | - | [[überlege]] | [[überlegte]] |
+| Du | [[überlegst]] | [[überlegtest]] | [[überlege]] | [[überlegest]] | [[überlegtest]] |
+| Er/sie/es | [[überlegt]] | [[überlegte]] | - | [[überlege]] | [[überlegte]] |
+| Wir | [[überlegen]] | [[überlegten]] | - | [[überlegen]] | [[überlegten]] |
+| Ihr | [[überlegt]] | [[überlegtet]] | [[überlegt]] | [[überleget]] | [[überlegtet]] |
+| Sie | [[überlegen]] | [[überlegten]] | [[überlegen Sie]] | [[überlegen]] | [[überlegten]] |
 
----
-Tags:
-#Verb  #Regelmäßig
+Partizip I: [[überlegend]], Partizip II: [[überlegt]]
+[[überlegen]] - [[über]] = [[legen]]
+```
 
----
+As an adjective:
 
-Präteritum:
-
-- Ich [[überlegte]] die Vor- und Nachteile.
-- Du [[überlegtest]], wie du vorgehen sollst.
-- Er [[überlegte]] eine bessere Lösung.
-- Wir [[überlegten]], was wir tun sollten.
-- Ihr [[überlegtet]], welche Option besser ist.
-- Sie [[überlegten]] lange, bevor sie entschieden.
+```
+🧠 überlegen, [ˈyːbɐleːɡən]
+nicht [[unterlegen]]
 
 ---
 
-Imperativ:
-
-- [[Überlege]] dir gut, was du sagst!
-- [[überlegt]] euch eure nächsten Schritte!
-- [[Überlegen wir]] die Optionen sorgfältig!
-- [[Überlegen Sie]] sich gut, bevor Sie handeln!
+---
+Synonyme: [[klug]], [[intelligent]], [[geschickt]], [[gewitzt]], [[schlau]]
+Antonyme: [[dumm]], [[unterlegen]], [[schwach]], [[unfähig]]
 
 ---
-
-Konjunktiv I:
-
-- Er sagt, ich [[Überlege]] immer gründlich.
-- Sie meint, du [[überlegest]] zu viel.
-- Er behauptet, er [[Überlege]] jede Entscheidung.
-- Wir erklären, wir [[überlegen]] alle Möglichkeiten.
-- Ihr sagt, ihr [[überleget]] stets sehr genau.
-- Sie sagen, sie [[überlegen]] vor jeder Entscheidung.
+Übersetzung:
+superior, more intelligent, cleverer
 
 ---
+#Adjective [[überlegen]]
 
-Konjunktiv II:
-
-- Wenn ich mehr Zeit hätte, [[überlegte]] ich noch länger.
-- Wenn du klüger wärest, [[überlegtest]] du besser.
-- Wenn er weiser wäre, [[überlegte]] er sich alles genau.
-- Wenn wir nicht in Eile wären, [[überlegten]] wir noch gründlicher.
-- Wenn ihr mehr Informationen hättet, [[überlegtet]] ihr genauer.
-- Wenn sie vorsichtiger wären, [[überlegten]] sie mehr., [[übermächtig]]
+Einzigartige mögliche Formen: 
+[[überlegen]], [[überlegener]], [[überlegene]], [[überlegenes]], [[überlegenen]], [[überlegenem]], [[überlegener]], [[überlegenen]]
+[[überlegener]], [[überlegenderer]], [[überlegendere]], [[überlegenderes]], [[überlegendere]], [[überlegendem]], [[überlegenderer]], [[überlegendere]]
+[[überlegensten]], [[überlegenster]], [[überlegenste]], [[überlegenstes]], [[überlegensten]], [[überlegensten]], [[überlegenster]], [[überlegensten]]

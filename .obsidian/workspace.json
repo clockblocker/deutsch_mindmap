@@ -22,17 +22,101 @@
             }
           },
           {
-            "id": "c135e31dc3bc7d69",
+            "id": "57a11f1cae5eb8e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/entscheiden.md",
+                "file": "Worter/anderessehen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "entscheiden"
+              "title": "anderessehen"
+            }
+          },
+          {
+            "id": "a9b7c48e97c0e70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/sehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sehen"
+            }
+          },
+          {
+            "id": "b2c2572b5ec9fbc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/ansehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ansehen"
+            }
+          },
+          {
+            "id": "91fc5d335cc3ff58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/sehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sehen"
+            }
+          },
+          {
+            "id": "35b23bf52bb945a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/überlegt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "überlegt"
+            }
+          },
+          {
+            "id": "5a5dd2d88e49412b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Eine Doktorarbeit aus etwas machen"
+            }
+          },
+          {
+            "id": "8626fc8947839be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/umentscheiden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "umentscheiden"
             }
           },
           {
@@ -50,119 +134,20 @@
             }
           },
           {
-            "id": "2a1534c4b3a2a17f",
+            "id": "c709bbb9d1805ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b1/4 Gerhard Richter.md",
+                "file": "Worter/Doktorarbeit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 Gerhard Richter"
-            }
-          },
-          {
-            "id": "98b15e70e1ce3ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/erhielt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "erhielt"
-            }
-          },
-          {
-            "id": "e8fffe2b321cf1fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/erhalten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "erhalten"
-            }
-          },
-          {
-            "id": "3f9746a14e13871a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/b2 podcast/11 Über den Tellerrand schauen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 Über den Tellerrand schauen"
-            }
-          },
-          {
-            "id": "9469e33b52bae81e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/erfinden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "erfinden"
-            }
-          },
-          {
-            "id": "5c8de313917b10a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Rohr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rohr"
-            }
-          },
-          {
-            "id": "644c9b73688190dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Fernrohr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fernrohr"
-            }
-          },
-          {
-            "id": "9455b2e483a5ecd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/außer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "außer"
+              "title": "Doktorarbeit"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +199,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worter/entscheiden.md",
+                "file": "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from entscheiden"
+              "title": "Outgoing links from 1 Eine Doktorarbeit aus etwas machen"
             }
           },
           {
@@ -280,10 +266,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worter/entscheiden.md"
+                "file": "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of entscheiden"
+              "title": "Outline of 1 Eine Doktorarbeit aus etwas machen"
             }
           }
         ],
@@ -309,34 +295,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c135e31dc3bc7d69",
+  "active": "fe21ebaad79bf8e4",
   "lastOpenFiles": [
-    "Worter/scheiden.md",
-    "Worter/entscheiden.md",
-    "Worter/entscheiden Sie.md",
-    "Worter/entschiedet.md",
-    "Worter/entscheidet.md",
-    "Worter/entschiedest.md",
-    "Worter/entschiedst.md",
-    "Worter/entscheidest.md",
-    "Worter/entscheide.md",
-    "Worter/scheid.md",
-    "Worter/unentschlossen sein.md",
-    "Worter/urteilen.md",
-    "Worter/beschließen.md",
-    "Worter/entschieden.md",
-    "Worter/entschied.md",
+    "Worter/dauern.md",
     "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
-    "Worter/-igkeit.md",
-    "Worter/Kleinigkeit.md",
-    "Worter/Bedeutendes.md",
-    "Worter/Klacks.md",
-    "Worter/Petitesse.md",
-    "Worter/Lapalie.md",
-    "Worter/Nebensache.md",
-    "Worter/Bagatelle.md",
-    "Worter/Kleinigkeiten.md",
-    "Worter/nachdenken.md",
+    "Worter/sehen.md",
+    "Worter/aussehen.md",
+    "Worter/sehen lassen.md",
+    "Worter/umsehen.md",
+    "Worter/wiedersehen.md",
+    "Worter/ansehen.md",
+    "Worter/anderessehen.md",
+    "Worter/anders sehend.md",
+    "Worter/sehen Sie anders.md",
+    "Worter/sähet anders.md",
+    "Worter/sehet anders.md",
+    "Worter/saht anders.md",
+    "Worter/seht anders.md",
+    "Worter/sähen anders.md",
+    "Worter/sahen anders.md",
+    "Worter/sehen anders.md",
+    "Worter/sieht anders.md",
+    "Worter/sähest anders.md",
+    "Worter/sehest anders.md",
+    "Worter/sieh anders.md",
+    "Worter/sahst anders.md",
+    "Worter/siehst anders.md",
+    "Worter/sähe anders.md",
+    "Worter/sehe anders.md",
     "Texte/b2 podcast",
     "Texte/b1",
     "Anhänge/Pasted image 20241112104051.png",

@@ -1,1 +1,1 @@
-, [[verbeugen]]
+, [[verbeugen]], [[ziemen]]

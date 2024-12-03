@@ -1,1 +1,1 @@
-[[handeln]], [[benutzen]]
+[[handeln]], [[benutzen]], [[wirken]]

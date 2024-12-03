@@ -7,6 +7,8 @@ haben [[geschieden]]
 
 ---
 [[entscheiden]] - [[ent]] = [[scheiden]] / decide
+[[umentscheiden]] - [[um]] - [[ent]] = [[entscheiden]]
+
 
 
 ---

@@ -1,1 +1,1 @@
-, [[tun]], [[erzielen]]
+, [[tun]], [[erzielen]], [[wirken]]

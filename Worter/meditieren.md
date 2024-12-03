@@ -1,1 +1,1 @@
-, [[nachdenken]]
+, [[nachdenken]], [[überlegen]]

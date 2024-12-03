@@ -1,8 +1,14 @@
- [[sehen]] + Akk, [ˈzeːən]
-[[sah]]
-haben [[gesehen]]
+ [[sehen]] + Akk, [ˈzeːən], [[sah]], haben [[gesehen]]
 
 ---
+
+---
+[[anderssehen]] - [[anders]] = [[sehen]]
+[[ansehen]] - [[an]] = [[sehen]]
+[[aussehen]] - [[aus]] = [[sehen]]
+[[sehen lassen]] = [[sehen]] + [[lassen]]
+[[umsehen]] - [[um]] = [[sehen]]
+[[wiedersehen]] - [[wieder]] = [[sehen]]
 
 
 ---
@@ -32,4 +38,4 @@ Partizip I: [[sehend]], Partizip II: [[gesehen]]
 
 
 [[wiedersehen]], [[ansehen]], [[aussehen]]
-, [[gucken]], [[sehen lassen]], [[umsehen]]
+, [[gucken]], [[sehen lassen]], [[umsehen]], [[anderessehen]]

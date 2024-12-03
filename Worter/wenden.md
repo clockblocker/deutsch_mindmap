@@ -1,9 +1,11 @@
-🔁 [[wenden]] + Akk, [ˈvɛndən]
+🔁 [[wenden]] sich an, [ˈvɛndən]
 [[wandte an|wandte an]]  
 haben [[gewendet]]
 
 ---
-([[Wendet]] sich unbeeindruckt seinem Spiel zu)
+([[Wendet]] [[sich]] unbeeindruckt seinem Spiel zu)
+
+„Katrin“, [[wendet]] er [[sich]] [[an]] seine Frau, „soll ich das Bild nicht besser ins Schlafzimmer hängen?“ 
 
 ---
 +[[ver]] = [[verwenden]]

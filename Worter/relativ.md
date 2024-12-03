@@ -1,1 +1,1 @@
-, [[völlig]]
+, [[völlig]], [[ziemlich]]

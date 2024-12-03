@@ -1,6 +1,4 @@
-[[hängen]], [ˈhɛŋən]
-[[hing]]  
-haben [[gehangen]]
+[[hängen]], [ˈhɛŋən], [[hing]], haben [[gehangen]]
 
 ---
 Ihre Frisur war aufgelöst und [[hing]] wie drei Pfund Wolle nach unten. 
@@ -8,8 +6,9 @@ Ihre Frisur war aufgelöst und [[hing]] wie drei Pfund Wolle nach unten.
 ([[Hängt]] mit der Zunge an seinem Stab und spricht undeutlich)
 
 ---
-[[einhängen]] - [[ein]] = [[hängen]]
-[[abhängen]] - [[ab]] = [[hängen]]
+[[einhängen]] - [[ein]] = [[hängen]] /  to hook up
+[[abhängen]] - [[ab]] = [[hängen]] / to depend on
+[[aufhängen]] - [[auf]] = [[hängen]] / to hang up
 
 
 ---

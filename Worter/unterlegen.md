@@ -1,1 +1,1 @@
-, [[übermächtig]]
+, [[übermächtig]], [[überlegen]]

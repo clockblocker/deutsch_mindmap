@@ -1,1 +1,1 @@
-[[normal]][[mittel]], [[bitterlich]]
+[[normal]][[mittel]], [[bitterlich]], [[ziemlich]]

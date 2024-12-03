@@ -92,3 +92,33 @@ Katara [[einschlagen|schlägt]] auf den Berg ein und [[bald]] öffnet er sich.
 
 
 
+'''
+ziemlich, [ˈtsiːmlɪç]
+nicht [[sehr]]
+
+---
+
+
+---
+Synonyme: [[recht]], [[einigermaßen]], [[relativ]], [[verhältnismäßig]], [[annähernd]]
+Antonyme: [[extrem]], [[völlig]], [[total]], [[absolut]]
+
+---
+**Übersetzung**:
+quite, rather, fairly
+
+---
+#Adjective #Adverb
+
+
+Beispiele:
+- Er ist ziemlich müde.
+- Das Wetter ist ziemlich kalt heute.
+- Sie ist ziemlich intelligent.
+
+Verwendung:
+- Als Adverb zur Beschreibung des Grades einer Eigenschaft
+- Drückt eine mittlere Intensität aus
+'''
+
+I chose this template because "ziemlich" functions both as an adverb and an adjective modifier, indicating degree or intensity. The template highlights its usage, synonyms, and translations while providing context for how the word is typically used in German.

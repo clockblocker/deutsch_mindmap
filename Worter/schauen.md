@@ -10,6 +10,7 @@ SAM: Ah Sascha! [[schau]] mal – 50 Kilometer! ([[sieh]] mal)
 ANNA: [[schau]] mal Sam! Das hier hab’ ich für dich!
 ANNA: [[schau]] mal, das gibt’s doch nicht.  
 
+Katrin schaut kurz zur Wand. „Also, ich finde, dass es gut ins Wohnzimmer passt.“
 
 ---
 
