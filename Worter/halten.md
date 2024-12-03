@@ -24,6 +24,7 @@ Katara und Sokka [[halten]] sich an der Eisscholle fest und werden mit ihr von e
 ---
 [[aushalten]] - [[aus]] = [[halten]]
 [[mithalten]] - [[mit]] = [[halten]]
+[[erhalten]] - [[er]] = [[halten]] / recieve
 
 
 

@@ -1,1 +1,2 @@
 [[denken]]
+, [[nachdenken]]

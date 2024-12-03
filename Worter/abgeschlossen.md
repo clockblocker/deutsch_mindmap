@@ -1,1 +1,1 @@
-[[Fertig]], [[erledigt]]
+[[Fertig]], [[erledigt]], [[abschließen]]

@@ -6,6 +6,10 @@ haben [[gefunden]]
 Weil ihre Ehre nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
 
 ---
+[[erfinden]] - [[er]] = [[finden]] / invent
+
+
+---
 Synonyme: [[entdecken]], [[aufspüren]], [[lokalisieren]], [[ausfindig machen]], [[erspähen]]
 Antonyme: [[verlieren]], [[übersehen]], [[ignorieren]]
 
@@ -32,3 +36,4 @@ Partizip I: [[findend]], Partizip II: [[gefunden]]
 
 
 [[verlieren]], [[suchen]], [[entdeckten]]
+, [[erfinden]]

@@ -1,1 +1,1 @@
-, [[kleben]]
+, [[kleben]], [[ausschneiden]]

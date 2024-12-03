@@ -7,6 +7,8 @@ haben [[geschnitten]]
 *ließ er sich nicht [[schneiden]]*  
 *seine [[Nägel]] fast ein Jahr;*  
 
+---
+[[ausschneiden]] - [[aus]] = [[schneiden]]
 
 
 ---
@@ -34,4 +36,4 @@ Morpheme: [[schneid]][[en]]
 
 Partizip I: [[schneidend]], Partizip II: [[geschnitten]]
 
-, [[stechen]]
+, [[stechen]], [[ausschneiden]]

@@ -1,1 +1,1 @@
-, [[Szene]]
+, [[Szene]], [[Bühnenmaler]]

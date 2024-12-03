@@ -7,6 +7,8 @@ ANNA: Das [[dauert]] sicher nur eine Woche …
 
 Der Krieg [[dauert]] schon 100 Jahre. Und du weißt nichts über ihn, weil du aus irgendeinem Grund die ganze Zeit da drin warst! 
 
+Es gibt Menschen, bei denen selbst kleine Arbeiten endlos [[dauern]]. 
+
 ---
 Synonyme: [[andauern]], [[währen]], [[anhalten]], [[bestehen]], [[fortfahren]]
 Antonyme: [[enden]], [[aufhören]], [[abbrechen]], [[beenden]], [[abschließen]]

@@ -1,1 +1,1 @@
-, [[Aufwachsen]], [[gewachsene]]
+, [[Aufwachsen]], [[gewachsene]], [[wachsen]]

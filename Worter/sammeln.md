@@ -3,6 +3,7 @@
 haben [[gesammelt]]
 
 ---
+Er [[sammelte]] Zeitungsausschnitte, Foto-grafien, Farbstudien, Landschaften, Portraits, Stillleben und historische Stoffe, die ihm als Vorlagen für Gemälde dienten
 
 ---
 [[ansammeln]] - [[an]] = [[sammeln]]

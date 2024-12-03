@@ -5,6 +5,7 @@ sein [[aufgewachsen]]
 ---
 Doch kein anderes Museum stellt das Leben und [[Aufwachsen]] in der DDR auf eine so anschauliche Weise dar.
 
+Er [[wuchs]] in den Orten Reichenau und Waltersdorf [[auf]].
 
 ---
 Synonyme: [[heranwachsen]], [[großwerden]], [[entwickeln]], [[gedeihen]]

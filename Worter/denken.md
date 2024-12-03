@@ -18,61 +18,28 @@ NIC: Hmmm … das [[dachte]] ich mir…
 
 Wir [[dachten]] sie sind ausgestorben. Und nun haben meine Enkeltochter und mein Enkelsohn dich gefunden.
 
+---
+[[nachdenken]] - [[nach]] = [[denken]]
 
 ---
-
-**Synonyme:**
-
-- [[überlegen]], [[nachdenken]], [[erwägen]]
+Synonyme: [[nachdenken]], [[reflektieren]], [[grübeln]], [[meditieren]], [[sinnen]]
+Antonyme: [[vergessen]], [[ignorieren]], [[verdrängen]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[denke]] oft an dich.
-- Du [[denkst]] über das Problem nach.
-- Er [[denkt]] positiv.
-- Es [[denkt]] viel nach.
-- Sie [[denkt]] immer logisch.
-- Wir [[denken]] an die Zukunft.
-- Ihr [[denkt]] zu viel nach.
-- Sie [[denken]] an ihre Kinder.
+Übersetzung: to think, to consider
 
 ---
+Morpheme: [[denk]][[en]]
+ #Verb  #Untrennbar
 
-**Übersetzung**:
-to think
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[denke]] | [[dachte]] | - | [[denke]] | [[dächte]] |
+| Du | [[denkst]] | [[dachtest]] | [[denk]] | [[denkest]] | [[dächtest]] |
+| Er/sie/es | [[denkt]] | [[dachte]] | - | [[denke]] | [[dächte]] |
+| Wir | [[denken]] | [[dachten]] | - | [[denken]] | [[dächten]] |
+| Ihr | [[denkt]] | [[dachtet]] | [[denkt]] | [[dencket]] | [[dächtet]] |
+| Sie | [[denken]] | [[dachten]] | [[denken Sie]] | [[denken]] | [[dächten]] |
 
----
- #Verb
-
----
-
-**Präteritum:**
-
-- Ich [[dachte]] oft an dich.
-- Du [[dachtest]] über das Problem nach.
-- Er [[dachte]] positiv.
-- Es [[dachte]] viel nach.
-- Sie [[dachte]] immer logisch.
-- Wir [[dachten]] an die Zukunft.
-- Ihr [[dachtet]] zu viel nach.
-- Sie [[dachten]] an ihre Kinder.
-
----
-
-**Imperativ:**
-
-- Ich [[denke]] an dich.
-- Du [[denk]] an dich.
-- Er [[denke]] an dich.
-- Es [[denkt]] an dich.
-- Sie [[denke]] an dich.
-- Wir [[denken]] an dich.
-- Ihr [[denkt]] an dich.
-- Sie [[denken]] an dich.
-
----
-
-**Morphems of only infinitive:**  
+Partizip I: [[denkend]], Partizip II: [[gedacht]]
 - [[denk]][[en]], [[meinen]], [[glaub]]

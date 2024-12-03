@@ -6,7 +6,6 @@
       {
         "id": "dbeb3dfb84ee20d8",
         "type": "tabs",
-        "dimension": 23.04147465437788,
         "children": [
           {
             "id": "fe21ebaad79bf8e4",
@@ -14,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/hinunter.md",
+                "file": "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hinunter"
+              "title": "1 Eine Doktorarbeit aus etwas machen"
+            }
+          },
+          {
+            "id": "c135e31dc3bc7d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/entscheiden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entscheiden"
             }
           },
           {
@@ -42,84 +55,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/winden.md",
+                "file": "Texte/b1/4 Gerhard Richter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "winden"
+              "title": "4 Gerhard Richter"
             }
           },
           {
-            "id": "9552f482f35054e1",
+            "id": "98b15e70e1ce3ee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/zuwerfen.md",
+                "file": "Worter/erhielt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zuwerfen"
+              "title": "erhielt"
             }
           },
           {
-            "id": "18efd96d98bac460",
+            "id": "e8fffe2b321cf1fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/wirft.md",
+                "file": "Worter/erhalten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wirft"
+              "title": "erhalten"
             }
           },
           {
-            "id": "52847d595064961c",
+            "id": "3f9746a14e13871a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/lichten.md",
+                "file": "Texte/b2 podcast/11 Über den Tellerrand schauen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lichten"
+              "title": "11 Über den Tellerrand schauen"
             }
           },
           {
-            "id": "1885d56e74de7b05",
+            "id": "9469e33b52bae81e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/blüten.md",
+                "file": "Worter/erfinden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blüten"
+              "title": "erfinden"
             }
-          },
-          {
-            "id": "0255519d69fea15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Avatar/s1 e1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "s1 e1"
-            },
-            "group": "7f5562c8be898755"
           },
           {
             "id": "5c8de313917b10a5",
@@ -164,52 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "be7863cb43f5683a",
-        "type": "tabs",
-        "dimension": 76.95852534562212,
-        "children": [
-          {
-            "id": "76aa73185349d71b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Texte/Avatar/s1 e1.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -2.3,
-                  "nodeSizeMultiplier": 0.794261407579273,
-                  "lineSizeMultiplier": 0.1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 12.6847125547822,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3507280958287501,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of s1 e1"
-            },
-            "group": "7f5562c8be898755"
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -301,12 +253,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/Avatar/s1 e1.md",
+                "file": "Worter/entscheiden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from s1 e1"
+              "title": "Outgoing links from entscheiden"
             }
           },
           {
@@ -328,10 +280,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Avatar/s1 e1.md"
+                "file": "Worter/entscheiden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of s1 e1"
+              "title": "Outline of entscheiden"
             }
           }
         ],
@@ -357,34 +309,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "76aa73185349d71b",
+  "active": "c135e31dc3bc7d69",
   "lastOpenFiles": [
-    "Worter/versteck.md",
-    "Worter/Verstecken.md",
-    "Texte/Avatar/s1 e1.md",
-    "Worter/Siedlung.md",
-    "Worter/sied.md",
-    "Worter/Niederlassung.md",
-    "Worter/Kolonie.md",
-    "Worter/Wohnanlage.md",
-    "Worter/Wohngebiet.md",
-    "Worter/Ansiedlung.md",
-    "Worter/Siedlungen.md",
-    "Worter/südlichen.md",
-    "Worter/Dorf.md",
-    "Worter/südlicherer.md",
-    "Worter/südlichedem.md",
-    "Worter/südlicheres.md",
-    "Worter/südlichere.md",
-    "Worter/südlicheren.md",
-    "Worter/nordwärts.md",
-    "Worter/südorientiert.md",
-    "Worter/südlich.md",
-    "Worter/südwärts.md",
-    "Worter/meridional.md",
-    "Worter/nördlich.md",
-    "Worter/dads.md",
-    "Worter/richtet.md",
+    "Worter/scheiden.md",
+    "Worter/entscheiden.md",
+    "Worter/entscheiden Sie.md",
+    "Worter/entschiedet.md",
+    "Worter/entscheidet.md",
+    "Worter/entschiedest.md",
+    "Worter/entschiedst.md",
+    "Worter/entscheidest.md",
+    "Worter/entscheide.md",
+    "Worter/scheid.md",
+    "Worter/unentschlossen sein.md",
+    "Worter/urteilen.md",
+    "Worter/beschließen.md",
+    "Worter/entschieden.md",
+    "Worter/entschied.md",
+    "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
+    "Worter/-igkeit.md",
+    "Worter/Kleinigkeit.md",
+    "Worter/Bedeutendes.md",
+    "Worter/Klacks.md",
+    "Worter/Petitesse.md",
+    "Worter/Lapalie.md",
+    "Worter/Nebensache.md",
+    "Worter/Bagatelle.md",
+    "Worter/Kleinigkeiten.md",
+    "Worter/nachdenken.md",
+    "Texte/b2 podcast",
     "Texte/b1",
     "Anhänge/Pasted image 20241112104051.png",
     "Texte/Avatar",
@@ -404,7 +357,6 @@
     "Lektionen/Logo",
     "Lektionen/Phonetik/Material",
     "Lektionen/Phonetik",
-    "Texte/Gedichte/Pop",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

@@ -1,1 +1,1 @@
-, [[abmachen]]
+, [[abmachen]], [[entscheiden]]

@@ -1,1 +1,1 @@
-, [[dauernd]], [[kontinuierlich]]
+, [[dauernd]], [[kontinuierlich]], [[endlos]]

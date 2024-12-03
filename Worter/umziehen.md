@@ -3,8 +3,9 @@
 haben [[umgezogen]]
 
 ---
-Igitt! Ich muss mich umziehen!  
+Igitt! Ich muss mich [[umziehen]]!  
 
+ 1961, vor dem Bau der Mauer, [[zog]] er nach Düsseldorf [[um]] und studierte hier bis 1963 an der Kunstakademie.
 
 ---
 Synonyme: [[verlegen]], [[übersiedeln]], [[übersiedeln]], [[umsiedeln]], [[umziehen]]

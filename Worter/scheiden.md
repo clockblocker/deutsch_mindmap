@@ -4,7 +4,10 @@ haben [[geschieden]]
 
 ---
 - Willst du bis der Tod euch scheidet  
--
+
+---
+[[entscheiden]] - [[ent]] = [[scheiden]] / decide
+
 
 ---
 Synonyme: [[trennen]], [[verlassen]], [[auseinandergehen]], [[aufhören]], [[zerfallen]]
@@ -31,4 +34,4 @@ Morpheme: [[scheide]][[Worter/n]]
 
 Partizip I: [[scheidend]], Partizip II: [[geschieden]]
 
-[[scheiden]] - [[scheide]] = [[Worter/n]][[vermischen]], [[heiraten]], [[trauen]]
+[[scheiden]] - [[scheide]] = [[Worter/n]][[vermischen]], [[heiraten]], [[trauen]], [[entscheiden]]

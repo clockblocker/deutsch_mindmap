@@ -5,7 +5,7 @@
 
 ---
 Synonyme: 
-- [[8]], [[Achtzahl]]
+- [[Worter/8]], [[Achtzahl]]
 
 ---
 Übersetzung: eight, 8

@@ -1,1 +1,1 @@
-, [[Wäsche]]
+, [[Wäsche]], [[Stoff]]

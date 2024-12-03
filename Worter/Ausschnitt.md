@@ -1,1 +1,1 @@
-, [[schnitt]]
+[[ausschneiden]]

@@ -1,1 +1,1 @@
-, [[Aufwachsen]], [[blühen]]
+, [[Aufwachsen]], [[blühen]], [[wachsen]]

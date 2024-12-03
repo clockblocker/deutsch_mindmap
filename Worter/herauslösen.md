@@ -1,1 +1,1 @@
-, [[lösen]]
+, [[lösen]], [[ausschneiden]]

@@ -1,2 +1,2 @@
 [[ziehen]]
-, [[festziehen]], [[herausziehen]], [[umziehen]], [[losziehen]], [[weiterziehen]], [[anziehen]], [[verziehen]]
+, [[festziehen]], [[herausziehen]], [[umziehen]], [[losziehen]], [[weiterziehen]], [[anziehen]], [[verziehen]], [[Erzieher]]
