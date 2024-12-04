@@ -8,31 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe21ebaad79bf8e4",
+            "id": "7407c9add2020f63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
+                "file": "Texte/b2 podcast/2 Ein dickes Fell haben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Eine Doktorarbeit aus etwas machen"
+              "title": "2 Ein dickes Fell haben"
             }
           },
           {
-            "id": "57a11f1cae5eb8e1",
+            "id": "e2d8c098b1e5e0e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/anderessehen.md",
+                "file": "Worter/aufsehen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "anderessehen"
+              "title": "aufsehen"
+            }
+          },
+          {
+            "id": "39556344d1a97f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Seit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seit"
             }
           },
           {
@@ -199,8 +213,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
+                "file": "Texte/b2 podcast/2 Ein dickes Fell haben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1 Eine Doktorarbeit aus etwas machen"
+              "title": "Outgoing links from 2 Ein dickes Fell haben"
             }
           },
           {
@@ -266,10 +279,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md"
+                "file": "Texte/b2 podcast/2 Ein dickes Fell haben.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 Eine Doktorarbeit aus etwas machen"
+              "title": "Outline of 2 Ein dickes Fell haben"
             }
           }
         ],
@@ -295,34 +308,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fe21ebaad79bf8e4",
+  "active": "7407c9add2020f63",
   "lastOpenFiles": [
-    "Worter/dauern.md",
-    "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
-    "Worter/sehen.md",
-    "Worter/aussehen.md",
-    "Worter/sehen lassen.md",
-    "Worter/umsehen.md",
-    "Worter/wiedersehen.md",
-    "Worter/ansehen.md",
-    "Worter/anderessehen.md",
-    "Worter/anders sehend.md",
-    "Worter/sehen Sie anders.md",
-    "Worter/sähet anders.md",
-    "Worter/sehet anders.md",
-    "Worter/saht anders.md",
-    "Worter/seht anders.md",
-    "Worter/sähen anders.md",
-    "Worter/sahen anders.md",
-    "Worter/sehen anders.md",
-    "Worter/sieht anders.md",
-    "Worter/sähest anders.md",
-    "Worter/sehest anders.md",
-    "Worter/sieh anders.md",
-    "Worter/sahst anders.md",
-    "Worter/siehst anders.md",
-    "Worter/sähe anders.md",
-    "Worter/sehe anders.md",
+    "Worter/schlichten.md",
+    "Worter/Gedanken.md",
+    "Worter/Gedanke.md",
+    "Worter/Gedankem.md",
+    "Worter/Gedankens.md",
+    "Worter/Konzept.md",
+    "Worter/Einfall.md",
+    "Worter/Überlegung.md",
+    "Texte/b2 podcast/2 Ein dickes Fell haben.md",
+    "Worter/kostenlos.md",
+    "Worter/kostenlosestem.md",
+    "Worter/kostenlosestes.md",
+    "Worter/kostenloseste.md",
+    "Worter/kostenlosester.md",
+    "Worter/kostenlosesten.md",
+    "Worter/kostenloseren.md",
+    "Worter/kostenloserem.md",
+    "Worter/kostenlosere.md",
+    "Worter/kostenloserer.md",
+    "Worter/kostenlosem.md",
+    "Worter/kostenlosen.md",
+    "Worter/kostenloses.md",
+    "Worter/kostenlose.md",
+    "Worter/kostenloser.md",
+    "Worter/entgeltlich.md",
+    "Worter/kostenpflichtig.md",
     "Texte/b2 podcast",
     "Texte/b1",
     "Anhänge/Pasted image 20241112104051.png",

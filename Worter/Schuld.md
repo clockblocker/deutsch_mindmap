@@ -1,10 +1,11 @@
 die [[Schuld]], [ʃʊlt]
-der [[Schulde]]
-
+die [[Schulde]]
 
 ---
 Ist es jetzt noch meine [[Schuld]], ja?!
 [[SCHULDSCHEIN]]
+
+Bei seinem alten Lehrer hatte er immer gute Noten! Ganz bestimmt ist es Ihre [[Schuld]], dass er plötzlich so schlecht ist!“
 
 ---
 Synonyme:

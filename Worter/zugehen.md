@@ -5,6 +5,8 @@ sein [[zugegangen]]
 ---
 _Aang [[geht]] auf das Schiff [[zu]]._
 
+Nach der Pause hat sie ein Elterngespräch. Da [[geht]] es hoffentlich etwas ruhiger [[zu]].
+
 ---
 Synonyme: [[ankommen]], [[herankommen]], [[näher kommen]], [[sich nähern]], [[erreichen]]
 Antonyme: [[weggehen]], [[sich entfernen]], [[abfahren]]

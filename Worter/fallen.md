@@ -11,6 +11,7 @@ so [[fallen]] die Bücher doch runter …
 ---
 [[gefallen]] - [[ge]] = [[fallen]] / like
 [[missfallen]] - [[miss]] = [[fallen]] / dislike
+[[auffallen]] - [[auf]] = [[fallen]] //  to stand out, to be noticeable
 
 
 ---
@@ -39,4 +40,4 @@ Partizip I: [[fallend]], Partizip II: [[gefallen]]
 
 
 +[[über]] = [[überfallen]]
-+[[ein]] = [[einfallen]], [[Extra 8]], [[steigen]], [[stehen]], [[schweben]], [[klettern]], [[missfallen]]
++[[ein]] = [[einfallen]], [[Extra 8]], [[steigen]], [[stehen]], [[schweben]], [[klettern]], [[missfallen]], [[auffallen]]

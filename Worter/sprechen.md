@@ -7,6 +7,10 @@ Sprich mit der Kamera wie mit einer schönen Frau …
 
 (Hängt mit der Zunge an seinem Stab und [[spricht]] undeutlich)
 
+---
+[[ansprechen]] - [[an]] = [[sprechen]] // to address, to speak to, to approach
+[[versprechen]] - [[ver]] = [[sprechen]] // to promise
+
 
 ---
 Synonyme: [[reden]], [[diskutieren]], [[konversieren]], [[artikulieren]], [[debattieren]]
@@ -33,4 +37,4 @@ Morpheme: [[sprech]][[en]]
 
 Partizip I: [[sprechend]], Partizip II: [[gesprochen]]
 
-, [[ansprechen]], [[7 Die Geschichte vom Zappel-Philipp]]
+, [[ansprechen]], [[7 Die Geschichte vom Zappel-Philipp]], [[versprechen]]

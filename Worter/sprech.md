@@ -1,1 +1,1 @@
-, [[sprechen]], [[ansprechen]], [[Ansprache]]
+, [[sprechen]], [[ansprechen]], [[Ansprache]], [[versprechen]]

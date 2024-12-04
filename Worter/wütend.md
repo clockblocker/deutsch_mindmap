@@ -1,10 +1,11 @@
 Positive: [[wütend]]
-Comparative: [[wütender]]
-Superlative: [[am wütendsten]]
 
+---
 _Sokka dreht sich [[wütend]] zu Katara um._
 
 ([[Dreht um|Dreht]] sich [[wütend]] zu Iroh um) 
+
+Aber im Gegenteil: Die Mutter von Marvin ist [[wütend]]: „Sie haben meinem Sohn eine Fünf gegeben! Bei seinem alten Lehrer hatte er immer gute Noten! Ganz bestimmt ist es Ihre Schuld, dass er plötzlich so schlecht ist!“
 
 ![[Pasted image 20240702140537.png]]
 

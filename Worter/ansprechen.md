@@ -6,6 +6,8 @@ haben [[angesprochen]]
 *So [[sprach]] sie ihren Liebsten [[an]]*  
 *Ob er es ihr steigen kann*
 
+Laura ist seit ein paar Tagen sehr unkonzentriert fällt ihr auf. Nach dem Unterricht [[ansprechen|spricht]] sie sie deshalb [[an]]. 
+
 ---
 Synonyme: [[adressieren]], [[anreden]], [[kontaktieren]], [[auffordern]], [[addressieren]]
 Antonyme: [[ignorieren]], [[schweigen]], [[überhören]]
@@ -27,4 +29,4 @@ Morpheme: [[an]][[sprech]][[en]]
 | Sie | [[sprechen an]] | [[sprachen an]] | [[sprechen Sie an]] | [[sprechen an]] | [[sprächen an]] |
 
 Partizip I: [[ansprechend]], Partizip II: [[angesprochen]]
-[[ansprechen]] - [[an]] = [[sprechen]]
+[[ansprechen]] - [[an]] = [[sprechen]] // to address, to speak to, to approach

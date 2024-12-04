@@ -22,4 +22,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen:
 [[seitdem]]
-''', [[s1 e1]]
+''', [[s1 e1]], [[Seit]]

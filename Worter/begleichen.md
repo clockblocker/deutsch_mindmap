@@ -32,4 +32,4 @@ Morpheme: [[be]][[gleich]][[en]]
 
 Partizip I: [[ausgleichend]], Partizip II: [[ausgeglichen]]
 
-[[begleichen]] - [[be]] = [[gleichen]]
+[[begleichen]] - [[be]] = [[gleichen]], [[schlichten]]

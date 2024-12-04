@@ -35,4 +35,4 @@ Partizip I: [[aufgebend]], Partizip II: [[aufgegeben]]
 [[verlassen]], [[verlieren]], [[angreifen]], [[retten]], [[nachjagen]], [[suchen]], [[aushalten]], [[mithalten]], [[beherrschen]]
 , [[versuchen]], [[steuere]], [[üben]], [[schaffen]], [[bemühen]]
 
-, [[überwinden]], [[verfolgen]]
+, [[überwinden]], [[verfolgen]], [[ertragen]]

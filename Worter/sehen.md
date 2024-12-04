@@ -3,12 +3,13 @@
 ---
 
 ---
-[[anderssehen]] - [[anders]] = [[sehen]]
-[[ansehen]] - [[an]] = [[sehen]]
-[[aussehen]] - [[aus]] = [[sehen]]
-[[sehen lassen]] = [[sehen]] + [[lassen]]
-[[umsehen]] - [[um]] = [[sehen]]
-[[wiedersehen]] - [[wieder]] = [[sehen]]
+[[anderessehen]] - [[anders]] = [[sehen]] /  to see differently, to view from another perspective
+[[ansehen]] - [[an]] = [[sehen]]                  / to look at, to view, to see
+[[aussehen]] - [[aus]] = [[sehen]]              / to look, to appear
+[[sehen lassen]] = [[sehen]] + [[lassen]]  / to show oneself, to demonstrate
+[[umsehen]] - [[um]] = [[sehen]]               / to look around, to survey
+[[wiedersehen]] - [[wieder]] = [[sehen]]   / to see again, to meet again
+[[aufsehen]] - [[auf]] = [[sehen]]                / to look up, to notice
 
 
 ---
@@ -38,4 +39,4 @@ Partizip I: [[sehend]], Partizip II: [[gesehen]]
 
 
 [[wiedersehen]], [[ansehen]], [[aussehen]]
-, [[gucken]], [[sehen lassen]], [[umsehen]], [[anderessehen]]
+, [[gucken]], [[sehen lassen]], [[umsehen]], [[anderessehen]], [[aufsehen]]

@@ -6,6 +6,9 @@ haben [[gekriegt]]
 *Dann [[kriegt]] der Frust uns nicht mehr klein* 
 Wir kriegen doch CNN über Satellit, oder nicht?
 
+Der Kollege lacht: „Das Geld kannst du dir sparen. In unserem Job [[kriegst]] du das kostenlos. Leider dauert es ein paar Jahre.“
+
+
 ---
 [[aufzukriegen]] - [[auf]][[zu]] = [[kriegen]]
 

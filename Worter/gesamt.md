@@ -2,7 +2,9 @@ gesamt, [gəˈzamt]
 nicht [[teilweise]]
 
 ---
-Aang, das hier ist unser gesamtes Dorf. Gesamtes Dorf, Aang.
+Aang, das hier ist unser [[gesamtes]] Dorf. Gesamtes Dorf, Aang.
+
+🔴 die [[Gesamtschule]], [gəˈzamtˌʃuːlə]
 
 ---
 Synonyme: [[ganz]], [[vollständig]], [[komplett]], [[total]], [[umfassend]], [[ganz]], [[Alle]]
@@ -20,3 +22,4 @@ Einzigartige mögliche Formen:
 [[gesamt]], [[gesamter]], [[gesamte]], [[gesamtes]], [[gesamten]], [[gesamtem]], [[gesamter]], [[gesamten]]
 [[gesamterer]], [[gesamtere]], [[gesamteres]], [[gesamteren]], [[gesamterem]], [[gesamterer]], [[gesamteren]]
 [[gesamtesten]], [[gesamtester]], [[gesamteste]], [[gesamtestes]], [[gesamtesten]], [[gesamtestem]], [[gesamtester]], [[gesamtesten]]
+, [[Gesamtschule]]

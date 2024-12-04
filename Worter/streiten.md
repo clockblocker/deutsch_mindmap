@@ -72,4 +72,4 @@ Konjunktiv II:
 - Wenn er nachgiebiger wäre, [[stritte]] er nicht ständig.
 - Wenn wir einig wären, [[stritten]] wir nicht.
 - Wenn ihr euch besser verstündet, [[strittet]] ihr nicht so oft.
-- Wenn sie ruhiger wären, [[stritten]] sie nicht um jede Kleinigkeit.
+- Wenn sie ruhiger wären, [[stritten]] sie nicht um jede Kleinigkeit., [[schlichten]]

@@ -1,26 +1,32 @@
-🔵 der [[Hirsch]]
+🔵 der [[Hirsch]], [ˈhɪʁʃ]
 die [[Hirsche]]
 
+---
 Eines Tages aber bekam der Hase Streit mit einem Hirsch;
-
-
-Beispiele:
-
-- Der [[Hirsch]] stolzierte durch den Wald.
-- Im Herbst kämpfen die [[Hirsche]] um die Vorherrschaft.
-- Ein prächtiger [[Hirsch]] stand am Waldrand.
 
 ---
 Synonyme:
-- [[Rehbock]], [[wild]], [[Wapiti]]
+- [[Rothirsch]], [[Geweihträger]], [[Edelhirsch]], [[Hirschbock]]
+
+Antonyme:
+- [[Reh]], [[Gazelle]], [[Damwild]]
 
 ---
-**Übersetzung**: stag, deer
+Übersetzung: deer, stag
 
 ---
-
-Morphems:
+Morpheme:
 [[Hirsch]]
 
 ---
+Einzigartige mögliche Formen: 
+Singular: [[Hirsch]], [[Hirsches]], [[Hirsche]], [[Hirschs]]
+Plural: [[Hirsche]], [[Hirschen]]
+
+---
 #Substantiv #Maskulin
+
+Kulturelle Bedeutung:
+- In der deutschen Mythologie symbolisiert der Hirsch Kraft, Würde und Freiheit
+- Wichtiges Jagdwild in europäischen Wäldern
+- Oft in Wappen und Heraldik verwendet

@@ -9,6 +9,8 @@
 ([[Plötzlich]] munter) 
 Willst du mit mir Pinguinschlitten fahren?
 
+Bei seinem alten Lehrer hatte er immer gute Noten! Ganz bestimmt ist es Ihre Schuld, dass er [[plötzlich]] so schlecht ist!“
+
 ---
 Synonyme: [[unerwartet]], [[unverhofft]], [[abrupt]], [[schlagartig]], [[urplötzlich]]
 Antonyme: [[erwartbar]], [[allmählich]], [[schrittweise]]

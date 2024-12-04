@@ -1,2 +1,2 @@
 [[tragen]]  
-, [[übertragen]]
+, [[übertragen]], [[ertragen]]

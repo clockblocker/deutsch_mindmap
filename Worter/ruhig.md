@@ -9,6 +9,7 @@ SASCHA: Aber ich weiß, wie ich [[ruhig]] bleiben kann
 
 Bleib [[ruhig]]!
 
+Nach der Pause hat sie ein Elterngespräch. Da geht es hoffentlich etwas [[ruhiger]] zu.
 
 ---
 [[beruhigen]] - [[be]] = [[ruhig]]

@@ -6,6 +6,8 @@
 *Und so kommt es, dass das Wasser*  
 *In den Meeren salzig ist
 
+Auch [[manche]] Menschen müssen ein dickes Fell haben, um sich zu schützen.
+
 ---
 Synonyme: [[gewisse]], [[einige]], [[bestimmte]], [[etliche]], [[verschiedene]]
 Antonyme: [[keine]], [[keine einzige]], [[niemand]], [[niemals]]

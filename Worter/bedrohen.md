@@ -1,1 +1,1 @@
-, [[erpressen]]
+, [[erpressen]], [[schützen]]

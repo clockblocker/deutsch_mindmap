@@ -6,6 +6,9 @@ haben [[gestanden]]
 *[[stehen lassen|laß stehn]]! sonst brennst du lichterloh!"*
 
 ---
+[[ständig]] / constantly
+
+---
 Synonyme: [[aufrecht sein]], [[verweilen]], [[bleiben]], [[verharren]], [[ruhen]]
 Antonyme: [[sitzen]], [[liegen]], [[fallen]], [[gehen]], [[hocken]]
 
@@ -32,4 +35,4 @@ Partizip I: [[stehend]], Partizip II: [[gestanden]]
 
 
 [[verstehen]], [[bestehen]], [[bücken]], [[widerstehen]], [[liegen]], [[laufen]]
-, [[stehen lassen]], [[krabbeln]], [[7 Die Geschichte vom Zappel-Philipp]], [[rutschen]]
+, [[stehen lassen]], [[krabbeln]], [[7 Die Geschichte vom Zappel-Philipp]], [[rutschen]], [[ständig]]

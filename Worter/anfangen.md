@@ -6,6 +6,7 @@ haben [[angefangen]]
 Am [[Anfang]] сначала
 ANNA: Also … wo [[anfangen|fangen]] wir an …?  
 
+Laura [[fängt]] [[an]] zu weinen: „Meine Eltern lassen sich scheiden!“ Oh je, denkt Tanja, das ist nicht leicht für das Mädchen.
 
 ---
 Synonyme: [[beginnen]], [[loslegen]], [[starten]], [[einleiten]], [[eröffnen]]
@@ -32,4 +33,5 @@ Morpheme: [[an]][[fang]][[en]]
 
 Partizip I: [[anfangend]], Partizip II: [[angefangen]]
 
-[[anfangen]] - [[an]] = [[fangen]], [[Extra 8]]
+[[anfangen]] - [[an]] = [[fangen]] // to begin, to start
+[[Extra 8]]

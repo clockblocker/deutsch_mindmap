@@ -10,7 +10,8 @@ und [[trug]] die Peitsche in dem Mund
 *Ein König ohne Königin*
 
 ---
-[[übertragen]] - [[über]] = [[tragen]]
+[[übertragen]] - [[über]] = [[tragen]] // to transfer, to transmit, to broadcast
+[[ertragen]] - [[er]] = [[tragen]] //  to endure,
 
 ---
 

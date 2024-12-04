@@ -68,4 +68,4 @@ to look, to watch
 ---
 
 **Morphems of only infinitive:**  
-- [[schau]][[en]], [[gucken]]
+- [[schau]][[en]], [[gucken]], [[aufsehen]]

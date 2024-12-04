@@ -35,4 +35,4 @@ Morpheme: [[brech]][[en]]
 
 Partizip I: [[brechend]], Partizip II: [[gebrochen]]
 
-, [[unterbrechen]], [[zusammenbrechen]]
+, [[unterbrechen]], [[zusammenbrechen]], [[versprechen]]

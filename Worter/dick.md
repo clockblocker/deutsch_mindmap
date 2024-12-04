@@ -27,6 +27,6 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[dick]], [[dickere]], [[dickeren]], [[dickeres]], [[dickerem]], [[dickerer]], [[dickeren]], [[dickste]], [[dickster]], [[dickste]], [[dickstes]], [[dicksten]], [[dickstem]], [[dickster]], [[dicksten]], [[dicker]]
+[[dick]], [[dickere]], [[dickeren]], [[dickeres]], [[dickerem]], [[dickerer]], [[dickeren]], [[dickste]], [[dickster]], [[dickste]], [[dickstes]], [[dicksten]], [[dickstem]], [[dickster]], [[dicksten]], [[dicker]], [[dickes]]
 
 [[Spitze]], [[schmale]]

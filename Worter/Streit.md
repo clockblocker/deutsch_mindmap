@@ -1,14 +1,10 @@
-
 🔵 der [[Streit]]
 die [[streite]]
 
-Eines Tages aber bekam der Hase Streit mit einem Hirsch;
+---
+Eines Tages aber bekam der Hase [[Streit]] mit einem [[Hirsch]];
 
-Beispiele:
-
-- Der [[Streit]] zwischen den beiden Freunden eskalierte.
-- Sie hatten einen heftigen [[Streit]].
-- Nach dem [[Streit]] herrschte Stille im Raum.
+Leider kann sie nicht lange mit ihr sprechen, denn sie hat [[Aufsicht]] auf dem [[Pausenhof]]. Dort ist es sehr laut, und immer wieder muss sie Streit schlichten.
 
 ---
 Synonyme:
@@ -24,3 +20,4 @@ Morphems:
 
 ---
 #Substantiv #Maskulin 
+, [[schlichten]]
