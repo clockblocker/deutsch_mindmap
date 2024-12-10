@@ -11,6 +11,9 @@ Aber ich glaube [[fest]] daran, Aang kann diese Welt retten.
 
 [[festziehen]],
 
+, [[erstaunlich]], [[verwundern]], [[wundern]]
+
+
 ---
 Synonyme: 
 [[sicher]], [[stabil]], [[kompakt]], [[robust]], [[dauerhaft]]

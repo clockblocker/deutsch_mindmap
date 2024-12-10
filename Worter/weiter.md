@@ -18,4 +18,4 @@ Synonyme:
 **Übersetzung**: further, continue, go on
 
 ---
-#Adverb, [[weit]], [[vorwärts]], [[voraus]], [[weiterüben]]
+#Adverb, [[weit]], [[vorwärts]], [[voraus]], [[weiterüben]], [[enger]]

@@ -8,6 +8,10 @@ Oh Mann. [[Ich mach mir Sorgen]] …
 *Das Schicksal hat mich angelacht*  
 *Und mir ein [[Geschenk]] gemacht*  
 
+„Ich habe Vanessa einen [[Heiratsantrag]] [[gemacht]]. Und sie hat Ja gesagt“, 
+
+Wer kennt das nicht: Man hat zugenommen und muss den [[Gürtel]] ganz [[weit]] [[machen]].
+
 ---
 [[anmachen]] - [[an]] = [[machen]]
 [[ausmachen]] - [[aus]] = [[machen]]

@@ -5,6 +5,8 @@ haben [[gehandelt]]
 ---
 Psychologen meinen, dass 60 Prozent aller Gespräche von Menschen [[handeln]], die nicht anwesend sind. 
 
+– Wir wollen den Hauskauf nicht übers Knie brechen. (Wir wollen nicht überstürzt und unüberlegt [[handeln]])
+
 ---
 +[[be]] = [[behandeln]]
 

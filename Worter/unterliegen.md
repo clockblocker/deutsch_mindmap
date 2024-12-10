@@ -1,1 +1,1 @@
-, [[überwinden]]
+, [[überwinden]], [[überstehen]]

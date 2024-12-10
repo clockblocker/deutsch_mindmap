@@ -1,1 +1,1 @@
-, [[aushalten]], [[ertragen]]
+, [[aushalten]], [[ertragen]], [[überstehen]]

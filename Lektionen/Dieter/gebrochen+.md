@@ -16,13 +16,13 @@
 
 ﻿﻿Der [[Läufer]] bricht den Rekord. (Er schlägt den [[bisher]] Schnellsten.)
 
-﻿﻿Der Vater bricht den [[Trotz]] seines Sohnes. (Er macht ihn durch [[Strenge]] [[gehorsam]].)
+﻿﻿Der Vater bricht de[[trotz]]]] seines Sohnes. (Er macht ihn durch [[Strenge]] [[gehorsam]].)
 
 ﻿﻿Der Kaufmann brach den [[Vertrag]]. (Er [[verletzte]] ihn.)
 
 ﻿﻿Er hat sein Wort gebrochen. (Er [[hielt]] sein [[Versprechen]] nicht.)
 
-﻿﻿Der Mann hat die [[Ehe]] gebrochen. (Er hat seine Frau betrogen.)
+﻿﻿Der Mann hat di[[ehe]]]] gebrochen. (Er hat seine Frau betrogen.)
 
 ﻿﻿Wir wollen den [[Hauskauf]] nicht übers Knie brechen. (Wir wollen nicht [[überstürzt]] und [[unüberlegt]] handeln; I., U.)
 

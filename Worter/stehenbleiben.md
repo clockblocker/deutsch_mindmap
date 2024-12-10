@@ -1,1 +1,1 @@
-, [[springen]], [[losfahren]], [[gleiten]], [[wandeln]], [[trappeln]], [[rutschen]]
+, [[springen]], [[losfahren]], [[gleiten]], [[wandeln]], [[trappeln]], [[rutschen]], [[weiterziehen]]

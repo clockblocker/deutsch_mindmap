@@ -28,4 +28,4 @@ Beispiele:
   
   
 , [[dauernd]], [[anständig]]
-  
+  , [[selten]]

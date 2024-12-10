@@ -3,12 +3,18 @@
 haben [[gefreut]]
 
 ---
-*Paulinchen aber freut sich sehr*  
+*Paulinchen aber [[freut]] sich sehr*  
 *und sprang im Zimmer hin und her.*  
 
 Und [[besonders]] mit deiner köstlichen Schoko-Eisbombe. Das [[freut]] mich …
 
 Vielen Dank für all die schönen Sachen. Ich habe mich wirklich darüber [[gefreut]]
+
+[[3 Sich freuen wie ein Schneekönig]]  
+
+Es gibt viele Arten, sich zu [[freuen]]. Man kann laut lachen oder schreien. 
+
+„Na, du [[freust]] dich ja wie ein Schneekönig. Was ist denn passiert?“, fragt der Nachbar. 
 
 ---
 Synonyme: [[erfreuen]], [[beglücken]], [[entzücken]], [[erheitern]], [[ergötzen]]

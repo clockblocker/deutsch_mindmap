@@ -1,1 +1,1 @@
-, [[einbauen]], [[festkleben]], [[aufhängen]]
+, [[einbauen]], [[festkleben]], [[aufhängen]], [[schnallen]]

@@ -32,4 +32,4 @@ Morpheme: [[hin]][[hör]][[en]]
 Partizip I: [[hinhörend]], Partizip II: [[hingehört]]
 
 [[hinhören]] - [[hin]] = [[hören]]
-, [[Extra 8]]
+, [[Extra 8]], [[anhören]]

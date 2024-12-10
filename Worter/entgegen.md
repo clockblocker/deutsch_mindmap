@@ -1,1 +1,1 @@
-, [[dagegen]], [[ebenfalls]]
+, [[dagegen]], [[ebenfalls]], [[trotz]], [[wider]]

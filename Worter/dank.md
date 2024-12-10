@@ -1,1 +1,1 @@
-, [[danken]], [[Gedanke]]
+, [[danken]], [[Gedanke]], [[trotz]]

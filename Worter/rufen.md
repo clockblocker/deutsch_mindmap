@@ -1,6 +1,4 @@
-🔔 [[rufen]] + Akk, [ˈruːfən]
-[[rief]]
-haben [[gerufen]]
+🔔 [[rufen]] + Akk, [ˈruːfən], [[rief]], haben [[gerufen]]
 
 ---
 *Er tunkt sie in die Tinte tief,*  
@@ -10,6 +8,8 @@ haben [[gerufen]]
 *Witterten schon fette Beute*  
 *[[Riefen]]: „Krieg!“, und wollten Macht*  
 *Mann, wer hätte das gedacht?
+
+Moritz lacht laut. „Ich habe Vanessa einen Heiratsantrag gemacht. Und sie hat Ja gesagt“, [[ruft]] Moritz glücklich
 
 ---
 Synonyme: [[ausrufen]], [[schreien]], [[brüllen]], [[bellen]], [[verkünden]], [[herbeirufen]]

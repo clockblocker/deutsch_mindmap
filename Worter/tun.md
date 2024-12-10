@@ -1,6 +1,4 @@
-📜 [[tun]] + Akk, [tuːn]
-[[tat]] 
-haben [[getan]]
+📜 [[tun]] + Akk, [tuːn], [[tat]], haben [[getan]]
 
 ---
 *Ich zünde mir ein Hölzchen an,*  

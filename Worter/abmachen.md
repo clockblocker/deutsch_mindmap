@@ -32,3 +32,4 @@ Morpheme: [[ab]][[mach]][[en]]
 Partizip I: [[abmachend]], Partizip II: [[abgemacht]]
 
 [[abmachen]] - [[ab]] = [[machen]]
+, [[schnallen]]

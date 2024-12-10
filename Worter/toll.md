@@ -17,6 +17,7 @@ AN: NADJA; VON: ANNA Ist die Fernsehwerbung nicht [[toll]]?
 
 [[Tolles]] Kostüm, Nic. Sascha, komm her. Das musst du sehen!  
 
+„Das ist ja toll!“, sagt der Nachbar, „herzlichen Glückwunsch.“ 
 
 ---
 Synonyme: [[fantastisch]], [[grossartig]], [[wunderbar]], [[hervorragend]], [[Spitze]], [[super]]

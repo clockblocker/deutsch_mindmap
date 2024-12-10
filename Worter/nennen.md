@@ -1,9 +1,9 @@
-[[nennen]] + Akk, [ˈnɛnən]
-[[nannte]]
-haben [[genannt]]
+[[nennen]] + Akk, [ˈnɛnən], [[nannte]], haben [[genannt]]
 
 ---
 Das hat nichts mit Zauberei zu tun. Das [[nennt]] sich Wasserbändigen!
+
+Und manche Menschen [[hören]] sich dabei [[fast]] so an wie ein Vogel – wie der Zaunkönig, der auch Schneekönig genannt wird.** 
 
 ---
 Synonyme: [[bezeichnen]], [[benennen]], [[titulieren]], [[heißen]], [[betiteln]]

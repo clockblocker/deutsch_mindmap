@@ -4,6 +4,8 @@ die [[Glückwünsche]]
 ---
 Ganz recht _Sokka tippt sie mit dem Ellenbogen an_ [[Meinen herzlichen Glückwunsch]]!
 
+„Das ist ja toll!“, sagt der Nachbar, „herzlichen [[Glückwunsch]].“ 
+
 ---
 Synonyme:
 - [[Gratulation]], [[Beglückwünschung]], [[Glückwünsche]] 

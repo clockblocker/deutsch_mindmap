@@ -1,1 +1,1 @@
-[[drücken]][[verlassen]][[Übernehmen]][[werfen]], [[greifen]], [[fassen]], [[nachjagen]], [[krallen]], [[beißen]], [[losschießen]], [[aufhalten]], [[antippen]], [[fangen]], [[schnappen]], [[tragen]]
+[[drücken]][[verlassen]][[Übernehmen]][[werfen]], [[greifen]], [[fassen]], [[nachjagen]], [[krallen]], [[beißen]], [[losschießen]], [[aufhalten]], [[antippen]], [[fangen]], [[schnappen]], [[tragen]], [[nehmen]]

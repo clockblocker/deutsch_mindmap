@@ -1,1 +1,1 @@
-[[Alle]], [[einzelnen]], [[einsam]], [[Öfteren]]
+[[Alle]], [[einzelnen]], [[einsam]], [[Öfteren]], [[selten]]

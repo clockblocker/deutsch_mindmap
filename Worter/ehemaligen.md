@@ -1,1 +1,1 @@
-[[ehemalige]]
+[[ehemalige]], [[ehe]]

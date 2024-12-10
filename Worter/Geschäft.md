@@ -1,15 +1,10 @@
-
 **das [[Geschäft]]**
 **die [[Geschäfte]]**
 
 ![[Pasted image 20240729134659.png]]
 
-
-Beispiele:
-
-- Ich gehe ins [[Geschäft]], um ein Geschenk zu kaufen.
-- Das [[Geschäft]] öffnet um neun Uhr morgens.
-- Die [[Geschäfte]] in der Stadt sind am Sonntag geschlossen.
+----
+Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein [[Geschäft]] läuft zurzeit nicht gut und sein Konto ist fast leer. 
 
 ---
 

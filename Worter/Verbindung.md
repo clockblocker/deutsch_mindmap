@@ -1,1 +1,1 @@
-, [[Abstand]]
+, [[Abstand]], [[Beziehung]]

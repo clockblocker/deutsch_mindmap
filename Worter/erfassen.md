@@ -1,1 +1,1 @@
-[[verstehen]], [[erkennen]]
+[[verstehen]], [[erkennen]], [[nehmen]]

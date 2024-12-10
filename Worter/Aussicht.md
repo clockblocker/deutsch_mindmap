@@ -21,3 +21,4 @@ Einzigartige mögliche Formen: [[Aussicht]], [[Aussichten]], [[Aussichts]], [[Au
 
 ---
 #Substantiv #Feminin
+, [[Zukunft]]

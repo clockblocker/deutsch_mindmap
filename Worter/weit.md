@@ -9,7 +9,11 @@ nicht [[eng]]
 *Ist gleich im Zimmer nebenan
 
 *Doch weh! die Flamme faßt das Kleid,*  
-*die Schürze brennt, es leuchtet [[weit]].*  
+*die Schürze brennt, es leuchtet [[weit]].* 
+
+Wer kennt das nicht: Man hat zugenommen und muss den Gürtel ganz [[weit]] machen.
+
+Sein Nachbar hört ihn schon von [[Weitem]]
 
 ---
 Synonyme: 
@@ -38,3 +42,5 @@ Einzigartige mögliche Formen:
 
 [[speziellen]], [[breit]]
 , [[schmale]], [[fern]], [[nah]], [[klein]]
+
+---

@@ -3,6 +3,7 @@
 nicht [[gefüllt]], nicht [[voll]]
 [[voll]] ist das Gegenteil von [[leer]].
 
+Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein Geschäft läuft zurzeit nicht gut und sein Konto ist fast [[leer]]. 
 
 ---
 SASCHA: Mein Parfüm ist [[leer]]!  

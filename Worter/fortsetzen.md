@@ -1,1 +1,1 @@
-, [[unterbrechen]], [[weiterüben]], [[abbiegen]]
+, [[unterbrechen]], [[weiterüben]], [[abbiegen]], [[kündigen]]

@@ -1,0 +1,1 @@
+🔵 der [[Kontoauszug]], [ˈkɔntoˌaʊ̯sˌtsuːk], [[ausziehen]]

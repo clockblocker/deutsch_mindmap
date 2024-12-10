@@ -1,1 +1,1 @@
-, [[Sprache]]
+, [[Sprache]], [[Redensart]]

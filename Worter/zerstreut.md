@@ -1,8 +1,7 @@
-🔴 [[zerstreut]], [ˈtsɛʁʃtʁɔʏ̯t]
+🤔 [[zerstreuen]] | 😵‍💫 [[zerstreut]], [ˈtsɛʁʃtʁɔʏ̯t]
 nicht [[konzentriert]]
 
 ---
-Der Kristall bricht das Licht. (Er [[zerstreut]] es.)
 
 ---
 Synonyme: [[abgelenkt]], [[unaufmerksam]], [[verstreut]], [[verträumt]], [[nachdenklich]]

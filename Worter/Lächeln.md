@@ -1,105 +1,32 @@
-😊 [[Lächeln]]
-[[lächelte]]
-haben [[gelächelt]]
+😊 [[Lächeln]], [[lächelte]], haben [[gelächelt]]
 
 ---
 STEFAN: Sascha, dein [[Lächeln]] … ist so süß.  
 Und hier ist das Wetter. Freundlich [[lächeln]].
 
----
-
-**Synonyme:**
-
-- [[grinsen]], [[schmunzeln]], [[strahlen]]
+Sein Nachbar hört ihn schon von [[Weitem]]. Er sieht Moritz’ breites [[Lächeln]] und wie er immer wieder in die Luft springt. 
 
 ---
+Synonyme: 
+- [[Grinsen]], [[Schmunzeln]], [[Strahlen]], [[Glückseligkeit]]
 
-**Beispiele:**
-
-- Ich [[lächle]], wenn ich glücklich bin.
-- Du [[lächelst]] freundlich.
-- Er [[lächelt]] die ganze Zeit.
-- Es [[lächelt]], wenn es zufrieden ist.
-- Sie [[lächelt]] oft.
-- Wir [[Lächeln]] auf dem Foto.
-- Ihr [[lächelt]] einander an.
-- Sie [[Lächeln]], wenn sie sich treffen.
+Antonyme:
+- [[Weinen]], [[Traurigkeit]], [[Grimmigkeit]]
 
 ---
-**Übersetzung**:
-to smile
+Übersetzung: to smile
 
 ---
-**Morphems of only infinitive:**  
-- [[lächel]][[Worter/n]]
+Morpheme: [[Läch]][[el]][[n]]
+ #Verb  #Untrennbar
 
----
- #Verb #Regelmäßig
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[lächle]] | [[lächelte]] | - | [[lächele]] | [[lächelte]] |
+| Du | [[lächelst]] | [[lächeltest]] | [[lächle]] | [[lächelest]] | [[lächeltest]] |
+| Er/sie/es | [[lächelt]] | [[lächelte]] | - | [[lächele]] | [[lächelte]] |
+| Wir | [[lächeln]] | [[lächelten]] | - | [[lächelen]] | [[lächelten]] |
+| Ihr | [[lächelt]] | [[lächeltet]] | [[lächelt]] | [[lächelet]] | [[lächeltet]] |
+| Sie | [[lächeln]] | [[lächelten]] | [[lächeln Sie]] | [[lächelen]] | [[lächelten]] |
 
----
-
-**Präteritum:**
-
-- Ich [[lächelte]], als ich die Nachricht hörte.
-- Du [[lächeltest]], als du ihn sahst.
-- Er [[lächelte]], als er das Geschenk bekam.
-- Es [[lächelte]], als es gestreichelt wurde.
-- Sie [[lächelte]], als sie das Baby sah.
-- Wir [[lächelten]], als wir das Foto machten.
-- Ihr [[lächeltet]], als ihr euch trafet.
-- Sie [[lächelten]], als sie zusammen waren.
-
----
-
-**Imperativ:**
-
-- Ich [[lächle]] immer.
-- Du [[lächle]] bitte.
-- Er [[lächle]] mehr.
-- Es [[lächle]] oft.
-- Sie [[lächle]] freundlich.
-- Wir [[Lächeln]] zusammen.
-- Ihr [[lächelt]] jetzt.
-- Sie [[Lächeln]] bitte.
-
----
-Konjunktiv I:
-- Er sagt, ich [[lächle]] oft.
-- Sie meint, du [[lächelst]] immer freundlich.
-- Er behauptet, er [[lächle]] die ganze Zeit.
-- Wir erklären, wir [[Lächeln]] für das Foto.
-- Ihr sagt, ihr [[lächelt]] euch an.
-- Sie sagen, sie [[Lächeln]], wenn sie glücklich sind.
-
----
-Konjunktiv II:
-- Wenn ich glücklich wäre, [[lächelte]] ich mehr.
-- Wenn du freundlicher wärst, [[lächeltest]] du öfter.
-- Wenn er weniger gestresst wäre, [[lächelte]] er mehr.
-- Wenn wir mehr Zeit hätten, [[lächelten]] wir öfter.
-- Wenn ihr euch besser verstehen würdet, [[lächeltet]] ihr einander öfter an.
-- Wenn sie weniger Sorgen hätten, [[lächelten]] sie mehr.
-
-
----
-
-😊 das [[Lächeln]]
-die [[Lächeln]]
-
-Beispiele:
-
-- Dein [[Lächeln]] ist so süß.
-
----
-Synonyme:
-- [[Grinsen]], [[Schmunzeln]], [[Strahlen]]
-
----
-**Übersetzung**: smile
-
----
-Morphems:
-[[Lächeln]]
-
----
-#Substantiv #Neuter
+Partizip I: [[lächelnd]], Partizip II: [[gelächelt]]

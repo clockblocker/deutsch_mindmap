@@ -1,1 +1,1 @@
-, [[beeindruckt]], [[neugierig]]
+, [[beeindruckt]], [[neugierig]], [[staunend]]

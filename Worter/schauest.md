@@ -1,1 +1,2 @@
 👀 [[anschauen]]
+, [[schauen]]

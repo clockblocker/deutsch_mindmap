@@ -3,7 +3,9 @@
 ---
 EDELTRAUT: Dann musst du [[eben]] mitkommen …  
 
-Na, er ist [[ja groß genug]] und muß eben unterwegs gut aufpassen. 
+Na, er ist [[ja groß genug]] und muß [[eben]] unterwegs gut aufpassen. 
+
+Sein Freund hat ihm gesagt, dass er den Gürtel [[eben]] enger schnallen müsste. Zuerst will Björn das nicht glauben. 
 
 ---
 Synonyme: 
@@ -23,4 +25,4 @@ Morpheme:
 [[eben]]
 
 ---
-''', [[Extra 8]], [[ebenfalls]]
+''', [[Extra 8]], [[ebenfalls]], [[schnallen]]

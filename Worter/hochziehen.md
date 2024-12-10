@@ -31,6 +31,6 @@ Morpheme: [[hoch]][[ziehn]][[en]]
 
 Partizip I: [[hochziehend]], Partizip II: [[hochgezogen]]
 
-[[hochziehen]] - [[hoch]] = [[ziehen]]
+[[hochziehen]] - [[hoch]] = [[ziehen]] / to pull up, to lift up
 
 , [[aufdrehen]]

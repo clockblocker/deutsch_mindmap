@@ -3,6 +3,9 @@
 haben [[gelöst]]
 
 ---
+[[Freigabeprobleme]] [[gelöst]]. Sendung zur Zustellung freigegeben
+
+– Wir haben mit dieser Familie gebrochen. (Wir haben unsere Beziehung [[gelöst]].)
 
 
 ---
@@ -41,4 +44,4 @@ Morpheme: [[lös]][[en]]
 Partizip I: [[lösend]], Partizip II: [[gelöst]]
 
 , [[festziehen]], [[einhängen]], [[spannen]], [[hängen]], [[ballen]], [[wringen]], [[auflösen]], [[ablösen]]
-, [[festsitzen]], [[festkleben]], [[kleben]]
+, [[festsitzen]], [[festkleben]], [[kleben]], [[schnallen]]

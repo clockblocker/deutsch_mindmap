@@ -6,10 +6,14 @@ haben [[gebrochen]]
 *Wenn sie aus den Fäusten [[bricht]]*  
 *Legt sich heiß auf das Gesicht*
 
-
 Das Wasserblase [[bricht]] über Sokka zusammen und der Fisch fällt ins Wasser_
 
 Mit einem Krachen [[bricht]] der Eisberg auseinander und versinkt im Wasser.
+
+– [[Brechen den Stab|Brechen]] Sie nicht so schnell [[den]] [[Stab]] [[über]] einen Menschen! (Verurteilen Sie ihn nicht zu schnell)
+
+[[Sein Auge bricht]]. (Er stirbt)
+
 
 ---
 Synonyme: [[zerbrechen]], [[kaputtmachen]], [[zerstören]], [[zerschlagen]], [[spalten]], [[trennen]]
@@ -35,4 +39,4 @@ Morpheme: [[brech]][[en]]
 
 Partizip I: [[brechend]], Partizip II: [[gebrochen]]
 
-, [[unterbrechen]], [[zusammenbrechen]], [[versprechen]]
+, [[unterbrechen]], [[zusammenbrechen]], [[versprechen]], [[übers Knie brechen]]

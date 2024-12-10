@@ -2,7 +2,7 @@
 nicht [[schmal]]
 
 ---
-
+Sein Nachbar hört ihn schon von [[Weitem]]. Er sieht Moritz’ [[breites]] Lächeln und wie er immer wieder in die Luft springt. 
 
 ---
 Synonyme: 

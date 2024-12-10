@@ -1,6 +1,4 @@
-✋ [[nehmen]]
-[[nahm]]
-haben [[genommen]]
+🤏 [[nehmen]] + Akk, [ˈneːmən], [[nahm]], haben [[genommen]]
 
 ---
 Ich [[nehme]] statt der Suppe einen Salat
@@ -10,77 +8,40 @@ Ich [[nehme]] statt der Suppe einen Salat
 
 [[in Acht nehmen]]
 
----
+[[zu Herzen nehmen]]
 
-Synonyme:
-- [[greifen]], [[holen]], [[erfassen]]
+----
++[[über]] = [[Übernehmen]] / захватить
++[[heraus]] = [[herausnehmen]] / remove 
++[[zu]] =  [[zunehmen]] / gain weight / набрать
+[[vornehmen]] - [[vor]] = [[nehmen]] / намереватсья 
 
----
-
-Beispiele:
-
-- Ich [[nehme]] den Stift.
-- Du [[nimmst]] dir etwas zu essen.
-- Er [[nimmt]] den Bus zur Arbeit.
-- Wir [[nehmen]] das Angebot an.
-- Ihr [[nehmt]] eure Taschen mit.
-- Sie [[nehmen]] die Herausforderung an.
 
 ---
-**Übersetzung**: to take
+Synonyme: [[ergreifen]], [[greifen]], [[fassen]], [[erfassen]], [[entnehmen]]
+Antonyme: [[ablehnen]], [[loslassen]], [[weggeben]]
 
 ---
-
-Morphems of only infinitive:
-[[nehm]][[en]]
+Übersetzung: to take, to grab
 
 ---
-Tags:
-#Verb #Unregelmäßige
+Morpheme: [[nehm]][[en]]
+ #Verb  #Untrennbar
 
 ---
 
-Präteritum:
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[nehme]]            | [[nahm]]              | -                 | [[nehme]]              | [[nähme]]               |
+| Du        | [[nimmst]]           | [[nahmst]]            | [[nimm]]          | [[nehmest]]            | [[nähmest]]             |
+| Er/sie/es | [[nimmt]]            | [[nahm]]              | -                 | [[nehme]]              | [[nähme]]               |
+| Wir       | [[nehmen]]           | [[nahmen]]            | -                 | [[nehmen]]             | [[nähmen]]              |
+| Ihr       | [[nehmt]]            | [[nahmt]]             | [[nehmt]]         | [[nehmet]]             | [[nähmet]]              |
+| Sie       | [[nehmen]]           | [[nahmen]]            | [[nehmen Sie]]    | [[nehmen]]             | [[nähmen]]              |
 
-- Ich [[nahm]] das Buch.
-- Du [[nahmst]] die Treppe nach oben.
-- Er [[nahm]] den letzten Keks.
-- Wir [[nahmen]] die Abkürzung.
-- Ihr [[nahmt]] Platz auf der Bank.
-- Sie [[nahmen]] die Einladung an.
+Partizip I: [[nehmend]], Partizip II: [[genommen]], Zu infinitive: zu nehmen
 
----
-
-Imperativ:
-
-- [[Nimm]] das Geld und geh!
-- [[nehmt]] eure Sachen mit!
-- [[Nehmen wir]] das nächste Taxi!
-- [[Nehmen Sie]] Platz!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[nehme]] die Aufgabe an.
-- Sie meint, du [[nehmest]] die Herausforderung an.
-- Er behauptet, er [[nehme]] den Vorschlag an.
-- Wir erklären, wir [[nehmen]] das Angebot an.
-- Ihr sagt, ihr [[nehmet]] die Verantwortung an.
-- Sie sagen, sie [[nehmen]] die Bedingungen an.
-
----
-
-Konjunktiv II:
-
-- Wenn ich mehr Zeit hätte, [[nähme]] ich das Angebot an.
-- Wenn du mutiger wärst, [[nähmest]] du die Herausforderung an.
-- Wenn er den Mut hätte, [[nähme]] er die Verantwortung.
-- Wenn wir es uns leisten könnten, [[nähmen]] wir die Reise.
-- Wenn ihr wüsstet, was ihr wollt, [[nähmet]] ihr die Chance.
-- Wenn sie die Mittel hätten, [[nähmen]] sie die Gelegenheit.
-[[setzen]], 
-
-
-+[[über]] = [[Übernehmen]]
-+[[heraus]] = [[herausnehmen]], [[geben]]
++[[über]] = [[Übernehmen]] / захватить
++[[heraus]] = [[herausnehmen]] / remove 
++[[zu]] =  [[zunehmen]] / gain weight / набрать
+[[vornehmen]] - [[vor]] = [[nehmen]] / намереватсья 

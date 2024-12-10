@@ -4,6 +4,8 @@ die [[Höhen]]
 Beispiele:
 Köpfchen in das Wasser, Schwänzchen in die Höh
 
+Er springt auf dem Weg nach Hause vor Freude in die [[Höhe]] und singt dabei laut. 
+
 ---
 Translation:
 height, elevation

@@ -10,6 +10,9 @@ sein [[gestorben]]
 *Wo das süße Wasser [[stirbt]]*  
 *Weil es sich im Salz verdirbt*  
 
+[[Sein Auge bricht]]
+
+
 ---
 [[aussterben]] - [[aus]] = [[sterben]]
 

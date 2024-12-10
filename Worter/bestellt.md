@@ -30,4 +30,4 @@ Morpheme: [[be]][[stell]][[en]]
 
 Partizip I: [[bestellend]], Partizip II: [[bestellt]]
 [[bestellen]] - [[be]] = [[stellen]]
-'''
+''', [[abbestellen]]

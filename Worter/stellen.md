@@ -14,9 +14,8 @@ ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 [[darstellen]] - [[dar]] = [[stellen]] / to represent
 [[zusammenstellen]] - [[zusammen]] = [[stellen]] / составлять / собирать
 [[feststellen]] - [[fest]] = [[stellen]] // to determine
-
-
-
+[[abbestellen]] - [[ab]] = [[bestellen]] / покупать
+[[bestellen]] - [[be]] = [[stellen]] / отписываться
 
 ---
 

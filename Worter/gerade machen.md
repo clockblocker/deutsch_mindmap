@@ -1,1 +1,1 @@
-, [[beugen]], [[biegen]]
+, [[beugen]], [[biegen]], [[knicken]]

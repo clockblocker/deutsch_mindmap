@@ -6,6 +6,13 @@ haben [[gestanden]]
 *[[stehen lassen|laß stehn]]! sonst brennst du lichterloh!"*
 
 ---
+[[überstehen]] - [[über]] = [[stehen]] // пере_жить
+[[widerstehen]] - [[wider]] = [[stehen]] // противо_стоять
+[[verstehen]] - [[ver]] = [[stehen]] // understand
+[[bestehen]] - [[be]] = [[stehen]] // to exist, to consist of, to pass
+stehen lassen // leave it be
+
+---
 [[ständig]] / constantly
 
 ---
@@ -35,4 +42,4 @@ Partizip I: [[stehend]], Partizip II: [[gestanden]]
 
 
 [[verstehen]], [[bestehen]], [[bücken]], [[widerstehen]], [[liegen]], [[laufen]]
-, [[stehen lassen]], [[krabbeln]], [[7 Die Geschichte vom Zappel-Philipp]], [[rutschen]], [[ständig]]
+, [[stehen lassen]], [[krabbeln]], [[7 Die Geschichte vom Zappel-Philipp]], [[rutschen]], [[ständig]], [[überstehen]]

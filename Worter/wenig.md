@@ -3,4 +3,4 @@
 
 
 
-Ich schpreche Deutsch [[ein wenig]], [[bitterlich]]
+Ich schpreche Deutsch [[ein wenig]], [[bitterlich]], [[wenige]]

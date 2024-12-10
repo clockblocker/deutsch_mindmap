@@ -3,6 +3,7 @@
 ---
 [[Kaum]] hat man ein Mädchen dabei, schon geht alles schief!
 
+Der Nachbar kann es [[kaum]] glauben. „Das gibt es nur [[selten]]. Glück im Spiel und in der Liebe haben nur wenige“, sagt er.
 
 ---
 Synonyme: [[schwerlich]], [[knapp]], [[gerade noch]], [[karaum]]

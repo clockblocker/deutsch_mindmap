@@ -23,3 +23,4 @@ Morpheme: [[ob]][[wohl]]
 
 ---
 #Konjunktion #Nebensatz
+, [[trotz]]

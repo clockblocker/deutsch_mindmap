@@ -1,41 +1,31 @@
-[[gelöst]]
-[[gelöster]]
-[[am]] [[gelöstesten]]
-
+🔍 [[lösen]]
+[[gelöst]], [[gelöster]], [[am]] [[gelöstesten]]
 nicht [[unbehandelt]]
 
 ---
 [[Freigabeprobleme]] [[gelöst]]. Sendung zur Zustellung freigegeben
 
----
+– Wir haben mit dieser Familie gebrochen. (Wir haben unsere Beziehung [[gelöst]].)
 
-Synonyme:
-- [[behoben]], [[erledigt]], [[aufgelöst]]
 
 ---
-Beispiele:
-
-- Das Problem ist [[gelöst]].
-- Die Aufgabe wurde [[gelöst]].
-- Er hat das Rätsel [[gelöst]].
-
-- Das Problem ist [[gelöster]] als zuvor.
-- Die Aufgabe wurde [[gelöster]] erledigt.
-- Er hat das Rätsel [[gelöster]] gelöst als sie.
-
-- Das Problem ist [[am gelöstesten]].
-- Die Aufgabe wurde [[am gelöstesten]] erledigt.
-- Er hat das Rätsel [[am gelöstesten]] gelöst.
+Synonyme: [[aufgelöst]], [[geklärt]], [[entschlüsselt]], [[beantwortet]], [[erledigt]]
+Antonyme: [[ungelöst]], [[verworren]], [[unklar]], [[unbeantwortet]]
 
 ---
-**Übersetzung**:
-solved, resolved
+Übersetzung: solved, resolved, dissolved
 
 ---
-
-Tags: 
-#Adjective
+Morpheme: [[ge]][[löst]]
 
 ---
-Morphems:
-[[ge]][[löst]], [[lösen]]
+Deklinationsmöglichkeiten:
+[[gelöst]], [[gelöster]], [[gelöste]], [[gelöstes]], [[gelösten]], [[gelöstem]], [[gelöster]]
+
+Komparativformen:
+[[gelöster]], [[gelösterer]], [[gelöstere]], [[gelösteres]], [[gelösterem]]
+
+Superlativform:
+[[gelösteste]], [[gelöstesten]], [[gelöstestem]], [[gelöstestes]]
+
+---

@@ -1,1 +1,1 @@
-, [[festziehen]], [[einhängen]], [[reißen]], [[hängen]], [[festkleben]], [[kleben]], [[aufhängen]]
+, [[festziehen]], [[einhängen]], [[reißen]], [[hängen]], [[festkleben]], [[kleben]], [[aufhängen]], [[schnallen]]

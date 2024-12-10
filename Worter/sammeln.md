@@ -35,4 +35,4 @@ Partizip I: [[sammelnd]], Partizip II: [[gesammelt]]
 
 , [[wegwerfen]], [[gießen]], [[schleudern]], [[ausbreiten]], [[verschwenden]], [[schwenden]], [[verschicken]], [[ansammeln]]
 
-, [[verplempern]], [[zuwerfen]]
+, [[verplempern]], [[zuwerfen]], [[zerstreuen]]

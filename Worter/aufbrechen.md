@@ -1,1 +1,1 @@
-, [[losziehen]], [[losfahren]]
+, [[losziehen]], [[losfahren]], [[ausziehen]]

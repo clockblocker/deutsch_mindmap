@@ -1,70 +1,29 @@
-🏃 [[weiterziehen]]
-[[zog weiter]]
-sein [[weitergezogen]]
+🚶[[weiterziehen]] + Akk, [ˈvaɪ̯tɐˌt͡sɪɡn̩]
+[[zog weiter|zog weiter]]  
+haben [[weiter gezogen]]
 
 ---
 
-Synonyme:
-- [[fortgehen]], [[weitergehen]], [[weiterreisen]]
+---
+Synonyme: [[fortziehen]], [[umziehen]], [[weitergehen]], [[wandern]], [[reisen]]
+Antonyme: [[bleiben]], [[verweilen]], [[stillstehen]]
 
 ---
-
-Beispiele:
-
-- Nach einer kurzen Pause [[zog]] er [[weiter]].
-- Die Karawane [[zog weiter]] in die Wüste.
-- Nach dem Streit [[zog]] sie [[weiter]] und ließ alles hinter sich.
+Übersetzung: to move on, to continue traveling
 
 ---
-**Übersetzung**: moved on, continued on
+Morpheme: [[weiter]][[zieh]][[en]]
+ #Verb  #Trennbar
+ 
 
----
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[ziehe weiter]] | [[zog weiter]] | - | [[ziehe weiter]] | [[zöge weiter]] |
+| Du | [[ziehst weiter]] | [[zogst weiter]] | [[zieh weiter]] | [[ziehest weiter]] | [[zögest weiter]] |
+| Er/sie/es | [[zieht weiter]] | [[zog weiter]] | - | [[ziehe weiter]] | [[zöge weiter]] |
+| Wir | [[ziehen weiter]] | [[zogen weiter]] | - | [[ziehen weiter]] | [[zögen weiter]] |
+| Ihr | [[zieht weiter]] | [[zogt weiter]] | [[zieht weiter]] | [[ziehet weiter]] | [[zoget weiter]] |
+| Sie | [[ziehen weiter]] | [[zogen weiter]] | [[ziehen Sie weiter]] | [[ziehen weiter]] | [[zögen weiter]] |
 
-Morphems of only infinitive:
-[[weiter]][[zieh]][[en]]
-
----
-Tags:
-#Verb  #Trennbar
-
----
-
-Präteritum:
-
-- Ich [[zog weiter]] in die nächste Stadt.
-- Du [[zogst weiter]] ohne uns.
-- Er [[zog weiter]], obwohl es regnete.
-- Wir [[zogen weiter]] nach der Pause.
-- Ihr [[zogt weiter]], bis ihr den Fluss erreichtet.
-- Sie [[zogen weiter]], bis sie ihr Ziel erreichten.
-
----
-
-Imperativ:
-
-- [[zieh]] weiter, wenn du keine Antwort bekommst!
-- [[zieht]] weiter und gebt nicht auf!
-- [[Ziehen wir]] weiter auf unserem Weg!
-- [[ziehen Sie]] weiter, bis Sie ankommen!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[ziehe weiter]], wenn ich fertig bin.
-- Sie meint, du [[ziehest weiter]], wenn es Zeit ist.
-- Er behauptet, er [[ziehe weiter]], wenn er keinen Erfolg hat.
-- Wir erklären, wir [[ziehen weiter]], wenn wir bereit sind.
-- Ihr sagt, ihr [[ziehet weiter]], wenn ihr genug habt.
-- Sie sagen, sie [[ziehen weiter]], wenn es nötig ist.
-
----
-
-Konjunktiv II:
-
-- Wenn ich mutiger wäre, [[zöge]] ich weiter.
-- Wenn du bereit wärest, [[zögest]] du weiter.
-- Wenn er keine Angst hätte, [[zöge]] er weiter.
-- Wenn wir entschlossener wären, [[zögen]] wir weiter.
-- Wenn ihr nicht zögern würdet, [[zöget]] ihr weiter.
-- Wenn sie es wagen würden, [[zögen]] sie weiter.[[ziehen]]
+Partizip I: [[weiterziehend]], Partizip II: [[weiter gezogen]]
+[[weiterziehen]] - [[weiter]] = [[ziehen]] / moved on, continued on

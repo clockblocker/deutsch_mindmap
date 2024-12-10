@@ -16,6 +16,7 @@ sein [[gelaufen]]
 *Doch der Haifisch lebt im Wasser*  
 *So die Tränen sieht man nicht*  
 
+Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein Geschäft [[läuft]] zurzeit nicht gut und sein Konto ist fast leer. 
 
 ---
 Synonyme: [[rennen]], [[joggen]], [[gehen]], [[spazieren]], [[traben]]

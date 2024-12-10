@@ -1,1 +1,1 @@
-, [[pflückt]]
+, [[pflückt]], [[pflücken]]

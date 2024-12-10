@@ -1,6 +1,4 @@
-👀 [[schauen]]  
-[[schaute]]  
-haben [[geschaut]]
+👀 [[schauen]]  zu, [[schaute]], haben [[geschaut]]
 
 ---
 *das flackert lustig, knistert laut,*  
@@ -13,59 +11,23 @@ ANNA: [[schau]] mal, das gibt’s doch nicht.
 Katrin schaut kurz zur Wand. „Also, ich finde, dass es gut ins Wohnzimmer passt.“
 
 ---
-
-**Synonyme:**
-
-- [[sehen]], [[blicken]], [[beobachten]]
+Synonyme: [[blicken]], [[gucken]], [[sehen]], [[anschauen]], [[betrachten]]
+Antonyme: [[wegschauen]], [[ignorieren]], [[übersehen]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[schaue]] aus dem Fenster.
-- Du [[schaust]] den Film an.
-- Er [[schaut]] in die Ferne.
-- Es [[schaut]] neugierig zu.
-- Sie [[schaut]] auf die Uhr.
-- Wir [[schauen]] den Sonnenuntergang.
-- Ihr [[schaut]] ins Buch.
-- Sie [[schauen]] das Spiel.
+Übersetzung: to look, to watch, to see
 
 ---
+Morpheme: [[schau]][[en]]
+ #Verb  #Regular
 
-**Übersetzung**:
-to look, to watch
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[schaue]] | [[schaute]] | - | [[schaue]] | [[schaute]] |
+| Du | [[schaust]] | [[schautest]] | [[schau]] | [[schauest]] | [[schautest]] |
+| Er/sie/es | [[schaut]] | [[schaute]] | - | [[schaue]] | [[schaute]] |
+| Wir | [[schauen]] | [[schauten]] | - | [[schauen]] | [[schauten]] |
+| Ihr | [[schaut]] | [[schautet]] | [[schaut]] | [[schauet]] | [[schautet]] |
+| Sie | [[schauen]] | [[schauten]] | [[schauen Sie]] | [[schauen]] | [[schauten]] |
 
----
- #Verb
-
----
-
-**Präteritum:**
-
-- Ich [[schaute]] aus dem Fenster.
-- Du [[schautest]] den Film an.
-- Er [[schaute]] in die Ferne.
-- Es [[schaute]] neugierig zu.
-- Sie [[schaute]] auf die Uhr.
-- Wir [[schauten]] den Sonnenuntergang.
-- Ihr [[schautet]] ins Buch.
-- Sie [[schauten]] das Spiel.
-
----
-
-**Imperativ:**
-
-- Ich [[schaue]] dorthin.
-- Du [[schau|schaue]] dorthin.
-- Er [[schaue]] dorthin.
-- Es [[schaut]] dorthin.
-- Sie [[schaue]] dorthin.
-- Wir [[schauen]] dorthin.
-- Ihr [[schaut]] dorthin.
-- Sie [[schauen]] dorthin.
-
----
-
-**Morphems of only infinitive:**  
-- [[schau]][[en]], [[gucken]], [[aufsehen]]
+Partizip I: [[schauend]], Partizip II: [[geschaut]]

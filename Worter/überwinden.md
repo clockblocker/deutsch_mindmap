@@ -26,4 +26,4 @@ Morpheme: [[über]][[wind]][[en]]
 | Sie       | [[überwinden]]  | [[überwanden]] | [[überwinden Sie]] | [[überwinden]]  | [[überw​änden]]  |
 
 Partizip I: [[überwindend]], Partizip II: [[überwunden]]
-[[überwinden]] - [[über]] = [[winden]]
+[[überwinden]] - [[über]] = [[winden]], [[überstehen]]

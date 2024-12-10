@@ -5,6 +5,8 @@ haben [[versprochen]]
 ---
 „Irgendwann wird es besser“, [[verspricht]] er. „Du darfst dir nicht alles zu Herzen nehmen. Manchmal braucht man ein dickes Fell.“ 
 
+– Er hat sein Wort gebrochen. (Er hielt sein [[Versprechen]] nicht.)
+
 ---
 Synonyme: [[zusagen]], [[garantieren]], [[zusichern]], [[gewährleisten]], [[geloben]]
 Antonyme: [[brechen]], [[zurückziehen]], [[verweigern]]

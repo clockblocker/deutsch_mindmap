@@ -33,4 +33,4 @@ Morpheme: [[aus]][[halt]][[en]]
 
 Partizip I: [[aushaltend]], Partizip II: [[ausgehalten]]
 
-[[aushalten]] - [[aus]] = [[halten]], [[aufhalten]]
+[[aushalten]] - [[aus]] = [[halten]], [[aufhalten]], [[überstehen]]

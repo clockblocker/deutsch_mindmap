@@ -1,1 +1,1 @@
-, [[anschließen]], [[anmachen]]
+, [[anschließen]], [[anmachen]], [[anhören]]

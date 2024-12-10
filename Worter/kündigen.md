@@ -1,78 +1,30 @@
-📝 [[kündigen]]
-[[kündigte]]
-haben [[gekündigt]]
+🚪 [[kündigen]], [[kündigte]], haben [[gekündigt]]
 
 ----
 STEFAN: Du bist [[gefeuert]]!  
 SASCHA: Zu spät! Ich [[kündige]]!  
 
----
-
-Synonyme:
-- [[entlassen]], [[aufgeben]], [[beenden]]
+Er bestellt sofort die Zeitschriften ab und [[kündigt]] das Fitnessstudio. 
 
 ---
-
-Beispiele:
-
-- Ich [[kündige]] meinen Job.
-- Du [[kündigst]] das Abonnement.
-- Er [[kündigt]] seine Mitgliedschaft.
-- Wir [[kündigen]] den Vertrag.
-- Ihr [[kündigt]] eure Wohnung.
-- Sie [[kündigen]] das Arbeitsverhältnis.
+Synonyme: [[beenden]], [[aufheben]], [[abbrechen]], [[terminieren]], [[beendigen]], [[feuern]], [[abbestellen]]
+Antonyme: [[verlängern]], [[fortsetzen]], [[beibehalten]]
 
 ---
-**Übersetzung**: to resign, to terminate
+Übersetzung: to terminate, to cancel, to give notice
 
 ---
+Morpheme: [[künd]][[igen]]
+ #Verb #Untrennbar
 
-Morphems of only infinitive:
-[[kündig]][[en]]
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[kündige]] | [[kündigte]] | - | [[kündige]] | [[kündigte]] |
+| Du | [[kündigst]] | [[kündigtest]] | [[kündige]] | [[kündigest]] | [[kündigtest]] |
+| Er/sie/es | [[kündigt]] | [[kündigte]] | - | [[kündige]] | [[kündigte]] |
+| Wir | [[kündigen]] | [[kündigten]] | - | [[kündigen]] | [[kündigten]] |
+| Ihr | [[kündigt]] | [[kündigtet]] | [[kündigt]] | [[küdiget]] | [[kündigtet]] |
+| Sie | [[kündigen]] | [[kündigten]] | [[kündigen Sie]] | [[kündigen]] | [[kündigten]] |
 
----
-Tags:
-#Verb
-
----
-
-Präteritum:
-
-- Ich [[kündigte]] meinen Job.
-- Du [[kündigtest]] den Vertrag.
-- Er [[kündigte]] die Wohnung.
-- Wir [[kündigten]] das Abonnement.
-- Ihr [[kündigtet]] die Mitgliedschaft.
-- Sie [[kündigten]] das Arbeitsverhältnis.
-
----
-
-Imperativ:
-
-- [[kündige]] sofort!
-- [[kündigt]] eure Verträge!
-- [[Kündigen wir]] gemeinsam!
-- [[Kündigen Sie]] bitte fristgerecht!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[kündige]] bald.
-- Sie meint, du [[kündigest]] nicht so schnell.
-- Er behauptet, er [[kündige]] nächste Woche.
-- Wir erklären, wir [[kündigen]] aus gutem Grund.
-- Ihr sagt, ihr [[kündiget]] rechtzeitig.
-- Sie sagen, sie [[kündigen]] sicher bald.
-
----
-
-Konjunktiv II:
-
-- Wenn ich unzufrieden wäre, [[kündigte]] ich.
-- Wenn du mutiger wärest, [[kündigtest]] du.
-- Wenn er einen besseren Job fände, [[kündigte]] er sofort.
-- Wenn wir mehr Alternativen hätten, [[kündigten]] wir schneller.
-- Wenn ihr euch sicher wäret, [[kündigtet]] ihr.
-- Wenn sie genug hätten, [[kündigten]] sie sofort.
-[[kündigen]], [[feuern]]
+Partizip I: [[kündigend]], Partizip II: [[gekündigt]]
+[[kündigen]] - [[kün]] = [[digen]]

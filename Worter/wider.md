@@ -1,4 +1,4 @@
- [[wider]], [ˈviːdɐ]
+ [[wider]], [ˈviːdɐ] = [[gegen]] / [[zurück]]
 
 ---
 

@@ -5,6 +5,8 @@ haben [[geheiratet]]
 ---
 Dann [[heiratet]] der Onkel die Mutter
 
+„Ich habe Vanessa einen [[Heiratsantrag]] [[gemacht]]. Und sie hat Ja gesagt“, 
+
 ---
 Synonyme: [[vermählen]], [[ehelichen]], [[trauen]], [[verehelichen]], [[binden]]
 Antonyme: [[scheiden]], [[trennen]], [[verlassen]], [[entzweien]]

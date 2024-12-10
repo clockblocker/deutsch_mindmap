@@ -20,4 +20,4 @@ Einzigartige mögliche Formen:
 [[vergangen]], [[vergangener]], [[vergangene]], [[vergangenes]], [[vergangenen]], [[vergangenem]], [[vergangener]], [[vergangenen]]
 [[vergangener]], [[vergangener]], [[vergangene]], [[vergangenes]], [[vergangenen]], [[vergangenem]], [[vergangener]], [[vergangenen]]
 [[vergangendsten]], [[vergangendster]], [[vergangendste]], [[vergangendsten]], [[vergangendsten]], [[vergangendstens]], [[vergangendster]], [[vergangendsten]]
-'''
+''', [[letzen]]

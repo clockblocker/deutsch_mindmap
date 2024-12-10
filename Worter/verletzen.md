@@ -5,12 +5,14 @@ haben [[verletzt]]
 ---
 Beim Zusammenstoß mit einer Straßenbahn ist ein 31-Jähriger schwer [[verletzt]] worden. Er kam in den Schockraum einer Münchner Klinik.
 
+– Der Kaufmann brach den [[Vertrag]]. (Er [[verletzte]] ihn.)
+
 ---
 Synonyme: [[beschädigen]], [[schädigen]], [[zerstören]], [[verwunden]], [[beeinträchtigen]]
 Antonyme: [[heilen]], [[schützen]], [[pflegen]], [[stärken]], [[reparieren]]
 
 ---
-Übersetzung: to injure, to harm, to wound
+Übersetzung: to injure, to harm, to wound, to violate
 
 ---
 Morpheme: [[ver]][[letz]][[en]]

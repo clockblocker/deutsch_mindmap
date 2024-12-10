@@ -8,6 +8,9 @@ Katara und Sokka halten sich an der Eisscholle fest und werden mit ihr von einer
 *Auf den [[Wellen]] wird gefochten*  
 *Wo Fisch und Fleisch zur See geflochten*  
 
+– Die Wellen brachen sich an dem Felsen. (Sie prallten dagegen und schlugen zurück.)
+
+
 ---
 Synonyme:
 - [[Brandung]], [[Dünung]], [[Flut]], [[Meereswelle]], [[Schwingung]]

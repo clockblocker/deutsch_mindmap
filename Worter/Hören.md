@@ -1,14 +1,16 @@
-👂 [[Hören]]  
-[[hörte]]  
-haben [[gehört]]
+👂 [[Hören]] , [[hörte]] , haben [[gehört]]
 
 ---
 Ich habe [[gehört]] … dass Stefan einen Spitznamen hat …  
 
-SASCHA: Und wo [[hinHören|gehört]] dieses Stück hin …?  
+SASCHA: Und wo [[hinHören|gehört]] dieses Stück hin …?
+
+
 
 ---
 [[abhören]] - [[ab]] = [[hören]] // подслушивать
+[[anhören]] - [[an]] = [[hören]] // слушать
+[[zuhören]] - [[zu]] = [[hören]] // выслушивать
 
 
 

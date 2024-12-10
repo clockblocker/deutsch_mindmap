@@ -2,6 +2,7 @@
 nicht [[undigen]]
 
 ---
+[[kündigen]] - [[kün]] = [[digen]]
 
 
 ---

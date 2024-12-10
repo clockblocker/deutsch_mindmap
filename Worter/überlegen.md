@@ -8,6 +8,8 @@ Die Katze [[Worter/über]][[legte]] noch, wie sie das [[anstellen]] sollte,
 
 Jetzt [[überlegt]] er: Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand gegenüber vom Fenster? 
 
+– Wir wollen den Hauskauf nicht übers Knie brechen. (Wir wollen nicht überstürzt und [[unüberlegt]] handeln)
+
 ---
 Synonyme: [[nachdenken]], [[reflektieren]], [[grübeln]], [[meditieren]], [[sinnen]]
 Antonyme: [[handeln]], [[spontan sein]], [[ohne Nachdenken]]

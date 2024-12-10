@@ -32,3 +32,4 @@ Morpheme: [[acht]][[en]]
 Partizip I: [[achtend]], Partizip II: [[geachtet]]
 , [[Sorgen]]
 
+, [[zuhören]]

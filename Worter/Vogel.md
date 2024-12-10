@@ -17,4 +17,4 @@ Morphems:
 [[Vog]][[el]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Zaunkönig]]

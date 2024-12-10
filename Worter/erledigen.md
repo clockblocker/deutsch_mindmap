@@ -30,4 +30,4 @@ Morpheme: [[er]][[ledig]][[en]]
 
 Partizip I: [[erledigend]], Partizip II: [[erledigt]]
 
-[[erledigen]] - [[er]] = [[ledigen]], [[lösen]]
+[[erledigen]] - [[er]] = [[ledigen]], [[lösen]], [[vornehmen]]

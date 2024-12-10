@@ -1,1 +1,1 @@
-[[drücken]], [[dammen]], [[festziehen]], [[beißen]], [[aufgehen]], [[aufmachen]], [[aufzukriegen]], [[auseinanderklapfen]], [[aufsperren]], [[abschließen]]
+[[drücken]], [[dammen]], [[festziehen]], [[beißen]], [[aufgehen]], [[aufmachen]], [[aufzukriegen]], [[auseinanderklapfen]], [[aufsperren]], [[abschließen]], [[schnallen]]

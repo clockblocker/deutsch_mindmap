@@ -1,1 +1,1 @@
-, [[erklären]], [[tun]], [[erledigen]], [[ausüben]]
+, [[erklären]], [[tun]], [[erledigen]], [[ausüben]], [[vornehmen]]

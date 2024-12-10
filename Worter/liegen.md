@@ -3,7 +3,7 @@
 haben [[gelegen]]
 
 ---
-
+🏠 die [[Lage]]
 
 ---
 Synonyme: [[sich befinden]], [[positioniert sein]], [[ruhen]], [[verweilen]], [[rasten]], [[pausieren]]
@@ -29,4 +29,4 @@ Morpheme: [[lieg]][[en]]
 
 Partizip I: [[liegend]], Partizip II: [[gelegen]]
 
-[[liegen]] - no prefix, [[springen]]
+[[liegen]] - no prefix, [[springen]], [[Lage]]

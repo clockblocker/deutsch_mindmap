@@ -1,1 +1,1 @@
-[[täglich]], [[dauernd]], [[ständig]]
+[[täglich]], [[dauernd]], [[ständig]], [[selten]]

@@ -1,1 +1,1 @@
-, [[ausbreiten]], [[plempern]]
+, [[ausbreiten]], [[plempern]], [[streuen]], [[zerstreuen]]
