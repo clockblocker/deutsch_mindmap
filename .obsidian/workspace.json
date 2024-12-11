@@ -8,31 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7c573722ed803f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Eine Doktorarbeit aus etwas machen"
-            }
-          },
-          {
             "id": "9e3c32e8179d886e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/verzichten.md",
+                "file": "Texte/Avatar/s1 e2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "verzichten"
+              "title": "s1 e2"
+            }
+          },
+          {
+            "id": "79759fdbdf1e4568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Avatar/s1 e4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "s1 e4"
+            }
+          },
+          {
+            "id": "9b3382d7867eb212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/ver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ver"
+            }
+          },
+          {
+            "id": "bdee98595eaa466b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 podcast/7 Alles unter einen Hut bringen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 Alles unter einen Hut bringen"
+            }
+          },
+          {
+            "id": "b48a998b4a6d1c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Gedichte/Rammstein/Mein Herz brennt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mein Herz brennt"
             }
           },
           {
@@ -147,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5004348754883
+    "width": 200
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -208,10 +250,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md"
+                "file": "Texte/Avatar/s1 e2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 Eine Doktorarbeit aus etwas machen"
+              "title": "Outline of s1 e2"
             }
           }
         ],
@@ -219,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 210.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,34 +279,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a7c573722ed803f5",
+  "active": "9e3c32e8179d886e",
   "lastOpenFiles": [
+    "Texte/Avatar/s1 e1.md",
+    "Texte/Avatar/s1 e2.md",
+    "Texte/Avatar/s1 e4.md",
+    "Texte/Avatar/s1 e3.md",
+    "Worter/riesigen.md",
+    "Worter/riesig.md",
+    "Texte/Emil und die Detektive/Emil und die Detektive 1.md",
+    "Worter/aufhängen.md",
     "Worter/verzichten.md",
-    "Worter/Art.md",
-    "Texte/b2 podcast/8 Mit den Wölfen heulen.md",
-    "Texte/b2 podcast/6 Das Eis brechen.md",
+    "Texte/Gedichte/Rammstein/Mein Herz brennt.md",
+    "Worter/bringen.md",
+    "Texte/Skripte/extra/Extra 4.md",
+    "Worter/schwarze.md",
+    "Texte/Gedichte/Rammstein/Haifisch.md",
+    "Texte/Gedichte/Rammstein/Engel.md",
+    "Texte/Gedichte/Rammstein/Du riechst so gut.md",
+    "Texte/Gedichte/Rammstein/Deutschland.md",
+    "Texte/Gedichte/Rammstein/Du hast.md",
+    "Texte/Gedichte/Rammstein/Ausländer.md",
+    "Texte/Avatar.md",
+    "Texte/Der Struwwelpeter/2 Die gar traurige Geschichte mit dem Feuerzeug.md",
+    "Texte/b2 podcast/12 Ein Tropfen auf den heißen Stein.md",
     "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
-    "Texte/b2 podcast/4 Den Gürtel enger schnallen.md",
-    "Texte/b2 podcast/5 In einem Boot sitzen.md",
-    "Worter/Ziel.md",
-    "Worter/Ziels.md",
-    "Worter/Intention.md",
-    "Worter/Vorhaben.md",
-    "Worter/Richtung.md",
-    "Worter/Lösung.md",
-    "Worter/Lage.md",
-    "Worter/liegen.md",
-    "Worter/Lages.md",
-    "Worter/Standort.md",
-    "Worter/Gegebenheiten.md",
-    "Worter/Umstände.md",
-    "Worter/Zustand.md",
-    "Worter/Situation.md",
-    "Texte/b2 podcast/7 Alles unter einen Hut bringen.md",
-    "Worter/wohl.md",
-    "Worter/Zukunft.md",
-    "Worter/Zukünften.md",
-    "Worter/Voraussicht.md",
+    "Worter/Schwarz.md",
+    "Worter/Farbe.md",
+    "Texte/Skripte/extra/Extra 2.md",
     "Texte/b2 podcast",
     "Texte/b1",
     "Anhänge/Pasted image 20241112104051.png",

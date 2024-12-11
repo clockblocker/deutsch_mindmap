@@ -5,6 +5,8 @@ haben [[aufgehängt]]
 ---
 Werner hat beim Aufräumen ein altes Urlaubsfoto gefunden. Er hat einen [[Rahmen]] dafür gekauft und will es im Wohnzimmer aufhängen.
 
+Ehe ich's vergesse: heute abend läßt du dir von Tante Martha einen Kleiderbügel geben und [[hängst]] den Anzug ordentlich [[auf]]
+
 ---
 Synonyme: [[anhängen]], [[befestigen]], [[anbringen]], [[montieren]], [[hängen]]
 Antonyme: [[abnehmen]], [[herunterhängen]], [[entfernen]]

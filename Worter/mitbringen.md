@@ -9,72 +9,24 @@ haben [[mitgebracht]]
 *und nimmt sie sorglich sehr in acht.*
 
 ---
-
-Synonyme:
-- [[transportieren]], [[mitnehmen]], [[dabeihaben]]
-
----
-
-Beispiele:
-
-- Ich [[bringe]] etwas zu essen [[mit]].
-- Du [[bringst]] deine Bücher [[mit]].
-- Er [[bringt]] seine Freundin [[mit]].
-- Wir [[bringen]] Getränke [[mit]].
-- Ihr [[bringt]] gute Laune [[mit]].
-- Sie [[bringen]] ihre Kinder [[mit]].
+Synonyme: [[transportieren]], [[herbeibringen]], [[herbringen]], [[befördern]], [[mitnehmen]]
+Antonyme: [[weglassen]], [[vergessen]], [[zurücklassen]]
 
 ---
-**Übersetzung**: to bring along, to bring with
+Übersetzung: to bring along, to bring with
 
 ---
+Morpheme: [[mit]][[bring]][[en]]
+ #Verb  #Trennbar
 
-Morphems of only infinitive:
-[[mit]][[bringen]]
+| Person    | Präsens         | Präteritum        | Imperativ           | Konjunktiv I     | Konjunktiv II     |
+| --------- | --------------- | ----------------- | ------------------- | ---------------- | ----------------- |
+| Ich       | [[bringe mit]]  | [[brachte mit]]   | -                   | [[bringe mit]]   | [[brächte mit]]   |
+| Du        | [[bringst mit]] | [[brachtest mit]] | [[bring mit]]       | [[bringest mit]] | [[brächtest mit]] |
+| Er/sie/es | [[bringt mit]]  | [[brachte mit]]   | -                   | [[bringe mit]]   | [[brächte mit]]   |
+| Wir       | [[bringen mit]] | [[brachten mit]]  | -                   | [[bringen mit]]  | [[brächten mit]]  |
+| Ihr       | [[bringt mit]]  | [[brachtet mit]]  | [[bringt mit]]      | [[bringet mit]]  | [[brächtet mit]]  |
+| Sie       | [[bringen mit]] | [[brachten mit]]  | [[bringen Sie mit]] | [[bringen mit]]  | [[brächten mit]]  |
 
----
-Tags:
-#Verb #Trennbar #Unregelmäßige
-
----
-
-Präteritum:
-
-- Ich [[brachte mit|brachte]] ein Geschenk [[mit]].
-- Du [[brachtest mit|brachtest]] deine Bücher [[mit]].
-- Er [[brachte mit|brachte]] das Essen [[mit]].
-- Wir [[brachten mit|brachten]] Getränke [[mit]].
-- Ihr [[brachtet mit|brachtet]] Freunde [[mit]].
-- Sie [[brachten mit|brachten]] ihre Kinder [[mit]].
-
----
-
-Imperativ:
-
-- [[Bringe mit|bringe]] das Buch [[mit]]!
-- [[Bringt mit|bringt]] eure Sachen [[mit]]!
-- [[Bringen wir mit|bringen]] wir etwas zu essen [[mit]]!
-- [[Bringen Sie mit|bringen]] Sie Ihre Dokumente [[mit]]!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[bringe mit]] das Geschenk [[mit]].
-- Sie meint, du [[bringest mit]] das Essen [[mit]].
-- Er behauptet, er [[bringe mit]] die Getränke [[mit]].
-- Wir erklären, wir [[bringen mit]] die Freunde [[mit]].
-- Ihr sagt, ihr [[bringet mit]] die Bücher [[mit]].
-- Sie sagen, sie [[bringen mit]] die Kinder [[mit]].
-
----
-
-Konjunktiv II:
-
-- Wenn ich Zeit hätte, [[brächte mit|brächte]] ich das Geschenk [[mit]].
-- Wenn du es nicht vergisst, [[brächtest mit|brächtest]] du die Bücher [[mit]].
-- Wenn er daran denken würde, [[brächte mit|brächte]] er das Essen [[mit]].
-- Wenn wir es könnten, [[brächten mit|brächten]] wir die Getränke [[mit]].
-- Wenn ihr euch beeilt, [[brächtet mit|brächtet]] ihr die Sachen [[mit]].
-- Wenn sie die Möglichkeit hätten, [[brächten mit|brächten]] sie die Kinder [[mit]].
-```​⬤, [[nachbringen]]
+Partizip I: [[mitbringend]], Partizip II: [[mitgebracht]]
+[[mitbringen]] - [[mit]] = [[bringen]]

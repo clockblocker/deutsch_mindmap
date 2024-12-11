@@ -13,62 +13,35 @@ haben [[gebracht]]
 [[umbringen]] - [[um]] = [[bringen]]        // kill
 [[beibringen]] - [[bei]] = [[bringen]]        // teach
 [[nachbringen]] - [[nach]] = [[bringen]]  // fetch, add
+[[hinbringen]] - [[hin]] = [[bringen]]         // to bring (to a place)
 
+---
+Synonyme: [[liefern]], [[transportieren]], [[mitbringen]], [[herbeibringen]], [[überreichen]]
+Antonyme: [[wegnehmen]], [[entfernen]], [[zurückhalten]]
+
+---
+Übersetzung: to bring, to deliver
+
+---
+Morpheme: [[bring]][[en]]
+ #Verb  #Untrennbar
 
 ---
 
-**Synonyme:**
+| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
+| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
+| Ich       | [[bringe]]           | [[brachte]]           | -                 | [[bringe]]             | [[brächte]]             |
+| Du        | [[bringst]]          | [[brachtest]]         | [[bring]]         | [[bringest]]           | [[brächtest]]           |
+| Er/sie/es | [[bringt]]           | [[brachte]]           | -                 | [[bringe]]             | [[brächte]]             |
+| Wir       | [[bringen]]          | [[brachten]]          | -                 | [[bringen]]            | [[brächten]]            |
+| Ihr       | [[bringt]]           | [[brachtet]]          | [[bringt]]        | [[bringet]]            | [[brächtet]]            |
+| Sie       | [[bringen]]          | [[brachten]]          | [[bringen Sie]]   | [[bringen]]            | [[brächten]]            |
 
-- [[liefern]], [[holen]], [[überbringen]]
+Partizip I: [[bringend]], Partizip II: [[gebracht]]
 
----
+[[bringen]] - keine Vorsilbe = [[bring]]
 
-**Beispiele:**
-
-- Ich [[bringe]] dir ein Geschenk.
-- Du [[bringst]] die Zeitung.
-- Er [[bringt]] das Essen.
-- Es [[bringt]] Glück.
-- Sie [[bringt]] den Brief.
-- Wir [[bringen]] die Getränke.
-- Ihr [[bringt]] die Stühle.
-- Sie [[bringen]] die Kinder zur Schule.
-
----
-
-**Übersetzung**:
-to bring
-
----
- #Verb
-
----
-
-**Präteritum:**
-
-- Ich [[brachte]] dir ein Geschenk.
-- Du [[brachtest]] die Zeitung.
-- Er [[brachte]] das Essen.
-- Es [[brachte]] Glück.
-- Sie [[brachte]] den Brief.
-- Wir [[brachten]] die Getränke.
-- Ihr [[brachtet]] die Stühle.
-- Sie [[brachten]] die Kinder zur Schule.
-
----
-
-**Imperativ:**
-
-- Ich [[bringe]] das Buch.
-- Du [[bring]] das Buch.
-- Er [[bringe]] das Buch.
-- Es [[bringt]] das Buch.
-- Sie [[bringe]] das Buch.
-- Wir [[bringen]] das Buch.
-- Ihr [[bringt]] das Buch.
-- Sie [[bringen]] das Buch.
-
----
-
-**Morphems of only infinitive:**  
-- [[bring]][[en]][[abholen]], [[nachbringen]], [[hinbringen]], [[beibringen]]
+Wichtige Redewendungen:
+- "jemandem etwas bei|bringen" (to teach someone something)
+- "in Verlegenheit bringen" (to embarrass)
+- "zum Lachen bringen" (to make someone laugh)

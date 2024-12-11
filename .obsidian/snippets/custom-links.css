@@ -1,0 +1,14 @@
+/* Change color of links */
+a {
+    text-decoration: none !important; /* Removes the underline */
+}
+
+/* Add hover effect for links */
+a:hover {
+    text-decoration: none !important; /* Removes the underline */
+}
+
+/* Style visited links (if desired) */
+a:visited {
+    text-decoration: none !important; /* Removes the underline */
+}

@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "default-img-size"
+    "default-img-size",
+    "custom-links"
   ],
   "translucency": false
 }
