@@ -13,26 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Avatar/s1 e2.md",
+                "file": "Texte/Avatar/s1 e1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s1 e2"
+              "title": "s1 e1"
             }
           },
           {
-            "id": "79759fdbdf1e4568",
+            "id": "ee15c608ba6045e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Avatar/s1 e4.md",
+                "file": "Worter/ver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s1 e4"
+              "title": "ver"
+            }
+          },
+          {
+            "id": "ffb9a61c64648464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Avatar/s1 e1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "s1 e1"
             }
           },
           {
@@ -133,7 +147,8 @@
               "title": "fast"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,10 +265,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Avatar/s1 e2.md"
+                "file": "Texte/Avatar/s1 e1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of s1 e2"
+              "title": "Outline of s1 e1"
             }
           }
         ],
@@ -279,11 +294,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9e3c32e8179d886e",
+  "active": "ffb9a61c64648464",
   "lastOpenFiles": [
-    "Texte/Avatar/s1 e1.md",
     "Texte/Avatar/s1 e2.md",
+    "Texte/Der Struwwelpeter/4 Die Geschichte vom wilden Jäger.md",
     "Texte/Avatar/s1 e4.md",
+    "Texte/Der Struwwelpeter/1 bösen Friederich.md",
+    "Worter/stellen.md",
+    "Worter/ver.md",
+    "Texte/Avatar/s1 e1.md",
+    "Texte/b2 podcast/2 Ein dickes Fell haben.md",
     "Texte/Avatar/s1 e3.md",
     "Worter/riesigen.md",
     "Worter/riesig.md",
@@ -302,11 +322,6 @@
     "Texte/Gedichte/Rammstein/Ausländer.md",
     "Texte/Avatar.md",
     "Texte/Der Struwwelpeter/2 Die gar traurige Geschichte mit dem Feuerzeug.md",
-    "Texte/b2 podcast/12 Ein Tropfen auf den heißen Stein.md",
-    "Texte/b2 podcast/1 Eine Doktorarbeit aus etwas machen.md",
-    "Worter/Schwarz.md",
-    "Worter/Farbe.md",
-    "Texte/Skripte/extra/Extra 2.md",
     "Texte/b2 podcast",
     "Texte/b1",
     "Anhänge/Pasted image 20241112104051.png",

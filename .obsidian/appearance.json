@@ -4,5 +4,6 @@
     "default-img-size",
     "custom-links"
   ],
-  "translucency": false
+  "translucency": false,
+  "cssTheme": "Things"
 }
