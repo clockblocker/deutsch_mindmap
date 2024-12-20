@@ -3,7 +3,10 @@ die [[Mengen]]
 
 
 ---
-Und obwohl seine Fähigkeiten erstaunlich sind, muss er noch eine Menge lernen. 
+Und obwohl seine Fähigkeiten erstaunlich sind, muss er noch eine [[Menge]] lernen. 
+
+Die Kinder erreichen Aang und Katara und die [[Menge]] ist fröhlich
+
 
 ---
 Synonyme:
@@ -11,7 +14,7 @@ Synonyme:
 - [[Schar]], [[Gruppe]], [[Haufen]], [[Ansammlung]], [[Kollektiv]]
 
 ---
-Übersetzung: amount, quantity, number
+Übersetzung: croud, amount, quantity, number
 
 ---
 Morpheme:

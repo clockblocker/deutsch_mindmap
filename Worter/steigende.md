@@ -4,6 +4,7 @@ nicht [[fallende]]
 ---
 Das richtige „Bildgefühl" ist auch bei Ikea der Grund für die [[steigende]] [[Nachfrage]].
 
+Die Episode beginnt damit, dass man das steigende Leuchtgeschoss sehen kann, dass Aang [[versehentlich]] in der vorherigen Episode in die Luft [[gestartet]] hat
 
 ---
 Synonyme: [[wachsend]], [[zunehmend]], [[ansteigend]], [[anwachsend]], [[sich erhebend]]

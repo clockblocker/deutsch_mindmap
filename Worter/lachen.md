@@ -42,4 +42,4 @@ Morpheme: [[lach]][[en]]
 
 Partizip I: [[lachend]], Partizip II: [[gelacht]]
 
-[[lachen]] - keine Trennbarkeit, [[anlachen]], [[auslachen]], [[angrinsen]], [[seufzen]]
+[[lachen]] - keine Trennbarkeit, [[anlachen]], [[auslachen]], [[angrinsen]], [[seufzen]], [[heulen]]

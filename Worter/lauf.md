@@ -1,2 +1,2 @@
 🏃‍♂️ [[laufen]]  
-, [[hinterherlaufen]], [[Kreislauf]]
+, [[hinterherlaufen]], [[Kreislauf]], [[zulaufen]], [[verlaufen]]

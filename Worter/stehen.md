@@ -42,4 +42,4 @@ Partizip I: [[stehend]], Partizip II: [[gestanden]]
 
 
 [[verstehen]], [[bestehen]], [[bücken]], [[widerstehen]], [[liegen]], [[laufen]]
-, [[stehen lassen]], [[krabbeln]], [[7 Die Geschichte vom Zappel-Philipp]], [[rutschen]], [[ständig]], [[überstehen]]
+, [[stehen lassen]], [[krabbeln]], [[7 Die Geschichte vom Zappel-Philipp]], [[rutschen]], [[ständig]], [[überstehen]], [[gestrichen]]

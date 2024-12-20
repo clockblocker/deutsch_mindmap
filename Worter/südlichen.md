@@ -4,6 +4,8 @@ nicht [[nördlich]]
 ---
 ([[Guckt]] wieder in das Fernrohr und [[richtet]] [[dads]] Fernrohr auf die [[Siedlung]] des [[südlichen]] Wasserstamms) 
 
+Die Bewohner das [[südlichen]] Wasserstamms stehen im Schnee und warten auf sie. Die Kinder werden bei Aangs Anblick überglücklich
+
 ---
 Synonyme: [[meridional]], [[südwärts]], [[südlich]], [[südorientiert]]
 Antonyme: [[nördlich]], [[nordwärts]]

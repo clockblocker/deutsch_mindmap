@@ -1,4 +1,4 @@
-enger, [ˈɛŋɐ], 🤏 [[engen]] | 🔵 der [[Enger]]
+   enger, [ˈɛŋɐ], 🤏 [[engen]] | 🔵 der [[Enger]]
 
 ---
 Um den Gürtel [[enger]] [[schnallen]] zu können, muss man weniger essen.

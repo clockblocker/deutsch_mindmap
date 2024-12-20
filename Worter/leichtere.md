@@ -1,1 +1,1 @@
-, [[leicht]]
+, [[leicht]], [[leichtern]]

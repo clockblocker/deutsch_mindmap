@@ -1,5 +1,5 @@
 Wir halten zusammen,  
-Wir [[aushalten|halten]] mit einander aus  
+Wir [[aushalten|halten]] mit [[einander]] aus  
 Wir halten zu einander,  
 Niemand [[aufhalten|hält]] uns auf  
   

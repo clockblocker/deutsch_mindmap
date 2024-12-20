@@ -18,6 +18,11 @@ sein [[gelaufen]]
 
 Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein Geschäft [[läuft]] zurzeit nicht gut und sein Konto ist fast leer. 
 
+Die Begrüßung [[läuft]] noch ganz gut: Miriam stellt ihn allen vor. Sie scheinen nett zu sein, aber ein längeres Gespräch entwickelt sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 
+
+---
+[[verlaufen]] - [[ver]] = [[laufen]]
+
 ---
 Synonyme: [[rennen]], [[joggen]], [[gehen]], [[spazieren]], [[traben]]
 Antonyme: [[sitzen]], [[liegen]], [[stehen]], [[bleiben]]
@@ -43,4 +48,4 @@ Morpheme: [[lauf]][[en]]
 Partizip I: [[laufend]], Partizip II: [[gelaufen]]
 
 [[kriechen]], [[liegen]]
-, [[hinterherlaufen]], [[krabbeln]]
+, [[hinterherlaufen]], [[krabbeln]], [[zulaufen]], [[verlaufen]]

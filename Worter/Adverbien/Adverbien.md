@@ -61,7 +61,7 @@
 [[langsam]]  
 [[laut]]  
 [[leise]]  
-[[Früh]]  
+[[früh]]  
 [[spät]]  
 [[gerade]]  
 [[manchmal]]  

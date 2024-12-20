@@ -30,3 +30,4 @@ Morpheme: [[le]][[s]][[en]]
 Partizip I: [[lesend]], Partizip II: [[gelesen]]
 
 [[lesen]] + [[vor]] = [[vorlesen]]  
+, [[Zwischen den Zeilen lesen]]

@@ -1,1 +1,1 @@
-[[behandeln]], [[Sorgen]], [[kümmern]]
+[[behandeln]], [[Sorgen]], [[kümmern]], [[pflegen]]

@@ -6,6 +6,9 @@
 
 Prinz Zuko, Ihr braucht auch ein wenig Schlaf. [[Selbst]] wenn Ihr Recht haben solltet und der Avatar wirklich am Leben ist, Ihr werdet ihn nicht finden. 
 
+Da ist es leichter, mit den Wölfen zu heulen – [[selbst]] dann, wenn man Wolfsgeheul eigentlich nicht mag.
+
+
 
 ---
 Synonyme: 

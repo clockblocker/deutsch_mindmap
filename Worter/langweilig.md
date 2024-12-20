@@ -1,1 +1,1 @@
-, [[interessant]], [[witzig]], [[erstaunlich]]
+, [[interessant]], [[witzig]], [[erstaunlich]], [[Bunt]]

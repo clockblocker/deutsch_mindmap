@@ -1,1 +1,1 @@
-, [[Spitze]], [[zurennen]]
+, [[Spitze]], [[zurennen]], [[zulaufen]]

@@ -25,7 +25,7 @@
 5. [[er]],[[wer]],[[sehr]],[[der]],[[Herr]],[[mehr]].
 
 Задание 4: Прочитать:
-[[richtig]], [[wir]], [[Ich]], [[Du]], die [[Tür]], die [[Tasche]], [[jagen]], [[tanzen]], [[spielen]], [[Zehn]], [[Drei]], [[Vier]], der [[Vater]], die [[Mutter]], [[ruhig]], [[vorsichtig]], [[voll]], [[Früh]], [[toll]], [[sie]], [[ihr]], [[mich]], [[er]], [[ja]], [[nein]], [[wer?]], [[wie?]], [[Neun]], [[Falsch]], [[Neunzehn]], [[neunzig]].
+[[richtig]], [[wir]], [[Ich]], [[Du]], die [[Tür]], die [[Tasche]], [[jagen]], [[tanzen]], [[spielen]], [[Zehn]], [[Drei]], [[Vier]], der [[Vater]], die [[Mutter]], [[ruhig]], [[vorsichtig]], [[voll]], [[früh]], [[toll]], [[sie]], [[ihr]], [[mich]], [[er]], [[ja]], [[nein]], [[wer?]], [[wie?]], [[Neun]], [[Falsch]], [[Neunzehn]], [[neunzig]].
 
 
 

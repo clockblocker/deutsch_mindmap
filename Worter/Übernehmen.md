@@ -4,7 +4,6 @@ haben [[übernommen]]
 
 ---
 - [[Übernehmen]], übergeben  
-- 
 
 
 ---
@@ -32,4 +31,4 @@ Morpheme: [[Worter/über]][[nehm]][[en]]
 
 Partizip I: [[übernehmend]], Partizip II: [[übernommen]]
 
-[[Übernehmen]] - [[Worter/über]] = [[nehmen]]
+[[Übernehmen]] - [[über]] = [[nehmen]]

@@ -18,6 +18,8 @@ Also Männer, Es ist wichtig, dass ihr keine Angst [[zeigt]], wenn ihr einem Feu
 
 Das Fangen von Pinguinen ist eine alte und heilige Kunst. Und ich werd's dir [[zeigen]]!
 
+Die Kamera schwenkt nach oben von den Kindern zu den Erwachsenen und [[zeigt]], dass sie weniger erfreut sind
+
 ---
 Synonyme: [[demonstrieren]], [[präsentieren]], [[vorführen]], [[aufzeigen]], [[darstellen]]
 Antonyme: [[verbergen]], [[verstecken]], [[verschweigen]], [[verdunkeln]]
@@ -43,4 +45,4 @@ Morpheme: [[zeig]][[en]]
 
 Partizip I: [[zeigend]], Partizip II: [[gezeigt]]
 [[zeigen]] - [[zeig]] = [[en]]
-''', [[sehen lassen]], [[beibringen]], [[verdecken]]
+''', [[sehen lassen]], [[beibringen]], [[verdecken]], [[vorstellen]]

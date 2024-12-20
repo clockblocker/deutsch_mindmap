@@ -1,6 +1,4 @@
-\🛠️ [[stellen]]  
-[[stellte]]  
-haben [[gestellt]]
+\🛠️ [[stellen]], [[stellte]], haben [[gestellt]]
 
 ![[Pasted image 20240703130315.png]]
 
@@ -8,14 +6,17 @@ haben [[gestellt]]
 ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 
 ---
-[[ausstellen]] - [[aus]] = [[stellen]] / to exhibit
-[[aufstellen]] - [[auf]] = [[stellen]] /  to set up
-[[hinstellen]] - [[hin]] = [[stellen]] / to put
-[[darstellen]] - [[dar]] = [[stellen]] / to represent
+[[ausstellen]] - [[aus]] = [[stellen]]                          / to exhibit
+[[aufstellen]] - [[auf]] = [[stellen]]                           /  to set up
+[[hinstellen]] - [[hin]] = [[stellen]]                            / to put
+[[darstellen]] - [[dar]] = [[stellen]]                           / to represent
 [[zusammenstellen]] - [[zusammen]] = [[stellen]] / составлять / собирать
-[[feststellen]] - [[fest]] = [[stellen]] // to determine
-[[abbestellen]] - [[ab]] = [[bestellen]] / отписываться
-[[bestellen]] - [[be]] = [[stellen]] / покупать
+[[feststellen]] - [[fest]] = [[stellen]]                          / to determine
+[[abbestellen]] - [[ab]] = [[bestellen]]                      / отписываться
+[[bestellen]] - [[be]] = [[stellen]]                              / покупать
+[[gestalten]] - [[ge]] = [[stellen]]                              / формировать
+[[vorstellen]] - [[vor]] = [[stellen]]                             / introduce 
+
 
 ---
 
@@ -73,4 +74,4 @@ to place, to put, to set
 ---
 
 **Morphems of only infinitive:**  
-- [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]]
+- [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]], [[vorstellen]], [[Darstellung]]

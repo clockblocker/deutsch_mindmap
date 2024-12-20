@@ -1,3 +1,3 @@
 discuss
 
-diskut[[ieren]][[reden]], [[sprechen]], [[verhandelen]]
+diskut[[ieren]][[reden]], [[sprechen]], [[verhandelen]], [[unterhalten]]

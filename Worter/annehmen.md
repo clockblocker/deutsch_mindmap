@@ -1,1 +1,1 @@
-[[Übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]], [[glaub]]
+[[Übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]], [[glaub]], [[raten]], [[erhalten]]

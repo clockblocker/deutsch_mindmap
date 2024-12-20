@@ -1,64 +1,32 @@
-🧑‍💼 [[vorstellen]]  
-[[stellte vor|stellte vor]]  
-haben [[vorgestellt]]
+🤝[[vorstellen]] + Akk, [fɔɐ̯ˈʃtɛlən], [[stellte vor|stellte vor]], haben [[vorgestellt]]
 
 ---
-ANNA: Nadja, [[stell dir vor]]:   Sam spielt mit Spielzeug-Autos!
+ANNA: Nadja, [[stell dir vor]]:  Sam spielt mit Spielzeug-Autos!
+
+Die Begrüßung läuft noch ganz gut: Miriam [[stellt]] ihn allen [[vor]]. Sie scheinen nett zu sein, aber ein längeres Gespräch entwickelt sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 
+
+[[Vorstellung]]
 
 ---
-
-**Synonyme:**
-
-- [[präsentieren]], [[darlegen]], [[vorführen]]
+Synonyme: [[präsentieren]], [[einführen]], [[bekannt machen]], [[vorführen]], [[zeigen]]
+Antonyme: [[verstecken]], [[verbergen]], [[ignorieren]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[stelle vor|stelle]] meine Freunde vor.
-- Du [[stellst vor|stellst]] dein Projekt vor.
-- Er [[stellt vor|stellt]] seine Familie vor.
-- Es [[stellt vor|stellt]] die Idee vor.
-- Sie [[stellt vor|stellt]] den neuen Kollegen vor.
-- Wir [[stellen vor|stellen]] das Konzept vor.
-- Ihr [[stellt vor|stellt]] die Ergebnisse vor.
-- Sie [[stellen vor|stellen]] ihre Pläne vor.
+Übersetzung: to introduce, imagine, to present
 
 ---
-
-**Übersetzung**:
-to introduce, to imagine
-
----
+Morpheme: [[vor]][[stell]][[en]]
  #Verb  #Trennbar
+ 
 
----
+| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
+| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
+| Ich | [[stelle vor]] | [[stellte vor]] | - | [[stelle vor]] | [[stellte vor]] |
+| Du | [[stellst vor]] | [[stelltest vor]] | [[stell vor]] | [[stellest vor]] | [[stelltest vor]] |
+| Er/sie/es | [[stellt vor]] | [[stellte vor]] | - | [[stelle vor]] | [[stellte vor]] |
+| Wir | [[stellen vor]] | [[stellten vor]] | - | [[stellen vor]] | [[stellten vor]] |
+| Ihr | [[stellt vor]] | [[stelltet vor]] | [[stellt vor]] | [[stellet vor]] | [[stelltet vor]] |
+| Sie | [[stellen vor]] | [[stellten vor]] | [[stellen Sie vor]] | [[stellen vor]] | [[stellten vor]] |
 
-**Präteritum:**
-
-- Ich [[stellte vor|stellte]] meine Freunde vor.
-- Du [[stelltest vor|stelltest]] dein Projekt vor.
-- Er [[stellte vor|stellte]] seine Familie vor.
-- Es [[stellte vor|stellte]] die Idee vor.
-- Sie [[stellte vor|stellte]] den neuen Kollegen vor.
-- Wir [[stellten vor|stellten]] das Konzept vor.
-- Ihr [[stelltet vor|stelltet]] die Ergebnisse vor.
-- Sie [[stellten vor|stellten]] ihre Pläne vor.
-
----
-
-**Imperativ:**
-
-- Ich [[stelle vor|stelle]] es.
-- Du [[stell vor|stelle]] es.
-- Er [[stelle vor|stelle]] es.
-- Es [[stellt vor|stellt]] es.
-- Sie [[stelle vor|stelle]] es.
-- Wir [[stellen vor|stellen]] es.
-- Ihr [[stellt vor|stellt]] es.
-- Sie [[stellen vor|stellen]] es.
-
----
-
-**Morphems of only infinitive:**  
-- [[vor]][[stellen]]
+Partizip I: [[vorstellend]], Partizip II: [[vorgestellt]]
+[[vorstellen]] - [[vor]] = [[stellen]]

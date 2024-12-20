@@ -5,6 +5,8 @@ die [[Bewohner]]
 ---
 [[Dorfbewohner]]
 
+Die [[Bewohner]] das südlichen Wasserstamms stehen im Schnee und warten auf sie. Die Kinder werden bei Aangs Anblick überglücklich
+
 ---
 Synonyme:
 - [[Einwohner]], [[Anwohner]], [[Siedler]], [[Mieter]], [[Wohnende]]

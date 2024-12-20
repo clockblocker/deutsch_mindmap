@@ -17,4 +17,4 @@ Synonyme:
 **Übersetzung**: dream
 
 ---
-#Substantiv #Maskulin, [[Extra 8]]
+#Substantiv #Maskulin, [[Extra 8]], [[Wunsch]]

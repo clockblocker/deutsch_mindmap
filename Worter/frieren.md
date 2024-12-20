@@ -8,6 +8,8 @@ haben [[gefroren]]
 
 Schon verrückt! Da drinnen friert aber auch alles.
 
+---
+[[zufrieren]] - [[zu]] = [[frieren]]
 
 
 ---
@@ -34,3 +36,4 @@ Morpheme: [[fri]][[er]][[en]]
 
 Partizip I: [[frierend]], Partizip II: [[gefroren]]
 
+, [[zufrieren]]

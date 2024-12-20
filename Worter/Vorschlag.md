@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Vorschlags]], [[Vorschlag]], [[Vorschläge]], [[Vorschlägen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Ratschlag]]

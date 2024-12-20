@@ -1,1 +1,1 @@
-, [[verbeugen]], [[ziemen]]
+, [[verbeugen]], [[ziemen]], [[Grüßen]]

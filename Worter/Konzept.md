@@ -1,1 +1,1 @@
-, [[Gedanke]]
+, [[Gedanke]], [[Vorstellung]]

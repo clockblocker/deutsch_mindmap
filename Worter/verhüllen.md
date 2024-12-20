@@ -1,1 +1,1 @@
-[[bedeuten]], [[abdecken]], [[verdecken]]
+[[bedeuten]], [[abdecken]], [[verdecken]], [[wickeln]]

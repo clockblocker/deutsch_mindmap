@@ -6,6 +6,7 @@ die [[Schritte]]
 *Der Kaspar kam mit schnellem [[Schritt]]*  
 *und brachte seine Brezel mit.*  
 
+Sokka, der sich frei von der Linie der Dorfbewohner macht, geht ein paar [[Schritte]] nach vorn um Aang anzusehen
 
 
 ---

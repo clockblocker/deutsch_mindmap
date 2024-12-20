@@ -3,7 +3,7 @@
 haben [[erhalten]]
 
 ---
-Schon 1964 erhielt Richter die Gelegenheit zur ersten Einzelausstellung und bald präsentierten viele in- und ausländische Galerien seine Werke
+Schon 1964 [[erhielt]] Richter die Gelegenheit zur ersten Einzelausstellung und bald präsentierten viele in- und ausländische Galerien seine Werke
 
 ---
 Synonyme: [[bekommen]], [[empfangen]], [[kriegen]], [[annehmen]], [[beziehen]]

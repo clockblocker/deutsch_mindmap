@@ -4,6 +4,8 @@ nicht [[ungemütlich]]
 ---
 Ist ein Neubau-Wohn-zimmer [[gemütlich]] und wie sitzt man in einem Trabant*? Die Dauerausstellung zeigt in
 
+Unter einer Decke ist es warm und [[gemütlich]]. Was darunter passiert, kann man von außen nicht sehen. Es bleibt geheim. Doch was bedeutet es, wenn mehrere Personen unter einer Decke stecken? Oft nichts Gutes …**  
+
 
 ---
 Synonyme: [[behaglich]], [[heimelig]], [[wohnlich]], [[komfortabel]], [[warm]]

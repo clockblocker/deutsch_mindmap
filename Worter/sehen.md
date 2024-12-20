@@ -1,4 +1,4 @@
- [[sehen]] + Akk, [ˈzeːən], [[sah]], haben [[gesehen]]
+[[sehen]] + Akk, [ˈzeːən], [[sah]], haben [[gesehen]]
 
 ---
 

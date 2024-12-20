@@ -6,6 +6,8 @@ EDELTRAUT: So? Dann muss er tanzen kommen, das macht [[fröhlich]].
 
 _Beide lachen und sind [[fröhlich]]._
 
+Die Kinder erreichen Aang und Katara und die Menge ist [[fröhlich]]
+
 ---
 Synonyme: [[heiter]], [[glücklich]], [[vergnügt]], [[lustig]], [[gut gelaunt]], [[unbeschwert]]
 Antonyme: [[traurig]], [[betrübt]], [[bedrückt]], [[niedergeschlagen]], [[depressiv]]

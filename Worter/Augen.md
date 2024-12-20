@@ -1,2 +1,2 @@
 das [[Auge]] / die [[Augen]] | #Substantiv #Neuter | eye
-, [[Augenlid]]
+, [[Augenlid]], [[unter vier Augen]]

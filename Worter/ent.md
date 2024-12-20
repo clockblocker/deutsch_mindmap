@@ -1,1 +1,1 @@
-, [[enthüllen]], [[hüllen]], [[entdeckten]], [[entwischen]], [[wischen]], [[entspringen]], [[decken]], [[entzwei]], [[Dozent]], [[entscheiden]], [[scheiden]]
+, [[enthüllen]], [[hüllen]], [[entdeckten]], [[entwischen]], [[wischen]], [[entspringen]], [[decken]], [[entzwei]], [[Dozent]], [[entscheiden]], [[scheiden]], [[entwickeln]], [[wickeln]]

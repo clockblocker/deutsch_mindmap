@@ -2,6 +2,8 @@
 [[sah an|sah an]]
 haben [[angesehen]]
 
+[[Was wollen wir trinken]]
+
 ---
 Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 
@@ -11,6 +13,10 @@ Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 Nennst du das etwa links? _[[ansehen|Sieht]] Sokka böse [[an]]_
 
 Katara [[sieht]] den Eisberg genauer [[an]] und erkennt einen Jungen mit leuchtenden [[Pfeilen]] auf dem Kopf und den Händen. 
+
+Sokka, der sich frei von der Linie der Dorfbewohner macht, geht ein paar Schritte nach vorn um Aang [[anzusehen]]
+
+Die Eltern sehen sich an. „Und wir beide? Wir machen mal w ieder Urlaub zu zweit. So wie [[früher]]!“
 
 
 ---
@@ -36,6 +42,6 @@ Morpheme: [[an]][[seh]][[en]]
 | Ihr | [[seht an]] | [[saht an]] | [[seht an]] | [[sehet an]] | [[sähet an]] |
 | Sie | [[sehen an]] | [[sahen an]] | [[sehen Sie an]] | [[sehen an]] | [[sähen an]] |
 
-Partizip I: [[ansehend]], Partizip II: [[angesehen]]
+Partizip I: [[ansehend]], Partizip II: [[angesehen]], Zuinf: [[anzusehen]]
 
 [[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]]

@@ -1,4 +1,4 @@
-w🎯 [[zielen]] + Akk/auf + Akk, [ˈtsiːlən]
+🎯 [[zielen]] + Akk/auf + Akk, [ˈtsiːlən] | 🔵 der [[Ziel]] 
 [[zielte]]
 haben [[gezielt]]
 
@@ -24,9 +24,9 @@ Morpheme: [[ziel]][[en]]
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
 | --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[ziele]] | [[zielte]] | - | [[ziele]] | [[zielte]] |
-| Du | [[zielst]] | [[zieltest]] | [[ziele]] | [[zielest]] | [[zieltest]] |
-| Er/sie/es | [[zielt]] | [[zielte]] | - | [[ziele]] | [[zielte]] |
+| Ich | [[Ziele]] | [[zielte]] | - | [[Ziele]] | [[zielte]] |
+| Du | [[zielst]] | [[zieltest]] | [[Ziele]] | [[zielest]] | [[zieltest]] |
+| Er/sie/es | [[zielt]] | [[zielte]] | - | [[Ziele]] | [[zielte]] |
 | Wir | [[zielen]] | [[zielten]] | - | [[zielen]] | [[zielten]] |
 | Ihr | [[zielt]] | [[zieltet]] | [[zielt]] | [[zielet]] | [[zieltet]] |
 | Sie | [[zielen]] | [[zielten]] | [[zielen Sie]] | [[zielen]] | [[zielten]] |

@@ -6,7 +6,8 @@ haben [[gesammelt]]
 Er [[sammelte]] Zeitungsausschnitte, Foto-grafien, Farbstudien, Landschaften, Portraits, Stillleben und historische Stoffe, die ihm als Vorlagen für Gemälde dienten
 
 ---
-[[ansammeln]] - [[an]] = [[sammeln]]
+[[ansammeln]] - [[an]] = [[sammeln]] // fomally gather
+[[versammeln]] - [[ver]] = [[sammeln]] // assemble
 
 ---
 Synonyme: [[anhäufen]], [[aufhäufen]], [[häufen]], [[zusammentragen]], [[ansammeln]]
@@ -35,4 +36,4 @@ Partizip I: [[sammelnd]], Partizip II: [[gesammelt]]
 
 , [[wegwerfen]], [[gießen]], [[schleudern]], [[ausbreiten]], [[verschwenden]], [[schwenden]], [[verschicken]], [[ansammeln]]
 
-, [[verplempern]], [[zuwerfen]], [[zerstreuen]]
+, [[verplempern]], [[zuwerfen]], [[zerstreuen]], [[versammeln]]

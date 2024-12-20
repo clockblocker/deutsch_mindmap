@@ -1,4 +1,4 @@
-🎭 [[darstellen]] + Akk, [daɐ̯ˈʃtɛlən]
+🎭 [[darstellen]] + Akk, [daɐ̯ˈʃtɛlən], Darstellung
 [[stellte dar]]
 haben [[dargestellt]]
 
@@ -30,4 +30,4 @@ Morpheme: [[dar]][[stell]][[en]]
 | Sie       | [[stellen dar]]      | [[stellten dar]]      | [[stellen Sie dar]]| [[stellen dar]]        | [[stellten dar]]        |
 
 Partizip I: [[darstellend]], Partizip II: [[dargestellt]]
-[[darstellen]] - [[dar]] = [[stellen]], [[widerspiegeln]]
+[[darstellen]] - [[dar]] = [[stellen]], [[widerspiegeln]], [[Darstellung]]

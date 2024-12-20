@@ -3,13 +3,15 @@
 haben [[getaucht]]
 
 ---
+*Er [[tunkt]] sie in die Tinte tief,*  
+*wie auch der Kaspar »Feuer« rief.*  
 
 ---
 [[untertauchen]], [[auftauchten]]
 
 ---
-Synonyme: [[untertauchen]], [[eintauchen]], [[abtauchen]], [[versinken]], [[eintauchen]]
-Antonyme: [[auftauchen]], [[emportauchen]], [[erscheinen]]
+Synonyme: [[eintauchen]], [[untertauchen]], [[abtauchen]], [[abtriften]], [[sinken]]
+Antonyme: [[auftauchen]], [[aufsteigen]], [[schwimmen]], [[emporsteigen]]
 
 ---
 Übersetzung: to dive, to plunge
@@ -24,10 +26,10 @@ Morpheme: [[tauch]][[en]]
 | Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
 | --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
 | Ich       | [[tauche]]           | [[tauchte]]           | -                 | [[tauche]]             | [[tauchte]]             |
-| Du        | [[tauchst]]          | [[tauchtest]]         | [[tauche]]        | [[tauchest]]           | [[tauchtest]]           |
+| Du        | [[tauchst]]          | [[tauchtest]]         | [[tauch]]         | [[tauchest]]           | [[tauchtest]]           |
 | Er/sie/es | [[taucht]]           | [[tauchte]]           | -                 | [[tauche]]             | [[tauchte]]             |
 | Wir       | [[tauchen]]          | [[tauchten]]          | -                 | [[tauchen]]            | [[tauchten]]            |
-| Ihr       | [[taucht]]           | [[tauchet]]           | [[taucht]]        | [[tauchet]]            | [[tauchtet]]            |
+| Ihr       | [[taucht]]           | [[taucht]]            | [[taucht]]        | [[tauchet]]            | [[tauchet]]             |
 | Sie       | [[tauchen]]          | [[tauchten]]          | [[tauchen Sie]]   | [[tauchen]]            | [[tauchten]]            |
 
 Partizip I: [[tauchend]], Partizip II: [[getaucht]]

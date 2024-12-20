@@ -1,73 +1,33 @@
-👤 [[erscheinen]]
+🌟[[erscheinen]] über dem, [ɛɐ̯ˈʃaɪ̯nən]
 [[erschien]]
 sein [[erschienen]]
 
 ---
 Als der Leopard das Fleisch des Hirsches fraß, [[erschien]] ein Löwe, der vertrieb den Leoparden mit nur einem Prankenhieb
 
----
-
-Synonyme:
-- [[auftauchen]], [[sich zeigen]], [[aufkreuzen]]
+Die Kamera schwenkt nach unten, und die [[gestalten]] von Aang und Katara [[erscheinen]] über dem Horizont.
 
 ---
-
-Beispiele:
-
-- Der Geist [[erschien]] plötzlich in der Nacht.
-- Er [[erschien]] zum Treffen, obwohl er krank war.
-- Das Buch ist im letzten Jahr [[erschienen]].
+Synonyme: [[auftauchen]], [[auftreten]], [[daherkommen]], [[hervortreten]], [[sich zeigen]]
+Antonyme: [[verschwinden]], [[verbergen]], [[verstecken]]
 
 ---
-**Übersetzung**: appeared, showed up
+Übersetzung: to appear, to seem, to be published
 
 ---
+Morpheme: [[er]][[schein]][[en]]
+ #Verb  #Untrennbar
 
-Morphems of only infinitive:
-[[er]][[schein]][[en]]
+| Person    | Präsens        | Präteritum     | Imperativ          | Konjunktiv I    | Konjunktiv II   |
+| --------- | -------------- | -------------- | ------------------ | --------------- | --------------- |
+| Ich       | [[erscheine]]  | [[erschien]]   | -                  | [[erscheine]]   | [[erschiene]]   |
+| Du        | [[erscheinst]] | [[erschienst]] | [[erscheine]]      | [[erscheinest]] | [[erschienest]] |
+| Er/sie/es | [[erscheint]]  | [[erschien]]   | -                  | [[erscheine]]   | [[erschiene]]   |
+| Wir       | [[erscheinen]] | [[erschienen]] | -                  | [[erscheinen]]  | [[erschienen]]  |
+| Ihr       | [[erscheint]]  | [[erschient]]  | [[erscheint]]      | [[erscheinet]]  | [[erschienet]]  |
+| Sie       | [[erscheinen]] | [[erschienen]] | [[erscheinen Sie]] | [[erscheinen]]  | [[erschienen]]  |
 
----
-Tags:
-#Verb  #Unregelmäßig
+Partizip I: [[erscheinend]], Partizip II: [[erschienen]]
+[[erscheinen]] - [[er]] = [[scheinen]]
 
----
-
-Präteritum:
-
-- Ich [[erschien]] pünktlich zur Verabredung.
-- Du [[erschienst]] unerwartet.
-- Er [[erschien]] wie aus dem Nichts.
-- Wir [[erschienen]] auf der Party.
-- Ihr [[erschient]] zum Termin.
-- Sie [[erschienen]] plötzlich am Ort des Geschehens.
-
----
-
-Imperativ:
-
-- [[Erscheine]] zur rechten Zeit!
-- [[Erscheint]] pünktlich zur Versammlung!
-- [[Erscheinen wir]] gemeinsam auf der Feier!
-- [[Erscheinen Sie]] bei der Veranstaltung!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[Erscheine]] immer pünktlich.
-- Sie meint, du [[erscheinest]] regelmäßig.
-- Er behauptet, er [[Erscheine]] wie ein Zauberer.
-- Wir erklären, wir [[erscheinen]] immer zusammen.
-- Ihr sagt, ihr [[erschein]] regelmäßig.
-- Sie sagen, sie [[erscheinen]] bei Bedarf.
-
----
-
-Konjunktiv II:
-
-- Wenn ich eingeladen wäre, [[erschiene]] ich zur Feier.
-- Wenn du Zeit hättest, [[erschienest]] du regelmäßig.
-- Wenn er wollte, [[erschiene]] er pünktlich.
-- Wenn wir nicht so müde wären, [[erschienen]] wir öfter.
-- Wenn ihr wüsstet, wann es ist, [[erschienet]] ihr pünktlich.
-- Wenn sie die Möglichkeit hätten, [[erschienen]] sie zur Versammlung.[[untergehen]], [[aussehen]], [[aufgehen]], [[untertauchen]], [[verschwinden]], [[versinken]], [[auftauchten]], [[kommen]], [[wirken]]
+[[untergehen]], [[aussehen]], [[aufgehen]], [[untertauchen]], [[verschwinden]], [[versinken]], [[auftauchten]], [[kommen]], [[wirken]]

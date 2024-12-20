@@ -1,1 +1,1 @@
-, [[beeindruckt]], [[überdrüssig]]
+, [[beeindruckt]], [[überdrüssig]], [[erfreut]]

@@ -1,9 +1,10 @@
-
 [[anders]], [ˈandɐs]
 nicht [[gleich]], nicht [[identisch]]
 
 ---
 ist [[gleich]] nur etwas anders
+
+Wer [[anders]] ist als die anderen, eine andere Meinung hat oder auch nur einen anderen Geschmack, hat es oft schwer.
 
 
 ---
@@ -37,4 +38,4 @@ Einzigartige mögliche Formen:
 5. [[andere]]
 6. [[andern]]
 7. [[woanders]]
-, [[ebenfalls]], [[anderessehen]]
+, [[ebenfalls]], [[anderessehen]], [[dieselbe]]

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Reihenfolge]], [[Reihenfolgen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Zeile]]

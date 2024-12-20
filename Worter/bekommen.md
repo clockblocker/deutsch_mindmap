@@ -7,3 +7,4 @@
 ---
  [[holen]], [[verloren]],[[verlieren]], [[nehm]], [[verdienen]], [[geben]], [[abbekommen]]
 
+, [[erhalten]]

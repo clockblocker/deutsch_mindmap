@@ -50,4 +50,4 @@ next, nearest
 Tags: 
 #Adjective [[nächste]]
 
-nicht [[letzte]], [[zweit]], [[nah]], [[letzen]]
+nicht [[letzte]], [[zweit]], [[nah]], [[letzen]], [[vorherigen]]

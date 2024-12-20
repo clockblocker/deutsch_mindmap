@@ -1,1 +1,1 @@
-, [[Vorschlag]], [[Richt]]
+, [[Vorschlag]], [[Richt]], [[Ratschlag]]

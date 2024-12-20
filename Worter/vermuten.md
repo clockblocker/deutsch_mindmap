@@ -1,1 +1,1 @@
-, [[meinen]], [[wiegen]], [[glaub]], [[rechnen]]
+, [[meinen]], [[wiegen]], [[glaub]], [[rechnen]], [[raten]]

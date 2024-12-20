@@ -4,6 +4,7 @@ die [[Meinungen]]
 ---
 So gehört es heute zu jedem Partygespräch, eine [[Meinung]] über Kunst zu haben und zeitgenössische Künstler wie Neo Rauch zu kennen.
 
+Wer anders ist als die anderen, eine andere [[Meinung]] hat oder auch nur einen anderen Geschmack, hat es oft schwer.
 
 ---
 

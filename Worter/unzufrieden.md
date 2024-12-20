@@ -1,1 +1,1 @@
-[[glücklich]]
+[[glücklich]], [[erfreut]], [[zufrieden]]

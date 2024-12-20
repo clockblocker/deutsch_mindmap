@@ -9,6 +9,9 @@ Meine Großmutter [[erzählte]] mir oft Geschichten über eine längst vergangen
 
 Oh Mann, du [[erzählst]] einen Schwachsinn. Kein Mensch auf der Welt kann fliegen.
 
+Auf dem Weg zum Auto sagt Nasim: „Miriam hat [[erzählt]], du machst auch Judo.“ 
+Sebastian lächelt: „Ja, das stimmt. Du auch?“ 
+
 ---
 Synonyme: [[berichten]], [[schildern]], [[mitteilen]], [[wiedergeben]], [[darlegen]]
 Antonyme: [[schweigen]], [[verheimlichen]], [[verschweigen]], [[unterdrücken]], [[verschleiern]]

@@ -6,4 +6,4 @@
 the same
 
 
-[[Indefinitpronomen]]
+[[Indefinitpronomen]], [[dieselbe]]

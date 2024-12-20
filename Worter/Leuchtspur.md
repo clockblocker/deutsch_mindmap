@@ -1,1 +1,1 @@
-, [[Leuchtrakete]]
+, [[Leuchtrakete]], [[Leuchtgeschoss]]

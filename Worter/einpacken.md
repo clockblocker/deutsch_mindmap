@@ -1,1 +1,1 @@
-[[abpacken]], [[herausnehmen]]
+[[abpacken]], [[herausnehmen]], [[wickeln]]

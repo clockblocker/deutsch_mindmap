@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 [[locker]], [[lockerer]], [[lockere]], [[lockeres]], [[lockeren]], [[lockerem]], [[lockerer]], [[lockeren]]
 [[lockersten]], [[lockerster]], [[lockerste]], [[lockerstes]], [[lockersten]], [[lockerstem]], [[lockerster]], [[lockersten]]
 
-[[abgepackt]], [[streng]], [[trocken]], [[leicht]]
+[[abgepackt]], [[streng]], [[trocken]], [[leicht]], [[entspannt]]

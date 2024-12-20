@@ -1,1 +1,5 @@
-[[bestimmt]][[bedeuten]][[bestehen]][[bericht]][[besonders]][[behandeln]][[handeln]], [[bekannt]], [[benutzen]], [[bestellt]], [[bemerken]], [[berühmt]], [[beeindruckt]], [[bedienen]], [[dienen]], [[bewerben]], [[bemannt]], [[beschränken]], [[begleichen]], [[Berechnung]], [[beherrschen]], [[bewegen]], [[deuten]], [[beruhigen]], [[ruhig]], [[betreten]], [[beliebtes]], [[bemühen]], [[mühen]], [[abbekommen]], [[merken]], [[begegnen]], [[begleiten]], [[gleiten]], [[Bewohner]], [[bewohnen]], [[wohnen]], [[berichten]], [[richten]], [[beteiligen]], [[beobachten]], [[Beziehung]]
+1) nur Akk
+2) es macht die Aktivitet sehe [[wichtig]]
+3) 
+
+[[bestimmt]], [[bedeuten]], [[bestehen]], [[bericht]], [[besonders]][[behandeln]], [[handeln]], [[bekannt]], [[benutzen]], [[bestellt]], [[bemerken]], [[berühmt]], [[beeindruckt]], [[bedienen]], [[dienen]], [[bewerben]], [[bemannt]], [[beschränken]], [[begleichen]], [[Berechnung]], [[beherrschen]], [[bewegen]], [[deuten]], [[beruhigen]], [[ruhig]], [[betreten]], [[beliebtes]], [[bemühen]], [[mühen]], [[abbekommen]], [[merken]], [[begegnen]], [[begleiten]], [[gleiten]], [[Bewohner]], [[bewohnen]], [[wohnen]], [[berichten]], [[richten]], [[beteiligen]], [[beobachten]], [[Beziehung]], [[Bewerbung]], [[Begrüßung]]

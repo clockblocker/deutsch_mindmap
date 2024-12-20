@@ -1,1 +1,1 @@
-, [[bilden]], [[schaffen]], [[erfinden]]
+, [[bilden]], [[schaffen]], [[erfinden]], [[gestalten]], [[entwickeln]]

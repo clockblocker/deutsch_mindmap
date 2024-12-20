@@ -4,6 +4,8 @@ nicht [[gleichgültig]]
 ---
 Ist okay. Ich war nur [[neugierig]]. (Geht weg) Gute Nacht. Schlaf gut!
 
+Miriams Freunde sind [[neugierig]]: Heute Abend will sie ihren neuen Freund Sebastian zum Grillen mitbringen. 
+
 
 ---
 Synonyme: [[wissbegierig]], [[interessiert]], [[aufmerksam]], [[forschend]], [[begierig zu wissen]]

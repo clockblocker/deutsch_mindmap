@@ -1,7 +1,3 @@
-https://learngerman.dw.com/de/den-g%C3%BCrtel-enger-schnallen/l-19536479/lm
-
-**Den Gürtel enger schnallen  
-  
 Wer kennt das nicht: Man hat [[zugenommen]] und muss den [[Gürtel]] ganz [[weit]] [[machen]]. Um den Gürtel [[enger]] [[schnallen]] zu können, muss man weniger essen. Bei einer deutschen [[Redensart]] muss man aber noch auf viel mehr [[verzichten]].
   
 Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein [[Geschäft]] [[laufen|läuft]] [[zurzeit]] nicht [[gut]] und sein [[Konto]] ist fast [[leer]]. Er weiß nicht, wie er die nächsten Monate [[überstehen]] soll. 
@@ -17,3 +13,6 @@ Aber dann sieht er sich seine [[Kontoauszüge]] genauer an: 100 Euro für Büche
 Er [[abbestellen|bestellt]] sofort die Zeitschriften [[ab]] und [[kündigt]] das Fitnessstudio. 
 
 Er [[vornehmen|nimmt]] sich vor, in nächster Zeit nicht ins Kino zu gehen und weniger Wein zu trinken. Dann wird er es schon irgendwie schaffen.
+
+https://learngerman.dw.com/de/den-g%C3%BCrtel-enger-schnallen/l-19536479/lm
+

@@ -2,7 +2,7 @@
 nicht [[traurig]]
 
 ---
-(Plötzlich munter) 
+([[Plötzlich]] [[munter]]) 
 Willst du mit mir Pinguinschlitten fahren?
 
 ---

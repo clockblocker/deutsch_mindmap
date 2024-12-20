@@ -18,6 +18,8 @@ Er [[aussehen|sieht]] völlig erschöpft aus!
 
 Katrin seufzt. „Werner, jetzt mach doch keine Doktorarbeit daraus. Das Foto ist sehr schön, und wir werden uns immer gerne an diesen Urlaub erinnern, [[egal]], wie der Rahmen [[aussieht]].“ 
 
+Jedes Jahr im Frühling plant Familie Gopal-Schmidt ihren Sommerurlaub. Doch dieses Mal hat jedes Familienmitglied andere Vorstellungen davon, wie die Reise [[aussehen]] soll. 
+
 ---
 Synonyme: [[erscheinen]], [[wirken]], [[aussehen]], [[sich präsentieren]], [[sich zeigen]]
 Antonyme: [[unsichtbar sein]], [[verbergen]], [[verdecken]], [[verstecken]]

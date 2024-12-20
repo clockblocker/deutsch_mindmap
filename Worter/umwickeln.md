@@ -1,1 +1,1 @@
-, [[hüllen]], [[winden]]
+, [[hüllen]], [[winden]], [[wickeln]]

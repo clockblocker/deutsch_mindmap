@@ -43,3 +43,4 @@ Einzigartige mögliche Formen: [[Trotzes]], [[Trotz]]
 
 ---
 #Substantiv #Maskulin
+, [[trotzdem]]

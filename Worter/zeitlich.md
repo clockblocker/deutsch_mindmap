@@ -1,1 +1,1 @@
-, [[Früh]], [[endlos]]
+, [[früh]], [[endlos]]

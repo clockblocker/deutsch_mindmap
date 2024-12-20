@@ -11,11 +11,11 @@ Ich [[nehme]] statt der Suppe einen Salat
 [[zu Herzen nehmen]]
 
 ----
-+[[über]] = [[Übernehmen]] / захватить
-+[[heraus]] = [[herausnehmen]] / remove 
-+[[zu]] =  [[zunehmen]] / gain weight / набрать
-[[vornehmen]] - [[vor]] = [[nehmen]] / намереватсья 
-
+[[Übernehmen]] - [[über]] = [[nehmen]]              / захватить
+[[herausnehmen]] - [[heraus]] = [[nehmen]]     / remove 
+[[vornehmen]] - [[vor]] = [[nehmen]]                  / намереватсья 
+[[zunehmen]] - [[zu]] = [[nehmen]]                    / gain weight / набрать
+[[abnehmen]] - [[ab]] = [[nehmen]]                     /  to lose weight, to decrease, to take off
 
 ---
 Synonyme: [[ergreifen]], [[greifen]], [[fassen]], [[erfassen]], [[entnehmen]]

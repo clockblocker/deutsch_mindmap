@@ -1,0 +1,1 @@
+🥶 [[zufrieren]] | 🥶 [[zufroren]]

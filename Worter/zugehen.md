@@ -1,4 +1,4 @@
-🏃‍♀️[[zugehen]] + Akk/Dat, [tsuːˈɡeːən]
+🏃‍♀️[[zugehen]] + auf den, [tsuːˈɡeːən]
 [[ging zu|ging zu]]
 sein [[zugegangen]]
 
@@ -6,6 +6,8 @@ sein [[zugegangen]]
 _Aang [[geht]] auf das Schiff [[zu]]._
 
 Nach der Pause hat sie ein Elterngespräch. Da [[geht]] es hoffentlich etwas ruhiger [[zu]].
+
+Sebastian selbst sieht das weniger entspannt. Er ist ziemlich nervös, als sie auf die Gruppe [[zugehen]], die sich um den Grill versammelt hat. 
 
 ---
 Synonyme: [[ankommen]], [[herankommen]], [[näher kommen]], [[sich nähern]], [[erreichen]]

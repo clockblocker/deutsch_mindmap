@@ -8,6 +8,8 @@ Ich muss dich etwas [[wichtiges]] fragen.
 
 Also Männer, Es ist [[wichtig]], dass ihr keine Angst zeigt, wenn ihr einem Feuerbändiger begegnet. 
 
+Alex und Daniel haben nächste Woche eine [[wichtige]] Prüfung. Wenn sie diese Prüfung nicht bestehen, dürfen sie nicht weiter an der Universität bleiben. 
+
 ---
 
 Synonyme: [[bedeutsam]], [[relevant]], [[essenziell]], [[signifikant]], [[entscheidend]]

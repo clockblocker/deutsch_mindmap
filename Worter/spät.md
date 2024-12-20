@@ -39,7 +39,7 @@ late
 Tags: 
 #Adjective [[spät]]
 
-nicht [[Früh]]
+nicht [[früh]]
 
 
 , [[rechtzeitig]]

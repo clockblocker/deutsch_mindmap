@@ -26,4 +26,4 @@ Verwendungsbeispiele:
 Verwandte Wörter:
 - [[versehen]] (Verb)
 - [[Versehen]] (Substantiv)
-- [[unabsichtlich]] (Adjektiv/Adverb)
+- [[unabsichtlich]] (Adjektiv/Adverb), [[Leuchtgeschoss]]

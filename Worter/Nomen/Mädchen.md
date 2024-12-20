@@ -1,4 +1,4 @@
-Singular: die [[Mädchen]] 
+Singular: das [[Mädchen]] 
 Plural: die [[Mädchen]]
 
 
@@ -7,6 +7,7 @@ Beispiele:
 ---
 Translation:
 
+Mädchen
 
 ---
 

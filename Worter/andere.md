@@ -8,9 +8,9 @@ ANNA: Nic, Sam, ihr habt bestimmt viel Spaß [[miteinander]]
 
 Alle [[anderen]] 
 
-other
-
 Sie [[selber]] nahm einen [[anderen]] Krug
+
+Wer anders ist als die [[anderen]], eine andere Meinung hat oder auch nur einen anderen Geschmack, hat es oft schwer.
  
 ---
 Synonyme: 

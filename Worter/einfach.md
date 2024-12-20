@@ -46,4 +46,4 @@ Einzigartige mögliche Formen:
 
 
 [[einfachen]], [[schwer]], [[unbequem]], [[lackiertes]]
-, [[Extra 8]], [[einfachfantastisch]], [[Gesicht]], [[bald]], [[Stock]], [[kleben]], [[riesig]]
+, [[Extra 8]], [[einfachfantastisch]], [[Gesicht]], [[bald]], [[Stock]], [[kleben]], [[riesig]], [[anspruchsvoll]]

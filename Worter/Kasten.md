@@ -1,4 +1,3 @@
-
 🔵 der [[Kasten]], [ˈkastən]
 die [[Kästen]]
 
@@ -22,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kastens]], [[Kasten]], [[Kästen]], [[Kästen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Getränkekasten]]

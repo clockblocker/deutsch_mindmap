@@ -1,4 +1,4 @@
-💫 [[leicht]], [laɪ̯çt]
+💫 [[leicht]], [laɪ̯çt], 🏋️ [[leichtern]] 
 nicht [[schwer]]
 
 ---
@@ -30,4 +30,4 @@ Einzigartige mögliche Formen:
 
 
 [[schwierig]][[einfachen]], [[schwer]], [[unbequem]], [[ernst]], [[einfach]]
-, [[bitterlich]], [[leichtsinnig]], [[tief]], [[hellblau]]
+, [[bitterlich]], [[leichtsinnig]], [[tief]], [[hellblau]], [[erleichtern]], [[leichtern]]

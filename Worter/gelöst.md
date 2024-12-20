@@ -29,3 +29,4 @@ Superlativform:
 [[gelösteste]], [[gelöstesten]], [[gelöstestem]], [[gelöstestes]]
 
 ---
+, [[entspannter]]

@@ -1,1 +1,1 @@
-, [[kümmern]]
+, [[kümmern]], [[pflegen]]

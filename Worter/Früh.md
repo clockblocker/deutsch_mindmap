@@ -6,10 +6,13 @@ nicht [[spät]]
 
 Du bist [[früh]] [[dran]]!
 
-Andere Länder, andere Zungen  
-So hab ich mich schon [[früh]] gezwungen  
-Dem Missverständnis zum Verdruss  
-Dass man Sprachen lernen muss
+*Andere Länder, andere Zungen*  
+*So hab ich mich schon [[früh]] gezwungen*  
+*Dem Missverständnis zum Verdruss*  
+*Dass man Sprachen lernen muss*
+
+Die Eltern [[ansehen|sehen]] sich an. „Und wir beide? Wir machen mal w jeder Urlaub zu zweit. So wie [[früher]]!“
+
 
 ---
 Synonyme: [[zeitig]], [[frühzeitig]], [[vorzeitig]], [[zeitlich]]

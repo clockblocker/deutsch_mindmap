@@ -7,7 +7,7 @@
 
  Bei Feinwäsche [[weniger]] als normal einfüllen.
 
-
+Sebastian selbst sieht das [[weniger]] entspannt. Er ist ziemlich nervös, als sie auf die Gruppe zugehen, die sich um den Grill versammelt hat. 
 
 ---
 Synonyme: [[kleiner]], [[geringer]], [[minder]], [[vermindert]], [[reduziert]], [[verringert]]

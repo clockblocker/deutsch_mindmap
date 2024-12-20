@@ -1,16 +1,22 @@
-[[blöd]]  
-[[blöder]]  
-am [[blödesten]]
+blöd, [blø:t]
+nicht [[schlau]]
 
 ---
-So ein [[blöder]] [[Witz]]. 
-STEFAN: Du [[blöder]] ....  
+Nickt Ja, wir waren auf dem Schiff und da war diese [[blöde]] Falle und... Na ja, wir sind direkt reingetappt.
 
 ---
-
-**Übersetzung**: stupid, dumb
+Synonyme: [[dumm]], [[unintelligent]], [[beschränkt]], [[einfältig]], [[naive]]
+Antonyme: [[klug]], [[intelligent]], [[gescheit]], [[schlau]], [[clever]]
 
 ---
+**Übersetzung**:
+stupid, dumb, silly
 
-#Adjektiv
+---
+#Adjective [[blöd]]
 
+
+Einzigartige mögliche Formen: 
+[[blöd]], [[blöder]], [[blöde]], [[blödes]], [[blöden]], [[blödem]], [[blöder]], [[blöden]]
+[[blöder]], [[blöderer]], [[blödere]], [[blöderes]], [[blöderen]], [[blöderem]], [[blöderer]], [[blöderen]]
+[[blödesten]], [[blödester]], [[blödeste]], [[blödestes]], [[blödesten]], [[blödestem]], [[blödester]], [[blödesten]]

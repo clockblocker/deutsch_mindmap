@@ -29,4 +29,4 @@ Einzigartige mögliche Formen:
 
 
 
-, [[ziemlich]]
+, [[ziemlich]], [[zurechtkommen]]

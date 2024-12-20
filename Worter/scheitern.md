@@ -1,1 +1,1 @@
-, [[erzielen]], [[erreichten]], [[schaffen]], [[überwinden]], [[überstehen]]
+, [[erzielen]], [[erreichten]], [[schaffen]], [[überwinden]], [[überstehen]], [[zurechtkommen]]

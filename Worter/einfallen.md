@@ -5,6 +5,8 @@ sein [[eingefallen]]
 ---
 SASCHA: Mir [[einfallen|fällt]] schon was ein … Anna! Lass Fräulein Berg herein!  
 
+ Da [[fällt]] ihr etwas [[ein]]: 
+„Sag mal, Sunita hat doch diese Freundin in Portugal, die sie schon lange mal besuchen will …“ 
 
 ---
 Synonyme: [[aufkommen]], [[beifallen]], [[in den Sinn kommen]], [[einfließen]], [[hineinfließen]]

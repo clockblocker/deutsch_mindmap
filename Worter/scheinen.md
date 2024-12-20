@@ -1,6 +1,4 @@
-💡 [[scheinen]] + Dat, [ʃaɪ̯nən]
-[[schien]]  
-haben [[geschienen]]
+💡 [[scheinen]] + Dat, [ʃaɪ̯nən], [[schien]], [[geschienen]]
 
 ---
  [[von]] Schmuck [[scheint]] er nicht viel zu verstehen.
@@ -10,6 +8,7 @@ haben [[geschienen]]
 
 100 Jahre sind seitdem vergangen und die Feuernation [[scheint]] den Krieg bald zu gewinnen.
 
+Die Begrüßung läuft noch ganz gut: Miriam stellt ihn allen vor. Sie [[scheinen]] nett zu sein, aber ein längeres Gespräch entwickelt sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 
 
 ---
 Synonyme: [[glänzen]], [[leuchten]], [[erstrahlen]], [[erglänzen]], [[funkeln]]
@@ -36,4 +35,4 @@ Morpheme: [[schein]][[en]]
 
 Partizip I: [[scheinend]], Partizip II: [[geschienen]]
 
-[[scheinen]] - [[schein]] = [[en]]
+[[scheinen]] - [[schein]] = [[en]], [[erscheinen]]

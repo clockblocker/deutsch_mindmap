@@ -6,6 +6,8 @@ Katrin [[seufzt]]. „Werner, jetzt mach doch keine Doktorarbeit daraus. Das Fot
 
 Tanja [[seufzt]]: „Kann man sich dieses [[Fell]] irgendwo bestellen? Im Internet vielleicht?“
 
+Mutter Birgit [[seufzt]]: „Wie sollen wir all diese Wünsche unter einen Hut bringen?“ 
+
 ---
 Synonyme: [[aufatmen]], [[stöhnen]], [[murren]], [[klagen]], [[ächzen]]
 Antonyme: [[jubeln]], [[lachen]], [[frohlocken]], [[jauchzen]]

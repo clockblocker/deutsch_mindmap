@@ -8,6 +8,9 @@ ANNA: Also … wo [[anfangen|fangen]] wir an …?
 
 Laura [[fängt]] [[an]] zu weinen: „Meine Eltern lassen sich scheiden!“ Oh je, denkt Tanja, das ist nicht leicht für das Mädchen.
 
+Tochter Sunita hat vor Kurzem [[angefangen]], Portugiesisch zu lernen, und will deshalb nach Portugal fliegen.
+
+
 ---
 Synonyme: [[beginnen]], [[loslegen]], [[starten]], [[einleiten]], [[eröffnen]]
 Antonyme: [[aufhören]], [[beenden]], [[abbrechen]], [[schluss machen]]

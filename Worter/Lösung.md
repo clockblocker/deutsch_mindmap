@@ -3,7 +3,7 @@ die [[Lösungen]]
 
 
 ---
-
+Denn wenn die anderen dieselben Ziele und Interessen haben, findet man zusammen bestimmt eine [[Lösung]].  
 
 ---
 Synonyme:

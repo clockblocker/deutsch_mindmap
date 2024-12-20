@@ -31,4 +31,4 @@ Typische Verwendungen:
 - Bürokratisch
 - Formell
 - Rechtlich verbindlich
-- Schriftliche Kommunikation
+- Schriftliche Kommunikation, [[Bewerbung]]

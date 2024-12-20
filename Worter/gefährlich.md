@@ -5,6 +5,8 @@ nicht [[ungefährlich]]
 *[[Gefährlich]] ist, wer Schmerzen kennt*  
 *Vom Feuer, das den Geist verbrennt (Bäng bäng)*  
 
+In der Regel ist es [[gefährlich]], wenn das Eis bricht, zum Beispiel auf einem zugefrorenen See. 
+
 ---
 Synonyme: 
 [[riskant]], [[bedrohlich]], [[verwegen]], [[prekär]], [[heikel]], [[brenzlig]]

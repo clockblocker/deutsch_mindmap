@@ -7,6 +7,7 @@ Ihr Mann [[verdient]] ganz anständig.
 
 So, ich gehe jetzt ins Bett! (Gähnt und streckt sich) Ja, das hab ich mir heute redlich [[verdient]]. 
 
+„Und Nils wollte in den Ferien sowieso ein paar Wochen jobben, um Geld für sein Schlagzeug zu [[verdienen]]. Vielleicht könnte er bei meiner Schwester wohnen und in ihrer Firma arbeiten.“
 
 ---
 Synonyme: [[erwerben]], [[erhalten]], [[bekommen]], [[kriegen]], [[erlangen]]

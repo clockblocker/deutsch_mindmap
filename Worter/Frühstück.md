@@ -1,4 +1,4 @@
-[[Früh]][[stück]]
+[[früh]][[stück]]
 
 Ich beim [[Frühstück]]
 

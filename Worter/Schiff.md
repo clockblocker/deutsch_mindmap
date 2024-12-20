@@ -1,7 +1,6 @@
 das [[Schiff]], [ʃɪf]
 des [[Schiffes]]
 
-
 ---
 Der Mast des Schiffes ist im Sturm gebrochen. (Er knickte in zwei Teile.)
 

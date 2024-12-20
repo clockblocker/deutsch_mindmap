@@ -8,6 +8,8 @@ haben [[geschafft]] / [[geschaffen]]
 
 SAM: Nic, du hast es [[geschafft]]! Heute Berlin … morgen Hollywood!  
 
+Alex und Daniel sind deshalb sehr nervös, sie wollen die Prüfung unbedingt [[schaffen]]. 
+
 ---
 Synonyme: [[erschaffen]], [[kreieren]], [[produzieren]], [[bewältigen]], [[bewerkstelligen]]
 Antonyme: [[scheitern]], [[aufgeben]], [[versagen]]

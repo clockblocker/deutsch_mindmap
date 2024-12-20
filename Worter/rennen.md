@@ -37,4 +37,4 @@ Morpheme: [[renn]][[en]]
 Partizip I: [[rennend]], Partizip II: [[gerannt]]
 
 [[kriechen]], [[liegen]], [[laufen]]
-, [[hinterherlaufen]], [[zurennen]]
+, [[hinterherlaufen]], [[zurennen]], [[zulaufen]]
