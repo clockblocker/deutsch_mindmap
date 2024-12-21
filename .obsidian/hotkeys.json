@@ -61,5 +61,14 @@
       ],
       "key": "D"
     }
+  ],
+  "cbcr-filler-de:fill-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }

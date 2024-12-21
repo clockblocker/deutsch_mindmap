@@ -1,6 +1,7 @@
 🔴 die [[Hoffnung]], [ˈhɔfnʊŋ]
 die [[Hoffnungen]]
 
+[[pflegen]]
 
 ---
 Aber ich habe die [[Hoffnung]] nicht aufgegeben. Ich glaube daran, dass der Avatar irgendwann zurückkehrt und die Welt rettet.

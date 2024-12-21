@@ -27,6 +27,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Texte/Avatar/s1 e1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "s1 e1"
+            }
+          },
+          {
+            "id": "23ae030ef8d993e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Avatar/s1 e1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "s1 e1"
+            }
+          },
+          {
+            "id": "9bd6b3dd89cc1b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Worter/pflegen.md",
                 "mode": "source",
                 "source": false
@@ -36,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -164,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +209,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "68659dacdd6d7775",
+  "active": "9bd6b3dd89cc1b97",
   "lastOpenFiles": [
+    "Worter/Pfleger.md",
+    "Worter/pflegen.md",
+    "Worter/pflege.md",
+    "Worter/gepflegt.md",
+    "Texte/Avatar/s1 e1.md",
+    "Worter/Hoffnung.md",
+    "Worter/bekommen.md",
+    "Worter/aufhalten.md",
+    "Worter/zeigen.md",
+    "Worter/Speerende.md",
+    "Worter/bald.md",
+    "Worter/erklärte.md",
+    "Worter/erklären.md",
     "Texte/Avatar/s1 e2.md",
     "Worter/verschwand.md",
     "Worter/verschwinden.md",
     "Worter/gepflegten.md",
-    "Worter/pflegen.md",
     "Worter/anzurufen.md",
-    "Worter/gepflegt.md",
     "Texte/b2 podcast/8 Mit den Wölfen heulen.md",
     "Texte/b2 podcast/7 Alles unter einen Hut bringen.md",
     "Texte/b2 podcast/6 Das Eis brechen.md",
@@ -197,17 +237,6 @@
     "Texte/b2 podcast/5 In einem Boot sitzen.md",
     "Worter/sehend.md",
     "Worter/sehen.md",
-    "Worter/gesehen.md",
-    "Worter/zurecht.md",
-    "Worter/zurechtkommend.md",
-    "Worter/kommen Sie zurecht.md",
-    "Worter/kämet zurecht.md",
-    "Worter/kommet zurecht.md",
-    "Worter/kamt zurecht.md",
-    "Worter/kämen zurecht.md",
-    "Worter/kamen zurecht.md",
-    "Worter/kommen zurecht.md",
-    "Worter/kommt zurecht.md",
     "Texte/HPMOR",
     "Texte/b2 podcast",
     "Texte/b1",

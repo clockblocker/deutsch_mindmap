@@ -25,7 +25,6 @@ Morpheme:
 
 ---
 
-
 Einzigartige mögliche Formen: 
 [[bald]], [[baldere]], [[balderes]], [[balderen]], [[balderes]], [[baldesten]], [[baldester]], [[baldestes]], [[baldeste]]
 
@@ -91,8 +90,6 @@ Katara [[einschlagen|schlägt]] auf den Berg ein und [[bald]] öffnet er sich.
 [[oftmals]][[nachher]], [[demnächst]], [[s1 e1]]
 
 
-
-'''
 ziemlich, [ˈtsiːmlɪç]
 nicht [[sehr]]
 

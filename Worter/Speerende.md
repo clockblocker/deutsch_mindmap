@@ -2,7 +2,7 @@ das [[Speerende]], [ˈʃpeːɐ̯ənde]
 die [[Speerender]]
 
 ---
-_Der Wasserball stößt an Sokkas Speerende und zerplatzt. 
+Der Wasserball stößt an Sokkas Speerende und zerplatzt. 
 
 
 ---
