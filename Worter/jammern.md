@@ -1,1 +1,1 @@
-, [[heulen]]
+, [[heulen]], [[stöhnen]]

@@ -1,1 +1,1 @@
-, [[grummeln]], [[seufzen]]
+, [[grummeln]], [[seufzen]], [[stöhnen]]

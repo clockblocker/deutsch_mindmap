@@ -1,1 +1,1 @@
-, [[enthüllen]], [[offenbar]], [[verdecken]]
+, [[enthüllen]], [[offenbar]], [[verdecken]], [[verraten]]

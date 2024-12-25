@@ -9,6 +9,9 @@ NIC: Mensch Sam, das ist ja Klasse!
 „[[Bewirb]] dich um einen Studienplatz in Kanada!“, [[rät]] ihr Bruder. 
 
 ---
+[[verraten]] - [[ver]] = [[raten]] // to betray, to reveal, to disclose
+
+---
 Synonyme: [[vermuten]], [[mutmaßen]], [[spekulieren]], [[schätzen]], [[annehmen]]
 Antonyme: [[wissen]], [[ablehnen]], [[verweigern]]
 

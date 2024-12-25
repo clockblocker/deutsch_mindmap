@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Verräters]], [[Verräter]], [[Verrätern]], [[Verrätern]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[verraten]]

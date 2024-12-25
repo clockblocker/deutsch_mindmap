@@ -9,6 +9,9 @@ Er springt auf ein [[riesiges]] pelziges Tier, das vor sich hin grummelt.*
 
 _Lachend fahren sie durch einen Eistunnel, bis sie an einem [[riesigen]] Schiffswrack ankommen._
 
+Doch fast alle haben vor kurzer Zeit viel Geld [[ausgegeben]]. Einer hat sich ein neues Auto gekauft. Ein anderer hat den Garten [[umbauen]] lassen. Ein Dritter hat sich einen [[riesigen]] Fernseher gekauft. 
+
+
 ---
 Synonyme: [[gigantisch]], [[gewaltig]], [[monumental]], [[immens]], [[riesenhaft]], [[kolossal]]
 Antonyme: [[klein]], [[winzig]], [[minimal]], [[mikroskopisch]]

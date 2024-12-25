@@ -1,1 +1,2 @@
 💸 [[ausgeben]]
+, [[umbauen]], [[riesig]]

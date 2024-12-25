@@ -1,1 +1,1 @@
-[[heißen]][[erzählen]], [[nennen]], [[vormachen]], [[darstellen]], [[Antworten]], [[berichten]], [[melden]], [[verantworten]]
+[[heißen]][[erzählen]], [[nennen]], [[vormachen]], [[darstellen]], [[Antworten]], [[berichten]], [[melden]], [[verantworten]], [[verraten]]

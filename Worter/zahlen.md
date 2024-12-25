@@ -60,4 +60,4 @@ to pay
 ---
 
 **Morphems of only infinitive:**  
-- [[zahl]][[en]]
+- [[zahl]][[en]], [[ausgeben]]

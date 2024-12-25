@@ -1,1 +1,1 @@
-[[verlieren]], [[enthüllen]]
+[[verlieren]], [[enthüllen]], [[verraten]]

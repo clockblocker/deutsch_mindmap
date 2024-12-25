@@ -37,4 +37,4 @@ Partizip I: [[abreißend]], Partizip II: [[abgerissen]]
 [[abreißen]] - [[ab]] = [[reißen]]
 
 , [[bauen]]
-, [[abbeißen]]
+, [[abbeißen]], [[umbauen]]

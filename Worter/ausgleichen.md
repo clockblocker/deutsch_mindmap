@@ -1,1 +1,1 @@
-, [[begleichen]], [[schlichten]]
+, [[begleichen]], [[schlichten]], [[mitteln]]

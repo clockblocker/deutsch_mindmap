@@ -1,1 +1,1 @@
-, [[lichten]], [[klären]]
+, [[lichten]], [[klären]], [[ermitteln]]

@@ -3,9 +3,9 @@
 haben [[gestohlen]]
 
 ---
-- Und [[stehlen]] eure kleinen, heißen Tränen
-- 
+*Und [[stehlen]] eure kleinen, heißen Tränen*
 
+In einem kleinen [[Dorf]] wurde ein [[Koffer]] mit sehr viel Geld [[gestohlen]]. Zwei Polizisten [[ermitteln]] und [[befragen]] alle [[Einwohner]] des Ortes, aber keiner hat etwas gesehen. Und niemand weiß von dem Koffer.
 
 ---
 Synonyme: [[entwenden]], [[klauen]], [[plündern]], [[erbeuten]], [[stibitze]]

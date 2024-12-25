@@ -1,1 +1,1 @@
-[[stehlen]]
+[[stehlen]], [[Koffer]], [[ermitteln]], [[befragen]], [[Einwohner]]

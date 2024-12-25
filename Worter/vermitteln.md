@@ -1,1 +1,1 @@
-, [[beibringen]], [[schlichten]]
+, [[beibringen]], [[schlichten]], [[mitteln]]

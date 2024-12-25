@@ -1,1 +1,1 @@
-, [[recherchieren]], [[suchen]]
+, [[recherchieren]], [[suchen]], [[ermitteln]]

@@ -4,7 +4,6 @@ https://learngerman.dw.com/de/%C3%BCber-den-tellerrand-schauen/l-19264871/lm
   
 Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[auskennen]]. Doch wer über den [[Tellerrand]] schaut, kann viel entdecken: Einen [[Becher]] und [[Besteck]] findet man dabei [[eher]] nicht, aber ganz bestimmt neue Perspektiven.  
 
-  
 Mona hat gerade ihr [[Abitur]] gemacht. Die große Frage [[lautet]]: Was macht sie nun? 
 „Du solltest mal über den Tellerrand schauen. Am besten gehst du für eine [[Weile]] ins Ausland“, meint ihr Vater. 
 „Du könntest als Au-pair in Frankreich arbeiten und dein Französisch [[verbessern]]“, sagt ihre Mutter. 

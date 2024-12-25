@@ -18,7 +18,7 @@ Morpheme:
 [[Mittel]]
 
 ---
-Einzigartige mögliche Formen: [[Mittels]], [[Mitteln]], [[Mittelchen]]
+Einzigartige mögliche Formen: [[Mittels]], [[mitteln]], [[Mittelchen]]
 
 ---
 #Substantiv #Maskulin
