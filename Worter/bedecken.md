@@ -1,1 +1,1 @@
-[[anhaben]], [[abdecken]], [[decken]]
+[[anhaben]], [[abdecken]], [[decken]], [[Decke]]

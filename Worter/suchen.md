@@ -1,6 +1,4 @@
-🔍 [[suchen]]
-[[suchte]]
-haben [[gesucht]]
+🔍 [[suchen]], [[suchte]], haben [[gesucht]]
 
 ---
 Episode Four: Sam [[Sucht]] Einen Job  
@@ -15,8 +13,10 @@ Sam, ich hab' super Nachrichten für dich – Kanal 9 [[sucht]] ein R
 
 ---
 [[versuchen]] - [[ver]] = [[suchen]]
-[[aussuchen]] - [[aus]] = [[suchen]]
+[[aussuchen]] - [[aus]] = [[suchen]]  / to choose, to select
+[[absuchen]] - [[ab]] =  [[suchen]]     / to search thoroughly
 
+[[Ordnung]]
 
 
 ---

@@ -1,9 +1,11 @@
-   enger, [ˈɛŋɐ], 🤏 [[engen]] | 🔵 der [[Enger]]
+enger, [ˈɛŋɐ], 🤏 [[engen]] | 🔵 der [[Enger]]
 
 ---
 Um den Gürtel [[enger]] [[schnallen]] zu können, muss man weniger essen.
 
 Sein Freund hat ihm gesagt, dass er den Gürtel eben [[enger]] schnallen müsste. Zuerst will Björn das nicht glauben. 
+
+Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht. Lena [[dagegen]] [[merkt]] es schnell, denn sie arbeitet [[eng]] mit Bastian zusammen. 
 
 ---
 Synonyme: [[beengter]], [[begrenzter]], [[knapper]], [[enger]]

@@ -1,1 +1,1 @@
-, [[Tür]], [[loch]], [[Tor]]
+, [[Tür]], [[loch]], [[Tor]], [[Fenstern]]

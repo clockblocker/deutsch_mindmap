@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kruges]], [[Kruge]], [[Krüge]], [[Krügen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Becher]]

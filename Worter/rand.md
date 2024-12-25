@@ -20,3 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Randes]], [[Rande]], [[Ränder]], [[Rändern]]
 
 ---
+, [[Tellerrand]]

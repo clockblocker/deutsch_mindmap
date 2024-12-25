@@ -5,6 +5,9 @@ haben [[gestaunt]]
 ---
 „Ich gebe echt viel Geld aus“, stellt Björn [[staunend]] fest.
 
+Als sie ihre Freunde zum ersten Mal besucht, [[staunt]] sie nicht schlecht: keine laute Musik, die aus offenen Fenstern schallt, keine wild wachsende Blumenwiese vor dem Haus. 
+
+
 ---
 Synonyme: [[sich wundern]], [[erstaunt sein]], [[verwundert sein]], [[überrascht sein]]
 Antonyme: [[ignorieren]], [[gleichgültig sein]], [[unbeeindruckt sein]]

@@ -8,7 +8,7 @@ die [[Gräser]]
 
 ---
 Synonyme:
-- [[Grünfläche]], [[Rasen]], [[Heide]], [[Wiese]]
+- [[Grünfläche]], [[rasen]], [[Heide]], [[Wiese]]
 
 ---
 Übersetzung: grass

@@ -3,8 +3,9 @@
 haben [[beworben]]
 
 ---
-Mama! Ich [[bewerbe]] mich für einen Reporter-Job bei  Kanal 9
+Mama! Ich [[bewerbe]] mich [[für]] einen Reporter-Job bei  Kanal 9
 
+„[[Bewirb]] [[dich]] [[um]] einen Studienplatz in Kanada!“, rät ihr Bruder. 
 
 ---
 Synonyme: [[kandidieren]], [[sich vorstellen]], [[sich präsentieren]], [[sich engagieren]], [[teilnehmen]]

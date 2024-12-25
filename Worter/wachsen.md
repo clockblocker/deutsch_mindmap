@@ -3,6 +3,7 @@
 sein [[gewachsen]]
 
 ---
+Als sie ihre Freunde zum ersten Mal besucht, [[staunt]] sie nicht schlecht: keine laute Musik, die aus offenen [[Fenstern]] [[schallt]], keine wild [[wachsende]] Blumenwiese vor dem Haus. 
 
 ---
 [[aufwachsen]] - [[auf]] = [[wachsen]]

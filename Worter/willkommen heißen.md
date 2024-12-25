@@ -1,1 +1,1 @@
-, [[abstoßen]], [[Grüßen]]
+, [[abstoßen]], [[Grüßen]], [[begrüßen]]

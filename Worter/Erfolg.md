@@ -1,23 +1,29 @@
 🔵 der [[Erfolg]]
 die [[Erfolge]]
 
-Beispiele:
-- STEFAN: … Ja Sascha, und mit deiner Figur ... wirst du auch viel [[Erfolg]] haben …  
+---
+STEFAN: … Ja Sascha, und mit deiner Figur ... wirst du auch viel [[Erfolg]] haben …  
 
 Kunst ist das neue Massenmedium, Kunst ist [[Erfolg]].
 
+Lena ist klar, was das bedeutet: Sie wird die Arbeit machen und Bastian wird den [[Erfolg]] für sich verbuchen. 
+
 ---
 Synonyme:
-- [[Ergebnis]], [[Sieg]], [[Triumph]]
+- [[Sieg]], [[Triumph]], [[Leistung]], [[Ergebnis]], [[Gelingen]]
 
 ---
-**Übersetzung**: success
+success
 
 ---
-
-Morphems:
-[[er]][[folg]]
+[[Er]][[folg]]
 
 ---
-#Substantiv #Maskulin
-, [[werden]]
+Case: Singular, Plural  
+Nominative: der [[Erfolg]], die [[Erfolge]]  
+Accusative: den [[Erfolg]], die [[Erfolge]]  
+Genitive: des [[Erfolgs]] oder [[Erfolges]], der [[Erfolge]]  
+Dative: dem [[Erfolg]], den [[Erfolgen]] 
+
+---
+[[erfolgen]], [[erfolgreich]], [[erfolglos]], [[erfolgsorientiert]], [[verbuchen]]

@@ -1,1 +1,1 @@
-, [[Schranke]]
+, [[Schranke]], [[Zaun]]

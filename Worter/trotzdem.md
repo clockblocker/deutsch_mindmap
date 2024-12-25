@@ -2,7 +2,8 @@
 
 ---
 Heute tragen nur noch wenige Menschen Hüte. [[Trotzdem]] gibt es viele Leute, die alles unter einen Hut bringen wollen, damit jeder zufrieden ist.
- 
+
+Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
 ---
 Synonyme: [[dennoch]], [[nichtsdestotrotz]], [[gleichwohl]], [[ungeachtet]], [[unbeachtet]]

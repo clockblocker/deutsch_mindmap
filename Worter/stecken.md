@@ -6,6 +6,10 @@ haben/sein [[gesteckt]]
 Aber er ist etwas besonderes, das merke ich. Er [[steckt]] voller Weisheit, ich spüre es.
 
 ---
+[[bestecken]] - [[be]] = [[stecken]] / to insert, to stick in, to place
+
+
+---
 Synonyme: [[legen]], [[platzieren]], [[einsetzen]], [[verstecken]], [[hineinlegen]]
 Antonyme: [[herausnehmen]], [[entfernen]], [[herausziehen]]
 
@@ -27,3 +31,4 @@ Morpheme: [[steck]][[en]]
 
 Partizip I: [[steckend]], Partizip II: [[gesteckt]]
 
+, [[Bestecken]]

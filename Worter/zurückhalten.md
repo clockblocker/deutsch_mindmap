@@ -1,1 +1,1 @@
-[[übergeben]], [[krallen]], [[bieten]], [[aufhalten]], [[durchknallen]], [[hinterherschicken]], [[sparen]], [[schwenden]], [[verschicken]], [[schicken]], [[ausstellen]], [[Schubst]], [[übertragen]], [[melden]], [[abfeuern]]
+[[übergeben]], [[krallen]], [[bieten]], [[aufhalten]], [[durchknallen]], [[hinterherschicken]], [[sparen]], [[schwenden]], [[verschicken]], [[schicken]], [[ausstellen]], [[Schubst]], [[übertragen]], [[melden]], [[abfeuern]], [[leiten]]

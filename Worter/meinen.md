@@ -7,6 +7,8 @@ ANNA: Ah … Sam … [[meinst]] du, das ist richtig so?
 
 Psychologen [[meinen]], dass 60 Prozent aller Gespräche von Menschen handeln, die nicht anwesend sind. 
 
+Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen]] [[sammeln]], [[meint]] der Chef.
+
 ---
 Synonyme: [[denken]], [[glauben]], [[vermuten]], [[erachten]], [[annehmen]]. [[bedeuten]]
 Antonyme: [[bezweifeln]], [[ablehnen]], [[widersprechen]]

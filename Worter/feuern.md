@@ -29,3 +29,4 @@ Morpheme: [[feu]][[er]][[n]]
 | Sie | [[feuern]] | [[feuerten]] | [[feuern Sie]] | [[feuern]] | [[feuerten]] |
 
 Partizip I: [[feuernd]], Partizip II: [[gefeuert]]
+, [[beschäftigen]]

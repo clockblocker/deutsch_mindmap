@@ -1,1 +1,1 @@
-, [[Trinken]], [[leiden]], [[Backen]]
+, [[Trinken]], [[leiden]], [[Backen]], [[genießbar]], [[wohlfühlen]]

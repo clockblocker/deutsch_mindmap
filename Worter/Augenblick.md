@@ -16,4 +16,4 @@ Morphems:
 [[Augen]][[Blick]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[Weile]]

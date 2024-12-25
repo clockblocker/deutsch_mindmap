@@ -8,7 +8,7 @@ die [[Wiese]]
 
 ---
 Synonyme:
-- [[Gras]], [[Grünfläche]], [[Rasen]], [[Flur]], [[Matte]]
+- [[Gras]], [[Grünfläche]], [[rasen]], [[Flur]], [[Matte]]
 
 ---
 Übersetzung: meadow

@@ -61,4 +61,4 @@ to justify, to give reasons
 ---
 
 **Morphems of only infinitive:**  
-- [[be]][[gründen]]
+- [[be]][[gründen]], [[verantworten]]

@@ -1,1 +1,1 @@
-[[fahren]][[regeln]], [[bedienen]], [[beherrschen]], [[steuere]], [[führen]]
+[[fahren]][[regeln]], [[bedienen]], [[beherrschen]], [[steuere]], [[führen]], [[leiten]]

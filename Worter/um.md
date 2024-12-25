@@ -10,4 +10,4 @@ um 7 Uhr
 [[umgeben]], [[umsehen]], [[umwerfen]], [[wandeln]], [[umwandeln]], 
 
 
-[[bringen]], [[umentscheiden]], [[scheiden]]
+[[bringen]], [[umentscheiden]], [[scheiden]], [[bewerben]]

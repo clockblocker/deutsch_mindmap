@@ -1,1 +1,1 @@
-, [[benutzen]], [[herausnehmen]], [[verwenden]], [[nutzen]], [[stecken]]
+, [[benutzen]], [[herausnehmen]], [[verwenden]], [[nutzen]], [[stecken]], [[schäftigen]]

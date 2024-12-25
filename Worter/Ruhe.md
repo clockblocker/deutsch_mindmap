@@ -3,7 +3,8 @@ die Ruhen
 
 ---
 - *(Ich will) Ich will die [[Ruhe]] [[stören]]*  
--
+
+Ob sie mit den Nachbarn [[zurechtkommen]] werden, die offenbar viel [[Wert]] auf [[Ruhe]] und Ordnung legen? 
 
 ---
 Synonyme: 
@@ -24,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ruhe]], [[Ruhen]]
 
 ---
-#Substantiv #Feminin, [[Ruh]], [[leis]], [[Frieden]], [[ruhig]], [[Tätigkeit]]
+#Substantiv #Feminin, [[Ruh]], [[leis]], [[Frieden]], [[ruhig]], [[Tätigkeit]], [[Wert]]

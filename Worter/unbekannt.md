@@ -1,1 +1,1 @@
-, [[bekannt]], [[berühmt]], [[verwandt]], [[kund]]
+, [[bekannt]], [[berühmt]], [[verwandt]], [[kund]], [[kennen]]

@@ -1,8 +1,8 @@
 🔵 täglich, [ˈtɛːɡlɪç]
 
 ---
--
--
+Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht.
+
 
 ---
 Synonyme: [[alltäglich]], [[gewöhnlich]], [[regelmäßig]], [[wiederkehrend]], [[permanent]]

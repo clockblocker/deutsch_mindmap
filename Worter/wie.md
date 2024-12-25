@@ -13,4 +13,4 @@ Er peitschte seine Gretchen gar!
 
 like
 
-[[sowie]], [[sowieso]], [[wieso]]
+[[sowie]], [[sowieso]], [[wieso]], [[irgendwie]]

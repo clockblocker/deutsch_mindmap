@@ -1,2 +1,2 @@
 Inf: [[fühlen]]
-, [[Gefühl]]
+, [[Gefühl]], [[wohlfühlen]]

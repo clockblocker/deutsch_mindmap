@@ -1,1 +1,1 @@
-, [[verkürzt]], [[kürzen]]
+, [[verkürzt]], [[kürzen]], [[gemähter]]

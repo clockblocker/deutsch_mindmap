@@ -28,3 +28,4 @@ Einzigartige mögliche Formen:
 
 ---
 , [[glaub]], [[Aussicht]], [[Gedanke]]
+, [[eindruck]]

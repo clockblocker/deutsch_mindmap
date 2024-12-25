@@ -10,6 +10,9 @@ ANNA: [[schau]] mal, das gibt’s doch nicht.
 
 Katrin schaut kurz zur Wand. „Also, ich finde, dass es gut ins Wohnzimmer passt.“
 
+Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[auskennen]]. Doch wer über den [[Tellerrand]] [[schaut]], kann viel entdecken: Einen Becher und Besteck findet man dabei eher nicht, aber ganz bestimmt neue Perspektiven.  
+
+
 ---
 Synonyme: [[blicken]], [[gucken]], [[sehen]], [[anschauen]], [[betrachten]]
 Antonyme: [[wegschauen]], [[ignorieren]], [[übersehen]]

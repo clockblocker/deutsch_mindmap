@@ -1,6 +1,9 @@
 Ich habe auch gar nichts [[gegen]] den Durst deines Einbrechers, aber ich habe [[etwas]] [[dagegen]]
 
 ---
+Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht. Lena [[dagegen]] [[merkt]] es schnell, denn sie arbeitet [[eng]] mit Bastian zusammen. 
+
+---
 
 Synonyme:
 - [[wider]], [[kontra]], [[entgegen]]

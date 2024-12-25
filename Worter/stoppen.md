@@ -1,1 +1,1 @@
-, [[aufhalten]], [[unterbrechen]], [[anmachen]], [[losfahren]], [[gleiten]], [[weiterüben]], [[rollen]], [[zulaufen]], [[verlaufen]]
+, [[aufhalten]], [[unterbrechen]], [[anmachen]], [[losfahren]], [[gleiten]], [[weiterüben]], [[rollen]], [[zulaufen]], [[verlaufen]], [[rasen]]

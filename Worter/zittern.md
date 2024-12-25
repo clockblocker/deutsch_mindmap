@@ -1,1 +1,1 @@
-, [[fürchten]], [[zappeln]]
+, [[fürchten]], [[zappeln]], [[zucken]]

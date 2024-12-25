@@ -71,3 +71,4 @@ to feel
 **Morphems of only infinitive:**  
 - [[fühl]][[en]]
 
+, [[wohlfühlen]]

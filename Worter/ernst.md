@@ -5,6 +5,8 @@ nicht [[leicht]], [[schwer]]
 *Also sprach in [[ernstem]] Ton*  
 *der Papa zu seinem Sohn,*  
 
+„Was?“, fragt ihr Bruder. „Du könntest eine Weltreise machen und gehst nach … Norddeutschland? Im [[Ernst]]?“ 
+
 ---
 Synonyme: 
 [[ernsthaft]], [[ernst gemeint]], [[ernst zu nehmend]], [[feierlich]], [[gravitätisch]], [[gesetzt]], [[würdevoll]]

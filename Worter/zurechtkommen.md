@@ -3,6 +3,7 @@
 sein [[zurechtgekommen]]
 
 ---
+Ob sie mit den Nachbarn [[zurechtkommen]] werden, die offenbar viel [[Wert]] auf [[Ruhe]] und Ordnung legen? 
 
 
 ---

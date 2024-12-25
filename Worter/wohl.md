@@ -23,4 +23,4 @@ Morpheme:
 [[wohl]]
 
 ---
-#Adverb, [[11 08]], [[obwohl]], [[echt]]
+#Adverb, [[11 08]], [[obwohl]], [[echt]], [[wohlfühlen]]

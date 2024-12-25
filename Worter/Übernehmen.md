@@ -5,6 +5,8 @@ haben [[übernommen]]
 ---
 - [[Übernehmen]], übergeben  
 
+ Er würde gern mehr [[Verantwortung]] [[übernehmen]], hat er zum Chef gesagt.
+
 
 ---
 Synonyme: [[überkommen]], [[auf sich nehmen]], [[annehmen]], [[adopieren]], [[erwerben]]

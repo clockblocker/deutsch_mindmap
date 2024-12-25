@@ -9,7 +9,7 @@ Gefühl von Behaglichkeit, Wohlbehagen und Entspannung
 ---
 Synonyme:
 - [[Behaglichkeit]]
-- [[Wohlfühlen]]
+- [[wohlfühlen]]
 - [[Komfort]]
 - [[Geborgenheit]]
 

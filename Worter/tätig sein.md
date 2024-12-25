@@ -1,1 +1,1 @@
-[[handeln]]
+[[handeln]], [[beschäftigen]], [[schäftigen]]

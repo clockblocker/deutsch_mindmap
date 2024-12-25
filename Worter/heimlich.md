@@ -8,6 +8,8 @@ nicht [[öffentlich]], nicht [[offenkundig]]
 *Doch bei dem Brünnchen [[heimlich]] saß*  
 *des Häschens Kind, der kleine Has.*  
 
+Eine Suppe kann sehr lecker sein, [[besonders]] mit der richtigen [[Menge]] Salz. [[reintun|Tut]] man aber zu viel [[davon]] rein, ist sie nicht mehr [[genießbar]]. Wer würde sich nicht ärgern, wenn ihm jemand [[heimlich]] die Suppe versalzen würde?
+
 ---
 Synonyme: 
 [[verborgen]], [[versteckt]], [[geheim]], [[verschleiert]], [[verdeckt]]

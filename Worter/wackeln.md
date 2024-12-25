@@ -1,1 +1,1 @@
-, [[schaukeln]], [[zappeln]]
+, [[schaukeln]], [[zappeln]], [[zucken]]

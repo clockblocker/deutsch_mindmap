@@ -33,4 +33,4 @@ Einzigartige mögliche Formen:
 [[verlorenere]], [[verloreneres]], [[verlorenerer]], [[verloreneren]], [[verlorenerem]]
 [[verlorensten]], [[verlorenste]], [[verlorstes]], [[verlorenster]], [[verlorensten]], [[verlorenstem]]
 
-[[prima]], [[verirrt]]
+[[prima]], [[verirrt]], [[auskennen]]

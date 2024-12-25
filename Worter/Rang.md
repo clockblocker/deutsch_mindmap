@@ -1,1 +1,1 @@
-, [[Stellung]]
+, [[Stellung]], [[Wert]]

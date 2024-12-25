@@ -6,6 +6,8 @@ haben [[geraten]]
 SAM: [[raten|Rate]] mal!  
 NIC: Mensch Sam, das ist ja Klasse!  
 
+„[[Bewirb]] dich um einen Studienplatz in Kanada!“, [[rät]] ihr Bruder. 
+
 ---
 Synonyme: [[vermuten]], [[mutmaßen]], [[spekulieren]], [[schätzen]], [[annehmen]]
 Antonyme: [[wissen]], [[ablehnen]], [[verweigern]]
@@ -27,4 +29,4 @@ Morpheme: [[rat]][[en]]
 | Sie | [[raten]] | [[rieten]] | [[raten Sie]] | [[raten]] | [[rieten]] |
 
 Partizip I: [[ratend]], Partizip II: [[geraten]]
-[[raten]] - [[rat]] = [[en]]
+[[raten]] - [[rat]] = [[en]], [[vorschlagen]]

@@ -18,4 +18,4 @@ Morpheme:
 [[irgend]][[wo]]
 
 ---
-#Adverb [[irgendwo]], [[bald]], [[s1 e1]]
+#Adverb [[irgendwo]], [[bald]], [[s1 e1]], [[irgendwie]]

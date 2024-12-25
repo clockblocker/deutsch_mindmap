@@ -2,9 +2,11 @@
 nicht [[vorsätzlich]], [[geplant]] 
 
 ---
-Hast du zufällig mal an deinen dreckigen Socken gerochen?
+Hast du [[zufällig]] mal an deinen [[dreckigen]] Socken [[gerochen]]?
 
 Willst du vielleicht warten bis [[zufällig]] ein anderes Monster vorbeikommt und dich nach Hause bringt?
+
+Dann sieht sie [[zufällig]] eine Dokumentation über ein Umweltprojekt in Norddeutschland. Und sie weiß sofort: Dabei will sie mitmachen! 
 
 ---
 Synonyme: 
@@ -27,4 +29,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[zufällig]], [[zufälliger]], [[zufällige]], [[zufälliges]], [[zufälligen]], [[zufälligem]], [[zufälliger]], [[zufälligen]]
-[[zufälligste]], [[zufälligster]], [[zufälligste]], [[zufälligstes]], [[zufälligsten]], [[zufälligstem]], [[zufälligster]], [[zufälligsten]], [[s1 e1]]
+[[zufälligste]], [[zufälligster]], [[zufälligste]], [[zufälligstes]], [[zufälligsten]], [[zufälligstem]], [[zufälligster]], [[zufälligsten]], [[s1 e1]], [[Umweltprojekt]], [[Umwelt]], [[mitmachen]]

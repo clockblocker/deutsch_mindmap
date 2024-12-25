@@ -5,6 +5,9 @@ haben [[gesammelt]]
 ---
 Er [[sammelte]] Zeitungsausschnitte, Foto-grafien, Farbstudien, Landschaften, Portraits, Stillleben und historische Stoffe, die ihm als Vorlagen für Gemälde dienten
 
+ Als Lena abends nach Hause geht, hat sie die [[Projektleitung]] in der Tasche. Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen]] [[sammeln]], meint der Chef.
+
+
 ---
 [[ansammeln]] - [[an]] = [[sammeln]] // fomally gather
 [[versammeln]] - [[ver]] = [[sammeln]] // assemble
@@ -36,4 +39,4 @@ Partizip I: [[sammelnd]], Partizip II: [[gesammelt]]
 
 , [[wegwerfen]], [[gießen]], [[schleudern]], [[ausbreiten]], [[verschwenden]], [[schwenden]], [[verschicken]], [[ansammeln]]
 
-, [[verplempern]], [[zuwerfen]], [[zerstreuen]], [[versammeln]]
+, [[verplempern]], [[zuwerfen]], [[zerstreuen]], [[versammeln]], [[wertvoll]]

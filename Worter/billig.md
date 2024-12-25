@@ -27,3 +27,4 @@ Einzigartige mögliche Formen:
 [[billig]], [[billiger]], [[billige]], [[billiges]], [[billigen]], [[billigem]], [[billiger]], [[billigen]]
 [[billiger]], [[billigerer]], [[billigere]], [[billigeres]], [[billigeren]], [[billigerem]], [[billigerer]], [[billigeren]]
 [[billigsten]], [[billigster]], [[billigste]], [[billigstes]], [[billigsten]], [[billigstem]], [[billigster]], [[billigsten]]
+, [[wertvoll]]

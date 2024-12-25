@@ -5,6 +5,8 @@ nicht [[unzufrieden]]
 ---
 Heute tragen nur noch wenige Menschen Hüte. Trotzdem gibt es viele Leute, die alles unter einen Hut bringen wollen, damit jeder [[zufrieden]] ist.
 
+[[suchen]]
+
 ---
 Synonyme: [[glücklich]], [[froh]], [[befriedigt]], [[entspannt]], [[gelassen]]
 Antonyme: [[unzufrieden]], [[verärgert]], [[frustriert]], [[missmutig]]

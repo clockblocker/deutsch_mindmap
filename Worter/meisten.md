@@ -1,1 +1,1 @@
-[[meist]], [[s1 e1]]
+[[meist]], [[s1 e1]], [[wohlfühlen]], [[auskennen]], [[Tellerrand]], [[Besteck]], [[Bestecken]], [[Becher]], [[eher]]

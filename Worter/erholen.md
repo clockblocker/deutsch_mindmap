@@ -1,1 +1,1 @@
-, [[zusammenbrechen]]
+, [[zusammenbrechen]], [[wohlfühlen]]

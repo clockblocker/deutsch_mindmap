@@ -1,0 +1,1 @@
+🔊 [[schallen]] | 🔊, [[schalten]], [[wachsend]]

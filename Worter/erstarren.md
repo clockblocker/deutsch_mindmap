@@ -1,1 +1,1 @@
-, [[frieren]], [[zappeln]], [[zufrieren]]
+, [[frieren]], [[zappeln]], [[zufrieren]], [[zucken]]

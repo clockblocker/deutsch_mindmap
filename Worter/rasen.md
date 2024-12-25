@@ -7,7 +7,6 @@ Tot sank dieser zu Boden und die restliche Herde [[raste]] in panischem Schrecke
 
 Dead sank this to ground and the remaining herd raced in panicked terror away.
 
-
 Kurz darauf sitzen Aang und Katara auf den Rücken von zwei Pinguinen und [[rasen]] die Berge [[hinunter]]._
 
 ---
@@ -31,3 +30,32 @@ Morpheme: [[ras]][[en]]
 | Sie | [[rasen]] | [[rasten]] | [[rasen Sie]] | [[rasen]] | [[rasten]] |
 
 Partizip I: [[rasend]], Partizip II: [[gerast]]
+
+---
+---
+🔵 der [[Rasen]]
+die [[Rasen]]
+
+---
+Stattdessen ein ordentlich gemähter [[Rasen]] und ein weißer Zaun. Da fehlen ja nur noch die Gartenzwerge! Ist sie hier wirklich bei Freddie und Amelie? 
+
+
+---
+Synonyme:
+- [[Gras]], [[Wiese]], [[Grünfläche]], [[Grassoden]], [[Rasenfläche]]
+
+---
+lawn, grass
+
+---
+[[Ras]][[en]]
+
+---
+Case: Singular, Plural  
+Nominative: der [[Rasen]], die [[Rasen]]  
+Accusative: den [[Rasen]], die [[Rasen]]  
+Genitive: des [[Rasens]], der [[Rasen]]  
+Dative: dem [[Rasen]], den [[Rasen]] 
+
+---
+[[rasen]], [[rasenmähen]], [[Rasenplatz]], [[Rasenmäher]], [[Zaun]]

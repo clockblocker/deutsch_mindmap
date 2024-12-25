@@ -1,1 +1,1 @@
-, [[schmerzend]], [[leuchtender]], [[beruhigenden]], [[leuchtenden]], [[anwesend]], [[steigende]], [[Studierender]], [[explodierenden]]
+, [[schmerzend]], [[leuchtender]], [[beruhigenden]], [[leuchtenden]], [[anwesend]], [[steigende]], [[Studierender]], [[explodierenden]], [[wachsend]]

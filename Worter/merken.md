@@ -11,6 +11,8 @@ _Aang schreckt hoch und [[merkt]], dass es nur ein Traum war._
 
 Aber er ist etwas besonderes, das [[merke]] ich. Er steckt voller Weisheit, ich spüre es.
 
+Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht. Lena [[dagegen]] [[merkt]] es schnell, denn sie arbeitet [[eng]] mit Bastian zusammen. 
+
 ---
 [[bemerken]] - [[be]] = [[merken]]
 

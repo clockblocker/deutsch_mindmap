@@ -1,1 +1,1 @@
-, [[staunen]]
+, [[staunen]], [[schallen]], [[wachsend]]

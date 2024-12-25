@@ -1,1 +1,1 @@
-[[Beruf]], [[Tätigkeit]]
+[[Beruf]], [[Tätigkeit]], [[beschäftigen]], [[schäftigen]]

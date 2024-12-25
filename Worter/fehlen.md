@@ -8,6 +8,8 @@ Ach - Maria, du wirst mir [[fehlen]].
 *In meiner Kette [[fehlt]] kein Glied*  
 *Wenn die Lust von hinten zieht*  
 
+Stattdessen ein ordentlich gemähter Rasen und ein weißer Zaun. Da [[fehlen]] ja nur noch die [[Gartenzwerge]]! Ist sie hier wirklich bei Freddie und Amelie? 
+
 ---
 Synonyme: [[mangeln]], [[vermissen]], [[abgehen]], [[nicht vorhanden sein]], [[ausbleiben]]
 Antonyme: [[vorliegen]], [[vorhanden sein]], [[existieren]], [[besitzen]], [[enthalten]]

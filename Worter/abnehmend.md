@@ -1,1 +1,1 @@
-, [[steigende]], [[abnehmen]]
+, [[steigende]], [[abnehmen]], [[wachsend]]

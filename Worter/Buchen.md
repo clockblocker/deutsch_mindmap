@@ -5,6 +5,8 @@ die [[Buchen]]
 ---
 Regal Timbol, klar lackiertes [[Buchen]]-Furnier.  
 
+---
+[[verbuchen]] - [[ver]] = [[buchen]]
 
 ---
 Synonyme:

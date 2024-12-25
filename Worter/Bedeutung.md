@@ -46,4 +46,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bedeutung]], [[Bedeutungen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[Wert]]

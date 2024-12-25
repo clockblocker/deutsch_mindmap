@@ -6,7 +6,12 @@ ANNA: Und [[besonders]] sexy ist er auch nicht!
 ANNA: Ja, [[besonders]] Poptastisch Popcorn!  
 Und [[besonders]] mit deiner köstlichen Schoko-Eisbombe.
 
-Aber er ist etwas [[besonderes]], das merke ich. Er steckt voller Weisheit, ich spüre es.
+Aber er ist etwas [[besonderes]], das [[merke]] ich. Er steckt voller [[Weisheit]], ich [[spüre]] es.
+
+Eine Suppe kann sehr lecker sein, [[besonders]] mit der richtigen Menge Salz.
+
+Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
+
 
 ---
 Synonyme: [[außergewöhnlich]], [[einzigartig]], [[hervorragend]], [[einmalig]], [[speziell]]

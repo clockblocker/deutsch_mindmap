@@ -62,4 +62,4 @@ haben [[stattgehabt]]
 
 **Morphems of only infinitive:**
 
-- [[statt]]
+- [[statt]], [[stattdessen]]

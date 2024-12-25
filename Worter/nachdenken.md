@@ -3,7 +3,9 @@
 haben [[nachgedacht]]
 
 ---
-Sie denken über jede Kleinigkeit lange nach, entscheiden sich oft um und beginnen wieder von vorn. 
+Sie [[denken]] über jede Kleinigkeit lange [[nach]], entscheiden sich oft um und beginnen wieder von vorn. 
+
+Bastian [[zögert]]: „Ähm, also … ja, darüber muss ich mal [[nachdenken]].“ 
 
 ---
 Synonyme: [[grübeln]], [[reflektieren]], [[sinnen]], [[meditieren]], [[überdenken]]

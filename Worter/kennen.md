@@ -1,56 +1,37 @@
-👤 [[kennen]]  
-[[kannte]]  
-haben [[gekannt]]
+🤝  [[kennen]], [ˈkɛnən] | [[kannte]], haben [[gekannt]]
 
 ---
 
 ---
-
-**Synonyme:**
-
-- [[wissen]], [[verstehen]], [[erkennen]]
+[[auskennen]] - [[aus]] = [[kennen]] / familiar
 
 ---
 
-**Beispiele:**
-
-- Ich [[kenne]] diesen Ort.
-- Du [[Kennst]] meine Freunde.
-- Er [[kennt]] die Antwort.
-- Es [[kennt]] den Weg.
-- Sie [[kennt]] das Problem.
-- Wir [[kennen]] den Lehrer.
-- Ihr [[kennt]] das Lied.
-- Sie [[kennen]] die Stadt.
+Synonyme: [[wissen]], [[verstehen]], [[erkennen]], [[bekannt sein]], [[vertraut sein]]
+Antonyme: [[unbekannt]], [[fremd]], [[unvertraut]], [[ignorieren]]
 
 ---
-
-**Übersetzung**:
 to know, to be familiar with
 
 ---
- #Verb  #Unregelmäßig
+[[kenn]][[en]]
+   
 
 ---
 
-**Präteritum:**
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[kenne]], [[kannte]], -, [[kenne]], [[kennte]]  
+Du: [[kennst]], [[kanntest]], [[kenne]], [[kennest]], [[kenntest]]  
+Er/sie/es: [[kennt]], [[kannte]], -, [[kenne]], [[kennte]]  
+Wir: [[kennen]], [[kannten]], -, [[kennen]], [[kennten]]  
+Ihr: [[kennt]], [[kanntet]], [[kennt]], [[kennet]], [[kenntet]]  
 
-- Ich [[kannte]] diesen Ort.
-- Du [[kanntest]] meine Freunde.
-- Er [[kannte]] die Antwort.
-- Es [[kannte]] den Weg.
-- Sie [[kannte]] das Problem.
-- Wir [[kannten]] den Lehrer.
-- Ihr [[kanntet]] das Lied.
-- Sie [[kannten]] die Stadt.
-
----
-
-**Imperativ:**
-
-- (Imperative forms are not used with this verb)
+Partizip I: [[kennend]], 
+Partizip II: [[gekannt]]
+Zu+infinitive: [[zu kennen]]
 
 ---
+[[Kenntnis]], [[Kenner]], [[Kennerin]], [[Bekanntschaft]], [[Kennenlerne]], [[Kennzeichen]], [[Kennwort]]
 
-**Morphems of only infinitive:**  
-- [[kenn]][[en]]
+
+[[Englischkenntnisse]], [[auskennen]]

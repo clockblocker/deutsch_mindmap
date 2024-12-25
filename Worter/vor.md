@@ -1,1 +1,1 @@
-, [[lesen]], [[vorlesen]], [[vorwärts]], [[durch]], [[voraus]], [[vormachen]], [[zuvor]], [[vorbeikommen]], [[Seit]], [[nehmen]], [[vornehmen]], [[vorstellen]], [[Vorstellung]], [[Kurzem]]
+, [[lesen]], [[vorlesen]], [[vorwärts]], [[durch]], [[voraus]], [[vormachen]], [[zuvor]], [[vorbeikommen]], [[Seit]], [[nehmen]], [[vornehmen]], [[vorstellen]], [[Vorstellung]], [[Kurzem]], [[vorschlagen]]

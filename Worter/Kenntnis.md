@@ -1,1 +1,1 @@
-, [[Erfahrung]]
+, [[Erfahrung]], [[kennen]]

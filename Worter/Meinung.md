@@ -6,6 +6,9 @@ So gehört es heute zu jedem Partygespräch, eine [[Meinung]] über Kunst zu hab
 
 Wer anders ist als die anderen, eine andere [[Meinung]] hat oder auch nur einen anderen Geschmack, hat es oft schwer.
 
+Und fragt dann ganz freundlich: „Bastian, wie ist denn deine [[Meinung]] dazu?“ 
+Bastian zögert: „Ähm, also … ja, darüber muss ich mal nachdenken.“ 
+
 ---
 
 Definition: Gedanke, Ansicht, Überzeugung einer Person zu einem bestimmten Thema
@@ -52,4 +55,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Meinung]], [[Meinungen]], [[Meinungs]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[zögern]]
