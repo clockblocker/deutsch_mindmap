@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[selbst]][[bewusst]], [[stolz]]
+[[selbst]][[bewusst]], [[stolz]], [[bescheiden]]

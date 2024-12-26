@@ -8,6 +8,8 @@ NIC: Mensch Sam, das ist ja Klasse!
 
 „[[Bewirb]] dich um einen Studienplatz in Kanada!“, [[rät]] ihr Bruder. 
 
+„[[Falls]] Ihnen noch eine Frage unter den Nägeln brennt, sollten Sie diese jetzt stellen …“, riet er ihr. 
+
 ---
 [[verraten]] - [[ver]] = [[raten]] // to betray, to reveal, to disclose
 

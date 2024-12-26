@@ -23,4 +23,4 @@ Synonyme:
 #Substantiv #Feminin
 
 
-[[bericht]], [[Auskunft]]
+[[bericht]], [[Auskunft]], [[Bescheid]]

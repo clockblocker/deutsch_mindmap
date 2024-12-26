@@ -1,1 +1,1 @@
-, [[verletzt]], [[verbrannt]], [[schadlos]]
+, [[verletzt]], [[verbrannt]], [[schadlos]], [[zerbrechen]]

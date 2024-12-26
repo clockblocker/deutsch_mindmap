@@ -1,5 +1,3 @@
-**Alles unter einen Hut bringen  
-  
 Heute tragen nur noch wenige Menschen [[Hüte]]. [[Trotzdem]] gibt es viele Leute, die alles unter einen Hut bringen wollen, damit jeder [[zufrieden]] ist. Aber das kann manchmal [[ziemlich]] schwierig sein. 
 
 Jedes Jahr im Frühling plant Familie Gopal-Schmidt ihren Sommerurlaub. Doch dieses Mal hat jedes [[Familienmitglied]] andere [[Vorstellungen]] davon, wie die Reise [[aussehen]] soll. 

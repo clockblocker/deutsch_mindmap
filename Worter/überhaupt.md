@@ -12,6 +12,9 @@ Er kennt Berlin [[überhaupt]] noch nicht.
 
 Endlich hängt das Bild an der Wand. Aber ist das Wohnzimmer [[überhaupt]] der richtige Platz dafür? 
 
+Nach 15 Minuten [[redete]] der Schauspieler immer noch [[ohne Punkt und Komma]] über seinen neuen Film, [[ohne]] dass Jenny [[überhaupt]] eine Frage stellen konnte. 
+
+
 ---
 Synonyme: [[grundsätzlich]], [[generell]], [[im Allgemeinen]], [[insgesamt]], [[vollkommen]]
 Antonyme: [[gar nicht]], [[keineswegs]], [[niemals]]

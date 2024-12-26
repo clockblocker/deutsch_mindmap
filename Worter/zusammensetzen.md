@@ -1,1 +1,1 @@
-, [[aufbauen]], [[einbauen]], [[reißen]], [[schneiden]]
+, [[aufbauen]], [[einbauen]], [[reißen]], [[schneiden]], [[zerbrechen]]

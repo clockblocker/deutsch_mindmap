@@ -11,6 +11,9 @@ SASCHA: Also Stefan, wollen wir über die Arbeit [[reden]]?
 *was die Jüngste [[grad]] gesagt,*  
 *hat am [[meisten]] ihm [[behagt]].*  
 
+Nach 15 Minuten [[redete]] der Schauspieler immer noch [[ohne Punkt und Komma]] über seinen neuen Film, [[ohne]] dass Jenny [[überhaupt]] eine Frage stellen konnte. 
+
+
 ---
 Synonyme: [[sprechen]], [[diskutieren]], [[kommunizieren]], [[konversieren]], [[plaudern]]
 Antonyme: [[schweigen]], [[verstummen]], [[sich ausschweigen]]

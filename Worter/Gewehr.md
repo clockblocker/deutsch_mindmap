@@ -18,7 +18,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Ge]][[wehr]]
+[[Ge]][[Wehr]]
 
 ---
 Einzigartige mögliche Formen: [[Gewehrs]], [[Gewehre]], [[Gewehren]]

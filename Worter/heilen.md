@@ -1,1 +1,1 @@
-[[wehtun]], [[verletzen]]
+[[wehtun]], [[verletzen]], [[zerbrechen]]

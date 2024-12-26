@@ -12,6 +12,8 @@ Eine Suppe kann sehr lecker sein, [[besonders]] mit der richtigen Menge Salz.
 
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
+Heute war sie [[besonders]] [[aufgeregt]], denn sie hatte einen Interviewtermin mit einem bekannten Schauspieler. Leider hatte sie nur 20 Minuten Zeit für das Interview. 
+
 
 ---
 Synonyme: [[außergewöhnlich]], [[einzigartig]], [[hervorragend]], [[einmalig]], [[speziell]]
@@ -37,4 +39,4 @@ Einzigartige mögliche Formen:
 [[besondersten]], [[besonderstder]], [[besonderstste]], [[besonderststes]], [[besondersten]], [[besonderstemdert]], [[besonderstder]], [[besondersten]]
 
 [[mittel]]
-, [[bald]]
+, [[bald]], [[aufregen]]

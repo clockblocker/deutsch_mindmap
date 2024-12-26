@@ -4,6 +4,8 @@ die [[Ehen]]
 ---
 – Der Mann hat die [[ehe]] gebrochen. (Er hat seine Frau betrogen.)
 
+„Mir brennt [[tatsächlich]] etwas sehr unter den Nägeln“, sagte Jenny, „könnte es sein, dass Ihre drei [[Ehen]] [[daran]] [[zerbrochen]] sind, dass sie zu viel [[geredet]] haben?“ 
+
 ---
 Synonyme:
 - [[Heirat]], [[Vermählung]], [[Bund]], [[Lebensgemeinschaft]], [[Ehebund]]

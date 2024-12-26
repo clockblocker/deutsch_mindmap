@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "326a25d254689a75",
+        "id": "dadf24f972926e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "dff9a032f8f29743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/b2 podcast/Da ist der Wurm drin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Da ist der Wurm drin"
-            }
-          },
-          {
-            "id": "42bc937ce0f9d508",
+            "id": "0c3dbd27e8578c25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,51 +20,8 @@
               "icon": "lucide-file",
               "title": "Alle"
             }
-          },
-          {
-            "id": "659afa252e4dee69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/schnurren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "schnurren"
-            }
-          },
-          {
-            "id": "3594ef52ca371074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Getränkekasten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Getränkekasten"
-            }
-          },
-          {
-            "id": "141e9ae23352e88f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/nützen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nützen"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/b2 podcast/12 Ein Tropfen auf den heißen Stein.md"
+                "file": "Texte/b2 Das sagt man so!/Alle.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 12 Ein Tropfen auf den heißen Stein"
+              "title": "Outline of Alle"
             }
           }
         ],
@@ -206,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,34 +165,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d0dd1351b59a3225",
+  "active": "0c3dbd27e8578c25",
   "lastOpenFiles": [
-    "Texte/b2 Das sagt man so!/Unter den Fingernägeln brennen.md",
-    "Texte/b2 Das sagt man so!/Alle.md",
-    "Texte/b2 Das sagt man so!/Über den eigenen Schatten springen.md",
-    "Texte/b2 Das sagt man so!/Tomaten auf den Augen haben.md",
-    "Texte/b2 Das sagt man so!/Seinen Senf dazugeben.md",
-    "Texte/b2 Das sagt man so!/Schwein haben.md",
-    "Texte/b2 Das sagt man so!/Mit jemandem ist nicht gut Kirschen essen.md",
-    "Texte/b2 Das sagt man so!/Mit den Wölfen heulen.md",
-    "Texte/b2 Das sagt man so!/Lieber den Spatz in der Hand als die Taube auf dem Dach.md",
-    "Texte/b2 Das sagt man so!/Liebe geht durch den Magen.md",
-    "Texte/b2 Das sagt man so!/Leben wie Gott in Frankreich.md",
-    "Texte/b2 Das sagt man so!/Jemanden um den Finger wickeln.md",
-    "Texte/b2 Das sagt man so!/Jemanden auf die Palme bringen.md",
-    "Texte/b2 Das sagt man so!/Jemandem rutscht das Herz in die Hose.md",
-    "Texte/b2 Das sagt man so!/Jemandem Löcher in den Bauch fragen.md",
-    "Texte/b2 Das sagt man so!/Jemandem Honig um den Bart schmieren.md",
+    "Texte/b2 Das sagt man so!/Alles unter einen Hut bringen.md",
+    "Worter/Hüte.md",
+    "Worter/Hut.md",
+    "Worter/trotzdem.md",
+    "Worter/ziemlich.md",
     "Texte/b2 Das sagt man so!/Jemandem die Daumen drücken.md",
-    "Texte/b2 Das sagt man so!/In der Not frisst der Teufel Fliegen.md",
-    "Texte/b2 Das sagt man so!/Im Eimer sein.md",
-    "Texte/b2 Das sagt man so!/Hinter dem Mond leben.md",
-    "Texte/b2 Das sagt man so!/Geld zum Fenster hinauswerfen.md",
-    "Texte/b2 Das sagt man so!/Etwas durch die Blume sagen.md",
-    "Texte/b2 Das sagt man so!/Etwas an den Nagel hängen.md",
-    "Texte/b2 Das sagt man so!/Einen Ohrwurm haben.md",
-    "Texte/b2 Das sagt man so!/Einen Korb bekommen.md",
-    "Texte/b2 Das sagt man so!/Einen Kater haben.md",
+    "Texte/b2 Das sagt man so!/Alle.md",
+    "Worter/nützen.md",
+    "Worter/Schnurrbart.md",
+    "Worter/zu schnurren.md",
+    "Worter/schnurret.md",
+    "Worter/schnurrtet.md",
+    "Worter/schnurrten.md",
+    "Worter/schnurrt.md",
+    "Worter/schnurrtest.md",
+    "Worter/Getränkekasten.md",
+    "Worter/schnurrst.md",
+    "Worter/schnurre.md",
+    "Worter/schnurr.md",
+    "Worter/schnurren.md",
+    "Worter/mucken.md",
+    "Worter/summen.md",
+    "Worter/geschnurrt.md",
+    "Worter/schnurrte.md",
+    "Texte/b2 Das sagt man so!/Unter den Fingernägeln brennen.md",
+    "Kanban/Deutsch Kanban.md",
     "Texte/HPMOR",
     "Texte/b2 Das sagt man so!",
     "Texte/b1",

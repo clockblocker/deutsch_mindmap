@@ -14,7 +14,7 @@ Antonyme: [[zulassen]], [[erlauben]], [[akzeptieren]]
 Übersetzung: to defend, to fend off, to resist
 
 ---
-Morpheme: [[wehr]][[t]][[en]]
+Morpheme: [[Wehr]][[t]][[en]]
  #Verb  #Untrennbar
  
 

@@ -2,7 +2,7 @@
 nicht [[unbekannt]]
 
 ---
-
+Jenny ist Journalistin und schreibt gerne über [[Prominente]] und [[bekannte]] Personen. 
 
 ---
 Synonyme: [[vertraut]], [[geläufig]], [[eingeführt]], [[anerkannt]], [[berühmt]]

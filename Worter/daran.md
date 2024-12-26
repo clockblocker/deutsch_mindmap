@@ -13,8 +13,9 @@ Ja, ich denke [[daran]].
 
 Aber ich glaube fest [[daran]], Aang kann diese Welt retten.
 
-
 Ihr durchschnittliches Einkommen, sagt die Künstlersozialkasse, liegt bei 10000 Euro im Jahr. [[Daran]] ändern auch die explodierenden Preise nichts.
+
+„Mir brennt [[tatsächlich]] etwas sehr unter den Nägeln“, sagte Jenny, „könnte es sein, dass Ihre drei [[Ehen]] [[daran]] [[zerbrochen]] sind, dass sie zu viel [[geredet]] haben?“ 
 
 ---
  [[hattest]] du nicht [[daran]] gedacht, es zu schließen, Brigitte?
@@ -40,4 +41,4 @@ Morphems:
 
 ---
 Tags:
-#Adverb #Pronomen, [[11 08]], [[s1 e1]]
+#Adverb #Pronomen, [[11 08]], [[s1 e1]], [[zerbrechen]]

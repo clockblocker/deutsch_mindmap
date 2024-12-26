@@ -1,77 +1,38 @@
-💥 [[zerbrechen]]
-[[zerbrach]]
-haben [[zerbrochen]]
+💥 [[zerbrechen]] | [[zerbrach]], sein [[zerbrochen]]
 
 ---
 MAN: Oh, Darling! Nein! Mein Herz wird [[zerbrechen]]!  
 
+„Mir brennt [[tatsächlich]] etwas sehr unter den Nägeln“, sagte Jenny, „könnte es sein, dass Ihre drei [[Ehen]] [[daran]] [[zerbrochen]] sind, dass sie zu viel [[geredet]] haben?“ 
 
 ---
-
-Synonyme:
-- [[zerschlagen]], [[zertrümmern]], [[kaputtmachen]]
-
----
-
-Beispiele:
-
-- Das Glas [[zerbricht]] in tausend Stücke.
-- Du [[zerbrichst]] den Spiegel.
-- Er [[zerbrach]] das Fenster.
-- Wir haben den alten Stuhl [[zerbrochen]].
-- Ihr [[zerbrecht]] die Schüssel.
-- Sie [[zerbrechen]] den Teller.
+Synonyme: [[zerstören]], [[zerschlagen]], [[zerknicken]], [[zersplittern]], [[entzweimachen]]
+Antonyme: [[heilen]], [[reparieren]], [[zusammensetzen]], [[whole]], [[intakt]]
 
 ---
-**Übersetzung**: to break, to shatter
+to break, to shatter, to fracture
 
 ---
-
-Morphems of only infinitive:
-[[zer]][[Brech]][[en]]
-
----
-Tags:
-#Verb #Unregelmäßige
-
+[[zer]][[brech]][[en]]
+ 
 ---
 
-Präteritum:
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[zerbreche]], [[zerbrach]], -, [[zerbreche]], [[zerbräche]]  
+Du: [[zerbrichst]], [[zerbrachst]], [[zerbrich]], [[zerbrechest]], [[zerbräches]]  
+Er/sie/es: [[zerbricht]], [[zerbrach]], -, [[zerbreche]], [[zerbräche]]  
+Wir: [[zerbrechen]], [[zerbrachen]], -, [[zerbrechen]], [[zerbrächen]]  
+Ihr: [[zerbrecht]], [[zerbracht]], [[zerbrecht]], [[zerbrechet]], [[zerbräcbetet]]  
 
-- Ich [[zerbrach]] den alten Spiegel.
-- Du [[zerbrachst]] das Glas aus Versehen.
-- Er [[zerbrach]] den antiken Tisch.
-- Wir [[zerbrachen]] die Vase beim Umzug.
-- Ihr [[zerbracht]] den Teller bei der Party.
-- Sie [[zerbrachen]] die Statue.
+Partizip I: [[zerbrechend]], 
+Partizip II: [[zerbrochen]]
+Zu+infinifive: [[zerbrechen]]
 
----
-
-Imperativ:
-
-- [[Zerbrich]] das nicht!
-- [[zerbrecht]] die Gläser nicht!
-- [[Zerbrechen wir]] das Problem in kleine Teile!
-- [[Zerbrechen Sie]] das nicht!
+[[zerbrechen]] - [[zer]] = [[brechen]]
 
 ---
+[[Zerbrechen]], [[Zerbrochenes]], [[Zerbrechlichkeit]], [[zerbrechlich]], [[Zerbrechung]]
 
-Konjunktiv I:
+[[aufbauen]], [[machen]], [[brechen]], [[zerplatzen]], [[krachen]], [[einschlagen]], [[auflösen]]
 
-- Er sagt, ich [[zerbreche]] das Glas vorsichtig.
-- Sie meint, du [[zerbrichst]] das Herz leicht.
-- Er behauptet, er [[zerbreche]] den alten Spiegel.
-- Wir erklären, wir [[zerbrechen]] die Barrieren.
-- Ihr sagt, ihr [[zerbrecht]] die alten Regeln.
-- Sie sagen, sie [[zerbrechen]] den Stein.
-
----
-
-Konjunktiv II:
-
-- Wenn ich unvorsichtig wäre, [[zerbräche]] ich das Glas.
-- Wenn du stärker wärest, [[zerbrächtest]] du den Stock.
-- Wenn er wütend wäre, [[zerbräche]] er den Stuhl.
-- Wenn wir es nicht wüssten, [[zerbrächen]] wir das Gleichgewicht.
-- Wenn ihr unachtsam wäret, [[zerbrächet]] ihr das Glas.
-- Wenn sie verzweifelt wären, [[zerbrächen]] sie alles um sich herum., [[aufbauen]], [[machen]], [[brechen]], [[zerplatzen]], [[krachen]], [[einschlagen]], [[auflösen]]
+💥 [[zerbrechen]]

@@ -1,1 +1,1 @@
-[[Ruhe]], [[Panik]]
+[[Ruhe]], [[Panik]], [[aufregen]], [[aufgeregt]]

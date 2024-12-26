@@ -32,4 +32,4 @@ Partizip I: [[entspannend]], Partizip II: [[entspannt]]
 , [[spannen]], [[anspannen]], [[mühen]], [[hochschrecken]], [[schrecken]]
 
 
-, [[wohlfühlen]]
+, [[wohlfühlen]], [[aufregen]]

@@ -10,6 +10,8 @@ Aber es ist [[tatsächlich]] Freddie, der die Tür öffnet und sie mit einem Lä
 Tom ist [[beleidigt]]: „Moment mal, ich habe das ganze [[Geschirr]] in die Küche gestellt.“ 
 Martin schaut in die Küche. [[Tatsächlich]]: Die ganze [[Spüle]] ist voller Teller, Gläser und Tassen – immer noch [[schmutzig]] natürlich. 
 
+„Mir brennt [[tatsächlich]] etwas sehr unter den Nägeln“, sagte Jenny, „könnte es sein, dass Ihre drei [[Ehen]] [[daran]] [[zerbrochen]] sind, dass sie zu viel [[geredet]] haben?“ 
+
 ---
 Synonyme: [[wirklich]], [[wahrhaftig]], [[in der Tat]], [[ehrlich gesagt]], [[im Grunde]]
 Antonyme: [[angeblich]], [[vermeintlich]], [[scheinbar]], [[hypothetisch]]
@@ -23,4 +25,4 @@ Morpheme: [[Tat]][[sächlich]]
 
 
 [[allerdings]], [[eigentlich]], [[echt]]
-, [[begrüßen]]
+, [[begrüßen]], [[zerbrechen]]

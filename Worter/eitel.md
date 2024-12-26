@@ -1,1 +1,1 @@
-, [[stolz]]
+, [[stolz]], [[bescheiden]]

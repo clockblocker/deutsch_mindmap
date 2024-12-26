@@ -14,6 +14,9 @@ Mit einem Krachen [[bricht]] der Eisberg auseinander und versinkt im Wasser.
 
 [[Sein Auge bricht]]. (Er stirbt)
 
+---
+[[zerbrechen]] - [[zer]] = [[brechen]] // shatter
+
 
 ---
 Synonyme: [[zerbrechen]], [[kaputtmachen]], [[zerstören]], [[zerschlagen]], [[spalten]], [[trennen]]
