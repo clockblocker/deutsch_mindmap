@@ -1,1 +1,1 @@
-[[besonders]][[Glückstag]], [[lesen]], [[Handelsgesellschaft]], [[Handelsspanne]], [[Schaffensplatz]], [[durchs]], [[Gesichtsausdruck]], [[spülen]], [[Kriegsminister]], [[Geschäftsleben]], [[Mitternachtssonne]]
+[[besonders]][[Glückstag]], [[lesen]], [[Handelsgesellschaft]], [[Handelsspanne]], [[Schaffensplatz]], [[durchs]], [[Gesichtsausdruck]], [[spülen]], [[Kriegsminister]], [[Geschäftsleben]], [[Mitternachtssonne]], [[bestens]]

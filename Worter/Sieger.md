@@ -32,4 +32,4 @@ The template includes:
 - Synonyms
 - Translation
 - Morphological breakdown
-- Grammatical classification, [[Weltmeister]]
+- Grammatical classification, [[Weltmeister]], [[Held]]

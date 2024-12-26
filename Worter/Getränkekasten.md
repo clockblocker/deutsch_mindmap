@@ -4,6 +4,8 @@ die [[Getränkekästen]]
 ---
 Als die beiden mit den [[Getränkekisten]] zurückkommen, unterhalten sie sich lebhaft. Die anderen kommen dazu und nehmen den beiden ein paar von den schweren Kisten ab.
 
+Um das Sofa herum [[stapeln]] sich alte Zeitungen, [[ungebügelte]] [[Wäsche]] und leere [[Getränkekisten]]. 
+	
 ---
 Synonyme:
 - [[Kiste]], [[Transportbehälter]], [[Bierkiste]], [[Flaschenbox]]

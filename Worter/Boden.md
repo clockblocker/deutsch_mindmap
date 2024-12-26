@@ -11,6 +11,8 @@ Dann pass mal gut auf! (Nimmt seinen Gleiter auf den Rücken, stößt sich vom 
 
 _Verdeckt im Schnee läuft Aang in eine Schnur hinein, die über den [[Boden]] gespannt ist. Hinter Katara schließt sich ein Tor. Aang rennt zu ihr._
 
+Die braunen Blätter der Pflanzen liegen schon seit Wochen auf dem [[Boden]]. Martin ist sauer: „Mann, du wolltest doch aufräumen! Du das Wohnzimmer, ich die Küche – das war die Vereinbarung.“ 
+
 ---
 Translation:
 floor, ground
@@ -29,4 +31,4 @@ Alle Formen:
 | Nominative  | der Boden         | die Böden        |
 | Accusative  | den Boden         | die Böden        |
 | Dative      | dem Boden         | den Böden        |
-| Genitive    | des Bodens        | der Böden        |
+| Genitive    | des Bodens        | der Böden        |, [[Vereinbarung]]

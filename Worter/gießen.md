@@ -5,6 +5,8 @@ haben [[gegossen]]
 ---
 Emils Mutter [[goß]] die Kamillenseife in das blonde Haar und begann, den fremden Kopf zu waschen, daß es schäumte. 
 
+Auf der Fensterbank stehen die Pflanzen, die Martin und Tom vor einiger Zeit gekauft haben, um die Wohnung schöner zu machen. Leider haben sie vergessen, sie zu [[gießen]]. 
+
 ---
 Synonyme: [[ausschütten]], [[schütten]], [[ausgießen]], [[verschütten]], [[verspritzen]]
 Antonyme: [[aufheben]], [[auffangen]], [[aufbewahren]], [[sammeln]]

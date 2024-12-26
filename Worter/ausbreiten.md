@@ -31,4 +31,4 @@ Morpheme: [[aus]][[breit]][[en]]
 
 Partizip I: [[ausbreitend]], Partizip II: [[ausgebreitet]]
 
-[[ausbreiten]] - [[aus]] = [[breiten]], [[strecken]], [[auseinanderklapfen]], [[winden]], [[streuen]], [[wickeln]]
+[[ausbreiten]] - [[aus]] = [[breiten]], [[strecken]], [[auseinanderklapfen]], [[winden]], [[streuen]], [[wickeln]], [[stapeln]]

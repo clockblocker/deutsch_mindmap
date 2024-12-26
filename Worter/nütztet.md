@@ -1,1 +1,1 @@
-, [[nutzen]]
+, [[nutzen]], [[nützen]]

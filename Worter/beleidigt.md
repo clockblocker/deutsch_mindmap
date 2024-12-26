@@ -1,0 +1,1 @@
+😠 [[beleidigen]] | 😠 [[beleidigt]], [[Geschirr]]

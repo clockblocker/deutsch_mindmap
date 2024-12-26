@@ -21,4 +21,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen:
 [[sowieso]]
-''', [[bald]]
+''', [[bald]], [[Chipstüte]], [[bestens]], [[Mülltonne]]

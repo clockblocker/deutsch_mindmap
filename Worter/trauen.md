@@ -4,6 +4,9 @@ haben [[getraut]]
 
 ---
 
+---
+[[antrauen]] - [[an]] = [[trauen]] / to marry, to wed
+
 
 ---
 Synonyme: [[heiraten]], [[vermählen]], [[kopulieren]], [[binden]], [[verbinden]]
@@ -31,4 +34,4 @@ Morpheme: [[tr]][[au]][[en]]
 Partizip I: [[trauend]], Partizip II: [[getraut]]
 
 [[trauen]] - [[tr]] = [[au]]
-''', [[vertrauen]]
+''', [[vertrauen]], [[antrauen]]

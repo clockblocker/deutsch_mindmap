@@ -1,1 +1,1 @@
-[[seidig]], [[eben]], [[scharfen]], [[pelzig]], [[wuschelig]]
+[[seidig]], [[eben]], [[scharfen]], [[pelzig]], [[wuschelig]], [[ungebügelt]]

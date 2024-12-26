@@ -1,1 +1,1 @@
-, [[anschauliche]], [[klar]], [[offenbar]], [[gelöst]]
+, [[anschauliche]], [[klar]], [[offenbar]], [[gelöst]], [[deutlich]]

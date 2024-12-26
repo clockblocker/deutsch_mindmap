@@ -10,9 +10,8 @@ haben/sein [[getreten]]
 ([[Tritt]] vor) Seit 100 Jahren hat niemand von uns einen Luftbändiger gesehen
 
 ---
-[[betreten]] - [[be]] = [[treten]]
-[[betreten]] - [[]] = [[treten]]
-
+[[betreten]] - [[be]] = [[treten]] /  to enter, to step into
+[[eintreten]] - [[ein]] = [[treten]] / to enter, to step in
 
 
 ---

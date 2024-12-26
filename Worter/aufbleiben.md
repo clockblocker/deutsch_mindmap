@@ -1,1 +1,1 @@
-, [[schlafen]]
+, [[schlafen]], [[übernachten]]

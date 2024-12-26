@@ -6,6 +6,11 @@ haben [[gefolgt]]
 *Die Buben aber [[folgten]] nicht*  
 *und lachten ihm ins Angesicht*  
 
+*Die drei Mädchen, wie sie waren,*  
+*[[folgten]] zum Palast dem Zaren.*  
+*Gleich am Abend ward die [[Braut]]*  
+*ihm als Zarin [[angetraut]].*  
+
 ---
 [[verfolgen]] - [[ver]] = [[folgen]]
 

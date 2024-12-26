@@ -4,6 +4,8 @@ nicht [[süß]]
 ---
 Wird richtig [[sauer]], macht einen bösen Gesichtsausdruck und fuchtelt mit den Armen
 
+Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]. Martin ist [[sauer]]: „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“ 
+
 ---
 Synonyme: [[säuerlich]], [[säuernd]], [[herbe]], [[herb]], [[bitter]], [[scharf]]
 Antonyme: [[süß]], [[milde]], [[sanft]], [[angenehm]], [[lecker]]

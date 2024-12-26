@@ -33,4 +33,4 @@ Morpheme: [[ver]][[lass]][[en]]
 
 Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 
-[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]]
+[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]], [[eintreten]]

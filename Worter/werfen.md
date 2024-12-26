@@ -13,6 +13,9 @@ ANNA: Und die Türe nicht zu … [[werfen]] …
 *Ich [[werf]] ein Licht in mein Gesicht*  
 *Ein heißer Schrei, Feuer frei!*  
 
+Tom seufzt: „Okay, okay, die [[Chipstüte]] ist [[sowieso]] leer.“ 
+„Na, [[bestens]]“, sagt Martin, „dann kannst du sie gleich in die [[Mülltonne]] [[werfen]]. Und nimm die alten Zeitungen mit!“
+
 ---
 [[umwerfen]] - [[um]] = [[werfen]] / knock over
 [[zuwerfen]] - [[zu]] = [[werfen]] / throw
@@ -44,4 +47,4 @@ Morpheme: [[werf]][[en]]
 
 Partizip I: [[werfend]], Partizip II: [[geworfen]]
 
-, [[Extra 8]], [[umwerfen]]
+, [[Extra 8]], [[umwerfen]], [[Chipstüte]], [[bestens]], [[Mülltonne]]

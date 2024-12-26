@@ -3,6 +3,8 @@
 haben [[gespült]]
 
 ---
+Tom ist [[beleidigt]]: „Moment mal, ich habe das ganze [[Geschirr]] in die Küche gestellt.“ 
+Martin schaut in die Küche. [[Tatsächlich]]: Die ganze [[Spüle]] ist voller Teller, Gläser und Tassen – immer noch [[schmutzig]] natürlich. 
 
 
 ---
@@ -34,4 +36,4 @@ Morpheme: [[s]][[pül]][[en]]
 
 Partizip I: [[spülend]], Partizip II: [[gespült]]
 
-[[spülen]] - [[s]] = [[pül]]en
+[[spülen]] - [[s]] = [[pül]]en, [[Geschirr]]

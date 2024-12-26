@@ -1,1 +1,1 @@
-[[hell]], [[leuchtender]], [[leuchtenden]], [[pelzig]]
+[[hell]], [[leuchtender]], [[leuchtenden]], [[pelzig]], [[ungebügelt]]

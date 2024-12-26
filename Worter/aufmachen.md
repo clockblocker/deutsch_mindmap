@@ -5,6 +5,12 @@ haben [[aufgemacht]]
 ---
 [[Damit]] hat er die Schränke [[aufgemacht]]
 
+*Aber ihr, ihr beiden andern,*  
+*[[aufmachen|macht]] euch auf, mit uns zu [[wandern]],*  
+*bei der Schwester sollt ihr bleiben,*  
+*was ihr wünscht, das sollt ihr [[treiben]]:*  
+*Eine soll als Köchin leben*  
+*und die andre Leinwand weben.«*
 
 ---
 
@@ -14,7 +20,7 @@ Synonyme: [[öffnen]], [[eröffnen]], [[erschließen]], [[entriegeln]], [[aufspe
 Antonyme: [[schließen]], [[verriegeln]], [[zuschließen]]
 
 ---
-Übersetzung: to open
+Übersetzung: to open, get ready
 
 ---
 Morpheme: [[auf]][[mach]][[en]]

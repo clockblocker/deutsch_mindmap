@@ -5,6 +5,8 @@ haben [[aufgeräumt]]
 ---
 Werner hat beim [[Aufräumen]] ein altes Urlaubsfoto gefunden. Er hat einen Rahmen dafür gekauft und will es im Wohnzimmer aufhängen.
 
+Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]. Martin ist [[sauer]]: „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“ 
+
 ---
 Synonyme: [[ordnen]], [[säubern]], [[putzen]], [[reinigen]], [[sortieren]], [[kehren]]
 Antonyme: [[verschmutzen]], [[verunreinigen]], [[unordentlich machen]]
@@ -26,4 +28,4 @@ Morpheme: [[auf]][[räum]][[en]]
 | Sie | [[räumen auf]] | [[räumten auf]] | [[räumen Sie auf]] | [[räumen auf]] | [[räumten auf]] |
 
 Partizip I: [[aufräumend]], Partizip II: [[aufgeräumt]]
-[[aufräumen]] - [[auf]] = [[räumen]]
+[[aufräumen]] - [[auf]] = [[räumen]], [[vereinbaren]]

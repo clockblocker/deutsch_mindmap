@@ -6,6 +6,10 @@ haben [[geredet]]
 Erich, [[rede keine Dummheiten]]! Dazu ist jetzt nicht der richtig Augenblick. 
 SASCHA: Also Stefan, wollen wir über die Arbeit [[reden]]?  
 
+*[[Draußen]] stand er bei dem [[Reden]],*  
+*hört' die Wünsche einer jeden,*  
+*was die Jüngste [[grad]] gesagt,*  
+*hat am [[meisten]] ihm [[behagt]].*  
 
 ---
 Synonyme: [[sprechen]], [[diskutieren]], [[kommunizieren]], [[konversieren]], [[plaudern]]

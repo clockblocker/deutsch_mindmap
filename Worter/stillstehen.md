@@ -1,1 +1,1 @@
-[[fahren]], [[bewegen]], [[umdrehen]], [[drehen]], [[paddeln]], [[niesen]], [[klapfen]], [[plempern]], [[wandeln]], [[schaukeln]], [[trappeln]], [[zappeln]], [[rollen]], [[wirken]], [[hüpfen]], [[weiterziehen]], [[entwickeln]], [[zucken]]
+[[fahren]], [[bewegen]], [[umdrehen]], [[drehen]], [[paddeln]], [[niesen]], [[klapfen]], [[plempern]], [[wandeln]], [[schaukeln]], [[trappeln]], [[zappeln]], [[rollen]], [[wirken]], [[hüpfen]], [[weiterziehen]], [[entwickeln]], [[zucken]], [[knarren]]

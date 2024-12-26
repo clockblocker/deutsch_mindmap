@@ -31,4 +31,4 @@ Partizip I: [[zerstreuend]], Partizip II: [[zerstreut]]
 [[arrangieren]], [[ausbreiten]], [[ansammeln]]
 
 
-, [[versammeln]]
+, [[versammeln]], [[stapeln]]

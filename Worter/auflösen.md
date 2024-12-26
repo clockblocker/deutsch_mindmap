@@ -31,4 +31,4 @@ Morpheme: [[auf]][[lös]][[en]]
 
 Partizip I: [[auflösend]], Partizip II: [[aufgelöst]]
 
-[[auflösen]] - [[auf]] = [[lösen]], [[flechten]], [[ansammeln]], [[gestalten]], [[versammeln]]
+[[auflösen]] - [[auf]] = [[lösen]], [[flechten]], [[ansammeln]], [[gestalten]], [[versammeln]], [[antrauen]]

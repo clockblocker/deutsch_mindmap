@@ -33,4 +33,4 @@ Morpheme: [[pass]][[en]]
 | Sie | [[passen]] | [[passten]] | [[passen Sie]] | [[passen]] | [[passten]] |
 
 Partizip I: [[passend]], Partizip II: [[gepasst]]
-, [[ziemen]]
+, [[ziemen]], [[behagen]]

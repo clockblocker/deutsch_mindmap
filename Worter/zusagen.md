@@ -1,1 +1,1 @@
-, [[drohen]], [[gefallen]], [[missfallen]], [[versprechen]]
+, [[drohen]], [[gefallen]], [[missfallen]], [[versprechen]], [[behagen]]

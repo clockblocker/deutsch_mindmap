@@ -1,1 +1,1 @@
-, [[Netz]], [[Stoff]]
+, [[Netz]], [[Stoff]], [[Leinewand]]

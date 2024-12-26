@@ -25,4 +25,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[prima]], [[primerer]], [[primere]], [[primeres]], [[primeren]], [[primerem]], [[primerer]], [[primeren]]
-[[primsten]], [[primster]], [[primste]], [[primstes]], [[primsten]], [[primestem]], [[primster]], [[primsten]], [[schlimm]]
+[[primsten]], [[primster]], [[primste]], [[primstes]], [[primsten]], [[primestem]], [[primster]], [[primsten]], [[schlimm]], [[bestens]]

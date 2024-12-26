@@ -1,1 +1,1 @@
-🔵 [[Getränkekasten]]
+🔵 [[Getränkekasten]], [[übernachten]]

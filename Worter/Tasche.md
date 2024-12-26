@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tasche]], [[Taschen]], [[Tasche]], [[Taschen]], [[Tasche]], [[Taschen]], [[Tasche]], [[Taschen]]
 
 ---
-#Substantiv #Feminin, [[Koffer]]
+#Substantiv #Feminin, [[Koffer]], [[Tüte]]

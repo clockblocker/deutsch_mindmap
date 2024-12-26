@@ -8,17 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "054f399129a6f732",
+            "id": "42bc937ce0f9d508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 podcast/9 Unter einer Decke stecken.md",
+                "file": "Texte/b2 podcast/12 Ein Tropfen auf den heißen Stein.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 Unter einer Decke stecken"
+              "title": "12 Ein Tropfen auf den heißen Stein"
+            }
+          },
+          {
+            "id": "659afa252e4dee69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/schnurren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "schnurren"
+            }
+          },
+          {
+            "id": "3594ef52ca371074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Getränkekasten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Getränkekasten"
+            }
+          },
+          {
+            "id": "141e9ae23352e88f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/nützen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nützen"
             }
           }
         ]
@@ -138,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/b2 podcast/9 Unter einer Decke stecken.md"
+                "file": "Texte/b2 podcast/12 Ein Tropfen auf den heißen Stein.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 9 Unter einer Decke stecken"
+              "title": "Outline of 12 Ein Tropfen auf den heißen Stein"
             }
           }
         ],
@@ -166,34 +208,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "054f399129a6f732",
+  "active": "42bc937ce0f9d508",
   "lastOpenFiles": [
-    "Worter/stecken.md",
-    "Texte/b2 podcast/9 Unter einer Decke stecken.md",
-    "Texte/b2 podcast/10 Jemandem die Suppe versalzen.md",
-    "Texte/b2 podcast/12 Ein Tropfen auf den heißen Stein.md",
-    "Texte/b2 podcast/11 Über den Tellerrand schauen.md",
-    "Worter/stöhnen.md",
-    "Worter/klagend.md",
-    "Worter/schmerzerfüllt.md",
-    "Worter/Stöhnerin.md",
-    "Worter/Stöhner.md",
-    "Worter/stöhnend.md",
-    "Worter/stöhnet.md",
-    "Worter/stöhntet.md",
-    "Worter/stöhnten.md",
-    "Worter/stöhnt.md",
-    "Worter/stöhnest.md",
-    "Worter/stöhntest.md",
-    "Worter/stöhnst.md",
-    "Worter/stöhne.md",
-    "Worter/stöhn.md",
-    "Worter/gestöhnt.md",
-    "Worter/stöhnte.md",
-    "Worter/Verbrechen.md",
-    "Worter/verbrechern.md",
-    "Worter/verbrecherisch.md",
-    "Worter/Verbrechens.md",
+    "Texte/Gedichte/Kinder/Märchen vom Zaren Saltan.md",
+    "Texte/HPMOR/1 Ein äußerst unwahrscheinlicher Tag**.md",
+    "Worter/folgten.md",
+    "Worter/folgen.md",
+    "Worter/Braut.md",
+    "Worter/angetraut.md",
+    "Worter/antrauen.md",
+    "Worter/trauen.md",
+    "Worter/Trauschein.md",
+    "Worter/Trauzeuge.md",
+    "Worter/Traualtar.md",
+    "Worter/Antrauung.md",
+    "Worter/Trauung.md",
+    "Worter/anzutrauen.md",
+    "Worter/antrauend.md",
+    "Worter/trauet an.md",
+    "Worter/trautet an.md",
+    "Worter/trauten an.md",
+    "Worter/trauen an.md",
+    "Worter/traut an.md",
+    "Worter/trauest an.md",
+    "Worter/trautest an.md",
+    "Worter/traust an.md",
+    "Worter/traue an.md",
+    "Worter/verheiraten.md",
+    "Worter/traute an.md",
     "Texte/HPMOR",
     "Texte/b2 podcast",
     "Texte/b1",

@@ -30,4 +30,4 @@ Morpheme: [[schlaf]][[en]]
 
 Partizip I: [[schlafend]], Partizip II: [[geschlafen]]
 
-, [[wecken]]
+, [[wecken]], [[übernachten]]

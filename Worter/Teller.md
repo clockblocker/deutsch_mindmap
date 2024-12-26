@@ -1,1 +1,1 @@
-, [[Eisenteil]], [[Tellerrand]]
+, [[Eisenteil]], [[Tellerrand]], [[Geschirr]]

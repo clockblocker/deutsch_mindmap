@@ -32,12 +32,11 @@ Partizip I: [[tropfend]], Partizip II: [[getropft]]
 
 ---
 
- 🟢 das [[Tropfen]], [ˈtʁɔpfən]
+🔵 der [[Tropfen]], [ˈtʁɔpfən]
 die [[Tropfen]]
 
-
 ---
-
+Was [[nützt]] es, wenn man einen Tropfen Wasser auf einen heißen Stein fallen lässt? Nicht viel. Der Tropfen [[verdampft]] sofort. Um einen messbaren Effekt zu erzielen, braucht es schon deutlich mehr.
 
 ---
 Synonyme:
@@ -58,3 +57,4 @@ Einzigartige mögliche Formen: [[Tropfens]], [[Tropfen]], [[Tropfe]], [[Tropfen]
 
 
 [[Regen]], [[Zähre]]
+, [[messbar]]

@@ -4,6 +4,11 @@ die [[Wünsche]]
 ---
 Mutter Birgit seufzt: „Wie sollen wir all diese [[Wünsche]] unter einen Hut bringen?“ 
 
+Kaum]] der [[Wunsch]] gesprochen [[ward]],*  
+*als die Türe [[leise]] [[knarrt]]:*  
+*Zu den Mädchen, zu den drein,*  
+*[[eintreten|tritt]] der Zar des Landes ein.*  
+
 ---
 Synonyme:
 - [[Verlangen]], [[Begehren]], [[Sehnsucht]], [[Bedürfnis]], [[Traum]]

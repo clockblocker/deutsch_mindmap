@@ -1,1 +1,1 @@
-, [[wegwerfen]]
+, [[wegwerfen]], [[Mülltonne]]

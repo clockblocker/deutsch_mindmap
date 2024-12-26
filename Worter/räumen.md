@@ -3,6 +3,8 @@
 haben [[geräumt]]
 
 ---
+„[[Außerdem]]“, erklärt Tom, „habe ich die Bücher ins Regal [[geräumt]].“ 
+Martin schimpft: „Die paar Bücher? Das war doch nur ein Tropfen auf den heißen Stein! Was ist mit der Wäsche, den Getränkekisten, den Pflanzen?“ 
 
 ---
 [[aufräumen]] - [[auf]] = [[räumen]]

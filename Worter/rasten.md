@@ -1,2 +1,2 @@
 🏃 [[rasen]]
-, [[liegen]], [[sitzen]], [[wandeln]]
+, [[liegen]], [[sitzen]], [[wandeln]], [[übernachten]]

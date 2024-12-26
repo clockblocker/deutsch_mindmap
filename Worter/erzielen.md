@@ -5,6 +5,8 @@ haben [[erzielt]]
 ---
 Das bisher höchste Ergebnis erzielte ein Gemälde von Claude Monet mit einem Preis von 36,5 Millionen Pfund
 
+Was [[nützt]] es, wenn man einen Tropfen Wasser auf einen heißen Stein fallen lässt? Nicht viel. Der Tropfen [[verdampft]] sofort. Um einen [[messbaren]] Effekt zu [[erzielen]], braucht es schon [[deutlich]] mehr.
+
 ---
 Synonyme: [[erreichen]], [[gewinnen]], [[erlangen]], [[schaffen]], [[bewirken]]
 Antonyme: [[verfehlen]], [[verlieren]], [[scheitern]]

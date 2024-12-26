@@ -1,2 +1,2 @@
 [[trauen]]
-[[vertrauen]]
+[[vertrauen]], [[antrauen]]

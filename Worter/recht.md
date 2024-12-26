@@ -6,6 +6,11 @@ Wir haben eine lange Reise hinter uns und sind alle [[recht]] müde davon.
 
 Prinz Zuko, Ihr braucht auch ein wenig Schlaf. Selbst wenn Ihr [[Recht]] haben solltet und der Avatar wirklich am Leben ist, Ihr werdet ihn nicht finden. 
 
+ 
+*Sprach die Jüngste von den drein:*  
+*»Kam ein Zar, um mich zu frein,*  
+*schenkt ich ihm auf seinen Thron*  
+*einen [[rechten]] Heldensohn!«*  
 
 ---
 Synonyme: [[richtig]], [[korrekt]], [[wahr]], [[gerecht]], [[rechtmäßig]]
