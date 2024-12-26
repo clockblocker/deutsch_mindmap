@@ -1,3 +1,3 @@
-[[Alle]]
+[[Worter/Alle]]
 
 [[Indefinitpronomen]]

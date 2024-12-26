@@ -1,1 +1,1 @@
-[[Indefinitpronomen]][[jeden]][[Alle]], [[manche]]
+[[Indefinitpronomen]][[jeden]][[Worter/Alle]], [[manche]]

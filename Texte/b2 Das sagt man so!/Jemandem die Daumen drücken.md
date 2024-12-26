@@ -1,0 +1,1 @@
+ https://learngerman.dw.com/de/jemandem-die-daumen-druecken/l-19042072/lm

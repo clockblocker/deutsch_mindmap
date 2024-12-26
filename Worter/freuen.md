@@ -10,7 +10,7 @@ Und [[besonders]] mit deiner köstlichen Schoko-Eisbombe. Das [[freut]] 
 
 Vielen Dank für all die schönen Sachen. Ich habe mich wirklich darüber [[gefreut]]
 
-[[3 Sich freuen wie ein Schneekönig]]  
+[[Sich freuen wie ein Schneekönig]]  
 
 Es gibt viele Arten, sich zu [[freuen]]. Man kann laut lachen oder schreien. 
 

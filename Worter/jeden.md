@@ -1,5 +1,5 @@
 🔵 [[jeden]], [ˈjeːdn̩]
-nicht [[alle]]
+nicht [[Worter/Alle]]
 
 ---
 -

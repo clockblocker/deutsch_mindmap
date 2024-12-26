@@ -1,11 +1,11 @@
-[[Alle]] meine Entchen,
+[[Worter/Alle]] meine Entchen,
 
 [[Alles]]
 
 [[Indefinitpronomen]]
 
 
- [[alle]], [ˈalə]
+ [[Worter/Alle]], [ˈalə]
 nicht [[einige]], nicht [[manche]]
 
 ---
@@ -21,17 +21,17 @@ Antonyme: [[einige]], [[manche]], [[teilweise]], [[vereinzelt]], [[einzeln]]
 all, every, whole
 
 ---
-#Adjective [[alle]]
+#Adjective [[Worter/Alle]]
 
 ---
 Morpheme:
-[[alle]]
+[[Worter/Alle]]
 
 ---
 
 
 Einzigartige mögliche Formen: 
-[[alle]], [[aller]], [[alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
-[[alle]], [[aller]], [[alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
-[[alle]], [[aller]], [[alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
+[[Worter/Alle]], [[aller]], [[Worter/Alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
+[[Worter/Alle]], [[aller]], [[Worter/Alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
+[[Worter/Alle]], [[aller]], [[Worter/Alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
 ''', [[Jeder]]

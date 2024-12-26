@@ -68,7 +68,7 @@
 [[einige]] (some),
 [[mehrere]] (several),
 [[viele]] (many),
-[[Alle]] (all),
+[[Worter/Alle]] (all),
 [[andere]] (others)
 
 8. #Reziproke Pronomen

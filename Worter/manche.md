@@ -27,7 +27,7 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[Indefinitpronomen]], [[jeden]], [[Alle]]
+[[Indefinitpronomen]], [[jeden]], [[Worter/Alle]]
 [[manche]], [[mancher]], [[manche]], [[manches]], [[manchen]], [[manchem]], [[mancher]], [[manchen]]
 
-[[Indefinitpronomen]], [[jeden]], [[Alle]]
+[[Indefinitpronomen]], [[jeden]], [[Worter/Alle]]
