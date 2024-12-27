@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Hauses]], [[Hause]], [[Häuser]], [[Häusern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[Haushalt]]

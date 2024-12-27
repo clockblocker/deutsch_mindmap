@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[verwirrt]], [[verwirrter]], [[verwirrtere]], [[verwirrtes]], [[verwirrten]], [[verwirrterem]], [[verwirrter]], [[verwirrten]]
 [[verwirrtest]], [[verwirrtester]], [[verwirrteste]], [[verwirrtestes]], [[verwirrtesten]], [[verwirrtestem]], [[verwirrtester]], [[verwirrtesten]]
-'''
+''', [[verständnislos]]

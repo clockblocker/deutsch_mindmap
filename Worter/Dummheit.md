@@ -16,4 +16,4 @@ Morphems:
 [[dumm]][[heit]]
 
 ---
-#Substantiv #Feminin, [[Schwachsinn]]
+#Substantiv #Feminin, [[Schwachsinn]], [[doof]]

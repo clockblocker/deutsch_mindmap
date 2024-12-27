@@ -3,8 +3,11 @@
 haben [[verstanden]]
 
 ---
-- (Ich will) Ich will, dass ihr mich [[versteht]]  
-- 
+(Ich will) Ich will, dass ihr mich [[versteht]]  
+
+Greta [[versteht]] die Ängste ihrer Schwester gut. 
+„Es bringt [[überhaupt]] nichts, nervös zu sein“, sagt sie. 
+„Ich drücke dir die Daumen. Du [[schaffst]] das alles.“ 
 
 ---
 Synonyme: [[begreifen]], [[erfassen]], [[kapieren]], [[durchdringen]], [[einsehen]]

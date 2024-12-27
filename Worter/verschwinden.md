@@ -34,4 +34,4 @@ Partizip I: [[verschwindend]], Partizip II: [[verschwunden]]
 
 [[verschwinden]] - [[ver]] = [[schwinden]]
 
- [[auftauchten]], [[sein]], [[kommen]], [[aussterben]], [[auffallen]]
+ [[auftauchten]], [[sein]], [[kommen]], [[aussterben]], [[auffallen]], [[auftreten]]

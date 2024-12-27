@@ -18,6 +18,9 @@ NIC: Hmmm … das [[dachte]] ich mir…
 
 Wir [[dachten]] sie sind ausgestorben. Und nun haben meine Enkeltochter und mein Enkelsohn dich gefunden.
 
+Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Erfolg]]!“ sagen oder jemandem die Daumen [[drücken]]. Ob es hilft? [[Immerhin]]: Wer [[freut]] sich nicht darüber, dass an ihn [[gedacht]] wird?
+
+
 ---
 [[nachdenken]] - [[nach]] = [[denken]]
 

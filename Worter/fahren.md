@@ -7,7 +7,8 @@ Sag’ ihr, ich habe einen [[Igel]]
 Igel gefressen … oder dass ich zum Mond [[gefahren]] bin …  
 
 ---
-[[losfahren]] - [[los]] = [[fahren]]
+[[losfahren]] - [[los]] = [[fahren]] / отъехать, to set off, to depart
+[[überfahren]] - [[über]] = [[fahren]] / переехать, to run over,
 
 
 ---
@@ -34,4 +35,4 @@ Morpheme: [[fahr]][[en]]
 
 Partizip I: [[fahrend]], Partizip II: [[gefahren]]
 
- [[paddeln]], [[losfahren]]
+ [[paddeln]], [[losfahren]], [[überfahren]]

@@ -10,6 +10,10 @@ Laura [[fängt]] [[an]] zu weinen: „Meine Eltern lassen sich scheiden!“ Oh j
 
 Tochter Sunita hat vor Kurzem [[angefangen]], Portugiesisch zu lernen, und will deshalb nach Portugal fliegen.
 
+„Moment, wir [[anfangen|fangen]] mit den Türen [[an]]“, ruft Robin und nimmt die Türen in die Hand. 
+
+[[Eigentlich]] wollen Tanja, Hans und Carmen einen [[netten]] Nachmittag bei Kaffee und Kuchen [[verbringen]], aber es kommt anders: Tanja und ihr Freund Hans [[anfangen|fangen]] mal wieder einen Streit an. 
+
 
 ---
 Synonyme: [[beginnen]], [[loslegen]], [[starten]], [[einleiten]], [[eröffnen]]

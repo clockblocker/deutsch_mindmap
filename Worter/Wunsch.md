@@ -21,7 +21,7 @@ Morpheme:
 [[Wunsch]]
 
 ---
-Einzigartige mögliche Formen: [[Wunsches]], [[Wünsche]], [[Wünschen]]
+Einzigartige mögliche Formen: [[Wunsches]], [[Wünsche]], [[wünschen]]
 
 ---
 #Substantiv #Maskulin

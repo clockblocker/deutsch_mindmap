@@ -4,6 +4,8 @@ haben [[geboten]]
 
 ---
 
+---
+[[anbieten]] - [[an]] = [[bieten]] // to offer
 
 ---
 Synonyme: [[anbieten]], [[darbieten]], [[präsentieren]], [[offerieren]], [[bereitstellen]]

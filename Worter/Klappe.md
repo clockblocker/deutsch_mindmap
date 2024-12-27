@@ -1,5 +1,5 @@
 [[Klappe]]
-die [[Klappen]]
+die [[klappen]]
 
 ---
 SASCHA: [[Halt die Klappe]] Nic!

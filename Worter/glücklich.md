@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 [[glücklich]], [[glücklichere]], [[glückliche]], [[glückliches]], [[glücklichen]], [[glücklichem]], [[glücklicher]], [[glücklichen]]
 [[glücklicher]], [[glücklicherer]], [[glücklichere]], [[glücklicheres]], [[glücklicheren]], [[glücklicherem]], [[glücklicherer]], [[glücklicheren]]
 [[glücklichsten]], [[glücklichster]], [[glücklichste]], [[glücklichstes]], [[glücklichsten]], [[glücklichstem]], [[glücklichster]], [[glücklichsten]]
-'''[[schade]], [[fröhlich]], [[jämmerlich]]
+'''[[schade]], [[fröhlich]], [[jämmerlich]], [[Glücksspiel]]

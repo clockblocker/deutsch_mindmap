@@ -1,1 +1,1 @@
-, [[Ausdruck]], [[Redensart]]
+, [[Ausdruck]], [[Redensart]], [[Sprichwort]]

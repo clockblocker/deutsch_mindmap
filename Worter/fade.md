@@ -1,1 +1,1 @@
-[[köstlich]], [[interessant]], [[salzig]]
+[[köstlich]], [[interessant]], [[salzig]], [[langweilig]]

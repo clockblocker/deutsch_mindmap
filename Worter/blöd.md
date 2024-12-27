@@ -22,3 +22,4 @@ Einzigartige mögliche Formen:
 [[blöd]], [[blöder]], [[blöde]], [[blödes]], [[blöden]], [[blödem]], [[blöder]], [[blöden]]
 [[blöder]], [[blöderer]], [[blödere]], [[blöderes]], [[blöderen]], [[blöderem]], [[blöderer]], [[blöderen]]
 [[blödesten]], [[blödester]], [[blödeste]], [[blödestes]], [[blödesten]], [[blödestem]], [[blödester]], [[blödesten]]
+, [[doof]]

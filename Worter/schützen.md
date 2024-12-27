@@ -31,3 +31,4 @@ Partizip I: [[schützend]], Partizip II: [[geschützt]], Zu infinitive: zu schü
 
 
 , [[angreifen]], [[retten]], [[verletzen]], [[wehrten]], [[verbrennen]], [[totschlagen]], [[rauben]], [[abdecken]], [[decken]]
+, [[quälen]]

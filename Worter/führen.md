@@ -1,9 +1,9 @@
-🚗 [[führen]] + Akk, [ˈfyːʁən]
-[[führte]]
-haben [[geführt]]
+🚗 [[führen]] + Akk, [ˈfyːʁən], [[führte]], haben [[geführt]]
 
 ---
 Oder denken Sie an die [[Gespräche]], die Sie jeden Tag mit Kollegen oder Freunden [[führen]]. 
+
+Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]. 
 
 ---
 Synonyme: [[leiten]], [[lenken]], [[anführen]], [[steuern]], [[begleiten]]
@@ -33,3 +33,4 @@ Partizip I: [[führend]], Partizip II: [[geführt]]
 
 
 [[fahren]], [[steuere]]
+, [[Schwierigkeit]]

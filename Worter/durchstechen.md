@@ -1,1 +1,1 @@
-, [[stechen]], [[aufspießen]], [[spießen]]
+, [[stechen]], [[aufspießen]], [[spießen]], [[bohren]]

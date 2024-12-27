@@ -9,6 +9,10 @@ setzen Hoffnung auf den:
 Katara, du solltest nicht deine ganze Hoffnung [[auf]] diesen Jungen [[setzen]].
 
 ---
+[[einsetzen]] - [[ein]] = [[setzen]] / insert
+
+
+---
 Synonyme: [[platzieren]], [[positionieren]], [[legen]], [[stellen]], [[aufstellen]]
 Antonyme: [[entfernen]], [[heben]], [[nehmen]], [[wegnehmen]]
 
@@ -32,4 +36,4 @@ Morpheme: [[setz]][[en]]
 
 Partizip I: [[setzend]], Partizip II: [[gesetzt]]
 
-[[setzen]] - [[setz]] = [[en]]
+[[setzen]] - [[setz]] = [[en]], [[einsetzen]]

@@ -6,6 +6,8 @@ haben [[verdorben]]
 *Wo das süße Wasser stirbt*  
 *Weil es sich im Salz verdirbt* 
 
+[[Viele Köche verderben den Brei]]
+
 ---
 Synonyme: [[ruinieren]], [[beschädigen]], [[zerstören]], [[verschlechtern]], [[kaputt machen]]
 Antonyme: [[reparieren]], [[erneuern]], [[verbessern]], [[bewahren]], [[aufbewahren]]

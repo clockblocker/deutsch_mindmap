@@ -1,31 +1,28 @@
+doof, [dʊʊf]
+nicht [[intelligent]], [[klug]]
+
+---
+Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Haushalt]] [[kümmern]] muss.
+
+---
+Synonyme: [[dumm]], [[blöd]], [[beschränkt]], [[einfältig]], [[naive]]
+Antonyme: [[intelligent]], [[klug]], [[schlau]], [[gebildet]], [[gescheit]]
+
+---
+**stupid, dumb, silly**
+
+---
 [[doof]]
-[[doofer]]
-[[am]] [[doofsten]]
-
-nicht [[klug]]
 
 ---
 
-Synonyme:
-- [[dumm]], [[blöd]], [[unvernünftig]]
+Form: Positive, Comparative, Superlative  
+Nominative: [[doof]], [[doofer]], [[doofster]]  
+Accusative: [[doofen]], [[dooferen]], [[doofsten]]  
+Genitive: [[doofer]], [[dooferer]], [[doofster]]  
+Dative: [[doofem]], [[dooferen]], [[doofsten]]  
+Feminine: [[doofe]], [[doofere]], [[doofste]]  
+Neuter: [[doofes]], [[dooferes]], [[dooftes]]  
+Plural: [[doofen]], [[dooferen]], [[doofsten]]  
 
----
-
-Beispiele:
-
-- Das war eine [[doofer]] Fehler.
-- Die Idee ist [[doofer]], als ich dachte.
-- Er ist der [[doofste]] Witz, den ich je gehört habe.
-
----
-**Übersetzung**: dumb, silly
-
----
-
-Tags:
-#Adjective
-
----
-
-Morphems:
-[[doof]]
+[[Dummheit]], [[Einfalt]], [[doofartiger]], [[verdummen]]

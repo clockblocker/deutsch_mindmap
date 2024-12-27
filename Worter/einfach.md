@@ -1,5 +1,4 @@
 [[einfach]], [[einfacher]], [[am]] [[einfachsten]]
-
 nicht [[kompliziert]]/[[schwierig]]
 
 ---
@@ -18,6 +17,9 @@ SASCHA: Anna! Ganz [[einfach]]!
 Siehst du, so [[einfach]] ist das.  
 
 Du hast nur einmal kurz geniest und bist [[einfach]] so drei Meter in die Luft geflogen!
+
+Alfred ist anderer Meinung. Er glaubt, dass er [[einfach]] ein guter Spieler ist. 
+
 
 ---
 Synonyme: [[leicht]], [[simpel]], [[unkompliziert]], [[klar]], [[überschaubar]]

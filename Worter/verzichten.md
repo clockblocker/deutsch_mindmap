@@ -30,3 +30,4 @@ Morpheme: [[ver]][[zicht]][[en]]
 Partizip I: [[verzichtend]], Partizip II: [[verzichtet]]
 
 [[verzichten]] - [[ver]] = [[zichten]]
+, [[wünschen]]

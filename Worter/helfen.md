@@ -5,6 +5,8 @@ haben [[geholfen]]
 ---
 NIC: Hey! Aber ich kann dir [[helfen]]!
 
+Julia, Robin und Dennis sehen sich an. Was ist denn mit Katie los? „Wir wollten dir doch nur [[helfen]]“, sagen sie und [[schütteln]] [[verständnislos]] die Köpfe
+
 ---
 synonyms
 - [[unterstützen]]

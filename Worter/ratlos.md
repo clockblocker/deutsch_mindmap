@@ -1,1 +1,1 @@
-, [[auskennen]]
+, [[auskennen]], [[verständnislos]]

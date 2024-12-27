@@ -1,5 +1,8 @@
 Ja, [[darüber]] wollen wir uns nicht ärgern.
 
+Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[einsetzen]]. Und [[darüber]] [[freuen]] sich die [[wenigsten]].
+
+
 ---
 
 Synonyme:

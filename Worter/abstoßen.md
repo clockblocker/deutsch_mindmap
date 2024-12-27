@@ -26,4 +26,4 @@ Morpheme: [[ab]][[stoß]][[en]]
 | Sie | [[stoßen ab]] | [[stießen ab]] | [[stoßen Sie ab]] | [[stoßen ab]] | [[stießen ab]] |
 
 Partizip I: [[abstoßend]], Partizip II: [[abgestoßen]]
-[[abstoßen]] - [[ab]] = [[stoßen]]
+[[abstoßen]] - [[ab]] = [[stoßen]], [[widern]]

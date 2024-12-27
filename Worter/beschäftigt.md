@@ -1,2 +1,2 @@
 , [[tätig]], [[Naturschutz]]
-🏢 [[beschäftigen]] | 🏢 [[beschäftigt]], [[schäftigen]], [[unbedingt]]
+🏢 [[beschäftigen]] | 🏢 [[beschäftigt]], [[schäftigen]], [[unbedingt]], [[bisher]]

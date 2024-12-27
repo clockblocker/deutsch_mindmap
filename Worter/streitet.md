@@ -1,1 +1,2 @@
 ⚔️ [[streiten]]
+, [[geduld]], [[befürchten]], [[bisher]]

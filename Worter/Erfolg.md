@@ -6,7 +6,10 @@ STEFAN: … Ja Sascha, und mit deiner Figur ... wirst du auch viel [
 
 Kunst ist das neue Massenmedium, Kunst ist [[Erfolg]].
 
-Lena ist klar, was das bedeutet: Sie wird die Arbeit machen und Bastian wird den [[Erfolg]] für sich verbuchen. 
+Lena ist klar, was das bedeutet: Sie wird die Arbeit machen und Bastian wird den [[Erfolg]] für sich [[verbuchen]]. 
+
+Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Erfolg]]!“ sagen oder jemandem die Daumen [[drücken]]. Ob es hilft? [[Immerhin]]: Wer [[freut]] sich nicht darüber, dass an ihn [[gedacht]] wird?
+
 
 ---
 Synonyme:
@@ -26,4 +29,4 @@ Genitive: des [[Erfolgs]] oder [[Erfolges]], der [[Erfolge]]
 Dative: dem [[Erfolg]], den [[Erfolgen]] 
 
 ---
-[[erfolgen]], [[erfolgreich]], [[erfolglos]], [[erfolgsorientiert]], [[verbuchen]]
+[[erfolgen]], [[erfolgreich]], [[erfolglos]], [[erfolgsorientiert]], [[verbuchen]], [[gelingen]]

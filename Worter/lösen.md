@@ -1,47 +1,31 @@
-[[lösen]] + Akk, [ˈløːzən]
-[[löste]]
-haben [[gelöst]]
+🧩 [[lösen]], [ˈløːzən] | [[löste]], haben [[gelöst]]
 
 ---
-[[Freigabeprobleme]] [[gelöst]]. Sendung zur Zustellung freigegeben
-
-– Wir haben mit dieser Familie gebrochen. (Wir haben unsere Beziehung [[gelöst]].)
-
+ Nur wenigen gelingt es, sich von ihrem eigenen Schatten zu [[lösen]]: Lucky Luke zum Beispiel schießt schneller als er und Peter Pan sucht ihn. Aber wie schafft man es, über seinen eigenen Schatten zu springen?
+ 
+---
+Synonyme: [[auflösen]], [[trennen]], [[befreien]], [[klären]], [[erledigen]]
+Antonyme: [[binden]], [[verknoten]], [[verkomplizieren]], [[verfangen]]
 
 ---
-[[ablösen]] - [[ab]] = [[lösen]]
-[[einlösen]] - [[ein]] = [[lösen]] / redeem
-[[auslösen]] - [[aus]] = [[lösen]] / trigger
-[[auflösen]] - [[auf]] = [[lösen]] / [[weggehen]]
-
+to solve, to loosen, to untie, to resolve
 
 ---
-Synonyme: [[auflösen]], [[herauslösen]], [[trennen]], [[aufheben]], [[erledigen]]
-Antonyme: [[festhalten]], [[verbinden]], [[verkomplizieren]]
-
----
-Übersetzung: 
-1. to solve (a problem)
-2. to detach, to separate
-3. to resolve, to untie
-4. to dissolve
-
----
-Morpheme: [[lös]][[en]]
- #Verb #Untrennbar
+[[lös]][[en]]
+   
 
 ---
 
-| Person    | Präsens   | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | --------- | ---------- | --------- | ------------ | ------------- |
-| Ich       | [[löse]]  | [[löste]]  | -         | [[löse]]     | [[löste]]     |
-| Du        | [[lösest]]| [[löstetest]]| [[löse]] | [[lösest]]   | [[löstest]]   |
-| Er/sie/es | [[löst]]  | [[löste]]  | -         | [[löse]]     | [[löste]]     |
-| Wir       | [[lösen]] | [[lösten]] | -         | [[lösen]]    | [[lösten]]    |
-| Ihr       | [[löst]]  | [[löstet]] | [[löst]]  | [[löset]]    | [[löstet]]    |
-| Sie       | [[lösen]] | [[lösten]] | [[lösen Sie]] | [[lösen]] | [[lösten]]    |
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[löse]], [[löste]], -, [[löse]], [[löste]]  
+Du: [[lösst]], [[löstest]], [[löse]], [[lösest]], [[löstest]]  
+Er/sie/es: [[löst]], [[löste]], -, [[löse]], [[löste]]  
+Wir: [[lösen]], [[lösten]], -, [[lösen]], [[lösten]]  
+Ihr: [[löst]], [[löftet]], [[löst]], [[löset]], [[löftet]]  
 
-Partizip I: [[lösend]], Partizip II: [[gelöst]]
+Partizip I: [[lösend]], 
+Partizip II: [[gelöst]]
+Zu+infinitive: [[zu lösen]]
 
-, [[festziehen]], [[einhängen]], [[spannen]], [[hängen]], [[ballen]], [[wringen]], [[auflösen]], [[ablösen]]
-, [[festsitzen]], [[festkleben]], [[kleben]], [[schnallen]]
+---
+[[Lösung]], [[Lösungsmittel]], [[Lösbarkeit]], [[Problemlösung]], [[Lösungsansatz]]

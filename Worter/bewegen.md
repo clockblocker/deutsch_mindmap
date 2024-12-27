@@ -36,4 +36,4 @@ Partizip I: [[bewegend]], Partizip II: [[bewegt]]
 
 
 [[fahren]], [[schieben]]
-, [[treiben]]
+, [[treiben]], [[schütteln]]

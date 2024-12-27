@@ -5,6 +5,9 @@ nicht [[schwer]]
 *Als sie nun durch das Zimmer sprang*  
 *mit leichtem Mut und Sing und Sang,*  
 
+Das Schwein hat es nicht [[leicht]]. In vielen Kulturen [[gilt]] es als [[unrein]] und [[faul]]. 
+
+
 ---
 Synonyme: [[einfach]], [[mühelos]], [[unbeschwert]], [[locker]], [[flott]]
 Antonyme: [[schwierig]], [[anstrengend]], [[mühsam]], [[belastend]], [[kompliziert]]

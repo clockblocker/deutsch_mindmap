@@ -1,1 +1,1 @@
-, [[beruhigen]]
+, [[beruhigen]], [[schütteln]]

@@ -3,8 +3,10 @@
 haben [[gegolten]]
 
 ---
-- DIE GLEICHEN REGELN GELTEN!  
--
+DIE GLEICHEN REGELN GELTEN!  
+
+Das Schwein hat es nicht [[leicht]]. In vielen Kulturen [[gilt]] es als [[unrein]] und [[faul]]. 
+
 
 ---
 Synonyme: [[zählen]], [[gültig sein]], [[maßgeblich sein]], [[Bedeutung haben]], [[Gültigkeit haben]]

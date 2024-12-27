@@ -1,1 +1,1 @@
-[[Energie]], [[Erfolg]]
+[[Energie]], [[Erfolg]], [[gelingen]]

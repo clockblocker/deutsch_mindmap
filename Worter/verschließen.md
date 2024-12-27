@@ -1,1 +1,1 @@
-, [[festziehen]], [[anlachen]], [[aufzukriegen]], [[aufsperren]], [[abschließen]]
+, [[festziehen]], [[anlachen]], [[aufzukriegen]], [[aufsperren]], [[abschließen]], [[bohren]]

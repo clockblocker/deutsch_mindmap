@@ -3,6 +3,8 @@
 ---
 „Das ist ein ganz großes [[Verbrechen]]!“, da ist er sich sicher. 
  Die Polizisten stöhnen. Das klingt nach sehr viel Arbeit.
+
+Alfreds Frau greift sich an den Kopf. „Alfred, du hast wieder mal Schwein gehabt!“ [[stöhnt]] sie genervt. 
  
 ---
 Synonyme: [[seufzen]], [[ächzen]], [[jammern]], [[klagen]], [[murren]]

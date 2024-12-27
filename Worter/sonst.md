@@ -16,6 +16,11 @@
 
 Nicht so laut, [[sonst]] verscheuchst du ihn Katara
 
+Alfred [[gehört]] zu den Menschen, die immer den [[Kick]] suchen. Er braucht [[Abenteuer]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
+
+„Entschuldigung!“, antwortet Carola. Sie muss wirklich besser aufpassen. [[Sonst]] [[klappt]] es heute bestimmt nicht mit der Prüfung.
+
+
 
 ---
 Synonyme:
@@ -37,4 +42,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen: 
 [[sonst]]
-, [[sonst nichts]], [[s1 e1]]
+, [[sonst nichts]], [[s1 e1]], [[Kick]], [[Abenteuer]], [[langweilen]]

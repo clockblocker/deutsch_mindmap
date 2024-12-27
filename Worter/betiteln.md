@@ -1,1 +1,1 @@
-, [[nennen]]
+, [[nennen]], [[bezeichnen]]

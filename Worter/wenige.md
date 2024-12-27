@@ -4,6 +4,8 @@ nicht [[viele]]
 ---
  „Das gibt es nur [[selten]]. Glück im Spiel und in der Liebe haben nur [[wenige]]“
 
+Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[einsetzen]]. Und [[darüber]] [[freuen]] sich die [[wenigsten]].
+
 
 ---
 Synonyme: [[geringe]], [[begrenzt]], [[kaum]], [[minimal]]

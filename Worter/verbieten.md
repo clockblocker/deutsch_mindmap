@@ -6,6 +6,8 @@ haben [[verboten]]
 *Sie drohen mit den Pfoten:*  
 *"Der Vater hat’s [[verboten]]!*  
 
+„Aber das war jetzt das letzte Mal! Ich [[verbiete]] dir, [[jemals]] wieder ins Casino zu gehen. Denn wenn dich das Glück irgendwann im [[Stich]] lässt, [[trenne]] ich mich von dir.“
+
 ---
 Synonyme: [[untersagen]], [[unerlaubt machen]], [[unterbinden]], [[inhibieren]], [[eindämmen]]
 Antonyme: [[erlauben]], [[genehmigen]], [[zulassen]], [[freigeben]], [[bewilligen]]

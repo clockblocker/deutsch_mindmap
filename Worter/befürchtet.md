@@ -1,0 +1,1 @@
+, [[geduld]]😱 [[befürchten]], [[bisher]]

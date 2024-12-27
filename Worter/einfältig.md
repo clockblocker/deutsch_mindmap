@@ -1,1 +1,1 @@
-, [[schlauen]], [[blöd]]
+, [[schlauen]], [[blöd]], [[doof]]

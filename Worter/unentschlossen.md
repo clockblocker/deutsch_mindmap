@@ -1,0 +1,1 @@
+, [[entschlossen]], [[entschließen]]

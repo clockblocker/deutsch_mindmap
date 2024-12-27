@@ -1,1 +1,1 @@
-, [[Wort]], [[Ausdruck]]
+, [[Wort]], [[Ausdruck]], [[bezeichnen]]

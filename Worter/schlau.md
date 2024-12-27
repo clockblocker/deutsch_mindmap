@@ -1,1 +1,1 @@
-, [[überlegen]], [[blöd]]
+, [[überlegen]], [[blöd]], [[doof]]

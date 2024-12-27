@@ -1,2 +1,2 @@
 🛡 [[vertrauen]]
-, [[bekannt]]
+, [[bekannt]], [[fremd]]

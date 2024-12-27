@@ -3,6 +3,7 @@
 haben [[gewischt]]
 
 ---
+Jonas [[wischt]] sich den [[Schweiß]] von der [[Stirn]]. Er [[zittert]] am ganzen Körper. Seine Schauspielkollegin Lisa kommt zu ihm. 
 
 ---
 [[entwischen]] - [[ent]] = [[wischen]]

@@ -1,1 +1,1 @@
-[[normal]][[besonders]]
+[[normal]][[besonders]], [[fremd]]

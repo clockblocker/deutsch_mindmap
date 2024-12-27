@@ -1,1 +1,1 @@
-, [[schmerzend]]
+, [[schmerzend]], [[quälen]]

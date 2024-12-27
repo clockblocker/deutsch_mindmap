@@ -5,6 +5,8 @@ haben [[geholt]]
 ---
 SAM: Oh, hi, Nic - Ich will meine Hanteln [[holen]] …  
 
+Hoffentlich hilft ihr der Kaffee, den sie sich gerade im Café um die Ecke [[geholt]] hat.
+
 ---
 +[[ab]]  = [[abholen]]
 

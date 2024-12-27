@@ -1,1 +1,1 @@
-, [[weiterziehen]], [[abbiegen]]
+, [[weiterziehen]], [[abbiegen]], [[weitermachen]]

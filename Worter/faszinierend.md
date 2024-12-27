@@ -1,1 +1,1 @@
-, [[interessant]], [[erstaunlich]]
+, [[interessant]], [[erstaunlich]], [[langweilig]]

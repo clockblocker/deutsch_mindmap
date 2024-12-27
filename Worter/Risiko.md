@@ -1,1 +1,1 @@
-, [[Gefahr]]
+, [[Gefahr]], [[Abenteuer]]

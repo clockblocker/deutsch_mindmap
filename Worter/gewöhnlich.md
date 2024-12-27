@@ -1,1 +1,1 @@
-[[täglich]][[normal]][[besonders]], [[erstaunlich]], [[Unglaublich]], [[durchschnittliches]], [[selten]]
+[[täglich]][[normal]][[besonders]], [[erstaunlich]], [[Unglaublich]], [[durchschnittliches]], [[selten]], [[fremd]]

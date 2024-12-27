@@ -1,6 +1,7 @@
 🔳 das [[Loch]], [lɔx]
 die [[Löcher]]
 
+[[binden]]
 
 ---
 , [[Schlüsselloch]]
@@ -8,6 +9,9 @@ die [[Löcher]]
 Durch das [[Loch]], das Katara in den Eisberg gehauen hat, strömt ein Lichtstrahl in den Himmel.
 
 Aang findet jedoch ein [[Loch]] in der Decke.
+
+„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Rückwand]] [[bohren]]. 
+
 
 ---
 Synonyme:

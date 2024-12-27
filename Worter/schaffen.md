@@ -10,6 +10,12 @@ SAM: Nic, du hast es [[geschafft]]! Heute Berlin … morgen Hollywood!
 
 Alex und Daniel sind deshalb sehr nervös, sie wollen die Prüfung unbedingt [[schaffen]]. 
 
+Greta [[versteht]] die Ängste ihrer Schwester gut. 
+„Es bringt [[überhaupt]] nichts, nervös zu sein“, sagt sie. 
+„Ich drücke dir die Daumen. Du [[schaffst]] das alles.“ 
+
+Aber wie [[schafft]] man es, über seinen eigenen [[Schatten]] zu springen?
+
 ---
 Synonyme: [[erschaffen]], [[kreieren]], [[produzieren]], [[bewältigen]], [[bewerkstelligen]]
 Antonyme: [[scheitern]], [[aufgeben]], [[versagen]]
@@ -34,3 +40,4 @@ Morpheme: [[schaf]][[en]]
 
 Partizip I: [[schaffend]], Partizip II: [[geschaffen]]
 [[schaffen]] - keine Vorsilbe = [[schaffen]]
+, [[gelingen]]

@@ -5,6 +5,9 @@ Heute tragen nur noch wenige Menschen Hüte. [[Trotzdem]] gibt es viele Leute, d
 
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
+Manche Menschen legen sich [[Gurken]] auf die Augen, um etwas für ihre [[Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden.
+
+
 ---
 Synonyme: [[dennoch]], [[nichtsdestotrotz]], [[gleichwohl]], [[ungeachtet]], [[unbeachtet]]
 Antonyme: [[deswegen]], [[deshalb]], [[folglich]]
@@ -35,3 +38,4 @@ Stilistische Nuancen:
 
 
  [[deshalb]], [[bald]], [[obwohl]], [[soweit]]
+, [[immerhin]]

@@ -1,1 +1,1 @@
-, [[vertrauen]], [[glaub]]
+, [[vertrauen]], [[glaub]], [[entschließen]]

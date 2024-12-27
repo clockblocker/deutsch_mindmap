@@ -32,4 +32,4 @@ Partizip I: [[umgebend]], Partizip II: [[umgeben]]
 
 [[umgeben]] - [[um]] = [[geben]], 
 
-[[Um sie herum]], [[s1 e1]]
+[[Um sie herum]], [[s1 e1]], [[Umgebung]]

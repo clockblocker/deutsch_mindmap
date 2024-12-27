@@ -60,4 +60,4 @@ to wake up
 ---
 
 **Morphems of only infinitive:**  
-- [[Worter/Konjunktion/Positionen/auf]][[wachen]], [[wecken]]
+- [[Worter/Konjunktion/Positionen/auf]][[wachen]], [[wecken]], [[verschlafen]]

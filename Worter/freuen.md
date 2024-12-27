@@ -16,6 +16,11 @@ Es gibt viele Arten, sich zu [[freuen]]. Man kann laut lachen oder schreien.
 
 „Na, du [[freust]] dich ja wie ein Schneekönig. Was ist denn passiert?“, fragt der Nachbar. 
 
+Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Erfolg]]!“ sagen oder jemandem die Daumen [[drücken]]. Ob es hilft? [[Immerhin]]: Wer [[freut]] sich nicht darüber, dass an ihn [[gedacht]] wird?
+
+Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[einsetzen]]. Und [[darüber]] [[freuen]] sich die [[wenigsten]].
+
+
 ---
 Synonyme: [[erfreuen]], [[beglücken]], [[entzücken]], [[erheitern]], [[ergötzen]]
 Antonyme: [[betrüben]], [[trauern]], [[bekümmern]], [[niedergeschlagen sein]]

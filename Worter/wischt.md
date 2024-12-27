@@ -1,1 +1,1 @@
-, [[wischen]]
+, [[wischen]], [[Stirn]], [[zittern]]

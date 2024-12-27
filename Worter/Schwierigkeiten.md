@@ -1,1 +1,2 @@
 , [[Sorgen]]
+🤔🔴 die [[Schwierigkeit]]

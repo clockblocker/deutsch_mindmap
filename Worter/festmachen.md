@@ -1,1 +1,1 @@
-, [[schnallen]]
+, [[schnallen]], [[zusammenschrauben]], [[entschließen]]

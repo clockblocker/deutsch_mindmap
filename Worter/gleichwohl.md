@@ -1,1 +1,1 @@
-, [[obwohl]], [[trotzdem]]
+, [[obwohl]], [[trotzdem]], [[immerhin]], [[dennoch]]

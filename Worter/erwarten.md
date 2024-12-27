@@ -1,1 +1,1 @@
-[[Überraschen]], [[Verlangen]], [[verwundern]], [[wundern]], [[warten]]
+[[Überraschen]], [[Verlangen]], [[verwundern]], [[wundern]], [[warten]], [[entgegenfiebern]]

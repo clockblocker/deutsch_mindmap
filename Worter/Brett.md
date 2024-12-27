@@ -1,9 +1,10 @@
 🟢 das [[Brett]], [ˈbʀɛt]
 die [[Bretter]]
 
-
 ---
 SASCHA: Nein - das hier ist [[Brett]] Nr. 1.  
+
+„Wir müssen erst diese [[Bretter]] hier [[zusammenschrauben]]“, sagt Dennis und greift nach den [[Schrauben]]. 
 
 
 ---

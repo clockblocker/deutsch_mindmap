@@ -9,8 +9,8 @@ Synonyme: [[schenken]], [[überreichen]], [[aushändigen]], [[liefern]], [[ertei
 Antonyme: [[nehmen]], [[empfangen]], [[bekommen]], [[beanspruchen]]
 
 ---
-[[aufgeben]] - [[auf]] = [[geben]]
-[[umgeben]] - [[um]] = [[geben]], 
+[[aufgeben]] - [[auf]] = [[geben]] / to give up, to abandon
+[[umgeben]] - [[um]] = [[geben]] / surround 
 
 
 ---

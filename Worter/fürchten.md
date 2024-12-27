@@ -9,6 +9,10 @@ haben [[gefürchtet]]
 *und schießen will’s aus dem Gewehr.*  
 *Der Jäger aber [[fürcht]] sich sehr.*  
 
+---
+[[befürchten]] - [[be]] = [[fürchten]] / to fear, to be afraid of
+
+
 
 ---
 Synonyme: [[befürchten]], [[scheuen]], [[bangen]], [[sich ängstigen]], [[zittern]], [[zagen]]

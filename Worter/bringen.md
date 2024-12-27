@@ -1,6 +1,4 @@
-🎁 [[bringen]]  
-[[brachte]]  
-haben [[gebracht]]
+🎁 [[bringen]], [[brachte]], haben [[gebracht]]
 
 ---
 - Er hat unsere Milch [[zurückgebracht]]
@@ -14,6 +12,7 @@ haben [[gebracht]]
 [[beibringen]] - [[bei]] = [[bringen]]        // teach
 [[nachbringen]] - [[nach]] = [[bringen]]  // fetch, add
 [[hinbringen]] - [[hin]] = [[bringen]]         // to bring (to a place)
+[[verbringen]] - [[ver]] = [[bringen]]         // to spend (time)
 
 ---
 Synonyme: [[liefern]], [[transportieren]], [[mitbringen]], [[herbeibringen]], [[überreichen]]

@@ -1,8 +1,10 @@
 🔴 die [[Speise]]
 die [[Speisen]]
 
-Beispiele:
-- 🔴 die [[Speisekarte]]
+---
+🔴 die [[Speisekarte]]
+
+Ob Bratwurst, Weißwurst oder Frikadelle: [[Manche]] [[Speisen]] schmecken mit Senf einfach besser. 
 
 ---
 Synonyme:

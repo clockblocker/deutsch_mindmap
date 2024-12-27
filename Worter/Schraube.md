@@ -1,12 +1,10 @@
 🔵 der [[Schraube]]
 die [[Schrauben]]
 
-Beispiele:
-
-- Die [[Schraube]] ist locker.
-- Ich muss die [[Schraube]] festziehen.
-- Es gibt viele verschiedene [[Schrauben]] in der Werkstatt.
+---
 - ANNA: Schrauben festziehen. Fast fertig! 
+
+„Wir müssen erst diese [[Bretter]] hier [[zusammenschrauben]]“, sagt Dennis und greift nach den [[Schrauben]]. 
 
 ---
 Synonyme:
@@ -21,4 +19,4 @@ Morphems:
 [[Schraub]][[Worter/e]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[zusammenschrauben]]

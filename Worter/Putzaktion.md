@@ -1,1 +1,1 @@
-[[Reinigung]]
+[[Reinigung]], [[putzen]]

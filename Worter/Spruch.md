@@ -1,1 +1,1 @@
-, [[Satz]], [[Redensart]]
+, [[Satz]], [[Redensart]], [[Sprichwort]]

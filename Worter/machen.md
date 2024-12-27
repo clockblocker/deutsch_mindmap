@@ -48,4 +48,4 @@ Morpheme: [[mach]][[en]]
 Partizip I: [[machend]], Partizip II: [[gemacht]]
 
 +[[frei]] = [[freimachen]]
-, [[tun]], [[Sorgen]], [[anmachen]], [[mitmachen]]
+, [[tun]], [[Sorgen]], [[anmachen]], [[mitmachen]], [[weitermachen]]

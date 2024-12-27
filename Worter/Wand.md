@@ -23,4 +23,4 @@ Alle Formen:
 | Nominative  | die Wand          | die Wände        |
 | Accusative  | die Wand          | die Wände        |
 | Dative      | der Wand          | den Wänden       |
-| Genitive    | der Wand          | der Wände        |
+| Genitive    | der Wand          | der Wände        |, [[Rückwand]]

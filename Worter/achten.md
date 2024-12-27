@@ -3,9 +3,14 @@
 haben [[geachtet]]
 
 ---
-_Aang achtet jedoch nur auf sie und kracht mitten im Flug in Sokkas Wachturm._
+_Aang [[achtet]] jedoch nur auf sie und kracht mitten im Flug in Sokkas Wachturm._
 
 in [[Acht]]
+
+Aber alle machen so weiter, wie sie begonnen haben. Niemand [[achtet]] darauf, was die anderen tun. 
+
+Ohne auf ihre [[Umgebung]] zu [[achten]], läuft sie [[weiter]] –, bis sie ein lautes [[Quietschen]] hört. Carola blickt hoch: Sie steht mitten auf der Straße, neben ihr hat ein Auto eine [[Vollbremsung]] gemacht. 
+
 
 ---
 Synonyme: [[respektieren]], [[schätzen]], [[würdigen]], [[beachten]], [[ehren]]
@@ -32,4 +37,4 @@ Morpheme: [[acht]][[en]]
 Partizip I: [[achtend]], Partizip II: [[geachtet]]
 , [[Sorgen]]
 
-, [[zuhören]]
+, [[zuhören]], [[Umgebung]], [[quietschen]]

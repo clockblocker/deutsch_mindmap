@@ -1,1 +1,1 @@
-, [[Lehrling]]
+, [[Lehrling]], [[gelingen]]

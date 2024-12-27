@@ -72,4 +72,4 @@ long, lengthy
 Tags: 
 #Adjective [[lang]]
 
-#Antonyms: [[kurz]][[speziellen]], [[Verlangen]], [[klein]]
+#Antonyms: [[kurz]][[speziellen]], [[Verlangen]], [[klein]], [[langweilen]], [[langweilig]]

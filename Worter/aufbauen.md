@@ -9,6 +9,9 @@ SASCHA: Hast du in deinem [[leben]] schon mal ein Regal [[aufgebaut]]?
 
 AN: NADJA / VON: ANNA Ja, Sam [[aufbauen|baut]] noch immer das Regal auf.  
 
+Katie hat sich einen neuen Kleiderschrank gekauft. Er ist sehr groß, und es ist nicht leicht, ihn aufzubauen. 
+
+
 ---
 Synonyme: [[konstruieren]], [[errichten]], [[erbauen]], [[erstellen]], [[zusammensetzen]], [[hinstellen]]
 Antonyme: [[abbrechen]], [[zerbrechen]], [[zerstören]], [[abbauen]]
@@ -32,7 +35,7 @@ Morpheme: [[auf]][[bau]][[en]]
 | Ihr | [[baut auf]] | [[bautet auf]] | [[baut auf]] | [[bauet auf]] | [[bautet auf]] |
 | Sie | [[bauen auf]] | [[bauten auf]] | [[bauen Sie auf]] | [[bauen auf]] | [[bauten auf]] |
 
-Partizip I: [[aufbauend]], Partizip II: [[aufgebaut]]
+Partizip I: [[aufbauend]], Partizip II: [[aufgebaut]], [[aufzubauen]]
 
 [[aufbauen]] - [[auf]] = [[bauen]]
 , [[Extra 8]], [[abreißen]], [[aufstellen]], [[stellen]], [[umwerfen]], [[abnehmen]]

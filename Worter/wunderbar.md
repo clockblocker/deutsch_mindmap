@@ -1,1 +1,1 @@
-, [[toll]], [[einfachfantastisch]], [[jämmerlich]], [[furchtbar]], [[schlimm]]
+, [[toll]], [[einfachfantastisch]], [[jämmerlich]], [[furchtbar]], [[schlimm]], [[schrecklich]]

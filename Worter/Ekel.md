@@ -18,4 +18,4 @@ Morphems:
 [[Ekel]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[widern]]

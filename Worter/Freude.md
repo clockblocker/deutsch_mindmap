@@ -1,10 +1,11 @@
 🔴 die [[Freude]]
 die [[Freuden]]
 
-Beispiele:
-- [[Freude]] ist langsam [[Spaß]] 
-- 
-- 
+---
+[[Freude]] ist langsam [[Spaß]] 
+
+Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
+
 
 ---
 Synonyme:

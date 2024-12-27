@@ -3,8 +3,7 @@
 haben [[bestanden]]
 
 ---
--
--
+Natürlich [[besteht]] Gloria die Führerscheinprüfung. Zu ihrer Schwester sagt sie: „Danke, dass du mir die Daumen gedrückt hast. Das hat mir wirklich geholfen!“
 
 ---
 Synonyme: [[fortdauern]], [[dauerhaft sein]], [[vorhanden sein]], [[existieren]], [[zutreffen]]
@@ -31,4 +30,4 @@ Morpheme: [[be]][[steh]][[en]]
 
 Partizip I: [[bestehend]], Partizip II: [[bestanden]]
 
-[[bestehen]] - [[be]] = [[stehen]], [[dauern]], [[umentscheiden]], [[verzichten]]
+[[bestehen]] - [[be]] = [[stehen]], [[dauern]], [[umentscheiden]], [[verzichten]], [[Führerscheinprüfung]]

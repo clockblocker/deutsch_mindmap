@@ -6,6 +6,10 @@ haben [[geatmet]]
 *Und das [[Atmen]] fällt mir ach so schwer*  
 
 ---
+[[durchatmen]] - [[durch]] = [[atmen]] / to take a deep breath
+
+
+---
 Synonyme: [[einatmen]], [[ausatmen]], [[schnaufen]], [[keuchen]], [[hecheln]]
 Antonyme: [[würgen]], [[ersticken]], [[verhungern]]
 

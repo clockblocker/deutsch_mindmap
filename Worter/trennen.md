@@ -7,6 +7,8 @@ CHARLOTTE: Nun müsst ihr die Eier [[trennen]] - in zwei Schalen.
 
  *Im [[Geist]] [[getrennt]] (getrennt, getrennt, getrennt, getrennt)*  
 
+„Aber das war jetzt das letzte Mal! Ich [[verbiete]] dir, [[jemals]] wieder ins Casino zu gehen. Denn wenn dich das Glück irgendwann im [[Stich]] lässt, [[trenne]] ich mich von dir.“
+
 ---
 Synonyme: [[scheiden]], [[absondern]], [[abgrenzen]], [[abtrennen]], [[entzweien]]
 Antonyme: [[zusammenfügen]], [[vereinen]], [[verbinden]], [[verknüpfen]], [[zusammenhalten]]
@@ -31,4 +33,4 @@ Morpheme: [[trenn]][[en]]
 
 Partizip I: [[trennend]], Partizip II: [[getrennt]]
 
-[[trennen]] - [[trenn]] = [[en]][[vermischen]], [[vergleichen]], [[anschließen]], [[heiraten]], [[trauen]], [[gesellen]], [[brechen]], [[auflösen]], [[lösen]], [[zusammenstellen]], [[flechten]], [[begleiten]], [[kleben]], [[versammeln]], [[mitteln]], [[antrauen]]
+[[trennen]] - [[trenn]] = [[en]][[vermischen]], 

@@ -1,1 +1,1 @@
-, [[Problem]]
+, [[Problem]], [[Schwierigkeit]]

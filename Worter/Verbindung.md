@@ -1,1 +1,1 @@
-, [[Abstand]], [[Beziehung]]
+, [[Abstand]], [[Beziehung]], [[binden]], [[zusammenschrauben]]

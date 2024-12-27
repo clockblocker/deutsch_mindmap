@@ -5,6 +5,9 @@ haben [[überwunden]]
 ---
 Wenn du eine Bändigerin sein willst, musst du deine Angst [[überwinden]].
 
+Lisa [[schüttelt]] den Kopf: „Das ist doch [[Quatsch]]. Du kannst das, du musst nur endlich mal über deinen eigenen [[Schatten]] springen!“ Jonas nickt. Lisa hat recht. Er muss sich endlich einmal [[überwinden]].
+
+
 ---
 Synonyme: [[bewältigen]], [[meistern]], [[besiegen]], [[bezwingen]], [[durchbrechen]]
 Antonyme: [[unterliegen]], [[scheitern]], [[aufgeben]]

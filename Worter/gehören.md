@@ -10,6 +10,9 @@ mach es so wie ich - und der Job [[gehört]] dir.
 
 So [[gehört]] es heute zu jedem Partygespräch, eine Meinung über Kunst zu haben und zeitgenössische [[Künstler]] wie Neo Rauch zu kennen.
 
+Alfred [[gehört]] zu den Menschen, die immer den Kick suchen. Er braucht Abenteuer und Aufregung, weil er sich sonst schnell langweilt. Dazu passt auch sein Hobby: das Glücksspiel. 
+
+
 
 ---
 Synonyme: [[besitzen]], [[zustehen]], [[zukommen]], [[zueigen sein]], [[zufallen]]

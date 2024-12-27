@@ -8,6 +8,8 @@
 
 Auch [[manche]] Menschen müssen ein dickes Fell haben, um sich zu schützen.
 
+Ob Bratwurst, Weißwurst oder Frikadelle: Manche Speisen schmecken mit Senf einfach besser.
+
 ---
 Synonyme: [[gewisse]], [[einige]], [[bestimmte]], [[etliche]], [[verschiedene]]
 Antonyme: [[keine]], [[keine einzige]], [[niemand]], [[niemals]]

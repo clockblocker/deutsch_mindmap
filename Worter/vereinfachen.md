@@ -1,1 +1,1 @@
-[[arrangieren]], [[erleichtern]], [[leichtern]]
+[[arrangieren]], [[erleichtern]], [[leichtern]], [[Schwierigkeit]]

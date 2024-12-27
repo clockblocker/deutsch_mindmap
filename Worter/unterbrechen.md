@@ -33,3 +33,4 @@ Partizip I: [[unterbrechend]], Partizip II: [[unterbrochen]]
 [[unterbrechen]] - [[unter]] = [[brechen]]
 
 [[stören]], [[bestehen]], [[losschießen]]
+, [[verbringen]]

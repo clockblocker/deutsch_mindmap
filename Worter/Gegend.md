@@ -1,1 +1,1 @@
-, [[Hals]], [[Landschaft]], [[Wohngegend]]
+, [[Hals]], [[Landschaft]], [[Wohngegend]], [[Umgebung]]

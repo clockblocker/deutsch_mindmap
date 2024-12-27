@@ -33,4 +33,4 @@ Tags:
 ---
 
 Morphems:
-[[selts]][[am]]
+[[selts]][[am]], [[fremd]]

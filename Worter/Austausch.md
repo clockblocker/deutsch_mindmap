@@ -1,1 +1,1 @@
-[[handel]], [[Gespräch]]
+[[handel]], [[Gespräch]], [[Diskussion]]

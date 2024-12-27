@@ -14,6 +14,10 @@ Endlich hängt das Bild an der Wand. Aber ist das Wohnzimmer [[überhaupt]] der 
 
 Nach 15 Minuten [[redete]] der Schauspieler immer noch [[ohne Punkt und Komma]] über seinen neuen Film, [[ohne]] dass Jenny [[überhaupt]] eine Frage stellen konnte. 
 
+Greta [[versteht]] die Ängste ihrer Schwester gut. 
+„Es bringt [[überhaupt]] nichts, nervös zu sein“, sagt sie. 
+„Ich drücke dir die Daumen. Du [[schaffst]] das alles.“ 
+
 
 ---
 Synonyme: [[grundsätzlich]], [[generell]], [[im Allgemeinen]], [[insgesamt]], [[vollkommen]]

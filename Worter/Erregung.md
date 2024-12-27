@@ -1,1 +1,1 @@
-, [[aufregen]], [[aufgeregt]]
+, [[aufregen]], [[aufgeregt]], [[Aufregung]]

@@ -1,1 +1,1 @@
-, [[kaufen]]
+, [[kaufen]], [[befürchten]]

@@ -12,6 +12,7 @@ SAM: Gee … danke. Sascha ist wirklich [[nett]] heute!
 
 NIC: Na ja, sie ist ja ganz [[nett]] …  
 
+[[Eigentlich]] wollen Tanja, Hans und Carmen einen [[netten]] Nachmittag bei Kaffee und Kuchen [[verbringen]], aber es kommt anders: Tanja und ihr Freund Hans [[anfangen|fangen]] mal wieder einen Streit an. 
  
 
 ---

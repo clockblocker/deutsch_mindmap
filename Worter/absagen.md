@@ -1,1 +1,1 @@
-, [[bestellt]], [[abmachen]]
+, [[bestellt]], [[abmachen]], [[wünschen]]

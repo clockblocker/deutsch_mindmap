@@ -1,1 +1,1 @@
-[[rund]], [[kontinuierlich]]
+[[rund]], [[kontinuierlich]], [[regelmäßig]]

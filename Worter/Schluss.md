@@ -4,9 +4,9 @@ die [[Schlüsse]]
 ---
 Jetzt ist [[Schluss]]. Genug gespielt. Katara, denk dran, du hast Pflichten.
 
-Beispiele:
-- Muss [[Schluss]] machen! [[Bis bald]]! 
-- zum [[Schluss]] das Eiweiß zur Schokolade geben
+Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]. 
+
+
 ---
 
 Synonyms:
@@ -27,4 +27,4 @@ end, conclusion
 ---
 
 **Morphems of only infinitive:**
-- [[Schluss]]
+- [[Schluss]], [[entgegenfiebern]]

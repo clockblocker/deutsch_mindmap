@@ -1,1 +1,1 @@
-[[setzen]][[hinlegen]], [[hinstellen]], [[aufstellen]], [[stellen]], [[stecken]], [[Bestecken]]
+[[setzen]][[hinlegen]], [[hinstellen]], [[aufstellen]], [[stellen]], [[stecken]], [[Bestecken]], [[einsetzen]]

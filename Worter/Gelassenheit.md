@@ -1,1 +1,1 @@
-[[Ruhe]], [[Ruh]], [[Frieden]]
+[[Ruhe]], [[Ruh]], [[Frieden]], [[geduld]]

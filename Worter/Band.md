@@ -1,1 +1,1 @@
-, [[kette]], [[Gürtel]]
+, [[kette]], [[Gürtel]], [[binden]]

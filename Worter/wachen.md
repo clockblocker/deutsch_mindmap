@@ -3,6 +3,9 @@
 haben [[gewacht]]
 
 ---
+Carola ist auf dem Weg zur Uni. Um halb neun hat sie eine wichtige Prüfung, aber so richtig [[wach]] ist sie noch nicht.
+
+---
 [[erwachen]] - [[er]] = [[wachen]]
 
 ---

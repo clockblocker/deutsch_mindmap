@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Mistes]], [[Mist]], [[Miste]], [[Misten]]
 
 ---
 #Substantiv #Maskulin
-'''
+''', [[Quatsch]]

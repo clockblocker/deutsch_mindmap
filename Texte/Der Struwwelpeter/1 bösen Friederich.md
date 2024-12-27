@@ -10,7 +10,7 @@ Er [[schlug]] den [[Stuhl]] und [[Vogel]] [[tot]],
 die [[Katzen]] [[litten]] [[große Not]].  
 
 [[arger]]
-
+w
 Und höre [[nur]], [[wie]] [[bös]] er war:  
 Er [[peitschen|peitschte]] seine Gretchen [[gar]]!
 

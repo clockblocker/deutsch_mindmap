@@ -1,14 +1,11 @@
 🟢 das [[stück]]
 die [[Stücke]]
 
+---
 SEXY VOICE: Nun … willst du ein [[stück]] [[vom]] Paradies probieren?  
 
+Gleich ist es 20 Uhr. Der [[Theatersaal]] ist voll, das [[Stück]] ist [[ausverkauft]]. 
 
-Beispiele:
-
-- Ich möchte ein [[stück]] Kuchen.
-- Er nahm ein kleines [[stück]] Schokolade.
-- Sie schenkte ihm ein [[stück]] ihres Herzens.
 
 ---
 Synonyme:

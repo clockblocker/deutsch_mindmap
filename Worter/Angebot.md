@@ -19,4 +19,4 @@ Morphems:
 #Substantiv #Neuter
 
 
-, [[Auswahl]]
+, [[Auswahl]], [[anbieten]]

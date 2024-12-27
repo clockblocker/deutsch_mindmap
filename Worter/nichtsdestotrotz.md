@@ -1,1 +1,1 @@
-, [[trotzdem]]
+, [[trotzdem]], [[dennoch]]

@@ -2,6 +2,7 @@
 die [[Stiche]]
 
 ---
+„Aber das war jetzt das letzte Mal! Ich [[verbiete]] dir, [[jemals]] wieder ins Casino zu gehen. Denn wenn dich das Glück irgendwann im [[Stich]] lässt, [[trenne]] ich mich von dir.“
 
 ---
 Synonyme:

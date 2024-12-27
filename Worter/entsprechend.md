@@ -1,1 +1,1 @@
-, [[derselben]], [[gleich]], [[solche]]
+, [[derselben]], [[gleich]], [[solche]], [[entgegen]]

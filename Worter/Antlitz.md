@@ -1,1 +1,1 @@
-, [[Gesicht]], [[Angesicht]]
+, [[Gesicht]], [[Angesicht]], [[Stirn]]
