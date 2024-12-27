@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md",
+                "file": "Worter/management_scripts/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extra 1"
-            }
-          },
-          {
-            "id": "22b66b6b5ec72a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/b2 Das sagt man so!/Seinen Senf dazugeben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seinen Senf dazugeben"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Seinen Senf dazugeben.md"
+                "file": "Worter/management_scripts/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Seinen Senf dazugeben"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -180,34 +165,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "22b66b6b5ec72a34",
+  "active": "36a3e236c705777f",
   "lastOpenFiles": [
-    "angehen.md",
-    "Worter/Herangehensweise.md",
-    "Worter/Vorgehen.md",
-    "Worter/Angang.md",
-    "Worter/anzugehen.md",
-    "Worter/angehend.md",
-    "Worter/ginget an.md",
-    "Worter/gehet an.md",
-    "Worter/gingt an.md",
-    "Worter/gingen an.md",
-    "Worter/gehen an.md",
-    "Worter/geht an.md",
-    "Worter/gingest an.md",
-    "Worter/gehest an.md",
-    "Worter/geh an.md",
-    "Worter/gingst an.md",
-    "Worter/gehst an.md",
-    "Worter/ginge an.md",
-    "Worter/gehe an.md",
-    "Worter/in Angriff nehmen.md",
-    "Worter/angegangen.md",
-    "Worter/ging an.md",
-    "Worter/angehen.md",
     "Texte/b2 Das sagt man so!/Seinen Senf dazugeben.md",
-    "Worter/verliert.md",
-    "Worter/verlieren.md",
+    "Worter/management_scripts/Untitled.md",
+    "Worter/management_scripts",
+    "Worter/Untitled",
+    "Worter/a/allerletztes.md",
+    "Worter/a/allerletzteren.md",
+    "Worter/a/allerletzter.md",
+    "Worter/a/allerletzten.md",
+    "Worter/a/allerletztem.md",
+    "Worter/a/allerletzte.md",
+    "Worter/a/allerletzeres.md",
+    "Worter/a/allerletzeren.md",
+    "Worter/a/allerletzerem.md",
+    "Worter/a/allerletzener.md",
+    "Worter/a/allerletzen.md",
+    "Worter/a/allerdings.md",
+    "Worter/a/aller.md",
+    "Worter/a/allenthalben.md",
+    "Worter/a/allen.md",
+    "Worter/a/allem.md",
+    "Worter/a/alleinsten.md",
+    "Worter/a/alleinste.md",
+    "Worter/a/alleinlassen.md",
+    "Worter/a/alleinig.md",
+    "Worter/a/alleiner.md",
+    "Worter/a/Allein.md",
+    "Worter/a/Alle.md",
+    "Worter/a/All.md",
+    "Worter/a",
     "Texte/HPMOR",
     "Texte/b2 Das sagt man so!",
     "Texte/b1",
@@ -225,9 +213,6 @@
     "Anhänge/Pasted image 20240910194810.png",
     "Anhänge/Pasted image 20240910194805.png",
     "Anhänge/Pasted image 20240910194743.png",
-    "Lektionen/Logo/w1",
-    "Lektionen/Logo",
-    "Lektionen/Phonetik/Material",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
