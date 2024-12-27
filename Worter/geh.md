@@ -1,2 +1,2 @@
 Inf: [[gehen]]
-[[untergehen]][[weggehen]], [[ausgehen]], [[aufgehen]], [[vergehen]], [[zugehen]], [[rangehen]], [[vorhergehen]]
+[[untergehen]][[weggehen]], [[ausgehen]], [[aufgehen]], [[vergehen]], [[zugehen]], [[rangehen]], [[vorhergehen]], [[angehen]]

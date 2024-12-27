@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Problems]], [[Probleme]], [[Problemen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Sache]]

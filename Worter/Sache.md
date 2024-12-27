@@ -1,41 +1,29 @@
-das [[Ding]]
+🔴 die [[Sache]]
+die [[Sachen]]
 
-die [[Sache]]
-
-
-Singular: die [[Sache]]
-Plural: die [[Sachen]]
-
+---
 Ich wasche [[sogar]] all deine Sachen! 
 
+ Als die beiden nach zehn Minuten immer noch streiten, [[verliert]] sie die [[Geduld]]: 
+ „Also, ich möchte mich ja nicht [[einmischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“
 
-Beispiele:
-- Die [[Sache]] ist wichtig. (The matter is important.)
-- Ich habe eine [[Sache]] für dich. (I have something for you.)
-- Die [[Sache]] gehört mir. (The item belongs to me.)
-- Die Details der [[Sache]] sind vertraulich. (The details of the matter are confidential.)
-
-- Die [[Sachen]] liegen auf dem Tisch. (The things are on the table.)
-- Wir müssen die [[Sachen]] aufräumen. (We need to tidy up the things.)
-- Die [[Sachen]] sind im Koffer. (The items are in the suitcase.)
-- Die Qualität der [[Sachen]] ist gut. (The quality of the things is good.)
 
 ---
-Translation:
-thing, item, matter
+Synonyme:
+- [[Ding]], [[Angelegenheit]], [[Gegenstand]], [[Thema]], [[Problem]]
 
 ---
-
-#Substantiv
-#Feminine
+thing, matter, issue
 
 ---
+[[Sach]][[e]]
 
-Alle Formen:
+---
+Case: Singular, Plural  
+Nominative: die [[Sache]], die [[Sachen]]  
+Accusative: die [[Sache]], die [[Sachen]]  
+Genitive: der [[Sache]], der [[Sachen]]  
+Dative: der [[Sache]], den [[Sachen]]  
 
-| Case       | Singular  | Plural     |
-| ---------- | --------- | ---------- |
-| Nominative | die Sache | die Sachen |
-| Accusative | die Sache | die Sachen |
-| Dative     | der Sache | den Sachen |
-| Genitive   | der Sache | der Sachen |
+---
+[[sachlich]], [[Sachverhalt]], [[Sachkenntnis]], [[sachgemäß]], [[Sachbearbeiter]]

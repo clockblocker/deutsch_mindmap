@@ -36,4 +36,4 @@ Morpheme: [[scheide]][[Worter/n]]
 
 Partizip I: [[scheidend]], Partizip II: [[geschieden]]
 
-[[scheiden]] - [[scheide]] = [[Worter/n]][[vermischen]], [[heiraten]], [[trauen]], [[entscheiden]], [[antrauen]]
+[[scheiden]] - [[scheide]] = [[Worter/n]][[vermischen]], [[heiraten]], [[trauen]], [[entscheiden]], [[antrauen]], [[mischen]]

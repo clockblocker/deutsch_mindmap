@@ -31,4 +31,7 @@ Morpheme: [[ver]][[misch]][[en]]
 
 Partizip I: [[vermischend]], Partizip II: [[vermischt]]
 
-[[vermischen]] - [[ver]] = [[mischen]][[Quirlen]][[verquirlen]]
+[[vermischen]] - [[ver]] = [[mischen]] //  to mix, to blend, to combine
+
+
+[[Quirlen]][[verquirlen]]

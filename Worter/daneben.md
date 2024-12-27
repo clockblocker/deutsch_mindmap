@@ -2,6 +2,8 @@
 
 ---
   Mutti, hier in der Küche steht eine offene Flasche Wein, und ein Glas steht [[daneben]]
+
+ Während die zwei streiten, sitzt Carmen daneben und versucht, ruhig zu bleiben. 
 		
 ---
 

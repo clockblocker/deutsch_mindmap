@@ -1,1 +1,1 @@
-[[vermischen]], [[sortieren]]
+[[vermischen]], [[sortieren]], [[mischen]]
