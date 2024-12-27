@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md",
+                "file": "Worter/steif.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extra 1"
+              "title": "steif"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Skripte/extra/Extra 1.md"
+                "file": "Worter/steif.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Extra 1"
+              "title": "Outline of steif"
             }
           }
         ],
@@ -167,6 +167,14 @@
   },
   "active": "36a3e236c705777f",
   "lastOpenFiles": [
+    "Worter/steigendere.md",
+    "Worter/steigendes.md",
+    "Worter/steigendster.md",
+    "Worter/steiger.md",
+    "Worter/aufdecken.md",
+    "Worter/aufdrehen.md",
+    "Worter/argwöhnisch.md",
+    "Texte/Skripte/extra/Extra 1.md",
     "Worter/management_scripts/move_files.sh",
     "Worter/Z",
     "Worter/Y",
@@ -177,7 +185,6 @@
     "Worter/T",
     "Worter/S",
     "Worter/R",
-    "Worter/Q",
     "Worter/management_scripts/Untitled.md",
     "Worter/a/anwesendsten.md",
     "Texte/b2 Das sagt man so!/Seinen Senf dazugeben.md",
@@ -196,13 +203,6 @@
     "Worter/a/aller.md",
     "Worter/a/allenthalben.md",
     "Worter/a/allen.md",
-    "Worter/a/allem.md",
-    "Worter/a/alleinsten.md",
-    "Worter/a/alleinste.md",
-    "Worter/a/alleinlassen.md",
-    "Worter/a/alleinig.md",
-    "Worter/a/alleiner.md",
-    "Worter/a/Allein.md",
     "Anhänge/Pasted image 20241112104051.png",
     "Anhänge/Pasted image 20240915204253.png",
     "Anhänge/Pasted image 20240915204246.png",

@@ -6,8 +6,9 @@ for letter in {A..Z}; do
   mkdir -p "./$letter"
   
   # Move files starting with the current letter (case-insensitive)
-  mv -v ./"$letter"* ./"$letter"/ 2>/dev/null
-  mv -v ./"${letter,,}"* ./"$letter"/ 2>/dev/null
+  shopt -s nocaseglob
+  mv -v "$letter"* ./"$letter"/ 2>/dev/null
+  shopt -u nocaseglob
 done
 
 echo "Files moved to corresponding folders based on their starting letter!"
