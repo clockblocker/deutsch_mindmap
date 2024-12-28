@@ -5,6 +5,8 @@ haben [[angehört]]
 ---
 Und manche Menschen [[hören]] [[sich]] dabei fast so [[an]] wie ein Vogel
 
+Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
+
 ---
 Synonyme: [[zuhören]], [[vernehmen]], [[horchen]], [[lauschen]], [[hinhören]]
 Antonyme: [[ignorieren]], [[überhören]], [[nicht zuhören]], [[abschalten]]

@@ -3,7 +3,9 @@
 ---
 [[Hilfreiche]] Tipps finden Sie unter "Zustellung [[vorbereiten]]".
 
-Gloria hat morgen [[Führerscheinprüfung]]. Sie ist gut [[vorbereitet]], hat aber [[dennoch]] Angst. 
+Gloria hat morgen [[Worter/Führerscheinprüfung]]. Sie ist gut [[vorbereitet]], hat aber [[dennoch]] Angst. 
+
+Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
 
 ---
 Synonyme: [[planen]], [[organisieren]], [[arrangieren]], [[einrichten]], [[ausarbeiten]]

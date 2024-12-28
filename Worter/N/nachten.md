@@ -1,1 +1,1 @@
-, [[übernachten]], [[Weihnachten]]
+, [[übernachten]], [[Worter/Weihnachten]]

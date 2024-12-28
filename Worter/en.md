@@ -1,1 +1,1 @@
-, [[spucken]], [[bestrafen]], [[brüllen]]
+, [[spucken 1]], [[bestrafen 1]], [[brüllen]], [[eignen 1]], [[aufstehen]], [[anhören]], [[beißen]], [[vorhersagen]], [[sagen]], [[zugeworfen]], [[überzeugen 1]], [[zeugen]], [[leisten 1]], [[schaden]], [[eingehen 1]], [[gehen]]

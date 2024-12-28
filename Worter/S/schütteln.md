@@ -30,4 +30,4 @@ Partizip II: [[geschüttelt]]
 Zu+infinifive: [[zuschütteln]]
 
 ---
-[[Schütteln]], [[Schüttler]], [[Schüttelsieb]], [[Schüttelreim]], [[Schüttelfrost]], [[Handschütteln]], [[Kopfschütteln]], [[verständnislos]]
+[[Schütteln]], [[Schüttler]], [[Schüttelsieb]], [[Schüttelreim]], [[Schüttelfrost]], [[Handschütteln]], [[Kopfschütteln]], [[Worter/verständnislos]]

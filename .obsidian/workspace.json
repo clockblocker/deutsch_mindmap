@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "enttäuscht.md",
+                "file": "Worter/enttäuscht.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,26 +27,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Alle.md",
+                "file": "Worter/angeboten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alle"
+              "title": "angeboten"
             }
           },
           {
-            "id": "9b80e4aba0dda48f",
+            "id": "5b7cef9fc6e9e770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Jemanden auf die Palme bringen.md",
+                "file": "Worter/zugeworfen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jemanden auf die Palme bringen"
+              "title": "zugeworfen"
+            }
+          },
+          {
+            "id": "9fa0b4077ee5ad4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/B/beißen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "beißen"
+            }
+          },
+          {
+            "id": "7cfa45a0ec483d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/eignen 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eignen 1"
             }
           }
         ],
@@ -167,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Alle.md"
+                "file": "Worter/angeboten.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Alle"
+              "title": "Outline of angeboten"
             }
           }
         ],
@@ -194,34 +222,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "36a3e236c705777f",
+  "active": "d0dd1351b59a3225",
   "lastOpenFiles": [
-    "Texte/b2 Das sagt man so!/Jemanden auf die Palme bringen.md",
-    "Texte/b2 Das sagt man so!/Alle.md",
-    "Texte/b2 Das sagt man so!/Mit jemandem ist nicht gut Kirschen essen.md",
-    "brüllt.md",
-    "Worter/B/brüllen.md",
-    "Worter/rufen.md",
-    "Worter/lachen.md",
-    "Worter/Brüllerei.md",
-    "Worter/Brüller.md",
-    "Worter/Gebrüll.md",
-    "Worter/zubrüllen.md",
-    "Worter/brüllend.md",
-    "Worter/brüllet.md",
-    "Worter/brülltet.md",
-    "Worter/brüllten.md",
-    "Worter/brüllt.md",
-    "Worter/brüllest.md",
-    "Worter/brülltest.md",
-    "Worter/brüllst.md",
-    "Worter/brülle.md",
-    "Worter/brüll.md",
-    "Worter/wispern.md",
-    "Worter/murmeln.md",
-    "Worter/flüstern.md",
-    "Worter/blöken.md",
-    "Worter/bömbeln.md",
+    "Worter/zusammenschrauben.md",
+    "Texte/b2 Das sagt man so!/Jemandem Honig um den Bart schmieren.md",
+    "Worter/E/eigentlich.md",
+    "Worter/eingehen 1.md",
+    "Worter/Risiken.md",
+    "Worter/R/Risiko.md",
+    "Worter/gehen.md",
+    "Worter/G/ging.md",
+    "Worter/Weggang.md",
+    "Worter/Spaziergang.md",
+    "Worter/Fußgänger.md",
+    "Worter/Gehweg.md",
+    "Worter/Gänger.md",
+    "Worter/Gang.md",
+    "Worter/zu gehen.md",
+    "Worter/gehend.md",
+    "Worter/gehet.md",
+    "Worter/ginget.md",
+    "Worter/gingen.md",
+    "Worter/geht.md",
+    "Worter/gehest.md",
+    "Worter/gingest.md",
+    "Worter/gehst.md",
+    "Worter/ginge.md",
+    "Worter/gehe.md",
+    "Worter/verharren.md",
     "Worter/management_scripts/move_files.sh",
     "Worter/Z",
     "Worter/Y",

@@ -1,1 +1,1 @@
-, [[krallen]], [[abwarten]], [[einmischen]]
+, [[krallen]], [[abwarten]], [[Worter/einmischen]]

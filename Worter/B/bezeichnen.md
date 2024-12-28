@@ -1,7 +1,7 @@
-🏷️ [[bezeichnen]] | [[bezeichnete]], haben [[bezeichnet]]
+🏷️ [[bezeichnen]] | [[bezeichnete]], haben [[Worter/bezeichnet]]
 
 ---
-Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
+Will man jemanden [[beleidigen]], [[Worter/bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
 
 ---
 Synonyme: [[nennen]], [[benennen]], [[betiteln]], [[charakterisieren]], [[definieren]]
@@ -19,12 +19,12 @@ to designate, to label, to describe
 Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
 Ich: [[bezeichne]], [[bezeichnete]], -, [[bezeichne]], [[bezeichnete]]  
 Du: [[bezeichnest]], [[bezeichnetest]], [[bezeichne]], [[bezeichnest]], [[bezeichnetest]]  
-Er/sie/es: [[bezeichnet]], [[bezeichnete]], -, [[bezeichne]], [[bezeichnete]]  
+Er/sie/es: [[Worter/bezeichnet]], [[bezeichnete]], -, [[bezeichne]], [[bezeichnete]]  
 Wir: [[bezeichnen]], [[bezeichneten]], -, [[bezeichnen]], [[bezeichneten]]  
-Ihr: [[bezeichnet]], [[bezeichnetet]], [[bezeichnet]], [[bezeichnet]], [[bezeichnetet]]  
+Ihr: [[Worter/bezeichnet]], [[bezeichnetet]], [[Worter/bezeichnet]], [[Worter/bezeichnet]], [[bezeichnetet]]  
 
 Partizip I: [[bezeichnend]], 
-Partizip II: [[bezeichnet]]
+Partizip II: [[Worter/bezeichnet]]
 Zu+infinitive: [[zu bezeichnen]]
 
 [[bezeichnen]] - [[be]] = [[zeichnen]]

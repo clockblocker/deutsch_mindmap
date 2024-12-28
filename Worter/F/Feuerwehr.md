@@ -1,1 +1,1 @@
-, [[Feuerwehr]], [[Eimer]], [[Fingernagel]]
+, [[Worter/Feuerwehr]], [[Worter/Eimer]], [[Worter/Fingernagel]]

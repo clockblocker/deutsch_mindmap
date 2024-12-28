@@ -5,7 +5,7 @@
 
 ---
 [[vermischen]] - [[ver]] = [[mischen]] //  to mix, to blend, to combine
-[[einmischen]] - [[ein]] = [[mischen]] // to interfere, to intervene, to mix in
+[[Worter/einmischen]] - [[ein]] = [[mischen]] // to interfere, to intervene, to mix in
 
 ---
 Synonyme: [[vermischen]], [[vermengen]], [[kombinieren]], [[durchmischen]], [[rühren]]

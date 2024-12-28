@@ -4,7 +4,7 @@
 Tom ist [[beleidigt]]: „Moment mal, ich habe das ganze [[Geschirr]] in die Küche gestellt.“ 
 Martin schaut in die Küche. [[Tatsächlich]]: Die ganze [[Spüle]] ist voller Teller, Gläser und Tassen – immer noch [[schmutzig]] natürlich. 
 
-Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
+Will man jemanden [[beleidigen]], [[Worter/bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
 
 
 ---

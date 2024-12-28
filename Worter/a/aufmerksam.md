@@ -1,1 +1,1 @@
-, [[zerstreut]], [[neugierig]], [[verständnislos]]
+, [[zerstreut]], [[neugierig]], [[Worter/verständnislos]]

@@ -4,7 +4,7 @@ die [[Schrauben]]
 ---
 - ANNA: Schrauben festziehen. Fast fertig! 
 
-„Wir müssen erst diese [[Bretter]] hier [[zusammenschrauben]]“, sagt Dennis und greift nach den [[Schrauben]]. 
+„Wir müssen erst diese [[Bretter]] hier [[Worter/zusammenschrauben]]“, sagt Dennis und greift nach den [[Schrauben]]. 
 
 ---
 Synonyme:
@@ -19,4 +19,4 @@ Morphems:
 [[Schraub]][[Worter/e]]
 
 ---
-#Substantiv #Feminin, [[zusammenschrauben]]
+#Substantiv #Feminin, [[Worter/zusammenschrauben]]

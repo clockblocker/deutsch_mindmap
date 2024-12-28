@@ -21,7 +21,7 @@ Nominative: [[prominent]], [[prominenter]], [[prominentester]]
 Accusative: [[prominenten]], [[prominenteren]], [[prominentesten]]  
 Genitive: [[prominenter]], [[prominenterer]], [[prominentester]]  
 Dative: [[prominentem]], [[prominenterem]], [[prominentestem]]  
-Feminine: [[prominente]], [[prominentere]], [[prominenteste]]  
+Feminine: [[Prominente]], [[prominentere]], [[prominenteste]]  
 Neuter: [[prominentes]], [[prominenteres]], [[prominentestes]]  
 Plural: [[prominenten]], [[prominenteren]], [[prominentesten]]  
 

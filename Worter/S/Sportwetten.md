@@ -1,1 +1,1 @@
-, [[Sportwetten]], [[entgegenfiebern]]
+, [[Worter/Sportwetten]], [[Worter/entgegenfiebern]]

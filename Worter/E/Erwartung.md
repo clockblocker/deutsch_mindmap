@@ -1,1 +1,1 @@
-, [[Hoffnung]], [[entgegenfiebern]]
+, [[Hoffnung]], [[Worter/entgegenfiebern]]

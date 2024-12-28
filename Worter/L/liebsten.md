@@ -7,6 +7,8 @@ Ist die [[Fernsehwerbung]] nicht toll?  Am [[liebsten]] mag ich …
 *So [[sprach]] sie ihren [[Liebsten]] [[an]]*  
 *Ob er es ihr steigen kann
 
+Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet 1]] zu sein
+
 ---
 Synonyme: 
 - [[favorit]], [[bevorzugt]], [[beliebt]], [[präferiert]], [[wichtigst]]

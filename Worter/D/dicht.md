@@ -1,1 +1,1 @@
-, [[locker]], [[licht]], [[fern]], [[nah]], [[Gedicht]]
+, [[locker]], [[licht]], [[fern]], [[nah]], [[Worter/Gedicht]]

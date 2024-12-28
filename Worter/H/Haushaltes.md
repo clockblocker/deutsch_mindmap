@@ -1,1 +1,1 @@
-, [[Haushalt]]
+, [[Worter/Haushalt]]

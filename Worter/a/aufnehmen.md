@@ -1,1 +1,1 @@
-[[hinlegen]], [[loswerden]], [[hineingezogen]], [[schleudern]], [[angehen]]
+[[hinlegen]], [[loswerden]], [[hineingezogen]], [[schleudern]], [[Worter/angehen]]

@@ -6,7 +6,7 @@ haben [[geatmet]]
 *Und das [[Atmen]] fällt mir ach so schwer*  
 
 ---
-[[durchatmen]] - [[durch]] = [[atmen]] / to take a deep breath
+[[Worter/durchatmen]] - [[durch]] = [[atmen]] / to take a deep breath
 
 
 ---

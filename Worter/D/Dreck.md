@@ -2,7 +2,7 @@
 die [[Drecke]]
 
 ---
- „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert]] Tanja. 
+ „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert 1]] Tanja. 
 
 
 ---

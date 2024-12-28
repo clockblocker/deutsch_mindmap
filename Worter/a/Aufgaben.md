@@ -2,7 +2,7 @@
 die [[Aufgaben]]
 
 ---
-Was ist, wenn der Prüfer einen schlechten Tag hat und sie mit schwierigen Aufgaben [[quält]]?
+Was ist, wenn der Prüfer einen schlechten Tag hat und sie mit schwierigen Aufgaben [[Worter/quält]]?
 
 
 ---

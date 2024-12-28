@@ -23,4 +23,4 @@ Dative: dem [[Sprichwort]], den [[Sprichwörtern]]
 
 ---
 , [[Redensart]]
-[[sprichwörtlich]], [[sprechen]]
+[[Worter/sprichwörtlich]], [[sprechen]]

@@ -1,7 +1,9 @@
-🗣️ [[erwidern]], [ɛɐ̯ˈviːdɐn] | [[erwiederte]], haben [[erwidert]]
+🗣️ [[erwidern]], [ɛɐ̯ˈviːdɐn] | [[erwiederte]], haben [[erwidert 1]]
 
 ---
- „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert]] Tanja. 
+ „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert 1]] Tanja. 
+
+Paul wirft einen Blick auf Lindas Schuhe: „Hast du die [[Wettervorhersage]] für heute nicht gehört? Es soll regnen!“ „Ich habe aber gerne [[nasse 1]] Füße“, [[erwidert 1]] Linda nun [[offensichtlich]] genervt.  
 
 ---
 Synonyme: [[antworten]], [[reagieren]], [[entgegnen]], [[zurückgeben]], [[konttern]]
@@ -24,7 +26,7 @@ Wir: [[erwidern]], [[erwiederten]], -, [[erwidern]], [[erwiederten]]
 Ihr: [[erwiedert]], [[erwiedertet]], [[erwiedert]], [[erwiedertet]], [[erwiedertet]]  
 
 Partizip I: [[erwiedernd]], 
-Partizip II: [[erwidert]]
+Partizip II: [[erwidert 1]]
 Zu+infinifive: [[zu erwidern]]
 
 [[erwidern]] - [[er]] = [[widern]] / to respond

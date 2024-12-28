@@ -10,7 +10,7 @@ Durch das [[Loch]], das Katara in den Eisberg gehauen hat, strömt ein Lichtstra
 
 Aang findet jedoch ein [[Loch]] in der Decke.
 
-„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Rückwand]] [[bohren]]. 
+„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Worter/Rückwand]] [[bohren]]. 
 
 
 ---

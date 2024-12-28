@@ -3,7 +3,7 @@
 ---
 
 ---
-[[vorbereiten]] - [[vor]] = [[bereiten]]
+[[vorbereiten]] - [[vor]] = [[bereiten]] / get ready
 
 
 ---

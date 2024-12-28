@@ -1,7 +1,7 @@
 🥶 [[zittern]], [ˈtsɪtɐn] | [[zitterte]], haben [[gezittert]]
 
 ---
-Jonas [[wischt]] sich den [[Schweiß]] von der [[Stirn]]. Er [[zittert]] am ganzen Körper. Seine Schauspielkollegin Lisa kommt zu ihm. 
+Jonas [[wischt]] sich den [[Worter/Schweiß]] von der [[Worter/Stirn]]. Er [[zittert]] am ganzen Körper. Seine Schauspielkollegin Lisa kommt zu ihm. 
 
 ---
 Synonyme: [[beben]], [[schaudern]], [[bebend]], [[erzittern]], [[vibrieren]] , [[fürchten]], [[zappeln]], [[zucken]]

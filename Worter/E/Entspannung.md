@@ -1,1 +1,1 @@
-[[Ruhe]], [[durchatmen]]
+[[Ruhe]], [[Worter/durchatmen]]

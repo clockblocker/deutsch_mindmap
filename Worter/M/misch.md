@@ -1,1 +1,1 @@
-[[vermischen]], [[einmischen]], [[mischen]]
+[[vermischen]], [[Worter/einmischen]], [[mischen]]

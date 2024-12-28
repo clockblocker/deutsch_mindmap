@@ -1,1 +1,1 @@
-, [[Sportwetten]]
+, [[Worter/Sportwetten]]

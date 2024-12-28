@@ -1,8 +1,8 @@
 🔵 der [[Kern]]
-die [[Kerne]]
+die [[Kerne 1]]
 
 ---
-Denn manche Leute sind so unfreundlich, dass sie einem die Wörter wie [[Kerne]] ins Gesicht [[spucken]]. Mit ihnen ist eben nicht gut Kirschen essen.
+Denn manche Leute sind so unfreundlich, dass sie einem die Wörter wie [[Kerne 1]] ins Gesicht [[spucken 1]]. Mit ihnen ist eben nicht gut Kirschen essen.
 
 [[kerngesund]]
 
@@ -18,9 +18,9 @@ core, nucleus, kernel, seed
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Kern]], die [[Kerne]]  
-Accusative: den [[Kern]], die [[Kerne]]  
-Genitive: des [[Kerns]] oder [[Kernes]], der [[Kerne]]  
+Nominative: der [[Kern]], die [[Kerne 1]]  
+Accusative: den [[Kern]], die [[Kerne 1]]  
+Genitive: des [[Kerns]] oder [[Kernes]], der [[Kerne 1]]  
 Dative: dem [[Kern]], den [[Kernen]] 
 
 ---

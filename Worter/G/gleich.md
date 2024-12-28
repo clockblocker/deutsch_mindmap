@@ -21,7 +21,7 @@ Wolfgang, sieh doch [[gleich]] mal nach ist [[gleich]] nur etwas [[anders]]
 *Doch was hilft’s? Zu [[gleicher]] Zeit*  
 *fallen Teller, Flasch und Brot.*  
 
-„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Rückwand]] [[bohren]]. 
+„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Worter/Rückwand]] [[bohren]]. 
 
 
 ---

@@ -10,9 +10,9 @@ Wie oft haben Sie schon auf den Fahrstuhl gewartet und [[während]] des Wartens 
 
 Seit Mutter gestorben ist, habe ich die ganze Arbeit im Lager erledigt, [[während]] du irgendwo Soldat gespielt hast!
 
-Carola sucht mit einer Hand nach ihrem Handy, [[während]] sie in der anderen den vollen [[Kaffeebecher]] balanciert. Hat sie das Handy mitgenommen? Irgendwo muss es doch sein! 
+Carola sucht mit einer Hand nach ihrem Handy, [[während]] sie in der anderen den vollen [[Worter/Kaffeebecher]] balanciert. Hat sie das Handy mitgenommen? Irgendwo muss es doch sein! 
 
-Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Haushalt]] [[kümmern]] muss.
+Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Worter/Haushalt]] [[kümmern]] muss.
 
 
 ---

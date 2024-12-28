@@ -1,1 +1,1 @@
-, [[Steuer]], [[überfahren]]
+, [[Worter/Steuer]], [[überfahren 1]]

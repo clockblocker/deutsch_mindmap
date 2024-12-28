@@ -14,6 +14,8 @@ Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstren
 
 Heute war sie [[besonders]] [[aufgeregt]], denn sie hatte einen Interviewtermin mit einem bekannten Schauspieler. Leider hatte sie nur 20 Minuten Zeit für das Interview. 
 
+Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet 1]] zu sein
+
 
 ---
 Synonyme: [[außergewöhnlich]], [[einzigartig]], [[hervorragend]], [[einmalig]], [[speziell]]

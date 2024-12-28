@@ -7,7 +7,7 @@
 *und [[schießen]] will’s aus dem Gewehr.*  
 *Der Jäger aber fürcht sich sehr.*  
 
-Nur wenigen [[gelingt]] es, sich von ihrem eigenen [[Schatten]] zu [[lösen]]: Lucky Luke zum Beispiel [[schießt]] schneller als er und Peter Pan sucht ihn. 
+Nur wenigen [[Worter/gelingt]] es, sich von ihrem eigenen [[Schatten]] zu [[lösen]]: Lucky Luke zum Beispiel [[schießt]] schneller als er und Peter Pan sucht ihn. 
 
 
 ---

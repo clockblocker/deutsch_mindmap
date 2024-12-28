@@ -1,1 +1,1 @@
-, [[Putzplan]], [[Sache]], [[einmischen]], [[mischen]]
+, [[Putzplan]], [[Sache]], [[Worter/einmischen]], [[mischen]]

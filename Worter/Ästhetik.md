@@ -1,1 +1,1 @@
-, [[Schönheit]]
+, [[Worter/Schönheit]]

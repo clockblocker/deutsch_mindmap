@@ -1,1 +1,1 @@
-, [[Führerscheinprüfung]], [[vorbereiten]], [[dennoch]]
+, [[Worter/Führerscheinprüfung]], [[vorbereiten]], [[dennoch]]

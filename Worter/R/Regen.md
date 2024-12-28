@@ -9,7 +9,7 @@ Sich [[Regen]] bring [[Segen]]
 
 ---
 Synonyme:
-- [[Niederschlag]], [[Wasser]], [[Nass]], [[Tropfen]]
+- [[Niederschlag]], [[Wasser]], [[nass]], [[Tropfen]]
 
 ---
 Übersetzung: rain

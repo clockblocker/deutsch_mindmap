@@ -1,1 +1,1 @@
-, [[Kaffeetaß]], [[Becher]], [[Kaffeebecher]]
+, [[Kaffeetaß]], [[Becher]], [[Worter/Kaffeebecher]]

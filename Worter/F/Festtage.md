@@ -1,1 +1,1 @@
-, [[Feiertage]], [[Weihnachten]]
+, [[Feiertage]], [[Worter/Weihnachten]]

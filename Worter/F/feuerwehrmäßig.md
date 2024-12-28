@@ -1,1 +1,1 @@
-, [[Feuerwehr]]
+, [[Worter/Feuerwehr]]

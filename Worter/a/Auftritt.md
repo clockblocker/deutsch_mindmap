@@ -1,1 +1,1 @@
-, [[Auftritt]], [[Hauptrolle]], [[auftreten]]
+, [[Worter/Auftritt]], [[Worter/Hauptrolle]], [[auftreten]]

@@ -1,1 +1,1 @@
-, [[losfahren]], [[einparken]]
+, [[losfahren]], [[Worter/einparken]]

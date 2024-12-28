@@ -1,7 +1,7 @@
 🌟 [[putzen]], [ˈpʊtsən] | [[putzte]], haben [[geputzt]]
 
 ---
- „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert]] Tanja. 
+ „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert 1]] Tanja. 
  
  „Ich [[putze]] doch! Wenn deine Freunde nicht [[dauernd]] Dreck machen würden, hätten wir das Problem nicht.“ 
 

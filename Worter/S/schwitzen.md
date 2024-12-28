@@ -1,1 +1,1 @@
-, [[fiebern]], [[Schweiß]]
+, [[Worter/fiebern]], [[Worter/Schweiß]]

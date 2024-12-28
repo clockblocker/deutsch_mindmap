@@ -1,7 +1,7 @@
 [[entgegen]], [ˈɛntˌɡeːɡən]
 
 ---
-[[entgegenfiebern]] - [[entgegen]] = [[fiebern]]
+[[Worter/entgegenfiebern]] - [[entgegen]] = [[Worter/fiebern]]
 
 ---
 Synonyme:
@@ -28,4 +28,4 @@ Example Sentences:
 Related Words:
 [[entgegenkommen]], [[entgegensetzen]], [[entgegenwirken]], [[entgegentreten]]
 
-, [[dagegen]], [[ebenfalls]], [[trotz]], [[wider]], [[entgegenfiebern]]
+, [[dagegen]], [[ebenfalls]], [[trotz]], [[wider]], [[Worter/entgegenfiebern]]

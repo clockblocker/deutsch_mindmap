@@ -1,1 +1,1 @@
-, [[Schreibtisch]]
+, [[Schreibtisch 1]]

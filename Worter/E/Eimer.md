@@ -1,1 +1,1 @@
-, [[Eimer]], [[Fingernagel]]
+, [[Worter/Eimer]], [[Worter/Fingernagel]]

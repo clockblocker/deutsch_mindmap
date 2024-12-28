@@ -5,6 +5,8 @@ haben [[geklettert]]
 ---
 _Langsam gehen Aang und Katara auf das Schiff zu, [[klettern]] hinein und laufen durch das Schiff._
 
+Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet 1]] zu sein
+
 ---
 [[hinaufklettern]] - [[hinauf]] = [[klettern]]
 

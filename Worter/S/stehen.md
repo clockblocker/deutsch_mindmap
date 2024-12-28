@@ -6,10 +6,11 @@ haben [[gestanden]]
 *[[stehen lassen|laß stehn]]! sonst brennst du lichterloh!"*
 
 ---
-[[überstehen]] - [[über]] = [[stehen]] // пере_жить
+[[aufstehen]] - [[auf]] = [[stehen]]          // встать
+[[überstehen]] - [[über]] = [[stehen]]     // пере_жить
 [[widerstehen]] - [[wider]] = [[stehen]] // противо_стоять
-[[verstehen]] - [[ver]] = [[stehen]] // understand
-[[bestehen]] - [[be]] = [[stehen]] // to exist, to consist of, to pass
+[[verstehen]] - [[ver]] = [[stehen]]         // understand
+[[bestehen]] - [[be]] = [[stehen]]           // to exist, to consist of, to pass
 stehen lassen // leave it be
 
 ---

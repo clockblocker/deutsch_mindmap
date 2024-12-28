@@ -11,7 +11,7 @@
 
 Moritz lacht laut. „Ich habe Vanessa einen Heiratsantrag gemacht. Und sie hat Ja gesagt“, [[ruft]] Moritz glücklich
 
-Neulich kommt er total [[aufgeregt]] nach Hause und [[ruft]]: „Barbara, stell dir vor, ich hatte heute beim Roulette fast alles verloren. Aber ich habe einfach [[weitergemacht]] und habe jetzt das [[Doppelte]] meines [[Einsatzes]] gewonnen!“ 
+Neulich kommt er total [[aufgeregt]] nach Hause und [[ruft]]: „Barbara, stell dir vor, ich hatte heute beim Roulette fast alles verloren. Aber ich habe einfach [[Worter/weitergemacht]] und habe jetzt das [[Doppelte]] meines [[Einsatzes]] gewonnen!“ 
 
 ---
 Synonyme: [[ausrufen]], [[schreien]], [[brüllen]], [[bellen]], [[verkünden]], [[herbeirufen]]

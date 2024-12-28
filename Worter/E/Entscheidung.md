@@ -1,1 +1,1 @@
-, [[Auswahl]], [[entschließen]]
+, [[Auswahl]], [[Worter/entschließen]]

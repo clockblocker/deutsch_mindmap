@@ -1,44 +1,31 @@
 [[bestimmt]]
-[[bestimmter]]
-[[am]] [[bestimmtesten]]
-
-nicht [[unbestimmt]]
 
 ---
 ANNA: Nic, Sam, ihr habt [[be]][[stimmt]] viel Spaß miteinander!
+
 NIC: … Der arme Computer. Wir haben [[bestimmt]] eintausend E-mails.  
 
----
+Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet 1]] zu sein
 
+---
 Synonyme:
-- [[sicher]], [[gewiss]], [[zweifellos]]
+- [[sicher]], [[gewiss]], [[definitiv]], [[zweifellos]], [[zwingend]]
 
 ---
-Beispiele:
-
-- Das ist eine [[Bestimmte]] Regel.
-- Er hat eine [[Bestimmte]] Meinung.
-- Sie hat das [[bestimmt]] gesagt.
-
-- Das ist eine [[bestimmtere]] Regel als die andere.
-- Er hat eine [[bestimmtere]] Meinung zu diesem Thema.
-- Sie hat das [[bestimmter]] gesagt als vorher.
-
-- Das ist die [[bestimmteste]] Regel im Buch.
-- Er hat die [[bestimmteste]] Meinung zu diesem Thema.
-- Sie hat das [[am bestimmtesten]] gesagt.
+certainly, definitely, surely
 
 ---
-**Übersetzung**:
-certain, definite
-
----
-
-Tags: 
-#Adjective
-
----
-Morphems:
 [[bestimmt]]
 
-, [[wohl]]
+---
+Form: Positive, Comparative, Superlative  
+Nominative: [[bestimmt]], [[bestimmter]], [[bestimmtester]]  
+Accusative: [[bestimmten]], [[bestimmteren]], [[bestimmtesten]]  
+Genitive: [[bestimmter]], [[bestimmterer]], [[bestimmtester]]  
+Dative: [[bestimmtem]], [[bestimmterem]], [[bestimmtestem]]  
+Feminine: [[bestimmte]], [[bestimmtere]], [[bestimmteste]]  
+Neuter: [[bestimmtes]], [[bestimmteres]], [[bestimmtestes]]  
+Plural: [[bestimmten]], [[bestimmteren]], [[bestimmtesten]]  
+
+---
+[[Bestimmtheit]], [[unbestimmt]], [[Bestimmung]]

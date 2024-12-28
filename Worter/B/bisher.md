@@ -9,7 +9,7 @@ Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. [[Außerdem]]
 
 Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird. 
 
- Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
+ Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[Worter/aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
 
 
 ---

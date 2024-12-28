@@ -1,1 +1,1 @@
-, [[bald]], [[zögern]], [[entschlossen]]
+, [[bald]], [[zögern]], [[Worter/entschlossen]]

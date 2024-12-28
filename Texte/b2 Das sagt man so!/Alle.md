@@ -30,7 +30,7 @@
 - [ ] [[Jemandem Honig um den Bart schmieren]]
 - [ ] [[Jemandem Löcher in den Bauch fragen]]
 - [ ] [[Jemandem rutscht das Herz in die Hose]] 
-- [ ] [[Jemanden auf die Palme bringen]]
+- [x] [[Jemanden auf die Palme bringen]]
 - [ ] [[Jemanden um den Finger wickeln]] 
 - [ ] [[Leben wie Gott in Frankreich]]
 - [ ] [[Liebe geht durch den Magen]] 

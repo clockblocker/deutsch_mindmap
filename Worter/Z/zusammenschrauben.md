@@ -1,1 +1,1 @@
-, [[zusammenschrauben]]
+, [[Worter/zusammenschrauben]]

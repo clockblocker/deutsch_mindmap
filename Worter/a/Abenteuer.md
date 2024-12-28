@@ -2,7 +2,7 @@
 die [[Abenteuer]]
 
 ---
-Alfred [[gehört]] zu den Menschen, die immer den [[Kick]] suchen. Er braucht [[Abenteuer]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
+Alfred [[gehört]] zu den Menschen, die immer den [[Worter/Kick]] suchen. Er braucht [[Abenteuer]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
 
 
 ---

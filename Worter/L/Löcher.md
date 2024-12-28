@@ -1,1 +1,1 @@
-, [[loch]], [[Rückwand]], [[bohren]]
+, [[loch]], [[Worter/Rückwand]], [[bohren]]

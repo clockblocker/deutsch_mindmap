@@ -3,7 +3,8 @@
 ---
 
 ---
-[[aufsagen]] - [[auf]] = [[sagen]] / to recite, to say out loud
+[[aufsagen]] - [[auf]] = [[sagen]]                / to recite
+[[vorhersagen]] - [[vor]] - [[her]] = [[sagen]] / forecast
 
 ---
 Synonyme: [[erzählen]], [[mitteilen]], [[berichten]], [[verkünden]], [[behaupten]]

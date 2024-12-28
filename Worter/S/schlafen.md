@@ -7,7 +7,7 @@ haben [[geschlafen]]
 *der Has ganz heimlich zu ihm lief*  
 
 ---
-[[verschlafen]] - [[ver]] = [[schlafen]] / проспать
+[[Worter/verschlafen]] - [[ver]] = [[schlafen]] / проспать
 
 ---
 Synonyme: [[ruhen]], [[dösen]], [[schlummern]], [[sich ausruhen]], [[sich erholen]]

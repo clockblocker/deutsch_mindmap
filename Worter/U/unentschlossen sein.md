@@ -1,1 +1,1 @@
-, [[entscheiden]], [[zögern]], [[entschließen]]
+, [[entscheiden]], [[zögern]], [[Worter/entschließen]]

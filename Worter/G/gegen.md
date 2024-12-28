@@ -3,7 +3,7 @@ Ich habe auch gar nichts [[gegen]] den Durst deines Einbrechers, aber ich habe [
 *Mann [[gegen]] Mann*  
 *Meine Haut gehört den Herren*  
 
- Wenn etwas brennt, kann man die [[Feuerwehr]] rufen oder einen [[Eimer]] Wasser holen. [[Gegen]] das Feuer unter den Fingernägeln hilft das aber nicht. 
+ Wenn etwas brennt, kann man die [[Worter/Feuerwehr]] rufen oder einen [[Worter/Eimer]] Wasser holen. [[Gegen]] das Feuer unter den Fingernägeln hilft das aber nicht. 
 
 
 ---

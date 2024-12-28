@@ -1,1 +1,1 @@
-, [[interessieren]], [[staunen]], [[entgegenfiebern]]
+, [[interessieren]], [[staunen]], [[Worter/entgegenfiebern]]

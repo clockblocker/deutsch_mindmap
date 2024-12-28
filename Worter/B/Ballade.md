@@ -1,1 +1,1 @@
-, [[Lied]], [[Gedicht]]
+, [[Lied]], [[Worter/Gedicht]]

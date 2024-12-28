@@ -26,4 +26,4 @@ becherartig, Becher-
 
 
 , [[Kaffeetaß]], [[Besteck]], [[Bestecken]]
-, [[eher]], [[Kaffeebecher]]
+, [[eher]], [[Worter/Kaffeebecher]]

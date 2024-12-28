@@ -18,14 +18,12 @@ Tom seufzt: „Okay, okay, die [[Chipstüte]] ist [[sowieso]] leer.“
 
 ---
 [[umwerfen]] - [[um]] = [[werfen]] / knock over
-[[zuwerfen]] - [[zu]] = [[werfen]] / throw
+[[wegwerfen]] - [[weg]] = [[werfen]]
+[[zuwerfen]] - [[zu]] = [[werfen]] / to throw / резко толкнуть 
 
 ---
 Synonyme: [[schleudern]], [[schmeißen]], [[stoßen]], [[abwerfen]], [[loslassen]]
 Antonyme: [[fangen]], [[aufheben]], [[halten]]
-
----
-[[wegwerfen]] - [[weg]] = [[werfen]]
 
 ---
 Übersetzung: to throw

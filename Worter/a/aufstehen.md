@@ -1,64 +1,34 @@
-🚶‍♂️[[aufstehen]]  
-[[stand auf|stand auf]]  
-sein [[aufgestanden]]
+🧗 [[aufstehen]] | [[stand auf|stand auf]], sein [[aufgestanden]]
 
 ---
+Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
 
 ---
-
-**Synonyme:**
-
-- [[erheben]], [[sich erheben]], [[hochkommen]]
+Synonyme: [[erheben]], [[aufwachen]], [[erwachen]], [[hochkommen]], [[sich erheben]]
+Antonyme: [[liegen bleiben]], [[schlafen]], [[sich hinlegen]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[stehe auf|stehe]] jeden Morgen um 6 Uhr auf.
-- Du [[stehst auf|stehst]] früh auf, um zu joggen.
-- Er [[steht auf|steht]] schnell auf, wenn der Wecker klingelt.
-- Es [[steht auf|steht]] von alleine auf.
-- Sie [[steht auf|steht]] auf, um Kaffee zu machen.
-- Wir [[stehen auf|stehen]] gemeinsam auf.
-- Ihr [[steht auf|steht]] immer zur gleichen Zeit auf.
-- Sie [[stehen auf|stehen]] spät auf am Wochenende.
+to get up, to rise
 
 ---
-
-**Übersetzung**:
-to get up, to stand up
-
----
- #Verb  #Trennbar
-
+[[auf]][[steh]][[en]]
+ 
 ---
 
-**Präteritum:**
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[stehe auf]], [[stand auf]], -, [[stehe auf]], [[stünde auf]]  
+Du: [[stehst auf]], [[standst auf]], [[steh auf]], [[stehest auf]], [[stündest auf]]  
+Er/sie/es: [[steht auf]], [[stand auf]], -, [[stehe auf]], [[stünde auf]]  
+Wir: [[stehen auf]], [[standen auf]], -, [[stehen auf]], [[ständen auf]]  
+Ihr: [[steht auf]], [[standet auf]], [[steht auf]], [[stehet auf]], [[ständet auf]]  
 
-- Ich [[stand auf|stand]] jeden Morgen um 6 Uhr auf.
-- Du [[standest auf|standest]] früh auf, um zu joggen.
-- Er [[stand auf|stand]] schnell auf, wenn der Wecker klingelt.
-- Es [[stand auf|stand]] von alleine auf.
-- Sie [[stand auf|stand]] auf, um Kaffee zu machen.
-- Wir [[standen auf|standen]] gemeinsam auf.
-- Ihr [[standet auf|standet]] immer zur gleichen Zeit auf.
-- Sie [[standen auf|standen]] spät auf am Wochenende.
+Partizip I: [[aufstehend]], 
+Partizip II: [[aufgestanden]]
+Zu+infinifive: [[aufzustehen]]
 
----
-
-**Imperativ:**
-
-- Ich [[stehe auf|stehe]] auf.
-- Du [[steh auf|stehe]] auf.
-- Er [[stehe auf|stehe]] auf.
-- Es [[steht auf|steht]] auf.
-- Sie [[stehe auf|stehe]] auf.
-- Wir [[stehen auf|stehen]] auf.
-- Ihr [[steht auf|steht]] auf.
-- Sie [[stehen auf|stehen]] auf.
+[[aufstehen]] - [[auf]] = [[stehen]]
 
 ---
+[[Aufstehen]], [[Aufsteher]], [[Aufstehzeit]], [[Morgenstunde]], [[Morgenroutine]]
 
-**Morphems of only infinitive:**  
-- [[Worter/Konjunktion/Positionen/auf]][[Stehen]]
-```​⬤[[erwachen]], [[fallen]], [[hocken]], [[zusammenbrechen]], [[sitzen]]
+[[erwachen]], [[fallen]], [[hocken]], [[zusammenbrechen]], [[sitzen]]

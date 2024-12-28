@@ -2,7 +2,7 @@ doof, [dʊʊf]
 nicht [[intelligent]], [[klug]]
 
 ---
-Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Haushalt]] [[kümmern]] muss.
+Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Worter/Haushalt]] [[kümmern]] muss.
 
 ---
 Synonyme: [[dumm]], [[blöd]], [[beschränkt]], [[einfältig]], [[naive]]

@@ -1,1 +1,1 @@
-, [[Schweiß]], [[Stirn]], [[zittern]]
+, [[Worter/Schweiß]], [[Worter/Stirn]], [[zittern]]

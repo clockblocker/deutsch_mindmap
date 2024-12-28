@@ -1,1 +1,1 @@
-, [[Stirn]]
+, [[Worter/Stirn]]

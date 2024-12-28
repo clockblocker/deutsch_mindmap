@@ -10,6 +10,8 @@
 
 Die Begrüßung läuft noch ganz gut: Miriam stellt ihn allen vor. Sie [[scheinen]] nett zu sein, aber ein längeres Gespräch entwickelt sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 
 
+Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet 1]] zu sein
+
 ---
 Synonyme: [[glänzen]], [[leuchten]], [[erstrahlen]], [[erglänzen]], [[funkeln]]
 Antonyme: [[verdunkeln]], [[verlöschen]], [[dunkel sein]], [[untergehen]]

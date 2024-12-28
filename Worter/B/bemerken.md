@@ -7,6 +7,7 @@ ANNA: Aber warum denn? Nic [[bemerkt]] mich gar nicht …
 
 SAM: Aber sie [[bemerkt]] mich gar nicht …  
 
+„Du solltest das Brot in dünnere [[Scheiben 1]] schneiden, sonst bleibt es im Toaster stecken“, [[bemerkt]] Paul. Linda [[beißt]] die Zähne zusammen. 
 
 
 ---

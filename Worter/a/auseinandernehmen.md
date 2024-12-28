@@ -1,1 +1,1 @@
-, [[hüllen]], [[zusammenstellen]], [[flechten]], [[zusammenschrauben]]
+, [[hüllen]], [[zusammenstellen]], [[flechten]], [[Worter/zusammenschrauben]]

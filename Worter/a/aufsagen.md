@@ -1,7 +1,7 @@
 📖 [[aufsagen]] | [[sagte auf|sagte auf]], haben [[aufgesagt]]
 
 ---
- Er ist sogar aufgeregt, wenn er an [[Weihnachten]] seinen Großeltern ein [[Gedicht]] [[aufsagt]]. Und jetzt soll er vor hunderten [[fremden]] Leuten eine Stunde lang auf der Bühne stehen? 
+ Er ist sogar aufgeregt, wenn er an [[Worter/Weihnachten]] seinen Großeltern ein [[Worter/Gedicht]] [[Worter/aufsagt]]. Und jetzt soll er vor hunderten [[fremden]] Leuten eine Stunde lang auf der Bühne stehen? 
 
 ---
 Synonyme: [[vortragen]], [[deklamieren]], [[rezitieren]], [[hersagen]], [[wiedergeben]]

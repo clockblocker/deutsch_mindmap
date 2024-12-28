@@ -1,1 +1,1 @@
-, [[Preis]], [[Steuer]]
+, [[Preis]], [[Worter/Steuer]]

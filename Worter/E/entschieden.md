@@ -1,1 +1,1 @@
-, [[entscheiden]], [[entschlossen]]
+, [[entscheiden]], [[Worter/entschlossen]]

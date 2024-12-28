@@ -1,1 +1,1 @@
-, [[Stirn]], [[zittern]]
+, [[Worter/Stirn]], [[zittern]]

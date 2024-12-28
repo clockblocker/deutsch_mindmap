@@ -1,1 +1,1 @@
-, [[gähnen]], [[verschlafen]]
+, [[gähnen]], [[Worter/verschlafen]]

@@ -1,1 +1,1 @@
-, [[Gedicht]], [[fremd]]
+, [[Worter/Gedicht]], [[fremd]]

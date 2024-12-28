@@ -48,4 +48,4 @@ Morpheme: [[ge]][[h]][[en]]
 Partizip I: [[gehend]], Partizip II: [[gegangen]]
 
 [[untergehen]], [[weggehen]], [[liegen]], [[ausgehen]], [[springen]], [[stehen]], [[rennen]], [[fliegen]], [[aufgehen]]
-, [[vergehen]], [[kommen]], [[wandeln]], [[trappeln]], [[zugehen]], [[rangehen]], [[vorhergehen]], [[angehen]]
+, [[vergehen]], [[kommen]], [[wandeln]], [[trappeln]], [[zugehen]], [[rangehen]], [[vorhergehen]], [[Worter/angehen]]

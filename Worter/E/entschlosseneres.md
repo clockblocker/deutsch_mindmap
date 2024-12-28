@@ -1,1 +1,1 @@
-, [[entschlossen]]
+, [[Worter/entschlossen]]
