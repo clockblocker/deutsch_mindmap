@@ -5,6 +5,8 @@ ANNA: Nadja, [[stell dir vor]]:  Sam spielt mit Spielzeug-Autos!
 
 Die Begrüßung läuft noch ganz gut: Miriam [[stellt]] ihn allen [[vor]]. Sie scheinen nett zu sein, aber ein längeres Gespräch entwickelt sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 
 
+Max ist mit seinem Kollegen auf dem Weg ins Büro. Heute wird sich ihr neuer Chef [[vorstellen]]. Als sie an ihrem [[Schreibtisch]] sitzen, kommt der neue Chef schon zur Tür herein. 
+
 [[Vorstellung]]
 
 ---

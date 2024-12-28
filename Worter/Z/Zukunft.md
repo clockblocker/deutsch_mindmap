@@ -2,7 +2,10 @@
 die [[Zukünfte]]
 
 ---
-Aber das sind auch alles Dinge, die ihn glücklich machen. Und auf die soll er in [[Zukunft]] verzichten?
+Aber das sind auch alles Dinge, die ihn glücklich machen. Und auf die soll er in [[Zukunft]] [[verzichten]]?
+
+„Sie sind beide zwei Minuten zu spät. In [[Zukunft]] wird es das nicht mehr geben!“, ruft er. Max und sein Kollege stehen sofort auf. 
+
 
 ---
 Synonyme:

@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
+            "id": "293c689812cfe425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "enttäuscht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "enttäuscht"
+            }
+          },
+          {
             "id": "36a3e236c705777f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/steif.md",
+                "file": "Texte/b2 Das sagt man so!/Alle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "steif"
+              "title": "Alle"
+            }
+          },
+          {
+            "id": "9b80e4aba0dda48f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 Das sagt man so!/Jemanden auf die Palme bringen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jemanden auf die Palme bringen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worter/steif.md"
+                "file": "Texte/b2 Das sagt man so!/Alle.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of steif"
+              "title": "Outline of Alle"
             }
           }
         ],
@@ -160,21 +189,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false
     }
   },
   "active": "36a3e236c705777f",
   "lastOpenFiles": [
-    "Worter/steigendere.md",
-    "Worter/steigendes.md",
-    "Worter/steigendster.md",
-    "Worter/steiger.md",
-    "Worter/aufdecken.md",
-    "Worter/aufdrehen.md",
-    "Worter/argwöhnisch.md",
-    "Texte/Skripte/extra/Extra 1.md",
+    "Texte/b2 Das sagt man so!/Jemanden auf die Palme bringen.md",
+    "Texte/b2 Das sagt man so!/Alle.md",
+    "Texte/b2 Das sagt man so!/Mit jemandem ist nicht gut Kirschen essen.md",
+    "brüllt.md",
+    "Worter/B/brüllen.md",
+    "Worter/rufen.md",
+    "Worter/lachen.md",
+    "Worter/Brüllerei.md",
+    "Worter/Brüller.md",
+    "Worter/Gebrüll.md",
+    "Worter/zubrüllen.md",
+    "Worter/brüllend.md",
+    "Worter/brüllet.md",
+    "Worter/brülltet.md",
+    "Worter/brüllten.md",
+    "Worter/brüllt.md",
+    "Worter/brüllest.md",
+    "Worter/brülltest.md",
+    "Worter/brüllst.md",
+    "Worter/brülle.md",
+    "Worter/brüll.md",
+    "Worter/wispern.md",
+    "Worter/murmeln.md",
+    "Worter/flüstern.md",
+    "Worter/blöken.md",
+    "Worter/bömbeln.md",
     "Worter/management_scripts/move_files.sh",
     "Worter/Z",
     "Worter/Y",
@@ -185,24 +232,6 @@
     "Worter/T",
     "Worter/S",
     "Worter/R",
-    "Worter/management_scripts/Untitled.md",
-    "Worter/a/anwesendsten.md",
-    "Texte/b2 Das sagt man so!/Seinen Senf dazugeben.md",
-    "Worter/a/allerletztes.md",
-    "Worter/a/allerletzteren.md",
-    "Worter/a/allerletzter.md",
-    "Worter/a/allerletzten.md",
-    "Worter/a/allerletztem.md",
-    "Worter/a/allerletzte.md",
-    "Worter/a/allerletzeres.md",
-    "Worter/a/allerletzeren.md",
-    "Worter/a/allerletzerem.md",
-    "Worter/a/allerletzener.md",
-    "Worter/a/allerletzen.md",
-    "Worter/a/allerdings.md",
-    "Worter/a/aller.md",
-    "Worter/a/allenthalben.md",
-    "Worter/a/allen.md",
     "Anhänge/Pasted image 20241112104051.png",
     "Anhänge/Pasted image 20240915204253.png",
     "Anhänge/Pasted image 20240915204246.png",
