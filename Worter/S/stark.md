@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[stark]]
+[[stark]], [[manchmal]]

@@ -59,4 +59,4 @@ to cook
 ---
 
 **Morphems of only infinitive:**
-- [[koch]][[en]], [[Backen]], [[brutzeln]]
+- [[koch]][[en]], [[Backen]], [[brutzeln]], [[manchmal]]
