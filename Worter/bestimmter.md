@@ -1,1 +1,1 @@
-, [[bestimmt]], [[eignen 1]], [[geeignet 1]]
+, [[bestimmt]], [[eignen]], [[geeignet 1]]

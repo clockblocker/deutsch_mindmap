@@ -1,1 +1,1 @@
-, [[eignen 1]], [[geeignet 1]], [[hervorragend]]
+, [[eignen]], [[geeignet 1]], [[hervorragend]]

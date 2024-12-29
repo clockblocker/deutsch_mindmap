@@ -2,7 +2,7 @@
 | ----------- | ---------------------- | --------------------- | -------------------- | --------------------- | -------------------- | ------------------- |
 | ab          | [[abstellen]]          | [[abstehen]]          | [[ablegen]]          |                       | [[ablegen]]          | [[absitzen]]        |
 | an          | [[anstellen]]          | [[anstehen]]          | [[anlegen]]          |                       |                      |                     |
-| auf         | [[aufstellen]]         | [[Worter/aufstehen]]         | [[auflegen]]         |                       |                      |                     |
+| auf         | [[aufstellen]]         | [[Worter/aufstehen]]  | [[auflegen]]         |                       |                      |                     |
 | aus         | [[ausstellen]]         | [[ausstehen]]         | [[auslegen]]         |                       | [[auslegen]]         | [[aussitzen]]       |
 | auseinander | [[auseinanderstellen]] | [[auseinanderstehen]] | [[auseinanderlegen]] | [[auseinanderliegen]] | [[auseinanderlegen]] |                     |
 | [[be]] u    | [[bestellen]]          | [[bestehen]]          | [[belegen]]          |                       | [[belegen]]          | [[besitzen]]        |

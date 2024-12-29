@@ -1,1 +1,1 @@
-, [[eignen 1]]
+, [[eignen]]

@@ -1,1 +1,1 @@
-, [[übermachen]]
+, [[Mehrheit]]

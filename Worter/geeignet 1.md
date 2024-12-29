@@ -1,4 +1,4 @@
-👌 [[geeignet 1]], [ɡəˈaɪ̯ɡnət] | 👌 [[eignen 1]]
+👌 [[geeignet 1]], [ɡəˈaɪ̯ɡnət] | 👌 [[eignen]]
 nicht [[ungeeignet]]
 
 ---

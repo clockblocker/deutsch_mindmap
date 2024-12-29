@@ -1,1 +1,1 @@
-, [[spucken 1]]
+, [[spucken]]

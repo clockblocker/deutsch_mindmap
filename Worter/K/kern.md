@@ -2,7 +2,7 @@
 die [[Kerne 1]]
 
 ---
-Denn manche Leute sind so unfreundlich, dass sie einem die Wörter wie [[Kerne 1]] ins Gesicht [[spucken 1]]. Mit ihnen ist eben nicht gut Kirschen essen.
+Denn manche Leute sind so unfreundlich, dass sie einem die Wörter wie [[Kerne 1]] ins Gesicht [[spucken]]. Mit ihnen ist eben nicht gut Kirschen essen.
 
 [[kerngesund]]
 
