@@ -34,4 +34,4 @@ Morpheme: [[rat]][[en]]
 | Sie | [[raten]] | [[rieten]] | [[raten Sie]] | [[raten]] | [[rieten]] |
 
 Partizip I: [[ratend]], Partizip II: [[geraten]]
-[[raten]] - [[rat]] = [[en]], [[vorschlagen]]
+[[raten]] - [[rat]] = [[en]], [[vorschlagen]], [[ablehnen]]

@@ -7,6 +7,9 @@ Aber er ist etwas besonderes, das merke ich. Er [[steckt]] voller Weisheit, ich 
 
 „Die [[stecken]] alle unter einer [[Decke]]“, sagt sein Kollege. [[Unter einer Decke stecken]]
 
+ Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
+
+
 ---
 [[bestecken]] - [[be]] = [[stecken]] / to insert, to stick in, to place
 

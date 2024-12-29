@@ -1,1 +1,1 @@
-, [[heben]], [[tragen]]
+, [[heben]], [[tragen]], [[lehnen]]

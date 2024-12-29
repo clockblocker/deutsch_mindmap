@@ -15,7 +15,7 @@ Antonyme:
 
 ---
 Morpheme:
-[[ab 1]][[stand]]
+[[ab]][[stand]]
 
 ---
 Einzigartige mögliche Formen: [[Abstands]], [[Abständen]], [[Abstände]], [[Abständen]]  

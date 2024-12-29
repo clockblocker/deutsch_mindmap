@@ -30,4 +30,4 @@ Morpheme: [[Worter/A/aus]][[such]][[en]]
 
 Partizip I: [[auswählend]], Partizip II: [[ausgesucht]]
 
-[[aussuchen]] - [[Worter/A/aus]] = [[suchen]]
+[[aussuchen]] - [[Worter/A/aus]] = [[suchen]], [[ablehnen]]

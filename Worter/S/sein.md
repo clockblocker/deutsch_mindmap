@@ -36,4 +36,4 @@ Morpheme:
 | Sie       | [[sind]] | [[waren]]   | [[seien Sie]] | [[seien]] | [[wären]]     |
 [[wär]]
 Partizip I: [[seiend]], Partizip II: [[gewesen]]
-'''
+''', [[manchmal]]

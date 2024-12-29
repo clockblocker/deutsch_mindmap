@@ -1,1 +1,1 @@
-, [[verdienen]]
+, [[verdienen]], [[Gewinn]]

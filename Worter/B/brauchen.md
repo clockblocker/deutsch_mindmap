@@ -37,4 +37,4 @@ Morpheme: [[brau]][[ch]][[en]]
 
 Partizip I: [[brauchend]], Partizip II: [[gebraucht]]
 
-[[brauchen]] - [[brau]] = [[ch]][[en]], [[Brauch]]
+[[brauchen]] - [[brau]] = [[ch]][[en]], [[Brauch]], [[ablehnen]]

@@ -1,1 +1,1 @@
-, [[tadeln]], [[auslachen]]
+, [[tadeln]], [[auslachen]], [[schmeicheln]]

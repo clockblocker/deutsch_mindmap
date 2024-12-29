@@ -33,3 +33,4 @@ Zu+infinifive: [[zu begrüßen]]
 
 
 , [[Grüßen]], [[Begrüßung]]
+, [[ablehnen]]

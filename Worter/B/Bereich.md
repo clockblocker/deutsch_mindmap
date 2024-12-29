@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bereichs]], [[Bereichen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Branche]], [[Nähe]]

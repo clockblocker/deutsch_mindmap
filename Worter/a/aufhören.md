@@ -1,1 +1,36 @@
-[[scheiden]][[bestehen]][[regnen]], [[anfangen]], [[dauern]], [[sein]], [[losschießen]], [[aufgehen]], [[Tropfen]], [[leben]], [[qualmen]], [[plempern]], [[weiterüben]], [[mitmachen]], [[weitermachen]], [[angehen 1]]
+🛑 [[aufhören]] | [[hörte auf|hörte auf]], haben [[aufgehört]]
+
+---
+Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können. „Stopp!“, ruft Jannis. „Du bekommst ja dein Budget. Und jetzt [[aufhören|hör]] auf, mir Honig um den Bart zu schmieren. Natürlich sehe ich die [[Vorteile]] selbst. Ich arbeite ja schon lange in dieser [[Branche]].“ 
+
+---
+Synonyme: [[enden]], [[stoppen]], [[beenden]], [[abbrechen]], [[pausieren]]
+Antonyme: [[beginnen]], [[starten]], [[fortfahren]], [[weitermachen]]
+
+---
+to stop, to cease, to end
+
+---
+[[auf]][[hör]][[en]]
+ 
+---
+
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[höre auf]], [[hörte auf]], -, [[höre auf]], [[hörte auf]]  
+Du: [[hörst auf]], [[hörtest auf]], [[hör auf]], [[hörest auf]], [[hörtest auf]]  
+Er/sie/es: [[hört auf]], [[hörte auf]], -, [[höre auf]], [[hörte auf]]  
+Wir: [[hören auf]], [[hörten auf]], -, [[hören auf]], [[hörten auf]]  
+Ihr: [[hört auf]], [[hörtet auf]], [[hört auf]], [[höret auf]], [[hörtet auf]]  
+
+Partizip I: [[aufhörend]], 
+Partizip II: [[aufgehört]]
+Zu+infinifive: [[aufzuhören]]
+
+[[aufhören]] - [[auf]] = [[hören]]
+
+---
+[[Aufhören]], [[Aufhörer]], [[Aufhörerin]], [[Aufhörpunkt]]
+
+
+[[scheiden]][[bestehen]][[regnen]], [[anfangen]], [[dauern]], [[sein]], [[losschießen]], [[aufgehen]], [[Tropfen]], [[leben]], [[qualmen]], [[plempern]], [[weiterüben]], [[mitmachen]], [[weitermachen]], [[angehen]]
+🛑 [[aufhören]]

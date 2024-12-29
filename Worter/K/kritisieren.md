@@ -1,1 +1,1 @@
-, [[danken]], [[tadeln]]
+, [[danken]], [[tadeln]], [[schmeicheln]]

@@ -13,7 +13,7 @@ Antonyme: [[zielen]], [[laden]], [[zurückhalten]]
 Übersetzung: to fire (a weapon), to shoot, to discharge
 
 ---
-Morpheme: [[ab 1]][[feuer]][[n]]
+Morpheme: [[ab]][[feuer]][[n]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[ab 1]][[feuer]][[n]]
 | Sie | [[feuern ab]] | [[feuerten ab]] | [[feuern Sie ab]] | [[feuern ab]] | [[feuerten ab]] |
 
 Partizip I: [[abfeuernd]], Partizip II: [[abgefeuert]]
-[[abfeuern]] - [[ab 1]] = [[feuern]]
+[[abfeuern]] - [[ab]] = [[feuern]]

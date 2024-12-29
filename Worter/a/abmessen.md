@@ -14,7 +14,7 @@ Antonyme: [[schätzen]], [[annehmen]], [[ungefähr]]
 Übersetzung: to measure, to gauge
 
 ---
-Morpheme: [[ab 1]][[mess]][[en]]
+Morpheme: [[ab]][[mess]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,5 +31,5 @@ Morpheme: [[ab 1]][[mess]][[en]]
 
 Partizip I: [[abmessend]], Partizip II: [[abgemessen]]
 
-[[abmessen]] - [[ab 1]] = [[messen]]
+[[abmessen]] - [[ab]] = [[messen]]
 ''', [[Extra 8]]

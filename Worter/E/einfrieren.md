@@ -1,1 +1,1 @@
-, [[zufrieren]], [[zucken]]
+, [[zufrieren]], [[zucken]], [[erfrieren]]

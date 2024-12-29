@@ -1,10 +1,13 @@
 **das [[Geschäft]]**
 **die [[Geschäfte]]**
 
-![[Pasted image 20240729134659.png]]
+
 
 ----
 Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein [[Geschäft]] läuft zurzeit nicht gut und sein Konto ist fast leer. 
+
+Jannis kenne das [[Geschäft]] ja besser als er, ein Mann mit seiner [[Erfahrung]] wisse ja, wie das ist. Mit etwas mehr Geld könne man neue Software kaufen und sich einen besseren Programmierer leisten. 
+
 
 ---
 

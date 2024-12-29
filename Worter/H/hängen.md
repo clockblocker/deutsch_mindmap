@@ -7,7 +7,7 @@ Ihre Frisur war aufgelöst und [[hing]] wie drei Pfund Wolle nach unten.
 
 ---
 [[einhängen]] - [[Worter/ein]] = [[hängen]] /  to hook up
-[[abhängen]] - [[ab 1]] = [[hängen]] / to depend on
+[[abhängen]] - [[ab]] = [[hängen]] / to depend on
 [[aufhängen]] - [[Worter/auf]] = [[hängen]] / to hang up
 
 

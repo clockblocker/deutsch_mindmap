@@ -1,1 +1,1 @@
-[[verlassen]]
+[[verlassen]], [[bedanken]], [[Entscheidung]]

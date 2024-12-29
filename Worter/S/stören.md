@@ -8,6 +8,9 @@ haben [[gestört]]
 
 Und sie [[stören]] die Konzentration auf die Tätigkeit, die wir gerade ausüben.-
 
+„Hör auf, mir [[Löcher]] in den [[Bauch]] [[Jemandem Löcher in den Bauch fragen|zu fragen]]! Ich muss arbeiten“, sagt sie streng. „Warum [[stört]] dich das?“, fragt Anna, „was arbeitest du?“ Die Mutter seufzt. Die kleine Anna ist nicht zu stoppen. Sie ist einfach zu [[neugierig]].
+
+
 ---
 Synonyme: [[belästigen]], [[beunruhigen]], [[beeinträchtigen]], [[unterbrechen]], [[irritieren]]
 Antonyme: [[lassen]], [[dulden]], [[erdulden]], [[erlauben]], [[ertragen]]

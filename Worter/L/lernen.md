@@ -30,4 +30,4 @@ Morpheme: [[lern]][[en]]
 
 Partizip I: [[lernend]], Partizip II: [[gelernt]]
 
-[[lernen]] - [[en]] = [[lern]]
+[[lernen]] - [[en]] = [[lern]], [[ablehnen]]

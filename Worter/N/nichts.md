@@ -3,4 +3,4 @@
 nothing
 
 
-[[Indefinitpronomen]][[Niemand]], [[sonst nichts]], [[angehen 1]]
+[[Indefinitpronomen]][[Niemand]], [[sonst nichts]], [[angehen]]

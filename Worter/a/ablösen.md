@@ -14,7 +14,7 @@ Antonyme: [[behalten]], [[festhalten]], [[bleiben]], [[verweilen]]
 Übersetzung: to replace, to succeed, to relieve
 
 ---
-Morpheme: [[ab 1]][[löse]][[n]]
+Morpheme: [[ab]][[löse]][[n]]
  #Verb  #Trennbar
  
 ---
@@ -30,5 +30,5 @@ Morpheme: [[ab 1]][[löse]][[n]]
 
 Partizip I: [[ablösend]], Partizip II: [[abgelöst]]
 
-[[ablösen]] - [[ab 1]] = [[lösen]]
+[[ablösen]] - [[ab]] = [[lösen]]
 , [[aufspießen]], [[kleben]]

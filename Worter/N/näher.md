@@ -1,2 +1,3 @@
 [[nächste]]
 , [[nah]], [[näherkommen]]
+, [[Nähe]]

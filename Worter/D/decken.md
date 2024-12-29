@@ -3,7 +3,7 @@
 haben [[gedeckt]]
 
 ---
-[[abdecken]] - [[ab 1]] = [[decken]] / shield, protect
+[[abdecken]] - [[ab]] = [[decken]] / shield, protect
 [[entdecken]] - [[ent]] = [[decken]], / uncover, find
 [[verdecken]] - [[ver]] = [[decken]]  / conceal, hide
 

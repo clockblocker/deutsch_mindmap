@@ -26,4 +26,4 @@ Dative: der [[Umgebung]], den [[Umgebungen]]
 [[umgeben]], [[umgebend]], [[umgebungsbewusst]], [[Umgebungsschutz]]
 
 , [[Szene]], [[Landschaft]], [[Umwelt]]
-, [[quietschen]]
+, [[quietschen]], [[Nähe]]

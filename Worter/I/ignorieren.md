@@ -1,1 +1,1 @@
-, [[anhören 1]], [[vorhersagen]]
+, [[anhören 1]], [[vorhersagen]], [[bitten]], [[bedanken]], [[betreffen]]

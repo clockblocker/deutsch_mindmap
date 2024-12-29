@@ -15,7 +15,7 @@ Ich [[nehme]] statt der Suppe einen Salat
 [[herausnehmen]] - [[heraus]] = [[nehmen]]     / remove 
 [[vornehmen]] - [[vor]] = [[nehmen]]                  / намереватсья 
 [[zunehmen]] - [[zu]] = [[nehmen]]                    / gain weight / набрать
-[[abnehmen]] - [[ab 1]] = [[nehmen]]                     /  to lose weight, to decrease, to take off
+[[abnehmen]] - [[ab]] = [[nehmen]]                     /  to lose weight, to decrease, to take off
 
 ---
 Synonyme: [[ergreifen]], [[greifen]], [[fassen]], [[erfassen]], [[entnehmen]]
@@ -45,3 +45,4 @@ Partizip I: [[nehmend]], Partizip II: [[genommen]], Zu infinitive: zu nehmen
 +[[heraus]] = [[herausnehmen]] / remove 
 +[[zu]] =  [[zunehmen]] / gain weight / набрать
 [[vornehmen]] - [[vor]] = [[nehmen]] / намереватсья 
+, [[ablehnen]]

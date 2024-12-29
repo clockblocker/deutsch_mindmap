@@ -30,4 +30,4 @@ Morpheme: [[nach]][[bring]][[en]]
 
 Partizip I: [[nachbringend]], Partizip II: [[nachgebracht]]
 
-[[nachbringen]] - [[nach]] = [[bringen]]
+[[nachbringen]] - [[nach]] = [[bringen]], [[ablehnen]]

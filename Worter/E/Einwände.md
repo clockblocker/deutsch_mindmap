@@ -1,0 +1,2 @@
+, [[eigentlich]]
+🤔 🔵 der [[Einwand]], [[herholen]]

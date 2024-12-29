@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[ab 1]][[send]][[er]]
+[[ab]][[send]][[er]]
 
 ---
 Einzigartige mögliche Formen: [[Absenders]], [[Absender]], [[Absender]], [[Absendern]]

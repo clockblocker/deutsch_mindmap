@@ -14,7 +14,7 @@ Antonyme: [[aufdecken]], [[entblößen]], [[freilegen]]
 Übersetzung: to cover, to shield, to protect
 
 ---
-Morpheme: [[ab 1]][[deck]][[en]]
+Morpheme: [[ab]][[deck]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -27,4 +27,4 @@ Morpheme: [[ab 1]][[deck]][[en]]
 | Sie | [[decken ab]] | [[deckten ab]] | [[decken Sie ab]] | [[decken ab]] | [[deckten ab]] |
 
 Partizip I: [[abdeckend]], Partizip II: [[abgedeckt]]
-[[abdecken]] - [[ab 1]] = [[decken]]
+[[abdecken]] - [[ab]] = [[decken]]

@@ -7,6 +7,9 @@ NIC: Edeltraut. Sascha! Bitte [[rette]] mich!
 
 Aber ich glaube fest daran, Aang kann diese Welt retten.
 
+Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können. „Stopp!“, ruft Jannis. „Du bekommst ja dein Budget. Und jetzt [[aufhören|hör]] auf, mir Honig um den Bart zu schmieren. Natürlich sehe ich die [[Vorteile]] selbst. Ich arbeite ja schon lange in dieser [[Branche]].“ 
+
+
 ---
 Synonyme: [[befreien]], [[beschützen]], [[bewahren]], [[schützen]], [[bergen]]
 Antonyme: [[Worter/aufgeben]], [[verlieren]], [[zerstören]]

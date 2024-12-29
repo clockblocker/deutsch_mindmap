@@ -1,1 +1,1 @@
-, [[loch]], [[Worter/Rückwand]], [[bohren]]
+🕳️ 🔵 der [[Loch]]

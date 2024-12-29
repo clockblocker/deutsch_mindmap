@@ -14,7 +14,7 @@ Sam, ich hab' super Nachrichten für dich – Kanal 9 [[sucht]] ein R
 ---
 [[versuchen]] - [[ver]] = [[suchen]]
 [[aussuchen]] - [[Worter/A/aus]] = [[suchen]]  / to choose, to select
-[[absuchen]] - [[ab 1]] =  [[suchen]]     / to search thoroughly
+[[absuchen]] - [[ab]] =  [[suchen]]     / to search thoroughly
 
 [[Ordnung]]
 

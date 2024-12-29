@@ -1,1 +1,1 @@
-, [[gesamt]]
+, [[gesamt]], [[ununterbrochen]]

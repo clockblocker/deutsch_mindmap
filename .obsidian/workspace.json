@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee3cd8c56273cfb2",
+            "id": "e7bad68ef2538fd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,77 +22,48 @@
             }
           },
           {
-            "id": "e2b34f0b12b289dd",
+            "id": "94dae77b0c6bbf6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Das Haar in der Suppe suchen.md",
+                "file": "Texte/b2 Das sagt man so!/Jemandem Löcher in den Bauch fragen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Haar in der Suppe suchen"
+              "title": "Jemandem Löcher in den Bauch fragen"
             }
           },
           {
-            "id": "9ad26bc18ed1b7c7",
+            "id": "27070d520933f77b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Auf Wolke sieben schweben.md",
+                "file": "Worter/Z/zufrieden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auf Wolke sieben schweben"
+              "title": "zufrieden"
             }
           },
           {
-            "id": "c0700ae527a6b8de",
+            "id": "f691c7bf44098d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/M/manchmal.md",
+                "file": "Worter/schmieren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manchmal"
-            }
-          },
-          {
-            "id": "e7bad68ef2538fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/manchmalig.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "manchmalig"
-            }
-          },
-          {
-            "id": "bb9a207c3be9e3b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/manchmal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "manchmal"
+              "title": "schmieren"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,11 +115,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 240.500732421875
+    "width": 200
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -237,32 +209,32 @@
   },
   "active": "e7bad68ef2538fd5",
   "lastOpenFiles": [
-    "Worter/M/manchmal.md",
-    "Worter/J/jhsgdjhfalgauo.md",
-    "Worter/M/manchmaligkeit.md",
-    "Worter/manchmalig.md",
-    "Texte/b2 Das sagt man so!/Auf Wolke sieben schweben.md",
-    "Texte/b2 Das sagt man so!/Das Haar in der Suppe suchen.md",
-    "Worter/S/sauer.md",
-    "Texte/b2 Das sagt man so!/Alle.md",
-    "Worter/R/regnen.md",
-    "Worter/S/stark.md",
-    "Worter/M/manchmalig.md",
-    "Worter/M/manch.md",
-    "Worter/Z/zuweilen.md",
-    "Worter/H/hin und wieder.md",
-    "Texte/b2 Das sagt man so!/Alles unter einen Hut bringen.md",
-    "Lektionen/Aleksa/18.06.md",
-    "Lektionen/Aleksa/19.03.md",
-    "Lektionen/Aleksa/20.06.md",
-    "Lektionen/Bekker/Bekker Einheit 3.md",
-    "Lektionen/Bekker/Bekker Einheit 6.md",
-    "Lektionen/Bekker/Bekker Einheit 2.md",
-    "Lektionen/Bekker/Bekker Einheit 1.md",
-    "Lektionen/Bekker/Bekker.md",
-    "Lektionen/Dieter/06.07.md",
-    "Lektionen/Dieter/01.12.md",
-    "Lektionen/Intensiv/A2.1 Kursbuch/2.1 K Einheit 4.md",
+    "Texte/b2 Das sagt man so!/Jemandem Löcher in den Bauch fragen.md",
+    "Worter/L/Löcher.md",
+    "Worter/L/loch.md",
+    "Worter/B/Bauch.md",
+    "Worter/S/stört.md",
+    "Worter/S/stören.md",
+    "Worter/N/neugierig.md",
+    "Worter/Fragerei.md",
+    "Worter/F/Frager.md",
+    "Worter/E/erei.md",
+    "Worter/I/Interrogation.md",
+    "Worter/V/Verhör.md",
+    "Worter/F/Fragereien.md",
+    "Worter/N/Nähe.md",
+    "Worter/G/genähert.md",
+    "Worter/U/Umkreis.md",
+    "Worter/N/Näherung.md",
+    "Worter/N/Nähen.md",
+    "Worter/G/geduldig.md",
+    "Worter/E/eigentlich.md",
+    "Worter/U/ununterbrochen.md",
+    "Worter/K/Kontinuität.md",
+    "Worter/U/ununterbrochendestes.md",
+    "Worter/U/ununterbrochheneres.md",
+    "Worter/U/ununterbrochenes.md",
+    "Worter/U/ununterbrochendste.md",
     "Lektionen/Kamanova/Audio/L-07.mp3",
     "Lektionen/Kamanova/Audio/L-05.mp3",
     "Lektionen/Kamanova/Audio/L-11.mp3",

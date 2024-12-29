@@ -32,3 +32,4 @@ Morpheme: [[tadel]][[Worter/n]]
 Partizip I: [[tadelnd]], Partizip II: [[getadelt]]
 
 , [[schimpfen]]
+, [[schmeicheln]]

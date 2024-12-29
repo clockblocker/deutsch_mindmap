@@ -10,7 +10,7 @@ Aber dann sieht er sich seine [[Kontoauszüge]] genauer an: 100 Euro für Büche
 
 „Das muss ich [[wohl]]“, denkt Björn, „ich muss [[tatsächlich]] den Gürtel enger schnallen.“ 
 
-Er [[abbestellen|bestellt]] sofort die Zeitschriften [[ab 1]] und [[kündigt]] das Fitnessstudio. 
+Er [[abbestellen|bestellt]] sofort die Zeitschriften [[ab]] und [[kündigt]] das Fitnessstudio. 
 
 Er [[vornehmen|nimmt]] sich vor, in nächster Zeit nicht ins Kino zu gehen und weniger Wein zu trinken. Dann wird er es schon irgendwie schaffen.
 

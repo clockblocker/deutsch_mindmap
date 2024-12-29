@@ -15,7 +15,7 @@ Antonyme: [[bringen]], [[wegbringen]], [[zurücklassen]], [[liegenlassen]]
 Übersetzung: to pick up, to fetch
 
 ---
-Morpheme: [[ab 1]][[hol]][[en]]
+Morpheme: [[ab]][[hol]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -32,4 +32,5 @@ Morpheme: [[ab 1]][[hol]][[en]]
 
 Partizip I: [[abholend]], Partizip II: [[abgeholt]]
 
-[[abholen]] - [[ab 1]] = [[holen]], [[hinbringen]]
+[[abholen]] - [[ab]] = [[holen]]//to pick up
+, [[hinbringen]]

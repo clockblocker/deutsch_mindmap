@@ -13,6 +13,13 @@ Kann ich ihn vielleicht ganz, ganz, ganz kurz [[treffen]]?
 
 Sie [[treffen]] sich am Blumenkiosk
 
+Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. Jannis [[lächelt]]. Er hat wieder eine gute [[Entscheidung]] [[getroffen]].
+
+---
+[[betreffen]] - [[be]] = [[treffen]] / to concern, to affect, to touch
+
+
+
 ---
 Synonyme:  [[wiedersehen]], [[begegnen]], [[zusammenkommen]], [[aufeinandertreffen]], [[aneinanderstoßen]], [[zusammentreffen]]
 Antonyme: [[meiden]], [[vermeiden]], [[entgehen]], [[ausweichen]], [[fernbleiben]]

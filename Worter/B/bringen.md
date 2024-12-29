@@ -43,4 +43,4 @@ Partizip I: [[bringend]], Partizip II: [[gebracht]]
 Wichtige Redewendungen:
 - "jemandem etwas bei|bringen" (to teach someone something)
 - "in Verlegenheit bringen" (to embarrass)
-- "zum Lachen bringen" (to make someone laugh)
+- "zum Lachen bringen" (to make someone laugh), [[herholen]], [[holen]]

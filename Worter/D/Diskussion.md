@@ -26,3 +26,4 @@ Dative: der [[Diskussion]], den [[Diskussionen]]
 [[diskutieren]], [[diskussionsfreudig]], [[diskussionswürdig]], [[Diskussionsleiter]], [[Diskussionsrunde]]
 
 , [[Verhandlung]], [[Gespräch]]
+, [[Fragerei]]

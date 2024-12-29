@@ -30,3 +30,4 @@ Morpheme: [[frön]][[en]]
 
 Partizip I: [[frönend]], Partizip II: [[gefrönten]]
 
+, [[ablehnen]]

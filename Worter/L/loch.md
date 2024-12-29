@@ -1,8 +1,6 @@
 🔳 das [[Loch]], [lɔx]
 die [[Löcher]]
 
-[[binden]]
-
 ---
 , [[Schlüsselloch]]
 
@@ -11,6 +9,11 @@ Durch das [[Loch]], das Katara in den Eisberg gehauen hat, strömt ein Lichtstra
 Aang findet jedoch ein [[Loch]] in der Decke.
 
 „Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Worter/Rückwand]] [[bohren]]. 
+
+Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
+
+„Hör auf, mir [[Löcher]] in den [[Bauch]] [[Jemandem Löcher in den Bauch fragen|zu fragen]]! Ich muss arbeiten“, sagt sie streng. „Warum [[stört]] dich das?“, fragt Anna, „was arbeitest du?“ Die Mutter seufzt. Die kleine Anna ist nicht zu stoppen. Sie ist einfach zu [[neugierig]].
+
 
 
 ---
@@ -28,4 +31,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lochs]], [[Loche]], [[Löcher]], [[Löchern]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neutrum, [[betreffen]]

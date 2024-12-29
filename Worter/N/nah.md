@@ -31,3 +31,4 @@ Einzigartige mögliche Formen:
 [[nah]], [[naher]], [[nahe]], [[nahes]], [[nahen]], [[nahem]], [[naher]], [[nahen]]
 [[näher]], [[näherer]], [[nähere]], [[näheres]], [[näheren]], [[näherem]], [[näherer]], [[näheren]]
 [[nächsten]], [[nächster]], [[nächste]], [[nächstes]], [[nächsten]], [[nächstem]], [[nächster]], [[nächsten]]
+, [[Nähe]]

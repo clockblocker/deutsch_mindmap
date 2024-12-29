@@ -10,6 +10,9 @@ Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[a
 *was die Jüngste [[grad]] gesagt,*  
 *hat am [[meisten]] ihm [[behagt]].*  
 
+Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
+
+
 ---
 Synonyme:
 - [[häufigsten]], [[öftesten]], [[überwiegend]], [[zumeist]], [[hauptsächlich]]
@@ -29,4 +32,4 @@ Morpheme:
 ---
 Steigerungsformen: 
 [[meist]], [[meister]], [[meistens]]
-'''
+''', [[betreffen]]

@@ -8,7 +8,8 @@ SAM: Oh, hi, Nic - Ich will meine Hanteln [[holen]] …
 Hoffentlich hilft ihr der Kaffee, den sie sich gerade im Café um die Ecke [[geholt]] hat.
 
 ---
-+[[ab 1]]  = [[abholen]]
+[[abholen]] - [[ab]] = [[holen]]    / to pick up
+[[herholen]] - [[her]] = [[holen]] / to fetch, to bring here
 
 
 ---
@@ -34,4 +35,4 @@ Morpheme: [[hol]][[en]]
 | Sie       | [[holen]]            | [[holten]]            | [[holen Sie]]     | [[holen]]              | [[holten]]              |
 
 Partizip I: [[holend]], Partizip II: [[geholt]]
-+[[ab 1]]  = [[abholen]]
++[[ab]]  = [[abholen]]

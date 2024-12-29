@@ -1,1 +1,1 @@
-, [[Szene]], [[Umgebung]]
+, [[Szene]], [[Umgebung]], [[Nähe]]

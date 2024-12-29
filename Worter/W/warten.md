@@ -16,7 +16,7 @@ Alle [[warten]] auf das Licht
 *Bis die Sonne untergeht*
 
 ---
-[[abwarten]] - [[ab 1]] = [[warten]]
+[[abwarten]] - [[ab]] = [[warten]]
 
 
 

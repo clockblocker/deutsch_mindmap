@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schlüssels]], [[Schlüssel]], [[Schlüsseln]], [[Schlüssel]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[manchmal]]

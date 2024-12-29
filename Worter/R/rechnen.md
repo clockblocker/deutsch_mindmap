@@ -3,7 +3,9 @@
 haben [[gerechnet]]
 
 ---
-[[zusammenrechnen]]
+Simon muss also damit [[rechnen]], dass Jannis seine [[Bitte]] [[ablehnen]] wird. Deshalb greift er zu einem kleinen Trick: Er [[schmiert]] seinem Chef [[Jemandem Honig um den Bart schmieren|Honig um den]] [[Bart]].
+
+---
 [[zusammenrechnen]] - [[zusammen]] = [[rechnen]]
 
 
@@ -32,3 +34,4 @@ Morpheme: [[rechn]][[en]]
 | Sie       | [[rechnen]]          | [[rechneten]]         | [[rechnen Sie]]   | [[rechnen]]            | [[rechneten]]           |
 
 Partizip I: [[rechnend]], Partizip II: [[gerechnet]]
+, [[bitten]], [[schmieren]]

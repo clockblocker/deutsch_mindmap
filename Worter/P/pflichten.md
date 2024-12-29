@@ -26,3 +26,4 @@ Morpheme: [[pflicht]][[en]]
 | Sie       | [[pflichten]]| [[pflichteten]]| [[pflichten Sie]]| [[pflichten]]| [[pflichteten]]|
 
 Partizip I: [[pflichtend]], Partizip II: [[gepflichtet]]
+, [[ablehnen]]

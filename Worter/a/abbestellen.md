@@ -3,7 +3,7 @@
 haben [[abbestellt]]
 
 ---
-Er [[bestellt]] sofort die Zeitschriften [[ab 1]] und kündigt das Fitnessstudio. 
+Er [[bestellt]] sofort die Zeitschriften [[ab]] und kündigt das Fitnessstudio. 
 
 ---
 Synonyme: [[stornieren]], [[widerrufen]], [[zurückziehen]], [[kündigen]], [[rückgängig machen]]
@@ -13,7 +13,7 @@ Antonyme: [[bestellen]], [[beauftragen]], [[Worter/aufgeben]]
 Übersetzung: to cancel, to withdraw
 
 ---
-Morpheme: [[ab 1]][[bestell]][[en]]
+Morpheme: [[ab]][[bestell]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[ab 1]][[bestell]][[en]]
 | Sie | [[bestellen ab]] | [[bestellten ab]] | [[bestellen Sie ab]] | [[bestellen ab]] | [[bestellten ab]] |
 
 Partizip I: [[abbestellend]], Partizip II: [[abbestellt]]
-[[abbestellen]] - [[ab 1]] = [[bestellen]]
+[[abbestellen]] - [[ab]] = [[bestellen]]

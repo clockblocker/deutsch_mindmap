@@ -30,4 +30,4 @@ Morpheme: [[trink]][[en]]
 
 Partizip I: [[trinkend]], Partizip II: [[getrunken]]
 
-[[trinken]] - [[trink]] = [[en]]
+[[trinken]] - [[trink]] = [[en]], [[ablehnen]]

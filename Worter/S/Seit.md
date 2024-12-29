@@ -6,7 +6,7 @@ Tanja Schulz arbeitet [[seit]] ein paar Monaten als Lehrerin an einer Gesamtschu
 Tanja will den Eltern erklären, dass ihr Sohn nicht mehr lernt, [[seit]] er ständig mit seinen Freunden Party macht. 
 
 ---
-Synonyme: [[ab 1]], [von]], [[seitdem]], [[beginnend mit]]
+Synonyme: [[ab]], [von]], [[seitdem]], [[beginnend mit]]
 Antonyme: [[bis]], [[vor]]
 
 ---

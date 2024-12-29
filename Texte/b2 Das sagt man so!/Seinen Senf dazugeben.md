@@ -13,6 +13,6 @@ Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[wä
  Als die beiden nach zehn Minuten immer noch streiten, [[verliert]] sie die [[Geduld]]: 
  „Also, ich möchte mich ja nicht [[Worter/einmischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[Worter/aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“ 
  
- Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[angehen 1|geht]] dich nun wirklich nichts an!“
+ Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[angehen|geht]] dich nun wirklich nichts an!“
 
 https://learngerman.dw.com/de/seinen-senf-dazugeben/l-19120337/lm

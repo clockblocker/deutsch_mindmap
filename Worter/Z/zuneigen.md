@@ -32,3 +32,4 @@ Morpheme: [[zu]][[neig]][[en]]
 Partizip I: [[zuneigend]], Partizip II: [[zugeneigt]]
 
 [[zuneigen]] - [[zu]] = [[neigen]]
+, [[ablehnen]]

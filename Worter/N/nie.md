@@ -3,4 +3,4 @@ ANNA: Wir haben [[nie]] Geld!
 
 
 [[Nimmer]]
-[[Niemand]][[sowie]][[niemanden]], [[irgendwann]], [[bald]]
+[[Niemand]][[sowie]][[niemanden]], [[irgendwann]], [[bald]], [[manchmal]]

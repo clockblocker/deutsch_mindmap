@@ -1,1 +1,1 @@
-, [[widerstehen]], [[wehrten]], [[abstoßen]], [[ertragen]]
+, [[widerstehen]], [[wehrten]], [[abstoßen]], [[ertragen]], [[ablehnen]]

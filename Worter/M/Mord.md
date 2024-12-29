@@ -1,12 +1,13 @@
 🔵 der [[Mord]]
 die [[Morde]]
 
-Beispiele:
-
+---
 SASCHA: Mein Parfüm ist leer  
 ANNA: Das ist [[Mord]]!  
 
 Hamlet ist um Liebe, Wahnsinn, [[Mord]] …  
+
+ Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
 
 
 ---
@@ -21,4 +22,4 @@ Morphems:
 [[Mord]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[betreffen]]

@@ -31,4 +31,4 @@ Morpheme: [[zu]][[wend]][[en]]
 
 Partizip I: [[zuwendend]], Partizip II: [[zugewandt]]
 
-[[zuwenden]] - [[zu]] = [[wenden]]
+[[zuwenden]] - [[zu]] = [[wenden]], [[ablehnen]]

@@ -26,4 +26,4 @@ Morpheme: [[zu]][[frier]][[en]]
 | Sie | [[frieren zu]] | [[fröten zu]] | [[frieren Sie zu]] | [[frieren zu]] | [[fröten zu]] |
 
 Partizip I: [[zufrierend]], Partizip II: [[zugefroren]]
-[[zufrieren]] - [[zu]] = [[frieren]]
+[[zufrieren]] - [[zu]] = [[frieren]], [[erfrieren]]

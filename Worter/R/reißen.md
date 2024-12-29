@@ -14,7 +14,7 @@ haben [[gerissen]]
 ---
 [[ausreißen]] - [[Worter/A/aus]] = [[reißen]]
 [[anreißen]] - [[an 1]] = [[reißen]]
-[[abreißen]] - [[ab 1]] = [[reißen]]
+[[abreißen]] - [[ab]] = [[reißen]]
 
 
 

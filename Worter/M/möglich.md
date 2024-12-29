@@ -2,9 +2,11 @@
 nicht [[unmöglich]]
 
 ---
-SASCHA: Hm … wenn das möglich ist!  
+SASCHA: Hm … wenn das [[möglich]] ist!  
 
-Willst du vielleicht warten bis zufällig ein anderes Monster vorbeikommt und dich nach Hause bringt? Und das [[möglichst]] noch bevor du erfroren bist?
+Willst du vielleicht warten bis zufällig ein anderes Monster vorbeikommt und dich nach Hause bringt? Und das [[möglichst]] noch bevor du [[erfroren]] bist?
+
+Manchmal sagt er Nein zu Dingen, die [[eigentlich]] ganz [[sinnvoll]] wären. Bestimmt wird er alle [[möglichen]] [[Einwände]] haben: Wo soll er das Geld [[herholen]]?
 
 
 ---

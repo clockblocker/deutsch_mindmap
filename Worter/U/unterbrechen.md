@@ -5,6 +5,8 @@ haben [[unterbrochen]]
 ---
 Viele glauben, dass der Avatar nicht wiedergeboren wurde und dass der Kreislauf für immer [[unterbrochen]] ist.
 
+Sie stellt [[ununterbrochen]] Fragen. 
+
 ---
 Synonyme: [[abbrechen]], [[pausieren]], [[einstellen]], [[stoppen]], [[beenden]], [[absetzen]]
 Antonyme: [[fortsetzen]], [[weitermachen]], [[wiederaufnehmen]], [[anschließen]]

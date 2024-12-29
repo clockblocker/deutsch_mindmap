@@ -32,4 +32,4 @@ Morpheme: [[küm]][[mern]]
 
 Partizip I: [[kümmernd]], Partizip II: [[gekümmert]]
 
-, [[s1 e1]]
+, [[s1 e1]], [[ablehnen]]

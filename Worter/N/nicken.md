@@ -27,4 +27,4 @@ Morpheme: [[nick]][[en]]
 | Sie       | [[nicken]] | [[nickten]]  | [[nicken Sie]] | [[nicken]]   | [[nickten]]   |
 
 Partizip I: [[nickend]], Partizip II: [[genickt]]
-[[nicken]] - keine Vorsilbe = [[nicken]]
+[[nicken]] - keine Vorsilbe = [[nicken]], [[ablehnen]]

@@ -1,2 +1,2 @@
 [[nächste]]
-, [[fern]], [[nah]]
+, [[fern]], [[nah]], [[Nähe]]

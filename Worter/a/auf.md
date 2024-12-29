@@ -1,1 +1,1 @@
-, [[Worter/aufstehen]], [[sagen]]
+, [[Worter/aufstehen]], [[sagen]], [[Aufträgen]], [[aufhören]]

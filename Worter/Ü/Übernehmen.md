@@ -33,4 +33,4 @@ Morpheme: [[Worter/über]][[nehm]][[en]]
 
 Partizip I: [[übernehmend]], Partizip II: [[übernommen]]
 
-[[Übernehmen]] - [[über]] = [[nehmen]]
+[[Übernehmen]] - [[über]] = [[nehmen]], [[ablehnen]]

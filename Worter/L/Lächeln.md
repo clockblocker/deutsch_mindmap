@@ -6,6 +6,9 @@ Und hier ist das Wetter. Freundlich [[lächeln]].
 
 Sein Nachbar hört ihn schon von [[Weitem]]. Er sieht Moritz’ breites [[Lächeln]] und wie er immer wieder in die Luft springt. 
 
+Simon [[bedankt]] sich und [[verlässt]] zufrieden das Büro seines Chefs. Jannis [[lächelt]]. Er hat wieder eine gute Entscheidung [[getroffen]].
+
+
 ---
 Synonyme: 
 - [[Grinsen]], [[Schmunzeln]], [[Strahlen]], [[Glückseligkeit]]

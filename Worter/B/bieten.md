@@ -31,4 +31,4 @@ Morpheme: [[bi]][[et]][[en]]
 
 Partizip I: [[bietend]], Partizip II: [[geboten]]
 
-[[ver]]+[[bieten]]=[[verbieten]]
+[[ver]]+[[bieten]]=[[verbieten]], [[ablehnen]]

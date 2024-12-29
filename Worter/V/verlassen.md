@@ -8,6 +8,9 @@ Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen 
 
 Solange eure Väter im Krieg sind, [[verlassen]] sie sich auf euch. 
 
+Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. Jannis [[lächelt]]. Er hat wieder eine gute Entscheidung [[getroffen]].
+
+
 ---
 Synonyme: [[Worter/aufgeben]], [[zurücklassen]], [[loslassen]], [[abhauen]], [[weggehen]],[[scheiden]]
 Antonyme: [[bleiben]], [[begleiten]], [[folgen]], [[unterstützen]], [[helfen]]

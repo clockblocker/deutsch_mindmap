@@ -1,1 +1,1 @@
-, [[Wettervorhersage]], [[vorhersagen]], [[sagen]]
+, [[Wettervorhersage]], [[vorhersagen]], [[sagen]], [[herholen]], [[holen]]

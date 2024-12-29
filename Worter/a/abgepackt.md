@@ -20,7 +20,7 @@ packaged, wrapped, sealed
 
 ---
 Morpheme:
-[[ab 1]][[ge]][[pack]][[t]]
+[[ab]][[ge]][[pack]][[t]]
 
 ---
 

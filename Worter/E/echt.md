@@ -11,6 +11,9 @@ NIC: Seine neuen Klamotten sind hier – du [[wirst]] [[echt]] cool a
 SASCHA: Die Klamotten sind [[echt]] super!
 Herr W.:  Er hat sie [[wohl]] nicht für [[echt]] gehalten.
 
+Natürlich greift er nicht zu [[echtem]] Honig, sondern zu netten Worten und Komplimenten. Kurz: Er [[schmeichelt]] ihm. 
+
+
 ---
 Synonyme: [[wahrhaftig]], [[wirklich]], [[tatsächlich]], [[authentisch]], [[original]]
 Antonyme: [[unecht]], [[falsch]], [[unaufrichtig]], [[künstlich]], [[gefälscht]]

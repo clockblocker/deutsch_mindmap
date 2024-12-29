@@ -25,3 +25,4 @@ Morpheme: [[gier]][[en]]
 | Sie | [[gieren]] | [[gierten]] | [[gieren Sie]] | [[gieren]] | [[gierten]] |
 
 Partizip I: [[gierend]], Partizip II: [[gegiert]]
+, [[ablehnen]]

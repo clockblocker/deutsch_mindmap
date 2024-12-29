@@ -1,1 +1,1 @@
-, [[echten]], [[echt]], [[tatsächlich]]
+, [[echten]], [[echt]], [[tatsächlich]], [[eigentlich]]

@@ -1,4 +1,4 @@
 [[unterbrechen]]
 , [[s1 e1]], [[kontinuierlich]]
 
-🚫 [[unterbrechen]]
+🚫 [[unterbrechen]], [[ununterbrochen]]

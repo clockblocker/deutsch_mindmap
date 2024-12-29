@@ -1,1 +1,1 @@
-, [[Öfteren]], [[kontinuierlich]], [[ständig]], [[selten]], [[regelmäßig]]
+, [[Öfteren]], [[kontinuierlich]], [[ständig]], [[selten]], [[regelmäßig]], [[ununterbrochen]]

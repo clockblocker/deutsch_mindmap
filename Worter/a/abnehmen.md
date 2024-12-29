@@ -3,7 +3,7 @@
 haben [[abgenommen]]
 
 ---
-Die anderen kommen dazu und [[nehmen]] den beiden ein paar von den schweren Kisten [[ab 1]]. Miriam ist erleichtert: Das Eis zwischen Sebastian und ihren Freunden ist gebrochen!	
+Die anderen kommen dazu und [[nehmen]] den beiden ein paar von den schweren Kisten [[ab]]. Miriam ist erleichtert: Das Eis zwischen Sebastian und ihren Freunden ist gebrochen!	
 
 ---
 Synonyme: [[reduzieren]], [[verlieren]], [[abspecken]], [[gewichtreduzieren]], [[schlanker werden]]
@@ -13,7 +13,7 @@ Antonyme: [[zunehmen]], [[aufbauen]], [[ansetzen]]
 Übersetzung: to lose weight, to decrease, to take off
 
 ---
-Morpheme: [[ab 1]][[nehm]][[en]]
+Morpheme: [[ab]][[nehm]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,7 +26,7 @@ Morpheme: [[ab 1]][[nehm]][[en]]
 | Sie | [[nehmen ab]] | [[nahmen ab]] | [[nehmen Sie ab]] | [[nehmen ab]] | [[nähmen ab]] |
 
 Partizip I: [[abnehmend]], Partizip II: [[abgenommen]]
-[[abnehmen]] - [[ab 1]] = [[nehmen]] /  to lose weight, to decrease, to take off
+[[abnehmen]] - [[ab]] = [[nehmen]] /  to lose weight, to decrease, to take off
 
 
 , [[festziehen]], [[einhängen]], [[hängen]], [[festkleben]], [[wachsen]], [[aufhängen]], [[zunehmen]]

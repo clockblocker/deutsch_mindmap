@@ -22,7 +22,7 @@ Synonyme:
 ---
 
 Morphems:
-[[ab 1]][[gang]]
+[[ab]][[gang]]
 
 ---
 #Substantiv #Maskulin

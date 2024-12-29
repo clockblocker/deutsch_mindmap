@@ -33,4 +33,4 @@ Morpheme: [[be]][[werb]][[en]]
 Partizip I: [[bewerbend]], Partizip II: [[beworben]]
 
 [[bewerben]] - [[be]] = [[werben]]
-''', [[Bewerbung]]
+''', [[Bewerbung]], [[ablehnen]]

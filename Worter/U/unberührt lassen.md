@@ -1,1 +1,1 @@
-, [[reiben]]
+, [[reiben]], [[betreffen]]

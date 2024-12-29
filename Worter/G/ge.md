@@ -1,1 +1,1 @@
-, [[geeignet 1]]
+, [[geeignet 1]], [[Gewinn]]

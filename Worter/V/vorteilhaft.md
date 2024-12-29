@@ -1,1 +1,1 @@
-[[schade]]
+[[schade]], [[Vorteil]]

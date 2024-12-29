@@ -30,4 +30,4 @@ Morpheme: [[wähl]][[en]]
 
 Partizip I: [[wählend]], Partizip II: [[gewählt]]
 
-, [[anrufen]], [[entscheiden]], [[Worter/entschließen]]
+, [[anrufen]], [[entscheiden]], [[Worter/entschließen]], [[ablehnen]]

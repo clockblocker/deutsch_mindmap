@@ -16,7 +16,7 @@ Mit ihnen muss ich [[Freundschaft]] [[schließen]]."
 
 ---
 +[[an 1]] = 🔗 [[anschließen]] / to connect, to hook up, to attach
-+[[ab 1]] = 🔗 [[abschließen]] / to conclude, защитить диплом
++[[ab]] = 🔗 [[abschließen]] / to conclude, защитить диплом
 
 
 

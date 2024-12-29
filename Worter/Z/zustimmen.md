@@ -1,1 +1,1 @@
-, [[tadeln]], [[grummeln]], [[pflichten]], [[zögern]], [[nicken]]
+, [[tadeln]], [[grummeln]], [[pflichten]], [[zögern]], [[nicken]], [[ablehnen]]

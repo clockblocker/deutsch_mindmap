@@ -17,7 +17,7 @@ Wer kennt das nicht: Man hat zugenommen und muss den [[Gürtel]] ganz [[weit]] [
 [[ausmachen]] - [[Worter/A/aus]] = [[machen]] / to detect, to determine, to matter | turn off 
 [[vormachen]] - [[vor]] = [[machen]] / to show, to demonstrate
 [[aufmachen]] - [[Worter/auf]] = [[machen]] / to open
-[[abmachen]] - [[ab 1]] = [[machen]] /  to arrange, to agree, to settle | remove
+[[abmachen]] - [[ab]] = [[machen]] /  to arrange, to agree, to settle | remove
 [[mitmachen]] - [[mit]] = [[machen]] / participate
 
 

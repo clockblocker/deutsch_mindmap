@@ -3,11 +3,9 @@ die [[Bäuche]]
 
 Und dann auch - Popcorn im [[Bauch]], Es ist Poptastisch!  
 
-Beispiele:
+ Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
 
-- Er hat Schmerzen im [[Bauch]].
-- Der [[Bauch]] des Kindes war voll nach dem Essen.
-- Sie trägt das Baby in ihrem [[Bauch]].
+„Hör auf, mir [[Löcher]] in den [[Bauch]] [[Jemandem Löcher in den Bauch fragen|zu fragen]]! Ich muss arbeiten“, sagt sie streng. „Warum [[stört]] dich das?“, fragt Anna, „was arbeitest du?“ Die Mutter seufzt. Die kleine Anna ist nicht zu stoppen. Sie ist einfach zu [[neugierig]].
 
 ---
 Synonyme:
@@ -22,4 +20,4 @@ Morphems:
 [[Bauch]]
 
 ---
-#Substantiv #Maskulin[[Magen]]
+#Substantiv #Maskulin[[Magen]], [[betreffen]]

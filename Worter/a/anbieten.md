@@ -29,4 +29,4 @@ Zu+infinifive: [[anzubieten]]
 [[anbieten]] - [[an 1]] = [[bieten]] // to offer
 
 ---
-[[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]]
+[[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]], [[ablehnen]]

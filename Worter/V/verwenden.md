@@ -30,3 +30,4 @@ Morpheme: [[ver]][[wend]][[en]]
 Partizip I: [[verwendend]], Partizip II: [[verwendet]]
 
 [[verwenden]] - [[ver]] = [[wend]]
+, [[ablehnen]]

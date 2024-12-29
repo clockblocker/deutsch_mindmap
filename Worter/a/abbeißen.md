@@ -14,7 +14,7 @@ Antonyme: [[anbeißen]], [[anbinden]], [[wiederbefestigen]]
 Übersetzung: to bite off, to chew off
 
 ---
-Morpheme: [[ab 1]][[beiß]][[en]]
+Morpheme: [[ab]][[beiß]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[ab 1]][[beiß]][[en]]
 
 Partizip I: [[abbeißend]], Partizip II: [[abgebissen]]
 
-[[abbeißen 1]] - [[ab 1]] = [[beißen]]
+[[abbeißen 1]] - [[ab]] = [[beißen]]

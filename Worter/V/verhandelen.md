@@ -30,4 +30,4 @@ Morpheme: [[ver]][[handel]][[en]]
 
 Partizip I: [[verhandelnd]], Partizip II: [[verhandelt]]
 
-[[verhandelen]] - [[ver]] = [[handel]][[en]]
+[[verhandelen]] - [[ver]] = [[handel]][[en]], [[ablehnen]]

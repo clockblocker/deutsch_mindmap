@@ -20,6 +20,8 @@ Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Er
 
 Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[einsetzen]]. Und [[darüber]] [[freuen]] sich die [[wenigsten]].
 
+Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
+
 
 ---
 Synonyme: [[erfreuen]], [[beglücken]], [[entzücken]], [[erheitern]], [[ergötzen]]
@@ -44,4 +46,4 @@ Morpheme: [[freu]][[en]]
 | Sie       | [[freuen]]           | [[freuten]]           | [[freuen Sie]]    | [[freuen]]             | [[freuten]]             |
 
 Partizip I: [[freuend]], Partizip II: [[gefreut]]
-, [[gefallen]]
+, [[gefallen]], [[dahinter]], [[betreffen]]

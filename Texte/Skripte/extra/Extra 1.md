@@ -97,7 +97,7 @@ NIC: Ich [[vergesse]] [[nie]] [[etwas]]!
 
 ANNA: Danke Nic.
 
-NIC: Na Ladies, was geht so [[ab 1]]?
+NIC: Na Ladies, was geht so [[ab]]?
 
 ANNA: [[möchtest]] du was trinken, Nic?
 

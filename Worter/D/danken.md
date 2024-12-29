@@ -3,7 +3,7 @@
 haben [[gedankt]]
 
 ---
-
+[[bedanken]] - [[be]] = [[danken]] // to thank, to express gratitude
 
 ---
 Synonyme: [[sich erkenntlich zeigen]], [[Anerkennung aussprechen]], [[Gratitude äußern]], [[seine Dankbarkeit zeigen]], [[Dank sagen]]

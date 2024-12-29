@@ -31,3 +31,4 @@ Morpheme: [[zu]][[geb]][[en]]
 Partizip I: [[zugebend]], Partizip II: [[zugegeben]]
 
 [[zugeben]] - [[zu]] = [[geben]]
+, [[ablehnen]]

@@ -9,7 +9,8 @@ haben [[gefroren]]
 Schon verrückt! Da drinnen friert aber auch alles.
 
 ---
-[[zufrieren]] - [[zu]] = [[frieren]]
+[[zufrieren]] - [[zu]] = [[frieren]] / to become frozen
+[[erfrieren]] - [[er]] = [[frieren]] / to freeze to death
 
 
 ---

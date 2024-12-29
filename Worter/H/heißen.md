@@ -3,15 +3,14 @@
 haben [[geheißen]]
 
 ---
--
--
+ Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
 
 ---
 Synonyme: [[nennen]], [[titulieren]], [[benennen]], [[bezeichnen]], [[taufen]]
 Antonyme: [[umbenennen]], [[umtaufen]], [[verleugnen]], [[verschweigen]]
 
 ---
-Übersetzung: to be called, to be named
+Übersetzung: to be called, to be named, mean
 
 ---
 Morpheme: [[heiß]][[en]]

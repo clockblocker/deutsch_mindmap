@@ -17,7 +17,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[ab 1]][[Satz]]
+[[ab]][[Satz]]
 
 ---
 Einzigartige mögliche Formen: [[Absatzes]], [[Absätze]], [[Absätzen]]

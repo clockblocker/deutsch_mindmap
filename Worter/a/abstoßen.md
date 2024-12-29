@@ -3,7 +3,7 @@
 haben [[abgestoßen]]
 
 ---
-(Nimmt seinen Gleiter auf den Rücken, [[stößt]] sich vom Boden [[ab 1]] und fliegt)
+(Nimmt seinen Gleiter auf den Rücken, [[stößt]] sich vom Boden [[ab]] und fliegt)
 
 ---
 Synonyme: [[verdrängen]], [[zurückstoßen]], [[abweisen]], [[verscheuchen]], [[vertreiben]], [[zuneigen]]
@@ -13,7 +13,7 @@ Antonyme: [[anziehen]], [[annähern]], [[akzeptieren 1]], [[willkommen heißen]]
 Übersetzung: to repel, to push away, to repulse
 
 ---
-Morpheme: [[ab 1]][[stoß]][[en]]
+Morpheme: [[ab]][[stoß]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[ab 1]][[stoß]][[en]]
 | Sie | [[stoßen ab]] | [[stießen ab]] | [[stoßen Sie ab]] | [[stoßen ab]] | [[stießen ab]] |
 
 Partizip I: [[abstoßend]], Partizip II: [[abgestoßen]]
-[[abstoßen]] - [[ab 1]] = [[stoßen]], [[widern]]
+[[abstoßen]] - [[ab]] = [[stoßen]], [[widern]]

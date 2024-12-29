@@ -30,4 +30,4 @@ Morpheme: [[ent]][[scheid]][[en]]
 
 Partizip I: [[entscheidend]], Partizip II: [[entschieden]]
 [[entscheiden]] - [[ent]] = [[scheiden]]
-, [[umentscheiden]], [[Worter/entschließen]]
+, [[umentscheiden]], [[Worter/entschließen]], [[Entscheidung]]

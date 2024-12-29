@@ -2,7 +2,7 @@
 - Ja – das Kissen hab’ ich auch [[bekommen]].  
 
 ---
-[[abbekommen]] - [[ab 1]] = [[bekommen]]
+[[abbekommen]] - [[ab]] = [[bekommen]]
 
 ---
  [[holen]], [[verloren]],[[verlieren]], [[nehm]], [[verdienen]], [[geben]], [[abbekommen]]
