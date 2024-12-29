@@ -11,14 +11,10 @@
             "id": "389aa8dc148b1b4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ä/ärger.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ärger"
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +162,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d0dd1351b59a3225",
+  "active": "389aa8dc148b1b4a",
   "lastOpenFiles": [
+    "Anhänge/Pasted image 20240915203903.png",
+    "Anhänge/Pasted image 20240910200018.png",
+    "Anhänge/Pasted image 20240910194722.png",
+    "Anhänge/Pasted image 20240910180043.png",
+    "Anhänge/Pasted image 20240910174656.png",
+    "Anhänge/Pasted image 20240910174249.png",
+    "Anhänge/Pasted image 20240908093836.png",
+    "Anhänge/Pasted image 20240829080852.png",
+    "Anhänge/Pasted image 20240826114709.png",
+    "Anhänge/Pasted image 20240818092345.png",
+    "Anhänge/Pasted image 20240815084911.png",
+    "Worter/Ä/ärger.md",
     "Worter/IPA/øː.md",
     "Worter/IPA/Ø.md",
     "Lektionen/Logo/IPA.md",
@@ -194,18 +202,6 @@
     "Worter/eignen.md",
     "Worter/bestrafen.md",
     "Worter/bestimmtem.md",
-    "Worter/bequemeres.md",
-    "Worter/beißen.md",
-    "Anhänge/Pasted image 20240815085048.png",
-    "Anhänge/Pasted image 20240910194743.png",
-    "Anhänge/Pasted image 20240910194805.png",
-    "Anhänge/Pasted image 20240910194810.png",
-    "Anhänge/Pasted image 20240915203903.png",
-    "Anhänge/Pasted image 20240915203840.png",
-    "Anhänge/Pasted image 20240910200018.png",
-    "Anhänge/Pasted image 20240915203916.png",
-    "Anhänge/Pasted image 20240915204246.png",
-    "Anhänge/Pasted image 20240915204253.png",
     "Worter/Ü",
     "Worter/management_scripts/move_files.sh",
     "Worter/Z",
