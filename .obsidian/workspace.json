@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/aufgeben.md",
+                "file": "Worter/IPA/ɐ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aufgeben"
+              "title": "ɐ"
             }
           }
         ]
@@ -166,20 +166,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7cfa45a0ec483d1b",
+  "active": "d0dd1351b59a3225",
   "lastOpenFiles": [
+    "Worter/IPA",
+    "Worter/ Ich hab’s gewusst.md",
+    "Worter/*Und als der Jäger schnarcht und schlief,*  *der Has ganz heimlich zu ihm lief*  schnarcht.md",
     "Worter/auf.md",
     "Worter/auffangen.md",
     "Worter/attackieren.md",
     "Worter/Arroganz.md",
     "Worter/argumentieren.md",
     "Worter/Argumentation.md",
-    "Worter/ Ich hab’s gewusst.md",
     "Worter/skripts/Untitled.md",
     "Worter/zweifellos.md",
     "Worter/skripts",
     "Worter/zwingend.md",
-    "Worter/ʔ.md",
+    "Worter/IPA/ʔ.md",
     "Worter/spucken.md",
     "Worter/Итоги работы за прошедшие полгода.md",
     "Worter/brüllt.md",
@@ -193,8 +195,6 @@
     "Worter/beiß.md",
     "Worter/behaupten.md",
     "Worter/begnadigen.md",
-    "Worter/Bedrohung.md",
-    "Worter/Bedeutung.md",
     "Anhänge/Pasted image 20240815085048.png",
     "Anhänge/Pasted image 20240910194743.png",
     "Anhänge/Pasted image 20240910194805.png",
