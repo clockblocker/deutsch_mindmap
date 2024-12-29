@@ -15,7 +15,7 @@
 | [[o]]        | Tomate     | [toˈmaːtə]     |
 | [[oː]]       | Ofen       | [ˈoːfn̩]       |
 | [[ɔ]]        | offen      | [ˈɔfn̩]        |
-| [[ø]]        | ökologisch | [økoˈloːɡɪʃ]   |
+| [[Ø]]        | ökologisch | [økoˈloːɡɪʃ]   |
 | [[øː]]       | Höhle      | [ˈhøːlə]       |
 | [[œ]]        | Hölle      | [ˈhœlə]        |
 | [[u]]        | zurück     | [t͡suˈʁʏk]     |
