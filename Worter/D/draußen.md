@@ -11,7 +11,7 @@ Da [[draußen]] tobt immerhin ein Krieg!
 *hat am [[meisten]] ihm [[behagt]].*  
 
 ---
-Synonyme: [[außen]], [[draußität]], [[draußen]],[[draußen]], [[im Freien]], [[im Außen]]
+Synonyme: [[Außen]], [[draußität]], [[draußen]],[[draußen]], [[im Freien]], [[im Außen]]
 Antonyme: [[drinnen]], [[innen]], [[indoor]], [[im Haus]], [[im Innenraum]]
 
 ---

@@ -10,7 +10,7 @@ r [[Absatz]]
 
 ---
 Synonyme:
-- [[Phrase]], [[Aussage]], [[Äußerung]], [[Spruch]], [[Sentenz]] 
+- [[Phrase]], [[Worter/Aussage]], [[Äußerung]], [[Spruch]], [[Sentenz]] 
 
 ---
 Übersetzung: sentence, statement

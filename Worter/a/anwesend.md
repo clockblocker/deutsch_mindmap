@@ -18,7 +18,7 @@ present, attending, on site
 
 ---
 Morpheme:
-[[an]][[wes]][[end]]
+[[an 1]][[wes]][[end]]
 
 ---
 

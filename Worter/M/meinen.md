@@ -11,7 +11,7 @@ Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen
 
 ---
 Synonyme: [[denken]], [[glauben]], [[vermuten]], [[erachten]], [[annehmen]]. [[bedeuten]]
-Antonyme: [[bezweifeln]], [[ablehnen]], [[widersprechen]]
+Antonyme: [[bezweifeln]], [[ablehnen 1]], [[widersprechen]]
 
 ---
 Übersetzung: to mean, to intend

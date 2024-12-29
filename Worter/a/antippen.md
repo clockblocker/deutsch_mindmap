@@ -3,7 +3,7 @@
 haben [[angetippt]]
 
 ---
-Ganz recht! _Sokka [[tippt]] sie mit dem Ellenbogen [[an]]_ Meinen herzlichen Glückwunsch!
+Ganz recht! _Sokka [[tippt]] sie mit dem Ellenbogen [[an 1]]_ Meinen herzlichen Glückwunsch!
 
 Sag du es uns! Wie bist du in das Eis gekommen und warum bist du gar nicht erfroren? ([[Tippt]] Aang mit dem der Rückseite des Speers an)
 
@@ -16,7 +16,7 @@ Antonyme: [[loslassen]], [[ignorieren]], [[vermeiden]]
 Übersetzung: to tap, to touch, to press
 
 ---
-Morpheme: [[an]][[tipp]][[en]]
+Morpheme: [[an 1]][[tipp]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -33,5 +33,5 @@ Morpheme: [[an]][[tipp]][[en]]
 
 Partizip I: [[antippend]], Partizip II: [[angekippt]]
 
-[[antippen]] - [[an]] = [[tippen]]
+[[antippen]] - [[an 1]] = [[tippen]]
 , [[s1 e1]]

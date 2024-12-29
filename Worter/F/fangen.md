@@ -14,8 +14,8 @@ Ich brauch keinen Beruhigungstee! Ich will nur endlich den Avatar fangen! 
  Pass auf, so [[fängt]] man einen Fisch!
  
 ---
-[[auffangen]] - [[auf]] = [[fangen]] //  to catch, to intercept
-[[anfangen]] - [[an]] = [[fangen]] // to begin, to start
+[[Worter/auffangen]] - [[Worter/auf]] = [[fangen]] //  to catch, to intercept
+[[anfangen]] - [[an 1]] = [[fangen]] // to begin, to start
  
 
 ---
@@ -43,4 +43,4 @@ Morpheme: [[fang]][[en]]
 Partizip I: [[fangend]], Partizip II: [[gefangen]]
 
 [[werfen]], [[anfangen]], [[entwischen]], [[stoßen]], [[schleudern]]
-, [[auffangen]], [[schnappen]]
+, [[Worter/auffangen]], [[schnappen]]

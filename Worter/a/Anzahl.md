@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[An]][[Zahl]]
+[[an 1]][[Zahl]]
 
 ---
 Einzigartige mögliche Formen: 

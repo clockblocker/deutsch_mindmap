@@ -13,7 +13,7 @@ Antonyme: [[verfehlen]], [[auslassen]], [[verschonen]], [[aufschieben]], [[aufri
 Übersetzung: to hit, to strike
 
 ---
-Morpheme: [[ein]][[schlag]][[en]]
+Morpheme: [[Worter/ein]][[schlag]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -30,4 +30,4 @@ Morpheme: [[ein]][[schlag]][[en]]
 
 Partizip I: [[einschlagend]], Partizip II: [[eingeschlagen]]
 
-[[einschlagen]] - [[ein]] = [[schlagen]], [[bald]], [[s1 e1]]
+[[einschlagen]] - [[Worter/ein]] = [[schlagen]], [[bald]], [[s1 e1]]

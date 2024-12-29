@@ -3,7 +3,7 @@
 haben [[abgeschlossen]]
 
 ---
-1951 begann er mit einem Studium an der Dresdner Kunstakade-5 mie und [[schloss]] es mit einem Wandgemälde als Diplomarbeit [[ab]].
+1951 begann er mit einem Studium an der Dresdner Kunstakade-5 mie und [[schloss]] es mit einem Wandgemälde als Diplomarbeit [[ab 1]].
 
 ---
 Synonyme: [[beenden]], [[versperren]], [[sichern]], [[verschließen]], [[abriegeln]], [[dauern]], [[erledigen]]
@@ -13,7 +13,7 @@ Antonyme: [[öffnen]], [[aufschließen]], [[freilassen]]
 Übersetzung: to lock, to close, to conclude
 
 ---
-Morpheme: [[ab]][[schließ]][[en]]
+Morpheme: [[ab 1]][[schließ]][[en]]
  #Verb  #Trennbar
  
 
@@ -27,5 +27,5 @@ Morpheme: [[ab]][[schließ]][[en]]
 | Sie | [[schließen ab]] | [[schlossen ab]] | [[schließen Sie ab]] | [[schließen ab]] | [[schlössen ab]] |
 
 Partizip I: [[abschließend]], Partizip II: [[abgeschlossen]]
-[[abschließen]] - [[ab]] = [[schließen]]
+[[abschließen]] - [[ab 1]] = [[schließen]]
 '''

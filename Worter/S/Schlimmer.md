@@ -6,7 +6,7 @@ Die [[klingt]] ja [[schrecklich]]! [[Schlimmer]] als die Tarantel!
 
 ---
 Synonyme: [[furchtbar]], [[schrecklich]], [[grauenhaft]], [[katastrophal]], [[verheerend]]
-Antonyme: [[gut]], [[besser]], [[hervorragend]], [[ausgezeichnet]]
+Antonyme: [[gut]], [[besser]], [[hervorragend]], [[Worter/ausgezeichnet]]
 
 ---
 **Übersetzung**: 

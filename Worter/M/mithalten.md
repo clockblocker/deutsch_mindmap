@@ -11,7 +11,7 @@ haben [[mitgehalten]]
 
 ---
 Synonyme: [[folgen]], [[standhalten]], [[Schritt halten]], [[Anschluss finden]], [[aufholen]]
-Antonyme: [[abfallen]], [[hinten bleiben]], [[zurückbleiben]], [[aufgeben]]
+Antonyme: [[abfallen]], [[hinten bleiben]], [[zurückbleiben]], [[Worter/aufgeben]]
 
 ---
 Übersetzung: to keep up (with), to hold one's own (against)

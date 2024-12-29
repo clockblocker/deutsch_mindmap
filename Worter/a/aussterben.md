@@ -13,7 +13,7 @@ Antonyme: [[entstehen]], [[gedeihen]], [[wachsen]], [[aufblühen]]
 Übersetzung: to become extinct, to die out
 
 ---
-Morpheme: [[aus]][[sterb]][[en]]
+Morpheme: [[Worter/A/aus]][[sterb]][[en]]
  #Verb  #Trennbar
 
 | Person    | Präsens         | Präteritum      | Imperativ           | Konjunktiv I     | Konjunktiv II    |
@@ -26,4 +26,4 @@ Morpheme: [[aus]][[sterb]][[en]]
 | Sie       | [[sterben aus]] | [[starben aus]] | [[sterben Sie aus]] | [[sterben aus]]  | [[stürben aus]]  |
 
 Partizip I: [[aussterbend]], Partizip II: [[ausgestorben]]
-[[aussterben]] - [[aus]] = [[sterben]]
+[[aussterben]] - [[Worter/A/aus]] = [[sterben]]

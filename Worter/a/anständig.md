@@ -20,7 +20,7 @@ decent, proper, respectable
 
 ---
 Morpheme:
-[[an]][[ständig]]
+[[an 1]][[ständig]]
 
 ---
 

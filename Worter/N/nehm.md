@@ -9,8 +9,8 @@ haben [[genommen]]
 [[Übernehmen]], [[Unternehmen]], [[herausnehmen]]
 
 ---
-Synonyme: [[ergreifen]], [[bekommen]], [[empfangen]], [[annehmen]], [[aufheben]]
-Antonyme: [[weglegen]], [[abgeben]], [[verlieren]], [[ablehnen]]
+Synonyme: [[ergreifen]], [[bekommen]], [[empfangen]], [[annehmen]], [[Worter/aufheben]]
+Antonyme: [[weglegen]], [[abgeben]], [[verlieren]], [[ablehnen 1]]
 
 ---
 Übersetzung: to take

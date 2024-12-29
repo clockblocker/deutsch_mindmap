@@ -7,7 +7,7 @@ haben [[zugegeben]]
 
 ---
 Synonyme: [[eingestehen]], [[anerkennen]], [[bekennen]], [[zulassen]], [[offen sein für]]
-Antonyme: [[leugnen]], [[bestreiten]], [[verheimlichen]], [[verweigern]], [[ablehnen]]
+Antonyme: [[leugnen]], [[bestreiten]], [[verheimlichen]], [[verweigern]], [[ablehnen 1]]
 
 ---
 Übersetzung: to admit, to concede

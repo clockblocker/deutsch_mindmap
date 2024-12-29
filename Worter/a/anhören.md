@@ -1,21 +1,21 @@
-👂 [[anhören]] + Akk, [ˈanˌhøːʁən]
+👂 [[anhören 1]] + Akk, [ˈanˌhøːʁən]
 [[hörte an|hörte an]]  
-haben [[angehört]]
+haben [[angehört 1]]
 
 ---
-Und manche Menschen [[hören]] [[sich]] dabei fast so [[an]] wie ein Vogel
+Und manche Menschen [[hören]] [[sich]] dabei fast so [[an 1]] wie ein Vogel
 
-Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
+Linda ist gerade [[Worter/aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
 
 ---
 Synonyme: [[zuhören]], [[vernehmen]], [[horchen]], [[lauschen]], [[hinhören]]
-Antonyme: [[ignorieren]], [[überhören]], [[nicht zuhören]], [[abschalten]]
+Antonyme: [[ignorieren]], [[überhören]], [[nicht zuhören]], [[abschalten 1]]
 
 ---
 Übersetzung: to listen to, to hear
 
 ---
-Morpheme: [[an]][[hör]][[en]]
+Morpheme: [[an 1]][[hör]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -27,5 +27,5 @@ Morpheme: [[an]][[hör]][[en]]
 | Ihr | [[hört an]] | [[hörtet an]] | [[hört an]] | [[höret an]] | [[hörtet an]] |
 | Sie | [[hören an]] | [[hörten an]] | [[hören Sie an]] | [[hören an]] | [[hörten an]] |
 
-Partizip I: [[anhörend]], Partizip II: [[angehört]]
-[[anhören]] - [[an]] = [[hören]]
+Partizip I: [[anhörend 1]], Partizip II: [[angehört 1]]
+[[anhören 1]] - [[an 1]] = [[hören]]

@@ -5,7 +5,7 @@ Bevor Paul etwas sagen kann, hat Linda die [[Haustür]] mit einem großen [[Knal
 
 ---
 Synonyme: [[werfen]], [[schleudern]], [[hinwerfen]], [[zuschmeißen]]
-Antonyme: [[aufheben]], [[auffangen]], [[zurückhalten]]
+Antonyme: [[Worter/aufheben]], [[Worter/auffangen]], [[zurückhalten]]
 
 ---
 to throw to, to toss

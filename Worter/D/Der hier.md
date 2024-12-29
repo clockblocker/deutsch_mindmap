@@ -1,1 +1,1 @@
-[[der]] [[hier]]
+[[Worter/D/der]] [[hier]]

@@ -3,9 +3,9 @@
 haben [[abbekommen]]
 
 ---
-([[Bekommt]] den Nieser [[ab]]) Uäh!! Iehh!! (Reibt sich am Boden um alles wieder abzubekommen)
+([[Bekommt]] den Nieser [[ab 1]]) Uäh!! Iehh!! (Reibt sich am Boden um alles wieder abzubekommen)
 
-([[Bekommt]] Schneemassen von dem Turm [[ab]]) Na irre. Du bist ein Luftbändiger, Katara ist eine Wasserbändigerin.
+([[Bekommt]] Schneemassen von dem Turm [[ab 1]]) Na irre. Du bist ein Luftbändiger, Katara ist eine Wasserbändigerin.
 
 ---
 Synonyme: [[erhalten]], [[kriegen]], [[abkriegen]], [[mitbekommen]], [[zugeteilt bekommen]]
@@ -15,7 +15,7 @@ Antonyme: [[abgeben]], [[verlieren]], [[nichts bekommen]]
 Übersetzung: to get a share, to receive a portion
 
 ---
-Morpheme: [[ab]][[be]][[komm]][[en]]
+Morpheme: [[ab 1]][[be]][[komm]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -28,4 +28,4 @@ Morpheme: [[ab]][[be]][[komm]][[en]]
 | Sie | [[bekommen ab]] | [[bekamen ab]] | [[bekommen Sie ab]] | [[bekommen ab]] | [[bekämen ab]] |
 
 Partizip I: [[abbekommend]], Partizip II: [[abbekommen]]
-[[abbekommen]] - [[ab]] = [[bekommen]]
+[[abbekommen]] - [[ab 1]] = [[bekommen]]

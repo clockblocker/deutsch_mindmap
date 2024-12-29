@@ -18,7 +18,7 @@ illustrative, descriptive, vivid
 
 ---
 Morpheme:
-[[an]][[schau]][[lich]][[e]]
+[[an 1]][[schau]][[lich]][[e]]
 
 ---
 

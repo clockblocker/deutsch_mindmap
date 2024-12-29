@@ -13,7 +13,7 @@ Antonyme: [[geradeaus]], [[weitergehen]], [[fortsetzen]]
 Übersetzung: to turn (off), to turn aside
 
 ---
-Morpheme: [[ab]][[bieg]][[en]]
+Morpheme: [[ab 1]][[bieg]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[ab]][[bieg]][[en]]
 | Sie | [[biegen ab]] | [[bogen ab]] | [[biegen Sie ab]] | [[biegen ab]] | [[bögen ab]] |
 
 Partizip I: [[abbiegend]], Partizip II: [[abgebogen]]
-[[abbiegen]] - [[ab]] = [[biegen]]
+[[abbiegen]] - [[ab 1]] = [[biegen]]

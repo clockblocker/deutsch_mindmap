@@ -1,1 +1,1 @@
-, [[anfangen]], [[fangen]], [[auffangen]]
+, [[anfangen]], [[fangen]], [[Worter/auffangen]]

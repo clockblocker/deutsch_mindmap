@@ -7,7 +7,7 @@ nicht [[schmerzlos]]
 
 ---
 Synonyme: [[quälend]], [[leidvoll]], [[schmerzhaft]], [[qualvoll]], [[marternd]]
-Antonyme: [[angenehm]], [[erfreulich]], [[erleichternd]], [[wohltuend]], [[sanft]]
+Antonyme: [[angenehm 1]], [[erfreulich]], [[erleichternd]], [[wohltuend]], [[sanft]]
 
 ---
 **Übersetzung**:

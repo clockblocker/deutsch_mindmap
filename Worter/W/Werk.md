@@ -7,7 +7,7 @@ Auch die Versteigerungssummen für zeitgenössische [[Werke]] können sich sehen
 
 ---
 Synonyme:
-- [[Opus]], [[Kunstwerk]], [[Schöpfung]], [[Produkt]], [[Arbeit]]
+- [[Opus]], [[Kunstwerk]], [[Schöpfung]], [[Produkt]], [[arbeit 1]]
 
 ---
 Übersetzung: work, opus, creation, product

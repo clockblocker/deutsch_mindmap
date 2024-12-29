@@ -10,7 +10,7 @@ Dir gefällt also nicht wie ich steuere, ja?
 
 ---
 Synonyme: [[zusagen]], [[behagen]], [[freuen]], [[erfreuen]], [[zusagen]]
-Antonyme: [[missfallen]], [[ablehnen]], [[stören]], [[verärgern]]
+Antonyme: [[missfallen]], [[ablehnen 1]], [[stören]], [[verärgern]]
 
 ---
 Übersetzung: to please, to be pleasing

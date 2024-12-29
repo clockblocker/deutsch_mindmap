@@ -13,7 +13,7 @@ Antonyme: [[sitzen bleiben]], [[niedergehen]], [[langsam bewegen]]
 Übersetzung: to jump up, to spring up
 
 ---
-Morpheme: [[auf]][[spring]][[en]]
+Morpheme: [[Worter/auf]][[spring]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -30,4 +30,4 @@ Morpheme: [[auf]][[spring]][[en]]
 
 Partizip I: [[aufspringend]], Partizip II: [[aufgesprungen]]
 
-[[aufspringen]] - [[auf]] = [[springen]]
+[[aufspringen]] - [[Worter/auf]] = [[springen]]

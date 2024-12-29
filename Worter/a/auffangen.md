@@ -1,4 +1,4 @@
-🕸️ [[auffangen]] + Akk, [ˈaʊ̯fˌfaŋən]
+🕸️ [[Worter/auffangen]] + Akk, [ˈaʊ̯fˌfaŋən]
 [[fing auf|fing auf]]  
 haben [[aufgefangen]]
 
@@ -14,7 +14,7 @@ Antonyme: [[verlieren]], [[fallen lassen]], [[vorbeilassen]]
 Übersetzung: to catch, to intercept
 
 ---
-Morpheme: [[auf]][[fang]][[en]]
+Morpheme: [[Worter/auf]][[fang]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,5 +31,5 @@ Morpheme: [[auf]][[fang]][[en]]
 
 Partizip I: [[auffangend]], Partizip II: [[aufgefangen]]
 
-[[auffangen]] - [[auf]] = [[fangen]]
+[[Worter/auffangen]] - [[Worter/auf]] = [[fangen]]
 , [[zuwerfen]]

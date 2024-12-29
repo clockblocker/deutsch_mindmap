@@ -14,7 +14,7 @@ Antonyme: [[eintauchen]], [[einwässern]], [[befeuchten]]
 Übersetzung: to wring out
 
 ---
-Morpheme: [[aus]][[wring]][[en]]
+Morpheme: [[Worter/A/aus]][[wring]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -31,4 +31,4 @@ Morpheme: [[aus]][[wring]][[en]]
 
 Partizip I: [[auswringend]], Partizip II: [[ausgewrungen]]
 
-[[auswringen]] - [[aus]] = [[wringen]]
+[[auswringen]] - [[Worter/A/aus]] = [[wringen]]

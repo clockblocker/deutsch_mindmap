@@ -5,7 +5,7 @@ haben/sein [[gebogen]]
 ---
 
 ---
-[[abbiegen]] - [[ab]] = [[biegen]]
+[[abbiegen]] - [[ab 1]] = [[biegen]]
 
 ---
 Synonyme: [[krümmen]], [[beugen]], [[verbiegen]], [[wenden]], [[neigen]]

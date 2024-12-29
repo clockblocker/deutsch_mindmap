@@ -1,7 +1,7 @@
-🚦 [[Worter/angehen]] | [[ging an|ging an]], haben [[angegangen]]
+🚦 [[angehen 1]] | [[ging an|ging an]], haben [[angegangen]]
 
 ---
- Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[Worter/angehen|geht]] [[dich]] nun wirklich [[nichts]] [[an]]!“
+ Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[angehen 1|geht]] [[dich]] nun wirklich [[nichts]] [[an 1]]!“
 
 ---
 Synonyme: [[beginnen]], [[starten]], [[einleiten]], [[in Angriff nehmen]], [[aufnehmen]]
@@ -11,7 +11,7 @@ Antonyme: [[aufhören]], [[beenden]], [[stoppen]], [[abbrechen]]
 to start, to begin, to tackle, to concern
 
 ---
-[[an]][[geh]][[en]]
+[[an 1]][[geh]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[angehend]],
 Partizip II: [[angegangen]]
 Zu+infinitive: [[anzugehen]]
 
-[[Worter/angehen]] - [[an]] = [[gehen]]
+[[angehen 1]] - [[an 1]] = [[gehen]]
 
 ---
 [[Angang]], [[Angelegenheit]], [[Anfang]], [[Vorgehen]], [[Herangehensweise]]

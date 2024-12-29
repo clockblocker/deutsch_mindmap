@@ -5,7 +5,7 @@
 
 
 ---
-Synonyme: [[aufgrund von]], [[infolge]], [[aus]], [[von wegen]], [[angesichts]], [[zugrunde liegende]]
+Synonyme: [[aufgrund von]], [[infolge]], [[Worter/A/aus]], [[von wegen]], [[Angesichts]], [[zugrunde liegende]]
 Antonyme: [[trotz]], [[ungeachtet]], [[unbeschadet]], [[entgegen]]
 
 ---
@@ -32,7 +32,7 @@ Prosessed the word wegen. Identified it as Präposition.
 
 ---
 Synonyme: 
-- [[aufgrund von]], [[infolge]], [[aus]], [[durch]], [[von wegen]], [[um ... willen]]
+- [[aufgrund von]], [[infolge]], [[Worter/A/aus]], [[durch]], [[von wegen]], [[um ... willen]]
 
 ---
 Antonyme:

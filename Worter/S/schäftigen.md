@@ -6,7 +6,7 @@
 [[beschäftigen]] - [[be]] = [[schäftigen]]
 
 ---
-Synonyme: [[arbeiten]], [[tätig sein]], [[anstellen]], [[einsetzen]], [[engagieren]]
+Synonyme: [[Arbeiten]], [[tätig sein]], [[anstellen]], [[einsetzen]], [[engagieren]]
 Antonyme: [[entlassen]], [[freistellen]], [[arbeitslos machen]]
 
 ---

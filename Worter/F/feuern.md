@@ -6,7 +6,7 @@ haben [[gefeuert]]
 STEFAN: Du bist [[gefeuert]]!  
 
 ---
-[[abfeuern]] - [[ab]] = [[feuern]]
+[[abfeuern]] - [[ab 1]] = [[feuern]]
 
 ---
 Synonyme: [[entlassen]], [[kündigen]], [[rauswerfen]], [[absetzen]], [[eliminieren]]

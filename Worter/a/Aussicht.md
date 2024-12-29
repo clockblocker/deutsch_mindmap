@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[aus]][[Sicht]]
+[[Worter/A/aus]][[Sicht]]
 
 ---
 Einzigartige mögliche Formen: [[Aussicht]], [[Aussichten]], [[Aussichts]], [[Aussichtern]]

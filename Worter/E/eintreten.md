@@ -14,7 +14,7 @@ Antonyme: [[austreten]], [[verlassen]], [[herausgehen]]
 to enter, to step in, to occur (in case of events)
 
 ---
-[[ein]][[tret]][[en]]
+[[Worter/ein]][[tret]][[en]]
  
 ---
 
@@ -29,7 +29,7 @@ Partizip I: [[eintretend]],
 Partizip II: [[eingetreten]]
 Zu+infinifive: [[einzutreten]]
 
-[[eintreten]] - [[ein]] = [[treten]] / to enter, to step in
+[[eintreten]] - [[Worter/ein]] = [[treten]] / to enter, to step in
 
 ---
 [[Eintritt]], [[Eintreten]], [[Eintrittspreis]], [[Eintrittskarte]], [[Ereigniseintritt]]

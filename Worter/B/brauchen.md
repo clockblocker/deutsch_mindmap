@@ -15,7 +15,7 @@ Was du brauchst, ist Nics Training für Fernsehreporter!
 
 ---
 Synonyme: [[benötigen]], [[verwenden]], [[nötig haben]], [[erforderlich sein]], [[in Anspruch nehmen]]
-Antonyme: [[entbehren]], [[verzichten]], [[ablehnen]], [[verschmähen]], [[missen]]
+Antonyme: [[entbehren]], [[verzichten]], [[ablehnen 1]], [[verschmähen]], [[missen]]
 
 ---
 Übersetzung: to need, to require

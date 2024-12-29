@@ -8,7 +8,7 @@ SASCHA: Meine Mutter [[behandelt]] mich auch wie ein Baby 
 
 ---
 Synonyme: [[untersuchen]], [[pflegen]], [[versorgen]], [[kuratieren]], [[umgehen mit]]
-Antonyme: [[vernachlässigen]], [[ignorieren]], [[ablehnen]]
+Antonyme: [[vernachlässigen]], [[ignorieren]], [[ablehnen 1]]
 
 ---
 Übersetzung: to treat, to handle

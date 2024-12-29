@@ -16,7 +16,7 @@ Alfred [[gehört]] zu den Menschen, die immer den Kick suchen. Er braucht Abente
 
 ---
 Synonyme: [[besitzen]], [[zustehen]], [[zukommen]], [[zueigen sein]], [[zufallen]]
-Antonyme: [[verlieren]], [[abgeben]], [[wegwerfen]], [[ablehnen]]
+Antonyme: [[verlieren]], [[abgeben]], [[wegwerfen]], [[ablehnen 1]]
 
 ---
 Übersetzung: to belong to, to be owned by

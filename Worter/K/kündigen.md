@@ -7,7 +7,7 @@ SASCHA: Zu spät! Ich [[kündige]]!
 Er bestellt sofort die Zeitschriften ab und [[kündigt]] das Fitnessstudio. 
 
 ---
-Synonyme: [[beenden]], [[aufheben]], [[abbrechen]], [[terminieren]], [[beendigen]], [[feuern]], [[abbestellen]]
+Synonyme: [[beenden]], [[Worter/aufheben]], [[abbrechen]], [[terminieren]], [[beendigen]], [[feuern]], [[abbestellen]]
 Antonyme: [[verlängern]], [[fortsetzen]], [[beibehalten]]
 
 ---

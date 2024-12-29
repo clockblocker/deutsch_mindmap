@@ -7,7 +7,7 @@ haben [[geschnoddert]]
 ---
 
 ---
-Synonyme: [[spotten]], [[höhnen]], [[verspotten]], [[ablehnen]], [[herablassend reden]]
+Synonyme: [[spotten]], [[höhnen]], [[verspotten]], [[ablehnen 1]], [[herablassend reden]]
 Antonyme: [[respektieren]], [[ernst nehmen]], [[wertschätzen]]
 
 ---

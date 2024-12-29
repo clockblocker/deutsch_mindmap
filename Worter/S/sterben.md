@@ -14,7 +14,7 @@ sein [[gestorben]]
 
 
 ---
-[[aussterben]] - [[aus]] = [[sterben]]
+[[aussterben]] - [[Worter/A/aus]] = [[sterben]]
 
 
 ---

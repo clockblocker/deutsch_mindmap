@@ -7,7 +7,7 @@ Aang [[bemüht]] sich Appas Mund aufzukriegen, als Katara und Sokka zu ihm stoß
 
 ---
 Synonyme: [[versuchen]], [[sich anstrengen]], [[sich bemühen]], [[kämpfen]], [[sich abmühen]]
-Antonyme: [[aufgeben]], [[resignieren]], [[sich geschlagen geben]]
+Antonyme: [[Worter/aufgeben]], [[resignieren]], [[sich geschlagen geben]]
 
 ---
 Übersetzung: to strive, to make an effort, to try hard

@@ -8,7 +8,7 @@ NIC: Siehst du? Frauen lieben Azte! Sascha kann mir nicht [[widerstehe
 
 ---
 Synonyme: [[sich widersetzen]], [[sich auflehnen]], [[Widerstand leisten]], [[sich wehren]], [[protestieren]]
-Antonyme: [[nachgeben]], [[kapitulieren]], [[akzeptieren]], [[gehorchen]], [[sich fügen]]
+Antonyme: [[nachgeben]], [[kapitulieren]], [[akzeptieren 1]], [[gehorchen]], [[sich fügen]]
 
 ---
 Übersetzung: to resist, to withstand

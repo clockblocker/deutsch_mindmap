@@ -24,7 +24,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[an]][[klopf]][[en]]
+[[an 1]][[klopf]][[en]]
 
 ---
 Tags:

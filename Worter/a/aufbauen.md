@@ -3,7 +3,7 @@
 haben [[aufgebaut]]
 
 ---
-SAM: Ich helfe dir beim [[Aufbauen]] … Wo ist die Anleitung?  
+SAM: Ich helfe dir beim [[aufbauen]] … Wo ist die Anleitung?  
 
 SASCHA: Hast du in deinem [[leben]] schon mal ein Regal [[aufgebaut]]?  
 
@@ -20,7 +20,7 @@ Antonyme: [[abbrechen]], [[zerbrechen]], [[zerstören]], [[abbauen]]
 Übersetzung: to build up, to construct
 
 ---
-Morpheme: [[auf]][[bau]][[en]]
+Morpheme: [[Worter/auf]][[bau]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -37,5 +37,5 @@ Morpheme: [[auf]][[bau]][[en]]
 
 Partizip I: [[aufbauend]], Partizip II: [[aufgebaut]], [[aufzubauen]]
 
-[[aufbauen]] - [[auf]] = [[bauen]]
+[[aufbauen]] - [[Worter/auf]] = [[bauen]]
 , [[Extra 8]], [[abreißen]], [[aufstellen]], [[stellen]], [[umwerfen]], [[abnehmen]]

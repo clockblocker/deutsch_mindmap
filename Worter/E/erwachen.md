@@ -8,7 +8,7 @@ sein [[erwacht]]
 
 
 ---
-Synonyme: [[aufwachen]], [[aufstehen]], [[aus dem Schlaf kommen]], [[munter werden]], [[die Augen öffnen]]
+Synonyme: [[Worter/aufwachen]], [[Worter/aufstehen]], [[aus dem Schlaf kommen]], [[munter werden]], [[die Augen öffnen]]
 Antonyme: [[einschlafen]], [[schlafen]], [[dösen]], [[schlummern]]
 
 

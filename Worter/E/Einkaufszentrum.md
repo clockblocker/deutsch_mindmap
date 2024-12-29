@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Ein]][[kaufs]][[zentrum]]
+[[Worter/ein]][[kaufs]][[zentrum]]
 
 ---
 Einzigartige mögliche Formen: [[Einkaufszentrum]], [[Einkaufszentren]], [[Einkaufszentrums]], [[Einkaufszentren]]

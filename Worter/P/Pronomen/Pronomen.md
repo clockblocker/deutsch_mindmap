@@ -40,9 +40,9 @@
 
 5. #Relativpronomen 
 
-[[der]] (who, which, that),
-[[die]] (who, which, that),
-[[das]] (who, which, that),
+[[Worter/D/der]] (who, which, that),
+[[Worter/D/die]] (who, which, that),
+[[Worter/D/das]] (who, which, that),
 [[welcher]] (who, which),
 [[welche]] (who, which),
 [[welches]] (who, which)

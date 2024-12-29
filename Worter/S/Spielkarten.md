@@ -41,7 +41,7 @@ Here’s the list formatted as you requested:
 13. der [[Bube]] - Jack
 14. die [[Zehn]] - Ten
 15. die [[Neun]] - Nine
-16. die [[Acht]] - Eight
+16. die [[Worter/A/Acht]] - Eight
 17. die [[Sieben]] - Seven
 18. die [[Sechs]] - Six
 19. die [[Fünf]] - Five

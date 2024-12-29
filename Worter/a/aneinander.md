@@ -13,7 +13,7 @@ Antonyme: [[getrennt]], [[einzeln]], [[isoliert]], [[unabhängig]]
 
 ---
 Morpheme:
-[[an]][[einander]]
+[[an 1]][[einander]]
 
 ---
 #Adverb [[aneinander]]

@@ -7,7 +7,7 @@ Dir gefällt also nicht wie ich [[steuere]], ja?
 
 ---
 Synonyme: [[lenken]], [[führen]], [[manövrieren]], [[navigieren]], [[kontrollieren]]
-Antonyme: [[verlieren]], [[übersteuern]], [[aufgeben]], [[ausweichen]]
+Antonyme: [[verlieren]], [[übersteuern]], [[Worter/aufgeben]], [[ausweichen]]
 
 ---
 Übersetzung: to steer, to control

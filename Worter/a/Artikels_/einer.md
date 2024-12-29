@@ -1,7 +1,7 @@
- Nominative: [[ein]]
+ Nominative: [[Worter/A/Artikels_/ein]]
 
-Feminine Genitive: [[einer]]
-Feminine Dative: [[einer]]
+Feminine Genitive: [[Worter/A/Artikels_/einer]]
+Feminine Dative: [[Worter/A/Artikels_/einer]]
 
 
 [[Indefinitpronomen]]

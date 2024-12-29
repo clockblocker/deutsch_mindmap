@@ -6,7 +6,7 @@ Wie kommt es, dass ich jedes mal klitschnass werden muss, wenn du mit eiskaltem 
 
 ---
 Synonyme: [[eiskalt]], [[bitterkalt]], [[frostig]], [[gefroren]], [[durchgefroren]]
-Antonyme: [[lauwarm]], [[lau]], [[temperiert]], [[mild]], [[angenehm]]
+Antonyme: [[lauwarm]], [[lau]], [[temperiert]], [[mild]], [[angenehm 1]]
 
 ---
 **Übersetzung**: 

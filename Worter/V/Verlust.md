@@ -8,7 +8,7 @@ die [[Verluste]]
 
 ---
 Synonyme:
-- [[Einbuße]], [[Entzug]], [[Abgang]], [[Defizit]], [[Manko]]
+- [[Einbuße]], [[Entzug]], [[ABGANG]], [[Defizit]], [[Manko]]
 
 ---
 Antonyme:

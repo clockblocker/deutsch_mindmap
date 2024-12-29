@@ -9,7 +9,7 @@ Gleich ist es 20 Uhr. Der [[Worter/Theatersaal]] ist voll, das [[Stück]] ist [[
 
 ---
 Synonyme:
-- [[Teil]], [[Segment]], [[Abschnitt]]
+- [[Teil]], [[Segment]], [[Abschnitt 1]]
 
 ---
 **Übersetzung**: piece, part

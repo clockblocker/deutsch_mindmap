@@ -15,7 +15,7 @@ Synonyme:
 ---
 
 Morphems:
-[[durch]][[ein]][[ander]] [[einander]]
+[[durch]][[Worter/ein]][[ander]] [[einander]]
 
 ---
 #Substantiv #Neuter, [[11 08]]

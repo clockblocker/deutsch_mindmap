@@ -8,7 +8,7 @@ haben [[geschnitten]]
 *seine [[Nägel]] fast ein Jahr;*  
 
 ---
-[[ausschneiden]] - [[aus]] = [[schneiden]]
+[[ausschneiden]] - [[Worter/A/aus]] = [[schneiden]]
 
 
 ---

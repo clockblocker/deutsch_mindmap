@@ -10,14 +10,14 @@ r [[Absatz]]
 
 ---
 Synonyme:
-- [[Verkaufseinheit]], [[Paragraph]], [[Abschnitt]], [[Satzende]], [[Ferse]]
+- [[Verkaufseinheit]], [[Paragraph]], [[Abschnitt 1]], [[Satzende]], [[Ferse]]
 
 ---
 Übersetzung: paragraph, section, heel
 
 ---
 Morpheme:
-[[Ab]][[Satz]]
+[[ab 1]][[Satz]]
 
 ---
 Einzigartige mögliche Formen: [[Absatzes]], [[Absätze]], [[Absätzen]]

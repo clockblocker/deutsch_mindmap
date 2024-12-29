@@ -4,7 +4,7 @@
 - [[Wettervorhersage]]
 
 ---
-Synonyme: [[prophezeien]], [[prognostizieren]], [[voraussagen]], [[ankündigen]], [[erwarten]]
+Synonyme: [[prophezeien]], [[prognostizieren]], [[voraussagen]], [[ankündigen 1]], [[erwarten]]
 Antonyme: [[verheimlichen]], [[verschweigen]], [[ignorieren]]
 
 ---

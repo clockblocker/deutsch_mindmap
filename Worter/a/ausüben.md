@@ -14,7 +14,7 @@ Antonyme: [[unterlassen]], [[vernachlässigen]], [[ignorieren]]
 Übersetzung: to practice, to exercise, to perform
 
 ---
-Morpheme: [[aus]][[üb]][[en]]
+Morpheme: [[Worter/A/aus]][[üb]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[aus]][[üb]][[en]]
 
 Partizip I: [[ausübend]], Partizip II: [[ausgeübt]]
 
-[[ausüben]] - [[aus]] = [[üben]]
+[[ausüben]] - [[Worter/A/aus]] = [[üben]]

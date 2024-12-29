@@ -19,7 +19,7 @@ simple, easy
 
 ---
 Morpheme:
-[[ein]][[fach]]
+[[Worter/ein]][[fach]]
 
 ---
 

@@ -15,7 +15,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[an]][[Gesicht]]
+[[an 1]][[Gesicht]]
 
 ---
 Einzigartige mögliche Formen: [[Angesichts]], [[Angesichte]], [[Angesichtern]]

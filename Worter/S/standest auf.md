@@ -1,1 +1,1 @@
-[[aufstehen]]
+[[Worter/aufstehen]]

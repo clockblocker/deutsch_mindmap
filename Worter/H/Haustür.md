@@ -25,4 +25,4 @@ Dative: der [[Haustür]], den [[Haustüren]]
 ---
 [[haustürlich]], [[Haustürwahlkampf]], [[Haustürgeschäft]]
 
-[[Außentür]]
+[[Worter/Außentür]]

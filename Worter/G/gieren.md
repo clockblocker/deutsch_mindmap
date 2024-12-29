@@ -6,7 +6,7 @@ haben [[gegiert]]
 
 ---
 Synonyme: [[begehren]], [[verlangen]], [[sich sehnen]], [[lechzen]]
-Antonyme: [[ablehnen]], [[verabscheuen]], [[ignorieren]]
+Antonyme: [[ablehnen 1]], [[verabscheuen]], [[ignorieren]]
 
 ---
 Übersetzung: to long for, to crave, to yearn

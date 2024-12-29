@@ -11,7 +11,7 @@ Antonyme: [[verschweigen]], [[verheimlichen]], [[leugnen]], [[ignorieren]]
 to be responsible for, to account for, to justify
 
 ---
-[[ver]][[antwort]][[en]]
+[[ver]][[Antwort]][[en]]
    
 
 ---
@@ -27,7 +27,7 @@ Partizip I: [[verantwortend]],
 Partizip II: [[verantwortet]]
 Zu+infinitive: [[zu verantworten]]
 
-[[verantworten]] - [[ver]] = [[antworten]]
+[[verantworten]] - [[ver]] = [[Antworten]]
 
 ---
 [[Verantwortung]], [[Verantwortlichkeit]], [[Verantwortungsvolle]], [[Verantwortungsträger]], [[Verantwortungsbewusstsein]]

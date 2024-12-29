@@ -7,14 +7,14 @@ Miete! Oder ich [[greife an]]!
 
 
 ---
-Synonyme: [[attackieren]], [[überfallen]], [[belagern]], [[stürmen]], [[eindringen]], [[überfallen]]
-Antonyme: [[verteidigen]], [[schützen]], [[abwehren]], [[kapitulieren]], [[aufgeben]]
+Synonyme: [[Worter/attackieren]], [[überfallen]], [[belagern]], [[stürmen]], [[eindringen]], [[überfallen]]
+Antonyme: [[verteidigen]], [[schützen]], [[abwehren]], [[kapitulieren]], [[Worter/aufgeben]]
 
 ---
 Übersetzung: to attack
 
 ---
-Morpheme: [[an]][[greif]][[en]]
+Morpheme: [[an 1]][[greif]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -31,4 +31,4 @@ Morpheme: [[an]][[greif]][[en]]
 
 Partizip I: [[angreifend]], Partizip II: [[angegriffen]]
 
-[[angreifen]] - [[an]] = [[greifen]]
+[[angreifen]] - [[an 1]] = [[greifen]]

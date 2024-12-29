@@ -6,7 +6,7 @@ haben [[gestanden]]
 *[[stehen lassen|laß stehn]]! sonst brennst du lichterloh!"*
 
 ---
-[[aufstehen]] - [[auf]] = [[stehen]]          // встать
+[[Worter/aufstehen]] - [[Worter/auf]] = [[stehen]]          // встать
 [[überstehen]] - [[über]] = [[stehen]]     // пере_жить
 [[widerstehen]] - [[wider]] = [[stehen]] // противо_стоять
 [[verstehen]] - [[ver]] = [[stehen]]         // understand

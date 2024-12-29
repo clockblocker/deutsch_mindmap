@@ -11,7 +11,7 @@ haben [[geneigt]]
 
 ---
 Synonyme: [[tendieren]], [[zuneigen]], [[sich wenden]], [[hang haben]], [[geneigt sein]], [[bücken]],
-Antonyme: [[ablehnen]], [[opponieren]], [[widerstehen]]
+Antonyme: [[ablehnen 1]], [[opponieren]], [[widerstehen]]
 
 ---
 Übersetzung: to incline, to tend, to lean

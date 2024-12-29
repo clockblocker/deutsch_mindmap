@@ -9,7 +9,7 @@ Sie wurde [[gemeinsam]] von Historikern und ehemaligen DDR-Bürgern zusammengest
 
 ---
 Synonyme: [[zusammen]], [[vereint]], [[kollektiv]], [[kooperativ]], [[gemeinschaftlich]]
-Antonyme: [[einzeln]], [[separat]], [[individuell]], [[allein]], [[persönlich]]
+Antonyme: [[einzeln]], [[separat]], [[individuell]], [[Allein]], [[persönlich]]
 
 ---
 **Übersetzung**:

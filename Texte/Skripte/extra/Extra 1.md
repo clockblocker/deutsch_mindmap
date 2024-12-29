@@ -36,7 +36,7 @@ SASCHA: Hey, was ist [[denn]] das?
 ANNA: „Sascha Maus [[dieser]] Brief ist für dich. Hast du [[immer noch]] so [[viele]] [[Pickel]]?  
 Deine Mama.”
 
-SASCHA: Danke. [[Der hier]] ist [[aus]] Amerika.
+SASCHA: Danke. [[Der hier]] ist [[Worter/A/aus]] Amerika.
 
 ANNA: Aus Amerika? [[Von wem denn]]? [[Na sag schon]] ...
 
@@ -50,7 +50,7 @@ Der Brief ist von Sam! Sam Scott!
 
 ANNA: Wer ist Sam Scott?
 
-SASCHA: Er [[war]] mein Brieffreund. [[aber]] das ist sieben [[Jahr]]e [[her]].
+SASCHA: Er [[war]] mein Brieffreund. [[Worter/A/aber]] das ist sieben [[Jahr]]e [[her]].
 
 ANNA: Oh …
 
@@ -97,7 +97,7 @@ NIC: Ich [[vergesse]] [[nie]] [[etwas]]!
 
 ANNA: Danke Nic.
 
-NIC: Na Ladies, was geht so [[ab]]?
+NIC: Na Ladies, was geht so [[ab 1]]?
 
 ANNA: [[möchtest]] du was trinken, Nic?
 
@@ -111,7 +111,7 @@ ANNA: Sascha hat Post von Sam …
 
 NIC: Ach ja?
 
-ANNA: Ja, Sam – [[aus]] Amerika!
+ANNA: Ja, Sam – [[Worter/A/aus]] Amerika!
 
 NIC: Ach ja, aus Amerika?  
 Wow, und ist sie cool?  
@@ -126,7 +126,7 @@ NIC: Ach so … ein cooler Ami, ja? Huh!
 SASCHA: Nic! Niemand [[darf]] mein Fahrrad [[anfassen]]! [[Kapiert]]?  
 Niemand!
 
-NIC: [[aber]] [[warum]] nicht?
+NIC: [[Worter/A/aber]] [[warum]] nicht?
 
 SASCHA: Muss ich das [[begründen]]?
 
@@ -148,7 +148,7 @@ SAM: Aah, ich heiße Anna.
 
 SAM: Nein. Was sie sagen will, ist „Ich heiße Sam und komme aus Amerika“.
 
-SAM: Du kommst [[aus]] Amerika?
+SAM: Du kommst [[Worter/A/aus]] Amerika?
 
 SASCHA: [[Hilfe]], komm [[schon]] [[rein]].
 
@@ -396,7 +396,7 @@ SAM: Ahh – duschen. Mir ist heiß. Ich gehe duschen. Excuse me.
 
 SASCHA: [[Das war’s]]! Der Typ fliegt raus!
 
-NIC: [[aber]] [[wieso]]? Er ist doch so [[nett]] ...
+NIC: [[Worter/A/aber]] [[wieso]]? Er ist doch so [[nett]] ...
 
 SASCHA: Er – ist – mit meinem Fahrrad – gefahren!
 
@@ -419,7 +419,7 @@ NIC: [[Auf keinen Fall]]! Der Typ ist nicht mein Problem.
 
 SASCHA: Er fliegt raus – und [[zwar]] [[sofort]]!
 
-ANNA: [[aber]] er [[duscht]] [[gerade]]!
+ANNA: [[Worter/A/aber]] er [[duscht]] [[gerade]]!
 
 SASCHA: [[Das ist mir egal]] …
 

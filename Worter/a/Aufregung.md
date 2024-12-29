@@ -2,7 +2,7 @@
 die [[Aufregungen]]
 
 ---
-Alfred [[gehört]] zu den Menschen, die immer den [[Worter/Kick]] suchen. Er braucht [[Abenteuer]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
+Alfred [[gehört]] zu den Menschen, die immer den [[Worter/Kick]] suchen. Er braucht [[Abenteuer 1]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
 
 
 ---
@@ -13,7 +13,7 @@ Synonyme:
 excitement, agitation
 
 ---
-[[Auf]][[reg]][[ung]]
+[[Worter/auf]][[reg]][[ung]]
 
 ---
 Case: Singular, Plural  
@@ -25,5 +25,5 @@ Dative: der [[Aufregung]], den [[Aufregungen]]
 ---
 [[aufregen]], [[aufgeregt]], [[aufregend]], [[erregend]]
 
-[[Ruhe]], [[Panik]], [[aufregen]], [[aufgeregt]], [[Worter/Kick]], [[Abenteuer]]
+[[Ruhe]], [[Panik]], [[aufregen]], [[aufgeregt]], [[Worter/Kick]], [[Abenteuer 1]]
 , [[langweilen]]

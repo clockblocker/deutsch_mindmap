@@ -10,7 +10,7 @@ Lisa [[schüttelt]] den Kopf: „Das ist doch [[Quatsch]]. Du kannst das, du mus
 
 ---
 Synonyme: [[bewältigen]], [[meistern]], [[besiegen]], [[bezwingen]], [[durchbrechen]]
-Antonyme: [[unterliegen]], [[scheitern]], [[aufgeben]]
+Antonyme: [[unterliegen]], [[scheitern]], [[Worter/aufgeben]]
 
 ---
 Übersetzung: to overcome, to conquer, to prevail

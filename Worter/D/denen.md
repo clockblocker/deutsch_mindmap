@@ -18,4 +18,4 @@ Antonyme: [[diesen]], [[jenen]]
 
 | Kasus | Mask.   | Fem.    | Neut.   | Plural    |
 | ----- | ------- | ------- | ------- | --------- |
-| Dativ | [[dem]] | [[der]] | [[dem]] | [[denen]] |
+| Dativ | [[dem]] | [[Worter/D/der]] | [[dem]] | [[denen]] |

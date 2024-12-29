@@ -15,6 +15,6 @@ instead, in place of
 
 ---
 Related Words:
-[[statt]], [[dessen]], [[alternative]]
+[[statt]], [[dessen]], [[Alternative]]
 
 , [[Damit]]

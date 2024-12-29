@@ -3,7 +3,7 @@
 haben [[aufgeräumt]]
 
 ---
-Werner hat beim [[Aufräumen]] ein altes Urlaubsfoto gefunden. Er hat einen Rahmen dafür gekauft und will es im Wohnzimmer aufhängen.
+Werner hat beim [[aufräumen]] ein altes Urlaubsfoto gefunden. Er hat einen Rahmen dafür gekauft und will es im Wohnzimmer aufhängen.
 
 Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]. Martin ist [[sauer]]: „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“ 
 
@@ -15,7 +15,7 @@ Antonyme: [[verschmutzen]], [[verunreinigen]], [[unordentlich machen]]
 Übersetzung: to clean up, to tidy up
 
 ---
-Morpheme: [[auf]][[räum]][[en]]
+Morpheme: [[Worter/auf]][[räum]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -28,4 +28,4 @@ Morpheme: [[auf]][[räum]][[en]]
 | Sie | [[räumen auf]] | [[räumten auf]] | [[räumen Sie auf]] | [[räumen auf]] | [[räumten auf]] |
 
 Partizip I: [[aufräumend]], Partizip II: [[aufgeräumt]]
-[[aufräumen]] - [[auf]] = [[räumen]], [[vereinbaren]]
+[[aufräumen]] - [[Worter/auf]] = [[räumen]], [[vereinbaren]]

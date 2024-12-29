@@ -13,7 +13,7 @@ Antonyme: [[zusammenklappen]], [[schließen]], [[zusammenfalten]]
 Übersetzung: to unfold, to spread out
 
 ---
-Morpheme: [[aus]][[einander]][[klapp]][[en]]
+Morpheme: [[Worter/A/aus]][[einander]][[klapp]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,5 +26,5 @@ Morpheme: [[aus]][[einander]][[klapp]][[en]]
 | Sie | [[klappen auseinander]] | [[klappten auseinander]] | [[klappen Sie auseinander]] | [[klappen auseinander]] | [[klappten auseinander]] |
 
 Partizip I: [[auseinanderkappend]], Partizip II: [[auseinandergeklappt]]
-[[auseinanderklapfen]] - [[aus]][[einander]] = [[klapfen]]
+[[auseinanderklapfen]] - [[Worter/A/aus]][[einander]] = [[klapfen]]
 

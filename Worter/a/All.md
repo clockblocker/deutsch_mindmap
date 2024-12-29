@@ -25,5 +25,5 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[Worter/Alle]], [[aller]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
+[[Worter/Alle]], [[aller]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
 [[ganz]], [[ganze]], [[ganzes]], [[ganzen]], [[ganzem]], [[ganze]], [[ganzen]]

@@ -12,7 +12,7 @@ Antonyme: [[sich zurückhalten]], [[schweigen]], [[untätig bleiben]]
 to interfere, to intervene, to mix in
 
 ---
-[[ein]][[misch]][[en]]
+[[Worter/ein]][[misch]][[en]]
  
 ---
 
@@ -27,7 +27,7 @@ Partizip I: [[einmischend]],
 Partizip II: [[eingemischt]]
 Zu+infinitive: [[einzumischen]]
 
-[[Worter/einmischen]] - [[ein]] = [[mischen]]
+[[Worter/einmischen]] - [[Worter/ein]] = [[mischen]]
 
 ---
 [[Einmischung]], [[Einmischer]], [[Einmischerin]], [[Nichteinmischung]]

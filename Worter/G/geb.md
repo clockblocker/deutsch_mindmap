@@ -1,1 +1,1 @@
-[[übergeben]], [[zugeben]], [[geben]], [[aufgeben]], [[umgeben]], [[Ergebnis]], [[ausgeben]]
+[[übergeben]], [[zugeben]], [[geben]], [[Worter/aufgeben]], [[umgeben]], [[Ergebnis]], [[ausgeben]]

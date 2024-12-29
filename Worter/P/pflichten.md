@@ -7,7 +7,7 @@ haben [[gepflichtet]]
 
 ---
 Synonyme: [[zustimmen]], [[beipflichten]], [[beistimmen]], [[zustimmen]], [[einwilligen]]
-Antonyme: [[widersprechen]], [[ablehnen]], [[zurückweisen]]
+Antonyme: [[widersprechen]], [[ablehnen 1]], [[zurückweisen]]
 
 ---
 Übersetzung: to agree, to concur

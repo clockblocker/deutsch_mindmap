@@ -6,7 +6,7 @@ haben [[getraut]]
  Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[Worter/aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
 
 ---
-[[antrauen]] - [[an]] = [[trauen]] / to marry, to wed
+[[antrauen]] - [[an 1]] = [[trauen]] / to marry, to wed
 
 
 ---

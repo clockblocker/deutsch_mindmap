@@ -1,1 +1,1 @@
-, [[aufstehen]], [[sagen]]
+, [[Worter/aufstehen]], [[sagen]]

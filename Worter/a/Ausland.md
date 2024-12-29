@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[aus]][[land]]
+[[Worter/A/aus]][[land]]
 
 ---
 #Substantiv #Neuter

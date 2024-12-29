@@ -1,12 +1,12 @@
-🗣️[[ansprechen]] + Akk, [ˈanʃpʁɛçn̩],  🗣️ [[Ansprache]]
+🗣️[[ansprechen]] + Akk, [ˈanʃpʁɛçn̩],  🗣️ [[Ansprache 1]]
 [[sprach an|sprach an]]  
 haben [[angesprochen]]
 
 ---
-*So [[sprach]] sie ihren Liebsten [[an]]*  
+*So [[sprach]] sie ihren Liebsten [[an 1]]*  
 *Ob er es ihr steigen kann*
 
-Laura ist seit ein paar Tagen sehr unkonzentriert fällt ihr auf. Nach dem Unterricht [[ansprechen|spricht]] sie sie deshalb [[an]]. 
+Laura ist seit ein paar Tagen sehr unkonzentriert fällt ihr auf. Nach dem Unterricht [[ansprechen|spricht]] sie sie deshalb [[an 1]]. 
 
 Sebastian steht ein bisschen verloren da, als ihn einer von Miriams Freunden [[anspricht]]: „Hey, ich bin Nasim. Hilfst du mir mal mit den Getränken? Die sind noch im Auto.“ 
 
@@ -18,7 +18,7 @@ Antonyme: [[ignorieren]], [[schweigen]], [[überhören]]
 Übersetzung: to address, to speak to, to approach
 
 ---
-Morpheme: [[an]][[sprech]][[en]]
+Morpheme: [[an 1]][[sprech]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -31,4 +31,4 @@ Morpheme: [[an]][[sprech]][[en]]
 | Sie | [[sprechen an]] | [[sprachen an]] | [[sprechen Sie an]] | [[sprechen an]] | [[sprächen an]] |
 
 Partizip I: [[ansprechend]], Partizip II: [[angesprochen]]
-[[ansprechen]] - [[an]] = [[sprechen]] // to address, to speak to, to approach
+[[ansprechen]] - [[an 1]] = [[sprechen]] // to address, to speak to, to approach

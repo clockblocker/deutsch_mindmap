@@ -3,7 +3,7 @@
 haben [[bestellt]]
 
 ---
-[[abbestellen]] - [[ab]] = [[bestellen]]
+[[abbestellen]] - [[ab 1]] = [[bestellen]]
 
 ---
 Synonyme: [[ordern]], [[kaufen]], [[reservieren]], [[buchen]], [[anfordern]]

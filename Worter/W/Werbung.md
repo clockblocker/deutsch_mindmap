@@ -6,7 +6,7 @@ Beispiele:
 - [[Fernsehwerbung]]
 ---
 Synonyme:
-- [[Reklame]], [[Anzeigen]], [[Marketing]]
+- [[Reklame]], [[anzeigen]], [[Marketing]]
 
 ---
 **Übersetzung**: advertising, commercial, advertisement

@@ -10,7 +10,7 @@ haben [[übernommen]]
 
 ---
 Synonyme: [[überkommen]], [[auf sich nehmen]], [[annehmen]], [[adopieren]], [[erwerben]]
-Antonyme: [[abgeben]], [[ausschlagen]], [[loslassen]], [[ablehnen]]
+Antonyme: [[abgeben]], [[ausschlagen]], [[loslassen]], [[ablehnen 1]]
 
 ---
 Übersetzung: to take over, to assume

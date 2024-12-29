@@ -6,7 +6,7 @@ nicht [[mittelmäßig]]
 „Nein. Ich habe [[hervorragend]] geschlafen. Nur du bringst mich mit deiner [[Besserwisserei 1]] auf die Palme
 
 ---
-Synonyme: [[ausgezeichnet]], [[exzellent]], [[brillant]], [[hervorragend]], [[erstklassig]], [[überragend]]
+Synonyme: [[Worter/ausgezeichnet]], [[exzellent]], [[brillant]], [[hervorragend]], [[erstklassig]], [[überragend]]
 Antonyme: [[mittelmäßig]], [[schlecht]], [[durchschnittlich]], [[unbedeutend]]
 
 ---

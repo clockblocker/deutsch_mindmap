@@ -1,1 +1,1 @@
-[[erzählen]], [[erklären]], [[wegzaubern]], [[zugeben]], [[enthüllen]], [[sehen lassen]], [[berichten]], [[melden]], [[verantworten]], [[ermitteln]], [[verraten]], [[aufsagen]]
+[[erzählen]], [[erklären]], [[wegzaubern]], [[zugeben]], [[enthüllen]], [[sehen lassen]], [[berichten]], [[melden]], [[verantworten]], [[ermitteln]], [[verraten]], [[Worter/aufsagen]]

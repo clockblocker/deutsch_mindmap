@@ -1,6 +1,6 @@
 [[um]][[steigen]] change
-[[aus]][[steigen]] exit
-[[ein]][[steigen]]  board
+[[Worter/A/aus]][[steigen]] exit
+[[Worter/ein]][[steigen]]  board
 
 
 

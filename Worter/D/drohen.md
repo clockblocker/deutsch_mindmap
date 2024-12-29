@@ -7,7 +7,7 @@ haben [[gedroht]]
 *"Der Vater hat’s verboten!*  
 
 ---
-Synonyme: [[warnen]], [[androhen]], [[ankündigen]], [[vorhersagen]], [[warnschuss abfeuern]]
+Synonyme: [[warnen]], [[androhen]], [[ankündigen 1]], [[vorhersagen]], [[warnschuss abfeuern]]
 Antonyme: [[versprechen]], [[zusichern]], [[garantieren]], [[zusagen]]
 
 ---

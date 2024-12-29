@@ -2,7 +2,7 @@ Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Mens
   
 Paul weiß immer alles besser: „Linda, nimm nicht so viel [[Kaffeepulver 1]] für die Kaffeemaschine, sonst schmeckt der Kaffee wieder bitter“, sagt er, „Italiener nehmen immer nur vier [[Löffel]] Kaffee pro Person, so kommt das Aroma besser zur [[Geltung]].“ 
 
-Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
+Linda ist gerade [[Worter/aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
 
 „Du solltest das Brot in dünnere [[Scheiben 1]] schneiden, sonst bleibt es im Toaster stecken“, [[bemerkt]] Paul. Linda [[beißt]] die Zähne zusammen. 
 

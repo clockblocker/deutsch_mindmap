@@ -1,17 +1,17 @@
-🤝 [[anbieten]] | [[bot an|bot an]], haben [[Worter/angeboten]]
+🤝 [[anbieten]] | [[bot an|bot an]], haben [[angeboten 1]]
 
 ---
-Zum Glück haben Julia, Robin und Dennis [[Worter/angeboten]], ihr zu helfen. Sie stehen zu viert vor dem Schrank, Katie liest die [[Anleitung]]. 
+Zum Glück haben Julia, Robin und Dennis [[angeboten 1]], ihr zu helfen. Sie stehen zu viert vor dem Schrank, Katie liest die [[Anleitung]]. 
 
 ---
 Synonyme: [[vorschlagen]], [[darreichen]], [[präsentieren]], [[offerieren]], [[unterbreiten]]
-Antonyme: [[ablehnen]], [[zurückweisen]], [[verweigern]]
+Antonyme: [[ablehnen 1]], [[zurückweisen]], [[verweigern]]
 
 ---
 to offer
 
 ---
-[[an]][[biet]][[en]]
+[[an 1]][[biet]][[en]]
  
 ---
 
@@ -23,10 +23,10 @@ Wir: [[bieten an]], [[boten an]], -, [[bieten an]], [[böten an]]
 Ihr: [[bietet an]], [[botet an]], [[bietet an]], [[bietet an]], [[bötet an]]  
 
 Partizip I: [[anbietend]], 
-Partizip II: [[Worter/angeboten]]
+Partizip II: [[angeboten 1]]
 Zu+infinifive: [[anzubieten]]
 
-[[anbieten]] - [[an]] = [[bieten]] // to offer
+[[anbieten]] - [[an 1]] = [[bieten]] // to offer
 
 ---
 [[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]]

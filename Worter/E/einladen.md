@@ -9,13 +9,13 @@ die [[Einladung]]
 
 ---
 Synonyme: [[bitten]], [[auffordern]], [[bestellen]], [[engagieren]], [[rekrutieren]]
-Antonyme: [[abweisen]], [[ausschließen]], [[ignorieren]], [[ablehnen]]
+Antonyme: [[abweisen]], [[ausschließen]], [[ignorieren]], [[ablehnen 1]]
 
 ---
 Übersetzung: to invite
 
 ---
-Morpheme: [[ein]][[lad]][[en]]
+Morpheme: [[Worter/ein]][[lad]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -32,4 +32,4 @@ Morpheme: [[ein]][[lad]][[en]]
 
 Partizip I: [[einladend]], Partizip II: [[eingeladen]]
 
-[[einladen]] - [[ein]] = [[laden]], [[verscheuchen]]
+[[einladen]] - [[Worter/ein]] = [[laden]], [[verscheuchen]]

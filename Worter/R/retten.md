@@ -9,7 +9,7 @@ Aber ich glaube fest daran, Aang kann diese Welt retten.
 
 ---
 Synonyme: [[befreien]], [[beschützen]], [[bewahren]], [[schützen]], [[bergen]]
-Antonyme: [[aufgeben]], [[verlieren]], [[zerstören]]
+Antonyme: [[Worter/aufgeben]], [[verlieren]], [[zerstören]]
 
 ---
 Übersetzung: to save, to rescue

@@ -14,7 +14,7 @@ Antonyme: [[ausziehen]], [[ablegen]], [[entkleiden]]
 Übersetzung: to wear, to have on
 
 ---
-Morpheme: [[an]][[hab]][[en]]
+Morpheme: [[an 1]][[hab]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -30,4 +30,4 @@ Morpheme: [[an]][[hab]][[en]]
 
 Partizip I: [[anhabend]], Partizip II: [[angehabt]]
 
-[[anhaben]] - [[an]] = [[haben]]
+[[anhaben]] - [[an 1]] = [[haben]]

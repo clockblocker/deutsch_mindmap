@@ -6,17 +6,17 @@ Die Kinder werden bei Aangs [[Anblick]] überglücklich
 
 ---
 Synonyme:
-- [[Aussehen]], [[Erscheinung]], [[Bild]], [[Sicht]], [[Panorama]]
+- [[aussehen]], [[Erscheinung]], [[Bild]], [[Sicht]], [[Panorama]]
 
 ---
 Übersetzung: sight, view, appearance
 
 ---
 Morpheme:
-[[an]][[Blick]]
+[[an 1]][[Blick]]
 
 ---
-Einzigartige mögliche Formen: [[Anblicks]], [[Anblicke]], [[Anblicken]]
+Einzigartige mögliche Formen: [[Anblicks]], [[Anblicke]], [[anblicken]]
 
 ---
 #Substantiv #Maskulin

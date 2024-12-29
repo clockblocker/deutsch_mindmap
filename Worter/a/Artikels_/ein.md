@@ -1,5 +1,5 @@
 **Masculine:**
-• Nominative: [[ein]]
+• Nominative: [[Worter/A/Artikels_/ein]]
 • Accusative: [[einen]]
 • Genitive: [[eines]]
 • Dative: [[einem]]
@@ -7,11 +7,11 @@
 **Feminine:**
 • Nominative: [[eine]]
 • Accusative: [[eine]]
-• Genitive: [[einer]]
-• Dative: [[einer]]
+• Genitive: [[Worter/A/Artikels_/einer]]
+• Dative: [[Worter/A/Artikels_/einer]]
 
 **Neuter:**
-• Nominative: [[ein]]
-• Accusative: [[ein]]
+• Nominative: [[Worter/A/Artikels_/ein]]
+• Accusative: [[Worter/A/Artikels_/ein]]
 • Genitive: [[eines]]
 • Dative: [[einem]]

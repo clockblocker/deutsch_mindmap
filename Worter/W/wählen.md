@@ -8,7 +8,7 @@ Dort kann man für nicht einmal 50 Euro zwischen Sommerblumen, einem Haus in ein
 
 ---
 Synonyme: [[auswählen]], [[selektieren]], [[bestimmen]], [[auslesen]], [[erwählen]], [[aussuchen]]
-Antonyme: [[ablehnen]], [[verwerfen]], [[ignorieren]]
+Antonyme: [[ablehnen 1]], [[verwerfen]], [[ignorieren]]
 
 ---
 Übersetzung: to choose, to elect, to select

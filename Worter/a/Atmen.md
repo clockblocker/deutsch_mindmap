@@ -1,4 +1,4 @@
-🌬️ [[atmen]], [ˈaːtmən]
+🌬️ [[Atmen]], [ˈaːtmən]
 [[atmete]]
 haben [[geatmet]]
 
@@ -6,7 +6,7 @@ haben [[geatmet]]
 *Und das [[Atmen]] fällt mir ach so schwer*  
 
 ---
-[[Worter/durchatmen]] - [[durch]] = [[atmen]] / to take a deep breath
+[[Worter/durchatmen]] - [[durch]] = [[Atmen]] / to take a deep breath
 
 
 ---
@@ -28,9 +28,9 @@ Morpheme: [[at]][[m]][[en]]
 | Ich       | [[atme]]             | [[atmete]]            | -                 | [[atme]]               | [[atmete]]              |
 | Du        | [[atmest]]           | [[atmetest]]          | [[atme]]          | [[atest]]              | [[atmestest]]           |
 | Er/sie/es | [[atmet]]            | [[atmete]]            | -                 | [[atme]]               | [[atmete]]              |
-| Wir       | [[atmen]]            | [[atmeten]]           | -                 | [[atmen]]              | [[atmeten]]             |
+| Wir       | [[Atmen]]            | [[atmeten]]           | -                 | [[Atmen]]              | [[atmeten]]             |
 | Ihr       | [[atmet]]            | [[atmetet]]           | [[atmet]]         | [[atet]]               | [[atmetet]]             |
-| Sie       | [[atmen]]            | [[atmeten]]           | [[atmen Sie]]     | [[atmen]]              | [[atmeten]]             |
+| Sie       | [[Atmen]]            | [[atmeten]]           | [[atmen Sie]]     | [[Atmen]]              | [[atmeten]]             |
 
 Partizip I: [[atmend]], Partizip II: [[geatmet]]
 

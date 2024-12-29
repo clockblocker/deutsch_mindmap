@@ -11,7 +11,7 @@ Antonyme: [[übersehen]], [[ignorieren]], [[vernachlässigen]]
 to search thoroughly, to comb through, обыскивать
 
 ---
-[[ab]][[such]][[en]]
+[[ab 1]][[such]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[absuchend]],
 Partizip II: [[abgesucht]]
 Zu+infinifive: [[abzusuchen]]
 
-[[absuchen]] - [[ab]] = [[suchen]]
+[[absuchen]] - [[ab 1]] = [[suchen]]
 
 ---
 [[Absuche]], [[Absuchung]], [[Durchsuchung]], [[Suchtrupp]]

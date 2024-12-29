@@ -5,7 +5,7 @@
 *Das muß ein trefflich Spielzeug sein.*  
 
 ---
-Synonyme: [[vortrefflich]], [[ausgezeichnet]], [[hervorragend]], [[brillant]], [[herlich]], [[meisterhaft]]
+Synonyme: [[vortrefflich]], [[Worter/ausgezeichnet]], [[hervorragend]], [[brillant]], [[herlich]], [[meisterhaft]]
 Antonyme: [[schlecht]], [[mangelhaft]], [[ungenügend]], [[dürftig]], [[kläglich]]
 
 ---

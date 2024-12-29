@@ -1,9 +1,9 @@
-, [[Außentür]]
+, [[Worter/Außentür]]
 
 🔵 der [[Außen]]
 
 ---
-Unter einer [[Decke]] ist es warm und gemütlich. Was darunter passiert, kann man von [[außen]] nicht sehen. Es bleibt [[geheim]]. 
+Unter einer [[Decke]] ist es warm und gemütlich. Was darunter passiert, kann man von [[Außen]] nicht sehen. Es bleibt [[geheim]]. 
 
 
 ---
@@ -26,4 +26,4 @@ Genitive: des [[Außen]]
 Dative: dem [[Außen]]
 
 ---
-[[außen]], [[Außenseite]], [[Außenminister]], [[Außenpolitik]], [[Außenhandel]], [[Außenbereich]]
+[[Außen]], [[Außenseite]], [[Außenminister]], [[Außenpolitik]], [[Außenhandel]], [[Außenbereich]]

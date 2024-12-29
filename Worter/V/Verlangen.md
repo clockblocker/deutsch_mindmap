@@ -10,7 +10,7 @@ das [[Verlangen]]
 
 ---
 Synonyme: [[fordern]], [[beanspruchen]], [[erwarten]], [[heischen]], [[einfordern]]
-Antonyme: [[ablehnen]], [[verzichten]], [[ignorieren]], [[verweigern]]
+Antonyme: [[ablehnen 1]], [[verzichten]], [[ignorieren]], [[verweigern]]
 
 ---
 Übersetzung: to demand, to require, to expect

@@ -15,7 +15,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Gesicht]][[s]][[ausdruck]]
+[[Gesicht]][[s]][[Ausdruck]]
 
 ---
 Einzigartige mögliche Formen: [[Gesichtsausdrucks]], [[Gesichtsausdrucke]], [[Gesichtsausdrücken]]

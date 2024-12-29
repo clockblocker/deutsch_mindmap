@@ -1,17 +1,17 @@
-🧗 [[aufstehen]] | [[stand auf|stand auf]], sein [[aufgestanden]]
+🧗 [[Worter/aufstehen]] | [[stand auf|stand auf]], sein [[Worter/aufgestanden]]
 
 ---
-Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
+Linda ist gerade [[Worter/aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
 
 ---
-Synonyme: [[erheben]], [[aufwachen]], [[erwachen]], [[hochkommen]], [[sich erheben]]
+Synonyme: [[erheben]], [[Worter/aufwachen]], [[erwachen]], [[hochkommen]], [[sich erheben]]
 Antonyme: [[liegen bleiben]], [[schlafen]], [[sich hinlegen]]
 
 ---
 to get up, to rise
 
 ---
-[[auf]][[steh]][[en]]
+[[Worter/auf]][[steh]][[en]]
  
 ---
 
@@ -23,12 +23,12 @@ Wir: [[stehen auf]], [[standen auf]], -, [[stehen auf]], [[ständen auf]]
 Ihr: [[steht auf]], [[standet auf]], [[steht auf]], [[stehet auf]], [[ständet auf]]  
 
 Partizip I: [[aufstehend]], 
-Partizip II: [[aufgestanden]]
+Partizip II: [[Worter/aufgestanden]]
 Zu+infinifive: [[aufzustehen]]
 
-[[aufstehen]] - [[auf]] = [[stehen]]
+[[Worter/aufstehen]] - [[Worter/auf]] = [[stehen]]
 
 ---
-[[Aufstehen]], [[Aufsteher]], [[Aufstehzeit]], [[Morgenstunde]], [[Morgenroutine]]
+[[Worter/aufstehen]], [[Aufsteher]], [[Aufstehzeit]], [[Morgenstunde]], [[Morgenroutine]]
 
 [[erwachen]], [[fallen]], [[hocken]], [[zusammenbrechen]], [[sitzen]]

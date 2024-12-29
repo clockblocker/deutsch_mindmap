@@ -7,7 +7,7 @@ nicht [[bequem]]
 Synonyme: 
 [[unangenehm]], [[mühsam]], [[lästig]], [[beschwerlich]], [[schwierig]]
 Antonyme:
-[[bequem]], [[angenehm]], [[einfach]], [[komfortabel]], [[leicht]]
+[[bequem]], [[angenehm 1]], [[einfach]], [[komfortabel]], [[leicht]]
 
 ---
 Übersetzung:

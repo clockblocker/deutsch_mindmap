@@ -11,7 +11,7 @@ sein [[gegangen]]
 
 ---
 [[untergehen]] - [[unter]] = [[gehen]] / sink
-[[aufgehen]] - [[auf]] = [[gehen]] / open
+[[aufgehen]] - [[Worter/auf]] = [[gehen]] / open
 [[weggehen]] - [[weg]] = [[gehen]] / leave
 [[zugehen]] - [[zu]] = [[gehen]] / approach 
 [[rangehen]] - [[ran]] = [[gehen]] / get closer 
@@ -48,4 +48,4 @@ Morpheme: [[ge]][[h]][[en]]
 Partizip I: [[gehend]], Partizip II: [[gegangen]]
 
 [[untergehen]], [[weggehen]], [[liegen]], [[ausgehen]], [[springen]], [[stehen]], [[rennen]], [[fliegen]], [[aufgehen]]
-, [[vergehen]], [[kommen]], [[wandeln]], [[trappeln]], [[zugehen]], [[rangehen]], [[vorhergehen]], [[Worter/angehen]]
+, [[vergehen]], [[kommen]], [[wandeln]], [[trappeln]], [[zugehen]], [[rangehen]], [[vorhergehen]], [[angehen 1]]

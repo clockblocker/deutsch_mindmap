@@ -6,7 +6,7 @@ haben [[gestarrt]]
 
 
 ---
-[[anstarren]] - [[an]] = [[starren]]
+[[anstarren]] - [[an 1]] = [[starren]]
 
 
 ---

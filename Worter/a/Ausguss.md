@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Aus]][[guss]]
+[[Worter/A/aus]][[guss]]
 
 ---
 Einzigartige mögliche Formen: [[Ausgusses]], [[Ausguss]], [[Ausgüsse]], [[Ausgüssen]]  

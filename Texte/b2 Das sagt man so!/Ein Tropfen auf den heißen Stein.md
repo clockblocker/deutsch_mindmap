@@ -13,7 +13,7 @@ Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]
 Tom ist [[beleidigt]]: „Moment mal, ich habe das ganze [[Geschirr]] in die Küche gestellt.“ 
 Martin schaut in die Küche. [[Tatsächlich]]: Die ganze [[Spüle]] ist voller Teller, Gläser und Tassen – immer noch [[schmutzig]] natürlich. 
 
-„[[Außerdem]]“, erklärt Tom, „habe ich die Bücher ins Regal [[geräumt]].“ 
+„[[außerdem]]“, erklärt Tom, „habe ich die Bücher ins Regal [[geräumt]].“ 
 Martin schimpft: „Die paar Bücher? Das war doch nur ein Tropfen auf den heißen Stein! Was ist mit der Wäsche, den Getränkekisten, den Pflanzen?“ 
 
 Tom seufzt: „Okay, okay, die [[Chipstüte]] ist [[sowieso]] leer.“ 

@@ -13,7 +13,7 @@ Antonyme: [[sparen]], [[zurückhalten]], [[einsparen]]
 to spend (money), to pay out
 
 ---
-[[aus]][[geb]][[en]]
+[[Worter/A/aus]][[geb]][[en]]
  
 ---
 
@@ -28,7 +28,7 @@ Partizip I: [[ausgebend]],
 Partizip II: [[ausgegeben]]
 Zu+infinifive: [[auszugeben]]
 
-[[ausgeben]] - [[aus]] = [[geben]]
+[[ausgeben]] - [[Worter/A/aus]] = [[geben]]
 
 ---
 [[Ausgabe]], [[Ausgaben]], [[Ausgabepunkt]], [[Kassenausgabe]], [[Rechnungsausgabe]]

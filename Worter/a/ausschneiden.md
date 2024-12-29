@@ -12,7 +12,7 @@ Antonyme: [[ankleben]], [[zusammenfügen]], [[verbinden]]
 Übersetzung: to cut out
 
 ---
-Morpheme: [[aus]][[schneid]][[en]]
+Morpheme: [[Worter/A/aus]][[schneid]][[en]]
  #Verb  #Trennbar
 
 | Person    | Präsens            | Präteritum         | Imperativ             | Konjunktiv I       | Konjunktiv II      |
@@ -25,4 +25,4 @@ Morpheme: [[aus]][[schneid]][[en]]
 | Sie       | [[schneiden aus]]  | [[schnitten aus]]  | [[schneiden Sie aus]] | [[schneiden aus]]  | [[schnitten aus]]  |
 
 Partizip I: [[ausschneidend]], Partizip II: [[ausgeschnitten]]
-[[ausschneiden]] - [[aus]] = [[schneiden]]
+[[ausschneiden]] - [[Worter/A/aus]] = [[schneiden]]

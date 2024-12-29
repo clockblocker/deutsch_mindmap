@@ -8,7 +8,7 @@ _Die [[Pfeile]] des Jungen hören auf zu [[leuchten]] und er [[zusammenbrechen|b
 
 ---
 Synonyme: [[einstürzen]], [[niederfallen]], [[kollabieren]], [[umfallen]], [[zerfallen]]
-Antonyme: [[aufstehen]], [[stabilisieren]], [[erholen]], [[aushalten]]
+Antonyme: [[Worter/aufstehen]], [[stabilisieren]], [[erholen]], [[aushalten]]
 
 ---
 Übersetzung: to collapse, to break down

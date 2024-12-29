@@ -11,12 +11,12 @@ so [[fallen]] die Bücher doch runter …
 ---
 [[gefallen]] - [[ge]] = [[fallen]] / like
 [[missfallen]] - [[miss]] = [[fallen]] / dislike
-[[auffallen]] - [[auf]] = [[fallen]] //  to stand out, to be noticeable
+[[auffallen]] - [[Worter/auf]] = [[fallen]] //  to stand out, to be noticeable
 
 
 ---
 Synonyme: [[stürzen]], [[abstürzen]], [[niedersinken]], [[abstürzen]], [[herunterfallen]]
-Antonyme: [[aufstehen]], [[aufheben]], [[aufsetzen]], [[erheben]], [[hochkommen]]
+Antonyme: [[Worter/aufstehen]], [[Worter/aufheben]], [[aufsetzen]], [[erheben]], [[hochkommen]]
 
 ---
 Übersetzung: to fall
@@ -40,4 +40,4 @@ Partizip I: [[fallend]], Partizip II: [[gefallen]]
 
 
 +[[über]] = [[überfallen]]
-+[[ein]] = [[einfallen]], [[Extra 8]], [[steigen]], [[stehen]], [[schweben]], [[klettern]], [[missfallen]], [[auffallen]]
++[[Worter/ein]] = [[einfallen]], [[Extra 8]], [[steigen]], [[stehen]], [[schweben]], [[klettern]], [[missfallen]], [[auffallen]]

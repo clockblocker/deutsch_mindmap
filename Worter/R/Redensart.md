@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Reden]][[S]][[art]]
+[[Reden]][[S]][[Art]]
 
 ---
 Einzigartige mögliche Formen: [[Redensart]], [[Redensarts]], [[Redensarten]], [[Redensarte]]

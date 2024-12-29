@@ -6,7 +6,7 @@ Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Mens
 
 
 ---
-Synonyme: [[gemütlich]], [[komfortabel]], [[angenehm]], [[entspannt]], [[zweckmäßig]]
+Synonyme: [[gemütlich]], [[komfortabel]], [[angenehm 1]], [[entspannt]], [[zweckmäßig]]
 Antonyme: [[unbequem]], [[unangenehm]], [[unkomfortabel]], [[ungemütlich]]
 
 ---

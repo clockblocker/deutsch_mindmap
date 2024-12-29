@@ -1,1 +1,1 @@
-[[abholen]], [[hinterherschicken]], [[auffangen]]
+[[abholen]], [[hinterherschicken]], [[Worter/auffangen]]

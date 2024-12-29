@@ -1,8 +1,8 @@
-🟢 das [[Abenteuer]]
-die [[Abenteuer]]
+🟢 das [[Abenteuer 1]]
+die [[Abenteuer 1]]
 
 ---
-Alfred [[gehört]] zu den Menschen, die immer den [[Worter/Kick]] suchen. Er braucht [[Abenteuer]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
+Alfred [[gehört]] zu den Menschen, die immer den [[Worter/Kick]] suchen. Er braucht [[Abenteuer 1]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
 
 
 ---
@@ -17,10 +17,10 @@ adventure
 
 ---
 Case: Singular, Plural  
-Nominative: das [[Abenteuer]], die [[Abenteuer]]  
-Accusative: das [[Abenteuer]], die [[Abenteuer]]  
-Genitive: des [[Abenteuers]], der [[Abenteuer]]  
-Dative: dem [[Abenteuer]], den [[Abenteuern]] 
+Nominative: das [[Abenteuer 1]], die [[Abenteuer 1]]  
+Accusative: das [[Abenteuer 1]], die [[Abenteuer 1]]  
+Genitive: des [[Abenteuers]], der [[Abenteuer 1]]  
+Dative: dem [[Abenteuer 1]], den [[Abenteuern]] 
 
 ---
 [[abenteuerlich]], [[abenteuerlustig]], [[aventurieren]], [[langweilen]]

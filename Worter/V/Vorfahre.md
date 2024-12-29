@@ -8,7 +8,7 @@ Ja ja, eine [[uralte]] [[Kunst]] unserer [[Vorfahren]]. Bla bla bla.
 
 ---
 Synonyme:
-- [[Ahne]], [[Ahnherr]], [[Ahnfrau]]
+- [[ahne]], [[Ahnherr]], [[Ahnfrau]]
 
 ---
 Übersetzung: ancestor

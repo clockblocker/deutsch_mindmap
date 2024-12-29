@@ -10,7 +10,7 @@ ANNA: Nun einmal mit dem [[Zauberstab]] [[klopfen]] ...
  ihr habt mich nicht gehört …  
 
 ---
-[[auseinanderklapfen]] - [[aus]][[einander]] = [[klapfen]]
+[[auseinanderklapfen]] - [[Worter/K/Konjunktion/aus]][[einander]] = [[klapfen]]
 
 
 ---

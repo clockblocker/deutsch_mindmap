@@ -9,7 +9,7 @@ MARIA: Prima! Aber die haben mein Gepäck [[verloren]]!
  „Also, ich möchte mich ja nicht [[Worter/einmischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[Worter/aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“
  
 ---
-Synonyme: [[einbüßen]], [[preisgeben]], [[aufgeben]], [[wegwerfen]], [[abhandenkommen]]
+Synonyme: [[einbüßen]], [[preisgeben]], [[Worter/aufgeben]], [[wegwerfen]], [[abhandenkommen]]
 Antonyme: [[gewinnen]], [[erhalten]], [[bekommen]], [[finden]]
 
 ---
@@ -33,4 +33,4 @@ Morpheme: [[ver]][[lier]][[en]]
 
 Partizip I: [[verlierend]], Partizip II: [[verloren]]
 
-[[verlieren]] - [[ver]] = [[lieren]], [[haben]], [[retten]], [[kriegen]], [[suchen]], [[gehören]], [[nehm]], [[Lohnen]], [[verdienen]], [[entdeckten]], [[beherrschen]], [[steuere]], [[auffangen]], [[erzielen]], [[abbekommen]], [[schnappen]], [[abnehmen]]
+[[verlieren]] - [[ver]] = [[lieren]], [[haben]], [[retten]], [[kriegen]], [[suchen]], [[gehören]], [[nehm]], [[Lohnen]], [[verdienen]], [[entdeckten]], [[beherrschen]], [[steuere]], [[Worter/auffangen]], [[erzielen]], [[abbekommen]], [[schnappen]], [[abnehmen]]

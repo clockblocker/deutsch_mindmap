@@ -11,7 +11,7 @@
 
 ---
 Synonyme: [[handeln]], [[machen]], [[bewirken]], [[ausführen]], [[vollbringen]]
-Antonyme: [[lassen]], [[unterlassen]], [[verweigern]], [[ablehnen]]
+Antonyme: [[lassen]], [[unterlassen]], [[verweigern]], [[ablehnen 1]]
 
 ---
 Übersetzung: to do, to perform, to act

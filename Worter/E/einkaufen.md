@@ -61,4 +61,4 @@ to shop, to buy
 ---
 
 **Morphems of only infinitive:**  
-- [[ein]][[kaufen]]
+- [[Worter/ein]][[kaufen]]

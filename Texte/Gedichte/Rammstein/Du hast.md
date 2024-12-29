@@ -7,7 +7,7 @@ Du, du hast, du hast mich, du hast mich
 Du hast mich [[gefragt]], du hast mich gefragt  
 Du hast mich gefragt [[und]] [[Ich]] [[hab]] [[nichts]] [[gesagt]]
 
-[[willst]] du [[bis]] [[der]] [[Tod]] [[euch]] [[scheidet]]  
+[[willst]] du [[bis]] [[Worter/D/der]] [[Tod]] [[euch]] [[scheidet]]  
 [[Treu]] [[ihr]] [[sein]] [[für]] [[Worter/Alle]] [[Tage]]?  
 [[nein]]!  
 Nein!

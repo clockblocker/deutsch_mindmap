@@ -1,4 +1,4 @@
-🏳️ [[aufgeben]] + Akk, [ˈaʊ̯fɡeːbn̩]  
+🏳️ [[Worter/aufgeben]] + Akk, [ˈaʊ̯fɡeːbn̩]  
 [[gab auf|gab auf]]
 haben [[aufgegeben]]
 
@@ -13,7 +13,7 @@ Antonyme: [[durchhalten]], [[weiterführen]], [[gewinnen]], [[erreichen]]
 Übersetzung: to give up, to abandon
 
 ---
-Morpheme: [[auf]][[geb]][[en]]
+Morpheme: [[Worter/auf]][[geb]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -29,7 +29,7 @@ Morpheme: [[auf]][[geb]][[en]]
 
 Partizip I: [[aufgebend]], Partizip II: [[aufgegeben]]
 
-[[aufgeben]] - [[auf]] = [[geben]]
+[[Worter/aufgeben]] - [[Worter/auf]] = [[geben]]
 
 
 [[verlassen]], [[verlieren]], [[angreifen]], [[retten]], [[nachjagen]], [[suchen]], [[aushalten]], [[mithalten]], [[beherrschen]]

@@ -9,7 +9,7 @@ nicht [[süß]]
 Synonyme: 
 [[herb]], [[scharf]], [[sauer]], [[bitter]], [[gerbsäurehaltig]]
 Antonyme:
-[[süß]], [[mild]], [[sanft]], [[angenehm]]
+[[süß]], [[mild]], [[sanft]], [[angenehm 1]]
 
 ---
 **Übersetzung**:

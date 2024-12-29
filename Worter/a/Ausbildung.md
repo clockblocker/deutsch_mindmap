@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[aus]][[bild]][[ung]]
+[[Worter/A/aus]][[bild]][[ung]]
 
 ---
 Einzigartige mögliche Formen: [[Ausbildung]], [[Ausbildungen]]

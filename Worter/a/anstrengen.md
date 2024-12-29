@@ -11,7 +11,7 @@ Antonyme: [[entspannen]], [[erholen]], [[verschnaufen]], [[ruhen]]
 to strain, to exert, to tire
 
 ---
-[[an]][[streng]][[en]]
+[[an 1]][[streng]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[anstrengend]],
 Partizip II: [[angestrengt]]
 Zu+infinifive: [[anzustrengen]]
 
-[[anstrengen]] - [[an]] = [[strengen]]
+[[anstrengen]] - [[an 1]] = [[strengen]]
 
 ---
 [[Anstrengung]], [[anstrengend]], [[Anstrengungsfaktor]], [[angestrengt]], [[Worter/durchatmen]]

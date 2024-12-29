@@ -15,7 +15,7 @@ Antonyme: [[herein]], [[hinein]], [[drinnen]], [[innen]], [[zu]]
 
 ---
 Morpheme:
-[[hin]][[aus]]
+[[hin]][[Worter/A/aus]]
 
 ---
 #Adverb #Präposition

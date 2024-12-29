@@ -31,6 +31,6 @@ Weitere Informationen:
 - Kann willkürlich und unwillkürlich erfolgen
 
 Verwandte Begriffe:
-- [[atmen]]
+- [[Atmen]]
 - [[Atem]]
 - [[Atemzug]], [[entspringen]]

@@ -18,7 +18,7 @@ Aber wie [[schafft]] man es, über seinen eigenen [[Schatten]] zu springen?
 
 ---
 Synonyme: [[erschaffen]], [[kreieren]], [[produzieren]], [[bewältigen]], [[bewerkstelligen]]
-Antonyme: [[scheitern]], [[aufgeben]], [[versagen]]
+Antonyme: [[scheitern]], [[Worter/aufgeben]], [[versagen]]
 
 ---
 Übersetzung: to create, to accomplish, to manage

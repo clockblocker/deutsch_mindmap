@@ -6,7 +6,7 @@ Bei einer deutschen [[Redensart]] muss man aber noch auf viel mehr [[verzichten]
 Aber das sind auch alles Dinge, die ihn glücklich machen. Und auf die soll er in [[Zukunft]] verzichten?
 
 ---
-Synonyme: [[aufgeben]], [[absehen]], [[meiden]], [[unterlassen]], [[resignieren]], [[Verlangen]]
+Synonyme: [[Worter/aufgeben]], [[absehen]], [[meiden]], [[unterlassen]], [[resignieren]], [[Verlangen]]
 Antonyme: [[festhalten]], [[beharren]], [[durchsetzen]], [[kämpfen]],  [[brauchen]]
 
 ---

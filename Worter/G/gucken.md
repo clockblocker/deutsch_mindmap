@@ -12,7 +12,7 @@ Sokka sieht Katara an und [[guckt]] dann auf den Eisberg vor ihnen.
 ([[Guckt]] wieder in das Fernrohr und richtet dads Fernrohr auf die Siedlung des südlichen Wasserstamms)
 
 ---
-[[angucken]] - [[an]] = [[gucken]]
+[[angucken]] - [[an 1]] = [[gucken]]
 
 
 ---

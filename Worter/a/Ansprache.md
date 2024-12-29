@@ -1,4 +1,4 @@
-die 🗣️ 🔴 [[Ansprache]], [ˈanʃpʁaːxə]
+die 🗣️ 🔴 [[Ansprache 1]], [ˈanʃpʁaːxə]
 die [[Ansprachen]]
 
 ---
@@ -11,7 +11,7 @@ Synonyme:
 Übersetzung: speech, address, talk
 
 ---
-Morpheme: [[an]][[sprech]][[e]]
+Morpheme: [[an 1]][[sprech]][[e]]
 
 ---
 #Substantiv #Feminin

@@ -6,7 +6,7 @@ Genau, er ist bestimmt ein Spion der Feuermarine! Das sieht man schon an dem [[f
 
 ---
 Synonyme: [[schrecklich]], [[entsetzlich]], [[grässlich]], [[schlimm]], [[abscheulich]]
-Antonyme: [[wunderbar]], [[hervorragend]], [[großartig]], [[angenehm]]
+Antonyme: [[wunderbar]], [[hervorragend]], [[großartig]], [[angenehm 1]]
 
 ---
 **Übersetzung**:

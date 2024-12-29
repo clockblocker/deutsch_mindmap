@@ -1,4 +1,4 @@
 [[Indefinitpronomen]]
 
-[[ein]]er[[lei]]
+[[Worter/ein]]er[[lei]]
 [[andere]], [[egal]]

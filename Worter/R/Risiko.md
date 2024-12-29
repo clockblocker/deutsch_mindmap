@@ -25,4 +25,4 @@ Dative: dem [[Risiko]], den [[Risiken]]
 ---
 [[riskieren]], [[risikobehaftet]], [[risikoreich]], [[risikoarm]]
 
-, [[Gefahr]], [[Abenteuer]]
+, [[Gefahr]], [[Abenteuer 1]]

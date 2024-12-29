@@ -31,7 +31,7 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[Worter/Alle]], [[aller]], [[Worter/Alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
-[[Worter/Alle]], [[aller]], [[Worter/Alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
-[[Worter/Alle]], [[aller]], [[Worter/Alle]], [[alles]], [[allen]], [[allem]], [[aller]], [[allen]]
+[[Worter/Alle]], [[aller]], [[Worter/Alle]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
+[[Worter/Alle]], [[aller]], [[Worter/Alle]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
+[[Worter/Alle]], [[aller]], [[Worter/Alle]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
 ''', [[Jeder]]

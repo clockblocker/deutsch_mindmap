@@ -1,5 +1,5 @@
 [[einsam]], [ˈaɪ̯n.zaːm]
-nicht [[gesellig]], [[allein]]
+nicht [[gesellig]], [[Allein]]
 
 ---
 Sie fühlte sich aber [[einsam]] und schwach.
@@ -22,7 +22,7 @@ lonely, solitary, alone
 
 ---
 Morpheme:
-[[ein]][[sam]]
+[[Worter/ein]][[sam]]
 
 ---
 

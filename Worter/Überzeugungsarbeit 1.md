@@ -12,7 +12,7 @@ Synonyme:
 persuasion work, convincing effort
 
 ---
-[[Überzeugungs]][[arbeit]]
+[[Überzeugungs]][[arbeit 1]]
 
 ---
 Case: Singular, Plural  

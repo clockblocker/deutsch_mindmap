@@ -8,7 +8,7 @@ haben [[gewehrt]]
 
 ---
 Synonyme: [[abwehren]], [[verteidigen]], [[schützen]], [[beschützen]], [[bewahren]]
-Antonyme: [[zulassen]], [[erlauben]], [[akzeptieren]]
+Antonyme: [[zulassen]], [[erlauben]], [[akzeptieren 1]]
 
 ---
 Übersetzung: to defend, to fend off, to resist

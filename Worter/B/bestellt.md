@@ -7,7 +7,7 @@ haben [[bestellt]]
 
 ---
 Synonyme: [[ordern]], [[auftragen]], [[anfordern]], [[anweisen]], [[in Auftrag geben]], [[verordnen]]
-Antonyme: [[stornieren]], [[absagen]], [[ablehnen]]
+Antonyme: [[stornieren]], [[absagen]], [[ablehnen 1]]
 
 ---
 Übersetzung: to order, to place an order

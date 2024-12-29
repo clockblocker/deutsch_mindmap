@@ -1,17 +1,17 @@
 🐺 [[beißen]], [ˈbaɪ̯sn̩] | [[biss]], haben [[gebissen]]
 
 ---
-*Ja, ich [[abbeißen|beiß]] der Puppe den Hals ab*  
+*Ja, ich [[abbeißen 1|beiß]] der Puppe den Hals ab*  
 *Es geht mir nicht gut
 
 „Du solltest das Brot in dünnere [[Scheiben 1]] schneiden, sonst bleibt es im Toaster stecken“, [[bemerkt]] Paul. Linda [[beißt]] die [[Zähne]] zusammen. 
 
 
 ---
-[[abbeißen]] - [[ab]] = [[beißen]]
+[[abbeißen 1]] - [[ab 1]] = [[beißen]]
 
 ---
-Synonyme: [[knabbern]], [[kauen]], [[zerbeißen]], [[anfallen]], [[attackieren]]
+Synonyme: [[knabbern]], [[kauen]], [[zerbeißen]], [[anfallen]], [[Worter/attackieren]]
 Antonyme: [[streicheln]], [[liebkosen]], [[schonen]]
 
 ---

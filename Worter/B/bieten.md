@@ -5,11 +5,11 @@ haben [[geboten]]
 ---
 
 ---
-[[anbieten]] - [[an]] = [[bieten]] // to offer
+[[anbieten]] - [[an 1]] = [[bieten]] // to offer
 
 ---
 Synonyme: [[anbieten]], [[darbieten]], [[präsentieren]], [[offerieren]], [[bereitstellen]]
-Antonyme: [[ablehnen]], [[verweigern]], [[zurückhalten]]
+Antonyme: [[ablehnen 1]], [[verweigern]], [[zurückhalten]]
 
 ---
 Übersetzung: to offer, to provide

@@ -8,7 +8,7 @@ Verwendung: [[mit]] steht oft vor Substantiven, um eine Beziehung oder Verbunden
 
 ---
 Synonyme: [[zusammen]], [[und]], [[sowie]], [[einschließlich]], [[inclusive]]
-Antonyme: [[ohne]], [[getrennt]], [[abgesondert]], [[allein]]
+Antonyme: [[ohne]], [[getrennt]], [[abgesondert]], [[Allein]]
 
 ---
 #Preposition #mit

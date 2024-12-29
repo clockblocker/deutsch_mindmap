@@ -1,9 +1,9 @@
-[[aufgeben]]
+[[Worter/aufgeben]]
 
 
 
 , [[s1 e1]]
 
-🏳️[[aufgeben]]
+🏳️[[Worter/aufgeben]]
 
-🏳️ [[aufgeben]]
+🏳️ [[Worter/aufgeben]]

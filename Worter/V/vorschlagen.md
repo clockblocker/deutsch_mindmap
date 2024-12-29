@@ -7,7 +7,7 @@ Aber dem wird sie die Suppe schon noch versalzen! Beim nächsten Termin mit ihre
 
 ---
 Synonyme: [[empfehlen]], [[vorschlagen]], [[anregen]], [[vorschlagen]], [[vorschlagen]]
-Antonyme: [[ablehnen]], [[verwerfen]], [[ignorieren]]
+Antonyme: [[ablehnen 1]], [[verwerfen]], [[ignorieren]]
 
 ---
 to suggest, to propose
@@ -37,7 +37,7 @@ Zu+infinitive: [[vorzuschlagen]]
 
 ---
 Synonyme: [[empfehlen]], [[raten]], [[vorschlagen]], [[anregen]], [[vorschlagen]]
-Antonyme: [[ablehnen]], [[verwerfen]], [[ignorieren]]
+Antonyme: [[ablehnen 1]], [[verwerfen]], [[ignorieren]]
 
 ---
 to suggest, to propose

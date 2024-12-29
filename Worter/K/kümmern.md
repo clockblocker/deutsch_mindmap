@@ -9,7 +9,7 @@ Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[wä
 
 ---
 Synonyme: [[sorgen]], [[betreuen]], [[versorgen]], [[hegen]], [[pflegen]]
-Antonyme: [[vernachlässigen]], [[ignorieren]], [[ablehnen]]
+Antonyme: [[vernachlässigen]], [[ignorieren]], [[ablehnen 1]]
 
 ---
 Übersetzung: to care for, to tend to

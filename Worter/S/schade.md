@@ -5,7 +5,7 @@ MARIA: Ich hatte kein Geld mehr - [[schade]]! 
 
 ---
 Synonyme: [[jammerschade]], [[bedauerlich]], [[beklagenswert]], [[unglücklich]], [[übel]]
-Antonyme: [[erfreulich]], [[glücklich]], [[angenehm]], [[gut]], [[vorteilhaft]]
+Antonyme: [[erfreulich]], [[glücklich]], [[angenehm 1]], [[gut]], [[vorteilhaft]]
 
 ---
 **Übersetzung**:

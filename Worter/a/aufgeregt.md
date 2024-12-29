@@ -18,7 +18,7 @@ Antonyme: [[ruhig]], [[gelassen]], [[entspannt]], [[cool]], [[unbesorgt]]
 excited, agitated, nervous
 
 ---
-[[auf]][[geregt]]
+[[Worter/auf]][[geregt]]
 
 ---
 

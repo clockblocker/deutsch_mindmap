@@ -15,7 +15,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Ein]][[sicht]]
+[[Worter/ein]][[sicht]]
 
 ---
 Einzigartige mögliche Formen: [[Einsicht]], [[Einsicht]], [[Einsichten]], [[Einsichten]]

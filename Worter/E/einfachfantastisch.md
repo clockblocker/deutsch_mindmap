@@ -4,7 +4,7 @@
 Shakespeare ist  [[einfachfantastisch]]!
 
 ---
-Synonyme: [[wunderbar]], [[ausgezeichnet]], [[hervorragend]], [[fantastisch]], [[toll]]
+Synonyme: [[wunderbar]], [[Worter/ausgezeichnet]], [[hervorragend]], [[fantastisch]], [[toll]]
 Antonyme: [[schlecht]], [[miserabel]], [[erbärmlich]], [[furchtbar]], [[schrecklich]]
 
 ---

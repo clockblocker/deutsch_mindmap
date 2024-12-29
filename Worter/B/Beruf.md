@@ -8,7 +8,7 @@ die [[Berufe]]
 
 ---
 Synonyme:
-- [[Tätigkeit]], [[Profession]], [[Beschäftigung]], [[Arbeit]], [[Lebensunterhalt]]
+- [[Tätigkeit]], [[Profession]], [[Beschäftigung]], [[arbeit 1]], [[Lebensunterhalt]]
 
 ---
 Übersetzung: occupation, profession, vocation

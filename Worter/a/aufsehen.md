@@ -13,7 +13,7 @@ Antonyme: [[ignorieren]], [[übersehen]], [[wegschauen]]
 Übersetzung: to look up, to notice
 
 ---
-Morpheme: [[auf]][[seh]][[en]]
+Morpheme: [[Worter/auf]][[seh]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[auf]][[seh]][[en]]
 | Sie | [[sehen auf]] | [[sahen auf]] | [[sehen Sie auf]] | [[sehen auf]] | [[sähen auf]] |
 
 Partizip I: [[aufsehend]], Partizip II: [[aufgesehen]]
-[[aufsehen]] - [[auf]] = [[sehen]]
+[[aufsehen]] - [[Worter/auf]] = [[sehen]]

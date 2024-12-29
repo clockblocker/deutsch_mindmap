@@ -11,7 +11,7 @@ Antonyme: [[vergessen]], [[löschen]], [[ignorieren]]
 to write down, to note
 
 ---
-[[auf]][[schreib]][[en]]
+[[Worter/auf]][[schreib]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[aufschreibend]],
 Partizip II: [[aufgeschrieben]]
 Zu+infinifive: [[aufzuschreiben]]
 
-[[aufschreiben]] - [[auf]] = [[schreiben]]
+[[aufschreiben]] - [[Worter/auf]] = [[schreiben]]
 
 ---
 [[Aufschrieb]], 

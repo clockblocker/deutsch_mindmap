@@ -2,12 +2,12 @@
 die [[Vorträge]]
 
 ---
-Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
+Linda ist gerade [[Worter/aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
 
 
 ---
 Synonyme:
-- [[Rede]], [[Referat]], [[Präsentation]], [[Ansprache]], [[Rede]]
+- [[Rede]], [[Referat]], [[Präsentation]], [[Ansprache 1]], [[Rede]]
 
 ---
 lecture, talk, presentation

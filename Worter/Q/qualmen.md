@@ -6,7 +6,7 @@ haben [[gequalmt]]
 
 ---
 Synonyme: [[rauchen]], [[paffen]], [[dampfen]], [[schmauchen]], [[rauhen]]
-Antonyme: [[aufhören]], [[nichtrauchen]], [[atmen]]
+Antonyme: [[aufhören]], [[nichtrauchen]], [[Atmen]]
 
 ---
 Übersetzung: to smoke (emit smoke), to emit smoke

@@ -8,7 +8,7 @@ haben [[hingelegt]]
 
 ---
 Synonyme: [[absetzen]], [[abstellen]], [[deponieren]], [[niederlegen]], [[platzieren]]
-Antonyme: [[aufheben]], [[aufnehmen]], [[entfernen]]
+Antonyme: [[Worter/aufheben]], [[aufnehmen]], [[entfernen]]
 
 ---
 Übersetzung: to put down, to set down

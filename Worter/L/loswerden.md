@@ -11,7 +11,7 @@ SASCHA: Soll ich sie [[loswerden]], Nic?
 
 ---
 Synonyme: [[ablegen]], [[absetzen]], [[abgeben]], [[entledigen]], [[befreien]]
-Antonyme: [[behalten]], [[aufheben]], [[aufbewahren]], [[aufnehmen]], [[anschaffen]]
+Antonyme: [[behalten]], [[Worter/aufheben]], [[aufbewahren]], [[aufnehmen]], [[anschaffen]]
 
 ---
 Übersetzung: to get rid of, to dispose of

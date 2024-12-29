@@ -3,18 +3,18 @@
 haben [[ausgebreitet]]
 
 ---
-([[Breitet]] seine Hände aus und sieht Zuko [[an]]) 
+([[Breitet]] seine Hände aus und sieht Zuko [[an 1]]) 
 
 
 ---
 Synonyme: [[verbreiten]], [[austeilen]], [[auslegen]], [[entfalten]], [[zerstreuen]]
-Antonyme: [[zusammenfalten]], [[aufheben]], [[sammeln]], [[konzentrieren]], [[zurückziehen]]
+Antonyme: [[zusammenfalten]], [[Worter/aufheben]], [[sammeln]], [[konzentrieren]], [[zurückziehen]]
 
 ---
 Übersetzung: to spread (out), to distribute
 
 ---
-Morpheme: [[aus]][[breit]][[en]]
+Morpheme: [[Worter/A/aus]][[breit]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[aus]][[breit]][[en]]
 
 Partizip I: [[ausbreitend]], Partizip II: [[ausgebreitet]]
 
-[[ausbreiten]] - [[aus]] = [[breiten]], [[strecken]], [[auseinanderklapfen]], [[winden]], [[streuen]], [[wickeln]], [[stapeln]]
+[[ausbreiten]] - [[Worter/A/aus]] = [[breiten]], [[strecken]], [[auseinanderklapfen]], [[winden]], [[streuen]], [[wickeln]], [[stapeln]]

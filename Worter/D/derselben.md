@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[der]][[selbe]][[Worter/n]]
+[[Worter/D/der]][[selbe]][[Worter/n]]
 
 ---
 Einzigartige mögliche Formen: [[Selben]], [[Selber]], [[Selbes]], [[Selbem]], [[Selbem]], [[Selbem]], [[Selbem]], [[Selbem]] 

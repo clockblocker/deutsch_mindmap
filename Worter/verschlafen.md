@@ -5,7 +5,7 @@ Hoffentlich hilft ihr der Kaffee, den sie sich gerade im Café um die Ecke [[geh
 
 ---
 Synonyme: [[pennen]], [[schnarchen]], [[überschlafen]], [[verträumt sein]], [[verpennen]]
-Antonyme: [[aufwachen]], [[wach sein]], [[aktiv sein]]
+Antonyme: [[Worter/aufwachen]], [[wach sein]], [[aktiv sein]]
 
 ---
 to oversleep, to sleep through

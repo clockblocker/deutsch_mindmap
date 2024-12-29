@@ -13,7 +13,7 @@ Antonyme: [[schließen]], [[verschließen]], [[zuhalten]]
 Übersetzung: to manage to open
 
 ---
-Morpheme: [[auf]][[zu]][[krieg]][[en]]
+Morpheme: [[Worter/auf]][[zu]][[krieg]][[en]]
  #Verb #Trennbar #Infinitiv I
 ---
 
@@ -27,5 +27,5 @@ Morpheme: [[auf]][[zu]][[krieg]][[en]]
 | Sie       | [[kriegen auf]]      | [[kriegten auf]]      | [[kriegen Sie auf]]| [[kriegen auf]]        | [[kriegten auf]]        |
 
 Partizip I: [[aufzukrigend]], Partizip II: [[aufgekriegt]]
-[[aufzukriegen]] - [[auf]][[zu]] = [[kriegen]]
+[[aufzukriegen]] - [[Worter/auf]][[zu]] = [[kriegen]]
 

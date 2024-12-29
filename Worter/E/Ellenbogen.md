@@ -8,7 +8,7 @@ Ganz recht! _Sokka tippt sie mit dem [[Ellenbogen]] an_ Meinen herzlichen Glü
 
 ---
 Synonyme:
-- [[Arm]]bogen
+- [[arm]]bogen
 - [[Olekranon]]
 
 ---

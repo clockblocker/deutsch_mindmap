@@ -3,7 +3,7 @@
 ---
 
 ---
-[[aufsagen]] - [[auf]] = [[sagen]]                / to recite
+[[Worter/aufsagen]] - [[Worter/auf]] = [[sagen]]                / to recite
 [[vorhersagen]] - [[vor]] - [[her]] = [[sagen]] / forecast
 
 ---
@@ -31,4 +31,4 @@ Partizip II: [[gesagt]]
 Zu+Infinitive: [[zusagen]]
 
 ---
-[[Sage]], [[Sager]], [[Sagerin]], [[Aussage]], [[Zusage]], [[Absage]], [[Voraussage]], [[Nachsage]]
+[[Sage]], [[Sager]], [[Sagerin]], [[Worter/Aussage]], [[Zusage]], [[Absage 1]], [[Voraussage]], [[Nachsage]]

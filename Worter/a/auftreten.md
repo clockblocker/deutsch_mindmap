@@ -11,7 +11,7 @@ Antonyme: [[verschwinden]], [[verstecken]], [[abtreten]], [[zurückziehen]]
 to appear, to occur, to perform
 
 ---
-[[auf]][[tret]][[en]]
+[[Worter/auf]][[tret]][[en]]
  
 ---
 
@@ -26,9 +26,9 @@ Partizip I: [[auftretend]],
 Partizip II: [[aufgetreten]]
 Zu+infinitive: [[Worter/aufzutreten]]
 
-[[auftreten]] - [[auf]] = [[treten]] / to appear, to occur, to perform
+[[auftreten]] - [[Worter/auf]] = [[treten]] / to appear, to occur, to perform
 
 ---
-[[Worter/Auftritt]], [[Auftreten]], [[Auftretender]], [[Auftretende]], [[Auftrittsort]], [[Bühnenauftritt]], [[Konzertauftritt]]
+[[Worter/Auftritt]], [[auftreten]], [[Auftretender]], [[Auftretende]], [[Auftrittsort]], [[Bühnenauftritt]], [[Konzertauftritt]]
 
 , [[passieren]], [[erscheinen]], [[Worter/Auftritt]]

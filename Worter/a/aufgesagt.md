@@ -1,1 +1,1 @@
-, [[aufsagen]]
+, [[Worter/aufsagen]]

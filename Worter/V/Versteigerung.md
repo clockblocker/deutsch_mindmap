@@ -7,7 +7,7 @@ Auch die [[Versteigerungssummen]] für zeitgenössische Werke können sich sehen
 
 ---
 Synonyme:
-- [[Auktion]], [[Verkauf]], [[Lizitation]], [[Versteigern]],  [[Kunstauktionen]]
+- [[auktion]], [[Verkauf]], [[Lizitation]], [[Versteigern]],  [[Kunstauktionen]]
 
 ---
 Übersetzung: auction, sale by auction

@@ -13,7 +13,7 @@ Antonyme: [[heimgehen]], [[eintreten]], [[reinkommen]], [[bleiben]], [[hineingeh
 Übersetzung: to go out
 
 ---
-Morpheme: [[aus]][[geh]][[en]]
+Morpheme: [[Worter/A/aus]][[geh]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -30,4 +30,4 @@ Morpheme: [[aus]][[geh]][[en]]
 
 Partizip I: [[ausgehend]], Partizip II: [[ausgegangen]]
 
-[[ausgehen]] - [[aus]] = [[gehen]], [[Extra 8]], [[brennen]]
+[[ausgehen]] - [[Worter/A/aus]] = [[gehen]], [[Extra 8]], [[brennen]]

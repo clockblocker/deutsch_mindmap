@@ -13,7 +13,7 @@ Antonyme: [[unabhängig sein]], [[selbstständig sein]]
 Übersetzung: to depend on, to hang down
 
 ---
-Morpheme: [[ab]][[häng]][[en]]
+Morpheme: [[ab 1]][[häng]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[ab]][[häng]][[en]]
 | Sie | [[hängen ab]] | [[hingen ab]] | [[hängen Sie ab]] | [[hängen ab]] | [[hingen ab]] |
 
 Partizip I: [[abhängend]], Partizip II: [[abgehangen]]
-[[abhängen]] - [[ab]] = [[hängen]]
+[[abhängen]] - [[ab 1]] = [[hängen]]

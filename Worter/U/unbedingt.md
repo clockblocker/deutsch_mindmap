@@ -10,7 +10,7 @@ Sie scheinen nett zu sein, aber ein längeres Gespräch entwickelt sich nicht. U
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]
 [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
-Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. [[Außerdem]] habe ich mich [[bisher]] viel zu wenig mit [[Naturschutz]] [[beschäftigt]]. Ich werde bestimmt viel Neues lernen. Man muss nicht [[unbedingt]] um die halbe Welt reisen, um über den Tellerrand zu schauen, Brüderchen!“
+Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. [[außerdem]] habe ich mich [[bisher]] viel zu wenig mit [[Naturschutz]] [[beschäftigt]]. Ich werde bestimmt viel Neues lernen. Man muss nicht [[unbedingt]] um die halbe Welt reisen, um über den Tellerrand zu schauen, Brüderchen!“
 
 
 ---

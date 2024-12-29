@@ -8,7 +8,7 @@ Ob sie mit den Nachbarn [[zurechtkommen]] werden, die offenbar viel [[Wert]] auf
 
 ---
 Synonyme: [[bewältigen]], [[klarkommen]], [[zurechtfinden]], [[umgehen]], [[meistern]]
-Antonyme: [[scheitern]], [[versagen]], [[aufgeben]]
+Antonyme: [[scheitern]], [[versagen]], [[Worter/aufgeben]]
 
 ---
 Übersetzung: to manage, to cope, to get by

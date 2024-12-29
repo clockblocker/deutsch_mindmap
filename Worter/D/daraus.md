@@ -18,7 +18,7 @@ Antonyme: [[davor]], [[dahin]], [[anderweitig]]
 #Adverb #PronominalAdverb
 
 Grammatische Verwendung:
-- Zusammengesetzt aus [[da]] + [[aus]]
+- Zusammengesetzt aus [[da]] + [[Worter/A/aus]]
 - Zeigt eine Herkunft oder Folgerung aus einem vorherigen Kontext an
 
 Beispielsätze:

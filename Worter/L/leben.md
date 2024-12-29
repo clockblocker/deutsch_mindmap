@@ -37,7 +37,7 @@ haben [[gelebt]]
 
 
 ---
-Synonyme: [[existieren]], [[weiterleben]], [[fortbestehen]], [[atmen]], [[überleben]]
+Synonyme: [[existieren]], [[weiterleben]], [[fortbestehen]], [[Atmen]], [[überleben]]
 Antonyme: [[sterben]], [[aufhören]], [[vergehen]]
 
 ---

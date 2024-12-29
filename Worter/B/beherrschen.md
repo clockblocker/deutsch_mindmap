@@ -9,7 +9,7 @@ Nein. Ihr seid zu ungeduldig. Ihr müsst zuerst die Grundlagen richtig [[beherrs
 
 ---
 Synonyme: [[kontrollieren]], [[meistern]], [[steuern]], [[handhaben]], [[regieren]]
-Antonyme: [[verlieren]], [[aufgeben]], [[hilflos sein]], [[kapitulieren]]
+Antonyme: [[verlieren]], [[Worter/aufgeben]], [[hilflos sein]], [[kapitulieren]]
 
 ---
 Übersetzung: to master, to control

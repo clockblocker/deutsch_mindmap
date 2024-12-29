@@ -9,7 +9,7 @@ Mama! Ich [[bewerbe]] mich [[für]] einen Reporter-Job bei  Kanal 9
 
 ---
 Synonyme: [[kandidieren]], [[sich vorstellen]], [[sich präsentieren]], [[sich engagieren]], [[teilnehmen]]
-Antonyme: [[ablehnen]], [[zurückweisen]], [[ignorieren]], [[ausschlagen]]
+Antonyme: [[ablehnen 1]], [[zurückweisen]], [[ignorieren]], [[ausschlagen]]
 
 ---
 Übersetzung: to apply (for), to submit an application

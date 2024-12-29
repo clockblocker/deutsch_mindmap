@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Dauer]][[Aus]][[Stellung]]
+[[Dauer]][[Worter/A/aus]][[Stellung]]
 
 ---
 Einzigartige mögliche Formen: [[Dauerausstellung]], [[Dauerausstellungen]], [[Dauerausstellung]], [[Dauerausstellungen]]

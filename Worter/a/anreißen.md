@@ -8,13 +8,13 @@ haben [[angerissen]]
 
 ---
 Synonyme: [[markieren]], [[kennzeichnen]], [[hervorheben]], [[unterstreichen]], [[betonen]]
-Antonyme: [[verwischen]], [[auslöschen]], [[löschen]], [[tilgen]], [[streichen]]
+Antonyme: [[verwischen]], [[Worter/auslöschen]], [[löschen]], [[tilgen]], [[streichen]]
 
 ---
 Übersetzung: немногожко надорвать, to mark, to highlight
 
 ---
-Morpheme: [[an]][[reiß]][[en]]
+Morpheme: [[an 1]][[reiß]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[an]][[reiß]][[en]]
 
 Partizip I: [[anreißend]], Partizip II: [[angerissen]]
 
-[[anreißen]] - [[an]] = [[reißen]]
+[[anreißen]] - [[an 1]] = [[reißen]]

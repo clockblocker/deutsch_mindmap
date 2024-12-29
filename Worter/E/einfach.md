@@ -37,7 +37,7 @@ Tags:
 
 ---
 Morphems:
-[[ein]][[fach]]
+[[Worter/ein]][[fach]]
 
 просто
 

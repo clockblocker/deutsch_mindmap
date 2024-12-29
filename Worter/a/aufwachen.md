@@ -1,4 +1,4 @@
-⏰ [[aufwachen]]  
+⏰ [[Worter/aufwachen]]  
 [[wachte auf|wachte auf]]  
 sein [[aufgewacht]]
 
@@ -8,7 +8,7 @@ sein [[aufgewacht]]
 
 **Synonyme:**
 
-- [[erwachen]], [[wachwerden]], [[aufstehen]]
+- [[erwachen]], [[wachwerden]], [[Worter/aufstehen]]
 
 ---
 

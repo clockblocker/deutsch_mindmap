@@ -7,7 +7,7 @@ haben [[gefragt]]
 
 ---
 Synonyme: [[inquirieren]], [[interrogieren]], [[nachfragen]], [[erkundigen]], [[erheben]]
-Antonyme: [[antworten]], [[erwidern]], [[replizieren]], [[reagieren]]
+Antonyme: [[Antworten]], [[erwidern]], [[replizieren]], [[reagieren]]
 
 ---
 Übersetzung: to ask, to question

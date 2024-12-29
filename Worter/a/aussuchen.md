@@ -8,13 +8,13 @@ haben [[ausgesucht]]
 
 ---
 Synonyme: [[wählen]], [[auswählen]], [[bestimmen]], [[selektieren]], [[heraussuchen]]
-Antonyme: [[ablehnen]], [[zurückweisen]], [[verwerfen]]
+Antonyme: [[ablehnen 1]], [[zurückweisen]], [[verwerfen]]
 
 ---
 Übersetzung: to choose, to select
 
 ---
-Morpheme: [[aus]][[such]][[en]]
+Morpheme: [[Worter/A/aus]][[such]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -30,4 +30,4 @@ Morpheme: [[aus]][[such]][[en]]
 
 Partizip I: [[auswählend]], Partizip II: [[ausgesucht]]
 
-[[aussuchen]] - [[aus]] = [[suchen]]
+[[aussuchen]] - [[Worter/A/aus]] = [[suchen]]

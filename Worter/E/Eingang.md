@@ -1,4 +1,4 @@
-🔵 der [[ein]][[gang]]  
+🔵 der [[Worter/ein]][[gang]]  
 die [[Eingänge]]
 
 Beispiele:

@@ -3,7 +3,7 @@
 sein [[aufgegangen]]
 
 ---
-*Bauz! da [[geht]] die Türe [[auf]],*  
+*Bauz! da [[geht]] die Türe [[Worter/auf]],*  
 *und herein in schnellem Lauf*  
 
 ---
@@ -14,7 +14,7 @@ Antonyme: [[schließen]], [[untergehen]], [[verschwinden]], [[enden]], [[aufhör
 Übersetzung: to open (up), to rise (e.g. the sun), to come out, to emerge
 
 ---
-Morpheme: [[auf]][[geh]][[en]]
+Morpheme: [[Worter/auf]][[geh]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,5 +31,5 @@ Morpheme: [[auf]][[geh]][[en]]
 
 Partizip I: [[aufgehend]], Partizip II: [[aufgegangen]]
 
-[[aufgehen]] - [[auf]] = [[gehen]]
+[[aufgehen]] - [[Worter/auf]] = [[gehen]]
 , [[zerplatzen]]

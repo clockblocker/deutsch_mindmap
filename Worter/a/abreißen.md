@@ -17,7 +17,7 @@ Antonyme: [[aufbauen]], [[errichten]], [[erbauen]], [[konstruieren]], [[restauri
 Übersetzung: to tear down, to demolish
 
 ---
-Morpheme: [[ab]][[reiß]][[en]]
+Morpheme: [[ab 1]][[reiß]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -34,7 +34,7 @@ Morpheme: [[ab]][[reiß]][[en]]
 
 Partizip I: [[abreißend]], Partizip II: [[abgerissen]]
 
-[[abreißen]] - [[ab]] = [[reißen]]
+[[abreißen]] - [[ab 1]] = [[reißen]]
 
 , [[bauen]]
-, [[abbeißen]], [[umbauen]]
+, [[abbeißen 1]], [[umbauen]]

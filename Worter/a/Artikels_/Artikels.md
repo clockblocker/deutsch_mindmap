@@ -2,19 +2,19 @@
 
 | Case       | #Masculin | Feminin | #Neuter | #Plural |
 | ---------- | --------- | ------- | ------- | ------- |
-| #Nominativ | [[der]]   | [[die]] | [[das]] | [[die]] |
-| #Akkusativ | [[den]]   | [[die]] | [[das]] | [[die]] |
-| #Dativ     | [[dem]]   | [[der]] | [[dem]] | [[den]] |
-| #Genitiv   | [[des]]   | [[der]] | [[des]] | [[der]] |
+| #Nominativ | [[Worter/A/Artikels_/der]]   | [[Worter/A/Artikels_/die]] | [[Worter/A/Artikels_/das]] | [[Worter/A/Artikels_/die]] |
+| #Akkusativ | [[den]]   | [[Worter/A/Artikels_/die]] | [[Worter/A/Artikels_/das]] | [[Worter/A/Artikels_/die]] |
+| #Dativ     | [[dem]]   | [[Worter/A/Artikels_/der]] | [[dem]] | [[den]] |
+| #Genitiv   | [[des]]   | [[Worter/A/Artikels_/der]] | [[des]] | [[Worter/A/Artikels_/der]] |
 
 ### Unbestimmte Artikel:
 
 | Case       | #Masculin | #Feminin  | #Neuter   | #Plural |
 | ---------- | --------- | --------- | --------- | ------- |
-| #Nominativ | [[ein]]   | [[eine]]  | [[ein]]   | (none)  |
-| #Akkusativ | [[einen]] | [[eine]]  | [[ein]]   | (none)  |
-| #Dativ     | [[einem]] | [[einer]] | [[einem]] | (none)  |
-| #Genitiv   | [[eines]] | [[einer]] | [[eines]] | (none)  |
+| #Nominativ | [[Worter/A/Artikels_/ein]]   | [[eine]]  | [[Worter/A/Artikels_/ein]]   | (none)  |
+| #Akkusativ | [[einen]] | [[eine]]  | [[Worter/A/Artikels_/ein]]   | (none)  |
+| #Dativ     | [[einem]] | [[Worter/A/Artikels_/einer]] | [[einem]] | (none)  |
+| #Genitiv   | [[eines]] | [[Worter/A/Artikels_/einer]] | [[eines]] | (none)  |
 
 ### Example Sentences:
 

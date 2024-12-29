@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morphems:
-[[ein]][[Brecher]]
+[[Worter/ein]][[Brecher]]
 
 ---
 #Substantiv #Masculin, [[11 08]], [[Räuber]]

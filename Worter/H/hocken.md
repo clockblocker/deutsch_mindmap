@@ -8,7 +8,7 @@ hatte [[gehockt]]
 
 ---
 Synonyme: [[kauern]], [[hocken]], [[sitzen]], [[sich niederlassen]], [[sich hinsetzen]]
-Antonyme: [[stehen]], [[aufstehen]]
+Antonyme: [[stehen]], [[Worter/aufstehen]]
 
 ---
 Übersetzung: to crouch, to squat

@@ -61,4 +61,4 @@ to touch, to handle, get to work
 ---
 
 **Morphems of only infinitive:**  
-- [[an]][[fassen]], [[schaffen]]
+- [[an 1]][[fassen]], [[schaffen]]

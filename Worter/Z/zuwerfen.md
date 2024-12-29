@@ -7,7 +7,7 @@ Katara [[wirft]] Aang einen Fisch [[zu]]. Sofort kommen alle Pinguine zu Aang
 
 ---
 Synonyme: [[hinwerfen]], [[werfen]], [[schleudern]], [[schluden]], [[schmeißen]]
-Antonyme: [[aufheben]], [[auffangen]], [[sammeln]]
+Antonyme: [[Worter/aufheben]], [[Worter/auffangen]], [[sammeln]]
 
 ---
 Übersetzung: to throw to, to toss towards

@@ -19,7 +19,7 @@ Antonyme:
 
 ---
 Morpheme:
-[[Aus]][[wahl]]
+[[Worter/A/aus]][[wahl]]
 
 ---
 #Substantiv #Feminin

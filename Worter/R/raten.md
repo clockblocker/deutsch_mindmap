@@ -15,7 +15,7 @@ NIC: Mensch Sam, das ist ja Klasse!
 
 ---
 Synonyme: [[vermuten]], [[mutmaßen]], [[spekulieren]], [[schätzen]], [[annehmen]]
-Antonyme: [[wissen]], [[ablehnen]], [[verweigern]]
+Antonyme: [[wissen]], [[ablehnen 1]], [[verweigern]]
 
 ---
 Übersetzung: to guess, to advise

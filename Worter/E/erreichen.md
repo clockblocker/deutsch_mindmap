@@ -33,4 +33,4 @@ Morpheme: [[er]][[reich]][[en]]
 Partizip I: [[erreichend]], Partizip II: [[erreicht]]
 [[erreichen]] - [[er]] = [[reichwen]]
 
-, [[kriegen]], [[aufgeben]], [[erzielen]], [[erreichten]], [[reichen]], [[zugehen]]
+, [[kriegen]], [[Worter/aufgeben]], [[erzielen]], [[erreichten]], [[reichen]], [[zugehen]]

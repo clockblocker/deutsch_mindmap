@@ -6,8 +6,8 @@ haben [[ertragen]]
 Viele Tiere haben ein dickes Fell. Es hilft ihnen, starke Kälte und Wind zu [[ertragen]]
 
 ---
-Synonyme: [[aushalten]], [[erdulden]], [[tolerieren]], [[akzeptieren]], [[durchstehen]]
-Antonyme: [[ablehnen]], [[verweigern]], [[aufgeben]], [[kapitulieren]]
+Synonyme: [[aushalten]], [[erdulden]], [[tolerieren]], [[akzeptieren 1]], [[durchstehen]]
+Antonyme: [[ablehnen 1]], [[verweigern]], [[Worter/aufgeben]], [[kapitulieren]]
 
 ---
 Übersetzung: to endure, to tolerate, to bear

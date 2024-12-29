@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Doktor]][[Arbeit]]
+[[Doktor]][[arbeit 1]]
 
 ---
 Einzigartige mögliche Formen: [[Doktorarbeit]], [[Doktorarbeiten]], [[Doktorarbeits]]

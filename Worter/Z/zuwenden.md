@@ -8,7 +8,7 @@ haben [[zugewandt]]
 
 ---
 Synonyme: [[richten]], [[lenken]], [[ausrichten]], [[zukehren]], [[widmen]], [[wegdrehen]]
-Antonyme: [[abwenden]], [[fernhalten]], [[distanzieren]], [[ignorieren]], [[ablehnen]]
+Antonyme: [[abwenden]], [[fernhalten]], [[distanzieren]], [[ignorieren]], [[ablehnen 1]]
 
 ---
 Übersetzung: to turn towards, to direct to, to devote

@@ -9,7 +9,7 @@ Eines Tages aber sprang aus einem Busch ein Leopard auf den Hirsch und brachte i
 *mit leichtem Mut und Sing und Sang,*  
 
 ---
-[[aufspringen]] - [[auf]] = [[springen]] / jump up
+[[aufspringen]] - [[Worter/auf]] = [[springen]] / jump up
 [[entspringen]] - [[ent]] = [[springen]] / arise
 
 

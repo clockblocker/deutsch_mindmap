@@ -1,4 +1,4 @@
-🔵 der [[Aufgaben]] | [[aufgeben]]
+🔵 der [[Aufgaben]] | [[Worter/aufgeben]]
 die [[Aufgaben]]
 
 ---
@@ -13,7 +13,7 @@ Synonyme:
 tasks, assignments, duties
 
 ---
-[[Auf]][[gaben]]
+[[Worter/auf]][[gaben]]
 
 ---
 Case: Singular, Plural  
@@ -22,4 +22,4 @@ Accusative: den [[Aufgaben]], die [[Aufgaben]]
 Genitive: des [[Aufgabens]], der [[Aufgaben]]  
 Dative: dem [[Aufgaben]], den [[Aufgaben]] 
 
-[[aufgeben]], [[aufgabenfrei]], [[aufgabenorientiert]], [[aufgabenkritisch]]
+[[Worter/aufgeben]], [[aufgabenfrei]], [[aufgabenorientiert]], [[aufgabenkritisch]]

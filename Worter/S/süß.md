@@ -5,7 +5,7 @@
 Synonyme:
 - [[zuckrig]]
 - [[Lecker]]
-- [[angenehm]]
+- [[angenehm 1]]
 ---
 ANNA: Aber er ist so [[süß]] …
 

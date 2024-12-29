@@ -6,7 +6,7 @@ haben [[gemeldet]]
 _Alle melden sich und gehen weg. Sokka schlägt sich ins Gesicht_
 
 ---
-Synonyme: [[anmelden]], [[berichten]], [[mitteilen]], [[informieren]], [[ankündigen]]
+Synonyme: [[anmelden]], [[berichten]], [[mitteilen]], [[informieren]], [[ankündigen 1]]
 Antonyme: [[verschweigen]], [[verheimlichen]], [[zurückhalten]]
 
 ---

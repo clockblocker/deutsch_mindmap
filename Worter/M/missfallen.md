@@ -7,7 +7,7 @@ auf dem Stuhle hin und her.
 »Philipp, das [[mißfällt]] mir sehr!«
 
 ---
-Synonyme: [[ablehnen]], [[nicht gefallen]], [[stören]], [[irritieren]], [[verärgern]]
+Synonyme: [[ablehnen 1]], [[nicht gefallen]], [[stören]], [[irritieren]], [[verärgern]]
 Antonyme: [[gefallen]], [[mögen]], [[gutheißen]], [[zusagen]]
 
 ---

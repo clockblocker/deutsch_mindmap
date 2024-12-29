@@ -7,7 +7,7 @@ Jonas hat gleich seinen ersten [[Worter/Auftritt]]. Sie spielen „Wilhelm Tell�
 
 ---
 Synonyme:
-- [[Erscheinen]], [[Vorstellung]], [[Performance]], [[Bühnenauftritt]], [[Auftreten]]
+- [[Erscheinen]], [[Vorstellung]], [[Performance]], [[Bühnenauftritt]], [[auftreten]]
 
 ---
 appearance, performance, entrance

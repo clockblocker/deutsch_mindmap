@@ -7,7 +7,7 @@ Und manchmal auch [[zu zweit]]
 
 ---
 Synonyme: [[zusammen]], [[gemeinsam]], [[in Begleitung]], [[mit jemandem]]
-Antonyme: [[allein]], [[einzeln]], [[für sich]]
+Antonyme: [[Allein]], [[einzeln]], [[für sich]]
 
 ---
 Übersetzung: together, in pairs

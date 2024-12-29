@@ -13,7 +13,7 @@ Bitte [[setzt]] euch!
 
 ---
 Synonyme: [[bleiben]], [[verweilen]], [[rasten]], [[ruhen]], [[sich niederlassen]]
-Antonyme: [[aufstehen]], [[gehen]], [[laufen]], [[stehen]]
+Antonyme: [[Worter/aufstehen]], [[gehen]], [[laufen]], [[stehen]]
 
 ---
 Übersetzung: to sit

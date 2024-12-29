@@ -5,7 +5,7 @@ Manche Leute lassen sich nicht so [[einfach]] [[überzeugen 1]]. Wenn man erst [
 
 ---
 Synonyme: [[vollbringen]], [[erbringen]], [[bewerkstelligen]], [[zustande bringen]], [[schaffen]]
-Antonyme: [[versagen]], [[scheitern]], [[aufgeben]], [[misslingen]]
+Antonyme: [[versagen]], [[scheitern]], [[Worter/aufgeben]], [[misslingen]]
 
 ---
 to accomplish, to perform, to achieve

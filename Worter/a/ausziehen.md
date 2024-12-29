@@ -13,7 +13,7 @@ Antonyme: [[einziehen]], [[bleiben]], [[verweilen]]
 Übersetzung: extract, to move out, to undress
 
 ---
-Morpheme: [[aus]][[zieh]][[en]]
+Morpheme: [[Worter/A/aus]][[zieh]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,7 +26,7 @@ Morpheme: [[aus]][[zieh]][[en]]
 | Sie | [[ziehen aus]] | [[zogen aus]] | [[ziehen Sie aus]] | [[ziehen aus]] | [[zögen aus]] |
 
 Partizip I: [[auszuziehend]], Partizip II: [[ausgezogen]]
-[[ausziehen]] - [[aus]] = [[ziehen]]
+[[ausziehen]] - [[Worter/A/aus]] = [[ziehen]]
 
 [[anhaben]], [[wohnen]]
 

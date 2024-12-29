@@ -14,7 +14,7 @@ Appa! Alles okay bei dir? *([[Hebt]] ein Augenlid von Appa [[hoch]])* Wach auf
 
 
 ---
-Synonyme: [[anheben]], [[aufheben]], [[emporbringen]], [[emporheben]], [[hochheben]], [[lupfen]], [[stemmen]]
+Synonyme: [[anheben]], [[Worter/aufheben]], [[emporbringen]], [[emporheben]], [[hochheben]], [[lupfen]], [[stemmen]]
 Antonyme: [[absenken]], [[fallenlassen]], [[hinunterlassen]], [[niederlegen]], [[runternehmen]]
 
 ---

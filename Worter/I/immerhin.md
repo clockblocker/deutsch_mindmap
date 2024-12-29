@@ -8,7 +8,7 @@ Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Er
 Synonyme:
 - [[zumindest]], [[wenigstens]], [[dennoch]], [[trotzdem]], [[gleichwohl]]
 Antonyme:
-- [[keinesfalls]], [[auf keinen Fall]], [[unter keinen Umständen]]
+- [[keinesfalls]], [[Auf keinen Fall]], [[unter keinen Umständen]]
 
 ---
 at least, still, nevertheless

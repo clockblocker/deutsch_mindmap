@@ -1,1 +1,1 @@
-, [[Worter/Kick]], [[Abenteuer]], [[Aufregung]], [[langweilen]], [[Glücksspiel]]
+, [[Worter/Kick]], [[Abenteuer 1]], [[Aufregung]], [[langweilen]], [[Glücksspiel]]

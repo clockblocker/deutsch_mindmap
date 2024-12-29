@@ -8,7 +8,7 @@ haben [[genickt]]
  
 ---
 Synonyme: [[zustimmen]], [[bejahen]], [[zunicken]], [[andeuten]], [[signalisieren]]
-Antonyme: [[verneinen]], [[ablehnen]], [[schütteln]]
+Antonyme: [[verneinen]], [[ablehnen 1]], [[schütteln]]
 
 ---
 Übersetzung: to nod

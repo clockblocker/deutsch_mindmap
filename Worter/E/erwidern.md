@@ -6,7 +6,7 @@
 Paul wirft einen Blick auf Lindas Schuhe: „Hast du die [[Wettervorhersage]] für heute nicht gehört? Es soll regnen!“ „Ich habe aber gerne [[nasse 1]] Füße“, [[erwidert 1]] Linda nun [[offensichtlich]] genervt.  
 
 ---
-Synonyme: [[antworten]], [[reagieren]], [[entgegnen]], [[zurückgeben]], [[konttern]]
+Synonyme: [[Antworten]], [[reagieren]], [[entgegnen]], [[zurückgeben]], [[konttern]]
 Antonyme: [[schweigen]], [[ignorieren]], [[verschweigen]]
 
 ---

@@ -16,7 +16,7 @@ Beispiele:
 
 - Er wurde von der Firma als Techniker [[angestellt]].
 - Sie hat etwas Dummes [[angestellt]].
-- Wir [[stellten]] ihn als neuen Mitarbeiter [[an]].
+- Wir [[stellten]] ihn als neuen Mitarbeiter [[an 1]].
 
 ---
 **Übersetzung**: to hire, to employ, to do, to commit
@@ -24,7 +24,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[an]][[stellen]]
+[[an 1]][[stellen]]
 
 ---
 Tags:
@@ -45,10 +45,10 @@ Präteritum:
 
 Imperativ:
 
-- [[stell]] dich in die Schlange [[an]]!
-- [[stellt]] die Maschine [[an]]!
-- [[Stellen wir]] ihn [[an]]!
-- [[Stellen Sie]] das Radio [[an]]!
+- [[stell]] dich in die Schlange [[an 1]]!
+- [[stellt]] die Maschine [[an 1]]!
+- [[Stellen wir]] ihn [[an 1]]!
+- [[Stellen Sie]] das Radio [[an 1]]!
 
 ---
 
@@ -65,9 +65,9 @@ Konjunktiv I:
 
 Konjunktiv II:
 
-- Wenn ich genug Geld hätte, [[stellte]] ich mehr Leute [[an]].
-- Wenn du kompetenter wärst, [[stelltest]] du die richtige Person [[an]].
-- Wenn er Zeit hätte, [[stellte]] er etwas Großes [[an]].
-- Wenn wir besser vorbereitet wären, [[stellten]] wir mehr Experimente [[an]].
-- Wenn ihr euch sicher wäret, [[stelltet]] ihr die Maschine [[an]].
-- Wenn sie eine Firma hätten, [[stellten]] sie viele Mitarbeiter [[an]]., [[aufdrehen]], [[überlegen]], [[schäftigen]]
+- Wenn ich genug Geld hätte, [[stellte]] ich mehr Leute [[an 1]].
+- Wenn du kompetenter wärst, [[stelltest]] du die richtige Person [[an 1]].
+- Wenn er Zeit hätte, [[stellte]] er etwas Großes [[an 1]].
+- Wenn wir besser vorbereitet wären, [[stellten]] wir mehr Experimente [[an 1]].
+- Wenn ihr euch sicher wäret, [[stelltet]] ihr die Maschine [[an 1]].
+- Wenn sie eine Firma hätten, [[stellten]] sie viele Mitarbeiter [[an 1]]., [[aufdrehen]], [[überlegen]], [[schäftigen]]

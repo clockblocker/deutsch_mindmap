@@ -14,7 +14,7 @@ Antonyme: [[ausschließen]], [[herausnehmen]], [[ausklammern]], [[auslassen]]
 Übersetzung: to include, to enclose
 
 ---
-Morpheme: [[ein]][[schließ]][[en]]
+Morpheme: [[Worter/ein]][[schließ]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -31,4 +31,4 @@ Morpheme: [[ein]][[schließ]][[en]]
 
 Partizip I: [[einschließend]], Partizip II: [[eingeschlossen]]
 
-[[einschließen]] - [[ein]] = [[schließen]], [[hineingezogen]]
+[[einschließen]] - [[Worter/ein]] = [[schließen]], [[hineingezogen]]

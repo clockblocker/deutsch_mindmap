@@ -8,7 +8,7 @@ haben [[gelernt]]
 
 ---
 Synonyme: [[studieren]], [[üben]], [[trainieren]], [[sich aneignen]], [[sich einprägen]]
-Antonyme: [[vergessen]], [[ablehnen]], [[vernachlässigen]]
+Antonyme: [[vergessen]], [[ablehnen 1]], [[vernachlässigen]]
 
 ---
 Übersetzung: to learn

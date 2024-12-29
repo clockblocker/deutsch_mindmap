@@ -3,7 +3,7 @@
 ---
 
 ---
-[[auskennen]] - [[aus]] = [[kennen]] / familiar
+[[auskennen]] - [[Worter/K/Konjunktion/aus]] = [[kennen]] / familiar
 
 ---
 

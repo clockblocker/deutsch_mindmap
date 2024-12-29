@@ -7,7 +7,7 @@ So -, sagte Frau Tischbein, "und nun [[nachbringen|bringe]] mir mal den Krug mit
 
 ---
 Synonyme: [[hinzufügen]], [[mitbringen]], [[beibringen]], [[nachtragen]], [[nachliefern]]
-Antonyme: [[wegnehmen]], [[entfernen]], [[fortbringen]], [[fortschaffen]], [[ablehnen]]
+Antonyme: [[wegnehmen]], [[entfernen]], [[fortbringen]], [[fortschaffen]], [[ablehnen 1]]
 
 ---
 Übersetzung: to bring/carry afterwards, to add

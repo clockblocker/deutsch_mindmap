@@ -4,7 +4,7 @@
 [[Nachdem]] ich die Hauptspeise gegessen habe, esse ich die Nachspeise
 
 ---
-Synonyme: [[Sobald]], [[Sowie]], [[Als]], [[Seit]]
+Synonyme: [[Sobald]], [[Sowie]], [[als]], [[Seit]]
 Antonyme: -
 
 ---

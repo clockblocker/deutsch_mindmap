@@ -1,10 +1,10 @@
-🔴 die [[Arbeit]]
+🔴 die [[arbeit 1]]
 die [[Arbeiten]]
 
 Beispiele:
 
-- Die [[Arbeit]] macht mir viel Spaß.
-- Ich habe heute viel [[Arbeit]].
+- Die [[arbeit 1]] macht mir viel Spaß.
+- Ich habe heute viel [[arbeit 1]].
 - Die [[Arbeiten]] müssen bis morgen fertig sein.
 
 ---
@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Arbeit]]
+[[arbeit 1]]
 
 ---
 #Substantiv #Feminin[[Beruf]], [[Werk]], [[Doktorarbeit]]

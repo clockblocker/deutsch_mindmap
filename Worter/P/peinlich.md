@@ -2,7 +2,7 @@ Es ist mir so peinlich, mit dir verwandt zu sein! Grh!
 Prosessed the word peinlich. Identified it as Adjective. Picked the emoji 🔴 because it is an adjective.
 
 🔴 [[peinlich]], [ˈpaɪ̯nlɪç]
-nicht [[angenehm]]
+nicht [[angenehm 1]]
 
 ---
 
@@ -11,7 +11,7 @@ nicht [[angenehm]]
 Synonyme: 
 [[unangenehm]], [[blamabel]], [[demütigend]], [[beschämend]], [[schamvoll]]
 Antonyme:
-[[angenehm]], [[unbefangen]], [[würdevoll]], [[respektabel]]
+[[angenehm 1]], [[unbefangen]], [[würdevoll]], [[respektabel]]
 
 ---
 **Übersetzung**:

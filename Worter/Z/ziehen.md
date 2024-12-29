@@ -12,10 +12,10 @@ haben [[gezogen]]
 ---
 + [[weiterziehen]] - [[weiter]] = [[ziehen]] / moved on, continued on
 - [[umziehen]] - [[um]] = [[ziehen]]           / to move (house)
-- [[anziehen]] - [[an]] = [[ziehen]]            / to put on, to wear
+- [[anziehen]] - [[an 1]] = [[ziehen]]            / to put on, to wear
 - [[verziehen]] - [[ver]] = [[ziehen]]        /  to distort, to twist, to clear
 - [[hochziehen]] - [[hoch]] = [[ziehen]] / to pull up, to lift up
-- [[ausziehen]] - [[aus]] = [[ziehen]]  / extract, to move out, to undress
+- [[ausziehen]] - [[Worter/A/aus]] = [[ziehen]]  / extract, to move out, to undress
 
 ---
 Synonyme: [[zerren]], [[reißen]], [[schleifen]], [[schleppen]], [[verziehen]]

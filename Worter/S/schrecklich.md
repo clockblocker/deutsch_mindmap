@@ -1,5 +1,5 @@
 [[schrecklich]], [ˈʃʁɛklɪç]
-nicht [[gut]], [[angenehm]]
+nicht [[gut]], [[angenehm 1]]
 
 ---
 Mensch das ist ja [[schrecklich]]!
@@ -12,7 +12,7 @@ Die [[klingt]] ja schrecklich! 
 
 ---
 Synonyme: [[furchtbar]], [[grässlich]], [[entsetzlich]], [[abscheulich]], [[schreckenerregend]]
-Antonyme: [[angenehm]], [[schön]], [[wunderbar]], [[herrlich]], [[erfreulich]]
+Antonyme: [[angenehm 1]], [[schön]], [[wunderbar]], [[herrlich]], [[erfreulich]]
 
 ---
 **terrible, horrible, awful

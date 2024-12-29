@@ -8,7 +8,7 @@ Das Licht im [[Fenster]] rot
 
 ---
 Synonyme: [[nachgeben]], [[huldigen]], [[ergeben]], [[widmen]], [[zugetan sein]]
-Antonyme: [[widerstehen]], [[verweigern]], [[ablehnen]], [[sich enthalten]]
+Antonyme: [[widerstehen]], [[verweigern]], [[ablehnen 1]], [[sich enthalten]]
 
 ---
 Übersetzung: to indulge in, to devote oneself to

@@ -1,1 +1,1 @@
-, [[Sache]], [[Worter/angehen]]
+, [[Sache]], [[angehen 1]]

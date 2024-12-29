@@ -11,7 +11,7 @@ haben [[geschlafen]]
 
 ---
 Synonyme: [[ruhen]], [[dösen]], [[schlummern]], [[sich ausruhen]], [[sich erholen]]
-Antonyme: [[wachen]], [[aufbleiben]], [[arbeiten]], [[aktiv sein]], [[erwachen]]
+Antonyme: [[wachen]], [[aufbleiben]], [[Arbeiten]], [[aktiv sein]], [[erwachen]]
 
 ---
 Übersetzung: to sleep

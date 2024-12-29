@@ -7,7 +7,7 @@ die [[Scheiben 1]]
 
 ---
 Synonyme:
-- [[Platte]], [[Scheibchen]], [[Schnitte]], [[Stück]], [[Abschnitt]]
+- [[Platte]], [[Scheibchen]], [[Schnitte]], [[Stück]], [[Abschnitt 1]]
 
 ---
 slice, disc, pane

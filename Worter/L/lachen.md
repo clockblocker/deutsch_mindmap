@@ -15,7 +15,7 @@ dass Nic von nebenan Starqualität hat 
 _[[Lachend]] fahren sie durch einen Eistunnel, bis sie an einem riesigen Schiffswrack ankommen._
 
 ---
-[[auslachen]] - [[aus]] = [[lachen]]
+[[auslachen]] - [[Worter/A/aus]] = [[lachen]]
 
 ---
 Synonyme: [[kichern]], [[grinsen]], [[schmunzeln]], [[prusten]], [[glucksen]]

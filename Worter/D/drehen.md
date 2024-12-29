@@ -7,7 +7,7 @@ _Sokka zieht seinen Ärmel wieder runter und [[dreht]] sich zu Katara.
 
 ---
 [[umdrehen]] - [[um]] = [[drehen]]
-[[aufdrehen]] - [[auf]] = [[drehen]]
+[[aufdrehen]] - [[Worter/auf]] = [[drehen]]
 [[wegdrehen]] - [[weg]] = [[drehen]]
 
 

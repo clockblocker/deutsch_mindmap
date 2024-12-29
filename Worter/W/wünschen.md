@@ -5,7 +5,7 @@ Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Er
 
 ---
 Synonyme: [[begehren]], [[verlangen]], [[herbeisehnen]], [[erhoffen]], [[erbitten]]
-Antonyme: [[ablehnen]], [[verweigern]], [[absagen]], [[verzichten]]
+Antonyme: [[ablehnen 1]], [[verweigern]], [[absagen]], [[verzichten]]
 
 ---
 to wish, to want

@@ -14,7 +14,7 @@ Antonyme: [[ignorieren]], [[überhören]], [[vertrauen]]
 Übersetzung: to eavesdrop, to intercept (a conversation/communication)
 
 ---
-Morpheme: [[ab]][[hör]][[en]]
+Morpheme: [[ab 1]][[hör]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,5 +31,5 @@ Morpheme: [[ab]][[hör]][[en]]
 
 Partizip I: [[abhörend]], Partizip II: [[abgehört]]
 
-[[abhören]] - [[ab]] = [[hören]]
+[[abhören]] - [[ab 1]] = [[hören]]
 '''

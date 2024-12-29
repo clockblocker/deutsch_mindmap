@@ -5,7 +5,7 @@ Aber es ist [[tatsächlich]] Freddie, der die Tür öffnet und sie mit einem Lä
 
 ---
 Synonyme: [[willkommen heißen]], [[empfangen]], [[willkommen sein]], [[grüßen]], [[empfangen]]
-Antonyme: [[ignorieren]], [[abweisen]], [[ablehnen]], [[verabschieden]]
+Antonyme: [[ignorieren]], [[abweisen]], [[ablehnen 1]], [[verabschieden]]
 
 ---
 to greet, to welcome

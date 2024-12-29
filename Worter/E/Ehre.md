@@ -8,7 +8,7 @@ Weil ihre [[Ehre]] nicht davon abhing, dass sie den Avatar eines Tages fanden. A
 
 ---
 Synonyme:
-- [[Ruhm]], [[Ansehen]], [[Würde]], [[Prestige]], [[Reputation]]
+- [[Ruhm]], [[ansehen]], [[Würde]], [[Prestige]], [[Reputation]]
 
 ---
 Übersetzung: honor, dignity, reputation

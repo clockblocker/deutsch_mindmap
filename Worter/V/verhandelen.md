@@ -6,8 +6,8 @@ haben [[verhandelt]]
 [[Verhandlung]]
 
 ---
-Synonyme: [[diskutieren]], [[besprechen]], [[unterhandeln]], [[debattieren]], [[argumentieren]], [[aushandeln]]
-Antonyme: [[ablehnen]], [[ignorieren]], [[verweifen]]
+Synonyme: [[diskutieren]], [[besprechen]], [[unterhandeln]], [[debattieren]], [[Worter/argumentieren]], [[aushandeln]]
+Antonyme: [[ablehnen 1]], [[ignorieren]], [[verweifen]]
 
 ---
 Übersetzung: to negotiate, to discuss

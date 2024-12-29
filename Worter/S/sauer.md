@@ -8,7 +8,7 @@ Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]
 
 ---
 Synonyme: [[säuerlich]], [[säuernd]], [[herbe]], [[herb]], [[bitter]], [[scharf]]
-Antonyme: [[süß]], [[milde]], [[sanft]], [[angenehm]], [[lecker]]
+Antonyme: [[süß]], [[milde]], [[sanft]], [[angenehm 1]], [[lecker]]
 
 ---
 **Übersetzung**:

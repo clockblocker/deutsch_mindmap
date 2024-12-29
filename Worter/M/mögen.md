@@ -8,7 +8,7 @@ haben [[gemocht]]
 
 ---
 Synonyme: [[lieben]], [[gernhaben]], [[bevorzugen]], [[schätzen]], [[gutheißen]]  
-Antonyme: [[hassen]], [[verabscheuen]], [[ablehnen]], [[missbilligen]], [[verurteilen]]
+Antonyme: [[hassen]], [[verabscheuen]], [[ablehnen 1]], [[missbilligen]], [[verurteilen]]
 
 ---
 Übersetzung: to like, to love

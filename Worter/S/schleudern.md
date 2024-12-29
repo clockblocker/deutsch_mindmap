@@ -8,7 +8,7 @@ Mit einem Zischen werden die Geschwister nach hinten [[geschleudert]].
 
 ---
 Synonyme: [[werfen]], [[schleudern]], [[umher werfen]], [[rotieren lassen]], [[herausschleudern]]
-Antonyme: [[fangen]], [[aufsaugen]], [[aufheben]], [[aufnehmen]], [[sammeln]]
+Antonyme: [[fangen]], [[aufsaugen]], [[Worter/aufheben]], [[aufnehmen]], [[sammeln]]
 
 ---
 Übersetzung: to throw, to fling, to hurl

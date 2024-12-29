@@ -13,11 +13,11 @@ Oh Mann. [[Ich mach mir Sorgen]] …
 Wer kennt das nicht: Man hat zugenommen und muss den [[Gürtel]] ganz [[weit]] [[machen]].
 
 ---
-[[anmachen]] - [[an]] = [[machen]] / to turn on, to switch on | agree, remove
-[[ausmachen]] - [[aus]] = [[machen]] / to detect, to determine, to matter | turn off 
+[[anmachen]] - [[an 1]] = [[machen]] / to turn on, to switch on | agree, remove
+[[ausmachen]] - [[Worter/A/aus]] = [[machen]] / to detect, to determine, to matter | turn off 
 [[vormachen]] - [[vor]] = [[machen]] / to show, to demonstrate
-[[aufmachen]] - [[auf]] = [[machen]] / to open
-[[abmachen]] - [[ab]] = [[machen]] /  to arrange, to agree, to settle | remove
+[[aufmachen]] - [[Worter/auf]] = [[machen]] / to open
+[[abmachen]] - [[ab 1]] = [[machen]] /  to arrange, to agree, to settle | remove
 [[mitmachen]] - [[mit]] = [[machen]] / participate
 
 

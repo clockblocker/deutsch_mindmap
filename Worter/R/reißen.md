@@ -12,9 +12,9 @@ haben [[gerissen]]
 *Dann [[abreißen|reiß]] ich der Puppe den Kopf ab*  
 
 ---
-[[ausreißen]] - [[aus]] = [[reißen]]
-[[anreißen]] - [[an]] = [[reißen]]
-[[abreißen]] - [[ab]] = [[reißen]]
+[[ausreißen]] - [[Worter/A/aus]] = [[reißen]]
+[[anreißen]] - [[an 1]] = [[reißen]]
+[[abreißen]] - [[ab 1]] = [[reißen]]
 
 
 

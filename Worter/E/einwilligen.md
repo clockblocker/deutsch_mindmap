@@ -1,3 +1,3 @@
-[[ein]][[will]]igen
+[[Worter/ein]][[will]]igen
 
 , [[pflichten]]

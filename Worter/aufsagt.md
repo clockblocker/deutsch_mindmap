@@ -1,1 +1,1 @@
-🗣️ [[aufsagen]] | 🔵 der [[Aufsatz]]
+🗣️ [[Worter/aufsagen]] | 🔵 der [[Aufsatz]]

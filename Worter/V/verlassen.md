@@ -9,7 +9,7 @@ Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen 
 Solange eure Väter im Krieg sind, [[verlassen]] sie sich auf euch. 
 
 ---
-Synonyme: [[aufgeben]], [[zurücklassen]], [[loslassen]], [[abhauen]], [[weggehen]],[[scheiden]]
+Synonyme: [[Worter/aufgeben]], [[zurücklassen]], [[loslassen]], [[abhauen]], [[weggehen]],[[scheiden]]
 Antonyme: [[bleiben]], [[begleiten]], [[folgen]], [[unterstützen]], [[helfen]]
 
 ---

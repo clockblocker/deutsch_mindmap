@@ -13,7 +13,7 @@ Antonyme:
 sold out, exhausted
 
 ---
-[[aus]][[verkauft]]
+[[Worter/A/aus]][[verkauft]]
 
 ---
 Form: Positive, Comparative, Superlative  

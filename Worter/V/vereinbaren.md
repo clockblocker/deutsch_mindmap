@@ -5,13 +5,13 @@
 
 ---
 Synonyme: [[abmachen]], [[festlegen]], [[ausmachen]], [[absprechen]], [[arrangieren]]
-Antonyme: [[ablehnen]], [[verweigern]], [[stornieren]]
+Antonyme: [[ablehnen 1]], [[verweigern]], [[stornieren]]
 
 ---
 to arrange, to agree upon, to schedule
 
 ---
-[[ver]][[ein]][[baren]]
+[[ver]][[Worter/ein]][[baren]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[vereinbarend]],
 Partizip II: [[vereinbart]]
 Zu+infinifive: [[zu vereinbaren]]
 
-[[vereinbaren]] - [[ver]] - [[ein]] = [[baren]]
+[[vereinbaren]] - [[ver]] - [[Worter/ein]] = [[baren]]
 
 ---
 [[Vereinbarung]], [[Vereinbarkeit]], [[Termin]], [[Absprache]], [[Vereinbarungstermin]]

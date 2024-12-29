@@ -1,1 +1,1 @@
-🔴 die [[Arbeit]]
+🔴 die [[arbeit 1]]

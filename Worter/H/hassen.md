@@ -6,7 +6,7 @@ haben [[gehasst]]
 Und will dich [[hassen]] (du hasst, du hasst, du hasst, du hasst)
 
 ---
-Synonyme: [[verabscheuen]], [[ablehnen]], [[verurteilen]], [[verfluchen]], [[abscheu haben]]
+Synonyme: [[verabscheuen]], [[ablehnen 1]], [[verurteilen]], [[verfluchen]], [[abscheu haben]]
 Antonyme: [[lieben]], [[mögen]], [[schätzen]], [[respektieren]], [[tolerieren]]
 
 ---

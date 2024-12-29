@@ -10,7 +10,7 @@ Aang? Lass uns nach Hause gehen. Dieser Ort ist mir [[unheimlich]]!
 Synonyme: 
 [[gruselig]], [[ungeheuerlich]], [[beängstigend]], [[schauerlich]], [[unheimisch]]
 Antonyme: 
-[[heimlich]], [[ungefährlich]], [[behaglich]], [[angenehm]], [[friedlich]]
+[[heimlich]], [[ungefährlich]], [[behaglich]], [[angenehm 1]], [[friedlich]]
 
 ---
 **Übersetzung**:

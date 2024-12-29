@@ -4,8 +4,8 @@
 Denn manche Leute sind so unfreundlich, dass sie einem die Wörter wie [[Kerne 1]] ins Gesicht [[spucken 1]]. Mit ihnen ist eben nicht gut Kirschen essen.
 
 ---
-Synonyme: [[speien]], [[ausspucken]], [[herausspucken]], [[herausspucken]]
-Antonyme: [[schlucken]], [[einnehmen]], [[akzeptieren]]
+Synonyme: [[speien]], [[Worter/ausspucken]], [[herausspucken]], [[herausspucken]]
+Antonyme: [[schlucken]], [[einnehmen]], [[akzeptieren 1]]
 
 ---
 to spit

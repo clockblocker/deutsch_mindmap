@@ -1,4 +1,4 @@
-erwachsen, [ɛɐ̯ˈvaksn̩], [[aufwachsen]]
+erwachsen, [ɛɐ̯ˈvaksn̩], [[Aufwachsen]]
 nicht [[kindisch]]
 
 ---

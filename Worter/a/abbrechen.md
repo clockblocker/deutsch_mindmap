@@ -1,1 +1,1 @@
-[[bestehen]], [[anfangen]], [[dauern]], [[aufbauen]], [[machen]], [[abreißen]], [[pflückt]], [[unterbrechen]], [[aufgeben]], [[pflücken]], [[kündigen]], [[unterhalten]], [[verbringen]], [[Worter/angehen]]
+[[bestehen]], [[anfangen]], [[dauern]], [[aufbauen]], [[machen]], [[abreißen]], [[pflückt]], [[unterbrechen]], [[Worter/aufgeben]], [[pflücken]], [[kündigen]], [[unterhalten]], [[verbringen]], [[angehen 1]]

@@ -6,7 +6,7 @@ Tom seufzt: „Okay, okay, die [[Chipstüte]] ist [[sowieso]] leer.“
 
 ---
 Synonyme:
-- [[optimal]], [[hervorragend]], [[ausgezeichnet]], [[prima]], [[perfekt]]
+- [[optimal]], [[hervorragend]], [[Worter/ausgezeichnet]], [[prima]], [[perfekt]]
 
 ---
 best possible, very well

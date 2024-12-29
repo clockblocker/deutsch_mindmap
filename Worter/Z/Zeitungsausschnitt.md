@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Zeitungs]][[ausschnitt]]
+[[Zeitungs]][[Ausschnitt]]
 
 ---
 Einzigartige mögliche Formen: 

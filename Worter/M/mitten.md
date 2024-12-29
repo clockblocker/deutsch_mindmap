@@ -8,7 +8,7 @@ _Aang achtet jedoch nur auf sie und kracht [[mitten]] im Flug in Sokkas Wachturm
 
 ---
 Synonyme: [[inmitten]], [[mittendrin]], [[in der Mitte]], [[zentral]]
-Antonyme: [[außen]], [[randständig]], [[am Rand]]
+Antonyme: [[Außen]], [[randständig]], [[am Rand]]
 
 ---
 Übersetzung: in the middle, amidst, among

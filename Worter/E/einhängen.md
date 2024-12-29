@@ -14,7 +14,7 @@ Antonyme: [[aushängen]], [[abnehmen]], [[lösen]], [[entfernen]]
 Übersetzung: to hang up, to hook up
 
 ---
-Morpheme: [[ein]][[häng]][[en]]
+Morpheme: [[Worter/ein]][[häng]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,5 +31,5 @@ Morpheme: [[ein]][[häng]][[en]]
 
 Partizip I: [[einhängend]], Partizip II: [[eingehängt]]
 
-[[einhängen]] - [[ein]] = [[hängen]]
+[[einhängen]] - [[Worter/ein]] = [[hängen]]
 '''

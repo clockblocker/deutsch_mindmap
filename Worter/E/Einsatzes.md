@@ -13,7 +13,7 @@ Synonyme:
 deployment, effort, use, commitment
 
 ---
-[[Ein]][[satz]]
+[[Worter/ein]][[satz]]
 
 ---
 Case: Singular, Plural  

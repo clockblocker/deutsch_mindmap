@@ -9,7 +9,7 @@ Oh ja, der [[Arme]] kleine Amerikaner!
 Meine Pflanze! Meine [[Arme]] Pflanze!  
 
 *Verbrannt ist alles ganz und gar,*  
-*das [[arme]] Kind mit Haut und Haar;*  
+*das [[Arme]] Kind mit Haut und Haar;*  
 
 ---
 

@@ -1,1 +1,1 @@
-, [[anfangen]], [[Worter/angehen]]
+, [[anfangen]], [[angehen 1]]

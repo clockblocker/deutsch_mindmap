@@ -7,7 +7,7 @@ haben [[getrunken]]
 
 ---
 Synonyme: [[saufen]], [[schlürfen]], [[genießen]], [[nippen]], [[verkosten]]
-Antonyme: [[ausgießen]], [[abgeben]], [[ablehnen]]
+Antonyme: [[ausgießen]], [[abgeben]], [[ablehnen 1]]
 
 ---
 Übersetzung: to drink

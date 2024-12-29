@@ -7,7 +7,7 @@ haben [[verwendet]]
 
 ---
 Synonyme: [[benutzen]], [[nutzen]], [[anwenden]], [[einsetzen]], [[gebrauchen]], [[brauchen]]
-Antonyme: [[ignorieren]], [[ablehnen]], [[meiden]], [[vermeiden]]
+Antonyme: [[ignorieren]], [[ablehnen 1]], [[meiden]], [[vermeiden]]
 
 ---
 Übersetzung: to use, to utilize

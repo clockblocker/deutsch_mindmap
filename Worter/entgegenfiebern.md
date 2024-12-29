@@ -5,7 +5,7 @@ Ob [[Worter/Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] de
 
 ---
 Synonyme: [[erwarten]], [[herbeisehnen]], [[sich freuen]], [[gespannt sein]], [[anticipieren]]
-Antonyme: [[ignorieren]], [[gleichgültig sein]], [[ablehnen]]
+Antonyme: [[ignorieren]], [[gleichgültig sein]], [[ablehnen 1]]
 
 ---
 to eagerly anticipate, to look forward to

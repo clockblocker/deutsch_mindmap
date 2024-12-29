@@ -14,7 +14,7 @@ Antonyme: [[zusammenfügen]], [[binden]], [[vereinen]], [[verbinden]], [[bilden]
 Übersetzung: to dissolve, to resolve, to disintegrate
 
 ---
-Morpheme: [[auf]][[lös]][[en]]
+Morpheme: [[Worter/auf]][[lös]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[auf]][[lös]][[en]]
 
 Partizip I: [[auflösend]], Partizip II: [[aufgelöst]]
 
-[[auflösen]] - [[auf]] = [[lösen]], [[flechten]], [[ansammeln]], [[gestalten]], [[versammeln]], [[antrauen]]
+[[auflösen]] - [[Worter/auf]] = [[lösen]], [[flechten]], [[ansammeln]], [[gestalten]], [[versammeln]], [[antrauen]]

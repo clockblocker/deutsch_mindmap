@@ -11,7 +11,7 @@ Antonyme: [[ausparken]], [[wegfahren]], [[verlassen]]
 to park (a vehicle)
 
 ---
-[[ein]][[park]][[en]]
+[[Worter/ein]][[park]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[einparkend]],
 Partizip II: [[eingeparkt]]
 Zu+infinifive: [[Worter/einzuparken]]
 
-[[Worter/einparken]] - [[ein]] = [[parken]]
+[[Worter/einparken]] - [[Worter/ein]] = [[parken]]
 
 ---
 [[Worter/einparken]], [[Einparkhilfe]], [[Parkvorgang]], [[Parkplatz]], [[Parkbucht]]

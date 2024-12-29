@@ -7,7 +7,7 @@ Und sie stören die Konzentration auf die [[Tätigkeit]], die wir gerade ausübe
 
 ---
 Synonyme:
-- [[Arbeit]], [[Job]], [[Beschäftigung]], [[Aufgabe]], [[Funktion]]
+- [[arbeit 1]], [[Job]], [[Beschäftigung]], [[Aufgabe]], [[Funktion]]
 
 Antonyme:
 - [[Untätigkeit]], [[Passivität]], [[Ruhe]]

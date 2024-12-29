@@ -17,7 +17,7 @@ Antonyme:
 
 ---
 Morpheme:
-[[Heirats]][[antrag]]
+[[Heirats]][[Antrag]]
 
 ---
 Einzigartige mögliche Formen: 

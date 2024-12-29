@@ -8,7 +8,7 @@ Synonyme:
 - [[Kandidatur]], [[Antrag]], [[Anfrage]], [[Gesuch]], [[Sollizitation]]
 
 Antonyme:
-- [[Absage]], [[Zurückziehung]], [[Rückzug]]
+- [[Absage 1]], [[Zurückziehung]], [[Rückzug]]
 
 ---
 Übersetzung: application, candidacy, bid

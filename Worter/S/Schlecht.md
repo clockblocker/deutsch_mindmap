@@ -11,7 +11,7 @@ nicht [[gut]], nicht [[prima]], nicht [[toll]]
 
 ---
 Synonyme: [[mies]], [[schlimm]], [[unangenehm]], [[unzureichend]], [[mangelhaft]]
-Antonyme: [[gut]], [[hervorragend]], [[exzellent]], [[ausgezeichnet]], [[hervorragend]]
+Antonyme: [[gut]], [[hervorragend]], [[exzellent]], [[Worter/ausgezeichnet]], [[hervorragend]]
 
 ---
 **Übersetzung**:

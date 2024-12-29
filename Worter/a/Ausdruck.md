@@ -15,10 +15,10 @@ Synonyme:
 
 ---
 Morpheme:
-[[aus]][[druck]]
+[[Worter/A/aus]][[druck]]
 
 ---
-Einzigartige mögliche Formen: [[Ausdrucks]], [[Ausdrucke]], [[Ausdrücke]], [[Ausdrücken]]
+Einzigartige mögliche Formen: [[Ausdrucks]], [[Ausdrucke]], [[Ausdrücke]], [[ausdrücken]]
 
 ---
 #Substantiv #Maskulin

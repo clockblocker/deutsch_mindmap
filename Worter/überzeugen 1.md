@@ -4,8 +4,8 @@
 Manche Leute lassen sich nicht so [[einfach]] [[überzeugen 1]]. Wenn man erst [[Überzeugungsarbeit 1]] [[leisten 1]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
 ---
-Synonyme: [[beweisen]], [[argumentieren]], [[bewirken]], [[bestärken]], [[motivieren]]
-Antonyme: [[zweifeln]], [[ablehnen]], [[misstrauen]], [[bezweifeln]]
+Synonyme: [[beweisen]], [[Worter/argumentieren]], [[bewirken]], [[bestärken]], [[motivieren]]
+Antonyme: [[zweifeln]], [[ablehnen 1]], [[misstrauen]], [[bezweifeln]]
 
 ---
 to convince, to persuade

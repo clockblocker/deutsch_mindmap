@@ -4,7 +4,7 @@
 _Aang nimmt Katara in die Arme und mit einem Sprung sind sie außerhalb des Schiffes._
 
 ---
-Synonyme: [[draußen]], [[extern]], [[außen]], [[draußerhalb]], [[hinaus]], [[durchs]]
+Synonyme: [[draußen]], [[extern]], [[Außen]], [[draußerhalb]], [[hinaus]], [[durchs]]
 Antonyme: [[innerhalb]], [[innen]], [[drinnen]]
 
 ---

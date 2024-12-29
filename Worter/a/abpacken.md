@@ -14,7 +14,7 @@ Antonyme: [[auspacken]], [[auskramen]], [[ausräumen]], [[ausliefern]], [[aushä
 Übersetzung: to pack away, to pack up
 
 ---
-Morpheme: [[ab]][[pack]][[en]]
+Morpheme: [[ab 1]][[pack]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -31,5 +31,5 @@ Morpheme: [[ab]][[pack]][[en]]
 
 Partizip I: [[abpackend]], Partizip II: [[abgepackt]]
 
-[[abpacken]] - [[ab]] = [[packen]]
+[[abpacken]] - [[ab 1]] = [[packen]]
 '''

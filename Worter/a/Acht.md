@@ -1,7 +1,7 @@
 , [[Spielkarten]]
 
 
-🔢 [[Acht]], [ˈaxt]
+🔢 [[Worter/A/Acht]], [ˈaxt]
 
 ---
 Synonyme: 
@@ -12,7 +12,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Acht]]
+[[Worter/A/Acht]]
 
 ---
 #Numeral #Zahl

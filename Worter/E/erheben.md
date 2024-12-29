@@ -11,7 +11,7 @@ Der Junge mit den leuchtenden Pfeilen [[erhebt]] sich aus dem Eisberg._
 
 
 ---
-Synonyme: [[hochheben]], [[aufheben]], [[anheben]], [[aufrichten]], [[emporheben]]
+Synonyme: [[hochheben]], [[Worter/aufheben]], [[anheben]], [[aufrichten]], [[emporheben]]
 Antonyme: [[senken]], [[absenken]], [[herunterlassen]], [[hinunterlassen]]
 
 

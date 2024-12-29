@@ -14,7 +14,7 @@ Antonyme: [[löschen]], [[ausmachen]], [[ausblasen]], [[ersticken]]
 Übersetzung: to ignite, to light, to set on fire
 
 ---
-Morpheme: [[an]][[zünd]][[en]]
+Morpheme: [[an 1]][[zünd]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,5 +31,5 @@ Morpheme: [[an]][[zünd]][[en]]
 
 Partizip I: [[anzündend]], Partizip II: [[angezündet]]
 
-[[anzünden]] - [[an]] = [[zünden]]
+[[anzünden]] - [[an 1]] = [[zünden]]
 '''

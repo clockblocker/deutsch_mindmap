@@ -7,7 +7,7 @@ Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mäd
 
 ---
 Synonyme: [[nachspüren]], [[jagen]], [[verfolgen]], [[nachgehen]], [[nachsetzen]]
-Antonyme: [[ignorieren]], [[aufgeben]], [[verlassen]]
+Antonyme: [[ignorieren]], [[Worter/aufgeben]], [[verlassen]]
 
 ---
 Übersetzung: to pursue, to track, to follow

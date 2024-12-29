@@ -13,7 +13,7 @@ Antonyme: [[untertauchen]], [[verschwinden]], [[absetzen]], [[zurückgehen]], [[
 Übersetzung: to emerge, to appear, to surface
 
 ---
-Morpheme: [[auf]][[tauch]][[en]]
+Morpheme: [[Worter/auf]][[tauch]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -30,5 +30,5 @@ Morpheme: [[auf]][[tauch]][[en]]
 
 Partizip I: [[auftauchend]], Partizip II: [[aufgetaucht]]
 
-[[auftauchen]] - [[auf]] = [[tauchen]]
+[[auftauchen]] - [[Worter/auf]] = [[tauchen]]
 , [[s1 e1]]

@@ -8,7 +8,7 @@ Es bedeutet, dass meine [[suche]] sich langsam dem Ende [[zuneigt]]!
 
 ---
 Synonyme: [[tendieren]], [[geneigt sein]], [[sich hinwenden]], [[sich wenden zu]], [[gewogen sein]]
-Antonyme: [[ablehnen]], [[distanzieren]], [[fernbleiben]], [[abstoßen]]
+Antonyme: [[ablehnen 1]], [[distanzieren]], [[fernbleiben]], [[abstoßen]]
 
 ---
 Übersetzung: to incline, to be inclined, to lean towards

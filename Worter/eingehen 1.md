@@ -11,7 +11,7 @@ Antonyme: [[überleben]], [[entstehen]], [[wachsen]], [[gedeihen]]
 to enter, to go in; to die (for plants/animals); to be processed (for letters/packages)
 
 ---
-[[ein]][[geh]][[en]]
+[[Worter/ein]][[geh]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[eingehend]],
 Partizip II: [[eingegangen]]
 Zu+infinitive: [[einzugehen]]
 
-[[eingehen 1]] - [[ein]] = [[gehen]] / to enter, to go in, take risk
+[[eingehen 1]] - [[Worter/ein]] = [[gehen]] / to enter, to go in, take risk
 
 ---
 [[Eingang]], [[Eingänger]], [[Eingangsdatum]], [[Eingangsstempel]], [[Eingangsbuch]]

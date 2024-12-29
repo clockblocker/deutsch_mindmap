@@ -6,7 +6,7 @@ SASCHA: Oh, Maria, wie schön! Wie war der Flug?
 MARIA: [[Prima]]! Aber die haben mein Gepäck [[verloren]]!  
 
 ---
-Synonyme: [[ausgezeichnet]], [[hervorragend]], [[erstklassig]], [[vorzüglich]], [[ausgezeichnet]]
+Synonyme: [[Worter/ausgezeichnet]], [[hervorragend]], [[erstklassig]], [[vorzüglich]], [[Worter/ausgezeichnet]]
 Antonyme: [[schlecht]], [[mangelhaft]], [[ungenügend]], [[mittelmäßig]], [[gering]]
 
 ---

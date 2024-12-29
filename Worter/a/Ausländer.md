@@ -1,1 +1,1 @@
-[[aus]][[Land|länd]]er
+[[Worter/A/aus]][[Land|länd]]er

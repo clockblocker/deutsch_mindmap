@@ -1,1 +1,1 @@
-[[aufwachen]]
+[[Worter/aufwachen]]

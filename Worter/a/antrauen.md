@@ -14,7 +14,7 @@ Antonyme: [[scheiden]], [[trennen]], [[auflösen]]
 to marry, to wed
 
 ---
-[[an]][[trau]][[en]]
+[[an 1]][[trau]][[en]]
  
 ---
 
@@ -29,7 +29,7 @@ Partizip I: [[antrauend]],
 Partizip II: [[angetraut]]
 Zu+infinitive: [[anzutrauen]]
 
-[[antrauen]] - [[an]] = [[trauen]]
+[[antrauen]] - [[an 1]] = [[trauen]]
 
 ---
 [[Trauung]], [[Antrauung]], [[Traualtar]], [[Trauzeuge]], [[Trauschein]]

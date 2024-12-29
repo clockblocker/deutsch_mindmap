@@ -21,7 +21,7 @@ well-behaved, good, polite
 
 ---
 Morpheme:
-[[art]][[ig]]
+[[Art]][[ig]]
 
 ---
 

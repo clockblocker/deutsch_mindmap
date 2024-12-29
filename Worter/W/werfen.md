@@ -23,7 +23,7 @@ Tom seufzt: „Okay, okay, die [[Chipstüte]] ist [[sowieso]] leer.“
 
 ---
 Synonyme: [[schleudern]], [[schmeißen]], [[stoßen]], [[abwerfen]], [[loslassen]]
-Antonyme: [[fangen]], [[aufheben]], [[halten]]
+Antonyme: [[fangen]], [[Worter/aufheben]], [[halten]]
 
 ---
 Übersetzung: to throw

@@ -28,7 +28,7 @@ Antonyme: [[unsichtbar sein]], [[verbergen]], [[verdecken]], [[verstecken]]
 Übersetzung: to look, to appear
 
 ---
-Morpheme: [[aus]][[seh]][[en]]
+Morpheme: [[Worter/A/aus]][[seh]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -44,4 +44,4 @@ Morpheme: [[aus]][[seh]][[en]]
 
 Partizip I: [[aussehend]], Partizip II: [[ausgesehen]]
 
-[[aussehen]] - [[aus]] = [[sehen]], [[Extra 8]]
+[[aussehen]] - [[Worter/A/aus]] = [[sehen]], [[Extra 8]]

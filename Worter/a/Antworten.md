@@ -2,7 +2,7 @@
 
 ---
 
-🗣️ [[antworten]] + Dat, [ˈantˌvɔɐ̯tn̩]
+🗣️ [[Antworten]] + Dat, [ˈantˌvɔɐ̯tn̩]
 [[antwortete]]
 haben [[geantwortet]]
 
@@ -28,9 +28,9 @@ Morpheme: [[ant]][[wort]][[en]]
 | Ich       | [[antworte]]| [[antwortete]]| -                | [[antworte]] | [[antwortete]]|
 | Du        | [[antwortest]]| [[antwortetest]]| [[antworte]]   | [[antwortestˣ]]| [[antworteteest]]|
 | Er/sie/es | [[antwortet]]| [[antwortete]]| -                | [[antworte]] | [[antwortete]]|
-| Wir       | [[antworten]]| [[antworteten]]| -               | [[antworten]]| [[antworteten]]|
+| Wir       | [[Antworten]]| [[antworteten]]| -               | [[Antworten]]| [[antworteten]]|
 | Ihr       | [[antwortet]]| [[antwortet]]| [[antwortet]]    | [[antwortet]]| [[antwortet]] |
-| Sie       | [[antworten]]| [[antworteten]]| [[antworten Sie]]| [[antworten]]| [[antworteten]]|
+| Sie       | [[Antworten]]| [[antworteten]]| [[antworten Sie]]| [[Antworten]]| [[antworteten]]|
 
 Partizip I: [[antwortend]], Partizip II: [[geantwortet]]
-[[antworten]] - [[ant]] = [[worten]]
+[[Antworten]] - [[ant]] = [[worten]]

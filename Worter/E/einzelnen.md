@@ -19,7 +19,7 @@ individual, single, separate
 
 ---
 Morpheme:
-[[ein]][[zel]][[nen]]
+[[Worter/ein]][[zel]][[nen]]
 
 ---
 

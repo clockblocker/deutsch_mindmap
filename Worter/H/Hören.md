@@ -8,8 +8,8 @@ SASCHA: Und wo [[hinHören|gehört]] dieses Stück hin …?
 
 
 ---
-[[abhören]] - [[ab]] = [[hören]] // подслушивать
-[[anhören]] - [[an]] = [[hören]] // слушать
+[[abhören]] - [[ab 1]] = [[hören]] // подслушивать
+[[anhören 1]] - [[an 1]] = [[hören]] // слушать
 [[zuhören]] - [[zu]] = [[hören]] // выслушивать
 
 

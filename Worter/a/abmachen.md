@@ -15,7 +15,7 @@ Antonyme: [[zerreißen]], [[stornieren]], [[absagen]]
 Übersetzung: to arrange, to agree, to settle | remove
 
 ---
-Morpheme: [[ab]][[mach]][[en]]
+Morpheme: [[ab 1]][[mach]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,5 +31,5 @@ Morpheme: [[ab]][[mach]][[en]]
 
 Partizip I: [[abmachend]], Partizip II: [[abgemacht]]
 
-[[abmachen]] - [[ab]] = [[machen]]
+[[abmachen]] - [[ab 1]] = [[machen]]
 , [[schnallen]]

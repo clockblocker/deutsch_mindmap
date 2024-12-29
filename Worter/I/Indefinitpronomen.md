@@ -3,7 +3,7 @@ Here is the list of some common [[Indefinitpronomen]] (indefinite pronouns) in G
 
 - [[Worter/Alle]] (all)
 - [[anderer]] (other)
-- [[einer]] (one, someone)
+- [[Worter/E/einer]] (one, someone)
 - [[Jemand]] (someone)
 - [[Niemand]] (no one, nobody)
 - [[etwas]] (something)

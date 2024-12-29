@@ -2,7 +2,7 @@ Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[Worter/u
   
 Katie hat sich einen neuen Kleiderschrank gekauft. Er ist sehr groß, und es ist nicht leicht, ihn [[aufzubauen]]. 
 
-Zum Glück haben Julia, Robin und Dennis [[Worter/angeboten]], ihr zu helfen. Sie stehen zu viert vor dem Schrank, Katie liest die [[Anleitung]]. 
+Zum Glück haben Julia, Robin und Dennis [[angeboten 1]], ihr zu helfen. Sie stehen zu viert vor dem Schrank, Katie liest die [[Anleitung]]. 
 
 „Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Worter/Rückwand]] [[bohren]]. 
 

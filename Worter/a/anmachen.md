@@ -11,13 +11,13 @@ nicht [[ausschalten]]
 
 ---
 Synonyme: [[einschalten]], [[starten]], [[aktivieren]], [[in Betrieb setzen]], [[zuschalten]]
-Antonyme: [[ausschalten]], [[abschalten]], [[stoppen]], [[deaktivieren]]
+Antonyme: [[ausschalten]], [[abschalten 1]], [[stoppen]], [[deaktivieren]]
 
 ---
 Übersetzung: to turn on, to switch on | agree, remove
 
 ---
-Morpheme: [[an]][[mach]][[en]]
+Morpheme: [[an 1]][[mach]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -34,5 +34,5 @@ Morpheme: [[an]][[mach]][[en]]
 
 Partizip I: [[anmachend]], Partizip II: [[angemacht]]
 
-[[anmachen]] - [[an]] = [[machen]]
+[[anmachen]] - [[an 1]] = [[machen]]
 '''

@@ -4,7 +4,7 @@
  Jonas [[Worter/durchatmen|atmet]] tief durch. Dann geht er [[Worter/entschlossen]] auf die [[Bühne]]. Jetzt muss er für eine Stunde ein [[Held]] sein – eine Stunde lang Wilhelm Tell sein!
 
 ---
-Synonyme: [[atmen]], [[innehalten]], [[tief atmen]], [[Luft holen]], [[sich entspannen]]
+Synonyme: [[Atmen]], [[innehalten]], [[tief atmen]], [[Luft holen]], [[sich entspannen]]
 Antonyme: [[anhalten]], [[anstrengen]], [[verkrampfen]]
 
 ---
@@ -26,7 +26,7 @@ Partizip I: [[durchatmend]],
 Partizip II: [[durchatmet]]
 Zu+infinifive: [[durchzuatmen]]
 
-[[Worter/durchatmen]] - [[durch]] = [[atmen]] / to take a deep breath
+[[Worter/durchatmen]] - [[durch]] = [[Atmen]] / to take a deep breath
 
 ---
 [[Worter/durchatmen]], [[Atemtechnik]], [[Entspannung]], [[Atemzug]]

@@ -3,7 +3,7 @@
 ---
 
 ---
-[[eingehen 1]] - [[ein]] = [[gehen]] / to enter, to go in, take risk
+[[eingehen 1]] - [[Worter/ein]] = [[gehen]] / to enter, to go in, take risk
 
 ---
 Synonyme: [[laufen]], [[schreiten]], [[wandern]], [[marschieren]], [[spazieren]]

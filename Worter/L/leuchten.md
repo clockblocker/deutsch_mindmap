@@ -13,12 +13,12 @@ _Die Pfeile des Jungen hören auf zu [[leuchten]] und er bricht zusammen.
 [[Leuchtrakete]]
 
 ---
-[[aufleuchten]] - [[auf]] = [[leuchten]]
+[[aufleuchten]] - [[Worter/auf]] = [[leuchten]]
 
 
 ---
 Synonyme: [[strahlen]], [[glänzen]], [[glimmen]], [[scheinen]], [[erleuchten]]
-Antonyme: [[verdunkeln]], [[auslöschen]], [[verlöschen]]
+Antonyme: [[verdunkeln]], [[Worter/auslöschen]], [[verlöschen]]
 
 ---
 Übersetzung: to shine, to glow, to illuminate
