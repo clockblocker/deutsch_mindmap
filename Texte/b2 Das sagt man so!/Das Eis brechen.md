@@ -1,6 +1,6 @@
 In der [[Regel]] ist es [[gefährlich]], wenn das Eis bricht, zum Beispiel auf einem [[zugefrorenen]] See. Anderswo ist das aber sehr [[erwünscht]]. Ein Abend kann dann schon mal viel [[entspannter]] [[verlaufen]].
   
-Miriams Freunde sind [[neugierig]]: Heute Abend will sie ihren neuen Freund Sebastian zum Grillen mitbringen. Den wollen sie natürlich kennenlernen. 
+Miriams Freunde sind [[neugierig]]: Heute Abend will sie ihren neuen Freund Sebastian zum Grillen [[mitbringen]]. Den wollen sie natürlich kennenlernen. 
 
 Sebastian selbst sieht das [[weniger]] [[entspannt]]. Er ist [[ziemlich]] nervös, als sie auf die Gruppe [[zugehen]], die sich um den Grill [[versammelt]] hat. 
 
