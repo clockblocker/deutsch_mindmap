@@ -1,1 +1,0 @@
-🏷️ [[bezeichnen]] | 🏷️ 🔵 der [[Bezeichner]]

@@ -1,2 +1,1 @@
-📝 [[vorbereiten]]
-[[bereit]], [[Worter/Führerscheinprüfung]], [[dennoch]]
+🤝 [[vorbereiten]]

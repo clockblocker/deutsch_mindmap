@@ -1,1 +1,1 @@
-, [[passen]], [[gleichen]]
+, [[eignen]]

@@ -1,1 +1,1 @@
-[[werfen]][[hinlegen]], [[fallen]], [[loswerden]], [[nehm]], [[heben]], [[erheben]], [[wegwerfen]], [[gießen]], [[rumzaubern]], [[hochziehen]], [[schleudern]], [[ausbreiten]], [[lösen]], [[zuwerfen]], [[kündigen]]
+, [[zugeworfen]]

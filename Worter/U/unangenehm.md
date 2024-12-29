@@ -1,1 +1,1 @@
-[[Schlecht]], [[hübsch]], [[unbequem]], [[schlimm]]
+, [[bequem]]

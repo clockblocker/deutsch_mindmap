@@ -1,4 +1,1 @@
-[[Spielzeug]]
-
-**Übersetzung**: thing, material, stuff
-[[Bettzeug]], [[Feuerzeug]]
+, [[überzeugen 1]], [[zeugen]]

@@ -1,1 +1,1 @@
-, [[ermordet]], [[bieten]]
+, [[geeignet 1]]

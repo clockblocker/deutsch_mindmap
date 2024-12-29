@@ -1,1 +1,0 @@
-🗣️ [[Worter/aufsagen]] | 🔵 der [[Aufsatz]]

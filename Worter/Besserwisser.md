@@ -1,1 +1,0 @@
-, [[Besserwisserei 1]]

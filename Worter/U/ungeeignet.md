@@ -1,1 +1,1 @@
-, [[Fähig]]
+, [[eignen]], [[geeignet 1]]

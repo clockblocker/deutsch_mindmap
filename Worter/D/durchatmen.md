@@ -1,1 +1,32 @@
-, [[Worter/durchatmen]]
+🌬️ [[Worter/durchatmen]] | [[durchatmete]], haben [[durchatmet]]
+
+---
+ Jonas [[Worter/durchatmen|atmet]] tief durch. Dann geht er [[Worter/entschlossen]] auf die [[Bühne]]. Jetzt muss er für eine Stunde ein [[Held]] sein – eine Stunde lang Wilhelm Tell sein!
+
+---
+Synonyme: [[Atmen]], [[innehalten]], [[tief atmen]], [[Luft holen]], [[sich entspannen]]
+Antonyme: [[anhalten]], [[anstrengen]], [[verkrampfen]]
+
+---
+to breathe deeply, to take a deep breath
+
+---
+[[durch]][[atm]][[en]]
+ 
+---
+
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[durchatme]], [[durchatmete]], -, [[durchatme]], [[durchatmete]]  
+Du: [[durchatmest]], [[durchatmetest]], [[durchatme]], [[durchatmest]], [[durchatmetest]]  
+Er/sie/es: [[durchatmet]], [[durchatmete]], -, [[durchatme]], [[durchatmete]]  
+Wir: [[Worter/durchatmen]], [[durchatmeten]], -, [[Worter/durchatmen]], [[durchatmeten]]  
+Ihr: [[durchatmet]], [[durchatmetet]], [[durchatmet]], [[durchatmet]], [[durchatmetet]]  
+
+Partizip I: [[durchatmend]], 
+Partizip II: [[durchatmet]]
+Zu+infinifive: [[durchzuatmen]]
+
+[[Worter/durchatmen]] - [[durch]] = [[Atmen]] / to take a deep breath
+
+---
+[[Worter/durchatmen]], [[Atemtechnik]], [[Entspannung]], [[Atemzug]]

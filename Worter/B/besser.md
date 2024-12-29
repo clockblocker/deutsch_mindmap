@@ -1,2 +1,1 @@
- [[gut]]
-#Adjective, [[Schlimmer]], [[bald]], [[verbessern]], [[bessern]]
+, [[Besserwisserei 1]]

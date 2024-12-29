@@ -1,1 +1,1 @@
-, [[fremd]]
+🗣️ [[Worter/aufsagen]] | 🔵 der [[Aufsatz]]

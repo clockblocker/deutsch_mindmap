@@ -1,1 +1,0 @@
-, [[bequem]], [[geeignet 1]]

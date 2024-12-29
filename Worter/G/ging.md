@@ -1,2 +1,1 @@
-Inf: [[gehen]]
-, [[Extra 8]]
+, [[gehen]]

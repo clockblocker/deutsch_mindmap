@@ -1,1 +1,1 @@
-, [[Putzplan]], [[Sache]], [[Worter/einmischen]]
+🚀 [[aufstellen]] | 🚀 [[aufstellen (verb)]] | 🔵 der [[Aufstellplatz]]

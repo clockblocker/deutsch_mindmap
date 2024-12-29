@@ -1,1 +1,1 @@
-[[einfachen]][[einander]], [[einzelnen]], [[einfach]], [[einbauen]], [[einfallen]], [[einhängen]], [[einfüllen]], [[füllen]], [[einschließen]], [[einstellen]], [[einsam]], [[hängen]], [[einladen]], [[einschlagen]], [[lösen]], [[eindruck]], [[vereinbaren]], [[eintreten]], [[Worter/einparken]], [[einsetzen]], [[Worter/einmischen]], [[mischen]]
+, [[eingehen 1]], [[gehen]]

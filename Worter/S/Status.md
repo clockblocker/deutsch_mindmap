@@ -1,1 +1,1 @@
-, [[Stellung]]
+, [[Geltung]]

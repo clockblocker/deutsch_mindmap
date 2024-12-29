@@ -1,51 +1,33 @@
-🚶‍♂️  [[gehen]] + Dat, [ˈɡeːən]
-[[ging]]
-sein [[gegangen]]
-
----
-- ANNA: Ja, wir [[gehen auch immer]] in die Bücherei, nicht wahr?
-- Er [[geht]] in die Bücherei und wohnt in einem Museum!  Wirklich! Hihi!
-- Frau W. [[geht]] [[gleich]] [[Ins]] Wohnzimmer.)
-- [[Jetzt geht das wieder los]]
-- NIC: Ach, na ja - … es [[ging]] so  
-
----
-[[untergehen]] - [[unter]] = [[gehen]] / sink
-[[aufgehen]] - [[Worter/auf]] = [[gehen]] / open
-[[weggehen]] - [[weg]] = [[gehen]] / leave
-[[zugehen]] - [[zu]] = [[gehen]] / approach 
-[[rangehen]] - [[ran]] = [[gehen]] / get closer 
-
+🚶 [[gehen]], [ˈɡeːən] | [[ging]], sein [[gegangen]]
 
 ---
 
-Synonyme: [[laufen]], [[wandern]], [[schreiten]], [[spazieren]], [[treten]]
-Antonyme: [[stehen]], [[bleiben]], [[sitzen]], [[liegen]], [[hocken]]
-
-
-
-
+---
+[[eingehen 1]] - [[Worter/ein]] = [[gehen]] / to enter, to go in, take risk
 
 ---
-Übersetzung: to go, to walk
+Synonyme: [[laufen]], [[schreiten]], [[wandern]], [[marschieren]], [[spazieren]]
+Antonyme: [[stehen]], [[bleiben]], [[stehenbleiben]], [[verharren]]
 
 ---
-Morpheme: [[ge]][[h]][[en]]
- #Verb  #Trennbar
- 
+to go, to walk
+
+---
+[[geh]][[en]]
+   
+
 ---
 
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[gehe]], [[ging]], -, [[gehe]], [[ginge]]  
+Du: [[gehst]], [[gingest]], [[geh]], [[gehest]], [[gingest]]  
+Er/sie/es: [[geht]], [[ging]], -, [[gehe]], [[ginge]]  
+Wir: [[gehen]], [[gingen]], -, [[gehen]], [[gingen]]  
+Ihr: [[geht]], [[ginget]], [[geht]], [[gehet]], [[ginget]]  
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[gehe]] | [[ging]] | - | [[gehe]] | [[ginge]] |
-| Du | [[gehst]] | [[gingst]] | [[geh]] | [[gehest]] | [[gingest]] |
-| Er/sie/es | [[geht]] | [[ging]] | - | [[gehe]] | [[ginge]] |
-| Wir | [[gehen]] | [[gingen]] | - | [[gehen]] | [[gingen]] |
-| Ihr | [[geht]] | [[gingt]] | [[geht]] | [[gehet]] | [[hinget]] |
-| Sie | [[gehen]] | [[gingen]] | [[gehen Sie]] | [[gehen]] | [[gingen]] |
+Partizip I: [[gehend]], 
+Partizip II: [[gegangen]]
+Zu+infinifive: [[zu gehen]]
 
-Partizip I: [[gehend]], Partizip II: [[gegangen]]
-
-[[untergehen]], [[weggehen]], [[liegen]], [[ausgehen]], [[springen]], [[stehen]], [[rennen]], [[fliegen]], [[aufgehen]]
-, [[vergehen]], [[kommen]], [[wandeln]], [[trappeln]], [[zugehen]], [[rangehen]], [[vorhergehen]], [[angehen 1]]
+---
+[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]]

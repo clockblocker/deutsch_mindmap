@@ -1,1 +1,1 @@
-[[verstehen]][[stehlen]][[bestehen]], [[widerstehen]], [[stehen]], [[überstehen]]
+, [[Worter/aufstehen]]

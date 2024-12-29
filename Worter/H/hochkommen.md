@@ -1,1 +1,1 @@
-, [[fallen]], [[steigen]], [[versinken]]
+, [[Worter/aufstehen]]

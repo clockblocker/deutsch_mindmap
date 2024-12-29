@@ -1,1 +1,1 @@
-, [[einfallen]], [[schenken]], [[schaffen]], [[zurechtkommen]], [[gelingen]]
+, [[leisten 1]]

@@ -1,2 +1,1 @@
-[[genial]]
-, [[trefflich]]
+, [[hervorragend]]

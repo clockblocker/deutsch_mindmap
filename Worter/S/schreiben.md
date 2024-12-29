@@ -1,1 +1,1 @@
-, [[lesen]], [[tippen]], [[aufschreiben]]
+, [[Schreibtisch 1]]

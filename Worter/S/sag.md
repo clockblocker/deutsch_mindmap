@@ -1,3 +1,1 @@
-[[sagen]]
-
-Na sag schon!, [[Worter/aufsagen]]
+, [[vorhersagen]], [[sagen]]

@@ -1,1 +1,1 @@
-, [[Schuld]], [[Verbrechen]]
+, [[bestrafen 1]]

@@ -1,1 +1,0 @@
-🔴 die [[Worter/Fingernagel]]

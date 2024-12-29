@@ -1,1 +1,1 @@
-, [[sinnvoll]]
+, [[bequem]]

@@ -1,1 +1,0 @@
-, [[Kaffeepulver 1]], [[Löffel]], [[Geltung]]

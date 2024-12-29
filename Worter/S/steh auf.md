@@ -1,1 +1,1 @@
-[[Worter/aufstehen]]
+, [[Worter/aufstehen]]

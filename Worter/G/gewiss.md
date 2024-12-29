@@ -1,1 +1,1 @@
-, [[wohl]], [[sicher]], [[freilich]], [[klar]], [[unbedingt]]
+, [[bestimmt]]

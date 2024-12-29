@@ -1,1 +1,1 @@
-, [[Worter/Gurke]]
+🥒 🔴 die [[Worter/Gurke]]

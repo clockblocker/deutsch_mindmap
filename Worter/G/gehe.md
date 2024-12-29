@@ -1,3 +1,1 @@
-
-
-Inf: [[gehen]]
+, [[gehen]]

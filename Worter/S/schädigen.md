@@ -1,1 +1,1 @@
-, [[verletzen]]
+, [[schaden]]

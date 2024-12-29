@@ -1,1 +1,1 @@
-, [[Gefahr]]
+, [[Risiko]]

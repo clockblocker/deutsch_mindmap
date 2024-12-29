@@ -1,23 +1,24 @@
-🔵 der [[Löffel]], [ˈløfəl]
+🔵 der [[Löffel]]
 die [[Löffel]]
 
 ---
-*Er schrie: »Wer hat mich da verbrannt?«*  
-*und hielt den [[Löffel]] in der Hand.*
+Paul weiß immer alles besser: „Linda, nimm nicht so viel [[Kaffeepulver 1]] für die Kaffeemaschine, sonst schmeckt der Kaffee wieder bitter“, sagt er, „Italiener nehmen immer nur vier [[Löffel]] Kaffee pro Person, so kommt das Aroma besser zur [[Geltung]].“ 
 
 ---
 Synonyme:
-- [[Suppenlöffel]], [[Essbesteck]], [[Speisebesteck]], [[Küchengerät]]
+- [[Esslöffel]], [[Kelle]], [[Schöpflöffel]], [[Suppenlöffel]]
 
 ---
-Übersetzung: spoon
+spoon
 
 ---
-Morpheme:
 [[Löffel]]
 
 ---
-Einzigartige mögliche Formen: [[Löffels]], [[Löffeln]], [[Löffel]], [[Löffels]], [[Löffeln]]
+Case: Singular, Plural  
+Nominative: der [[Löffel]], die [[Löffel]]  
+Accusative: den [[Löffel]], die [[Löffel]]  
+Genitive: des [[Löffels]], der [[Löffel]]  
+Dative: dem [[Löffel]], den [[Löffeln]] 
 
----
-#Substantiv #Maskulin
+löffeln, löffelartig

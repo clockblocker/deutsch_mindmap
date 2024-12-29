@@ -1,1 +1,1 @@
-[[verlassen]], [[dienen]], [[auslachen]], [[wegschubsen]], [[nützen]]
+, [[schaden]]

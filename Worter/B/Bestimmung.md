@@ -1,1 +1,1 @@
-, [[Auswahl]], [[Schicksal]], [[Ziel]]
+, [[bestimmt]]

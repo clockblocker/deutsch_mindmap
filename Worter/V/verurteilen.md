@@ -1,1 +1,1 @@
-[[verdammen]], [[hassen]], [[mögen]]
+, [[bestrafen 1]]

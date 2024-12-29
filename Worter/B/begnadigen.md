@@ -1,1 +1,1 @@
-[[verdammen]], [[ermordet]]
+, [[bestrafen 1]]

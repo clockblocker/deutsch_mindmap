@@ -33,7 +33,7 @@ for file in *; do
 
   # Check if this first character is in the set of German letters
   # (lowercase or uppercase: Ä, Ö, Ü, ä, ö, ü, ß)
-  if [[ "$first_char" =~ ^[ÄÖÜäöüß]$ ]]; then
+  if [[ "$first_char" =~ ^[A-Za-zÄÖÜäöüß]$ ]]; then
     # Convert to uppercase (German-aware)
     uppercase_first_char="$(to_upper_german "$first_char")"
     

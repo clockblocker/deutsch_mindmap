@@ -1,1 +1,1 @@
-, [[gemütlich]]
+, [[bequem]]

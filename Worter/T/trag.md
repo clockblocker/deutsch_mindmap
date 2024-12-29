@@ -1,2 +1,1 @@
-[[tragen]]  
-, [[übertragen]], [[ertragen]], [[Antrag]]
+, [[Vortrag]]

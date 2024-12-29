@@ -1,1 +1,1 @@
-, [[zuwerfen]]
+, [[zugeworfen]]

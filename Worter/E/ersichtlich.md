@@ -1,1 +1,1 @@
-, [[kund]], [[offenbar]], [[deutlich]]
+, [[offensichtlich]]

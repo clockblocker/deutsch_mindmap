@@ -1,1 +1,1 @@
-, [[lutschen]]
+, [[spucken]]

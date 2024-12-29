@@ -1,1 +1,0 @@
-, [[leisten 1]], [[schaden]]

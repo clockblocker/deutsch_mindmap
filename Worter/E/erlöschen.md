@@ -1,1 +1,1 @@
-, [[zünden]], [[flackern]], [[brennen]], [[aufleuchten]], [[aussterben]]
+, [[eingehen 1]]

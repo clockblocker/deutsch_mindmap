@@ -1,1 +1,1 @@
-, [[stechen]], [[quälen]]
+, [[beißen]]

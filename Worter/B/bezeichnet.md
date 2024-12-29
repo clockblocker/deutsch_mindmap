@@ -1,1 +1,1 @@
-, [[bezeichnen]]
+🏷️ [[bezeichnen]] | 🏷️ 🔵 der [[Bezeichner]]

@@ -1,1 +1,1 @@
-, [[Ehre]]
+, [[Geltung]]

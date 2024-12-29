@@ -1,1 +1,1 @@
-, [[erfinden]], [[entwickeln]]
+, [[zeugen]]

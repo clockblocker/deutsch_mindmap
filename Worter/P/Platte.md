@@ -1,3 +1,1 @@
-, [[Brett]]
-🥟 🔴 die [[Platte]] | 🛠️ [[platten]]
-
+, [[Scheibe 1]]

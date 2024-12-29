@@ -1,1 +1,1 @@
-, [[Ausstellung]], [[Vorstellung]], [[Darstellung]]
+, [[Vortrag]]

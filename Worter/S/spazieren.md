@@ -1,1 +1,1 @@
-spaz[[ieren]], [[laufen]], [[gehen]], [[wandeln]]
+, [[gehen]]

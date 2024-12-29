@@ -1,1 +1,1 @@
-, [[erreichten]], [[gelingen]]
+, [[leisten 1]]

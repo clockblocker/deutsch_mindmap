@@ -1,1 +1,1 @@
-, [[aussichtslos]], [[Einsicht]], [[Vorsicht]]
+, [[offensichtlich]]

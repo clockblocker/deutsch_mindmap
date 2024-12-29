@@ -1,1 +1,1 @@
-, [[aufhalten]], [[nützen]], [[treiben]]
+, [[schaden]]

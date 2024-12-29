@@ -1,1 +1,1 @@
-, [[Aufwachsen]], [[blühen]], [[aussterben]], [[wachsen]]
+, [[eingehen 1]]

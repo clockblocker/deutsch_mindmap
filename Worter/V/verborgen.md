@@ -1,1 +1,1 @@
-, [[heimlich]], [[kund]], [[offenbar]]
+, [[offensichtlich]]

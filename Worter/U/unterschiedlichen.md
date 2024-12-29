@@ -1,1 +1,1 @@
-, [[unterschiedlich]], [[Schwierigkeit]]
+😕 [[unterschiedlich]] | 😕 [[unterscheiden]]

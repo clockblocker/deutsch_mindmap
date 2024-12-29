@@ -1,1 +1,1 @@
-💡 [[scheinen]], [[11 08]], [[s1 e1]]
+, [[eignen]], [[geeignet 1]]

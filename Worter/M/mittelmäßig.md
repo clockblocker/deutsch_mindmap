@@ -1,1 +1,1 @@
-[[mittel]][[prima]], [[durchschnittliches]]
+, [[hervorragend]]

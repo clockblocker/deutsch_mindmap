@@ -1,3 +1,1 @@
-specific
-
-[[Bestimmte]] Verben: bleiben/werden/sein
+, [[bestimmt]]

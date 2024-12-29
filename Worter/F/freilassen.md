@@ -1,1 +1,1 @@
-, [[dammen]], [[fassen]], [[ermordet]], [[umgeben]], [[ledigen]], [[fangen]], [[abschließen]]
+, [[bestrafen 1]]

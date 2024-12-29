@@ -1,1 +1,1 @@
-[[gelten]]
+, [[Geltung]]

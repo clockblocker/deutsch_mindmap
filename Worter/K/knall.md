@@ -1,23 +1,27 @@
-🔵 der [[Knall]], [knal]
+🔵 der [[Knall]]
 die [[Knälle]]
 
 ---
-Also schön! Du bist kein Spinner, du bist völlig [[durchgeknallt]]!
+Bevor Paul etwas sagen kann, hat Linda die [[Haustür]] mit einem großen [[Knall]] hinter sich [[zugeworfen]].
 
 
 ---
 Synonyme:
-- [[Schall]], [[Krach]], [[Laut]], [[Geräusch]], [[Bumms]]
+- [[Krach]], [[Donnern]], [[Getöse]], [[Explosion]], [[Knallen]]
 
 ---
-Übersetzung: bang, crack, pop
+bang, boom, blast, explosion
 
 ---
-Morpheme:
 [[Knall]]
 
 ---
-Einzigartige mögliche Formen: [[Knalls]], [[Knalle]], [[Knallen]], [[Knällen]]
+Einzigartige mögliche Formen: 
 
----
-#Substantiv #Maskulin, [[knallen]]
+Case: Singular, Plural  
+Nominative: der [[Knall]], die [[Knälle]]  
+Accusative: den [[Knall]], die [[Knälle]]  
+Genitive: des [[Knalls]], der [[Knälle]]  
+Dative: dem [[Knall]], den [[Knällen]] 
+
+[[knallen]], [[knallrot]], [[knallhart]], [[Knalleffekt]]
