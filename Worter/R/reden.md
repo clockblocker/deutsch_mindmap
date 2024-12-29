@@ -38,4 +38,4 @@ Morpheme: [[red]][[en]]
 
 Partizip I: [[redend]], Partizip II: [[geredet]]
 
-[[reden]] - [[red]][[en]]
+[[reden]] - [[red]][[en]], [[Redewendung]]

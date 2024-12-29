@@ -1,1 +1,1 @@
-, [[zugeben]], [[verantworten]]
+, [[zugeben]], [[verantworten]], [[behaupten]], [[haupten]]

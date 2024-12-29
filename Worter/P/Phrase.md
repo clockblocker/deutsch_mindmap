@@ -1,1 +1,1 @@
-, [[Satz]], [[ja groß genug]], [[Ausdruck]], [[Redensart]]
+, [[Satz]], [[ja groß genug]], [[Ausdruck]], [[Redensart]], [[Redewendung]]

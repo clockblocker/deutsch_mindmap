@@ -22,4 +22,4 @@ satisfied, content, pleased
 Einzigartige mögliche Formen: 
 [[zufrieden]], [[zufriedener]], [[zufriedene]], [[zufriedenes]], [[zufriedenen]], [[zufriedenem]], [[zufriedener]], [[zufriedenen]]
 [[zufriedener]], [[zufriedener]], [[zufriedene]], [[zufriedenes]], [[zufriedenen]], [[zufriedenem]], [[zufriedener]], [[zufriedenen]]
-[[zufriedensten]], [[zufriedenster]], [[zufriedenste]], [[zufriedenstes]], [[zufriedensten]], [[zufriedenstem]], [[zufriedenster]], [[zufriedensten]], [[Entscheidung]]
+[[zufriedensten]], [[zufriedenster]], [[zufriedenste]], [[zufriedenstes]], [[zufriedensten]], [[zufriedenstem]], [[zufriedenster]], [[zufriedensten]], [[Entscheidung]], [[neidisch]]

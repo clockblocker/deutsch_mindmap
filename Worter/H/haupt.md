@@ -24,3 +24,4 @@ Einzigartige mögliche Formen: [[Hauptes]], [[Haupte]], [[Häupter]], [[Häupter
 
 
 [[überhaupt]]
+, [[behaupten]], [[haupten]]

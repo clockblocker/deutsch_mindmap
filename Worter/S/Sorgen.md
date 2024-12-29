@@ -5,6 +5,7 @@ die [[Sorgen]]
 ---
 Oh Mann. Ich mach mir [[Sorgen]] …  
 
+Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]].
 
 ---
 Synonyme:
@@ -59,3 +60,4 @@ Partizip I: [[sorgend]], Partizip II: [[gesorgt]]
 
 
 
+, [[genießen]], [[zumindest]], [[Redewendung]], [[behaupten]]

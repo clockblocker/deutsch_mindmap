@@ -1,1 +1,1 @@
-, [[bestrafen 1]], [[bestimmt]], [[bedanken]], [[betreffen]]
+, [[bestrafen 1]], [[bestimmt]], [[bedanken]], [[betreffen]], [[behaupten]], [[haupten]]

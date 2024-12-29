@@ -37,4 +37,4 @@ Morpheme: [[wend]][[en]]
 
 Partizip I: [[wendend]], Partizip II: [[gewendet]]
 
-[[wenden]] - [[wend]] = [[en]], [[abbiegen]], [[biegen]]
+[[wenden]] - [[wend]] = [[en]], [[abbiegen]], [[biegen]], [[Redewendung]]

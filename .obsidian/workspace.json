@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Alle.md",
+                "file": "Texte/Brüder Grimm/Aschenputtel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alle"
+              "title": "Aschenputtel"
+            }
+          },
+          {
+            "id": "f5ec14a747d5d0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/M/mindestens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mindestens"
+            }
+          },
+          {
+            "id": "08df9aa9c0cffd21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/R/Redewendung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redewendung"
             }
           },
           {
@@ -115,8 +143,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,32 +236,33 @@
   },
   "active": "e7bad68ef2538fd5",
   "lastOpenFiles": [
-    "Texte/b2 Das sagt man so!/Jemandem Löcher in den Bauch fragen.md",
-    "Worter/L/Löcher.md",
-    "Worter/L/loch.md",
-    "Worter/B/Bauch.md",
-    "Worter/S/stört.md",
-    "Worter/S/stören.md",
-    "Worter/N/neugierig.md",
-    "Worter/Fragerei.md",
-    "Worter/F/Frager.md",
-    "Worter/E/erei.md",
-    "Worter/I/Interrogation.md",
-    "Worter/V/Verhör.md",
-    "Worter/F/Fragereien.md",
-    "Worter/N/Nähe.md",
-    "Worter/G/genähert.md",
-    "Worter/U/Umkreis.md",
-    "Worter/N/Näherung.md",
-    "Worter/N/Nähen.md",
-    "Worter/G/geduldig.md",
-    "Worter/E/eigentlich.md",
-    "Worter/U/ununterbrochen.md",
-    "Worter/K/Kontinuität.md",
-    "Worter/U/ununterbrochendestes.md",
-    "Worter/U/ununterbrochheneres.md",
-    "Worter/U/ununterbrochenes.md",
-    "Worter/U/ununterbrochendste.md",
+    "Texte/b2 Das sagt man so!/Alles unter einen Hut bringen.md",
+    "Texte/Brüder Grimm/Der Zaunkönig.md",
+    "Texte/Brüder Grimm/Schneewittchen.md",
+    "Texte/Brüder Grimm/Rotkäppchen.md",
+    "Texte/Brüder Grimm/Hänsel und Gretel.md",
+    "Texte/Brüder Grimm/Die Bremer Stadtmusikanten.md",
+    "Texte/Brüder Grimm/Der gestiefelte Kater.md",
+    "Texte/Brüder Grimm/Aschenputtel.md",
+    "Worter/S/Stiefel.md",
+    "Texte/b2 Das sagt man so!/Alle.md",
+    "Texte/Untitled 1.md",
+    "Texte/Brüder Grimm",
+    "Texte/b2 Das sagt man so!/Leben wie Gott in Frankreich.md",
+    "Worter/N/neidisch.md",
+    "Worter/M/mindestens.md",
+    "Worter/M/Märchenbuch.md",
+    "Worter/M/Märchen.md",
+    "Worter/M/Märchens.md",
+    "Worter/M/Mär.md",
+    "Worter/L/Legende.md",
+    "Worter/F/Fabel.md",
+    "Worter/M/Mythos.md",
+    "Worter/B/buchmäßig.md",
+    "Worter/M/märchenhaft.md",
+    "Worter/M/Märchenbüchern.md",
+    "Worter/M/Märchenbuchs.md",
+    "Worter/M/Märchensammlung.md",
     "Lektionen/Kamanova/Audio/L-07.mp3",
     "Lektionen/Kamanova/Audio/L-05.mp3",
     "Lektionen/Kamanova/Audio/L-11.mp3",
@@ -254,7 +282,6 @@
     "Worter/skripts",
     "Worter/Ü",
     "Worter/management_scripts/move_files.sh",
-    "Worter/Z",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

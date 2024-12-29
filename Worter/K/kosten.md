@@ -27,4 +27,4 @@ Morphems of only infinitive:
 
 ---
 Tags:
-#Verb
+#Verb, [[genießen]]

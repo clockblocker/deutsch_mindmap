@@ -2,4 +2,4 @@
 
 [[bejahen]]
 
-, [[feststellen]], [[nicken]]
+, [[feststellen]], [[nicken]], [[behaupten]]

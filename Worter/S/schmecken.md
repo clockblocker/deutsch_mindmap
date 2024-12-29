@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn wir experimentieren würden, [[schmeckten]] wir neue Kombinationen.
 - Wenn ihr mehr Geduld hättet, [[schmecktet]] ihr die Feinheiten.
 - Wenn sie sich Zeit nehmen würden, [[schmeckten]] sie die Unterschiede.
-, [[behagen]]
+, [[behagen]], [[genießen]]
