@@ -28,4 +28,4 @@ Partizip II: [[gelöst]]
 Zu+infinitive: [[zu lösen]]
 
 ---
-[[Lösung]], [[Lösungsmittel]], [[Lösbarkeit]], [[Problemlösung]], [[Lösungsansatz]]
+[[Lösung]], [[Lösungsmittel]], [[Lösbarkeit]], [[Problemlösung]], [[Lösungsansatz]], [[verbinden]]

@@ -44,3 +44,4 @@ Einzigartige mögliche Formen:
 , [[schmale]], [[fern]], [[nah]], [[klein]]
 
 ---
+, [[fernab]]

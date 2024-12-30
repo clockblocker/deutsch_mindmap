@@ -5,6 +5,10 @@ sein [[gerutscht]]
 ---
 _Aang hat aus Appas Schwanz eine Rutsche gebaut, von der nun die kleinen Kinder [[rutschen]]._
 
+„Zum ersten Mal in meinem Leben“, erzählte er später seinen Freunden zu Hause, „dachte ich, dass ich nicht lebend nach Hause komme. Mir ist das [[Herz]] in die [[Hose]] [[gerutscht]].“ 
+
+Normalerweise [[verbindet]] man das Herz mit Liebe und Romantik. Man kann zum Beispiel sein Herz an jemanden verlieren oder jemandem das Herz brechen. Aber was bedeutet es, wenn einem das Herz in die Hose [[rutscht]]?
+
 ---
 Synonyme: [[gleiten]], [[gleiten]], [[ausgleiten]], [[abrutschen]], [[dahingleiten]],
 Antonyme: [[stehenbleiben]], [[festhalten]], [[stehen]]

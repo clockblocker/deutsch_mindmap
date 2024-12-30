@@ -1,1 +1,1 @@
-, [[gebückt]], [[hoch]]
+, [[gebückt]], [[hoch]], [[steilen]]

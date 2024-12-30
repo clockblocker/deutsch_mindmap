@@ -5,7 +5,10 @@
 nicht [[harmlos]]
 
 ---
-Die Katze überlegte noch, wie sie das anstellen sollte, als ein Jäger aus dem Busch heraus einen [[giftigen]] Pfeil auf den Elefanten abschoss
+Die Katze überlegte noch, wie sie das anstellen sollte, als ein Jäger aus dem Busch heraus einen [[giftigen]] [[Pfeil]] auf den Elefanten abschoss
+
+Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist mutig und hat weder Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]]. 
+
 
 ---
 

@@ -1,1 +1,1 @@
-, [[anhören 1]], [[vorhersagen]], [[bitten]], [[bedanken]], [[betreffen]], [[genießen]], [[haupten]], [[vorstellen]], [[erstaunen]], [[kontern]]
+, [[anhören 1]], [[vorhersagen]], [[bitten]], [[bedanken]], [[betreffen]], [[genießen]], [[haupten]], [[vorstellen]], [[erstaunen]], [[kontern]], [[bewundern]], [[erwarten]]

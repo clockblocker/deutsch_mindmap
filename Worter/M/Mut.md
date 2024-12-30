@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Mutes]], [[Mute]], [[Müte]], [[Muten]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[mutig]]

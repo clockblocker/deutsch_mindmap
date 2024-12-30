@@ -3,6 +3,9 @@
 ---
 
 ---
+[[verbinden]] - [[ver]] = [[binden]] / to connect, to link, to join
+
+---
 Synonyme: [[knüpfen]], [[befestigen]], [[verbinden]], [[anheften]], [[zusammenbinden]]
 Antonyme: [[lösen]], [[trennen]], [[aufbinden]], [[aufwickeln]]
 

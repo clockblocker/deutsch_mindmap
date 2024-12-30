@@ -4,6 +4,7 @@ haben [[gefüllt]]
 
 ---
 
+[[erfüllen]] - [[er]] = [[füllen]] / to fulfill, to realize, to accomplish
 
 ---
 Synonyme: [[befüllen]], [[auffüllen]], [[ausfüllen]], [[ergänzen]], [[beladen]]
@@ -31,3 +32,4 @@ Morpheme: [[fül]][[len]]
 Partizip I: [[füllend]], Partizip II: [[gefüllt]]
 
 +[[ein]] =  [[einfüllen]]
+, [[erfüllen]]

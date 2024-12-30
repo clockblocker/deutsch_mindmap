@@ -4,10 +4,13 @@ die [[Wünsche]]
 ---
 Mutter Birgit seufzt: „Wie sollen wir all diese [[Wünsche]] unter einen Hut bringen?“ 
 
-Kaum]] der [[Wunsch]] gesprochen [[ward]],*  
+*[[Kaum]] der [[Wunsch]] gesprochen [[ward]],*  
 *als die Türe [[leise]] [[knarrt]]:*  
 *Zu den Mädchen, zu den drein,*  
 *[[eintreten|tritt]] der Zar des Landes ein.*  
+
+Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] erfüllt. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
+
 
 ---
 Synonyme:
@@ -36,3 +39,4 @@ Deklinationstabelle:
 
 
 , [[Verlangen]]
+, [[erwarten]]

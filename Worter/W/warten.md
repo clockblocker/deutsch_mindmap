@@ -16,8 +16,8 @@ Alle [[warten]] auf das Licht
 *Bis die Sonne untergeht*
 
 ---
-[[abwarten]] - [[ab]] = [[warten]]
-
+[[abwarten]] - [[ab]] = [[warten]] / to wait and see, to wait patiently
+[[erwarten]] - [[er]] = [[warten]]  / ожидать
 
 
 ---

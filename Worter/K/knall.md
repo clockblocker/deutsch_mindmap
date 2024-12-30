@@ -24,4 +24,4 @@ Accusative: den [[Knall]], die [[Knälle]]
 Genitive: des [[Knalls]], der [[Knälle]]  
 Dative: dem [[Knall]], den [[Knällen]] 
 
-[[knallen]], [[knallrot]], [[knallhart]], [[Knalleffekt]]
+[[knallen]], [[knallrot]], [[knallhart]], [[Knalleffekt]], [[Geräusch]]

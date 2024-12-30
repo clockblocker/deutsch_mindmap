@@ -3,7 +3,8 @@
 haben/sein [[gewundert]]
 
 ---
-[[verwundern]] - [[ver]] = [[wundern]]
+[[verwundern]] - [[ver]] = [[wundern]] / to astonish, to amaze, to surprise
+[[bewundern]] - [[be]] = [[wundern]]   / to admire, to marvel at
 
 
 ---
@@ -32,4 +33,4 @@ Morpheme: [[wund]][[ern]]
 Partizip I: [[sich wundernd]], Partizip II: [[sich gewundert]]
 
 [[wundern]] - [[wund]][[ern]]
-'''
+''', [[bewundern]]

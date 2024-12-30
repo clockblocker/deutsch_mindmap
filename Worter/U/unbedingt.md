@@ -14,6 +14,9 @@ Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. [[außerdem]]
 
 Peter erinnert ihn an das Fußballturnier letzten Sommer. Leo hat nicht mitspielen können, weil seine Freundin [[unbedingt]] dieses Wochenende am [[Strand]] [[verbringen]] wollte. 
 
+Der Löwe [[schaute]] ihn eine Zeit lang an und machte sich dann auf den Weg zu den Giraffen. Glück gehabt! Nächstes Jahr möchte Fred [[unbedingt]] nach London. Den Buckingham Palace wollte er schon immer sehen …
+
+
 
 ---
 Synonyme: [[auf jeden Fall]], [[auf alle Fälle]], [[definitiv]], [[sicher]], [[gewiss]], [[nötig]], [[bald]]

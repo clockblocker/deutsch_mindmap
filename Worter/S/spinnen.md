@@ -8,6 +8,9 @@ SASCHA: Hey, [[Spinnst]] du? Sprich nicht so mit meinem Freund!
 
 Ich gehe nach Hause, da [[spinnt]] wenigstens keiner. (Bleibt stehen und merkt, dass er auf offenem Meer ist)
 
+Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist [[mutig]] und hat [[weder]] Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]]. 
+
+
 ---
 Synonyme: [[weben]], [[stricken]], [[wirken]], [[phantasieren]], [[träumen]]
 Antonyme: [[ernstmachen]], [[realistisch sein]], [[rational denken]]
@@ -34,4 +37,4 @@ Zusätzliche Bedeutungen:
 1. Technisches Verb: Fasern zu Garn oder Faden verarbeiten
 2. Umgangssprachlich: verrückte Ideen entwickeln, fantasieren
 3. Dialektal: sich benehmen, handeln
-, [[umwerfen]]
+, [[umwerfen]], [[fernab]]

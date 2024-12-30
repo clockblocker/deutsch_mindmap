@@ -6,6 +6,9 @@ Emils Mutter goß die Kamillenseife in das blonde Haar und begann, den [[fremden
 
 Er ist sogar aufgeregt, wenn er an [[Weihnachten]] seinen Großeltern ein [[Gedicht]] [[aufsagt]]. Und jetzt soll er vor hunderten [[fremden]] Leuten eine Stunde lang auf der Bühne stehen? 
 
+Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist mutig und hat weder Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]]. 
+
+
 ---
 Synonyme: 
 [[unbekannt]], [[ungewöhnlich]], [[seltsam]], [[eigenartig]], [[merkwürdig]]

@@ -43,4 +43,4 @@ Morpheme: [[merk]][[en]]
 
 Partizip I: [[merkend]], Partizip II: [[gemerkt]]
 
-, [[besonders]], [[Druck]]
+, [[besonders]], [[Druck]], [[behalten]]

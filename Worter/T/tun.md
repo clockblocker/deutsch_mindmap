@@ -4,10 +4,12 @@
 *Ich zünde mir ein Hölzchen an,*  
 *wie’s oft die Mutter hat [[getan]].«*  
 
- Es gibt nichts Gutes ausser man tut es.
+Es gibt nichts Gutes ausser man tut es.
 
+Zum Glück [[behielt]] Fred in dieser Situation doch noch einen kühlen Kopf. Er blieb ruhig stehen und [[tat]] einfach nichts. 
+
+---
 [[wehtun]]
-
 
 ---
 Synonyme: [[handeln]], [[machen]], [[bewirken]], [[ausführen]], [[vollbringen]]

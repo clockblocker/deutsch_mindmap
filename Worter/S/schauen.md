@@ -12,6 +12,8 @@ Katrin schaut kurz zur Wand. „Also, ich finde, dass es gut ins Wohnzimmer pass
 
 Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[auskennen]]. Doch wer über den [[Tellerrand]] [[schaut]], kann viel entdecken: Einen Becher und Besteck findet man dabei eher nicht, aber ganz bestimmt neue Perspektiven.  
 
+Der Löwe [[schaute]] ihn eine Zeit lang an und machte sich dann auf den Weg zu den Giraffen. Glück gehabt! Nächstes Jahr möchte Fred [[unbedingt]] nach London. Den Buckingham Palace wollte er schon immer sehen …
+
 
 ---
 Synonyme: [[blicken]], [[gucken]], [[sehen]], [[anschauen]], [[betrachten]]

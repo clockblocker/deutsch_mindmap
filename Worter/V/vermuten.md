@@ -1,1 +1,1 @@
-, [[meinen]], [[wiegen]], [[glaub]], [[rechnen]], [[raten]], [[befürchten]]
+, [[meinen]], [[wiegen]], [[glaub]], [[rechnen]], [[raten]], [[befürchten]], [[erwarten]]

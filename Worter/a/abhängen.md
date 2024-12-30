@@ -3,7 +3,10 @@
 haben [[abgehangen]]
 
 ---
-Weil ihre Ehre nicht davon [[abhing]], dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
+Weil ihre [[Ehre]] nicht davon [[abhing]], dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
+
+Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist [[mutig]] und hat [[weder]] Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]]. 
+
 
 ---
 Synonyme: [[beeinflussen]], [[bestimmen]], [[determinieren]], [[bedingen]]
@@ -26,4 +29,4 @@ Morpheme: [[ab]][[häng]][[en]]
 | Sie | [[hängen ab]] | [[hingen ab]] | [[hängen Sie ab]] | [[hängen ab]] | [[hingen ab]] |
 
 Partizip I: [[abhängend]], Partizip II: [[abgehangen]]
-[[abhängen]] - [[ab]] = [[hängen]]
+[[abhängen]] - [[ab]] = [[hängen]], [[fernab]]

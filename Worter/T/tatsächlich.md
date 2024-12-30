@@ -25,4 +25,4 @@ Morpheme: [[Tat]][[sächlich]]
 
 
 [[allerdings]], [[eigentlich]], [[echt]]
-, [[begrüßen]], [[zerbrechen]]
+, [[begrüßen]], [[zerbrechen]], [[erwarten]]

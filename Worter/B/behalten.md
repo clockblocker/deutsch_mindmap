@@ -1,78 +1,39 @@
-🛡️ [[behalten]]
-[[behielt]]
-haben [[behalten]]
+🧠 [[behalten]], [bəˈhaltən] | [[behielt]], haben [[behalten]]
 
 ---
 SASCHA: … [[ behalten|behalt]] deinen Job, du Schleimer, du Oktopus!  
 
 Das Kind bricht das Essen. (Es kann das Essen nicht [[behalten]].)
 
----
-
-Synonyme:
-- [[bewahren]], [[halten]], [[aufbewahren]]
+Zum Glück [[behielt]] Fred in dieser Situation doch noch einen kühlen Kopf. Er blieb ruhig stehen und [[tat]] einfach nichts. 
 
 ---
-
-Beispiele:
-
-- Ich [[behalte]] das Buch für mich.
-- Du [[behältst]] deine Geheimnisse.
-- Er [[behält]] die Informationen für sich.
-- Wir [[behalten]] das Geschenk.
-- Ihr [[behaltet]] die Karte.
-- Sie [[behalten]] ihre Plätze.
+Synonyme: [[merken]], [[speichern]], [[erinnern]], [[aufbewahren]], [[bewahren]]
+Antonyme: [[vergessen]], [[verlieren]], [[verdrängen]]
 
 ---
-**Übersetzung**: to keep, to retain
+to keep, to remember, to retain
+
+---
+[[be]][[halt]][[en]]
 
 ---
 
-Morphems of only infinitive:
-[[behalt]][[en]]
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[behalte]], [[behielt]], -, [[behalte]], [[behielte]]  
+Du: [[behältst]], [[behieltest]], [[behalte]], [[behaltest]], [[behieltest]]  
+Er/sie/es: [[behält]], [[behielt]], -, [[behalte]], [[behielte]]  
+Wir: [[behalten]], [[behielten]], -, [[behalten]], [[behielten]]  
+Ihr: [[behaltet]], [[behieltet]], [[behaltet]], [[behaltet]], [[behieltet]]  
+
+Partizip I: [[behaltend]], 
+Partizip II: [[behalten]], 
+Zu infinitive: [[zubehalten]]
+
+[[behalten]] - [[be]] = [[halten]]
 
 ---
-Tags:
-#Verb #Unregelmäßige
+[[Behalt]], [[Behalten]], [[Behältnis]], [[Gedächtnis]]
 
----
 
-Präteritum:
-
-- Ich [[behielt]] den Schlüssel.
-- Du [[behieltest]] das Geld.
-- Er [[behielt]] das Geheimnis.
-- Wir [[behielten]] unsere Plätze.
-- Ihr [[behieltet]] die Briefe.
-- Sie [[behielten]] den Ring.
-
----
-
-Imperativ:
-
-- [[behalte]] das für dich!
-- [[behaltet]] eure Plätze!
-- [[Behalten wir]] die Ruhe!
-- [[Behalten Sie]] die Quittung!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[behalte]] das Geschenk.
-- Sie meint, du [[behältst]] das Geheimnis.
-- Er behauptet, er [[behalte]] die Informationen.
-- Wir erklären, wir [[behalten]] das Geld.
-- Ihr sagt, ihr [[behaltet]] die Schlüssel.
-- Sie sagen, sie [[behalten]] den Brief.
-
----
-
-Konjunktiv II:
-
-- Wenn ich es könnte, [[behielte]] ich das Buch.
-- Wenn du wolltest, [[behieltest]] du das Geld.
-- Wenn er könnte, [[behielte]] er das Geheimnis.
-- Wenn wir dürften, [[behielten]] wir den Ring.
-- Wenn ihr es wüsstet, [[behieltet]] ihr die Wahrheit.
-- Wenn sie es könnten, [[behielten]] sie die Kontrolle.[[übergeben]], [[loswerden]], [[geliehen]], [[wegwerfen]], [[bewegen]], [[wechseln]], [[ablösen]], [[schicken]], [[verkaufen]], [[feuern]]
+[[übergeben]], [[loswerden]], [[geliehen]], [[wegwerfen]], [[bewegen]], [[wechseln]], [[ablösen]], [[schicken]], [[verkaufen]], [[feuern]]
