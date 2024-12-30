@@ -1,4 +1,4 @@
-🥣  der [[Worter/Brei]]
+🥣  der [[brei]]
 die [[Breie]]
 
 ---
@@ -17,10 +17,10 @@ mash, puree, porridge
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Worter/Brei]], die [[Breie]]  
-Accusative: den [[Worter/Brei]], die [[Breie]]  
+Nominative: der [[brei]], die [[Breie]]  
+Accusative: den [[brei]], die [[Breie]]  
 Genitive: des [[Breies]], der [[Breie]]  
-Dative: dem [[Worter/Brei]], den [[Breien]] 
+Dative: dem [[brei]], den [[Breien]] 
 
 ---
 [[breiartig]], [[einbreien]]

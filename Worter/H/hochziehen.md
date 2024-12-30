@@ -7,7 +7,7 @@ _Sokka hat seinen Ärmel hochgezogen und spannt seine Muskeln an._
 
 
 ---
-Synonyme: [[anheben]], [[Worter/aufheben]], [[empor ziehen]], [[in die Höhe heben]], [[nach oben ziehen]]
+Synonyme: [[anheben]], [[aufheben]], [[empor ziehen]], [[in die Höhe heben]], [[nach oben ziehen]]
 Antonyme: [[hinunterlassen]], [[herunterlassen]], [[absenken]], [[hinunterlassen]], [[niederlassen]]
 
 ---

@@ -1,4 +1,4 @@
-🔵 [[Worter/Alle]], [ˈalə]
+🔵 [[alle]], [ˈalə]
 nicht [[keine]], [[manche]], [[einige]] 
 
 ---
@@ -21,9 +21,9 @@ Morpheme:
 [[All]]
 
 ---
-#Adjective [[Worter/Alle]]
+#Adjective [[alle]]
 
 ---
 Einzigartige mögliche Formen:
-[[Worter/Alle]], [[aller]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
+[[alle]], [[aller]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
 [[ganz]], [[ganze]], [[ganzes]], [[ganzen]], [[ganzem]], [[ganze]], [[ganzen]]

@@ -1,11 +1,11 @@
-SAM: Du kommst [[Worter/K/Konjunktion/aus]] Amerika?
+SAM: Du kommst [[K/Konjunktion/aus]] Amerika?
 
-ANNA: Ja, Sam – [[Worter/K/Konjunktion/aus]] Amerika!
+ANNA: Ja, Sam – [[K/Konjunktion/aus]] Amerika!
 
 -----
 **From**
-- Ich bin die Stimme [[Worter/K/Konjunktion/aus]] dem Kissen
-- Ich comme [[Worter/K/Konjunktion/aus]] Deutschland
+- Ich bin die Stimme [[K/Konjunktion/aus]] dem Kissen
+- Ich comme [[K/Konjunktion/aus]] Deutschland
 
 ----
 

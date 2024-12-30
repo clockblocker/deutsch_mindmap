@@ -8,7 +8,7 @@ NIC: Aber dann hat mich Edeltraut gesehen - und ist mir [[nachgejagt]
 
 ---
 Synonyme: [[verfolgen]], [[jagen]], [[hetzen]], [[nachlaufen]], [[nachstellen]]
-Antonyme: [[Worter/aufgeben]], [[loslassen]], [[gehen lassen]]
+Antonyme: [[aufgeben]], [[loslassen]], [[gehen lassen]]
 
 ---
 Übersetzung: to chase, to pursue

@@ -1,8 +1,8 @@
-🔵 der [[Worter/Theatersaal]]
+🔵 der [[Theatersaal]]
 die [[Theatersäle]]
 
 ---
-Gleich ist es 20 Uhr. Der [[Worter/Theatersaal]] ist voll, das [[Stück]] ist [[Worter/ausverkauft]]. 
+Gleich ist es 20 Uhr. Der [[Theatersaal]] ist voll, das [[Stück]] ist [[ausverkauft]]. 
 
 
 ---
@@ -17,10 +17,10 @@ theater hall, auditorium
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Worter/Theatersaal]], die [[Theatersäle]]  
-Accusative: den [[Worter/Theatersaal]], die [[Theatersäle]]  
+Nominative: der [[Theatersaal]], die [[Theatersäle]]  
+Accusative: den [[Theatersaal]], die [[Theatersäle]]  
 Genitive: des [[Theatersaals]] oder [[Theatersaales]], der [[Theatersäle]]  
-Dative: dem [[Worter/Theatersaal]], den [[Theatersälen]]
+Dative: dem [[Theatersaal]], den [[Theatersälen]]
 
 ---
 [[theatralisch]], [[Theateraufführung]], [[Theaterbühne]]

@@ -1,1 +1,1 @@
-, [[wirken]], [[gelingen]]
+, [[wirken]], [[gelingen]], [[gutgehen]]

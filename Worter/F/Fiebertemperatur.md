@@ -1,1 +1,1 @@
-, [[Worter/fiebern]]
+, [[fiebern]]

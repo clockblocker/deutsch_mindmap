@@ -1,1 +1,1 @@
-[[jeden]][[ganz]][[Worter/Alle]], [[völlig]], [[halbes]], [[voll]], [[gesamt]]
+[[jeden]][[ganz]][[alle]], [[völlig]], [[halbes]], [[voll]], [[gesamt]]

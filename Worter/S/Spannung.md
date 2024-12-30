@@ -1,1 +1,1 @@
-, [[Aufregung]], [[Worter/entgegenfiebern]]
+, [[Aufregung]], [[entgegenfiebern]]

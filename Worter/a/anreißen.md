@@ -8,7 +8,7 @@ haben [[angerissen]]
 
 ---
 Synonyme: [[markieren]], [[kennzeichnen]], [[hervorheben]], [[unterstreichen]], [[betonen]]
-Antonyme: [[verwischen]], [[Worter/auslöschen]], [[löschen]], [[tilgen]], [[streichen]]
+Antonyme: [[verwischen]], [[auslöschen]], [[löschen]], [[tilgen]], [[streichen]]
 
 ---
 Übersetzung: немногожко надорвать, to mark, to highlight

@@ -10,7 +10,7 @@ Der Kollege lacht: „Das Geld kannst du dir sparen. In unserem Job [[kriegst]] 
 
 
 ---
-[[aufzukriegen]] - [[Worter/K/Konjunktion/Positionen/auf]][[zu]] = [[kriegen]]
+[[aufzukriegen]] - [[K/Konjunktion/Positionen/auf]][[zu]] = [[kriegen]]
 
 ---
 Synonyme: [[bekommen]], [[erhalten]], [[erlangen]], [[empfangen]], [[erreichen]]

@@ -20,7 +20,7 @@ weary, fed up, tired of, sick of
 
 ---
 Morpheme:
-[[Worter/über]][[drüssig]]
+[[über]][[drüssig]]
 
 ---
 

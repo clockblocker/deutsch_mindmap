@@ -3,7 +3,7 @@
 haben [[überlegt]]
 
 ---
-Die Katze [[Worter/über]][[legte]] noch, wie sie das [[anstellen]] sollte,
+Die Katze [[über]][[legte]] noch, wie sie das [[anstellen]] sollte,
 Überheblich, überlegen  
 
 Jetzt [[überlegt]] er: Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand gegenüber vom Fenster? 

@@ -4,7 +4,7 @@ die [[Freuden]]
 ---
 [[Freude]] ist langsam [[Spaß]] 
 
-Will man jemanden [[beleidigen]], [[Worter/bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
+Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
 
 
 ---
@@ -17,7 +17,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Freud]][[Worter/e]]
+[[Freud]][[e]]
 
 ---
 #Substantiv #Feminin

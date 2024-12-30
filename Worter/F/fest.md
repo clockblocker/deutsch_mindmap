@@ -37,4 +37,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[fest]], [[fester]], [[feste]], [[festes]], [[festen]], [[festem]], [[fester]], [[festen]]
 [[festest]], [[festester]], [[festeste]], [[festestes]], [[festesten]], [[festestem]], [[festester]], [[festesten]]
-, [[steif]], [[flüssigen]], [[s1 e1]], [[feststellen]], [[festsitzen]], [[sitzen]], [[festkleben]], [[kleben]], [[zittern]], [[Worter/entschlossen]]
+, [[steif]], [[flüssigen]], [[s1 e1]], [[feststellen]], [[festsitzen]], [[sitzen]], [[festkleben]], [[kleben]], [[zittern]], [[entschlossen]]

@@ -1,5 +1,5 @@
 🔵 beide, [ˈbaɪ̯də]
-nicht [[Worter/E/einer]]
+nicht [[E/einer]]
 
 ---
 NIC: Die [[riechen]] [[beide]] [[toll]]!  
@@ -17,8 +17,8 @@ SASCHA: Wir [[beide]] sprechen uns noch …
 Auf [[beiden]] Tellern waren Saftige Happen! 
 
 ---
-Synonyme: [[jeder]], [[Worter/Alle]], [[zusammen]], [[insgesamt]], [[ganz]]
-Antonyme: [[Worter/E/einer]], [[einzeln]], [[getrennt]]
+Synonyme: [[jeder]], [[alle]], [[zusammen]], [[insgesamt]], [[ganz]]
+Antonyme: [[E/einer]], [[einzeln]], [[getrennt]]
 
 ---
 **Übersetzung**:

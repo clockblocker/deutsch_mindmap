@@ -4,19 +4,19 @@ haben [[ausgehalten]]
 
 ---
 *Wir halten zusammen,*  
-*Wir [[aushalten|halten]] mit einander [[Worter/A/aus]]*  
+*Wir [[aushalten|halten]] mit einander [[aus]]*  
 *Wir halten zu einander,*  
 *Niemand hält uns auf*  
 
 ---
 Synonyme: [[leiden]], [[erdulden]], [[ertragen]], [[durchstehen]], [[durchhalten]], [[erbringen]]
-Antonyme: [[Worter/aufgeben]], [[nachgeben]], [[kapitulieren]], [[untergehen]], [[zusammenbrechen]]
+Antonyme: [[aufgeben]], [[nachgeben]], [[kapitulieren]], [[untergehen]], [[zusammenbrechen]]
 
 ---
 Übersetzung: to endure, to bear, to tolerate
 
 ---
-Morpheme: [[Worter/A/aus]][[halt]][[en]]
+Morpheme: [[aus]][[halt]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -33,4 +33,4 @@ Morpheme: [[Worter/A/aus]][[halt]][[en]]
 
 Partizip I: [[aushaltend]], Partizip II: [[ausgehalten]]
 
-[[aushalten]] - [[Worter/A/aus]] = [[halten]], [[aufhalten]], [[überstehen]]
+[[aushalten]] - [[aus]] = [[halten]], [[aufhalten]], [[überstehen]]

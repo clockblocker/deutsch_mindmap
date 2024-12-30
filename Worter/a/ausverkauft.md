@@ -1,7 +1,7 @@
-🔴 [[Worter/ausverkauft]]
+🔴 [[ausverkauft]]
 
 ---
-Gleich ist es 20 Uhr. Der [[Worter/Theatersaal]] ist voll, das [[Stück]] ist [[Worter/ausverkauft]]. 
+Gleich ist es 20 Uhr. Der [[Theatersaal]] ist voll, das [[Stück]] ist [[ausverkauft]]. 
 
 ---
 Synonyme:
@@ -13,11 +13,11 @@ Antonyme:
 sold out, exhausted
 
 ---
-[[Worter/A/aus]][[verkauft]]
+[[aus]][[verkauft]]
 
 ---
 Form: Positive, Comparative, Superlative  
-Nominative: [[Worter/ausverkauft]], [[ausverkaufter]], [[ausverkauftester]]  
+Nominative: [[ausverkauft]], [[ausverkaufter]], [[ausverkauftester]]  
 Accusative: [[ausverkauften]], [[ausverkaufteren]], [[ausverkauftesten]]  
 Genitive: [[ausverkaufter]], [[ausverkaufterer]], [[ausverkauftester]]  
 Dative: [[ausverkauftem]], [[ausverkaufterem]], [[ausverkauftetem]]  

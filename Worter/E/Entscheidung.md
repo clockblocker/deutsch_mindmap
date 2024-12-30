@@ -25,4 +25,4 @@ Dative: der [[Entscheidung]], den [[Entscheidungen]]
 [[entscheiden]], [[entscheidend]], [[unentschieden]], [[Entscheidungsträger]], [[Entscheidungsfindung]]
 
 
-, [[Auswahl]], [[Worter/entschließen]]
+, [[Auswahl]], [[entschließen]]

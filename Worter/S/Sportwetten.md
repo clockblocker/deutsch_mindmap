@@ -1,8 +1,8 @@
 🔵 die [[Sportwette]]
-die [[Worter/Sportwetten]]
+die [[Sportwetten]]
 
 ---
-Ob [[Worter/Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[Worter/entgegenzufiebern]]. 
+Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]. 
 
 
 ---
@@ -17,10 +17,10 @@ sports betting
 
 ---
 Case: Singular, Plural  
-Nominative: die [[Sportwette]], die [[Worter/Sportwetten]]  
-Accusative: die [[Sportwette]], die [[Worter/Sportwetten]]  
-Genitive: der [[Sportwette]], der [[Worter/Sportwetten]]  
-Dative: der [[Sportwette]], den [[Worter/Sportwetten]] 
+Nominative: die [[Sportwette]], die [[Sportwetten]]  
+Accusative: die [[Sportwette]], die [[Sportwetten]]  
+Genitive: der [[Sportwette]], der [[Sportwetten]]  
+Dative: der [[Sportwette]], den [[Sportwetten]] 
 
 ---
 [[wetten]], [[Sportwetter]], [[Sportwettanbieter]], [[Sportwettsteuer]]

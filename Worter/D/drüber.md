@@ -6,7 +6,7 @@ Alles liegt [[drunter]] und [[drüber]].
 ---
 
 Synonyme:
-- [[oben]], [[darüber]], [[Worter/über]]
+- [[oben]], [[darüber]], [[über]]
 
 ---
 

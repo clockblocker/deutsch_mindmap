@@ -1,7 +1,7 @@
 [[dennoch]]
 
 ---
-Gloria hat morgen [[Worter/Führerscheinprüfung]]. Sie ist gut [[vorbereitet]], hat aber [[dennoch]] Angst. 
+Gloria hat morgen [[Führerscheinprüfung]]. Sie ist gut [[vorbereitet]], hat aber [[dennoch]] Angst. 
 
 
 ---
@@ -16,4 +16,4 @@ nevertheless, however, still, yet
 
 ---
 
-, [[Jedoch]], [[obwohl]], [[trotzdem]], [[immerhin]], [[Worter/Führerscheinprüfung]], [[vorbereiten]]
+, [[Jedoch]], [[obwohl]], [[trotzdem]], [[immerhin]], [[Führerscheinprüfung]], [[vorbereiten]]

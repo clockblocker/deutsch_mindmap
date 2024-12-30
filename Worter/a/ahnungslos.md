@@ -1,1 +1,1 @@
-[[bereit]], [[Worter/verständnislos]]
+[[bereit]], [[verständnislos]]

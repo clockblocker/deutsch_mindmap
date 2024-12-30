@@ -1,1 +1,1 @@
-, [[Worter/Schweiß]]
+, [[Schweiß]]

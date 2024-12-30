@@ -5,7 +5,7 @@ sein [[eingefallen]]
 ---
 SASCHA: Mir [[einfallen|fällt]] schon was ein … Anna! Lass Fräulein Berg herein!  
 
- Da [[fällt]] ihr etwas [[Worter/ein]]: 
+ Da [[fällt]] ihr etwas [[ein]]: 
 „Sag mal, Sunita hat doch diese Freundin in Portugal, die sie schon lange mal besuchen will …“ 
 
 ---
@@ -16,7 +16,7 @@ Antonyme: [[ausbleiben]], [[entfallen]], [[versagen]], [[vergessen]]
 Übersetzung: to occur (to someone), to come to mind
 
 ---
-Morpheme: [[Worter/ein]][[fall]][[en]]
+Morpheme: [[ein]][[fall]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -33,4 +33,4 @@ Morpheme: [[Worter/ein]][[fall]][[en]]
 
 Partizip I: [[einfallend]], Partizip II: [[eingefallen]]
 
-[[einfallen]] - [[Worter/ein]] = [[fallen]], [[Extra 8]], [[landen]]
+[[einfallen]] - [[ein]] = [[fallen]], [[Extra 8]], [[landen]]

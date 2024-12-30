@@ -22,7 +22,7 @@ Antonyme: [[beibehalten]], [[lassen]], [[konservieren]], [[erhalten]], [[fixiere
 Übersetzung: to change, to alter
 
 ---
-Morpheme: [[änder]][[Worter/n]]
+Morpheme: [[änder]][[n]]
  #Verb  #Trennbar
 
 ---

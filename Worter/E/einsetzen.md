@@ -11,7 +11,7 @@ Antonyme: [[herausnehmen]], [[entfernen]], [[absetzen]]
 to insert, to put in, to appoint, to deploy
 
 ---
-[[Worter/ein]][[setz]][[en]]
+[[ein]][[setz]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[einsetzend]],
 Partizip II: [[eingesetzt]]
 Zu+infinifive: [[einzusetzen]]
 
-[[einsetzen]] - [[Worter/ein]] = [[setzen]]
+[[einsetzen]] - [[ein]] = [[setzen]]
 
 ---
 [[Einsatz]], [[Einsetzen]], [[Einsetzung]], [[Einsatzbereit]], [[Einsatzleiter]], [[Einsatzfahrzeug]]

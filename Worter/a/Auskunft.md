@@ -15,7 +15,7 @@ Antonyme:
 
 ---
 Morpheme:
-[[Worter/A/aus]][[kunft]]
+[[aus]][[kunft]]
 
 ---
 Einzigartige mögliche Formen: [[Auskunft]], [[Auskunfts]], [[Auskunfte]], [[Auskünften]]

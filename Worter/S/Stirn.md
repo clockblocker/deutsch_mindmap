@@ -1,8 +1,8 @@
-🔴 die [[Worter/Stirn]]
+🔴 die [[Stirn]]
 die [[Stirnen]]
 
 ---
-Jonas [[wischt]] sich den [[Worter/Schweiß]] von der [[Worter/Stirn]]. Er [[zittert]] am ganzen Körper. Seine Schauspielkollegin Lisa kommt zu ihm. 
+Jonas [[wischt]] sich den [[Schweiß]] von der [[Stirn]]. Er [[zittert]] am ganzen Körper. Seine Schauspielkollegin Lisa kommt zu ihm. 
 
 
 ---
@@ -13,14 +13,14 @@ Synonyme:
 forehead, brow
 
 ---
-[[Worter/Stirn]]
+[[Stirn]]
 
 ---
 Case: Singular, Plural  
-Nominative: die [[Worter/Stirn]], die [[Stirnen]]  
-Accusative: die [[Worter/Stirn]], die [[Stirnen]]  
-Genitive: der [[Worter/Stirn]], der [[Stirnen]]  
-Dative: der [[Worter/Stirn]], den [[Stirnen]]  
+Nominative: die [[Stirn]], die [[Stirnen]]  
+Accusative: die [[Stirn]], die [[Stirnen]]  
+Genitive: der [[Stirn]], der [[Stirnen]]  
+Dative: der [[Stirn]], den [[Stirnen]]  
 
 ---
 [[stirnrunzeln]], [[Stirnband]], [[Stirnfalte]], [[stirnlos]]

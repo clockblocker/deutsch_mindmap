@@ -1,1 +1,1 @@
-, [[Worter/verschlafen]]
+, [[verschlafen]]

@@ -35,4 +35,4 @@ Tags:
 
 ---
 Morphems:
-[[müd]][[Worter/e]], [[überdrüssig]], [[munter]]
+[[müd]][[e]], [[überdrüssig]], [[munter]]

@@ -1,2 +1,2 @@
 🚶‍♂️ [[treten]]
-, [[Worter/Auftritt]]
+, [[auftritt]]

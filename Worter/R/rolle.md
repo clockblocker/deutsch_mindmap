@@ -1,2 +1,2 @@
 🛞 [[rollen]]
-, [[Worter/Hauptrolle]]
+, [[Hauptrolle]]

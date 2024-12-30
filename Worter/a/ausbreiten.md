@@ -8,13 +8,13 @@ haben [[ausgebreitet]]
 
 ---
 Synonyme: [[verbreiten]], [[austeilen]], [[auslegen]], [[entfalten]], [[zerstreuen]]
-Antonyme: [[zusammenfalten]], [[Worter/aufheben]], [[sammeln]], [[konzentrieren]], [[zurückziehen]]
+Antonyme: [[zusammenfalten]], [[aufheben]], [[sammeln]], [[konzentrieren]], [[zurückziehen]]
 
 ---
 Übersetzung: to spread (out), to distribute
 
 ---
-Morpheme: [[Worter/A/aus]][[breit]][[en]]
+Morpheme: [[aus]][[breit]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[Worter/A/aus]][[breit]][[en]]
 
 Partizip I: [[ausbreitend]], Partizip II: [[ausgebreitet]]
 
-[[ausbreiten]] - [[Worter/A/aus]] = [[breiten]], [[strecken]], [[auseinanderklapfen]], [[winden]], [[streuen]], [[wickeln]], [[stapeln]]
+[[ausbreiten]] - [[aus]] = [[breiten]], [[strecken]], [[auseinanderklapfen]], [[winden]], [[streuen]], [[wickeln]], [[stapeln]]

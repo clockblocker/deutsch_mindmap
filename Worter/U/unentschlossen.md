@@ -1,1 +1,1 @@
-, [[Worter/entschlossen]], [[Worter/entschließen]]
+, [[entschlossen]], [[entschließen]]

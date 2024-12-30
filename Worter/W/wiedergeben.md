@@ -1,1 +1,1 @@
-[[erzählen]], [[widerspiegeln]], [[Worter/aufsagen]]
+[[erzählen]], [[widerspiegeln]], [[aufsagen]]

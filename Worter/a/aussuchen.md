@@ -14,7 +14,7 @@ Antonyme: [[ablehnen 1]], [[zurückweisen]], [[verwerfen]]
 Übersetzung: to choose, to select
 
 ---
-Morpheme: [[Worter/A/aus]][[such]][[en]]
+Morpheme: [[aus]][[such]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -30,4 +30,4 @@ Morpheme: [[Worter/A/aus]][[such]][[en]]
 
 Partizip I: [[auswählend]], Partizip II: [[ausgesucht]]
 
-[[aussuchen]] - [[Worter/A/aus]] = [[suchen]], [[ablehnen]]
+[[aussuchen]] - [[aus]] = [[suchen]], [[ablehnen]]

@@ -3,7 +3,9 @@
 ---
 
 ---
-[[eingehen 1]] - [[Worter/ein]] = [[gehen]] / to enter, to go in, take risk
+[[eingehen]] - [[ein]] = [[gehen]] / to enter, to go in, take risk
+[[gutgehen]] - [[gut]] = [[gehen]]Sonne, Liebe in der Luft, Rotwein, guter Käse und schöne Landschaften, den ganzen Tag „oh, là là“ rufen und es sich gutgehen lassen. 
+
 
 ---
 Synonyme: [[laufen]], [[schreiten]], [[wandern]], [[marschieren]], [[spazieren]]
@@ -30,4 +32,4 @@ Partizip II: [[gegangen]]
 Zu+infinifive: [[zu gehen]]
 
 ---
-[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]]
+[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]]

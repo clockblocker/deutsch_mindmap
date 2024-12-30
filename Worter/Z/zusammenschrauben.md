@@ -1,7 +1,7 @@
-🔧[[Worter/zusammenschrauben]] | [[schraubte zusammen]], haben [[zusammengeschraubt]]
+🔧[[zusammenschrauben]] | [[schraubte zusammen]], haben [[zusammengeschraubt]]
 
 ---
-„Wir müssen erst diese [[Bretter]] hier [[Worter/zusammenschrauben]]“, sagt Dennis und greift nach den [[Schrauben]]. 
+„Wir müssen erst diese [[Bretter]] hier [[zusammenschrauben]]“, sagt Dennis und greift nach den [[Schrauben]]. 
 
 ---
 Synonyme: [[befestigen]], [[montieren]], [[verbinden]], [[festmachen]], [[anschrauben]]
@@ -26,7 +26,7 @@ Partizip I: [[zusammenschraubend]],
 Partizip II: [[zusammengeschraubt]]
 Zu+infinifive: [[zusammenzuschrauben]]
 
-[[Worter/zusammenschrauben]] - [[zusammen]] = [[schrauben]]
+[[zusammenschrauben]] - [[zusammen]] = [[schrauben]]
 
 ---
 [[Schraube]], [[Zusammenbau]], [[Montage]], [[Verbindung]], [[Schraubverbindung]]

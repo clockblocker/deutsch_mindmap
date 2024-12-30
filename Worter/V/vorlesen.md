@@ -7,7 +7,7 @@ SAM: Okay, Anna - [[vorlesen|lies]] die [[Anleitung]] vor
 
 
 ---
-Synonyme: [[vortragen]], [[lesen]], [[rezitieren]], [[verlesen]], [[Worter/aufsagen]]
+Synonyme: [[vortragen]], [[lesen]], [[rezitieren]], [[verlesen]], [[aufsagen]]
 Antonyme: [[schweigen]], [[verstummen]], [[flüstern]], [[murmeln]]
 
 ---

@@ -1,1 +1,1 @@
-, [[Worter/Theatersaal]]
+, [[Theatersaal]]

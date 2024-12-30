@@ -15,7 +15,7 @@ haben [[gezogen]]
 - [[anziehen]] - [[an 1]] = [[ziehen]]            / to put on, to wear
 - [[verziehen]] - [[ver]] = [[ziehen]]        /  to distort, to twist, to clear
 - [[hochziehen]] - [[hoch]] = [[ziehen]] / to pull up, to lift up
-- [[ausziehen]] - [[Worter/A/aus]] = [[ziehen]]  / extract, to move out, to undress
+- [[ausziehen]] - [[aus]] = [[ziehen]]  / extract, to move out, to undress
 
 ---
 Synonyme: [[zerren]], [[reißen]], [[schleifen]], [[schleppen]], [[verziehen]]

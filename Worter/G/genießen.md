@@ -3,6 +3,8 @@
 ---
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]].
 
+Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[leisten]] und [[genießt]] das Leben. So stellen sich manche Leute das Leben in Frankreich vor. 
+
 ---
 Synonyme: [[schmecken]], [[naschen]], [[probieren]], [[kosten]], [[erleben]]
 Antonyme: [[ablehnen]], [[verschmähen]], [[verachten]], [[ignorieren]]

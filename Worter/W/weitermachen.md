@@ -1,7 +1,7 @@
-🏃 [[weitermachen]] | [[machte weiter|machte weiter]], haben [[Worter/weitergemacht]]
+🏃 [[weitermachen]] | [[machte weiter|machte weiter]], haben [[weitergemacht]]
 
 ---
-Neulich kommt er total [[aufgeregt]] nach Hause und [[ruft]]: „Barbara, stell dir vor, ich hatte heute beim Roulette fast alles verloren. Aber ich habe einfach [[Worter/weitergemacht]] und habe jetzt das [[Doppelte]] meines [[Einsatzes]] gewonnen!“ 
+Neulich kommt er total [[aufgeregt]] nach Hause und [[ruft]]: „Barbara, stell dir vor, ich hatte heute beim Roulette fast alles verloren. Aber ich habe einfach [[weitergemacht]] und habe jetzt das [[Doppelte]] meines [[Einsatzes]] gewonnen!“ 
 
 ---
 Synonyme: [[fortfahren]], [[fortsetzen]], [[fortsetzten]], [[weiterarbeiten]], [[weitergehen]]
@@ -23,7 +23,7 @@ Wir: [[machen weiter]], [[machten weiter]], -, [[machen weiter]], [[machten weit
 Ihr: [[macht weiter]], [[machtet weiter]], [[macht weiter]], [[machet weiter]], [[machtet weiter]]  
 
 Partizip I: [[weitermaschend]], 
-Partizip II: [[Worter/weitergemacht]]
+Partizip II: [[weitergemacht]]
 Zu+infinifive: [[weiterzumachen]]
 
 [[weitermachen]] - [[weiter]] = [[machen]]

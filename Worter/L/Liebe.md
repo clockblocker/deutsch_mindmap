@@ -25,7 +25,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Lieb]][[Worter/e]]
+[[Lieb]][[e]]
 
 ---
 #Substantiv #Feminin, [[Liebestanz]]

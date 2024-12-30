@@ -11,7 +11,7 @@ Antonyme: [[beruhigen]], [[besänftigen]], [[entspannen]], [[ruhig bleiben]]
 to excite, to agitate, to upset
 
 ---
-[[Worter/auf]][[reg]][[en]]
+[[auf]][[reg]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[aufregend]],
 Partizip II: [[aufgeregt]]
 Zu+infinifive: [[aufzuregen]]
 
-[[aufregen]] - [[Worter/auf]] = [[regen]]
+[[aufregen]] - [[auf]] = [[regen]]
 
 ---
 [[Aufregung]], [[aufgeregt]], [[aufregend]], [[Erregung]], [[Aufreißer]]

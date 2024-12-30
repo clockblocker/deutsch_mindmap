@@ -7,7 +7,7 @@
 
 ---
 Synonyme: [[erzeugen]], [[hervorbringen]], [[gebären]], [[produzieren]], [[erschaffen]]
-Antonyme: [[vernichten]], [[zerstören]], [[Worter/auslöschen]]
+Antonyme: [[vernichten]], [[zerstören]], [[auslöschen]]
 
 ---
 to procreate, to beget, to father

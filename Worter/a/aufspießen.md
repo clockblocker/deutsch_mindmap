@@ -13,7 +13,7 @@ Antonyme: [[herausnehmen]], [[entfernen]], [[ablösen]]
 Übersetzung: to spear, to impale
 
 ---
-Morpheme: [[Worter/auf]][[spieß]][[en]]
+Morpheme: [[auf]][[spieß]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[Worter/auf]][[spieß]][[en]]
 | Sie | [[spießen auf]] | [[spießten auf]] | [[spießen Sie auf]] | [[spießen auf]] | [[spießten auf]] |
 
 Partizip I: [[aufspießend]], Partizip II: [[aufgespießt]]
-[[aufspießen]] - [[Worter/auf]] = [[spießen]]
+[[aufspießen]] - [[auf]] = [[spießen]]

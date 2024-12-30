@@ -5,7 +5,7 @@ haben [[angehört 1]]
 ---
 Und manche Menschen [[hören]] [[sich]] dabei fast so [[an 1]] wie ein Vogel
 
-Linda ist gerade [[Worter/aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
+Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
 
 ---
 Synonyme: [[zuhören]], [[vernehmen]], [[horchen]], [[lauschen]], [[hinhören]]

@@ -13,13 +13,13 @@ _Она маленькая – [[sie]] [[ist]] [[klein]]._
 _Мы хорошие – [[wir]] [[sind]] [[gut]]._
 _Я старательный – [[Ich]] [[bin]] [[fleißig]]._
 _Ты милый – [[Du]] [[bist]] [[nett]]._
-_Машина новая – [[Worter/D/das]] [[Auto]] [[ist]] [[neu]]._
-_Дом большой – [[Worter/D/das]] [[Haus]] [[ist]] [[Groß]]._
+_Машина новая – [[das]] [[Auto]] [[ist]] [[neu]]._
+_Дом большой – [[das]] [[Haus]] [[ist]] [[Groß]]._
 
 Примеры:
-_У меня есть машина – [[Ich]] [[habe]] [[Worter/ein]] [[Auto]]._
+_У меня есть машина – [[Ich]] [[habe]] [[ein]] [[Auto]]._
 _У нас 4 урока – [[wir]] [[haben]] [[4 Adj]] [[Stunden]]._
-_У него есть дом – [[er]] [[hat]] [[Worter/ein]] [[Haus]]._
+_У него есть дом – [[er]] [[hat]] [[ein]] [[Haus]]._
 _У нее есть кошка – [[sie]] [[hat]] [[eine]] [[Katze]]._
 _У тебя сегодня немецкий – [[Du]] [[hast]] [[heute]] [[Deutsch]]._
 

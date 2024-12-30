@@ -17,7 +17,7 @@ Synonyme:
 **Übersetzung**: news, message
 
 
-[[Worter/nach]][[Richt]]
+[[nach]][[Richt]]
 
 ---
 #Substantiv #Feminin

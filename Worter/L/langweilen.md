@@ -1,7 +1,7 @@
 🥱 [[langweilen]] | [[langweilte]], haben [[gelangweilt]] | [[langweilig]]
 
 ---
-Alfred [[gehört]] zu den Menschen, die immer den [[Worter/Kick]] suchen. Er braucht [[Abenteuer 1]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
+Alfred [[gehört]] zu den Menschen, die immer den [[Kick]] suchen. Er braucht [[Abenteuer 1]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
 
 ---
 Synonyme: [[ermüden]], [[öden]], [[unterhalten]], [[unterbrochene Aufmerksamkeit]]

@@ -1,1 +1,1 @@
-[[Worter/Ausländer]]
+[[ausländer]]

@@ -6,7 +6,7 @@ haben [[geweckt]]
 (Dreht sich um) Los, [[weck]] meinen Onkel und sag ihm, ich hab endlich den Avatar gefunden
 
 ---
-Synonyme: [[aufwecken]], [[Worter/aufwachen]], [[erwachen]], [[aufwecken]]
+Synonyme: [[aufwecken]], [[aufwachen]], [[erwachen]], [[aufwecken]]
 Antonyme: [[einschlafen]], [[schlafen]], [[ruhen]]
 
 ---

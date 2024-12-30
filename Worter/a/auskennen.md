@@ -11,7 +11,7 @@ Antonyme: [[unwissend]], [[uninformiert]], [[ratlos]], [[verloren]]
 to be familiar with, to know well, to be well-informed
 
 ---
-[[Worter/A/aus]][[kenn]][[en]]
+[[aus]][[kenn]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[auskennend]],
 Partizip II: [[ausgekannt]]
 Zu+infinitive: [[auszukennen]]
 
-[[auskennen]] - [[Worter/A/aus]] = [[kennen]]
+[[auskennen]] - [[aus]] = [[kennen]]
 
 ---
 [[Auskenner]], [[Ortskenntnis]], [[Kenntnisstand]], [[Auskunft]], [[Tellerrand]], [[Besteck]], [[Bestecken]], [[Becher]], [[eher]]

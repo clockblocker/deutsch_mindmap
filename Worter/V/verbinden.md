@@ -1,1 +1,1 @@
-[[trennen]][[teilen]], [[anschließen]], [[trauen]], [[gesellen]], [[reißen]], [[schneiden]], [[auflösen]], [[telefonieren]], [[lösen]], [[ausschneiden]], [[binden]], [[Worter/zusammenschrauben]]
+[[trennen]][[teilen]], [[anschließen]], [[trauen]], [[gesellen]], [[reißen]], [[schneiden]], [[auflösen]], [[telefonieren]], [[lösen]], [[ausschneiden]], [[binden]], [[zusammenschrauben]]

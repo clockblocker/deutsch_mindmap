@@ -14,7 +14,7 @@ Antonyme: [[kommen]], [[bleiben]], [[zurückkehren]], [[sich stellen]]
 Übersetzung: to run away, to escape
 
 ---
-Morpheme: [[Worter/A/aus]][[reiß]][[en]]
+Morpheme: [[aus]][[reiß]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[Worter/A/aus]][[reiß]][[en]]
 
 Partizip I: [[ausreißend]], Partizip II: [[ausgerissen]]
 
-[[ausreißen]] - [[Worter/A/aus]] = [[reißen]], [[ausrissen]]
+[[ausreißen]] - [[aus]] = [[reißen]], [[ausrissen]]

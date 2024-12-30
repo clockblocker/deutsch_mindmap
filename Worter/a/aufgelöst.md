@@ -19,7 +19,7 @@ dissolved, disintegrated, disorganized, confused
 
 ---
 Morpheme:
-[[Worter/auf]][[gelöst]]
+[[auf]][[gelöst]]
 
 ---
 

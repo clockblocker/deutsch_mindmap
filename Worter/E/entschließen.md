@@ -1,7 +1,7 @@
-🌟 [[Worter/entschließen]], [ɛntˈʃliːsən] | [[entschloss]], haben [[Worter/entschlossen]]
+🌟 [[entschließen]], [ɛntˈʃliːsən] | [[entschloss]], haben [[entschlossen]]
 
 ---
- Jonas [[Worter/durchatmen|atmet]] tief durch. Dann geht er [[Worter/entschlossen]] auf die [[Bühne]]. Jetzt muss er für eine Stunde ein [[Held]] sein – eine Stunde lang Wilhelm Tell sein!
+ Jonas [[durchatmen|atmet]] tief durch. Dann geht er [[entschlossen]] auf die [[Bühne]]. Jetzt muss er für eine Stunde ein [[Held]] sein – eine Stunde lang Wilhelm Tell sein!
 
 ---
 Synonyme: [[beschließen]], [[festlegen]], [[festmachen]], [[entscheiden]], [[wählen]]
@@ -20,14 +20,14 @@ Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 Ich: [[entschließe]], [[entschloss]], -, [[entschließe]], [[entschlösse]]  
 Du: [[entschließt]], [[entschlossest]], [[entschließ]], [[entschließest]], [[entschlössest]]  
 Er/sie/es: [[entschließt]], [[entschloss]], -, [[entschließe]], [[entschlösse]]  
-Wir: [[Worter/entschließen]], [[Worter/entschlossen]], -, [[Worter/entschließen]], [[entschlössen]]  
+Wir: [[entschließen]], [[entschlossen]], -, [[entschließen]], [[entschlössen]]  
 Ihr: [[entschließt]], [[entschlosstet]], [[entschließt]], [[entschließet]], [[entschlössetet]]  
 
 Partizip I: [[entschließend]], 
-Partizip II: [[Worter/entschlossen]]
+Partizip II: [[entschlossen]]
 Zu+infinitive: [[zu entschließen]]
 
-[[Worter/entschließen]] - [[ent]] = [[schließen]]
+[[entschließen]] - [[ent]] = [[schließen]]
 
 ---
 [[Entschluss]], [[Entschlossenheit]], [[Entscheider]], [[Entscheidung]], [[unentschlossen]]

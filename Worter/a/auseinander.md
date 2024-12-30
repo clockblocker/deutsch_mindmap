@@ -14,7 +14,7 @@ Antonyme: [[zusammen]], [[vereint]], [[gebündelt]]
 
 ---
 #Adverb #Präfix
-Morpheme: [[Worter/A/aus]][[einander]]
+Morpheme: [[aus]][[einander]]
 
 Verwendungsbeispiele:
 - Die Kinder gingen [[auseinander]].

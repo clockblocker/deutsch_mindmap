@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Worter/A/aus]][[stell]][[ung]]
+[[aus]][[stell]][[ung]]
 
 ---
 Einzigartige mögliche Formen: [[Ausstellung]], [[Ausstellungen]], [[Ausstellungs]]

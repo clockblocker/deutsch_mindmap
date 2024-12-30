@@ -1,1 +1,1 @@
-[[verlieren]], [[Worter/aufgeben]], [[erzielen]], [[Gewinn]]
+[[verlieren]], [[aufgeben]], [[erzielen]], [[Gewinn]]

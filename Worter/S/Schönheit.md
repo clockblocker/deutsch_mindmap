@@ -1,8 +1,8 @@
-🔴 die [[Worter/Schönheit]], [ˈʃøːnhaɪ̯t]
+🔴 die [[Schönheit]], [ˈʃøːnhaɪ̯t]
 die [[Schönheiten]]
 
 ---
-Manche Menschen legen sich [[Worter/Gurken]] auf die Augen, um etwas für ihre [[Worter/Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden.
+Manche Menschen legen sich [[Gurken]] auf die Augen, um etwas für ihre [[Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden.
 
 
 ---
@@ -17,10 +17,10 @@ beauty
 
 ---
 Case: Singular, Plural  
-Nominative: die [[Worter/Schönheit]], die [[Schönheiten]]  
-Accusative: die [[Worter/Schönheit]], die [[Schönheiten]]  
-Genitive: der [[Worter/Schönheit]], der [[Schönheiten]]  
-Dative: der [[Worter/Schönheit]], den [[Schönheiten]]  
+Nominative: die [[Schönheit]], die [[Schönheiten]]  
+Accusative: die [[Schönheit]], die [[Schönheiten]]  
+Genitive: der [[Schönheit]], der [[Schönheiten]]  
+Dative: der [[Schönheit]], den [[Schönheiten]]  
 
 ---
 [[schön]], [[schönheitlich]], [[schönheitslos]], [[schönheitsbewusst]]

@@ -2,7 +2,7 @@
 die [[Einsätze]]
 
 ---
-Neulich kommt er total [[aufgeregt]] nach Hause und [[ruft]]: „Barbara, stell dir vor, ich hatte heute beim Roulette fast alles verloren. Aber ich habe einfach [[Worter/weitergemacht]] und habe jetzt das [[Doppelte]] meines [[Einsatzes]] gewonnen!“ 
+Neulich kommt er total [[aufgeregt]] nach Hause und [[ruft]]: „Barbara, stell dir vor, ich hatte heute beim Roulette fast alles verloren. Aber ich habe einfach [[weitergemacht]] und habe jetzt das [[Doppelte]] meines [[Einsatzes]] gewonnen!“ 
 
 
 ---
@@ -13,7 +13,7 @@ Synonyme:
 deployment, effort, use, commitment
 
 ---
-[[Worter/ein]][[satz]]
+[[ein]][[satz]]
 
 ---
 Case: Singular, Plural  

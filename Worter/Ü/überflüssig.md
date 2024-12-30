@@ -16,7 +16,7 @@ superfluous, unnecessary, redundant
 
 ---
 Morpheme:
-[[Worter/über]][[flüssig]]
+[[über]][[flüssig]]
 
 ---
 

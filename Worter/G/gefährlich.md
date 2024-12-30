@@ -7,7 +7,7 @@ nicht [[ungefährlich]]
 
 In der Regel ist es [[gefährlich]], wenn das Eis bricht, zum Beispiel auf einem zugefrorenen See. 
 
-Manche Menschen legen sich [[Worter/Gurken]] auf die Augen, um etwas für ihre [[Worter/Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden.
+Manche Menschen legen sich [[Gurken]] auf die Augen, um etwas für ihre [[Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden.
 
 
 ---

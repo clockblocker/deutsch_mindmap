@@ -1,1 +1,1 @@
-[[Schale]], [[Kasten]], [[Krug]], [[Topf]], [[Schüssel]], [[Tüte]], [[Worter/Eimer]]
+[[Schale]], [[Kasten]], [[Krug]], [[Topf]], [[Schüssel]], [[Tüte]], [[Eimer]]

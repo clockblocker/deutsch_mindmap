@@ -13,7 +13,7 @@ Synonyme:
 inhabitant, resident
 
 ---
-[[Worter/ein]][[wohn]][[er]]
+[[ein]][[wohn]][[er]]
 
 ---
 Case: Singular, Plural  

@@ -1,1 +1,1 @@
-, [[Worter/aufstehen]]
+, [[aufstehen]], [[verscheiden]]

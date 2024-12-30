@@ -1,1 +1,1 @@
-, [[Worter/aufstehen]], [[gehen]]
+, [[aufstehen]], [[gehen]]

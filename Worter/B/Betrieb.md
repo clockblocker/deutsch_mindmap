@@ -1,1 +1,1 @@
-[[Unternehmen]], [[Worter/Haushalt]]
+[[Unternehmen]], [[Haushalt]]

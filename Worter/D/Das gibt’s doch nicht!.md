@@ -1,5 +1,5 @@
 SASCHA: Hilfe! Was machen wir mit ihm? Er spielt mit Spielzeug-Autos. 
-[[Worter/D/das]] [[gibt]]’s [[doch]] [[nicht]]!]]
+[[das]] [[gibt]]’s [[doch]] [[nicht]]!]]
 
 
 

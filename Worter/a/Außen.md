@@ -1,4 +1,4 @@
-, [[Worter/Außentür]]
+, [[außentür]]
 
 🔵 der [[Außen]]
 

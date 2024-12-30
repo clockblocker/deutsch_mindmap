@@ -1,1 +1,1 @@
-[[hinlegen]], [[aufdrehen]], [[Worter/einparken]]
+[[hinlegen]], [[aufdrehen]], [[Worterparken]]

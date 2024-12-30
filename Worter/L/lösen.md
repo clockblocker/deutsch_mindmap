@@ -18,10 +18,10 @@ to solve, to loosen, to untie, to resolve
 
 Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
 Ich: [[löse]], [[löste]], -, [[löse]], [[löste]]  
-Du: [[Worter/lösst]], [[löstest]], [[löse]], [[lösest]], [[löstest]]  
+Du: [[lösst]], [[löstest]], [[löse]], [[lösest]], [[löstest]]  
 Er/sie/es: [[löst]], [[löste]], -, [[löse]], [[löste]]  
 Wir: [[lösen]], [[lösten]], -, [[lösen]], [[lösten]]  
-Ihr: [[löst]], [[Worter/löftet]], [[löst]], [[löset]], [[Worter/löftet]]  
+Ihr: [[löst]], [[löftet]], [[löst]], [[löset]], [[löftet]]  
 
 Partizip I: [[lösend]], 
 Partizip II: [[gelöst]]

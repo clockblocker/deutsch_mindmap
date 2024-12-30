@@ -9,7 +9,7 @@ Auf der Fensterbank stehen die Pflanzen, die Martin und Tom vor einiger Zeit gek
 
 ---
 Synonyme: [[ausschütten]], [[schütten]], [[ausgießen]], [[verschütten]], [[verspritzen]]
-Antonyme: [[Worter/aufheben]], [[Worter/auffangen]], [[aufbewahren]], [[sammeln]]
+Antonyme: [[aufheben]], [[auffangen]], [[aufbewahren]], [[sammeln]]
 
 ---
 Übersetzung: to pour

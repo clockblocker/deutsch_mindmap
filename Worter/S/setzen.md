@@ -6,10 +6,10 @@ haben [[gesetzt]]
 schließ die Augen und setz dich [[hin]]
 
 setzen Hoffnung auf den:
-Katara, du solltest nicht deine ganze Hoffnung [[Worter/auf]] diesen Jungen [[setzen]].
+Katara, du solltest nicht deine ganze Hoffnung [[auf]] diesen Jungen [[setzen]].
 
 ---
-[[einsetzen]] - [[Worter/ein]] = [[setzen]] / insert
+[[einsetzen]] - [[ein]] = [[setzen]] / insert
 
 
 ---

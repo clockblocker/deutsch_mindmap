@@ -1,1 +1,1 @@
-, [[Worter/Außentür]]
+, [[außentür]]

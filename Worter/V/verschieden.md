@@ -1,1 +1,1 @@
-[[andere]][[anders]], [[gleich]], [[solche]], [[dieselbe]], [[unterschiedlich]]
+[[andere]][[anders]], [[gleich]], [[solche]], [[dieselbe]], [[unterschiedlich]], [[verscheiden]]

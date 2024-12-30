@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Angebot]][[Worter/e]]
+[[Angebot]][[e]]
 
 ---
 #Substantiv #Neuter

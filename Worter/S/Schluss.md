@@ -4,7 +4,7 @@ die [[Schlüsse]]
 ---
 Jetzt ist [[Schluss]]. Genug gespielt. Katara, denk dran, du hast Pflichten.
 
-Ob [[Worter/Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[Worter/entgegenzufiebern]]. 
+Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]. 
 
 
 ---
@@ -27,4 +27,4 @@ end, conclusion
 ---
 
 **Morphems of only infinitive:**
-- [[Schluss]], [[Worter/entgegenfiebern]]
+- [[Schluss]], [[entgegenfiebern]]

@@ -1,4 +1,4 @@
-🔵 der [[Worter/A/aus]][[gang]]  
+🔵 der [[aus]][[gang]]  
 die [[Ausgänge]]
 
 Beispiele:

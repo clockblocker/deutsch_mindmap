@@ -1,11 +1,11 @@
 🟢 das [[Ausland]]
-die [[Worter/Ausländer]]
+die [[ausländer]]
 
 Beispiele:
 
 - Ich plane eine Reise ins [[Ausland]].
 - Viele Studenten studieren im [[Ausland]].
-- Die [[Worter/Ausländer]] sind oft neugierig auf deutsche Kultur.
+- Die [[ausländer]] sind oft neugierig auf deutsche Kultur.
 
 ---
 Synonyme:
@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Worter/A/aus]][[land]]
+[[aus]][[land]]
 
 ---
 #Substantiv #Neuter

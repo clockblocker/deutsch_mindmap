@@ -7,7 +7,7 @@ Er [[bestellt]] sofort die Zeitschriften [[ab]] und kündigt das Fitnessstudio.
 
 ---
 Synonyme: [[stornieren]], [[widerrufen]], [[zurückziehen]], [[kündigen]], [[rückgängig machen]]
-Antonyme: [[bestellen]], [[beauftragen]], [[Worter/aufgeben]]
+Antonyme: [[bestellen]], [[beauftragen]], [[aufgeben]]
 
 ---
 Übersetzung: to cancel, to withdraw

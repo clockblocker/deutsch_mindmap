@@ -1,2 +1,2 @@
 [[lang]]
-, [[Verlangen]]
+, [[Verlangen]], [[reichen]]

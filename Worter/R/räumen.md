@@ -7,7 +7,7 @@ haben [[geräumt]]
 Martin schimpft: „Die paar Bücher? Das war doch nur ein Tropfen auf den heißen Stein! Was ist mit der Wäsche, den Getränkekisten, den Pflanzen?“ 
 
 ---
-[[aufräumen]] - [[Worter/auf]] = [[räumen]]
+[[aufräumen]] - [[auf]] = [[räumen]]
 
 ---
 Synonyme: [[aufräumen]], [[reinigen]], [[säubern]], [[putzen]], [[entleeren]]

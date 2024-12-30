@@ -1,8 +1,8 @@
-🔵 der [[Worter/Auftritt]]
+🔵 der [[auftritt]]
 die [[Auftritte]]
 
 ---
-Jonas hat gleich seinen ersten [[Worter/Auftritt]]. Sie spielen „Wilhelm Tell“, und Jonas hat die [[Worter/Hauptrolle]].
+Jonas hat gleich seinen ersten [[auftritt]]. Sie spielen „Wilhelm Tell“, und Jonas hat die [[Hauptrolle]].
 
 
 ---
@@ -13,14 +13,14 @@ Synonyme:
 appearance, performance, entrance
 
 ---
-[[Worter/auf]][[tritt]]
+[[auf]][[tritt]]
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Worter/Auftritt]], die [[Auftritte]]  
-Accusative: den [[Worter/Auftritt]], die [[Auftritte]]  
+Nominative: der [[auftritt]], die [[Auftritte]]  
+Accusative: den [[auftritt]], die [[Auftritte]]  
 Genitive: des [[Auftritts]], der [[Auftritte]]  
-Dative: dem [[Worter/Auftritt]], den [[Auftritten]] 
+Dative: dem [[auftritt]], den [[Auftritten]] 
 
 ---
 [[auftreten]], [[auftretend]], [[Bühnenauftritt]], [[Konzertauftritt]]

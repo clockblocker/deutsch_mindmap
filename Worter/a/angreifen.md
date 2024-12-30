@@ -7,8 +7,8 @@ Miete! Oder ich [[greife an]]!
 
 
 ---
-Synonyme: [[Worter/attackieren]], [[überfallen]], [[belagern]], [[stürmen]], [[eindringen]], [[überfallen]]
-Antonyme: [[verteidigen]], [[schützen]], [[abwehren]], [[kapitulieren]], [[Worter/aufgeben]]
+Synonyme: [[attackieren]], [[überfallen]], [[belagern]], [[stürmen]], [[eindringen]], [[überfallen]]
+Antonyme: [[verteidigen]], [[schützen]], [[abwehren]], [[kapitulieren]], [[aufgeben]]
 
 ---
 Übersetzung: to attack

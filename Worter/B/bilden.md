@@ -6,7 +6,7 @@ haben [[gebildet]]
 Durch Kataras Handbewegungen bewegt sich das Wasser und in einem großen Eisberg hinter ihr [[bilden]] sich [[Risse]].
 
 ---
-[[ausbilden]] - [[Worter/A/aus]] = [[bilden]]
+[[ausbilden]] - [[aus]] = [[bilden]]
 
 
 ---

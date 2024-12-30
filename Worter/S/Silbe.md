@@ -19,7 +19,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Silb]][[Worter/e]]
+[[Silb]][[e]]
 
 ---
 Einzigartige mögliche Formen: [[Silbe]], [[Silben]], [[Silbe]], [[Silbe]], [[Silbe]], [[Silbe]], [[Silbe]], [[Silben]]

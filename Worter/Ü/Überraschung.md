@@ -1,4 +1,4 @@
-🔴 die [[Worter/über]][[rasch]][[ung]]
+🔴 die [[über]][[rasch]][[ung]]
 die [[Überraschungen]]
 
 Beispiele:

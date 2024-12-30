@@ -8,7 +8,7 @@ Durch das [[Loch]], das Katara in den Eisberg gehauen hat, strömt ein Lichtstra
 
 Aang findet jedoch ein [[Loch]] in der Decke.
 
-„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Worter/Rückwand]] [[bohren]]. 
+„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Rückwand]] [[bohren]]. 
 
 Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
 

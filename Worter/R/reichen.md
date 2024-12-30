@@ -1,6 +1,4 @@
-[[reichen]] + Akk, [ˈʁaɪ̯çən], [[reich]]
-[[reichte]]
-haben [[gereicht]]
+ [[reichen]], [ˈʁaɪ̯çən] | [[reichte]], haben [[gereicht]]
 
 ---
 Weil ihre Ehre nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es [[reicht]]!
@@ -8,26 +6,38 @@ Weil ihre Ehre nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber 
 ---
 [[erreichen]] - [[er]] = [[reichen]]
 
+
 ---
-Synonyme: [[ausreichen]], [[genug]], [[hinreichen]], [[zureichen]], [[ausreichend sein]]
+Synonyme: [[ausreichen]], [[genügen]], [[hinreichen]], [[langen]], [[suffizieren]]
 Antonyme: [[fehlen]], [[mangeln]], [[unzureichend sein]]
 
 ---
-Übersetzung: to be enough, to suffice
+to be enough, to suffice
 
 ---
-Morpheme: [[reich]][[en]]
- #Verb #Untrennbar
+[[reich]][[en]]
+   
 
 ---
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[reiche]]           | [[reichte]]           | -                 | [[reiche]]             | [[reichte]]             |
-| Du        | [[reichst]]          | [[reichtest]]         | [[reich]]         | [[reichest]]           | [[reichtest]]           |
-| Er/sie/es | [[reicht]]           | [[reichte]]           | -                 | [[reiche]]             | [[reichte]]             |
-| Wir       | [[reichen]]          | [[reichten]]          | -                 | [[reichen]]            | [[reichten]]            |
-| Ihr       | [[reicht]]           | [[reichtet]]          | [[reicht]]        | [[reichet]]            | [[reichtet]]            |
-| Sie       | [[reichen]]          | [[reichten]]          | [[reichen Sie]]   | [[reichen]]            | [[reichten]]            |
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[reiche]], [[reichte]], -, [[reiche]], [[reichte]]  
+Du: [[reichst]], [[reichtest]], [[reich]], [[reichest]], [[reichtest]]  
+Er/sie/es: [[reicht]], [[reichte]], -, [[reiche]], [[reichte]]  
+Wir: [[reichen]], [[reichten]], -, [[reichen]], [[reichten]]  
+Ihr: [[reicht]], [[reichtet]], [[reicht]], [[reichet]], [[reichtet]]  
 
-Partizip I: [[reichend]], Partizip II: [[gereicht]]
+Partizip I: [[reichend]], 
+Partizip II: [[gereicht]]
+
+Form: Positive, Comparative, Superlative  
+Nominative: [[gereicht]], [[gereichter]], [[gereichter]]  
+Accusative: [[gereichten]], [[gereichteren]], [[gereichtetsten]]  
+Genitive: [[gereichter]], [[gereichteren]], [[gereichtetsten]]  
+Dative: [[gereichtem]], [[gereichterem]], [[gereichtestem]]  
+Feminine: [[gereichte]], [[gereichtere]], [[gereichteste]]  
+Neuter: [[gereichtes]], [[gereichteres]], [[gereichtestes]]  
+Plural: [[gereichten]], [[gereichteren]], [[gereichtetsten]] 
+
+---
+[[Reichweite]], [[unerreichbar]], [[Reichtum]], [[erreichbar]], [[Erreichbarkeit]]

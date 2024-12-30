@@ -15,13 +15,13 @@ Synonyme:
 
 Beispiele:
 
-- Ich [[schalte]] das Licht [[Worter/ein]].
-- Du [[schaltest]] den Computer [[Worter/ein]].
-- Er [[Schaltet]] den Fernseher [[Worter/ein]].
-- Es [[Schaltet]] sich [[Worter/ein]], wenn es dunkel wird.
-- Wir [[Schalten]] die Heizung [[Worter/ein]].
-- Ihr [[Schaltet]] das Radio [[Worter/ein]].
-- Sie [[Schalten]] das Handy [[Worter/ein]].
+- Ich [[schalte]] das Licht [[ein]].
+- Du [[schaltest]] den Computer [[ein]].
+- Er [[Schaltet]] den Fernseher [[ein]].
+- Es [[Schaltet]] sich [[ein]], wenn es dunkel wird.
+- Wir [[Schalten]] die Heizung [[ein]].
+- Ihr [[Schaltet]] das Radio [[ein]].
+- Sie [[Schalten]] das Handy [[ein]].
 
 ---
 **Übersetzung**: to turn on, to switch on
@@ -29,7 +29,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[Worter/ein]][[Schalten]]
+[[ein]][[Schalten]]
 
 ---
 Tags: 
@@ -39,22 +39,22 @@ Tags:
 
 Präteritum:
 
-- Ich [[schaltete ein|schaltete]] das Licht [[Worter/ein]].
-- Du [[schaltetest ein|schaltetest]] den Computer [[Worter/ein]].
-- Er [[schaltete ein|schaltete]] den Fernseher [[Worter/ein]].
-- Es [[schaltete ein|schaltete]] sich [[Worter/ein]], als es dunkel wurde.
-- Wir [[schalteten ein|schalteten]] die Heizung [[Worter/ein]].
-- Ihr [[schaltetet ein|schaltetet]] das Radio [[Worter/ein]].
-- Sie [[schalteten ein|schalteten]] das Handy [[Worter/ein]].
+- Ich [[schaltete ein|schaltete]] das Licht [[ein]].
+- Du [[schaltetest ein|schaltetest]] den Computer [[ein]].
+- Er [[schaltete ein|schaltete]] den Fernseher [[ein]].
+- Es [[schaltete ein|schaltete]] sich [[ein]], als es dunkel wurde.
+- Wir [[schalteten ein|schalteten]] die Heizung [[ein]].
+- Ihr [[schaltetet ein|schaltetet]] das Radio [[ein]].
+- Sie [[schalteten ein|schalteten]] das Handy [[ein]].
 
 ---
 
 Imperativ:
 
-- [[Schalte ein|schalte]] das Licht [[Worter/ein]]!
-- [[Schaltet ein|schaltet]] den Fernseher [[Worter/ein]]!
-- [[Schalten wir ein|schalten]] die Heizung [[Worter/ein]]!
-- [[Schalten Sie ein|schalten]] das Radio [[Worter/ein]]!
+- [[Schalte ein|schalte]] das Licht [[ein]]!
+- [[Schaltet ein|schaltet]] den Fernseher [[ein]]!
+- [[Schalten wir ein|schalten]] die Heizung [[ein]]!
+- [[Schalten Sie ein|schalten]] das Radio [[ein]]!
 
 ---
 
@@ -71,9 +71,9 @@ Konjunktiv I:
 
 Konjunktiv II:
 
-- Wenn ich den Fernseher schauen wollte, [[schaltete ein|schaltete]] ich ihn [[Worter/ein]].
-- Wenn du Musik hören möchtest, [[schaltetest ein|schaltetest]] du das Radio [[Worter/ein]].
-- Wenn er das Licht brauchte, [[schaltete ein|schaltete]] er es [[Worter/ein]].
-- Wenn wir Wärme bräuchten, [[schalteten ein|schalteten]] wir die Heizung [[Worter/ein]].
-- Wenn ihr telefonieren wolltet, [[schaltetet ein|schaltetet]] ihr das Handy [[Worter/ein]].
-- Wenn sie es benutzen müssten, [[schalteten ein|schalteten]] sie den Computer [[Worter/ein]]., [[aufdrehen]]
+- Wenn ich den Fernseher schauen wollte, [[schaltete ein|schaltete]] ich ihn [[ein]].
+- Wenn du Musik hören möchtest, [[schaltetest ein|schaltetest]] du das Radio [[ein]].
+- Wenn er das Licht brauchte, [[schaltete ein|schaltete]] er es [[ein]].
+- Wenn wir Wärme bräuchten, [[schalteten ein|schalteten]] wir die Heizung [[ein]].
+- Wenn ihr telefonieren wolltet, [[schaltetet ein|schaltetet]] ihr das Handy [[ein]].
+- Wenn sie es benutzen müssten, [[schalteten ein|schalteten]] sie den Computer [[ein]]., [[aufdrehen]]

@@ -3,7 +3,7 @@
 sein [[aufgefallen]]
 
 ---
- Laura ist seit ein paar Tagen sehr unkonzentriert, [[fällt]] ihr [[Worter/auf]]. 
+ Laura ist seit ein paar Tagen sehr unkonzentriert, [[fällt]] ihr [[auf]]. 
 
 ---
 Synonyme: [[bemerken]], [[wahrnehmen]], [[auffällig sein]], [[hervorstechen]], [[sich abheben]]
@@ -13,7 +13,7 @@ Antonyme: [[übersehen werden]], [[unbemerkt bleiben]], [[verschwinden]]
 Übersetzung: to stand out, to be noticeable
 
 ---
-Morpheme: [[Worter/auf]][[fall]][[en]]
+Morpheme: [[auf]][[fall]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[Worter/auf]][[fall]][[en]]
 | Sie | [[fallen auf]] | [[fielen auf]] | [[fallen Sie auf]] | [[fallen auf]] | [[fielen auf]] |
 
 Partizip I: [[auffallend]], Partizip II: [[aufgefallen]]
-[[auffallen]] - [[Worter/auf]] = [[fallen]] //  to stand out, to be noticeable
+[[auffallen]] - [[auf]] = [[fallen]] //  to stand out, to be noticeable

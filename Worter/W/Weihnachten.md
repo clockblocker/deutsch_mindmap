@@ -1,7 +1,7 @@
-🎄 🔴 die [[Worter/Weihnachten]]
+🎄 🔴 die [[Weihnachten]]
 
 ---
- Er ist sogar aufgeregt, wenn er an [[Worter/Weihnachten]] seinen Großeltern ein [[Worter/Gedicht]] [[Worter/aufsagt]]. Und jetzt soll er vor hunderten [[fremden]] Leuten eine Stunde lang auf der Bühne stehen? 
+ Er ist sogar aufgeregt, wenn er an [[Weihnachten]] seinen Großeltern ein [[Gedicht]] [[aufsagt]]. Und jetzt soll er vor hunderten [[fremden]] Leuten eine Stunde lang auf der Bühne stehen? 
 
 
 ---
@@ -16,10 +16,10 @@ Christmas
 
 ---
 Case: Singular, Plural  
-Nominative: das [[Worter/Weihnachten]], -  
-Accusative: das [[Worter/Weihnachten]], -  
+Nominative: das [[Weihnachten]], -  
+Accusative: das [[Weihnachten]], -  
 Genitive: des [[Weihnachtens]], -  
-Dative: dem [[Worter/Weihnachten]], -  
+Dative: dem [[Weihnachten]], -  
 
 ---
 [[weihnachtlich]], [[Weihnachtsbaum]], [[Weihnachtsmann]], [[Weihnachtsgeschenk]], [[Weihnachtslied]]

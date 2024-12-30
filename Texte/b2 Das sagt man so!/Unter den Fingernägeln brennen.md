@@ -1,4 +1,4 @@
- Wenn etwas brennt, kann man die [[Worter/Feuerwehr]] rufen oder einen [[Worter/Eimer]] Wasser holen. [[Gegen]] das Feuer unter den [[Worter/Fingernägeln]] hilft das aber nicht. Dann sollte man besser sagen, was man schon lange [[loswerden]] wollte.  
+ Wenn etwas brennt, kann man die [[Feuerwehr]] rufen oder einen [[Eimer]] Wasser holen. [[Gegen]] das Feuer unter den [[Fingernägeln]] hilft das aber nicht. Dann sollte man besser sagen, was man schon lange [[loswerden]] wollte.  
   
 Jenny ist Journalistin und schreibt gerne über [[Prominente]] und [[bekannte]] Personen. 
 

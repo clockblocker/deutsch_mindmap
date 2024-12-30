@@ -1,1 +1,1 @@
-, [[Worter/Brei]]
+, [[brei]]

@@ -1,4 +1,4 @@
 ![[Pasted image 20240617123522.png]]
-[[Worter/Konjunktion/Positionen/Über]]
+[[Konjunktion/Positionen/Über]]
 
 [[Position]]

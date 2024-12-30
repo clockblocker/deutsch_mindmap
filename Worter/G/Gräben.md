@@ -1,1 +1,1 @@
-🔵 der [[Graben]], [ˈɡʁaːbn̩]
+🔵 der [[Graben]], [ˈɡʁaːbn̩], [[Grabe]]

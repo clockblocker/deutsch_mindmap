@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gräbens]], [[Gräben]], [[Gräbern]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Grabe]]

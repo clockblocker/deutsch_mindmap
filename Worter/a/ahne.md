@@ -112,7 +112,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Ahn]][[Worter/e]]
+[[Ahn]][[e]]
 
 ---
 #Substantiv #Maskulin

@@ -5,7 +5,7 @@ haben [[aufgehängt]]
 ---
 Werner hat beim Aufräumen ein altes Urlaubsfoto gefunden. Er hat einen [[Rahmen]] dafür gekauft und will es im Wohnzimmer aufhängen.
 
-Ehe ich's vergesse: heute abend läßt du dir von Tante Martha einen Kleiderbügel geben und [[hängst]] den Anzug ordentlich [[Worter/auf]]
+Ehe ich's vergesse: heute abend läßt du dir von Tante Martha einen Kleiderbügel geben und [[hängst]] den Anzug ordentlich [[auf]]
 
 ---
 Synonyme: [[anhängen]], [[befestigen]], [[anbringen]], [[montieren]], [[hängen]]
@@ -15,7 +15,7 @@ Antonyme: [[abnehmen]], [[herunterhängen]], [[entfernen]]
 Übersetzung: to hang up, to suspend
 
 ---
-Morpheme: [[Worter/auf]][[häng]][[en]]
+Morpheme: [[auf]][[häng]][[en]]
  #Verb  #Trennbar
 
 | Person    | Präsens        | Präteritum       | Imperativ          | Konjunktiv I    | Konjunktiv II     |
@@ -29,6 +29,6 @@ Morpheme: [[Worter/auf]][[häng]][[en]]
 |           |                |                  |                    |                 |                   |
 
 Partizip I: [[aufhängend]], Partizip II: [[aufgehängt]]
-[[aufhängen]] - [[Worter/auf]] = [[hängen]]
+[[aufhängen]] - [[auf]] = [[hängen]]
 
 , [[einhängen]], [[hängen]]

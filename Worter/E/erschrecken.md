@@ -9,7 +9,7 @@ _Katara und Sokka gucken [[erschrocken]] nach vorne.
 
 *Katara rennt [[erschrocken]] auf ihn zu und fängt ihn auf.* 
 
-Die junge Frau am [[Worter/Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren 1]]!“ 
+Die junge Frau am [[Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren 1]]!“ 
 
 
 

@@ -8,7 +8,7 @@ Wie kommt es, dass ich jedes mal klitschnass werden muss, wenn du mit eiskaltem 
 
 ---
 Synonyme: [[herumhexen]], [[verzaubern]], [[behexen]], [[zaubern]], [[magisch beeinflussen]]
-Antonyme: [[entzaubern]], [[Worter/aufheben]], [[neutralisieren]]
+Antonyme: [[entzaubern]], [[aufheben]], [[neutralisieren]]
 
 ---
 Übersetzung: to magic around, to dabble in magic

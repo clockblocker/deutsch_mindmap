@@ -1,8 +1,8 @@
-🔵 der [[Worter/Kaffeebecher]]
-die [[Worter/Kaffeebecher]]
+🔵 der [[Kaffeebecher]]
+die [[Kaffeebecher]]
 
 ---
-Carola sucht mit einer Hand nach ihrem Handy, [[während]] sie in der anderen den vollen [[Worter/Kaffeebecher]] balanciert. Hat sie das Handy mitgenommen? Irgendwo muss es doch sein! 
+Carola sucht mit einer Hand nach ihrem Handy, [[während]] sie in der anderen den vollen [[Kaffeebecher]] balanciert. Hat sie das Handy mitgenommen? Irgendwo muss es doch sein! 
 
 
 ---
@@ -17,9 +17,9 @@ coffee cup, coffee mug
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Worter/Kaffeebecher]], die [[Worter/Kaffeebecher]]  
-Accusative: den [[Worter/Kaffeebecher]], die [[Worter/Kaffeebecher]]  
-Genitive: des [[Kaffeebechers]], der [[Worter/Kaffeebecher]]  
-Dative: dem [[Worter/Kaffeebecher]], den [[Worter/Kaffeebecher]] 
+Nominative: der [[Kaffeebecher]], die [[Kaffeebecher]]  
+Accusative: den [[Kaffeebecher]], die [[Kaffeebecher]]  
+Genitive: des [[Kaffeebechers]], der [[Kaffeebecher]]  
+Dative: dem [[Kaffeebecher]], den [[Kaffeebecher]] 
 
 [[kaffeetrinken]], [[becher]]

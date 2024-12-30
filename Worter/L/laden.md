@@ -3,7 +3,7 @@
 haben [[geladen]]
 
 ---
-[[einladen]] - [[Worter/ein]] = [[laden]]
+[[einladen]] - [[ein]] = [[laden]]
 
 
 ---

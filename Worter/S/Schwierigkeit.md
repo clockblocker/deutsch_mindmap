@@ -2,7 +2,7 @@
 die [[Schwierigkeiten]]
 
 ---
-Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[Worter/unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]. 
+Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]. 
 
 
 ---

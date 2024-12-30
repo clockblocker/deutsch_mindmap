@@ -2,7 +2,7 @@
 die [[Glücksspiele]]
 
 ---
-Alfred [[gehört]] zu den Menschen, die immer den [[Worter/Kick]] suchen. Er braucht [[Abenteuer 1]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
+Alfred [[gehört]] zu den Menschen, die immer den [[Kick]] suchen. Er braucht [[Abenteuer 1]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
 
 
 ---
@@ -23,4 +23,4 @@ Genitive: des [[Glücksspiels]], der [[Glücksspiele]]
 Dative: dem [[Glücksspiel]], den [[Glücksspielen]] 
 
 ---
-[[spielen]], [[glücklich]], [[Glücksspieler]], [[Glücksspielsucht]], [[Worter/Sportwetten]]
+[[spielen]], [[glücklich]], [[Glücksspieler]], [[Glücksspielsucht]], [[Sportwetten]]

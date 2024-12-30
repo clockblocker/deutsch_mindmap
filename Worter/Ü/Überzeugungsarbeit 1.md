@@ -2,7 +2,7 @@
 die [[Überzeugungsarbeiten]]
 
 ---
-Manche Leute lassen sich nicht so [[einfach]] [[überzeugen 1]]. Wenn man erst [[Überzeugungsarbeit 1]] [[leisten 1]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
+Manche Leute lassen sich nicht so [[einfach]] [[überzeugen 1]]. Wenn man erst [[Überzeugungsarbeit 1]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
 ---
 Synonyme:

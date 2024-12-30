@@ -1,2 +1,2 @@
-Wie [[seiht]] es [[Worter/A/aus]]?
+Wie [[seiht]] es [[aus]]?
 

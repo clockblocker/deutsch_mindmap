@@ -5,7 +5,7 @@ haben [[geachtet]]
 ---
 _Aang [[achtet]] jedoch nur auf sie und kracht mitten im Flug in Sokkas Wachturm._
 
-in [[Worter/A/Acht]]
+in [[Acht]]
 
 Aber alle machen so weiter, wie sie begonnen haben. Niemand [[achtet]] darauf, was die anderen tun. 
 
@@ -20,7 +20,7 @@ Antonyme: [[missachten]], [[ignorieren]], [[verachten]]
 Übersetzung: to respect, to pay attention to
 
 ---
-Morpheme: [[Worter/A/Acht]][[en]]
+Morpheme: [[Acht]][[en]]
  #Verb  #Untrennbar
 
 ---

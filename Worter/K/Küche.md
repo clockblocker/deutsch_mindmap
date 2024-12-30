@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Küch]][[Worter/e]]
+[[Küch]][[e]]
 
 ---
 #Substantiv #Feminin

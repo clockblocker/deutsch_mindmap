@@ -1,1 +1,1 @@
-, [[Worter/durchatmen]]
+, [[durchatmen]]

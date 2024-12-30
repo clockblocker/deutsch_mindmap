@@ -21,7 +21,7 @@ Antonyme: [[loslassen]], [[freigeben]], [[befreien]], [[fördern]], [[beschleuni
 Übersetzung: to hold up, to detain, to stop
 
 ---
-Morpheme: [[Worter/auf]][[halt]][[en]]
+Morpheme: [[auf]][[halt]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -38,5 +38,5 @@ Morpheme: [[Worter/auf]][[halt]][[en]]
 
 Partizip I: [[aufhaltend]], Partizip II: [[aufgehalten]]
 
-[[aufhalten]] - [[Worter/auf]] = [[halten]]
+[[aufhalten]] - [[auf]] = [[halten]]
 ''', [[s1 e1]], [[dringen]], [[entscheiden]]

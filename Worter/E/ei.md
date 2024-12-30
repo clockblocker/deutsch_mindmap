@@ -25,4 +25,4 @@ Synonyme:
 
 ---
 
-[[Bücherei]], [[Arzenei]], [[Worter/Brei]]
+[[Bücherei]], [[Arzenei]], [[brei]]

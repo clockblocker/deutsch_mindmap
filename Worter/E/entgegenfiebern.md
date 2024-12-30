@@ -1,7 +1,7 @@
-🥳 [[Worter/entgegenfiebern]] | [[fieberte entgegen]], haben [[entgegengefiebert]]
+🥳 [[entgegenfiebern]] | [[fieberte entgegen]], haben [[entgegengefiebert]]
 
 ---
-Ob [[Worter/Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[Worter/entgegenzufiebern]]. 
+Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]. 
 
 ---
 Synonyme: [[erwarten]], [[herbeisehnen]], [[sich freuen]], [[gespannt sein]], [[anticipieren]]
@@ -24,9 +24,9 @@ Ihr: [[fiebert entgegen]], [[fiebertet entgegen]], [[fiebert entgegen]], [[fiebe
 
 Partizip I: [[entgegenfieberd]], 
 Partizip II: [[entgegengefiebert]]
-Zu+infinitive: [[Worter/entgegenzufiebern]]
+Zu+infinitive: [[entgegenzufiebern]]
 
-[[Worter/entgegenfiebern]] - [[entgegen]] = [[Worter/fiebern]]
+[[entgegenfiebern]] - [[entgegen]] = [[fiebern]]
 
 ---
 [[Vorfreude]], [[Erwartung]], [[Vorerwartung]], [[Spannung]]

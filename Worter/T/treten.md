@@ -11,8 +11,8 @@ haben/sein [[getreten]]
 
 ---
 [[betreten]] - [[be]] = [[treten]] /  to enter, to step into
-[[eintreten]] - [[Worter/ein]] = [[treten]] / to enter, to step in
-[[auftreten]] - [[Worter/auf]] = [[treten]] / to appear, to occur, to perform
+[[eintreten]] - [[ein]] = [[treten]] / to enter, to step in
+[[auftreten]] - [[auf]] = [[treten]] / to appear, to occur, to perform
 
 
 ---

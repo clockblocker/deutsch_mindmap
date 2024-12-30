@@ -1,1 +1,1 @@
-, [[Worter/entgegenfiebern]]
+, [[entgegenfiebern]]

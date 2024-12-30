@@ -1,7 +1,7 @@
-🌡️ [[Worter/fiebern]], [ˈfiːbɐn] | [[fieberte]], haben [[gefiebert]]
+🌡️ [[fiebern]], [ˈfiːbɐn] | [[fieberte]], haben [[gefiebert]]
 
 ---
-[[Worter/entgegenfiebern]] - [[entgegen]] = [[Worter/fiebern]]
+[[entgegenfiebern]] - [[entgegen]] = [[fiebern]]
 
 ---
 Synonyme: [[krank sein]], [[erkrankt sein]], [[schwitzen]], [[glühen]], [[brennen]]
@@ -20,7 +20,7 @@ Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 Ich: [[fiebere]], [[fieberte]], -, [[fiebere]], [[fieberte]]  
 Du: [[fieberst]], [[fiebertest]], [[fiebere]], [[fieberest]], [[fiebertest]]  
 Er/sie/es: [[fiebert]], [[fieberte]], -, [[fiebere]], [[fieberte]]  
-Wir: [[Worter/fiebern]], [[fieberten]], -, [[Worter/fiebern]], [[fieberten]]  
+Wir: [[fiebern]], [[fieberten]], -, [[fiebern]], [[fieberten]]  
 Ihr: [[fiebert]], [[fiebertet]], [[fiebert]], [[fieberet]], [[fiebertet]]  
 
 Partizip I: [[fiebernd]], 

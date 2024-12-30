@@ -1,18 +1,18 @@
 , [[Spielkarten]]
 
 
-🔢 [[Worter/A/Acht]], [ˈaxt]
+🔢 [[Acht]], [ˈaxt]
 
 ---
 Synonyme: 
-- [[Worter/8]], [[Achtzahl]]
+- [[8]], [[Achtzahl]]
 
 ---
 Übersetzung: eight, 8
 
 ---
 Morpheme:
-[[Worter/A/Acht]]
+[[Acht]]
 
 ---
 #Numeral #Zahl

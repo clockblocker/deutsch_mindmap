@@ -14,7 +14,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Stimm]][[Worter/e]]
+[[Stimm]][[e]]
 
 ---
 #Substantiv #Feminin

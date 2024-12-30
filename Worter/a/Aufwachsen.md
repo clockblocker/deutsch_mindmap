@@ -5,7 +5,7 @@ sein [[aufgewachsen]]
 ---
 Doch kein anderes Museum stellt das Leben und [[Aufwachsen]] in der DDR auf eine so anschauliche Weise dar.
 
-Er [[wuchs]] in den Orten Reichenau und Waltersdorf [[Worter/auf]].
+Er [[wuchs]] in den Orten Reichenau und Waltersdorf [[auf]].
 
 
 
@@ -17,7 +17,7 @@ Antonyme: [[verkümmern]], [[stagnieren]], [[degenerieren]]
 Übersetzung: to grow up, to mature
 
 ---
-Morpheme: [[Worter/auf]][[wachs]][[en]]
+Morpheme: [[auf]][[wachs]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -33,4 +33,4 @@ Morpheme: [[Worter/auf]][[wachs]][[en]]
 
 Partizip I: [[aufwachsend]], Partizip II: [[aufgewachsen]]
 
-[[Aufwachsen]] - [[Worter/auf]] = [[wachsen]]
+[[Aufwachsen]] - [[auf]] = [[wachsen]]

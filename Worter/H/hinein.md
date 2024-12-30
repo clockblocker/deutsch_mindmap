@@ -14,7 +14,7 @@ Ich werde Sascha aus diesem Kasten wegzaubern … und in diesen Kaste
 ---
 
 Synonyme:
-- [[herein]], [[Worter/ein]], [[drinnen]]
+- [[herein]], [[ein]], [[drinnen]]
 
 ---
 **Übersetzung**: into, in

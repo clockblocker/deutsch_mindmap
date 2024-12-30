@@ -5,7 +5,7 @@ haben [[gesperrt]]
 ---
 
 ---
-[[aufsperren]] - [[Worter/auf]] = [[sperren]]
+[[aufsperren]] - [[auf]] = [[sperren]]
 
 ---
 Synonyme: [[blockieren]], [[verriegeln]], [[versperren]], [[absperren]], [[hindern]]

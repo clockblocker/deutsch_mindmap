@@ -1,1 +1,1 @@
-, [[abmachen]], [[entscheiden]], [[vereinbaren]], [[Worter/entschließen]]
+, [[abmachen]], [[entscheiden]], [[vereinbaren]], [[entschließen]]

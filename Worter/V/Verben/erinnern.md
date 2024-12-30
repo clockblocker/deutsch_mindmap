@@ -61,4 +61,4 @@ to remember, to remind
 ---
 
 **Morphems of only infinitive:**  
-- [[erinner]][[Worter/n]]
+- [[erinner]][[n]]

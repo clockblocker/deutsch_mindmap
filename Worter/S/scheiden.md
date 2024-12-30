@@ -19,7 +19,7 @@ Antonyme: [[vereinen]], [[zusammenkommen]], [[zusammenbleiben]]
 Übersetzung: to separate, to divorce
 
 ---
-Morpheme: [[scheide]][[Worter/n]]
+Morpheme: [[scheide]][[n]]
  #Verb  #Trennbar
  
 ---
@@ -36,4 +36,4 @@ Morpheme: [[scheide]][[Worter/n]]
 
 Partizip I: [[scheidend]], Partizip II: [[geschieden]]
 
-[[scheiden]] - [[scheide]] = [[Worter/n]][[vermischen]], [[heiraten]], [[trauen]], [[entscheiden]], [[antrauen]], [[mischen]]
+[[scheiden]] - [[scheide]] = [[n]][[vermischen]], [[heiraten]], [[trauen]], [[entscheiden]], [[antrauen]], [[mischen]], [[verscheiden]]

@@ -67,4 +67,4 @@ to do
 ---
 
 **Morphems of only infinitive:**  
-- [[tu]][[Worter/n]]
+- [[tu]][[n]]

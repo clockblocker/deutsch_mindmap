@@ -1,1 +1,1 @@
-, [[Worter/A/Acht]]
+, [[Acht]]

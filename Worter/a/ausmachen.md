@@ -13,7 +13,7 @@ Antonyme: [[übersehen]], [[ignorieren]], [[verborgen lassen]]
 Übersetzung: to make out, to detect, to determine, to matter | turn off | 
 
 ---
-Morpheme: [[Worter/A/aus]][[mach]][[en]]
+Morpheme: [[aus]][[mach]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -30,6 +30,6 @@ Morpheme: [[Worter/A/aus]][[mach]][[en]]
 
 Partizip I: [[ausmachend]], Partizip II: [[ausgemacht]]
 
-[[ausmachen]] - [[Worter/A/aus]] = [[machen]]
+[[ausmachen]] - [[aus]] = [[machen]]
 
 , [[aufdrehen]], [[anzünden]], [[zünden]], [[vereinbaren]]

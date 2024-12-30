@@ -40,9 +40,9 @@
 
 5. #Relativpronomen 
 
-[[Worter/D/der]] (who, which, that),
-[[Worter/D/die]] (who, which, that),
-[[Worter/D/das]] (who, which, that),
+[[der]] (who, which, that),
+[[die]] (who, which, that),
+[[das]] (who, which, that),
 [[welcher]] (who, which),
 [[welche]] (who, which),
 [[welches]] (who, which)
@@ -68,7 +68,7 @@
 [[einige]] (some),
 [[mehrere]] (several),
 [[viele]] (many),
-[[Worter/Alle]] (all),
+[[alle]] (all),
 [[andere]] (others)
 
 8. #Reziproke Pronomen

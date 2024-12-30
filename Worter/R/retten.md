@@ -12,7 +12,7 @@ Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können. „Stop
 
 ---
 Synonyme: [[befreien]], [[beschützen]], [[bewahren]], [[schützen]], [[bergen]]
-Antonyme: [[Worter/aufgeben]], [[verlieren]], [[zerstören]]
+Antonyme: [[aufgeben]], [[verlieren]], [[zerstören]]
 
 ---
 Übersetzung: to save, to rescue

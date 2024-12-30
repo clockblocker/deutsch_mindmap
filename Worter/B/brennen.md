@@ -30,4 +30,4 @@ Morpheme: [[brenn]][[en]]
 
 Partizip I: [[brennend]], Partizip II: [[gebrannt]]
 
-[[verbrannt]], [[verbrennen]], [[Worter/fiebern]]
+[[verbrannt]], [[verbrennen]], [[fiebern]]

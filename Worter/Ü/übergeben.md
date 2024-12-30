@@ -14,7 +14,7 @@ Antonyme: [[behalten]], [[zurückhalten]], [[verweigern]], [[abweisen]], [[verwe
 Übersetzung: to hand over, to give (something) to (someone)
 
 ---
-Morpheme: [[Worter/über]][[geb]][[en]]
+Morpheme: [[über]][[geb]][[en]]
  #Verb  #Trennbar
  
 
@@ -31,5 +31,5 @@ Morpheme: [[Worter/über]][[geb]][[en]]
 
 Partizip I: [[übergebend]], Partizip II: [[übergeben]]
 
-[[übergeben]] - [[Worter/über]] = [[geben]]
+[[übergeben]] - [[über]] = [[geben]]
 '''

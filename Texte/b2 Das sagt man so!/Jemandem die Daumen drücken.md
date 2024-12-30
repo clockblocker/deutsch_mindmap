@@ -1,8 +1,8 @@
 Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Erfolg]]!“ sagen oder jemandem die Daumen [[drücken]]. Ob es hilft? [[Immerhin]]: Wer [[freut]] sich nicht darüber, dass an ihn [[gedacht]] wird?
   
-Gloria hat morgen [[Worter/Führerscheinprüfung]]. Sie ist gut [[vorbereitet]], hat aber [[dennoch]] Angst. 
+Gloria hat morgen [[Führerscheinprüfung]]. Sie ist gut [[vorbereitet]], hat aber [[dennoch]] Angst. 
 
-Was ist, wenn der Prüfer einen schlechten Tag hat und sie mit schwierigen [[Aufgaben]] [[Worter/quält]]? Was ist, wenn es die ganze Zeit regnet und sie nichts sehen kann? Und was ist, wenn sie zu nervös ist, um richtig [[Worter/einzuparken]]? 
+Was ist, wenn der Prüfer einen schlechten Tag hat und sie mit schwierigen [[Aufgaben]] [[quält]]? Was ist, wenn es die ganze Zeit regnet und sie nichts sehen kann? Und was ist, wenn sie zu nervös ist, um richtig [[Worterzuparken]]? 
 
 Zu ihrer Schwester Greta sagt sie: „Drück mir bitte die Daumen, dass alles gut geht!“ 
 

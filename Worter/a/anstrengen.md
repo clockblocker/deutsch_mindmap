@@ -29,4 +29,4 @@ Zu+infinifive: [[anzustrengen]]
 [[anstrengen]] - [[an 1]] = [[strengen]]
 
 ---
-[[Anstrengung]], [[anstrengend]], [[Anstrengungsfaktor]], [[angestrengt]], [[Worter/durchatmen]]
+[[Anstrengung]], [[anstrengend]], [[Anstrengungsfaktor]], [[angestrengt]], [[durchatmen]]

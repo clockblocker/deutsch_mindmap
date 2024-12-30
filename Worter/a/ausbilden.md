@@ -13,7 +13,7 @@ Antonyme: [[entlassen]], [[unausgebildet lassen]], [[ignorieren]]
 Übersetzung: to train, to educate, to qualify
 
 ---
-Morpheme: [[Worter/A/aus]][[bild]][[en]]
+Morpheme: [[aus]][[bild]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[Worter/A/aus]][[bild]][[en]]
 | Sie | [[bilden aus]] | [[bildeten aus]] | [[bilden Sie aus]] | [[bilden aus]] | [[bildeten aus]] |
 
 Partizip I: [[ausbildend]], Partizip II: [[ausgebildet]]
-[[ausbilden]] - [[Worter/A/aus]] = [[bilden]], [[entwickeln]]
+[[ausbilden]] - [[aus]] = [[bilden]], [[entwickeln]]

@@ -8,7 +8,7 @@ haben [[gefochten]]
 
 ---
 Synonyme: [[kämpfen]], [[streiten]], [[duellieren]], [[ringen]], [[wetteifern]]
-Antonyme: [[Worter/aufgeben]], [[kapitulieren]], [[nachgeben]]
+Antonyme: [[aufgeben]], [[kapitulieren]], [[nachgeben]]
 
 ---
 Übersetzung: to fence, to fight

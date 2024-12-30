@@ -7,7 +7,7 @@ ANNA: Igitt! Ein Tier-Präparator! Wie [[schrecklich]]!
 
 Die [[klingt]] ja schrecklich! 
 
- Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[Worter/aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
+ Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
 
 
 ---

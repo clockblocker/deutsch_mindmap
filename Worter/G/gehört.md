@@ -2,4 +2,4 @@
 
 🔔 [[gehören]] 
 
-, [[Worter/Kick]], [[Abenteuer 1]], [[langweilen]], [[Glücksspiel]]
+, [[Kick]], [[Abenteuer 1]], [[langweilen]], [[Glücksspiel]]

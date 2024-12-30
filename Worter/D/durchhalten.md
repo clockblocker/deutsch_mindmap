@@ -1,1 +1,1 @@
-, [[aushalten]], [[Worter/aufgeben]]
+, [[aushalten]], [[aufgeben]]

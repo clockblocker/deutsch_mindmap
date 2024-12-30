@@ -1,7 +1,7 @@
 🚶 [[auftreten]] | [[trat auf|trat auf]], haben [[aufgetreten]]
 
 ---
- Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[Worter/aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
+ Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
 
 ---
 Synonyme: [[erscheinen]], [[hervortreten]], [[hervorgehen]], [[auftauchen]], [[sich zeigen]]
@@ -11,7 +11,7 @@ Antonyme: [[verschwinden]], [[verstecken]], [[abtreten]], [[zurückziehen]]
 to appear, to occur, to perform
 
 ---
-[[Worter/auf]][[tret]][[en]]
+[[auf]][[tret]][[en]]
  
 ---
 
@@ -24,11 +24,11 @@ Ihr: [[tretet auf]], [[tratet auf]], [[tretet auf]], [[tretet auf]], [[trätet a
 
 Partizip I: [[auftretend]], 
 Partizip II: [[aufgetreten]]
-Zu+infinitive: [[Worter/aufzutreten]]
+Zu+infinitive: [[aufzutreten]]
 
-[[auftreten]] - [[Worter/auf]] = [[treten]] / to appear, to occur, to perform
+[[auftreten]] - [[auf]] = [[treten]] / to appear, to occur, to perform
 
 ---
-[[Worter/Auftritt]], [[auftreten]], [[Auftretender]], [[Auftretende]], [[Auftrittsort]], [[Bühnenauftritt]], [[Konzertauftritt]]
+[[auftritt]], [[auftreten]], [[Auftretender]], [[Auftretende]], [[Auftrittsort]], [[Bühnenauftritt]], [[Konzertauftritt]]
 
-, [[passieren]], [[erscheinen]], [[Worter/Auftritt]]
+, [[passieren]], [[erscheinen]], [[auftritt]]

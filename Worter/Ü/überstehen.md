@@ -8,7 +8,7 @@ Er weiß nicht, wie er die nächsten Monate überstehen soll.
 
 ---
 Synonyme: [[bewältigen]], [[durchstehen]], [[meistern]], [[überwinden]], [[aushalten]]
-Antonyme: [[unterliegen]], [[scheitern]], [[Worter/aufgeben]]
+Antonyme: [[unterliegen]], [[scheitern]], [[aufgeben]]
 
 ---
 Übersetzung: to survive, to get through, to weather

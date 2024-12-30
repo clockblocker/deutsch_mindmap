@@ -15,7 +15,7 @@ Antonyme: [[durcheinanderbringen]], [[verwirren]], [[auflösen]]
 Übersetzung: to regulate, to control, to rule
 
 ---
-Morpheme: [[reg]][[el]][[Worter/n]]
+Morpheme: [[reg]][[el]][[n]]
  #Verb  #Trennbar
 
 ---

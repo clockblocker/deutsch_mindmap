@@ -25,4 +25,4 @@ Einzigartige mögliche Formen: [[Stoßes]], [[Stoße]], [[Stößen]]
 
 
 , [[Funkenstoß]]
-, [[Ruck]], [[Feuerstoß]], [[Worter/Kick]]
+, [[Ruck]], [[Feuerstoß]], [[Kick]]

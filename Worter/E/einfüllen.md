@@ -14,7 +14,7 @@ Antonyme: [[ausleeren]], [[ausgießen]], [[entfernen]]
 Übersetzung: to pour in, to fill in
 
 ---
-Morpheme: [[Worter/ein]][[füll]][[en]]
+Morpheme: [[ein]][[füll]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -31,4 +31,4 @@ Morpheme: [[Worter/ein]][[füll]][[en]]
 
 Partizip I: [[einfüllend]], Partizip II: [[eingefüllt]]
 
-[[einfüllen]] - [[Worter/ein]] = [[füllen]]
+[[einfüllen]] - [[ein]] = [[füllen]]

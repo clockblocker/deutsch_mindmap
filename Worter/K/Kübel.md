@@ -1,1 +1,1 @@
-, [[Schüssel]], [[Worter/Eimer]]
+, [[Schüssel]], [[Eimer]]

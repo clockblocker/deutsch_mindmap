@@ -1,4 +1,4 @@
-Nominative: [[Worter/A/Artikels_/ein]]
+Nominative: [[Artikels_/ein]]
 
 Masculine genitive: [[eines]]
 Feminine genitive: [[eines]]

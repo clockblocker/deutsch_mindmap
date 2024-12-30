@@ -1,5 +1,5 @@
 **Masculine:**
-• Nominative: [[Worter/A/Artikels_/ein]]
+• Nominative: [[Artikels_/ein]]
 
 
 **Feminine:**

@@ -30,4 +30,4 @@ Morpheme: [[zu]][[geh]][[en]]
 | Sie | [[gehen zu]] | [[gingen zu]] | [[gehen Sie zu]] | [[gehen zu]] | [[gingen zu]] |
 
 Partizip I: [[zugehend]], Partizip II: [[zugegangen]]
-[[zugehen]] - [[zu]] = [[gehen]], [[hoffentlich]]
+[[zugehen]] - [[zu]] = [[gehen]], [[hoffentlich]], [[herankam]]

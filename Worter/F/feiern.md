@@ -25,7 +25,7 @@ to celebrate
 
 ---
 **Morphems of only infinitive:**  
-- [[feier]][[Worter/n]]
+- [[feier]][[n]]
 
 ---
  #Verb #Regelmäßig

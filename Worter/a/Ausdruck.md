@@ -15,7 +15,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Worter/A/aus]][[druck]]
+[[aus]][[druck]]
 
 ---
 Einzigartige mögliche Formen: [[Ausdrucks]], [[Ausdrucke]], [[Ausdrücke]], [[ausdrücken]]

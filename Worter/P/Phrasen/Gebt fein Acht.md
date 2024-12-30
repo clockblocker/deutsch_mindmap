@@ -1,3 +1,3 @@
-[[Gebt]] [[fein]] [[Worter/A/Acht]]
+[[Gebt]] [[fein]] [[Acht]]
 
 pay close attention

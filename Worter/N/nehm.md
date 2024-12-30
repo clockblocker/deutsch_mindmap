@@ -9,7 +9,7 @@ haben [[genommen]]
 [[Übernehmen]], [[Unternehmen]], [[herausnehmen]]
 
 ---
-Synonyme: [[ergreifen]], [[bekommen]], [[empfangen]], [[annehmen]], [[Worter/aufheben]]
+Synonyme: [[ergreifen]], [[bekommen]], [[empfangen]], [[annehmen]], [[aufheben]]
 Antonyme: [[weglegen]], [[abgeben]], [[verlieren]], [[ablehnen 1]]
 
 ---

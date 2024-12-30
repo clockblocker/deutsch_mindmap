@@ -1,1 +1,1 @@
-, [[Worter/Steuer]]
+, [[Steuer]]

@@ -11,7 +11,7 @@ Antonyme: [[ablehnen 1]], [[verweigern]], [[stornieren]]
 to arrange, to agree upon, to schedule
 
 ---
-[[ver]][[Worter/ein]][[baren]]
+[[ver]][[ein]][[baren]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[vereinbarend]],
 Partizip II: [[vereinbart]]
 Zu+infinifive: [[zu vereinbaren]]
 
-[[vereinbaren]] - [[ver]] - [[Worter/ein]] = [[baren]]
+[[vereinbaren]] - [[ver]] - [[ein]] = [[baren]]
 
 ---
 [[Vereinbarung]], [[Vereinbarkeit]], [[Termin]], [[Absprache]], [[Vereinbarungstermin]]

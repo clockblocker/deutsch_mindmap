@@ -14,7 +14,7 @@ Antonyme: [[loben]], [[preisen]], [[bewundern]], [[gutheißen]], [[zustimmen]]
 Übersetzung: to criticize, to scold, to reprimand
 
 ---
-Morpheme: [[tadel]][[Worter/n]]
+Morpheme: [[tadel]][[n]]
  #Verb  #Trennbar
  
 

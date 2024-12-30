@@ -1,1 +1,1 @@
-[[jeden]][[Worter/Alle]]
+[[jeden]][[alle]]

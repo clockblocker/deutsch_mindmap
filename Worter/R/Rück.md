@@ -26,4 +26,4 @@ Häufige Verwendungen:
 
 ---
 #Präfix #Wortbildung
-, [[Worter/Rückwand]]
+, [[Rückwand]]

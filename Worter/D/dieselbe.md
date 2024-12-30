@@ -14,9 +14,9 @@ Antonyme:
 
 ---
 Morpheme:
-[[Worter/D/das]] + [[selbe]]
-[[Worter/D/die]] + [[selbe]]
-[[Worter/D/der]] + [[selbe]]
+[[das]] + [[selbe]]
+[[die]] + [[selbe]]
+[[der]] + [[selbe]]
 
 ---
 #Pronomen #Demonstrativpronomen

@@ -1,1 +1,1 @@
-, [[Worter/Fingernagel]]
+, [[Fingernagel]]

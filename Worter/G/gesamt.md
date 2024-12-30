@@ -7,7 +7,7 @@ Aang, das hier ist unser [[gesamtes]] Dorf. Gesamtes Dorf, Aang.
 🔴 die [[Gesamtschule]], [gəˈzamtˌʃuːlə]
 
 ---
-Synonyme: [[ganz]], [[vollständig]], [[komplett]], [[total]], [[umfassend]], [[ganz]], [[Worter/Alle]]
+Synonyme: [[ganz]], [[vollständig]], [[komplett]], [[total]], [[umfassend]], [[ganz]], [[alle]]
 Antonyme: [[teilweise]], [[partiell]], [[fragmentarisch]], [[unvollständig]]
 
 ---

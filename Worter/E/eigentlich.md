@@ -23,5 +23,5 @@ Adverbial Form: [[eigentlich]], [[eigentlicher]], [[eigentlichst]]
 ---
 [[Eigenheit]], [[eigentümlich]], [[Eigentlichkeit]]
 
-, [[eingehen 1]], [[Risiko]]
+, [[eingehen]], [[Risiko]]
 , [[Einwand]]

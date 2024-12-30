@@ -1,21 +1,21 @@
 Familie
 
-Der [[Mann]] und die [[Frau]] [[leben]] [[in]] [[einem]] [[Haus]]. Der [[Mann]] [[heißt]] Peter und die [[Frau]] [[heißt]] Anna. Sie [[haben]] [[zwei]] Kinder: [[einen]] [[Jungen]] und [[Worter/ein]] [[Mädchen]].
+Der [[Mann]] und die [[Frau]] [[leben]] [[in]] [[einem]] [[Haus]]. Der [[Mann]] [[heißt]] Peter und die [[Frau]] [[heißt]] Anna. Sie [[haben]] [[zwei]] Kinder: [[einen]] [[Jungen]] und [[ein]] [[Mädchen]].
 
 Der [[Junge]] [[heißt]] Max und das [[Mädchen]] [[heißt]] Lena. Max und Lena [[spielen]] [[oft]] [[zusammen]]. Sie [[haben]] [[einen]] [[Hund]] und [[eine]] [[Katze]]. Der [[Hund]] [[heißt]] Bello und die [[Katze]] [[heißt]] Mimi.
 
-Der [[Vater]], Peter, [[fährt]] [[jeden]] [[Tag]] [[mit]] [[dem]] [[Auto]] [[zur]] [[arbeit 1]]. Die [[Mutter]], Anna, [[bleibt]] [[zu]] [[Hause]] und [[kümmert]] [[sich]] [[um]] die Kinder. Sie [[wohnen]] [[in]] [[Worter/E/einer]] [[schönen]] [[Wohnung]] [[mit]] [[Drei]] [[Zimmern]].
+Der [[Vater]], Peter, [[fährt]] [[jeden]] [[Tag]] [[mit]] [[dem]] [[Auto]] [[zur]] [[arbeit 1]]. Die [[Mutter]], Anna, [[bleibt]] [[zu]] [[Hause]] und [[kümmert]] [[sich]] [[um]] die Kinder. Sie [[wohnen]] [[in]] [[E/einer]] [[schönen]] [[Wohnung]] [[mit]] [[Drei]] [[Zimmern]].
 
 [[Opa]] und [[Oma]] [[besuchen]] [[oft]] die [[Familie]]. Der [[Opa]] [[erzählt]] [[Geschichten]] und die [[Oma]] [[bringt]] [[immer]] [[Kekse]] [[mit]]. Max und Lena [[Lieben]] [[ihre]] [[Großeltern]].
 
 Max [[fährt]] [[gerne]] [[Fahrrad]] und [[Lena]] [[spielt]] [[gerne]] [[mit]] [[dem]] [[Hund]]. [[an 1]] [[Wochenenden]] [[fährt]] die [[Familie]] [[oft]] [[mit]] [[dem]] [[Bus]] [[Ins]] [[Kino]]. Sie [[sehen]] [[viele]] [[Filme]] [[zusammen]].
 
-Max [[liest]] [[gerne]] [[Bücher]]. [[sein]] [[Lieblingsbuch]] [[ist]] [[Worter/über]] [[Worter/ein]] [[großes]] [[Schiff]]. Lena [[mag]] [[Puppen]] und [[spielt]] [[oft]] [[in]] [[ihrem]] [[zimmer]].Die [Familie]] [[ist]] [[glücklich]]. Sie [[verbringen]] [[viel]] [[Zeit]] [[zusammen]] und [[haben]] [[immer]] [[Spaß]].
+Max [[liest]] [[gerne]] [[Bücher]]. [[sein]] [[Lieblingsbuch]] [[ist]] [[über]] [[ein]] [[großes]] [[Schiff]]. Lena [[mag]] [[Puppen]] und [[spielt]] [[oft]] [[in]] [[ihrem]] [[zimmer]].Die [Familie]] [[ist]] [[glücklich]]. Sie [[verbringen]] [[viel]] [[Zeit]] [[zusammen]] und [[haben]] [[immer]] [[Spaß]].
 
 
 
 1. Der [[Mann]] – Мужчина. Муж.
-• Plural: die [[Worter/Nomen/Männer]]
+• Plural: die [[Nomen/Männer]]
 2. Die [[Frau]] – Женщина. Жена.
 • Plural: die [[Frauen]]
 3. Der [[Junge]] – Мальчик.

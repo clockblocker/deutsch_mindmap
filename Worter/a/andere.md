@@ -27,7 +27,7 @@ other, different
 
 ---
 Morpheme:
-[[ander]][[Worter/e]]
+[[ander]][[e]]
 
 ---
 

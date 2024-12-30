@@ -8,7 +8,7 @@ haben [[gelutscht]]
 
 ---
 Synonyme: [[saugen]], [[lecken]], [[schlürfen]], [[lutschen]], [[nuckeln]]
-Antonyme: [[ausspeien]], [[Worter/ausspucken]]
+Antonyme: [[ausspeien]], [[ausspucken]]
 
 ---
 Übersetzung: to suck, to lick

@@ -7,7 +7,7 @@ Viele Tiere haben ein dickes Fell. Es hilft ihnen, starke Kälte und Wind zu [[e
 
 ---
 Synonyme: [[aushalten]], [[erdulden]], [[tolerieren]], [[akzeptieren 1]], [[durchstehen]]
-Antonyme: [[ablehnen 1]], [[verweigern]], [[Worter/aufgeben]], [[kapitulieren]]
+Antonyme: [[ablehnen 1]], [[verweigern]], [[aufgeben]], [[kapitulieren]]
 
 ---
 Übersetzung: to endure, to tolerate, to bear

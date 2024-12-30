@@ -5,7 +5,7 @@ die [[Sachen]]
 Ich wasche [[sogar]] all deine Sachen! 
 
  Als die beiden nach zehn Minuten immer noch streiten, [[verliert]] sie die [[Geduld]]: 
- „Also, ich möchte mich ja nicht [[Worter/einmischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[Worter/aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“
+ „Also, ich möchte mich ja nicht [[Wortermischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“
 
 
 ---

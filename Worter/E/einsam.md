@@ -22,7 +22,7 @@ lonely, solitary, alone
 
 ---
 Morpheme:
-[[Worter/ein]][[sam]]
+[[ein]][[sam]]
 
 ---
 

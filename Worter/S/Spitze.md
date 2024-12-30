@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Spitz]][[Worter/e]]
+[[Spitz]][[e]]
 
 ---
 #Substantiv #Feminin

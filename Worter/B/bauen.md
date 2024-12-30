@@ -6,7 +6,7 @@ haben [[gebaut]]
 _Aang hat aus Appas Schwanz eine Rutsche [[gebaut]], von der nun die kleinen Kinder rutschen._
 
 ---
-[[aufbauen]] - [[Worter/auf]] = [[bauen]] / собрать, to build up, to construct
+[[aufbauen]] - [[auf]] = [[bauen]] / собрать, to build up, to construct
 
 
 ---
@@ -33,6 +33,6 @@ Morpheme: [[bau]][[en]]
 
 Partizip I: [[bauend]], Partizip II: [[gebaut]]
 
-+[[Worter/auf]] = [[aufbauen]], 
++[[auf]] = [[aufbauen]], 
 
 [[einbauen]], [[umbauen]]

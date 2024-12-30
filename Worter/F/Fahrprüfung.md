@@ -1,1 +1,1 @@
-, [[Worter/Führerscheinprüfung]]
+, [[Führerscheinprüfung]]

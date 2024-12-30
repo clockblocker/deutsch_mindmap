@@ -4,7 +4,7 @@
 | ------------ | ---------- | -------------- |
 | [[a]]        | Stadt      | [ʃtat]         |
 | [[aː]]       | Staat      | [ʃtaːt]        |
-| [[Worter/e]] | defekt     | [deˈfɛkt]      |
+| [[e]] | defekt     | [deˈfɛkt]      |
 | [[eː]]       | wen        | [veːn]         |
 | [[ɛ]]        | wenn       | [vɛn]          |
 | [[ɛː]]       | spät       | [ʃpɛːt]        |
@@ -38,7 +38,7 @@
 | [[k]]        | kalt       | [kalt]         |
 | [[l]]        | alle       | [ˈalə]         |
 | [[m]]        | mit        | [mɪt]          |
-| [[Worter/n]] | in         | [ɪn]           |
+| [[n]] | in         | [ɪn]           |
 | [[ŋ]]        | lang       | [laŋ]          |
 | [[p]]        | Post       | [pɔst]         |
 | [[ʁ]]        | Rand       | [ʁant]         |

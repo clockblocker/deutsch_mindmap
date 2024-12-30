@@ -31,4 +31,4 @@ Tags:
 
 ---
 Morphems:
-[[Worter/A/aus]][[gestopft]]
+[[aus]][[gestopft]]

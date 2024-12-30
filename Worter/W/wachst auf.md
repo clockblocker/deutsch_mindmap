@@ -1,2 +1,2 @@
-[[Worter/aufwachen]]
+[[aufwachen]]
 , [[Aufwachsen]]

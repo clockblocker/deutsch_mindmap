@@ -1,1 +1,1 @@
-, [[Worter/auffangen]]
+, [[auffangen]]

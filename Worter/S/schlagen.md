@@ -16,7 +16,7 @@ NIC: Herr Scott, Beine übereinander [[schlagen]].
 
  
 ---
-[[einschlagen]] - [[Worter/ein]] = [[schlagen]] /  to hit, to strike
+[[einschlagen]] - [[ein]] = [[schlagen]] /  to hit, to strike
 [[wegschlagen]] - [[weg]] = [[schlagen]] / strike away
 [[vorschlagen]] - [[vor]] = [[schlagen]] / to suggest, to propose
 

@@ -1,1 +1,1 @@
-[[verlieren]], [[Putzplan]], [[Sache]], [[Worter/einmischen]]
+[[verlieren]], [[Putzplan]], [[Sache]], [[Wortermischen]]

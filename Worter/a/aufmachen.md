@@ -23,7 +23,7 @@ Antonyme: [[schließen]], [[verriegeln]], [[zuschließen]]
 Übersetzung: to open, get ready
 
 ---
-Morpheme: [[Worter/auf]][[mach]][[en]]
+Morpheme: [[auf]][[mach]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -40,5 +40,5 @@ Morpheme: [[Worter/auf]][[mach]][[en]]
 
 Partizip I: [[aufmachend]], Partizip II: [[aufgemacht]]
 
-[[aufmachen]] - [[Worter/auf]] = [[machen]]
+[[aufmachen]] - [[auf]] = [[machen]]
 , [[aufzukriegen]]

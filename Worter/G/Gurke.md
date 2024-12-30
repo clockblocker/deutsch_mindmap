@@ -1,8 +1,8 @@
-🔴 die [[Worter/Gurke]]
-die [[Worter/Gurken]]
+🔴 die [[Gurke]]
+die [[Gurken]]
 
 ---
-Manche Menschen legen sich [[Worter/Gurken]] auf die Augen, um etwas für ihre [[Worter/Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden.
+Manche Menschen legen sich [[Gurken]] auf die Augen, um etwas für ihre [[Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden.
 
 
 ---
@@ -17,10 +17,10 @@ cucumber
 
 ---
 Case: Singular, Plural  
-Nominative: die [[Worter/Gurke]], die [[Worter/Gurken]]  
-Accusative: die [[Worter/Gurke]], die [[Worter/Gurken]]  
-Genitive: der [[Worter/Gurke]], der [[Worter/Gurken]]  
-Dative: der [[Worter/Gurke]], den [[Worter/Gurken]]  
+Nominative: die [[Gurke]], die [[Gurken]]  
+Accusative: die [[Gurke]], die [[Gurken]]  
+Genitive: der [[Gurke]], der [[Gurken]]  
+Dative: der [[Gurke]], den [[Gurken]]  
 
 ---
-[[Worter/Gurken]], [[gurkig]], [[gurkenähnlich]], [[Salatgurke]], [[Gewächshaus-Gurke]]
+[[Gurken]], [[gurkig]], [[gurkenähnlich]], [[Salatgurke]], [[Gewächshaus-Gurke]]

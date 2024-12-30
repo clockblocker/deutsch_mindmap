@@ -8,7 +8,7 @@ Schokolade so seidig, da schmilzt das Herz [[Jeder]] schönen Frau
 
 
 ---
-Synonyme: [[Worter/Alle]], [[sämtliche]], [[beliebig]]
+Synonyme: [[alle]], [[sämtliche]], [[beliebig]]
 Antonyme: [[keiner]], [[niemand]]
 
 ---

@@ -1,1 +1,1 @@
-, [[zulaufen]], [[Worter/durchatmen]]
+, [[zulaufen]], [[durchatmen]]

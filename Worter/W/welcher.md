@@ -1,4 +1,4 @@
-• **Nominative**: Der Mann, [[welcher]] / [[Worter/D/der]] im Park joggt, ist mein Vater.
+• **Nominative**: Der Mann, [[welcher]] / [[der]] im Park joggt, ist mein Vater.
 • **Accusative**: Der Hund, [[welchen]] ich gestern gesehen habe, ist sehr freundlich.
 • **Dative**: Der Freund, [[welchem]] ich das Buch gegeben habe, heißt Tom.
 • **Genitive**: Der Mann, [[dessen]] Auto kaputt ist, braucht Hilfe. +

@@ -1,1 +1,1 @@
-, [[sicher]], [[freilich]], [[unbedingt]], [[Worter/entschlossen]]
+, [[sicher]], [[freilich]], [[unbedingt]], [[entschlossen]]

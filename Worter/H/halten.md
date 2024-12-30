@@ -22,7 +22,7 @@ In der Stube saß eine Frau und hielt den Kopf über das weiße Waschbecken geb�
 Katara und Sokka [[halten]] sich an der Eisscholle fest und werden mit ihr von einer Welle weggespült.
 
 ---
-[[aushalten]] - [[Worter/A/aus]] = [[halten]]              / to endure, to bear, to tolerate
+[[aushalten]] - [[aus]] = [[halten]]              / to endure, to bear, to tolerate
 [[mithalten]] - [[mit]] = [[halten]]               / to keep up (with)
 [[erhalten]] - [[er]] = [[halten]]                   /  to receive, to get, to maintain
 [[unterhalten]] - [[unter]] = [[halten]]        / переговориваться 

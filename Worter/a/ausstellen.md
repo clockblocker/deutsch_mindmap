@@ -13,7 +13,7 @@ Antonyme: [[verstecken]], [[verbergen]], [[zurückhalten]]
 Übersetzung: to exhibit, to display, to show
 
 ---
-Morpheme: [[Worter/A/aus]][[stell]][[en]]
+Morpheme: [[aus]][[stell]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -29,4 +29,4 @@ Morpheme: [[Worter/A/aus]][[stell]][[en]]
 
 Partizip I: [[ausstellend]], Partizip II: [[ausgestellt]]
 
-[[ausstellen]] - [[Worter/A/aus]] = [[stellen]]
+[[ausstellen]] - [[aus]] = [[stellen]]

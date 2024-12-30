@@ -1,1 +1,1 @@
-, [[Mut]], [[Worter/entschlossen]], [[Worter/entschließen]]
+, [[Mut]], [[entschlossen]], [[entschließen]]

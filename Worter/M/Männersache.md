@@ -24,5 +24,5 @@ Synonyme:
 ---
 
 Morphems of only noun:
-- [[Worter/Nomen/Männer]][[Sache]]
+- [[Nomen/Männer]][[Sache]]
 

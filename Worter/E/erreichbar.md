@@ -1,1 +1,1 @@
-, [[möglich]], [[unmöglich]]
+, [[möglich]], [[unmöglich]], [[reichen]]

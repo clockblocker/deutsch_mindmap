@@ -5,7 +5,7 @@ haben [[gekümmert]]
 ---
 Seitdem [[kümmern]] sich mein Bruder und ich um unseren Stamm.
 
-Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Worter/Haushalt]] [[kümmern]] muss.
+Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Haushalt]] [[kümmern]] muss.
 
 ---
 Synonyme: [[sorgen]], [[betreuen]], [[versorgen]], [[hegen]], [[pflegen]]

@@ -13,7 +13,7 @@ Synonyme:
 impression, impact
 
 ---
-[[Worter/ein]][[druck]]
+[[ein]][[druck]]
 
 ---
 Case: Singular, Plural  

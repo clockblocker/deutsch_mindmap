@@ -1,1 +1,1 @@
-, [[brennen]], [[Worter/fiebern]]
+, [[brennen]], [[fiebern]]

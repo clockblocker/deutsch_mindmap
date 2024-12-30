@@ -14,7 +14,7 @@ Antonyme: [[ausschalten]], [[abstellen]], [[herunterdrehen]], [[abdrehen]], [[au
 Übersetzung: to turn on, to open up
 
 ---
-Morpheme: [[Worter/auf]][[dreh]][[en]]
+Morpheme: [[auf]][[dreh]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[Worter/auf]][[dreh]][[en]]
 
 Partizip I: [[aufdrehend]], Partizip II: [[aufgedreht]]
 
-[[aufdrehen]] - [[Worter/auf]] = [[drehen]], [[wringen]]
+[[aufdrehen]] - [[auf]] = [[drehen]], [[wringen]]

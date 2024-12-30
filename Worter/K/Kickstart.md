@@ -1,1 +1,1 @@
-, [[Worter/Kick]]
+, [[Kick]]

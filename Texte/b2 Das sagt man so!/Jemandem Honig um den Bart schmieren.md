@@ -1,6 +1,6 @@
-Manche Leute lassen sich nicht so [[einfach]] [[überzeugen 1]]. Wenn man erst [[Überzeugungsarbeit 1]] [[leisten 1]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
+Manche Leute lassen sich nicht so [[einfach]] [[überzeugen 1]]. Wenn man erst [[Überzeugungsarbeit 1]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
   
-Simon braucht ein bisschen mehr Budget für sein neues Projekt. Aber wird er es bekommen? Jannis, sein Chef, ist [[eigentlich]] ein netter Mensch, doch er [[eingehen 1|geht]] nicht gern [[Risiken]] ein. 
+Simon braucht ein bisschen mehr Budget für sein neues Projekt. Aber wird er es bekommen? Jannis, sein Chef, ist [[eigentlich]] ein netter Mensch, doch er [[eingehen|geht]] nicht gern [[Risiken]] ein. 
 
 Manchmal sagt er Nein zu Dingen, die [[eigentlich]] ganz [[sinnvoll]] wären. Bestimmt wird er alle [[möglichen]] [[Einwände]] haben: Wo soll er das Geld [[herholen]]? Und wer garantiert ihm, dass Simon nicht wiederkommt und noch ein höheres Budget braucht? 
 

@@ -1,4 +1,4 @@
- https://readlang.com/shelf/571aec12f654850e459a4f11
+https://readlang.com/shelf/571aec12f654850e459a4f11
 
 Episode One: Sams [[Ankunft]]
 Das ist die [[Geschichte]] von Sascha und Anna. Sie [[wohnen]] [[zusammen]] in Berlin.  
@@ -26,9 +26,9 @@ ANNA: Louis. [[Lass das fallen!]]
 
 ANNA: [[Guter]] Hund!
 ANNA: Telefon[[Rechnung]], Gas[[Rechnung]], Strom[[Rechnung]] … Oh, [[was]] ist das?  
-Sascha, ein Brief [[Worter/Konjunktion/für]] dich!
+Sascha, ein Brief [[Konjunktion/für]] dich!
 
-SASCHA: Ein Brief [[Worter/Konjunktion/für]] mich.  
+SASCHA: Ein Brief [[Konjunktion/für]] mich.  
 [[von]] meiner Mutter ...
 
 SASCHA: Hey, was ist [[denn]] das?
@@ -36,7 +36,7 @@ SASCHA: Hey, was ist [[denn]] das?
 ANNA: „Sascha Maus [[dieser]] Brief ist für dich. Hast du [[immer noch]] so [[viele]] [[Pickel]]?  
 Deine Mama.”
 
-SASCHA: Danke. [[Der hier]] ist [[Worter/A/aus]] Amerika.
+SASCHA: Danke. [[Der hier]] ist [[aus]] Amerika.
 
 ANNA: Aus Amerika? [[Von wem denn]]? [[Na sag schon]] ...
 
@@ -50,12 +50,12 @@ Der Brief ist von Sam! Sam Scott!
 
 ANNA: Wer ist Sam Scott?
 
-SASCHA: Er [[war]] mein Brieffreund. [[Worter/A/aber]] das ist sieben [[Jahr]]e [[her]].
+SASCHA: Er [[war]] mein Brieffreund. [[aber]] das ist sieben [[Jahr]]e [[her]].
 
 ANNA: Oh …
 
 SASCHA: „Ich [[gut]] spreche Deutsch jetzt…”  
-- Ich spreche jetzt gut Deutsch - „und ich komme [[Worter/nach]] Deutschland.”
+- Ich spreche jetzt gut Deutsch - „und ich komme [[nach]] Deutschland.”
 
 ANNA: Ein Amerikaner…
 
@@ -111,7 +111,7 @@ ANNA: Sascha hat Post von Sam …
 
 NIC: Ach ja?
 
-ANNA: Ja, Sam – [[Worter/A/aus]] Amerika!
+ANNA: Ja, Sam – [[aus]] Amerika!
 
 NIC: Ach ja, aus Amerika?  
 Wow, und ist sie cool?  
@@ -126,7 +126,7 @@ NIC: Ach so … ein cooler Ami, ja? Huh!
 SASCHA: Nic! Niemand [[darf]] mein Fahrrad [[anfassen]]! [[Kapiert]]?  
 Niemand!
 
-NIC: [[Worter/A/aber]] [[warum]] nicht?
+NIC: [[aber]] [[warum]] nicht?
 
 SASCHA: Muss ich das [[begründen]]?
 
@@ -148,7 +148,7 @@ SAM: Aah, ich heiße Anna.
 
 SAM: Nein. Was sie sagen will, ist „Ich heiße Sam und komme aus Amerika“.
 
-SAM: Du kommst [[Worter/A/aus]] Amerika?
+SAM: Du kommst [[aus]] Amerika?
 
 SASCHA: [[Hilfe]], komm [[schon]] [[rein]].
 
@@ -161,7 +161,7 @@ Und Nic von [[nebenan]] ist total witzig. Er hat unsere Milch [[zurü
 NIC: Ich vergesse nie etwas.
 
 SASCHA: Schwesterherz,  
-Grrr! Nic, NIC HAT MEIN FAHRRAD ANGEFASST! Wie blöd! Und Sam Scott aus Amerika ist hier. Aber sein Deutsch ist katastrophal! [[Worter/Nomen/Männer]]!
+Grrr! Nic, NIC HAT MEIN FAHRRAD ANGEFASST! Wie blöd! Und Sam Scott aus Amerika ist hier. Aber sein Deutsch ist katastrophal! [[Nomen/Männer]]!
 
 SAM: Ich heiße Amerika, ich komme aus Sam.  
 Anyway… Sascha and her flatmate were very impressed!
@@ -226,7 +226,7 @@ ANNA: Ja.
 
 SAM: Wow, fantastic.
 
-SASCHA: Und hier ist ein Kissen [[Worter/Konjunktion/für]] dich …
+SASCHA: Und hier ist ein Kissen [[Konjunktion/für]] dich …
 
 SAM: Thanks.
 
@@ -396,7 +396,7 @@ SAM: Ahh – duschen. Mir ist heiß. Ich gehe duschen. Excuse me.
 
 SASCHA: [[Das war’s]]! Der Typ fliegt raus!
 
-NIC: [[Worter/A/aber]] [[wieso]]? Er ist doch so [[nett]] ...
+NIC: [[aber]] [[wieso]]? Er ist doch so [[nett]] ...
 
 SASCHA: Er – ist – mit meinem Fahrrad – gefahren!
 
@@ -419,7 +419,7 @@ NIC: [[Auf keinen Fall]]! Der Typ ist nicht mein Problem.
 
 SASCHA: Er fliegt raus – und [[zwar]] [[sofort]]!
 
-ANNA: [[Worter/A/aber]] er [[duscht]] [[gerade]]!
+ANNA: [[aber]] er [[duscht]] [[gerade]]!
 
 SASCHA: [[Das ist mir egal]] …
 

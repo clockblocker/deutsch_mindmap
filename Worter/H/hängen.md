@@ -6,9 +6,9 @@ Ihre Frisur war aufgelöst und [[hing]] wie drei Pfund Wolle nach unten.
 ([[Hängt]] mit der Zunge an seinem Stab und spricht undeutlich)
 
 ---
-[[einhängen]] - [[Worter/ein]] = [[hängen]] /  to hook up
+[[einhängen]] - [[ein]] = [[hängen]] /  to hook up
 [[abhängen]] - [[ab]] = [[hängen]] / to depend on
-[[aufhängen]] - [[Worter/auf]] = [[hängen]] / to hang up
+[[aufhängen]] - [[auf]] = [[hängen]] / to hang up
 
 
 ---

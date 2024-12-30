@@ -1,3 +1,3 @@
-Genetivfom des bestimmen [[Wörter/Artikels]] [[Worter/D/der]]
+Genetivfom des bestimmen [[Wörter/Artikels]] [[der]]
 
 , [[deshalb]]

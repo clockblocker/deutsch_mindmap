@@ -15,7 +15,7 @@ Antonyme: [[abweisen]], [[ausschließen]], [[ignorieren]], [[ablehnen 1]]
 Übersetzung: to invite
 
 ---
-Morpheme: [[Worter/ein]][[lad]][[en]]
+Morpheme: [[ein]][[lad]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -32,4 +32,4 @@ Morpheme: [[Worter/ein]][[lad]][[en]]
 
 Partizip I: [[einladend]], Partizip II: [[eingeladen]]
 
-[[einladen]] - [[Worter/ein]] = [[laden]], [[verscheuchen]], [[ablehnen]]
+[[einladen]] - [[ein]] = [[laden]], [[verscheuchen]], [[ablehnen]]

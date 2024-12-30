@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Führerscheins]], [[Führerschein]], [[Führers
 
 ---
 #Substantiv #Maskulin
-, [[Worter/Führerscheinprüfung]]
+, [[Führerscheinprüfung]]

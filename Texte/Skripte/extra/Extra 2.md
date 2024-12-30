@@ -25,7 +25,7 @@ SASCHA: Schläft – Sam – [[immer noch]]? ([[niest]] DOCH NICHT)
 
 ANNA: Ja.
 
-SASCHA: Sam … Guten Morgen! [[Worter/aufwachen|Wach auf]]!
+SASCHA: Sam … Guten Morgen! [[aufwachen|Wach auf]]!
 
 SASCHA: Hey! [[raus]] aus dem Bett!
 

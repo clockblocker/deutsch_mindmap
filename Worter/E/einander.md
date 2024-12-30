@@ -22,7 +22,7 @@ Tags:
 ---
 
 Morphems:
-[[Worter/ein]][[ander]]
+[[ein]][[ander]]
 [[übereinander]]
 
 1. [[einander]]

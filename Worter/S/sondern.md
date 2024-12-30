@@ -3,7 +3,7 @@ Vor langer, langer Zeit lebte die Katze nicht in den Häusern der Menschen, [[so
 ---
 
 Synonyme:
-- [[Worter/A/aber]], [[hingegen]], [[Jedoch]]
+- [[aber]], [[hingegen]], [[Jedoch]]
 
 ---
 

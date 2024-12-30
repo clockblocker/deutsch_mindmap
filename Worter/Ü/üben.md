@@ -9,13 +9,13 @@ NIC: Sam- ich muss [[üben]]!
 Nein, es reicht! Ich hab diese Sequenz den ganzen Tag lang [[geübt]]. Bringt mir die nächste bei! Ich bin schon lange soweit
 
 ---
-[[ausüben]] - [[Worter/A/aus]] = [[üben]]
+[[ausüben]] - [[aus]] = [[üben]]
 [[weiterüben]] - [[weiter]] = [[üben]]
 
 
 ---
 Synonyme: [[trainieren]], [[proben]], [[einüben]], [[praktizieren]], [[wiederholen]]
-Antonyme: [[vernachlässigen]], [[Worter/aufgeben]], [[ignorieren]]
+Antonyme: [[vernachlässigen]], [[aufgeben]], [[ignorieren]]
 
 ---
 Übersetzung: to practice, to train

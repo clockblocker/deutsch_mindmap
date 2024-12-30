@@ -1,4 +1,4 @@
-[[Worter/über]][[setzen]]
+[[über]][[setzen]]
 
 Er übersetzt den Text
  traslate

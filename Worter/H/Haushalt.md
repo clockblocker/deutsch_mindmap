@@ -1,8 +1,8 @@
-🔵 der [[Worter/Haushalt]]
+🔵 der [[Haushalt]]
 die [[Haushalte]]
 
 ---
-Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Worter/Haushalt]] [[kümmern]] muss.
+Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Haushalt]] [[kümmern]] muss.
 
 
 ---
@@ -17,10 +17,10 @@ household, domestic economy
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Worter/Haushalt]], die [[Haushalte]]  
-Accusative: den [[Worter/Haushalt]], die [[Haushalte]]  
+Nominative: der [[Haushalt]], die [[Haushalte]]  
+Accusative: den [[Haushalt]], die [[Haushalte]]  
 Genitive: des [[Haushalts]] / [[Haushaltes]], der [[Haushalte]]  
-Dative: dem [[Worter/Haushalt]], den [[Haushalten]] 
+Dative: dem [[Haushalt]], den [[Haushalten]] 
 
 ---
 [[haushalten]], [[haushälterisch]], [[Haushaltsplan]], [[Haushaltsposten]], [[Haushaltsgerät]]

@@ -11,7 +11,7 @@ Euer Vater, Großvater und Urgroßvater, alle haben es [[versucht]] und alle
 
 ---
 Synonyme: [[probieren]], [[wagen]], [[unternehmen]], [[anstreben]], [[wollen]]
-Antonyme: [[Worter/aufgeben]], [[lassen]], [[unterlassen]], [[meiden]], [[vermeiden]]
+Antonyme: [[aufgeben]], [[lassen]], [[unterlassen]], [[meiden]], [[vermeiden]]
 
 ---
 Übersetzung: to try, to attempt

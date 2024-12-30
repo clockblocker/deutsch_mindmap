@@ -1,7 +1,7 @@
 🛠️ [[bohren]], [ˈboːrən] | [[bohrte]], haben [[gebohrt]]
 
 ---
-„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Worter/Rückwand]] [[bohren]]. 
+„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Rückwand]] [[bohren]]. 
 
 ---
 Synonyme: [[durchbohren]], [[durchstechen]], [[durchdringen]], [[perforieren]], [[löchern]]

@@ -1,8 +1,8 @@
-🔵 der [[Worter/Steuer]]
+🔵 der [[Steuer]]
 die [[Steuern]]
 
 ---
-Die junge Frau am [[Worter/Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren 1]]!“ 
+Die junge Frau am [[Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren 1]]!“ 
 
 
 ---
@@ -13,13 +13,13 @@ Synonyme:
 tax
 
 ---
-[[Worter/Steuer]]
+[[Steuer]]
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Worter/Steuer]], die [[Steuern]]  
-Accusative: den [[Worter/Steuer]], die [[Steuern]]  
+Nominative: der [[Steuer]], die [[Steuern]]  
+Accusative: den [[Steuer]], die [[Steuern]]  
 Genitive: des [[Steuers]], der [[Steuern]]  
-Dative: dem [[Worter/Steuer]], den [[Steuern]] 
+Dative: dem [[Steuer]], den [[Steuern]] 
 
 steuern, steuerlich, steuerbar, Steuererklärung, Steuerberater

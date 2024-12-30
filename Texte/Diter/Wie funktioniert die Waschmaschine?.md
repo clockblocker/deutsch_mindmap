@@ -9,7 +9,7 @@
 [[Hauptschalter]] [[einschalten]].
 3. [[Wasserhahn]] [[aufdrehen]].
 4. [[Ablaufschlauch]] in einen [[Ausguss]] [[einhängen]].
-5. [[Worter/Außentür]] und [[Innentür]] öffnen.
+5. [[außentür]] und [[Innentür]] öffnen.
 6. Wäsche [[locker]] und [[trocken]] [[einfüllen]].
 • Bei Feinwäsche [[weniger]] als normal [[einfüllen]].
 7. Erste die Innentür, dann die Außentür schließen.

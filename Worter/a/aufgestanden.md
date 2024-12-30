@@ -1,1 +1,1 @@
-, [[Worter/aufstehen]], [[anhören 1]]
+, [[aufstehen]], [[anhören 1]]

@@ -19,7 +19,7 @@ Synonyme:
 ---
 
 Morphems:
-[[verrückt]][[Worter/e]]
+[[verrückt]][[e]]
 
 ---
 #Substantiv #Maskulin

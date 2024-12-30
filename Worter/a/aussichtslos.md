@@ -21,7 +21,7 @@ hopeless, without prospects
 
 ---
 Morpheme:
-[[Worter/A/aus]][[sicht]][[los]]
+[[aus]][[sicht]][[los]]
 
 ---
 

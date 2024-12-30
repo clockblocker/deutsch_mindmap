@@ -1,1 +1,1 @@
-, [[Mehrheit]], [[Frechheit]], [[Wahrheit]], [[Sicherheit]], [[Staatssicherheit]], [[Weisheit]], [[Worter/Schönheit]]
+, [[Mehrheit]], [[Frechheit]], [[Wahrheit]], [[Sicherheit]], [[Staatssicherheit]], [[Weisheit]], [[Schönheit]]

@@ -1,8 +1,8 @@
-🔵 der [[Worter/Schweiß]], [ˈʃvaɪ̯s]
+🔵 der [[Schweiß]], [ˈʃvaɪ̯s]
 die [[Schweißen]]
 
 ---
-Jonas [[wischt]] sich den [[Worter/Schweiß]] von der [[Worter/Stirn]]. Er [[zittert]] am ganzen Körper. Seine Schauspielkollegin Lisa kommt zu ihm. 
+Jonas [[wischt]] sich den [[Schweiß]] von der [[Stirn]]. Er [[zittert]] am ganzen Körper. Seine Schauspielkollegin Lisa kommt zu ihm. 
 
 
 ---
@@ -13,14 +13,14 @@ Synonyme:
 sweat
 
 ---
-[[Worter/Schweiß]]
+[[Schweiß]]
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Worter/Schweiß]], die [[Schweißen]]  
-Accusative: den [[Worter/Schweiß]], die [[Schweißen]]  
+Nominative: der [[Schweiß]], die [[Schweißen]]  
+Accusative: den [[Schweiß]], die [[Schweißen]]  
 Genitive: des [[Schweißes]], der [[Schweißen]]  
-Dative: dem [[Worter/Schweiß]], den [[Schweißen]] 
+Dative: dem [[Schweiß]], den [[Schweißen]] 
 
 ---
 [[schwitzen]], [[schweißig]], [[schweißtreibend]], [[verschweißen]]

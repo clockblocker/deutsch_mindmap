@@ -3,7 +3,7 @@ die [[Innentüren]]
 
 
 ---
-5. [[Worter/Außentür]] und [[Innentür]] öffnen.
+5. [[außentür]] und [[Innentür]] öffnen.
 
 
 ---

@@ -17,7 +17,7 @@ Synonyme:
 ---
 
 Morphems:
-[[Has]][[Worter/e]]
+[[Has]][[e]]
 
 ---
 #Substantiv #Maskulin

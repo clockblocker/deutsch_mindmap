@@ -8,7 +8,7 @@ Aang findet [[jedoch]] ein Loch in der Decke.
 ---
 
 Synonyme:
-- [[Worter/A/aber]], [[doch]], [[dennoch]]
+- [[aber]], [[doch]], [[dennoch]]
 
 ---
 

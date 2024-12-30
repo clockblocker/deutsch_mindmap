@@ -1,8 +1,8 @@
-🔵 der [[Worter/Rückwand]]
+🔵 der [[Rückwand]]
 die [[Rückwände]]
 
 ---
-„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Worter/Rückwand]] [[bohren]]. 
+„Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Rückwand]] [[bohren]]. 
 
 
 ---
@@ -17,9 +17,9 @@ back wall, rear wall
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Worter/Rückwand]], die [[Rückwände]]  
-Accusative: die [[Worter/Rückwand]], die [[Rückwände]]  
-Genitive: der [[Worter/Rückwand]], der [[Rückwände]]  
-Dative: der [[Worter/Rückwand]], den [[Rückwänden]] 
+Nominative: der [[Rückwand]], die [[Rückwände]]  
+Accusative: die [[Rückwand]], die [[Rückwände]]  
+Genitive: der [[Rückwand]], der [[Rückwände]]  
+Dative: der [[Rückwand]], den [[Rückwänden]] 
 
 [[rückwärtig]], [[Rückwandbeleuchtung]]

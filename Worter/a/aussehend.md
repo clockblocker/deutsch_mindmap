@@ -46,6 +46,6 @@ Tags:
 
 ---
 Morphems:
-[[Worter/A/aus]][[sehend]]
+[[aus]][[sehend]]
 
 [[aussehen]]

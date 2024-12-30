@@ -1,3 +1,3 @@
 18
 
-[[Worter/Z/Zahlwörter/Acht]][[Zehn]]
+[[Z/Zahlwörter/Acht]][[Zehn]]

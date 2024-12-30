@@ -1,7 +1,7 @@
 🚦 [[überfahren 1]] | [[überfuhr|überfuhr]], haben [[überfahren 1]]
 
 ---
-Die junge Frau am [[Worter/Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren 1]]!“ 
+Die junge Frau am [[Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren 1]]!“ 
 
 ---
 Synonyme: [[überrollen]], [[niederstoßen]], [[rammen]], [[anfahren]]
@@ -11,7 +11,7 @@ Antonyme: [[ausweichen]], [[stoppen]], [[bremsen]]
 to run over, to drive over
 
 ---
-[[Worter/über]][[fahr]][[en]]
+[[über]][[fahr]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[überfahrend]],
 Partizip II: [[überfahren 1]]
 Zu+infinifive: [[überfahren 1]]
 
-[[überfahren 1]] - [[Worter/über]] = [[fahren]] / to run over,
+[[überfahren 1]] - [[über]] = [[fahren]] / to run over,
 
 ---
 [[Überfahrt]], [[überfahren 1]], [[Überfahrung]], [[Unfallstelle]], [[Verkehrsunfall]]

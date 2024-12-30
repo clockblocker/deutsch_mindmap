@@ -15,13 +15,13 @@ Synonyme:
 
 Beispiele:
 
-- Ich [[stelle]] den Wecker [[Worter/ein]].
-- Du [[stellst]] die Lautstärke [[Worter/ein]].
-- Er [[stellt]] die Maschine [[Worter/ein]].
-- Es [[stellt]] sich [[Worter/ein]] nach einiger Zeit.
-- Wir [[stellen]] das Radio [[Worter/ein]].
-- Ihr [[stellt]] die Parameter [[Worter/ein]].
-- Sie [[stellen]] die Uhr [[Worter/ein]].
+- Ich [[stelle]] den Wecker [[ein]].
+- Du [[stellst]] die Lautstärke [[ein]].
+- Er [[stellt]] die Maschine [[ein]].
+- Es [[stellt]] sich [[ein]] nach einiger Zeit.
+- Wir [[stellen]] das Radio [[ein]].
+- Ihr [[stellt]] die Parameter [[ein]].
+- Sie [[stellen]] die Uhr [[ein]].
 
 ---
 **Übersetzung**: to adjust, to set, to regulate
@@ -29,7 +29,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[Worter/ein]][[stellen]]
+[[ein]][[stellen]]
 
 ---
 Tags: 
@@ -39,13 +39,13 @@ Tags:
 
 Präteritum:
 
-- Ich [[stellte ein|stellte]] den Wecker [[Worter/ein]].
-- Du [[stelltest ein|stelltest]] die Lautstärke [[Worter/ein]].
-- Er [[stellte ein|stellte]] die Maschine [[Worter/ein]].
-- Es [[stellte ein|stellte]] sich [[Worter/ein]] nach einiger Zeit.
-- Wir [[stellten ein|stellten]] das Radio [[Worter/ein]].
-- Ihr [[stelltet ein|stelltet]] die Parameter [[Worter/ein]].
-- Sie [[stellten ein|stellten]] die Uhr [[Worter/ein]].
+- Ich [[stellte ein|stellte]] den Wecker [[ein]].
+- Du [[stelltest ein|stelltest]] die Lautstärke [[ein]].
+- Er [[stellte ein|stellte]] die Maschine [[ein]].
+- Es [[stellte ein|stellte]] sich [[ein]] nach einiger Zeit.
+- Wir [[stellten ein|stellten]] das Radio [[ein]].
+- Ihr [[stelltet ein|stelltet]] die Parameter [[ein]].
+- Sie [[stellten ein|stellten]] die Uhr [[ein]].
 
 ---
 
@@ -71,9 +71,9 @@ Konjunktiv I:
 
 Konjunktiv II:
 
-- Wenn ich den Wecker richtig [[Worter/ein]]stellen müsste, [[stellte ein|stellte]] ich ihn [[Worter/ein]].
-- Wenn du die Lautstärke ändern müsstest, [[stelltest ein|stelltest]] du sie [[Worter/ein]].
-- Wenn er hier wäre, [[stellte ein|stellte]] er die Maschine [[Worter/ein]].
-- Wenn wir das Radio [[Worter/ein]]stellen könnten, [[stellten ein|stellten]] wir es [[Worter/ein]].
-- Wenn ihr die Parameter korrigieren wolltet, [[stelltet ein|stelltet]] ihr sie [[Worter/ein]].
-- Wenn sie die Uhr richten müssten, [[stellten ein|stellten]] sie sie [[Worter/ein]]., [[losschießen]], [[unterbrechen]], [[Worter/aufgeben]], [[feuern]]
+- Wenn ich den Wecker richtig [[ein]]stellen müsste, [[stellte ein|stellte]] ich ihn [[ein]].
+- Wenn du die Lautstärke ändern müsstest, [[stelltest ein|stelltest]] du sie [[ein]].
+- Wenn er hier wäre, [[stellte ein|stellte]] er die Maschine [[ein]].
+- Wenn wir das Radio [[ein]]stellen könnten, [[stellten ein|stellten]] wir es [[ein]].
+- Wenn ihr die Parameter korrigieren wolltet, [[stelltet ein|stelltet]] ihr sie [[ein]].
+- Wenn sie die Uhr richten müssten, [[stellten ein|stellten]] sie sie [[ein]]., [[losschießen]], [[unterbrechen]], [[aufgeben]], [[feuern]]

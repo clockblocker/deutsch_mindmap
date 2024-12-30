@@ -8,7 +8,7 @@ Miau! Mio! Miau! Mio!
 
 ---
 Synonyme: [[entsorgen]], [[loswerden]], [[ausmustern]], [[beseitigen]], [[eliminieren]]
-Antonyme: [[Worter/aufheben]], [[sammeln]], [[behalten]], [[lagern]], [[aufbewahren]]
+Antonyme: [[aufheben]], [[sammeln]], [[behalten]], [[lagern]], [[aufbewahren]]
 
 ---
 Übersetzung: to throw away, to discard

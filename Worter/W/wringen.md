@@ -3,7 +3,7 @@
 haben [[gewrungen]]
 
 ---
-[[auswringen]] - [[Worter/A/aus]] = [[wringen]]
+[[auswringen]] - [[aus]] = [[wringen]]
 
 
 ---

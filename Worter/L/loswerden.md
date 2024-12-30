@@ -7,11 +7,11 @@ SAM: Sie [[loswerden]]? Wie?
 
 SASCHA: Soll ich sie [[loswerden]], Nic?  
 
-[[Gegen]] das Feuer unter den [[Worter/Fingernägeln]] hilft das aber nicht. Dann sollte man besser sagen, was man schon lange [[loswerden]] wollte. 
+[[Gegen]] das Feuer unter den [[Fingernägeln]] hilft das aber nicht. Dann sollte man besser sagen, was man schon lange [[loswerden]] wollte. 
 
 ---
 Synonyme: [[ablegen]], [[absetzen]], [[abgeben]], [[entledigen]], [[befreien]]
-Antonyme: [[behalten]], [[Worter/aufheben]], [[aufbewahren]], [[aufnehmen]], [[anschaffen]]
+Antonyme: [[behalten]], [[aufheben]], [[aufbewahren]], [[aufnehmen]], [[anschaffen]]
 
 ---
 Übersetzung: to get rid of, to dispose of

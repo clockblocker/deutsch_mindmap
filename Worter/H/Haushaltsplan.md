@@ -1,1 +1,1 @@
-, [[Worter/Haushalt]], [[Putzplan]]
+, [[Haushalt]], [[Putzplan]]

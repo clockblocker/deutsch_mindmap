@@ -17,7 +17,7 @@ ahead, in front, forward
 
 ---
 Morpheme:
-[[vor]] [[Worter/A/aus]]
+[[vor]] [[aus]]
 
 ---
 , [[hinterdrein]]

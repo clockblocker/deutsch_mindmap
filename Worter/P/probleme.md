@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Problem]][[Worter/e]]
+[[Problem]][[e]]
 
 ---
 #Substantiv #Neuter, [[Freigabeprobleme]]

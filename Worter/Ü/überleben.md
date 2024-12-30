@@ -1,1 +1,1 @@
-, [[leben]], [[eingehen 1]]
+, [[leben]], [[eingehen]]

@@ -1,1 +1,1 @@
-, [[wünschen]], [[Worter/entgegenfiebern]]
+, [[wünschen]], [[entgegenfiebern]]

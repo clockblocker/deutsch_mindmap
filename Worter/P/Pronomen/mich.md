@@ -1,4 +1,4 @@
-[[Akkusativ]] [[Worter/Konjunktion/für]] [[Ich]]
+[[Akkusativ]] [[Konjunktion/für]] [[Ich]]
 
 [[Du hast]] mich  
 

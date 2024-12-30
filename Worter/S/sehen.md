@@ -5,11 +5,11 @@
 ---
 [[anderessehen]] - [[anders]] = [[sehen]] /  to see differently, to view from another perspective
 [[ansehen]] - [[an 1]] = [[sehen]]                  / to look at, to view, to see
-[[aussehen]] - [[Worter/A/aus]] = [[sehen]]              / to look, to appear
+[[aussehen]] - [[aus]] = [[sehen]]              / to look, to appear
 [[sehen lassen]] = [[sehen]] + [[lassen]]  / to show oneself, to demonstrate
 [[umsehen]] - [[um]] = [[sehen]]               / to look around, to survey
 [[wiedersehen]] - [[wieder]] = [[sehen]]   / to see again, to meet again
-[[aufsehen]] - [[Worter/auf]] = [[sehen]]                / to look up, to notice
+[[aufsehen]] - [[auf]] = [[sehen]]                / to look up, to notice
 
 
 ---

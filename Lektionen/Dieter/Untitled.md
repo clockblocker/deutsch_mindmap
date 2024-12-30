@@ -17,7 +17,7 @@ Der bus fährt an
 Ich trinke das Wasser aus
 Ich esse das Brot auf
 
-Ich mache die Tür [[Worter/auf]]
+Ich mache die Tür [[auf]]
 Ich mache die Tür [[zu]]
 
 

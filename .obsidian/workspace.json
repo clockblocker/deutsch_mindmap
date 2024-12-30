@@ -13,12 +13,152 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Brüder Grimm/Aschenputtel.md",
+                "file": "Texte/b2 Das sagt man so!/Leben wie Gott in Frankreich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aschenputtel"
+              "title": "Leben wie Gott in Frankreich"
+            }
+          },
+          {
+            "id": "bf1033b39aa2fb3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/gutgehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gutgehen"
+            }
+          },
+          {
+            "id": "22828f67a37e6589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/gehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gehen"
+            }
+          },
+          {
+            "id": "0e99146f4d7f0dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Tüchlein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tüchlein"
+            }
+          },
+          {
+            "id": "3927a4e5a0656d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/verscheiden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verscheiden"
+            }
+          },
+          {
+            "id": "7f1be697e4e16412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Töchterchen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Töchterchen"
+            }
+          },
+          {
+            "id": "6d7fd1c09a125ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/T/Töchterlein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Töchterlein"
+            }
+          },
+          {
+            "id": "b0deb8ae850f1b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/L/Lieblingslands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lieblingslands"
+            }
+          },
+          {
+            "id": "288598c8773f4d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Lieblingsland.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lieblingsland"
+            }
+          },
+          {
+            "id": "bedd292f9e8fd32d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Lieblingsland.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lieblingsland"
+            }
+          },
+          {
+            "id": "bf8bf4e70b61859e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/M/manchmal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "manchmal"
             }
           },
           {
@@ -236,33 +376,32 @@
   },
   "active": "e7bad68ef2538fd5",
   "lastOpenFiles": [
-    "Texte/b2 Das sagt man so!/Alles unter einen Hut bringen.md",
-    "Texte/Brüder Grimm/Der Zaunkönig.md",
-    "Texte/Brüder Grimm/Schneewittchen.md",
-    "Texte/Brüder Grimm/Rotkäppchen.md",
-    "Texte/Brüder Grimm/Hänsel und Gretel.md",
-    "Texte/Brüder Grimm/Die Bremer Stadtmusikanten.md",
-    "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-    "Texte/Brüder Grimm/Aschenputtel.md",
-    "Worter/S/Stiefel.md",
-    "Texte/b2 Das sagt man so!/Alle.md",
-    "Texte/Untitled 1.md",
+    "Worter/gutgehen.md",
+    "Worter/G/gehen.md",
+    "Worter/E/eingehen.md",
+    "Worter/ein.md",
+    "Worter/W/Wohlergehen.md",
+    "Worter/G/gutgehend.md",
+    "Worter/G/ginget gut.md",
+    "Worter/G/gehet gut.md",
+    "Worter/G/gingt gut.md",
+    "Worter/G/gingen gut.md",
+    "Worter/G/gehen gut.md",
+    "Worter/G/geht gut.md",
+    "Worter/G/gingest gut.md",
+    "Worter/G/gehest gut.md",
+    "Worter/G/geh gut.md",
+    "Worter/G/gingst gut.md",
+    "Worter/G/gehst gut.md",
+    "Worter/G/ginge gut.md",
+    "Worter/G/gehe gut.md",
+    "Worter/M/misslungen.md",
+    "Worter/S/schiefgehen.md",
+    "Worter/E/erfolgreich sein.md",
+    "Worter/P/prosperieren.md",
+    "Worter/G/gut gegangen.md",
+    "Worter/G/ging gut.md",
     "Texte/Brüder Grimm",
-    "Texte/b2 Das sagt man so!/Leben wie Gott in Frankreich.md",
-    "Worter/N/neidisch.md",
-    "Worter/M/mindestens.md",
-    "Worter/M/Märchenbuch.md",
-    "Worter/M/Märchen.md",
-    "Worter/M/Märchens.md",
-    "Worter/M/Mär.md",
-    "Worter/L/Legende.md",
-    "Worter/F/Fabel.md",
-    "Worter/M/Mythos.md",
-    "Worter/B/buchmäßig.md",
-    "Worter/M/märchenhaft.md",
-    "Worter/M/Märchenbüchern.md",
-    "Worter/M/Märchenbuchs.md",
-    "Worter/M/Märchensammlung.md",
     "Lektionen/Kamanova/Audio/L-07.mp3",
     "Lektionen/Kamanova/Audio/L-05.mp3",
     "Lektionen/Kamanova/Audio/L-11.mp3",

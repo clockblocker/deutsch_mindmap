@@ -27,4 +27,4 @@ Tags:
 ---
 
 Morphems:
-[[Wo]][[Worter/Konjunktion/für]]
+[[Wo]][[Konjunktion/für]]

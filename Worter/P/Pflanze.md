@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Pflanz]][[Worter/e]]
+[[Pflanz]][[e]]
 
 ---
 #Substantiv #Feminin, [[Baum]]

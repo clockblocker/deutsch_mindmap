@@ -1,1 +1,1 @@
-[[rufen]] 
+[[rufen]] , [[reich]], [[herankam]]

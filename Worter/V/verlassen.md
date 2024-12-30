@@ -12,7 +12,7 @@ Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. J
 
 
 ---
-Synonyme: [[Worter/aufgeben]], [[zurücklassen]], [[loslassen]], [[abhauen]], [[weggehen]],[[scheiden]]
+Synonyme: [[aufgeben]], [[zurücklassen]], [[loslassen]], [[abhauen]], [[weggehen]],[[scheiden]]
 Antonyme: [[bleiben]], [[begleiten]], [[folgen]], [[unterstützen]], [[helfen]]
 
 ---
@@ -36,4 +36,4 @@ Morpheme: [[ver]][[lass]][[en]]
 
 Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 
-[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]], [[eintreten]], [[Worter/einparken]], [[verbringen]]
+[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]], [[eintreten]], [[Worterparken]], [[verbringen]]

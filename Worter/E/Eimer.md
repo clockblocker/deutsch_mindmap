@@ -1,8 +1,8 @@
-🔵 der [[Worter/Eimer]]
-die [[Worter/Eimer]]
+🔵 der [[Eimer]]
+die [[Eimer]]
 
 ---
- Wenn etwas brennt, kann man die [[Worter/Feuerwehr]] rufen oder einen [[Worter/Eimer]] Wasser holen. 
+ Wenn etwas brennt, kann man die [[Feuerwehr]] rufen oder einen [[Eimer]] Wasser holen. 
 
 
 ---
@@ -17,8 +17,8 @@ bucket, pail
 
 ---
 Case: Singular, Plural  
-Nominative: der [[Worter/Eimer]], die [[Worter/Eimer]]  
-Accusative: den [[Worter/Eimer]], die [[Worter/Eimer]]  
-Genitive: des [[Eimers]], der [[Worter/Eimer]]  
-Dative: dem [[Worter/Eimer]], den [[Eimern]] 
+Nominative: der [[Eimer]], die [[Eimer]]  
+Accusative: den [[Eimer]], die [[Eimer]]  
+Genitive: des [[Eimers]], der [[Eimer]]  
+Dative: dem [[Eimer]], den [[Eimern]] 
 

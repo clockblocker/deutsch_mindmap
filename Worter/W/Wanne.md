@@ -1,1 +1,1 @@
-, [[Becken]], [[Worter/Eimer]]
+, [[Becken]], [[Eimer]]

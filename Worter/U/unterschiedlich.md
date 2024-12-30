@@ -2,7 +2,7 @@
 nicht [[gleich]]
 
 ---
-Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[Worter/unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]. 
+Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]. 
 
 ---
 Synonyme: [[verschieden]], [[anders]], [[ungleich]], [[divergent]], [[abweichend]]
@@ -18,12 +18,12 @@ different, diverse, varied
 
 Form: Positive, Comparative, Superlative  
 Nominative: [[unterschiedlich]], [[unterschiedlicher]], [[unterschiedlichster]]  
-Accusative: [[Worter/unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]  
+Accusative: [[unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]  
 Genitive: [[unterschiedlicher]], [[unterschiedlicherer]], [[unterschiedlichster]]  
 Dative: [[unterschiedlichem]], [[unterschiedlicherem]], [[unterschiedlichstem]]  
 Feminine: [[unterschiedliche]], [[unterschiedlichere]], [[unterschiedlichste]]  
 Neuter: [[unterschiedliches]], [[unterschiedlicheres]], [[unterschiedlichstes]]  
-Plural: [[Worter/unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]  
+Plural: [[unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]  
 
 [[Unterschiedlichkeit]], [[unterschiedlich]], [[unterschiedlich sein]]
 [[andere]][[anders]], [[verschiedene]], [[gleich]], [[auseinander]], [[solche]], [[dieselbe]]

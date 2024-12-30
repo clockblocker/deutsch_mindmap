@@ -13,7 +13,7 @@ Sam, ich hab' super Nachrichten für dich – Kanal 9 [[sucht]] ein R
 
 ---
 [[versuchen]] - [[ver]] = [[suchen]]
-[[aussuchen]] - [[Worter/A/aus]] = [[suchen]]  / to choose, to select
+[[aussuchen]] - [[aus]] = [[suchen]]  / to choose, to select
 [[absuchen]] - [[ab]] =  [[suchen]]     / to search thoroughly
 
 [[Ordnung]]
@@ -21,7 +21,7 @@ Sam, ich hab' super Nachrichten für dich – Kanal 9 [[sucht]] ein R
 
 ---
 Synonyme: [[finden]], [[erforschen]], [[erkunden]], [[durchkämmen]], [[durchstöbern]]
-Antonyme: [[verlieren]], [[Worter/aufgeben]], [[vermeiden]], [[ignorieren]]
+Antonyme: [[verlieren]], [[aufgeben]], [[vermeiden]], [[ignorieren]]
 
 ---
 Übersetzung: to search, to look for
@@ -44,5 +44,5 @@ Morpheme: [[such]][[en]]
 Partizip I: [[suchend]], Partizip II: [[gesucht]]
 
 
-+[[Worter/A/aus]] = [[aussuchen]]
++[[aus]] = [[aussuchen]]
 , [[versuchen]]

@@ -6,7 +6,7 @@ haben [[gebreitet]]
 
 
 ---
-[[ausbreiten]] - [[Worter/A/aus]] = [[breiten]]
+[[ausbreiten]] - [[aus]] = [[breiten]]
 
 
 ---

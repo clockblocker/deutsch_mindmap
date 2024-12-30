@@ -1,5 +1,5 @@
 
-[[Worter/Alle]] meine [[Entchen]],
+[[alle]] meine [[Entchen]],
 schwimmen auf dem See,
 schwimmen auf dem [[See]],
 [[Köpfchen]] in das [[Wasser]],

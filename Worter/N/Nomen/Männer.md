@@ -1,5 +1,5 @@
 Singular: der [[Mann]]
-Plural: die [[Worter/Nomen/Männer]]
+Plural: die [[Nomen/Männer]]
 
 
 Beispiele:

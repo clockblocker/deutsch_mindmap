@@ -7,6 +7,7 @@ sein [[gekommen]]
 
 ---
 [[vorbeikommen]] - [[vorbei]] = [[kommen]]
+[[herankommen]] - [[her]] + [[an]] = [[kommen]]
 
 
 ---
@@ -34,4 +35,4 @@ Morpheme: [[komm]][[en]]
 Partizip I: [[kommend]], Partizip II: [[gekommen]]
 
 [[weggehen]], [[ausreißen]], [[dorthin]], [[näherkommen]]
-, [[vorbeikommen]], [[zurechtkommen]]
+, [[vorbeikommen]], [[zurechtkommen]], [[herankam]]

@@ -1,7 +1,7 @@
-🅿️[[Worter/einparken]] | [[parkte ein|parkte ein]], haben [[eingeparkt]]
+🅿️[[Worterparken]] | [[parkte ein|parkte ein]], haben [[eingeparkt]]
 
 ---
-Und was ist, wenn sie zu nervös ist, um richtig [[Worter/einzuparken]]? 
+Und was ist, wenn sie zu nervös ist, um richtig [[Worterzuparken]]? 
 
 ---
 Synonyme: [[parken]], [[abstellen]], [[geparkt]], [[parkieren]]
@@ -11,7 +11,7 @@ Antonyme: [[ausparken]], [[wegfahren]], [[verlassen]]
 to park (a vehicle)
 
 ---
-[[Worter/ein]][[park]][[en]]
+[[ein]][[park]][[en]]
  
 ---
 
@@ -24,9 +24,9 @@ Ihr: [[parkt ein]], [[parktet ein]], [[parkt ein]], [[parket ein]], [[parktet ei
 
 Partizip I: [[einparkend]], 
 Partizip II: [[eingeparkt]]
-Zu+infinifive: [[Worter/einzuparken]]
+Zu+infinifive: [[Worterzuparken]]
 
-[[Worter/einparken]] - [[Worter/ein]] = [[parken]]
+[[Worterparken]] - [[ein]] = [[parken]]
 
 ---
-[[Worter/einparken]], [[Einparkhilfe]], [[Parkvorgang]], [[Parkplatz]], [[Parkbucht]]
+[[Worterparken]], [[Einparkhilfe]], [[Parkvorgang]], [[Parkplatz]], [[Parkbucht]]

@@ -1,2 +1,2 @@
 [[verkaufen]]
-, [[Worter/ausverkauft]]
+, [[ausverkauft]]

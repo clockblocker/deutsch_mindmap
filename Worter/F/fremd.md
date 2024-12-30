@@ -4,7 +4,7 @@ nicht [[vertraut]], nicht [[bekannt]]
 ---
 Emils Mutter goß die Kamillenseife in das blonde Haar und begann, den [[fremden]] Kopf zu waschen, daß es schäumte.
 
-Er ist sogar aufgeregt, wenn er an [[Worter/Weihnachten]] seinen Großeltern ein [[Worter/Gedicht]] [[Worter/aufsagt]]. Und jetzt soll er vor hunderten [[fremden]] Leuten eine Stunde lang auf der Bühne stehen? 
+Er ist sogar aufgeregt, wenn er an [[Weihnachten]] seinen Großeltern ein [[Gedicht]] [[aufsagt]]. Und jetzt soll er vor hunderten [[fremden]] Leuten eine Stunde lang auf der Bühne stehen? 
 
 ---
 Synonyme: 

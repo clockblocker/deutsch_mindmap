@@ -4,7 +4,7 @@ haben [[ausgelacht]]
 
 ---
 *Das Häschen sitzt im Blätterhaus*  
-*und [[lacht]] den wilden Jäger [[Worter/A/aus]].
+*und [[lacht]] den wilden Jäger [[aus]].
 
 ---
 Synonyme: [[verspotten]], [[verlachen]], [[auslachen]], [[verhöhnen]], [[necken]]
@@ -14,7 +14,7 @@ Antonyme: [[bewundern]], [[loben]], [[unterstützen]], [[wertschätzen]]
 Übersetzung: to laugh at, to mock
 
 ---
-Morpheme: [[Worter/A/aus]][[lach]][[en]]
+Morpheme: [[aus]][[lach]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[Worter/A/aus]][[lach]][[en]]
 
 Partizip I: [[auslachend]], Partizip II: [[ausgelacht]]
 
-[[auslachen]] - [[Worter/A/aus]] = [[lachen]]
+[[auslachen]] - [[aus]] = [[lachen]]

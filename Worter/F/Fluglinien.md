@@ -17,7 +17,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Flug]][[linie]][[Worter/n]]
+[[Flug]][[linie]][[n]]
 
 ---
 Einzigartige mögliche Formen: [[Fluglinien]], [[Fluglinies]], [[Fluglinien]], [[Fluglinien]]

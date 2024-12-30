@@ -1,1 +1,1 @@
-, [[Einsicht]], [[Worter/verständnislos]]
+, [[Einsicht]], [[verständnislos]]

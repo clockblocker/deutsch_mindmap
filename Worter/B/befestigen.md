@@ -1,1 +1,1 @@
-, [[festziehen]], [[einhängen]], [[reißen]], [[hängen]], [[festkleben]], [[kleben]], [[aufhängen]], [[schnallen]], [[Bestecken]], [[binden]], [[Worter/zusammenschrauben]]
+, [[festziehen]], [[einhängen]], [[reißen]], [[hängen]], [[festkleben]], [[kleben]], [[aufhängen]], [[schnallen]], [[Bestecken]], [[binden]], [[zusammenschrauben]]
