@@ -1,1 +1,1 @@
-, [[Schüler]], [[Studierender]]
+, [[Schüler]], [[Studierender]], [[studieren]]

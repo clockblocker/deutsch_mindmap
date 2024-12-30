@@ -1,1 +1,1 @@
-[[hinaus]], [[draußen]], [[außerhalb]]
+[[hinaus]], [[draußen]], [[außerhalb]], [[innerhalb]]

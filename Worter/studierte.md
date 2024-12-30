@@ -1,0 +1,1 @@
+🎓 [[studieren]] | 🎓 [[studiert]]

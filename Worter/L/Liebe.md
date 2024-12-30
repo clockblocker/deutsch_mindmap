@@ -32,4 +32,4 @@ Morphems:
 [[Lieb]][[e]]
 
 ---
-#Substantiv #Feminin, [[Liebestanz]]
+#Substantiv #Feminin, [[Liebestanz]], [[Traum]]

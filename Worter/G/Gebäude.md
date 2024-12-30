@@ -1,4 +1,4 @@
 das [[Gebäude]] 
 
 
-building[[Haus]], [[Turm]]
+building[[Haus]], [[Turm]], [[innerhalb]]

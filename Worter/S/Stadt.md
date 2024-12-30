@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Stadt]], [[Städte]], [[Städten]], [[Städten]], [[Städten]], [[Städten]], [[Städten]], [[Städten]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Altstadt]]

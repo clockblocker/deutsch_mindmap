@@ -11,6 +11,9 @@ Mutter Birgit seufzt: „Wie sollen wir all diese [[Wünsche]] unter einen Hut b
 
 Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] erfüllt. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
 
+[[Träume]] und [[Wünsche]] hat jeder. Wenn Menschen zum Beispiel nicht den Traum gehabt hätten, wie die Vögel zu fliegen, wäre das [[Flugzeug]] nie [[erfunden]] worden. Aber manche Träume sollte man nicht um jeden Preis [[verfolgen]].
+
+
 
 ---
 Synonyme:

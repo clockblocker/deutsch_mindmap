@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Vereinigung]], [[Vereinigung]], [[Vereinigung]], [[Vereinigung]], [[Vereinigung]], [[Vereinigung]], [[Vereinigung]], [[Vereinigungen]]
 
 ---
-#Substantiv #Feminin, [[Verein]]
+#Substantiv #Feminin, [[Verein]], [[einigen]]

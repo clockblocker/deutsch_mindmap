@@ -34,4 +34,4 @@ Morpheme: [[los]][[fahr]][[en]]
 
 Partizip I: [[losfahrend]], Partizip II: [[losgefahren]]
 
-[[losfahren]] - [[los]] = [[fahren]]
+[[losfahren]] - [[los]] = [[fahren]], [[anlegen]]

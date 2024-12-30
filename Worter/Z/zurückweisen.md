@@ -1,1 +1,1 @@
-[[aussuchen]], [[bewerben]], [[pflichten]], [[anbieten]], [[ablehnen]]
+[[aussuchen]], [[bewerben]], [[pflichten]], [[anbieten]], [[ablehnen]], [[annehmen]]

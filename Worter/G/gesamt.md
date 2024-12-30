@@ -6,6 +6,8 @@ Aang, das hier ist unser [[gesamtes]] Dorf. Gesamtes Dorf, Aang.
 
 🔴 die [[Gesamtschule]], [gəˈzamtˌʃuːlə]
 
+Leider hatte sie nicht mit der [[Finanzkrise]] [[gerechnet]]. [[Innerhalb]] von wenigen Wochen war ihr [[gesamtes]] [[Vermögen]] auf die Hälfte [[zusammengeschrumpft]]. Laura war [[verzweifelt]]. 
+
 ---
 Synonyme: [[ganz]], [[vollständig]], [[komplett]], [[total]], [[umfassend]], [[ganz]], [[alle]]
 Antonyme: [[teilweise]], [[partiell]], [[fragmentarisch]], [[unvollständig]]

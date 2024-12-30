@@ -5,12 +5,15 @@ Manche Leute lassen sich nicht so [[einfach]] [[überzeugen 1]]. Wenn man erst [
 
 Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[leisten]] und [[genießt]] das Leben. So stellen sich manche Leute das Leben in Frankreich vor. 
 
+Lauras Traum war es schon immer, ein Haus mit Garten zu haben. 20 Jahre lang [[legte an|legte]] sie ihr Geld in Aktien an, um sich ein Haus [[leisten]] zu können. 
+
+
 ---
 Synonyme: [[vollbringen]], [[erbringen]], [[bewerkstelligen]], [[zustande bringen]], [[schaffen]]
 Antonyme: [[versagen]], [[scheitern]], [[aufgeben]], [[misslingen]]
 
 ---
-to accomplish, to perform, to achieve
+позволить, to accomplish, to perform, to achieve
 
 ---
 [[leist]][[en]]
@@ -32,4 +35,4 @@ Zu+infinitive: [[zu leisten]]
 ---
 [[Leistung]], [[Leistungsträger]], [[Leistungsfähigkeit]], [[Leistungssport]], [[Selbstleistung]]
 
-, [[vorstellen]]
+, [[vorstellen]], [[anlegen]]

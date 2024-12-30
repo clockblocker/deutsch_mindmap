@@ -1,1 +1,1 @@
-Der wahre Traum der Liebe, [[wahr]]
+Der wahre Traum der Liebe, [[wahr]], [[Traum]]

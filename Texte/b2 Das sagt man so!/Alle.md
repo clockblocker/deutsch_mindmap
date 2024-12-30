@@ -29,7 +29,7 @@
 - [x] [[Jemandem die Suppe versalzen]]
 - [x] [[Jemandem Honig um den Bart schmieren]]
 - [x] [[Jemandem Löcher in den Bauch fragen]]
-- [ ] [[Jemandem rutscht das Herz in die Hose]] 
+- [x] [[Jemandem rutscht das Herz in die Hose]] 
 - [x] [[Jemanden auf die Palme bringen]]
 - [x] [[Jemanden um den Finger wickeln]] 
 - [x] [[Leben wie Gott in Frankreich]]

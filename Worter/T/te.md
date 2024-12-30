@@ -1,1 +1,1 @@
-, [[Beamte]], [[Doppelte]]
+, [[Beamte]], [[Doppelte]], [[Hälfte]]

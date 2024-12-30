@@ -5,6 +5,8 @@ haben [[verfolgt]]
 ---
 Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war.
 
+[[Träume]] und [[Wünsche]] hat jeder. Wenn Menschen zum Beispiel nicht den Traum gehabt hätten, wie die Vögel zu fliegen, wäre das [[Flugzeug]] nie [[erfunden]] worden. Aber manche Träume sollte man nicht um jeden Preis [[verfolgen]].
+
 ---
 Synonyme: [[nachspüren]], [[jagen]], [[verfolgen]], [[nachgehen]], [[nachsetzen]]
 Antonyme: [[ignorieren]], [[aufgeben]], [[verlassen]]

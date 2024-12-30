@@ -8,7 +8,8 @@ haben [[gelegt]]
  Machen Sie sich frei, [[legen]] Sie sich hin!  
 
 ---
-+[[über]] = 💭 [[überlegen]]
++[[über]] = 💭 [[überlegen]] /  to think over, to consider, to ponder
+[[anlegen]] - [[an]] = [[legen]] / to dock, to put down, to apply, to invest
 
 
 ---

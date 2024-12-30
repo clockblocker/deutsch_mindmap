@@ -1,1 +1,1 @@
-😌 [[gesamt]] | 😌 🟢 das [[Gesamte]]
+😌 [[gesamt]] | 😌 🟢 das [[Gesamte]], [[zusammenschrumpfen]]

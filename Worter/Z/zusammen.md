@@ -1,2 +1,2 @@
 [[miteinander]]
-[[getrennt]][[vereint]][[beide]], [[einzelnen]], [[aneinander]], [[zu zweit]], [[einsam]], [[zusammenrechnen]], [[rechnen]], [[zusammenbrechen]], [[gemeinsam]], [[zusammenstellen]], [[auseinander]], [[entzwei]], [[wider]], [[zusammenschrauben]]
+[[getrennt]][[vereint]][[beide]], [[einzelnen]], [[aneinander]], [[zu zweit]], [[einsam]], [[zusammenrechnen]], [[rechnen]], [[zusammenbrechen]], [[gemeinsam]], [[zusammenstellen]], [[auseinander]], [[entzwei]], [[wider]], [[zusammenschrauben]], [[zusammenschrumpfen]]

@@ -1,8 +1,9 @@
 🕰️ [[bereits]], [bəˈreɪ̯ts]
 
 ---
-Es gibt [[bereits]] zahlreiche Ausstellungen zu den Themen Berliner Mauer oder Staatssicherheit
+Es gibt [[bereits]] [[zahlreiche]] [[Ausstellungen]] zu den Themen Berliner Mauer oder Staatssicherheit
 
+Über die Jahre kam eine schöne Summe zusammen, und Laura [[studierte]] [[bereits]] die Immobilienangebote in der Zeitung und im Internet. 
 
 ---
 Synonyme: [[schon]], [[jetzt]], [[nun]], [[inzwischen]], [[mittlerweile]], [[bald]]

@@ -1,1 +1,1 @@
-[[anhaben]], [[loswerden]], [[tragen]]
+[[anhaben]], [[loswerden]], [[tragen]], [[anlegen]]

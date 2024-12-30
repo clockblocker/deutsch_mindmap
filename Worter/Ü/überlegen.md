@@ -8,7 +8,10 @@ Die Katze [[über]][[legte]] noch, wie sie das [[anstellen]] sollte,
 
 Jetzt [[überlegt]] er: Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand gegenüber vom Fenster? 
 
-– Wir wollen den Hauskauf nicht übers Knie brechen. (Wir wollen nicht überstürzt und [[unüberlegt]] handeln)
+– Wir wollen den Hauskauf nicht übers Knie brechen. (Wir wollen nicht [[überstürzt]] und [[unüberlegt]] handeln)
+
+Da musste Laura nicht lange [[überlegen]]. „Ich möchte dein Angebot [[annehmen]]“, antwortete sie, „denn wenn ich warte, bis ich wieder genug Geld habe, muss auch ich ins Altersheim. Und wie sagt man so schön? Besser den [[Spatz]] in der Hand als die [[Taube]] auf dem [[Dach]].“
+
 
 ---
 Synonyme: [[nachdenken]], [[reflektieren]], [[grübeln]], [[meditieren]], [[sinnen]]

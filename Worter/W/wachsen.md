@@ -1,1 +1,1 @@
-, [[eingehen]]
+, [[eingehen]], [[schrumpfen]], [[zusammenschrumpfen]]

@@ -3,7 +3,9 @@
 haben [[erfunden]]
 
 ---
-Mit ihnen erfand er den Kapitalistischen Realismus
+Mit ihnen [[erfand]] er den Kapitalistischen Realismus
+
+[[Träume]] und [[Wünsche]] hat jeder. Wenn Menschen zum Beispiel nicht den Traum gehabt hätten, wie die Vögel zu fliegen, wäre das [[Flugzeug]] nie [[erfunden]] worden. Aber manche Träume sollte man nicht um jeden Preis [[verfolgen]].
 
 ---
 Synonyme: [[entwickeln]], [[kreieren]], [[entdecken]], [[konzipieren]], [[hervorbringen]]
