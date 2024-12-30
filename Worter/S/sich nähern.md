@@ -1,1 +1,1 @@
-, [[zugehen]], [[rangehen]], [[herankam]]
+, [[zugehen]], [[rangehen]], [[herankam]], [[zukommen]]

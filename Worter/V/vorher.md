@@ -23,4 +23,4 @@ Tags:
 ---
 
 Morphems:
-[[vor]][[her]][[nachher]], [[hinterdrein]], [[bevor]], [[inzwischen]], [[vorhergehen]], [[vorherigen]], [[eher]]
+[[vor]][[her]][[nachher]], [[hinterdrein]], [[bevor]], [[inzwischen]], [[vorhergehen]], [[vorherigen]], [[eher]], [[neulich]]

@@ -3,6 +3,7 @@
 nicht [[zufrieden]]
 
 ---
+„Kanada, mein Lieblingsland!“, denkt Diana und stellt aber sofort etwas [[enttäuscht]] [[fest]]:  „Wenn er aus Kanada ist, bleibt er bestimmt nicht lange in Deutschland … Schade!“ 
 
 
 ---

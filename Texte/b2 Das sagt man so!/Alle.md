@@ -34,7 +34,7 @@
 - [x] [[Jemanden um den Finger wickeln]] 
 - [x] [[Leben wie Gott in Frankreich]]
 - [x] [[Liebe geht durch den Magen]] 
-- [ ] [[Lieber den Spatz in der Hand als die Taube auf dem Dach]] 
+- [x] [[Lieber den Spatz in der Hand als die Taube auf dem Dach]] 
 - [x] [[Mit den Wölfen heulen]] 
 - [x] [[Mit jemandem ist nicht gut Kirschen essen]]
 - [x] [[Schwein haben]]

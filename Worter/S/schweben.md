@@ -3,7 +3,10 @@
 haben [[geschwebt]]
 
 ---
-Warum hast du nicht das Wasser gebändigt und uns schweben lassen?
+Warum hast du nicht das Wasser [[gebändigt]] und uns [[schweben]] lassen?
+
+Der schöne Mann [[losmöchten|möchte]] [[gerade]] los, aber er dreht sich noch ein letztes Mal um: „Vielleicht sehen wir uns wieder?“ „Gerne“, sagt Diana und schreibt ihm ihre Telefonnummer auf. Heute hat er angerufen. [[Seitdem]] [[schwebt]] Diana auf [[Wolke]] sieben. 
+
 
 ---
 Synonyme: [[fliegen]], [[gleiten]], [[segeln]], [[treiben]], [[wehen]], [[fliegen]]
@@ -30,4 +33,4 @@ Morpheme: [[schweb]][[en]]
 
 Partizip I: [[schwebend]], Partizip II: [[geschwebt]]
 
-, [[s1 e1]]
+, [[s1 e1]], [[bändigen]]

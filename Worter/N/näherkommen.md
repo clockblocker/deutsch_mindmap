@@ -31,3 +31,4 @@ Morpheme: [[näher]][[komm]][[en]]
 
 Partizip I: [[näherkommen]], Partizip II: [[näher gekommen]]
 [[näherkommen]] - [[näher]] = [[kommen]]
+, [[zukommen]]

@@ -34,4 +34,4 @@ Partizip I: [[beherrschend]], Partizip II: [[beherrscht]]
 
 [[beherrschen]] - [[be]] = [[herrschen]]
 
-, [[dienen]], [[auskennen]]
+, [[dienen]], [[auskennen]], [[bändigen]]

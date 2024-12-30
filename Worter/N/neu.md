@@ -52,4 +52,4 @@ new
 Tags: 
 #Adjective [[neu]]
 
-nicht [[alt]], [[bekannt]], [[uralte]], [[neugierig]]
+nicht [[alt]], [[bekannt]], [[uralte]], [[neugierig]], [[neulich]]

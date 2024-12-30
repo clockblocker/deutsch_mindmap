@@ -11,7 +11,8 @@ Aber ich glaube [[fest]] daran, Aang kann diese Welt retten.
 
 [[festziehen]],
 
-, [[erstaunlich]], [[verwundern]], [[wundern]]
+„Kanada, mein Lieblingsland!“, denkt Diana und stellt aber sofort etwas [[enttäuscht]] [[fest]]:  „Wenn er aus Kanada ist, bleibt er bestimmt nicht lange in Deutschland … Schade!“ 
+
 
 
 ---
@@ -38,3 +39,6 @@ Einzigartige mögliche Formen:
 [[fest]], [[fester]], [[feste]], [[festes]], [[festen]], [[festem]], [[fester]], [[festen]]
 [[festest]], [[festester]], [[festeste]], [[festestes]], [[festesten]], [[festestem]], [[festester]], [[festesten]]
 , [[steif]], [[flüssigen]], [[s1 e1]], [[feststellen]], [[festsitzen]], [[sitzen]], [[festkleben]], [[kleben]], [[zittern]], [[entschlossen]]
+
+
+, [[erstaunlich]], [[verwundern]], [[wundern]]

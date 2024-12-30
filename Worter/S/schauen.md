@@ -14,6 +14,8 @@ Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[a
 
 Der Löwe [[schaute]] ihn eine Zeit lang an und machte sich dann auf den Weg zu den Giraffen. Glück gehabt! Nächstes Jahr möchte Fred [[unbedingt]] nach London. Den Buckingham Palace wollte er schon immer sehen …
 
+Der schöne Mann bedankt sich für die Hilfe. „Ich lerne gerade Deutsch, weil ich hier leben möchte“, erklärt er. Dann [[schaut]] er auf die Uhr: „Ich muss gehen.“ 
+
 
 ---
 Synonyme: [[blicken]], [[gucken]], [[sehen]], [[anschauen]], [[betrachten]]

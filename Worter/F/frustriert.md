@@ -1,1 +1,1 @@
-, [[zufrieden]]
+, [[zufrieden]], [[enttäuscht]]
