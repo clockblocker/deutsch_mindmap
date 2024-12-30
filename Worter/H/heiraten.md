@@ -7,6 +7,9 @@ Dann [[heiratet]] der Onkel die Mutter
 
 „Ich habe Vanessa einen [[Heiratsantrag]] [[gemacht]]. Und sie hat Ja gesagt“, 
 
+Liegt es wirklich am Essen oder an Adrians braunen Augen? Wer weiß … Auf jeden Fall hat es funktioniert: Emilie und Adrian [[heiraten]] nächstes Wochenende. Und ihr seid herzlich [[eingeladen]].
+
+
 ---
 Synonyme: [[vermählen]], [[ehelichen]], [[trauen]], [[verehelichen]], [[binden]]
 Antonyme: [[scheiden]], [[trennen]], [[verlassen]], [[entzweien]]

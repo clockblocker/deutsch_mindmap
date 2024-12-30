@@ -19,6 +19,6 @@ Case: Singular, Plural
 Nominative: der [[Löffel]], die [[Löffel]]  
 Accusative: den [[Löffel]], die [[Löffel]]  
 Genitive: des [[Löffels]], der [[Löffel]]  
-Dative: dem [[Löffel]], den [[Löffeln]] 
+Dative: dem [[Löffel]], den [[löffeln]] 
 
 löffeln, löffelartig

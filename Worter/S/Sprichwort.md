@@ -4,6 +4,8 @@ die [[Sprichwörter]]
 ---
 Das sagt auch ein deutsches [[Sprichwort]].
 
+Woher kommt die [[Liebe]], wohin geht die Liebe? Das ist ein großes [[Geheimnis]]. Wenn man aber einem [[Sprichwort]] glaubt, dann hat die Liebe ganz viel mit einem Organ zu tun, das wir normalerweise nicht romantisch finden.
+
 ---
 Synonyme:
 - [[Redewendung]], [[Redensart]], [[Spruch]], [[Volksspruch]], [[Weisheit]]
@@ -23,4 +25,4 @@ Dative: dem [[Sprichwort]], den [[Sprichwörtern]]
 
 ---
 , [[Redensart]]
-[[sprichwörtlich]], [[sprechen]]
+[[sprichwörtlich]], [[sprechen]], [[Geheimnis]]

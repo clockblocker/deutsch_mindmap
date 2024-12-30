@@ -7,6 +7,10 @@ Und meine Schwester Martha hat uns schon immer mal [[einladen]] wollen.
 
 die [[Einladung]]
 
+Also [[lädt]] Adrian Emilie zum Essen [[ein]]. Es gibt Spaghetti mit leckerer Soße und selbst [[gemachtes]] Eis. [[Während]] die beiden am Tisch sitzen und das Eis [[löffeln]], schaut Adrian Emilie tief in die Augen und sie stellt fest: Ich hab diesen Mann zum [[fressen]] gern. 
+
+Liegt es wirklich am Essen oder an Adrians braunen Augen? Wer weiß … Auf jeden Fall hat es funktioniert: Emilie und Adrian [[heiraten]] nächstes Wochenende. Und ihr seid herzlich [[eingeladen]].
+
 ---
 Synonyme: [[bitten]], [[auffordern]], [[bestellen]], [[engagieren]], [[rekrutieren]]
 Antonyme: [[abweisen]], [[ausschließen]], [[ignorieren]], [[ablehnen 1]]

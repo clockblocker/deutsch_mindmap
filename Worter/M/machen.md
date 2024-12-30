@@ -12,6 +12,9 @@ Oh Mann. [[Ich mach mir Sorgen]] …
 
 Wer kennt das nicht: Man hat zugenommen und muss den [[Gürtel]] ganz [[weit]] [[machen]].
 
+Also [[lädt]] Adrian Emilie zum Essen [[ein]]. Es gibt Spaghetti mit leckerer Soße und [[selbst]] [[gemachtes]] Eis. [[Während]] die beiden am Tisch sitzen und das Eis [[löffeln]], schaut Adrian Emilie tief in die Augen und sie stellt fest: Ich hab diesen Mann zum [[fressen]] gern. 
+
+
 ---
 [[anmachen]] - [[an 1]] = [[machen]] / to turn on, to switch on | agree, remove
 [[ausmachen]] - [[aus]] = [[machen]] / to detect, to determine, to matter | turn off 

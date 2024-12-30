@@ -1,1 +1,1 @@
-, [[laden]]
+, [[laden]], [[löffeln]], [[fressen]]

@@ -1,1 +1,1 @@
-, [[Löffel]]
+, [[Löffel]], [[löffeln]]

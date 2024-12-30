@@ -14,6 +14,9 @@ Carola sucht mit einer Hand nach ihrem Handy, [[während]] sie in der anderen de
 
 Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Haushalt]] [[kümmern]] muss.
 
+Also [[lädt]] Adrian Emilie zum Essen [[ein]]. Es gibt Spaghetti mit leckerer Soße und [[selbst]] [[gemachtes]] Eis. [[Während]] die beiden am Tisch sitzen und das Eis [[löffeln]], schaut Adrian Emilie tief in die Augen und sie stellt fest: Ich hab diesen Mann zum [[fressen]] gern. 
+
+
 
 ---
 Synonyme: 

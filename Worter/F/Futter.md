@@ -17,4 +17,4 @@ feed, fodder
 ---
 
 #Substantiv
-#Neuter
+#Neuter, [[fressen]]
