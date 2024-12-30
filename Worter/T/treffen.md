@@ -15,6 +15,8 @@ Sie [[treffen]] sich am Blumenkiosk
 
 Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. Jannis [[lächelt]]. Er hat wieder eine gute [[Entscheidung]] [[getroffen]].
 
+„Früher haben wir uns jeden Donnerstag zu einem [[Feierabendbier]] [[getroffen]] …“, [[bemerkt]] Peter. „Aber Donnerstag ist unser Kinoabend …“, [[erwidert]] Leo. 
+
 ---
 [[betreffen]] - [[be]] = [[treffen]] / to concern, to affect, to touch
 

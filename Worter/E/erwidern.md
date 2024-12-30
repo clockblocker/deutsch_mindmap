@@ -1,9 +1,10 @@
-🗣️ [[erwidern]], [ɛɐ̯ˈviːdɐn] | [[erwiederte]], haben [[erwidert 1]]
+🗣️ [[erwidern]], [ɛɐ̯ˈviːdɐn] | [[erwiederte]], haben [[erwidert]]
 
 ---
- „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert 1]] Tanja. 
+ „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert]] Tanja. 
 
-Paul wirft einen Blick auf Lindas Schuhe: „Hast du die [[Wettervorhersage]] für heute nicht gehört? Es soll regnen!“ „Ich habe aber gerne [[nasse 1]] Füße“, [[erwidert 1]] Linda nun [[offensichtlich]] genervt.  
+Paul wirft einen Blick auf Lindas Schuhe: „Hast du die [[Wettervorhersage]] für heute nicht gehört? Es soll regnen!“ „Ich habe aber gerne [[nasse]] Füße“, [[erwidert]] Linda nun [[offensichtlich]] genervt.  
+„Früher haben wir uns jeden Donnerstag zu einem [[Feierabendbier]] [[getroffen]] …“, [[bemerkt]] Peter. „Aber Donnerstag ist unser Kinoabend …“, [[erwidert]] Leo. 
 
 ---
 Synonyme: [[Antworten]], [[reagieren]], [[entgegnen]], [[zurückgeben]], [[konttern]]
@@ -26,7 +27,7 @@ Wir: [[erwidern]], [[erwiederten]], -, [[erwidern]], [[erwiederten]]
 Ihr: [[erwiedert]], [[erwiedertet]], [[erwiedert]], [[erwiedertet]], [[erwiedertet]]  
 
 Partizip I: [[erwiedernd]], 
-Partizip II: [[erwidert 1]]
+Partizip II: [[erwidert]]
 Zu+infinifive: [[zu erwidern]]
 
 [[erwidern]] - [[er]] = [[widern]] / to respond
@@ -36,3 +37,4 @@ Zu+infinifive: [[zu erwidern]]
 
 
 , [[fragen]], [[Antworten]]
+, [[kontern]]

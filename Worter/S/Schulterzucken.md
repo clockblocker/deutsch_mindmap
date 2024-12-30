@@ -23,4 +23,4 @@ Genitive: des [[Schulterzuckens]], der [[Schulterzucken]]
 Dative: dem [[Schulterzucken]], den [[Schulterzucken]]  
 
 ---
-[[zucken]], [[schulterzucken]], [[schulternzuckend]]
+[[zucken]], [[schulterzucken]], [[schulternzuckend]], [[Schultern]]

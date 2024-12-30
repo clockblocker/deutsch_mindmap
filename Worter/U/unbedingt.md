@@ -12,6 +12,8 @@ Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstren
 
 Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. [[außerdem]] habe ich mich [[bisher]] viel zu wenig mit [[Naturschutz]] [[beschäftigt]]. Ich werde bestimmt viel Neues lernen. Man muss nicht [[unbedingt]] um die halbe Welt reisen, um über den Tellerrand zu schauen, Brüderchen!“
 
+Peter erinnert ihn an das Fußballturnier letzten Sommer. Leo hat nicht mitspielen können, weil seine Freundin [[unbedingt]] dieses Wochenende am [[Strand]] [[verbringen]] wollte. 
+
 
 ---
 Synonyme: [[auf jeden Fall]], [[auf alle Fälle]], [[definitiv]], [[sicher]], [[gewiss]], [[nötig]], [[bald]]

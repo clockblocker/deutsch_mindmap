@@ -9,6 +9,7 @@ SAM: Aber sie [[bemerkt]] mich gar nicht …
 
 „Du solltest das Brot in dünnere [[Scheiben 1]] schneiden, sonst bleibt es im Toaster stecken“, [[bemerkt]] Paul. Linda [[beißt]] die Zähne zusammen. 
 
+„[[Früher]] haben wir uns jeden Donnerstag zu einem [[Feierabendbier]] getroffen …“, [[bemerkt]] Peter. „Aber Donnerstag ist unser Kinoabend …“, [[erwidert]] Leo. 
 
 ---
 Synonyme: [[feststellen]], [[erkennen]], [[wahrnehmen]], [[entdecken]], [[registrieren]]

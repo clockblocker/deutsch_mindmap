@@ -13,3 +13,4 @@ Synonyme:
 
 ---
 #Substantiv #Feminine
+, [[erstaunen]]

@@ -22,6 +22,8 @@ Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[eins
 
 Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
 
+„Und die Weihnachtsfeier?“, möchte Peter wissen. „Wir gehen zu einem Konzert. Sie hat Karten organisiert, und das war ganz schön schwer. Und sie [[freut]] sich so sehr darauf!“, [[erzählt]] Leo.
+
 
 ---
 Synonyme: [[erfreuen]], [[beglücken]], [[entzücken]], [[erheitern]], [[ergötzen]]

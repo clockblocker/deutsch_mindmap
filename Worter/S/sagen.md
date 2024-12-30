@@ -1,1 +1,1 @@
-, [[vorhersagen]], [[sagen]], [[behaupten]]
+, [[vorhersagen]], [[sagen]], [[behaupten]], [[erzählen]]

@@ -4,7 +4,7 @@
 
 Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Haushalt]] [[kümmern]] muss.
 
- „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert 1]] Tanja. 
+ „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert]] Tanja. 
  
  „Ich [[putze]] doch! Wenn deine Freunde nicht [[dauernd]] Dreck machen würden, hätten wir das Problem nicht.“ 
  

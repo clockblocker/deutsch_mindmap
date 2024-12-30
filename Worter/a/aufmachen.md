@@ -12,6 +12,8 @@ haben [[aufgemacht]]
 *Eine soll als Köchin leben*  
 *und die andre Leinwand weben.«*
 
+„Ja, da hatte gerade das neue Restaurant [[aufgemacht]], und sie wollte es unbedingt ausprobieren“, redet sich Leo wieder raus. 
+
 ---
 
 

@@ -7,6 +7,8 @@ haben [[gestaunt]]
 
 Als sie ihre Freunde zum ersten Mal besucht, [[staunt]] sie nicht schlecht: keine laute Musik, die aus offenen Fenstern schallt, keine wild wachsende Blumenwiese vor dem Haus. 
 
+---
+[[erstaunen]] - [[er]] = [[staunen]] / to amaze, to astonish, to surprise
 
 ---
 Synonyme: [[sich wundern]], [[erstaunt sein]], [[verwundert sein]], [[überrascht sein]]
@@ -35,3 +37,4 @@ Partizip I: [[staunend]], Partizip II: [[gestaunt]], Zu-Infinitiv: zu staunen
 [[staunen]] - keine Präfixveränderung
 
 , [[erstaunlich]], [[verwundern]], [[wundern]]
+, [[erstaunen]]

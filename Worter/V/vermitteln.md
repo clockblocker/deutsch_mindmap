@@ -1,1 +1,1 @@
-, [[beibringen]], [[schlichten]], [[mitteln]]
+, [[beibringen]], [[schlichten]], [[mitteln]], [[erzählen]]

@@ -1,1 +1,1 @@
-, [[geeignet 1]], [[Gewinn]]
+, [[geeignet 1]], [[Gewinn]], [[Gewalt]]

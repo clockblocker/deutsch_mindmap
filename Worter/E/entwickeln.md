@@ -3,7 +3,7 @@
 haben [[entwickelt]]
 
 ---
-Die Begrüßung läuft noch ganz gut: Miriam stellt ihn allen vor. Sie scheinen nett zu sein, aber ein längeres Gespräch [[entwickelt]] sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 
+Die [[Begrüßung]] läuft noch ganz gut: Miriam stellt ihn allen vor. Sie scheinen nett zu sein, aber ein längeres Gespräch [[entwickelt]] sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 
 
 ---
 Synonyme: [[ausarbeiten]], [[ausbilden]], [[erschaffen]], [[hervorbringen]], [[kreieren]]

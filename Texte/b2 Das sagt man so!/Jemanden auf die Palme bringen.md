@@ -8,7 +8,7 @@ Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortra
 
 „Weißt du, wie viel Zucker in dieser Marmelade steckt? Das ist ungesund!“, hört sie Paul sagen. Linda nimmt einen Extralöffel von der Marmelade. 
 
-Paul wirft einen Blick auf Lindas Schuhe: „Hast du die [[Wettervorhersage]] für heute nicht gehört? Es soll regnen!“ „Ich habe aber gerne [[nasse 1]] Füße“, [[erwidert 1]] Linda nun [[offensichtlich]] genervt.  
+Paul wirft einen Blick auf Lindas Schuhe: „Hast du die [[Wettervorhersage]] für heute nicht gehört? Es soll regnen!“ „Ich habe aber gerne [[nasse]] Füße“, [[erwidert]] Linda nun [[offensichtlich]] genervt.  
 
 „Was ist mir dir los, Linda, hast du schlecht geschlafen?“, fragt Paul. „Nein. Ich habe [[hervorragend]] geschlafen. Nur du bringst mich mit deiner [[Besserwisserei 1]] auf die Palme
 

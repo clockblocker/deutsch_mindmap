@@ -1,1 +1,1 @@
-[[Überraschen]], [[unbeeindruckt]], [[erschrecken]], [[staunend]]
+[[Überraschen]], [[unbeeindruckt]], [[erschrecken]], [[staunend]], [[erstaunt]]

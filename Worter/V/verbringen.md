@@ -1,7 +1,10 @@
 🕰️ [[verbringen]] | [[verbrachte]], haben [[verbracht]]
 
 ---
-[[Eigentlich]] wollen Tanja, Hans und Carmen einen [[netten]] Nachmittag bei Kaffee und Kuchen [[verbringen]], aber es kommt anders: Tanja und ihr Freund Hans [[anfangen|fangen]] mal wieder einen Streit an. 
+[[Eigentlich]] wollen Tanja, Hans und Carmen einen [[netten]] Nachmittag bei Kaffee und Kuchen [[verbringen]], aber es kommt anders: Tanja und ihr Freund Hans [[anfangen|fangen]] mal wieder einen Streit an.
+
+Peter erinnert ihn an das Fußballturnier letzten Sommer. Leo hat nicht mitspielen können, weil seine Freundin [[unbedingt]] dieses Wochenende am [[Strand]] [[verbringen]] wollte. 
+
 
 ---
 Synonyme: [[zubringen]], [[verbringen]], [[verleben]], [[ausharren]], [[bleiben]]

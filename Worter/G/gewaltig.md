@@ -23,4 +23,4 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[gewaltig]], [[gewaltige]], [[gewaltiges]], [[gewaltiger]], [[gewaltigem]], [[gewaltigen]], [[gewaltigster]], [[gewaltigste]], [[gewaltigstes]], [[gewaltigsten]], [[gewaltigstem]]
+[[gewaltig]], [[gewaltige]], [[gewaltiges]], [[gewaltiger]], [[gewaltigem]], [[gewaltigen]], [[gewaltigster]], [[gewaltigste]], [[gewaltigstes]], [[gewaltigsten]], [[gewaltigstem]], [[Gewalt]]

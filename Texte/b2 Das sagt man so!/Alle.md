@@ -31,7 +31,7 @@
 - [x] [[Jemandem Löcher in den Bauch fragen]]
 - [ ] [[Jemandem rutscht das Herz in die Hose]] 
 - [x] [[Jemanden auf die Palme bringen]]
-- [ ] [[Jemanden um den Finger wickeln]] 
+- [x] [[Jemanden um den Finger wickeln]] 
 - [x] [[Leben wie Gott in Frankreich]]
 - [x] [[Liebe geht durch den Magen]] 
 - [ ] [[Lieber den Spatz in der Hand als die Taube auf dem Dach]] 

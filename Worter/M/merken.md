@@ -13,6 +13,8 @@ Aber er ist etwas besonderes, das [[merke]] ich. Er steckt voller Weisheit, ich 
 
 Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht. Lena [[dagegen]] [[merkt]] es schnell, denn sie arbeitet [[eng]] mit Bastian zusammen. 
 
+Es gibt Menschen, die immer bekommen, was sie wollen, ganz ohne [[Druck]] oder [[Gewalt]]. Sie haben ein ganz [[besonderes]] Talent, andere zu manipulieren, ohne dass diese es wirklich [[merken]]. 
+
 ---
 [[bemerken]] - [[be]] = [[merken]]
 
@@ -41,3 +43,4 @@ Morpheme: [[merk]][[en]]
 
 Partizip I: [[merkend]], Partizip II: [[gemerkt]]
 
+, [[besonders]], [[Druck]]

@@ -1,1 +1,1 @@
-, [[fragen]], [[Antworten]], [[erwidern]]
+, [[fragen]], [[Antworten]], [[erwidern]], [[kontern]]

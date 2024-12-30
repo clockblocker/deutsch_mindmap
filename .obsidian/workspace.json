@@ -22,231 +22,62 @@
             }
           },
           {
-            "id": "d6df5782022bac34",
+            "id": "a51bb159e7fdcfc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Alle.md",
+                "file": "Texte/b2 Das sagt man so!/Jemanden um den Finger wickeln.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alle"
+              "title": "Jemanden um den Finger wickeln"
             }
           },
           {
-            "id": "bf1033b39aa2fb3e",
+            "id": "a866b0c1d2273ac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/gutgehen.md",
+                "file": "Worter/S/Schultern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gutgehen"
+              "title": "Schultern"
             }
           },
           {
-            "id": "22828f67a37e6589",
+            "id": "133f4ba41201311f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/G/gehen.md",
+                "file": "Worter/E/erstaunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gehen"
+              "title": "erstaunt"
             }
           },
           {
-            "id": "0e99146f4d7f0dd8",
+            "id": "d2c6f43c9d66ea02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Tüchlein.md",
+                "file": "Worter/B/besonders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tüchlein"
-            }
-          },
-          {
-            "id": "3927a4e5a0656d40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/V/verscheiden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "verscheiden"
-            }
-          },
-          {
-            "id": "7f1be697e4e16412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Töchterchen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Töchterchen"
-            }
-          },
-          {
-            "id": "6d7fd1c09a125ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/T/Töchterlein.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Töchterlein"
-            }
-          },
-          {
-            "id": "b0deb8ae850f1b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/L/Lieblingslands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lieblingslands"
-            }
-          },
-          {
-            "id": "288598c8773f4d12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Lieblingsland.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lieblingsland"
-            }
-          },
-          {
-            "id": "bedd292f9e8fd32d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Lieblingsland.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lieblingsland"
-            }
-          },
-          {
-            "id": "bf8bf4e70b61859e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/manchmal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "manchmal"
-            }
-          },
-          {
-            "id": "f5ec14a747d5d0a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/mindestens.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mindestens"
-            }
-          },
-          {
-            "id": "08df9aa9c0cffd21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/R/Redewendung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redewendung"
-            }
-          },
-          {
-            "id": "94dae77b0c6bbf6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/b2 Das sagt man so!/Jemandem Löcher in den Bauch fragen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jemandem Löcher in den Bauch fragen"
-            }
-          },
-          {
-            "id": "27070d520933f77b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Z/zufrieden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "zufrieden"
-            }
-          },
-          {
-            "id": "f691c7bf44098d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/schmieren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "schmieren"
+              "title": "besonders"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "erzählen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -389,34 +220,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d6df5782022bac34",
+  "active": "e7bad68ef2538fd5",
   "lastOpenFiles": [
-    "Texte/Avatar/s1 e2.md",
-    "Texte/b2 Das sagt man so!/Alles unter einen Hut bringen.md",
-    "Texte/b2 Das sagt man so!/Auf Wolke sieben schweben.md",
-    "Texte/b2 Das sagt man so!/Alle.md",
-    "Texte/b2 Das sagt man so!/Liebe geht durch den Magen.md",
-    "Worter/H/heiraten.md",
-    "Worter/E/eingeladen.md",
-    "Worter/E/einladen.md",
-    "Worter/L/lädt.md",
-    "Worter/L/laden.md",
-    "Worter/gemachtes.md",
-    "Worter/M/machen.md",
-    "Worter/W/während.md",
-    "Worter/L/löffeln.md",
-    "Worter/F/fressen.md",
-    "Worter/F/Fressen.md",
-    "Worter/F/fressenig.md",
-    "Worter/F/fressbar.md",
-    "Worter/F/Fressens.md",
-    "Worter/M/Mahlzeit.md",
-    "Worter/N/Nahrung.md",
-    "Worter/F/Fressern.md",
-    "Worter/F/Fressfeind.md",
-    "Worter/F/Fresssucht.md",
-    "Worter/F/Fresserei.md",
-    "Worter/F/Fresser.md",
+    "Texte/b2 Das sagt man so!/Jemanden um den Finger wickeln.md",
+    "Worter/Z/zuckt.md",
+    "Worter/Z/zucken.md",
+    "Worter/S/Schultern.md",
+    "Worter/Z/zufriedene.md",
+    "Worter/Z/zufrieden.md",
+    "Worter/S/Schultergurt.md",
+    "Worter/S/Schulterblatt.md",
+    "Worter/S/Schulters.md",
+    "Worter/S/Schultergürtel.md",
+    "Worter/A/Akromion.md",
+    "Worter/E/erzählen.md",
+    "Worter/K/Kurzerzählung.md",
+    "Worter/E/Erzählstil.md",
+    "Worter/E/Erzählkunst.md",
+    "Worter/E/Erzählerin.md",
+    "Worter/E/Erzähler.md",
+    "Worter/Z/zuerzählen.md",
+    "Worter/Z/zählen.md",
+    "Worter/E/erzählt.md",
+    "Worter/F/freuen.md",
+    "Worter/F/freut.md",
+    "Worter/Feierabendbier.md",
+    "Worter/B/bemerkt.md",
+    "Worter/B/bemerken.md",
+    "Worter/F/früher.md",
     "Texte/Brüder Grimm",
     "Lektionen/Kamanova/Audio/L-07.mp3",
     "Lektionen/Kamanova/Audio/L-05.mp3",

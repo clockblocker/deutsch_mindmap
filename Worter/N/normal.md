@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[normal]], [[normaler]], [[normale]], [[normales]], [[normalen]], [[normalem]], [[normaler]], [[normalen]]
 [[normaler]], [[normalerer]], [[normalere]], [[normaleres]], [[normaleren]], [[normalerem]], [[normalerer]], [[normaleren]]
-[[normalsten]], [[normalster]], [[normalste]], [[normalstes]], [[normalsten]], [[normalstem]], [[normalster]], [[normalsten]][[mittel]][[besonders]], [[eigene]], [[erstaunlich]], [[durchgeknallt]], [[durchschnittliches]], [[irre]], [[verrückt]], [[fremd]]
+[[normalsten]], [[normalster]], [[normalste]], [[normalstes]], [[normalsten]], [[normalstem]], [[normalster]], [[normalsten]][[mittel]][[besonders]], [[eigene]], [[erstaunlich]], [[durchgeknallt]], [[durchschnittliches]], [[irre]], [[verrückt]], [[fremd]], [[erstaunt]]

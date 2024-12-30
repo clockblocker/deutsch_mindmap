@@ -4,7 +4,8 @@ die [[Strände]]
 
 ---
 - [[Strandkleider]]
--
+
+Peter erinnert ihn an das Fußballturnier letzten Sommer. Leo hat nicht mitspielen können, weil seine Freundin [[unbedingt]] dieses Wochenende am [[Strand]] [[verbringen]] wollte. 
 
 ---
 Synonyme:

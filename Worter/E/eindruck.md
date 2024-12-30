@@ -22,4 +22,4 @@ Accusative: den [[Eindruck]], die [[Eindrücke]]
 Genitive: des [[Eindrucks]], der [[Eindrücke]]  
 Dative: dem [[Eindruck]], den [[Eindrücken]] 
 
-[[eindrucksvoll]], [[eindrucklos]], [[beeindrucken]]
+[[eindrucksvoll]], [[eindrucklos]], [[beeindrucken]], [[Druck]]
