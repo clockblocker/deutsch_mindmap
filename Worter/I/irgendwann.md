@@ -20,4 +20,4 @@ Morpheme: [[irgend]][[wann]]
 
 ---
 
-[[irgend]], [[demnächst]], [[s1 e1]], [[irgendwie]]
+[[irgend]], [[demnächst]], [[s1 e1]], [[irgendwie]], [[irgendwas]]

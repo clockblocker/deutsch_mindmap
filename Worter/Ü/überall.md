@@ -27,4 +27,4 @@ Tags:
 Morphems:
 [[über]][[All]]
 
-[[irgendwo]], [[bald]]
+[[irgendwo]], [[bald]], [[weit und breit]]

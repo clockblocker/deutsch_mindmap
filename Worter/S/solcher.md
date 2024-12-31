@@ -1,1 +1,1 @@
-[[Indefinitpronomen]], [[solche]]
+[[Indefinitpronomen]], [[solche]], [[jener]]

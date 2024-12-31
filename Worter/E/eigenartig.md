@@ -1,1 +1,1 @@
-, [[fremd]]
+, [[fremd]], [[seltsam]]

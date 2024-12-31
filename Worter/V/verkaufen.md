@@ -32,4 +32,4 @@ Morpheme: [[ver]][[kauf]][[en]]
 Partizip I: [[verkaufend]], Partizip II: [[verkauft]]
 
 [[verkaufen]] - [[ver]] = [[kaufen]]
-''', [[ausverkauft]]
+''', [[ausverkauft]], [[Fachverkäufer]]

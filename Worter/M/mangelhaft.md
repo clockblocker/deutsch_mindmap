@@ -1,1 +1,1 @@
-[[Schlecht]][[Fertig]][[prima]], [[trefflich]], [[genug]]
+[[Schlecht]][[Fertig]][[prima]], [[trefflich]], [[genug]], [[fehlerhaft]]

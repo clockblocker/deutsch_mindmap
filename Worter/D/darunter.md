@@ -26,4 +26,4 @@ Tags:
 Morphems:
 [[Da]][[runter]]
 
-, [[11 08]]
+, [[11 08]], [[da]]

@@ -1,1 +1,1 @@
-, [[leisten]], [[gutgehen]], [[erfüllen]]
+, [[leisten]], [[gutgehen]], [[erfüllen]], [[klappen]]

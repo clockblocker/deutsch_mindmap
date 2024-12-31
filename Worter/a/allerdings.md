@@ -20,3 +20,4 @@ Morpheme: [[allerdings]]
 
 ---
 #Adverb [[allerdings]]
+, [[Conjunctions]]

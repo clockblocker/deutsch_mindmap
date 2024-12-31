@@ -31,4 +31,4 @@ Morpheme:
 [[während]]
 
 ---
-#Präposition, [[s1 e1]], [[warten]], [[innerhalb]]
+#Präposition, [[s1 e1]], [[warten]], [[innerhalb]], [[Conjunctions]]

@@ -26,4 +26,4 @@ Dative: der [[Redewendung]], den [[Redewendungen]]
 [[reden]], [[wenden]], [[idiomatisch]], [[sprichwörtlich]]
 
 , [[Ausdruck]], [[Redensart]], [[Sprichwort]], [[zumindest]]
-, [[behaupten]]
+, [[behaupten]], [[redensartlich]]

@@ -21,4 +21,4 @@ Morpheme: [[frei]][[lich]]
 Satzbeispiele:
 - Er kommt freilich zum Treffen.
 - Freilich haben wir das erwartet.
-- Das ist freilich eine gute Idee.
+- Das ist freilich eine gute Idee., [[Conjunctions]]

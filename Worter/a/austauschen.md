@@ -1,1 +1,1 @@
-, [[wechseln]]
+, [[wechseln]], [[umtauschen]]

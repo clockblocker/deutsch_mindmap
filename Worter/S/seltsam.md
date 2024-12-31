@@ -1,36 +1,30 @@
-[[seltsam]]
-[[seltsamer]]
-[[am]] [[seltsamsten]]
+[[seltsam]], [ˈzɛltsam]
+nicht [[normal]], nicht [[gewöhnlich]]
 
 ---
 Dieses seltsame zweibeinige Wesen sieht zwar nicht besonders stark aus
 
----
-
-nicht [[normal]]
+Aber [[irgendwie]] macht der Rechner nicht das, was er tun soll. [[Schon]] das [[Hochfahren]] [[klappt]] nicht immer, ein neuer Browser lässt sich nicht installieren, und dann ist da immer wieder diese [[seltsame]] [[Fehlermeldung]]. 
 
 ---
-
-Synonyme:
-- [[merkwürdig]], [[eigenartig]], [[ungewöhnlich]]
-
----
-
-Beispiele:
-
-- Sie hatte ein [[seltsames]] Gefühl in der Magengegend.
-- Das war eine der [[seltsamsten]] Begegnungen meines Lebens.
-- Er verhielt sich in letzter Zeit immer [[seltsamer]].
+Synonyme: [[merkwürdig]], [[eigenartig]], [[sonderbar]], [[ungewöhnlich]], [[bizarre]]
+Antonyme: [[normal]], [[gewöhnlich]], [[typisch]], [[standard]]
 
 ---
-**Übersetzung**: strange, odd
+strange, odd, peculiar
+
+---
+[[seltsam]]
 
 ---
 
-Tags:
-#Adjective
+Form: Positive, Comparative, Superlative  
+Nominative: [[seltsam]], [[seltsamer]], [[seltsamster]]  
+Accusative: [[seltsamen]], [[seltsameren]], [[seltsamsten]]  
+Genitive: [[seltsamer]], [[seltsamerer]], [[seltsamster]]  
+Dative: [[seltsamem]], [[seltsameren]], [[seltsamsten]]  
+Feminine: [[seltsame]], [[seltsame]], [[seltsamste]]  
+Neuter: [[seltsames]], [[seltsameres]], [[seltsamste]]  
+Plural: [[seltsamen]], [[seltsamerem]], [[seltsamsten]]  
 
----
-
-Morphems:
-[[selts]][[am]], [[fremd]]
+[[Seltsamkeit]], [[seltsamerweise]], [[Seltsame]]

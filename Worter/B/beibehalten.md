@@ -1,1 +1,1 @@
-[[umschalten]][[verändern]][[ändern]], [[wechseln]], [[umwandeln]], [[feuern]], [[kündigen]]
+[[umschalten]][[verändern]][[ändern]], [[wechseln]], [[umwandeln]], [[feuern]], [[kündigen]], [[umtauschen]]

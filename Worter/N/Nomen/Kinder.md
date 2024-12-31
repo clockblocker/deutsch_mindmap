@@ -16,4 +16,4 @@ Translation:
 ---
 
 #Substantiv #Neuter  
-, [[manchmal]]
+, [[manchmal]], [[Kita]]

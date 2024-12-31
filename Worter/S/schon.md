@@ -1,7 +1,10 @@
 [[schon]], [ʃoːn]
 
 ---
-Oder es war nur ein gewöhnliches Wetterleuchten. Das hatten wir doch alles [[schon]] des Öfteren, Prinz Zuko. 
+Aber [[irgendwie]] macht der Rechner nicht das, was er tun soll. [[Schon]] das [[Hochfahren]] [[klappt]] nicht immer, ein neuer Browser lässt sich nicht installieren, und dann ist da immer wieder diese [[seltsame]] [[Fehlermeldung]]. 
+
+
+Oder es war nur ein gewöhnliches Wetterleuchten. Das hatten wir doch alles [[schon]] des [[Öfteren]], Prinz Zuko. 
 
 Louis komm schon (come on)
 
@@ -24,4 +27,4 @@ already, yet, still
 Morpheme:
 [[schon]]
 
----
+---, [[Meldung]]

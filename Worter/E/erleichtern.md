@@ -8,6 +8,8 @@ Sebastian ist [[erleichtert]], dass er etwas tun kann: „Klar, gerne.“
 
 Miriam ist [[erleichtert]]: Das Eis zwischen Sebastian und ihren Freunden ist gebrochen!	
 
+„Das kann ja sein“, sagt Uli, „aber bei mir [[scheint]] [[einfach]] der Wurm drin zu sein. [[Irgendwas]] ist hier [[fehlerhaft]].“ Der Fachverkäufer erklärt sich [[schließlich]] [[bereit]], den Rechner [[umzutauschen]]. Der neue Computer [[läuft]] problemlos. Kein Wurm [[weit und breit]]. Uli ist [[erleichtert]].
+
 
 ---
 Synonyme: [[vereinfachen]], [[leichter machen]], [[erträglicher machen]], [[entlasten]], [[lindern]]

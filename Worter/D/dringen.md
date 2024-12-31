@@ -6,6 +6,9 @@ sein [[gedrungen]]
 Ist aber ganz [[dringend]]!
 
 ---
+[[eindringen]] - [[ein]] = [[dringen]] / to penetrate, to intrude, to break in
+
+---
 Synonyme: [[eindringen]], [[vordringen]], [[penetrieren]], [[durchdringen]], [[eindringen]]
 Antonyme: [[zurückweichen]], [[weichen]], [[aufhalten]]
 

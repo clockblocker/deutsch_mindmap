@@ -1,1 +1,1 @@
-, [[leisten]], [[verzweifeln]]
+, [[leisten]], [[verzweifeln]], [[beschließen]]

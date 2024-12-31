@@ -30,4 +30,4 @@ Tags:
 ---
 
 Morphems:
-[[Da]][[rüber]], [[dabei]], [[11 08]], [[davon]], [[daran]], [[bald]], [[nächsthöher]], [[dahinter]], [[betreffen]]
+[[Da]][[rüber]], [[dabei]], [[11 08]], [[davon]], [[daran]], [[bald]], [[nächsthöher]], [[dahinter]], [[betreffen]], [[da]]

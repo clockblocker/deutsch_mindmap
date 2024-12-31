@@ -1,1 +1,1 @@
-, [[interessant]], [[staunend]], [[langweilen]]
+, [[interessant]], [[staunend]], [[langweilen]], [[begeistert]]

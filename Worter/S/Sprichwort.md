@@ -25,4 +25,4 @@ Dative: dem [[Sprichwort]], den [[Sprichwörtern]]
 
 ---
 , [[Redensart]]
-[[sprichwörtlich]], [[sprechen]], [[Geheimnis]]
+[[sprichwörtlich]], [[sprechen]], [[Geheimnis]], [[redensartlich]]

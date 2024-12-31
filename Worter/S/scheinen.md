@@ -4,13 +4,16 @@
  [[von]] Schmuck [[scheint]] er nicht viel zu verstehen.
 
 *Mich interessiert kein Gleichgewicht*  
-*Mir scheint die Sonne ins Gesicht*  
+*Mir [[scheint]] die Sonne ins Gesicht*  
 
 100 Jahre sind seitdem vergangen und die Feuernation [[scheint]] den Krieg bald zu gewinnen.
 
 Die Begrüßung läuft noch ganz gut: Miriam stellt ihn allen vor. Sie [[scheinen]] nett zu sein, aber ein längeres Gespräch entwickelt sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 
 
-Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet 1]] zu sein
+Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet]] zu sein
+
+„Das kann ja sein“, sagt Uli, „aber bei mir [[scheint]] [[einfach]] der Wurm drin zu sein. [[Irgendwas]] ist hier [[fehlerhaft]].“ Der Fachverkäufer erklärt sich [[schließlich]] [[bereit]], den Rechner [[umzutauschen]]. Der neue Computer [[läuft]] problemlos. Kein Wurm [[weit und breit]]. Uli ist [[erleichtert]].
+
 
 ---
 Synonyme: [[glänzen]], [[leuchten]], [[erstrahlen]], [[erglänzen]], [[funkeln]]

@@ -41,4 +41,4 @@ Morphems:
 
 ---
 Tags:
-#Adverb #Pronomen, [[11 08]], [[s1 e1]], [[zerbrechen]]
+#Adverb #Pronomen, [[11 08]], [[s1 e1]], [[zerbrechen]], [[da]]

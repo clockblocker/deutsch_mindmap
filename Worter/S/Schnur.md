@@ -24,4 +24,4 @@ Einzigartige mögliche Formen:
 Bedeutungsvarianten:
 1. Flexibles, langes und dünnes Bindematerial
 2. Verbindungselement aus geflochtenem oder gedrehtem Material
-3. Elektrokabel in bestimmten Kontexten
+3. Elektrokabel in bestimmten Kontexten, [[Faden]]

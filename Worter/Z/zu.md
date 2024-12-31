@@ -1,1 +1,1 @@
-, [[zugeworfen]], [[zumindest]], [[zukommen]]
+, [[zugeworfen]], [[zumindest]], [[zukommen]], [[da]], [[zunächst]]

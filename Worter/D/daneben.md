@@ -29,4 +29,4 @@ Tags:
 ---
 
 Morphems:
-[[Da]][[neben]], [[11 08]]
+[[Da]][[neben]], [[11 08]], [[da]]

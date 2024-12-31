@@ -1,73 +1,36 @@
-🛠️ [[anstellen]]
-[[stellte an]]
-haben [[angestellt]]
+
+
+🔀 [[anstellen]] | [[stellte an|stellte an]], haben [[angestellt]]
 
 ---
 Die Katze überlegte noch, wie sie das [[anstellen]] sollte
 
----
-
-Synonyme:
-- [[einstellen]], [[beschäftigen]], [[unternehmen]]
+Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. [[Egal]], wie man sich [[anstellt]], es [[klappt]] nicht! Da muss der [[Wurm]] [[drin]] sein …
 
 ---
-
-Beispiele:
-
-- Er wurde von der Firma als Techniker [[angestellt]].
-- Sie hat etwas Dummes [[angestellt]].
-- Wir [[stellten]] ihn als neuen Mitarbeiter [[an 1]].
+Synonyme: [[beschäftigen]], [[einstellen]], [[engagieren]], [[anheuern]], [[aufnehmen]]
+Antonyme: [[entlassen]], [[kündigen]], [[feuern]], [[absetzen]]
 
 ---
-**Übersetzung**: to hire, to employ, to do, to commit
+to employ, to hire, to put on (work)
 
 ---
-
-Morphems of only infinitive:
-[[an 1]][[stellen]]
-
----
-Tags:
-#Verb  #Trennbar
-
+[[an]][[stell]][[en]]
+ 
 ---
 
-Präteritum:
+Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
+Ich: [[stelle an]], [[stellte an]], -, [[stelle an]], [[stellte an]]  
+Du: [[stellst an]], [[stelltest an]], [[stell an]], [[stellest an]], [[stelltest an]]  
+Er/sie/es: [[stellt an]], [[stellte an]], -, [[stelle an]], [[stellte an]]  
+Wir: [[stellen an]], [[stellten an]], -, [[stellen an]], [[stellten an]]  
+Ihr: [[stellt an]], [[stelltet an]], [[stellt an]], [[stellet an]], [[stelltet an]]  
 
-- Ich [[stellte an]] den neuen Mitarbeiter.
-- Du [[stelltest an]] viele Fragen.
-- Er [[stellte an]] ein Experiment.
-- Wir [[stellten an]] den Ofen.
-- Ihr [[stelltet an]] die neue Maschine.
-- Sie [[stellten an]] eine Untersuchung.
+Partizip I: [[anstellend]], 
+Partizip II: [[angestellt]]
+Zu+infinifive: [[anzustellen]]
 
----
-
-Imperativ:
-
-- [[stell]] dich in die Schlange [[an 1]]!
-- [[stellt]] die Maschine [[an 1]]!
-- [[Stellen wir]] ihn [[an 1]]!
-- [[Stellen Sie]] das Radio [[an 1]]!
+[[anstellen]] - [[an]] = [[stellen]]
 
 ---
-
-Konjunktiv I:
-
-- Er sagt, ich [[stelle an]], was notwendig ist.
-- Sie meint, du [[stellest an]] die besten Fachkräfte.
-- Er behauptet, er [[stelle an]] neue Mitarbeiter.
-- Wir erklären, wir [[stellen an]] für das Projekt.
-- Ihr sagt, ihr [[stellet an]] die Geräte.
-- Sie sagen, sie [[stellen an]] was benötigt wird.
-
----
-
-Konjunktiv II:
-
-- Wenn ich genug Geld hätte, [[stellte]] ich mehr Leute [[an 1]].
-- Wenn du kompetenter wärst, [[stelltest]] du die richtige Person [[an 1]].
-- Wenn er Zeit hätte, [[stellte]] er etwas Großes [[an 1]].
-- Wenn wir besser vorbereitet wären, [[stellten]] wir mehr Experimente [[an 1]].
-- Wenn ihr euch sicher wäret, [[stelltet]] ihr die Maschine [[an 1]].
-- Wenn sie eine Firma hätten, [[stellten]] sie viele Mitarbeiter [[an 1]]., [[aufdrehen]], [[überlegen]], [[schäftigen]]
+[[Anstellung]], [[Angestellter]], [[Angestellte]], [[Anstellungsvertrag]], [[Anstellungsbedingungen]]

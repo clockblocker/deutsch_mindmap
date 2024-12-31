@@ -1,1 +1,1 @@
-, [[Beamte]], [[Diener]]
+, [[Beamte]], [[Diener]], [[anstellen]]

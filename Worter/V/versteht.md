@@ -9,6 +9,9 @@ Greta [[versteht]] die Ängste ihrer Schwester gut.
 „Es bringt [[überhaupt]] nichts, nervös zu sein“, sagt sie. 
 „Ich drücke dir die Daumen. Du [[schaffst]] das alles.“ 
 
+Eigentlich [[versteht]] Uli viel von Computern, aber hier ist er wirklich [[ratlos]]. Also bringt er den [[Rechner]] zurück in den [[Laden]]. 
+
+
 ---
 Synonyme: [[begreifen]], [[erfassen]], [[kapieren]], [[durchdringen]], [[einsehen]]
 Antonyme: [[missverstehen]], [[falsch verstehen]], [[übersehen]]

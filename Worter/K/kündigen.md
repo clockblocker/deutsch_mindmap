@@ -27,4 +27,4 @@ Morpheme: [[künd]][[igen]]
 | Sie | [[kündigen]] | [[kündigten]] | [[kündigen Sie]] | [[kündigen]] | [[kündigten]] |
 
 Partizip I: [[kündigend]], Partizip II: [[gekündigt]]
-[[kündigen]] - [[kün]] = [[digen]], [[beschäftigen]]
+[[kündigen]] - [[kün]] = [[digen]], [[beschäftigen]], [[anstellen]]

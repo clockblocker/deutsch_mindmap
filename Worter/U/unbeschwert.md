@@ -1,1 +1,1 @@
-, [[fröhlich]], [[leicht]], [[entspannter]]
+, [[fröhlich]], [[leicht]], [[entspannter]], [[beschwert]]

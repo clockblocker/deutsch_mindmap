@@ -1,1 +1,1 @@
-, [[geeignet 1]], [[Gewinn]], [[Gewalt]], [[Geräusch]]
+, [[geeignet]], [[Gewinn]], [[Gewalt]], [[Geräusch]]

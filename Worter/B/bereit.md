@@ -3,6 +3,7 @@
 ---
 Schokolade so [[seidig]], da schmilzt das Herz jeder schönen Frau Bist du [[bereit]]?  
 
+„Das kann ja sein“, sagt Uli, „aber bei mir [[scheint]] [[einfach]] der Wurm drin zu sein. [[Irgendwas]] ist hier [[fehlerhaft]].“ Der Fachverkäufer [[erklärt]] sich [[schließlich]] [[bereit]], den Rechner [[umzutauschen]]. Der neue Computer [[läuft]] problemlos. Kein Wurm [[weit und breit]]. Uli ist [[erleichtert]].
 
 Wenn wir dazu nicht [[bereit]] sind, wie können wir uns dann Männer nennen?!
 

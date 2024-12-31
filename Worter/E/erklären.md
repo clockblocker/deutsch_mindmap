@@ -5,6 +5,8 @@ haben [[erklärt]]
 ---
 Doch dann [[erklärte]] uns die Feuernation den Krieg und alles änderte sich. 
 
+„Das kann ja sein“, sagt Uli, „aber bei mir [[scheint]] [[einfach]] der Wurm drin zu sein. [[Irgendwas]] ist hier [[fehlerhaft]].“ Der Fachverkäufer erklärt sich [[schließlich]] [[bereit]], den Rechner [[umzutauschen]]. Der neue Computer [[läuft]] problemlos. Kein Wurm [[weit und breit]]. Uli ist [[erleichtert]].
+
 ---
 Synonyme: [[definieren]], [[darlegen]], [[beschreiben]], [[ausführen]], [[verdeutlichen]]
 Antonyme: [[verbergen]], [[verheimlichen]], [[verschleiern]]

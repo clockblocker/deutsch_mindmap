@@ -1,1 +1,1 @@
-, [[wohl]], [[freilich]]
+, [[wohl]], [[freilich]], [[wahrscheinlich]]

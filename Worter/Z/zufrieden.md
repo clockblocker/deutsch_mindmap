@@ -8,6 +8,7 @@ Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. J
 
 „Sag ich doch“, sagt Peter. „Sie wickelt dich immer um den Finger, und du merkst es einfach nicht.“ Leo [[zuckt]] mit den [[Schultern]]. Er denkt an das [[zufriedene]] Lächeln seiner Freundin und den [[Glanz]] in ihren schönen Augen, als er ihr versprochen hat, mit ihr zu dem Konzert zu gehen. 
 
+Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] freundlich. „Sind Sie ganz sicher, dass Sie alles richtig installiert haben?“, fragt er Uli, „unsere Kunden waren bisher immer [[zufrieden]]. Es hat sich niemand über dieses Modell [[beschwert]].“ 
 
 ---
 Synonyme: [[glücklich]], [[froh]], [[befriedigt]], [[entspannt]], [[gelassen]]

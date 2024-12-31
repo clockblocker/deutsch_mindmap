@@ -1,8 +1,9 @@
-[[laden]] + Akk/Dat, [ˈlaːdn̩]
-[[lud]]  
-haben [[geladen]]
+der [[Laden]] - store
+[[laden]] + Akk/Dat, [ˈlaːdn̩], [[lud]] , haben [[geladen]]
 
 ---
+Eigentlich [[versteht]] Uli viel von Computern, aber hier ist er wirklich [[ratlos]]. Also bringt er den [[Rechner]] zurück in den [[Laden]]. 
+
 
 
 ---

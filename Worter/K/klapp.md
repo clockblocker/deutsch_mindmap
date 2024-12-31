@@ -1,1 +1,1 @@
-, [[auseinanderklapfen]]
+, [[auseinanderklapfen]], [[klappen]]

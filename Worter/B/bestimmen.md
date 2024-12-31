@@ -1,1 +1,1 @@
-[[regeln]][[aussuchen]], [[ausmachen]], [[wählen]], [[abhängen]], [[entscheiden]]
+[[regeln]][[aussuchen]], [[ausmachen]], [[wählen]], [[abhängen]], [[entscheiden]], [[beschließen]]

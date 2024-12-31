@@ -26,4 +26,4 @@ Feminine: [[entschlossene]], [[entschlossene]], [[entschlossenste]]
 Neuter: [[entschlossenes]], [[entschlosseneres]], [[entschlossenestes]]  
 Plural: [[entschlossenen]], [[entschlosseneren]], [[entschlossenesten]]  
 
-[[Entschlossenheit]], [[Entschlusskraft]], [[entschließen]]
+[[Entschlossenheit]], [[Entschlusskraft]], [[entschließen]], [[ratlos]]

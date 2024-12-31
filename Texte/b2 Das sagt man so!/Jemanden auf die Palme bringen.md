@@ -1,4 +1,4 @@
-Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet 1]] zu sein
+Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet]] zu sein
   
 Paul weiß immer alles besser: „Linda, nimm nicht so viel [[Kaffeepulver 1]] für die Kaffeemaschine, sonst schmeckt der Kaffee wieder bitter“, sagt er, „Italiener nehmen immer nur vier [[Löffel]] Kaffee pro Person, so kommt das Aroma besser zur [[Geltung]].“ 
 

@@ -1,1 +1,1 @@
-, [[neugierig]]
+, [[neugierig]], [[begeistert]]

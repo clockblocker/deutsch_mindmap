@@ -1,1 +1,1 @@
-, [[Redewendung]]
+, [[Redewendung]], [[redensartlich]]
