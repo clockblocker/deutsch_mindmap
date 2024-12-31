@@ -1,1 +1,1 @@
-, [[Stich]], [[beleidigen]]
+, [[Stich]], [[beleidigen]], [[beleidigt]]

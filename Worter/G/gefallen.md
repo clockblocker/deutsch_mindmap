@@ -1,12 +1,11 @@
-[[gefallen]], [[fallen]]
-
-📄 [[gefallen]] + Dat, [gəˈfalən]
-[[gefiel]], [[hat gefallen]]
+📄 [[gefallen]] + Dat, [gəˈfalən], [[gefiel]], [[hat gefallen]]
 
 ---
 Es gefällt mere sere
 
 Dir gefällt also nicht wie ich steuere, ja? 
+
+Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas Bericht nicht. „Die [[Seitenzahlen]] sollten immer [[unten]] rechts stehen. Bitte achten Sie in Zukunft [[darauf]]!“, war ihr [[einziger]] Kommentar zu dem Bericht. 
 
 ---
 Synonyme: [[zusagen]], [[behagen]], [[freuen]], [[erfreuen]], [[zusagen]]

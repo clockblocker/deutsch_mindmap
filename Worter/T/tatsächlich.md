@@ -1,6 +1,8 @@
 🤔 tatsächlich, [tatˈzɛçlɪç]
 
 ---
+Ein Haar in der Suppe? Das möchte doch niemand haben. Aber es gibt [[tatsächlich]] Menschen, die extra [[danach]] suchen. Und sie freuen sich, wenn sie ein Haar in der Suppe gefunden haben. Aber warum ist das so?
+
 „Das muss ich wohl“, denkt Björn, „ich muss [[tatsächlich]] den Gürtel enger schnallen.“ 
 
 Und [[tatsächlich]]: Die beiden lernen viel voneinander. Hoffentlich reicht das auch für die Prüfung!

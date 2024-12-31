@@ -6,6 +6,10 @@ Oder denken Sie an die [[Gespräche]], die Sie jeden Tag mit Kollegen oder Freun
 Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]. 
 
 ---
+[[ausführen]] - [[aus]] = [[führen]]
+
+
+---
 Synonyme: [[leiten]], [[lenken]], [[anführen]], [[steuern]], [[begleiten]]
 Antonyme: [[folgen]], [[verlassen]], [[ignorieren]]
 

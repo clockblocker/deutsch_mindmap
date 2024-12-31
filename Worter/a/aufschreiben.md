@@ -29,4 +29,4 @@ Zu+infinifive: [[aufzuschreiben]]
 [[aufschreiben]] - [[auf]] = [[schreiben]]
 
 ---
-[[Aufschrieb]], 
+[[Aufschrieb]], , [[reinschreiben]]

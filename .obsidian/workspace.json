@@ -36,6 +36,76 @@
             }
           },
           {
+            "id": "21f5062242a42cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 Das sagt man so!/Das Haar in der Suppe suchen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Das Haar in der Suppe suchen"
+            }
+          },
+          {
+            "id": "ad8591f1e2243e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/H/hervorheben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hervorheben"
+            }
+          },
+          {
+            "id": "4af32d24ec15bd62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/D/durchsuchen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "durchsuchen"
+            }
+          },
+          {
+            "id": "5895da0174493472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/reinschreiben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "reinschreiben"
+            }
+          },
+          {
+            "id": "fd94d5f55e290af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Abschlussbericht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abschlussbericht"
+            }
+          },
+          {
             "id": "624980ad766f5838",
             "type": "leaf",
             "state": {
@@ -209,32 +279,32 @@
   },
   "active": "6de5cc429b40ae9d",
   "lastOpenFiles": [
-    "Texte/b2 Das sagt man so!/Da ist der Wurm drin.md",
-    "Worter/S/scheint.md",
-    "Worter/S/scheinen.md",
-    "Worter/E/einfach.md",
-    "Worter/I/irgendwas.md",
-    "Worter/F/fehlerhaft.md",
-    "Worter/S/schließlich.md",
-    "Worter/B/bereit.md",
-    "Worter/E/erklärt.md",
-    "Worter/E/erklären.md",
-    "Worter/umzutauschen.md",
-    "Worter/U/umtauschen.md",
-    "Worter/weit und breit.md",
-    "Worter/E/erleichtert.md",
-    "Worter/E/erleichtern.md",
-    "Worter/A/Ausbreitung.md",
-    "Worter/W/weiträumig.md",
-    "Worter/R/rundum.md",
-    "Worter/U/Umtauschkurs.md",
-    "Worter/U/Umtauschbörse.md",
-    "Worter/U/Umtauschrecht.md",
-    "Worter/U/Umtauschfrist.md",
-    "Worter/U/umtauschend.md",
-    "Worter/T/tauchet um.md",
-    "Worter/T/tauschtet um.md",
-    "Worter/T/tauschten um.md",
+    "Texte/b2 Das sagt man so!/Das Haar in der Suppe suchen.md",
+    "Worter/T/trostreich.md",
+    "Worter/T/trostlos.md",
+    "Worter/T/Trostlosigkeit.md",
+    "Worter/T/Tröstern.md",
+    "Worter/T/Tröster.md",
+    "Worter/T/Trost.md",
+    "Worter/Z/zu trösten.md",
+    "Worter/T/tröstend.md",
+    "Worter/T/tröstetet.md",
+    "Worter/T/trösten.md",
+    "Worter/T/trösteten.md",
+    "Worter/T/tröstet.md",
+    "Worter/T/tröstetest.md",
+    "Worter/T/tröstest.md",
+    "Worter/T/tröste.md",
+    "Worter/T/tröst.md",
+    "Worter/M/mitfühlen.md",
+    "Worter/A/aufmuntern.md",
+    "Worter/G/getröstet.md",
+    "Worter/T/tröstete.md",
+    "Worter/Q/quälen.md",
+    "Texte/b2 Das sagt man so!/Alle.md",
+    "Worter/B/bericht.md",
+    "Worter/G/gefiel.md",
+    "Worter/G/gefallen.md",
     "Texte/c1",
     "Texte/Brüder Grimm",
     "Lektionen/Kamanova/Audio/L-07.mp3",

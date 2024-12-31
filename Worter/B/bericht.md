@@ -3,8 +3,11 @@ die [[Berichte]]
 
 
 ---
+Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas [[Bericht]] nicht. „Die [[Seitenzahlen]] sollten immer [[unten]] rechts stehen. Bitte achten Sie in Zukunft [[darauf]]!“, war ihr [[einziger]] Kommentar zu dem [[Bericht]]. 
+
+
 - [[Wetterbericht]]
--
+
 
 ---
 Synonyme:
@@ -21,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Berichts]], [[Berichte]], [[Berichten]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Abschlussbericht]]

@@ -29,4 +29,4 @@ Einzigartige mögliche Formen:
 
 
 [[glücklich]], [[jämmerlich]], [[erfreut]]
-, [[enttäuscht]]
+, [[enttäuscht]], [[beleidigt]]

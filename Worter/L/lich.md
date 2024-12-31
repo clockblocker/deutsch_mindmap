@@ -1,1 +1,1 @@
-, [[offensichtlich]], [[neulich]], [[redensartlich]], [[wahrscheinlich]], [[schließlich]]
+, [[offensichtlich]], [[neulich]], [[redensartlich]], [[wahrscheinlich]], [[schließlich]], [[Ausführlich]], [[sachlich]]

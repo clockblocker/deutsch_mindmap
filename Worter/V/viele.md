@@ -1,3 +1,3 @@
 Hast du immer noch [[so viele]] Pickel?  
 
-, [[zahlreiche]], [[wenige]]
+, [[zahlreiche]], [[wenige]], [[einziger]]

@@ -5,6 +5,9 @@ haben [[abgeschlossen]]
 ---
 1951 begann er mit einem Studium an der Dresdner Kunstakade-5 mie und [[schloss]] es mit einem Wandgemälde als Diplomarbeit [[ab]].
 
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
+
+
 ---
 Synonyme: [[beenden]], [[versperren]], [[sichern]], [[verschließen]], [[abriegeln]], [[dauern]], [[erledigen]]
 Antonyme: [[öffnen]], [[aufschließen]], [[freilassen]]
@@ -28,4 +31,4 @@ Morpheme: [[ab]][[schließ]][[en]]
 
 Partizip I: [[abschließend]], Partizip II: [[abgeschlossen]]
 [[abschließen]] - [[ab]] = [[schließen]]
-'''
+''', [[Abschlussbericht]], [[Abschluss]]

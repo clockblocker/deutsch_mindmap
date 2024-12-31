@@ -1,1 +1,1 @@
-, [[weit]], [[Kaum]]
+, [[weit]], [[Kaum]], [[Ausführlich]]

@@ -1,3 +1,3 @@
 [[aussuchen]]
 
-[[suchen]], [[versuchen]], [[absuchen]]
+[[suchen]], [[versuchen]], [[absuchen]], [[durchsuchen]]

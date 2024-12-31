@@ -1,1 +1,1 @@
-[[Indefinitpronomen]][[jeden]], [[einzelnen]], [[zahlreiche]]
+[[Indefinitpronomen]][[jeden]], [[einzelnen]], [[zahlreiche]], [[einziger]]

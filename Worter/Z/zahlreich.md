@@ -1,1 +1,1 @@
-, [[wenige]]
+, [[wenige]], [[einziger]]

@@ -1,5 +1,7 @@
  Sicher hat der Einbrecher [[danach]] gesucht.
- 
+
+Ein Haar in der Suppe? Das möchte doch niemand haben. Aber es gibt [[tatsächlich]] Menschen, die extra [[danach]] suchen. Und sie freuen sich, wenn sie ein Haar in der Suppe gefunden haben. Aber warum ist das so?
+
 ---
 
 Synonyme:

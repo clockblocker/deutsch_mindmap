@@ -1,1 +1,1 @@
-, [[durchchecken]], [[absuchen]]
+, [[durchchecken]], [[absuchen]], [[durchsuchen]]

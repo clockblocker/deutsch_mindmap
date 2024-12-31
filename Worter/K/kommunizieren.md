@@ -1,1 +1,1 @@
-[[reden]], [[telefonieren]], [[berichten]], [[unterhalten]]
+[[reden]], [[telefonieren]], [[berichten]], [[unterhalten]], [[ausdrücken]]

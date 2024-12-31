@@ -11,6 +11,7 @@ Appa! Alles okay bei dir? *([[Hebt]] ein Augenlid von Appa [[hoch]])* Wach auf
 
 ---
 [[erheben]] - [[er]] = [[heben]]
+[[hervorheben]] - [[hervor]] = [[heben]] / to emphasize, to highlight, to stress
 
 
 ---
@@ -39,4 +40,4 @@ Partizip I: [[hebend]], Partizip II: [[gehoben]]
 
 
 [[setzen]], [[ziehen]], [[bücken]]
-, [[erheben]], [[s1 e1]], [[tragen]]
+, [[erheben]], [[s1 e1]], [[tragen]], [[hervorheben]]

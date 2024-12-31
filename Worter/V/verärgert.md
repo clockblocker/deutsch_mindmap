@@ -1,1 +1,1 @@
-, [[zornig]], [[zufrieden]]
+, [[zornig]], [[zufrieden]], [[beleidigt]]

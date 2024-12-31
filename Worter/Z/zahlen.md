@@ -60,4 +60,4 @@ to pay
 ---
 
 **Morphems of only infinitive:**  
-- [[zahl]][[en]], [[ausgeben]]
+- [[zahl]][[en]], [[ausgeben]], [[Seitenzahlen]]

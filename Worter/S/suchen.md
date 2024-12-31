@@ -15,6 +15,7 @@ Sam, ich hab' super Nachrichten für dich – Kanal 9 [[sucht]] ein R
 [[versuchen]] - [[ver]] = [[suchen]]
 [[aussuchen]] - [[aus]] = [[suchen]]  / to choose, to select
 [[absuchen]] - [[ab]] =  [[suchen]]     / to search thoroughly
+[[durchsuchen]] - [[durch]] = [[suchen]] / to search through, to search thoroughly
 
 [[Ordnung]]
 
@@ -45,4 +46,4 @@ Partizip I: [[suchend]], Partizip II: [[gesucht]]
 
 
 +[[aus]] = [[aussuchen]]
-, [[versuchen]]
+, [[versuchen]], [[durchsuchen]]

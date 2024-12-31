@@ -1,7 +1,5 @@
 \🛠️ [[stellen]], [[stellte]], haben [[gestellt]]
 
-![[Pasted image 20240703130315.png]]
-
 ---
 ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 
@@ -16,6 +14,7 @@ ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 [[bestellen]] - [[be]] = [[stellen]]                              / покупать
 [[gestalten]] - [[ge]] = [[stellen]]                              / формировать
 [[vorstellen]] - [[vor]] = [[stellen]]                             / introduce 
+[[zufriedenstellen]] - [[zu]][[frieden]] = [[stellen]]       / please
 
 
 ---
@@ -74,4 +73,4 @@ to place, to put, to set
 ---
 
 **Morphems of only infinitive:**  
-- [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]], [[vorstellen]], [[Darstellung]], [[anstellen]]
+- [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]], [[vorstellen]], [[Darstellung]], [[anstellen]], [[zufriedenstellen]]

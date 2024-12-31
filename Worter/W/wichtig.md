@@ -2,6 +2,9 @@
 nicht [[unbedeutend]]
 
 ---
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
+
+
 die [[Zeit]] is wichtig
 
 Ich muss dich etwas [[wichtiges]] fragen.

@@ -8,4 +8,4 @@ die [[Enden]]
 ---
 
 #Substantiv  
-#Neuter, [[Spitze]], [[Schluss]]
+#Neuter, [[Spitze]], [[Schluss]], [[Abschluss]]

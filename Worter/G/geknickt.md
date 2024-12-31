@@ -1,1 +1,1 @@
-, [[gebückt]], [[knicken]]
+, [[gebückt]], [[knicken]], [[beleidigt]]
