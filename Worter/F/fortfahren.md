@@ -1,1 +1,1 @@
-, [[dauern]], [[weiterüben]], [[weitermachen]], [[aufhören]]
+, [[dauern]], [[weiterüben]], [[weitermachen]], [[aufhören]], [[weitergehen]]

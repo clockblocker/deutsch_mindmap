@@ -7,6 +7,9 @@ SAM: Oh, hi, Nic - Ich will meine Hanteln [[holen]] …
 
 Hoffentlich hilft ihr der Kaffee, den sie sich gerade im Café um die Ecke [[geholt]] hat.
 
+Frau Schulte sagt: „So kann es auf jeden [[Fall]] nicht [[weitergehen]]. Auch die Mitschüler [[leiden]] unter den [[ständigen]] [[Aggressionen]]. Also, wie [[holen]] wir [[Die Kuh vom Eis holen|die Kuh vom Eis]]?“ 
+
+
 ---
 [[abholen]] - [[ab]] = [[holen]]    / to pick up
 [[herholen]] - [[her]] = [[holen]] / to fetch, to bring here

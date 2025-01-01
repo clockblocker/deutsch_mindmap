@@ -30,4 +30,4 @@ Tags:
 
 Morphems:
 [[jedo]][[ch]]
-, [[Conjunctions]]
+, [[Conjunctions]], [[CONNECTOR]]

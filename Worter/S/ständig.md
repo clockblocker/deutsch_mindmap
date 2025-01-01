@@ -1,9 +1,11 @@
-🔄 [[ständig]] | 🌊 [[stehen]]
-ständig, [ˈʃtɛndɪç]
+🕰️ [[ständig]], [ˈʃtɛndɪç]
 nicht [[vorübergehend]]
 
 ---
-Tanja will den Eltern erklären, dass ihr Sohn nicht mehr lernt, seit er [[ständig]] mit seinen Freunden Party macht. 
+Tanja will den Eltern erklären, d
+ass ihr Sohn nicht mehr lernt, seit er [[ständig]] mit seinen Freunden Party macht. 
+
+ Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderungen]], die so groß sind, dass man daraus ein Sprichwort machen muss.
 
 ---
 Synonyme: [[permanent]], [[kontinuierlich]], [[fortlaufend]], [[unaufhörlich]], [[andauernd]]
@@ -14,7 +16,7 @@ Antonyme: [[zeitweise]], [[vorübergehend]], [[gelegentlich]], [[sporadisch]]
 constantly, continuously, persistently, perpetually
 
 ---
-#Adjective #Adverb [[ständig]]
+[[ständig]]
 
 Einzigartige mögliche Formen: 
 [[ständig]], [[ständiger]], [[ständige]], [[ständiges]], [[ständigen]], [[ständigem]], [[ständiger]], [[ständigen]]
@@ -29,3 +31,12 @@ Beispiele:
   
 , [[dauernd]], [[anständig]]
   , [[selten]], [[manchmal]]
+🔄 [[ständig]] | 🌊 [[stehen]]
+🕰️ [[ständig]] | 🕰️ [[stehen]]
+
+
+Verwandte Ausdrücke:
+
+[[manchmal]] ≠ [[immer]]
+[[manchmal]] ≠ [[nie]]
+[[manchmal]] ≈ [[selten]]

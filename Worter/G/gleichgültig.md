@@ -1,1 +1,1 @@
-, [[eifersüchtig]], [[beeindruckt]], [[unbeeindruckt]], [[beliebtes]], [[egal]], [[neugierig]], [[staunend]], [[lebhaft]], [[erstaunt]], [[begeistert]]
+, [[eifersüchtig]], [[beeindruckt]], [[unbeeindruckt]], [[beliebtes]], [[egal]], [[neugierig]], [[staunend]], [[lebhaft]], [[erstaunt]], [[begeistert]], [[entsetzt]]

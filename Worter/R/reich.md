@@ -28,3 +28,4 @@ Plural: [[reichen]], [[reicheren]], [[reichsten]]
 [[Reichtum]], [[Reichheit]], [[Reichlichkeit]], [[reichlich]], [[bereichern]]
 
 [[armer]], [[armen]], [[erreichten]], [[Bereich]]
+, [[erfolgreich]]

@@ -1,1 +1,1 @@
-, [[hassen]], [[achten]], [[beleidigen]], [[bewundern]]
+, [[hassen]], [[achten]], [[beleidigen]], [[bewundern]], [[beschimpfen]]

@@ -1,2 +1,2 @@
 Und Nic (von nebenan) [[herausfinden|findet]]  heraus, dass Sam sehr, sehr reich ist.  
-, [[herausnehmen]], [[herausziehen]], [[herausschlagen]], [[nehmen]]
+, [[herausnehmen]], [[herausziehen]], [[herausschlagen]], [[nehmen]], [[Worter/Herausforderung]], [[Herausforderung]]

@@ -9,7 +9,7 @@ Beispiele:
 
 ---
 Synonyme:
-- [[Schwierigkeiten]], [[Herausforderungen]], [[Störungen]]
+- [[Schwierigkeiten]], [[Worter/Herausforderung]], [[Störungen]]
 
 ---
 **Übersetzung**: problems, issues

@@ -1,1 +1,1 @@
-[[verdammen]], [[schimpfen]], [[tadeln]], [[auslachen]], [[grummeln]], [[beleidigen]], [[schmeicheln]]
+[[verdammen]], [[schimpfen]], [[tadeln]], [[auslachen]], [[grummeln]], [[beleidigen]], [[schmeicheln]], [[beschimpfen]]

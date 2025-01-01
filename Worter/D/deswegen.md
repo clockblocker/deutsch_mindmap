@@ -31,4 +31,4 @@ Verwandte Wörter:
 [[wegen]], [[deshalb]], [[darum]], [[weshalb]]
 
 , [[deshalb]], [[Damit]], [[trotzdem]]
-, [[geduld]], [[befürchten]]
+, [[geduld]], [[befürchten]], [[CONNECTOR]]

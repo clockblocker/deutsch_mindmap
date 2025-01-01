@@ -1,1 +1,1 @@
-, [[obwohl]], [[Conjunctions]]
+, [[obwohl]], [[Conjunctions]], [[CONNECTOR]]

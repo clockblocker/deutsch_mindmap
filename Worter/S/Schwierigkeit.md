@@ -7,7 +7,7 @@ Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[untersch
 
 ---
 Synonyme:
-- [[Herausforderung]], [[Problem]], [[Hindernis]], [[Komplikation]], [[Hürde]]
+- [[Worter/H/Herausforderung]], [[Problem]], [[Hindernis]], [[Komplikation]], [[Hürde]]
 
 ---
 difficulty, complication, challenge
@@ -23,4 +23,4 @@ Genitive: der [[Schwierigkeit]], der [[Schwierigkeiten]]
 Dative: der [[Schwierigkeit]], den [[Schwierigkeiten]]  
 
 ---
-[[schwierig]], [[erschweren]], [[vereinfachen]], [[meistern]]
+[[schwierig]], [[erschweren]], [[vereinfachen]], [[meistern]], [[Herausforderung]]

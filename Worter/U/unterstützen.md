@@ -1,1 +1,1 @@
-, [[schaden]], [[trösten]]
+, [[schaden]], [[trösten]], [[feinden]]

@@ -1,1 +1,1 @@
-, [[versammeln]]
+, [[versammeln]], [[verfeinden]]

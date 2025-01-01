@@ -17,6 +17,9 @@ Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. J
 
 „Früher haben wir uns jeden Donnerstag zu einem [[Feierabendbier]] [[getroffen]] …“, [[bemerkt]] Peter. „Aber Donnerstag ist unser Kinoabend …“, [[erwidert]] Leo. 
 
+Die Lehrerin Frau Schulte [[trifft]] sich mit Martins Eltern zu einem Gespräch. 
+
+
 ---
 [[betreffen]] - [[be]] = [[treffen]] / to concern, to affect, to touch
 

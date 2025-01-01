@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[unbeeindruckt]], [[unbeeindruckter]], [[unbeeindruckte]], [[unbeeindrucktes]], [[unbeeindruckten]], [[unbeeindrucktem]], [[unbeeindruckter]], [[unbeeindruckten]]
 [[unbeeindruckter]], [[unbeeindruckteren]], [[unbeeindrucktere]], [[unbeeindruckteres]], [[unbeeindruckteren]], [[unbeeindruckterem]], [[unbeeindruckteren]], [[unbeeindruckteren]]
-[[unbeeindrücktesten]], [[unbeeindrücktester]], [[unbeeindrückteste]], [[unbeeindrücktestes]], [[unbeeindrücktesten]], [[unbeeindrücktstem]], [[unbeeindrücktester]], [[unbeeindrücktesten]]
+[[unbeeindrücktesten]], [[unbeeindrücktester]], [[unbeeindrückteste]], [[unbeeindrücktestes]], [[unbeeindrücktesten]], [[unbeeindrücktstem]], [[unbeeindrücktester]], [[unbeeindrücktesten]], [[entsetzt]]

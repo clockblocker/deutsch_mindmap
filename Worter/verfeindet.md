@@ -1,0 +1,1 @@
+🤝 [[verfeinden]] | 🤝 [[verfeindet]]

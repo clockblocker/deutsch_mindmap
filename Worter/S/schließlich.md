@@ -29,3 +29,4 @@ Plural: [[schließlichen]], [[schließlicheren]], [[schließlichsten]]
 
 
 , [[erst]], [[zuletzt]], [[allerletzten]], [[endlich]]
+, [[CONNECTOR]]

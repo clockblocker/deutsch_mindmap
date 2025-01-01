@@ -4,7 +4,8 @@
 
 ---
 [[eingehen]] - [[ein]] = [[gehen]] / to enter, to go in, take risk
-[[gutgehen]] - [[gut]] = [[gehen]]Sonne, Liebe in der Luft, Rotwein, guter Käse und schöne Landschaften, den ganzen Tag „oh, là là“ rufen und es sich gutgehen lassen. 
+[[weitergehen]] - [[weiter]] = [[gehen]] // to continue, to go on, to proceed
+[[gutgehen]] - [[gut]] = [[gehen]] / to go well, to work out fine
 
 
 ---
@@ -32,4 +33,4 @@ Partizip II: [[gegangen]]
 Zu+infinifive: [[zu gehen]]
 
 ---
-[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]]
+[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]], [[weitergehen]]

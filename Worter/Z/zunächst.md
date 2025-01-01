@@ -24,4 +24,4 @@ Komparativ: nicht üblich
 Superlativ: nicht üblich
 
 ---
-[[zunächst einmal]], [[bis zunächst]], [[vorerst]]
+[[zunächst einmal]], [[bis zunächst]], [[vorerst]], [[CONNECTOR]]

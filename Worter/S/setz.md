@@ -1,1 +1,1 @@
-[[setzen]], [[einsetzen]]
+[[setzen]], [[einsetzen]], [[Entsetzen]]

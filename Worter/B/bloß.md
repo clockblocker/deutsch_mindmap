@@ -1,3 +1,3 @@
 just, merely
 
-**Ich finde das bloß anstrengend.**, [[erst]]
+**Ich finde das bloß anstrengend.**, [[erst]], [[CONNECTOR]]

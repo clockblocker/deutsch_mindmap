@@ -1,2 +1,2 @@
 , [[Sorgen]]
-🤔🔴 die [[Schwierigkeit]]
+🤔🔴 die [[Schwierigkeit]], [[Worter/Herausforderung]]

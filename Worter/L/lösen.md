@@ -1,8 +1,10 @@
 🧩 [[lösen]], [ˈløːzən] | [[löste]], haben [[gelöst]]
 
 ---
- Nur wenigen gelingt es, sich von ihrem eigenen Schatten zu [[lösen]]: Lucky Luke zum Beispiel schießt schneller als er und Peter Pan sucht ihn. Aber wie schafft man es, über seinen eigenen Schatten zu springen?
- 
+ Nur wenigen [[gelingt]] es, sich von ihrem eigenen [[Schatten]] zu [[lösen]]: Lucky Luke zum Beispiel schießt schneller als er und Peter Pan sucht ihn. Aber wie schafft man es, über seinen eigenen Schatten zu springen?
+
+ Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderung]], die so groß sind, dass man daraus ein Sprichwort machen muss.
+
 ---
 Synonyme: [[auflösen]], [[trennen]], [[befreien]], [[klären]], [[erledigen]]
 Antonyme: [[binden]], [[verknoten]], [[verkomplizieren]], [[verfangen]]

@@ -23,4 +23,4 @@ Morpheme:
 
 ---
 
-, [[sterben]], [[bald]]
+, [[sterben]], [[bald]], [[CONNECTOR]]

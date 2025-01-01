@@ -31,4 +31,4 @@ Morpheme: [[an 1]][[greif]][[en]]
 
 Partizip I: [[angreifend]], Partizip II: [[angegriffen]]
 
-[[angreifen]] - [[an 1]] = [[greifen]]
+[[angreifen]] - [[an 1]] = [[greifen]], [[Aggression]]

@@ -16,4 +16,4 @@ nevertheless, however, still, yet
 
 ---
 
-, [[Jedoch]], [[obwohl]], [[trotzdem]], [[immerhin]], [[Führerscheinprüfung]], [[vorbereiten]], [[Conjunctions]]
+, [[Jedoch]], [[obwohl]], [[trotzdem]], [[immerhin]], [[Führerscheinprüfung]], [[vorbereiten]], [[Conjunctions]], [[CONNECTOR]]

@@ -1,1 +1,1 @@
-, [[liegen]], [[unterbrechen]], [[weiterüben]], [[weitermachen]], [[aufhören]]
+, [[liegen]], [[unterbrechen]], [[weiterüben]], [[weitermachen]], [[aufhören]], [[weitergehen]]

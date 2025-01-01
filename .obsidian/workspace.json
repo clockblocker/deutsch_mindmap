@@ -36,6 +36,118 @@
             }
           },
           {
+            "id": "0f98da26fbf51c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 Das sagt man so!/Die Kuh vom Eis holen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die Kuh vom Eis holen"
+            }
+          },
+          {
+            "id": "d04cfa602bf42f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/S/ständigen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ständigen"
+            }
+          },
+          {
+            "id": "52efafa4b2482628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/S/ständig.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ständig"
+            }
+          },
+          {
+            "id": "8e153fe315e51a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/entsetzt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entsetzt"
+            }
+          },
+          {
+            "id": "bc5ff519c120c056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/entsetzt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entsetzt"
+            }
+          },
+          {
+            "id": "62cb1dba556f17fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/E/Entsetzen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entsetzen"
+            }
+          },
+          {
+            "id": "aebf3661b3811d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/entsetzt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entsetzt"
+            }
+          },
+          {
+            "id": "2249bfa342ae6285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/entsetzt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entsetzt"
+            }
+          },
+          {
             "id": "21f5062242a42cd0",
             "type": "leaf",
             "state": {
@@ -134,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,34 +389,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6de5cc429b40ae9d",
+  "active": "0f98da26fbf51c62",
   "lastOpenFiles": [
-    "Texte/b2 Das sagt man so!/Das Haar in der Suppe suchen.md",
-    "Worter/T/trostreich.md",
-    "Worter/T/trostlos.md",
-    "Worter/T/Trostlosigkeit.md",
-    "Worter/T/Tröstern.md",
-    "Worter/T/Tröster.md",
-    "Worter/T/Trost.md",
-    "Worter/Z/zu trösten.md",
-    "Worter/T/tröstend.md",
-    "Worter/T/tröstetet.md",
-    "Worter/T/trösten.md",
-    "Worter/T/trösteten.md",
-    "Worter/T/tröstet.md",
-    "Worter/T/tröstetest.md",
-    "Worter/T/tröstest.md",
-    "Worter/T/tröste.md",
-    "Worter/T/tröst.md",
-    "Worter/M/mitfühlen.md",
-    "Worter/A/aufmuntern.md",
-    "Worter/G/getröstet.md",
-    "Worter/T/tröstete.md",
-    "Worter/Q/quälen.md",
     "Texte/b2 Das sagt man so!/Alle.md",
-    "Worter/B/bericht.md",
-    "Worter/G/gefiel.md",
-    "Worter/G/gefallen.md",
+    "Texte/b2 Das sagt man so!/Die Kuh vom Eis holen.md",
+    "Worter/entsetzt.md",
+    "Worter/E/Entsetzlichkeit.md",
+    "Worter/E/entsetztertes.md",
+    "Worter/E/entsetzte.md",
+    "Worter/E/entsetztest.md",
+    "Worter/Aggressionen.md",
+    "Worter/A/Aggression.md",
+    "Worter/S/schlägt.md",
+    "Texte/b2 Das sagt man so!/Den Gürtel enger schnallen.md",
+    "Worter/H/holen.md",
+    "Worter/S/schlägt vor.md",
+    "Worter/V/vorschlagen.md",
+    "Worter/A/Aggressivität.md",
+    "Worter/A/aggredieren.md",
+    "Worter/A/aggressiv.md",
+    "Worter/G/gress.md",
+    "Worter/A/Ag.md",
+    "Worter/S/Sanftmut.md",
+    "Worter/F/Friedfertigkeit.md",
+    "Worter/S/Streitlust.md",
+    "Worter/K/Kampfbereitschaft.md",
+    "Worter/A/Angriffslust.md",
+    "Worter/S/ständigen.md",
+    "Worter/S/ständig.md",
     "Texte/c1",
     "Texte/Brüder Grimm",
     "Lektionen/Kamanova/Audio/L-07.mp3",

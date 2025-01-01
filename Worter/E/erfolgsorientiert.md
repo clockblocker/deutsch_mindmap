@@ -1,1 +1,1 @@
-, [[Erfolg]]
+, [[Erfolg]], [[erfolgreich]]

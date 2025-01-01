@@ -1,1 +1,1 @@
-, [[folgen]], [[verfolgen]], [[Erfolg]]
+, [[folgen]], [[verfolgen]], [[Erfolg]], [[Erfolgen]]

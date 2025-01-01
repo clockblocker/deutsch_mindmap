@@ -1,1 +1,1 @@
-, [[Panik]]
+, [[Panik]], [[Entsetzen]]

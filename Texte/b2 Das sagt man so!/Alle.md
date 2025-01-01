@@ -5,7 +5,7 @@
 - [x] [[Das Haar in der Suppe suchen]]
 - [x] [[Den Faden verlieren]]
 - [x] [[Den Gürtel enger schnallen]]
-- [ ] [[Den Nagel auf den Kopf treffen]] 
+- [ ] [[Den Nagel auf den Kopf treffen]]  
 - [ ] [[Die halbe Miete sein]]
 - [ ] [[Die Kuh vom Eis holen]]
 - [ ] [[Eigenlob stinkt]] 

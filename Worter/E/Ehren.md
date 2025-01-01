@@ -1,2 +1,2 @@
 🔴 die [[Ehre]]
-, [[schmeicheln]]
+, [[schmeicheln]], [[beschimpfen]]

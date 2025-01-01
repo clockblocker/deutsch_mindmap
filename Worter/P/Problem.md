@@ -7,7 +7,7 @@ die [[Probleme]]
 
 ---
 Synonyme:
-- [[Aufgabe]], [[Herausforderung]], [[Schwierigkeit]], [[Frage]], [[Dilemma]]
+- [[Aufgabe]], [[Worter/H/Herausforderung]], [[Schwierigkeit]], [[Frage]], [[Dilemma]]
 
 ---
 Übersetzung: problem
@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Problems]], [[Probleme]], [[Problemen]]
 
 ---
-#Substantiv #Maskulin, [[Sache]]
+#Substantiv #Maskulin, [[Sache]], [[Herausforderung]]

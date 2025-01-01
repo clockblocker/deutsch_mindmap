@@ -1,1 +1,1 @@
-, [[trotzdem]], [[dennoch]], [[Conjunctions]]
+, [[trotzdem]], [[dennoch]], [[Conjunctions]], [[CONNECTOR]]

@@ -3,8 +3,12 @@
 haben [[geschimpft]]
 
 ---
-*Mein Geschlecht [[schimpft]] mich [[Verräter]]*  
+*Mein [[Geschlecht]] [[schimpft]] mich [[Verräter]]*  
 *Ich bin der Albtraum aller Väter*  
+
+---
+[[beschimpfen]] - [[be]] = [[schimpfen]] / to insult, to abuse verbally
+
 
 ---
 Synonyme: [[schelten]], [[fluchen]], [[tadeln]], [[beschimpfen]], [[rügen]]

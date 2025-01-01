@@ -1,1 +1,1 @@
-, [[furchtbar]], [[schrecklich]]
+, [[furchtbar]], [[schrecklich]], [[Entsetzen]], [[entsetzt]]

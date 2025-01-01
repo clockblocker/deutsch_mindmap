@@ -1,1 +1,1 @@
-, [[Problem]], [[Tätigkeit]], [[Pflicht]], [[Verantwortung]]
+, [[Problem]], [[Tätigkeit]], [[Pflicht]], [[Verantwortung]], [[Herausforderung]]

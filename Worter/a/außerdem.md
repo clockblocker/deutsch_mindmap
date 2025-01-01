@@ -21,4 +21,4 @@ in addition, also, moreover, furthermore
 
 ---
 Morpheme:
-[[aus]][[er]][[dem]]
+[[aus]][[er]][[dem]], [[CONNECTOR]]

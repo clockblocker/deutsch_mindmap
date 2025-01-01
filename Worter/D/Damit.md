@@ -29,4 +29,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen: 
 [[Damit]]
-, [[11 08]], [[aufmachen]]
+, [[11 08]], [[aufmachen]], [[CONNECTOR]]

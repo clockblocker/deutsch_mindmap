@@ -23,4 +23,4 @@ Morpheme: [[ob]][[wohl]]
 
 ---
 #Konjunktion #Nebensatz
-, [[trotz]], [[Conjunctions]]
+, [[trotz]], [[Conjunctions]], [[CONNECTOR]]

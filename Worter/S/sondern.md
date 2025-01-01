@@ -26,4 +26,4 @@ Tags:
 ---
 
 Morphems:
-[[sondern]]
+[[sondern]], [[CONNECTOR]]

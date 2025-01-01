@@ -17,3 +17,4 @@ Morpheme:
 
 ---
 #Adverb #Konjunktion
+, [[CONNECTOR]]

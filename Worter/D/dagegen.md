@@ -29,4 +29,4 @@ Tags:
 Morphems:
 [[Da]][[gegen]]
 
-, [[dabei]], [[deshalb]], [[Damit]], [[11 08]], [[ebenfalls]], [[einverstanden]], [[da]]
+, [[dabei]], [[deshalb]], [[Damit]], [[11 08]], [[ebenfalls]], [[einverstanden]], [[da]], [[CONNECTOR]]
