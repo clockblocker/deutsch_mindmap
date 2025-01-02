@@ -1,1 +1,1 @@
-, [[Zuschauer]], [[Gastdozent]]
+, [[Zuschauer]], [[Gastdozent]], [[Gästehaus]], [[Staatsgast]]

@@ -26,6 +26,7 @@ Katara und Sokka [[halten]] sich an der Eisscholle fest und werden mit ihr von e
 [[mithalten]] - [[mit]] = [[halten]]               / to keep up (with)
 [[erhalten]] - [[er]] = [[halten]]                   /  to receive, to get, to maintain
 [[unterhalten]] - [[unter]] = [[halten]]        / переговориваться 
+[[abhalten]] - [[ab]] = [[halten]]                  /  to hold, to conduct, to prevent
 
 
 
@@ -97,4 +98,4 @@ Konjunktiv II:
 - Wenn er es wüsste, [[hielte]] er sein Versprechen.
 - Wenn wir die Zeit hätten, [[hielten]] wir das Treffen.
 - Wenn ihr geduldiger wäret, [[hieltet]] ihr durch.
-- Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]], [[fassen]], [[aushalten]], [[aufhalten]], [[mithalten]], [[schieben]], [[s1 e1]]
+- Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]], [[fassen]], [[aushalten]], [[aufhalten]], [[mithalten]], [[schieben]], [[s1 e1]], [[abhalten]]

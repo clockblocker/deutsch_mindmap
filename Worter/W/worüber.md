@@ -18,4 +18,4 @@ about what, about which, regarding what, regarding which
 Morpheme:
 [[wor]][[über]]
 
----
+---, [[Woraus]], [[woran]]

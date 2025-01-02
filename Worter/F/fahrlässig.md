@@ -1,1 +1,1 @@
-[[schlampig]], [[ordentlich]]
+[[schlampig]], [[ordentlich]], [[verantwortlich]]

@@ -59,4 +59,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Verlangens]], [[Verlangen]], [[Verlangen]], [[Verlangen]]
 
 ---
-#Substantiv #Neutral, [[Lust]], [[ablehnen]]
+#Substantiv #Neutral, [[Lust]], [[ablehnen]], [[Aufruf]], [[Anspruch]]

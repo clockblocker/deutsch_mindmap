@@ -1,1 +1,1 @@
-, [[heut]], [[vergangen]], [[bisher]], [[zurzeit]]
+, [[heut]], [[vergangen]], [[bisher]], [[zurzeit]], [[jetzig]]

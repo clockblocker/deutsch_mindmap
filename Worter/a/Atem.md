@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Atems]], [[Atem]], [[Atemzüge]], [[Atemzügen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Deutschland]]

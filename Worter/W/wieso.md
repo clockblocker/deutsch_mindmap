@@ -20,4 +20,4 @@ Morpheme:
 
 ---
 #Adverb
-```
+```, [[Woraus]]

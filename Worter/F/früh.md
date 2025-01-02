@@ -13,6 +13,13 @@ Du bist [[früh]] [[dran]]!
 
 Die Eltern [[ansehen|sehen]] sich an. „Und wir beide? Wir machen mal w jeder Urlaub zu zweit. So wie [[früher]]!“
 
+„[[Früher]] haben wir uns jeden Donnerstag zu einem [[Feierabendbier]] [[getroffen]] …“, [[bemerkt]] Peter. „Aber Donnerstag ist unser Kinoabend …“, [[erwidert]] Leo. 
+
+
+284. Was man für die Arbeit können muss, [[ändert]] sich in der [[Zukunft]] sehr schnell. Was kann man tun? (99%)
+	- [x] [[Erwachsene]] müssen auch nach der [[Ausbildung]] immer weiter lernen.
+	- [ ] Alle müssen [[früher]] [[aufhören]] zu arbeiten, weil sich alles [[ändert]].
+
 
 ---
 Synonyme: [[zeitig]], [[frühzeitig]], [[vorzeitig]], [[zeitlich]]

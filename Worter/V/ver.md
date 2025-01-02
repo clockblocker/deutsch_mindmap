@@ -4,4 +4,4 @@ weg von Basis, oft negative
 [[stellen]]
 
 
-[[an 1]], [[verlaufen]], [[versammeln]], [[verantworten]], [[verbuchen]], [[verbessern]], [[bessern]], [[verraten]], [[vereinbaren]], [[verschlafen]], [[verbringen]], [[mischen]], [[verscheiden]], [[verbinden]], [[verzweifeln]], [[verfeinden]], [[feinden]], [[vertragen]]
+[[an 1]], [[verlaufen]], [[versammeln]], [[verantworten]], [[verbuchen]], [[verbessern]], [[bessern]], [[verraten]], [[vereinbaren]], [[verschlafen]], [[verbringen]], [[mischen]], [[verscheiden]], [[verbinden]], [[verzweifeln]], [[verfeinden]], [[feinden]], [[vertragen]], [[Vernichtung]], [[Verhalten]], [[schmücken]], [[verkleiden]]

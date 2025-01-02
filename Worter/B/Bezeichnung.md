@@ -1,1 +1,1 @@
-, [[Wort]], [[Ausdruck]], [[bezeichnen]]
+, [[Wort]], [[Ausdruck]], [[bezeichnen]], [[sogenannt]]

@@ -13,7 +13,7 @@ Igel gefressen … oder dass ich zum Mond [[gefahren]] bin …
 
 
 ---
-Synonyme: [[reisen]], [[transportieren]], [[bewegen]], [[steuern]], [[navigieren]]
+Synonyme: [[reisen]], [[transportieren]], [[bewegen]], [[Steuern]], [[navigieren]]
 Antonyme: [[stillstehen]], [[parken]], [[anhalten]]
 
 ---

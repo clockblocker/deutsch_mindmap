@@ -21,3 +21,4 @@ Einzigartige mögliche Formen:
 [[anspruchsvoll]], [[anspruchsvoller]], [[anspruchsvolle]], [[anspruchsvolles]], [[anspruchsvollen]], [[anspruchsvollem]], [[anspruchsvoller]], [[anspruchsvollen]]
 [[anspruchsvoller]], [[anspruchsvollerer]], [[anspruchsvollere]], [[anspruchsvolleres]], [[anspruchsvolleren]], [[anspruchsvollerem]], [[anspruchsvollerer]], [[anspruchsvolleren]]
 [[anspruchsvollsten]], [[anspruchsvollster]], [[anspruchsvollenste]], [[anspruchsvollestem]], [[anspruchsvollensten]], [[anspruchsvollstem]], [[anspruchsvollster]], [[anspruchsvollsten]]
+, [[Anspruch]]

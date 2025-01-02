@@ -24,9 +24,9 @@ Morpheme: [[steu]][[er]][[e]]
 | Ich | [[steuere]] | [[steuerte]] | - | [[steuere]] | [[steuerte]] |
 | Du | [[steuerst]] | [[steuertest]] | [[steuere]] | [[steuerest]] | [[steuertest]] |
 | Er/sie/es | [[steuert]] | [[steuerte]] | - | [[steuere]] | [[steuerte]] |
-| Wir | [[steuern]] | [[steuerten]] | - | [[steuern]] | [[steuerten]] |
+| Wir | [[Steuern]] | [[steuerten]] | - | [[Steuern]] | [[steuerten]] |
 | Ihr | [[steuert]] | [[steuertet]] | [[steuert]] | [[steuerets]] | [[steuertet]] |
-| Sie | [[steuern]] | [[steuerten]] | [[steuern Sie]] | [[steuern]] | [[steuerten]] |
+| Sie | [[Steuern]] | [[steuerten]] | [[steuern Sie]] | [[Steuern]] | [[steuerten]] |
 
 Partizip I: [[steuerend]], Partizip II: [[gesteuert]]
 

@@ -1,3 +1,3 @@
 die grosse elnern 
 
-ferziehen 
+ferziehen , [[Erziehungsberechtigten]]

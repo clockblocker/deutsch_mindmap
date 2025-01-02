@@ -4,6 +4,11 @@ nicht [[einfarbig]]
 ---
 Ihre Freundin Natalja hatte so ihre Zweifel, ob die beiden sich dort wohlfühlen würden, denn bei Freddie und Amelie war es immer [[bunt]] und laut und ziemlich unordentlich. 
 
+271. Was ist in Deutschland ein [[Brauch]] zu Weihnachten? (97%)
+	- [ ] [[bunte]] Eier [[verstecken]]
+	- [x] einen [[Tannenbaum]] [[schmücken]]
+
+
 , [[Buntwäsche]]
 
 ---

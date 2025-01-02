@@ -8,7 +8,7 @@ Sprechen Sie mit meiner Agentin, Sascha - vielleicht können Sie das 
 DIE GLEICHEN [[REGELN]] GELTEN!  
 
 ---
-Synonyme: [[ordnen]], [[lenken]], [[steuern]], [[bestimmen]], [[kontrollieren]]
+Synonyme: [[ordnen]], [[lenken]], [[Steuern]], [[bestimmen]], [[kontrollieren]]
 Antonyme: [[durcheinanderbringen]], [[verwirren]], [[auflösen]]
 
 ---

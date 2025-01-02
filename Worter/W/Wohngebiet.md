@@ -1,1 +1,1 @@
-, [[Siedlung]]
+, [[Siedlung]], [[Wohnort]]

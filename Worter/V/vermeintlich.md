@@ -1,1 +1,1 @@
-, [[tatsächlich]], [[eigentlich]], [[wahrscheinlich]]
+, [[tatsächlich]], [[eigentlich]], [[wahrscheinlich]], [[sogenannt]]

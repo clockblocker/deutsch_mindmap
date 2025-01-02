@@ -11,6 +11,10 @@ haben [[aufgehalten]]
 Nur der Avatar, Herr der 4 Elemente, hätte sie [[aufhalten]] können. 
 
 Nur der Avatar beherrschte alle vier Elemente, nur er hätte den gewaltigen Angriff der Feuerbändiger [[aufhalten]] können.
+
+71. Wo [[aufhalten|hält]] sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am [[häufigsten]] auf? Am [[häufigsten]] ist er / sie … (98%)
+	- [x] in Berlin, weil sich dort das [[Bundeskanzleramt]] und der Bundestag [[befinden]].
+
   
 
 ---

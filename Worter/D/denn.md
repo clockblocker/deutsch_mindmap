@@ -15,4 +15,4 @@ so then
 
 #empasis
 
-, [[riechen]], [[dennoch]], [[CONNECTOR]]
+, [[riechen]], [[dennoch]], [[CONNECTOR]], [[desto]]

@@ -31,4 +31,4 @@ Morpheme: [[ab]][[schließ]][[en]]
 
 Partizip I: [[abschließend]], Partizip II: [[abgeschlossen]]
 [[abschließen]] - [[ab]] = [[schließen]]
-''', [[Abschlussbericht]], [[Abschluss]]
+''', [[Abschlussbericht]], [[Abschluss]], [[Schulabschluss]]

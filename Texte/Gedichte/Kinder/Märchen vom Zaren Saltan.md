@@ -3,7 +3,7 @@
 *redet eine von den drein:*  
 *»Ach, könnt ich doch Zarin sein!*  
 *Für die ganze weite Welt*  
-*hätt ich selbst ein [[Fest]] bestellt!«*  
+*hätt ich selbst ein [[fest]] bestellt!«*  
 
 *Sprach die zweite von den drein:*  
 *»Schwester, könnt ich Zarin sein,*  

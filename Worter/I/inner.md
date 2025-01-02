@@ -1,1 +1,1 @@
-, [[Erinnerung]], [[innerhalb]]
+, [[Erinnerung]], [[innerhalb]], [[erinnern]]

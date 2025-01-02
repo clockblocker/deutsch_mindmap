@@ -1,1 +1,1 @@
-, [[verdecken]]
+, [[verdecken]], [[verkleiden]]

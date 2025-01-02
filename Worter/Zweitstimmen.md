@@ -1,0 +1,1 @@
+🗳️ die [[Zweitstimme]], [ˈtsvɑɪ̯tˌʃtɪmə]]

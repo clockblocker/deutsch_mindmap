@@ -19,4 +19,4 @@ Morphems:
 [[aus]][[land]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[Deutschland]], [[Wohnort]]

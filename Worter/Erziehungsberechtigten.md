@@ -1,0 +1,1 @@
+🧑‍👧 der [[Erziehungsberechtigte]], [ɛɐ̯ˈtsiːʊ̯ŋsb̥ɛˈʁɛçtɪɡtə]

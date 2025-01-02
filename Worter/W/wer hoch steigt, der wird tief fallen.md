@@ -1,3 +1,3 @@
 [[proverbs]]
 
-[[Wer]] hoch steigt, der wird [[tief]] fallen
+[[Wer]] hoch steigt, der wird [[tief]] fallen, [[Deutschland]]

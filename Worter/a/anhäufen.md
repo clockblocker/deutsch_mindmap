@@ -1,1 +1,1 @@
-, [[ansammeln]], [[sammeln]], [[streuen]], [[stapeln]]
+, [[ansammeln]], [[sammeln]], [[streuen]], [[stapeln]], [[häufig]]

@@ -1,1 +1,1 @@
-, [[Haustür]]
+, [[Haustür]], [[Gebetshaus]], [[Gästehaus]]

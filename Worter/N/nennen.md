@@ -32,3 +32,4 @@ Partizip I: [[nennend]], Partizip II: [[genannt]]
 
 
 [[heißen]]
+, [[sogenannt]]

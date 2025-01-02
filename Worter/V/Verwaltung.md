@@ -1,1 +1,1 @@
-, [[Aufsicht]], [[leiten]]
+, [[Aufsicht]], [[leiten]], [[Regierung]], [[Behörde]]

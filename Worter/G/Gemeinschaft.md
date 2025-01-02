@@ -1,1 +1,1 @@
-, [[Verein]], [[Gesellschaft]]
+, [[Verein]], [[Gesellschaft]], [[Sozialstunde]]

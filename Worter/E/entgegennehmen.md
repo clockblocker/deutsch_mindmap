@@ -1,1 +1,1 @@
-[[abholen]]
+[[abholen]], [[empfangen]]

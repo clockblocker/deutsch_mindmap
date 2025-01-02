@@ -23,4 +23,4 @@ Morphems:
 [[Geist]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Deutschland]]

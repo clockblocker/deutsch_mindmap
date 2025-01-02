@@ -29,4 +29,4 @@ Verwandte Ausdrücke:
 [[manchmal]] ≠ [[nie]]
 [[manchmal]] ≈ [[selten]]
 
-[[manchmalig]]
+[[manchmalig]], [[häufig]]

@@ -48,4 +48,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gesellen]], [[Gesellen]], [[Gesellen]], [[Gesellen]]
 
 ---
-#Substantiv #Maskulin, [[Gesellschaft]]
+#Substantiv #Maskulin, [[Gesellschaft]], [[Gesellenprüfung]]

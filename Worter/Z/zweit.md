@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[zweit]], [[zweite]], [[zweites]], [[zweiter]], [[zweiten]], [[zweitem]]
 [[zweite]], [[zweiter]], [[zweites]], [[zweite]], [[zweiten]], [[zweitem]]
-[[zweiten]], [[zweite]], [[zweites]], [[zweiter]], [[zweite]], [[zweitem]]
+[[zweiten]], [[zweite]], [[zweites]], [[zweiter]], [[zweite]], [[zweitem]], [[Zweitstimme]]

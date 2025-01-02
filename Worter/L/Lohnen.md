@@ -31,3 +31,4 @@ Morpheme: [[lohn]][[en]]
 | Sie       | [[lohnen]]           | [[lohnten]]           | [[lohnen Sie]]    | [[lohnen]]             | [[lohnten]]             |
 
 Partizip I: [[lohnend]], Partizip II: [[gelohnt]]
+, [[Lohnsteuer]]

@@ -1,2 +1,2 @@
 [[erkältet]]
-, [[gesund]], [[kerngesund]]
+, [[gesund]], [[kerngesund]], [[Krankenkasse]]

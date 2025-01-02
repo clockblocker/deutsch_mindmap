@@ -1,1 +1,1 @@
-[[überfallen]], [[angreifen]], [[ermorden]], [[morden]], [[wehrten]], [[schützen]], [[verantworten]]
+[[überfallen]], [[angreifen]], [[ermorden]], [[morden]], [[wehrten]], [[schützen]], [[verantworten]], [[beschützen]]

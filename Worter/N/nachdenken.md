@@ -28,4 +28,4 @@ Morpheme: [[nach]][[denk]][[en]]
 | Sie | [[denken nach]] | [[dachten nach]] | [[denken Sie nach]] | [[denken nach]] | [[dächten nach]] |
 
 Partizip I: [[nachdenkend]], Partizip II: [[nachgedacht]]
-[[nachdenken]] - [[nach]] = [[denken]], [[überlegen]]
+[[nachdenken]] - [[nach]] = [[denken]], [[überlegen]], [[erinnern]]

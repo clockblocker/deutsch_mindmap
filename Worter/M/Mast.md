@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Mastes]], [[Maste]], [[Mäste]], [[Masten]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Fahne]]

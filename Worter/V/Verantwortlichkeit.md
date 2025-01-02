@@ -1,1 +1,1 @@
-, [[verantworten]]
+, [[verantworten]], [[verantwortlich]]

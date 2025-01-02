@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schule]], [[Schules]], [[Schule]], [[Schulen]], [[Schule]], [[Schule]], [[Schulen]], [[Schulen]]
 
 ---
-#Substantiv #Feminin, [[Gesamtschule]]
+#Substantiv #Feminin, [[Gesamtschule]], [[Ersteinschulung]]

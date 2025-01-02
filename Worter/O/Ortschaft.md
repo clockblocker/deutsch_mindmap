@@ -1,1 +1,1 @@
-, [[Stadt]], [[Dorf]]
+, [[Stadt]], [[Dorf]], [[Gemeinde]]

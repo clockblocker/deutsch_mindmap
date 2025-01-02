@@ -8,7 +8,7 @@ Nur der Avatar [[beherrschte]] alle vier Elemente, nur er hätte den gewaltigen 
 Nein. Ihr seid zu ungeduldig. Ihr müsst zuerst die Grundlagen richtig [[beherrschen]]! Weiterüben.
 
 ---
-Synonyme: [[kontrollieren]], [[meistern]], [[steuern]], [[handhaben]], [[regieren]]
+Synonyme: [[kontrollieren]], [[meistern]], [[Steuern]], [[handhaben]], [[regieren]]
 Antonyme: [[verlieren]], [[aufgeben]], [[hilflos sein]], [[kapitulieren]]
 
 ---

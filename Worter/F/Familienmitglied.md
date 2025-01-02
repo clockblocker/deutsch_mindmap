@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Familien]][[mitglied]]
+[[Familien]][[Mitglied]]
 
 ---
 Einzigartige mögliche Formen: 

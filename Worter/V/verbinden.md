@@ -35,3 +35,4 @@ Zu+infinitive: [[zu verbinden]]
 [[trennen]][[teilen]], [[anschließen]], [[trauen]], [[gesellen]], [[reißen]], [[schneiden]], [[auflösen]], [[telefonieren]], [[lösen]], [[ausschneiden]], [[binden]], [[zusammenschrauben]]
 
 
+, [[knüpfen]]

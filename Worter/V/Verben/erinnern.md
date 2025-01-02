@@ -1,64 +1,36 @@
-🧠 [[erinnern]]  
-[[erinnerte]]  
-haben [[erinnert]]
+💭 [[erinnern]], [ɛˈrɪnɐn] | [[erinnerte]], haben [[erinnert]]
 
 ---
 Jetzt [[erinnere]] ich mich [[wieder]].  
 
----
-
-**Synonyme:**
-
-- [[gedenken]], [[zurückdenken]], [[ins Gedächtnis rufen]]
-
----
-
-**Beispiele:**
-
-- Ich [[erinnere]] mich an dich.
-- Du [[erinnerst]] mich an ihn.
-- Er [[erinnert]] sich an seine Kindheit.
-- Es [[erinnert]] mich an früher.
-- Sie [[erinnert]] uns an den Termin.
-- Wir [[erinnern]] uns an die Reise.
-- Ihr [[erinnert]] euch an das Treffen.
-- Sie [[erinnern]] mich an meine Großeltern.
+206. Woran [[erinnern]] die [[sogenannten]] „[[Stolpersteine]]“ in Deutschland? (100%)
+	- [ ] an [[berühmte]] deutsche Politikerinnen und Politiker
+	- [x] an die [[Opfer]] des Nationalsozialismus
+	- [ ] an [[Verkehrstote]]
+	- [ ] an bekannte jüdische Musiker
 
 ---
-
-**Übersetzung**:
-to remember, to remind
-
----
- #Verb
+= [[gedenken]], [[nachdenken]], [[zurückdenken]]
+≈ [[sich entsinnen]], [[reflektieren]], [[wahrnehmen]]
+≠ [[vergessen]], [[verdrängen]], [[ignorieren]]
 
 ---
-
-**Präteritum:**
-
-- Ich [[erinnerte]] mich an dich.
-- Du [[erinnertest]] mich an ihn.
-- Er [[erinnerte]] sich an seine Kindheit.
-- Es [[erinnerte]] mich an früher.
-- Sie [[erinnerte]] uns an den Termin.
-- Wir [[erinnerten]] uns an die Reise.
-- Ihr [[erinnertet]] euch an das Treffen.
-- Sie [[erinnerten]] mich an meine Großeltern.
+to remember, to recall, to remind
 
 ---
-
-**Imperativ:**
-
-- Ich [[erinnere]] mich.
-- Du [[erinnere]] dich.
-- Er [[erinnere]] sich.
-- Es [[erinnert]] sich.
-- Sie [[erinnere]] sich.
-- Wir [[erinnern]] uns.
-- Ihr [[erinnert]] euch.
-- Sie [[erinnern]] sich.
+[[er]][[inner]][[n]]
 
 ---
+ich: [[erinnere]], [[erinnerte]], –, [[erinnere]], [[erinnerte]]
+du: [[erinnerst]], [[erinnertest]], [[erinnere]] | [[erinner]] | [[erinnere]], [[erinnerst]], [[erinnertest]]
+er/sie/es: [[erinnert]], [[erinnerte]], –, [[erinnere]], [[erinnerte]]
+wir: [[erinnern]], [[erinnerten]], [[erinnern wir|erinnern]], [[erinnern]], [[erinnerten]]
+ihr: [[erinnert]], [[erinnertet]], [[erinnert]], [[erinnert]], [[erinnertet]]
 
-**Morphems of only infinitive:**  
-- [[erinner]][[n]], [[behalten]]
+PI: [[erinnernd]], PII: [[erinnert]], Zu+inf: [[zu erinnern]]
+
+---
+[[erinnern]] - [[er]] = [[innern]] / to remember, to recall, to remind
+
+---
+[[Erinnerung]], [[erinnerlich]], [[Erinnerungsvermögen]], [[Erinnerungsfoto]], [[Erinnerungsstück]]

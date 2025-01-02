@@ -3,6 +3,10 @@
 ---
 Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können. „Stopp!“, ruft Jannis. „Du bekommst ja dein Budget. Und jetzt [[aufhören|hör]] auf, mir Honig um den Bart zu schmieren. Natürlich sehe ich die [[Vorteile]] selbst. Ich arbeite ja schon lange in dieser [[Branche]].“ 
 
+284. Was man für die Arbeit können muss, [[ändert]] sich in der [[Zukunft]] sehr schnell. Was kann man tun? (99%)
+	- [x] [[Erwachsene]] müssen auch nach der [[Ausbildung]] immer weiter lernen.
+	- [ ] Alle müssen [[früher]] [[aufhören]] zu arbeiten, weil sich alles [[ändert]].
+
 ---
 Synonyme: [[enden]], [[stoppen]], [[beenden]], [[abbrechen]], [[pausieren]]
 Antonyme: [[beginnen]], [[starten]], [[fortfahren]], [[weitermachen]]

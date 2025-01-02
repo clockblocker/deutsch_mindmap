@@ -1,1 +1,1 @@
-, [[umentscheiden]], [[Entscheidung]]
+, [[umentscheiden]], [[Entscheidung]], [[Beschluss]]

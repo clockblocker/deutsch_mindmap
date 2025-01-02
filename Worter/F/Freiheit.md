@@ -1,1 +1,1 @@
-, [[Pflicht]]
+, [[Pflicht]], [[Freiheitsstrafe]]

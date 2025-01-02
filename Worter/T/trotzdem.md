@@ -38,4 +38,4 @@ Stilistische Nuancen:
 
 
  [[deshalb]], [[bald]], [[obwohl]], [[soweit]]
-, [[immerhin]], [[Conjunctions]], [[CONNECTOR]]
+, [[immerhin]], [[Conjunctions]], [[CONNECTOR]], [[desto]]

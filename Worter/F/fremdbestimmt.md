@@ -1,1 +1,1 @@
-, [[selbst]]
+, [[selbst]], [[selbständig]]

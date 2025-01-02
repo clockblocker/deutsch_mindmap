@@ -31,4 +31,4 @@ Morpheme: [[über]][[fall]][[en]]
 
 Partizip I: [[überfallénd]], Partizip II: [[überfalléñ]]
 
-[[überfallen]] - [[über]] = [[fallen]]
+[[überfallen]] - [[über]] = [[fallen]], [[Deutschland]]

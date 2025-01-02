@@ -1,1 +1,1 @@
-, [[Fähnchen]]
+, [[Fähnchen]], [[Fahne]]

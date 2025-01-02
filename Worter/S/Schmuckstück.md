@@ -1,1 +1,1 @@
-, [[kette]]
+, [[kette]], [[Reichskrone]]

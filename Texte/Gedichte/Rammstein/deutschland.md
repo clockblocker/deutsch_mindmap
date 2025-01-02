@@ -63,3 +63,30 @@ Kann ich dir nicht geben
 (Deutschland)
 
 Translate to English
+
+
+🔵 das [[Deutschland]], [ˈdɔʏ̯tʃlant]
+die [[Deutschländer]]
+
+---
+
+
+---
+= [[Bundesrepublik]], [[Vaterland]]
+≈ [[Heimat]], [[Staat]], [[Nation]]
+≠ [[Ausland]], [[Fremde]], [[andere Länder]]
+
+---
+Germany
+
+---
+[[Deutsch]][[land]]
+
+---
+N: das [[Deutschland]], die [[Deutschländer]]  
+A: das [[Deutschland]], die [[Deutschländer]]  
+G: des [[Deutschlands]], der [[Deutschländer]]  
+D: dem [[Deutschland]], den [[Deutschländern]]  
+
+---
+[[deutsch]], [[Deutscher]], [[Deutsche]], [[deutsche]], [[deutschsprachig]], [[Deutschtum]]

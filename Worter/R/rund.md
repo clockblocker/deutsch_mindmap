@@ -11,6 +11,9 @@ nicht [[eckig]]
 *Hab' 'n Luftballon gefunden*  
 *Denk' an dich und lass' ihn fliegen*
 
+118. Wer darf bei den [[rund]] 40 jüdischen Makkabi-[[Sportvereinen]] [[Mitglied]] werden? (100%)
+	- [x] alle Menschen
+
 ---
 Synonyme: [[kreisförmig]], [[zirkelrund]], [[kugelförmig]], [[kugelig]], [[roh]]
 Antonyme: [[eckig]], [[unregelmäßig]], [[kantig]], [[uneben]]

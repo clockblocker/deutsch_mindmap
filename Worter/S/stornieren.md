@@ -1,1 +1,1 @@
-, [[bestellt]], [[abmachen]], [[abbestellen]], [[vereinbaren]]
+, [[bestellt]], [[abmachen]], [[abbestellen]], [[vereinbaren]], [[anmelden]]

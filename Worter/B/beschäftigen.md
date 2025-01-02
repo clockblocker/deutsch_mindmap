@@ -7,6 +7,9 @@ Mit seiner Kamera machte Fred Fotos für seine Freunde zu Hause. Aber dann passi
 
 Julian arbeitet zwei Tage pro Woche im Homeoffice. Normalerweise klappt das problemlos, aber heute ist seine Tochter Maja erkältet und geht nicht in die [[Kita]]. Zum Glück hat er noch ein [[Malbuch]] gefunden, mit dem sie sich [[begeistert]] [[beschäftigt]]. So kann er seinem Team in Ruhe das neue Projekt vorstellen.
 
+23. In Deutschland sind die [[meisten]] [[Erwerbstätigen]] … (97%)
+	- [x] bei einer Firma oder [[Behörde]] [[beschäftigt]].
+
 
 ---
 Synonyme: [[Arbeiten]], [[anstellen]], [[unterhalten]], [[tätig sein]], [[engagieren]]

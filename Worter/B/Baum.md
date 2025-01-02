@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Baums]], [[Baume]], [[Bäume]], [[Bäumen]]
 
 ---
-#Substantiv #Maskulin, [[Buchen]], [[Baumwolle]], [[Holz]]
+#Substantiv #Maskulin, [[Buchen]], [[Baumwolle]], [[Holz]], [[Tannenbaum]]

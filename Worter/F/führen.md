@@ -10,7 +10,7 @@ Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[untersch
 
 
 ---
-Synonyme: [[leiten]], [[lenken]], [[anführen]], [[steuern]], [[begleiten]]
+Synonyme: [[leiten]], [[lenken]], [[anführen]], [[Steuern]], [[begleiten]]
 Antonyme: [[folgen]], [[verlassen]], [[ignorieren]]
 
 ---

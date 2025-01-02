@@ -3,4 +3,4 @@ Der Tod
 - Er schlug die Stuhl und Vogel tot,  
   die Katzen litten große Not.  
 
-death
+death, [[Geburt]]

@@ -6,7 +6,7 @@ haben [[bedient]]
 [[Fernbedienung]]
 
 ---
-Synonyme: [[handhaben]], [[verwalten]], [[steuern]], [[navigieren]], [[betätigen]]
+Synonyme: [[handhaben]], [[verwalten]], [[Steuern]], [[navigieren]], [[betätigen]]
 Antonyme: [[ignorieren]], [[vernachlässigen]], [[missachten]], [[außer Acht lassen]]
 
 ---

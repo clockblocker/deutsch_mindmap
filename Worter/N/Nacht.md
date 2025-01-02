@@ -21,4 +21,4 @@ Alle Formen:
 | Nominative  | die Nacht          | die Nächte       |
 | Accusative  | die Nacht          | die Nächte       |
 | Dative      | der Nacht          | den Nächten      |
-| Genitive    | der Nacht          | der Nächte       |, [[Nachttisch]]
+| Genitive    | der Nacht          | der Nächte       |, [[Nachttisch]], [[Nachtruhe]]

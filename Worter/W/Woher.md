@@ -25,3 +25,4 @@ Tags:
 
 Morphems:
 [[Wo]][[her]]
+, [[Woraus]]

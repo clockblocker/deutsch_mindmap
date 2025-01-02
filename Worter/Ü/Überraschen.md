@@ -29,4 +29,4 @@ Morpheme: [[über]][[rasch]][[en]]
 | Sie       | [[überraschen]]      | [[überraschten]]      | [[überraschen Sie]] | [[überraschen]]      | [[überraschten]]        |
 
 Partizip I: [[überraschend]], Partizip II: [[überrascht]]
-[[überraschen]] - [[über]] = [[raschen]]
+[[überraschen]] - [[über]] = [[raschen]], [[Deutschland]]

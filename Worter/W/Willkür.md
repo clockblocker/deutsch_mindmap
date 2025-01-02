@@ -1,1 +1,1 @@
-, [[Pflicht]]
+, [[Pflicht]], [[Grundgesetz]], [[Gesetz]]

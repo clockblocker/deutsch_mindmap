@@ -4,6 +4,9 @@ die [[Abituren]]
 ---
 Mona hat gerade ihr [[Abitur]] gemacht. Die große Frage [[lautet]]: Was macht sie nun? 
 
+244. Welchen [[Schulabschluss]] braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen? (98%)
+	- [x] das [[Abitur]]
+
 
 ---
 Synonyme:

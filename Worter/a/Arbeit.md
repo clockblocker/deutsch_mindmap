@@ -19,4 +19,4 @@ Morphems:
 [[arbeit 1]]
 
 ---
-#Substantiv #Feminin[[Beruf]], [[Werk]], [[Doktorarbeit]]
+#Substantiv #Feminin[[Beruf]], [[Werk]], [[Doktorarbeit]], [[Arbeitsamt]], [[erwerbstätig]]

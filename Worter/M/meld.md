@@ -1,1 +1,1 @@
-, [[melden]], [[Meldung]]
+, [[melden]], [[Meldung]], [[anmelden]]

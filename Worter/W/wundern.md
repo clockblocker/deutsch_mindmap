@@ -33,4 +33,4 @@ Morpheme: [[wund]][[ern]]
 Partizip I: [[sich wundernd]], Partizip II: [[sich gewundert]]
 
 [[wundern]] - [[wund]][[ern]]
-''', [[bewundern]]
+''', [[bewundern]], [[fest]]

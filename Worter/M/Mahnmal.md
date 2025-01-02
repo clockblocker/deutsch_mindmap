@@ -1,1 +1,1 @@
-, [[Denkmal]]
+, [[Denkmal]], [[Stolpersteine]]

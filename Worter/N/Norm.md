@@ -1,1 +1,1 @@
-, [[Regel]]
+, [[Regel]], [[Gesetz]]

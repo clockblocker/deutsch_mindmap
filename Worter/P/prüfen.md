@@ -1,1 +1,1 @@
-[[ansehen]], [[vergleichen]], [[durchchecken]], [[absuchen]], [[Führerscheinprüfung]], [[durchsuchen]]
+[[ansehen]], [[vergleichen]], [[durchchecken]], [[absuchen]], [[Führerscheinprüfung]], [[durchsuchen]], [[Gesellenprüfung]]

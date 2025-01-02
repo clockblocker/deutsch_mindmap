@@ -1,0 +1,1 @@
+, [[Freiheitsstrafe]], [[Geldstrafe]]

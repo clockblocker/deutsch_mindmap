@@ -1,1 +1,1 @@
-, [[abschließen]], [[schützen]]
+, [[abschließen]], [[schützen]], [[beschützen]]

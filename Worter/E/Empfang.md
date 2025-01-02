@@ -1,1 +1,1 @@
-, [[Begrüßung]]
+, [[Begrüßung]], [[empfangen]]

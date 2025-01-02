@@ -30,4 +30,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[möglich]], [[mögliche]], [[mögliches]], [[möglichen]], [[möglicher]], [[möglichem]]
 [[möglicher]], [[möglichere]], [[möglicheres]], [[möglicheren]], [[möglicherer]], [[möglicherem]]
-[[möglichsten]], [[möglichster]], [[möglichste]], [[möglichstes]], [[möglichsten]], [[möglichstem]], [[Extra 8]], [[Möglichkeit]]
+[[möglichsten]], [[möglichster]], [[möglichste]], [[möglichstes]], [[möglichsten]], [[möglichstem]], [[Extra 8]], [[Möglichkeit]], [[erlaubt]]

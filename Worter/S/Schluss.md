@@ -27,4 +27,4 @@ end, conclusion
 ---
 
 **Morphems of only infinitive:**
-- [[Schluss]], [[entgegenfiebern]], [[schließlich]]
+- [[Schluss]], [[entgegenfiebern]], [[schließlich]], [[Beschluss]], [[Schulabschluss]]

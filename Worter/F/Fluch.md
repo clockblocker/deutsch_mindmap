@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fluchs]], [[Fluche]], [[Flüche]], [[Flüchen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Deutschland]]

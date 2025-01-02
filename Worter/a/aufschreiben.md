@@ -1,7 +1,10 @@
 🖊️ [[aufschreiben]] | [[schrieb auf|schrieb auf]], haben [[aufgeschrieben]]
 
 ---
-„Ich dachte schon, ich hätte mir die falsche Hausnummer [[aufgeschrieben]]“, sagt Natalja. 
+„Ich dachte schon, ich hätte mir die falsche Hausnummer [[aufgeschrieben]]“, sagt Natalja.
+
+291. Warum muss man in Deutschland bei der [[Steuererklärung]] [[aufschreiben]], ob man zu einer Kirche gehört oder nicht? Weil … (97%)
+	- [x] es eine [[Kirchensteuer]] gibt, die an die Einkommen- und [[Lohnsteuer]] [[geknüpft]] ist.
 
 ---
 Synonyme: [[notieren]], [[niederschreiben]], [[protokollieren]], [[vermerken]], [[dokumentieren]]

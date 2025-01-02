@@ -39,4 +39,4 @@ Verwandte Ausdrücke:
 
 [[manchmal]] ≠ [[immer]]
 [[manchmal]] ≠ [[nie]]
-[[manchmal]] ≈ [[selten]]
+[[manchmal]] ≈ [[selten]], [[selbständig]]

@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[überdrüssig]], [[überdrüssige]], [[überdrüssiges]], [[überdrüssiger]], [[überdrüssigem]], [[überdrüssigen]], [[überdrüssiger]], [[überdrüssiges]]
 [[überdrüssigere]], [[überdrüssigeres]], [[überdrüssigerer]], [[überdrüssigerem]], [[überdrüssigeren]], [[überdrüssigerer]], [[überdrüssigeres]]
-[[überdrüssigsten]], [[überdrüssigste]], [[überdrüssigstes]], [[überdrüssigster]], [[überdrüssigstem]], [[überdrüssigsten]], [[überdrüssigster]], [[überdrüssigstes]]
+[[überdrüssigsten]], [[überdrüssigste]], [[überdrüssigstes]], [[überdrüssigster]], [[überdrüssigstem]], [[überdrüssigsten]], [[überdrüssigster]], [[überdrüssigstes]], [[Deutschland]]

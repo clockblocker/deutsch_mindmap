@@ -30,4 +30,4 @@ Morpheme: [[hass]][[en]]
 
 Partizip I: [[hassend]], Partizip II: [[gehasst]]
 
-, [[ablehnen]], [[feinden]]
+, [[ablehnen]], [[feinden]], [[Deutschland]]

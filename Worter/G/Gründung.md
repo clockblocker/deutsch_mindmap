@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gründung]], [[Gründungen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[gründen]]

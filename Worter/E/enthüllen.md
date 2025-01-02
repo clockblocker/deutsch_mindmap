@@ -36,4 +36,4 @@ Partizip I: [[enthüllend]], Partizip II: [[enthüllt]]
 
 , [[wegzaubern]], [[Denkmal]]
 
-, [[verdecken]], [[verraten]]
+, [[verdecken]], [[verraten]], [[verkleiden]]

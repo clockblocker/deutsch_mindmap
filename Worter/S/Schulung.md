@@ -1,1 +1,1 @@
-, [[Ausbildung]]
+, [[Ausbildung]], [[Ersteinschulung]]

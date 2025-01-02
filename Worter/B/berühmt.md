@@ -4,6 +4,11 @@ nicht [[unbekannt]]
 ---
 Wenn ich [[berühmt]] bin, ja, dann werde ich auch "süß" sein.  
 
+206. [[Woran]] [[erinnern]] die [[sogenannten]] „[[Stolpersteine]]“ in Deutschland? (100%)
+	- [ ] an [[berühmte]] deutsche Politikerinnen und Politiker
+	- [x] an die [[Opfer]] des Nationalsozialismus
+	- [ ] an [[Verkehrstote]]
+	- [ ] an bekannte jüdische Musiker
 
 ---
 Synonyme: [[berühmtheit]], [[prominent]], [[namhaft]], [[populär]], [[angesehen]], [[bekannt]]

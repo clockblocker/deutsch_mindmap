@@ -1,1 +1,1 @@
-[[scheiden]][[trennen]][[vermischen]][[teilen]], [[gesellen]], [[auflösen]], [[versammeln]], [[verbinden]], [[verfeinden]]
+[[scheiden]][[trennen]][[vermischen]][[teilen]], [[gesellen]], [[auflösen]], [[versammeln]], [[verbinden]], [[verfeinden]], [[Sportverein]]

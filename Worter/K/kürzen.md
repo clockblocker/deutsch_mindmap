@@ -32,3 +32,4 @@ Morpheme: [[kürs]][[en]]
 | Sie | [[kürzen]] | [[kürzten]] | [[kürzen Sie]] | [[kürzen]] | [[kürzten]] |
 
 Partizip I: [[kürzend]], Partizip II: [[gekürzt]]
+, [[Kürzung]]

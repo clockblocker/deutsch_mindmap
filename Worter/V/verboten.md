@@ -8,6 +8,12 @@ nicht [[erlaubt]]
 *Sie drohen mit den Pfoten:*  
 *"Der Vater hat’s [[verboten]]!*  
 
+111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
+	- [ ] Die Politik Israels [[öffentlich]] kritisieren.
+	- [ ] Das [[Aufhängen]] einer israelischen Flagge auf dem [[Privatgrundstück]].
+	- [ ] Eine Diskussion über die Politik Israels.
+	- [x] Der öffentliche [[Aufruf]] zur [[Vernichtung]] Israels.
+
 ---
 Synonyme: [[unerlaubt]], [[unzulässig]], [[verboten]], [[tabu]], [[untersagt]]
 Antonyme: [[erlaubt]], [[gestattet]], [[zulässig]]

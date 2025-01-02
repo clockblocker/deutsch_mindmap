@@ -27,3 +27,4 @@ Einzigartige mögliche Formen:
 [[überheblich]], [[überheblicher]], [[überhebliche]], [[überhebliches]], [[überheblichen]], [[überheblichem]], [[überheblicher]], [[überheblichen]]
 [[überheblicher]], [[überheblicherer]], [[überheblichere]], [[überheblicheres]], [[überheblicheren]], [[überheblicherem]], [[überheblicherer]], [[überheblicheren]]
 [[überheblichsten]], [[überheblichster]], [[überheblichste]], [[überheblichstes]], [[überheblichsten]], [[überheblichstem]], [[überheblichster]], [[überheblichsten]]
+, [[Deutschland]]

@@ -1,1 +1,1 @@
-, [[Scheibe 1]], [[Nähe]], [[Grabe]]
+, [[Scheibe 1]], [[Nähe]], [[Grabe]], [[Kirche]], [[Kürbisse]]

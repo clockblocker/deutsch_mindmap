@@ -6,6 +6,11 @@ Aber das sind auch alles Dinge, die ihn glücklich machen. Und auf die soll er i
 
 „Sie sind beide zwei Minuten zu spät. In [[Zukunft]] wird es das nicht mehr geben!“, ruft er. Max und sein Kollege stehen sofort auf. 
 
+284. Was man für die Arbeit können muss, [[ändert]] sich in der [[Zukunft]] sehr schnell. Was kann man tun? (99%)
+	- [ ] Es ist [[egal]], was man lernt.
+	- [ ] Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.
+	- [x] [[Erwachsene]] müssen auch nach der [[Ausbildung]] immer weiter lernen.
+	- [ ] Alle müssen [[früher]] [[aufhören]] zu arbeiten, weil sich alles [[ändert]].
 
 ---
 Synonyme:

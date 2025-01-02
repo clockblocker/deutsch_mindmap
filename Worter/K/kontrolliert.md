@@ -1,1 +1,1 @@
-[[kontrollieren]], [[wild]]
+[[kontrollieren]], [[wild]], [[selbständig]]

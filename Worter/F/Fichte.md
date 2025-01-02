@@ -1,1 +1,1 @@
-, [[Tanne]]
+, [[Tanne]], [[Tannenbaum]]

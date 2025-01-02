@@ -10,3 +10,4 @@ you (много ты)
 [[Akkusativ possessiv Pronomen]]
 [[Nominativ possessiv Pronomen]]
 
+, [[Deutschland]]

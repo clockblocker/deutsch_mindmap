@@ -1,0 +1,1 @@
+, [[erlaubt]], [[erlauben]], [[lauben]], [[Erlaubnis]]

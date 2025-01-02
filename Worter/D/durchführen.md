@@ -1,1 +1,1 @@
-, [[ausüben]], [[vornehmen]], [[übermachen]], [[ausführen]]
+, [[ausüben]], [[vornehmen]], [[übermachen]], [[ausführen]], [[abhalten]]

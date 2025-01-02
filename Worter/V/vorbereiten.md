@@ -33,4 +33,4 @@ Zu+infinitive: [[vorzubereiten]]
 [[vorbereiten]] - [[vor]] = [[bereiten]]
 
 ---
-[[Vorbereitung]], [[Vorbereitungszeit]], [[Vorbereitungskurs]], [[Vorbereitungsraum]], [[Vorbereitungsteam]]
+[[Vorbereitung]], [[Vorbereitungszeit]], [[Vorbereitungskurs]], [[Vorbereitungsraum]], [[Vorbereitungsteam]], [[Geburtsvorbereitung]]

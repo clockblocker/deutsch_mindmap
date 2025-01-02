@@ -5,6 +5,13 @@ die [[Verbrechen]]
  „Das ist ein ganz großes [[Verbrechen]]!“, da ist er sich sicher. 
  Die Polizisten stöhnen. Das klingt nach sehr viel Arbeit.
 
+288. [[Woraus]] [[begründet]] sich [[Deutschlands]] [[besondere]] [[Verantwortung]] für Israel? (100%)
+	- [ ] aus der [[Mitgliedschaft]] in der Europäischen Union (EU)
+	- [x] aus den nationalsozialistischen [[Verbrechen]] gegen Juden
+	- [ ] aus dem [[Grundgesetz]] der Bundesrepublik Deutschland
+	- [ ] aus der christlichen Tradition
+
+
 ---
 Synonyme:
 - [[Straftat]], [[Delikt]], [[Vergehen]], [[Missetat]], [[Verbrechen]]

@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Denkmals]], [[Denkmal]], [[Denkmäler]], [[Denkmälern]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neutrum, [[Stolpersteine]]

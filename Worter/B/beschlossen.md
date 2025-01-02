@@ -1,1 +1,1 @@
-, [[beschließen]]
+, [[beschließen]], [[Beschluss]]

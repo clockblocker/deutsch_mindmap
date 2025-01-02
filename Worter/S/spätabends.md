@@ -1,1 +1,1 @@
-, [[spätabends 1]], [[bestrafen 1]]
+, [[spätabends 1]], [[bestrafen]]

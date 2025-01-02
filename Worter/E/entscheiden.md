@@ -5,6 +5,13 @@ haben [[entschieden]]
 ---
 Sie denken über jede Kleinigkeit lange nach, [[entscheiden]] sich oft um und beginnen wieder von vorn. 
 
+242. Wer [[entscheidet]], ob ein Kind in Deutschland in den Kindergarten geht? (98%)
+	- [x] die Eltern / die [[Erziehungsberechtigten]]
+
+292. Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das? (98%)
+	- [x] Jeder kann glauben, was er möchte.
+	- [ ] Der Staat [[entscheidet]], an welchen Gott die Menschen glauben.
+
 ---
 [[umentscheiden]] - [[um]] = [[entscheiden]]
 

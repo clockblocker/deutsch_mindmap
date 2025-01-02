@@ -1,64 +1,36 @@
-📜 [[begründen]]  
-[[begründete]]  
-haben [[begründet]]
+📜 [[begründen]], [bəˈgʁʏndən] | [[begründete]], haben [[begründet]]
 
 ---
 SASCHA: Muss ich das [[begründen]]?
 
----
-
-**Synonyme:**
-
-- [[erläutern]], [[erklären]], [[justifizieren]]
-
----
-
-**Beispiele:**
-
-- Ich [[begründe]] meine Entscheidung.
-- Du [[begründest]] deine Meinung ausführlich.
-- Er [[begründet]] seinen Standpunkt.
-- Es [[begründet]] die Notwendigkeit des Projekts.
-- Sie [[begründet]] ihre Abwesenheit.
-- Wir [[begründen]] unsere Wahl.
-- Ihr [[begründet]] eure Argumente.
-- Sie [[begründen]] die Änderungen.
+288. [[Woraus]] [[begründet]] sich [[Deutschlands]] [[besondere]] [[Verantwortung]] für Israel? (100%)
+	- [ ] aus der [[Mitgliedschaft]] in der Europäischen Union (EU)
+	- [x] aus den nationalsozialistischen [[Verbrechen]] gegen Juden
+	- [ ] aus dem [[Grundgesetz]] der Bundesrepublik Deutschland
+	- [ ] aus der christlichen Tradition
 
 ---
-
-**Übersetzung**:
-to justify, to give reasons
-
----
- #Verb
+= [[erklären]], [[rechtfertigen]], [[belegen]]
+≈ [[darlegen]], [[argumentieren]], [[erläutern]]
+≠ [[bestreiten]], [[widerlegen]], [[anzweifeln]]
 
 ---
-
-**Präteritum:**
-
-- Ich [[begründete]] meine Entscheidung.
-- Du [[begründetest]] deine Meinung ausführlich.
-- Er [[begründete]] seinen Standpunkt.
-- Es [[begründete]] die Notwendigkeit des Projekts.
-- Sie [[begründete]] ihre Abwesenheit.
-- Wir [[begründeten]] unsere Wahl.
-- Ihr [[begründetet]] eure Argumente.
-- Sie [[begründeten]] die Änderungen.
+to justify, to substantiate, to explain
 
 ---
-
-**Imperativ:**
-
-- Ich [[begründe]] meine Entscheidung.
-- Du [[begründe]] deine Entscheidung.
-- Er [[begründe]] seine Entscheidung.
-- Es [[begründet]] seine Entscheidung.
-- Sie [[begründe]] ihre Entscheidung.
-- Wir [[begründen]] unsere Entscheidung.
-- Ihr [[begründet]] eure Entscheidung.
-- Sie [[begründen]] ihre Entscheidung.
+[[be]][[grund]][[en]]
 
 ---
+ich: [[begründe]], [[begründete]], –, [[begründe]], [[begründete]]
+du: [[begründest]], [[begründetest]], [[begründe]] | [[begründe]], [[begründest]], [[begründetest]]
+er/sie/es: [[begründet]], [[begründete]], –, [[begründe]], [[begründete]]
+wir: [[begründen]], [[begründeten]], [[begründen wir|begründen]], [[begründen]], [[begründeten]]
+ihr: [[begründet]], [[begründetet]], [[begründet]], [[begründet]], [[begründetet]]
 
-**Morphems of only infinitive:**  
-- [[be]][[gründen]], [[verantworten]]
+PI: [[begründend]], PII: [[begründet]], Zu+inf: [[zu begründen]]
+
+---
+[[begründen]] - [[be]] = [[gründen]] / to justify, to substantiate, to explain
+
+---
+[[Begründung]], [[begründbar]], [[Grund]], [[gründlich]], [[grundlos]]

@@ -1,63 +1,37 @@
-🏢 [[gründen]]  
-[[gründete]]  
-haben [[gegründet]]
+🏛️ [[gründen]], [ˈgʁʏndən] | [[gründete]], haben [[gegründet]]
 
 ---
+184. Auf welcher [[rechtlichen]] Grundlage wurde der Staat Israel [[gegründet]]? (100%)
+	- [x] eine Resolution der [[Vereinten]] Nationen
+	- [ ] ein [[Beschluss]] des Zionistenkongresses
+	- [ ] ein [[Vorschlag]] der Bundesregierung
+	- [ ] ein Vorschlag der UdSSR
 
 ---
-
-**Synonyme:**
-
-- [[etablieren]], [[errichten]], [[aufbauen]]
+[[begründen]] - [[be]] = [[gründen]] / to justify, to substantiate, to explain
 
 ---
-
-**Beispiele:**
-
-- Ich [[gründe]] ein Unternehmen.
-- Du [[gründest]] eine Familie.
-- Er [[gründet]] eine Stiftung.
-- Es [[gründet]] einen Club.
-- Sie [[gründet]] eine Organisation.
-- Wir [[gründen]] ein Start-up.
-- Ihr [[gründet]] eine Band.
-- Sie [[gründen]] eine Schule.
+= [[erschaffen]], [[errichten]], [[etablieren]]
+≈ [[ins Leben rufen]], [[begründen]], [[initiieren]]
+≠ [[auflösen]], [[schließen]], [[beenden]]
 
 ---
-
-**Übersetzung**:
-to found, to establish
+to found, to establish, to create
 
 ---
- #Verb
+[[gründ]][[en]]
 
 ---
+ich: [[gründe]], [[gründete]], –, [[gründe]], [[gründete]]
+du: [[gründest]], [[gründetest]], [[gründe]] | [[gründ]] | [[gründe]], [[gründest]], [[gründetest]]
+er/sie/es: [[gründet]], [[gründete]], –, [[gründe]], [[gründete]]
+wir: [[gründen]], [[gründeten]], [[gründen wir|gründen]], [[gründen]], [[gründeten]]
+ihr: [[gründet]], [[gründetet]], [[gründet]], [[gründet]], [[gründetet]]
 
-**Präteritum:**
-
-- Ich [[gründete]] ein Unternehmen.
-- Du [[gründetest]] eine Familie.
-- Er [[gründete]] eine Stiftung.
-- Es [[gründete]] einen Club.
-- Sie [[gründete]] eine Organisation.
-- Wir [[gründeten]] ein Start-up.
-- Ihr [[gründetet]] eine Band.
-- Sie [[gründeten]] eine Schule.
+PI: [[gründend]], PII: [[gegründet]], Zu+inf: [[zugründen]]
 
 ---
-
-**Imperativ:**
-
-- Ich [[gründe]] ein Unternehmen.
-- Du [[gründe]] ein Unternehmen.
-- Er [[gründe]] ein Unternehmen.
-- Es [[gründet]] ein Unternehmen.
-- Sie [[gründe]] ein Unternehmen.
-- Wir [[gründen]] ein Unternehmen.
-- Ihr [[gründet]] ein Unternehmen.
-- Sie [[gründen]] ein Unternehmen.
+[[gründen]] - [[gründ]] = [[Grund]] / to found, to establish, to create
 
 ---
-
-**Morphems of only infinitive:**  
-- [[gründ]][[en]]
+[[Gründer]], [[Gründung]], [[gegründet]], [[Begründung]], [[grundlegend]]

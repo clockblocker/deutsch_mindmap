@@ -31,3 +31,4 @@ Morpheme: [[wohn]][[en]]
 | Sie | [[wohnen]] | [[wohnten]] | [[wohnen Sie]] | [[wohnen]] | [[wohnten]] |
 
 Partizip I: [[wohnend]], Partizip II: [[gewohnt]]
+, [[Wohnort]]

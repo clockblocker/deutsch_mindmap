@@ -1,1 +1,1 @@
-[[stören]], [[vertragen]]
+[[stören]], [[vertragen]], [[erlauben]]

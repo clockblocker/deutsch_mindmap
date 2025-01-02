@@ -11,7 +11,11 @@ NIC: Hilfe! [[Versteckt]] mich! Oh!
 *Nun ist Philipp ganz [[versteckt]],*  
 *und der Tisch ist abgedeckt.*  
 
-Und wie's aussieht auch sein Versteck!
+Und wie's aussieht auch sein [[Versteck]]!
+
+271. Was ist in Deutschland ein [[Brauch]] zu Weihnachten? (97%)
+	- [ ] [[bunte]] Eier [[verstecken]]
+	- [x] einen [[Tannenbaum]] [[schmücken]]
 
 ---
 

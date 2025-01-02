@@ -1,0 +1,1 @@
+👨‍⚖️ [[gesetzlich]] | 🔴 die [[Gesetzlichkeit]]

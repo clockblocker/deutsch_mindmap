@@ -7,6 +7,12 @@ Werner hat beim Aufräumen ein altes Urlaubsfoto gefunden. Er hat einen [[Rahmen
 
 Ehe ich's vergesse: heute abend läßt du dir von Tante Martha einen Kleiderbügel geben und [[hängst]] den Anzug ordentlich [[auf]]
 
+111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
+	- [ ] Die Politik Israels [[öffentlich]] kritisieren.
+	- [ ] Das [[Aufhängen]] einer israelischen Flagge auf dem [[Privatgrundstück]].
+	- [ ] Eine Diskussion über die Politik Israels.
+	- [x] Der öffentliche [[Aufruf]] zur [[Vernichtung]] Israels.
+
 ---
 Synonyme: [[anhängen]], [[befestigen]], [[anbringen]], [[montieren]], [[hängen]]
 Antonyme: [[abnehmen]], [[herunterhängen]], [[entfernen]]

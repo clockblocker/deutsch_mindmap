@@ -1,2 +1,3 @@
 die [[Tanne]], [ˈtanə]
 
+, [[Tannenbaum]]

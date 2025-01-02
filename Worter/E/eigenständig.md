@@ -1,1 +1,1 @@
-[[getrennt]], [[selbst]]
+[[getrennt]], [[selbst]], [[selbständig]]

@@ -1,1 +1,1 @@
-[[Ruhe]]
+[[Ruhe]], [[Gesetz]]

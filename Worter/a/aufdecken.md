@@ -1,1 +1,1 @@
-, [[enthüllen]], [[hüllen]], [[abdecken]], [[decken]], [[verdecken]]
+, [[enthüllen]], [[hüllen]], [[abdecken]], [[decken]], [[verdecken]], [[verkleiden]]

@@ -1,1 +1,1 @@
-, [[eigene]]
+, [[eigene]], [[öffentlich]], [[grundsätzlich]]

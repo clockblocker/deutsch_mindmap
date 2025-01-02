@@ -1,2 +1,2 @@
 NIC: Aber [[warum]] nicht?
-, [[wieso]]
+, [[wieso]], [[Woraus]]

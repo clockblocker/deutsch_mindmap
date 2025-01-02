@@ -31,4 +31,4 @@ Morpheme: [[ver]][[wunder]][[n]]
 Partizip I: [[verwundernd]], Partizip II: [[verwundert]]
 
 [[verwundern]] - [[ver]] = [[wundern]]
-'''
+''', [[fest]]

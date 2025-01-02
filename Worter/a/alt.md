@@ -42,4 +42,4 @@ jung (young)
 ---
 Tags: 
 #Adjective
-#Positive | #Comparative | #Superlative, [[frisch]], [[uralte]], [[ehemalige]], [[Altstadt]]
+#Positive | #Comparative | #Superlative, [[frisch]], [[uralte]], [[ehemalige]], [[Altstadt]], [[heutig]]

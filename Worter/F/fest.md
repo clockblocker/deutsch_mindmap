@@ -42,3 +42,35 @@ Einzigartige mögliche Formen:
 
 
 , [[erstaunlich]], [[verwundern]], [[wundern]]
+
+---
+---
+das [[Fest]], [fɛst]
+die [[Feste]]
+
+---
+149. Was ist ein Beispiel für antisemitisches [[Verhalten]]? (100%)
+	- [ ] ein jüdisches [[Fest]] [[besuchen]]
+	- [ ] die israelische [[Regierung]] kritisieren
+	- [x] den Holocaust [[leugnen]]
+	- [ ] gegen Juden Fußball spielen
+
+---
+= [[Veranstaltung]], [[Feier]], [[Veranstaltung]]
+≈ [[Festivität]], [[Ereignis]], [[Celebration]], [[Jubiläum]]
+≠ [[Alltag]], [[Routine]], [[Arbeitstag]]
+
+---
+celebration, party, festival
+
+---
+[[fest]]
+
+---
+N: das [[fest]], die [[Feste]]  
+A: das [[fest]], die [[Feste]]  
+G: des [[Festes]], der [[Feste]]  
+D: dem [[fest]], den [[Festen]]  
+
+---
+[[feiern]], [[festlich]], [[Festung]], [[Festtag]], [[Festlichkeit]]

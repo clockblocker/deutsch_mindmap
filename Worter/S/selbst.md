@@ -27,4 +27,4 @@ Antonyme:
 
 ---
 #Adverb #Partikel
-, [[löffeln]], [[fressen]]
+, [[löffeln]], [[fressen]], [[selbständig]]

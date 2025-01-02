@@ -1,1 +1,1 @@
-, [[spiegeln]], [[widerspiegeln]], [[nachdenken]], [[überlegen]]
+, [[spiegeln]], [[widerspiegeln]], [[nachdenken]], [[überlegen]], [[erinnern]]

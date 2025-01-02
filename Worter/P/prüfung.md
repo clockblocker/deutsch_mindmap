@@ -1,1 +1,1 @@
-, [[Führerscheinprüfung]], [[Herausforderung]]
+, [[Führerscheinprüfung]], [[Herausforderung]], [[Gesellenprüfung]]

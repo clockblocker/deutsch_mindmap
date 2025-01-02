@@ -5,6 +5,11 @@ haben [[erhalten]]
 ---
 Schon 1964 [[erhielt]] Richter die Gelegenheit zur ersten Einzelausstellung und bald präsentierten viele in- und ausländische Galerien seine Werke
 
+Je mehr „[[Zweitstimmen]]“ eine [[Partei]] bei einer [[Bundestagswahl]] bekommt, [[desto]] mehr Sitze [[erhält]] die Partei im Parlament.
+
+241. Frau Seger bekommt ein Kind. Was muss sie tun, um [[Elterngeld]] zu [[erhalten]]? (98%)
+	- [x] Sie muss einen [[Antrag]] bei der [[Elterngeldstelle]] stellen.
+
 ---
 Synonyme: [[bekommen]], [[empfangen]], [[kriegen]], [[annehmen]], [[beziehen]]
 Antonyme: [[verlieren]], [[abgeben]], [[zurückgeben]]

@@ -1,1 +1,1 @@
-, [[verbuchen]], [[reinschreiben]]
+, [[verbuchen]], [[reinschreiben]], [[anmelden]]

@@ -1,1 +1,1 @@
-[[normal]][[mittel]][[besonders]]
+[[normal]][[mittel]][[besonders]], [[gesetzlich]]

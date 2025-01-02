@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce1666828ea81915",
+        "id": "9f315f8748b0e71b",
         "type": "tabs",
         "children": [
           {
-            "id": "da649869f7ad92bf",
+            "id": "f61323716006d11e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,213 +22,129 @@
             }
           },
           {
-            "id": "6de5cc429b40ae9d",
+            "id": "212b8a4e7bcb9e03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Einbuergerungstest/300+ (Berlin).md",
+                "file": "Worter/Amtssitz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "300+ (Berlin)"
+              "title": "Amtssitz"
             }
           },
           {
-            "id": "d04cfa602bf42f47",
+            "id": "4a7d1555de297d62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/S/ständigen.md",
+                "file": "Worter/E/Erziehungsberechtigte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ständigen"
+              "title": "Erziehungsberechtigte"
             }
           },
           {
-            "id": "52efafa4b2482628",
+            "id": "002ec63f9ab39d6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/S/ständig.md",
+                "file": "Worter/Erziehungsberechtigten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ständig"
+              "title": "Erziehungsberechtigten"
             }
           },
           {
-            "id": "8e153fe315e51a79",
+            "id": "5ed9664d4d8f4b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/entsetzt.md",
+                "file": "Worter/schwanger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "entsetzt"
+              "title": "schwanger"
             }
           },
           {
-            "id": "bc5ff519c120c056",
+            "id": "9b80430f32363dd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/entsetzt.md",
+                "file": "Worter/Geburt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "entsetzt"
+              "title": "Geburt"
             }
           },
           {
-            "id": "62cb1dba556f17fc",
+            "id": "7191582595db1203",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/E/Entsetzen.md",
+                "file": "Worter/G/Gesetz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entsetzen"
+              "title": "Gesetz"
             }
           },
           {
-            "id": "aebf3661b3811d0f",
+            "id": "4e2cb533fa3e2c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/entsetzt.md",
+                "file": "Worter/beschützt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "entsetzt"
+              "title": "beschützt"
             }
           },
           {
-            "id": "2249bfa342ae6285",
+            "id": "6414677dfbe609cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/entsetzt.md",
+                "file": "Worter/B/beschützen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "entsetzt"
+              "title": "beschützen"
             }
           },
           {
-            "id": "21f5062242a42cd0",
+            "id": "59f5dc33b2de20d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Das Haar in der Suppe suchen.md",
+                "file": "Worter/S/Schutz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Haar in der Suppe suchen"
-            }
-          },
-          {
-            "id": "ad8591f1e2243e0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/H/hervorheben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hervorheben"
-            }
-          },
-          {
-            "id": "4af32d24ec15bd62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/D/durchsuchen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "durchsuchen"
-            }
-          },
-          {
-            "id": "5895da0174493472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/reinschreiben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "reinschreiben"
-            }
-          },
-          {
-            "id": "fd94d5f55e290af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Abschlussbericht.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abschlussbericht"
-            }
-          },
-          {
-            "id": "624980ad766f5838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/E/einfach.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "einfach"
-            }
-          },
-          {
-            "id": "09eef7fd20032b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Fachverkäufer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fachverkäufer"
+              "title": "Schutz"
             }
           }
         ]
@@ -262,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "erzählen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -373,45 +289,47 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "da649869f7ad92bf",
+  "active": "f61323716006d11e",
   "lastOpenFiles": [
-    "Texte/Einbuergerungstest/300+ (Berlin).md",
+    "Worter/selbständig.md",
+    "Worter/A/Autonomie.md",
+    "Worter/S/Selbstständigkeit.md",
+    "Worter/S/Selbständigkeit.md",
+    "Worter/S/selbständigstes.md",
+    "Worter/S/selbständigeres.md",
+    "Worter/S/selbständiges.md",
+    "Worter/S/selbständigste.md",
+    "Worter/S/selbständigere.md",
+    "Worter/S/selbständige.md",
+    "Worter/S/selbständigstem.md",
+    "Worter/S/selbständigerem.md",
+    "Worter/S/selbständigem.md",
+    "Worter/S/selbständigsten.md",
+    "Worter/S/selbständigeren.md",
+    "Worter/S/selbständigen.md",
+    "Worter/S/selbständigster.md",
+    "Worter/S/selbständiger.md",
+    "Worter/U/unselbständig.md",
+    "Worter/S/selbstbestimmt.md",
+    "Worter/E/eigenverantwortlich.md",
+    "Worter/S/souverän.md",
+    "Worter/S/selbstständig.md",
+    "Worter/A/autonom.md",
+    "Texte/Einbuergerungstest/1-30.md",
+    "Worter/E/ehrenamtlich.md",
+    "Worter/(",
     "Anhänge/Pasted image 20250102085715.png",
     "Anhänge/Pasted image 20250102085702.png",
     "Anhänge/Pasted image 20250102085701.png",
     "Anhänge/Pasted image 20250102085628.png",
-    "Texte/Einbuergerungstest/271-300.md",
     "Anhänge/Pasted image 20250102085515.png",
-    "Texte/Einbuergerungstest/211-240.md",
     "Anhänge/Pasted image 20250102085129.png",
     "Anhänge/Pasted image 20250102085105.png",
-    "Texte/Einbuergerungstest/181-210.md",
     "Anhänge/Pasted image 20250102085033.png",
-    "Texte/Einbuergerungstest/151-180.md",
     "Anhänge/Pasted image 20250102084931.png",
-    "Texte/Einbuergerungstest/121-150.md",
     "Anhänge/Pasted image 20250102084854.png",
-    "Texte/Einbuergerungstest/1-30.md",
     "Anhänge",
-    "Texte/b2 Das sagt man so!/Die Kuh vom Eis holen.md",
-    "Texte/b2 Das sagt man so!/Alle.md",
-    "Texte/Einbuergerungstest/241-270.md",
-    "Texte/Einbuergerungstest/91-120.md",
-    "Texte/Einbuergerungstest/61-90.md",
-    "Texte/Einbuergerungstest/31-60.md",
-    "Texte/Untitled 3.md",
     "Texte/Einbuergerungstest",
-    "Texte/b2 Das sagt man so!/Die halbe Miete sein.md",
-    "Worter/S/schafft.md",
-    "Worter/S/schaffen.md",
-    "Worter/E/Erschaffung.md",
-    "Worter/S/Schaffenskraft.md",
-    "Worter/S/schaffen wir.md",
-    "Worter/W/weitergehen.md",
-    "Worter/V/Vorwärtsbewegung.md",
-    "Worter/F/Fortsetzung.md",
-    "Worter/F/Fortgang.md",
-    "Worter/W/Weitergang.md",
     "Texte/c1",
     "Texte/Brüder Grimm",
     "Lektionen/Kamanova/Audio/L-07.mp3",
@@ -419,7 +337,6 @@
     "Lektionen/Kamanova/Audio/L-11.mp3",
     "Lektionen/Kamanova/Audio/L-08.mp3",
     "Lektionen/Kamanova/Audio/L-10.mp3",
-    "Worter/IPA",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

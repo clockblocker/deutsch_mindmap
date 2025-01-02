@@ -1,1 +1,1 @@
-, [[Steuer]]
+, [[Steuer]], [[Geldstrafe]]

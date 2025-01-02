@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[übermächtig]], [[übermächtiger]], [[übermächtige]], [[übermächtiges]], [[übermächtigen]], [[übermächtigem]], [[übermächtiger]], [[übermächtigen]]
 [[übermächtigere]], [[übermächtigerer]], [[übermächtigere]], [[übermächtigeres]], [[übermächtigeren]], [[übermächtigerem]], [[übermächtigerer]], [[übermächtigeren]]
-[[übermächtigsten]], [[übermächtigster]], [[übermächtigste]], [[übermächtigstes]], [[übermächtigsten]], [[übermächtigstem]], [[übermächtigster]], [[übermächtigsten]]
+[[übermächtigsten]], [[übermächtigster]], [[übermächtigste]], [[übermächtigstes]], [[übermächtigsten]], [[übermächtigstem]], [[übermächtigster]], [[übermächtigsten]], [[Deutschland]]

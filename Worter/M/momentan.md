@@ -1,1 +1,1 @@
-, [[heut]], [[ehemaligen]], [[ehemalige]], [[zurzeit]]
+, [[heut]], [[ehemaligen]], [[ehemalige]], [[zurzeit]], [[heutig]], [[jetzig]]

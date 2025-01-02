@@ -4,7 +4,7 @@
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
 ---
-Synonyme: [[führen]], [[lenken]], [[steuern]], [[dirigieren]], [[anführen]]
+Synonyme: [[führen]], [[lenken]], [[Steuern]], [[dirigieren]], [[anführen]]
 Antonyme: [[folgen]], [[gehorchen]], [[zurückhalten]]
 
 ---
