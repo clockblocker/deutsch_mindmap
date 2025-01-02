@@ -81,4 +81,4 @@ Konjunktiv II:
 - Wenn ihr vorsichtiger wäret, [[littet]] ihr weniger.
 - Wenn sie Unterstützung hätten, [[litten]] sie nicht so sehr.
 [[leidend]]
-, [[wohlfühlen]], [[quälen]]
+, [[wohlfühlen]], [[quälen]], [[weitergehen]]

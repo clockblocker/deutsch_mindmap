@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Vertrags]], [[Verträge]], [[Verträgen]], [[Vertrag]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[vertragen]]

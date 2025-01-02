@@ -33,4 +33,4 @@ Zu+infinifive: [[aufzuhören]]
 
 
 [[scheiden]][[bestehen]][[regnen]], [[anfangen]], [[dauern]], [[sein]], [[losschießen]], [[aufgehen]], [[Tropfen]], [[leben]], [[qualmen]], [[plempern]], [[weiterüben]], [[mitmachen]], [[weitermachen]], [[angehen]]
-🛑 [[aufhören]], [[studieren]]
+🛑 [[aufhören]], [[studieren]], [[weitergehen]]

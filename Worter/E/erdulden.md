@@ -1,1 +1,1 @@
-[[stören]], [[leiden]], [[aushalten]], [[ertragen]]
+[[stören]], [[leiden]], [[aushalten]], [[ertragen]], [[vertragen]]

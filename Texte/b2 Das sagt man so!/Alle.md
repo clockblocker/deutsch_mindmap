@@ -7,7 +7,7 @@
 - [x] [[Den Gürtel enger schnallen]]
 - [ ] [[Den Nagel auf den Kopf treffen]]  
 - [ ] [[Die halbe Miete sein]]
-- [ ] [[Die Kuh vom Eis holen]]
+- [x] [[Die Kuh vom Eis holen]]
 - [ ] [[Eigenlob stinkt]] 
 - [ ] [[Ein Auge zudrücken]]
 - [x] [[Ein dickes Fell haben]] 
