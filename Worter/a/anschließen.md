@@ -3,7 +3,7 @@
 haben [[angeschlossen]]
 
 ---
-Sie dachte: „Ich sollte mich einem starken und mächtigen Tier [[an 1]][[schließen]]
+Sie dachte: „Ich sollte mich einem starken und mächtigen Tier [[an]][[schließen]]
 
 Waschmaschine an die [[Steckdose]] [[anschließen]] oder
 
@@ -17,7 +17,7 @@ Antonyme: [[abkoppeln]], [[abtrennen]], [[abschalten 1]], [[losmachen]], [[trenn
 Übersetzung: to connect, to hook up, to attach
 
 ---
-Morpheme: [[an 1]][[schließ]][[en]]
+Morpheme: [[an]][[schließ]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -34,5 +34,5 @@ Morpheme: [[an 1]][[schließ]][[en]]
 
 Partizip I: [[anschließend]], Partizip II: [[angeschlossen]]
 
-[[anschließen]] - [[an 1]] = [[schließen]]
+[[anschließen]] - [[an]] = [[schließen]]
 , [[einhängen]], [[unterbrechen]]

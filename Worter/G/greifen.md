@@ -31,5 +31,5 @@ Morpheme: [[greifen]]
 
 Partizip I: [[greifend]], Partizip II: [[gegriffen]]
 
-+[[an 1]] = [[angreifen]]
++[[an]] = [[angreifen]]
 , [[fangen]], [[schnappen]], [[nehmen]]

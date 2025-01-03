@@ -1,1 +1,1 @@
-, [[Mutterschutz]]
+, [[Mutterschutz]], [[Kündigung]]

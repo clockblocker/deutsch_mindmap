@@ -8,7 +8,7 @@ Igel gefressen … oder dass ich zum Mond [[gefahren]] bin …
 
 ---
 [[losfahren]] - [[los]] = [[fahren]] / отъехать, to set off, to depart
-[[überfahren 1]] - [[über]] = [[fahren]] / переехать, to run over,
+[[überfahren]] - [[über]] = [[fahren]] / переехать, to run over,
 [[hochfahren]] - [[hoch]] = [[fahren]] / to start up, to boot (computer
 
 
@@ -36,4 +36,4 @@ Morpheme: [[fahr]][[en]]
 
 Partizip I: [[fahrend]], Partizip II: [[gefahren]]
 
- [[paddeln]], [[losfahren]], [[überfahren 1]], [[Hochfahren]]
+ [[paddeln]], [[losfahren]], [[überfahren]], [[Hochfahren]]

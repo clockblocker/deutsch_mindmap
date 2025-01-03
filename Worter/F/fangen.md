@@ -15,7 +15,7 @@ Ich brauch keinen Beruhigungstee! Ich will nur endlich den Avatar fangen! 
  
 ---
 [[auffangen]] - [[auf]] = [[fangen]]     //  to catch, to intercept
-[[anfangen]] - [[an 1]] = [[fangen]]     // to begin, to start
+[[anfangen]] - [[an]] = [[fangen]]     // to begin, to start
 [[empfangen]] - [[emp]] = [[fangen]] // to receive, to welcome
  
 

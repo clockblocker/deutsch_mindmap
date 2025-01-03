@@ -1,1 +1,1 @@
-, [[bewerben]]
+, [[bewerben]], [[Direktkandidat]]

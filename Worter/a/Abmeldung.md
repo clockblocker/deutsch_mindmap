@@ -1,1 +1,1 @@
-, [[Meldung]]
+, [[Meldung]], [[Kündigung]]

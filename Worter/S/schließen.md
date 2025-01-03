@@ -15,7 +15,7 @@ Mit ihnen muss ich [[Freundschaft]] [[schließen]]."
 *[[Schließt]] mich im Zimmer ein*  
 
 ---
-+[[an 1]] = 🔗 [[anschließen]] / to connect, to hook up, to attach
++[[an]] = 🔗 [[anschließen]] / to connect, to hook up, to attach
 +[[ab]] = 🔗 [[abschließen]] / to conclude, защитить диплом
 [[beschließen]] - [[be]] = [[schließen]] // to decide, to resolve, to conclude
 

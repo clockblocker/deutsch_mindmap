@@ -1,1 +1,1 @@
-, [[Zweitstimme]]
+, [[Zweitstimme]], [[Erststimme]]

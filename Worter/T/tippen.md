@@ -7,7 +7,7 @@ haben [[getippt]]
 
 
 ---
-[[antippen]] - [[an 1]] = [[tippen]]
+[[antippen]] - [[an]] = [[tippen]]
 
 
 ---

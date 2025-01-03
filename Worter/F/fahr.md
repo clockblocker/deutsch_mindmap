@@ -1,1 +1,1 @@
-[[fahren]], [[Erfahrung]], [[Vorfahre]], [[Gefahr]], [[losfahren]], [[überfahren 1]], [[Hochfahren]]
+[[fahren]], [[Erfahrung]], [[Vorfahre]], [[Gefahr]], [[losfahren]], [[überfahren]], [[Hochfahren]]

@@ -8,7 +8,7 @@ Carola sucht mit einer Hand nach ihrem Handy, [[während]] sie in der anderen de
 
 Ohne auf ihre [[Umgebung]] zu [[achten]], läuft sie [[weiter]] –, bis sie ein lautes [[Quietschen]] hört. Carola blickt hoch: Sie steht mitten auf der Straße, neben ihr hat ein Auto eine [[Vollbremsung]] gemacht. 
 
-Die junge Frau am [[Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren 1]]!“ 
+Die junge Frau am [[Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren]]!“ 
 
 „Entschuldigung!“, antwortet Carola. Sie muss wirklich besser aufpassen. [[Sonst]] [[klappt]] es heute bestimmt nicht mit der Prüfung.
 

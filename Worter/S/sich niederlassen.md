@@ -1,1 +1,1 @@
-, [[hocken]], [[sitzen]]
+, [[hocken]], [[sitzen]], [[einziehen]]

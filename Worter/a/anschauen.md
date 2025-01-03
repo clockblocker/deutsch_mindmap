@@ -31,7 +31,7 @@ to look at
 
 ---
 **Morphems of only infinitive:**  
-- [[an 1]][[schauen]]
+- [[an]][[schauen]]
 
 ---
 #Verb #Trennbar
@@ -73,9 +73,9 @@ Konjunktiv I:
 
 ---
 Konjunktiv II:
-- Wenn ich Zeit hätte, [[schaute an|schaute]] ich mir den Film [[an 1]].
-- Wenn du Lust hättest, [[schautest an|schautest]] du das Bild [[an 1]].
-- Wenn er hier wäre, [[schaute an|schaute]] er die Ausstellung [[an 1]].
-- Wenn wir dort wären, [[schauten an|schauten]] wir uns die Sehenswürdigkeiten [[an 1]].
-- Wenn ihr eingeladen wärt, [[schautet an|schautet]] ihr die Show [[an 1]].
-- Wenn sie die Möglichkeit hätten, [[schauten an|schauten]] sie die Bücher [[an 1]]., [[angucken]]
+- Wenn ich Zeit hätte, [[schaute an|schaute]] ich mir den Film [[an]].
+- Wenn du Lust hättest, [[schautest an|schautest]] du das Bild [[an]].
+- Wenn er hier wäre, [[schaute an|schaute]] er die Ausstellung [[an]].
+- Wenn wir dort wären, [[schauten an|schauten]] wir uns die Sehenswürdigkeiten [[an]].
+- Wenn ihr eingeladen wärt, [[schautet an|schautet]] ihr die Show [[an]].
+- Wenn sie die Möglichkeit hätten, [[schauten an|schauten]] sie die Bücher [[an]]., [[angucken]]

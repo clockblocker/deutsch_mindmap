@@ -17,7 +17,7 @@ Antonyme: [[ausschalten]], [[abschalten 1]], [[stoppen]], [[deaktivieren]]
 Übersetzung: to turn on, to switch on | agree, remove
 
 ---
-Morpheme: [[an 1]][[mach]][[en]]
+Morpheme: [[an]][[mach]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -34,5 +34,5 @@ Morpheme: [[an 1]][[mach]][[en]]
 
 Partizip I: [[anmachend]], Partizip II: [[angemacht]]
 
-[[anmachen]] - [[an 1]] = [[machen]]
+[[anmachen]] - [[an]] = [[machen]]
 '''

@@ -13,7 +13,7 @@ Antonyme: [[auflegen]], [[ignorieren]], [[schweigen]]
 Übersetzung: to call (on the phone)
 
 ---
-Morpheme: [[an 1]][[ruf]][[en]]
+Morpheme: [[an]][[ruf]][[en]]
  #Verb  #Trennbar
  
 
@@ -27,4 +27,4 @@ Morpheme: [[an 1]][[ruf]][[en]]
 | Sie | [[rufen an]] | [[riefen an]] | [[rufen Sie an]] | [[rufen an]] | [[riefen an]] |
 
 Partizip I: [[anrufend]], Partizip II: [[angerufen]], Zu Infinitiv: [[anzurufen]], 
-[[anrufen]] - [[an 1]] = [[rufen]]
+[[anrufen]] - [[an]] = [[rufen]]

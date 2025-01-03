@@ -1,1 +1,1 @@
-, [[löffeln]], [[fressen]], [[einigen]], [[eindringen]], [[Ersteinschulung]]
+, [[löffeln]], [[fressen]], [[einigen]], [[eindringen]], [[Ersteinschulung]], [[einziehen]]

@@ -1,1 +1,1 @@
-, [[wegshlagen]], [[herholen]]
+, [[wegshlagen]], [[herholen]], [[zurückholen]]

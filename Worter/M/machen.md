@@ -16,7 +16,7 @@ Also [[lädt]] Adrian Emilie zum Essen [[ein]]. Es gibt Spaghetti mit leckerer S
 
 
 ---
-[[anmachen]] - [[an 1]] = [[machen]] / to turn on, to switch on | agree, remove
+[[anmachen]] - [[an]] = [[machen]] / to turn on, to switch on | agree, remove
 [[ausmachen]] - [[aus]] = [[machen]] / to detect, to determine, to matter | turn off 
 [[vormachen]] - [[vor]] = [[machen]] / to show, to demonstrate
 [[aufmachen]] - [[auf]] = [[machen]] / to open

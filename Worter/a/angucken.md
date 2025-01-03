@@ -13,7 +13,7 @@ Antonyme: [[ignorieren]], [[übersehen]], [[wegschauen]]
 Übersetzung: to look at, to watch
 
 ---
-Morpheme: [[an 1]][[guck]][[en]]
+Morpheme: [[an]][[guck]][[en]]
  #Verb  #Trennbar
  
 
@@ -27,4 +27,4 @@ Morpheme: [[an 1]][[guck]][[en]]
 | Sie | [[gucken an]] | [[guckten an]] | [[gucken Sie an]] | [[gucken an]] | [[guckten an]] |
 
 Partizip I: [[anguckend]], Partizip II: [[angeguckt]]
-[[angucken]] - [[an 1]] = [[gucken]]
+[[angucken]] - [[an]] = [[gucken]]

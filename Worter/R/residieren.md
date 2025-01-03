@@ -1,1 +1,1 @@
-, [[bewohnen]], [[wohnen]]
+, [[bewohnen]], [[wohnen]], [[einziehen]]

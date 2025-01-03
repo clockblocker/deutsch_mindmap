@@ -30,4 +30,4 @@ Morpheme: [[zünd]][[en]]
 
 Partizip I: [[zündend]], Partizip II: [[gezündet]]
 
-+[[an 1]]=[[anzünden]]
++[[an]]=[[anzünden]]

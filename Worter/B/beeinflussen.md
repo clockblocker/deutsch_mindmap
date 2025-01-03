@@ -1,1 +1,1 @@
-, [[abhängen]], [[betreffen]]
+, [[abhängen]], [[betreffen]], [[prägen]]

@@ -8,7 +8,7 @@ Der [[Vater]], Peter, [[fährt]] [[jeden]] [[Tag]] [[mit]] [[dem]] [[Auto]] [[zu
 
 [[Opa]] und [[Oma]] [[besuchen]] [[oft]] die [[Familie]]. Der [[Opa]] [[erzählt]] [[Geschichten]] und die [[Oma]] [[bringt]] [[immer]] [[Kekse]] [[mit]]. Max und Lena [[Lieben]] [[ihre]] [[Großeltern]].
 
-Max [[fährt]] [[gerne]] [[Fahrrad]] und [[Lena]] [[spielt]] [[gerne]] [[mit]] [[dem]] [[Hund]]. [[an 1]] [[Wochenenden]] [[fährt]] die [[Familie]] [[oft]] [[mit]] [[dem]] [[Bus]] [[Ins]] [[Kino]]. Sie [[sehen]] [[viele]] [[Filme]] [[zusammen]].
+Max [[fährt]] [[gerne]] [[Fahrrad]] und [[Lena]] [[spielt]] [[gerne]] [[mit]] [[dem]] [[Hund]]. [[an]] [[Wochenenden]] [[fährt]] die [[Familie]] [[oft]] [[mit]] [[dem]] [[Bus]] [[Ins]] [[Kino]]. Sie [[sehen]] [[viele]] [[Filme]] [[zusammen]].
 
 Max [[liest]] [[gerne]] [[Bücher]]. [[sein]] [[Lieblingsbuch]] [[ist]] [[über]] [[ein]] [[großes]] [[Schiff]]. Lena [[mag]] [[Puppen]] und [[spielt]] [[oft]] [[in]] [[ihrem]] [[zimmer]].Die [Familie]] [[ist]] [[glücklich]]. Sie [[verbringen]] [[viel]] [[Zeit]] [[zusammen]] und [[haben]] [[immer]] [[Spaß]].
 

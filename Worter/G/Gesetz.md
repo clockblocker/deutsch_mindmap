@@ -28,4 +28,4 @@ G: des [[Gesetzes]], der [[Gesetze]]
 D: dem [[Gesetz]], den [[Gesetzen]]  
 
 ---
-[[gesetzlich]], [[Gesetzgeber]], [[Gesetzgebung]], [[ungesetzlich]], [[Gesetzentwurf]]
+[[gesetzlich]], [[Gesetzgeber]], [[Gesetzgebung]], [[ungesetzlich]], [[Gesetzentwurf]], [[volljährig]]

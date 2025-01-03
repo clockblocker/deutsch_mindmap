@@ -10,7 +10,7 @@ Der bus steht
 Der Bus helt an 
 Der bus fährt an
 
-[[an 1]]
+[[an]]
 
 
 

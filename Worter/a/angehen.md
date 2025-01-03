@@ -1,7 +1,7 @@
 🚦 [[angehen]] | [[ging an|ging an]], haben [[angegangen]]
 
 ---
- Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[angehen|geht]] [[dich]] nun wirklich [[nichts]] [[an 1]]!“
+ Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[angehen|geht]] [[dich]] nun wirklich [[nichts]] [[an]]!“
 
 *Bauz! da [[geht]] die Türe [[auf]],*  
 *und herein in schnellem Lauf*  
@@ -14,7 +14,7 @@ Antonyme: [[aufhören]], [[beenden]], [[stoppen]], [[abbrechen]]
 to start, to begin, to tackle, to concern
 
 ---
-[[an 1]][[geh]][[en]]
+[[an]][[geh]][[en]]
  
 ---
 
@@ -29,7 +29,7 @@ Partizip I: [[angehend]],
 Partizip II: [[angegangen]]
 Zu+infinitive: [[anzugehen]]
 
-[[angehen]] - [[an 1]] = [[gehen]]
+[[angehen]] - [[an]] = [[gehen]]
 
 ---
 [[Angang]], [[Angelegenheit]], [[Anfang]], [[Vorgehen]], [[Herangehensweise]], [[betreffen]]

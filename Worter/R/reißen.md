@@ -13,7 +13,7 @@ haben [[gerissen]]
 
 ---
 [[ausreißen]] - [[aus]] = [[reißen]]
-[[anreißen]] - [[an 1]] = [[reißen]]
+[[anreißen]] - [[an]] = [[reißen]]
 [[abreißen]] - [[ab]] = [[reißen]]
 
 

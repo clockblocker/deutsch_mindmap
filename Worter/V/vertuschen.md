@@ -1,1 +1,1 @@
-, [[ermitteln]], [[verraten]]
+, [[ermitteln]], [[verraten]], [[anzeigen]]

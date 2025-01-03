@@ -1,1 +1,1 @@
-, [[Kürzung]]
+, [[Kürzung]], [[Je mehr]]

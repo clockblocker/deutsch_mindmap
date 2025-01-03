@@ -20,4 +20,4 @@ Morphems:
 [[Gericht]]
 
 ---
-#Substantiv #Neuter[[Braten]]
+#Substantiv #Neuter[[Braten]], [[Arbeitsgericht]]

@@ -5,7 +5,7 @@
 - SASCHA: Was ziehe ich an? Hilfe! Ich habe nichts [[anzuziehen]]!  
 
 *Es [[zog]] der wilde Jägersmann*  
-*sein grasgrün neues Röcklein [[an 1]];*  
+*sein grasgrün neues Röcklein [[an]];*  
 
 
 ---
@@ -16,7 +16,7 @@ Antonyme: [[ausziehen]], [[umziehen]], [[entkleiden]]
 Übersetzung: to put on, to wear, to dress
 
 ---
-Morpheme: [[an 1]][[zieh]][[en]]
+Morpheme: [[an]][[zieh]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -29,7 +29,7 @@ Morpheme: [[an 1]][[zieh]][[en]]
 | Sie | [[ziehen an]] | [[zogen an]] | [[ziehen Sie an]] | [[ziehen an]] | [[zögen an]] |
 
 Partizip I: [[anziehend]], Partizip II: [[angezogen]]
-[[anziehen]] - [[an 1]] = [[ziehen]]
+[[anziehen]] - [[an]] = [[ziehen]]
 
 ---
 , [[festziehen]], [[verscheuchen]], [[wegshlagen]], [[abstoßen]]

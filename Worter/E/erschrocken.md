@@ -1,1 +1,1 @@
-😨 [[erschrecken]], [[s1 e1]], [[schrecken]], [[überfahren 1]], [[erstaunt]], [[entsetzt]]
+😨 [[erschrecken]], [[s1 e1]], [[schrecken]], [[überfahren]], [[erstaunt]], [[entsetzt]]

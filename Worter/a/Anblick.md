@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[an 1]][[Blick]]
+[[an]][[Blick]]
 
 ---
 Einzigartige mögliche Formen: [[Anblicks]], [[Anblicke]], [[anblicken]]

@@ -15,10 +15,11 @@ haben [[gezogen]]
 ---
 + [[weiterziehen]] - [[weiter]] = [[ziehen]] / moved on, continued on
 - [[umziehen]] - [[um]] = [[ziehen]]           / to move (house)
-- [[anziehen]] - [[an 1]] = [[ziehen]]            / to put on, to wear
+- [[anziehen]] - [[an]] = [[ziehen]]            / to put on, to wear
 - [[verziehen]] - [[ver]] = [[ziehen]]        /  to distort, to twist, to clear
 - [[hochziehen]] - [[hoch]] = [[ziehen]] / to pull up, to lift up
 - [[ausziehen]] - [[aus]] = [[ziehen]]  / extract, to move out, to undress
+- [[einziehen]] - [[ein]] = [[ziehen]] / to move in, to settle, to draw in
 
 ---
 Synonyme: [[zerren]], [[reißen]], [[schleifen]], [[schleppen]], [[verziehen]]
@@ -44,4 +45,4 @@ Morpheme: [[zieh]][[en]]
 | Sie | [[ziehen]] | [[zogen]] | [[ziehen Sie]] | [[ziehen]] | [[zögen]] |
 
 Partizip I: [[ziehend]], Partizip II: [[gezogen]]
-, [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]], [[losziehen]], [[hochziehen]], [[Schubst]]
+, [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]], [[losziehen]], [[hochziehen]], [[Schubst]], [[einziehen]]

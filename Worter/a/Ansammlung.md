@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[an 1]][[samml]][[ung]]
+[[an]][[samml]][[ung]]
 
 ---
 Einzigartige mögliche Formen:

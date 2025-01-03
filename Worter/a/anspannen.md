@@ -3,7 +3,7 @@
 haben [[angespannt]]
 
 ---
-_Sokka hat seinen Ärmel hochgezogen und [[anspannen|spannt]] eine Muskeln [[an 1]]._
+_Sokka hat seinen Ärmel hochgezogen und [[anspannen|spannt]] eine Muskeln [[an]]._
 
 ---
 Synonyme: [[einspannen]], [[belasten]], [[beanspruchen]], [[strapazieren]], [[belasten]]
@@ -13,7 +13,7 @@ Antonyme: [[entspannen]], [[entlasten]], [[ablassen]], [[lockern]], [[erleichter
 Übersetzung: to tighten, to stretch, to strain
 
 ---
-Morpheme: [[an 1]][[spann]][[en]]
+Morpheme: [[an]][[spann]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -30,4 +30,4 @@ Morpheme: [[an 1]][[spann]][[en]]
 
 Partizip I: [[anspannend]], Partizip II: [[angespannt]]
 
-[[anspannen]] - [[an 1]] = [[spannen]], [[s1 e1]]
+[[anspannen]] - [[an]] = [[spannen]], [[s1 e1]]

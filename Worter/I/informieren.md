@@ -1,1 +1,1 @@
-, [[berichten]], [[melden]]
+, [[berichten]], [[melden]], [[anzeigen]]

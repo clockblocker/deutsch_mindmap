@@ -17,7 +17,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[an 1]][[leit]][[ung]]
+[[an]][[leit]][[ung]]
 
 ---
 Einzigartige mögliche Formen: [[Anleitung]], [[Anleitung]], [[Anleitungen]], [[Anleitungen]]

@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Unglücks]], [[Unglücke]], [[Unglücken]]
 
 ---
-#Substantiv #Neutral, [[Pech]]
+#Substantiv #Neutral, [[Pech]], [[Verkehrsunfall]]

@@ -1,5 +1,5 @@
 
-[[an 1]][[kunft]]
+[[an]][[kunft]]
 
 Singular: die [[Ankunft]]
 Plural: [[Ankünfte]]

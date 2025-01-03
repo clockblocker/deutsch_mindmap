@@ -1,1 +1,2 @@
 📝 [[kündigen]]
+, [[Kündigung]]

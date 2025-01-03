@@ -1,1 +1,1 @@
-, [[treffen]], [[steuere]], [[begegnen]], [[überfahren 1]]
+, [[treffen]], [[steuere]], [[begegnen]], [[überfahren]]

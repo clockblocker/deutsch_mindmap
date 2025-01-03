@@ -2,7 +2,7 @@
 die [[Steuern]]
 
 ---
-Die junge Frau am [[Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren 1]]!“ 
+Die junge Frau am [[Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren]]!“ 
 
 
 ---

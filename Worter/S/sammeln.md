@@ -9,7 +9,7 @@ Er [[sammelte]] Zeitungsausschnitte, Foto-grafien, Farbstudien, Landschaften, Po
 
 
 ---
-[[ansammeln]] - [[an 1]] = [[sammeln]] // fomally gather
+[[ansammeln]] - [[an]] = [[sammeln]] // fomally gather
 [[versammeln]] - [[ver]] = [[sammeln]] // assemble
 
 ---

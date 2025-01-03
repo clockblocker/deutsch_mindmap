@@ -1,1 +1,1 @@
-[[bedeuten]], [[nicken]]
+[[bedeuten]], [[nicken]], [[anzeigen]]

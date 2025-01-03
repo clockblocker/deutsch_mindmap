@@ -3,7 +3,7 @@
 haben [[angestarrt]]
 
 ---
-Ein junger Mann mit einem Pferdeschwanz und einer Narbe im Gesicht [[starrt]] den Lichtstrahl [[an 1]].
+Ein junger Mann mit einem Pferdeschwanz und einer Narbe im Gesicht [[starrt]] den Lichtstrahl [[an]].
 
 
 ---
@@ -14,7 +14,7 @@ Antonyme: [[ignorieren]], [[wegschauen]], [[vermeiden]]
 Übersetzung: to stare (at)
 
 ---
-Morpheme: [[an 1]][[starr]][[en]]
+Morpheme: [[an]][[starr]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[an 1]][[starr]][[en]]
 
 Partizip I: [[anstarrend]], Partizip II: [[angestarrt]]
 
-[[anstarren]] - [[an 1]] = [[starren]], [[s1 e1]]
+[[anstarren]] - [[an]] = [[starren]], [[s1 e1]]

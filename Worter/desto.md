@@ -1,7 +1,8 @@
 🔗 [[desto]], [ˈdɛsto]
 
 ---
-93. Je mehr „[[Zweitstimmen]]“ eine [[Partei]] bei einer [[Bundestagswahl]] bekommt, [[desto]] mehr Sitze [[erhält]] die Partei im Parlament.
+93. [[Je mehr]] „[[Zweitstimmen]]“ eine Partei bei einer Bundestagswahl bekommt, [[desto]] … (97%)
+	- [x] mehr [[Sitze]] [[erhält]] die Partei im Parlament.
 
 ---
 = [[umso]], [[je]], [[denn]]
@@ -16,3 +17,4 @@ the, to the extent that, the more... the more
 
 ---
 [[destomehr]], [[destoweniger]], [[sodesto]]
+, [[Je mehr]]

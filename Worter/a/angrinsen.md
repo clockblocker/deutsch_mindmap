@@ -3,7 +3,7 @@
 haben [[angegrinst]]
 
 ---
-Also, das war wirklich der Wahnsinn! (Hilft Aang auf die Beine und [[grinst]] ihn [[an 1]])
+Also, das war wirklich der Wahnsinn! (Hilft Aang auf die Beine und [[grinst]] ihn [[an]])
 
 ---
 Synonyme: [[grinsen]], [[lächeln]], [[lachen]], [[zulächeln]], [[anlachen]]
@@ -13,7 +13,7 @@ Antonyme: [[anstarren]], [[ernst sein]], [[schmollen]]
 Übersetzung: to grin at, to beam at
 
 ---
-Morpheme: [[an 1]][[grinsen]]
+Morpheme: [[an]][[grinsen]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[an 1]][[grinsen]]
 | Sie | [[grinsen an]] | [[grinsten an]] | [[grinsen Sie an]] | [[grinsen an]] | [[grinsten an]] |
 
 Partizip I: [[angrinsend]], Partizip II: [[angegrinst]]
-[[angrinsen]] - [[an 1]] = [[grinsen]]
+[[angrinsen]] - [[an]] = [[grinsen]]

@@ -14,7 +14,7 @@ Antonyme: [[abweisen]], [[ignorieren]], [[verschließen]]
 Übersetzung: to laugh at, to smile at
 
 ---
-Morpheme: [[an 1]][[lach]][[en]]
+Morpheme: [[an]][[lach]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[an 1]][[lach]][[en]]
 
 Partizip I: [[anlachend]], Partizip II: [[angelacht]]
 
-[[anlachen]] - [[an 1]] = [[lachen]]
+[[anlachen]] - [[an]] = [[lachen]]

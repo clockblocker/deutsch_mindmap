@@ -1,1 +1,1 @@
-, [[Auswahl]], [[Entscheidung]], [[Bundestagswahl]]
+, [[Auswahl]], [[Entscheidung]], [[Bundestagswahl]], [[Direktkandidat]]

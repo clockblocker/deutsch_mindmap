@@ -1,1 +1,1 @@
-[[Unglück]], [[Unsinn]], [[Unfall]], [[ununterbrochen]]
+[[Unglück]], [[Unsinn]], [[Unfall]], [[ununterbrochen]], [[ungerecht]], [[ungerechtfertigen]]

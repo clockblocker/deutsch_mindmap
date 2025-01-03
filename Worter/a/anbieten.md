@@ -14,7 +14,7 @@ Antonyme: [[ablehnen 1]], [[zurückweisen]], [[verweigern]]
 to offer
 
 ---
-[[an 1]][[biet]][[en]]
+[[an]][[biet]][[en]]
  
 ---
 
@@ -29,7 +29,7 @@ Partizip I: [[anbietend]],
 Partizip II: [[angeboten]]
 Zu+infinifive: [[anzubieten]]
 
-[[anbieten]] - [[an 1]] = [[bieten]] // to offer
+[[anbieten]] - [[an]] = [[bieten]] // to offer
 
 ---
 [[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]], [[ablehnen]]

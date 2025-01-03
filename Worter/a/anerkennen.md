@@ -1,1 +1,1 @@
-, [[zugeben]], [[Anerkennung]], [[leugnen]]
+, [[zugeben]], [[Anerkennung]], [[leugnen]], [[respektieren]]

@@ -1,1 +1,1 @@
-, [[Schluss]], [[Abschluss]]
+, [[Schluss]], [[Abschluss]], [[Kündigung]]

@@ -1,1 +1,1 @@
-, [[sitzen]]
+, [[sitzen]], [[Sitz]]

@@ -9,7 +9,7 @@ _Verdeckt im Schnee läuft Aang in eine Schnur hinein, die über den Boden [[ges
 
 
 ---
-[[anspannen]] - [[an 1]] = [[spannen]] / stretch
+[[anspannen]] - [[an]] = [[spannen]] / stretch
 [[entspannen]] - [[ent]] = [[spannen]] / relax
 
 

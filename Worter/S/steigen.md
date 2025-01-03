@@ -10,7 +10,7 @@ sein [[gestiegen]]
 
 Bei den Kunstauktionen in London [[stieg]] der Umsatz in den letzten Jahren kontinuierlich.
 
-*So [[sprach]] sie ihren Liebsten [[an 1]]*  
+*So [[sprach]] sie ihren Liebsten [[an]]*  
 *Ob er es ihr [[steigen]] kann
 
 (Hebt die Hand um zu protestieren) Äh. ([[Steigt]] auf Appa)

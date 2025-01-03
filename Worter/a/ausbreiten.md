@@ -3,7 +3,7 @@
 haben [[ausgebreitet]]
 
 ---
-([[Breitet]] seine Hände aus und sieht Zuko [[an 1]]) 
+([[Breitet]] seine Hände aus und sieht Zuko [[an]]) 
 
 
 ---

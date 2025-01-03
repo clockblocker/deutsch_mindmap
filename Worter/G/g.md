@@ -1,1 +1,1 @@
-, [[steigen]], [[folgen]], [[fliegen]], [[neigen]]
+, [[steigen]], [[folgen]], [[fliegen]], [[neigen]], [[prägen]]

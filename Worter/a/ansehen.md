@@ -10,9 +10,9 @@ Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 *da sah sie plötzlich vor sich stehn*  
 *ein Feuerzeug, nett anzusehn.*  
 
-Nennst du das etwa links? _[[ansehen|Sieht]] Sokka böse [[an 1]]_
+Nennst du das etwa links? _[[ansehen|Sieht]] Sokka böse [[an]]_
 
-Katara [[sieht]] den Eisberg genauer [[an 1]] und erkennt einen Jungen mit leuchtenden [[Pfeilen]] auf dem Kopf und den Händen. 
+Katara [[sieht]] den Eisberg genauer [[an]] und erkennt einen Jungen mit leuchtenden [[Pfeilen]] auf dem Kopf und den Händen. 
 
 Sokka, der sich frei von der Linie der Dorfbewohner macht, geht ein paar Schritte nach vorn um Aang [[anzusehen]]
 
@@ -27,7 +27,7 @@ Antonyme: [[ignorieren]], [[übersehen]], [[wegsehen]], [[abwenden]]
 Übersetzung: to look at, to view, to see
 
 ---
-Morpheme: [[an 1]][[seh]][[en]]
+Morpheme: [[an]][[seh]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -44,4 +44,4 @@ Morpheme: [[an 1]][[seh]][[en]]
 
 Partizip I: [[ansehend]], Partizip II: [[angesehen]], Zuinf: [[anzusehen]]
 
-[[ansehen]] - [[an 1]] = [[sehen]], [[s1 e1]], [[angucken]]
+[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]]

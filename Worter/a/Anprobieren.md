@@ -55,4 +55,4 @@ ANNA: [[Anprobieren|Probier]] es mal an!
 
 **Morphems of only infinitive:**
 
-- [[an 1]] [[probier]][[en]]
+- [[an]] [[probier]][[en]]

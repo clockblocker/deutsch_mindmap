@@ -1,5 +1,5 @@
 ![[Pasted image 20240617130203.png]]
-[[an 1]]
+[[an]]
 [[Konjunktion/Positionen/auf]]
 [[über]]
 [[unter]]

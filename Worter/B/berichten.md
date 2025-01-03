@@ -1,1 +1,1 @@
-, [[sagen]], [[erzählen]], [[Abschlussbericht]]
+, [[sagen]], [[erzählen]], [[Abschlussbericht]], [[anzeigen]]

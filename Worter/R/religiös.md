@@ -1,1 +1,1 @@
-, [[fromm]], [[jüdisch]]
+, [[fromm]], [[jüdisch]], [[Religion]]

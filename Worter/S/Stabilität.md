@@ -1,1 +1,1 @@
-, [[Gleichgewicht]], [[Sicherheit]]
+, [[Gleichgewicht]], [[Sicherheit]], [[Risiko]]

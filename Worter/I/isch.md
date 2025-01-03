@@ -1,1 +1,1 @@
-, [[neidisch]], [[jüdisch]]
+, [[neidisch]], [[jüdisch]], [[europäisch]]

@@ -1,1 +1,1 @@
-, [[verwandt]]
+, [[verwandt]], [[elterlich]]

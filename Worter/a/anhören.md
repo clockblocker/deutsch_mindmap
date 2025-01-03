@@ -3,7 +3,7 @@
 haben [[angehört 1]]
 
 ---
-Und manche Menschen [[hören]] [[sich]] dabei fast so [[an 1]] wie ein Vogel
+Und manche Menschen [[hören]] [[sich]] dabei fast so [[an]] wie ein Vogel
 
 Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
 
@@ -15,7 +15,7 @@ Antonyme: [[ignorieren]], [[überhören]], [[nicht zuhören]], [[abschalten 1]]
 Übersetzung: to listen to, to hear
 
 ---
-Morpheme: [[an 1]][[hör]][[en]]
+Morpheme: [[an]][[hör]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -28,4 +28,4 @@ Morpheme: [[an 1]][[hör]][[en]]
 | Sie | [[hören an]] | [[hörten an]] | [[hören Sie an]] | [[hören an]] | [[hörten an]] |
 
 Partizip I: [[anhörend 1]], Partizip II: [[angehört 1]]
-[[anhören 1]] - [[an 1]] = [[hören]]
+[[anhören 1]] - [[an]] = [[hören]]

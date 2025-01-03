@@ -11,8 +11,9 @@ Frau Schulte sagt: „So kann es auf jeden [[Fall]] nicht [[weitergehen]]. Auch 
 
 
 ---
-[[abholen]] - [[ab]] = [[holen]]    / to pick up
-[[herholen]] - [[her]] = [[holen]] / to fetch, to bring here
+[[abholen]] - [[ab]] = [[holen]]                 / to pick up
+[[herholen]] - [[her]] = [[holen]]              / to fetch, to bring here
+[[zurückholen]] - [[zurück]] = [[holen]]  / to retrieve, to get back, to reclaim
 
 
 ---
@@ -38,4 +39,4 @@ Morpheme: [[hol]][[en]]
 | Sie       | [[holen]]            | [[holten]]            | [[holen Sie]]     | [[holen]]              | [[holten]]              |
 
 Partizip I: [[holend]], Partizip II: [[geholt]]
-+[[ab]]  = [[abholen]]
++[[ab]]  = [[abholen]], [[zurückholen]]

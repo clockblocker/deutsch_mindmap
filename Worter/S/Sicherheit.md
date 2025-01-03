@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sicherheit]], [[Sicherheiten]]
 
 ---
-#Substantiv #Feminin, [[Verkehrstote]]
+#Substantiv #Feminin, [[Verkehrstote]], [[Risiko]]

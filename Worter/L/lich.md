@@ -1,1 +1,1 @@
-, [[offensichtlich]], [[neulich]], [[redensartlich]], [[wahrscheinlich]], [[schließlich]], [[Ausführlich]], [[sachlich]], [[rechtlich]], [[gesetzlich]], [[verantwortlich]], [[ehrenamtlich]]
+, [[offensichtlich]], [[neulich]], [[redensartlich]], [[wahrscheinlich]], [[schließlich]], [[Ausführlich]], [[sachlich]], [[rechtlich]], [[gesetzlich]], [[verantwortlich]], [[ehrenamtlich]], [[elterlich]]

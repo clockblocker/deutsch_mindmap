@@ -17,4 +17,4 @@ Morphems:
 [[Stimm]][[e]]
 
 ---
-#Substantiv #Feminin, [[Zweitstimme]]
+#Substantiv #Feminin, [[Zweitstimme]], [[Erststimme]]

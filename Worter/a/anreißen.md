@@ -14,7 +14,7 @@ Antonyme: [[verwischen]], [[auslöschen]], [[löschen]], [[tilgen]], [[streichen
 Übersetzung: немногожко надорвать, to mark, to highlight
 
 ---
-Morpheme: [[an 1]][[reiß]][[en]]
+Morpheme: [[an]][[reiß]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[an 1]][[reiß]][[en]]
 
 Partizip I: [[anreißend]], Partizip II: [[angerissen]]
 
-[[anreißen]] - [[an 1]] = [[reißen]]
+[[anreißen]] - [[an]] = [[reißen]]

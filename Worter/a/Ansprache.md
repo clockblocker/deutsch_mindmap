@@ -11,7 +11,7 @@ Synonyme:
 Übersetzung: speech, address, talk
 
 ---
-Morpheme: [[an 1]][[sprech]][[e]]
+Morpheme: [[an]][[sprech]][[e]]
 
 ---
 #Substantiv #Feminin

@@ -14,7 +14,7 @@ Antonyme: [[verteidigen]], [[schützen]], [[abwehren]], [[kapitulieren]], [[aufg
 Übersetzung: to attack
 
 ---
-Morpheme: [[an 1]][[greif]][[en]]
+Morpheme: [[an]][[greif]][[en]]
  #Verb  #Trennbar
 
 ---
@@ -31,4 +31,4 @@ Morpheme: [[an 1]][[greif]][[en]]
 
 Partizip I: [[angreifend]], Partizip II: [[angegriffen]]
 
-[[angreifen]] - [[an 1]] = [[greifen]], [[Aggression]], [[beschützen]]
+[[angreifen]] - [[an]] = [[greifen]], [[Aggression]], [[beschützen]]

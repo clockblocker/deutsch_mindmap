@@ -8,7 +8,7 @@ Sprich mit der Kamera wie mit einer schönen Frau …
 (Hängt mit der Zunge an seinem Stab und [[spricht]] undeutlich)
 
 ---
-[[ansprechen]] - [[an 1]] = [[sprechen]] // to address, to speak to, to approach
+[[ansprechen]] - [[an]] = [[sprechen]] // to address, to speak to, to approach
 [[versprechen]] - [[ver]] = [[sprechen]] // to promise
 
 

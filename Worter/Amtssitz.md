@@ -24,4 +24,4 @@ G: des [[Amtssitzes]], der [[Amtssitze]]
 D: dem [[Amtssitz]], den [[Amtssitzen]] 
 
 ---
-[[amtlich]], [[Amtsbezirk]], [[Amtsinhaber]], [[Amtszeit]]
+[[amtlich]], [[Amtsbezirk]], [[Amtsinhaber]], [[Amtszeit]], [[Sitz]]

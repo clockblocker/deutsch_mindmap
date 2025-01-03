@@ -17,7 +17,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[an 1]][[griff]]
+[[an]][[griff]]
 
 ---
 Einzigartige mögliche Formen: [[Angriffs]], [[Angriffen]], [[Angriffe]], [[Angriffen]]

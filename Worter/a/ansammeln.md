@@ -13,7 +13,7 @@ Antonyme: [[verteilen]], [[zerstreuen]], [[auflösen]]
 Übersetzung: to accumulate, to gather, to collect
 
 ---
-Morpheme: [[an 1]][[sammel]][[n]]
+Morpheme: [[an]][[sammel]][[n]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[an 1]][[sammel]][[n]]
 | Sie | [[sammeln an]] | [[sammelten an]] | [[sammeln Sie an]] | [[sammeln an]] | [[sammelten an]] |
 
 Partizip I: [[ansammelnd]], Partizip II: [[angesammelt]]
-[[ansammeln]] - [[an 1]] = [[sammeln]]
+[[ansammeln]] - [[an]] = [[sammeln]]

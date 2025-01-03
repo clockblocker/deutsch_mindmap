@@ -1,1 +1,1 @@
-, [[selbständig]]
+, [[selbständig]], [[volljährig]]

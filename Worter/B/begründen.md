@@ -33,4 +33,4 @@ PI: [[begründend]], PII: [[begründet]], Zu+inf: [[zu begründen]]
 [[begründen]] - [[be]] = [[gründen]] / to justify, to substantiate, to explain
 
 ---
-[[Begründung]], [[begründbar]], [[Grund]], [[gründlich]], [[grundlos]]
+[[Begründung]], [[begründbar]], [[Grund]], [[gründlich]], [[grundlos]], [[ungerechtfertigen]]

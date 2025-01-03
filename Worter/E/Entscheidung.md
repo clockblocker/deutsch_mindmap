@@ -4,6 +4,8 @@ die [[Entscheidungen]]
 ---
 Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. Jannis [[lächelt]]. Er hat wieder eine gute Entscheidung [[getroffen]].
 
+267. Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun? (97%)
+	- [x] Sie müssen die [[Entscheidung]] der [[volljährigen]] Tochter [[respektieren]].
 ---
 Synonyme:
 - [[Beschluss]], [[Urteil]], [[Wahl]], [[Resolution]], [[Verfügung]]

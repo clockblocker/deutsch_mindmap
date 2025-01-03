@@ -4,7 +4,7 @@ sein [[angekommen]]
 
 ---
 *Da [[kommt]] der wilde Jägersmann*  
-*zuletzt beim tiefen Brünnchen [[an 1]].*  
+*zuletzt beim tiefen Brünnchen [[an]].*  
 
 ---
 
@@ -16,12 +16,12 @@ sein [[angekommen]]
 
 **Beispiele:**
 
-- Ich [[komme]] um 18 Uhr [[an 1]].
-- Du [[kommst]] bald [[an 1]].
-- Er [[kommt]] mit dem Zug [[an 1]].
-- Wir [[kommen]] morgen früh [[an 1]].
-- Ihr [[kommt]] rechtzeitig [[an 1]].
-- Sie [[kommen]] in der Stadt [[an 1]].
+- Ich [[komme]] um 18 Uhr [[an]].
+- Du [[kommst]] bald [[an]].
+- Er [[kommt]] mit dem Zug [[an]].
+- Wir [[kommen]] morgen früh [[an]].
+- Ihr [[kommt]] rechtzeitig [[an]].
+- Sie [[kommen]] in der Stadt [[an]].
 
 ---
 
@@ -59,4 +59,4 @@ to arrive
 ---
 
 **Morphems of only infinitive:**
-- [[an 1]][[kommen]][[weggehen]], [[verschwinden]], [[erreichten]], [[zugehen]]
+- [[an]][[kommen]][[weggehen]], [[verschwinden]], [[erreichten]], [[zugehen]]

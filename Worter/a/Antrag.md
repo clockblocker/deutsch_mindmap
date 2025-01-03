@@ -15,7 +15,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[an 1]][[trag]]
+[[an]][[trag]]
 
 ---
 Einzigartige mögliche Formen: [[Antrags]], [[Antrage]], [[Anträge]], [[Anträgen]]
