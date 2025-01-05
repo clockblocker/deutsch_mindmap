@@ -1,1 +1,1 @@
-, [[pflegen]]
+, [[pflegen]], [[Behandlung]]

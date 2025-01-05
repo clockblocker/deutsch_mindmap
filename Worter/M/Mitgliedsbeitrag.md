@@ -1,1 +1,1 @@
-, [[Mitgliedschaft]]
+, [[Mitgliedschaft]], [[Vereinsbeitrag]]

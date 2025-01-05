@@ -1,1 +1,1 @@
-, [[Wahlpflicht]]
+, [[Wahlpflicht]], [[Versicherungspflicht]]

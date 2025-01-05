@@ -1,1 +1,1 @@
-, [[geeignet]], [[Gewinn]], [[Gewalt]], [[Geräusch]], [[Gebiet]], [[Geburt]], [[Gesetz]], [[Gesundheitsamt]], [[gezwungen]], [[Gefängnis]], [[herabgezogen]]
+, [[geeignet]], [[Gewinn]], [[Gewalt]], [[Geräusch]], [[Gebiet]], [[Geburt]], [[Gesetz]], [[Gesundheitsamt]], [[gezwungen]], [[Gefängnis]], [[herabgezogen]], [[Gehaltszahlungen]]

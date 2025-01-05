@@ -28,4 +28,4 @@ D: den [[Steuern]], den [[Steuern]]
 [[besteuern]], [[Steuerberater]], [[Steuererklärung]], [[Steuerpflicht]], [[steuerpflichtig]]
 
 [[fahren]][[regeln]], [[bedienen]], [[beherrschen]], [[steuere]], [[führen]], [[leiten]], [[Steuererklärung]], [[Lohnsteuer]]
-, [[beeinflussen]]
+, [[beeinflussen]], [[Sozialabgaben]]

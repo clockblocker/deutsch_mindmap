@@ -1,6 +1,4 @@
-👀 [[achten]]+ Akk, [ˈaxtən]
-[[achtete]]
-haben [[geachtet]]
+🧐 [[achten]], [ˈaxtən] | [[achtete]], haben [[geachtet]]
 
 ---
 _Aang [[achtet]] jedoch nur auf sie und kracht mitten im Flug in Sokkas Wachturm._
@@ -11,30 +9,31 @@ Aber alle machen so weiter, wie sie begonnen haben. Niemand [[achtet]] darauf, w
 
 Ohne auf ihre [[Umgebung]] zu [[achten]], läuft sie [[weiter]] –, bis sie ein lautes [[Quietschen]] hört. Carola blickt hoch: Sie steht mitten auf der Straße, neben ihr hat ein Auto eine [[Vollbremsung]] gemacht. 
 
+---
+[[beachten]] - [[be]] = [[achten]] / to observe, to pay attention to, to heed
 
 ---
-Synonyme: [[respektieren]], [[schätzen]], [[würdigen]], [[beachten]], [[ehren]]
-Antonyme: [[missachten]], [[ignorieren]], [[verachten]]
+= [[respektieren]], [[würdigen]], [[beachten]]
+≈ [[Rücksicht nehmen]], [[berücksichtigen]], [[Wert legen]]
+≠ [[missachten]], [[ignorieren]], [[verachten]]
 
 ---
-Übersetzung: to respect, to pay attention to
+to respect, to pay attention to, to observe
 
 ---
-Morpheme: [[Acht]][[en]]
- #Verb  #Untrennbar
+[[ach]]|[[t]]|[[en]]
 
 ---
+ich: [[achte]], [[achtete]], –, [[achte]], [[achtete]]
+du: [[achtest]], [[achtetest]], [[achte]] | [[acht]] | [[achte]], [[achtest]], [[achtetest]]
+er/sie/es: [[achtet]], [[achtete]], –, [[achte]], [[achtete]]
+wir: [[achten]], [[achteten]], [[achten wir|achten]], [[achten]], [[achteten]]
+ihr: [[achtet]], [[achtetet]], [[achtet]], [[achtet]], [[achtetet]]
 
-| Person    | Präsens   | Präteritum | Imperativ       | Konjunktiv I | Konjunktiv II |
-| --------- | --------- | ---------- | --------------- | ------------ | ------------- |
-| Ich       | [[achte]] | [[achtete]]| -               | [[achte]]    | [[achtete]]   |
-| Du        | [[achtest]]| [[achtetest]]| [[achte]]     | [[achtest]]  | [[achtetest]] |
-| Er/sie/es | [[achtet]]| [[achtete]]| -               | [[achte]]    | [[achtete]]   |
-| Wir       | [[achten]]| [[achteten]]| -              | [[achten]]   | [[achteten]]  |
-| Ihr       | [[achtet]]| [[achtetet]]| [[achtet]]     | [[achtet]]   | [[achtetet]]  |
-| Sie       | [[achten]]| [[achteten]]| [[achten Sie]] | [[achten]]   | [[achteten]]  |
+PI: [[achtend]], PII: [[geachtet]], Zu+inf: [[zu achten]]
 
-Partizip I: [[achtend]], Partizip II: [[geachtet]]
-, [[Sorgen]]
+---
+[[achten]] - pure verb / to respect, to pay attention to
 
-, [[zuhören]], [[Umgebung]], [[quietschen]]
+---
+[[Achtung]], [[achtbar]], [[achtsam]], [[Achtsamkeit]], [[verachten]], [[beachten]]

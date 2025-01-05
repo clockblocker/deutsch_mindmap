@@ -5,6 +5,12 @@ die [[Sozialversicherungen]]
 97. Was [[bezahlt]] man in Deutschland automatisch, wenn man [[fest]] [[angestellt]] ist? (96%)
 	- [x] [[Sozialversicherung]]
 
+285. Womit finanziert der deutsche Staat die [[Sozialversicherung]]? (95%)
+	- [ ] [[Kirchensteuern]]
+	- [x] [[Sozialabgaben]]
+	- [ ] [[Spendengeldern]]
+	- [ ] [[Vereinsbeiträgen]]
+
 ---
 = [[Soziale Absicherung]], [[Sozialsystem]], [[Wohlfahrtssystem]]
 ≈ [[Krankenversicherung]], [[Rentenversicherung]], [[Arbeitslosenversicherung]]

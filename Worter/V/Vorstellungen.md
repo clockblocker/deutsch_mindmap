@@ -1,1 +1,1 @@
-🤔 🔴 die [[Vorstellung]]
+🤔 🔴 die [[Vorstellung]], [[Gehaltsvorstellungen]]

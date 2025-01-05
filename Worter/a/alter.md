@@ -19,4 +19,4 @@ Synonyme:
 ---
 
 
-, [[volljährig]]
+, [[volljährig]], [[Mindestalter]]

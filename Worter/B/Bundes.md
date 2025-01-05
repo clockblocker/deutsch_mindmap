@@ -1,1 +1,1 @@
-, [[Bundeskanzler]], [[Bundestagswahl]], [[Bundesadler]], [[Bundeskanzleramt]], [[Bundesregierung]], [[Bundesbezirk]]
+, [[Bundeskanzler]], [[Bundestagswahl]], [[Bundesadler]], [[Bundeskanzleramt]], [[Bundesregierung]], [[Bundesbezirk]], [[Bundeswehr]]

@@ -1,1 +1,1 @@
-, [[beherrschen]], [[Regierung]], [[Bundesregierung]], [[regierend]], [[Regierungspartei]]
+, [[beherrschen]], [[Regierung]], [[Bundesregierung]], [[regierend]], [[Regierungspartei]], [[Fürstentum]]

@@ -1,1 +1,1 @@
-, [[Arbeitsamt]], [[Arbeitsplatz]]
+, [[Arbeitsamt]], [[Arbeitsplatz]], [[Stelle]], [[Arbeitsverhältnis]]

@@ -1,1 +1,1 @@
-, [[Wahlpflicht]], [[Meinungsfreiheit]], [[wahlberechtigt]]
+, [[Wahlpflicht]], [[Meinungsfreiheit]], [[wahlberechtigt]], [[Fürstentum]]

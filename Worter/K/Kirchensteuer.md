@@ -5,6 +5,13 @@ die [[Kirchensteuern]]
 291. Warum muss man in Deutschland bei der [[Steuererklärung]] [[aufschreiben]], ob man zu einer Kirche gehört oder nicht? Weil … (97%)
 	- [x] es eine [[Kirchensteuer]] gibt, die an die Einkommen- und [[Lohnsteuer]] [[geknüpft]] ist.
 
+285. Womit finanziert der deutsche Staat die [[Sozialversicherung]]? (95%)
+	- [ ] [[Kirchensteuern]]
+	- [x] [[Sozialabgaben]]
+	- [ ] [[Spendengeldern]]
+	- [ ] [[Vereinsbeiträgen]]
+
+
 ---
 = [[Religionssteuer]], [[Gemeindesteuer]]
 ≈ [[Abgabe]], [[religiöse Finanzierung]], [[Beitrag]]

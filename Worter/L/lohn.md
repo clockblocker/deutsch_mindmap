@@ -1,1 +1,1 @@
-, [[Lohnen]], [[Lohnsteuer]]
+, [[Lohnen]], [[Lohnsteuer]], [[Sozialabgaben]], [[Gehaltszahlungen]]

@@ -34,4 +34,4 @@ PI: [[gründend]], PII: [[gegründet]], Zu+inf: [[zugründen]]
 [[gründen]] - [[gründ]] = [[Grund]] / to found, to establish, to create
 
 ---
-[[Gründer]], [[Gründung]], [[gegründet]], [[Begründung]], [[grundlegend]]
+[[Gründer]], [[Gründung]], [[gegründet]], [[Begründung]], [[grundlegend]], [[errichteten]]

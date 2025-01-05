@@ -4,7 +4,9 @@
 272. Welche [[Lebensform]] ist in Deutschland nicht [[erlaubt]]? (97%)
 	- [x] Ein Mann ist mit zwei Frauen zur selben Zeit [[verheiratet]].
 
-
+282. In Deutschland darf man wählen. Was bedeutet das? (95%)
+	- [x] Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das [[Mindestalter]] [[erreicht]] haben.
+	- [ ] Nur [[verheiratete]] Personen dürfen wählen.
 ---
 = [[vermählt]], [[getraut]], [[verehelicht]],
 ≈ [[gebunden]], [[vermählt]], [[ehelich]]

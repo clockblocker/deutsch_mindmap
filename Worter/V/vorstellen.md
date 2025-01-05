@@ -29,4 +29,4 @@ Zu+infinifive: [[vorzustellen]]
 [[vorstellen]] - [[vor]] = [[stellen]] / to introduce, to present
 
 ---
-[[Vorstellung]], [[Vorstellungsgespräch]], [[Selbstvorstellung]], [[Vorstellungskraft]], [[Vorstellungsvermögen]]
+[[Vorstellung]], [[Vorstellungsgespräch]], [[Selbstvorstellung]], [[Vorstellungskraft]], [[Vorstellungsvermögen]], [[Gehaltsvorstellungen]]

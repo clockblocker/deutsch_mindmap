@@ -26,4 +26,4 @@ G: der [[Kirche]], der [[Kirchen]]
 D: der [[Kirche]], den [[Kirchen]]  
 
 ---
-[[kirchlich]], [[kirchengroß]], [[Kirchengemeinde]], [[Kirchensteuer]], [[Kirchenbau]]
+[[kirchlich]], [[kirchengroß]], [[Kirchengemeinde]], [[Kirchensteuer]], [[Kirchenbau]], [[Kirchensteuern]]

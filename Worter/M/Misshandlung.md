@@ -1,1 +1,1 @@
-, [[Erziehung]]
+, [[Erziehung]], [[Behandlung]]

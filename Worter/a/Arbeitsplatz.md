@@ -23,4 +23,4 @@ G: des [[Arbeitsplatzes]], der [[Arbeitsplätze]]
 D: dem [[Arbeitsplatz]], den [[Arbeitsplätzen]]  
 
 ---
-[[arbeiten]], [[Arbeiterin]], [[Arbeiter]], [[Arbeitslosigkeit]], [[Arbeitszeit]]
+[[arbeiten]], [[Arbeiterin]], [[Arbeiter]], [[Arbeitslosigkeit]], [[Arbeitszeit]], [[Stelle]]

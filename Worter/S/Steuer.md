@@ -22,4 +22,4 @@ Accusative: den [[Steuer]], die [[Steuern]]
 Genitive: des [[Steuers]], der [[Steuern]]  
 Dative: dem [[Steuer]], den [[Steuern]] 
 
-steuern, steuerlich, steuerbar, Steuererklärung, Steuerberater, [[Steuererklärung]], [[Kirchensteuer]], [[Lohnsteuer]]
+steuern, steuerlich, steuerbar, Steuererklärung, Steuerberater, [[Steuererklärung]], [[Kirchensteuer]], [[Lohnsteuer]], [[Kirchensteuern]]

@@ -1,1 +1,1 @@
-, [[Finanzkrise]], [[finanziell]], [[Kirchensteuer]]
+, [[Finanzkrise]], [[finanziell]], [[Kirchensteuer]], [[Kirchensteuern]]

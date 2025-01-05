@@ -63,4 +63,4 @@ to pay
 ---
 
 **Morphems of only infinitive:**  
-- [[zahl]][[en]], [[ausgeben]], [[Seitenzahlen]], [[Geldstrafe]]
+- [[zahl]][[en]], [[ausgeben]], [[Seitenzahlen]], [[Geldstrafe]], [[Gehaltszahlungen]]

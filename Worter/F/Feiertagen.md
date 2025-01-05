@@ -1,1 +1,1 @@
-🔴 die [[Feiertage]], [ˈfaɪ̯ɐˌtaːɡə]
+🔴 die [[Feiertag]], [ˈfaɪ̯ɐˌtaːɡə]

@@ -9,6 +9,9 @@
 
 ein Werk des Leipziger Malers Matthias Weischer [[erreichte]] bei einer Auktion einen Preis von 384854 Dollar
 
+282. In Deutschland darf man wählen. Was bedeutet das? (95%)
+	- [x] Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das [[Mindestalter]] [[erreicht]] haben.
+	- [ ] Nur [[verheiratete]] Personen dürfen wählen.
 ---
 = [[gelangen]], [[schaffen]], [[bewerkstelligen]]
 ≈ [[ankommen]], [[gelingen]], [[verwirklichen]], [[realisieren]]
@@ -36,3 +39,4 @@ PI: [[erreichend]], PII: [[erreicht]], Zu+inf: [[zu erreichen]]
 [[Erreichbarkeit]], [[Erreichung]], [[reichbar]], [[unerreichbar]], [[Erreichbares]]
 
 , [[schaden]], [[reichen]]
+, [[erreichbar]]

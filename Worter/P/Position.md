@@ -1,1 +1,1 @@
-, [[Stellung]], [[Lage]]
+, [[Stellung]], [[Lage]], [[Stelle]]

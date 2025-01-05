@@ -31,4 +31,4 @@ Morpheme: [[an]][[sprech]][[en]]
 | Sie | [[sprechen an]] | [[sprachen an]] | [[sprechen Sie an]] | [[sprechen an]] | [[sprächen an]] |
 
 Partizip I: [[ansprechend]], Partizip II: [[angesprochen]]
-[[ansprechen]] - [[an]] = [[sprechen]] // to address, to speak to, to approach, [[Anspruch]]
+[[ansprechen]] - [[an]] = [[sprechen]] // to address, to speak to, to approach, [[Anspruch]], [[Ansprechpartner]]

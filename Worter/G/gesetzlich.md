@@ -27,4 +27,4 @@ N: [[gesetzliches]], [[gesetzlicheres]], [[gesetzlichstes]]
 P: [[gesetzlichen]], [[gesetzlicheren]], [[gesetzlichsten]]  
 
 ---
-[[Gesetz]], [[Legalität]], [[gesetzeskonform]], [[ungesetzlich]], [[Gesetzlichkeit]], [[Grundgesetz]],
+[[Gesetz]], [[Legalität]], [[gesetzeskonform]], [[ungesetzlich]], [[Gesetzlichkeit]], [[Grundgesetz]],, [[Versicherungspflicht]]

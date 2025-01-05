@@ -16,3 +16,4 @@ Morpheme:
 
 ---
 #Numeral #Zahl
+, [[beachten]], [[achten]]

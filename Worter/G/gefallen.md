@@ -7,6 +7,11 @@ Dir gefällt also nicht wie ich steuere, ja?
 
 Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas Bericht nicht. „Die [[Seitenzahlen]] sollten immer [[unten]] rechts stehen. Bitte achten Sie in Zukunft [[darauf]]!“, war ihr [[einziger]] Kommentar zu dem Bericht. 
 
+284. Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)
+	- [ ] Ich muss mir diese [[Behandlung]] gefallen lassen.
+	- [x] Ich kann mich beim [[Behördenleiter]] / bei der Behördenleiterin [[beschweren]].
+
+
 ---
 Synonyme: [[zusagen]], [[behagen]], [[freuen]], [[erfreuen]], [[zusagen]]
 Antonyme: [[missfallen]], [[ablehnen 1]], [[stören]], [[verärgern]]

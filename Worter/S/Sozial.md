@@ -1,1 +1,1 @@
-, [[Sozialstunde]], [[Sozialversicherung]]
+, [[Sozialstunde]], [[Sozialversicherung]], [[Sozialabgaben]]

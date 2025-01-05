@@ -1,1 +1,1 @@
-, [[leisten]], [[verzweifeln]], [[beschließen]], [[Aufgaben]], [[schaffen]], [[zurückholen]], [[Aufgabe]]
+, [[leisten]], [[verzweifeln]], [[beschließen]], [[Aufgaben]], [[schaffen]], [[zurückholen]], [[Aufgabe]], [[bewerben]]

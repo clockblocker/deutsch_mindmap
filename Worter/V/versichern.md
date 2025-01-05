@@ -1,1 +1,1 @@
-, [[behaupten]], [[Krankenkasse]], [[Sozialversicherung]]
+, [[behaupten]], [[Krankenkasse]], [[Sozialversicherung]], [[Versicherungspflicht]]

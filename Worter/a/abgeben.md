@@ -1,1 +1,1 @@
-[[Übernehmen]][[holen]], [[Trinken]], [[haben]], [[loswerden]], [[kriegen]], [[gehören]], [[nehm]], [[abbekommen]], [[erhalten]], [[zurückholen]], [[besitzen]], [[Stimmabgabe]]
+[[Übernehmen]][[holen]], [[Trinken]], [[haben]], [[loswerden]], [[kriegen]], [[gehören]], [[nehm]], [[abbekommen]], [[erhalten]], [[zurückholen]], [[besitzen]], [[Stimmabgabe]], [[Sozialabgaben]]

@@ -1,1 +1,1 @@
-, [[rechtzeitig]]
+, [[rechtzeitig]], [[Kündigungsfrist]]

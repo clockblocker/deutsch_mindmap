@@ -1,1 +1,1 @@
-, [[Gebiet]]
+, [[Gebiet]], [[Fürstentum]]

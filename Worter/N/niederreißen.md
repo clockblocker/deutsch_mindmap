@@ -1,1 +1,1 @@
-, [[abreißen]]
+, [[abreißen]], [[errichteten]]

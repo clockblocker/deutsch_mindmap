@@ -1,1 +1,1 @@
-[[spüren]], [[bemerken]], [[erkennen]], [[entdeckten]], [[sehen]], [[witterten]], [[merken]], [[blicken]], [[beobachten]], [[auffallen]], [[aufsehen]], [[übersehen]], [[erinnern]]
+[[spüren]], [[bemerken]], [[erkennen]], [[entdeckten]], [[sehen]], [[witterten]], [[merken]], [[blicken]], [[beobachten]], [[auffallen]], [[aufsehen]], [[übersehen]], [[erinnern]], [[beachten]]

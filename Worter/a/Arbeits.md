@@ -1,1 +1,1 @@
-, [[Arbeitsgericht]]
+, [[Arbeitsgericht]], [[Arbeitsverhältnis]]

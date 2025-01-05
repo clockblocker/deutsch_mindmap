@@ -15,7 +15,7 @@ Synonyme:
 
 Beispiele:
 
-- Ich [[stelle]] den Wecker [[ein]].
+- Ich [[Stelle]] den Wecker [[ein]].
 - Du [[stellst]] die Lautstärke [[ein]].
 - Er [[stellt]] die Maschine [[ein]].
 - Es [[stellt]] sich [[ein]] nach einiger Zeit.

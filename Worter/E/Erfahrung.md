@@ -9,6 +9,12 @@ die [[Erfahrungen]]
 
 Jannis kenne das [[Geschäft]] ja besser als er, ein Mann mit seiner [[Erfahrung]] wisse ja, wie das ist. Mit etwas mehr Geld könne man neue Software kaufen und sich einen besseren Programmierer leisten. 
 
+277. Eine Frau, die ein zweijähriges Kind hat, [[bewirbt]] sich in Deutschland um eine [[Stelle]]. Was ist ein Beispiel für [[Diskriminierung]]? Sie bekommt die Stelle nur deshalb nicht, weil sie … (95%)
+	- [x] Mutter ist.
+	- [ ] kein Englisch spricht.
+	- [ ] zu [[hohe]] [[Gehaltsvorstellungen]] hat.
+	- [ ] keine [[Erfahrungen]] in diesem Beruf hat.
+
 ---
 Synonyme: 
 [[Kenntnis]], [[Wissen]], [[Kompetenz]], [[Expertise]], [[Vertrautheit]]

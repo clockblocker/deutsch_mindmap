@@ -1,1 +1,1 @@
-[[arrangieren]], [[einbauen]], [[abreißen]], [[hängen]]
+[[arrangieren]], [[einbauen]], [[abreißen]], [[hängen]], [[errichteten]]

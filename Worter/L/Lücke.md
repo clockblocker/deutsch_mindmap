@@ -1,1 +1,1 @@
-, [[Abstand]], [[loch]]
+, [[Abstand]], [[loch]], [[Stelle]]

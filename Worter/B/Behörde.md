@@ -1,4 +1,3 @@
-[[Elterngeldstelle]]
 🔴 die [[Behörde]], [bəˈhœʁdə]
 die [[Behörden]]
 
@@ -8,6 +7,12 @@ die [[Behörden]]
 	- [ ] in kleinen Familienunternehmen beschäftigt.
 	- [ ] [[ehrenamtlich]] für ein Bundesland tätig.
 	- [ ] [[selbständig]] mit einer eigenen Firma tätig.
+
+284. Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)
+	- [ ] Ich kann nichts tun.
+	- [ ] Ich muss mir diese [[Behandlung]] gefallen lassen.
+	- [ ] Ich [[drohe]] der Person.
+	- [x] Ich kann mich beim [[Behördenleiter]] / bei der Behördenleiterin [[beschweren]].
 
 ---
 = [[Verwaltung]], [[Amt]], [[Dienststelle]]

@@ -1,1 +1,1 @@
-, [[Feiertage]]
+, [[Feiertag]]

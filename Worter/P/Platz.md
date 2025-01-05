@@ -9,7 +9,7 @@ Beispiele:
 
 ---
 Synonyme:
-- [[Ort]], [[stelle]], [[Raum]]
+- [[Ort]], [[Stelle]], [[Raum]]
 
 ---
 **Übersetzung**: place, square, space

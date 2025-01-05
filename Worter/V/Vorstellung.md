@@ -28,4 +28,4 @@ Einzigartige mögliche Formen:
 
 ---
 , [[glaub]], [[Aussicht]], [[Gedanke]]
-, [[eindruck]], [[auftritt]], [[Begriff]]
+, [[eindruck]], [[auftritt]], [[Begriff]], [[Gehaltsvorstellungen]]

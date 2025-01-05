@@ -1,36 +1,35 @@
-📝 [[bewerben]] sich für Akk, [bəˈveːɐ̯bən]
-[[bewarb]]
-haben [[beworben]]
+🤝 [[bewerben]], [bəˈvɛʁbn̩] | [[bewarb]], haben [[beworben]]
 
 ---
 Mama! Ich [[bewerbe]] mich [[für]] einen Reporter-Job bei  Kanal 9
 
 „[[Bewirb]] [[dich]] [[um]] einen Studienplatz in Kanada!“, rät ihr Bruder. 
 
----
-Synonyme: [[kandidieren]], [[sich vorstellen]], [[sich präsentieren]], [[sich engagieren]], [[teilnehmen]]
-Antonyme: [[ablehnen 1]], [[zurückweisen]], [[ignorieren]], [[ausschlagen]]
+277. Eine Frau, die ein zweijähriges Kind hat, [[bewirbt]] sich in Deutschland um eine [[Stelle]]. Was ist ein Beispiel für [[Diskriminierung]]? Sie bekommt die Stelle nur deshalb nicht, weil sie … (95%)
+	- [x] Mutter ist.
 
 ---
-Übersetzung: to apply (for), to submit an application
+= [[kandidieren]], [[sich beantragen]], [[sich melden]]
+≈ [[sich interessieren]], [[sich vorstellen]], [[ein Interesse zeigen]]
+≠ [[absagen]], [[aufgeben]], [[zurückziehen]]
 
 ---
-Morpheme: [[be]][[werb]][[en]]
- #Verb #Trennbar
+to apply, to seek (a position)
 
 ---
+[[be]]|[[werb]]|[[en]]
 
+---
+ich: [[bewerbe]], [[bewarb]], –, [[bewerbe]], [[bewerbe]]
+du: [[bewirbst]], [[bewarst]], [[bewerbe]] | [[bewirb]], [[bewirbest]], [[bewarebst]]
+er/sie/es: [[bewirbt]], [[bewarb]], –, [[bewerbe]], [[bewerbe]]
+wir: [[bewerben]], [[bewarben]], [[bewerben wir|bewerben]], [[bewerben]], [[bewarben]]
+ihr: [[bewerbt]], [[bewarbt]], [[bewerbt]], [[bewerbet]], [[bewarbet]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[bewerbe mich]] | [[bewarb mich]] | - | [[bewerbe mich]] | [[bewürbe mich]] |
-| Du | [[bewirrbst dich]] | [[bewarbst dich]] | [[bewirb dich]] | [[bewerbest dich]] | [[bewürbest dich]] |
-| Er/sie/es | [[bewirbt sich]] | [[bewarb sich]] | - | [[bewerbe sich]] | [[bewürbe sich]] |
-| Wir | [[bewerben uns]] | [[bewarben uns]] | - | [[bewerben uns]] | [[bewürben uns]] |
-| Ihr | [[bewirbt euch]] | [[bewurbt euch]] | [[bewirbt euch]] | [[bewerbet euch]] | [[bewürbet euch]] |
-| Sie | [[bewerben sich]] | [[bewarben sich]] | [[bewerben Sie sich]] | [[bewerben sich]] | [[bewürben sich]] |
+PI: [[bewerbend]], PII: [[beworben]], Zu+inf: [[zu bewerben]]
 
-Partizip I: [[bewerbend]], Partizip II: [[beworben]]
+---
+[[bewerben]] - [[be]] = [[werben]] / to apply, to seek (a position)
 
-[[bewerben]] - [[be]] = [[werben]]
-''', [[Bewerbung]], [[ablehnen]]
+---
+[[Bewerber]], [[Bewerberin]], [[Bewerbung]], [[Bewerbungsgespräch]], [[Stellenbewerbung]], [[Bewerbung]], [[ablehnen]]

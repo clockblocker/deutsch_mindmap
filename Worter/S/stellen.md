@@ -27,7 +27,7 @@ ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 
 **Beispiele:**
 
-- Ich [[stelle]] den Stuhl in die Ecke.
+- Ich [[Stelle]] den Stuhl in die Ecke.
 - Du [[stellst]] das Glas auf den Tisch.
 - Er [[stellt]] die Frage.
 - Es [[stellt]] das Buch ins Regal.
@@ -61,11 +61,11 @@ to place, to put, to set
 
 **Imperativ:**
 
-- Ich [[stelle]] es hin.
+- Ich [[Stelle]] es hin.
 - Du [[stell|stelle]] es hin.
-- Er [[stelle]] es hin.
+- Er [[Stelle]] es hin.
 - Es [[stellt]] es hin.
-- Sie [[stelle]] es hin.
+- Sie [[Stelle]] es hin.
 - Wir [[stellen]] es hin.
 - Ihr [[stellt]] es hin.
 - Sie [[stellen]] es hin.

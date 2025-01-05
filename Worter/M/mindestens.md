@@ -25,3 +25,4 @@ at least, minimum
 [[mindest]], [[mindestens]]
 
 , [[wenigstens]], [[zumindest]], [[neidisch]]
+, [[Mindestalter]]

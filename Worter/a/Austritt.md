@@ -1,1 +1,1 @@
-, [[Düse]], [[Beitritt]]
+, [[Düse]], [[Beitritt]], [[Vereinsbeitrag]]

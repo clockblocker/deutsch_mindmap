@@ -31,4 +31,4 @@ Einzigartige mögliche Formen:
 [[vereint]], [[vereinte]], [[vereintes]], [[vereinten]], [[vereintem]], [[vereinter]]
 [[vereinter]], [[vereinterer]], [[vereintere]], [[vereinteres]], [[vereinteren]], [[vereinterem]], [[vereinterer]], [[vereinteren]]
 [[vereintesten]], [[vereintester]], [[vereinteste]], [[vereintstes]], [[vereintesten]], [[vereintstem]], [[vereintester]], [[vereintesten]]
-''', [[auseinander]], [[entzwei]], [[Deutschland]]
+''', [[auseinander]], [[entzwei]], [[Deutschland]], [[Einheit]]

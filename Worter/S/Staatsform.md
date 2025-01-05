@@ -1,1 +1,1 @@
-, [[Grundgesetz]]
+, [[Grundgesetz]], [[Fürstentum]]

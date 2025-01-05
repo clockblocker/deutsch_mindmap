@@ -33,3 +33,4 @@ Zu+infinifive: [[anzulegen]]
 
 
 , [[einhängen]], [[landen]]
+, [[errichteten]]

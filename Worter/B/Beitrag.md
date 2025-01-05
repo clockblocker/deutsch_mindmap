@@ -1,1 +1,1 @@
-, [[Steuer]], [[Kirchensteuer]]
+, [[Steuer]], [[Kirchensteuer]], [[Sozialabgaben]], [[Spendengeldern]], [[Vereinsbeitrag]], [[Kirchensteuern]]

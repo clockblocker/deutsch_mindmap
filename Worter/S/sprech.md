@@ -1,1 +1,1 @@
-, [[sprechen]], [[ansprechen]], [[Ansprache 1]], [[versprechen]]
+, [[sprechen]], [[ansprechen]], [[Ansprache 1]], [[versprechen]], [[Ansprechpartner]]

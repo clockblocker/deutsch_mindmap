@@ -1,1 +1,1 @@
-, [[Kindererziehung]], [[Erzie­hung]], [[Erziehung]]
+, [[Kindererziehung]], [[Erzie­hung]], [[Erziehung]], [[Behandlung]]

@@ -4,6 +4,10 @@ nicht [[niedrig]]
 ---
 Das bisher [[höchste]] Ergebnis erzielte ein Gemälde von Claude Monet mit einem Preis von 36,5 Millionen Pfund
 
+277. Eine Frau, die ein zweijähriges Kind hat, [[bewirbt]] sich in Deutschland um eine [[Stelle]]. Was ist ein Beispiel für [[Diskriminierung]]? Sie bekommt die Stelle nur deshalb nicht, weil sie … (95%)
+	- [x] Mutter ist.
+	- [ ] zu [[hohe]] [[Gehaltsvorstellungen]] hat.
+
 
 ---
 Synonyme: [[erhaben]], [[groß]], [[erhöht]], [[steil]], [[ragend]]

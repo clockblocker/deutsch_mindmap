@@ -8,6 +8,9 @@ die [[Jugendämter]]
 	- [x] [[Jugendamt]].
 	- [ ] [[Gesundheitsamt]].
 
+290. Was darf das [[Jugendamt]] in Deutschland? (95%)
+	- [ ] Es [[entscheidet]], welche Schule das Kind besucht.
+	- [x] Es kann ein Kind, das [[geschlagen]] wird oder [[hungern]] muss, aus der Familie nehmen.
 ---
 = [[Verwaltungseinrichtung]], [[Behörde für Jugendangelegenheiten]]
 ≈ [[Sozialamt]], [[Jugendhilfe]], [[Jugendverwaltung]]
