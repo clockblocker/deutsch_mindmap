@@ -9,4 +9,4 @@ im August
 im September
 im October
 im November
-im Dezember
+im Dezember, [[Frühjahr]]

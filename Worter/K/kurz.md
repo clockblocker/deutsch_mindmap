@@ -51,4 +51,4 @@ Tags:
 #Adjective
 #Comparative | #Superlative
 
----[[speziellen]], [[hoch]], [[endlos]], [[Kurzem]], [[Ausführlich]], [[Kürzung]]
+---[[speziellen]], [[hoch]], [[endlos]], [[Kurzem]], [[Ausführlich]], [[Kürzung]], [[Abkürzung]]

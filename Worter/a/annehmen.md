@@ -3,6 +3,10 @@
 ---
 Da musste Laura nicht lange [[überlegen]]. „Ich möchte dein Angebot [[annehmen]]“, antwortete sie, „denn wenn ich warte, bis ich wieder genug Geld habe, muss auch ich ins Altersheim. Und wie sagt man so schön? Besser den [[Spatz]] in der Hand als die [[Taube]] auf dem [[Dach]].“
 
+
+5. [[Wahlen]] in Deutschland sind frei. Was bedeutet das? (96%)
+	- [ ] Man darf Geld [[annehmen]], wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin [[wählt]].
+	- [x] Der [[Wähler]] darf bei der [[Wahl]] weder [[beeinflusst]] noch zu einer bestimmten [[Stimmabgabe]] [[gezwungen]] werden und keine [[Nachteile]] durch die Wahl haben.
 ---
 Synonyme: [[akzeptieren]], [[akzeptieren]], [[aufnehmen]], [[übernehmen]], [[glauben]]
 Antonyme: [[ablehnen]], [[verweigern]], [[zurückweisen]]

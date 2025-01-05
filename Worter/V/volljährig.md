@@ -4,6 +4,8 @@
 267. Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun? (97%)
 	- [x] Sie müssen die [[Entscheidung]] der [[volljährigen]] Tochter [[respektieren]].
 
+246. Ab welchem Alter ist man in Deutschland [[volljährig]]? (97%)
+	- [x] 18
 ---
 = [[erwachsen]], [[mündig]], [[reif]]
 ≈ [[rechtsfähig]], [[geschäftsfähig]], [[selbstständig]]

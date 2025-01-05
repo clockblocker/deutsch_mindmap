@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ausbildung]], [[Ausbildungen]]
 
 ---
-#Substantiv #Neutral, [[Gesellenprüfung]]
+#Substantiv #Neutral, [[Gesellenprüfung]], [[Erzie­hung]]

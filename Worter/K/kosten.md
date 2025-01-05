@@ -27,4 +27,4 @@ Morphems of only infinitive:
 
 ---
 Tags:
-#Verb, [[genießen]], [[Nebenkostenabrechnung]]
+#Verb, [[genießen]], [[Nebenkostenabrechnung]], [[bezahlen]]

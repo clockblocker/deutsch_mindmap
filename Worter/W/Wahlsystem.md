@@ -1,1 +1,1 @@
-, [[Zweitstimme]], [[Erststimme]]
+, [[Zweitstimme]], [[Erststimme]], [[Wahlpflicht]]

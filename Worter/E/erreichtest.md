@@ -1,1 +1,1 @@
-, [[erreichten]]
+, [[erreichten]], [[erreichen]]

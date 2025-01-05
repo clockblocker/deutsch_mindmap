@@ -30,3 +30,4 @@ Morpheme: [[be]][[deut]][[en]]
 
 Partizip I: [[bedeutend]], Partizip II: [[bedeutet]]
 [[bedeuten]] - [[be]] = [[deuten]]
+, [[gelten]]

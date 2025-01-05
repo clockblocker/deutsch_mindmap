@@ -23,4 +23,4 @@ Morphems:
 [[Huhn]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[Gans]]

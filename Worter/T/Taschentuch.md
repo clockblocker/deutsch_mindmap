@@ -11,4 +11,4 @@ Synonyme:
 **Übersetzung**: tissue, handkerchief
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[Tüchlein]]

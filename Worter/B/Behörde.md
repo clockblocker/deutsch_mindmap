@@ -27,4 +27,4 @@ G: der [[Behörde]], der [[Behörden]]
 D: der [[Behörde]], den [[Behörden]]  
 
 ---
-[[behördlich]], [[verwalten]], [[amtlich]], [[bürokratisch]]
+[[behördlich]], [[verwalten]], [[amtlich]], [[bürokratisch]], [[Gesundheitsamt]]

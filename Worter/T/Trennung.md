@@ -1,1 +1,1 @@
-, [[Heiratsantrag]], [[Bezug]]
+, [[Heiratsantrag]], [[Bezug]], [[Beitritt]], [[Wiedervereinigung]]

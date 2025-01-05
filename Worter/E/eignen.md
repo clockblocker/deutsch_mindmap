@@ -28,4 +28,4 @@ Partizip II: [[geeignet]]
 Zu+infinitive: [[zu eignen]]
 
 ---
-[[Eignung]], [[Geeignetheit]], [[geeignet]], [[ungeeignet]], [[Eignungstest]], [[Eigenschaft]]
+[[Eignung]], [[Geeignetheit]], [[geeignet]], [[ungeeignet]], [[Eignungstest]], [[Eigenschaft]], [[besitzen]]

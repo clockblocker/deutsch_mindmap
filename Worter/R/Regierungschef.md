@@ -1,1 +1,1 @@
-, [[Bundeskanzler]], [[Regierung]]
+, [[Bundeskanzler]], [[Regierung]], [[regierend]]

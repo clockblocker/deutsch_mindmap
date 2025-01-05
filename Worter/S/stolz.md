@@ -5,6 +5,8 @@ nicht [[bescheiden]], [[demütig]]
 *Es ist [[lächerlich]]*  
 *sagt der [[Stolz]]
 
+"Seht einmal die [[stolze]] Prinzessin, wie sie [[geputzt]] ist!" riefen sie, lachten und [[führten]] es in die Küche. 
+
 ---
 Synonyme: 
 [[selbstbewusst]], [[hochmütig]], [[arrogant]], [[eingebildet]], [[eitel]]

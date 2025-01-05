@@ -1,1 +1,1 @@
-🔵 der [[Vorteil]]
+🔵 der [[Vorteil]], [[Nachteile]]

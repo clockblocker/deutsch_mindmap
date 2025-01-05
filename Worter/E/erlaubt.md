@@ -7,6 +7,10 @@
 	- [ ] gar nicht, [[Holocaustleugnung]] ist [[erlaubt]]
 	- [x] mit [[Freiheitsstrafe]] bis zu fünf Jahren oder mit [[Geldstrafe]]
 
+272. Welche [[Lebensform]] ist in Deutschland nicht [[erlaubt]]? (97%)
+	- [x] Ein Mann ist mit zwei Frauen zur selben Zeit [[verheiratet]].
+
+
 ---
 = [[gestattet]], [[genehmigt]], [[bewilligt]]
 ≈ [[zulässig]], [[möglich]], [[freigegeben]]
@@ -28,4 +32,4 @@ N: [[erlaubtes]], [[erlaubteres]], [[erlaubtestes]]
 P: [[erlaubten]], [[erlaubteren]], [[erlaubtesten]]  
 
 ---
-[[erlauben]], [[Erlaubnis]], [[unerlaubt]], [[Verbot]], [[zulässig]], [[gesetzlich]]
+[[erlauben]], [[Erlaubnis]], [[unerlaubt]], [[Verbot]], [[zulässig]], [[gesetzlich]], [[alleinerziehend]]

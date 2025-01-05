@@ -1,1 +1,1 @@
-, [[Schlimmer]]
+, [[Schlimmer]], [[schlimm]]

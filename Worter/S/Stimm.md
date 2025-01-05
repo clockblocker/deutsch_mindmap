@@ -1,1 +1,1 @@
-, [[Stimme]]
+, [[Stimme]], [[Stimmabgabe]]

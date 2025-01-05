@@ -53,4 +53,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Backens]], [[Backen]], [[Backe]], [[Backen]], [[Backen]], [[Backen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Herd]]

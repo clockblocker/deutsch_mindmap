@@ -1,1 +1,1 @@
-, [[genießbar]]
+, [[genießbar]], [[garstig]]

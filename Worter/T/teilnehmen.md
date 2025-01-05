@@ -1,1 +1,1 @@
-, [[bewerben]], [[beteiligen]], [[mitmachen]]
+, [[bewerben]], [[beteiligen]], [[mitmachen]], [[beitreten]]

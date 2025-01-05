@@ -36,4 +36,4 @@ Morpheme: [[zähl]][[en]]
 
 Partizip I: [[zählend]], Partizip II: [[gezählt]]
 
-, [[dazuzählen]]
+, [[dazuzählen]], [[gelten]]

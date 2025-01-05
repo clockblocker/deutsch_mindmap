@@ -1,1 +1,1 @@
-, [[beeindruckt]], [[sachlich]]
+, [[beeindruckt]], [[sachlich]], [[ersinnlich]]

@@ -4,7 +4,7 @@
 Weil ihre Ehre nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es [[reicht]]!
 
 ---
-[[erreichen]] - [[er]] = [[reichen]]
+[[erreichen]] - [[er]] = [[reichen]] / to reach, to achieve, to attain
 
 
 ---

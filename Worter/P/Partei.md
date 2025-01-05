@@ -24,4 +24,4 @@ G: der [[Partei]], der [[Parteien]]
 D: der [[Partei]], den [[Parteien]]  
 
 ---
-[[parteiisch]], [[parteilos]], [[Parteimitglied]], [[Parteiprogramm]], [[Parteitag]]
+[[parteiisch]], [[parteilos]], [[Parteimitglied]], [[Parteiprogramm]], [[Parteitag]], [[Regierungspartei]]

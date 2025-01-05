@@ -34,4 +34,4 @@ Einzigartige mögliche Formen:
 
 
 
-, [[ziemlich]], [[zurechtkommen]], [[rechtlich]], [[Anspruch]]
+, [[ziemlich]], [[zurechtkommen]], [[rechtlich]], [[Anspruch]], [[Grundrecht]], [[Faustrecht]]

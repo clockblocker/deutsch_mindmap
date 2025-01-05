@@ -1,1 +1,1 @@
-[[Waschen]], [[putzen]]
+[[Waschen]], [[putzen]], [[puttel]]

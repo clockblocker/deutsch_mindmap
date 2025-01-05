@@ -1,1 +1,1 @@
-, [[sagen]], [[kontern]], [[erzählen]], [[Aufruf]]
+, [[sagen]], [[kontern]], [[erzählen]], [[Aufruf]], [[Schweigepflicht]]

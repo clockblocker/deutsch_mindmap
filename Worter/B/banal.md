@@ -1,1 +1,1 @@
-, [[interessant]], [[tief]], [[erstaunlich]], [[anspruchsvoll]]
+, [[interessant]], [[tief]], [[erstaunlich]], [[anspruchsvoll]], [[ersinnlich]]

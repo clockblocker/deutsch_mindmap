@@ -9,6 +9,8 @@ So, ich gehe jetzt ins Bett! (Gähnt und streckt sich) Ja, das hab ich mir heu
 
 Am Ende sei das ja nur ein [[Gewinn]] für die Firma und Jannis könne [[endlich]] die [[Anerkennung]] bekommen, die er [[verdiene]]. 
 
+Da [[angehen|ging]] eine [[schlimme]] Zeit für das arme [[Stiefkind]] an. 
+"Soll die dumme [[Gans]] bei uns in der [[Stube]] sitzen!" sprachen sie, "wer Brot essen will, muß [[verdienen]]: hinaus mit der [[Küchenmagd]]!" 
 
 ---
 Synonyme: [[erwerben]], [[erhalten]], [[bekommen]], [[kriegen]], [[erlangen]]

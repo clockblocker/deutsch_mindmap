@@ -1,22 +1,26 @@
-🔵 der [[Arbeitsplatz]]
+🏢 der [[Arbeitsplatz]], [ˈaʁbaɪ̯tsˌplats]
 die [[Arbeitsplätze]]
 
-Beispiele:
-
-- Mein [[Arbeitsplatz]] ist sehr modern ausgestattet.
-- Sie hat einen neuen [[Arbeitsplatz]] gefunden.
-- Die [[Arbeitsplätze]] in dieser Firma sind begehrt.
+---
+250. In Deutschland hat man die besten Chancen auf einen gut [[bezahlten]] [[Arbeitsplatz]], wenn man … (96%)
+	- [x] gut [[ausgebildet]] ist.
 
 ---
-Synonyme:
-- [[stelle]], [[Job]], [[Position]]
+= [[Arbeitsort]], [[Arbeitsstätte]]
+≈ [[Büro]], [[Werkstatt]], [[Arbeitsbereich]], [[Arbeitsumgebung]]
+≠ [[Zuhause]], [[Freizeit]], [[Ruhestand]]
 
 ---
-**Übersetzung**: workplace, job
+workplace, workstation
 
 ---
-Morphems:
-[[Arbeits]][[Platz]]
+[[Arbeit]]|[[s]]|[[platz]]
 
 ---
-#Substantiv #Maskulin, [[Schaffensplatz]]
+N: der [[Arbeitsplatz]], die [[Arbeitsplätze]]  
+A: den [[Arbeitsplatz]], die [[Arbeitsplätze]]  
+G: des [[Arbeitsplatzes]], der [[Arbeitsplätze]]  
+D: dem [[Arbeitsplatz]], den [[Arbeitsplätzen]]  
+
+---
+[[arbeiten]], [[Arbeiterin]], [[Arbeiter]], [[Arbeitslosigkeit]], [[Arbeitszeit]]

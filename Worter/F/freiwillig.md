@@ -1,1 +1,1 @@
-, [[dien]], [[ehrenamtlich]]
+, [[dien]], [[ehrenamtlich]], [[gezwungen]], [[zwingen]]

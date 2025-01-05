@@ -1,1 +1,1 @@
-, [[Abstand]], [[stehen]]
+, [[Abstand]], [[stehen]], [[Arbeiteraufstand]], [[Aufstand]]

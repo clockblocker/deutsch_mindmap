@@ -1,1 +1,1 @@
-, [[Elternzeit]], [[elterlich]]
+, [[Elternzeit]], [[elterlich]], [[Kindererziehung]], [[alleinerziehend]], [[Erziehungsproblem]]

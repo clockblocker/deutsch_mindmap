@@ -1,1 +1,1 @@
-, [[führen]]
+, [[führen]], [[regierend]]

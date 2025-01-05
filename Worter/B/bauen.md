@@ -5,6 +5,11 @@ haben [[gebaut]]
 ---
 _Aang hat aus Appas Schwanz eine Rutsche [[gebaut]], von der nun die kleinen Kinder rutschen._
 
+46. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört dazu? (96%)
+	- [x] Er [[baut]] [[Straßen]] und [[Schulen]].
+	- [ ] Er verkauft Lebensmittel und Kleidung.
+	- [ ] Er [[versorgt]] alle [[Einwohner]] und [[Einwohnerinnen]] [[kostenlos ]]mit Zeitungen.
+
 ---
 [[aufbauen]] - [[auf]] = [[bauen]] / собрать, to build up, to construct
 

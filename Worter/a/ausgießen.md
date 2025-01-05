@@ -1,1 +1,1 @@
-[[Quirlen]], [[Trinken]], [[einfüllen]], [[gießen]]
+[[Quirlen]], [[Trinken]], [[einfüllen]], [[gießen]], [[schütten]]

@@ -11,4 +11,4 @@ Beispiele:
 ---
 
 Tags:
-#Konjunktion, [[sodass]], [[Willst du damit sagen, dass]]
+#Konjunktion, [[sodass]], [[Willst du damit sagen, dass]], [[daß]]

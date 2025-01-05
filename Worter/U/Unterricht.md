@@ -22,4 +22,4 @@ Alle Formen:
 | Nominative  | der Unterricht        | die Unterrichte       |
 | Accusative  | den Unterricht        | die Unterrichte       |
 | Dative      | dem Unterricht        | den Unterrichten      |
-| Genitive    | des Unterrichts       | der Unterrichte       |
+| Genitive    | des Unterrichts       | der Unterrichte       |, [[Erzie­hung]]

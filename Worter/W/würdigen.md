@@ -1,1 +1,1 @@
-, [[achten]], [[beschimpfen]], [[respektieren]]
+, [[achten]], [[beschimpfen]], [[respektieren]], [[verspotten]]

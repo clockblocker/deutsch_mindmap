@@ -1,1 +1,1 @@
-, [[nehmen]]
+, [[nehmen]], [[auslesen]]

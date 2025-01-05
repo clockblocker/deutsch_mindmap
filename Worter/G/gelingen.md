@@ -30,4 +30,4 @@ Zu+infinifive: [[zu gelingen]]
 ---
 [[Gelingen]], [[Erfolg]], [[Glück]], [[Leistung]]
 
-, [[erreichten]], [[gutgehen]]
+, [[erreichten]], [[gutgehen]], [[erreichen]]

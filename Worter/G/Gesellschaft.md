@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gesellschaft]], [[Gesellschaften]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaften]]
 
 ---
-#Substantiv #Feminin, [[Handelsgesellschaft]]
+#Substantiv #Feminin, [[Handelsgesellschaft]], [[Bevölkerung]]

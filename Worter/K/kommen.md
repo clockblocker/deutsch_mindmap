@@ -36,4 +36,4 @@ Morpheme: [[komm]][[en]]
 Partizip I: [[kommend]], Partizip II: [[gekommen]]
 
 [[weggehen]], [[ausreißen]], [[dorthin]], [[näherkommen]]
-, [[vorbeikommen]], [[zurechtkommen]], [[herankam]], [[zukommen]]
+, [[vorbeikommen]], [[zurechtkommen]], [[herankam]], [[zukommen]], [[Abkommen]]

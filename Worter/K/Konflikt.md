@@ -1,1 +1,1 @@
-, [[krieg]]
+, [[krieg]], [[Abkommen]]

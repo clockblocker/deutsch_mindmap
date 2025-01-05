@@ -1,1 +1,1 @@
-, [[Schule]], [[Schulabschluss]]
+, [[Schule]], [[Schulabschluss]], [[Schulpflicht]], [[Schulamt]]

@@ -24,3 +24,4 @@ Einzigartige mögliche Formen:
 
 ---
 #Substantiv #Feminin #Nomen
+, [[Wahlpflicht]], [[Schulpflicht]], [[Schweigepflicht]], [[Religionspflicht]], [[Grundrecht]]

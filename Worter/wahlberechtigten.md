@@ -1,0 +1,1 @@
+🗳️ [[wahlberechtigt]], [ˈvaːlbəˈʁɛçtɪçtn̩]

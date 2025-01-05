@@ -1,11 +1,12 @@
-
-
 🔀 [[anstellen]] | [[stellte an|stellte an]], haben [[angestellt]]
 
 ---
 Die Katze überlegte noch, wie sie das [[anstellen]] sollte
 
 Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. [[Egal]], wie man sich [[anstellt]], es [[klappt]] nicht! Da muss der [[Wurm]] [[drin]] sein …
+
+97. Was [[bezahlt]] man in Deutschland automatisch, wenn man [[fest]] [[angestellt]] ist? (96%)
+	- [x] [[Sozialversicherung]]
 
 ---
 Synonyme: [[beschäftigen]], [[einstellen]], [[engagieren]], [[anheuern]], [[aufnehmen]]

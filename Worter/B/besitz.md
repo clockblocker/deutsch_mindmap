@@ -1,0 +1,1 @@
+, [[Waffenbesitz]], [[besitzen]]

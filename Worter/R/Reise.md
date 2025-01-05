@@ -1,5 +1,5 @@
 🔴 die [[Reise]]
-die [[Reisen]]
+die [[reisen]]
 
 Beispiele:
 
@@ -16,4 +16,4 @@ Morphems:
 [[Reise]]
 
 ---
-#Substantiv #Feminin, [[11 08]]
+#Substantiv #Feminin, [[11 08]], [[einreisen]]

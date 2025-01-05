@@ -59,4 +59,4 @@ to arrive
 ---
 
 **Morphems of only infinitive:**
-- [[an]][[kommen]][[weggehen]], [[verschwinden]], [[erreichten]], [[zugehen]]
+- [[an]][[kommen]][[weggehen]], [[verschwinden]], [[erreichten]], [[zugehen]], [[einreisen]], [[reisen]]

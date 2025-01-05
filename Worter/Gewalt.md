@@ -23,4 +23,4 @@ Genitive: der [[Gewalt]], der [[Gewalten]]
 Dative: der [[Gewalt]], den [[Gewalten]]  
 
 ---
-[[gewaltig]], [[gewaltsam]], [[Staatsgewalt]], [[Gewaltenteilung]], [[Gewaltbereitschaft]], [[Gewaltopfer]], [[Gewaltprävention]], [[besonders]]
+[[gewaltig]], [[gewaltsam]], [[Staatsgewalt]], [[Gewaltenteilung]], [[Gewaltbereitschaft]], [[Gewaltopfer]], [[Gewaltprävention]], [[besonders]], [[Faustrecht]]

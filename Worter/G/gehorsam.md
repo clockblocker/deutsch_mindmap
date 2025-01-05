@@ -24,4 +24,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[gehorsam]], [[gehorsamer]], [[gehorsame]], [[gehorsames]], [[gehorsamen]], [[gehorsamem]], [[gehorsamer]], [[gehorsamen]]
-[[gehorsamster]], [[gehorsamer]], [[gehorsame]], [[gehorsamstes]], [[gehorsamen]], [[gehorsamsten]], [[gehorsamer]], [[gehorsamen]]
+[[gehorsamster]], [[gehorsamer]], [[gehorsame]], [[gehorsamstes]], [[gehorsamen]], [[gehorsamsten]], [[gehorsamer]], [[gehorsamen]], [[Aufstand]]

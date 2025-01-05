@@ -11,3 +11,4 @@ Beispiele:
 
 #Substantiv
 #Feminin
+, [[Gans]]

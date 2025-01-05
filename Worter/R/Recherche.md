@@ -1,1 +1,1 @@
-, [[Recherchen]]
+, [[Recherchen]], [[Rechercheergbenis]]

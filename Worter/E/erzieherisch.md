@@ -1,1 +1,1 @@
-, [[elterlich]]
+, [[elterlich]], [[Erzie­hung]], [[Erziehung]]

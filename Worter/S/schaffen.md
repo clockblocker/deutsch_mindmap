@@ -27,4 +27,4 @@ PI: [[schaffend]], PII: [[geschaffen]], Zu+inf: [[zu schaffen]]
 [[schaffen]] - to create, to manage / to accomplish
 
 ---
-[[Schaffung]], [[erschaffen]], [[Schöpfung]], [[Schaffenskraft]], [[Erschaffung]], [[Werk]]
+[[Schaffung]], [[erschaffen]], [[Schöpfung]], [[Schaffenskraft]], [[Erschaffung]], [[Werk]], [[erreichen]]

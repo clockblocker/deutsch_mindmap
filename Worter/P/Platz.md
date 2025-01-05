@@ -20,4 +20,4 @@ Morphems:
 [[Platz]]
 
 ---
-#Substantiv #Masculin, [[Sitz]]
+#Substantiv #Masculin, [[Sitz]], [[Arbeitsplatz]]

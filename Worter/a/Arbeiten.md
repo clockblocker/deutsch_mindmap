@@ -1,2 +1,2 @@
 🔴 die [[arbeit 1]]
-, [[lauben]], [[Arbeitsgericht]]
+, [[lauben]], [[Arbeitsgericht]], [[Arbeitsplatz]]

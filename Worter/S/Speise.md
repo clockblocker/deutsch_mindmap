@@ -18,4 +18,4 @@ Morphems:
 [[Speis]][[e]]
 
 ---
-#Substantiv #Feminin, [[fressen]]
+#Substantiv #Feminin, [[fressen]], [[Linsen]]

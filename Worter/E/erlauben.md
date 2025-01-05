@@ -31,3 +31,4 @@ PI: [[erlaubend]], PII: [[erlaubt]], Zu+inf: [[zu erlauben]]
 [[Erlaubnis]], [[Erlauber]], [[Erlauberin]], [[unerlaubt]], [[erlaubt]], [[Erlaubung]]
 
 [[stören]], [[verbieten]], [[lassen]], [[wehrten]], [[erlaubt]]
+, [[zwingen]]

@@ -1,1 +1,1 @@
-, [[heiraten]], [[antrauen]]
+, [[heiraten]], [[antrauen]], [[verheiraten]]

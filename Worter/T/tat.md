@@ -1,1 +1,1 @@
-[[tun]], [[Handlung]]
+[[tun]], [[Handlung]], [[antun]]

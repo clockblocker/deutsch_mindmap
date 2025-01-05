@@ -1,1 +1,1 @@
-, [[begleichen]]
+, [[begleichen]], [[bezahlen]]

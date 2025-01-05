@@ -1,1 +1,1 @@
-, [[Bundestagswahl]]
+, [[Bundestagswahl]], [[Wahl]], [[Wähler]]

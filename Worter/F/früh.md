@@ -37,4 +37,4 @@ Einzigartige mögliche Formen:
 [[früh]], [[früher]], [[frühe]], [[frühes]], [[frühen]], [[frühem]], [[früher]], [[frühen]]
 [[früheren]], [[früherer]], [[frühere]], [[früheres]], [[früheren]], [[früherem]], [[früherer]], [[früheren]]
 [[frühesten]], [[frühester]], [[frühesteʼs]], [[frühestes]], [[frühesten]], [[frühesteʼm]], [[frühester]], [[frühesten]]
-'''
+''', [[Frühjahr]]

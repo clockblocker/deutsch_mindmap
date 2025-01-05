@@ -1,1 +1,1 @@
-[[köstlich]], [[eklig]], [[widern]]
+[[köstlich]], [[eklig]], [[widern]], [[garstig]]

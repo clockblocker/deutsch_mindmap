@@ -1,1 +1,1 @@
-, [[aufstehen]], [[sagen]], [[Aufträgen]], [[aufhören]], [[da]], [[Aufgaben]], [[Aufruf]]
+, [[aufstehen]], [[sagen]], [[Aufträgen]], [[aufhören]], [[da]], [[Aufgaben]], [[Aufruf]], [[Arbeiteraufstand]], [[Aufstand]], [[Aufgabe]]

@@ -13,6 +13,8 @@ Aber ich glaube [[fest]] daran, Aang kann diese Welt retten.
 
 „Kanada, mein Lieblingsland!“, denkt Diana und stellt aber sofort etwas [[enttäuscht]] [[fest]]:  „Wenn er aus Kanada ist, bleibt er bestimmt nicht lange in Deutschland … Schade!“ 
 
+97. Was [[bezahlt]] man in Deutschland automatisch, wenn man [[fest]] [[angestellt]] ist? (96%)
+	- [x] [[Sozialversicherung]]
 
 
 ---

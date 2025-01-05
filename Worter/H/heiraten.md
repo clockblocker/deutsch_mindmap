@@ -9,6 +9,11 @@ Dann [[heiratet]] der Onkel die Mutter
 
 Liegt es wirklich am Essen oder an Adrians braunen Augen? Wer weiß … Auf jeden Fall hat es funktioniert: Emilie und Adrian [[heiraten]] nächstes Wochenende. Und ihr seid herzlich [[eingeladen]].
 
+265. Wohin muss man in Deutschland zuerst gehen, wenn man [[heiraten]] möchte? (96%)
+	- [ ] zum [[Einwohnermeldeamt]]
+	- [ ] zum [[Ordnungsamt]]
+	- [ ] zur [[Agentur]] für Arbeit
+	- [x] zum [[Standesamt]]
 
 ---
 Synonyme: [[vermählen]], [[ehelichen]], [[trauen]], [[verehelichen]], [[binden]]
@@ -35,4 +40,4 @@ Morpheme: [[heirat]][[en]]
 Partizip I: [[heiratend]], Partizip II: [[geheiratet]]
 
 [[heiraten]] - [[heirat]] = [[en]]
-, [[Braut]]
+, [[Braut]], [[verheiratet]], [[verheiraten]]

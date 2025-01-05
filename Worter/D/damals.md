@@ -18,3 +18,4 @@ Morpheme:
 ---
 #Adverb #Temporaladverb, [[bald]]🕰️ [[damals]]
 
+, [[daß]]

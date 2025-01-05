@@ -35,4 +35,4 @@ Morpheme: [[über]][[weis]][[en]]
 Partizip I: [[überweisend]], Partizip II: [[überwiesen]]
 
 [[überweisen]] - [[über]] = [[weisen]]
-'''
+''', [[bezahlen]]

@@ -1,1 +1,1 @@
-, [[dafür]], [[Erlaubnis]]
+, [[dafür]], [[Erlaubnis]], [[Beitritt]]

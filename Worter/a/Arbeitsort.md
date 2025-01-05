@@ -1,1 +1,1 @@
-, [[Schaffensplatz]]
+, [[Schaffensplatz]], [[Arbeitsplatz]]

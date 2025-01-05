@@ -31,3 +31,4 @@ PI: [[respektierend]], PII: [[respektiert]], Zu+inf: [[zurespektieren]]
 [[Respekt]], [[respektvoll]], [[Respektlosigkeit]], [[respektabel]], [[Respektsperson]]
 
 , [[hassen]], [[achten]], [[beleidigen]], [[bewundern]], [[beschimpfen]]
+, [[verspotten]]

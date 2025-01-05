@@ -1,1 +1,1 @@
-, [[Religion]]
+, [[Religion]], [[Religionspflicht]]

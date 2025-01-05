@@ -5,6 +5,8 @@ Oder denken Sie an die [[Gespräche]], die Sie jeden Tag mit Kollegen oder Freun
 
 Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]. 
 
+"Seht einmal die [[stolze]] Prinzessin, wie sie [[geputzt]] ist!" riefen sie, lachten und [[führten]] es in die Küche. 
+
 ---
 [[ausführen]] - [[aus]] = [[führen]]
 

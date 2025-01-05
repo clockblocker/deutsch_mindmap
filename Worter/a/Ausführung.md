@@ -1,1 +1,1 @@
-, [[Ausführlich]], [[ausführen]]
+, [[Ausführlich]], [[ausführen]], [[Abkürzung]]

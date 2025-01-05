@@ -1,1 +1,1 @@
-, [[bestrafen]], [[bestimmt]], [[bedanken]], [[betreffen]], [[behaupten]], [[haupten]], [[besonders]], [[bewundern]], [[behalten]], [[beschließen]], [[beschimpfen]], [[gründen]], [[Bezug]], [[Beschluss]], [[beschützen]], [[befinden]]
+, [[bestrafen]], [[bestimmt]], [[bedanken]], [[betreffen]], [[behaupten]], [[haupten]], [[besonders]], [[bewundern]], [[behalten]], [[beschließen]], [[beschimpfen]], [[gründen]], [[Bezug]], [[Beschluss]], [[beschützen]], [[befinden]], [[Bevölkerung]], [[bezahlen]], [[besitzen]], [[Begriff]], [[beeinflussen]]

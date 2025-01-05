@@ -6,6 +6,10 @@ nicht [[unverantwortlich]]
 	- [x] es eine [[Kirchensteuer]] gibt, die an die Einkommen- und [[Lohnsteuer]] [[geknüpft]] ist.
 	- [ ] die Kirche für die [[Steuererklärung]] [[verantwortlich]] ist.
 
+249. Wer ist in Deutschland [[hauptsächlich]] [[verantwortlich]] für die [[Kindererziehung]]? (97%)
+	- [ ] der Staat
+	- [x] die Eltern
+
 ---
 = [[zuständig]], [[schuldig]], [[haftbar]]
 ≈ [[kompetent]], [[rechenschaftspflichtig]], [[verpflichtet]], [[verantwortungsbewusst]]

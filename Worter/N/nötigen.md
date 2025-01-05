@@ -1,1 +1,1 @@
-[[nötig]], [[erpressen]]
+[[nötig]], [[erpressen]], [[zwingen]]

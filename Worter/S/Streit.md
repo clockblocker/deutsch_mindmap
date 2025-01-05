@@ -22,4 +22,4 @@ Morphems:
 
 ---
 #Substantiv #Maskulin 
-, [[schlichten]]
+, [[schlichten]], [[Abkommen]]

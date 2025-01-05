@@ -1,1 +1,1 @@
-, [[selbständig]], [[volljährig]]
+, [[selbständig]], [[volljährig]], [[Selbstjustiz]]

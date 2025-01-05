@@ -1,1 +1,1 @@
-, [[steif]], [[wendig]]
+, [[steif]], [[wendig]], [[Hölzern]]

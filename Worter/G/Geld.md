@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Geldes]], [[Gelde]], [[Gelder]], [[Geldern]]
 
 ---
-#Substantiv #Neutral, [[Geldstrafe]], [[Taschengeld]], [[Elterngeld]], [[Elterngeldstelle]]
+#Substantiv #Neutral, [[Geldstrafe]], [[Taschengeld]], [[Elterngeld]], [[Elterngeldstelle]], [[bezahlen]]

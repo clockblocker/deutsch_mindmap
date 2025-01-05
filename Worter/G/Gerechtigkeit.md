@@ -1,1 +1,1 @@
-, [[ungerecht]], [[ungerechtfertigen]]
+, [[ungerecht]], [[ungerechtfertigen]], [[Selbstjustiz]]

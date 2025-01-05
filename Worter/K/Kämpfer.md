@@ -1,1 +1,1 @@
-, [[Soldat]], [[Held]]
+, [[Soldat]], [[Held]], [[Faust]]

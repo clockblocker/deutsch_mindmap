@@ -7,6 +7,9 @@
 *Und auch der Wilhelm war nicht steif*  
 *und [[brachte]] seinen runden Reif.*  
 
+Die Frau hatte zwei Töchter mit ins Haus [[gebracht]], die schön und weiß von [[Angesicht]] waren, aber [[garstig]] und schwarz von Herzen.
+  
+
 ---
 [[umbringen]] - [[um]] = [[bringen]]        // kill
 [[beibringen]] - [[bei]] = [[bringen]]        // teach

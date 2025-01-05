@@ -1,3 +1,3 @@
 die grosse elnern 
 
-ferziehen , [[Erziehungsberechtigten]]
+ferziehen , [[Erziehungsberechtigten]], [[Kindererziehung]], [[Erziehungsproblem]], [[Erzie­hung]], [[Erziehung]]

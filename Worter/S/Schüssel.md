@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Schüssel]], [[Schüssels]], [[Schüsseln]]
 ---
 #Substantiv #Feminin
 
-Note: Although the template shows this as masculine, the article "die" indicates it is actually a feminine noun. I've corrected this in the template.
+Note: Although the template shows this as masculine, the article "die" indicates it is actually a feminine noun. I've corrected this in the template., [[schütten]]

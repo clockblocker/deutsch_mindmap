@@ -4,11 +4,20 @@ Einem [[reichen]] Manne, dem wurde seine Frau krank, und als sie fühlte, daß i
 
 Darauf tat sie die Augen zu und [[verschied]]. Das Mädchen ging jeden Tag hinaus zu dem [[Grabe]] der Mutter und weinte, und blieb [[fromm]] und gut. 
 
-Als der Wintexr kam, deckte der Schnee ein weißes [[Tüchlein]] auf das Grab, und als die Sonne im [[Frühjahr]] es wieder [[herabgezogen]] hatte, nahm sich der Mann eine andere Frau.
+Als der Winter kam, deckte der Schnee ein weißes [[Tüchlein]] auf das Grab, und als die Sonne im [[Frühjahr]] es wieder [[herabgezogen]] hatte, nahm sich der Mann eine andere Frau.
 
-Die Frau hatte zwei Töchter mit ins Haus gebracht, die schön und weiß von Angesicht waren, aber garstig und schwarz von Herzen.
+Die Frau hatte zwei Töchter mit ins Haus [[gebracht]], die schön und weiß von [[Angesicht]] waren, aber [[garstig]] und schwarz von Herzen.
 
-Da ging eine schlimme Zeit für das arme Stiefkind an. "Soll die dumme Gans bei uns in der Stube sitzen!" sprachen sie, "wer Brot essen will, muß verdienen: hinaus mit der Küchenmagd!" Sie nahmen ihm seine schönen Kleider weg, zogen ihm einen grauen, alten Kittel an und gaben ihm hölzerne Schuhe. "Seht einmal die stolze Prinzessin, wie sie geputzt ist!" riefen sie, lachten und führten es in die Küche. Da mußte es von Morgen bis Abend schwere Arbeit tun, früh vor Tag aufstehen, Wasser tragen, Feuer anmachen, kochen und waschen. Obendrein taten ihm die Schwestern alles ersinnliche Herzeleid an, verspotteten es und schütteten ihm die Erbsen und Linsen in die Asche, so daß es sitzen und sie wieder auslesen mußte. Abends, wenn es sich müde gearbeitet hatte, kam es in kein Bett, sondern mußte sich neben den Herd in die Asche legen. Und weil es darum immer staubig und schmutzig aussah, nannten sie es Aschenputtel.
+Da [[angehen|ging]] eine [[schlimme]] Zeit für das arme [[Stiefkind]] an. 
+"Soll die dumme [[Gans]] bei uns in der [[Stube]] sitzen!" sprachen sie, "wer Brot essen will, muß [[verdienen]]: hinaus mit der [[Küchenmagd]]!" 
+
+Sie nahmen ihm seine schönen Kleider weg, zogen ihm einen grauen, alten [[Kittel]] an und gaben ihm [[hölzerne]] Schuhe. 
+
+"Seht einmal die [[stolze]] Prinzessin, wie sie [[geputzt]] ist!" riefen sie, lachten und [[führten]] es in die Küche. Da mußte es von Morgen bis Abend schwere Arbeit tun, früh vor Tag aufstehen, Wasser tragen, Feuer anmachen, kochen und waschen. 
+
+[[Obendrein]] [[antun|taten]] ihm die Schwestern alles [[ersinnliche]] [[Herzeleid]] an, [[verspotteten]] es und [[schütteten]] ihm die [[Erbsen]] und [[Linsen]] in die [[Asche]], so [[daß]] es sitzen und sie wieder [[auslesen]] mußte.
+
+Abends, wenn es sich müde gearbeitet hatte, kam es in kein Bett, sondern mußte sich neben den [[Herd]] in die Asche legen. Und weil es darum immer [[staubig]] und [[schmutzig]] [[aussah]], [[nannten]] sie es Aschenputtel.
 
 Es trug sich zu, daß der Vater einmal in die Messe ziehen wollte, da fragte er die beiden Stieftöchter, was er ihnen mitbringen sollte. "Schöne Kleider," sagte die eine, "Perlen und Edelsteine," die zweite. "Aber du, Aschenputtel," sprach er, "was willst du haben?" - "Vater, das erste Reis, das Euch auf Eurem Heimweg an den Hut stößt, das brecht für mich ab!" Er kaufte nun für die beiden Stiefschwestern schöne Kleider, Perlen und Edelsteine, und auf dem Rückweg, als er durch einen grünen Busch ritt, streifte ihn ein Haselreis und stieß ihm den Hut ab. Da brach er das Reis ab und nahm es mit. Als er nach Haus kam, gab er den Stieftöchtern, was sie sich gewünscht hatten, und dem Aschenputtel gab er das Reis von dem Haselbusch. Aschenputtel dankte ihm, ging zu seiner Mutter Grab und pflanzte das Reis darauf, und weinte so sehr, daß die Tränen darauf niederfielen und es begossen. Es wuchs aber und ward ein schöner Baum. Aschenputtel ging alle Tage dreimal darunter, weinte und betete, und allemal kam ein weißes Vöglein auf den Baum, und wenn es einen Wunsch aussprach, so warf ihm das Vöglein herab, was es sich gewünscht hatte.
 

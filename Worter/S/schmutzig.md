@@ -7,6 +7,8 @@ Nun, sehen wir einmal was passiert ist - das [[Hemd]] mit dem normal
 Tom ist [[beleidigt]]: „Moment mal, ich habe das ganze [[Geschirr]] in die Küche gestellt.“ 
 Martin schaut in die Küche. [[Tatsächlich]]: Die ganze [[Spüle]] ist voller Teller, Gläser und Tassen – immer noch [[schmutzig]] natürlich. 
 
+Abends, wenn es sich müde gearbeitet hatte, kam es in kein Bett, sondern mußte sich neben den [[Herd]] in die Asche legen. Und weil es darum immer [[staubig]] und [[schmutzig]] [[aussah]], [[nannten]] sie es Aschenputtel.
+
 ---
 Synonyme: [[dreckig]], [[verschmutzt]], [[verdreckt]], [[unsauber]], [[beschmutzt]]
 Antonyme: [[sauber]], [[rein]], [[gepflegt]], [[ordentlich]], [[hygienisch]]
@@ -29,4 +31,4 @@ Einzigartige mögliche Formen:
 [[schmutzig]], [[schmutziger]], [[schmutzige]], [[schmutziges]], [[schmutzigen]], [[schmutzigem]], [[schmutziger]], [[schmutzigen]]
 [[schmutziger]], [[schmutzigerer]], [[schmutzigere]], [[schmutzigeres]], [[schmutzigeren]], [[schmutzigereम]], [[schmutzigerer]], [[schmutzigeren]]
 [[schmutzigsten]], [[schmutzigster]], [[schmutziгste]], [[schmutzigвtes]], [[schmutzigsten]], [[schmutzigвtем]], [[schmutzigster]], [[schmutzigsten]]
-''', [[frisch]], [[dreckigen]], [[beleidigen]], [[Geschirr]], [[unrein]]
+''', [[frisch]], [[dreckigen]], [[beleidigen]], [[Geschirr]], [[unrein]], [[staubig]]

@@ -26,4 +26,4 @@ G: der [[Regierung]], der [[Regierungen]]
 D: der [[Regierung]], den [[Regierungen]]  
 
 ---
-[[regieren]], [[regierend]], [[Regierungschef]], [[Regierungsbildung]], [[regierungsfähig]], [[Bundeskanzleramt]], [[Bundesregierung]]
+[[regieren]], [[regierend]], [[Regierungschef]], [[Regierungsbildung]], [[regierungsfähig]], [[Bundeskanzleramt]], [[Bundesregierung]], [[Regierungspartei]]

@@ -1,1 +1,1 @@
-, [[Bundesadler]], [[Reichsadler]]
+, [[Bundesadler]], [[Reichsadler]], [[Wappentier]]

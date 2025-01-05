@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Lebensart]], [[Lebensarten]], [[Lebensarts]], [
 #Substantiv #Feminin #Komposition
 
 Weitere Erklärung:
-Eine Zusammensetzung aus [[Leben]] und [[Art]], die beschreibt, wie jemand sein Leben gestaltet, welche Gewohnheiten und Prinzipien er verfolgt.
+Eine Zusammensetzung aus [[Leben]] und [[Art]], die beschreibt, wie jemand sein Leben gestaltet, welche Gewohnheiten und Prinzipien er verfolgt., [[Lebensform]]

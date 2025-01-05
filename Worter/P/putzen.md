@@ -5,6 +5,10 @@
  
  „Ich [[putze]] doch! Wenn deine Freunde nicht [[dauernd]] Dreck machen würden, hätten wir das Problem nicht.“ 
 
+"Seht einmal die [[stolze]] Prinzessin, wie sie [[geputzt]] ist!" riefen sie, lachten und [[führten]] es in die Küche. 
+
+
+[[Aschenputtel]]
 
 ---
 Synonyme: [[reinigen]], [[säubern]], [[waschen]], [[wischen]], [[schrubben]]
@@ -34,4 +38,4 @@ Zu+infinitive: [[zu putzen]]
 [[Putz]], [[Putzer]], [[Putzfrau]], [[Putzlappen]], [[Putzplan]], [[Putzmittel]], [[Putzaktion]], [[Putzstunde]]
 
 [[Waschen]][[bürsten]], [[kehren]], [[wischen]], [[reiben]], [[aufräumen]], [[räumen]]
-, [[erwidern]]
+, [[erwidern]], [[puttel]]

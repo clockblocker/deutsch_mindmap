@@ -1,1 +1,1 @@
-, [[heiraten]]
+, [[heiraten]], [[verheiratet]], [[verheiraten]]

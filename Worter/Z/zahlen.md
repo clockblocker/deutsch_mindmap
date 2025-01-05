@@ -5,6 +5,9 @@ haben [[gezahlt]]
 ---
 
 ---
+[[bezahlen]] - [[be]] = [[zahlen]] / to pay, to settle
+
+---
 
 **Synonyme:**
 

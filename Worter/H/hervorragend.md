@@ -1,1 +1,1 @@
-, [[hervorragend]], [[Besserwisserei 1]], [[besonders]]
+, [[hervorragend]], [[Besserwisserei 1]], [[besonders]], [[schlimm]]

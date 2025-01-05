@@ -1,1 +1,1 @@
-, [[gesellen]], [[kommen]]
+, [[gesellen]], [[kommen]], [[beitreten]]

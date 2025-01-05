@@ -1,1 +1,1 @@
-, [[Bundesregierung]]
+, [[Bundesregierung]], [[Regierungspartei]]

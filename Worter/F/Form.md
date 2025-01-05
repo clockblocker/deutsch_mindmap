@@ -1,1 +1,1 @@
-, [[Art]], [[Gestalt]]
+, [[Art]], [[Gestalt]], [[Lebensform]]

@@ -13,6 +13,7 @@ haben/sein [[getreten]]
 [[betreten]] - [[be]] = [[treten]] /  to enter, to step into
 [[eintreten]] - [[ein]] = [[treten]] / to enter, to step in
 [[auftreten]] - [[auf]] = [[treten]] / to appear, to occur, to perform
+[[beitreten]] - [[bei]] = [[treten]] / to join, to become a member
 
 
 ---
@@ -39,3 +40,4 @@ Morpheme: [[tret]][[en]]
 
 Partizip I: [[tretend]], Partizip II: [[getreten]]
 
+, [[beitreten]]

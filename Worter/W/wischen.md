@@ -37,4 +37,4 @@ Partizip I: [[wischend]], Partizip II: [[gewischt]]
 
 
 [[bürsten]], [[kehren]], [[entwischen]]
-, [[fuchteln]], [[reiben]], [[gestrichen]]
+, [[fuchteln]], [[reiben]], [[gestrichen]], [[puttel]]

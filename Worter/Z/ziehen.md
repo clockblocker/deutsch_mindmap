@@ -45,4 +45,4 @@ Morpheme: [[zieh]][[en]]
 | Sie | [[ziehen]] | [[zogen]] | [[ziehen Sie]] | [[ziehen]] | [[zögen]] |
 
 Partizip I: [[ziehend]], Partizip II: [[gezogen]]
-, [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]], [[losziehen]], [[hochziehen]], [[Schubst]], [[einziehen]]
+, [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]], [[losziehen]], [[hochziehen]], [[Schubst]], [[einziehen]], [[herabgezogen]], [[herabziehen]]

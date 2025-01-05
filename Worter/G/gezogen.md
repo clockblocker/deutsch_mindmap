@@ -1,2 +1,2 @@
 [[ziehen]]
-, [[hineingezogen]]
+, [[hineingezogen]], [[herabgezogen]]

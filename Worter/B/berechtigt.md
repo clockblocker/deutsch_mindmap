@@ -1,1 +1,1 @@
-, [[Erziehungsberechtigten]]
+, [[Erziehungsberechtigten]], [[wahlberechtigt]]

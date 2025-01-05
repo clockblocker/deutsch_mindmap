@@ -31,4 +31,4 @@ Plural forms:
 Morphems:
 - [[Glück]]
 
----[[Glückstag]][[Unglück]], [[Freude]], [[Glückwunsch]], [[Glücksspiel]], [[gelingen]]
+---[[Glückstag]][[Unglück]], [[Freude]], [[Glückwunsch]], [[Glücksspiel]], [[gelingen]], [[Herzeleid]]

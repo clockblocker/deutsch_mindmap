@@ -1,1 +1,1 @@
-, [[Preis]], [[Steuer]]
+, [[Preis]], [[Steuer]], [[bezahlen]]

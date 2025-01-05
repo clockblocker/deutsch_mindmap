@@ -1,1 +1,1 @@
-[[bestehen]], [[sein]], [[fehlen]], [[leben]], [[befinden]]
+[[bestehen]], [[sein]], [[fehlen]], [[leben]], [[befinden]], [[gelten]]

@@ -1,9 +1,8 @@
-Als der Winter kam, deckte der Schnee ein weißes [[Tüchlein]] auf das Grab, und als die Sonne im [[Frühjahr]] es wieder [[herabgezogen]] hatte, nahm sich der Mann eine andere Frau.
 🟢 das [[Tüchlein]]
 die [[Tüchlein]]
 
 ---
-
+Als der Winter kam, deckte der Schnee ein weißes [[Tüchlein]] auf das Grab, und als die Sonne im [[Frühjahr]] es wieder [[herabgezogen]] hatte, nahm sich der Mann eine andere Frau.
 
 ---
 Synonyme:

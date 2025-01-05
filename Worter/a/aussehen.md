@@ -20,6 +20,8 @@ Katrin seufzt. „Werner, jetzt mach doch keine Doktorarbeit daraus. Das Foto is
 
 Jedes Jahr im Frühling plant Familie Gopal-Schmidt ihren Sommerurlaub. Doch dieses Mal hat jedes Familienmitglied andere Vorstellungen davon, wie die Reise [[aussehen]] soll. 
 
+Abends, wenn es sich müde gearbeitet hatte, kam es in kein Bett, sondern mußte sich neben den [[Herd]] in die Asche legen. Und weil es darum immer [[staubig]] und [[schmutzig]] [[aussah]], [[nannten]] sie es Aschen[[puttel]].
+
 ---
 Synonyme: [[erscheinen]], [[wirken]], [[aussehen]], [[sich präsentieren]], [[sich zeigen]]
 Antonyme: [[unsichtbar sein]], [[verbergen]], [[verdecken]], [[verstecken]]

@@ -1,1 +1,1 @@
-, [[Kurzem]], [[neulich]], [[Kürzung]]
+, [[Kurzem]], [[neulich]], [[Kürzung]], [[Abkürzung]]

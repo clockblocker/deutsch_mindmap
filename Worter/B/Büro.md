@@ -1,1 +1,1 @@
-, [[Plenarsaal]], [[Behörde]]
+, [[Plenarsaal]], [[Behörde]], [[Arbeitsplatz]], [[Agentur]]

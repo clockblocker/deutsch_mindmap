@@ -1,1 +1,1 @@
-, [[Aufgaben]]
+, [[Aufgaben]], [[Aufgabe]]

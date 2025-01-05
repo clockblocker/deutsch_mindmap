@@ -32,4 +32,4 @@ Morpheme: [[heraus]][[nehm]][[en]]
 
 Partizip I: [[herausnehmend]], Partizip II: [[herausgenommen]]
 
-[[herausnehmen]] - [[heraus]] = [[nehmen]], [[Extra 8]], [[einschließen]], [[aufspießen]], [[stecken]], [[reintun]], [[Bestecken]]
+[[herausnehmen]] - [[heraus]] = [[nehmen]], [[Extra 8]], [[einschließen]], [[aufspießen]], [[stecken]], [[reintun]], [[Bestecken]], [[auslesen]]

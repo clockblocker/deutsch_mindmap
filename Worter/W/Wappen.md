@@ -1,1 +1,1 @@
-, [[Fahne]], [[Reichsadler]]
+, [[Fahne]], [[Reichsadler]], [[Wappentier]]

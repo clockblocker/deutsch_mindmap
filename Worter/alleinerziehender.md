@@ -1,0 +1,1 @@
+🏠👤 [[alleinerziehend]], [ˈaləɪnˌɛɐ̯ˈtsi:ənt]

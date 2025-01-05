@@ -1,1 +1,1 @@
-, [[Pflicht]], [[Freiheitsstrafe]]
+, [[Pflicht]], [[Freiheitsstrafe]], [[Meinungsfreiheit]], [[Gefängnis]]

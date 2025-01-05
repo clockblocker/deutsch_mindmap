@@ -29,4 +29,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[zufällig]], [[zufälliger]], [[zufällige]], [[zufälliges]], [[zufälligen]], [[zufälligem]], [[zufälliger]], [[zufälligen]]
-[[zufälligste]], [[zufälligster]], [[zufälligste]], [[zufälligstes]], [[zufälligsten]], [[zufälligstem]], [[zufälligster]], [[zufälligsten]], [[s1 e1]], [[Umweltprojekt]], [[Umwelt]], [[mitmachen]], [[regelmäßig]], [[Je mehr]]
+[[zufälligste]], [[zufälligster]], [[zufälligste]], [[zufälligstes]], [[zufälligsten]], [[zufälligstem]], [[zufälligster]], [[zufälligsten]], [[s1 e1]], [[Umweltprojekt]], [[Umwelt]], [[mitmachen]], [[regelmäßig]], [[Je mehr]], [[antun]]

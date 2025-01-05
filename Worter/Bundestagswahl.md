@@ -24,4 +24,4 @@ G: der [[Bundestagswahl]], der [[Bundestagswahlen]]
 D: der [[Bundestagswahl]], den [[Bundestagswahlen]]  
 
 ---
-[[wählen]], [[Bundestag]], [[Wahltag]], [[Wahlkampf]], [[Wahlurne]], [[Wahlzettel]], [[Erststimme]]
+[[wählen]], [[Bundestag]], [[Wahltag]], [[Wahlkampf]], [[Wahlurne]], [[Wahlzettel]], [[Erststimme]], [[Wahl]]

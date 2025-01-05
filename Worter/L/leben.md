@@ -60,4 +60,4 @@ Morpheme: [[leb]][[en]]
 
 Partizip I: [[lebend]], Partizip II: [[gelebt]]
 [[leben]] - keine Vorsilbe
-, [[Geschäftsleben]], [[wohnen]], [[erfrieren]], [[verscheiden]]
+, [[Geschäftsleben]], [[wohnen]], [[erfrieren]], [[verscheiden]], [[Lebensform]]

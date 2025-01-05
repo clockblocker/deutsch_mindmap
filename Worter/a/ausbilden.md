@@ -5,6 +5,10 @@ haben [[ausgebildet]]
 ---
 Vielleicht haben die da Wasserbändiger, die dich [[ausbilden]] können.
 
+250. In Deutschland hat man die besten Chancen auf einen gut [[bezahlten]] [[Arbeitsplatz]], wenn man … (96%)
+	- [ ] katholisch ist.
+	- [x] gut [[ausgebildet]] ist.
+
 ---
 Synonyme: [[schulen]], [[trainieren]], [[qualifizieren]], [[unterrichten]], [[lehren]]
 Antonyme: [[entlassen]], [[unausgebildet lassen]], [[ignorieren]]

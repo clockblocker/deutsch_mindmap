@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Minderheit]], [[Minderheiten]], [[Minderheit]], [[Minderheiten]], [[Minderheit]], [[Minderheiten]], [[Minderheit]], [[Minderheiten]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Bevölkerung]]

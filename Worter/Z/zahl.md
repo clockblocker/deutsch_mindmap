@@ -1,2 +1,2 @@
 💵 [[zahlen]]  
-, [[zahlreiche]]
+, [[zahlreiche]], [[bezahlen]]

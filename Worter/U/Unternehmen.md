@@ -3,8 +3,8 @@ die [[Unternehmen]]
 
 
 ---
--
--
+224. Was bedeutet die [[Abkürzung]] EU? (97%)
+
 
 ---
 Synonyme:

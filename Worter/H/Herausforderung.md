@@ -23,4 +23,4 @@ Genitive: der [[Herausforderung]], der [[Herausforderungen]]
 Dative: der [[Herausforderung]], den [[Herausforderungen]]  
 
 ---
-[[herausfordern]], [[herausfordernd]], [[herausforderungsvoll]], [[bewältigen]]
+[[herausfordern]], [[herausfordernd]], [[herausforderungsvoll]], [[bewältigen]], [[Hürde]]

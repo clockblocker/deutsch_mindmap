@@ -75,4 +75,4 @@ Tags:
 
 ---
 Morphems:
-[[bewusst]]
+[[bewusst]], [[antun]]

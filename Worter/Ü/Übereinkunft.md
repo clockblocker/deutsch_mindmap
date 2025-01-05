@@ -1,1 +1,1 @@
-, [[Vereinbarung]]
+, [[Vereinbarung]], [[Abkommen]]

@@ -1,1 +1,1 @@
-, [[retten]], [[morden]], [[verderben]], [[wehrten]], [[behalten]], [[verbrennen]], [[schwenden]], [[schützen]], [[beschützen]]
+, [[retten]], [[morden]], [[verderben]], [[wehrten]], [[behalten]], [[verbrennen]], [[schwenden]], [[schützen]], [[beschützen]], [[schütten]]

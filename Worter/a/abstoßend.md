@@ -1,1 +1,1 @@
-, [[eklig]], [[abstoßen]]
+, [[eklig]], [[abstoßen]], [[garstig]]

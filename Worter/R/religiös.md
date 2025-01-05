@@ -1,1 +1,1 @@
-, [[fromm]], [[jüdisch]], [[Religion]]
+, [[fromm]], [[jüdisch]], [[Religion]], [[Religionspflicht]]

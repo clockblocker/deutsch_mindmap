@@ -6,6 +6,9 @@
 *Bauz! da [[geht]] die Türe [[auf]],*  
 *und herein in schnellem Lauf*  
 
+Da [[angehen|ging]] eine [[schlimme]] Zeit für das arme [[Stiefkind]] an. 
+"Soll die dumme [[Gans]] bei uns in der [[Stube]] sitzen!" sprachen sie, "wer Brot essen will, muß [[verdienen]]: hinaus mit der [[Küchenmagd]]!" 
+
 ---
 Synonyme: [[beginnen]], [[starten]], [[einleiten]], [[in Angriff nehmen]], [[aufnehmen]]
 Antonyme: [[aufhören]], [[beenden]], [[stoppen]], [[abbrechen]]

@@ -21,4 +21,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen: 
-[[meistens]]
+[[meistens]], [[hauptsächlich]]

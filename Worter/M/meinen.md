@@ -32,4 +32,4 @@ Morpheme: [[mein]][[en]]
 | Sie       | [[meinen]]           | [[meinten]]           | [[meinen Sie]]    | [[meinen]]             | [[meinten]]             |
 
 Partizip I: [[meinend]], Partizip II: [[gemeint]]
-[[meinen]] - [[mein]] = [[en]], [[glaub]], [[ablehnen]]
+[[meinen]] - [[mein]] = [[en]], [[glaub]], [[ablehnen]], [[Meinungsfreiheit]]

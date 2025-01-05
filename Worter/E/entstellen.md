@@ -1,1 +1,1 @@
-, [[verziehen]], [[prägen]]
+, [[verziehen]], [[prägen]], [[garstig]]

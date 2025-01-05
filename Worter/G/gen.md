@@ -18,4 +18,4 @@ Beispiele:
 Morpheme: [[gen]]
 
 ---
-#Präposition, [[digen]], [[neigen]], [[prägen]]
+#Präposition, [[digen]], [[neigen]], [[prägen]], [[zwingen]]

@@ -1,1 +1,1 @@
-, [[Kumpel]]
+, [[Kumpel]], [[Arbeiteraufstand]], [[Arbeitsplatz]]

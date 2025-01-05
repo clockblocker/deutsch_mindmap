@@ -12,6 +12,13 @@ Je mehr „[[Zweitstimmen]]“ eine [[Partei]] bei einer [[Bundestagswahl]] beko
 
 93. [[Je mehr]] „[[Zweitstimmen]]“ eine Partei bei einer Bundestagswahl bekommt, [[desto]] … (97%)
 	- [x] mehr [[Sitze]] [[erhält]] die Partei im Parlament.
+
+255. Bei [[Erziehungsproblemen]] können Eltern in Deutschland Hilfe [[erhalten]] vom … (96%)
+	- [ ] [[Ordnungsamt]].
+	- [ ] [[Schulamt]].
+	- [x] [[Jugendamt]].
+	- [ ] [[Gesundheitsamt]].
+
 ---
 Synonyme: [[bekommen]], [[empfangen]], [[kriegen]], [[annehmen]], [[beziehen]]
 Antonyme: [[verlieren]], [[abgeben]], [[zurückgeben]]

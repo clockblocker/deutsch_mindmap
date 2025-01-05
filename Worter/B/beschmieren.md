@@ -1,1 +1,1 @@
-, [[reiben]], [[gestrichen]], [[schmieren]]
+, [[reiben]], [[gestrichen]], [[schmieren]], [[puttel]]

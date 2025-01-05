@@ -1,1 +1,1 @@
-[[stehlen]]
+[[stehlen]], [[bezahlen]]

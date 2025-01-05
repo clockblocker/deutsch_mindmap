@@ -1,1 +1,38 @@
+🎯 [[erreichen]], [ɛˈʁaɪ̯çn̩] | [[erreichte]], haben [[erreicht]]
+
+---
+13. Im Parlament steht der [[Begriff]] „Opposition“ für… (96%)
+	- [x] alle [[Abgeordneten]], die nicht zu der [[Regierungspartei]]/den Regierungsparteien gehören.
+	- [ ] alle Parteien, die bei der letzten [[Wahl]] die 5%-[[Hürde]] [[erreichen]] konnten.
+
+[[erreichen]] bei einer Auktion einen Preis, [ɛɐ̯ˈʁaɪ̯çn̩]
+
+ein Werk des Leipziger Malers Matthias Weischer [[erreichte]] bei einer Auktion einen Preis von 384854 Dollar
+
+---
+= [[gelangen]], [[schaffen]], [[bewerkstelligen]]
+≈ [[ankommen]], [[gelingen]], [[verwirklichen]], [[realisieren]]
+≠ [[scheitern]], [[verfehlen]], [[misslingen]]
+
+---
+to reach, to achieve, to attain
+
+---
+[[er]]|[[reich]]|[[en]]
+
+---
+ich: [[erreiche]], [[erreichte]], –, [[erreiche]], [[erreichte]]
+du: [[erreichst]], [[erreichtest]], [[erreiche]] | [[erreich]], [[erreichest]], [[erreichetest]]
+er/sie/es: [[erreicht]], [[erreichte]], –, [[erreiche]], [[erreichte]]
+wir: [[erreichen]], [[erreichten]], [[erreichen wir|erreichen]], [[erreichen]], [[erreichten]]
+ihr: [[erreicht]], [[erreichtet]], [[erreicht]], [[erreichtet]], [[erreichtet]]
+
+PI: [[erreichend]], PII: [[erreicht]], Zu+inf: [[zu erreichen]]
+
+---
+[[erreichen]] - [[er]] = [[reichen]] / to reach, to achieve, to attain
+
+---
+[[Erreichbarkeit]], [[Erreichung]], [[reichbar]], [[unerreichbar]], [[Erreichbares]]
+
 , [[schaden]], [[reichen]]

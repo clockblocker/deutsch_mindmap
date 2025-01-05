@@ -19,4 +19,4 @@ Morphems:
 [[Küch]][[e]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Küchenmagd]], [[Herd]]

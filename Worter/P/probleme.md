@@ -19,4 +19,4 @@ Morphems:
 [[Problem]][[e]]
 
 ---
-#Substantiv #Neuter, [[Freigabeprobleme]]
+#Substantiv #Neuter, [[Freigabeprobleme]], [[Nachteile]]

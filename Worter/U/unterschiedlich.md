@@ -27,4 +27,4 @@ Plural: [[unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]
 
 [[Unterschiedlichkeit]], [[unterschiedlich]], [[unterschiedlich sein]]
 [[andere]][[anders]], [[verschiedene]], [[gleich]], [[auseinander]], [[solche]], [[dieselbe]]
-, [[einziger]]
+, [[einziger]], [[Einheitliche]]

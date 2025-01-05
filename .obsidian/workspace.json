@@ -4,273 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9f315f8748b0e71b",
+        "id": "819fa4d523084d83",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2f49a897a9aa5a",
+            "id": "950fe6bdd13d7d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Einbuergerungstest/31-60.md",
+                "file": "Texte/Brüder Grimm/Aschenputtel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31-60"
+              "title": "Aschenputtel"
             }
           },
           {
-            "id": "cdf856f7b6a9247a",
+            "id": "ffdc93cfe7b38a93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/zurückholen.md",
+                "file": "Worter/ersinnlich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zurückholen"
-            }
-          },
-          {
-            "id": "a660c504d7029c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/zurückholen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "zurückholen"
-            }
-          },
-          {
-            "id": "cb8e71c2e9dd3681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/A/anzeigen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "anzeigen"
-            }
-          },
-          {
-            "id": "a9a45333c68fab51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/europäisch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "europäisch"
-            }
-          },
-          {
-            "id": "e8c124284836e8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/europäische.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "europäische"
-            }
-          },
-          {
-            "id": "373b4225c1bdb719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/E/Erststimme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erststimme"
-            }
-          },
-          {
-            "id": "8b420e01524e3de9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Direktkandidaten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Direktkandidaten"
-            }
-          },
-          {
-            "id": "59b972eeb882cf68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/Sitz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sitz"
-            }
-          },
-          {
-            "id": "d5e4890ca6c7fc80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Je mehr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Je mehr"
-            }
-          },
-          {
-            "id": "212b8a4e7bcb9e03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Amtssitz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amtssitz"
-            }
-          },
-          {
-            "id": "4a7d1555de297d62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/E/Erziehungsberechtigte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erziehungsberechtigte"
-            }
-          },
-          {
-            "id": "002ec63f9ab39d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Erziehungsberechtigten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erziehungsberechtigten"
-            }
-          },
-          {
-            "id": "5ed9664d4d8f4b42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/schwanger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "schwanger"
-            }
-          },
-          {
-            "id": "9b80430f32363dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Geburt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geburt"
-            }
-          },
-          {
-            "id": "7191582595db1203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/G/Gesetz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gesetz"
-            }
-          },
-          {
-            "id": "4e2cb533fa3e2c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/beschützt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "beschützt"
-            }
-          },
-          {
-            "id": "6414677dfbe609cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/beschützen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "beschützen"
-            }
-          },
-          {
-            "id": "59f5dc33b2de20d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/Schutz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schutz"
+              "title": "ersinnlich"
             }
           }
         ]
@@ -329,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.50271224975586
+    "width": 200
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -390,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Einbuergerungstest/31-60.md"
+                "file": "Texte/Brüder Grimm/Aschenputtel.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 31-60"
+              "title": "Outline of Aschenputtel"
             }
           }
         ],
@@ -415,34 +177,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fd2f49a897a9aa5a",
+  "active": "950fe6bdd13d7d55",
   "lastOpenFiles": [
-    "Worter/S/Schwierigkeiten.md",
-    "Worter/S/Schwierigkeit.md",
-    "Worter/V/Verkehrsunfall.md",
-    "Worter/Ü/überfahren.md",
-    "Worter/Ü/überfahren.md",
-    "Worter/U/Unfallopfer.md",
-    "Worter/U/Unfallursache.md",
-    "Worter/U/Unfallflucht.md",
-    "Worter/V/verunfallen.md",
-    "Worter/U/unfallen.md",
-    "Worter/V/Verkehrsunfällen.md",
-    "Worter/V/Verkehrsunfalls.md",
-    "Worter/V/Verkehrs.md",
-    "Worter/V/Verkehrssicherheit.md",
-    "Worter/F/Fahrsicherheit.md",
-    "Worter/B/Beinahe-Unfall.md",
-    "Worter/A/Autounfall.md",
-    "Worter/S/Straßenunfall.md",
-    "Worter/V/Verkehrsunfälle.md",
-    "Texte/Einbuergerungstest/31-60.md",
-    "Worter/Arbeitsgericht.md",
-    "Worter/Nebenkostenabrechnung.md",
-    "Worter/ungerechtfertigter.md",
-    "Worter/ungerechtfertigen.md",
-    "Worter/Kündigung.md",
-    "Worter/K/Kündigungsfrist.md",
+    "Worter/G/geputzt.md",
+    "Worter/P/putzen.md",
+    "Texte/Brüder Grimm/Aschenputtel.md",
+    "Worter/Herd.md",
+    "Worter/staubig.md",
+    "Worter/S/schmutzig.md",
+    "Worter/aussah.md",
+    "Worter/A/aussehen.md",
+    "Worter/puttel.md",
+    "Worter/P/putzmunter.md",
+    "Worter/P/putzig.md",
+    "Worter/P/puttelerstes.md",
+    "Worter/P/puttelereres.md",
+    "Worter/P/putteles.md",
+    "Worter/P/puttelste.md",
+    "Worter/P/puttelerere.md",
+    "Worter/P/puttele.md",
+    "Worter/P/puttelerstem.md",
+    "Worter/P/puttelerem.md",
+    "Worter/P/puttelem.md",
+    "Worter/P/puttelererer.md",
+    "Worter/P/puttelsten.md",
+    "Worter/P/puttelereren.md",
+    "Worter/P/puttelen.md",
+    "Worter/P/puttelster.md",
+    "Worter/P/putteler.md",
+    "Alleinerziehende",
     "Worter/(",
     "Anhänge/Pasted image 20250102085715.png",
     "Anhänge/Pasted image 20250102085702.png",
@@ -462,7 +225,6 @@
     "Lektionen/Kamanova/Audio/L-05.mp3",
     "Lektionen/Kamanova/Audio/L-11.mp3",
     "Lektionen/Kamanova/Audio/L-08.mp3",
-    "Lektionen/Kamanova/Audio/L-10.mp3",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

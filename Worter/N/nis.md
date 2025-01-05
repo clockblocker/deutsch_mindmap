@@ -1,2 +1,2 @@
 🔵 das [[Geheimnis]]
-, [[Ergebnis]], [[Erlaubnis]]
+, [[Ergebnis]], [[Erlaubnis]], [[Rechercheergbenis]], [[Gefängnis]]

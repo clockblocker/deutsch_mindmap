@@ -1,1 +1,1 @@
-[[Haus]]
+[[Haus]], [[Arbeitsplatz]]

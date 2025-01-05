@@ -5,6 +5,13 @@ haben [[gewählt]]
 ---
 Dort kann man für nicht einmal 50 Euro zwischen Sommerblumen, einem Haus in einsamer Landschaft oder einer Straße im Nebel [[wählen]].
 
+107. Für wie viele Jahre wird der Bundestag in Deutschland [[gewählt]]? (96%)
+	- [ ] 2 Jahre
+	- [x] 4 Jahre
+
+5. [[Wahlen]] in Deutschland sind frei. Was bedeutet das? (96%)
+	- [ ] Man darf Geld [[annehmen]], wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin [[wählt]].
+	- [x] Der [[Wähler]] darf bei der [[Wahl]] weder [[beeinflusst]] noch zu einer bestimmten [[Stimmabgabe]] [[gezwungen]] werden und keine [[Nachteile]] durch die Wahl haben.
 
 ---
 Synonyme: [[auswählen]], [[selektieren]], [[bestimmen]], [[auslesen]], [[erwählen]], [[aussuchen]]
@@ -30,4 +37,4 @@ Morpheme: [[wähl]][[en]]
 
 Partizip I: [[wählend]], Partizip II: [[gewählt]]
 
-, [[anrufen]], [[entscheiden]], [[entschließen]], [[ablehnen]], [[Zweitstimme]], [[Bundestagswahl]], [[Erststimme]]
+, [[anrufen]], [[entscheiden]], [[entschließen]], [[ablehnen]], [[Zweitstimme]], [[Bundestagswahl]], [[Erststimme]], [[Wahlpflicht]], [[Wahl]]

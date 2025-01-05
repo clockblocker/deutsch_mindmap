@@ -1,10 +1,10 @@
 🔵 der [[Kittel]], [ˈkɪtəl]
 die [[Kittel]]
 
-
 ---
-- Girls lieben Männer im weißen Kittel! 
--
+Girls lieben Männer im weißen [[Kittel]]! 
+
+Sie nahmen ihm seine schönen Kleider weg, zogen ihm einen grauen, alten [[Kittel]] an und gaben ihm [[hölzerne]] Schuhe. 
 
 ---
 Synonyme:
@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kittels]], [[Kittel]], [[Kitteln]], [[Kittele]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Hölzern]]

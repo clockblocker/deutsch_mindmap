@@ -1,1 +1,1 @@
-, [[Verwandte]], [[Familienmitglied]]
+, [[Verwandte]], [[Familienmitglied]], [[Stiefkind]]

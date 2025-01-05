@@ -1,1 +1,1 @@
-, [[Privatgrundstück]]
+, [[Privatgrundstück]], [[besitzen]]

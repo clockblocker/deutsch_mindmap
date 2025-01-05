@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tiers]], [[Tiere]], [[Tieren]], [[Tieren]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Wappentier]]

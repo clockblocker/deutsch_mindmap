@@ -45,3 +45,4 @@ Tags:
 Morphems of only infinitive:
 - [[Allein]]
 
+, [[alleinerziehend]]
