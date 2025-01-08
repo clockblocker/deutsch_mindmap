@@ -1,1 +1,1 @@
-, [[bändigen]]
+, [[bändigen]], [[Zügel]]

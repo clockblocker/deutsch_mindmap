@@ -1,1 +1,1 @@
-, [[dauern]]
+, [[dauern]], [[Währenddessen]]

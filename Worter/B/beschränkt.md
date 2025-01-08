@@ -1,1 +1,1 @@
-[[überhaupt]], [[weit]], [[beschränken]], [[blöd]], [[doof]]
+[[überhaupt]], [[weit]], [[beschränken]], [[blöd]], [[doof]], [[begrenzt]]

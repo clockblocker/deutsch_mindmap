@@ -1,1 +1,1 @@
-, [[Bundesregierung]], [[Regierungspartei]]
+, [[Bundesregierung]], [[Regierungspartei]], [[Politikunterricht]]

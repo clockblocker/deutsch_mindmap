@@ -1,1 +1,1 @@
-, [[zornig]]
+, [[zornig]], [[aufgebracht]], [[wütend]]

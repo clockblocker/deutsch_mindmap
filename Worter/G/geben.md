@@ -9,8 +9,9 @@ Synonyme: [[schenken]], [[überreichen]], [[aushändigen]], [[liefern]], [[ertei
 Antonyme: [[nehmen]], [[empfangen]], [[bekommen]], [[beanspruchen]]
 
 ---
-[[aufgeben]] - [[auf]] = [[geben]] / to give up, to abandon
-[[umgeben]] - [[um]] = [[geben]] / surround 
+[[aufgeben]] - [[auf]] = [[geben]]  / to give up, to abandon
+[[umgeben]] - [[um]] = [[geben]]  / surround 
+[[abgeben]] - [[ab]] = [[geben]]    / to hand over, to deliver, to submit
 
 
 ---
@@ -34,4 +35,4 @@ Morpheme: [[geb]][[en]]
 Partizip I: [[gebend]], Partizip II: [[gegeben]]
 
 [[übergeben]], [[zugeben]], [[kriegen]], [[schenken]]
-, [[aufgeben]], [[umgeben]], [[vergebens]], [[ausgeben]]
+, [[aufgeben]], [[umgeben]], [[vergebens]], [[ausgeben]], [[abgeben]]

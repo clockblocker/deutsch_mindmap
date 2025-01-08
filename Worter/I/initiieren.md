@@ -1,1 +1,1 @@
-, [[Hochfahren]], [[gründen]]
+, [[Hochfahren]], [[gründen]], [[eröffnen]]

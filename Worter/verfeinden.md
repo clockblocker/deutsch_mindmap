@@ -11,7 +11,7 @@ Antonyme: [[versöhnen]], [[vereinen]], [[befreunden]], [[zusammenbringen]]
 to make enemies, to set at odds
 
 ---
-[[ver]][[feind]][[en]]
+[[ver]][[Feind]][[en]]
    
 
 ---

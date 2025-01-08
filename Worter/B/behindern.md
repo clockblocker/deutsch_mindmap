@@ -1,1 +1,1 @@
-, [[aufhalten]], [[nützen]], [[treiben]]
+, [[aufhalten]], [[nützen]], [[treiben]], [[unterstützen]], [[fördern]]

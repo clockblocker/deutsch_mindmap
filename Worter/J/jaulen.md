@@ -4,6 +4,7 @@
 ---
 Ein paar Tiger-Seelöwen heben verwundert die Köpfe und [[jaulen]].
 
+_Aang und Appa liegen in einen großen [[Eisgebilde]]. Appa [[jault]]._
 
 ---
 Synonyme: [[heulen]], [[winseln]], [[quieken]], [[schreien]], [[miauen]]

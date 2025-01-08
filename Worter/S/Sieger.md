@@ -32,4 +32,4 @@ The template includes:
 - Synonyms
 - Translation
 - Morphological breakdown
-- Grammatical classification, [[Weltmeister]], [[Held]], [[Opfer]]
+- Grammatical classification, [[Weltmeister]], [[Held]], [[Opfer]], [[besiegen]], [[siegen]]

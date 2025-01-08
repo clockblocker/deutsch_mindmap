@@ -1,1 +1,1 @@
-, [[beeinflussen]], [[zwingen]]
+, [[beeinflussen]], [[zwingen]], [[überreden]], [[bestechen]]

@@ -15,7 +15,7 @@ die [[Gehaltsvorstellungen]]
 salary expectations, income expectations
 
 ---
-[[Gehalts]]|[[vorstellungen]]
+[[Gehalts]]|[[vorstellung]][[en]]
 
 ---
 N: die [[Gehaltsvorstellungen]], die [[Gehaltsvorstellungen]]  

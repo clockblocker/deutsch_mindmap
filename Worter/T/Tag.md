@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tag]], [[Tages]], [[Tage]], [[Tagen]]
 
 ---
-#Substantiv #Maskulin[[erwachen]], [[Feiertag]], [[Gedenktag]], [[Trauertag]]
+#Substantiv #Maskulin[[erwachen]], [[Feiertag]], [[Gedenktag]], [[Trauertag]], [[Wahltag]], [[Bettag]]

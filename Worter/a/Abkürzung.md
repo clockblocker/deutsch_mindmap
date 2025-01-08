@@ -7,6 +7,7 @@ die [[Abkürzungen]]
 	- [ ] Europäische [[Unternehmen]]
 	- [x] Europäische Union
 
+293. Was bedeutet die [[Abkürzung]] DDR? (94%)
 ---
 = [[Kurzform]], [[Kürzel]], [[Abbreviatur]]
 ≈ [[Verkürzung]], [[Komprimierung]], [[Reduzierung]]

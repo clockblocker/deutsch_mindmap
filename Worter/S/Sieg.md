@@ -1,1 +1,1 @@
-, [[Sieger]], [[Erfolg]]
+, [[Sieger]], [[Erfolg]], [[besiegen]], [[siegen]]

@@ -28,4 +28,4 @@ Morpheme: [[deck]][[en]]
 | Sie | [[decken]] | [[deckten]] | [[decken Sie]] | [[decken]] | [[deckten]] |
 
 Partizip I: [[deckend]], Partizip II: [[gedeckt]]
-, [[Decke]]
+, [[Decke]], [[verteidigen]]

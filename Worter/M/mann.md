@@ -1,1 +1,1 @@
-, [[Nationalmannschaft]], [[bemannt]]
+, [[Nationalmannschaft]], [[bemannt]], [[Ehemann]]

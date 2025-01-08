@@ -1,3 +1,3 @@
 [[so]]
 
-Also pass auf., [[CONNECTOR]]
+Also pass auf., [[CONNECTOR]], [[somit]]

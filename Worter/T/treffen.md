@@ -3,6 +3,8 @@
 haben [[getroffen]]
 
 ---
+Der Bumeraang [[trifft]] Zuko am Hinterkopf und landet im Schnee
+
 NIC: Wenn unsere Show zu Ende ist, [[treffen]] wir euch in eurer Wohnung!  
 
 NIC: Muss sie ihn allein [[treffen]]?  

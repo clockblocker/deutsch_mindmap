@@ -1,1 +1,1 @@
-, [[schaden]], [[antun]]
+, [[schaden]], [[antun]], [[unterstützen]], [[fördern]]

@@ -32,4 +32,4 @@ Morpheme: [[über]][[geb]][[en]]
 Partizip I: [[übergebend]], Partizip II: [[übergeben]]
 
 [[übergeben]] - [[über]] = [[geben]]
-''', [[Deutschland]]
+''', [[Deutschland]], [[abgeben]]

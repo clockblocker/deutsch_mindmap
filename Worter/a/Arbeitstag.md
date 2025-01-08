@@ -1,1 +1,1 @@
-, [[fest]], [[Feiertag]]
+, [[fest]], [[Feiertag]], [[Bettag]]

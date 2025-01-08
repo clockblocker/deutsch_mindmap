@@ -1,1 +1,1 @@
-[[Kühl]], [[warmen]], [[eiskaltem]]
+[[Kühl]], [[warmen]], [[eiskaltem]], [[Eisgebilde]]

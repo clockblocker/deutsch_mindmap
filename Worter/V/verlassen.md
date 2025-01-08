@@ -4,12 +4,15 @@
 ---
 *Ich will dich nie [[verlassen]] (du weinst, du weinst, du weinst, du weinst)*  
 
-Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den Fahrstuhl
+Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den [[Fahrstuhl]]
 
 Solange eure Väter im Krieg sind, [[verlassen]] sie sich auf euch. 
 
 Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. Jannis [[lächelt]]. Er hat wieder eine gute Entscheidung [[getroffen]].
 
+| Katara. Ich will nicht zwischen dir und deiner Familie stehen. _[Geht traurig weg]_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Heißt das, dass du nun den Südpol [[verlassen]] [[wirst]]? Dann ist das ein [[Abschied]]?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ---
 Synonyme: [[aufgeben]], [[zurücklassen]], [[loslassen]], [[abhauen]], [[weggehen]],[[scheiden]]
@@ -36,4 +39,4 @@ Morpheme: [[ver]][[lass]][[en]]
 
 Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 
-[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]], [[eintreten]], [[Worterparken]], [[verbringen]], [[Deutschland]], [[einziehen]], [[beitreten]], [[einreisen]]
+[[verlassen]] - [[ver]] = [[lassen]][[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]], [[eintreten]], [[Worterparken]], [[verbringen]], [[Deutschland]], [[einziehen]], [[beitreten]], [[einreisen]], [[beziehen]], [[zusteuern]], [[besetzen]]

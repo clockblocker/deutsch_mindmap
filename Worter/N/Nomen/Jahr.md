@@ -12,4 +12,4 @@ Translation:
 ---
 
 #Substantiv #Neuter 
-, [[Frühjahr]]
+, [[Frühjahr]], [[Lebensjahr]]

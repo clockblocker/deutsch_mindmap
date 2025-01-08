@@ -23,3 +23,4 @@ Einzigartige mögliche Formen:
 
 ---
 #Substantiv #Maskulin
+, [[Basiswert]]

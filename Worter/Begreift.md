@@ -1,0 +1,1 @@
+🤔 [[begreifen]], [bəˈɡʁaɪ̯fn̩] | [[begrif]], haben [[begriffen]]

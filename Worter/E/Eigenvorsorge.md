@@ -1,1 +1,1 @@
-, [[Sozialversicherung]]
+, [[Sozialversicherung]], [[Rentenversicherung]]

@@ -1,1 +1,1 @@
-, [[Finanzkrise]]
+, [[Finanzkrise]], [[Wirtschaft]]

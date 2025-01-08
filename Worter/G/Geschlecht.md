@@ -23,4 +23,4 @@ Alle Formen:
 | Nominative  | das Geschlecht       | die Geschlechter    |
 | Accusative  | das Geschlecht       | die Geschlechter    |
 | Dative      | dem Geschlecht       | den Geschlechtern   |
-| Genitive    | des Geschlechts      | der Geschlechter    |
+| Genitive    | des Geschlechts      | der Geschlechter    |, [[geschlechtsabhängig]]

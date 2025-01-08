@@ -1,1 +1,1 @@
-, [[tippen]], [[reinschreiben]]
+, [[tippen]], [[reinschreiben]], [[malen]]

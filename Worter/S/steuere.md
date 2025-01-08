@@ -30,4 +30,4 @@ Morpheme: [[steu]][[er]][[e]]
 
 Partizip I: [[steuerend]], Partizip II: [[gesteuert]]
 
-, [[s1 e1]]
+, [[s1 e1]], [[zusteuern]]

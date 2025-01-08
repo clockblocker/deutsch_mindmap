@@ -26,3 +26,4 @@ Einzigartige mögliche Formen:
 
 ---
 [[jeden]], [[zahlreiche]]
+, [[begrenzen]]

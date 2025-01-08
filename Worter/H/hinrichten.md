@@ -1,1 +1,1 @@
-, [[ermordet]], [[ermorden]], [[morden]]
+, [[ermordet]], [[ermorden]], [[morden]], [[Todesstrafe]]

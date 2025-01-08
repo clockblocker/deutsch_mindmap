@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 - Singular: [[Ehre]], [[Ehre]], [[Ehre]], [[Ehre]], [[Ehre]], [[Ehre]]
 - Plural: [[Ehren]], [[Ehren]], [[Ehren]], [[Ehren]], [[Ehren]], [[Ehren]]
-, [[eher]]
+, [[eher]], [[Ehrlich]]

@@ -1,1 +1,4 @@
-, [[Bundestagswahl]], [[Erststimme]], [[Wahl]]🗳️ 🔴 die [[wählen]], [[wahlberechtigt]]
+[[Wahl]]
+
+, [[Bundestagswahl]], [[Erststimme]], 
+🗳️ 🔴 die [[wählen]], [[wahlberechtigt]]

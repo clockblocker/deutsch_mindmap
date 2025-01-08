@@ -1,2 +1,2 @@
 [[ziehen]]
-, [[weiterziehen]], [[anziehen]], [[umziehen]], [[herabgezogen]]
+, [[weiterziehen]], [[anziehen]], [[umziehen]], [[herabgezogen]], [[bezogen]]

@@ -1,28 +1,28 @@
-, [[Freude]]
-
-das [[Vergnügen]], [fɛɐ̯ˈɡnʏːɡən]
+🌟 das [[Vergnügen]], [fɛɐ̯ˈɡnyːɡən]
 die [[Vergnügen]]
-
 
 ---
 Hast du zufällig mal an deinen dreckigen Socken gerochen? Eins kann ich dir sagen: Das ist kein [[Vergnügen]]!
 
+Ich [[schätze]] ich fliege erstmal nach Hause und suche die Luftbändiger. Ach du [[Heiliger]]... Ich hab mein Zimmer seit hundert Jahren nicht mehr [[aufgeräumt]]. Das wird [[garantiert]] kein [[Vergnügen]]
+
 
 ---
-Synonyme: 
-- [[Freude]], [[Spaß]], [[Genuss]], [[Lust]], [[Ergötzung]]
-Antonyme:
-- [[Leid]], [[Quaal]], [[Trauer]], [[Kummer]]
+= [[Freude]], [[Spaß]], [[Genuss]]
+≈ [[Vergnügung]], [[Unterhaltung]], [[Belustigung]], [[Ergötzung]]
+≠ [[Langeweile]], [[Unlust]], [[Trübsal]], [[Missfallen]]
 
 ---
-Übersetzung: pleasure, enjoyment
+pleasure, enjoyment, delight
 
 ---
-Morpheme:
-[[Ver]][[gnüg]][[en]]
+[[ver]]|[[gnüg]]|[[en]]
 
 ---
-Einzigartige mögliche Formen: [[Vergnügens]], [[Vergnügen]], [[Vergnügen]], [[Vergnügungen]]
+N: das [[Vergnügen]], die [[Vergnügen]]  
+A: das [[Vergnügen]], die [[Vergnügen]]  
+G: des [[Vergnügens]], der [[Vergnügen]]  
+D: dem [[Vergnügen]], den [[Vergnügen]]  
 
 ---
-#Substantiv #Neutral, [[s1 e1]], [[Aufgabe]]
+[[vergnügen]], [[vergnüglich]], [[vergnügt]], [[genießen]], [[erfreuen]]

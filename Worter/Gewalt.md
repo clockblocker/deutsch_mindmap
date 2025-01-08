@@ -13,7 +13,7 @@ Synonyme:
 violence, force, power
 
 ---
-[[Ge]][[walt]]
+[[Ge]][[Walt]]
 
 ---
 Case: Singular, Plural  
@@ -23,4 +23,4 @@ Genitive: der [[Gewalt]], der [[Gewalten]]
 Dative: der [[Gewalt]], den [[Gewalten]]  
 
 ---
-[[gewaltig]], [[gewaltsam]], [[Staatsgewalt]], [[Gewaltenteilung]], [[Gewaltbereitschaft]], [[Gewaltopfer]], [[Gewaltprävention]], [[besonders]], [[Faustrecht]]
+[[gewaltig]], [[gewaltsam]], [[Staatsgewalt]], [[Gewaltenteilung]], [[Gewaltbereitschaft]], [[Gewaltopfer]], [[Gewaltprävention]], [[besonders]], [[Faustrecht]], [[Prügelstrafe]], [[Folter]]

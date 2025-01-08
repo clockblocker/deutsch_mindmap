@@ -1,1 +1,1 @@
-, [[Metallteile]], [[Hölzern]]
+, [[Metallteile]], [[Hölzern]], [[Metallrüstung]]

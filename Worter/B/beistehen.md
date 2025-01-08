@@ -1,1 +1,1 @@
-[[überfallen]], [[dienen]], [[reich]], [[herankam]]
+[[überfallen]], [[dienen]], [[reich]], [[herankam]], [[unterstützen]]

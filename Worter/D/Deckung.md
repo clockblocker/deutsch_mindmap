@@ -1,1 +1,1 @@
-, [[Decke]], [[Schutz]]
+, [[Decke]], [[Schutz]], [[Versicherung]]

@@ -2,7 +2,7 @@
 die [[Fäuste]]
 
 ---
-
+uko wird wütend und lässt Feuerdolche aus seiner [[Faust]] [[erscheinen]]
 
 ---
 = [[Boxer]], [[Kämpfer]], [[Schlaghand]]

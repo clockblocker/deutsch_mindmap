@@ -40,4 +40,4 @@ Morpheme: [[heirat]][[en]]
 Partizip I: [[heiratend]], Partizip II: [[geheiratet]]
 
 [[heiraten]] - [[heirat]] = [[en]]
-, [[Braut]], [[verheiratet]], [[verheiraten]]
+, [[Braut]], [[verheiratet]], [[verheiraten]], [[Ehemann]], [[Ehepaar]], [[Ehepartner]]

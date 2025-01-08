@@ -1,1 +1,1 @@
-, [[gehen]], [[stolpern]]
+, [[gehen]], [[stolpern]], [[laufen]]

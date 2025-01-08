@@ -1,1 +1,1 @@
-, [[wahr]], [[richtig]], [[echt]]
+, [[wahr]], [[richtig]], [[echt]], [[Ehrlich]]

@@ -9,6 +9,11 @@ Psychologen [[meinen]], dass 60 Prozent aller Gespräche von Menschen handeln, d
 
 Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen]] [[sammeln]], [[meint]] der Chef.
 
+231. Was bedeutet der [[Begriff]] „europäische Integration“? (92%)
+	- [ ] Damit sind amerikanische [[Einwanderer]] in Europa [[gemeint]].
+	- [ ] Der Begriff meint den [[Einwanderungsstopp]] nach Europa.
+	- [ ] Damit sind europäische Auswanderer in den USA gemeint.
+	- [x] Der Begriff meint den [[Zusammenschluss]] europäischer Staaten zur EU.
 ---
 Synonyme: [[denken]], [[glauben]], [[vermuten]], [[erachten]], [[annehmen]]. [[bedeuten]]
 Antonyme: [[bezweifeln]], [[ablehnen 1]], [[widersprechen]]

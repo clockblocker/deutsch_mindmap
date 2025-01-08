@@ -1,1 +1,1 @@
-, [[Gleichgewicht]], [[Frieden]]
+, [[Gleichgewicht]], [[Frieden]], [[Konflikt]]

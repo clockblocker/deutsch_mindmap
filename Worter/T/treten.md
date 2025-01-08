@@ -14,6 +14,8 @@ haben/sein [[getreten]]
 [[eintreten]] - [[ein]] = [[treten]] / to enter, to step in
 [[auftreten]] - [[auf]] = [[treten]] / to appear, to occur, to perform
 [[beitreten]] - [[bei]] = [[treten]] / to join, to become a member
+[[übertreten]] - [[über]] = [[treten]] / to transgress, to violate, to overstep
+[[vertreten]] - [[ver]] = [[treten]] / to represent, to substitute, to stand in for
 
 
 ---
@@ -40,4 +42,4 @@ Morpheme: [[tret]][[en]]
 
 Partizip I: [[tretend]], Partizip II: [[getreten]]
 
-, [[beitreten]]
+, [[beitreten]], [[übertreten]], [[vertreten]], [[stupsen]]

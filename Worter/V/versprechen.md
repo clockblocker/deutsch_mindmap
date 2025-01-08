@@ -7,6 +7,8 @@ haben [[versprochen]]
 
 – Er hat sein Wort gebrochen. (Er hielt sein [[Versprechen]] nicht.)
 
+Nein! Ich halte nur mein [[Versprechen]], das ich Vater gab. Ich [[beschütze]] euch vor [[Feinden]] wie ihm! _[Zeigt auf Aang]_
+
 ---
 Synonyme: [[zusagen]], [[garantieren]], [[zusichern]], [[gewährleisten]], [[geloben]]
 Antonyme: [[brechen]], [[zurückziehen]], [[verweigern]]

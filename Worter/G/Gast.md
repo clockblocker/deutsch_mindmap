@@ -1,1 +1,1 @@
-, [[Zuschauer]], [[Gastdozent]], [[Gästehaus]], [[Staatsgast]]
+, [[Zuschauer]], [[Gastdozent]], [[Gästehaus]], [[Staatsgast]], [[Gaststättenerlaubnis]], [[Gastarbeiter]]

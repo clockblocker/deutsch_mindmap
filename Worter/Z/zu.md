@@ -1,1 +1,1 @@
-, [[zugeworfen]], [[zumindest]], [[zukommen]], [[da]], [[zunächst]], [[zufriedenstellen]]
+, [[zugeworfen]], [[zumindest]], [[zukommen]], [[da]], [[zunächst]], [[zufriedenstellen]], [[Zulassungsgrenze]], [[zusteuern]], [[zustürmen]]

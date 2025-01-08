@@ -1,1 +1,1 @@
-, [[widerstehen]], [[beschweren]]
+, [[widerstehen]], [[beschweren]], [[Einspruch]]

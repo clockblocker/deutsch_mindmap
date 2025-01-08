@@ -1,1 +1,1 @@
-, [[Braut]]
+, [[Braut]], [[Ehemann]], [[Ehepartner]]

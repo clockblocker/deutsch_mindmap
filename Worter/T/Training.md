@@ -1,1 +1,1 @@
-, [[Ausbildung]], [[Übung]]
+, [[Ausbildung]], [[Übung]], [[Weiterbildung]]

@@ -12,6 +12,9 @@ Sie denken über jede Kleinigkeit lange nach, [[entscheiden]] sich oft um und be
 	- [x] Jeder kann glauben, was er möchte.
 	- [ ] Der Staat [[entscheidet]], an welchen Gott die Menschen glauben.
 
+2. In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes [[entscheiden]], ob es in der Schule am … (92%)
+	- [x] [[Religionsunterricht]] teilnimmt.
+
 ---
 [[umentscheiden]] - [[um]] = [[entscheiden]]
 

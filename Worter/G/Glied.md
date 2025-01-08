@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Glieds]], [[Gliede]], [[Glieder]], [[Gliedern]]
 
 ---
-#Substantiv #Maskulin, [[Schwanz]], [[Gliedmaße]], [[Mitglied]]
+#Substantiv #Maskulin, [[Schwanz]], [[Gliedmaße]], [[Mitglied]], [[Gründungsmitglied]]

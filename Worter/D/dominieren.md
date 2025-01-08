@@ -1,1 +1,1 @@
-, [[dienen]]
+, [[dienen]], [[besiegen]], [[siegen]]

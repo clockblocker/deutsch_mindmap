@@ -19,4 +19,4 @@ Morphems:
 [[Wut]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[aufgebracht]], [[wütend]]

@@ -19,3 +19,4 @@ Beispiele:
 
 #Substantiv
 #Feminin
+, [[bemalen]]

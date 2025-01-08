@@ -1,1 +1,1 @@
-, [[Wiedervereinigung]]
+, [[Wiedervereinigung]], [[aufteilen]]

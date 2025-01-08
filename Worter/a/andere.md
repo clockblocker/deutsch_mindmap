@@ -14,7 +14,7 @@ Wer anders ist als die [[anderen]], eine andere Meinung hat oder auch nur einen 
  
 ---
 Synonyme: 
-- [[verschieden]], [[abweichend]], [[unterschiedlich]], [[sonstig]], [[fremde]]
+- [[verschieden]], [[abweichend]], [[unterschiedlich]], [[sonstig]], [[Fremde]]
 Antonyme:
 - [[gleich]], [[ähnlich]], [[identisch]], [[einheitlich]], [[einerlei]]
 

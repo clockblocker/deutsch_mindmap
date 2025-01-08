@@ -13,4 +13,4 @@ Synonyme:
 **Übersetzung**: directive, instruction
 
 ---
-#Substantiv #Feminin, [[Nachricht]], [[errichteten]]
+#Substantiv #Feminin, [[Nachricht]], [[errichteten]], [[Gericht]], [[Religionsunterricht]], [[Amtsgericht]], [[Richtlinie]], [[Geschichtsunterricht]], [[Politikunterricht]], [[Sprachunterricht]]

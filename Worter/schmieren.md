@@ -27,4 +27,4 @@ Partizip I: [[schmierend]],
 Partizip II: [[geschmiert]]
 
 ---
-[[Schmiere]], [[Schmiererei]], [[Schmierseife]], [[Schmiergel]], [[Schmierstoff]], [[Schmierpapier]]
+[[Schmiere]], [[Schmiererei]], [[Schmierseife]], [[Schmiergel]], [[Schmierstoff]], [[Schmierpapier]], [[bestechen]]

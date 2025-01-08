@@ -1,1 +1,1 @@
-, [[schenken]], [[geben]]
+, [[schenken]], [[geben]], [[abgeben]]

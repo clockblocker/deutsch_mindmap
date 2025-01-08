@@ -25,4 +25,4 @@ Accusative: den [[Gewinn]], die [[Gewinne]]
 Genitive: des [[Gewinns]], der [[Gewinne]]  
 Dative: dem [[Gewinn]], den [[Gewinnen]] 
 
-[[gewinnen]], [[gewinnbringend]], [[Gewinnmargen]], [[Gewinnausschüttung]], [[Vorteil]]
+[[gewinnen]], [[gewinnbringend]], [[Gewinnmargen]], [[Gewinnausschüttung]], [[Vorteil]], [[Wett]]

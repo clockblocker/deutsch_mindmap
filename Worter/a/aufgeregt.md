@@ -34,4 +34,4 @@ Plural: [[aufgeregten]], [[aufgeregteren]], [[aufgeregtetsten]]
 [[Aufregung]], [[Erregung]], [[aufregend]], [[aufregen]]
 
 [[nervös]][[ruhig]], [[beruhig]], [[entspannter]], [[entspannt]]
-, [[weitermachen]], [[schrecklich]], [[begeistert]]
+, [[weitermachen]], [[schrecklich]], [[begeistert]], [[aufgebracht]]

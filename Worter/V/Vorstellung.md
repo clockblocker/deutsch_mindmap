@@ -6,6 +6,8 @@ Jedes Jahr im Frühling plant Familie Gopal-Schmidt ihren Sommerurlaub. Doch die
 
 [[Vorstellungsgespräch]]
 
+[[Gehaltsvorstellungen]]
+
 ---
 Synonyme:
 - [[Präsentation]], [[Einführung]], [[Darstellung]], [[Konzept]], [[Idee]]

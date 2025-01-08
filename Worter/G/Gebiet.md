@@ -26,3 +26,4 @@ D: dem [[Gebiet]], den [[Gebieten]]
 [[gebieten]], [[gebieterisch]], [[Gebietsreform]], [[Gebietsabtretung]], [[Gebietskörperschaft]]
 
 , [[Landschaft]], [[Bereich]], [[Branche]], [[fach]]
+, [[Sektor]]

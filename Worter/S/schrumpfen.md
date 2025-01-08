@@ -29,4 +29,4 @@ Zu+infinitive: [[zu schrumpfen]]
 ---
 [[Schrumpfung]], [[schrumpelig]], [[Schrumpfprozess]], [[Schrumpfware]], [[schrumpfen]]
 
-, [[wachsen]], [[zunehmen]], [[zusammenschrumpfen]]
+, [[wachsen]], [[zunehmen]], [[zusammenschrumpfen]], [[schwinden]]

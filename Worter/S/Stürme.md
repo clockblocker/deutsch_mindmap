@@ -1,1 +1,1 @@
-, [[Sturm]]
+, [[Sturm]], [[stürmen]]

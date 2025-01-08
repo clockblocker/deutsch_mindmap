@@ -19,4 +19,4 @@ Morphems:
 [[Stuhl]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Rollstuhl]]

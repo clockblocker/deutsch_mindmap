@@ -7,6 +7,8 @@
 	- [ ] Sie können gar nichts tun, denn Demonstrationen sind in Deutschland [[grundsätzlich]] verboten.
 	- [ ] Maik und Sybille müssen einen neuen [[Verein]] gründen, weil nur Vereine demonstrieren dürfen.
 
+253. Wo müssen Sie sich [[anmelden]], wenn Sie in Deutschland umziehen? (93%)
+	- [x] beim [[Einwohnermeldeamt]]
 ---
 = [[registrieren]], [[einschreiben]], [[eintragen]]
 ≈ [[sich registrieren]], [[sich anmelden]], [[sich eintragen]]

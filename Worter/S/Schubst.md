@@ -3,6 +3,7 @@
 haben [[geschubst]]
 
 ---
+_Keiner der Bewohner antwortet. Wütend [[schubst]] Zuko Gran Gran wieder zu Katara und [[schießt]] einen Feuerbogen über den Köpfen der Dorfbewohnern durch, die sich erschrocken ducken._
 
 ---
 Synonyme: [[stupsen]], [[stoßen]], [[schieben]], [[drücken]], [[remmen]]

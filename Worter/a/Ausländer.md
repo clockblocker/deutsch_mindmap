@@ -1,1 +1,1 @@
-[[aus]][[Land|länd]]er
+[[aus]][[Land|länd]]er, [[Fremde]], [[Staatsangehörige]]

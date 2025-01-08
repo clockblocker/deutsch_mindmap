@@ -23,4 +23,4 @@ Einzigartige mögliche Formen:
 #Substantiv #Maskulin
 
 , [[Nationalmannschaft]], [[Gesellschaft]], [[Landschaft]]
-, [[Mitgliedschaft]]
+, [[Mitgliedschaft]], [[Wirtschaft]]

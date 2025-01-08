@@ -1,1 +1,1 @@
-, [[Wert]], [[wertvoll]], [[Anerkennung]]
+, [[Wert]], [[wertvoll]], [[Anerkennung]], [[schätzen]]

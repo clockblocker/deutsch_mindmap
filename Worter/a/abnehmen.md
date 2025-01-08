@@ -33,3 +33,4 @@ Partizip I: [[abnehmend]], Partizip II: [[abgenommen]]
 
 
 
+, [[schwinden]]

@@ -1,1 +1,1 @@
-, [[Auswahl]]
+, [[Auswahl]], [[Grenze]], [[begrenzen]], [[begrenzt]]

@@ -1,1 +1,1 @@
-, [[breiten]], [[strecken]]
+, [[breiten]], [[strecken]], [[begrenzen]]

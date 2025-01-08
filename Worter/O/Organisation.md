@@ -1,1 +1,1 @@
-[[Unternehmen]], [[Verein]], [[Ordnung]]
+[[Unternehmen]], [[Verein]], [[Ordnung]], [[Gründungsmitglied]]

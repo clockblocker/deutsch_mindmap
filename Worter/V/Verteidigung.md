@@ -1,1 +1,1 @@
-, [[Schutz]]
+, [[Schutz]], [[wehren]], [[Verteidigungsposition]], [[verteidigen]]

@@ -1,1 +1,1 @@
-[[Treu]], [[verdächtig]]
+[[Treu]], [[verdächtig]], [[Ehrlich]], [[vertreten]]

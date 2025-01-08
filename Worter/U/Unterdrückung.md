@@ -1,1 +1,1 @@
-, [[Meinungsfreiheit]]
+, [[Meinungsfreiheit]], [[Folter]]

@@ -1,4 +1,3 @@
-
 _Unter dem Mondlicht schimmert ein winziges [[Silberfragment]], eine zarte Linie …_
 … schwarze Umhänge fallen …
 … Blut fließt in Strömen und jemand schreit ein Wort.

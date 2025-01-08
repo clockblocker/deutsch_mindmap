@@ -1,1 +1,1 @@
-, [[löffeln]], [[fressen]], [[einigen]], [[eindringen]], [[Ersteinschulung]], [[einziehen]], [[Wiedervereinigung]], [[Einheitliche]], [[beeinflussen]], [[einreisen]], [[reisen]], [[Einwohnermeldeamt]], [[Einheit]]
+, [[löffeln]], [[fressen]], [[einigen]], [[eindringen]], [[Ersteinschulung]], [[einziehen]], [[Wiedervereinigung]], [[Einheitliche]], [[beeinflussen]], [[einreisen]], [[reisen]], [[Einwohnermeldeamt]], [[Einheit]], [[vereinbar]], [[Einspruch]], [[einlegen]], [[legen]], [[vereinen]], [[einbrechen]], [[Einwanderer]], [[Einwanderungsstopp]], [[Einwilligung]]

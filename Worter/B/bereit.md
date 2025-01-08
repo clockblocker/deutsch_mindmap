@@ -7,6 +7,8 @@ Schokolade so [[seidig]], da schmilzt das Herz jeder schönen Frau Bis
 
 Wenn wir dazu nicht [[bereit]] sind, wie können wir uns dann Männer nennen?!
 
+_[[Währenddessen]] ist Sokka in einem Zelt und macht sich für den Kampf [[bereit]]. Er legt die richtige Kleidung an und [[malt]] [[Kriegsbemalung]] in sein Gesicht._
+
 ---
 Synonyme: 
 [[vorbereitet]], [[gewappnet]], [[fertig]], [[parat]], [[gerüstet]]

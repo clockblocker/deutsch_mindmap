@@ -1,1 +1,1 @@
-, [[genießbar]], [[messbar]], [[erreichbar]]
+, [[genießbar]], [[messbar]], [[erreichbar]], [[vereinbar]]

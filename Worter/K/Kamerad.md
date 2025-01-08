@@ -1,1 +1,1 @@
-, [[Freund]], [[Soldat]], [[Kumpel]]
+, [[Freund]], [[Soldat]], [[Kumpel]], [[Feind]]

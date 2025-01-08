@@ -26,3 +26,4 @@ Dative: der [[Decke]], den [[Decken]]
 [[decken]], [[Deckung]], [[bedecken]], [[zudecken]], [[überdecken]]
 
 , [[Haut]], [[Fell]]
+, [[Geheim]]

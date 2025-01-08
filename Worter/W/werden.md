@@ -19,6 +19,10 @@ NIC: Einen heißen Kaffee. Das hier wird ihm Feuer geben.
 
 Prinz Zuko, Ihr braucht auch ein wenig Schlaf. Selbst wenn Ihr Recht haben solltet und der Avatar wirklich am Leben ist, Ihr [[werdet]] ihn nicht finden. 
 
+| Katara. Ich will nicht zwischen dir und deiner Familie stehen. _[Geht traurig weg]_       |
+| ----------------------------------------------------------------------------------------- |
+| Heißt das, dass du nun den Südpol [[verlassen]] [[wirst]]? Dann ist das ein [[Abschied]]? |
+
 ---
 Wir werden eine Rise machen = Futur 
 Wir werden oft gefragt = Passiv

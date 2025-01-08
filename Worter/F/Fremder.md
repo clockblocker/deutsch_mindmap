@@ -1,1 +1,1 @@
-, [[Bewohner]], [[Mitglied]], [[Erziehungsberechtigten]], [[Ansprechpartner]]
+, [[Bewohner]], [[Mitglied]], [[Erziehungsberechtigten]], [[Ansprechpartner]], [[Staatsangehörige]]

@@ -8,6 +8,11 @@ die [[Grundrechte]]
 	- [x] [[Meinungsfreiheit]]
 	- [ ] [[Selbstjustiz]]
 
+303. Welches Grundrecht [[gilt]] in Deutschland nur für Ausländer / Ausländerinnen? Das [[Grundrecht]] auf … (94%)
+	- [ ] Schutz der Familie
+	- [ ] Menschenwürde
+	- [x] [[Asyl]]
+
 ---
 = [[Verfassungsrecht]], [[Menschenrecht]]
 ≈ [[Freiheitsrecht]], [[Bürgerrecht]], [[Individualrecht]]

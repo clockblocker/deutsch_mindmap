@@ -35,4 +35,4 @@ Morpheme: [[ge]][[fall]][[en]]
 | Sie       | [[gefallen]]         | [[gefielen]]          | [[gefallen Sie]]  | [[gefallen]]           | [[gefielen]]           |
 
 Partizip I: [[gefallend]], Partizip II: [[gefallen]]
-[[gefallen]] - [[ge]] = [[fallen]], [[begeistern]], [[widern]], [[ablehnen]]
+[[gefallen]] - [[ge]] = [[fallen]], [[begeistern]], [[widern]], [[ablehnen]], [[schätzen]]

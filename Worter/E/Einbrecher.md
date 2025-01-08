@@ -17,4 +17,4 @@ Morphems:
 [[ein]][[Brecher]]
 
 ---
-#Substantiv #Masculin, [[11 08]], [[Räuber]]
+#Substantiv #Masculin, [[11 08]], [[Räuber]], [[einbrechen]]

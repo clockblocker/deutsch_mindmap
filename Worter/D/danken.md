@@ -29,3 +29,4 @@ Morpheme: [[dank]][[en]]
 | Sie       | [[danken]]           | [[dankten]]           | [[danken Sie]]    | [[danken]]             | [[dankten]]             |
 
 Partizip I: [[dankend]], Partizip II: [[gedankt]]
+, [[Erntedankfest]]

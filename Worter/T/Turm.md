@@ -6,6 +6,8 @@ die [[Türme]]
 
 (Bekommt Schneemassen von dem [[Turm]] ab) Na irre. Du bist ein Luftbändiger, Katara ist eine Wasserbändigerin.
 
+_Im Dorf ist es still, [[während]] Sokka auf das Schiff wartet. Als es kommt [[einbrechen|bricht]] die Mauer und ein [[Turm]] ein._
+
 ---
 Synonyme:
 - [[Hochhaus]], [[Gebäude]], [[Bauwerk]], [[Aussichtsturm]], [[Kirchturm]]

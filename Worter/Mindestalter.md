@@ -24,4 +24,4 @@ G: des [[Mindestalters]], der [[Mindestalter]]
 D: dem [[Mindestalter]], den [[Mindestaltern]]  
 
 ---
-[[mindestens]], [[Alter]], [[Altersgrenze]], [[Altersbeschränkung]]
+[[mindestens]], [[Alter]], [[Altersgrenze]], [[Altersbeschränkung]], [[mindest]]

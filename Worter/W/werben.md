@@ -1,1 +1,1 @@
-[[bewerben]] - [[be]] = [[werben]] / to apply, to seek (a position)
+[[bewerben]] - [[be]] = [[werben]] / to apply, to seek (a position), [[bestechen]]

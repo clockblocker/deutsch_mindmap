@@ -14,7 +14,7 @@ Synonyme:
 agreement, arrangement
 
 ---
-[[Vereinbar]][[ung]]
+[[vereinbar]][[ung]]
 
 ---
 Case: Singular, Plural  
@@ -24,4 +24,4 @@ Genitive: der [[Vereinbarung]], der [[Vereinbarungen]]
 Dative: der [[Vereinbarung]], den [[Vereinbarungen]]  
 
 ---
-[[vereinbaren]], [[vereinbar]], [[unvereinbar]], [[Abkommen]]
+[[vereinbaren]], [[vereinbar]], [[unvereinbar]], [[Abkommen]], [[vereinen]]

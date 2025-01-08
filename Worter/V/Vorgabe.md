@@ -1,1 +1,1 @@
-, [[Richt]]
+, [[Richt]], [[Richtlinie]]

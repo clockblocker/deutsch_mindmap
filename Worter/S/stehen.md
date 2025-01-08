@@ -1,1 +1,1 @@
-, [[aufstehen]], [[gehen]], [[Sitz]]
+, [[aufstehen]], [[gehen]], [[Sitz]], [[gestehen]], [[laufen]]

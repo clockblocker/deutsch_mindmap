@@ -1,1 +1,1 @@
-, [[Feiertag]]
+, [[Feiertag]], [[Wahltag]]

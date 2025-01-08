@@ -29,4 +29,4 @@ Morpheme: [[be]][[wohn]][[en]]
 
 Partizip I: [[bewohnend]], Partizip II: [[bewohnt]], Zu infinitive: zu bewohnen
 
-[[bewohnen]] - [[be]] = [[wohnen]]
+[[bewohnen]] - [[be]] = [[wohnen]], [[beziehen]]

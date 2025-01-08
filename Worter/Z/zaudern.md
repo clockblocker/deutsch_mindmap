@@ -1,1 +1,1 @@
-, [[zögern]]
+, [[zögern]], [[stürmen]], [[zustürmen]]

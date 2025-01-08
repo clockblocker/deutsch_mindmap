@@ -1,1 +1,1 @@
-, [[frieren]], [[zufrieren]], [[erfrieren]]
+, [[frieren]], [[zufrieren]], [[erfrieren]], [[Eisgebilde]]

@@ -4,6 +4,7 @@
 247. Eine Frau ist [[schwanger]]. Sie ist kurz vor und nach der [[Geburt]] ihres Kindes vom [[Gesetz]] [[besonders]] [[beschützt]]. Wie heißt dieser [[Schutz]]? (99%)
 	- [x] [[Mutterschutz]]
 
+Nein! Ich halte nur mein [[Versprechen]], das ich Vater gab. Ich [[beschütze]] euch vor [[Feinden]] wie ihm! _[Zeigt auf Aang]_
 
 ---
 = [[verteidigen]], [[schützen]], [[bewahren]]

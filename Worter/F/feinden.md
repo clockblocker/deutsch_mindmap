@@ -1,7 +1,7 @@
 🏹 [[feinden]], [ˈfaɪ̯ndən] | [[feindete]], haben [[gefeindet]]
 
 ---
-
+Nein! Ich halte nur mein [[Versprechen]], das ich Vater gab. Ich [[beschütze]] euch vor [[Feinden]] wie ihm! _[Zeigt auf Aang]_
 
 ---
 [[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
@@ -15,7 +15,7 @@ Antonyme: [[lieben]], [[unterstützen]], [[freundlich sein]]
 to be hostile, to act as an enemy
 
 ---
-[[feind]][[en]]
+[[Feind]][[en]]
    
 
 ---

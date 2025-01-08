@@ -6,6 +6,8 @@ Katara und Sokka stehen auf und ein [[leuchtender]] Eisberg [[auftauchten|taucht
 
 Katara sieht den Eisberg genauer an und erkennt einen Jungen mit [[leuchtenden]] Pfeilen auf dem Kopf und den Händen. 
 
+Plötzlich [[leuchtet auf|leuchtet]] [[weit]] [[entfernt]] am Himmel ein [[leuchtender]] Punkt auf, der immer näher kommt. - Sokkas Bumeraang! 
+
 ---
 Synonyme: 
 [[glänzend]], [[strahlend]], [[hell]], [[erstrahlend]], [[erstrahlig]], [[funkelnder]]

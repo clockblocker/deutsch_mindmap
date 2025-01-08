@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schrittes]], [[Schritt]], [[Schritte]], [[Schritten]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Maßnahme]]

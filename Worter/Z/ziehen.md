@@ -3,6 +3,8 @@
 haben [[gezogen]]
 
 ---
+_Er [[mustert]] alle Dorfbewohner, [[greift]] plötzlich nach [[vorne]] und zieht Gran Gran nach vorne._
+
 - SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?\
 - Also [[ziehen]] Sie Ihre Strandkleider an!
 
@@ -20,7 +22,8 @@ haben [[gezogen]]
 - [[hochziehen]] - [[hoch]] = [[ziehen]] / to pull up, to lift up
 - [[ausziehen]] - [[aus]] = [[ziehen]]  / extract, to move out, to undress
 - [[einziehen]] - [[ein]] = [[ziehen]] / to move in, to settle, to draw in
-
+- [[vorziehen]] - [[vor]] = [[ziehen]] / to prefer, to choose before
+- [[beziehen]] - [[be]] = [[ziehen]] / move in, to draw, to refer to
 ---
 Synonyme: [[zerren]], [[reißen]], [[schleifen]], [[schleppen]], [[verziehen]]
 Antonyme: [[schieben]], [[heben]], [[legen]], [[drücken]], [[stoßen]]
@@ -45,4 +48,4 @@ Morpheme: [[zieh]][[en]]
 | Sie | [[ziehen]] | [[zogen]] | [[ziehen Sie]] | [[ziehen]] | [[zögen]] |
 
 Partizip I: [[ziehend]], Partizip II: [[gezogen]]
-, [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]], [[losziehen]], [[hochziehen]], [[Schubst]], [[einziehen]], [[herabgezogen]], [[herabziehen]]
+, [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]], [[losziehen]], [[hochziehen]], [[Schubst]], [[einziehen]], [[herabgezogen]], [[herabziehen]], [[vorziehen]], [[beziehen]]

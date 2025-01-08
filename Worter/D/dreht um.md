@@ -1,1 +1,1 @@
-[[umdrehen]] + Akk, [ˈʊmdʀeːən], [[s1 e1]]
+[[umdrehen]] + Akk, [ˈʊmdʀeːən], [[s1 e1]], [[wütend]]

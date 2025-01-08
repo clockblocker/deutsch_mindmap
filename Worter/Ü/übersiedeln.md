@@ -1,1 +1,1 @@
-, [[umziehen]], [[einziehen]]
+, [[umziehen]], [[einziehen]], [[beziehen]]

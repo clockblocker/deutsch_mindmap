@@ -1,1 +1,1 @@
-, [[endlos]]
+, [[endlos]], [[begrenzen]]

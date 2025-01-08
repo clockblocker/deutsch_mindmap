@@ -1,1 +1,1 @@
-, [[Einwand]]
+, [[Einwand]], [[Einspruch]], [[Einwilligung]]

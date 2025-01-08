@@ -1,1 +1,1 @@
-, [[dringen]], [[eindringen]]
+, [[dringen]], [[eindringen]], [[einbrechen]]

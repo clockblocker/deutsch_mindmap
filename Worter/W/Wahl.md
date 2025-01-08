@@ -10,7 +10,8 @@ die [[Wahlen]]
 	- [ ] Man darf Geld [[annehmen]], wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin [[wählt]].
 	- [x] Der [[Wähler]] darf bei der [[Wahl]] weder [[beeinflusst]] noch zu einer bestimmten [[Stimmabgabe]] [[gezwungen]] werden und keine [[Nachteile]] durch die Wahl haben.
 
-
+295. Ab welchem Alter darf man in Deutschland an der [[Wahl]] zum Deutschen Bundestag teilnehmen? (94%)
+	- [x] 18
 ---
 = [[Abstimmung]], [[Entscheidung]]
 ≈ [[Votum]], [[Auswahl]], [[Option]]
@@ -31,4 +32,4 @@ D: der [[Wahl]], den [[Wahlen]]
 ---
 [[wählen]], [[wählbar]], [[Wahllokal]], [[Wahlurne]], [[Wahlkampf]]
 
-, [[Auswahl]], [[Entscheidung]], [[Bundestagswahl]], [[Direktkandidat]], [[Wahlpflicht]], [[wahlberechtigt]]
+, [[Auswahl]], [[Entscheidung]], [[Bundestagswahl]], [[Direktkandidat]], [[Wahlpflicht]], [[wahlberechtigt]], [[Landtagswahl]], [[Briefwahl]], [[Wahltag]]

@@ -10,6 +10,9 @@ die [[Gesetze]]
 
 [[Grundgesetz]], [[gesetzlich]]
 
+Deutschland ist ein Rechtsstaat. Was ist damit gemeint? (94%)
+	- [x] Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die [[Gesetze]] halten.
+
 ---
 = [[Vorschrift]], [[Regel]], [[Bestimmung]]
 ≈ [[Verordnung]], [[Erlass]], [[Verfahrensregel]], [[Norm]]

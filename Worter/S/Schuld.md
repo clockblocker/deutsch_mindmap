@@ -7,6 +7,8 @@ Ist es jetzt noch meine [[Schuld]], ja?!
 
 Bei seinem alten Lehrer hatte er immer gute Noten! Ganz bestimmt ist es Ihre [[Schuld]], dass er plötzlich so schlecht ist!“
 
+Katara hat keine [[Schuld]]. Ich hab sie [[überredet]]. _[Sieht [[schuldbewusst]] nach unten]_ Es ist meine Schuld.
+
 ---
 Synonyme:
 - [[Verantwortung]], [[Haftung]], [[Verschulden]], [[Straftat]], [[Vergehen]]  

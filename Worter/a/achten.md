@@ -36,4 +36,4 @@ PI: [[achtend]], PII: [[geachtet]], Zu+inf: [[zu achten]]
 [[achten]] - pure verb / to respect, to pay attention to
 
 ---
-[[Achtung]], [[achtbar]], [[achtsam]], [[Achtsamkeit]], [[verachten]], [[beachten]]
+[[Achtung]], [[achtbar]], [[achtsam]], [[Achtsamkeit]], [[verachten]], [[beachten]], [[schätzen]]

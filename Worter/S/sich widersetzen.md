@@ -1,1 +1,1 @@
-, [[widerstehen]], [[folgen]], [[feinden]]
+, [[widerstehen]], [[folgen]], [[feinden]], [[wehren]]

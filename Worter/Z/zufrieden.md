@@ -2,6 +2,8 @@
 nicht [[unzufrieden]]
 
 ---
+[[Wütend]]_ Bist du jetzt [[zufrieden]]? Da geht meine einzige Chance jemals ein Wasserbändiger zu werden! _[Geht weg]_
+
 Heute tragen nur noch wenige Menschen Hüte. Trotzdem gibt es viele Leute, die alles unter einen Hut bringen wollen, damit jeder [[zufrieden]] ist.
 
 Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. Jannis [[lächelt]]. Er hat wieder eine gute Entscheidung [[getroffen]].
@@ -9,6 +11,7 @@ Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. J
 „Sag ich doch“, sagt Peter. „Sie wickelt dich immer um den Finger, und du merkst es einfach nicht.“ Leo [[zuckt]] mit den [[Schultern]]. Er denkt an das [[zufriedene]] Lächeln seiner Freundin und den [[Glanz]] in ihren schönen Augen, als er ihr versprochen hat, mit ihr zu dem Konzert zu gehen. 
 
 Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] freundlich. „Sind Sie ganz sicher, dass Sie alles richtig installiert haben?“, fragt er Uli, „unsere Kunden waren bisher immer [[zufrieden]]. Es hat sich niemand über dieses Modell [[beschwert]].“ 
+
 
 ---
 Synonyme: [[glücklich]], [[froh]], [[befriedigt]], [[entspannt]], [[gelassen]]

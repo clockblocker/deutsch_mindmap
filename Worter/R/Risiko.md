@@ -26,3 +26,4 @@ D: dem [[Risiko]], den [[Risiken]]
 [[riskant]], [[riskieren]], [[Risikomanagement]], [[Risikobereitschaft]], [[risikofrei]]
 
 , [[Risiko]], [[eigentlich]], [[Schutz]], [[Geburtsvorbereitung]]
+, [[Versicherung]], [[Lebensversicherung]]

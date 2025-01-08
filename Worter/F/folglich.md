@@ -1,1 +1,1 @@
-, [[deshalb]], [[trotzdem]], [[CONNECTOR]], [[desto]]
+, [[deshalb]], [[trotzdem]], [[CONNECTOR]], [[desto]], [[dadurch]], [[somit]]

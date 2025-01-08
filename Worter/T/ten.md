@@ -1,1 +1,1 @@
-, [[fürchten]], [[übernachten]], [[beitreten]], [[gelten]], [[antun]], [[schütten]]
+, [[fürchten]], [[übernachten]], [[beitreten]], [[gelten]], [[antun]], [[schütten]], [[übertreten]]

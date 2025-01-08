@@ -1,1 +1,1 @@
-, [[reißen]], [[schneiden]]
+, [[reißen]], [[schneiden]], [[aufteilen]]

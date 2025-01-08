@@ -1,1 +1,1 @@
-📝 [[bewerben]] + Akk/um + Akk, [bəˈveːɐ̯bən]
+📝 [[bewerben]] + Akk/um + Akk, [bəˈveːɐ̯bən], [[Bewerb]]

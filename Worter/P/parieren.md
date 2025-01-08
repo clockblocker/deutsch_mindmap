@@ -1,1 +1,1 @@
-, [[kontern]]
+, [[kontern]], [[verteidigen]]

@@ -1,1 +1,1 @@
-, [[Bewohner]], [[Mitglied]], [[Ansprechpartner]]
+, [[Bewohner]], [[Mitglied]], [[Ansprechpartner]], [[Fremde]]

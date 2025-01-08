@@ -1,1 +1,1 @@
-[[teilen]]
+[[teilen]], [[aufteilen]]

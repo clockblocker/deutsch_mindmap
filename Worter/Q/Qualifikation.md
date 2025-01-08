@@ -1,1 +1,1 @@
-, [[geeignet]], [[Schulabschluss]]
+, [[geeignet]], [[Schulabschluss]], [[Weiterbildung]]

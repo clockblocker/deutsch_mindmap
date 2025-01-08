@@ -1,1 +1,1 @@
-, [[Kindererziehung]]
+, [[Kindererziehung]], [[Prügelstrafe]]

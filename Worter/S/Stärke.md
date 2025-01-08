@@ -1,1 +1,1 @@
-[[Energie]], [[Vorteil]]
+[[Energie]], [[Vorteil]], [[Schwäche]]

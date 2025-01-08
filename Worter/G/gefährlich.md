@@ -36,3 +36,4 @@ Einzigartige mögliche Formen:
 [[gefährlichste]], [[gefährlichster]], [[gefährlichste]], [[gefährlichstes]], [[gefährlichsten]], [[gefährlichstem]], [[gefährlichster]], [[gefährlichsten]]
 
 , [[tödlich]]
+, [[Gefahr]]

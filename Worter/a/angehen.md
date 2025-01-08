@@ -9,6 +9,10 @@
 Da [[angehen|ging]] eine [[schlimme]] Zeit für das arme [[Stiefkind]] an. 
 "Soll die dumme [[Gans]] bei uns in der [[Stube]] sitzen!" sprachen sie, "wer Brot essen will, muß [[verdienen]]: hinaus mit der [[Küchenmagd]]!" 
 
+251. Wenn man in Deutschland ein Kind schlägt, … (93%)
+	- [ ] [[angehen|geht]] das [[niemanden]] etwas an.
+	- [ ] [[angehen|geht]]  das nur die Familie etwas an.
+
 ---
 Synonyme: [[beginnen]], [[starten]], [[einleiten]], [[in Angriff nehmen]], [[aufnehmen]]
 Antonyme: [[aufhören]], [[beenden]], [[stoppen]], [[abbrechen]]

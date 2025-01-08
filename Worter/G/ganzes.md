@@ -1,1 +1,1 @@
-[[ganz]], [[halbes]]
+[[ganz]], [[halbes]], [[Sektor]]

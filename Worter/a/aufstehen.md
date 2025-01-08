@@ -1,1 +1,1 @@
-, [[aufstehen]], [[Aufstand]]
+, [[aufstehen]], [[Aufstand]], [[plumpsen]]

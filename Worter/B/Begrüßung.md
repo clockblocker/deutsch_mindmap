@@ -32,4 +32,4 @@ Beispiele:
 1. Eine herzliche Begrüßung
 2. Die Begrüßung war sehr freundlich
 3. Unterschiedliche Begrüßungen in verschiedenen Kulturen
-, [[Gruß]]
+, [[Gruß]], [[Abschied]]

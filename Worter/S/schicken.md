@@ -10,6 +10,8 @@ Darum [[schickte]] ein General
 
 ([[Schickt]] einen Feuerstoß zu Zuko) Diesmal, aber bitte richtig.
 
+*Sokka ist es während dessen [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem [[Angriffsgeschrei]] auf Zuko zu. Dieser duckt sich [[geschickt]] und Sokka fliegt über ihn [[hinweg]].*
+
 ---
 [[verschicken]] - [[ver]] = [[schicken]]
 [[wegschicken]] - [[weg]] = [[schicken]]

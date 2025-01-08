@@ -1,1 +1,1 @@
-, [[aufstehen]], [[steilen]]
+, [[aufstehen]], [[steilen]], [[legen]]

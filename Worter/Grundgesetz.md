@@ -8,6 +8,11 @@ die [[Grundgesetze]]
 	- [ ] aus dem [[Grundgesetz]] der Bundesrepublik Deutschland
 	- [ ] aus der christlichen Tradition
 
+10. Was ist mit dem deutschen [[Grundgesetz]] [[vereinbar]]? (93%)
+	- [ ] die [[Prügelstrafe]]
+	- [ ] die [[Folter]]
+	- [ ] die [[Todesstrafe]]
+	- [x] die [[Geldstrafe]]
 
 ---
 = [[Verfassung]], [[Staatsgrundgesetz]]

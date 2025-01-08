@@ -1,1 +1,1 @@
-, [[Gebetshaus]], [[Moschee]]
+, [[Gebetshaus]], [[Moschee]], [[Bettag]]

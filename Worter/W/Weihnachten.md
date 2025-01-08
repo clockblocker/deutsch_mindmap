@@ -22,4 +22,4 @@ Genitive: des [[Weihnachtens]], -
 Dative: dem [[Weihnachten]], -  
 
 ---
-[[weihnachtlich]], [[Weihnachtsbaum]], [[Weihnachtsmann]], [[Weihnachtsgeschenk]], [[Weihnachtslied]], [[Pfingsten]]
+[[weihnachtlich]], [[Weihnachtsbaum]], [[Weihnachtsmann]], [[Weihnachtsgeschenk]], [[Weihnachtslied]], [[Pfingsten]], [[Adventszeit]]

@@ -21,3 +21,4 @@ Einzigartige mögliche Formen:
 [[endlos]], [[endloser]], [[endlose]], [[endloses]], [[endlosen]], [[endlosem]], [[endloser]], [[endlosen]]
 [[endloser]], [[endloserer]], [[endlosere]], [[endloseres]], [[endloseren]], [[endloserem]], [[endloserer]], [[endloseren]]
 [[endlosesten]], [[endlosester]], [[endloseste]], [[endlosestes]], [[endlosesten]], [[endloestem]], [[endlosester]], [[endlosesten]]
+, [[begrenzen]]

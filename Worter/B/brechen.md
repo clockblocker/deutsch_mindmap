@@ -42,4 +42,4 @@ Morpheme: [[brech]][[en]]
 
 Partizip I: [[brechend]], Partizip II: [[gebrochen]]
 
-, [[unterbrechen]], [[zusammenbrechen]], [[versprechen]], [[übers Knie brechen]]
+, [[unterbrechen]], [[zusammenbrechen]], [[versprechen]], [[übers Knie brechen]], [[einbrechen]]

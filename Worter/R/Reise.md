@@ -16,4 +16,4 @@ Morphems:
 [[Reise]]
 
 ---
-#Substantiv #Feminin, [[11 08]], [[einreisen]]
+#Substantiv #Feminin, [[11 08]], [[einreisen]], [[Reisepass]]

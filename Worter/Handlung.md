@@ -26,4 +26,4 @@ G: der [[Handlung]], der [[Handlungen]]
 D: der [[Handlung]], den [[Handlungen]]  
 
 ---
-[[handeln]], [[handlungslos]], [[handlungsfähig]], [[handlungsorientiert]], [[antun]]
+[[handeln]], [[handlungslos]], [[handlungsfähig]], [[handlungsorientiert]], [[antun]], [[Maßnahme]]

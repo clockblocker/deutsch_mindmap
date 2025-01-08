@@ -1,1 +1,1 @@
-, [[Schrei]]
+, [[Schrei]], [[Angriffsgeschrei]]

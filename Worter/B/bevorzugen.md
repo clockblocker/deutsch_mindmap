@@ -1,1 +1,1 @@
-, [[mögen]]
+, [[mögen]], [[vorziehen]], [[unterstützen]]

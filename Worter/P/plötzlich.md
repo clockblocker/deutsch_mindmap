@@ -1,6 +1,8 @@
 😲 [[plötzlich]], [ˈplœt͡sliç]
 
 ---
+_Er [[mustert]] alle Dorfbewohner, [[greift]] [[plötzlich]] nach [[vorne]] und zieht Gran Gran nach vorne._
+
 *da sah sie [[plötzlich]] vor sich stehn*  
 *ein Feuerzeug, nett anzusehn.*  
 
@@ -13,6 +15,7 @@ Bei seinem alten Lehrer hatte er immer gute Noten! Ganz bestimmt ist es Ihre Sch
 
 Julian spricht gerade über den [[vorläufigen]] [[Zeitplan]] und alle sind konzentriert bei der Sache. [[Plötzlich]] steht Maja neben ihm. Er hat sie gar nicht kommen hören. 
 
+Plötzlich [[leuchtet auf|leuchtet]] weit [[entfernt]] am Himmel ein [[leuchtender]] Punkt auf, der immer näher kommt. - Sokkas Bumeraang! 
 
 ---
 Synonyme: [[unerwartet]], [[unverhofft]], [[abrupt]], [[schlagartig]], [[urplötzlich]]

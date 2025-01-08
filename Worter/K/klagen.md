@@ -1,1 +1,1 @@
-, [[seufzen]], [[stöhnen]]
+, [[seufzen]], [[stöhnen]], [[anklagen]]

@@ -30,4 +30,4 @@ Bedeutungen:
 Beispielsätze:
 - "Die Regel besagt, dass man pünktlich sein soll."
 - "Es gibt immer Ausnahmen von der Regel."
-- "Die Grammatikregel hilft beim richtigen Schreiben.", [[zufrieren]], [[Ordnung]]
+- "Die Grammatikregel hilft beim richtigen Schreiben.", [[zufrieren]], [[Ordnung]], [[Richtlinie]]

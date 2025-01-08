@@ -6,6 +6,9 @@ Das ist mit [[Sicherheit]] die schnellere Variante, denn nicht nur das Warten au
 
 [[Staatssicherheit]]
 
+36. Welche [[Maßnahme]] [[schafft]] in Deutschland soziale [[Sicherheit]]? (93%)
+	- [x] die [[Krankenversicherung]]
+
 ---
 Synonyme:
 - [[Geborgenheit]], [[Schutz]], [[Vertrauen]], [[Stabilität]], [[Gewissheit]]
@@ -21,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sicherheit]], [[Sicherheiten]]
 
 ---
-#Substantiv #Feminin, [[Verkehrstote]], [[Risiko]]
+#Substantiv #Feminin, [[Verkehrstote]], [[Risiko]], [[Versicherung]], [[Gefahr]]

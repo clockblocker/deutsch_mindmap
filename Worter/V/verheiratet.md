@@ -28,4 +28,4 @@ N: [[verheiratetes]], [[verheirateres]], [[verheiratatestes]]
 P: [[verheirateten]], [[verheiraterer]], [[verheiratatsten]]  
 
 ---
-[[Heirat]], [[heiraten]], [[Verheiratung]], [[Ehe]], [[ehelich]],  [[Braut]], [[alleinerziehend]]
+[[Heirat]], [[heiraten]], [[Verheiratung]], [[Ehe]], [[ehelich]],  [[Braut]], [[alleinerziehend]], [[Ehepaar]]

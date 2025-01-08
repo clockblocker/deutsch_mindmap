@@ -1,1 +1,1 @@
-, [[Auswahl]], [[Osterweiterung]], [[Grundrecht]]
+, [[Auswahl]], [[Osterweiterung]], [[Grundrecht]], [[Gaststättenerlaubnis]]

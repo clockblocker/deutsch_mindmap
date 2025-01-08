@@ -9,6 +9,11 @@ die [[Begriffe]]
 	- [ ] die Fraktion mit den meisten [[Abgeordneten]].
 	- [ ] alle Parteien, die bei der letzten [[Wahl]] die 5%-[[Hürde]] [[erreichen]] konnten.
 
+231. Was bedeutet der [[Begriff]] „europäische Integration“? (92%)
+	- [ ] Damit sind amerikanische [[Einwanderer]] in Europa [[gemeint]].
+	- [ ] Der Begriff meint den [[Einwanderungsstopp]] nach Europa.
+	- [ ] Damit sind europäische Auswanderer in den USA gemeint.
+	- [x] Der Begriff meint den [[Zusammenschluss]] europäischer Staaten zur EU.
 
 ---
 = [[Konzept]], [[Idee]], [[Vorstellung]]

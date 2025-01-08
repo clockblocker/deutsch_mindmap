@@ -1,1 +1,1 @@
-, [[Faustrecht]]
+, [[Faustrecht]], [[Prügelstrafe]]

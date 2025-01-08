@@ -1,1 +1,1 @@
-, [[wegschubsen]]
+, [[wegschubsen]], [[verbannen]]

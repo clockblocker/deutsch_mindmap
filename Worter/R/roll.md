@@ -1,1 +1,1 @@
-, [[rollen]]
+, [[rollen]], [[Rollstuhl]]

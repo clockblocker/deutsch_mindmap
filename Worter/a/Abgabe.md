@@ -1,1 +1,1 @@
-, [[Steuer]], [[Kirchensteuer]], [[Lohnsteuer]], [[Stimmabgabe]], [[Vereinsbeitrag]], [[Kirchensteuern]]
+, [[Steuer]], [[Kirchensteuer]], [[Lohnsteuer]], [[Stimmabgabe]], [[Vereinsbeitrag]], [[Kirchensteuern]], [[abgeben]]

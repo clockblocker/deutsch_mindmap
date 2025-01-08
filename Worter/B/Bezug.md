@@ -29,3 +29,4 @@ D: dem [[Bezug]], den [[Bezügen]]
 [[beziehen]], [[bezüglich]], [[Bezugnahme]], [[Bezugsquelle]], [[beziehungsweise]]
 
 , [[Decke]]
+, [[bezogen]]

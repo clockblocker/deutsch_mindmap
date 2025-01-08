@@ -1,0 +1,1 @@
+, [[Prügelstrafe]], [[Folter]]

@@ -1,1 +1,1 @@
-, [[wegdrehen]], [[abbiegen]]
+, [[wegdrehen]], [[abbiegen]], [[zusteuern]]

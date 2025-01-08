@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Hand]], [[Hands]], [[Hände]], [[Händen]]
 
 ---
 #Substantiv #Feminin
-''', [[Handschuh]], [[Handlung]], [[Faust]]
+''', [[Handschuh]], [[Handlung]], [[Faust]], [[Unterarm]]

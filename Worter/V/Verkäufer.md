@@ -26,4 +26,4 @@ Tags:
 
 ---
 
-, [[Fachverkäufer]]
+, [[Fachverkäufer]], [[Buchhalter]]

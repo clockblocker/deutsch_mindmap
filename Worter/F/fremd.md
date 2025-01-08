@@ -30,7 +30,7 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[fremd]], [[fremde]], [[fremdes]], [[fremder]], [[fremden]], [[fremdem]]
+[[fremd]], [[Fremde]], [[fremdes]], [[fremder]], [[fremden]], [[fremdem]]
 [[fremder]], [[fremderen]], [[fremdere]], [[fremderes]], [[fremderen]], [[fremderm]], [[fremder]], [[fremderen]]
 [[fremdesten]], [[fremdester]], [[fremdeste]], [[fremdstes]], [[fremdesten]], [[fremdesten]], [[fremdester]], [[fremdesten]]
 

@@ -1,1 +1,1 @@
-, [[Waffenbesitz]]
+, [[Waffenbesitz]], [[Dolch]]

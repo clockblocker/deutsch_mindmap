@@ -1,1 +1,1 @@
-c удовольствием, [[bald]], [[gezwungen]]
+c удовольствием, [[bald]], [[gezwungen]], [[freiwillig]]

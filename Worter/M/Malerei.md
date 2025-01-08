@@ -1,1 +1,1 @@
-, [[Kunst]], [[Malbuch]]
+, [[Kunst]], [[Malbuch]], [[malen]], [[bemalen]]

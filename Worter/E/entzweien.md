@@ -1,1 +1,1 @@
-[[trennen]], [[heiraten]], [[verfeinden]]
+[[trennen]], [[heiraten]], [[verfeinden]], [[vereinen]]

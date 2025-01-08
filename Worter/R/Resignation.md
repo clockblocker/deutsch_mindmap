@@ -1,1 +1,1 @@
-, [[Schulterzucken]], [[Anspruch]]
+, [[Schulterzucken]], [[Anspruch]], [[Bewerb]]

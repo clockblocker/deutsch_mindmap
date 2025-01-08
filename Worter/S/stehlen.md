@@ -33,4 +33,4 @@ Morpheme: [[steh]][[l]][[en]]
 | Sie       | [[stehlen]]          | [[stahlent]]          | [[stehlen Sie]]   | [[stehlen]]            | [[stählen]]             |
 
 Partizip I: [[stehlend]], Partizip II: [[gestohlen]]
-[[stehlen]] - [[]] = [[]], [[rauben]]
+[[stehlen]] - [[]] = [[]], [[rauben]], [[einbrechen]]

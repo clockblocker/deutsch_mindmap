@@ -3,6 +3,9 @@
 ---
 Die Lehrerin nickt. „Eine gute Idee. Aber das wird nicht einfach und könnte für alle schnell [[peinlich]] werden.“ Doch Martins Mutter ist sich sicher, dass sie das [[schafft]].
 
+36. Welche [[Maßnahme]] [[schafft]] in Deutschland soziale [[Sicherheit]]? (93%)
+	- [x] die [[Krankenversicherung]]
+
 ---
 = [[erschaffen]], [[herstellen]], [[produzieren]]
 ≈ [[kreieren]], [[erzeugen]], [[bewirken]], [[zustande bringen]]

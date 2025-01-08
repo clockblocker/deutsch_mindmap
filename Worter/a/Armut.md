@@ -1,1 +1,1 @@
-, [[Taschengeld]]
+, [[Taschengeld]], [[Wirtschaft]]

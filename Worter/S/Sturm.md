@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sturms]], [[Stürme]], [[Stürmen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[stürmen]], [[vorstürmen]]

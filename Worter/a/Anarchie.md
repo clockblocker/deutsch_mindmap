@@ -1,1 +1,1 @@
-, [[Gesetz]], [[Faustrecht]]
+, [[Gesetz]], [[Faustrecht]], [[Gericht]]

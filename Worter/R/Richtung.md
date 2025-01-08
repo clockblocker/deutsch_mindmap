@@ -30,4 +30,4 @@ Einzigartige mögliche Formen:
 [[Richtung]], [[Richtungern]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[zusteuern]]

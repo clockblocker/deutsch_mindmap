@@ -21,4 +21,4 @@ Synonyme:
 **Übersetzung**: further, continue, go on
 
 ---
-#Adverb, [[weit]], [[vorwärts]], [[voraus]], [[weiterüben]], [[enger]], [[weitermachen]], [[Umgebung]], [[quietschen]], [[weitergehen]]
+#Adverb, [[weit]], [[vorwärts]], [[voraus]], [[weiterüben]], [[enger]], [[weitermachen]], [[Umgebung]], [[quietschen]], [[weitergehen]], [[Weiterbildung]]

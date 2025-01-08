@@ -1,1 +1,1 @@
-[[glücklich]], [[fröhlich]], [[munter]], [[erfreut]], [[enttäuscht]]
+[[glücklich]], [[fröhlich]], [[munter]], [[erfreut]], [[enttäuscht]], [[schuldbewusst]]

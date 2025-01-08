@@ -29,4 +29,4 @@ Morpheme: [[richt]][[en]]
 | Sie | [[richten]] | [[richteten]] | [[richten Sie]] | [[richten]] | [[richteten]] |
 
 Partizip I: [[richtend]], Partizip II: [[gerichtet]]
-, [[biegen]], [[errichteten]]
+, [[biegen]], [[errichteten]], [[Gericht]], [[Richtlinie]]

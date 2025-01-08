@@ -3,4 +3,4 @@
 Möchten Sie hier sitzen? ... oder [[Da]]?  
 
 
-там[[Dazu]], [[dagegen]], [[davon]], [[daran]], [[dahinter]], [[darauf]], [[daß]]
+там[[Dazu]], [[dagegen]], [[davon]], [[daran]], [[dahinter]], [[darauf]], [[daß]], [[dadurch]]

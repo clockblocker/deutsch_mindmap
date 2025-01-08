@@ -16,7 +16,11 @@ Peter erinnert ihn an das Fußballturnier letzten Sommer. Leo hat nicht mitspiel
 
 Der Löwe [[schaute]] ihn eine Zeit lang an und machte sich dann auf den Weg zu den Giraffen. Glück gehabt! Nächstes Jahr möchte Fred [[unbedingt]] nach London. Den Buckingham Palace wollte er schon immer sehen …
 
-
+256. Ein [[Ehepaar]] möchte in Deutschland ein Restaurant [[eröffnen]]. Was braucht es dazu [[unbedingt]]? (93%)
+	- [ ] eine [[Erlaubnis]] der Polizei
+	- [ ] eine [[Genehmigung]] einer Partei
+	- [ ] eine [[Genehmigung]] des [[Einwohnermeldeamts]]
+	- [x] eine [[Gaststättenerlaubnis]] von der [[zuständigen]] [[Behörde]]
 
 ---
 Synonyme: [[auf jeden Fall]], [[auf alle Fälle]], [[definitiv]], [[sicher]], [[gewiss]], [[nötig]], [[bald]]

@@ -1,1 +1,1 @@
-[[Quirlen]], [[einschlagen]]
+[[Quirlen]], [[einschlagen]], [[öffnen]]

@@ -9,6 +9,7 @@
 
 Nur wenigen [[gelingt]] es, sich von ihrem eigenen [[Schatten]] zu [[lösen]]: Lucky Luke zum Beispiel [[schießt]] schneller als er und Peter Pan sucht ihn. 
 
+_Keiner der Bewohner antwortet. Wütend [[schubst]] Zuko Gran Gran wieder zu Katara und [[schießt]] einen Feuerbogen über den Köpfen der Dorfbewohnern durch, die sich erschrocken ducken._
 
 ---
 Synonyme: [[ballern]], [[zielen]], [[abfeuern]], [[werfen]], [[treffen]]

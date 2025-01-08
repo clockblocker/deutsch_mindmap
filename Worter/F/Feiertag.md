@@ -28,4 +28,4 @@ G: des [[Feiertags]], der [[Feiertage]]
 D: dem [[Feiertag]], den [[Feiertagen]]  
 
 ---
-[[feiern]], [[festlich]], [[Feiertagsstimmung]], [[arbeitsfreier Tag]]
+[[feiern]], [[festlich]], [[Feiertagsstimmung]], [[arbeitsfreier Tag]], [[Bettag]]

@@ -2,6 +2,8 @@
 nicht [[eng]]
 
 ---
+Der Junge wirft einen Speer zu Sokka, der ihn fängt und sofort einen [[weiteren]] [[Angriff]] auf Zuko startet.
+
 *Sie leben hinterm Sonnenschein*  
 *getrennt von uns unendlich [[weit]].*  
 
@@ -14,6 +16,9 @@ nicht [[eng]]
 Wer kennt das nicht: Man hat zugenommen und muss den Gürtel ganz [[weit]] machen.
 
 Sein Nachbar hört ihn schon von [[Weitem]]
+
+Plötzlich [[leuchtet auf|leuchtet]] [[weit]] [[entfernt]] am Himmel ein [[leuchtender]] Punkt auf, der immer näher kommt. - Sokkas Bumeraang! 
+
 
 ---
 Synonyme: 
@@ -44,4 +49,4 @@ Einzigartige mögliche Formen:
 , [[schmale]], [[fern]], [[nah]], [[klein]]
 
 ---
-, [[fernab]], [[weit und breit]]
+, [[fernab]], [[weit und breit]], [[begrenzen]]

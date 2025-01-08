@@ -1,6 +1,8 @@
 🔍 [[außerdem]], [ˈaʊ̯səɐ̯ˌdem]
 
 ---
+Er müsste etwa in ihrem [[Alter]] sein. [[Außerdem]] Herr aller Elemente!
+
 [[außerdem]] holt ihn meine Mutter am Bahnhof Friedrichstraße ab.
 
 Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. [[außerdem]] habe ich mich [[bisher]] viel zu wenig mit [[Naturschutz]] [[beschäftigt]]. Ich werde bestimmt viel Neues lernen. Man muss nicht [[unbedingt]] um die halbe Welt reisen, um über den Tellerrand zu schauen, Brüderchen!“

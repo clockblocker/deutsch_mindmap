@@ -7,6 +7,7 @@ die Familie [[betritt]] den Vorplatz.
 
 Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den Fahrstuhl, acht andere Menschen [[betreten]] den Fahrstuhl,
 
+Katara du wusstest, dass das [[Betreten]] des Schiffes [[verboten]] ist! Sokka hat leider Recht. Ich halte es auch für das Beste, wenn der Luftbändiger geht.
 
 ---
 Synonyme: [[besteigen]], [[betreten]], [[überschreiten]], [[eintreten]], [[hineinschreiten]]

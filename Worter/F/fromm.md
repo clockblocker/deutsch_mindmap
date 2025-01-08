@@ -29,4 +29,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[fromm]], [[frommer]], [[fromme]], [[frommes]], [[frommen]], [[frommerem]], [[frommerer]], [[frommeren]]
 [[frömmsten]], [[frömmster]], [[frömmste]], [[frommstes]], [[frömmsten]], [[frommstem]], [[frömmster]], [[frömmsten]]
-, [[verscheiden]]
+, [[verscheiden]], [[Bettag]]

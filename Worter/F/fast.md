@@ -1,11 +1,9 @@
-, [[bald]]
-I'll analyze "fast" and create an appropriate template. It looks like "fast" is an adverb in this context.
-
-'''
-fast, [fɑst]
+fast, [fɑst], [[bald]]
 
 ---
-Und manche Menschen hören sich dabei [[fast]] so an wie ein Vogel – wie der Zaunkönig, der auch Schneekönig genannt wird.** 
+Und manche Menschen hören sich dabei [[fast]] so an wie ein Vogel – wie der Zaunkönig, der auch Schneekönig genannt wird. 
+
+_[Dreht sich zu dem Kind]_ Ich werde euch auch sehr vermissen. _Er sieht zu Katara, die [[fast]] weint und zieht Appa an den [[Zügeln]]_ Komm mein Junge.
 
 ---
 Synonyme: [[beinahe]], [[nahezu]], [[annähernd]], [[ungefähr]], [[etwa]]

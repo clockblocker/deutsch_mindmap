@@ -20,4 +20,4 @@ Morphologie:
 #Adverb
 
 [[hinaus]], [[vorwärts]], [[Herbei]]
-, [[anwesend]], [[hinweg]]
+, [[anwesend]], [[hinweg]], [[forttragen]]

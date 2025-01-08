@@ -1,1 +1,1 @@
-, [[Religionspflicht]]
+, [[Religionspflicht]], [[Religionsunterricht]]

@@ -1,1 +1,1 @@
-[[aussuchen]], [[bewerben]], [[pflichten]], [[anbieten]], [[ablehnen]], [[annehmen]], [[leugnen]], [[empfangen]], [[ungerechtfertigen]]
+[[aussuchen]], [[bewerben]], [[pflichten]], [[anbieten]], [[ablehnen]], [[annehmen]], [[leugnen]], [[empfangen]], [[ungerechtfertigen]], [[unterstützen]], [[vertreten]]

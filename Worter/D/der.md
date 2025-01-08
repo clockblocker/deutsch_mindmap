@@ -1,1 +1,1 @@
-, [[derselben]], [[dieselbe]], [[weder]]
+, [[derselben]], [[dieselbe]], [[weder]], [[fördern]]

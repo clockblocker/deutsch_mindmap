@@ -1,1 +1,1 @@
-, [[überweisen]], [[Weisheit]]
+, [[überweisen]], [[Weisheit]], [[Personalausweis]], [[Sozialversicherungsausweis]], [[Ausweis]]

@@ -1,1 +1,1 @@
-, [[danken]], [[Gedanke]], [[trotz]], [[bedanken]]
+, [[danken]], [[Gedanke]], [[trotz]], [[bedanken]], [[Erntedankfest]]

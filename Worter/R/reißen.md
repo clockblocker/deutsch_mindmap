@@ -11,6 +11,8 @@ haben [[gerissen]]
 *Und dann [[reißen|reiß]] ich der Puppe den Kopf ab*  
 *Dann [[abreißen|reiß]] ich der Puppe den Kopf ab*  
 
+Das Ende, dass noch in Sokkas Hand steckt, [[reißt]] Zuko ihm aus der Hand, [[stupst]] Sokka mit dem [[dumpfen]] Ende gegen die [[Stirn]], der in den Schnee [[plumpst]], und [[zerbricht]] den [[Rest]]
+
 ---
 [[ausreißen]] - [[aus]] = [[reißen]]
 [[anreißen]] - [[an]] = [[reißen]]

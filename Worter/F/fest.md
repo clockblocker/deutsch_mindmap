@@ -75,4 +75,4 @@ G: des [[Festes]], der [[Feste]]
 D: dem [[fest]], den [[Festen]]  
 
 ---
-[[feiern]], [[festlich]], [[Festung]], [[Festtag]], [[Festlichkeit]]
+[[feiern]], [[festlich]], [[Festung]], [[Festtag]], [[Festlichkeit]], [[Erntedankfest]]

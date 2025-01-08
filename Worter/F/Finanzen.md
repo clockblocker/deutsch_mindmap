@@ -1,1 +1,1 @@
-, [[Geld]], [[finanziell]]
+, [[Geld]], [[finanziell]], [[Wirtschaft]]

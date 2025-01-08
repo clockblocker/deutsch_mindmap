@@ -5,6 +5,7 @@ haben [[aufgeleuchtet]]
 ---
 Plötzlich [[leuchtet]] das Wasser unter der Eisscholle hellblau [[auf]]
 
+Plötzlich [[leuchtet auf|leuchtet]] [[weit]] [[entfernt]] am Himmel ein [[leuchtender]] Punkt auf, der immer näher kommt. - Sokkas Bumeraang! 
 
 ---
 Synonyme: [[erleuchten]], [[erhellen]], [[beleuchten]], [[erstrahlen]], [[glänzen]]

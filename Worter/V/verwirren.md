@@ -1,1 +1,1 @@
-[[regeln]], [[klären]], [[richten]]
+[[regeln]], [[klären]], [[richten]], [[begreifen]]

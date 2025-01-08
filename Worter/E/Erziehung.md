@@ -29,4 +29,4 @@ D: der [[Erziehung]], den [[Erziehungen]]
 ---
 [[erziehen]], [[erzieherisch]], [[Erzieher]], [[Erzieherin]], [[Erziehungsberechtigter]]
 
-, [[Ausbildung]], [[Erziehungsberechtigten]], [[Kindererziehung]], [[alleinerziehend]], [[Erziehungsproblem]], [[Erzie­hung]]
+, [[Ausbildung]], [[Erziehungsberechtigten]], [[Kindererziehung]], [[alleinerziehend]], [[Erziehungsproblem]], [[Erzie­hung]], [[Prügelstrafe]]

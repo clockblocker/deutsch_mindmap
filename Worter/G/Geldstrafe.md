@@ -8,6 +8,12 @@ die [[Geldstrafen]]
 	- [ ] gar nicht, [[Holocaustleugnung]] ist [[erlaubt]]
 	- [x] mit [[Freiheitsstrafe]] bis zu fünf Jahren oder mit [[Geldstrafe]]
 
+10. Was ist mit dem deutschen [[Grundgesetz]] [[vereinbar]]? (93%)
+	- [ ] die [[Prügelstrafe]]
+	- [ ] die [[Folter]]
+	- [ ] die [[Todesstrafe]]
+	- [x] die [[Geldstrafe]]
+
 ---
 = [[Bußgeld]], [[Strafzahlung]], [[Geldbuße]]
 ≈ [[Zahlung]], [[Sanktion]], [[Penalty]]
@@ -26,4 +32,4 @@ G: der [[Geldstrafe]], der [[Geldstrafen]]
 D: der [[Geldstrafe]], den [[Geldstrafen]]  
 
 ---
-[[bestrafen]], [[zahlen]], [[Strafe]], [[geldlich]], [[Strafzahlung]]
+[[bestrafen]], [[zahlen]], [[Strafe]], [[geldlich]], [[Strafzahlung]], [[Todesstrafe]]

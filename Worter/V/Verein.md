@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Vereins]], [[Vereinen]], [[Vereinen]], [[Vereine]], [[Vereinen]]
 
 ---
-#Substantiv #Maskulin, [[Sportverein]], [[Vereinsbeitrag]]
+#Substantiv #Maskulin, [[Sportverein]], [[Vereinsbeitrag]], [[Gründungsmitglied]], [[vereinen]]

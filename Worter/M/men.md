@@ -1,1 +1,1 @@
-, [[nehm]]
+, [[nehm]], [[stürmen]], [[vorstürmen]]

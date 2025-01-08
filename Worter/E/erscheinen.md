@@ -7,6 +7,8 @@ Als der Leopard das Fleisch des Hirsches fraß, [[erschien]] ein Löwe, der vert
 
 Die Kamera schwenkt nach unten, und die [[gestalten]] von Aang und Katara [[erscheinen]] über dem Horizont.
 
+Zuko wird wütend und lässt [[Feuerdolche]] aus seiner [[Faust]] [[erscheinen]]
+
 ---
 Synonyme: [[auftauchen]], [[auftreten]], [[daherkommen]], [[hervortreten]], [[sich zeigen]]
 Antonyme: [[verschwinden]], [[verbergen]], [[verstecken]]

@@ -7,7 +7,8 @@ haben [[geschieden]]
 
 ---
 [[entscheiden]] - [[ent]] = [[scheiden]] / decide
-[[umentscheiden]] - [[um]] - [[ent]] = [[entscheiden]]
+[[umentscheiden]] - [[um]] - [[ent]] = [[scheiden]] /  to reconsider, to change one's mind
+[[abscheiden]] - [[ab]] = [[scheiden]] / to separate, to secrete, to isolate
 
 
 
@@ -36,4 +37,4 @@ Morpheme: [[scheide]][[n]]
 
 Partizip I: [[scheidend]], Partizip II: [[geschieden]]
 
-[[scheiden]] - [[scheide]] = [[n]][[vermischen]], [[heiraten]], [[trauen]], [[entscheiden]], [[antrauen]], [[mischen]], [[verscheiden]], [[verheiraten]]
+[[scheiden]] - [[scheide]] = [[n]][[vermischen]], [[heiraten]], [[trauen]], [[entscheiden]], [[antrauen]], [[mischen]], [[verscheiden]], [[verheiraten]], [[abscheiden]], [[Ehescheidung]]

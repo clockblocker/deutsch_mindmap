@@ -26,4 +26,4 @@ G: der [[Freiheitsstrafe]], der [[Freiheitsstrafen]]
 D: der [[Freiheitsstrafe]], den [[Freiheitsstrafen]]  
 
 ---
-[[strafen]], [[verurteilen]], [[Freiheit]], [[einsperren]], [[inhaftieren]]
+[[strafen]], [[verurteilen]], [[Freiheit]], [[einsperren]], [[inhaftieren]], [[Todesstrafe]]

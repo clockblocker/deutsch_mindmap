@@ -1,1 +1,1 @@
-, [[Vorschlag]], [[Richt]], [[Ratschlag]], [[Aufträgen]], [[Aufruf]]
+, [[Vorschlag]], [[Richt]], [[Ratschlag]], [[Aufträgen]], [[Aufruf]], [[Richtlinie]]

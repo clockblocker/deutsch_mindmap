@@ -19,4 +19,4 @@ Morphems:
 [[Zwang]]
 
 ---
-#Substantiv #Masculin, [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]]
+#Substantiv #Masculin, [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]], [[Folter]]

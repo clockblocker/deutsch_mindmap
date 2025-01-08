@@ -4,6 +4,8 @@ die [[Bögen]]
 ---
 _Katara und Sokka fliegen in hohem Bogen aus dem Boot und landen auf einer großen Scholle. 
 
+ Dieser fliegt in hohem [[Bogen]] nach hinten, verliert seinen Helm landet auf dem Gesicht. Sein Helm landet auf seinem [[Po]]._
+
 ---
 Synonyme:
 - [[Kurve]], [[Wölbung]], [[Krümmung]], [[Schleife]], [[Schwung]]

@@ -1,1 +1,1 @@
-[[untergehen]], [[anfangen]], [[angehen]], [[aufhören]]
+[[untergehen]], [[anfangen]], [[angehen]], [[aufhören]], [[eröffnen]]

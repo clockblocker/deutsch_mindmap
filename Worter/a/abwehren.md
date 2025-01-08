@@ -1,1 +1,1 @@
-, [[angreifen]], [[wehrten]], [[wegshlagen]], [[eindringen]]
+, [[angreifen]], [[wehrten]], [[wegshlagen]], [[eindringen]], [[wehren]], [[verteidigen]]

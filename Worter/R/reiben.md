@@ -4,7 +4,9 @@ haben [[gerieben]]
 
 ---
 Ich [[reibe]] mir die Hände
-Ich [[reibst]] dir die Hände
+Du [[reibst]] dir die Hände
+
+Sokka [[reibt]] sich die Stirn. 
 
 ---
 Synonyme: [[scheuern]], [[putzen]], [[polieren]], [[wischen]], [[abreiben]], [[bürsten]]

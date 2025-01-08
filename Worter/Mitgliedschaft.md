@@ -26,4 +26,4 @@ G: der [[Mitgliedschaft]], der [[Mitgliedschaften]]
 D: der [[Mitgliedschaft]], den [[Mitgliedschaften]]  
 
 ---
-[[Mitglied]], [[mitgliedlich]], [[Mitgliedsbeitrag]], [[Vereinsmitgliedschaft]], [[Beitritt]], [[beitreten]], [[Vereinsbeitrag]]
+[[Mitglied]], [[mitgliedlich]], [[Mitgliedsbeitrag]], [[Vereinsmitgliedschaft]], [[Beitritt]], [[beitreten]], [[Vereinsbeitrag]], [[angehören]]

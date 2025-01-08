@@ -1,1 +1,1 @@
-, [[Bezug]]
+, [[Bezug]], [[beziehen]]

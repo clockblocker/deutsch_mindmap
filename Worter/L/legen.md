@@ -1,8 +1,4 @@
-📍 [[legen]]  
-[[legte]]  
-haben [[gelegt]]
-
-![[Pasted image 20240703130355.png]]
+🛏️ [[legen]], [ˈleːɡən] | [[legte]], haben [[gelegt]]
 
 ---
  Machen Sie sich frei, [[legen]] Sie sich hin!  
@@ -10,62 +6,30 @@ haben [[gelegt]]
 ---
 +[[über]] = 💭 [[überlegen]] /  to think over, to consider, to ponder
 [[anlegen]] - [[an]] = [[legen]] / to dock, to put down, to apply, to invest
-
-
----
-
-**Synonyme:**
-
-- [[platzieren]], [[setzen]], [[stellen]]
+[[einlegen]] - [[ein]] = [[legen]] / to insert, to place, to put in, to pickle
 
 ---
-
-**Beispiele:**
-
-- Ich [[lege]] das Buch auf den Tisch.
-- Du [[legst]] den Stift hin.
-- Er [[legt]] den Schlüssel ab.
-- Es [[legt]] das Ei ins Nest.
-- Sie [[legt]] das Kind ins Bett.
-- Wir [[legen]] die Karten auf den Tisch.
-- Ihr [[legt]] die Blumen ins Wasser.
-- Sie [[legen]] das Fundament.
+= [[ablegen]], [[niederlegen]], [[platzieren]], [[positionieren]]
+≈ [[stellen]], [[setzen]], [[lagern]], [[drapieren]]
+≠ [[aufnehmen]], [[erheben]], [[aufstellen]]
 
 ---
-
-**Übersetzung**:
-to lay, to place
+to lay, to put down
 
 ---
- #Verb
+[[leg]]|[[en]]
 
 ---
+ich: [[lege]], [[legte]], –, [[lege]], [[legte]]
+du: [[legst]], [[legtest]], [[lege]] | [[leg]], [[legest]], [[legtest]]
+er/sie/es: [[legt]], [[legte]], –, [[lege]], [[legte]]
+wir: [[legen]], [[legten]], [[legen wir|legen]], [[legen]], [[legten]]
+ihr: [[legt]], [[legtet]], [[legt]], [[leget]], [[legtet]]
 
-**Präteritum:**
-
-- Ich [[legte]] das Buch auf den Tisch.
-- Du [[legtest]] den Stift hin.
-- Er [[legte]] den Schlüssel ab.
-- Es [[legte]] das Ei ins Nest.
-- Sie [[legte]] das Kind ins Bett.
-- Wir [[legten]] die Karten auf den Tisch.
-- Ihr [[legtet]] die Blumen ins Wasser.
-- Sie [[legten]] das Fundament.
+PI: [[legend]], PII: [[gelegt]], Zu+inf: [[zu legen]]
 
 ---
-
-**Imperativ:**
-
-- Ich [[lege]] das Buch hin.
-- Du [[leg|lege]] das Buch hin.
-- Er [[lege]] das Buch hin.
-- Es [[legt]] das Buch hin.
-- Sie [[lege]] das Buch hin.
-- Wir [[legen]] das Buch hin.
-- Ihr [[legt]] das Buch hin.
-- Sie [[legen]] das Buch hin.
+[[legen]] - regular verb / to lay, to put down
 
 ---
-
-**Morphems of only infinitive:**  
-- [[leg]][[en]][[ziehen]][[hinlegen]], [[stecken]]
+[[Lage]], [[Lagerung]], [[Ablage]], [[Legung]], [[Verlegung]], [[Vorlage]]

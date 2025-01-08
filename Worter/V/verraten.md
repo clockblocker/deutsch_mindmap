@@ -31,4 +31,4 @@ Zu+infinitive: [[zu verraten]]
 [[verraten]] - [[ver]] = [[raten]], to betray, to reveal, to disclose
 
 ---
-[[Verrat]], [[Verräter]], [[Verräterin]], [[verräterisch]], [[verrätisch]]
+[[Verrat]], [[Verräter]], [[Verräterin]], [[verräterisch]], [[verrätisch]], [[gestehen]]

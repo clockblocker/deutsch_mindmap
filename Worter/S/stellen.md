@@ -73,4 +73,4 @@ to place, to put, to set
 ---
 
 **Morphems of only infinitive:**  
-- [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]], [[vorstellen]], [[Darstellung]], [[anstellen]], [[zufriedenstellen]]
+- [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]], [[vorstellen]], [[Darstellung]], [[anstellen]], [[zufriedenstellen]], [[legen]]

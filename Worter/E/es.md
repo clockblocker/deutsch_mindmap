@@ -1,1 +1,1 @@
-, [[Waldesrand]], [[blindes]], [[halbes]], [[beliebtes]]
+, [[Waldesrand]], [[blindes]], [[halbes]], [[beliebtes]], [[Todesstrafe]]

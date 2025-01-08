@@ -1,1 +1,1 @@
-, [[tätig]], [[Arbeitsamt]], [[erwerbstätig]]
+, [[tätig]], [[Arbeitsamt]], [[erwerbstätig]], [[Arbeitslosenversicherung]]

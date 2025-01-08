@@ -1,1 +1,1 @@
-[[nachher]], [[hinterdrein]], [[zuvor]], [[inzwischen]], [[vorn]], [[da]], [[CONNECTOR]]
+[[nachher]], [[hinterdrein]], [[zuvor]], [[inzwischen]], [[vorn]], [[da]], [[CONNECTOR]], [[Währenddessen]]

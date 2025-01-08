@@ -1,1 +1,1 @@
-, [[brüllen]]
+, [[brüllen]], [[Angriffsgeschrei]]

@@ -1,1 +1,1 @@
-, [[Bundestagswahl]]
+, [[Bundestagswahl]], [[Landtagswahl]]

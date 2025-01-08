@@ -1,1 +1,1 @@
-, [[Gespräch]], [[Partygespräch]]
+, [[Gespräch]], [[Partygespräch]], [[Vergnügen]]

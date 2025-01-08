@@ -29,4 +29,4 @@ PI: [[einreisend]], PII: [[eingereist]], Zu+inf: [[einzureisen]]
 [[einreisen]] - [[ein]] = [[reisen]] / to enter, to arrive in a country
 
 ---
-[[Einreise]], [[Einreiseerlaubnis]], [[Einreisegenehmigung]], [[Reise]], [[Reisender]]
+[[Einreise]], [[Einreiseerlaubnis]], [[Einreisegenehmigung]], [[Reise]], [[Reisender]], [[Reisepass]]

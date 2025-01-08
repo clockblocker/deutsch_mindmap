@@ -1,1 +1,1 @@
-[[stehlen]], [[wechseln]], [[ablösen]], [[umtauschen]]
+[[stehlen]], [[wechseln]], [[ablösen]], [[umtauschen]], [[vertreten]]

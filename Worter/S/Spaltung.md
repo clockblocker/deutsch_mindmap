@@ -1,1 +1,1 @@
-, [[Wiedervereinigung]], [[Einheit]]
+, [[Wiedervereinigung]], [[Einheit]], [[Zusammenschluss]]

@@ -37,4 +37,4 @@ Morpheme: [[wähl]][[en]]
 
 Partizip I: [[wählend]], Partizip II: [[gewählt]]
 
-, [[anrufen]], [[entscheiden]], [[entschließen]], [[ablehnen]], [[Zweitstimme]], [[Bundestagswahl]], [[Erststimme]], [[Wahlpflicht]], [[Wahl]]
+, [[anrufen]], [[entscheiden]], [[entschließen]], [[ablehnen]], [[Zweitstimme]], [[Bundestagswahl]], [[Erststimme]], [[Wahlpflicht]], [[Wahl]], [[Landtagswahl]], [[Briefwahl]], [[Wahltag]], [[vorziehen]], [[Wählerstimmen]]

@@ -1,1 +1,1 @@
-, [[eingehen]], [[Geburt]]
+, [[eingehen]], [[Geburt]], [[schwinden]]

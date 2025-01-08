@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 
 
 , [[ehemaligen]], [[ehemalige]], [[bevor]]
-, [[verheiratet]], [[verheiraten]]
+, [[verheiratet]], [[verheiraten]], [[Ehemann]], [[Ehepaar]], [[Ehepartner]], [[Ehescheidung]]

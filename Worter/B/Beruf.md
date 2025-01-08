@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Berufs]], [[Berufe]], [[Berufen]]
 
 ---
-#Substantiv #Maskulin, [[erwerbstätig]]
+#Substantiv #Maskulin, [[erwerbstätig]], [[berufsbezogen]]

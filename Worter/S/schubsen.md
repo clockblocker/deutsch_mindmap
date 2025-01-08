@@ -1,1 +1,1 @@
-, [[stoßen]], [[Schubst]], [[wegschubsen]]
+, [[stoßen]], [[Schubst]], [[wegschubsen]], [[stupsen]]

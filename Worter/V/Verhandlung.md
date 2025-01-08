@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Verhandlung]], [[Verhandlung]], [[Verhandlung]], [[Verhandlungen]], [[Verhandlung]], [[Verhandlung]], [[Verhandlung]], [[Verhandlungen]]
 
 ---
-#Substantiv #Feminin, [[verhandelen]]
+#Substantiv #Feminin, [[verhandelen]], [[Weltkrieg]]

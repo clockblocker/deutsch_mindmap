@@ -25,4 +25,4 @@ Morpheme: [[tob]][[en]]
 | Ihr | [[tobt]] | [[tobtet]] | [[tobt]] | [[tobet]] | [[tobtet]] |
 | Sie | [[toben]] | [[tobten]] | [[toben Sie]] | [[toben]] | [[tobten]] |
 
-Partizip I: [[tobend]], Partizip II: [[getobt]]
+Partizip I: [[tobend]], Partizip II: [[getobt]], [[stürmen]]

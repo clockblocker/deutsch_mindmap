@@ -1,1 +1,1 @@
-, [[bestrafen]], [[Freiheitsstrafe]], [[Geldstrafe]]
+, [[bestrafen]], [[Freiheitsstrafe]], [[Geldstrafe]], [[Prügelstrafe]], [[Todesstrafe]]

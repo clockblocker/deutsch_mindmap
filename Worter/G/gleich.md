@@ -55,4 +55,4 @@ Einzigartige mögliche Formen:
 , [[11 08]], [[s1 e1]]
 
 [[geselle]], [[Gesellschaft]], 
-, [[solche]], [[dieselbe]]
+, [[solche]], [[dieselbe]], [[gleichzeitig]]

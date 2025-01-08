@@ -1,1 +1,1 @@
-, [[zulaufen]]
+, [[zulaufen]], [[zustürmen]]

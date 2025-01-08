@@ -1,1 +1,1 @@
-, [[gehen]], [[weitergehen]]
+, [[gehen]], [[weitergehen]], [[abschleppen]], [[plumpsen]]

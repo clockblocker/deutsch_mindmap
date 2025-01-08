@@ -1,1 +1,1 @@
-, [[bestimmt]], [[Geheimnis]], [[ratlos]], [[fest]], [[Versicherungspflicht]]
+, [[bestimmt]], [[Geheimnis]], [[ratlos]], [[fest]], [[Versicherungspflicht]], [[Versicherung]], [[garantiert]]

@@ -4,16 +4,12 @@ die [[Behörden]]
 ---
 23. In Deutschland sind die [[meisten]] [[Erwerbstätigen]] … (97%)
 	- [x] bei einer Firma oder [[Behörde]] [[beschäftigt]].
-	- [ ] in kleinen Familienunternehmen beschäftigt.
-	- [ ] [[ehrenamtlich]] für ein Bundesland tätig.
-	- [ ] [[selbständig]] mit einer eigenen Firma tätig.
 
 284. Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)
-	- [ ] Ich kann nichts tun.
-	- [ ] Ich muss mir diese [[Behandlung]] gefallen lassen.
-	- [ ] Ich [[drohe]] der Person.
 	- [x] Ich kann mich beim [[Behördenleiter]] / bei der Behördenleiterin [[beschweren]].
 
+256. Ein [[Ehepaar]] möchte in Deutschland ein Restaurant [[eröffnen]]. Was braucht es dazu [[unbedingt]]? (93%)
+	- [x] eine [[Gaststättenerlaubnis]] von der [[zuständigen]] [[Behörde]]
 ---
 = [[Verwaltung]], [[Amt]], [[Dienststelle]]
 ≈ [[Büro]], [[Institution]], [[Verwaltungsorgan]], [[Einrichtung]]

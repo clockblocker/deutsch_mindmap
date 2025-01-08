@@ -1,1 +1,1 @@
-, [[Wahl]], [[Stimmabgabe]]
+, [[Wahl]], [[Stimmabgabe]], [[Wählerstimmen]]

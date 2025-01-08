@@ -4,7 +4,9 @@ die [[Geheimnisse]]
 ---
 Unter einer [[Decke]] ist es warm und gemütlich. Was darunter passiert, kann man von außen nicht sehen. Es bleibt [[geheim]]. 
 
-
+112. Die [[Wahlen]] in Deutschland sind … (93%)
+	- [ ] speziell.
+	- [x] [[geheim]].
 ---
 Synonyme:
 - [[Mysterium]], [[Enigma]], [[Rätsel]], [[Vertraulichkeit]], [[Verschwiegenheit]]

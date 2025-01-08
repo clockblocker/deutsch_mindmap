@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Handels]], [[Handel]], [[Händler]], [[Händler
 
 ---
 
-#Substantiv #Maskulin[[handeln]], [[verhandelen]], [[Verhandlung]], [[behandeln]]
+#Substantiv #Maskulin[[handeln]], [[verhandelen]], [[Verhandlung]], [[behandeln]], [[Wirtschaft]]

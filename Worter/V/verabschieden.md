@@ -1,1 +1,1 @@
-[[wiedersehen]], [[begrüßen]]
+[[wiedersehen]], [[begrüßen]], [[Abschied]]

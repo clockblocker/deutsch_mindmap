@@ -8,7 +8,9 @@ Es gibt Leute, die bei eBay einen Koffer für den Urlaub kaufen wollen und nach 
 	- [ ] Sie muss [[mindestens]] zehn Jahre in Deutschland leben, bevor sie den [[Führerschein]] machen kann.
 	- [x] Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur [[Auswahl]].
 
-
+299. Was muss jeder deutsche Staatsbürger / jede deutsche Staatsbürgerin ab dem 16. [[Lebensjahr]] besitzen? (94%)
+	- [x] einen [[Personalausweis]]
+	- [ ] einen [[Führerschein]]
 ---
 Synonyme:
 - [[Fahrlizenz]], [[Fahrerlaubnis]], [[Permis]], [[Fahrkarte]]
@@ -25,4 +27,4 @@ Einzigartige mögliche Formen: [[Führerscheins]], [[Führerschein]], [[Führers
 
 ---
 #Substantiv #Maskulin
-, [[Führerscheinprüfung]]
+, [[Führerscheinprüfung]], [[Reisepass]], [[Personalausweis]], [[Sozialversicherungsausweis]]

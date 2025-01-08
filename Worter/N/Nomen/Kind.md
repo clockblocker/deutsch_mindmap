@@ -16,4 +16,4 @@ Translation:
 ---
 
 #Substantiv #Neuter  
-, [[Töchterlein]], [[Stiefkind]]
+, [[Töchterlein]], [[Stiefkind]], [[Jugendliche]]

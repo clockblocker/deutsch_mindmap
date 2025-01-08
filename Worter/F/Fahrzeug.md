@@ -1,1 +1,1 @@
-, [[Trabant]]
+, [[Trabant]], [[Rollstuhl]]

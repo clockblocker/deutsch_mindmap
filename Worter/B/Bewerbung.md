@@ -35,4 +35,4 @@ Einzigartige mögliche Formen:
 Verwandte Wörter:
 - [[bewerben]]
 - [[Bewerber]]
-- [[Bewerbungsschreiben]]
+- [[Bewerbungsschreiben]], [[Bewerb]]

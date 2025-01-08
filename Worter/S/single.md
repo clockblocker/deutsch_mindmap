@@ -1,1 +1,1 @@
-, [[verheiratet]]
+, [[verheiratet]], [[Ehepaar]], [[Ehepartner]]

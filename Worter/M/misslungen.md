@@ -1,1 +1,1 @@
-, [[gutgehen]], [[erfolgreich]]
+, [[gutgehen]], [[erfolgreich]], [[gelungen]]

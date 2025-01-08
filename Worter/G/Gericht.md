@@ -1,23 +1,40 @@
-🔵 das [[Gericht]]
+🟢 🍽️ das [[Gericht]], [ɡəˈʁɪçt]
 die [[Gerichte]]
 
-Beispiele:
+---
+146. Wie nennt man in Deutschland ein [[Verfahren]] vor einem [[Gericht]]? (91%)
+	- [x] [[Prozess]]
+
 
 - SAM: Ja, das [[Gericht]] des Tages ist Pudelauflauf …  
-- Das [[Gericht]] schmeckt hervorragend.
-- Die [[Gerichte]] in diesem Restaurant sind sehr vielfältig.
-- Er hat ein einfaches, aber leckeres [[Gericht]] gekocht.
+- [ ] Die [[Gerichte]] machen die Gesetze.
+
+137. Welches [[Gericht]] ist in Deutschland bei [[Konflikten]] in der [[Arbeitswelt]] [[zuständig]]? (93%)
+	- [x] das [[Arbeitsgericht]]
+
+139. Wann kommt es in Deutschland zu einem Prozess vor [[Gericht]]? Wenn jemand … (93%)
+	- [ ] zu einer anderen Religion [[übertritt]].
+	- [x] eine [[Straftat]] begangen hat und [[angeklagt]] wird.
+	- [ ] eine andere Meinung als die der [[Regierung]] [[vertritt]].
+	- [ ] sein Auto falsch geparkt hat und es [[abgeschleppt]] wird.
+---
+= [[Gerichtshof]], [[Justizorgan]], [[Gerichtsbarkeit]]
+≈ [[Tribunal]], [[Rechtsprechung]], [[Rechtbank]]
+≠ [[Gesetzlosigkeit]], [[Willkür]], [[Anarchie]]
 
 ---
-Synonyme:
-- [[Speise]], [[essen]], [[Menü]]
+court, tribunal, judicial body, dish
 
 ---
-**Übersetzung**: dish, meal
+[[Ge]]|[[richt]]
 
 ---
-Morphems:
-[[Gericht]]
+N: das [[Gericht]], die [[Gerichte]]  
+A: das [[Gericht]], die [[Gerichte]]  
+G: des [[Gerichts]], der [[Gerichte]]  
+D: dem [[Gericht]], den [[Gerichten]]  
 
 ---
-#Substantiv #Neuter[[Braten]], [[Arbeitsgericht]], [[Standesamt]]
+[[richten]], [[gerichtlich]], [[Richter]], [[Rechtsprechung]], [[verurteilen]]
+[[Braten]], [[Arbeitsgericht]], [[Standesamt]]
+, [[Amtsgericht]]

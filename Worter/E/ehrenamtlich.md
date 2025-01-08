@@ -6,6 +6,9 @@ nicht [[bezahlt]], [[hauptberuflich]]
 	- [x] bei einer Firma oder [[Behörde]] [[beschäftigt]].
 	- [ ] [[ehrenamtlich]] für ein Bundesland tätig.
 
+132. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
+	- [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
+	- [ ] Sie arbeiten in der [[Bundesregierung]].
 ---
 = [[freiwillig]], [[unentgeltlich]], [[freiberuflich]]
 ≈ [[gemeinnützig]], [[uneigennützig]], [[selbstlos]]

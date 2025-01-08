@@ -1,1 +1,1 @@
-, [[gehorsam]]
+, [[gehorsam]], [[freiwillig]]

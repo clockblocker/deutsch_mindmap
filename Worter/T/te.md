@@ -1,1 +1,1 @@
-, [[Beamte]], [[Doppelte]], [[Hälfte]]
+, [[Beamte]], [[Doppelte]], [[Hälfte]], [[Gaststättenerlaubnis]]

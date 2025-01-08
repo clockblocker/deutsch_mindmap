@@ -1,1 +1,1 @@
-, [[Krankenkasse]], [[Sozialversicherung]]
+, [[Krankenkasse]], [[Sozialversicherung]], [[Pflegeversicherung]], [[Krankenversicherung]]

@@ -1,1 +1,1 @@
-, [[Einwohner]], [[Abgeordnete]]
+, [[Einwohner]], [[Abgeordnete]], [[Staatsangehörige]]

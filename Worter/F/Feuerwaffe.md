@@ -1,1 +1,1 @@
-, [[Gewehr]]
+, [[Gewehr]], [[Feuerdolch]]

@@ -3,6 +3,10 @@
 ---
 Normalerweise [[verbindet]] man das Herz mit Liebe und Romantik. Man kann zum Beispiel sein Herz an jemanden verlieren oder jemandem das Herz brechen. Aber was bedeutet es, wenn einem das Herz in die Hose [[rutscht]]?
 
+132. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
+	- [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
+	- [ ] Sie arbeiten in der [[Bundesregierung]].
+
 ---
 Synonyme: [[anschließen]], [[vereinen]], [[verknüpfen]], [[zusammenfügen]], [[verbinden]]
 Antonyme: [[trennen]], [[lösen]], [[separieren]], [[abkoppeln]]
@@ -35,4 +39,4 @@ Zu+infinitive: [[zu verbinden]]
 [[trennen]][[teilen]], [[anschließen]], [[trauen]], [[gesellen]], [[reißen]], [[schneiden]], [[auflösen]], [[telefonieren]], [[lösen]], [[ausschneiden]], [[binden]], [[zusammenschrauben]]
 
 
-, [[knüpfen]]
+, [[knüpfen]], [[Zusammenschluss]]

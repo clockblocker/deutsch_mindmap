@@ -1,31 +1,31 @@
-Prosessed the word verbannt. Identified it as Adjective. Picked the emoji 🟢 because the word is neutral.
-
-🟢 [[verbannt]], [fɛɐ̯ˈbant]
-nicht [[frei]]
+😱 [[verbannt]], [fɛɐ̯ˈbant]
+nicht [[zugelassen]]
 
 ---
+_[[Aufgebracht]]_ Aha! Der [[Verräter]] [[gesteht]] sogar. Krieger, sofort weg vom [[Feind]]! Der [[Fremde]] wird aus unserem Dorf [[verbannt]].
 
 
----
-Synonyme: 
-- [[verbannt sein]], [[heimatlos]], [[verbannt]], [[des Landes verwiesen]], [[ausgewiesen]], [[ausgeschlossen]]
-Antonyme:
-- [[aufgenommen]], [[akzeptiert]], [[erlaubt]], [[zugelassen]], [[zugestanden]]
+Na gut! Dann muss ich auch [[verbannt]] werden! _[ nimmt Aang am Arm]_ Komm mit Aang, wir gehen!
 
 ---
-**Übersetzung**: 
-banished, exiled
+= [[ausgewiesen]], [[vertrieben]], [[verstoßen]]
+≈ [[eliminiert]], [[exiliert]], [[deportiert]]
+≠ [[zugelassen]], [[akzeptiert]], [[integriert]], [[willkommen]]
 
 ---
-#Adjective [[verbannt]]
+banned, exiled
 
 ---
-Morpheme:
-[[ver]][[bann]][[t]]
+[[ver]]|[[bann]]|[[t]]
 
 ---
+N: [[verbannt]], [[verbannter]], [[verbanntester]]  
+A: [[verbannten]], [[verbannteres]], [[verbanntesten]]  
+G: [[verbannter]], [[verbannterer]], [[verbanntester]]  
+D: [[verbanntem]], [[verbanntestem]], [[verbanntestem]]  
+F: [[verbannte]], [[verbannteere]], [[verbannteste]]  
+N: [[verbanntes]], [[verbannteres]], [[verbanntestes]]  
+P: [[verbannten]], [[verbannteres]], [[verbanntesten]]  
 
-
-Einzigartige mögliche Formen: 
-[[verbannt]], [[verbannter]], [[verbannte]], [[verbanntes]], [[verbannten]], [[verbanntем]], [[verbannter]], [[verbannten]]
-[[verbanntester]], [[verbanntest]], [[verbanntest]], [[verbanntestes]], [[verbanntest]], [[verbanntestem]], [[verbanntest]], [[verbanntest]]
+---
+[[verbannen]], [[Verbannung]], [[Verbannung]], [[verbannt sein]], [[Exil]]

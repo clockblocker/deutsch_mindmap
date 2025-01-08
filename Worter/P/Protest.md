@@ -1,1 +1,1 @@
-, [[Aufstand]]
+, [[Aufstand]], [[Einspruch]]

@@ -6,6 +6,11 @@ Was ist, wenn der Prüfer einen schlechten Tag hat und sie mit schwierigen [[Auf
 
  Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderungen]], die so groß sind, dass man daraus ein Sprichwort machen muss.
 
+47. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört nicht dazu? (93%)
+	- [x] Er bezahlt für alle [[Staatsangehörigen]] Urlaubsreisen.
+	- [ ] Er zahlt Kindergeld.
+	- [ ] Er [[unterstützt]] Museen.
+	- [ ] Er [[fördert]] Sportler und Sportlerinnen.
 
 ---
 Synonyme:

@@ -1,1 +1,1 @@
-[[kontrollieren]][[ansehen]], [[beobachten]]
+[[kontrollieren]][[ansehen]], [[beobachten]], [[mustern]]

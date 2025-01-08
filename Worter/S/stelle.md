@@ -5,7 +5,8 @@ die [[Stellen]]
 277. Eine Frau, die ein zweijähriges Kind hat, [[bewirbt]] sich in Deutschland um eine [[Stelle]]. Was ist ein Beispiel für [[Diskriminierung]]? Sie bekommt die Stelle nur deshalb nicht, weil sie … (95%)
 	- [x] Mutter ist.
 
-
+300. Ein Mann im [[Rollstuhl]] hat sich auf eine [[Stelle]] als [[Buchhalter]] [[beworben]]. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur [[deshalb]] nicht, weil er … (94%)
+	- [x] im Rollstuhl sitzt.
 ---
 = [[Position]], [[Arbeitsplatz]], [[Ort]]
 ≈ [[Platz]], [[Aufgabe]], [[Funktion]], [[Amt]]

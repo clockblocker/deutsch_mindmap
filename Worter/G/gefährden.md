@@ -1,1 +1,1 @@
-, [[schaden]], [[beschützen]]
+, [[schaden]], [[beschützen]], [[Gefahr]]

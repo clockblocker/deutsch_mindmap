@@ -7,6 +7,11 @@ die [[Erlaubnisse]]
 	- [x] Sie muss einen [[Antrag]] bei der [[Elterngeldstelle]] stellen.
 	- [ ] Sie muss das [[Arbeitsamt]] um [[Erlaubnis]] bitten.
 
+256. Ein [[Ehepaar]] möchte in Deutschland ein Restaurant [[eröffnen]]. Was braucht es dazu [[unbedingt]]? (93%)
+	- [ ] eine [[Erlaubnis]] der Polizei
+	- [ ] eine [[Genehmigung]] einer Partei
+	- [ ] eine [[Genehmigung]] des [[Einwohnermeldeamts]]
+	- [x] eine [[Gaststättenerlaubnis]] von der [[zuständigen]] [[Behörde]]
 ---
 = [[Zustimmung]], [[Bewilligung]], [[Genehmigung]]
 ≈ [[Einwilligung]], [[Gestattung]], [[Billigung]], [[Freigabe]]

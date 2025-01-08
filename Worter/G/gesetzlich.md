@@ -6,6 +6,11 @@ nicht [[illegal]]
 	- [ ] wenn die Sonne untergeht
 	- [x] um 22 Uhr
 
+100. Was gehört nicht zur [[gesetzlichen]] Sozialversicherung? (93%)
+	- [ ] die [[gesetzliche]] [[Rentenversicherung]]
+	- [x] die [[Lebensversicherung]]
+	- [ ] die [[Arbeitslosenversicherung]]
+	- [ ] die [[Pflegeversicherung]]
 ---
 = [[rechtlich]], [[legal]], [[erlaubt]]
 ≈ [[gesetzmäßig]], [[regulär]], [[offiziell]]

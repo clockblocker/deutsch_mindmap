@@ -1,1 +1,1 @@
-, [[Ährenkranz]]
+, [[Ährenkranz]], [[Erntedankfest]]

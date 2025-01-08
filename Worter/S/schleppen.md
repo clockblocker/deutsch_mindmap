@@ -1,1 +1,1 @@
-[[ziehen]], [[tragen]]
+[[ziehen]], [[tragen]], [[abschleppen]]

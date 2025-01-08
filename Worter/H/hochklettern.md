@@ -1,1 +1,1 @@
-, [[versteigen]], [[klettern]], [[hinaufklettern]]
+, [[versteigen]], [[klettern]], [[hinaufklettern]], [[plumpsen]]

@@ -1,1 +1,1 @@
-, [[spülen]], [[Geschirr]]
+, [[spülen]], [[Geschirr]], [[bemalen]]

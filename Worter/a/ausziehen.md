@@ -30,4 +30,4 @@ Partizip I: [[auszuziehend]], Partizip II: [[ausgezogen]]
 
 [[anhaben]], [[wohnen]]
 
-, [[Kontoauszug]]
+, [[Kontoauszug]], [[beziehen]]

@@ -1,1 +1,1 @@
-[[Treu]], [[frönen]]
+[[Treu]], [[frönen]], [[wehren]]

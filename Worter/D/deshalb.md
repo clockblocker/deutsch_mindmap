@@ -7,6 +7,10 @@ Und [[deshalb]] ermordet Hamlet die Mutter und den Onkel … und dann
 
 Laura ist seit ein paar Tagen sehr unkonzentriert fällt ihr auf. Nach dem Unterricht spricht sie sie [[deshalb]] an 
 
+300. Ein Mann im [[Rollstuhl]] hat sich auf eine [[Stelle]] als [[Buchhalter]] [[beworben]]. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur [[deshalb]] nicht, weil er … (94%)
+	- [x] im Rollstuhl sitzt.
+
+
 ---
 Synonyme: [[daher]], [[darum]], [[aus diesem Grund]], [[infolgedessen]], [[folglich]]
 Antonyme: [[deswegen]], [[trotzdem]], [[obwohl]], [[dagegen]]
@@ -23,4 +27,4 @@ Morpheme:
 
 ---
 
-, [[sterben]], [[bald]], [[CONNECTOR]]
+, [[sterben]], [[bald]], [[CONNECTOR]], [[dadurch]], [[somit]]

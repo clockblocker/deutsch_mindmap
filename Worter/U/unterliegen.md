@@ -1,1 +1,1 @@
-, [[überwinden]], [[überstehen]]
+, [[überwinden]], [[überstehen]], [[besiegen]], [[siegen]]

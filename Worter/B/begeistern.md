@@ -30,4 +30,4 @@ Zu+infinitive: [[zu begeistern]]
 [[begeistern]] - [[be]] = [[geistern]]
 
 ---
-[[Begeisterung]], [[Begeisterte]], [[Begeisterungssturm]], [[begeisternd]], [[begeisterungsfähig]]
+[[Begeisterung]], [[Begeisterte]], [[Begeisterungssturm]], [[begeisternd]], [[begeisterungsfähig]], [[anregen]]

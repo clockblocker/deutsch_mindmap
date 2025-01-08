@@ -1,1 +1,1 @@
-, [[Angriff]]
+, [[Angriff]], [[Verteidigungsposition]]

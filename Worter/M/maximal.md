@@ -1,1 +1,1 @@
-, [[wenigstens]]
+, [[wenigstens]], [[mindest]]

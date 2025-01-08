@@ -1,1 +1,1 @@
-, [[toben]]
+, [[toben]], [[wütend]], [[stürmen]]

@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Buchens]], [[Buche]], [[Buchen]], [[Buchen]]
 
 ---
-#Substantiv #Maskulin, [[Extra 8]]
+#Substantiv #Maskulin, [[Extra 8]], [[Buchhalter]]

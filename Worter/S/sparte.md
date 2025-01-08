@@ -1,2 +1,2 @@
 💰 [[sparen]]
-, [[Branche]]
+, [[Branche]], [[Sektor]]

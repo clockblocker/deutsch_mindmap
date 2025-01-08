@@ -1,1 +1,1 @@
-, [[während]], [[inzwischen]], [[Conjunctions]]
+, [[während]], [[inzwischen]], [[Conjunctions]], [[Währenddessen]]

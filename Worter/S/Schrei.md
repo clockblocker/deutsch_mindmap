@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schreis]], [[Schreie]], [[Schreien]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Angriffsgeschrei]]

@@ -5,6 +5,9 @@ MAN: Oh, Darling! Nein! Mein Herz wird [[zerbrechen]]!
 
 „Mir brennt [[tatsächlich]] etwas sehr unter den Nägeln“, sagte Jenny, „könnte es sein, dass Ihre drei [[Ehen]] [[daran]] [[zerbrochen]] sind, dass sie zu viel [[geredet]] haben?“ 
 
+Das Ende, dass noch in Sokkas Hand steckt, reißt Zuko ihm aus der Hand, [[stupst]] Sokka mit dem [[dumpfen]] Ende gegen die Stirn, der in den Schnee [[plumpst]], und [[zerbricht]] den [[Rest]]
+
+
 ---
 Synonyme: [[zerstören]], [[zerschlagen]], [[zerknicken]], [[zersplittern]], [[entzweimachen]]
 Antonyme: [[heilen]], [[reparieren]], [[zusammensetzen]], [[whole]], [[intakt]]

@@ -1,1 +1,1 @@
-, [[bemerken]], [[erkennen]], [[witterten]], [[merken]], [[übersehen]]
+, [[bemerken]], [[erkennen]], [[witterten]], [[merken]], [[übersehen]], [[schätzen]]

@@ -1,1 +1,1 @@
-[[Energie]], [[Gewalt]], [[Druck]]
+[[Energie]], [[Gewalt]], [[Druck]], [[Schwäche]]

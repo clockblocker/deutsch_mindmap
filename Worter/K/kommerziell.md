@@ -1,1 +1,1 @@
-, [[ehrenamtlich]]
+, [[ehrenamtlich]], [[wirtschaftlich]]

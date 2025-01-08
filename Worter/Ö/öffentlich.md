@@ -32,3 +32,4 @@ P: [[öffentlichen]], [[öffentlicheren]], [[öffentlichsten]]
 [[Öffentlichkeit]], [[veröffentlichen]], [[Öffentlichkeitsarbeit]], [[öffentlich-rechtlich]], [[veröffentlichen]]
 
 , [[heimlich]], [[kund]]
+, [[öffnen]], [[Geheim]]

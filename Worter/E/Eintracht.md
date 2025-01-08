@@ -1,1 +1,1 @@
-, [[Frieden]], [[Einheit]]
+, [[Frieden]], [[Einheit]], [[Konflikt]]

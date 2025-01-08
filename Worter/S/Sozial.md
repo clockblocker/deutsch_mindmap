@@ -1,1 +1,1 @@
-, [[Sozialstunde]], [[Sozialversicherung]], [[Sozialabgaben]]
+, [[Sozialstunde]], [[Sozialversicherung]], [[Sozialabgaben]], [[Sozialversicherungsausweis]]

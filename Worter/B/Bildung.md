@@ -1,1 +1,1 @@
-, [[Erzie­hung]], [[Erziehung]]
+, [[Erzie­hung]], [[Erziehung]], [[Weiterbildung]], [[Politikunterricht]]

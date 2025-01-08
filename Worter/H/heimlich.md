@@ -33,4 +33,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[heimlich]], [[heimliche]], [[heimliches]], [[heimlichen]], [[heimlicher]], [[heimlichem]]
 [[heimlicher]], [[heimlichere]], [[heimlicheres]], [[heimlicheren]], [[heimlicherem]], [[heimlicherer]]
-[[heimlichsten]], [[heimlichster]], [[heimlichste]], [[heimlichstes]], [[heimlichsten]], [[heimlichstem]]
+[[heimlichsten]], [[heimlichster]], [[heimlichste]], [[heimlichstes]], [[heimlichsten]], [[heimlichstem]], [[Geheim]]

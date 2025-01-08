@@ -1,1 +1,1 @@
-, [[Geltung]], [[gelten]]
+, [[Geltung]], [[gelten]], [[Zügel]]

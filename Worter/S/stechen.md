@@ -3,8 +3,11 @@
 haben [[gestochen]]
 
 ---
-*Der eine [[sticht]] die Lanz im Heer*  
+*Der eine [[sticht]] die [[Lanz]] im [[Heer]]*  
 *Der andre wirft sie in das Meer*
+
+---
+[[bestechen]] - [[be]] = [[stechen]] / to bribe, to corrupt
 
 ---
 Synonyme: [[bohren]], [[piksen]], [[durchbohren]], [[durchstechen]], [[schneiden]]
@@ -31,4 +34,4 @@ Morpheme: [[stach]][[en]]
 Partizip I: [[stechend]], Partizip II: [[gestochen]]
 
 [[stechen]] = [[stach]]
-, [[spießen]]
+, [[spießen]], [[bestechen]]

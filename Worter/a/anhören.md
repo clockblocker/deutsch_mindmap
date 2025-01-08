@@ -1,6 +1,6 @@
-👂 [[anhören 1]] + Akk, [ˈanˌhøːʁən]
+👂 [[anhören]] + Akk, [ˈanˌhøːʁən]
 [[hörte an|hörte an]]  
-haben [[angehört 1]]
+haben [[angehört]]
 
 ---
 Und manche Menschen [[hören]] [[sich]] dabei fast so [[an]] wie ein Vogel
@@ -28,4 +28,4 @@ Morpheme: [[an]][[hör]][[en]]
 | Sie | [[hören an]] | [[hörten an]] | [[hören Sie an]] | [[hören an]] | [[hörten an]] |
 
 Partizip I: [[anhörend 1]], Partizip II: [[angehört 1]]
-[[anhören 1]] - [[an]] = [[hören]]
+[[anhören 1]] - [[an]] = [[hören]], [[angehören]]

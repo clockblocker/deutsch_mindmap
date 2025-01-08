@@ -27,4 +27,4 @@ Morpheme: [[zu]][[nehm]][[en]]
 |           |               |               |                   |                |                 |
 
 Partizip I: [[zunehmend]], Partizip II: [[zugenommen]]
-[[zunehmen]] - [[zu]] = [[nehmen]]
+[[zunehmen]] - [[zu]] = [[nehmen]], [[schwinden]]

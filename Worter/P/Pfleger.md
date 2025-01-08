@@ -22,4 +22,4 @@ Genitive: des [[Pflegers]], der [[Pfleger]]
 Dative: dem [[Pfleger]], den [[Pflegern]] 
 
 ---
-[[pflegen]], [[Pflege]], [[Pflegekraft]], [[Pflegeberuf]]
+[[pflegen]], [[Pflege]], [[Pflegekraft]], [[Pflegeberuf]], [[Pflegeversicherung]]

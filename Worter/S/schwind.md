@@ -1,1 +1,1 @@
-, [[geschwind]], [[verschwinden]]
+, [[geschwind]], [[verschwinden]], [[schwinden]]

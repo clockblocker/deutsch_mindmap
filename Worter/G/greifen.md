@@ -7,6 +7,8 @@ haben [[gegriffen]]
 *Doch was hilft’s? Zu gleicher Zeit*  
 *fallen Teller, Flasch und Brot.*  
 
+_Er [[mustert]] alle Dorfbewohner, [[greift]] [[plötzlich]] nach [[vorne]] und zieht Gran Gran nach vorne._
+
 ---
 Synonyme: [[ergreifen]], [[fassen]], [[packen]], [[zupacken]], [[umfassen]]
 Antonyme: [[loslassen]], [[fallen lassen]], [[freigeben]]
@@ -32,4 +34,4 @@ Morpheme: [[greifen]]
 Partizip I: [[greifend]], Partizip II: [[gegriffen]]
 
 +[[an]] = [[angreifen]]
-, [[fangen]], [[schnappen]], [[nehmen]]
+, [[fangen]], [[schnappen]], [[nehmen]], [[begreifen]]

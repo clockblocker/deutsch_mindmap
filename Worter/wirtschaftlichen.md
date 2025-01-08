@@ -1,0 +1,1 @@
+📈 [[wirtschaftlich]] | 📈 der/die/das [[Wirtschaftliche]], [[anregen]]

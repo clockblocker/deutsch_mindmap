@@ -1,1 +1,1 @@
-, [[geben]], [[Gebetshaus]]
+, [[geben]], [[Gebetshaus]], [[Bettag]]

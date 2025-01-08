@@ -1,1 +1,1 @@
-[[regeln]][[regnen]], [[aufregen]], [[Aufregung]]
+[[regeln]][[regnen]], [[aufregen]], [[Aufregung]], [[anregen]]

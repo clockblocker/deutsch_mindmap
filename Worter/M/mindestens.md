@@ -7,6 +7,11 @@ Sabrina ist genervt und ein wenig [[neidisch]]: Ihre Freundin Tina fährt [[mind
 	- [ ] Sie muss [[mindestens]] zehn Jahre in Deutschland leben, bevor sie den [[Führerschein]] machen kann.
 	- [x] Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur [[Auswahl]].
 
+121. Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen [[Mindestanteil]] an [[Wählerstimmen]] haben. Das heißt … (93%)
+	- [x] 5 %-Hürde.
+	- [ ] [[Zulassungsgrenze]].
+	- [ ] [[Basiswert]].
+	- [ ] [[Richtlinie]].
 
 ---
 Synonyme:
@@ -25,4 +30,4 @@ at least, minimum
 [[mindest]], [[mindestens]]
 
 , [[wenigstens]], [[zumindest]], [[neidisch]]
-, [[Mindestalter]]
+, [[Mindestalter]], [[Mindestanteil]]

@@ -32,3 +32,4 @@ Morpheme: [[roll]][[en]]
 | Sie       | [[rollen]]| [[rollten]]| [[rollen Sie]]| [[rollen]] | [[rollten]]   |
 
 Partizip I: [[rollend]], Partizip II: [[gerollt]]
+, [[Rollstuhl]]

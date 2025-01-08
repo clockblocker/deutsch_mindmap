@@ -1,1 +1,1 @@
-, [[Speer]], [[Lanz]]
+, [[Speer]], [[Lanz]], [[Dolch]]

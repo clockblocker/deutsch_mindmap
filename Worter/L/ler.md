@@ -1,1 +1,1 @@
-, [[Adler]]
+, [[Adler]], [[Wählerstimmen]]

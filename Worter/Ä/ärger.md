@@ -1,2 +1,2 @@
 [[arg]]
-, [[ärgern]]
+, [[ärgern]], [[aufgebracht]]

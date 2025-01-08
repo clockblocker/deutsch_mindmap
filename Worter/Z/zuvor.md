@@ -21,4 +21,4 @@ Morpheme:
 
 ---
 #Adverb
-, [[inzwischen]]
+, [[inzwischen]], [[Währenddessen]]

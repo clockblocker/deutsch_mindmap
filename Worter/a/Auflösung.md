@@ -1,1 +1,1 @@
-, [[Lösung]], [[Kündigung]]
+, [[Lösung]], [[Kündigung]], [[Zusammenschluss]]

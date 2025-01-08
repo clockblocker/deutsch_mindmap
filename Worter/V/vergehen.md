@@ -30,4 +30,4 @@ Morpheme: [[ver]][[geh]][[en]]
 
 Partizip I: [[vergehend]], Partizip II: [[vergangen]]
 
-[[vergehen]] - [[ver]] = [[gehen]], [[leben]], [[aussterben]]
+[[vergehen]] - [[ver]] = [[gehen]], [[leben]], [[aussterben]], [[Straftat]]

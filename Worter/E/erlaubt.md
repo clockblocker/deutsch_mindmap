@@ -2,15 +2,16 @@
 
 ---
 96. Wie kann jemand, der den Holocaust [[leugnet]], [[bestraft]] werden? (100%)
-	- [ ] [[Kürzung]] sozialer [[Leistungen]]
-	- [ ] bis zu 100 [[Sozialstunden]]
 	- [ ] gar nicht, [[Holocaustleugnung]] ist [[erlaubt]]
 	- [x] mit [[Freiheitsstrafe]] bis zu fünf Jahren oder mit [[Geldstrafe]]
 
 272. Welche [[Lebensform]] ist in Deutschland nicht [[erlaubt]]? (97%)
 	- [x] Ein Mann ist mit zwei Frauen zur selben Zeit [[verheiratet]].
 
-
+301. Was ist bei Bundestags- und [[Landtagswahlen]] in Deutschland [[erlaubt]]? (94%)
+	- [ ] Der [[Ehemann]] wählt für seine Frau mit.
+	- [x] Man kann durch [[Briefwahl]] seine [[Stimme]] [[abgeben]].
+	- [ ] Man kann am [[Wahltag]] telefonisch seine Stimme abgeben.
 ---
 = [[gestattet]], [[genehmigt]], [[bewilligt]]
 ≈ [[zulässig]], [[möglich]], [[freigegeben]]

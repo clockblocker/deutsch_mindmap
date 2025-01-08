@@ -25,4 +25,4 @@ Feminine: [[bescheidene]], [[bescheidenere]], [[bescheidenste]]
 Neuter: [[bescheidenes]], [[bescheideneres]], [[bescheidenanstes]]  
 Plural: [[bescheidenen]], [[bescheideneren]], [[bescheidensten]]  
 
-[[Bescheidenheit]], [[bescheidentlich]], [[unbescheiden]]
+[[Bescheidenheit]], [[bescheidentlich]], [[unbescheiden]], [[Steuerbescheid]]

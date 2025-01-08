@@ -1,1 +1,1 @@
-[[regeln]], [[steuere]], [[zuwenden]], [[führen]], [[leiten]], [[beeinflussen]]
+[[regeln]], [[steuere]], [[zuwenden]], [[führen]], [[leiten]], [[beeinflussen]], [[zusteuern]]

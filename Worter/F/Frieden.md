@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Friedens]], [[Frieden]], [[Friedens]], [[Frieden]], [[Frieden]], [[Frieden]]
 
 ---
-#Substantiv #Maskulin, [[zufriedenstellen]], [[Arbeiteraufstand]]
+#Substantiv #Maskulin, [[zufriedenstellen]], [[Arbeiteraufstand]], [[Weltkrieg]]

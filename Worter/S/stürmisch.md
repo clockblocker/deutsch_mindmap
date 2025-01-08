@@ -33,4 +33,4 @@ Tags:
 ---
 
 Morphems:
-[[stürm]][[isch]][[windig]]
+[[stürm]][[isch]][[windig]], [[stürmen]], [[vorstürmen]], [[zustürmen]]

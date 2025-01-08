@@ -13,6 +13,9 @@ SASCHA: Also Stefan, wollen wir über die Arbeit [[reden]]?
 
 Nach 15 Minuten [[redete]] der Schauspieler immer noch [[ohne Punkt und Komma]] über seinen neuen Film, [[ohne]] dass Jenny [[überhaupt]] eine Frage stellen konnte. 
 
+---
+[[überreden]] - [[über]] = [[reden]] / to persuade, to convince
+
 
 ---
 Synonyme: [[sprechen]], [[diskutieren]], [[kommunizieren]], [[konversieren]], [[plaudern]]
@@ -38,4 +41,4 @@ Morpheme: [[red]][[en]]
 
 Partizip I: [[redend]], Partizip II: [[geredet]]
 
-[[reden]] - [[red]][[en]], [[Redewendung]]
+[[reden]] - [[red]][[en]], [[Redewendung]], [[überreden]]

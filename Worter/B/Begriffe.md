@@ -1,1 +1,1 @@
-, [[Begriff]]
+, [[Begriff]], [[begreifen]]

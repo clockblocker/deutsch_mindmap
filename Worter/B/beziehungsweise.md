@@ -1,1 +1,1 @@
-, [[CONNECTOR]], [[Bezug]]
+, [[CONNECTOR]], [[Bezug]], [[bezogen]]

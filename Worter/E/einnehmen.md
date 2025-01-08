@@ -1,1 +1,1 @@
-, [[spucken]]
+, [[spucken]], [[beziehen]], [[besetzen]]

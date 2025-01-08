@@ -1,1 +1,1 @@
-, [[aufhalten]], [[unterbrechen]], [[anmachen]], [[losfahren]], [[gleiten]], [[weiterüben]], [[rollen]], [[zulaufen]], [[verlaufen]], [[rasen]], [[treiben]], [[weitermachen]], [[überfahren]], [[angehen]], [[aufhören]], [[Hochfahren]], [[ausführen]], [[weitergehen]]
+, [[aufhalten]], [[unterbrechen]], [[anmachen]], [[losfahren]], [[gleiten]], [[weiterüben]], [[rollen]], [[zulaufen]], [[verlaufen]], [[rasen]], [[treiben]], [[weitermachen]], [[überfahren]], [[angehen]], [[aufhören]], [[Hochfahren]], [[ausführen]], [[weitergehen]], [[Einwanderungsstopp]]

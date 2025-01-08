@@ -1,1 +1,1 @@
-, [[greifen]], [[Angriff]], [[Begriff]]
+, [[greifen]], [[Angriff]], [[Begriff]], [[Angriffsgeschrei]]

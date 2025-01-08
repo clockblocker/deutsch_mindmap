@@ -24,3 +24,4 @@ Typische Kontexte:
 - Zeitlicher Fortschritt
 - Zwischenzeitliche Entwicklungen
 - Veränderungen während einer Zeitspanne
+, [[Währenddessen]]
