@@ -1,1 +1,1 @@
-[[hinlegen]], [[loswerden]], [[hineingezogen]], [[schleudern]], [[angehen]], [[annehmen]], [[anstellen]], [[empfangen]], [[verbannen]], [[legen]]
+[[hinlegen]], [[loswerden]], [[hineingezogen]], [[schleudern]], [[angehen]], [[annehmen]], [[anstellen]], [[empfangen]], [[verbannen]], [[legen]], [[beherbergen]]

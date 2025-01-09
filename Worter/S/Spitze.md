@@ -54,4 +54,4 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[spitze]], [[spitzere]], [[spitzeste]], [[spitzeren]], [[spitzerem]], [[spitzerer]], [[spitzeren]], [[Speerende]]
+[[spitze]], [[spitzere]], [[spitzeste]], [[spitzeren]], [[spitzerem]], [[spitzerer]], [[spitzeren]], [[Speerende]], [[toll]]

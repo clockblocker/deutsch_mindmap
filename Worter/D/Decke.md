@@ -4,6 +4,8 @@ die [[Decken]]
 ---
 Unter einer [[Decke]] ist es warm und gemütlich. Was darunter passiert, kann man von außen nicht sehen. 
 
+Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]
+
 
 ---
 Synonyme:

@@ -1,1 +1,1 @@
-, [[Ahnung]]
+, [[Ahnung]], [[Ahne]], [[ahnen]]

@@ -30,4 +30,4 @@ Zu+infinitive: [[zueinigen]]
 [[einigen]] - [[ein]] = [[eigen]]
 
 ---
-[[Einigung]], [[Vereinigung]], [[Einvernehmen]], [[Übereinstimmung]]
+[[Einigung]], [[Vereinigung]], [[Einvernehmen]], [[Übereinstimmung]], [[Einigkeit]]

@@ -1,6 +1,9 @@
 🔄 [[deshalb]], [deːsˈhalp]
 
 ---
+
+281. Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle [[Hautfarbe]] und werden [[deshalb]] nicht [[hineingelassen]]. Welches Recht wird in dieser Situation [[verletzt]]? 
+
 [[Deshalb]] ist ihre Kusine jetzt hier. Sehr streng!  
 
 Und [[deshalb]] ermordet Hamlet die Mutter und den Onkel … und dann stirbt er.

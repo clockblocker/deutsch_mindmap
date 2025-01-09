@@ -1,1 +1,1 @@
-, [[innerhalb]], [[Grenze]]
+, [[innerhalb]], [[Grenze]], [[Grenz]]

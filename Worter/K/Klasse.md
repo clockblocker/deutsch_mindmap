@@ -19,4 +19,4 @@ Morphems:
 [[Klass]][[e]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[toll]]

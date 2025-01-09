@@ -1,1 +1,1 @@
-, [[lesen]]
+, [[lesen]], [[überlassen]], [[lassen]]

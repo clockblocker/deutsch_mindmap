@@ -1,1 +1,1 @@
-, [[beschränken]], [[nächsthöher]], [[herabziehen]]
+, [[beschränken]], [[nächsthöher]], [[herabziehen]], [[höherstellen]]

@@ -35,4 +35,4 @@ Morpheme: [[schimpf]][[en]]
 
 Partizip I: [[schimpfend]], Partizip II: [[geschimpft]]
 
-[[schimpfen]] - [[schimpf]] = [[en]], [[grummeln]]
+[[schimpfen]] - [[schimpf]] = [[en]], [[grummeln]], [[Mistkerl]]

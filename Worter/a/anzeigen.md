@@ -8,7 +8,7 @@
 ---
 = [[melden]], [[berichten]], [[signalisieren]]
 ≈ [[informieren]], [[mitteilen]], [[kommunizieren]]
-≠ [[verheimlichen]], [[verschweigen]], [[vertuschen]]
+≠ [[Worter/V/verheimlichen]], [[verschweigen]], [[vertuschen]]
 
 ---
 to report, to indicate, to display

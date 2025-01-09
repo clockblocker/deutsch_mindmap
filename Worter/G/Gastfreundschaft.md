@@ -1,1 +1,1 @@
-, [[Staatsgast]]
+, [[Staatsgast]], [[beherbergen]]

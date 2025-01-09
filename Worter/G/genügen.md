@@ -1,1 +1,1 @@
-, [[reichen]], [[zufriedenstellen]]
+, [[reichen]], [[zufriedenstellen]], [[ausreichen]]

@@ -8,9 +8,10 @@ _Sokka zieht seinen Ärmel wieder runter und [[dreht]] sich zu Katara.
 Mit seiner Kamera machte Fred Fotos für seine Freunde zu Hause. Aber dann passierte etwas, womit er nicht [[gerechnet]] hatte: Fred war gerade damit [[beschäftigt]], eine Gruppe Giraffen zu fotografieren, als er hinter sich ein [[Geräusch]] hörte. Er [[drehte]] sich langsam um und stand einem riesigen Löwen gegenüber! 
 
 ---
-[[umdrehen]] - [[um]] = [[drehen]]
-[[aufdrehen]] - [[auf]] = [[drehen]]
-[[wegdrehen]] - [[weg]] = [[drehen]]
+[[umdrehen]] - [[um]] = [[drehen]] / to turn around, to rotate
+[[aufdrehen]] - [[auf]] = [[drehen]] / to turn on, to open up
+[[wegdrehen]] - [[weg]] = [[drehen]] / to turn away
+[[verdrehen]] - [[ver]] = [[drehen]] / roll eyes, to distort, to twist, to misrepresent
 
 
 
@@ -42,4 +43,4 @@ Partizip I: [[drehend]], Partizip II: [[gedreht]]
 
 
 , [[aufdrehen]], [[umdrehen]]
-, [[wegdrehen]], [[winden]]
+, [[wegdrehen]], [[winden]], [[wälzen]], [[verdrehen]]

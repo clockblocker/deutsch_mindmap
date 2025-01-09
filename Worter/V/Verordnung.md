@@ -1,1 +1,1 @@
-, [[Grundgesetz]], [[Beschluss]], [[Gesetz]]
+, [[Grundgesetz]], [[Beschluss]], [[Gesetz]], [[erlassen]]

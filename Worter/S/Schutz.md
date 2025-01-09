@@ -27,4 +27,4 @@ D: dem [[Schutz]], den [[Schutzen]]
 [[schützen]], [[Schutzengel]], [[schützend]], [[Schutzgebiet]], [[Schutzbefohlener]], [[schutzlos]]
 
 [[Segen]], [[Sicherheit]], [[beschützen]]
-, [[Versicherung]], [[Asyl]], [[Folter]]
+, [[Versicherung]], [[Asyl]], [[Folter]], [[Kündigungsschutzklage]]

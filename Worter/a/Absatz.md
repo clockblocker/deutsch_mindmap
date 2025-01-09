@@ -10,7 +10,7 @@ r [[Absatz]]
 
 ---
 Synonyme:
-- [[Verkaufseinheit]], [[Paragraph]], [[Abschnitt 1]], [[Satzende]], [[Ferse]]
+- [[Verkaufseinheit]], [[Paragraph]], [[Abschnitt]], [[Satzende]], [[Ferse]]
 
 ---
 Übersetzung: paragraph, section, heel

@@ -29,4 +29,4 @@ Zu+infinifive: [[zu beschimpfen]]
 [[beschimpfen]] - [[be]] = [[schimpfen]] / to insult, to abuse verbally
 
 ---
-[[Beschimpfung]], [[Beschimpfer]], [[Beschimpferin]], [[Beleidigung]], [[Schmähung]]
+[[Beschimpfung]], [[Beschimpfer]], [[Beschimpferin]], [[Beleidigung]], [[Schmähung]], [[Mistkerl]]

@@ -1,1 +1,1 @@
-, [[Wahl]], [[Wahltag]]
+, [[Wahl]], [[Wahltag]], [[Wahlhelfer]], [[Wahllokals]]

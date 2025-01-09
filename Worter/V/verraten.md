@@ -6,7 +6,7 @@
  
 ---
 Synonyme: [[ausplaudern]], [[preisgeben]], [[enthüllen]], [[offenbaren]], [[verraten]]
-Antonyme: [[verschweigen]], [[verheimlichen]], [[vertuschen]], [[geheimhalten]]
+Antonyme: [[verschweigen]], [[Worter/V/verheimlichen]], [[vertuschen]], [[geheimhalten]]
 
 ---
 to betray, to reveal, to disclose
@@ -31,4 +31,4 @@ Zu+infinitive: [[zu verraten]]
 [[verraten]] - [[ver]] = [[raten]], to betray, to reveal, to disclose
 
 ---
-[[Verrat]], [[Verräter]], [[Verräterin]], [[verräterisch]], [[verrätisch]], [[gestehen]]
+[[Verrat]], [[Verräter]], [[Verräterin]], [[verräterisch]], [[verrätisch]], [[gestehen]], [[Verheimlichen]]

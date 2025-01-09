@@ -34,3 +34,4 @@ Plural: [[schrecklichen]], [[schrecklicheren]], [[schrecklichsten]]
 [[Schrecklichkeit]], [[schrecklichmachen]], [[schrecklichkeit]]
 
  [[einfachfantastisch]], [[furchtbar]], [[schlimm]]
+, [[toll]]

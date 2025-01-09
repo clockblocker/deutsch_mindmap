@@ -1,1 +1,1 @@
-, [[gierig]], [[neidisch]]
+, [[gierig]], [[neidisch]], [[gemein]]

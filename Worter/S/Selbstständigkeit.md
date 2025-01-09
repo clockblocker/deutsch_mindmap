@@ -1,1 +1,1 @@
-, [[selbständig]], [[Arbeitsverhältnis]]
+, [[selbständig]], [[Arbeitsverhältnis]], [[Freiheit]]

@@ -1,1 +1,1 @@
-[[allerdings]], [[wohl]], [[hoffentlich]], [[wahrscheinlich]]
+[[allerdings]], [[wohl]], [[hoffentlich]], [[wahrscheinlich]], [[scheinbar]]

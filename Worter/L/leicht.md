@@ -2,8 +2,11 @@
 nicht [[schwer]]
 
 ---
+Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
+
+
 *Als sie nun durch das Zimmer sprang*  
-*mit leichtem Mut und Sing und Sang,*  
+*mit [[leichtem]] Mut und Sing und Sang,*  
 
 Das Schwein hat es nicht [[leicht]]. In vielen Kulturen [[gilt]] es als [[unrein]] und [[faul]]. 
 

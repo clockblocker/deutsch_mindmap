@@ -2,7 +2,10 @@
 die [[Regierungen]]
 
 ---
-149. Was ist ein Beispiel für antisemitisches [[Verhalten]]? (100%)
+1. In Deutschland dürfen Menschen offen etwas gegen die [[Regierung]] sagen, weil … (91%)
+	- [x] hier [[Meinungsfreiheit]] [[gilt]].
+
+1. Was ist ein Beispiel für antisemitisches [[Verhalten]]? (100%)
 	- [ ] ein jüdisches [[Fest]] [[besuchen]]
 	- [ ] die israelische [[Regierung]] kritisieren
 	- [x] den Holocaust [[leugnen]]

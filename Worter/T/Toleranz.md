@@ -1,1 +1,1 @@
-, [[Strenge]], [[geduld]], [[vertragen]], [[Diskriminierung]]
+, [[Strenge]], [[geduld]], [[vertragen]], [[Diskriminierung]], [[lassen]]

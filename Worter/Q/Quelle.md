@@ -1,24 +1,30 @@
-🔴 die [[Quelle]], [ˈkvɛlə]
+🔴 🌊 die [[Quelle]], [ˈkvɛlən]
 die [[Quellen]]
-
 
 ---
  Das Licht stammt von einer unglaublich starken [[Quelle]], das muss er sein!
 
+---
+[[überquellen]] - [[über]] = [[quellen]] / to overflow, to spill over
+
 
 ---
-Synonyme:
-- [[Ursprung]], [[Brunnen]], [[Springbrunnen]], [[Fontäne]], [[Born]], [[Absender]], [[Brünnchen]]
+= [[Ursprung]], [[Herkunft]], [[Ursprungsort]], [[fließen]], [[Tropfen]], [[überquellen]]
+≈ [[Fundstelle]], [[Referenz]], [[Ursprungspunkt]], [[Ursprungsquelle]]
+≠ [[Senke]], [[Ziel]], [[Endpunkt]]
+
 
 ---
-Übersetzung: source, fountain
+sources, springs, fountains
 
 ---
-Morpheme:
-[[Quelle]]
+[[Quel]]|[[len]]
 
 ---
-Einzigartige mögliche Formen: [[Quelle]], [[Quelle]], [[Quellen]], [[Quellen]]
+N: die [[Quelle]], die [[Quellen]]  
+A: die [[Quelle]], die [[Quellen]]  
+G: der [[Quelle]], der [[Quellen]]  
+D: der [[Quelle]], den [[Quellen]]  
 
 ---
-#Substantiv #Feminin
+[[quellen]], [[quellig]], [[quellbar]], [[Quellenangabe]], [[Quellcode]], [[Quellenforschung]]

@@ -4,7 +4,7 @@
 Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird. 
 
 ---
-Synonyme: [[besorgen]], [[fürchten]], [[argwöhnen]], [[vermuten]], [[Ahnen]]
+Synonyme: [[besorgen]], [[fürchten]], [[argwöhnen]], [[vermuten]], [[ahnen]]
 Antonyme: [[hoffen]], [[vertrauen]], [[glauben]]
 
 ---

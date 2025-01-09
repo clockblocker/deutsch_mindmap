@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Wolle]], [[Wolle(n)]]
 
 ---
 #Substantiv #Feminin
-'''
+''', [[wollen]]

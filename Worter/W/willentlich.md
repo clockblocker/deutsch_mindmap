@@ -1,1 +1,1 @@
-, [[zufällig]]
+, [[zufällig]], [[wollen]], [[Willenskraft]], [[absichtlich]]

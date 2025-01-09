@@ -8,7 +8,7 @@ Auch die Versteigerungssummen für zeitgenössische Werke können sich [[sehen]]
 
 ---
 Synonyme: [[zeigen]], [[demonstrieren]], [[vorführen]], [[präsentieren]]
-Antonyme: [[verstecken]], [[verbergen]], [[verheimlichen]]
+Antonyme: [[verstecken]], [[verbergen]], [[Worter/V/verheimlichen]]
 
 ---
 Übersetzung: to show oneself, to demonstrate

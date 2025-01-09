@@ -1,6 +1,9 @@
 [[meist]], [maɪst]
 
 ---
+25. Wahlen in Deutschland gewinnt die Partei, die … (89%)
+	- [x] die [[meisten]] Stimmen bekommt.
+
 Aber als die Welt ihn am [[meisten]] brauchte, verschwand er. 
 
 Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[auskennen]]. Doch wer über den [[Tellerrand]] [[schaut]], kann viel entdecken: Einen [[Becher]] und [[Besteck]] findet man dabei [[eher]] nicht, aber ganz bestimmt neue Perspektiven.  

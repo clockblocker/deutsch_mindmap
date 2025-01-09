@@ -31,4 +31,4 @@ Einzigartige mögliche Formen:
 [[hoch]], [[hoher]], [[hohe]], [[hohes]], [[hohen]], [[hohem]], [[hoher]], [[hohen]]
 [[höher]], [[höherer]], [[höhere]], [[höheres]], [[höheren]], [[höherem]], [[höherer]], [[höheren]]
 [[höchsten]], [[höchster]], [[höchste]], [[höchstes]], [[höchsten]], [[höchstem]], [[höchster]], [[höchsten]]
-''', [[hochschrecken]], [[schrecken]], [[Hochfahren]]
+''', [[hochschrecken]], [[schrecken]], [[Hochfahren]], [[Hochzeit]]

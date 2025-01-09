@@ -1,1 +1,1 @@
-[[zimmer]], [[Gästehaus]]
+[[zimmer]], [[Gästehaus]], [[beherbergen]]

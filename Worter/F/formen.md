@@ -1,1 +1,1 @@
-, [[bilden]], [[gestalten]], [[prägen]]
+, [[bilden]], [[gestalten]], [[prägen]], [[wohlgeformt]]

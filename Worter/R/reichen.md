@@ -3,9 +3,12 @@
 ---
 Weil ihre Ehre nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es [[reicht]]!
 
+Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]
+
 ---
 [[erreichen]] - [[er]] = [[reichen]] / to reach, to achieve, to attain
-
+[[ausreichen]] - [[aus]] = [[reichen]] / to be enough, to suffice
+ 
 
 ---
 Synonyme: [[ausreichen]], [[genügen]], [[hinreichen]], [[langen]], [[suffizieren]]

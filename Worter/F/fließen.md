@@ -30,4 +30,4 @@ Morpheme: [[fließ]][[en]]
 
 Partizip I: [[fließend]], Partizip II: [[geflossen]]
 
-[[fließen]] - [[fließ]][[en]]
+[[fließen]] - [[fließ]][[en]], [[Quelle]]

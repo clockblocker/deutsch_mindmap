@@ -1,1 +1,1 @@
-, [[kern]], [[Hälfte]], [[Grenze]]
+, [[kern]], [[Hälfte]], [[Grenze]], [[Grenz]]

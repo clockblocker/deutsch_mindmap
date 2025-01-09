@@ -3,7 +3,9 @@
 haben [[beigebracht]]
 
 ---
-Nein, es reicht! Ich hab diese Sequenz den ganzen Tag lang geübt. [[Bringt]] mir die nächste [[bei]]! Ich bin schon lange soweit
+Erinnerst du dich, wie ich Harry [[beigebracht]] habe, Löffel zu [[verbiegen]]? Wenn es so [[erschien]], als ob sie immer [[ahnen]] konnten, was du gerade dachtest — diese Technik nennt sich kalte [[Deutung]] oder cold reading
+
+-- Nein, es reicht! Ich hab diese Sequenz den ganzen Tag lang geübt. [[Bringt]] mir die nächste [[bei]]! Ich bin schon lange soweit
 
 Ihr werdet mir jetzt die nächsthöhere Stufe [[beibringen]] klar?!
 

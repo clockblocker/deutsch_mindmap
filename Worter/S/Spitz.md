@@ -1,1 +1,1 @@
-🔴 die [[Spitze]]
+🔴 die [[Spitze]], [[scharf]]

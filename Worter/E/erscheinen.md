@@ -3,6 +3,8 @@
 sein [[erschienen]]
 
 ---
+Erinnerst du dich, wie ich Harry [[beigebracht]] habe, Löffel zu [[verbiegen]]? Wenn es so [[erschien]], als ob sie immer [[ahnen]] konnten, was du gerade dachtest — diese Technik nennt sich kalte [[Deutung]] oder cold reading
+
 Als der Leopard das Fleisch des Hirsches fraß, [[erschien]] ein Löwe, der vertrieb den Leoparden mit nur einem Prankenhieb
 
 Die Kamera schwenkt nach unten, und die [[gestalten]] von Aang und Katara [[erscheinen]] über dem Horizont.
@@ -33,3 +35,4 @@ Partizip I: [[erscheinend]], Partizip II: [[erschienen]]
 [[erscheinen]] - [[er]] = [[scheinen]]
 
 [[untergehen]], [[aussehen]], [[aufgehen]], [[untertauchen]], [[verschwinden]], [[versinken]], [[auftauchten]], [[kommen]], [[wirken]]
+, [[scheinbar]], [[unscheinbar]]

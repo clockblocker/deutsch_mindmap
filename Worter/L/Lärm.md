@@ -23,4 +23,4 @@ Morphems:
 [[Lärm]]
 
 ---
-#Substantiv #Maskulin[[Ruhe]], [[Nachtruhe]]
+#Substantiv #Maskulin[[Ruhe]], [[Nachtruhe]], [[Schweige]]

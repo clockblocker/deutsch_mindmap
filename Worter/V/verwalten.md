@@ -1,1 +1,1 @@
-, [[bedienen]], [[Behörde]]
+, [[bedienen]], [[Behörde]], [[regieren]]

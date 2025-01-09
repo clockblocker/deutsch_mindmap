@@ -1,1 +1,1 @@
-, [[antrauen]], [[Standesamt]]
+, [[antrauen]], [[Standesamt]], [[Hochzeit]]

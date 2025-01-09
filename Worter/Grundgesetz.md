@@ -32,4 +32,4 @@ G: des [[Grundgesetzes]], der [[Grundgesetze]]
 D: dem [[Grundgesetz]], den [[Grundgesetzen]]  
 
 ---
-[[grundgesetzlich]], [[verfassungsmäßig]], [[gesetzlich]]
+[[grundgesetzlich]], [[verfassungsmäßig]], [[gesetzlich]], [[Versammlungsfreiheit]]

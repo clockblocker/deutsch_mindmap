@@ -2,6 +2,8 @@
 nicht [[leicht]], [[schwer]]
 
 ---
+„Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
+
 *Also sprach in [[ernstem]] Ton*  
 *der Papa zu seinem Sohn,*  
 

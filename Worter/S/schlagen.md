@@ -19,6 +19,7 @@ NIC: Herr Scott, Beine übereinander [[schlagen]].
 [[einschlagen]] - [[ein]] = [[schlagen]] /  to hit, to strike
 [[wegschlagen]] - [[weg]] = [[schlagen]] / strike away
 [[vorschlagen]] - [[vor]] = [[schlagen]] / to suggest, to propose
+[[umschlagen]] - [[um]] = [[schlagen]] / to turn over, to change, to transform
 
 
 ---
@@ -89,4 +90,4 @@ Konjunktiv II:
 - Wenn er schneller wäre, [[schlüge]] er zuerst.
 - Wenn wir gut vorbereitet wären, [[schlügen]] wir das Zelt schneller auf.
 - Wenn ihr euch beeiltet, [[schlüget]] ihr noch pünktlich zu.
-- Wenn sie trainieren würden, [[schlügen]] sie ihre Gegner.[[Quirlen]], [[klopfen]], [[peitschen]], [[herausschlagen]], [[totschlagen]], [[einschlagen]], [[wegshlagen]], [[klapfen]], [[vorschlagen]], [[stupsen]]
+- Wenn sie trainieren würden, [[schlügen]] sie ihre Gegner.[[Quirlen]], [[klopfen]], [[peitschen]], [[herausschlagen]], [[totschlagen]], [[einschlagen]], [[wegshlagen]], [[klapfen]], [[vorschlagen]], [[stupsen]], [[um­schlagen]]

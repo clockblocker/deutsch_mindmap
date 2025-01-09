@@ -41,4 +41,4 @@ Morpheme: [[um]][[dreh]][[en]]
 Partizip I: [[umdrehend]], Partizip II: [[umgedreht]]
 
 [[umdrehen]] - [[um]] = [[drehen]]
-, [[wegdrehen]]
+, [[wegdrehen]], [[verdrehen]]

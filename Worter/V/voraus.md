@@ -20,4 +20,4 @@ Morpheme:
 [[vor]] [[aus]]
 
 ---
-, [[hinterdrein]]
+, [[hinterdrein]], [[vorderen]]

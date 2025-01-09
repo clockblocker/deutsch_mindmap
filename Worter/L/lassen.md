@@ -1,8 +1,8 @@
-🛑 [[lassen]]  
-[[ließ]]  
-haben [[gelassen]]
+🤲 [[lassen]], [ˈlasən] | [[ließ]], haben [[gelassen]]
 
 ---
+„Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
+
 Und ach ... [[Lass]] die Tarantel nicht rein
 
 *[[stehen lassen|laß stehn]]! sonst brennst du lichterloh!"*
@@ -16,61 +16,36 @@ STEFAN: Also zurück zum Thema, [[Lass]] uns über dich und mich rede
 *Der sprach: »Ihr Kinder, hört mir zu*  
 *und [[laßt]] den Mohren hübsch in Ruh!*  
 
+---
+[[verlassen]] - [[ver]] = [[lassen]]           / abandon
+[[erlassen]] - [[er]] = [[lassen]]               / to decree, to enact, to grant
+[[überlassen]] - [[über]] = [[lassen]]      / to entrust, to hand over
+[[hineinlassen]] - [[hinein]] = [[lassen]] / to let in, to admit
 
 ---
-
-**Synonyme:**
-
-- [[zulassen]], [[gestatten]], [[erlauben]]
-
----
-
-**Beispiele:**
-
-- Ich [[lasse]] die Tür offen.
-- Du [[lässt]] ihn gehen.
-- Er [[lässt]] den Hund raus.
-- Es [[lässt]] sich nicht ändern.
-- Sie [[lässt]] die Kinder spielen.
-- Wir [[lassen]] das Fenster zu.
-- Ihr [[lasst]] die Sachen liegen.
-- Sie [[lassen]] die Arbeit ruhen.
+= [[erlauben]], [[zulassen]], [[gestatten]]
+≈ [[dulden]], [[geschehen lassen]], [[tolerieren]]
+≠ [[verbieten]], [[untersagen]], [[verhindern]]
 
 ---
-
-**Übersetzung**:
-to let, to allow
+to let, to allow, to leave
 
 ---
- #Verb  #Unregelmäßig
+[[las]]|[[sen]]
 
 ---
+ich: [[lasse]], [[ließ]], –, [[lasse]], [[ließe]]
+du: [[lässt]], [[ließest]], [[lass]] | [[lasse]], [[ließest]]
+er/sie/es: [[lässt]], [[ließ]], –, [[lasse]], [[ließe]]
+wir: [[lassen]], [[ließen]], [[lassen wir|lassen]], [[lassen]], [[ließen]]
+ihr: [[lasst]], [[ließt]], [[lasst]], [[lasset]], [[ließet]]
 
-**Präteritum:**
-
-- Ich [[ließ]] die Tür offen.
-- Du [[ließest]] ihn gehen.
-- Er [[ließ]] den Hund raus.
-- Es [[ließ]] sich nicht ändern.
-- Sie [[ließ]] die Kinder spielen.
-- Wir [[ließen]] das Fenster zu.
-- Ihr [[ließt]] die Sachen liegen.
-- Sie [[ließen]] die Arbeit ruhen.
+PI: [[lassend]], PII: [[gelassen]], Zu+inf: [[zu lassen]]
 
 ---
-
-**Imperativ:**
-
-- Ich [[lasse]] ihn in Ruhe.
-- Du [[Lass]] ihn in Ruhe.
-- Er [[lasse]] ihn in Ruhe.
-- Es [[lässt]] ihn in Ruhe.
-- Sie [[lasse]] ihn in Ruhe.
-- Wir [[lassen]] ihn in Ruhe.
-- Ihr [[lasst]] ihn in Ruhe.
-- Sie [[lassen]] ihn in Ruhe.
+[[lassen]] - irregular verb / to let, to allow, to leave
 
 ---
+[[Erlaubnis]], [[Zulassung]], [[Toleranz]], [[Passivität]], [[Genehmigung]]
 
-**Morphems of only infinitive:**  
-- [[Lass]][[en]][[stören]][[verlassen]][[Quirlen]][[umschalten]][[ändern]], [[tun]], [[stehen lassen]], [[versuchen]], [[wechseln]], [[sehen lassen]], [[gestrichen]]
+[[stören]], [[Quirlen]], [[umschalten]], [[ändern]], [[tun]], [[stehen lassen]], [[versuchen]], [[wechseln]], [[sehen lassen]], [[gestrichen]], 

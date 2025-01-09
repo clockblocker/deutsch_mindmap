@@ -28,4 +28,4 @@ SAM: Ja [[wirklich]], Anna? Und warum?
 - [[wahrhaft]]
 - [[ernsthaft]]
 
-[[allerdings]], [[bald]], [[eigentlich]], [[angehen]], [[sogenannt]]
+[[allerdings]], [[bald]], [[eigentlich]], [[angehen]], [[sogenannt]], [[scheinbar]]

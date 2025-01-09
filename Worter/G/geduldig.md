@@ -2,7 +2,7 @@
 nicht [[ungeduldig]]
 
 ---
-Aber Anna fragt weiter: „Wo liegt das?“ „In Nordrhein-Westfalen“, sagt die Mutter geduldig. 
+Aber Anna fragt weiter: „Wo liegt das?“ „In Nordrhein-Westfalen“, sagt die Mutter [[geduldig]]. 
 
 
 ---

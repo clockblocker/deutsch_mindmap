@@ -1,1 +1,1 @@
-[[bericht]], [[Auskunft]], [[Nachricht]], [[Bescheid]], [[Meldung]]
+[[bericht]], [[Auskunft]], [[Nachricht]], [[Bescheid]], [[Meldung]], [[Angabe]]

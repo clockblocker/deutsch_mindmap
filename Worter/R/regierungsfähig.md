@@ -1,1 +1,1 @@
-, [[Regierung]], [[regierend]]
+, [[Regierung]], [[regierend]], [[regieren]]

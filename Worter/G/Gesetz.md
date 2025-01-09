@@ -2,6 +2,12 @@
 die [[Gesetze]]
 
 ---
+38. Was ist die Arbeit eines [[Richters]] / einer Richterin in Deutschland? (88%)
+	- [ ] Deutschland [[regieren]]
+	- [x] [[Recht]] sprechen
+	- [ ] Pläne [[erstellen]]
+	- [ ] [[Gesetze]] [[erlassen]]
+
 247. Eine Frau ist [[schwanger]]. Sie ist kurz vor und nach der [[Geburt]] ihres Kindes vom [[Gesetz]] [[besonders]] [[beschützt]]. Wie heißt dieser [[Schutz]]? (99%)
 	- [ ] [[Elternzeit]]
 	- [ ] [[Geburtsvorbereitung]]

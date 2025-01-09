@@ -5,7 +5,7 @@
 
 ---
 Synonyme: [[berichten]], [[mitteilen]], [[berichten]], [[schildern]], [[vermitteln]]
-Antonyme: [[schweigen]], [[verschweigen]], [[verheimlichen]]
+Antonyme: [[schweigen]], [[verschweigen]], [[Worter/V/verheimlichen]]
 
 ---
 to tell, to narrate, to relate

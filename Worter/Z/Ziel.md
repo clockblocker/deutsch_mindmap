@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Ziels]], [[Zielen]]
 ---
 #Substantiv #Neutral
 
-, [[zielen]]
+, [[zielen]], [[Quelle]]

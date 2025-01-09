@@ -7,7 +7,7 @@ _Alle melden sich und gehen weg. Sokka schlägt sich ins Gesicht_
 
 ---
 Synonyme: [[anmelden]], [[berichten]], [[mitteilen]], [[informieren]], [[ankündigen 1]]
-Antonyme: [[verschweigen]], [[verheimlichen]], [[zurückhalten]]
+Antonyme: [[verschweigen]], [[Worter/V/verheimlichen]], [[zurückhalten]]
 
 ---
 Übersetzung: to report, to announce, to register

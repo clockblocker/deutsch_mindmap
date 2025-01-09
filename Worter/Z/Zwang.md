@@ -1,11 +1,16 @@
 🔵 der [[Zwang]]
 die [[Zwänge]]
 
-Beispiele:
+---
+*Keiner weiß wie lang* 
+*Ja, für ein Leben ohne [[Zwang]]* 
 
-- Keiner weiß wie lang 
-  Ja, für ein Leben ohne [[Zwang]] 
-- 
+23. An demokratischen Wahlen in Deutschland teilzunehmen ist … (89%)
+	- [ ] eine [[Pflicht]].
+	- [x] ein [[Recht]].
+	- [ ] ein [[Zwang]].
+	- [ ] eine [[Last]].
+
 ---
 Synonyme:
 - [[Druck]], [[Nötigung]], [[Zwangslage]]
@@ -19,4 +24,4 @@ Morphems:
 [[Zwang]]
 
 ---
-#Substantiv #Masculin, [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]], [[Folter]]
+#Substantiv #Masculin, [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]], [[Folter]], [[recht]]

@@ -24,4 +24,4 @@ Accusative: den [[Held]], die [[Helden]]
 Genitive: des [[Helden]], der [[Helden]]  
 Dative: dem [[Helden]], den [[Helden]] 
 
-[[heldenhaft]], [[heldenmütig]], [[Heldentum]], [[Heldentat]]
+[[heldenhaft]], [[heldenmütig]], [[Heldentum]], [[Heldentat]], [[Mistkerl]]

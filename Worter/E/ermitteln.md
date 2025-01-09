@@ -5,7 +5,7 @@ In einem kleinen [[Dorf]] wurde ein [[Koffer]] mit sehr viel Geld [[gestohlen]].
 
 ---
 Synonyme: [[untersuchen]], [[recherchieren]], [[nachforschen]], [[erforschen]], [[aufklären]]
-Antonyme: [[vertuschen]], [[verheimlichen]], [[verschleiern]], [[ignorieren]]
+Antonyme: [[vertuschen]], [[Worter/V/verheimlichen]], [[verschleiern]], [[ignorieren]]
 
 ---
 to investigate, to determine, to find out

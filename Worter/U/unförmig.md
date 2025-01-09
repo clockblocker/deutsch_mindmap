@@ -1,1 +1,1 @@
-, [[kugelrund]]
+, [[kugelrund]], [[wohlgeformt]]

@@ -1,6 +1,8 @@
 fast, [fɑst], [[bald]]
 
 ---
+Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]
+
 Und manche Menschen hören sich dabei [[fast]] so an wie ein Vogel – wie der Zaunkönig, der auch Schneekönig genannt wird. 
 
 _[Dreht sich zu dem Kind]_ Ich werde euch auch sehr vermissen. _Er sieht zu Katara, die [[fast]] weint und zieht Appa an den [[Zügeln]]_ Komm mein Junge.

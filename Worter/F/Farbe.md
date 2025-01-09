@@ -19,4 +19,4 @@ Beispiele:
 
 #Substantiv
 #Feminin
-, [[bemalen]]
+, [[bemalen]], [[smaragdgrüner]], [[Hautfarbe]]

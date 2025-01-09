@@ -16,4 +16,4 @@ Synonyme:
 **Übersetzung**: in front, ahead
 
 ---
-#Adverb, [[voraus]], [[s1 e1]]
+#Adverb, [[voraus]], [[s1 e1]], [[vorderen]]

@@ -25,4 +25,4 @@ Einzigartige mögliche Formen: [[Ergebnisses]], [[Ergebnis]], [[Ergebnisse]], [[
 ---
 #Substantiv #Neutrum
 
-, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]]
+, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]], [[Zwischenergebnis]]

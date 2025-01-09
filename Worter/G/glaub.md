@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Glaubes]], [[Glauben]], [[Glaubens]], [[Glaubensmeinung]], [[Glaubensvorstellung]], [[Glaubensüberzeugung]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[vermuten]]

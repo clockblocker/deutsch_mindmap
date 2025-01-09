@@ -5,7 +5,7 @@ Er würde gern mehr [[Verantwortung]] übernehmen, hat er zum Chef gesagt.
 
 ---
 Synonyme: [[rechtfertigen]], [[verteidigen]], [[erklären]], [[begründen]], [[erläutern]]
-Antonyme: [[verschweigen]], [[verheimlichen]], [[leugnen]], [[ignorieren]]
+Antonyme: [[verschweigen]], [[Worter/V/verheimlichen]], [[leugnen]], [[ignorieren]]
 
 ---
 to be responsible for, to account for, to justify

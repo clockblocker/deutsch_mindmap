@@ -25,4 +25,4 @@ G: der [[Behandlung]], der [[Behandlungen]]
 D: der [[Behandlung]], den [[Behandlungen]]  
 
 ---
-[[behandeln]], [[behandelbar]], [[Behandlungsmethode]], [[Behandlungsplan]], [[medizinisch]]
+[[behandeln]], [[behandelbar]], [[Behandlungsmethode]], [[Behandlungsplan]], [[medizinisch]], [[Gleichbehandlung]]

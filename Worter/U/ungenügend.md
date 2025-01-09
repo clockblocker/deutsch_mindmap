@@ -1,1 +1,1 @@
-[[prima]], [[trefflich]], [[genug]], [[fehlerhaft]]
+[[prima]], [[trefflich]], [[genug]], [[fehlerhaft]], [[ausreichen]]

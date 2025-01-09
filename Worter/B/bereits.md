@@ -5,6 +5,8 @@ Es gibt [[bereits]] [[zahlreiche]] [[Ausstellungen]] zu den Themen Berliner Maue
 
 Über die Jahre kam eine schöne Summe zusammen, und Laura [[studierte]] [[bereits]] die Immobilienangebote in der Zeitung und im Internet. 
 
+Midorima zu Kuro: wir kennen [[bereits]] deine [[Grenzren]]
+
 ---
 Synonyme: [[schon]], [[jetzt]], [[nun]], [[inzwischen]], [[mittlerweile]], [[bald]]
 Antonyme: [[noch nicht]], [[später]], [[danach]]
@@ -24,4 +26,4 @@ Typische Verwendung:
 - "Er ist bereits angekommen."
 - "Das Buch ist bereits ausverkauft."
 - "Ich habe das bereits erledigt."
-'''
+''', [[Grenz]]

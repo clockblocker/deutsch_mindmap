@@ -5,18 +5,12 @@ _Aang achtet [[jedoch]] nur auf sie und kracht mitten im Flug in Sokkas Wachturm
 
 Aang findet [[jedoch]] ein Loch in der Decke.
 
+Der Professor und seine Frau reden in [[scharfem]] Ton miteinander, [[schreien]] [[jedoch]] nicht. Schreien hält der Professor für unzivilisiert.
+
 ---
 
 Synonyme:
 - [[aber]], [[doch]], [[dennoch]]
-
----
-
-Beispiele:
-
-- Er wollte gehen, [[Jedoch]] blieb er noch eine Weile.
-- Es regnete stark, [[Jedoch]] gingen wir spazieren.
-- Sie war müde, [[Jedoch]] arbeitete sie weiter.
 
 ---
 **Übersetzung**: however, nevertheless

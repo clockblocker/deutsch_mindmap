@@ -3,7 +3,7 @@
 haben [[abgebogen]]
 
 ---
-Es ist ja nicht so, als müsste man nur am zweiten Gletscher rechts [[abbiegen]]. Sie wohnen am anderen Ende der Welt!
+Es ist ja nicht so, als müsste man nur am zweiten [[Gletscher]] rechts [[abbiegen]]. Sie wohnen am anderen Ende der Welt!
 
 ---
 Synonyme: [[abwenden]], [[ablenken]], [[kurven]], [[wenden]]

@@ -6,6 +6,12 @@ SASCHA: Zu spät! Ich [[kündige]]!
 
 Er bestellt sofort die Zeitschriften ab und [[kündigt]] das Fitnessstudio. 
 
+24. Was kann ich in Deutschland machen, wenn mir mein [[Arbeitgeber]] / meine Arbeitgeberin zu [[Unrecht]] [[gekündigt]] hat? (89%)
+	- [ ] weiter arbeiten und freundlich zum Chef / zur Chefin sein
+	- [ ] ein [[Mahnverfahren]] gegen den Arbeitgeber / die Arbeitgeberin führen
+	- [x] [[Kündigungsschutzklage]] [[erheben]]
+	- [ ] den Arbeitgeber / die Arbeitgeberin bei der Polizei [[anzeigen]]
+
 ---
 Synonyme: [[beenden]], [[aufheben]], [[abbrechen]], [[terminieren]], [[beendigen]], [[feuern]], [[abbestellen]]
 Antonyme: [[verlängern]], [[fortsetzen]], [[beibehalten]]

@@ -1,1 +1,1 @@
-, [[zufällig]], [[antun]]
+, [[zufällig]], [[antun]], [[Absicht]], [[absichtlich]]

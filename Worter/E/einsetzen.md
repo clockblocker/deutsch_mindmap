@@ -32,3 +32,4 @@ Zu+infinifive: [[einzusetzen]]
 [[Einsatz]], [[Einsetzen]], [[Einsetzung]], [[Einsatzbereit]], [[Einsatzleiter]], [[Einsatzfahrzeug]]
 
 , [[benutzen]], [[herausnehmen]], [[verwenden]], [[nutzen]], [[stecken]], [[schäftigen]], [[Einsatzes]]
+, [[anwenden]]

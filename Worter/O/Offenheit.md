@@ -1,1 +1,1 @@
-, [[öffnen]], [[Zulassungsgrenze]]
+, [[öffnen]], [[Zulassungsgrenze]], [[Um­schlag]], [[Freizügigkeit]]

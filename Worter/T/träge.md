@@ -1,1 +1,1 @@
-, [[faul]], [[geschwind]], [[bald]], [[flott]], [[lebhaft]], [[Vereinsbeitrag]]
+, [[faul]], [[geschwind]], [[bald]], [[flott]], [[lebhaft]], [[Vereinsbeitrag]], [[zügig]]

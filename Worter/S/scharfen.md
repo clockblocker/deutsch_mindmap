@@ -1,5 +1,3 @@
-Processed the word scharfen. Identified it as a Verb. Picked the emoji 🔪 because a sharp object like a knife is associated with the verb "to sharpen".
-
 🔪 [[scharfen]], [ˈʃaʁfn̩]
 [[schärfte]]
 haben [[geschärft]]

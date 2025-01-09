@@ -3,6 +3,8 @@
 haben [[vertraut]]
 
 ---
+Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
+
 NIC: Ja ich kenn mich da aus Sam, [[vertrau]] mir!  
 
 Die [[Zuschauer]] müssen dir [[vertrauen]].  

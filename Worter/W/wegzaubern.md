@@ -6,7 +6,7 @@ haben [[wegezaubert]]
 Heute werde ich meine wunderschöne Assistentin, Sascha, [[wegzaubern]]!  
 
 ---
-Synonyme: [[verschwinden lassen]], [[verbergen]], [[verheimlichen]], [[beseitigen]], [[entfernen]]
+Synonyme: [[verschwinden lassen]], [[verbergen]], [[Worter/V/verheimlichen]], [[beseitigen]], [[entfernen]]
 Antonyme: [[erscheinen lassen]], [[zeigen]], [[präsentieren]], [[enthüllen]]
 
 ---

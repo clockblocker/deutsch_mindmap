@@ -1,1 +1,1 @@
-, [[hervorragend]], [[Besserwisserei 1]], [[besonders]], [[schlimm]], [[gelungen]]
+, [[hervorragend]], [[Besserwisserei 1]], [[besonders]], [[schlimm]], [[gelungen]], [[toll]], [[großartig]]

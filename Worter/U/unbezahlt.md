@@ -29,3 +29,4 @@ P: [[unbezahlten]], [[unbezahlteteren]], [[unbezahltetesten]]
 [[bezahlen]], [[Bezahlung]], [[Gehalt]], [[Lohn]], [[Vergütung]]
 
 [[finanziell]]
+, [[unfrankierter]]

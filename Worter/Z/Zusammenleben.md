@@ -1,1 +1,1 @@
-, [[Ehescheidung]]
+, [[Ehescheidung]], [[Trennungsjahr]], [[Scheidungsprozess]]

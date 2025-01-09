@@ -1,1 +1,1 @@
-[[Treu]], [[geduldig]], [[kontinuierlich]]
+[[Treu]], [[geduldig]], [[kontinuierlich]], [[standhaft]]

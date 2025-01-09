@@ -1,1 +1,1 @@
-, [[schrumpfen]]
+, [[schrumpfen]], [[vergilben]]

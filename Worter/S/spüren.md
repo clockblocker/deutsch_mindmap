@@ -31,4 +31,4 @@ Morpheme: [[sp]][[ür]][[en]]
 
 Partizip I: [[spürend]], Partizip II: [[gespürt]]
 [[spüren]] - [[Ø]] = [[spüren]]
-, [[witterten]]
+, [[witterten]], [[ahnen]]

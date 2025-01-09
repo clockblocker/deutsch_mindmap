@@ -1,1 +1,1 @@
-, [[reich]], [[reichen]]
+, [[reich]], [[reichen]], [[ausreichen]]

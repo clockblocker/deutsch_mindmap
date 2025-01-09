@@ -19,4 +19,4 @@ Morphems:
 [[Send]][[en]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[funkten]]

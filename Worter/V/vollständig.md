@@ -1,1 +1,1 @@
-[[ganz]], [[völlig]], [[halbes]], [[voll]], [[gesamt]], [[ziemlich]], [[Vollbremsung]]
+[[ganz]], [[völlig]], [[halbes]], [[voll]], [[gesamt]], [[ziemlich]], [[Vollbremsung]], [[mehrheitlich]]

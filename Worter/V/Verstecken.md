@@ -26,7 +26,7 @@ Und wie's aussieht auch sein [[Versteck]]!
 
 **Synonyme:**
 
-- [[verbergen]], [[verhüllen]], [[verheimlichen]]
+- [[verbergen]], [[verhüllen]], [[Worter/V/verheimlichen]]
 
 ---
 

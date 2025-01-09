@@ -3,7 +3,7 @@
 haben [[aufgedreht]]
 
 ---
-3. [[Wasserhahn]] aufdrehen.
+3. [[Wasserhahn]] [[aufdrehen]].
 
 
 ---

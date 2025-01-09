@@ -24,4 +24,4 @@ N: [[bewusstes]], [[bewussteres]], [[bewusstestes]]
 P: [[bewussten]], [[bewussteren]], [[bewusstesten]]  
 
 ---
-[[Bewusstsein]], [[bewusstlos]], [[unbewusst]], [[bewusstmachen]], [[bewusstwerden]]
+[[Bewusstsein]], [[bewusstlos]], [[unbewusst]], [[bewusstmachen]], [[bewusstwerden]], [[absichtlich]]

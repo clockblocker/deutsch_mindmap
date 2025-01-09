@@ -26,4 +26,4 @@ Feminine: [[beleidigte]], [[beleidigere]], [[beleidigste]]
 Neuter: [[beleidigtes]], [[beleidigeres]], [[beleidigtes]]  
 Plural: [[beleidigten]], [[beleidigteren]], [[beleidigsten]]  
 
-[[Beleidigung]], [[beleidigen]], [[Beleidiger]]
+[[Beleidigung]], [[beleidigen]], [[Beleidiger]], [[schmollen]]

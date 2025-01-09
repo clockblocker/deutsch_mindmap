@@ -1,1 +1,1 @@
-[[vereint]][[andere]], [[verschiedene]], [[unterschiedlich]], [[Einheitliche]], [[Einheit]]
+[[vereint]][[andere]], [[verschiedene]], [[unterschiedlich]], [[Einheitliche]], [[Einheit]], [[mehrheitlich]]

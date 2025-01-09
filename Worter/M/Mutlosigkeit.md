@@ -1,1 +1,1 @@
-, [[mutig]]
+, [[mutig]], [[Willenskraft]]

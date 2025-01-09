@@ -1,1 +1,1 @@
-, [[rechtzeitig]], [[zeitgenössische]], [[Elternzeit]], [[Adventszeit]], [[Zeitarbeiter]]
+, [[rechtzeitig]], [[zeitgenössische]], [[Elternzeit]], [[Adventszeit]], [[Zeitarbeiter]], [[Hochzeit]]

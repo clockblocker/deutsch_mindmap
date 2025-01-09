@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abdddc3f92a4c567",
+        "id": "0e48ba47b831ddae",
         "type": "tabs",
         "children": [
           {
-            "id": "f7581b57e02be662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Avatar/s1 e2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "s1 e2"
-            }
-          },
-          {
-            "id": "3fcea6283f243cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/F/Faust.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Faust"
-            }
-          },
-          {
-            "id": "7ec3812fea549ffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/E/erscheinen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "erscheinen"
-            }
-          },
-          {
-            "id": "8fc26fb4e6b2ab01",
+            "id": "de13bbfc6992bc14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,229 +20,8 @@
               "icon": "lucide-file",
               "title": "121-150"
             }
-          },
-          {
-            "id": "fdea8ea565019be3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "333992d013c592fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Tschechien.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tschechien"
-            }
-          },
-          {
-            "id": "94bda334483fbd4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Anwalt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anwalt"
-            }
-          },
-          {
-            "id": "23a623d456768494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Anwalt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anwalt"
-            }
-          },
-          {
-            "id": "f6e8a91a2979d882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/A/anregen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "anregen"
-            }
-          },
-          {
-            "id": "49ff0767db318e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/bewerben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bewerben"
-            }
-          },
-          {
-            "id": "20b8dda77479fe38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/wirtschaftlichen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wirtschaftlichen"
-            }
-          },
-          {
-            "id": "aac66e681e333955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/W/wirtschaftlich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wirtschaftlich"
-            }
-          },
-          {
-            "id": "5f3bef2742a53530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/begrenzt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "begrenzt"
-            }
-          },
-          {
-            "id": "9b1f806356c40570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/begrenzen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "begrenzen"
-            }
-          },
-          {
-            "id": "1a27277c7d7c25b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/begrenzt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "begrenzt"
-            }
-          },
-          {
-            "id": "a823ef05338e8d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/begrenzen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "begrenzen"
-            }
-          },
-          {
-            "id": "e06e0a689d20c888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Feuerdolch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feuerdolch"
-            }
-          },
-          {
-            "id": "76a74c5fd611ddfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/dumpf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dumpf"
-            }
-          },
-          {
-            "id": "6903fbed85b5d0e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/stürmt zu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "stürmt zu"
-            }
-          },
-          {
-            "id": "c06a79d11235296f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Z/zustürmen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "zustürmen"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -426,34 +163,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8fc26fb4e6b2ab01",
+  "active": "de13bbfc6992bc14",
   "lastOpenFiles": [
-    "Worter/Verfahren.md",
-    "Worter/G/Gericht.md",
-    "Worter/P/Prozess.md",
-    "Worter/P/Prozessmanagement.md",
-    "Worter/V/Verfahrensdokumentation.md",
-    "Worter/V/Verfahrensablauf.md",
-    "Worter/V/Verfahrensweise.md",
-    "Worter/V/Verfahrens.md",
-    "Worter/S/Strategie.md",
-    "Worter/T/Technik.md",
-    "Texte/Einbuergerungstest/121-150.md",
-    "Texte/Einbuergerungstest/91-120.md",
-    "Worter/Feuerdolche.md",
-    "Worter/bewirbt.md",
-    "Texte/Einbuergerungstest/61-90.md",
     "Texte/Einbuergerungstest/Not trivial.md",
-    "Worter/Tschechien.md",
-    "Worter/M/mitteleuropäisch.md",
-    "Worter/P/Prag.md",
-    "Worter/T/Tschechin.md",
-    "Worter/T/Tscheche.md",
-    "Worter/T/tschechisch.md",
-    "Worter/T/Tschechiens.md",
-    "Worter/I/ien.md",
-    "Worter/T/Tschech.md",
-    "Worter/Ö/Österreich.md",
+    "Texte/Einbuergerungstest/121-150.md",
+    "Worter/mehrheitlich.md",
+    "Worter/M/mehreren.md",
+    "Worter/M/Mehrzahl.md",
+    "Worter/M/Mehrheitsentscheid.md",
+    "Worter/M/mehrheitlichstes.md",
+    "Worter/M/mehrheitlicheres.md",
+    "Worter/M/mehrheitliches.md",
+    "Worter/M/mehrheitlichste.md",
+    "Worter/M/mehrheitlichere.md",
+    "Worter/M/mehrheitliche.md",
+    "Worter/M/mehrheitlichstem.md",
+    "Worter/M/mehrheitlichenem.md",
+    "Worter/M/mehrheitlichem.md",
+    "Worter/M/mehrheitlichsten.md",
+    "Worter/M/mehrheitlicheren.md",
+    "Worter/M/mehrheitlichen.md",
+    "Worter/M/mehrheitlichster.md",
+    "Worter/M/mehrheitlicher.md",
+    "Worter/E/einstimmig.md",
+    "Worter/M/meisten.md",
+    "Worter/M/meist.md",
+    "Worter/U/unrecht.md",
+    "Worter/G/gekündigt.md",
+    "Worter/K/kündigen.md",
     "Worter/Č",
     "Alleinerziehende",
     "Worter/(",

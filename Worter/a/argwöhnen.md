@@ -1,1 +1,1 @@
-, [[vertrauen]], [[befürchten]]
+, [[vertrauen]], [[befürchten]], [[vermuten]]

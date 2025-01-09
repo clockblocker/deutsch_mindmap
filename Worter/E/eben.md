@@ -27,4 +27,4 @@ Morpheme:
 [[eben]]
 
 ---
-''', [[Extra 8]], [[ebenfalls]], [[schnallen]]
+''', [[Extra 8]], [[ebenfalls]], [[schnallen]], [[Ebene]]

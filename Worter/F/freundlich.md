@@ -1,1 +1,1 @@
-, [[unhöflich]], [[nett]], [[bös]], [[böse]], [[beleidigt]], [[garstig]]
+, [[unhöflich]], [[nett]], [[bös]], [[böse]], [[beleidigt]], [[garstig]], [[gemein]], [[schmollen]]

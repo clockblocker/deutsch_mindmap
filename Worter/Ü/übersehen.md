@@ -33,4 +33,4 @@ Zu+infinifive: [[zu übersehen]]
 
 
 [[spüren]], [[kontrollieren]], [[verstehen]], [[ansehen]], [[bemerken]], [[erkennen]], [[recherchieren]], [[zählen]], [[entdeckten]], [[sehen]], [[gucken]], [[ausmachen]], [[witterten]], [[checken]], [[erleben]], [[umsehen]], [[durchchecken]], [[merken]], [[angucken]], [[finden]], [[blicken]], [[beobachten]], [[aufsehen]], [[schauen]], [[absuchen]], [[verbuchen]], [[durchsuchen]], [[hervorheben]]
-, [[befinden]], [[auslesen]], [[beachten]], [[begreifen]], [[mustern]]
+, [[befinden]], [[auslesen]], [[beachten]], [[begreifen]], [[mustern]], [[erfahren]]

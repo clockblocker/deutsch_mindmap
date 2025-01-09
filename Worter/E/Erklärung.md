@@ -1,1 +1,1 @@
-, [[Anleitung]]
+, [[Anleitung]], [[Deutung]], [[Angabe]]

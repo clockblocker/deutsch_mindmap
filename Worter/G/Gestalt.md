@@ -33,4 +33,4 @@ Verwendungsbeispiele:
 
 Einzigartige mögliche Formen: 
 [[Gestalt]], [[Gestalt]], [[Gestalt]], [[Gestalt]], [[Gestalt]], [[Gestalt]], [[Gestalt]], [[Gestalt]]
-[[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]]
+[[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]], [[Gestalten]], [[wohlgeformt]]

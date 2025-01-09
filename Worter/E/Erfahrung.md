@@ -33,4 +33,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[Erfahrung]], [[Erfahrung]], [[Erfahrungen]], [[Erfahrungen]]
+[[Erfahrung]], [[Erfahrung]], [[Erfahrungen]], [[Erfahrungen]], [[erfahren]], [[erfahrenen]]

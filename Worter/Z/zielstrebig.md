@@ -1,1 +1,1 @@
-, [[faul]], [[entschlossen]]
+, [[faul]], [[entschlossen]], [[standhaft]]

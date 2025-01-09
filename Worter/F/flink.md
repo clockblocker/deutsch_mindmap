@@ -1,1 +1,1 @@
-, [[geschwind]]
+, [[geschwind]], [[zügig]]

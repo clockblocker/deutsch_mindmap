@@ -1,1 +1,1 @@
-, [[Hölzern]]
+, [[Hölzern]], [[Holzplatte]]

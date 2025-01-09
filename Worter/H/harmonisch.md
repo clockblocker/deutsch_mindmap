@@ -1,1 +1,1 @@
-[[vereint]][[ruhig]], [[vereinbar]]
+[[vereint]][[ruhig]], [[vereinbar]], [[wohlgeformt]]

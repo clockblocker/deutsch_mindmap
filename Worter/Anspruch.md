@@ -27,4 +27,4 @@ G: des [[Anspruchs]], der [[Ansprüche]]
 D: dem [[Anspruch]], den [[Ansprüchen]]  
 
 ---
-[[ansprechen]], [[anspruchsvoll]], [[beanspruchen]], [[Anspruchsdenken]], [[anspruchslos]]
+[[ansprechen]], [[anspruchsvoll]], [[beanspruchen]], [[Anspruchsdenken]], [[anspruchslos]], [[recht]]

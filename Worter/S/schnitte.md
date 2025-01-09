@@ -1,1 +1,1 @@
-, [[Scheibe 1]]
+, [[Scheibe]]

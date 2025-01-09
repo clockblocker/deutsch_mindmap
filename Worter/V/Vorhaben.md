@@ -1,1 +1,1 @@
-, [[Ziel]]
+, [[Ziel]], [[wollen]], [[Absicht]]

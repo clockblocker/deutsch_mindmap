@@ -3,7 +3,9 @@
 haben [[gefüllt]]
 
 ---
+Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]. Einige von ihnen sind bis an den [[Rand]] [[gefüllt]] mit dicken [[Wälzern]] über Naturwissenschaften, Mathematik, Geschichte und all das. 
 
+---
 [[erfüllen]] - [[er]] = [[füllen]] / to fulfill, to realize, to accomplish
 
 ---

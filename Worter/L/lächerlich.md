@@ -2,6 +2,8 @@
 nicht [[ernsthaft]], nicht [[seriös]]
 
 ---
+Midorima zu Kuro: Diener [[Spielzüge]] sind [[lächerlich]]
+
 *Es ist [[lächerlich]]*  
 *sagt der [[Stolz]]*  
 

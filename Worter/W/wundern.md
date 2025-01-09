@@ -9,7 +9,7 @@ haben/sein [[gewundert]]
 
 ---
 Synonyme: [[erstaunen]], [[überraschen]], [[staunen]], [[erstaunt sein]], [[verblüffen]]
-Antonyme: [[erwarten]], [[begreifen]], [[verstehen]], [[Ahnen]]
+Antonyme: [[erwarten]], [[begreifen]], [[verstehen]], [[ahnen]]
 
 ---
 Übersetzung: to wonder, to be surprised

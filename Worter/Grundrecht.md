@@ -32,4 +32,4 @@ G: des [[Grundrechts]], der [[Grundrechte]]
 D: dem [[Grundrecht]], den [[Grundrechten]]  
 
 ---
-[[grundrechtswidrig]], [[Grundrechtskatalog]], [[Grundrechtsverletzung]], [[verfassungsrechtlich]]
+[[grundrechtswidrig]], [[Grundrechtskatalog]], [[Grundrechtsverletzung]], [[verfassungsrechtlich]], [[Versammlungsfreiheit]], [[recht]]

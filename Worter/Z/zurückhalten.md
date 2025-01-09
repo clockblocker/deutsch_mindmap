@@ -1,1 +1,1 @@
-, [[zugeworfen]], [[vorstellen]], [[eindringen]], [[abgeben]]
+, [[zugeworfen]], [[vorstellen]], [[eindringen]], [[abgeben]], [[überlassen]], [[hineinlassen]]

@@ -1,1 +1,1 @@
-, [[offensichtlich]], [[dumpf]]
+, [[offensichtlich]], [[dumpf]], [[Deutung]]

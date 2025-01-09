@@ -1,6 +1,9 @@
 🏠 [[beziehen]], [bəˈtsiːən] | [[bezog]], haben [[bezogen]]
 
 ---
+ [Player to the team] -- Wie habt ihr Kaijo beziegt? 
+ Durch pure [[Willenskraft]] oder?
+ 
  [[berufsbezogen]]
  
 ---

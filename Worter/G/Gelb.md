@@ -1,2 +1,2 @@
 die [[Farbe]]
-![[Pasted image 20240819124958.png]]
+![[Pasted image 20240819124958.png]], [[vergilben]]

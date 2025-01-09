@@ -2,6 +2,13 @@
 nicht [[bezahlt]], [[hauptberuflich]]
 
 ---
+256. In Deutschland helfen [[ehrenamtliche]] [[Wahlhelfer]] und Wahlhelferinnen bei den [[Wahlen]]. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen? (90%)
+	- [ ] Sie helfen Kindern und alten Menschen beim Wählen.
+	- [ ] Sie schreiben Karten und Briefe mit der [[Angabe]] des [[Wahllokals]].
+	- [ ] Sie geben [[Zwischenergebnisse]] an Journalisten weiter.
+	- [x] Sie zählen die Stimmen nach dem Ende der Wahl.
+
+
 23. In Deutschland sind die [[meisten]] [[Erwerbstätigen]] … (97%)
 	- [x] bei einer Firma oder [[Behörde]] [[beschäftigt]].
 	- [ ] [[ehrenamtlich]] für ein Bundesland tätig.

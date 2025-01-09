@@ -1,1 +1,1 @@
-, [[plempern]], [[Glücksspiel]], [[manchmal]]
+, [[plempern]], [[Glücksspiel]], [[manchmal]], [[vorzutäuschen]], [[Spielzug]]

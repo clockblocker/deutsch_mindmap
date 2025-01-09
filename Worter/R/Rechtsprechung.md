@@ -1,1 +1,1 @@
-, [[Arbeitsgericht]], [[Gericht]], [[Amtsgericht]]
+, [[Arbeitsgericht]], [[Gericht]], [[Amtsgericht]], [[Richter]], [[Schweigerecht]]

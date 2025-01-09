@@ -1,1 +1,1 @@
-, [[Bewerb]]
+, [[Bewerb]], [[wollen]], [[Absicht]], [[absichtlich]]

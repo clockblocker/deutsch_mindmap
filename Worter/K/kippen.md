@@ -1,1 +1,1 @@
-, [[schütten]]
+, [[schütten]], [[wälzen]], [[um­schlagen]]

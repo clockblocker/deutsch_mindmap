@@ -27,4 +27,4 @@ Einzigartige mögliche Formen: [[Kumpels]], [[Kumpeln]]
 Additional Context:
 - Ursprünglich ein Wort aus dem bergmännischen Milieu
 - Bezeichnet einen engen Freund oder Kollegen
-- Oft in informellen Situationen verwendet
+- Oft in informellen Situationen verwendet, [[Kerl]]

@@ -1,1 +1,1 @@
-, [[meist]], [[hauptsächlich]]
+, [[meist]], [[hauptsächlich]], [[mehrheitlich]]

@@ -27,4 +27,4 @@ G: des [[Zusammenschlusses]], der [[Zusammenschlüsse]]
 D: dem [[Zusammenschluss]], den [[Zusammenschlüssen]]  
 
 ---
-[[zusammenschließen]], [[verbinden]], [[vereinen]], [[fusionieren]]
+[[zusammenschließen]], [[verbinden]], [[vereinen]], [[fusionieren]], [[Scheidung]]

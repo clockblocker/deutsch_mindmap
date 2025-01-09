@@ -25,4 +25,4 @@ Genitive: des [[Geheimnisses]], der [[Geheimnisse]]
 Dative: dem [[Geheimnis]], den [[Geheimnissen]]
 
 ---
-[[geheim]], [[heimlich]], [[verschwiegen]], [[vertraulich]], [[öffentlich]], [[Schweigepflicht]]
+[[geheim]], [[heimlich]], [[verschwiegen]], [[vertraulich]], [[öffentlich]], [[Schweigepflicht]], [[Briefgeheimnis]]

@@ -21,3 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[Ahnung]], [[Ahnung]], [[Ahnung]], [[Ahnung]]
 [[Ahnungen]], [[Ahnungen]], [[Ahnungen]], [[Ahnungen]]
+, [[ahnen]]

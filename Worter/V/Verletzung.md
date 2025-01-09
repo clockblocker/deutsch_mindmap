@@ -1,1 +1,1 @@
-, [[Stich]], [[antun]]
+, [[Stich]], [[antun]], [[verletzen]]

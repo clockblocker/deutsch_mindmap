@@ -8,7 +8,7 @@ Wir das [[Denkmal]] [[enthüllen]]
 
 ---
 Synonyme: [[aufdecken]], [[bloßlegen]], [[entlarven]], [[offenbaren]], [[preisgeben]]
-Antonyme: [[verheimlichen]], [[verbergen]], [[verschleiern]], [[verstecken]]
+Antonyme: [[Worter/V/verheimlichen]], [[verbergen]], [[verschleiern]], [[verstecken]]
 
 ---
 Übersetzung: to unveil, to reveal, to disclose
@@ -36,4 +36,4 @@ Partizip I: [[enthüllend]], Partizip II: [[enthüllt]]
 
 , [[wegzaubern]], [[Denkmal]]
 
-, [[verdecken]], [[verraten]], [[verkleiden]], [[gestehen]]
+, [[verdecken]], [[verraten]], [[verkleiden]], [[gestehen]], [[Verheimlichen]]

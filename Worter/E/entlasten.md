@@ -1,1 +1,1 @@
-, [[anspannen]], [[ledigen]], [[erleichtern]], [[leichtern]], [[anklagen]]
+, [[anspannen]], [[ledigen]], [[erleichtern]], [[leichtern]], [[anklagen]], [[bezigen]], [[Last]]

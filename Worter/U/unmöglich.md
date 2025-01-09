@@ -1,6 +1,8 @@
 🟦 [[unmöglich]], [ʊnˈmœ.glɪç]
 
 ---
+Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
+
 *Es ist [[unmöglich]]*  
 *sagt die [[Erfahrung]]*  
 

@@ -1,1 +1,1 @@
-[[Fertig]], [[bestens]]
+[[Fertig]], [[bestens]], [[wohlgeformt]]

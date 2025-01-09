@@ -1,1 +1,1 @@
-, [[Mut]], [[entschlossen]], [[entschließen]]
+, [[Mut]], [[entschlossen]], [[entschließen]], [[Willenskraft]]

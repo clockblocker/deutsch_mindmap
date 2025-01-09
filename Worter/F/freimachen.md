@@ -30,4 +30,4 @@ Morpheme: [[frei]][[mach]][[en]]
 
 Partizip I: [[freimachend]], Partizip II: [[freigemacht]]
 
-[[freimachen]] - [[frei]] = [[machen]]
+[[freimachen]] - [[frei]] = [[machen]], [[frankieren]]

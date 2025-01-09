@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Energie]], [[Energien]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[Willenskraft]]

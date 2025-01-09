@@ -1,1 +1,1 @@
-, [[Direktkandidat]]
+, [[Direktkandidat]], [[Wahlhelfer]]

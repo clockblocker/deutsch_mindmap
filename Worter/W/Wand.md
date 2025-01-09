@@ -1,7 +1,8 @@
 Singular: die [[Wand]]
 Plural: die [[Wände]]
 
-![[Pasted image 20240703131821.png]]
+---
+Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]
 
 Oder an die [[Wand]] gegenüber vom Fenster? 
 

@@ -1,6 +1,39 @@
+🔄 [[wenden]], [ˈvɛndən] | [[wendete]], haben [[gewendet]]
+
+---
+
+---
+= [[drehen]], [[umdrehen]], [[umkehren]]
+≈ [[kehren]], [[umwenden]], [[transformieren]]
+≠ [[festhalten]], [[behalten]], [[belassen]]
+
+---
+to turn, to change, to turn over
+
+---
+[[wen]]|[[den]]
+
+---
+ich: [[wende]], [[wendete]], –, [[wende]], [[wendete]]
+du: [[wendest]], [[wendetest]], [[wende]] | [[wend]], [[wendest]], [[wendetest]]
+er/sie/es: [[wendet]], [[wendete]], –, [[wende]], [[wendete]]
+wir: [[wenden]], [[wendeten]], [[wenden wir|wenden]], [[wenden]], [[wendeten]]
+ihr: [[wendet]], [[wendetet]], [[wendet]], [[wendet]], [[wendetet]]
+
+PI: [[wendend]], PII: [[gewendet]], Zu+inf: [[zuwenden]]
+
+---
+[[wenden]] / to turn, to change, to turn over
+
+---
+[[Wendung]], [[Wende]], [[Wendepunkt]], [[umwenden]], [[anwenden]], [[einwenden]]
+
+
+
+
 🔁 [[wenden]] sich an, [ˈvɛndən]
 [[wandte an|wandte an]]  
-haben [[gewendet]]
+haben [[gewandt]]
 
 ---
 ([[Wendet]] [[sich]] unbeeindruckt seinem Spiel zu)
@@ -37,4 +70,7 @@ Morpheme: [[wend]][[en]]
 
 Partizip I: [[wendend]], Partizip II: [[gewendet]]
 
-[[wenden]] - [[wend]] = [[en]], [[abbiegen]], [[biegen]], [[Redewendung]]
+[[wenden]] - [[wend]] = [[en]], [[abbiegen]], [[biegen]], [[Redewendung]], [[verdrehen]], [[anwenden]]
+
+
+

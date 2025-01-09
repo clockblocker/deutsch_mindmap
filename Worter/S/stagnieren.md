@@ -1,1 +1,1 @@
-, [[fließen]], [[werden]], [[Aufwachsen]], [[entwickeln]]
+, [[fließen]], [[werden]], [[Aufwachsen]], [[entwickeln]], [[vorderen]]

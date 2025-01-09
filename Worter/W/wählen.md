@@ -5,6 +5,13 @@ haben [[gewählt]]
 ---
 Dort kann man für nicht einmal 50 Euro zwischen Sommerblumen, einem Haus in einsamer Landschaft oder einer Straße im Nebel [[wählen]].
 
+258. Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag [[gewählt]] zu werden? (90%)
+	- [ ] 3 %
+	- [ ] 4 %
+	- [x] 5 %
+	- [ ] 6 %
+
+
 107. Für wie viele Jahre wird der Bundestag in Deutschland [[gewählt]]? (96%)
 	- [ ] 2 Jahre
 	- [x] 4 Jahre
@@ -37,4 +44,4 @@ Morpheme: [[wähl]][[en]]
 
 Partizip I: [[wählend]], Partizip II: [[gewählt]]
 
-, [[anrufen]], [[entscheiden]], [[entschließen]], [[ablehnen]], [[Zweitstimme]], [[Bundestagswahl]], [[Erststimme]], [[Wahlpflicht]], [[Wahl]], [[Landtagswahl]], [[Briefwahl]], [[Wahltag]], [[vorziehen]], [[Wählerstimmen]]
+, [[anrufen]], [[entscheiden]], [[entschließen]], [[ablehnen]], [[Zweitstimme]], [[Bundestagswahl]], [[Erststimme]], [[Wahlpflicht]], [[Wahl]], [[Landtagswahl]], [[Briefwahl]], [[Wahltag]], [[vorziehen]], [[Wählerstimmen]], [[Wahlhelfer]], [[Wahllokals]]

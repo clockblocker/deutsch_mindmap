@@ -1,1 +1,1 @@
-, [[Auswahl]], [[Grenze]], [[begrenzen]], [[begrenzt]]
+, [[Auswahl]], [[Grenze]], [[begrenzen]], [[begrenzt]], [[Freizügigkeit]]

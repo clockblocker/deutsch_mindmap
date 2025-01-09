@@ -4,7 +4,7 @@ Paul weiß immer alles besser: „Linda, nimm nicht so viel [[Kaffeepulver 1]] f
 
 Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortrag]] [[anzuhören 1]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 
 
-„Du solltest das Brot in dünnere [[Scheiben 1]] schneiden, sonst bleibt es im Toaster stecken“, [[bemerkt]] Paul. Linda [[beißt]] die Zähne zusammen. 
+„Du solltest das Brot in dünnere [[Scheiben]] schneiden, sonst bleibt es im Toaster stecken“, [[bemerkt]] Paul. Linda [[beißt]] die Zähne zusammen. 
 
 „Weißt du, wie viel Zucker in dieser Marmelade steckt? Das ist ungesund!“, hört sie Paul sagen. Linda nimmt einen Extralöffel von der Marmelade. 
 

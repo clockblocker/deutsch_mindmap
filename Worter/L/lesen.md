@@ -24,7 +24,7 @@ Morpheme: [[le]][[s]][[en]]
 | Du        | [[liest]]            | [[lasst]]             | [[lies]]          | [[lesest]]             | [[läsest]]              |
 | Er/sie/es | [[liest]]            | [[las]]               | -                 | [[lese]]               | [[läse]]                |
 | Wir       | [[lesen]]            | [[lasen]]             | -                 | [[lesen]]              | [[läsen]]               |
-| Ihr       | [[lest]]             | [[last]]              | [[lest]]          | [[leset]]              | [[läset]]               |
+| Ihr       | [[lest]]             | [[Last]]              | [[lest]]          | [[leset]]              | [[läset]]               |
 | Sie       | [[lesen]]            | [[lasen]]             | [[lesen Sie]]     | [[lesen]]              | [[läsen]]               |
 
 Partizip I: [[lesend]], Partizip II: [[gelesen]]

@@ -1,1 +1,1 @@
-, [[entschließen]]
+, [[entschließen]], [[Absicht]]

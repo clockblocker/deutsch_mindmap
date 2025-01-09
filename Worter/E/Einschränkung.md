@@ -1,1 +1,1 @@
-, [[Auswahl]], [[Osterweiterung]], [[Grundrecht]], [[Gaststättenerlaubnis]]
+, [[Auswahl]], [[Osterweiterung]], [[Grundrecht]], [[Gaststättenerlaubnis]], [[Versammlungsfreiheit]], [[Freizügigkeit]]

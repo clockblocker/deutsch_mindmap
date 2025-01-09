@@ -1,1 +1,1 @@
-, [[Tüte]], [[Chipstüte]]
+, [[Tüte]], [[Chipstüte]], [[Um­schlag]]

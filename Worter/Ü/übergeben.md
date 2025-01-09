@@ -7,7 +7,7 @@ haben [[übergeben]]
 - 
 
 ---
-Synonyme: [[aushändigen]], [[zustellen]], [[überlassen]], [[ausliefern]], [[verabreichen]], [[übermitteln]]
+Synonyme: [[aushändigen]], [[zustellen]], [[Worter/Ü/überlassen]], [[ausliefern]], [[verabreichen]], [[übermitteln]]
 Antonyme: [[behalten]], [[zurückhalten]], [[verweigern]], [[abweisen]], [[verwehren]]
 
 ---
@@ -32,4 +32,4 @@ Morpheme: [[über]][[geb]][[en]]
 Partizip I: [[übergebend]], Partizip II: [[übergeben]]
 
 [[übergeben]] - [[über]] = [[geben]]
-''', [[Deutschland]], [[abgeben]]
+''', [[Deutschland]], [[abgeben]], [[überlassen]]

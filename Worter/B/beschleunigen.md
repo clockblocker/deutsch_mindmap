@@ -1,1 +1,1 @@
-, [[aufhalten]]
+, [[aufhalten]], [[zügig]]

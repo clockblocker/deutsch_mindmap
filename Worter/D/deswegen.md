@@ -1,9 +1,9 @@
-
 [[deswegen]], [dɛsˈveːɡən]
 
 ---
 Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird. 
 
+-- Lily war immer schöner als ich und ich … ich war [[gemein]] zu ihr, [[deswegen]], und dann konnte sie _zaubern_, kannst du dir [[vorstellen]], wie ich mich gefühlt habe? 
 
 ---
 Synonyme: [[deshalb]], [[darum]], [[aus diesem Grund]], [[folglich]], [[infolgedessen]]

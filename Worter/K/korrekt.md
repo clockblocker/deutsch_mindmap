@@ -1,1 +1,1 @@
-, [[wahr]], [[anständig]], [[genau]], [[recht]], [[richtig]]
+, [[wahr]], [[anständig]], [[genau]], [[recht]], [[richtig]], [[unrecht]]

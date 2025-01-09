@@ -8,7 +8,7 @@ die [[Ecken]]
 
 ---
 Synonyme:
-- [[Winkel]], [[Winkelung]], [[Kante]], [[Winkel]], [[Segment]], [[Abteil]], [[Abschnitt 1]]
+- [[Winkel]], [[Winkelung]], [[Kante]], [[Winkel]], [[Segment]], [[Abteil]], [[Abschnitt]]
 
 ---
 Übersetzung: corner, angle

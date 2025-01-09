@@ -29,4 +29,4 @@ PI: [[ungerechtfertigend]], PII: [[ungerechtfertigt]], Zu+inf: [[unzugerechtfert
 [[ungerechtfertigen]] - [[un]] = [[gerechtfertigen]] / to invalidate, to disprove
 
 ---
-[[Ungerechtfertigung]], [[Unrecht]], [[Gerechtigkeit]], [[ungerecht]], [[Rechtfertigung]]
+[[Ungerechtfertigung]], [[Unrecht]], [[Gerechtigkeit]], [[ungerecht]], [[Rechtfertigung]], [[unrecht]]

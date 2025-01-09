@@ -1,1 +1,1 @@
-🌱 [[werden]]  , [[übernachten]], [[Einwilligung]]
+🌱 [[werden]]  , [[übernachten]], [[Einwilligung]], [[wollen]]

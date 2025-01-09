@@ -41,4 +41,4 @@ Tags:
 
 ---
 Morphems:
-[[rasch]][[Überraschen]], [[geschwind]], [[bald]]
+[[rasch]][[Überraschen]], [[geschwind]], [[bald]], [[zügig]]

@@ -3,31 +3,37 @@ _Unter dem Mondlicht schimmert ein winziges [[Silberfragment]], eine zarte Linie
 … Blut fließt in Strömen und jemand schreit ein Wort.
 
 
-Jedes Stückchen Wand wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs Ebenen, die fast bis an die Decke reichen. Einige von ihnen sind bis an den Rand gefüllt mit dicken Wälzern über Naturwissenschaften, Mathematik, Geschichte und all das. Andere beherbergen Science-Fiction-Taschenbücher in Zweierreihen, die hintere auf alten Pappkartons oder Holzplatten höhergestellt, so dass man die Titel über die Bücher der vorderen Reihe hinweg lesen kann. Doch selbst das reicht nicht aus. Die Bücher quellen über, belegen Tische, Sofas und bilden kleine Stapel unter den Fenstern.
+Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]. Einige von ihnen sind bis an den [[Rand]] [[gefüllt]] mit dicken [[Wälzern]] über Naturwissenschaften, Mathematik, Geschichte und all das. 
+
+Andere [[beherbergen]] Science-Fiction-Taschenbücher in [[Zweierreihen]], die hintere auf alten [[Pappkartons]] oder [[Holzplatten]] [[höhergestellt]], so dass man die Titel über die Bücher der [[vorderen]] [[Reihe]] hinweg lesen kann. 
+
+Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern.
 
 Dies ist das Wohnzimmer des Hauses, in dem der angesehene Professor Michael Verres-Evans, seine Frau Mrs Petunia Evans-Verres und ihr Adoptivsohn Harry James Potter-Evans-Verres leben.
 
-Auf dem Wohnzimmertisch liegen ein Brief sowie ein unfrankierter Briefumschlag aus vergilbtem Pergament, der in smaragdgrüner Tinte an _Mr H. Potter_ adressiert ist.
+Auf dem Wohnzimmertisch liegen ein Brief sowie ein [[unfrankierter]] [[Briefumschlag]] aus [[vergilbtem]] Pergament, der in [[smaragdgrüner]] [[Tinte]] an _Mr H. Potter_ adressiert ist.
 
-Der Professor und seine Frau reden in scharfem Ton miteinander, schreien jedoch nicht. Schreien hält der Professor für unzivilisiert.
+Der Professor und seine Frau reden in [[scharfem]] Ton miteinander, [[schreien]] [[jedoch]] nicht. Schreien hält der Professor für unzivilisiert.
 
-„Du machst Witze“, sagte Michael zu Petunia. Sein Tonfall ließ vermuten, wie sehr er fürchtete, dass es ihr Ernst war.
+„Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
 
-„Meine Schwester war eine Hexe“, wiederholte Petunia. Sie sah ängstlich aus, blieb aber standhaft. „ihr Mann war ein Zauberer.“
+„Meine Schwester war eine Hexe“, wiederholte Petunia. Sie sah [[ängstlich]] aus, blieb aber [[standhaft]]. „ihr Mann war ein Zauberer.“
 
-„Das ist absurd!“, sagte Michael scharf. „Sie waren auf unserer Hochzeit — sie haben uns zu Weihnachten besucht …“
+„Das ist absurd!“, sagte Michael [[scharf]]. „Sie waren auf unserer [[Hochzeit]] — sie haben uns zu Weihnachten besucht …“
 
-„Ich wollte nicht, dass du es erfährst“, flüsterte Petunia. „aber es ist wahr. Ich habe Sachen gesehen …“
+„Ich wollte nicht, dass du es [[erfährst]]“, [[flüsterte]] Petunia. „aber es ist [[wahr]]. Ich habe Sachen gesehen …“
 
-Der Professor verdrehte seine Augen. „Liebling, ich weiß, dass du mit dem Skeptizismus nicht vertraut bist. Es mag dir nicht klar sein, wie leicht es einem erfahrenen Magier fällt, das scheinbar Unmögliche vorzutäuschen. Erinnerst du dich, wie ich Harry beigebracht habe, Löffel zu verbiegen? Wenn es so erschien, als ob sie immer ahnen konnten, was du gerade dachtest — diese Technik nennt sich kalte Deutung oder cold reading —“ 1
+Der Professor [[verdrehte]] seine Augen. „Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]. Erinnerst du dich, wie ich Harry [[beigebracht]] habe, Löffel zu [[verbiegen]]? Wenn es so [[erschien]], als ob sie immer [[ahnen]] konnten, was du gerade dachtest — diese Technik nennt sich kalte [[Deutung]] oder cold reading —“ 1
 
 „Es war kein Löffelverbiegen —“
 
 „Was war es dann?“
 
-Petunia biss sich auf die Lippen. „Ich kann es dir nicht einfach erzählen. Du würdest mich —“ Sie schluckte. „Also. Michael. Ich war nicht — nicht immer so …“ Sie zeigte auf sich selbst, als ob sie auf ihren wohlgeformten Körper deuten wollte. „Lily hat das getan. Weil ich — weil ich sie _angefleht_ habe. Jahrelang habe ich sie angefleht. Lily war _immer_ schöner als ich und ich … ich war gemein zu ihr, deswegen, und dann konnte sie _zaubern_, kannst du dir vorstellen, wie ich mich gefühlt habe? Und ich habe sie _angefleht_, ein bisschen Magie auf mich anzuwenden, damit ich auch hübsch wäre, selbst wenn ich nicht zaubern konnte, so könnte ich wenigstens hübsch sein.“
+Petunia biss sich auf die Lippen. „Ich kann es dir nicht einfach erzählen. Du würdest mich —“ Sie [[schluckte]]. „Also. Michael. Ich war nicht — nicht immer so …“ Sie zeigte auf sich selbst, als ob sie auf ihren [[wohlgeformten]] Körper [[deuten]] wollte. 
 
-Tränen sammelten sich in Petunias Augen.
+„Lily hat das getan. Weil ich — weil ich sie [[angefleht]] habe. Jahrelang habe ich sie angefleht. Lily war immer schöner als ich und ich … ich war [[gemein]] zu ihr, [[deswegen]], und dann konnte sie _zaubern_, kannst du dir [[vorstellen]], wie ich mich gefühlt habe? 
+
+Und ich habe sie [[angefleht]], ein bisschen Magie auf mich [[anzuwenden]], damit ich auch [[hübsch]] wäre, selbst wenn ich nicht zaubern konnte, so könnte ich wenigstens hübsch sein.“ Tränen [[sammelten]] sich in Petunias Augen.
 
 „Und Lily weigerte sich immer und dachte sich die lächerlichsten Ausreden aus; dass die Welt untergehen würde, wenn sie nett zu ihrer Schwester wäre oder dass ein Zentaur es ihr verboten hatte — die lächerlichsten Dinge und dafür hasste ich sie. Und als ich gerade meinen Abschluss hatte, ging ich mit diesem Jungen aus, Vernon Dursley, er war dick und der einzige Junge, der auf dem College mit mir sprach. Er sagte, er wolle Kinder haben und sein erster Sohn würde Dudley heißen. Und ich dachte mir, _was für Eltern nennen ihr Kind Dudley Dursley?_ Es war, als ob ich meine ganze Zukunft klar vor mir sehen würde und ich konnte es nicht ertragen. Und ich schrieb meiner Schwester und teilte ihr mit, wenn sie mir nicht helfen würde, dann würde ich einfach …“
 

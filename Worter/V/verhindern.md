@@ -1,1 +1,1 @@
-, [[übertragen]], [[übermachen]], [[ausführen]], [[erlauben]], [[abhalten]], [[fördern]]
+, [[übertragen]], [[übermachen]], [[ausführen]], [[erlauben]], [[abhalten]], [[fördern]], [[lassen]]

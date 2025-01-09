@@ -1,1 +1,1 @@
-, [[Bezug]], [[selbständig]]
+, [[Bezug]], [[selbständig]], [[Freiheit]]

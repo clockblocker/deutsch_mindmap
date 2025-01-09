@@ -5,6 +5,8 @@ haben [[verdeckt]]
 ---
 _[[Verdeckt]] im Schnee läuft Aang in eine Schnur hinein, die über den Boden gespannt ist. Hinter Katara schließt sich ein Tor. Aang rennt zu ihr._
 
+Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]
+
 ---
 Synonyme: [[verbergen]], [[verschleiern]], [[verhüllen]], [[maskieren]], [[kaschieren]]
 Antonyme: [[aufdecken]], [[enthüllen]], [[offenbaren]], [[zeigen]]
@@ -30,3 +32,4 @@ Morpheme: [[ver]][[deck]][[en]]
 Partizip I: [[verdeckend]], Partizip II: [[verdeckt]]
 [[verdecken]] - [[ver]] = [[decken]]
 [[bedeuten]], [[aussehen]], [[sehen]], [[abdecken]], [[decken]]
+, [[Verheimlichen]]

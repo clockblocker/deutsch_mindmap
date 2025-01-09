@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Berichts]], [[Berichte]], [[Berichten]]
 
 ---
-#Substantiv #Maskulin, [[Abschlussbericht]]
+#Substantiv #Maskulin, [[Abschlussbericht]], [[Angabe]]

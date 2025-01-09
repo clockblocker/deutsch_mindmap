@@ -1,1 +1,1 @@
-[[vereint]], [[einverstanden]]
+[[vereint]], [[einverstanden]], [[Einigkeit]]

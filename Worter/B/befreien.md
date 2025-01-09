@@ -1,1 +1,1 @@
-[[freimachen]], [[loswerden]], [[retten]], [[aufhalten]], [[laden]], [[wringen]], [[umgeben]], [[ledigen]], [[festsitzen]], [[lösen]]
+[[freimachen]], [[loswerden]], [[retten]], [[aufhalten]], [[laden]], [[wringen]], [[umgeben]], [[ledigen]], [[festsitzen]], [[lösen]], [[Freiheit]]

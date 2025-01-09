@@ -68,4 +68,4 @@ Zu+infinitive: [[zu beleidigen]]
 [[Beleidigung]], [[Beleidiger]], [[Beleidigte]], [[beleidigend]], [[beleidigbar]]
 
 , [[verbeugen]], [[ziemen]], [[Grüßen]]
-, [[schmeicheln]], [[beschimpfen]]
+, [[schmeicheln]], [[beschimpfen]], [[Mistkerl]]

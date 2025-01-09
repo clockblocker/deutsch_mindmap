@@ -1,17 +1,15 @@
 🌟 [[gelten]], [ˈgɛltn̩] | [[galt]], haben [[gegolten]]
 
 ---
+1. In Deutschland dürfen Menschen offen etwas gegen die [[Regierung]] sagen, weil … (91%)
+	- [x] hier [[Meinungsfreiheit]] [[gilt]].
+
 95. Was [[gilt]] für die meisten Kinder in Deutschland? (97%)
-	- [ ] [[Wahlpflicht]]
 	- [x] [[Schulpflicht]]
-	- [ ] [[Schweigepflicht]]
-	- [ ] [[Religionspflicht]]
 
 [[Geltung]]
 
 303. Welches Grundrecht [[gilt]] in Deutschland nur für Ausländer / Ausländerinnen? Das [[Grundrecht]] auf … (94%)
-	- [ ] Schutz der Familie
-	- [ ] Menschenwürde
 	- [x] [[Asyl]]
 ---
 = [[zählen]], [[bedeuten]], [[anerkannt sein]]

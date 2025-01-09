@@ -1,1 +1,1 @@
-[[schade]], [[schlimm]]
+[[schade]], [[schlimm]], [[gemein]]

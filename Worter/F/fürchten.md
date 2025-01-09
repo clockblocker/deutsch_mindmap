@@ -3,6 +3,9 @@
 haben [[gefürchtet]]
 
 ---
+„Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
+
+
 *Alle warten auf das Licht*
 *[[Fürchtet]] euch, fürchtet euch nicht*  
 

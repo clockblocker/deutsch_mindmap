@@ -1,1 +1,1 @@
-, [[einfachfantastisch]]
+, [[einfachfantastisch]], [[toll]]

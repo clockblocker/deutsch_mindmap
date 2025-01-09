@@ -28,4 +28,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[artig]], [[artiger]], [[artige]], [[artiges]], [[artigen]], [[artigem]], [[artiger]], [[artigen]]
-[[artigste]], [[artigster]], [[artigste]], [[artigstes]], [[artigsten]], [[artigstem]], [[artigster]], [[artigsten]]
+[[artigste]], [[artigster]], [[artigste]], [[artigstes]], [[artigsten]], [[artigstem]], [[artigster]], [[artigsten]], [[großartig]]

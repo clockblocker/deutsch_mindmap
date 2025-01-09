@@ -1,1 +1,1 @@
-, [[schreien]]
+, [[schreien]], [[flüstern]], [[brüllen]]

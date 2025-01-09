@@ -1,1 +1,1 @@
-, [[Rechercheergbenis]]
+, [[Rechercheergbenis]], [[Zwischenergebnis]]

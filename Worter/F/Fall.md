@@ -16,4 +16,4 @@ Frau Schulte sagt: „So kann es [[auf]] [[jeden]] [[Fall]] nicht [[weitergehen]
 
 #Noun
 #Masculin
-[[gefallen]]
+[[gefallen]], [[Tonfall]], [[fallen]]

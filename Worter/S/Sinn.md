@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sinnes]], [[Sinne]], [[Sinnen]], [[Sinnen]]
 
 ---
-#Substantiv #Maskulin, [[Unsinn]], [[Schwachsinn]], [[ersinnlich]]
+#Substantiv #Maskulin, [[Unsinn]], [[Schwachsinn]], [[ersinnlich]], [[Deutung]]

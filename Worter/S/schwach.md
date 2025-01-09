@@ -36,4 +36,4 @@ Tags:
 ---
 
 Morphems:
-[[schwach]], [[gesund]], [[übermächtig]], [[kerngesund]], [[Schwachsinn]], [[überlegen]], [[Schwäche]]
+[[schwach]], [[gesund]], [[übermächtig]], [[kerngesund]], [[Schwachsinn]], [[überlegen]], [[Schwäche]], [[standhaft]], [[großartig]]

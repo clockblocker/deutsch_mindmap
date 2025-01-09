@@ -5,7 +5,7 @@ Oder wie es Elena [[ausdrücken]] würde: „Man kann es ihr nie recht machen!�
 
 ---
 Synonyme: [[formulieren]], [[äußern]], [[bekunden]], [[mitteilen]], [[kommunizieren]]
-Antonyme: [[verheimlichen]], [[verschweigen]], [[unterdrücken]]
+Antonyme: [[Worter/V/verheimlichen]], [[verschweigen]], [[unterdrücken]]
 
 ---
 to express, to press out

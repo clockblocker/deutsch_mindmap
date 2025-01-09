@@ -9,7 +9,7 @@ Doch dann [[erklärte]] uns die Feuernation den Krieg und alles änderte sich.
 
 ---
 Synonyme: [[definieren]], [[darlegen]], [[beschreiben]], [[ausführen]], [[verdeutlichen]]
-Antonyme: [[verbergen]], [[verheimlichen]], [[verschleiern]]
+Antonyme: [[verbergen]], [[Worter/V/verheimlichen]], [[verschleiern]]
 
 ---
 Übersetzung: to explain, to clarify

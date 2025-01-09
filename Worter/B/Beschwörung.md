@@ -1,1 +1,1 @@
-[[Zauber]]
+[[Zauber]], [[anflehen]]

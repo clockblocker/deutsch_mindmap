@@ -1,1 +1,1 @@
-, [[leisten]], [[erfüllen]], [[schaffen]]
+, [[leisten]], [[erfüllen]], [[schaffen]], [[Niederlage]]

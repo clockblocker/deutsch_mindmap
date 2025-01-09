@@ -1,1 +1,1 @@
-, [[Gebiet]]
+, [[Gebiet]], [[regieren]]

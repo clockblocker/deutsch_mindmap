@@ -1,0 +1,1 @@
+🟢 📊 das [[Zwischenergebnis]], [ˈtsvɪʃn̩ɛɐ̯ɡeːpnɪs]

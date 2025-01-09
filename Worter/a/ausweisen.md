@@ -1,1 +1,1 @@
-, [[Personalausweis]], [[Ausweis]], [[verbannen]]
+, [[Personalausweis]], [[Ausweis]], [[verbannen]], [[beherbergen]]

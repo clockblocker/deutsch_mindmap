@@ -1,1 +1,1 @@
-, [[schäumen]], [[schallen]]
+, [[schäumen]], [[schallen]], [[überquellen]]

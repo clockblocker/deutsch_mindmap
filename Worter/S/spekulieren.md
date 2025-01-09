@@ -1,1 +1,1 @@
-, [[raten]]
+, [[raten]], [[vermuten]]

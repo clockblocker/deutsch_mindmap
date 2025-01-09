@@ -23,4 +23,4 @@ Genitive: des [[Fehlerhaften]], der [[Fehlerhaften]]
 Dative: dem [[Fehlerhaften]], den [[Fehlerhaften]]  
 
 ---
-[[fehlerhaft]], [[fehlerlos]], [[fehlerfrei]], [[Fehler]]
+[[fehlerhaft]], [[fehlerlos]], [[fehlerfrei]], [[Fehler]], [[unrecht]]

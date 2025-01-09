@@ -1,1 +1,1 @@
-, [[geduld]]
+, [[geduld]], [[Willenskraft]]

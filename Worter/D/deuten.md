@@ -3,6 +3,8 @@
 haben [[gedeutet]]
 
 ---
+Also. Michael. Ich war nicht — nicht immer so …“ Sie zeigte auf sich selbst, als ob sie auf ihren [[wohlgeformten]] Körper [[deuten]] [[wollte]]. 
+
 Deutet auf den Eisberg
 
 ([[Deutet]] auf Sokka) Der paranoide Typ hier ist mein Bruder Sokka. Du hast uns deinen Namen noch nicht gesagt!
@@ -35,3 +37,4 @@ Morpheme: [[deut]][[en]]
 
 Partizip I: [[deutend]], Partizip II: [[gedeutet]]
 
+, [[Deutung]]

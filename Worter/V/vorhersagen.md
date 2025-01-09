@@ -5,7 +5,7 @@
 
 ---
 Synonyme: [[prophezeien]], [[prognostizieren]], [[voraussagen]], [[ankündigen 1]], [[erwarten]]
-Antonyme: [[verheimlichen]], [[verschweigen]], [[ignorieren]]
+Antonyme: [[Worter/V/verheimlichen]], [[verschweigen]], [[ignorieren]]
 
 ---
 to predict, to forecast

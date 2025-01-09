@@ -6,7 +6,7 @@ _[[Aufgebracht]]_ Aha! Der [[Verräter]] [[gesteht]] sogar. Krieger, sofort weg
 ---
 = [[bekennen]], [[zugeben]], [[eingestehen]]
 ≈ [[offenbaren]], [[verraten]], [[enthüllen]]
-≠ [[verheimlichen]], [[verbergen]], [[leugnen]]
+≠ [[Worter/V/verheimlichen]], [[verbergen]], [[leugnen]]
 
 ---
 to confess, to admit

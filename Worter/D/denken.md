@@ -3,6 +3,9 @@
 haben [[gedacht]]
 
 ---
+Erinnerst du dich, wie ich Harry [[beigebracht]] habe, Löffel zu [[verbiegen]]? Wenn es so [[erschien]], als ob sie immer [[ahnen]] konnten, was du gerade [[dachtest]] — diese Technik nennt sich kalte [[Deutung]] oder cold reading
+
+
 *Riefen: „Krieg!“, und wollten Macht*  
 *Mann, [[wer hätte das gedacht]]?*  
 

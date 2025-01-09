@@ -1,1 +1,1 @@
-, [[Richtung]]
+, [[Richtung]], [[Absicht]]

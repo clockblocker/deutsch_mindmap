@@ -8,7 +8,7 @@ die [[Glieder]]
 
 ---
 Synonyme:
-- [[Körperteil]], [[Extremität]], [[Abschnitt 1]], [[Teil]]
+- [[Körperteil]], [[Extremität]], [[Abschnitt]], [[Teil]]
 
 ---
 Übersetzung: limb, member, part

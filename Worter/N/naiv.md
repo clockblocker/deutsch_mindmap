@@ -1,1 +1,1 @@
-, [[schlauen]], [[Weise]]
+, [[schlauen]], [[Weise]], [[erfahrenen]]

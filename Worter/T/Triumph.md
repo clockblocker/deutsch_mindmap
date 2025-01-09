@@ -1,1 +1,1 @@
-, [[Erfolg]]
+, [[Erfolg]], [[Niederlage]]

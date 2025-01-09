@@ -30,4 +30,4 @@ G: der [[Erlaubnis]], der [[Erlaubnisse]]
 D: der [[Erlaubnis]], den [[Erlaubnissen]]  
 
 ---
-[[erlauben]], [[erlaubt]], [[erlaubnislos]], [[erlaubnispflichtig]]
+[[erlauben]], [[erlaubt]], [[erlaubnislos]], [[erlaubnispflichtig]], [[hineinlassen]], [[lassen]]

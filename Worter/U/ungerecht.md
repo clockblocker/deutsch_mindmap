@@ -25,4 +25,4 @@ N: [[ungerechtes]], [[ungerechtes]], [[ungerechtetste]]
 P: [[ungerechten]], [[ungerechteren]], [[ungerechtetsten]]  
 
 ---
-[[Ungerechtigkeit]], [[gerecht]], [[Gerechtigkeit]], [[ungleich]], [[ungleichbehandeln]], [[ungerechtfertigen]]
+[[Ungerechtigkeit]], [[gerecht]], [[Gerechtigkeit]], [[ungleich]], [[ungleichbehandeln]], [[ungerechtfertigen]], [[unrecht]]

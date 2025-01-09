@@ -1,1 +1,1 @@
-, [[rand]], [[Grenze]]
+, [[rand]], [[Grenze]], [[Grenz]]

@@ -18,7 +18,7 @@ die [[Schweigepflichten]]
 duty of confidentiality, obligation to maintain silence
 
 ---
-[[Schwei­ge]]|[[pflicht]]
+[[Schweige]]|[[pflicht]]
 
 ---
 N: die [[Schweigepflicht]], die [[Schweigepflichten]]  

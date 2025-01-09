@@ -33,4 +33,4 @@ Beispielsätze:
 - "Hey, Kerl, was geht ab?"
 - "Ein echter Kerl lässt seine Freunde nicht im Stich."
 
-Herkunft: Vermutlich aus dem mittelniederdeutschen "kêrel" (Mann, Kerl), ursprünglich bedeutete es "Bursche, junger Mann"
+Herkunft: Vermutlich aus dem mittelniederdeutschen "kêrel" (Mann, Kerl), ursprünglich bedeutete es "Bursche, junger Mann", [[Mistkerl]]

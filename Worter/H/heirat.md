@@ -1,1 +1,1 @@
-, [[heiraten]], [[verheiratet]], [[verheiraten]], [[Ehescheidung]]
+, [[heiraten]], [[verheiratet]], [[verheiraten]], [[Ehescheidung]], [[Scheidung]], [[Scheidungsprozess]]

@@ -24,4 +24,4 @@ G: des [[Zügels]], der [[Zügel]]
 D: dem [[Zügel]], den [[Zügeln]] 
 
 ---
-zügeln, zügellos, gezügelt, Zügelung
+zügeln, zügellos, gezügelt, Zügelung, [[Freizügigkeit]]

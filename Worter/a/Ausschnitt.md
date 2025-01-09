@@ -1,1 +1,1 @@
-[[ausschneiden]]
+[[ausschneiden]], [[stück]]

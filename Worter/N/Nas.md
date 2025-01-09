@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Nases]], [[Nase]], [[Näse]], [[Näsen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Abendgymnasium]]

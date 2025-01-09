@@ -8,7 +8,7 @@ Ein paar Tiger-Seelöwen heben verwundert die Köpfe und jaulen.
 
 ---
 Synonyme: [[Überraschen]], [[erstaunen]], [[überraschen]], [[frappieren]], [[staunen]], [[irritieren]]
-Antonyme: [[erwarten]], [[absehen]], [[Ahnen]], [[voraussehen]]
+Antonyme: [[erwarten]], [[absehen]], [[ahnen]], [[voraussehen]]
 
 ---
 Übersetzung: to astonish, to amaze, to surprise

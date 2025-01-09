@@ -1,1 +1,1 @@
-, [[verderben]], [[bessern]], [[umbauen]]
+, [[verderben]], [[bessern]], [[umbauen]], [[vergilben]]

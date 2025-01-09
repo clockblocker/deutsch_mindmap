@@ -3,9 +3,11 @@
 haben [[gesammelt]]
 
 ---
+Tränen [[sammelten]] sich in Petunias Augen.
+
 Er [[sammelte]] Zeitungsausschnitte, Foto-grafien, Farbstudien, Landschaften, Portraits, Stillleben und historische Stoffe, die ihm als Vorlagen für Gemälde dienten
 
- Als Lena abends nach Hause geht, hat sie die [[Projektleitung]] in der Tasche. Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen]] [[sammeln]], meint der Chef.
+Als Lena abends nach Hause geht, hat sie die [[Projektleitung]] in der Tasche. Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen]] [[sammeln]], meint der Chef.
 
 
 ---

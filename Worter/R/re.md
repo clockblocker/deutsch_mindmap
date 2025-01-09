@@ -1,1 +1,1 @@
-, [[recherchieren]], [[respektieren]], [[Rechercheergbenis]]
+, [[recherchieren]], [[respektieren]], [[Rechercheergbenis]], [[regieren]]

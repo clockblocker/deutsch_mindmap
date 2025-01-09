@@ -1,1 +1,1 @@
-[[Reihenfolge]][[Serie]]
+[[Reihenfolge]][[Serie]], [[Reihe]]

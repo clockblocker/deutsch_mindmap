@@ -1,0 +1,1 @@
+🚪 [[hineinlassen]], [hɪˈnaɪ̯nˌlasən]

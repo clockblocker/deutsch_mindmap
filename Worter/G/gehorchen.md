@@ -1,1 +1,1 @@
-, [[widerstehen]], [[folgen]], [[leiten]]
+, [[widerstehen]], [[folgen]], [[leiten]], [[regieren]]

@@ -1,6 +1,8 @@
 🔵 [[vorstellen]] | [[stellte vor|stellte vor]], haben [[vorgestellt]]
 
 ---
+Lily war immer schöner als ich und ich … ich war [[gemein]] zu ihr, [[deswegen]], und dann konnte sie _zaubern_, kannst du dir [[vorstellen]], wie ich mich gefühlt habe? 
+
 Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[leisten]] und [[genießt]] das Leben. So [[vorstellen|stellen]] sich manche Leute das Leben in Frankreich vor. 
 
 ---

@@ -24,4 +24,4 @@ Genitive: des [[Drucks]] / [[Druckes]], der [[Drücke]]
 Dative: dem [[Druck]], den [[Drücken]] 
 
 ---
-[[drucken]], [[drückend]], [[Drucker]], [[Druckerei]], [[Drucksache]], [[besonders]]
+[[drucken]], [[drückend]], [[Drucker]], [[Druckerei]], [[Drucksache]], [[besonders]], [[Zwang]]

@@ -5,7 +5,8 @@ haben/sein [[gebogen]]
 ---
 
 ---
-[[abbiegen]] - [[ab]] = [[biegen]]
+[[abbiegen]] - [[ab]] = [[biegen]]  / to turn (off), to turn aside
+[[verbiegen]] - [[ver]] = [[biegen]] / to bend, to distort, to warp
 
 ---
 Synonyme: [[krümmen]], [[beugen]], [[verbiegen]], [[wenden]], [[neigen]]
