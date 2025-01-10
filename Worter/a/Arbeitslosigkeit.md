@@ -1,1 +1,1 @@
-, [[Arbeitsamt]], [[Arbeitsplatz]], [[Stelle]], [[Arbeitsverhältnis]], [[Arbeitslosenversicherung]], [[Kündigungsschutzklage]]
+, [[Arbeitsamt]], [[Arbeitsplatz]], [[Stelle]], [[Arbeitsverhältnis]], [[Arbeitslosenversicherung]], [[Kündigungsschutzklage]], [[Lehrstellensuche]]

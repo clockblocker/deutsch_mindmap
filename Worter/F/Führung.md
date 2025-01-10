@@ -1,1 +1,1 @@
-[[haupt]], [[Leitung]], [[Behördenleiter]]
+[[haupt]], [[Leitung]], [[Behördenleiter]], [[Regierungschef]], [[Verwaltung]]

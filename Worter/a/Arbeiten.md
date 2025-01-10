@@ -1,2 +1,2 @@
 🔴 die [[arbeit 1]]
-, [[lauben]], [[Arbeitsgericht]], [[Arbeitsplatz]], [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Schwarzarbeiter]], [[Schichtarbeiter]]
+, [[lauben]], [[Arbeitsgericht]], [[Arbeitsplatz]], [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Schwarzarbeiter]], [[Schichtarbeiter]], [[arbeitsunfähig]]

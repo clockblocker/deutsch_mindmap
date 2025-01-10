@@ -1,3 +1,15 @@
+30. Wie werden die [[Regierungschefs]] / Regierungschefinnen der meisten Bundesländer in Deutschland genannt? (89%)
+	- [ ] Erster Minister / Erste Ministerin
+	- [ ] Premierminister / Premierministerin
+	- [ ] Senator / Senatorin
+	- [x] Ministerpräsident / Ministerpräsidentin
+
+26. Wen [[vertreten]] die [[Gewerkschaften]] in Deutschland? (89%)
+	- [ ] große [[Unternehmen]]
+	- [ ] kleine Unternehmen
+	- [ ] [[Selbständige]]
+	- [x] [[Arbeitnehmer]] und Arbeitnehmerinnen
+
 35. Wann wurde die Mauer in Berlin für alle geöffnet? (89%)
 	- [ ] 1987
 	- [x] 1989

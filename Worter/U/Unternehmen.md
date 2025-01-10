@@ -5,6 +5,11 @@ die [[Unternehmen]]
 ---
 224. Was bedeutet die [[Abkürzung]] EU? (97%)
 
+26. Wen [[vertreten]] die [[Gewerkschaften]] in Deutschland? (89%)
+	- [ ] große [[Unternehmen]]
+	- [ ] kleine Unternehmen
+	- [ ] [[Selbständige]]
+	- [x] [[Arbeitnehmer]] und Arbeitnehmerinnen
 
 ---
 Synonyme:

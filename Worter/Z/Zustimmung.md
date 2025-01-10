@@ -1,1 +1,1 @@
-, [[dafür]], [[Erlaubnis]], [[Beitritt]], [[Einspruch]], [[Einwilligung]]
+, [[dafür]], [[Erlaubnis]], [[Beitritt]], [[Einspruch]], [[Einwilligung]], [[Widerspruch]]

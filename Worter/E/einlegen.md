@@ -7,6 +7,10 @@
 	- [x] [[Einspruch]] [[einlegen]].
 	- [ ] warten, bis ein anderer [[Bescheid]] kommt.
 
+27. Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen [[Behörde]] bekommen? (89%)
+	- [ ] Ich lasse die Rechnung liegen.
+	- [x] Ich [[lege ein|lege]] [[Widerspruch]] bei der [[Behörde]] ein.
+
 
 ---
 = [[platzieren]], [[hineinlegen]], [[unterbringen]], [[einfügen]]

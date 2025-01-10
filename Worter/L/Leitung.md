@@ -26,4 +26,4 @@ Dative: der [[Leitung]], den [[Leitungen]]
 [[leiten]], [[leitend]], [[Leitfaden]], [[Leitungsrohr]], [[Rohrleitung]], [[Wasserleitung]], [[Stromleitung]]
 
 , [[Aufsicht]], [[leiten]]
-, [[wertvoll]]
+, [[wertvoll]], [[Verwaltung]]

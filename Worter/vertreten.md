@@ -1,6 +1,13 @@
 🙋‍♂️ [[vertreten]], [fɛɐ̯ˈtʁeːtn̩] | [[vertrat]], haben [[vertreten]]
 
 ---
+26. Wen [[vertreten]] die [[Gewerkschaften]] in Deutschland? (89%)
+	- [ ] große [[Unternehmen]]
+	- [ ] kleine Unternehmen
+	- [ ] [[Selbständige]]
+	- [x] [[Arbeitnehmer]] und Arbeitnehmerinnen
+
+
 139. Wann kommt es in Deutschland zu einem Prozess vor [[Gericht]]? Wenn jemand … (93%)
 	- [ ] zu einer anderen Religion [[übertritt]].
 	- [x] eine [[Straftat]] begangen hat und [[angeklagt]] wird.
@@ -33,4 +40,4 @@ PI: [[vertretend]], PII: [[vertreten]], Zu+inf: [[zu vertreten]]
 [[vertreten]] - [[ver]] = [[treten]] / to represent, to substitute, to stand in for
 
 ---
-[[Vertreter]], [[Vertretung]], [[Stellvertreter]], [[vertrauenswürdig]], [[vertretbar]], [[anregen]]
+[[Vertreter]], [[Vertretung]], [[Stellvertreter]], [[vertrauenswürdig]], [[vertretbar]], [[anregen]], [[Gewerkschaft]]

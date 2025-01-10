@@ -1,1 +1,1 @@
-, [[Geselle]], [[Behördenleiter]]
+, [[Geselle]], [[Behördenleiter]], [[Arbeitnehmer]]

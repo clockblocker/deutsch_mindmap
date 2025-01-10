@@ -6,6 +6,12 @@ die [[Wirtschaften]]
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
 	- [ ] um [[wirtschaftlichen]] [[Wettbewerb]] [[anzuregen]]
 
+32. Wer [[wählt]] in Deutschland die [[Abgeordneten]] zum Bundestag? (89%)
+	- [ ] das [[Militär]]
+	- [ ] die [[Wirtschaft]]
+	- [x] das [[wahlberechtigte]] Volk
+	- [ ] die [[Verwaltung]]
+
 
 ---
 = [[Ökonomie]], [[Wirtschaftssystem]], [[Wirtschaftsleben]]

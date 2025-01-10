@@ -4,7 +4,6 @@
 23. In Deutschland sind die [[meisten]] [[Erwerbstätigen]] … (97%)
 	- [x] bei einer Firma oder [[Behörde]] [[beschäftigt]].
 
-
 ---
 = [[berufstätig]], [[beschäftigt]], [[arbeitend]]
 ≈ [[werktätig]], [[produktiv]], [[aktiv im Berufsleben]]

@@ -1,1 +1,1 @@
-, [[Arbeitsgericht]], [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Arbeitslosenversicherung]]
+, [[Arbeitsgericht]], [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Arbeitslosenversicherung]], [[arbeitsunfähig]]

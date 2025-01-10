@@ -7,6 +7,12 @@
 	- [ ] Nur Personen, die noch nie im [[Gefängnis]] waren, dürfen [[wählen]].
 	- [ ] Alle [[wahlberechtigten]] Personen müssen wählen.
 
+32. Wer [[wählt]] in Deutschland die [[Abgeordneten]] zum Bundestag? (89%)
+	- [ ] das [[Militär]]
+	- [ ] die [[Wirtschaft]]
+	- [x] das [[wahlberechtigte]] Volk
+	- [ ] die [[Verwaltung]]
+
 ---
 = [[stimmberechtigt]], [[wählbar]]
 ≈ [[zugelassen]], [[qualifiziert]], [[teilnahmefähig]]

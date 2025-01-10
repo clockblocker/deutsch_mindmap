@@ -1,1 +1,1 @@
-, [[Berechnung]], [[Rechner]]
+, [[Berechnung]], [[Rechner]], [[Rentenberechnung]]

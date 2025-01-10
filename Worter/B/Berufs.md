@@ -1,1 +1,1 @@
-[[Beruf]], [[berufsbezogen]]
+[[Beruf]], [[berufsbezogen]], [[Berufsinformationszentrum]]

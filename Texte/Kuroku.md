@@ -1,8 +1,8 @@
 Er hat eine ganz bestimmte [[Schwäche]]
 
 [[vertraut]], [[geglaubt]], [[besonderes]], [[grossartig]]
-[[unscheinbar]], [[funkten]], [[verteidigen]], [[Verteidiger]], [[Worter/überlassen]], [[einfach]], [[fertig]], [[beziegt]], [[ernsthaft]]
-
+[[unscheinbar]], [[funkten]], [[verteidigen]], [[Verteidiger]], [[Worter/überlassen]], [[einfach]], [[fertig]], [[beziegt]], [[ernsthaft]], [[langweilig]]
+[[stolz]]
 [[Absicht]]
 
 Es ist [[wirklich]] [[Unglaublich]]

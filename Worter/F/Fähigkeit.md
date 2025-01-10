@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fähigkeit]], [[Fähigkeiten]], [[Fähigkeiten]], [[Fähigkeiten]]
 
 ---
-#Substantiv #Feminin 
+#Substantiv #Feminin , [[arbeitsunfähig]]

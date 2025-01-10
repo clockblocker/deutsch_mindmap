@@ -10,6 +10,12 @@ die [[Behörden]]
 
 256. Ein [[Ehepaar]] möchte in Deutschland ein Restaurant [[eröffnen]]. Was braucht es dazu [[unbedingt]]? (93%)
 	- [x] eine [[Gaststättenerlaubnis]] von der [[zuständigen]] [[Behörde]]
+
+27. Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen [[Behörde]] bekommen? (89%)
+	- [ ] Ich lasse die Rechnung liegen.
+	- [x] Ich [[lege ein|lege]] [[Widerspruch]] bei der [[Behörde]] ein.
+
+
 ---
 = [[Verwaltung]], [[Amt]], [[Dienststelle]]
 ≈ [[Büro]], [[Institution]], [[Verwaltungsorgan]], [[Einrichtung]]

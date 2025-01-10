@@ -8,6 +8,12 @@ die [[Abgeordneten]]
 	- [ ] die Fraktion mit den meisten [[Abgeordneten]].
 	- [ ] alle Parteien, die bei der letzten [[Wahl]] die 5%-[[Hürde]] [[erreichen]] konnten.
 
+32. Wer [[wählt]] in Deutschland die [[Abgeordneten]] zum Bundestag? (89%)
+	- [ ] das [[Militär]]
+	- [ ] die [[Wirtschaft]]
+	- [x] das [[wahlberechtigte]] Volk
+	- [ ] die [[Verwaltung]]
+
 ---
 = [[Parlamentarier]], [[Volksvertreter]], [[Mandatsträger]]
 ≈ [[Politiker]], [[Repräsentant]], [[Delegierter]]

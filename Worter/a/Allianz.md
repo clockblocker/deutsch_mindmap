@@ -1,1 +1,1 @@
-, [[Zusammenschluss]]
+, [[Zusammenschluss]], [[Alliierte]]

@@ -1,1 +1,1 @@
-, [[erwerbstätig]]
+, [[erwerbstätig]], [[Arbeitnehmer]]

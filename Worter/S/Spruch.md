@@ -1,1 +1,1 @@
-, [[Satz]], [[Redensart]], [[Sprichwort]], [[Anspruch]], [[Einspruch]]
+, [[Satz]], [[Redensart]], [[Sprichwort]], [[Anspruch]], [[Einspruch]], [[Widerspruch]]

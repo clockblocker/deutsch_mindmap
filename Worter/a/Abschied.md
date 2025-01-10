@@ -27,4 +27,4 @@ G: des [[Abschieds]], der [[Abschiede]]
 D: dem [[Abschied]], den [[Abschieden]]  
 
 ---
-[[abscheiden]], [[abschiedlich]], [[Abschiednahme]], [[verabschieden]]
+[[abscheiden]], [[abschiedlich]], [[Abschiednahme]], [[verabschieden]], [[Entlassung]]

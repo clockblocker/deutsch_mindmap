@@ -1,1 +1,1 @@
-, [[Besatzungszone]], [[besetzen]]
+, [[Besatzungszone]], [[besetzen]], [[Besatzungsmacht]], [[Besatz]]

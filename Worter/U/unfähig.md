@@ -1,1 +1,1 @@
-, [[geeignet]]
+, [[geeignet]], [[arbeitsunfähig]]

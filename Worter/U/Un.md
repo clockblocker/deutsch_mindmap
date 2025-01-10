@@ -1,1 +1,1 @@
-[[Unglück]], [[Unsinn]], [[Unfall]], [[ununterbrochen]], [[ungerecht]], [[ungerechtfertigen]], [[unbezahlt]], [[unfrankierter]], [[unscheinbar]], [[unrecht]]
+[[Unglück]], [[Unsinn]], [[Unfall]], [[ununterbrochen]], [[ungerecht]], [[ungerechtfertigen]], [[unbezahlt]], [[unfrankierter]], [[unscheinbar]], [[unrecht]], [[arbeitsunfähig]]

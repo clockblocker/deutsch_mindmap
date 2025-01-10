@@ -8,6 +8,12 @@ die [[Zwischenergebnisse]]
 	- [ ] Sie geben [[Zwischenergebnisse]] an Journalisten weiter.
 	- [x] Sie zählen die Stimmen nach dem Ende der Wahl.
 
+34. Was ist eine [[Aufgabe]] von [[Wahlhelfern]] / Wahlhelferinnen in Deutschland? (89%)
+	- [ ] Sie helfen alten Menschen bei der [[Stimmabgabe]] in der Wahlkabine.
+	- [ ] Sie schreiben die Wahlbenachrichtigungen vor der Wahl.
+	- [ ] Sie geben [[Zwischenergebnisse]] an die Medien weiter.
+	- [x] Sie zählen die Stimmen nach dem Ende der Wahl.
+
 
 ---
 = [[Teilergebnis]], [[Zwischenresultat]]

@@ -17,4 +17,4 @@ Morphems:
 [[Schmuck]]
 
 ---
-#Substantiv #Masculin, [[11 08]], [[schmücken]]
+#Substantiv #Masculin, [[11 08]], [[schmücken]], [[Besatz]]

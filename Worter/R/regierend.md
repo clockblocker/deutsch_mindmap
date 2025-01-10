@@ -31,4 +31,4 @@ N: [[regierendes]], [[regierenderes]], [[regierendstes]]
 P: [[regierenden]], [[regierenderen]], [[regierendsten]]  
 
 ---
-[[Regierung]], [[regieren]], [[Regierungszeit]], [[regierungsfähig]], [[Regierungschef]]
+[[Regierung]], [[regieren]], [[Regierungszeit]], [[regierungsfähig]], [[Worter/R/Regierungschef]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Suche]], [[Suchen]], [[Suchen]], [[Suchen]]
 
 ---
-#Substantiv #Feminin, [[zuneigen]]
+#Substantiv #Feminin, [[zuneigen]], [[Lehrstellensuche]]

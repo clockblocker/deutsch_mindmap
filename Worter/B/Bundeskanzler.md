@@ -7,7 +7,7 @@ die [[Bundeskanzler]]
 
 ---
 Synonyme:
-- [[Regierungschef]], [[Premierminister]], [[Ministerpräsident]]
+- [[Worter/R/Regierungschef]], [[Premierminister]], [[Ministerpräsident]]
 
 ---
 Übersetzung: Federal Chancellor

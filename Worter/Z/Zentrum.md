@@ -1,1 +1,1 @@
-, [[kern]], [[Grenze]], [[Grenz]]
+, [[kern]], [[Grenze]], [[Grenz]], [[Berufsinformationszentrum]]

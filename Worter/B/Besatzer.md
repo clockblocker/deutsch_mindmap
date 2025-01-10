@@ -1,1 +1,1 @@
-, [[besetzen]]
+, [[besetzen]], [[Besatzungsmacht]]

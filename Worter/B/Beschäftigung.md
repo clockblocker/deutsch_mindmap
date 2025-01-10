@@ -1,1 +1,1 @@
-[[Beruf]], [[Tätigkeit]], [[beschäftigen]], [[schäftigen]], [[erwerbstätig]]
+[[Beruf]], [[Tätigkeit]], [[beschäftigen]], [[schäftigen]], [[erwerbstätig]], [[Entlassung]]

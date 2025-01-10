@@ -5,6 +5,12 @@
 	- [x] bei einer Firma oder [[Behörde]] [[beschäftigt]].
 	- [ ] [[selbständig]] mit einer eigenen Firma tätig.
 
+26. Wen [[vertreten]] die [[Gewerkschaften]] in Deutschland? (89%)
+	- [ ] große [[Unternehmen]]
+	- [ ] kleine Unternehmen
+	- [ ] [[Selbständige]]
+	- [x] [[Arbeitnehmer]] und Arbeitnehmerinnen
+
 ---
 = [[unabhängig]], [[eigenständig]], [[autonom]]
 ≈ [[selbstständig]], [[souverän]], [[eigenverantwortlich]], [[selbstbestimmt]]

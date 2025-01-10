@@ -1,1 +1,2 @@
 [[Gewalt]], [[Anwalt]]
+, [[Verwaltung]], [[verwalten]]

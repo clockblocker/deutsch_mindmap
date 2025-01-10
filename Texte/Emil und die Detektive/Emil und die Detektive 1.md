@@ -11,7 +11,6 @@ So -, sagte Frau Tischbein,
 
 In der Stube saß eine Frau und [[hielt]] den Kopf über das weiße [[Waschbecken]] [[gebückt]]. Ihre [[Frisur]] war [[aufgelöst]] und [[hing]] wie drei [[Pfund]] [[Wolle]] [[nach unten]]. Emils Mutter [[goß]] die Kamillenseife in das blonde Haar und begann, den [[fremden]] Kopf zu waschen, daß es [[schäumte]]. 
 
-
 --Ist es nicht zu heiß? - fragte sie. 
 --Nein, es geht -, antwortete der Kopf. 
 --Ach, das ist ja Frau [[Bäckermeister]] [[Wirth]]! Guten Tag! - sagte Emil und [[schob]] seinen Krug unter die [[Waschtoilette]]. 
