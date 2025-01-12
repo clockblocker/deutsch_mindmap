@@ -11,7 +11,9 @@ Wie oft haben Sie schon auf den Fahrstuhl gewartet und während des Wartens unge
  
 Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Erfolg]]!“ sagen oder jemandem die Daumen [[drücken]]. Ob es hilft? [[Immerhin]]: Wer [[freut]] sich nicht darüber, dass an ihn [[gedacht]] wird?
 
- 
+---
+[[ausdrücken]] - [[aus]] = [[drücken]] / to express, to press out
+  
 ---
 Synonyme: [[pressen]], [[drängen]], [[quetschen]], [[zusammendrücken]], [[knautschen]], [[quälen]]
 Antonyme: [[loslassen]], [[freigeben]], [[öffnen]]

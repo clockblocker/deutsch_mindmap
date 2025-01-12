@@ -20,4 +20,4 @@ Einzigartige mögliche Formen: [[Fehler]], [[Fehlers]], [[Fehlern]]
 
 ---
 #Substantiv #Plural #Maskulin
-, [[Fehlermeldung]], [[fehlerhaft]]
+, [[Fehlermeldung]], [[fehlerhaft]], [[begehen]]

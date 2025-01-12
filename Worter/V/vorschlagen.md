@@ -5,6 +5,10 @@ Aber dem wird sie die Suppe schon noch versalzen! Beim nächsten Termin mit ihre
 
 „Lass uns zusammen eine [[Weltreise]] machen“, [[vorschlagen|schlägt]] ihre beste Freundin [[vor]]. 
 
+43. Wann kann in Deutschland eine Partei verboten werden? (88%)
+	- [x] wenn sie gegen die [[Verfassung]] kämpft
+	- [ ] wenn ihr Programm eine neue [[Richtung]] [[vorschlägt]]
+
 ---
 Synonyme: [[empfehlen]], [[vorschlagen]], [[anregen]], [[vorschlagen]], [[vorschlagen]]
 Antonyme: [[ablehnen 1]], [[verwerfen]], [[ignorieren]]

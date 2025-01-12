@@ -1,0 +1,1 @@
+📋 [[Auflistung]], [ˈaʊ̯flɪstʊŋ], [[enthalten]]

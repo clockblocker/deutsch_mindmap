@@ -37,4 +37,4 @@ Morpheme: [[tu]][[n]]
 Partizip I: [[tuend]], Partizip II: [[getan]]
 
 [[tun]] - keine Trennbarkeit
-''', [[reintun]], [[ablehnen]], [[antun]]
+''', [[reintun]], [[ablehnen]], [[antun]], [[begehen]]

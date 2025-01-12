@@ -2,6 +2,18 @@
 die [[Regierungen]]
 
 ---
+32. Was ist keine staatliche [[Gewalt]] in Deutschland? (87%)
+	- [ ] [[Gesetzgebung]]
+	- [ ] [[Regierung]]
+	- [x] Presse
+	- [ ] [[Rechtsprechung]]
+
+51. Zu einem demokratischen Rechtsstaat gehört es nicht, dass … (88%)
+	- [ ] Menschen sich kritisch über die [[Regierung]] [[äußern]] können.
+	- [ ] Bürger friedlich demonstrieren gehen dürfen.
+	- [x] Menschen von einer [[Privatpolizei]] ohne Grund [[verhaftet]] werden.
+	- [ ] jemand ein [[Verbrechen]] [[begeht]] und deshalb [[verhaftet]] wird.
+
 1. In Deutschland dürfen Menschen offen etwas gegen die [[Regierung]] sagen, weil … (91%)
 	- [x] hier [[Meinungsfreiheit]] [[gilt]].
 
@@ -29,4 +41,4 @@ G: der [[Regierung]], der [[Regierungen]]
 D: der [[Regierung]], den [[Regierungen]]  
 
 ---
-[[regieren]], [[regierend]], [[Worter/R/Regierungschef]], [[Regierungsbildung]], [[regierungsfähig]], [[Bundeskanzleramt]], [[Bundesregierung]], [[Regierungspartei]], [[Regierungschef]]
+[[regieren]], [[regierend]], [[Worter/R/Regierungschef]], [[Regierungsbildung]], [[regierungsfähig]], [[Bundeskanzleramt]], [[Bundesregierung]], [[Regierungspartei]], [[Regierungschef]], [[verhaften]]

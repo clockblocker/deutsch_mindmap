@@ -1,1 +1,1 @@
-, [[Bundeswehr]]
+, [[Bundeswehr]], [[Militärdienst]]

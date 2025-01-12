@@ -2,14 +2,15 @@
 die [[Verbrechen]]
 
 ---
- „Das ist ein ganz großes [[Verbrechen]]!“, da ist er sich sicher. 
- Die Polizisten stöhnen. Das klingt nach sehr viel Arbeit.
+ „Das ist ein ganz großes [[Verbrechen]]!“, da ist er sich sicher. Die Polizisten stöhnen. Das klingt nach sehr viel Arbeit.
 
 288. [[Woraus]] [[begründet]] sich [[Deutschlands]] [[besondere]] [[Verantwortung]] für Israel? (100%)
 	- [ ] aus der [[Mitgliedschaft]] in der Europäischen Union (EU)
 	- [x] aus den nationalsozialistischen [[Verbrechen]] gegen Juden
-	- [ ] aus dem [[Grundgesetz]] der Bundesrepublik Deutschland
-	- [ ] aus der christlichen Tradition
+
+51. Zu einem demokratischen Rechtsstaat gehört es nicht, dass … (88%)
+	- [x] Menschen von einer [[Privatpolizei]] ohne Grund [[verhaftet]] werden.
+	- [ ] jemand ein [[Verbrechen]] [[begeht]] und deshalb [[verhaftet]] wird.
 
 
 ---
@@ -33,4 +34,4 @@ Dative: dem [[Verbrechen]], den [[Verbrechen]]
 [[Verbrechen]], [[verbrecherisch]], [[kriminell]], [[strafbar]]
 
 ---
-, [[stöhnen]]
+, [[stöhnen]], [[verhaften]]

@@ -13,7 +13,7 @@ Synonyme:
 environment, surroundings, vicinity
 
 ---
-[[Um]][[gebung]]
+[[Um]][[Gebung]]
 
 ---
 Case: Singular, Plural  

@@ -1,1 +1,1 @@
-, [[Ausbildung]], [[Übung]], [[Weiterbildung]]
+, [[Ausbildung]], [[Übung]], [[Weiterbildung]], [[Vereinstrainer]]

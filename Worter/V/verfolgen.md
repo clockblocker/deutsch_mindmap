@@ -31,3 +31,4 @@ Partizip I: [[verfolgend]], Partizip II: [[verfolgt]]
 [[verfolgen]] - [[ver]] = [[folgen]]
 
 , [[nachjagen]], [[hinterherlaufen]]
+, [[folgenden]]

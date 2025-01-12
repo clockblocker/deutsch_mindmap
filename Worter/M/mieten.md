@@ -61,4 +61,4 @@ to rent, to lease
 ---
 
 **Morphems of only infinitive:**  
-- [[miet]][[en]], [[leihen]], [[beziehen]]
+- [[miet]][[en]], [[leihen]], [[beziehen]], [[Miethaus]]

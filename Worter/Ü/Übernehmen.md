@@ -7,6 +7,10 @@ haben [[übernommen]]
 
  Er würde gern mehr [[Verantwortung]] [[übernehmen]], hat er zum Chef gesagt.
 
+282. Welches [[Ehrenamt]] müssen deutsche Staatsbürger / Staatsbürgerinnen [[übernehmen]], wenn sie dazu [[aufgefordert]] werden? (88%)
+	- [ ] [[Vereinstrainer]] / Vereinstrainerin
+	- [ ] Bibliotheksaufsicht
+	- [x] [[Wahlhelfer]] / Wahlhelferin
 
 ---
 Synonyme: [[überkommen]], [[auf sich nehmen]], [[annehmen]], [[adopieren]], [[erwerben]]
@@ -33,4 +37,4 @@ Morpheme: [[über]][[nehm]][[en]]
 
 Partizip I: [[übernehmend]], Partizip II: [[übernommen]]
 
-[[Übernehmen]] - [[über]] = [[nehmen]], [[ablehnen]], [[Deutschland]], [[vertreten]]
+[[Übernehmen]] - [[über]] = [[nehmen]], [[ablehnen]], [[Deutschland]], [[vertreten]], [[auffordern]]

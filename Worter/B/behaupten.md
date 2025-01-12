@@ -11,7 +11,7 @@ Antonyme: [[bezweifeln]], [[leugnen]], [[verneinen]], [[dementieren]]
 to claim, to assert, to maintain
 
 ---
-[[be]][[haupt]][[en]]
+[[be]][[Haupt]][[en]]
    
 
 ---

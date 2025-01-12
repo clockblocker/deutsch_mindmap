@@ -32,4 +32,4 @@ D: der [[Wahl]], den [[Wahlen]]
 ---
 [[wählen]], [[wählbar]], [[Wahllokal]], [[Wahlurne]], [[Wahlkampf]]
 
-, [[Auswahl]], [[Entscheidung]], [[Bundestagswahl]], [[Direktkandidat]], [[Wahlpflicht]], [[wahlberechtigt]], [[Landtagswahl]], [[Briefwahl]], [[Wahltag]], [[Wahlhelfer]], [[Wahllokals]]
+, [[Auswahl]], [[Entscheidung]], [[Bundestagswahl]], [[Direktkandidat]], [[Wahlpflicht]], [[wahlberechtigt]], [[Landtagswahl]], [[Briefwahl]], [[Wahltag]], [[Wahlhelfer]], [[Wahllokals]], [[Berufswahl]]

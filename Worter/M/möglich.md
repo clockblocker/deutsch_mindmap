@@ -8,6 +8,9 @@ Willst du vielleicht warten bis zufällig ein anderes Monster vorbeikommt und di
 
 Manchmal sagt er Nein zu Dingen, die [[eigentlich]] ganz [[sinnvoll]] wären. Bestimmt wird er alle [[möglichen]] [[Einwände]] haben: Wo soll er das Geld [[herholen]]?
 
+12. Eine Partei im Deutschen Bundestag will die Pressefreiheit [[abschaffen]]. Ist das [[möglich]]? (87%)
+	- [x] Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht [[abgeschafft]] werden.
+
 
 ---
 Synonyme: [[realisierbar]], [[durchführbar]], [[praktikabel]], [[machbar]], [[erreichbar]]

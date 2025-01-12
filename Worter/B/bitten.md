@@ -31,4 +31,4 @@ Zu+infinifive: [[zubitten]]
 
 ---
 [[Bitte]], [[Bittsteller]], [[Bittschrift]], [[Bittgang]], [[Bittstellerin]], [[Bittgebet]]
-🙏 [[bitten]]
+🙏 [[bitten]], [[auffordern]]

@@ -32,4 +32,4 @@ PI: [[unterstützend]], PII: [[unterstützt]], Zu+inf: [[zu unterstützen]]
 [[unterstützen]] - [[unter]] = [[stützen]] / to support, to help, to assist
 
 ---
-[[Unterstützung]], [[Unterstützer]], [[Unterstützerin]], [[unterstützend]], [[Beistand]]
+[[Unterstützung]], [[Unterstützer]], [[Unterstützerin]], [[unterstützend]], [[Beistand]], [[versorgen]], [[beraten]]

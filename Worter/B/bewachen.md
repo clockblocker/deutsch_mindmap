@@ -1,1 +1,1 @@
-, [[wachen]], [[beschützen]]
+, [[wachen]], [[beschützen]], [[überwachen]]

@@ -72,4 +72,4 @@ Konjunktiv II:
 - Wenn er hier wäre, [[feierte]] er mit uns.
 - Wenn wir es wüssten, [[feierten]] wir den Erfolg.
 - Wenn ihr da wärt, [[feiertet]] ihr die ganze Nacht.
-- Wenn sie könnten, [[feierten]] sie den Abschluss., [[fest]], [[Feiertag]]
+- Wenn sie könnten, [[feierten]] sie den Abschluss., [[fest]], [[Feiertag]], [[Rosenmontag]]

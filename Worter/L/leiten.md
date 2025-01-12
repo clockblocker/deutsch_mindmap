@@ -28,4 +28,4 @@ Partizip II: [[geleitet]]
 Zu+infinifive: [[zu leiten]]
 
 ---
-[[Leiter]], [[Leitung]], [[Anleitung]], [[Geschäftsführung]], [[Verwaltung]], [[Direktion]], [[Projektleitung]], [[Behördenleiter]], [[verwalten]]
+[[Leiter]], [[Leitung]], [[Anleitung]], [[Geschäftsführung]], [[Verwaltung]], [[Direktion]], [[Projektleitung]], [[Behördenleiter]], [[verwalten]], [[Vereinstrainer]], [[vorsitzen]]

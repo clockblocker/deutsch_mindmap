@@ -1,1 +1,1 @@
-, [[Freiheit]]
+, [[Freiheit]], [[Gewissensfreiheit]]

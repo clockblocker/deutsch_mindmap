@@ -4,11 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "deb738e02cdfe247",
+        "id": "8780b07168582035",
         "type": "tabs",
         "children": [
           {
-            "id": "fef40d99997af98d",
+            "id": "ea011664fb4c3973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/c1/Der elterliche Handykonsum und seine Folgen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Der elterliche Handykonsum und seine Folgen"
+            }
+          },
+          {
+            "id": "d215e41826c2d4fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/veröffentlichten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "veröffentlichten"
+            }
+          },
+          {
+            "id": "7bb962a11390d4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/veröffentlichten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "veröffentlichten"
+            }
+          },
+          {
+            "id": "e50902fdb3296a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/L/laut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "laut"
+            }
+          },
+          {
+            "id": "4121cbc8da3015e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/jüngst.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jüngst"
+            }
+          },
+          {
+            "id": "497a785976305bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/U/Unterhaltung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unterhaltung"
+            }
+          },
+          {
+            "id": "254b56dc4860fca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Gewissensfreiheit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gewissensfreiheit"
+            }
+          },
+          {
+            "id": "8d908ec69e9f05ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +118,65 @@
               "icon": "lucide-file",
               "title": "151-180"
             }
+          },
+          {
+            "id": "5ac7530fed10c747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Auflistung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auflistung"
+            }
+          },
+          {
+            "id": "b3b1c592221452bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Auflistungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auflistungen"
+            }
+          },
+          {
+            "id": "e3a6ffff03c067d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/Gebung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gebung"
+            }
+          },
+          {
+            "id": "24ee35069c5475bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Drittel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drittel"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -163,34 +318,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fef40d99997af98d",
+  "active": "8d908ec69e9f05ae",
   "lastOpenFiles": [
-    "Texte/Einbuergerungstest/121-150.md",
+    "Worter/T/treffen.md",
+    "Worter/D/deutlich.md",
+    "Worter/D/deuten.md",
     "Texte/Einbuergerungstest/151-180.md",
-    "Worter/Nützliches.md",
-    "Worter/Schädliches.md",
-    "Worter/Freudiges.md",
-    "Worter/Schmerzliches.md",
-    "Worter/Freundliches.md",
-    "Worter/A/Annäherung.md",
-    "Worter/E/Entfernung.md",
-    "Worter/G/Gleichheit.md",
-    "Worter/U/Ungleichheit.md",
-    "Texte/Avatar/s1 e2.md",
-    "Worter/umarmen.md",
-    "Worter/ausweichend.md",
-    "Worter/A/anblicken.md",
-    "Worter/V/vorhaben.md",
-    "Wortlisten/Dativ.md",
-    "Worter/B/Beamte.md",
-    "Worter/D/Differenz.md",
-    "Worter/D/Diskrepanz.md",
-    "Worter/D/Disparität.md",
-    "Worter/U/Ungleichheiten.md",
-    "Grammatik/Dativ.md",
-    "Worter/G/gleichstellen.md",
-    "Worter/P/Parität.md",
-    "Worter/G/Gleichheiten.md",
+    "Worter/Einheitliche.md",
+    "Worter/Feiertage.md",
+    "Worter/F/Feiertag.md",
+    "Texte/Einbuergerungstest/300+ (Berlin).md",
+    "Texte/Einbuergerungstest/Not trivial.md",
+    "Worter/Glaubensfreiheit.md",
+    "Worter/G/gleich.md",
+    "Worter/G/Gebiet.md",
+    "Worter/H/heutige.md",
+    "Worter/heutig.md",
+    "Worter/F/früheren.md",
+    "Worter/F/früh.md",
+    "Worter/E/enthält.md",
+    "Worter/folgenden.md",
+    "Worter/E/enthalten.md",
+    "Worter/A/Aufbewahrung.md",
+    "Worter/Z/zu enthalten.md",
+    "Worter/E/enthaltend.md",
+    "Worter/E/enthieltet.md",
+    "Worter/E/enthaltet.md",
+    "Worter/E/enthalten wir.md",
+    "Worter/E/enthielten.md",
+    "Texte/c1/processed_german_words.json",
+    "Texte/c1/processed_german_text1.txt",
+    "Texte/c1/processed_german_text.txt",
+    "verfassung_dwds.html",
     "Texte/Avatar/separable_verbs_frequency.csv",
     "Worter/Č",
     "Alleinerziehende",
@@ -207,10 +366,6 @@
     "Anhänge/Pasted image 20250102084854.png",
     "Anhänge",
     "Texte/Einbuergerungstest",
-    "Texte/c1",
-    "Texte/Brüder Grimm",
-    "Lektionen/Kamanova/Audio/L-07.mp3",
-    "Lektionen/Kamanova/Audio/L-05.mp3",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

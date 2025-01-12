@@ -1,3 +1,77 @@
+109. Wie oft gibt es normalerweise Bundestagswahlen in Deutschland? (86%)
+	- [ ] alle drei Jahre
+	- [x] alle vier Jahre
+	- [ ] alle fünf Jahre
+	- [ ] alle sechs Jahre
+
+195. Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR? (86%)
+	- [ ] Hessen
+	- [x] Sachsen-Anhalt
+	- [ ] Nordrhein-Westfalen
+	- [ ] Saarland
+
+192. Welches [[heutige]] deutsche Bundesland gehörte früher zum Gebiet der DDR? (86%)
+	- [x] Brandenburg
+	- [ ] Bayern
+	- [ ] Saarland
+	- [ ] Hessen
+
+201. Welche der [[folgenden]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
+	- [ ] Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg
+	- [x] Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen
+	- [ ] Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen
+	- [ ] Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg
+
+
+32. Was ist keine staatliche [[Gewalt]] in Deutschland? (87%)
+	- [ ] [[Gesetzgebung]]
+	- [ ] [[Regierung]]
+	- [x] Presse
+	- [ ] [[Rechtsprechung]]
+
+
+141. Wer [[berät]] in Deutschland Personen bei Rechtsfragen und [[vertritt]] sie vor [[Gericht]]? (87%)
+	- [x] ein [[Rechtsanwalt]] / eine Rechtsanwältin
+	- [ ] ein [[Richter]] / eine Richterin
+	- [ ] ein [[Schöffe]] / eine Schöffin
+	- [ ] ein [[Staatsanwalt]] / eine Staatsanwältin
+
+
+290. Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen? (87%)
+	- [ ] eine [[Anzeige]] schreiben
+	- [x] den Fernseher [[reklamieren]]
+	- [ ] das [[Gerät]] [[ungefragt]] [[austauschen]]
+	- [ ] die Garantie [[verlängern]]
+
+197. Welches [[heutige]] deutsche Bundesland gehörte früher zum [[Gebiet]] der DDR? (87%)
+	- [x] Thüringen
+	- [ ] Hessen
+	- [ ] Bayern
+	- [ ] Bremen
+
+43. Wann kann in Deutschland eine Partei verboten werden? (88%)
+	- [ ] wenn ihr Wahlkampf zu teuer ist
+	- [x] wenn sie gegen die [[Verfassung]] kämpft
+	- [ ] wenn sie Kritik am Staatsoberhaupt äußert
+	- [ ] wenn ihr Programm eine neue [[Richtung]] [[vorschlägt]]
+
+51. Zu einem demokratischen Rechtsstaat gehört es nicht, dass … (88%)
+	- [ ] Menschen sich kritisch über die [[Regierung]] [[äußern]] können.
+	- [ ] Bürger friedlich demonstrieren gehen dürfen.
+	- [x] Menschen von einer [[Privatpolizei]] ohne Grund [[verhaftet]] werden.
+	- [ ] jemand ein [[Verbrechen]] begeht und deshalb [[verhaftet]] wird.
+
+264. Zu welchem [[Fest]] tragen Menschen in Deutschland bunte Kostüme und Masken? (88%)
+	- [x] am [[Rosenmontag]]
+	- [ ] am Maifeiertag
+	- [ ] beim Oktoberfest
+	- [ ] an Pfingsten
+
+189. Wann [[baute]] die DDR die Mauer in Berlin? (88%)
+	- [ ] 1919
+	- [ ] 1933
+	- [x] 1961
+
 30. Wie werden die [[Regierungschefs]] / Regierungschefinnen der meisten Bundesländer in Deutschland genannt? (89%)
 	- [ ] Erster Minister / Erste Ministerin
 	- [ ] Premierminister / Premierministerin

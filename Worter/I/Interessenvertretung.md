@@ -1,1 +1,1 @@
-, [[Gewerkschaft]]
+, [[Gewerkschaft]], [[Betriebsrat]]

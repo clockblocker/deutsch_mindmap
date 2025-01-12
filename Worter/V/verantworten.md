@@ -30,4 +30,4 @@ Zu+infinitive: [[zu verantworten]]
 [[verantworten]] - [[ver]] = [[Antworten]]
 
 ---
-[[Verantwortung]], [[Verantwortlichkeit]], [[Verantwortungsvolle]], [[Verantwortungsträger]], [[Verantwortungsbewusstsein]], [[verantwortlich]]
+[[Verantwortung]], [[Verantwortlichkeit]], [[Verantwortungsvolle]], [[Verantwortungsträger]], [[Verantwortungsbewusstsein]], [[verantwortlich]], [[haften]]

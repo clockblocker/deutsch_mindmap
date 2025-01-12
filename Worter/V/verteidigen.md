@@ -1,6 +1,13 @@
 🛡️ [[verteidigen]], [fɛɐ̯ˈtaɪ̯dɪɡn̩] | [[verteidigte]], haben [[verteidigt]]
 
 ---
+148. Was ist eine Aufgabe der Polizei in Deutschland? (87%)
+	- [ ] das Land zu [[verteidigen]]
+	- [ ] die Bürgerinnen und Bürger [[abzuhören]]
+	- [ ] die [[Gesetze]] zu [[beschließen]]
+	- [x] die [[Einhaltung]] von [[Gesetzen]] zu [[überwachen]]
+
+
 _Prinz Zuko kommt mit einigen Kriegern aus dem Schiff und wird von Sokka angegriffen. Er [[verteidigt]] sich und Sokka landet [[kopfüber]] im Schnee. Zuko sieht ich die Dorfbewohner an._
 
 [[Verteidigungsposition]]

@@ -21,4 +21,4 @@ Alle Formen:
 | Nominative  | der Kopf          | die Köpfe        |
 | Accusative  | den Kopf          | die Köpfe        |
 | Dative      | dem Kopf          | den Köpfen       |
-| Genitive    | des Kopfes        | der Köpfe        |[[haupt]], [[pro Kopf]], [[Stirn]], [[kopfüber]]
+| Genitive    | des Kopfes        | der Köpfe        |[[Haupt]], [[pro Kopf]], [[Stirn]], [[kopfüber]]

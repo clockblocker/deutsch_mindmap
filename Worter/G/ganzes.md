@@ -1,1 +1,1 @@
-[[ganz]], [[halbes]], [[Sektor]], [[stück]]
+[[ganz]], [[halbes]], [[Sektor]], [[stück]], [[Drittel]]

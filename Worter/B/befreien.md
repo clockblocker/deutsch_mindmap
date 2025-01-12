@@ -30,3 +30,4 @@ PI: [[befreiend]], PII: [[befreit]], Zu+inf: [[zu befreien]]
 [[Befreiung]], [[Befreier]], [[Befreierin]], [[befreiend]], [[befreit]], [[Freiheit]]
 
 [[freimachen]], [[loswerden]], [[retten]], [[aufhalten]], [[laden]], [[wringen]], [[umgeben]], [[ledigen]], [[festsitzen]], [[lösen]], [[Freiheit]]
+, [[verhaften]]

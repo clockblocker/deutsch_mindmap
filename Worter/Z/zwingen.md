@@ -30,4 +30,4 @@ PI: [[zwingend]], PII: [[gezwungen]], Zu+inf: [[zu zwingen]]
 [[zwingen]] - pure verb / to force, to compel, to coerce
 
 ---
-[[Zwang]], [[Zwinger]], [[Zwingburg]], [[Gezwungene]], [[Zwingherr]]
+[[Zwang]], [[Zwinger]], [[Zwingburg]], [[Gezwungene]], [[Zwingherr]], [[Zwangsarbeit]]

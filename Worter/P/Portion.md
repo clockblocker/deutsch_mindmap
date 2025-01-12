@@ -1,1 +1,1 @@
-, [[Hälfte]], [[stück]]
+, [[Hälfte]], [[stück]], [[Drittel]]

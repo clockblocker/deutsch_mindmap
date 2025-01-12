@@ -1,1 +1,1 @@
-[[Fernsehwerbung]]
+[[Fernsehwerbung]], [[Anzeige]]

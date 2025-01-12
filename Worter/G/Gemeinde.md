@@ -7,6 +7,13 @@ die [[Gemeinden]]
 
 66. Welche Städte haben die größten jüdischen [[Gemeinden]] in Deutschland? (100%)
 	- [x] Berlin und München
+
+131. In Deutschland ist ein Bürgermeister / eine Bürgermeisterin … (88%)
+	- [ ] der [[Leiter]] / die Leiterin einer Schule.
+	- [ ] der Chef / die Chefin einer Bank.
+	- [x] das [[Oberhaupt]] einer [[Gemeinde]].
+	- [ ] der / die [[Vorsitzende]] einer Partei.
+
 ---
 = [[Kommunalverwaltung]], [[Lokalregierung]]
 ≈ [[Ortschaft]], [[Dorf]], [[Stadt]], [[Verwaltungsbezirk]], [[Kommunalverwaltung]]

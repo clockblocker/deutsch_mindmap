@@ -5,6 +5,9 @@ die [[Gerichte]]
 146. Wie nennt man in Deutschland ein [[Verfahren]] vor einem [[Gericht]]? (91%)
 	- [x] [[Prozess]]
 
+141. Wer [[berät]] in Deutschland Personen bei Rechtsfragen und [[vertritt]] sie vor [[Gericht]]? (87%)
+	- [x] ein [[Rechtsanwalt]] / eine Rechtsanwältin
+
 
 - SAM: Ja, das [[Gericht]] des Tages ist Pudelauflauf …  
 - [ ] Die [[Gerichte]] machen die Gesetze.

@@ -1,0 +1,1 @@
+🚨 [[begehen]], [bəˈɡeːn] | [[beging]], haben [[begangen]]

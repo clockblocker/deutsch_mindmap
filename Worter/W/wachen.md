@@ -6,7 +6,8 @@ haben [[gewacht]]
 Carola ist auf dem Weg zur Uni. Um halb neun hat sie eine wichtige Prüfung, aber so richtig [[wach]] ist sie noch nicht.
 
 ---
-[[erwachen]] - [[er]] = [[wachen]]
+[[erwachen]] - [[er]] = [[wachen]] / to awaken, to wake up
+[[überwachen]] - [[über]] = [[wachen]] / to monitor, to supervise, to watch over
 
 ---
 Synonyme: [[aufpassen]], [[beobachten]], [[bewachen]], [[Wache halten]]
@@ -29,3 +30,4 @@ Morpheme: [[wach]][[en]]
 | Sie       | [[wachen]] | [[wachten]]  | [[wachen Sie]] | [[wachen]]   | [[wachten]]   |
 
 Partizip I: [[wachend]], Partizip II: [[gewacht]]
+, [[überwachen]]

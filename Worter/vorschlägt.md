@@ -1,0 +1,1 @@
+🤝 [[vorschlagen]], [fɔɐ̯ˈʃlaːɡn̩] | [[schlug vor]], haben [[vorgeschlagen]]

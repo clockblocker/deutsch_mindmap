@@ -10,7 +10,7 @@ Hast du den Lichtblitz gesehen? Er hat sicher [[versucht]] der Feuermarine ein
 Euer Vater, Großvater und Urgroßvater, alle haben es [[versucht]] und alle vergebens.
 
 ---
-Synonyme: [[probieren]], [[wagen]], [[unternehmen]], [[anstreben]], [[wollen]]
+Synonyme: [[probieren]], [[Wagen]], [[unternehmen]], [[anstreben]], [[wollen]]
 Antonyme: [[aufgeben]], [[lassen]], [[unterlassen]], [[meiden]], [[vermeiden]]
 
 ---

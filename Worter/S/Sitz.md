@@ -24,4 +24,4 @@ G: des [[Sitzes]], der [[Sitze]]
 D: dem [[Sitz]], den [[Sitzen]]  
 
 ---
-[[sitzen]], [[sitzend]], [[sitzsam]], [[Sitzbank]], [[Sitzgelegenheit]], [[besitzen]]
+[[sitzen]], [[sitzend]], [[sitzsam]], [[Sitzbank]], [[Sitzgelegenheit]], [[besitzen]], [[Vorsitzende]], [[vorsitzen]]

@@ -3,7 +3,10 @@
 haben [[gebaut]]
 
 ---
-_Aang hat aus Appas Schwanz eine Rutsche [[gebaut]], von der nun die kleinen Kinder rutschen._
+189. Wann [[baute]] die DDR die Mauer in Berlin? (88%)
+	- [x] 1961
+
+_Aang hat aus Appas [[Schwanz]] eine [[Rutsche]] [[gebaut]], von der nun die kleinen Kinder [[rutschen]]._
 
 46. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört dazu? (96%)
 	- [x] Er [[baut]] [[Straßen]] und [[Schulen]].

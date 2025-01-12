@@ -1,1 +1,1 @@
-, [[Sorgen]]
+, [[Sorgen]], [[versorgen]]

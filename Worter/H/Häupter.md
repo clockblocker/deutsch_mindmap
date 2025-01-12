@@ -1,1 +1,1 @@
-[[haupt]]
+[[Haupt]]

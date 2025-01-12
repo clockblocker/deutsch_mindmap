@@ -37,4 +37,4 @@ Zu infinitive: [[zubehalten]]
 
 
 [[übergeben]], [[loswerden]], [[geliehen]], [[wegwerfen]], [[bewegen]], [[wechseln]], [[ablösen]], [[schicken]], [[verkaufen]], [[feuern]]
-, [[umtauschen]], [[abgeben]], [[überlassen]]
+, [[umtauschen]], [[abgeben]], [[überlassen]], [[austauschen]]

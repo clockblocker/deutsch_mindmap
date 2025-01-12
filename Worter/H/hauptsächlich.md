@@ -15,7 +15,7 @@ nicht [[zweitrangig]]
 mainly, principally, primarily
 
 ---
-[[haupt]]|[[sächlich]]
+[[Haupt]]|[[sächlich]]
 
 ---
 N: [[hauptsächlich]], [[hauptsächlicher]], [[hauptsächlichster]]  
@@ -29,4 +29,4 @@ P: [[hauptsächlichen]], [[hauptsächlicheren]], [[hauptsächlichsten]]
 ---
 [[Hauptsache]], [[Hauptsächlichkeit]], [[hauptsächlich sein]], [[vorwiegend]]
 
-, [[erst]], , [[nebenbei]], [[mehrheitlich]]
+, [[erst]], , [[nebenbei]], [[mehrheitlich]], [[Oberhaupt]]

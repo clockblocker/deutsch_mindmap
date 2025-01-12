@@ -31,4 +31,4 @@ G: des [[Mitglieds]], der [[Mitglieder]]
 D: dem [[Mitglied]], den [[Mitgliedern]]  
 
 ---
-[[Mitgliedschaft]], [[mitgliedlich]], [[Vereinsmitglied]], [[Gründungsmitglied]], [[Ehrenmitglied]], [[Abkommen]]
+[[Mitgliedschaft]], [[mitgliedlich]], [[Vereinsmitglied]], [[Gründungsmitglied]], [[Ehrenmitglied]], [[Abkommen]], [[Vorsitzende]]

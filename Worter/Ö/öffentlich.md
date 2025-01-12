@@ -2,6 +2,9 @@
 nicht [[privat]]
 
 ---
+279. In den meisten [[Mietshäusern]] in Deutschland gibt es eine „[[Hausordnung]]“. Was steht in einer [[solchen]] „Hausordnung“? Sie nennt … (87%)
+	- [ ] Regeln für die Benutzung [[öffentlicher]] [[Verkehrsmittel]].
+
 111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
 	- [ ] Die Politik Israels [[öffentlich]] kritisieren.
 	- [ ] Das [[Aufhängen]] einer israelischen Flagge auf dem [[Privatgrundstück]].

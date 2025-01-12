@@ -11,3 +11,61 @@ Kinder, auch das hat die Studie gezeigt, reagieren sensibel auf den Verlust von 
 Die Expertinnen und Experten geben Empfehlungen, wie sich wirksam Abhilfe schaffen lässt. Natürlich dürfen sich Eltern auch mal ausklinken, bevor sie sich zwischen den Ansprüchen der Familie zerreiben. Auch Mütter und Väter sind nur Menschen, und das natürliche Bedürfnis nach Zerstreuung verschwindet nicht mit dem Kinderglück. Hier kann das Telefon durchaus helfen. Doch darf nicht vergessen werden, im Familienalltag handyfreie Zeiten und Rituale zu schaffen. Bei gemeinsamen Mahlzeiten, beim Spieleabend oder dem Zubettgehen hat das Handy nichts zu suchen. 
 
 Aktuell liegt auch das Handy-Fasten im Trend, das sich gemeinsam mit den Kindern anwenden lässt. Auf diese Weise hat die ganze Familie etwas davon: Ob einen Monat, eine Woche oder drei Tage – der freiwillige Verzicht bringt die Menschen wieder ohne digitale Ablenkung an einem Tisch zusammen. Und wo vorher Schweigen war, könnte schon bald ein reger Gedankenaustausch entstehen. Ohne Handy können Eltern auch ihre Freizeit wieder bewusster mit den Kindern verbringen und gemeinsame Unternehmungen planen. Je nach den Vorlieben sollte eine Aktivität gewählt werden, die alle Familienmitglieder einbindet. Falls dennoch Kompromisse notwendig sind, sollte jede und jeder zugestimmt haben. Um eine passende Aktivität zu finden, können auch der Freundes- oder Bekanntenkreis oder entsprechende Portale im Internet befragt werden. Die einen entscheiden sich dann für das Anlegen eines Gemüsebeets im Gemeinschaftsgarten, die anderen für eine Schnitzeljagd durch die Stadt – alles ist erlaubt, Hauptsache, es macht Spaß und das Handy wird nur für Fotos aus der Tasche genommen.
+
+
+[
+    ["Laut", "Präposition"],
+
+    ["einer", "Artikel"],
+
+    ["jüngst", "Adverb"],
+
+    ["in", "Präposition"],
+
+    ["einer", "Artikel"],
+
+    ["englischsprachigen", "Adjektiv"],
+
+    ["Zeitschrift", "Substantiv"],
+
+    ["veröffentlichten", "Partizip (Verbform)"],
+
+    ["Studie", "Substantiv"],
+
+    ["verursacht", "Verb"],
+
+    ["die", "Artikel"],
+
+    ["häufige", "Adjektiv"],
+
+    ["intensive", "Adjektiv"],
+
+    ["Beschäftigung", "Substantiv"],
+
+    ["vieler", "Pronomen"],
+
+    ["Eltern", "Substantiv"],
+
+    ["mit", "Präposition"],
+
+    ["dem", "Artikel"],
+
+    ["Handy", "Substantiv"],
+
+    ["bei", "Präposition"],
+
+    ["ihren", "Pronomen"],
+
+    ["Kindern", "Substantiv"],
+
+    ["Frust", "Substantiv"],
+
+    ["Wut", "Substantiv"],
+
+    ["Stress", "Substantiv"],
+
+    ["sowie", "Konjunktion"],
+
+    ["Verhaltensauffälligkeiten", "Substantiv"]
+
+]

@@ -25,4 +25,4 @@ G: der [[Religion]], der [[Religionen]]
 D: der [[Religion]], den [[Religionen]]  
 
 ---
-[[religiös]], [[religiöse]], [[Religiosität]], [[Religionswissenschaft]], [[Religionsfreiheit]], [[Religionspflicht]], [[Religionsunterricht]]
+[[religiös]], [[religiöse]], [[Religiosität]], [[Religionswissenschaft]], [[Religionsfreiheit]], [[Religionspflicht]], [[Religionsunterricht]], [[Glaubensfreiheit]]

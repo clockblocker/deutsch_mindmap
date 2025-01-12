@@ -9,7 +9,7 @@ Beispiele:
 ---
 Synonyme:
 - [[Gipfel]], [[Ende]], [[Zentrum]]
-[[haupt]]
+[[Haupt]]
 
 ---
 **Übersetzung**: tip, peak, point

@@ -1,1 +1,1 @@
-[[tun]], [[Handlung]], [[antun]], [[Straftat]]
+[[tun]], [[Handlung]], [[antun]], [[Straftat]], [[begehen]]

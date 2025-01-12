@@ -1,1 +1,1 @@
-, [[Anleitung]], [[leiten]]
+, [[Anleitung]], [[leiten]], [[Leiter]]

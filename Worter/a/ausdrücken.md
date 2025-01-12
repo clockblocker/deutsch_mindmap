@@ -26,7 +26,7 @@ Partizip I: [[ausdrückend]],
 Partizip II: [[ausgedrückt]]
 Zu+infinifive: [[auszudrücken]]
 
-[[ausdrücken]] - [[aus]] = [[drücken]]
+[[ausdrücken]] - [[aus]] = [[drücken]] / to express, to press out
 
 ---
 [[Ausdruck]], [[Ausdruckskraft]], [[Ausdrucksweise]], [[Ausdruckslos]], [[Ausdrucksform]][[ausdrücken]]

@@ -1,1 +1,1 @@
-[[wiedersehen]], [[benutzen]], [[suchen]], [[treffen]], [[versuchen]], [[verwenden]], [[antippen]], [[anstarrten]], [[nutzen]], [[begegnen]], [[vorziehen]]
+[[wiedersehen]], [[benutzen]], [[suchen]], [[treffen]], [[versuchen]], [[verwenden]], [[antippen]], [[anstarrten]], [[nutzen]], [[begegnen]], [[vorziehen]], [[herausfordern]], [[begehen]]

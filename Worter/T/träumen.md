@@ -1,1 +1,1 @@
-, [[spinnen]]
+, [[spinnen]], [[erwachen]]

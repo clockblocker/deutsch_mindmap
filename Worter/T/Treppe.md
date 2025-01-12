@@ -22,4 +22,4 @@ Morphems:
 [[Treppe]]
 
 ---
-#Substantiv #Feminin, [[Stufe]]
+#Substantiv #Feminin, [[Stufe]], [[Leiter]]

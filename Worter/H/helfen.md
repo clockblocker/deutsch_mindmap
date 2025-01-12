@@ -1,1 +1,1 @@
-, [[schaden]], [[antun]], [[unterstützen]], [[fördern]], [[Wahlhelfer]], [[beistehen]]
+, [[schaden]], [[antun]], [[unterstützen]], [[fördern]], [[Wahlhelfer]], [[beistehen]], [[Ehrenamt]], [[beraten]]

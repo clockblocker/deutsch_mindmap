@@ -1,1 +1,1 @@
-, [[Vorschlag]], [[Ratschlag]], [[ratlos]], [[verheiraten]]
+, [[Vorschlag]], [[Ratschlag]], [[ratlos]], [[verheiraten]], [[Betriebsrat]], [[beraten]]

@@ -37,4 +37,4 @@ PI: [[kümmernd]], PII: [[gekümmert]], Zu+inf: [[zu kümmern]]
 [[kümmern]] / to care, to take care of
 
 ---
-[[Kümmernis]], [[Kümmerer]], [[Kümmerung]], [[bekümmert]], [[unbekümmert]]
+[[Kümmernis]], [[Kümmerer]], [[Kümmerung]], [[bekümmert]], [[unbekümmert]], [[versorgen]]

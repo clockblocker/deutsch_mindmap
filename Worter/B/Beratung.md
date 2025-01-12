@@ -1,1 +1,1 @@
-, [[Verhandlung]], [[Ratschlag]], [[Besprechung]], [[Berufsinformationszentrum]]
+, [[Verhandlung]], [[Ratschlag]], [[Besprechung]], [[Berufsinformationszentrum]], [[beraten]]

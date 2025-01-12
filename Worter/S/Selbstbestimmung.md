@@ -1,1 +1,1 @@
-, [[Freiheit]], [[Besatzungsmacht]]
+, [[Freiheit]], [[Besatzungsmacht]], [[Zwangsarbeit]]

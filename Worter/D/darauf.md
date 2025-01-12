@@ -13,4 +13,4 @@ Synonyme:
 **Übersetzung**: on it, to it, about it
 
 ---
-#Adverb, [[dabei]], [[da]]
+#Adverb, [[dabei]], [[da]], [[folgenden]]

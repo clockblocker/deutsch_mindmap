@@ -19,7 +19,10 @@ Simon [[bedankt]] sich und [[verlässt]] [[zufrieden]] das Büro seines Chefs. J
 
 „Früher haben wir uns jeden Donnerstag zu einem [[Feierabendbier]] [[getroffen]] …“, [[bemerkt]] Peter. „Aber Donnerstag ist unser Kinoabend …“, [[erwidert]] Leo. 
 
-Die Lehrerin Frau Schulte [[trifft]] sich mit Martins Eltern zu einem Gespräch. 
+Die Lehrerin Frau Schulte [[trifft]] sich mit Martins Eltern zu einem Gespräch.
+
+235. Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem [[Treffen]] [[deutlich]]? (86%)
+	- [x] [[Frieden]] und [[Sicherheit]] in den Ländern der EU
 
 
 ---

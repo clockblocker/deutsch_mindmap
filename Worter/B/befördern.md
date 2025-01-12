@@ -1,1 +1,1 @@
-, [[hinbringen]], [[tragen]], [[mitbringen]], [[höherstellen]]
+, [[hinbringen]], [[tragen]], [[mitbringen]], [[höherstellen]], [[Verkehrsmittel]]

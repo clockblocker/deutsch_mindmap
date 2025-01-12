@@ -28,4 +28,4 @@ G: der [[Gewerkschaft]], der [[Gewerkschaften]]
 D: der [[Gewerkschaft]], den [[Gewerkschaften]]  
 
 ---
-[[gewerkschaftlich]], [[organisieren]], [[vertreten]], [[Gewerkschafter]], [[Arbeitnehmer]]
+[[gewerkschaftlich]], [[organisieren]], [[vertreten]], [[Gewerkschafter]], [[Arbeitnehmer]], [[Betriebsrat]]

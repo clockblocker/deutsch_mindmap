@@ -13,7 +13,7 @@ Antonyme: [[verschweigen]], [[leugnen]], [[ignorieren]]
 to assert, to claim
 
 ---
-[[haupt]][[en]]
+[[Haupt]][[en]]
    
 
 ---

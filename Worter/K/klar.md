@@ -1,1 +1,1 @@
-, [[offensichtlich]], [[ratlos]], [[dumpf]], [[ausweichend]]
+, [[offensichtlich]], [[ratlos]], [[dumpf]], [[ausweichend]], [[deutlich]]

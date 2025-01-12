@@ -1,1 +1,1 @@
-, [[berufsbezogen]], [[Lehrstellensuche]]
+, [[berufsbezogen]], [[Lehrstellensuche]], [[Berufswahl]]

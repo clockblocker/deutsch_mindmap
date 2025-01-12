@@ -1,1 +1,1 @@
-, [[haben]], [[greifen]], [[fassen]], [[einschließen]]
+, [[haben]], [[greifen]], [[fassen]], [[einschließen]], [[enthalten]]

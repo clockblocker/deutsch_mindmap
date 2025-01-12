@@ -1,1 +1,1 @@
-, [[widerstehen]], [[wehrten]], [[abstoßen]], [[ertragen]], [[ablehnen]], [[annehmen]], [[vertragen]], [[erlauben]], [[beschweren]]
+, [[widerstehen]], [[wehrten]], [[abstoßen]], [[ertragen]], [[ablehnen]], [[annehmen]], [[vertragen]], [[erlauben]], [[beschweren]], [[reklamieren]]

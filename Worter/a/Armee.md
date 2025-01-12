@@ -1,1 +1,1 @@
-, [[Heer]], [[Bundeswehr]]
+, [[Heer]], [[Bundeswehr]], [[Militärdienst]]

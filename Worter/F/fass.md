@@ -22,3 +22,4 @@ Morphems:
 
 ---
 #Substantiv #Neuter
+, [[Verfassung]]

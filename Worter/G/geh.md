@@ -1,1 +1,1 @@
-, [[eingehen]], [[gehen]], [[weitergehen]], [[vorgehen]]
+, [[eingehen]], [[gehen]], [[weitergehen]], [[vorgehen]], [[begehen]]

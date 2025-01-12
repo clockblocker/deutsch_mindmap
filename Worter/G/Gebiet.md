@@ -5,6 +5,9 @@ die [[Gebiete]]
 59. Vor wie vielen Jahren gab es erstmals eine [[jüdische]] [[Gemeinde]] auf dem [[Gebiet]] des [[heutigen]] Deutschlands? (100%)
 	- [x] vor etwa 1700 Jahren
 
+197. Welches [[heutige]] deutsche Bundesland gehörte früher zum [[Gebiet]] der DDR? (87%)
+	- [x] Thüringen
+
 ---
 = [[Region]], [[Areal]], [[Territorium]]
 ≈ [[Landstrich]], [[Zone]], [[Bezirk]], [[Fläche]], [[Gegend]]
@@ -26,4 +29,4 @@ D: dem [[Gebiet]], den [[Gebieten]]
 [[gebieten]], [[gebieterisch]], [[Gebietsreform]], [[Gebietsabtretung]], [[Gebietskörperschaft]]
 
 , [[Landschaft]], [[Bereich]], [[Branche]], [[fach]]
-, [[Sektor]]
+, [[Sektor]], [[Auflistung]], [[enthalten]]

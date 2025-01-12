@@ -1,1 +1,1 @@
-, [[abdecken]], [[decken]], [[schmücken]]
+, [[abdecken]], [[decken]], [[schmücken]], [[versorgen]]

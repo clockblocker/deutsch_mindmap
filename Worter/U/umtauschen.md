@@ -8,7 +8,7 @@ Synonyme: [[wechseln]], [[austauschen]], [[ersetzen]], [[zurückgeben]], [[verta
 Antonyme: [[behalten]], [[festhalten]], [[beibehalten]]
 
 ---
-to exchange, to swap
+[[umtauschen]] - [[um]] = [[tauschen]]   // to exchange, to swap
 
 ---
 [[um]][[tausch]][[en]]

@@ -3,11 +3,11 @@ die [[Verfahren]]
 
 ---
 146. Wie nennt man in Deutschland ein [[Verfahren]] vor einem [[Gericht]]? (91%)
-	- [ ] Programm
-	- [ ] Prozedur
-	- [ ] Protokoll
 	- [x] [[Prozess]]
 
+116. Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das … (88%)
+	- [ ] aktives Wahl[[verfahren]].
+	- [x] aktives Wahlrecht.
 
 ---
 = [[Methode]], [[Prozess]], [[Vorgang]]

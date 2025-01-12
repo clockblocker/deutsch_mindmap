@@ -5,6 +5,11 @@ haben [[abgehört]]
 ---
 Im DDR-Museum können die Besucher ein Stück DDR-Kultur erleben: Wie ist das Gefühl, wenn die Staatssicherheit die Wohnung abhört?
 
+148. Was ist eine Aufgabe der Polizei in Deutschland? (87%)
+	- [ ] das Land zu [[verteidigen]]
+	- [ ] die Bürgerinnen und Bürger [[abzuhören]]
+	- [ ] die [[Gesetze]] zu [[beschließen]]
+	- [x] die [[Einhaltung]] von [[Gesetzen]] zu [[überwachen]]
 
 ---
 Synonyme: [[belauschen]], [[mitschneiden]], [[überwachen]], [[mithören]]

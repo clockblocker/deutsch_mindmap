@@ -1,1 +1,1 @@
-, [[einbauen]], [[aufstellen]], [[einsetzen]]
+, [[einbauen]], [[aufstellen]], [[einsetzen]], [[abschaffen]]

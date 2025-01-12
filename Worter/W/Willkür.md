@@ -1,1 +1,1 @@
-, [[Pflicht]], [[Grundgesetz]], [[Gesetz]], [[Faustrecht]], [[Gericht]], [[Richtlinie]], [[Verwaltung]]
+, [[Pflicht]], [[Grundgesetz]], [[Gesetz]], [[Faustrecht]], [[Gericht]], [[Richtlinie]], [[Verwaltung]], [[Gesetzgebung]], [[Rechtsprechung]]

@@ -1,1 +1,1 @@
-[[verstehen]], [[erkennen]], [[Missverständnis]], [[Abkommen]], [[begreifen]]
+[[verstehen]], [[erkennen]], [[Missverständnis]], [[Abkommen]], [[begreifen]], [[beraten]]

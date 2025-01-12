@@ -1,1 +1,1 @@
-[[regeln]], [[brutzeln]], [[krabbeln]], [[widerspiegeln]], [[wuscheln]], [[wandeln]], [[gaukeln]], [[trappeln]], [[Lächeln]], [[wickeln]], [[mitteln]], [[puttel]], [[jubeln]]
+[[regeln]], [[brutzeln]], [[krabbeln]], [[widerspiegeln]], [[wuscheln]], [[wandeln]], [[gaukeln]], [[trappeln]], [[Lächeln]], [[wickeln]], [[mitteln]], [[puttel]], [[jubeln]], [[Drittel]]

@@ -1,1 +1,1 @@
-, [[leiten]], [[zusteuern]]
+, [[leiten]], [[zusteuern]], [[vorsitzen]]

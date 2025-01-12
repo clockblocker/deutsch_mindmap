@@ -1,1 +1,1 @@
-, [[sprechen]]
+, [[sprechen]], [[äußern]]

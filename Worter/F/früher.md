@@ -1,1 +1,2 @@
 [[früh]] + [[-er]]
+, [[folgenden]]

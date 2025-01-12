@@ -26,4 +26,4 @@ Morpheme: [[auf]][[seh]][[en]]
 | Sie | [[sehen auf]] | [[sahen auf]] | [[sehen Sie auf]] | [[sehen auf]] | [[sähen auf]] |
 
 Partizip I: [[aufsehend]], Partizip II: [[aufgesehen]]
-[[aufsehen]] - [[auf]] = [[sehen]]
+[[aufsehen]] - [[auf]] = [[sehen]], [[überwachen]]

@@ -45,7 +45,7 @@ Sie treffen sich am Blumenkiosk.
 [[Berlin]] [[werden|wird]] ihm [[sicher]] [[gefallen]]. Das ist was für [[Kinder]]. [[Wir]] [[sein|waren]] vor [[anderthalb]] [[Jahr|Jahren]] mit dem [[Kegelklub]] [[drüben]]. So ein [[Rummel]]! Da [[geben|gibt]] es doch [[wirklich]] [[Straße|Straßen]], die nachts [[genau]] so [[hell]] [[sein|sind]] wie am [[Tag|Tage]]. Und die [[Auto|Autos]]! - [[berichten|berichtete]] [[Frau]] [[Wirth]] aus der [[Tiefe]] des [[Waschbecken|Waschbeckens]].
 
 
---Sehr viele ausländische Wagen? - fragte Emil. 
+--Sehr [[viele]] [[ausländische]] [[Wagen]]? - fragte Emil. 
 --Woher soll ich denn das wissen? - sagte Frau Wirth und mußte niesen. Ihr war Seifenschaum in die Nase gekommen. 
 --Na, nun mach aber, daß du fertig wirst -, drängte die Mutter. 
 --Deinen guten Anzug hab ich im Schlafzimmer zurechtgelegt. Zieh ihn an, damit wir dann sofort essen können, wenn ich Frau Wirth frisiert habe. - 

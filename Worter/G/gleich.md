@@ -23,6 +23,7 @@ Wolfgang, sieh doch [[gleich]] mal nach ist [[gleich]] nur etwas [[anders]]
 
 „Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Rückwand]] [[bohren]]. 
 
+- [x] Alle sollen [[gleich]] viel Geld haben.
 
 ---
 +[[ver]] = [[vergleichen]]

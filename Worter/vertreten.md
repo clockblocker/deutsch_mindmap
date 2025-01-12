@@ -1,18 +1,16 @@
 🙋‍♂️ [[vertreten]], [fɛɐ̯ˈtʁeːtn̩] | [[vertrat]], haben [[vertreten]]
 
 ---
+141. Wer [[berät]] in Deutschland Personen bei Rechtsfragen und [[vertritt]] sie vor [[Gericht]]? (87%)
+	- [x] ein [[Rechtsanwalt]] / eine Rechtsanwältin
+
 26. Wen [[vertreten]] die [[Gewerkschaften]] in Deutschland? (89%)
-	- [ ] große [[Unternehmen]]
-	- [ ] kleine Unternehmen
-	- [ ] [[Selbständige]]
 	- [x] [[Arbeitnehmer]] und Arbeitnehmerinnen
 
 
 139. Wann kommt es in Deutschland zu einem Prozess vor [[Gericht]]? Wenn jemand … (93%)
-	- [ ] zu einer anderen Religion [[übertritt]].
 	- [x] eine [[Straftat]] begangen hat und [[angeklagt]] wird.
 	- [ ] eine andere Meinung als die der [[Regierung]] [[vertritt]].
-	- [ ] sein Auto falsch geparkt hat und es [[abgeschleppt]] wird.
 
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden

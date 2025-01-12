@@ -1,2 +1,2 @@
 , [[Ecke]], [[Glied]], [[Absatz]], [[stück]], [[Scheibe]]
-[[Abschnitt]]
+[[Abschnitt]], [[Drittel]]

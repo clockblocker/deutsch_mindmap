@@ -1,1 +1,1 @@
-traffic, [[Verkehrstote]]
+traffic, [[Verkehrstote]], [[Verkehrsmittel]]

@@ -1,1 +1,1 @@
-, [[schlichten]], [[Konflikt]]
+, [[schlichten]], [[Konflikt]], [[herausfordern]]

@@ -1,1 +1,1 @@
-, [[wegwerfen]], [[feuern]], [[abscheiden]], [[erstellen]]
+, [[wegwerfen]], [[feuern]], [[abscheiden]], [[erstellen]], [[abschaffen]]

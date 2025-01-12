@@ -33,3 +33,4 @@ Zu+infinifive: [[auszuführen]]
 
 
 , [[erklären]], [[tun]], [[erledigen]], [[ausüben]], [[vornehmen]]
+, [[begehen]]

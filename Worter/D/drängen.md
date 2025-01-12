@@ -1,1 +1,1 @@
-[[drücken]], [[dringen]], [[zwingen]]
+[[drücken]], [[dringen]], [[zwingen]], [[auffordern]]

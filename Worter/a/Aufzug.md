@@ -1,1 +1,1 @@
-, [[Fahrstuhl]]
+, [[Fahrstuhl]], [[Leiter]]

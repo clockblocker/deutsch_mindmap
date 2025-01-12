@@ -1,1 +1,1 @@
-, [[stück]]
+, [[stück]], [[Drittel]]

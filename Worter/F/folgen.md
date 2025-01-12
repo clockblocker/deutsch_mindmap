@@ -44,4 +44,4 @@ Morpheme: [[fol]][[g]][[en]]
 
 Partizip I: [[folgend]], Partizip II: [[gefolgt]]
 
-, [[mithalten]], [[hinterherlaufen]], [[führen]], [[leiten]]
+, [[mithalten]], [[hinterherlaufen]], [[führen]], [[leiten]], [[folgenden]]

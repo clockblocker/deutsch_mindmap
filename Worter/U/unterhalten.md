@@ -28,4 +28,4 @@ Morpheme: [[unter]][[halt]][[en]]
 | Sie       | [[unterhalten]] | [[unterhielten]]  | [[unterhalten Sie]] | [[unterhalten]]  | [[unterhielten]]  |
 
 Partizip I: [[unterhaltend]], Partizip II: [[unterhalten]]
-[[unterhalten]] - [[unter]] = [[halten]], [[beschäftigen]], [[langweilen]]
+[[unterhalten]] - [[unter]] = [[halten]], [[beschäftigen]], [[langweilen]], [[Unterhaltung]]

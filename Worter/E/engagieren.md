@@ -1,1 +1,1 @@
-, [[einladen]], [[beschäftigen]], [[schäftigen]], [[anstellen]]
+, [[einladen]], [[beschäftigen]], [[schäftigen]], [[anstellen]], [[Ehrenamt]]

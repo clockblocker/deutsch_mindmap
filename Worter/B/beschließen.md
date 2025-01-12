@@ -3,6 +3,13 @@
 ---
   Die Kollegen lächeln. Sie kennen [[solche]] Situationen. Und Julian [[beschließt]]: Nach der [[Besprechung]] wird er eine längere Pause machen und ein bisschen mit Maja spielen.
 
+148. Was ist eine Aufgabe der Polizei in Deutschland? (87%)
+	- [ ] das Land zu [[verteidigen]]
+	- [ ] die Bürgerinnen und Bürger [[abzuhören]]
+	- [ ] die [[Gesetze]] zu [[beschließen]]
+	- [x] die [[Einhaltung]] von [[Gesetzen]] zu [[überwachen]]
+
+
 ---
 Synonyme: [[entscheiden]], [[festlegen]], [[bestimmen]], [[vereinbaren]], [[verfügen]]
 Antonyme: [[ablehnen]], [[verwerfen]], [[aufgeben]]

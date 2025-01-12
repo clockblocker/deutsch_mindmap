@@ -2,6 +2,12 @@
 die [[Gesetze]]
 
 ---
+148. Was ist eine Aufgabe der Polizei in Deutschland? (87%)
+	- [ ] das Land zu [[verteidigen]]
+	- [ ] die Bürgerinnen und Bürger [[abzuhören]]
+	- [ ] die [[Gesetze]] zu [[beschließen]]
+	- [x] die [[Einhaltung]] von [[Gesetzen]] zu [[überwachen]]
+
 38. Was ist die Arbeit eines [[Richters]] / einer Richterin in Deutschland? (88%)
 	- [ ] Deutschland [[regieren]]
 	- [x] [[Recht]] sprechen

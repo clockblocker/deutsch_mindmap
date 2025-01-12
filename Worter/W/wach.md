@@ -1,3 +1,3 @@
 [[erwachen]]
 
-[[wachen]]
+[[wachen]], [[überwachen]]

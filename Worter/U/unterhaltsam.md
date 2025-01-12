@@ -1,1 +1,1 @@
-, [[langweilig]]
+, [[langweilig]], [[Unterhaltung]]
