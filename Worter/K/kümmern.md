@@ -1,35 +1,40 @@
-🤝 [[kümmern]] + um Akk, [ˈkʏmɐn]
-[[kümmerte]] 
-haben [[gekümmert]]
+---
 
 ---
+🤝 [[kümmern]], [ˈkʏmɐn] | [[kümmerte]], haben [[gekümmert]]
+
+---
+
+| **Aang** | [[Kümmer]] dich um Appa bis ich wieder zurück bin, ja?      |
+| -------- | ----------------------------------------------------------- |
+| **Zuko** | Los! Kurs setzen auf die Feuernation! Ich fahre nach Hause. |
+
 Seitdem [[kümmern]] sich mein Bruder und ich um unseren Stamm.
 
 Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Haushalt]] [[kümmern]] muss.
 
 ---
-Synonyme: [[sorgen]], [[betreuen]], [[versorgen]], [[hegen]], [[pflegen]]
-Antonyme: [[vernachlässigen]], [[ignorieren]], [[ablehnen 1]]
+= [[sorgen]], [[bemühen]], [[beachten]]
+≈ [[interessieren]], [[umsorgen]], [[pflegen]]
+≠ [[vernachlässigen]], [[ignorieren]], [[meiden]]
 
 ---
-Übersetzung: to care for, to tend to
+to care, to take care of, to concern
 
 ---
-Morpheme: [[küm]][[mern]]
- #Verb  #Trennbar
+[[kümmer]]|[[n]]
 
 ---
+ich: [[kümmere]], [[kümmerte]], –, [[kümmere]], [[kümmerte]]
+du: [[kümmerst]], [[kümmertest]], [[kümmere]] | [[kümmr]], [[kümmerst]], [[kümmertest]]
+er/sie/es: [[kümmert]], [[kümmerte]], –, [[kümmere]], [[kümmerte]]
+wir: [[kümmern]], [[kümmerten]], [[kümmern wir|kümmern]], [[kümmern]], [[kümmerten]]
+ihr: [[kümmert]], [[kümmert]], [[kümmert]], [[kümmert]], [[kümmertet]]
 
+PI: [[kümmernd]], PII: [[gekümmert]], Zu+inf: [[zu kümmern]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[kümmere]] | [[kümmerte]] | - | [[kümmere]] | [[kümmerte]] |
-| Du | [[kümmst dich]] | [[kümmtest dich]] | [[kümmere dich]] | [[kümmest dich]] | [[kümmtest dich]] |
-| Er/sie/es | [[kümmert sich]] | [[kümmerte sich]] | - | [[kümmere]] | [[kümmerte]] |
-| Wir | [[kümmern uns]] | [[kümmerten uns]] | - | [[kümmern uns]] | [[kümmerten uns]] |
-| Ihr | [[kümmert euch]] | [[kümmert euch]] | [[kümmert euch]] | [[kümmert euch]] | [[kümmert euch]] |
-| Sie | [[kümmern sich]] | [[kümmerten sich]] | [[kümmern Sie sich]] | [[kümmern sich]] | [[kümmerten sich]] |
+---
+[[kümmern]] / to care, to take care of
 
-Partizip I: [[kümmernd]], Partizip II: [[gekümmert]]
-
-, [[s1 e1]], [[ablehnen]]
+---
+[[Kümmernis]], [[Kümmerer]], [[Kümmerung]], [[bekümmert]], [[unbekümmert]]

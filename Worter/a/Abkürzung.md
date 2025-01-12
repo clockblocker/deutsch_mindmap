@@ -26,4 +26,4 @@ G: der [[Abkürzung]], der [[Abkürzungen]]
 D: der [[Abkürzung]], den [[Abkürzungen]]  
 
 ---
-[[abkürzen]], [[verkürzen]], [[kurz]], [[kürzlich]]
+[[abkürzen]], [[verkürzen]], [[kurz]], [[kürzlich]], [[usw]]

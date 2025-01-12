@@ -36,7 +36,7 @@ Partizip I: [[angehend]],
 Partizip II: [[angegangen]]
 Zu+infinitive: [[anzugehen]]
 
-[[angehen]] - [[an]] = [[gehen]]
+[[angehen]] - [[an]] = [[gehen]] // start
 
 ---
-[[Angang]], [[Angelegenheit]], [[Anfang]], [[Vorgehen]], [[Herangehensweise]], [[betreffen]]
+[[Angang]], [[Angelegenheit]], [[Anfang]], [[vorgehen]], [[Herangehensweise]], [[betreffen]]

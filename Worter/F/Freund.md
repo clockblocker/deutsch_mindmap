@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Freunds]], [[Freund]], [[Freunde]], [[Freunden]]
 
 ---
-#Substantiv #Maskulin, [[Freundin]], [[Feind]]
+#Substantiv #Maskulin, [[Freundin]], [[Feind]], [[Freundliches]]

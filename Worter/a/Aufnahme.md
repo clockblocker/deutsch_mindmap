@@ -1,5 +1,5 @@
 Singular: die [[Aufnahme]]
-Plural: die [[Aufnahmen]]
+Plural: die [[aufnahmen]]
 
 Beispiele:
 

@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 [[nervös]], [[nervöser]], [[nervöse]], [[nervöses]], [[nervösen]], [[nervösem]], [[nervöser]], [[nervösen]]
 [[nervöser]], [[nervöserer]], [[nervösere]], [[nervöseres]], [[nervöseren]], [[nervoöserem]], [[nervöserer]], [[nervöseren]]
 [[nervösesten]], [[nervöster]], [[nervöste]], [[nervöstes]], [[nervösten]], [[nervöstem]], [[nervöster]], [[nervösten]]
-, [[beruhig]], [[beruhigenden]], [[ungeduldig]], [[entspannter]]
+, [[beruhig]], [[beruhigenden]], [[ungeduldig]], [[entspannter]], [[gereizt]]

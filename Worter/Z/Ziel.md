@@ -8,7 +8,7 @@ Manche Leute lassen sich nicht so [[einfach]] [[überzeugen 1]]. Wenn man erst [
 
 ---
 Synonyme:
-- [[Zweck]], [[Absicht]], [[Bestimmung]], [[Vorhaben]], [[Intention]], [[Richtung]]
+- [[Zweck]], [[Absicht]], [[Bestimmung]], [[vorhaben]], [[Intention]], [[Richtung]]
 
 ---
 Übersetzung: goal, aim, target, destination

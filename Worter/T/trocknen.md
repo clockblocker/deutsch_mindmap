@@ -1,1 +1,1 @@
-[[regnen]], [[trocken]], [[lecken]], [[Tropfen]]
+[[regnen]], [[trocken]], [[lecken]], [[Tropfen]], [[bespritzen]]

@@ -1,1 +1,1 @@
-, [[Gleichgewicht]]
+, [[Gleichgewicht]], [[Ungleichheit]]

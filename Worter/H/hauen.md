@@ -31,3 +31,4 @@ Morpheme: [[hau]][[en]]
 
 Partizip I: [[hauend]], Partizip II: [[gehauen]]
 
+, [[watschen]]

@@ -31,3 +31,4 @@ Zu+infinitive: [[zuprügeln]]
 [[Prügel]], [[Prügelei]], [[Prügelstrafe]], [[Prügelknabe]]
 
 [[schlagen]], [[hauen]]
+, [[watschen]]

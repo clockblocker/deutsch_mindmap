@@ -27,4 +27,4 @@ PI: [[stützend]], PII: [[gestützt]], Zu+inf: [[zustützen]]
 [[stützen]] / to support, to prop up, to sustain
 
 ---
-[[Stütze]], [[Stützpunkt]], [[stützend]], [[abstützen]], [[unterstützen]], [[gestützt]]
+[[Stütze]], [[Stützpunkt]], [[stützend]], [[abstützen]], [[unterstützen]], [[gestützt]], [[beistehen]]

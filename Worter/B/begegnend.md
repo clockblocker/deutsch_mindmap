@@ -1,1 +1,1 @@
-, [[begegnen]]
+, [[begegnen]], [[Begegnung]]

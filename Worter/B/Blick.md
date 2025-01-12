@@ -16,4 +16,4 @@ Morphems:
 [[Blick]]
 
 ---
-#Substantiv #Masculin, [[Gesichtsausdruck]]
+#Substantiv #Masculin, [[Gesichtsausdruck]], [[anblicken]]

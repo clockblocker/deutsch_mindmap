@@ -1,1 +1,1 @@
-, [[verfeinden]]
+, [[verfeinden]], [[Freundliches]]

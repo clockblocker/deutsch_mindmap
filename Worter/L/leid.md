@@ -18,4 +18,4 @@ Morphems:
 [[leid]]
 
 ---
-#Substantiv #Neuter, [[Herzeleid]]
+#Substantiv #Neuter, [[Herzeleid]], [[Freudiges]]

@@ -1,1 +1,1 @@
-, [[abstoßen]], [[Nähe]]
+, [[abstoßen]], [[Nähe]], [[Annäherung]]

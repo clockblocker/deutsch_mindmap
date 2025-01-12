@@ -1,1 +1,1 @@
-, [[beißen]], [[prügeln]]
+, [[beißen]], [[prügeln]], [[watschen]]

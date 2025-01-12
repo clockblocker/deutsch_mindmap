@@ -26,4 +26,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[armen]], [[armeren]], [[armere]], [[ärmeres]], [[armeren]], [[árerem]], [[armerer]], [[armeren]]
-[[ärmsten]], [[ärmster]], [[ärmste]], [[ärmstes]], [[ärmsten]], [[ärmistem]], [[ärmster]], [[ärmsten]]
+[[ärmsten]], [[ärmster]], [[ärmste]], [[ärmstes]], [[ärmsten]], [[ärmistem]], [[ärmster]], [[ärmsten]], [[umarmen]]

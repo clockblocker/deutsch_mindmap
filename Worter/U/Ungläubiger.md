@@ -1,1 +1,1 @@
-, [[Heiliger]]
+, [[Heiliger]], [[ungläubig]]

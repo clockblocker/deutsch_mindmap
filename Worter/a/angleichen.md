@@ -1,1 +1,1 @@
-, [[gleichen]]
+, [[gleichen]], [[Gleichheit]], [[Ungleichheit]]

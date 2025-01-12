@@ -27,4 +27,4 @@ Genitive: der [[Nähe]], der [[Nähen]]
 Dative: der [[Nähe]], den [[Nähen]]  
 
 ---
-[[nahe]], [[näher]], [[genähert]], [[annähern]], [[erwarten]]
+[[nahe]], [[näher]], [[genähert]], [[annähern]], [[erwarten]], [[Entfernung]]

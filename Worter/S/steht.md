@@ -1,1 +1,1 @@
-, [[stehen]]
+, [[stehen]], [[beistehen]]

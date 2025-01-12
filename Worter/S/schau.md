@@ -1,1 +1,1 @@
-[[schauen]]  , [[Zuschauer]], [[anschauliche]]
+[[schauen]]  , [[Zuschauer]], [[anschauliche]], [[anschauen]]

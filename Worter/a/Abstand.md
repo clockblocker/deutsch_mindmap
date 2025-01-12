@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Abstands]], [[Abständen]], [[Abstände]], [[Abständen]]  
 
 ---
-#Substantiv #Maskulin, [[Extra 8]]
+#Substantiv #Maskulin, [[Extra 8]], [[Annäherung]]

@@ -1,1 +1,1 @@
-[[frei]]  , [[Ehemann]]
+[[frei]]  , [[Ehemann]], [[freien]]

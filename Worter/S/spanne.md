@@ -1,3 +1,3 @@
 , [[Handelsspanne]]
 
-🔓 [[spannen]] + Akk, [ˈʃpanən]
+🔓 [[spannen]] + Akk, [ˈʃpanən], [[Entfernung]]

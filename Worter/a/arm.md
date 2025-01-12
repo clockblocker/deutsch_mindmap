@@ -44,4 +44,4 @@ Tags:
 Morphems:
 [[arm]]
 
-, [[armer]], [[armen]], [[Unterarm]]
+, [[armer]], [[armen]], [[Unterarm]], [[umarmen]]

@@ -22,4 +22,4 @@ Alle Formen:
 | Nominative  | der Plan          | die Pläne       |
 | Accusative  | den Plan          | die Pläne       |
 | Dative      | dem Plan          | den Plänen      |
-| Genitive    | des Plans         | der Pläne       |, [[Absicht]]
+| Genitive    | des Plans         | der Pläne       |, [[Absicht]], [[vorhaben]]

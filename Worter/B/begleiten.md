@@ -26,4 +26,4 @@ Morpheme: [[be]][[gleit]][[en]]
 | Sie | [[begleiten]] | [[begleiteten]] | [[begleiten Sie]] | [[begleiten]] | [[begleiteten]] |
 
 Partizip I: [[begleitend]], Partizip II: [[begleitet]]
-[[begleiten]] - [[be]] = [[gleiten]]
+[[begleiten]] - [[be]] = [[gleiten]], [[beistehen]]

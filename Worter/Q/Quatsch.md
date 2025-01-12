@@ -27,3 +27,4 @@ Dative: dem [[Quatsch]], den [[Quatschen]]
 [[quatschen]], [[quatschig]], [[quatschend]]
 
 , [[Unsinn]], [[Kram]]
+, [[rumquatschen]]

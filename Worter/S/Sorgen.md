@@ -60,4 +60,4 @@ Partizip I: [[sorgend]], Partizip II: [[gesorgt]]
 
 
 
-, [[genießen]], [[zumindest]], [[Redewendung]], [[behaupten]]
+, [[genießen]], [[zumindest]], [[Redewendung]], [[behaupten]], [[kümmern]]

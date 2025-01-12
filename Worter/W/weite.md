@@ -1,1 +1,1 @@
-, [[weit]], [[weit und breit]]
+, [[weit]], [[weit und breit]], [[Entfernung]]

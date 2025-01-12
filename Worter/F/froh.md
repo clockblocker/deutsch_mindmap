@@ -39,4 +39,4 @@ traurig (sad)
 ---
 Tags: 
 #Adjective
-#Positive | #Comparative | #Superlative[[glücklich]], [[zufrieden]]
+#Positive | #Comparative | #Superlative[[glücklich]], [[zufrieden]], [[Freudiges]]

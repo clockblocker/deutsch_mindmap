@@ -1,2 +1,2 @@
 das [[Herz]] / die [[Herzen]] | #Substantiv #Neuter | heart
-, [[zu Herzen nehmen]]
+, [[zu Herzen nehmen]], [[umarmen]]

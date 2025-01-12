@@ -22,3 +22,12 @@ uber + auf = den
 [[wende]]
 
 Deiser [[Mistkerl]]
+
+[[weggehen]]
+
+[[stellen]]
+
+[[aufnahmen]]
+[[unterschätzen]]
+
+[[vorgehen]]

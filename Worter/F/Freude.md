@@ -4,6 +4,9 @@ die [[Freuden]]
 ---
 [[Freude]] ist langsam [[Spaß]] 
 
+| **Katara** | *Voller [[Freude]]* Oh Sokka! *[[stürmt zu\|Stürmt]] auf ihn zu und fällt ihm um den [[Hals]]* |
+| ---------- | ---------------------------------------------------------------------------------------------- |
+
 Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
 
 
@@ -20,4 +23,4 @@ Morphems:
 [[Freud]][[e]]
 
 ---
-#Substantiv #Feminin, [[Herzeleid]]
+#Substantiv #Feminin, [[Herzeleid]], [[Freudiges]]

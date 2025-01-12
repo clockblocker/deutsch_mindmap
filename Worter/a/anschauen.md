@@ -1,81 +1,40 @@
-👀 [[anschauen]]
-[[schaute an|schaute an]]
-haben [[angeschaut]]
+👀 [[anschauen]], [ˈanˌʃaʊ̯ən] | [[schaute an]], haben [[angeschaut]]
 
 ---
+
+| **Zuko**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Ich hab mich jahrelang auf diese [[Begegnung]] [[vorbereitet]]. Ich hab trainiert. Ich habe meditiert. Und dabei bist du nur ein Kind!                                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Aang**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | *[[schaut an\|Schaut]] Zuko [[schief]] an* Und du bist nur ein Teenager!                                                                                                                                                                                                                                                                                                       |
+
+
 habe Fussball [[geschaut]]
-Jetzt [[anschauen|schau]] dir das mal an.  
+
+Jetzt [[anschauen|schau]] dir das mal [[an]].  
+
+_Aang [[flitz]] an einigen Dorfkindern vorbei und [[bespritzen]] sie [[unabsichtlich]] mit Schnee. Diese [[anschauen|schauen]] sich kurz [[frustriert]] an, [[jubeln]] aber direkt weiter. Der Pinguin steht auf und [[watschelt]] davon. Aang bleibt alleine am Boden sitzen.
 
 ---
-
-**Synonyme:**
-
-- [[betrachten]], [[ansehen]], [[begutachten]]
-
----
-
-**Beispiele:**
-
-- Ich [[schaue an|schaue]] mir den Film an.
-- Du [[schaust an|schaust]] das Bild an.
-- Er [[schaut an|schaut]] die Ausstellung an.
-- Es [[schaut an|schaut]] sich die Tiere an.
-- Sie [[schaut an|schaut]] den Garten an.
-- Wir [[schauen an|schauen]] uns die Sehenswürdigkeiten an.
-- Ihr [[schaut an|schaut]] die Show an.
-- Sie [[schauen an|schauen]] die Bücher an.
+= [[betrachten]], [[besehen]], [[ansehen]]
+≈ [[beäugen]], [[mustern]], [[begutachten]], [[inspizieren]]
+≠ [[ignorieren]], [[übersehen]], [[wegschauen]]
 
 ---
-**Übersetzung**:
-to look at
+to look at, to view, to examine
 
 ---
-**Morphems of only infinitive:**  
-- [[an]][[schauen]]
+[[an]]|[[schau]]|[[en]]
 
 ---
-#Verb #Trennbar
+ich: [[schaue an]], [[schaute an]], –, [[schaue an]], [[schaute an]]
+du: [[schaust an]], [[schautest an]], [[schaue an]] | [[schau an]], [[schauest an]], [[schautest an]]
+er/sie/es: [[schaut an]], [[schaute an]], –, [[schaue an]], [[schaute an]]
+wir: [[schauen an]], [[schauten an]], [[schauen wir an|schauen an]], [[schauen an]], [[schauten an]]
+ihr: [[schaut an]], [[schautet an]], [[schaut an]], [[schauet an]], [[schauetet an]]
+
+PI: [[anschauend]], PII: [[angeschaut]], Zu+inf: [[anzuschauen]]
 
 ---
-
-**Präteritum:**
-
-- Ich [[schaute an|schaute]] mir den Film an.
-- Du [[schautest an|schautest]] das Bild an.
-- Er [[schaute an|schaute]] die Ausstellung an.
-- Es [[schaute an|schaute]] sich die Tiere an.
-- Sie [[schaute an|schaute]] den Garten an.
-- Wir [[schauten an|schauten]] uns die Sehenswürdigkeiten an.
-- Ihr [[schautet an|schautet]] die Show an.
-- Sie [[schauten an|schauten]] die Bücher an.
+[[anschauen]] - [[an]] = [[schauen]] / to look at, to view, to examine
 
 ---
-
-**Imperativ:**
-
-- Ich [[schaue an|schaue]] mir den Film an.
-- Du [[schau an|schaue]] das Bild an.
-- Er [[schaue an|schaue]] die Ausstellung an.
-- Es [[schaue an|schaue]] sich die Tiere an.
-- Sie [[schaue an|schaue]] den Garten an.
-- Wir [[schauen an|schauen]] uns die Sehenswürdigkeiten an.
-- Ihr [[schaut an|schaut]] die Show an.
-- Sie [[schauen an|schauen]] die Bücher an.
-
----
-Konjunktiv I:
-- Er sagt, ich [[schaue]] mir das an.
-- Sie meint, du [[schauest]] die Ausstellung an.
-- Er behauptet, er [[schaue]] sich die Tiere an.
-- Wir erklären, wir [[schauen]] uns die Sehenswürdigkeiten an.
-- Ihr sagt, ihr [[schauet]] die Show an.
-- Sie sagen, sie [[schauen]] die Bücher an.
-
----
-Konjunktiv II:
-- Wenn ich Zeit hätte, [[schaute an|schaute]] ich mir den Film [[an]].
-- Wenn du Lust hättest, [[schautest an|schautest]] du das Bild [[an]].
-- Wenn er hier wäre, [[schaute an|schaute]] er die Ausstellung [[an]].
-- Wenn wir dort wären, [[schauten an|schauten]] wir uns die Sehenswürdigkeiten [[an]].
-- Wenn ihr eingeladen wärt, [[schautet an|schautet]] ihr die Show [[an]].
-- Wenn sie die Möglichkeit hätten, [[schauten an|schauten]] sie die Bücher [[an]]., [[angucken]]
+[[Anschauung]], [[Anschein]], [[Anschauen]], [[Beschaulichkeit]], [[beschauen]]

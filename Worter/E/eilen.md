@@ -1,1 +1,1 @@
-, [[rennen]], [[hinterherlaufen]], [[warten]], [[zulaufen]], [[lauben]], [[laufen]], [[zustürmen]]
+, [[rennen]], [[hinterherlaufen]], [[warten]], [[zulaufen]], [[lauben]], [[laufen]], [[zustürmen]], [[flitzen]]

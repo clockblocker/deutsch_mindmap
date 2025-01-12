@@ -1,1 +1,1 @@
-[[freimachen]], [[ledigen]], [[auflösen]], [[schwanger]], [[Wochenbett]]
+[[freimachen]], [[ledigen]], [[auflösen]], [[schwanger]], [[Wochenbett]], [[befreien]]

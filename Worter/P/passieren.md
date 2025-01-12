@@ -3,6 +3,12 @@
 haben [[passiert]]
 
 ---
+
+| **Katara** | [Schockiert] Nein Aang! Geh nicht!                                   |
+| ---------- | -------------------------------------------------------------------- |
+| **Aang**   | *Ganz [[locker]]* Keine Angst Katara. Mir [[passiert]] schon nichts. |
+
+
 ANNA: Was ist [[passiert]]?  
 
 Vielleicht bekommen wir dann auch besser mit, was im [[echten]] Leben so [[passiert]].

@@ -9,7 +9,7 @@ Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen un
 
 ---
 Synonyme:
-- [[Absicht]], [[Zweck]], [[Vorhaben]], [[Intention]], [[Bestimmung]]
+- [[Absicht]], [[Zweck]], [[vorhaben]], [[Intention]], [[Bestimmung]]
 
 ---
 Übersetzung: goal, aim, target

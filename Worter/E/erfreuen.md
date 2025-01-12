@@ -1,1 +1,1 @@
-[[freuen]], [[gefallen]], [[Vergnügen]]
+[[freuen]], [[gefallen]], [[Vergnügen]], [[Freudiges]]

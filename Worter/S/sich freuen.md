@@ -71,4 +71,4 @@ Sie haben [[sich gefreut]]
 Imperativ
 du [[freue dich]]
 ihr [[freut euch]]
-Sie [[freuen sich]], [[entgegenfiebern]]
+Sie [[freuen sich]], [[entgegenfiebern]], [[jubeln]]

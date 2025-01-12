@@ -1,1 +1,1 @@
-, [[ungerecht]], [[ungerechtfertigen]], [[Selbstjustiz]], [[Gleichbehandlung]], [[unrecht]]
+, [[ungerecht]], [[ungerechtfertigen]], [[Selbstjustiz]], [[Gleichbehandlung]], [[unrecht]], [[Gleichheit]]

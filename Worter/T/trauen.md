@@ -35,4 +35,4 @@ Morpheme: [[tr]][[au]][[en]]
 Partizip I: [[trauend]], Partizip II: [[getraut]]
 
 [[trauen]] - [[tr]] = [[au]]
-''', [[vertrauen]], [[antrauen]], [[verheiraten]]
+''', [[vertrauen]], [[antrauen]], [[verheiraten]], [[misstrauisch]]

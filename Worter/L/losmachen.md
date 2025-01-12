@@ -1,1 +1,1 @@
-[[freimachen]], [[anschließen]]
+[[freimachen]], [[anschließen]], [[befreien]]

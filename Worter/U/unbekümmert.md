@@ -1,1 +1,1 @@
-[[nervös]], [[eifersüchtig]]
+[[nervös]], [[eifersüchtig]], [[kümmern]]

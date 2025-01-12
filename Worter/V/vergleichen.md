@@ -30,4 +30,4 @@ Morpheme: [[ver]][[gleich]][[en]]
 
 Partizip I: [[vergleichend]], Partizip II: [[verglichen]]
 
-[[vergleichen]] - [[ver]] = [[gleichen]]
+[[vergleichen]] - [[ver]] = [[gleichen]], [[Ungleichheit]]

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Raumes]], [[Raum]], [[Räume]], [[Räumen]]
 
 ---
-#Substantiv #Masculin 
+#Substantiv #Masculin , [[Entfernung]]

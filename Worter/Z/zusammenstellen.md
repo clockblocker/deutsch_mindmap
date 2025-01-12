@@ -3,7 +3,7 @@
 haben [[zusammengestellt]]
 
 ---
-Sie wurde gemeinsam von Historikern und ehemaligen DDR-Bürgern zusammengestellt.
+Sie wurde gemeinsam von Historikern und ehemaligen DDR-Bürgern [[zusammengestellt]].
 
 
 ---

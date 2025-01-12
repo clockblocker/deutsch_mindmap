@@ -36,4 +36,4 @@ Morpheme: [[drück]][[en]]
 
 Partizip I: [[drückend]], Partizip II: [[gedrückt]]
 
-[[drücken]] - [[drück]] = [[en]][[ziehen]], [[schieben]], [[stoßen]], [[antippen]], [[tippen]], [[Schubst]], [[Druck]], [[ausdrücken]]
+[[drücken]] - [[drück]] = [[en]][[ziehen]], [[schieben]], [[stoßen]], [[antippen]], [[tippen]], [[Schubst]], [[Druck]], [[ausdrücken]], [[umarmen]]

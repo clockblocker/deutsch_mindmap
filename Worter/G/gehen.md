@@ -3,9 +3,11 @@
 ---
 
 ---
-[[eingehen]] - [[ein]] = [[gehen]] / to enter, to go in, take risk
-[[weitergehen]] - [[weiter]] = [[gehen]] // to continue, to go on, to proceed
-[[gutgehen]] - [[gut]] = [[gehen]] / to go well, to work out fine
+[[eingehen]] - [[ein]] = [[gehen]]              // to enter, to go in, take risk
+[[weitergehen]] - [[weiter]] = [[gehen]]   // to continue, to go on, to proceed
+[[gutgehen]] - [[gut]] = [[gehen]]             // to go well, to work out fine
+[[vorgehen]] - [[vor]] = [[gehen]]             // to proceed, to act, to go forward
+[[angehen]] - [[an]] = [[gehen]]                // start
 
 
 ---
@@ -33,4 +35,4 @@ Partizip II: [[gegangen]]
 Zu+infinifive: [[zu gehen]]
 
 ---
-[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]], [[weitergehen]], [[stolpern]]
+[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]], [[weitergehen]], [[stolpern]], [[vorgehen]]

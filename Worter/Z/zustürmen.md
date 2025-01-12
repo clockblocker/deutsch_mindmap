@@ -1,7 +1,11 @@
-😠 [[zustürmen]], [t͡suˈʃtʏʁmən] | [[stürmte zu]], sein [[zugestürmt]]
+🌪️ [[zustürmen]], [t͡suˈʃtʏʁmən] | [[stürmte zu]], sein [[zugestürmt]]
 
 ---
-Sokka ist es während dessen [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu. 
+
+| **Katara** | *Voller [[Freude]]* Oh Sokka! *[[stürmt zu\|Stürmt]] auf ihn zu und fällt ihm um den [[Hals]]* |
+| ---------- | ---------------------------------------------------------------------------------------------- |
+
+Sokka ist es während dessen [[gelungen]], sich aus dem Schnee zu [[befreien]] und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu. 
 
 ---
 = [[herbeilaufen]], [[heraneilen]], [[hinzueilen]]

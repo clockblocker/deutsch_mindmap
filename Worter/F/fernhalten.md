@@ -1,1 +1,1 @@
-, [[gesellen]], [[zuwenden]]
+, [[gesellen]], [[zuwenden]], [[Entfernung]]

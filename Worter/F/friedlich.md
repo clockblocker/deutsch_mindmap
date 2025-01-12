@@ -1,1 +1,1 @@
-[[ruhig]], [[unheimlich]], [[beruhig]], [[beruhigenden]], [[zornig]], [[aufgebracht]], [[wütend]]
+[[ruhig]], [[unheimlich]], [[beruhig]], [[beruhigenden]], [[zornig]], [[aufgebracht]], [[wütend]], [[gereizt]]

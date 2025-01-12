@@ -28,4 +28,4 @@ PI: [[musternd]], PII: [[gemustert]], Zu+inf: [[zu mustern]]
 [[mustern]] = [[Muster]] + [[er]] / to examine, to inspect
 
 ---
-[[Musterung]], [[Muster]], [[musterhaft]], [[Musterkunde]], [[Musterbetrieb]]
+[[Musterung]], [[Muster]], [[musterhaft]], [[Musterkunde]], [[Musterbetrieb]], [[anschauen]], [[anblicken]]

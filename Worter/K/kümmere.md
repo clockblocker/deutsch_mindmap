@@ -1,1 +1,1 @@
-, [[kümmern]]
+, [[kümmern]], [[Kümmer]]

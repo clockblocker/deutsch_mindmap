@@ -1,1 +1,1 @@
-, [[Abstand]]
+, [[Abstand]], [[Begegnung]], [[Annäherung]], [[Entfernung]]

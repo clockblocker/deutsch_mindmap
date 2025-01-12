@@ -18,4 +18,4 @@ Morphems:
 [[Frust]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[frustriert]]

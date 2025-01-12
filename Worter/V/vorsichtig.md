@@ -1,1 +1,1 @@
-, [[sorglich]], [[leichtsinnig]], [[überstürzen]]
+, [[sorglich]], [[leichtsinnig]], [[überstürzen]], [[misstrauisch]]

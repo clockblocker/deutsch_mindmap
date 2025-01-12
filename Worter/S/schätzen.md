@@ -4,6 +4,9 @@
 Ich [[schätze]] ich fliege erstmal nach Hause und suche die Luftbändiger. Ach du [[Heiliger]]... Ich hab mein Zimmer seit hundert Jahren nicht mehr [[aufgeräumt]]. Das wird [[garantiert]] kein [[Vergnügen]]
 
 ---
+[[unterschätzen]] - [[unter]] = [[schätzen]] / to underestimate
+
+---
 = [[taxieren]], [[bewerten]], [[einschätzen]]
 ≈ [[abschätzen]], [[beurteilen]], [[einschätzten]], [[kalkulieren]]
 ≠ [[unterschätzen]], [[überschätzen]], [[verkennen]]

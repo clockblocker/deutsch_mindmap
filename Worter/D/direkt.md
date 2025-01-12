@@ -1,1 +1,1 @@
-, [[eben]], [[gerade]], [[fern]], [[Direktkandidat]]
+, [[eben]], [[gerade]], [[fern]], [[Direktkandidat]], [[ausweichend]]

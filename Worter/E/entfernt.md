@@ -1,1 +1,1 @@
-, [[fern]], [[nah]], [[fernab]]
+, [[fern]], [[nah]], [[fernab]], [[Entfernung]]

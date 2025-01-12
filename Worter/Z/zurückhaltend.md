@@ -1,1 +1,1 @@
-[[Überheblich]], [[bescheiden]]
+[[Überheblich]], [[bescheiden]], [[misstrauisch]]

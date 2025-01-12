@@ -16,6 +16,9 @@ Der Löwe [[schaute]] ihn eine Zeit lang an und machte sich dann auf den Weg zu 
 
 Der schöne Mann bedankt sich für die Hilfe. „Ich lerne gerade Deutsch, weil ich hier leben möchte“, erklärt er. Dann [[schaut]] er auf die Uhr: „Ich muss gehen.“ 
 
+---
+[[anschauen]] - [[an]] = [[schauen]] / to look at, to view, to examine
+
 
 ---
 Synonyme: [[blicken]], [[gucken]], [[sehen]], [[anschauen]], [[betrachten]]
@@ -38,3 +41,4 @@ Morpheme: [[schau]][[en]]
 | Sie | [[schauen]] | [[schauten]] | [[schauen Sie]] | [[schauen]] | [[schauten]] |
 
 Partizip I: [[schauend]], Partizip II: [[geschaut]]
+, [[anblicken]]

@@ -1,1 +1,1 @@
-, [[nützen]]
+, [[nützen]], [[Schädliches]], [[Nützliches]]

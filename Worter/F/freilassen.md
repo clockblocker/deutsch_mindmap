@@ -1,1 +1,1 @@
-, [[bestrafen]], [[bändigen]]
+, [[bestrafen]], [[bändigen]], [[befreien]]

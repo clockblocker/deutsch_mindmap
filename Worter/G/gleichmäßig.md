@@ -1,1 +1,1 @@
-, [[eben]], [[regelmäßig]]
+, [[eben]], [[regelmäßig]], [[Gleichheit]]

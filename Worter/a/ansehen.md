@@ -44,4 +44,4 @@ Morpheme: [[an]][[seh]][[en]]
 
 Partizip I: [[ansehend]], Partizip II: [[angesehen]], Zuinf: [[anzusehen]]
 
-[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]]
+[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]], [[anschauen]], [[anblicken]]

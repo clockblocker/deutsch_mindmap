@@ -1,1 +1,1 @@
-, [[Bestechung]], [[Gleichbehandlung]]
+, [[Bestechung]], [[Gleichbehandlung]], [[Gleichheit]]

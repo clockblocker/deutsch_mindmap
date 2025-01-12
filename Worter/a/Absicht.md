@@ -6,8 +6,8 @@ die [[Absichten]]
 Teiko to Kuro: Magst du das immer mit [[Absicht]]?
 
 ---
-= [[Vorhaben]], [[Plan]], [[Ziel]]
-≈ [[Intention]], [[Vorsatz]], [[Vorhaben]], [[Entschluss]]
+= [[vorhaben]], [[Plan]], [[Ziel]]
+≈ [[Intention]], [[Vorsatz]], [[vorhaben]], [[Entschluss]]
 ≠ [[Zufall]], [[Unbeabsichtigt]], [[Ziellosigkeit]]
 
 ---

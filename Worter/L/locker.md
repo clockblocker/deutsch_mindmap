@@ -4,6 +4,9 @@ nicht [[fest]]
 ---
 6. Wäsche [[locker]] und trocken einfüllen.
 
+| **Katara** | [Schockiert] Nein Aang! Geh nicht!                                   |
+| ---------- | -------------------------------------------------------------------- |
+| **Aang**   | *Ganz [[locker]]* Keine Angst Katara. Mir [[passiert]] schon nichts. |
 
 ---
 Synonyme: [[lose]], [[schlabberig]], [[schlaff]], [[lax]], [[beweglich]]
@@ -28,3 +31,4 @@ Einzigartige mögliche Formen:
 [[lockersten]], [[lockerster]], [[lockerste]], [[lockerstes]], [[lockersten]], [[lockerstem]], [[lockerster]], [[lockersten]]
 
 [[abgepackt]], [[streng]], [[trocken]], [[leicht]], [[entspannt]]
+

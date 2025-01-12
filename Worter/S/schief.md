@@ -2,7 +2,12 @@
 nicht [[gerade]], nicht [[aufrecht]]
 
 ---
-Kaum hat man ein Mädchen dabei, schon geht alles schief!
+
+| **Zuko** | Ich hab mich jahrelang auf diese [[Begegnung]] [[vorbereitet]]. Ich hab trainiert. Ich habe meditiert. Und dabei bist du nur ein Kind! |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Aang** | *[[schaut an\|Schaut]] Zuko [[schief]] an* Und du bist nur ein Teenager!                                                               |
+
+Kaum hat man ein Mädchen dabei, schon geht alles [[schief]]!
 
 
 ---

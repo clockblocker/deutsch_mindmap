@@ -1,1 +1,1 @@
-, [[mutig]], [[ängstlich]]
+, [[mutig]], [[ängstlich]], [[tapfer]]

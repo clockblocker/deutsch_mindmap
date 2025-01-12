@@ -25,4 +25,4 @@ N: [[aufgebrachtes]], [[aufgebrachteren]], [[aufgebrachtest]]
 P: [[aufgebrachten]], [[aufgebrachteren]], [[aufgebrachtest]]  
 
 ---
-[[aufbringen]], [[Aufgebrachtsein]], [[Wut]], [[Empörung]], [[Ärger]]
+[[aufbringen]], [[Aufgebrachtsein]], [[Wut]], [[Empörung]], [[Ärger]], [[gereizt]]

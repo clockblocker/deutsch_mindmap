@@ -29,4 +29,4 @@ Morpheme: [[be]][[gegn]][[en]]
 | Sie | [[begegnen]] | [[begegneten]] | [[begegnen Sie]] | [[begegnen]] | [[begegneten]] |
 
 Partizip I: [[begegnend]], Partizip II: [[begegnet]]
-[[begegnen]] - [[be]] = [[gegnen]]
+[[begegnen]] - [[be]] = [[gegnen]], [[Begegnung]]

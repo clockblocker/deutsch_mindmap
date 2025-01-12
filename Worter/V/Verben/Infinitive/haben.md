@@ -1,1 +1,1 @@
-💼 [[haben]]  
+💼 [[haben]]  , [[vorhaben]]

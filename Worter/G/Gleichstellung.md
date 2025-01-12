@@ -1,1 +1,1 @@
-, [[Gleichbehandlung]]
+, [[Gleichbehandlung]], [[Gleichheit]]

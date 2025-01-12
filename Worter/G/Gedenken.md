@@ -1,1 +1,1 @@
-, [[Erinnerung]], [[erinnern]], [[Stolpersteine]], [[Gedenktag]], [[Trauertag]]
+, [[Erinnerung]], [[erinnern]], [[Stolpersteine]], [[Gedenktag]], [[Trauertag]], [[vorhaben]]

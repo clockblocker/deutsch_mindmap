@@ -1,1 +1,1 @@
-😱 [[verzweifeln]] | 😱 [[verzweifelt]], [[zusammenschrumpfen]]
+😱 [[verzweifeln]] | 😱 [[verzweifelt]], [[zusammenschrumpfen]], [[frustriert]]

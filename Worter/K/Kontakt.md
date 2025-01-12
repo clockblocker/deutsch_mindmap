@@ -1,1 +1,1 @@
-, [[Abstand]], [[Steckdose]], [[Beziehung]], [[Ansprechpartner]]
+, [[Abstand]], [[Steckdose]], [[Beziehung]], [[Ansprechpartner]], [[Begegnung]], [[Entfernung]]
