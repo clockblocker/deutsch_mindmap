@@ -1,1 +1,1 @@
-, [[bewundern]], [[respektieren]]
+, [[bewundern]], [[respektieren]], [[ehren]]

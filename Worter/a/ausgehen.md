@@ -5,6 +5,12 @@ sein [[ausgegangen]]
 ---
  Er [[ausgehen|geht]] mit mir aus! He, Nic, Schätzchen! Du siehst spitze aus!  
 
+52. Was bedeutet „[[Volkssouveränität]]“? Alle Staatsgewalt [[ausgehen|geht]] vom … (85%)
+	- [x] Volke aus.
+	- [ ] Bundestag aus.
+	- [ ] [[preußischen]] König aus.
+	- [ ] [[Bundesverfassungsgericht]] aus.
+
 ---
 Synonyme: [[verlassen]], [[hinausgehen]], [[herausgehen]], [[weggehen]], [[fortgehen]]
 Antonyme: [[heimgehen]], [[eintreten]], [[reinkommen]], [[bleiben]], [[hineingehen]]

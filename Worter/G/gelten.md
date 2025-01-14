@@ -7,7 +7,7 @@
 95. Was [[gilt]] für die meisten Kinder in Deutschland? (97%)
 	- [x] [[Schulpflicht]]
 
-[[Geltung]]
+[[Geltung]], [[gültig]]
 
 303. Welches Grundrecht [[gilt]] in Deutschland nur für Ausländer / Ausländerinnen? Das [[Grundrecht]] auf … (94%)
 	- [x] [[Asyl]]
@@ -35,4 +35,4 @@ PI: [[geltend]], PII: [[gegolten]], Zu+inf: [[zu gelten]]
 [[gelten]] - [[gel]] = [[ten]] / to apply, to be valid, to be considered
 
 ---
-[[Geltung]], [[geltend]], [[Geltungsbereich]], [[Geltungsdrang]], [[geltungssüchtig]], [[Geltungssucht]]
+[[Geltung]], [[geltend]], [[Geltungsbereich]], [[Geltungsdrang]], [[geltungssüchtig]], [[Geltungssucht]], [[gültig]]

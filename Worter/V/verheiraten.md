@@ -31,4 +31,4 @@ PI: [[verheiratend]], PII: [[verheiratet]], Zu+inf: [[zuverheiraten]]
 ---
 [[Verheiratung]], [[Heirat]], [[Ehe]], [[ehelich]], [[Ehepartner]]
 [[antrauen]], [[verheiratet]]
-, [[Ehemann]]
+, [[Ehemann]], [[Rat]]

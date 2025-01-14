@@ -1,1 +1,1 @@
-, [[wichtig]], [[entscheiden]], [[Entscheidung]]
+, [[wichtig]], [[entscheiden]], [[Entscheidung]], [[rechtsprechend]]

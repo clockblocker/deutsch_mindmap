@@ -1,1 +1,1 @@
-, [[beschließen]], [[besitzen]], [[erlassen]]
+, [[beschließen]], [[besitzen]], [[erlassen]], [[festlegen]]

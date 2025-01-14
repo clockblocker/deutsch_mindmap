@@ -1,3 +1,87 @@
+156. In welchem Jahr wurde Hitler Reichskanzler? (82%)
+	- [ ] 1923
+	- [ ] 1927
+	- [x] 1933
+	- [ ] 1936
+
+
+102. Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf politischem, [[wirtschaftlichem]], kulturellem, [[geistigem]] oder sozialem [[Gebiet]] eine [[besondere]] [[Leistung]] [[erbracht]] hat? Mit dem … (85%)
+	- [ ] Bundesadler
+	- [x] [[Bundesverdienstkreuz]]
+	- [ ] Vaterländischen [[Verdienstorden]]
+	- [ ] [[Ehrentitel]] „Held der Deutschen Demokratischen Republik“
+
+
+200. Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR? (82%)
+	- [ ] Hessen
+	- [ ] Schleswig-Holstein
+	- [x] Mecklenburg-Vorpommern
+	- [ ] Saarland
+
+
+6. Wie heißt die deutsche [[Verfassung]]? (83%)
+	- [ ] Volksgesetz
+	- [ ] Bundesgesetz
+	- [ ] Deutsches Gesetz
+	- [x] [[Grundgesetz]]
+
+53. Was bedeutet „Rechtsstaat“ in Deutschland? (83%)
+	- [ ] Der Staat hat Recht.
+	- [ ] Es gibt nur rechte Parteien.
+	- [ ] Die Bürger und Bürgerinnen [[entscheiden]] über Gesetze.
+	- [x] Der Staat muss die [[Gesetze]] [[einhalten]].
+
+99. Wer [[bezahlt]] in Deutschland die [[Sozialversicherungen]]? (83%)
+	- [x] Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen
+	- [ ] nur Arbeitnehmer / Arbeitnehmerinnen
+	- [ ] alle Staatsangehörigen
+	- [ ] nur Arbeitgeber / Arbeitgeberinnen
+
+75. Wie heißt Deutschlands heutiges [[Staatsoberhaupt]]? (84%)
+	- [x] Frank-Walter Steinmeier
+	- [ ] Norbert Lammert
+	- [ ] Wolfgang Thierse
+	- [ ] Edmund Stoiber
+
+207. In welchem Militärbündnis war die DDR Mitglied? (85%)
+	- [ ] in der NATO
+	- [ ] im Rheinbund
+	- [x] im Warschauer Pakt
+	- [ ] im Europabündnis
+
+202. Zu wem gehörte die DDR im „Kalten Krieg“? (85%)
+	- [ ] zu den Westmächten
+	- [x] zum Warschauer Pakt
+	- [ ] zur NATO
+	- [ ] zu den blockfreien Staaten
+
+
+110. Für wie viele Jahre wird der Bundestag in Deutschland gewählt? (85%)
+	- [ ] 2 Jahre
+	- [ ] 3 Jahre
+	- [x] 4 Jahre
+	- [ ] 5 Jahre
+
+
+232. Wer wird bei der Europawahl gewählt? (85%)
+	- [ ] die Europäische Kommission
+	- [ ] die Länder, die in die EU eintreten dürfen
+	- [ ] die europäische [[Verfassung]]
+	- [x] die [[Abgeordneten]] des Europäischen Parlaments
+
+298. In der DDR lebten vor allem [[Migranten]] aus … (86%)
+	- [x] Vietnam, Polen, Mosambik.
+	- [ ] Frankreich, Rumänien, Somalia.
+	- [ ] Chile, Ungarn, Simbabwe.
+	- [ ] Nordkorea, Mexiko, Ägypten.
+
+165. Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland? (86%)
+	- [x] Konrad Adenauer
+	- [ ] Kurt Georg Kiesinger
+	- [ ] Helmut Schmidt
+	- [ ] Willy Brandt
+
+
 109. Wie oft gibt es normalerweise Bundestagswahlen in Deutschland? (86%)
 	- [ ] alle drei Jahre
 	- [x] alle vier Jahre

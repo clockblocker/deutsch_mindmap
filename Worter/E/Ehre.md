@@ -1,5 +1,5 @@
 🔴 die [[Ehre]]
-die [[Ehren]]
+die [[ehren]]
 
 ---
 STEFAN: Keine Ursache. Es ist mir eine [[Ehre]].  
@@ -22,5 +22,5 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 - Singular: [[Ehre]], [[Ehre]], [[Ehre]], [[Ehre]], [[Ehre]], [[Ehre]]
-- Plural: [[Ehren]], [[Ehren]], [[Ehren]], [[Ehren]], [[Ehren]], [[Ehren]]
-, [[eher]], [[Ehrlich]]
+- Plural: [[ehren]], [[ehren]], [[ehren]], [[ehren]], [[ehren]], [[ehren]]
+, [[eher]], [[Ehrlich]], [[geehrt]]

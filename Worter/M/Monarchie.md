@@ -1,1 +1,1 @@
-, [[Fürstentum]]
+, [[Fürstentum]], [[Volkssouveränität]]

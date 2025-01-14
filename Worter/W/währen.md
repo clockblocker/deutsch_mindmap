@@ -1,1 +1,1 @@
-, [[dauern]], [[Währenddessen]]
+, [[dauern]], [[Währenddessen]], [[Währung]]

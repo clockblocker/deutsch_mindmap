@@ -27,4 +27,4 @@ Morpheme: [[ver]][[sammel]][[n]]
 | Sie | [[versammeln]] | [[versammelten]] | [[versammeln Sie]] | [[versammeln]] | [[versammelten]] |
 
 Partizip I: [[versammelnd]], Partizip II: [[versammelt]]
-[[versammeln]] - [[ver]] = [[sammeln]], [[Versammlungsfreiheit]]
+[[versammeln]] - [[ver]] = [[sammeln]], [[Versammlungsfreiheit]], [[Bundesversammlung]]

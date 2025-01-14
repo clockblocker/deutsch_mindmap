@@ -8,10 +8,14 @@
 	- [ ] Alle [[wahlberechtigten]] Personen müssen wählen.
 
 32. Wer [[wählt]] in Deutschland die [[Abgeordneten]] zum Bundestag? (89%)
-	- [ ] das [[Militär]]
-	- [ ] die [[Wirtschaft]]
 	- [x] das [[wahlberechtigte]] Volk
-	- [ ] die [[Verwaltung]]
+
+126. Was bekommen [[wahlberechtigte]] Bürger und Bürgerinnen in Deutschland vor einer Wahl? (83%)
+	- [x] eine [[Wahlbenachrichtigung]] von der Gemeinde
+	- [ ] eine [[Wahlerlaubnis]] vom Bundespräsidenten / von der Bundespräsidentin
+	- [ ] eine [[Benachrichtigung]] von der [[Bundesversammlung]]
+	- [ ] eine [[Benachrichtigung]] vom [[Pfarramt]]
+
 
 ---
 = [[stimmberechtigt]], [[wählbar]]

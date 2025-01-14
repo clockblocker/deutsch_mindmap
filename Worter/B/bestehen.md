@@ -1,8 +1,10 @@
-🏆 [[bestehen]] + Akk/Gen, [bəˈʃteːən]
+🏆 [[bestehen]] aus + Akk/Gen, [bəˈʃteːən]
 [[bestand|bestand]] 
 haben [[bestanden]]
 
 ---
+“AfD [[legt]] auf Parteitag [[fest]] - Familie besteht aus Vater, Mutter, Kindern”
+
 Natürlich [[besteht]] Gloria die Führerscheinprüfung. Zu ihrer Schwester sagt sie: „Danke, dass du mir die Daumen gedrückt hast. Das hat mir wirklich geholfen!“
 
 ---

@@ -1,1 +1,1 @@
-, [[Abgeordnete]]
+, [[Abgeordnete]], [[Bundesversammlung]]

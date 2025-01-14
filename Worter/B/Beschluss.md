@@ -27,4 +27,4 @@ G: des [[Beschlusses]], der [[Beschlüsse]]
 D: dem [[Beschluss]], den [[Beschlüssen]]  
 
 ---
-[[beschließen]], [[beschlossen]], [[beschlussfähig]], [[Beschlussfassung]], [[Beschlussvorlage]]
+[[beschließen]], [[beschlossen]], [[beschlussfähig]], [[Beschlussfassung]], [[Beschlussvorlage]], [[Rat]], [[Urteile]]

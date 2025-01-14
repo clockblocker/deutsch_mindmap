@@ -29,3 +29,4 @@ D: dem [[Steuerbescheid]], den [[Steuerbescheiden]]
 
 ---
 [[besteuern]], [[Steuer]], [[bescheiden]], [[Steuererklärung]]
+, [[Steuerzahler]]

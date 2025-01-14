@@ -1,1 +1,1 @@
-, [[erfüllen]], [[ausführen]], [[anwenden]]
+, [[erfüllen]], [[ausführen]], [[anwenden]], [[vollziehen]]

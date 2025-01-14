@@ -1,1 +1,1 @@
-, [[Oberhaupt]]
+, [[Oberhaupt]], [[Staatsoberhaupt]]

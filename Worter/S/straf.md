@@ -1,1 +1,1 @@
-, [[bestrafen]], [[Straftat]]
+, [[bestrafen]], [[Straftat]], [[strafmündig]], [[Strafgesetz]]

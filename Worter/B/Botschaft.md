@@ -1,1 +1,1 @@
-, [[Nachricht]], [[Ansprache 1]]
+, [[Nachricht]], [[Ansprache 1]], [[Benachrichtigung]]

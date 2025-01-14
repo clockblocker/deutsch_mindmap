@@ -35,4 +35,4 @@ Zu+infinitive: [[zu zögern]]
 [[bereit]], [[losziehen]], [[abwarten]], [[rangehen]], [[entscheiden]]
 
 
-, [[entschließen]], [[stürmen]], [[vorstürmen]], [[vorgehen]]
+, [[entschließen]], [[stürmen]], [[vorstürmen]], [[vorgehen]], [[bestimmen]]

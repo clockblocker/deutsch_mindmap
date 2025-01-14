@@ -1,1 +1,1 @@
-, [[Entscheidung]]
+, [[Entscheidung]], [[festlegen]]

@@ -1,1 +1,1 @@
-, [[rechtlich]], [[Arbeitsgericht]], [[Gericht]], [[Amtsgericht]]
+, [[rechtlich]], [[Arbeitsgericht]], [[Gericht]], [[Amtsgericht]], [[Angeklagte]], [[rechtsprechend]]

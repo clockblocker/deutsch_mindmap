@@ -7,6 +7,8 @@
 	- [ ] eine andere Meinung als die der [[Regierung]] [[vertritt]].
 	- [ ] sein Auto falsch geparkt hat und es [[abgeschleppt]] wird.
 
+ [[verteidigt]] den [[Angeklagten]] / die Angeklagte.
+ 
 ---
 = [[beschuldigen]], [[bezichtigen]], [[vorwerfen]]
 ≈ [[belangen]], [[zur Rechenschaft ziehen]], [[verurteilen]]
@@ -33,4 +35,4 @@ PI: [[anklagend]], PII: [[angeklagt]], Zu+inf: [[anzuklagen]]
 ---
 [[Anklage]], [[Ankläger]], [[anklagbar]], [[Anklageschrift]], [[Anklagebank]]
 [[verdammen]]
-, [[bezigen]]
+, [[bezigen]], [[verurteilten]], [[Angeklagte]]

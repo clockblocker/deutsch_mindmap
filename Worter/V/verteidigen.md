@@ -12,6 +12,9 @@ _Prinz Zuko kommt mit einigen Kriegern aus dem Schiff und wird von Sokka angegri
 
 [[Verteidigungsposition]]
 
+140. Was macht ein [[Schöffe]] / eine Schöffin in Deutschland? Er / Sie … (82%)
+	- [x] [[entscheidet]] mit [[Richtern]] / Richterinnen über [[Schuld]] und Strafe.
+	- [ ] [[verteidigt]] den [[Angeklagten]] / die Angeklagte.
 ---
 = [[schützen]], [[beschützen]], [[bewahren]]
 ≈ [[abwehren]], [[schirmen]], [[decken]], [[parieren]]

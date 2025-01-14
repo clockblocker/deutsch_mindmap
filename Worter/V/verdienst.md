@@ -1,1 +1,1 @@
-, [[verdienen]], [[Gewinn]]
+, [[verdienen]], [[Gewinn]], [[Bundesverdienstkreuz]], [[Verdienstorden]]

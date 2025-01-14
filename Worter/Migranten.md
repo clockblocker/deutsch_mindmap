@@ -1,0 +1,1 @@
+🟢 👥 der [[Migrant]], [miˈɡʁant]

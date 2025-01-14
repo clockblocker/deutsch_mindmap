@@ -1,1 +1,1 @@
-, [[sicher]], [[kund]], [[wahrscheinlich]], [[garantiert]]
+, [[sicher]], [[kund]], [[wahrscheinlich]], [[garantiert]], [[bestimmt]]

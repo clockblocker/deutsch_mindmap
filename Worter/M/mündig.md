@@ -1,1 +1,1 @@
-, [[erwachsen]], [[volljährig]]
+, [[erwachsen]], [[volljährig]], [[strafmündig]]

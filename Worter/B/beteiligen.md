@@ -5,6 +5,9 @@ haben [[beteiligt]]
 ---
 Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war. Es war an den ersten [[Angriffen]] der Feuernation [[beteiligt]].
 
+134. Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
+	- [x] Ich [[beteilige]] mich an einer Bürgerinitiative für die [[Erhaltung]] der Buslinie oder gründe [[selber]] eine Initiative.
+
 ---
 Synonyme: [[mitmachen]], [[mitwirken]], [[teilnehmen]], [[einbeziehen]], [[involvieren]]
 Antonyme: [[ausschließen]], [[ignorieren]], [[fernbleiben]]

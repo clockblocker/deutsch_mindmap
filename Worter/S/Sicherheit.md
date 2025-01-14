@@ -2,7 +2,7 @@
 die [[Sicherheiten]]
 
 ---
-Das ist mit [[Sicherheit]] die schnellere Variante, denn nicht nur das Warten auf den Fahrstuhl kostet Zeit. 
+Das ist mit [[Sicherheit]] die schnellere [[Variante]], denn nicht nur das Warten auf den Fahrstuhl kostet Zeit. 
 
 [[Staatssicherheit]]
 

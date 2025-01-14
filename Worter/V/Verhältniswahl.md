@@ -1,1 +1,1 @@
-, [[Zweitstimme]]
+, [[Zweitstimme]], [[Mehrheitswahlrecht]], [[Verhältniswahlrecht]]

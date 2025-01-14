@@ -1,1 +1,1 @@
-[[alle]], [[ununterbrochen]]
+[[alle]], [[ununterbrochen]], [[allgemein]]

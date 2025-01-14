@@ -1,1 +1,1 @@
-[[Treu]], [[garantiert]]
+[[Treu]], [[garantiert]], [[sicher]]

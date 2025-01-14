@@ -6,4 +6,4 @@ Akkusativ (Accusative):
 
 Dativ (Dative):
 | Maskulinum | Femininum | Neutrum | Plural  |
-| [[dir]]    | [[dir]]    | [[dir]] | [[euch]] |
+| [[dir]]    | [[dir]]    | [[dir]] | [[euch]] |, [[Du]]

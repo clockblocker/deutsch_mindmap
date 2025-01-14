@@ -2,6 +2,10 @@
 = immediately = [[wie]]
 
 ---
+
+122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
+	- [x] [[frei]], [[gleich]], [[geheim]].
+
 Wer von uns beiden lässt denn hier jedes mal [[gleich]] seine Muskeln spielen, wenn er sein Spiegelbild im Wasser sieht?
 
 Frau W. geht [[gleich]] ins Wohnzimmer. Das habe ich mir [[gleich]] gedacht.

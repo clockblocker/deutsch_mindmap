@@ -40,15 +40,11 @@ Sie treffen sich am Blumenkiosk.
 
 --Berlin wird ihm sicher gefallen. Das ist was für Kinder. Wir waren vor anderthalb Jahren mit dem Kegelklub drüben. So ein Rummel! Da gibt es doch wirklich Straßen, die nachts genau so hell sind wie am Tage. Und die Autos! - berichtete Frau Wirth aus der Tiefe des Waschbeckens. 
 
---Berlin will certainly please him. This is something for children. We were with the bowling club over there one and a half years ago. Such a hustle and bustle! There are truly streets that are just as bright at night as during the day. And the cars! - reported Mrs. Wirth from the depths of the washbasin.
-
-[[Berlin]] [[werden|wird]] ihm [[sicher]] [[gefallen]]. Das ist was für [[Kinder]]. [[Wir]] [[sein|waren]] vor [[anderthalb]] [[Jahr|Jahren]] mit dem [[Kegelklub]] [[drüben]]. So ein [[Rummel]]! Da [[geben|gibt]] es doch [[wirklich]] [[Straße|Straßen]], die nachts [[genau]] so [[hell]] [[sein|sind]] wie am [[Tag|Tage]]. Und die [[Auto|Autos]]! - [[berichten|berichtete]] [[Frau]] [[Wirth]] aus der [[Tiefe]] des [[Waschbecken|Waschbeckens]].
-
 
 --Sehr [[viele]] [[ausländische]] [[Wagen]]? - fragte Emil. 
 --Woher soll ich denn das wissen? - sagte Frau Wirth und mußte niesen. Ihr war Seifenschaum in die Nase gekommen. 
 --Na, nun mach aber, daß du fertig wirst -, drängte die Mutter. 
---Deinen guten Anzug hab ich im Schlafzimmer zurechtgelegt. Zieh ihn an, damit wir dann sofort essen können, wenn ich Frau Wirth frisiert habe. - 
+--Deinen guten Anzug hab ich im Schlafzimmer zurechtgelegt. [[Zieh an]] ihn an, damit wir dann sofort essen können, wenn ich Frau Wirth frisiert habe. - 
 --Was für'n Hemd? - erkundigte sich Emil. 
 --Liegt alles auf dem Bett. Und zieh die Strümpfe vorsichtig an. Und wasch dich erst gründlich. Und ziehe dir neue Schnürsenkel in die Schuhe. Dalli, dalli! - 
 --Puh! - bemerkte Emil und trollte sich. Als Frau Wirth, schön onduliert und mit ihrem Spiegelbild zufrieden, gegangen war, trat die Mutter ins Schlafzimmer und sah, wie Emil unglücklich herumlief. 

@@ -1,1 +1,1 @@
-, [[Freiheitsstrafe]], [[Todesstrafe]]
+, [[Freiheitsstrafe]], [[Todesstrafe]], [[verurteilten]]

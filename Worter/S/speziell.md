@@ -1,1 +1,1 @@
-[[besonders]][[speziellen]], [[grundsätzlich]]
+[[besonders]][[speziellen]], [[grundsätzlich]], [[allgemein]]

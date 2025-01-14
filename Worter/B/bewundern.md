@@ -34,3 +34,4 @@ Zu+infinitive: [[zu bewundern]]
 
 
 , [[tadeln]], [[auslachen]], [[schmeicheln]]
+, [[ehren]]

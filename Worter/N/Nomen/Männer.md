@@ -15,3 +15,4 @@ Translation:
 ---
 
 #Substantiv #Masculin #Plural 
+, [[Männerwahlrecht]]

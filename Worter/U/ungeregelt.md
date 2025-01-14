@@ -1,1 +1,1 @@
-, [[mitteln]]
+, [[mitteln]], [[rechtsprechend]]

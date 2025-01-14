@@ -1,1 +1,1 @@
-, [[Ehrlich]]
+, [[Ehrlich]], [[geehrt]], [[ehren]]

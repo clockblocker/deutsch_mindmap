@@ -1,1 +1,1 @@
-, [[Bewerb]], [[Annäherung]]
+, [[Bewerb]], [[Annäherung]], [[Bemühung]]

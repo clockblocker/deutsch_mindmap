@@ -24,4 +24,4 @@ Genitive: der [[Vereinbarung]], der [[Vereinbarungen]]
 Dative: der [[Vereinbarung]], den [[Vereinbarungen]]  
 
 ---
-[[vereinbaren]], [[vereinbar]], [[unvereinbar]], [[Abkommen]], [[vereinen]]
+[[vereinbaren]], [[vereinbar]], [[unvereinbar]], [[Abkommen]], [[vereinen]], [[festlegen]]

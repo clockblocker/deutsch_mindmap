@@ -1,1 +1,1 @@
-, [[Einwanderer]]
+, [[Einwanderer]], [[Migrant]]

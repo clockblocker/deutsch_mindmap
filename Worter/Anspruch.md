@@ -3,10 +3,11 @@ die [[Ansprüche]]
 
 ---
 269. In Deutschland [[aufhaben|haben]] Kinder ab dem Alter von drei Jahren bis zur [[Ersteinschulung]] einen [[Anspruch]] auf … (99%)
-	- [ ] monatliches [[Taschengeld]].
 	- [x] einen Kindergartenplatz.
-	- [ ] einen Platz in einem [[Sportverein]].
-	- [ ] einen [[Ferienpass]].
+
+260. In Deutschland hat ein Kind in der Schule … (86%)
+	- [ ] [[Anspruch]] auf Schulgeld.
+	- [x] [[Anwesenheitspflicht]].
 
 
 ---

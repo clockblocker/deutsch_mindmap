@@ -1,1 +1,1 @@
-, [[bestrafen]], [[Freiheitsstrafe]], [[Todesstrafe]], [[Straftat]]
+, [[bestrafen]], [[Freiheitsstrafe]], [[Todesstrafe]], [[Straftat]], [[Strafgesetz]]

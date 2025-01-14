@@ -1,1 +1,1 @@
-, [[Kirche]]
+, [[Kirche]], [[Pfarramt]]

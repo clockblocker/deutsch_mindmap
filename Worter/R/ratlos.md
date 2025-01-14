@@ -27,3 +27,4 @@ Plural: [[ratlosen]], [[ratlosexeren]], [[ratlosesten]]
 [[Ratlosigkeit]], [[Verwirrung]], [[Unschlüssigkeit]]
 
 , [[auskennen]], [[verständnislos]]
+, [[Rat]]

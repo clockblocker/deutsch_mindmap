@@ -1,1 +1,1 @@
-, [[Landtagswahl]], [[Briefwahl]]
+, [[Landtagswahl]], [[Briefwahl]], [[Mehrheitswahlrecht]]

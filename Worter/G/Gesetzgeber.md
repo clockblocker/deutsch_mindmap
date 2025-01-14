@@ -1,1 +1,1 @@
-, [[Gesetz]], [[Gesetzgebung]]
+, [[Gesetz]], [[Gesetzgebung]], [[gesetzgebend]]

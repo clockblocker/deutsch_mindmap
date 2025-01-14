@@ -1,1 +1,1 @@
-, [[hervorragend]], [[großartig]]
+, [[hervorragend]], [[großartig]], [[geehrt]]

@@ -1,1 +1,1 @@
-, [[ledigen]], [[zwingen]]
+, [[ledigen]], [[zwingen]], [[Anwesenheitspflicht]]

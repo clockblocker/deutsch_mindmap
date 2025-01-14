@@ -1,0 +1,1 @@
+🔵 🌐 das [[Allgemeine]], [ˈalɡeˌmaɪ̯nəs], [[allgemein]]

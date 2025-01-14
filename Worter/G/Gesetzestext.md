@@ -1,1 +1,1 @@
-, [[Gesetzgebung]]
+, [[Gesetzgebung]], [[Strafgesetz]]

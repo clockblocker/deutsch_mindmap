@@ -18,7 +18,7 @@ you (много ты)
 
 
 ---
-= [[du]], [[er/sie/es]]
+= [[Du]], [[er/sie/es]]
 ≈ [[euch]], [[dir]], [[dich]], [[Pluralform]]
 ≠ [[ich]], [[er]], [[sie]], [[es]]
 
@@ -35,4 +35,4 @@ G: euer, eurer
 D: euch, euren  
 
 ---
-[[du]], [[Ihr]], [[ihrig]], [[ihren]], [[ihrem]]
+[[Du]], [[Ihr]], [[ihrig]], [[ihren]], [[ihrem]]

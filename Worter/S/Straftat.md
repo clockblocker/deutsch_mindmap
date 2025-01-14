@@ -8,6 +8,9 @@ die [[Straftaten]]
 	- [ ] eine andere Meinung als die der [[Regierung]] [[vertritt]].
 	- [ ] sein Auto falsch geparkt hat und es [[abgeschleppt]] wird.
 
+119. Wahlen in Deutschland sind frei. Was bedeutet das? (86%)
+	- [ ] Alle [[verurteilten]] [[Straftäter]] / Straftäterinnen dürfen nicht wählen.
+
 
 ---
 = [[Verbrechen]], [[Delikt]], [[Gesetzesverstoß]]
@@ -28,4 +31,4 @@ D: der [[Straftat]], den [[Straftaten]]
 
 ---
 , [[bestrafen]]
-[[strafen]], [[strafbar]], [[Straftäter]], [[kriminell]], [[straflos]]
+[[strafen]], [[strafbar]], [[Straftäter]], [[kriminell]], [[straflos]], [[Strafgesetz]]

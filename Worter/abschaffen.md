@@ -1,9 +1,10 @@
 🗑️ [[abschaffen]], [ˈapˌʃafən] | [[schaffte ab]], haben [[abgeschafft]]
 
 ---
+134. Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
+	- [x] Ich [[beteilige]] mich an einer Bürgerinitiative für die [[Erhaltung]] der Buslinie oder gründe [[selber]] eine Initiative.
+
 12. Eine Partei im Deutschen Bundestag will die Pressefreiheit [[abschaffen]]. Ist das [[möglich]]? (87%)
-	- [ ] Ja, wenn mehr als die Hälfte der [[Abgeordneten]] im Bundestag dafür sind.
-	- [ ] Ja, aber dazu müssen zwei [[Drittel]] der [[Abgeordneten]] im Bundestag dafür sein.
 	- [x] Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht [[abgeschafft]] werden.
 
 ---

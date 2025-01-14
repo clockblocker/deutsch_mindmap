@@ -1,1 +1,1 @@
-, [[sowieso]], [[stehen]], [[eher]]
+, [[sowieso]], [[stehen]], [[eher]], [[ehren]]

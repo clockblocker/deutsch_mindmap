@@ -1,1 +1,1 @@
-, [[räter]], [[Ansprechpartner]], [[beraten]]
+, [[räter]], [[Ansprechpartner]], [[beraten]], [[Rat]]

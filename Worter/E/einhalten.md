@@ -1,11 +1,11 @@
 🕰️ [[einhalten]], [ˈaɪ̯nˌhaltən] | [[hielt ein]], haben [[eingehalten]]
 
 ---
+53. Was bedeutet „Rechtsstaat“ in Deutschland? (83%)
+	- [x] Der Staat muss die [[Gesetze]] [[einhalten]].
+
 254. In Deutschland dürfen Ehepaare sich scheiden lassen. [[Meistens]] müssen sie dazu das „[[Trennungsjahr]]“ [[einhalten]]. Was bedeutet das? (90%)
 	- [x] Mann und Frau führen [[mindestens]] ein Jahr getrennt ihr eigenes Leben. Danach ist die [[Scheidung]] [[möglich]].
-	- [ ] Der [[Scheidungsprozess]] dauert ein Jahr.
-	- [ ] Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.
-	- [ ] Das [[Besuchsrecht]] für die Kinder gilt ein Jahr.
 
 ---
 = [[befolgen]], [[beachten]], [[wahren]]

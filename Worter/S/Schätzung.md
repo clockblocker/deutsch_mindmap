@@ -1,1 +1,1 @@
-, [[Berechnung]], [[Nebenkostenabrechnung]], [[schätzen]], [[unterschätzen]]
+, [[Berechnung]], [[Nebenkostenabrechnung]], [[schätzen]], [[unterschätzen]], [[Auszählung]]

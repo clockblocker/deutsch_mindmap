@@ -1,1 +1,1 @@
-, [[bestrafen]], [[Freiheitsstrafe]], [[Gericht]], [[anklagen]], [[Richter]]
+, [[bestrafen]], [[Freiheitsstrafe]], [[Gericht]], [[anklagen]], [[Richter]], [[verurteilten]], [[Angeklagte]], [[Urteile]]

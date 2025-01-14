@@ -1,1 +1,1 @@
-, [[Meinungsfreiheit]], [[Folter]], [[Freiheit]], [[Versammlungsfreiheit]], [[Gewissensfreiheit]]
+, [[Meinungsfreiheit]], [[Folter]], [[Freiheit]], [[Versammlungsfreiheit]], [[Gewissensfreiheit]], [[Männerwahlrecht]]

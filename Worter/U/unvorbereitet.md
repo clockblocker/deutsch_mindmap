@@ -1,1 +1,1 @@
-[[bereit]], [[bereiten]]
+[[bereit]], [[bereiten]], [[planenden]]

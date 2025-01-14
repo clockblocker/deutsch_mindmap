@@ -7,9 +7,8 @@ Jetzt ist Schluss. Genug gespielt. Katara, denk dran, du hast [[Pflichten]].
 23. An demokratischen Wahlen in Deutschland teilzunehmen ist … (89%)
 	- [ ] eine [[Pflicht]].
 	- [x] ein [[Recht]].
-	- [ ] ein [[Zwang]].
-	- [ ] eine [[Last]].
 
+[[Anwesenheitspflicht]]
 
 ---
 Synonyme:
@@ -31,4 +30,4 @@ Einzigartige mögliche Formen:
 
 ---
 #Substantiv #Feminin #Nomen
-, [[Wahlpflicht]], [[Schulpflicht]], [[Schweigepflicht]], [[Religionspflicht]], [[Grundrecht]], [[Versicherungspflicht]], [[recht]]
+, [[Wahlpflicht]], [[Schulpflicht]], [[Schweigepflicht]], [[Religionspflicht]], [[Grundrecht]], [[Versicherungspflicht]], [[recht]], [[Anwesenheitspflicht]]

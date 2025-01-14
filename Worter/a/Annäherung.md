@@ -24,3 +24,4 @@ D: der [[Annäherung]], den [[Annäherungen]]
 
 ---
 [[annähern]], [[angenähert]], [[Annäherungsversuch]], [[annäherungsweise]]
+, [[Auszählung]]

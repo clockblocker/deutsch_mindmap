@@ -1,1 +1,1 @@
-, [[wollen]]
+, [[wollen]], [[rechtsprechend]]

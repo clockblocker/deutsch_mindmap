@@ -7,6 +7,12 @@ nicht [[gezwungen]]
 	- [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
 	- [ ] Sie arbeiten in der [[Bundesregierung]].
 
+122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
+	- [x] [[frei]], [[gleich]], [[geheim]].
+	- [ ] offen, [[sicher]], frei.
+	- [ ] [[geschlossen]], gleich, [[sicher]].
+	- [ ] sicher, offen, [[freiwillig]].
+
 ---
 = [[selbstständig]], [[eigenständig]], [[unaufgefordert]]
 ≈ [[bereitwillig]], [[willig]], [[gerne]], [[ohne Zwang]]

@@ -1,1 +1,1 @@
-, [[erfüllen]], [[ausführen]], [[Erfolgen]], [[erreichen]]
+, [[erfüllen]], [[ausführen]], [[Erfolgen]], [[erreichen]], [[vollziehen]]

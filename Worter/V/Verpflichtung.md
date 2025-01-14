@@ -1,1 +1,1 @@
-, [[Pflicht]], [[Versicherungspflicht]]
+, [[Pflicht]], [[Versicherungspflicht]], [[Anwesenheitspflicht]]

@@ -1,1 +1,1 @@
-, [[besonders]], [[seltsam]]
+, [[besonders]], [[seltsam]], [[Allgemeine]]

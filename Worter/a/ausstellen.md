@@ -5,6 +5,10 @@ haben [[ausgestellt]]
 ---
 die [[Ausstellung]]
 
+140. Was macht ein [[Schöffe]] / eine Schöffin in Deutschland? Er / Sie … (82%)
+	- [x] [[entscheidet]] mit [[Richtern]] / Richterinnen über [[Schuld]] und Strafe.
+	- [ ] [[ausstellen|stellt]] [[Urkunden]] aus.
+
 ---
 Synonyme: [[präsentieren]], [[vorzeigen]], [[exponieren]], [[vorführen]], [[demonstrieren]]
 Antonyme: [[verstecken]], [[verbergen]], [[zurückhalten]]

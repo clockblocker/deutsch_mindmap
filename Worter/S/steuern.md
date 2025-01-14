@@ -30,4 +30,4 @@ D: den [[Steuern]], den [[Steuern]]
 [[fahren]][[regeln]], [[bedienen]], [[beherrschen]], [[steuere]], [[führen]], [[leiten]], [[Steuererklärung]], [[Lohnsteuer]]
 , [[beeinflussen]], [[Sozialabgaben]]
 
-, [[zusteuern]], [[verwalten]]
+, [[zusteuern]], [[verwalten]], [[Steuerzahler]]

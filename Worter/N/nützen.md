@@ -1,1 +1,1 @@
-, [[schaden]], [[Nützliches]]
+, [[schaden]], [[Nützliches]], [[nutzlos]]

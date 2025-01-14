@@ -1,1 +1,1 @@
-, [[tätig]], [[lebhaft]]
+, [[tätig]], [[lebhaft]], [[vollziehenden]]

@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Landes]], [[Lande]], [[Länder]], [[Ländern]]
 
 ---
 #Substantiv #Neutral
-''', [[Lieblingsland]], [[Deutschland]], [[Landtagswahl]]
+''', [[Lieblingsland]], [[Deutschland]], [[Landtagswahl]], [[Bundesland]]

@@ -1,4 +1,4 @@
-🌱 [[behandeln]] + Akk, [bəˈhandl̩n]
+🩺 [[behandeln]] + Akk, [bəˈhandl̩n]
 [[behandelte]]
 haben [[behandelt]]
 
@@ -6,11 +6,11 @@ haben [[behandelt]]
 SASCHA: Meine Mutter [[behandelt]] mich auch wie ein Baby 
 
 284. Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)
-	- [ ] Ich kann nichts tun.
-	- [ ] Ich muss mir diese [[Behandlung]] gefallen lassen.
-	- [ ] Ich [[drohe]] der Person.
 	- [x] Ich kann mich beim [[Behördenleiter]] / bei der Behördenleiterin [[beschweren]].
 
+263. In Deutschland sind [[Jugendliche]] ab 14 Jahren [[strafmündig]]. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen [[Strafgesetze]] [[verstoßen]], … (85%)
+	- [x] werden bestraft.
+	- [ ] werden wie [[Erwachsene]] [[behandelt]].
 ---
 Synonyme: [[untersuchen]], [[pflegen]], [[versorgen]], [[kuratieren]], [[umgehen mit]]
 Antonyme: [[vernachlässigen]], [[ignorieren]], [[ablehnen 1]]
@@ -37,3 +37,4 @@ Morpheme: [[be]][[handel]][[n]]
 Partizip I: [[behandelnd]], Partizip II: [[behandelt]]
 
 [[behandeln]] - [[be]] = [[handeln]], [[ablehnen]], [[Gleichbehandlung]]
+🩺 [[behandeln]]

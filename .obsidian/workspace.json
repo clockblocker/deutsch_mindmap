@@ -8,129 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea011664fb4c3973",
+            "id": "c6cff6de2365ba71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/c1/Der elterliche Handykonsum und seine Folgen.md",
+                "file": "Worter/G/gelten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Der elterliche Handykonsum und seine Folgen"
-            }
-          },
-          {
-            "id": "d215e41826c2d4fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/veröffentlichten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "veröffentlichten"
-            }
-          },
-          {
-            "id": "7bb962a11390d4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/veröffentlichten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "veröffentlichten"
-            }
-          },
-          {
-            "id": "e50902fdb3296a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/L/laut.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "laut"
-            }
-          },
-          {
-            "id": "4121cbc8da3015e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/jüngst.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "jüngst"
-            }
-          },
-          {
-            "id": "497a785976305bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/U/Unterhaltung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unterhaltung"
-            }
-          },
-          {
-            "id": "254b56dc4860fca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Gewissensfreiheit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gewissensfreiheit"
-            }
-          },
-          {
-            "id": "8d908ec69e9f05ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Einbuergerungstest/151-180.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "151-180"
-            }
-          },
-          {
-            "id": "5ac7530fed10c747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Auflistung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auflistung"
+              "title": "gelten"
             }
           },
           {
@@ -139,44 +27,492 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Auflistungen.md",
+                "file": "Texte/Einbuergerungstest/211-240.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auflistungen"
+              "title": "211-240"
             }
           },
           {
-            "id": "e3a6ffff03c067d9",
+            "id": "48bf7fde34a8477d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/G/Gebung.md",
+                "file": "Worter/F/frei.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gebung"
+              "title": "frei"
             }
           },
           {
-            "id": "24ee35069c5475bd",
+            "id": "0c7d972c6c443033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Drittel.md",
+                "file": "Worter/G/gleich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drittel"
+              "title": "gleich"
+            }
+          },
+          {
+            "id": "8c717b2918c4cb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Regierung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regierung"
+            }
+          },
+          {
+            "id": "35a80374ca0ed005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Währung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Währung"
+            }
+          },
+          {
+            "id": "ff19be8bdd4a0816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Außenminister.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Außenminister"
+            }
+          },
+          {
+            "id": "dfa2fed27dbfff46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Volksbildung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volksbildung"
+            }
+          },
+          {
+            "id": "2e1b498e6f150e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Volksbildung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volksbildung"
+            }
+          },
+          {
+            "id": "c2cc38e40f4c81c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/gelten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gelten"
+            }
+          },
+          {
+            "id": "b9e3da8f26c194d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/gültig.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gültig"
+            }
+          },
+          {
+            "id": "2927671c33bdc932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/gesetzgebend.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gesetzgebend"
+            }
+          },
+          {
+            "id": "b6fd0584f5c43c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/vollziehend.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vollziehend"
+            }
+          },
+          {
+            "id": "59b5a3411e4e6d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/W/wahlberechtigte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wahlberechtigte"
+            }
+          },
+          {
+            "id": "99ee79518ff3bf06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/wahlberechtigt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wahlberechtigt"
+            }
+          },
+          {
+            "id": "ef879ddfcbf95aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Familienministerium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Familienministerium"
+            }
+          },
+          {
+            "id": "e170a62cc55c95de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Familienministerium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Familienministerium"
+            }
+          },
+          {
+            "id": "3c09b61628dbae0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Bundesland.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bundesland"
+            }
+          },
+          {
+            "id": "b25546883b59d56f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Schulpolitik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schulpolitik"
+            }
+          },
+          {
+            "id": "1a3794bdaba754cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Urteile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Urteile"
+            }
+          },
+          {
+            "id": "981f411abbcb8aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Urteile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Urteile"
+            }
+          },
+          {
+            "id": "885969f9c972f92a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Mehrheitswahlrecht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mehrheitswahlrecht"
+            }
+          },
+          {
+            "id": "19528651b48a8aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Verhältniswahlrecht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verhältniswahlrecht"
+            }
+          },
+          {
+            "id": "70aeba23492c1b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/allgemeines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "allgemeines"
+            }
+          },
+          {
+            "id": "04821bd4378e13fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Allgemeine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Allgemeine"
+            }
+          },
+          {
+            "id": "59a1aa9654ffd523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Männerwahlrecht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Männerwahlrecht"
+            }
+          },
+          {
+            "id": "3f93bf0f0e9b3198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Allgemeine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Allgemeine"
+            }
+          },
+          {
+            "id": "df61d175a39beedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Steuerzahler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steuerzahler"
+            }
+          },
+          {
+            "id": "f80f2a4c908d649d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/E/Erhaltung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Erhaltung"
+            }
+          },
+          {
+            "id": "c62bfa365f944e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/preußisch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "preußisch"
+            }
+          },
+          {
+            "id": "d87c09597b404c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/geehrt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "geehrt"
+            }
+          },
+          {
+            "id": "3c79253a866d3e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/W/wirtschaftlichem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wirtschaftlichem"
+            }
+          },
+          {
+            "id": "c559923f1aaf85a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/W/wirtschaftlich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wirtschaftlich"
+            }
+          },
+          {
+            "id": "384b913bdc4c335b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/geistigem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "geistigem"
+            }
+          },
+          {
+            "id": "d6388387420cc77c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/geistig.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "geistig"
+            }
+          },
+          {
+            "id": "4e321fac03517b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/Gebiet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gebiet"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -293,10 +629,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Einbuergerungstest/151-180.md"
+                "file": "Worter/gesetzgebenden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 151-180"
+              "title": "Outline of gesetzgebenden"
             }
           }
         ],
@@ -304,7 +640,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,34 +655,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8d908ec69e9f05ae",
+  "active": "b3b1c592221452bc",
   "lastOpenFiles": [
-    "Worter/T/treffen.md",
-    "Worter/D/deutlich.md",
-    "Worter/D/deuten.md",
-    "Texte/Einbuergerungstest/151-180.md",
-    "Worter/Einheitliche.md",
-    "Worter/Feiertage.md",
-    "Worter/F/Feiertag.md",
-    "Texte/Einbuergerungstest/300+ (Berlin).md",
-    "Texte/Einbuergerungstest/Not trivial.md",
-    "Worter/Glaubensfreiheit.md",
-    "Worter/G/gleich.md",
-    "Worter/G/Gebiet.md",
-    "Worter/H/heutige.md",
-    "Worter/heutig.md",
-    "Worter/F/früheren.md",
-    "Worter/F/früh.md",
-    "Worter/E/enthält.md",
-    "Worter/folgenden.md",
-    "Worter/E/enthalten.md",
-    "Worter/A/Aufbewahrung.md",
-    "Worter/Z/zu enthalten.md",
-    "Worter/E/enthaltend.md",
-    "Worter/E/enthieltet.md",
-    "Worter/E/enthaltet.md",
-    "Worter/E/enthalten wir.md",
-    "Worter/E/enthielten.md",
+    "Worter/S/sicher.md",
+    "Worter/G/geschlossen.md",
+    "Worter/S/schließen.md",
+    "Worter/F/freiwillig.md",
+    "Worter/A/absichern.md",
+    "Worter/S/sichereres.md",
+    "Worter/S/sicherere.md",
+    "Worter/S/sichererem.md",
+    "Worter/S/sicherereren.md",
+    "Worter/S/sichereren.md",
+    "Worter/U/unbezweifelbar.md",
+    "Texte/Einbuergerungstest/211-240.md",
+    "Worter/U/unterliegen.md",
+    "Worter/L/liegen.md",
+    "Worter/S/siegen.md",
+    "Worter/Ü/überstehen.md",
+    "Worter/Ü/überwinden.md",
+    "Worter/K/Kapitulation.md",
+    "Worter/U/Unterlegenheit.md",
+    "Worter/Z/zu unterliegen.md",
+    "Worter/U/unterliegend.md",
+    "Worter/U/unterläget.md",
+    "Worter/U/unterlieget.md",
+    "Worter/U/unterlagt.md",
+    "Worter/U/unterliegen wir.md",
+    "Worter/U/unterlagen.md",
+    "Texte/Einbuergerungstest/done",
     "Texte/c1/processed_german_words.json",
     "Texte/c1/processed_german_text1.txt",
     "Texte/c1/processed_german_text.txt",
@@ -365,7 +703,6 @@
     "Anhänge/Pasted image 20250102084931.png",
     "Anhänge/Pasted image 20250102084854.png",
     "Anhänge",
-    "Texte/Einbuergerungstest",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

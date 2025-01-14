@@ -1,1 +1,1 @@
-[[heißen]], [[nennen]]
+[[heißen]], [[nennen]], [[Ehrentitel]]

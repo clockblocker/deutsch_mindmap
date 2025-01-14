@@ -1,1 +1,1 @@
-, [[Versammlungsfreiheit]]
+, [[Versammlungsfreiheit]], [[Bundesversammlung]]

@@ -1,1 +1,1 @@
-, [[Kürzung]]
+, [[Kürzung]], [[Erhaltung]]

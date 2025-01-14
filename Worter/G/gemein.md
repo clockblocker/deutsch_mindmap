@@ -26,4 +26,4 @@ P: [[gemeinen]], [[gemeineren]], [[gemeinsten]]
 ---
 [[Gemeinheit]], [[gemeinerweise]], [[gemeinschaftlich]], [[vergemeinschaften]]
 
-, [[gemeinsam]], [[Gemeinde]]
+, [[gemeinsam]], [[Gemeinde]], [[Allgemeine]], [[allgemein]]

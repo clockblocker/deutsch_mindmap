@@ -2,10 +2,10 @@
 die [[Gesetze]]
 
 ---
+53. Was bedeutet „Rechtsstaat“ in Deutschland? (83%)
+	- [x] Der Staat muss die [[Gesetze]] [[einhalten]].
+
 148. Was ist eine Aufgabe der Polizei in Deutschland? (87%)
-	- [ ] das Land zu [[verteidigen]]
-	- [ ] die Bürgerinnen und Bürger [[abzuhören]]
-	- [ ] die [[Gesetze]] zu [[beschließen]]
 	- [x] die [[Einhaltung]] von [[Gesetzen]] zu [[überwachen]]
 
 38. Was ist die Arbeit eines [[Richters]] / einer Richterin in Deutschland? (88%)
@@ -43,4 +43,4 @@ G: des [[Gesetzes]], der [[Gesetze]]
 D: dem [[Gesetz]], den [[Gesetzen]]  
 
 ---
-[[gesetzlich]], [[Gesetzgeber]], [[Gesetzgebung]], [[ungesetzlich]], [[Gesetzentwurf]], [[volljährig]], [[Faustrecht]]
+[[gesetzlich]], [[Gesetzgeber]], [[Gesetzgebung]], [[ungesetzlich]], [[Gesetzentwurf]], [[volljährig]], [[Faustrecht]], [[Strafgesetz]], [[gesetzgebend]]

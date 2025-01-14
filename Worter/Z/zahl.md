@@ -1,2 +1,2 @@
 💵 [[zahlen]]  
-, [[zahlreiche]], [[bezahlen]], [[Gehaltszahlungen]]
+, [[zahlreiche]], [[bezahlen]], [[Gehaltszahlungen]], [[Steuerzahler]]

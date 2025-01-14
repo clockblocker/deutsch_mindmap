@@ -1,1 +1,1 @@
-, [[Einheitliche]]
+, [[Einheitliche]], [[Allgemeine]], [[allgemein]]

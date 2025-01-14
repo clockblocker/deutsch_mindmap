@@ -1,1 +1,1 @@
-, [[tadeln]]
+, [[tadeln]], [[Bundesverdienstkreuz]], [[Verdienstorden]]

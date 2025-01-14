@@ -14,6 +14,13 @@ Mit ihnen muss ich [[Freundschaft]] [[schließen]]."
 *Wenn [[Schwesterlein]] zur Arbeit muss*  
 *[[Schließt]] mich im Zimmer ein*  
 
+
+122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
+	- [x] [[frei]], [[gleich]], [[geheim]].
+	- [ ] offen, [[sicher]], frei.
+	- [ ] [[geschlossen]], gleich, [[sicher]].
+	- [ ] sicher, offen, [[freiwillig]].
+
 ---
 +[[an]] = 🔗 [[anschließen]] / to connect, to hook up, to attach
 +[[ab]] = 🔗 [[abschließen]] / to conclude, защитить диплом

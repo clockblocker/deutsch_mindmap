@@ -1,1 +1,1 @@
-🔴 die [[Stimme]], [[Stimmabgabe]], [[Wählerstimmen]]
+🔴 die [[Stimme]], [[Stimmabgabe]], [[Wählerstimmen]], [[bestimmen]]

@@ -1,1 +1,1 @@
-, [[Kriegsminister]]
+, [[Kriegsminister]], [[Außenminister]]

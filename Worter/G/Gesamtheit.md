@@ -1,1 +1,1 @@
-, [[Sektor]], [[Drittel]]
+, [[Sektor]], [[Drittel]], [[Allgemeine]]

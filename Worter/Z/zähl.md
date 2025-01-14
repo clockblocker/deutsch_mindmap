@@ -3,4 +3,4 @@
 [[zählen]]
 
 
-, [[Lohnen]], [[dazuzählen]]
+, [[Lohnen]], [[dazuzählen]], [[Auszählung]]

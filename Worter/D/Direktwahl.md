@@ -1,1 +1,1 @@
-, [[Direktkandidat]], [[Briefwahl]]
+, [[Direktkandidat]], [[Briefwahl]], [[Verhältniswahlrecht]]

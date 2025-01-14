@@ -1,1 +1,1 @@
-, [[behaupten]], [[Krankenkasse]], [[Sozialversicherung]], [[Versicherungspflicht]], [[Versicherung]], [[Pflegeversicherung]], [[Sozialversicherungsausweis]], [[Krankenversicherung]], [[Rentenversicherung]], [[Lebensversicherung]], [[Arbeitslosenversicherung]]
+, [[behaupten]], [[Krankenkasse]], [[Sozialversicherung]], [[Versicherungspflicht]], [[Versicherung]], [[Pflegeversicherung]], [[Sozialversicherungsausweis]], [[Krankenversicherung]], [[Rentenversicherung]], [[Lebensversicherung]], [[Arbeitslosenversicherung]], [[sicher]]

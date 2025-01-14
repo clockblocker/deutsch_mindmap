@@ -28,4 +28,4 @@ G: der [[Bundesregierung]], der [[Bundesregierungen]]
 D: der [[Bundesregierung]], den [[Bundesregierungen]]  
 
 ---
-[[regieren]], [[bundesweit]], [[Bundeskanzler]], [[staatlich]], [[politisch]]
+[[regieren]], [[bundesweit]], [[Bundeskanzler]], [[staatlich]], [[politisch]], [[Bundesland]], [[Bundesversammlung]]

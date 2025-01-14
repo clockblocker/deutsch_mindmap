@@ -31,3 +31,4 @@ Dative: der [[Verantwortung]], den [[Verantwortungen]]
 [[verantworten]], [[verantwortlich]], [[verantwortungslos]], [[verantwortungsvoll]]
 
 , [[Schuld]], [[Pflicht]]
+, [[strafmündig]]

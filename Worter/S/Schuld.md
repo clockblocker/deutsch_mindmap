@@ -9,6 +9,8 @@ Bei seinem alten Lehrer hatte er immer gute Noten! Ganz bestimmt ist es Ihre [[S
 
 Katara hat keine [[Schuld]]. Ich hab sie [[überredet]]. _[Sieht [[schuldbewusst]] nach unten]_ Es ist meine Schuld.
 
+140. Was macht ein [[Schöffe]] / eine Schöffin in Deutschland? Er / Sie … (82%)
+	- [x] [[entscheidet]] mit [[Richtern]] / Richterinnen über [[Schuld]] und Strafe.
 ---
 Synonyme:
 - [[Verantwortung]], [[Haftung]], [[Verschulden]], [[Straftat]], [[Vergehen]]  
@@ -24,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schulde]], [[Schulden]], [[Schuldest]], [[Schuldig]], [[Schuldiger]], [[Schuldigen]], [[Schuldiges]]
 
 ---
-#Substantiv #Femininum, [[s1 e1]]
+#Substantiv #Femininum, [[s1 e1]], [[verurteilten]]

@@ -3,6 +3,9 @@
 ---
 Es gibt bereits zahlreiche Ausstellungen zu den Themen Berliner Mauer oder [[Staatssicherheit]]
 
+Mit der Abkürzung „Stasi“ meinte man in der DDR … (82%)
+	- [ ] das Parlament.
+	- [x] das Ministerium für [[Staatssicherheit]].
 
 ---
 

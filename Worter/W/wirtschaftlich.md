@@ -6,6 +6,12 @@ nicht [[unwirtschaftlich]]
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
 	- [ ] um [[wirtschaftlichen]] [[Wettbewerb]] [[anzuregen]]
 
+102. Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf politischem, [[wirtschaftlichem]], kulturellem, [[geistigem]] oder sozialem [[Gebiet]] eine [[besondere]] [[Leistung]] [[erbracht]] hat? Mit dem … (85%)
+	- [ ] Bundesadler
+	- [x] [[Bundesverdienstkreuz]]
+	- [ ] Vaterländischen [[Verdienstorden]]
+	- [ ] [[Ehrentitel]] „Held der Deutschen Demokratischen Republik“
+
 ---
 = [[ökonomisch]], [[rentabel]], [[profitabel]], [[finanziell]]
 ≈ [[finanziell]], [[kaufmännisch]], [[kommerziell]], [[gewinnbringend]]

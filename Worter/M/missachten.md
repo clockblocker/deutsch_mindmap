@@ -1,1 +1,1 @@
-, [[bedienen]], [[achten]], [[ziemen]], [[pflegen]], [[übersehen]], [[befinden]], [[respektieren]], [[beachten]], [[übertreten]], [[mustern]]
+, [[bedienen]], [[achten]], [[ziemen]], [[pflegen]], [[übersehen]], [[befinden]], [[respektieren]], [[beachten]], [[übertreten]], [[mustern]], [[ehren]]

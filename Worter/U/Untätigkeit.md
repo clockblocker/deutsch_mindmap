@@ -1,1 +1,1 @@
-, [[Tätigkeit]], [[Handlung]], [[Verhalten]], [[Maßnahme]]
+, [[Tätigkeit]], [[Handlung]], [[Verhalten]], [[Maßnahme]], [[Bemühung]]

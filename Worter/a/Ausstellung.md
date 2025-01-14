@@ -2,7 +2,7 @@ die [[Ausstellung]], [ˈaʊ̯sˌʃtɛlʊŋ], [[ausstellen]]
 die [[Ausstellungen]]
 
 ---
-Es gibt bereits zahlreiche Ausstellungen zu den Themen Berliner Mauer oder Staatssicherheit
+Es gibt bereits zahlreiche [[Ausstellungen]] zu den Themen Berliner Mauer oder Staatssicherheit
 
 
 ---

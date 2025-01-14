@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[breit]], [[breiter]], [[breite]], [[breites]], [[breiten]], [[breitem]], [[breiter]], [[breiten]]
 [[breitere]], [[breiterer]], [[breitere]], [[breiteres]], [[breiteren]], [[breiterem]], [[breiterer]], [[breiteren]]
-[[breiteste]], [[breitester]], [[breiteste]], [[breitstes]], [[breitesten]], [[breitstem]], [[breitester]], [[breitesten]], [[schmale]], [[ausbreiten]], [[weit und breit]], [[begrenzen]]
+[[breiteste]], [[breitester]], [[breiteste]], [[breitstes]], [[breitesten]], [[breitstem]], [[breitester]], [[breitesten]], [[schmale]], [[ausbreiten]], [[weit und breit]], [[begrenzen]], [[allgemein]]

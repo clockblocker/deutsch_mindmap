@@ -8,6 +8,12 @@ die [[Gebiete]]
 197. Welches [[heutige]] deutsche Bundesland gehörte früher zum [[Gebiet]] der DDR? (87%)
 	- [x] Thüringen
 
+102. Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf politischem, [[wirtschaftlichem]], kulturellem, [[geistigem]] oder sozialem [[Gebiet]] eine [[besondere]] [[Leistung]] [[erbracht]] hat? Mit dem … (85%)
+	- [ ] Bundesadler
+	- [x] [[Bundesverdienstkreuz]]
+	- [ ] Vaterländischen [[Verdienstorden]]
+	- [ ] [[Ehrentitel]] „Held der Deutschen Demokratischen Republik“
+
 ---
 = [[Region]], [[Areal]], [[Territorium]]
 ≈ [[Landstrich]], [[Zone]], [[Bezirk]], [[Fläche]], [[Gegend]]

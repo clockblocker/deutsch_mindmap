@@ -1,1 +1,1 @@
-[[verdammen]], [[anklagen]], [[bezigen]]
+[[verdammen]], [[anklagen]], [[bezigen]], [[verurteilten]]

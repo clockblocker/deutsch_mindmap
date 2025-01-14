@@ -1,2 +1,2 @@
 🔵 das [[Geheimnis]]
-, [[Ergebnis]], [[Erlaubnis]], [[Rechercheergbenis]], [[Gefängnis]], [[Gaststättenerlaubnis]], [[Zwischenergebnis]]
+, [[Ergebnis]], [[Erlaubnis]], [[Rechercheergbenis]], [[Gefängnis]], [[Gaststättenerlaubnis]], [[Zwischenergebnis]], [[Wahlerlaubnis]]

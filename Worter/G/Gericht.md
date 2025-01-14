@@ -40,4 +40,4 @@ D: dem [[Gericht]], den [[Gerichten]]
 ---
 [[richten]], [[gerichtlich]], [[Richter]], [[Rechtsprechung]], [[verurteilen]]
 [[Braten]], [[Arbeitsgericht]], [[Standesamt]]
-, [[Amtsgericht]]
+, [[Amtsgericht]], [[verurteilten]], [[Bundesverfassungsgericht]], [[rechtsprechend]]

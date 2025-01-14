@@ -1,1 +1,1 @@
-, [[Schweigepflicht]], [[Religionspflicht]]
+, [[Schweigepflicht]], [[Religionspflicht]], [[Anwesenheitspflicht]]

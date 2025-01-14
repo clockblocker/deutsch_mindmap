@@ -1,1 +1,1 @@
-, [[ausführen]]
+, [[ausführen]], [[vollziehenden]], [[gesetzgebend]]

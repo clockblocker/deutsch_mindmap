@@ -35,4 +35,4 @@ D: der [[Gemeinde]], den [[Gemeinden]]
 [[gemeinsam]], [[gemeindlich]], [[Gemeinderatssitzung]], [[Gemeindevorstand]], [[gemeindefrei]]
 
 , [[Stadt]], [[Minderheit]], [[Dorf]]
-, [[Kirche]], [[Bundesbezirk]], [[gemein]]
+, [[Kirche]], [[Bundesbezirk]], [[gemein]], [[Bundesland]]

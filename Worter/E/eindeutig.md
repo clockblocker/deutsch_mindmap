@@ -1,1 +1,1 @@
-, [[offensichtlich]], [[scheinbar]], [[ausweichend]], [[deutlich]]
+, [[offensichtlich]], [[scheinbar]], [[ausweichend]], [[deutlich]], [[bestimmt]]

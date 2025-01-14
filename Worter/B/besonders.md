@@ -12,6 +12,12 @@ Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] fr
 247. Eine Frau ist [[schwanger]]. Sie ist kurz vor und nach der [[Geburt]] ihres Kindes vom [[Gesetz]] [[besonders]] [[beschützt]]. Wie heißt dieser [[Schutz]]? (99%)
 	- [x] [[Mutterschutz]]
 
+102. Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf politischem, [[wirtschaftlichem]], kulturellem, [[geistigem]] oder sozialem [[Gebiet]] eine [[besondere]] [[Leistung]] [[erbracht]] hat? Mit dem … (85%)
+	- [ ] Bundesadler
+	- [x] [[Bundesverdienstkreuz]]
+	- [ ] Vaterländischen [[Verdienstorden]]
+	- [ ] [[Ehrentitel]] „Held der Deutschen Demokratischen Republik“
+
 ---
 Synonyme: [[außergewöhnlich]], [[speziell]], [[einzigartig]], [[extra]], [[merkwürdig]]
 Antonyme: [[gewöhnlich]], [[normal]], [[alltäglich]], [[standard]]
@@ -36,3 +42,4 @@ Plural: [[besondere]], [[besondere]], [[besondere]]
 [[Besonderheit]], [[besondersartig]], [[besonderlich]]\
 
 , [[eignen]], [[geeignet]], [[hervorragend]]
+, [[allgemein]]

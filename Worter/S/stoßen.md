@@ -7,6 +7,8 @@ _Der Wasserball [[stößt]] an Sokkas Speerende und zerplatzt.
 
 _Sokka [[stößt]] ihm mit dem Ende des Speers an den Kopf und Katara schlägt ihn weg._
 
+---
+[[verstoßen]] - [[ver]] = [[stoßen]] / to banish, to exile, to reject
 
 ---
 Synonyme: [[schubsen]], [[drücken]], [[werfen]], [[rempeln]], [[anstoßen]]
@@ -32,4 +34,4 @@ Morpheme: [[stoß]][[en]]
 
 Partizip I: [[stoßend]], Partizip II: [[gestoßen]]
 
-[[ziehen]], [[werfen]], [[schieben]], [[Schubst]], [[abstoßen]], [[stupsen]]
+[[ziehen]], [[werfen]], [[schieben]], [[Schubst]], [[abstoßen]], [[stupsen]], [[verstoßen]]

@@ -31,3 +31,7 @@ Deiser [[Mistkerl]]
 [[unterschätzen]]
 
 [[vorgehen]]
+
+Es sind [[nutzlose]] [[Bemühungen]]
+
+[[festlegen]]

@@ -31,4 +31,4 @@ Morpheme: [[reg]][[el]][[n]]
 
 Partizip I: [[regelnd]], Partizip II: [[geregelt]]
 
-, [[abmachen]]
+, [[abmachen]], [[festlegen]]

@@ -1,1 +1,1 @@
-, [[Todesstrafe]]
+, [[Todesstrafe]], [[strafmündig]], [[Strafgesetz]]

@@ -3,7 +3,8 @@
 haben [[entschieden]]
 
 ---
-Sie denken über jede Kleinigkeit lange nach, [[entscheiden]] sich oft um und beginnen wieder von vorn. 
+119. Wahlen in Deutschland sind frei. Was bedeutet das? (86%)
+	- [x] Jede Person kann ohne Zwang [[entscheiden]], ob sie wählen möchte und wen sie wählen möchte.
 
 242. Wer [[entscheidet]], ob ein Kind in Deutschland in den Kindergarten geht? (98%)
 	- [x] die Eltern / die [[Erziehungsberechtigten]]
@@ -15,8 +16,10 @@ Sie denken über jede Kleinigkeit lange nach, [[entscheiden]] sich oft um und be
 2. In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes [[entscheiden]], ob es in der Schule am … (92%)
 	- [x] [[Religionsunterricht]] teilnimmt.
 
+Sie denken über jede Kleinigkeit lange nach, [[entscheiden]] sich oft um und beginnen wieder von vorn. 
+
 ---
-[[umentscheiden]] - [[um]] = [[entscheiden]]
+[[umentscheiden]] - [[um]] = [[entscheiden]] / change mind
 
 ---
 Synonyme: [[beschließen]], [[festlegen]], [[bestimmen]], [[urteilen]], [[wählen]]

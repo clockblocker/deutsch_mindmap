@@ -2,6 +2,10 @@
 die [[Abgeordneten]]
 
 ---
+232. Wer wird bei der Europawahl gewählt? (85%)
+	- [x] die [[Abgeordneten]] des Europäischen Parlaments
+
+
 13. Im Parlament steht der [[Begriff]] „Opposition“ für… (96%)
 	- [x] alle [[Abgeordneten]], die nicht zu der [[Regierungspartei]]/den Regierungsparteien gehören.
 	- [ ] die Fraktion mit den meisten [[Abgeordneten]].
