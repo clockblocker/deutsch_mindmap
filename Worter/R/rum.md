@@ -1,1 +1,1 @@
-, [[rumzaubern]], [[rumquatschen]]
+, [[rumzaubern]], [[rumquatschen]], [[rumhacken]]

@@ -1,1 +1,1 @@
-, [[Schwierigkeit]], [[Herausforderung]], [[Hürde]]
+, [[Schwierigkeit]], [[Herausforderung]], [[Hürde]], [[behindern]]

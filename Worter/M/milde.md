@@ -1,1 +1,1 @@
-, [[streng]], [[sauer]]
+, [[streng]], [[sauer]], [[Vergebung]]

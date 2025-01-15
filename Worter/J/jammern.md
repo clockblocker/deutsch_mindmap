@@ -1,1 +1,1 @@
-, [[heulen]], [[stöhnen]], [[schreien]]
+, [[heulen]], [[stöhnen]], [[schreien]], [[klagen]]

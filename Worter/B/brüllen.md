@@ -1,6 +1,7 @@
 🐯 [[brüllen]], [ˈbʁʏlən] | [[brüllte]], haben [[gebrüllt]]
 
 ---
+_Hinter einer hohen Schneedüne kommt Appa zum [[Vorschein]]. Er [[brüllt]] und macht [[somit]] auf sich [[aufmerksam]]._
 
 ---
 = [[schreien]], [[grölen]], [[blöken]],  [[rufen]]

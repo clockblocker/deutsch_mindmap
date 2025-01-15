@@ -1,1 +1,1 @@
-, [[treiben]], [[unterstützen]], [[fördern]], [[anregen]]
+, [[treiben]], [[unterstützen]], [[fördern]], [[anregen]], [[behindern]]

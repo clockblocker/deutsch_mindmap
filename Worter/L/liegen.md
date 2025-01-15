@@ -7,6 +7,7 @@ haben [[gelegen]]
 
 ---
 [[unterliegen]] - [[unter]] = [[liegen]] / to be defeated, to submit, to succumb
+[[vorliegen]] - [[vor]] = [[liegen]]        / to be available, to exist, to be present
 
 ---
 Synonyme: [[sich befinden]], [[positioniert sein]], [[ruhen]], [[verweilen]], [[rasten]], [[pausieren]]
@@ -32,4 +33,4 @@ Morpheme: [[lieg]][[en]]
 
 Partizip I: [[liegend]], Partizip II: [[gelegen]]
 
-[[liegen]] - no prefix, [[springen]], [[Lage]], [[Sitz]], [[unterliegen]]
+[[liegen]] - no prefix, [[springen]], [[Lage]], [[Sitz]], [[unterliegen]], [[vorliegen]]

@@ -1,1 +1,1 @@
-, [[Strenge]], [[geduld]]
+, [[Strenge]], [[geduld]], [[Vergebung]]

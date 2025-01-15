@@ -30,4 +30,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[stolz]], [[stolzer]], [[stolze]], [[stolzes]], [[stolzen]], [[stolzem]], [[stolzer]], [[stolzen]]
 [[stolzer]], [[stolzerer]], [[stolzere]], [[stolzeres]], [[stolzeren]], [[stolzerem]], [[stolzerer]], [[stolzeren]]
-[[stolzesten]], [[stolzester]], [[stolzeste]], [[stolzestes]], [[stolzesten]], [[stolzestem]], [[stolzester]], [[stolzesten]]
+[[stolzesten]], [[stolzester]], [[stolzeste]], [[stolzestes]], [[stolzesten]], [[stolzestem]], [[stolzester]], [[stolzesten]], [[Demut]]

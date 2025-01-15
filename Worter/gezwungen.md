@@ -27,4 +27,4 @@ N: [[gezwungenes]], [[gezwungeneres]], [[gezwungenenstes]]
 P: [[gezwungenen]], [[gezwungeneren]], [[gezwungensten]]  
 
 ---
-[[zwingen]], [[Zwang]], [[Zwangslage]], [[unfreiwillig]], [[Zwanghaftigkeit]]
+[[zwingen]], [[Zwang]], [[Zwangslage]], [[unfreiwillig]], [[Zwanghaftigkeit]], [[unterworfen]]

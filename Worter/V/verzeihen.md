@@ -1,1 +1,1 @@
-[[verdammen]], [[gestehen]]
+[[verdammen]], [[gestehen]], [[Vergebung]]

@@ -32,4 +32,4 @@ Morpheme: [[be]][[steh]][[en]]
 
 Partizip I: [[bestehend]], Partizip II: [[bestanden]]
 
-[[bestehen]] - [[be]] = [[stehen]], [[dauern]], [[umentscheiden]], [[verzichten]], [[Führerscheinprüfung]], [[gelten]]
+[[bestehen]] - [[be]] = [[stehen]], [[dauern]], [[umentscheiden]], [[verzichten]], [[Führerscheinprüfung]], [[gelten]], [[vorliegen]]

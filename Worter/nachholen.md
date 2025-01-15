@@ -29,4 +29,4 @@ PI: [[nachholend]], PII: [[nachgeholt]], Zu+inf: [[nachzuholen]]
 [[nachholen]] - [[nach]] = [[holen]] / to catch up, to make up for
 
 ---
-[[Nachholen]], [[Nachholung]], [[Versäumnis]], [[nachtragen]], [[aufholen]]
+[[Nachholen]], [[Nachholung]], [[Versäumnis]], [[nachtragen]], [[aufholen]], [[einholen]]

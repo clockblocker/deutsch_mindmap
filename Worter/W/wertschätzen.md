@@ -1,1 +1,1 @@
-, [[auslachen]], [[wertvoll]], [[beleidigen]], [[respektieren]], [[ehren]]
+, [[auslachen]], [[wertvoll]], [[beleidigen]], [[respektieren]], [[ehren]], [[benachteiligen]]

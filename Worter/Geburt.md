@@ -26,4 +26,4 @@ G: der [[Geburt]], der [[Geburten]]
 D: der [[Geburt]], den [[Geburten]]  
 
 ---
-[[gebären]], [[geboren]], [[Geburtstag]], [[Geburtsort]], [[Geburtstagsfest]], [[Standesamt]]
+[[gebären]], [[geboren]], [[Geburtstag]], [[Geburtsort]], [[Geburtstagsfest]], [[Standesamt]], [[Grab]]

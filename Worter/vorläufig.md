@@ -25,3 +25,4 @@ Neuter: [[vorläufiges]], [[vorläufigeres]], [[vorläufigestes]]
 Plural: [[vorläufigen]], [[vorläufigeren]], [[vorläufigsten]]  
 
 [[Vorläufigkeit]], [[vorläufig sein]]
+, [[vorliegen]]

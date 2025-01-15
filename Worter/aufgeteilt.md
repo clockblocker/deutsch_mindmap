@@ -1,1 +1,1 @@
-🔀 [[aufteilen]], [[Sektor]]
+🔀 [[aufteilen]], [[Sektor]], [[gegliedert]]

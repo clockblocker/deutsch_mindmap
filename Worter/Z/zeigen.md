@@ -8,6 +8,10 @@ ANNA: Hey Sam, komm … Wir [[zeigen]] dir die Wohnung.
 ANNA: Ja, [[zeig]] es uns ‘mal!  
 Ich [[zeig]] es dir!  
 
+181. Was wollte Willy Brandt mit seinem Kniefall 1970 im [[ehemaligen]] jüdischen Ghetto in Warschau [[ausdrücken]]? (81%)
+	- [x] Er bat Polen und die polnischen Juden um [[Vergebung]].
+	- [ ] Er [[zeigte]] seine [[Demut]] vor dem Warschauer Pakt.
+
 Ja – ich [[zeige]] dir, wie man als Fernsehreporter arbeitet.  
 
 [[Gezeigt]] wird das Intro der ersten Folge Wasser, Erde, Feuer Luft.

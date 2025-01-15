@@ -1,1 +1,1 @@
-, [[erleichtern]], [[leichtern]], [[Schwierigkeit]]
+, [[erleichtern]], [[leichtern]], [[Schwierigkeit]], [[behindern]]

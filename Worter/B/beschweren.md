@@ -31,4 +31,4 @@ PI: [[beschwerend]], PII: [[beschwert]], Zu+inf: [[zu beschweren]]
 [[beschweren]] - [[be]] = [[schweren]] / to complain, to protest
 
 ---
-[[Beschwerde]], [[Beschwerung]], [[Beschwerdeführer]], [[beschwerlich]], [[Beschwernis]], [[reklamieren]]
+[[Beschwerde]], [[Beschwerung]], [[Beschwerdeführer]], [[beschwerlich]], [[Beschwernis]], [[reklamieren]], [[klagen]]

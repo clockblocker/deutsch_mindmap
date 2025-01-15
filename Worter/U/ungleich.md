@@ -1,1 +1,1 @@
-, [[unterschiedlich]], [[ungerecht]], [[Einheitliche]], [[Ungleichheit]]
+, [[unterschiedlich]], [[ungerecht]], [[Einheitliche]], [[Ungleichheit]], [[benachteiligen]]

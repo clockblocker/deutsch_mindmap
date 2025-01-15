@@ -1,1 +1,1 @@
-[[stören]]
+[[stören]], [[zerstörten]]

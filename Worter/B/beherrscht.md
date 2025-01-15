@@ -1,1 +1,1 @@
-, [[beherrschen]], [[ungeduldig]]
+, [[beherrschen]], [[ungeduldig]], [[unterworfen]]

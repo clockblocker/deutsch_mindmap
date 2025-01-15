@@ -1,1 +1,1 @@
-, [[regieren]], [[unterliegen]]
+, [[regieren]], [[unterliegen]], [[unterworfen]]

@@ -1,1 +1,1 @@
-, [[Gleichheit]]
+, [[Gleichheit]], [[benachteiligen]]

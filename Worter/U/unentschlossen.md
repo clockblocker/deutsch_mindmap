@@ -1,1 +1,1 @@
-, [[entschlossen]], [[entschließen]]
+, [[entschlossen]], [[entschließen]], [[zaghaft]]

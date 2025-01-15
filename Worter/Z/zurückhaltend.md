@@ -1,1 +1,1 @@
-[[Überheblich]], [[bescheiden]], [[misstrauisch]], [[vollziehenden]]
+[[Überheblich]], [[bescheiden]], [[misstrauisch]], [[vollziehenden]], [[zaghaft]]

@@ -1,1 +1,1 @@
-[[Segen]]
+[[Segen]], [[Vergebung]]

@@ -1,1 +1,1 @@
-, [[garantiert]], [[frustriert]]
+, [[garantiert]], [[frustriert]], [[deprimiert]]

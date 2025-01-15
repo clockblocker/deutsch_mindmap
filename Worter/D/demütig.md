@@ -1,1 +1,1 @@
-[[Überheblich]], [[stolz]], [[bescheiden]]
+[[Überheblich]], [[stolz]], [[bescheiden]], [[Demut]]

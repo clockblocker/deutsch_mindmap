@@ -1,1 +1,1 @@
-[[liebsten]], [[beliebtes]], [[erwünscht]]
+[[liebsten]], [[beliebtes]], [[erwünscht]], [[benachteiligt]]

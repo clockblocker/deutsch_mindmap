@@ -3,7 +3,10 @@
 ---
  „Also, wenn ich nicht [[putzen]] würde, würden wir im [[Dreck]] untergehen!“, sagt Hans. „Das stimmt doch gar nicht“, [[erwidert]] Tanja. 
 
+Äh... ja, in Ordnung Großmutter. *[[Erwidert]] die [[Umarmung]] [[zaghaft]]*
+
 Paul wirft einen Blick auf Lindas Schuhe: „Hast du die [[Wettervorhersage]] für heute nicht gehört? Es soll regnen!“ „Ich habe aber gerne [[nasse]] Füße“, [[erwidert]] Linda nun [[offensichtlich]] genervt.  
+
 „Früher haben wir uns jeden Donnerstag zu einem [[Feierabendbier]] [[getroffen]] …“, [[bemerkt]] Peter. „Aber Donnerstag ist unser Kinoabend …“, [[erwidert]] Leo. 
 
 ---

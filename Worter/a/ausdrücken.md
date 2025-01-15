@@ -3,6 +3,10 @@
 ---
 Oder wie es Elena [[ausdrücken]] würde: „Man kann es ihr nie recht machen!“ Elenas Chefin sucht gerne das Haar in der Suppe. Das heißt natürlich nicht, dass sie jeden Suppenteller nach Haaren [[durchsucht]], [[sondern]] dass sie oft das Schlechte [[hervorhebt]] und dabei viel Gutes [[übersieht]]. 
 
+181. Was wollte Willy Brandt mit seinem Kniefall 1970 im [[ehemaligen]] jüdischen Ghetto in Warschau [[ausdrücken]]? (81%)
+	- [x] Er bat Polen und die polnischen Juden um [[Vergebung]].
+
+
 ---
 Synonyme: [[formulieren]], [[äußern]], [[bekunden]], [[mitteilen]], [[kommunizieren]]
 Antonyme: [[Worter/V/verheimlichen]], [[verschweigen]], [[unterdrücken]]

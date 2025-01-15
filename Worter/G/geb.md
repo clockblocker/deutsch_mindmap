@@ -1,1 +1,1 @@
-[[übergeben]], [[zugeben]], [[geben]], [[aufgeben]], [[umgeben]], [[Ergebnis]], [[ausgeben]], [[Rechercheergbenis]], [[abgeben]], [[Zwischenergebnis]], [[gesetzgebend]]
+[[übergeben]], [[zugeben]], [[geben]], [[aufgeben]], [[umgeben]], [[Ergebnis]], [[ausgeben]], [[Rechercheergbenis]], [[abgeben]], [[Zwischenergebnis]], [[gesetzgebend]], [[Vergebung]]

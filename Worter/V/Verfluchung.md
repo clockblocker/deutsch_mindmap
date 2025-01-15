@@ -1,1 +1,1 @@
-[[Fluch]]
+[[Fluch]], [[Gebet]]

@@ -4,6 +4,8 @@ nicht [[aktuell]]
 ---
 Sie wurde gemeinsam von Historikern und [[ehemaligen]] DDR-Bürgern zusammengestellt.
 
+181. Was wollte Willy Brandt mit seinem Kniefall 1970 im [[ehemaligen]] jüdischen Ghetto in Warschau [[ausdrücken]]? (81%)
+	- [x] Er bat Polen und die polnischen Juden um [[Vergebung]].
 
 ---
 Synonyme: [[früher]], [[vorherig]], [[alt]], [[vergangen]], [[einstig]]

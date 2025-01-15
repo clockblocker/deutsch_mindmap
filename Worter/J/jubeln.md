@@ -27,4 +27,4 @@ PI: [[jubelnd]], PII: [[gejubelt]], Zu+inf: [[zu jubeln]]
 [[jubeln]] / to cheer, to rejoice with enthusiasm
 
 ---
-[[Jubel]], [[Jubilant]], [[Jubiläum]], [[jubelnd]], [[Jubellaut]]
+[[Jubel]], [[Jubilant]], [[Jubiläum]], [[jubelnd]], [[Jubellaut]], [[klagen]]

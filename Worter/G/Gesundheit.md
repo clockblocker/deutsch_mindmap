@@ -1,1 +1,1 @@
-, [[Krankenkasse]], [[Gesundheitsamt]]
+, [[Krankenkasse]], [[Gesundheitsamt]], [[Behinderung]]

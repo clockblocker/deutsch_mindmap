@@ -1,1 +1,1 @@
-, [[stöhnen]]
+, [[stöhnen]], [[klagen]]

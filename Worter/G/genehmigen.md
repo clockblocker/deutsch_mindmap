@@ -1,1 +1,1 @@
-, [[verbieten]], [[erlauben]], [[Genehmigung]], [[Einwilligung]]
+, [[verbieten]], [[erlauben]], [[Genehmigung]], [[Einwilligung]], [[Einverständnis]]

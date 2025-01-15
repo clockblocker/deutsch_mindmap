@@ -3,6 +3,8 @@
 ---
 Normalerweise [[verbindet]] man das Herz mit Liebe und Romantik. Man kann zum Beispiel sein Herz an jemanden verlieren oder jemandem das Herz brechen. Aber was bedeutet es, wenn einem das Herz in die Hose [[rutscht]]?
 
+Aang ist der Avatar. Er ist die einzige Chance für diese Welt. Ihr habt ihn aus guten Gründen gefunden. Und jetzt ist euer Schicksal mit dem seinen [[verbunden]].
+
 132. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
 	- [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
 	- [ ] Sie arbeiten in der [[Bundesregierung]].

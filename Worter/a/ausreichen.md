@@ -27,4 +27,4 @@ PI: [[ausreichend]], PII: [[ausgereicht]], Zu+inf: [[auszureichen]]
 [[ausreichen]] - [[aus]] = [[reichen]] / to be enough, to suffice
 
 ---
-[[Ausreichen]], [[ausreichend]], [[Reichweite]], [[Reichtum]], [[ausreichenderweise]]
+[[Ausreichen]], [[ausreichend]], [[Reichweite]], [[Reichtum]], [[ausreichenderweise]], [[ausreichende]]

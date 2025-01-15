@@ -20,4 +20,4 @@ Morphems:
 [[Hieb]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[rumhacken]]

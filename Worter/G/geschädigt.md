@@ -1,1 +1,1 @@
-, [[verletzt]]
+, [[verletzt]], [[benachteiligt]]

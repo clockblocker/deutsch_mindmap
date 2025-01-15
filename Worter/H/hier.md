@@ -1,4 +1,4 @@
  Er will [[hier]] [[übernachten]] 
 SASCHA: Hey, nein ... [[hier]] gibt es nur ein Schlafzimmer.
 
-[[irgendwo]], [[woanders]], [[herum]], [[bald]]
+[[irgendwo]], [[woanders]], [[herum]], [[bald]], [[hierfür]]

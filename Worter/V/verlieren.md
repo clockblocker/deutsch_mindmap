@@ -7,7 +7,9 @@ MARIA: Prima! Aber die haben mein Gepäck [[verloren]]!
 
  Als die beiden nach zehn Minuten immer noch streiten, [[verliert]] sie die [[Geduld]]: 
  „Also, ich möchte mich ja nicht [[Wortermischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“
- 
+
+Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, kann die [[Regierung]] ihre [[Mehrheit]] [[verlieren]].
+
 ---
 Synonyme: [[einbüßen]], [[preisgeben]], [[aufgeben]], [[wegwerfen]], [[abhandenkommen]]
 Antonyme: [[gewinnen]], [[erhalten]], [[bekommen]], [[finden]]
@@ -33,4 +35,4 @@ Morpheme: [[ver]][[lier]][[en]]
 
 Partizip I: [[verlierend]], Partizip II: [[verloren]]
 
-[[verlieren]] - [[ver]] = [[lieren]], [[haben]], [[retten]], [[kriegen]], [[suchen]], [[gehören]], [[nehm]], [[Lohnen]], [[verdienen]], [[entdeckten]], [[beherrschen]], [[steuere]], [[auffangen]], [[erzielen]], [[abbekommen]], [[schnappen]], [[abnehmen]], [[behalten]], [[befinden]], [[zurückholen]], [[besitzen]], [[besiegen]], [[siegen]], [[Niederlage]], [[unterliegen]]
+[[verlieren]] - [[ver]] = [[lieren]], [[haben]], [[retten]], [[kriegen]], [[suchen]], [[gehören]], [[nehm]], [[Lohnen]], [[verdienen]], [[entdeckten]], [[beherrschen]], [[steuere]], [[auffangen]], [[erzielen]], [[abbekommen]], [[schnappen]], [[abnehmen]], [[behalten]], [[befinden]], [[zurückholen]], [[besitzen]], [[besiegen]], [[siegen]], [[Niederlage]], [[unterliegen]], [[einholen]]

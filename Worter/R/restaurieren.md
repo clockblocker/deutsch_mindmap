@@ -1,1 +1,1 @@
-, [[abreißen]], [[umbauen]]
+, [[abreißen]], [[umbauen]], [[zerstörten]]

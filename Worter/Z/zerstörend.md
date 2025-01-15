@@ -1,1 +1,1 @@
-, [[explodierenden]]
+, [[explodierenden]], [[zerstörten]]

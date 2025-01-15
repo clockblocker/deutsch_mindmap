@@ -1,1 +1,1 @@
-, [[anklagen]], [[Angeklagte]]
+, [[anklagen]], [[Angeklagte]], [[klagen]]

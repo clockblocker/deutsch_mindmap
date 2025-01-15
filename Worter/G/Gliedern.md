@@ -1,1 +1,1 @@
-, [[Glied]]
+[[Glied]], 🏗️ [[gegliedert]]

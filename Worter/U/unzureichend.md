@@ -1,1 +1,1 @@
-[[Schlecht]], [[genug]], [[ausreichen]]
+[[Schlecht]], [[genug]], [[ausreichen]], [[ausreichende]]

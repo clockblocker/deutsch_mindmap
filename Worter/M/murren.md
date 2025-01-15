@@ -1,1 +1,1 @@
-, [[grummeln]], [[seufzen]], [[stöhnen]], [[schnurren]], [[schmollen]]
+, [[grummeln]], [[seufzen]], [[stöhnen]], [[schnurren]], [[schmollen]], [[klagen]]

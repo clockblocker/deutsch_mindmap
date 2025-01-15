@@ -1,1 +1,1 @@
-, [[Opfer]]
+, [[Opfer]], [[benachteiligt]]

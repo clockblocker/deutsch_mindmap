@@ -29,7 +29,7 @@ Morpheme: [[geb]][[en]]
 | Du        | [[gibst]]            | [[gabst]]             | [[gib]]           | [[gebest]]             | [[gäbest]]              |
 | Er/sie/es | [[gibt]]             | [[gab]]               | -                 | [[gebe]]               | [[gäbe]]                |
 | Wir       | [[geben]]            | [[gaben]]             | -                 | [[geben]]              | [[gäben]]               |
-| Ihr       | [[gebt]]             | [[gabt]]              | [[gebt]]          | [[gebet]]              | [[gäbet]]               |
+| Ihr       | [[gebt]]             | [[gabt]]              | [[gebt]]          | [[Gebet]]              | [[gäbet]]               |
 | Sie       | [[geben]]            | [[gaben]]             | [[geben Sie]]     | [[geben]]              | [[gäben]]               |
 
 Partizip I: [[gebend]], Partizip II: [[gegeben]]

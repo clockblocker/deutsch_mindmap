@@ -23,4 +23,4 @@ Verwendungen:
 - Als Zusatz zu Bitten und Anfragen
 
 ---
-[[Bitte]], [[Bittschrift]], [[Bittgang]], [[Bittsteller]], [[ablehnen]], [[schmieren]], [[Aufruf]], [[anflehen]]
+[[Bitte]], [[Bittschrift]], [[Bittgang]], [[Bittsteller]], [[ablehnen]], [[schmieren]], [[Aufruf]], [[anflehen]], [[Gebet]]

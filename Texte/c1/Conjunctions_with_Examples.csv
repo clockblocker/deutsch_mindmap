@@ -1,0 +1,71 @@
+Conjunction,Type,Example
+und,CCONJ,Ich mag Äpfel und Orangen.
+oder,CCONJ,Möchtest du Tee oder Kaffee?
+aber,CCONJ,"Ich bin müde, aber ich gehe spazieren."
+denn,CCONJ,"Ich habe Hunger, denn ich habe nichts gegessen."
+sondern,CCONJ,"Das ist kein Hund, sondern eine Katze."
+doch,CCONJ,"Es regnet, doch wir gehen spazieren."
+beziehungsweise,CCONJ,Wir treffen uns morgen beziehungsweise übermorgen.
+wie,CCONJ,Er ist groß wie sein Vater.
+sowie,CCONJ,Er hat das Buch sowie den Film genossen.
+entweder,CCONJ,"Entweder du kommst mit, oder du bleibst hier."
+weder,CCONJ,Weder das Essen noch der Service waren gut.
+noch,CCONJ,Er hat weder Zeit noch Geld.
+sowohl,CCONJ,Sie spricht sowohl Englisch als auch Französisch.
+als auch,CCONJ,Er mag sowohl Katzen als auch Hunde.
+respektive,CCONJ,"Die Ergebnisse sind gut, respektive hervorragend."
+aber auch,CCONJ,"Ich mag Bücher, aber auch Filme."
+dennoch,CCONJ,"Er war müde, dennoch arbeitete er weiter."
+doch auch,CCONJ,"Es ist kalt, doch auch sonnig."
+allerdings,CCONJ,"Das Konzert war gut, allerdings etwas laut."
+außerdem,CCONJ,Außerdem war das Essen fantastisch.
+gleichwohl,CCONJ,Gleichwohl bleibt er optimistisch.
+jedoch,CCONJ,"Es war ein gutes Angebot, jedoch zu teuer."
+zumal,CCONJ,"Wir bleiben hier, zumal es regnet."
+indes,CCONJ,Indes blieb er still.
+hingegen,CCONJ,"Er war müde, sie hingegen war wach."
+sonst,CCONJ,"Beeil dich, sonst verpassen wir den Zug."
+entweder ... oder,CCONJ,No example available.
+weil,SCONJ,"Ich bleibe zu Hause, weil es regnet."
+dass,SCONJ,"Er sagt, dass er kommt."
+wenn,SCONJ,"Wenn es regnet, bleiben wir drinnen."
+ob,SCONJ,"Ich weiß nicht, ob er kommt."
+als,SCONJ,"Als ich ankam, war er schon da."
+bevor,SCONJ,"Bevor du gehst, ruf mich an."
+nachdem,SCONJ,"Nachdem er gegessen hatte, ging er spazieren."
+obwohl,SCONJ,"Obwohl es regnet, gehen wir raus."
+seit,SCONJ,"Seit ich hier wohne, habe ich viele Freunde gefunden."
+sobald,SCONJ,"Sobald er ankommt, beginnen wir."
+während,SCONJ,"Während ich lese, höre ich Musik."
+damit,SCONJ,"Ich mache das, damit du zufrieden bist."
+falls,SCONJ,"Falls es regnet, bleiben wir zu Hause."
+bis,SCONJ,"Warte hier, bis ich zurückkomme."
+ehe,SCONJ,"Ehe er schlafen geht, liest er ein Buch."
+obgleich,SCONJ,"Obgleich er müde war, machte er weiter."
+obschon,SCONJ,"Obschon es spät war, blieb sie wach."
+indem,SCONJ,"Indem er lernt, verbessert er sich."
+solange,SCONJ,"Solange du hier bist, bist du sicher."
+sofern,SCONJ,"Sofern es nicht regnet, gehen wir spazieren."
+wie,SCONJ,Er ist groß wie sein Vater.
+als ob,SCONJ,No example available.
+als wenn,SCONJ,No example available.
+so dass,SCONJ,"Er arbeitete hart, so dass er Erfolg hatte."
+wohingegen,SCONJ,"Er ist optimistisch, wohingegen sie pessimistisch ist."
+wann,SCONJ,"Ich weiß nicht, wann er kommt."
+warum,SCONJ,"Erklär mir, warum du das getan hast."
+wieso,SCONJ,Wieso bist du spät dran?
+weshalb,SCONJ,"Ich frage mich, weshalb er gegangen ist."
+weswegen,SCONJ,"Das ist der Grund, weswegen wir hier sind."
+weil,SCONJ,"Ich bleibe zu Hause, weil es regnet."
+obwohl,SCONJ,"Obwohl es regnet, gehen wir raus."
+anstatt dass,SCONJ,No example available.
+sobald wie,SCONJ,No example available.
+gerade als,SCONJ,No example available.
+eben als,SCONJ,No example available.
+nachdem,SCONJ,"Nachdem er gegessen hatte, ging er spazieren."
+während dass,SCONJ,No example available.
+da,SCONJ,No example available.
+wenn auch,SCONJ,No example available.
+wie wenn,SCONJ,"Er redet, wie wenn er alles wüsste."
+seitdem,SCONJ,"Seitdem ich ihn kenne, sind wir Freunde."
+"ungeachtet dessen, dass",SCONJ,No example available.

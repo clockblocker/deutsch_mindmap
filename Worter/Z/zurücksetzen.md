@@ -1,1 +1,1 @@
-, [[höherstellen]]
+, [[höherstellen]], [[benachteiligt]], [[benachteiligen]]

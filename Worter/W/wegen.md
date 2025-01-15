@@ -1,5 +1,8 @@
 [[wegen]] meiner Krankheit arbeite ich nicht. 
 
+262. Was bedeutet in Deutschland der Grundsatz der [[Gleichbehandlung]]? (82%)
+	- [x] Niemand darf z.B. [[wegen]] einer [[Behinderung]] [[benachteiligt]] werden.
+
 ---
 [[bewegen]] - [[be]] = [[wegen]]
 

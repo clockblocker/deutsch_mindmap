@@ -44,3 +44,4 @@ Plural: [[gereichten]], [[gereichteren]], [[gereichtetsten]]
 
 ---
 [[Reichweite]], [[unerreichbar]], [[Reichtum]], [[erreichbar]], [[Erreichbarkeit]]
+, [[ausreichende]]

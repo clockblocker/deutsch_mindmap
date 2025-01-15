@@ -1,3 +1,24 @@
+98. Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, ... (81%)
+	- [x] kann die [[Regierung]] ihre [[Mehrheit]] [[verlieren]].
+	- [ ] dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.
+	- [ ] muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr [[Einverständnis]] geben.
+	- [ ] dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen.
+
+
+163. In welchem Jahr [[zerstörten]] die Nationalsozialisten Synagogen und jüdische [[Geschäfte]] in Deutschland? (81%)
+	- [ ] 1925
+	- [ ] 1930
+	- [x] 1938
+	- [ ] 1945
+
+
+162. Claus Schenk Graf von Stauffenberg wurde bekannt durch … (82%)
+	- [ ] eine Goldmedaille bei den Olympischen Spielen 1936.
+	- [ ] den Bau des Reichstagsgebäudes.
+	- [ ] den Aufbau der Wehrmacht.
+	- [x] das Attentat auf Hitler am 20. Juli 1944.
+
+
 156. In welchem Jahr wurde Hitler Reichskanzler? (82%)
 	- [ ] 1923
 	- [ ] 1927

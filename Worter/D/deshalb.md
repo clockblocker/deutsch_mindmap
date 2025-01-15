@@ -30,4 +30,4 @@ Morpheme:
 
 ---
 
-, [[sterben]], [[bald]], [[CONNECTOR]], [[dadurch]], [[somit]]
+, [[sterben]], [[bald]], [[CONNECTOR]], [[dadurch]], [[somit]], [[hierfür]]

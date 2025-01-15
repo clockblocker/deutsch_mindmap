@@ -1,1 +1,1 @@
-, [[Diskriminierung]], [[Gleichbehandlung]]
+, [[Diskriminierung]], [[Gleichbehandlung]], [[benachteiligt]], [[benachteiligen]]

@@ -24,4 +24,4 @@ G: der [[Diskriminierung]], der [[Diskriminierungen]]
 D: der [[Diskriminierung]], den [[Diskriminierungen]]  
 
 ---
-[[diskriminieren]], [[diskriminatorisch]], [[antidiskriminatorisch]], [[Diskriminierungsverbot]], [[Gleichbehandlung]], [[Gleichheit]]
+[[diskriminieren]], [[diskriminatorisch]], [[antidiskriminatorisch]], [[Diskriminierungsverbot]], [[Gleichbehandlung]], [[Gleichheit]], [[benachteiligen]]

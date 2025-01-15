@@ -4,6 +4,7 @@ die [[Mehrheiten]]
 nicht [[Minderheit]]
 
 ---
+Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, kann die [[Regierung]] ihre [[Mehrheit]] [[verlieren]].
 
 
 ---

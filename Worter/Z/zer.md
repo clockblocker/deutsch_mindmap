@@ -1,1 +1,1 @@
-, [[zerstreut]], [[zerplatzen]], [[streuen]], [[zerstreuen]], [[zerbrechen]]
+, [[zerstreut]], [[zerplatzen]], [[streuen]], [[zerstreuen]], [[zerbrechen]], [[zerstörten]]
