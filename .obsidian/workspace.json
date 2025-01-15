@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Einbuergerungstest/211-240.md",
+                "file": "Texte/Einbuergerungstest/done/211-240.md",
                 "mode": "source",
                 "source": false
               },
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Einbuergerungstest/211-240.md"
+                "file": "Texte/Einbuergerungstest/done/211-240.md"
               },
               "icon": "lucide-list",
               "title": "Outline of 211-240"
@@ -276,7 +276,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0672017c738151ae",
+  "active": "d0dd1351b59a3225",
   "lastOpenFiles": [
     "Worter/F/Festlegung.md",
     "Worter/Oder-Neiße-Linie.md",
@@ -302,7 +302,7 @@
     "Worter/D/Definition.md",
     "Worter/F/Festsetzung.md",
     "Worter/F/Festlegungen.md",
-    "Texte/Einbuergerungstest/211-240.md",
+    "Texte/Einbuergerungstest/done/211-240.md",
     "Worter/V/Verpflichtung.md",
     "Texte/c1/Complete_Exhaustive_Pronouns_List.csv",
     "Texte/c1/Exhaustive_Pronouns_List.csv",
