@@ -1,0 +1,1 @@
+, [[Merkmal]], [[kennzeichnen]]

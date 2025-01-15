@@ -35,4 +35,4 @@ Zu+infinitive: [[zu leisten]]
 ---
 [[Leistung]], [[Leistungsträger]], [[Leistungsfähigkeit]], [[Leistungssport]], [[Selbstleistung]]
 
-, [[vorstellen]], [[anlegen]]
+, [[vorstellen]], [[anlegen]], [[Reparationsleistung]]

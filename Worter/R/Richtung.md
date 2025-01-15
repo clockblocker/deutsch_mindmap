@@ -35,4 +35,4 @@ Einzigartige mögliche Formen:
 [[Richtung]], [[Richtungern]]
 
 ---
-#Substantiv #Maskulin, [[zusteuern]]
+#Substantiv #Maskulin, [[zusteuern]], [[östlich]]

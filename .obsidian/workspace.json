@@ -4,91 +4,133 @@
     "type": "split",
     "children": [
       {
-        "id": "fbcc28465df412a9",
+        "id": "52ff466a5bc8dbe1",
         "type": "tabs",
         "children": [
           {
-            "id": "38cc4d0a1c7b3a81",
+            "id": "0672017c738151ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Avatar/s1 e2.md",
+                "file": "Texte/Einbuergerungstest/211-240.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s1 e2"
+              "title": "211-240"
             }
           },
           {
-            "id": "b34124f4030bfaaf",
+            "id": "b061cec55ee9256d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Vorschein.md",
+                "file": "Worter/Reparationsleistung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vorschein"
+              "title": "Reparationsleistung"
             }
           },
           {
-            "id": "9cc6c18830c24d06",
+            "id": "5e23dd7a033a9a3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/B/brüllt.md",
+                "file": "Worter/Reparationsleistungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brüllt"
+              "title": "Reparationsleistungen"
             }
           },
           {
-            "id": "ed07799661f91812",
+            "id": "3d8dd9500ce70265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/B/brüllen.md",
+                "file": "Worter/Interessenverband.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brüllen"
+              "title": "Interessenverband"
             }
           },
           {
-            "id": "b7c0ce3ac68b25b8",
+            "id": "09047b720de912e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/S/somit.md",
+                "file": "Worter/östlichen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "somit"
+              "title": "östlichen"
             }
           },
           {
-            "id": "31eea75de9927144",
+            "id": "a92dc7ec1ae67978",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/rumhacken.md",
+                "file": "Worter/B/besetzt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rumhacken"
+              "title": "besetzt"
+            }
+          },
+          {
+            "id": "e795053d67d3fb07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/kennzeichnen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kennzeichnen"
+            }
+          },
+          {
+            "id": "327854cc93380c32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Wirtschaftsform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wirtschaftsform"
+            }
+          },
+          {
+            "id": "b7a18bffc33eab05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Meinungsäußerung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meinungsäußerung"
             }
           }
         ]
@@ -208,10 +250,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Avatar/s1 e2.md"
+                "file": "Texte/Einbuergerungstest/211-240.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of s1 e2"
+              "title": "Outline of 211-240"
             }
           }
         ],
@@ -219,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,44 +276,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d0dd1351b59a3225",
+  "active": "0672017c738151ae",
   "lastOpenFiles": [
+    "Worter/F/Festlegung.md",
+    "Worter/Oder-Neiße-Linie.md",
+    "Worter/Ostgrenze.md",
+    "Worter/O/Ostland.md",
+    "Worter/G/Grenzschutz.md",
+    "Worter/O/Ost.md",
+    "Worter/I/Innengrenze.md",
+    "Worter/B/Binnengrenze.md",
+    "Worter/W/Westgrenze.md",
+    "Worter/O/Ostrand.md",
+    "Worter/Ö/östliche Grenze.md",
+    "Worter/O/Ostgrenzen.md",
+    "Worter/G/Geographie.md",
+    "Worter/N/Nachkriegszeit.md",
+    "Worter/N/Neiße.md",
+    "Worter/D/Durchlässige Grenze.md",
+    "Worter/O/Offene Grenze.md",
+    "Worter/G/Geopolitische Grenze.md",
+    "Worter/G/Grenzstreifen.md",
+    "Worter/S/Staatsgrenze.md",
+    "Worter/O/Oder-Neiße-Linien.md",
+    "Worter/D/Definition.md",
+    "Worter/F/Festsetzung.md",
+    "Worter/F/Festlegungen.md",
+    "Texte/Einbuergerungstest/211-240.md",
+    "Worter/V/Verpflichtung.md",
     "Texte/c1/Complete_Exhaustive_Pronouns_List.csv",
     "Texte/c1/Exhaustive_Pronouns_List.csv",
     "Texte/c1/Conjunctions_with_Examples.csv",
     "Texte/c1/Final_Extended_CCONJ_SCONJ_list.csv",
     "Texte/c1/Extended_CCONJ_SCONJ_list2.csv",
     "Texte/c1/CCONJ_SCONJ_list.csv",
-    "Worter/Vorschein.md",
-    "Worter/B/brüllt.md",
-    "Worter/B/brüllen.md",
-    "Texte/Avatar/s1 e2.md",
-    "Worter/S/somit.md",
-    "Worter/A/aufmerksam.md",
-    "Worter/A/Aufmerksamkeitsdefizit.md",
-    "Worter/A/aufmerksam machen.md",
-    "Worter/A/aufmerken.md",
-    "Worter/A/Aufmerksamkeit.md",
-    "Worter/A/aufmerksamstes.md",
-    "Worter/A/aufmerksameres.md",
-    "Worter/A/aufmerksames.md",
-    "Worter/A/aufmerksamste.md",
-    "Worter/A/aufmerksamere.md",
-    "Worter/A/aufmerksame.md",
-    "Worter/A/aufmerksamstem.md",
-    "Worter/A/aufmerksamem.md",
-    "Worter/A/aufmerksamer.md",
-    "Worter/A/aufmerksamsten.md",
-    "Worter/A/aufmerksameren.md",
-    "Worter/A/aufmerksamen.md",
-    "Worter/A/aufmerksamster.md",
-    "Worter/A/aufmerksamerer.md",
-    "Worter/H/hervorscheinen.md",
     "Texte/Einbuergerungstest/done",
     "Texte/c1/processed_german_words.json",
     "Texte/c1/processed_german_text1.txt",
     "Texte/c1/processed_german_text.txt",
-    "verfassung_dwds.html",
     "Anhänge/Pasted image 20250102085715.png",
     "Anhänge/Pasted image 20250102085702.png",
     "Anhänge/Pasted image 20250102085701.png",

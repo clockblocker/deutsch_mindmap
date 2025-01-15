@@ -3,6 +3,10 @@
 ---
 Wie wird der [[Beitritt]] der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein [[genannt]]? 
 
+204. Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat? (79%)
+	- [ ] Die Bundesrepublik Deutschland hat die DDR [[besetzt]].
+	- [x] Die heutigen fünf [[östlichen]] Bundesländer sind der Bundesrepublik Deutschland [[beigetreten]].
+
 ---
 = [[anschließen]], [[dazustoßen]], [[hinzukommen]]
 ≈ [[teilnehmen]], [[mitwirken]], [[mitmachen]]

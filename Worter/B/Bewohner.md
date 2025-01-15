@@ -31,4 +31,4 @@ Einzigartige mögliche Formen:
 Grammatikalische Besonderheiten:
 - Kann sowohl für männliche als auch für weibliche Personen verwendet werden
 - Meist im Plural verwendet
-- Abgeleitet vom Verb [[bewohnen]], [[Bevölkerung]]
+- Abgeleitet vom Verb [[bewohnen]], [[Bevölkerung]], [[Passant]]

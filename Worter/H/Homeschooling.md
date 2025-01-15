@@ -1,1 +1,1 @@
-, [[Schulpflicht]]
+, [[Schulpflicht]], [[Schulwesen]]

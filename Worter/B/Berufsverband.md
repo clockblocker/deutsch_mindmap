@@ -1,1 +1,1 @@
-, [[Gewerkschaft]]
+, [[Gewerkschaft]], [[Interessenverband]]

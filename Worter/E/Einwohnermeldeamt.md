@@ -23,7 +23,7 @@ die [[Einwohnermeldeämter]]
 residents' registration office, municipal registration office
 
 ---
-[[Ein]]|[[wohner]]|[[melde]]|[[amt]]
+[[Ein]]|[[wohner]]|[[melde]]|[[Amt]]
 
 ---
 N: das [[Einwohnermeldeamt]], die [[Einwohnermeldeämter]]  

@@ -29,4 +29,4 @@ PI: [[begehend]], PII: [[begangen]], Zu+inf: [[zu begehen]]
 [[begehen]] - [[be]] = [[gehen]] / to commit, to carry out
 
 ---
-[[Begehung]], [[Vergehen]], [[Fehler]], [[Tat]], [[begangen]]
+[[Begehung]], [[Vergehen]], [[Fehler]], [[Tat]], [[begangen]], [[feiern]]

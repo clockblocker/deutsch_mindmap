@@ -2,6 +2,12 @@
 die [[Gerichte]]
 
 ---
+80. Welches [[Gericht]] in Deutschland ist [[zuständig]] für die [[Auslegung]] des Grundgesetzes? (79%)
+	- [ ] [[Oberlandesgericht]]
+	- [ ] [[Amtsgericht]]
+	- [x] [[Bundesverfassungsgericht]]
+	- [ ] [[Verwaltungsgericht]]
+
 146. Wie nennt man in Deutschland ein [[Verfahren]] vor einem [[Gericht]]? (91%)
 	- [x] [[Prozess]]
 

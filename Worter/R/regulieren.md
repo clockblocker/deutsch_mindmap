@@ -1,1 +1,1 @@
-, [[einstellen]], [[mitteln]]
+, [[einstellen]], [[mitteln]], [[einschränken]]

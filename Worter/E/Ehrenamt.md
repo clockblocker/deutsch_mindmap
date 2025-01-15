@@ -18,7 +18,7 @@ die [[Ehrenämter]]
 voluntary work, honorary office
 
 ---
-[[ehren]]|[[amt]]
+[[ehren]]|[[Amt]]
 
 ---
 N: das [[Ehrenamt]], die [[Ehrenämter]]  

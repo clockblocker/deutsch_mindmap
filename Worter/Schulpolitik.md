@@ -22,4 +22,4 @@ G: der [[Schulpolitik]], der [[Schulpolitiken]]
 D: der [[Schulpolitik]], den [[Schulpolitiken]]  
 
 ---
-[[Schule]], [[Politik]], [[schulpolitisch]], [[Bildungspolitik]], [[Schulreform]]
+[[Schule]], [[Politik]], [[schulpolitisch]], [[Bildungspolitik]], [[Schulreform]], [[Schulwesen]]

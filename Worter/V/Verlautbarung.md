@@ -1,1 +1,1 @@
-, [[lauten]]
+, [[lauten]], [[Meinungsäußerung]]

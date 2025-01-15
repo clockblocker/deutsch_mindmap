@@ -27,4 +27,4 @@ G: der [[Leistung]], der [[Leistungen]]
 D: der [[Leistung]], den [[Leistungen]]  
 
 ---
-[[leisten]], [[leistungsfähig]], [[leistungsstark]], [[Leistungssport]], [[leistungsorientiert]]
+[[leisten]], [[leistungsfähig]], [[leistungsstark]], [[Leistungssport]], [[leistungsorientiert]], [[Reparationsleistung]]

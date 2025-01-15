@@ -1,1 +1,1 @@
-, [[Osterweiterung]]
+, [[Osterweiterung]], [[östlich]]

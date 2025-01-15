@@ -1,1 +1,1 @@
-, [[verbinden]], [[Unternehmerverband]], [[Zusammenschluss]], [[Gewerkschaft]]
+, [[verbinden]], [[Unternehmerverband]], [[Zusammenschluss]], [[Gewerkschaft]], [[Interessenverband]]

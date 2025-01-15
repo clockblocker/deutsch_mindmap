@@ -1,1 +1,1 @@
-, [[bemerken]], [[merken]], [[aufmerksam]]
+, [[bemerken]], [[merken]], [[aufmerksam]], [[Merkmal]]

@@ -1,1 +1,1 @@
-, [[anreißen]], [[prägen]]
+, [[anreißen]], [[prägen]], [[kennzeichnen]]

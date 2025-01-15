@@ -1,1 +1,1 @@
-, [[Art]], [[Gestalt]], [[Lebensform]]
+, [[Art]], [[Gestalt]], [[Lebensform]], [[Wirtschaftsform]], [[Inhalt]]

@@ -1,1 +1,1 @@
-, [[Pflicht]], [[Aufgabe]]
+, [[Pflicht]], [[Aufgabe]], [[Verpflichtung]]

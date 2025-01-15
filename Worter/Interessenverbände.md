@@ -1,0 +1,1 @@
+🔵 🤝 der [[Interessenverband]], [ˈɪntʁəsənfɛɐ̯ˌbant]

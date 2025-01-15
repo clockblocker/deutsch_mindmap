@@ -1,1 +1,1 @@
-, [[Fremde]], [[Gastarbeiter]], [[Einwanderer]], [[Migrant]]
+, [[Fremde]], [[Gastarbeiter]], [[Einwanderer]], [[Migrant]], [[Passant]]

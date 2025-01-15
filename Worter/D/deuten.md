@@ -43,4 +43,4 @@ Morpheme: [[deut]][[en]]
 
 Partizip I: [[deutend]], Partizip II: [[gedeutet]]
 
-, [[Deutung]], [[deutlich]]
+, [[Deutung]], [[deutlich]], [[Auslegung]]

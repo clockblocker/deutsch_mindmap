@@ -1,1 +1,1 @@
-, [[Grenze]], [[Grenz]]
+, [[Grenze]], [[Grenz]], [[Oder-Neiße-Linie]], [[Ostgrenze]]

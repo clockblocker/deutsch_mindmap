@@ -1,1 +1,1 @@
-, [[Meinung]], [[Meinungsfreiheit]]
+, [[Meinung]], [[Meinungsfreiheit]], [[Meinungsäußerung]]

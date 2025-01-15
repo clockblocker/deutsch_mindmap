@@ -24,7 +24,7 @@ municipal administrative office, local regulatory authority
 
 ---
 [[Ordnung]]+[[Amt]]
-[[Ord]]|[[nung]]|[[s]]|[[amt]]
+[[Ord]]|[[nung]]|[[s]]|[[Amt]]
 
 ---
 N: das [[Ordnungsamt]], die [[Ordnungsämter]]  

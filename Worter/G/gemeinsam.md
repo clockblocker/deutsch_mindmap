@@ -32,4 +32,4 @@ Einzigartige mögliche Formen:
 
 
 [[vereint]], [[einzelnen]], [[aneinander]], [[zu zweit]]
-, [[Gemeinde]]
+, [[Gemeinde]], [[einzelne]]

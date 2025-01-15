@@ -1,11 +1,11 @@
 🗣️ [[äußern]], [ˈɔʏ̯sɐn] | [[äußerte]], haben [[geäußert]]
 
 ---
+🗣️ die [[Meinungsäußerung]],
+
 51. Zu einem demokratischen Rechtsstaat gehört es nicht, dass … (88%)
 	- [ ] Menschen sich kritisch über die [[Regierung]] [[äußern]] können.
-	- [ ] Bürger friedlich demonstrieren gehen dürfen.
 	- [x] Menschen von einer [[Privatpolizei]] ohne Grund [[verhaftet]] werden.
-	- [ ] jemand ein [[Verbrechen]] begeht und deshalb [[verhaftet]] wird.
 
 ---
 = [[ausdrücken]], [[mitteilen]], [[kundtun]]
@@ -31,4 +31,4 @@ PI: [[äußernd]], PII: [[geäußert]], Zu+inf: [[zu äußern]]
 [[äußern]] - [[äu]] = [[ßer]] / to express, to utter, to voice
 
 ---
-[[Äußerung]], [[äußerlich]], [[außern]], [[Außerung]], [[unäußerlich]], [[verhaften]]
+[[Äußerung]], [[äußerlich]], [[außern]], [[Außerung]], [[unäußerlich]], [[verhaften]], [[Meinungsäußerung]]

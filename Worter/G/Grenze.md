@@ -25,4 +25,4 @@ D: der [[Grenze]], den [[Grenzen]]
 ---
 [[grenzen]], [[grenzelos]], [[grenzwertig]], [[Grenzfall]], [[Grenzgebiet]], [[Grenzwert]]
 , [[rand]], [[Zaun]], [[Zulassungsgrenze]]
-, [[begrenzen]], [[begrenzt]]
+, [[begrenzen]], [[begrenzt]], [[Oder-Neiße-Linie]], [[Ostgrenze]]

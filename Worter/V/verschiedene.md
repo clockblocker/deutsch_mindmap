@@ -4,6 +4,8 @@ nicht [[gleich]], nicht [[einheitlich]]
 ---
 ... wie zwei ganz verschiedene Leute!  
 
+30. Was ist kein [[Merkmal]] unserer Demokratie? (80%)
+	- [ ] [[verschiedene]] Parteien
 
 ---
 Synonyme: [[unterschiedlich]], [[diversen]], [[diverse]], [[verschiedenartig]], [[mannigfaltig]], [[vielfältig]]

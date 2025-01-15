@@ -33,3 +33,4 @@ Zu+infinitive: [[zu bezeichnen]]
 [[Bezeichnung]], [[Bezeichner]], [[Bezeichnerin]], [[Selbstbezeichnung]], [[Ortsbezeichnung]], [[Begriffsbezeichnung]]
 
 [[heißen]], [[nennen]]
+, [[kennzeichnen]]

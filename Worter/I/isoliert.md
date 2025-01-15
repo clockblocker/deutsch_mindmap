@@ -1,1 +1,1 @@
-[[getrennt]], [[aneinander]], [[einsam]]
+[[getrennt]], [[aneinander]], [[einsam]], [[einzelne]]

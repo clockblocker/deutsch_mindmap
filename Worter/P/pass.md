@@ -1,1 +1,1 @@
-, [[passen]], [[passieren]], [[Ferienpass]], [[Reisepass]]
+, [[passen]], [[passieren]], [[Ferienpass]], [[Reisepass]], [[Passant]]

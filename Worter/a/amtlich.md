@@ -1,1 +1,1 @@
-, [[Amtssitz]], [[Behörde]], [[Ordnungsamt]], [[Schulamt]], [[Gesundheitsamt]], [[Amtsgericht]]
+, [[Amtssitz]], [[Behörde]], [[Ordnungsamt]], [[Schulamt]], [[Gesundheitsamt]], [[Amtsgericht]], [[Amt]]

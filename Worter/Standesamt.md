@@ -18,7 +18,7 @@ die [[Standesämter]]
 registry office, civil registry, vital records office
 
 ---
-[[Standes]]|[[amt]]
+[[Standes]]|[[Amt]]
 
 ---
 N: das [[Standesamt]], die [[Standesämter]]  

@@ -1,1 +1,1 @@
-, [[verkürzen]], [[begrenzen]]
+, [[verkürzen]], [[begrenzen]], [[einschränken]]

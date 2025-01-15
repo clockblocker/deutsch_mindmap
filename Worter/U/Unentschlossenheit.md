@@ -1,1 +1,1 @@
-, [[Beschluss]], [[Willenskraft]]
+, [[Beschluss]], [[Willenskraft]], [[Festlegung]]

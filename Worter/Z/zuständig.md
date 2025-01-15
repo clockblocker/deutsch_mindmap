@@ -4,6 +4,12 @@ nicht [[unzuständig]]
 ---
 Meine Kusine, Ihre Vermieterin, hat diese Woche Urlaub - also bin ich [[zuständig]]
 
+80. Welches [[Gericht]] in Deutschland ist [[zuständig]] für die [[Auslegung]] des Grundgesetzes? (79%)
+	- [ ] [[Oberlandesgericht]]
+	- [ ] [[Amtsgericht]]
+	- [x] [[Bundesverfassungsgericht]]
+	- [ ] [[Verwaltungsgericht]]
+
 137. Welches [[Gericht]] ist in Deutschland bei [[Konflikten]] in der [[Arbeitswelt]] [[zuständig]]? (93%)
 	- [x] das [[Arbeitsgericht]]
 

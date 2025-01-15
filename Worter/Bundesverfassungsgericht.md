@@ -4,10 +4,10 @@ die [[Bundesverfassungsgerichte]]
 ---
 52. Was bedeutet „[[Volkssouveränität]]“? Alle Staatsgewalt [[ausgehen|geht]] vom … (85%)
 	- [x] Volke aus.
-	- [ ] Bundestag aus.
-	- [ ] [[preußischen]] König aus.
 	- [ ] [[Bundesverfassungsgericht]] aus.
 
+80. Welches [[Gericht]] in Deutschland ist [[zuständig]] für die [[Auslegung]] des Grundgesetzes? (79%)
+	- [x] [[Bundesverfassungsgericht]]
 
 ---
 = [[Verfassungsorgan]], [[Verfassungsgericht]], [[Höchstgericht]]

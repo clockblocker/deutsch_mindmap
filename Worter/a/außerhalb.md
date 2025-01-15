@@ -26,4 +26,4 @@ Grammatikalische Besonderheiten:
 - Bezeichnet räumliche oder metaphorische Grenzen
 - Kann sowohl konkret als auch abstrakt verwendet werden
 
-Hinweis: Nicht zu verwechseln mit [[innerhalb]], welches das Gegenteil bedeutet.
+Hinweis: Nicht zu verwechseln mit [[innerhalb]], welches das Gegenteil bedeutet., [[auswärtig]]

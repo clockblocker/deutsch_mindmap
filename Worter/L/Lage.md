@@ -24,4 +24,4 @@ Einzigartige mögliche Formen:
 ---
 #Substantiv #Feminin #Geographie #Alltagssprache
 
-, [[befinden]], [[legen]], [[Niederlage]]
+, [[befinden]], [[legen]], [[Niederlage]], [[Umstand]]

@@ -17,8 +17,8 @@ die [[Gesundheitsämter]]
 public health department, health office
 
 ---
-[[Gesund­heits]]+[[amt]]
-[[Ge]]|[[sund]]|[[heits]]|[[amt]]
+[[Gesund­heits]]+[[Amt]]
+[[Ge]]|[[sund]]|[[heits]]|[[Amt]]
 
 ---
 N: das [[Gesundheitsamt]], die [[Gesundheitsämter]]  

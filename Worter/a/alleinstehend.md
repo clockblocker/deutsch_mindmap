@@ -1,1 +1,1 @@
-, [[einziger]], [[verheiratet]], [[alleinerziehend]]
+, [[einziger]], [[verheiratet]], [[alleinerziehend]], [[einzelne]]

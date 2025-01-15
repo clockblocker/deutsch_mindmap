@@ -1,1 +1,3 @@
-, [[leer]], [[bemannt]], [[voll]], [[besetzen]]
+[[besetzen]]
+
+, [[leer]], [[bemannt]], [[voll]], 

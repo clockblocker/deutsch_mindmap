@@ -4,4 +4,4 @@ ANNA: Ich bin Studentin! Das ist zu [[teuer]] für mich.
 
 
 Guter wein ist [[teuer]]
-, [[billig]], [[kostenlos]]
+, [[billig]], [[kostenlos]], [[kostengünstig]]

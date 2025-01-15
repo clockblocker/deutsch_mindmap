@@ -1,1 +1,1 @@
-, [[erkennen]], [[Personalausweis]], [[Sozialversicherungsausweis]]
+, [[erkennen]], [[Personalausweis]], [[Sozialversicherungsausweis]], [[kennzeichnen]]

@@ -28,4 +28,4 @@ Dative: der [[Entscheidung]], den [[Entscheidungen]]
 
 
 , [[Auswahl]], [[entschließen]]
-, [[beschließen]], [[Rat]], [[Urteile]]
+, [[beschließen]], [[Rat]], [[Urteile]], [[Festlegung]]

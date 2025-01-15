@@ -1,1 +1,1 @@
-, [[Frechheit]], [[Aggression]], [[Gehaltszahlungen]], [[Angabe]]
+, [[Frechheit]], [[Aggression]], [[Gehaltszahlungen]], [[Angabe]], [[Meinungsäußerung]]

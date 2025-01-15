@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[einzeln]], [[einzelner]], [[einzelnes]], [[einzelnem]], [[einzelnem]], [[einzelnen]], [[einzelnen]], [[einzelnen]]
 [[einzelnere]], [[einzelneres]], [[einzelneren]], [[einzelnerem]], [[einzelnerer]], [[einzelneren]]
-[[einzelnste]], [[einzelnster]], [[einzelnstes]], [[einzelnstem]], [[einzelnster]], [[einzelnsten]]
+[[einzelnste]], [[einzelnster]], [[einzelnstes]], [[einzelnstem]], [[einzelnster]], [[einzelnsten]], [[einzelne]]

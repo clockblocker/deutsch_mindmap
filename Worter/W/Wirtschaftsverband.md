@@ -1,1 +1,1 @@
-, [[Unternehmerverband]]
+, [[Unternehmerverband]], [[Wirtschaftsgemeinschaft]]

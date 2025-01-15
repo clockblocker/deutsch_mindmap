@@ -1,3 +1,43 @@
+237. 2007 wurde das 50-jährige [[Jubiläum]] der „Römischen [[Verträge]]“ [[gefeiert]]. Was war der [[Inhalt]] der Verträge? (78%)
+	- [ ] Beitritt Deutschlands zur NATO
+	- [x] Gründung der Europäischen [[Wirtschaftsgemeinschaft]] (EWG)
+	- [ ] [[Verpflichtung]] Deutschlands zu [[Reparationsleistungen]]
+	- [ ] [[Festlegung]] der [[Oder-Neiße-Linie]] als [[Ostgrenze]]
+
+
+68. Warum kontrolliert der Staat in Deutschland das [[Schulwesen]]? (78%)
+	- [ ] weil es in Deutschland nur staatliche Schulen gibt
+	- [ ] weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen
+	- [ ] weil es in den Bundesländern [[verschiedene]] Schulen gibt
+	- [x] weil es nach dem Grundgesetz seine Aufgabe ist
+
+80. Welches [[Gericht]] in Deutschland ist [[zuständig]] für die [[Auslegung]] des Grundgesetzes? (79%)
+	- [ ] [[Oberlandesgericht]]
+	- [ ] [[Amtsgericht]]
+	- [x] [[Bundesverfassungsgericht]]
+	- [ ] [[Verwaltungsgericht]]
+
+
+198. Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR? (79%)
+	- [ ] Bayern
+	- [ ] Niedersachsen
+	- [x] Sachsen
+	- [ ] Baden-Württemberg
+
+56. Welches Amt gehört in Deutschland zur [[Gemeindeverwaltung]]? (80%)
+	- [ ] [[Pfarramt]]
+	- [x] [[Ordnungsamt]]
+	- [ ] Finanzamt
+	- [ ] [[auswärtig]] Amt
+
+
+205. Mit dem [[Beitritt]] der DDR zur Bundesrepublik Deutschland [[gehören]] die neuen Bundesländer nun auch … (81%)
+	- [x] zur Europäischen Union.
+	- [ ] zum Warschauer Pakt.
+	- [ ] zur OPEC.
+	- [ ] zur Europäischen Verteidigungsgemeinschaft.
+
+
 98. Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, ... (81%)
 	- [x] kann die [[Regierung]] ihre [[Mehrheit]] [[verlieren]].
 	- [ ] dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.

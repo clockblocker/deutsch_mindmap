@@ -89,4 +89,4 @@ G: des [[Deutschlands]], der [[Deutschländer]]
 D: dem [[Deutschland]], den [[Deutschländern]]  
 
 ---
-[[deutsch]], [[Deutscher]], [[Deutsche]], [[deutsche]], [[deutschsprachig]], [[Deutschtum]], [[Tschechien]]
+[[deutsch]], [[Deutscher]], [[Deutsche]], [[deutsche]], [[deutschsprachig]], [[Deutschtum]], [[Tschechien]], [[Oder-Neiße-Linie]]

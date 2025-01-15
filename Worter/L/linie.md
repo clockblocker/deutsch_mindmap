@@ -32,4 +32,4 @@ Verwendungsbeispiele:
 1. geometrische Linie
 2. Grenzlinie
 3. Telefonlinie
-4. Fluglinie, [[Grenze]], [[Richtlinie]], [[Reihe]], [[Grenz]]
+4. Fluglinie, [[Grenze]], [[Richtlinie]], [[Reihe]], [[Grenz]], [[Oder-Neiße-Linie]]

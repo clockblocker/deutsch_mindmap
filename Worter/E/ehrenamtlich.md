@@ -25,7 +25,7 @@ nicht [[bezahlt]], [[hauptberuflich]]
 voluntary, unpaid, honorary
 
 ---
-[[ehren]][[amt]][[lich]]
+[[ehren]][[Amt]][[lich]]
 
 ---
 N: [[ehrenamtlich]], [[ehrenamtlicher]], [[ehrenamtlichster]]  

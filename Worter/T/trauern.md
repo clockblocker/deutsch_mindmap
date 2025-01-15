@@ -1,1 +1,1 @@
-[[lachen]][[freuen]], [[grinsen]], [[Trauertag]], [[jubeln]], [[klagen]]
+[[lachen]][[freuen]], [[grinsen]], [[Trauertag]], [[jubeln]], [[klagen]], [[feiern]]

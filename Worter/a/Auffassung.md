@@ -1,1 +1,1 @@
-, [[Meinung]]
+, [[Meinung]], [[Auslegung]]

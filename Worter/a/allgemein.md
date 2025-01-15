@@ -1,7 +1,7 @@
 🌐 [[allgemein]], [ˈalɡəˌmaɪ̯n]
 
 ---
-
+der [[allgemeinen]] Religionsfreiheit
 
 ---
 = [[generell]], [[durchgehend]], [[umfassend]]

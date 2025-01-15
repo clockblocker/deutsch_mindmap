@@ -1,1 +1,1 @@
-, [[begleichen]], [[bezahlen]]
+, [[begleichen]], [[bezahlen]], [[Reparationsleistung]]

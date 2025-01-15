@@ -1,1 +1,1 @@
-, [[Denkmal]], [[Diesmal]], [[siebenmal]], [[manchmal]], [[Malbuch]], [[malen]], [[bemalen]]
+, [[Denkmal]], [[Diesmal]], [[siebenmal]], [[manchmal]], [[Malbuch]], [[malen]], [[bemalen]], [[Merkmal]]

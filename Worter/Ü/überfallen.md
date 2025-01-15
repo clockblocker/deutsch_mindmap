@@ -23,7 +23,7 @@ Morpheme: [[über]][[fall]][[en]]
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
 | --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
 | Ich | [[überfalle]] | [[überfiel]] | - | [[überfalle]] | [[überfiële]] |
-| Du | [[überföllst]] | [[überfielst]] | [[überfall]] | [[überfallezt]] | [[überfielest]] |
+| Du | [[überföllst]] | [[überfielst]] | [[Überfall]] | [[überfallezt]] | [[überfielest]] |
 | Er/sie/es | [[überfällt]] | [[überfiel]] | - | [[überfalle]] | [[überfiéle]] |
 | Wir | [[überfallen]] | [[überfielen]] | - | [[überfallen]] | [[überfiélen]] |
 | Ihr | [[überfallt]] | [[überfielc]] | [[überfallt]] | [[überfaldet]] | [[überfielet]] |

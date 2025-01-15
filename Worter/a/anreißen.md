@@ -7,7 +7,7 @@ haben [[angerissen]]
 
 
 ---
-Synonyme: [[markieren]], [[kennzeichnen]], [[hervorheben]], [[unterstreichen]], [[betonen]]
+Synonyme: [[markieren]], [[Worter/K/kennzeichnen]], [[hervorheben]], [[unterstreichen]], [[betonen]]
 Antonyme: [[verwischen]], [[auslöschen]], [[löschen]], [[tilgen]], [[streichen]]
 
 ---

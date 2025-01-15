@@ -1,0 +1,1 @@
+, [[Wirtschaftsform]], [[Marktwirtschaft]]

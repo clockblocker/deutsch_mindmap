@@ -34,3 +34,4 @@ D: der [[Wirtschaft]], den [[Wirtschaften]]
 [[wirtschaftlich]], [[wirtschaften]], [[Wirtschaftler]], [[Wirtschaftswissenschaft]], [[Wirtschaftskrise]]
 
 , [[Haushalt]], [[Gaststättenerlaubnis]], [[wirtschaftlich]]
+, [[Wirtschaftsform]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]]

@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Hauptes]], [[Haupte]], [[Häupter]], [[Häupter
 
 
 [[überhaupt]]
-, [[behaupten]], [[haupten]], [[hauptsächlich]], [[Staatsoberhaupt]]
+, [[behaupten]], [[haupten]], [[hauptsächlich]], [[Staatsoberhaupt]], [[Behauptung]]

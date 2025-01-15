@@ -17,7 +17,7 @@ die [[Schulämter]]
 school authority, school administration office
 
 ---
-[[Schul]]|[[amt]]
+[[Schul]]|[[Amt]]
 
 ---
 N: das [[Schulamt]], die [[Schulämter]]  

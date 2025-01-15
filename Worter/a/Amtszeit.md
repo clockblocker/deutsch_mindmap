@@ -1,1 +1,1 @@
-, [[Amtssitz]]
+, [[Amtssitz]], [[Amt]]

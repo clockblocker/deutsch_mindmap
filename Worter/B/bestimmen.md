@@ -29,3 +29,4 @@ PI: [[bestimmend]], PII: [[bestimmt]], Zu+inf: [[zu bestimmen]]
 [[Bestimmung]], [[Bestimmer]], [[bestimmbar]], [[bestimmend]], [[unbestimmt]], [[Bestimmungswort]]
 
 [[regeln]], [[aussuchen]], [[ausmachen]], [[wählen]], [[abhängen]], [[entscheiden]], [[beschließen]], [[erlassen]], [[festlegen]], [[bestimmt]]
+, [[Festlegung]]

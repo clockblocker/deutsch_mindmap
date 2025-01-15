@@ -3,6 +3,11 @@
 ---
 „Es gibt ein Problem mit Martin“, sagt Frau Schulte, „er ist seit dem ersten Schultag mit einem Mitschüler [[verfeindet]]. Fast jeden Morgen [[beschimpfen]] und [[prügeln]] sie sich. Und [[ansonsten]] reden sie [[überhaupt]] nicht miteinander. Das stört die Atmosphäre in unserer Klasse!“
 
+14. Meinungsfreiheit in Deutschland heißt zum Beispiel, dass ich … (78%)
+	- [ ] [[Passanten]] auf der Straße [[beschimpfen]] darf.
+	- [x] meine Meinung im Internet äußern kann.
+
+
 ---
 Synonyme: [[beleidigen]], [[schmähen]], [[diffamieren]], [[verunglimpfen]], [[schimpfen]]
 Antonyme: [[loben]], [[respektieren]], [[ehren]], [[würdigen]]
@@ -29,4 +34,4 @@ Zu+infinifive: [[zu beschimpfen]]
 [[beschimpfen]] - [[be]] = [[schimpfen]] / to insult, to abuse verbally
 
 ---
-[[Beschimpfung]], [[Beschimpfer]], [[Beschimpferin]], [[Beleidigung]], [[Schmähung]], [[Mistkerl]]
+[[Beschimpfung]], [[Beschimpfer]], [[Beschimpferin]], [[Beleidigung]], [[Schmähung]], [[Mistkerl]], [[Passant]]

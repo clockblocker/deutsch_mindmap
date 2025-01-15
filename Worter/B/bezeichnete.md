@@ -1,1 +1,1 @@
-, [[bezeichnen]]
+, [[bezeichnen]], [[Worter/kennzeichnen]]

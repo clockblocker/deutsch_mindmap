@@ -1,1 +1,1 @@
-, [[Darstellung]], [[Deutung]]
+, [[Darstellung]], [[Deutung]], [[Auslegung]]

@@ -4,10 +4,12 @@ die [[Pfarrämter]]
 ---
 126. Was bekommen [[wahlberechtigte]] Bürger und Bürgerinnen in Deutschland vor einer Wahl? (83%)
 	- [x] eine [[Wahlbenachrichtigung]] von der Gemeinde
-	- [ ] eine [[Wahlerlaubnis]] vom Bundespräsidenten / von der Bundespräsidentin
-	- [ ] eine [[Benachrichtigung]] von der [[Bundesversammlung]]
 	- [ ] eine [[Benachrichtigung]] vom [[Pfarramt]]
 
+
+56. Welches Amt gehört in Deutschland zur [[Gemeindeverwaltung]]? (80%)
+	- [ ] [[Pfarramt]]
+	- [x] [[Ordnungsamt]]
 
 ---
 = [[Kirchenamt]], [[Geistliche Verwaltung]]
@@ -18,7 +20,7 @@ die [[Pfarrämter]]
 parish office, clerical position
 
 ---
-[[Pfarr]]|[[amt]]
+[[Pfarr]]|[[Amt]]
 
 ---
 N: das [[Pfarramt]], die [[Pfarrämter]]  

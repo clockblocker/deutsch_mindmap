@@ -1,1 +1,1 @@
-, [[aufteilen]]
+, [[aufteilen]], [[Verbreitung]]

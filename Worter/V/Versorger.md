@@ -1,1 +1,1 @@
-, [[versorgen]]
+, [[versorgen]], [[Versorgung]]

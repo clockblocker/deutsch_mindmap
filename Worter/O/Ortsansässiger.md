@@ -1,1 +1,1 @@
-, [[Gastarbeiter]]
+, [[Gastarbeiter]], [[Passant]]

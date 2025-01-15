@@ -1,1 +1,1 @@
-, [[gehen]], [[reisen]]
+, [[gehen]], [[reisen]], [[Passant]]

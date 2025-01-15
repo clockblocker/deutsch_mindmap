@@ -1,1 +1,1 @@
-, [[außerhalb]]
+, [[außerhalb]], [[auswärtig]]

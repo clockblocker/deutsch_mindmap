@@ -6,6 +6,8 @@
 	- [x] Er [[baut]] [[Straßen]] und [[Schulen]].
 	- [ ] Er [[versorgt]] alle [[Einwohner]] und [[Einwohnerinnen]] [[kostenlos ]]mit Zeitungen.
 
+Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke [[versorgt]]. Welcher [[Umstand]] war dafür verantwortlich? 
+
 ---
 = [[beliefern]], [[ausstatten]], [[verwalten]]
 ≈ [[unterstützen]], [[ernähren]], [[kümmern]], [[betreuen]]

@@ -7,7 +7,7 @@ haben [[bedeutet]]
 -
 
 ---
-Synonyme: [[meinen]], [[signalisieren]], [[anzeigen]], [[kennzeichnen]], [[ausdrücken]]
+Synonyme: [[meinen]], [[signalisieren]], [[anzeigen]], [[Worter/K/kennzeichnen]], [[ausdrücken]]
 Antonyme: [[verhüllen]], [[verbergen]], [[verschleiern]], [[verdecken]]
 
 ---

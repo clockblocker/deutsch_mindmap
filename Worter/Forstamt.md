@@ -13,7 +13,7 @@ Ich schreibe einen Brief an das [[Forstamt]] der [[Gemeinde]].
 forestry office, forest administration
 
 ---
-[[Forst]]|[[amt]]
+[[Forst]]|[[Amt]]
 
 ---
 N: das [[Forstamt]], die [[Forstämter]]  

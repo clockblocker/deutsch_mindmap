@@ -1,1 +1,1 @@
-, [[Wirtschaft]]
+, [[Wirtschaft]], [[Marktwirtschaft]]

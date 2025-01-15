@@ -1,1 +1,1 @@
-, [[Stoff]]
+, [[Stoff]], [[Inhalt]]

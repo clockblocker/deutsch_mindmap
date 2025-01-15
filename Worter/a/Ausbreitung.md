@@ -1,1 +1,1 @@
-, [[weit und breit]], [[Osterweiterung]]
+, [[weit und breit]], [[Osterweiterung]], [[Verbreitung]]

@@ -1,1 +1,1 @@
-, [[Geldstrafe]]
+, [[Geldstrafe]], [[Reparationsleistung]]

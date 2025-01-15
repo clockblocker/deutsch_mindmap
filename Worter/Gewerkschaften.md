@@ -1,1 +1,1 @@
-🔴 die [[Gewerkschaft]]
+🔴 die [[Gewerkschaft]], [[Interessenverband]]

@@ -1,1 +1,1 @@
-, [[ausbreiten]]
+, [[ausbreiten]], [[Verbreitung]]

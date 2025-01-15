@@ -27,4 +27,4 @@ G: der [[Agentur]], der [[Agenturen]]
 D: der [[Agentur]], den [[Agenturen]]  
 
 ---
-[[Agent]], [[agieren]], [[Agenturarbeit]], [[Agenturgeschäft]], [[Agenturwesen]]
+[[Agent]], [[agieren]], [[Agenturarbeit]], [[Agenturgeschäft]], [[Agenturwesen]], [[Amt]]

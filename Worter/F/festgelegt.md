@@ -1,1 +1,1 @@
-, [[festlegen]]
+, [[festlegen]], [[Festlegung]]

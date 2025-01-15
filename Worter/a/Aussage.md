@@ -1,1 +1,1 @@
-, [[sagen]]
+, [[sagen]], [[Behauptung]], [[Meinungsäußerung]], [[Inhalt]]

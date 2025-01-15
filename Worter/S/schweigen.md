@@ -1,1 +1,1 @@
-, [[sagen]], [[kontern]], [[erzählen]], [[Aufruf]], [[Schweigepflicht]], [[Angriffsgeschrei]], [[schreien]], [[funkten]], [[Schweigerecht]], [[Schweige]], [[rumquatschen]], [[Unterhaltung]], [[Anzeige]]
+, [[sagen]], [[kontern]], [[erzählen]], [[Aufruf]], [[Schweigepflicht]], [[Angriffsgeschrei]], [[schreien]], [[funkten]], [[Schweigerecht]], [[Schweige]], [[rumquatschen]], [[Unterhaltung]], [[Anzeige]], [[Meinungsäußerung]]

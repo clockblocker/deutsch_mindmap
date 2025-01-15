@@ -1,1 +1,1 @@
-, [[äußern]]
+, [[äußern]], [[Meinungsäußerung]]

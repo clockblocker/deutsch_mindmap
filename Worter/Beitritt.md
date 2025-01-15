@@ -3,10 +3,10 @@ die [[Beitritte]]
 
 ---
 228. Wie wird der [[Beitritt]] der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein [[genannt]]? (97%)
-	- [ ] NATO-[[Osterweiterung]]
-	- [ ] EU-Osterweiterung
-	- [ ] Europäische [[Gemeinschaft]]
 	- [x] Deutsche [[Wiedervereinigung]]
+
+205. Mit dem [[Beitritt]] der DDR zur Bundesrepublik Deutschland [[gehören]] die neuen Bundesländer nun auch … (81%)
+	- [x] zur Europäischen Union.
 
 ---
 = [[Eintritt]], [[Eintretung]], [[Teilnahme]]

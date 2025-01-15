@@ -15,7 +15,7 @@ die [[Bundeskanzlerämter]]
 Federal Chancellery, Office of the Chancellor
 
 ---
-[[Bundes]][[Kanzler]][[amt]]
+[[Bundes]][[Kanzler]][[Amt]]
 
 ---
 N: das [[Bundeskanzleramt]], die [[Bundeskanzlerämter]]  

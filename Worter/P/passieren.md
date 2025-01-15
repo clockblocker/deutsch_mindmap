@@ -37,4 +37,4 @@ Morpheme: [[pass]][[ier]][[en]]
 | Sie       | [[passieren]]        | [[passierten]]        | [[passieren Sie]] | [[passieren]]          | [[passierten]]          |
 
 Partizip I: [[passierend]], Partizip II: [[passiert]]
-, [[Erfolgen]]
+, [[Erfolgen]], [[Passant]]

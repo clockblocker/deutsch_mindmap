@@ -33,3 +33,4 @@ Morpheme: [[breit]][[en]]
 
 Partizip I: [[breitend]], Partizip II: [[gebreitet]]
 
+, [[Verbreitung]]

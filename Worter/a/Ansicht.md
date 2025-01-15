@@ -1,1 +1,1 @@
-, [[glaub]], [[Meinung]]
+, [[glaub]], [[Meinung]], [[Meinungsäußerung]]

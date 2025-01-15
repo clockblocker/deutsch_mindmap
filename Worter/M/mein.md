@@ -1,1 +1,1 @@
-, [[meinen]], [[gemein]]
+, [[meinen]], [[gemein]], [[Wirtschaftsgemeinschaft]]

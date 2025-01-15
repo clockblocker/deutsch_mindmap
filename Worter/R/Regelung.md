@@ -1,1 +1,1 @@
-, [[Abkommen]], [[festlegen]]
+, [[Abkommen]], [[festlegen]], [[Festlegung]]

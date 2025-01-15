@@ -1,0 +1,1 @@
+🟢 📜 das [[Reparationsleistung]], [ʁepaʁaˈtsi̯oːnslаɪ̯stʊŋ]

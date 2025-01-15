@@ -1,1 +1,1 @@
-, [[bestimmt]], [[Gesetz]], [[festlegen]], [[Auszählung]], [[bestimmen]]
+, [[bestimmt]], [[Gesetz]], [[festlegen]], [[Auszählung]], [[bestimmen]], [[Festlegung]]

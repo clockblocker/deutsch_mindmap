@@ -1,1 +1,1 @@
-, [[Angesicht]], [[Ebene]]
+, [[Angesicht]], [[Ebene]], [[Inhalt]]
