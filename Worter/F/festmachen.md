@@ -1,1 +1,1 @@
-, [[schnallen]], [[zusammenschrauben]], [[entschließen]], [[anlegen]], [[festlegen]], [[bestimmen]]
+, [[schnallen]], [[zusammenschrauben]], [[entschließen]], [[anlegen]], [[festlegen]], [[bestimmen]], [[anheften]]

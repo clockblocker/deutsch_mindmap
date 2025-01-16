@@ -27,3 +27,4 @@ Mögliche Formen:
 
 ---
 
+, [[sämtlich]]

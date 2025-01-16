@@ -1,1 +1,1 @@
-, [[überweisen]], [[übermachen]], [[forttragen]]
+, [[überweisen]], [[übermachen]], [[forttragen]], [[entlehnen]]

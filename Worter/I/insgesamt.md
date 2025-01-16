@@ -1,1 +1,1 @@
-[[beide]], [[überhaupt]]
+[[beide]], [[überhaupt]], [[sämtlich]]

@@ -1,7 +1,8 @@
 🙅‍♀️ [[lehnen]], [ˈleːnən] | [[lehnte]], haben [[gelehnt]]
 
 ---
-[[ablehnen]] - [[ab]] = [[lehnen]] / to reject, to decline, to refuse
+[[ablehnen]] - [[ab]] = [[lehnen]]   / to reject, to decline, to refuse
+[[entlehnen]] - [[ent]] = [[lehnen]] / to borrow, to adopt (a word or concept)
 
 
 ---
@@ -30,4 +31,4 @@ Partizip II: [[gelehnt]]
 ---
 [[Lehne]], [[Anlehnung]], [[Lehnstuhl]], [[Rückenlehne]], [[lehnbar]]
 
-🙅‍♀️ [[lehnen]] | 🗽 der [[Lehn]]
+🙅‍♀️ [[lehnen]] | 🗽 der [[Lehn]], [[entlehnen]]

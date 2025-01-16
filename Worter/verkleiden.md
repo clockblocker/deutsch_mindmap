@@ -8,7 +8,7 @@
 ---
 = [[kostümieren]], [[maskieren]], [[vermummen]]
 ≈ [[umhüllen]], [[tarnen]], [[verhüllen]], [[transformieren]]
-≠ [[entlarven]], [[aufdecken]], [[demaskieren]], [[enthüllen]]
+≠ [[entlarven]], [[aufdecken]], [[Worter/D/demaskieren]], [[enthüllen]]
 
 ---
 to disguise, to dress up, to costume

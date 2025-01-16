@@ -1,1 +1,1 @@
-, [[sagen]], [[erzählen]], [[ausdrücken]], [[anzeigen]], [[äußern]]
+, [[sagen]], [[erzählen]], [[ausdrücken]], [[anzeigen]], [[äußern]], [[hinweisen]], [[aussagen]]

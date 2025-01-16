@@ -1,6 +1,9 @@
 🚨 [[begehen]], [bəˈɡeːn] | [[beging]], haben [[begangen]]
 
 ---
+Wir [[nehmen]] dazu vor allem [[einfach]] strukturierte Verben wie _spielen_, aber auch komplex strukturierte Verben wie *[[begehen]]*. 
+
+
 51. Zu einem demokratischen Rechtsstaat gehört es nicht, dass … (88%)
 	- [x] Menschen von einer [[Privatpolizei]] ohne Grund [[verhaftet]] werden.
 	- [ ] jemand ein [[Verbrechen]] [[begeht]] und deshalb [[verhaftet]] wird.

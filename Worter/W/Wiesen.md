@@ -22,4 +22,4 @@ Einzigartige mögliche Formen:
 [[Wiesen]], [[Wieses]], [[Wiese]], [[Wiesen]], [[Wiesen]], [[Wiesen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neutrum, [[weisen]]

@@ -32,5 +32,5 @@ PI: [[abgebend]], PII: [[abgegeben]], Zu+inf: [[abzugeben]]
 ---
 [[Abgabe]], [[Abgeber]], [[Abgeberin]], [[abgebbar]], [[Abgabestelle]]
 
-[[Übernehmen]][[holen]], [[Trinken]], [[haben]], [[loswerden]], [[kriegen]], [[gehören]], [[nehm]], [[abbekommen]], [[erhalten]], [[zurückholen]], [[besitzen]], [[Stimmabgabe]], [[Sozialabgaben]]
+[[übernehmen]][[holen]], [[Trinken]], [[haben]], [[loswerden]], [[kriegen]], [[gehören]], [[nehm]], [[abbekommen]], [[erhalten]], [[zurückholen]], [[besitzen]], [[Stimmabgabe]], [[Sozialabgaben]]
 , [[überlassen]]

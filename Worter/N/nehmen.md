@@ -3,6 +3,8 @@
 ---
 Ich [[nehme]] statt der Suppe einen Salat
 
+Wir [[nehmen]] dazu vor allem [[einfach]] strukturierte Verben wie _spielen_, aber auch komplex strukturierte Verben wie [[begehen]]. 
+
 *Die Peitsche hat er mitgebracht*  
 *und [[nimmt]] sie sorglich sehr in acht.*
 
@@ -11,7 +13,7 @@ Ich [[nehme]] statt der Suppe einen Salat
 [[zu Herzen nehmen]]
 
 ----
-[[Übernehmen]] - [[über]] = [[nehmen]]              / захватить
+[[übernehmen]] - [[über]] = [[nehmen]]              / захватить
 [[herausnehmen]] - [[heraus]] = [[nehmen]]     / remove 
 [[vornehmen]] - [[vor]] = [[nehmen]]                  / намереватсья 
 [[zunehmen]] - [[zu]] = [[nehmen]]                    / gain weight / набрать
@@ -42,7 +44,7 @@ Morpheme: [[nehm]][[en]]
 
 Partizip I: [[nehmend]], Partizip II: [[genommen]], Zu infinitive: zu nehmen
 
-+[[über]] = [[Übernehmen]] / захватить
++[[über]] = [[übernehmen]] / захватить
 +[[heraus]] = [[herausnehmen]] / remove 
 +[[zu]] =  [[zunehmen]] / gain weight / набрать
 [[vornehmen]] - [[vor]] = [[nehmen]] / намереватсья 

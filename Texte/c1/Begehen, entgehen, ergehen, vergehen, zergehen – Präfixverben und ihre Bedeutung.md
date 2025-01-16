@@ -1,8 +1,16 @@
-_Begehen_, _entgehen_, _ergehen_, _vergehen_, _zergehen_.... Welches Licht werfen wir mit diesen Verben auf eine Szene und wodurch erreichen wir den illuminierenden Effekt?
+_Begehen_, _entgehen_, _ergehen_, _vergehen_, _zergehen_.... Welches Licht werfen wir mit diesen Verben auf eine Szene und [[wodurch]] [[erreichen]] wir den illuminierenden Effekt?
 
-"Die Bezeichnung Verb geht auf das lateinische _verbum_ 'Wort' zurück, das seinerseits als Übersetzung des griechischen Wortes für 'Aussage' verwendet wurde - ein Hinweis darauf, dass man das Verb als unentbehrlich für eine Aussage ansah" ([Fabricius-Hansen 2005: 395](https://grammis.ids-mannheim.de/fragen/3049# "Hyperlink zu einem Bibliografieeintrag")). Verben sind also wichtig, wenn wir etwas aussagen wollen. Mit Verben sagen wir meist etwas über Tätigkeiten aus: _Sie spielt Susaphon_. Wir nehmen dazu vor allem einfach strukturierte Verben wie _spielen_, aber auch komplex strukturierte Verben wie _begehen_. Um komplexe Verben zu bilden, kombinieren wir zum Beispiel Wörter wie _gehen_ mit Präfixen wie _be-_. Das zugrundeliegende Wort bildet die Basis; das  [Präfix](https://grammis.ids-mannheim.de/fragen/3049# "Terminologischer Hyperlink") wird vorne angefügt - lateinisch _praefigere_ 'vorne anheften' - und leitet die Basis ab. Außerdem kombinieren wir Wörter wie _gehen_ mit Wörtern wie _an_ oder _nach_ (_angehen_, _nachgehen_).
+"Die [[Bezeichnung]] Verb geht auf das lateinische _verbum_ 'Wort' zurück, das [[seinerseits]] als Übersetzung des griechischen Wortes für '[[Aussage]]' [[verwendet]] wurde - ein [[Hinweis]] darauf, dass man das Verb als [[unentbehrlich]] für eine Aussage [[ansah]]".
 
-Die zentralen Präfixe zur Ableitung deutscher Verben sind _be-_, _ent-_, _er-_, _ver-_ und _zer-_; sie können alle mit einem Nomen, einem Adjektiv oder einem Verb kombiniert werden.
+Verben sind also wichtig, wenn wir etwas aussagen wollen. Mit Verben [[aussagen|sagen]] wir meist etwas über [[Tätigkeiten]] aus: _Sie spielt Susaphon_. 
+
+Wir [[nehmen]] dazu vor allem [[einfach]] strukturierte Verben wie _spielen_, aber auch komplex strukturierte Verben wie [[begehen]]. 
+
+Um komplexe Verben zu bilden, kombinieren wir zum Beispiel Wörter wie _gehen_ mit Präfixen wie _be-_. Das [[zugrundeliegende]] Wort bildet die Basis; das  Präfix wird [[vorne]] [[angefügt]] - lateinisch _praefigere_ 'vorne anheften' - und leitet die Basis ab. 
+
+[[Außerdem]] kombinieren wir Wörter wie _gehen_ mit Wörtern wie _an_ oder _nach_ (_angehen_, _nachgehen_).
+
+Die zentralen Präfixe zur [[Ableitung]] deutscher Verben sind _be-_, _ent-_, _er-_, _ver-_ und _zer-_; sie können alle mit einem Nomen, einem Adjektiv oder einem Verb kombiniert werden.
 
 |         |                 |                   |                |
 | ------- | --------------- | ----------------- | -------------- |
@@ -14,9 +22,13 @@ Die zentralen Präfixe zur Ableitung deutscher Verben sind _be-_, _ent-_, _er
 | [[zer]] | [[zerscherben]] | [[zerkleinern]]   | [[zerbrechen]] |
 |         |                 |                   |                |
 
-Diese zentralen Präfixe sind sämtlich einheimische Präfixe und wir nutzen sie vielfach, allerdings ausschließlich, um Verben zu bilden. Weniger nutzen wir Präfixe, die nicht einheimisch, sondern aus anderen Sprachen übernommen sind: Vor allem aus klassischen Sprachen haben wir Präfixe entlehnt wie  [[re]] in _reaktivieren, rekonstruieren_ oder  [[de]] mit den Varianten _des-_ und _dis-_ in _demaskieren, desillusionieren, disqualifizieren_. Weniger nutzen wir auch Präfixe, die außer zur Bildung von Verben zur Bildung von Nomina und Adjektiven herangezogen werden, etwa  [[miss]] in _missdeuten_, _Missmut_ und _missgelaunt_.
+Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nutzen sie [[vielfach]], allerdings [[ausschließlich]], um Verben zu bilden. 
 
-Schauen wir uns nun die Verben mit den zentralen Präfixen genauer an: Was können wir mit ihnen aussagen? Welche Szenen leuchten wir aus? Und wie genau machen wir das?
+Weniger nutzen wir Präfixe, die nicht einheimisch, sondern aus anderen Sprachen [[übernommen]] sind: Vor allem aus klassischen Sprachen haben wir Präfixe [[entlehnt]] wie  [[re]] in _reaktivieren, rekonstruieren_ oder  [[de]] mit den Varianten _des-_ und _dis-_ in [[Worter/demaskieren]], [[desillusionieren]], disqualifizieren_. 
+
+Weniger nutzen wir auch Präfixe, die außer zur Bildung von Verben zur Bildung von Nomina und Adjektiven herangezogen werden, etwa  [[miss]] in _missdeuten_, _Missmut_ und _missgelaunt_.
+
+[[anschauen|Schauen]] wir uns nun die Verben mit den zentralen Präfixen genauer an: Was können wir mit ihnen aussagen? Welche Szenen [[ausleuchten|leuchten]] wir aus? Und wie genau machen wir das?
 
 ## Präfixverben mit Nomenbasis (_begrenzen, entkernen, erdolchen, vergolden, zerscherben_)
 
@@ -47,3 +59,10 @@ Mit Verben machen wir Aussagen über Tätigkeiten. Mit der Präfigierung von Ver
 ## Fazit
 
 Wir sehen: Mit Präfixverben können wir die verschiedensten Szenen ausleuchten. Sprecherschreiber und Hörerleser können sich dabei tendenziell an den Präfixen orientieren: So legt zum Beispiel _be-_ wegen seiner Herkunft aus _bei_ ornative und zeiträumliche Muster nahe - allerdings auf eine etwas gesuchte Art: Wer einen Saal bestuhlt, ist zwar irgendwie einer, der Stühle "dabei" stellt, aber zu _beleuchten_ und _befreien_ müssen wir die _Bei_-Erklärung weit herholen. Und dann ist auf derlei auch keineswegs Verlass. So ist zum Beispiel _ent-_ auf Privativa abonniert: Wird Wasser enthärtet, ist es **nicht** mehr hart. Wir können gelegentlich aber auch das ornative Gegenteil ausdrücken: Entfremden wir einander, machen wir einander fremd.
+
+
+An erkennungs bescheid des Bildungsurlaub s Anbieters
+
+**An erkennungs nummer**
+
+Anmelde bestätigung für den Arbeitgeber

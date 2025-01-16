@@ -1,1 +1,1 @@
-, [[Richtung]], [[Merkmal]]
+, [[Richtung]], [[Merkmal]], [[Bezeichnung]]

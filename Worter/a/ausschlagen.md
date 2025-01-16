@@ -1,1 +1,1 @@
-[[Übernehmen]], [[bewerben]], [[herausschlagen]]
+[[übernehmen]], [[bewerben]], [[herausschlagen]]

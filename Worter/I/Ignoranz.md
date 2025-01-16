@@ -1,1 +1,1 @@
-, [[Stolpersteine]], [[Gedenktag]], [[Behandlung]]
+, [[Stolpersteine]], [[Gedenktag]], [[Behandlung]], [[Hinweis]]

@@ -1,1 +1,1 @@
-, [[berichten]], [[melden]], [[anzeigen]], [[Berufsinformationszentrum]], [[beraten]], [[Benachrichtigung]]
+, [[berichten]], [[melden]], [[anzeigen]], [[Berufsinformationszentrum]], [[beraten]], [[Benachrichtigung]], [[hinweisen]]

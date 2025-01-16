@@ -1,6 +1,8 @@
 🔍 [[außerdem]], [ˈaʊ̯səɐ̯ˌdem]
 
 ---
+[[Außerdem]] kombinieren wir Wörter wie _gehen_ mit Wörtern wie _an_ oder _nach_ (_angehen_, _nachgehen_).
+
 Er müsste etwa in ihrem [[Alter]] sein. [[Außerdem]] Herr aller Elemente!
 
 [[außerdem]] holt ihn meine Mutter am Bahnhof Friedrichstraße ab.

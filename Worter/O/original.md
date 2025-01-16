@@ -1,1 +1,1 @@
-, [[echten]], [[echt]]
+, [[echten]], [[echt]], [[entlehnen]]

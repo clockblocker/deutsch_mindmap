@@ -1,1 +1,1 @@
-, [[gesellen]], [[einschließen]], [[einladen]], [[beteiligen]], [[angehören]], [[ahnen]], [[enthalten]], [[verstoßen]]
+, [[gesellen]], [[einschließen]], [[einladen]], [[beteiligen]], [[angehören]], [[ahnen]], [[enthalten]], [[verstoßen]], [[ausschließlich]]

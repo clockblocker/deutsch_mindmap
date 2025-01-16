@@ -34,5 +34,5 @@ Morpheme: [[über]][[weis]][[en]]
 
 Partizip I: [[überweisend]], Partizip II: [[überwiesen]]
 
-[[überweisen]] - [[über]] = [[weisen]]
+[[überweisen]] - [[über]] = [[weisen]] / to transfer (money)
 ''', [[bezahlen]]

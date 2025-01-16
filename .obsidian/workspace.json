@@ -8,17 +8,115 @@
         "type": "tabs",
         "children": [
           {
+            "id": "614a72d404e7b28a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/desillusionieren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "desillusionieren"
+            }
+          },
+          {
             "id": "0672017c738151ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Einbuergerungstest/done/211-240.md",
+                "file": "Texte/c1/Begehen, entgehen, ergehen, vergehen, zergehen – Präfixverben und ihre Bedeutung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "211-240"
+              "title": "Begehen, entgehen, ergehen, vergehen, zergehen – Präfixverben und ihre Bedeutung"
+            }
+          },
+          {
+            "id": "81e60a15f0946512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/demaskieren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "demaskieren"
+            }
+          },
+          {
+            "id": "e9ce05a23fc55051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/vielfach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vielfach"
+            }
+          },
+          {
+            "id": "92476894aeced403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/einheimisch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "einheimisch"
+            }
+          },
+          {
+            "id": "1e9ce8ec31e0a13a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/B/beleuchten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "beleuchten"
+            }
+          },
+          {
+            "id": "78ac3c100ad41afa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/ableiten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ableiten"
+            }
+          },
+          {
+            "id": "99bd8ed55b17d6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/anfügen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "anfügen"
             }
           },
           {
@@ -133,7 +231,8 @@
               "title": "Meinungsäußerung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,10 +349,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Einbuergerungstest/done/211-240.md"
+                "file": "Texte/c1/Begehen, entgehen, ergehen, vergehen, zergehen – Präfixverben und ihre Bedeutung.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 211-240"
+              "title": "Outline of Begehen, entgehen, ergehen, vergehen, zergehen – Präfixverben und ihre Bedeutung"
             }
           }
         ],
@@ -276,34 +375,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d0dd1351b59a3225",
+  "active": "0672017c738151ae",
   "lastOpenFiles": [
-    "Worter/F/Festlegung.md",
-    "Worter/Oder-Neiße-Linie.md",
-    "Worter/Ostgrenze.md",
-    "Worter/O/Ostland.md",
-    "Worter/G/Grenzschutz.md",
-    "Worter/O/Ost.md",
-    "Worter/I/Innengrenze.md",
-    "Worter/B/Binnengrenze.md",
-    "Worter/W/Westgrenze.md",
-    "Worter/O/Ostrand.md",
-    "Worter/Ö/östliche Grenze.md",
-    "Worter/O/Ostgrenzen.md",
-    "Worter/G/Geographie.md",
-    "Worter/N/Nachkriegszeit.md",
-    "Worter/N/Neiße.md",
-    "Worter/D/Durchlässige Grenze.md",
-    "Worter/O/Offene Grenze.md",
-    "Worter/G/Geopolitische Grenze.md",
-    "Worter/G/Grenzstreifen.md",
-    "Worter/S/Staatsgrenze.md",
-    "Worter/O/Oder-Neiße-Linien.md",
-    "Worter/D/Definition.md",
-    "Worter/F/Festsetzung.md",
-    "Worter/F/Festlegungen.md",
-    "Texte/Einbuergerungstest/done/211-240.md",
-    "Worter/V/Verpflichtung.md",
+    "Texte/Einbuergerungstest/241-270.md",
+    "Texte/c1/Begehen, entgehen, ergehen, vergehen, zergehen – Präfixverben und ihre Bedeutung.md",
+    "Texte/c1/urls.txt",
+    "Worter/desillusionieren.md",
+    "Worter/A/ausleuchten.md",
+    "Worter/L/leuchten.md",
+    "Worter/A/Ausleuchtung.md",
+    "Worter/A/auszuleuchten.md",
+    "Worter/A/ausleuchtend.md",
+    "Worter/A/ausleuchtetet.md",
+    "Worter/L/leuchten wir aus.md",
+    "Worter/A/ausleuchteten.md",
+    "Worter/L/leuchten aus.md",
+    "Worter/L/leuchtet aus.md",
+    "Worter/A/ausleuchtetetest.md",
+    "Worter/L/leuchtest aus.md",
+    "Worter/L/leuchte aus.md",
+    "Worter/L/leuch.md",
+    "Worter/A/abdunkeln.md",
+    "Worter/A/ausgeleuchtet.md",
+    "Worter/A/ausleuchtete.md",
+    "Worter/A/anschauen.md",
+    "Worter/Ü/übernommen.md",
+    "Worter/Ü/übernehmen.md",
+    "Worter/entlehnt.md",
+    "Worter/entlehnen.md",
+    "Worter/L/lehnen.md",
     "Texte/c1/Complete_Exhaustive_Pronouns_List.csv",
     "Texte/c1/Exhaustive_Pronouns_List.csv",
     "Texte/c1/Conjunctions_with_Examples.csv",
@@ -313,7 +413,6 @@
     "Texte/Einbuergerungstest/done",
     "Texte/c1/processed_german_words.json",
     "Texte/c1/processed_german_text1.txt",
-    "Texte/c1/processed_german_text.txt",
     "Anhänge/Pasted image 20250102085715.png",
     "Anhänge/Pasted image 20250102085702.png",
     "Anhänge/Pasted image 20250102085701.png",

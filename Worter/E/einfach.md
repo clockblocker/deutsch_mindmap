@@ -6,6 +6,7 @@ in Kilo [[Mehl]], es kann von der [[einfachen]] Sorte sein
 
 „Das kann ja sein“, sagt Uli, „aber bei mir [[scheint]] [[einfach]] der Wurm drin zu sein. [[Irgendwas]] ist hier [[fehlerhaft]].“ Der Fachverkäufer erklärt sich [[schließlich]] [[bereit]], den Rechner [[umzutauschen]]. Der neue Computer [[läuft]] problemlos. Kein Wurm [[weit und breit]]. Uli ist [[erleichtert]].
 
+Wir [[nehmen]] dazu vor allem [[einfach]] strukturierte Verben wie _spielen_, aber auch komplex strukturierte Verben wie [[begehen]]. 
 
 ---
 Synonyme: 

@@ -1,1 +1,1 @@
-, [[verdecken]], [[verkleiden]], [[Rosenmontag]]
+, [[verdecken]], [[verkleiden]], [[Rosenmontag]], [[demaskieren]]

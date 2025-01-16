@@ -1,6 +1,8 @@
 🎯 [[erreichen]], [ɛˈʁaɪ̯çn̩] | [[erreichte]], haben [[erreicht]]
 
 ---
+_Begehen_, _entgehen_, _ergehen_, _vergehen_, _zergehen_.... Welches Licht werfen wir mit diesen Verben auf eine Szene und [[wodurch]] [[erreichen]] wir den illuminierenden Effekt?
+
 13. Im Parlament steht der [[Begriff]] „Opposition“ für… (96%)
 	- [x] alle [[Abgeordneten]], die nicht zu der [[Regierungspartei]]/den Regierungsparteien gehören.
 	- [ ] alle Parteien, die bei der letzten [[Wahl]] die 5%-[[Hürde]] [[erreichen]] konnten.
@@ -39,4 +41,4 @@ PI: [[erreichend]], PII: [[erreicht]], Zu+inf: [[zu erreichen]]
 [[Erreichbarkeit]], [[Erreichung]], [[reichbar]], [[unerreichbar]], [[Erreichbares]]
 
 , [[schaden]], [[reichen]]
-, [[erreichbar]], [[einholen]]
+, [[erreichbar]], [[einholen]], [[wodurch]]

@@ -1,1 +1,1 @@
-, [[Vorschlag]], [[Ratschlag]], [[Rat]]
+, [[Vorschlag]], [[Ratschlag]], [[Rat]], [[Hinweis]]

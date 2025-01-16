@@ -1,1 +1,1 @@
-[[aussuchen]], [[wählen]], [[vorschlagen]], [[beschließen]], [[vorhaben]], [[verstoßen]]
+[[aussuchen]], [[wählen]], [[vorschlagen]], [[beschließen]], [[vorhaben]], [[verstoßen]], [[ableiten]]

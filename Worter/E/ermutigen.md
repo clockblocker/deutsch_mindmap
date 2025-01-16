@@ -1,1 +1,1 @@
-, [[schrecken]], [[begeistern]], [[trösten]], [[anregen]]
+, [[schrecken]], [[begeistern]], [[trösten]], [[anregen]], [[desillusionieren]]

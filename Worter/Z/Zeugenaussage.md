@@ -1,1 +1,1 @@
-, [[Schweigerecht]]
+, [[Schweigerecht]], [[Aussage]], [[aussagen]]

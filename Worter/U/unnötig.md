@@ -1,1 +1,1 @@
-[[nötig]], [[überflüssig]], [[dien]], [[notwendig]]
+[[nötig]], [[überflüssig]], [[dien]], [[notwendig]], [[unentbehrlich]]

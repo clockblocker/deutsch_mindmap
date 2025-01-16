@@ -1,1 +1,1 @@
-, [[einzelnen]], [[einziger]]
+, [[einzelnen]], [[einziger]], [[ausschließlich]]

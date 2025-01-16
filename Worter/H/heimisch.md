@@ -1,1 +1,1 @@
-, [[auswärtig]]
+, [[auswärtig]], [[einheimisch]]

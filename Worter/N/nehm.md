@@ -6,7 +6,7 @@ haben [[genommen]]
 *Ich nehm mein Schicksal in die Hand*  
 *Mein Verlangen ist bemannt*  
 
-[[Übernehmen]], [[Unternehmen]], [[herausnehmen]]
+[[übernehmen]], [[Unternehmen]], [[herausnehmen]]
 
 ---
 Synonyme: [[ergreifen]], [[bekommen]], [[empfangen]], [[annehmen]], [[aufheben]]

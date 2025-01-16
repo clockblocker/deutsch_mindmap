@@ -1,1 +1,1 @@
-, [[leuchten]], [[scheinen]], [[aufleuchten]], [[spiegeln]], [[lichten]], [[klären]]
+, [[leuchten]], [[scheinen]], [[aufleuchten]], [[spiegeln]], [[lichten]], [[klären]], [[beleuchten]], [[ausleuchten]]

@@ -4,6 +4,8 @@
 25. Wahlen in Deutschland gewinnt die Partei, die … (89%)
 	- [x] die [[meisten]] Stimmen bekommt.
 
+Verben sind also wichtig, wenn wir etwas aussagen wollen. Mit Verben [[aussagen|sagen]] wir [[meist]] etwas über [[Tätigkeiten]] aus: _Sie spielt Susaphon_. 
+
 Aber als die Welt ihn am [[meisten]] brauchte, verschwand er. 
 
 Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[auskennen]]. Doch wer über den [[Tellerrand]] [[schaut]], kann viel entdecken: Einen [[Becher]] und [[Besteck]] findet man dabei [[eher]] nicht, aber ganz bestimmt neue Perspektiven.  

@@ -1,1 +1,1 @@
-, [[Wahllokals]], [[auswärtig]]
+, [[Wahllokals]], [[auswärtig]], [[einheimisch]]

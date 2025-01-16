@@ -4,6 +4,9 @@
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
 ---
+[[ableiten]] - [[ab]] = [[leiten]] / to derive, to deduce, to infer
+
+---
 Synonyme: [[führen]], [[lenken]], [[Steuern]], [[dirigieren]], [[anführen]]
 Antonyme: [[folgen]], [[gehorchen]], [[zurückhalten]]
 
@@ -28,4 +31,4 @@ Partizip II: [[geleitet]]
 Zu+infinifive: [[zu leiten]]
 
 ---
-[[Leiter]], [[Leitung]], [[Anleitung]], [[Geschäftsführung]], [[Verwaltung]], [[Direktion]], [[Projektleitung]], [[Behördenleiter]], [[verwalten]], [[Vereinstrainer]], [[vorsitzen]]
+[[Leiter]], [[Leitung]], [[Anleitung]], [[Geschäftsführung]], [[Verwaltung]], [[Direktion]], [[Projektleitung]], [[Behördenleiter]], [[verwalten]], [[Vereinstrainer]], [[vorsitzen]], [[ableiten]]

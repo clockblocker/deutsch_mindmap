@@ -3,6 +3,7 @@
 haben [[verwendet]]
 
 ---
+"Die [[Bezeichnung]] Verb geht auf das lateinische _verbum_ 'Wort' zurück, das [[seinerseits]] als Übersetzung des griechischen Wortes für '[[Aussage]]' [[verwendet]] wurde - ein [[Hinweis]] darauf, dass man das Verb als [[unentbehrlich]] für eine Aussage [[ansah]]".
 
 
 ---

@@ -1,1 +1,1 @@
-, [[Jeder]]
+, [[Jeder]], [[sämtlich]]

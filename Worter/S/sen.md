@@ -1,1 +1,1 @@
-, [[grinsen]], [[reisen]], [[plumpsen]], [[überlassen]], [[lassen]]
+, [[grinsen]], [[reisen]], [[plumpsen]], [[überlassen]], [[lassen]], [[weisen]]

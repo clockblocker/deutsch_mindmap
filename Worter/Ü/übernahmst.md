@@ -1,1 +1,1 @@
-[[Übernehmen]]
+[[übernehmen]]

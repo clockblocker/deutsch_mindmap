@@ -1,1 +1,1 @@
-[[mittel]]
+[[mittel]], [[wodurch]]

@@ -35,5 +35,5 @@ Zu+infinifive: [[anzunehmen]]
 ---
 [[Annahme]], [[Annahmestelle]], [[Annahmebedingungen]], [[Annahmeverfahren]]
 
-[[Übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]], [[glaub]], [[raten]], [[erhalten]], [[ablehnen]]
+[[übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]], [[glaub]], [[raten]], [[erhalten]], [[ablehnen]]
 , [[empfangen]], [[vermuten]], [[verstoßen]]

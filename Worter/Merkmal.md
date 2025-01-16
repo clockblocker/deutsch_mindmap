@@ -26,4 +26,4 @@ G: des [[Merkmals]], der [[Merkmale]]
 D: dem [[Merkmal]], den [[Merkmalen]]  
 
 ---
-[[merken]], [[merklich]], [[kennzeichnend]], [[charakteristisch]], [[Worter/kennzeichnen]]
+[[merken]], [[merklich]], [[kennzeichnend]], [[charakteristisch]], [[Worter/kennzeichnen]], [[Hinweis]]

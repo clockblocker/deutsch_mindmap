@@ -1,1 +1,1 @@
-, [[begeistern]], [[erfüllen]], [[enttäuscht]], [[zufriedenstellen]]
+, [[begeistern]], [[erfüllen]], [[enttäuscht]], [[zufriedenstellen]], [[desillusionieren]]

@@ -1,1 +1,1 @@
-, [[Satz]], [[äußern]], [[Behauptung]], [[Meinungsäußerung]]
+, [[Satz]], [[äußern]], [[Behauptung]], [[Meinungsäußerung]], [[Aussage]]

@@ -26,7 +26,7 @@ Man kann dich lieben (du liebst, du liebst, du liebst, du liebst)
 Und will dich [[hassen]] (du hasst, du hasst, du hasst, du hasst)
 
 [[Überheblich]], [[überlegen]]  
-[[Übernehmen]], [[übergeben]]  
+[[übernehmen]], [[übergeben]]  
 [[Überraschen]], [[überfallen]]  
 Deutschland, Deutschland über allen
 

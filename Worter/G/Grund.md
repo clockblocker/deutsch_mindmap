@@ -1,1 +1,1 @@
-, [[Gründung]], [[Grundlage]], [[gründen]], [[Grundgesetz]], [[Privatgrundstück]], [[grundsätzlich]], [[Grundrecht]]
+, [[Gründung]], [[Grundlage]], [[gründen]], [[Grundgesetz]], [[Privatgrundstück]], [[grundsätzlich]], [[Grundrecht]], [[zugrundeliegende]]

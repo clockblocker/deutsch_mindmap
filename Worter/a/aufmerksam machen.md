@@ -1,1 +1,1 @@
-, [[aufmerksam]]
+, [[aufmerksam]], [[hinweisen]]

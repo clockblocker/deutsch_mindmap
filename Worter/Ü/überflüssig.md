@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 [[überflüssigsten]], [[überflüssigste]], [[überflüssigstes]], [[überflüssigsten]], [[überflüssigstem]], [[überflüssigster]], [[überflüssigsten]]
 
 [[nötig]], [[übermächtig]]
-, [[dien]], [[notwendig]], [[Deutschland]], [[Nützliches]], [[nutzlos]]
+, [[dien]], [[notwendig]], [[Deutschland]], [[Nützliches]], [[nutzlos]], [[unentbehrlich]]

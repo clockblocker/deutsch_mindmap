@@ -1,0 +1,1 @@
+🧩 [[entlehnen]] | 🔴 die [[Entlehnung]]

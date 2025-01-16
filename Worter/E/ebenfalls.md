@@ -25,3 +25,4 @@ Morpheme: [[eben]][[fall]][[s]]
 
 ---
 #Adverb
+, [[seinerseits]]

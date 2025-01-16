@@ -13,7 +13,9 @@ _Die Pfeile des Jungen hören auf zu [[leuchten]] und er bricht zusammen.
 [[Leuchtrakete]]
 
 ---
-[[aufleuchten]] - [[auf]] = [[leuchten]]
+[[aufleuchten]] - [[auf]] = [[leuchten]]    /  to light up, to illuminate
+[[beleuchten]] - [[be]] = [[leuchten]]      / to illuminate, to light up
+[[ausleuchten]] - [[aus]] = [[leuchten]]   / to illuminate, to light up thoroughly
 
 
 ---
@@ -39,4 +41,4 @@ Morpheme: [[leucht]][[en]]
 | Sie       | [[leuchten]]         | [[leuchteten]]        | [[leuchten Sie]]  | [[leuchten]]           | [[leuchteten]]          |
 
 Partizip I: [[leuchtend]], Partizip II: [[geleuchtet]]
-, [[s1 e1]], [[zusammenbrechen]], [[Leuchtrakete]]
+, [[s1 e1]], [[zusammenbrechen]], [[Leuchtrakete]], [[beleuchten]], [[ausleuchten]]

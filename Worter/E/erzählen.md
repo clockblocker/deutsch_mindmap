@@ -33,3 +33,4 @@ Zu+infinitive: [[zuerzählen]]
 [[Erzählung]], [[Erzähler]], [[Erzählerin]], [[Erzählkunst]], [[Erzählstil]], [[Kurzerzählung]]
 
 , [[sagen]]
+, [[aussagen]]

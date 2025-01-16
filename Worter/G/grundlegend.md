@@ -1,1 +1,1 @@
-, [[gründen]], [[grundsätzlich]]
+, [[gründen]], [[grundsätzlich]], [[unentbehrlich]], [[zugrundeliegende]]

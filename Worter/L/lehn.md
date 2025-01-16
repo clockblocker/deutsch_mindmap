@@ -1,1 +1,1 @@
-, [[ablehnen]], [[lehnen]]
+, [[ablehnen]], [[lehnen]], [[entlehnen]]

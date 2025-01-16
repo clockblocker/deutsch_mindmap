@@ -1,1 +1,1 @@
-, [[feststellen]], [[ungerechtfertigen]], [[Widerspruch]]
+, [[feststellen]], [[ungerechtfertigen]], [[Widerspruch]], [[ableiten]]

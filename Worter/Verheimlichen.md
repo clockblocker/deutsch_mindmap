@@ -27,4 +27,4 @@ PI: [[verheimlichend]], PII: [[verheimlichet]], Zu+inf: [[zuverheimlichen]]
 [[verheimlichen]] - [[ver]] = [[heimlichen]] / to conceal, to hide, to keep secret
 
 ---
-[[Verheimlichung]], [[Geheimhaltung]], [[vertraulich]], [[verschwiegen]], [[heimlich]], [[Verheimlichen]], [[äußern]]
+[[Verheimlichung]], [[Geheimhaltung]], [[vertraulich]], [[verschwiegen]], [[heimlich]], [[Verheimlichen]], [[äußern]], [[hinweisen]], [[aussagen]]
