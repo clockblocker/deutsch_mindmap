@@ -10,7 +10,7 @@ ANNA: Schnell - [[umschalten]]!
 
 ---
 Synonyme: [[wechseln]], [[ändern]], [[umlegen]], [[umstellen]], [[umpositionieren]]
-Antonyme: [[beibehalten]], [[lassen]], [[fixieren]]
+Antonyme: [[Worter/B/beibehalten]], [[lassen]], [[fixieren]]
 
 ---
 Übersetzung: to switch, to change over

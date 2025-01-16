@@ -2,6 +2,9 @@
 die [[Verfassungen]]
 
 ---
+11. Wie wird die [[Verfassung]] der Bundesrepublik Deutschland genannt? (76%)
+	- [x] [[Grundgesetz]]
+
 43. Wann kann in Deutschland eine Partei verboten werden? (88%)
 	- [x] wenn sie gegen die [[Verfassung]] kämpft
 
@@ -11,6 +14,10 @@ die [[Verfassungen]]
 232. Wer wird bei der Europawahl gewählt? (85%)
 	- [ ] die europäische [[Verfassung]]
 	- [x] die [[Abgeordneten]] des Europäischen Parlaments
+
+61. Was bedeutet „[[Volkssouveränität]]“? (78%)
+	- [ ] Das [[Bundesverfassungsgericht]] steht über der [[Verfassung]].
+	- [x] Die Staatsgewalt geht vom Volke aus.
 
 ---
 = [[Konstitution]], [[Staatsform]], [[Grundgesetz]]

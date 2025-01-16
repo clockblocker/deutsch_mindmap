@@ -39,4 +39,4 @@ Partizip I: [[führend]], Partizip II: [[geführt]]
 
 
 [[fahren]], [[steuere]]
-, [[Schwierigkeit]], [[regieren]], [[verwalten]], [[vorsitzen]], [[Staatsoberhaupt]]
+, [[Schwierigkeit]], [[regieren]], [[verwalten]], [[vorsitzen]], [[Staatsoberhaupt]], [[Stadtoberhaupt]]

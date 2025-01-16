@@ -1,1 +1,1 @@
-, [[Prokura]], [[Agentur]], [[vertreten]]
+, [[Prokura]], [[Agentur]], [[vertreten]], [[Stellvertreter]]

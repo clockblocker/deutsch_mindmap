@@ -7,6 +7,7 @@ Oh Mann. Ich mach mir [[Sorgen]] …
 
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]].
 
+
 ---
 Synonyme:
 - [[Ängste]], [[Befürchtungen]], [[Nöte]], [[Probleme]], [[Schwierigkeiten]]
@@ -31,6 +32,9 @@ hatte [[gesorgt]]
 
 ---
 Damals [[sorgte]] der Avatar für Harmonie zwischen den Wasserstämmen, dem Erdkönigreich, der Feuernation und den Luftnomaden. 
+
+171. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
+	- [x] [[richtet]] sich nach [[Angebot]] und [[Nachfrage]], aber der Staat [[sorgt]] für einen sozialen [[Ausgleich]].
 
 ---
 Synonyme: [[sich kümmern]], [[achten]], [[aufpassen]], [[versorgen]], [[berücksichtigen]]

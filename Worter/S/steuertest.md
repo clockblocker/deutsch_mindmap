@@ -1,1 +1,1 @@
-, [[steuere]]
+, [[steuere]], [[Steuern]]

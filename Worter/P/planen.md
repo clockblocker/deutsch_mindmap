@@ -1,1 +1,1 @@
-, [[vorbereiten]], [[Putzplan]], [[wollen]], [[vorhaben]], [[planenden]]
+, [[vorbereiten]], [[Putzplan]], [[wollen]], [[vorhaben]], [[planenden]], [[entwerfen]]

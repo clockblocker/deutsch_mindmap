@@ -26,4 +26,4 @@ G: des [[Aufrufs]], der [[Aufrufe]]
 D: dem [[Aufruf]], den [[Aufrufen]]  
 
 ---
-[[aufrufen]], [[aufrufartig]], [[rufen]], [[Aufruferin]], [[Aufrufer]]
+[[aufrufen]], [[aufrufartig]], [[rufen]], [[Aufruferin]], [[Aufrufer]], [[Petition]]

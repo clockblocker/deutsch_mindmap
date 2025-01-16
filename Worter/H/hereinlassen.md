@@ -1,1 +1,1 @@
-, [[hineinlassen]]
+, [[hineinlassen]], [[hinauswerfen]]

@@ -1,1 +1,1 @@
-, [[beschwert]], [[beschweren]], [[Einspruch]], [[reklamieren]]
+, [[beschwert]], [[beschweren]], [[Einspruch]], [[reklamieren]], [[Petition]]

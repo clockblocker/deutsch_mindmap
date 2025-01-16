@@ -27,4 +27,4 @@ G: der [[Entlassung]], der [[Entlassungen]]
 D: der [[Entlassung]], den [[Entlassungen]]  
 
 ---
-[[entlassen]], [[Entlassener]], [[entlassungswürdg]], [[Entlassungsurkunde]]
+[[entlassen]], [[Entlassener]], [[entlassungswürdg]], [[Entlassungsurkunde]], [[Verhaftungen]]

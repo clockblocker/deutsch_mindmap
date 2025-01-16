@@ -1,0 +1,1 @@
+🟢 🏛️ das [[Bezirksamt]], [bəˈtsɪʁksˌʔamt]

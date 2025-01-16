@@ -1,1 +1,1 @@
-, [[recherchieren]], [[respektieren]], [[Rechercheergbenis]], [[regieren]], [[reklamieren]], [[Reparationsleistung]]
+, [[recherchieren]], [[respektieren]], [[Rechercheergbenis]], [[regieren]], [[reklamieren]], [[Reparationsleistung]], [[repräsentieren]]

@@ -5,6 +5,8 @@ die [[Abgeordneten]]
 232. Wer wird bei der Europawahl gewählt? (85%)
 	- [x] die [[Abgeordneten]] des Europäischen Parlaments
 
+89. Wie nennt man in Deutschland die [[Vereinigung]] von [[Abgeordneten]] einer Partei im Parlament? (78%)
+	- [x] Fraktion
 
 13. Im Parlament steht der [[Begriff]] „Opposition“ für… (96%)
 	- [x] alle [[Abgeordneten]], die nicht zu der [[Regierungspartei]]/den Regierungsparteien gehören.

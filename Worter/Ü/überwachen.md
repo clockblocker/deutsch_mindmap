@@ -4,6 +4,11 @@
 148. Was ist eine Aufgabe der Polizei in Deutschland? (87%)
 	- [x] die [[Einhaltung]] von [[Gesetzen]] zu [[überwachen]]
 
+84. Welche [[Hauptaufgabe]] hat der deutsche [[Bundespräsident]] / die deutsche Bundespräsidentin? Er / Sie … (77%)
+	- [ ] regiert das Land.
+	- [ ] [[entwirft]] die [[Gesetze]].
+	- [x] [[repräsentiert]] das Land.
+	- [ ] [[überwacht]] die [[Einhaltung]] der Gesetze.
 
 ---
 = [[kontrollieren]], [[beaufsichtigen]], [[beobachten]]

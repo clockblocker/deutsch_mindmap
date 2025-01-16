@@ -8,6 +8,9 @@ Das Kind bricht das Essen. (Es kann das Essen nicht [[behalten]].)
 Zum Glück [[behielt]] Fred in dieser Situation doch noch einen kühlen Kopf. Er blieb ruhig stehen und [[tat]] einfach nichts. 
 
 ---
+[[beibehalten]] - [[bei]] = [[behalten]] / to keep, to maintain, to retain
+
+---
 Synonyme: [[merken]], [[speichern]], [[erinnern]], [[aufbewahren]], [[bewahren]]
 Antonyme: [[vergessen]], [[verlieren]], [[verdrängen]]
 
@@ -37,4 +40,4 @@ Zu infinitive: [[zubehalten]]
 
 
 [[übergeben]], [[loswerden]], [[geliehen]], [[wegwerfen]], [[bewegen]], [[wechseln]], [[ablösen]], [[schicken]], [[verkaufen]], [[feuern]]
-, [[umtauschen]], [[abgeben]], [[überlassen]], [[austauschen]]
+, [[umtauschen]], [[abgeben]], [[überlassen]], [[austauschen]], [[hinauswerfen]], [[beibehalten]]

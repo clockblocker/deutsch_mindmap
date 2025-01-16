@@ -1,1 +1,1 @@
-, [[öffentlich]], [[Gemeindeverwaltung]]
+, [[öffentlich]], [[Gemeindeverwaltung]], [[Gemeinderat]], [[Stadträte]], [[Kommune]]

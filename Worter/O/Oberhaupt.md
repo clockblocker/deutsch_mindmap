@@ -27,4 +27,4 @@ G: des [[Oberhauptes]], der [[Oberhäupter]]
 D: dem [[Oberhaupt]], den [[Oberhäuptern]]  
 
 ---
-[[oberste]], [[obwalten]], [[Obrigkeit]], [[obere]], [[hauptsächlich]], [[Staatsoberhaupt]]
+[[oberste]], [[obwalten]], [[Obrigkeit]], [[obere]], [[hauptsächlich]], [[Staatsoberhaupt]], [[Stadtoberhaupt]]

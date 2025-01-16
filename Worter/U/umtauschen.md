@@ -5,7 +5,7 @@
 
 ---
 Synonyme: [[wechseln]], [[austauschen]], [[ersetzen]], [[zurückgeben]], [[vertauschen]]
-Antonyme: [[behalten]], [[festhalten]], [[beibehalten]]
+Antonyme: [[behalten]], [[festhalten]], [[Worter/B/beibehalten]]
 
 ---
 [[umtauschen]] - [[um]] = [[tauschen]]   // to exchange, to swap

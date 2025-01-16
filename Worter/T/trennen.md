@@ -33,4 +33,4 @@ Morpheme: [[trenn]][[en]]
 
 Partizip I: [[trennend]], Partizip II: [[getrennt]]
 
-[[trennen]] - [[trenn]] = [[en]][[vermischen]], , [[mischen]], [[knüpfen]], [[verheiraten]], [[aufteilen]], [[abscheiden]], [[angehören]], [[Trennungsjahr]], [[anfügen]], [[anheften]]
+[[trennen]] - [[trenn]] = [[en]][[vermischen]], , [[mischen]], [[knüpfen]], [[verheiraten]], [[aufteilen]], [[abscheiden]], [[angehören]], [[Trennungsjahr]], [[anfügen]], [[anheften]], [[Eiserner Vorhang]]

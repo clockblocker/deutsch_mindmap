@@ -1,9 +1,11 @@
-📝 [[richten]] + Akk, [ˈrɪçtən] | 🔴 die [[Richt]]
-[[richtete]]
-haben [[gerichtet]]
+📝 [[richten]] + Akk, [ˈrɪçtən] | 🔴 die [[Richt]] = [[steuern]]
+[[richtete]], haben [[gerichtet]]
 
 ---
-(Guckt wieder in das Fernrohr und richtet dads Fernrohr auf die Siedlung des südlichen Wasserstamms)
+(Guckt wieder in das Fernrohr und [[richtet]] dads Fernrohr auf die Siedlung des südlichen Wasserstamms)
+
+171. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
+	- [x] [[richtet]] sich nach [[Angebot]] und [[Nachfrage]], aber der Staat [[sorgt]] für einen sozialen [[Ausgleich]].
 
 ---
 [[berichten]] - [[be]] = [[richten]] // report

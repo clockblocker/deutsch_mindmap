@@ -31,4 +31,4 @@ D: der [[Verwaltung]], den [[Verwaltungen]]
 
 
 [[Aufsicht]], [[leiten]], [[Regierung]], [[Behörde]], [[Bundesbezirk]], [[Ordnungsamt]], [[Einwohnermeldeamt]], [[Standesamt]], [[Behördenleiter]]
-, [[Amt]], [[Gemeindeverwaltung]]
+, [[Amt]], [[Gemeindeverwaltung]], [[Verwaltungsaufbau]], [[Landräte]]

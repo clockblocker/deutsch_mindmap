@@ -23,4 +23,4 @@ Genitive: des [[Einwohners]], der [[Einwohner]]
 Dative: dem [[Einwohner]], den [[Einwohnern]] 
 
 ---
-[[einwohnen]], [[Einwohnermeldeamt]], [[Einwohnerzahl]], [[einwohnerstark]], [[Bevölkerung]], [[Staatsangehörige]], [[Gastarbeiter]]
+[[einwohnen]], [[Einwohnermeldeamt]], [[Einwohnerzahl]], [[einwohnerstark]], [[Bevölkerung]], [[Staatsangehörige]], [[Gastarbeiter]], [[Stadtoberhaupt]]

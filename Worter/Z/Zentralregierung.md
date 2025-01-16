@@ -1,1 +1,1 @@
-, [[Gemeinde]]
+, [[Gemeinde]], [[Kommune]]

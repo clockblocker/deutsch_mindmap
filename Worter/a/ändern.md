@@ -18,7 +18,7 @@ Doch dann erklärte uns die Feuernation den Krieg und alles [[änderte]] sich.
 
 ---
 Synonyme: [[verändern]], [[umändern]], [[modifizieren]], [[wandeln]], [[umwandeln]], 
-Antonyme: [[beibehalten]], [[lassen]], [[konservieren]], [[erhalten]], [[fixieren]]
+Antonyme: [[Worter/B/beibehalten]], [[lassen]], [[konservieren]], [[erhalten]], [[fixieren]]
 [[umschalten]]
 
 ---
@@ -41,4 +41,4 @@ Morpheme: [[änder]][[n]]
 
 Partizip I: [[ändernd]], Partizip II: [[geändert]]
 
-, [[werden]], [[wechseln]], [[umentscheiden]]
+, [[werden]], [[wechseln]], [[umentscheiden]], [[beibehalten]]

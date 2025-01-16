@@ -1,1 +1,1 @@
-, [[Decke]]
+, [[Decke]], [[Vorhang]]

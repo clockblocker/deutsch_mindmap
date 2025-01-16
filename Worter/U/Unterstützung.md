@@ -25,4 +25,4 @@ G: der [[Unterstützung]], der [[Unterstützungen]]
 D: der [[Unterstützung]], den [[Unterstützungen]]  
 
 ---
-[[unterstützen]], [[unterstützend]], [[Unterstützer]], [[Unterstützerin]], [[Unterstützung­sanspruch]], [[beistehen]], [[Versorgung]]
+[[unterstützen]], [[unterstützend]], [[Unterstützer]], [[Unterstützerin]], [[Unterstützung­sanspruch]], [[beistehen]], [[Versorgung]], [[unter]]

@@ -24,4 +24,4 @@ G: der [[Unterhaltung]], der [[Unterhaltungen]]
 D: der [[Unterhaltung]], den [[Unterhaltungen]]  
 
 ---
-[[unterhalten]], [[unterhaltsam]], [[Unterhaltungswert]], [[Unterhaltungsmedium]]
+[[unterhalten]], [[unterhaltsam]], [[Unterhaltungswert]], [[Unterhaltungsmedium]], [[unter]]

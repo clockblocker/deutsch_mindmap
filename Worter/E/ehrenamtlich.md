@@ -3,10 +3,10 @@ nicht [[bezahlt]], [[hauptberuflich]]
 
 ---
 256. In Deutschland helfen [[ehrenamtliche]] [[Wahlhelfer]] und Wahlhelferinnen bei den [[Wahlen]]. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen? (90%)
-	- [ ] Sie helfen Kindern und alten Menschen beim Wählen.
-	- [ ] Sie schreiben Karten und Briefe mit der [[Angabe]] des [[Wahllokals]].
-	- [ ] Sie geben [[Zwischenergebnisse]] an Journalisten weiter.
 	- [x] Sie zählen die Stimmen nach dem Ende der Wahl.
+
+150. Ein [[Gerichtsschöffe]] / eine Gerichtsschöffin in Deutschland ist … (78%)
+	- [x] ein [[ehrenamtlicher]] Richter / eine ehrenamtliche Richterin.
 
 
 23. In Deutschland sind die [[meisten]] [[Erwerbstätigen]] … (97%)
@@ -14,7 +14,7 @@ nicht [[bezahlt]], [[hauptberuflich]]
 	- [ ] [[ehrenamtlich]] für ein Bundesland tätig.
 
 132. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
-	- [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
+	- [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]]
 	- [ ] Sie arbeiten in der [[Bundesregierung]].
 ---
 = [[freiwillig]], [[unentgeltlich]], [[freiberuflich]]

@@ -1,1 +1,1 @@
-, [[Kriegsminister]], [[Familienministerium]], [[Außenminister]]
+, [[Kriegsminister]], [[Familienministerium]], [[Außenminister]], [[Stadträte]]

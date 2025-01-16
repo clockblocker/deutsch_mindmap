@@ -1,1 +1,1 @@
-, [[Ansprechpartner]], [[vertreten]]
+, [[Ansprechpartner]], [[vertreten]], [[Stellvertreter]], [[repräsentieren]]

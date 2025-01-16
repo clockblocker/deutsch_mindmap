@@ -2,6 +2,11 @@
 die [[Einheiten]]
 
 ---
+
+215. Wer wird als „Kanzler der Deutschen [[Einheit]]“ [[bezeichnet]]? (76%)
+	- [ ] Gerhard Schröder
+	- [x] Helmut Kohl
+
 286. Sie möchten bei einer Firma in Deutschland Ihr [[Arbeitsverhältnis]] beenden. Was müssen Sie beachten? (95%)
 	- [ ] die [[Gehaltszahlungen]]
 	- [ ] die [[Arbeitszeit]]

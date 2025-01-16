@@ -27,4 +27,4 @@ G: des [[Politikunterrichts]], der [[Politikunterrichte]]
 D: dem [[Politikunterricht]], den [[Politikunterrichten]]  
 
 ---
-[[politisch]], [[unterrichten]], [[Bildung]], [[Staatskundelehre]]
+[[politisch]], [[unterrichten]], [[Bildung]], [[Staatskundelehre]], [[unter]]

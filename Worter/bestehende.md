@@ -1,0 +1,1 @@
+🏗️ [[bestehen]] | 🏗️ [[bestehend]]

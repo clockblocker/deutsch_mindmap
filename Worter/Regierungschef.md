@@ -26,4 +26,4 @@ G: des [[Regierungschefs]], der [[Regierungschefs]]
 D: dem [[Regierungschef]], den [[Regierungschefs]] 
 
 ---
-[[regieren]], [[Regierung]], [[Chef]], [[Chefin]], [[Führung]], [[Staatsoberhaupt]]
+[[regieren]], [[Regierung]], [[Chef]], [[Chefin]], [[Führung]], [[Staatsoberhaupt]], [[Bundespräsident]]

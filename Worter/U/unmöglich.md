@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[unmöglich]], [[unmögliche]], [[unmöglichen]], [[unmögliches]], [[unmöglicher]], [[unmöglichem]]
 [[unmöglicher]], [[unmöglichere]], [[unmöglicheren]], [[unmöglicheres]], [[unmöglicherer]], [[unmöglicherem]]
-[[unmöglichste]], [[unmöglichster]], [[unmöglichste]], [[unmöglich stes]], [[unmöglichsten]], [[unmöglich stem]], [[unmöglichster]], [[unmöglichsten]]
+[[unmöglichste]], [[unmöglichster]], [[unmöglichste]], [[unmöglich stes]], [[unmöglichsten]], [[unmöglich stem]], [[unmöglichster]], [[unmöglichsten]], [[ermöglichen]]

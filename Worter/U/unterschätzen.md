@@ -27,4 +27,4 @@ PI: [[unterschätzend]], PII: [[unterschätzt]], Zu+inf: [[unterschätzen]]
 [[unterschätzen]] - [[unter]] = [[schätzen]] / to underestimate
 
 ---
-[[Unterschätzung]], [[Schätzung]], [[einschätzen]], [[abschätzen]], [[überschätzen]]
+[[Unterschätzung]], [[Schätzung]], [[einschätzen]], [[abschätzen]], [[überschätzen]], [[repräsentieren]]

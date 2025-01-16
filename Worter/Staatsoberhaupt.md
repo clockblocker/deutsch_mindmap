@@ -23,4 +23,4 @@ G: des [[Staatsoberhauptes]], der [[Staatsoberhäupter]]
 D: dem [[Staatsoberhaupt]], den [[Staatsoberhäuptern]]  
 
 ---
-[[staatlich]], [[Oberhaupt]], [[Staatsform]], [[regieren]], [[führen]]
+[[staatlich]], [[Oberhaupt]], [[Staatsform]], [[regieren]], [[führen]], [[Bundespräsident]]

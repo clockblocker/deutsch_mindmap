@@ -10,7 +10,7 @@ STEFAN: Du bist [[gefeuert]]!
 
 ---
 Synonyme: [[entlassen]], [[kündigen]], [[rauswerfen]], [[absetzen]], [[eliminieren]]
-Antonyme: [[einstellen]], [[behalten]], [[beibehalten]]
+Antonyme: [[einstellen]], [[behalten]], [[Worter/B/beibehalten]]
 
 ---
 Übersetzung: to fire, to dismiss

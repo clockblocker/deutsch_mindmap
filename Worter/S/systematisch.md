@@ -1,1 +1,1 @@
-, [[regelmäßig]], [[gegliedert]]
+, [[regelmäßig]], [[gegliedert]], [[willkürlich]]

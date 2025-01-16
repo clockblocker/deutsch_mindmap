@@ -37,4 +37,4 @@ Morpheme: [[be]][[handel]][[n]]
 Partizip I: [[behandelnd]], Partizip II: [[behandelt]]
 
 [[behandeln]] - [[be]] = [[handeln]], [[ablehnen]], [[Gleichbehandlung]]
-🩺 [[behandeln]]
+🩺 [[behandeln]], [[Ungleichbehandlung]]

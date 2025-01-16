@@ -1,1 +1,1 @@
-, [[Wiedervereinigung]], [[aufteilen]]
+, [[Wiedervereinigung]], [[aufteilen]], [[Eiserner Vorhang]]

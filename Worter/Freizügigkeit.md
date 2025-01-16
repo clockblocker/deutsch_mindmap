@@ -3,11 +3,11 @@ die [[Freizügigkeiten]]
 
 ---
 281. Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle [[Hautfarbe]] und werden [[deshalb]] nicht [[hineingelassen]]. Welches Recht wird in dieser Situation [[verletzt]]? Das Recht auf … (91%)
-	- [ ] Meinungsfreiheit
 	- [x] [[Gleichbehandlung]]
-	- [ ] [[Versammlungsfreiheit]]
 	- [ ] [[Freizügigkeit]]
 
+19. Was versteht man unter dem Recht der „[[Freizügigkeit]]“ in Deutschland? (77%)
+	- [x] Man darf sich seinen [[Wohnort]] selbst [[aussuchen]].
 
 ---
 = [[Bewegungsfreiheit]], [[Ungebundenheit]], [[Liberalität]]

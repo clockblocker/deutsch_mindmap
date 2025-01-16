@@ -1,1 +1,1 @@
-, [[Nebel]]
+, [[Nebel]], [[Vorhang]]

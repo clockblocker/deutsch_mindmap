@@ -1,1 +1,1 @@
-, [[danken]], [[tadeln]], [[schmeicheln]], [[beschweren]], [[reklamieren]]
+, [[danken]], [[tadeln]], [[schmeicheln]], [[beschweren]], [[reklamieren]], [[vorwerfen]]

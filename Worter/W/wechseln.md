@@ -11,7 +11,7 @@ _Die Szene [[wechselt]] zu Katara und Sokka, wo sich der Nebel gerade verzieht.
 
 ---
 Synonyme: [[austauschen]], [[umtauschen]], [[ersetzen]], [[ändern]], [[umstellen]]
-Antonyme: [[beibehalten]], [[lassen]], [[behalten]], [[bleiben]], [[verweilen]]
+Antonyme: [[Worter/B/beibehalten]], [[lassen]], [[behalten]], [[bleiben]], [[verweilen]]
 
 ---
 Übersetzung: to change, to swap, to switch
@@ -34,4 +34,4 @@ Morpheme: [[wechsel]][[n]]
 
 Partizip I: [[wechselnd]], Partizip II: [[gewechselt]]
 
-, [[ablösen]], [[um­schlagen]]
+, [[ablösen]], [[um­schlagen]], [[beibehalten]]

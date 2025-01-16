@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Mehrheit]], [[Mehrheiten]]
 
 ---
 #Substantiv #Feminin
-''', [[mehrheitlich]], [[Mehrheitswahlrecht]]
+''', [[mehrheitlich]], [[Mehrheitswahlrecht]], [[Wählermehrheit]]

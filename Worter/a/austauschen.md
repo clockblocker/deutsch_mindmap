@@ -10,7 +10,7 @@
 ---
 = [[wechseln]], [[ersetzen]], [[tauschen]], [[wechseln]], [[umtauschen]]
 ≈ [[umtauschen]], [[verwechseln]], [[vertauschen]], [[auswechseln]]
-≠ [[behalten]], [[festhalten]], [[beibehalten]]
+≠ [[behalten]], [[festhalten]], [[Worter/B/beibehalten]]
 
 ---
 to exchange, to swap, to replace

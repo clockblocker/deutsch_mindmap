@@ -7,6 +7,10 @@ die [[Mitglieder]]
 
 [[Mitglied]] einer Partei ist.
 
+150. Ein [[Gerichtsschöffe]] / eine Gerichtsschöffin in Deutschland ist … (78%)
+	- [x] ein [[ehrenamtlicher]] Richter / eine ehrenamtliche Richterin.
+	- [ ] ein [[Mitglied]] eines [[Gemeinderats]].
+
 [[Familienmitglied]], [[Mitgliedschaft]]
 
 221. Deutschland ist [[Mitglied]] des [[Schengener]] [[Abkommens]]. Was bedeutet das? (96%)

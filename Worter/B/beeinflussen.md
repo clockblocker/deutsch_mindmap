@@ -30,4 +30,4 @@ PI: [[beeinflussend]], PII: [[beeinflusst]], Zu+inf: [[zu beeinflussen]]
 [[beeinflussen]] - [[be]] = [[einflussen]] / to influence, to affect, to impact
 
 ---
-[[Beeinflussung]], [[Einfluss]], [[einflussreich]], [[beeinflussbar]], [[unbeeinflussbar]], [[zwingen]], [[überreden]]
+[[Beeinflussung]], [[Einfluss]], [[einflussreich]], [[beeinflussbar]], [[unbeeinflussbar]], [[zwingen]], [[überreden]], [[Steuern]]

@@ -1,1 +1,1 @@
-, [[Lust]], [[ablehnen]], [[Aufruf]], [[Erlaubnis]], [[Genehmigung]], [[Einwilligung]], [[Unterstützung]], [[Widerspruch]], [[Gebet]], [[Einverständnis]], [[Umarmung]]
+, [[Lust]], [[ablehnen]], [[Aufruf]], [[Erlaubnis]], [[Genehmigung]], [[Einwilligung]], [[Unterstützung]], [[Widerspruch]], [[Gebet]], [[Einverständnis]], [[Umarmung]], [[Petition]]

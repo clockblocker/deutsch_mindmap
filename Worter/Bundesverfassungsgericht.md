@@ -9,6 +9,11 @@ die [[Bundesverfassungsgerichte]]
 80. Welches [[Gericht]] in Deutschland ist [[zuständig]] für die [[Auslegung]] des Grundgesetzes? (79%)
 	- [x] [[Bundesverfassungsgericht]]
 
+61. Was bedeutet „[[Volkssouveränität]]“? (78%)
+	- [ ] Das [[Bundesverfassungsgericht]] steht über der [[Verfassung]].
+	- [x] Die Staatsgewalt geht vom Volke aus.
+
+
 ---
 = [[Verfassungsorgan]], [[Verfassungsgericht]], [[Höchstgericht]]
 ≈ [[Rechtsprechung]], [[Justiz]], [[Gerichtshof]]

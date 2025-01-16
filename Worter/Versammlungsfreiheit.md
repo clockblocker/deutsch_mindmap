@@ -2,12 +2,13 @@
 die [[Versammlungsfreiheiten]]
 
 ---
+17. Die deutschen [[Gesetze]] [[verbieten]] … (78%)
+	- [ ] [[Versammlungsfreiheit]] der Einwohner und Einwohnerinnen.
+	- [x] [[Ungleichbehandlung]] der Bürger und Bürgerinnen durch den Staat.
+
 281. Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle [[Hautfarbe]] und werden [[deshalb]] nicht [[hineingelassen]]. Welches Recht wird in dieser Situation [[verletzt]]? Das Recht auf … (91%)
-	- [ ] Meinungsfreiheit
 	- [x] [[Gleichbehandlung]]
 	- [ ] [[Versammlungsfreiheit]]
-	- [ ] [[Freizügigkeit]]
-
 
 ---
 = [[Demonstrationsrecht]], [[Kundgebungsrecht]]

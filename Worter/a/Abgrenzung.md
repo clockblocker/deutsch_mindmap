@@ -1,1 +1,1 @@
-, [[Grenze]], [[Grenz]]
+, [[Grenze]], [[Grenz]], [[Eiserner Vorhang]], [[Abschottung]]

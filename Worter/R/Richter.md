@@ -32,4 +32,4 @@ G: des [[Richters]], der [[Richter]]
 D: dem [[Richter]], den [[Richtern]]  
 
 ---
-[[richten]], [[richterlich]], [[Rechtsprechung]], [[urteilen]], [[verurteilen]], [[verurteilten]], [[Angeklagte]], [[Urteile]], [[rechtsprechend]]
+[[richten]], [[richterlich]], [[Rechtsprechung]], [[urteilen]], [[verurteilen]], [[verurteilten]], [[Angeklagte]], [[Urteile]], [[rechtsprechend]], [[Gerichtsschöffe]]

@@ -1,1 +1,1 @@
-[[nervös]], [[begleichen]], [[durchgeknallt]], [[gereizt]]
+[[nervös]], [[begleichen]], [[durchgeknallt]], [[gereizt]], [[Ausgleich]]

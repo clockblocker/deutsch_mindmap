@@ -1,0 +1,1 @@
+🔢 [[dreistufig]], [ˈdʁaɪ̯ˌʃtuːfɪç] ≠ [[einstufig]], [[unter]]

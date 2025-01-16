@@ -1,1 +1,1 @@
-, [[Schöffe]]
+, [[Schöffe]], [[Gerichtsschöffe]]

@@ -50,3 +50,4 @@ Partizip I: [[erhaltend]], Partizip II: [[erhalten]]
 
 
 [[ändern]], [[holen]], [[verloren]], [[verlieren]], [[haben]], [[kriegen]], [[verdienen]], [[abbekommen]]
+, [[beibehalten]]

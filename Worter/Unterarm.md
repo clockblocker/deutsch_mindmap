@@ -22,4 +22,4 @@ G: des [[Unterarms]], der [[Unterarme]]
 D: dem [[Unterarm]], den [[Unterarmen]] 
 
 ---
-[[unterarmig]], [[Unterarmmuskel]], [[unterarmkräftig]]
+[[unterarmig]], [[Unterarmmuskel]], [[unterarmkräftig]], [[unter]]

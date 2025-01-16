@@ -30,4 +30,4 @@ G: des [[Schöffen]], der [[Schöffen]]
 D: dem [[Schöffen]], den [[Schöffen]] 
 
 ---
-[[schöffisch]], [[Schöffengericht]], [[Schöffenurteil]], [[Schöffenbank]], [[Angeklagte]]
+[[schöffisch]], [[Schöffengericht]], [[Schöffenurteil]], [[Schöffenbank]], [[Angeklagte]], [[Gerichtsschöffe]]

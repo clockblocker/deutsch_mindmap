@@ -3,7 +3,7 @@
 
 ---
 144. Ein Richter / eine Richterin gehört in Deutschland zur … (83%)
-	- [ ] [[vollziehenden]] Gewalt.
+	- [x] [[vollziehenden]] Gewalt.
 	- [x] [[rechtsprechenden]] Gewalt.
 	- [ ] [[planenden]] Gewalt.
 	- [ ] [[gesetzgebenden]] Gewalt.

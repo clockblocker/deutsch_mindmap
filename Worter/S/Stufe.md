@@ -2,7 +2,13 @@
 die [[Stufen]]
 
 ---
-Ihr werdet mir jetzt die nächsthöhere [[Stufe]] beibringen klar?!
+Ihr werdet mir jetzt die [[nächsthöhere]] [[Stufe]] [[beibringen]] klar?!
+
+69. Die Bundesrepublik Deutschland hat einen [[dreistufigen]] [[Verwaltungsaufbau]]. Wie heißt die [[unterste]] politische [[Stufe]]? (77%)
+	- [ ] [[Stadträte]]
+	- [ ] [[Landräte]]
+	- [x] [[Gemeinden]] und [[Kommune]]
+	- [ ] [[Bezirksämter]]
 
 ---
 Synonyme:
@@ -35,4 +41,4 @@ Weitere Bedeutungen:
 Verwendungsbeispiele:
 - "Eine Stufe hinaufsteigen"
 - "Die erste Stufe der Karriereleiter"
-- "Eine höhere Stufe der Entwicklung"
+- "Eine höhere Stufe der Entwicklung", [[dreistufig]], [[unter]]

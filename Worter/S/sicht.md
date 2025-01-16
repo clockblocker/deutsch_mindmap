@@ -1,1 +1,1 @@
-, [[offensichtlich]], [[Absicht]], [[absichtlich]]
+, [[offensichtlich]], [[Absicht]], [[absichtlich]], [[berücksichtigen]]

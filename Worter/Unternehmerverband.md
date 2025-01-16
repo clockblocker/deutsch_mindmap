@@ -22,4 +22,4 @@ G: des [[Unternehmerverbandes]], der [[Unternehmerverbände]]
 D: dem [[Unternehmerverband]], den [[Unternehmerverbänden]]  
 
 ---
-[[Unternehmen]], [[Unternehmer]], [[verbandelich]], [[verbandlich]], [[Verbandspolitik]]
+[[Unternehmen]], [[Unternehmer]], [[verbandelich]], [[verbandlich]], [[Verbandspolitik]], [[unter]]

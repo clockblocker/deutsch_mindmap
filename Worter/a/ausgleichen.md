@@ -1,1 +1,1 @@
-, [[begleichen]], [[schlichten]], [[mitteln]], [[nachholen]]
+, [[begleichen]], [[schlichten]], [[mitteln]], [[nachholen]], [[Ausgleich]]

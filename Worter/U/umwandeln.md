@@ -7,7 +7,7 @@ Der Atem wird im Körper zu Energie [[umgewandelt]]. Die Energie überträgt sic
 
 ---
 Synonyme: [[transformieren]], [[konvertieren]], [[verwandeln]], [[verändern]], [[modifizieren]]
-Antonyme: [[beibehalten]], [[unverändert lassen]], [[belassen]]
+Antonyme: [[Worter/B/beibehalten]], [[unverändert lassen]], [[belassen]]
 
 ---
 Übersetzung: to convert, to transform

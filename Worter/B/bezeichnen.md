@@ -3,6 +3,11 @@
 ---
 Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
 
+
+215. Wer wird als „Kanzler der Deutschen [[Einheit]]“ [[bezeichnet]]? (76%)
+	- [ ] Gerhard Schröder
+	- [x] Helmut Kohl
+
 ---
 Synonyme: [[nennen]], [[benennen]], [[betiteln]], [[charakterisieren]], [[definieren]]
 Antonyme: [[verschweigen]], [[ignorieren]], [[verbergen]]

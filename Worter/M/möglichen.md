@@ -1,1 +1,1 @@
-, [[möglich]], [[eigentlich]], [[Einwand]], [[herholen]]
+, [[möglich]], [[eigentlich]], [[Einwand]], [[herholen]], [[ermöglichen]]

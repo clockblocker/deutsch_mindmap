@@ -28,5 +28,5 @@ Morpheme: [[um]][[werf]][[en]]
 | Sie | [[werfen um]] | [[warfen um]] | [[werfen Sie um]] | [[werfen um]] | [[würfen um]] |
 
 Partizip I: [[umwerfend]], Partizip II: [[umgeworfen]]
-[[umwerfen]] - [[um]] = [[werfen]]
+[[umwerfen]] - [[um]] = [[werfen]] /  to knock over, to topple
 , [[aufstellen]], [[spinnen]]

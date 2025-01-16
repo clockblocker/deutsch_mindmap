@@ -1,1 +1,1 @@
-, [[Regierungschef]]
+, [[Regierungschef]], [[Bundespräsident]]

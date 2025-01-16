@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bundeskanzlers]], [[Bundeskanzler]], [[Bundeskanzlern]]
 
 ---
-#Substantiv #Maskulin, [[Extra 8]], [[Bundeskanzleramt]], [[Bundesregierung]]
+#Substantiv #Maskulin, [[Extra 8]], [[Bundeskanzleramt]], [[Bundesregierung]], [[Bundespräsident]]

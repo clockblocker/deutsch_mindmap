@@ -2,6 +2,10 @@
 die [[Gemeinden]]
 
 ---
+69. Die Bundesrepublik Deutschland hat einen [[dreistufigen]] [[Verwaltungsaufbau]]. Wie heißt die [[unterste]] politische [[Stufe]]? (77%)
+	- [x] [[Gemeinden]] und [[Kommune]]
+
+
 59. Vor wie vielen Jahren gab es erstmals eine [[jüdische]] [[Gemeinde]] auf dem [[Gebiet]] des [[heutigen]] Deutschlands? (100%)
 	- [x] vor etwa 1700 Jahren
 
@@ -35,4 +39,4 @@ D: der [[Gemeinde]], den [[Gemeinden]]
 [[gemeinsam]], [[gemeindlich]], [[Gemeinderatssitzung]], [[Gemeindevorstand]], [[gemeindefrei]]
 
 , [[Stadt]], [[Minderheit]], [[Dorf]]
-, [[Kirche]], [[Bundesbezirk]], [[gemein]], [[Bundesland]], [[Gemeindeverwaltung]]
+, [[Kirche]], [[Bundesbezirk]], [[gemein]], [[Bundesland]], [[Gemeindeverwaltung]], [[Gemeinderat]]

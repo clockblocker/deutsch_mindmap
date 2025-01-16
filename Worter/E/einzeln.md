@@ -1,1 +1,1 @@
-[[alle]][[beide]], [[einzelnen]], [[aneinander]], [[zu zweit]], [[gemeinsam]], [[einziger]], [[grundsätzlich]], [[einzelne]], [[sämtlich]]
+[[alle]][[beide]], [[einzelnen]], [[aneinander]], [[zu zweit]], [[gemeinsam]], [[einziger]], [[grundsätzlich]], [[einzelne]], [[sämtlich]], [[dreistufig]]

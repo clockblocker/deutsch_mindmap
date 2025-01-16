@@ -24,4 +24,4 @@ G: des [[Konflikts]], der [[Konflikte]]
 D: dem [[Konflikt]], den [[Konflikten]] 
 
 ---
-[[konflikthaft]], [[konfliktvermeidend]], [[kollidieren]], [[konfrontieren]], [[Widerspruch]]
+[[konflikthaft]], [[konfliktvermeidend]], [[kollidieren]], [[konfrontieren]], [[Widerspruch]], [[Ausgleich]]

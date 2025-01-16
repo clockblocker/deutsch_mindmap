@@ -10,7 +10,7 @@
 ---
 = [[eliminieren]], [[beseitigen]], [[aufheben]]
 ≈ [[abschauen]], [[abbauen]], [[entfernen]], [[tilgen]]
-≠ [[einführen]], [[beibehalten]], [[etablieren]], [[installieren]]
+≠ [[einführen]], [[Worter/B/beibehalten]], [[etablieren]], [[installieren]]
 
 ---
 to abolish, to eliminate, to do away with
@@ -31,4 +31,4 @@ PI: [[abschaffend]], PII: [[abgeschafft]], Zu+inf: [[abzuschaffen]]
 [[abschaffen]] - [[ab]] = [[schaffen]] / to abolish, to eliminate
 
 ---
-[[Abschaffung]], [[Beseitigung]], [[Aufhebung]], [[abschaffbar]], [[unabschaffbar]]
+[[Abschaffung]], [[Beseitigung]], [[Aufhebung]], [[abschaffbar]], [[unabschaffbar]], [[beibehalten]]

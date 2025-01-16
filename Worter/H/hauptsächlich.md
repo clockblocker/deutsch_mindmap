@@ -29,4 +29,4 @@ P: [[hauptsächlichen]], [[hauptsächlicheren]], [[hauptsächlichsten]]
 ---
 [[Hauptsache]], [[Hauptsächlichkeit]], [[hauptsächlich sein]], [[vorwiegend]]
 
-, [[erst]], , [[nebenbei]], [[mehrheitlich]], [[Oberhaupt]]
+, [[erst]], , [[nebenbei]], [[mehrheitlich]], [[Oberhaupt]], [[Hauptaufgabe]]

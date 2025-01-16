@@ -27,4 +27,4 @@ PI: [[zusteuern]], PII: [[zugesteuert]], Zu+inf: [[zuzusteuern]]
 [[zusteuern]] - [[zu]] = [[steuern]] / to steer towards, to navigate towards
 
 ---
-[[Steuerung]], [[Zusteuerung]], [[Kurs]], [[Richtung]], [[Navigation]]
+[[Steuerung]], [[Zusteuerung]], [[Kurs]], [[Richtung]], [[Navigation]], [[Steuern]]

@@ -1,3 +1,43 @@
+215. Wer wird als „Kanzler der Deutschen [[Einheit]]“ [[bezeichnet]]? (76%)
+	- [ ] Gerhard Schröder
+	- [x] Helmut Kohl
+	- [ ] Konrad Adenauer
+	- [ ] Helmut Schmidt
+
+84. Welche [[Hauptaufgabe]] hat der deutsche [[Bundespräsident]] / die deutsche Bundespräsidentin? Er / Sie … (77%)
+	- [ ] regiert das Land.
+	- [ ] [[entwirft]] die [[Gesetze]].
+	- [x] [[repräsentiert]] das Land.
+	- [ ] [[überwacht]] die [[Einhaltung]] der Gesetze.
+
+
+188. In welchem Jahr wurde die Mauer in Berlin gebaut? (77%)
+	- [ ] 1953
+	- [ ] 1956
+	- [ ] 1959
+	- [x] 1961
+
+
+202. Wer schrieb den Text zur deutschen Nationalhymne? (78%)
+	- [ ] Friedrich von Schiller
+	- [ ] Clemens Brentano
+	- [ ] Johann Wolfgang von Goethe
+	- [x] Heinrich Hoffmann von Fallersleben
+
+150. Ein [[Gerichtsschöffe]] / eine Gerichtsschöffin in Deutschland ist … (78%)
+	- [ ] der [[Stellvertreter]] / die Stellvertreterin des [[Stadtoberhaupts]].
+	- [x] ein [[ehrenamtlicher]] Richter / eine ehrenamtliche Richterin.
+	- [ ] ein [[Mitglied]] eines [[Gemeinderats]].
+	- [ ] eine Person, die Jura studiert hat.
+
+61. Was bedeutet „[[Volkssouveränität]]“? (78%)
+	- [ ] Der König / die Königin herrscht über das Volk.
+	- [ ] Das [[Bundesverfassungsgericht]] steht über der [[Verfassung]].
+	- [ ] Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.
+	- [x] Die Staatsgewalt geht vom Volke aus.
+
+
+
 237. 2007 wurde das 50-jährige [[Jubiläum]] der „Römischen [[Verträge]]“ [[gefeiert]]. Was war der [[Inhalt]] der Verträge? (78%)
 	- [ ] Beitritt Deutschlands zur NATO
 	- [x] Gründung der Europäischen [[Wirtschaftsgemeinschaft]] (EWG)

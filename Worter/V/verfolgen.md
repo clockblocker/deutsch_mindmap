@@ -3,6 +3,8 @@
 haben [[verfolgt]]
 
 ---
+[[Verfolgung]] der Juden
+
 Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war.
 
 [[Träume]] und [[Wünsche]] hat jeder. Wenn Menschen zum Beispiel nicht den Traum gehabt hätten, wie die Vögel zu fliegen, wäre das [[Flugzeug]] nie [[erfunden]] worden. Aber manche Träume sollte man nicht um jeden Preis [[verfolgen]].
@@ -31,4 +33,4 @@ Partizip I: [[verfolgend]], Partizip II: [[verfolgt]]
 [[verfolgen]] - [[ver]] = [[folgen]]
 
 , [[nachjagen]], [[hinterherlaufen]]
-, [[folgenden]]
+, [[folgenden]], [[Verfolgung]]

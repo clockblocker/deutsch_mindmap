@@ -5,6 +5,8 @@ haben [[ausgesucht]]
 ---
 - Ich [[suche]] mir fünf Zahlen aus
 
+19. Was versteht man unter dem Recht der „[[Freizügigkeit]]“ in Deutschland? (77%)
+	- [x] Man darf sich seinen [[Wohnort]] selbst [[aussuchen]].
 
 ---
 Synonyme: [[wählen]], [[auswählen]], [[bestimmen]], [[selektieren]], [[heraussuchen]]

@@ -14,7 +14,7 @@ Er bestellt sofort die Zeitschriften ab und [[kündigt]] das Fitnessstudio.
 
 ---
 Synonyme: [[beenden]], [[aufheben]], [[abbrechen]], [[terminieren]], [[beendigen]], [[feuern]], [[abbestellen]]
-Antonyme: [[verlängern]], [[fortsetzen]], [[beibehalten]]
+Antonyme: [[verlängern]], [[fortsetzen]], [[Worter/B/beibehalten]]
 
 ---
 Übersetzung: to terminate, to cancel, to give notice

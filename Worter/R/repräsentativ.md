@@ -1,1 +1,1 @@
-, [[Verhältniswahlrecht]]
+, [[Verhältniswahlrecht]], [[repräsentieren]]

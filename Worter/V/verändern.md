@@ -10,7 +10,7 @@ haben [[verändert]]
 
 ---
 Synonyme: [[ändern]], [[umgestalten]], [[modifizieren]], [[transformieren]], [[umwandeln]]
-Antonyme: [[beibehalten]], [[konservieren]], [[unverändert lassen]]
+Antonyme: [[Worter/B/beibehalten]], [[konservieren]], [[unverändert lassen]]
 
 ---
 Übersetzung: to change, to modify, to alter

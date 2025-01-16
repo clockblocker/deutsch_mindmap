@@ -30,4 +30,4 @@ Partizip I: [[entwickelnd]], Partizip II: [[entwickelt]]
 
 
 , [[Aufwachsen]], [[erfinden]]
-, [[erstellen]], [[Entwicklung]], [[ableiten]]
+, [[erstellen]], [[Entwicklung]], [[ableiten]], [[entwerfen]]

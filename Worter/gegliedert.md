@@ -3,7 +3,7 @@ nicht [[ungegliedert]]
 
 ---
 64. Die Bundesrepublik Deutschland ist heute [[gegliedert]] in … (81%)
-	- [x] [[Bund]], [[Länder]] und [[Kommunen]].
+	- [x] [[Bund]], [[Länder]] und [[Kommune]].
 
 
 ---
@@ -27,4 +27,4 @@ N: [[gegliedertes]], [[gegliederteres]], [[gegliedertstes]]
 P: [[gegliederten]], [[gegliedereteren]], [[gegliedersten]]  
 
 ---
-[[gliedern]], [[Gliederung]], [[ungegliedert]], [[Gliederungspunkt]], [[Gliederungsebene]]
+[[gliedern]], [[Gliederung]], [[ungegliedert]], [[Gliederungspunkt]], [[Gliederungsebene]], [[dreistufig]]

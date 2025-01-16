@@ -2,6 +2,10 @@
 die [[Gesetze]]
 
 ---
+17. Die deutschen [[Gesetze]] [[verbieten]] … (78%)
+	- [ ] [[Versammlungsfreiheit]] der Einwohner und Einwohnerinnen.
+	- [x] [[Ungleichbehandlung]] der Bürger und Bürgerinnen durch den Staat.
+
 53. Was bedeutet „Rechtsstaat“ in Deutschland? (83%)
 	- [x] Der Staat muss die [[Gesetze]] [[einhalten]].
 

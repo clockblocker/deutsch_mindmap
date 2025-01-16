@@ -1,1 +1,1 @@
-, [[steuere]]
+wir: [[steuern]],, [[Steuern]]

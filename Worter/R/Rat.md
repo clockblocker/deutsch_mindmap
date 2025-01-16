@@ -25,4 +25,4 @@ G: des [[Rates]], der [[Räte]]
 D: dem [[Rat]], den [[Räten]] 
 
 ---
-[[raten]], [[beratend]], [[Rathaus]], [[Ratgeber]], [[Ratschlag]], [[Hinweis]]
+[[raten]], [[beratend]], [[Rathaus]], [[Ratgeber]], [[Ratschlag]], [[Hinweis]], [[Gemeinderat]], [[Ältestenrat]], [[Stadträte]], [[Landräte]]
