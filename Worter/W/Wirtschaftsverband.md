@@ -1,1 +1,1 @@
-, [[Unternehmerverband]], [[Wirtschaftsgemeinschaft]]
+, [[Unternehmerverband]], [[Wirtschaftsgemeinschaft]], [[Verbraucherzentrale]]

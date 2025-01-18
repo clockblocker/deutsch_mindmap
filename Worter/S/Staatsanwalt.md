@@ -1,1 +1,1 @@
-, [[Anwalt]], [[Richter]], [[Schöffe]], [[Gerichtsschöffe]]
+, [[Anwalt]], [[Richter]], [[Schöffe]], [[Gerichtsschöffe]], [[Justizsenator]]

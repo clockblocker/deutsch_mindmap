@@ -1,1 +1,1 @@
-, [[Stadtoberhaupt]], [[Gemeinderat]], [[Stadträte]], [[Landräte]]
+, [[Stadtoberhaupt]], [[Gemeinderat]], [[Stadträte]], [[Landräte]], [[Kommunalwahlen]], [[Finanzsenator]]

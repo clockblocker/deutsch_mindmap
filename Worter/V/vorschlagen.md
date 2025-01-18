@@ -9,6 +9,8 @@ Aber dem wird sie die Suppe schon noch versalzen! Beim nächsten Termin mit ihre
 	- [x] wenn sie gegen die [[Verfassung]] kämpft
 	- [ ] wenn ihr Programm eine neue [[Richtung]] [[vorschlägt]]
 
+- [ ] [[schlägt vor|schlägt]] die Regierungschefs / Regierungschefinnen der Länder [[vor]].
+
 ---
 Synonyme: [[empfehlen]], [[vorschlagen]], [[anregen]], [[vorschlagen]], [[vorschlagen]]
 Antonyme: [[ablehnen 1]], [[verwerfen]], [[ignorieren]]

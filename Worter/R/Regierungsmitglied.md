@@ -1,1 +1,1 @@
-, [[Staatsoberhaupt]], [[Außenminister]]
+, [[Staatsoberhaupt]], [[Außenminister]], [[Innensenator]]

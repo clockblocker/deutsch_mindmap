@@ -26,4 +26,4 @@ G: des [[Behördenleiters]], der [[Behördenleiter]]
 D: dem [[Behördenleiter]], den [[Behördenleitern]] 
 
 ---
-[[leiten]], [[Behörde]], [[Verwaltung]], [[Führung]], [[Management]], [[Leiter]]
+[[leiten]], [[Behörde]], [[Verwaltung]], [[Führung]], [[Management]], [[Leiter]], [[Innensenator]]

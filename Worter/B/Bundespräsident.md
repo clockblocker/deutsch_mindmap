@@ -8,6 +8,10 @@ die [[Bundespräsidenten]]
 	- [x] [[repräsentiert]] das Land.
 	- [ ] [[überwacht]] die [[Einhaltung]] der Gesetze.
 
+58. Wer [[ernennt]] in Deutschland die Minister / die Ministerinnen der Bundesregierung? (71%)
+	- [ ] der Präsident / die Präsidentin des Bundesverfassungsgerichtes
+	- [x] der Bundespräsident / die Bundespräsidentin
+
 ---
 = [[Staatsoberhaupt]], [[Repräsentant]]
 ≈ [[Präsident]], [[Staatsführer]], [[Regierungschef]]

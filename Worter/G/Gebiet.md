@@ -2,6 +2,8 @@
 die [[Gebiete]]
 
 ---
+mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
+
 59. Vor wie vielen Jahren gab es erstmals eine [[jüdische]] [[Gemeinde]] auf dem [[Gebiet]] des [[heutigen]] Deutschlands? (100%)
 	- [x] vor etwa 1700 Jahren
 

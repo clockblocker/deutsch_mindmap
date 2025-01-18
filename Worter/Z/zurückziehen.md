@@ -1,1 +1,1 @@
-, [[krallen]], [[ausbreiten]], [[umentscheiden]], [[versprechen]], [[abbestellen]], [[auftreten]], [[bewerben]], [[beistehen]], [[herausfordern]]
+, [[krallen]], [[ausbreiten]], [[umentscheiden]], [[versprechen]], [[abbestellen]], [[auftreten]], [[bewerben]], [[beistehen]], [[herausfordern]], [[Rückzug]], [[ernennen]]

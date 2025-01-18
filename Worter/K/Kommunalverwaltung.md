@@ -1,1 +1,1 @@
-, [[Gemeinde]], [[Ordnungsamt]], [[Einwohnermeldeamt]], [[Gemeindeverwaltung]], [[Gemeinderat]]
+, [[Gemeinde]], [[Ordnungsamt]], [[Einwohnermeldeamt]], [[Gemeindeverwaltung]], [[Gemeinderat]], [[Kommunalwahlen]]

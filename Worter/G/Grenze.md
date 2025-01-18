@@ -4,6 +4,12 @@ die [[Grenzen]]
 ---
  [[Zulassungsgrenze]].
 
+219. Die Bundesrepublik Deutschland hat die [[Grenzen]] von heute seit … (71%)
+	- [ ] 1933.
+	- [ ] 1949.
+	- [ ] 1971.
+	- [x] 1990.
+
 
 ---
 = [[Abgrenzung]], [[Begrenzung]], [[Demarkationslinie]]

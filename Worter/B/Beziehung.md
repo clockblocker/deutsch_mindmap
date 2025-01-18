@@ -5,6 +5,8 @@ die [[Beziehungen]]
 – Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Beziehung]] gelöst.)
 
 
+[[Außenbeziehungen]]
+
 ---
 Synonyme:
 - [[Verhältnis]], [[Verbindung]], [[Bindung]], [[Verknüpfung]], [[Kontakt]]
@@ -30,4 +32,4 @@ Einzigartige mögliche Formen:
 Kontext-Beispiele:
 1. Eine enge [[Beziehung]] zwischen Freunden
 2. Eine romantische [[Beziehung]]
-3. Professionelle [[Beziehungen]] in der Arbeitswelt, [[Bezug]], [[bezogen]], [[beziehen]]
+3. Professionelle [[Beziehungen]] in der Arbeitswelt, [[Bezug]], [[bezogen]], [[beziehen]], [[Außenbeziehungen]]

@@ -26,4 +26,4 @@ D: der [[Landtagswahl]], den [[Landtagswahlen]]
 
 ---
 , [[Bundestagswahl]]
-[[wählen]], [[Landtag]], [[Wahlkampf]], [[Wahlurne]], [[Landespolitik]]
+[[wählen]], [[Landtag]], [[Wahlkampf]], [[Wahlurne]], [[Landespolitik]], [[Kommunalwahlen]]

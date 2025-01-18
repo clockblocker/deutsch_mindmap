@@ -1,0 +1,1 @@
+🕴️ [[ernennen]], [ɛɐ̯ˈnɛnən] | [[ernannte]], haben [[ernannt]]

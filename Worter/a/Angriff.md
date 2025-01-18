@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Angriffs]], [[Angriffen]], [[Angriffe]], [[Angriffen]]
 
 ---
-#Substantiv #Maskulin, [[s1 e1]], [[Aggression]], [[Angriffsgeschrei]]
+#Substantiv #Maskulin, [[s1 e1]], [[Aggression]], [[Angriffsgeschrei]], [[Rückzug]]

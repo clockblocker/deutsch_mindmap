@@ -1,1 +1,1 @@
-[[aussuchen]], [[wählen]], [[vorziehen]]
+[[aussuchen]], [[wählen]], [[vorziehen]], [[ernennen]]

@@ -1,1 +1,1 @@
-, [[Selbstjustiz]], [[Bundesverfassungsgericht]]
+, [[Selbstjustiz]], [[Bundesverfassungsgericht]], [[Justizsenator]]

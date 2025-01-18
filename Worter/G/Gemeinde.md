@@ -2,6 +2,8 @@
 die [[Gemeinden]]
 
 ---
+[[Ordnungsamt]] der [[Gemeinde]]
+
 69. Die Bundesrepublik Deutschland hat einen [[dreistufigen]] [[Verwaltungsaufbau]]. Wie heißt die [[unterste]] politische [[Stufe]]? (77%)
 	- [x] [[Gemeinden]] und [[Kommune]]
 
@@ -39,4 +41,4 @@ D: der [[Gemeinde]], den [[Gemeinden]]
 [[gemeinsam]], [[gemeindlich]], [[Gemeinderatssitzung]], [[Gemeindevorstand]], [[gemeindefrei]]
 
 , [[Stadt]], [[Minderheit]], [[Dorf]]
-, [[Kirche]], [[Bundesbezirk]], [[gemein]], [[Bundesland]], [[Gemeindeverwaltung]], [[Gemeinderat]]
+, [[Kirche]], [[Bundesbezirk]], [[gemein]], [[Bundesland]], [[Gemeindeverwaltung]], [[Gemeinderat]], [[Bezirk]]

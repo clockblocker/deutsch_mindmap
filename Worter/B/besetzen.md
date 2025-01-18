@@ -2,7 +2,9 @@
 
 ---
  [[Besatzungszone]]
- 
+
+[ ] mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
+
 ---
 = [[okkupieren]], [[einnehmen]], [[belegen]], [[beziehen]]
 ≈ [[belagern]], [[erobern]], [[beanspruchen]], [[blockieren]]

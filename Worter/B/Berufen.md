@@ -1,1 +1,1 @@
-[[Beruf]], [[Berufswahl]]
+[[Beruf]], [[Berufswahl]], [[ernennen]]

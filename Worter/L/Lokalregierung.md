@@ -1,1 +1,1 @@
-, [[Gemeinde]], [[Gemeinderat]]
+, [[Gemeinde]], [[Gemeinderat]], [[Bezirksverordnetenversammlung]]

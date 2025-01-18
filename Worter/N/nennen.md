@@ -11,6 +11,9 @@ Und manche Menschen [[hören]] sich dabei [[fast]] so an wie ein Vogel – wie d
 	- [ ] Europäische [[Gemeinschaft]]
 	- [x] Deutsche [[Wiedervereinigung]]
 
+---
+[[ernennen]] - [[er]] = [[nennen]] / to appoint, to nominate
+
 
 ---
 Synonyme: [[bezeichnen]], [[benennen]], [[titulieren]], [[heißen]], [[betiteln]]
@@ -39,4 +42,4 @@ Partizip I: [[nennend]], Partizip II: [[genannt]]
 
 
 [[heißen]]
-, [[sogenannt]], [[erwähnen]]
+, [[sogenannt]], [[erwähnen]], [[ernennen]]

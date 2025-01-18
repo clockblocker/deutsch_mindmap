@@ -4,6 +4,11 @@ die [[Aufstände]]
 ---
 [[Arbeiteraufstand]]
 
+186. Im Jahr 1953 gab es in der DDR einen [[Aufstand]], an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das? (71%)
+	- [ ] 1. Mai
+	- [x] 17. Juni
+	- [ ] 20. Juli
+	- [ ] 9. November
 
 ---
 = [[Rebellion]], [[Revolution]], [[Revolte]]

@@ -1,1 +1,1 @@
-, [[Finanzkrise]], [[finanziell]]
+, [[Finanzkrise]], [[finanziell]], [[Finanzsenator]]

@@ -1,1 +1,1 @@
-, [[Bahn]], [[Bezug]], [[herabgezogen]], [[Spielzug]], [[zügig]]
+, [[Bahn]], [[Bezug]], [[herabgezogen]], [[Spielzug]], [[zügig]], [[Rückzug]]

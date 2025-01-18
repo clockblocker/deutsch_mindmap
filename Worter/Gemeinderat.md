@@ -26,4 +26,4 @@ G: des [[Gemeinderats]], der [[Gemeinderäte]]
 D: dem [[Gemeinderat]], den [[Gemeinderäten]]  
 
 ---
-[[gemeindlich]], [[kommunal]], [[Gemeindeordnung]], [[Stadtrat]], [[Rathaus]]
+[[gemeindlich]], [[kommunal]], [[Gemeindeordnung]], [[Stadtrat]], [[Rathaus]], [[Kommunalwahlen]]

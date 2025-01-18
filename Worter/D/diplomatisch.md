@@ -1,1 +1,1 @@
-, [[politisch]], [[Außenminister]]
+, [[politisch]], [[Außenminister]], [[Außenbeziehungen]]

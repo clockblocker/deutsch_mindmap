@@ -1,1 +1,1 @@
-, [[Außenminister]]
+, [[Außenminister]], [[Finanzsenator]]

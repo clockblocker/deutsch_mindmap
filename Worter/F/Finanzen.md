@@ -1,1 +1,1 @@
-, [[Geld]], [[finanziell]], [[Wirtschaft]]
+, [[Geld]], [[finanziell]], [[Wirtschaft]], [[Finanzsenator]]

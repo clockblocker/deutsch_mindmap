@@ -2,16 +2,15 @@
 die [[Ordnungsämter]]
 
 ---
+326. Wo können Sie sich in Berlin über politische Themen informieren? (93%)
+	- [ ] beim [[Ordnungsamt]] der [[Gemeinde]]
+
 255. Bei [[Erziehungsproblemen]] können Eltern in Deutschland Hilfe [[erhalten]] vom … (96%)
 	- [ ] [[Ordnungsamt]].
-	- [ ] [[Schulamt]].
 	- [x] [[Jugendamt]].
-	- [ ] [[Gesundheitsamt]].
 
 265. Wohin muss man in Deutschland zuerst gehen, wenn man [[heiraten]] möchte? (96%)
-	- [ ] zum [[Einwohnermeldeamt]]
 	- [ ] zum [[Ordnungsamt]]
-	- [ ] zur [[Agentur]] für Arbeit
 	- [x] zum [[Standesamt]]
 
 ---
