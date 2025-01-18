@@ -17,6 +17,9 @@ Aber ich glaube [[fest]] daran, Aang kann diese Welt retten.
 	- [x] [[Sozialversicherung]]
 
 
+173. Frau Frost arbeitet als [[fest]] [[angestellte]] [[Mitarbeiterin]] in einem Büro. Was muss sie nicht von ihrem [[Gehalt]] bezahlen? (75%)
+	- [x] [[Umsatzsteuer]]
+
 ---
 Synonyme: 
 [[sicher]], [[stabil]], [[kompakt]], [[robust]], [[dauerhaft]]

@@ -1,0 +1,1 @@
+🏛️ [[offiziell]], [ɔfiˈtsiːəl] ≠ [[inoffiziell]]

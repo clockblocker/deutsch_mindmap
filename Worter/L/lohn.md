@@ -1,1 +1,1 @@
-, [[Lohnen]], [[Lohnsteuer]], [[Sozialabgaben]], [[Gehaltszahlungen]], [[unbezahlt]]
+, [[Lohnen]], [[Lohnsteuer]], [[Sozialabgaben]], [[Gehaltszahlungen]], [[unbezahlt]], [[Gehalt]]

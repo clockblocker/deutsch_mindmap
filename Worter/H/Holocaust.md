@@ -1,1 +1,1 @@
-, [[Holocaustleugnung]]
+, [[Holocaustleugnung]], [[Vernichtungslager]]

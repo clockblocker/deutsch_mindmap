@@ -1,1 +1,1 @@
-, [[Geltung]], [[Basiswert]]
+, [[Geltung]], [[Basiswert]], [[Tageshöchstwert]]

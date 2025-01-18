@@ -14,9 +14,9 @@ to turn, to change, to turn over
 [[wen]]|[[den]]
 
 ---
-ich: [[wende]], [[wendete]], –, [[wende]], [[wendete]]
-du: [[wendest]], [[wendetest]], [[wende]] | [[wend]], [[wendest]], [[wendetest]]
-er/sie/es: [[wendet]], [[wendete]], –, [[wende]], [[wendete]]
+ich: [[Wende]], [[wendete]], –, [[Wende]], [[wendete]]
+du: [[wendest]], [[wendetest]], [[Wende]] | [[wend]], [[wendest]], [[wendetest]]
+er/sie/es: [[wendet]], [[wendete]], –, [[Wende]], [[wendete]]
 wir: [[wenden]], [[wendeten]], [[wenden wir|wenden]], [[wenden]], [[wendeten]]
 ihr: [[wendet]], [[wendetet]], [[wendet]], [[wendet]], [[wendetet]]
 
@@ -61,9 +61,9 @@ Morpheme: [[wend]][[en]]
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
 | --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[wende]] | [[wandte]] | - | [[wende]] | [[wendete]] |
-| Du | [[wendest]] | [[wandtest]] | [[wende]] | [[wendest]] | [[wendtest]] |
-| Er/sie/es | [[wendet]] | [[wandte]] | - | [[wende]] | [[wendete]] |
+| Ich | [[Wende]] | [[wandte]] | - | [[Wende]] | [[wendete]] |
+| Du | [[wendest]] | [[wandtest]] | [[Wende]] | [[wendest]] | [[wendtest]] |
+| Er/sie/es | [[wendet]] | [[wandte]] | - | [[Wende]] | [[wendete]] |
 | Wir | [[wenden]] | [[wandten]] | - | [[wenden]] | [[wendeten]] |
 | Ihr | [[wendet]] | [[wandtet]] | [[wendet]] | [[wendet]] | [[wendetet]] |
 | Sie | [[wenden]] | [[wandten]] | [[wenden Sie]] | [[wenden]] | [[wendeten]] |

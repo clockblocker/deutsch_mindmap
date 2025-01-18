@@ -1,1 +1,1 @@
-, [[beziehen]]
+, [[beziehen]], [[Garantiebestimmung]]

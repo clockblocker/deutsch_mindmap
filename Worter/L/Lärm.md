@@ -1,14 +1,10 @@
 🔵 der [[Lärm]]
 kein Plural
 
+---
 ANNA: Ich glaube schon … Was ist das für ein [[Lärm]] ?  
 
-
-Beispiele:
-
-- Der [[Lärm]] auf der Straße ist unerträglich.
-- Sie konnten wegen des [[Lärms]] nicht schlafen.
-- Der [[Lärm]] der Bauarbeiten weckte mich früh am Morgen.
+Wir haben uns bei unseren Nachbarn schon oft [[über]] den [[Lärm]] [[beschwert]]. 
 
 ---
 Synonyme:

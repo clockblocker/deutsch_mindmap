@@ -1,1 +1,1 @@
-, [[überzeugen 1]], [[Überzeugungsarbeit 1]]
+, [[überzeugen]], [[Überzeugungsarbeit]]

@@ -1,1 +1,1 @@
-, [[Weniger]], [[hoch]]
+, [[Weniger]], [[hoch]], [[erhöhen]]

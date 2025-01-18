@@ -1,1 +1,1 @@
-, [[Agentur]], [[Arbeitnehmer]]
+, [[Agentur]], [[Arbeitnehmer]], [[Angestellte]]

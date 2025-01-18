@@ -1,1 +1,1 @@
-, [[Scheibe]], [[Nähe]], [[Grabe]], [[Kirche]], [[Kürbisse]], [[Stelle]], [[Jugendliche]], [[Fremde]], [[Grenze]], [[Schöffe]], [[zugrundeliegende]], [[einheimisch]]
+, [[Scheibe]], [[Nähe]], [[Grabe]], [[Kirche]], [[Kürbisse]], [[Stelle]], [[Jugendliche]], [[Fremde]], [[Grenze]], [[Schöffe]], [[zugrundeliegende]], [[einheimisch]], [[Angestellte]]

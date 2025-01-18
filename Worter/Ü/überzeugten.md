@@ -1,1 +1,1 @@
-, [[überzeugen 1]], [[überreden]]
+, [[überzeugen]], [[überreden]]

@@ -1,1 +1,1 @@
-, [[Anerkennung]], [[Bundesverdienstkreuz]], [[Verdienstorden]], [[Ehrentitel]]
+, [[Anerkennung]], [[Bundesverdienstkreuz]], [[Verdienstorden]], [[Ehrentitel]], [[Menschenwürde]]

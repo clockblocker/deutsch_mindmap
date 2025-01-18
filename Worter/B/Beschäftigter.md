@@ -1,1 +1,1 @@
-, [[beschäftigen]], [[schäftigen]], [[Arbeitnehmer]]
+, [[beschäftigen]], [[schäftigen]], [[Arbeitnehmer]], [[Angestellte]]

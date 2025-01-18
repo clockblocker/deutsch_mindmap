@@ -1,1 +1,1 @@
-, [[prägen]], [[Erzie­hung]], [[Erziehung]]
+, [[prägen]], [[Erzie­hung]], [[Erziehung]], [[Persönlichkeit]]

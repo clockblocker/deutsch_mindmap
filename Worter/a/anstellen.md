@@ -3,6 +3,9 @@
 ---
 Die Katze überlegte noch, wie sie das [[anstellen]] sollte
 
+173. Frau Frost arbeitet als [[fest]] [[angestellte]] [[Mitarbeiterin]] in einem Büro. Was muss sie nicht von ihrem [[Gehalt]] bezahlen? (75%)
+	- [x] [[Umsatzsteuer]]
+
 Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. [[Egal]], wie man sich [[anstellt]], es [[klappt]] nicht! Da muss der [[Wurm]] [[drin]] sein …
 
 97. Was [[bezahlt]] man in Deutschland automatisch, wenn man [[fest]] [[angestellt]] ist? (96%)

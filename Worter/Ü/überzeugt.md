@@ -1,1 +1,1 @@
-, [[überzeugen 1]], [[ungläubig]]
+, [[überzeugen]], [[ungläubig]]

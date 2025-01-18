@@ -1,7 +1,7 @@
 💪  [[leisten]], [ˈlaɪ̯stən] | [[leistete]], haben [[geleistet]]
 
 ---
-Manche Leute lassen sich nicht so [[einfach]] [[überzeugen 1]]. Wenn man erst [[Überzeugungsarbeit 1]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
+Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
 Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[leisten]] und [[genießt]] das Leben. So stellen sich manche Leute das Leben in Frankreich vor. 
 

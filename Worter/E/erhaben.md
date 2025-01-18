@@ -1,1 +1,1 @@
-, [[hoch]], [[heilig]]
+, [[hoch]], [[heilig]], [[erhöhen]]

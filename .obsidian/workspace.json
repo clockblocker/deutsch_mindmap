@@ -8,17 +8,297 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75d8b371c6bf4876",
+            "id": "6e3f716b8e30b01d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Einbuergerungstest/241-270.md",
+                "file": "Texte/Einbuergerungstest/271-300.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241-270"
+              "title": "271-300"
+            }
+          },
+          {
+            "id": "5340bd481be162ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/L/lösen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lösen"
+            }
+          },
+          {
+            "id": "571a812d8c68da4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/O/offiziell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "offiziell"
+            }
+          },
+          {
+            "id": "1b0f5ed6834160e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Religionsgemeinschaft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religionsgemeinschaft"
+            }
+          },
+          {
+            "id": "04c3804d010a2ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Religionsgemeinschaft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religionsgemeinschaft"
+            }
+          },
+          {
+            "id": "707b5e3eed5c6b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Religionsgemeinschaften.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religionsgemeinschaften"
+            }
+          },
+          {
+            "id": "9fa1cc6087647726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Verteidigungspolitik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verteidigungspolitik"
+            }
+          },
+          {
+            "id": "ab920916d4066706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Menschenwürde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Menschenwürde"
+            }
+          },
+          {
+            "id": "bd066d9c5f3f26f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Menschenwürde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Menschenwürde"
+            }
+          },
+          {
+            "id": "26affb27971d7e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/B/beziehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "beziehen"
+            }
+          },
+          {
+            "id": "094cb1d31a23cab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/erwähnt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "erwähnt"
+            }
+          },
+          {
+            "id": "1bc0a571abe1d2f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/erwähnen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "erwähnen"
+            }
+          },
+          {
+            "id": "058163f2fc823989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/W/wähnen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wähnen"
+            }
+          },
+          {
+            "id": "dead8986d37de516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/erwähnen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "erwähnen"
+            }
+          },
+          {
+            "id": "c9725e0e1eb0a4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/Kuroku.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kuroku"
+            }
+          },
+          {
+            "id": "99866d6bc424d85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/B/beschweren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "beschweren"
+            }
+          },
+          {
+            "id": "fbc192d228ce7c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/vermute.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vermute"
+            }
+          },
+          {
+            "id": "0ec0e40c300e340c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/vermuten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vermuten"
+            }
+          },
+          {
+            "id": "332a9802cd39f666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/vermute.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vermute"
+            }
+          },
+          {
+            "id": "0facd2bf6a539a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/vermuten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vermuten"
+            }
+          },
+          {
+            "id": "63cc8397e92dc975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/B/bald.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bald"
             }
           },
           {
@@ -80,7 +360,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "werfen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,10 +446,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Texte/Einbuergerungstest/241-270.md"
+                "file": "Worter/B/beziehen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 241-270"
+              "title": "Outline of beziehen"
             }
           }
         ],
@@ -192,34 +472,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "75d8b371c6bf4876",
+  "active": "6e3f716b8e30b01d",
   "lastOpenFiles": [
-    "Worter/beizubehalten.md",
-    "Worter/beibehalten.md",
-    "Worter/B/behalten.md",
-    "Worter/E/Erhalt.md",
-    "Worter/B/Beibehaltung.md",
-    "Worter/B/beibehaltend.md",
-    "Worter/B/behieltet bei.md",
-    "Worter/B/behaltet bei.md",
-    "Worter/B/behalten wir bei.md",
-    "Worter/B/behielten bei.md",
-    "Worter/B/behalten bei.md",
-    "Worter/B/behält bei.md",
-    "Worter/B/behaltest bei.md",
-    "Worter/B/behalt bei.md",
-    "Worter/B/behieltest bei.md",
-    "Worter/B/behältst bei.md",
-    "Worter/B/behielte bei.md",
-    "Worter/B/behalte bei.md",
-    "Worter/F/fortführen.md",
-    "Worter/B/behielt bei.md",
     "Texte/Einbuergerungstest/241-270.md",
-    "Worter/bestehende.md",
-    "Worter/B/bestehend.md",
-    "Worter/B/bestehen.md",
-    "Worter/Z/zwingen.md",
-    "Worter/A/abzugeben.md",
+    "Worter/A/auflösen.md",
+    "Worter/L/lösen.md",
+    "Texte/Einbuergerungstest/271-300.md",
+    "Worter/Vernichtungslagers.md",
+    "Worter/A/auf.md",
+    "Texte/Einbuergerungstest/Not trivial.md",
+    "Texte/Einbuergerungstest/300+ (Berlin).md",
+    "Worter/O/Opfer.md",
+    "Worter/B/Befreiung.md",
+    "Worter/Vernichtungslager.md",
+    "Worter/L/Lager.md",
+    "Worter/Vernichtung.md",
+    "Worter/Aufruf.md",
+    "Worter/V/Vernichtungslager.md",
+    "Worter/G/Genozid.md",
+    "Worter/V/Vernichtungslagern.md",
+    "Worter/V/Vernichtungs.md",
+    "Worter/S/Schutzzone.md",
+    "Worter/R/Rettungsort.md",
+    "Worter/G/Gnadenstätte.md",
+    "Worter/G/Genozidstätte.md",
+    "Worter/M/Mordstätte.md",
+    "Worter/V/Vernichtungsort.md",
+    "Worter/K/Konzentrationslager.md",
+    "Worter/T/Todeslager.md",
+    "Texte/c1/schriben/Themen",
     "Texte/c1/schriben",
     "Texte/c1/urls.txt",
     "Texte/c1/Complete_Exhaustive_Pronouns_List.csv",
@@ -229,7 +510,6 @@
     "Texte/c1/Extended_CCONJ_SCONJ_list2.csv",
     "Texte/c1/CCONJ_SCONJ_list.csv",
     "Texte/Einbuergerungstest/done",
-    "Texte/c1/processed_german_words.json",
     "Anhänge/Pasted image 20250102085715.png",
     "Anhänge/Pasted image 20250102085702.png",
     "Anhänge/Pasted image 20250102085701.png",

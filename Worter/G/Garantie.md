@@ -1,1 +1,1 @@
-, [[Versicherung]], [[garantiert]]
+, [[Versicherung]], [[garantiert]], [[Garantiebestimmung]]

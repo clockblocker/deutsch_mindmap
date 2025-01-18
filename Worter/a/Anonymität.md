@@ -1,1 +1,1 @@
-, [[Ausweis]], [[Bezeichnung]]
+, [[Ausweis]], [[Bezeichnung]], [[Persönlichkeit]]

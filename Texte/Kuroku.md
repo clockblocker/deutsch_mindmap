@@ -19,7 +19,7 @@ wie lange willst du noch [[schmollen]]?
 uber + auf = den
 	unter + vor = dem
 
-[[wende]]
+[[Wende]]
 
 Deiser [[Mistkerl]]
 
@@ -35,3 +35,7 @@ Deiser [[Mistkerl]]
 Es sind [[nutzlose]] [[Bemühungen]]
 
 [[festlegen]]
+
+Schlaft jetzt, [[erfahrene]] Könige 
+
+[[besongeres]]

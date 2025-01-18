@@ -1,1 +1,1 @@
-, [[überzeugen 1]], [[zeugen]], [[Flugzeug]]
+, [[überzeugen]], [[zeugen]], [[Flugzeug]]

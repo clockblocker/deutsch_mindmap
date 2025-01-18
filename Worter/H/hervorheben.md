@@ -32,4 +32,4 @@ Zu+infinifive: [[hervorzuheben]]
 [[Hervorhebung]], [[Hervorgehobenes]], [[hervorgehoben]]
 
 , [[anreißen]]
-, [[höherstellen]], [[erheben]]
+, [[höherstellen]], [[erheben]], [[erwähnen]]

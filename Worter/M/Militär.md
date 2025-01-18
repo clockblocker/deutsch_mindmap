@@ -1,1 +1,1 @@
-, [[Soldat]], [[Heer]], [[Bundeswehr]], [[Militärdienst]]
+, [[Soldat]], [[Heer]], [[Bundeswehr]], [[Militärdienst]], [[Verteidigungspolitik]]

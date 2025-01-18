@@ -1,1 +1,1 @@
-, [[Doppelte]]
+, [[Doppelte]], [[Wiederholungskarte]]

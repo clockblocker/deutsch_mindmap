@@ -1,1 +1,1 @@
-, [[vorhersagen]], [[sagen]], [[haupten]], [[erzählen]], [[ausdrücken]], [[anzeigen]], [[Verheimlichen]], [[Angabe]], [[Schweige]], [[äußern]], [[Benachrichtigung]], [[Meinungsäußerung]], [[hinweisen]], [[weisen]], [[aussagen]]
+, [[vorhersagen]], [[sagen]], [[haupten]], [[erzählen]], [[ausdrücken]], [[anzeigen]], [[Verheimlichen]], [[Angabe]], [[Schweige]], [[äußern]], [[Benachrichtigung]], [[Meinungsäußerung]], [[hinweisen]], [[weisen]], [[aussagen]], [[erwähnen]]

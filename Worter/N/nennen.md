@@ -39,4 +39,4 @@ Partizip I: [[nennend]], Partizip II: [[genannt]]
 
 
 [[heißen]]
-, [[sogenannt]]
+, [[sogenannt]], [[erwähnen]]

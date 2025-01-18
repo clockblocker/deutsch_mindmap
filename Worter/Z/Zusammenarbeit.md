@@ -1,1 +1,1 @@
-, [[Wettbewerb]]
+, [[Wettbewerb]], [[Mitarbeiterin]]

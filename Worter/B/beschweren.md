@@ -1,11 +1,13 @@
-😤 [[beschweren]], [bəˈʃveːʁən] | [[beschwerte]], haben [[beschwert]], , [[beschwert]]
+😤 [[beschweren]] über + Akk.  , [bəˈʃveːʁən] | [[beschwerte]], haben [[beschwert]], [[beschwert]]
 
 ---
 284. Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)
-	- [ ] Ich kann nichts tun.
-	- [ ] Ich muss mir diese [[Behandlung]] gefallen lassen.
-	- [ ] Ich [[drohe]] der Person.
 	- [x] Ich kann mich beim [[Behördenleiter]] / bei der Behördenleiterin [[beschweren]].
+
+Wir haben uns bei unseren Nachbarn schon oft [[über]] den [[Lärm]] [[beschwert]]. 
+
+Der Kunde hat sich [[darüber]] [[beschwert]], dass er nicht gut [[beraten]] wurde.
+
 
 ---
 = [[beklagen]], [[bemängeln]], [[kritisieren]]

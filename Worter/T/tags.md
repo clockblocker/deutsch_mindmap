@@ -1,1 +1,1 @@
-, [[Bundestagswahl]], [[Landtagswahl]]
+, [[Bundestagswahl]], [[Landtagswahl]], [[Tageshöchstwert]]

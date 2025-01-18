@@ -1,8 +1,10 @@
 🟠 [[voraus]], [foːˈʁaʊ̯s] 
 
 ---
-*Der Mohr voraus im Sonnenschein,*  
+*Der Mohr [[voraus]] im Sonnenschein,*  
 *die Tintenbuben hinterdrein;*  
+
+• Im [[voraus]] [[wiederholen]]
 
 ---
 Synonyme: [[vorne]], [[vorwärts]], [[nach vorne]], [[weiter]], [[vorn]]
@@ -10,7 +12,7 @@ Antonyme: [[zurück]], [[rückwärts]], [[hinten]]
 
 ---
 **Übersetzung**:
-ahead, in front, forward
+in advance, ahead, in front, forward
 
 ---
 #Adverb [[voraus]]

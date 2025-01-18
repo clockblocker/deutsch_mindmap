@@ -1,1 +1,1 @@
-, [[Freundin]], [[inzwischen]], [[da]], [[Berufsinformationszentrum]], [[Inhalt]]
+, [[Freundin]], [[inzwischen]], [[da]], [[Berufsinformationszentrum]], [[Inhalt]], [[mittlerweile]], [[übersetzen]], [[Mitarbeiterin]]

@@ -1,1 +1,1 @@
-[[scheiden]], [[verschiedene]], [[Abschied]]
+[[scheiden]], [[verschiedene]], [[Abschied]], [[Verabschiedung]]

@@ -1,0 +1,1 @@
+🏚️ das [[Vernichtungslager]], [fɛɐ̯ˈnɪçtʊŋsˌlaːɡɐ]

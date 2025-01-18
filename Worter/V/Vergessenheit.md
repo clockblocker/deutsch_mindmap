@@ -1,1 +1,1 @@
-, [[Erinnerung]], [[Stolpersteine]]
+, [[Erinnerung]], [[Stolpersteine]], [[vergessen]]

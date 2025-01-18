@@ -1,1 +1,1 @@
-, [[glaub]], [[Meinung]], [[überzeugen 1]], [[überreden]]
+, [[glaub]], [[Meinung]], [[überzeugen]], [[überreden]]

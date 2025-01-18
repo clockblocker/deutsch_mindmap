@@ -5,6 +5,7 @@ haben [[aufgelöst]]
 ---
 (Zeigt auf das Licht welches sich [[auflöst]])
 
+Die Nationalsozialisten verlieren eine Wahl und [[auflösen|lösen]] den Reichstag auf.
 
 ---
 Synonyme: [[zerbrechen]], [[zerstören]], [[trennen]], [[entbinden]], [[entlassen]], [[verbrennen]]

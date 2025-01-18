@@ -3,6 +3,12 @@
 haben [[entschieden]]
 
 ---
+Ich habe mich [[für]] dieses Arbeitsangebot [[entschieden]].  
+
+[[Wofür]] hast du dich [[letztendlich]] [[entschieden]]?  
+
+Wir haben uns [[dafür]] [[entschieden]], uns zu trennen.
+
 119. Wahlen in Deutschland sind frei. Was bedeutet das? (86%)
 	- [x] Jede Person kann ohne Zwang [[entscheiden]], ob sie wählen möchte und wen sie wählen möchte.
 

@@ -1,1 +1,1 @@
-, [[Kirche]], [[Kirchensteuer]], [[Kirchensteuern]]
+, [[Kirche]], [[Kirchensteuer]], [[Kirchensteuern]], [[Religionsgemeinschaft]]

@@ -1,1 +1,1 @@
-, [[öffentlich]], [[Privatgrundstück]], [[berufsbezogen]], [[politisch]]
+, [[öffentlich]], [[Privatgrundstück]], [[berufsbezogen]], [[politisch]], [[offiziell]]

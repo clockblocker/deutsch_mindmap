@@ -1,1 +1,1 @@
-, [[überzeugen 1]], [[beeinflussen]], [[anregen]], [[desillusionieren]]
+, [[überzeugen]], [[beeinflussen]], [[anregen]], [[desillusionieren]]

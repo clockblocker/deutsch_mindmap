@@ -54,4 +54,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Mittels]], [[mitteln]], [[Mittelchen]]
 
 ---
-#Substantiv #Maskulin, [[Verkehrsmittel]]
+#Substantiv #Maskulin, [[Verkehrsmittel]], [[mittlerweile]]

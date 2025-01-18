@@ -1,1 +1,1 @@
-, [[Verein]], [[Gesellschaft]], [[Sozialstunde]], [[Bevölkerung]], [[Wirtschaftsgemeinschaft]]
+, [[Verein]], [[Gesellschaft]], [[Sozialstunde]], [[Bevölkerung]], [[Wirtschaftsgemeinschaft]], [[Religionsgemeinschaft]]

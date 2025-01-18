@@ -1,1 +1,1 @@
-, [[überzeugen 1]], [[verzweifeln]], [[ungläubig]], [[bestimmen]]
+, [[überzeugen]], [[verzweifeln]], [[ungläubig]], [[bestimmen]]

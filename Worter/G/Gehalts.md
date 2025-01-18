@@ -1,1 +1,1 @@
-, [[Gehaltsvorstellungen]], [[Gehaltszahlungen]]
+, [[Gehaltsvorstellungen]], [[Gehaltszahlungen]], [[Gehalt]]

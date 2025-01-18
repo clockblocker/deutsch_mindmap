@@ -1,1 +1,1 @@
-, [[Kumpel]], [[Arbeiteraufstand]], [[Arbeitsplatz]], [[Schwarzarbeiter]], [[Gastarbeiter]], [[Zeitarbeiter]], [[Schichtarbeiter]], [[Zwangsarbeit]]
+, [[Kumpel]], [[Arbeiteraufstand]], [[Arbeitsplatz]], [[Schwarzarbeiter]], [[Gastarbeiter]], [[Zeitarbeiter]], [[Schichtarbeiter]], [[Zwangsarbeit]], [[Mitarbeiterin]]

@@ -6,7 +6,7 @@ schwarz, rot, blau, grün, grau, braun, [[Gelb]]
  2.1 Поставьте кследующим существительным соответству- ющие по роду неопределенный иопределенный артикли.
  
 z.B. ein Bild, das Bild
-Tisch, Stuhl, Buch, Blume, Wort, Vase, Kind, Computer, Lampe, Haus, Wagen, Zeitung, Spielzeug, [[Tasche]], Stift, Straße, Mensch, Mädchen, Übung, Zimmer, Zeitschrift, Lehrer.
+Tisch, Stuhl, Buch, Blume, Wort, Vase, Kind, Computer, Lampe, Haus, Wagen, Zeitung, Spielzeug, [[Tasche]], [[Stift]], Straße, Mensch, Mädchen, Übung, Zimmer, [[Zeitschrift]], Lehrer.
 
 2.2 Заполните пропуски подходящими по смыслу существи- тельными:
 1. Der ist schön. 2. Die . 4 D i e . . . i s t n e u . 5. D e r . .
@@ -97,3 +97,26 @@ Das Buch ist neu. - Ist das Buch neu?
 .1 Er ist Arbeiter. 2. Sie sind Techniker. 3. Du bist Grafiker. 4. Ihr seid Mechaniker. 5. Sie sind Lehrer. 6. Ihr seid Sportler. 7. Er ist alt. 8. Sie sind groß. 9. Du bist schön. 10. Ihr seid klein. 11. Es ist gut.
 2.14 Переведите следующие вопросы на немецкий язык:
 1. Ты рабочий? 2. Ты техник? 3. Ты график? 4. ыТ механик? .5 Он спортсмен? 6. Он учитель? 7. Он высокий? 8. Он новый? 9. Вы гра- фики? 10. Вы рабочие? 11. Вы спортсмены? 12. Вы учитель? 13. Вы техник? 14. Вы механик? 15. Они графики? 16. Они спортсмены? 17. Они рабочие? 18. Они старые? 19. Эта машина новая? 20. Эта газета интересная?
+
+
+
+
+1. Этот человек - учитель. 
+Der Mensch ist Lehrer
+2. Этот ребенок - спортсмен.
+Das Kind ist Sportler 
+3. Эти рабочие - хорошие.
+Die Arbeiter sind gut
+4. Эти техники - плохие.
+Die Techniker sind schlecht 
+5. Этот график - старый.
+Der Grafiker ist alt
+6. Этот механик - высокий.
+Der Mechaniker ist hoch 
+7. Эти рабочие - новые.
+Die Arbeiter sind neu
+8. Эти спортсмены - красивые.
+
+[[stellen]]
+
+Ich [[vermute]], dass der Zug wieder zu spät kommt.

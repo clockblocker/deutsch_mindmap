@@ -1,64 +1,32 @@
-🧠 [[vergessen]]  
-[[vergaß]]  
-haben [[vergessen]]
+🤔 [[vergessen]], [fɛɐ̯ˈɡɛsn̩] | [[vergaß]], haben [[vergessen]]
 
 ---
-NIC: Ich [[vergesse]] nie etwas!\
+NIC: Ich [[vergesse]] nie etwas!
+
+• [[Vergessene]] Karten wiederholen
 
 ---
-
-**Synonyme:**
-
-- [[übersehen]], [[verdrängen]], [[nicht mehr wissen]]
-
----
-
-**Beispiele:**
-
-- Ich [[vergesse]] oft meine Schlüssel.
-- Du [[vergisst]] den Termin.
-- Er [[vergisst]] alles.
-- Es [[vergisst]] die Namen.
-- Sie [[vergisst]] nichts.
-- Wir [[vergessen]] die Aufgaben.
-- Ihr [[vergesst]] die Hausaufgaben.
-- Sie [[vergessen]] die Vergangenheit.
+= [[nicht erinnern]], [[verdrängen]], [[ausblenden]]
+≈ [[übersehen]], [[ignorieren]], [[vernachlässigen]]
+≠ [[behalten]], [[merken]], [[erinnern]], [[speichern]]
 
 ---
-
-**Übersetzung**:
 to forget
 
 ---
- #Verb  #Unregelmäßig
+[[ver]]|[[gess]]|[[en]]
 
 ---
+ich: [[vergesse]], [[vergaß]], –, [[vergesse]], [[vergäße]]
+du: [[vergisst]], [[vergaßest]], [[vergiss]] | [[vergiss]], [[vergesst]], [[vergäßest]]
+er/sie/es: [[vergisst]], [[vergaß]], –, [[vergesse]], [[vergäße]]
+wir: [[vergessen]], [[vergaßen]], [[vergessen wir|vergessen]], [[vergessen]], [[vergäßen]]
+ihr: [[vergesst]], [[vergaßet]], [[vergesst]], [[vergesst]], [[vergäßet]]
 
-**Präteritum:**
-
-- Ich [[vergaß]] oft meine Schlüssel.
-- Du [[vergaßest]] den Termin.
-- Er [[vergaß]] alles.
-- Es [[vergaß]] die Namen.
-- Sie [[vergaß]] nichts.
-- Wir [[vergaßen]] die Aufgaben.
-- Ihr [[vergaßt]] die Hausaufgaben.
-- Sie [[vergaßen]] die Vergangenheit.
+PI: [[vergessend]], PII: [[vergessen]], Zu+inf: [[zu vergessen]]
 
 ---
-
-**Imperativ:**
-
-- Ich [[vergesse]] nichts.
-- Du [[vergiss]] nichts.
-- Er [[vergesse]] nichts.
-- Es [[vergisst]] nichts.
-- Sie [[vergesse]] nichts.
-- Wir [[vergessen]] nichts.
-- Ihr [[vergesst]] nichts.
-- Sie [[vergessen]] nichts.
+[[vergessen]] - [[ver]] = [[gessen]] / to forget
 
 ---
-
-**Morphems of only infinitive:**  
-- [[vergess]][[en]][[lernen]], [[einfallen]], [[zählen]], [[beibringen]], [[mitbringen]], [[aufschreiben]], [[manchmal]], [[bedanken]], [[behalten]], [[erinnern]], [[Gedenktag]], [[feiern]]
+[[Vergessen]], [[Vergessenheit]], [[vergeßlich]], [[unvergessen]], [[Vergesslichkeit]]

@@ -2,6 +2,8 @@
 nicht [[langsam]]
 
 ---
+Ich werde [[bald]] als Lehrer arbeiten.
+
 CHARLOTTE: Es ist [[bald]] [[fertig]] –zum Schluss das Eiweiß zur Schokolade geben und in den Kühlschrank stellen
 
 Katara [[einschlagen|schlägt]] auf den Berg ein und [[bald]] öffnet er sich.

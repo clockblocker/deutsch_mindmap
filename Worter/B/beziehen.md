@@ -1,10 +1,14 @@
-🏠 [[beziehen]], [bəˈtsiːən] | [[bezog]], haben [[bezogen]]
+🏠 [[beziehen]] auf **+** Akk , [bəˈtsiːən] | [[bezog]], haben [[bezogen]]
 
 ---
- [Player to the team] -- Wie habt ihr Kaijo beziegt? 
+ [Player to the team] -- Wie habt ihr Kaijo [[beziegt]]? 
  Durch pure [[Willenskraft]] oder?
- 
- [[berufsbezogen]]
+
+Ich [[beziehe]] mich [[auf]] das, was Sie [[vorhin]] [[erwähnt]] haben.  
+
+Meine Frage [[bezieht]] sich [[auf]] die [[Garantiebestimmungen]].
+
+[[berufsbezogen]]
  
 ---
 = [[mieten]], [[wohnen]], [[sich niederlassen]]

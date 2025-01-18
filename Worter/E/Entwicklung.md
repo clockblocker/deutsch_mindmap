@@ -23,4 +23,4 @@ G: der [[Entwicklung]], der [[Entwicklungen]]
 D: der [[Entwicklung]], den [[Entwicklungen]]  
 
 ---
-[[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]]
+[[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]]

@@ -1,9 +1,11 @@
-
 🔵 der [[Spiegel]], [ˈʃpiːgl̩]
 die [[Spiegel]]
 
 
 ---
+Das Kind sieht sich im [[Spiegel]].
+
+
 [[Spiegelbild]]
 
 

@@ -1,1 +1,1 @@
-, [[Abschied]]
+, [[Abschied]], [[Verabschiedung]]

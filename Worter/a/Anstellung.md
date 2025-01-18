@@ -1,1 +1,1 @@
-, [[anstellen]], [[Entlassung]]
+, [[anstellen]], [[Entlassung]], [[Angestellte]]

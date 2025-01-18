@@ -1,1 +1,1 @@
-, [[Gehaltszahlungen]], [[unbezahlt]]
+, [[Gehaltszahlungen]], [[unbezahlt]], [[Gehalt]]

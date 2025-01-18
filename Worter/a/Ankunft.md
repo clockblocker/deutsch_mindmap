@@ -14,4 +14,4 @@ Translation:
 ---
 
 #Substantiv #Feminin 
-`, [[Abschied]]
+`, [[Abschied]], [[Verabschiedung]]

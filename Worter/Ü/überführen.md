@@ -1,1 +1,1 @@
-, [[einfüllen]]
+, [[einfüllen]], [[übersetzen]]

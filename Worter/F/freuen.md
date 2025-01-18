@@ -1,12 +1,13 @@
-😀 [[freuen]] mich [[über]] + Akk, [ˈfʁɔʏ̯ən]
-[[freute]]  
-haben [[gefreut]]
+😀 [[freuen]] mich [[über]] + Akk, [ˈfʁɔʏ̯ən], [[freute]], haben [[gefreut]]
+[[freuen]] sich [[auf]] + Akk
 
 ---
 *Paulinchen aber [[freut]] sich sehr*  
 *und sprang im Zimmer hin und her.*  
 
 Und [[besonders]] mit deiner köstlichen Schoko-Eisbombe. Das [[freut]] mich …
+
+Wir [[freuen]] uns alle auf den Urlaub.
 
 Vielen Dank für all die schönen Sachen. Ich habe mich wirklich darüber [[gefreut]]
 

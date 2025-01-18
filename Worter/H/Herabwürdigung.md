@@ -1,1 +1,1 @@
-, [[herabziehen]], [[Diskriminierung]]
+, [[herabziehen]], [[Diskriminierung]], [[Menschenwürde]]

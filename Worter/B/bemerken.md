@@ -36,4 +36,4 @@ Morpheme: [[be]][[merk]][[en]]
 
 Partizip I: [[bemerkend]], Partizip II: [[bemerkt]]
 [[bemerken]] - [[be]] = [[merken]]
-''', [[entdeckten]], [[ausmachen]], [[auffallen]], [[aufsehen]]
+''', [[entdeckten]], [[ausmachen]], [[auffallen]], [[aufsehen]], [[erwähnen]]

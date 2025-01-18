@@ -1,1 +1,1 @@
-, [[Freiheitsstrafe]], [[Freiheit]], [[Verhaftungen]]
+, [[Freiheitsstrafe]], [[Freiheit]], [[Verhaftungen]], [[Befreiung]]

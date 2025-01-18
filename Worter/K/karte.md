@@ -23,3 +23,4 @@ Morphems:
 #Substantiv #Feminin
 
 
+, [[Wiederholungskarte]]

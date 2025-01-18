@@ -1,8 +1,10 @@
 🚀 [[abgeben]], [ˈapˌɡeːbən] | [[gab ab]], haben [[abgegeben]]
 
 ---
+Bitte [[abgeben|geben]] Sie Ihr Blatt am Ende der Stunde ab.
+
+
 301. Was ist bei Bundestags- und [[Landtagswahlen]] in Deutschland [[erlaubt]]? (94%)
-	- [ ] Der [[Ehemann]] wählt für seine Frau mit.
 	- [x] Man kann durch [[Briefwahl]] seine [[Stimme]] [[abgeben]].
 	- [ ] Man kann am [[Wahltag]] telefonisch seine Stimme abgeben.
 

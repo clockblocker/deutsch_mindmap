@@ -5,6 +5,8 @@ die [[Schutze]] oder [[Schutzarten]]
 247. Eine Frau ist [[schwanger]]. Sie ist kurz vor und nach der [[Geburt]] ihres Kindes vom [[Gesetz]] [[besonders]] [[beschützt]]. Wie heißt dieser [[Schutz]]? (99%)
 	- [x] [[Mutterschutz]]
 
+170. Was gab es während der Zeit des Nationalsozialismus in Deutschland? (76%)
+	 - [ ] den [[Schutz]] der [[Menschenwürde]]
 
 ---
 = [[Sicherheit]], [[Verteidigung]], [[Schirmherrschaft]]

@@ -33,3 +33,4 @@ Morpheme: [[spiegel]][[n]]
 | Sie       | [[spiegeln]]         | [[spiegelten]]        | [[spiegeln Sie]]  | [[spiegeln]]           | [[spiegelten]]          |
 
 Partizip I: [[spiegelnd]], Partizip II: [[gespiegelt]]
+, [[Spiegel]]

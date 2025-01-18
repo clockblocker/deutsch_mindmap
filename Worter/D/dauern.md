@@ -9,6 +9,9 @@ Es gibt Menschen, bei denen selbst kleine Arbeiten endlos [[dauern]].
 
 Katrin weiß: Das kann einige Zeit [[dauern]]. Na gut, dann kann sie jetzt erst mal in Ruhe einen Kaffee trinken.
 
+Wie lange [[dauert]] es?
+
+
 ---
 Synonyme: [[andauern]], [[währen]], [[anhalten]], [[bestehen]], [[fortfahren]]
 Antonyme: [[enden]], [[aufhören]], [[abbrechen]], [[beenden]], [[abschließen]]

@@ -1,0 +1,1 @@
+🟢 🛐 die [[Religionsgemeinschaft]], [ʁeˈliːɡɪˌoːnsgəˈmaɪ̯nʃaft]

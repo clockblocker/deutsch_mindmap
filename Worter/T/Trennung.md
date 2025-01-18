@@ -1,1 +1,1 @@
-, [[Heiratsantrag]], [[Bezug]], [[Beitritt]], [[Wiedervereinigung]], [[Abschied]], [[Zusammenschluss]], [[Ehescheidung]], [[Hochzeit]], [[Trennungsjahr]], [[Scheidung]], [[Scheidungsprozess]], [[Begegnung]]
+, [[Heiratsantrag]], [[Bezug]], [[Beitritt]], [[Wiedervereinigung]], [[Abschied]], [[Zusammenschluss]], [[Ehescheidung]], [[Hochzeit]], [[Trennungsjahr]], [[Scheidung]], [[Scheidungsprozess]], [[Begegnung]], [[Verabschiedung]]

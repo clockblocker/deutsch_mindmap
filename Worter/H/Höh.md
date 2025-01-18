@@ -1,1 +1,1 @@
-die [[Höhe]]
+die [[Höhe]], [[erhöhen]]

@@ -1,1 +1,1 @@
-, [[eigene]], [[selbst]], [[gemeinsam]], [[öffentlich]], [[berufsbezogen]]
+, [[eigene]], [[selbst]], [[gemeinsam]], [[öffentlich]], [[berufsbezogen]], [[Persönlichkeit]]

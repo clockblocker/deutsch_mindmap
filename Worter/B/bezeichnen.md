@@ -3,6 +3,9 @@
 ---
 Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
 
+179. Was nannten die Menschen in Deutschland sehr lange „Die Stunde Null“? (74%)
+	- [ ] Damit wird die Zeit nach der [[Wende]] im Jahr 1989 [[bezeichnet]].
+
 
 215. Wer wird als „Kanzler der Deutschen [[Einheit]]“ [[bezeichnet]]? (76%)
 	- [ ] Gerhard Schröder

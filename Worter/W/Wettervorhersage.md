@@ -1,1 +1,1 @@
-, [[Wettervorhersage]], [[vorhersagen]], [[offensichtlich]]
+, [[Wettervorhersage]], [[vorhersagen]], [[offensichtlich]], [[Tageshöchstwert]]

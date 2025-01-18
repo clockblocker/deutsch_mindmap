@@ -1,4 +1,4 @@
-🛠️[[abhängen]] + Akk, [ˈapˌhɛŋən]
+🛠️[[abhängen]] von + Dat., [ˈapˌhɛŋən]
 [[hing ab|hing ab]]
 haben [[abgehangen]]
 
@@ -6,6 +6,10 @@ haben [[abgehangen]]
 Weil ihre [[Ehre]] nicht davon [[abhing]], dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
 
 Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist [[mutig]] und hat [[weder]] Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]]. 
+
+- Alles [[hängt]] [[von]] deiner Entscheidung [[ab]].  
+- [[Wovon]] [[hängt]] es [[ab]]?   
+- Es [[hängt]] [[davon]] [[ab]], ob wir noch genug Zeit haben werden oder nicht.
 
 
 ---

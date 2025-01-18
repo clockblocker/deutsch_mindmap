@@ -31,3 +31,11 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[einfach]], [[einfacherer]], [[einfachere]], [[einfacheres]], [[einfacheren]], [[einfacherem]], [[einfacherer]], [[einfacheren]]
 [[einfachsten]], [[einfachster]], [[einfachste]], [[einfachstes]], [[einfachsten]], [[einfachstem]], [[einfachster]], [[einfachsten]]
+
+
+Ich bin Lehrer und du bist [[Polizist]] und damit sind wir glücklich
+
+Eines der Kinder hat sich beim Spielen [[verletzt]].
+
+  
+Petra und Klaus kochen, sie bekommen [[Besuch]]

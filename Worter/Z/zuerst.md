@@ -20,4 +20,4 @@ Synonyme:
 
 ---
 
-#Adverb, [[erst]], [[zunächst]]
+#Adverb, [[erst]], [[zunächst]], [[mittlerweile]]

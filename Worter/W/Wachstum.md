@@ -1,1 +1,1 @@
-, [[wachsend]], [[Entwicklung]]
+, [[wachsend]], [[Entwicklung]], [[Entfaltung]]

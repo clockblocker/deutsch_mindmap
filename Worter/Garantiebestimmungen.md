@@ -1,0 +1,1 @@
+🟢 📋 das [[Garantiebestimmung]], [ɡaʁanˈtiːbəˌʃtɪmʊŋ]

@@ -3,10 +3,10 @@ die [[Opfer]]
 
 ---
 206. [[Woran]] [[erinnern]] die [[sogenannten]] „[[Stolpersteine]]“ in Deutschland? (100%)
-	- [ ] an [[berühmte]] deutsche Politikerinnen und Politiker
 	- [x] an die [[Opfer]] des Nationalsozialismus
-	- [ ] an [[Verkehrstote]]
-	- [ ] an bekannte jüdische Musiker
+
+183. Der 27. Januar ist in Deutschland ein [[offizieller]] [[Gedenktag]]. Woran erinnert dieser Tag? (74%)
+	- [x] an die [[Opfer]] des Nationalsozialismus (Tag der [[Befreiung]] des [[Vernichtungslagers]] Auschwitz)
 
 ---
 = [[Märtyrer]], [[Geschädigter]], [[Leidtragender]]

@@ -1,7 +1,10 @@
 🟢 [[sonst]], [zɔnst]
 
 ---
-• Eisenteller nicht mitwaschen. [[Sonst]] Rostflecken.
+Habt ihr [[sonst]] noch Fragen?
+
+- Eisenteller nicht mitwaschen. [[Sonst]] Rostflecken.
+
 - Sterben, schlafen und [[sonst nichts]].  
 
 *Miau! Mio! Miau! Mio!*  
@@ -14,9 +17,9 @@
 *kommt [[sonst]] ganz geschwind daher,*  
 *und die Daumen schneidet er*  
 
-Nicht so laut, [[sonst]] verscheuchst du ihn Katara
+Nicht so laut, [[sonst]] [[verscheuchen|verscheuchst]] du ihn Katara
 
-Alfred [[gehört]] zu den Menschen, die immer den [[Kick]] suchen. Er braucht [[Abenteuer 1]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
+Alfred [[gehört]] zu den Menschen, die immer den [[Kick]] suchen. Er braucht [[Abenteuer]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
 
 „Entschuldigung!“, antwortet Carola. Sie muss wirklich besser aufpassen. [[Sonst]] [[klappt]] es heute bestimmt nicht mit der Prüfung.
 

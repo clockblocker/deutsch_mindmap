@@ -1,1 +1,1 @@
-, [[Gruß]], [[Begrüßung]], [[verbannt]]
+, [[Gruß]], [[Begrüßung]], [[verbannt]], [[Verabschiedung]]

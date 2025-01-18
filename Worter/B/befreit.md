@@ -1,1 +1,1 @@
-, [[Freiheit]], [[befreien]]
+, [[Freiheit]], [[befreien]], [[Befreiung]]

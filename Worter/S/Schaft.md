@@ -23,4 +23,4 @@ Einzigartige mögliche Formen:
 #Substantiv #Maskulin
 
 , [[Nationalmannschaft]], [[Gesellschaft]], [[Landschaft]]
-, [[Mitgliedschaft]], [[Wirtschaft]], [[Gewerkschaft]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]]
+, [[Mitgliedschaft]], [[Wirtschaft]], [[Gewerkschaft]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]], [[Religionsgemeinschaft]]

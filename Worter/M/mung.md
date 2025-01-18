@@ -1,1 +1,1 @@
-, [[Atmung]]
+, [[Atmung]], [[Garantiebestimmung]]

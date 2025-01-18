@@ -1,1 +1,1 @@
-, [[Prügelstrafe]], [[Folter]]
+, [[Prügelstrafe]], [[Folter]], [[Menschenwürde]]

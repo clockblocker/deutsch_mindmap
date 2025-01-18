@@ -3,9 +3,8 @@
 ---
 141. Wer [[berät]] in Deutschland Personen bei Rechtsfragen und [[vertritt]] sie vor [[Gericht]]? (87%)
 	- [x] ein [[Rechtsanwalt]] / eine Rechtsanwältin
-	- [ ] ein [[Richter]] / eine Richterin
-	- [ ] ein [[Schöffe]] / eine Schöffin
-	- [ ] ein [[Staatsanwalt]] / eine Staatsanwältin
+
+Der Kunde hat sich [[darüber]] [[beschwert]], dass er nicht gut [[beraten]] wurde.
 
 ---
 = [[konsultieren]], [[ratschlagen]], [[empfehlen]]

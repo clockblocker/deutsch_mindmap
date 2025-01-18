@@ -2,6 +2,11 @@
 die [[Bundesländer]]
 
 ---
+175. Was ist in Deutschland vor allem eine Aufgabe der [[Bundesländer]]? (75%)
+	- [ ] [[Verteidigungspolitik]]
+	- [ ] Außenpolitik
+	- [ ] Wirtschaftspolitik
+	- [x] Schulpolitik
 
 ---
 = [[Föderaler Verwaltungsbezirk]], [[Gliedstaat]]

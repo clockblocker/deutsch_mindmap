@@ -1,1 +1,1 @@
-, [[daran]], [[rangehen]]
+, [[daran]], [[rangehen]], [[Garantiebestimmung]]

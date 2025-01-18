@@ -1,1 +1,1 @@
-[[fahren]], [[hinbringen]], [[übertragen]], [[tragen]], [[mitbringen]], [[abschleppen]], [[forttragen]]
+[[fahren]], [[hinbringen]], [[übertragen]], [[tragen]], [[mitbringen]], [[abschleppen]], [[forttragen]], [[übersetzen]]

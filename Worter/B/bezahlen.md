@@ -33,4 +33,4 @@ PI: [[bezahlend]], PII: [[bezahlt]], Zu+inf: [[zu bezahlen]]
 [[bezahlen]] - [[be]] = [[zahlen]] / to pay, to settle
 
 ---
-[[Bezahlung]], [[Zahlung]], [[Geld]], [[Kosten]], [[Rechnung]], [[Gebühr]], [[unbezahlt]]
+[[Bezahlung]], [[Zahlung]], [[Geld]], [[Kosten]], [[Rechnung]], [[Gebühr]], [[unbezahlt]], [[Gehalt]]

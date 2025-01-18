@@ -1,1 +1,1 @@
-, [[ausbreiten]], [[auseinanderklapfen]], [[winden]], [[wickeln]]
+, [[ausbreiten]], [[auseinanderklapfen]], [[winden]], [[wickeln]], [[Entfaltung]]

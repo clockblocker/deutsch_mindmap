@@ -6,6 +6,9 @@
  Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderung]], die so groß sind, dass man daraus ein Sprichwort machen muss.
 
 ---
+[[auflösen]] - [[auf]] = [[lösen]] //  to dissolve, to resolve,
+
+---
 Synonyme: [[auflösen]], [[trennen]], [[befreien]], [[klären]], [[erledigen]]
 Antonyme: [[binden]], [[verknoten]], [[verkomplizieren]], [[verfangen]]
 

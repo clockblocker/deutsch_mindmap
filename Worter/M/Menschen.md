@@ -20,4 +20,4 @@ Einzigartige mögliche Formen: [[Mensch]], [[Menschen]], [[Menschen]]
 
 ---
 #Substantiv #Feminin
-Plural: [[Menschen]]
+Plural: [[Menschen]], [[Menschenwürde]]
