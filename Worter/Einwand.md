@@ -22,4 +22,4 @@ Accusative: den [[Einwand]], die [[Einwände]]
 Genitive: des [[Einwands]] oder [[Einwandes]], der [[Einwände]]  
 Dative: dem [[Einwand]], den [[Einwänden]] 
 
-[[einwenden]], [[widerspruchsvoll]], [[einwendig]]
+[[einwenden]], [[widerspruchsvoll]], [[einwendig]], [[Vorbehalt]]

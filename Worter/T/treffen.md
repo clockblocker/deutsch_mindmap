@@ -55,4 +55,4 @@ Morpheme: [[treff]][[en]]
 
 Partizip I: [[treffend]], Partizip II: [[getroffen]]
 
-, [[einschlagen]], [[irren]], [[Begegnung]]
+, [[einschlagen]], [[irren]], [[Begegnung]], [[verpassen]]

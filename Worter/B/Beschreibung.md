@@ -1,3 +1,3 @@
 [[beschreiben|Beschreib]][[ung]]
 
-, [[Anleitung]], [[Darstellung]]
+, [[Anleitung]], [[Darstellung]], [[Abbildung]]

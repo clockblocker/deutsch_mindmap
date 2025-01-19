@@ -1,1 +1,1 @@
-, [[benutzen]], [[tun]], [[versuchen]], [[wegspülen]], [[ausüben]], [[verzichten]], [[vornehmen]], [[wollen]], [[anwenden]], [[begehen]], [[vollziehen]]
+, [[benutzen]], [[tun]], [[versuchen]], [[wegspülen]], [[ausüben]], [[verzichten]], [[vornehmen]], [[wollen]], [[anwenden]], [[begehen]], [[vollziehen]], [[versäumen]]

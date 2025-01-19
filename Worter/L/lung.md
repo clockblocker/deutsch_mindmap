@@ -1,1 +1,1 @@
-, [[Handlung]], [[Kriegsbemalung]]
+, [[Handlung]], [[Kriegsbemalung]], [[Bürgerversammlung]]

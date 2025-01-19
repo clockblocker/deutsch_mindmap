@@ -1,1 +1,1 @@
-, [[Stadträte]]
+, [[Stadträte]], [[Bürgerversammlung]]

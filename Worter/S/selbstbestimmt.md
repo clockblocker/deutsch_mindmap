@@ -1,1 +1,1 @@
-, [[selbständig]], [[gezwungen]]
+, [[selbständig]], [[gezwungen]], [[zwangsweise]]

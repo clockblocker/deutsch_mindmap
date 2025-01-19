@@ -1,6 +1,9 @@
 💡 [[vorschlagen]] | [[schlug vor|schlug vor]], haben [[vorgeschlagen]]
 
 ---
+Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin?
+	- [x] Er / Sie [[vorschlägt|schlägt]] den Kanzler / die Kanzlerin zur Wahl vor.
+
 Aber dem wird sie die Suppe schon noch versalzen! Beim nächsten Termin mit ihrem Chef macht sie einige [[Vorschläge]] für das Projekt. 
 
 „Lass uns zusammen eine [[Weltreise]] machen“, [[vorschlagen|schlägt]] ihre beste Freundin [[vor]]. 

@@ -32,3 +32,4 @@ PI: [[passend]], PII: [[gepasst]], Zu+inf: [[zu passen]]
 
 ---
 [[passend]], [[unpassend]], [[Passung]], [[anpassen]], [[entsprechen]], [[Anpassung]]
+, [[verpassen]]

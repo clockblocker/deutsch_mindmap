@@ -16,6 +16,7 @@ ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 [[vorstellen]] - [[vor]] = [[stellen]]                             / introduce 
 [[zufriedenstellen]] - [[zu]][[frieden]] = [[stellen]]       / please
 [[erstellen]] - [[er]] = [[stellen]]                                / to create, to produce
+[[herstellen]] - [[her]] = [[stellen]] / to manufacture, to produce, to make
 
 
 ---

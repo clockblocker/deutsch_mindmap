@@ -1,1 +1,1 @@
-, [[aufstehen]], [[gestehen]]
+, [[aufstehen]], [[gestehen]], [[entstehen]], [[stehen]]

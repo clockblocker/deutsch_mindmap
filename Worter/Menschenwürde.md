@@ -5,6 +5,9 @@ die [[Menschenwürden]]
 170. Was gab es während der Zeit des Nationalsozialismus in Deutschland? (76%)
 	 - [ ] den [[Schutz]] der [[Menschenwürde]]
 
+18. Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert? (64%)
+	- [x] die [[Unantastbarkeit]] der [[Menschenwürde]]
+
 ---
 = [[Menschenrechte]], [[Würde]], [[Achtung]]
 ≈ [[Respekt]], [[Wertschätzung]], [[Anerkennung]]

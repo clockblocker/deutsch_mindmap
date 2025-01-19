@@ -1,8 +1,7 @@
 [[sowie]], [zoːˈviː]
 
 ---
--
--
+Christina mag Männer [[sowie]] Frauen.
 
 ---
 Synonyme: [[ebenso]], [[gleichfalls]], [[genauso]], [[ebenfalls]], [[desgleichen]]

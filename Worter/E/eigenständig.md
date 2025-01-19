@@ -1,1 +1,1 @@
-[[getrennt]], [[selbst]], [[selbständig]], [[freiwillig]], [[entlehnen]]
+[[getrennt]], [[selbst]], [[selbständig]], [[freiwillig]], [[entlehnen]], [[zwangsweise]]

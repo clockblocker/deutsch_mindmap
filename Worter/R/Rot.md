@@ -1,1 +1,1 @@
-die [[Farbe]]
+die [[Farbe]], [[blass]]

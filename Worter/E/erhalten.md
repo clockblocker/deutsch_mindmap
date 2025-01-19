@@ -3,7 +3,9 @@
 haben [[erhalten]]
 
 ---
-Schon 1964 [[erhielt]] Richter die Gelegenheit zur ersten Einzelausstellung und bald präsentierten viele in- und ausländische Galerien seine Werke
+Du [[erhältst]] morgen ein Geschenk.
+
+Schon 1964 [[erhielt]] Richter die Gelegenheit zur ersten [[Einzelausstellung]] und bald präsentierten viele in- und ausländische Galerien seine Werke
 
 Je mehr „[[Zweitstimmen]]“ eine [[Partei]] bei einer [[Bundestagswahl]] bekommt, [[desto]] mehr Sitze [[erhält]] die Partei im Parlament.
 
@@ -50,4 +52,4 @@ Partizip I: [[erhaltend]], Partizip II: [[erhalten]]
 
 
 [[ändern]], [[holen]], [[verloren]], [[verlieren]], [[haben]], [[kriegen]], [[verdienen]], [[abbekommen]]
-, [[beibehalten]]
+, [[beibehalten]], [[überlebt]]

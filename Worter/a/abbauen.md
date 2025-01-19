@@ -1,1 +1,1 @@
-, [[aufbauen]], [[bauen]], [[aufstellen]], [[abschaffen]]
+, [[aufbauen]], [[bauen]], [[aufstellen]], [[abschaffen]], [[herstellen]]

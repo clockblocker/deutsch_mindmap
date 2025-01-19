@@ -1,1 +1,1 @@
-, [[flechten]], [[spinnen]]
+, [[flechten]], [[spinnen]], [[verstricken]]

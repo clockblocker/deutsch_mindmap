@@ -1,1 +1,1 @@
-, [[Ruh]]
+, [[Ruh]], [[ausgeruht]]

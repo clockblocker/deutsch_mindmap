@@ -5,6 +5,9 @@ nicht [[getrennt]], nicht [[zerstreut]]
 *Im Geist getrennt* 
 *Im Herz [[vereint]] (vereint, vereint, vereint, vereint)*
 
+182. Welche Parteien wurden 1946 zwangsweise zur SED [[vereint]], der [[Einheitspartei]] der späteren DDR? (69%)
+	- [x] KPD und SPD
+
 184. Auf welcher [[rechtlichen]] Grundlage wurde der Staat Israel [[gegründet]]? (100%)
 	- [x] eine Resolution der [[Vereinten]] Nationen
 
@@ -31,4 +34,4 @@ Einzigartige mögliche Formen:
 [[vereint]], [[vereinte]], [[vereintes]], [[vereinten]], [[vereintem]], [[vereinter]]
 [[vereinter]], [[vereinterer]], [[vereintere]], [[vereinteres]], [[vereinteren]], [[vereinterem]], [[vereinterer]], [[vereinteren]]
 [[vereintesten]], [[vereintester]], [[vereinteste]], [[vereintstes]], [[vereintesten]], [[vereintstem]], [[vereintester]], [[vereintesten]]
-''', [[auseinander]], [[entzwei]], [[Deutschland]], [[Einheit]], [[vereinbar]], [[vereinen]]
+''', [[auseinander]], [[entzwei]], [[Deutschland]], [[Einheit]], [[vereinbar]], [[vereinen]], [[zwangsweise]]

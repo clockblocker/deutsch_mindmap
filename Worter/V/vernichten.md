@@ -1,1 +1,1 @@
-, [[zeugen]], [[schaffen]], [[Vernichtung]], [[erstellen]], [[zerstörten]], [[Vernichtungslager]]
+, [[zeugen]], [[schaffen]], [[Vernichtung]], [[erstellen]], [[zerstörten]], [[Vernichtungslager]], [[herstellen]]

@@ -1,1 +1,1 @@
-, [[zeugen]], [[schaffen]], [[errichteten]], [[malen]], [[erstellen]], [[zerstörten]]
+, [[zeugen]], [[schaffen]], [[errichteten]], [[malen]], [[erstellen]], [[zerstörten]], [[herstellen]]

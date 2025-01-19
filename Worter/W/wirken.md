@@ -29,3 +29,4 @@ Partizip I: [[wirkend]], Partizip II: [[gewirkt]]
 
 
 - [[Wirk]][[en]], [[aussehen]], [[spinnen]]
+, [[Auswirkungen]]

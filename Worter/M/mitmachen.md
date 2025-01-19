@@ -29,4 +29,4 @@ Zu+infinifive: [[mitzumachen]]
 [[mitmachen]] - [[mit]] = [[machen]]
 
 ---
-[[Mitmacher]], [[Mitmacherin]], [[Mitmachkultur]], [[Mitmachkonzept]], [[Mitmachaktion]], [[beitreten]]
+[[Mitmacher]], [[Mitmacherin]], [[Mitmachkultur]], [[Mitmachkonzept]], [[Mitmachaktion]], [[beitreten]], [[verpassen]]

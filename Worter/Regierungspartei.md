@@ -26,4 +26,4 @@ G: der [[Regierungspartei]], der [[Regierungsparteien]]
 D: der [[Regierungspartei]], den [[Regierungsparteien]]  
 
 ---
-[[regieren]], [[Partei]], [[Regierung]], [[Koalition]], [[politisch]]
+[[regieren]], [[Partei]], [[Regierung]], [[Koalition]], [[politisch]], [[Einheitspartei]]

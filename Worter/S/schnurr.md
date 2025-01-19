@@ -1,1 +1,1 @@
-, [[schnurren]]
+, [[schnurren]], [[Schnurrbart]]

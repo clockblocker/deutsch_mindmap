@@ -8,6 +8,11 @@ Durch das [[Loch]], das Katara in den Eisberg gehauen hat, strömt ein Lichtstra
 
 Aang findet jedoch ein [[Loch]] in der Decke.
 
+*Warum muss ich immer warten?*
+*Warum immer weinen?*
+*Warum all die schwarzen [[Löcher]]*  
+*In den Armen, in den Beinen?*
+
 „Ich brauche keine Anleitung“, sagt Julia und will [[gleich]] [[Löcher]] in die [[Rückwand]] [[bohren]]. 
 
 Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
@@ -31,4 +36,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lochs]], [[Loche]], [[Löcher]], [[Löchern]]
 
 ---
-#Substantiv #Neutrum, [[betreffen]]
+#Substantiv #Neutrum, [[betreffen]]🕳️ 🔵 der [[Loch]]

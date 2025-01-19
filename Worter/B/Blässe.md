@@ -1,1 +1,1 @@
-, [[Hautfarbe]]
+, [[Hautfarbe]], [[blass]]

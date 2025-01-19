@@ -2,7 +2,12 @@ einfach, [ˈaɪ̯nfax]
 nicht [[kompliziert]]
 
 ---
-in Kilo [[Mehl]], es kann von der [[einfachen]] Sorte sein
+in Kilo [[Mehl]], es kann von der [[einfachen]] [[Sorte]] sein
+
+*Wir wollen nichts [[versäumen]]*  
+*Wollen nichts [[verpassen]]*  
+*Doch du bleibst [[einfach]] liegen*  
+*Auf dem Bett, dem [[nassen]]*
 
 „Das kann ja sein“, sagt Uli, „aber bei mir [[scheint]] [[einfach]] der Wurm drin zu sein. [[Irgendwas]] ist hier [[fehlerhaft]].“ Der Fachverkäufer erklärt sich [[schließlich]] [[bereit]], den Rechner [[umzutauschen]]. Der neue Computer [[läuft]] problemlos. Kein Wurm [[weit und breit]]. Uli ist [[erleichtert]].
 

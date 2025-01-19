@@ -1,6 +1,7 @@
 🔄 [[deshalb]], [deːsˈhalp]
 
 ---
+Es gibt bald Regen, [[deshalb]] sollten wir ins Haus gehen.
 
 281. Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle [[Hautfarbe]] und werden [[deshalb]] nicht [[hineingelassen]]. Welches Recht wird in dieser Situation [[verletzt]]? 
 

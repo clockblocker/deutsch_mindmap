@@ -1,1 +1,1 @@
-, [[aufbauen]], [[bauen]], [[einbauen]], [[umbauen]], [[Verwaltungsaufbau]]
+, [[aufbauen]], [[bauen]], [[einbauen]], [[umbauen]], [[Verwaltungsaufbau]], [[Gebäude]]

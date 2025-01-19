@@ -1,1 +1,1 @@
-, [[schwinden]], [[vergilben]]
+, [[schwinden]], [[vergilben]], [[blass]]

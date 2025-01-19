@@ -2,8 +2,8 @@
 die [[Sorten]]
 
 ---
-- Ein Kilo Mehl, es kann von der einfachen [[Sorte]] sein,
-- 
+Ein Kilo Mehl, es kann von der einfachen [[Sorte]] sein,
+
 
 ---
 Synonyme:

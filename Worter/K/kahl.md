@@ -1,1 +1,1 @@
-, [[lackiertes]], [[pelzig]]
+, [[lackiertes]], [[pelzig]], [[Schnurrbart]]

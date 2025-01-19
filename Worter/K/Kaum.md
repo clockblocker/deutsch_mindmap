@@ -1,7 +1,9 @@
 [[Kaum]], [kaʊm]
 
 ---
-[[Kaum]] hat man ein Mädchen dabei, schon geht alles schief!
+[[Kaum]] hat man ein Mädchen dabei, schon geht alles [[schief]]!
+
+Das Licht ist so hell, ich kann [[kaum]] etwas sehen.
 
 Der Nachbar kann es [[kaum]] glauben. „Das gibt es nur [[selten]]. Glück im Spiel und in der Liebe haben nur wenige“, sagt er.
 

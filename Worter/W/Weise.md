@@ -53,3 +53,4 @@ Einzigartige mögliche Formen: [[Weisen]], [[Weisen]], [[Weisen]]
 ---
 #Substantiv #Maskulin #Plural
 
+, [[zwangsweise]]

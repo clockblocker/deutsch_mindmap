@@ -5,7 +5,9 @@ die [[Wirtschaftsgemeinschaften]]
 237. 2007 wurde das 50-jährige [[Jubiläum]] der „Römischen [[Verträge]]“ [[gefeiert]]. Was war der [[Inhalt]] der Verträge? (78%)
 	- [x] Gründung der Europäischen [[Wirtschaftsgemeinschaft]] (EWG)
 
-
+239. Durch welche [[Verträge]] schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen [[Wirtschaftsgemeinschaft]] zusammen? (69%)
+	- [ ] durch die „Hamburger Verträge“
+	- [x] durch die „Römischen [[Verträge]]“
 
 ---
 = [[Wirtschaftsunion]], [[Wirtschaftsverband]], [[Handelszone]]

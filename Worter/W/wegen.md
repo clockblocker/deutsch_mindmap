@@ -1,5 +1,7 @@
 [[wegen]] meiner Krankheit arbeite ich nicht. 
 
+Ich mag dich [[wegen]] deiner Augen.
+
 262. Was bedeutet in Deutschland der Grundsatz der [[Gleichbehandlung]]? (82%)
 	- [x] Niemand darf z.B. [[wegen]] einer [[Behinderung]] [[benachteiligt]] werden.
 

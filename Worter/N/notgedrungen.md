@@ -1,1 +1,1 @@
-, [[gezwungen]]
+, [[gezwungen]], [[zwangsweise]]

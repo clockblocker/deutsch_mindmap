@@ -27,4 +27,4 @@ PI: [[unterscheidend]], PII: [[unterschieden]], Zu+inf: [[zu unterscheiden]]
 [[unterscheiden]] - [[unter]] = [[scheiden]] / to distinguish, to differentiate, to tell apart
 
 ---
-[[Unterscheidung]], [[unterschiedlich]], [[Unterschied]], [[unterscheidbar]], [[unterschiedslos]]
+[[Unterscheidung]], [[unterschiedlich]], [[Unterschied]], [[unterscheidbar]], [[unterschiedslos]], [[verschieden]]

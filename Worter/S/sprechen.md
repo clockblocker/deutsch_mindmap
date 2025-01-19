@@ -10,6 +10,7 @@ Sprich mit der Kamera wie mit einer schönen Frau …
 ---
 [[ansprechen]] - [[an]] = [[sprechen]] // to address, to speak to, to approach
 [[versprechen]] - [[ver]] = [[sprechen]] // to promise
+[[entsprechen]] - [[ent]] = [[sprechen]] / to correspond, to match, to comply with
 
 
 ---
@@ -37,4 +38,4 @@ Morpheme: [[sprech]][[en]]
 
 Partizip I: [[sprechend]], Partizip II: [[gesprochen]]
 
-, [[ansprechen]], [[7 Die Geschichte vom Zappel-Philipp]], [[versprechen]], [[unterhalten]], [[Sprichwort]], [[Schweige]], [[rechtsprechend]]
+, [[ansprechen]], [[7 Die Geschichte vom Zappel-Philipp]], [[versprechen]], [[unterhalten]], [[Sprichwort]], [[Schweige]], [[rechtsprechend]], [[entsprechen]]

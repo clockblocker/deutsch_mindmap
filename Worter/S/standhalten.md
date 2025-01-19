@@ -1,1 +1,1 @@
-, [[mithalten]], [[überreden]], [[standhaft]]
+, [[mithalten]], [[überreden]], [[standhaft]], [[überleben]], [[stehen]]

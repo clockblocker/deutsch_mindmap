@@ -37,4 +37,4 @@ G: der [[Verfassung]], der [[Verfassungen]]
 D: der [[Verfassung]], den [[Verfassungen]]  
 
 ---
-[[verfassen]], [[verfassungsmäßig]], [[Verfassungsgericht]], [[Verfassungsschutz]], [[Volkssouveränität]], [[Bundesverfassungsgericht]]
+[[verfassen]], [[verfassungsmäßig]], [[Verfassungsgericht]], [[Verfassungsschutz]], [[Volkssouveränität]], [[Bundesverfassungsgericht]], [[Verfassungsorganen]]

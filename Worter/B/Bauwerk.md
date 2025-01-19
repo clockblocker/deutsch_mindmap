@@ -1,1 +1,1 @@
-, [[Turm]]
+, [[Turm]], [[Gebäude]]

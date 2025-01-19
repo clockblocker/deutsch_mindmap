@@ -1,1 +1,1 @@
-[[vereint]][[andere]], [[verschiedene]], [[unterschiedlich]], [[Einheitliche]], [[Einheit]], [[mehrheitlich]]
+[[vereint]][[andere]], [[verschiedene]], [[unterschiedlich]], [[Einheitliche]], [[Einheit]], [[mehrheitlich]], [[verschieden]], [[Einheitspartei]]

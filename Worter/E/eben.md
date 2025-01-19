@@ -1,6 +1,10 @@
 ⚫ [[eben]], [ˈeːbən]
 
 ---
+Ich versuche, ihn [[eben]] auf dem Handy zu erreichen.
+
+Das kann man [[eben]] nicht ändern.
+
 EDELTRAUT: Dann musst du [[eben]] mitkommen …  
 
 Na, er ist [[ja groß genug]] und muß [[eben]] unterwegs gut aufpassen. 
@@ -27,4 +31,4 @@ Morpheme:
 [[eben]]
 
 ---
-''', [[Extra 8]], [[ebenfalls]], [[schnallen]], [[Ebene]], [[vorhin]]
+[[Extra 8]], [[ebenfalls]], [[schnallen]], [[Ebene]], [[vorhin]]

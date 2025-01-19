@@ -25,4 +25,4 @@ G: der [[Stelle]], der [[Stellen]]
 D: der [[Stelle]], den [[Stellen]]  
 
 ---
-[[stellen]], [[stellvertretend]], [[Stellvertretung]], [[Stellenanzeige]], [[stellenweise]]
+[[stellen]], [[stellvertretend]], [[Stellvertretung]], [[Stellenanzeige]], [[stellenweise]], [[stehen]]

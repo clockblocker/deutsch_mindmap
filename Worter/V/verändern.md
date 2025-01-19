@@ -8,6 +8,9 @@ haben [[verändert]]
 
 - Heute werden Sie eine [[Veränderung]] im Beruf haben, für mehr Geld
 
+91. In Deutschland kann ein Regierungswechsel in einem Bundesland [[Auswirkungen]] auf die Bundespolitik haben. Das Regieren wird … (64%)
+	- [x] schwieriger, wenn [[dadurch]] die Mehrheit im Bundesrat [[verändert]] wird.
+
 ---
 Synonyme: [[ändern]], [[umgestalten]], [[modifizieren]], [[transformieren]], [[umwandeln]]
 Antonyme: [[Worter/B/beibehalten]], [[konservieren]], [[unverändert lassen]]

@@ -1,7 +1,9 @@
 🎯 [[bestimmen]], [bəˈʃtɪmən] | [[bestimmte]], haben [[bestimmt]]
 
 ---
-
+49. Wer [[bestimmen|bestimmt]] in Deutschland die [[Schulpolitik]]? (83%)
+	- [ ] die Lehrer und Lehrerinnen
+	- [x] die [[Bundesländer]]
 ---
 = [[festlegen]], [[definieren]], [[entscheiden]]
 ≈ [[festsetzen]], [[regeln]], [[festmachen]], [[determinieren]]

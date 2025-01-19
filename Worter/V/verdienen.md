@@ -1,7 +1,9 @@
 [[verdienen]] + Akk, [fɛɐ̯ˈdiːnən], [[verdiente]], haben [[verdient]]
 
 ---
-Ihr Mann [[verdient]] ganz anständig. 
+Ihr Mann [[verdient]] ganz [[anständig]]. 
+
+[[Damals]] [[verdiente]] ich mehr Geld
 
 So, ich gehe jetzt ins Bett! (Gähnt und streckt sich) Ja, das hab ich mir heute redlich [[verdient]]. 
 

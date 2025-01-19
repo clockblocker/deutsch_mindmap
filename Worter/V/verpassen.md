@@ -1,64 +1,35 @@
-🚌 [[verpassen]]  
-[[verpasste]]  
-haben [[verpasst]]
+🚫 [[verpassen]], [fɛɐ̯ˈpasən] | [[verpasste]], haben [[verpasst]]
 
 ---
 Das [[dürft]] ihr nicht [[verpassen]]!
 
----
-
-**Synonyme:**
-
-- [[versäumen]], [[entgehen]], [[übersehen]]
-
----
-
-**Beispiele:**
-
-- Ich [[verpasse]] oft den Bus.
-- Du [[verpasst]] die Gelegenheit.
-- Er [[verpasst]] den Anfang des Films.
-- Es [[verpasst]] das Ziel.
-- Sie [[verpasst]] den Anruf.
-- Wir [[verpassen]] nie eine Folge.
-- Ihr [[verpasst]] die Chance.
-- Sie [[verpassen]] den Zug.
+*Wir wollen nichts [[versäumen]]*  
+*Wollen nichts [[verpassen]]*  
+*Doch du bleibst [[einfach]] liegen*  
+*Auf dem Bett, dem [[nassen]]*
 
 ---
-
-**Übersetzung**:
-to miss
-
----
- #Verb
+= [[verfehlen]], [[übersehen]], [[versäumen]]
+≈ [[entgehen]], [[verlieren]], [[nicht mitbekommen]]
+≠ [[treffen]], [[erwischen]], [[mitmachen]], [[teilnehmen]]
 
 ---
-
-**Präteritum:**
-
-- Ich [[verpasste]] oft den Bus.
-- Du [[verpasstest]] die Gelegenheit.
-- Er [[verpasste]] den Anfang des Films.
-- Es [[verpasste]] das Ziel.
-- Sie [[verpasste]] den Anruf.
-- Wir [[verpassten]] nie eine Folge.
-- Ihr [[verpasstet]] die Chance.
-- Sie [[verpassten]] den Zug.
+to miss, to fail to catch, to overlook
 
 ---
-
-**Imperativ:**
-
-- Ich [[verpasse]] nichts.
-- Du [[verpass]] es nicht.
-- Er [[verpasse]] es nicht.
-- Es [[verpasst]] es nicht.
-- Sie [[verpasse]] es nicht.
-- Wir [[verpassen]] es nicht.
-- Ihr [[verpasst]] es nicht.
-- Sie [[verpassen]] es nicht.
+[[ver]]|[[pass]]|[[en]]
 
 ---
+ich: [[verpasse]], [[verpasste]], –, [[verpasse]], [[verpasste]]
+du: [[verpassest]], [[verpasstest]], [[verpasse]] | [[verpass]], [[verpassest]], [[verpasstest]]
+er/sie/es: [[verpasst]], [[verpasste]], –, [[verpasse]], [[verpasste]]
+wir: [[verpassen]], [[verpassten]], [[verpassen wir|verpassen]], [[verpassen]], [[verpassten]]
+ihr: [[verpasst]], [[verpasstet]], [[verpasst]], [[verpasset]], [[verpasstet]]
 
-**Morphems of only infinitive:**  
-- [[ver]][[pass]][[en]], [[erleben]]
+PI: [[verpassend]], PII: [[verpasst]], Zu+inf: [[zu verpassen]]
+
+---
+[[verpassen]] - [[ver]] = [[passen]] / to miss, to fail to catch, to overlook
+
+---
+[[Verpassung]], [[Versäumnis]], [[verpassbar]], [[unverpasst]]

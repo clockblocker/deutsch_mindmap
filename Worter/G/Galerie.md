@@ -1,1 +1,1 @@
-, [[Museum]]
+, [[Museum]], [[Einzelausstellung]]

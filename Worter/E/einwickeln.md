@@ -1,1 +1,1 @@
-, [[hüllen]], [[wickeln]]
+, [[hüllen]], [[wickeln]], [[verstricken]]

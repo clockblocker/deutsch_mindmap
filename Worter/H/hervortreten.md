@@ -1,1 +1,1 @@
-, [[untertauchen]], [[erscheinen]], [[auftreten]]
+, [[untertauchen]], [[erscheinen]], [[auftreten]], [[entstehen]]

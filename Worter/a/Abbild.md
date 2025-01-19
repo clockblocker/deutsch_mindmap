@@ -1,1 +1,1 @@
-, [[Spiegelbild]]
+, [[Spiegelbild]], [[Abbildung]]

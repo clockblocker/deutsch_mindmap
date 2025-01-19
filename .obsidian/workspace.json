@@ -4,473 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "1c00b40180fdea5e",
+        "id": "cab5d41c56341f72",
         "type": "tabs",
         "children": [
           {
-            "id": "a377625f102104d9",
+            "id": "b377d7728219542b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Einbuergerungstest/271-300.md",
+                "file": "Texte/Misc/Anki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "271-300"
+              "title": "Anki"
             }
           },
           {
-            "id": "8198dd7d2f638a93",
+            "id": "ff2befd307d144ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/E/ehemaliger.md",
+                "file": "Worter/E/erhältst.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ehemaliger"
+              "title": "erhältst"
             }
           },
           {
-            "id": "6bd2766073e59b2c",
+            "id": "06179bbe26ed0d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Einbuergerungstest/271-300.md",
+                "file": "Worter/E/erhalten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "271-300"
+              "title": "erhalten"
             }
           },
           {
-            "id": "af56504b06e1ee04",
+            "id": "2a1f1113195346b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/E/ernennen.md",
+                "file": "Worter/Einzelausstellung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ernennen"
-            }
-          },
-          {
-            "id": "9d4048e418afed86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/ernennt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ernennt"
-            }
-          },
-          {
-            "id": "b10f163327ae32f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ordnungsamt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ordnungsamt"
-            }
-          },
-          {
-            "id": "197c55fba50a17ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ordnungsamt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ordnungsamt"
-            }
-          },
-          {
-            "id": "f354b31bbac3f404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/W/Wappen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wappen"
-            }
-          },
-          {
-            "id": "62176d800674fb91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Wappe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wappe"
-            }
-          },
-          {
-            "id": "72e7e4994ae9d9cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/W/Wappen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wappen"
-            }
-          },
-          {
-            "id": "6801156a4fc1a336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Wappe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wappe"
-            }
-          },
-          {
-            "id": "5340bd481be162ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/L/lösen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lösen"
-            }
-          },
-          {
-            "id": "571a812d8c68da4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/O/offiziell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "offiziell"
-            }
-          },
-          {
-            "id": "1b0f5ed6834160e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Religionsgemeinschaft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Religionsgemeinschaft"
-            }
-          },
-          {
-            "id": "04c3804d010a2ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Religionsgemeinschaft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Religionsgemeinschaft"
-            }
-          },
-          {
-            "id": "707b5e3eed5c6b54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Religionsgemeinschaften.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Religionsgemeinschaften"
-            }
-          },
-          {
-            "id": "9fa1cc6087647726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Verteidigungspolitik.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verteidigungspolitik"
-            }
-          },
-          {
-            "id": "ab920916d4066706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Menschenwürde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Menschenwürde"
-            }
-          },
-          {
-            "id": "bd066d9c5f3f26f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Menschenwürde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Menschenwürde"
-            }
-          },
-          {
-            "id": "26affb27971d7e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/beziehen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "beziehen"
-            }
-          },
-          {
-            "id": "094cb1d31a23cab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/erwähnt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "erwähnt"
-            }
-          },
-          {
-            "id": "1bc0a571abe1d2f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/erwähnen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "erwähnen"
-            }
-          },
-          {
-            "id": "058163f2fc823989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/W/wähnen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wähnen"
-            }
-          },
-          {
-            "id": "dead8986d37de516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/erwähnen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "erwähnen"
-            }
-          },
-          {
-            "id": "c9725e0e1eb0a4b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Kuroku.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kuroku"
-            }
-          },
-          {
-            "id": "99866d6bc424d85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/beschweren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "beschweren"
-            }
-          },
-          {
-            "id": "fbc192d228ce7c7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/V/vermute.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vermute"
-            }
-          },
-          {
-            "id": "0ec0e40c300e340c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/V/vermuten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vermuten"
-            }
-          },
-          {
-            "id": "332a9802cd39f666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/V/vermute.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vermute"
-            }
-          },
-          {
-            "id": "0facd2bf6a539a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/V/vermuten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vermuten"
-            }
-          },
-          {
-            "id": "63cc8397e92dc975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/bald.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bald"
-            }
-          },
-          {
-            "id": "79de7bdf860840e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/beibehalten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "beibehalten"
-            }
-          },
-          {
-            "id": "7950383746630e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Abschottung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abschottung"
+              "title": "Einzelausstellung"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -613,34 +207,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6bd2766073e59b2c",
+  "active": "2a1f1113195346b9",
   "lastOpenFiles": [
-    "Worter/E/ehemalige.md",
-    "Worter/E/ehemaliger.md",
-    "Texte/Einbuergerungstest/271-300.md",
-    "Worter/ernennt.md",
-    "Worter/E/ernennen.md",
-    "Worter/N/nennen.md",
-    "Worter/E/Ernennungsurkunde.md",
-    "Worter/E/ernennbar.md",
-    "Worter/E/Ernennerin.md",
-    "Worter/E/Ernenner.md",
-    "Worter/E/Ernennung.md",
-    "Worter/Z/zu ernennen.md",
-    "Worter/E/ernennend.md",
-    "Worter/E/ernennet.md",
-    "Worter/E/ernanntet.md",
-    "Worter/E/ernennen wir.md",
-    "Worter/E/ernannten.md",
-    "Worter/E/ernenntest.md",
-    "Worter/E/ernenn.md",
-    "Worter/E/ernanntest.md",
-    "Worter/E/ernennst.md",
-    "Worter/E/ernenne.md",
-    "Worter/N/nominieren.md",
-    "Worter/E/ernannt.md",
-    "Worter/E/ernannte.md",
-    "Worter/E/einsetzen.md",
+    "Worter/E/Einzel.md",
+    "Worter/K/Kollektivausstellung.md",
+    "Worter/S/Sammelausstellung.md",
+    "Worter/G/Gruppenausstellung.md",
+    "Worter/I/Individualpräsentation.md",
+    "Worter/W/Werkschau.md",
+    "Worter/K/Kunstpräsentation.md",
+    "Worter/S/Soloausstellung.md",
+    "Worter/P/Personalausstellung.md",
+    "Worter/E/Einzelausstellungen.md",
+    "Worter/E/erhalten.md",
+    "Worter/Einzelausstellung.md",
+    "Worter/E/erhältst.md",
+    "Texte/Misc/Anki.md",
+    "Worter/D/damals.md",
+    "Worter/V/verdiente.md",
+    "Worter/V/verdienen.md",
+    "Worter/A/anständig.md",
+    "Worter/D/deren.md",
+    "Worter/S/sowie.md",
+    "Worter/F/fast.md",
+    "Worter/K/Kaum.md",
+    "Worter/V/verschiedene.md",
+    "Worter/V/verschieden.md",
+    "Worter/A/Arten.md",
+    "Worter/A/Art.md",
+    "Texte/Der Stein der Wisen",
     "Texte/c1/schriben/Themen",
     "Texte/c1/schriben",
     "Texte/c1/urls.txt",
@@ -650,7 +245,6 @@
     "Texte/c1/Final_Extended_CCONJ_SCONJ_list.csv",
     "Texte/c1/Extended_CCONJ_SCONJ_list2.csv",
     "Texte/c1/CCONJ_SCONJ_list.csv",
-    "Texte/Einbuergerungstest/done",
     "Anhänge/Pasted image 20250102085715.png",
     "Anhänge/Pasted image 20250102085702.png",
     "Anhänge/Pasted image 20250102085701.png",

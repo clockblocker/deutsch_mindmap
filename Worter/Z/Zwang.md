@@ -5,7 +5,7 @@ die [[Zwänge]]
 *Keiner weiß wie lang* 
 *Ja, für ein Leben ohne [[Zwang]]* 
 
-[[Zwangsarbeit]]
+[[Zwangsarbeit]], [[zwangsweise]]
 
 23. An demokratischen Wahlen in Deutschland teilzunehmen ist … (89%)
 	- [ ] eine [[Pflicht]].
@@ -26,4 +26,4 @@ Morphems:
 [[Zwang]]
 
 ---
-#Substantiv #Masculin, [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]], [[Folter]], [[recht]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[unterworfen]]
+#Substantiv #Masculin, [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]], [[Folter]], [[recht]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[unterworfen]], [[zwangsweise]]

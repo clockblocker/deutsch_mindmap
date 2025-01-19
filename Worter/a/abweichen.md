@@ -1,1 +1,1 @@
-, [[zusteuern]]
+, [[zusteuern]], [[entsprechen]]

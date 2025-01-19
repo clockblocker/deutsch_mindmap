@@ -27,4 +27,4 @@ Feminine: [[seltsame]], [[seltsame]], [[seltsamste]]
 Neuter: [[seltsames]], [[seltsameres]], [[seltsamste]]  
 Plural: [[seltsamen]], [[seltsamerem]], [[seltsamsten]]  
 
-[[Seltsamkeit]], [[seltsamerweise]], [[Seltsame]]
+[[Seltsamkeit]], [[seltsamerweise]], [[Seltsame]], [[merkwürdige]]

@@ -1,1 +1,1 @@
-, [[gezwungen]], [[freiwillig]], [[unabsichtlich]]
+, [[gezwungen]], [[freiwillig]], [[unabsichtlich]], [[zwangsweise]]

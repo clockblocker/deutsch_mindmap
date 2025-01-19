@@ -1,1 +1,1 @@
-, [[Rechner]], [[Gerät]]
+, [[Rechner]], [[Gerät]], [[Bohrmaschinen]]

@@ -2,6 +2,8 @@ die [[Art]], [ˈaʁt]
 die [[Arten]]
 
 ---
+Es gibt [[verschiedene]] [[Arten]] von Tieren.
+
 Na ja. [[Sowas in der Art]], noch nicht ganz.
 
 Es gibt viele [[Arten]], sich zu freuen. Man kann laut lachen oder schreien. 

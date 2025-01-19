@@ -34,3 +34,4 @@ Morpheme: [[aus]][[stell]][[en]]
 Partizip I: [[ausstellend]], Partizip II: [[ausgestellt]]
 
 [[ausstellen]] - [[aus]] = [[stellen]]
+, [[Einzelausstellung]]

@@ -2,6 +2,8 @@
 nicht [[bescheiden]], [[demütig]]
 
 ---
+Mr und Mrs Dursley im Ligusterweg Nummer 4 waren [[stolz]] darauf, ganz und gar normal zu sein, sehr stolz [[sogar]].
+
 *Es ist [[lächerlich]]*  
 *sagt der [[Stolz]]
 

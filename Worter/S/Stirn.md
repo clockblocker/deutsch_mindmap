@@ -25,4 +25,4 @@ Genitive: der [[Stirn]], der [[Stirnen]]
 Dative: der [[Stirn]], den [[Stirnen]]  
 
 ---
-[[stirnrunzeln]], [[Stirnband]], [[Stirnfalte]], [[stirnlos]]
+[[stirnrunzeln]], [[Stirnband]], [[Stirnfalte]], [[stirnlos]], [[Wange]]

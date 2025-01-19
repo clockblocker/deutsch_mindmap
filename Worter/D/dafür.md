@@ -1,3 +1,4 @@
+Er war groß und [[bullig]] und hatte fast keinen Hals, dafür aber einen sehr großen [[Schnurrbart]].
 
 ANNA: Das ist doch ein [[Witz]]! Und [[dafür]] bekommen sie E-Mails von 633 Frauen.  
 NIC: Ja! Genau, genau und du hast das Geld [[dafür]] gespart!  

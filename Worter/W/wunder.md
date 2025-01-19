@@ -1,1 +1,1 @@
-, [[verwundern]], [[bewundern]]
+, [[verwundern]], [[bewundern]], [[merkwürdige]]

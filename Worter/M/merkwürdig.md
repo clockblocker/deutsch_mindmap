@@ -42,4 +42,4 @@ Tags:
 
 ---
 Morphems:
-[[merk]][[würdig]], [[verrückt]], [[fremd]], [[besonders]]
+[[merk]][[würdig]], [[verrückt]], [[fremd]], [[besonders]], [[merkwürdige]]

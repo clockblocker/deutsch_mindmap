@@ -1,1 +1,1 @@
-, [[Wahlpflicht]], [[Meinungsfreiheit]], [[wahlberechtigt]], [[Fürstentum]], [[Volkssouveränität]], [[Männerwahlrecht]]
+, [[Wahlpflicht]], [[Meinungsfreiheit]], [[wahlberechtigt]], [[Fürstentum]], [[Volkssouveränität]], [[Männerwahlrecht]], [[Einheitspartei]]

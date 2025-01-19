@@ -3,6 +3,8 @@
 haben [[gefühlt]]
 
 ---
+Er [[fühlt]] sich [[wohl]]
+
 *Die Nachbarn haben nichts [[raffen|gerafft]]*  
 *Und [[fühlten]] sich gleich angemacht*
 

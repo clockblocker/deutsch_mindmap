@@ -1,1 +1,1 @@
-, [[passen]]
+, [[passen]], [[entsprechen]]

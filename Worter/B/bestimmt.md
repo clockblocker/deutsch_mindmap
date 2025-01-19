@@ -1,11 +1,13 @@
 🎯 [[bestimmt]], [bəˈʃtɪmnt]
 
 ---
-49. Wer [[bestimmt]] in Deutschland die [[Schulpolitik]]? (83%)
+Ich bin mir sicher, das Bild wird [[bestimmt]] gut.
+
+
+49. Wer [[bestimmen|bestimmt]] in Deutschland die [[Schulpolitik]]? (83%)
 	- [ ] die Lehrer und Lehrerinnen
 	- [x] die [[Bundesländer]]
-	- [ ] das [[Familienministerium]]
-	- [ ] die Universitäten
+
 
 ---
 = [[sicher]], [[gewiss]], [[definitiv]]

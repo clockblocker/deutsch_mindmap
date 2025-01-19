@@ -1,1 +1,1 @@
-, [[genießbar]], [[messbar]], [[erreichbar]], [[vereinbar]], [[scheinbar]], [[unscheinbar]]
+, [[genießbar]], [[messbar]], [[erreichbar]], [[vereinbar]], [[scheinbar]], [[unscheinbar]], [[Unantastbarkeit]]

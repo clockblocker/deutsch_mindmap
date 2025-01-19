@@ -25,4 +25,4 @@ G: der [[Zwangsarbeit]], der [[Zwangsarbeiten]]
 D: der [[Zwangsarbeit]], den [[Zwangsarbeiten]]  
 
 ---
-[[zwingen]], [[arbeiten]], [[Zwang]], [[Arbeiter]], [[Zwangsarbeiter]]
+[[zwingen]], [[arbeiten]], [[Zwang]], [[Arbeiter]], [[Zwangsarbeiter]], [[zwangsweise]]

@@ -3,7 +3,9 @@
 haben [[unterhalten]]
 
 ---
-Als die beiden mit den Getränkekisten zurückkommen, [[unterhalten]] [[sie]] [[sich]] lebhaft. Die anderen kommen dazu und nehmen den beiden ein paar von den schweren Kisten ab.
+Als die beiden mit den Getränkekisten zurückkommen, [[unterhalten]] [[sie]] [[sich]] [[leb haft]]. Die anderen kommen dazu und nehmen den beiden ein paar von den schweren Kisten ab.
+
+Ich [[unterhalte]] mich mit dem Verkaufer
 
 ---
 Synonyme: [[plaudern]], [[sprechen]], [[kommunizieren]], [[diskutieren]], [[schwatzen]]

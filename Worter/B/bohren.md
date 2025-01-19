@@ -31,3 +31,4 @@ Zu+infinitive: [[zu bohren]]
 [[Bohrer]], [[Bohrloch]], [[Bohrmaschine]], [[Bohrkopf]], [[Bohrung]], [[Bohrschablone]], [[Präzisionsbohren]]
 
 , [[stechen]],
+, [[Bohrmaschinen]]

@@ -1,3 +1,37 @@
+91. In Deutschland kann ein Regierungswechsel in einem Bundesland [[Auswirkungen]] auf die Bundespolitik haben. Das Regieren wird … (64%)
+	- [ ] schwieriger, wenn sich [[dadurch]] die Mehrheit im Bundestag [[ändert]].
+	- [ ] leichter, wenn dadurch neue Parteien in den Bundesrat kommen.
+	- [x] schwieriger, wenn [[dadurch]] die Mehrheit im Bundesrat [[verändert]] wird.
+	- [ ] leichter, wenn es sich um ein reiches Bundesland handelt.
+
+218. Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland [[hinzu]]? (66%)
+	- [ ] 4
+	- [x] 5
+	- [ ] 6
+	- [ ] 7
+
+48. Welches Organ gehört nicht zu den [[Verfassungsorganen]] Deutschlands? (66%)
+	- [ ] der Bundesrat
+	- [ ] der Bundespräsident / die Bundespräsidentin
+	- [x] die [[Bürgerversammlung]]
+	- [ ] die Regierung
+
+
+239. Durch welche [[Verträge]] schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen [[Wirtschaftsgemeinschaft]] zusammen? (69%)
+	- [ ] durch die „Hamburger Verträge“
+	- [x] durch die „Römischen [[Verträge]]“
+	- [ ] durch die „Pariser Verträge“
+	- [ ] durch die „Londoner Verträge“
+
+
+
+182. Welche Parteien wurden 1946 zwangsweise zur SED [[vereint]], der [[Einheitspartei]] der späteren DDR? (69%)
+	- [x] KPD und SPD
+	- [ ] SPD und CDU
+	- [ ] CDU und FDP
+	- [ ] KPD und CSU
+
+
 219. Die Bundesrepublik Deutschland hat die [[Grenzen]] von heute seit … (71%)
 	- [ ] 1933.
 	- [ ] 1949.

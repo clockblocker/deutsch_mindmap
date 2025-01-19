@@ -1,14 +1,13 @@
-, [[bestimmt]], [[Geheimnis]], [[ratlos]], [[fest]], [[Versicherungspflicht]], [[Versicherung]], [[garantiert]]
-
 🌟 [[sicher]], [ˈzɪçɐ]
 nicht [[unsicher]]
 
 ---
+Sie machen das Haus [[sicher]].
+
+
 122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
 	- [x] [[frei]], [[gleich]], [[geheim]].
 	- [ ] offen, [[sicher]], frei.
-	- [ ] [[geschlossen]], gleich, [[sicher]].
-	- [ ] sicher, offen, [[freiwillig]].
 
 ---
 = [[zuverlässig]], [[gewiss]], [[unzweifelhaft]]
@@ -32,3 +31,5 @@ P: [[sicheren]], [[sichereren]], [[sichersten]]
 
 ---
 [[Sicherheit]], [[sichern]], [[versichern]], [[absichern]], [[Versicherung]]
+
+, [[bestimmt]], [[Geheimnis]], [[ratlos]], [[fest]], [[Versicherungspflicht]], [[Versicherung]], [[garantiert]]

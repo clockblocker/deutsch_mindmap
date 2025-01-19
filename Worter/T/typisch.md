@@ -1,1 +1,1 @@
-[[normal]], [[durchschnittliches]], [[seltsam]]
+[[normal]], [[durchschnittliches]], [[seltsam]], [[merkwürdige]]

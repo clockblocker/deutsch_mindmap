@@ -1,1 +1,1 @@
-, [[Regierungspartei]]
+, [[Regierungspartei]], [[Einheitspartei]]

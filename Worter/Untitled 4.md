@@ -1,0 +1,1 @@
+Ich gehe nach Bad, um [[ausgeruht]] zu sein.

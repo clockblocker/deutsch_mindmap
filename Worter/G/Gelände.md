@@ -1,1 +1,1 @@
-, [[Landschaft]]
+, [[Landschaft]], [[Gebäude]]

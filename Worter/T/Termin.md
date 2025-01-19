@@ -1,1 +1,1 @@
-, [[vereinbaren]]
+, [[vereinbaren]], [[versäumen]]

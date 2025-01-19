@@ -1,6 +1,10 @@
 [[sogar]]
 
 ---
+[[Sogar]] du kannst die Welt ein bisschen verbessern!
+
+Mr und Mrs Dursley im Ligusterweg Nummer 4 waren [[stolz]] darauf, ganz und gar normal zu sein, sehr stolz [[sogar]].
+
 Ein [[Einbrecher]]? Oh, vielleicht ist er [[sogar]] noch drin?
 
 Er hat mir [[sogar]] ein Kleid geschickt!  
