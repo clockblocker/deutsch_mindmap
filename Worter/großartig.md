@@ -25,4 +25,4 @@ N: [[großartiges]], [[großartigeres]], [[großartigstes]]
 P: [[großartigen]], [[großartigeren]], [[großartigsten]]  
 
 ---
-[[Großartigkeit]], [[artig]], [[groß]], [[großartig sein]], [[grandios]]
+[[Großartigkeit]], [[artig]], [[groß]], [[großartig sein]], [[grandios]], [[prächtig]]

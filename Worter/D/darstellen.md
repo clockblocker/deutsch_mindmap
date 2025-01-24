@@ -30,4 +30,4 @@ Morpheme: [[dar]][[stell]][[en]]
 | Sie       | [[stellen dar]]      | [[stellten dar]]      | [[stellen Sie dar]]| [[stellen dar]]        | [[stellten dar]]        |
 
 Partizip I: [[darstellend]], Partizip II: [[dargestellt]]
-[[darstellen]] - [[dar]] = [[stellen]], [[widerspiegeln]], [[Darstellung]]
+[[darstellen]] - [[dar]] = [[stellen]], [[widerspiegeln]], [[Darstellung]], [[beschreiben]]

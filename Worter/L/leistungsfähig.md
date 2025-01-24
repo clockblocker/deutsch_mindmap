@@ -1,1 +1,1 @@
-, [[arbeitsunfähig]]
+, [[arbeitsunfähig]], [[erschöpft]]

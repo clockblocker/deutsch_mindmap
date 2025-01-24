@@ -1,1 +1,1 @@
-, [[Währung]]
+, [[Währung]], [[gewähren]]

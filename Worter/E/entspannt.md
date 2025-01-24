@@ -1,1 +1,1 @@
-, [[bequem]], [[aufgebracht]], [[ausgeruht]]
+, [[bequem]], [[aufgebracht]], [[ausgeruht]], [[friedlich]]

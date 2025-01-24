@@ -36,4 +36,4 @@ Partizip I: [[findend]], Partizip II: [[gefunden]]
 
 
 [[verlieren]], [[suchen]], [[entdeckten]]
-, [[erfinden]], [[befinden]]
+, [[erfinden]], [[befinden]], [[s1 e1]]

@@ -1,4 +1,4 @@
-Manchmal fühlt sich das Leben einfach schön an. Die Sonne scheint, die Vögel singen, der Himmel ist blau, alles ist perfekt. Der Grund dafür ist meistens einfach: Man ist verliebt.  
+[[Manchmal]] fühlt sich das Leben einfach schön an. Die Sonne scheint, die Vögel singen, der Himmel ist blau, alles ist perfekt. Der Grund dafür ist meistens einfach: Man ist verliebt.  
   
 Manchmal ist das Leben einfach perfekt. 
 

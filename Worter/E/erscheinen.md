@@ -3,13 +3,16 @@
 sein [[erschienen]]
 
 ---
+Auf dem [[Bildschirm]] [[erscheint]] ein [[seltsames]] Symbol.
+
+Zuko wird wütend und lässt [[Feuerdolche]] aus seiner [[Faust]] [[erscheinen]]
+
 Erinnerst du dich, wie ich Harry [[beigebracht]] habe, Löffel zu [[verbiegen]]? Wenn es so [[erschien]], als ob sie immer [[ahnen]] konnten, was du gerade dachtest — diese Technik nennt sich kalte [[Deutung]] oder cold reading
 
 Als der Leopard das Fleisch des Hirsches fraß, [[erschien]] ein Löwe, der vertrieb den Leoparden mit nur einem Prankenhieb
 
 Die Kamera schwenkt nach unten, und die [[gestalten]] von Aang und Katara [[erscheinen]] über dem Horizont.
 
-Zuko wird wütend und lässt [[Feuerdolche]] aus seiner [[Faust]] [[erscheinen]]
 
 ---
 Synonyme: [[auftauchen]], [[auftreten]], [[daherkommen]], [[hervortreten]], [[sich zeigen]]

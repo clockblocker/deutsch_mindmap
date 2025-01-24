@@ -1,6 +1,8 @@
 🍽️ [[enthalten]], [ɛntˈhaltən] | [[enthielt]], haben [[enthalten]]
 
 ---
+Fleisch [[enthält]] [[verschiedene]] Proteine.
+
 01. Welche der [[folgenden]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
 
 ---

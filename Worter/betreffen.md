@@ -1,6 +1,9 @@
 🎯 [[betreffen]], [bəˈtʁɛfən] | [[betraf]], haben [[betroffen]]
 
 ---
+Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
+
+ 
  Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
 
 ---

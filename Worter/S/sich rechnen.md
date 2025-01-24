@@ -1,1 +1,1 @@
-, [[Lohnen]]
+, [[lohnen]]

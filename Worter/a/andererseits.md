@@ -1,1 +1,1 @@
-, [[Damit]], [[soweit]], [[CONNECTOR]], [[obendrein]], [[seinerseits]]
+, [[Damit]], [[soweit]], [[CONNECTOR]], [[obendrein]], [[seinerseits]], [[entweder]]

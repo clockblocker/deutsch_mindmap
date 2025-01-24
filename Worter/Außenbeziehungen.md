@@ -27,4 +27,4 @@ G: der [[Außenbeziehungen]]
 D: den [[Außenbeziehungen]]  
 
 ---
-[[außen]], [[Beziehung]], [[auswärtig]], [[diplomatisch]], [[international]]
+[[außen]], [[Worter/B/Beziehung]], [[auswärtig]], [[diplomatisch]], [[international]]

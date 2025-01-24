@@ -1,1 +1,1 @@
-, [[Sozialversicherungsausweis]]
+, [[Sozialversicherungsausweis]], [[Aufnahme]], [[Beweis]]

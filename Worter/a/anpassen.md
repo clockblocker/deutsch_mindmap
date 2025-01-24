@@ -1,1 +1,1 @@
-, [[einstellen]], [[passen]]
+, [[einstellen]], [[passen]], [[gewöhnen]]

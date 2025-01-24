@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Enkelsohnes]], [[Enkelsohn]], [[Enkelsöhne]], 
 ---
 #Substantiv #Maskulin
 
-Etymologie: Zusammengesetzt aus [[Enkel]] und [[Sohn]]
+Etymologie: Zusammengesetzt aus [[Enkel]] und [[Sohn]], [[s1 e1]]

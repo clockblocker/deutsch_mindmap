@@ -1,1 +1,1 @@
-, [[führen]], [[Steuern]]
+, [[führen]], [[Steuern]], [[ergibt]]

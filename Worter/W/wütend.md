@@ -36,3 +36,4 @@ P: [[wütenden]], [[wütendere]], [[wütendsten]]
 [[Wut]], [[wüten]], [[wütend machen]], [[aufwühlen]], [[Wutanfall]]
 
 [[bös]], [[böse]], [[zornig]], [[aufgebracht]]
+, [[s1 e1]]

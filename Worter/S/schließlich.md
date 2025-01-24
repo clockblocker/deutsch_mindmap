@@ -1,6 +1,8 @@
 🔤 [[schließlich]], [ˈʃliːslɪç]
 
 ---
+Wir haben [[uns]] total [[verlaufen]], aber [[schließlich]] sind wir doch noch ans Ziel gekommen.
+
 „Das kann ja sein“, sagt Uli, „aber bei mir [[scheint]] [[einfach]] der Wurm drin zu sein. [[Irgendwas]] ist hier [[fehlerhaft]].“ Der Fachverkäufer erklärt sich [[schließlich]] [[bereit]], den Rechner [[umzutauschen]]. Der neue Computer [[läuft]] problemlos. Kein Wurm [[weit und breit]]. Uli ist [[erleichtert]].
 
 
@@ -29,4 +31,4 @@ Plural: [[schließlichen]], [[schließlicheren]], [[schließlichsten]]
 
 
 , [[erst]], [[zuletzt]], [[allerletzten]], [[endlich]]
-, [[CONNECTOR]]
+, [[CONNECTOR]], [[Anki]]

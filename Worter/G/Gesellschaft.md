@@ -3,6 +3,8 @@ die [[Gesellschaften]]
 
 
 ---
+Jeder ist ein Teil der [[Gesellschaft]].
+
 r [[Geselle]] | 3 Jahr
 
 
@@ -21,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gesellschaft]], [[Gesellschaften]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaften]]
 
 ---
-#Substantiv #Feminin, [[Handelsgesellschaft]], [[Bevölkerung]]
+#Substantiv #Feminin, [[Handelsgesellschaft]], [[Bevölkerung]], [[Anki]]

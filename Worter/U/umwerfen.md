@@ -30,3 +30,4 @@ Morpheme: [[um]][[werf]][[en]]
 Partizip I: [[umwerfend]], Partizip II: [[umgeworfen]]
 [[umwerfen]] - [[um]] = [[werfen]] /  to knock over, to topple
 , [[aufstellen]], [[spinnen]]
+, [[s1 e1]]

@@ -1,1 +1,1 @@
-, [[Verfassung]], [[Bundesverfassungsgericht]]
+, [[Verfassung]], [[Bundesverfassungsgericht]], [[verfassungswidrig]]

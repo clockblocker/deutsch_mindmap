@@ -4,6 +4,11 @@ nicht [[unwahrscheinlich]]
 ---
 Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. Egal, wie man sich [[anstellt]], es klappt nicht! Da muss der [[Wurm]] [[drin]] sein …
 
+Das ist möglich, aber nicht sehr [[wahrscheinlich]].
+
+Wissenschaftler sagen, dass es [[wahrscheinlich]] ein [[trockener]] Sommer wird.
+
+
 ---
 Synonyme: [[vermutlich]], [[möglicherweise]], [[voraussichtlich]], [[vermeintlich]], [[mutmaßlich]]
 Antonyme: [[unwahrscheinlich]], [[ungewiss]], [[zweifelhaft]], [[unglaublich]]

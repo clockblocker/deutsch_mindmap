@@ -1,6 +1,8 @@
 🌈 [[besonders]], [bəˈzɔndɐs]
 
 ---
+Sie haben ein [[besonderes]] Haus, das Energie spart.
+
 Das Spiel ist heute [[besonders]] [[spannend]].
 
 Es gibt Menschen, die immer bekommen, was sie wollen, ganz ohne [[Druck]] oder [[Gewalt]]. Sie haben ein ganz [[besonderes]] Talent, andere zu manipulieren, ohne dass diese es wirklich [[merken]]. Aber wie machen sie das?  
@@ -44,4 +46,4 @@ Plural: [[besondere]], [[besondere]], [[besondere]]
 [[Besonderheit]], [[besondersartig]], [[besonderlich]]\
 
 , [[eignen]], [[geeignet]], [[hervorragend]]
-, [[allgemein]]
+, [[allgemein]], [[s1 e1]], [[Anki]]

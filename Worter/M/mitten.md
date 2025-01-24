@@ -30,4 +30,4 @@ Beispiele:
 Grammatical Usage:
 - Often used with prepositional phrases
 - Indicates a central or middle position
-- Can be used with both physical and abstract contexts
+- Can be used with both physical and abstract contexts, [[s1 e1]]

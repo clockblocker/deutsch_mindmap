@@ -27,3 +27,4 @@ Morpheme: [[ab]][[bieg]][[en]]
 
 Partizip I: [[abbiegend]], Partizip II: [[abgebogen]]
 [[abbiegen]] - [[ab]] = [[biegen]]
+, [[s1 e1]]

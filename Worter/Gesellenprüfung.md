@@ -17,7 +17,7 @@ die [[Gesellenprüfungen]]
 journeyman's examination, skilled trades qualification exam
 
 ---
-[[Geselle]][[n]][[prüfung]]
+[[Geselle]][[n]][[Prüfung]]
 
 ---
 N: die [[Gesellenprüfung]], die [[Gesellenprüfungen]]  

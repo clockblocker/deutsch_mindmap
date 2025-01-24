@@ -5,7 +5,7 @@ haben [[gelohnt]]
 ---
 *Ohne dich zähl ich die Stunden, ohne dich*  
 *Mit dir stehen die Sekunden*  
-*[[Lohnen]] nicht*  
+*[[lohnen]] nicht*  
   
 
 ---
@@ -16,7 +16,7 @@ Antonyme: [[verlieren]], [[unrentabel sein]], [[kostspielig sein]], [[sich nicht
 Übersetzung: to be worthwhile, to pay off
 
 ---
-Morpheme: [[lohn]][[en]]
+Morpheme: [[Lohn]][[en]]
  #Verb  #Untrennbar
 
 ---

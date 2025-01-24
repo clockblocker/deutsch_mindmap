@@ -26,4 +26,4 @@ Morpheme: [[ab]][[feuer]][[n]]
 | Sie | [[feuern ab]] | [[feuerten ab]] | [[feuern Sie ab]] | [[feuern ab]] | [[feuerten ab]] |
 
 Partizip I: [[abfeuernd]], Partizip II: [[abgefeuert]]
-[[abfeuern]] - [[ab]] = [[feuern]]
+[[abfeuern]] - [[ab]] = [[feuern]], [[s1 e1]]

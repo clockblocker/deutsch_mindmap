@@ -30,4 +30,4 @@ N: [[bestimmtes]], [[bestimmteres]], [[bestimmtestes]]
 P: [[bestimmten]], [[bestimmteren]], [[bestimmtesten]]  
 
 ---
-[[bestimmen]], [[Bestimmung]], [[unbestimmt]], [[Bestimmtheit]], [[bestimmbar]]
+[[bestimmen]], [[Bestimmung]], [[unbestimmt]], [[Bestimmtheit]], [[bestimmbar]], [[s1 e1]], [[Anki]]

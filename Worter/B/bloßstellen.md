@@ -1,1 +1,1 @@
-, [[demaskieren]]
+, [[demaskieren]], [[aufdecken]]

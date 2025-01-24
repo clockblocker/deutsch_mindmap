@@ -20,4 +20,4 @@ agreed, OK, all right, consenting
 
 Einzigartige mögliche Formen: 
 [[einverstanden]], [[einverstandener]], [[einverstandene]], [[einverstandenes]], [[einverstandenen]], [[einverstandenem]], [[einverstandener]], [[einverstandenen]]
-, [[Einverständnis]]
+, [[Einverständnis]], [[s1 e1]]

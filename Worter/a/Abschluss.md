@@ -25,3 +25,4 @@ Dative: dem [[Abschluss]], den [[Abschlüssen]]
 [[abschließen]], [[abschließlich]], [[abschlussreif]], [[Studienabschluss]], [[Schulabschluss]]
 
 , [[durch]], [[Schluss]], [[Abschlussbericht]]
+, [[Einführung]], [[Anfang]]

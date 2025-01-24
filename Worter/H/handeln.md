@@ -3,6 +3,8 @@
 haben [[gehandelt]]
 
 ---
+Die Geschichte [[handelt]] [[von]] Tieren.
+
 Psychologen meinen, dass 60 Prozent aller Gespräche von Menschen [[handeln]], die nicht anwesend sind. 
 
 – Wir wollen den Hauskauf nicht übers Knie brechen. (Wir wollen nicht überstürzt und unüberlegt [[handeln]])
@@ -34,4 +36,4 @@ Morpheme: [[handel]][[en]]
 
 Partizip I: [[handelnd]], Partizip II: [[gehandelt]]
 
-[[handeln]] - untrennbar, [[tun]], [[warten]], [[abwarten]], [[nachdenken]], [[überlegen]], [[wirken]], [[zögern]], [[Handlung]], [[Verhalten]], [[vorgehen]], [[begehen]]
+[[handeln]] - untrennbar, [[tun]], [[warten]], [[abwarten]], [[nachdenken]], [[überlegen]], [[wirken]], [[zögern]], [[Handlung]], [[verhalten]], [[vorgehen]], [[begehen]]

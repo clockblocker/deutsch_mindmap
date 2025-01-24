@@ -2,6 +2,8 @@
 die [[streite]]
 
 ---
+Bei einem [[Streit]] gibt es [[unterschiedliche]] Meinungen.
+
 Eines Tages aber bekam der Hase [[Streit]] mit einem [[Hirsch]];
 
 Leider kann sie nicht lange mit ihr sprechen, denn sie hat [[Aufsicht]] auf dem [[Pausenhof]]. Dort ist es sehr laut, und immer wieder muss sie [[Streit]] schlichten.
@@ -22,4 +24,4 @@ Morphems:
 
 ---
 #Substantiv #Maskulin 
-, [[schlichten]], [[Abkommen]], [[Einigkeit]]
+, [[schlichten]], [[Abkommen]], [[Einigkeit]], [[Anki]]

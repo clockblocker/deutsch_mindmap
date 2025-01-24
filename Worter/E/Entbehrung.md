@@ -1,1 +1,1 @@
-, [[Versorgung]]
+, [[Versorgung]], [[Armut]]

@@ -28,4 +28,4 @@ Morphems:
 [[Feuer]]
 
 ---
-#Substantiv #Neuter, [[Feuerzeug]], [[brennen]], [[Rauchmelder]], [[Feuerstoß]], [[Feuerwehr]], [[Feuerdolch]]
+#Substantiv #Neuter, [[Feuerzeug]], [[brennen]], [[Rauchmelder]], [[Feuerstoß]], [[Feuerwehr]], [[Feuerdolch]], [[s1 e1]]

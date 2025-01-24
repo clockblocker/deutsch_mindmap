@@ -1,5 +1,5 @@
-[[Hören]]  
+[[hören]]  
 
 🔔 [[gehören]] 
 
-, [[Kick]], [[Abenteuer 1]], [[langweilen]], [[Glücksspiel]]
+, [[Kick]], [[Abenteuer 1]], [[langweilen]], [[Glücksspiel]], [[zuhören]]

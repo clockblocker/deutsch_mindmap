@@ -1,1 +1,1 @@
-, [[anzeigen]]
+, [[anzeigen]], [[Bildschirm]]

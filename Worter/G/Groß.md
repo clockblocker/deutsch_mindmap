@@ -60,4 +60,4 @@ big, large
 ---
 
 Tags: 
-#Adjective [[Groß]], [[großartig]]
+#Adjective [[Groß]], [[großartig]], [[gering]]

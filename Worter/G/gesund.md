@@ -2,7 +2,7 @@
 nicht [[krank]]
 
 ---
-
+Toni raucht nicht mehr und [[lebt]] [[dadurch]] [[gesünder]].
 
 ---
 Synonyme: [[fit]], [[vital]], [[rüstig]], [[wohlauf]], [[lebensfrisch]]  

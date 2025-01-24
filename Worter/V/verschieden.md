@@ -30,3 +30,4 @@ P: [[verschiedenen]], [[verschiedeneren]], [[verschiedensten]]
 ---
 [[Verschiedenheit]], [[unterscheiden]], [[Unterschied]], [[Vielfalt]], [[divergieren]]
 
+, [[Anki]]

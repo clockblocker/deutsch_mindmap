@@ -35,4 +35,4 @@ Morpheme: [[geb]][[en]]
 Partizip I: [[gebend]], Partizip II: [[gegeben]]
 
 [[übergeben]], [[zugeben]], [[kriegen]], [[schenken]]
-, [[aufgeben]], [[umgeben]], [[vergebens]], [[ausgeben]], [[abgeben]]
+, [[aufgeben]], [[umgeben]], [[vergebens]], [[ausgeben]], [[abgeben]], [[ergibt]], [[s1 e1]]

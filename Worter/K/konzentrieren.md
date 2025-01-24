@@ -1,1 +1,1 @@
-, [[ausbreiten]], [[plempern]], [[streuen]], [[zerstreuen]], [[rumquatschen]]
+, [[ausbreiten]], [[plempern]], [[streuen]], [[zerstreuen]], [[rumquatschen]], [[zuhören]]

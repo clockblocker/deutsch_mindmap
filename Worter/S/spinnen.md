@@ -37,4 +37,4 @@ Zusätzliche Bedeutungen:
 1. Technisches Verb: Fasern zu Garn oder Faden verarbeiten
 2. Umgangssprachlich: verrückte Ideen entwickeln, fantasieren
 3. Dialektal: sich benehmen, handeln
-, [[umwerfen]], [[fernab]]
+, [[umwerfen]], [[fernab]], [[s1 e1]]

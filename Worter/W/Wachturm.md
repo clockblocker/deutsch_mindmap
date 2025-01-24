@@ -31,4 +31,4 @@ Kulturelle Bedeutung:
 Verwendungsbeispiele:
 1. Der Wachturm an der Grenze überwachte die Bewegungen.
 2. Ein alter Wachturm ragte über die Landschaft.
-3. Soldaten besetzten den Wachturm.
+3. Soldaten besetzten den Wachturm., [[s1 e1]]

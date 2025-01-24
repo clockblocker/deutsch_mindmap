@@ -8,4 +8,4 @@ die [[Enden]]
 ---
 
 #Substantiv  
-#Neuter, [[Spitze]], [[Schluss]], [[Abschluss]], [[Geburt]], [[Abschied]], [[Vorsitzende]]
+#Neuter, [[Spitze]], [[Schluss]], [[Abschluss]], [[Geburt]], [[Abschied]], [[Vorsitzende]], [[Einführung]], [[Anfang]]

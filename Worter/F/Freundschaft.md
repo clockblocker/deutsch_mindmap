@@ -9,7 +9,7 @@ Beispiele:
 
 ---
 Synonyme:
-- [[Kameradschaft]], [[Beziehung]], [[Verbindung]]
+- [[Kameradschaft]], [[Worter/B/Beziehung]], [[Verbindung]]
 
 ---
 **Übersetzung**: fship

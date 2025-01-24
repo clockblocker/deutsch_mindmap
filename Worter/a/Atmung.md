@@ -33,4 +33,4 @@ Weitere Informationen:
 Verwandte Begriffe:
 - [[Atmen]]
 - [[Atem]]
-- [[Atemzug]], [[entspringen]]
+- [[Atemzug]], [[entspringen]], [[s1 e1]]

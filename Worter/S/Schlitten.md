@@ -25,4 +25,4 @@ Beschreibung: Ein Transportmittel zum Gleiten über Schnee oder Eis, typischerwe
 
 Verwendungsbeispiele:
 - Die Kinder rodelten mit dem [[Schlitten]] den Hügel hinunter.
-- Im Winter ziehen Pferde oft einen [[Schlitten]] durch verschneite Landschaften.
+- Im Winter ziehen Pferde oft einen [[Schlitten]] durch verschneite Landschaften., [[s1 e1]]

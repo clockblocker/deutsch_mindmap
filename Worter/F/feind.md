@@ -23,4 +23,4 @@ G: des [[Feindes]], der [[Feinde]]
 D: dem [[Feind]], den [[Feinden]]  
 
 ---
-[[feindlich]], [[verfeinden]], [[Feindschaft]], [[Feindbild]], [[Feindseligkeit]]
+[[feindlich]], [[verfeinden]], [[Feindschaft]], [[Feindbild]], [[Feindseligkeit]], [[Gegnern]]

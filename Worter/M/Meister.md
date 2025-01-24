@@ -27,4 +27,4 @@ Einzigartige mögliche Formen: [[Meisters]], [[Meistern]], [[Meister]], [[Meiste
 ---
 #Substantiv #Maskulin
 
-, [[Lehrling]], [[Geselle]], [[Sieger]], [[Weltmeister]]
+, [[Lehrling]], [[Geselle]], [[Sieger]], [[Weltmeister]], [[s1 e1]]

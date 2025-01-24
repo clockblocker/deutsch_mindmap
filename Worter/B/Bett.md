@@ -1,2 +1,2 @@
 das [[Bett]] / die [[Betten]] | #Substantiv #Neuter | bed
-[[Bettzeug]], [[Wochenbett]]
+[[Bettzeug]], [[Wochenbett]], [[s1 e1]]

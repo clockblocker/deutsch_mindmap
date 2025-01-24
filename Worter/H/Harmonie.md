@@ -1,1 +1,1 @@
-, [[Gleichgewicht]], [[Frieden]], [[Konflikt]], [[Einigkeit]], [[Trennungsjahr]]
+, [[Gleichgewicht]], [[Frieden]], [[Konflikt]], [[Einigkeit]], [[Trennungsjahr]], [[Aggression]]

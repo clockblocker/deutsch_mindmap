@@ -1,2 +1,2 @@
 Inf: [[Verstecken]]
-, [[versteckspielen]]
+, [[versteckspielen]], [[s1 e1]]

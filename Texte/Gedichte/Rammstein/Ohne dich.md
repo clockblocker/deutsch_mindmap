@@ -16,7 +16,7 @@ Ohne dich
   
 Ohne dich [[zähl]] ich die Stunden, ohne dich  
 Mit dir stehen die Sekunden  
-[[Lohnen]] nicht  
+[[lohnen]] nicht  
   
   
 Auf den [[Ästen]] in den [[Gräben]]  

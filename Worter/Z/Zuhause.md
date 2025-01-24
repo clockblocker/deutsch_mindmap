@@ -1,1 +1,1 @@
-[[Haus]], [[Arbeitsplatz]], [[Wahllokals]]
+[[Haus]], [[Arbeitsplatz]], [[Wahllokals]], [[Büro]]

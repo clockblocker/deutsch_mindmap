@@ -1,1 +1,1 @@
-, [[garstig]]
+, [[garstig]], [[widrig]]

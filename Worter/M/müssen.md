@@ -64,4 +64,4 @@ to have to, must
 **Morphems of only infinitive:**  
 - [[müss]][[en]]
 
-, [[sollen]]
+, [[sollen]], [[s1 e1]]

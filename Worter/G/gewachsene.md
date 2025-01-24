@@ -29,4 +29,4 @@ Einzigartige mögliche Formen:
 [[gewachsenste]], [[gewachsenster]], [[gewachsenste]], [[gewachsenstes]], [[gewachsensten]], [[gewachsenstem]]
 '''
 
-Note: "Gewachsene" is the past participle used as an adjective, typically describing something that has grown naturally or developed organically over time.
+Note: "Gewachsene" is the past participle used as an adjective, typically describing something that has grown naturally or developed organically over time., [[Kauf]]

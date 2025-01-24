@@ -2,7 +2,7 @@
 die [[Anzahlen]]
 
 ---
-Neben den Museumsbesuchen und dem Kauf von Bildern spiegelt sich das gewachsene Kunstinteresse in der [[Anzahl]] der Studierenden im Bereich der bildenden Kunst wider.
+Neben den Museumsbesuchen und dem [[Kauf]] von Bildern [[widerspiegelt|spiegelt]] sich das [[gewachsene]] [[Kunstinteresse]] in der [[Anzahl]] der Studierenden im [[Bereich]] der bildenden Kunst wider.
 
 ---
 Synonyme:

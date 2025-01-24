@@ -5,7 +5,6 @@
 	- [ ] Sie müssen nichts tun. Man darf in Deutschland jederzeit [[überall]] demonstrieren.
 	- [x] Sie müssen die Demonstration [[anmelden]].
 	- [ ] Sie können gar nichts tun, denn Demonstrationen sind in Deutschland [[grundsätzlich]] verboten.
-	- [ ] Maik und Sybille müssen einen neuen [[Verein]] gründen, weil nur Vereine demonstrieren dürfen.
 
 ---
 = [[prinzipiell]], [[generell]], [[allgemein]]

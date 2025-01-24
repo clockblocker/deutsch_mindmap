@@ -4,6 +4,8 @@ Plural: die [[Böden]]
 ![[Pasted image 20240703131433.png]]
 
 ---
+[[Fühle]] den [[Boden]] unter deinen Füßen.
+
 *Lässt dich hart zu [[Boden]] geh'n*
 *Und die Welt zählt laut bis zehn*
 
@@ -31,4 +33,4 @@ Alle Formen:
 | Nominative  | der Boden         | die Böden        |
 | Accusative  | den Boden         | die Böden        |
 | Dative      | dem Boden         | den Böden        |
-| Genitive    | des Bodens        | der Böden        |, [[Vereinbarung]]
+| Genitive    | des Bodens        | der Böden        |, [[Vereinbarung]], [[s1 e1]]

@@ -19,6 +19,7 @@ Wir [[nehmen]] dazu vor allem [[einfach]] strukturierte Verben wie _spielen_, a
 [[zunehmen]] - [[zu]] = [[nehmen]]                    / gain weight / набрать
 [[abnehmen]] - [[ab]] = [[nehmen]]                     /  to lose weight, to decrease, to take off
 [[annehmen]] - [[an]] = [[nehmen]] // to accept, to assume, to take
+[[aufnehmen]] - [[auf]] = [[nehmen]] / to take up, have guests, to record, to receive
 
 ---
 Synonyme: [[ergreifen]], [[greifen]], [[fassen]], [[erfassen]], [[entnehmen]]

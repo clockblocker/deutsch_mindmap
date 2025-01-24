@@ -1,1 +1,1 @@
-🔴 die [[Verhalten]] | 😕 [[verhalten]]
+🔴 die [[verhalten]] | 😕 [[verhalten]]

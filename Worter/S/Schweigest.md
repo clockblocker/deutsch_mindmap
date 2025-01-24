@@ -1,1 +1,1 @@
-, [[Schweige]]
+, [[Schweige]], [[schweigen]]

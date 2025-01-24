@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Fernrohrs]], [[Fernrohr]], [[Fernrohre]], [[Fer
 Gebrauchshinweise:
 - Verwendet in Astronomie, Beobachtung von entfernten Objekten
 - Wissenschaftliches Instrument zur Vergrößerung weit entfernter Objekte
-- Besteht aus Linsen oder Spiegeln zur optischen Vergrößerung
+- Besteht aus Linsen oder Spiegeln zur optischen Vergrößerung, [[s1 e1]]

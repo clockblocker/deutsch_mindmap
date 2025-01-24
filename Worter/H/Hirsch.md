@@ -29,4 +29,4 @@ Plural: [[Hirsche]], [[Hirschen]]
 Kulturelle Bedeutung:
 - In der deutschen Mythologie symbolisiert der Hirsch Kraft, Würde und Freiheit
 - Wichtiges Jagdwild in europäischen Wäldern
-- Oft in Wappen und Heraldik verwendet
+- Oft in Wappen und Heraldik verwendet, [[Streit]]

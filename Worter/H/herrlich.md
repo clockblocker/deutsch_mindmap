@@ -1,1 +1,1 @@
-, [[schrecklich]]
+, [[schrecklich]], [[prächtig]]

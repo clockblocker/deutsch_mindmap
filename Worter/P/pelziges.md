@@ -1,1 +1,1 @@
-[[pelzig]], [ˈpɛltsɪç]
+[[pelzig]], [ˈpɛltsɪç], [[s1 e1]]

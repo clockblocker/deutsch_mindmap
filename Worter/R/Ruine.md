@@ -1,1 +1,1 @@
-, [[Gebäude]]
+, [[Gebäude]], [[Haus]]

@@ -8,6 +8,7 @@
 [[gutgehen]] - [[gut]] = [[gehen]]             // to go well, to work out fine
 [[vorgehen]] - [[vor]] = [[gehen]]             // to proceed, to act, to go forward
 [[angehen]] - [[an]] = [[gehen]]                // start
+[[umgehen]] - [[um]] = [[gehen]] / to bypass, to avoid, to circumvent
 
 
 ---
@@ -35,4 +36,4 @@ Partizip II: [[gegangen]]
 Zu+infinifive: [[zu gehen]]
 
 ---
-[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]], [[weitergehen]], [[stolpern]], [[vorgehen]], [[begehen]], [[unter]]
+[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]], [[weitergehen]], [[stolpern]], [[vorgehen]], [[begehen]], [[unter]], [[umgehen]], [[s1 e1]]

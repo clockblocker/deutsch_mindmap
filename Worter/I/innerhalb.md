@@ -1,7 +1,8 @@
-
 [[innerhalb]], [ˈɪnəɐ̯ˌhalp]
 
 ---
+[[Innerhalb]] Deutschlands gibt es verschiedene Regionen.
+
 Leider hatte sie nicht mit der [[Finanzkrise]] [[gerechnet]]. [[Innerhalb]] von wenigen Wochen war ihr [[gesamtes]] [[Vermögen]] auf die Hälfte [[zusammengeschrumpft]]. Laura war [[verzweifelt]]. 
 
 

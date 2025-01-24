@@ -2,6 +2,8 @@
 nicht [[ungefährlich]]
 
 ---
+Sie geht alleine nach Hause, [[obwohl]] sie weiß, dass es [[gefährlich]] ist.
+
 *[[Gefährlich]] ist, wer Schmerzen kennt*  
 *Vom Feuer, das den Geist verbrennt (Bäng bäng)*  
 
@@ -36,4 +38,4 @@ Einzigartige mögliche Formen:
 [[gefährlichste]], [[gefährlichster]], [[gefährlichste]], [[gefährlichstes]], [[gefährlichsten]], [[gefährlichstem]], [[gefährlichster]], [[gefährlichsten]]
 
 , [[tödlich]]
-, [[Gefahr]], [[Schädliches]]
+, [[Gefahr]], [[Schädliches]], [[Anki]]

@@ -1,14 +1,15 @@
-, [[Stoß]]
 🔵 der [[Druck]]
 die [[Drücke]]
 
 ---
 Es gibt Menschen, die immer bekommen, was sie wollen, ganz ohne [[Druck]] oder [[Gewalt]]. Sie haben ein ganz [[besonderes]] Talent, andere zu manipulieren, ohne dass diese es wirklich [[merken]]. Aber wie machen sie das?  
 
+Die [[Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
+
 
 ---
 Synonyme:
-- [[Kraft]], [[Belastung]], [[Auflage]], [[Eindruck]], [[Abdruck]]
+- [[Kraft]], [[Belastung]], [[Auflage]], [[Eindruck]], [[Abdruck]], [[Stoß]]
 
 ---
 pressure, print, stress

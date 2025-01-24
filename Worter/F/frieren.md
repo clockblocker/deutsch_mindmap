@@ -37,4 +37,4 @@ Morpheme: [[fri]][[er]][[en]]
 
 Partizip I: [[frierend]], Partizip II: [[gefroren]]
 
-, [[zufrieren]]
+, [[zufrieren]], [[s1 e1]]

@@ -1,1 +1,1 @@
-, [[stehen]], [[beistehen]]
+, [[stehen]], [[beistehen]], [[Anki]]

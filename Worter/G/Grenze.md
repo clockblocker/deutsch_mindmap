@@ -2,6 +2,8 @@
 die [[Grenzen]]
 
 ---
+An der [[Grenze]] kontrolliert die Polizei die Autos.
+ 
  [[Zulassungsgrenze]].
 
 219. Die Bundesrepublik Deutschland hat die [[Grenzen]] von heute seit … (71%)
@@ -31,4 +33,4 @@ D: der [[Grenze]], den [[Grenzen]]
 ---
 [[grenzen]], [[grenzelos]], [[grenzwertig]], [[Grenzfall]], [[Grenzgebiet]], [[Grenzwert]]
 , [[rand]], [[Zaun]], [[Zulassungsgrenze]]
-, [[begrenzen]], [[begrenzt]], [[Oder-Neiße-Linie]], [[Ostgrenze]]
+, [[begrenzen]], [[begrenzt]], [[Oder-Neiße-Linie]], [[Ostgrenze]], [[Gartenzaun]]

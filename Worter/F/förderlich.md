@@ -1,1 +1,1 @@
-, [[fördern]], [[Schädliches]]
+, [[fördern]], [[Schädliches]], [[widrig]]

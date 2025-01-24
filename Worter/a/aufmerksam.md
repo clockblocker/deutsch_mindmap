@@ -29,3 +29,4 @@ P: [[aufmerksamen]], [[aufmerksameren]], [[aufmerksamsten]]
 [[Aufmerksamkeit]], [[aufmerken]], [[unaufmerksam]], [[aufmerksam machen]], [[Aufmerksamkeitsdefizit]]
 
 [[zerstreut]], [[neugierig]], [[verständnislos]], [[bewusst]]
+, [[vorsichtig]]

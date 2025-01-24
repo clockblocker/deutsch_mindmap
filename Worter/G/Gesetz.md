@@ -2,6 +2,8 @@
 die [[Gesetze]]
 
 ---
+Der Staat [[entscheidet]] [[über]] [[Gesetze]] und [[Steuern]].
+
 17. Die deutschen [[Gesetze]] [[verbieten]] … (78%)
 	- [ ] [[Versammlungsfreiheit]] der Einwohner und Einwohnerinnen.
 	- [x] [[Ungleichbehandlung]] der Bürger und Bürgerinnen durch den Staat.

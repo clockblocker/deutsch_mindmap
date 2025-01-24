@@ -30,4 +30,4 @@ PI: [[ermöglichend]], PII: [[ermöglicht]], Zu+inf: [[zu ermöglichen]]
 [[ermöglichen]] - [[er]] = [[möglichen]] / to enable, to make possible
 
 ---
-[[Ermöglichung]], [[möglich]], [[Möglichkeit]], [[unmöglich]], [[Möglichkeiten]]
+[[Ermöglichung]], [[möglich]], [[Möglichkeit]], [[unmöglich]], [[Möglichkeiten]], [[gewähren]]

@@ -2,7 +2,9 @@ notwendig, [ˈnoːtvɛndɪç]
 nicht [[unnötig]]
 
 ---
-Tun wir nicht manchmal Dinge, die absolut nicht notwendig sind?
+Tun wir nicht manchmal Dinge, die absolut nicht [[notwendig]] sind?
+
+Mrs Dursley war dünn und blond und [[besaß]] [[doppelt]] so viel Hals, wie [[notwendig]] gewesen wäre, was [[allerdings]] sehr [[nützlich]] war, denn so konnte sie den Hals über den [[Gartenzaun]] [[recken]] und zu den Nachbarn [[hinüberspähen]].
 
 ---
 Synonyme: [[dien]], [[erforderlich]], [[nötig]], [[unerlässlich]], [[essenziell]], [[wichtig]]

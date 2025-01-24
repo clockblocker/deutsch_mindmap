@@ -3,6 +3,8 @@
 haben [[verändert]]
 
 ---
+Wir wollen die Welt [[verändern]].
+
 196. Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In dieser Zeit [[veränderte]] sich die DDR [[politisch]] … (86%)
 	- [x] von einer Diktatur zur Demokratie.
 

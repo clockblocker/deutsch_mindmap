@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schwanzes]], [[Schwanze]], [[Schwänze]], [[Schwänzen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[s1 e1]]

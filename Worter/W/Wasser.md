@@ -19,4 +19,4 @@ Alle Formen:
 | Nominative  | das Wasser        | die Wasser     |
 | Accusative  | das Wasser        | die Wasser     |
 | Dative      | dem Wasser        | den Wassern    |
-| Genitive    | des Wassers       | der Wasser     |[[Regen]], [[Wasserhahn]], [[Wasserblase]]
+| Genitive    | des Wassers       | der Wasser     |[[Regen]], [[Wasserhahn]], [[Wasserblase]], [[s1 e1]]

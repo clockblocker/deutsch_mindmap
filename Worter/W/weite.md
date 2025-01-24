@@ -1,1 +1,1 @@
-, [[weit]], [[weit und breit]], [[Entfernung]]
+, [[weit]], [[weit und breit]], [[Entfernung]], [[Zelle]]

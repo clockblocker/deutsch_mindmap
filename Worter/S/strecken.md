@@ -28,4 +28,4 @@ Morpheme: [[streck]][[en]]
 | Sie       | [[strecken]]         | [[streckten]]         | [[strecken Sie]]  | [[strecken]]           | [[streckten]]           |
 
 Partizip I: [[streckend]], Partizip II: [[gestreckt]]
-, [[biegen]], [[winden]], [[knicken]], [[verbiegen]]
+, [[biegen]], [[winden]], [[knicken]], [[verbiegen]], [[s1 e1]]

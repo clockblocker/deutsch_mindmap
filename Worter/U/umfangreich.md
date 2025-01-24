@@ -1,1 +1,1 @@
-, [[breit]], [[Ausführlich]]
+, [[breit]], [[Ausführlich]], [[gering]]

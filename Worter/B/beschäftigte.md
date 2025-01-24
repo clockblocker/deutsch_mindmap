@@ -1,1 +1,1 @@
-, [[beschäftigen]], [[schäftigen]], [[Mitarbeiterin]]
+, [[beschäftigen]], [[schäftigen]], [[Mitarbeiterin]], [[Erwerbstätige]]

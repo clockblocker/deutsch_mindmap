@@ -3,6 +3,8 @@
 ---
 Ich arbeit [[trotz]] (in spite of) meiner Korpfsmetzen
 
+Sie liebt ihn [[trotz]] seiner Fehler.
+
 ---
 Synonyme: [[obwohl]], [[ungeachtet]], [[unbeschadet]], [[entgegen]], [[ungeachtet]]
 Antonyme: [[wegen]], [[aufgrund]], [[infolge]], [[dank]], [[durch]]

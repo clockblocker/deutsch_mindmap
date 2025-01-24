@@ -1,1 +1,1 @@
-Du bist [[total]] reich[[ganz]], [[völlig]], [[gesamt]], [[ziemlich]]
+Du bist [[total]] reich[[ganz]], [[völlig]], [[gesamt]], [[ziemlich]], [[insgesamt]]

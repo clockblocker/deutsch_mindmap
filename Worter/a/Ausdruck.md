@@ -24,3 +24,4 @@ Einzigartige mögliche Formen: [[Ausdrucks]], [[Ausdrucke]], [[Ausdrücke]], [[a
 #Substantiv #Maskulin
 
 , [[Wort]], [[Gesichtsausdruck]]
+, [[aussprechen]]

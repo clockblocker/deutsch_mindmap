@@ -1,1 +1,1 @@
-, [[Ecke]], [[Raum]]
+, [[Ecke]], [[Raum]], [[Zelle]]

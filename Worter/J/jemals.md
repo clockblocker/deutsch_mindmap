@@ -25,4 +25,4 @@ Adverbiale Verwendung:
 Typische Verwendungsbeispiele:
 - Hast du [[jemals]] davon gehört?
 - Es ist [[jemals]] passiert.
-- [[Jemals]] wirst du die Wahrheit erfahren.
+- [[Jemals]] wirst du die Wahrheit erfahren., [[Je]]

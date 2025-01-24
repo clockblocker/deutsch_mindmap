@@ -1,1 +1,1 @@
-, [[Reparationsleistung]], [[Ausgleich]]
+, [[Reparationsleistung]], [[Ausgleich]], [[Lohn]]

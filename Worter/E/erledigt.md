@@ -2,6 +2,8 @@
 nicht [[unerledigt]]
 
 ---
+Du musst nicht noch einkaufen gehen, ich habe es [[bereits]] [[erledigt]].
+
 Seit Mutter gestorben ist, habe ich die ganze Arbeit im Lager [[erledigt]], während du irgendwo Soldat gespielt hast!
 
 29. Eine Frau in Deutschland [[verliert]] ihre Arbeit. Was darf nicht der Grund für diese [[Entlassung]] sein? (89%)
@@ -31,4 +33,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[erledigt]], [[erledigte]], [[erledigtes]], [[erledigter]], [[erledigtem]], [[erledigten]], [[erledigt]]
 [[erledigere]], [[erlediger]], [[erledigte]], [[erledigeres]], [[erledigendem]], [[erledigensten]], [[erledigte]]
-[[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[s1 e1]], [[gelöst]]
+[[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[s1 e1]], [[gelöst]], [[Anki]]

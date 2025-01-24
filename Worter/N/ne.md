@@ -1,1 +1,1 @@
-, [[Fahne]], [[Ahne]]
+, [[Fahne]], [[Ahne]], [[Lohn]]

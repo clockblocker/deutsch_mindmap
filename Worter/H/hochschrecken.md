@@ -26,4 +26,4 @@ Morpheme: [[hoch]][[schreck]][[en]]
 | Sie | [[schrecken hoch]] | [[schraken hoch]] | [[schrecken Sie hoch]] | [[schrecken hoch]] | [[schräken hoch]] |
 
 Partizip I: [[hochschreckend]], Partizip II: [[hochgeschreckt]]
-[[hochschrecken]] - [[hoch]] = [[schrecken]]
+[[hochschrecken]] - [[hoch]] = [[schrecken]], [[s1 e1]]

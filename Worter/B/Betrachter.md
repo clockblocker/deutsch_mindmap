@@ -1,1 +1,1 @@
-, [[Zuschauer]]
+, [[Zuschauer]], [[betrachten]]

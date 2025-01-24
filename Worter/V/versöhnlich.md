@@ -1,1 +1,1 @@
-, [[schmollen]]
+, [[schmollen]], [[friedlich]]

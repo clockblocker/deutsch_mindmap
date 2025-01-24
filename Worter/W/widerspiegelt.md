@@ -1,1 +1,1 @@
-, [[widerspiegeln]]
+, [[widerspiegeln]], [[Kauf]]

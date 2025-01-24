@@ -16,4 +16,4 @@ Morpheme:
 
 ---
 #Adverb #Konjunktion
-, [[CONNECTOR]]
+, [[CONNECTOR]], [[beziehungsweise]], [[Anki]]

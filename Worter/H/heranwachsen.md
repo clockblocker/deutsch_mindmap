@@ -1,1 +1,1 @@
-, [[Aufwachsen]], [[herankam]]
+, [[Aufwachsen]], [[herankam]], [[wachsen]]

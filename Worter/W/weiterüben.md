@@ -28,3 +28,4 @@ Morpheme: [[weiter]][[üb]][[en]]
 
 Partizip I: [[weiterübend]], Partizip II: [[weitergeübt]]
 [[weiterüben]] - [[weiter]] = [[üben]]
+, [[s1 e1]]

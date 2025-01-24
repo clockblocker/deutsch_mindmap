@@ -18,7 +18,7 @@ salary payments
 
 ---
 [[Gehalts]]+[[zahlungen]]
-[[Ge]]|[[halt]]|[[s]]|[[zahl]]|[[ung]]|[[en]]
+[[Ge]]|[[halt]]|[[s]]|[[Zahl]]|[[ung]]|[[en]]
 
 ---
 N: die [[Gehaltszahlungen]], die [[Gehaltszahlungen]]  

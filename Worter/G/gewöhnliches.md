@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[gewöhnlich]], [[gewöhnliche]], [[gewöhnliches]], [[gewöhnlichen]], [[gewöhnlichem]], [[gewöhnlicher]]
 [[gewöhnlichere]], [[gewöhnlicheres]], [[gewöhnlicheren]], [[gewöhnlicherem]], [[gewöhnlicherer]]
-[[gewöhnlichsten]], [[gewöhnlichster]], [[gewöhnlichste]], [[gewöhnlichstes]], [[gewöhnlichsten]], [[gewöhnlichstem]]
+[[gewöhnlichsten]], [[gewöhnlichster]], [[gewöhnlichste]], [[gewöhnlichstes]], [[gewöhnlichsten]], [[gewöhnlichstem]], [[s1 e1]]

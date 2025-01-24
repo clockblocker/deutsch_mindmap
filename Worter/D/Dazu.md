@@ -34,4 +34,4 @@ Tags:
 Morphems:
 [[Da]][[zu]] 
  
-, [[11 08]], [[Faden]], [[da]]
+, [[11 08]], [[Faden]], [[da]], [[s1 e1]]

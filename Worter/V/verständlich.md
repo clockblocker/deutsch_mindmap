@@ -1,1 +1,1 @@
-, [[anschauliche]], [[klar]], [[deutlich]]
+, [[anschauliche]], [[klar]], [[deutlich]], [[laut]]

@@ -19,4 +19,4 @@ Morphems:
 [[brechen|Brech]][[er]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[Einbrecher]]

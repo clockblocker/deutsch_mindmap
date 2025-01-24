@@ -3,6 +3,8 @@
 haben [[erlebt]]
 
 ---
+So einen schönen Tag [[erlebt]] man nur einmal im Leben.
+
 Im DDR-Museum können die Besucher ein Stück DDR-Kultur [[erleben]]: Wie ist das Gefühl, wenn die Staatssicherheit die Wohnung abhört?
 
 Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. Egal, wie man sich [[anstellt]], es klappt nicht! Da muss der [[Wurm]] [[drin]] sein …

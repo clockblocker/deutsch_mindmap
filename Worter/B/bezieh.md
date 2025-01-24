@@ -1,1 +1,1 @@
-, [[beziehen]], [[Außenbeziehungen]]
+, [[beziehen]], [[Außenbeziehungen]], [[beziehungsweise]], [[Beziehung]]

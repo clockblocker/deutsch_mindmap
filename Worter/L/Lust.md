@@ -1,6 +1,8 @@
 🔴 die [[Lust]], [lʊst] 
 
 ---
+Er hat jetzt keine [[Lust]], darüber zu reden.
+
 *In meiner Kette fehlt kein Glied*  
 *Wenn die [[Lust]] von hinten zieht* 
 
@@ -24,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lust]], [[Luste]], [[Lusten]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Anki]]

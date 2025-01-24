@@ -1,2 +1,2 @@
 , [[nennen]], [[sogenannt]]
-🏷️ [[nennen]], [[erwähnen]]
+🏷️ [[nennen]], [[erwähnen]], [[sogenannten]]

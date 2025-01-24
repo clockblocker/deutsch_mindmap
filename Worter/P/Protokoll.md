@@ -1,1 +1,1 @@
-, [[Abkommen]], [[Urkunde]]
+, [[Abkommen]], [[Urkunde]], [[Aufnahme]]

@@ -1,1 +1,1 @@
-🗣️ [[erwähnen]], [ɛɐ̯ˈvɛːnən] | [[erwähnte]], haben [[erwähnt]], [[vorhin]]
+🗣️ [[erwähnen]], [ɛɐ̯ˈvɛːnən] | [[erwähnte]], haben [[erwähnt]], [[vorhin]], [[sogenannten]]

@@ -1,1 +1,1 @@
-, [[Gleichgewicht]], [[Last]]
+, [[Gleichgewicht]], [[Last]], [[Wert]]

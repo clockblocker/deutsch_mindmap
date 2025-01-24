@@ -55,4 +55,4 @@ Morpheme: [[zeig]][[en]]
 
 Partizip I: [[zeigend]], Partizip II: [[gezeigt]]
 [[zeigen]] - [[zeig]] = [[en]]
-''', [[sehen lassen]], [[beibringen]], [[verdecken]], [[vorstellen]], [[anzeigen]], [[hinweisen]], [[weisen]]
+''', [[sehen lassen]], [[beibringen]], [[verdecken]], [[vorstellen]], [[anzeigen]], [[hinweisen]], [[weisen]], [[s1 e1]]

@@ -23,4 +23,4 @@ Einzigartige mögliche Formen:
 
 ---
 #Substantiv #Maskulin
-, [[Basiswert]], [[zugrundeliegende]]
+, [[Basiswert]], [[zugrundeliegende]], [[s1 e1]]

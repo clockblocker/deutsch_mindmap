@@ -75,4 +75,4 @@ Einzigartige mögliche Formen: [[Wartens]], [[warten]]
 Zusätzliche Informationen:
 - Abgeleitet vom Verb [[warten]]
 - Bezeichnet den Vorgang oder Zustand des Wartens
-- Infinitiv als Substantivierung, [[vorgehen]]
+- Infinitiv als Substantivierung, [[vorgehen]], [[s1 e1]]

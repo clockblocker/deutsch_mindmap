@@ -1,1 +1,1 @@
-[[ganz]], [[halbes]], [[gesamt]]
+[[ganz]], [[halbes]], [[gesamt]], [[insgesamt]]

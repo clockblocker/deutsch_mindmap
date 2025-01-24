@@ -1,1 +1,1 @@
-, [[Haustür]], [[eingehen]]
+, [[Haustür]], [[eingehen]], [[Aufnahme]]

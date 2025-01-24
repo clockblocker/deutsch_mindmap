@@ -3,7 +3,15 @@
 haben [[bestanden]]
 
 ---
-“AfD [[legt]] auf Parteitag [[fest]] - Familie besteht aus Vater, Mutter, Kindern”
+Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
+
+Ich habe die Prüfung nicht [[bestanden]], aber [[zumindest]] habe ich es versucht.
+
+Sie ist sich [[ziemlich]] sicher, dass sie die Prüfung [[bestanden]] hat.
+
+Menschen und Tiere [[bestehen]] aus [[Zellen]].
+
+“AfD [[legt]] auf Parteitag [[fest]] - Familie [[besteht]] aus Vater, Mutter, Kindern”
 
 Natürlich [[besteht]] Gloria die Führerscheinprüfung. Zu ihrer Schwester sagt sie: „Danke, dass du mir die Daumen gedrückt hast. Das hat mir wirklich geholfen!“
 

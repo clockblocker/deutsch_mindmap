@@ -1,1 +1,1 @@
-, [[Schweigerecht]], [[Schweige]]
+, [[Schweigerecht]], [[Schweige]], [[schweigen]]

@@ -19,4 +19,4 @@ Morphems:
 [[Auto]]
 
 ---
-#Substantiv #Neuter, [[Trabant]]
+#Substantiv #Neuter, [[Trabant]], [[Boot]]

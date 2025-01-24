@@ -3,7 +3,9 @@
 haben [[erledigt]]
 
 ---
-Seit Mutter gestorben ist, habe ich die ganze Arbeit im Lager [[erledigt]], während du irgendwo Soldat gespielt hast!
+Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]].
+
+Seit Mutter gestorben ist, habe ich die ganze Arbeit im [[Lager]] [[erledigt]], während du irgendwo Soldat gespielt hast!
 
 ---
 Synonyme: [[abschließen]], [[beenden]], [[fertigstellen]], [[bewältigen]], [[ausführen]]

@@ -1,6 +1,9 @@
 🏷️ [[sogenannt]], [ˈzoːɡəˌnant] ≠ [[wirklich]]
 
 ---
+Sie lebt in New York dem [[sogenannten]] Big Apple.
+
+
 206. [[Woran]] [[erinnern]] die [[sogenannten]] „[[Stolpersteine]]“ in Deutschland? (100%)
 	- [ ] an [[berühmte]] deutsche Politikerinnen und Politiker
 	- [x] an die [[Opfer]] des Nationalsozialismus

@@ -1,3 +1,3 @@
 [[riesig]]
 🐘 [[riesig]] | 🐘 🟢 das [[Riesige]]
-, [[ausgeben]], [[umbauen]]
+, [[ausgeben]], [[umbauen]], [[s1 e1]]

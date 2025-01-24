@@ -1,6 +1,8 @@
 🤔 tatsächlich, [tatˈzɛçlɪç]
 
 ---
+Ich habe [[tatsächlich]] den Job bekommen.
+
 Ein Haar in der Suppe? Das möchte doch niemand haben. Aber es gibt [[tatsächlich]] Menschen, die extra [[danach]] suchen. Und sie freuen sich, wenn sie ein Haar in der Suppe gefunden haben. Aber warum ist das so?
 
 „Das muss ich wohl“, denkt Björn, „ich muss [[tatsächlich]] den Gürtel enger schnallen.“ 
@@ -27,4 +29,4 @@ Morpheme: [[Tat]][[sächlich]]
 
 
 [[allerdings]], [[eigentlich]], [[echt]]
-, [[begrüßen]], [[zerbrechen]], [[erwarten]], [[sogenannt]]
+, [[begrüßen]], [[zerbrechen]], [[erwarten]], [[sogenannt]], [[Anki]]

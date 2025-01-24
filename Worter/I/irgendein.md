@@ -1,1 +1,1 @@
-[[Indefinitpronomen]][[irgend]]
+[[Indefinitpronomen]][[irgend]], [[Je]]

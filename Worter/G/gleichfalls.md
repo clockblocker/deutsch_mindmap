@@ -1,1 +1,1 @@
-[[sowie]], [[ebenfalls]], [[seinerseits]]
+[[sowie]], [[ebenfalls]], [[seinerseits]], [[ebenso]]

@@ -1,1 +1,1 @@
-, [[gewaltigen]]
+, [[gewaltigen]], [[prächtig]]

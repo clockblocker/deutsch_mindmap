@@ -30,4 +30,4 @@ N: [[unbegrenztes]], [[unbegrenzeres]], [[unbegrenztstes]]
 P: [[unbegrenzten]], [[unbegrenzteren]], [[unbegrenztesten]]  
 
 ---
-[[begrenzen]], [[Begrenzung]], [[grenzenlos]], [[unendlich]], [[Unbegrenztheit]]
+[[begrenzen]], [[Begrenzung]], [[grenzenlos]], [[unendlich]], [[Unbegrenztheit]], [[Gartenzaun]]

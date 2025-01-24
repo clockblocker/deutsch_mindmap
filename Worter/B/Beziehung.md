@@ -1,8 +1,8 @@
-🔵 die [[Beziehung]], [bəˈtsiːʊ̯ŋ]
+🔵 die [[Worter/B/Beziehung]], [bəˈtsiːʊ̯ŋ]
 die [[Beziehungen]]
 
 ---
-– Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Beziehung]] gelöst.)
+– Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Worter/B/Beziehung]] gelöst.)
 
 
 [[Außenbeziehungen]]
@@ -21,15 +21,15 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-- Singular: [[Beziehung]], [[Beziehungen]], [[Beziehung]], [[Beziehung]], [[Beziehungen]]
-- Genitiv: [[Beziehung]], [[Beziehungen]]
-- Dativ: [[Beziehung]], [[Beziehungen]]
-- Akkusativ: [[Beziehung]], [[Beziehungen]]
+- Singular: [[Worter/B/Beziehung]], [[Beziehungen]], [[Worter/B/Beziehung]], [[Worter/B/Beziehung]], [[Beziehungen]]
+- Genitiv: [[Worter/B/Beziehung]], [[Beziehungen]]
+- Dativ: [[Worter/B/Beziehung]], [[Beziehungen]]
+- Akkusativ: [[Worter/B/Beziehung]], [[Beziehungen]]
 
 ---
 #Substantiv #Feminin
 
 Kontext-Beispiele:
-1. Eine enge [[Beziehung]] zwischen Freunden
-2. Eine romantische [[Beziehung]]
-3. Professionelle [[Beziehungen]] in der Arbeitswelt, [[Bezug]], [[bezogen]], [[beziehen]], [[Außenbeziehungen]]
+1. Eine enge [[Worter/B/Beziehung]] zwischen Freunden
+2. Eine romantische [[Worter/B/Beziehung]]
+3. Professionelle [[Beziehungen]] in der Arbeitswelt, [[Bezug]], [[bezogen]], [[beziehen]], [[Außenbeziehungen]], [[beziehungsweise]], [[Worter/Beziehung]]

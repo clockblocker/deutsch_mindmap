@@ -23,4 +23,4 @@ Einzigartige mögliche Formen:
 ---
 #Substantiv #Feminin
 #Abstrakt #Eigenschaft #Geisteszustand
-, [[Sprichwort]]
+, [[Sprichwort]], [[s1 e1]]

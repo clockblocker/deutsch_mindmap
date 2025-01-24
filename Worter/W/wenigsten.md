@@ -1,1 +1,1 @@
-, [[Weniger]], [[wenige]]
+, [[Weniger]], [[wenige]], [[Streit]]

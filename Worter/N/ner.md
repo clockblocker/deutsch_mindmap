@@ -1,1 +1,1 @@
-, [[Rechner]], [[Rentner]]
+, [[Rechner]], [[Rentner]], [[Gegnern]]

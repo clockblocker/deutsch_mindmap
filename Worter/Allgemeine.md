@@ -2,6 +2,9 @@
 die [[Allgemeinen]]
 
 ---
+Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
+
+
 120. Das Wahlsystem in Deutschland ist ein … (84%)
 	- [ ] Zensuswahlrecht.
 	- [ ] Dreiklassenwahlrecht.

@@ -31,7 +31,8 @@ Wolfgang, sieh doch [[gleich]] mal nach ist [[gleich]] nur etwas [[anders]]
 
 ---
 +[[ver]] = [[vergleichen]]
-+[[be]] = [[begleichen]]
++[[be]] = [[begleichen]] / to pay, to settle, to clear
+[[Vergleich]] - [[ver]] = [[gleich]] / to compare, to contrast
  
 ---
 Synonyme: 

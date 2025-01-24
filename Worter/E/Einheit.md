@@ -33,4 +33,4 @@ G: der [[Einheit]], der [[Einheiten]]
 D: der [[Einheit]], den [[Einheiten]]  
 
 ---
-[[einheitlich]], [[vereinen]], [[vereint]], [[Einheitsparty]], [[Einheitsstaat]]
+[[einheitlich]], [[vereinen]], [[vereint]], [[Einheitsparty]], [[Einheitsstaat]], [[Zelle]]

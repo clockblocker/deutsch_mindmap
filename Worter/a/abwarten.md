@@ -32,3 +32,4 @@ Partizip I: [[abwartend]], Partizip II: [[abgewartet]]
 
 
 
+, [[s1 e1]]

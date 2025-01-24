@@ -25,3 +25,4 @@ under, below, beneath
 
 [[untergehen]], [[gehen]], [[untertauchen]], [[unterbrechen]], [[unter vier Augen]], [[unterhalten]], [[da]], [[unten]], [[Religionsunterricht]], [[unterstützen]], [[stützen]], [[Unternehmerverband]], [[Unterarm]], [[Geschichtsunterricht]], [[Politikunterricht]], [[Sprachunterricht]], [[Unterstützung]], [[unterschätzen]], [[Unterhaltung]], [[unterliegen]], [[unterworfen]]
 
+, [[Unterschied]], [[unterscheiden]], [[Untersuchung]], [[untersuchen]]

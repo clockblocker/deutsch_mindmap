@@ -10,7 +10,7 @@ Ich will
 (Ich will) Ich will, dass ihr mir [[glaubt]]  
 (Ich will) Ich will [[eure]] [[Blicke]] [[spüren]]  
 (Ich will) [[jeden]] [[Herzschlag]] [[kontrollieren]]  
-(Ich will) Ich will eure [[Stimmen]] [[Hören]]  
+(Ich will) Ich will eure [[stimmen]] [[hören]]  
 (Ich will) Ich will die [[Ruhe]] [[stören]]  
 (Ich will) Ich will, dass ihr mich [[gut]] [[seht]]  
 (Ich will) Ich will, dass ihr mich [[versteht]]  
@@ -25,11 +25,11 @@ Ich will
 [[fühlt]] ihr mich?  
 [[hört]] ihr mich?  
   
-[[könnt]] ihr mich hören? (_Wir [[Hören]] [[dich_]])  
+[[könnt]] ihr mich hören? (_Wir [[hören]] [[dich_]])  
 Könnt ihr mich sehen? (_Wir [[sehen]] dich_)  
 Könnt ihr mich fühlen? (_Wir [[fühlen]] dich_)  
 Ich versteh’ euch nicht  
-Könnt ihr mich hören? (_Wir [[Hören]] dich_)  
+Könnt ihr mich hören? (_Wir [[hören]] dich_)  
 Könnt ihr mich sehen? (_Wir [[sehen]] dich_)  
 Könnt ihr mich [[fühlen]]? (_Wir [[fühlen]] dich_)  
 Ich versteh’ euch [[nicht]]  

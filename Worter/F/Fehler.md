@@ -2,6 +2,8 @@
 die [[Fehler]]
 
 ---
+Bitte schreibe nur die Sätze, in [[denen]] ich [[Fehler]] gemacht habe.
+
 Nun ist es nicht sinnvoll, auf den Klatsch zu verzichten, denn aus den Fehlern der anderen können wir ja selbst etwas lernen.
 
 ---

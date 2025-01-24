@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 [[gesamt]], [[gesamter]], [[gesamte]], [[gesamtes]], [[gesamten]], [[gesamtem]], [[gesamter]], [[gesamten]]
 [[gesamterer]], [[gesamtere]], [[gesamteres]], [[gesamteren]], [[gesamterem]], [[gesamterer]], [[gesamteren]]
 [[gesamtesten]], [[gesamtester]], [[gesamteste]], [[gesamtestes]], [[gesamtesten]], [[gesamtestem]], [[gesamtester]], [[gesamtesten]]
-, [[Gesamtschule]], [[sämtlich]]
+, [[Gesamtschule]], [[sämtlich]], [[insgesamt]]

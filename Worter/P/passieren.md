@@ -3,6 +3,7 @@
 haben [[passiert]]
 
 ---
+Ich warte [[darauf]], dass mein Handy klingelt, aber nichts [[passiert]].
 
 | **Katara** | [Schockiert] Nein Aang! Geh nicht!                                   |
 | ---------- | -------------------------------------------------------------------- |
@@ -37,4 +38,4 @@ Morpheme: [[pass]][[ier]][[en]]
 | Sie       | [[passieren]]        | [[passierten]]        | [[passieren Sie]] | [[passieren]]          | [[passierten]]          |
 
 Partizip I: [[passierend]], Partizip II: [[passiert]]
-, [[Erfolgen]], [[Passant]]
+, [[Erfolgen]], [[Passant]], [[s1 e1]]

@@ -26,4 +26,4 @@ Zusatzinformationen:
 - Liegt auf dem antarktischen Kontinent
 - Erdachsendrehpunkt auf der Südhalbkugel
 - Ständig von Eis bedeckt
-- Wissenschaftliche Forschungsstationen in der Nähe
+- Wissenschaftliche Forschungsstationen in der Nähe, [[s1 e1]]

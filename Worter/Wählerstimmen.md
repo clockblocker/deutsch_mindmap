@@ -18,7 +18,7 @@ die [[Wählerstimmen]]
 voters' votes, electoral votes
 
 ---
-[[Wähler]]+[[Stimmen]]
+[[Wähler]]+[[stimmen]]
 [[Wäh]]|[[ler]]|[[Stimm]]|[[en]]
 
 ---

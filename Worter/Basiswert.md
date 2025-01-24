@@ -27,4 +27,4 @@ G: des [[Basiswerts]], der [[Basiswerte]]
 D: dem [[Basiswert]], den [[Basiswerten]] 
 
 ---
-[[basieren]], [[Basispreis]], [[Grundwert]], [[Referenzwert]]
+[[basieren]], [[Basispreis]], [[Grundwert]], [[Referenzwert]], [[Wert]]

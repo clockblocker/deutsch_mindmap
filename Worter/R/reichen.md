@@ -1,6 +1,8 @@
  [[reichen]], [ˈʁaɪ̯çən] | [[reichte]], haben [[gereicht]]
 
 ---
+Das Frühstück [[reicht]] für die ganze Familie.
+
 Weil ihre Ehre nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es [[reicht]]!
 
 Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]
@@ -44,4 +46,4 @@ Plural: [[gereichten]], [[gereichteren]], [[gereichtetsten]]
 
 ---
 [[Reichweite]], [[unerreichbar]], [[Reichtum]], [[erreichbar]], [[Erreichbarkeit]]
-, [[ausreichende]]
+, [[ausreichende]], [[s1 e1]]

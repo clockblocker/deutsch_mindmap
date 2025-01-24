@@ -26,4 +26,4 @@ Alle Formen:
 | Genitive    | der Wohnung        | der Wohnungen      |
 
 
-, [[einziehen]]
+, [[einziehen]], [[Haus]]

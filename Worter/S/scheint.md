@@ -1,3 +1,3 @@
 , [[eignen]], [[geeignet]]
 
-☀️ [[scheinen]] | 🌟 [[scheinen]]
+☀️ [[scheinen]] | 🌟 [[scheinen]], [[s1 e1]]

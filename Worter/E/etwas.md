@@ -7,4 +7,4 @@ Ich hab euch [[etwas]] mitgebracht
 
  Jeder kauft [[etwas]].  
 
-[[Indefinitpronomen]], [[gegen]], [[dagegen]], [[11 08]], [[irgendwas]]
+[[Indefinitpronomen]], [[gegen]], [[dagegen]], [[11 08]], [[irgendwas]], [[s1 e1]]

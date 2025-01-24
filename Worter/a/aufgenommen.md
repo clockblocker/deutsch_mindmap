@@ -1,1 +1,1 @@
-, [[verbannt]]
+, [[verbannt]], [[aufnehmen]]

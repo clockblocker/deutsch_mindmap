@@ -1,18 +1,19 @@
-🔴 die [[Aggression]], [aɡʁɛˈsi̯oːn]
+🔴 die [[Aggression]], [aɡʁɛˈsɪoːn]
 die [[Aggressionen]]
 
 ---
 
+
 ---
-= [[Angriffslust]], [[Feindseligkeit]]
-≈ [[Kampfbereitschaft]], [[Angriff]], [[Attacke]], [[Streitlust]]
-≠ [[Friedfertigkeit]], [[Sanftmut]], [[Zurückhaltung]]
+= [[Angriffslust]], [[Kampfbereitschaft]]
+≈ [[Feindseligkeit]], [[Attacke]], [[Angriff]], [[Antagonismus]]
+≠ [[Friedfertigkeit]], [[Friedlichkeit]], [[Harmonie]], [[Sanftmut]]
 
 ---
 aggression
 
 ---
-[[Ag]][[gress]][[ion]]
+[[Ag]]|[[gress]]|[[ion]]
 
 ---
 N: die [[Aggression]], die [[Aggressionen]]  
@@ -21,4 +22,4 @@ G: der [[Aggression]], der [[Aggressionen]]
 D: der [[Aggression]], den [[Aggressionen]]  
 
 ---
-[[aggressiv]], [[aggredieren]], [[Aggressivität]], [[angreifen]], [[attackieren]]
+[[aggressiv]], [[aggressieren]], [[Aggressivität]], [[Aggressionstrieb]]

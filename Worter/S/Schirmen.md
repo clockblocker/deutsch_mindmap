@@ -1,1 +1,1 @@
-[[Schirm]], [[verteidigen]]
+[[Schirm]], [[verteidigen]], [[Bildschirm]]

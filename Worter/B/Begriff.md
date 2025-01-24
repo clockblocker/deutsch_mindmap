@@ -1,8 +1,11 @@
-, [[Wort]], [[Ausdruck]]
 🧠 der [[Begriff]], [bəˈɡʁɪf]
 die [[Begriffe]]
 
 ---
+[[Schönheit]] ist ein [[relativer]] [[Begriff]].
+
+Ich kenne diesen [[Begriff]] nicht.
+
 13. Im Parlament steht der [[Begriff]] „Opposition“ für… (96%)
 	- [ ] die [[regierenden]] [[Parteien]].
 	- [x] alle [[Abgeordneten]], die nicht zu der [[Regierungspartei]]/den Regierungsparteien gehören.
@@ -16,7 +19,7 @@ die [[Begriffe]]
 	- [x] Der Begriff meint den [[Zusammenschluss]] europäischer Staaten zur EU.
 
 ---
-= [[Konzept]], [[Idee]], [[Vorstellung]]
+= [[Konzept]], [[Idee]], [[Vorstellung]], [[Wort]], [[Ausdruck]]
 ≈ [[Terminus]], [[Gedanke]], [[Denkform]], [[Kategorie]]
 ≠ [[Nichtwissen]], [[Verwirrung]], [[Unklarheit]]
 

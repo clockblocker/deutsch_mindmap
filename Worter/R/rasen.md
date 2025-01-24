@@ -58,4 +58,4 @@ Genitive: des [[Rasens]], der [[Rasen]]
 Dative: dem [[Rasen]], den [[Rasen]] 
 
 ---
-[[rasen]], [[rasenmähen]], [[Rasenplatz]], [[Rasenmäher]], [[Zaun]], [[flitzen]]
+[[rasen]], [[rasenmähen]], [[Rasenplatz]], [[Rasenmäher]], [[Zaun]], [[flitzen]], [[s1 e1]]

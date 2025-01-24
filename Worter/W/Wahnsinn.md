@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Wahnsinns]], [[Wahnsinne]], [[Wahnsinnen]]
 
 ---
-#Substantiv #Maskulin, [[Schwachsinn]], [[irre]]
+#Substantiv #Maskulin, [[Schwachsinn]], [[irre]], [[s1 e1]]

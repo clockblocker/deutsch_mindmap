@@ -49,4 +49,4 @@ Morpheme: [[denk]][[en]]
 
 Partizip I: [[denkend]], Partizip II: [[gedacht]]
 - [[denk]][[en]], [[meinen]], [[glaub]]
-, [[Gedanke]]
+, [[Gedanke]], [[s1 e1]]

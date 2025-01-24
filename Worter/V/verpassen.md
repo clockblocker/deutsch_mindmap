@@ -3,6 +3,8 @@
 ---
 Das [[dürft]] ihr nicht [[verpassen]]!
 
+Sie [[verpassen]] den gesamten [[Vortrag]].
+
 *Wir wollen nichts [[versäumen]]*  
 *Wollen nichts [[verpassen]]*  
 *Doch du bleibst [[einfach]] liegen*  

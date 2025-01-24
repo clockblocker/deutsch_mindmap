@@ -1,1 +1,1 @@
-, [[erst]], [[zunächst]], [[CONNECTOR]], [[mittlerweile]]
+, [[erst]], [[zunächst]], [[CONNECTOR]], [[mittlerweile]], [[Anfang]]

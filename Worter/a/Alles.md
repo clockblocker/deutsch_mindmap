@@ -1,3 +1,3 @@
 [[alle]]
 
-[[Indefinitpronomen]]
+[[Indefinitpronomen]], [[s1 e1]]

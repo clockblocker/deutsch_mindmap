@@ -29,4 +29,4 @@ Zu+infinifive: [[zu erfrieren]]
 [[erfrieren]] - [[er]] = [[frieren]] / to freeze to death
 
 ---
-[[Erfrierung]], [[Erfrierungsgefahr]], [[Erfrierungsgrad]], [[Frost]]
+[[Erfrierung]], [[Erfrierungsgefahr]], [[Erfrierungsgrad]], [[Frost]], [[s1 e1]]

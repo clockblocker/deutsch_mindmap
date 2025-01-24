@@ -1,0 +1,1 @@
+😌 [[friedlich]] | 🤝 [[friedeln]], [[Anki]]

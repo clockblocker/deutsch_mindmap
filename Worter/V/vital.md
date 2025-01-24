@@ -1,1 +1,1 @@
-, [[gesund]], [[kerngesund]]
+, [[gesund]], [[kerngesund]], [[erschöpft]]

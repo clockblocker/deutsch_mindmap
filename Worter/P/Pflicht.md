@@ -30,4 +30,4 @@ Einzigartige mögliche Formen:
 
 ---
 #Substantiv #Feminin #Nomen
-, [[Wahlpflicht]], [[Schulpflicht]], [[Schweigepflicht]], [[Religionspflicht]], [[Grundrecht]], [[Versicherungspflicht]], [[recht]], [[Anwesenheitspflicht]]
+, [[Wahlpflicht]], [[Schulpflicht]], [[Schweigepflicht]], [[Religionspflicht]], [[Grundrecht]], [[Versicherungspflicht]], [[recht]], [[Anwesenheitspflicht]], [[s1 e1]]

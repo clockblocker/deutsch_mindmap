@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gliedmaße]], [[Gliedmaßen]], [[Gliedmaßes]], [[Gliedmaß]]
 
 ---
-#Substantiv #Feminin #Anatomie, [[Unterarm]]
+#Substantiv #Feminin #Anatomie, [[Unterarm]], [[s1 e1]]

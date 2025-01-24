@@ -2,6 +2,8 @@
 nicht [[normal]], nicht [[gewöhnlich]]
 
 ---
+Auf dem [[Bildschirm]] [[erscheint]] ein [[seltsames]] Symbol.
+
 Dieses seltsame zweibeinige Wesen sieht zwar nicht besonders stark aus
 
 Aber [[irgendwie]] macht der Rechner nicht das, was er tun soll. [[Schon]] das [[Hochfahren]] [[klappt]] nicht immer, ein neuer Browser lässt sich nicht installieren, und dann ist da immer wieder diese [[seltsame]] [[Fehlermeldung]]. 

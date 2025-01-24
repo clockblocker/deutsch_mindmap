@@ -3,6 +3,9 @@
 haben [[geboten]]
 
 ---
+Dieses Hotel [[bietet]] [[ebenfalls]] einen Blick aufs Meer.
+
+Das neue Museum [[bietet]] einen [[Überblick]] über moderne Kunst.
 
 ---
 [[anbieten]] - [[an]] = [[bieten]] // to offer

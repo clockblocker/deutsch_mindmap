@@ -31,4 +31,4 @@ Morpheme:
 
 ---
 
-, [[sterben]], [[bald]], [[CONNECTOR]], [[dadurch]], [[somit]], [[hierfür]]
+, [[sterben]], [[bald]], [[CONNECTOR]], [[dadurch]], [[somit]], [[hierfür]], [[Anki]]

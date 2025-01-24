@@ -14,3 +14,4 @@ enough, sufficient
 
 ---
 #Adverb #Adjektiv
+, [[s1 e1]]

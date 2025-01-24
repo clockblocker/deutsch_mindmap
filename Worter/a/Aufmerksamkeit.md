@@ -1,1 +1,1 @@
-, [[aufmerksam]]
+, [[aufmerksam]], [[zuhören]]

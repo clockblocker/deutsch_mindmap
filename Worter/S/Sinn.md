@@ -3,7 +3,9 @@ die [[Sinne]]
 
 
 ---
-*Trag' ich den kleinen Prinz im Sinn*  
+Dein Argument macht keinen [[Sinn]].
+
+*Trag' ich den kleinen Prinz im [[Sinn]]*  
 *Ein König ohne Königin*
 
 Kämpf um den [[Sinn]]
@@ -24,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sinnes]], [[Sinne]], [[Sinnen]], [[Sinnen]]
 
 ---
-#Substantiv #Maskulin, [[Unsinn]], [[Schwachsinn]], [[ersinnlich]], [[Deutung]], [[Inhalt]]
+#Substantiv #Maskulin, [[Unsinn]], [[Schwachsinn]], [[ersinnlich]], [[Deutung]], [[Inhalt]], [[Anki]]

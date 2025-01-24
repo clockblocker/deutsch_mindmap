@@ -27,4 +27,4 @@ D: dem [[Widerspruch]], den [[Widersprüchen]]
 [[widersprechen]], [[widersprüchlich]], [[Widersprüchlichkeit]], [[bestreiten]], [[widerlegen]]
 
 [[Einwand]], [[Einspruch]], [[Einwilligung]]
-, [[Einverständnis]], [[Petition]]
+, [[Einverständnis]], [[Petition]], [[Vergleich]]

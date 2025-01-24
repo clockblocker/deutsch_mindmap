@@ -1,1 +1,1 @@
-, [[sogenannt]], [[Bezeichnung]]
+, [[sogenannt]], [[Bezeichnung]], [[sogenannten]]

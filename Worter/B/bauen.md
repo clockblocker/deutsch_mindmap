@@ -43,4 +43,4 @@ Partizip I: [[bauend]], Partizip II: [[gebaut]]
 
 +[[auf]] = [[aufbauen]], 
 
-[[einbauen]], [[umbauen]], [[errichteten]], [[Gebäude]]
+[[einbauen]], [[umbauen]], [[errichteten]], [[Gebäude]], [[s1 e1]]

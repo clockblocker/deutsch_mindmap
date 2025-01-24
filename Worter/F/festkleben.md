@@ -26,4 +26,4 @@ Morpheme: [[fest]][[kleb]][[en]]
 | Sie | [[kleben fest]] | [[klebten fest]] | [[kleben Sie fest]] | [[kleben fest]] | [[klebten fest]] |
 
 Partizip I: [[festklebend]], Partizip II: [[festgeklebt]]
-[[festkleben]] - [[fest]] = [[kleben]]
+[[festkleben]] - [[fest]] = [[kleben]], [[s1 e1]]

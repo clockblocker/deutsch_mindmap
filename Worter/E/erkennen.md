@@ -1,8 +1,8 @@
-🔍 [[erkennen]] + Akk, [ɛʁˈkɛnən]
-[[erkannte]]
-haben [[erkannt]]
+🔍 [[erkennen]] + Akk + [[an]], [ɛʁˈkɛnən], [[erkannte]], haben [[erkannt]]
 
 ---
+Babys [[erkennen]] ihre Mütter [[an]] ihren Stimmen.
+
 SASCHA: [[Erkennst]] du hier irgend jemand?  
 
 Katara sieht den Eisberg genauer an und [[erkennt]] einen Jungen mit leuchtenden Pfeilen auf dem Kopf und den Händen. 
@@ -36,4 +36,4 @@ Partizip I: [[erkennend]], Partizip II: [[erkannt]]
 
 
 [[spüren]], [[bemerken]]
-, [[ausmachen]], [[merken]], [[begreifen]]
+, [[ausmachen]], [[merken]], [[begreifen]], [[Anki]]

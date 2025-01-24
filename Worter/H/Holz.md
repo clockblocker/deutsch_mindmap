@@ -2,6 +2,8 @@
 die [[Hölzer]]
 
 ---
+Wir sitzen an einem Tisch aus [[Holz]].
+
 , [[Hölzchen]]
 
 ---

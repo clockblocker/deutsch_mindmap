@@ -3,9 +3,11 @@ die [[Ergebnisse]]
 
 
 ---
+Die [[Suche]] bleibt ohne [[Ergebnis]].
+
 Das bisher höchste [[Ergebnis]] erzielte ein Gemälde von Claude Monet mit einem Preis von 36,5 Millionen Pfund
 
-Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]. 
+Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]
 
 ---
 Synonyme:
@@ -25,4 +27,4 @@ Einzigartige mögliche Formen: [[Ergebnisses]], [[Ergebnis]], [[Ergebnisse]], [[
 ---
 #Substantiv #Neutrum
 
-, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]], [[Zwischenergebnis]]
+, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]], [[Zwischenergebnis]], [[ergibt]], [[Anki]]

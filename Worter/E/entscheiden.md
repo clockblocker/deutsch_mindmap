@@ -3,6 +3,10 @@
 haben [[entschieden]]
 
 ---
+Er kann sich nicht [[entschieden]], was er essen möchte 
+
+Der Staat [[entscheidet]] [[über]] [[Gesetze]] und [[Steuern]].
+
 Ich habe mich [[für]] dieses Arbeitsangebot [[entschieden]].  
 
 [[Wofür]] hast du dich [[letztendlich]] [[entschieden]]?  

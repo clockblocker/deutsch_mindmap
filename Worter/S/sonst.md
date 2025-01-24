@@ -1,10 +1,10 @@
 🟢 [[sonst]], [zɔnst]
 
 ---
+Maggie isst kein Brot, [[sonst]] wird ihr schlecht.
+
 Habt ihr [[sonst]] noch Fragen?
-
 - Eisenteller nicht mitwaschen. [[Sonst]] Rostflecken.
-
 - Sterben, schlafen und [[sonst nichts]].  
 
 *Miau! Mio! Miau! Mio!*  
@@ -45,4 +45,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen: 
 [[sonst]]
-, [[sonst nichts]], [[s1 e1]], [[Kick]], [[Abenteuer 1]], [[langweilen]], [[klappen]], [[CONNECTOR]]
+, [[sonst nichts]], [[s1 e1]], [[Kick]], [[Abenteuer 1]], [[langweilen]], [[klappen]], [[CONNECTOR]], [[Anki]]

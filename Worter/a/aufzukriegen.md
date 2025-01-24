@@ -29,3 +29,4 @@ Morpheme: [[auf]][[zu]][[krieg]][[en]]
 Partizip I: [[aufzukrigend]], Partizip II: [[aufgekriegt]]
 [[aufzukriegen]] - [[auf]][[zu]] = [[kriegen]]
 
+, [[s1 e1]]

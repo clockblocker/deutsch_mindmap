@@ -32,3 +32,4 @@ Morpheme: [[hinauf]][[kletter]][[n]]
 Partizip I: [[hinaufkletternd]], Partizip II: [[hinaufgeklettert]]
 
 [[hinaufklettern]] - [[hinauf]] = [[klettern]]
+, [[s1 e1]]

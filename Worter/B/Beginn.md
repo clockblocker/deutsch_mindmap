@@ -1,1 +1,1 @@
-, [[Geburt]]
+, [[Geburt]], [[Anfang]]

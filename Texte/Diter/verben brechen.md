@@ -33,7 +33,7 @@ sich
 
 – Die [[Wellen]] brachen sich an dem [[Felsen]]. (Sie prallten dagegen und schlugen zurück.)
 
-– Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Beziehung]] [[gelöst]].)
+– Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Worter/B/Beziehung]] [[gelöst]].)
 
 [[abbrechen]]:  
 – Die Jungen brachen einen Ast von dem Baum ab. (Sie rissen ihn ab.)  

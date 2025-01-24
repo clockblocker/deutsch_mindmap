@@ -42,4 +42,4 @@ Partizip I: [[nennend]], Partizip II: [[genannt]]
 
 
 [[heißen]]
-, [[sogenannt]], [[erwähnen]], [[ernennen]]
+, [[sogenannt]], [[erwähnen]], [[ernennen]], [[sogenannten]]

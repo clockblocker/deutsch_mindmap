@@ -1,1 +1,1 @@
-, [[ausgeruht]]
+, [[ausgeruht]], [[erschöpft]]

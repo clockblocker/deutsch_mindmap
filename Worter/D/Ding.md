@@ -4,4 +4,4 @@ thing
 
 das Ding
 
-die [[Sache]]
+die [[Sache]], [[Bedingung]]

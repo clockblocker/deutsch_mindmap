@@ -20,3 +20,4 @@ Einzigartige mögliche Formen: [[Mitternachtssonne]], [[Mitternachtssonnen]]
 
 ---
 #Substantiv #Neutrum #Komposition
+, [[s1 e1]]

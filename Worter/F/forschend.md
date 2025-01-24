@@ -1,1 +1,1 @@
-, [[neugierig]], [[fordern]]
+, [[neugierig]], [[fordern]], [[Forscher]]

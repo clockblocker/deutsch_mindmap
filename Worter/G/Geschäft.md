@@ -2,6 +2,8 @@ das [[Geschäft]]
 [[Geschäfte]]
 
 ---
+Das [[Geschäft]] schließt heute schon um fünf Uhr.
+
 163. In welchem Jahr [[zerstörten]] die Nationalsozialisten Synagogen und jüdische [[Geschäfte]] in Deutschland? (81%)
 	- [x] 1938
 
@@ -24,4 +26,4 @@ Synonyme:
 ---
 
 #Substantiv
-#Neuter[[handel]], [[Geschäftsleben]]
+#Neuter[[handel]], [[Geschäftsleben]], [[Anki]], [[Zoogeschäft]]

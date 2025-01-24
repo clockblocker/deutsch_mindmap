@@ -26,4 +26,4 @@ G: der [[Anzeige]], der [[Anzeigen]]
 D: der [[Anzeige]], den [[Anzeigen]]  
 
 ---
-[[anzeigen]], [[Anzeiger]], [[anzeigewürdig]], [[Anzeigeerstatter]], [[anzeigepflichtig]]
+[[anzeigen]], [[Anzeiger]], [[anzeigewürdig]], [[Anzeigeerstatter]], [[anzeigepflichtig]], [[Bildschirm]]

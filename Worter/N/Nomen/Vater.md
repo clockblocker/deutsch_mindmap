@@ -16,3 +16,4 @@ Translation:
 ---
 
 #Substantiv #Masculin 
+, [[s1 e1]]

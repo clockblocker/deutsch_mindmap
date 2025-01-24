@@ -1,3 +1,3 @@
 [[nächste]]
 , [[nah]], [[näherkommen]]
-, [[Nähe]], [[Annäherung]]
+, [[Nähe]], [[Annäherung]], [[s1 e1]]

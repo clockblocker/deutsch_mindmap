@@ -27,3 +27,4 @@ Morpheme: [[ran]][[geh]][[en]]
 
 Partizip I: [[rangehend]], Partizip II: [[rangegangen]]
 [[rangehen]] - [[ran]] = [[gehen]]
+, [[s1 e1]]

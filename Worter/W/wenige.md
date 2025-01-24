@@ -8,7 +8,7 @@ Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[eins
 
 
 ---
-Synonyme: [[geringe]], [[begrenzt]], [[kaum]], [[minimal]]
+Synonyme: [[gering]], [[begrenzt]], [[kaum]], [[minimal]]
 Antonyme: [[viele]], [[zahlreich]], [[unzählig]], [[massenhaft]]
 
 ---
@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 
 ---
 [[jeden]], [[zahlreiche]]
-, [[begrenzen]]
+, [[begrenzen]], [[mehrere]]

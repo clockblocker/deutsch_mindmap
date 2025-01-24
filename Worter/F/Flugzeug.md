@@ -24,4 +24,4 @@ Genitive: des [[Flugzeuges]], der [[Flugzeuge]]
 Dative: dem [[Flugzeug]], den [[Flugzeugen]] 
 
 ---
-[[fliegen]], [[Flughafen]], [[Flugzeugträger]], [[Flugzeugführer]], [[Flugzeugtriebwerk]]
+[[fliegen]], [[Flughafen]], [[Flugzeugträger]], [[Flugzeugführer]], [[Flugzeugtriebwerk]], [[Boot]]

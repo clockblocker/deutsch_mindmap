@@ -1,1 +1,1 @@
-[[jeden]], [[Jeder]]
+[[jeden]], [[Jeder]], [[jeweils]]

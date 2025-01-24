@@ -14,7 +14,7 @@ Antonyme: [[kaufen]], [[behalten]], [[aufbewahren]]
 Übersetzung: to sell
 
 ---
-Morpheme: [[ver]][[kauf]][[en]]
+Morpheme: [[ver]][[Kauf]][[en]]
  #Verb  #Trennbar
  
 ---

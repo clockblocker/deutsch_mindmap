@@ -1,1 +1,1 @@
-, [[entlehnen]]
+, [[entlehnen]], [[gewöhnen]]

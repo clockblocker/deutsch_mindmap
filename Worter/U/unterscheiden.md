@@ -1,7 +1,9 @@
-[[vermischen]], [[gleichen]], [[erkennen]], [[mitteln]]
 🔍 [[unterscheiden]], [ˈʊntɐʃaɪ̯dn̩] | [[unterschied]], haben [[unterschieden]]
 
 ---
+Er kann links und rechts nicht [[unterscheiden]].
+
+[[Unterschied]]
 
 ---
 = [[differenzieren]], [[auseinanderhalten]], [[trennen]]
@@ -28,3 +30,5 @@ PI: [[unterscheidend]], PII: [[unterschieden]], Zu+inf: [[zu unterscheiden]]
 
 ---
 [[Unterscheidung]], [[unterschiedlich]], [[Unterschied]], [[unterscheidbar]], [[unterschiedslos]], [[verschieden]]
+
+[[vermischen]], [[gleichen]], [[erkennen]], [[mitteln]]

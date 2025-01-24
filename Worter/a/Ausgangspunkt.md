@@ -1,1 +1,1 @@
-, [[Grundlage]], [[Basiswert]]
+, [[Grundlage]], [[Basiswert]], [[Anfang]]

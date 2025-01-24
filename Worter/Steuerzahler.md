@@ -13,7 +13,7 @@ ch wende mich an das Finanzamt, weil ich als [[Steuerzahler]] / Steuerzahlerin e
 taxpayer
 
 ---
-[[Steuer]]|[[zahl]]|[[er]]
+[[Steuer]]|[[Zahl]]|[[er]]
 
 ---
 N: der [[Steuerzahler]], die [[Steuerzahler]]  

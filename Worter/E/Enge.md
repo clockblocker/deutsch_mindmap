@@ -2,7 +2,9 @@
 nicht [[weit]]
 
 ---
-Dort ist eine Enge aus Eisschollen, in welche sie hineingezogen werden.
+Dort ist eine [[Enge]] aus [[Eisschollen]], in welche sie hineingezogen werden.
+
+Stefan fährt durch eine [[enge]] Straße.
 
 
 ---

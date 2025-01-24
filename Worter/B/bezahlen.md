@@ -18,7 +18,7 @@ Wir können nicht mal die Rechnungen hier [[bezahlen]] ...
 to pay, to settle
 
 ---
-[[be]]|[[zahl]]|[[en]]
+[[be]]|[[Zahl]]|[[en]]
 
 ---
 ich: [[bezahle]], [[bezahlte]], –, [[bezahle]], [[bezahlte]]

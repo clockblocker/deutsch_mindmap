@@ -29,4 +29,4 @@ Morpheme: [[reg]][[nen]]
 
 Partizip I: [[regnend]], Partizip II: [[geregnet]]
 
-[[regnen]] - [[reg]] = [[nen]], [[manchmal]]
+[[regnen]] - [[reg]] = [[nen]], [[manchmal]], [[Regen]]

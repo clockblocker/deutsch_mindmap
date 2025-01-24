@@ -1,1 +1,1 @@
-, [[Verlust]]
+, [[Verlust]], [[Lohn]]

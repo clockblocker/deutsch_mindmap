@@ -1,1 +1,1 @@
-, [[tadeln]], [[grummeln]], [[pflichten]], [[zögern]], [[nicken]], [[ablehnen]], [[Einwilligung]], [[Einverständnis]]
+, [[tadeln]], [[grummeln]], [[pflichten]], [[zögern]], [[nicken]], [[ablehnen]], [[Einwilligung]], [[Einverständnis]], [[stimmen]]

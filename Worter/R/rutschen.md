@@ -34,3 +34,4 @@ Partizip I: [[rutschend]], Partizip II: [[gerutscht]]
  [[kriechen]], [[gleiten]]
 
 
+, [[s1 e1]]

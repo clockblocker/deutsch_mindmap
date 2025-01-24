@@ -1,4 +1,4 @@
-📎 [[anheften]], [ˈanˌhɛftn̩] | [[heftete an]], haben [[angeheftet]]
+📎 [[anheften]], [ˈanˌhɛftn̩] | [[heftete an]], haben [[angeheftet]] | 🟢 📖 das [[Heft]]
 
 ---
 Um komplexe Verben zu bilden, kombinieren wir zum Beispiel Wörter wie _gehen_ mit Präfixen wie _be-_. Das [[zugrundeliegende]] Wort bildet die Basis; das Präfix wird [[vorne]] [[angefügt]] - lateinisch _praefigere_ 'vorne [[anheften]]' - und [[leitet ab|leitet]] die Basis ab. 
@@ -12,7 +12,7 @@ Um komplexe Verben zu bilden, kombinieren wir zum Beispiel Wörter wie _gehen_�
 to attach, to pin up, to fasten
 
 ---
-[[an]]|[[heft]]|[[en]]
+[[an]]|[[Heft]]|[[en]]
 
 ---
 ich: [[hefte an]], [[heftete an]], –, [[hefte an]], [[heftete an]]

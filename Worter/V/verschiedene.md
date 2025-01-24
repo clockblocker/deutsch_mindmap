@@ -2,6 +2,10 @@
 nicht [[gleich]], nicht [[einheitlich]]
 
 ---
+Fleisch [[enthält]] [[verschiedene]] Proteine.
+
+Innerhalb Deutschlands gibt es [[verschiedene]] Regionen.
+
 Es gibt [[verschiedene]] [[Arten]] von Tieren.
 
 ... wie zwei ganz [[verschiedene]] Leute!  
@@ -30,4 +34,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[verschiedene]], [[verschiedener]], [[verschiedenes]], [[verschiedenen]], [[verschiedenem]]
 [[verschiedenere]], [[verschiedenerer]], [[verschiedeneres]], [[verschiedeneren]], [[verschiedenerem]]
-[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]], [[verschieden]]
+[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]], [[verschieden]], [[mehrere]], [[Anki]]

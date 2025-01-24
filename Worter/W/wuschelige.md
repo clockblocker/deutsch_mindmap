@@ -1,1 +1,1 @@
-🧸 [[wuscheln]] | 😊 [[wuschelig]], [[Schnodder]]
+🧸 [[wuscheln]] | 😊 [[wuschelig]], [[Schnodder]], [[s1 e1]]

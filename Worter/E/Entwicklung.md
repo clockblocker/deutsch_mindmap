@@ -2,6 +2,8 @@
 die [[Entwicklungen]]
 
 ---
+Der Film zeigt die [[Entwicklung]] eines Menschen von der Geburt bis zum Tod.
+ 
  der [[Entwicklung]] der Demokratie
 
 
@@ -23,4 +25,4 @@ G: der [[Entwicklung]], der [[Entwicklungen]]
 D: der [[Entwicklung]], den [[Entwicklungen]]  
 
 ---
-[[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]]
+[[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Anki]]

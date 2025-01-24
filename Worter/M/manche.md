@@ -1,6 +1,9 @@
 🔵 [[manche]], [ˈmançə]
 
 ---
+[[Manche]] Menschen mögen keinen Kaffee.
+
+
 *In der Tiefe ist es einsam*  
 *Und so [[manche]] Zähre fließt*  
 *Und so kommt es, dass das Wasser*  
@@ -33,3 +36,4 @@ Einzigartige mögliche Formen:
 [[manche]], [[mancher]], [[manche]], [[manches]], [[manchen]], [[manchem]], [[mancher]], [[manchen]]
 
 [[Indefinitpronomen]], [[jeden]], [[alle]]
+, [[mehrere]], [[gewiss]]

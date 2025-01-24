@@ -25,4 +25,4 @@ The word is composed of two parts:
 - [[Rück]]: back, rear
 - [[Seite]]: side
 
-This noun describes the opposite side or back of something, typically referring to the side that is not the front or primary view., [[Rückwand]], [[Nachteile]]
+This noun describes the opposite side or back of something, typically referring to the side that is not the front or primary view., [[Rückwand]], [[Nachteile]], [[s1 e1]]

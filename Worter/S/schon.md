@@ -27,4 +27,4 @@ already, yet, still
 Morpheme:
 [[schon]]
 
----, [[Meldung]]
+---, [[Meldung]], [[s1 e1]]

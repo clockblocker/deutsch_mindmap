@@ -22,4 +22,4 @@ G: der [[Gleichheit]], der [[Gleichheiten]]
 D: der [[Gleichheit]], den [[Gleichheiten]]  
 
 ---
-[[gleich]], [[gleichmäßig]], [[gleichberechtigt]], [[gleichstellen]], [[angleichen]]
+[[gleich]], [[gleichmäßig]], [[gleichberechtigt]], [[gleichstellen]], [[angleichen]], [[Unterschied]]

@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 [[schön]], [[schöner]], [[schöne]], [[schönes]], [[schönen]], [[schönem]], [[schöner]], [[schönen]]
 [[schöner]], [[schönerer]], [[schönere]], [[schöneres]], [[schöneren]], [[schönerem]], [[schönerer]], [[schöneren]]
 [[schönsten]], [[schönster]], [[schönste]], [[schönstes]], [[schönsten]], [[schönstem]], [[schönster]], [[schönsten]]
-, [[Schönheit]], [[schrecklich]]
+, [[Schönheit]], [[schrecklich]], [[s1 e1]]

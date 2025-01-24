@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Wetterleuchten]], [[Wetterleuchten]], [[Wetterleuchten]], [[Wetterleuchten]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[s1 e1]]

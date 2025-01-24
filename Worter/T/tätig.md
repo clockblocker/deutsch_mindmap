@@ -2,7 +2,7 @@ tätig, [ˈtɛːtɪç]
 nicht [[untätig]]
 
 ---
-
+[[Erwerbstätige]]
 
 ---
 Synonyme: [[aktiv]], [[beschäftigt]], [[fleißig]], [[arbeitend]], [[engagiert]]
@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 [[tätig]], [[tätiger]], [[tätige]], [[tätiges]], [[tätigen]], [[tätigem]], [[tätiger]], [[tätigen]]
 [[tätiger]], [[tätigerer]], [[tätigere]], [[tätigeres]], [[tätigeren]], [[tätigerem]], [[tätigerer]], [[tätigeren]]
 [[tätigsten]], [[tätigster]], [[tätigste]], [[tätigstes]], [[tätigsten]], [[tätigstem]], [[tätigster]], [[tätigsten]]
-, [[erwerbstätig]]
+, [[erwerbstätig]], [[Erwerbstätige]]

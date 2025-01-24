@@ -4,6 +4,9 @@ die [[Wünsche]]
 ---
 Mutter Birgit seufzt: „Wie sollen wir all diese [[Wünsche]] unter einen Hut bringen?“ 
 
+Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfungen]].
+
+
 *[[Kaum]] der [[Wunsch]] gesprochen [[ward]],*  
 *als die Türe [[leise]] [[knarrt]]:*  
 *Zu den Mädchen, zu den drein,*  

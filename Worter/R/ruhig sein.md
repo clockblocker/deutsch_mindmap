@@ -1,1 +1,1 @@
-, [[fuchteln]], [[Zischen]], [[toben]], [[quietschen]]
+, [[fuchteln]], [[Zischen]], [[toben]], [[quietschen]], [[schweigen]]

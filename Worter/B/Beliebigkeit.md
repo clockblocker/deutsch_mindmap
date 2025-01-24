@@ -1,1 +1,1 @@
-, [[Richtlinie]], [[Verpflichtung]]
+, [[Richtlinie]], [[Verpflichtung]], [[Bedingung]]

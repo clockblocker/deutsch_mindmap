@@ -28,4 +28,4 @@ Beispiele:
 Grammatikalische Eigenschaften:
 - Fordert Genitiv
 - Keine Deklination
-'''
+''', [[s1 e1]]

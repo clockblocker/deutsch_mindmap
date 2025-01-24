@@ -19,7 +19,7 @@ Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, kann die [[Regie
 3. In Deutschland dürfen Menschen offen etwas gegen die [[Regierung]] sagen, weil … (91%)
 	- [x] hier [[Meinungsfreiheit]] [[gilt]].
 
-4. Was ist ein Beispiel für antisemitisches [[Verhalten]]? (100%)
+4. Was ist ein Beispiel für antisemitisches [[verhalten]]? (100%)
 	- [ ] ein jüdisches [[Fest]] [[besuchen]]
 	- [ ] die israelische [[Regierung]] kritisieren
 	- [x] den Holocaust [[leugnen]]

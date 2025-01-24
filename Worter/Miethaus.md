@@ -24,4 +24,4 @@ G: des [[Miethauses]], der [[Miethäuser]]
 D: dem [[Miethaus]], den [[Miethäusern]] 
 
 ---
-[[mieten]], [[Vermieter]], [[Mieter]], [[Mietvertrag]], [[Mietrecht]]
+[[mieten]], [[Vermieter]], [[Mieter]], [[Mietvertrag]], [[Mietrecht]], [[Haus]]

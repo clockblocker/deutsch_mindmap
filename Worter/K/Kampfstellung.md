@@ -27,4 +27,4 @@ The noun "Kampfstellung" is composed of two parts:
 1. [[Kampf]] (fight, battle)
 2. [[Stellung]] (position, stance)
 
-It describes a specific military positioning or arrangement of troops or equipment during a conflict or potential combat situation.
+It describes a specific military positioning or arrangement of troops or equipment during a conflict or potential combat situation., [[s1 e1]]

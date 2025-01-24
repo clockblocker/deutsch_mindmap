@@ -1,1 +1,1 @@
-🏃 [[aufspringen]] + (auf + Akk), [ˈaʊ̯fˌʃpʁɪŋən]
+🏃 [[aufspringen]] + (auf + Akk), [ˈaʊ̯fˌʃpʁɪŋən], [[s1 e1]]

@@ -1,1 +1,1 @@
-, [[aufsagen]]
+, [[aufsagen]], [[aussprechen]]

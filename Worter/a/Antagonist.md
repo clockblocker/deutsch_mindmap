@@ -1,1 +1,1 @@
-, [[Feind]]
+, [[Feind]], [[Gegnern]]

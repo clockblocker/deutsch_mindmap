@@ -1,1 +1,1 @@
-, [[billig]], [[kostengünstig]]
+, [[billig]], [[kostengünstig]], [[widrig]]

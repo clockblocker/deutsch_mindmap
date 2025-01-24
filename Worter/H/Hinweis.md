@@ -26,3 +26,4 @@ D: der [[Hinweis]], den [[hinweisen]]
 [[hinweisen]], [[hinweisend]], [[hinweisbar]], [[weisen]]
 
 [[Zeichen]], [[Angabe]], [[Anzeige]], [[Benachrichtigung]], [[Vorschein]]
+, [[Beweis]]

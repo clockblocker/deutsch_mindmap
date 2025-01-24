@@ -26,4 +26,4 @@ G: des [[Gebetshauses]], der [[Gebetshäuser]]
 D: dem [[Gebetshaus]], den [[Gebetshäusern]]  
 
 ---
-[[beten]], [[Gebet]], [[Gotteshaus]], [[Andachtsraum]]
+[[beten]], [[Gebet]], [[Gotteshaus]], [[Andachtsraum]], [[Haus]]

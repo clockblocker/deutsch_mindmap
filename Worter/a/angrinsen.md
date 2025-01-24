@@ -26,4 +26,4 @@ Morpheme: [[an]][[grinsen]]
 | Sie | [[grinsen an]] | [[grinsten an]] | [[grinsen Sie an]] | [[grinsen an]] | [[grinsten an]] |
 
 Partizip I: [[angrinsend]], Partizip II: [[angegrinst]]
-[[angrinsen]] - [[an]] = [[grinsen]]
+[[angrinsen]] - [[an]] = [[grinsen]], [[s1 e1]]

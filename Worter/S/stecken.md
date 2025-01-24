@@ -36,4 +36,4 @@ Morpheme: [[steck]][[en]]
 
 Partizip I: [[steckend]], Partizip II: [[gesteckt]]
 
-, [[Bestecken]]
+, [[Bestecken]], [[s1 e1]]

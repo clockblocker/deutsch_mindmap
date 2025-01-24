@@ -7,6 +7,9 @@ Es gibt Leute, die bei eBay einen Koffer für den Urlaub kaufen wollen und nach 
 
 [[Obwohl]] ich viel gearbeitet habe, 
 
+Sie geht alleine nach Hause, [[obwohl]] sie weiß, dass es [[gefährlich]] ist.
+
+
 ---
 
 Synonyme:
@@ -23,4 +26,4 @@ Morpheme: [[ob]][[wohl]]
 
 ---
 #Konjunktion #Nebensatz
-, [[trotz]], [[Conjunctions]], [[CONNECTOR]]
+, [[trotz]], [[Conjunctions]], [[CONNECTOR]], [[Anki]]

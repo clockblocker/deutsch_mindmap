@@ -1,1 +1,1 @@
-, [[Nachfrage]]
+, [[Nachfrage]], [[Bedingung]]

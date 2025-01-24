@@ -1,6 +1,8 @@
 🚶 [[auftreten]] | [[trat auf|trat auf]], haben [[aufgetreten]]
 
 ---
+Weil die Krankheit sehr [[häufig]] [[auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
+ 
  Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
 
 ---

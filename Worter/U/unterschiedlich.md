@@ -1,8 +1,10 @@
-[[unterschiedlich]], [ˈʊntɛɐ̯ʃiːdlɪç]
+[[unterschiedlich]], [ˈʊntɛɐ̯ʃiːdlɪç] | [[Unterschied]]
 nicht [[gleich]]
 
 ---
-Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]. 
+Bei einem [[Streit]] gibt es [[unterschiedliche]] Meinungen.
+
+Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]
 
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
@@ -30,4 +32,4 @@ Plural: [[unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]
 
 [[Unterschiedlichkeit]], [[unterschiedlich]], [[unterschiedlich sein]]
 [[andere]][[anders]], [[verschiedene]], [[gleich]], [[auseinander]], [[solche]], [[dieselbe]]
-, [[einziger]], [[Einheitliche]], [[gleichzeitig]]
+, [[einziger]], [[Einheitliche]], [[gleichzeitig]], [[Unterschied]], [[unterscheiden]], [[ebenso]]

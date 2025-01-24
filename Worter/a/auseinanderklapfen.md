@@ -28,3 +28,4 @@ Morpheme: [[aus]][[einander]][[klapp]][[en]]
 Partizip I: [[auseinanderkappend]], Partizip II: [[auseinandergeklappt]]
 [[auseinanderklapfen]] - [[aus]][[einander]] = [[klapfen]]
 
+, [[s1 e1]]

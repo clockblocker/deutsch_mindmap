@@ -1,1 +1,1 @@
-, [[schicken]], [[Entlassung]]
+, [[schicken]], [[Entlassung]], [[winken]]

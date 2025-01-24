@@ -1,7 +1,8 @@
 🟢 das [[leben]]
 die [[leben]]
 
-Beispiele:
+---
+Toni raucht nicht mehr und [[lebt]] [[dadurch]] [[gesünder]].
 
 - *Keiner weiß wie lang* 
   *Ja, für ein [[leben]] ohne Zwang* 
@@ -60,4 +61,4 @@ Morpheme: [[leb]][[en]]
 
 Partizip I: [[lebend]], Partizip II: [[gelebt]]
 [[leben]] - keine Vorsilbe
-, [[Geschäftsleben]], [[wohnen]], [[erfrieren]], [[verscheiden]], [[Lebensform]], [[Lebensjahr]], [[Lebensversicherung]], [[Grab]]
+, [[Geschäftsleben]], [[wohnen]], [[erfrieren]], [[verscheiden]], [[Lebensform]], [[Lebensjahr]], [[Lebensversicherung]], [[Grab]], [[s1 e1]]

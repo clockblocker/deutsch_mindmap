@@ -1,8 +1,45 @@
-🚶 das [[Verhalten]], [fɛɐ̯ˈhaltən]
-das [[Verhalten]]
+🧘 [[verhalten]] sich wie, [fɛɐ̯ˈhaltən] | [[verhielt]], haben [[verhalten]]
 
 ---
-149. Was ist ein Beispiel für antisemitisches [[Verhalten]]? (100%)
+Du [[verhältst]] dich wie ein Kind.
+
+Wissenschaftlerinnen [[untersuchen]] das [[Verhalten]] von Hunden.
+
+---
+= [[benehmen]], [[aufführen]], [[betragen]]
+≈ [[handeln]], [[agieren]], [[reagieren]], [[fungieren]]
+≠ [[unvernünftig]], [[unbedacht]], [[impulsiv]]
+
+---
+to behave, to act, to conduct oneself
+
+---
+[[ver]]|[[halt]]|[[en]]
+
+---
+ich: [[verhalte]], [[verhielt]], –, [[verhalte]], [[verhielte]]
+du: [[verhältst]], [[verhieltest]], [[verhalte]] | [[verhalte]], [[verhältst]], [[verhieltest]]
+er/sie/es: [[verhält]], [[verhielt]], –, [[verhalte]], [[verhielte]]
+wir: [[verhalten]], [[verhielten]], [[verhalten wir|verhalten]], [[verhalten]], [[verhielten]]
+ihr: [[verhaltet]], [[verhieltet]], [[verhaltet]], [[verhaltet]], [[verhieltet]]
+
+PI: [[verhaltend]], PII: [[verhalten]], Zu+inf: [[zu verhalten]]
+
+---
+[[verhalten]] - [[ver]] = [[halten]] / to behave, to act, to conduct oneself
+
+---
+[[Verhalten]], [[Verhaltensweise]], [[Benehmen]], [[verhaltensmäßig]], [[Verhaltensänderung]]
+
+---
+---
+🚶 das [[verhalten]], [fɛɐ̯ˈhaltən]
+das [[verhalten]]
+
+---
+Wissenschaftlerinnen [[untersuchen]] das [[Verhalten]] von Hunden.
+
+149. Was ist ein Beispiel für antisemitisches [[verhalten]]? (100%)
 	- [ ] ein jüdisches [[Fest]] [[besuchen]]
 	- [ ] die israelische [[Regierung]] kritisieren
 	- [x] den Holocaust [[leugnen]]
@@ -20,10 +57,11 @@ behavior, conduct, manner
 [[ver]][[halt]][[en]]
 
 ---
-N: das [[Verhalten]], die [[Verhalten]]  
-A: das [[Verhalten]], die [[Verhalten]]  
-G: des [[Verhaltens]], der [[Verhalten]]  
-D: dem [[Verhalten]], den [[Verhalten]]  
+N: das [[verhalten]], die [[verhalten]]  
+A: das [[verhalten]], die [[verhalten]]  
+G: des [[Verhaltens]], der [[verhalten]]  
+D: dem [[verhalten]], den [[verhalten]]  
 
 ---
 [[verhalten]], [[Verhaltensmuster]], [[Verhaltensweise]], [[verhaltensneutral]], [[verhaltensnah]]
+

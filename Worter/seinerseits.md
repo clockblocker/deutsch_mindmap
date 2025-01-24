@@ -17,4 +17,3 @@ on his/its part, in turn, likewise
 
 ---
 [[Seite]], [[seinerzeit]], [[seinesgleichen]], [[seineswegs]]
-</ideal_output>

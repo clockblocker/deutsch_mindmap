@@ -1,7 +1,7 @@
 ⚫ [[eben]], [ˈeːbən]
 
 ---
-Ich versuche, ihn [[eben]] auf dem Handy zu erreichen.
+Ich versuche, ihn [[eben]] auf dem Handy zu [[erreichen]].
 
 Das kann man [[eben]] nicht ändern.
 
@@ -31,4 +31,4 @@ Morpheme:
 [[eben]]
 
 ---
-[[Extra 8]], [[ebenfalls]], [[schnallen]], [[Ebene]], [[vorhin]]
+[[Extra 8]], [[ebenfalls]], [[schnallen]], [[Ebene]], [[vorhin]], [[Anki]], [[ebenso]]

@@ -1,24 +1,26 @@
-Singular: die [[Aufnahme]]
-Plural: die [[aufnahmen]]
-
-Beispiele:
+🔴 die [[Aufnahme]], [ˈaʊ̯fˌnaːmə]
+die [[Aufnahmen]]
 
 ---
-Translation:
-recording
+Viele Länder [[gewähren]] die [[Aufnahme]] von [[Flüchtlingen]].
+
 
 ---
-
-#Substantiv
-#Feminine
+= [[Registrierung]], [[Erfassung]], [[Dokumentation]]
+≈ [[Aufzeichnung]], [[Protokoll]], [[Eingang]], [[Empfang]]
+≠ [[Ablehnung]], [[Ausstoßung]], [[Zurückweisung]]
 
 ---
+recording, admission, reception
 
-Alle Formen:
+---
+[[auf]]|[[Nahme]]
 
-| Case        | Singular            | Plural           |
-|-------------|---------------------|------------------|
-| Nominative  | die Aufnahme        | die Aufnahmen    |
-| Accusative  | die Aufnahme        | die Aufnahmen    |
-| Dative      | der Aufnahme        | den Aufnahmen    |
-| Genitive    | der Aufnahme        | der Aufnahmen    |
+---
+N: die [[Aufnahme]], die [[Aufnahmen]]  
+A: die [[Aufnahme]], die [[Aufnahmen]]  
+G: der [[Aufnahme]], der [[Aufnahmen]]  
+D: der [[Aufnahme]], den [[Aufnahmen]]  
+
+---
+[[aufnehmen]], [[aufnehmbar]], [[Aufnahmebedingungen]], [[Aufnahmeverfahren]], [[aufnahmefähig]], [[Anki]]

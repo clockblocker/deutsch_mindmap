@@ -1,6 +1,8 @@
 🔗 [[verbinden]] | [[verband]], haben [[verbunden]]
 
 ---
+Musik [[verbindet]] die Menschen.
+
 Normalerweise [[verbindet]] man das Herz mit Liebe und Romantik. Man kann zum Beispiel sein Herz an jemanden verlieren oder jemandem das Herz brechen. Aber was bedeutet es, wenn einem das Herz in die Hose [[rutscht]]?
 
 Aang ist der Avatar. Er ist die einzige Chance für diese Welt. Ihr habt ihn aus guten Gründen gefunden. Und jetzt ist euer Schicksal mit dem seinen [[verbunden]].
@@ -41,4 +43,4 @@ Zu+infinitive: [[zu verbinden]]
 [[trennen]][[teilen]], [[anschließen]], [[trauen]], [[gesellen]], [[reißen]], [[schneiden]], [[auflösen]], [[telefonieren]], [[lösen]], [[ausschneiden]], [[binden]], [[zusammenschrauben]]
 
 
-, [[knüpfen]], [[Zusammenschluss]]
+, [[knüpfen]], [[Zusammenschluss]], [[Worter/Beziehung]]

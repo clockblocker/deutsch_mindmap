@@ -14,7 +14,7 @@ Synonyme:
 driving test, driver's license exam
 
 ---
-[[Führerschein]][[prüfung]]
+[[Führerschein]][[Prüfung]]
 
 ---
 Case: Singular, Plural  

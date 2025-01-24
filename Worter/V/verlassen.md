@@ -2,6 +2,8 @@
 [[verließ]], [[hat verlassen]]
 
 ---
+In einem Monat werden sie das Land [[verlassen]].
+
 *Ich will dich nie [[verlassen]] (du weinst, du weinst, du weinst, du weinst)*  
 
 Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den [[Fahrstuhl]]
@@ -41,4 +43,4 @@ Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 
 [[verlassen]] - [[ver]] = [[lassen]]
 
-[[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]], [[eintreten]], [[Worterparken]], [[verbringen]], [[Deutschland]], [[einziehen]], [[beitreten]], [[einreisen]], [[beziehen]], [[zusteuern]], [[besetzen]], [[beistehen]]
+[[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]], [[eintreten]], [[Worterparken]], [[verbringen]], [[Deutschland]], [[einziehen]], [[beitreten]], [[einreisen]], [[beziehen]], [[zusteuern]], [[besetzen]], [[beistehen]], [[s1 e1]]

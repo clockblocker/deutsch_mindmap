@@ -35,4 +35,4 @@ Morpheme: [[um]][[seh]][[en]]
 Partizip I: [[umsehend]], Partizip II: [[umgesehen]]
 
 [[umsehen]] - [[um]] = [[sehen]]
-'''
+''', [[s1 e1]]

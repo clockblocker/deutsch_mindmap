@@ -1,1 +1,1 @@
-, [[lesen]], [[ledigen]]
+, [[lesen]], [[ledigen]], [[Zelle]]

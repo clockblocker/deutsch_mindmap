@@ -1,1 +1,1 @@
-, [[Schwäche]], [[Versorgung]]
+, [[Schwäche]], [[Versorgung]], [[Armut]]

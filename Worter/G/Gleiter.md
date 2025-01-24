@@ -29,4 +29,4 @@ The entry includes:
 - Translation
 - Word morphology
 - Possible grammatical forms
-- Relevant hashtags
+- Relevant hashtags, [[s1 e1]]

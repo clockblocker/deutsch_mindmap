@@ -3,7 +3,7 @@ denen, [ˈdeːnən]
 ---
 Es gibt Menschen, bei [[denen]] selbst kleine Arbeiten endlos dauern. 
 
----
+Bitte schreibe nur die Sätze, in [[denen]] ich [[Fehler]] gemacht habe.
 
 ---
 Synonyme: [[welchen]], [[diesen]], [[jenen]]

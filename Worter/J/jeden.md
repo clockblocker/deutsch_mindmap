@@ -2,7 +2,7 @@
 nicht [[alle]]
 
 ---
--
+„Auf [[jeden]] Fall“, sagte Petunia mit schwacher Stimme, „gab sie nach. 
 -
 
 ---

@@ -1,1 +1,1 @@
-, [[Worter/Herausforderung]]
+[[Prüfung]].

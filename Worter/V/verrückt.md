@@ -33,4 +33,4 @@ Häufige Ausdrücke:
 - [[verrückt spielen]] (to act crazy)
 - [[verrückt nach]] (crazy about)
 - [[total verrückt]] (totally crazy)
-[[ver]][[rückt]], [[durchgeknallt]], [[irre]]
+[[ver]][[rückt]], [[durchgeknallt]], [[irre]], [[s1 e1]]

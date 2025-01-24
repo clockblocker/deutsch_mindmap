@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Meeres]], [[Meere]], [[Meeren]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neutrum, [[s1 e1]]

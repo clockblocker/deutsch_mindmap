@@ -24,4 +24,4 @@ Tags:
 
 Morphems:
 [[jedo]][[ch]]
-, [[Conjunctions]], [[CONNECTOR]]
+, [[Conjunctions]], [[CONNECTOR]], [[s1 e1]]

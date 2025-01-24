@@ -1,6 +1,8 @@
 🟢 [[zumindest]]
 
 ---
+Ich habe die Prüfung nicht [[bestanden]], aber [[zumindest]] habe ich es versucht.
+
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]]. [[Zumindest]] [[behauptet]] das eine [[Redewendung]].
 
 ---

@@ -2,6 +2,8 @@
 die [[Wirtschaften]]
 
 ---
+Die [[Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
+
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
 	- [ ] um [[wirtschaftlichen]] [[Wettbewerb]] [[anzuregen]]

@@ -32,4 +32,4 @@ Partizip I: [[ausmachend]], Partizip II: [[ausgemacht]]
 
 [[ausmachen]] - [[aus]] = [[machen]]
 
-, [[aufdrehen]], [[anzünden]], [[zünden]], [[vereinbaren]]
+, [[aufdrehen]], [[anzünden]], [[zünden]], [[vereinbaren]], [[ergibt]]

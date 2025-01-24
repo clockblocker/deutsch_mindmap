@@ -12,10 +12,11 @@ Sam, ich hab' super Nachrichten für dich – Kanal 9 [[sucht]] ein R
  [[Such]] mal CNN!  
 
 ---
-[[versuchen]] - [[ver]] = [[suchen]]
+[[versuchen]] - [[ver]] = [[suchen]] / to try, to attempt
 [[aussuchen]] - [[aus]] = [[suchen]]  / to choose, to select
 [[absuchen]] - [[ab]] =  [[suchen]]     / to search thoroughly
 [[durchsuchen]] - [[durch]] = [[suchen]] / to search through, to search thoroughly
+[[untersuchen]] - [[unter]] = [[suchen]] / to examine, to investigate
 
 [[Ordnung]]
 
@@ -46,4 +47,4 @@ Partizip I: [[suchend]], Partizip II: [[gesucht]]
 
 
 +[[aus]] = [[aussuchen]]
-, [[versuchen]], [[durchsuchen]], [[Lehrstellensuche]]
+, [[versuchen]], [[durchsuchen]], [[Lehrstellensuche]], [[untersuchen]]

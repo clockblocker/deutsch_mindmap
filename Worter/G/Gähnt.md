@@ -1,1 +1,1 @@
-😴 [[gähnen]], [[strecken]]
+😴 [[gähnen]], [[strecken]], [[s1 e1]]

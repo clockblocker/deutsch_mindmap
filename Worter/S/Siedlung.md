@@ -33,3 +33,4 @@ Arten von Siedlungen:
 - Moderne Wohnsiedlung
 
 , [[Dorf]], [[südlichen]]
+, [[s1 e1]]

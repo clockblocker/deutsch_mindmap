@@ -1,3 +1,3 @@
 [[ja]]
 
-[[verneinen]]
+[[verneinen]], [[s1 e1]]

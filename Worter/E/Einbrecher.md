@@ -1,20 +1,25 @@
-🔵 der [[Einbrecher]]
+🔵 👥 der [[Einbrecher]], [ˈaɪ̯nbʁɛçɐ]
 die [[Einbrecher]]
 
-Beispiele:
+---
 
-- Ein Einbrecher? Oh, vielleicht ist er sogar noch drin?
 
 ---
-Synonyme:
-- [[Dieb]], [[Krimineller]], [[Langfinger]]
+= [[Dieb]], [[Räuber]], [[Ganove]]
+≈ [[Krimineller]], [[Straftäter]], [[Gauner]], [[Verbrecher]]
+≠ [[Polizist]], [[Wächter]], [[Sicherheitsbeamter]]
 
 ---
-**Übersetzung**: burglar
+burglar, intruder
 
 ---
-Morphems:
-[[ein]][[Brecher]]
+[[Ein]]|[[brech]]|[[er]]
 
 ---
-#Substantiv #Masculin, [[11 08]], [[Räuber]], [[einbrechen]]
+N: der [[Einbrecher]], die [[Einbrecher]]  
+A: den [[Einbrecher]], die [[Einbrecher]]  
+G: des [[Einbrechers]], der [[Einbrecher]]  
+D: dem [[Einbrecher]], den [[Einbrechern]]  
+
+---
+[[einbrechen]], [[Einbruch]], [[Einbruchdiebstahl]], [[Diebeswerk]]

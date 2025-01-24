@@ -3,6 +3,8 @@
 haben [[gefolgt]]
 
 ---
+Deine [[Entscheidung]] wird [[Folgen]] haben.
+
 *Die Buben aber [[folgten]] nicht*  
 *und lachten ihm ins Angesicht*  
 
@@ -16,7 +18,7 @@ haben [[gefolgt]]
 | **Sokka**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Katara, ich... *Er wird von seiner Schwester [[unterbrochen]]*                                                                                                                                                                                                                                                                                                                 |
 
 ---
-[[verfolgen]] - [[ver]] = [[folgen]]
+[[verfolgen]] - [[ver]] = [[folgen]] / Übersetzung: to pursue, to track, to follow
 
 
 ---

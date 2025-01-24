@@ -1,1 +1,1 @@
-, [[Montagsdemonstration]], [[Schweigerecht]], [[Schweige]]
+, [[Montagsdemonstration]], [[Schweigerecht]], [[Schweige]], [[schweigen]]

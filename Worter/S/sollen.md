@@ -29,3 +29,4 @@ Morpheme: [[soll]][[en]]
 
 Partizip I: [[sollend]], Partizip II: [[gesollt]]
 
+, [[s1 e1]]

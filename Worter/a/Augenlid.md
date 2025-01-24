@@ -17,4 +17,4 @@ Morphems:
 [[Augen]][[lid]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[s1 e1]]

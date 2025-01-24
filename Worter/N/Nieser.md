@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Niesers]], [[Niesern]]
 
 Example usage:
 - Ein lauter [[Nieser]] unterbrach die Stille.
-- Er konnte seinen [[Nieser]] nicht zurückhalten.
+- Er konnte seinen [[Nieser]] nicht zurückhalten., [[s1 e1]]

@@ -37,4 +37,4 @@ Plural:
 #Substantiv #Maskulin
 
 Kulturelle Bedeutung:
-Türme sind bedeutende architektonische Strukturen, die in verschiedenen Kontexten wie Verteidigung, Kommunikation, Beobachtung oder als symbolische Bauwerke dienen können., 
+Türme sind bedeutende architektonische Strukturen, die in verschiedenen Kontexten wie Verteidigung, Kommunikation, Beobachtung oder als symbolische Bauwerke dienen können., , [[s1 e1]]

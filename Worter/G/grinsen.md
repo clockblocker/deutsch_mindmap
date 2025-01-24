@@ -33,4 +33,4 @@ Morpheme: [[grin]][[sen]]
 
 Partizip I: [[grinsend]], Partizip II: [[gegrinst]]
 
-, [[angrinsen]]
+, [[angrinsen]], [[s1 e1]]

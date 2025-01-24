@@ -1,0 +1,1 @@
+🌟 [[prächtig]] | 🌟 [[prächtigen]]

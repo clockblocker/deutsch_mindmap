@@ -44,4 +44,4 @@ Tags:
 
 #Adjective
 
-#Positive | #Comparative | #Superlative, [[zügig]]
+#Positive | #Comparative | #Superlative, [[zügig]], [[s1 e1]]

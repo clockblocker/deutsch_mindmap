@@ -26,4 +26,4 @@ Morpheme: [[ver]][[beug]][[en]]
 | Sie | [[verbeugen]] | [[verbeugten]] | [[verbeugen Sie]] | [[verbeugen]] | [[verbeugten]] |
 
 Partizip I: [[verbeugend]], Partizip II: [[verbeugt]]
-[[verbeugen]] - [[ver]] = [[beugen]]
+[[verbeugen]] - [[ver]] = [[beugen]], [[s1 e1]]

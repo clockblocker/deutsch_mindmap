@@ -32,4 +32,4 @@ Partizip I: [[entspringend]], Partizip II: [[entsprongen]]
 Wichtige grammatische Bemerkungen:
 - Verwendet mit Dativ (jmdm. entspringen)
 - Wird meist mit sein in Perfekt/Plusquamperfekt konjugiert
-- Häufig metaphorische Bedeutung von "entstehen" oder "herrühren"
+- Häufig metaphorische Bedeutung von "entstehen" oder "herrühren", [[s1 e1]]

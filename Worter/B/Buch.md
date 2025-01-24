@@ -4,4 +4,4 @@ die [[Bücher]]
 [[Bücherei]]
 
 #Neuter 
-#Substantiv , [[Buchstabe]], [[Märchenbuch]], [[Malbuch]], [[Buchhalter]]
+#Substantiv , [[Buchstabe]], [[Märchenbuch]], [[Malbuch]], [[Buchhalter]], [[Heft]]

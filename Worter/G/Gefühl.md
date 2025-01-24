@@ -4,6 +4,8 @@ die [[Gefühle]]
 ---
 Im DDR-Museum können die Besucher ein Stück DDR-Kultur erleben: Wie ist das [[Gefühl]], wenn die Staatssicherheit die Wohnung abhört?
 
+Er [[verletzt]] Stefans [[Gefühle]].
+
 
 ---
 Synonyme:

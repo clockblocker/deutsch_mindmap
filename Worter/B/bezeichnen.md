@@ -1,6 +1,8 @@
 🏷️ [[bezeichnen]] | [[bezeichnete]], haben [[bezeichnet]]
 
 ---
+Ärzte werden auch als Doktoren [[bezeichnet]].
+
 Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
 
 179. Was nannten die Menschen in Deutschland sehr lange „Die Stunde Null“? (74%)

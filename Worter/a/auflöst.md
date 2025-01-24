@@ -1,1 +1,1 @@
-📃 [[auflösen]] + Akk/Dat, [ˌaʊ̯fˈløːzn̩]
+📃 [[auflösen]] + Akk/Dat, [ˌaʊ̯fˈløːzn̩], [[s1 e1]]

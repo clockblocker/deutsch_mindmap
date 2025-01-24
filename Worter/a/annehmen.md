@@ -1,6 +1,8 @@
 🤝 [[annehmen]] | [[nahm an|nahm an]], haben [[angenommen]]
 
 ---
+Ich [[annehmen|nehme]] an, dass die guten Studenten die Prüfung bestehen.
+
 Da musste Laura nicht lange [[überlegen]]. „Ich möchte dein Angebot [[annehmen]]“, antwortete sie, „denn wenn ich warte, bis ich wieder genug Geld habe, muss auch ich ins Altersheim. Und wie sagt man so schön? Besser den [[Spatz]] in der Hand als die [[Taube]] auf dem [[Dach]].“
 
 

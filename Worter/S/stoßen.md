@@ -34,4 +34,4 @@ Morpheme: [[stoß]][[en]]
 
 Partizip I: [[stoßend]], Partizip II: [[gestoßen]]
 
-[[ziehen]], [[werfen]], [[schieben]], [[Schubst]], [[abstoßen]], [[stupsen]], [[verstoßen]]
+[[ziehen]], [[werfen]], [[schieben]], [[Schubst]], [[abstoßen]], [[stupsen]], [[verstoßen]], [[s1 e1]]

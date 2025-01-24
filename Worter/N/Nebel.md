@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Nebels]], [[Nebel]], [[Nebeln]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[s1 e1]]

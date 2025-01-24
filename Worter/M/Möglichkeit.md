@@ -2,7 +2,8 @@ die [[Möglichkeit]], [ˈmøːklɪçkaɪ̯t]
 die [[Möglichkeiten]]
 
 ---
-
+Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
+  
 
 ---
 Synonyme:
@@ -21,4 +22,4 @@ Einzigartige mögliche Formen: [[Möglichkeit]], [[Möglichkeiten]], [[Möglichk
 
 ---
 #Substantiv #Feminin #Abstrakt #Ableitung
-🤝 🔴 die [[Möglichkeit]]🤔 🔴 die [[Möglichkeit]], [[ermöglichen]]
+🤝 🔴 die [[Möglichkeit]]🤔 🔴 die [[Möglichkeit]], [[ermöglichen]], [[Anki]]

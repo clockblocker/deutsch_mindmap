@@ -24,4 +24,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[beruhigender]], [[beruhigendere]], [[beruhigenderes]], [[beruhigenderes]], [[beruhigenderer]], [[beruhigenderem]], [[beruhigenderer]], [[beruhigendere]]
-[[beruhigendsten]], [[beruhigendster]], [[beruhigendste]], [[beruhigendstes]], [[beruhigendsten]], [[beruhigenddstem]], [[beruhigendster]], [[beruhigendsten]]
+[[beruhigendsten]], [[beruhigendster]], [[beruhigendste]], [[beruhigendstes]], [[beruhigendsten]], [[beruhigenddstem]], [[beruhigendster]], [[beruhigendsten]], [[s1 e1]]

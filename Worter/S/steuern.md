@@ -1,6 +1,8 @@
 🚘 [[steuern]] | 🔴 die [[Steuer]], [ˈʃtɔɪ̯ɐn]
 
 ---
+Der Staat [[entscheidet]] [[über]] [[Gesetze]] und [[Steuern]].
+
 171. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
 	- [ ] [[steuert]] sich allein nach [[Angebot]] und [[Nachfrage]].
 
@@ -31,3 +33,4 @@ PI: [[steuernd]], PII: [[gesteuert]], Zu+inf: [[zusteuern]]
 ---
 [[Steuerung]], [[Steuerrad]], [[Steuermann]], [[Steuergerät]], [[steuerbar]]
 
+, [[Anki]]

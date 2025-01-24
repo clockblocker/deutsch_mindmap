@@ -1,1 +1,1 @@
-, [[gleich]]
+, [[gleich]], [[ebenso]]

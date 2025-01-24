@@ -40,4 +40,4 @@ Morpheme: [[ver]][[dien]][[en]]
 Partizip I: [[verdienend]], Partizip II: [[verdient]]
 
 [[verdienen]] - [[ver]] = [[dienen]]
-''', [[Bundesverdienstkreuz]], [[Verdienstorden]], [[Gehalt]]
+''', [[Bundesverdienstkreuz]], [[Verdienstorden]], [[Gehalt]], [[s1 e1]]

@@ -1,1 +1,1 @@
-[[reden]]
+[[reden]], [[schweigen]]

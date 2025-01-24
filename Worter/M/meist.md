@@ -1,6 +1,8 @@
 [[meist]], [maɪst]
 
 ---
+Am [[meisten]] gefällt mir das rote Kleid.
+
 25. Wahlen in Deutschland gewinnt die Partei, die … (89%)
 	- [x] die [[meisten]] Stimmen bekommt.
 

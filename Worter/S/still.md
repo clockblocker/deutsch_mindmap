@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[still]], [[stiller]], [[stille]], [[stilles]], [[stillen]], [[stillem]], [[stiller]], [[stillen]]
 [[stillsten]], [[stillster]], [[stillste]], [[stillstes]], [[stillsten]], [[stillstem]], [[stillster]], [[stillsten]]
-, [[Flüsternd]]
+, [[Flüsternd]], [[friedlich]]

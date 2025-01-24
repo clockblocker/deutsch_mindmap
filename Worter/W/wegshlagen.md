@@ -38,3 +38,4 @@ Morpheme: [[weg]][[schlag]][[en]]
 Partizip I: [[wegsschlagend]], Partizip II: [[weggeschlagen]]
 
 [[wegschlagen]] - [[weg]] = [[schlagen]]
+, [[s1 e1]]

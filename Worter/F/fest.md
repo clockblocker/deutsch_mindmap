@@ -2,6 +2,8 @@
 nicht [[locker]], nicht [[weich]]
 
 ---
+Das Haus steht auf [[festem]] Boden.
+
 Katara und Sokka halten sich an der Eisscholle [[fest]] und werden mit ihr von einer Welle weggespült.
 
 *Sie müssen sich an Sterne [[krallen]], (ganz [[fest]])*  
@@ -54,7 +56,7 @@ das [[Fest]], [fɛst]
 die [[Feste]]
 
 ---
-149. Was ist ein Beispiel für antisemitisches [[Verhalten]]? (100%)
+149. Was ist ein Beispiel für antisemitisches [[verhalten]]? (100%)
 	- [ ] ein jüdisches [[Fest]] [[besuchen]]
 	- [ ] die israelische [[Regierung]] kritisieren
 	- [x] den Holocaust [[leugnen]]

@@ -26,4 +26,4 @@ Typische Verwendungen:
 Beispiele:
 - "Immerhin hast du es versucht."
 - "Es ist immerhin besser als nichts."
-- "Immerhin geht es ihr wieder besser.", [[Conjunctions]]
+- "Immerhin geht es ihr wieder besser.", [[Conjunctions]], [[s1 e1]]

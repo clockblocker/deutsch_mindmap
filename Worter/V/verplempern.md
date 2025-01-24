@@ -26,4 +26,4 @@ Morpheme: [[ver]][[plempern]]
 | Sie | [[verplempern]] | [[verplemperten]] | [[verplempern Sie]] | [[verplempern]] | [[verplemperten]] |
 
 Partizip I: [[verplemppernd]], Partizip II: [[verplemppert]]
-[[verplempern]] - [[ver]] = [[plempern]]
+[[verplempern]] - [[ver]] = [[plempern]], [[s1 e1]]

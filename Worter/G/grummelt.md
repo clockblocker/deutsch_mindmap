@@ -1,1 +1,1 @@
-😤 [[grummeln]] + (no typical case), [ˈɡʁʊmln̩]
+😤 [[grummeln]] + (no typical case), [ˈɡʁʊmln̩], [[s1 e1]]

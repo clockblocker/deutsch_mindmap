@@ -1,1 +1,1 @@
-, [[angehören]]
+, [[angehören]], [[Verbindung]], [[Worter/Beziehung]], [[Beziehung]]

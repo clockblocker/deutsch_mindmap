@@ -2,8 +2,9 @@ weise, [ˈvaɪ̯zə]
 nicht [[dumm]]
 
 ---
-Doch kein anderes Museum stellt das Leben und Aufwachsen in der DDR auf eine so anschauliche [[Weise]] dar.
+Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]].
 
+Doch kein anderes Museum stellt das Leben und Aufwachsen in der DDR auf eine so [[anschauliche]] [[Weise]] dar.
 
 ---
 Synonyme: [[klug]], [[intelligent]], [[gescheit]], [[verständig]], [[gebildet]]
@@ -53,4 +54,4 @@ Einzigartige mögliche Formen: [[Weisen]], [[Weisen]], [[Weisen]]
 ---
 #Substantiv #Maskulin #Plural
 
-, [[zwangsweise]]
+, [[zwangsweise]], [[beziehungsweise]]

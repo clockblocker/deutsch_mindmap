@@ -29,4 +29,4 @@ Morpheme: [[meld]][[en]]
 
 Partizip I: [[meldend]], Partizip II: [[gemeldet]]
 
-[[melden]] ohne Präfix, [[Fehlermeldung]], [[Meldung]], [[anzeigen]], [[Einwohnermeldeamt]]
+[[melden]] ohne Präfix, [[Fehlermeldung]], [[Meldung]], [[anzeigen]], [[Einwohnermeldeamt]], [[s1 e1]]

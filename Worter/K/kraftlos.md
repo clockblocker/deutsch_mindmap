@@ -1,1 +1,1 @@
-, [[schwach]]
+, [[schwach]], [[Kraft]], [[erschöpft]]

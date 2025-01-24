@@ -1,1 +1,1 @@
-, [[arbeitsunfähig]]
+, [[arbeitsunfähig]], [[Erwerbstätige]]

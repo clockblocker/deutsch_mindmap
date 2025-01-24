@@ -1,5 +1,5 @@
 🔴 die [[Stimme]]
-die [[Stimmen]]
+die [[stimmen]]
 
 Beispiele:
 - Ich  bin die [[Stimme]] aus dem Kissen

@@ -58,4 +58,4 @@ Morpheme:
 
 Partizip I: [[werdend]], Partizip II: [[geworden]]
 
-, [[sollen]]
+, [[sollen]], [[s1 e1]]

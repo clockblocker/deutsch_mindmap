@@ -1,1 +1,1 @@
-, [[fürchten]], [[übernachten]], [[beitreten]], [[gelten]], [[antun]], [[schütten]], [[übertreten]], [[Holzplatte]], [[Rentenberechnung]], [[ausleuchten]], [[Ältestenrat]]
+, [[fürchten]], [[übernachten]], [[beitreten]], [[gelten]], [[antun]], [[schütten]], [[übertreten]], [[Holzplatte]], [[Rentenberechnung]], [[ausleuchten]], [[Ältestenrat]], [[Gartenzaun]], [[betrachten]]

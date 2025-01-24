@@ -3,8 +3,9 @@ die [[Geschwister]]
 
 
 ---
-Mit einem Zischen werden die [[Geschwister]] nach hinten geschleudert. 
+Mit einem [[Zischen]] werden die [[Geschwister]] nach hinten [[geschleudert]]. 
 
+Ich habe [[Geschwister]]: einen Bruder und eine Schwester.
 
 ---
 Synonyme:

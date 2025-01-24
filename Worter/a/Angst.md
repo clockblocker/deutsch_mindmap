@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Angst]], [[Ängste]], [[Angsts]], [[Ängsten]], [[Angstgefühl]], [[Angstzustände]]
 
 ---
-#Substantiv #Feminin, [[ängstlich]]
+#Substantiv #Feminin, [[ängstlich]], [[s1 e1]]

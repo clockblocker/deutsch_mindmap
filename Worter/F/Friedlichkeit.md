@@ -1,1 +1,1 @@
-[[Ruhe]], [[Ruh]]
+[[Ruhe]], [[Ruh]], [[friedlich]], [[Aggression]]

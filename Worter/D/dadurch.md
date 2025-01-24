@@ -2,6 +2,8 @@
 🔗 [[dadurch]], [daˈdʊʁç]
 
 ---
+Toni raucht nicht mehr und lebt [[dadurch]] [[gesünder]].
+
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
 

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Speers]], [[Speer]], [[Speere]], [[Speeren]]
 
 ---
-#Substantiv #Maskulin, [[Lanz]]
+#Substantiv #Maskulin, [[Lanz]], [[s1 e1]]

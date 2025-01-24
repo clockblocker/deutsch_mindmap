@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sonnenscheins]], [[Sonnenscheine]], [[Sonnenscheinen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[Regen]]

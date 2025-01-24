@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Aussprache]], [[Aussprachen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[aussprechen]]

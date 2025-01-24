@@ -1,2 +1,2 @@
 CINDY: Kopf nach [[rechts]] und [[links]] und rechts und noch einmal.  
-, [[Rechtsprechung]], [[rechtsprechend]]
+, [[Rechtsprechung]], [[rechtsprechend]], [[s1 e1]]

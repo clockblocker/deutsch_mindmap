@@ -3,9 +3,7 @@ die [[Währungen]]
 
 ---
 39. Was hat jedes deutsche Bundesland? (82%)
-	- [ ] einen eigenen [[Außenminister]] / eine eigene Außenministerin
 	- [ ] eine eigene [[Währung]]
-	- [ ] eine eigene Armee
 	- [x] eine eigene [[Regierung]]
 
 

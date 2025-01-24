@@ -34,4 +34,4 @@ Morpheme: [[wechsel]][[n]]
 
 Partizip I: [[wechselnd]], Partizip II: [[gewechselt]]
 
-, [[ablösen]], [[um­schlagen]], [[beibehalten]]
+, [[ablösen]], [[um­schlagen]], [[beibehalten]], [[s1 e1]]

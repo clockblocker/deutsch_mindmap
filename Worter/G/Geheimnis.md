@@ -1,9 +1,11 @@
 🟢 das [[Geheimnis]]
 die [[Geheimnisse]]
 
-Beispiele:
+---
 NIC: Sam, psst ... das ist ein [[Geheimnis]]!!  
 MARIA: Keine Sorge, dein Geheimnis ist [[sicher]] bei mir!  
+
+Die Dursleys [[besaßen]] alles, was sie wollten, doch sie hatten auch ein [[Geheimnis]], und dass es jemand [[aufdecken]] könnte, war ihre größte [[Sorge]]
 
 ---
 

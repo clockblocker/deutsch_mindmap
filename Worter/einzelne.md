@@ -23,4 +23,4 @@ G: des [[einzelnen]], der [[einzelnen]]
 D: dem [[einzelnen]], den [[einzelnen]]  
 
 ---
-[[einzeln]], [[Einzelheit]], [[Einzelfall]], [[Einzelgänger]], [[vereinzeln]], [[Meinungsäußerung]]
+[[einzeln]], [[Einzelheit]], [[Einzelfall]], [[Einzelgänger]], [[vereinzeln]], [[Meinungsäußerung]], [[mehrere]]

@@ -1,1 +1,1 @@
-, [[Schulterzucken]]
+, [[Schulterzucken]], [[Kunstinteresse]]

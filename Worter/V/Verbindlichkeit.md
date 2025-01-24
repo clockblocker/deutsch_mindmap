@@ -1,1 +1,1 @@
-, [[verbinden]], [[Verpflichtung]]
+, [[verbinden]], [[Verpflichtung]], [[Verbindung]], [[Beziehung]]

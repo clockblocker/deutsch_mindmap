@@ -1,8 +1,10 @@
-🏋️ [[ausüben]] + Akk, [ˈaʊ̯sˌʔyːbən]
+🏋️ [[ausüben]] + auf + Akk, [ˈaʊ̯sˌʔyːbən]
 [[übte aus|übte aus]]
 haben [[ausgeübt]]
 
 ---
+Die [[Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
+
 Und sie stören die Konzentration auf die Tätigkeit, die wir gerade [[ausüben]]
 
 

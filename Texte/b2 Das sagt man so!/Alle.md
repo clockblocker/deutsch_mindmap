@@ -2,7 +2,7 @@
 - [x] [[Auf Wolke sieben schweben]] 
 - [x] [[Da ist der Wurm drin]] 
 - [x] [[Das Eis brechen]] 
-- [x] [[Das Haar in der Suppe suchen]]
+- [x] [[Das Haar in der Suppe suchen]]x
 - [x] [[Den Faden verlieren]]
 - [x] [[Den Gürtel enger schnallen]]
 - [ ] [[Den Nagel auf den Kopf treffen]]  

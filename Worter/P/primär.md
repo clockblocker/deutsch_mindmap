@@ -1,1 +1,1 @@
-, [[erst]], [[zunächst]], [[hauptsächlich]], [[zugrundeliegende]]
+, [[erst]], [[zunächst]], [[hauptsächlich]], [[zugrundeliegende]], [[zusätzlich]]

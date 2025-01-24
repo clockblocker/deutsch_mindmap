@@ -1,7 +1,10 @@
 🔴 die [[Nachricht]]
 die [[Nachrichten]]
 
-Beispiele:
+---
+Er erwartet eine [[Nachricht]] von seiner Schwester.
+
+Die gute [[Nachricht]] freut ihn sehr.
 
 - ANNA: Hey! Drei [[Nachrichten]] … Oh nein!  
 - ANNA: Nadja, [[schlechte]] [[Nachrichten]]! Sam hat meine Pflanze mit Parfüm besprüht.  
@@ -23,4 +26,4 @@ Synonyme:
 #Substantiv #Feminin
 
 
-[[bericht]], [[Auskunft]], [[Bescheid]], [[Meldung]], [[Benachrichtigung]]
+[[bericht]], [[Auskunft]], [[Bescheid]], [[Meldung]], [[Benachrichtigung]], [[Anki]]

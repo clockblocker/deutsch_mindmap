@@ -1,1 +1,1 @@
-, [[erklären]], [[bezeichnen]], [[prägen]], [[begrenzen]], [[festlegen]], [[bestimmen]], [[kennzeichnen]]
+, [[erklären]], [[bezeichnen]], [[prägen]], [[begrenzen]], [[festlegen]], [[bestimmen]], [[kennzeichnen]], [[beschreiben]]

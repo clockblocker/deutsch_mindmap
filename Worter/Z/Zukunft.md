@@ -2,6 +2,8 @@
 die [[Zukünfte]]
 
 ---
+Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
+
 Aber das sind auch alles Dinge, die ihn glücklich machen. Und auf die soll er in [[Zukunft]] [[verzichten]]?
 
 „Sie sind beide zwei Minuten zu spät. In [[Zukunft]] wird es das nicht mehr geben!“, ruft er. Max und sein Kollege stehen sofort auf. 
@@ -41,4 +43,4 @@ Beispiele:
 Grammatical Usage:
 - Typically used with definite article
 - Can be modified by adjectives
-- Often the object of prepositions and verbs related to planning or anticipation
+- Often the object of prepositions and verbs related to planning or anticipation, [[Anki]]

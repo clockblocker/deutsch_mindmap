@@ -18,4 +18,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Welt]], [[Welt]], [[Welt]], [[Welt]], [[Welt]], [[Welt]], [[Welt]], [[Welten]]
 
 ---
-#Substantiv #Maskulin, [[Weltmeister]], [[Weltreise]], [[Umwelt]], [[Weltkrieg]], [[Arbeitswelt]]
+#Substantiv #Maskulin, [[Weltmeister]], [[Weltreise]], [[Umwelt]], [[Weltkrieg]], [[Arbeitswelt]], [[s1 e1]]

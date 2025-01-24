@@ -1,2 +1,2 @@
 Inf: [[zeigen]]
-, [[Richtung]]
+, [[Richtung]], [[s1 e1]]

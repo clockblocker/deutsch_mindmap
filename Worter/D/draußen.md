@@ -29,4 +29,4 @@ Morpheme:
 Mögliche Formen: [[draußen]]
 
 [[hinaus]]
-, [[außerhalb]], [[manchmal]]
+, [[außerhalb]], [[manchmal]], [[s1 e1]]

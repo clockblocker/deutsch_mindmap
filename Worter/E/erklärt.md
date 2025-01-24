@@ -1,1 +1,1 @@
-, [[erklären]]
+[[erklären]]

@@ -28,4 +28,4 @@ Morpheme: [[ab]][[be]][[komm]][[en]]
 | Sie | [[bekommen ab]] | [[bekamen ab]] | [[bekommen Sie ab]] | [[bekommen ab]] | [[bekämen ab]] |
 
 Partizip I: [[abbekommend]], Partizip II: [[abbekommen]]
-[[abbekommen]] - [[ab]] = [[bekommen]]
+[[abbekommen]] - [[ab]] = [[bekommen]], [[s1 e1]]

@@ -1,17 +1,17 @@
-nicht [[leise]], [[leis]], [[still]], [[Flüsternd]], [[stumm]], [[lauten]], [[Geräusch]]
-🗣️ [[lauten]] | 🗣️ [[laut]]
-🔊 [[laut]], [laʊ̯t]
+🔊 [[laut]], [laʊ̯t] | 🗣️ [[lauten]] | 🗣️ [[laut]]
 
 ---
+[[Laut]] der Zeitung scheint heute die Sonne.
 
 
 ---
 = [[geräuschvoll]], [[lärmend]], [[vernehmbar]]
 ≈ [[deutlich]], [[hörbar]], [[vernehmlich]], [[stark]]
 ≠ [[leise]], [[still]], [[gedämpft]], [[unhörbar]]
+nicht [[leise]], [[leis]], [[still]], [[Flüsternd]], [[stumm]], [[lauten]], [[Geräusch]]
 
 ---
-loud, noisy, audible
+according, loud, noisy, audible
 
 ---
 [[laut]]

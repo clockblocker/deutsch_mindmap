@@ -2,6 +2,8 @@
 die [[Richtungen]]
 
 ---
+In welche [[Richtung]] müssen wir farren?
+
 (Sieht nach oben und [[zeigt]] in die [[Richtung]] aus der das Licht kam) 
 
 43. Wann kann in Deutschland eine Partei verboten werden? (88%)
@@ -35,4 +37,4 @@ Einzigartige mögliche Formen:
 [[Richtung]], [[Richtungern]]
 
 ---
-#Substantiv #Maskulin, [[zusteuern]], [[östlich]]
+#Substantiv #Maskulin, [[zusteuern]], [[östlich]], [[s1 e1]], [[Anki]]

@@ -1,1 +1,36 @@
-[[kontrollieren]][[behandeln]], [[recherchieren]], [[checken]], [[durchchecken]], [[beobachten]], [[absuchen]], [[ermitteln]], [[studieren]], [[durchsuchen]], [[mustern]]
+🔍 [[untersuchen]], [ˈʊntɐˌzuːxn̩] | [[untersuchte]], haben [[untersucht]]
+
+---
+Die [[Untersuchung]] [[ergibt]] keinen [[Beweis]] für seine [[Schuld]]
+
+Wissenschaftlerinnen [[untersuchen]] das [[Verhalten]] von Hunden.
+
+---
+= [[analysieren]], [[erforschen]], [[prüfen]]
+≈ [[recherchieren]], [[studieren]], [[ergründen]], [[evaluieren]]
+≠ [[ignorieren]], [[übersehen]], [[vernachlässigen]]
+
+---
+to examine, to investigate, to research
+
+---
+[[unter]]|[[such]]|[[en]]
+
+---
+ich: [[untersuche]], [[untersuchte]], –, [[untersuche]], [[untersuchte]]
+du: [[untersuchst]], [[untersuchtest]], [[untersuche]] | [[untersuche]], [[untersuchtest]]
+er/sie/es: [[untersucht]], [[untersuchte]], –, [[unterssuche]], [[untersuchte]]
+wir: [[untersuchen]], [[untersuchten]], [[untersuchen wir|untersuchen]], [[untersuchen]], [[untersuchten]]
+ihr: [[untersucht]], [[untersuchtet]], [[untersucht]], [[untersucht]], [[untersuchtet]]
+
+PI: [[untersuchend]], PII: [[untersucht]], Zu+inf: [[zu untersuchend]]
+
+---
+[[untersuchen]] - [[unter]] = [[suchen]] / to examine, to investigate
+
+---
+[[Untersuchung]], [[Untersuchungsausschuss]], [[Untersuchungsbericht]], [[Untersuchungsrichter]], [[untersuchbar]], [[Untersuchende]]
+
+
+[[kontrollieren]], [[behandeln]], [[recherchieren]], [[checken]], [[durchchecken]], [[beobachten]], [[absuchen]], [[ermitteln]], [[studieren]], [[durchsuchen]], [[mustern]], 
+, [[betrachten]]

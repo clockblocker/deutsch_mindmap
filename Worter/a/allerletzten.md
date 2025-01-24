@@ -22,3 +22,4 @@ Einzigartige mögliche Formen:
 [[allerletzteren]], [[allerletzeres]], [[allerletzerem]], [[allerletzeren]]
 [[allerletzten]], [[allerletzte]], [[allerletztes]], [[allerletzter]], [[allerletztem]], [[allerletzen]], [[allerletzener]]
 '''x
+, [[s1 e1]]

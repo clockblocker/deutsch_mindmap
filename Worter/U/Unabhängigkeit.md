@@ -1,1 +1,1 @@
-, [[Bezug]], [[selbständig]], [[Freiheit]], [[Besatzungsmacht]]
+, [[Bezug]], [[selbständig]], [[Freiheit]], [[Besatzungsmacht]], [[Verbindung]], [[Beziehung]], [[Bedingung]], [[Zusammenhang]]

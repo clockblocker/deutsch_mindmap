@@ -30,4 +30,4 @@ Morpheme: [[aus]][[bild]][[en]]
 | Sie | [[bilden aus]] | [[bildeten aus]] | [[bilden Sie aus]] | [[bilden aus]] | [[bildeten aus]] |
 
 Partizip I: [[ausbildend]], Partizip II: [[ausgebildet]]
-[[ausbilden]] - [[aus]] = [[bilden]], [[entwickeln]]
+[[ausbilden]] - [[aus]] = [[bilden]], [[entwickeln]], [[s1 e1]]

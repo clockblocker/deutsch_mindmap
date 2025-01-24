@@ -37,4 +37,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[beide]], [[beider]], [[beiden]], [[beides]], [[Extra 8]]
 
-[[klein]]
+[[klein]], [[s1 e1]]

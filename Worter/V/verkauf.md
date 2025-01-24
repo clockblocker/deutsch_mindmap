@@ -1,1 +1,2 @@
 [[verkaufen]]
+, [[Kauf]]

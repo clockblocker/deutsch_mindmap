@@ -1,6 +1,8 @@
 🤔 [[überhaupt]], [ˌyːbɐˈhaʊ̯pt]
 
 ---
+10. Er versteht Russisch [[überhaupt]] nicht, er ist schon klein.   
+
 Anja mag Hunde [[überhaupt]] nicht.
 
 NIC: Gut - das tut [[überhaupt]] nicht weh, keine Spur…  
@@ -41,4 +43,4 @@ Dieser Adverb [[überhaupt]] wird verwendet, um etwas allgemeingültig oder umfa
 Beispiele:
 - Hast du überhaupt etwas dagegen? (generell)
 - Ich mag Käse überhaupt nicht. (absolut)
-- Wir haben überhaupt keine Zeit mehr. (generell)
+- Wir haben überhaupt keine Zeit mehr. (generell), [[Anki]]

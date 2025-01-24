@@ -8,8 +8,10 @@ die [[Bezüge]]
 	- [ ] Eine Diskussion über die Politik Israels.
 	- [x] Der öffentliche [[Aufruf]] zur [[Vernichtung]] Israels.
 
+[[beziehungsweise]]
+
 ---
-= [[Referenz]], [[Beziehung]], [[Verweis]]
+= [[Referenz]], [[Worter/B/Beziehung]], [[Verweis]]
 ≈ [[Relation]], [[Zusammenhang]], [[Verbindung]]
 ≠ [[Trennung]], [[Losgelöstheit]], [[Unabhängigkeit]]
 

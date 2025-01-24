@@ -1,1 +1,1 @@
-[[Unglück]], [[Not]]
+[[Unglück]], [[Not]], [[Armut]]

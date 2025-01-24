@@ -1,7 +1,8 @@
-, [[erst]]
-🥇 [[zunächst]]
+🥇 [[zunächst]], [[erst]]
 
 ---
+Ich sah den Mann [[zunächst]] nicht, bis er [[winkte]]
+
 Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] freundlich. „Sind Sie ganz sicher, dass Sie alles richtig installiert haben?“, fragt er Uli, „unsere Kunden waren bisher immer [[zufrieden]]. Es hat sich niemand über dieses Modell [[beschwert]].“ 
 
 
@@ -24,4 +25,4 @@ Komparativ: nicht üblich
 Superlativ: nicht üblich
 
 ---
-[[zunächst einmal]], [[bis zunächst]], [[vorerst]], [[CONNECTOR]]
+[[zunächst einmal]], [[bis zunächst]], [[vorerst]], [[CONNECTOR]], [[winken]], [[Anki]]

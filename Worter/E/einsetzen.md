@@ -1,6 +1,8 @@
 🖊️ [[einsetzen]] | [[setzte ein]], haben [[eingesetzt]]
 
 ---
+[[einsetzen|Setzen]] Sie die richtigen Wörter in die Lücken im Satz ein.
+
 Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[einsetzen]]. Und [[darüber]] [[freuen]] sich die [[wenigsten]].
 
 ---
@@ -32,4 +34,4 @@ Zu+infinifive: [[einzusetzen]]
 [[Einsatz]], [[Einsetzen]], [[Einsetzung]], [[Einsatzbereit]], [[Einsatzleiter]], [[Einsatzfahrzeug]]
 
 , [[benutzen]], [[herausnehmen]], [[verwenden]], [[nutzen]], [[stecken]], [[schäftigen]], [[Einsatzes]]
-, [[anwenden]]
+, [[anwenden]], [[einführen]]

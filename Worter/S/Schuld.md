@@ -2,6 +2,8 @@ die [[Schuld]], [ʃʊlt]
 die [[Schulde]]
 
 ---
+Die [[Untersuchung]] [[ergibt]] keinen [[Beweis]] für seine [[Schuld]]
+
 Ist es jetzt noch meine [[Schuld]], ja?!
 [[SCHULDSCHEIN]]
 
@@ -26,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schulde]], [[Schulden]], [[Schuldest]], [[Schuldig]], [[Schuldiger]], [[Schuldigen]], [[Schuldiges]]
 
 ---
-#Substantiv #Femininum, [[s1 e1]], [[verurteilten]]
+#Substantiv #Femininum, [[s1 e1]], [[verurteilten]], [[Anki]]

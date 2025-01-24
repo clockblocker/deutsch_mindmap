@@ -17,4 +17,4 @@ Morpheme:
 
 ---
 #Adverb
-'''
+''', [[s1 e1]]

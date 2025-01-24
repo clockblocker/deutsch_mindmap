@@ -17,7 +17,7 @@ Antonyme: [[verkaufen]], [[zurückgeben]], [[spenden]]
 Übersetzung: to buy, to purchase
 
 ---
-Morpheme: [[kauf]][[en]]
+Morpheme: [[Kauf]][[en]]
  #Verb  #Untrennbar
  
 
@@ -26,7 +26,7 @@ Morpheme: [[kauf]][[en]]
 | Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
 | --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
 | Ich       | [[kaufe]]            | [[kaufte]]            | -                 | [[kaufe]]              | [[kaufte]]              |
-| Du        | [[kaufst]]           | [[kauftest]]          | [[kauf]]          | [[kaufest]]            | [[kauftest]]            |
+| Du        | [[kaufst]]           | [[kauftest]]          | [[Kauf]]          | [[kaufest]]            | [[kauftest]]            |
 | Er/sie/es | [[kauft]]            | [[kaufte]]            | -                 | [[kaufe]]              | [[kaufte]]              |
 | Wir       | [[kaufen]]           | [[kauften]]           | -                 | [[kaufen]]             | [[kauften]]             |
 | Ihr       | [[kauft]]            | [[kauftet]]           | [[kauft]]         | [[kaufet]]             | [[kauftet]]             |

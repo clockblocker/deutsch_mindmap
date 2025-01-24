@@ -39,7 +39,7 @@ Und ich habe sie [[angefleht]], ein bisschen Magie auf mich [[anzuwenden]], dami
 
 Petunia brach ab.
 
-„Auf jeden Fall“, sagte Petunia mit schwacher Stimme, „gab sie nach. Sie erzählte mir, dass es gefährlich wäre, und ich sagte ihr, dass mich das nicht interessierte und nahm diesen Zaubertrank und war wochenlang krank, aber als es mir wieder besser ging, wurde meine Haut rein und mein Körper formte sich und … ich war schön, die Leute waren _nett_ zu mir“, ihre Stimme gab nach, „und danach konnte ich meine Schwester nicht mehr hassen, besonders nachdem ich hörte, was die Magie ihr am Ende angetan hatte …“
+„Auf [[jeden]] [[Fall]]“, sagte Petunia mit schwacher Stimme, „gab sie nach. Sie erzählte mir, dass es gefährlich wäre, und ich sagte ihr, dass mich das nicht interessierte und nahm diesen Zaubertrank und war wochenlang krank, aber als es mir wieder besser ging, wurde meine Haut rein und mein Körper formte sich und … ich war schön, die Leute waren _nett_ zu mir“, ihre Stimme gab nach, „und danach konnte ich meine Schwester nicht mehr hassen, besonders nachdem ich hörte, was die Magie ihr am Ende angetan hatte …“ [[jeden]]
 
 „Liebling“, sagt Michael sanft, „du wurdest krank, hast durch die Bettruhe ein wenig zugenommen und deine Haut wurde von selbst rein. Oder weil du krank warst, hast du dich anders ernährt —“
 

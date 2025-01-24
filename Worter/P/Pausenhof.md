@@ -28,4 +28,4 @@ Komposition:
 
 Kontext:
 - Ein Ort, an dem Schüler während der Pause ihre Freizeit verbringen
-- Typischerweise mit Sitzgelegenheiten, Spielflächen und manchmal Sportanlagen ausgestattet, [[Aufsicht]]
+- Typischerweise mit Sitzgelegenheiten, Spielflächen und manchmal Sportanlagen ausgestattet, [[Aufsicht]], [[Streit]]

@@ -19,4 +19,4 @@ Einzigartige mögliche Formen:
 [[ungeduldig]], [[ungeduldiger]], [[ungeduldige]], [[ungeduldiges]], [[ungeduldigen]], [[ungeduldigem]], [[ungeduldiger]], [[ungeduldigen]]
 [[ungeduldiger]], [[ungeduldiger]], [[ungeduldige]], [[ungeduldigeres]], [[ungeduldigeren]], [[ungeduldigerem]], [[ungeduldigerer]], [[ungeduldigeren]]
 [[ungeduldtigsten]], [[ungeduldtigster]], [[ungeduldtigste]], [[ungeduldtigstes]], [[ungeduldtigsten]], [[ungeduldtigstem]], [[ungeduldtigster]], [[ungeduldtigsten]]
-''', [[gereizt]]
+''', [[gereizt]], [[s1 e1]]

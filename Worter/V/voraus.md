@@ -1,6 +1,8 @@
 🟠 [[voraus]], [foːˈʁaʊ̯s] 
 
 ---
+Wir müssen unseren [[Gegnern]] immer [[einen]] [[Schritt]] [[voraus]] sein.
+
 *Der Mohr [[voraus]] im Sonnenschein,*  
 *die Tintenbuben hinterdrein;*  
 
@@ -22,4 +24,4 @@ Morpheme:
 [[vor]] [[aus]]
 
 ---
-, [[hinterdrein]], [[vorderen]]
+, [[hinterdrein]], [[vorderen]], [[einen Schritt voraus sein]]

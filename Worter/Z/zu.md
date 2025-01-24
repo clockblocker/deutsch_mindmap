@@ -1,1 +1,1 @@
-, [[zugeworfen]], [[zumindest]], [[zukommen]], [[da]], [[zunächst]], [[zufriedenstellen]], [[Zulassungsgrenze]], [[zusteuern]], [[zustürmen]], [[wenden]], [[zugrundeliegende]]
+, [[zugeworfen]], [[zumindest]], [[zukommen]], [[da]], [[zunächst]], [[zufriedenstellen]], [[Zulassungsgrenze]], [[zusteuern]], [[zustürmen]], [[wenden]], [[zugrundeliegende]], [[um-zu]], [[zudem]], [[zusätzlich]], [[zuhören]], [[hören]]

@@ -3,6 +3,8 @@
 haben [[angesprochen]]
 
 ---
+Endlich [[gelingt]] es Mona, sie [[anzusprechen]].
+
 *So [[sprach]] sie ihren Liebsten [[an]]*  
 *Ob er es ihr steigen kann*
 
@@ -31,4 +33,4 @@ Morpheme: [[an]][[sprech]][[en]]
 | Sie | [[sprechen an]] | [[sprachen an]] | [[sprechen Sie an]] | [[sprechen an]] | [[sprächen an]] |
 
 Partizip I: [[ansprechend]], Partizip II: [[angesprochen]]
-[[ansprechen]] - [[an]] = [[sprechen]] // to address, to speak to, to approach, [[Anspruch]], [[Ansprechpartner]]
+[[ansprechen]] - [[an]] = [[sprechen]] // to address, to speak to, to approach, [[Anspruch]], [[Ansprechpartner]], [[umgehen]]

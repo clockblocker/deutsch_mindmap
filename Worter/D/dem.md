@@ -1,1 +1,1 @@
-[[zum]], [[demnächst]], [[nach dem]], [[hinterm]], [[Nachdem]], [[seitdem]], [[trotzdem]]
+[[zum]], [[demnächst]], [[nach dem]], [[hinterm]], [[Nachdem]], [[seitdem]], [[trotzdem]], [[zudem]]

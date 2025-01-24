@@ -3,6 +3,8 @@
 haben [[geschlossen]]
 
 ---
+Der Richter erklärt den Fall für [[geschlossen]].
+
 [[hattest]] du nicht [[daran]] gedacht, es zu [[schließen]], Brigitte?
 
 SEXY VOICE: Ah, komm herein, setz dich hin und [[schließ]] die [[Augen]] …  
@@ -98,4 +100,4 @@ Konjunktiv II:
 - Wenn er den Laden [[schlösse]], wäre es zu spät.
 - Wenn wir das Auto [[schlössen]], wäre es sicherer.
 - Wenn ihr das Buch [[schlösset]], wäre es fertig.
-- Wenn sie die Tür [[schlössen]], wäre es dunkel., [[11 08]], [[einschließen]], [[aufgehen]], [[aufmachen]], [[aufzukriegen]], [[auseinanderklapfen]], [[entschließen]], [[schließlich]], [[gründen]], [[eröffnen]], [[öffnen]]
+- Wenn sie die Tür [[schlössen]], wäre es dunkel., [[11 08]], [[einschließen]], [[aufgehen]], [[aufmachen]], [[aufzukriegen]], [[auseinanderklapfen]], [[entschließen]], [[schließlich]], [[gründen]], [[eröffnen]], [[öffnen]], [[Lücke]], [[s1 e1]]

@@ -2,6 +2,8 @@
 nicht [[privat]]
 
 ---
+Sie ist eine Person des [[öffentlichen]] Lebens.
+
 279. In den meisten [[Mietshäusern]] in Deutschland gibt es eine „[[Hausordnung]]“. Was steht in einer [[solchen]] „Hausordnung“? Sie nennt … (87%)
 	- [ ] Regeln für die Benutzung [[öffentlicher]] [[Verkehrsmittel]].
 

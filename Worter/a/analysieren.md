@@ -1,1 +1,1 @@
-, [[beobachten]]
+, [[beobachten]], [[Vergleich]], [[untersuchen]], [[betrachten]]

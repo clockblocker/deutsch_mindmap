@@ -30,4 +30,4 @@ Morpheme: [[hinein]][[gezogen]]
 Partizip I: [[hineingezogen werdend]], Partizip II: [[hineingezogen]]
 
 [[hineingezogen]] - [[hinein]] [[gezogen]]
-, [[s1 e1]]
+, [[s1 e1]], [[aufnehmen]]

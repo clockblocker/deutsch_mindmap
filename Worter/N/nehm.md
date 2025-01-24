@@ -34,4 +34,4 @@ Morpheme: [[neh]][[m]][[en]]
 Partizip I: [[nehmend]], Partizip II: [[genommen]]
 
 [[nehmen]] - [[neh]] = [[men]]
-, [[zunehmen]], [[abnehmen]], [[ablehnen]], [[Arbeitnehmer]]
+, [[zunehmen]], [[abnehmen]], [[ablehnen]], [[Arbeitnehmer]], [[aufnehmen]]

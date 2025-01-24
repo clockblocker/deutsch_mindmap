@@ -1,2 +1,2 @@
 🔵 der [[Pfeil]]
-, [[zusammenbrechen]]
+, [[zusammenbrechen]], [[s1 e1]]

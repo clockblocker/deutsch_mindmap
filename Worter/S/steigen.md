@@ -44,4 +44,4 @@ Morpheme: [[stei]][[g]][[en]]
 Partizip I: [[steigend]], Partizip II: [[gestiegen]]
 
 [[steigen]] - [[en]] = [[steig]]
-, [[versteigen]], [[steigende]], [[klettern]]
+, [[versteigen]], [[steigende]], [[klettern]], [[s1 e1]]

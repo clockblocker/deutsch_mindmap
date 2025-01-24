@@ -2,8 +2,12 @@
 nicht [[ernst]]
 
 ---
-*das flackert lustig, knistert laut,*  
+Die Kinder lachen, weil der Film so [[lustig]] ist.
+
+*das flackert [[lustig]], [[knistert]] laut,*  
 *grad wie ihr’s auf dem Bilde schaut.*  
+
+6. Sie schreibt einen [[lustigen]] Brief
 
 ---
 Synonyme: [[heiter]], [[witzig]], [[komisch]], [[erheiternd]], [[amüsant]], [[drollig]]

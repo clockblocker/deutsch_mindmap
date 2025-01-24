@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Schneemasse]], [[Schneemassen]], [[Schneemasses
 #Substantiv #Neutral #Komposition
 
 Weitere Erklärung:
-Eine zusammengesetzte Bezeichnung für eine große Menge von Schnee, die sich an einem Ort angesammelt hat. Häufig verwendet in Beschreibungen von Wintersituationen, Gebirgslandschaften oder extremen Wetterbedingungen.
+Eine zusammengesetzte Bezeichnung für eine große Menge von Schnee, die sich an einem Ort angesammelt hat. Häufig verwendet in Beschreibungen von Wintersituationen, Gebirgslandschaften oder extremen Wetterbedingungen., [[s1 e1]]

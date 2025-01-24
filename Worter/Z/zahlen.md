@@ -1,66 +1,33 @@
-💵 [[zahlen]]  
-[[zahlte]]  
-haben [[gezahlt]]
+🔢 [[zahlen]], [ˈtsaːlən] | [[zahlte]], haben [[gezahlt]] | [[Zahl]]
 
 ---
+[[Seitenzahlen]], [[Steuerzahler]]
 
 ---
 [[bezahlen]] - [[be]] = [[zahlen]] / to pay, to settle
 
 ---
-
-**Synonyme:**
-
-- [[bezahlen]], [[begleichen]], [[entrichten]]
-
----
-
-**Beispiele:**
-
-- Ich [[zahle]] die Rechnung.
-- Du [[zahlst]] den Einkauf.
-- Er [[zahlt]] die Miete.
-- Es [[zahlt]] den Betrag.
-- Sie [[zahlt]] für das Essen.
-- Wir [[zahlen]] die Gebühren.
-- Ihr [[zahlt]] die Tickets.
-- Sie [[zahlen]] die Steuern.
+= [[bezahlen]], [[entrichten]], [[überweisen]],  [[ausgeben]], 
+≈ [[begleichen]], [[tilgen]], [[berappen]], [[Geldstrafe]]
+≠ [[schuldig bleiben]], [[verweigern]], [[umsonst]], [[Gehaltszahlungen]]
 
 ---
-
-**Übersetzung**:
-to pay
+to pay, to spend money
 
 ---
- #Verb
+[[Zahl]]|[[en]]
 
 ---
+ich: [[zahle]], [[zahlte]], –, [[zahle]], [[zahlte]]
+du: [[zahlst]], [[zahltest]], [[zahle]] | [[Zahl]], [[zahlest]], [[zahltest]]
+er/sie/es: [[zahlt]], [[zahlte]], –, [[zahle]], [[zahlte]]
+wir: [[zahlen]], [[zahlten]], [[zahlen wir|zahlen]], [[zahlen]], [[zahlten]]
+ihr: [[zahlt]], [[zahltet]], [[zahlt]], [[zahltet]], [[zahltet]]
 
-**Präteritum:**
-
-- Ich [[zahlte]] die Rechnung.
-- Du [[zahltest]] den Einkauf.
-- Er [[zahlte]] die Miete.
-- Es [[zahlte]] den Betrag.
-- Sie [[zahlte]] für das Essen.
-- Wir [[zahlten]] die Gebühren.
-- Ihr [[zahltet]] die Tickets.
-- Sie [[zahlten]] die Steuern.
+PI: [[zahlend]], PII: [[gezahlt]], Zu+inf: [[zu zahlen]]
 
 ---
-
-**Imperativ:**
-
-- Ich [[zahle]] die Rechnung.
-- Du [[zahl|zahle]] die Rechnung.
-- Er [[zahle]] die Rechnung.
-- Es [[zahlt]] die Rechnung.
-- Sie [[zahle]] die Rechnung.
-- Wir [[zahlen]] die Rechnung.
-- Ihr [[zahlt]] die Rechnung.
-- Sie [[zahlen]] die Rechnung.
+[[zahlen]] - pure verb / to pay, to spend money
 
 ---
-
-**Morphems of only infinitive:**  
-- [[zahl]][[en]], [[ausgeben]], [[Seitenzahlen]], [[Geldstrafe]], [[Gehaltszahlungen]], [[Steuerzahler]]
+[[Zahlung]], [[Zähler]], [[Zahl]], [[bezahlen]], [[Zahlmeister]], [[zahlbar]], [[Zahlungsaufschub]], [[Anki]]

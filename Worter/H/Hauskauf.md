@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Haus]][[kauf]]
+[[Haus]][[Kauf]]
 
 ---
 Einzigartige mögliche Formen: 

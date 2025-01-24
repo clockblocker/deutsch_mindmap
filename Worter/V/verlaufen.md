@@ -3,7 +3,10 @@
 sein [[verlaufen]]
 
 ---
- Anderswo ist das aber sehr [[erwünscht]]. Ein Abend kann dann schon mal viel entspannter verlaufen.
+ Anderswo ist das aber sehr [[erwünscht]]. Ein Abend kann dann schon mal viel entspannter [[verlaufen]].
+
+Wir haben [[uns]] total [[verlaufen]], aber [[schließlich]] sind wir doch noch ans Ziel gekommen.
+
 
 ---
 Synonyme (reflexiv): [[sich verirren]], [[sich verirren]], [[sich verfehlen]]
@@ -45,4 +48,4 @@ Notes on the entry:
 - Noted multiple meanings
 - Provided conjugation for both uses
 - Included synonyms and antonyms
-- Added pronunciation and grammatical information
+- Added pronunciation and grammatical information, [[Anki]]

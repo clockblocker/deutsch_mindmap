@@ -1,7 +1,9 @@
 🔴 [[völlig]], [ˈfœlɪç], [[voll]]
 
 ---
-Er sieht [[völlig]] erschöpft aus!  
+Du hast [[völlig]] recht.
+
+Er sieht [[völlig]] [[erschöpft]] aus!  
 
 Also schön! Du bist kein Spinner, du bist [[völlig]] durchgeknallt!
 

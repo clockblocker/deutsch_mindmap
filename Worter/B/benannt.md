@@ -1,1 +1,1 @@
-, [[sogenannt]], [[erwähnen]]
+, [[sogenannt]], [[erwähnen]], [[sogenannten]]

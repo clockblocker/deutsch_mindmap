@@ -1,7 +1,7 @@
 🥳 [[entgegenfiebern]] | [[fieberte entgegen]], haben [[entgegengefiebert]]
 
 ---
-Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]. 
+Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]
 
 ---
 Synonyme: [[erwarten]], [[herbeisehnen]], [[sich freuen]], [[gespannt sein]], [[anticipieren]]

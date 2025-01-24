@@ -1,1 +1,1 @@
-, [[dick]], [[schmale]], [[salzig]], [[bullig]]
+, [[dick]], [[schmale]], [[salzig]], [[bullig]], [[Kraft]], [[erschöpft]]

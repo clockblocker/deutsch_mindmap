@@ -1,1 +1,1 @@
-, [[enthüllen]], [[verkleiden]], [[demaskieren]], [[desillusionieren]]
+, [[enthüllen]], [[verkleiden]], [[demaskieren]], [[desillusionieren]], [[aufdecken]]

@@ -27,4 +27,4 @@ Morpheme: [[an]][[guck]][[en]]
 | Sie | [[gucken an]] | [[guckten an]] | [[gucken Sie an]] | [[gucken an]] | [[guckten an]] |
 
 Partizip I: [[anguckend]], Partizip II: [[angeguckt]]
-[[angucken]] - [[an]] = [[gucken]]
+[[angucken]] - [[an]] = [[gucken]], [[s1 e1]]

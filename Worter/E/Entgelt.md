@@ -1,1 +1,1 @@
-, [[Gehalt]]
+, [[Gehalt]], [[Lohn]]

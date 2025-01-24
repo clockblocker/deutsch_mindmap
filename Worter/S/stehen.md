@@ -1,6 +1,9 @@
 🚶 [[stehen]], [ˈʃteːən] | [[stand]], haben [[gestanden]]
 
 ---
+Sein Name [[steht]] [[an]] erster [[Stelle]].
+
+---
 [[entstehen]] - [[ent]] = [[stehen]] / to emerge, to arise, to develop
 [[aufstehen]] - [[auf]] = [[stehen]] / to get up, to rise
 [[gestehen]] - [[ge]] = [[stehen]] / to confess, to admit
@@ -33,3 +36,4 @@ PI: [[stehend]], PII: [[gestanden]], Zu+inf: [[zustehen]]
 [[Stand]], [[ständig]], [[Stelle]], [[standhalten]], [[bestehen]], [[verstehen]]
 
 [[gehen]], [[Sitz]], [[laufen]], [[standhaft]]
+, [[s1 e1]]

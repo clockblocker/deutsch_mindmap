@@ -1,1 +1,1 @@
-, [[krieg]], [[Diskussion]], [[Konflikt]]
+, [[krieg]], [[Diskussion]], [[Konflikt]], [[Streit]]

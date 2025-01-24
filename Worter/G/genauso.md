@@ -1,1 +1,1 @@
-[[sowie]]
+[[sowie]], [[ebenso]]

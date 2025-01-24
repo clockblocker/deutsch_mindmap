@@ -23,4 +23,4 @@ Einzigartige mögliche Formen:
 ---
 #Substantiv #Feminin
 
-Beschreibung: Eine weibliche Nachkommin der zweiten Generation, also die Tochter eines Sohnes oder einer Tochter., [[Enkelsohn]]
+Beschreibung: Eine weibliche Nachkommin der zweiten Generation, also die Tochter eines Sohnes oder einer Tochter., [[Enkelsohn]], [[s1 e1]]

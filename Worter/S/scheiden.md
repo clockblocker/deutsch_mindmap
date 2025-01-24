@@ -9,6 +9,7 @@ haben [[geschieden]]
 [[entscheiden]] - [[ent]] = [[scheiden]] / decide
 [[umentscheiden]] - [[um]] - [[ent]] = [[scheiden]] /  to reconsider, to change one's mind
 [[abscheiden]] - [[ab]] = [[scheiden]] / to separate, to secrete, to isolate
+[[unterscheiden]] - [[unter]] = [[scheiden]] / to distinguish, to differentiate, to tell apart
 
 
 

@@ -21,4 +21,4 @@ G: der [[Linsen]], der [[Linsen]]
 D: den [[Linsen]], den [[Linsen]]  
 
 ---
-[[linsenförmig]], [[Linsensuppe]], [[Linsengericht]], [[Linsenanbau]]
+[[linsenförmig]], [[Linsensuppe]], [[Linsengericht]], [[Linsenanbau]], [[hinüberspähen]]

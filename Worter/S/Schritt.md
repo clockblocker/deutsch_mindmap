@@ -3,6 +3,8 @@ die [[Schritte]]
 
 
 ---
+Wir müssen unseren [[Gegnern]] immer [[einen Schritt voraus sein]].
+
 *Der Kaspar kam mit schnellem [[Schritt]]*  
 *und brachte seine Brezel mit.*  
 
@@ -24,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schrittes]], [[Schritt]], [[Schritte]], [[Schritten]]
 
 ---
-#Substantiv #Maskulin, [[Maßnahme]]
+#Substantiv #Maskulin, [[Maßnahme]], [[einen Schritt voraus sein]]

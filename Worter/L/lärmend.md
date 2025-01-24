@@ -1,1 +1,1 @@
-, [[still]], [[Flüsternd]]
+, [[still]], [[Flüsternd]], [[laut]]

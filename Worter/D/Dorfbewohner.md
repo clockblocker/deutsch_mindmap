@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Dorfbewohners]], [[Dorfbewohnern]]
 Zusätzliche Informationen:
 - Zusammengesetztes Wort aus [[Dorf]] und [[Bewohner]]
 - Bezeichnet eine Person, die in einem Dorf lebt
-- Geschlechtsneutrale Bezeichnung möglich: [[Dorfbewohnerin]] (feminine Form)
+- Geschlechtsneutrale Bezeichnung möglich: [[Dorfbewohnerin]] (feminine Form), [[s1 e1]]

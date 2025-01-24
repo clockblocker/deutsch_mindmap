@@ -26,4 +26,4 @@ Morpheme: [[auf]][[spieß]][[en]]
 | Sie | [[spießen auf]] | [[spießten auf]] | [[spießen Sie auf]] | [[spießen auf]] | [[spießten auf]] |
 
 Partizip I: [[aufspießend]], Partizip II: [[aufgespießt]]
-[[aufspießen]] - [[auf]] = [[spießen]]
+[[aufspießen]] - [[auf]] = [[spießen]], [[s1 e1]]

@@ -22,4 +22,4 @@ Kontextuelle Verwendung:
 Grammatikalische Nuancen:
 - Betont den Minimalwert oder die Grunderwartung
 - Oft in mildernd-optimistischen Kontexten verwendet
-'''
+''', [[s1 e1]]

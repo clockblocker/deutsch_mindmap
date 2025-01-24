@@ -10,3 +10,4 @@ Aber ich glaube [[fest]] [[daran]], Aang kann diese Welt [[retten]].
 
 Und obwohl seine Fähigkeiten erstaunlich sind, muss er noch eine Menge lernen. 
 Aber ich glaube fest daran, Aang kann diese Welt retten.
+, [[s1 e1]]

@@ -2,6 +2,9 @@
 die Strengen
 
 ---
+Diese Schule hat [[strenge]] Regeln.
+﻿﻿
+﻿﻿
 ﻿﻿Der Vater bricht den Trotz seines Sohnes. (Er macht ihn durch [[Strenge]] gehorsam.)
 
 ---

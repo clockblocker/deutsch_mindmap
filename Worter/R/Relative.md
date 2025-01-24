@@ -1,1 +1,1 @@
-, [[Familienmitglied]]
+, [[Familienmitglied]], [[relativ]]

@@ -1,6 +1,9 @@
 🟡 [[Damit]], [daˈmɪt]
 
 ---
+Kannst du bitte kommen, [[damit]] wir schnell gehen können?
+
+
 [[Damit]] hat er die [[Schränke]] [[aufgemacht]]
 
 ANNA: Was meinst du [[Damit]]? Zu viel Werbung …  
@@ -29,4 +32,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen: 
 [[Damit]]
-, [[11 08]], [[aufmachen]], [[CONNECTOR]], [[daß]]
+, [[11 08]], [[aufmachen]], [[CONNECTOR]], [[daß]], [[Anki]]

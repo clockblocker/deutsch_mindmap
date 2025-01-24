@@ -1,1 +1,1 @@
-[[verstehen]], [[erkennen]], [[nehmen]], [[verbuchen]], [[begreifen]]
+[[verstehen]], [[erkennen]], [[nehmen]], [[verbuchen]], [[begreifen]], [[aufnehmen]]

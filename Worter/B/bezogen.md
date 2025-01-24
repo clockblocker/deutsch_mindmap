@@ -1,7 +1,9 @@
 🏷️ [[bezogen]], [bəˈtsoːɡən]
 
 ---
-, [[berufsbezogen]]
+[[berufsbezogen]]
+
+[[beziehungsweise]]
 
 ---
 = [[referenziert]], [[zutreffend]], [[relevant]]
@@ -24,4 +26,4 @@ N: [[bezogenes]], [[bezogeneres]], [[bezogenste]]
 P: [[bezogenen]], [[bezogeneren]], [[bezogensten]]  
 
 ---
-[[beziehen]], [[Bezug]], [[beziehungsweise]], [[Beziehung]]
+[[beziehen]], [[Bezug]], [[beziehungsweise]], [[Worter/B/Beziehung]]

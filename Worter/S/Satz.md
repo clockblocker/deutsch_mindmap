@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Satzes]], [[Satze]], [[Sätze]], [[Sätzen]]
 
 ---
 #Substantiv #Maskulin
-''', [[Absatz]], [[Silbe]], [[Umsatz]], [[Besatz]]
+''', [[Absatz]], [[Silbe]], [[Umsatz]], [[Besatz]], [[zusätzlich]]

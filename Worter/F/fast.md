@@ -31,4 +31,4 @@ Nuancen:
 - Impliziert eine kleine Differenz zum vollständigen Zustand
 '''
 
-This template is tailored for an adverb, highlighting its meaning, usage, and providing context for how "fast" is used in German.
+This template is tailored for an adverb, highlighting its meaning, usage, and providing context for how "fast" is used in German., [[Anki]]

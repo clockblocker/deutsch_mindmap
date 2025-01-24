@@ -27,4 +27,4 @@ Verwendungsbeispiele:
 Verwandte Begriffe:
 - [[schwachsinnig]] (adjective: idiotic, nonsensical)
 - [[Unsinn]] (nonsense)
-- [[Dummheit]] (stupidity)
+- [[Dummheit]] (stupidity), [[s1 e1]]

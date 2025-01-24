@@ -1,3 +1,3 @@
 [[ziehen]]
 [[ziehen]]
-, [[anziehen]], [[einigen]]
+, [[anziehen]], [[einigen]], [[als-zu]], [[Anki]]

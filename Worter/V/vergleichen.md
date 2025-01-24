@@ -3,7 +3,9 @@
 haben [[verglichen]]
 
 ---
+Die Schüler sprechen über den [[Vergleich]] von Männern und Frauen.
 
+Meine Oma [[vergleicht]] immer die Preise, bevor sie ein Produkt kauft.
 
 ---
 Synonyme: [[gegenüberstellen]], [[kontrastieren]], [[abgleichen]], [[eichen]], [[prüfen]]
@@ -22,7 +24,7 @@ Morpheme: [[ver]][[gleich]][[en]]
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
 | --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
 | Ich | [[vergleiche]] | [[verglich]] | - | [[vergleiche]] | [[vergliche]] |
-| Du | [[vergleichst]] | [[verglichst]] | [[vergleich]] | [[vergleichest]] | [[verglichest]] |
+| Du | [[vergleichst]] | [[verglichst]] | [[Vergleich]] | [[vergleichest]] | [[verglichest]] |
 | Er/sie/es | [[vergleicht]] | [[verglich]] | - | [[vergleiche]] | [[vergliche]] |
 | Wir | [[vergleichen]] | [[verglichen]] | - | [[vergleichen]] | [[verglichen]] |
 | Ihr | [[vergleicht]] | [[verglichet]] | [[vergleicht]] | [[vergleichet]] | [[verglichet]] |

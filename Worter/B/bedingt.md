@@ -1,1 +1,1 @@
-[[überhaupt]], [[unbedingt]]
+[[überhaupt]], [[unbedingt]], [[Bedingung]], [[relativ]]

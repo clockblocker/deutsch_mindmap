@@ -1,1 +1,1 @@
-[[Ruhe]], [[Ruh]], [[Angriffsgeschrei]], [[Schweige]], [[Unterhaltung]]
+[[Ruhe]], [[Ruh]], [[Angriffsgeschrei]], [[Schweige]], [[Unterhaltung]], [[Vortrag]]

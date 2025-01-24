@@ -6,6 +6,7 @@ haben [[gedeckt]]
 [[abdecken]] - [[ab]] = [[decken]] / shield, protect
 [[entdecken]] - [[ent]] = [[decken]], / uncover, find
 [[verdecken]] - [[ver]] = [[decken]]  / conceal, hide
+[[aufdecken]] - [[auf]] = [[decken]] / to uncover, to expose, to reveal
 
 ---
 Synonyme: [[bedecken]], [[zudecken]], [[abdecken]], [[verdecken]], [[schützen]]

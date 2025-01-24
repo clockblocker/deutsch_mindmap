@@ -3,6 +3,10 @@
 haben [[entwickelt]]
 
 ---
+Weil die Krankheit sehr [[häufig]] [[auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
+
+Die Forscher [[entwickeln]] ein neues Medikament.
+
 Die [[Begrüßung]] läuft noch ganz gut: Miriam stellt ihn allen vor. Sie scheinen nett zu sein, aber ein längeres Gespräch [[entwickelt]] sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 
 
 ---
@@ -30,4 +34,4 @@ Partizip I: [[entwickelnd]], Partizip II: [[entwickelt]]
 
 
 , [[Aufwachsen]], [[erfinden]]
-, [[erstellen]], [[Entwicklung]], [[ableiten]], [[entwerfen]], [[Entfaltung]]
+, [[erstellen]], [[Entwicklung]], [[ableiten]], [[entwerfen]], [[Entfaltung]], [[Anki]]

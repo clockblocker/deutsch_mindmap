@@ -1,1 +1,1 @@
-, [[Sektor]], [[Drittel]], [[Allgemeine]]
+, [[Sektor]], [[Drittel]], [[Allgemeine]], [[insgesamt]]

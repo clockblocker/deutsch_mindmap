@@ -32,4 +32,4 @@ PI: [[erhebend]], PII: [[erhoben]], Zu+inf: [[zu erheben]]
 [[erheben]] - [[er]] = [[heben]] / to raise, to elevate, to erect
 
 ---
-[[Erhebung]], [[Erhöhung]], [[erheblich]], [[hebend]], [[Hebung]]
+[[Erhebung]], [[Erhöhung]], [[erheblich]], [[hebend]], [[Hebung]], [[aufnehmen]]

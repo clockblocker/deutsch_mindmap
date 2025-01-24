@@ -29,4 +29,4 @@ Typische Verwendung:
 Beispielsätze:
 - Der Lehrer hatte die [[Aufsicht]] über die Schüler.
 - Die [[Aufsicht]] im Schwimmbad ist sehr wichtig.
-- Die [[Aufsichtsbehörde]] kontrolliert die Einhaltung der Vorschriften., [[schlichten]]
+- Die [[Aufsichtsbehörde]] kontrolliert die Einhaltung der Vorschriften., [[schlichten]], [[Streit]]

@@ -1,1 +1,1 @@
-, [[lauten]], [[äußern]]
+, [[lauten]], [[äußern]], [[laut]], [[aussprechen]]

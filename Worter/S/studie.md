@@ -1,1 +1,1 @@
-, [[Farbstudie]]
+, [[Farbstudie]], [[Untersuchung]]

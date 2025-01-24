@@ -25,3 +25,4 @@ Einzigartige mögliche Formen: [[Tors]], [[Tore]], [[Toren]]
 #Substantiv #Maskulin
 
 , [[Schranke]]
+, [[s1 e1]]

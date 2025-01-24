@@ -1,2 +1,2 @@
 and
-, [[weit und breit]]
+, [[weit und breit]], [[beziehungsweise]]

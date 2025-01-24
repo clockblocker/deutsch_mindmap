@@ -7,7 +7,7 @@
 	- [ ] gar nicht, [[Holocaustleugnung]] ist [[erlaubt]]
 	- [x] mit [[Freiheitsstrafe]] bis zu fünf Jahren oder mit [[Geldstrafe]]
 
-149. Was ist ein Beispiel für antisemitisches [[Verhalten]]? (100%)
+149. Was ist ein Beispiel für antisemitisches [[verhalten]]? (100%)
 	- [ ] ein jüdisches [[Fest]] [[besuchen]]
 	- [ ] die israelische [[Regierung]] kritisieren
 	- [x] den Holocaust [[leugnen]]

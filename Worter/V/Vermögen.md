@@ -26,4 +26,4 @@ Dative: dem [[Vermögen]], den [[Vermögen]]
 [[vermögen]], [[vermögend]], [[vermögenslos]], [[Vermögenswert]], [[Vermögenssteuer]]
 
 , [[Geld]], [[erb]]
-, [[zusammenschrumpfen]], [[vermuten]]
+, [[zusammenschrumpfen]], [[vermuten]], [[Kraft]]

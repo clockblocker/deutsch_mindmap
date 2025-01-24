@@ -17,7 +17,7 @@ numerous, many, several
 
 ---
 Morpheme:
-[[zahl]][[reiche]]
+[[Zahl]][[reiche]]
 
 ---
 

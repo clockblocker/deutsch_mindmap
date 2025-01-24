@@ -3,6 +3,8 @@ die [[Suchen]]
 
 
 ---
+Die [[Suche]] bleibt ohne [[Ergebnis]].
+
 Es bedeutet, dass meine [[Suche]] sich langsam dem Ende zuneigt!
 
 
@@ -21,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Suche]], [[Suchen]], [[Suchen]], [[Suchen]]
 
 ---
-#Substantiv #Feminin, [[zuneigen]], [[Lehrstellensuche]]
+#Substantiv #Feminin, [[zuneigen]], [[Lehrstellensuche]], [[s1 e1]], [[Anki]]

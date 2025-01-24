@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 [[bemüht]], [[bemühter]], [[bemühte]], [[bemühtes]], [[bemühten]], [[bemühtem]], [[bemühter]], [[bemühten]]
 [[bemühter]], [[bemühteren]], [[bemühtere]], [[bemühteres]], [[bemühteren]], [[bemühterem]], [[bemühteren]], [[bemühteren]]
 [[bemühtest]], [[bemühter]], [[bemühte]], [[bemühtes]], [[bemühten]], [[bemühtem]], [[bemühter]], [[bemühten]]
-''', [[Bemühung]]
+''', [[Bemühung]], [[s1 e1]]

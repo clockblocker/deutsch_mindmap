@@ -26,4 +26,4 @@ Morpheme: [[vor]][[bei]][[komm]][[en]]
 | Sie | [[kommen vorbei]] | [[kamen vorbei]] | [[kommen Sie vorbei]] | [[kommen vorbei]] | [[kämen vorbei]] |
 
 Partizip I: [[vorbekommend]], Partizip II: [[vorbeigekommen]]
-[[vorbeikommen]] - [[vorbei]] = [[kommen]]
+[[vorbeikommen]] - [[vorbei]] = [[kommen]], [[s1 e1]]

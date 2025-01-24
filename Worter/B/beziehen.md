@@ -34,6 +34,7 @@ PI: [[beziehend]], PII: [[bezogen]], Zu+inf: [[zu beziehen]]
 [[beziehen]] - [[be]] = [[ziehen]] / to occupy, to move in, to draw, to refer to
 
 ---
-[[Bezug]], [[Beziehung]], [[Bezugspunkt]], [[Bezugsquelle]], [[Bezugsrahmen]]
+[[Bezug]], [[Worter/B/Beziehung]], [[Bezugspunkt]], [[Bezugsquelle]], [[Bezugsrahmen]]
 
 , [[erhalten]], [[Bezug]], [[berufsbezogen]], [[bezogen]]
+, [[beziehungsweise]], [[Worter/Beziehung]], [[Beziehung]]

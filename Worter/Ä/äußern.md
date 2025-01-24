@@ -31,4 +31,4 @@ PI: [[äußernd]], PII: [[geäußert]], Zu+inf: [[zu äußern]]
 [[äußern]] - [[äu]] = [[ßer]] / to express, to utter, to voice
 
 ---
-[[Äußerung]], [[äußerlich]], [[außern]], [[Außerung]], [[unäußerlich]], [[verhaften]], [[Meinungsäußerung]]
+[[Äußerung]], [[äußerlich]], [[außern]], [[Außerung]], [[unäußerlich]], [[verhaften]], [[Meinungsäußerung]], [[aussprechen]]

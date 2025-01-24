@@ -1,1 +1,1 @@
-, [[entscheiden]], [[entschlossen]]
+, [[entscheiden]], [[entschlossen]], [[Anki]]

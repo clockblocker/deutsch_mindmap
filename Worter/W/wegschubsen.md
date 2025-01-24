@@ -27,4 +27,4 @@ Morpheme: [[weg]][[schubs]][[en]]
 | Sie | [[schubsen weg]] | [[schubsten weg]] | [[schubsen Sie weg]] | [[schubsen weg]] | [[schubsten weg]] |
 
 Partizip I: [[wegschubsend]], Partizip II: [[weggeschubst]]
-[[wegschubsen]] - [[weg]] = [[schubsen]]
+[[wegschubsen]] - [[weg]] = [[schubsen]], [[s1 e1]]

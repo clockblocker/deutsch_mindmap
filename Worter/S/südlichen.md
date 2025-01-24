@@ -22,4 +22,4 @@ Einzigartige mögliche Formen:
 [[südlichen]], [[südlicheren]], [[südlichere]], [[südlicheres]], [[südlicheren]], [[südlichedem]], [[südlicherer]], [[südlicheren]]
 '''
 
-Note: This is the declined form of "südlich", used when the adjective needs to match gender, case, and number of the noun it's describing. In this case, it appears to be a declined form (likely in the masculine or neuter genitive/dative case).
+Note: This is the declined form of "südlich", used when the adjective needs to match gender, case, and number of the noun it's describing. In this case, it appears to be a declined form (likely in the masculine or neuter genitive/dative case)., [[s1 e1]]

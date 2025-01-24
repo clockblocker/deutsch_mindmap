@@ -27,4 +27,4 @@ Mögliche Formen:
 
 ---
 
-, [[sämtlich]]
+, [[sämtlich]], [[Je]], [[jeweils]]

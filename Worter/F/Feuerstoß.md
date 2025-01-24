@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Feuerstoßes]], [[Feuerstoße]], [[Feuerstöße
 Zusätzliche Informationen:
 - Zusammengesetztes Substantiv aus [[Feuer]] und [[Stoß]]
 - Typischerweise verwendet in technischen, militärischen oder naturwissenschaftlichen Kontexten
-- Beschreibt eine intensive, plötzliche Ausbreitung von Feuer oder Flammen
+- Beschreibt eine intensive, plötzliche Ausbreitung von Feuer oder Flammen, [[s1 e1]]

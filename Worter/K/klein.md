@@ -21,4 +21,4 @@ Einzigartige mögliche Formen:
 [[klein]], [[kleiner]], [[kleine]], [[kleines]], [[kleinen]], [[kleinem]], [[kleiner]], [[kleinen]]
 [[kleiner]], [[kleinerer]], [[kleinere]], [[kleineres]], [[kleineren]], [[kleinerem]], [[kleinerer]], [[kleineren]]
 [[kleinsten]], [[kleinster]], [[kleinste]], [[kleinstes]], [[kleinsten]], [[kleinstem]], [[kleinster]], [[kleinsten]]
-, [[Kleinigkeit]], [[mindest]]
+, [[Kleinigkeit]], [[mindest]], [[s1 e1]], [[prächtig]], [[gering]]

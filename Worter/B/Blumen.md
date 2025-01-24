@@ -1,1 +1,1 @@
-, [[Blume]], [[Blumenwiese]]
+, [[Blume]], [[Blumenwiese]], [[Blum]]

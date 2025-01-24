@@ -1,7 +1,7 @@
-der [[arm]] / die [[Arme]] | #Substantiv #Masculin | arm
+der [[arm]] / die [[Arme]] | #Substantiv #Masculin | arm 
 
 ---
-[[arm]], [[ärmer]], [[am]] [[ärmsten]]
+[[arm]], [[ärmer]], [[am]] [[ärmsten]] | [[Armut]]
 nicht [[reich]]
 
 ---
@@ -44,4 +44,4 @@ Tags:
 Morphems:
 [[arm]]
 
-, [[armer]], [[armen]], [[Unterarm]], [[umarmen]], [[Umarmung]]
+, [[armer]], [[armen]], [[Unterarm]], [[umarmen]], [[Umarmung]], [[Armut]]

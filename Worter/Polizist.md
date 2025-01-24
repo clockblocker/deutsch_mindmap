@@ -23,4 +23,4 @@ G: des [[Polizisten]], der [[Polizisten]]
 D: dem [[Polizisten]], den [[Polizisten]]  
 
 ---
-[[polizeilich]], [[Polizistin]], [[Polizeidienst]], [[Polizeiwache]]
+[[polizeilich]], [[Polizistin]], [[Polizeidienst]], [[Polizeiwache]], [[Einbrecher]]

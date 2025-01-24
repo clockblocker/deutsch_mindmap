@@ -30,3 +30,4 @@ Plural: [[Stäbe]], [[Stäben]]
 ---
 #Substantiv #Maskulin
 
+, [[s1 e1]]

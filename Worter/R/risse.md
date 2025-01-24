@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Risse]], [[Rissen]], [[Riss]], [[Risses]], [[Risse]], [[Rissen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[s1 e1]]

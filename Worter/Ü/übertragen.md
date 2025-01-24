@@ -27,4 +27,4 @@ Morpheme: [[über]][[trag]][[en]]
 
 Partizip I: [[übertragend]], Partizip II: [[übertragen]]
 [[übertragen]] - [[über]] = [[tragen]]
-''', [[funkten]]
+''', [[funkten]], [[s1 e1]]

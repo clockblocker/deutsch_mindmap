@@ -1,10 +1,13 @@
+Wir gehen [[davon]] aus, dass du kommst
+
 ANNA: Vielleicht – aber kein Wort [[Da]][[von]] zu Sascha!
+
 Nein, [[davon]] versteht er sicher nichts.
 
 *und nahm die Flint und auch die Brill*  
 *und schlich [[davon]] ganz leis und still.*
 
-*Er läuft [[davon]] und springt und schreit:*  
+*Er [[läuft]] [[davon]] und springt und schreit:*  
 *»Zu Hilf, ihr Leut, zu Hilf, ihr Leut!
 
 [[davonlaufen]]

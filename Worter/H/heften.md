@@ -1,1 +1,1 @@
-, [[kleben]], [[anheften]]
+, [[kleben]], [[anheften]], [[Heft]]

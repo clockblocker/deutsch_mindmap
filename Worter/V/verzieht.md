@@ -32,4 +32,4 @@ Morpheme: [[ver]][[zieh]][[en]]
 Partizip I: [[verzeihend]], Partizip II: [[verzogen]]
 
 [[verziehen]] - [[ver]] = [[ziehen]]
-'''
+''', [[s1 e1]]

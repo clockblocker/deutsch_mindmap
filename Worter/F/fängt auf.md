@@ -1,1 +1,1 @@
-🕸️ [[auffangen]] + Akk, [ˈaʊ̯fˌfaŋən]
+🕸️ [[auffangen]] + Akk, [ˈaʊ̯fˌfaŋən], [[s1 e1]]

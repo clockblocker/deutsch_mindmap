@@ -1,1 +1,1 @@
-, [[abhängen]]
+, [[abhängen]], [[Bedingung]]

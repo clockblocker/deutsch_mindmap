@@ -43,4 +43,4 @@ Partizip I: [[drehend]], Partizip II: [[gedreht]]
 
 
 , [[aufdrehen]], [[umdrehen]]
-, [[wegdrehen]], [[winden]], [[wälzen]], [[verdrehen]]
+, [[wegdrehen]], [[winden]], [[wälzen]], [[verdrehen]], [[s1 e1]]

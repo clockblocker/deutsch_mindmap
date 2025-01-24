@@ -3,6 +3,8 @@
 haben [[gefühlt]]
 
 ---
+[[Fühle]] den [[Boden]] unter deinen Füßen.
+
 Er [[fühlt]] sich [[wohl]]
 
 *Die Nachbarn haben nichts [[raffen|gerafft]]*  

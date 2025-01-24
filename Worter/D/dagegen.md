@@ -1,4 +1,8 @@
-Ich habe auch gar nichts [[gegen]] den Durst deines Einbrechers, aber ich habe [[etwas]] [[dagegen]]
+Weil die Krankheit sehr [[häufig]] [[auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
+
+ein Eltern sind [[dagegen]], dass ich ein Auto bekomme.
+
+Ich habe auch gar nichts [[gegen]] den [[Durst]] deines [[Einbrechers]], aber ich habe [[etwas]] [[dagegen]]
 
 ---
 Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht. Lena [[dagegen]] [[merkt]] es schnell, denn sie arbeitet [[eng]] mit Bastian zusammen. 
@@ -29,4 +33,22 @@ Tags:
 Morphems:
 [[Da]][[gegen]]
 
-, [[dabei]], [[deshalb]], [[Damit]], [[11 08]], [[ebenfalls]], [[einverstanden]], [[da]], [[CONNECTOR]], [[hierfür]]
+, [[dabei]], [[deshalb]], [[Damit]], [[11 08]], [[ebenfalls]], [[einverstanden]], [[da]], [[CONNECTOR]], [[hierfür]]🚧 [[dagegen]], [daˈɡeːɡn̩]
+
+---
+
+
+---
+= [[im Gegensatz]], [[entgegen]], [[wider]]
+≈ [[andererseits]], [[hingegen]], [[demgegenüber]]
+≠ [[dafür]], [[zustimmend]], [[einverstanden]]
+
+---
+against it, on the contrary, in contrast
+
+---
+[[da]]|[[gegen]]
+
+---
+[[Widerspruch]], [[konträr]], [[entgegengesetzt]], [[Opposition]]
+</ideal_output>, [[Anki]]

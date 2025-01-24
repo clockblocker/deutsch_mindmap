@@ -1,1 +1,1 @@
-, [[Grundlage]]
+, [[Grundlage]], [[Bedingung]]

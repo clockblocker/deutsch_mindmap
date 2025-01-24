@@ -1,1 +1,1 @@
-, [[anhören 1]], [[anhören]]
+, [[anhören 1]], [[anhören]], [[zuhören]], [[hören]]

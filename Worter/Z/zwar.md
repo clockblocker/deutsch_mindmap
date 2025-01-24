@@ -15,4 +15,4 @@ Erst hatte er [[zwar]] keine rechte Lust -, sagte die Mutter und schrubbte die B
 
   
 
-#Adverb, [[riesig]]
+#Adverb, [[riesig]], [[Anki]]

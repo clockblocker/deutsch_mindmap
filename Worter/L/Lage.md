@@ -1,9 +1,11 @@
-
 🏠 die [[Lage]], [ˈlaːɡə], 🏠 die [[Lage]] | 🧘 [[liegen]]
 die [[Lagen]]
 
 ---
 Wer war nicht schon einmal in einer schwierigen [[Lage]]? Gut, wenn man dann nicht alleine ist. 
+
+Wie ist die [[Lage]] nach den Wahlen im Land?
+
 
 ---
 Synonyme:

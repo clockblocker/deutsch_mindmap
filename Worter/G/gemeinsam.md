@@ -4,6 +4,7 @@ nicht [[getrennt]]
 ---
 Sie wurde [[gemeinsam]] von Historikern und ehemaligen DDR-Bürgern zusammengestellt.
 
+Die beiden Firmen [[verfolgen]] ein [[gemeinsames]] Ziel.
 
 10 Während der ersten Hälfte der 1960er-Jahre kooperierte Richter in [[gemeinsamen]] Ausstellungen mit Sigmar Polke, Konrad Lueg und Manfred Kuttner.
 

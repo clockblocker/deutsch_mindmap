@@ -23,4 +23,4 @@ G: der [[Willenskraft]], der [[Willenskräfte]]
 D: der [[Willenskraft]], den [[Willenskräften]]  
 
 ---
-[[willensstark]], [[willenschwach]], [[willentlich]], [[willens]], [[wollen]]
+[[willensstark]], [[willenschwach]], [[willentlich]], [[willens]], [[wollen]], [[Kraft]]

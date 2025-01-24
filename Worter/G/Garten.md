@@ -1,2 +1,2 @@
 der [[Garten]] / die [[Gärten]] | #Substantiv #Masculin | garden
-, [[Gartenzwerg]]
+, [[Gartenzwerg]], [[Gartenzaun]]

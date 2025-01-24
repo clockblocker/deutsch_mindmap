@@ -1,1 +1,1 @@
-, [[widerstehen]], [[beschweren]], [[Einspruch]], [[schreien]], [[reklamieren]], [[klagen]]
+, [[widerstehen]], [[beschweren]], [[Einspruch]], [[schreien]], [[reklamieren]], [[klagen]], [[s1 e1]]

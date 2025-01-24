@@ -3,9 +3,9 @@
 haben [[getroffen]]
 
 ---
-Der Bumeraang [[trifft]] Zuko am Hinterkopf und landet im Schnee
+Manchmal muss man schwierige [[Entscheidungen]] [[treffen]] 
 
-NIC: Wenn unsere Show zu Ende ist, [[treffen]] wir euch in eurer Wohnung!  
+Der Bumeraang [[trifft]] Zuko am Hinterkopf und landet im Schnee
 
 NIC: Muss sie ihn allein [[treffen]]?  
 

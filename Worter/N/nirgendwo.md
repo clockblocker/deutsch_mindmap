@@ -1,7 +1,10 @@
 🚫 [[nirgendwo]], [ˈnɪɐ̯gəntˈvoː]
 
 ---
-Die Deutschen sind Weltmeister! In keinem anderen Land gibt es pro Kopf so viele Museen und nirgendwo werden sie so gut besucht. 
+Die Deutschen sind Weltmeister! In keinem anderen Land gibt es pro Kopf so viele Museen und [[nirgendwo]] werden sie so gut besucht. 
+
+Die Dursleys hatten einen kleinen Sohn namens Dudley und in ihren [[Augen]] gab es [[nirgendwo]] einen [[prächtigeren]] Jungen.
+
 
 ---
 Synonyme: 
@@ -23,4 +26,4 @@ Morpheme:
 ---
 
 [[irgendwo]], [[bald]]
-, [[weit und breit]]
+, [[weit und breit]], [[prächtig]]

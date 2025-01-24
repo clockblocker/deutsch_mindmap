@@ -22,3 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[Versteckspielen]], [[Versteckspielens]], [[Versteckspiele]], [[Versteckspielens]]
 
+, [[s1 e1]]

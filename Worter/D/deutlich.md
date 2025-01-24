@@ -1,14 +1,15 @@
-[[offensichtlich]], [[Deutung]]😌 [[deutlich]] | 🗣️ [[deuten]]
-
-🔬 [[deutlich]], [ˈdɔɪ̯tlɪç]
+🔬 [[deutlich]], [ˈdɔɪ̯tlɪç] |  [[Deutung]]😌 [[deutlich]] | 🗣️ [[deuten]]
 nicht [[undeutlich]]
 
 ---
+Ich kann dich nicht verstehen, bitte sprich [[deutlich]].
+
+
 235. Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem [[Treffen]] [[deutlich]]? (86%)
 	- [x] [[Frieden]] und [[Sicherheit]] in den Ländern der EU
 
 ---
-= [[klar]], [[verständlich]], [[präzise]]
+= [[klar]], [[verständlich]], [[präzise]], [[offensichtlich]]
 ≈ [[erkennbar]], [[offensichtlich]], [[eindeutig]], [[unmissverständlich]]
 ≠ [[undeutlich]], [[unklar]], [[verschwommen]], [[mehrdeutig]]
 
@@ -28,4 +29,4 @@ N: [[deutliches]], [[deutlicheres]], [[deutlichstes]]
 P: [[deutlichen]], [[deutlicheren]], [[deutlichsten]]  
 
 ---
-[[Deutlichkeit]], [[verdeutlichen]], [[Bedeutung]], [[deuten]], [[undeutlich]], [[geheimnisvolle]]
+[[Deutlichkeit]], [[verdeutlichen]], [[Bedeutung]], [[deuten]], [[undeutlich]], [[geheimnisvolle]], [[Anki]], [[laut]]

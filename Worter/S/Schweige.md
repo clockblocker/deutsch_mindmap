@@ -26,4 +26,4 @@ N: [[Schweiges]], [[Schweigeres]], [[Schweigerste]]
 P: [[Schweigen]], [[Schweigereren]], [[Schweigersten]]  
 
 ---
-[[schweigen]], [[Schweigsamkeit]], [[verschweigen]], [[Stillschweigen]], [[schweigsam]]
+[[schweigen]], [[Schweigsamkeit]], [[verschweigen]], [[Stillschweigen]], [[schweigsam]], [[zuhören]]

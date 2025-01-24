@@ -1,6 +1,7 @@
 🏋️ [[fordern]], [ˈfɔʁdɐn] | [[forderte]], haben [[gefordert]]
 
 ---
+Sie [[fordern]] den gleichen [[Lohn]] für alle.
 
 ---
 [[auffordern]] - [[auf]] = [[fordern]] / to request, to call upon, to demand

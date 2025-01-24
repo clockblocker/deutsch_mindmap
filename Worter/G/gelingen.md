@@ -1,6 +1,8 @@
 🌈 [[gelingen]], [ɡəˈlɪŋən] | [[gelang]], sein [[gelungen]]
 
 ---
+Endlich [[gelingt]] es Mona, sie [[anzusprechen]].
+ 
  Nur wenigen [[gelingt]] es, sich von ihrem eigenen [[Schatten]] zu [[lösen]]: Lucky Luke zum Beispiel [[schießt]] schneller als er und Peter Pan sucht ihn. Aber wie [[schafft]] man es, über seinen eigenen [[Schatten]] zu springen?
  
 ---

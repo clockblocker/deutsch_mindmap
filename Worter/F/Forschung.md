@@ -1,1 +1,1 @@
-, [[suche]], [[Rechercheergbenis]]
+, [[suche]], [[Rechercheergbenis]], [[Untersuchung]], [[Forscher]]

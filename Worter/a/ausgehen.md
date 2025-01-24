@@ -3,6 +3,8 @@
 sein [[ausgegangen]]
 
 ---
+Wir [[ausgehen|gehen]] davon aus, dass du kommst.
+ 
  Er [[ausgehen|geht]] mit mir aus! He, Nic, Schätzchen! Du siehst spitze aus!  
 
 52. Was bedeutet „[[Volkssouveränität]]“? Alle Staatsgewalt [[ausgehen|geht]] vom … (85%)

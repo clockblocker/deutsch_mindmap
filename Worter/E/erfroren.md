@@ -25,4 +25,4 @@ Feminine: [[erfrorene]], [[erfrorenere]], [[erfrorenste]]
 Neuter: [[erfrorenes]], [[erfroreneres]], [[erfrorenestes]]  
 Plural: [[erfrorenen]], [[erfroreneren]], [[erfrorensten]]  
 
-[[Erfrierung]], [[erfrierende]], [[Erfrierungsschaden]]
+[[Erfrierung]], [[erfrierende]], [[Erfrierungsschaden]], [[s1 e1]]

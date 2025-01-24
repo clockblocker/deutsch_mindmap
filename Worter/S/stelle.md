@@ -2,6 +2,9 @@
 die [[Stellen]]
 
 ---
+Sein Name [[steht]] [[an]] erster [[Stelle]].
+
+
 277. Eine Frau, die ein zweijähriges Kind hat, [[bewirbt]] sich in Deutschland um eine [[Stelle]]. Was ist ein Beispiel für [[Diskriminierung]]? Sie bekommt die Stelle nur deshalb nicht, weil sie … (95%)
 	- [x] Mutter ist.
 
@@ -25,4 +28,4 @@ G: der [[Stelle]], der [[Stellen]]
 D: der [[Stelle]], den [[Stellen]]  
 
 ---
-[[stellen]], [[stellvertretend]], [[Stellvertretung]], [[Stellenanzeige]], [[stellenweise]], [[stehen]]
+[[stellen]], [[stellvertretend]], [[Stellvertretung]], [[Stellenanzeige]], [[stellenweise]], [[stehen]], [[Anki]]
