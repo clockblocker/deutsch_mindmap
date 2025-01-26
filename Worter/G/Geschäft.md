@@ -4,6 +4,8 @@ das [[Geschäft]]
 ---
 Das [[Geschäft]] schließt heute schon um fünf Uhr.
 
+Man soll ins [[Geschäft]] gehen, viel Essen und viele Getränke kaufen.
+
 163. In welchem Jahr [[zerstörten]] die Nationalsozialisten Synagogen und jüdische [[Geschäfte]] in Deutschland? (81%)
 	- [x] 1938
 

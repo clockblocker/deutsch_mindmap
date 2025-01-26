@@ -4,6 +4,8 @@ nicht [[unfertig]]
 ---
 SAM: Das Essen ist [[Fertig]]! Bitte setzt euch!  
 
+In fünf Minuten ist die Maske [[fertig]].
+
 Es ist bald [[fertig]] – zum Schluss das Eiweiß zur Schokolade
 geben und in den Kühlschrank stellen …  
 

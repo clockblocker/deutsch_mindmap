@@ -1,3 +1,5 @@
+6. Он ничего не говорит своему брату.  
+
 ICH BIN KRANK
 Ich habe wirklich kein Glück, nur Pech. Ich bin krank. Wie schade! Ich soll zu Hause bleiben. Ich liege mi Bett, und ich habe Fieber, Kopfweh und Schnupfen. Wahrscheinlich ist das entweder die Erkältung oder die Grippe.
 Ich gehe nicht in die Uni. Ich soll zum Arzt gehen. Aber Hilfe! Ich habe keine Krait. Ich messe die Temperatur. Wieder 39 Grad. Ich lege das Thermometer auf den Tisch und trinke heißen Tee aus dem Glas. Ich stelle mein Glas auf den Tisch zurück. Mir geht es nicht gut. Die ganze Geschichte gefällt mir nicht. Ich bin allein zu Hause. Mein Vater ist im Büro. Meine Mutter ist in der Schule. Kein Mensch da! Nur meine Katze bleibt bei mir. Sie sitzt bequem auf dem Sessel und schläft. Sie ist glücklich. Sie hat keine Grippe. Sie muss auch nicht lernen.

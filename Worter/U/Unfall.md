@@ -7,7 +7,7 @@ Nein! Aang hat [[überhaupt]] nichts gemacht. Das war ein [[Unfall]]!
 
 ---
 Synonyme:
-- [[Zwischenfall]], [[Vorfall]], [[Ereignis]], [[Geschehen]]
+- [[Zwischenfall]], [[Vorfall]], [[Ereignis]], [[geschehen]]
 
 ---
 Übersetzung: accident

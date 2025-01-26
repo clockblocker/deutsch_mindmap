@@ -1,1 +1,1 @@
-, [[vorbereiten]], [[bereiten]]
+, [[vorbereiten]], [[bereiten]], [[Training]]

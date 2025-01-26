@@ -64,4 +64,4 @@
 - **Genitive**:
   - Das Auto eines Mannes ist rot. (A man's car is red.)
   - Das Haus einer Frau ist groß. (A woman's house is big.)
-  - Das Spielzeug eines Kindes ist neu. (A child's toy is new.)
+  - Das Spielzeug eines Kindes ist neu. (A child's toy is new.), [[Artikel]]

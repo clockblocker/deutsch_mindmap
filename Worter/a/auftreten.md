@@ -34,3 +34,4 @@ Zu+infinitive: [[aufzutreten]]
 [[auftritt]], [[auftreten]], [[Auftretender]], [[Auftretende]], [[Auftrittsort]], [[Bühnenauftritt]], [[Konzertauftritt]]
 
 , [[passieren]], [[erscheinen]], [[auftritt]]
+, [[geschehen]], [[vorkommen]]

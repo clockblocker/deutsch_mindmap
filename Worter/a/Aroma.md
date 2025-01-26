@@ -1,1 +1,1 @@
-, [[Geschmack]]
+, [[Geschmack]], [[Duft]]

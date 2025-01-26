@@ -35,4 +35,4 @@ Morpheme: [[fehl]][[en]]
 Partizip I: [[fehlend]], Partizip II: [[gefehlt]]
 
 , [[sein]]
-, [[reichen]], [[Fehlermeldung]]
+, [[reichen]], [[Fehlermeldung]], [[vorkommen]]

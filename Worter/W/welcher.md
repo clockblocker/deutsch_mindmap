@@ -24,5 +24,5 @@ Nein, Ich habe keins.
 Ya, Ich habe [[welches]].
 
 
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 #Relativpronomen #pronomen 

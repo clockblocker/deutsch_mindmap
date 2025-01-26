@@ -1,6 +1,6 @@
  Sascha Maus [[dieser]] Brief ist für dich.
 
- [[Pronomen]]
+ [[Worter/P/Pronomen/Pronomen]]
  #pronomen  #Demonstrativpronomen 
 
 

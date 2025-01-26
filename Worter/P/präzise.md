@@ -1,1 +1,1 @@
-[[schlampig]], [[genau]], [[ungefähr]], [[gründlich]], [[richtig]], [[deutlich]], [[Ausführlich]], [[dumpf]], [[scharf]], [[ausweichend]]
+[[schlampig]], [[genau]], [[ungefähr]], [[gründlich]], [[richtig]], [[deutlich]], [[Ausführlich]], [[dumpf]], [[scharf]], [[ausweichend]], [[knapp]]

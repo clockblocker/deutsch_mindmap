@@ -1,6 +1,9 @@
 🔄 [[austauschen]], [aʊ̯sˈtaʊ̯ʃn̩] | [[tauschte aus]], haben [[ausgetauscht]]
 
 ---
+Wir [[austauschen|tauschen]] unsere [[Erfahrungen]] [[aus]].
+
+
 290. Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen? (87%)
 	- [ ] eine [[Anzeige]] schreiben
 	- [x] den Fernseher [[reklamieren]]

@@ -28,4 +28,4 @@ Einzigartige mögliche Formen:
 [[notwendig]], [[notwendiger]], [[notwendige]], [[notwendiges]], [[notwendigen]], [[notwendigem]], [[notwendiger]], [[notwendigen]]
 [[notwendiger]], [[notwendigerer]], [[notwendigere]], [[notwendigeres]], [[notwendigeren]], [[notwendigerem]], [[notwendigerer]], [[notwendigeren]]
 [[notwendigsten]], [[notwendigster]], [[notwendigste]], [[notwendigstes]], [[notwendigsten]], [[notwendigstem]], [[notwendigster]], [[notwendigsten]]
-, [[unentbehrlich]]
+, [[unentbehrlich]], [[Notwendigkeit]]

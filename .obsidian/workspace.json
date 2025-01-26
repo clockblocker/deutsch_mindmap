@@ -4,21 +4,161 @@
     "type": "split",
     "children": [
       {
-        "id": "851f36853a25bfba",
+        "id": "47f4e517f85ba6de",
         "type": "tabs",
         "children": [
           {
-            "id": "43268d41e77ff32f",
+            "id": "7b631b717ec47467",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Kamanova/7 Modal.md",
+                "file": "Wortlisten/Pronomen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Modal"
+              "title": "Pronomen"
+            }
+          },
+          {
+            "id": "df5f50f88448c4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/verlieben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verlieben"
+            }
+          },
+          {
+            "id": "692c5706be3e221c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/verliebt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verliebt"
+            }
+          },
+          {
+            "id": "895e1bf43689f84f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/verlieben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verlieben"
+            }
+          },
+          {
+            "id": "d73c254980cf5486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/verlieben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verlieben"
+            }
+          },
+          {
+            "id": "2ecca760685d79f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/verlieben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verlieben"
+            }
+          },
+          {
+            "id": "398668f0d1912719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/Geschichte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geschichte"
+            }
+          },
+          {
+            "id": "adfad11cb67d1123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/A/Ankunft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ankunft"
+            }
+          },
+          {
+            "id": "8212c323b0b856b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/Geschichte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geschichte"
+            }
+          },
+          {
+            "id": "007aca126e90e08e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/Geschichte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geschichte"
+            }
+          },
+          {
+            "id": "7173fc262c96030f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wortlisten/Pronomen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pronomen"
             }
           }
         ]
@@ -164,57 +304,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "43268d41e77ff32f",
+  "active": "7b631b717ec47467",
   "lastOpenFiles": [
-    "Lektionen/Kamanova/8 Imperativ.md",
-    "Lektionen/Kamanova/7 Modal.md",
-    "Worter/Zoogeschäft.md",
-    "Worter/N/nehmen.md",
-    "Worter/Z/zuhören.md",
-    "Lektionen/Kamanova/6 Verb.md",
-    "Worter/K/können.md",
-    "Worter/B/Büro.md",
-    "Worter/B/Bürokraft.md",
-    "Worter/B/bürotauglich.md",
-    "Worter/B/Büroangestellter.md",
-    "Worter/R/ro.md",
-    "Worter/B/Bü.md",
-    "Worter/F/Fabrik.md",
-    "Worter/A/Arbeitszimmer.md",
-    "Worter/B/Büros.md",
-    "Worter/T/Theater.md",
-    "Worter/Ü/überhaupt.md",
-    "Worter/U/unbedingt.md",
-    "Lektionen/Kamanova/9 Pronomen.md",
-    "Lektionen/Kamanova/4 Adj.md",
-    "Lektionen/Kamanova/5 Akk.md",
-    "Worter/S/schweigen.md",
-    "Worter/H/hören.md",
-    "Worter/A/aufhören.md",
-    "Worter/A/anhören.md",
-    "Anhänge/Pasted image 20250122155146.png",
-    "Anhänge/Pasted image 20250122071455.png",
-    "Anhänge/Pasted image 20250121062442.png",
-    "Anhänge/Pasted image 20250119091912.png",
-    "Texte/Der Stein der Wisen",
-    "Texte/c1/schriben/Themen",
-    "Texte/c1/schriben",
-    "Texte/c1/urls.txt",
-    "Texte/c1/Complete_Exhaustive_Pronouns_List.csv",
-    "Texte/c1/Exhaustive_Pronouns_List.csv",
-    "Texte/c1/Conjunctions_with_Examples.csv",
-    "Texte/c1/Final_Extended_CCONJ_SCONJ_list.csv",
-    "Texte/c1/Extended_CCONJ_SCONJ_list2.csv",
-    "Texte/c1/CCONJ_SCONJ_list.csv",
-    "Anhänge/Pasted image 20250102085715.png",
-    "Anhänge/Pasted image 20250102085702.png",
-    "Anhänge/Pasted image 20250102085701.png",
-    "Anhänge/Pasted image 20250102085628.png",
-    "Anhänge/Pasted image 20250102085515.png",
-    "Anhänge/Pasted image 20250102085129.png",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Texte/Ditor/Positionen.canvas"
+    "Wortlisten/da....md",
+    "Wortlisten/Irregular.md",
+    "Texte/Skripte/extra/Extra 1.md",
+    "Texte/HPMOR/1 Ein äußerst unwahrscheinlicher Tag**.md",
+    "Texte/Avatar/s1 e1.md",
+    "Worter/G/gezeigt.md",
+    "Texte/b2 Das sagt man so!/Alle.md",
+    "Texte/b2 Das sagt man so!/Den Nagel auf den Kopf treffen.md",
+    "Texte/b2 Das sagt man so!/Alles unter einen Hut bringen.md",
+    "Texte/b1/3 Kunst ist in.md",
+    "Texte/b1/2 Der DDR Museum.md",
+    "Texte/b1/1 Haben Sie noch Zeit?.md",
+    "Texte/Avatar.md",
+    "Texte/Skripte/extra/Extra 8.md",
+    "Texte/Skripte/extra/Extra 9.md",
+    "Texte/Skripte/extra/Extra 10.md",
+    "Texte/Skripte/extra/Extra 4.md",
+    "Worter/V/verliebt.md",
+    "Worter/A/Ankunft.md",
+    "Worter/G/geben.md",
+    "Worter/B/beherbergen.md",
+    "Worter/Taschenbücher.md",
+    "Worter/T/Tasche.md",
+    "Worter/B/Bücher.md",
+    "Worter/B/Buch.md",
+    "Worter/Science.md",
+    "Anhänge/Pasted image 20250125084340.png"
   ]
 }

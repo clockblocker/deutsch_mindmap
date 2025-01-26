@@ -24,4 +24,4 @@ D: dem [[Unterschied]], den [[Unterschieden]]
 ---
 [[unterscheiden]], [[unterschiedlich]], [[unterschiedslos]], [[ununterscheidbar]]
 
- [[verschieden]], [[Vergleich]]
+ [[verschieden]], [[Vergleich]], [[Bedeutungsunterschied]]

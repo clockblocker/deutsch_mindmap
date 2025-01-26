@@ -1,5 +1,5 @@
 #pronomen #Personalpronomen 
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 
 [[Akkusativ possessiv Pronomen]]
 
@@ -35,4 +35,4 @@ G: euer, eurer
 D: euch, euren  
 
 ---
-[[Du]], [[Ihr]], [[ihrig]], [[ihren]], [[ihrem]]
+[[Du]], [[Ihr]], [[ihrig]], [[ihren]], [[ihrem]], [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]]

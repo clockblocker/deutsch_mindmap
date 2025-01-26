@@ -5,6 +5,8 @@ NIC: Sagen wir [[einfach]] - dass du dieses [[Gesicht]] …
 … in deinem Fernseher sehen [[wirst]] …  
 … und [[zwar]] jeden Abend … um Punkt sechs, vor einem [[riesigen]] [[Publikum]]!  
 
+[[obwohl]] die formen gleich sind, ist der [[Bedeutungsunterschied]] [[riesig]], und ohne Kontext oder [[Großschreibung]] wären sie schwer [[auseinanderzuhalten]].
+
 Er springt auf ein [[riesiges]] pelziges Tier, das vor sich hin grummelt.*
 
 _Lachend fahren sie durch einen Eistunnel, bis sie an einem [[riesigen]] Schiffswrack ankommen._

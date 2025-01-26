@@ -23,4 +23,4 @@ G: des [[Vortrags]], der [[Vorträge]]
 D: dem [[Vortrag]], den [[Vorträgen]]  
 
 ---
-[[vortragen]], [[vorgetragen]], [[Vortragende]], [[vortragend]]
+[[vortragen]], [[vorgetragen]], [[Vortragende]], [[vortragend]], [[Vorlesung]]

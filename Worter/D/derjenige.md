@@ -1,5 +1,5 @@
 
- [[Pronomen]]
+ [[Worter/P/Pronomen/Pronomen]]
  #pronomen  #Demonstrativpronomen 
 
 

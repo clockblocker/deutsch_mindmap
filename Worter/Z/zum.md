@@ -3,4 +3,4 @@
 [[zum]] [[Beispiel]]
 
 
-[[zum]] Büro = [[Ins]] Büro
+[[zum]] Büro = [[Ins]] Büro, [[gratulieren]]

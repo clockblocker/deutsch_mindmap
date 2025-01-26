@@ -4,6 +4,7 @@ die [[Gebäude]]
 ---
 Neben unserem Haus [[entsteht]] ein neues [[Gebäude]].
 
+Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
 
 ---
 = [[Konstruktion]], [[Bauwerk]], [[Bau]]

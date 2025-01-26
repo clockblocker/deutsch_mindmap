@@ -13,4 +13,4 @@ Beispiele:
 
 Tags: 
 #Substantiv
-#Feminin
+#Feminin, [[Großschreibung]]

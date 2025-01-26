@@ -1,1 +1,1 @@
-In love, [[verlaufen]]
+💘 [[verlieben]] | 💘 [[verliebt]]

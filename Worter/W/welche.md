@@ -1,4 +1,4 @@
 [[welcher]]
 
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 #Relativpronomen #pronomen , [[dessen]]

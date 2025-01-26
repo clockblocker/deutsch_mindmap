@@ -1,5 +1,3 @@
-˝Prosessed the word Tasche. Identified it as a Noun.
-
 🔴 die [[Tasche]], [ˈtaʃə]
 die [[Taschen]]
 

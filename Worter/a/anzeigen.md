@@ -1,6 +1,8 @@
 🚨 [[anzeigen]], [ˈanˌtsa͡ɪ̯gən] | [[zeigte an]], haben [[angezeigt]]
 
 ---
+dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
+
 267. Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun? (97%)
 	- [x] Sie müssen die [[Entscheidung]] der [[volljährigen]] Tochter [[respektieren]].
 	- [ ] Sie können zur Polizei gehen und die Tochter [[anzeigen]].
@@ -29,4 +31,4 @@ PI: [[anzeigend]], PII: [[angezeigt]], Zu+inf: [[anzuzeigen]]
 [[anzeigen]] - [[an]] = [[zeigen]] / to report, to indicate, to display
 
 ---
-[[Anzeige]], [[Anzeiger]], [[Anzeigetafel]], [[anzeigbar]], [[Anzeigepflicht]]
+[[Anzeige]], [[Anzeiger]], [[Anzeigetafel]], [[anzeigbar]], [[Anzeigepflicht]], [[Verwendung]]

@@ -10,7 +10,7 @@ SASCHA: [[wer]] war das?
 
 
 
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 #Pronomen #Interrogativpronomen 
 
 

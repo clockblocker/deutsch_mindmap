@@ -19,4 +19,4 @@ Morphems:
 [[After]][[shave]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[Parfum]]

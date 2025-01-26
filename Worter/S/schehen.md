@@ -1,0 +1,1 @@
+[[geschehen]] - [[ge]] = [[schehen]] / to happen, to occur

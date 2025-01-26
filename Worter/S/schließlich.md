@@ -3,6 +3,8 @@
 ---
 Wir haben [[uns]] total [[verlaufen]], aber [[schließlich]] sind wir doch noch ans Ziel gekommen.
 
+ Dann soll man [[Speisen]] kochen: Fleisch, Fisch, Gemüse, Salate machen und große Kuchen backen. [[Schließlich]] ist man müde.
+
 „Das kann ja sein“, sagt Uli, „aber bei mir [[scheint]] [[einfach]] der Wurm drin zu sein. [[Irgendwas]] ist hier [[fehlerhaft]].“ Der Fachverkäufer erklärt sich [[schließlich]] [[bereit]], den Rechner [[umzutauschen]]. Der neue Computer [[läuft]] problemlos. Kein Wurm [[weit und breit]]. Uli ist [[erleichtert]].
 
 

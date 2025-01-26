@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Glückwunsch]], [[Glückwünsche]]
 
 ---
-#Substantiv #Feminin, [[s1 e1]]
+#Substantiv #Feminin, [[s1 e1]], [[gratulieren]]

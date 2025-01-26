@@ -32,4 +32,4 @@ Morpheme: [[vor]][[les]][[en]]
 Partizip I: [[vorlesend]], Partizip II: [[vorgelesen]]
 
 [[vorlesen]] - [[vor]] = [[lesen]]
-, [[Extra 8]]
+, [[Extra 8]], [[Vorlesung]]

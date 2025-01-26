@@ -2,6 +2,8 @@
 nicht [[nass]]
 
 ---
+Für die [[trockene]] Haut können Sie selbst eine Maske machen. 
+
 Wissenschaftler sagen, dass es [[wahrscheinlich]] ein [[trockener]] Sommer wird.
 
 

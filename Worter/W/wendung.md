@@ -1,1 +1,1 @@
-, [[Redewendung]]
+, [[Redewendung]], [[Verwendung]]

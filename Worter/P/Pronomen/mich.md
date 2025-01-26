@@ -2,7 +2,7 @@
 
 [[Du hast]] mich  
 
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 #Pronomen #Reflexivpronomen
 
-myself
+myself, [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]]

@@ -48,4 +48,4 @@ Notes on the entry:
 - Noted multiple meanings
 - Provided conjugation for both uses
 - Included synonyms and antonyms
-- Added pronunciation and grammatical information, [[Anki]]
+- Added pronunciation and grammatical information, [[Anki]], [[geschehen]]

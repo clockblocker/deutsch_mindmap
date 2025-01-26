@@ -26,4 +26,4 @@ Morphems:
 [[Zwang]]
 
 ---
-#Substantiv #Masculin, [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]], [[Folter]], [[recht]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[unterworfen]], [[zwangsweise]]
+#Substantiv #Masculin, [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]], [[Folter]], [[recht]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[unterworfen]], [[zwangsweise]], [[Notwendigkeit]]

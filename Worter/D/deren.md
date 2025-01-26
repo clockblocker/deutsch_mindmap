@@ -3,5 +3,5 @@
 Die Frau, [[deren]] Vater krank ist, ist traurig.
 
 
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 #Relativpronomen #pronomen , [[vorderen]], [[Anki]]

@@ -1,7 +1,9 @@
 🏨 [[beherbergen]], [bəˈhɛʁbɛʁɡən] | [[beherbergte]], haben [[beherbergt]]
 
 ---
-Andere [[beherbergen]] Science-Fiction-Taschenbücher in [[Zweierreihen]], die hintere auf alten [[Pappkartons]] oder [[Holzplatten]] [[höhergestellt]], so dass man die Titel über die Bücher der [[vorderen]] [[Reihe]] hinweg lesen kann. 
+Andere [[beherbergen]] Science-Fiction-[[Taschenbücher]] in [[Zweierreihen]], die hintere auf alten [[Pappkartons]] oder [[Holzplatten]] [[höhergestellt]], so dass man die Titel über die Bücher der [[vorderen]] [[Reihe]] hinweg lesen kann. 
+
+
 
 ---
 = [[aufnehmen]], [[unterbringen]], [[beherbergen]]

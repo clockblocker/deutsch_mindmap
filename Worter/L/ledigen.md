@@ -32,4 +32,4 @@ Morpheme: [[le]][[dig]][[en]]
 | Sie       | [[ledigen]]          | [[ledigten]]          | [[ledigen Sie]]   | [[ledigen]]            | [[ledigten]]            |
 
 Partizip I: [[ledigend]], Partizip II: [[ledigt]]
-[[ledigen]] - [[le]] = [[digen]]
+[[ledigen]] - [[le]] = [[digen]], [[lediglich]]

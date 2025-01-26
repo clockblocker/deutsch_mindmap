@@ -10,6 +10,8 @@ Tja, Ladies [[eines Tages werdet ihr sagen]] Johnny Depp? Nein, danke!
 Es [[wird]] genug für alle sein 
 Und das [[wird]] keine Plagerei 
 
+Irgendwie [[werden]] wir den Weg finden.
+
 STEFAN: … Ja Sascha, und mit deiner Figur ... [[wirst]] du auch viel [[Erfolg]] haben …  
 
 NIC: Einen heißen Kaffee. Das hier wird ihm Feuer geben.  

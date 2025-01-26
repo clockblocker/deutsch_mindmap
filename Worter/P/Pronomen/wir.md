@@ -1,5 +1,5 @@
 #pronomen #Personalpronomen 
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 
 
-we
+we, [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]]

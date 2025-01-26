@@ -1,6 +1,9 @@
 🕰️ [[gleichzeitig]], [ˈɡlaɪ̯çˌtsaɪ̯tɪç]
 
 ---
+Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
+
+
 252. In Deutschland … (92%)
 	- [x] darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.
 	- [ ] kann man mehrere [[Ehepartner]] / Ehepartnerinnen [[gleichzeitig]] haben.

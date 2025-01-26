@@ -13,4 +13,4 @@ Synonyme:
 **Übersetzung**: exercise, practice
 
 ---
-#Substantiv #Feminin, [[üben]]
+#Substantiv #Feminin, [[üben]], [[Vorlesung]]

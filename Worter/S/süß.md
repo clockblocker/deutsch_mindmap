@@ -72,4 +72,4 @@ Tags:
 
 ---
 
-, [[bittre]], [[salzig]], [[sauer]]
+, [[bittre]], [[salzig]], [[sauer]], [[Honig]]

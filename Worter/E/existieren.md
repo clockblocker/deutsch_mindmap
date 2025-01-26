@@ -1,1 +1,1 @@
-[[bestehen]], [[sein]], [[fehlen]], [[leben]], [[befinden]], [[gelten]], [[vorliegen]], [[überleben]], [[stehen]]
+[[bestehen]], [[sein]], [[fehlen]], [[leben]], [[befinden]], [[gelten]], [[vorliegen]], [[überleben]], [[stehen]], [[geschehen]], [[vorkommen]]

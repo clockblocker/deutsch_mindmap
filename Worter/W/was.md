@@ -4,7 +4,7 @@ Als [[was]] kann er arbeiten?
 
 Mensch Anna, es kommt darauf an, [[wie]] du schreibst – und nicht [[was]].
 
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 
 #Pronomen #Interrogativpronomen 
 

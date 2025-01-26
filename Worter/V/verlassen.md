@@ -4,6 +4,8 @@
 ---
 In einem Monat werden sie das Land [[verlassen]].
 
+Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
+
 *Ich will dich nie [[verlassen]] (du weinst, du weinst, du weinst, du weinst)*  
 
 Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den [[Fahrstuhl]]

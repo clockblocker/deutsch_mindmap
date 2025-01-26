@@ -4,6 +4,8 @@ nicht [[locker]], nicht [[weich]]
 ---
 Das Haus steht auf [[festem]] Boden.
 
+Man braucht Ruhe, und ein [[Fest]] bringt viele Probleme.
+
 Katara und Sokka halten sich an der Eisscholle [[fest]] und werden mit ihr von einer Welle weggespült.
 
 *Sie müssen sich an Sterne [[krallen]], (ganz [[fest]])*  

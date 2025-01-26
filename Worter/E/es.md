@@ -1,1 +1,1 @@
-, [[Waldesrand]], [[blindes]], [[halbes]], [[beliebtes]], [[Todesstrafe]], [[Freundliches]], [[Freudiges]], [[Allgemeine]]
+, [[Waldesrand]], [[blindes]], [[halbes]], [[beliebtes]], [[Todesstrafe]], [[Freundliches]], [[Freudiges]], [[Allgemeine]], [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]]

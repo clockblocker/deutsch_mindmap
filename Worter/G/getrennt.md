@@ -1,10 +1,11 @@
 [[getrennt]] von uns [ɡəˈtʁɛnt]
 nicht [[zusammen]]
 
----*Im [[Geist]] [[getrennt]] (getrennt, getrennt, getrennt, getrennt)*  
-
+---
 *Sie leben hinterm Sonnenschein,*  
 *[[getrennt]] von uns unendlich weit.*  
+
+*Im [[Geist]] [[getrennt]] (getrennt, getrennt, getrennt, getrennt)*  
 
 ---
 Synonyme: 

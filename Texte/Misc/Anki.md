@@ -1,3 +1,41 @@
+[[Ich]]
+
+Die [[Abschaffung]] der [[Abtreibung]]  
+
+Wegen des heißen Sommers ist das Wasser [[knapp]].
+
+Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
+
+Du [[erhältst]] morgen ein Geschenk.
+
+Wir tauschen unsere Erfahrungen aus.
+
+Der Unterschied zwischen einer [[Vorlesung]] und einem Seminar ist, dass die Studenten im Seminar mehr diskutieren dürfen.
+
+Stürme wie dieser [[vorkommen|kommen]] in der Region [[häufig]] vor.
+
+Die Zeit [[vergeht]] sehr schnell.
+
+Die Firma [[anbieten|bietet]] mir einen Job an.
+
+[[Irgendwie]] werden wir den Weg finden.
+
+Keiner kann die letzte Aufgabe [[lösen]].
+
+Niemand weiß, was wirklich [[geschehen]] ist.
+
+Ich bin krank, [[daher]] kann ich nicht zur Party kommen.
+
+Wir [[austauschen|tauschen]] unsere [[Erfahrungen]] aus.
+
+Ich [[sorge]] für meine Kinder.
+
+Eine Gruppe hat [[jeweils]] einen Leiter.
+
+Sie muss [[mindestens]] acht Stunden pro Tag arbeiten.
+
+Es ist [[jedenfalls]] klar, dass Sandra eine gute Studentin ist.
+
 Ich habe die Prüfung nicht [[bestanden]], aber [[zumindest]] habe ich es versucht.
 
 Das Frühstück [[reicht]] für die ganze Familie.

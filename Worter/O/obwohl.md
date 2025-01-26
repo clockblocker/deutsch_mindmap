@@ -1,7 +1,9 @@
 [[obwohl]], [ˈɔpfォl]
 
 ---
-Und [[obwohl]] seine Fähigkeiten erstaunlich sind, muss er noch eine Menge lernen. 
+Und [[obwohl]] seine [[Fähigkeiten]] erstaunlich sind, muss er noch eine Menge lernen. 
+
+[[obwohl]] die formen gleich sind, ist der [[Bedeutungsunterschied]] [[riesig]], und ohne Kontext oder Großschreibung wären sie schwer [[auseinanderzuhalten]].
 
 Es gibt Leute, die bei eBay einen Koffer für den Urlaub kaufen wollen und nach vier Stunden im Internet Besitzer eines Autos sind, [[obwohl]] sie gar keinen Führerschein haben.
 

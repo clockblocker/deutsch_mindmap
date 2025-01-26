@@ -1,6 +1,8 @@
 🌊🏄‍♀️ [[treiben]], [ˈtraɪ̯bən] | [[trieb]], haben/sein [[getrieben]]
 
 ---
+Die zweite Regel. [[Treiben]] Sie Sport.
+
 *Aber ihr, ihr beiden andern,*  
 *[[aufmachen|macht]] euch auf, mit uns zu [[wandern]],*  
 *bei der Schwester sollt ihr bleiben,*  

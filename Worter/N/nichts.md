@@ -1,4 +1,4 @@
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 
 nothing
 

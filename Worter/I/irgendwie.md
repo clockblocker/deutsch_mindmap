@@ -1,6 +1,8 @@
 🤔 [[irgend]][[wie]], [ˈɪʁɡəntˌviː]
 
 ---
+[[Irgendwie]] werden wir den Weg finden.
+
 Schade, denkt Natalja. Freddies und Amelies chaotische Wohnung hat ihr [[irgendwie]] besser gefallen.
 
 NIC: Aah! Ich kann nicht! Sam - werd sie [[irgendwie]] los, bitte!  

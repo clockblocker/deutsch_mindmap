@@ -25,4 +25,4 @@ Morpheme:
 ---
 
 Einzigartige mögliche Formen: 
-[[jeden]], [[jeder]], [[jedes]], [[jedem]], [[jeden]], [[jeden]], [[jeder]], [[jedes]], [[Jeder]]
+[[jeden]], [[jeder]], [[jedes]], [[jedem]], [[jeden]], [[jeden]], [[jeder]], [[jedes]], [[Jeder]], [[jedenfalls]]

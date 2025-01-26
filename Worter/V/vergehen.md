@@ -3,6 +3,8 @@
 sein [[vergangen]]
 
 ---
+Die Zeit [[vergeht]] sehr schnell.
+
 Einhundert Jahre [[vergingen]] und mein Bruder und ich entdeckten den neuen Avatar, einen Luftbändiger namens Aang. 
 
 ---

@@ -1,1 +1,1 @@
-[[lernen]][[üben]], [[weiterüben]], [[ausbilden]], [[Vereinstrainer]]
+[[lernen]][[üben]], [[weiterüben]], [[ausbilden]], [[Vereinstrainer]], [[Training]]

@@ -60,4 +60,4 @@ to come
 ---
 
 **Morphems of only infinitive:**  
-- [[komm]][[en]]
+- [[komm]][[en]], [[vorkommen]]

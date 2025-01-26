@@ -1,1 +1,1 @@
-future, [[Auskunft]]
+future, [[Auskunft]], [[Ankunft]]

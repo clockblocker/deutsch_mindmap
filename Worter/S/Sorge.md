@@ -1,7 +1,9 @@
 **die [[Sorge]]**
 
-Beispiele:
-- Alles klar. Nic macht das schon!  Keine [[Sorge]] ...
+---
+Alles klar. Nic macht das schon!  Keine [[Sorge]] ...
+
+Ich [[sorge]] für meine Kinder.
 
 ---
 Synonyme:

@@ -7,6 +7,8 @@ Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bü
 
 Andere [[beherbergen]] Science-Fiction-Taschenbücher in [[Zweierreihen]], die hintere auf alten [[Pappkartons]] oder [[Holzplatten]] [[höhergestellt]], so dass man die Titel über die Bücher der [[vorderen]] [[Reihe]] hinweg lesen kann. 
 
+[[geben]]
+
 Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern.
 
 Dies ist das Wohnzimmer des Hauses, in dem der angesehene Professor Michael Verres-Evans, seine Frau Mrs Petunia Evans-Verres und ihr Adoptivsohn Harry James Potter-Evans-Verres leben.

@@ -1,6 +1,9 @@
 🗑️ [[abschaffen]], [ˈapˌʃafən] | [[schaffte ab]], haben [[abgeschafft]]
 
 ---
+Die [[Abschaffung]] der [[Abtreibung]]  
+
+
 134. Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
 	- [x] Ich [[beteilige]] mich an einer Bürgerinitiative für die [[Erhaltung]] der Buslinie oder gründe [[selber]] eine Initiative.
 

@@ -4,7 +4,7 @@ Episode One: Sams [[Ankunft]]
 Das ist die [[Geschichte]] von Sascha und Anna. Sie [[wohnen]] [[zusammen]] in Berlin.  
 Sie haben einen [[Nachbarn]]: Nic.  
 Nic ist in Sascha [[verliebt]].  
-Und Anna ist in Nic verliebt.  
+Und Anna ist in Nic [[verliebt]].  
 Aber [[dann]] [[bekommt]] Sascha [[Post]] aus Amerika ...
 
 Jo, ich hab dir [[doch]] [[gesagt]]: –[[ Es ist vorbei]]!!!  

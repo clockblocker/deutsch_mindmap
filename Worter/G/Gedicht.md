@@ -23,4 +23,4 @@ Genitive: des [[Gedichts]] oder [[Gedichtes]], der [[Gedichte]]
 Dative: dem [[Gedicht]], den [[Gedichten]] 
 
 ---
-[[dichten]], [[dichterisch]], [[Dichter]], [[poetisch]]
+[[dichten]], [[dichterisch]], [[Dichter]], [[poetisch]], [[Erzählung]]

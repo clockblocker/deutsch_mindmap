@@ -10,7 +10,7 @@ die [[Handlungen]]
 
 ---
 = [[Tat]], [[Aktion]], [[Vorgang]]
-≈ [[Aktivität]], [[Verrichtung]], [[Geschehen]], [[Ereignis]]
+≈ [[Aktivität]], [[Verrichtung]], [[geschehen]], [[Ereignis]]
 ≠ [[Untätigkeit]], [[Stillstand]], [[Passivität]]
 
 ---

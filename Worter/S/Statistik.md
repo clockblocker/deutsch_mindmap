@@ -1,1 +1,1 @@
-, [[Verkehrstote]]
+, [[Verkehrstote]], [[Erzählung]]

@@ -1,5 +1,5 @@
 #pronomen #Personalpronomen 
-[[Pronomen]]
+[[Worter/P/Pronomen/Pronomen]]
 🕴️ [[du]], [duː]
 nicht [[Sie]]
 
@@ -24,4 +24,4 @@ G: [[deiner]]
 D: [[dir]]  
 
 ---
-[[duzen]], [[Duzen]], [[Anrede]], [[Pronomen]], [[Du]]
+[[duzen]], [[Duzen]], [[Anrede]], [[Worter/P/Pronomen/Pronomen]], [[Du]], [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]]
