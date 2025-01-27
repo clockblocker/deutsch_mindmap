@@ -1,1 +1,1 @@
-, [[Tätigkeit]], [[Handlung]], [[verhalten]], [[Maßnahme]], [[Bemühung]], [[Training]], [[Verwendung]]
+, [[Tätigkeit]], [[Handlung]], [[verhalten]], [[Maßnahme]], [[Bemühung]], [[Training]], [[Verwendung]], [[Sport]]

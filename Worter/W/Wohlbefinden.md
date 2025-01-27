@@ -1,1 +1,1 @@
-, [[wohlfühlen]]
+, [[wohlfühlen]], [[Fieber]], [[Schnupfen]], [[Grippe]]

@@ -1,1 +1,1 @@
-, [[Sitz]]
+, [[Sitz]], [[Sessel]]

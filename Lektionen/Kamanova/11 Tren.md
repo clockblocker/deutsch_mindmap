@@ -1,3 +1,5 @@
+4. Sie arbeitet immer      Hause.  
+
 IM URLAUB (ein Telefongespräch)
 Max: Halo, Nikita! Hier ist Max! Wie geht's dir?
 Nikita: Guten Tag, Max! Mir geht's gut, und dir? Woher rufst du eigentlich an?

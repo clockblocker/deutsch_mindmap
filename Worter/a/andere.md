@@ -35,4 +35,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[andere]], [[anderer]], [[anderes]], [[anderen]], [[anderem]]
 [[anderer]], [[anderer]], [[anderes]], [[anderen]], [[anderem]]
-[[anderen]], [[anderen]], [[andere]], [[andere]], [[anderen]][[anders]], [[zweit]], [[solche]]
+[[anderen]], [[anderen]], [[andere]], [[andere]], [[anderen]][[anders]], [[zweit]], [[solche]], [[irgendein andere]]

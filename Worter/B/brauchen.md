@@ -3,6 +3,9 @@
 haben [[gebraucht]]
 
 ---
+###### 4 [[Der gestiefelte Kater.md######4|Der gestiefelte Kater.md]]
+"Hör", fing der Kater an, der alles verstanden hatte, "du brauchst mich nicht zu töten, um ein Paar schlechte Handschuhe aus meinem Pelz zu kriegen;
+
 NIC: Das wirst du [[brauchen]] …
 NIC: Aber du [[brauchst]] doch [[uns]] …
 Aber ich denke, er [[braucht]] eine Lederjacke 

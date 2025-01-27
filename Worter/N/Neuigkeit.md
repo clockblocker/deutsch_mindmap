@@ -1,8 +1,9 @@
-, [[neulich]]
-🟢 📰 die [[Neuigkeit]], [ˈnɔɪ̯ɪçkaɪ̯t]
+📰 die [[Neuigkeit]], [ˈnɔɪ̯ɪçkaɪ̯t] | [[neulich]]
 die [[Neuigkeiten]]
 
 ---
+19. Er sucht [[Neuigkeiten]] im interessanten Internet ().  
+
 Er schreibt Artikel, macht Fotos und sucht interessante [[Neuigkeiten]] mi Internet
 
 ---

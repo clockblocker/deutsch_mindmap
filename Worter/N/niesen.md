@@ -30,4 +30,4 @@ Morpheme: [[nies]][[en]]
 | Sie       | [[niesen]]| [[niestetn]]| [[niesen Sie]]| [[niesen]]   | [[nieseten]]  |
 
 Partizip I: [[niesend]], Partizip II: [[geniest]]
-[[niesen]] - = [[niesen]], [[s1 e1]]
+[[niesen]] - = [[niesen]], [[s1 e1]], [[Schnupfen]]

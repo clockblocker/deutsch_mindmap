@@ -2,8 +2,10 @@
 die [[Pechse]]
 
 ---
+Ich habe wirklich kein Glück, nur [[Pech]]. Ich bin krank. 
+
 *Es ging spazieren vor dem Tor*  
-*ein kohlpechrabenschwarzer Mohr.*  
+*ein kohl[[pech]]rabenschwarzer Mohr.*  
 
 ---
 Synonyme: 

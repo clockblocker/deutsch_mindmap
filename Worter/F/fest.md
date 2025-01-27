@@ -45,7 +45,7 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[fest]], [[fester]], [[feste]], [[festes]], [[festen]], [[festem]], [[fester]], [[festen]]
+[[fest]], [[fester]], [[Feste]], [[festes]], [[festen]], [[festem]], [[fester]], [[festen]]
 [[festest]], [[festester]], [[festeste]], [[festestes]], [[festesten]], [[festestem]], [[festester]], [[festesten]]
 , [[steif]], [[flüssigen]], [[s1 e1]], [[feststellen]], [[festsitzen]], [[sitzen]], [[festkleben]], [[kleben]], [[zittern]], [[entschlossen]]
 
@@ -58,6 +58,9 @@ das [[Fest]], [fɛst]
 die [[Feste]]
 
 ---
+16. Sie feiern [[Feste]] immer in der schönen Küche ().  
+
+
 149. Was ist ein Beispiel für antisemitisches [[verhalten]]? (100%)
 	- [ ] ein jüdisches [[Fest]] [[besuchen]]
 	- [ ] die israelische [[Regierung]] kritisieren

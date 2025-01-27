@@ -1,1 +1,1 @@
-, [[Unfall]], [[Geschichte]], [[Handlung]], [[fest]], [[geschehen]]
+, [[Unfall]], [[Geschichte]], [[Handlung]], [[fest]], [[geschehen]], [[ergehen]]

@@ -3,6 +3,9 @@
 haben [[gemusst]]
 
 ---
+Es war einmal ein Müller, der hatte drei Söhne, seine Mühle, einen Esel und einen Kater; die Söhne [[mußten]] mahlen, der Esel Getreide holen und Mehl forttragen, die Katze dagegen die Mäuse wegfangen.  [[Der gestiefelte Kater.md######1|(Quelle: Der gestiefelte Kater)]]
+
+
 Das [[muss]] ein [[Ende]] haben .
 
 NIC: [[egal]] … Komm … das [[müssen]] wir [[feiern]]!  

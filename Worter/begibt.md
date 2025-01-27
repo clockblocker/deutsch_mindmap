@@ -1,0 +1,1 @@
+🚶‍♂️ [[begeben]], [bəˈɡeːbən] | [[begab]], haben [[begeben]]

@@ -1,6 +1,9 @@
 [[entgegen]], [ˈɛntˌɡeːɡən]
 
 ---
+[[Entgegen]] meinem [[Rat]] hat er es gemacht.
+
+---
 [[entgegenfiebern]] - [[entgegen]] = [[fiebern]]
 
 ---

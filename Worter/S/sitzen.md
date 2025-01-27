@@ -1,1 +1,1 @@
-, [[aufstehen]], [[fest]], [[Sitz]], [[besitzen]], [[laufen]], [[vorsitzen]], [[stehen]]
+, [[aufstehen]], [[fest]], [[Sitz]], [[besitzen]], [[laufen]], [[vorsitzen]], [[stehen]], [[Sessel]]

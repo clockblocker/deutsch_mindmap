@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Frisur]], [[Frisuren]], [[Frisur]], [[Frisur]], [[Frisur]], [[Frisur]], [[Frisur]], [[Frisuren]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Friseur]]

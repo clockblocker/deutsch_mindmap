@@ -1,3 +1,5 @@
+	[[Wegen]] des heißen Sommers ist das Wasser [[knapp]].
+
 [[Ich]]
 
 Die [[Abschaffung]] der [[Abtreibung]]  
@@ -10,7 +12,7 @@ Du [[erhältst]] morgen ein Geschenk.
 
 Wir tauschen unsere Erfahrungen aus.
 
-Der Unterschied zwischen einer [[Vorlesung]] und einem Seminar ist, dass die Studenten im Seminar mehr diskutieren dürfen.
+Der [[Unterschied]] zwischen einer [[Vorlesung]] und einem Seminar ist, dass die Studenten im Seminar mehr diskutieren dürfen.
 
 Stürme wie dieser [[vorkommen|kommen]] in der Region [[häufig]] vor.
 

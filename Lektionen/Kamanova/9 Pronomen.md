@@ -1,15 +1,27 @@
 ZUM GEBURTSTAG VIEL GLÜCK!
 Es gibt viele Menschen, die ihren Geburtstag [[feiern]]. Aber manche Leute feiern ihn nicht. Ich habe keine Ahnung, warum.
-«Es ist nicht richtig,» sagt mein Freund. «Wir haben 365 Tage mi Jahr. Wir feiern Weihnachten, Neujahr, Ostern. Den Geburtstag soll man auch feiern. Das macht Spaß.»
+
+
+ [[10 KRANK#^unique-id]]
+
+
+###### 7
+###### 1
+«Es ist nicht richtig,» sagt mein Freund. «Wir haben 365 Tage mi Jahr. Wir feiern Weihnachten, Neujahr, Ostern. Den Geburtstag soll man auch feiern. Das macht Spaß.» [[9 Pronomen.md######7|source]]
+
+###### 2
 «Wozu?» fragt meine sehr intelligente Freundin. «Man braucht Ruhe, und ein [[Fest]] bringt viele Probleme. Man soll ins [[Geschäft]] gehen, viel Essen und viele Getränke kaufen. Dann soll man [[Speisen]] kochen:
 Fleisch, Fisch, Gemüse, Salate machen und große Kuchen backen. [[Schließlich]] ist man müde.»
+###### 3
 «Quatsch!» antwortet meine kleine Schwester, «Ein Geburtstag ist sehr wichtig. Ich gratuliere gern meiner Freundin, meinen Eltern und meinem Onkel. Ich schenke meiner guten Freundin ein interessantes Buch, meiner Mutter ein schönes Parfum und meinem Vater ein tolles [[Hemd]].»
+
+###### 4
 «Du hast Recht,» sagt wieder mein Freund, «aber nicht ganz. Ihr habt eine große Wohnung. Hier gibt es genug Platz: man kann tanzen, singen und spielen. Aber ich habe eine sehr kleine Wohnung. Leider kann ich meinen Geburtstag dort nicht feiern.»
-«Das macht nichts!» - lacht meine Schwester. «Wir helfen unserem
-Freund gern. Wir gehen zusammen ins Café, singen "Zum Geburtstag viel Glück!" und wünschen dir alles Gute!»
 
-
-
+###### 5
+«Das macht nichts!» - lacht meine [[Schwester]]. «Wir helfen unserem
+Freund gern. Wir gehen zusammen ins Café, singen "Zum Geburtstag viel Glück!" und [[wünschen]] dir alles Gute!» [[9 Pronomen######5|source]]
+###### 6
 
 Substantive
 Geburtstag, e- -день рождения Spaß, Späße - удовольствие

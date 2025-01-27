@@ -3,6 +3,8 @@
 ---
 Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand [[gegenüber]] vom Fenster? 
 
+Wir kaufen Blumen [[entweder]] im Geschäft [[gegenüber]] der [[Bibliothek]] oder in einem anderen Blumengeschäft gegenüber dem Kino.
+
 ---
 Synonyme: [[entlang]], [[neben]], [[vis-à-vis]], [[gegenüber von]]
 Antonyme: [[abseits]], [[weit weg]]

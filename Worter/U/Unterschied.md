@@ -2,6 +2,7 @@
 die [[Unterschiede]]
 
 ---
+Der [[Unterschied]] zwischen einer [[Vorlesung]] und einem Seminar ist, dass die Studenten im Seminar mehr diskutieren dürfen.
 
 
 ---

@@ -1,1 +1,1 @@
-, [[Krankenkasse]], [[Gesundheitsamt]], [[Behinderung]]
+, [[Krankenkasse]], [[Gesundheitsamt]], [[Behinderung]], [[Fieber]], [[Schnupfen]], [[Grippe]]

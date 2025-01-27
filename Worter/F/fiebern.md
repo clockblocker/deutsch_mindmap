@@ -1,6 +1,9 @@
 🌡️ [[fiebern]], [ˈfiːbɐn] | [[fieberte]], haben [[gefiebert]]
 
 ---
+Wie schade! Ich soll zu Hause bleiben. Ich liege im Bett, und ich habe [[Fieber]], Kopfweh und [[Schnupfen]].
+
+---
 [[entgegenfiebern]] - [[entgegen]] = [[fiebern]]
 
 ---
@@ -11,7 +14,7 @@ Antonyme: [[gesund sein]], [[normal sein]], [[abkühlen]]
 to have a fever, to be feverish
 
 ---
-[[fieber]][[n]]
+[[Fieber]][[n]]
    
 
 ---
@@ -28,4 +31,4 @@ Partizip II: [[gefiebert]]
 Zu+infinitive: [[zufiebern]]
 
 ---
-[[Fieber]], [[Fiebertemperatur]], [[Fiebertraum]], [[Fieberkurve]], [[Fieberschub]]
+[[Fieber]], [[Fiebertemperatur]], [[Fiebertraum]], [[Fieberkurve]], [[Fieberschub]], [[Grippe]]

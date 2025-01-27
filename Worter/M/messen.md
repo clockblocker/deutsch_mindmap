@@ -3,6 +3,8 @@
 haben [[gemessen]]
 
 ---
+Ich [[messe]] die Temperatur. Wieder 39 Grad. I
+
 SASCHA: Dann müssen wir Sie [[messen]].
 
 SAM: Den [[Abstand]] zwischen 2 Regalbrettern [[messen]] …'  

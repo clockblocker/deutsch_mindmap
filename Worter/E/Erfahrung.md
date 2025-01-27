@@ -2,6 +2,8 @@
 die [[Erfahrungen]]
 
 ---
+Wir tauschen unsere [[Erfahrungen]] aus.
+
 Wir [[austauschen|tauschen]] unsere [[Erfahrungen]] aus.
 
 *Es ist [[unmöglich]]*  

@@ -38,4 +38,4 @@ Morpheme: [[pass]][[ier]][[en]]
 | Sie       | [[passieren]]        | [[passierten]]        | [[passieren Sie]] | [[passieren]]          | [[passierten]]          |
 
 Partizip I: [[passierend]], Partizip II: [[passiert]]
-, [[Erfolgen]], [[Passant]], [[s1 e1]]
+, [[Erfolgen]], [[Passant]], [[s1 e1]], [[ergehen]]

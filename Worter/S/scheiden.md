@@ -3,7 +3,7 @@
 haben [[geschieden]]
 
 ---
-- Willst du bis der Tod euch scheidet  
+- Willst du bis der Tod euch [[scheidet]]  
 
 ---
 [[entscheiden]] - [[ent]] = [[scheiden]] / decide

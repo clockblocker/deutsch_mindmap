@@ -1,6 +1,9 @@
-🚫 [[weder]] [[vor]] ... [[noch]]
+🚫 [[weder]] ... [[noch]]
 
 ---
+Er will [[weder]] essen [[noch]] trinken
+[[Entweder]] kommst du, [[oder]] du bleibst zu Hause.
+
 Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist [[mutig]] und hat [[weder]] Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]]. 
 
 

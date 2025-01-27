@@ -1,4 +1,18 @@
+Sie fordern den gleichen Lohn für alle.
+
+Sie fordern den gleichen Lohn für alle
+
+Heute ist es kalt und zudem gibt es Regen.
+
+Das Spiel ist heute [[besonders]] spannend.
+
+Hast du nicht eine [[gewisse]] Sache vergessen?
+
 [[wegen]] meiner Krankheit arbeite ich nicht. 
+
+Wir tauschen unsere [[Erfahrungen]] aus.
+
+[[Wegen]] des heißen Sommers ist das Wasser [[knapp]].
 
 Ich mag dich [[wegen]] deiner Augen.
 

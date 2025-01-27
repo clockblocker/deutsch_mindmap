@@ -11,7 +11,7 @@ Antonyme: [[ignorieren]], [[gleichgültig sein]], [[ablehnen 1]]
 to eagerly anticipate, to look forward to
 
 ---
-[[entgegen]][[fieber]][[n]]
+[[entgegen]][[Fieber]][[n]]
  
 ---
 

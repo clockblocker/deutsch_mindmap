@@ -70,5 +70,14 @@
       ],
       "key": "G"
     }
+  ],
+  "cbcr-filler-de:format-selection-with-number": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

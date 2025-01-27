@@ -1,1 +1,1 @@
-, [[Vereinbarung]], [[einigen]], [[Einheit]], [[Konflikt]], [[Einigkeit]], [[Widerspruch]], [[Einverständnis]], [[Unterschied]]
+, [[Vereinbarung]], [[einigen]], [[Einheit]], [[Konflikt]], [[Einigkeit]], [[Widerspruch]], [[Einverständnis]], [[Unterschied]], [[Differenz]]
