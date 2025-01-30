@@ -26,4 +26,4 @@ Einzigartige mögliche Formen: [[Handschuhs]], [[Handschuhe]], [[Handschuhen]]
 #Substantiv #Maskulin
 
 
-, [[s1 e1]]
+, [[s1 e1]], [[Pelzhandschuhe]]

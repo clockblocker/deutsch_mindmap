@@ -8,703 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e18f7a14b8f4735",
+            "id": "66fcb76b7644a39a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Der Stein der Wisen/1 Ein Junge überlebt.md",
+                "file": "Worter/I/ihm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Ein Junge überlebt"
-            }
-          },
-          {
-            "id": "cba239bfc37b5a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/geheimnisvolle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "geheimnisvolle"
-            }
-          },
-          {
-            "id": "6ff04129b98e13c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Der Stein der Wisen/1 Ein Junge überlebt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Ein Junge überlebt"
-            }
-          },
-          {
-            "id": "fd2d3ea52e1cd966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/merkwürdigen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "merkwürdigen"
-            }
-          },
-          {
-            "id": "5f979fed11877be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/merkwürdige.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "merkwürdige"
-            }
-          },
-          {
-            "id": "b52d94fd890fc571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Der Stein der Wisen/1 Ein Junge überlebt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Ein Junge überlebt"
-            }
-          },
-          {
-            "id": "c3bdbef4aa744802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/merkwürdigen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "merkwürdigen"
-            }
-          },
-          {
-            "id": "35ee30842b70c594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/merkwürdige.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "merkwürdige"
-            }
-          },
-          {
-            "id": "2df86fc134567f07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Der Stein der Wisen/1 Ein Junge überlebt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Ein Junge überlebt"
-            }
-          },
-          {
-            "id": "1d958bdfa9c727de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Der Stein der Wisen/1 Ein Junge überlebt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Ein Junge überlebt"
-            }
-          },
-          {
-            "id": "5e93c056fe671f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Der Stein der Wisen/1 Ein Junge überlebt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Ein Junge überlebt"
-            }
-          },
-          {
-            "id": "520f8c0ef592d2a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "8ec6b907f7a6d53d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "4b89ff079a890494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/brauchst.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "brauchst"
-            }
-          },
-          {
-            "id": "56095618367c53a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/brauchen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "brauchen"
-            }
-          },
-          {
-            "id": "65f428a745ce0b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "a74cc6bf6f4217db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "d4c582c1fe46a912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "fa29338182fae96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/brauchst.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "brauchst"
-            }
-          },
-          {
-            "id": "8921249fc18d3c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/brauchen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "brauchen"
-            }
-          },
-          {
-            "id": "a2a3a13986dead89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "b89443d8419bf555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/mußten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mußten"
-            }
-          },
-          {
-            "id": "41c4add061747959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "a04c96ec9efce450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "1da4804b796beb68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/G/Getreide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Getreide"
-            }
-          },
-          {
-            "id": "f4f3769913a5a85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "fe0d3b8f93ac6e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "1bcefb1b6cd5a6b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/mußten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mußten"
-            }
-          },
-          {
-            "id": "7a18b565008ed1a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/müssen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "müssen"
-            }
-          },
-          {
-            "id": "504bc23ef3512d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "97b0ae99a679ab69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/ältester.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ältester"
-            }
-          },
-          {
-            "id": "d8dffa8b893058f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "38b502507a0868de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "36b70fd4edc84acd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/mußten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mußten"
-            }
-          },
-          {
-            "id": "c559722e05a58152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/müssen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "müssen"
-            }
-          },
-          {
-            "id": "7086e1707aa49f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "f431cec27e433895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/ältester.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ältester"
-            }
-          },
-          {
-            "id": "cc10894e03f2041c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/A/alt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "alt"
-            }
-          },
-          {
-            "id": "b04aaebbbf51b5b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "f4d657007d30ed2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/mußten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mußten"
-            }
-          },
-          {
-            "id": "1cfe60de1b85df86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/müssen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "müssen"
-            }
-          },
-          {
-            "id": "189d6a97edaf6348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "5dd9ef1beaf5000a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/mußten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mußten"
-            }
-          },
-          {
-            "id": "1f10002d0a8c2297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/müssen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "müssen"
-            }
-          },
-          {
-            "id": "107f9dbada939ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der gestiefelte Kater"
-            }
-          },
-          {
-            "id": "a08eba4cbabba8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/ergangen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ergangen"
-            }
-          },
-          {
-            "id": "4d0900c36ce91a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/ergehen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ergehen"
-            }
-          },
-          {
-            "id": "d76c45efd8e35623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/mußten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mußten"
-            }
-          },
-          {
-            "id": "6455ace958f1d301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/müssen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "müssen"
-            }
-          },
-          {
-            "id": "49c96755cbb36114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/begeben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "begeben"
+              "title": "ihm"
             }
           },
           {
@@ -713,44 +27,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Kamanova/9 Pronomen.md",
+                "file": "Worter/P/Pronomen/Pronomenformen/euch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 Pronomen"
+              "title": "euch"
             }
           },
           {
-            "id": "a6f44663baa77a8c",
+            "id": "37f0a086dc3e49f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Kamanova/9 Pronomen.md",
+                "file": "Texte/Gedichte/Max und Moriz/7 Schluß.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 Pronomen"
+              "title": "7 Schluß"
             }
           },
           {
-            "id": "54ca0fbf1177a721",
+            "id": "1a0137c2dd5b7c73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/W/wünschen.md",
+                "file": "Worter/D/Dativ pronomen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wünschen"
+              "title": "Dativ pronomen"
+            }
+          },
+          {
+            "id": "ca7d68b885976540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/M/mir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mir"
+            }
+          },
+          {
+            "id": "27b31e83ffb085cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wortlisten/Pronomen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pronomen"
             }
           }
         ],
-        "currentTab": 46
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -806,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.500732421875
+    "width": 200
   },
   "right": {
     "id": "515e4d54eb84c724",
@@ -893,34 +235,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4d0900c36ce91a93",
+  "active": "37f0a086dc3e49f3",
   "lastOpenFiles": [
-    "Worter/ergangen.md",
-    "Texte/Brüder Grimm/Der gestiefelte Kater.md",
-    "Worter/M/müssen.md",
-    "Worter/mußten.md",
-    "Worter/Z/zu ergehen.md",
-    "Worter/E/ergehend.md",
-    "Worter/E/ergehet.md",
-    "Worter/ergehen.md",
-    "Worter/E/erginget.md",
-    "Worter/E/ergehen wir.md",
-    "Worter/E/ergingen.md",
-    "Worter/E/ergeht.md",
-    "Worter/E/ergehest.md",
-    "Worter/E/ergeh.md",
-    "Worter/E/ergingest.md",
-    "Worter/E/ergehst.md",
-    "Worter/E/erginge.md",
-    "Worter/E/ergehe.md",
-    "Worter/Z/zustoßen.md",
-    "Worter/Z/zuteilwerden.md",
-    "Worter/W/widerfahren.md",
-    "Worter/E/erging.md",
-    "Worter/ältester.md",
-    "Worter/A/alt.md",
-    "Worter/S/sich.md",
-    "Worter/G/Getreide.md",
+    "Texte/Gedichte/Max und Moriz/0 Vorwort.md",
+    "Texte/Gedichte/Max und Moriz/7 Schluß.md",
+    "Texte/Gedichte/Max und Moriz/2 Zweiter Streich.md",
+    "Texte/Gedichte/Max und Moriz/4 Vierter Streich.md",
+    "Texte/Gedichte/Max und Moriz/6 Sechster Streich.md",
+    "Texte/Gedichte/Max und Moriz/5 Fünfter Streich.md",
+    "Texte/Gedichte/Max und Moriz/3 Dritter Streich.md",
+    "Texte/Gedichte/Max und Moriz/1 Erster Streich.md",
+    "Texte/Gedichte/Untitled 1.md",
+    "Texte/Gedichte/Max und Moriz",
+    "Texte/Gedichte/Goethe/Der Abschied.md",
+    "Texte/Gedichte/Goethe/Der Zauberlehrling.md",
+    "Texte/Gedichte/Goethe/Erlkönig.md",
+    "Texte/Gedichte/Goethe",
+    "Lektionen/Kamanova/10 KRANK.md",
+    "Worter/I/Ich.md",
+    "Wortlisten/Pronomen.md",
+    "Lektionen/Kamanova/11 Tren.md",
+    "Lektionen/Kamanova/9 Pronomen.md",
+    "Lektionen/Kamanova/8 Imperativ.md",
+    "Worter/grossartich.md",
+    "Worter/P/Pronomen/Pronomenformen/euch.md",
+    "Worter/I/ihm.md",
+    "Anhänge/Pasted image 20250129094057.png",
+    "Worter/großartig.md",
+    "Worter/A/artig.md",
+    "Worter/U/untersucht.md",
+    "Worter/U/untersuchen.md",
+    "Worter/M/mir.md",
     "Anhänge/Pasted image 20250127154728.png",
     "Anhänge/Pasted image 20250125084340.png"
   ]

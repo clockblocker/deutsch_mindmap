@@ -1,1 +1,1 @@
-, [[Handschuh]], [[s1 e1]]
+, [[Handschuh]], [[s1 e1]], [[Pelzhandschuhe]]

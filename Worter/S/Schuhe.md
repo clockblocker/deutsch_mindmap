@@ -26,4 +26,4 @@ Beispiele:
 
 Tags:
 #Substantiv
-#Feminin, [[Schuh]]
+#Feminin, [[Schuh]], [[Pelzhandschuhe]]

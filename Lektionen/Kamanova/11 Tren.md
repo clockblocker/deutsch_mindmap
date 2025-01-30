@@ -1,4 +1,5 @@
-4. Sie arbeitet immer      Hause.  
+7. Кто едет в клуб?  
+8. Sie arbeitet immer      Hause.  
 
 IM URLAUB (ein Telefongespräch)
 Max: Halo, Nikita! Hier ist Max! Wie geht's dir?

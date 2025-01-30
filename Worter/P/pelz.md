@@ -1,1 +1,1 @@
-, [[pelzig]]
+, [[pelzig]], [[Pelzhandschuhe]]

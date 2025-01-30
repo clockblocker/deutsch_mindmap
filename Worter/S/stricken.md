@@ -1,1 +1,1 @@
-, [[flechten]], [[spinnen]], [[verstricken]]
+, [[flechten]], [[spinnen]], [[verstricken]], [[Pelzhandschuhe]]

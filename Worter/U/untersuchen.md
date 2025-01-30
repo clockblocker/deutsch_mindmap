@@ -3,6 +3,8 @@
 ---
 Mein Gott! Wie schwach bin ich! Ich soll unbedingt zum Arzt. Er [[untersucht]] mich und gibt mir Tabletten. 
 
+3. Der Arzt [[untersucht]] mich (ich).  
+
 Die [[Untersuchung]] [[ergibt]] keinen [[Beweis]] für seine [[Schuld]]
 
 Wissenschaftlerinnen [[untersuchen]] das [[Verhalten]] von Hunden.

@@ -212,29 +212,58 @@ Er will [[weder]] essen [[noch]] trinken
 
 10.17* Заполните пропуски личными местоимениями в Dativ или в Akkusativ:
 
+
+| Nom     | Verb  | Dat       | Pos       |        | Acc    | Gen             |
+| ------- | ----- | --------- | --------- | ------ | ------ | --------------- |
+| [[Ich]] | gebe  | [[mir]]   | [[mein]]  | ganzes | selbst | des [[meines]]  |
+| [[Du]]  | gibst | [[dir]]   | [[dein]]  | ganzes | selbst | des [[deines]]  |
+| [[Er]]  | gibt  | [[ihm]]   | [[sein]]  | ganzes | selbst | des [[seines]]  |
+| [[Sie]] | gibt  | [[ihr]]   | [[ihr]]   | ganzes | selbst | der [[ihrer]]   |
+| [[Es]]  | gibt  | [[ihm]]   | [[sein]]  | ganzes | selbst | des [[seines]]  |
+| [[Wir]] | geben | [[uns]]   | [[unser]] | ganzes | selbst | der [[unserer]] |
+| [[Ihr]] | gebt  | [[euch]]  | [[euer]]  | ganzes | selbst | der [[eurer]]   |
+| [[Sie]] | geben | [[ihnen]] | [[ihr]]   | ganzes | selbst | der [[ihrer]]   |
+| [[Sie]] | geben | [[Ihnen]] | [[Ihr]]   | ganzes | selbst | der [[Ihrer]]   |
+
+
+| Nom     |       | Dat       | Pos       |        | Acc      | Gen             |
+| ------- | ----- | --------- | --------- | ------ | -------- | --------------- |
+| [[Ich]] | gebe  | [[mir]]   | [[mein]]  | ganzes | [[mich]] | des [[meines]]  |
+| [[Du]]  | gibst | [[dir]]   | [[dein]]  | ganzes | [[dich]] | des [[deines]]  |
+| [[Er]]  | gibt  | [[ihm]]   | [[sein]]  | ganzes | [[ihn]]  | des [[seines]]  |
+| [[Sie]] | gibt  | [[ihr]]   | [[ihr]]   | ganze  | [[sie]]  | der [[ihrer]]   |
+| [[Es]]  | gibt  | [[ihm]]   | [[sein]]  | ganzes | [[es]]   | des [[seines]]  |
+| [[Wir]] | geben | [[uns]]   | [[unser]] | ganze  | [[uns]]  | der [[unserer]] |
+| [[Ihr]] | gebt  | [[euch]]  | [[euer]]  | ganze  | [[euch]] | der [[eurer]]   |
+| [[Sie]] | geben | [[ihnen]] | [[ihr]]   | ganze  | [[sie]]  | der [[ihrer]]   |
+| [[Sie]] | geben | [[Ihnen]] | [[Ihr]]   | ganze  | [[Sie]]  | der [[Ihrer]]   |
+
+
+
+![[Pasted image 20250129094057.png]]
 1. Wie geht's dir (du)?  
 2. Wie geht's Ihnen (Sie)?  
-3. Wie geht's ihm (er)?  
-4. Wie geht's ... (sie)?  
-5. Ich besuche ... (er).  
-6. Sie lacht über ... (wir).  
-7. Sie sprechen oft mit ... (sie).  
-8. Ich helfe ... (er).  
-9. Sie spielen heute ohne ... (er).  
-10. Der Arzt untersucht ... (ich).  
-11. Er wünscht ... alles Gute (ich).  
-12. Sie schreibt ... Briefe (er).  
-13. Sie wartet auf ... (er).  
-14. Er bringt ... Blumen (sie).  
-15. Er kauft Geschenke für ... (sie).  
-16. Er tanzt mit ... (sie).  
-17. Die Eltern lieben ... (ihr).  
-18. Was schenken ... eure Eltern (ihr)?  
-19. Dieses Buch gefällt ... gut (er).  
-20. Diese Tabletten gefallen ... nicht (sie).  
-21. Gefällt ... dieses Bild (du)?  
-22. Komm zu ... (ich)!  
-23. Zeig ... dein Foto! (ich).
+3. Wie geht's [[ihm]] (er)?  
+4. Wie geht's ihr (sie)?  
+5. Ich besuche ihn (er).  
+6. Sie lacht über uns (wir).  
+7. Sie sprechen oft mit ihr (sie).  
+1. Ich helfe ihm (er).  
+2. Sie spielen heute ohne ihn (er).  
+3. Der Arzt [[untersucht]] mich (ich).  
+4. Er wünscht mir alles Gute (ich).  
+5. Sie schreibt ihm Briefe (er).  
+6. Sie wartet auf ihn (er).  
+7. Er bringt ihr Blumen (sie).  
+8. Er kauft Geschenke für sie (sie).  
+9. Er tanzt mit ihr (sie).  
+10. Die Eltern lieben euch (ihr).  
+11. Was schenken ... eure Eltern (ihr)?  
+12. Dieses Buch gefällt ... gut (er).  
+13. Diese Tabletten gefallen ... nicht (sie).  
+14. Gefällt ... dieses Bild (du)?  
+15. Komm zu ... (ich)!  
+16. Zeig ... dein Foto! (ich).
 
 10.4 Переведите следующие предложения:
 
@@ -243,48 +272,48 @@ Er will [[weder]] essen [[noch]] trinken
 3. Эти студенты идут в библиотеку.  Die Studenten gehen in die Bibliothek
 4. Эта девушка едет в университет.  Die Frau fahrt in die Uni
 5. Этот ребёнок уже ходит в школу.  Das Kind gehts schon in die Schue  
-6. Ты идёшь сегодня в театр?  Ge
-7. Кто едет в клуб?  
-8. Когда ты хочешь пойти в магазин?  
-9. Твой брат болен. Он должен пойти к врачу.  
-10. Она едет к её дедушке за город.  
-11. Она идёт к её красивой подруге.  
-12. Вы едете к вашим старым друзьям?  
-13. Мы едем к нашим новым коллегам.  
-14. Моя подруга едет ко мне.  
-15. Мы завтра едем к нему.  
-16. Они вместе придут к ней сегодня.  
-17. Мои друзья сейчас дома. Я еду к ним.  
-18. Моя сестра работает в библиотеке. Я иду сейчас к ней.  
-19. Её муж работает в бюро.  
-20. Дети сейчас в театре. Я еду к ним.  
-21. Её дочь сейчас в школе. Потом она едет в клуб.  
-22. Мои родители сейчас в магазине. Потом они поедут к моему брату.  
-23. Мой друг живёт сейчас у своего дяди в Дортмунде.  
-24. Я сейчас у моей бабушки.  
-25. Почему ты не хочешь остаться у твоей подруги?  
-26. Они живут сейчас у своих друзей.  
-27. Останься у меня!  
-28. Можно мне остаться у вас?  
-29. Наша тётя живёт в Америке.  
-30. Я часто получаю письма из Америки.  
-31. Принеси мне эту книгу из дома, пожалуйста.  
-32. У него очень умные друзья из университета.  
-33. Он едет на работу из университета.  
-34. Они вместе идут из театра домой.  
-35. Мы сейчас едем от врача домой.  
-36. Он получает письма от своей тёти из Америки.  
-37. Она получает хорошие подарки от своих родителей ко дню рождения.  
-38. Эти старшие дети получают деньги от своих детей.  
-39. Они едут от меня на работу.  
-40. Откуда вы едете ко мне?
+6. Ты идёшь сегодня в театр?  Gehts du heute ins Theater?
+7. Кто едет в клуб?  Wer fährt heute in den Klub ?
+8. Когда ты хочешь пойти в магазин?  Wann willst du ins Geschäft gehen?
+9. Твой брат болен. Он должен пойти к врачу.  Dein Bruder ist krank. Er muss zum Arzt gehen
+10. Она едет к её дедушке за город.  Sie fährt zum Opa aufs Land 
+11. Она идёт к её красивой подруге.  Sie geht zu ihrer schönen Freundin 
+12. Вы едете к вашим старым друзьям?  Fahren Sie zu Ihren alten Freunden? Fahrt iht zu euren neuen Freunde?
+14. Мы едем к нашим новым коллегам.  Wir fahren zu unseren neuen Kollegen
+15. Моя подруга едет ко мне.  Meine Freundin fährt zu mir 
+16. Мы завтра едем к нему.  Wir fahren heute zu ihm
+17. Они вместе придут к ней сегодня. Sie kommen heute zusammen zu ihr
+18. Мои друзья сейчас дома. Я еду к ним.  Meine Freunde sind zu Hause. Ich fahre zu ihnen 
+19. Моя сестра работает в библиотеке. Я иду сейчас к ней.  Meine Schwester arbeitet in der Bibliothek. Ich fahre jetz zu ihr
+20. Её муж работает в бюро. Ihr Mann arbeitet im Buro
+21. Дети сейчас в театре. Я еду к ним.  Die Kinder sind im Teater. Ich fahre zu ihnen
+22. Её дочь сейчас в школе. Потом она едет в клуб.  Ihre Tocher ist jetz in der Schule. Dann farh sie in den Klub
+23. Мои родители сейчас в магазине. Потом они поедут к моему брату.  
+24. Мой друг живёт сейчас у своего дяди в Дортмунде.  Mein Freund liebt jetzt bei seinem Onkel in Dormund 
+25. Я сейчас у моей бабушки.  Ich bin jetzt bei meiner Oma 
+26. Почему ты не хочешь остаться у твоей подруги?  Warum möchestst du nicht bei deiner Freundin bleiben
+27. Они живут сейчас у своих друзей.  Sie leben jetzt bei ihren Freunden
+1. Останься у меня!  Bleib bei mir!
+2. Можно мне остаться у вас?  Kann ich bei ihnen bleiben. **“Kann ich bei euch bleiben?**
+3. Наша тётя живёт в Америке.  Unserer Tante liebt in Amerika 
+4. Я часто получаю письма из Америки.  Ich bekomme oft die Briefe aus Amerika  
+5. Принеси мне эту книгу из дома, пожалуйста.  Bitte bringen mir das Buch von zu Hause
+6. У него очень умные друзья из университета. Seine Freunde aus der Universität sind sehr klug.
+9. Он едет на работу из университета.  Er fährt von der Uni zur Arbeit
+10. Они вместе идут из театра домой.  Sie gehen zsusammen von Theater nach Hause
+11. Мы сейчас едем от врача домой.  Wir fahren jetzt vom Arzt nach Hause
+12. Он получает письма от своей тёти из Америки.  
+13. Она получает хорошие подарки от своих родителей ко дню рождения.  Sie bekommt gute Geschenke von ihren Altern zum Geburtstag
+14. Эти старшие дети получают деньги от своих детей.  
+15. Они едут от меня на работу.  
+16. Откуда вы едете ко мне?
 
 
 
 
 10.13 Переведите следующие предложения:
 
-1. Мои друзья сейчас в кафе.  
+1. Мои друзья сейчас в кафе.  Meine Freunde sind jetzt ins Kafe
 2. Мои вещи лежат в шкафу.  
 3. Моя тетрадь — в сумке.  
 4. Цветы стоят в большой вазе.  
@@ -324,8 +353,8 @@ Er will [[weder]] essen [[noch]] trinken
 
 10.19 Переведите следующие предложения, используя активную лексику урока:
 
-1. Как у тебя дела? Ты болен? Ты дома? Я приду к тебе завтра.  
-2. Тебе не нравится мой подарок? Как жаль! Но не беда, я подарю тебе ещё один подарок.  
+1. Как у тебя дела? Ты болен? Ты дома? Я приду к тебе завтра. Wie geht's dir? Bist du krank? Bleibst du zu Hause? Ich komme morgen zu dir 
+2. Тебе не нравится мой подарок? Как жаль! Но не беда, я подарю тебе ещё один подарок.  Gefällt dir mein Geschenk nicht? Wie schade! Aber keine Sorge, ich schenke dir noch ein Geschenk 
 3. У тебя болит голова? Нужно принять таблетку.  
 4. У тебя жар. Нужно померить температуру.  
 5. Ты сидишь на моём стуле. Иди на кухню.  

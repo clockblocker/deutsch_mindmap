@@ -1,1 +1,1 @@
-[[eines Tages werdet ihr sagen]], [[demnächst]], [[irgendwann]]
+[[eines Tages werdet ihr sagen]], [[demnächst]], [[irgendwann]], [[einmal]]

@@ -1,0 +1,3 @@
+|   |   |
+|---|---|
+||Laß mein Aug den Abschied sagen,  <br>Den mein Mund nicht nehmen kann!  <br>Schwer, wie schwer ist er zu tragen!  <br>Und ich bin doch sonst ein Mann.<br><br>Traurig wird in dieser Stunde  <br>Selbst der Liebe süßstes Pfand,  <br>Kalt der Kuß von deinem Munde,  <br>Matt der Druck von deiner Hand.<br><br>Sonst, ein leicht gestohlnes Mäulchen,  <br>O wie hat es mich entzückt!  <br>So erfreuet uns ein Veilchen,  <br>Das man früh im März gepflückt.<br><br>Doch ich pflücke nun kein Kränzchen,  <br>Keine Rose mehr für dich.  <br>Frühling ist es, liebes Fränzchen,  <br>Aber leider Herbst für mich!|

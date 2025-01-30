@@ -1,27 +1,24 @@
 https://www.youtube.com/watch?v=t3o7JyyaIwM
 
 
-###### 1
-Es war einmal ein Müller, der hatte drei Söhne, seine Mühle, einen Esel und einen Kater; die Söhne [[mußten]] mahlen, der Esel Getreide holen und Mehl forttragen, die Katze dagegen die Mäuse wegfangen.  [[Der gestiefelte Kater.md######1|(Quelle: Der gestiefelte Kater)]]
-###### . 
+Es war [[einmal]] ein [[Müller]], der hatte drei Söhne, seine Mühle, einen Esel und einen Kater; die Söhne [[mußten]] mahlen, der Esel Getreide holen und Mehl forttragen, die Katze dagegen die Mäuse wegfangen.  [[Der gestiefelte Kater.md######1|(Quelle: Der gestiefelte Kater)]]
 
+[[Der gestiefelte Kater#^1|(Quelle: Der gestiefelte Kater)]]
+Da war er traurig und sprach zu sich selbst: "Mir ist es doch recht schlimm [[ergangen]], mein ältester Bruder kann mahlen, mein zweiter auf seinem Esel reiten - was kann ich mit dem Kater anfangen? ^1
 
+[[Der gestiefelte Kater.md#^2|(Quelle: Der gestiefelte Kater)]]
+Ich laß mir ein Paar [[Pelzhandschuhe]] aus seinem Fell machen, dann ist's vorbei." ^2
 
-Als der Müller starb, teilten sich die drei Söhne in die Erbschaft: der älteste bekam die Mühle, der zweite den Esel, der dritte den Kater; weiter blieb nichts für ihn übrig. 
+[[Der gestiefelte Kater.md#^3|(Quelle: Der gestiefelte Kater)]]
+"Hör", fing der Kater an, der alles verstanden hatte, "du [[brauchst]] mich nicht zu töten, um ein Paar schlechte Handschuhe aus meinem Pelz zu kriegen; ^3
 
+[[Der gestiefelte Kater.md#^4|(Quelle: Der gestiefelte Kater)]]
+ laß mir nur ein Paar Stiefel machen, daß ich ausgehen und mich unter den Leuten sehen lassen kann, dann soll dir bald geholfen sein." ^4
+ 
+[[Der gestiefelte Kater.md#^5|(Quelle: Der gestiefelte Kater)]]
+ Der Müllersohn verwunderte sich, daß der Kater so sprach, weil aber eben der Schuster vorbeiging, rief er ihn herein und ließ ihm die Stiefel anmessen. ^5
 
-###### 2
-Da war er traurig und sprach zu sich selbst: "Mir ist es doch recht schlimm [[ergangen]], mein ältester Bruder kann mahlen, mein zweiter auf seinem Esel reiten - was kann ich mit dem Kater anfangen? [[Der gestiefelte Kater.md######2|(Quelle: Der gestiefelte Kater)]]
-###### . 
-
-
-   
-   
-Ich laß mir ein Paar Pelzhandschuhe aus seinem Fell machen, dann ist's vorbei."
-
-"Hör", fing der Kater an, der alles verstanden hatte, "du [[brauchst]] mich nicht zu töten, um ein Paar schlechte Handschuhe aus meinem Pelz zu kriegen;
-
- laß mir nur ein Paar Stiefel machen, daß ich ausgehen und mich unter den Leuten sehen lassen kann, dann soll dir bald geholfen sein." Der Müllersohn verwunderte sich, daß der Kater so sprach, weil aber eben der Schuster vorbeiging, rief er ihn herein und ließ ihm die Stiefel anmessen. Als sie fertig waren, zog sie der Kater an, nahm einen Sack, machte dessen Boden voll Korn, band aber eine Schnur drum, womit man ihn zuziehen konnte, dann warf er ihn über den Rücken und ging auf zwei Beinen, wie ein Mensch, zur Tür hinaus.
+ Als sie fertig waren, zog sie der Kater an, nahm einen Sack, machte dessen Boden voll Korn, band aber eine Schnur drum, womit man ihn zuziehen konnte, dann warf er ihn über den Rücken und ging auf zwei Beinen, wie ein Mensch, zur Tür hinaus.
 
 Damals regierte ein König im Land, der aß so gerne Rebhühner: es war aber eine Not, daß keine zu kriegen waren. Der ganze Wald war voll, aber sie waren so scheu, daß kein Jäger sie erreichen konnte. Das wußte der Kater, und gedachte seine Sache besserzumachen; als er in den Wald kam, machte er seinen Sack auf, breitete das Korn auseinander, die Schnur aber legte er ins Gras und leitete sie hinter eine Hecke. Da versteckte er sich selber, schlich herum und lauerte. Die Rebhühner kamen bald gelaufen, fanden das Korn - und eins nach dem andern hüpfte in den Sack hinein. Als eine gute Anzahl drinnen war, zog der Kater den Strick zu, lief herbei und drehte ihnen den Hals um; dann warf er den Sack auf den Rücken und ging geradewegs zum Schloß des Königs. Die Wache rief. "Halt! Wohin?" - "Zum König!" antwortete der Kater kurzweg. "Bist du toll, ein Kater und zum König?" - "Laß ihn nur gehen", sagte ein anderer, "der König hat doch oft Langeweile, vielleicht macht ihm der Kater mit seinem Brummen und Spinnen Vergnügen." Als der Kater vor den König kam, machte er eine tiefe Verbeugung und sagte: "Mein Herr, der Graf" - dabei nannte er einen langen und vornehmen Namen - "läßt sich dem Herrn König empfehlen und schickt ihm hier Rebhühner"; wußte der sich vor Freude nicht zu fassen und befahl dem Kater, soviel Gold aus der Schatzkammer in seinen Sack zu tun, wie er nur tragen könne: "Das bringe deinem Herrn, und danke ihm vielmals für sein Geschenk."
 

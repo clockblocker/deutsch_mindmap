@@ -31,18 +31,18 @@ Now, create the dictionary entry using the appropriate template based on your an
 
 1. For trennbar verbs:
    - Start with an appropriate emoji
-   - Include pronunciation, conjugations, synonyms, antonyms, English translation, morpheme breakdown, and a conjugation table
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
 
 2. For untrennbar verbs and verbs without prefixes:
    - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
 
 3. For adjectives:
    - Start with an appropriate emoji
-   - Include pronunciation, antonyms, synonyms, English translation, and unique possible forms
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
 
 4. For nouns:
    - Use \u{1F534} for feminine, \u{1F7E2} for neuter, and \u{1F535} for masculine nouns
-   - Include plural form, synonyms, English translation, morpheme breakdown, and unique possible forms
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
 
 5. For other parts of speech:
    - Create a similar template, adapting the information as appropriate for the specific part of speech
@@ -65,6 +65,7 @@ verfeinden
 
 ---
 to make enemies, to set at odds
+\u043F\u043E\u0441\u0441\u043E\u0440\u0438\u0442\u044C, \u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0432\u0440\u0430\u0433\u0430\u043C\u0438
 
 ---
 [[ver]]|[[fein]]|[den]]
@@ -105,6 +106,7 @@ die [[Hoffnungen]]
 
 ---
 hope
+\u043D\u0430\u0434\u0435\u0436\u0434\u0430
 
 ---
 [[Hoff]]|[[nung]]
@@ -373,7 +375,7 @@ Der [[flei\xDFig|flei\xDFige]] [[Student]] [[anfangen|f\xE4ngt]] an, das [[schwi
 </example>
 
 <example>
-(Schubst Sokka weg)\xA0Genau, er ist bestimmt ein Spion der Feuermarine! Das sieht man schon an dem furchtbar b\xF6sen Blick in seinen Augen!
+(Schubst Sokka weg) Genau, er ist bestimmt ein Spion der Feuermarine! Das sieht man schon an dem furchtbar b\xF6sen Blick in seinen Augen!
 ([[wegschubsen|Schubst]] [[schubsen|Sokka]] weg) Genau, er ist [[bestimmt]] ein [[Spion]] der [[Feuermarine]]! Das [[sehen|sieht]] man [[schon]] an dem [[furchtbar|furchtbare]] [[b\xF6se|b\xF6sen]] [[Blick]] in seinen [[Auge|Augen]]!
 </example>
 
@@ -416,16 +418,13 @@ output:
 No worry. With water can one wash it off.
 </example>`};var k=class{constructor(i){this.settings=i}async fetchTemplate(i){return this.makeRequest(i,p.generate_dictionary_entry)}async determineInfinitiveAndEmoji(i){return this.makeRequest(i,p.determine_infinitive_and_pick_emoji)}async makeBrackets(i){return this.makeRequest(i,p.make_brackets)}async translateText(i){return this.makeRequest(i,p.translate_text)}async makeRequest(i,t){let e="https://api.anthropic.com/v1/messages",n={"Content-Type":"application/json","x-api-key":this.settings.anthropicKey,"anthropic-version":"2023-06-01"},r={model:"claude-3-5-haiku-20241022",max_tokens:1024,system:[{type:"text",text:t,cache_control:{type:"ephemeral"}}],messages:[{role:"user",content:i}]};try{let a=await(0,C.requestUrl)({url:e,method:"POST",contentType:"application/json",body:JSON.stringify(r),headers:n});return JSON.stringify(a)}catch(a){return a+`
 
-`+JSON.stringify({url:e,method:"POST",headers:n,body:r})}}};var g=require("obsidian"),v=class{constructor(i){this.vault=i}async appendToFile(i,t){let e=this.vault.getAbstractFileByPath(i);if(!e){try{await this.vault.create(i,t)}catch(n){new g.Notice(`Error creating file: ${n.message}`)}return}if(!(e instanceof g.TFile)){new g.Notice(`File ${i} does not exist or is not a valid file!`);return}try{let r=await this.vault.read(e)+t;await this.vault.modify(e,r)}catch(n){new g.Notice(`Error appending to file: ${n.message}`)}}async doesFileContainContent(i,t){let e=this.vault.getAbstractFileByPath(i);return!e||!(e instanceof g.TFile)?null:(await this.vault.read(e)).includes(t)}};var y=class extends u.Plugin{async onload(){await this.loadSettings(),this.apiService=new k(this.settings),this.fileService=new v(this.app.vault),this.addCommand({id:"backlink-all-to-current-file",name:"Add backlinks to the current file in all referenced files",editorCallback:async(t,e)=>{var f,_;let n=(f=e.file)==null?void 0:f.name;if(!e.file||!n){new u.Notice("Current file is missing a title");return}let{metadataCache:r,vault:a}=this.app,l=r.getFileCache(e.file),o=(_=l==null?void 0:l.links)!=null?_:[],s=[];for(let h of o){let c=h.link,m=r.getFirstLinkpathDest(c,e.file.path);m instanceof u.TFile?s.push({name:c,path:m.path}):s.push({name:c,path:null})}for(let h of s)try{let c,m=`[[${n.split(".")[0]}]]`;if(h.path)c=h.path;else{let x=`Worter/${h.name[0].toUpperCase()}`;a.getAbstractFileByPath(x)||await a.createFolder(x),c=`${x}/${h.name}.md`}await this.fileService.doesFileContainContent(c,m)||await this.fileService.appendToFile(c,`, ${m}`)}catch(c){new u.Notice(`Error processing link ${h.name}: ${c.message}`)}}}),this.addCommand({id:"fill-template",name:"Fill the template for the word in the title of the file",editorCallback:async(t,e)=>{var o,s;let n=(o=e.file)==null?void 0:o.name;if(!n){new u.Notice("Current file is missing a title");return}let r=n.slice(0,-3),a=await this.apiService.fetchTemplate(r),l=this.extractContentFromResponse(a);l&&((s=e==null?void 0:e.file)!=null&&s.path)&&await this.fileService.appendToFile(e.file.path,l)}}),this.addCommand({id:"get-infinitive-and-emoji",name:"Get infinitive form and emoji for current word",editorCallback:async(t,e)=>{var l,o;let n=(l=e.file)==null?void 0:l.name;if(!n){new u.Notice("Current file is missing a title");return}let r=await this.apiService.determineInfinitiveAndEmoji(n),a=this.extractContentFromResponse(r);a&&((o=e==null?void 0:e.file)!=null&&o.path)&&await this.fileService.appendToFile(e.file.path,a)}}),this.addCommand({id:"duplicate-selection",name:"Duplicate selected text and process with brackets",editorCallback:async t=>{let e=t.getSelection();if(e){let n=t.getCursor(),r=await this.apiService.makeBrackets(e),a=this.extractContentFromResponse(r);a&&(t.replaceSelection(e+`
+`+JSON.stringify({url:e,method:"POST",headers:n,body:r})}}};var g=require("obsidian"),v=class{constructor(i){this.vault=i}async appendToFile(i,t){let e=this.vault.getAbstractFileByPath(i);if(!e){try{await this.vault.create(i,t)}catch(n){new g.Notice(`Error creating file: ${n.message}`)}return}if(!(e instanceof g.TFile)){new g.Notice(`File ${i} does not exist or is not a valid file!`);return}try{let r=await this.vault.read(e)+t;await this.vault.modify(e,r)}catch(n){new g.Notice(`Error appending to file: ${n.message}`)}}async doesFileContainContent(i,t){let e=this.vault.getAbstractFileByPath(i);return!e||!(e instanceof g.TFile)?null:(await this.vault.read(e)).includes(t)}};var y=class extends u.Plugin{async onload(){await this.loadSettings(),this.apiService=new k(this.settings),this.fileService=new v(this.app.vault),this.addCommand({id:"backlink-all-to-current-file",name:"Add backlinks to the current file in all referenced files",editorCallback:async(t,e)=>{var f,_;let n=(f=e.file)==null?void 0:f.name;if(!e.file||!n){new u.Notice("Current file is missing a title");return}let{metadataCache:r,vault:a}=this.app,o=r.getFileCache(e.file),l=(_=o==null?void 0:o.links)!=null?_:[],s=[];for(let h of l){let c=h.link,m=r.getFirstLinkpathDest(c,e.file.path);m instanceof u.TFile?s.push({name:c,path:m.path}):s.push({name:c,path:null})}for(let h of s)try{let c,m=`[[${n.split(".")[0]}]]`;if(h.path)c=h.path;else{let x=`Worter/${h.name[0].toUpperCase()}`;a.getAbstractFileByPath(x)||await a.createFolder(x),c=`${x}/${h.name}.md`}await this.fileService.doesFileContainContent(c,m)||await this.fileService.appendToFile(c,`, ${m}`)}catch(c){new u.Notice(`Error processing link ${h.name}: ${c.message}`)}}}),this.addCommand({id:"fill-template",name:"Fill the template for the word in the title of the file",editorCallback:async(t,e)=>{var l,s;let n=(l=e.file)==null?void 0:l.name;if(!n){new u.Notice("Current file is missing a title");return}let r=n.slice(0,-3),a=await this.apiService.fetchTemplate(r),o=this.extractContentFromResponse(a);o&&((s=e==null?void 0:e.file)!=null&&s.path)&&await this.fileService.appendToFile(e.file.path,o)}}),this.addCommand({id:"get-infinitive-and-emoji",name:"Get infinitive form and emoji for current word",editorCallback:async(t,e)=>{var o,l;let n=(o=e.file)==null?void 0:o.name;if(!n){new u.Notice("Current file is missing a title");return}let r=await this.apiService.determineInfinitiveAndEmoji(n),a=this.extractContentFromResponse(r);a&&((l=e==null?void 0:e.file)!=null&&l.path)&&await this.fileService.appendToFile(e.file.path,a)}}),this.addCommand({id:"duplicate-selection",name:"Duplicate selected text and process with brackets",editorCallback:async t=>{let e=t.getSelection();if(e){let n=t.getCursor(),r=await this.apiService.makeBrackets(e),a=this.extractContentFromResponse(r);a&&(t.replaceSelection(e+`
 
 `+a+`
 `),t.setCursor({line:n.line,ch:n.ch+e.length}))}}}),this.addCommand({id:"translate-selection",name:"Translate selected text and show below",editorCallback:async t=>{let e=t.getSelection();if(e){let n=t.getCursor(),r=await this.apiService.translateText(e),a=this.extractContentFromResponse(r);a&&(t.replaceSelection(e+`
 
 `+a+`
-`),t.setCursor({line:n.line,ch:n.ch+e.length}))}}}),this.addCommand({id:"format-selection-with-number",name:"Format selection with next number and source link",editorCallback:async(t,e)=>{var f;let n=t.getSelection();if(!n){new u.Notice("No text selected");return}let r=(f=e.file)==null?void 0:f.name;if(!r){new u.Notice("Current file is missing a title");return}let a=t.getValue(),o=this.findHighestNumber(a)+1,s=`###### ${o}
-${n} [[${r}######${o}|(Quelle: ${r.replace(".md","")})]]`;await navigator.clipboard.writeText(n+` [[${r}######${o}|(Quelle: ${r.replace(".md","")})]]
-`),t.replaceSelection(`
-${s}
-###### . 
-
-`)}}),this.addSettingTab(new b(this.app,this))}async loadSettings(){this.settings=Object.assign({},F,await this.loadData())}async saveSettings(){await this.saveData(this.settings)}extractContentFromResponse(t){var e,n,r,a,l,o;try{let s=JSON.parse(t);return((r=(n=(e=s==null?void 0:s.json)==null?void 0:e.content)==null?void 0:n[0])==null?void 0:r.text)||((o=(l=(a=s==null?void 0:s.json)==null?void 0:a.content)==null?void 0:l[0])==null?void 0:o.text)||""}catch(s){return""}}findHighestNumber(t){let e=t.match(/###### (\d+)/g);if(!e)return 0;let n=e.map(r=>{let a=r.replace("###### ","");return parseInt(a,10)});return Math.max(0,...n)}};
+`),t.setCursor({line:n.line,ch:n.ch+e.length}))}}}),this.addCommand({id:"format-selection-with-number",name:"Format selection with next number and source link",editorCallback:async(t,e)=>{var f;let n=t.getSelection();if(!n){new u.Notice("No text selected");return}let r=(f=e.file)==null?void 0:f.name;if(!r){new u.Notice("Current file is missing a title");return}let a=t.getValue(),l=this.findHighestNumber(a)+1,s=`[[${r}#^${l}|(Quelle: ${r.replace(".md","")})]]`;await navigator.clipboard.writeText(`${n} ${s} 
+`),t.replaceSelection(`${s}
+${n} ^${l}
+`)}}),this.addSettingTab(new b(this.app,this))}async loadSettings(){this.settings=Object.assign({},F,await this.loadData())}async saveSettings(){await this.saveData(this.settings)}extractContentFromResponse(t){var e,n,r,a,o,l;try{let s=JSON.parse(t);return((r=(n=(e=s==null?void 0:s.json)==null?void 0:e.content)==null?void 0:n[0])==null?void 0:r.text)||((l=(o=(a=s==null?void 0:s.json)==null?void 0:a.content)==null?void 0:o[0])==null?void 0:l.text)||""}catch(s){return""}}findHighestNumber(t){let e=t.match(/#\^(\d+)/g);if(!e)return 0;let n=e.map(r=>{let a=r.replace("#^","");return parseInt(a,10)});return Math.max(0,...n)}};

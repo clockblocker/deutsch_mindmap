@@ -1,8 +1,9 @@
 🌟 [[großartig]], [ˈɡʁoːsˈʔaʁtɪç] = 
 
 ---
-[[toll]]
+du machst das [[grossartich]]
 
+[[toll]]
 
 ---
 = 🌟 [[toll]], [[hervorragend]], [[ausgezeichnet]], [[überragend]]

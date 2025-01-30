@@ -6,7 +6,7 @@ Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
 
 ---
-= [[Vorwort]], [[Eröffnung]], [[Hinführung]], [[Vorstellung]]
+= [[Worter/V/Vorwort]], [[Eröffnung]], [[Hinführung]], [[Vorstellung]]
 ≈ [[Einleitung]], [[Überblick]], [[Einstieg]], [[Erklärung]]
 ≠ [[Schluss]], [[Abschluss]], [[Zusammenfassung]], [[Ende]]
 
