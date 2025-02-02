@@ -39,4 +39,4 @@ Partizip I: [[sehend]], Partizip II: [[gesehen]]
 
 
 [[wiedersehen]], [[ansehen]], [[aussehen]]
-, [[gucken]], [[sehen lassen]], [[umsehen]], [[anderessehen]], [[aufsehen]], [[anblicken]], [[s1 e1]]
+, [[gucken]], [[sehen lassen]], [[umsehen]], [[anderessehen]], [[aufsehen]], [[anblicken]], [[s1 e1]], [[Ansichtskarte]]

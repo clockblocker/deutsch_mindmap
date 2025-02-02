@@ -1,6 +1,4 @@
-🚨 [[müssen]]  
-[[musste]]  
-haben [[gemusst]]
+🔨 [[müssen]], [ˈmʏsən] | [[musste]], haben [[gemusst]]
 
 ---
 Es war einmal ein Müller, der hatte drei Söhne, seine Mühle, einen Esel und einen Kater; die Söhne [[mußten]] mahlen, der Esel Getreide holen und Mehl forttragen, die Katze dagegen die Mäuse wegfangen.  [[Der gestiefelte Kater.md######1|(Quelle: Der gestiefelte Kater)]]
@@ -14,57 +12,29 @@ SAM: Ich [[muss]] euch etwas sagen ...
 
 Ich habe gemacht was ich tun [[musste]]
 
-
+---
+= [[benötigen]], [[erforderlich sein]], [[notwendig sein]]
+≈ [[sollen]], [[haben zu]], [[gezwungen sein]]
+≠ [[dürfen]], [[können]], [[wollen]]
 
 ---
-
-**Synonyme:**
-
-- [[nötig sein]], [[gezwungen sein]], [[verpflichtet sein]]
+must, to have to, to be obliged to
+должен, быть обязанным
 
 ---
-
-**Beispiele:**
-
-- Ich [[muss]] zur Arbeit gehen.
-- Du [[musst]] das Essen kochen.
-- Er [[muss]] seine Hausaufgaben machen.
-- Es [[muss]] funktionieren.
-- Sie [[muss]] sich beeilen.
-- Wir [[müssen]] den Müll rausbringen.
-- Ihr [[müsst]] pünktlich sein.
-- Sie [[müssen]] die Regeln befolgen.
+[[müss]]|[[en]]
 
 ---
+ich: [[muss]], [[musste]], –, [[müsse]], [[müsste]]
+du: [[musst]], [[musstest]], [[müsse]] | [[müss]] | [[müsse]], [[müssest]], [[musstest]]
+er/sie/es: [[muss]], [[musste]], –, [[müsse]], [[müsste]]
+wir: [[müssen]], [[mussten]], [[müssen wir|müssen]], [[müssen]], [[mussten]]
+ihr: [[müsst]], [[musstet]], [[müsst]], [[müsset]], [[musstet]]
 
-**Übersetzung**:
-to have to, must
-
----
- #Verb  #Modalverb
-
----
-
-**Präteritum:**
-
-- Ich [[musste]] zur Arbeit gehen.
-- Du [[musstest]] das Essen kochen.
-- Er [[musste]] seine Hausaufgaben machen.
-- Es [[musste]] funktionieren.
-- Sie [[musste]] sich beeilen.
-- Wir [[mussten]] den Müll rausbringen.
-- Ihr [[musstet]] pünktlich sein.
-- Sie [[mussten]] die Regeln befolgen.
+PI: [[müssend]], PII: [[gemusst]], Zu+inf: [[zu müssen]]
 
 ---
-
-**Imperativ:**
-
-- (Imperative forms are not used with modal verbs)
+[[müssen]] = modal verb indicating necessity or obligation
 
 ---
-
-**Morphems of only infinitive:**  
-- [[müss]][[en]]
-
-, [[sollen]], [[s1 e1]]
+[[Müssen]], [[Notwendigkeit]], [[obligatorisch]], [[unumgänglich]]

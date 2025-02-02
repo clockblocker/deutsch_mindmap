@@ -29,3 +29,4 @@ P: [[friedlichen]], [[friedlicheren]], [[friedlichsten]]
 [[Friede]], [[friedfertig]], [[befrieden]], [[Friedlichkeit]], [[unfriedlich]]
 
 [[ruhig]], [[unheimlich]], [[beruhig]], [[beruhigenden]], [[zornig]], [[aufgebracht]], [[wütend]], [[gereizt]]
+, [[unruhig]]

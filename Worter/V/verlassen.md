@@ -45,4 +45,4 @@ Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 
 [[verlassen]] - [[ver]] = [[lassen]]
 
-[[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]], [[eintreten]], [[Worterparken]], [[verbringen]], [[Deutschland]], [[einziehen]], [[beitreten]], [[einreisen]], [[beziehen]], [[zusteuern]], [[besetzen]], [[beistehen]], [[s1 e1]]
+[[wiedersehen]], [[ausgehen]], [[heiraten]], [[einsam]], [[hinterherlaufen]], [[zurückkehren]], [[betreten]], [[führen]], [[bewohnen]], [[wohnen]], [[verfolgen]], [[ausziehen]], [[eintreten]], [[Worterparken]], [[verbringen]], [[Deutschland]], [[einziehen]], [[beitreten]], [[einreisen]], [[beziehen]], [[zusteuern]], [[besetzen]], [[beistehen]], [[s1 e1]], [[weinen]]

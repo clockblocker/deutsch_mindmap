@@ -1,1 +1,1 @@
-, [[verderben]], [[verbessern]], [[bessern]]
+, [[verderben]], [[verbessern]], [[bessern]], [[Schlecht]]

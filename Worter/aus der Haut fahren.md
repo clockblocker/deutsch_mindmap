@@ -1,0 +1,1 @@
+[[aus]] der [[Haut]] [[fahren]] выйти из себя  

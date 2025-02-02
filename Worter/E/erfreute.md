@@ -1,1 +1,1 @@
-, [[erfreut]]
+, [[erfreut]], [[erfreuen]]

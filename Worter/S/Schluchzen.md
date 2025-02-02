@@ -1,1 +1,1 @@
-[[Tränen]]
+[[Tränen]], [[weinen]]

@@ -4,6 +4,8 @@ die [[Sessel]]
 ---
  Nur meine Katze bleibt bei mir. Sie sitzt [[bequem]] auf dem [[Sessel]] und [[schläft]].
 
+11. Leg diese Sachen in den Schrank. Warum liegen sie auf dem [[Sessel]]?  
+
 
 ---
 = [[Stuhl]], [[Lehnstuhl]]

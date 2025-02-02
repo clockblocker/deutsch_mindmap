@@ -6,7 +6,7 @@ Und du mein [[tapferer]] Krieger. Sei schön nett zu deiner Schwester. *Umarmt i
 
 ---
 = [[herzen]], [[drücken]], [[umschlingen]]
-≈ [[festhalten]], [[küssen]], [[anschmiegen]]
+≈ [[festhalten]], [[Küssen]], [[anschmiegen]]
 ≠ [[abstoßen]], [[zurückweisen]], [[ablehnen]]
 
 ---

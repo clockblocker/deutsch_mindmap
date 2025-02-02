@@ -7,8 +7,6 @@ Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus un
 
 Aber [[irgendwie]] macht der Rechner nicht das, was er tun soll. [[Schon]] das [[Hochfahren]] [[klappt]] nicht immer, ein neuer Browser lässt sich nicht installieren, und dann ist da immer wieder diese [[seltsame]] [[Fehlermeldung]]. 
 
-
-
 ---
 Synonyme: [[funktionieren]], [[gelingen]], [[glücken]], [[aufgehen]], [[sich ergeben]]
 Antonyme: [[misslingen]], [[scheitern]], [[fehlschlagen]], [[nicht funktionieren]]

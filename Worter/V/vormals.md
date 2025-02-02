@@ -1,1 +1,1 @@
-, [[ehemaligen]], [[letzen]], [[vorherigen]], [[folgenden]]
+, [[ehemaligen]], [[letzen]], [[vorherigen]], [[folgenden]], [[kürzlich]]

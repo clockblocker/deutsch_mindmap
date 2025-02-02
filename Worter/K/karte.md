@@ -23,4 +23,4 @@ Morphems:
 #Substantiv #Feminin
 
 
-, [[Wiederholungskarte]]
+, [[Wiederholungskarte]], [[Ansichtskarte]]

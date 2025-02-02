@@ -1,1 +1,1 @@
-[[Brieffreunde]], [[Briefwahl]], [[Briefumschlag]], [[Briefgeheimnis]]
+[[Brieffreunde]], [[Briefwahl]], [[Briefumschlag]], [[Briefgeheimnis]], [[Ansichtskarte]]

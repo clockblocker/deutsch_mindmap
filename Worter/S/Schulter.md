@@ -22,4 +22,4 @@ Genitive: der [[Schulter]], der [[Schultern]]
 Dative: der [[Schulter]], den [[Schultern]]  
 
 ---
-[[schultern]], [[schulterzuckend]], [[schulterbreit]], [[schulterfrei]]
+[[schultern]], [[schulterzuckend]], [[schulterbreit]], [[schulterfrei]], [[rücken]]

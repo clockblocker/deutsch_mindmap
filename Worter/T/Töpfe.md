@@ -1,1 +1,1 @@
-, [[Topf]]
+, [[Topf]], [[Kochgeschirr]]

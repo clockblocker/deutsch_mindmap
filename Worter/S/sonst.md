@@ -1,11 +1,17 @@
 🟢 [[sonst]], [zɔnst]
 
 ---
-Maggie isst kein Brot, [[sonst]] wird ihr schlecht.
+Maggie isst kein Brot, [[sonst]] wird ihr [[schlecht]].
 
 Habt ihr [[sonst]] noch Fragen?
 - Eisenteller nicht mitwaschen. [[Sonst]] Rostflecken.
 - Sterben, schlafen und [[sonst nichts]].  
+
+*Sonst, ein leicht [[gestohlnes]] [[Mäulchen]],*  
+*O wie hat es mich [[entzückt]]!*  
+*So [[erfreuet]] uns ein [[Veilchen]],*  
+*Das man früh im März [[gepflückt]]. [[Der Abschied.md#^3|(Quelle: Der Abschied)]]* 
+
 
 *Miau! Mio! Miau! Mio!*  
 *laß stehn! [[sonst]] brennst du lichterloh!

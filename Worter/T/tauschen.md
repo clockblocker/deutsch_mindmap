@@ -3,3 +3,4 @@
 
 [[umtauschen]] - [[um]] = [[tauschen]]   // to exchange, to swap
 [[austauschen]] - [[aus]] = [[tauschen]] / to exchange, to swap, to replace
+, [[angeln]]

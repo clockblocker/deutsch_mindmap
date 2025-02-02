@@ -5,6 +5,17 @@ haben [[gepflückt]]
 ---
 Die Gärtnerin bricht die Blumen. (Sie [[pflückt]] sie; lit.)
 
+*Sonst, ein leicht [[gestohlnes]] [[Mäulchen]],*  
+*O wie hat es mich [[entzückt]]!*  
+*So [[erfreuet]] uns ein [[Veilchen]],*  
+*Das man früh im März [[gepflückt]]. [[Der Abschied.md#^3|(Quelle: Der Abschied)]]* 
+
+Doch ich [[pflücke]] nun kein [[Kränzchen]],  
+Keine Rose mehr für dich.  
+Frühling ist es, liebes [[Fränzchen]],  
+Aber leider Herbst für mich! [[Der Abschied.md#^4|(Quelle: Der Abschied)]] 
+
+
 ---
 Synonyme: [[pflücken]], [[ernten]], [[abpflücken]], [[abbrechen]], [[rupfen]]
 Antonyme: [[einpflanzen]], [[hegen]], [[wachsen lassen]]

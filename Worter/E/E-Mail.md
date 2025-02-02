@@ -1,1 +1,1 @@
-, [[Briefumschlag]]
+, [[Briefumschlag]], [[Ansichtskarte]]

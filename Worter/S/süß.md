@@ -2,12 +2,11 @@
 [[süßer]]
 [[am]] [[süßesten]]
 
-Synonyme:
-- [[zuckrig]]
-- [[Lecker]]
-- [[angenehm 1]]
 ---
-ANNA: Aber er ist so [[süß]] …
+*Traurig wird in dieser Stunde*  
+*Selbst der Liebe [[süßstes]] [[Pfand]],*  
+*Kalt der [[Kuß]] von deinem Munde,*  
+*[[Matt]] der [[Druck]] von deiner Hand.* *[[Der Abschied.md#^2|(Quelle: Der Abschied)]]* 
 
 ---
 Beispiele:

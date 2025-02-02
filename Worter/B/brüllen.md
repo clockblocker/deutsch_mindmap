@@ -27,4 +27,4 @@ PI: [[brüllend]], PII: [[gebrüllt]], Zu+inf: [[zubrüllen]]
 [[brüllen]] / to roar, to bellow, to yell
 
 ---
-[[Brüllen]], [[Brüller]], [[brüllend]], [[Gebrüll]], [[Brüllerei]]
+[[Brüllen]], [[Brüller]], [[brüllend]], [[Gebrüll]], [[Brüllerei]], [[lachen]]

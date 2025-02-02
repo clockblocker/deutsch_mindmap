@@ -1,0 +1,1 @@
+wie [[Hund]] und [[Katze]] sein - жить как кошка с собакой  

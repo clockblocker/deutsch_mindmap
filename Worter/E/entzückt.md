@@ -1,1 +1,2 @@
 , [[erfreut]], [[begeistert]]
+🤩 [[entzücken]] | 😍 [[entzückt]]

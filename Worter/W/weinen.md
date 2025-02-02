@@ -1,9 +1,7 @@
-😢 [[weinen]]
-[[weinte]]
-haben [[geweint]]
+😭 [[weinen]], [ˈvaɪ̯nən] | [[weinte]], haben [[geweint]]
 
 ---
-*Der bitterböse Friederich,*  
+Der bitterböse Friederich,*  
 *der schrie und [[weinte]] bitterlich.*  
 
 *Hast viel [[geweint]] (geweint, geweint, geweint, geweint)*  
@@ -11,71 +9,28 @@ haben [[geweint]]
 *Ich will dich nie [[verlassen]] (du [[weinst]], du weinst, du weinst, du weinst)*  
 
 ---
-
-Synonyme:
-- [[heulen]], [[schluchzen]], [[flennen]]
-
----
-
-Beispiele:
-
-- Das Kind [[weint]] um sein Spielzeug.
-- Du [[weinst]] wegen des Films.
-- Er [[weint]] vor Freude.
-- Wir [[weinen]] zusammen.
-- Ihr [[weint]] über den Verlust.
-- Sie [[weinen]] in der Nacht.
+= [[heulen]], [[schluchzen]], [[greinen]]
+≈ [[trauern]], [[jammern]], [[klagen]], [[sich ausweinen]]
+≠ [[lachen]], [[jubeln]], [[frohlocken]], [[grinsen]],
 
 ---
-**Übersetzung**: to cry
+to cry, to weep
+плакать
 
 ---
-
-Morphems of only infinitive:
-[[Wein]][[en]]
+[[wei]]|[[nen]]
 
 ---
-Tags:
-#Verb #Regelmäßig
+ich: [[weine]], [[weinte]], –, [[weine]], [[weinte]]
+du: [[weinst]], [[weintest]], [[weine]] | [[wein]] | [[weine]], [[weinest]], [[weintest]]
+er/sie/es: [[weint]], [[weinte]], –, [[weine]], [[weinte]]
+wir: [[weinen]], [[weinten]], [[weinen wir|weinen]], [[weinen]], [[weinten]]
+ihr: [[weint]], [[weintet]], [[weint]], [[weinet]], [[weinetet]] 
+
+PI: [[weinend]], PII: [[geweint]], Zu+inf: [[zuweinen]]
 
 ---
-
-Präteritum:
-
-- Ich [[weinte]] gestern.
-- Du [[weintest]] nach dem Streit.
-- Er [[weinte]] leise.
-- Wir [[weinten]] bei der Nachricht.
-- Ihr [[weintet]] vor Freude.
-- Sie [[weinten]] wegen des Abschieds.
+[[weinen]] / to cry, to weep
 
 ---
-
-Imperativ:
-
-- [[Weine]] nicht so viel!
-- [[weint]] leise!
-- [[Weinen wir]] zusammen!
-- [[Weinen Sie]] nicht!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[Weine]] selten.
-- Sie meint, du [[weinst]] oft.
-- Er behauptet, er [[Weine]] heimlich.
-- Wir erklären, wir [[weinen]] manchmal.
-- Ihr sagt, ihr [[weinet]] bei Filmen.
-- Sie sagen, sie [[weinen]] vor Freude.
-
----
-
-Konjunktiv II:
-
-- Wenn ich traurig wäre, [[weinte]] ich laut.
-- Wenn du verletzter wärest, [[weintest]] du mehr.
-- Wenn er sich ärgern würde, [[weinte]] er leise.
-- Wenn wir uns erinnern würden, [[weinten]] wir gemeinsam.
-- Wenn ihr sensibler wäret, [[weintet]] ihr schneller.
-- Wenn sie glücklich wären, [[weinten]] sie vor Freude.[[lachen]], [[grinsen]], [[jubeln]]
+[[Weinen]], [[weinend]], [[Träne]], [[weinerlich]], [[Heulerei]], [[Schluchzen]]

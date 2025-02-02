@@ -2,6 +2,8 @@ sauber, [ˈzaʊ̯bɐ]
 nicht [[schmutzig]]
 
 ---
+Im Haus waren zwei kleine [[saubere]] Zimmer, mit neuen Stühlen, Tischen und Betten, eine [[saubere]] Küche mit schönem [[Kochgeschirr]]. [[12 Past#^6|(Quelle: 12 Past)]] 
+
 Sehen wir einmal, welches [[sauberer]] wird …  
 
 ---

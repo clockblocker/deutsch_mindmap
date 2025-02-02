@@ -4,6 +4,8 @@ nicht [[unwahrscheinlich]]
 ---
 Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. Egal, wie man sich [[anstellt]], es klappt nicht! Da muss der [[Wurm]] [[drin]] sein …
 
+Max: Ach so! Schade! Aber du musst unbedingt dein Studium in der Uni beenden! [[Wahrscheinlich]] hast du Unterricht noch!
+
 Das ist möglich, aber nicht sehr [[wahrscheinlich]].
 
 Wissenschaftler sagen, dass es [[wahrscheinlich]] ein [[trockener]] Sommer wird.

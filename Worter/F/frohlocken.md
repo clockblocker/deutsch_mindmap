@@ -1,1 +1,1 @@
-, [[seufzen]], [[heulen]], [[stöhnen]], [[jubeln]]
+, [[seufzen]], [[heulen]], [[stöhnen]], [[jubeln]], [[weinen]]

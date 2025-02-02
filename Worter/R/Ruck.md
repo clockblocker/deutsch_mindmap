@@ -1,5 +1,5 @@
 🔵 der [[Ruck]], [ʁʊk]
-die [[Rücke]]
+die [[rücke]]
 
 
 ---
@@ -17,7 +17,7 @@ Morpheme:
 [[Ruck]]
 
 ---
-Einzigartige mögliche Formen: [[Rucks]], [[Rucke]], [[Rucken]], [[Rücken]]
+Einzigartige mögliche Formen: [[Rucks]], [[Rucke]], [[Rucken]], [[rücken]]
 
 ---
 #Substantiv #Maskulin, [[s1 e1]]

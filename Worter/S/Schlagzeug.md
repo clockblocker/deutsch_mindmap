@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 Verwandte Begriffe:
 - [[Schlagzeuger]]
 - [[Schlagzeugstock]]
-- [[Schlagzeugspiel]]
+- [[Schlagzeugspiel]], [[Geige]]

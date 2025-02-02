@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kochs]], [[Köchen]], [[Köche]], [[Köchen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Kochgeschirr]]

@@ -1,1 +1,1 @@
-[[abholen]][[holen]], [[herholen]], [[nachholen]], [[einholen]], [[Wiederholungskarte]]
+[[abholen]][[holen]], [[herholen]], [[nachholen]], [[einholen]], [[Wiederholungskarte]], [[Wiederholung]]

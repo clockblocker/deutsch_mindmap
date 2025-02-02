@@ -47,7 +47,7 @@ Herr Scott, Sie haben Schokoflocken zum Frühstück gegessen …
 So - ich muss Ihnen eine [[Spritze]] geben …  
 SAM: Eine Spritze?  
 NIC: Ja! Eine Spritze! Bitte [[bücken]] Sie sich!  
-SAM: Nein danke, Nic - ich muss gehen! Aahh! Mein [[Rücken]]!  
+SAM: Nein danke, Nic - ich muss gehen! Aahh! Mein [[rücken]]!  
 NIC: Schon gut, schon gut! Ich kann helfen! Ich bin Arzt!  
 SASCHA: Es ist offen!  
 MARIA: Tra- rah!  

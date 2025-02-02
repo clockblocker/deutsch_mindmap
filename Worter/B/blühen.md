@@ -26,4 +26,4 @@ Morpheme: [[blüh]][[en]]
 | Sie | [[blühen]] | [[blühten]] | [[blühen Sie]] | [[blühen]] | [[blühten]] |
 
 Partizip I: [[blühend]], Partizip II: [[geblüht]]
-, [[Blumenwiese]]
+, [[Blumenwiese]], [[Veilchen]]

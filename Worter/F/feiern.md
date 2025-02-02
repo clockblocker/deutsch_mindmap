@@ -34,4 +34,4 @@ PI: [[feiernd]], PII: [[gefeiert]], Zu+inf: [[zu feiern]]
 [[feiern]] - root: [[Feier]] / to celebrate, to party
 
 ---
-[[Feier]], [[Feierlichkeit]], [[Fest]], [[Feiertag]], [[festlich]], [[Feierei]]
+[[Feier]], [[Feierlichkeit]], [[Fest]], [[Feiertag]], [[festlich]], [[Feierei]], [[müssen]]

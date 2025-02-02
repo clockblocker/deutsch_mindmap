@@ -1,1 +1,1 @@
-, [[Brauch]]
+, [[Brauch]], [[gewöhnlich]]

@@ -1,1 +1,1 @@
- [[lachen]][[lacht ihr nur]], [[auslachen]]
+ [[lachen]], [[lacht ihr nur]], [[auslachen]]

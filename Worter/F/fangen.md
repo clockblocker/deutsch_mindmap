@@ -44,4 +44,4 @@ Morpheme: [[fang]][[en]]
 Partizip I: [[fangend]], Partizip II: [[gefangen]]
 
 [[werfen]], [[anfangen]], [[entwischen]], [[stoßen]], [[schleudern]]
-, [[auffangen]], [[schnappen]], [[empfangen]], [[s1 e1]]
+, [[auffangen]], [[schnappen]], [[empfangen]], [[s1 e1]], [[angeln]]

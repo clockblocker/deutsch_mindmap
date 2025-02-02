@@ -1,1 +1,1 @@
-, [[verkürzen]], [[Kürzung]]
+, [[verkürzen]], [[Kürzung]], [[kürzlich]]

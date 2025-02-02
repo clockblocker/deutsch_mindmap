@@ -45,4 +45,4 @@ Morphems:
 ---
 #Substantiv #Neuter
 
-, [[Angesicht]], [[Backen]], [[Gesichtsausdruck]], [[s1 e1]], [[riesig]], [[Stirn]], [[Wange]]
+, [[Angesicht]], [[Backen]], [[Gesichtsausdruck]], [[s1 e1]], [[riesig]], [[Stirn]], [[Wange]], [[Maul]]

@@ -1,1 +1,1 @@
-, [[Tür]], [[loch]], [[Tor]], [[Fenstern]], [[öffnen]], [[Abschottung]], [[Lücke]]
+, [[Tür]], [[loch]], [[Tor]], [[Fenstern]], [[öffnen]], [[Abschottung]], [[Lücke]], [[Maul]]

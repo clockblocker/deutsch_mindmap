@@ -1,1 +1,1 @@
-[[täglich]], [[besonders]], [[merkwürdige]]
+[[täglich]], [[besonders]], [[merkwürdige]], [[gewöhnlich]]

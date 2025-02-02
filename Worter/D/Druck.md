@@ -6,6 +6,11 @@ Es gibt Menschen, die immer bekommen, was sie wollen, ganz ohne [[Druck]] oder [
 
 Die [[Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
 
+*Traurig wird in dieser Stunde*  
+*Selbst der Liebe [[süßstes]] [[Pfand]],*  
+*Kalt der [[Kuß]] von deinem Munde,*  
+*[[Matt]] der [[Druck]] von deiner Hand.* *[[Der Abschied.md#^2|(Quelle: Der Abschied)]]* 
+
 
 ---
 Synonyme:

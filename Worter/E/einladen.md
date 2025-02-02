@@ -1,11 +1,9 @@
-[[einladen]] + Akk, [ˈaɪ̯nladen]
+[[einladen]] + Akk, [ˈaɪ̯nladen] | die [[Einladung]]
 [[lud ein|lud ein]]  
 haben [[eingeladen]]
 
 ---
 Und meine Schwester Martha hat uns schon immer mal [[einladen]] wollen. 
-
-die [[Einladung]]
 
 Also [[lädt]] Adrian Emilie zum Essen [[ein]]. Es gibt Spaghetti mit leckerer Soße und selbst [[gemachtes]] Eis. [[Während]] die beiden am Tisch sitzen und das Eis [[löffeln]], schaut Adrian Emilie tief in die Augen und sie stellt fest: Ich hab diesen Mann zum [[fressen]] gern. 
 

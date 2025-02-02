@@ -33,4 +33,4 @@ Kulturelle Bedeutung:
 Botanische Informationen:
 - Gehört zur Familie der Rosengewächse
 - Verschiedene Farben und Arten
-- Beliebt in Gärten und Blumenarrangements
+- Beliebt in Gärten und Blumenarrangements, [[Veilchen]]

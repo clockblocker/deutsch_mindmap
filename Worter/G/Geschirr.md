@@ -23,4 +23,4 @@ Genitive: des [[Geschirrs]], der [[Geschirre]]
 Dative: dem [[Geschirr]], den [[Geschirren]] 
 
 ---
-[[abwaschen]], [[spülen]], [[geschirrschwamm]], [[geschirrtuch]]
+[[abwaschen]], [[spülen]], [[geschirrschwamm]], [[geschirrtuch]], [[Kochgeschirr]]

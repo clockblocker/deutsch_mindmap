@@ -36,4 +36,4 @@ Morpheme: [[fahr]][[en]]
 
 Partizip I: [[fahrend]], Partizip II: [[gefahren]]
 
- [[paddeln]], [[losfahren]], [[überfahren]], [[Hochfahren]], [[erfahren]], [[s1 e1]]
+ [[paddeln]], [[losfahren]], [[überfahren]], [[Hochfahren]], [[erfahren]], [[s1 e1]], [[aus der Haut fahren]]

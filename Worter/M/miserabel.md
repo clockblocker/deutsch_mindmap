@@ -1,1 +1,1 @@
-, [[einfachfantastisch]], [[toll]]
+, [[einfachfantastisch]], [[toll]], [[Schlecht]], [[herrlich]]

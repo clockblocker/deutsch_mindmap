@@ -1,4 +1,4 @@
-🔵 die [[Regel]], [ˈʁeːɡl̩]
+ die [[Regel]], [ˈʁeːɡl̩]
 die [[Regeln]]
 
 ---

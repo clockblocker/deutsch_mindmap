@@ -1,1 +1,1 @@
-, [[kürzen]]
+, [[kürzen]], [[kürzlich]]

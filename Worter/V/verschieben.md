@@ -1,1 +1,1 @@
-, [[schieben]], [[wegschubsen]], [[wälzen]]
+, [[schieben]], [[wegschubsen]], [[wälzen]], [[rücken]]

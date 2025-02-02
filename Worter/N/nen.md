@@ -1,1 +1,1 @@
-[[regnen]], [[einzelnen]], [[bezeichnen]], [[eröffnen]], [[kennzeichnen]], [[gewöhnen]]
+[[regnen]], [[einzelnen]], [[bezeichnen]], [[eröffnen]], [[kennzeichnen]], [[gewöhnen]], [[weinen]]

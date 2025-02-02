@@ -39,4 +39,4 @@ Tags:
 
 ---
 Morphems:
-[[hilf]][[reich]], [[vergebens]], [[Nützliches]]
+[[hilf]][[reich]], [[vergebens]], [[Nützliches]], [[helfen]]

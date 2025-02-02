@@ -27,4 +27,4 @@ PI: [[klagend]], PII: [[geklagt]], Zu+inf: [[zu klagen]]
 [[klagen]] / to complain, to lament, to grieve
 
 ---
-[[Klage]], [[Kläger]], [[Klägerin]], [[klagbar]], [[kläglich]], [[Klagelied]]
+[[Klage]], [[Kläger]], [[Klägerin]], [[klagbar]], [[kläglich]], [[Klagelied]], [[weinen]]

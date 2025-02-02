@@ -1,8 +1,9 @@
-🔴 die [[Angst]], [ˈaŋkst]
-die [[Ängste]]
-
+🔴 die [[Angst]], [ˈaŋkst], die [[Ängste]]
+[[vor]] dem ... haben Angst 
 
 ---
+Aber vor dem Messer hatten sie Angst.
+
 *Es ist nichts als [[Schmerz]]*  
 *sagt die [[Angst]]*  
 

@@ -1,3 +1,6 @@
+1. Мы должны были вас послушаться, но, к сожалению, не послушались.  Wir mussten Ihnen [[zuhören]], aber leider haben wir nicht zugehört
+
+
 GLÜCKLICHER TAG (nach Horst Lemke)
 Es war an einem Sommertag an der Ostsee in einem kleinen Calé. Ein Junge und ein Mädchen saßen an meinem Tisch und schwiegen. Sie waren müde und verliebt und ich fand, dass sie gut zueinander passten. Zuerst grüßten sie mich und fragten, ob die Plätze noch frei sind, und dann vergaßen sie mich gleich.
 Der Junge war ein Matrose, groß, mit einem energischen Gesicht, schönen Zähnen und grünen Augen. Das Mädchen war auch groß, sei
@@ -96,3 +99,103 @@ laut- громкий leise -тихий
 tief - глубокий
 schon lange - уже давно j-m den Kopf verdrehen -
 вскружить голову Das ist mir egal! - Мне все равно! Hand in Hand - рука об руку.
+
+
+
+
+Придаточные предложения дополнительные**
+
+Придаточные предложения дополнительные выполняют роль дополнения в сложносочиненном предложении, отвечают на вопросы прямого дополнения, вопросы косвенных падежей, а также выражают косвенный вопрос. Такие придаточные предложения могут вводиться союзом **ob** или **dass** (если вопрос не имеет вопросительного слова) или вопросительными словами в функции союзов.
+
+  
+
+**Примеры:**
+• **dass** – _Er sagte, dass er gestern einen Artikel schrieb._
+(Он сказал, что писал вчера статью.)
+• **ob** – _Sie fragt, ob ich einen Hund habe._
+
+(Она спрашивает, есть ли у меня собака.)
+• **wie** – _Du verstehst nicht, wie man im Theater spielt._
+
+(Ты не понимаешь, как играют в театре.)
+
+• **was** – _Ich erzählte ihm, was ich kaufen will._
+
+(Я рассказала ему, что я собираюсь купить.)
+
+• **wer** – _Sag mir, wer in diesem Haus wohnt._
+
+(Скажи мне, кто живет в этом доме.)
+
+• **wen** – _Sie möchte nicht sagen, wen sie oft besucht._
+
+(Она не хочет говорить, кого она часто навещает.)
+
+• **wem** – _Er schrieb mir im Brief, wem er in der Schule hilft._
+
+(Он написал мне в письме, кому он помогает в школе.)
+
+• **wo** – _Kannst du mir sagen, wo sie Fußball spielen?_
+
+(Ты можешь мне сказать, где они играют в футбол?)
+
+• **warum** – _Er erzählte mir, warum er nicht Sport treibt._
+
+(Он рассказал мне, почему он не занимается спортом.)
+
+**2. Придаточные предложения причины**
+
+Придаточные предложения причины указывают на причину действия и отвечают на вопрос **почему?**
+
+Они вводятся союзами **weil** и **da**.
+
+**Примеры:**
+• **weil** – _Wir kamen nicht zu euch, weil wir lange arbeiteten._
+(Мы не пришли к вам, потому что мы долго работали.)
+
+• **da** – _Da es im Winter kalt ist, sollst du warme Sachen kaufen._
+(Так как зимой холодно, ты должен купить теплые вещи.)
+
+
+**3. Придаточные предложения обстоятельства времени**
+
+Придаточные предложения обстоятельства времени отвечают на вопрос **когда?** и присоединяются к главному предложению с помощью союзов **wenn** и **als**.
+
+**Обратите внимание**:
+• **wenn** выражает многократное действие.
+• **als** выражает однократное действие.
+
+  
+
+**Примеры:**
+• **wenn** – _Wenn er abends spät kommt, ist er ganz müde._
+(Когда он вечером поздно приходит, он совсем уставший.)
+• **als** – _Als wir in Berlin waren, besuchten wir viele Museen._
+(Когда мы были в Берлине, мы посетили много музеев.)
+
+
+**4. Придаточные предложения цели**
+Придаточные предложения цели отвечают на вопросы **для чего? для какой цели?** и присоединяются к главному предложению с помощью союза **damit**.
+
+**Пример:**
+• **damit** – _Er rief uns an, damit wir auf ihn nicht warten._
+(Он позвонил нам, чтобы мы его не ждали.)
+
+---
+
+**Неопределенные местоимения jemand/niemand и etwas/nichts**
+• **jemand/niemand** (кто-то / никто)
+• **etwas/nichts** (что-то / ничто)
+
+Они указывают на неизвестные лица и предметы или на их отсутствие.
+• **etwas** и **nichts** не склоняются.
+• **jemand** и **niemand** могут склоняться как определенный артикль мужского рода:
+• _Ich sehe jemanden, er hilft niemandem._
+(Я вижу кого-то, он никому не помогает.)
+
+**Примеры:**
+• _Niemand hilft ihr._ – (Никто ей не помог.)
+• _Sie hört nichts._ – (Она ничего не слышит.)
+
+**Важно!**
+В немецких предложениях всегда используется только **одно отрицание**.

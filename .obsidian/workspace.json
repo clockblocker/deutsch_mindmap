@@ -8,91 +8,343 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66fcb76b7644a39a",
+            "id": "1020031441971839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/I/ihm.md",
+                "file": "Lektionen/Kamanova/done/12 Past.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ihm"
+              "title": "12 Past"
             }
           },
           {
-            "id": "160be7d51182aab2",
+            "id": "d879d145ae6229a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/P/Pronomen/Pronomenformen/euch.md",
+                "file": "Worter/D/dankbar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "euch"
+              "title": "dankbar"
             }
           },
           {
-            "id": "37f0a086dc3e49f3",
+            "id": "c562858c63991697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Gedichte/Max und Moriz/7 Schluß.md",
+                "file": "Lektionen/Kamanova/done/12 Past.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Schluß"
+              "title": "12 Past"
             }
           },
           {
-            "id": "1a0137c2dd5b7c73",
+            "id": "60de3df8fbb69394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/D/Dativ pronomen.md",
+                "file": "Worter/U/unruhig.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dativ pronomen"
+              "title": "unruhig"
             }
           },
           {
-            "id": "ca7d68b885976540",
+            "id": "eb156b6da504accc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/M/mir.md",
+                "file": "Lektionen/Kamanova/done/12 Past.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mir"
+              "title": "12 Past"
             }
           },
           {
-            "id": "27b31e83ffb085cb",
+            "id": "322b19d854d99a26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wortlisten/Pronomen.md",
+                "file": "Lektionen/Kamanova/done/12 Past.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pronomen"
+              "title": "12 Past"
+            }
+          },
+          {
+            "id": "15fc5b4e9e8e8d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/done/12 Past.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 Past"
+            }
+          },
+          {
+            "id": "29ea7b6d252009dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/herrliches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "herrliches"
+            }
+          },
+          {
+            "id": "285a1c9364f0ed5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/H/herrlich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "herrlich"
+            }
+          },
+          {
+            "id": "4cd0ad7aa5f67ee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/done/12 Past.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 Past"
+            }
+          },
+          {
+            "id": "64a845336e42e7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/herrliches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "herrliches"
+            }
+          },
+          {
+            "id": "cc20282faf8237ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/H/herrlich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "herrlich"
+            }
+          },
+          {
+            "id": "c82bad0061a21e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/0 Wiederholung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 Wiederholung"
+            }
+          },
+          {
+            "id": "9b8844f02f773c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/0 Wiederholung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 Wiederholung"
+            }
+          },
+          {
+            "id": "ba6739cedc2f7a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/done/12 Past.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 Past"
+            }
+          },
+          {
+            "id": "c07996726f249ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/done/12 Past.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 Past"
+            }
+          },
+          {
+            "id": "475a4c36a4fafeba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/done/12 Past.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 Past"
+            }
+          },
+          {
+            "id": "c069caf94da65e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/13 Nebensätze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 Nebensätze"
+            }
+          },
+          {
+            "id": "a47cc56b2a960e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Supermarkt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Supermarkt"
+            }
+          },
+          {
+            "id": "dbbfff36c48319b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ansichtskarte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ansichtskarte"
+            }
+          },
+          {
+            "id": "e3cd0e66d7cee759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/L/lacht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lacht"
+            }
+          },
+          {
+            "id": "41fc14396b5c5a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/L/lachen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lachen"
+            }
+          },
+          {
+            "id": "eb55b3c2ca94ff04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/L/lachen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lachen"
+            }
+          },
+          {
+            "id": "d6d41714990e85d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/E/Einladung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Einladung"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -111,7 +363,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -235,37 +488,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "37f0a086dc3e49f3",
+  "active": "c069caf94da65e67",
   "lastOpenFiles": [
-    "Texte/Gedichte/Max und Moriz/0 Vorwort.md",
-    "Texte/Gedichte/Max und Moriz/7 Schluß.md",
-    "Texte/Gedichte/Max und Moriz/2 Zweiter Streich.md",
-    "Texte/Gedichte/Max und Moriz/4 Vierter Streich.md",
-    "Texte/Gedichte/Max und Moriz/6 Sechster Streich.md",
-    "Texte/Gedichte/Max und Moriz/5 Fünfter Streich.md",
-    "Texte/Gedichte/Max und Moriz/3 Dritter Streich.md",
-    "Texte/Gedichte/Max und Moriz/1 Erster Streich.md",
-    "Texte/Gedichte/Untitled 1.md",
+    "Lektionen/Kamanova/done/12 Past.md",
+    "Worter/Z/zurückkehren.md",
+    "Worter/K/kehrte.md",
+    "Worter/K/kehren.md",
+    "Worter/im siebten Himmel sein.md",
+    "Worter/nicht am richtigen Platz sein.md",
+    "Worter/Lernens.md",
+    "Worter/L/Löffel.md",
+    "Worter/die erste Geige spielen.md",
+    "Worter/G/Geigenunterricht.md",
+    "Worter/G/Geigerin.md",
+    "Worter/Z/zugeigen.md",
+    "Worter/G/geigetet.md",
+    "Worter/G/geigen wir.md",
+    "Worter/G/Geige.md",
+    "Worter/G/geigeten.md",
+    "Worter/G/geigt.md",
+    "Worter/G/geigen.md",
+    "Worter/G/geigest.md",
+    "Worter/G/geigetest.md",
+    "Worter/G/geigst.md",
+    "Worter/G/geigte.md",
+    "Worter/A/aufspielen.md",
+    "Worter/M/musizieren.md",
+    "Worter/G/gegeigt.md",
+    "Worter/G/geigete.md",
+    "Worter/1",
     "Texte/Gedichte/Max und Moriz",
-    "Texte/Gedichte/Goethe/Der Abschied.md",
-    "Texte/Gedichte/Goethe/Der Zauberlehrling.md",
-    "Texte/Gedichte/Goethe/Erlkönig.md",
     "Texte/Gedichte/Goethe",
-    "Lektionen/Kamanova/10 KRANK.md",
-    "Worter/I/Ich.md",
-    "Wortlisten/Pronomen.md",
-    "Lektionen/Kamanova/11 Tren.md",
-    "Lektionen/Kamanova/9 Pronomen.md",
-    "Lektionen/Kamanova/8 Imperativ.md",
-    "Worter/grossartich.md",
-    "Worter/P/Pronomen/Pronomenformen/euch.md",
-    "Worter/I/ihm.md",
     "Anhänge/Pasted image 20250129094057.png",
-    "Worter/großartig.md",
-    "Worter/A/artig.md",
-    "Worter/U/untersucht.md",
-    "Worter/U/untersuchen.md",
-    "Worter/M/mir.md",
     "Anhänge/Pasted image 20250127154728.png",
     "Anhänge/Pasted image 20250125084340.png"
   ]

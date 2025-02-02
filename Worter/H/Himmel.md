@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Himmels]], [[Himmel]], [[Himmeln]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[im siebten Himmel sein]]

@@ -1,1 +1,1 @@
-, [[gewöhnen]]
+, [[gewöhnen]], [[gewöhnlich]]

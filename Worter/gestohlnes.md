@@ -1,0 +1,1 @@
+🤫 [[stehlen]] | 🟢 das [[Gestohlene]]

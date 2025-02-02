@@ -11,7 +11,7 @@ Antonyme: [[ausparken]], [[wegfahren]], [[verlassen]]
 to park (a vehicle)
 
 ---
-[[ein]][[park]][[en]]
+[[ein]][[Park]][[en]]
  
 ---
 

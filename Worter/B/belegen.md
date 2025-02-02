@@ -1,1 +1,1 @@
-, [[ledigen]], [[besetzen]]
+, [[ledigen]], [[besetzen]], [[Teller]]

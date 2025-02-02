@@ -1,1 +1,1 @@
-, [[trefflich]], [[jämmerlich]], [[klagen]]
+, [[trefflich]], [[jämmerlich]], [[klagen]], [[Schlecht]]

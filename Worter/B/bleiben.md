@@ -1,1 +1,1 @@
-, [[gehen]], [[reisen]], [[stehen]]
+, [[gehen]], [[reisen]], [[stehen]], [[rücken]]

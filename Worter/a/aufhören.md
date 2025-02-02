@@ -1,7 +1,7 @@
 🛑 [[aufhören]] | [[hörte auf|hörte auf]], haben [[aufgehört]]
 
 ---
-Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können.
+Er hört mit seinem Training auf
 
 „Stopp!“, ruft Jannis. „Du bekommst ja dein Budget. Und jetzt [[aufhören|hör]] auf, mir Honig um den Bart zu schmieren. Natürlich sehe ich die [[Vorteile]] selbst. Ich arbeite ja schon lange in dieser [[Branche]].“ 
 
@@ -41,3 +41,6 @@ Zu+infinifive: [[aufzuhören]]
 
 [[scheiden]][[bestehen]][[regnen]], [[anfangen]], [[dauern]], [[sein]], [[losschießen]], [[aufgehen]], [[Tropfen]], [[leben]], [[qualmen]], [[plempern]], [[weiterüben]], [[mitmachen]], [[weitermachen]], [[angehen]]
 🛑 [[aufhören]], [[studieren]], [[weitergehen]], [[aufbringen]], [[rauchen]]
+
+Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können.
+, [[geigen]]

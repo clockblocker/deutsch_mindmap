@@ -1,1 +1,1 @@
-, [[Geltung]], [[gelten]], [[Zügel]]
+, [[Geltung]], [[gelten]], [[Zügel]], [[angeln]]

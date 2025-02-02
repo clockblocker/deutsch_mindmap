@@ -1,1 +1,1 @@
-[[schade]], [[jämmerlich]], [[schmerzend]], [[schrecklich]]
+[[schade]], [[jämmerlich]], [[schmerzend]], [[schrecklich]], [[erfreuen]]

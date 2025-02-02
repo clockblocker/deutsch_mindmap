@@ -21,4 +21,4 @@ Accusative: den [[Löffel]], die [[Löffel]]
 Genitive: des [[Löffels]], der [[Löffel]]  
 Dative: dem [[Löffel]], den [[löffeln]] 
 
-löffeln, löffelartig
+löffeln, löffelartig, [[Gabel]]

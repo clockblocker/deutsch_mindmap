@@ -1,0 +1,1 @@
+🤩 [[erfreuen]] | 😊 [[erfreut]]

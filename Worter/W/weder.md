@@ -1,6 +1,8 @@
 🚫 [[weder]] ... [[noch]]
 
 ---
+Er hatte [[weder]] eine Frau [[noch]] einen Sohn [[noch]] eine Tochter [[12 Past#^13|(Quelle:w 12 Past)]] 
+
 Er will [[weder]] essen [[noch]] trinken
 [[Entweder]] kommst du, [[oder]] du bleibst zu Hause.
 

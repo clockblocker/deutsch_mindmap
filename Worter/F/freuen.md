@@ -25,6 +25,8 @@ Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag
 
 „Und die Weihnachtsfeier?“, möchte Peter wissen. „Wir gehen zu einem Konzert. Sie hat Karten organisiert, und das war ganz schön schwer. Und sie [[freut]] sich so sehr darauf!“, [[erzählt]] Leo.
 
+----
+[[erfreuen]] - [[er]] = [[freuen]] / to delight, to please
 
 ---
 Synonyme: [[erfreuen]], [[beglücken]], [[entzücken]], [[erheitern]], [[ergötzen]]

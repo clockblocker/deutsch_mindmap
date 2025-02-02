@@ -27,3 +27,4 @@ P: [[tollen]], [[tolleren]], [[tollsten]]
 [[Tollheit]], [[toll machen]], [[übertollen]], [[betollen]]
 
 , [[hervorragend]]
+, [[Schlecht]]

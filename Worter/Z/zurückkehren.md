@@ -3,7 +3,10 @@
 haben [[zurückgekehrt]]
 
 ---
-Aber ich habe die Hoffnung nicht aufgegeben. Ich glaube daran, dass der Avatar irgendwann zurückkehrt und die Welt rettet.
+Aber ich habe die Hoffnung nicht aufgegeben. Ich glaube daran, dass der Avatar irgendwann [[zurückkehrt]] und die Welt rettet.
+
+Aber er war in der Stadt nicht glücklich. Er [[zurückkehren|kehrte]] ans Meer zurück, in seine kleine Hütte. Dort lebte er wieder, fischte und wartete auf seinen weißen Vogel.
+ [[12 Past#^13|(Quelle: 12 Past)]] 
 
 
 ---

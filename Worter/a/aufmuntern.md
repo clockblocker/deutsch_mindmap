@@ -1,1 +1,1 @@
-, [[trösten]]
+, [[trösten]], [[erfreuen]]

@@ -4,7 +4,6 @@ haben [[gekehrt]]
 
 ---
 
-
 ---
 [[zurückkehren]] - [[zurück]] = [[kehren]]
 

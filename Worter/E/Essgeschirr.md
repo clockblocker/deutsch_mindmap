@@ -1,1 +1,1 @@
-, [[Geschirr]]
+, [[Geschirr]], [[Kochgeschirr]]

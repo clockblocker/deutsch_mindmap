@@ -1,1 +1,1 @@
-, [[Gesicht]], [[Angesicht]], [[Gesichtsausdruck]]
+, [[Gesicht]], [[Angesicht]], [[Gesichtsausdruck]], [[Maul]]

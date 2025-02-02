@@ -2,7 +2,7 @@
 nicht [[verborgen]]
 
 ---
-
+  Fahren sie [[offensichtlich]] von zu Hause in den Klub? Keine Ahnung. Sie kommen sehr spät nach Hause 
 
 ---
 = [[deutlich]], [[klar]], [[ersichtlich]]

@@ -1,1 +1,1 @@
-, [[bedanken]]
+, [[bedanken]], [[dankbar]]

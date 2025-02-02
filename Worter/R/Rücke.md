@@ -1,1 +1,1 @@
-, [[Ruck]]
+, [[Ruck]], 🚚 [[rücken]] | 🔵 der [[Ruck]]

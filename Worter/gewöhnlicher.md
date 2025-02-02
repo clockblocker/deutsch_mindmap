@@ -1,0 +1,1 @@
+😐 [[gewöhnlich]] | 🔵 der [[Gewöhnliche]]

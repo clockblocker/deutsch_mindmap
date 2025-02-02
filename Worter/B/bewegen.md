@@ -38,4 +38,4 @@ Partizip I: [[bewegend]], Partizip II: [[bewegt]]
 
 
 [[fahren]], [[schieben]]
-, [[treiben]], [[schütteln]], [[wälzen]], [[Freizügigkeit]]
+, [[treiben]], [[schütteln]], [[wälzen]], [[Freizügigkeit]], [[rücken]]

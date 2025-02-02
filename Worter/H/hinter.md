@@ -1,1 +1,1 @@
-, [[hinterm]], [[11 08]], [[durchs]], [[durch]], [[hinterdrein]], [[hinterherlaufen]], [[hinterherschicken]], [[dahinter]], [[da]]
+, [[hinterm]], [[11 08]], [[durchs]], [[durch]], [[hinterdrein]], [[hinterherlaufen]], [[hinterherschicken]], [[dahinter]], [[da]], [[Wechselpräposition]]

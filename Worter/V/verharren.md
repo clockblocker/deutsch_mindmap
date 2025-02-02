@@ -1,1 +1,1 @@
-, [[gehen]], [[zustürmen]]
+, [[gehen]], [[zustürmen]], [[rücken]]

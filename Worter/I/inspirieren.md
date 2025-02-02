@@ -1,1 +1,1 @@
-, [[begeistern]], [[beeinflussen]], [[anregen]], [[desillusionieren]]
+, [[begeistern]], [[beeinflussen]], [[anregen]], [[desillusionieren]], [[erfreuen]]

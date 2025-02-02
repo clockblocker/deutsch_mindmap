@@ -1,1 +1,1 @@
-, [[Risiko]], [[Schutz]], [[Schwäche]], [[Gefahr]], [[Behauptung]]
+, [[Risiko]], [[Schutz]], [[Schwäche]], [[Gefahr]], [[Behauptung]], [[Pfand]]

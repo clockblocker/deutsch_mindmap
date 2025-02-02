@@ -23,4 +23,4 @@ Genitive: des [[Bestecks]], der [[Bestecke]]
 Dative: dem [[Besteck]], den [[Bestecken]]
 
 
-[[bestecken]], [[bestückig]]
+[[bestecken]], [[bestückig]], [[Kochgeschirr]], [[Gabel]]

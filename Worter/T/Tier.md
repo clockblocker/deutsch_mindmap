@@ -1,4 +1,4 @@
-🔵 der [[Tier]], [ˈtiːɐ̯]
+ das [[Tier]], [ˈtiːɐ̯]
 die [[Tiere]]
 
 

@@ -1,1 +1,1 @@
-, [[Freudiges]]
+, [[Freudiges]], [[erfreuen]]
