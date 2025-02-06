@@ -26,4 +26,4 @@ N: [[tapferes]], [[tapfereres]], [[tapferstes]]
 P: [[tapferen]], [[tapfereren]], [[tapfersten]]  
 
 ---
-[[Tapferkeit]], [[tapfern]], [[Tapfere]], [[Tapferkeit]], [[mutig]]
+[[Tapferkeit]], [[tapfern]], [[Tapfere]], [[Tapferkeit]], [[mutig]], [[wagend]]

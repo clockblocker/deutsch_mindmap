@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[selbst]][[bewusst]], [[stolz]], [[bescheiden]], [[zaghaft]]
+[[selbst]][[bewusst]], [[stolz]], [[bescheiden]], [[zaghaft]], [[scheu]]

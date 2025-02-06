@@ -64,9 +64,6 @@
 [[vorher]], "beforehand / earlier"
 
 [[schließlich]], "finally / in the end"
-
 [[anders gesagt]], "in other words"
-
 [[bloß]], "merely / only"
-
 [[selbstverständlich]], "of course / naturally"

@@ -4,6 +4,8 @@ die [[Löhne]]
 ---
 Diese Arbeiter bekommen nur [[gering]] [[Löhne]].
 
+Freut euch und [[jauchzt]] an jenem Tag; denn siehe, euer [[Lohn]] im Himmel wird groß sein. Denn [[ebenso]] haben es ihre Väter mit den Propheten gemacht.
+
 Sie [[fordewrn]] den gleichen [[Lohn]] für alle.
 
 ---

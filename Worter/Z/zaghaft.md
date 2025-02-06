@@ -25,4 +25,4 @@ N: [[zaghaftes]], [[zaghafteres]], [[zaghaftestes]]
 P: [[zaghaften]], [[zaghafteren]], [[zaghaftesten]]  
 
 ---
-[[Zaghaftigkeit]], [[zagen]], [[Zögern]], [[zagend]], [[unentschlossen]]
+[[Zaghaftigkeit]], [[zagen]], [[Zögern]], [[zagend]], [[unentschlossen]], [[scheu]]

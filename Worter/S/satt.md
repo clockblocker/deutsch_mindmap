@@ -1,1 +1,1 @@
-, [[hungrig]]
+, [[hungrig]], [[gesättigt]]

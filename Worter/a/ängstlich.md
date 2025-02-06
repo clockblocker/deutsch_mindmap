@@ -26,4 +26,4 @@ N: [[ängstliches]], [[ängstlicheres]], [[ängstlichstes]]
 P: [[ängstlichen]], [[ängstlicheren]], [[ängstlichsten]]  
 
 ---
-[[Angst]], [[ängstigen]], [[Ängstlichkeit]], [[beängstigen]], [[ängstlich machen]]
+[[Angst]], [[ängstigen]], [[Ängstlichkeit]], [[beängstigen]], [[ängstlich machen]], [[scheu]], [[wagend]]

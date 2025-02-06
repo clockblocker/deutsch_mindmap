@@ -1,1 +1,1 @@
-, [[Ausführlich]], [[ausführen]], [[Abkürzung]], [[Vortrag]]
+, [[Ausführlich]], [[ausführen]], [[Abkürzung]], [[Vortrag]], [[Zusammenfassung]]

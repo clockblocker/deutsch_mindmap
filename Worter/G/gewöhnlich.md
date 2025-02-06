@@ -9,7 +9,7 @@
 ≠ [[ungewöhnlich]], [[selten]], [[außergewöhnlich]], [[merkwürdig]]
 
 ---
-usual, ordinary, common
+usual, usually, ordinary, common
 
 ---
 [[gewöhn]]|[[lich]]

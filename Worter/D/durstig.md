@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 [[durstig]], [[durstiger]], [[durstige]], [[durstiges]], [[durstigen]], [[durstigem]], [[durstiger]], [[durstigen]]
 [[durstiger]], [[durstigerer]], [[durstigere]], [[durstigeres]], [[durstigeren]], [[durstigerem]], [[durstigerer]], [[durstigeren]]
 [[durstigsten]], [[durstigster]], [[durstigste]], [[durstigstes]], [[durstigsten]], [[durstigstem]], [[durstigster]], [[durstigsten]]
-'''
+''', [[dürsten]]

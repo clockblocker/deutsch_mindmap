@@ -1,1 +1,1 @@
-, [[gelingen]], [[gutgehen]], [[klappen]]
+, [[gelingen]], [[gutgehen]], [[klappen]], [[scheitern]], [[w-l]]

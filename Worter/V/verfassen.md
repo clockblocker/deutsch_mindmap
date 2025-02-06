@@ -1,1 +1,1 @@
-, [[lesen]], [[erstellen]], [[erlassen]], [[Verfassung]]
+, [[lesen]], [[erstellen]], [[erlassen]], [[Verfassung]], [[schreiben]]

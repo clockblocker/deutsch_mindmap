@@ -60,4 +60,4 @@ Morpheme:
 
 Partizip I: [[werdend]], Partizip II: [[geworden]]
 
-, [[sollen]], [[s1 e1]]
+, [[sollen]], [[s1 e1]], [[Hilfsverb]]

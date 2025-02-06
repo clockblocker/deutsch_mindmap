@@ -1,1 +1,1 @@
-, [[Erzie­hung]], [[Erziehung]], [[Weiterbildung]], [[Politikunterricht]], [[Volksbildung]], [[Schulwesen]], [[Abbildung]]
+, [[Erzie­hung]], [[Erziehung]], [[Weiterbildung]], [[Politikunterricht]], [[Volksbildung]], [[Schulwesen]], [[Abbildung]], [[Erwachsenenanfängergruppe]]

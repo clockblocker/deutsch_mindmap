@@ -1,1 +1,1 @@
-, [[anreißen]], [[frankieren]], [[kennzeichnen]], [[weisen]]
+, [[anreißen]], [[frankieren]], [[kennzeichnen]], [[weisen]], [[betonen]]

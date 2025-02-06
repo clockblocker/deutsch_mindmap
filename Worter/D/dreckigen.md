@@ -2,7 +2,7 @@
 nicht [[sauber]]
 
 ---
-Hast du zufällig mal an deinen [[dreckigen]] Socken gerochen?
+Hast du [[zufällig]] mal an deinen [[dreckigen]] Socken gerochen?
 
 
 ---

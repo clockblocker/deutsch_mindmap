@@ -1,1 +1,1 @@
-, [[bereiten]]
+, [[bereiten]], [[Ausrüstung]]

@@ -1,7 +1,9 @@
 😂 [[lachen]], [ˈlaxən] | [[lachte]], haben [[gelacht]]
 
 ---
-6. Warum [[lacht]] ihr über diesen Kollegen?  
+3: Selig, die ihr jetzt [[weint]], denn ihr werdet [[lachen]].
+
+1. Warum [[lacht]] ihr über diesen Kollegen?  
 
 ---
 = [[scherzen]], [[spaßen]], [[fröhlich sein]]

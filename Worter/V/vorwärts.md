@@ -25,4 +25,4 @@ Morpheme:
 ---
 Steigerungsformen:
 [[vorwärts]], [[vorwärtser]], [[am vorwärtsten]]
-, [[voraus]], [[vorne]], [[vorn]], [[vorderen]], [[vorgehen]]
+, [[voraus]], [[vorne]], [[vorn]], [[vorderen]], [[vorgehen]], [[Fortschritt]]

@@ -27,4 +27,4 @@ PI: [[besiegend]], PII: [[besiegt]], Zu+inf: [[zu besiegen]]
 [[besiegen]] - [[be]] = [[siegen]] / to defeat, to conquer
 
 ---
-[[Sieg]], [[Besiegung]], [[Sieger]], [[siegreich]], [[unbesiegbar]]
+[[Sieg]], [[Besiegung]], [[Sieger]], [[siegreich]], [[unbesiegbar]], [[w-l]]

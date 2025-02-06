@@ -24,4 +24,4 @@ G: der [[Verbreitung]], der [[Verbreitungen]]
 D: der [[Verbreitung]], den [[Verbreitungen]]  
 
 ---
-[[verbreiten]], [[verbreitet]], [[breit]], [[breiten]], [[Meinungsäußerung]]
+[[verbreiten]], [[verbreitet]], [[breit]], [[breiten]], [[Meinungsäußerung]], [[veröffentlichen]]

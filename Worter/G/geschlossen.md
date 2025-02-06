@@ -1,1 +1,1 @@
-🔒 [[schließen]], [[mehrheitlich]], [[Anki]]
+🔒 [[schließen]], [[mehrheitlich]], [[Anki]], [[dicht]]

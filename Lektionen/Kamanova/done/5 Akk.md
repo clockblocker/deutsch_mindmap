@@ -116,7 +116,7 @@ Geschwister -братья исестры
 11. Er hat ...einen [[Beruf]].  
 12. Sie haben ...eine Wohnung.  
 13. Wir suchen ...ein Wort.  
-14. Ihr macht ...eine [[Übung]].  
+14. Ihr macht ...eine [[Worter/Ü/Übung]].  
 15. Er kauft ...einen Schrank.  
 16. Sie liebt ...einen Sportler.  
 17. Wir besuchen ...einen Kollegen.  

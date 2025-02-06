@@ -3,12 +3,15 @@
 haben [[gebaut]]
 
 ---
-189. Wann [[baute]] die DDR die Mauer in Berlin? (88%)
+Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
+
+
+1. Wann [[baute]] die DDR die Mauer in Berlin? (88%)
 	- [x] 1961
 
 _Aang hat aus Appas [[Schwanz]] eine [[Rutsche]] [[gebaut]], von der nun die kleinen Kinder [[rutschen]]._
 
-46. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört dazu? (96%)
+2. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört dazu? (96%)
 	- [x] Er [[baut]] [[Straßen]] und [[Schulen]].
 	- [ ] Er verkauft Lebensmittel und Kleidung.
 	- [ ] Er [[versorgt]] alle [[Einwohner]] und [[Einwohnerinnen]] [[kostenlos ]]mit Zeitungen.
@@ -43,4 +46,4 @@ Partizip I: [[bauend]], Partizip II: [[gebaut]]
 
 +[[auf]] = [[aufbauen]], 
 
-[[einbauen]], [[umbauen]], [[errichteten]], [[Gebäude]], [[s1 e1]]
+[[einbauen]], [[umbauen]], [[errichteten]], [[Gebäude]], [[s1 e1]], [[Bauingenieur]]

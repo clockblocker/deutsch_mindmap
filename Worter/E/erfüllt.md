@@ -1,1 +1,1 @@
-, [[erfüllen]]
+, [[erfüllen]], [[gesättigt]]

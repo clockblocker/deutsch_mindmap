@@ -3,6 +3,10 @@
 haben [[getroffen]]
 
 ---
+Nagel auf den Kopf [[treffen]]
+
+Ich habe eine [[Entscheidung]] [[getroffen]]: Diesen Monat konzentriere ich mich nur auf Kamanova.
+
 Manchmal muss man schwierige [[Entscheidungen]] [[treffen]] 
 
 Der Bumeraang [[trifft]] Zuko am Hinterkopf und landet im Schnee

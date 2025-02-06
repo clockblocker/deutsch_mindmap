@@ -1,1 +1,1 @@
-nicht [[heiß]][[Kühl]], [[warmen]], [[eiskaltem]], [[gemütlich]]
+nicht [[heiß]][[Kühl]], [[warmen]], [[eiskaltem]], [[gemütlich]], [[zärtlich]]

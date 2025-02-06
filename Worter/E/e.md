@@ -1,1 +1,1 @@
-, [[Scheibe]], [[Nähe]], [[Grabe]], [[Kirche]], [[Kürbisse]], [[Stelle]], [[Jugendliche]], [[Fremde]], [[Grenze]], [[Schöffe]], [[zugrundeliegende]], [[einheimisch]], [[Angestellte]], [[merkwürdige]], [[geheimnisvolle]], [[Lücke]], [[Erwerbstätige]], [[Geige]]
+, [[Scheibe]], [[Nähe]], [[Grabe]], [[Kirche]], [[Kürbisse]], [[Stelle]], [[Jugendliche]], [[Fremde]], [[Grenze]], [[Schöffe]], [[zugrundeliegende]], [[einheimisch]], [[Angestellte]], [[merkwürdige]], [[geheimnisvolle]], [[Lücke]], [[Erwerbstätige]], [[Geige]], [[Bursche]], [[Halle]]

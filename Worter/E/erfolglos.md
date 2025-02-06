@@ -1,1 +1,1 @@
-, [[vergebens]], [[Erfolg]], [[erfolgreich]], [[Erfolgen]], [[gelungen]]
+, [[vergebens]], [[Erfolg]], [[erfolgreich]], [[Erfolgen]], [[gelungen]], [[scheitern]]

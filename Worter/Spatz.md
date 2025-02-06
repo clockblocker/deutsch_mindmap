@@ -23,4 +23,4 @@ Accusative: den [[Spatz]], die [[Spatzen]]
 Genitive: des [[Spatzes]], der [[Spatzen]]  
 Dative: dem [[Spatz]], den [[Spatzen]] 
 
-spatzig, spatzenhaft, [[annehmen]], [[Adler]]
+spatzig, spatzenhaft, [[annehmen]], [[Adler]], [[Schwalbe]]

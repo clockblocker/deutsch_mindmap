@@ -1,1 +1,1 @@
-, [[Behauptung]]
+, [[Behauptung]], [[Begründung]]

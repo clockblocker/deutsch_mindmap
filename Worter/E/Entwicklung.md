@@ -25,4 +25,4 @@ G: der [[Entwicklung]], der [[Entwicklungen]]
 D: der [[Entwicklung]], den [[Entwicklungen]]  
 
 ---
-[[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Anki]]
+[[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Anki]], [[Wendung]]

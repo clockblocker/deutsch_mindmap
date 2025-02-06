@@ -1,1 +1,1 @@
-, [[Arbeitsplatz]], [[Büro]]
+, [[Arbeitsplatz]], [[Büro]], [[Betrieb]]

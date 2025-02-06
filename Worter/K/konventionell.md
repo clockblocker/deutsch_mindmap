@@ -1,1 +1,1 @@
-, [[ersinnlich]], [[gewöhnlich]]
+, [[ersinnlich]], [[gewöhnlich]], [[üblich]]

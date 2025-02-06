@@ -1,6 +1,10 @@
 🏃 [[weitermachen]] | [[machte weiter|machte weiter]], haben [[weitergemacht]]
 
 ---
+Lass uns mit Kamanova [[weitermachen]].
+
+Danke sehr, lass uns mit kamanova [[weitermachen]].
+
 Neulich kommt er total [[aufgeregt]] nach Hause und [[ruft]]: „Barbara, stell dir vor, ich hatte heute beim Roulette fast alles verloren. Aber ich habe einfach [[weitergemacht]] und habe jetzt das [[Doppelte]] meines [[Einsatzes]] gewonnen!“ 
 
 ---

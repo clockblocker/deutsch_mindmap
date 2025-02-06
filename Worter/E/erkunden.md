@@ -1,1 +1,1 @@
-, [[suchen]], [[umsehen]]
+, [[suchen]], [[umsehen]], [[ausprobieren]]

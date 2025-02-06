@@ -1,1 +1,1 @@
-, [[anreißen]], [[hervorheben]], [[unter]]
+, [[anreißen]], [[hervorheben]], [[unter]], [[betonen]]

@@ -4,6 +4,8 @@ nicht [[unnötig]]
 ---
 Sam - Schoko-Eisbombe! [[Das war aber nicht nötig]]!  
 
+ja, deutsch ist manchmal einfach [[unnötig]] kompliziert. aber du hast das prinzip jetzt gecheckt
+
 ---
 Synonyme: [[erforderlich]], [[notwendig]], [[unbedingt]], [[vonnöten]], [[obligatorisch]]
 Antonyme: [[überflüssig]], [[entbehrlich]], [[unnötig]], [[fakultativ]]

@@ -1,6 +1,6 @@
 Kirschen sind lecker. Doch man sollte aufpassen, mit wem man sie isst. Denn manche Leute sind so unfreundlich, dass sie einem die Wörter wie [[Kerne 1]] ins Gesicht [[spucken]]. Mit ihnen ist eben nicht gut Kirschen essen.
 
-Max ist mit seinem Kollegen auf dem Weg ins Büro. Heute wird sich ihr neuer Chef [[vorstellen]]. Als sie an ihrem [[Schreibtisch 1]] sitzen, kommt der neue Chef schon zur Tür herein. 
+Max ist mit seinem Kollegen auf dem Weg ins Büro. Heute wird sich ihr neuer Chef [[vorstellen]]. Als sie an ihrem [[Schreibtisch]] sitzen, kommt der neue Chef schon zur Tür herein. 
 
 „Sie sind beide zwei Minuten zu spät. In [[Zukunft]] wird es das nicht mehr geben!“, ruft er. Max und sein Kollege stehen sofort auf. 
 

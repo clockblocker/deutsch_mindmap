@@ -1,3 +1,3 @@
 Aus Amerika? [[von]] wem [[denn]]? 
 
-[[wer]]
+[[wer]], [[Nebensatz Conector]]

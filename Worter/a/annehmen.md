@@ -38,4 +38,4 @@ Zu+infinifive: [[anzunehmen]]
 [[Annahme]], [[Annahmestelle]], [[Annahmebedingungen]], [[Annahmeverfahren]]
 
 [[übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]], [[glaub]], [[raten]], [[erhalten]], [[ablehnen]]
-, [[empfangen]], [[vermuten]], [[verstoßen]]
+, [[empfangen]], [[vermuten]], [[verstoßen]], [[verinnerlichen]]

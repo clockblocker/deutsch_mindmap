@@ -8,6 +8,8 @@ nicht [[reich]]
 Oh ja, der [[Arme]] kleine Amerikaner!
 Meine Pflanze! Meine [[Arme]] Pflanze!  
 
+1: Selig, die [[arm]] sind vor Gott; denn ihnen gehört das Himmelreich.
+
 *Verbrannt ist alles ganz und gar,*  
 *das [[Arme]] Kind mit Haut und Haar;*  
 

@@ -2,6 +2,8 @@
 des [[Friedens]]
 
 ---
+7: Selig, die [[Frieden]] [[stiften]]; denn sie werden Kinder Gottes genannt werden.
+
 Meine Großmutter erzählte mir oft Geschichten über eine längst vergangene Zeit, von einer Zeit des [[Friedens]]
 
 ---

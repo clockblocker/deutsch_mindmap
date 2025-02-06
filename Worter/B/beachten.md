@@ -31,4 +31,4 @@ PI: [[beachtend]], PII: [[beachtet]], Zu+inf: [[zu beachten]]
 [[beachten]] - [[be]] = [[achten]] / to observe, to pay attention to, to heed
 
 ---
-[[Beachtung]], [[Achtung]], [[beachtenswert]], [[unbeachtet]], [[Beachtlichkeit]], [[kümmern]], [[Einhaltung]], [[versäumen]]
+[[Beachtung]], [[Achtung]], [[beachtenswert]], [[unbeachtet]], [[Beachtlichkeit]], [[kümmern]], [[Einhaltung]], [[versäumen]], [[einhalten]]

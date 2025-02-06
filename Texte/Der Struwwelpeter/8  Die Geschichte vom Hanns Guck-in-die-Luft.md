@@ -3,13 +3,15 @@ https://www.youtube.com/watch?v=c1tK_ewKuwg
 ![[Pasted image 20240815084911.png]]
 
 Wenn der _Hanns_ zur Schule ging,  
-stets sein Blick am Himmel hing.  
-Nach den Dächern, Wolken, Schwalben  
-schaut er aufwärts allenthalben.  
-Vor die eignen Füße dicht,  
-ja, da sah der Bursche nicht,  
+stets sein Blick am [[Himmel]] hing.  
+Nach den [[Dächern]], Wolken, [[Schwalben]]  
+schaut er [[aufwärts]] [[allenthalben]].   ^1
+
+[[8  Die Geschichte vom Hanns Guck-in-die-Luft.md#^1|(Quelle: 8  Die Geschichte vom Hanns Guck-in-die-Luft)]]
+Vor die eignen Füße [[dicht]],  
+ja, da sah der [[Bursche]] nicht,  
 also daß ein jeder ruft:  
-»Seht den Hanns Guck-in-die-Luft!«  
+»Seht den Hanns [[Guck]]-in-die-Luft!«   ^2
   
 Kam ein Hund daher gerannt;  
 Hännslein blickte unverwandt  

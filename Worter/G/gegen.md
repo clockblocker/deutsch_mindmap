@@ -32,4 +32,4 @@ Tags:
 Morphems:
 [[gegen]]
 
-, [[11 08]], [[entgegen]], [[da]]
+, [[11 08]], [[entgegen]], [[da]], [[FUDGEBOW]]

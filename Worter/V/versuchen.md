@@ -10,7 +10,7 @@ Hast du den Lichtblitz gesehen? Er hat sicher [[versucht]] der Feuermarine ein
 Euer Vater, Großvater und Urgroßvater, alle haben es [[versucht]] und alle vergebens.
 
 ---
-Synonyme: [[probieren]], [[Wagen]], [[unternehmen]], [[anstreben]], [[wollen]]
+Synonyme: [[probieren]], [[wagen]], [[unternehmen]], [[anstreben]], [[wollen]]
 Antonyme: [[aufgeben]], [[lassen]], [[unterlassen]], [[meiden]], [[vermeiden]]
 
 ---
@@ -34,4 +34,4 @@ Morpheme: [[ver]][[such]][[en]]
 Partizip I: [[versuchend]], Partizip II: [[versucht]]
 
 [[versuchen]] - [[ver]] = [[suchen]]
-''', [[s1 e1]], [[bemühen]]
+''', [[s1 e1]], [[bemühen]], [[ausprobieren]]

@@ -1,1 +1,1 @@
-, [[blenden]], [[lichten]], [[vergilben]], [[beleuchten]], [[ausleuchten]]
+, [[blenden]], [[lichten]], [[vergilben]], [[beleuchten]], [[ausleuchten]], [[versüssen]]

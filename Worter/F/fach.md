@@ -2,7 +2,8 @@
 die [[Fächer]]
 
 ---
-[[einfachen]], [[einfach]], [[Fachverkäufer]]
+[[Fachverkäufer]]
+[[einfachen]], [[einfach]], 
 
 
 ---
@@ -10,7 +11,7 @@ Synonyme:
 - [[Disziplin]], [[Bereich]], [[Gebiet]], [[Abteilung]], [[Ressort]]
 
 ---
-subject, field, discipline
+subject, field, discipline, специальность
 
 ---
 [[Fach]]
@@ -23,4 +24,4 @@ Genitive: des [[Fachs]] oder [[Faches]], der [[Fächer]]
 Dative: dem [[Fach]], den [[Fächern]]
 
 ---
-[[fachlich]], [[fachkundig]], [[fachmännisch]], [[fachspezifisch]], [[Fachmann]], [[Fachfrau]], [[Fachkraft]], [[fach]]
+[[fachlich]], [[fachkundig]], [[fachmännisch]], [[fachspezifisch]], [[Fachmann]], [[Fachfrau]], [[Fachkraft]], [[fach]], [[Fachrichtung]]

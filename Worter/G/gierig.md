@@ -20,4 +20,4 @@ greedy, avaricious, rapacious
 Einzigartige mögliche Formen: 
 [[gierig]], [[gieriger]], [[gierige]], [[gieriges]], [[gierigen]], [[gierigem]], [[gieriger]], [[gierigen]]
 [[gierigstes]], [[gierigster]], [[gierigste]], [[gierigstes]], [[gierigsten]], [[gierigstem]], [[gierigster]], [[gierigsten]]
-'''
+''', [[gesättigt]]

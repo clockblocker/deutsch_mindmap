@@ -1,1 +1,1 @@
-, [[Stift]]
+, [[Stift]], [[stiften]]

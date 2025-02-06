@@ -1,1 +1,1 @@
-, [[Friseur]]
+, [[Friseur]], [[Fachmann]]

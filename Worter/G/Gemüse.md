@@ -1,1 +1,1 @@
-, [[Gurke]], [[Kürbisse]]
+, [[Gurke]], [[Kürbisse]], [[Frucht]]

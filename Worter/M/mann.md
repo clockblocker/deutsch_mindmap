@@ -1,1 +1,1 @@
-, [[Nationalmannschaft]], [[bemannt]], [[Ehemann]], [[Kerl]], [[s1 e1]]
+, [[Nationalmannschaft]], [[bemannt]], [[Ehemann]], [[Kerl]], [[s1 e1]], [[Fachmann]]

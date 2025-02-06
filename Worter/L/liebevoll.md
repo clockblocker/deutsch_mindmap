@@ -1,1 +1,1 @@
-, [[böse]], [[Umarmung]]
+, [[böse]], [[Umarmung]], [[zärtlich]]

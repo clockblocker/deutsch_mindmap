@@ -22,4 +22,4 @@ G: der [[Niederlage]], der [[Niederlagen]]
 D: der [[Niederlage]], den [[Niederlagen]]  
 
 ---
-[[niederlagen]], [[niederlegen]], [[sieglos]], [[verlieren]], [[unterliegen]]
+[[niederlagen]], [[niederlegen]], [[sieglos]], [[verlieren]], [[unterliegen]], [[scheitern]], [[w-l]]

@@ -1,1 +1,1 @@
-[[alle]]
+[[alle]], [[allenthalben]]

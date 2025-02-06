@@ -1,1 +1,1 @@
-, [[Wiederholungskarte]]
+, [[Wiederholungskarte]], [[Zusammenfassung]]

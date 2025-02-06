@@ -1,1 +1,1 @@
-, [[fressen]], [[Backen]], [[verbrennen]]
+, [[fressen]], [[Backen]], [[verbrennen]], [[hungern]]

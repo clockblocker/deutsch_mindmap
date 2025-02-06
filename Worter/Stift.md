@@ -19,7 +19,7 @@ pencil, pen, stylus
 N: der [[Stift]], die [[Stifte]]  
 A: den [[Stift]], die [[Stifte]]  
 G: des [[Stiftes]], der [[Stifte]]  
-D: dem [[Stift]], den [[Stiften]] 
+D: dem [[Stift]], den [[stiften]] 
 
 ---
 [[stiften]], [[stiftbar]], [[beschriften]]

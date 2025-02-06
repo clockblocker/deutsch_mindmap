@@ -5,6 +5,9 @@ haben [[geliehen]]
 ---
 Ich war einkaufen: Alles, was ich mir [[geliehen]] hatte …
 
+---
+[[ausleihen]] - [[aus]] = [[leihen]] / to lend out
+[[entlehnen]] - [[ent]] = [[lehnen]] / to borrow, to adopt (a word or concept)
 
 ---
 Synonyme: [[ausleihen]], [[borgen]], [[entleihen]], [[mieten]], [[pachten]]

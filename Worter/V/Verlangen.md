@@ -1,12 +1,13 @@
-📝 [[Verlangen]] + Akk/Gen, [fɛɐ̯ˈlaŋɡən]
+📝 [[Verlangen]] + Akk/Gen, [fɛɐ̯ˈlaŋɡən] | das [[Verlangen]]
 [[verlangte]]
 haben [[verlangt]]
 
-das [[Verlangen]]
-
 ---
 *Ich nehm mein Schicksal in die Hand*  
-*Mein [[Verlangen]] ist bemannt*  
+*Mein [[Verlangen]] ist [[bemannt]]*  
+
+“[[anrufen]]” [[verlangt]] Akkusativ (“mich”), nicht Dativ (“mir”)
+
 
 ---
 Synonyme: [[fordern]], [[beanspruchen]], [[erwarten]], [[heischen]], [[einfordern]]
@@ -59,4 +60,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Verlangens]], [[Verlangen]], [[Verlangen]], [[Verlangen]]
 
 ---
-#Substantiv #Neutral, [[Lust]], [[ablehnen]], [[Aufruf]], [[Anspruch]], [[auffordern]]
+#Substantiv #Neutral, [[Lust]], [[ablehnen]], [[Aufruf]], [[Anspruch]], [[auffordern]], [[dürsten]]

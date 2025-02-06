@@ -1,1 +1,1 @@
-, [[Einigkeit]]
+, [[Einigkeit]], [[Gerechtigkeit]]

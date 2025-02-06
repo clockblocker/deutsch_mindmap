@@ -1,1 +1,1 @@
-, [[gutgehen]], [[erfolgreich]], [[siegen]]
+, [[gutgehen]], [[erfolgreich]], [[siegen]], [[scheitern]], [[w-l]]

@@ -43,4 +43,4 @@ PI: [[erreichend]], PII: [[erreicht]], Zu+inf: [[zu erreichen]]
 [[Erreichbarkeit]], [[Erreichung]], [[reichbar]], [[unerreichbar]], [[Erreichbares]]
 
 , [[schaden]], [[reichen]]
-, [[erreichbar]], [[einholen]], [[wodurch]]
+, [[erreichbar]], [[einholen]], [[wodurch]], [[w-l]]

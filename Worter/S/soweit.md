@@ -3,6 +3,7 @@
 ---
 Nein, es reicht! Ich hab diese Sequenz den ganzen Tag lang geübt. Bringt mir die nächste bei! Ich bin schon lange [[soweit]]
 
+[[Soweit]] ich verstehe, muss ich wirklich gut auf Hören/Lesen [[vorbereitet]] sein.
 
 ---
 Synonyme: [[insoweit]], [[solange]], [[bis dahin]], [[unter diesen Umständen]], [[falls]]

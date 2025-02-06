@@ -1,1 +1,1 @@
-, [[Aufruf]], [[auffordern]]
+, [[Aufruf]], [[auffordern]], [[rufen]]

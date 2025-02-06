@@ -32,4 +32,4 @@ Morpheme: [[hab]][[en]]
 Partizip I: [[habend]], Partizip II: [[gehabt]]
 
 [[haben]] - [[hab]] = [[en]]
-''', [[geben]], [[s1 e1]]
+''', [[geben]], [[s1 e1]], [[Hilfsverb]]

@@ -28,4 +28,4 @@ PI: [[wollend]], PII: [[gewollt]], Zu+inf: [[zu wollen]]
 [[wollen]] - irregular verb / to want, to wish, to intend
 
 ---
-[[Wille]], [[willentlich]], [[willkürlich]], [[unwillig]], [[Willenskraft]], [[s1 e1]], [[müssen]]
+[[Wille]], [[willentlich]], [[willkürlich]], [[unwillig]], [[Willenskraft]], [[s1 e1]], [[müssen]], [[Hilfsverb]]

@@ -28,4 +28,4 @@ Superlativ: [[seltensten]]
 
 
 [[täglich]][[normal]], [[meist]], [[bald]], [[Öfteren]]
-, [[manchmal]]
+, [[manchmal]], [[üblich]]

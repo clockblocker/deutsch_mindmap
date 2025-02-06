@@ -27,4 +27,4 @@ PI: [[verbannend]], PII: [[verbannt]], Zu+inf: [[zuverbannen]]
 [[verbannen]] - [[ver]] = [[bannen]] / to banish, to exile, to expel
 
 ---
-[[Verbannung]], [[Verbot]], [[Exil]], [[verbannt]], [[Verbannter]], [[Verbannte]], [[verstoßen]]
+[[Verbannung]], [[Verbot]], [[Exil]], [[verbannt]], [[Verbannter]], [[Verbannte]], [[verstoßen]], [[ausstoßen]]

@@ -26,4 +26,4 @@ Feminine: [[mutige]], [[mutigere]], [[mutigste]]
 Neuter: [[mutiges]], [[mutigeres]], [[mutigestes]]  
 Plural: [[mutigen]], [[mutigeren]], [[mutigsten]]  
 
-[[Mut]], [[Mutigkeit]], [[mutigerweise]], [[Mutlosigkeit]]
+[[Mut]], [[Mutigkeit]], [[mutigerweise]], [[Mutlosigkeit]], [[scheu]], [[wagend]]

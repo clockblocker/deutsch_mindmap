@@ -3,8 +3,10 @@
 ---
 Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
 
+wenn du [[gleichzeitig]] hörst und liest, bekommst du:
+✔ bessere aussprache + intonation
 
-252. In Deutschland … (92%)
+1. In Deutschland … (92%)
 	- [x] darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.
 	- [ ] kann man mehrere [[Ehepartner]] / Ehepartnerinnen [[gleichzeitig]] haben.
 

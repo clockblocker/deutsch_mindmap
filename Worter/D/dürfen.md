@@ -59,4 +59,4 @@ to be allowed to, may
 **Morphems of only infinitive:**  
 - [[dürf]][[en]]
 
-, [[sollen]], [[müssen]]
+, [[sollen]], [[müssen]], [[Hilfsverb]]

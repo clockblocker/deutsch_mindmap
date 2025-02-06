@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Rocks]], [[Rockes]], [[Rocke]], [[Röcken]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Minirock]]

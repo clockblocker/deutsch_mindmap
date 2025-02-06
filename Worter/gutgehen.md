@@ -29,4 +29,4 @@ Zu+infinifive: [[gutgehen]]
 [[gutgehen]] - [[gut]] = [[gehen]]
 
 ---
-[[Gutgehen]], [[Erfolg]], [[Wohlergehen]], [[Gelingen]]
+[[Gutgehen]], [[Erfolg]], [[Wohlergehen]], [[Gelingen]], [[w-l]]

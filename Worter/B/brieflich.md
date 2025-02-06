@@ -1,1 +1,1 @@
-, [[Briefgeheimnis]]
+, [[Briefgeheimnis]], [[schriftlich]], [[mündlich]]

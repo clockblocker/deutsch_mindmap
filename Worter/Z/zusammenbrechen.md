@@ -1,1 +1,1 @@
-, [[aufstehen]], [[s1 e1]]
+, [[aufstehen]], [[s1 e1]], [[scheitern]], [[w-l]]

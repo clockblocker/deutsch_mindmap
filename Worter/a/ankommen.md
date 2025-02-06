@@ -1,62 +1,36 @@
-🚶 [[ankommen]]
-[[kam an]]
-sein [[angekommen]]
+🚶‍♂️ [[ankommen]], [ˈanˌkɔmən] | [[kam an]], sein [[angekommen]]
 
 ---
-*Da [[kommt]] der wilde Jägersmann*  
+Da [[kommt]] der wilde Jägersmann*  
 *zuletzt beim tiefen Brünnchen [[an]].*  
 
----
-
-**Synonyme:**
-
-- [[eintreffen]], [[erreichen]], [[landen]]
+Wenn ein Modalverb da ist, klingt Präteritum oft natürlicher als Passiv. Wenn es kein Modalverb gibt, dann [[ankommen|kommt]] es auf den Kontext [[an]].
 
 ---
-
-**Beispiele:**
-
-- Ich [[komme]] um 18 Uhr [[an]].
-- Du [[kommst]] bald [[an]].
-- Er [[kommt]] mit dem Zug [[an]].
-- Wir [[kommen]] morgen früh [[an]].
-- Ihr [[kommt]] rechtzeitig [[an]].
-- Sie [[kommen]] in der Stadt [[an]].
+= [[eintreffen]], [[gelangen]], [[erreichen]]
+≈ [[landen]], [[einfinden]], [[auftauchen]], [[erscheinen]]
+≠ [[abreisen]], [[abfahren]], [[verlassen]], [[wegfahren]]
 
 ---
-
-**Übersetzung**:
-to arrive
+to arrive, to reach, to get to
 
 ---
-#Verb #Trennbar
+[[an]]|[[komm]]|[[en]]
 
 ---
+ich: [[komme an]], [[kam an]], –, [[komme an]], [[käme an]]
+du: [[kommst an]], [[kamst an]], [[komme an]] | [[komm an]], [[kommest an]], [[kämest an]]
+er/sie/es: [[kommt an]], [[kam an]], –, [[komme an]], [[käme an]]
+wir: [[kommen an]], [[kamen an]], [[kommen wir an|kommen an]], [[kommen an]], [[kämen an]]
+ihr: [[kommt an]], [[kamt an]], [[kommt an]], [[kommet an]], [[kämet an]]
 
-**Präteritum:**
-
-- Ich [[kam an]].
-- Du [[kamst an]].
-- Er [[kam an]].
-- Sie [[kam an]].
-- Wir [[kamen an]].
-- Ihr [[kamt an]].
-- Sie [[kamen an]].
+PI: [[ankommend]], PII: [[angekommen]], Zu+inf: [[anzukommen]]
 
 ---
-
-**Imperativ:**
-
-- Ich [[komme an]].
-- Du [[komm an]].
-- Er [[komme an]].
-- Es [[komme an]].
-- Sie [[komme an]].
-- Wir [[kommen an]].
-- Ihr [[kommt an]].
-- Sie [[kommen an]].
+[[ankommen]] - [[an]] = [[kommen]] / to arrive, to reach, to get to
 
 ---
+[[Ankunft]], [[Ankömmmling]], [[ankömmbarer]], [[Ankunftsort]], [[Anreise]]
 
-**Morphems of only infinitive:**
+
 - [[an]][[kommen]][[weggehen]], [[verschwinden]], [[erreichten]], [[zugehen]], [[einreisen]], [[reisen]], [[s1 e1]], [[Ankunft]]

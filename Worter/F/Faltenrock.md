@@ -1,1 +1,1 @@
-, [[Rock]]
+, [[Rock]], [[Minirock]]

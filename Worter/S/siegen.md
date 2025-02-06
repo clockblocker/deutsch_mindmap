@@ -27,4 +27,4 @@ PI: [[siegend]], PII: [[gesiegt]], Zu+inf: [[zu siegen]]
 [[siegen]] - root form = to win, to triumph, to be victorious
 
 ---
-[[Sieg]], [[Sieger]], [[Siegerin]], [[siegreich]], [[Siegesfeier]], [[Siegespreis]]
+[[Sieg]], [[Sieger]], [[Siegerin]], [[siegreich]], [[Siegesfeier]], [[Siegespreis]], [[w-l]]

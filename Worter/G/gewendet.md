@@ -1,1 +1,1 @@
-, [[wenden]], [[Wende]]
+, [[wenden]], [[Wende]], [[Wendung]]

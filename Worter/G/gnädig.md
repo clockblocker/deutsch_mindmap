@@ -1,1 +1,1 @@
-, [[Vergebung]]
+, [[Vergebung]], [[Barmherzigen]]

@@ -1,1 +1,1 @@
-[[freuen]], [[erfreuen]]
+[[freuen]], [[erfreuen]], [[segnen]]

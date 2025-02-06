@@ -33,4 +33,4 @@ Tags:
 ---
 
 Morphems:
-[[saft]][[ig]]
+[[Saft]][[ig]], [[Fruchtsaft]]

@@ -9,7 +9,7 @@ Beispiele:
 
 ---
 Synonyme:
-- [[Wagen]], [[Fahrzeug]], [[PKW]]
+- [[wagen]], [[Fahrzeug]], [[PKW]]
 
 ---
 **Übersetzung**: car

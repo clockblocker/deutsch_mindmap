@@ -1,1 +1,1 @@
-, [[brauchen]], [[unentbehrlich]]
+, [[brauchen]], [[unentbehrlich]], [[hungern]]

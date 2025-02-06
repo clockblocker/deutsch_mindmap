@@ -1,1 +1,1 @@
-, [[Wirklichkeit]], [[Fähigkeiten]], [[Fähigkeit]], [[Tätigkeit]], [[Schwierigkeit]], [[Freizügigkeit]], [[Persönlichkeit]], [[Unantastbarkeit]]
+, [[Wirklichkeit]], [[Fähigkeiten]], [[Fähigkeit]], [[Tätigkeit]], [[Schwierigkeit]], [[Freizügigkeit]], [[Persönlichkeit]], [[Unantastbarkeit]], [[Dankbarkeit]]

@@ -1,1 +1,1 @@
-, [[jämmerlich]]
+, [[jämmerlich]], [[schmähen]]

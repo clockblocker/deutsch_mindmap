@@ -5,6 +5,7 @@ haben [[gecheckt]]
 ---
 Nur schnell die Nachrichten in den sozialen Netzwerken [[checken]], noch eben ein Foto verschicken oder einen kurzen Kommentar schreiben — diese Nebenbei-Aktivitäten bringen es  zusammengerechnet auf einige Stunden am Tag. 
 
+ja, deutsch ist manchmal einfach [[unnötig]] kompliziert. aber du hast das prinzip jetzt [[gecheckt]]:
 
 ---
 Synonyme: [[überprüfen]], [[kontrollieren]], [[verifikation]], [[testen]], [[untersuchen]]

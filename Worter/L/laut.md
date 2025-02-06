@@ -52,4 +52,4 @@ N: [[lautes]], [[lauteres]], [[lautestes]]
 P: [[lauten]], [[lauteren]], [[lautesten]]  
 
 ---
-[[Lautstärke]], [[lautlos]], [[lauten]], [[verlautbaren]], [[Lautsprecherˈ]]
+[[Lautstärke]], [[lautlos]], [[lauten]], [[verlautbaren]], [[Lautsprecherˈ]], [[mündlich]]

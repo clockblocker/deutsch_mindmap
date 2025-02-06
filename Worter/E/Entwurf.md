@@ -1,1 +1,1 @@
-, [[Urkunde]], [[entwerfen]]
+, [[Urkunde]], [[entwerfen]], [[Vorlage]]

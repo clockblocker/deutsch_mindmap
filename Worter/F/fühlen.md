@@ -3,6 +3,8 @@
 haben [[gefühlt]]
 
 ---
+Wie [[misst]] du deinen [[fortschritt]]?Machst du mock-tests oder einfach nur [[gefühltes]] [[verständnis]]?
+
 [[Fühle]] den [[Boden]] unter deinen Füßen.
 
 Er [[fühlt]] sich [[wohl]]

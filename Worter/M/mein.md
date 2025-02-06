@@ -25,4 +25,4 @@ N: [[meines]], [[meine]]
 P: [[meinen]], [[meiner]]  
 
 ---
-[[Meinigkeit]], [[meinig]], [[meinerseits]], [[meinesgleichen]]
+[[Meinigkeit]], [[meinig]], [[meinerseits]], [[meinesgleichen]], [[meinetwillen]]

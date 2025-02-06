@@ -33,4 +33,4 @@ Morpheme: [[Kauf]][[en]]
 | Sie       | [[kaufen]]           | [[kauften]]           | [[kaufen Sie]]    | [[kaufen]]             | [[kauften]]             |
 
 Partizip I: [[kaufend]], Partizip II: [[gekauft]]
-, [[angeln]]
+, [[angeln]], [[ausleihen]]

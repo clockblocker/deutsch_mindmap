@@ -1,1 +1,1 @@
-, [[gieren]]
+, [[gieren]], [[dürsten]]

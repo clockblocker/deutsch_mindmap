@@ -33,4 +33,4 @@ Einzigartige mögliche Formen:
 ---
 Zusätzliche Bemerkungen: Oft als Verb-Partizip von [[erwachsen]] (aufwachsen) abgeleitet, jetzt primär als Adjektiv verwendet.
 
-, [[entstehen]]
+, [[entstehen]], [[Erwachsenenanfängergruppe]]

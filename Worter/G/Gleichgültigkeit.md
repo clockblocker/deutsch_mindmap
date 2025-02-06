@@ -1,1 +1,1 @@
-, [[Schulterzucken]], [[verhalten]], [[Stolpersteine]], [[Bemühung]]
+, [[Schulterzucken]], [[verhalten]], [[Stolpersteine]], [[Bemühung]], [[Erbarmen]], [[Dankbarkeit]]

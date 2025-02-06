@@ -3,4 +3,4 @@
 Und in [[Wen]] ist Nic verliebt?  
 
 
-whom, [[Wende]]
+whom, [[Wende]], [[Nebensatz Conector]]

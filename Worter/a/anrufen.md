@@ -3,6 +3,7 @@
 haben [[angerufen]]
 
 ---
+“[[anrufen]]” [[verlangt]] Akkusativ (“mich”), nicht Dativ (“mir”)
 
 
 ---
@@ -13,7 +14,7 @@ Antonyme: [[auflegen]], [[ignorieren]], [[schweigen]]
 Übersetzung: to call (on the phone)
 
 ---
-Morpheme: [[an]][[ruf]][[en]]
+Morpheme: [[an]][[Ruf]][[en]]
  #Verb  #Trennbar
  
 
@@ -27,4 +28,4 @@ Morpheme: [[an]][[ruf]][[en]]
 | Sie | [[rufen an]] | [[riefen an]] | [[rufen Sie an]] | [[rufen an]] | [[riefen an]] |
 
 Partizip I: [[anrufend]], Partizip II: [[angerufen]], Zu Infinitiv: [[anzurufen]], 
-[[anrufen]] - [[an]] = [[rufen]]
+[[anrufen]] - [[an]] = [[rufen]], [[w-l]]

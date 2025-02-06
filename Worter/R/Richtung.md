@@ -37,4 +37,4 @@ Einzigartige mögliche Formen:
 [[Richtung]], [[Richtungern]]
 
 ---
-#Substantiv #Maskulin, [[zusteuern]], [[östlich]], [[s1 e1]], [[Anki]]
+#Substantiv #Maskulin, [[zusteuern]], [[östlich]], [[s1 e1]], [[Anki]], [[Fachrichtung]]

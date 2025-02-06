@@ -1,1 +1,1 @@
-[[Überheblich]], [[stolz]], [[ängstlich]], [[zaghaft]]
+[[Überheblich]], [[stolz]], [[ängstlich]], [[zaghaft]], [[scheu]]

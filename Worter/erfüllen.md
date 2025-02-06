@@ -30,4 +30,4 @@ Zu+infinitive: [[zu erfüllen]]
 [[erfüllen]] - [[er]] = [[füllen]] / to fulfill, to realize, to accomplish
 
 ---
-[[Erfüllung]], [[Erfüller]], [[Erfüllerin]], [[erfüllbar]], [[unerfüllbar]], [[Wunscherfüllung]], [[Bedingungserfüllung]], [[erwarten]], [[zufriedenstellen]]
+[[Erfüllung]], [[Erfüller]], [[Erfüllerin]], [[erfüllbar]], [[unerfüllbar]], [[Wunscherfüllung]], [[Bedingungserfüllung]], [[erwarten]], [[zufriedenstellen]], [[einhalten]], [[w-l]]

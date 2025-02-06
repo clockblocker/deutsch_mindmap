@@ -1,1 +1,1 @@
-, [[versuchen]], [[genießen]]
+, [[versuchen]], [[genießen]], [[ausprobieren]]

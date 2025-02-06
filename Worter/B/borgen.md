@@ -1,1 +1,1 @@
-, [[leihen]], [[entlehnen]]
+, [[leihen]], [[entlehnen]], [[ausleihen]]

@@ -1,1 +1,1 @@
-, [[Risiko]], [[Gefahr]]
+, [[Risiko]], [[Gefahr]], [[wagend]], [[wagen]]

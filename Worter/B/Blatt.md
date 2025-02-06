@@ -1,1 +1,1 @@
-, [[Seite]], [[Heft]]
+, [[Seite]], [[Heft]], [[Frucht]]

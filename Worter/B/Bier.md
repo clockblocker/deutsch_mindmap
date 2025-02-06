@@ -1,1 +1,1 @@
-, [[Feierabendbier]]
+, [[Feierabendbier]], [[ausprobieren]]

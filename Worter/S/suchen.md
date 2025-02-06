@@ -1,6 +1,8 @@
 🔍 [[suchen]], [[suchte]], haben [[gesucht]]
 
 ---
+Ich habe gefragt, ob sie jemandeN [[suchen]] 
+
 Episode Four: Sam [[Sucht]] Einen Job  
 SAM: … ich … [[suche]] mir … einen Job!  
 ich [[suche]] meine brille

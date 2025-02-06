@@ -3,6 +3,8 @@
 ---
 «O, nein,» atwortet der Verkäufer, «er spricht überhaupt nicht. Er kann nicht sprechen, aber er kann gut [[zuhören]].»
 
+1. Dieser kleine Junge [[zuhören|hört]] leider [[niemandeM]] zu. ^1
+
 ---
 = [[aufmerksam sein]], [[konzentrieren]], [[lauschen]]
 ≈ [[horchen]], [[vernehmen]], [[wahrnehmen]], [[achten]]

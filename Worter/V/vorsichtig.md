@@ -28,3 +28,4 @@ P: [[vorsichtigen]], [[vorsichtigeren]], [[vorsichtigsten]]
 [[Vorsicht]], [[vorsehen]], [[Vorsichtigkeit]], [[unvorsichtig]], [[Vorsichtsmaßnahme]]
 
  [[leichtsinnig]], [[überstürzen]], [[misstrauisch]], [[zaghaft]]
+, [[wagend]]

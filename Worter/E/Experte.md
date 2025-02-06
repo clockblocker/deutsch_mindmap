@@ -1,1 +1,1 @@
-, [[Geselle]], [[Meister]], [[räter]], [[Schwuler]], [[Weise]], [[Forscher]]
+, [[Geselle]], [[Meister]], [[räter]], [[Schwuler]], [[Weise]], [[Forscher]], [[Fachmann]], [[Anfänger]]

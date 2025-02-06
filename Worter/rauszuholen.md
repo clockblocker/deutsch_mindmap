@@ -1,0 +1,1 @@
+🏋️ [[rausholen]], [ˈʁaʊ̯sˌhoːlən] | [[holte raus]], haben [[rausgeholt]], [[schriftlich]], [[mündlich]]

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sprache]], [[Sprachen]], [[Sprache]], [[Sprache]], [[Sprache]], [[Sprache]], [[Sprache]], [[Sprachen]]
 
 ---
-#Substantiv #Feminin, [[Sprachunterricht]]
+#Substantiv #Feminin, [[Sprachunterricht]], [[schriftsprachlich]]

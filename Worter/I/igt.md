@@ -1,1 +1,1 @@
-, [[benachteiligt]]
+, [[benachteiligt]], [[gesättigt]]

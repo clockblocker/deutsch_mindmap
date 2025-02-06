@@ -4,6 +4,7 @@
 «O, nein,» atwortet der Verkäufer, «er spricht überhaupt nicht. Er kann nicht sprechen, aber er kann gut [[zuhören]].»
 «Na ja,» sagt der Mann. «Reden ist Silber, Schweigen ist Gold.»
 
+Es war an einem Sommertag an der Ostsee in einem kleinen Calé. Ein Junge und ein Mädchen saßen an meinem Tisch und [[schwiegen]]. [[13 Nebensätze.md#^1|(Quelle: 13 Nebensätze)]] 
 
 ---
 = [[stillschweigen]], [[sich ausschweigen]], [[nichts sagen]]
@@ -32,4 +33,4 @@ PI: [[schweigend]], PII: [[geschwiegen]], Zu+inf: [[zuschweigen]]
 
 [[sagen]], [[kontern]], [[erzählen]], [[Aufruf]], [[Schweigepflicht]], [[Angriffsgeschrei]], [[schreien]], [[funkten]], [[Schweigerecht]], [[Schweige]], [[rumquatschen]], [[Unterhaltung]], [[Anzeige]], [[Meinungsäußerung]], [[Aussage]], [[Vortrag]]
 
-, [[geigen]]
+, [[geigen]], [[rufen]]

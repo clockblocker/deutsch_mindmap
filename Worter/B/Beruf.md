@@ -15,7 +15,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Be]][[ruf]]
+[[Be]][[Ruf]]
 
 ---
 Einzigartige mögliche Formen: [[Berufs]], [[Berufe]], [[Berufen]]

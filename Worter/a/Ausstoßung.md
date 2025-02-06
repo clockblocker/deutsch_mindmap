@@ -1,1 +1,1 @@
-, [[verstoßen]], [[Aufnahme]]
+, [[verstoßen]], [[Aufnahme]], [[ausstoßen]]

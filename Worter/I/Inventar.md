@@ -1,1 +1,1 @@
-, [[Auflistung]]
+, [[Auflistung]], [[Ausrüstung]]

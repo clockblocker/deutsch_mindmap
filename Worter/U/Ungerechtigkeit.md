@@ -1,1 +1,1 @@
-, [[ungerecht]], [[Ungleichbehandlung]]
+, [[ungerecht]], [[Ungleichbehandlung]], [[Gerechtigkeit]]

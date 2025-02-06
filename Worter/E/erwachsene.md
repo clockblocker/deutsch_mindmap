@@ -1,1 +1,1 @@
-, [[erwachsen]]
+, [[erwachsen]], [[Erwachsenenanfängergruppe]]

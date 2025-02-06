@@ -1,1 +1,1 @@
-, [[Trauertag]]
+, [[Trauertag]], [[Trauernden]]

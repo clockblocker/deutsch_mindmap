@@ -1,1 +1,1 @@
-, [[mischen]]
+🔀 [[mischen]] | 🔀 [[gemischt]] | 🔀 [[gemischt]] (adjective)

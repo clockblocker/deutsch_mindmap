@@ -1,1 +1,1 @@
-, [[modern]], [[jüdisch]], [[preußisch]]
+, [[modern]], [[jüdisch]], [[preußisch]], [[üblich]]

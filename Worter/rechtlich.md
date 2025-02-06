@@ -28,4 +28,4 @@ N: [[rechtliches]], [[rechtlicheres]], [[rechtlichstes]]
 P: [[rechtlichen]], [[rechtlicheren]], [[rechtlichsten]]  
 
 ---
-[[Recht]], [[Rechtlichkeit]], [[rechtfertigen]], [[unrechtlich]], [[rechtskräftig]], [[gesetzgebend]]
+[[Recht]], [[Rechtlichkeit]], [[rechtfertigen]], [[unrechtlich]], [[rechtskräftig]], [[gesetzgebend]], [[Gerechtigkeit]]

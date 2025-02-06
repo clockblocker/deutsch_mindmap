@@ -1,1 +1,1 @@
-, [[ausbreiten]], [[Verbreitung]]
+, [[ausbreiten]], [[Verbreitung]], [[veröffentlichen]]

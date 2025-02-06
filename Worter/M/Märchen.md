@@ -1,4 +1,4 @@
-🧚‍♀️ 🔴 die [[Märchen]]
+🧚‍♀️ das [[Märchen]]
 die [[Märchen]]
 
 ---

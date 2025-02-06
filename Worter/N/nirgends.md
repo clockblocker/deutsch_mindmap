@@ -1,1 +1,1 @@
-[[irgendwo]], [[weit und breit]], [[überall]]
+[[irgendwo]], [[weit und breit]], [[überall]], [[allenthalben]]

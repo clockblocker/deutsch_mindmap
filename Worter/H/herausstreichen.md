@@ -1,1 +1,1 @@
-, [[hervorheben]]
+, [[hervorheben]], [[betonen]]

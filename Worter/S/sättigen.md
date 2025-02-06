@@ -1,0 +1,1 @@
+, [[gesättigt]], [[dürsten]], [[hungern]]

@@ -2,8 +2,9 @@
 = immediately = [[wie]]
 
 ---
+Zuerst grüßten sie mich und fragten, ob die Plätze noch frei sind, und dann [[vergaßen]] sie mich [[gleich]]. [[13 Nebensätze.md#^2|(Quelle: 13 Nebensätze)]] 
 
-122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
+1. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
 	- [x] [[frei]], [[gleich]], [[geheim]].
 
 Wer von uns beiden lässt denn hier jedes mal [[gleich]] seine Muskeln spielen, wenn er sein Spiegelbild im Wasser sieht?

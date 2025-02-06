@@ -26,3 +26,4 @@ Morpheme: [[still]][[en]]
 | Sie | [[stillen]] | [[stillten]] | [[stillen Sie]] | [[stillen]] | [[stillten]] |
 
 Partizip I: [[stillend]], Partizip II: [[gestillt]]
+, [[dürsten]]

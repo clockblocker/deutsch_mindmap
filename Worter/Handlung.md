@@ -2,7 +2,10 @@
 die [[Handlungen]]
 
 ---
-111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
+Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
+
+
+1. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
 	- [ ] Die Politik Israels [[öffentlich]] kritisieren.
 	- [ ] Das [[Aufhängen]] einer israelischen Flagge auf dem [[Privatgrundstück]].
 	- [ ] Eine Diskussion über die Politik Israels.

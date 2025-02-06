@@ -5,6 +5,8 @@ nicht [[zufrieden]]
 ---
 „Kanada, mein Lieblingsland!“, denkt Diana und stellt aber sofort etwas [[enttäuscht]] [[fest]]:  „Wenn er aus Kanada ist, bleibt er bestimmt nicht lange in Deutschland … Schade!“ 
 
+Er erklärte dem [[enttäuschten]] Mädchen im Telefongespräch, dass er ihr bald einen [[zärtlich|zärtlichen]] Brief schickt. [[13 Nebensätze.md#^2|(Quelle: 13 Nebensätze)]] 
+
 
 ---
 Synonyme: [[entmutigt]], [[niedergeschlagen]], [[frustriert]], [[resigniert]], [[deprimiert]]

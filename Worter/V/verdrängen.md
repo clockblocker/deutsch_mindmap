@@ -1,1 +1,1 @@
-, [[ablösen]], [[wegschubsen]], [[abstoßen]], [[behalten]], [[erinnern]], [[verstoßen]], [[vergessen]]
+, [[ablösen]], [[wegschubsen]], [[abstoßen]], [[behalten]], [[erinnern]], [[verstoßen]], [[vergessen]], [[verinnerlichen]]

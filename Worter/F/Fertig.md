@@ -2,6 +2,8 @@
 nicht [[unfertig]]
 
 ---
+«Doch, doch!» sagte er, nur weißt du, wenn du einen kurzen [[Minirock]] wie heute trägst, dann ist kein Gebäude [[fertig]]!» ^8
+
 SAM: Das Essen ist [[Fertig]]! Bitte setzt euch!  
 
 In fünf Minuten ist die Maske [[fertig]].

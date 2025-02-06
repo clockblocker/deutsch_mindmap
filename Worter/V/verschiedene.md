@@ -4,6 +4,8 @@ nicht [[gleich]], nicht [[einheitlich]]
 ---
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
+Super! Dann kannst du [[am besten]] zwei [[verschiedene]] Gruppen [[ausprobieren]] [[emails.md#^1|(Quelle: emails)]]
+
 Innerhalb Deutschlands gibt es [[verschiedene]] Regionen.
 
 Es gibt [[verschiedene]] [[Arten]] von Tieren.
@@ -34,4 +36,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[verschiedene]], [[verschiedener]], [[verschiedenes]], [[verschiedenen]], [[verschiedenem]]
 [[verschiedenere]], [[verschiedenerer]], [[verschiedeneres]], [[verschiedeneren]], [[verschiedenerem]]
-[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]], [[verschieden]], [[mehrere]], [[Anki]]
+[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]], [[verschieden]], [[mehrere]], [[Anki]], [[am besten]]

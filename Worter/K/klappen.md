@@ -31,4 +31,4 @@ Partizip I: [[klappend]],
 Partizip II: [[geklappt]]
 
 ---
-[[Klappen]], [[Klappe]], [[Klapprig]], [[Klappern]], [[gutgehen]]
+[[Klappen]], [[Klappe]], [[Klapprig]], [[Klappern]], [[gutgehen]], [[w-l]]

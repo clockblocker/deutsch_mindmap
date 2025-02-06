@@ -13,4 +13,4 @@ Synonyms:
 - [[als ob]]
 - [[wie wenn]]
 
-Tags:  #Adjective #Comparison, [[als-zu]]
+Tags:  #Adjective #Comparison, [[als-zu]], [[Nebensatz Conector]]

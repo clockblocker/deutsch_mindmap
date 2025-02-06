@@ -1,1 +1,1 @@
-, [[Betriebsrat]]
+, [[Betriebsrat]], [[Betrieb]]

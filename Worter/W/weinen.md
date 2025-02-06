@@ -1,6 +1,8 @@
 😭 [[weinen]], [ˈvaɪ̯nən] | [[weinte]], haben [[geweint]]
 
 ---
+3: Selig, die ihr jetzt [[weint]], denn ihr werdet [[lachen]].
+
 Der bitterböse Friederich,*  
 *der schrie und [[weinte]] bitterlich.*  
 
@@ -33,4 +35,4 @@ PI: [[weinend]], PII: [[geweint]], Zu+inf: [[zuweinen]]
 [[weinen]] / to cry, to weep
 
 ---
-[[Weinen]], [[weinend]], [[Träne]], [[weinerlich]], [[Heulerei]], [[Schluchzen]]
+[[Weinen]], [[weinend]], [[Träne]], [[weinerlich]], [[Heulerei]], [[Schluchzen]], [[jauchzen]]

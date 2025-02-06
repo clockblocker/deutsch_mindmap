@@ -2,6 +2,9 @@ solche, [ˈzɔlçə]
 nicht [[andere]]
 
 ---
+Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
+
+
 Unter [[solchen]] [[Bedingungen]] kann ich nicht arbeiten.
 
 Stop! Hört sofort auf damit! Was ist los mit dir? Wir haben keine Zeit für [[solche]] Spielchen.

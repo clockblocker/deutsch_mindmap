@@ -1,1 +1,1 @@
-, [[Durst]]
+, [[Durst]], [[dürsten]]

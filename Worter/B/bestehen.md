@@ -5,6 +5,8 @@ haben [[bestanden]]
 ---
 Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
 
+Was ist besser, [[um]] mich [[zu]] trainieren? umgangssprache oder hochdeutsch, wenn mein ziel ist, c1 zu [[bestehen]]?
+
 Ich habe die Prüfung nicht [[bestanden]], aber [[zumindest]] habe ich es versucht.
 
 Sie ist sich [[ziemlich]] sicher, dass sie die Prüfung [[bestanden]] hat.
@@ -40,4 +42,4 @@ Morpheme: [[be]][[steh]][[en]]
 
 Partizip I: [[bestehend]], Partizip II: [[bestanden]]
 
-[[bestehen]] - [[be]] = [[stehen]], [[dauern]], [[umentscheiden]], [[verzichten]], [[Führerscheinprüfung]], [[gelten]], [[vorliegen]], [[überleben]]
+[[bestehen]] - [[be]] = [[stehen]], [[dauern]], [[umentscheiden]], [[verzichten]], [[Führerscheinprüfung]], [[gelten]], [[vorliegen]], [[überleben]], [[w-l]]

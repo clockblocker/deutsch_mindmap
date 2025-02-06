@@ -1,1 +1,1 @@
-, [[Theatersaal]], [[Plenarsaal]]
+, [[Theatersaal]], [[Plenarsaal]], [[Halle]]

@@ -1,2 +1,2 @@
  [[gut]]
-#Adjective
+#Adjective, [[am besten]]

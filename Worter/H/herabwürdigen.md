@@ -1,1 +1,1 @@
-, [[beleidigen]], [[herabgezogen]], [[ehren]]
+, [[beleidigen]], [[herabgezogen]], [[ehren]], [[schmähen]]

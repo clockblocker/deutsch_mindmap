@@ -1,6 +1,9 @@
 🌍 [[übrigens]], [ˈyːbʁɪçns]
 
 ---
+[[Übrigens]], wenn ich dir etwas auf Deutsch schreibe, dann [[umschreiben|schreibe]] es in grammatikalisch korrektem Deutsch um.
+
+
 SASCHA: [[übrigens]] Anna: die Farbe steht dir gar nicht …  
 
 ---
@@ -19,4 +22,4 @@ Morpheme:
 [[über]][[ig]][[ens]]
 
 ---
-Übrigens kann man das Adverb [[übrigens]] an unterschiedlichen Stellen im Satz verwenden, um zusätzliche Informationen oder Nebengedanken einzubringen., [[sonst]]
+Übrigens kann man das Adverb [[übrigens]] an unterschiedlichen Stellen im Satz verwenden, um zusätzliche Informationen oder Nebengedanken einzubringen., [[sonst]], [[umschreiben]]

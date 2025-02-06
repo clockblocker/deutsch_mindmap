@@ -1,7 +1,9 @@
 🔵 [[leer]], [leːʁ]
 
-nicht [[gefüllt]], nicht [[voll]]
+---
 [[voll]] ist das Gegenteil von [[leer]].
+
+Sie trank ihr Glas [[leer]] und sah ihn dabei die ganze Zeit an. [[13 Nebensätze.md#^3|(Quelle: 13 Nebensätze)]] 
 
 Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein Geschäft läuft zurzeit nicht gut und sein Konto ist fast [[leer]]. 
 
@@ -31,4 +33,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[leer]], [[leerer]], [[leere]], [[leeres]], [[leeren]], [[leerem]], [[leerer]], [[leeren]]
 [[leerer]], [[leererer]], [[leerere]], [[leereres]], [[leereren]], [[leeserem]], [[leererer]], [[leereren]]
-[[leersten]], [[leerster]], [[leerste]], [[leerstes]], [[leersten]], [[leerstem]], [[leerster]], [[leersten]], [[bemannt]]
+[[leersten]], [[leerster]], [[leerste]], [[leerstes]], [[leersten]], [[leerstem]], [[leerster]], [[leersten]], [[bemannt]], [[dicht]]

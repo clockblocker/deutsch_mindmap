@@ -1,1 +1,1 @@
-, [[nach unten]]
+, [[nach unten]], [[aufwärts]]

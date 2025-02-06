@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Lehrlings]], [[Lehrling]], [[Lehrlinge]], [[Leh
 ---
 #Substantiv #Maskulin
 
-, [[Schüler]], [[Lehrstellensuche]]
+, [[Schüler]], [[Lehrstellensuche]], [[Bursche]]

@@ -1,1 +1,1 @@
-[[normal]][[mittel]][[besonders]], [[gewaltig]], [[durchschnittliches]], [[gewöhnlich]]
+[[normal]][[mittel]][[besonders]], [[gewaltig]], [[durchschnittliches]], [[gewöhnlich]], [[üblich]]

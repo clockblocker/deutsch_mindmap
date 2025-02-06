@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 [[hungrig]], [[hungriger]], [[hungrige]], [[hungriges]], [[hungrigen]], [[hungrigem]], [[hungriger]], [[hungrigen]]
 [[hungriger]], [[hungriger]], [[hungrigere]], [[hungrigeres]], [[hungriger]], [[hungriger]], [[hungriger]], [[hungriger]]
 [[hungrigsten]], [[hungrister]], [[hungriste]], [[hungristes]], [[hungrigsten]], [[hungristen]], [[hungrister]], [[hungrigsten]]
-'''
+''', [[hungern]]

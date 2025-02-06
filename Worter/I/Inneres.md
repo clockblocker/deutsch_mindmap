@@ -1,1 +1,1 @@
-, [[innerhalb]], [[Grenze]], [[Grenz]]
+, [[innerhalb]], [[Grenze]], [[Grenz]], [[verinnerlichen]]

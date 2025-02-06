@@ -1,1 +1,1 @@
-, [[frönen]], [[zuwenden]]
+, [[frönen]], [[zuwenden]], [[stiften]]

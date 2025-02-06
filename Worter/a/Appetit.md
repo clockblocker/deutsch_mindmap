@@ -19,4 +19,4 @@ Morphems:
 [[Appetit]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[gesättigt]]

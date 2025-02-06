@@ -3,6 +3,10 @@
 ---
 Wegen des heißen Sommers ist das Wasser [[knapp]].
 
+wenn du einer Situation [[knapp]] [[entkommen]] bist, kannst du sagen:
+
+“Das war [[knapp]]!” oder “Ich bin gerade so [[entkommen]].” oder “Ich war [[fast]] richtig.”
+
 ---
 = [[kurz]], [[bündig]], [[präzise]], [[begrenzt]]
 ≈ [[minimal]], [[denkbar]], [[gerade noch]], [[unterschwellig]]

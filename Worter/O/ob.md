@@ -1,7 +1,8 @@
-[[ob]], [ˈɔp]
+[[Nebensatz Conector]]
+[[ob]], [ˈɔp], 
 
 ---
-ANNA: Ich hab gefragt, ob du was trinken willst!!!
+ANNA: Ich hab gefragt, [[ob]] du was trinken willst!!!
 
 [[obwohl]]
 
@@ -33,4 +34,5 @@ Grammatikalische Funktion:
 Verwandte Wörter:
 - [[obwohl]] (although)
 - [[obgleich]] (although)
-- [[obs]] (colloquial contraction of "ob es")
+- [[obs]] (colloquial contraction of "ob es"), 
+

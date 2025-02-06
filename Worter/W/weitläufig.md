@@ -1,1 +1,1 @@
-, [[weit]], [[weit]], [[weit und breit]], [[knapp]]
+, [[weit]], [[weit]], [[weit und breit]], [[knapp]], [[dicht]]

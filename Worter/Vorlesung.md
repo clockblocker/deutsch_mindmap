@@ -8,7 +8,7 @@ Der Unterschied zwischen einer [[Vorlesung]] und einem Seminar ist, dass die Stu
 ---
 = [[Universitätsvortrag]], [[Akademische Rede]]
 ≈ [[Vortrag]], [[Kolleg]], [[Seminar]], [[Referat]]
-≠ [[Übung]], [[Praktikum]], [[Seminararbeit]]
+≠ [[Worter/Ü/Übung]], [[Praktikum]], [[Seminararbeit]]
 
 ---
 lecture, academic lecture

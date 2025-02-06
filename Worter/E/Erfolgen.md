@@ -30,4 +30,4 @@ Partizip II: [[erfolgt]]
 
 
 , [[Erfolg]], [[erfolgreich]]
-, [[Erfolgen]]
+, [[Erfolgen]], [[w-l]]

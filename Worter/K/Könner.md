@@ -1,1 +1,1 @@
-, [[Meister]]
+, [[Meister]], [[Anfänger]]

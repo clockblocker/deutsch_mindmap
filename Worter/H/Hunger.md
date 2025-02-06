@@ -1,6 +1,6 @@
 
 Singular: der [[Hunger]]
-Plural: die [[Hungern]]
+Plural: die [[hungern]]
 
 
 #Substantiv

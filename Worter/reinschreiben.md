@@ -26,7 +26,7 @@ Partizip I: [[reinschreibend]],
 Partizip II: [[reingeschrieben]]
 Zu+infinifive: [[reinzuschreiben]]
 
-[[reinschreiben]] - [[rein]] = [[schreiben]]
+[[reinschreiben]] - [[rein]] = [[schreiben]] / to write down, to jot down
 
 ---
 [[Reinschrift]], [[Reinschreiber]], [[Reinschreiberin]], [[Reinschreibung]]📝 [[reinschreiben]]

@@ -2,6 +2,8 @@
 die [[Entscheidungen]]
 
 ---
+Ich habe eine [[Entscheidung]] [[getroffen]]: Diesen Monat konzentriere ich mich nur auf Kamanova.
+
 Wir treffen eine [[Entscheidung]], [[nachdem]] jeder seine [[Ansichten]] mit uns [[geteilt]] hat.
 
 Manchmal muss man schwierige [[Entscheidungen]] [[treffen]] 

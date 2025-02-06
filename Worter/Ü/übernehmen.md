@@ -41,4 +41,4 @@ Morpheme: [[über]][[nehm]][[en]]
 
 Partizip I: [[übernehmend]], Partizip II: [[übernommen]]
 
-[[übernehmen]] - [[über]] = [[nehmen]], [[ablehnen]], [[Deutschland]], [[vertreten]], [[auffordern]], [[entlehnen]]
+[[übernehmen]] - [[über]] = [[nehmen]], [[ablehnen]], [[Deutschland]], [[vertreten]], [[auffordern]], [[entlehnen]], [[ausleihen]]

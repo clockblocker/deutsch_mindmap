@@ -1,1 +1,1 @@
-, [[erledigen]], [[schaffen]], [[überwinden]], [[überstehen]], [[zurechtkommen]], [[Worter/Herausforderung]], [[Herausforderung]]
+, [[erledigen]], [[schaffen]], [[überwinden]], [[überstehen]], [[zurechtkommen]], [[Worter/Herausforderung]], [[Herausforderung]], [[w-l]]

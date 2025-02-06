@@ -1,8 +1,8 @@
-🕵️[[verfolgen]] + Akk, [fɛɐ̯ˈfɔlɡən]
-[[verfolgte]]
-haben [[verfolgt]]
+🕵️[[verfolgen]] + Akk, [fɛɐ̯ˈfɔlɡən], [[verfolgte]], haben [[verfolgt]]
 
 ---
+8: Selig, die [[verfolgt]] werden um der [[Gerechtigkeit]] willen; denn ihnen gehört das Himmelreich.
+
 [[Verfolgung]] der Juden
 
 Die beiden Firmen [[verfolgen]] ein [[gemeinsames]] Ziel.

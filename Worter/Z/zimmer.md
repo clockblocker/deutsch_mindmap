@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Zimmers]], [[Zimmern]], [[Zimmer]]
 
 ---
-#Substantiv #Neutral, [[Flur]]
+#Substantiv #Neutral, [[Flur]], [[Halle]]

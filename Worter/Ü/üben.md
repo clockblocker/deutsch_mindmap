@@ -4,7 +4,7 @@ haben [[geübt]]
 
 ---
 NIC: Sam- ich muss [[üben]]!
-[[Übung]]
+[[Worter/Ü/Übung]]
 
 Nein, es reicht! Ich hab diese Sequenz den ganzen Tag lang [[geübt]]. Bringt mir die nächste bei! Ich bin schon lange soweit
 
@@ -37,4 +37,4 @@ Morpheme: [[üb]][[en]]
 | Sie       | [[üben]]             | [[übten]]             | [[üben Sie]]      | [[üben]]               | [[übten]]               |
 
 Partizip I: [[übend]], Partizip II: [[geübt]]
-, [[s1 e1]]
+, [[s1 e1]], [[üblich]]

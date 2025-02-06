@@ -1,1 +1,1 @@
-, [[Minderheit]], [[Gesellschaft]], [[Häuflein]], [[Menge]], [[Ansammlung]], [[Partei]]
+, [[Minderheit]], [[Gesellschaft]], [[Häuflein]], [[Menge]], [[Ansammlung]], [[Partei]], [[Erwachsenenanfängergruppe]]

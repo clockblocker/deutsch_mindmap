@@ -1,1 +1,1 @@
-, [[Trabant]], [[Rollstuhl]], [[Verkehrsmittel]]
+, [[Trabant]], [[Rollstuhl]], [[Verkehrsmittel]], [[wagen]]

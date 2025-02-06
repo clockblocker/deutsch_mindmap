@@ -2,11 +2,11 @@
 die [[Trainings]]
 
 ---
-[[Ausbildung]], [[Übung]], [[Weiterbildung]], [[Vereinstrainer]]
+[[Ausbildung]], [[Worter/Ü/Übung]], [[Weiterbildung]], [[Vereinstrainer]]
 
 
 ---
-= [[Übung]], [[Vorbereitung]], [[Einübung]]
+= [[Worter/Ü/Übung]], [[Vorbereitung]], [[Einübung]]
 ≈ [[Ausbildung]], [[Schulung]], [[Vorbereitung]], [[Konditionierung]]
 ≠ [[Faulheit]], [[Untätigkeit]], [[Stillstand]]
 

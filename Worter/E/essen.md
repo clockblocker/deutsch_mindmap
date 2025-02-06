@@ -61,4 +61,4 @@ to eat
 ---
 
 **Morphems of only infinitive:**  
-- [[ess]][[en]], [[fressen]], [[Backen]], [[löffeln]], [[schlucken]]
+- [[ess]][[en]], [[fressen]], [[Backen]], [[löffeln]], [[schlucken]], [[hungern]]

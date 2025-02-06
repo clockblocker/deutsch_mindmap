@@ -1,1 +1,1 @@
-, [[erfreut]], [[Freudiges]], [[erfreuen]]
+, [[erfreut]], [[Freudiges]], [[erfreuen]], [[jauchzen]]

@@ -3,6 +3,8 @@
 haben [[eingeladen]]
 
 ---
+Als sie mich zu sich [[eingeladen]] hat, sagte ich ihr, dass ich leider keine Zeit hatte
+
 Und meine Schwester Martha hat uns schon immer mal [[einladen]] wollen. 
 
 Also [[lädt]] Adrian Emilie zum Essen [[ein]]. Es gibt Spaghetti mit leckerer Soße und selbst [[gemachtes]] Eis. [[Während]] die beiden am Tisch sitzen und das Eis [[löffeln]], schaut Adrian Emilie tief in die Augen und sie stellt fest: Ich hab diesen Mann zum [[fressen]] gern. 

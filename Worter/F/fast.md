@@ -3,6 +3,8 @@ fast, [fɑst], [[bald]]
 ---
 Ich hätte [[fast]] den Bus verpasst.
 
+Wenn du einer Situation [[knapp]] [[entkommen]] bist, kannst du sagen: “Das war [[knapp]]!” oder “Ich bin gerade so [[entkommen]].” oder “Ich war [[fast]] richtig.”
+
 Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]
 
 Und manche Menschen hören sich dabei [[fast]] so an wie ein Vogel – wie der Zaunkönig, der auch Schneekönig genannt wird. 

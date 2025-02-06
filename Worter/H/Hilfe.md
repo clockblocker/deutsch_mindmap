@@ -5,4 +5,4 @@ Beispiele:
 SASCHA: [[Hilfe]], komm schon [[rein]].
 [[Hilfe]], es ist die Vermieterin!
 
-, [[Unterstützung]], [[beistehen]], [[helfen]]
+, [[Unterstützung]], [[beistehen]], [[helfen]], [[Hilfsverb]]

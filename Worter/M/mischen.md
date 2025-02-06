@@ -1,6 +1,7 @@
 🌪️ [[mischen]], [ˈmɪʃən] | [[mischte]], haben [[gemischt]]
 
 ---
+Montags von 19:30-21 Uhr trainiert eine [[Erwachsenenanfängergruppe]] und dienstags und donnerstags trainiert eine [[gemischte]] Gruppe [[jeweils]] von 18:30-20 Uhr. [[emails.md#^2|(Quelle: emails)]]
 
 
 ---

@@ -1,1 +1,1 @@
-, [[achten]], [[genießen]], [[bewundern]], [[respektieren]]
+, [[achten]], [[genießen]], [[bewundern]], [[respektieren]], [[schmähen]]

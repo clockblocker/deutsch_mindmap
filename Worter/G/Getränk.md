@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Getränks]], [[Getränke]], [[Getränken]]
 
 ---
-#Substantiv #Neutrum, [[Getränkekasten]]
+#Substantiv #Neutrum, [[Getränkekasten]], [[Fruchtsaft]], [[Saft]]

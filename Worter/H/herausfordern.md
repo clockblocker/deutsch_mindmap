@@ -27,4 +27,4 @@ PI: [[herausfordernd]], PII: [[herausgefordert]], Zu+inf: [[herauszufordern]]
 [[herausfordern]] - [[heraus]] = [[fordern]] / to challenge, to provoke, to dare
 
 ---
-[[Herausforderung]], [[Herausforderer]], [[Herausforderin]], [[fordernd]], [[Aufforderung]]
+[[Herausforderung]], [[Herausforderer]], [[Herausforderin]], [[fordernd]], [[Aufforderung]], [[wagen]]

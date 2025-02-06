@@ -1,7 +1,13 @@
 das [[Dach]]
 die [[Dächer]]
 
-Beispiele:
+---
+Wenn der _Hanns_ zur Schule ging,  
+stets sein Blick am Himmel hing.  
+Nach den [[Dächern]], Wolken, [[Schwalben]]  
+schaut er [[aufwärts]] [[allenthalben]].   [[8  Die Geschichte vom Hanns Guck-in-die-Luft.md#^1|(Quelle: 8  Die Geschichte vom Hanns Guck-in-die-Luft)]] 
+
+
 - Alle meine Täubchen gurren auf dem [[Dach]], 
 - Das [[Dach]] des Hauses ist rot. (The roof of the house is red.)
 

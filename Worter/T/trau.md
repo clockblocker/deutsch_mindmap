@@ -1,2 +1,2 @@
 [[trauen]]
-[[vertrauen]], [[antrauen]], [[misstrauisch]]
+[[vertrauen]], [[antrauen]], [[misstrauisch]], [[Trauernden]]

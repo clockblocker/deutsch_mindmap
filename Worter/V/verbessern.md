@@ -30,4 +30,4 @@ Zu+infinitive: [[zu verbessern]]
 [[verbessern]] - [[ver]] = [[bessern]] // улучшать
 
 ---
-[[Verbesserung]], [[Verbesserungspotenzial]], [[Verbesserungsvorschlag]], [[Verbesserungsmaßnahme]], [[Selbstverbesserung]], [[antun]]
+[[Verbesserung]], [[Verbesserungspotenzial]], [[Verbesserungsvorschlag]], [[Verbesserungsmaßnahme]], [[Selbstverbesserung]], [[antun]], [[am besten]]

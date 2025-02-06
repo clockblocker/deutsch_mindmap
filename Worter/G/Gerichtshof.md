@@ -1,1 +1,1 @@
-, [[Gericht]], [[Amtsgericht]], [[Bundesverfassungsgericht]]
+, [[Gericht]], [[Amtsgericht]], [[Bundesverfassungsgericht]], [[Gerechtigkeit]]

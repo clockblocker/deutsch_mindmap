@@ -1,1 +1,1 @@
-, [[herausnehmen]], [[abscheiden]]
+, [[herausnehmen]], [[abscheiden]], [[ausstoßen]]

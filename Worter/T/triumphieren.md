@@ -1,1 +1,1 @@
-, [[besiegen]], [[siegen]], [[unterliegen]]
+, [[besiegen]], [[siegen]], [[unterliegen]], [[jauchzen]], [[scheitern]], [[w-l]]

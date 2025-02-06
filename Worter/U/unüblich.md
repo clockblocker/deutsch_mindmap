@@ -1,1 +1,1 @@
-, [[durchschnittliches]]
+, [[durchschnittliches]], [[üblich]]

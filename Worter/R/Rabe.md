@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Raben]], [[Raben]], [[Raben]], [[Raben]]
 
 ---
-#Substantiv #Maskulin, [[kohlpechrabenschwarzer]]
+#Substantiv #Maskulin, [[kohlpechrabenschwarzer]], [[Schwalbe]]

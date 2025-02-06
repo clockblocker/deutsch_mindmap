@@ -1,4 +1,4 @@
-🔴 die [[Übung]]
+🔴 die [[Worter/Ü/Übung]]
 die [[Übungen]]
 
 Beispiele:
@@ -13,4 +13,4 @@ Synonyme:
 **Übersetzung**: exercise, practice
 
 ---
-#Substantiv #Feminin, [[üben]], [[Vorlesung]]
+#Substantiv #Feminin, [[üben]], [[Vorlesung]], [[üblich]]

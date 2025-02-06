@@ -1,6 +1,8 @@
 🏃‍♂️[[vorbereiten]] | [[bereitete vor|bereitete vor]], haben [[vorbereitet]]
 
 ---
+[[Soweit]] ich verstehe, muss ich wirklich gut auf Hören/Lesen [[vorbereitet]] sein.
+
 [[Hilfreiche]] Tipps finden Sie unter "Zustellung [[vorbereiten]]".
 
 Gloria hat morgen [[Führerscheinprüfung]]. Sie ist gut [[vorbereitet]], hat aber [[dennoch]] Angst. 

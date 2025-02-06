@@ -1,1 +1,1 @@
-, [[aufnehmen]]
+, [[aufnehmen]], [[schreiben]]

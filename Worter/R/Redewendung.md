@@ -13,7 +13,7 @@ Synonyme:
 idiom, figure of speech
 
 ---
-[[Rede]][[wendung]]
+[[Rede]][[Wendung]]
 
 ---
 Case: Singular, Plural  

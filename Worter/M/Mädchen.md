@@ -1,1 +1,1 @@
-[[Fräulein]], [[Weib]], [[Töchterlein]]
+[[Fräulein]], [[Weib]], [[Töchterlein]], [[Bursche]]

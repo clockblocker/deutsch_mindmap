@@ -1,1 +1,1 @@
-, [[nach unten]], [[klettern]], [[hinaufklettern]]
+, [[nach unten]], [[klettern]], [[hinaufklettern]], [[aufwärts]]

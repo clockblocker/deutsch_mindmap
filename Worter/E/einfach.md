@@ -4,6 +4,8 @@ nicht [[kompliziert]]
 ---
 in Kilo [[Mehl]], es kann von der [[einfachen]] [[Sorte]] sein
 
+Aber wie [[einfach]] ist es, sich bei Sprechen/Schreiben mit [[auswendig]] gelernten [[Vorlagen]] [[durchzumogeln]]?
+
 *Wir wollen nichts [[versäumen]]*  
 *Wollen nichts [[verpassen]]*  
 *Doch du bleibst [[einfach]] liegen*  
@@ -44,4 +46,4 @@ Eines der Kinder hat sich beim Spielen [[verletzt]].
 
   
 Petra und Klaus kochen, sie bekommen [[Besuch]]
-, [[s1 e1]], [[lediglich]]
+, [[s1 e1]], [[lediglich]], [[Vorlage]], [[durchmogeln]]

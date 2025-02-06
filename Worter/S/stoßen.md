@@ -9,6 +9,7 @@ _Sokka [[stößt]] ihm mit dem Ende des Speers an den Kopf und Katara schlägt i
 
 ---
 [[verstoßen]] - [[ver]] = [[stoßen]] / to banish, to exile, to reject
+[[ausstoßen]] - [[aus]] = [[stoßen]] / to expel, to emit, to banish
 
 ---
 Synonyme: [[schubsen]], [[drücken]], [[werfen]], [[rempeln]], [[anstoßen]]

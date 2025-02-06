@@ -38,4 +38,4 @@ Partizip I: [[fassend]], Partizip II: [[gefasst]]
 [[fassen]] - [[fass]] = [[en]]
 '''
 
-[[greifen]], [[Extra 8]], [[entwischen]], [[nehmen]], [[s1 e1]]
+[[greifen]], [[Extra 8]], [[entwischen]], [[nehmen]], [[s1 e1]], [[Zusammenfassung]], [[zusammenfassen]]

@@ -43,4 +43,4 @@ Beispiele:
 Grammatical Usage:
 - Typically used with definite article
 - Can be modified by adjectives
-- Often the object of prepositions and verbs related to planning or anticipation, [[Anki]]
+- Often the object of prepositions and verbs related to planning or anticipation, [[Anki]], [[Vergangenheit]]

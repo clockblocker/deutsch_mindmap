@@ -1,1 +1,1 @@
-, [[einbauen]], [[verbannen]], [[vereinen]], [[verstoßen]], [[anfügen]]
+, [[einbauen]], [[verbannen]], [[vereinen]], [[verstoßen]], [[anfügen]], [[ausstoßen]]

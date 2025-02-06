@@ -26,4 +26,4 @@ Morpheme:
 ---
 
 [[irgendwo]], [[bald]]
-, [[weit und breit]], [[prächtig]]
+, [[weit und breit]], [[prächtig]], [[allenthalben]]

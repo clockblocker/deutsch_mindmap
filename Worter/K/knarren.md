@@ -1,6 +1,8 @@
 🚪 [[knarren]], [ˈknarən] | [[knarrte]], haben [[geknarrt]]
 
 ---
+Ja, macht sinn – erst c1 [[knacken]], dann die app bauen. 
+
 [[Kaum]] der [[Wunsch]] gesprochen [[ward]],*  
 *als die Türe [[leise]] [[knarrt]]:*  
 *Zu den Mädchen, zu den drein,*  

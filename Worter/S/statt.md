@@ -2,6 +2,10 @@ NIC: Und du hast Apfelsinen [[statt]] Äpfel gekauft!
 Ich [[nehme]] [[statt]] der Suppe einen Salat
 ANNA: Sam hat 10 Kilo Apfelsinen eingekauft – [[statt]] 10 Äpfel.
 
+
+Das Training findet ab 10.2.25 wieder regulär [[statt]] (diese Woche sind Winterferien)[[emails.md#^3|(Quelle: emails)]]
+
+
 instead of
 
 ---

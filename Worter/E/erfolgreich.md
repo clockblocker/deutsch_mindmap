@@ -28,4 +28,4 @@ Plural: [[erfolgreichen]], [[erfolgreicheren]], [[erfolgreichsten]]
 [[Erfolg]], [[Erfolgsaussicht]], [[Erfolglosigkeit]], [[erfolgsorientiert]], [[erfolgreich sein]]
 
 , [[vergebens]], [[Erfolg]]
-, [[Erfolgen]]
+, [[Erfolgen]], [[w-l]]

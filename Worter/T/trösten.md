@@ -1,6 +1,8 @@
 🤗 [[trösten]], [ˈtʁøːstən] | [[tröstete]], haben [[getröstet]]
 
 ---
+2: Selig die [[Trauernden]]; denn sie werden [[getröstet]] werden.
+
 Elenas Freundin Susanne versucht, sie zu [[trösten]]: „Ärgere dich nicht! Deine Chefin sucht doch immer ein Haar in der Suppe. Sie ist eben besonders kritisch, aber das hat nichts mit dir zu tun. Ich bin mir sicher: Sie weiß genau, wie gut du arbeitest!“
 
 

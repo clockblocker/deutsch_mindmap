@@ -4,6 +4,9 @@ nicht [[unbekannt]]
 ---
 Jenny ist Journalistin und schreibt gerne über [[Prominente]] und [[bekannte]] Personen. 
 
+• **‘weil’** [[betont]] die **kausale [[Begründung]]** stärker → **Antwort auf ‘warum?’**
+• **‘da’** klingt etwas neutraler und wird oft für **[[bekannte]] Gründe** benutzt → **mehr [[schriftsprachlich]]**
+
 ---
 Synonyme: [[vertraut]], [[geläufig]], [[eingeführt]], [[anerkannt]], [[berühmt]]
 Antonyme: [[unbekannt]], [[fremd]], [[neu]], [[anonym]], [[ignoriert]]

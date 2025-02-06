@@ -4,6 +4,8 @@ nicht [[fest]]
 ---
 6. Wäsche [[locker]] und trocken einfüllen.
 
+Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
+
 | **Katara** | [Schockiert] Nein Aang! Geh nicht!                                   |
 | ---------- | -------------------------------------------------------------------- |
 | **Aang**   | *Ganz [[locker]]* Keine Angst Katara. Mir [[passiert]] schon nichts. |
