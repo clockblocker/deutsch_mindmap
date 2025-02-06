@@ -1,4 +1,12 @@
-1. Мы должны были вас послушаться, но, к сожалению, не послушались.  Wir mussten Ihnen [[zuhören]], aber leider haben wir nicht zugehört
+1. Мы должны были вас послушаться, но, к сожалению, не послушались. Wir sollten fur Sie gehört haben, aber leider haben wir es nicht getan.
+Wir sollten auf Sie gehört haben, aber leider haben wir es nicht getan.
+
+
+Wir hätten auf Sie hören sollen, aber leider haben wir es nicht getan.
+Note: The conditional past tense is used in German (hätten sollen) to express regret about something that did not happen in the past.
+
+
+  Wir mussten Ihnen [[zuhören]], aber leider haben wir nicht zugehört
 
 Trozdem / [[deshalb]] 
 
@@ -225,23 +233,23 @@ schon lange - уже давно j-m den Kopf verdrehen -
 13.1 Раскройте скобки и заполните пропуски придаточными предложениями дополнительными:
 
 	1. Er sagte, dass er Deutsch     lernt (Er lernt Deutsch).  
-1. Sie schreibt, dass sie unsere Hilfe braucht (Sie braucht unsere Hilfe).  
-2. Sie erzählten uns, dass sie am Samstag einen grossem Fisch gefangen haben  
-3. Ich sehe jetzt, dass du schon sehr gut Klavier spielst (Du spielst Klavier schon sehr gut).  
-4. Sie antwortete, dass sie gestern keine Zeit hatte (Sie hatte gestern keine Zeit).  
-5. Er versteht, dass er jeden Tag Sport treiben soll (Er soll jeden Tag Sport treiben).  
-6. Er erzählt, dass er diese Information im Internet finden wollte (Er wollte diese Information im Internet finden).  
-7. Sie schrieb in ihrem Brief, was sie im Winter für ihren Sohn braucht (Sie braucht im Winter für ihren Sohn).  
-8. Er fragte, was sie in der Schule lernen (Sie lernen in der Schule).  
-9. Wir [[zeigten]] unseren Freunden, was wir in unserem Geschäft gekauft haben (Wir kauften in unserem Geschäft).  
-10. Er versteht gut, was ich jetzt sagen will (Ich will jetzt sagen).  
-11. Sie erzählt uns nicht, [[wenn]] sei oft anruft (Sie ruft oft an).  
-12. Ich fragte meine Freundin, [[wann]] sie uns zu ihr einlädt  (Sie lädt uns zu ihr ein).  
-13. Sag mal, wen du gestern in der Uni gesucht haben (Du suchtest gestern in der Uni).  
-14. Ich verstehe ganz gut, wem ......... (Diese Wohnung gehört ihm).  
-15. Er fragte mich, wem ......... (Ich wollte ihr zum Geburtstag gratulieren).  
-16. Sie erzählten mir, wem ......... (Dieses neue Märchen gefiel ihnen).  
-17. Sag mal, wem ......... (Er schenkte ihr heute schöne Blumen).
+2. Sie schreibt, dass sie unsere Hilfe braucht (Sie braucht unsere Hilfe).  
+3. Sie erzählten uns, dass sie am Samstag einen grossem Fisch gefangen haben  
+4. Ich sehe jetzt, dass du schon sehr gut Klavier spielst (Du spielst Klavier schon sehr gut).  
+5. Sie antwortete, dass sie gestern keine Zeit hatte (Sie hatte gestern keine Zeit).  
+6. Er versteht, dass er jeden Tag Sport treiben soll (Er soll jeden Tag Sport treiben).  
+7. Er erzählt, dass er diese Information im Internet finden wollte (Er wollte diese Information im Internet finden).  
+8. Sie schrieb in ihrem Brief, was sie im Winter für ihren Sohn braucht (Sie braucht im Winter für ihren Sohn).  
+9. Er fragte, was sie in der Schule lernen (Sie lernen in der Schule).  
+10. Wir [[zeigten]] unseren Freunden, was wir in unserem Geschäft gekauft haben (Wir kauften in unserem Geschäft).  
+11. Er versteht gut, was ich jetzt sagen will (Ich will jetzt sagen).  
+12. Sie erzählt uns nicht, [[wenn]] sei oft anruft (Sie ruft oft an).  
+13. Ich fragte meine Freundin, [[wann]] sie uns zu ihr einlädt  (Sie lädt uns zu ihr ein).  
+14. Sag mal, wen du gestern in der Uni gesucht haben (Du suchtest gestern in der Uni).  
+15. Ich verstehe ganz gut, wem ......... (Diese Wohnung gehört ihm).  
+16. Er fragte mich, wem ......... (Ich wollte ihr zum Geburtstag gratulieren).  
+17. Sie erzählten mir, wem ......... (Dieses neue Märchen gefiel ihnen).  
+18. Sag mal, wem ......... (Er schenkte ihr heute schöne Blumen).
 
 [[Zusammenfassung]]
 
@@ -255,159 +263,159 @@ Wenn ein Modalverb da ist, klingt Präteritum oft natürlicher als Passiv. Wenn 
 
 13.3 Раскройте скобки и заполните пропуски придаточными предложениями дополнительными, выражающими косвенные вопросы и вопросы, выраженные с помощью вопросительных слов wie, wo, warum usw.:
 
-18. Er fragt, ob ......... (Gestern hatte ich Kopfweh).  
-19. Sie fragen, [[ob]] du in einem schönen Haus wohnst (Du wohnst in einem schönen Haus).  
-20. Darf ich Sie fragen, ob Ihnen dieses Auto gehört (Ihnen gehört dieses Auto).  
-21. Ich fragte, ob ich meinen Kollegen anrufen sollte (Ich sollte meinen Kollegen anrufen).  
-22. Sag mir, [[wie]] du gewöhnlich nach Hause fährst (Du fährst [[gewöhnlich]] nach Hause).  
-23. Sie [[zeigten]] uns, wie sie gestern die leckeren [[Speisen]] gekocht haben (Sie kochten gestern die leckeren Speisen).
-24. Er antwortete mir nicht, wie er eine neue Arbeit gefunden hat (Er fand eine neue Arbeit).
-25. Du möchtest nicht sagen, wie ich mit diesen Menschen sprechen soll (Ich soll mit diesen Menschen sprechen).
-26. Er fragte uns, wo wir Sport nach dem Unterricht trieben (Wir trieben Sport nach dem Unterricht).
-27. Sie erzählte, wo sie vor kurzem ein schönes Kleid gekauft hat (Sie kaufte vor kurzem ein schönes Kleid).  
-28. Er sagt nicht, wo er einen alten Brief von unseren Freunden gefunden hat (Er fand einen alten Brief von unseren Freunden).  
-29. Ich verstehe nicht, wohin sie heute Nachmittag gefahren ist (Sie [[fuhren]] heute Nachmittag).  
-30. Er erzählte mir, wohin er in den Urlaub mit sei (Er fährt in den Urlaub mit seiner Schwester).  
-31. Sie fragte, wohin sie den Brief schicken sollte (Sie sollte den Brief schicken).  
-32. Wir fragten, woher sie gestern einen Brief bekommen hat (Sie bekam gestern einen Brief).  
-33. Sie erzählte mir, woher sie vor drei Jahren nach Moskau gekommen ist (Vor drei Jahren kam sie nach Moskau).  
-34. Ich konnte nicht verstehen, woher er uns anrufen wollte (Er wollte uns anrufen).  
-35. Ich konnte nicht verstehen, warum sie gestern nicht zu uns gekommen sind  (Gestern kamen sie zu uns nicht).  
-36. Sie fragte mich, warum dieses Bild bei mir zu Hause hing (Dieses Bild hing bei mir zu Hause).  
-37. Er erzählte uns, warum er einen neuen Wagen kaufen möchte (Er möchte einen neuen Wagen kaufen).  
-38. Er sagte uns nicht, warum seine Freundin unsere Hilfe brauchte (Seine Freundin brauchte unsere Hilfe).  
-39. Ihr antwortet nicht, warum ihr heute so spät aufgestanden seid (Ihr standet heute so spät auf).
+19. Er fragt, ob ......... (Gestern hatte ich Kopfweh).  
+20. Sie fragen, [[ob]] du in einem schönen Haus wohnst (Du wohnst in einem schönen Haus).  
+21. Darf ich Sie fragen, ob Ihnen dieses Auto gehört (Ihnen gehört dieses Auto).  
+22. Ich fragte, ob ich meinen Kollegen anrufen sollte (Ich sollte meinen Kollegen anrufen).  
+23. Sag mir, [[wie]] du gewöhnlich nach Hause fährst (Du fährst [[gewöhnlich]] nach Hause).  
+24. Sie [[zeigten]] uns, wie sie gestern die leckeren [[Speisen]] gekocht haben (Sie kochten gestern die leckeren Speisen).
+25. Er antwortete mir nicht, wie er eine neue Arbeit gefunden hat (Er fand eine neue Arbeit).
+26. Du möchtest nicht sagen, wie ich mit diesen Menschen sprechen soll (Ich soll mit diesen Menschen sprechen).
+27. Er fragte uns, wo wir Sport nach dem Unterricht trieben (Wir trieben Sport nach dem Unterricht).
+28. Sie erzählte, wo sie vor kurzem ein schönes Kleid gekauft hat (Sie kaufte vor kurzem ein schönes Kleid).  
+29. Er sagt nicht, wo er einen alten Brief von unseren Freunden gefunden hat (Er fand einen alten Brief von unseren Freunden).  
+30. Ich verstehe nicht, wohin sie heute Nachmittag gefahren ist (Sie [[fuhren]] heute Nachmittag).  
+31. Er erzählte mir, wohin er in den Urlaub mit sei (Er fährt in den Urlaub mit seiner Schwester).  
+32. Sie fragte, wohin sie den Brief schicken sollte (Sie sollte den Brief schicken).  
+33. Wir fragten, woher sie gestern einen Brief bekommen hat (Sie bekam gestern einen Brief).  
+34. Sie erzählte mir, woher sie vor drei Jahren nach Moskau gekommen ist (Vor drei Jahren kam sie nach Moskau).  
+35. Ich konnte nicht verstehen, woher er uns anrufen wollte (Er wollte uns anrufen).  
+36. Ich konnte nicht verstehen, warum sie gestern nicht zu uns gekommen sind  (Gestern kamen sie zu uns nicht).  
+37. Sie fragte mich, warum dieses Bild bei mir zu Hause hing (Dieses Bild hing bei mir zu Hause).  
+38. Er erzählte uns, warum er einen neuen Wagen kaufen möchte (Er möchte einen neuen Wagen kaufen).  
+39. Er sagte uns nicht, warum seine Freundin unsere Hilfe brauchte (Seine Freundin brauchte unsere Hilfe).  
+40. Ihr antwortet nicht, warum ihr heute so spät aufgestanden seid (Ihr standet heute so spät auf).
 
 13.7 Раскройте скобки и заполните пропуски придаточными предложениями причины.
 Обратите внимание на употребление придаточных с союзным словом da преимущественно перед главным предложением:
 
-40. Er blieb am Wochenende zu Hause, weil er sehr müde war (Er war sehr müde).  
-41. Wir tanzten im Café nicht, weil die Musik uns nicht gefiel (Die Musik gefiel uns nicht).  
-42. Er wartete auf mich so lange in der Uni, weil er mir fiel erzählen wollte (Er wollte mir viel erzählen).  
-43. Es [[klappt]] bei uns alles, weil wir früh aufstehen (Wir stehen früh auf).  
-44. Sie sieht sehr gut aus, weil sie nicht sehr fiel isst (Sie isst nicht sehr viel).  
-45. Vor einer Woche fuhr er aufs Land, weil er seine Großeltern besuchen wollte (Er wollte seine Großeltern besuchen).  
-46. Da es keine Straßenbahn in Venedig gibt , fährt man entweder mit dem Boot oder mit dem Wagen.  
-47. Da man im Juni Prüfungen machen muss, ist es nicht die richtige Zeit für den Urlaub.  
-48. Da es keine gute Bibliothek in ihrer kleinen Stadt gibt, besuchen sie die Bibliothek in unserer Stadt.  
-49. Da es im Sommer sehr schön auf dem Land ist, fährt er oft zu seiner Tante.
+41. Er blieb am Wochenende zu Hause, weil er sehr müde war (Er war sehr müde).  
+42. Wir tanzten im Café nicht, weil die Musik uns nicht gefiel (Die Musik gefiel uns nicht).  
+43. Er wartete auf mich so lange in der Uni, weil er mir fiel erzählen wollte (Er wollte mir viel erzählen).  
+44. Es [[klappt]] bei uns alles, weil wir früh aufstehen (Wir stehen früh auf).  
+45. Sie sieht sehr gut aus, weil sie nicht sehr fiel isst (Sie isst nicht sehr viel).  
+46. Vor einer Woche fuhr er aufs Land, weil er seine Großeltern besuchen wollte (Er wollte seine Großeltern besuchen).  
+47. Da es keine Straßenbahn in Venedig gibt , fährt man entweder mit dem Boot oder mit dem Wagen.  
+48. Da man im Juni Prüfungen machen muss, ist es nicht die richtige Zeit für den Urlaub.  
+49. Da es keine gute Bibliothek in ihrer kleinen Stadt gibt, besuchen sie die Bibliothek in unserer Stadt.  
+50. Da es im Sommer sehr schön auf dem Land ist, fährt er oft zu seiner Tante.
 
 13.11* Заполните пропуски неопределёнными местоимениями etwas/nichts и jemand/niemand.
 Обратите внимание на падежные изменения местоимений jemand и niemand, а также на то, что в немецком языке в предложениях употребляется только одно отрицание:
 
-50. Darf ich fragen, ob sie etwas trinken möchten?  
-51. Er will etwas für seinen kleinen Sohn kaufen.  
-52. Er antwortete etwas auf unsere Frage, aber wir verstanden nichts .  
-53. Sie isst nicht, weil sie gut aussehen möchte.  
-54. In diesem Haus wohnt niemand.  
-55. Jemand erzählte mir, dass die Stadt Kairo nicht sehr schön ist.  
-56. Ich sah gestern, dass er jemanden [[anrief]].  
-57. Gestern Abend wartete sie auf jemanden im Büro.  
-58. Er schrieb heute jemandem einen Brief.  
-59. Sie hilft jemanden beim Studium.  
-60. Gestern Nachmittag schickten sie jemanden russische Zeitungen nach Deutschland.  
-61. Diese Frau lebt ganz allein: niemand schreibt ihr Briefe, niemand kommt zu ihr, niemand ruft sie an.  
-62. Sie [[luden]] heute Abend noch jemanden ins Kino ein.  
-63. Ich sehe jetzt jemanden auf der Straße.  
-64. Er ist schon ganz alt, er ruft gewöhnlich niemanden an.  
-65. Er sagte, dass er im Frühling jemanden in dieser Stadt besuchte.  
-66. Diese alte Sache gehört jemandem hier.  
-67. Ihr neues Kleid gefiel niemandem im Büro.  
-68. Dieser Mann ist böse, er wünscht niemandem Glück.  
-69. Bitte, erzähl jemandem über diese Geschichte.  
-70. Dieser kleine Junge [[zuhören|hört]] leider niemandem zu. ^1
+51. Darf ich fragen, ob sie etwas trinken möchten?  
+52. Er will etwas für seinen kleinen Sohn kaufen.  
+53. Er antwortete etwas auf unsere Frage, aber wir verstanden nichts .  
+54. Sie isst nicht, weil sie gut aussehen möchte.  
+55. In diesem Haus wohnt niemand.  
+56. Jemand erzählte mir, dass die Stadt Kairo nicht sehr schön ist.  
+57. Ich sah gestern, dass er jemanden [[anrief]].  
+58. Gestern Abend wartete sie auf jemanden im Büro.  
+59. Er schrieb heute jemandem einen Brief.  
+60. Sie hilft jemanden beim Studium.  
+61. Gestern Nachmittag schickten sie jemanden russische Zeitungen nach Deutschland.  
+62. Diese Frau lebt ganz allein: niemand schreibt ihr Briefe, niemand kommt zu ihr, niemand ruft sie an.  
+63. Sie [[luden]] heute Abend noch jemanden ins Kino ein.  
+64. Ich sehe jetzt jemanden auf der Straße.  
+65. Er ist schon ganz alt, er ruft gewöhnlich niemanden an.  
+66. Er sagte, dass er im Frühling jemanden in dieser Stadt besuchte.  
+67. Diese alte Sache gehört jemandem hier.  
+68. Ihr neues Kleid gefiel niemandem im Büro.  
+69. Dieser Mann ist böse, er wünscht niemandem Glück.  
+70. Bitte, erzähl jemandem über diese Geschichte.  
+71. Dieser kleine Junge [[zuhören|hört]] leider niemandem zu. ^1
 
 
 13.22* Заполните пропуски артиклями в соответствующем роде, числе и падеже, где необходимо:
 
-71. Ich weiß, dass dieser Junge im [[Betrieb]] arbeitet.  
-72. Du kennst dieses Mädchen, weil sie immer einen kurzen Rock trägt.  
-73. Ich möchte jetzt den [[Saft]] bestellen.  
-74. Ruf den Ober, weil er mir noch ein Bier bringen soll. 
-75. Meine Kollegen wollen einen Fachmann für Elektronik ins Büro [[einladen]].  
-76. Wir fahren jetzt mit dem Auto in den [[Richtung]] Köln. 
-77. Das Mädchen hat ein schönes Gesicht: blaue Augen, zärtliche Lippen und  kleine weiße Zähne.  
-78. Dieser Mensch ist Psychologe von Beruf, er weiß alles in dem [[Fach]].  
-79. Er schickte mir den [[Gruß]] aus Deutschland.
+72. Ich weiß, dass dieser Junge im [[Betrieb]] arbeitet.  
+73. Du kennst dieses Mädchen, weil sie immer einen kurzen Rock trägt.  
+74. Ich möchte jetzt den [[Saft]] bestellen.  
+75. Ruf den Ober, weil er mir noch ein Bier bringen soll. 
+76. Meine Kollegen wollen einen Fachmann für Elektronik ins Büro [[einladen]].  
+77. Wir fahren jetzt mit dem Auto in den [[Richtung]] Köln. 
+78. Das Mädchen hat ein schönes Gesicht: blaue Augen, zärtliche Lippen und  kleine weiße Zähne.  
+79. Dieser Mensch ist Psychologe von Beruf, er weiß alles in dem [[Fach]].  
+80. Er schickte mir den [[Gruß]] aus Deutschland.
 
 
 13.23* Заполните пропуски существительными мужского рода с соответствующими артиклями:
 
-80. Mein Bruder wartet auf den Kollegen im Büro.  
-81. Sie rief gestern den Studenten (Student) an.  
-82. Wir [[brauchen]] den Journalisten für diese Arbeit.  
-83. Sie [[suchen]] einen Jungen in der Schule.  
+81. Mein Bruder wartet auf den Kollegen im Büro.  
+82. Sie rief gestern den Studenten (Student) an.  
+83. Wir [[brauchen]] den Journalisten für diese Arbeit.  
+84. Sie [[suchen]] einen Jungen in der Schule.  
    Sie möchten dem Jungen helfen.  
-84. Dieses Haus gehört dem Herrn.  
-85. Sie kauft dieses Geschenk für den Kollegen.  
-86. Sie lädt den Kollegen (Kollege) oft ins Theater ein.
+85. Dieses Haus gehört dem Herrn.  
+86. Sie kauft dieses Geschenk für den Kollegen.  
+87. Sie lädt den Kollegen (Kollege) oft ins Theater ein.
 
 13.24* Заполните пропуски прилагательными в соответствующем роде, числе и падеже:
 
-87. Der Matrose hatte ein energisches Gesicht und tiefen, blauen Augen.  
-88. Er erzählte dem kleinen (klein) Mädchen ein zärtliches (zärtlich) [[Märchen]] von einem verliebten (verliebt) Jungen.  
-89. Ich bemerkte, dass sie immer einen langen, schwarzen (lang, schwarz) [[Rock]] trug.  
-90. Er schrieb seiner neuen (neu) Freundin einen scheuen (scheu) Brief aus seinem kurzen (kurz) Urlaub.  
-91. Sie gab eine falsche (falsch) [[Antwort]] auf meine Frage.  
-92. Du sollst dieses lange (lang) Messer nicht auf die Straße mitnehmen.  
-93. Meine Mutter sagt, dass sie laute (laut) [[Musik]] nicht hören mag.  
-94. Er erklärte dem enttäuschten ([[enttäuscht]]) Mädchen im Telefongespräch, dass er ihr bald einen zärtlichen ([[zärtlich]]) Brief schickt. ^2
+88. Der Matrose hatte ein energisches Gesicht und tiefen, blauen Augen.  
+89. Er erzählte dem kleinen (klein) Mädchen ein zärtliches (zärtlich) [[Märchen]] von einem verliebten (verliebt) Jungen.  
+90. Ich bemerkte, dass sie immer einen langen, schwarzen (lang, schwarz) [[Rock]] trug.  
+91. Er schrieb seiner neuen (neu) Freundin einen scheuen (scheu) Brief aus seinem kurzen (kurz) Urlaub.  
+92. Sie gab eine falsche (falsch) [[Antwort]] auf meine Frage.  
+93. Du sollst dieses lange (lang) Messer nicht auf die Straße mitnehmen.  
+94. Meine Mutter sagt, dass sie laute (laut) [[Musik]] nicht hören mag.  
+95. Er erklärte dem enttäuschten ([[enttäuscht]]) Mädchen im Telefongespräch, dass er ihr bald einen zärtlichen ([[zärtlich]]) Brief schickt. ^2
 
 “als dank” ist eine feste [[Wendung]], die im deutschen [[üblich]] ist (wie “aus [[Dankbarkeit]]”).
 
 13.2 Переведите следующие предложения:
 
-95. Она рассказала, что её муж уехал в Берлин на машине.  
+96. Она рассказала, что её муж уехал в Берлин на машине.  
 Sie erzählet, dass ihr Mann mit dem Auto nach Berlin gefahren ist
-96. Мы поняли, что они ждали нашего письма.  Wir haben verstanden, dass sie auf unseren Brief gewartet haben
-97. Ты сказал, что можешь показать мне своих птиц.  Du hast gesagt, dass du mir deine Vögel zeigen kannst   
-98. Покажи мне, пожалуйста, что ты сегодня переводишь на немецкий язык. Zeig mir bitte, was du heute ins Deutsche übersetzt    
-99. Я видела, что он принёс им в благодарность.  Ich habe gesehen, was er ihnen aus [[Dankbarkeit]] mitgebracht hat. 
-100. Она рассказала мне, что её друг хотел подарить ей на Рождество. 
+97. Мы поняли, что они ждали нашего письма.  Wir haben verstanden, dass sie auf unseren Brief gewartet haben
+98. Ты сказал, что можешь показать мне своих птиц.  Du hast gesagt, dass du mir deine Vögel zeigen kannst   
+99. Покажи мне, пожалуйста, что ты сегодня переводишь на немецкий язык. Zeig mir bitte, was du heute ins Deutsche übersetzt    
+100. Я видела, что он принёс им в благодарность.  Ich habe gesehen, was er ihnen aus [[Dankbarkeit]] mitgebracht hat. 
+101. Она рассказала мне, что её друг хотел подарить ей на Рождество. 
 Sie erzählte mir, was ihr Freund ihr zu Weihnachten schenken wollte 
-101. Я понимал, кого она ищет в этом кафе.  Ich verstand, wen sie in diesem Cafe gesucht hat
-102. Она сказала, кого она хочет пригласить на выходные.  Sie hat gesagt, wen sie für das [[Wochenende]] einladen möchte  
-103. Он спросил, кому принадлежал этот красивый дом на море.  Er hat gefragt, wem 
-104. Я знаю, что ты хочешь мне сказать.
+102. Я понимал, кого она ищет в этом кафе.  Ich verstand, wen sie in diesem Cafe gesucht hat
+103. Она сказала, кого она хочет пригласить на выходные.  Sie hat gesagt, wen sie für das [[Wochenende]] einladen möchte  
+104. Он спросил, кому принадлежал этот красивый дом на море.  Er hat gefragt, wem 
+105. Я знаю, что ты хочешь мне сказать.
 
 
 13.4 Переведите следующие предложения:
 
-105. Он спросил, нравятся ли мне его птицы.  Er hat gefragt, ob seine Vögel mir gefallen
-106. Они спрашивают, приедем ли мы к ним в воскресенье.  Sie fragen, ob wir zu ihnen diesen Sonntag fahren werden 
-107. Я спросила, должна ли я была позвонить в понедельник.  Ich hab gefragt, ob ich am Montag anrufen sollte
-108. Они спросили, поедем ли мы за город в субботу.  
-109. Мы хорошо понимаем, как они делают эти упражнения.  Wir verstehen sehr gut, wie sie diese Ubungen treiben 
-110. Скажи-ка, как ты готовишь это блюдо.  Sag mal, wie du dieses Gericht kochst 
-111. Они спросили его, как он посмел прийти без приглашения.  Sie haben ihn gefragt, wie er es [[wagen]] konnte, ohne Einladung zu kommen.
-112. Он не сказал нам, где он сейчас живёт.  
-113. Она спросила, где лежали мои тетради.  
-114. Я видела, где вчера стояли мои чемоданы.  
-115. Он рассказал нам, куда он ездил три дня назад.  Er hat uns erzählt , wohin er vor drei Tagen gefahren ist  
-116. Она не понимала, куда она должна была пойти.  
-117. Я не слышала, куда она уехала после занятий.  
-118. Он спросил их, откуда они получили этот журнал.  
-119. Скажите, пожалуйста, откуда вы приехали на эту выставку.  Sagen Sie bitte, woher Sie zu diese Einladung angereist sind 
-120. Он спросил нас, почему мы не принесли книги.  
-121. Я не понимаю, почему вы сразу не поставили цветы в вазу.  
-122. Она рассказала мне, почему она переводит эту статью на русский язык.  
-123. Скажи, пожалуйста, почему ты всегда смеёшься над своим маленьким братом.  
-124. Он не ответил мне, почему он взял вчера в школу мою фотографию.  
-125. Они не рассказали нам, почему они хотят поехать в отпуск осенью.
+106. Он спросил, нравятся ли мне его птицы.  Er hat gefragt, ob seine Vögel mir gefallen
+107. Они спрашивают, приедем ли мы к ним в воскресенье.  Sie fragen, ob wir zu ihnen diesen Sonntag fahren werden 
+108. Я спросила, должна ли я была позвонить в понедельник.  Ich hab gefragt, ob ich am Montag anrufen sollte
+109. Они спросили, поедем ли мы за город в субботу.  
+110. Мы хорошо понимаем, как они делают эти упражнения.  Wir verstehen sehr gut, wie sie diese Ubungen treiben 
+111. Скажи-ка, как ты готовишь это блюдо.  Sag mal, wie du dieses Gericht kochst 
+112. Они спросили его, как он посмел прийти без приглашения.  Sie haben ihn gefragt, wie er es [[wagen]] konnte, ohne Einladung zu kommen.
+113. Он не сказал нам, где он сейчас живёт.  
+114. Она спросила, где лежали мои тетради.  
+115. Я видела, где вчера стояли мои чемоданы.  
+116. Он рассказал нам, куда он ездил три дня назад.  Er hat uns erzählt , wohin er vor drei Tagen gefahren ist  
+117. Она не понимала, куда она должна была пойти.  
+118. Я не слышала, куда она уехала после занятий.  
+119. Он спросил их, откуда они получили этот журнал.  
+120. Скажите, пожалуйста, откуда вы приехали на эту выставку.  Sagen Sie bitte, woher Sie zu diese Einladung angereist sind 
+121. Он спросил нас, почему мы не принесли книги.  
+122. Я не понимаю, почему вы сразу не поставили цветы в вазу.  
+123. Она рассказала мне, почему она переводит эту статью на русский язык.  
+124. Скажи, пожалуйста, почему ты всегда смеёшься над своим маленьким братом.  
+125. Он не ответил мне, почему он взял вчера в школу мою фотографию.  
+126. Они не рассказали нам, почему они хотят поехать в отпуск осенью.
 
 
 13.6 Переведите следующие предложения:
 
-126. Когда у него было много времени, он играл в теннис после работы.  Wenn er viel Zeit hatte, spielte er Tennis nach der [[Arbeit]] 
-127. Когда мы пришли к моей подруге, она сидела за столом и переводила статью.  Wenn wir zu meiner Freundin gekommen sind, saß sie am Tisch und übersetzte einen Artikel 
-128. Когда им нужна была наша помощь, они сразу звонили нам.  Wenn sie  unserer Hilfe brauchten, riefen sie uns an
-129. Когда мы говорили по-немецки, она понимала не всё.  Wenn wir auf Deutsch gesprochen haben, hat sie nicht alles verstanden 
-130. Когда они послали нам письмо, мы были уже в Германии.  
-131. Когда мы нашли эту собаку, она была действительно очень больна.  Als wir diesen Hund fanden, war er wirklich sehr krank  
-132. Когда он ей звонит, они разговаривают два или три часа.  
-133. Когда у неё экзамены, она всё время занимается.  
-134. Когда мы пили чай у наших друзей, они рассказали нам об их поездке в Италию. Als wir bei unseren Freunden Tee getrunken haben, haben sie uns  von ihrer Reise erzählt
-135. Когда она пригласила меня к себе, я сказала, что у меня, к сожалению, нет времени. Als sie mir zu ihr eingelädet hat, [[sagte]] ich sie das ich leide keine Zeit [[hatte]].
+127. Когда у него было много времени, он играл в теннис после работы.  Wenn er viel Zeit hatte, spielte er Tennis nach der [[Arbeit]] 
+128. Когда мы пришли к моей подруге, она сидела за столом и переводила статью.  Wenn wir zu meiner Freundin gekommen sind, saß sie am Tisch und übersetzte einen Artikel 
+129. Когда им нужна была наша помощь, они сразу звонили нам.  Wenn sie  unserer Hilfe brauchten, riefen sie uns an
+130. Когда мы говорили по-немецки, она понимала не всё.  Wenn wir auf Deutsch gesprochen haben, hat sie nicht alles verstanden 
+131. Когда они послали нам письмо, мы были уже в Германии.  
+132. Когда мы нашли эту собаку, она была действительно очень больна.  Als wir diesen Hund fanden, war er wirklich sehr krank  
+133. Когда он ей звонит, они разговаривают два или три часа.  
+134. Когда у неё экзамены, она всё время занимается.  
+135. Когда мы пили чай у наших друзей, они рассказали нам об их поездке в Италию. Als wir bei unseren Freunden Tee getrunken haben, haben sie uns  von ihrer Reise erzählt
+136. Когда она пригласила меня к себе, я сказала, что у меня, к сожалению, нет времени. Als sie mir zu ihr eingelädet hat, [[sagte]] ich sie das ich leide keine Zeit [[hatte]].
 Als sie mich zu sich [[eingeladen]] hat, sagte ich ihr, dass ich leider keine Zeit hatte
 [[gpt]]
 
@@ -416,35 +424,35 @@ Videos, die dir den Tag [[versüssen]]
 
 13.8 Переведите следующие предложения:
 
-136. Мы не занимались вчера спортом, потому что наш учитель был болен.  Gestern haben wir keinen Sport getrieben, weil unser Lehrer krank war
-137. Он не позвонил мне вчера, потому что он опять потерпел неудачу. Er hat mich gestern nicht angerufen, weil er noch einmal [[gescheitert]] ist.
-138. Она не заплатила вчера за платье в магазине, потому что у неё не было денег.  
-139. Мы читали в университете эту статью по-немецки, потому что мы должны были дома перевести её с немецкого на русский.  
-140. Они ездили в Германию весной, потому что хотели навестить своих старых друзей.  
-141. Он не едет за город, потому что у него экзамены в университете.  
-142. Ему нужен хороший учитель, потому что он не ответил ни на один вопрос на экзамене.  Er braucht einen guten Lehrer, weil er keine Frage zur Prüfung beantwortet hat 
-143. Он пришёл к нам с пустыми руками, потому что он сейчас не работает.  
-144. Так как квартиры в Москве очень дорогие, они купили дом за городом.  
-145. Так как современные поезда очень удобные, мы хотим поехать в Мюнхен на поезде.  
-146. Так как молчание - золото, не нужно рассказывать о себе слишком много. Weil Schweigen Gold ist, sollte man nicht zu fiel von ihm erzählen
-147. Так как хорошее здоровье очень важно, нужно заниматься спортом и часто ездить за город. Da die Gesundheit sehr wichtig ist, sollte man Sport treiben und ins Grüne fahren
+137. Мы не занимались вчера спортом, потому что наш учитель был болен.  Gestern haben wir keinen Sport getrieben, weil unser Lehrer krank war
+138. Он не позвонил мне вчера, потому что он опять потерпел неудачу. Er hat mich gestern nicht angerufen, weil er noch einmal [[gescheitert]] ist.
+139. Она не заплатила вчера за платье в магазине, потому что у неё не было денег.  
+140. Мы читали в университете эту статью по-немецки, потому что мы должны были дома перевести её с немецкого на русский.  
+141. Они ездили в Германию весной, потому что хотели навестить своих старых друзей.  
+142. Он не едет за город, потому что у него экзамены в университете.  
+143. Ему нужен хороший учитель, потому что он не ответил ни на один вопрос на экзамене.  Er braucht einen guten Lehrer, weil er keine Frage zur Prüfung beantwortet hat 
+144. Он пришёл к нам с пустыми руками, потому что он сейчас не работает.  
+145. Так как квартиры в Москве очень дорогие, они купили дом за городом.  
+146. Так как современные поезда очень удобные, мы хотим поехать в Мюнхен на поезде.  
+147. Так как молчание - золото, не нужно рассказывать о себе слишком много. Weil Schweigen Gold ist, sollte man nicht zu fiel von ihm erzählen
+148. Так как хорошее здоровье очень важно, нужно заниматься спортом и часто ездить за город. Da die Gesundheit sehr wichtig ist, sollte man Sport treiben und ins Grüne fahren
 ### 13.12 Переведите следующие предложения:
 
-148. Он говорит, что все время что-то читает.  Er sagt, dass er die ganze Zeit etwas liest
-149. Я слышу, что она сейчас готовит что-то на кухне.  Ich höre, dass sie etwas in der Küche kocht 
-150. Она сказала, что она ничего не купила вчера.  Sie hat gesagt, dass sie gestern nichts gekauft hat
-151. Он понял, что она не хотела ему ничего рассказывать.  
-152. Я видела, что они принесли для кого-то цветы в Университет.  
-153. Я спросила, ищут ли они кого-то.  Ich habe gefragt, ob sie jemanden [[suchen]] 
-154. Они сказали, что они никого не ждут.  
-155. Он спросил, нравится ли кому-нибудь его картина.  
-156. Мы спросили, нужно ли кому-нибудь помочь.  
-157. Эта злая женщина сказала, что ей никто не нужен.  
-158. Они сказали, что они не над кем не смеялись.  
-159. Он рассказал мне, что он вчера никому не звонил.  
-160. Я рассказала ему, что я вчера ни с кем не разговаривала.  
-161. Я поняла, что его новая машина никому не понравилась.  
-162. Он говорит, что он никому не дарит цветов.  
+149. Он говорит, что все время что-то читает.  Er sagt, dass er die ganze Zeit etwas liest
+150. Я слышу, что она сейчас готовит что-то на кухне.  Ich höre, dass sie etwas in der Küche kocht 
+151. Она сказала, что она ничего не купила вчера.  Sie hat gesagt, dass sie gestern nichts gekauft hat
+152. Он понял, что она не хотела ему ничего рассказывать.  
+153. Я видела, что они принесли для кого-то цветы в Университет.  
+154. Я спросила, ищут ли они кого-то.  Ich habe gefragt, ob sie jemanden [[suchen]] 
+155. Они сказали, что они никого не ждут.  
+156. Он спросил, нравится ли кому-нибудь его картина.  
+157. Мы спросили, нужно ли кому-нибудь помочь.  
+158. Эта злая женщина сказала, что ей никто не нужен.  
+159. Они сказали, что они не над кем не смеялись.  
+160. Он рассказал мне, что он вчера никому не звонил.  
+161. Я рассказала ему, что я вчера ни с кем не разговаривала.  
+162. Я поняла, что его новая машина никому не понравилась.  
+163. Он говорит, что он никому не дарит цветов.  
 
 ---
 Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
@@ -452,82 +460,82 @@ Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [
 
 ### 13.15 Переведите следующие предложения:
 
-1. Извини, пожалуйста, что мы берем твои книги.  Entschuldige bitte, dass wir deine Bücher nicht nehmen 
-2. Я не верю, что он прав.  Ich  glaube nicht, dass er Recht hat
-3. Можно мне объяснить вам, почему мой брат не учится в университете?  Darf ich euch erklären, warum mein Bruder nicht in der [[Uni]] studiert. 
-4. Мы пришли в кафе и заказали чай и фрукты, чтобы наши друзья нам рассказали о поездке. Wir sind ins Cafe gegangen und haben Tee mit Früchten bestellet, um uns unsere Freunde von ihrer Reise zu erzählen   
-5. В конце концов, она все нам объяснила.  Am Ende, hat sie uns alles erklärt
-6. Она улыбается так красиво, что все замечают это.  Sie lächelt so schon, dass es alle bemerken  
-7. Ты не веришь мне, что я не заметила твою машину на улице. Du glaubst mir nicht, dass ich dein Auto nicht bemerkt habe 
-8. Посмотри-ка, как красиво сидит на дереве эта большая птица.  Guck mal, wie schön dieser grosse Vogel auf dem Baum sitzt 
-9. Я надеюсь, что ты меня понимаешь.  Ich hoffe, dass du mich verstehst 
-10. Мы не заказали такси, мы пошли домой пешком.  
-11. Объясни мне, почему ты позвонил своим родителям так поздно.  Erkläre mir, warum du deinen Eltern so spät angerufen hast.  
-12. Я надеюсь на твой ответ, потому что он очень важен для меня.  Ich hoffe auf deine [[Antwort]], weil sie für mich sehr wichtig ist
+164. Извини, пожалуйста, что мы берем твои книги.  Entschuldige bitte, dass wir deine Bücher nicht nehmen 
+165. Я не верю, что он прав.  Ich  glaube nicht, dass er Recht hat
+166. Можно мне объяснить вам, почему мой брат не учится в университете?  Darf ich euch erklären, warum mein Bruder nicht in der [[Uni]] studiert. 
+167. Мы пришли в кафе и заказали чай и фрукты, чтобы наши друзья нам рассказали о поездке. Wir sind ins Cafe gegangen und haben Tee mit Früchten bestellet, um uns unsere Freunde von ihrer Reise zu erzählen   
+168. В конце концов, она все нам объяснила.  Am Ende, hat sie uns alles erklärt
+169. Она улыбается так красиво, что все замечают это.  Sie lächelt so schon, dass es alle bemerken  
+170. Ты не веришь мне, что я не заметила твою машину на улице. Du glaubst mir nicht, dass ich dein Auto nicht bemerkt habe 
+171. Посмотри-ка, как красиво сидит на дереве эта большая птица.  Guck mal, wie schön dieser grosse Vogel auf dem Baum sitzt 
+172. Я надеюсь, что ты меня понимаешь.  Ich hoffe, dass du mich verstehst 
+173. Мы не заказали такси, мы пошли домой пешком.  
+174. Объясни мне, почему ты позвонил своим родителям так поздно.  Erkläre mir, warum du deinen Eltern so spät angerufen hast.  
+175. Я надеюсь на твой ответ, потому что он очень важен для меня.  Ich hoffe auf deine [[Antwort]], weil sie für mich sehr wichtig ist
 
 ---
 
 ### 13.18 Переведите следующие предложения:
 
-1. Почему ты молчишь?  Warum schweigst du?
-2. Когда у меня есть проблемы, я не могу молчать.  Wenn ich Probleme habe, kann ich nicht schweige
-3. Он молчал, потому что очень устал. Er hat geschweigen, weil er sehr müde war 
-4. Он всегда все забывает.  
-5. Не забудь свой мобильный телефон!  
-6. Она забыла, что я дала ей вчера наш нож.  
-7. Я надеюсь, что они не забыли свои билеты.  
-8. Я думаю, что мой друг мне верит.  
-9. Он думает, что я не заметила его машину около нашего дома.  
-10. Мы думали, что он может нам помочь.  
-11. Он назвал все сказки из этой книги.  
-12. Вы думаете, что он ничего не может нам объяснить?  
-13. Моей сестре не нравилось это платье, и она не носила его.  
-14. Я заметила, что твой новый коллега носит красивые дорогие рубашки.  
-15. Как они назвали своего ребенка?  
+176. Почему ты молчишь?  Warum schweigst du?
+177. Когда у меня есть проблемы, я не могу молчать.  Wenn ich Probleme habe, kann ich nicht schweige
+178. Он молчал, потому что очень устал. Er hat geschweigen, weil er sehr müde war 
+179. Он всегда все забывает.  
+180. Не забудь свой мобильный телефон!  
+181. Она забыла, что я дала ей вчера наш нож.  
+182. Я надеюсь, что они не забыли свои билеты.  
+183. Я думаю, что мой друг мне верит.  
+184. Он думает, что я не заметила его машину около нашего дома.  
+185. Мы думали, что он может нам помочь.  
+186. Он назвал все сказки из этой книги.  
+187. Вы думаете, что он ничего не может нам объяснить?  
+188. Моей сестре не нравилось это платье, и она не носила его.  
+189. Я заметила, что твой новый коллега носит красивые дорогие рубашки.  
+190. Как они назвали своего ребенка?  
 
 ---
 
 ### 13.20 Переведите следующие предложения.  
 Обратите внимание, что после глагола **kennen** придаточные предложения не употребляются:
 
-16. Я хорошо знаю эту семью.  
-17. Очевидно, мой друг знает нашего нового коллегу.  
-18. Ты знаешь нашего механика? — Нет, к сожалению, я не знаю его.  
-19. Вы знаете эту книгу? — Нет, эта книга на английском. Я не знаю ее.  
-20. Ты хорошо знаешь Москву? — Да, я люблю Москву и знаю этот город.  
-21. Вы не знали моего брата? Два года назад он уехал в Америку.  
-22. Я не знала этого спортсмена. Он был настоящий спортсмен.  
-23. Ты знаешь магазин около моего дома?  
-24. Я знаю, что ты хочешь мне помочь.  
-25. Мой друг знает, что я его жду.  
-26. Мы знаем, что ты хорошо знаешь Берлин.  
-27. Я знаю, почему ты молчишь.  
-28. Я не знала, что вы знаете моего брата.  
-29. Она всегда все знала.  
-30. Мы не знали, что они уехали за город.  
-31. Ты не знал, что она надеялась на твою помощь?  
-32. Я не знала, что эта картина висела в ее комнате.  
-33. Вы не знали, что он перевел эту книгу с немецкого языка на русский?  
+191. Я хорошо знаю эту семью.  
+192. Очевидно, мой друг знает нашего нового коллегу.  
+193. Ты знаешь нашего механика? — Нет, к сожалению, я не знаю его.  
+194. Вы знаете эту книгу? — Нет, эта книга на английском. Я не знаю ее.  
+195. Ты хорошо знаешь Москву? — Да, я люблю Москву и знаю этот город.  
+196. Вы не знали моего брата? Два года назад он уехал в Америку.  
+197. Я не знала этого спортсмена. Он был настоящий спортсмен.  
+198. Ты знаешь магазин около моего дома?  
+199. Я знаю, что ты хочешь мне помочь.  
+200. Мой друг знает, что я его жду.  
+201. Мы знаем, что ты хорошо знаешь Берлин.  
+202. Я знаю, почему ты молчишь.  
+203. Я не знала, что вы знаете моего брата.  
+204. Она всегда все знала.  
+205. Мы не знали, что они уехали за город.  
+206. Ты не знал, что она надеялась на твою помощь?  
+207. Я не знала, что эта картина висела в ее комнате.  
+208. Вы не знали, что он перевел эту книгу с немецкого языка на русский?  
 
 ### 13.26 Переведите на немецкий язык:
 
-34. Мой друг рассказал мне, что одним летним днем он поехал на машине на море.  
-35. Наша тётя написала нам из Германии, что её сын и его новая подруга очень подходят друг другу. А девушка ещё и очень умная при этом.  
-36. Она видела, как он выпил кружку до дна.  
-37. Она спросила, хочет ли он заказать ещё одну.  
-38. Я не верю тебе, что ты всё время носишь эту рубашку. Она выглядит как новая.  
-39. Как долго твоя тётя живёт в Германии? — Ты знаешь, она живёт там уже давно.  
-40. Он думал, что все его ответы на экзамене были неправильные.  
-41. Мой брат учит немецкий язык, потому что он хочет работать инженером на немецкой фирме.  
-42. Потом она вдруг объяснила, как она занимается музыкой.  
-43. Объясни мне, почему ты так разочарована.  
-44. Когда они шли рука об руку, мы заметили, что они очень подходили друг другу.  
-45. Тебе нравится этот пирог? Скажи мне, что тебе нравится. — Мне всё равно!  
-46. Скажи мне, кого ты знаешь в этом доме.  
-47. Я не знаю, почему тебе не нравится моя подруга.  
-48. Так как мой брат носил длинные волосы, он очень нравился девушкам.  
-49. Скажи, кому ты объясняешь это правило?  
-50. Как они назвали свою фирму?  
+209. Мой друг рассказал мне, что одним летним днем он поехал на машине на море.  
+210. Наша тётя написала нам из Германии, что её сын и его новая подруга очень подходят друг другу. А девушка ещё и очень умная при этом.  
+211. Она видела, как он выпил кружку до дна.  
+212. Она спросила, хочет ли он заказать ещё одну.  
+213. Я не верю тебе, что ты всё время носишь эту рубашку. Она выглядит как новая.  
+214. Как долго твоя тётя живёт в Германии? — Ты знаешь, она живёт там уже давно.  
+215. Он думал, что все его ответы на экзамене были неправильные.  
+216. Мой брат учит немецкий язык, потому что он хочет работать инженером на немецкой фирме.  
+217. Потом она вдруг объяснила, как она занимается музыкой.  
+218. Объясни мне, почему ты так разочарована.  
+219. Когда они шли рука об руку, мы заметили, что они очень подходили друг другу.  
+220. Тебе нравится этот пирог? Скажи мне, что тебе нравится. — Мне всё равно!  
+221. Скажи мне, кого ты знаешь в этом доме.  
+222. Я не знаю, почему тебе не нравится моя подруга.  
+223. Так как мой брат носил длинные волосы, он очень нравился девушкам.  
+224. Скажи, кому ты объясняешь это правило?  
+225. Как они назвали свою фирму?  
 
 
 

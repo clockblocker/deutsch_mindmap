@@ -79,5 +79,14 @@
       ],
       "key": "S"
     }
+  ],
+  "cbcr-filler-de:check-ru-de-translation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }
