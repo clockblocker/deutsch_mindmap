@@ -25,4 +25,4 @@ G: der [[Gemeindeverwaltung]], der [[Gemeindeverwaltungen]]
 D: der [[Gemeindeverwaltung]], den [[Gemeindeverwaltungen]]  
 
 ---
-[[verwalten]], [[Gemeinde]], [[kommunal]], [[Verwaltungsakt]], [[Verwaltungsrecht]]
+[[verwalten]], [[Gemeinde]], [[kommunal]], [[Verwaltungsakt]], [[Verwaltungsrecht]], [[Stadtverwaltung]]

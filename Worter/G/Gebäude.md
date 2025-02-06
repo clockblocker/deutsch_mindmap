@@ -27,4 +27,4 @@ D: dem [[Gebäude]], den [[Gebäuden]]
 [[bauen]], [[Bauwerk]], [[gebäudeähnlich]], [[Gebäudekomplex]], [[Gebäudemanagement]]
 
 [[Haus]], [[Turm]], [[innerhalb]], [[entstehen]]
-, [[Anki]], [[Zelle]], [[Halle]]
+, [[Anki]], [[Zelle]], [[Halle]], [[Schulgebäude]]

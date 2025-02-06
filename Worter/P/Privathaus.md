@@ -1,1 +1,1 @@
-, [[Miethaus]]
+, [[Miethaus]], [[Schulgebäude]]

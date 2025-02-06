@@ -1,1 +1,1 @@
-, [[Vernichtung]], [[Erhaltung]], [[zerstörten]]
+, [[Vernichtung]], [[Erhaltung]], [[zerstörten]], [[Sanierung]]

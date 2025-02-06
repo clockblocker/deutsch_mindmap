@@ -1,1 +1,1 @@
-, [[desto]], [[Gemeinde]], [[Behörde]], [[Hürde]], [[Behördenleiter]], [[dessen]], [[Demut]], [[deprimiert]], [[demaskieren]], [[Gemeinderat]], [[Wende]]
+, [[desto]], [[Gemeinde]], [[Behörde]], [[Hürde]], [[Behördenleiter]], [[dessen]], [[Demut]], [[deprimiert]], [[demaskieren]], [[Gemeinderat]], [[Wende]], [[Schulgebäude]]

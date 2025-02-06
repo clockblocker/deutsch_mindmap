@@ -1,1 +1,1 @@
-, [[verbessern]], [[Fortschritt]]
+, [[verbessern]], [[Fortschritt]], [[Zustand]]

@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Unternehmens]], [[Unternehmen]], [[Unternehmern]], [[Unternehmen]], [[Unternehmen]], [[Unternehmen]]  
 
 ---
-#Substantiv #Neutrum, [[Handelsgesellschaft]], [[Unternehmerverband]], [[Wirtschaft]], [[begehen]]
+#Substantiv #Neutrum, [[Handelsgesellschaft]], [[Unternehmerverband]], [[Wirtschaft]], [[begehen]], [[Stadtverwaltung]]

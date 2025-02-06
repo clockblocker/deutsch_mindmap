@@ -5,6 +5,7 @@ haben [[geteilt]]
 ---
 Und wir haben uns alles [[geteilt]]!  
 
+Damit hat sie ein Thema angesprochen, das viele [[bewegt]]: Ihr Artikel wurde über 20.000 Mal [[geteilt]] und [[tausendfach]] kommentiert.  [[Den Nagel auf den Kopf treffen.md#^3|(Quelle: Den Nagel auf den Kopf treffen)]] 
 
 ---
 Synonyme: [[aufteilen]], [[verteilen]], [[zerteilen]], [[splitten]], [[separieren]]

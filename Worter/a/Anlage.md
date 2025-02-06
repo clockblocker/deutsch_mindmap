@@ -1,1 +1,1 @@
-, [[anlegen]], [[Gerät]]
+, [[anlegen]], [[Gerät]], [[Schulgebäude]]

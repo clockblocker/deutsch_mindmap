@@ -1,1 +1,1 @@
-, [[klopfen]], [[laufen]], [[schlafen]]
+, [[klopfen]], [[laufen]], [[schlafen]], [[treffen]]

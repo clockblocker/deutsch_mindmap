@@ -1,1 +1,1 @@
-[[mittel]], [[Gerät]]
+[[mittel]], [[Gerät]], [[Werkzeug]]

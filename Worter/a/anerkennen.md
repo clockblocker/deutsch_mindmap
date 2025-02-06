@@ -1,1 +1,1 @@
-, [[zugeben]], [[Anerkennung]], [[leugnen]], [[respektieren]], [[unterschätzen]], [[ehren]]
+, [[zugeben]], [[Anerkennung]], [[leugnen]], [[respektieren]], [[unterschätzen]], [[ehren]], [[kritisieren]]

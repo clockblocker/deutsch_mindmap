@@ -23,4 +23,4 @@ G: des [[Hauses]], der [[Häuser]]
 D: dem [[Haus]], den [[Häusern]]  
 
 ---
-[[häuslich]], [[Hausfrau]], [[Haustür]], [[Hausaufgabe]], [[wohnhaft]], [[Hausbesitzer]], [[s1 e1]]
+[[häuslich]], [[Hausfrau]], [[Haustür]], [[Hausaufgabe]], [[wohnhaft]], [[Hausbesitzer]], [[s1 e1]], [[Schulgebäude]]

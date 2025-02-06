@@ -31,4 +31,4 @@ Zu+infinifive: [[zu vereinbaren]]
 ---
 [[Vereinbarung]], [[Vereinbarkeit]], [[Termin]], [[Absprache]], [[Vereinbarungstermin]]
 , [[abmachen]], [[Vereinbarung]]
-, [[ablehnen]], [[einigen]], [[beschließen]], [[Abkommen]], [[vereinbar]]
+, [[ablehnen]], [[einigen]], [[beschließen]], [[Abkommen]], [[vereinbar]], [[treffen]]

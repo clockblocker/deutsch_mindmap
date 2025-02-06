@@ -1,1 +1,1 @@
-, [[Büro]], [[Betrieb]]
+, [[Büro]], [[Betrieb]], [[Schulgebäude]]

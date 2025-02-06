@@ -1,1 +1,1 @@
-, [[Bohrmaschinen]]
+, [[Bohrmaschinen]], [[Werkzeug]]

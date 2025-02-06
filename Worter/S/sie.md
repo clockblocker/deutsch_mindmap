@@ -1,1 +1,1 @@
-, [[unterhalten]], [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]]
+, [[unterhalten]], [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]], [[kritisieren]]

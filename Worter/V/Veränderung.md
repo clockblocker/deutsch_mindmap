@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Veränderung]], [[Veränderungen]], [[Veränderung]], [[Veränderungen]]
 
 ---
-#Substantiv #Feminin, [[Entwicklung]], [[Wende]], [[Wendung]]
+#Substantiv #Feminin, [[Entwicklung]], [[Wende]], [[Wendung]], [[Zustand]]

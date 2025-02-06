@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schule]], [[Schules]], [[Schule]], [[Schulen]], [[Schule]], [[Schule]], [[Schulen]], [[Schulen]]
 
 ---
-#Substantiv #Feminin, [[Gesamtschule]], [[Ersteinschulung]], [[Schulpflicht]], [[Schulamt]], [[Schulwesen]]
+#Substantiv #Feminin, [[Gesamtschule]], [[Ersteinschulung]], [[Schulpflicht]], [[Schulamt]], [[Schulwesen]], [[Schulgebäude]]

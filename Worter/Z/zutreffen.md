@@ -1,1 +1,1 @@
-[[bestehen]], [[passen]], [[sein]]
+[[bestehen]], [[passen]], [[sein]], [[treffen]]

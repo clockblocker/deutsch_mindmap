@@ -1,1 +1,1 @@
-, [[feststellen]], [[leugnen]], [[ungerechtfertigen]], [[vermuten]]
+, [[feststellen]], [[leugnen]], [[ungerechtfertigen]], [[vermuten]], [[kritisieren]]

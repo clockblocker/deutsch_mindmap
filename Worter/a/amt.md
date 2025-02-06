@@ -26,4 +26,4 @@ D: dem [[Amt]], den [[Ämtern]]
 [[amtlich]], [[amtieren]], [[Amtsantritt]], [[Amtszeit]], [[Amtsträger]]
 
 , [[Arbeitsamt]], [[Bundeskanzleramt]], [[Behörde]], [[ehrenamtlich]], [[Ordnungsamt]], [[Schulamt]], [[Jugendamt]], [[Gesundheitsamt]], [[Einwohnermeldeamt]], [[Standesamt]], [[Stelle]], [[Ehrenamt]], [[Forstamt]], [[Pfarramt]]
-, [[offiziell]]
+, [[offiziell]], [[Stadtverwaltung]]

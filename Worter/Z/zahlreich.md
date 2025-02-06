@@ -1,1 +1,1 @@
-, [[wenige]], [[einziger]], [[Zahl]]
+, [[wenige]], [[einziger]], [[Zahl]], [[tausendfach]]

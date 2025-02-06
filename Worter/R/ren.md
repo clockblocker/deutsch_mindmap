@@ -1,1 +1,1 @@
-, [[wehren]], [[Rentenberechnung]], [[ehren]], [[hören]]
+, [[wehren]], [[Rentenberechnung]], [[ehren]], [[hören]], [[kritisieren]]

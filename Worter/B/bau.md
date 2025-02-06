@@ -1,1 +1,1 @@
-, [[aufbauen]], [[bauen]], [[einbauen]], [[umbauen]], [[Verwaltungsaufbau]], [[Gebäude]], [[Bauingenieur]]
+, [[aufbauen]], [[bauen]], [[einbauen]], [[umbauen]], [[Verwaltungsaufbau]], [[Gebäude]], [[Bauingenieur]], [[Schulgebäude]]
