@@ -567,6 +567,9 @@ Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [
 
 «Я не учусь и не работаю. Я только несколько дней в Москве.  
 Я живу у моей подруги».
+„Ich studiere nicht und arbeite nicht. Ich bin nur ein paar Tage in Moskau.  
+Ich lebe bei meiner Freundin."
+
 
 «Ах, вот как!»
 
@@ -582,6 +585,8 @@ Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [
 Борис всё время смотрел на неё.  
 У неё было красивое лицо с большими зелёными глазами, длинные тёмные волосы и нежные губы.  
 Он выпил свою кружку до дна.
+
+✅
 
 «Ты думаешь, я не найду работу?» - вдруг снова спросила девушка и посмотрела на его пустую кружку.
 

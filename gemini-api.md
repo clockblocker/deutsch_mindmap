@@ -6375,3 +6375,321 @@ Wir sollten auf Sie gehört haben, aber leider haben wir es nicht getan.
 ```
 
 ---
+
+## 2025-02-06T10:41:36.428Z
+### Prompt:
+```
+You are a German language expert. Check if the German translation matches the Russian text. Consider grammar, meaning, and natural expression.
+
+If the translation is correct, respond only with "✅".
+
+If there are mistakes:
+1. Make minimal corrections to fix the errors while preserving the original sentence structure when possible
+2. Only provide a brief note if the error is grammatical (not stylistic)
+3. Do not suggest alternative translations unless the original is incorrect
+4. Focus only on actual errors, not style improvements
+
+<example>
+input:
+Мы должны были вас послушаться, но, к сожалению, не послушались. Wir sollten fur Sie gehört haben, aber leider haben wir es nicht getan.
+
+output:
+Wir sollten auf Sie gehört haben, aber leider haben wir es nicht getan.
+Note: "für" -> "auf" with "hören"
+
+</example>
+
+<example>
+input:
+Она рассказала, что её муж уехал в Берлин на машине. Sie hat erzählt, dass ihr Mann nach Berlin mit Auto gefahren ist.
+
+output:
+Sie hat erzählt, dass ihr Mann mit dem Auto nach Berlin gefahren ist.
+Note: Word order and missing article "dem"
+
+</example>
+
+<example>
+input:
+Она рассказала, что её муж уехал в Берлин на машине. Sie erzählte, dass ihr Mann mit dem Auto nach Berlin gefahren ist.
+
+output:
+✅
+</example>
+
+Check the following translation:
+Борис всё время смотрел на неё.  
+У неё было красивое лицо с большими зелёными глазами, длинные тёмные волосы и нежные губы.  
+Он выпил свою кружку до дна.
+
+```
+
+### Response:
+```
+✅
+```
+
+---
+
+## 2025-02-06T10:41:42.086Z
+### Prompt:
+```
+You are a German language expert. Check if the German translation matches the Russian text. Consider grammar, meaning, and natural expression.
+
+If the translation is correct, respond only with "✅".
+
+If there are mistakes:
+1. Make minimal corrections to fix the errors while preserving the original sentence structure when possible
+2. Only provide a brief note if the error is grammatical (not stylistic)
+3. Do not suggest alternative translations unless the original is incorrect
+4. Focus only on actual errors, not style improvements
+
+<example>
+input:
+Мы должны были вас послушаться, но, к сожалению, не послушались. Wir sollten fur Sie gehört haben, aber leider haben wir es nicht getan.
+
+output:
+Wir sollten auf Sie gehört haben, aber leider haben wir es nicht getan.
+Note: "für" -> "auf" with "hören"
+
+</example>
+
+<example>
+input:
+Она рассказала, что её муж уехал в Берлин на машине. Sie hat erzählt, dass ihr Mann nach Berlin mit Auto gefahren ist.
+
+output:
+Sie hat erzählt, dass ihr Mann mit dem Auto nach Berlin gefahren ist.
+Note: Word order and missing article "dem"
+
+</example>
+
+<example>
+input:
+Она рассказала, что её муж уехал в Берлин на машине. Sie erzählte, dass ihr Mann mit dem Auto nach Berlin gefahren ist.
+
+output:
+✅
+</example>
+
+Check the following translation:
+Борис всё время смотрел на неё.  
+У неё было красивое лицо с большими зелёными глазами, длинные тёмные волосы и нежные губы.  
+Он выпил свою кружку до дна.
+
+```
+
+### Response:
+```
+✅
+```
+
+---
+
+## 2025-02-06T10:41:50.455Z
+### Prompt:
+```
+You are a German language expert. Check if the German translation matches the Russian text. Consider grammar, meaning, and natural expression.
+
+If the translation is correct, respond only with "✅".
+
+If there are mistakes:
+1. Make minimal corrections to fix the errors while preserving the original sentence structure when possible
+2. Only provide a brief note if the error is grammatical (not stylistic)
+3. Do not suggest alternative translations unless the original is incorrect
+4. Focus only on actual errors, not style improvements
+
+<example>
+input:
+Мы должны были вас послушаться, но, к сожалению, не послушались. Wir sollten fur Sie gehört haben, aber leider haben wir es nicht getan.
+
+output:
+Wir sollten auf Sie gehört haben, aber leider haben wir es nicht getan.
+Note: "für" -> "auf" with "hören"
+
+</example>
+
+<example>
+input:
+Она рассказала, что её муж уехал в Берлин на машине. Sie hat erzählt, dass ihr Mann nach Berlin mit Auto gefahren ist.
+
+output:
+Sie hat erzählt, dass ihr Mann mit dem Auto nach Berlin gefahren ist.
+Note: Word order and missing article "dem"
+
+</example>
+
+<example>
+input:
+Она рассказала, что её муж уехал в Берлин на машине. Sie erzählte, dass ihr Mann mit dem Auto nach Berlin gefahren ist.
+
+output:
+✅
+</example>
+
+Check the following translation:
+Борис всё время смотрел на неё.  
+У неё было красивое лицо с большими зелёными глазами, длинные тёмные волосы и нежные губы.  
+Он выпил свою кружку до дна.
+
+```
+
+### Response:
+```
+✅
+```
+
+---
+
+## 2025-02-06T10:43:39.540Z
+### Prompt:
+```
+You are a German language expert. Check or translate Russian text to German.
+
+If the input contains both Russian and German texts, check the translation:
+- If correct, respond with "✅"
+- If there are mistakes, make minimal corrections and briefly note grammatical errors
+
+If the input contains only Russian text, translate it to German:
+- Provide a natural German translation
+- Keep the translation direct and clear
+
+<example>
+input:
+Мы должны были вас послушаться, но, к сожалению, не послушались. Wir sollten fur Sie gehört haben, aber leider haben wir es nicht getan.
+
+output:
+Wir sollten auf Sie gehört haben, aber leider haben wir es nicht getan.
+Note: "für" -> "auf" with "hören"
+</example>
+
+<example>
+input:
+Борис всё время смотрел на неё.
+
+output:
+Boris schaute sie die ganze Zeit an.
+</example>
+
+<example>
+input:
+Она рассказала, что её муж уехал в Берлин на машине. Sie hat erzählt, dass ihr Mann mit dem Auto nach Berlin gefahren ist.
+
+output:
+✅
+</example>
+
+Process the following text:
+«Я не учусь и не работаю. Я только несколько дней в Москве.  
+Я живу у моей подруги».
+```
+
+### Response:
+```
+„Ich lerne nicht und arbeite nicht. Ich bin erst seit ein paar Tagen in Moskau. 
+Ich wohne bei meiner Freundin.’
+```
+
+---
+
+## 2025-02-06T10:43:40.045Z
+### Prompt:
+```
+You are a German language expert. Check or translate Russian text to German.
+
+If the input contains both Russian and German texts, check the translation:
+- If correct, respond with "✅"
+- If there are mistakes, make minimal corrections and briefly note grammatical errors
+
+If the input contains only Russian text, translate it to German:
+- Provide a natural German translation
+- Keep the translation direct and clear
+
+<example>
+input:
+Мы должны были вас послушаться, но, к сожалению, не послушались. Wir sollten fur Sie gehört haben, aber leider haben wir es nicht getan.
+
+output:
+Wir sollten auf Sie gehört haben, aber leider haben wir es nicht getan.
+Note: "für" -> "auf" with "hören"
+</example>
+
+<example>
+input:
+Борис всё время смотрел на неё.
+
+output:
+Boris schaute sie die ganze Zeit an.
+</example>
+
+<example>
+input:
+Она рассказала, что её муж уехал в Берлин на машине. Sie hat erzählt, dass ihr Mann mit dem Auto nach Berlin gefahren ist.
+
+output:
+✅
+</example>
+
+Process the following text:
+«Я не учусь и не работаю. Я только несколько дней в Москве.  
+Я живу у моей подруги».
+```
+
+### Response:
+```
+„Ich lerne nicht und arbeite nicht. Ich bin erst ein paar Tage in Moskau.  
+Ich wohne bei meiner Freundin.“
+```
+
+---
+
+## 2025-02-06T10:43:45.540Z
+### Prompt:
+```
+You are a German language expert. Check or translate Russian text to German.
+
+If the input contains both Russian and German texts, check the translation:
+- If correct, respond with "✅"
+- If there are mistakes, make minimal corrections and briefly note grammatical errors
+
+If the input contains only Russian text, translate it to German:
+- Provide a natural German translation
+- Keep the translation direct and clear
+
+<example>
+input:
+Мы должны были вас послушаться, но, к сожалению, не послушались. Wir sollten fur Sie gehört haben, aber leider haben wir es nicht getan.
+
+output:
+Wir sollten auf Sie gehört haben, aber leider haben wir es nicht getan.
+Note: "für" -> "auf" with "hören"
+</example>
+
+<example>
+input:
+Борис всё время смотрел на неё.
+
+output:
+Boris schaute sie die ganze Zeit an.
+</example>
+
+<example>
+input:
+Она рассказала, что её муж уехал в Берлин на машине. Sie hat erzählt, dass ihr Mann mit dem Auto nach Berlin gefahren ist.
+
+output:
+✅
+</example>
+
+Process the following text:
+«Я не учусь и не работаю. Я только несколько дней в Москве.  
+Я живу у моей подруги».
+```
+
+### Response:
+```
+„Ich studiere nicht und arbeite nicht. Ich bin nur ein paar Tage in Moskau.  
+Ich lebe bei meiner Freundin."
+```
+
+---
