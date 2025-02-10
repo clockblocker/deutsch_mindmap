@@ -33,4 +33,4 @@ Morpheme: [[lieg]][[en]]
 
 Partizip I: [[liegend]], Partizip II: [[gelegen]]
 
-[[liegen]] - no prefix, [[springen]], [[Lage]], [[Sitz]], [[unterliegen]], [[vorliegen]], [[zugrundeliegende]]
+[[liegen]] - no prefix, [[springen]], [[Lage]], [[Sitz]], [[unterliegen]], [[vorliegen]], [[zugrundeliegende]], [[aufliegen]]

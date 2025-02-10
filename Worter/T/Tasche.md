@@ -3,7 +3,7 @@ die [[Taschen]]
 
 
 ---
-
+Es gab dort viele [[verschiedene]] Buddhas: so kleine, dass man sie in die [[Tasche]] stecken konnte und so große wie drei Männer.
 
 ---
 Synonyme:

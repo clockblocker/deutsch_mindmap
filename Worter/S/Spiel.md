@@ -1,1 +1,1 @@
-[[spielen]], [[Spielkarten]], [[Spielzug]]
+[[spielen]], [[Spielkarten]], [[Spielzug]], [[anspielen]]

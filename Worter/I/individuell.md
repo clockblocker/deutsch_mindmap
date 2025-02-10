@@ -1,1 +1,1 @@
-, [[eigene]], [[gemeinsam]], [[selbst]], [[allgemein]], [[einzelne]], [[Persönlichkeit]]
+, [[eigene]], [[gemeinsam]], [[selbst]], [[allgemein]], [[einzelne]], [[Persönlichkeit]], [[speziell]]

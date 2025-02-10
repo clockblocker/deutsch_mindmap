@@ -1,1 +1,1 @@
-, [[Räuber]], [[Polizist]], [[Einbrecher]]
+, [[Räuber]], [[Polizist]], [[Einbrecher]], [[Verbrecher]]

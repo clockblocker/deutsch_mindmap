@@ -1,1 +1,1 @@
-, [[Erzählung]]
+, [[Erzählung]], [[Bildband]]

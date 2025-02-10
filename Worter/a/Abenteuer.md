@@ -23,4 +23,4 @@ Genitive: des [[Abenteuers]], der [[Abenteuer 1]]
 Dative: dem [[Abenteuer 1]], den [[Abenteuern]] 
 
 ---
-[[abenteuerlich]], [[abenteuerlustig]], [[aventurieren]], [[langweilen]]
+[[abenteuerlich]], [[abenteuerlustig]], [[aventurieren]], [[langweilen]], [[Ostasienfahrt]]

@@ -1,1 +1,1 @@
-, [[Freundin]], [[inzwischen]], [[da]], [[Berufsinformationszentrum]], [[Inhalt]], [[mittlerweile]], [[übersetzen]], [[Mitarbeiterin]], [[insgesamt]], [[Wechselpräposition]], [[Ingenieur]]
+, [[Freundin]], [[inzwischen]], [[da]], [[Berufsinformationszentrum]], [[Inhalt]], [[mittlerweile]], [[übersetzen]], [[Mitarbeiterin]], [[insgesamt]], [[Wechselpräposition]], [[Ingenieur]], [[Künstlerin]]

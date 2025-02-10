@@ -27,4 +27,4 @@ Herkunft:
 
 
 
-[[bericht]], [[Vorstellung]], [[Angabe]], [[Abbildung]]
+[[bericht]], [[Vorstellung]], [[Angabe]], [[Abbildung]], [[Zeichnung]]

@@ -1,1 +1,1 @@
-, [[Werk]], [[Stillleben]], [[Einzelausstellung]]
+, [[Werk]], [[Stillleben]], [[Einzelausstellung]], [[künstlerischer]]

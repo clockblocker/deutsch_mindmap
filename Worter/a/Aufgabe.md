@@ -28,4 +28,4 @@ D: der [[Aufgabe]], den [[Aufgaben]]
 
 ---
 [[aufgeben]], [[aufgabenorientiert]], [[aufgabenlos]], [[Aufgabenheft]]
-, [[Problem]], [[Tätigkeit]], [[Pflicht]], [[Verantwortung]], [[Herausforderung]], [[Anspruch]], [[Stelle]], [[Bewerb]], [[Verpflichtung]], [[Hauptaufgabe]]
+, [[Problem]], [[Tätigkeit]], [[Pflicht]], [[Verantwortung]], [[Herausforderung]], [[Anspruch]], [[Stelle]], [[Bewerb]], [[Verpflichtung]], [[Hauptaufgabe]], [[Arbeit]]

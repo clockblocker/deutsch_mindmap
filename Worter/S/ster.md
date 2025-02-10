@@ -1,1 +1,1 @@
-, [[Fenstern]], [[Familienministerium]]
+, [[Fenstern]], [[Familienministerium]], [[sterben]]

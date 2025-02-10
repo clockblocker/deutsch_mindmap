@@ -1,2 +1,2 @@
 📧 [[schicken]]
-, [[Fähig]], [[überlegen]], [[gelungen]]
+, [[Fähig]], [[überlegen]], [[gelungen]], [[begabt]]

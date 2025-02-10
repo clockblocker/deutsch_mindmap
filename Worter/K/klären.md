@@ -30,4 +30,4 @@ Morpheme: [[klär]][[en]]
 Partizip I: [[klärend]], Partizip II: [[geklärt]]
 
 , [[erklären]], [[lichten]], [[klar]]
-, [[lösen]]
+, [[lösen]], [[besprechen]]

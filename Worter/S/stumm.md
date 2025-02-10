@@ -5,6 +5,9 @@ nicht [[laut]]
 *und die Mutter blickte [[stumm]]*  
 *auf dem ganzen Tisch herum.*  
 
+Sie saß [[stumm]] in ihrer Wohnung und hatte immer nur einen Gedanken  
+im Kopf: «Warum habe ich keine Tiefe? Warum habe ich keine Tiefe?»  
+
 ---
 Synonyme: [[leise]], [[still]], [[schweigsam]], [[wortkarg]], [[wortlos]]
 Antonyme: [[laut]], [[gesprächig]], [[redselig]], [[kommunikativ]]

@@ -3,6 +3,10 @@
 ---
 ANNA: Das [[dauert]] sicher nur eine Woche …  
 
+1. Их поездка длилась две недели. Ihre Reise [[dauerte]] zwei Wochen.
+
+Was für ein Glück! Aber dieses Glück [[dauerte]] nicht lange. [[14 perfekt#^4|(q)]]
+
 Der Krieg [[dauert]] schon 100 Jahre. Und du weißt nichts über ihn, weil du aus irgendeinem Grund die ganze Zeit da drin warst! 
 
 Es gibt Menschen, bei denen selbst kleine Arbeiten endlos [[dauern]]. 

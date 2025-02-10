@@ -1,11 +1,14 @@
 😔 [[enttäuschen]] | 😔 [[enttäuscht]]
-[[enttäuscht]], [ɛntˈtɔʏ̯ʃt]
 nicht [[zufrieden]]
 
 ---
+Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. [[14 perfekt#^16|(q)]]
+
+[[16 Plusquamperfekt.md#^15|(q)]] Sie war so [[enttäuscht]], kraftlos und schwach, dass ihr alles aus den Händen fiel. ^15
+
 „Kanada, mein Lieblingsland!“, denkt Diana und stellt aber sofort etwas [[enttäuscht]] [[fest]]:  „Wenn er aus Kanada ist, bleibt er bestimmt nicht lange in Deutschland … Schade!“ 
 
-Er erklärte dem [[enttäuschten]] Mädchen im Telefongespräch, dass er ihr bald einen [[zärtlich|zärtlichen]] Brief schickt. [[13 Nebensätze.md#^2|(Quelle: 13 Nebensätze)]] 
+Er erklärte dem [[enttäuschten]] Mädchen im Telefongespräch, dass er ihr bald einen [[zärtlich|zärtlichen]] Brief schickt. [[13 Nebensätze#^2|(Quelle: 13 Nebensätze)]] 
 
 
 ---

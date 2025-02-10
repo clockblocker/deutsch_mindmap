@@ -1,1 +1,1 @@
-, [[aufhalten]], [[zügig]], [[hinhalten]]
+, [[aufhalten]], [[zügig]], [[hinhalten]], [[Richtungsänderung]]

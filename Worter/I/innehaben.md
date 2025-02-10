@@ -1,1 +1,1 @@
-, [[haben]], [[besitzen]]
+, [[Worter/H/haben]], [[besitzen]]

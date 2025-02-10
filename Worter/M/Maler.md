@@ -1,1 +1,1 @@
-, [[Künstler]], [[malen]]
+, [[Künstler]], [[malen]], [[Künstlerin]], [[Zeichner]]

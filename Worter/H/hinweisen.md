@@ -3,6 +3,10 @@
 ---
 [[Hinweis]]
 
+**“von etwas sprechen”** → wenn du etwas [[erwähnst]] oder auf etwas [[anspielst]]
+• bei diskussionen: **über etwas sprechen**
+• bei [[Erwähnungen]]/[[hinweisen]]: **von etwas sprechen**
+
 ---
 = [[andeuten]], [[zeigen]], [[aufmerksam machen]]
 ≈ [[informieren]], [[mitteilen]], [[darauf aufmerksam machen]]

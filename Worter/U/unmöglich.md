@@ -3,8 +3,11 @@
 ---
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
 
+[[14 perfekt#^8|(q)]] «Aber das ist doch [[unmöglich]]!» rief Hein Martens. «So viel Geld für den Buddha! Sehen Sie, ich habe schon einen Buddha gehabt, aber er ist in die See gefallen.» ^8
+
+
 *Es ist [[unmöglich]]*  
-*sagt die [[Erfahrung]]*  
+*sagt die [[Erfahrung]]*  [[Es ist was es ist]]
 
 Was? Das ist völlig [[unmöglich]]! Findest du, dass ich wie ein 112 Jahre alter Mann aussehe?
 

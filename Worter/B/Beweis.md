@@ -23,4 +23,4 @@ G: des [[Beweises]], der [[Beweise]]
 D: dem [[Beweis]], den [[Beweisen]]  
 
 ---
-[[beweisen]], [[beweisbar]], [[Beweislast]], [[Beweismittel]], [[beweiskräftig]], [[Anki]]
+[[beweisen]], [[beweisbar]], [[Beweislast]], [[Beweismittel]], [[beweiskräftig]], [[Anki]], [[Glaskugel]]

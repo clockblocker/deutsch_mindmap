@@ -1,2 +1,2 @@
 das [[Glas]] / die [[Gläser]] | #Substantiv #Neuter | glass
-, [[Becher]]
+, [[Becher]], [[Glaskugel]]

@@ -16,7 +16,7 @@ auxiliary verb
 [[Hilf]]|[[s]]|[[verb]]
 
 ---
-Haupttypen: [[sein]], [[haben]], [[werden]], [[können]], [[müssen]], [[sollen]], [[wollen]], [[dürfen]], [[mögen]]
+Haupttypen: [[sein]], [[Worter/H/haben]], [[werden]], [[können]], [[müssen]], [[sollen]], [[wollen]], [[dürfen]], [[mögen]]
 
 ---
 Funktionen:

@@ -3,8 +3,9 @@ die [[Berichte]]
 
 
 ---
-Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas [[Bericht]] nicht. „Die [[Seitenzahlen]] sollten immer [[unten]] rechts stehen. Bitte achten Sie in Zukunft [[darauf]]!“, war ihr [[einziger]] Kommentar zu dem [[Bericht]]. 
+[[15 genetiv#^7|(q)]] Der Kommissar und Kramer warteten auf den [[Bericht]] des Experten. ^7
 
+Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas [[Bericht]] nicht. „Die [[Seitenzahlen]] sollten immer [[unten]] rechts stehen. Bitte achten Sie in Zukunft [[darauf]]!“, war ihr [[einziger]] Kommentar zu dem [[Bericht]]. 
 
 - [[Wetterbericht]]
 

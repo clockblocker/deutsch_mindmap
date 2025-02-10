@@ -27,4 +27,4 @@ Genitive: der [[Schwierigkeit]], der [[Schwierigkeiten]]
 Dative: der [[Schwierigkeit]], den [[Schwierigkeiten]]  
 
 ---
-[[schwierig]], [[erschweren]], [[vereinfachen]], [[meistern]], [[Herausforderung]]
+[[schwierig]], [[erschweren]], [[vereinfachen]], [[meistern]], [[Herausforderung]], [[schwer]]

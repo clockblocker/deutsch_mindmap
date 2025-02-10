@@ -76,4 +76,4 @@ Konjunktiv II:
 - Wenn er hier wäre, [[löge]] er nicht.
 - Wenn wir keinen Grund hätten, [[lögen]] wir nicht.
 - Wenn ihr die Wahrheit wüsstet, [[löget]] ihr nicht.
-- Wenn sie es zugeben könnten, [[lögen]] sie nicht.
+- Wenn sie es zugeben könnten, [[lögen]] sie nicht., [[unehrlicher]]

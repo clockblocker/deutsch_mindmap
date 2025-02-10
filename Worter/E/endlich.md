@@ -27,4 +27,4 @@ Feminine: [[endliche]], [[endlichere]], [[endlichste]]
 Neuter: [[endliches]], [[endlicheres]], [[endlichstes]]  
 Plural: [[endlichen]], [[endlicheren]], [[endlichsten]]  
 
-[[Endlichkeit]], [[beenden]], [[enden]]
+[[Endlichkeit]], [[beenden]], [[enden]], [[unzählbar]]

@@ -28,3 +28,4 @@ P: [[bequemen]], [[bequemeren]], [[bequemsten]]
 [[Bequemlichkeit]], [[bequemen]], [[bequemlich]], [[unbequem]]
 
 [[bequem]], [[geeignet]]
+, [[schwer]]

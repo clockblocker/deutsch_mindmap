@@ -4,6 +4,8 @@ nicht [[langsam]]
 ---
 [[Bisher]] gab es noch keinen [[Regen]], aber bestimmt [[bald]].
 
+[[16 Plusquamperfekt.md#^1|(q)]] Die junge Frau verstand nicht, was der Kritiker meinte, und sie hat seine Meinung [[bald]] vergessen.  ^1
+
 Ich werde [[bald]] als Lehrer arbeiten.
 
 CHARLOTTE: Es ist [[bald]] [[fertig]] –zum Schluss das Eiweiß zur Schokolade geben und in den Kühlschrank stellen

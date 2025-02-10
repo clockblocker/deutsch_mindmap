@@ -35,4 +35,4 @@ Morpheme:
 [[während]]
 
 ---
-#Präposition, [[s1 e1]], [[warten]], [[innerhalb]], [[Conjunctions]], [[CONNECTOR]], [[Währenddessen]], [[wobei]]
+#Präposition, [[s1 e1]], [[warten]], [[innerhalb]], [[Conjunctions]], [[CONNECTOR]], [[Währenddessen]], [[wobei]], [[15 genetiv]], [[Gen Prap]]

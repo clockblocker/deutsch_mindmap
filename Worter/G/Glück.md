@@ -1,7 +1,9 @@
 das [[Glück]]  
 die [[Glücke]]
 
-Beispiele:
+---
+Anderes Land, anderes [[Glück]].
+
 SAM: Okay – jetzt geht‘s los ich gehe einkaufen.
 ANNA: Viel [[Glück]]!
 Heute ist mein [[Glückstag]]!  

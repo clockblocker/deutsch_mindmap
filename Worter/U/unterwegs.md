@@ -1,7 +1,9 @@
 [[unterwegs]], [ˈʊntɐˌveːks]
 
 ---
-Na, er ist ja groß genug und muß eben [[unterwegs]] gut aufpassen. 
+Na, er ist ja groß genug und muß [[eben]] [[unterwegs]] gut aufpassen. 
+
+[[Unterwegs]] zum Bahnhof haben wir über unseren [[Ausflug]] aufs Land gesprochen 
 
 ---
 Synonyme: [[auf dem Weg]], [[auf Reisen]], [[unterwegs sein]], [[on the move]]

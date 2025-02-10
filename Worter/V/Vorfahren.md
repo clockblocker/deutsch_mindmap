@@ -1,1 +1,1 @@
-die [[Vorfahre]],, [[s1 e1]]
+die [[Vorfahre]],, [[s1 e1]], [[erben]]

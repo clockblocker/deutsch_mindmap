@@ -30,4 +30,4 @@ Morpheme: [[an]][[hab]][[en]]
 
 Partizip I: [[anhabend]], Partizip II: [[angehabt]]
 
-[[anhaben]] - [[an]] = [[haben]]
+[[anhaben]] - [[an]] = [[Worter/H/haben]]

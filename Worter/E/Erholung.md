@@ -1,1 +1,1 @@
-, [[Ruh]], [[ausgeruht]]
+, [[Ruh]], [[ausgeruht]], [[Arbeit]]

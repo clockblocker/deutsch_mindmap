@@ -22,4 +22,4 @@ G: der [[Geschichte]], der [[Geschichten]]
 D: der [[Geschichte]], den [[Geschichten]]  
 
 ---
-[[geschichtlich]], [[historisch]], [[erzählen]], [[berichten]], [[geschehen]], [[Vergangenheit]]
+[[geschichtlich]], [[historisch]], [[erzählen]], [[berichten]], [[geschehen]], [[Vergangenheit]], [[unehrlicher]], [[Verbrecher]]

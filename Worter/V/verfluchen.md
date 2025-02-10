@@ -1,1 +1,1 @@
-[[verdammen]], [[hassen]], [[segnen]]
+[[verdammen]], [[hassen]], [[segnen]], [[weihen]]

@@ -1,11 +1,13 @@
-, [[vorhersagen]], [[sagen]], [[behaupten]], [[erzählen]], [[äußern]], [[Aussage]], [[aussagen]], [[s1 e1]], [[sogenannten]], [[berichten]]
 🗣️ [[sagen]], [ˈzaːɡən] | [[sagte]], haben [[gesagt]]
 
 ---
+[[absagen]] - [[ab]] = [[sagen]] / to cancel, to call off, to decline
+[[vorhersagen]] - [[vor]] - [[her]] = [[sagen]] / forecast
+[[aussagen]] - [[aus]] = [[sagen]] / to state, to testify, to declare
 
 ---
 = [[mitteilen]], [[kommunizieren]], [[erklären]]
-≈ [[berichten]], [[verkünden]], [[äußern]], [[behaupten]]
+≈ [[berichten]], [[verkünden]], [[äußern]], [[behaupten]],  [[erzählen]],  [[äußern]], [[berichten]],[[sogenannten]], 
 ≠ [[schweigen]], [[verschweigen]], [[verheimlichen]]
 
 ---

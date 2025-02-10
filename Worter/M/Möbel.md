@@ -1,1 +1,1 @@
-[[Schrank]], [[Sitz]]
+[[Schrank]], [[Sitz]], [[Stuhl]]

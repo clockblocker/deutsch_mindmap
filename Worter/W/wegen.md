@@ -73,4 +73,4 @@ Beispiele:
 - Ich gehe wegen des Regens nicht nach draußen.
 - Aufgrund der Krankheit konnte er nicht kommen.
 - Die Schule fiel wegen des Schnees aus.
-''', [[daß]], [[Anki]]
+''', [[daß]], [[Anki]], [[15 genetiv]], [[Gen Prap]]

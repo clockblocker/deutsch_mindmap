@@ -41,4 +41,4 @@ Partizip I: [[fliegend]], Partizip II: [[geflogen]]
 
 [[ausrissen]]
 
-, [[krabbeln]], [[s1 e1]], [[Flugzeug]]
+, [[krabbeln]], [[s1 e1]], [[Flugzeug]], [[aufliegen]]

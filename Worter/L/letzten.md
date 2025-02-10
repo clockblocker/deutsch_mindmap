@@ -1,2 +1,2 @@
 [[letzte]]
-, [[allerletzten]], [[letzen]]
+, [[allerletzten]], [[letzen]], [[übernächste]]

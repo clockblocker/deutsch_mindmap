@@ -21,7 +21,7 @@ Nominative: [[reich]], [[reicher]], [[reichster]]
 Accusative: [[reichen]], [[reicheren]], [[reichsten]]  
 Genitive: [[reicher]], [[reicherer]], [[reichster]]  
 Dative: [[reichem]], [[reicherem]], [[reichstem]]  
-Feminine: [[reiche]], [[reichere]], [[reichste]]  
+Feminine: [[Reiche]], [[reichere]], [[reichste]]  
 Neuter: [[reiches]], [[reicheres]], [[reichstes]]  
 Plural: [[reichen]], [[reicheren]], [[reichsten]]  
 

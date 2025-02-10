@@ -1,5 +1,5 @@
 🟦 [[geben]] + Dat, Akk, [ˈɡeːbn̩]
-[[gab]], [[haben]] [[gegeben]]
+[[gab]], [[Worter/H/haben]] [[gegeben]]
 
 ---
 Du hast der Feuermarine ein Lichtsignal [[gegeben]], oder?

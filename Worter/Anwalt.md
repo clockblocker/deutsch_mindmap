@@ -26,4 +26,4 @@ G: des [[Anwalts]], der [[Anwälte]]
 D: dem [[Anwalt]], den [[Anwälten]]  
 
 ---
-[[anwaltlich]], [[Anwaltschaft]], [[Rechtsanwalt]], [[Anwältin]], [[Scheidungsprozess]], [[Schöffe]], [[Justizsenator]]
+[[anwaltlich]], [[Anwaltschaft]], [[Rechtsanwalt]], [[Anwältin]], [[Scheidungsprozess]], [[Schöffe]], [[Justizsenator]], [[Verbrecher]]

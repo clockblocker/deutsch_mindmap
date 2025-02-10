@@ -6,4 +6,23 @@
 он боялся своей жены; [[12 Past#^12|(Quelle: 12 Past)]] 
 
 
-
+###### fröhlich
+traurig
+###### richtig
+falsch
+###### enttäuscht
+hoffnungsvoll
+###### laut
+leise§
+###### neu
+bekannt
+###### gewöhnlich
+besonders
+###### gesund
+krank
+###### teuer
+billig
+###### без труда
+ohne Müche
+###### никогда в жизни
+niemals in seinem Leben

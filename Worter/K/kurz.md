@@ -51,4 +51,4 @@ Tags:
 #Adjective
 #Comparative | #Superlative
 
----[[speziellen]], [[hoch]], [[endlos]], [[Kurzem]], [[Ausführlich]], [[Kürzung]], [[Abkürzung]], [[knapp]], [[kürzlich]], [[Minirock]], [[Zusammenfassung]]
+---[[speziellen]], [[hoch]], [[endlos]], [[Kurzem]], [[Ausführlich]], [[Kürzung]], [[Abkürzung]], [[knapp]], [[kürzlich]], [[Minirock]], [[Zusammenfassung]], [[speziell]]

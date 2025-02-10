@@ -1,1 +1,1 @@
-, [[neidisch]], [[jüdisch]], [[europäisch]], [[misstrauisch]], [[politisch]], [[preußisch]], [[einheimisch]]
+, [[neidisch]], [[jüdisch]], [[europäisch]], [[misstrauisch]], [[politisch]], [[preußisch]], [[einheimisch]], [[künstlerischer]]

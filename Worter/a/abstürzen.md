@@ -1,1 +1,1 @@
-, [[fallen]], [[schweben]]
+, [[fallen]], [[schweben]], [[aufliegen]]

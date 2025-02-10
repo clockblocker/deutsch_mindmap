@@ -1,1 +1,1 @@
-, [[bezogen]]
+, [[bezogen]], [[speziell]]

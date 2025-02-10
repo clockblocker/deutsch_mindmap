@@ -1,1 +1,1 @@
-, [[Mistkerl]], [[Einbrecher]]
+, [[Mistkerl]], [[Einbrecher]], [[Dieb]]

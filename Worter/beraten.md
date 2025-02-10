@@ -30,4 +30,4 @@ PI: [[beratend]], PII: [[beraten]], Zu+inf: [[zu beraten]]
 [[beraten]] - [[be]] = [[raten]] / to advise, to counsel, to consult
 
 ---
-[[Beratung]], [[Berater]], [[Beraterin]], [[beratend]], [[Ratschlag]], [[beraten]], [[Rat]], [[Ältestenrat]], [[Verbraucherzentrale]]
+[[Beratung]], [[Berater]], [[Beraterin]], [[beratend]], [[Ratschlag]], [[beraten]], [[Rat]], [[Ältestenrat]], [[Verbraucherzentrale]], [[besprechen]]

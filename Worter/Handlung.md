@@ -4,11 +4,9 @@ die [[Handlungen]]
 ---
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
 
+ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. [[GPT.md#^1|(q)]]
 
 1. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
-	- [ ] Die Politik Israels [[öffentlich]] kritisieren.
-	- [ ] Das [[Aufhängen]] einer israelischen Flagge auf dem [[Privatgrundstück]].
-	- [ ] Eine Diskussion über die Politik Israels.
 	- [x] Der öffentliche [[Aufruf]] zur [[Vernichtung]] Israels.
 
 ---
@@ -29,4 +27,4 @@ G: der [[Handlung]], der [[Handlungen]]
 D: der [[Handlung]], den [[Handlungen]]  
 
 ---
-[[handeln]], [[handlungslos]], [[handlungsfähig]], [[handlungsorientiert]], [[antun]], [[Maßnahme]]
+[[handeln]], [[handlungslos]], [[handlungsfähig]], [[handlungsorientiert]], [[antun]], [[Maßnahme]], [[Bewegung]]

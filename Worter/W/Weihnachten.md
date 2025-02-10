@@ -12,7 +12,7 @@ Synonyme:
 Christmas
 
 ---
-[[Weih]][[nachten]]
+[[Weih]]|[[nachten]]
 
 ---
 Case: Singular, Plural  

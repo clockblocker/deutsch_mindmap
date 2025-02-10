@@ -1,1 +1,1 @@
-[[besonders]]
+[[besonders]], [[ungewöhnlich]]

@@ -1,1 +1,1 @@
-, [[finden]], [[erfinden]], [[befinden]]
+, [[finden]], [[erfinden]], [[befinden]], [[stattfinden]]

@@ -1,1 +1,1 @@
-, [[Schein]], [[Urkunde]], [[Beweis]]
+, [[Schein]], [[Urkunde]], [[Beweis]], [[stätigen]]

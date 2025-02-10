@@ -1,1 +1,1 @@
-, [[Umstand]]
+, [[Umstand]], [[ausnehmen]]

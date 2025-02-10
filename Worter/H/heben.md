@@ -40,4 +40,4 @@ Partizip I: [[hebend]], Partizip II: [[gehoben]]
 
 
 [[setzen]], [[ziehen]], [[bücken]]
-, [[erheben]], [[s1 e1]], [[tragen]], [[hervorheben]]
+, [[erheben]], [[s1 e1]], [[tragen]], [[hervorheben]], [[schleudern]]

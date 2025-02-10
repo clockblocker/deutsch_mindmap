@@ -28,4 +28,4 @@ P: [[geringen]], [[geringeren]], [[geringsten]]
 ---
 [[Geringfügigkeit]], [[geringschätzig]], [[Geringverdiener]], [[Geringfügigkeit]]
 
-[[speziellen]], [[prima]], [[breit]], [[bitterlich]], [[gewaltigen]], [[gewaltig]], [[klein]]
+[[speziellen]], [[prima]], [[breit]], [[bitterlich]], [[gewaltigen]], [[gewaltig]], [[klein]], [[speziell]]

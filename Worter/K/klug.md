@@ -1,2 +1,2 @@
 [[genial]]
-, [[Weise]], [[überlegen]], [[blöd]], [[doof]]
+, [[Weise]], [[überlegen]], [[blöd]], [[doof]], [[begabt]]

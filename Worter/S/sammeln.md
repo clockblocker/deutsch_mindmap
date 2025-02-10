@@ -5,6 +5,8 @@ haben [[gesammelt]]
 ---
 Tränen [[sammelten]] sich in Petunias Augen.
 
+[[16 Plusquamperfekt.md#^12|(q)]] Sie sagten: «Sie hat eine [[Krise]]. Kann sein, es ist die Krise [[menschlicher]] Art, oder sie ist [[künstlerischer]] Art, oder die Krise ist finanziell. Im ersten Fall kann man nichts machen, im zweiten Fall muss sie da durch, und im dritten Fall können wir Geld für sie [[sammeln]], aber [[wahrscheinlich]] nimmt sie es nicht.
+
 Er [[sammelte]] Zeitungsausschnitte, Foto-grafien, Farbstudien, Landschaften, Portraits, Stillleben und historische Stoffe, die ihm als Vorlagen für Gemälde dienten
 
 Als Lena abends nach Hause geht, hat sie die [[Projektleitung]] in der Tasche. Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen]] [[sammeln]], meint der Chef.

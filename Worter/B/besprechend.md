@@ -1,1 +1,1 @@
-, [[Besprechung]]
+, [[Besprechung]], [[besprechen]]

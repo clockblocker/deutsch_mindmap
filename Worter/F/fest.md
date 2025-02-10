@@ -8,6 +8,8 @@ Man braucht Ruhe, und ein [[Fest]] bringt viele Probleme.
 
 Katara und Sokka halten sich an der Eisscholle [[fest]] und werden mit ihr von einer Welle weggespült.
 
+Also bedeutet “weihnachten” wörtlich “heilige nächte”, weil das [[fest]] [[ursprünglich]] als eine zeit der [[geweih­ten]]/[[gesegneten]] Nächte [[galt]]. Es hat [[wurzeln]] in alten germanischen und christlichen Traditionen.
+
 *Sie müssen sich an Sterne [[krallen]], (ganz [[fest]])*  
 *damit sie nicht vom Himmel fallen.*
 
@@ -85,4 +87,4 @@ G: des [[Festes]], der [[Feste]]
 D: dem [[fest]], den [[Festen]]  
 
 ---
-[[feiern]], [[festlich]], [[Festung]], [[Festtag]], [[Festlichkeit]], [[Erntedankfest]], [[standhaft]], [[festlegen]], [[Festlegung]], [[dicht]]
+[[feiern]], [[festlich]], [[Festung]], [[Festtag]], [[Festlichkeit]], [[Erntedankfest]], [[standhaft]], [[festlegen]], [[Festlegung]], [[dicht]], [[festnehmen]]

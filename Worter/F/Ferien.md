@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Ferien]], [[Ferien]], [[Ferien]], [[Ferien]], [
 
 ---
 #Substantiv #Feminin
- , [[Ferienpass]]
+ , [[Ferienpass]], [[Ausflug]]

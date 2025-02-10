@@ -3,6 +3,7 @@
 haben [[gemüht]]
 
 ---
+[[14 perfekt#^10|(q)]] Ohne [[Mühe]] fand er einen kleinen Buddha aus rotem Stein und steckte ihn in die Tasche. ^10
 
 
 ---

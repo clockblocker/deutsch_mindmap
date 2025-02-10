@@ -1,1 +1,1 @@
-, [[einbrechen]], [[Einbrecher]]
+, [[einbrechen]], [[Einbrecher]], [[Verbrecher]]

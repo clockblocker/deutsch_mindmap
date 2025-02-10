@@ -13,7 +13,7 @@
     die [[Nummer]], die [[Nacht]], [[nein]], [[nicht]].
     
 4. Придыхание, когда слово начинается с [х]
-    [[haben]], Hamburg, [[hier]], [[Hammer]], [[Hund]].
+    [[Worter/H/haben]], Hamburg, [[hier]], [[Hammer]], [[Hund]].
 5. «Е» - всегда произносится как [э]
     [[essen]], [[er]], [[wer]]?, [[der]], [[Herr]], [[Ehre]].
 

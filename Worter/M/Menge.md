@@ -29,4 +29,4 @@ Einzigartige mögliche Formen: [[Menge]], [[Mengen]], [[Menge]], [[Menge]], [[Me
 
 , [[Haufen]], [[Häuflein]]
 
-, [[Zahl]]
+, [[Zahl]], [[Mengenangabe]]

@@ -1,1 +1,1 @@
-, [[Freiheitsstrafe]], [[Gefängnis]], [[verhaften]], [[Verhaftungen]]
+, [[Freiheitsstrafe]], [[Gefängnis]], [[verhaften]], [[Verhaftungen]], [[festnehmen]]

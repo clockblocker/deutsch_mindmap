@@ -1,4 +1,4 @@
-📚 [[haben]], [ˈhaːbn̩]
+📚 [[Worter/H/haben]], [ˈhaːbn̩]
 [[hatte]]
 haben [[gehabt]]
 
@@ -25,11 +25,11 @@ Morpheme: [[hab]][[en]]
 | Ich       | [[habe]]             | [[hatte]]             | -                 | [[habe]]               | [[hätte]]               |
 | Du        | [[hast]]             | [[hattest]]           | [[hab]]           | [[habest]]             | [[hättest]]             |
 | Er/sie/es | [[hat]]              | [[hatte]]             | -                 | [[habe]]               | [[hätte]]               |
-| Wir       | [[haben]]            | [[hatten]]            | -                 | [[haben]]              | [[hätten]]              |
+| Wir       | [[Worter/H/haben]]            | [[hatten]]            | -                 | [[Worter/H/haben]]              | [[hätten]]              |
 | Ihr       | [[habt]]             | [[hattet]]            | [[habt]]          | [[habet]]              | [[hättet]]              |
-| Sie       | [[haben]]            | [[hatten]]            | [[haben Sie]]     | [[haben]]              | [[hätten]]              |
+| Sie       | [[Worter/H/haben]]            | [[hatten]]            | [[haben Sie]]     | [[Worter/H/haben]]              | [[hätten]]              |
 
 Partizip I: [[habend]], Partizip II: [[gehabt]]
 
-[[haben]] - [[hab]] = [[en]]
-''', [[geben]], [[s1 e1]], [[Hilfsverb]]
+[[Worter/H/haben]] - [[hab]] = [[en]]
+''', [[geben]], [[s1 e1]], [[Hilfsverb]], [[schleudern]]

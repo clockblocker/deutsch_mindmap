@@ -33,4 +33,4 @@ Einzigartige mögliche Formen:
 
 
 [[riesig]][[speziellen]], [[gewaltigen]], [[gewaltig]]
-, [[s1 e1]]
+, [[s1 e1]], [[speziell]], [[unzählbar]]

@@ -2,6 +2,9 @@
 nicht [[traurig]]
 
 ---
+Als das Schiff «[[Fröhlicher]] Neptun» nach fast einem Jahr [[Ostasienfahrt]] am 22. Dezember nach Hamburg kam, waren siebenunddreißig sehr fröhliche Männer am Bord - und ein sehr trauriger Mann, der zweite Offizier Hein Martens. [[14 perfekt#^1|(q)]]
+
+
 EDELTRAUT: So? Dann muss er tanzen kommen, das macht [[fröhlich]]
 
 _Beide lachen und sind [[fröhlich]]._

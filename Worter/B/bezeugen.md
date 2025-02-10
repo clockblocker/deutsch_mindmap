@@ -1,1 +1,1 @@
-, [[aussagen]]
+, [[aussagen]], [[bestätigen]]

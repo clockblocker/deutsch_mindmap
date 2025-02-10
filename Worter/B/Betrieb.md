@@ -2,7 +2,7 @@
 die [[Betriebe]]
 
 ---
-«Dann fahre ich nach Hause und arbeite wieder in meinem Betrieb.»  [[13 Nebensätze.md#^5|(Quelle: 13 Nebensätze)]] 
+«Dann fahre ich nach Hause und arbeite wieder in meinem Betrieb.»  [[13 Nebensätze#^5|(Quelle: 13 Nebensätze)]] 
 
 
 ---

@@ -3,6 +3,8 @@
 ---
 [[Sogar]] du kannst die Welt ein bisschen verbessern!
 
+Ihre Bilder können [[sogar]] einen ganz guten [[Eindruck]] aufs Publikum machen. Aber es gibt in ihnen nicht genug Tiefe.»   [[16 Plusquamperfekt.md#^3|(q)]]
+
 Mr und Mrs Dursley im Ligusterweg Nummer 4 waren [[stolz]] darauf, ganz und gar normal zu sein, sehr stolz [[sogar]].
 
 Ein [[Einbrecher]]? Oh, vielleicht ist er [[sogar]] noch drin?

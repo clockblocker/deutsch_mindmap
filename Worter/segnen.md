@@ -3,6 +3,11 @@
 ---
 1: [[Selig]], ihr [[Armen]], denn euch gehört das Reich Gottes. [[Bible.md#^1|(Quelle: Bible)]] 
 
+• **“weih”** → [[heilig]], [[gesegnet]]
+
+Also bedeutet **“weihnachten”** wörtlich **“heilige nächte”**, weil das fest [[ursprünglich]] als eine zeit der [[geweih­ten]]/[[gesegneten]] Nächte [[galt]]. Es hat [[wurzeln]] in alten germanischen und christlichen Traditionen.
+
+
 ---
 = [[benedeien]], [[weihen]], [[sanctificieren]]
 ≈ [[heiligen]], [[beten für]], [[beglücken]]

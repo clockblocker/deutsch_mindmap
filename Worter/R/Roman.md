@@ -1,1 +1,1 @@
-, [[Artikel]]
+, [[Artikel]], [[Bildband]]

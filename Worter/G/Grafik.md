@@ -1,1 +1,1 @@
-, [[Kunst]], [[Abbildung]]
+, [[Kunst]], [[Abbildung]], [[Zeichnung]]

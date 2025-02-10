@@ -1,1 +1,1 @@
-, [[verwandt]], [[Fremde]]
+, [[verwandt]], [[Fremde]], [[Fremdsprache]]

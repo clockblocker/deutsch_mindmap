@@ -3,4 +3,4 @@
 [[zählen]]
 
 
-, [[lohnen]], [[dazuzählen]], [[Auszählung]]
+, [[lohnen]], [[dazuzählen]], [[Auszählung]], [[unzählbar]]

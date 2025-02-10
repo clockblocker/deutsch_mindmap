@@ -1,1 +1,1 @@
-, [[Schwäche]], [[Versorgung]], [[Armut]], [[knapp]], [[Ausrüstung]]
+, [[Schwäche]], [[Versorgung]], [[Armut]], [[knapp]], [[Ausrüstung]], [[Mengenangabe]]

@@ -1,1 +1,1 @@
-[[haben]], [[wer hätte das gedacht]]
+[[Worter/H/haben]], [[wer hätte das gedacht]]

@@ -1,1 +1,1 @@
-, [[Handlung]], [[verhalten]], [[Weiterbildung]], [[Maßnahme]], [[Wirtschaft]], [[Verfahren]], [[Verkehrsmittel]], [[Entwicklung]], [[Entfaltung]], [[Wende]], [[Training]], [[Betrieb]], [[Fortschritt]], [[Wendung]]
+, [[Handlung]], [[verhalten]], [[Weiterbildung]], [[Maßnahme]], [[Wirtschaft]], [[Verfahren]], [[Verkehrsmittel]], [[Entwicklung]], [[Entfaltung]], [[Wende]], [[Training]], [[Betrieb]], [[Fortschritt]], [[Wendung]], [[Richtungsänderung]]

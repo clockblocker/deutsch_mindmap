@@ -1,1 +1,1 @@
-, [[sprechen]], [[ansprechen]], [[Sprachunterricht]], [[schriftsprachlich]]
+, [[sprechen]], [[ansprechen]], [[Sprachunterricht]], [[schriftsprachlich]], [[Fremdsprache]]

@@ -7,6 +7,8 @@
 	- [x] Menschen von einer [[Privatpolizei]] ohne Grund [[verhaftet]] werden.
 	- [ ] jemand ein [[Verbrechen]] begeht und deshalb [[verhaftet]] wird.
 
+Hein Martens nahm den kleinen Buddha aus der Tasche. «Ob sie hier schon etwas über den [[Diebstahl]] wissen?» dachte er. «Sie können mich jetzt [[verhaften]].» [[14 perfekt#^15|(q)]]
+
 ---
 = [[festnehmen]], [[verhören]], [[gefangennehmen]]
 ≈ [[inhaftieren]], [[arretieren]], [[einsperren]], [[festhalten]]

@@ -1,1 +1,1 @@
-, [[geschwind]], [[Hölzern]]
+, [[geschwind]], [[Hölzern]], [[schwer]]

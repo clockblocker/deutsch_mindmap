@@ -1,1 +1,1 @@
-, [[schieben]], [[glaub]], [[umschreiben]]
+, [[schieben]], [[glaub]], [[umschreiben]], [[sterben]], [[erben]]

@@ -1,1 +1,1 @@
-[[Unglück]], [[Tragödie]], [[Pech]]
+[[Unglück]], [[Tragödie]], [[Pech]], [[Krise]]

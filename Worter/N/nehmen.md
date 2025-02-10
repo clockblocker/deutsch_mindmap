@@ -20,6 +20,8 @@ Wir [[nehmen]] dazu vor allem [[einfach]] strukturierte Verben wie _spielen_, a
 [[abnehmen]] - [[ab]] = [[nehmen]]                     /  to lose weight, to decrease, to take off
 [[annehmen]] - [[an]] = [[nehmen]] // to accept, to assume, to take
 [[aufnehmen]] - [[auf]] = [[nehmen]] / to take up, have guests, to record, to receive
+[[ausnehmen]] - [[aus]] = [[nehmen]] / to remove, to except
+[[festnehmen]] - [[fest]] = [[nehmen]] / to arrest, to take into custody, to apprehend
 
 ---
 Synonyme: [[ergreifen]], [[greifen]], [[fassen]], [[erfassen]], [[entnehmen]]
@@ -49,4 +51,4 @@ Partizip I: [[nehmend]], Partizip II: [[genommen]], Zu infinitive: zu nehmen
 +[[heraus]] = [[herausnehmen]] / remove 
 +[[zu]] =  [[zunehmen]] / gain weight / набрать
 [[vornehmen]] - [[vor]] = [[nehmen]] / намереватсья 
-, [[ablehnen]], [[annehmen]]
+, [[ablehnen]], [[annehmen]], [[ausnehmen]]

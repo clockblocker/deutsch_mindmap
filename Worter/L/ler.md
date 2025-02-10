@@ -1,1 +1,1 @@
-, [[Adler]], [[Wählerstimmen]], [[Müller]]
+, [[Adler]], [[Wählerstimmen]], [[Müller]], [[künstlerischer]]

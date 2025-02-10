@@ -5,9 +5,11 @@ nicht [[unehrlich]]
 SAM: Wir haben kein Poptastisch Popcorn in the USA, but we make great popcorn
 ANNA: [[Ehrlich]]?  
 
-| Ich werd einen Wasserbändiger suchen! Und damit du's weißt, Aang bringt mich zum Nordpol!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _[Überrascht]_ Ach [[ehrlich]]? Aber gerne doch!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+[[14 perfekt#^12|(q)]] «Ich bin ein [[unehrlicher]] Mensch, ein [[Dieb]], ein [[Verbrecher]]! Ich vergesse diese [[Geschichte]] nie in meinem Leben!» Und er ging ins Museum zurück.  ^12
+
+| Ich werd einen Wasserbändiger suchen! Und damit du's weißt, Aang bringt mich zum Nordpol! |
+| ----------------------------------------------------------------------------------------- |
+| _[Überrascht]_ Ach [[ehrlich]]? Aber gerne doch!                                          |
 
 
 ---
@@ -31,4 +33,4 @@ N: [[ehrliches]], [[ehrlicheres]], [[ehrlichstes]]
 P: [[ehrlichen]], [[ehrlicheren]], [[ehrlichsten]]  
 
 ---
-[[Ehrlichkeit]], [[ehrlich gesagt]], [[Ehre]], [[unehrlich]], [[ehrenwert]], [[Ehrlich]]
+[[Ehrlichkeit]], [[ehrlich gesagt]], [[Ehre]], [[unehrlich]], [[ehrenwert]], [[Ehrlich]], [[unehrlicher]]

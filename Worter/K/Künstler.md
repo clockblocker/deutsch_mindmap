@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Künstlers]], [[Künstlern]], [[Künstlern]]
 ---
 #Substantiv #Maskulin #Beruf
 
-, [[Kunstschaffende]], [[Einzelausstellung]]
+, [[Kunstschaffende]], [[Einzelausstellung]], [[Künstlerin]], [[Zeichner]], [[künstlerischer]]

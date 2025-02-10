@@ -37,4 +37,4 @@ PI: [[beziehend]], PII: [[bezogen]], Zu+inf: [[zu beziehen]]
 [[Bezug]], [[Worter/B/Beziehung]], [[Bezugspunkt]], [[Bezugsquelle]], [[Bezugsrahmen]]
 
 , [[erhalten]], [[Bezug]], [[berufsbezogen]], [[bezogen]]
-, [[beziehungsweise]], [[Worter/Beziehung]], [[Beziehung]]
+, [[beziehungsweise]], [[Worter/Beziehung]], [[Beziehung]], [[anspielen]]

@@ -5,6 +5,8 @@
 
 1. Warum [[lacht]] ihr über diesen Kollegen?  
 
+«Wenn Sie über mich [[lachen]] wollen, dann müssen Sie früher [[aufstehen]],» antwortete der Künstler ärgerlich.  
+
 ---
 = [[scherzen]], [[spaßen]], [[fröhlich sein]]
 ≈ [[kichern]], [[schmunzeln]], [[grinsen]], [[sich amüsieren]]

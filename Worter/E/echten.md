@@ -4,6 +4,8 @@ nicht [[unecht]]
 ---
 Vielleicht bekommen wir dann auch besser mit, was im [[echten]] Leben so [[passiert]].
 
+Er hat ihr [[versprochen]], dass er einen [[echten]] alten Buddha [[unbedingt]] findet.  [[14 perfekt#^3|(q)]]
+
 ---
 Synonyme: [[wahr]], [[authentisch]], [[echt]], [[original]], [[wahrhaftig]]
 Antonyme: [[unecht]], [[künstlich]], [[falsch]], [[gefälscht]], [[vorgetäuscht]]

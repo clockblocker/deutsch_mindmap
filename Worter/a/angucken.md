@@ -5,7 +5,7 @@ haben [[angeguckt]]
 ---
 (Dreht sich um und merkt, dass Aang sie [[anguckt]]) Warum grinst du mich eigentlich so komisch an?
 
-«Gar nicht ach so! [[angucken|Guck]] mich doch bitte an! Ich schreibe ihr, aber ich sah sie noch nie, und ».[[13 Nebensätze.md#^9|(Quelle: 13 Nebensätze)]]
+«Gar nicht ach so! [[angucken|Guck]] mich doch bitte an! Ich schreibe ihr, aber ich sah sie noch nie, und ».[[13 Nebensätze#^9|(Quelle: 13 Nebensätze)]]
 
 ---
 Synonyme: [[ansehen]], [[anschauen]], [[betrachten]], [[mustern]], [[ansehen]]

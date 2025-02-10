@@ -49,4 +49,4 @@ Einzigartige mögliche Formen:
 , [[schmale]], [[fern]], [[nah]], [[klein]]
 
 ---
-, [[fernab]], [[weit und breit]], [[begrenzen]]
+, [[fernab]], [[weit und breit]], [[begrenzen]], [[speziell]]

@@ -1,1 +1,1 @@
-, [[runter]], [[vorwärts]], [[nach unten]], [[aufwärts]]
+, [[runter]], [[vorwärts]], [[nach unten]], [[aufwärts]], [[Richtungsänderung]]

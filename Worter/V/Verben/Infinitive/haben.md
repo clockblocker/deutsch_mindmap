@@ -1,1 +1,1 @@
-💼 [[haben]]  , [[vorhaben]]
+💼 [[Worter/V/Verben/Infinitive/haben]]  , [[vorhaben]]

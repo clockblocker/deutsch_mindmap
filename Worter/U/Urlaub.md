@@ -1,1 +1,1 @@
-, [[Ferien]]
+, [[Ferien]], [[Ausflug]], [[Arbeit]]

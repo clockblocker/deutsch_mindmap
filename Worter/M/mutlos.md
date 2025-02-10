@@ -1,1 +1,1 @@
-, [[mutig]], [[verzweifeln]], [[frustriert]], [[tapfer]], [[deprimiert]]
+, [[mutig]], [[verzweifeln]], [[frustriert]], [[tapfer]], [[deprimiert]], [[entmutigt]]

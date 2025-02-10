@@ -4,6 +4,10 @@ nicht [[gleich]], nicht [[einheitlich]]
 ---
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
+Мы говорим о разных вещах. Wir sprechen über [[verschiedene]] Sachen.
+
+Es gab dort viele [[verschiedene]] Buddhas: so kleine, dass man sie in die [[Tasche]] stecken konnte und so große wie drei Männer.
+
 Super! Dann kannst du [[am besten]] zwei [[verschiedene]] Gruppen [[ausprobieren]] [[emails.md#^1|(Quelle: emails)]]
 
 Innerhalb Deutschlands gibt es [[verschiedene]] Regionen.

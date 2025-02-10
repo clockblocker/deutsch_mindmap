@@ -1,1 +1,1 @@
-, [[Wirklichkeit]], [[Wahrheit]]
+, [[Wirklichkeit]], [[Wahrheit]], [[Glaskugel]]

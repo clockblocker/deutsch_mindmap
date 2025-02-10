@@ -23,4 +23,4 @@ upward, upwards, uphill
 [[aufwärtsgerichtet]], [[aufwärtsbewegung]], [[aufwärtssteigend]], [[aufwärtstendenz]]
 
 ---
-[[Aufwärtsbewegung]], [[aufwärts]], [[aufwärtsstreben]], [[aufwärtsgerichtet]]
+[[Aufwärtsbewegung]], [[aufwärts]], [[aufwärtsstreben]], [[aufwärtsgerichtet]], [[Richtungsänderung]]

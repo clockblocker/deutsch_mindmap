@@ -51,5 +51,5 @@ Partizip I: [[erhaltend]], Partizip II: [[erhalten]]
 [[erhalten]] - [[er]] = [[halten]]
 
 
-[[ändern]], [[holen]], [[verloren]], [[verlieren]], [[haben]], [[kriegen]], [[verdienen]], [[abbekommen]]
-, [[beibehalten]], [[überlebt]]
+[[ändern]], [[holen]], [[verloren]], [[verlieren]], [[Worter/H/haben]], [[kriegen]], [[verdienen]], [[abbekommen]]
+, [[beibehalten]], [[überlebt]], [[erben]]

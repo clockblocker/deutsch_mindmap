@@ -1,1 +1,1 @@
-, [[bestimmt]], [[ausweichend]], [[bestimmen]], [[nämlich]]
+, [[bestimmt]], [[ausweichend]], [[bestimmen]], [[nämlich]], [[speziell]]

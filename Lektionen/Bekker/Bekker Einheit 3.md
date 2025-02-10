@@ -18,7 +18,7 @@ _Дом большой – [[das]] [[Haus]] [[ist]] [[Groß]]._
 
 Примеры:
 _У меня есть машина – [[Ich]] [[habe]] [[ein]] [[Auto]]._
-_У нас 4 урока – [[wir]] [[haben]] [[4 Adj]] [[Stunden]]._
+_У нас 4 урока – [[wir]] [[Worter/H/haben]] [[4 Adj]] [[Stunden]]._
 _У него есть дом – [[er]] [[hat]] [[ein]] [[Haus]]._
 _У нее есть кошка – [[sie]] [[hat]] [[eine]] [[Katze]]._
 _У тебя сегодня немецкий – [[Du]] [[hast]] [[heute]] [[Deutsch]]._

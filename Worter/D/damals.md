@@ -2,6 +2,8 @@
 
 
 ---
+Das erste Mal, dass ich diesen Menschen gesehen habe, war vor vier Jahren. [[Damals]] kannte ich ihn noch nicht [[14 perfekt#^17|(q)]]
+
 [[Damals]] sorgte der Avatar für Harmonie zwischen den Wasserstämmen, dem Erdkönigreich, der Feuernation und den Luftnomaden. 
 
 [[Damals]] [[verdiente]] ich mehr Geld

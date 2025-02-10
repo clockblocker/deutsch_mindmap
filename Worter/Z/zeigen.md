@@ -8,6 +8,8 @@ ANNA: Hey Sam, komm … Wir [[zeigen]] dir die Wohnung.
 ANNA: Ja, [[zeig]] es uns ‘mal!  
 Ich [[zeig]] es dir!  
 
+»Nicht nur [[gezeigt]]!« sagte der Kommissar. »[[15 genetiv#^12|(q)]] Sie haben eine bunte [[Glaskugel]] für diese [[Schleuder]] benutzt. ^12
+
 181. Was wollte Willy Brandt mit seinem Kniefall 1970 im [[ehemaligen]] jüdischen Ghetto in Warschau [[ausdrücken]]? (81%)
 	- [x] Er bat Polen und die polnischen Juden um [[Vergebung]].
 	- [ ] Er [[zeigte]] seine [[Demut]] vor dem Warschauer Pakt.

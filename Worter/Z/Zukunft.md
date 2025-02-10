@@ -44,3 +44,28 @@ Grammatical Usage:
 - Typically used with definite article
 - Can be modified by adjectives
 - Often the object of prepositions and verbs related to planning or anticipation, [[Anki]], [[Vergangenheit]]
+
+🔮 [[Zukunft]], [ˈtsuːkʊnft]
+
+---
+
+
+---
+= [[Nachwelt]], [[Posterität]], [[Zukünftiges]]
+≈ [[Kommendes]], [[Was kommt]], [[Folgendes]]
+≠ [[Vergangenheit]], [[Gegenwart]], [[Historie]], [[Vergangenheit]]
+
+---
+future
+
+---
+[[zu]]|[[kunft]]
+
+---
+N: [[Zukunft]], [[Zukunft]]  
+A: [[Zukunft]], [[Zukunft]]  
+G: [[Zukunft]], [[Zukunft]]  
+D: [[Zukunft]], [[Zukunft]]  
+
+---
+[[zukünftig]], [[zukünftiglich]], [[Zukunftsforschung]]

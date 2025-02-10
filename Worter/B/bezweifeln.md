@@ -1,1 +1,1 @@
-, [[überzeugen]], [[behaupten]], [[ungerechtfertigen]]
+, [[überzeugen]], [[behaupten]], [[ungerechtfertigen]], [[bestätigen]]

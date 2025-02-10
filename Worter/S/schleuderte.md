@@ -1,1 +1,1 @@
-, [[schleudern]]
+, [[schleudern]], [[Schleuder]]

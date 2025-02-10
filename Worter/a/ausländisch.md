@@ -1,1 +1,1 @@
-, [[verwandt]], [[Auslandserfahrung]], [[auswärtig]], [[einheimisch]]
+, [[verwandt]], [[Auslandserfahrung]], [[auswärtig]], [[einheimisch]], [[Fremdsprache]]

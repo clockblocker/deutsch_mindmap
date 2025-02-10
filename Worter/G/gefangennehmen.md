@@ -1,1 +1,1 @@
-, [[befreien]], [[verhaften]]
+, [[befreien]], [[verhaften]], [[festnehmen]]

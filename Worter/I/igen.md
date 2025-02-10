@@ -1,1 +1,1 @@
-, [[kündigen]], [[benachteiligen]]
+, [[kündigen]], [[benachteiligen]], [[stätigen]]

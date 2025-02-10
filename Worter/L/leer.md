@@ -3,7 +3,9 @@
 ---
 [[voll]] ist das Gegenteil von [[leer]].
 
-Sie trank ihr Glas [[leer]] und sah ihn dabei die ganze Zeit an. [[13 Nebensätze.md#^3|(Quelle: 13 Nebensätze)]] 
+Она видела, как он выпил кружку до дна.  Sie hat gesehen, wie er ihre Tasse [[leer]] trank
+
+Sie trank ihr Glas [[leer]] und sah ihn dabei die ganze Zeit an. [[13 Nebensätze#^3|(Quelle: 13 Nebensätze)]] 
 
 Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein Geschäft läuft zurzeit nicht gut und sein Konto ist fast [[leer]]. 
 

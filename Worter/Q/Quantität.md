@@ -1,1 +1,1 @@
-, [[Menge]], [[Anzahl]], [[Zahl]]
+, [[Menge]], [[Anzahl]], [[Zahl]], [[Mengenangabe]]

@@ -1,1 +1,1 @@
-, [[gültig]], [[prächtig]]
+, [[gültig]], [[prächtig]], [[bestätigen]]

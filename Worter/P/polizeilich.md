@@ -1,1 +1,1 @@
-, [[Polizist]]
+, [[Polizist]], [[Polizei]]

@@ -1,4 +1,4 @@
-💼 [[haben]]  
+💼 [[Worter/H/haben]]  
 [[hatte]]  
 haben [[gehabt]]
 
@@ -19,9 +19,9 @@ haben [[gehabt]]
 - Er [[hat]] ein neues Handy.
 - Es [[hat]] viele Vorteile.
 - Sie [[hat]] eine Katze.
-- Wir [[haben]] einen Plan.
+- Wir [[Worter/H/haben]] einen Plan.
 - Ihr [[habt]] gute Ideen.
-- Sie [[haben]] eine große Familie.
+- Sie [[Worter/H/haben]] eine große Familie.
 
 ---
 

@@ -2,7 +2,7 @@
 die [[Miniröcke]]
 
 ---
-«Doch, doch!» sagte er, nur weißt du, wenn du einen kurzen [[Minirock]] wie heute trägst, dann ist kein Gebäude fertig!» [[13 Nebensätze.md#^8|(Quelle: 13 Nebensätze)]] 
+«Doch, doch!» sagte er, nur weißt du, wenn du einen kurzen [[Minirock]] wie heute trägst, dann ist kein Gebäude fertig!» [[13 Nebensätze#^8|(Quelle: 13 Nebensätze)]] 
 
 
 ---

@@ -1,7 +1,11 @@
 🗣️ [[erwähnen]], [ɛɐ̯ˈvɛːnən] | [[erwähnte]], haben [[erwähnt]]
 
 ---
-Ich [[beziehe]] mich [[auf]] das, was Sie vorhin [[erwähnt]] haben.  
+Ich [[beziehe]] mich [[auf]] das, was Sie [[vorhin]] [[erwähnt]] haben.  
+
+**“von etwas sprechen”** → wenn du etwas [[erwähnst]] oder auf etwas [[anspielst]]
+• bei diskussionen: **über etwas sprechen**
+• bei [[Erwähnungen]]/[[hinweisen]]: **von etwas sprechen**
 
 ---
 = [[nennen]], [[aufführen]], [[anführen]]

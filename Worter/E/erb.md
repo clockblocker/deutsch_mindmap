@@ -1,5 +1,5 @@
 🟢 das [[Erb]], [ɛrp]
-die [[Erben]]
+die [[erben]]
 
 
 ---
@@ -17,7 +17,7 @@ Morpheme:
 [[Erb]]
 
 ---
-Einzigartige mögliche Formen: [[Erbes]], [[Erbe]], [[Erben]], [[Erbern]]
+Einzigartige mögliche Formen: [[Erbes]], [[Erbe]], [[erben]], [[Erbern]]
 
 ---
 #Substantiv #Neutral, [[sterben]]

@@ -1,1 +1,1 @@
-, [[modern]], [[zeitgenössische]], [[heutig]]
+, [[modern]], [[zeitgenössische]], [[heutig]], [[neu]]

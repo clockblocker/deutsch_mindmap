@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Werkes]], [[Werke]], [[Werken]]
 
 ---
 #Substantiv #Neutral
-, [[schaffen]], [[Werkzeug]]
+, [[schaffen]], [[Werkzeug]], [[Arbeit]]

@@ -1,1 +1,1 @@
-, [[Bogen]]
+, [[Bogen]], [[Richtungsänderung]]

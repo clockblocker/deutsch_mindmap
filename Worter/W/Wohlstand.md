@@ -1,1 +1,1 @@
-[[Glück]], [[Armut]]
+[[Glück]], [[Armut]], [[Krise]]

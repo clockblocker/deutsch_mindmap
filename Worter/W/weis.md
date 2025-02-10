@@ -1,1 +1,1 @@
-, [[überweisen]], [[Weisheit]], [[Personalausweis]], [[Sozialversicherungsausweis]], [[Ausweis]], [[Hinweis]], [[hinweisen]], [[weisen]], [[Beweis]]
+, [[überweisen]], [[Weisheit]], [[Personalausweis]], [[Sozialversicherungsausweis]], [[Ausweis]], [[Hinweis]], [[hinweisen]], [[weisen]], [[Beweis]], [[beweisen]]

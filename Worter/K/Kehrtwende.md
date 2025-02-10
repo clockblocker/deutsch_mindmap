@@ -1,1 +1,1 @@
-, [[Wende]]
+, [[Wende]], [[Richtungsänderung]]

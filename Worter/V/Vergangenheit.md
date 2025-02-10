@@ -4,6 +4,10 @@ die [[Vergangenheiten]]
 ---
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
 
+ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. [[GPT.md#^1|(q)]]
+
+ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. [[GPT.md#^1|(q)]]
+
 
 ---
 = [[Vorzeit]], [[Vorgeschichte]], [[Geschichte]]

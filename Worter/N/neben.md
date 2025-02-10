@@ -1,1 +1,1 @@
-, [[durch]], [[nebenbei]], [[außer]], [[gegenüber]], [[da]], [[Nebenkostenabrechnung]], [[Wechselpräposition]]
+, [[durch]], [[nebenbei]], [[außer]], [[gegenüber]], [[da]], [[Nebenkostenabrechnung]], [[Wechselpräposition]], [[anstatt]]

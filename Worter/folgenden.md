@@ -3,6 +3,8 @@
 ---
 01. Welche der [[folgenden]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
 
+[[16 Plusquamperfekt.md#^4|(q)]] In der ganzen [[folgenden]] Woche [[zeichnete]] die junge Frau nichts.  ^4
+
 ---
 = [[nächster]], [[kommender]], [[nachfolgender]]
 ≈ [[darauf]], [[danach]], [[hernach]], [[anschließend]]

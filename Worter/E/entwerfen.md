@@ -31,4 +31,4 @@ PI: [[entwerfend]], PII: [[entworfen]], Zu+inf: [[zu entwerfen]]
 [[entwerfen]] - [[ent]] = [[werfen]] / to design, to draft, to conceive
 
 ---
-[[Entwurf]], [[Entwerfer]], [[Entwerferin]], [[Entwurfstechnik]], [[Designprozess]]
+[[Entwurf]], [[Entwerfer]], [[Entwerferin]], [[Entwurfstechnik]], [[Designprozess]], [[zeichnen]]

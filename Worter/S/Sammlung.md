@@ -1,1 +1,1 @@
-, [[Museum]], [[Ansammlung]], [[Bezirksverordnetenversammlung]]
+, [[Museum]], [[Ansammlung]], [[Bezirksverordnetenversammlung]], [[Bildband]]

@@ -1,1 +1,1 @@
-Inf: [[haben]]
+Inf: [[Worter/H/haben]]

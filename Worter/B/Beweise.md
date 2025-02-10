@@ -1,1 +1,1 @@
-, [[Beweis]]
+, [[Beweis]], [[beweisen]]

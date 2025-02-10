@@ -1,1 +1,1 @@
-[[Fluglinien]], [[Flugzeug]], [[s1 e1]]
+[[Fluglinien]], [[Flugzeug]], [[s1 e1]], [[Ausflug]]

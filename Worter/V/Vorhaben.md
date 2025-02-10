@@ -12,7 +12,7 @@
 to intend, to plan, to have in mind
 
 ---
-[[vor]]|[[haben]]
+[[vor]]|[[Worter/V/Verben/Infinitive/haben]]
 
 ---
 ich: [[habe vor]], [[hatte vor]], –, [[habe vor]], [[hätte vor]]
@@ -24,7 +24,7 @@ ihr: [[habt vor]], [[hattet vor]], [[habt vor]], [[habet vor]], [[hättet vor]]
 PI: [[vorhabend]], PII: [[vorgehabt]], Zu+inf: [[vorzuhaben]]
 
 ---
-[[vorhaben]] - [[vor]] = [[haben]] / to intend, to plan, to have in mind
+[[vorhaben]] - [[vor]] = [[Worter/V/Verben/Infinitive/haben]] / to intend, to plan, to have in mind
 
 ---
 [[Vorhaben]], [[vorhabend]], [[Planung]], [[Absicht]], [[Intention]]
@@ -45,7 +45,7 @@ die [[Vorhaben]]
 plan, intention, project
 
 ---
-[[Vor]]|[[haben]]
+[[Vor]]|[[Worter/V/Verben/Infinitive/haben]]
 
 ---
 N: das [[vorhaben]], die [[vorhaben]]  

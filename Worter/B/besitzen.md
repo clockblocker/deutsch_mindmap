@@ -10,7 +10,7 @@ Die Dursleys [[besaßen]] alles, was sie wollten, doch sie hatten auch ein [[Geh
 
 ---
 = [[eignen]], [[gehören]], [[verfügen über]]
-≈ [[haben]], [[innehaben]], [[verfügen]]
+≈ [[Worter/H/haben]], [[innehaben]], [[verfügen]]
 ≠ [[verlieren]], [[abgeben]], [[verkaufen]]
 
 ---
@@ -33,4 +33,4 @@ PI: [[besitzend]], PII: [[besessen]], Zu+inf: [[zubesitzen]]
 
 ---
 [[Besitz]], [[Besitzer]], [[Besitzerin]], [[besitzlos]], [[Besitztum]], [[Grundbesitz]]
-, [[haben]], [[fehlen]], [[gehören]], [[Waffenbesitz]]
+, [[Worter/H/haben]], [[fehlen]], [[gehören]], [[Waffenbesitz]]

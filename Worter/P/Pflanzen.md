@@ -1,1 +1,2 @@
 🔴 die [[Pflanze]]
+, [[wurzeln]]

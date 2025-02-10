@@ -30,4 +30,4 @@ Morpheme: [[schie]][[ben]]
 Partizip I: [[schiebend]], Partizip II: [[geschoben]]
 
 
-[[ziehen]], [[Schubst]], [[rücken]]
+[[ziehen]], [[Schubst]], [[rücken]], [[schleudern]]

@@ -30,4 +30,4 @@ Tags:
 #Substantiv
 #Masculin | #Feminin | #Neuter 
 
----, [[Urkunde]]
+---, [[Urkunde]], [[Zeiser]]

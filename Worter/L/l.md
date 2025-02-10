@@ -1,1 +1,1 @@
-[[stehlen]], [[IPA]]
+[[stehlen]], [[IPA]], [[Stuhl]]

@@ -26,9 +26,9 @@ to be enough, to suffice
 ---
 
 Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
-Ich: [[reiche]], [[reichte]], -, [[reiche]], [[reichte]]  
+Ich: [[Reiche]], [[reichte]], -, [[Reiche]], [[reichte]]  
 Du: [[reichst]], [[reichtest]], [[reich]], [[reichest]], [[reichtest]]  
-Er/sie/es: [[reicht]], [[reichte]], -, [[reiche]], [[reichte]]  
+Er/sie/es: [[reicht]], [[reichte]], -, [[Reiche]], [[reichte]]  
 Wir: [[reichen]], [[reichten]], -, [[reichen]], [[reichten]]  
 Ihr: [[reicht]], [[reichtet]], [[reicht]], [[reichet]], [[reichtet]]  
 

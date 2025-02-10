@@ -27,4 +27,4 @@ PI: [[aussprechend]], PII: [[ausgesprochen]], Zu+inf: [[auszusprechen]]
 [[aussprechen]] - [[aus]] = [[sprechen]] / to pronounce, to express, to articulate
 
 ---
-[[Aussprache]], [[Ausdruck]], [[Sprechweise]], [[aussprechen]], [[aussprechbar]]
+[[Aussprache]], [[Ausdruck]], [[Sprechweise]], [[aussprechen]], [[aussprechbar]], [[besprechen]]

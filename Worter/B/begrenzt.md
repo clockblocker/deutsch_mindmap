@@ -28,4 +28,4 @@ N: [[begrenztes]], [[begrenzters]], [[begrenztestes]]
 P: [[begrenzten]], [[begrenzteren]], [[begrenztesten]]  
 
 ---
-[[begrenzen]], [[Begrenzung]], [[grenzen]], [[Grenze]], [[unbegrenzt]], [[Grenz]], [[gering]], [[knapp]]
+[[begrenzen]], [[Begrenzung]], [[grenzen]], [[Grenze]], [[unbegrenzt]], [[Grenz]], [[gering]], [[knapp]], [[unzählbar]]

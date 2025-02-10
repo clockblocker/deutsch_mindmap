@@ -1,1 +1,1 @@
-, [[geeignet]], [[wahlberechtigt]], [[erfahrenen]]
+, [[geeignet]], [[wahlberechtigt]], [[erfahrenen]], [[Fähig]]

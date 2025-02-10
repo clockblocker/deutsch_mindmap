@@ -18,4 +18,4 @@ Translation:
 
 официант 
 
-Kellnerin
+Kellnerin, [[Zeiser]]

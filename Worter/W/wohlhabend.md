@@ -1,1 +1,1 @@
-, [[armer]], [[armen]], [[reich]]
+, [[armer]], [[armen]], [[reich]], [[Reiche]]

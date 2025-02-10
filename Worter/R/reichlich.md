@@ -1,1 +1,1 @@
-, [[Kaum]], [[genug]], [[reich]], [[ausreichen]]
+, [[Kaum]], [[genug]], [[reich]], [[ausreichen]], [[Reiche]]

@@ -1,1 +1,1 @@
-[[schleudern]], [[s1 e1]]
+[[schleudern]], [[s1 e1]], [[Schleuder]]

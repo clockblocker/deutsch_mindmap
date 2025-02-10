@@ -1,6 +1,7 @@
 🚀 [[aufstehen]], [ˈaʊ̯fˌʃteːn] | [[stand auf]], sein [[aufgestanden]]
 
 ---
+«Wenn Sie über mich [[lachen]] wollen, dann müssen Sie früher [[aufstehen]],» antwortete der Künstler ärgerlich.  
 
 ---
 = [[erwachen]], [[wach werden]], [[sich erheben]]

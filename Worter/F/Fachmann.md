@@ -3,7 +3,7 @@ die [[Fachmänner]]
 
 ---
 «Doch, doch - ich gehe studieren. Ich möchte als [[Fachmann]] für
-Elektronik arbeiten, weißt du.» [[13 Nebensätze.md#^6|(Quelle: 13 Nebensätze)]] 
+Elektronik arbeiten, weißt du.» [[13 Nebensätze#^6|(Quelle: 13 Nebensätze)]] 
 
 ---
 = [[Experte]], [[Spezialist]], [[Sachverständiger]]

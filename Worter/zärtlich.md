@@ -3,9 +3,9 @@ nicht [[hart]], [[gefühllos]]
 
 ---
 «Ja.» Es schmeckte ihr, weil sie aus seinem Glas trank.
-Sie lächelte [[scheu]] und [[zärtlich]]. [[13 Nebensätze.md#^4|(Quelle: 13 Nebensätze)]] 
+Sie lächelte [[scheu]] und [[zärtlich]]. [[13 Nebensätze#^4|(Quelle: 13 Nebensätze)]] 
 
-Er erklärte dem [[enttäuschten]] Mädchen im Telefongespräch, dass er ihr bald einen [[zärtlich|zärtlichen]] Brief schickt. [[13 Nebensätze.md#^2|(Quelle: 13 Nebensätze)]] 
+Er erklärte dem [[enttäuschten]] Mädchen im Telefongespräch, dass er ihr bald einen [[zärtlich|zärtlichen]] Brief schickt. [[13 Nebensätze#^2|(Quelle: 13 Nebensätze)]] 
 
 
 ---

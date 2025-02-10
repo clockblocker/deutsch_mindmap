@@ -4,6 +4,7 @@ die [[Eindrücke]]
 ---
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
+Ihre Bilder können [[sogar]] einen ganz guten [[Eindruck]] aufs Publikum machen. Aber es gibt in ihnen nicht genug Tiefe.»   [[16 Plusquamperfekt.md#^3|(q)]]
 
 ---
 Synonyme:

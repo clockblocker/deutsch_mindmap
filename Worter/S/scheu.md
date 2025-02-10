@@ -3,7 +3,7 @@ nicht [[mutig]]
 
 ---
 «Ja.» Es schmeckte ihr, weil sie aus seinem Glas trank.
-Sie lächelte [[scheu]] und [[zärtlich]]. [[13 Nebensätze.md#^4|(Quelle: 13 Nebensätze)]] 
+Sie lächelte [[scheu]] und [[zärtlich]]. [[13 Nebensätze#^4|(Quelle: 13 Nebensätze)]] 
 
 
 ---

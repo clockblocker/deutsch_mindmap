@@ -3,6 +3,9 @@
 ---
 Bitte [[beschreibe]] mir dein Haus, damit ich es finde.
 
+ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. [[GPT.md#^1|(q)]]
+
+
 ---
 = [[darstellen]], [[schildern]], [[charakterisieren]]
 ≈ [[erklären]], [[definieren]], [[umschreiben]], [[skizzieren]]

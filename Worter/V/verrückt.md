@@ -4,9 +4,9 @@ nicht [[normal]]
 ---
 Und Anna ist ganz [[verrückt]] nach Werbung!  
 
+»Auf keinen Fall!« rief der junge Mann laut. »Sie sind [[verrückt]]! Das müssen Sie mir erst beweisen.« [[15 genetiv#^6|(q)]]
+
 Schon [[verrückt]]! Da drinnen friert aber auch alles.
-
-
 
 ---
 Synonyme: [[wahnsinnig]], [[irre]], [[crazy]], [[durchgeknallt]], [[bescheuert]], [[merkwürdig]], [[bizarr]]

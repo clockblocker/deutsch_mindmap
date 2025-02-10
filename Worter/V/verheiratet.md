@@ -1,10 +1,13 @@
  💍 [[verheiratet]], [fɛɐ̯ˈhaɪ̯ʁatɛt] ≠ [[ledig]] | 💍 [[verheiraten]]
 
 ---
-272. Welche [[Lebensform]] ist in Deutschland nicht [[erlaubt]]? (97%)
+Er war [[frisch]] [[verheiratet]] und er hat seine Frau lange nicht gesehen. Sie war eine [[ungewöhnliche]] Frau. Hein Martens vermisste sie sehr. Vor der Fahrt erzählte er ihr abends über die Länder und Städte im Ausland, über die Menschen und ihr Leben, über die [[fremden]] [[besonderen]] Sachen.  [[14 perfekt#^2|(q)]]
+
+
+1. Welche [[Lebensform]] ist in Deutschland nicht [[erlaubt]]? (97%)
 	- [x] Ein Mann ist mit zwei Frauen zur selben Zeit [[verheiratet]].
 
-282. In Deutschland darf man wählen. Was bedeutet das? (95%)
+2. In Deutschland darf man wählen. Was bedeutet das? (95%)
 	- [x] Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das [[Mindestalter]] [[erreicht]] haben.
 	- [ ] Nur [[verheiratete]] Personen dürfen wählen.
 ---
@@ -28,4 +31,4 @@ N: [[verheiratetes]], [[verheirateres]], [[verheiratatestes]]
 P: [[verheirateten]], [[verheiraterer]], [[verheiratatsten]]  
 
 ---
-[[Heirat]], [[heiraten]], [[Verheiratung]], [[Ehe]], [[ehelich]],  [[Braut]], [[alleinerziehend]], [[Ehepaar]], [[Hochzeit]]
+[[Heirat]], [[heiraten]], [[Verheiratung]], [[Ehe]], [[ehelich]],  [[Braut]], [[alleinerziehend]], [[Ehepaar]], [[Hochzeit]], [[ungewöhnlich]]

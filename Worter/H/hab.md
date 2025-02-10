@@ -1,1 +1,1 @@
-[[anhaben]], [[haben]]
+[[anhaben]], [[Worter/H/haben]]

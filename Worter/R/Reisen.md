@@ -30,4 +30,4 @@ PI: [[reisend]], PII: [[gereist]], Zu+inf: [[zu reisen]]
 [[reisen]] - separable verb / to travel, to journey
 
 ---
-[[Reise]], [[Reisender]], [[Reisende]], [[Reisepass]], [[Reiseziel]], [[bereisen]], [[verreisen]]
+[[Reise]], [[Reisender]], [[Reisende]], [[Reisepass]], [[Reiseziel]], [[bereisen]], [[verreisen]], [[Ostasienfahrt]]

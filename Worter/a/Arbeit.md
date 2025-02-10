@@ -1,22 +1,25 @@
-🔴 die [[arbeit 1]]
+🔵 💼 die [[Arbeit]], [ˈaɐ̯baɪ̯t]
 die [[Arbeiten]]
 
-Beispiele:
-
-- Die [[arbeit 1]] macht mir viel Spaß.
-- Ich habe heute viel [[arbeit 1]].
-- Die [[Arbeiten]] müssen bis morgen fertig sein.
+---
+[[Doktorarbeit]], [[Arbeitsamt]], [[Arbeitsplatz]], [[Arbeitnehmer]], [[arbeitsunfähig]], [[Zwangsarbeit]]
 
 ---
-Synonyme:
-- [[Tätigkeit]], [[Job]], [[Beschäftigung]]
+= [[Job]], [[Beschäftigung]], [[Tätigkeit]]
+≈ [[Beruf]], [[Schaffen]], [[Werk]], [[Aufgabe]], [[Werk]], [[erwerbstätig]]
+≠ [[Freizeit]], [[Erholung]], [[Entspannung]], [[Urlaub]]
 
 ---
-**Übersetzung**: work, job
+work, job, occupation, labor
 
 ---
-Morphems:
-[[arbeit 1]]
+[[ar]]|[[beit]]
 
 ---
-#Substantiv #Feminin[[Beruf]], [[Werk]], [[Doktorarbeit]], [[Arbeitsamt]], [[erwerbstätig]], [[Arbeitsplatz]], [[Arbeitnehmer]], [[arbeitsunfähig]], [[Zwangsarbeit]]
+N: die [[Arbeit]], die [[Arbeiten]]  
+A: die [[Arbeit]], die [[Arbeiten]]  
+G: der [[Arbeit]], der [[Arbeiten]]  
+D: der [[Arbeit]], den [[Arbeiten]]  
+
+---
+arbeiten, arbeitsam, arbeitslos, arbeitsfähig, Arbeitgeber

@@ -36,4 +36,4 @@ Morpheme: [[schneid]][[en]]
 
 Partizip I: [[schneidend]], Partizip II: [[geschnitten]]
 
-, [[stechen]], [[ausschneiden]], [[mähen]]
+, [[stechen]], [[ausschneiden]], [[mähen]], [[Messer]]

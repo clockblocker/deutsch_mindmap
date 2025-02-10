@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Absenders]], [[Absender]], [[Absender]], [[Absendern]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[absagen]]

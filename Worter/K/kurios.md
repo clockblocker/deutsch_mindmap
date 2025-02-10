@@ -1,1 +1,1 @@
-, [[merkwürdige]]
+, [[merkwürdige]], [[ungewöhnlich]]

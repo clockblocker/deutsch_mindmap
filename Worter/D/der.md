@@ -1,1 +1,1 @@
-, [[derselben]], [[dieselbe]], [[weder]], [[fördern]], [[vorderen]], [[Niederlage]], [[fordern]]
+, [[derselben]], [[dieselbe]], [[weder]], [[fördern]], [[vorderen]], [[Niederlage]], [[fordern]], [[Richtungsänderung]], [[Schleuder]]

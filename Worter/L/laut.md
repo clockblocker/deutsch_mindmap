@@ -5,7 +5,7 @@
 
 
 ---
-= [[geräuschvoll]], [[lärmend]], [[vernehmbar]]
+= [[leise]], [[geräuschvoll]], [[lärmend]], [[vernehmbar]]
 ≈ [[deutlich]], [[hörbar]], [[vernehmlich]], [[stark]]
 ≠ [[leise]], [[still]], [[gedämpft]], [[unhörbar]]
 nicht [[leise]], [[leis]], [[still]], [[Flüsternd]], [[stumm]], [[lauten]], [[Geräusch]]

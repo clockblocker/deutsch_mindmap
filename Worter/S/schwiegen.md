@@ -1,1 +1,1 @@
-, [[schweigen]]
+, [[schweigen]], [[Stuhl]]

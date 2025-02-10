@@ -1,1 +1,1 @@
-[[mittel]][[speziellen]], [[hoch]], [[billig]], [[nächsthöher]], [[mindest]], [[gering]]
+[[mittel]][[speziellen]], [[hoch]], [[billig]], [[nächsthöher]], [[mindest]], [[gering]], [[speziell]]

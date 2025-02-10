@@ -18,3 +18,4 @@ Einzigartige mögliche Formen:
 [[vorherige]], [[vorheriger]], [[vorheriges]], [[vorherigen]], [[vorherigem]], [[vorherige]], [[vorherigen]]
 [[vorherigen]], [[vorherigeren]], [[vorherigere]], [[vorherigeres]], [[vorherigeren]], [[vorherigeren]], [[vorherigere]], [[vorherigeren]]
 [[vorherigsten]], [[vorherigster]], [[vorherigste]], [[vorherigtes]], [[vorherigsten]], [[vorherigsten]], [[vorherigster]], [[vorherigsten]]
+, [[übernächste]]

@@ -1,1 +1,1 @@
-, [[kaufen]], [[Spendengeldern]], [[stiften]]
+, [[kaufen]], [[Spendengeldern]], [[stiften]], [[erben]]

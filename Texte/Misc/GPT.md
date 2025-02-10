@@ -1,3 +1,24 @@
+
+---
+[[GPT.md#^2|(q)]] • im deutschen brauchen [[unzählbare]] Substantiva normalerweise **einen Artikel** oder eine [[Mengenangabe]]. ^2
+
+• **falsch:** ❌ _“Meine Schwester hat Geld in die Tasche gelegt.”_ (klingt [[unvollständig]], weil es unklar ist, ob es sich um konkretes oder [[irgendein]] Geld [[handelt]])
+
+---
+**“von etwas sprechen”** → wenn du etwas [[erwähnst]] oder auf etwas [[anspielst]]
+• bei diskussionen: **über etwas sprechen**
+• bei [[Erwähnungen]]/[[hinweisen]]: **von etwas sprechen**
+
+---
+[[GPT.md#^1|(q)]] ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. Wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. ^1
+
+also:
+
+• **“sie legt die zeitschriften auf die regale.”** (akkusativ, gegenwart)
+• **“sie hat die zeitschriften auf die regale gelegt.”** (akkusativ, vergangenheit)
+
+----
+
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
 
 
@@ -108,4 +129,4 @@ Lass uns mal realistisch sein: Ich ziele nur auf 60/100.
 
 Aber wie [[einfach]] ist es, sich bei Sprechen/Schreiben mit [[auswendig]] gelernten [[Vorlagen]] [[durchzumogeln]]?
 
-Lass uns mit Kamanova [[weitermachen]].
+Lass uns mit Kamanova [[weitermachen]]., [[Ausflug]]

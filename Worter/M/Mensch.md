@@ -1,1 +1,1 @@
-, [[Menschen]], [[Leut]], [[Kerl]], [[s1 e1]]
+, [[Menschen]], [[Leut]], [[Kerl]], [[s1 e1]], [[menschlich]]
