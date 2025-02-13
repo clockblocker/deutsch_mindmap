@@ -6,6 +6,10 @@ haben [[gestört]]
 - *(Ich will) Ich will die Ruhe [[stören]]*  
 - SASCHA: [[Störe]] ich?  
 
+[[17 zu inf#^13|(q)]] «Dann will ich nicht weiter [[stören]]», sagte Herr Kohlaas und wollte schon [[von]] uns [[Abschied]] [[nehmen]], aber ich sagte: 
+«Warten Sie, Sie können den Mantel von meinem Vetter bekommen.» ^13
+
+
 Und sie [[stören]] die Konzentration auf die Tätigkeit, die wir gerade ausüben.-
 
 „Hör auf, mir [[Löcher]] in den [[Bauch]] [[Jemandem Löcher in den Bauch fragen|zu fragen]]! Ich muss arbeiten“, sagt sie streng. „Warum [[stört]] dich das?“, fragt Anna, „was arbeitest du?“ Die Mutter seufzt. Die kleine Anna ist nicht zu stoppen. Sie ist einfach zu [[neugierig]].

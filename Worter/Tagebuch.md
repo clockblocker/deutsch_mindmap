@@ -23,4 +23,4 @@ G: des [[Tagebuchs]], der [[Tagebücher]]
 D: dem [[Tagebuch]], den [[Tagebüchern]]  
 
 ---
-[[tagebuchähnlich]], [[tagebuchführen]], [[tagebuchschreiben]], [[Tagebucheintrag]]
+[[tagebuchähnlich]], [[tagebuchführen]], [[tagebuchschreiben]], [[Tagebucheintrag]], [[Taschenbuch]]

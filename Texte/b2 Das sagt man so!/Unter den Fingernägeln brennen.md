@@ -1,6 +1,6 @@
  Wenn etwas brennt, kann man die [[Feuerwehr]] rufen oder einen [[Eimer]] Wasser holen. [[Gegen]] das Feuer unter den [[Fingernägeln]] hilft das aber nicht. Dann sollte man besser sagen, was man schon lange [[loswerden]] wollte.  
   
-Jenny ist Journalistin und schreibt gerne über [[Prominente]] und [[bekannte]] Personen. 
+Jenny ist Journalistin und schreibt gerne über [[Prominente]] und [[Bekannte]] Personen. 
 
 Heute war sie [[besonders]] [[aufgeregt]], denn sie hatte einen Interviewtermin mit einem bekannten Schauspieler. Leider hatte sie nur 20 Minuten Zeit für das Interview. 
 

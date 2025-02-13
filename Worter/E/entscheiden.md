@@ -53,4 +53,4 @@ Morpheme: [[ent]][[scheid]][[en]]
 
 Partizip I: [[entscheidend]], Partizip II: [[entschieden]]
 [[entscheiden]] - [[ent]] = [[scheiden]]
-, [[umentscheiden]], [[entschließen]], [[Entscheidung]]
+, [[umentscheiden]], [[entschließen]], [[Entscheidung]], [[verfügen]]

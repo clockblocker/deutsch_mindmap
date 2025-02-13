@@ -1,1 +1,1 @@
-[[alle]][[alle]]
+[[Worter/A/Alle]][[Worter/A/Alle]]

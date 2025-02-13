@@ -24,4 +24,4 @@ D: dem [[Saft]], den [[Säften]]
 
 ---
 saftig, safiren, Saftigkeit, aussaften
-</assistant>
+</assistant>, [[Sherry]]

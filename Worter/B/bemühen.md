@@ -28,4 +28,4 @@ Morpheme: [[be]][[müh]][[en]]
 | Sie       | [[bemühen sich]]     | [[bemühten sich]]     | [[bemühen Sie sich]] | [[bemühen sich]]   | [[bemühten sich]]       |
 
 Partizip I: [[sich bemühend]], Partizip II: [[bemüht]]
-[[bemühen]] - [[be]] = [[mühen]], [[kümmern]], [[Bemühung]]
+[[bemühen]] - [[be]] = [[mühen]], [[kümmern]], [[Bemühung]], [[anstrengen]]

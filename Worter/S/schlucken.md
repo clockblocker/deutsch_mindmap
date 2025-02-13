@@ -27,4 +27,4 @@ PI: [[schluckend]], PII: [[geschluckt]], Zu+inf: [[zu schlucken]]
 [[schlucken]] - / to swallow
 
 ---
-[[Schluck]], [[Schlucken]], [[Schluckauf]], [[Schluckimpuls]], [[verschlucken]]
+[[Schluck]], [[Schlucken]], [[Schluckauf]], [[Schluckimpuls]], [[verschlucken]], [[kauen]]

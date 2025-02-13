@@ -22,4 +22,4 @@ G: der [[Heimatstadt]], der [[Heimatstädte]]
 D: der [[Heimatstadt]], den [[Heimatstädten]]  
 
 ---
-[[heimatlich]], [[Heimatland]], [[Heimatliebe]], [[städtisch]]
+[[heimatlich]], [[Heimatland]], [[Heimatliebe]], [[städtisch]], [[Geburtsort]]

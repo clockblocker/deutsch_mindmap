@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[köstlich]], [[köstliche]], [[köstliches]], [[köstlichen]], [[köstlicher]], [[köstlicherem]], [[köstlichen]], [[köstlicheres]]
 [[köstlichere]], [[köstlicheres]], [[köstlicheren]], [[köstlicherem]], [[köstlicherer]], [[köstlicheren]]
-[[köstlichsten]], [[köstlichster]], [[köstlichste]], [[köstlichstes]], [[köstlichsten]], [[köstlichstem]], [[köstlichster]], [[köstlichsten]]
+[[köstlichsten]], [[köstlichster]], [[köstlichste]], [[köstlichstes]], [[köstlichsten]], [[köstlichstem]], [[köstlichster]], [[köstlichsten]], [[Worter/essbar]]

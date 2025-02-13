@@ -45,4 +45,4 @@ Einzigartige mögliche Formen: [[Trotzes]], [[Trotz]]
 
 ---
 #Substantiv #Maskulin
-, [[trotzdem]], [[15 genetiv]], [[Gen Prap]]
+, [[trotzdem]], [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]

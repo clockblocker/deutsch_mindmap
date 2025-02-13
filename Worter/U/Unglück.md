@@ -2,10 +2,12 @@
 die [[Unglücke]]
 
 ---
-SASCHA: Weil diese Farbe mir sehr viel Unglück bringt und heute Lotto-Tag ist.  
+[[16 Plusquamperfekt#^24|(q)]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
 
 *Es ist [[Unglück]]*  
 *sagt die [[Berechnung]]*  
+
+SASCHA: Weil diese Farbe mir sehr viel [[Unglück]] bringt und heute Lotto-Tag ist.  
 
 ---
 Synonyme: 

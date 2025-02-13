@@ -81,4 +81,4 @@ Konjunktiv II:
 - Wenn wir hier wären, [[röchen]] wir den Rauch.
 - Wenn ihr hier wärt, [[röchet]] ihr den Regen.
 - Wenn sie hier wären, [[röchen]] sie die Gewürze.
-```​⬤, [[toll]], [[Witterten]]
+```​⬤, [[toll]], [[Witterten]], [[Geruch]]

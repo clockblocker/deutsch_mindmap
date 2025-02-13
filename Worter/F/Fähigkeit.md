@@ -4,6 +4,8 @@ die [[Fähigkeiten]]
 ---
 Und obwohl seine [[Fähigkeiten]] erstaunlich sind, muss er noch eine Menge lernen. 
 
+e) Er [[zweifelt]] manchmal an seinen [[Fähigkeiten]].  
+
 ---
 Synonyme:
 - [[Können]], [[Kompetenz]], [[Talent]], [[Fertigkeit]], [[Geschicklichkeit]]
@@ -19,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fähigkeit]], [[Fähigkeiten]], [[Fähigkeiten]], [[Fähigkeiten]]
 
 ---
-#Substantiv #Feminin , [[arbeitsunfähig]]
+#Substantiv #Feminin , [[arbeitsunfähig]], [[Begabung]]

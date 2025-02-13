@@ -31,4 +31,4 @@ Morpheme: [[richt]][[en]]
 | Sie | [[richten]] | [[richteten]] | [[richten Sie]] | [[richten]] | [[richteten]] |
 
 Partizip I: [[richtend]], Partizip II: [[gerichtet]]
-, [[biegen]], [[errichteten]], [[Gericht]], [[Richtlinie]], [[verbiegen]], [[Richter]], [[Richtungsänderung]]
+, [[biegen]], [[errichteten]], [[Gericht]], [[Richtlinie]], [[verbiegen]], [[Richter]], [[Richtungsänderung]], [[einrichten]]

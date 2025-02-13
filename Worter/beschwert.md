@@ -1,16 +1,17 @@
-[[beschwert]], [bəˈʃvɛɐ̯t]
+[[beschwert]], [bəˈʃvɛɐ̯t] | [[beschweren]]  
 nicht [[leicht]]
 
 ---
-Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] freundlich. „Sind Sie ganz sicher, dass Sie alles richtig installiert haben?“, fragt er Uli, „unsere Kunden waren bisher immer [[zufrieden]]. Es hat sich niemand über dieses Modell [[beschwert]].“ 
+Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] freundlich. „Sind Sie ganz sicher, dass Sie alles richtig installiert haben?“, fragt er Uli, „unsere Kunden waren bisher immer [[zufrieden]]. Es hat sich niemand [[über]] dieses Modell [[beschwert]].“ 
 
+d) Sie hat sich [[über]] ihre Kollegin [[beschwert]].  
 
 ---
 Synonyme: [[belastet]], [[bedrückt]], [[geplagt]], [[gestresst]], [[überladen]]
 Antonyme: [[unbeschwert]], [[leicht]], [[sorglos]], [[frei]]
 
 ---
-**burdened, weighted down, troubled
+complain, **burdened, weighted down, troubled
 
 ---
 [[beschwer]][[t]]
@@ -26,4 +27,4 @@ Feminine: [[beschwerte]], [[beschwertere]], [[beschwerste]]
 Neuter: [[beschwerteres]], [[beschwertereres]], [[beschwertertes]]  
 Plural: [[beschwerten]], [[beschwerteren]], [[beschwersten]]  
 
-[[beschweren]], [[Beschwerde]], [[beschwerlich]]
+[[beschweren]], [[Beschwerde]], [[beschwerlich]], [[1 Präpositionen Übungen]]

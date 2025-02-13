@@ -1,1 +1,1 @@
-, [[Geschenk]], [[Aufgabe]], [[Angabe]]
+, [[Geschenk]], [[Aufgabe]], [[Angabe]], [[Talent]]

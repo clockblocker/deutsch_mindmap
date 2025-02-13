@@ -28,4 +28,4 @@ Einzigartige mögliche Formen:
 [[fern]], [[ferner]], [[ferne]], [[fernes]], [[fernen]], [[fernem]], [[ferner]], [[fernen]]
 [[fernerer]], [[fernere]], [[ferneres]], [[ferneren]], [[fernerem]], [[fernerer]], [[ferneren]]
 [[fernsten]], [[fernster]], [[fernste]], [[fernstes]], [[fernsten]], [[fernstem]], [[fernster]], [[fernsten]]
-''', [[Fernrohr]], [[fernab]], [[Entfernung]]
+''', [[Fernrohr]], [[fernab]], [[Entfernung]], [[Fernsehturm]], [[entfernen]]

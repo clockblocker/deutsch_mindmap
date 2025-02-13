@@ -21,4 +21,4 @@ suit
 ---
 
 Morphems of only infinitive:
-[[Anzug]], [[11 08]]
+[[Anzug]], [[11 08]], [[Bekleidung]]

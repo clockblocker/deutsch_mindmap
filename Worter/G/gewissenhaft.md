@@ -1,1 +1,1 @@
-[[schlampig]], [[sorglich]], [[Gewissensfreiheit]], [[gewiss]]
+[[schlampig]], [[sorglich]], [[Gewissensfreiheit]], [[gewiss]], [[sorgsam]]

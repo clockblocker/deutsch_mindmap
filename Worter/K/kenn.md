@@ -1,1 +1,1 @@
-, [[erkennen]], [[auskennen]], [[kennen]], [[Worter/kennzeichnen]], [[kennzeichnen]], [[zeichnen]]
+, [[erkennen]], [[auskennen]], [[kennen]], [[Worter/kennzeichnen]], [[kennzeichnen]], [[zeichnen]], [[Erkenntnis]]

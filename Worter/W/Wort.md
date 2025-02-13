@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Worts]], [[Worte]], [[Worten]], [[Wörter]], [[Wörtern]]
 
 ---
-#Substantiv #Neutrum, [[Schlagwort]]
+#Substantiv #Neutrum, [[Schlagwort]], [[Verantwortungsbewusstsein]]

@@ -1,1 +1,1 @@
-[[Fertig]], [[Lücke]]
+[[Fertig]], [[Lücke]], [[Lückentext]]

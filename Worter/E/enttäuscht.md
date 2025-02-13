@@ -4,7 +4,9 @@ nicht [[zufrieden]]
 ---
 Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. [[14 perfekt#^16|(q)]]
 
-[[16 Plusquamperfekt.md#^15|(q)]] Sie war so [[enttäuscht]], kraftlos und schwach, dass ihr alles aus den Händen fiel. ^15
+1. Das Mädchen ist so [[enttäuscht]] wie ein Kind.
+
+[[16 Plusquamperfekt#^15|(q)]] Sie war so [[enttäuscht]], kraftlos und schwach, dass ihr alles aus den Händen fiel. ^15
 
 „Kanada, mein Lieblingsland!“, denkt Diana und stellt aber sofort etwas [[enttäuscht]] [[fest]]:  „Wenn er aus Kanada ist, bleibt er bestimmt nicht lange in Deutschland … Schade!“ 
 

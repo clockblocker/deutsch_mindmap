@@ -31,4 +31,4 @@ PI: [[beherbergend]], PII: [[beherbergt]], Zu+inf: [[zu beherbergen]]
 ---
 [[Beherbergung]], [[Herberge]], [[Unterkunft]], [[Gastgeber]], [[Gastfreundschaft]]
 , [[Gästehaus]]
-, [[enthalten]]
+, [[enthalten]], [[wiederschicken]]

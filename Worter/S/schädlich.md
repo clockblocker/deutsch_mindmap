@@ -1,1 +1,1 @@
-, [[schaden]], [[Schädliches]]
+, [[schaden]], [[Schädliches]], [[Worter/essbar]]

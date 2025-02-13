@@ -1,1 +1,1 @@
-, [[laden]], [[lachen]]
+, [[laden]], [[lachen]], [[Wahlniederlage]]

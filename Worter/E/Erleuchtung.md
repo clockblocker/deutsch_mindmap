@@ -1,1 +1,1 @@
-, [[Weisheit]]
+, [[Weisheit]], [[Erkenntnis]]

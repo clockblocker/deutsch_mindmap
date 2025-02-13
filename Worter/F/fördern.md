@@ -1,10 +1,10 @@
 🆙 [[fördern]], [ˈfœʁdɐn] | [[förderte]], haben [[gefördert]]
 
 ---
-47. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört nicht dazu? (93%)
+[[M1A1.md#^1|(q)]] Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn? ^1
+
+1. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört nicht dazu? (93%)
 	- [x] Er bezahlt für alle [[Staatsangehörigen]] Urlaubsreisen.
-	- [ ] Er zahlt Kindergeld.
-	- [ ] Er [[unterstützt]] Museen.
 	- [ ] Er [[fördert]] Sportler und Sportlerinnen.
 
 ---

@@ -1,1 +1,1 @@
-, [[Kraft]], [[Fähig]]
+, [[Kraft]], [[Fähig]], [[Begabung]], [[Talent]]

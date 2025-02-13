@@ -23,4 +23,4 @@ G: des [[Frühjahres]], der [[Frühjahre]]
 D: dem [[Frühjahr]], den [[Frühjahren]]  
 
 ---
-[[früh]], [[Frühling]], [[Jahreszeit]], [[Frühjahrsputz]], [[Frühjahrsblüte]]
+[[früh]], [[Frühling]], [[Jahreszeit]], [[Frühjahrsputz]], [[Frühjahrsblüte]], [[Frühjahrsmantel]]

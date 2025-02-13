@@ -1,1 +1,1 @@
-, [[wichtig]], [[egal]], [[wertvoll]], [[Deutung]]
+, [[wichtig]], [[egal]], [[wertvoll]], [[Deutung]], [[angelegen]]

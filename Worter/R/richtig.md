@@ -22,4 +22,4 @@ Einzigartige mögliche Formen:
 [[richtiger]], [[richtigerer]], [[richtigere]], [[richtigeres]], [[richtigeren]], [[richtigerem]], [[richtigerer]], [[richtigeren]]
 [[richtigsten]], [[richtigster]], [[richtigste]], [[richtigstes]], [[richtigsten]], [[richtigstem]], [[richtigster]], [[richtigsten]]
 
-[[richtig]], [[wahr]], [[s1 e1]], [[recht]]
+[[richtig]], [[wahr]], [[s1 e1]], [[recht]], [[passend]]

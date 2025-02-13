@@ -39,4 +39,4 @@ absolutely, definitely, by all means
 #Adverb 
 
 Morpheme: [[un]][[bedingt]]
-, [[Naturschutz]], [[s1 e1]], [[relativ]]
+, [[Naturschutz]], [[s1 e1]], [[relativ]], [[anstrengen]], [[können]]

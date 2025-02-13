@@ -19,4 +19,4 @@ Morphems:
 [[Send]][[en]]
 
 ---
-#Substantiv #Maskulin, [[funkten]]
+#Substantiv #Maskulin, [[funkten]], [[hinschicken]], [[abschicken]]

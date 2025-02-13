@@ -12,7 +12,7 @@ Aang, das hier ist unser [[gesamtes]] Dorf. Gesamtes Dorf, Aang.
 Leider hatte sie nicht mit der [[Finanzkrise]] [[gerechnet]]. [[Innerhalb]] von wenigen Wochen war ihr [[gesamtes]] [[Vermögen]] auf die Hälfte [[zusammengeschrumpft]]. Laura war [[verzweifelt]]. 
 
 ---
-Synonyme: [[ganz]], [[vollständig]], [[komplett]], [[total]], [[umfassend]], [[ganz]], [[alle]]
+Synonyme: [[ganz]], [[vollständig]], [[komplett]], [[total]], [[umfassend]], [[ganz]], [[Worter/A/Alle]]
 Antonyme: [[teilweise]], [[partiell]], [[fragmentarisch]], [[unvollständig]]
 
 ---

@@ -31,5 +31,5 @@ Morpheme: [[ab]][[pack]][[en]]
 
 Partizip I: [[abpackend]], Partizip II: [[abgepackt]]
 
-[[abpacken]] - [[ab]] = [[packen]]
+[[abpacken]] - [[ab]] = [[packen]] / to pack away, to pack up
 '''

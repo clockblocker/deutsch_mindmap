@@ -1,1 +1,1 @@
-, [[überdrüssig]], [[enttäuscht]], [[frustriert]], [[entmutigt]]
+, [[überdrüssig]], [[enttäuscht]], [[frustriert]], [[entmutigt]], [[lustlos]]

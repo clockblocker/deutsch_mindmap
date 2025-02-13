@@ -28,4 +28,4 @@ PI: [[umarmend]], PII: [[umarmt]], Zu+inf: [[umarmen]]
 [[umarmen]] - [[um]] = [[armen]] / to hug, to embrace
 
 ---
-[[Umarmung]], [[Umarmen]], [[Umarmender]], [[Umarmte]], [[umarmbar]]
+[[Umarmung]], [[Umarmen]], [[Umarmender]], [[Umarmte]], [[umarmbar]], [[wegschicken]]

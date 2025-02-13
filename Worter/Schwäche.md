@@ -23,4 +23,4 @@ G: der [[Schwäche]], der [[Schwächen]]
 D: der [[Schwäche]], den [[Schwächen]]  
 
 ---
-[[schwach]], [[schwächen]], [[schwächlich]], [[schwächeln]], [[Willenskraft]], [[Unantastbarkeit]]
+[[schwach]], [[schwächen]], [[schwächlich]], [[schwächeln]], [[Willenskraft]], [[Unantastbarkeit]], [[Begabung]], [[Talent]]

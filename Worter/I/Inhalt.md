@@ -24,4 +24,4 @@ G: des [[Inhalts]], der [[Inhalte]]
 D: dem [[Inhalt]], den [[Inhalten]]  
 
 ---
-[[inhaltsreich]], [[inhaltlich]], [[inhaltsarm]], [[nachfüllen]], [[enthalten]], [[Reparationsleistung]]
+[[inhaltsreich]], [[inhaltlich]], [[inhaltsarm]], [[nachfüllen]], [[enthalten]], [[Reparationsleistung]], [[Informationswert]], [[Nutzungsdaten]]

@@ -27,4 +27,4 @@ PI: [[umgehend]], PII: [[umgangen]], Zu+inf: [[umzugehen]]
 [[umgehen]] - [[um]] = [[gehen]] / to bypass, to avoid, to circumvent
 
 ---
-[[Umgehung]], [[Umstand]], [[herumgehen]], [[Umweg]], [[umständlich]], [[ergehen]]
+[[Umgehung]], [[Umstand]], [[herumgehen]], [[Umweg]], [[umständlich]], [[ergehen]], [[durchmachen]]

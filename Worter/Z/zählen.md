@@ -6,6 +6,10 @@ haben [[gezählt]]
 *Ohne dich [[zähl]] ich die Stunden, ohne dich*  
 *Mit dir stehen die Sekunden*, *Lohnen nicht*  
 
+*Ich bleibe einfach liegen*  
+*Und wieder [[zähle]] ich die [[Fliegen]]*   [[Keine Lust.md#^6|(q)]]
+
+
 ---
 +[[er]] = [[erzählen]], / to tell, to narrate
 [[dazuzählen]] - [[dazu]] = [[zählen]] / to count in addition, to include

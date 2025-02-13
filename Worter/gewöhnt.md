@@ -1,1 +1,1 @@
-🤨 [[gewöhnen]] | 🤨 [[gewöhnt]]
+🤨 [[gewöhnen]] | 🤨 [[gewöhnt]], [[1 Präpositionen Übungen]]

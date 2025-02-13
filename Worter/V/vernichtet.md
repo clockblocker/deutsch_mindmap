@@ -1,1 +1,1 @@
-, [[überlebt]]
+, [[überlebt]], [[vernichten]]

@@ -28,4 +28,4 @@ Tags:
 ---
 
 Morphems:
-[[Da]][[nach]][[nachher]], [[11 08]], [[hinterdrein]], [[seitdem]], [[bereits]], [[zuvor]], [[bevor]], [[da]], [[folgenden]], [[vorhin]]
+[[Da]][[nach]][[nachher]], [[11 08]], [[hinterdrein]], [[seitdem]], [[bereits]], [[zuvor]], [[bevor]], [[da]], [[folgend]], [[vorhin]]

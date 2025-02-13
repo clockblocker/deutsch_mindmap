@@ -1,1 +1,1 @@
-, [[schätzen]], [[wälzen]], [[Berufsinformationszentrum]]
+, [[schätzen]], [[wälzen]], [[Berufsinformationszentrum]], [[Nutzungsdaten]]

@@ -1,1 +1,1 @@
-, [[dien]], [[brauchen]], [[neu]]
+, [[dien]], [[brauchen]], [[neu]], [[Gebrauch]]

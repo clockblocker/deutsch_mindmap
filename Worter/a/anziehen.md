@@ -33,3 +33,4 @@ Partizip I: [[anziehend]], Partizip II: [[angezogen]]
 
 ---
 , [[festziehen]], [[verscheuchen]], [[wegshlagen]], [[abstoßen]]
+, [[Bekleidung]]

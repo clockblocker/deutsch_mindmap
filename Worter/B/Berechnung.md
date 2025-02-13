@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Berechnung]], [[Berechnungen]]
 
 ---
-#Substantiv #Feminin, [[Rentenberechnung]], [[Auszählung]]
+#Substantiv #Feminin, [[Rentenberechnung]], [[Auszählung]], [[abrechnung]]

@@ -3,8 +3,11 @@
 haben [[gelernt]]
 
 ---
--
--
+[[1 Präpositionen Übungen.md#^8|(q)]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, [[aus]] den [[Herausforderungen]] zu [[lernen]]. ^8
+
+von jdm
+aus etwa (A)
+
 
 ---
 Synonyme: [[studieren]], [[üben]], [[trainieren]], [[sich aneignen]], [[sich einprägen]]
@@ -30,4 +33,4 @@ Morpheme: [[lern]][[en]]
 
 Partizip I: [[lernend]], Partizip II: [[gelernt]]
 
-[[lernen]] - [[en]] = [[lern]], [[ablehnen]], [[Weiterbildung]], [[erfahren]], [[Wiederholungskarte]], [[Erwachsenenanfängergruppe]]
+[[lernen]] - [[en]] = [[lern]], [[ablehnen]], [[Weiterbildung]], [[erfahren]], [[Wiederholungskarte]], [[Erwachsenenanfängergruppe]], [[Erlernung]], [[lehren]], [[auswendig]]

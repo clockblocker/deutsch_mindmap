@@ -347,7 +347,7 @@
 	- [ ] Saarland
 	- [ ] Hessen
 
-44. Welche der [[folgenden]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
+44. Welche der [[folgend]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
 	- [ ] Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg
 	- [x] Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen
 	- [ ] Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen

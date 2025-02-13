@@ -1,1 +1,1 @@
-, [[studieren]]
+, [[studieren]], [[spontanen]]

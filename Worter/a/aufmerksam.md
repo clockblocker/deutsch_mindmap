@@ -4,6 +4,7 @@ nicht [[unaufmerksam]]
 ---
 _Hinter einer hohen Schneedüne kommt Appa zum [[Vorschein]]. Er [[brüllt]] und macht [[somit]] auf sich [[aufmerksam]]._
 
+er hört dem Lehrer aufmerksam zu.
 
 ---
 = [[konzentriert]], [[achtsam]], [[wachsam]]

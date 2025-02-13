@@ -3,6 +3,8 @@
 ---
 Neben unserem Haus [[entsteht]] ein neues [[Gebäude]].
 
+[[1 Präpositionen Übungen.md#^1|(q)]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1
+
 ---
 = [[hervortreten]], [[sich entwickeln]], [[hervorgehen]]
 ≈ [[werden]], [[wachsen]], [[gedeihen]], [[erwachsen]], [[Geburt]]

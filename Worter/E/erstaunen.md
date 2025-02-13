@@ -34,3 +34,4 @@ Zu+infinifive: [[zu erstaunen]]
 
 
 [[Überraschen]], [[verwundern]], [[wundern]]
+, [[beeindrucken]]

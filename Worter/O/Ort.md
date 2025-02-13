@@ -1,4 +1,4 @@
 Ich mag grüne [[Ort]]e
 
 
-place, [[Stadt]], [[Lage]], [[Wohnort]], [[Stelle]]
+place, [[Stadt]], [[Lage]], [[Wohnort]], [[Stelle]], [[Geburtsort]]

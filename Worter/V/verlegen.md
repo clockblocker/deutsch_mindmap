@@ -1,1 +1,1 @@
-, [[umziehen]]
+, [[umziehen]], [[schüchtern]]

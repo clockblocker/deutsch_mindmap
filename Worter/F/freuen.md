@@ -5,6 +5,8 @@
 *Paulinchen aber [[freut]] sich sehr*  
 *und sprang im Zimmer hin und her.*  
 
+d) Wir haben uns über das [[Ergebnis]] gefreut. (freuen + ___)  
+
 Und [[besonders]] mit deiner köstlichen Schoko-Eisbombe. Das [[freut]] mich …
 
 Wir [[freuen]] uns alle auf den Urlaub.

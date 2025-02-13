@@ -1,7 +1,7 @@
 💸 [[erben]], [ˈɛʁbn̩]
 
 ---
-[[16 Plusquamperfekt.md#^17|(q)]] Dann hat sie unerwartet 30 000 Mark von ihrer alten Tante, die in Baden-Baden [[starb]], [[geerbt]]. Mit diesem Geld lebte sie drei Jahre lang. ^17
+[[16 Plusquamperfekt#^17|(q)]] Dann hat sie unerwartet 30 000 Mark von ihrer alten Tante, die in Baden-Baden [[starb]], [[geerbt]]. Mit diesem Geld lebte sie drei Jahre lang. ^17
 
 ---
 = [[erhalten]], [[ bekommen]], [[vererben]]

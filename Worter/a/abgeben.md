@@ -39,4 +39,4 @@ PI: [[abgebend]], PII: [[abgegeben]], Zu+inf: [[abzugeben]]
 [[Abgabe]], [[Abgeber]], [[Abgeberin]], [[abgebbar]], [[Abgabestelle]]
 
 [[übernehmen]][[holen]], [[Trinken]], [[Worter/H/haben]], [[loswerden]], [[kriegen]], [[gehören]], [[nehm]], [[abbekommen]], [[erhalten]], [[zurückholen]], [[besitzen]], [[Stimmabgabe]], [[Sozialabgaben]]
-, [[überlassen]]
+, [[überlassen]], [[packen]]

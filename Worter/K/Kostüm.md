@@ -1,1 +1,1 @@
-, [[Anzug]], [[verkleiden]]
+, [[Anzug]], [[verkleiden]], [[Bekleidung]]

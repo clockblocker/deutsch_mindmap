@@ -27,4 +27,4 @@ Morpheme: [[über]][[steh]][[en]]
 | Sie | [[überstehen]] | [[überstanden]] | [[überstehen Sie]] | [[überstehen]] | [[überstünden]] |
 
 Partizip I: [[überstehend]], Partizip II: [[überstanden]]
-[[überstehen]] - [[über]] = [[stehen]]
+[[überstehen]] - [[über]] = [[stehen]], [[durchmachen]]

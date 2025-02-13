@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tasche]], [[Taschen]], [[Tasche]], [[Taschen]], [[Tasche]], [[Taschen]], [[Tasche]], [[Taschen]]
 
 ---
-#Substantiv #Feminin, [[Koffer]], [[Tüte]], [[Taschengeld]]
+#Substantiv #Feminin, [[Koffer]], [[Tüte]], [[Taschengeld]], [[Taschenbuch]]

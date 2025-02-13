@@ -1,1 +1,1 @@
-📝 [[interessieren]] sich für music + Akk, [ɪntʁəˈsɪʁən]
+📝 [[interessieren]] sich für music + Akk, [ɪntʁəˈsɪʁən], [[1 Präpositionen Übungen]]

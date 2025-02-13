@@ -1,7 +1,9 @@
 🧐 [[achten]], [ˈaxtən] | [[achtete]], haben [[geachtet]]
 
 ---
-_Aang [[achtet]] jedoch nur auf sie und kracht mitten im Flug in Sokkas Wachturm._
+_Aang [[achtet]] jedoch nur [[auf]] sie und kracht mitten im Flug in Sokkas Wachturm._
+
+1. Sie [[achtet]] manchmal gar nicht [[auf]] ihre Kleidung. (**achten**)
 
 in [[Acht]]
 

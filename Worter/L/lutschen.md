@@ -30,3 +30,4 @@ Morpheme: [[lutsch]][[e]]
 
 Partizip I: [[lutschend]], Partizip II: [[gelutscht]]
 
+, [[kauen]]

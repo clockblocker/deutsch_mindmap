@@ -1,1 +1,1 @@
-, [[Stolpersteine]], [[Gedenktag]], [[Behandlung]], [[Hinweis]], [[Untersuchung]], [[Prüfung]]
+, [[Stolpersteine]], [[Gedenktag]], [[Behandlung]], [[Hinweis]], [[Untersuchung]], [[Prüfung]], [[Erkenntnis]], [[Erlernung]]

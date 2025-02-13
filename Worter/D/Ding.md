@@ -4,4 +4,4 @@ thing
 
 das Ding
 
-die [[Sache]], [[Bedingung]]
+die [[Sache]], [[Bedingung]], [[Arbeitsbedingungen]]

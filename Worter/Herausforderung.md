@@ -2,6 +2,7 @@
 die [[Herausforderungen]]
 
 ---
+[[1 Präpositionen Übungen.md#^8|(q)]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, ___ den [[Herausforderungen]] zu lernen. ^8
 
 
 ---

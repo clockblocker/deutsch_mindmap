@@ -1,1 +1,1 @@
-, [[freilich]], [[CONNECTOR]]
+, [[freilich]], [[CONNECTOR]], [[natürlich]]

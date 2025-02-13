@@ -1,1 +1,1 @@
-, [[aufbringen]]
+, [[aufbringen]], [[verbrauchen]]

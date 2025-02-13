@@ -1,1 +1,1 @@
-, [[Prokura]]
+, [[Prokura]], [[Begabung]], [[Talent]]

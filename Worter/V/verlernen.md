@@ -1,1 +1,1 @@
-, [[beibringen]]
+, [[beibringen]], [[Erlernung]]

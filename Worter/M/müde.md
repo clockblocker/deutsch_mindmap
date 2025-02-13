@@ -35,4 +35,4 @@ Tags:
 
 ---
 Morphems:
-[[müd]][[e]], [[überdrüssig]], [[munter]], [[ausgeruht]], [[matt]]
+[[müd]][[e]], [[überdrüssig]], [[munter]], [[ausgeruht]], [[matt]], [[lustlos]]

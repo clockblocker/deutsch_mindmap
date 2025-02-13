@@ -17,7 +17,7 @@ SASCHA: Wir [[beide]] sprechen uns noch …
 Auf [[beiden]] Tellern waren Saftige Happen! 
 
 ---
-Synonyme: [[jeder]], [[alle]], [[zusammen]], [[insgesamt]], [[ganz]]
+Synonyme: [[jeder]], [[Worter/A/Alle]], [[zusammen]], [[insgesamt]], [[ganz]]
 Antonyme: [[E/einer]], [[einzeln]], [[getrennt]]
 
 ---

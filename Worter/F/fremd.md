@@ -37,4 +37,4 @@ Einzigartige mögliche Formen:
 [[fremder]], [[fremderen]], [[fremdere]], [[fremderes]], [[fremderen]], [[fremderm]], [[fremder]], [[fremderen]]
 [[fremdesten]], [[fremdester]], [[fremdeste]], [[fremdstes]], [[fremdesten]], [[fremdesten]], [[fremdester]], [[fremdesten]]
 
-, [[bekannt]], [[eigene]], [[verwandt]], [[kennen]], [[Unbekannten]], [[auswärtig]], [[einheimisch]], [[Fremdsprache]]
+, [[bekannt]], [[eigene]], [[verwandt]], [[kennen]], [[Unbekannten]], [[auswärtig]], [[einheimisch]], [[Fremdsprache]], [[weltfremd]], [[auswendig]]

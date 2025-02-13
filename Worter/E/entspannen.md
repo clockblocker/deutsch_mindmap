@@ -3,6 +3,8 @@
 haben [[entspannt]]
 
 ---
+[[1 Präpositionen Übungen.md#^7|(q)]]  Ich freue mich auf die Ferien um mich zu [[entspannen]] ^7
+
 [[entspannt]]
 
 ---
@@ -32,4 +34,4 @@ Partizip I: [[entspannend]], Partizip II: [[entspannt]]
 , [[spannen]], [[anspannen]], [[mühen]], [[hochschrecken]], [[schrecken]]
 
 
-, [[wohlfühlen]], [[aufregen]]
+, [[wohlfühlen]], [[aufregen]], [[1 Präpositionen Übungen]]

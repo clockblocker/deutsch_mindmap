@@ -26,4 +26,4 @@ G: des [[Wohnorts]], der [[Wohnorte]]
 D: dem [[Wohnort]], den [[Wohnorten]]  
 
 ---
-[[wohnen]], [[Wohnstätte]], [[Wohngebiet]], [[Wohnraum]], [[Wohnbezirk]]
+[[wohnen]], [[Wohnstätte]], [[Wohngebiet]], [[Wohnraum]], [[Wohnbezirk]], [[Geburtsort]]

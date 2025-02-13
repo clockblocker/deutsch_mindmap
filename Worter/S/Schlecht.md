@@ -1,14 +1,14 @@
-, [[hervorragend]], [[toll]]
 😞 [[schlecht]], [ʃlɛçt]
 nicht [[gut]]
 
 ---
+[[16 Plusquamperfekt#^22|(q)]] Die Fenster in den Zimmern waren [[schmutziger]], als die Gläser in der Küche. Der Kühlschrank war ganz leer. Die Wäsche in der Badewanne hatte einen [[schlechten]] [[Geruch]]. ^22
 
 
 ---
 = [[miserabel]], [[mangelhaft]], [[unzureichend]]
 ≈ [[schwach]], [[minderwertig]], [[unbefriedigend]], [[kläglich]]
-≠ [[gut]], [[hervorragend]], [[ausgezeichnet]], [[prima]]
+≠ [[gut]], [[hervorragend]], [[ausgezeichnet]], [[prima]], [[toll]]
 
 ---
 bad, poor, terrible
@@ -26,4 +26,4 @@ N: [[schlechtes]], [[schlechteres]], [[schlechtestes]]
 P: [[schlechten]], [[schlechteren]], [[schlechtesten]]  
 
 ---
-[[verschlechtern]], [[Schlechtigkeit]], [[schlechtmachen]], [[schlimmsten]], [[Schlecht]], [[herrlich]]
+[[verschlechtern]], [[Schlechtigkeit]], [[schlechtmachen]], [[schlimmsten]], [[Schlecht]], [[herrlich]], [[Gebrauch]]

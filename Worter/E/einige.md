@@ -1,4 +1,4 @@
-[[Indefinitpronomen]][[jeden]][[alle]], [[manche]], [[einigen]], [[mehrere]]
+[[Indefinitpronomen]][[jeden]][[Worter/A/Alle]], [[manche]], [[einigen]], [[mehrere]]
 🤷‍♀️ [[einige]], [ˈaɪ̯nɪgə]
 
 ---
@@ -8,7 +8,7 @@ dein satz hat [[einige]] fehler. die korrekte version wäre:
 ---
 = [[ein paar]], [[gewisse]], [[manche]]
 ≈ [[mehrere]], [[nicht alle]], [[einige]]
-≠ [[alle]], [[keine]], [[viele]]
+≠ [[Worter/A/Alle]], [[keine]], [[viele]]
 
 ---
 some

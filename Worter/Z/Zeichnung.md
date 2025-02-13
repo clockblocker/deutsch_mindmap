@@ -2,7 +2,7 @@
 die [[Zeichnungen]]
 
 ---
-[[16 Plusquamperfekt.md#^9|(q)]] «Verzeihen Sie - können Sie mir sagen, ob diese [[Zeichnung]] Tiefe besitzt?» ^9
+[[16 Plusquamperfekt#^9|(q)]] «Verzeihen Sie - können Sie mir sagen, ob diese [[Zeichnung]] Tiefe besitzt?» ^9
 
 [[zeichnen]], [[Zeichner]]
 

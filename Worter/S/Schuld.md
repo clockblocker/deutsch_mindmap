@@ -33,4 +33,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schulde]], [[Schulden]], [[Schuldest]], [[Schuldig]], [[Schuldiger]], [[Schuldigen]], [[Schuldiges]]
 
 ---
-#Substantiv #Femininum, [[s1 e1]], [[verurteilten]], [[Anki]], [[Pfand]]
+#Substantiv #Femininum, [[s1 e1]], [[verurteilten]], [[Anki]], [[Pfand]], [[abrechnung]]

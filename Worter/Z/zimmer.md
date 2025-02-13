@@ -1,12 +1,9 @@
-SASCHA: Hier ist das [[Schlafzimmer]].
-Prosessed the word zimmer. Identified it as Noun.
-
 🟢 das [[Zimmer]], [ˈtsɪmɐ]
 die [[Zimmer]]
 
 ---
--
--
+SASCHA: Hier ist das [[Schlafzimmer]].
+Prosessed the word zimmer. Identified it as Noun.
 
 ---
 Synonyme: 
@@ -23,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Zimmers]], [[Zimmern]], [[Zimmer]]
 
 ---
-#Substantiv #Neutral, [[Flur]], [[Halle]]
+#Substantiv #Neutral, [[Flur]], [[Halle]], [[Tür]]

@@ -1,1 +1,1 @@
-, [[beißen]]
+, [[beißen]], [[kauen]]

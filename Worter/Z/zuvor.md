@@ -3,6 +3,9 @@
 ---
 Der Künstler bekam 30 allerdings von diesem Geld nichts, er hatte das Bild drei Jahre [[zuvor]] für 2000 Dollar verkauft.
 
+[[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
+
+
 ---
 
 Synonyme:
@@ -21,4 +24,4 @@ Morpheme:
 
 ---
 #Adverb
-, [[inzwischen]], [[Währenddessen]], [[vorhin]]
+, [[inzwischen]], [[Währenddessen]], [[vorhin]], [[1 Präpositionen Übungen]]

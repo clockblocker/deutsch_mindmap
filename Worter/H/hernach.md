@@ -1,1 +1,1 @@
-[[nachher]], [[zuvor]], [[folgenden]], [[vorhin]]
+[[nachher]], [[zuvor]], [[folgend]], [[vorhin]]

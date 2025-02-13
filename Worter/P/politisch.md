@@ -26,4 +26,4 @@ N: [[politisches]], [[politischeres]], [[politischstes]]
 P: [[politischen]], [[politischeren]], [[politischsten]]  
 
 ---
-[[Politik]], [[Politiker]], [[politisieren]], [[Politikerin]], [[Politikwissenschaft]], [[Bezirksverordnetenversammlung]]
+[[Politik]], [[Politiker]], [[politisieren]], [[Politikerin]], [[Politikwissenschaft]], [[Bezirksverordnetenversammlung]], [[Politisierung]]

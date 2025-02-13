@@ -1,1 +1,1 @@
-🔵 der [[Verrückte]]
+🔵 der [[Verrückt]]

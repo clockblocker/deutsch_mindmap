@@ -27,4 +27,4 @@ PI: [[flüsternd]], PII: [[geflüstert]], Zu+inf: [[zuflüstern]]
 [[flüstern]] - pure verb / to whisper
 
 ---
-[[Flüstern]], [[Flüsterer]], [[Flüsterin]], [[flüsternd]], [[geflüstert]], [[rufen]]
+[[Flüstern]], [[Flüsterer]], [[Flüsterin]], [[flüsternd]], [[geflüstert]], [[rufen]], [[flöten]]

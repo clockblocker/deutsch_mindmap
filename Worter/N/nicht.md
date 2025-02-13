@@ -1,1 +1,1 @@
-[[sowie]], [[bald]], [[weder]], [[Vernichtung]]
+[[sowie]], [[bald]], [[weder]], [[Vernichtung]], [[vernichten]]

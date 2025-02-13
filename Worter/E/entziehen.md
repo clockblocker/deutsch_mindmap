@@ -1,1 +1,1 @@
-, [[stillen]], [[ausnehmen]]
+, [[stillen]], [[ausnehmen]], [[entfernen]]

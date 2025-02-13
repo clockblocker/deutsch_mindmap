@@ -32,4 +32,4 @@ Zu+infinitive: [[zu langweilen]]
 [[Langeweile]], [[langweilig]], [[langweiligkeit]], [[Langweiler]], [[Langweilerin]]
 
 , [[interessieren]], [[begeistern]] [[langweilen]]
-, [[erstaunen]]
+, [[erstaunen]], [[beeindrucken]]

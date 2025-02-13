@@ -1,1 +1,1 @@
-🕳️ [[durchmogeln]], [ˈdʊʁçmoːɡl̩n] | [[durchmogelte]], haben [[durchgemogelt]]
+🕳️ [[durchmogeln]], [ˈdʊʁçmoːɡl̩n] | [[durchmogelte]], haben [[durchgemogelt]], [[auswendig]]

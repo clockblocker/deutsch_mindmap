@@ -30,4 +30,4 @@ Morpheme: [[wach]][[en]]
 | Sie       | [[wachen]] | [[wachten]]  | [[wachen Sie]] | [[wachen]]   | [[wachten]]   |
 
 Partizip I: [[wachend]], Partizip II: [[gewacht]]
-, [[überwachen]]
+, [[überwachen]], [[träumen]]

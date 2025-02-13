@@ -1,1 +1,1 @@
-, [[planenden]], [[willkürlich]]
+, [[planenden]], [[willkürlich]], [[spontanen]]

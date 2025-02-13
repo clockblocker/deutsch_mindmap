@@ -1,1 +1,1 @@
-, [[Zahl]]
+, [[Zahl]], [[Informationswert]]

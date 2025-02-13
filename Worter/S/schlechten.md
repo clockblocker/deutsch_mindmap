@@ -1,1 +1,1 @@
-[[schlecht]]en, [ˈʃlɛçt̩n̩] [[Schlecht]]
+[[schlecht]]en, [ˈʃlɛçt̩n̩] [[Schlecht]], [[Geruch]]

@@ -1,1 +1,1 @@
-[[Tasche]]n[[bücher]]
+[[Tasche]]n[[bücher]], [[Taschenbuch]]

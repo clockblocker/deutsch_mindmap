@@ -33,4 +33,4 @@ PI: [[legend]], PII: [[gelegt]], Zu+inf: [[zu legen]]
 [[legen]] - regular verb / to lay, to put down
 
 ---
-[[Lage]], [[Lagerung]], [[Ablage]], [[Legung]], [[Verlegung]], [[Vorlage]], [[festlegen]]
+[[Lage]], [[Lagerung]], [[Ablage]], [[Legung]], [[Verlegung]], [[Vorlage]], [[festlegen]], [[angelegen]]

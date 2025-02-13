@@ -1,1 +1,1 @@
-, [[Hut]]
+, [[Hut]], [[verbrauchen]]

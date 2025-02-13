@@ -18,4 +18,4 @@ Morphems:
 [[Kleid]]
 
 ---
-#Substantiv #Neuter, [[Rock]], [[verkleiden]]
+#Substantiv #Neuter, [[Rock]], [[verkleiden]], [[Bekleidung]]

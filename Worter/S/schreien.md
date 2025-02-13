@@ -30,3 +30,4 @@ PI: [[schreiend]], PII: [[geschrien]], Zu+inf: [[zuschreien]]
 [[Schreier]], [[Schreien]], [[schrill]], [[Schrei]], [[aufschreien]], [[ausschreien]]
 
 , [[brüllen]], [[Angriffsgeschrei]]
+, [[flöten]]

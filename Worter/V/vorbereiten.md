@@ -1,6 +1,12 @@
 🏃‍♂️[[vorbereiten]] | [[bereitete vor|bereitete vor]], haben [[vorbereitet]]
 
 ---
+[[1 Präpositionen Übungen.md#^6|(q)]] e) Sie hat sich [[auf]] die schwierige Prüfung intensiv [[vorbereitet]]. ^6
+
+1) prap ist ine Konig
+2) veb ist iein. konig 
+3) 
+
 [[Soweit]] ich verstehe, muss ich wirklich gut auf Hören/Lesen [[vorbereitet]] sein.
 
 [[Hilfreiche]] Tipps finden Sie unter "Zustellung [[vorbereiten]]".

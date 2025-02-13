@@ -1,25 +1,24 @@
-🔵 der [[Verrückte]]
-die [[Verrückten]]
-
-[[Verrückte]] Anrufe für einen Fremden namens Kurt Knall
-
-Beispiele:
-
-- Er ist ein [[verrückter]], der immer gefährliche Sachen macht.
-- Die [[Verrückten]] auf der Party haben die besten Ideen.
-- Er benahm sich wie ein [[verrückter]].
-
----
-Synonyme:
-- [[Wahnsinniger]], [[Irrer]], [[Exzentriker]]
-
----
-**Übersetzung**: crazy man, madman
+🔴 🧠 die [[Verrückte]], [fɛɐ̯ˈʁʏktə]
 
 ---
 
-Morphems:
-[[verrückt]][[e]]
 
 ---
-#Substantiv #Maskulin
+= [[Irre]], [[Wahnsinnige]]
+≈ [[Verrückter]], [[Spinne]], [[Depp]], [[Psycho]]
+≠ [[Vernünftige]], [[Gescheite]], [[Kluge]]
+
+---
+Madwoman, Crazy Woman
+
+---
+[[ver]]|[[rück]]|[[te]]
+
+---
+N: die [[Verrückte]], die [[Verrückten]]  
+A: die [[Verrückte]], die [[Verrückten]]  
+G: der [[Verrückten]], der [[Verrückten]]  
+D: der [[Verrückten]], den [[Verrückten]]  
+
+---
+[[verrückt]], [[verrücken]], [[Verrücktheit]], [[vernarrt]]

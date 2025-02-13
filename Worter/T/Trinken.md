@@ -30,4 +30,4 @@ Morpheme: [[trink]][[en]]
 
 Partizip I: [[trinkend]], Partizip II: [[getrunken]]
 
-[[trinken]] - [[trink]] = [[en]], [[ablehnen]], [[löffeln]], [[schlucken]], [[Fruchtsaft]]
+[[trinken]] - [[trink]] = [[en]], [[ablehnen]], [[löffeln]], [[schlucken]], [[Fruchtsaft]], [[kauen]]

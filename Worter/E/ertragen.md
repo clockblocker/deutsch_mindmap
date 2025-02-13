@@ -32,4 +32,4 @@ Partizip I: [[ertragend]], Partizip II: [[ertragen]]
 
 
 [[stören]], [[leiden]], [[aushalten]]
-, [[ablehnen]], [[vertragen]]
+, [[ablehnen]], [[vertragen]], [[durchmachen]]

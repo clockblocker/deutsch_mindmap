@@ -18,4 +18,4 @@ Alle Formen:
 | Nominative  | die Spinne         | die Spinnen       |
 | Accusative  | die Spinne         | die Spinnen       |
 | Dative      | der Spinne         | den Spinnen       |
-| Genitive    | der Spinne         | der Spinnen       |
+| Genitive    | der Spinne         | der Spinnen       |, [[Verrückte]]

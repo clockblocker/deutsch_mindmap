@@ -10,6 +10,8 @@ Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 *da sah sie plötzlich vor sich stehn*  
 *ein Feuerzeug, nett anzusehn.*  
 
+[[Nutzungsdaten]] [[ansehen]]
+
 Nennst du das etwa links? _[[ansehen|Sieht]] Sokka böse [[an]]_
 
 Katara [[sieht]] den Eisberg genauer [[an]] und erkennt einen Jungen mit leuchtenden [[Pfeilen]] auf dem Kopf und den Händen. 
@@ -44,4 +46,4 @@ Morpheme: [[an]][[seh]][[en]]
 
 Partizip I: [[ansehend]], Partizip II: [[angesehen]], Zuinf: [[anzusehen]]
 
-[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]], [[anschauen]], [[anblicken]], [[Ansichtskarte]], [[Verruf]]
+[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]], [[anschauen]], [[anblicken]], [[Ansichtskarte]], [[Verruf]], [[abrechnung]]

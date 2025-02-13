@@ -28,4 +28,4 @@ PI: [[schlafend]], PII: [[geschlafen]], Zu+inf: [[zu schlafen]]
 [[schlafen]] / to sleep
 
 ---
-[[Schlaf]], [[Schläfer]], [[Schläferin]], [[schläfrig]], [[einschlafen]], [[Schlafzimmer]], [[ausschlafen]]
+[[Schlaf]], [[Schläfer]], [[Schläferin]], [[schläfrig]], [[einschlafen]], [[Schlafzimmer]], [[ausschlafen]], [[träumen]]

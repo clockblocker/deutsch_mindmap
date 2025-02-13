@@ -1,1 +1,1 @@
-, [[fordern]]
+, [[fordern]], [[Informationswert]]

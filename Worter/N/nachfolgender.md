@@ -1,1 +1,1 @@
-, [[folgenden]]
+, [[folgend]]

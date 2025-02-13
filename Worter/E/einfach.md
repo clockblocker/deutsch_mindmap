@@ -4,6 +4,8 @@ nicht [[kompliziert]]
 ---
 in Kilo [[Mehl]], es kann von der [[einfachen]] [[Sorte]] sein
 
+• “zu + infinitiv” → [[einfaches]] Infinitiv-Konstrukt nach [[bestimmten]] Wörtern
+
 Aber wie [[einfach]] ist es, sich bei Sprechen/Schreiben mit [[auswendig]] gelernten [[Vorlagen]] [[durchzumogeln]]?
 
 *Wir wollen nichts [[versäumen]]*  

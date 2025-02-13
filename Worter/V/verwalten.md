@@ -1,6 +1,8 @@
 🏛️ [[verwalten]], [fɛɐ̯ˈvaltən] | [[verwaltete]], haben [[verwaltet]]
 
 ---
+Google-[[Konto]] [[verwalten]]
+
 [[Verwaltung]]
 
 ---

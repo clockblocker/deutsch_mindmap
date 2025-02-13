@@ -13,7 +13,7 @@ auxiliary verb
 вспомогательный глагол
 
 ---
-[[Hilf]]|[[s]]|[[verb]]
+[[Hilf]]|[[s]]|[[Worter/V/verb]]
 
 ---
 Haupttypen: [[sein]], [[Worter/H/haben]], [[werden]], [[können]], [[müssen]], [[sollen]], [[wollen]], [[dürfen]], [[mögen]]

@@ -31,4 +31,4 @@ Morpheme: [[ver]][[schwend]][[en]]
 | Sie       | [[verschwenden]]     | [[verschwendeten]]    | [[verschwenden Sie]] | [[verschwenden]]    | [[verschwendeten]]      |
 
 Partizip I: [[verschwendend]], Partizip II: [[verschwendet]]
-[[verschwenden]] - [[ver]] = [[schwenden]], [[verplempern]]
+[[verschwenden]] - [[ver]] = [[schwenden]], [[verplempern]], [[verbrauchen]]

@@ -1,64 +1,37 @@
-🤲 [[anfassen]]
-[[fasste an|fasste an]]  
-haben [[angefasst]]
+👋 [[anfassen]], [anˈfasn̩] | [[fasste an]], haben [[angefasst]]
 
 ---
 *Dann wollen wir schaffen, komm, [[anfassen|fass' an]]* 
 
----
+[[Keine Lust.md#^1|(q)]] *Ich habe keine Lust, mich nicht zu hassen*  
+*Hab keine Lust, mich [[anzufassen]]*   ^1
 
-**Synonyme:**
-
-- [[berühren]], [[greifen]], [[erfassen]]
-
----
-
-**Beispiele:**
-
-- Ich [[fasse an|fasse]] die Vase vorsichtig an.
-- Du [[fasst an|fasst]] den Hund sanft an.
-- Er [[fasst an|fasst]] die Tasse mit beiden Händen an.
-- Es [[fasst an|fasst]] das Spielzeug neugierig an.
-- Sie [[fasst an|fasst]] den Stoff, um seine Qualität zu prüfen.
-- Wir [[fassen an|fassen]] die Seile fest an.
-- Ihr [[fasst an|fasst]] die Wände, um die Farbe zu fühlen.
-- Sie [[fassen an|fassen]] das Buch behutsam an.
+*[[Lustlos]] [[anfassen|fasse]] ich mich an*  
+*Und merke bald, ich bin schon lange kalt*
 
 ---
-
-**Übersetzung**:
-to touch, to handle, get to work
-
----
- #Verb  #Trennbar
+= [[berühren]]
+≈ [[tasten]], [[greifen]]
+≠ [[schauen]], [[rieche]]
 
 ---
-
-**Präteritum:**
-
-- Ich [[fasste an|fasste]] die Vase vorsichtig an.
-- Du [[fasstest an|fasstest]] den Hund sanft an.
-- Er [[fasste an|fasste]] die Tasse mit beiden Händen an.
-- Es [[fasste an|fasste]] das Spielzeug neugierig an.
-- Sie [[fasste an|fasste]] den Stoff, um seine Qualität zu prüfen.
-- Wir [[fassten an|fassten]] die Seile fest an.
-- Ihr [[fasstet an|fasstet]] die Wände, um die Farbe zu fühlen.
-- Sie [[fassten an|fassten]] das Buch behutsam an.
+to touch, to feel, to handle
+притрагиваться, брать
 
 ---
-
-**Imperativ:**
-
-- Ich [[fasse an|fasse]] die Vase vorsichtig an.
-- Du [[fass an|fasse]] die Vase vorsichtig an.
-- Er [[fasse an|fasse]] die Vase vorsichtig an.
-- Es [[fasst an|fasst]] die Vase vorsichtig an.
-- Sie [[fasse an|fasse]] die Vase vorsichtig an.
-- Wir [[fassen an|fassen]] die Vase vorsichtig an.
-- Ihr [[fasst an|fasst]] die Vase vorsichtig an.
-- Sie [[fassen an|fassen]] die Vase vorsichtig an.
+[[an]]|[[fass]]|[[en]]
 
 ---
+ich: [[fasse an]], [[fasste an]], –, [[fasse an]], [[fasse an]]
+du: [[fasst an]], [[fasstest an]], [[fasse an]] | [[fass an]], [[fasst an]], [[fasstest an]]
+er/sie/es: [[fasst an]], [[fasste an]], –, [[fasse an]], [[fasse an]]
+wir: [[fassen an]], [[fassten an]], [[fassen an]], [[fassen an]], [[fassten an]]
+ihr: [[fasst an]], [[fasstet an]], [[fasst an]], [[fasset an]], [[fasstet an]]
 
-**Morphems of only infinitive:**  
-- [[an]][[fassen]], [[schaffen]]
+PI: [[anfassend]], PII: [[angefasst]], Zu+inf: [[anzufassen]]
+
+---
+[[anfassen]] - [[an]] = [[fassen]] / to touch, to feel, to handle
+
+---
+[[Anfassung]], [[befühlen]], [[erspüren]], [[tasten]]

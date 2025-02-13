@@ -1,5 +1,3 @@
-, [[erledigen]], [[vorbereiten]], [[nachholen]]
-
 🕰️ [[versäumen]], [fɛɐ̯ˈzɔʏ̯mn̩] | [[versäumte]], haben [[versäumt]]
 
 ---
@@ -11,7 +9,7 @@
 ---
 = [[verpassen]], [[verfehlen]], [[unterlassen]]
 ≈ [[nicht wahrnehmen]], [[übersehen]], [[ignorieren]]
-≠ [[wahrnehmen]], [[erledigen]], [[einhalten]], [[beachten]]
+≠ [[wahrnehmen]], [[erledigen]], [[einhalten]], [[beachten]], [[erledigen]], [[vorbereiten]], [[nachholen]]
 
 ---
 to miss, to neglect, to fail to do

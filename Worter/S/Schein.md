@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Scheins]], [[Scheine]], [[Scheinen]]
 ---
 #Substantiv #Maskulin
 
-, [[SCHULDSCHEIN]], [[wahrscheinlich]], [[scheinbar]], [[unscheinbar]], [[Vorschein]]
+, [[SCHULDSCHEIN]], [[wahrscheinlich]], [[scheinbar]], [[unscheinbar]], [[Vorschein]], [[Zettel]]

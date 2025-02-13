@@ -7,6 +7,9 @@ die [[Abschiede]]
 *Schwer, wie schwer ist er zu tragen!*  
 *Und ich bin doch sonst ein Mann. [[Der Abschied.md#^1|(Quelle: Der Abschied)]]* 
 
+[[17 zu inf#^13|(q)]] «Dann will ich nicht weiter [[stören]]», sagte Herr Kohlaas und wollte schon [[von]] uns [[Abschied]] [[nehmen]], aber ich sagte: 
+«Warten Sie, Sie können den Mantel von meinem Vetter bekommen.» ^13
+
 | Katara. Ich will nicht zwischen dir und deiner Familie stehen. _[Geht traurig weg]_       |
 | ----------------------------------------------------------------------------------------- |
 | Heißt das, dass du nun den Südpol [[verlassen]] [[wirst]]? Dann ist das ein [[Abschied]]? |

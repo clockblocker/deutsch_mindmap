@@ -1,1 +1,1 @@
-, [[Prüfung]], [[ausprobieren]]
+, [[Prüfung]], [[ausprobieren]], [[Aufführung]], [[Herausforderung]]

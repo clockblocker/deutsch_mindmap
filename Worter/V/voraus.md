@@ -3,6 +3,8 @@
 ---
 Wir müssen unseren [[Gegnern]] immer [[einen]] [[Schritt]] [[voraus]] sein.
 
+[[17 zu inf#^5|(q)]] Im [[Voraus]] vielen Dank. ^5
+
 *Der Mohr [[voraus]] im Sonnenschein,*  
 *die Tintenbuben hinterdrein;*  
 

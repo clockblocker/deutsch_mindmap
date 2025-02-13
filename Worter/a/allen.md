@@ -1,1 +1,1 @@
-[[alle]], [[allenthalben]]
+[[Worter/A/Alle]], [[allenthalben]]

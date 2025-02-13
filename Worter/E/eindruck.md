@@ -4,7 +4,9 @@ die [[Eindrücke]]
 ---
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
-Ihre Bilder können [[sogar]] einen ganz guten [[Eindruck]] aufs Publikum machen. Aber es gibt in ihnen nicht genug Tiefe.»   [[16 Plusquamperfekt.md#^3|(q)]]
+[[16 Plusquamperfekt#^25|(q)]] Sie war bestimmt begabt und konnte noch einen großen [[Erfolg]] haben. Aber sie stand unter dem [[Eindruck]] des [[Unglücks]] und konnte nur an Tiefe denken. Ihr Selbstmord war nichts anderes, als ihr persönlicher starker Zwang zur Tiefe.» ^25
+
+Ihre Bilder können [[sogar]] einen ganz guten [[Eindruck]] aufs Publikum machen. Aber es gibt in ihnen nicht genug Tiefe.»   [[16 Plusquamperfekt#^3|(q)]]
 
 ---
 Synonyme:
@@ -23,4 +25,4 @@ Accusative: den [[Eindruck]], die [[Eindrücke]]
 Genitive: des [[Eindrucks]], der [[Eindrücke]]  
 Dative: dem [[Eindruck]], den [[Eindrücken]] 
 
-[[eindrucksvoll]], [[eindrucklos]], [[beeindrucken]], [[Druck]]
+[[eindrucksvoll]], [[eindrucklos]], [[beeindrucken]], [[Druck]], [[anstrengen]]

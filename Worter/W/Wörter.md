@@ -1,1 +1,1 @@
-, [[Wort]], [[Schlagwort]]
+, [[Wort]], [[Schlagwort]], [[Bildmotive]]

@@ -369,7 +369,7 @@ Du musst nicht noch einkaufen gehen, ich habe es [[bereits]] [[erledigt]].
 
 [[Eher]] [[ziehe]] ich wieder zu meinen Eltern, [[als-zu|als]] einen Tag länger bei dir zu wohnen.
 
-Leipzig ist eine [[bekannte]] Stadt in Deutschland.
+Leipzig ist eine [[Bekannte]] Stadt in Deutschland.
 
 Über solche Sachen wie [[Armut]] spricht hier niemand.
 

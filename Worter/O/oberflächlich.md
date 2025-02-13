@@ -1,1 +1,1 @@
-[[schlampig]], [[ernst]], [[tief]], [[gründlich]], [[eigentlich]], [[Ausführlich]], [[zugrundeliegende]]
+[[schlampig]], [[ernst]], [[tief]], [[gründlich]], [[eigentlich]], [[Ausführlich]], [[zugrundeliegende]], [[sorgsam]]

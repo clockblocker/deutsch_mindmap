@@ -1,1 +1,1 @@
-, [[zusammenbrechen]], [[wohlfühlen]]
+, [[zusammenbrechen]], [[wohlfühlen]], [[anstrengen]], [[entspannen]]

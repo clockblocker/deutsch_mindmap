@@ -25,3 +25,4 @@ D: der [[Lücke]], den [[Lücken]]
 [[lückenhaft]], [[lückenlos]], [[ausfüllen]], [[schließen]]
 
 [[Abstand]], [[loch]], [[Stelle]]
+, [[Lückentext]]

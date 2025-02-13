@@ -61,4 +61,4 @@ to sing
 ---
 
 **Morphems of only infinitive:**  
-- [[sing]][[en]]
+- [[sing]][[en]], [[murmeln]], [[flöten]]

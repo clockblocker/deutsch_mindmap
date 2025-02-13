@@ -1,1 +1,1 @@
-[[nachher]], [[anschließen]], [[folgenden]]
+[[nachher]], [[anschließen]], [[folgend]]

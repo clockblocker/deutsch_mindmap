@@ -4,7 +4,7 @@ nicht [[langsam]]
 ---
 [[Bisher]] gab es noch keinen [[Regen]], aber bestimmt [[bald]].
 
-[[16 Plusquamperfekt.md#^1|(q)]] Die junge Frau verstand nicht, was der Kritiker meinte, und sie hat seine Meinung [[bald]] vergessen.  ^1
+[[16 Plusquamperfekt#^1|(q)]] Die junge Frau verstand nicht, was der Kritiker meinte, und sie hat seine Meinung [[bald]] vergessen.  ^1
 
 Ich werde [[bald]] als Lehrer arbeiten.
 

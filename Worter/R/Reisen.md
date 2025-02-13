@@ -1,10 +1,10 @@
-🧳 [[reisen]], [ˈʁaɪ̯zən] | [[reiste]], haben [[gereist]]
+🧳 [[reisen]], [ˈʁaɪ̯zən] | [[reiste]], haben [[gereist]] | 🔴 die [[Reise]]
 
 ---
-🔴 die [[Reise]]
 
 ---
 [[einreisen]] - [[ein]] = [[reisen]] / to enter, to arrive in a country
+[[verreisen]] - [[ver]] = [[reisen]] / to go on a trip, to go on vacation
 
 ---
 = [[sich fortbewegen]], [[verreisen]], [[unterwegs sein]]

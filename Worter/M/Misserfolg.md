@@ -1,1 +1,1 @@
-, [[Niederlage]], [[scheitern]]
+, [[Niederlage]], [[scheitern]], [[Wahlniederlage]]

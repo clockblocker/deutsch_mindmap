@@ -1,1 +1,1 @@
-, [[Wettervorhersage]], [[vorhersagen]], [[sagen]], [[herholen]], [[holen]], [[herankam]], [[herstellen]]
+, [[Wettervorhersage]], [[vorhersagen]], [[sagen]], [[herholen]], [[holen]], [[herankam]], [[herstellen]], [[hervorragend]]

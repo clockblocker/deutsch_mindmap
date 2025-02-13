@@ -1,4 +1,4 @@
-🔵 💼 die [[Arbeit]], [ˈaɐ̯baɪ̯t]
+💼 die [[Arbeit]], [ˈaɐ̯baɪ̯t]
 die [[Arbeiten]]
 
 ---
@@ -22,4 +22,4 @@ G: der [[Arbeit]], der [[Arbeiten]]
 D: der [[Arbeit]], den [[Arbeiten]]  
 
 ---
-arbeiten, arbeitsam, arbeitslos, arbeitsfähig, Arbeitgeber
+arbeiten, arbeitsam, arbeitslos, arbeitsfähig, Arbeitgeber, [[Erlebnis]]

@@ -13,7 +13,7 @@ Antonyme: [[ablehnen]], [[verschmähen]], [[verachten]], [[ignorieren]]
 to enjoy, to savor, to relish
 
 ---
-[[genie]][[ß]][[en]]
+[[Genie]][[ß]][[en]]
    
 
 ---

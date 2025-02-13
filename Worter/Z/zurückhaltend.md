@@ -1,1 +1,1 @@
-[[Überheblich]], [[bescheiden]], [[misstrauisch]], [[vollziehenden]], [[zaghaft]], [[vorsichtig]], [[scheu]]
+[[Überheblich]], [[bescheiden]], [[misstrauisch]], [[vollziehenden]], [[zaghaft]], [[vorsichtig]], [[scheu]], [[schüchtern]]

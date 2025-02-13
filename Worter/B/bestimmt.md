@@ -3,8 +3,9 @@
 ---
 Ich bin mir sicher, das Bild wird [[bestimmt]] gut.
 
+• “zu + infinitiv” → [[einfaches]] Infinitiv-Konstrukt nach [[bestimmten]] Wörtern
 
-49. Wer [[bestimmen|bestimmt]] in Deutschland die [[Schulpolitik]]? (83%)
+1. Wer [[bestimmen|bestimmt]] in Deutschland die [[Schulpolitik]]? (83%)
 	- [ ] die Lehrer und Lehrerinnen
 	- [x] die [[Bundesländer]]
 

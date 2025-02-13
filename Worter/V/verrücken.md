@@ -1,1 +1,1 @@
-, [[verrückt]], [[rücken]]
+, [[verrückt]], [[rücken]], [[Verrückte]]

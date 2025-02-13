@@ -1,1 +1,1 @@
-, [[Sorgen]], [[versorgen]]
+, [[Sorgen]], [[versorgen]], [[sorgsam]]

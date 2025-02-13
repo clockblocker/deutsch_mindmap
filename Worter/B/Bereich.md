@@ -6,6 +6,8 @@ Diesen [[Bereich]] darf niemand [[betreten]].
 
 Neben den Museumsbesuchen und dem [[Kauf]] von Bildern [[widerspiegelt|spiegelt]] sich das [[gewachsene]] [[Kunstinteresse]] in der [[Anzahl]] der Studierenden im [[Bereich]] der bildenden Kunst wider.
 
+"Nach meiner langen [[Erfahrung]] [[in]] diesem [[Bereich]] kann ich Ihnen einige Tipps geben. 
+
 ---
 Synonyme:
 - [[Gebiet]], [[Sektor]], [[Areal]], [[Domäne]], [[Ressort]], [[Raum]]
@@ -22,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bereichs]], [[Bereichen]]
 
 ---
-#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[fach]], [[Ebene]], [[Anki]]
+#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[fach]], [[Ebene]], [[Anki]], [[1 Präpositionen Übungen]]

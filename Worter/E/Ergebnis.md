@@ -27,4 +27,4 @@ Einzigartige mögliche Formen: [[Ergebnisses]], [[Ergebnis]], [[Ergebnisse]], [[
 ---
 #Substantiv #Neutrum
 
-, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]], [[Zwischenergebnis]], [[ergibt]], [[Anki]]
+, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]], [[Zwischenergebnis]], [[ergibt]], [[Anki]], [[Anlass]], [[1 Präpositionen Übungen]]

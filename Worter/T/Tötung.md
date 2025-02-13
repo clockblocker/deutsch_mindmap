@@ -1,1 +1,1 @@
-, [[Mord]]
+, [[Mord]], [[Selbstmord]]

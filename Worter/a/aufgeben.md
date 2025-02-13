@@ -1,1 +1,1 @@
-, [[leisten]], [[verzweifeln]], [[beschließen]], [[Aufgaben]], [[schaffen]], [[zurückholen]], [[Aufgabe]], [[bewerben]], [[aufbringen]], [[stützen]], [[besetzen]], [[vorhaben]], [[fordern]], [[vorsitzen]], [[begehen]], [[Hauptaufgabe]], [[beibehalten]], [[wagen]]
+, [[leisten]], [[verzweifeln]], [[beschließen]], [[Aufgaben]], [[schaffen]], [[zurückholen]], [[Aufgabe]], [[bewerben]], [[aufbringen]], [[stützen]], [[besetzen]], [[vorhaben]], [[fordern]], [[vorsitzen]], [[begehen]], [[Hauptaufgabe]], [[beibehalten]], [[wagen]], [[durchmachen]], [[einrichten]]

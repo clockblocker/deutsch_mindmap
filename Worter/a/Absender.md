@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Absenders]], [[Absender]], [[Absender]], [[Absendern]]
 
 ---
-#Substantiv #Maskulin, [[absagen]]
+#Substantiv #Maskulin, [[absagen]], [[hinschicken]], [[abschicken]]

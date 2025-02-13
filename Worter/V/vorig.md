@@ -1,1 +1,1 @@
-, [[letzen]], [[folgenden]]
+, [[letzen]], [[folgend]]

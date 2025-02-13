@@ -1,1 +1,1 @@
-[[drücken]]
+[[drücken]], [[zerknittern]]

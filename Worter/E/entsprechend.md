@@ -1,1 +1,1 @@
-, [[derselben]], [[gleich]], [[solche]], [[entgegen]], [[vereinbar]], [[entsprechen]], [[ebenso]], [[jeweils]]
+, [[derselben]], [[gleich]], [[solche]], [[entgegen]], [[vereinbar]], [[entsprechen]], [[ebenso]], [[jeweils]], [[passend]]

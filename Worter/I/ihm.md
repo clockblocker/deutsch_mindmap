@@ -1,1 +1,1 @@
-[[Dativ pronomen]]
+[[Dativ pronomen]], [[Pronomen]]

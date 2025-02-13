@@ -1,9 +1,9 @@
 ✒️ [[zeichnen]], [ˈtsaɪ̯çn̩] | [[zeichnete]], haben [[gezeichnet]]
 
 ---
-[[16 Plusquamperfekt.md#^4|(q)]] In der ganzen [[folgenden]] Woche [[zeichnete]] die junge Frau nichts.  ^4
+[[16 Plusquamperfekt#^4|(q)]] In der ganzen [[folgend]] Woche [[zeichnete]] die junge Frau nichts.  ^4
 
-[[16 Plusquamperfekt.md#^16|(q)]] Die junge Frau, die früher so schön [[gezeichnet]] hatte, ging nicht mehr aus und niemand war zu Besuch bei ihr. Sie wurde dick, konnte ihre schönen Hosen, Jacken und Anzüge nicht mehr tragen und sah viel älter aus. ^16
+[[16 Plusquamperfekt#^16|(q)]] Die junge Frau, die früher so schön [[gezeichnet]] hatte, ging nicht mehr aus und niemand war zu Besuch bei ihr. Sie wurde dick, konnte ihre schönen Hosen, Jacken und Anzüge nicht mehr tragen und sah viel älter aus. ^16
 
 
 ---

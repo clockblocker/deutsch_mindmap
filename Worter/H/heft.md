@@ -25,3 +25,4 @@ D: dem [[Heft]], den [[Heften]]
 [[heften]], [[anheften]], [[Heftung]], [[Hefter]], [[haftbar]]
 
 , [[anheften]]
+, [[Taschenbuch]]

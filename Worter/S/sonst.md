@@ -3,6 +3,8 @@
 ---
 Maggie isst kein Brot, [[sonst]] wird ihr [[schlecht]].
 
+Was konnte ich ihm [[sonst]] [[anbieten]]? Ich ging in den Keller und fand in einem alten Koffer den hellgrauen Mantel meines Vetters.  [[17 zu inf#^14|(q)]]
+
 Habt ihr [[sonst]] noch Fragen?
 - Eisenteller nicht mitwaschen. [[Sonst]] Rostflecken.
 - Sterben, schlafen und [[sonst nichts]].  

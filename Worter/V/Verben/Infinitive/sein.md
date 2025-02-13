@@ -35,3 +35,4 @@ Morpheme:
 Partizip I: [[seiend]], Partizip II: [[gewesen]]
 
 [[sein]] - [[sein]] = [[sein]]
+, [[Verantwortungsbewusstsein]]

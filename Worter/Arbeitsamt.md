@@ -24,4 +24,4 @@ G: des [[Arbeitsamts]], der [[Arbeitsämter]]
 D: dem [[Arbeitsamt]], den [[Arbeitsämtern]]  
 
 ---
-[[arbeitslos]], [[Arbeitslosigkeit]], [[Arbeitsvermittlung]], [[Arbeitssuchender]]
+[[arbeitslos]], [[Arbeitslosigkeit]], [[Arbeitsvermittlung]], [[Arbeitssuchender]], [[Arbeitsbedingungen]]

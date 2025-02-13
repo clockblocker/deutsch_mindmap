@@ -21,4 +21,4 @@ Morphems:
 [[Fenst]][[er]]
 
 ---
-#Substantiv #Neuter, [[frönen]], [[Fenstern]]
+#Substantiv #Neuter, [[frönen]], [[Fenstern]], [[Tür]]

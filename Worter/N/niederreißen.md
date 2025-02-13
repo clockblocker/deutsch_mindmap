@@ -1,1 +1,1 @@
-, [[abreißen]], [[errichteten]], [[zerstörten]]
+, [[abreißen]], [[errichteten]], [[zerstörten]], [[Wahlniederlage]]

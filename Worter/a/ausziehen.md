@@ -3,6 +3,9 @@
 haben [[ausgezogen]]
 
 ---
+[[Keine Lust.md#^2|(q)]] *Ich hätte Lust, mich [[auszuziehen]]*  
+*Hab keine Lust, mich [[nackt]] zu sehen* ^2
+
 Aber dann sieht er sich seine [[Kontoauszüge]] genauer an: 100 Euro für Bücher, 50 Euro fürs Kino, und allein 300 Euro hat Björn für Wein bezahlt. 
 
 ---
@@ -30,4 +33,4 @@ Partizip I: [[auszuziehend]], Partizip II: [[ausgezogen]]
 
 [[anhaben]], [[wohnen]]
 
-, [[Kontoauszug]], [[beziehen]]
+, [[Kontoauszug]], [[beziehen]], [[Bekleidung]]

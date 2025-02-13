@@ -1,1 +1,1 @@
-, [[verbannen]]
+, [[verbannen]], [[wegschicken]]

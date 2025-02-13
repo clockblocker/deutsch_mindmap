@@ -3,6 +3,14 @@
 ---
 Alle [[stimmen]] gegen Ninas Idee.
 
+[[17 zu inf#^16|(q)]] Ich [[überredete]] meine Frau, den Mantel ein wenig zu [[bügeln]], während ich mit Herrn Kolhaas ein Glas [[Sherry]] trank, und er mir von einigen Klavieren [[erzählte]], die er [[gestimmt]] hatte.  ^16
+
+[[17 zu inf#^8|(q)]] Er [[stimmte]] nicht nur Klaviere, sondern reparierte auch [[Saiteninstrumente]] und gab [[Blockflötenunterricht]].  ^8
+
+[[Klavierstimmer]].
+
+[[gpt]]
+
 ---
 = [[zustimmen]], [[übereinstimmen]], [[passen]]
 ≈ [[einverstanden sein]], [[bejahen]], [[zusagen]]
@@ -30,3 +38,4 @@ PI: [[stimmend]], PII: [[gestimmt]], Zu+inf: [[zustimmen]]
 [[Stimme]], [[Abstimmung]], [[stimmlich]], [[Stimmung]], [[zustimmen]], [[abstimmen]]
 
  [[Stimmabgabe]], [[Wählerstimmen]], [[bestimmen]]
+, [[Klavierstimmer]]

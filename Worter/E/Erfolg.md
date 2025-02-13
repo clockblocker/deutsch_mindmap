@@ -2,6 +2,8 @@
 die [[Erfolge]]
 
 ---
+[[16 Plusquamperfekt#^26|(q)]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon **[[während]] seines Lebens und auch nach seinem Tod** hatte er großen [[Erfolg]]. ^26
+
 Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfwungen]].
 
 STEFAN: … Ja Sascha, und mit deiner Figur ... wirst du auch viel [[Erfolg]] haben …  

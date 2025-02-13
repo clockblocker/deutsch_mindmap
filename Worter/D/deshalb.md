@@ -1,6 +1,8 @@
 🔄 [[deshalb]], [deːsˈhalp]
 
 ---
+Er hat viel Geld gespart, [[deshalb]] möchte er sich ein Auto kaufen.  
+
 Es gibt bald Regen, [[deshalb]] sollten wir ins Haus gehen.
 
 1. Zwei Freunde wollen in ein öffentliches [[Schwimmbad]] in Deutschland. Beide haben eine dunkle [[Hautfarbe]] und werden [[deshalb]] nicht [[hineingelassen]]. Welches Recht wird in dieser Situation [[verletzt]]? 
@@ -11,13 +13,14 @@ Und [[deshalb]] ermordet Hamlet die Mutter und den Onkel … und dann
 
 Laura ist seit ein paar Tagen sehr unkonzentriert fällt ihr auf. Nach dem Unterricht spricht sie sie [[deshalb]] an 
 
-2. Ein Mann im [[Rollstuhl]] hat sich auf eine [[Stelle]] als [[Buchhalter]] [[beworben]]. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur [[deshalb]] nicht, weil er … (94%)
+1. Ein Mann im [[Rollstuhl]] hat sich auf eine [[Stelle]] als [[Buchhalter]] [[beworben]]. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur [[deshalb]] nicht, weil er … (94%)
 	- [x] im Rollstuhl sitzt.
 
 
 ---
 Synonyme: [[daher]], [[darum]], [[aus diesem Grund]], [[infolgedessen]], [[folglich]]
-Antonyme: [[deswegen]], [[trotzdem]], [[obwohl]], [[dagegen]]
+[[deswegen]],
+Antonyme: [[trotzdem]], [[obwohl]], [[dagegen]]
 
 ---
 Übersetzung: therefore, that's why, for that reason
@@ -33,3 +36,4 @@ Morpheme:
 
 , [[sterben]], [[bald]], [[CONNECTOR]], [[dadurch]], [[somit]], [[hierfür]], [[Anki]]
 
+, [[1 Präpositionen Übungen]]

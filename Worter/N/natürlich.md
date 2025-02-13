@@ -39,4 +39,4 @@ Tags:
 
 ---
 Morphems:
-[[natur]][[lich]], [[lackiertes]], [[freilich]], [[digen]], [[gewachsene]]
+[[natur]][[lich]], [[lackiertes]], [[freilich]], [[digen]], [[gewachsene]], [[spontanen]]

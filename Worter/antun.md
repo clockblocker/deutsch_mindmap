@@ -27,4 +27,4 @@ PI: [[antuend]], PII: [[angetan]], Zu+inf: [[anzutun]]
 [[antun]] - [[an]] = [[tun]] / to do to, to inflict
 
 ---
-[[Antuerei]], [[Tat]], [[Handlung]], [[Schaden]], [[Verletzung]], [[absichtlich]], [[unabsichtlich]]
+[[Antuerei]], [[Tat]], [[Handlung]], [[Schaden]], [[Verletzung]], [[absichtlich]], [[unabsichtlich]], [[Versehen]]

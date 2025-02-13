@@ -36,4 +36,4 @@ Partizip I: [[erkennend]], Partizip II: [[erkannt]]
 
 
 [[spüren]], [[bemerken]]
-, [[ausmachen]], [[merken]], [[begreifen]], [[Anki]]
+, [[ausmachen]], [[merken]], [[begreifen]], [[Anki]], [[Erkenntnis]]

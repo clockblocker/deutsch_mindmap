@@ -1,56 +1,29 @@
-💪 [[können]]  
-[[konnte]]  
-haben [[gekonnt]]
+😤 [[können]], [ˈkœnən] | [[konnte]], [[konnten]], [[gekonnt]]
 
 ---
 
 ---
-
-**Synonyme:**
-
-- [[vermögen]], [[fähig sein]], [[imstande sein]]
-
----
-
-**Beispiele:**
-
-- Ich [[kann]] Deutsch sprechen.
-- Du [[kannst]] gut kochen.
-- Er [[kann]] schwimmen.
-- Es [[kann]] fliegen.
-- Sie [[kann]] singen.
-- Wir [[können]] helfen.
-- Ihr [[könnt]] spielen.
-- Sie [[können]] tanzen.
+= [[imstande sein]],  [[mögen]] , [[imstande sein zu]]  
+≈ [[erlauben]], [[dürfen]], [[fähig sein]], [[etwas tun]]
+≠ [[müssen]], [[nicht können]], [[unmöglich]]
 
 ---
-
-**Übersetzung**:
-to be able to, can
+to be able, can, may
 
 ---
- #Verb  #Modalverb
+[[kön]]|[[nen]]
 
 ---
+ich: [[kann]], [[konnte]], [[konnte]], [[könne]], [[könnte]]
+du: [[kannst]], [[konntest]], [[konntest]], [[könnest]], [[könntest]]
+er/sie/es: [[kann]], [[konnte]], [[konnte]], [[könne]], [[könnte]]
+wir: [[können]], [[konnten]], [[konnten]], [[können]], [[könnten]]
+ihr: [[könnt]], [[konntet]], [[konntet]], [[könnt]], [[könntet]]
 
-**Präteritum:**
+PI: [[könnend]], PII: [[gekonnt]], Zu+inf: [[können]]
 
-- Ich [[konnte]] Deutsch sprechen.
-- Du [[konntest]] gut kochen.
-- Er [[konnte]] schwimmen.
-- Es [[konnte]] fliegen.
-- Sie [[konnte]] singen.
-- Wir [[konnten]] helfen.
-- Ihr [[konntet]] spielen.
-- Sie [[konnten]] tanzen.
 
 ---
+[[könnte]], [[unbedingt]], [[unmöglich]], [[vermögend]], [[Vermögen]]
 
-**Imperativ:**
-
-- (Imperative forms are not used with modal verbs)
-
----
-
-**Morphems of only infinitive:**  
-- [[könn]][[en]], [[sollen]], [[s1 e1]], [[müssen]], [[Hilfsverb]]
+, [[Talent]]

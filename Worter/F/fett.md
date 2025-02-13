@@ -7,6 +7,9 @@ nicht [[dünn]]
 *Riefen: „Krieg!“, und wollten Macht*  
 *Mann, wer hätte das gedacht?
 
+[[Keine Lust.md#^5|(q)]] *Hab keine Lust, mich zu [[wiegen]]*  
+*Hab keine Lust, im [[Fett]] zu liegen* ^5
+
 ---
 Synonyme: [[dick]], [[adipös]], [[mollig]], [[beleibt]], [[massiv]]
 Antonyme: [[dünn]], [[mager]], [[schlank]], [[gertenschlank]]

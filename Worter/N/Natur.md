@@ -1,1 +1,1 @@
-, [[Umwelt]], [[Naturschutz]]
+, [[Umwelt]], [[Naturschutz]], [[natürlich]]

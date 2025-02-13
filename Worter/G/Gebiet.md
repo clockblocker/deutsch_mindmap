@@ -4,6 +4,8 @@ die [[Gebiete]]
 ---
 mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
 
+"Nach meiner langen [[Erfahrung]] [[auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 
+
 59. Vor wie vielen Jahren gab es erstmals eine [[jüdische]] [[Gemeinde]] auf dem [[Gebiet]] des [[heutigen]] Deutschlands? (100%)
 	- [x] vor etwa 1700 Jahren
 
@@ -37,4 +39,4 @@ D: dem [[Gebiet]], den [[Gebieten]]
 [[gebieten]], [[gebieterisch]], [[Gebietsreform]], [[Gebietsabtretung]], [[Gebietskörperschaft]]
 
 , [[Landschaft]], [[Bereich]], [[Branche]], [[fach]]
-, [[Sektor]], [[Auflistung]], [[enthalten]]
+, [[Sektor]], [[Auflistung]], [[enthalten]], [[Geburtsort]], [[1 Präpositionen Übungen]]

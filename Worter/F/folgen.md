@@ -44,6 +44,6 @@ Morpheme: [[fol]][[g]][[en]]
 | Ihr       | [[folgt]]            | [[folgtet]]           | [[folgt]]         | [[folget]]             | [[folgtet]]             |
 | Sie       | [[folgen]]           | [[folgten]]           | [[folgen Sie]]    | [[folgen]]             | [[folgten]]             |
 
-Partizip I: [[folgend]], Partizip II: [[gefolgt]]
+Partizip I: [[folgenden]], Partizip II: [[gefolgt]]
 
-, [[mithalten]], [[hinterherlaufen]], [[führen]], [[leiten]], [[folgenden]], [[Auswirkungen]]
+, [[mithalten]], [[hinterherlaufen]], [[führen]], [[leiten]], [[folgend]], [[Auswirkungen]]

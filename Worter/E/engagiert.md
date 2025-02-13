@@ -1,1 +1,1 @@
-, [[faul]], [[tätig]]
+, [[faul]], [[tätig]], [[lustlos]]

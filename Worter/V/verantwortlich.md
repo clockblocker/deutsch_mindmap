@@ -2,11 +2,13 @@
 nicht [[unverantwortlich]]
 
 ---
-291. Warum muss man in Deutschland bei der [[Steuererklärung]] [[aufschreiben]], ob man zu einer Kirche gehört oder nicht? Weil … (97%)
+[[BEI MAISCHBERGER.md#^1|(q)]] [[Baerbock]] macht russische [[Einflussnahme]] für ihre [[Wahlniederlage]] als Kanzlerkandidatin [[verantwortlich]] ^1
+
+1. Warum muss man in Deutschland bei der [[Steuererklärung]] [[aufschreiben]], ob man zu einer Kirche gehört oder nicht? Weil … (97%)
 	- [x] es eine [[Kirchensteuer]] gibt, die an die Einkommen- und [[Lohnsteuer]] [[geknüpft]] ist.
 	- [ ] die Kirche für die [[Steuererklärung]] [[verantwortlich]] ist.
 
-249. Wer ist in Deutschland [[hauptsächlich]] [[verantwortlich]] für die [[Kindererziehung]]? (97%)
+2. Wer ist in Deutschland [[hauptsächlich]] [[verantwortlich]] für die [[Kindererziehung]]? (97%)
 	- [ ] der Staat
 	- [x] die Eltern
 
@@ -34,3 +36,4 @@ P: [[verantwortlichen]], [[verantwortlicheren]], [[verantwortlichsten]]
 [[Verantwortung]], [[verantworten]], [[Verantwortlichkeit]], [[Verantwortungsbewusstsein]], [[unverantwortlich]]
 
 , [[zuständig]], [[Verantwortung]]
+, [[Wahlniederlage]]

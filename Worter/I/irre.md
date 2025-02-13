@@ -23,4 +23,4 @@ Einzigartige mögliche Formen:
 
 
 
-, [[s1 e1]]
+, [[s1 e1]], [[Verrückte]]

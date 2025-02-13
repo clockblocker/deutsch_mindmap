@@ -3,6 +3,8 @@
 ---
 Musik [[verbindet]] die Menschen.
 
+[[1 Präpositionen Übungen.md#^1|(q)]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1
+
 Normalerweise [[verbindet]] man das Herz mit Liebe und Romantik. Man kann zum Beispiel sein Herz an jemanden verlieren oder jemandem das Herz brechen. Aber was bedeutet es, wenn einem das Herz in die Hose [[rutscht]]?
 
 Aang ist der Avatar. Er ist die einzige Chance für diese Welt. Ihr habt ihn aus guten Gründen gefunden. Und jetzt ist euer Schicksal mit dem seinen [[verbunden]].

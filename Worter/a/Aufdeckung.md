@@ -1,1 +1,1 @@
-, [[aufdecken]]
+, [[aufdecken]], [[unbedeckt]]

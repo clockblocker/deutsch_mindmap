@@ -24,4 +24,4 @@ G: des [[Studiums]], der [[Studien]]
 D: dem [[Studium]], den [[Studien]]  
 
 ---
-[[studieren]], [[Studiengang]], [[Studienjahr]], [[Student]], [[studienorientiert]]
+[[studieren]], [[Studiengang]], [[Studienjahr]], [[Student]], [[studienorientiert]], [[Erlernung]]

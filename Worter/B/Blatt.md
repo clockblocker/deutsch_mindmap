@@ -1,1 +1,1 @@
-, [[Seite]], [[Heft]], [[Frucht]]
+, [[Seite]], [[Heft]], [[Frucht]], [[Zettel]]

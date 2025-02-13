@@ -33,4 +33,4 @@ Partizip I: [[abnehmend]], Partizip II: [[abgenommen]]
 
 
 
-, [[schwinden]], [[anheften]]
+, [[schwinden]], [[anheften]], [[entfernen]]

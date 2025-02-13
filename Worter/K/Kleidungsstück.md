@@ -1,1 +1,1 @@
-, [[Minirock]]
+, [[Minirock]], [[Kleidung]]

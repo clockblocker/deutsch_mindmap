@@ -10,7 +10,7 @@ Linda ist gerade [[aufgestanden]] und hat keine Lust, sich einen Kaffee-[[Vortra
 
 Paul wirft einen Blick auf Lindas Schuhe: „Hast du die [[Wettervorhersage]] für heute nicht gehört? Es soll regnen!“ „Ich habe aber gerne [[nasse]] Füße“, [[erwidert]] Linda nun [[offensichtlich]] genervt.  
 
-„Was ist mir dir los, Linda, hast du schlecht geschlafen?“, fragt Paul. „Nein. Ich habe [[hervorragend]] geschlafen. Nur du bringst mich mit deiner [[Besserwisserei 1]] auf die Palme
+„Was ist mir dir los, Linda, hast du schlecht geschlafen?“, fragt Paul. „Nein. Ich habe [[hervorragend]] geschlafen. Nur du bringst mich mit deiner [[Besserwisserei]] auf die Palme
 
 Bevor Paul etwas sagen kann, hat Linda die [[Haustür]] mit einem großen [[Knall]] hinter sich [[zugeworfen]].
 

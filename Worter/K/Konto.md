@@ -2,7 +2,9 @@
 die [[Konten]]
 
 ---
-Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein Geschäft läuft zurzeit nicht gut und sein Konto ist fast leer. 
+Google-[[Konto]] [[verwalten]]
+
+Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein Geschäft läuft zurzeit nicht gut und sein [[Konto]] ist fast leer. 
 
 ---
 Synonyme:

@@ -60,4 +60,4 @@ to organize, to arrange
 ---
 
 **Morphems of only infinitive:**  
-- [[ordn]][[en]], [[Ordnungsamt]]
+- [[ordn]][[en]], [[Ordnungsamt]], [[einpacken]]

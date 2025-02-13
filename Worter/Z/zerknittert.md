@@ -1,1 +1,2 @@
 , [[ungebügelt]]
+😖 [[zerknittern]] | 😖 🟢 das [[Zerknitterte]]

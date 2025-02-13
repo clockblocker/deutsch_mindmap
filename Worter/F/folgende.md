@@ -1,1 +1,1 @@
-, [[zweit]], [[vorherigen]], [[folgenden]], [[übernächste]]
+, [[zweit]], [[vorherigen]], [[folgend]], [[übernächste]]

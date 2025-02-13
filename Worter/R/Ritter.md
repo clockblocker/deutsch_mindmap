@@ -1,1 +1,1 @@
-, [[Metallrüstung]]
+, [[Metallrüstung]], [[Tannhäuser]]

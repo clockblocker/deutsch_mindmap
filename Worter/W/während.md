@@ -1,11 +1,13 @@
 🔗 während, [ˈveːʀʌnt]
 
 ---
+[[16 Plusquamperfekt#^26|(q)]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon [[während]] seines Lebens und auch nach seinem Tod hatte er großen [[Erfolg]]. ^26
+
 *Sokka ist es [[während]] [[dessen]] [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu*
 
 _Im Dorf ist es still, [[während]] Sokka auf das Schiff wartet. Als es kommt [[einbrechen|bricht]] die Mauer und ein [[Turm]] ein._
 
-[[während]] der Spleilz, esse ich.
+[[während]] der [[Spleilz]], esse ich.
 
 Wie oft haben Sie schon auf den Fahrstuhl gewartet und [[während]] des Wartens ungefähr siebenmal auf den Fahrstuhlknopf gedrückt?
 
@@ -35,4 +37,4 @@ Morpheme:
 [[während]]
 
 ---
-#Präposition, [[s1 e1]], [[warten]], [[innerhalb]], [[Conjunctions]], [[CONNECTOR]], [[Währenddessen]], [[wobei]], [[15 genetiv]], [[Gen Prap]]
+#Präposition, [[s1 e1]], [[warten]], [[innerhalb]], [[Conjunctions]], [[CONNECTOR]], [[Währenddessen]], [[wobei]], [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]

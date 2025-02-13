@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[schlampig]], [[schlampige]], [[schlampiges]], [[schlampigen]], [[schlampigem]], [[schlampiger]]
 [[schlampigere]], [[schlampigeres]], [[schlampigeren]], [[schlampigerer]], [[schlampigeres]]
-[[schlampigsten]], [[schlampigste]], [[schlampigstes]], [[schlampigsten]], [[schlampigstem]], [[schlampigster]], [[ordentlich]]
+[[schlampigsten]], [[schlampigste]], [[schlampigstes]], [[schlampigsten]], [[schlampigstem]], [[schlampigster]], [[ordentlich]], [[sorgsam]]

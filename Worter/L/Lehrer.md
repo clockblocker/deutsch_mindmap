@@ -1,1 +1,1 @@
-, [[Erzieher]], [[Dozent]]
+, [[Erzieher]], [[Dozent]], [[lehren]]

@@ -1,1 +1,1 @@
-, [[einsam]], [[gehorsam]], [[gemeinsam]], [[aufmerksam]]
+, [[einsam]], [[gehorsam]], [[gemeinsam]], [[aufmerksam]], [[Sammler]], [[sorgsam]]

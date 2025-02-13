@@ -28,4 +28,4 @@ Plural: [[sachlichen]], [[sachlicheren]], [[sachlichsten]]
 
 [[Sachlichkeit]], [[Sachlichkeit]], [[versachlichen]], [[Versachlichung]]
 
-[[Sache]],
+[[Sache]],, [[weltfremd]]

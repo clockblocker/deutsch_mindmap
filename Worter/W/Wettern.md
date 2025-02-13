@@ -1,1 +1,1 @@
-, [[Wettervorhersage]], [[Wett]]
+, [[Wettervorhersage]], [[Wett]], [[Wetter]]

@@ -65,3 +65,29 @@ D: dem [[verhalten]], den [[verhalten]]
 ---
 [[verhalten]], [[Verhaltensmuster]], [[Verhaltensweise]], [[verhaltensneutral]], [[verhaltensnah]]
 
+🟢🎭 die [[Aufführung]], [aʊ̯fˈfyːʁʊŋ]
+die [[Aufführungen]]
+
+
+---
+
+
+---
+= [[Vorführung]], [[Darstellung]], [[Inszenierung]]
+≈ [[Darbietung]], [[Show]], [[Spiel]], [[Konzert]]
+≠ [[Probe]], [[Training]], [[Übung]], [[Einrichtung]]
+
+---
+performance, show, play
+
+---
+[[auf]]|[[führ]]|[[ung]]
+
+---
+N: die [[Aufführung]], die [[Aufführungen]]  
+A: die [[Aufführung]], die [[Aufführungen]]  
+G: der [[Aufführung]], der [[Aufführungen]]  
+D: der [[Aufführung]], den [[Aufführungen]]  
+
+---
+[[aufführen]], [[Aufführungsrecht]], [[Aufführungsdatum]], [[1 Präpositionen Übungen]]

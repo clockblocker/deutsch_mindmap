@@ -4,6 +4,10 @@ die [[Vergleiche]]
 ---
 Die Schüler sprechen über den [[Vergleich]] von Männern und Frauen.
 
+📌 **[[vergleich]]:**
+• **“Ich versuche, jeden Tag Sport zu machen.”** 
+• **“Ich mache Sport, um gesund zu bleiben.”**
+
 
 ---
 = [[Gegenüberstellung]], [[Analyse]], [[Prüfung]]

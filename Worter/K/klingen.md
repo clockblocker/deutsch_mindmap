@@ -1,6 +1,6 @@
 🔔 [[klingen]] + Dat/Akk, [ˈklɪŋ̍ən]
 [[klang]]
-haben [[geklungen]]
+haben [[geklingelt]]
 
 ---
 SAM: [[Klingt]] klasse!  

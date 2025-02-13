@@ -1,1 +1,1 @@
-, [[derselben]], [[dieselbe]], [[weder]], [[fördern]], [[vorderen]], [[Niederlage]], [[fordern]], [[Richtungsänderung]], [[Schleuder]]
+, [[derselben]], [[dieselbe]], [[weder]], [[fördern]], [[vorderen]], [[Niederlage]], [[fordern]], [[Richtungsänderung]], [[Schleuder]], [[Wahlniederlage]]

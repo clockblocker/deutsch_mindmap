@@ -1,1 +1,1 @@
-, [[unterschiedlich]], [[Einheitliche]], [[Kriegsbemalung]], [[verschieden]]
+, [[unterschiedlich]], [[Einheitliche]], [[Kriegsbemalung]], [[verschieden]], [[Bekleidung]]

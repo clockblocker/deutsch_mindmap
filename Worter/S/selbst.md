@@ -27,4 +27,4 @@ Antonyme:
 
 ---
 #Adverb #Partikel
-, [[löffeln]], [[fressen]], [[selbständig]], [[Selbstjustiz]], [[seinerseits]], [[s1 e1]]
+, [[löffeln]], [[fressen]], [[selbständig]], [[Selbstjustiz]], [[seinerseits]], [[s1 e1]], [[Selbstmord]]

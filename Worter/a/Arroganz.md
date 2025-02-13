@@ -1,1 +1,1 @@
-, [[Besserwisserei 1]], [[Demut]]
+, [[Besserwisserei]], [[Demut]]

@@ -35,4 +35,4 @@ Tags:
 
 ---
 Morphems:
-[[schlapp]], [[matt]]
+[[schlapp]], [[matt]], [[lustlos]]

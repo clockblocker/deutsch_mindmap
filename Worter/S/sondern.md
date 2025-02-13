@@ -1,6 +1,6 @@
 Nicht er mag Fußball, [[sondern]] seine Schwester.
 
-[[16 Plusquamperfekt.md#^13|(q)]] Also gaben ihr die Freunde kein Geld, [[sondern]] luden sie manchmal zum Essen oder auf Partys ein. ^13
+[[16 Plusquamperfekt#^13|(q)]] Also gaben ihr die Freunde kein Geld, [[sondern]] luden sie manchmal zum Essen oder auf Partys ein. ^13
 
 Vor langer, langer Zeit lebte die Katze nicht in den Häusern der Menschen, [[sondern]] wild im Busch.
 

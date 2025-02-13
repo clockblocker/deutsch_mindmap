@@ -1,1 +1,1 @@
-, [[Heft]], [[Tagebuch]]
+, [[Heft]], [[Tagebuch]], [[Taschenbuch]]

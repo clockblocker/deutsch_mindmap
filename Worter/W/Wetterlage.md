@@ -1,1 +1,1 @@
-[[Wetterbericht]]
+[[Wetterbericht]], [[Wetter]]

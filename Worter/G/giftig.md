@@ -34,4 +34,4 @@ Tags:
 ---
 
 Morphems:
-[[gift]][[ig]]
+[[gift]][[ig]], [[Worter/essbar]]

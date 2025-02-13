@@ -26,4 +26,4 @@ Häufige Verwendungen:
 
 ---
 #Präfix #Wortbildung
-, [[Rückwand]], [[berücksichtigen]], [[Rückzug]], [[rücken]]
+, [[Rückwand]], [[berücksichtigen]], [[Rückzug]], [[rücken]], [[Verrückte]]

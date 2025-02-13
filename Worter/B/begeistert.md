@@ -29,3 +29,4 @@ Plural: [[begeisterten]], [[begeisterteren]], [[begeistertesten]]
 [[Begeisterung]], [[begeistern]], [[begeisternd]], [[Begeisterungssturm]]
 
 , [[beeindruckt]], [[überdrüssig]], [[erfreut]]
+, [[lustlos]]

@@ -26,12 +26,10 @@ Einzigartige mögliche Formen: [[Sorge]], [[Sorgen]], [[Sorges]], [[Sorgen]], [[
 #Substantiv #Feminin, [[machen]]
 
 ---
-[[sorgen]], [ˈzɔʁɡən]
-[[sorgte]]
-hatte [[gesorgt]]
+[[sorgen]], [ˈzɔʁɡən] | [[sorgte]] | hatte [[gesorgt]]
 
 ---
-Damals [[sorgte]] der Avatar für Harmonie zwischen den Wasserstämmen, dem Erdkönigreich, der Feuernation und den Luftnomaden. 
+Damals [[sorgte]] der Avatar [[für]] Harmonie zwischen den Wasserstämmen, dem Erdkönigreich, der Feuernation und den Luftnomaden. 
 
 171. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
 	- [x] [[richtet]] sich nach [[Angebot]] und [[Nachfrage]], aber der Staat [[sorgt]] für einen sozialen [[Ausgleich]].
@@ -64,4 +62,4 @@ Partizip I: [[sorgend]], Partizip II: [[gesorgt]]
 
 
 
-, [[genießen]], [[zumindest]], [[Redewendung]], [[behaupten]], [[kümmern]]
+, [[genießen]], [[zumindest]], [[Redewendung]], [[behaupten]], [[kümmern]], [[sorgsam]]

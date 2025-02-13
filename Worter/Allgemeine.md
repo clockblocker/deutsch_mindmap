@@ -4,6 +4,7 @@ die [[Allgemeinen]]
 ---
 Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
+[[nackt.md#^3|(q)]]     ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]] ^3
 
 120. Das Wahlsystem in Deutschland ist ein … (84%)
 	- [ ] Zensuswahlrecht.

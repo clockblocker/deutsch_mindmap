@@ -25,4 +25,4 @@ Einzigartige mögliche Formen: [[Tätigkeit]], [[Tätigkeiten]], [[Tätigkeit]],
 ---
 #Substantiv #Feminin
 
-, [[Bewegung]], [[Arbeit]]
+, [[Bewegung]], [[Arbeit]], [[Erlebnis]]

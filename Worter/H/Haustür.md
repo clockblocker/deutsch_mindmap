@@ -1,1 +1,1 @@
-, [[Haustür]], [[zugeworfen]], [[Haus]]
+, [[Haustür]], [[zugeworfen]], [[Haus]], [[Tür]]

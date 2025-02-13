@@ -1,1 +1,1 @@
-, [[bequem]], [[garstig]]
+, [[bequem]], [[garstig]], [[hübsch]]

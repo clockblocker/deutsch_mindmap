@@ -26,4 +26,4 @@ Genitive: des [[Außen]]
 Dative: dem [[Außen]]
 
 ---
-[[Außen]], [[Außenseite]], [[Außenminister]], [[Außenpolitik]], [[Außenhandel]], [[Außenbereich]], [[Außenbeziehungen]]
+[[Außen]], [[Außenseite]], [[Außenminister]], [[Außenpolitik]], [[Außenhandel]], [[Außenbereich]], [[Außenbeziehungen]], [[Außenministerin]]

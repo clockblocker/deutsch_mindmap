@@ -1,1 +1,1 @@
-[[lernen]]
+[[lernen]], [[Erlernung]]

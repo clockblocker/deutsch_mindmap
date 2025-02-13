@@ -2,10 +2,13 @@
 die [[Geheimnisse]]
 
 ---
+> [[16 Plusquamperfekt#^33|(q)]] «Die Leute lieben das [[Geheimnis]], und das ist es, warum sie meine Bilder lieben.»  ^33
+
+Die Dursleys [[besaßen]] alles, was sie wollten, doch sie hatten auch ein [[Geheimnis]], und dass es jemand [[aufdecken]] könnte, war ihre größte [[Sorge]]
+
 NIC: Sam, psst ... das ist ein [[Geheimnis]]!!  
 MARIA: Keine Sorge, dein Geheimnis ist [[sicher]] bei mir!  
 
-Die Dursleys [[besaßen]] alles, was sie wollten, doch sie hatten auch ein [[Geheimnis]], und dass es jemand [[aufdecken]] könnte, war ihre größte [[Sorge]]
 
 ---
 

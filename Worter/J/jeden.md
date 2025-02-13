@@ -1,5 +1,5 @@
 🔵 [[jeden]], [ˈjeːdn̩]
-nicht [[alle]]
+nicht [[Worter/A/Alle]]
 
 ---
 „Auf [[jeden]] Fall“, sagte Petunia mit schwacher Stimme, „gab sie nach. 

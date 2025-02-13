@@ -6,7 +6,7 @@ Positive: [[reich]]
 die [[Reichen]]
 
 ---
-[[16 Plusquamperfekt.md#^11|(q)]] [[Reiche]] und auch arme Freunde der Künstlerin wollten ihr helfen.  ^11
+[[16 Plusquamperfekt#^11|(q)]] [[Reiche]] und auch arme Freunde der Künstlerin wollten ihr helfen.  ^11
 
 ---
 = [[Vermögender]], [[Millionär]], [[Milliardär]]

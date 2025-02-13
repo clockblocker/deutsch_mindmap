@@ -4,6 +4,10 @@ nicht [[unnötig]]
 ---
 Sam - Schoko-Eisbombe! [[Das war aber nicht nötig]]!  
 
+«Wie nett von ihm. Es war doch gar nicht [[nötig]] gewesen.» [[17 zu inf#^21|(q)]]
+«[[Nötig]] nicht,» sagte ich, «aber es ist [[eben]] sehr nett.» [[17 zu inf#^22|(q)]]
+
+
 ja, deutsch ist manchmal einfach [[unnötig]] kompliziert. aber du hast das prinzip jetzt gecheckt
 
 ---

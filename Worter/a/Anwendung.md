@@ -1,1 +1,1 @@
-, [[Nutzung]], [[anwenden]], [[Verwendung]]
+, [[Nutzung]], [[anwenden]], [[Verwendung]], [[Gebrauch]]

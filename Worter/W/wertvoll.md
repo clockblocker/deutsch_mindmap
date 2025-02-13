@@ -4,6 +4,7 @@ nicht [[wertlos]]
 ---
  Als Lena abends nach Hause geht, hat sie die [[Projektleitung]] in der Tasche. Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen]] [[sammeln]], meint der Chef.
 
+[[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 
 ---
 Synonyme: [[bedeutsam]], [[kostbar]], [[wertig]], [[hochwertig]], [[wichtig]]

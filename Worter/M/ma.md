@@ -1,1 +1,1 @@
-, [[malen]], [[Kriegsbemalung]]
+, [[malen]], [[Kriegsbemalung]], [[Informationswert]]

@@ -1,9 +1,9 @@
-
 🔄 [[üblich]], [ˈʔyːblɪç] ≠ [[unüblich]]
 
 ---
 “als dank” ist eine feste [[Wendung]], die im deutschen [[üblich]] ist (wie “aus [[Dankbarkeit]]”).
 
+[[nackt.md#^3|(q)]]     ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]] ^3
 
 ---
 = [[gewöhnlich]], [[normal]], [[gängig]], [[normal]], 

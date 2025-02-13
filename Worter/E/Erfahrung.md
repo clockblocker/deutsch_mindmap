@@ -2,7 +2,11 @@
 die [[Erfahrungen]]
 
 ---
-Wir tauschen unsere [[Erfahrungen]] aus.
+[[16 Plusquamperfekt#^24|(q)]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
+
+"Nach meiner langen [[Erfahrung]] [[in]] diesem [[Bereich]] kann ich Ihnen einige Tipps geben. 
+
+"Nach meiner langen [[Erfahrung]] [[auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 
 
 Wir [[austauschen|tauschen]] unsere [[Erfahrungen]] aus.
 
@@ -37,4 +41,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[Erfahrung]], [[Erfahrung]], [[Erfahrungen]], [[Erfahrungen]], [[erfahren]], [[erfahrenen]]
+[[Erfahrung]], [[Erfahrung]], [[Erfahrungen]], [[Erfahrungen]], [[erfahren]], [[erfahrenen]], [[Erlebnis]], [[1 Präpositionen Übungen]]

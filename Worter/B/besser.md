@@ -1,1 +1,1 @@
-, [[Besserwisserei 1]], [[am besten]]
+, [[Besserwisserei]], [[am besten]]

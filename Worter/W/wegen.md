@@ -1,14 +1,7 @@
-Sie fordern den gleichen Lohn für alle.
-
-Sie fordern den gleichen Lohn für alle
-
-Heute ist es kalt und zudem gibt es Regen.
-
-Das Spiel ist heute [[besonders]] spannend.
-
-Hast du nicht eine [[gewisse]] Sache vergessen?
-
 [[wegen]] meiner Krankheit arbeite ich nicht. 
+
+b) [[Wegen]] des schlechten [[Wetters]] entschieden wir uns, die [[Wanderung]] [[abzusagen]].   [[1 Präpositionen Übungen.md#^3|(q)]]
+
 
 Wir tauschen unsere [[Erfahrungen]] aus.
 
@@ -73,4 +66,4 @@ Beispiele:
 - Ich gehe wegen des Regens nicht nach draußen.
 - Aufgrund der Krankheit konnte er nicht kommen.
 - Die Schule fiel wegen des Schnees aus.
-''', [[daß]], [[Anki]], [[15 genetiv]], [[Gen Prap]]
+''', [[daß]], [[Anki]], [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]

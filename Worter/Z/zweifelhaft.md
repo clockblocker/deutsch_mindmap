@@ -1,1 +1,1 @@
-, [[sicher]], [[offenbar]], [[verdächtig]], [[wahrscheinlich]], [[garantiert]], [[ungläubig]], [[bestimmt]]
+, [[sicher]], [[offenbar]], [[verdächtig]], [[wahrscheinlich]], [[garantiert]], [[ungläubig]], [[bestimmt]], [[zweifelt]]

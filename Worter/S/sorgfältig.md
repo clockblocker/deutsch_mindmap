@@ -1,1 +1,1 @@
-[[schlampig]], [[leichtsinnig]], [[gründlich]], [[aufmerksam]]
+[[schlampig]], [[leichtsinnig]], [[gründlich]], [[aufmerksam]], [[sorgsam]]

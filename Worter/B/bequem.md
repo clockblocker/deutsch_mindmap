@@ -3,6 +3,7 @@
 ---
  Nur meine Katze bleibt bei mir. Sie sitzt [[bequem]] auf dem [[Sessel]] und [[schläft]].
 
+ - das ([[bequemste]]) [[Sessel]]
 
 ---
 = [[gemütlich]], [[komfortabel]], [[entspannt]]

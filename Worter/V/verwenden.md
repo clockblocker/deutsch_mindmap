@@ -29,4 +29,4 @@ PI: [[verwendend]], PII: [[verwendet]], Zu+inf: [[zu verwenden]]
 [[verwenden]] - [[ver]] = [[wenden]] / to use, to apply, to employ
 
 ---
-[[Verwendung]], [[verwendbar]], [[Verwendbarkeit]], [[Anwendung]], [[Einsatz]], [[Artikelverwendung]]
+[[Verwendung]], [[verwendbar]], [[Verwendbarkeit]], [[Anwendung]], [[Einsatz]], [[Artikelverwendung]], [[verbrauchen]]

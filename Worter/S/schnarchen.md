@@ -31,4 +31,4 @@ Morpheme: [[schnar]][[ch]][[en]]
 
 Partizip I: [[schnarchend]], Partizip II: [[geschnarcht]]
 
-, [[verschlafen]]
+, [[verschlafen]], [[träumen]]

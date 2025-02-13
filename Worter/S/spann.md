@@ -1,2 +1,2 @@
 🕸️ [[spinnen]]
-, [[spannen]], [[anspannen]], [[spannend]]
+, [[spannen]], [[anspannen]], [[spannend]], [[entspannen]]

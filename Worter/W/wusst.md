@@ -1,1 +1,1 @@
-, [[bewusst]]
+, [[bewusst]], [[Verantwortungsbewusstsein]]

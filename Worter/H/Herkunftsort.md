@@ -1,1 +1,1 @@
-, [[Heimatstadt]]
+, [[Heimatstadt]], [[Geburtsort]]

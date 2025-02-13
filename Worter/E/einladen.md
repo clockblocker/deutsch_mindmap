@@ -36,4 +36,4 @@ Morpheme: [[ein]][[lad]][[en]]
 
 Partizip I: [[einladend]], Partizip II: [[eingeladen]]
 
-[[einladen]] - [[ein]] = [[laden]], [[verscheuchen]], [[ablehnen]]
+[[einladen]] - [[ein]] = [[laden]], [[verscheuchen]], [[ablehnen]], [[einpacken]]

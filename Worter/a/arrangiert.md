@@ -1,1 +1,1 @@
-🎼 [[arrangieren]] + Akk, [aʁaŋˈʒiːʁən]
+🎼 [[arrangieren]] + Akk, [aʁaŋˈʒiːʁən], [[spontanen]]

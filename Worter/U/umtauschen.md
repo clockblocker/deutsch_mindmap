@@ -29,4 +29,4 @@ Zu+infinitive: [[umzutauschen]]
 [[umtauschen]] - [[um]] = [[tauschen]]
 
 ---
-[[Umtausch]], [[Umtauschfrist]], [[Umtauschrecht]], [[Umtauschbörse]], [[Umtauschkurs]]
+[[Umtausch]], [[Umtauschfrist]], [[Umtauschrecht]], [[Umtauschbörse]], [[Umtauschkurs]], [[wiederschicken]]

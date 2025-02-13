@@ -1,1 +1,1 @@
-[[wehtun]], [[mühen]]
+[[wehtun]], [[mühen]], [[anstrengen]]

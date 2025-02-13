@@ -22,4 +22,4 @@ Morphems:
 [[Mord]]
 
 ---
-#Substantiv #Maskulin, [[betreffen]]
+#Substantiv #Maskulin, [[betreffen]], [[Selbstmord]]

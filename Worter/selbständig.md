@@ -32,4 +32,4 @@ N: [[selbständiges]], [[selbständigeres]], [[selbständigstes]]
 P: [[selbständigen]], [[selbständigeren]], [[selbständigsten]]  
 
 ---
-[[Selbständigkeit]], [[selbstständig]], [[Selbstständigkeit]], [[ständig]], [[Unabhängigkeit]], [[Autonomie]]
+[[Selbständigkeit]], [[selbstständig]], [[Selbstständigkeit]], [[ständig]], [[Unabhängigkeit]], [[Autonomie]], [[Einflussnahme]]

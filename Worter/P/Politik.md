@@ -1,1 +1,1 @@
-, [[Politikunterricht]], [[politisch]], [[Verteidigungspolitik]]
+, [[Politikunterricht]], [[politisch]], [[Verteidigungspolitik]], [[Politisierung]]

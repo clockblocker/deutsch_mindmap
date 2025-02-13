@@ -4,6 +4,8 @@
 ---
 In einem Monat werden sie das Land [[verlassen]].
 
+[[17 zu inf#^2|(q)]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2
+
 Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
 
 *Ich will dich nie [[verlassen]] (du weinst, du weinst, du weinst, du weinst)*  

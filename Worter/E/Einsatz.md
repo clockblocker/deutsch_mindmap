@@ -1,1 +1,1 @@
-, [[Nutzung]], [[Einsatzes]], [[einsetzen]], [[Wett]], [[Bemühung]], [[Verwendung]]
+, [[Nutzung]], [[Einsatzes]], [[einsetzen]], [[Wett]], [[Bemühung]], [[Verwendung]], [[Gebrauch]]

@@ -27,4 +27,4 @@ G: des [[Außenministers]], der [[Außenminister]]
 D: dem [[Außenminister]], den [[Außenministern]]  
 
 ---
-[[außenpolitisch]], [[Außenpolitik]], [[ministerial]], [[diplomatisch]]
+[[außenpolitisch]], [[Außenpolitik]], [[ministerial]], [[diplomatisch]], [[Außenministerin]]

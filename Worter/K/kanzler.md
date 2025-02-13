@@ -1,1 +1,1 @@
-, [[Bundeskanzler]], [[Bundeskanzleramt]]
+, [[Bundeskanzler]], [[Bundeskanzleramt]], [[Bundeskanzlerin]]

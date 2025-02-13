@@ -2,7 +2,7 @@
 die [[Auflistungen]]
 
 ---
-01. Welche der [[folgenden]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
+01. Welche der [[folgend]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
 
 
 ---

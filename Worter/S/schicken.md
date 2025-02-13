@@ -13,10 +13,11 @@ Darum [[schickte]] ein General
 *Sokka ist es während dessen [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem [[Angriffsgeschrei]] auf Zuko zu. Dieser duckt sich [[geschickt]] und Sokka fliegt über ihn [[hinweg]].*
 
 ---
-[[verschicken]] - [[ver]] = [[schicken]]
-[[wegschicken]] - [[weg]] = [[schicken]]
-[[wiederschicken]] - [[wieder]] = [[schicken]]
-[[hinschicken]] - [[hin]] = [[schicken]]
+[[verschicken]] - [[ver]] = [[schicken]] / to dispatch, to send out, to ship
+[[wegschicken]] - [[weg]] = [[schicken]] / to send away, to dismiss
+[[wiederschicken]] - [[wieder]] = [[schicken]] / to send back, to return
+[[hinschicken]] - [[hin]] = [[schicken]] / to send to, to dispatch
+[[abschicken]] - [[ab]] = [[schicken]] / to send, to dispatch, to mail, to ship
 
 
 

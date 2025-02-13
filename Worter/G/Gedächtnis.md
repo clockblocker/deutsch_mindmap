@@ -1,1 +1,1 @@
-, [[Erinnerung]], [[behalten]], [[Gedenktag]]
+, [[Erinnerung]], [[behalten]], [[Gedenktag]], [[auswendig]]

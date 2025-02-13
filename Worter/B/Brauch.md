@@ -28,3 +28,4 @@ Einzigartige mögliche Formen: [[Brauchs]], [[Brauch]], [[Bräuche]], [[Bräuche
 ---
 #Substantiv #Maskulin
 
+, [[verbrauchen]], [[Gebrauch]]

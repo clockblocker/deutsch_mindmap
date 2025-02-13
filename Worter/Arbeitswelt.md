@@ -24,4 +24,4 @@ G: der [[Arbeitswelt]], der [[Arbeitswelten]]
 D: der [[Arbeitswelt]], den [[Arbeitswelten]]  
 
 ---
-[[arbeiten]], [[Arbeitsplatz]], [[Arbeitgeber]], [[Arbeitnehmer]], [[weltlich]]
+[[arbeiten]], [[Arbeitsplatz]], [[Arbeitgeber]], [[Arbeitnehmer]], [[weltlich]], [[Arbeitsbedingungen]]

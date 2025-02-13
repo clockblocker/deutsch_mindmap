@@ -2,7 +2,14 @@
 die [[Zustände]]
 
 ---
-Seit gestern ist Katja aber ein kleiner Star. Sie hat einen Artikel über den [[Zustand]] der [[Bonner]] Schulen geschrieben. Sie [[kritisiert]] darin die [[Stadtverwaltung]], weil sie nicht genug Geld in die [[Sanierung]] der [[Schulgebäude]] stecke.  [[Den Nagel auf den Kopf treffen.md#^2|(Quelle: Den Nagel auf den Kopf treffen)]] 
+Er war etwas [[zerknittert]] - [[schließlich]] hatte er zwölf Jahre im Koffer gelegen - aber sonst in gutem [[Zustand]]. [[17 zu inf#^15|(q)]]
+
+Seit gestern ist Katja aber ein kleiner Star. Sie hat einen Artikel über den [[Zustand]] der [[Bonner]] Schulen geschrieben. [[Den Nagel auf den Kopf treffen.md#^2|(Quelle: Den Nagel auf den Kopf treffen)]] 
+
+[[16 Plusquamperfekt#^21|(q)]] Der [[Zustand]] ihrer Wohnung war so schrecklich, dass man unglaubliche Fotos machen konnte: Tausend leere Flaschen, kaputte Bilder, Plastikklumpen an den Wänden, Müll in den [[Zimmerecken]]. ^21
+
+*Dativ → wenn es um einen [[Zustand]] / Ort geht (Wo?)*
+*Akkusativ → wenn es um eine Bewegung (Wohin?) geht*
 
 ---
 = [[Bedingung]], [[Lage]], [[Situation]]

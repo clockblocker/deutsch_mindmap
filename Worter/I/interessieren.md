@@ -3,7 +3,9 @@
 haben [[interessiert]]
 
 ---
-Ich [[interessiere]] mich für music
+Ich [[interessiere]] mich [[für]] music
+
+Ich [[interessiere]] mich [[für]] moderne Kunst, besonders für abstrakte Malerei.   [[1 Präpositionen Übungen.md#^2|(q)]]
 
 
 ---

@@ -1,1 +1,1 @@
-, [[berichten]], [[melden]], [[anzeigen]], [[Berufsinformationszentrum]], [[beraten]], [[Benachrichtigung]], [[hinweisen]], [[Verbraucherzentrale]]
+, [[berichten]], [[melden]], [[anzeigen]], [[Berufsinformationszentrum]], [[beraten]], [[Benachrichtigung]], [[hinweisen]], [[Verbraucherzentrale]], [[Informationswert]]

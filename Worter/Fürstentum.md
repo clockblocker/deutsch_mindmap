@@ -2,10 +2,7 @@
 die [[Fürstentümer]]
 
 ---
-
-280. Was für eine Staatsform hat Deutschland? (95%)
-	- [ ] Monarchie
-	- [ ] Diktatur
+1. Was für eine Staatsform hat Deutschland? (95%)
 	- [x] Republik
 	- [ ] [[Fürstentum]]
 

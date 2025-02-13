@@ -5,8 +5,8 @@ Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nut
 
 
 ---
-= [[ganz]], [[vollständig]], [[komplett]], [[jeden]], [[alle]]
-≈ [[gesamt]], [[alle]], [[jeder]], [[insgesamt]]
+= [[ganz]], [[vollständig]], [[komplett]], [[jeden]], [[Worter/A/Alle]]
+≈ [[gesamt]], [[Worter/A/Alle]], [[jeder]], [[insgesamt]]
 ≠ [[teilweise]], [[unvollständig]], [[einzeln]]
 
 ---

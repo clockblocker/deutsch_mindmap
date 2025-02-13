@@ -1,1 +1,1 @@
-, [[durchschnittliches]], [[unscheinbar]]
+, [[durchschnittliches]], [[unscheinbar]], [[hervorragend]]

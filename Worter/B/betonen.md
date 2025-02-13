@@ -2,7 +2,7 @@
 
 ---
 • **‘weil’** [[betont]] die **kausale [[Begründung]]** stärker → **Antwort auf ‘warum?’**
-• **‘da’** klingt etwas neutraler und wird oft für **[[bekannte]] Gründe** benutzt → **mehr [[schriftsprachlich]]**
+• **‘da’** klingt etwas neutraler und wird oft für **[[Bekannte]] Gründe** benutzt → **mehr [[schriftsprachlich]]**
 
 ---
 = [[hervorheben]], [[akzentuieren]], [[unterstreichen]]
@@ -32,3 +32,4 @@ PI: [[betonend]], PII: [[betont]], Zu+inf: [[zu betonen]]
 [[Betonung]], [[betonend]], [[Ton]], [[tonisch]], [[Akzent]]
 
 , [[anreißen]], [[hervorheben]]
+, [[hervorragend]]

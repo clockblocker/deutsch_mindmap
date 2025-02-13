@@ -1,1 +1,1 @@
-, [[anlegen]], [[Gerät]], [[Schulgebäude]]
+, [[anlegen]], [[Gerät]], [[Schulgebäude]], [[Talent]]

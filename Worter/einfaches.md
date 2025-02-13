@@ -1,0 +1,1 @@
+🤔 [[einfach]] | 🤔 🟢 das [[Einfache]]

@@ -4,6 +4,8 @@ nicht [[mehrere]]
 ---
 Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas Bericht nicht. „Die [[Seitenzahlen]] sollten immer [[unten]] rechts stehen. Bitte achten Sie in Zukunft [[darauf]]!“, war ihr [[einziger]] Kommentar zu dem Bericht. 
 
+Bilde einen [[einzigen]] komplexen Satz mit einer Präposition aus den [[folgend]] [[einfachen]] Sätzen:
+
 Ich bin das [[einzige]] Mädchen beim Fußball.
 
 ---

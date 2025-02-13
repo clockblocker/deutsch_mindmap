@@ -1,3 +1,3 @@
 [[bei]] [[ihnen]] ist ein Amerikaner zu Besuch.  
 
-[[Dativ pronomen]]
+[[Dativ pronomen]], [[Pronomen]]

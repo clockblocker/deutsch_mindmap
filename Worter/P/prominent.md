@@ -2,7 +2,7 @@
 nicht [[unbedeutend]]
 
 ---
-Jenny ist Journalistin und schreibt gerne über [[Prominente]] und [[bekannte]] Personen. 
+Jenny ist Journalistin und schreibt gerne über [[Prominente]] und [[Bekannte]] Personen. 
 
 ---
 Synonyme: [[bedeutend]], [[hervorragend]], [[berühmt]], [[angesehen]], [[bekannt]], [[berühmt]]

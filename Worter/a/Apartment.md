@@ -19,4 +19,4 @@ Morphems:
 [[Apart]][[ment]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[Geburtsort]]

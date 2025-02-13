@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Winds]], [[Winde]], [[Winden]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Gegenwind]]

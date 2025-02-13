@@ -27,4 +27,4 @@ D: der [[Freiheit]], den [[Freiheiten]]
 [[frei]], [[befreien]], [[befreit]], [[freiheitlich]], [[Freiheitskampf]]
 
 [[Pflicht]], [[Freiheitsstrafe]], [[Meinungsfreiheit]], [[Gefängnis]], [[Zügel]], [[Folter]]
-, [[Versammlungsfreiheit]], [[Freizügigkeit]], [[recht]], [[Glaubensfreiheit]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[Verpflichtung]], [[Verfolgung]], [[Befreiung]], [[Bedingung]], [[Zelle]]
+, [[Versammlungsfreiheit]], [[Freizügigkeit]], [[recht]], [[Glaubensfreiheit]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[Verpflichtung]], [[Verfolgung]], [[Befreiung]], [[Bedingung]], [[Zelle]], [[Einflussnahme]]

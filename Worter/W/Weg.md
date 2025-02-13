@@ -26,4 +26,4 @@ Einzigartige mögliche Formen: [[Weges]], [[Wege]], [[wegen]]
 #Substantiv #Maskulin
 
 , [[Straße]]
-, [[Leitung]]
+, [[Leitung]], [[wegschicken]]

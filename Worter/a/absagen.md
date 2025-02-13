@@ -1,7 +1,16 @@
 ☎️ [[absagen]], [ˈapˌzaːɡn̩] | [[sagte ab]], haben [[abgesagt]]
 
+
+
 ---
-[[16 Plusquamperfekt.md#^14|(q)]] Aber sie nahm die Einladungen nicht an. Sie [[absagen|sagte]] immer aus dem Grund ab, dass sie arbeiten musste. ^14
+
+b) [[Wegen]] des schlechten [[Wetters]] entschieden wir uns, die [[Wanderung]] [[abzusagen]].   [[1 Präpositionen Übungen.md#^3|(q)]]
+
+[[16 Plusquamperfekt#^14|(q)]] Aber sie nahm die Einladungen nicht an. Sie [[absagen|sagte]] immer aus dem Grund ab, dass sie arbeiten musste. ^14
+
+Ich [[absagen|sagte]] nicht ab, wenn jemand mich einlädt.
+
+a) Er musste [[absagen]]. Er war krank. (___ seiner Krankheit musste er absagen.)  
 
 ---
 = [[abbestellen]], [[annullieren]], [[widerrufen]],  [[abhalten]],
@@ -27,4 +36,4 @@ PI: [[absagend]], PII: [[abgesagt]], Zu+inf: [[abzusagen]]
 [[absagen]] - [[ab]] = [[sagen]] / to cancel, to call off, to decline
 
 ---
-[[Absage]], [[Absagetermin]], [[Absagefrist]], [[Absagegrund]], [[Absender]]
+[[Absage]], [[Absagetermin]], [[Absagefrist]], [[Absagegrund]], [[Absender]], [[1 Präpositionen Übungen]]

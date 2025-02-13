@@ -1,1 +1,1 @@
-, [[benutzen]], [[Nutzung]], [[nutzen]], [[nutzlos]]
+, [[benutzen]], [[Nutzung]], [[nutzen]], [[nutzlos]], [[Nutzungsdaten]]

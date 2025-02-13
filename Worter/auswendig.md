@@ -3,6 +3,7 @@
 ---
 Aber wie [[einfach]] ist es, sich bei Sprechen/Schreiben mit [[auswendig]] gelernten [[Vorlagen]] [[durchzumogeln]]?
 
+auswendig lernen 
 
 ---
 = [[im Kopf]], [[im Gedächtnis]]
@@ -25,4 +26,4 @@ N: [[auswendiges]], [[auswendigeres]], [[auswendigstes]]
 P: [[auswendigen]], [[auswendigeren]], [[auswendigsten]]  
 
 ---
-[[lernen]], [[Gedächtnis]], [[memorieren]], [[wiedergeben]], [[kennen]], [[Vorlage]], [[durchmogeln]]
+[[lernen]], [[Gedächtnis]], [[memorieren]], [[wiedergeben]], [[kennen]], [[Vorlage]], [[durchmogeln]], [[1 Präpositionen Übungen]]

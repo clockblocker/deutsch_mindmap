@@ -1,4 +1,6 @@
 
+Google-[[Konto]] [[verwalten]]
+
 ---
 [[GPT.md#^2|(q)]] • im deutschen brauchen [[unzählbare]] Substantiva normalerweise **einen Artikel** oder eine [[Mengenangabe]]. ^2
 
@@ -26,7 +28,7 @@ Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] 
 💡 **Unterschied zwischen ‘weil’ und ‘da’:**
 
 • **‘weil’** [[betont]] die **kausale [[Begründung]]** stärker → **Antwort auf ‘warum?’**
-• **‘da’** klingt etwas neutraler und wird oft für **[[bekannte]] Gründe** benutzt → **mehr [[schriftsprachlich]]**
+• **‘da’** klingt etwas neutraler und wird oft für **[[Bekannte]] Gründe** benutzt → **mehr [[schriftsprachlich]]**
 
 • 'Because' emphasizes the causal reasoning more strongly → Answer to 'why?'
 • 'Since' sounds somewhat more neutral and is often used for known reasons → more literary/formal language

@@ -51,4 +51,4 @@ Partizip I: [[nehmend]], Partizip II: [[genommen]], Zu infinitive: zu nehmen
 +[[heraus]] = [[herausnehmen]] / remove 
 +[[zu]] =  [[zunehmen]] / gain weight / набрать
 [[vornehmen]] - [[vor]] = [[nehmen]] / намереватсья 
-, [[ablehnen]], [[annehmen]], [[ausnehmen]]
+, [[ablehnen]], [[annehmen]], [[ausnehmen]], [[packen]]

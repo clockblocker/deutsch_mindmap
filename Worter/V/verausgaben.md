@@ -1,1 +1,1 @@
-, [[ausgeben]]
+, [[ausgeben]], [[anstrengen]]

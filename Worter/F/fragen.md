@@ -30,4 +30,4 @@ Morpheme: [[frag]][[en]]
 Partizip I: [[fragend]], Partizip II: [[gefragt]]
 
 [[fragen]] - [[frag]][[en]]
-, [[befragen]], [[Fragerei]], [[ungefragt]]
+, [[befragen]], [[Fragerei]], [[ungefragt]], [[verfügen]]

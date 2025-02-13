@@ -1,11 +1,10 @@
-, [[gelingen]], [[erfolgreich]]
-🏆 [[gelungen]], [ɡəˈlʊŋən]
+🏆 [[gelungen]], [ɡəˈlʊŋən] = [[gelingen]]
 
 ---
 *Sokka ist es [[während]] [[dessen]] [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu*
 
 ---
-= [[erfolgreich]], [[glücklich]], [[meisterhaft]]
+= [[erfolgreich]], [[glücklich]], [[meisterhaft]], [[erfolgreich]]
 ≈ [[gekonnt]], [[geschickt]], [[brilliant]], [[hervorragend]]
 ≠ [[misslungen]], [[fehlgeschlagen]], [[erfolglos]], [[miserable]]
 

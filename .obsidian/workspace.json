@@ -6,341 +6,104 @@
       {
         "id": "351776064e32312a",
         "type": "tabs",
+        "dimension": 79.07949790794979,
         "children": [
           {
-            "id": "ad7597d81815b10d",
+            "id": "62a95adc5f808a38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Kamanova/16 Plusquamperfekt.md",
+                "file": "Lektionen/Kamanova/17 zu inf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 Plusquamperfekt"
+              "title": "17 zu inf"
             }
           },
           {
-            "id": "83ae55a84f96724e",
+            "id": "09212f342446fa09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/B/begabt.md",
+                "file": "Worter/S/stimmen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "begabt"
+              "title": "stimmen"
             }
           },
           {
-            "id": "51158f1556723c0a",
+            "id": "c0146dc5dc42a45f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Kamanova/16 Plusquamperfekt.md",
+                "file": "Worter/Klavierstimmer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 Plusquamperfekt"
+              "title": "Klavierstimmer"
             }
           },
           {
-            "id": "835c1136eabe4a39",
+            "id": "3da3ec5473f2daf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/S/sogar.md",
+                "file": "Worter/S/Sammler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sogar"
+              "title": "Sammler"
             }
           },
           {
-            "id": "f888f10500872184",
+            "id": "37f148eb41e0b1f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Kamanova/16 Plusquamperfekt.md",
+                "file": "Worter/Vetter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 Plusquamperfekt"
+              "title": "Vetter"
             }
           },
           {
-            "id": "a609b18bb85fd682",
+            "id": "3910db1ef1fc4a69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/S/starb.md",
+                "file": "Worter/B/beeindrucken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "starb"
+              "title": "beeindrucken"
             }
           },
           {
-            "id": "6b709a4356bc7a0a",
+            "id": "0fff278b4cb51cc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/S/sterben.md",
+                "file": "Worter/V/verfügen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sterben"
-            }
-          },
-          {
-            "id": "8eaaf4483452393b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Kamanova/16 Plusquamperfekt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16 Plusquamperfekt"
-            }
-          },
-          {
-            "id": "f76617e1d3ed4d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/starb.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "starb"
-            }
-          },
-          {
-            "id": "2acdf1fd70a47f17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/sterben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sterben"
-            }
-          },
-          {
-            "id": "a015c194a97d4e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/M/menschlich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "menschlich"
-            }
-          },
-          {
-            "id": "2add78b43d50a285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Z/Zeichnung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zeichnung"
-            }
-          },
-          {
-            "id": "b49f886bc8f53fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/begabt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "begabt"
-            }
-          },
-          {
-            "id": "bea2b56b9d48accf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/übernächsten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "übernächsten"
-            }
-          },
-          {
-            "id": "45084be5fe27af79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/übernächste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "übernächste"
-            }
-          },
-          {
-            "id": "e15dcf6c043a1cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/bald.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bald"
-            }
-          },
-          {
-            "id": "445092052246f614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/bald.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bald"
-            }
-          },
-          {
-            "id": "1a15dc63722204cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Künstlerin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Künstlerin"
-            }
-          },
-          {
-            "id": "2f8a3ea3224f2f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/schleudern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "schleudern"
-            }
-          },
-          {
-            "id": "33188a788f6b956c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/schleudern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "schleudern"
-            }
-          },
-          {
-            "id": "0c4a461f6c7f604b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Zeiser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zeiser"
-            }
-          },
-          {
-            "id": "25f56606796204bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Scherben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scherben"
-            }
-          },
-          {
-            "id": "db0e9bb3fcc834e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/besprechen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "besprechen"
-            }
-          },
-          {
-            "id": "ff707f12bba1da2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/U/ungewöhnlich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ungewöhnlich"
+              "title": "verfügen"
             }
           },
           {
@@ -357,8 +120,57 @@
               "title": "Wahrheit"
             }
           }
+        ]
+      },
+      {
+        "id": "94536c5a427856ab",
+        "type": "split",
+        "dimension": 20.920502092050206,
+        "children": [
+          {
+            "id": "e0fa38ce7caef8cb",
+            "type": "tabs",
+            "dimension": 73.33333333333333,
+            "children": [
+              {
+                "id": "264bdfab98b39262",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lektionen/Kamanova/17 zu inf.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "17 zu inf"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d374e6fa3fe95cdb",
+            "type": "tabs",
+            "dimension": 26.66666666666667,
+            "children": [
+              {
+                "id": "db0e9bb3fcc834e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lektionen/Kamanova/0 Wiederholung.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "0 Wiederholung"
+                }
+              }
+            ]
+          }
         ],
-        "currentTab": 9
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -519,34 +331,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2acdf1fd70a47f17",
+  "active": "62a95adc5f808a38",
   "lastOpenFiles": [
-    "Worter/geerbt.md",
-    "Worter/E/erben.md",
-    "Worter/E/Erblasser.md",
-    "Worter/E/erblos.md",
-    "Worter/V/Verleiher.md",
-    "Worter/R/Rechtsnachfolger.md",
-    "Worter/E/erbeinig.md",
-    "Worter/E/erbenlos.md",
-    "Worter/E/Erbschein.md",
-    "Worter/Z/zuerben.md",
-    "Worter/E/erbend.md",
-    "Worter/E/erbet.md",
-    "Worter/E/erbtet.md",
-    "Worter/E/erben wir.md",
-    "Worter/E/erbten.md",
-    "Worter/E/erbt.md",
-    "Worter/E/erbtest.md",
-    "Worter/E/erbst.md",
-    "Worter/E/erbte.md",
-    "Worter/H/hinterlassen.md",
-    "Worter/V/vermachen.md",
-    "Worter/V/vererben.md",
-    "Worter/1/16 Plusquamperfekt.md#^17.md",
-    "Worter/E/erb.md",
-    "Worter/S/sterben.md",
-    "Worter/Ü/überleben.md",
+    "Worter/Ü/überflüssig.md",
+    "Worter/Ü/übermächtig.md",
+    "Lektionen/Kamanova/17 zu inf.md",
+    "Worter/A/anfangen.md",
+    "Worter/U/untersuchen.md",
+    "Worter/V/verbringen.md",
+    "Worter/E/eigentlich.md",
+    "Worter/B/Bekannte.md",
+    "Texte/Misc/Anki.md",
+    "Worter/B/bekannt.md",
+    "Worter/A/Arbeit.md",
+    "Worter/C/chef.md",
+    "Worter/S/sammeln.md",
+    "Worter/A/aufhören.md",
+    "Worter/A/ausgehen.md",
+    "Worter/V/versprochen.md",
+    "Worter/V/versprechen.md",
+    "Worter/T/Türstopper.md",
+    "Worter/T/Türklinke.md",
+    "Worter/T/Türschloss.md",
+    "Worter/T/Türspion.md",
+    "Worter/T/Türkette.md",
+    "Worter/T/Tür.md",
+    "Worter/T/Türgriff.md",
+    "Worter/T/Tü.md",
+    "Worter/H/Haustür.md",
+    "Lektionen/Bekker/verben",
+    "Lektionen/jul",
+    "Anhänge/54568_82022.mp3",
+    "Lektionen/Kamanova/vok/Untitled",
+    "Lektionen/Kamanova/vok",
     "Texte/c1/abra lesen",
     "Anhänge/Pasted image 20250203084709.png",
     "Anhänge/Pasted image 20250203051808.png",

@@ -1,1 +1,1 @@
-, [[loswerden]], [[herausziehen]], [[verderben]], [[wegwerfen]], [[behalten]], [[gießen]], [[sparen]], [[verschwenden]], [[verkaufen]], [[ansammeln]], [[verplempern]], [[forttragen]], [[hinauswerfen]]
+, [[loswerden]], [[herausziehen]], [[verderben]], [[wegwerfen]], [[behalten]], [[gießen]], [[sparen]], [[verschwenden]], [[verkaufen]], [[ansammeln]], [[verplempern]], [[forttragen]], [[hinauswerfen]], [[verbrauchen]], [[hinschicken]]

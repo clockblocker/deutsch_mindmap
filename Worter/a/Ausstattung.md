@@ -1,1 +1,1 @@
-, [[Ausrüstung]]
+, [[Ausrüstung]], [[Bekleidung]]

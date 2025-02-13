@@ -1,1 +1,1 @@
-, [[liegen]], [[stehen]], [[werden]], [[losziehen]], [[wechseln]], [[warten]], [[ablösen]], [[sitzen]], [[ausziehen]], [[weiterziehen]], [[rasen]], [[Weile]], [[lauben]]
+, [[liegen]], [[stehen]], [[werden]], [[losziehen]], [[wechseln]], [[warten]], [[ablösen]], [[sitzen]], [[ausziehen]], [[weiterziehen]], [[rasen]], [[Weile]], [[lauben]], [[bleiben]]

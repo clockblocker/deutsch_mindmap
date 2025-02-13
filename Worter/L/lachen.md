@@ -35,3 +35,4 @@ PI: [[lachend]], PII: [[gelacht]], Zu+inf: [[zu lachen]]
 [[Lachen]], [[Lacher]], [[lächerlich]], [[belachen]], [[auslachen]], [[verlachen]]
 
 , [[brüllen]], [[s1 e1]]
+, [[murmeln]]

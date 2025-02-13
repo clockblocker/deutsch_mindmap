@@ -6,7 +6,7 @@ Ich spreche jedes Wort [[einzeln]].
 ---
 = [[individuell]], [[separat]], [[gesondert]]
 ≈ [[allein]], [[alleinstehend]], [[vereinzelt]], [[einziger]]
-≠ [[gemeinsam]], [[kollektiv]], [[zusammen]], [[alle]], [[beide]],  [[aneinander]],  [[zu zweit]], [[gemeinsam]],  [[dreistufig]], [[sämtlich]]
+≠ [[gemeinsam]], [[kollektiv]], [[zusammen]], [[Worter/A/Alle]], [[beide]],  [[aneinander]],  [[zu zweit]], [[gemeinsam]],  [[dreistufig]], [[sämtlich]]
 
 ---
 individual, single, separately

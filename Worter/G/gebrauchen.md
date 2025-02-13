@@ -1,1 +1,1 @@
-, [[benutzen]], [[verwenden]], [[nutzen]], [[anwenden]]
+, [[benutzen]], [[verwenden]], [[nutzen]], [[anwenden]], [[Gebrauch]]

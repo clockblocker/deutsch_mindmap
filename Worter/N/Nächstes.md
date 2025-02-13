@@ -10,7 +10,7 @@ nicht [[letztes]]
 ---
 
 Synonyme:
-- [[kommend]], [[folgend]], [[darauffolgend]]
+- [[kommend]], [[folgenden]], [[darauffolgend]]
 
 ---
 

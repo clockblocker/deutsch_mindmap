@@ -3,7 +3,7 @@ die [[Glieder]]
 
 
 ---
-*In meiner Kette fehlt kein [[Glied]]*  
+*In meiner [[Kette]] fehlt kein [[Glied]]*  
 *Wenn die Lust von hinten zieht*
 
 ---

@@ -1,1 +1,1 @@
-, [[politisch]]
+, [[politisch]], [[Politisierung]]

@@ -35,4 +35,4 @@ Morpheme: [[er]][[leb]][[en]]
 
 Partizip I: [[erlebend]], Partizip II: [[erlebt]]
 [[erleben]] - [[er]] = [[leben]]
-''', [[genießen]]
+''', [[genießen]], [[Erlebnis]]

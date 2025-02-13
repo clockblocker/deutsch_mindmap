@@ -26,4 +26,4 @@ G: der [[Weiterbildung]], der [[Weiterbildungen]]
 D: der [[Weiterbildung]], den [[Weiterbildungen]]  
 
 ---
-[[weiterbilden]], [[weiterbildend]], [[weiterbildungsorientiert]], [[Bildung]]
+[[weiterbilden]], [[weiterbildend]], [[weiterbildungsorientiert]], [[Bildung]], [[Erlernung]]

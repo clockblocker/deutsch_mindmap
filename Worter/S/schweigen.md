@@ -35,4 +35,4 @@ PI: [[schweigend]], PII: [[geschwiegen]], Zu+inf: [[zuschweigen]]
 
 [[sagen]], [[kontern]], [[erzählen]], [[Aufruf]], [[Schweigepflicht]], [[Angriffsgeschrei]], [[schreien]], [[funkten]], [[Schweigerecht]], [[Schweige]], [[rumquatschen]], [[Unterhaltung]], [[Anzeige]], [[Meinungsäußerung]], [[Aussage]], [[Vortrag]]
 
-, [[geigen]], [[rufen]], [[besprechen]]
+, [[geigen]], [[rufen]], [[besprechen]], [[klingen]]

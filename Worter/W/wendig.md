@@ -23,4 +23,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[wendig]], [[wendiger]], [[wendige]], [[wendiges]], [[wendigen]], [[wendigem]], [[wendiger]], [[wendigen]]
-[[wendigster]], [[wendigere]], [[wendigeres]], [[wendigeren]], [[wendigerem]], [[wendigster]], [[wendigsten]], [[notwendig]]
+[[wendigster]], [[wendigere]], [[wendigeres]], [[wendigeren]], [[wendigerem]], [[wendigster]], [[wendigsten]], [[notwendig]], [[auswendig]]

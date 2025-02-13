@@ -1,1 +1,1 @@
-, [[Entlassung]], [[ausnehmen]]
+, [[Entlassung]], [[ausnehmen]], [[verdauen]]

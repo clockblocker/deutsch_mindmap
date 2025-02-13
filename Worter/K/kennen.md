@@ -35,4 +35,4 @@ Zu+infinitive: [[zu kennen]]
 
 
 [[Englischkenntnisse]], [[auskennen]]
-, [[erfahren]], [[Unbekannten]]
+, [[erfahren]], [[Unbekannten]], [[auswendig]]

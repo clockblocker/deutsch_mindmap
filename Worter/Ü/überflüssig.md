@@ -3,6 +3,9 @@
 ---
 *Du ([[übermächtig]], [[überflüssig]])*  
 
+Der Doctor hat jetzt [[angefangen]],  dem Kind zu untersuchen
+("jetzt" ist [[überflüssig]])
+
 ---
 Synonyme: [[unnötig]], [[irrelevant]], [[entbehrlich]], [[unwesentlich]], [[überbelegt]]
 Antonyme: [[nötig]], [[wichtig]], [[relevant]], [[unerlässlich]], [[wesentlich]]

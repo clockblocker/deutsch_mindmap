@@ -1,1 +1,1 @@
-, [[beschränken]], [[verkürzen]], [[kürzen]], [[Osterweiterung]], [[begrenzen]], [[einschränken]], [[tausendfachen]]
+, [[beschränken]], [[verkürzen]], [[kürzen]], [[Osterweiterung]], [[begrenzen]], [[einschränken]], [[tausendfachen]], [[ergänzen]]

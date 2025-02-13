@@ -29,4 +29,4 @@ PI: [[zurückholend]], PII: [[zurückgeholt]], Zu+inf: [[zurückzuholen]]
 [[zurückholen]] - [[zurück]] = [[holen]] / to retrieve, to get back, to reclaim
 
 ---
-[[Rückholung]], [[Rückführung]], [[Rückgabe]], [[zurückholen]], [[abholen]], [[herbeiholen]]
+[[Rückholung]], [[Rückführung]], [[Rückgabe]], [[zurückholen]], [[abholen]], [[herbeiholen]], [[abschicken]]

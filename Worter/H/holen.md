@@ -3,6 +3,8 @@
 haben [[geholt]]
 
 ---
+In der Garderobe sah ich den hellgrauen Mantel hängen. [[17 zu inf#^9|(q)]] Meine Frau hatte ihn also aus dem [[Keller]] [[geholt]]. ^9
+
 SAM: Oh, hi, Nic - Ich will meine Hanteln [[holen]] …  
 
 Hoffentlich hilft ihr der Kaffee, den sie sich gerade im Café um die Ecke [[geholt]] hat.

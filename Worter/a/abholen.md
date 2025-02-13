@@ -33,4 +33,4 @@ Morpheme: [[ab]][[hol]][[en]]
 Partizip I: [[abholend]], Partizip II: [[abgeholt]]
 
 [[abholen]] - [[ab]] = [[holen]]//to pick up
-, [[hinbringen]], [[zurückholen]]
+, [[hinbringen]], [[zurückholen]], [[abschicken]]

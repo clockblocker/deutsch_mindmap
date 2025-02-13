@@ -2,10 +2,8 @@
 nicht [[unattraktiv]], nicht [[häßlich]]
 
 ---
-Hallo Sam und Nic! Ja! Wir sind total [[hübsch]]!  
-… Für die [[hübsche]] Sascha …von S … Wer ist S?  
- Ach, du siehst heute so [[hübsch]] aus!  
- 
+[[16 Plusquamperfekt#^20|(q)]] Der [[Selbstmord]] einer [[begabten]] Künstlerin, die auch [[hübsch]] gewesen war, hatte einen großen Informationswert in der Boulevardpresse. ^20
+
 *ein Häuflein Asche bleibt allein*  
 *und beide Schuh, so [[hübsch]] und fein.*
 
@@ -17,6 +15,10 @@ Hallo Sam und Nic! Ja! Wir sind total [[hübsch]]!
 
 *Er hatte Backen rot und frisch;*  
 *die Suppe aß er [[hübsch]] bei Tisch.*  
+
+Hallo Sam und Nic! Ja! Wir sind total [[hübsch]]!  
+… Für die [[hübsche]] Sascha …von S … Wer ist S?  
+ Ach, du siehst heute so [[hübsch]] aus!  
 
 ---
 Synonyme:

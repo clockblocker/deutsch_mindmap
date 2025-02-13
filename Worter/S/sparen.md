@@ -32,4 +32,4 @@ Morpheme: [[spar]][[en]]
 | Sie       | [[sparen]]           | [[sparten]]           | [[sparen Sie]]    | [[sparen]]             | [[sparten]]             |
 
 Partizip I: [[sparend]], Partizip II: [[gespart]]
-, [[schwenden]], [[verplempern]], [[Taschengeld]]
+, [[schwenden]], [[verplempern]], [[Taschengeld]], [[verbrauchen]]

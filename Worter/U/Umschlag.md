@@ -1,11 +1,9 @@
 🔵 der [[Umschlag]]
 die [[Umschläge]]
 
-Beispiele:
+---
+ Ich öffnete den [[Umschlag]]. Eine Theaterkarte und ein [[Zettel]] fielen heraus. [[17 zu inf#^18|(q)]]
 
-- Der [[Umschlag]] enthält wichtige Dokumente.
-- Sie hat den [[Umschlag]] auf den Tisch gelegt.
-- Die [[Umschläge]] wurden an die Empfänger versandt.
 
 ---
 Synonyme:

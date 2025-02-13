@@ -26,4 +26,4 @@ Tags:
 
 ---
 
-, [[Fachverkäufer]], [[Buchhalter]]
+, [[Fachverkäufer]], [[Buchhalter]], [[Sammler]]

@@ -1,1 +1,1 @@
-[[handel]]
+[[handel]], [[Sammler]], [[Tannhäuser]]

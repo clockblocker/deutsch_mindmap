@@ -1,1 +1,1 @@
-, [[offensichtlich]], [[dicht]]
+, [[offensichtlich]], [[dicht]], [[schüchtern]], [[unbedeckt]]
