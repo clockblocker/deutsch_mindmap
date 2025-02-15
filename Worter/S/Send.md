@@ -19,4 +19,4 @@ Morphems:
 [[Send]][[en]]
 
 ---
-#Substantiv #Maskulin, [[tausendfachen]], [[tausendfach]]
+#Substantiv #Maskulin, [[tausendfachen]], [[tausendfach]], [[versenden]], [[zurücksenden]], [[Versandt]]

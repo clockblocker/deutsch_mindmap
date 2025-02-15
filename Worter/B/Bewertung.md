@@ -1,1 +1,1 @@
-, [[Vergleich]]
+, [[Vergleich]], [[Produktrezension]]

@@ -31,4 +31,4 @@ Dative: dem [[Bescheid]], den [[Bescheiden]]
 [[bescheiden]], [[bescheidgeben]], [[wissen Bescheid]]
 
 , [[Auskunft]]
-, [[Steuerbescheid]]
+, [[Steuerbescheid]], [[Geschenkbestätigung]]

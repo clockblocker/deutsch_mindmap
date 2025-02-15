@@ -5,6 +5,8 @@ haben [[geteilt]]
 ---
 Und wir haben uns alles [[geteilt]]!  
 
+[[amazon.md#^5|(q)]] [[Geschenkbestätigung]] [[teilen]] ^5
+
 Damit hat sie ein Thema angesprochen, das viele [[bewegt]]: Ihr Artikel wurde über 20.000 Mal [[geteilt]] und [[tausendfach]] kommentiert.  [[Den Nagel auf den Kopf treffen.md#^3|(Quelle: Den Nagel auf den Kopf treffen)]] 
 
 ---

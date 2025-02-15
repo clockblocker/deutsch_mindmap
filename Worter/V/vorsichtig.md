@@ -4,6 +4,8 @@ nicht [[rücksichtslos]]
 ---
 Sie [[bewegt]] sich [[vorsichtig]] und langsam, um kein [[Geräusch]] zu machen.
 
+Будь сегодня осторожен! – Sei heute [[vorsichtig]]!
+
 ---
 = [[behutsam]], [[umsichtig]], [[bedacht]], [[sorglich]],
 ≈ [[sorgsam]], [[aufmerksam]], [[zurückhaltend]], [[wachsam]]

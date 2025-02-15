@@ -43,4 +43,4 @@ Morpheme: [[hol]][[en]]
 | Sie       | [[holen]]            | [[holten]]            | [[holen Sie]]     | [[holen]]              | [[holten]]              |
 
 Partizip I: [[holend]], Partizip II: [[geholt]]
-+[[ab]]  = [[abholen]], [[zurückholen]], [[nachholen]], [[einholen]], [[Wiederholung]], [[rausholen]]
++[[ab]]  = [[abholen]], [[zurückholen]], [[nachholen]], [[einholen]], [[Worter/W/Wiederholung]], [[rausholen]]

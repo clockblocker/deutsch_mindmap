@@ -1,1 +1,1 @@
-, [[Kaffeetaß]], [[Becher]], [[Kaffeebecher]], [[Teller]]
+, [[Kaffeetaß]], [[Becher]], [[Kaffeebecher]], [[Teller]], [[Teekanne]]

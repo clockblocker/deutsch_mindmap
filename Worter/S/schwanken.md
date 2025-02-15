@@ -1,1 +1,1 @@
-, [[zucken]], [[zögern]], [[stolpern]]
+, [[zucken]], [[zögern]], [[stolpern]], [[zweifeln]]

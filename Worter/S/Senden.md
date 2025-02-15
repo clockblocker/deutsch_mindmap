@@ -1,11 +1,9 @@
 🔵 der [[Senden]]
 die [[Senden]]
 
-Beispiele:
+---
+[[zurücksenden]] - [[zurück]] = [[senden]] / to return, to send back
 
-- Der [[Senden]] hat sich verzögert.
-- Sie haben den [[Senden]] vorbereitet.
-- Die [[Senden]] müssen regelmäßig überprüft werden.
 
 ---
 Synonyme:
@@ -19,4 +17,4 @@ Morphems:
 [[Send]][[en]]
 
 ---
-#Substantiv #Maskulin, [[funkten]], [[hinschicken]], [[abschicken]]
+#Substantiv #Maskulin, [[funkten]], [[hinschicken]], [[abschicken]], [[versenden]], [[zurücksenden]]

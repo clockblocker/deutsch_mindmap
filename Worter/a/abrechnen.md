@@ -1,1 +1,1 @@
-, [[begleichen]], [[Nebenkostenabrechnung]], [[bezahlen]], [[abrechnung]]
+, [[begleichen]], [[Nebenkostenabrechnung]], [[bezahlen]], [[Abrechnung]]

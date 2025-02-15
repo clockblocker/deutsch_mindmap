@@ -8,6 +8,8 @@ haben [[mitgebracht]]
 *Die Peitsche hat er [[mitgebracht]]*  
 *und nimmt sie sorglich sehr in acht.*
 
+[[Aschenputtel.md#^1|(q)]] Es trug sich zu, daß der Vater [[einmal]] in die Messe ziehen wollte, da fragte er die beiden Stieftöchter, was er ihnen [[mitbringen]] sollte.  ^1
+
 ---
 Synonyme: [[transportieren]], [[herbeibringen]], [[herbringen]], [[befördern]], [[mitnehmen]]
 Antonyme: [[weglassen]], [[vergessen]], [[zurücklassen]]

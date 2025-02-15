@@ -1,1 +1,1 @@
-, [[hinschicken]], [[abschicken]]
+, [[hinschicken]], [[abschicken]], [[versenden]]

@@ -215,114 +215,130 @@ Ich habe vergessen, **den Kollegen anzurufen**.
 Unser Chef hat vergessen, dem Psychologen und dem Experten persönlich für ihre gute Arbeit zu danken
 1. Наш знакомый надеется в следующем году хорошо провести отпуск в Испании.
  Unser [[Bekannter]] hofft, im nächsten Jahr einen schönen Urlaub in Spanien zu [[verbringen]] 
-2. Доктор только что начал обследовать этого ребенка. Der Doctor hat jetzt [[angefangen]], das Kind zu untersuchen
+2. Доктор тол Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
+ько что начал обследовать этого ребенка. Der Doctor hat jetzt [[angefangen]], das Kind zu untersuchen
 3. Наши соседи после Рождества неожиданно прекратили заниматься спортом.
-4. Мы счастливы, что снова весной поедем в Германию.
-5. Очень интересно собирать картины современных художников.
-6. Он вчера сказал нам три раза позвонить в дверь.
-7. Ужасно носить зеленые брюки с красным пиджаком.
-8. Некрасиво приходить в гости без подарка.
-9. Жаль уничтожать эти деревья в саду.
-10. Я обещаю вам ничего не делать напрасно.
-11. Очень просто заплакать, если находишься под впечатлением от несчастья.
-12. Возможно ли сейчас позвонить домой нашему профессору?
-13. Они забыли поздравить коллег с Новым годом.
-14. Очень трудно понять идеи нашего шефа.
-15. Это правильно - принимать не все приглашения друзей и знакомых.
-16. Печально начинать жизнь сначала.
-17. Это вполне человечно - выглядеть иногда усталым.
-18. Превосходно - приглашать иногда в гости всех друзей и знакомых.
-19. Какой сюрприз, видеть вас сегодня на выставке!
-20. На этот вопрос очень легко ответить.
-21. Очень важно перевести эту статью сегодня.
-22. Почему ты забыл мне вчера позвонить?
-23. Почему ты пообещала мне убрать квартиру и не сделала этого?
-24. Почему ты находишь правильным отказываться от наших приглашений?
-25. Почему ты находишь глупым поехать работать за границу?
-26. Почему вы находите невозможным попросить помощи у ваших друзей?
-27. Как плохо быть разочарованным!
+Unsere Nachbarn haben nach Weihnachten überraschend aufgehört, Sport zu treiben.
+
+[[17 zu inf.md#^26|(q)]]  Unsere [[Nachbaren]] nach Weihnachten überraschend aufgehört Sporten zu treiben ^26
+
+_[[Kreide]]_
+ Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
+ Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
+ Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
+ Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
+ Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
+
+
+ Unsere nachbaren haben nach Weihnachten überraschend aufgehört Sport zu treiben 
+überraschend aufgehört 
+überraschend aufgehört überraschend aufgehört 
+1. Мы счастливы, что снова весной поедем в Германию. Wir frühen uns, dass  
+2. Очень интересно собирать картины современных художников.
+3. Он вчера сказал нам три раза позвонить в дверь.
+4. Ужасно носить зеленые брюки с красным пиджаком.
+5. Некрасиво приходить в гости без подарка.
+6. Жаль уничтожать эти деревья в саду.
+7. Я обещаю вам ничего не делать напрасно.
+8. Очень просто заплакать, если находишься под впечатлением от несчастья.
+9. Возможно ли сейчас позвонить домой нашему профессору?
+10. Они забыли поздравить коллег с Новым годом.
+11. Очень трудно понять идеи нашего шефа.
+12. Это правильно - принимать не все приглашения друзей и знакомых.
+13. Печально начинать жизнь сначала.
+14. Это вполне человечно - выглядеть иногда усталым.
+15. Превосходно - приглашать иногда в гости всех друзей и знакомых.
+16. Какой сюрприз, видеть вас сегодня на выставке!
+17. На этот вопрос очень легко ответить.
+18. Очень важно перевести эту статью сегодня.
+19. Почему ты забыл мне вчера позвонить?
+20. Почему ты пообещала мне убрать квартиру и не сделала этого?
+21. Почему ты находишь правильным отказываться от наших приглашений?
+22. Почему ты находишь глупым поехать работать за границу?
+23. Почему вы находите невозможным попросить помощи у ваших друзей?
+24. Как плохо быть разочарованным!
 ### 17.9 Переведите следующие предложения, используя модальную конструкцию **haben + zu + Infinitiv**:
 
-28. Мы должны приготовить хороший обед, потому что к нам придут гости.
-29. Так как этот ребенок очень слабый, он должен заниматься спортом.
-30. Наш сосед должен улучшить состояние своей квартиры.
-31. Так как мы не знаем всех слов, мы должны пользоваться словарем.
-32. Эта девушка должна помогать своей старой больной тете.
-33. Этот мальчик должен слушаться свою маму.
-34. Мы должны найти решение этой проблемы настолько быстро, насколько возможно.
-35. Он должен был принять приглашение своего начальника.
-36. Она должна была принимать эти таблетки каждый день.
-37. Перед экзаменом мы должны были собраться мыслями.
+25. Мы должны приготовить хороший обед, потому что к нам придут гости.
+26. Так как этот ребенок очень слабый, он должен заниматься спортом.
+27. Наш сосед должен улучшить состояние своей квартиры.
+28. Так как мы не знаем всех слов, мы должны пользоваться словарем.
+29. Эта девушка должна помогать своей старой больной тете.
+30. Этот мальчик должен слушаться свою маму.
+31. Мы должны найти решение этой проблемы настолько быстро, насколько возможно.
+32. Он должен был принять приглашение своего начальника.
+33. Она должна была принимать эти таблетки каждый день.
+34. Перед экзаменом мы должны были собраться мыслями.
 
 ---
 
 ### 17.10* Дополните модальную конструкцию **sein + zu + Infinitiv** подходящими по смыслу глаголами:
 
-38. Dieser Fall ist zu ……
-39. Diese Flasche ist zu ……
-40. Diese Geschichte ist zu ……
-41. Diese Arbeit ist zu ……
-42. Dieses Geld ist zu ……
-43. Dieser Besuch ist zu ……
-44. Dieser Kommentar ist zu ……
-45. Die Lösung war nicht zu ……
-46. Dieser Unglück war nicht zu ……
-47. Der Anzug war nicht zu ……
-48. Die Party war nicht zu ……
-49. Dieser Händler ist nicht zu ……
+35. Dieser Fall ist zu ……
+36. Diese Flasche ist zu ……
+37. Diese Geschichte ist zu ……
+38. Diese Arbeit ist zu ……
+39. Dieses Geld ist zu ……
+40. Dieser Besuch ist zu ……
+41. Dieser Kommentar ist zu ……
+42. Die Lösung war nicht zu ……
+43. Dieser Unglück war nicht zu ……
+44. Der Anzug war nicht zu ……
+45. Die Party war nicht zu ……
+46. Dieser Händler ist nicht zu ……
 
 ---
 
 ### 17.11 Переведите следующие предложения, используя модальную конструкцию **sein + zu + Infinitiv**:
 
-50. Эту новость можно прочитать.
-51. Эту ошибку можно исправить.
-52. Эти деньги можно получить.
-53. Эти газеты можно взять.
-54. Эту юбку можно носить.
-55. Об этой возможности можно забыть.
-56. Эти бумаги можно было уничтожить.
-57. Эту ситуацию можно было объяснить.
-58. Этого человека можно было найти.
+47. Эту новость можно прочитать.
+48. Эту ошибку можно исправить.
+49. Эти деньги можно получить.
+50. Эти газеты можно взять.
+51. Эту юбку можно носить.
+52. Об этой возможности можно забыть.
+53. Эти бумаги можно было уничтожить.
+54. Эту ситуацию можно было объяснить.
+55. Этого человека можно было найти.
 ---
 ### 17.12* Заполните пропуски местоимением **jeder** в соответствующем роде и падеже. Переведите предложения на русский язык:
 
-59. ... Mensch hat in seinem Leben viel zu tun.
-60. ... Jahr fährt mein Bruder ins Ausland.
-61. Ich verspreche dir, ... Woche Sport zu treiben.
-62. ... Tag kommt er zu uns.
-63. Wer kommt ... Mal zu spät in die Schule?
-64. Nach der Explosion verhafteten die Polizisten ... Mann mit schwarzem Haar.
-65. Der Chef liest ... Bericht der Experten.
-66. Ich kenne ... Baum in meinem Garten.
-67. ... Tag gehen wir zu Fuß spazieren.
-68. Diese Frau ist so gut, dass sie ... Menschen hilft.
-69. Nach ... Besuch bei ihren Großeltern ist sie traurig.
-70. Unsere Nachbarn haben schöne Möbel in ... Zimmer.
-71. Du kannst diese Neuigkeit in ... Zeitung lesen.
-72. Die Meinung ... Mitarbeiters ist für unseren Chef sehr wichtig.
-73. ..., der zu meiner Mutter kommt, bringt ihr Blumen.
-74. Ich habe ... nach der Zeit gefragt, aber niemand hatte eine Uhr.
-75. Hier kann ... tun, was er will.
-76. Er gab ... von den Kindern ein schönes Geschenk zu Weihnachten.
-77. ... von ihnen hatte große Erfahrung.
+56. ... Mensch hat in seinem Leben viel zu tun.
+57. ... Jahr fährt mein Bruder ins Ausland.
+58. Ich verspreche dir, ... Woche Sport zu treiben.
+59. ... Tag kommt er zu uns.
+60. Wer kommt ... Mal zu spät in die Schule?
+61. Nach der Explosion verhafteten die Polizisten ... Mann mit schwarzem Haar.
+62. Der Chef liest ... Bericht der Experten.
+63. Ich kenne ... Baum in meinem Garten.
+64. ... Tag gehen wir zu Fuß spazieren.
+65. Diese Frau ist so gut, dass sie ... Menschen hilft.
+66. Nach ... Besuch bei ihren Großeltern ist sie traurig.
+67. Unsere Nachbarn haben schöne Möbel in ... Zimmer.
+68. Du kannst diese Neuigkeit in ... Zeitung lesen.
+69. Die Meinung ... Mitarbeiters ist für unseren Chef sehr wichtig.
+70. ..., der zu meiner Mutter kommt, bringt ihr Blumen.
+71. Ich habe ... nach der Zeit gefragt, aber niemand hatte eine Uhr.
+72. Hier kann ... tun, was er will.
+73. Er gab ... von den Kindern ein schönes Geschenk zu Weihnachten.
+74. ... von ihnen hatte große Erfahrung.
 
 ---
 
 ### 17.13 Переведите следующие предложения:
 
-78. Каждая девушка хочет найти друга жизни.
-79. Каждый человек хочет иметь успех.
-80. Каждый ребенок хочет праздновать день рождения каждый день.
-81. Я смеюсь каждый раз, когда вижу картины этого художника.
-82. Она ждет каждое письмо от своего друга.
-83. Он переводит со словарем каждое слово этого текста.
-84. Костюм каждого молодого человека на этой фирме должен быть новым и чистым.
-85. Он использует каждую возможность, чтобы говорить по-немецки.
-86. Каждый развлекается на этой вечеринке по-своему.
-87. Каждый из нас сам убирает свою комнату.
-88. Не каждый говорит всегда то, что он имеет в виду.
-89. Каждый год они путешествуют вместе, и из каждой страны они посылают нам открытки.
+75. Каждая девушка хочет найти друга жизни.
+76. Каждый человек хочет иметь успех.
+77. Каждый ребенок хочет праздновать день рождения каждый день.
+78. Я смеюсь каждый раз, когда вижу картины этого художника.
+79. Она ждет каждое письмо от своего друга.
+80. Он переводит со словарем каждое слово этого текста.
+81. Костюм каждого молодого человека на этой фирме должен быть новым и чистым.
+82. Он использует каждую возможность, чтобы говорить по-немецки.
+83. Каждый развлекается на этой вечеринке по-своему.
+84. Каждый из нас сам убирает свою комнату.
+85. Не каждый говорит всегда то, что он имеет в виду.
+86. Каждый год они путешествуют вместе, и из каждой страны они посылают нам открытки.
 
 ---
 
@@ -333,189 +349,189 @@ Unser Chef hat vergessen, dem Psychologen und dem Experten persönlich für ihre
 - **alle drei Tage** - каждые три дня
 - **alle drei Jahre** - каждые три года
 
-90. ... Frauen möchten gut aussehen.
-91. Wir ... arbeiten in diesem Büro.
-92. ... zwei Stunden ruft das Mädchen ihren Freund an.
-93. ... drei Monate fährt diese Familie in den Urlaub.
-94. Ich sehe ... Fehler in deiner Kontrollarbeit.
-95. Ich habe auf ... Fälle eine warme Jacke mitgenommen.
-96. Dieser Mann hat ... Städte der Welt angesehen.
-97. Er besuchte die Museen ... Städte.
-98. In dieser Uni studieren junge Leute aus ... Ländern.
-99. Dieses Mädchen erzählt ... ihre Geschichten.
-100. Ich wünsche ... viel Glück.
-101. ... sind heute in der richtigen Zeit gekommen.
-102. Sieh mal! ... warten auf dich.
-103. Das Mädchen zeigt ... ihre letzten Bilder.
+87. ... Frauen möchten gut aussehen.
+88. Wir ... arbeiten in diesem Büro.
+89. ... zwei Stunden ruft das Mädchen ihren Freund an.
+90. ... drei Monate fährt diese Familie in den Urlaub.
+91. Ich sehe ... Fehler in deiner Kontrollarbeit.
+92. Ich habe auf ... Fälle eine warme Jacke mitgenommen.
+93. Dieser Mann hat ... Städte der Welt angesehen.
+94. Er besuchte die Museen ... Städte.
+95. In dieser Uni studieren junge Leute aus ... Ländern.
+96. Dieses Mädchen erzählt ... ihre Geschichten.
+97. Ich wünsche ... viel Glück.
+98. ... sind heute in der richtigen Zeit gekommen.
+99. Sieh mal! ... warten auf dich.
+100. Das Mädchen zeigt ... ihre letzten Bilder.
 
 ---
 
 ### 17.15 Переведите следующие предложения:
 
-104. Все дети смеются над нашим соседом.
-105. Все люди прощают своих друзей.
-106. Все альбомы по искусству интересные.
-107. Каждые два дня эта девушка ходит к парикмахеру.
-108. Каждые три недели обязательно нужно посещать музеи.
-109. Каждые пятнадцать минут он что-нибудь забывает.
-110. Он понимает все проблемы нашей работы.
-111. Она ищет все картины этого художника.
-112. Мы часто приглашаем в клуб всех наших друзей. Некоторые отказываются, но некоторые приходят.
-113. Возьми на всякий случай мобильный телефон. Мы будем тебе звонить.
-114. На всякий случай у него есть прекрасное алиби.
-115. Во всех самолетах этой фирмы очень хорошие кресла.
-116. Во всех домах этого города красивые квартиры.
-117. Эта девочка поедет за границу вместе со всеми детьми.
-118. Углы всех комнат были серые и грязные.
-119. Все уже здесь.
-120. Все будут отмечать Пасху.
+101. Все дети смеются над нашим соседом.
+102. Все люди прощают своих друзей.
+103. Все альбомы по искусству интересные.
+104. Каждые два дня эта девушка ходит к парикмахеру.
+105. Каждые три недели обязательно нужно посещать музеи.
+106. Каждые пятнадцать минут он что-нибудь забывает.
+107. Он понимает все проблемы нашей работы.
+108. Она ищет все картины этого художника.
+109. Мы часто приглашаем в клуб всех наших друзей. Некоторые отказываются, но некоторые приходят.
+110. Возьми на всякий случай мобильный телефон. Мы будем тебе звонить.
+111. На всякий случай у него есть прекрасное алиби.
+112. Во всех самолетах этой фирмы очень хорошие кресла.
+113. Во всех домах этого города красивые квартиры.
+114. Эта девочка поедет за границу вместе со всеми детьми.
+115. Углы всех комнат были серые и грязные.
+116. Все уже здесь.
+117. Все будут отмечать Пасху.
 
 ---
 
 ### 17.16* Заполните пропуски местоимением **beide**. Переведите предложения на русский язык:
 
-121. Wir ... haben heute viel zu tun.
-122. Sie ... haben unsere Einladung ins Theater nicht angenommen.
-123. Die Werke ... Künstler waren sehr schön.
-124. Das Leben ... Kinder ist sehr schwer, weil manchmal sie nichts zu essen haben.
-125. Die Mutter bat ihre ... Söhne um Hilfe, aber aus dem Grund, dass sie arbeiten müssen, kamen sie nicht.
-126. Ich sah unseren Nachbarn den schweren Koffer mit ... Händen tragen.
-127. Unsere Kollegen haben noch nicht geheiratet, weil keiner von ... wirklich verliebt ist.
-128. Er hat ... Kindern verschiedene Spielzeuge geschenkt.
+118. Wir ... haben heute viel zu tun.
+119. Sie ... haben unsere Einladung ins Theater nicht angenommen.
+120. Die Werke ... Künstler waren sehr schön.
+121. Das Leben ... Kinder ist sehr schwer, weil manchmal sie nichts zu essen haben.
+122. Die Mutter bat ihre ... Söhne um Hilfe, aber aus dem Grund, dass sie arbeiten müssen, kamen sie nicht.
+123. Ich sah unseren Nachbarn den schweren Koffer mit ... Händen tragen.
+124. Unsere Kollegen haben noch nicht geheiratet, weil keiner von ... wirklich verliebt ist.
+125. Er hat ... Kindern verschiedene Spielzeuge geschenkt.
 
 ---
 
 ### 17.17* Заполните пропуски неопределенными местоимениями **viele** и **wenige**:
 
-129. ... Menschen glauben sofort, was man ihnen erzählt.
-130. Es gibt ... schöne Sachen in diesem neuen Geschäft.
-131. Er hat schon mit ... Bekannten über dieses Problem gesprochen.
-132. Die Städte ... Länder sind reich und unglaublich schön.
-133. ... Eltern lieben ihre Kinder nicht.
-134. ... Speisen schmecken so gut wie diese Suppe.
-135. Die Bilder ... Künstler sind genauso tief wie die Werke von Salvador Dalí.
-136. Er hat ... Kollegen zum Essen eingeladen.
-137. Diese Kleider gefallen nur ... Frauen.
+126. ... Menschen glauben sofort, was man ihnen erzählt.
+127. Es gibt ... schöne Sachen in diesem neuen Geschäft.
+128. Er hat schon mit ... Bekannten über dieses Problem gesprochen.
+129. Die Städte ... Länder sind reich und unglaublich schön.
+130. ... Eltern lieben ihre Kinder nicht.
+131. ... Speisen schmecken so gut wie diese Suppe.
+132. Die Bilder ... Künstler sind genauso tief wie die Werke von Salvador Dalí.
+133. Er hat ... Kollegen zum Essen eingeladen.
+134. Diese Kleider gefallen nur ... Frauen.
 
 ---
 
 ### 17.18 Переведите следующие предложения:
 
-138. Мы оба скучаем по нашим друзьям.
-139. Они оба не понимают нас.
-140. Девочка взяла шар обеими руками.
-141. Нам понравились статьи обоих критиков.
-142. Она уничтожила оба письма своего первого мужа.
-143. Он обещает помочь многим людям, но немногие люди надеются на его помощь.
-144. Они знают многие картины этого художника.
-145. Немногие люди проводят все время за границей.
-146. Эти люди помогают многим детям.
+135. Мы оба скучаем по нашим друзьям.
+136. Они оба не понимают нас.
+137. Девочка взяла шар обеими руками.
+138. Нам понравились статьи обоих критиков.
+139. Она уничтожила оба письма своего первого мужа.
+140. Он обещает помочь многим людям, но немногие люди надеются на его помощь.
+141. Они знают многие картины этого художника.
+142. Немногие люди проводят все время за границей.
+143. Эти люди помогают многим детям.
 
 ---
 
 ### 17.19* Заполните пропуски местоимением **einige**. Переведите предложения на русский язык:
 
-147. Er hat mir ... Bildbänder geschenkt.
-148. Diese Leute besitzen ... Geschäfte im Zentrum der Stadt.
-149. Ich habe schon ... Male mit unserem Professor gesprochen.
-150. Vor ... Tagen hat sie ihren Pass verloren.
-151. In ... Stunden fahren wir in den Urlaub.
-152. Sie wird ihren Geburtstag mit ... Kollegen feiern.
-153. Vor ... Jahren arbeitete er als Grafiker in unserem Büro.
-154. ... von ihnen haben uns nicht geglaubt.
-155. ... der schönsten Bilder kann man in der Galerie kaufen.
-156. In diesem Kaufhaus sind ... der Verkäufer überhaupt nicht nett.
+144. Er hat mir ... Bildbänder geschenkt.
+145. Diese Leute besitzen ... Geschäfte im Zentrum der Stadt.
+146. Ich habe schon ... Male mit unserem Professor gesprochen.
+147. Vor ... Tagen hat sie ihren Pass verloren.
+148. In ... Stunden fahren wir in den Urlaub.
+149. Sie wird ihren Geburtstag mit ... Kollegen feiern.
+150. Vor ... Jahren arbeitete er als Grafiker in unserem Büro.
+151. ... von ihnen haben uns nicht geglaubt.
+152. ... der schönsten Bilder kann man in der Galerie kaufen.
+153. In diesem Kaufhaus sind ... der Verkäufer überhaupt nicht nett.
 
 ---
 
 ### 17.20 Переведите следующие предложения:
 
-157. Наш знакомый знает нескольких психологов из университета.
-158. Этот человек знает несколько иностранных языков.
-159. Мы уже несколько раз были в этом музее.
-160. Несколько лет назад муж этой женщины умер.
-161. Несколько дней назад она была такая усталая, что все валилось у нее из рук.
-162. Через несколько лет ее сын станет настоящим врачом.
-163. Через несколько часов он найдет решение этой проблемы.
-164. Через некоторое время погода станет намного лучше.
-165. Наш коллега не верит нескольким сотрудникам. Он считает, что некоторые из них не говорят правду.
-166. Эта студентка помогает нескольким детям с учебой.
+154. Наш знакомый знает нескольких психологов из университета.
+155. Этот человек знает несколько иностранных языков.
+156. Мы уже несколько раз были в этом музее.
+157. Несколько лет назад муж этой женщины умер.
+158. Несколько дней назад она была такая усталая, что все валилось у нее из рук.
+159. Через несколько лет ее сын станет настоящим врачом.
+160. Через несколько часов он найдет решение этой проблемы.
+161. Через некоторое время погода станет намного лучше.
+162. Наш коллега не верит нескольким сотрудникам. Он считает, что некоторые из них не говорят правду.
+163. Эта студентка помогает нескольким детям с учебой.
 ### 17.26 Переведите следующие предложения:
 
-167. Он всегда очень долго упаковывает свой чемодан.
-168. Она упаковала свою одежду и покинула этот дом.
-169. Я не могу сама упаковать все вещи.
-170. Что ты сейчас ремонтируешь?
-171. Он сам ремонтирует все в своем доме.
-172. Они прекрасно отремонтировали свою квартиру.
-173. Она всегда неохотно гладит белье.
-174. Каждые два дня он гладит свои брюки.
-175. Он погладил рубашку и надел новый костюм.
-176. Я не хочу тебе мешать.
-177. Я вас не побеспокою!
-178. Она не хотела нас беспокоить.
-179. Они уговорили нас поехать вместе с ними.
-180. Почему ты не уговорил ее подождать нас?
-181. Она принесла хлеб и воду.
-182. Принеси холодное пиво из холодильника.
-183. Мы уже принесли старые вещи из подвала.
+164. Он всегда очень долго упаковывает свой чемодан.
+165. Она упаковала свою одежду и покинула этот дом.
+166. Я не могу сама упаковать все вещи.
+167. Что ты сейчас ремонтируешь?
+168. Он сам ремонтирует все в своем доме.
+169. Они прекрасно отремонтировали свою квартиру.
+170. Она всегда неохотно гладит белье.
+171. Каждые два дня он гладит свои брюки.
+172. Он погладил рубашку и надел новый костюм.
+173. Я не хочу тебе мешать.
+174. Я вас не побеспокою!
+175. Она не хотела нас беспокоить.
+176. Они уговорили нас поехать вместе с ними.
+177. Почему ты не уговорил ее подождать нас?
+178. Она принесла хлеб и воду.
+179. Принеси холодное пиво из холодильника.
+180. Мы уже принесли старые вещи из подвала.
 
 ### 17.23* Проспрягайте в Präsens, Präteritum, Perfekt и Futurum данные глаголы сильного спряжения и заполните пропуски соответствующими грамматическими формами:
 
 **verlassen (A), an/ziehen (A), an/bieten (D) (A), behalten (A), ein/fallen (D)**
 
-184. Wann ..... er unsere Stadt? (verlassen).
-185. Warum ..... sie ihre Kinder? (verlassen).
-186. Nach der Explosion ..... diese Leute ihre alten Wohnungen (verlassen).
-187. Ich habe erfahren, dass er seine alte Mutter ...... (verlassen).
-188. Sie ..... diesen schwarzen Rock oft (anziehen).
-189. Warum ..... er dieses Hemd nicht (anziehen)?
-190. Gestern ..... er zum ersten Mal seinen neuen Anzug (anziehen).
-191. Warum ..... du diese kurze Hose ..... (anziehen)?
-192. Warum ..... er seine blaue Jacke nicht .....? (anziehen).
-193. Was wirst du heute .....? (anziehen).
-194. Wenn meine Freunde bei mir zu Besuch sind, ..... ich ihnen Kaffee und Kuchen (anbieten).
-195. Was ..... Sie Ihren Gästen? (anbieten).
-196. Der Kunsthändler ..... der Künstlerin, ihre Bilder zu verkaufen. (anbieten).
-197. Er ..... ihr für jedes Bild 500 Euro ..... (anbieten).
-198. Mein Onkel ..... die alten Zeitungen (behalten).
-199. Diese Sache ..... ihren Wert bis heute (behalten).
-200. Er ..... im Kopf alles, was wir ihm gesagt haben (behalten).
-201. Er ..... alle Briefe seiner ersten Frau (behalten).
-202. Warum ..... du diese Sache bei dir .....? (behalten).
-203. Statt diesen Bericht zu ....., hat er ihn sofort vernichtet (behalten).
-204. Manchmal ..... diesem Künstler etwas (einfallen).
-205. Was ..... dir gestern? (einfallen).
-206. Plötzlich ..... ihm ......, dass er seine Familie verlassen muss (einfallen).
+181. Wann ..... er unsere Stadt? (verlassen).
+182. Warum ..... sie ihre Kinder? (verlassen).
+183. Nach der Explosion ..... diese Leute ihre alten Wohnungen (verlassen).
+184. Ich habe erfahren, dass er seine alte Mutter ...... (verlassen).
+185. Sie ..... diesen schwarzen Rock oft (anziehen).
+186. Warum ..... er dieses Hemd nicht (anziehen)?
+187. Gestern ..... er zum ersten Mal seinen neuen Anzug (anziehen).
+188. Warum ..... du diese kurze Hose ..... (anziehen)?
+189. Warum ..... er seine blaue Jacke nicht .....? (anziehen).
+190. Was wirst du heute .....? (anziehen).
+191. Wenn meine Freunde bei mir zu Besuch sind, ..... ich ihnen Kaffee und Kuchen (anbieten).
+192. Was ..... Sie Ihren Gästen? (anbieten).
+193. Der Kunsthändler ..... der Künstlerin, ihre Bilder zu verkaufen. (anbieten).
+194. Er ..... ihr für jedes Bild 500 Euro ..... (anbieten).
+195. Mein Onkel ..... die alten Zeitungen (behalten).
+196. Diese Sache ..... ihren Wert bis heute (behalten).
+197. Er ..... im Kopf alles, was wir ihm gesagt haben (behalten).
+198. Er ..... alle Briefe seiner ersten Frau (behalten).
+199. Warum ..... du diese Sache bei dir .....? (behalten).
+200. Statt diesen Bericht zu ....., hat er ihn sofort vernichtet (behalten).
+201. Manchmal ..... diesem Künstler etwas (einfallen).
+202. Was ..... dir gestern? (einfallen).
+203. Plötzlich ..... ihm ......, dass er seine Familie verlassen muss (einfallen).
 
 ---
 
 ### 17.24 Переведите следующие предложения:
 
-207. Мы не знали, что наш коллега нас скоро покидает.
-208. Год назад наш сосед покинул свою жену.
-209. После несчастного случая они покинули свой дом.
-210. Она не могла ничего делать: силы покинули ее, все валилось у нее из рук.
-211. Почему он покинул эту страну?
-212. Не покидайте нас сегодня!
-213. Он не часто надевает этот костюм.
-214. Она надевает это платье, когда идет на вечеринку.
-215. Надень эту голубую рубашку! Она тебе идет.
-216. Он надел пальто, потому что на улице было холодно.
-217. Могу ли я предложить вам напитки?
-218. Она всегда предлагает гостям кофе.
-219. Когда мы пришли к нашим знакомым, они предложили нам горячий чай с пирогами.
-220. Она предложила ему деньги за его отчет.
-221. Сколько они предложили за эту машину? - Не имею представления.
-222. Она сохраняет все статьи своего мужа.
-223. Вопреки всему он сохраняет ясную голову.
-224. Мы сохранили эти картины для вас.
-225. Они сохранили все открытки с видами городов мира.
-226. Этот рисунок можно было сохранить.
-227. Что вдруг пришло тебе в голову?
-228. Мне пришло в голову, что наши друзья хотят нас покинуть.
-229. Ему вдруг пришло в голову, что он должен надеть смокинг.
-230. Как жаль, что секретарше не пришло в голову предложить гостям чай или кофе!
+204. Мы не знали, что наш коллега нас скоро покидает.
+205. Год назад наш сосед покинул свою жену.
+206. После несчастного случая они покинули свой дом.
+207. Она не могла ничего делать: силы покинули ее, все валилось у нее из рук.
+208. Почему он покинул эту страну?
+209. Не покидайте нас сегодня!
+210. Он не часто надевает этот костюм.
+211. Она надевает это платье, когда идет на вечеринку.
+212. Надень эту голубую рубашку! Она тебе идет.
+213. Он надел пальто, потому что на улице было холодно.
+214. Могу ли я предложить вам напитки?
+215. Она всегда предлагает гостям кофе.
+216. Когда мы пришли к нашим знакомым, они предложили нам горячий чай с пирогами.
+217. Она предложила ему деньги за его отчет.
+218. Сколько они предложили за эту машину? - Не имею представления.
+219. Она сохраняет все статьи своего мужа.
+220. Вопреки всему он сохраняет ясную голову.
+221. Мы сохранили эти картины для вас.
+222. Они сохранили все открытки с видами городов мира.
+223. Этот рисунок можно было сохранить.
+224. Что вдруг пришло тебе в голову?
+225. Мне пришло в голову, что наши друзья хотят нас покинуть.
+226. Ему вдруг пришло в голову, что он должен надеть смокинг.
+227. Как жаль, что секретарше не пришло в голову предложить гостям чай или кофе!
 
 ---
 
@@ -523,45 +539,45 @@ Unser Chef hat vergessen, dem Psychologen und dem Experten persönlich für ihre
 
 **ein|packen (A), reparieren (A), bügeln (A), stören (A), überreden (A), holen (A)**
 
-231. Warum ..... er seinen Koffer wieder? (einpacken).
-232. Sie ... ihre Sachen nicht richtig ..... (einpacken).
-233. Er hat keine Kraft, seine Anzüge ..... (einpacken).
-234. Gewöhnlich ..... er selbst sein Auto (reparieren).
-235. Unsere Nachbarn ... ihre Wohnung immer ganz gut (reparieren).
-236. Wer ..... diesen Fernseher? (reparieren).
-237. Wer ..... seine Hemden? (bügeln).
-238. Das Mädchen ..... ihre Hosen so gut, dass sie wie neu aussehen (bügeln).
-239. Die Frau ..... die Wäsche und ging in die Küche kochen (bügeln).
-240. Entschuldigen Sie, wenn ich ..... (stören).
-241. Gestern ..... er alle unsere Pläne (stören).
-242. Das Kind ..... mich bei der Arbeit ..... (stören).
-243. ..... ich dich? (stören).
-244. Er ..... mich zum Essen (überreden).
-245. Wir ...... ihn, bei uns zu bleiben (überreden).
-246. Er ... mich ....., seine Einladung anzunehmen (überreden).
-247. Am Vormittag ... er seine Sachen vom Bahnhof (holen).
-248. Endlich ..... sie den Bildband vom Regal (holen).
-249. Er ... ein kleines Paket von der Post ..... (holen).
-250. Sie hat vergessen, Brot ..... (holen).
+228. Warum ..... er seinen Koffer wieder? (einpacken).
+229. Sie ... ihre Sachen nicht richtig ..... (einpacken).
+230. Er hat keine Kraft, seine Anzüge ..... (einpacken).
+231. Gewöhnlich ..... er selbst sein Auto (reparieren).
+232. Unsere Nachbarn ... ihre Wohnung immer ganz gut (reparieren).
+233. Wer ..... diesen Fernseher? (reparieren).
+234. Wer ..... seine Hemden? (bügeln).
+235. Das Mädchen ..... ihre Hosen so gut, dass sie wie neu aussehen (bügeln).
+236. Die Frau ..... die Wäsche und ging in die Küche kochen (bügeln).
+237. Entschuldigen Sie, wenn ich ..... (stören).
+238. Gestern ..... er alle unsere Pläne (stören).
+239. Das Kind ..... mich bei der Arbeit ..... (stören).
+240. ..... ich dich? (stören).
+241. Er ..... mich zum Essen (überreden).
+242. Wir ...... ihn, bei uns zu bleiben (überreden).
+243. Er ... mich ....., seine Einladung anzunehmen (überreden).
+244. Am Vormittag ... er seine Sachen vom Bahnhof (holen).
+245. Endlich ..... sie den Bildband vom Regal (holen).
+246. Er ... ein kleines Paket von der Post ..... (holen).
+247. Sie hat vergessen, Brot ..... (holen).
 ### 17.26 Переведите следующие предложения:
 
-251. Он всегда очень долго упаковывает свой чемодан.
-252. Она упаковала свою одежду и покинула этот дом.
-253. Я не могу сама упаковать все вещи.
-254. Что ты сейчас ремонтируешь?
-255. Он сам ремонтирует все в своем доме.
-256. Они прекрасно отремонтировали свою квартиру.
-257. Она всегда неохотно гладит белье.
-258. Каждые два дня он гладит свои брюки.
-259. Он погладил рубашку и надел новый костюм.
-260. Я не хочу тебе мешать.
-261. Я вас не побеспокою!
-262. Она не хотела нас беспокоить.
-263. Они уговорили нас поехать вместе с ними.
-264. Почему ты не уговорил ее подождать нас?
-265. Она принесла хлеб и воду.
-266. Принеси холодное пиво из холодильника.
-267. Мы уже принесли старые вещи из подвала.
+248. Он всегда очень долго упаковывает свой чемодан.
+249. Она упаковала свою одежду и покинула этот дом.
+250. Я не могу сама упаковать все вещи.
+251. Что ты сейчас ремонтируешь?
+252. Он сам ремонтирует все в своем доме.
+253. Они прекрасно отремонтировали свою квартиру.
+254. Она всегда неохотно гладит белье.
+255. Каждые два дня он гладит свои брюки.
+256. Он погладил рубашку и надел новый костюм.
+257. Я не хочу тебе мешать.
+258. Я вас не побеспокою!
+259. Она не хотела нас беспокоить.
+260. Они уговорили нас поехать вместе с ними.
+261. Почему ты не уговорил ее подождать нас?
+262. Она принесла хлеб и воду.
+263. Принеси холодное пиво из холодильника.
+264. Мы уже принесли старые вещи из подвала.
 
 ---
 
@@ -571,24 +587,24 @@ a) **настраивать музыкальный инструмент**
 b) **соответствовать истине, быть верным**  
 c) **голосовать за (für A), против (gegen A)**  
 
-268. Он настраивает не только пианино, но и струнные инструменты.
-269. Моя сестра не может сама настроить гитару.
-270. Твои слова не соответствуют истине. Почему ты не говоришь правду?
-271. Что-то в этой истории не соответствовало истине.
-272. Это верно! Вы дали правильный ответ.
-273. За кого вы будете голосовать в воскресенье? - Я буду голосовать против всех.
-274. Несколько лет назад они голосовали за «Яблоко», теперь они вообще не голосуют.
-275. Многие люди проголосовали за этого кандидата, и он стал президентом.
+265. Он настраивает не только пианино, но и струнные инструменты.
+266. Моя сестра не может сама настроить гитару.
+267. Твои слова не соответствуют истине. Почему ты не говоришь правду?
+268. Что-то в этой истории не соответствовало истине.
+269. Это верно! Вы дали правильный ответ.
+270. За кого вы будете голосовать в воскресенье? - Я буду голосовать против всех.
+271. Несколько лет назад они голосовали за «Яблоко», теперь они вообще не голосуют.
+272. Многие люди проголосовали за этого кандидата, и он стал президентом.
 
 ---
 
 ### 17.28 Переведите следующие предложения, используя глагол **zurück|kehren**. Обратите внимание на его употребление в Perfekt со вспомогательным глаголом **sein**:
 
-276. Он вернулся вчера после долгого путешествия домой.
-277. Почему ты не возвращаешься так долго?
-278. Ему потребуется много времени, чтобы вернуться домой.
-279. Ее сын не хочет, к сожалению, возвращаться домой из-за границы.
-280. После войны он не вернулся домой.
+273. Он вернулся вчера после долгого путешествия домой.
+274. Почему ты не возвращаешься так долго?
+275. Ему потребуется много времени, чтобы вернуться домой.
+276. Ее сын не хочет, к сожалению, возвращаться домой из-за границы.
+277. После войны он не вернулся домой.
 
 ---
 
@@ -601,34 +617,34 @@ b) **без частицы zu**
 
 ### 17.31* Заполните пропуски артиклями в соответствующем роде, числе и падеже:
 
-281. Sie versprach mir gestern, ... Brief in ... Kasten zu stecken.
-282. ... Umschlag ... Briefes war blau mit ... Fenster für ... Adresse.
-283. Auf ... Post hat sie alles vergessen, weil sie ... alten Freund sah.
-284. Wir gingen in ... Keller, um ... Vetter bei ... Arbeit zu helfen.
-285. Nach ... Regen ist es immer schön auf ... Straße.
-286. Meine Tante mag ... Opern. Sie hat ... Lust, ... Opern zu hören.
-287. ... Frühjahr ist immer wunderbar in Spanien.
-288. Meine Freundin hat mich gebeten, ihr nach ... Unterricht zu helfen.
-289. Als ich ... Paket zu ... Post trug, fand ich ... Pilz unter ... Baum.
-290. ... Aufführung hat ... guten Eindruck auf uns gemacht.
-291. Warum hat deine Mutter dich nicht überredet, ... Mantel anzuziehen?
+278. Sie versprach mir gestern, ... Brief in ... Kasten zu stecken.
+279. ... Umschlag ... Briefes war blau mit ... Fenster für ... Adresse.
+280. Auf ... Post hat sie alles vergessen, weil sie ... alten Freund sah.
+281. Wir gingen in ... Keller, um ... Vetter bei ... Arbeit zu helfen.
+282. Nach ... Regen ist es immer schön auf ... Straße.
+283. Meine Tante mag ... Opern. Sie hat ... Lust, ... Opern zu hören.
+284. ... Frühjahr ist immer wunderbar in Spanien.
+285. Meine Freundin hat mich gebeten, ihr nach ... Unterricht zu helfen.
+286. Als ich ... Paket zu ... Post trug, fand ich ... Pilz unter ... Baum.
+287. ... Aufführung hat ... guten Eindruck auf uns gemacht.
+288. Warum hat deine Mutter dich nicht überredet, ... Mantel anzuziehen?
 
 ---
 
 ### 17.32* Заполните пропуски предлогами:
 
-292. Gehst du ... Post oder ... Unterricht?
-293. Ich höre meine Schwester ... Nebenzimmer Geige spielen.
-294. Die alten Sachen der Familie sind alle ... Keller.
-295. Wohin gehst du ... der Post? - Ich gehe ... Bahnhof.
-296. Was macht ihr ... Deutschunterricht?
-297. Was hast du ... Umschlag gefunden?
-298. Bist du ... Regen so nass geworden?
-299. ... dem Grund, dass ich arbeiten sollte, ging ich nicht ... Aufführung.
-300. Wir haben ... unserem Vetter lange nicht gehört.
-301. Er ist erst ... Frühjahr endlich nach Hause zurückgekehrt.
-302. Werden Sie ... oder ... diesen Kandidaten stimmen?
-303. Dieser Brief ist ... Herrn Stolz. Ich nahm ihn ... Versehen.
+289. Gehst du ... Post oder ... Unterricht?
+290. Ich höre meine Schwester ... Nebenzimmer Geige spielen.
+291. Die alten Sachen der Familie sind alle ... Keller.
+292. Wohin gehst du ... der Post? - Ich gehe ... Bahnhof.
+293. Was macht ihr ... Deutschunterricht?
+294. Was hast du ... Umschlag gefunden?
+295. Bist du ... Regen so nass geworden?
+296. ... dem Grund, dass ich arbeiten sollte, ging ich nicht ... Aufführung.
+297. Wir haben ... unserem Vetter lange nicht gehört.
+298. Er ist erst ... Frühjahr endlich nach Hause zurückgekehrt.
+299. Werden Sie ... oder ... diesen Kandidaten stimmen?
+300. Dieser Brief ist ... Herrn Stolz. Ich nahm ihn ... Versehen.
 ### 17.35 Найдите в тексте немецкие эквиваленты к следующим выражениям:
 
 - Мы как раз сидели за завтраком
@@ -667,26 +683,26 @@ b) **без частицы zu**
 
 ### 17.36 Переведите следующие предложения:
 
-304. Они как раз сидели за завтраком в саду, когда начался дождь.
-305. Она пошла на почту, чтобы опустить письмо в ящик.
-306. Эта женщина работает в школе учительницей. Кроме того, она дает уроки.
-307. Этот человек был немного не от мира сего. Мы давно о нем ничего не слышали.
-308. Она попрощалась со мной и покинула наш дом.
-309. Я не хотела вас больше беспокоить, но решение этой проблемы действительно необходимо.
-310. В записке было написано, что в левом кармане пальто лежат важные документы.
-311. Здесь часто идут дожди, особенно ночью.
-312. Вы не хотите попрощаться с нами?
-313. Я заранее благодарю вас за вашу помощь.
-314. Надо надеяться, что мы используем эти вещи.
-315. Надо надеяться, что эти грибы вам понравятся.
-316. У меня насморк и головная боль, потому что позавчера я промок.
-317. Тебе нужно погладить брюки. Они мятые.
-318. Я вскрыл конверт и увидел два билета на оперу Вагнера «Тангейзер».
-319. Флейта была старая, но вполне в хорошем состоянии.
-320. Они ушли, не попрощавшись с нами.
-321. Это письмо по ошибке было адресовано господину Круффу.
-322. Что снова пришло тебе в голову? Мы же уговорили тебя остаться у нас.
-323. Что идет сегодня в театре? У меня нет желания идти сегодня на этот спектакль.
+301. Они как раз сидели за завтраком в саду, когда начался дождь.
+302. Она пошла на почту, чтобы опустить письмо в ящик.
+303. Эта женщина работает в школе учительницей. Кроме того, она дает уроки.
+304. Этот человек был немного не от мира сего. Мы давно о нем ничего не слышали.
+305. Она попрощалась со мной и покинула наш дом.
+306. Я не хотела вас больше беспокоить, но решение этой проблемы действительно необходимо.
+307. В записке было написано, что в левом кармане пальто лежат важные документы.
+308. Здесь часто идут дожди, особенно ночью.
+309. Вы не хотите попрощаться с нами?
+310. Я заранее благодарю вас за вашу помощь.
+311. Надо надеяться, что мы используем эти вещи.
+312. Надо надеяться, что эти грибы вам понравятся.
+313. У меня насморк и головная боль, потому что позавчера я промок.
+314. Тебе нужно погладить брюки. Они мятые.
+315. Я вскрыл конверт и увидел два билета на оперу Вагнера «Тангейзер».
+316. Флейта была старая, но вполне в хорошем состоянии.
+317. Они ушли, не попрощавшись с нами.
+318. Это письмо по ошибке было адресовано господину Круффу.
+319. Что снова пришло тебе в голову? Мы же уговорили тебя остаться у нас.
+320. Что идет сегодня в театре? У меня нет желания идти сегодня на этот спектакль.
 
 ---
 

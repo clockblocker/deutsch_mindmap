@@ -22,4 +22,4 @@ G: des [[Herdes]], der [[Herde]]
 D: dem [[Herd]], den [[Herden]] 
 
 ---
-[[heizen]], [[erhitzen]], [[kochen]], [[backen]], [[warmhalten]]
+[[heizen]], [[erhitzen]], [[kochen]], [[backen]], [[warmhalten]], [[Kocher]]

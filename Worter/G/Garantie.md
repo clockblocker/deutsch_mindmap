@@ -1,1 +1,1 @@
-, [[Versicherung]], [[garantiert]], [[Garantiebestimmung]], [[Pfand]]
+, [[Versicherung]], [[garantiert]], [[Garantiebestimmung]], [[Pfand]], [[Garantieplan]]

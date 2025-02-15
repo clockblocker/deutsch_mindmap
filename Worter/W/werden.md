@@ -1,6 +1,4 @@
-🌱 [[werden]]  
-[[wurde]]  
-sein [[geworden]]
+🌱 [[werden]] , [[wurde]], sein [[geworden]]
 
 ---
 ANNA: Ich [[würde]] dir antworten …  

@@ -23,4 +23,4 @@ Genitive: der [[Besprechung]], der [[Besprechungen]]
 Dative: der [[Besprechung]], den [[Besprechungen]]  
 
 ---
-[[besprechen]], [[besprechend]], [[besprechbar]], [[beschließen]]
+[[besprechen]], [[besprechend]], [[besprechbar]], [[beschließen]], [[Rezension]]

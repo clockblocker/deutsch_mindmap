@@ -1,1 +1,1 @@
-, [[Konto]], [[abrechnung]]
+, [[Konto]], [[Abrechnung]]

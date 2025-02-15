@@ -1,1 +1,1 @@
-, [[eklig]], [[abstoßen]], [[garstig]]
+, [[eklig]], [[abstoßen]], [[garstig]], [[hässlich]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kohles]], [[Kohle]], [[Kohlen]], [[Kohlen]]
 
 ---
-#Substantiv #Feminin, [[kohlpechrabenschwarzer]]
+#Substantiv #Feminin, [[kohlpechrabenschwarzer]], [[Kreide]]

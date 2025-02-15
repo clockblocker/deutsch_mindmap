@@ -1,1 +1,1 @@
-, [[leis]], [[Flüsternd]], [[leuchtender]], [[laut]]
+, [[leis]], [[Flüsternd]], [[leuchtender]], [[laut]], [[leise]]

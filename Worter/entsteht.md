@@ -1,1 +1,1 @@
-🌱 [[entstehen]], [[Gebäude]], [[Anki]], [[passend]], [[1 Präpositionen Übungen]]
+🤔 [[entstehen]]

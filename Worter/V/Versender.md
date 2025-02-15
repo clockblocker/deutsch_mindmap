@@ -1,1 +1,1 @@
-, [[Absender]]
+, [[Absender]], [[versenden]], [[Versandt]]

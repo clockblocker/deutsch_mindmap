@@ -1,1 +1,1 @@
-, [[Mist]], [[Dreck]]
+, [[Mist]], [[Dreck]], [[Edelsteine]]

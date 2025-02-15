@@ -1,1 +1,1 @@
-, [[leis]], [[still]], [[Geräusch]], [[laut]]
+, [[leis]], [[still]], [[Geräusch]], [[laut]], [[leise]]

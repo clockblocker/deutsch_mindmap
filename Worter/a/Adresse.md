@@ -19,4 +19,4 @@ Morphems:
 [[Adress]][[e]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Versandadresse]]

@@ -1,10 +1,12 @@
- [[leise]], [ˈlaɪ̯zə]
+[[leise]], [ˈlaɪ̯zə]
 nicht [[laut]]
 
 ---
 Sie können [[leise]] spielen
 
-[[Kaum]] der [[Wunsch]] gesprochen [[ward]],*  
+Sie spricht [[leise]] 
+
+*[[Kaum]] der [[Wunsch]] gesprochen [[ward]],*  
 *als die Türe [[leise]] [[knarrt]]:*  
 *Zu den Mädchen, zu den drein,*  
 *[[eintreten|tritt]] der Zar des Landes ein.*  

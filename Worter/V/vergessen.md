@@ -29,4 +29,4 @@ PI: [[vergessend]], PII: [[vergessen]], Zu+inf: [[zu vergessen]]
 [[vergessen]] - [[ver]] = [[gessen]] / to forget
 
 ---
-[[Vergessen]], [[Vergessenheit]], [[vergeßlich]], [[unvergessen]], [[Vergesslichkeit]], [[Wiederholung]]
+[[Vergessen]], [[Vergessenheit]], [[vergeßlich]], [[unvergessen]], [[Vergesslichkeit]], [[Worter/W/Wiederholung]]

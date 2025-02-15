@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Geschenks]], [[Geschenke]], [[Geschenken]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[Lieferung]], [[Geschenkbestätigung]]

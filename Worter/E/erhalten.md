@@ -5,6 +5,8 @@ haben [[erhalten]]
 ---
 Du [[erhältst]] morgen ein Geschenk.
 
+[[amazon.md#^2|(q)]] [[Produktsupport]] [[erhalten]] ^2
+
 [[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 
 Schon 1964 [[erhielt]] Richter die Gelegenheit zur ersten [[Einzelausstellung]] und bald präsentierten viele in- und ausländische Galerien seine Werke
@@ -21,10 +23,7 @@ Je mehr „[[Zweitstimmen]]“ eine [[Partei]] bei einer [[Bundestagswahl]] beko
 	- [x] mehr [[Sitze]] [[erhält]] die Partei im Parlament.
 
 255. Bei [[Erziehungsproblemen]] können Eltern in Deutschland Hilfe [[erhalten]] vom … (96%)
-	- [ ] [[Ordnungsamt]].
-	- [ ] [[Schulamt]].
 	- [x] [[Jugendamt]].
-	- [ ] [[Gesundheitsamt]].
 
 ---
 Synonyme: [[bekommen]], [[empfangen]], [[kriegen]], [[annehmen]], [[beziehen]]
@@ -54,4 +53,4 @@ Partizip I: [[erhaltend]], Partizip II: [[erhalten]]
 
 
 [[ändern]], [[holen]], [[verloren]], [[verlieren]], [[Worter/H/haben]], [[kriegen]], [[verdienen]], [[abbekommen]]
-, [[beibehalten]], [[überlebt]], [[erben]], [[vernichten]], [[1 Präpositionen Übungen]]
+, [[beibehalten]], [[überlebt]], [[erben]], [[vernichten]], [[1 Präpositionen Übungen]], [[versenden]]

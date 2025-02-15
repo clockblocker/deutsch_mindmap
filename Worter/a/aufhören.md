@@ -43,4 +43,4 @@ Zu+infinifive: [[aufzuhören]]
 🛑 [[aufhören]], [[studieren]], [[weitergehen]], [[aufbringen]], [[rauchen]]
 
 Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können.
-, [[geigen]]
+, [[geigen]], [[aufgeben]]

@@ -1,1 +1,1 @@
-, [[Wiederholung]]
+, [[Worter/W/Wiederholung]]

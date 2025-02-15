@@ -30,4 +30,4 @@ Partizip I: [[bestellend]], Partizip II: [[bestellt]]
 
 
 , [[bestellt]], [[einladen]]
-, [[ernennen]], [[absagen]]
+, [[ernennen]], [[absagen]], [[Bestellung]]

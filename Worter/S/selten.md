@@ -2,7 +2,9 @@ selten, [ˈzɛltn̩]
 nicht [[häufig]]
 
 ---
- „Das gibt es nur [[selten]]. Glück im Spiel und in der Liebe haben nur [[wenige]]“
+Wir [[zweifeln]] [[selten]]
+
+Das gibt es nur [[selten]]. Glück im Spiel und in der Liebe haben nur [[wenige]]
 
 Er bekommt sechs Zeitschriften, die 80 Euro im Monat kosten. Und er zahlt 60 Euro im Monat für ein Fitnessstudio, in das er zu [[selten]] geht. 
 
@@ -28,4 +30,4 @@ Superlativ: [[seltensten]]
 
 
 [[täglich]][[normal]], [[meist]], [[bald]], [[Öfteren]]
-, [[manchmal]], [[üblich]], [[tausendfach]]
+, [[manchmal]], [[üblich]], [[tausendfach]], [[zweifeln]]

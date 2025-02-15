@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schrankes]], [[Schranke]], [[Schränke]], [[Schränken]]
 
 ---
-#Substantiv #Maskulin, [[beschränken]], [[Stuhl]], [[Tisch]]
+#Substantiv #Maskulin, [[beschränken]], [[Stuhl]], [[Tisch]], [[Kocher]]

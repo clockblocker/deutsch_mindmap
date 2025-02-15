@@ -24,4 +24,4 @@ G: der [[Einladung]], der [[Einladungen]]
 D: der [[Einladung]], den [[Einladungen]]  
 
 ---
-[[einladen]], [[einladend]], [[Einlader]], [[Einladerin]], [[einladungsweise]]
+[[einladen]], [[einladend]], [[Einlader]], [[Einladerin]], [[einladungsweise]], [[Lieferung]]

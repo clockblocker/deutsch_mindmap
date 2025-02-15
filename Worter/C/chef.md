@@ -1,1 +1,1 @@
-, [[Regierungschef]], [[Oberhaupt]]
+, [[Regierungschef]], [[Oberhaupt]], [[Herrchen]]

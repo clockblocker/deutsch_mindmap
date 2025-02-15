@@ -30,4 +30,4 @@ PI: [[verwerfend]], PII: [[verworfen]], Zu+inf: [[zuverwerfen]]
 [[Verwerfung]], [[Ablehnung]], [[Zurückweisung]], [[verworfen]], [[verwerflich]]
 
 [[aussuchen]], [[wählen]], [[vorschlagen]], [[beschließen]], [[vorhaben]], [[verstoßen]], [[ableiten]], [[entwerfen]]
-, [[aufnehmen]]
+, [[aufnehmen]], [[verabscheuen]]

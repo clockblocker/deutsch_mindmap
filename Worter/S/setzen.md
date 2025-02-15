@@ -13,6 +13,7 @@ Katara, du solltest nicht deine ganze Hoffnung [[auf]] diesen Jungen [[setzen]].
 ---
 [[einsetzen]] - [[ein]] = [[setzen]] / insert
 [[besetzen]] - [[be]] = [[setzen]] / to occupy, to fill, to take up
+[[ersetzen]] - [[er]] = [[setzen]] / to replace, to substitute
 
 
 ---
@@ -39,4 +40,4 @@ Morpheme: [[setz]][[en]]
 
 Partizip I: [[setzend]], Partizip II: [[gesetzt]]
 
-[[setzen]] - [[setz]] = [[en]], [[einsetzen]], [[besetzen]], [[übersetzen]], [[s1 e1]]
+[[setzen]] - [[setz]] = [[en]], [[einsetzen]], [[besetzen]], [[übersetzen]], [[s1 e1]], [[ersetzen]]

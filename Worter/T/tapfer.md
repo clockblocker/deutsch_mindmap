@@ -5,6 +5,8 @@ nicht [[feige]]
 *[[Umarmt]] Katara, dreht sich zu Sokka*
 Und du mein [[tapferer]] Krieger. Sei schön nett zu deiner Schwester. *Umarmt ihn ebenfalls.*
 
+1. Будь всегда храбрым! – Sei immer [[tapfer]]!
+
 ---
 = [[mutig]], [[couragiert]], [[furchtlos]]
 ≈ [[kühn]], [[unerschrocken]], [[entschlossen]], [[herzhaft]]

@@ -27,4 +27,4 @@ PI: [[einrichtend]], PII: [[eingerichtet]], Zu+inf: [[einzurichten]]
 [[einrichten]] - [[ein]] = [[richten]] / to assemble, to fit out, to set up, to furnish
 
 ---
-[[Einrichtung]], [[Einrichtungsgegenstand]], [[einrichten]], [[uneingerichtet]], [[Einrichtung]], [[abrechnung]]
+[[Einrichtung]], [[Einrichtungsgegenstand]], [[einrichten]], [[uneingerichtet]], [[Einrichtung]], [[Abrechnung]]

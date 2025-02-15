@@ -127514,3 +127514,16368 @@ Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkus
 ```
 
 ---
+
+## 2025-02-13T05:27:36.567Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Kreide
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔴 🖍️ die [[Kreide]], [kʁaɪ̯də]
+die [[Kreiden]]
+
+
+---
+
+
+---
+= [[Stifte]], [[Farbstifte]], [[Buntstifte]]
+≈ [[Zeichenstifte]], [[Malstifte]], [[Stockpastell]], [[Ölpastell]]
+≠ [[Bleistift]], [[Tinte]], [[Kohle]], [[Tusche]]
+
+---
+chalk
+
+---
+[[Kreid]]|[[e]]
+
+---
+N: die [[Kreide]], die [[Kreiden]]  
+A: die [[Kreide]], die [[Kreiden]]  
+G: der [[Kreide]], der [[Kreiden]]  
+D: der [[Kreide]], den [[Kreiden]]  
+
+---
+[[Kreidezeit]], [[kreidehaltig]]
+```
+
+---
+
+## 2025-02-13T05:34:49.411Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+hässlich
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🤬 [[hässlich]], ['hɛslɪç]
+
+---
+
+
+---
+= [[unattraktiv]], [[abstoßend]], [[widerlich]]
+≈ [[unschön]], [[scheußlich]], [[ekelhaft]]
+≠ [[schön]], [[ansehnlich]], [[attraktiv]], [[anmutig]]
+
+---
+ugly, hideous
+
+---
+[[häss]]|[[lich]]
+
+---
+N: [[hässlich]], [[hässlicher]], [[hässlichster]]  
+A: [[hässlichen]], [[hässlicheren]], [[hässlichsten]]  
+G: [[hässlichen]], [[hässlicheren]], [[hässlichsten]]  
+D: [[hässlichem]], [[hässlicherem]], [[hässlichstem]]  
+F: [[hässliche]], [[hässlichere]], [[hässlichste]]  
+N: [[hässliches]], [[hässlicheres]], [[hässlichstes]]  
+P: [[hässlichen]], [[hässlicheren]], [[hässlichsten]]  
+
+---
+[[Hässlichkeit]], [[verhässlichen]], [[Hässling]], [[hässlichkeitsbedingt]]
+</ideal_output>
+```
+
+---
+
+## 2025-02-13T05:49:19.243Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Münzen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 🪙 die [[Münzen]]
+
+---
+
+
+---
+= [[Bargeld]], [[Kleingeld]], [[Geldstücke]]
+≈ [[Dukaten]], [[Taler]], [[Pfennig]], [[Groschen]], [[Mark]], [[Euro]]
+≠ [[Scheine]], [[Geldscheine]], [[Banknoten]]
+
+---
+coins
+
+---
+[[Münz]]|[[en]]
+
+---
+N: die [[Münze]], die [[Münzen]]  
+A: die [[Münze]], die [[Münzen]]  
+G: der [[Münze]], der [[Münzen]]  
+D: der [[Münze]], den [[Münzen]]  
+
+---
+[[Prägen]], [[Münzsammlung]], [[Münzstätte]], [[Münzprüfer]], [[Münzkunde]]
+```
+
+---
+
+## 2025-02-13T05:49:49.870Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Münze
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 💰 die [[Münze]], [mʏntsə]
+die [[Münzen]]
+
+---
+
+
+---
+= [[Geldstück]], [[Kleingeld]]
+≈ [[Pfennig]], [[Cent]], [[Taler]], [[Dukaten]]
+≠ [[Schein]], [[Banknote]], [[Kreditkarte]], [[Girokarte]]
+
+---
+coin
+
+---
+[[Mün]]|[[ze]]
+
+---
+N: die [[Münze]], die [[Münzen]]  
+A: die [[Münze]], die [[Münzen]]  
+G: der [[Münze]], der [[Münzen]]  
+D: der [[Münze]], den [[Münzen]]  
+
+---
+[[münzen]], [[münzbar]], [[münzartig]], [[münzhaltig]]
+```
+
+---
+
+## 2025-02-13T05:51:23.677Z
+### Prompt:
+```
+Translate the given German text to English. The translation should be staying true to the original meaning. When possible, mimic german sentance structure. Only provide the translation, no explanations or additional content.
+
+<example>
+input:
+Der fleißige Student fängt an, das schwierige Buch zu lesen.
+output:
+The diligent student begins the difficult book to read.
+</example>
+
+<example>
+input:
+Keine Angst. Mit Wasser kriegt man das wieder ab.
+output:
+No worry. With water can one wash it off.
+</example>
+Wir [[zweifeln]] [[selten]]
+```
+
+### Response:
+```
+We [[doubt]] [[rarely]]
+```
+
+---
+
+## 2025-02-13T05:51:31.937Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+zweifeln
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+😤 [[zweifeln]], [ˈt͡svaɪ̯fl̩n] | [[zweifelte]], haben [[gezweifelt]]
+
+---
+
+---
+= [[bezweifeln]], [[misstrauen]]
+≈ [[unsicher sein]], [[zögern]], [[schwanken]], [[vermuten]]
+≠ [[glauben]], [[vertrauen]], [[annehmen]], [[sicher sein]]
+
+---
+to doubt, to question, to be uncertain
+
+---
+[[zwei]]|[[fel]]
+
+---
+ich: [[zweifle]], [[zweifelte]], –, [[zweifle]], [[zweifelte]]
+du: [[zweifelst]], [[zweifeltest]], [[zweifle]] | [[zweifel]] | [[zweifelst]], [[zweifeltest]], [[zweifeltest]]
+er/sie/es: [[zweifelt]], [[zweifelte]], –, [[zweifle]], [[zweifelte]]
+wir: [[zweifeln]], [[zweifelten]], [[zweifeln wir|zweifeln]], [[zweifeln]], [[zweifelten]]
+ihr: [[zweifelt]], [[zweifeltet]], [[zweifelt]], [[zweifelt]], [[zweifeltet]]
+
+PI: [[zweifelnd]], PII: [[gezweifelt]], Zu+inf: [[zuzweifeln]]
+
+---
+[[zweifeln]] - [[zwei]] = [[feln]] / to doubt, to question, to be uncertain
+
+---
+[[Zweifel]], [[zweifelhaft]], [[Zweifler]], [[zweifellos]], [[zweifelnd]]
+```
+
+---
+
+## 2025-02-13T06:30:13.222Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+Ты встречаешь подругу – Du triffst eine Freundin.
+```
+
+### Response:
+```
+Du *triffst Deine* Freundin.
+Der Akkusativ von "Freundin" ist "Deine Freundin".
+```
+
+---
+
+## 2025-02-13T09:02:45.560Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+Наши соседи после Рождества неожиданно прекратили заниматься спортом.
+```
+
+### Response:
+```
+Unsere Nachbarn haben nach Weihnachten überraschend aufgehört, Sport zu treiben.
+```
+
+---
+
+## 2025-02-13T09:08:27.262Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+Мы счастливы, что снова весной поедем в Германию.
+```
+
+### Response:
+```
+Wir freuen uns, dass wir im Frühling wieder nach Deutschland fahren.
+```
+
+---
+
+## 2025-02-14T03:53:45.574Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Zweifel
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🧐 [[Zweifel]], [tsvaɪ̯fl̩] 
+
+---
+
+---
+= [[Skepsis]], [[Unsicherheit]], [[Bedenken]]
+≈ [[Zögern]], [[Grübeln]], [[Unschlüssigkeit]], [[Verdacht]]
+≠ [[Vertrauen]], [[Sicherheit]], [[Überzeugung]], [[Gewissheit]]
+
+---
+doubt, uncertainty
+
+---
+[[Zwei]]|[[fel]]
+
+---
+N: der [[Zweifel]], die [[Zweifel]]  
+A: den [[Zweifel]], die [[Zweifel]]  
+G: des [[Zweifels]], der [[Zweifel]]  
+D: dem [[Zweifel]], den [[Zweifeln]]  
+
+---
+zweifelhaft, zweifellos, zweifeln, zweifach, zweifeln
+```
+
+---
+
+## 2025-02-14T05:09:43.286Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Mütze
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔴 👒 die [[Mütze]], [ˈmʏt͡sɛ]
+die [[Mützen]]
+
+---
+
+
+---
+= [[Kopfbedeckung]]
+≈ [[Hut]], [[Kappe]], [[Beret]]
+≠ [[Helm]], [[Perücke]], [[Haare]]
+
+---
+cap, hat
+
+---
+[[Mütz]]|[e]]
+
+---
+N: die [[Mütze]], die [[Mützen]]  
+A: die [[Mütze]], die [[Mützen]]  
+G: der [[Mütze]], der [[Mützen]]  
+D: der [[Mütze]], den [[Mützen]]  
+
+---
+[[mützen]]
+```
+
+---
+
+## 2025-02-14T15:11:57.513Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Edelsteine
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔴 💎 die [[Edelsteine]], [ˈeːdl̩ʃtaɪnə]
+die [[Edelsteine]]
+
+---
+
+
+---
+= [[Juwele]], [[Kostbarkeiten]], [[Diamanten]], [[Saphire]], [[Rubine]]
+≈ [[Schmuckstücke]], [[Preziosen]], [[Wertgegenstände]], [[Kleinode]]
+≠ [[Dreck]], [[Schutt]], [[Unrat]], [[Abfall]]
+
+---
+gemstones, jewels
+
+---
+[[Edel]]|[[stein]]
+
+---
+N: die [[Edelsteine]], die [[Edelsteine]]  
+A: die [[Edelsteine]], die [[Edelsteine]]  
+G: der [[Edelsteine]], der [[Edelsteine]]  
+D: den [[Edelsteinen]], den [[Edelsteinen]]  
+
+---
+[[edel]], [[steinern]], [[Edelsteinmine]], [[Edelsteinschleifer]]
+
+```
+
+---
+
+## 2025-02-14T15:16:28.993Z
+### Prompt:
+```
+Given a german word, determine its infinitive form and pick an appropriate emoji to represent it. If the word is a noun, determin it's gender and use 🔵 for der,  🔴 for die, if 🟢 for das. Do not write anything else, just the infinitive and an emoji. given "brutzelt"   "🍳[[brutzeln]]". Given "gesorgt" reply with "🤔 [[sorgen]]". Given "Hoffnungen" reply with "🤞 🔴 die [[Hoffnung]]. Given "eisigen", reply with "🥶 [[eisig]]. I a word can be a form of multiple parts of speach, list all options, separated with |. For expample, given "vergangene", reply with "🕰️, [[vergangen]] | 🕰️, [[vergehen]]. Given "Nieser", reply with "🤧 [[niesen]] | 🔵 🤧 der [[Nieser]]. Gigen "klares", reply with "😌 [[klären]] | 😌 [[klar]] | 😌 🟢 das [[Klare]]"
+entsteht
+```
+
+### Response:
+```
+🤔 [[entstehen]]
+```
+
+---
+
+## 2025-02-14T15:17:03.484Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+entstehen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+ entstehen, [ɛntˈʃteːən] | entstand, hat entstanden
+
+---
+
+---
+= entstehen
+≈ entwickeln, werden
+≠ sterben, vergehen
+
+---
+to arise, to originate
+возникнуть, зародиться, образоваться
+
+---
+ent|steh|en
+
+---
+ich: entstehe, entstand, –, entstehe, entstünde
+du: entstehst, entstandst, entstehe | entsteh, entstehst, entstandst
+er/sie/es: entsteht, entstand, –, entstehe, entstünde
+wir: entstehen, entstanden, entstehen wir|entstehen, entstehen, entstanden
+ihr: entsteht, entstandt, entsteht, entstehet, entstandt
+
+PI: entstehend, PII: entstanden, Zu+inf: entstehen
+
+---
+ entstehen - ent = stehen / to arise, to originate
+
+---
+ Entstehung, Stehen, Geständnis
+```
+
+---
+
+## 2025-02-14T15:17:06.524Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+entstehen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+
+```
+
+### Error:
+```
+{
+  "status": 429,
+  "statusText": ""
+}
+```
+
+---
+
+## 2025-02-14T15:17:14.892Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+entstehen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🤔 [[entstehen]], [ɛntˈʃteːən] | [[entstand]], haben [[entstanden]]
+
+---
+
+---
+= [[auftreten]], [[geschehen]], [[passieren]], [[stattfinden]]
+≈ [[erscheinen]], [[hervorrufen]], [[verursachen]]
+≠ [[vergehen]], [[aufhören]], [[verhindern]], [[unterbinden]]
+
+---
+to arise, to occur, to happen
+
+---
+[[ent]]|[[steh]]|[[en]]
+
+---
+ich: [[entstehe]], [[entstand]], –, [[entstehe]], [[entstände]]
+du: [[entstehst]], [[entstandst]], [[entstehe]] | [[entsteh]] | [[entstehe]], [[entstehst]], [[entstandst]]
+er/sie/es: [[entsteht]], [[entstand]], –, [[entstehe]], [[entstände]]
+wir: [[entstehen]], [[entstanden]], [[entstehen wir|entstehen]], [[entstehen]], [[entstanden]]
+ihr: [[entsteht]], [[entstandet]], [[entsteht]], [[entstehet]], [[entstandet]]
+
+PI: [[entstehend]], PII: [[entstanden]], Zu+inf: [[entstehen]]
+
+---
+[[entstehen]] - [[ent]] = [[stehen]] / to arise, to occur, to happen
+
+---
+[[Entstehung]], [[Entstehungsgeschichte]], [[Entstehungsjahr]], [[entstehend]], [[entstanden]]
+```
+
+---
+
+## 2025-02-14T15:19:21.621Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+entsteht
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+😤 [[entsteht]], [ˈɛntʃtɛːt] | [[entstand]], [[entstanden]]
+
+---
+
+---
+= [[herkommen]], [[entstehen]], [[kommen]], [[aufstehen]]
+≈ [[sich ergeben]], [[folgen]], [[geschehen]], [[passieren]], [[sich bilden]]
+≠ [[vergehen]], [[sterben]], [[endgültig sein]], [[unwiderruflich sein]]
+---
+to arise, to come into being, to originate, to result
+возникнуть, появиться
+
+---
+[[ent]]|[[steh]]|[[en]]
+
+---
+ich: [[entstehe]], [[entstand]], [[entstand]], [[entstehe]], [[entstünde]]
+du: [[entstehst]], [[entstandest]], [[entstehe]] | [[entsteh]] | [[entstehst]], [[entstandest]], [[entstündest]]
+er/sie/es: [[entsteht]], [[entstand]], [[entstanden]], [[entstehe]], [[entstünde]]
+wir: [[entstehen]], [[entstanden]], [[entstehen wir|entstehen]], [[entstehen]], [[entstanden]]
+ihr: [[entsteht]], [[entstandet]], [[entsteht]], [[entstehet]], [[entstandet]]
+
+PI: [[entstehend]], PII: [[entstanden]], Zu+inf: [[zuentstehen]]
+
+---
+[[entstehen]] - [[ent]] = [[stehen]] / to arise, to come into being, to originate, to result
+
+---
+[[Entstehung]], [[Entstehen]], [[stehend]], [[bestehend]], [[zustandekommen]]
+```
+
+---
+
+## 2025-02-14T15:19:38.356Z
+### Prompt:
+```
+Given a german word, determine its infinitive form and pick an appropriate emoji to represent it. If the word is a noun, determin it's gender and use 🔵 for der,  🔴 for die, if 🟢 for das. Do not write anything else, just the infinitive and an emoji. given "brutzelt"   "🍳[[brutzeln]]". Given "gesorgt" reply with "🤔 [[sorgen]]". Given "Hoffnungen" reply with "🤞 🔴 die [[Hoffnung]]. Given "eisigen", reply with "🥶 [[eisig]]. I a word can be a form of multiple parts of speach, list all options, separated with |. For expample, given "vergangene", reply with "🕰️, [[vergangen]] | 🕰️, [[vergehen]]. Given "Nieser", reply with "🤧 [[niesen]] | 🔵 🤧 der [[Nieser]]. Gigen "klares", reply with "😌 [[klären]] | 😌 [[klar]] | 😌 🟢 das [[Klare]]"
+entsteht
+```
+
+### Response:
+```
+🤔 [[entstehen]]
+```
+
+---
+
+## 2025-02-14T15:21:06.997Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Herrchen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 🐕 das [[Herrchen]], [ˈhɛɐ̯çən]
+die [[Herrchen]]
+
+---
+
+
+---
+= [[Besitzer]], [[Herr]]
+≈ [[Meister]], [[Chef]]
+≠ [[Sklave]], [[Diener]], [[Knecht]]
+
+---
+master, owner
+
+---
+[[Herr]]|[[chen]]
+
+---
+N: das [[Herrchen]], die [[Herrchen]]  
+A: den [[Herrchen]], die [[Herrchen]]  
+G: des [[Herrchens]], der [[Herrchen]]  
+D: dem [[Herrchen]], den [[Herrchen]]  
+
+---
+[[Herr]], [[Herrenmensch]]
+```
+
+---
+
+## 2025-02-14T15:21:50.820Z
+### Prompt:
+```
+Given a german word, determine its infinitive form and pick an appropriate emoji to represent it. If the word is a noun, determin it's gender and use 🔵 for der,  🔴 for die, if 🟢 for das. Do not write anything else, just the infinitive and an emoji. given "brutzelt"   "🍳[[brutzeln]]". Given "gesorgt" reply with "🤔 [[sorgen]]". Given "Hoffnungen" reply with "🤞 🔴 die [[Hoffnung]]. Given "eisigen", reply with "🥶 [[eisig]]. I a word can be a form of multiple parts of speach, list all options, separated with |. For expample, given "vergangene", reply with "🕰️, [[vergangen]] | 🕰️, [[vergehen]]. Given "Nieser", reply with "🤧 [[niesen]] | 🔵 🤧 der [[Nieser]]. Gigen "klares", reply with "😌 [[klären]] | 😌 [[klar]] | 😌 🟢 das [[Klare]]"
+liebgewonnen
+```
+
+### Response:
+```
+ gewonnen | 😊 [[liebgewinnen]] | 😊 🟢 das [[Liebgewonnene]]
+```
+
+---
+
+## 2025-02-14T15:22:08.329Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+liebwinnen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+
+```
+
+### Error:
+```
+{
+  "response": {
+    "candidates": [
+      {
+        "finishReason": "SAFETY",
+        "index": 0,
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "MEDIUM"
+          },
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE"
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE"
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE"
+          }
+        ]
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2987,
+      "totalTokenCount": 2987
+    },
+    "modelVersion": "gemini-pro"
+  }
+}
+```
+
+---
+
+## 2025-02-14T15:22:10.622Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+liebwinnen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+
+```
+
+### Error:
+```
+{
+  "status": 429,
+  "statusText": ""
+}
+```
+
+---
+
+## 2025-02-14T15:22:18.456Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+liebwinnen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+
+```
+
+### Error:
+```
+{
+  "response": {
+    "candidates": [
+      {
+        "finishReason": "SAFETY",
+        "index": 0,
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "MEDIUM"
+          },
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE"
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE"
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE"
+          }
+        ]
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 2987,
+      "totalTokenCount": 2987
+    },
+    "modelVersion": "gemini-pro"
+  }
+}
+```
+
+---
+
+## 2025-02-14T15:22:22.769Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+liebwinnen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+😍 [[liebgewinnen]], [liːpɡəˈvɪnən] | [[liebgewann]], haben [[liebgewonnen]]
+
+---
+
+---
+= [[zuneigung empfinden]], [[mögen]], [[gern haben]]
+≈ [[verehren]], [[schätzen]], [[respektieren]], [[bewundern]]
+≠ [[hassen]], [[verabscheuen]], [[abneigen]]
+
+---
+to grow fond of
+
+---
+[[lieb]]|[[gewin]]|[[nen]]
+
+---
+ich: [[liebgewinne]], [[liebgewann]], –, [[liebgewinne]], [[liebgewänne]]
+du: [[liebgewinnst]], [[liebgewannt]], [[liebgewinne]] | [[gewinne lieb]], [[liebgewinnst]], [[liebgewannt]]
+er/sie/es: [[liebgewinnt]], [[liebgewann]], –, [[liebgewinne]], [[liebgewänne]]
+wir: [[liebgewinnen]], [[liebgewonnen]], [[liebgewinnen wir|liebgewinnen]], [[liebgewinnen]], [[liebgewonnen]]
+ihr: [[liebgewinnt]], [[liebgewonnt]], [[liebgewinnt]], [[gewinnt lieb]], [[liebgewonnt]]
+
+PI: [[liebgewinnend]], PII: [[liebgewonnen]], Zu+inf: [[liebzugewinnen]]
+
+---
+[[liebgewinnen]] - [[lieb]] = [[gewinnen]] / to grow fond of
+
+---
+[[lieb]], [[lieblich]], [[Liebe]], [[liebenswert]], [[lieblos]], [[liebkosen]]
+```
+
+---
+
+## 2025-02-14T15:22:26.481Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+liebwinnen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+💖 [[liebgewinnen]], [liːpˈɡəvɪnən] | [[liebgewonnen]], haben [[liebgewonnen]]
+
+---
+
+---
+= [[ins Herz schließen]], [[Zuneigung entwickeln]]
+≈ [[gernhaben]], [[mögen]], [[sympathisch finden]], [[verliebt sein]]
+≠ [[ablehnen]], [[nicht mögen]], [[nicht ausstehen können]], [[verabscheuen]]
+
+---
+grow fond of, begin to love
+
+---
+[[lieb]]|[[ge]]|[[winn]]|[[en]]
+
+---
+ich: [[gewinne lieb]], [[gewann lieb]], –, [[gewinne lieb]], [[gewönne lieb]]
+du: [[gewinnst lieb]], [[gewinntest lieb]], [[gewinne lieb]] | [[ge­winn lieb]], [[gewinnst lieb]], [[gewinntest lieb]]
+er/sie/es: [[gewinnt lieb]], [[gewann lieb]], –, [[gewinne lieb]], [[gewönne lieb]]
+wir: [[gewinnen lieb]], [[gewannen lieb]], [[gewinnen wir lieb|gewinnen lieb]], [[gewinnen lieb]], [[gewönnen lieb]]
+ihr: [[gewinnt lieb]], [[gewinnt lieb]], [[gewinnt lieb]], [[gewinnet lieb]], [[gewinnt lieb]]
+
+PI: [[liebgewinnend]], PII: [[liebgewonnen]], Zu+inf: [[liebzugewinnen]]
+
+---
+[[liebgewinnen]] - [[lieb]] = [[gewinnen]] / grow fond of, begin to love
+
+---
+[[Liebhaber]], [[Liebgewinnung]], [[liebenswert]], [[lieblich]]
+</ideal_output>
+```
+
+---
+
+## 2025-02-14T15:25:48.594Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+verabscheuen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+😠 [[verabscheuen]], [fɛɐ̯ˈʔapʃɔɪ̯ən] | [[verabscheute]], [[haben verabscheut]]
+
+---
+
+---
+= [[hassen]], [[verachten]], [[verwerfen]]
+≈ [[meiden]], [[widerwärtig  finden]], [[ekeln vor]], [[ablehnen]]
+≠ [[lieben]], [[respektieren]], [[schätzen]], [[bevorzugen]]
+
+---
+to detest, to abhor
+
+---
+[[ver]]|[[ab]]|[[scheuen]]
+
+---
+ich: [[verabscheue]], [[verabscheute]], –, [[verabscheue]], [[verabscheute]]
+du: [[verabscheust]], [[verabscheutest]], [[verabscheue]] | [[verabscheu]] | [[verabscheust]], [[verabscheuest]], [[verabscheutest]]
+er/sie/es: [[verabscheut]], [[verabscheute]], –, [[verabscheue]], [[verabscheute]]
+wir: [[verabscheuen]], [[verabscheuten]], [[verabscheuen wir|verabscheuen]], [[verabscheuen]], [[verabscheuten]]
+ihr: [[verabscheut]], [[verabscheutet]], [[verabscheut]], [[verabscheuet]], [[verabscheutet]]
+
+PI: [[verabscheuend]], PII: [[verabscheut]], Zu+inf: [[zu verabscheuen]]
+
+---
+[[verabscheuen]] - [[ver]] = [[abscheuen]] / to detest, to abhor
+
+---
+[[Abs\xC3\xBCheu]], [[abscheulich]], [[abscheuenerregend]], [[verabscheuenswürdig]]
+</ideal_output>
+```
+
+---
+
+## 2025-02-14T15:34:01.900Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+Obwohl du es mir gesagt hast, habe ich es nicht gehört. 
+```
+
+### Response:
+```
+✅
+```
+
+---
+
+## 2025-02-14T15:34:12.890Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+Obwohl du es mir gesagt hat, habe ich es nicht gehört. 
+```
+
+### Response:
+```
+"hat" sollte "hast" sein, da es sich um die 2. Person Singular (du) handelt.
+```
+
+---
+
+## 2025-02-14T15:34:19.595Z
+### Prompt:
+```
+Translate the given German text to English. The translation should be staying true to the original meaning. When possible, mimic german sentance structure. Only provide the translation, no explanations or additional content.
+
+<example>
+input:
+Der fleißige Student fängt an, das schwierige Buch zu lesen.
+output:
+The diligent student begins the difficult book to read.
+</example>
+
+<example>
+input:
+Keine Angst. Mit Wasser kriegt man das wieder ab.
+output:
+No worry. With water can one wash it off.
+</example>
+Obwohl du es mir gesagt hat, habe ich es nicht gehört. 
+```
+
+### Response:
+```
+Although you told me of it, I did not hear it.
+```
+
+---
+
+## 2025-02-14T15:34:56.829Z
+### Prompt:
+```
+Process the given German text and generate output following these rules:
+
+For verbs:
+a. If the verb is in its basic form (infinitive), enclose it in double square brackets: [[infinitive]]
+b. If the verb is not in its basic form, use this format: [[infinitive|encountered form]]
+b. If the verb is trenbarren, add the prefix to the infinitive: [[prefixed infinitive|encountered form]]
+For nouns:
+a. If the noun is singular, enclose it in double square brackets: [[singular form]]
+b. If the noun is plural, use this format: [[singular form|plural form]]
+For adjectives:
+a. If the adjective is in its basic form, enclose it in double square brackets: [[basic form]]
+b. If the adjective is not in its basic form, use this format: [[basic form|encountered form]]
+Ignore haben/sein, articles (definite and indefinite), names, proper nouns and pronomen
+
+<example>
+Der fleißige Student fängt an, das schwierige Buch zu lesen, das sein Lehrer empfohlen hat.
+Der [[fleißig|fleißige]] [[Student]] [[anfangen|fängt]] an, das [[schwierig|schwierige]] [[Buch]] zu [[lesen]], das sein [[Lehrer]] [[empfehlen|empfohlen]] hat.
+</example>
+
+<example>
+(Schubst Sokka weg) Genau, er ist bestimmt ein Spion der Feuermarine! Das sieht man schon an dem furchtbar bösen Blick in seinen Augen!
+([[wegschubsen|Schubst]] [[schubsen|Sokka]] weg) Genau, er ist [[bestimmt]] ein [[Spion]] der [[Feuermarine]]! Das [[sehen|sieht]] man [[schon]] an dem [[furchtbar|furchtbare]] [[böse|bösen]] [[Blick]] in seinen [[Auge|Augen]]!
+</example>
+
+<example>
+Keine Angst. Mit Wasser kriegt man das wieder ab. Und, wohnt ihr hier in der Gegend?
+Keine [[Angst]]. Mit [[Wasser]] [[abkriegen|kriegt]] man das wieder ab. Und, [[wohnen|wohnt]] ihr hier in der [[Gegend]]?
+</example>
+
+<example>
+und riß ihnen die Flügel aus.  
+und [[ausreißen|riß]] ihnen die [[Flügel]] aus.
+</example>
+
+<example>
+Er schlug die Stühl und Vögel tot,  
+Er [[totschlagen|schlug]] die [[Stuhl|Stühl]] und [[Vogel|Vögel]] tot,
+<example>
+
+
+The output should only contain the processed text, without explanations or additional content. Ensure grammatical accuracy in the final output.
+
+Obwohl du es mir gesagt hat, habe ich es nicht gehört. 
+```
+
+### Response:
+```
+[[sagen|Obwohl du es mir gesagt]] hat, [[hören|habe ich es nicht gehört]].
+```
+
+---
+
+## 2025-02-15T03:13:04.744Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Kocher
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 🍽️ der [[Kocher]]
+die [[Kocher]]
+
+---
+
+
+---
+= [[Herd]], [[Gasherd]], [[E-Herd]]
+≈ [[Backofen]], [[Mikrowelle]], [[Cerankochfeld]]
+≠ [[Tisch]], [[Schrank]], [[Spüle]], [[Dunstabzugshaube]]
+
+---
+stove, cooker
+
+---
+[[Ko]]|[[cher]]
+
+---
+N: der [[Kocher]], die [[Kocher]]  
+A: den [[Kocher]], die [[Kocher]]  
+G: des [[Kochers]], der [[Kocher]]  
+D: dem [[Kocher]], den [[Kochern]] 
+
+---
+[[kochen]], [[kochend]], [[Koch]]
+```
+
+---
+
+## 2025-02-15T03:13:18.979Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Teekanne
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🟢  teapot
+die [[Teekanne]], [ˈteːkanə]
+die [[Teekannen]]
+
+---
+
+
+---
+= [[Kaffekanne]], [[Wasserkocher]], [[Samovar]]
+≈ [[Behälter]], [[Gefäß]], [[Krug]], [[Topf]], [[Urne]]
+≠ [[Tasse]], [[Glas]], [[Becher]], [[Schüssel]]
+
+---
+teapot
+
+---
+[[Tee]]|[[kann]]|[[e]]
+
+---
+N: die [[Teekanne]], die [[Teekannen]]  
+A: die [[Teekanne]], die [[Teekannen]]  
+G: der [[Teekanne]], der [[Teekannen]]  
+D: der [[Teekanne]], den [[Teekannen]]  
+
+---
+[[teekanneartig]], [[teekanntengro\xDF]]
+```
+
+---
+
+## 2025-02-15T03:13:42.119Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Füller
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 🖋️ der [[Füller]]
+die [[Füller]]
+
+---
+
+
+---
+= [[Schreibgerät]], [[Stift]], [[Tintenkuli]]
+≈ [[Filzstift]], [[Kugelschreiber]], [[Druckbleistift]], [[Federhalter]]
+≠ [[Bleistift]], [[Holzkohlestift]], [[Pinsel]], [[Radiergummi]]
+
+---
+fountain pen
+
+---
+[[Füll]]|[[er]]
+
+---
+N: der [[Füller]], die [[F\xFCller]]  
+A: den [[F\xFCller]], die [[Füller]]  
+G: des [[F\xFCllers]], der [[F\xFCller]]  
+D: dem [[F\xFCller]], den [[Füllern]]  
+
+---
+[[füllen]], [[Fülle]], [[Füllerpatrone]], [[füllbar]], [[unfüllbar]]
+```
+
+---
+
+## 2025-02-15T03:49:56.064Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+Вы (Ihr) продаете свою рубашку
+```
+
+### Response:
+```
+Sie verkaufen Ihr Hemd
+```
+
+---
+
+## 2025-02-15T05:06:21.582Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+ пальто 
+```
+
+### Response:
+```
+Mantel
+```
+
+---
+
+## 2025-02-15T05:06:40.899Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Mantel
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 🧥 der [[Mantel]], [ˈmantl̩]
+die [[Mäntel]]
+
+---
+
+
+---
+= [[Jacke]], [[Überrock]]
+≈ [[Manteau]], [[Regenmantel]], [[Parka]], [[Lodenmantel]]
+≠ [[Hemd]], [[Bluse]], [[Pullover]], [[Hose]]
+
+---
+coat
+
+---
+[[Man]]|[[tel]]
+
+---
+N: der [[Mantel]], die [[Mäntel]]  
+A: den [[Mantel]], die [[Mäntel]]  
+G: des [[Mantels]], der [[Mäntel]]  
+D: dem [[Mantel]], den [[Mänteln]]  
+
+---
+[[Mäntelchen]], [[mänteln]], [[entmanteln]], [[verhüllen]], [[verpacken]]
+```
+
+---
+
+## 2025-02-15T05:13:01.558Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+кофту
+```
+
+### Response:
+```
+Bluse
+```
+
+---
+
+## 2025-02-15T05:14:26.485Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+sie zeigt ihrem Freund ihr Haus 
+```
+
+### Response:
+```
+Sie zeigt *ihrem* Freund *ihr* Haus.
+"Freund" is masculine, so the possessive pronoun should be "ihrem".
+"Haus" is neuter, so the possessive pronoun should be "ihr".
+```
+
+---
+
+## 2025-02-15T06:39:39.060Z
+### Prompt:
+```
+Translate the given German text to English. The translation should be staying true to the original meaning. When possible, mimic german sentance structure. Only provide the translation, no explanations or additional content.
+
+<example>
+input:
+Der fleißige Student fängt an, das schwierige Buch zu lesen.
+output:
+The diligent student begins the difficult book to read.
+</example>
+
+<example>
+input:
+Keine Angst. Mit Wasser kriegt man das wieder ab.
+output:
+No worry. With water can one wash it off.
+</example>
+Lieferung verfolgen
+Produktsupport erhalten
+Einen Garantieplan hinzufügen
+Artikel zurücksenden oder ersetzen
+Geschenkbestätigung teilen
+Schreib eine Produktrezension
+```
+
+### Response:
+```
+Track delivery
+Get product support
+Add a protection plan
+Return or replace items
+Share gift receipts
+Write a product review
+```
+
+---
+
+## 2025-02-15T06:40:11.949Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Lieferung
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 📝 die [[Lieferung]], [liːfəˈʁʊŋ]
+die [[Lieferungen]]
+
+---
+
+
+---
+= [[Zustellung]], [[Übergabe]], [[Auslieferung]]
+≈ [[Sendung]], [[Transport]], [[Belieferung]], [[Versand]]
+≠ [[Abholung]], [[Rückgabe]], [[Einladung]], [[Geschenk]]
+
+---
+delivery, shipment, consignment
+
+---
+[[liefern]]+[[ung]]
+[[Lie]]|[[fe]]|[[r]]|[[ung]]
+
+---
+N: die [[Lieferung]], die [[Lieferungen]]  
+A: die [[Lieferung]], die [[Lieferungen]]  
+G: der [[Lieferung]], der [[Lieferungen]]  
+D: der [[Lieferung]], den [[Lieferungen]]  
+
+---
+[[Lieferschein]], [[Anlieferung]], [[Auslieferung]], [[Lieferant]], [[Lieferadresse]], [[Lieferdienst]]
+```
+
+---
+
+## 2025-02-15T06:41:43.859Z
+### Prompt:
+```
+**Eingabe:** Der Agent erhält Texteingaben in einem der folgenden Formate:
+
+1. **Deutsch (DE):** Eine Textzeichenfolge in deutscher Sprache.
+2. **Russisch (RU):** Eine Textzeichenfolge in russischer Sprache.
+3. **Russisch und Deutsch (RU & DE):** Zwei Textzeichenfolgen, wobei der Agent davon ausgehen soll, dass der russische Text eine Übersetzung des deutschen Textes ist. Diese werden deutlich abgegrenzt (z. B. durch eine bestimmte Markierung wie "---" oder als separate Eingaben bereitgestellt).
+
+**Aufgabe:** Das Verhalten des Agenten hängt vom Eingabeformat ab:
+
+* **Deutsche Eingabe (DE):** Der Agent identifiziert und erklärt grammatikalische Fehler im deutschen Text, *ohne* Vokabeländerungen vorzuschlagen. Geben Sie für jeden Fehler eine kurze Erklärung an.  Fehlerhafte Wörter sollen dabei *kursiv* hervorgehoben werden. Wenn der Text grammatikalisch korrekt ist, gibt der Agent nur "✅" aus.
+
+* **Russische Eingabe (RU):** Der Agent übersetzt den russischen Text so gut wie möglich ins Deutsche. Die Ausgabe ist die deutsche Übersetzung.
+
+* **Russische und Deutsche Eingabe (RU & DE):** Der Agent analysiert den russischen Text als mögliche Übersetzung des deutschen Textes. Er prüft sowohl die grammatikalische als auch die lexikalische Korrektheit. Bei Fehlern in der Übersetzung (grammatikalisch oder lexikalisch) gibt der Agent eine kurze Erklärung an. Fehlerhafte Wörter in der *deutschen Übersetzung* sollen dabei *kursiv* hervorgehoben werden. Wenn die Übersetzung/der Satz korrekt ist, gibt der Agent nur "✅" aus.
+
+**Ausgabeformat:**
+
+Die Ausgabe des Agenten besteht *nur* aus:
+
+* Fehlererklärungen (für DE- und RU&DE-Eingaben, wenn Fehler gefunden werden).
+* Der deutschen Übersetzung (für RU-Eingaben).
+* "✅" (wenn die Eingabe korrekt oder die Übersetzung richtig ist).
+
+Die Ausgabe soll kurz sein und alle zusätzlichen Kommentare oder Erklärungen vermeiden, die nicht ausdrücklich angefordert werden. Es sind keine einleitenden oder abschließenden Bemerkungen erforderlich. Halten Sie dieses strikte Ausgabeformat ein.
+
+**Beispiele:**
+
+<example>
+<input>
+Он читает книгу.
+</input>
+<output>
+Er liest ein Buch.
+</output>
+</example>
+
+<example>
+<input>
+Ich möchte ein Apfel.
+</input>
+<output>
+Ich möchte *einen* Apfel.
+"Apfel" is masculine, so the article should be "einen" (accusative) in this context.
+</output>
+</example>
+
+<example>
+<input>
+Sie hat gesagt, dass sie müde ist.
+Она сказала, что она устала.
+</input>
+<output>
+✅
+</output>
+</example>
+
+<example>
+<input>
+Мы пойдем гулять завтра.
+</input>
+<output>
+Wir werden morgen spazieren gehen.
+</output>
+</example>
+
+<example>
+<input>
+Ich habe kein Zeit.
+</input>
+<output>
+Ich habe *keine* Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+</output>
+</example>
+[[Produktsupport]] [[erhalten]]
+```
+
+### Response:
+```
+Ich habe kein Zeit.
+Das Wort "kein" sollte "keine" sein, da "Zeit" feminin ist (Nominativ oder Akkusativ).
+```
+
+---
+
+## 2025-02-15T06:42:00.437Z
+### Prompt:
+```
+Translate the given German text to English. The translation should be staying true to the original meaning. When possible, mimic german sentance structure. Only provide the translation, no explanations or additional content.
+
+<example>
+input:
+Der fleißige Student fängt an, das schwierige Buch zu lesen.
+output:
+The diligent student begins the difficult book to read.
+</example>
+
+<example>
+input:
+Keine Angst. Mit Wasser kriegt man das wieder ab.
+output:
+No worry. With water can one wash it off.
+</example>
+[[Versandadresse]]
+```
+
+### Response:
+```
+[[Shipping Address]]
+```
+
+---
+
+## 2025-02-15T06:52:44.416Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+aufgeben
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+👋 [[aufgeben]], [ˈaʊ̯fˌgeːbm̩] | [[gab auf]], haben [[aufgegeben]]
+
+---
+
+---
+= [[resignieren]], [[kapitulieren]], [[verzichten]]
+≈ [[aufhören]], [[abrechen]], [[loslassen]]
+≠ [[beginnen]], [[fortsetzen]], [[anfangen]]
+
+---
+to give up, to surrender, to quit
+
+---
+[[auf]]|[[geb]]|[[en]]
+
+---
+ich: [[gebe auf]], [[gab auf]], –, [[gebe auf]], [[gäbe auf]]
+du: [[gibst auf]], [[gabst auf]], [[gib auf]] | [[gib auf]], [[gibst auf]], [[gabst auf]]
+er/sie/es: [[gibt auf]], [[gab auf]], –, [[gebe auf]], [[gäbe auf]]
+wir: [[geben auf]], [[gaben auf]], [[geben wir auf|geben auf]], [[geben auf]], [[gaben auf]]
+ihr: [[gebt auf]], [[gabt auf]], [[gebt auf]], [[gebet auf]], [[gabt auf]]
+
+PI: [[aufgebend]], PII: [[aufgegeben]], Zu+inf: [[aufzugeben]]
+
+---
+[[aufgeben]] - [[auf]] = [[geben]] / to give up, to surrender, to quit
+
+---
+[[Aufgabe]], [[aufgeben]], [[Zugeständnis]], [[sich ergeben]]
+```
+
+---
+
+## 2025-02-15T06:55:38.010Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Bestellung
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 💼 die [[Bestellung]], [bɛˈʃtɛlʊŋ]
+die [[Bestellungen]]
+
+---
+
+
+---
+= [[Order]], [[Auftrag]]
+≈ [[Bestellwunsch]], [[Beantragung]], [[Reservierung]]
+≠ [[Abholung]], [[Lieferung]], [[Sendung]], [[Produkt]]
+
+---
+order
+
+---
+[[Be]]|[[stell]]|[[ung]]
+
+---
+N: die [[Bestellung]], die [[Bestellungen]]  
+A: die [[Bestellung]], die [[Bestellungen]]  
+G: der [[Bestellung]], der [[Bestellungen]]  
+D: der [[Bestellung]], den [[Bestellungen]]  
+
+---
+[[bestellen]], [[Bestellformular]], [[Bestellsystem]], [[bestellbereit]]
+```
+
+---
+
+## 2025-02-15T06:56:11.198Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Versandadresse
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 💌 die [[Versandadresse]], [fɛɐ̯ˈzandˌʔaˌdʁɛsə]
+die [[Versandadressen]]
+
+---
+
+
+---
+= [[Lieferadresse]], [[Empfängeradresse]]
+≈ [[Postadresse]], [[Zustelladresse]], [[Anschrift]]
+≠ [[Absenderadresse]], [[Rechnungsadresse]]
+
+---
+shipping address, delivery address
+
+---
+[[ver]]|[[sand]]|[[adres]]|[[se]]
+
+---
+N: die [[Versandadresse]], die [[Versandadressen]]  
+A: die [[Versandadresse]], die [[Versandadressen]]  
+G: der [[Versandadresse]], der [[Versandadressen]]  
+D: der [[Versandadresse]], den [[Versandadressen]]  
+
+---
+[[versenden]], [[Adresse]], [[Adressierung]], [[versandbereit]], [[versandfertig]]
+```
+
+---
+
+## 2025-02-15T06:56:27.329Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Bestelldetails
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔴 🛒 die [[Bestelldetails]], [bəˈʃtɛlˌdeːtaɪ̯ls]
+die [[Bestelldetails]]
+
+---
+
+
+---
+= [[Auftragsdetails]]
+≈ [[Details]], [[Einzelheiten]], [[Informationen]], [[Daten]]
+≠ [[Gesamtrechnung]], [[Bestellübersicht]], [[Lieferung], [[Abholung]]
+
+---
+order details
+
+---
+[[Bestell]]|[[detail]]
+[[Be]]|[[stell]]|[[de]]|[[tai]]|[[l]]
+
+---
+N: die [[Bestelldetails]], die [[Bestelldetails]]  
+A: die [[Bestelldetails]], die [[Bestelldetails]]  
+G: der [[Bestelldetails]], der [[Bestelldetails]]  
+D: den [[Bestelldetails]], den [[Bestelldetails]]  
+
+---
+[[Bestellen]], [[Bestellung]], [[Bestellformular]], [[Bestellschein]]
+```
+
+---
+
+## 2025-02-15T06:56:42.934Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+versenden
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🚀 [[versenden]], [fɛɐ̯ˈzɛndn̩] | [[versendete]], haben [[versendet]]
+
+---
+
+---
+= [[abschicken]], [[weglegen]], [[zusenden]]
+≈ [[senden]], [[zuschicken]], [[weiterleiten]], [[übertragen]]
+≠ [[empfangen]], [[bekommen]], [[erhalten]]
+
+---
+to send, to dispatch, to mail, to ship
+
+---
+[[ver]]|[[send]]|[[en]]
+
+---
+ich: [[versende]], [[versendete]], –, [[versende]], [[versendete]]
+du: [[versendest]], [[versendetest]], [[sende]] | [[versende]] | [[versendest]], [[versendetest]], [[versendetest]]
+er/sie/es: [[versendet]], [[versendete]], –, [[versende]], [[versendete]]
+wir: [[versenden]], [[versendeten]], [[versenden wir|versenden]], [[versenden]], [[versendeten]]
+ihr: [[versendet]], [[versendetet]], [[versendet]], [[versendet]], [[versendetet]]
+
+PI: [[versendend]], PII: [[versendet]], Zu+inf: [[zuversenden]]
+
+---
+[[versenden]] - [[ver]] = [[senden]] / to send, to dispatch, to mail, to ship
+
+---
+[[Versand]], [[Versender]], [[Versenderin]], [[versendbar]], [[Versandkosten]]
+```
+
+---
+
+## 2025-02-15T06:57:36.349Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Rechnung
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔴 🧾 die [[Rechnung]], [ˈʁɛçnʊŋ]
+die [[Rechnungen]]
+
+
+---
+= [[Quittung]], [[Abrechnung]], [[Beleg]]
+≈ [[Zahlung]], [[Preis]], [[Gehalt]], [[Ausgaben]]
+≠ [[Schulden]], [[Mahnung]], [[Inkasso]], [[Pfändung]]
+
+---
+bill, invoice
+
+---
+[[rech]]|[[nung]]
+
+---
+N: die [[Rechnung]], die [[Rechnungen]]  
+A: die [[Rechnung]], die [[Rechnungen]]  
+G: der [[Rechnung]], der [[Rechnungen]]  
+D: der [[Rechnung]], den [[Rechnungen]]  
+
+---
+[[Rechnungsamt]], [[Rechnungswesen]], [[Rechnungshof]], [[Abrechnung]], [[einrechnen]]
+```
+
+---
+
+## 2025-02-15T06:58:23.081Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Versandt
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 🚚 der [[Versandt]], [fɛɐ̯ˈzant] | die [[Versandkosten]]
+
+---
+
+
+---
+= [[Auslieferung]], [[Transport]], [[Zustellung]]
+≈ [[Versendung]], [[Spedition]], [[Verschickung]]
+≠ [[Empfang]], [[Erhalt]], [[Übernahme]]
+
+---
+shipment, consignment
+
+---
+[[ver]]|[[send]]|[en]]
+
+---
+N: der [[Versandt]], die [[Versandkosten]]  
+A: den [[Versandt]], die [[Versandkosten]]  
+G: des [[Versands]], der [[Versandkosten]]  
+D: dem [[Versand]], den [[Versandkosten]]  
+
+---
+[[versenden]], [[versandbereit]], [[Versender]], [[Versandhaus]]
+```
+
+---
+
+## 2025-02-15T07:35:10.729Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Produktsupport
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 🧰 der [[Produktsupport]], [pʁoˈdʊktsupɔɐ̯t]
+die [[Produktsupportuns]]
+
+
+---
+
+
+---
+= [[Kundenunterstützung]], [[Service]], [[technische Unterstützung]]
+≈ [[Hotline]], [[Support]]
+≠ [[Verkauf]], [[Marketing]], [[Beratung]]
+
+---
+product support, technical support
+
+---
+[[Produkt]]|[[sup]]|[[port]]
+
+---
+N: der [[Produktsupport]], die [[Produktsupports]]  
+A: den [[Produktsupport]], die [[Produktsupports]]  
+G: des [[Produktsupports]], der [[Produktsupports]]  
+D: dem [[Produktsupport]], den [[Produktsupports]]  
+
+---
+[[Supportmitarbeiter]], [[Supportanfrage]], [[Supportteam]], [[Supportforum]]
+```
+
+---
+
+## 2025-02-15T07:35:32.438Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Garantieplan
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 ⚖️ der [[Garantieplan]], [ɡaʁanˈtiːplaːn]
+die [[Garantiepläne]]
+
+---
+
+
+---
+= [[Garantieversicherung]]
+≈ [[Gewährleistungsschein]]
+≠ [[Garantieanspruch]], [[Garantiehaftung]], [[Garantieperiode]]
+
+---
+warranty plan
+
+---
+[[Garantie]]+[[plan]]
+[[Ga]]|[[ra]]|[[nti]]|[[e]]|[[pla]]|[[n]]
+
+---
+N: der [[Garantieplan]], die [[Garantiepläne]]  
+A: den [[Garantieplan]], die [[Garantiepläne]]  
+G: des [[Garantieplanes]], der [[Garantiepläne]]  
+D: dem [[Garantieplan]], den [[Garantieplänen]]
+```
+
+---
+
+## 2025-02-15T07:35:45.462Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+hinzufügen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+➕ [[hinzufügen]], [hɪnˈtsuːˌfʏːɡən] | [[hinzugefügt]], haben [[hinzugefügt]]
+
+---
+
+---
+= [[anfügen]], [[dazutun]], [[zufügen]]
+≈ [[ergänzen]], [[hinzufügen]], [[beifügen]]
+≠ [[entfernen]], [[wegnehmen]], [[abziehen]], [[abtragen]]
+
+---
+to add, to include
+
+---
+[[hin]]|[[zu]]|[[füg]]|[[en]]
+
+---
+ich: [[füge hinzu]], [[fügte hinzu]], –, [[füge hinzu]], [[fügte hinzu]]
+du: [[fügst hinzu]], [[fügtest hinzu]], [[füge hinzu]] | [[füg hinzu]], [[fügst hinzu]], [[fügtest hinzu]]
+er/sie/es: [[fügt hinzu]], [[fügte hinzu]], –, [[füge hinzu]], [[fügte hinzu]]
+wir: [[fügen hinzu]], [[fügten hinzu]], [[fügen wir hinzu|fügen hinzu]], [[fügen hinzu]], [[fügten hinzu]]
+ihr: [[fügt hinzu]], [[fügtet hinzu]], [[fügt hinzu]], [[füget hinzu]], [[fügtet hinzu]]
+
+PI: [[hinzufügend]], PII: [[hinzugefügt]], Zu+inf: [[hinzuzufügen]]
+
+---
+[[hinzufügen]] - [[hin]] = [[zufügen]] / to add, to include
+
+---
+[[Hinzufügung]], [[Zusatz]], [[Beilage]], [[Ergänzung]]
+
+```
+
+---
+
+## 2025-02-15T07:51:39.649Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+ersetzen
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+<german_word>
+ersetzen
+</german_word>
+<dictionary_entry>
+🔄 [[ersetzen]], [ɛɐ̯ˈzɛtsn̩] | [[ersetzte]], haben [[ersetzt]]
+
+---
+
+---
+= [[austauschen]], [[vertauschen]], [[erneuern]]
+≈ [[tauschen]], [[wechseln]], [[ersetzten durch]], [[niederlegen]]
+≠ [[hinzufügen]], [[ergänzen]], [[verstärken]], [[vermehren]]
+
+---
+to replace, to substitute
+
+---
+[[er]]|[[set]]|[[zen]]
+
+---
+ich: [[ersetze]], [[ersetzte]], –, [[ersetze]], [[ersetzte]]
+du: [[ersetzt]], [[ersetztest]], [[ersetze]] | [[ersetz]] | [[ersetze]], [[ersetzt]], [[ersetztest]]
+er/sie/es: [[ersetzt]], [[ersetzte]], –, [[ersetze]], [[ersetzte]]
+wir: [[ersetzen]], [[ersetzten]], [[ersetzen wir|ersetzen]], [[ersetzen]], [[ersetzten]]
+ihr: [[ersetzt]], [[ersetztet]], [[ersetzt]], [[ersetzet]], [[ersetztet]]
+
+PI: [[ersetzend]], PII: [[ersetzt]], Zu+inf: [[zuersetzen]]
+
+---
+[[ersetzen]] - [[er]] = [[setzen]] / to replace, to substitute
+
+---
+[[Ersetzen]], [[Ersatz]], [[Ersatzteil]], [[ersetzbar]], [[unersetzlich]]
+</dictionary_entry>
+```
+
+---
+
+## 2025-02-15T07:51:42.800Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+zurücksenden
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+📤 [[zurücksenden]], [ˌtsuːʁʏkˈzɛndn̩] | [[sandte zurück]], haben [[zurückgesandt]]
+
+---
+
+---
+= [[zurückschicken]], [[wiederkehren]], [[wiedergeben]]
+≈ [[rückerstatten]], [[retournieren]], [[wiederrufen]]
+≠ [[behalten]], [[vorenthalten]], [[einziehen]]
+
+---
+to return, to send back
+
+---
+[[zurück]]|[[send]]|[[en]]
+
+---
+ich: [[sende zurück]], [[sandte zurück]], –, [[sende zurück]], [[sendete zurück]]
+du: [[sendest zurück]], [[sandtest zurück]], [[sende zurück]] | [[sende zurück]], [[sendest zurück]], [[sandtest zurück]]
+er/sie/es: [[sendet zurück]], [[sandte zurück]], –, [[sende zurück]], [[sendete zurück]]
+wir: [[senden zurück]], [[sandten zurück]], [[senden wir zurück|senden zurück]], [[senden zurück]], [[sandten zurück]]
+ihr: [[sendet zurück]], [[sandet zurück]], [[sendet zurück]], [[sendest zurück]], [[sandet zurück]]
+
+PI: [[zurücksendend]], PII: [[zurückgesandt]], Zu+inf: [[zurückzusenden]]
+
+---
+[[zurücksenden]] - [[zurück]] = [[senden]] / to return, to send back
+
+---
+[[Zurücksendung]], [[Rücksendung]], [[zurück]], [[zurückgegeben]], [[wiederherstellen]]
+```
+
+---
+
+## 2025-02-15T07:52:47.342Z
+### Prompt:
+```
+Translate the given German text to English. The translation should be staying true to the original meaning. When possible, mimic german sentance structure. Only provide the translation, no explanations or additional content.
+
+<example>
+input:
+Der fleißige Student fängt an, das schwierige Buch zu lesen.
+output:
+The diligent student begins the difficult book to read.
+</example>
+
+<example>
+input:
+Keine Angst. Mit Wasser kriegt man das wieder ab.
+output:
+No worry. With water can one wash it off.
+</example>
+Artikel [[zurücksenden]] oder [[ersetzen]] ^4
+
+```
+
+### Response:
+```
+Return or replace article ^4
+```
+
+---
+
+## 2025-02-15T07:53:46.707Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Geschenkbestätigung
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 🎁 das [[Geschenkbestätigung]], [geˈʃɛŋkbcˌʃtaːtɪgʊŋ]
+
+---
+
+
+---
+= [[schriftliche Bescheinigung]]
+≈ [[Bescheid]], [[Attest]], [[Zertifikat]]
+≠ [[Kvittung]], [[Rechnung]]
+
+---
+a written confirmation of a gift
+
+---
+[[Geschenk]]+[[bestätigung]]
+[[Ge]]|[[schenk]]|[[be]]|[[stä]]|[[tigun]]|[[g]]
+
+---
+N: das [[Geschenkbestätigung]], die [[Geschenkbestätigungen]]  
+A: das [[Geschenkbestätigung]], die [[Geschenkbestätigungen]]  
+G: des [[Geschenkbestätigung­s]], der [[Geschenkbestätigungen]]  
+D: dem [[Geschenkbestätigung]], den [[Geschenkbestätigungen]]  
+
+---
+[[bestätigen]], [[bestätigend]], [[Bestätigung]], [[Bescheinigung]], [[Beweis]]
+```
+
+---
+
+## 2025-02-15T07:53:54.142Z
+### Prompt:
+```
+Translate the given German text to English. The translation should be staying true to the original meaning. When possible, mimic german sentance structure. Only provide the translation, no explanations or additional content.
+
+<example>
+input:
+Der fleißige Student fängt an, das schwierige Buch zu lesen.
+output:
+The diligent student begins the difficult book to read.
+</example>
+
+<example>
+input:
+Keine Angst. Mit Wasser kriegt man das wieder ab.
+output:
+No worry. With water can one wash it off.
+</example>
+[[amazon.md#^5|(q)]] [[Geschenkbestätigung]] [[teilen]] ^5
+```
+
+### Response:
+```
+Gift confirmation. [[share]]
+```
+
+---
+
+## 2025-02-15T07:54:10.403Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Produktrezension
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔵 📝 das [[Produktrezension]], [\u202Fprɔˌdʊktʁeˈt͡sɛnzi̯oːn]
+die [[Produktrezensionen]]
+
+---
+
+
+---
+= [[Produktbewertung]], [[Rezension]]
+≈ [[Produktbericht]], [[Erfahrungsbericht]], [[Bewertung]], [[Test]]
+≠ [[Werbeanzeige]], [[Werbung]], [[Marketing]], [[PR]], [[Imagekampagne]]
+
+---
+product review, product evaluation
+
+---
+[[Produkt]]+[[rezension]]
+
+---
+N: das [[Produktrezension]], die [[Produktrezensionen]]  
+A: den [[Produktrezension]], die [[Produktrezensionen]]  
+G: des [[Produktrezension]], der [[Produktrezensionen]]  
+D: dem [[Produktrezension]], den [[Produktrezensionen]] 
+
+---
+[[rezensieren]], [[Produktrezension]], [[Produktrezensent]], [[gut]], [[schlecht]]
+```
+
+---
+
+## 2025-02-15T07:54:20.497Z
+### Prompt:
+```
+You are an expert linguist specializing in the German language. Your task is to create a detailed dictionary entry for a given German word. Here's the word you need to analyze:
+
+<german_word>
+Rezension
+</german_word>
+
+Before creating the entry, analyze the word and plan your approach. Break down the word inside <word_breakdown> tags:
+
+1. Identify the part of speech of the word.
+2. If it's a verb:
+   - Determine if it's trennbar (separable) or untrennbar (inseparable).
+   - Identify its tense forms (present, past, perfect).
+   - Note any irregular conjugations. -Fill the list of cojugations (Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II) 
+3. For nouns:
+   - Identify the gender (masculine, feminine, or neuter).
+   - Determine the declension pattern.
+4. For adjectives:
+   - Note the comparative and superlative forms.
+5. Identify and list examples of each morpheme in the word.
+6. Plan which template you'll use based on the part of speech.
+7. List the key information you'll need to include in the entry (e.g., pronunciation, conjugations, synonyms, antonyms, translations, morphemes).
+
+It's OK for this section to be quite long.
+
+Now, create the dictionary entry using the appropriate template based on your analysis. Strictly adhere to the format provided in the examples, ensuring no additional text is included that isn't present in the templates. Use the following guidelines:
+
+1. For trennbar verbs:
+   - Start with an appropriate emoji
+   - Include pronunciation, conjugations, synonyms, antonyms, English and Russian translations, morpheme breakdown, and a conjugation table
+
+2. For untrennbar verbs and verbs without prefixes:
+   - Follow a similar format to trennbar verbs, adjusting the conjugation details as needed
+
+3. For adjectives:
+   - Start with an appropriate emoji
+   - Include pronunciation, antonyms, synonyms, English and Russian translations, and unique possible forms
+
+4. For nouns:
+   - Use 🔴 for feminine, 🟢 for neuter, and 🔵 for masculine nouns
+   - Include plural form, synonyms, English and Russian translations, morpheme breakdown, and unique possible forms
+
+5. For other parts of speech:
+   - Create a similar template, adapting the information as appropriate for the specific part of speech
+
+Present only your final entry. Do not present the user with word_breakdown. Do not write to the user your thought process.
+<examples>
+<example>
+<german_word>
+verfeinden
+</german_word>
+<ideal_output>
+😤 [[verfeinden]], [fɛɐ̯ˈfaɪ̯ndn̩] | [[verfeindete]], haben [[verfeindet]]
+
+---
+
+---
+= [[zerstreiten]], [[entzweien]]
+≈ Feindschaft  [[schließen]], [[verkrachen]], in Konflikt [[geraten]]
+≠ [[versöhnen]], [[vertragen]], [[anfreunden]]
+
+---
+to make enemies, to set at odds
+поссорить, сделать врагами
+
+---
+[[ver]]|[[fein]]|[den]]
+
+---
+ich: [[verfeinde]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+du: [[verfeindest]], [[verfeindetest]], [[verfeinde]] | [[verfeind]] | [[verfeinde]], [[verfeindest]], [[verfeindetest]]
+er/sie/es: [[verfeindet]], [[verfeindete]], –, [[verfeinde]], [[verfeindete]]
+wir: [[verfeinden]], [[verfeindeten]], [[verfeinden wir|verfeinden]], [[verfeinden]], [[verfeindeten]]
+ihr: [[verfeindet]], [[verfeindetet]], [[verfeindet]], [[verfeindet]], [[verfeindetet]] 
+
+PI: [[verfeindend]], PII: [[verfeindet]], Zu+inf: [[zuverfeinden]]
+
+---
+[[verfeinden]] - [[ver]] = [[feinden]] / to make enemies, to set at odds
+
+---
+[[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+Hoffnung
+</german_word>
+<ideal_output>
+🔴 🕊️ die [[Hoffnung]], [ˈhɔfnʊŋ]
+die [[Hoffnungen]]
+
+
+---
+
+
+---
+= [[Zuversicht]], [[Optimismus]]
+≈ [[Erwartung]], [[Vertrauen]], [[Glaube]], [[Wunsch]]
+≠ [[Verzweiflung]], [[Pessimismus]], [[Hoffnungslosigkeit]], [[Resignation]]
+
+---
+hope
+надежда
+
+---
+[[Hoff]]|[[nung]]
+
+---
+N: die [[Hoffnung]], die [[Hoffnungen]]  
+A: die [[Hoffnung]], die [[Hoffnungen]]  
+G: der [[Hoffnung]], der [[Hoffnungen]]  
+D: der [[Hoffnung]], den [[Hoffnungen]]  
+
+---
+[[hoffen]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Busch
+</german_word>
+<ideal_output>
+🔵 🌳 der [[Busch]]
+die [[B\xFCsche]]
+
+---
+
+
+---
+= [[Strauch]], [[Gesträuch]]
+≈ [[Gebüsch]], [[Hecke]], [[Gehölz]]
+≠ [[Baum]], [[Wiese]], [[Ackerland]], [[Ödland]]
+
+---
+bush, shrub
+
+---
+[[Busch]]
+
+---
+N: der [[Busch]], die [[Büsche]]  
+A: den [[Busch]], die [[Büsche]]  
+G: des [[Busches]], der [[Büsche]]  
+D: dem [[Busch]], den [[Büschen]] 
+
+---
+buschig, buschieren
+</ideal_output>
+</example>
+<example>
+<german_word>
+klein
+</german_word>
+<ideal_output>
+🐭 [[klein]], [\u02C8kla\u026A\u032Fn] ≠ [[gro\xDF]]
+
+---
+
+
+---
+= [[kompakt]], [[winzig]], [[gering]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
+
+---
+small, little
+
+---
+[[klein]]
+
+---
+N: [[klein]], [[kleiner]], [[kleinster]]  
+A: [[kleinen]], [[kleineren]], [[kleinsten]]  
+G: [[kleiner]], [[kleinerer]], [[kleinster]]  
+D: [[kleinem]], [[kleinerem]], [[kleinstem]]  
+F: [[kleine]], [[kleinere]], [[kleinste]]  
+N: [[kleines]], [[kleineres]], [[kleinstes]]  
+P: [[kleinen]], [[kleineren]], [[kleinsten]]  
+
+---
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+anzurufen
+</german_word>
+<ideal_output>
+📞 [[anrufen]], [ˈanʦuˌʁuːfən] | [[rief an]], haben [[angerufen]]
+
+---
+
+---
+= [[telefonieren]], [[kontaktieren]], [[anklingeln]]
+≈ [[sich melden]], [[Kontakt aufnehmen]], [[durchklingeln]]
+≠ [[ignorieren]], [[ablehnen]], [[auflegen]], [[beenden]]
+
+---
+to call, to phone
+
+---
+[[an]]|[[ru]]|[[fen]]
+
+---
+ich: [[rufe an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+du: [[rufst an]], [[riefst an]], [[rufe an]] | [[ruf an]], [[rufest an]], [[riefest an]]
+er/sie/es: [[ruft an]], [[rief an]], –, [[rufe an]], [[riefe an]]
+wir: [[rufen an]], [[riefen an]], [[rufen wir an|rufen an]], [[rufen an]], [[riefen an]]
+ihr: [[ruft an]], [[rieft an]], [[ruft an]], [[rufet an]], [[riefet an]]
+
+PI: [[anrufend]], PII: [[angerufen]], Zu+inf: [[anzurufen]]
+
+---
+[[anrufen]] - [[an]] = [[rufen]] / to call, to phone
+
+---
+[[Anruf]], [[Anrufer]], [[Anruferin]], [[anrufbar]], [[Anrufbeantworter]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+ständigen
+</german_word>
+<ideal_output>
+🕰️ [[ständig]], [ˈʃtɛndɪç] ≠ [[selten]]
+
+---
+
+
+---
+= [[fortwährend]], [[dauerhaft]], [[andauernd]]
+≈ [[permanent]], [[kontinuierlich]], [[beständig]], [[ununterbrochen]], [[pausenlos]]
+≠ [[selten]], [[gelegentlich]], [[unregelmäßig]], [[sporadisch]]
+
+---
+constantly, continuously, persistently, perpetually
+
+---
+[[stän]]|[[dig]]
+
+---
+N: [[ständig]], [[ständiger]], [[ständigster]]  
+A: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+G: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+D: [[ständigem]], [[ständigeren]], [[ständigstem]]  
+F: [[ständige]], [[ständigere]], [[ständigste]]  
+N: [[ständiges]], [[ständigeres]], [[ständigstes]]  
+P: [[ständigen]], [[ständigeren]], [[ständigsten]]  
+
+---
+[[stehen]], [[Ständigkeit]], [[zuständig]], [[anständig]], [[beständig]], [[aufständig]]
+
+
+
+</ideal_output>
+</example>
+<example>
+<german_word>
+traurig
+</german_word>
+<ideal_output>
+😢 [[traurig]], [ˈtʁaʊ̯ʁɪç]
+nicht [[fröhlich]]
+
+---
+
+
+---
+= [[betrübt]], [[bekümmert]], [[niedergeschlagen]]
+≈ [[melancholisch]], [[wehmütig]], [[bedrückt]]
+≠ [[fröhlich]], [[glücklich]], [[heiter]], [[vergnügt]]
+
+---
+sad, sorrowful
+
+---
+[[trau]]|[[rig]]
+
+---
+N: [[traurig]], [[trauriger]], [[traurigster]]  
+A: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+G: [[trauriger]], [[traurigerer]], [[traurigster]]  
+D: [[traurigem]], [[traurigerem]], [[traurigstem]]  
+F: [[traurige]], [[traurigere]], [[traurigste]]  
+N: [[trauriges]], [[traurigeres]], [[traurigstes]]  
+P: [[traurigen]], [[traurigeren]], [[traurigsten]]  
+
+---
+[[Trauer]], [[trauern]], [[Traurigkeit]], [[betrauern]], [[trauernd]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+obwohl
+</german_word>
+<ideal_output>
+🔗 [[obwohl]], [ɔpˈvoːl]
+
+---
+
+
+---
+= [[obgleich]], [[wenngleich]], [[obschon]]
+≈ [[dennoch]], [[gleichwohl]], [[trotzdem]], [[nichtsdestotrotz]]
+≠ [[weil]], [[denn]], [[deshalb]], [[daher]]
+
+---
+although, even though, despite
+
+---
+[[ob]]|[[wohl]]
+
+---
+[[trotz]], [[obschon]], [[obzwar]], [[wiewohl]], [[obgleich]]
+</ideal_output>
+</example>
+<example>
+<german_word>
+Rechercheergebnisse
+</german_word>
+<ideal_output>
+🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+die [[Rechercheergbnisse]]
+
+---
+
+
+---
+= [[Untersuchungsergebnis]], [[Forschungsergebnis]]
+≈ [[Ergebnis]], [[Resultate]], [[Erkenntnisse]], [[Befund]]
+≠ [[Hypothese]], [[Vermutung]], [[Spekulation]]
+
+---
+research result, findings
+
+---
+[[Recher­che]]+[[ergeb­nis]]
+[[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
+
+---
+N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
+D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
+
+---
+[[recherchieren]], [[Recherche]], [[ergebnisorientiert]], [[Forschung]]
+</ideal_output>
+</example>
+</examples>
+
+
+```
+
+### Response:
+```
+🔴 📖 die [[Rezension]], [ʁezɛnˈziːoːn]
+die [[Rezensionen]]
+
+
+---
+
+
+---
+= [[Kritik]], [[Besprechung]], [[Würdigung]]  
+≈ [[Beurteilung]], [[Kommentar]], [[Feuilleton]]  
+≠ [[Lob]], [[Bewunderung]], [[Ablehnung]]
+
+---
+review, critique, evaluation, assessment
+
+---
+[[Re]]|[[zens]]|[[ion]]
+
+---
+N: die [[Rezension]], die [[Rezensionen]]  
+A: die [[Rezension]], die [[Rezensionen]]  
+G: der [[Rezension]], der [[Rezensionen]]  
+D: der [[Rezension]], den [[Rezensionen]]  
+
+---
+[[rezensieren]], [[Rezensent]], [[rezensierend]], [[Rezession]]
+</dictionary_entry>
+```
+
+---

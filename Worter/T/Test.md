@@ -1,1 +1,1 @@
-, [[Prüfung]], [[Herausforderung]]
+, [[Prüfung]], [[Herausforderung]], [[Produktrezension]]

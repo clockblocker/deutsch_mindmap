@@ -25,4 +25,4 @@ Beispiele:
 
 Tags:
 #Substantiv
-#Feminin
+#Feminin, [[Mantel]]

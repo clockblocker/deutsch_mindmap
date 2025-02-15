@@ -4,6 +4,8 @@ die [[Gedulden]]
 ---
 Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird. 
 
+1. Имей терпение! – Hab [[Geduld]]!
+
  Als die beiden nach zehn Minuten immer noch streiten, [[verliert]] sie die [[Geduld]]: 
  „Also, ich möchte mich ja nicht [[Wortermischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“
  

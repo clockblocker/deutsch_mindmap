@@ -1,1 +1,1 @@
-, [[sammeln]]
+, [[sammeln]], [[Münze]]

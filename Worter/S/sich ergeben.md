@@ -1,1 +1,1 @@
-, [[klappen]]
+, [[klappen]], [[aufgeben]]

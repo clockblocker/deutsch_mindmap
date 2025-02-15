@@ -1,6 +1,8 @@
 🕵️[[verfolgen]] + Akk, [fɛɐ̯ˈfɔlɡən], [[verfolgte]], haben [[verfolgt]]
 
 ---
+[[Lieferung]] [[verfolgen]]
+
 8: Selig, die [[verfolgt]] werden um der [[Gerechtigkeit]] willen; denn ihnen gehört das Himmelreich.
 
 [[Verfolgung]] der Juden

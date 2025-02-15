@@ -1,1 +1,1 @@
-, [[Werk]], [[Frucht]]
+, [[Werk]], [[Frucht]], [[Bestellung]], [[Produktsupport]], [[Produktrezension]]

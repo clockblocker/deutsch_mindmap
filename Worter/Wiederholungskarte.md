@@ -14,7 +14,7 @@ die [[Wiederholungskarten]]
 flashcards, revision cards
 
 ---
-[[Wiederholung]]+[[Karten]]
+[[Worter/W/Wiederholung]]+[[Karten]]
 [[Wieder]]|[[hol]]|[[ung]]|[[Karten]]
 
 ---

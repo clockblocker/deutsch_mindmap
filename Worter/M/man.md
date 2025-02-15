@@ -1,1 +1,1 @@
-[[Indefinitpronomen]], [[Du]], [[Frühjahrsmantel]]
+[[Indefinitpronomen]], [[Du]], [[Frühjahrsmantel]], [[Mantel]]

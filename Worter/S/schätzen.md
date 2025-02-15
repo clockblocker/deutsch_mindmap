@@ -32,3 +32,4 @@ PI: [[schätzend]], PII: [[geschätzt]], Zu+inf: [[zuschätzen]]
 [[Schätzung]], [[Wertschätzung]], [[schätzbar]], [[Schätzmann]], [[abschätzen]], [[einschätzen]]
 
 [[gefallen]], [[hassen]], [[abmessen]], [[wiegen]], [[mögen]], [[rechnen]], [[achten]], [[raten]], [[bewundern]], [[respektieren]]
+, [[liebgewinnen]], [[verabscheuen]]

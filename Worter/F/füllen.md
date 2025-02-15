@@ -34,4 +34,4 @@ Morpheme: [[fül]][[len]]
 Partizip I: [[füllend]], Partizip II: [[gefüllt]]
 
 +[[ein]] =  [[einfüllen]]
-, [[erfüllen]]
+, [[erfüllen]], [[Füller]]

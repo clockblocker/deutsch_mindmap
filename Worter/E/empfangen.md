@@ -31,3 +31,4 @@ PI: [[empfangend]], PII: [[empfangen]], Zu+inf: [[zu empfangen]]
 ---
 [[Empfang]], [[Empfänger]], [[Empfängerin]], [[empfänglich]], [[empfangsfähig]]
 [[abholen]], [[holen]], [[kriegen]], [[nehm]], [[überweisen]], [[geben]], [[schicken]], [[erhalten]], [[begrüßen]]
+, [[versenden]]

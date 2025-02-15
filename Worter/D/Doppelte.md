@@ -9,7 +9,7 @@ Mrs Dursley war dünn und blond und [[besaß]] [[doppelt]] so viel Hals, wie [[n
 
 ---
 Synonyme:
-- [[Verdoppelung]], [[Wiederholung]], [[Duplikat]], [[Kopie]]
+- [[Verdoppelung]], [[Worter/W/Wiederholung]], [[Duplikat]], [[Kopie]]
 
 ---
 double, duplicate

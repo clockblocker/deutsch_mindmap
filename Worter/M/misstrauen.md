@@ -1,1 +1,1 @@
-, [[überzeugen]], [[misstrauisch]], [[zweifelt]]
+, [[überzeugen]], [[misstrauisch]], [[zweifelt]], [[zweifeln]]

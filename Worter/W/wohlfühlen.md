@@ -30,4 +30,4 @@ Zu+infinifive: [[wohlzufühlen]]
 [[wohlfühlen]] - [[wohl]] = [[fühlen]]
 
 ---
-[[Wohlgefühl]], [[Wohlbefinden]], [[Wohlfühlen]], [[Wohlfühlzone]], [[Tellerrand]], [[Besteck]], [[Bestecken]], [[Becher]], [[eher]]
+[[Wohlgefühl]], [[Wohlbefinden]], [[Wohlfühlen]], [[Wohlfühlzone]], [[Tellerrand]], [[Besteck]], [[Bestecken]], [[Becher]], [[eher]], [[Zweifel]]

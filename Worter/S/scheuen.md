@@ -1,1 +1,1 @@
-, [[fürchten]], [[scheu]], [[wagen]]
+, [[fürchten]], [[scheu]], [[wagen]], [[verabscheuen]]

@@ -1,1 +1,1 @@
-[[hinlegen]], [[heben]], [[aufstellen]], [[legen]], [[Niederlage]], [[erheben]], [[Wahlniederlage]]
+[[hinlegen]], [[heben]], [[aufstellen]], [[legen]], [[Niederlage]], [[erheben]], [[Wahlniederlage]], [[ersetzen]]

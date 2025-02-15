@@ -1,2 +1,2 @@
 🔴 die [[Liebe]]
-, [[feinden]], [[verlieben]]
+, [[feinden]], [[verlieben]], [[verabscheuen]]

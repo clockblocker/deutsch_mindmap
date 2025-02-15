@@ -1,4 +1,4 @@
-**[[Wiederholung]] ist die Mutter des Lernens**
+**[[Worter/W/Wiederholung]] ist die Mutter des Lernens**
 
 - [[fröhlich]] - веселый, радостный
 - [[scheu]] - робкий

@@ -1,1 +1,1 @@
-, [[Widerspruch]], [[Meinungsäußerung]], [[kritisieren]]
+, [[Widerspruch]], [[Meinungsäußerung]], [[kritisieren]], [[Rezension]]

@@ -2,7 +2,10 @@
 [[Bekker Einheit 2]]
 [[Bekker Einheit 3]]
 [[Bekker Einheit 4]]
-  
+
+Ich [[sammle]] [[Münze]]
+
+Wir [[zweifeln]] [[selten]]
 
 **_Урок 3: Haben + Sein._**
 **_Существительные. Наречия. Прилагательные._**
@@ -121,3 +124,6 @@ _25._ _[[Leicht]] – Легко._
 _Ich bin gut._
 
 _Du bist klug._
+
+
+_Ich habe eine [[Kreide]]. Sie ist weiß._

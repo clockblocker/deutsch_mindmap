@@ -1,1 +1,1 @@
-, [[Kündigung]], [[Widerspruch]], [[bestätigen]], [[stätigen]]
+, [[Kündigung]], [[Widerspruch]], [[bestätigen]], [[stätigen]], [[Geschenkbestätigung]]

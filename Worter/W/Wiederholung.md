@@ -1,7 +1,7 @@
 🔁 [[wiederholen]], [ˈviːdɐhoːlən] | [[wiederholte]], haben [[wiederholt]]
 
 ---
-[[Wiederholung]] ist die Mutter des [[Lernens]]
+[[Worter/W/Wiederholung]] ist die Mutter des [[Lernens]]
 
 ---
 = [[nochmals sagen]], [[erneut machen]], [[replizieren]]
@@ -27,6 +27,6 @@ PI: [[wiederholend]], PII: [[wiederholt]], Zu+inf: [[wiederzuholen]]
 [[wiederholen]] - [[wieder]] = [[holen]] / to repeat, to do again
 
 ---
-[[Wiederholung]], [[Wiederholungstäter]], [[wiederholbar]], [[unwiederholbar]], [[Wiederholungsfall]]
+[[Worter/W/Wiederholung]], [[Wiederholungstäter]], [[wiederholbar]], [[unwiederholbar]], [[Wiederholungsfall]]
 
 , [[Doppelte]], [[Wiederholungskarte]]

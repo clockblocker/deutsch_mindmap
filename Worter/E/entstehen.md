@@ -1,32 +1,30 @@
-🌱 [[entstehen]], [ɛntˈʃteːən] | [[entstand]], sein [[entstanden]]
+🤔 [[entstehen]], [ɛntˈʃteːən] | [[entstand]], haben [[entstanden]]
 
 ---
-Neben unserem Haus [[entsteht]] ein neues [[Gebäude]].
-
-[[1 Präpositionen Übungen.md#^1|(q)]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1
+[[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues Gebäude. ^2
 
 ---
-= [[hervortreten]], [[sich entwickeln]], [[hervorgehen]]
-≈ [[werden]], [[wachsen]], [[gedeihen]], [[erwachsen]], [[Geburt]]
-≠ [[verschwinden]], [[enden]], [[untergehen]], [[vergehen]], [[schwinden]]
+= [[auftreten]], [[geschehen]], [[passieren]], [[stattfinden]]
+≈ [[erscheinen]], [[hervorrufen]], [[verursachen]]
+≠ [[vergehen]], [[aufhören]], [[verhindern]], [[unterbinden]]
 
 ---
-to emerge, to arise, to develop, to come into being
+to arise, to occur, to happen
 
 ---
 [[ent]]|[[steh]]|[[en]]
 
 ---
 ich: [[entstehe]], [[entstand]], –, [[entstehe]], [[entstände]]
-du: [[entstehst]], [[entstandet]], [[entstehe]] | [[entsteh]], [[entstehest]], [[entstündest]]
+du: [[entstehst]], [[entstandst]], [[entstehe]] | [[entsteh]] | [[entstehe]], [[entstehst]], [[entstandst]]
 er/sie/es: [[entsteht]], [[entstand]], –, [[entstehe]], [[entstände]]
 wir: [[entstehen]], [[entstanden]], [[entstehen wir|entstehen]], [[entstehen]], [[entstanden]]
-ihr: [[entsteht]], [[entstandet]], [[entsteht]], [[entstehet]], [[entstündet]]
+ihr: [[entsteht]], [[entstandet]], [[entsteht]], [[entstehet]], [[entstandet]]
 
-PI: [[entstehend]], PII: [[entstanden]], Zu+inf: [[zu entstehen]]
-
----
-[[entstehen]] - [[ent]] = [[stehen]] / to emerge, to arise, to develop
+PI: [[entstehend]], PII: [[entstanden]], Zu+inf: [[entstehen]]
 
 ---
-[[Entstehung]], [[entstehend]], [[Entstehungsgeschichte]], [[entstanden]], [[entstehungszeitpunkt]]
+[[entstehen]] - [[ent]] = [[stehen]] / to arise, to occur, to happen
+
+---
+[[Entstehung]], [[Entstehungsgeschichte]], [[Entstehungsjahr]], [[entstehend]], [[entstanden]]

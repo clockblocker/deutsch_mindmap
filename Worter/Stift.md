@@ -22,4 +22,4 @@ G: des [[Stiftes]], der [[Stifte]]
 D: dem [[Stift]], den [[stiften]] 
 
 ---
-[[stiften]], [[stiftbar]], [[beschriften]]
+[[stiften]], [[stiftbar]], [[beschriften]], [[Füller]]

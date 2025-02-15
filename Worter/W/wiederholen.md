@@ -1,1 +1,1 @@
-, [[üben]], [[zurückholen]], [[Wiederholungskarte]], [[einmal]], [[Wiederholung]]
+, [[üben]], [[zurückholen]], [[Wiederholungskarte]], [[einmal]], [[Worter/W/Wiederholung]]

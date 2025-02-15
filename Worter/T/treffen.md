@@ -1,6 +1,7 @@
 🤝 [[treffen]], [ˈtʁɛfn̩] | [[traf]], haben [[getroffen]]
 
 ---
+Ты встречаешь подругу – Du triffst deine Freundin.
 
 ---
 = [[begegnen]], [[antreffen]], [[sich treffen]]

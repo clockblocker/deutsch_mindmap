@@ -15,7 +15,7 @@ die [[Nebenkostenabrechnungen]]
 utility bill, ancillary costs statement
 
 ---
-[[Neben]][[Kosten]][[abrechnung]]
+[[Neben]][[Kosten]][[Abrechnung]]
 
 ---
 N: die [[Nebenkostenabrechnung]], die [[Nebenkostenabrechnungen]]

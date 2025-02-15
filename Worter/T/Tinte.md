@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tinte]], [[Tintes]], [[Tinte]], [[Tinten]], [[Tinte]], [[Tinte]]
 
 ---
-#Substantiv #Feminin, [[Tintenfaß]]
+#Substantiv #Feminin, [[Tintenfaß]], [[Kreide]]

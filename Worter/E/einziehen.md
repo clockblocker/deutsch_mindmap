@@ -29,4 +29,4 @@ PI: [[einziehend]], PII: [[eingezogen]], Zu+inf: [[einzuziehen]]
 [[einziehen]] - [[ein]] = [[ziehen]] / to move in, to settle, to draw in
 
 ---
-[[Einzug]], [[Einziehung]], [[Umzug]], [[Wohnung]], [[Miete]], [[wohnen]]
+[[Einzug]], [[Einziehung]], [[Umzug]], [[Wohnung]], [[Miete]], [[wohnen]], [[zurücksenden]]

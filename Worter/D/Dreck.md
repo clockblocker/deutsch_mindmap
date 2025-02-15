@@ -27,3 +27,4 @@ Dative: dem [[Dreck]], den [[Drecken]]
 dreckig, verdrecken
 
 , [[Mist]], [[erwidern]]
+, [[Edelsteine]]

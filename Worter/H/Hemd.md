@@ -19,4 +19,4 @@ Synonyme:
 ---
 
 #Substantiv
-#Neuter
+#Neuter, [[Mantel]]

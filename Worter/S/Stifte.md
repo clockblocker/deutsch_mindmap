@@ -1,1 +1,1 @@
-, [[Stift]], [[stiften]]
+, [[Stift]], [[stiften]], [[Kreide]]

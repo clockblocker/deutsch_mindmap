@@ -24,3 +24,4 @@ D: dem [[Tisch]], den [[Tischen]]
 
 ---
 [[tischbereit]]
+, [[Kocher]]

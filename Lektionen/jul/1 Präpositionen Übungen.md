@@ -1,4 +1,3 @@
-#### **1. [[Ergänze]] die richtige Präposition**
 Setze die richtige Präposition ein (z. B. mit, über, für, an, auf, [[wegen]], trotz, nach, [[während]], von): H + N, H
 
 Konnectoren =( H + H )
@@ -22,11 +21,13 @@ a) Er musste [[absagen]]. Er war krank. (Wahrend seiner Krankheit musste er absa
 b) Weil sie Urlaub hatte, besuchte sie ihre Großeltern
 c) Der Lehrer erklärte die Aufgabe. Die Schüler hatten sie nicht verstanden.  
 
-Die Schüler hatten die Aufgabe nicht verstanden, darum erklärte der Lehrer sie ihnen.
+Die Schüler [[haben|hatten]] die Aufgabe nicht [[standen]], [[haben|darum]] erklärte der Lehrer sie ihnen [[ver]]
 
 [[aus irgendeinem Grund]] 
 
-Obwohl du es mir gesagt hast, habe ich es nicht gehört. 
+[[vorstellen]]
+
+Obwohl du es mir gesagt hat, habe ich es nicht gehört. 
 
 Ihre Freund hat Geburtstag, deshalb feierten sie eine Party.
 
@@ -35,7 +36,7 @@ e) Sie [[feierten]] eine Party. Der Geburtstag ihres Freundes war ein [[Anlass]]
 Ihre Freund hatte Geburtstag, deshalb feierten sie eine Party.
 
 ---
-#### **3. Formuliere die Sätze um** 
+2#### **3. Formuliere die Sätze um** 
 
 Bilde einen [[einzigen]] komplexen Satz mit einer Präposition aus den [[folgend]] [[einfachen]] Sätzen:
 

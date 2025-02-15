@@ -31,4 +31,4 @@ Zu+infinitive: [[zu verzweifeln]]
 
 ---
 [[Verzweiflung]], [[verzweifelt]], [[hoffnungslos]], [[mutlos]]
- [[verzweifeln]], [[jubeln]]
+ [[verzweifeln]], [[jubeln]], [[Zweifel]]

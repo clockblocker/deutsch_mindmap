@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[stark]], [[manchmal]], [[bullig]], [[laut]]
+[[stark]], [[manchmal]], [[bullig]], [[laut]], [[leise]]

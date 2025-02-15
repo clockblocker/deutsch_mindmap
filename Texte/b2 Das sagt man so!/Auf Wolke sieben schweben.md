@@ -4,6 +4,10 @@ Manchmal ist das Leben einfach perfekt.
 
 [[Neulich]] war Diana im Supermarkt. Ein Mann [[zukommen|kam]] auf sie zu und fragte: „Kannst du mir helfen? Was bedeutet ‚Sahne‘?“ 
 
+Auf [[Wolke]] sieben [[schweben]]
+
+[[stehen]]
+
 Während Diana erklärt, was „[[Sahne]]“ ist, bemerkt sie, dass der Mann wunderschöne Augen hat. „Ich bin aus Kanada“, sagt er. 
 
 „Kanada, mein Lieblingsland!“, denkt Diana und stellt aber sofort etwas [[enttäuscht]] [[fest]]:  „Wenn er aus Kanada ist, bleibt er bestimmt nicht lange in Deutschland … Schade!“ 

@@ -1,9 +1,10 @@
 🔴 die [[Zustellung]]
 die [[Zustellungen]]
 
-Beispiele:
+---
+[[amazon.md#^11|(q)]] [[Zustellung]] heute bis 22h ^11
 
-- - Freigabeprobleme gelöst. Sendung zur Zustellung freigegeben
+Freigabeprobleme gelöst. Sendung zur Zustellung freigegeben
 
 ---
 Synonyme:
@@ -19,4 +20,4 @@ Morphems:
 ---
 #Substantiv #Feminin
 
-, [[hinschicken]]
+, [[hinschicken]], [[Versandt]]

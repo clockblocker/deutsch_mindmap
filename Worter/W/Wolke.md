@@ -5,6 +5,10 @@ die [[Wolken]]
 *Am Himmel dunkle [[Wolken]] ziehen*  
 *Ich nehme artig meine Medizin*  
 
+[[werden]]
+
+[[Auf Wolke sieben schweben]]
+
 ---
 Synonyme:
 - [[Kumulus]], [[Zirrus]], [[Stratus]], [[Nimbus]]

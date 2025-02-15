@@ -24,4 +24,4 @@ G: des [[Bleistifts]], der [[Bleistifte]]
 D: dem [[Bleistift]], den [[Bleistiften]]  
 
 ---
-[[Bleistiftmine]], [[Bleistiftspitzer]], [[Bleistiftzeichnung]], [[bleistiftartig]]
+[[Bleistiftmine]], [[Bleistiftspitzer]], [[Bleistiftzeichnung]], [[bleistiftartig]], [[Kreide]], [[Füller]]

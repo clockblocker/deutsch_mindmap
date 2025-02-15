@@ -1,2 +1,2 @@
 💡 [[scheinen]]
-, [[Schein]]
+, [[Schein]], [[Münze]]

@@ -1,1 +1,1 @@
-, [[anfügen]], [[verfügen]]
+, [[anfügen]], [[verfügen]], [[hinzufügen]]

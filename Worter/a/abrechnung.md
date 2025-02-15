@@ -25,4 +25,4 @@ G: der [[Abrechnung]], der [[Abrechnungen]]
 D: der [[Abrechnung]], den [[Abrechnungen]]  
 
 ---
-[[abrechnen]], [[abrechenbar]], [[abrechnungsfähig]], [[abrechnungspflichtig]], [[abrechnung]]
+[[abrechnen]], [[abrechenbar]], [[abrechnungsfähig]], [[abrechnungspflichtig]], [[Abrechnung]]

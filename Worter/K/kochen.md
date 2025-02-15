@@ -59,4 +59,4 @@ to cook
 ---
 
 **Morphems of only infinitive:**
-- [[koch]][[en]], [[Backen]], [[brutzeln]], [[manchmal]], [[Küchenmagd]], [[Herd]], [[Kochgeschirr]]
+- [[koch]][[en]], [[Backen]], [[brutzeln]], [[manchmal]], [[Küchenmagd]], [[Herd]], [[Kochgeschirr]], [[Kocher]]

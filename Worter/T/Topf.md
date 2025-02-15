@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Topfes]], [[Topfe]], [[Töpfe]], [[Töpfen]]
 
 ---
-#Substantiv #Maskulin, [[Teller]]
+#Substantiv #Maskulin, [[Teller]], [[Teekanne]]

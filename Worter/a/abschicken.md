@@ -28,4 +28,4 @@ PI: [[absendend]], PII: [[abgeschickt]], Zu+inf: [[abzuschicken]]
 [[abschicken]] - [[ab]] = [[schicken]] / to send, to dispatch, to mail, to ship
 
 ---
-[[Absender]], [[Absenderin]], [[Abschickung]], [[verschickt]], [[Zusendung]], [[hinschicken]]
+[[Absender]], [[Absenderin]], [[Abschickung]], [[verschickt]], [[Zusendung]], [[hinschicken]], [[versenden]]

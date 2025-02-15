@@ -1,1 +1,1 @@
-, [[bestimmt]], [[gewiss]], [[zweifelt]]
+, [[bestimmt]], [[gewiss]], [[zweifelt]], [[zweifeln]]

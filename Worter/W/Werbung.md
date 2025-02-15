@@ -17,4 +17,4 @@ Morphems:
 [[Werb]][[ung]]
 
 ---
-#Substantiv #Feminin, [[Anzeige]]
+#Substantiv #Feminin, [[Anzeige]], [[Produktrezension]]

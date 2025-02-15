@@ -1,2 +1,2 @@
 Es gibt Leute, die bei eBay einen Koffer für den Urlaub kaufen wollen und nach vier Stunden im Internet Besitzer eines Autos sind, obwohl sie gar keinen Führerschein haben.
-, [[besitzen]], [[Dieb]]
+, [[besitzen]], [[Dieb]], [[Herrchen]]
