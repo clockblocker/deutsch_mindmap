@@ -55,4 +55,4 @@ D: dem [[vorhaben]], den [[vorhaben]]
 
 ---
 [[vorhaben]], [[vorhabend]], [[planen]], [[beabsichtigen]], [[entwerfen]]
-, [[anblicken]]
+, [[anblicken]], [[Begebenheit]]

@@ -29,4 +29,4 @@ PI: [[aufgebend]], PII: [[aufgegeben]], Zu+inf: [[aufzugeben]]
 [[aufgeben]] - [[auf]] = [[geben]] / to give up, to surrender, to quit
 
 ---
-[[Aufgabe]], [[aufgeben]], [[Zugeständnis]], [[sich ergeben]]
+[[Aufgabe]], [[aufgeben]], [[Zugeständnis]], [[sich ergeben]], [[aussetzen]]

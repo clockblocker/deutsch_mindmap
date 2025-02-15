@@ -1,1 +1,1 @@
-, [[locker]], [[steif]], [[wendig]], [[Bewegung]]
+, [[locker]], [[steif]], [[wendig]], [[Bewegung]], [[begeben]]

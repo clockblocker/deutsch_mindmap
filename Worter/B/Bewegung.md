@@ -25,4 +25,4 @@ D: der [[Bewegung]], den [[Bewegungen]]
 
 ---
 [[bewegen]], [[Bewegungsablauf]], [[beweglich]], [[bewegend]], [[Bewegungsapparat]]
-[[Schritt]], [[Partei]], [[Spielzug]], [[Sport]]
+[[Schritt]], [[Partei]], [[Spielzug]], [[Sport]], [[begeben]]

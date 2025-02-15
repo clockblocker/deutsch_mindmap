@@ -28,4 +28,5 @@ PI: [[begebend]], PII: [[begeben]], Zu+inf: [[zu begeben]]
 [[begeben]] - [[be]] = [[geben]] / to go, to move, to betake oneself
 
 ---
-[[Begabung]], [[Begebnis]], [[Gelegenheit]], [[beweglich]], [[Bewegung]]
+[[Begabung]], [[Begebnis]], [[Gelegenheit]], [[beweglich]], [[Bewegung]], [[Begebenheit]]
+

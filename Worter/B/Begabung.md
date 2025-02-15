@@ -24,4 +24,4 @@ G: der [[Begabung]], der [[Begabungen]]
 D: der [[Begabung]], den [[Begabungen]]  
 
 ---
-[[begabt]], [[Begabungstest]], [[begabter Schüler]]
+[[begabt]], [[Begabungstest]], [[begabter Schüler]], [[begeben]]

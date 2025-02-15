@@ -1,1 +1,1 @@
-, [[ausstellen]]
+, [[ausstellen]], [[aussetzen]]

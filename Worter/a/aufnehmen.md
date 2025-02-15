@@ -31,4 +31,4 @@ PI: [[aufnehmend]], PII: [[aufgenommen]], Zu+inf: [[aufzunehmen]]
 
 
 [[hinlegen]], [[loswerden]], [[hineingezogen]], [[schleudern]], [[angehen]], [[annehmen]], [[anstellen]], [[empfangen]], [[verbannen]], [[legen]], [[beherbergen]], [[verstoßen]], [[Aufnahme]], [[s1 e1]]
-, [[ausstoßen]], [[verinnerlichen]]
+, [[ausstoßen]], [[verinnerlichen]], [[aussetzen]]

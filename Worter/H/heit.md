@@ -1,1 +1,1 @@
-, [[Mehrheit]], [[Frechheit]], [[Wahrheit]], [[Sicherheit]], [[Staatssicherheit]], [[Weisheit]], [[Schönheit]], [[Einheitliche]], [[Einheit]], [[Freiheit]], [[Versammlungsfreiheit]], [[mehrheitlich]], [[Gleichheit]], [[Ungleichheit]], [[Gewissensfreiheit]], [[Vergangenheit]]
+, [[Mehrheit]], [[Frechheit]], [[Wahrheit]], [[Sicherheit]], [[Staatssicherheit]], [[Weisheit]], [[Schönheit]], [[Einheitliche]], [[Einheit]], [[Freiheit]], [[Versammlungsfreiheit]], [[mehrheitlich]], [[Gleichheit]], [[Ungleichheit]], [[Gewissensfreiheit]], [[Vergangenheit]], [[Begebenheit]]

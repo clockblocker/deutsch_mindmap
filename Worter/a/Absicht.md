@@ -23,4 +23,4 @@ G: der [[Absicht]], der [[Absichten]]
 D: der [[Absicht]], den [[Absichten]]  
 
 ---
-[[absichtlich]], [[beabsichtigen]], [[unabsichtlich]], [[absichtslos]], [[Versehen]], [[Einflussnahme]]
+[[absichtlich]], [[beabsichtigen]], [[unabsichtlich]], [[absichtslos]], [[Versehen]], [[Einflussnahme]], [[Begebenheit]]

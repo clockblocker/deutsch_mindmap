@@ -1,1 +1,1 @@
-, [[Lage]], [[Umstand]], [[Zustand]]
+, [[Lage]], [[Umstand]], [[Zustand]], [[Begebenheit]]

@@ -42,4 +42,4 @@ Zu infinitive: [[zubehalten]]
 
 
 [[übergeben]], [[loswerden]], [[geliehen]], [[wegwerfen]], [[bewegen]], [[wechseln]], [[ablösen]], [[schicken]], [[verkaufen]], [[feuern]]
-, [[umtauschen]], [[abgeben]], [[überlassen]], [[austauschen]], [[hinauswerfen]], [[beibehalten]], [[wiederschicken]], [[hinschicken]], [[zurücksenden]]
+, [[umtauschen]], [[abgeben]], [[überlassen]], [[austauschen]], [[hinauswerfen]], [[beibehalten]], [[wiederschicken]], [[hinschicken]], [[zurücksenden]], [[aussetzen]]
