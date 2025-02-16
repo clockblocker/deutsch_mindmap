@@ -1,1 +1,1 @@
-, [[Gewissensfreiheit]], [[gewiss]]
+, [[Gewissensfreiheit]], [[gewiss]], [[Verantwortung]]

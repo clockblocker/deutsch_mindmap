@@ -23,3 +23,4 @@ Einzigartige mögliche Formen: [[Pfeile]], [[Pfeilen]], [[Pfeils]], [[Pfeile]], 
 
 ---
 #Substantiv #Maskulin
+, [[Schwert]]

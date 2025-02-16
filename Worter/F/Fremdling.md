@@ -9,7 +9,7 @@ Beispiele:
 
 ---
 Synonyme:
-- [[Fremder]], [[ausländer]], [[Zugezogener]]
+- [[Fremder]], [[Ausländer]], [[Zugezogener]]
 
 ---
 **Übersetzung**: stranger, foreigner

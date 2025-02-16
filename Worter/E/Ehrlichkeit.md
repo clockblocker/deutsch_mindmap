@@ -1,1 +1,1 @@
-, [[Wahrheit]], [[Ehrlich]], [[Bestechung]]
+, [[Wahrheit]], [[Ehrlich]], [[Bestechung]], [[Verantwortungsbewusstsein]]

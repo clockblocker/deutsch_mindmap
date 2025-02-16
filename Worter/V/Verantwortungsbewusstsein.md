@@ -1,25 +1,30 @@
-
-🟢 ⚖️ das [[Verantwortungsbewusstsein]], [fɛɐ̯ˈʔantoːɐ̯tʊŋsbeˌvʊstzaɪ̯n]
+🟢 🧠 das [[Verantwortungsbewusstsein]], [fɛɐ̯ˈʔantvɔʁtʊŋsbəˌvʊstzaɪ̯n]
+(no plural)
 
 ---
 [[(q)]] Aber gerade das [[fördert]] das [[Verantwortungsbewusstsein]], das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn? ^1
 
  [[verantworten]], [[verantwortlich]]
+ 
+---
+= [[Pflichtbewusstsein]], [[Gewissenhaftigkeit]]
+≈ [[Zuverlässigkeit]], [[Seriosität]], [[Ehrlichkeit]], [[Moral]]
+≠ [[Unverantwortlichkeit]], [[Leichtsinnigkeit]], [[Gewissenlosigkeit]], [[Taktlosigkeit]]
 
 ---
-= [[Pflichtbewusstsein]], [[Sinn für Verantwortung]], [[Moralvorstellungen]]
-
-≈ [[Anstand]], [[Ethik]], [[Verantwortung]]
-≠ [[Leichtsinn]], [[Unverantwortlichkeit]], [[Gleichgültigkeit]]
+sense of responsibility, responsibility
+чувство ответственности
 
 ---
-a sense of responsibility, sense of duty, conscientiousness
-
----
-[[Ver]]|[[ant]]|[[wort]]|[[ung]]|[[s]]|[[be]]|[[wusst]]|[[sein]]
+[[Verantwortung]]+[[s]]+[[Bewusstsein]]
 
 ---
 N: das [[Verantwortungsbewusstsein]]  
 A: das [[Verantwortungsbewusstsein]]  
 G: des [[Verantwortungsbewusstseins]]  
 D: dem [[Verantwortungsbewusstsein]]
+
+---
+[[verantwortlich]], [[bewusst]], [[Verantwortung]], [[bewusstmachen]], [[bewusstlos]]
+
+Verantwortungsbewusst[[sein]]

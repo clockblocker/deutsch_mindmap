@@ -1,5 +1,3 @@
-
-
 ###### 1
 Mr und Mrs Dursley im Ligusterweg Nummer 4 waren stolz darauf, ganz und gar normal zu sein, sehr stolz sogar. Niemand wäre auf die Idee gekommen, sie könnten sich in eine merkwürdige und [[geheimnisvolle]] Geschichte verstricken, denn mit solchem Unsinn wollten sie nichts zu tun haben.  [[1 Ein Junge überlebt.md######1|source]]
 

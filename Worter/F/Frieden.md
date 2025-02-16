@@ -22,3 +22,5 @@ Einzigartige mögliche Formen: [[Friedens]], [[Frieden]], [[Friedens]], [[Friede
 
 ---
 #Substantiv #Maskulin, [[zufriedenstellen]], [[Arbeiteraufstand]], [[Weltkrieg]]
+, [[Wortgefecht]]
+, [[Gefecht]]

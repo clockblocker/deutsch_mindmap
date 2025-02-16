@@ -1,1 +1,1 @@
-[[Ruhe]], [[Ruh]], [[lauben]], [[Nachtruhe]], [[ausgeruht]], [[schlafen]], [[anstrengen]]
+[[Ruhe]], [[Ruh]], [[lauben]], [[Nachtruhe]], [[ausgeruht]], [[schlafen]], [[anstrengen]], [[abhotten]], [[tanzen]]

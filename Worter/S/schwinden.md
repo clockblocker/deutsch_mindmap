@@ -1,33 +1,69 @@
-🕳️ [[schwinden]], [ˈʃvɪndən] | [[schwand]], [[geschwunden]]
+hgvbcgbj[xh[\
+
+[[verwandern]]
+]()]()
+
+📉 [[schwinden]], [ˈʃvɪndn̩] | [[schwand]], sind [[geschwunden]]
+
+text 1 
 
 ---
+= [[abnehmen]], [[verringern]], [[schrumpfen]]
+≈ [[schmelzen]], [[verblassen]], [[verschwinden]]
+≠ [[zunehmen]], [[wachsen]], [[vermehren]], [[ansteigen]]
 
 ---
-[[verschwinden]] - [[ver]] = [[schwinden]] / to disappear, to vanish
+to diminish, to wane
+уменьшаться, убывать
 
+te4xt 2
 
----
-= [[abnehmen]], [[schrumpfen]], [[verschwinden]]
-≈ [[dahinschwinden]], [[verblassen]], [[abebben]], [[nachlassen]]
-≠ [[wachsen]], [[zunehmen]], [[entstehen]], [[gedeihen]]
-
----
-to dwindle, to diminish, to decrease
+[[unbedingt]]
 
 ---
 [[schwind]]|[[en]]
 
 ---
 ich: [[schwinde]], [[schwand]], –, [[schwinde]], [[schwände]]
-du: [[schwindest]], [[schwandest]], [[schwinde]] | [[schwind]], [[schwindest]], [[schwändest]]
+du: [[schwindest]], [[schwandst]], [[schwind]] | [[schwind]], [[schwindest]], [[schwändest]]
 er/sie/es: [[schwindet]], [[schwand]], –, [[schwinde]], [[schwände]]
-wir: [[schwinden]], [[schwanden]], [[schwinden wir]], [[schwinden]], [[schwänden]]
+wir: [[schwinden]], [[schwanden]], [[schwinden wir|schwinden]], [[schwinden]], [[schwänden]]
 ihr: [[schwindet]], [[schwandet]], [[schwindet]], [[schwindet]], [[schwändet]]
 
 PI: [[schwindend]], PII: [[geschwunden]], Zu+inf: [[zu schwinden]]
 
 ---
-[[schwinden]] - pure verb / to dwindle, to diminish, to decrease
+[[schwinden]] - [[schwind]] = [[en]] / to diminish, to wane
 
 ---
-[[Schwund]], [[verschwindend]], [[Schwinden]], [[Schwundphase]], [[verschwinden]]
+[[Schwund]], [[schwindelig]], [[verschwinden]], [[entschwinden]], [[dahinschwinden]]
+📉 [[schwinden]], [ˈʃvɪndn̩] | [[schwand]], sind [[geschwunden]]
+
+---
+
+---
+= [[abnehmen]], [[verringern]], [[schrumpfen]]
+≈ [[schmelzen]], [[verblassen]], [[verschwinden]]
+≠ [[zunehmen]], [[wachsen]], [[vermehren]], [[ansteigen]]
+
+---
+to diminish, to wane
+уменьшаться, убывать
+
+---
+[[schwind]]|[[en]]
+
+---
+ich: [[schwinde]], [[schwand]], –, [[schwinde]], [[schwände]]
+du: [[schwindest]], [[schwandst]], [[schwind]] | [[schwind]], [[schwindest]], [[schwändest]]
+er/sie/es: [[schwindet]], [[schwand]], –, [[schwinde]], [[schwände]]
+wir: [[schwinden]], [[schwanden]], [[schwinden wir|schwinden]], [[schwinden]], [[schwänden]]
+ihr: [[schwindet]], [[schwandet]], [[schwindet]], [[schwindet]], [[schwändet]]
+
+PI: [[schwindend]], PII: [[geschwunden]], Zu+inf: [[zu schwinden]]
+
+---
+[[schwinden]] - [[schwind]] = [[en]] / to diminish, to wane
+
+---
+[[Schwund]], [[schwindelig]], [[verschwinden]], [[entschwinden]], [[dahinschwinden]]

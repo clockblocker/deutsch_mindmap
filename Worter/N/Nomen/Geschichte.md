@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Ge]][[schicht]][[e]]
+[[Ge]][[Schicht]][[e]]
 
 ---
 Einzigartige mögliche Formen: [[Geschichte]], [[Geschichten]], [[Geschichte]], [[Geschichten]], [[Geschichte]], [[Geschichten]], [[Geschichte]], [[Geschichten]]

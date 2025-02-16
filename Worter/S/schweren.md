@@ -1,1 +1,2 @@
 , [[schwer]], [[beschweren]]
+, [[Schwert]]

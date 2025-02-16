@@ -33,3 +33,4 @@ Morpheme: [[kontroll]][[ier]][[en]]
 Partizip I: [[kontrollierend]], Partizip II: [[kontrolliert]]
 
 [[kontrollieren]] - [[kontroll]] = [[ieren]][[regeln]], [[dienen]], [[beherrschen]], [[steuere]], [[durchknallen]], [[checken]], [[durchchecken]], [[bändigen]], [[regieren]], [[überwachen]], [[einschränken]]
+, [[zichten]]

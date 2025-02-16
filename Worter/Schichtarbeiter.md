@@ -26,4 +26,4 @@ G: des [[Schichtarbeiters]], der [[Schichtarbeiter]]
 D: dem [[Schichtarbeiter]], den [[Schichtarbeitern]] 
 
 ---
-[[schichten]], [[arbeiten]], [[Schichtarbeit]], [[Schichtdienst]], [[Schichtsystem]]
+[[Schichten]], [[arbeiten]], [[Schichtarbeit]], [[Schichtdienst]], [[Schichtsystem]]

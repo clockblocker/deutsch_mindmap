@@ -1,17 +1,19 @@
 Ich reise viel, ich reise gern  
-Fern und nah und nah und fern  
-Ich bin zu Hause überall  
+[[Fern und nah ]]und nah und fern  
+Ich bin zu Hause [[überall]]  
 Meine Sprache: International
 
-Ich mache es gern jedem recht  
-Ja, mein Sprachschatz ist nicht schlecht  
-Ein scharfes Schwert im Wortgefecht  
-Mit dem anderen Geschlecht
+[[Ausländer (lied)#^1|(q)]] Ich mache es gern jedem recht  
+Ja, mein [[Sprachschatz]] ist nicht schlecht ^1
+
+[[Ausländer (lied)#^2|(q)]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
+Mit dem anderen [[Geschlecht]] ^2
+
 
 Ich bin kein Mann für eine Nacht  
 Ich bleibe höchstens ein, zwei Stunden  
-Bevor die Sonne wieder lacht  
-Bin ich doch schon längst verschwunden  
+Bevor die Sonne wieder [[lacht]]  
+Bin ich doch schon längst [[verschwunden]]  
 Und ziehe weiter meine Runden
 
 Ich bin Ausländer (Ausländer)  

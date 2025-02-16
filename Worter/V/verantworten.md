@@ -1,33 +1,32 @@
-🌟 [[verantworten]], [fɛɐ̯ˈʔantvɔɐ̯tn̩] | [[verantwortete]], haben [[verantwortet]]
+🤔 [[verantworten]], [fɛɐ̯ˈʔantvɔʁtn̩] | [[verantwortete]], haben [[verantwortet]]
 
 ---
 Er würde gern mehr [[Verantwortung]] übernehmen, hat er zum Chef gesagt. 
 
 ---
-Synonyme: [[rechtfertigen]], [[verteidigen]], [[erklären]], [[begründen]], [[erläutern]]
-Antonyme: [[verschweigen]], [[Worter/V/verheimlichen]], [[leugnen]], [[ignorieren]]
+= [[rechtfertigen]], [[erklären]], [[begründen]]
+≈ [[erläutern]], [[belegen]], [[verteidigen]], [[sich erklären]]
+≠ [[verheimlichen]], [[verschweigen]], [[verbergen]], [[leugnen]]
 
 ---
-to be responsible for, to account for, to justify
+to be responsible for, to answer for, to justify
+отвечать за, оправдывать
 
 ---
-[[ver]][[Antwort]][[en]]
-   
+[[ver]]|[[antwort]]|[[en]]
 
 ---
+ich: [[verantworte]], [[verantwortete]], –, [[verantworte]], [[verantwortete]]
+du: [[verantwortest]], [[verantwortetest]], [[verantworte]] | [[verantwort]], [[verantwortest]], [[verantwortetest]]
+er/sie/es: [[verantwortet]], [[verantwortete]], –, [[verantworte]], [[verantwortete]]
+wir: [[verantworten]], [[verantworteten]], [[verantworten wir|verantworten]], [[verantworten]], [[verantworteten]]
+ihr: [[verantwortet]], [[verantwortetet]], [[verantwortet]], [[verantwortet]], [[verantwortetet]]
 
-Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
-Ich: [[verantworte]], [[verantwortete]], -, [[verantworte]], [[verantwortete]]  
-Du: [[verantwortest]], [[verantwortetetest]], [[verantworte]], [[verantwortest]], [[verantwortetete]]  
-Er/sie/es: [[verantwortet]], [[verantwortete]], -, [[verantworte]], [[verantwortete]]  
-Wir: [[verantworten]], [[verantworteten]], -, [[verantworten]], [[verantworteten]]  
-Ihr: [[verantwortet]], [[verantwortetet]], [[verantwortet]], [[verantwortet]], [[verantwortetet]]  
-
-Partizip I: [[verantwortend]], 
-Partizip II: [[verantwortet]]
-Zu+infinitive: [[zu verantworten]]
-
-[[verantworten]] - [[ver]] = [[Antworten]]
+PI: [[verantwortend]], PII: [[verantwortet]], Zu+inf: [[zu verantworten]]
 
 ---
+[[verantworten]] - [[ver]] = [[antworten]] / to be responsible for, to answer for, to justify
+
+---
+[[Verantwortung]], [[verantwortlich]], [[Verantwortungsbewusstsein]], [[Antwort]]
 [[Verantwortung]], [[Verantwortlichkeit]], [[Verantwortungsvolle]], [[Verantwortungsträger]], [[Verantwortungsbewusstsein]], [[verantwortlich]], [[haften]]

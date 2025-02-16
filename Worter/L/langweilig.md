@@ -27,3 +27,4 @@ Plural: [[langweiligen]], [[langweiligeren]], [[langweiligsten]]
 [[Langweile]], [[langweilen]], [[Langeweile]]
 
 , [[interessant]], [[witzig]], [[erstaunlich]], [[Bunt]], [[langweilen]]
+, [[Hot]]

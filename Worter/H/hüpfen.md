@@ -26,4 +26,4 @@ Morpheme: [[hüpf]][[en]]
 | Sie | [[hüpfen]] | [[hüpften]] | [[hüpfen Sie]] | [[hüpfen]] | [[hüpften]] |
 
 Partizip I: [[hüpfend]], Partizip II: [[gehüpft]]
-[[hüpfen]] - keine Vorsilbe = [[hüpf]]
+[[hüpfen]] - keine Vorsilbe = [[hüpf]], [[tanzen]]

@@ -1,1 +1,2 @@
 , [[Begriff]]
+, [[Sprachschatz]]

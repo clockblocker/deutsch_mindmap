@@ -21,3 +21,4 @@ Einzigartige mögliche Formen: [[Sprache]], [[Sprachen]], [[Sprache]], [[Sprache
 
 ---
 #Substantiv #Feminin, [[Sprachunterricht]], [[schriftsprachlich]]
+, [[Sprachschatz]]

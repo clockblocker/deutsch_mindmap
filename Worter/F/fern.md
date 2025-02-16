@@ -1,31 +1,37 @@
+↔️ [[fern]], [fɛʁn] ≠ [[nah]]
+
+---
 die [[Fernbedienung]]
 
  “[[fern]]” und “[[nah]]” sind [[Antonym]]e.
   Das [[Gegenteil]] von “[[fern]]” ist “[[nah]]”.
 
-
 *Der [[Haut]] so [[nah]], dem Auge [[fern]]*  
 
----
-Synonyme: [[weit]], [[entfernt]], [[abgelegen]], [[distanziert]], [[abseits]]
-Antonyme: [[nah]], [[nahe]], [[dicht]], [[unmittelbar]], [[direkt]]
+[[fern.md#^1|(q)]] [[Etymologisch]] [[kommen|kommt]] das aus dem [[althochdeutsch|althochdeutschen]] „[[fern]]“ oder „[[fer]]“—also nix [[fancy]], einfach „[[weit]] [[weg]]“. ^1
+
 
 ---
-**Übersetzung**:
-far, distant, remote
+= [[entfernt]], [[weit]], [[abwesend]]
+≈ [[unbekannt]], [[fremd]], [[distanziert]]
+≠ [[nah]], [[nahe]], [[vertraut]], [[bekannt]]
 
 ---
-#Adjective [[fern]]
+far, distant
+далеко, дальний
 
 ---
-Morpheme:
 [[fern]]
 
 ---
+N: [[fern]], [[ferner]], [[fernst]]
+A: [[fernen]], [[ferneren]], [[fernsten]]
+G: [[fernen]], [[ferneren]], [[fernsten]]
+D: [[fernem]], [[fernerem]], [[fernstem]]
+F: [[ferne]], [[fernere]], [[fernste]]
+N: [[fernes]], [[ferneres]], [[fernstes]]
+P: [[fernen]], [[ferneren]], [[fernsten]]
 
-
-Einzigartige mögliche Formen: 
-[[fern]], [[ferner]], [[ferne]], [[fernes]], [[fernen]], [[fernem]], [[ferner]], [[fernen]]
-[[fernerer]], [[fernere]], [[ferneres]], [[ferneren]], [[fernerem]], [[fernerer]], [[ferneren]]
-[[fernsten]], [[fernster]], [[fernste]], [[fernstes]], [[fernsten]], [[fernstem]], [[fernster]], [[fernsten]]
-''', [[Fernrohr]], [[fernab]], [[Entfernung]], [[Fernsehturm]], [[entfernen]]
+---
+[[Ferne]], [[entfernen]], [[Fernweh]], [[fernsehen]], [[Fernbeziehung]], [[Fernbedienung]]
+, [[althochdeutsch]]

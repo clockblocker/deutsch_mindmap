@@ -33,4 +33,4 @@ Morpheme: [[wi]][[eg]][[en]]
 
 Partizip I: [[wiegend]], Partizip II: [[gewogen]]
 [[wiegen]] - [[wi]] = [[egen]]
-'''
+''', [[tanzen]]

@@ -1,1 +1,2 @@
 , [[fehlen]], [[fehlerhaft]], [[fehlend]]
+, [[fehlentwicklung]]

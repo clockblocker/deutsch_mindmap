@@ -21,3 +21,4 @@ Einzigartige mögliche Formen: [[Worts]], [[Worte]], [[Worten]], [[Wörter]], [[
 
 ---
 #Substantiv #Neutrum, [[Schlagwort]], [[Verantwortungsbewusstsein]]
+, [[Wortgefecht]]

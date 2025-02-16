@@ -36,3 +36,33 @@ PI: [[lachend]], PII: [[gelacht]], Zu+inf: [[zu lachen]]
 
 , [[brüllen]], [[s1 e1]]
 , [[murmeln]]
+😂 [[lachen]], [ˈlaxn̩] | [[lachte]], haben [[gelacht]]
+
+---
+
+---
+= [[grinsen]], [[kichern]], [[prusten]]
+≈ [[amüsieren]], [[scherzen]], [[spaßen]]
+≠ [[weinen]], [[trauern]], [[seufzen]], [[schluchzen]]
+
+---
+to laugh
+смеяться
+
+---
+[[lach]]|[[en]]
+
+---
+ich: [[lache]], [[lachte]], –, [[lache]], [[lachte]]
+du: [[lachst]], [[lachtest]], [[lache]] | [[lach]], [[lachst]], [[lachtest]]
+er/sie/es: [[lacht]], [[lachte]], –, [[lache]], [[lachte]]
+wir: [[lachen]], [[lachten]], [[lachen wir|lachen]], [[lachen]], [[lachten]]
+ihr: [[lacht]], [[lachtet]], [[lacht]], [[lacht]], [[lachtet]]
+
+PI: [[lachend]], PII: [[gelacht]], Zu+inf: [[zu lachen]]
+
+---
+[[lachen]] - [[lach]] = [[en]] / to laugh
+
+---
+[[Lachen]], [[Lacher]], [[Gelächter]], [[auslachen]], [[anlachen]], [[belachen]]

@@ -23,7 +23,7 @@ N: [[scharf]], [[schärfer]], [[schärfster]]
 A: [[scharfen]], [[schärferen]], [[schärfsten]]  
 G: [[scharfer]], [[schärferer]], [[schärfster]]  
 D: [[scharfem]], [[schärferem]], [[schärfstem]]  
-F: [[scharfe]], [[schärfere]], [[schärfste]]  
+F: [[Scharfe]], [[schärfere]], [[schärfste]]  
 N: [[scharfes]], [[schärferes]], [[schärfstes]]  
 P: [[scharfen]], [[schärferen]], [[schärfsten]]  
 

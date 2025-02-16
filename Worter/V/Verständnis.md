@@ -1,1 +1,1 @@
-, [[Einsicht]], [[verständnislos]], [[begreifen]], [[Deutung]], [[Vergebung]], [[Auslegung]], [[Erbarmen]], [[Erkenntnis]]
+, [[Einsicht]], [[verständnislos]], [[begreifen]], [[Deutung]], [[Vergebung]], [[Auslegung]], [[Erbarmen]], [[Erkenntnis]], [[Bewusstsein]]

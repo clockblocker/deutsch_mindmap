@@ -19,4 +19,4 @@ Synonyme:
 #Substantiv
 #Feminin
 
-, [[Sorgen]], [[Kümmer]], [[Versorgung]]
+, [[Sorgen]], [[Kümmer]], [[Versorgung]], [[Verantwortung]]

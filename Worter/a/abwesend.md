@@ -1,1 +1,2 @@
 , [[anwesend]], [[erreichbar]], [[fehlend]]
+, [[fern]]

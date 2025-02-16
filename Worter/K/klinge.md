@@ -1,1 +1,2 @@
 , [[klingen]], [[Dolch]], [[Messer]]
+, [[Schwert]]

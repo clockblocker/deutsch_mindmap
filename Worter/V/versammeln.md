@@ -5,7 +5,6 @@ haben [[versammelt]]
 ---
 Sebastian selbst sieht das weniger entspannt. Er ist ziemlich nervös, als sie auf die Gruppe zugehen, die sich um den Grill [[versammelt]] hat. 
 
-
 ---
 Synonyme: [[sammeln]], [[vereinen]], [[zusammenbringen]], [[gruppieren]], [[zusammenrufen]]
 Antonyme: [[zerstreuen]], [[auflösen]], [[trennen]], [[auseinandergehen]]

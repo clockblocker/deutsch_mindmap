@@ -1,34 +1,34 @@
-🔴 die [[Verantwortung]], [fɛɐ̯ˈantˌvɔʁtʊŋ]
+🔴 ⚖️ die [[Verantwortung]], [fɛɐ̯ˈʔantvɔʁtʊŋ]
 die [[Verantwortungen]]
 
 ---
- Er würde gern mehr [[Verantwortung]] übernehmen, hat er zum Chef gesagt. Lena ist klar, was das bedeutet: Sie wird die Arbeit machen und Bastian wird den Erfolg für sich verbuchen. 
+Er würde gern mehr [[Verantwortung]] übernehmen, hat er zum Chef gesagt. Lena ist klar, was das bedeutet: Sie wird die Arbeit machen und Bastian wird den Erfolg für sich verbuchen. 
 
-288. [[Woraus]] [[begründet]] sich [[Deutschlands]] [[besondere]] [[Verantwortung]] für Israel? (100%)
+1. [[Woraus]] [[begründet]] sich [[Deutschlands]] [[besondere]] [[Verantwortung]] für Israel? (100%)
 	- [ ] aus der [[Mitgliedschaft]] in der Europäischen Union (EU)
 	- [x] aus den nationalsozialistischen [[Verbrechen]] gegen Juden
 	- [ ] aus dem [[Grundgesetz]] der Bundesrepublik Deutschland
 	- [ ] aus der christlichen Tradition
-
 ---
-Synonyme:
-- [[Pflicht]], [[Aufgabe]], [[Last]], [[Schuld]], [[Rechenschaftspflicht]]
+= [[Pflicht]], [[Zuständigkeit]], [[Haftung]]
+≈ [[Verpflichtung]], [[Aufgabe]], [[Sorge]], [[Gewissen]]
+≠ [[Unverantwortlichkeit]], [[Freiheit]], [[Unzuständigkeit]], [[Befreiung]]
 
 ---
 responsibility
+ответственность
 
 ---
-[[Verant]][[wort]][[ung]]
+[[Ver]]|[[antwort]]|[[ung]]
 
 ---
-Case: Singular, Plural  
-Nominative: die [[Verantwortung]], die [[Verantwortungen]]  
-Accusative: die [[Verantwortung]], die [[Verantwortungen]]  
-Genitive: der [[Verantwortung]], der [[Verantwortungen]]  
-Dative: der [[Verantwortung]], den [[Verantwortungen]]  
+N: die [[Verantwortung]], die [[Verantwortungen]]  
+A: die [[Verantwortung]], die [[Verantwortungen]]  
+G: der [[Verantwortung]], der [[Verantwortungen]]  
+D: der [[Verantwortung]], den [[Verantwortungen]]
 
 ---
-[[verantworten]], [[verantwortlich]], [[verantwortungslos]], [[verantwortungsvoll]]
+[[verantwortlich]], [[verantworten]], [[Verantwortungsbewusstsein]], [[unverantwortlich]]
 
 , [[Schuld]], [[Pflicht]]
 , [[strafmündig]], [[Verpflichtung]], [[Verantwortungsbewusstsein]]

@@ -18,7 +18,7 @@ history lesson, history class
 
 ---
 [[Geschicht]]|[[s]]|[[unterricht]]
-[[Ge]]|[[schicht]]|[[s]]|[[unter]]|[[richt]]
+[[Ge]]|[[Schicht]]|[[s]]|[[unter]]|[[richt]]
 
 ---
 N: der [[Geschichtsunterricht]], die [[Geschichtsunterrichte]]  

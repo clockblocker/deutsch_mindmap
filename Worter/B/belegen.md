@@ -1,1 +1,1 @@
-, [[ledigen]], [[besetzen]], [[Teller]], [[stätigen]], [[beweisen]]
+, [[ledigen]], [[besetzen]], [[Teller]], [[stätigen]], [[beweisen]], [[verantworten]]

@@ -1,1 +1,2 @@
 , [[Eisenteil]], [[Eiserner Vorhang]]
+, [[Schwert]]

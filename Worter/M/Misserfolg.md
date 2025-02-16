@@ -1,1 +1,2 @@
-, [[Niederlage]], [[scheitern]], [[Wahlniederlage]]
+, [[Niederlage]], [[scheitern]], [[Wahlniederlage]], [[Hot]]
+, [[fehlentwicklung]]

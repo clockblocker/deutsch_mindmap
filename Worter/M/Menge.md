@@ -1,7 +1,6 @@
 🔴 die [[Menge]], [ˈmɛŋɡə]
 die [[Mengen]]
 
-
 ---
 Und obwohl seine Fähigkeiten erstaunlich sind, muss er noch eine [[Menge]] lernen. 
 

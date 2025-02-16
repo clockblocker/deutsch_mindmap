@@ -1,13 +1,9 @@
-🔴 die [[Antwort]]
-
----
-
-🗣️ [[Antworten]] + Dat, [ˈantˌvɔɐ̯tn̩]
+🗣️ [[Antworten]] + Dat, [ˈantˌvɔɐ̯tn̩] | 🔴 die [[Antwort]]
 [[antwortete]]
 haben [[geantwortet]]
 
 ---
-
+[[verantworten]] - [[ver]] = [[antworten]] / to be responsible for, to answer for, to justify
 
 
 ---
@@ -33,4 +29,4 @@ Morpheme: [[ant]][[wort]][[en]]
 | Sie       | [[Antworten]]| [[antworteten]]| [[antworten Sie]]| [[Antworten]]| [[antworteten]]|
 
 Partizip I: [[antwortend]], Partizip II: [[geantwortet]]
-[[Antworten]] - [[ant]] = [[worten]]
+[[Antworten]] - [[ant]] = [[worten]], [[verantworten]]

@@ -34,4 +34,4 @@ Partizip I: [[entspannend]], Partizip II: [[entspannt]]
 , [[spannen]], [[anspannen]], [[mühen]], [[hochschrecken]], [[schrecken]]
 
 
-, [[wohlfühlen]], [[aufregen]], [[1 Präpositionen Übungen]]
+, [[wohlfühlen]], [[aufregen]], [[1 Präpositionen Übungen]], [[abhotten]]

@@ -27,3 +27,4 @@ Einzigartige mögliche Formen: [[Weges]], [[Wege]], [[wegen]]
 
 , [[Straße]]
 , [[Leitung]], [[wegschicken]]
+, [[althochdeutsch]]

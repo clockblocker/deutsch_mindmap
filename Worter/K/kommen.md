@@ -37,3 +37,4 @@ Partizip I: [[kommend]], Partizip II: [[gekommen]]
 
 [[weggehen]], [[ausreißen]], [[dorthin]], [[näherkommen]]
 , [[vorbeikommen]], [[zurechtkommen]], [[herankam]], [[zukommen]], [[Abkommen]], [[Ankunft]], [[hingehen]]
+, [[althochdeutsch]]

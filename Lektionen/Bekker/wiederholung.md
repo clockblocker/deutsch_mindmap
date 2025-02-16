@@ -8,8 +8,10 @@
 8. Имей терпение! – Hab [[Geduld]]!
 
 9. Она не танцует. – **Sie tanzt nicht.**  
-10. Она не хочет танцевать. – **Sie will nicht tanzen.**  
-11. Она не хочет танцевать с дедушкой. – **Sie will nicht mit dem Opa tanzen.**  
+10. Она не хочет танцевать. – **Sie will nicht [[tanzen]].**  
+11. Она не хочет танцевать с дедушкой. – [[wiederholung.md#^1|(q)]] [[wollen|will]] nicht mit dem [[Opa]] [[tanzen]].
+ ^1
+
 12. Я не хочу работать. – **Ich will nicht arbeiten.**  
 13. Я не хочу сегодня работать. – **Ich will heute nicht arbeiten.**  
 14. Я никогда не хочу работать. – **Ich will nie arbeiten.**  

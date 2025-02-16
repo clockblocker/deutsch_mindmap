@@ -1,7 +1,7 @@
-
 😠 [[aussetzen]], [ˈaʊ̯sˌzɛt͡sn̩] | [[setzte aus]], haben [[ausgesetzt]]
 
 ---
+[[gehen]]
 
 ---
 = [[entblößen]], [[exponieren]], [[ausliefern]]

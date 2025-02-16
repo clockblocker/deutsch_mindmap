@@ -33,4 +33,5 @@ Genitive: des [[Erfolgs]] oder [[Erfolges]], der [[Erfolge]]
 Dative: dem [[Erfolg]], den [[Erfolgen]] 
 
 ---
-[[erfolgen]], [[erfolgreich]], [[erfolglos]], [[erfolgsorientiert]], [[verbuchen]], [[gelingen]], [[gutgehen]], [[gelungen]], [[Niederlage]]
+[[erfolgen]], [[erfolgreich]], [[erfolglos]], [[erfolgsorientiert]], [[verbuchen]], [[gelingen]], [[gutgehen]], [[gelungen]], [[Niederlage]], [[Hot]]
+, [[fehlentwicklung]]

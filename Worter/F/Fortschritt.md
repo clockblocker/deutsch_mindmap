@@ -24,3 +24,4 @@ D: dem [[Fortschritt]], den [[Fortschritten]]
 
 ---
 [[fortschrittlich]], [[fortschreiten]], [[voranschreiten]], [[progressiv]]
+, [[fehlentwicklung]]

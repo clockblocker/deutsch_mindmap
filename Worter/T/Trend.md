@@ -1,1 +1,1 @@
-, [[Tendenz]]
+, [[Tendenz]], [[Hot]]

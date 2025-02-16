@@ -1,1 +1,2 @@
 [[stehlen]], [[Diebstahl]]
+, [[Schwert]]

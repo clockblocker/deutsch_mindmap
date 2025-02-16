@@ -1,11 +1,11 @@
 🟢 das [[Ausland]]
-die [[ausländer]]
+die [[Ausländer]]
 
 Beispiele:
 
 - Ich plane eine Reise ins [[Ausland]].
 - Viele Studenten studieren im [[Ausland]].
-- Die [[ausländer]] sind oft neugierig auf deutsche Kultur.
+- Die [[Ausländer]] sind oft neugierig auf deutsche Kultur.
 
 ---
 Synonyme:

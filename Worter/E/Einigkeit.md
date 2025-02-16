@@ -26,3 +26,4 @@ D: der [[Einigkeit]], den [[Einigkeiten]]
 
 ---
 [[einig]], [[einigen]], [[vereinigen]], [[uneinig]], [[Einigung]], [[recht]]
+, [[Wortgefecht]]

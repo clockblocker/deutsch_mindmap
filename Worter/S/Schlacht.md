@@ -1,1 +1,2 @@
 , [[krieg]], [[Kriegsbemalung]], [[Angriffsgeschrei]]
+, [[Gefecht]]

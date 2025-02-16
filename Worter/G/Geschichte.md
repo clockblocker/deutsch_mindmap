@@ -13,7 +13,7 @@ Das ist die [[Geschichte]] von Sascha und Anna. Sie [[wohnen]] [[zusam
 story, history, tale
 
 ---
-[[Ge]]|[[schicht]]|[[e]]
+[[Ge]]|[[Schicht]]|[[e]]
 
 ---
 N: die [[Geschichte]], die [[Geschichten]]  

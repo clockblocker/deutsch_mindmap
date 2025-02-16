@@ -38,3 +38,4 @@ PI: [[untersuchend]], PII: [[untersucht]], Zu+inf: [[zu untersuchend]]
 
 [[kontrollieren]], [[behandeln]], [[recherchieren]], [[checken]], [[durchchecken]], [[beobachten]], [[absuchen]], [[ermitteln]], [[studieren]], [[durchsuchen]], [[mustern]], 
 , [[betrachten]], [[ausprobieren]]
+, [[zichten]]

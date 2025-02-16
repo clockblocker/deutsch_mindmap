@@ -1,1 +1,2 @@
 , [[Englischkenntnisse]]
+, [[Sprachschatz]]

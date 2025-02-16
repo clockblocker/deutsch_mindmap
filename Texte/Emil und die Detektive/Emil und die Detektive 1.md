@@ -48,7 +48,6 @@ Sie treffen sich am Blumenkiosk.
 --Was für'n Hemd? - erkundigte sich Emil. 
 --Liegt alles auf dem Bett. Und zieh die Strümpfe vorsichtig an. Und wasch dich erst gründlich. Und ziehe dir neue Schnürsenkel in die Schuhe. Dalli, dalli! - 
 --Puh! - bemerkte Emil und trollte sich. Als Frau Wirth, schön onduliert und mit ihrem Spiegelbild zufrieden, gegangen war, trat die Mutter ins Schlafzimmer und sah, wie Emil unglücklich herumlief. 
-
 --Kannst du mir nicht sagen, wer die guten Anzüge erfunden hat? - 
 --Nein, tut mir leid. Aber warum willst du's wissen? - 
 --Gib mir die Adresse, und ich erschieße den Kerl. - 

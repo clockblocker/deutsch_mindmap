@@ -5,6 +5,9 @@ Beispiele:
 *Mein [[Geschlecht]] schimpft mich Verräter*  
 *Ich bin der Albtraum aller Väter*  
 
+[[Ausländer (lied)#^2|(q)]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
+Mit dem anderen [[Geschlecht]] ^2
+
 ---
 Translation:
 gender, sex

@@ -103,7 +103,7 @@ Ahh! Und Nic … Gib mir die Strumpfhose zurück – sofort!
 NIC:  
 Okay.  
 ANNA:  
-Du willst deine Strumpfhose zurück?  
+Du willst deine [[Strumpfhose]] zurück?  
 SASCHA:  
 Das ist eine Versace-Strumpfhose. Anna … [[Fernbedienung]] …  
 NIC:  
