@@ -3,7 +3,7 @@
 ---
 3: Selig, die ihr jetzt [[weint]], denn ihr werdet [[lachen]].
 
-1. Warum [[lacht]] ihr über diesen Kollegen?  
+Warum [[lacht]] ihr über diesen Kollegen?  
 
 «Wenn Sie über mich [[lachen]] wollen, dann müssen Sie früher [[aufstehen]],» antwortete der Künstler ärgerlich.  
 
@@ -66,3 +66,4 @@ PI: [[lachend]], PII: [[gelacht]], Zu+inf: [[zu lachen]]
 
 ---
 [[Lachen]], [[Lacher]], [[Gelächter]], [[auslachen]], [[anlachen]], [[belachen]]
+, [[jammern]]

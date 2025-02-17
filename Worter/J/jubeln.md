@@ -35,3 +35,4 @@ PI: [[jubelnd]], PII: [[gejubelt]], Zu+inf: [[zu jubeln]]
 
 ---
 [[Jubel]], [[Jubilant]], [[Jubiläum]], [[jubelnd]], [[Jubellaut]], [[klagen]], [[feiern]]
+, [[jammern]]

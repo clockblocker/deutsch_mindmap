@@ -4,431 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "036b8f3da28d2047",
+        "id": "a0a88efefbea9063",
         "type": "tabs",
         "children": [
           {
-            "id": "b28febb076bf35a9",
+            "id": "b1356b4ce54d84b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "eaf9835ee195a8bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/c1/kse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kse"
-            }
-          },
-          {
-            "id": "5e232e5fbed8b878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/I/interessanten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "interessanten"
-            }
-          },
-          {
-            "id": "7ece43d110bb2db2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/I/interessant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "interessant"
-            }
-          },
-          {
-            "id": "db63ee9c4f91dc77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Gedichte/Rammstein/Ausländer (Lied).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ausländer (Lied)"
-            }
-          },
-          {
-            "id": "c48403a777cdf2ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Fern und nah.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fern und nah"
-            }
-          },
-          {
-            "id": "8bb0b7de1278f009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/F/fern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fern"
-            }
-          },
-          {
-            "id": "9e281844864baa9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/althochdeutschen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "althochdeutschen"
-            }
-          },
-          {
-            "id": "c3054daead217ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Gedichte/Rammstein/Ausländer (Lied).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ausländer (Lied)"
-            }
-          },
-          {
-            "id": "c8597ee88ecd0e29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Gedichte/Rammstein/Ausländer (Lied).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ausländer (Lied)"
-            }
-          },
-          {
-            "id": "24b8d7ccddc7c742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Gedichte/Rammstein/Ausländer (Lied).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ausländer (Lied)"
-            }
-          },
-          {
-            "id": "86e2fd49c1fd391f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/W/Wortgefecht.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wortgefecht"
-            }
-          },
-          {
-            "id": "823d1f8dc36a82a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Gedichte/Rammstein/Ausländer (Lied).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ausländer (Lied)"
-            }
-          },
-          {
-            "id": "62edbcf7d36afa0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/W/Wortgefecht.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wortgefecht"
-            }
-          },
-          {
-            "id": "f8f32e6a66ef7f89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Gedichte/Rammstein/Ausländer (Lied).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ausländer (Lied)"
-            }
-          },
-          {
-            "id": "040f56d1917c5a0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Gedichte/Rammstein/Ausländer (Lied).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ausländer (Lied)"
-            }
-          },
-          {
-            "id": "5463c74871291210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/G/Geschlecht.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geschlecht"
-            }
-          },
-          {
-            "id": "ddad3ac24be85a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/Gedichte/Rammstein/Ausländer (Lied).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ausländer (Lied)"
-            }
-          },
-          {
-            "id": "f2f97e6fbf8693a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/verwandern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "verwandern"
-            }
-          },
-          {
-            "id": "741f39377cc7450f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/fehlentwicklung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fehlentwicklung"
-            }
-          },
-          {
-            "id": "c420e3e639f11efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/V/ver.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ver"
-            }
-          },
-          {
-            "id": "e8fc9974449dac10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/fehlentwicklung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fehlentwicklung"
-            }
-          },
-          {
-            "id": "0eb03203fced592f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/fehlentwicklung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fehlentwicklung"
-            }
-          },
-          {
-            "id": "c8f10cef9250e1a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/fehlentwicklung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fehlentwicklung"
-            }
-          },
-          {
-            "id": "1d25d2a956ff2d08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Richtungsänderung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Richtungsänderung"
-            }
-          },
-          {
-            "id": "779ce627a57679cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/schwinden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "schwinden"
-            }
-          },
-          {
-            "id": "780c5b483488f457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/L/lachen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lachen"
-            }
-          },
-          {
-            "id": "a5635ebeba30f6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/G/Geschlecht.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geschlecht"
-            }
-          },
-          {
-            "id": "91cee7818f4b4ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Sprachschatz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sprachschatz"
-            }
-          },
-          {
-            "id": "4e3c366beb39faeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ü/überall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "überall"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -437,22 +26,6 @@
     "id": "1cd8d8654e644fb3",
     "type": "split",
     "children": [
-      {
-        "id": "7274acc7c4df8ba0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85fd50a7732bb72d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      },
       {
         "id": "5324c7a728bb0b3e",
         "type": "tabs",
@@ -507,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worter/H/hinzufügen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -517,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hinzufügen"
+              "title": "Backlinks"
             }
           },
           {
@@ -526,12 +98,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worter/H/hinzufügen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hinzufügen"
+              "title": "Outgoing links"
             }
           },
           {
@@ -583,33 +154,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ddad3ac24be85a33",
+  "active": "b1356b4ce54d84b9",
   "lastOpenFiles": [
-    "Worter/V/verschwunden.md",
+    "Worter/Ü/überall.md",
+    "Worter/Sprachschatz.md",
+    "Worter/G/Geschlecht.md",
+    "Worter/L/lachen.md",
     "Worter/S/schwinden.md",
-    "Worter/U/unbedingt.md",
-    "Worter/verwandern.md",
+    "Worter/Richtungsänderung.md",
     "Worter/fehlentwicklung.md",
     "Worter/V/ver.md",
-    "Worter/F/fehlgehen.md",
-    "Worter/F/Fehlleistung.md",
-    "Worter/F/Fehlfunktion.md",
-    "Worter/V/ver.md#^1.md",
-    "Worter/F/Fehlentwicklungen.md",
-    "Worter/Richtungsänderung.md",
-    "Worter/V/verschwinden.md",
+    "Worter/verwandern.md",
+    "Texte/Untitled 1.md",
+    "Texte/c1/kse.md",
+    "Worter/I/interessanten.md",
+    "Worter/I/interessant.md",
     "Texte/Gedichte/Rammstein/Ausländer (Lied).md",
-    "Worter/L/lachen.md",
-    "Worter/L/lacht.md",
-    "Worter/G/Geschlecht.md",
+    "Worter/Fern und nah.md",
+    "Worter/F/fern.md",
+    "Worter/althochdeutschen.md",
+    "Worter/althochdeutsch.md",
     "Worter/W/Wortgefecht.md",
-    "Worter/A/Ausländer.md",
-    "Worter/S/Schwert.md",
-    "Worter/G/Gefecht.md",
-    "Worter/G/Gefechtsordnung.md",
-    "Worter/G/Gefechtsfeld.md",
-    "Worter/G/Gefechtsstand.md",
-    "Worter/G/gefechtsmäßig.md",
-    "Worter/G/Gefechts.md"
+    "Worter/L/lachtest.md",
+    "Worter/W/weint.md",
+    "Worter/W/weinte.md",
+    "Worter/W/weinen.md",
+    "Worter/J/jammern.md",
+    "Worter/J/jammerte.md",
+    "Worter/A/an jammern.md"
   ]
 }

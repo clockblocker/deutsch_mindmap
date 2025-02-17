@@ -9,7 +9,6 @@ Ja, mein [[Sprachschatz]] ist nicht schlecht ^1
 [[Ausländer (lied)#^2|(q)]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
 Mit dem anderen [[Geschlecht]] ^2
 
-
 Ich bin kein Mann für eine Nacht  
 Ich bleibe höchstens ein, zwei Stunden  
 Bevor die Sonne wieder [[lacht]]  

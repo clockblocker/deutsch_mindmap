@@ -29,3 +29,4 @@ Morpheme: [[seufz]][[en]]
 | Sie | [[seufzen]] | [[seufzten]] | [[seufzen Sie]] | [[seufzen]] | [[seufzten]] |
 
 Partizip I: [[seufzend]], Partizip II: [[geseufzt]]
+, [[jammern]]

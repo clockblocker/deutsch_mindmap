@@ -54,3 +54,4 @@ Morpheme: [[freu]][[en]]
 
 Partizip I: [[freuend]], Partizip II: [[gefreut]]
 , [[gefallen]], [[dahinter]], [[betreffen]]
+, [[jammern]]

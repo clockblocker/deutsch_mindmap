@@ -5,7 +5,6 @@ die [[Schwerter]]
 [[Ausländer#^2|(q)]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
 Mit dem anderen Geschlecht ^2
 
-
 ---
 = [[Degen]], [[Hiebwaffe]], [[Klinge]]
 ≈ [[Waffe]], [[Stahl]], [[Eisen]], [[Messer]], [[Dolch]], [[Messer]]
