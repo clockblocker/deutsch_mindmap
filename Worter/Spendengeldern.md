@@ -18,7 +18,7 @@
 donation money, funds
 
 ---
-[[Spenden]]|[[geldern]]
+[[spenden]]|[[geldern]]
 
 ---
 N: das [[Spendengeldern]], die [[Spendengeldern]]  

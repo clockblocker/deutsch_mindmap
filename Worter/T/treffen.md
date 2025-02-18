@@ -29,3 +29,5 @@ PI: [[treffend]], PII: [[getroffen]], Zu+inf: [[zu treffen]]
 ---
 [[Treffen]], [[Treffpunkt]], [[betreffen]], [[zutreffen]], [[Eintreffen]]
 , [[Gefecht]]
+, [[Stehempfang]]
+, [[Empfang]]

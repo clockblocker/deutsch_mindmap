@@ -24,6 +24,8 @@ _Er [[mustert]] alle Dorfbewohner, [[greift]] plötzlich nach [[vorne]] und zieh
 - [[einziehen]] - [[ein]] = [[ziehen]] / to move in, to settle, to draw in
 - [[vorziehen]] - [[vor]] = [[ziehen]] / to prefer, to choose before
 - [[beziehen]] - [[be]] = [[ziehen]] / move in, to draw, to refer to
+- [[abziehen]] - [[ab]] = [[ziehen]] / to deduct, to subtract, to withdraw
+
 ---
 Synonyme: [[zerren]], [[reißen]], [[schleifen]], [[schleppen]], [[verziehen]]
 Antonyme: [[schieben]], [[heben]], [[legen]], [[drücken]], [[stoßen]]
@@ -49,3 +51,4 @@ Morpheme: [[zieh]][[en]]
 
 Partizip I: [[ziehend]], Partizip II: [[gezogen]]
 , [[festziehen]], [[herausziehen]], [[umziehen]], [[spannen]], [[losziehen]], [[hochziehen]], [[Schubst]], [[einziehen]], [[herabgezogen]], [[herabziehen]], [[vorziehen]], [[beziehen]], [[vollziehen]], [[schleudern]]
+, [[abziehen]]

@@ -27,3 +27,4 @@ P: [[bezogenen]], [[bezogeneren]], [[bezogensten]]
 
 ---
 [[beziehen]], [[Bezug]], [[beziehungsweise]], [[Worter/B/Beziehung]]
+, [[Bezugswort]]

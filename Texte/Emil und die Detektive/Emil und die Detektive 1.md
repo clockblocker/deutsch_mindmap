@@ -47,7 +47,11 @@ Sie treffen sich am Blumenkiosk.
 --Deinen guten Anzug hab ich im Schlafzimmer zurechtgelegt. [[Zieh an]] ihn an, damit wir dann sofort essen können, wenn ich Frau Wirth frisiert habe. - 
 --Was für'n Hemd? - erkundigte sich Emil. 
 --Liegt alles auf dem Bett. Und zieh die Strümpfe vorsichtig an. Und wasch dich erst gründlich. Und ziehe dir neue Schnürsenkel in die Schuhe. Dalli, dalli! - 
+
 --Puh! - bemerkte Emil und trollte sich. Als Frau Wirth, schön onduliert und mit ihrem Spiegelbild zufrieden, gegangen war, trat die Mutter ins Schlafzimmer und sah, wie Emil unglücklich herumlief. 
+
+--Puh! - [[bemerken|bemerkte]] Emil und [[trollen|trollte]] sich. Als Frau Wirth, [[schön]] [[ondulieren|onduliert]] und mit ihrem [[Spiegelbild]] [[zufrieden]], [[gehen|gegangen]] war, [[treten|trat]] die [[Mutter]] ins [[Schlafzimmer]] und [[sehen|sah]], wie Emil [[unglücklich]] [[herumlaufen|herumlief]].
+
 --Kannst du mir nicht sagen, wer die guten Anzüge erfunden hat? - 
 --Nein, tut mir leid. Aber warum willst du's wissen? - 
 --Gib mir die Adresse, und ich erschieße den Kerl. - 
@@ -56,7 +60,17 @@ Sie treffen sich am Blumenkiosk.
 Frau Tischbein legte den Arm um seine Schulter und transportierte ihn nach der Küche. Es gab Makkaroni mit Schinken und geriebenem Parmesankäse. Emil futterte wie ein Scheunendrescher. Nur manchmal setzte er ab und blickte zur Mutter hinüber, als fürchtete er, sie könne ihm, so kurz vor dem Abschied, seinen Appetit übelnehmen. 
 --Und schreib sofort eine Karte. Ich habe sie dir zurechtgelegt. Im Koffer, gleich obenauf. - 
 --Wird gemacht -, sagte Emil und schob, möglichst unauffällig, einen Makkaroni vom Knie. Die Mutter merkte glücklicherweise nichts. 
---Grüße sie alle schön von mir. Und paß gut auf. In Berlin geht es anders zu als bei uns in Neustadt. Und am Sonntag gehst du mit Onkel Robert ins KaiserFriedrich-Museum. Und benimm dich anständig, damit es nicht heißt, wir hier wüßten nicht, was sich gehört. - 
+
+--Grüße sie alle schön von mir. Und paß gut auf. In Berlin geht es anders zu als bei uns in Neustadt. Und am Sonntag gehst du mit Onkel Robert ins KaiserFriedrich-Museum. Und benimm dich anständig, damit es nicht heißt, wir hier wüßten nicht, was sich gehört.
+
+--[[Grüßen|Grüße]] sie alle [[schön]] von mir. Und [[passen|paß]] [[gut]] [[aufpassen|auf]]. In Berlin [[gehen|geht]] es [[anders]] zu als bei uns in [[Neustadt]]. Und am [[Sonntag]] [[gehen|gehst]] du mit [[Onkel]] Robert ins KaiserFriedrich-Museum. Und  [[benehmen|benimm]] dich [[anständig]], damit es nicht [[heißen|heißt]], wir hier [[wissen|wüßten]] nicht, was sich [[gehören|gehört]].
+
+--Grüße sie alle schön von mir. Und paß gut auf. In Berlin geht es anders zu als bei uns in Neustadt. Und am Sonntag gehst du mit Onkel Robert ins KaiserFriedrich-Museum. Und benimm dich anständig, damit es nicht heißt, wir hier wüßten nicht, was sich gehört.
+
+--[[Grüßen|Grüße]] sie alle [[schön]] von mir. Und [[aufpassen|paß]] [[gut]] [[aufpassen|auf]]. In Berlin [[gehen|geht]] es [[anders]] zu als bei uns in [[Neustadt]]. Und am [[Sonntag]] [[gehen|gehst]] du mit [[Onkel]] Robert ins KaiserFriedrich-Museum. Und  [[benehmen|benimm]] dich [[anständig]], damit es nicht [[heißen|heißt]], wir hier [[wissen|wüßten]] nicht, was sich [[gehören|gehört]].
+
+
+
 --Mein großes Ehrenwort -, sagte Emil. Nach dem Essen zogen beide in die Stube. Die Mutter holte einen Blechkasten aus dem Schrank und zählte Geld. Dann schüttelte sie den Kopf und zählte noch einmal. Dann fragte sie: 
 --Wer war eigentlich gestern nachmittag da, hm? - 
 --Fräulein Thomas -, sagte er, 
@@ -78,5 +92,5 @@ Da hätte er seine Schularbeiten verbummeln oder von Nau-manns Richard abschreib
 --Mutter, da sind die Zensuren, und ich bin wieder der Beste! -, dann war er sehr zufrieden. Er liebte das Lob, das er in der Schule und überall erhielt, nicht deshalb, weil es ihm, sondern weil es seiner Mutter Freude machte. Er war stolz darauf, daß er ihr, auf seine Weise, ein bißchen vergelten konnte, was sie für ihn, ihr ganzes Leben lang, ohne müde zu werden, tat... 
 --Hoppla -, rief die Mutter, 
 --wir müssen zum Bahnhof. Es ist schon Viertel nach eins. Und der Zug geht kurz vor zwei Uhr. - 
---Also los, Frau Tischbein! - sagte Emil zu seiner Mutter, 
+--Also los, Frau Tischbein! - sagte Emil zu seiner [[Mutter]], 
 --aber, daß Sie es nur wissen, den Koffer trage ich selber! -

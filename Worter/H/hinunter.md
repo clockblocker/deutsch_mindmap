@@ -22,3 +22,4 @@ Varianten:
 - [[abwärts]]
 
 , [[runter]], [[nach unten]]
+, [[entlang]]

@@ -21,3 +21,4 @@ Einzigartige mögliche Formen: [[Himmels]], [[Himmel]], [[Himmeln]]
 
 ---
 #Substantiv #Neutral, [[im siebten Himmel sein]]
+, [[anstoßen]]

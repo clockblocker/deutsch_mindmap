@@ -29,3 +29,4 @@ PI: [[stiftend]], PII: [[gestiftet]], Zu+inf: [[zustiften]]
 
 ---
 [[Stiftung]], [[Stifter]], [[Stifterin]], [[gestiftet]], [[stiftend]], [[Stiftungsurkunde]]
+, [[Spende]]

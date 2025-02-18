@@ -26,3 +26,4 @@ P: [[zaghaften]], [[zaghafteren]], [[zaghaftesten]]
 
 ---
 [[Zaghaftigkeit]], [[zagen]], [[Zögern]], [[zagend]], [[unentschlossen]], [[scheu]]
+, [[beherzt]]

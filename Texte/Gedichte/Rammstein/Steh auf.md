@@ -11,7 +11,7 @@ Wir könnten so viel machen
 Steh auf!  
 Steh wieder auf!  
 Steh auf!  
-Steh wieder auf!  
+Steh wieder auf!  [[aufstehen]]
   
 Bleib nicht liegen, es wär schade  
 Zirkus ist heut in der Stadt  
@@ -31,8 +31,9 @@ Steh auf!
 Warum muss ich immer warten?
 Warum immer weinen?
 Warum all die schwarzen [[Löcher]]  
-In den Armen, in den Beinen?
-Mama, steh auf, steh wieder auf
+[[Steh auf.md#^1|(q)]] In den [[Arm|Armen]], in den [[Bein|Beinen]]?
+[[Mama]], [[aufstehen|steh]] [[aufstehen|auf]], [[aufstehen|steh]] [[wieder]] [[aufstehen|auf]] ^1
+
 
   
 [Refrain]  

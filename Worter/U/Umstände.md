@@ -1,1 +1,1 @@
-, [[Lage]], [[Umstand]], [[Bedingung]]
+🔵 der [[Umstand]] 😟

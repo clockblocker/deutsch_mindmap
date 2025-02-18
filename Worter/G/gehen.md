@@ -14,6 +14,7 @@
 [[vorgehen]] - [[vor]] = [[gehen]]             // to proceed, to act, to go forward
 [[angehen]] - [[an]] = [[gehen]]                // start
 [[umgehen]] - [[um]] = [[gehen]] / to bypass, to avoid, to circumvent
+[[entlanggehen]] - [[ent]] = [[gehen]] / to walk along
 
 
 ---

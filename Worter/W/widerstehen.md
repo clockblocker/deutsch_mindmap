@@ -32,3 +32,4 @@ Morpheme: [[wider]][[steh]][[en]]
 Partizip I: [[widerstehend]], Partizip II: [[widerstanden]]
 
 [[widerstehen]] - [[wider]] = [[stehen]], [[frönen]], [[neigen]], [[wehren]]
+, [[weichen]]

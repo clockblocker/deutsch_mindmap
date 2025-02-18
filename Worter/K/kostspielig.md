@@ -1,1 +1,2 @@
 , [[billig]], [[kostengünstig]], [[teuer]]
+, [[kosten]]

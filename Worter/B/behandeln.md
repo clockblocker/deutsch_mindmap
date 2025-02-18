@@ -38,3 +38,4 @@ Partizip I: [[behandelnd]], Partizip II: [[behandelt]]
 
 [[behandeln]] - [[be]] = [[handeln]], [[ablehnen]], [[Gleichbehandlung]]
 🩺 [[behandeln]], [[Ungleichbehandlung]]
+, [[anhand]]

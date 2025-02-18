@@ -26,3 +26,4 @@ D: dem [[Erntedankfest]], den [[Erntedankfesten]]
 
 ---
 [[ernten]], [[danken]], [[Fest]], [[Ernte]], [[Landwirtschaft]]
+, [[dank]]

@@ -28,3 +28,4 @@ P: [[offensichtlichen]], [[offensichtlicheren]], [[offensichtlichsten]]
 [[Sicht]], [[sehen]], [[offensichtlichkeit]], [[ersichtlich]], [[unübersehbar]]
 
 , [[offensichtlich]], [[scheinbar]], [[deutlich]], [[Unbekannten]], [[geheimnisvolle]]
+, [[erkennbar]]

@@ -18,3 +18,4 @@ Synonyme:
 ---
 
 #Adverb, [[erst]], [[endlich]]
+, [[anstoßen]]

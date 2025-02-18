@@ -27,3 +27,4 @@ Neuter: [[entschlossenes]], [[entschlosseneres]], [[entschlossenestes]]
 Plural: [[entschlossenen]], [[entschlosseneren]], [[entschlossenesten]]  
 
 [[Entschlossenheit]], [[Entschlusskraft]], [[entschließen]], [[ratlos]], [[standhaft]], [[tapfer]], [[zaghaft]]
+, [[beherzt]]

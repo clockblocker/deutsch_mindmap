@@ -3,9 +3,6 @@
 ---
 122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
 	- [x] [[frei]], [[gleich]], [[geheim]].
-	- [ ] offen, [[sicher]], frei.
-	- [ ] [[geschlossen]], gleich, [[sicher]].
-	- [ ] sicher, offen, [[freiwillig]].
 
 ---
 = [[verlieren]], [[scheitern]], [[nachgeben]]
@@ -13,7 +10,7 @@
 ≠ [[überstehen]], [[besiegen]],  [[überwinden]], [[siegen]], [[gewinnen]], [[triumphieren]], [[siegen]]
 
 ---
-to be defeated, to submit, to succumb
+being subjet to, to be defeated, to submit, to succumb
 
 ---
 [[unter]]|[[liegen]]
@@ -22,7 +19,7 @@ to be defeated, to submit, to succumb
 ich: [[unterliege]], [[unterlag]], –, [[unterliege]], [[unterläge]]
 du: [[unterliegst]], [[unterlagst]], [[unterliege]] | [[unterliege]], [[unterliegest]], [[unterlägest]]
 er/sie/es: [[unterliegt]], [[unterlag]], –, [[unterliege]], [[unterläge]]
-wir: [[unterliegen]], [[unterlagen]], [[unterliegen wir|unterliegen]], [[unterliegen]], [[unterlagen]]
+wir: [[unterliegen]], [[Unterlagen]], [[unterliegen wir|unterliegen]], [[unterliegen]], [[Unterlagen]]
 ihr: [[unterliegt]], [[unterlagt]], [[unterliegt]], [[unterlieget]], [[unterläget]]
 
 PI: [[unterliegend]], PII: [[unterlegen]], Zu+inf: [[zu unterliegen]]

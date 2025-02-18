@@ -46,3 +46,4 @@ Verwendung in Sätzen: am Anfang, in der Mitte, am Ende
 
 ---
 [[untere]], [[unterste]], [[unterhalb]], [[unter]]
+, [[nachfolgend]]

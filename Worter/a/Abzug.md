@@ -1,1 +1,3 @@
 , [[Lohnsteuer]], [[Rückzug]]
+, [[abzüglich]]
+, [[abziehen]]

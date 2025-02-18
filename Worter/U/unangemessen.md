@@ -1,1 +1,3 @@
 , [[passend]]
+, [[gelegen]]
+, [[entsprechend]]

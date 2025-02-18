@@ -1,1 +1,2 @@
 , [[Sport]]
+, [[Öffnungszeit]]

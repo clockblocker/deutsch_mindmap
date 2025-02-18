@@ -30,3 +30,4 @@ PI: [[öffnend]], PII: [[geöffnet]], Zu+inf: [[zuöffnen]]
 [[Öffnung]], [[Öffner]], [[öffentlich]], [[Offenheit]], [[aufmachen]]
 
 [[drücken]], [[dammen]], [[festziehen]], [[beißen]], [[aufgehen]], [[aufmachen]], [[aufzukriegen]], [[auseinanderklapfen]], [[aufsperren]], [[abschließen]], [[schnallen]], [[eröffnen]]
+, [[Öffnungszeit]]

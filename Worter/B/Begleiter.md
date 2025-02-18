@@ -1,25 +1,29 @@
-🔵 der [[Begleiter]]
+🔵 🚶 der [[Begleiter]], [bəˈɡlaɪ̯tɐ]
 die [[Begleiter]]
 
+---
  So lebte die Katze mit dem Löwen zusammen und glaubte, endlich den mächtigsten [[Begleiter]] gefunden zu haben. 
-
-Beispiele:
-
-- Er war ihr treuer [[Begleiter]] auf vielen Reisen.
-- Der Hund ist ein guter [[Begleiter]] für ältere Menschen.
-- Sie ging nie ohne ihren [[Begleiter]] aus dem Haus.
+ 
+[[2 prap.md#^2|(q)]] Ein stark dekliniertes (?) Nomen im Singular ohne [[Begleiter]] bleibt [[jedoch]] undekliniert: ^2
+*abzüglich Rabatt (nicht: Rabatts)*  
 
 ---
-Synonyme:
-- [[Gefährte]], [[Partner]], [[Gefolgsmann]]
+= [[Gefährte]], [[Begleitung]], [[Kumpel]]
+≈ [[Begleitperson]], [[Begleitoffizier]], [[Gefolge]], [[Anhang]]
+≠ [[Gegner]], [[Feind]], [[Gegenspieler]], [[Kontrahent]]
 
 ---
-**Übersetzung**: companion, escort
+companion, escort
+сопровождающий, спутник
 
 ---
-
-Morphems:
-[[Begleit]][[er]]
+[[Be]]|[[gleit]]|[[er]]
 
 ---
-#Substantiv #Maskulin
+N: der [[Begleiter]], die [[Begleiter]]
+A: den [[Begleiter]], die [[Begleiter]]
+G: des [[Begleiters]], der [[Begleiter]]
+D: dem [[Begleiter]], den [[Begleitern]]
+
+---
+[[begleiten]], [[Begleitung]], [[Begleitperson]], [[Begleitfahrzeug]], [[Begleitmusik]]

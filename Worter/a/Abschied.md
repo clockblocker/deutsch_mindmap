@@ -35,3 +35,5 @@ D: dem [[Abschied]], den [[Abschieden]]
 
 ---
 [[abscheiden]], [[abschiedlich]], [[Abschiednahme]], [[verabschieden]], [[Entlassung]]
+, [[Stehempfang]]
+, [[Empfang]]

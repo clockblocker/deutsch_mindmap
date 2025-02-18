@@ -1,1 +1,2 @@
 , [[Geschenk]], [[Spendengeldern]], [[Unterstützung]]
+, [[Spende]]

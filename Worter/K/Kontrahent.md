@@ -1,1 +1,2 @@
 , [[Feind]], [[Gegnern]]
+, [[Begleiter]]

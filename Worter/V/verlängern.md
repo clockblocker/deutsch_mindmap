@@ -1,1 +1,2 @@
 , [[verkürzen]], [[kürzen]], [[kündigen]]
+, [[entlang]]

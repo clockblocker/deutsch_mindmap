@@ -32,3 +32,4 @@ Einzigartige mögliche Formen: [[Vorschlags]], [[Vorschlag]], [[Vorschläge]], [
 
 ---
 #Substantiv #Maskulin, [[Ratschlag]], [[Beschluss]]
+, [[entsprechend]]

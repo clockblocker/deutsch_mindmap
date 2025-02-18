@@ -1,8 +1,8 @@
-, [[Bundesverfassungsgericht]]
 🚫 [[verfassungswidrig]], [fɛɐ̯ˈfasʊŋsˌvɪdʁɪç]
 
 ---
 
+, [[Bundesverfassungsgericht]]
 
 ---
 = [[verfassungsfeindlich]], [[grundgesetzwidrig]], [[illegal]]

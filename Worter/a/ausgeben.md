@@ -36,3 +36,4 @@ Zu+infinifive: [[auszugeben]]
 , [[verdienen]], [[sparen]]
 
 , [[verbrauchen]]
+, [[kosten]]

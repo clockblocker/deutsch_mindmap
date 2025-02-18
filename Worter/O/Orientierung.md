@@ -1,1 +1,2 @@
 , [[Richtung]], [[östlich]]
+, [[Richtungsangabe]]

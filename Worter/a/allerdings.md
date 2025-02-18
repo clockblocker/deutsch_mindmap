@@ -5,6 +5,8 @@
 - MARIA: Ja, [[allerdings]] …  
   MARIA: Er liebt mich!  
 
+Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nutzen sie [[vielfach]], [[allerdings]] [[ausschließlich]], um Verben zu bilden. 
+
 Mrs Dursley war dünn und blond und [[besaß]] [[doppelt]] so viel Hals, wie [[notwendig]] gewesen wäre, was [[allerdings]] sehr [[nützlich]] war, denn so konnte sie den Hals über den [[Gartenzaun]] [[recken]] und zu den Nachbarn [[hinüberspähen]].
 
 

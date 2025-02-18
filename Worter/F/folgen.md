@@ -47,3 +47,6 @@ Morpheme: [[fol]][[g]][[en]]
 Partizip I: [[folgenden]], Partizip II: [[gefolgt]]
 
 , [[mithalten]], [[hinterherlaufen]], [[führen]], [[leiten]], [[folgend]], [[Auswirkungen]]
+, [[nachfolgend]]
+, [[vorangehen]]
+, [[infolge]]

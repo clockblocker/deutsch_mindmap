@@ -29,3 +29,4 @@ P: [[folgend]], [[folgenderen]], [[folgendsten]]
 
 ---
 [[Folge]], [[folgen]], [[nachfolgend]], [[vorfolgen]], [[verfolgen]], [[Auflistung]], [[enthalten]], [[1 Präpositionen Übungen]]
+, [[infolge]]

@@ -28,3 +28,4 @@ PI: [[gratulierend]], PII: [[gratuliert]], Zu+inf: [[zu gratulieren]]
 
 ---
 [[Gratulation]], [[Glückwunsch]], [[beglückwünschen]], [[Gratulant]], [[Gratulantine]]
+, [[anstoßen]]

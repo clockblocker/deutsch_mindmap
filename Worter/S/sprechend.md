@@ -1,1 +1,2 @@
 , [[sprechen]]
+, [[entsprechend]]

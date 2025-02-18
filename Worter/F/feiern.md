@@ -37,3 +37,4 @@ PI: [[feiernd]], PII: [[gefeiert]], Zu+inf: [[zu feiern]]
 
 ---
 [[Feier]], [[Feierlichkeit]], [[Fest]], [[Feiertag]], [[festlich]], [[Feierei]], [[müssen]], [[abhotten]]
+, [[anstoßen]]

@@ -4,6 +4,8 @@ die [[Gebiete]]
 ---
 mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
 
+[[außerhalb]] dieses [[Gebiets]], außerhalb unserer [[Öffnungszeiten]]  
+
 "Nach meiner langen [[Erfahrung]] [[auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 
 
 59. Vor wie vielen Jahren gab es erstmals eine [[jüdische]] [[Gemeinde]] auf dem [[Gebiet]] des [[heutigen]] Deutschlands? (100%)
@@ -13,10 +15,7 @@ mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
 	- [x] Thüringen
 
 102. Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf politischem, [[wirtschaftlichem]], kulturellem, [[geistigem]] oder sozialem [[Gebiet]] eine [[besondere]] [[Leistung]] [[erbracht]] hat? Mit dem … (85%)
-	- [ ] Bundesadler
 	- [x] [[Bundesverdienstkreuz]]
-	- [ ] Vaterländischen [[Verdienstorden]]
-	- [ ] [[Ehrentitel]] „Held der Deutschen Demokratischen Republik“
 
 ---
 = [[Region]], [[Areal]], [[Territorium]]

@@ -4,6 +4,8 @@
 ---
 Das [[entspricht]] unserer Idee.
 
+[[2 prap.md#^14|(q)]] [[Entsprechend]] unserem [[Vorschlag]] ^14
+
 ---
 = [[übereinstimmen]], [[gleichen]], [[genügen]]
 ≈ [[passen]], [[konform sein]], [[harmonieren]], [[gerecht werden]]

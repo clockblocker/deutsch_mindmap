@@ -1,30 +1,33 @@
-💰 [[kosten]]
-[[kostete]]
-haben [[gekostet]]
+💰 [[kosten]], [ˈkɔstn̩] | [[kostete]], haben [[gekostet]]
 
 ---
-
-Synonyme:
-- [[Verlangen]], [[brechen]], [[preislich sein]]
+[[2 prap.md#^1|(q)]] Abzüglich aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
 
 ---
-
-Beispiele:
-
-- Das Buch [[kostet]] 10 Euro.
-- Wie viel [[kostet]] der Eintritt ins Museum?
-- Der Urlaub [[kostete]] viel Geld.
-- Die Reparatur [[hat]] uns viel [[gekostet]].
-- Dieses Kleid [[kostet]] nicht viel.
+= [[betragen]], [[aufwenden]], [[bezahlen]]
+≈ [[ausgeben]], [[belaufen]], [[veranschlagen]], [[berechnen]]
+≠ [[verdienen]], [[erhalten]], [[sparen]], [[vergeuden]]
 
 ---
-**Übersetzung**: to cost
+to cost
+стоить
 
 ---
-
-Morphems of only infinitive:
-[[kost]][[en]]
+[[kost]]|[[en]]
 
 ---
-Tags:
-#Verb, [[genießen]], [[Nebenkostenabrechnung]], [[bezahlen]], [[kostengünstig]]
+ich: [[koste]], [[kostete]], –, [[koste]], [[kostete]]
+du: [[kostest]], [[kostetest]], [[koste]] | [[kost]], [[kostest]], [[kostetest]]
+er/sie/es: [[kostet]], [[kostete]], –, [[koste]], [[kostete]]
+wir: [[kosten]], [[kosteten]], [[kosten wir|kosten]], [[kosten]], [[kosteten]]
+ihr: [[kostet]], [[kostetet]], [[kostet]], [[kostet]], [[kostetet]]
+
+PI: [[kostend]], PII: [[gekostet]], Zu+inf: [[zu kosten]]
+
+---
+[[kosten]] - / to cost
+
+---
+[[Kosten]], [[Kostbarkeit]], [[kostbar]], [[kostspielig]], [[Kostenaufwand]], [[Kostenfaktor]]
+, [[abziehen]]
+, [[Reisekosten]]

@@ -1,0 +1,1 @@
+💪 [[beherzt]], [bəˈhɛɐ̯t͡st] ≠ [[furchtsam]]

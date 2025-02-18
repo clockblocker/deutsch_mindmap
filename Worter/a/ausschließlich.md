@@ -1,7 +1,10 @@
 🚫 [[ausschließlich]], [ˈaʊ̯sˌʃliːslɪç]
 
 ---
-Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nutzen sie [[vielfach]], allerdings [[ausschließlich]], um Verben zu bilden. 
+Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nutzen sie [[vielfach]], [[allerdings]] [[ausschließlich]], um Verben zu bilden. 
+
+[[ausschließlich]] der Reisekosten  
+
 
 
 ---
@@ -13,7 +16,7 @@ Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nut
 exclusively, solely, only
 
 ---
-[[aus]]|[[schließ]]|[[lich]]
+[[aus]]|[[schließlich]]
 
 ---
 N: [[ausschließlich]], [[ausschließlicher]], [[ausschließlichster]]  
@@ -28,3 +31,4 @@ P: [[ausschließlichen]], [[ausschließlicheren]], [[ausschließlichsten]]
 [[ausschließen]], [[Ausschluss]], [[ausschließbar]], [[einschließlich]], [[unausschließbar]]
 
 [[sonst]], [[erst]], [[nebenbei]], [[usw]]
+, [[Reisekosten]]

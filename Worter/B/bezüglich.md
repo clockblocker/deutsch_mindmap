@@ -1,1 +1,2 @@
 , [[Bezug]], [[woran]]
+, [[Bezugswort]]

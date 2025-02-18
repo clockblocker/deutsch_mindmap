@@ -23,3 +23,4 @@ Alle Formen:
 | Accusative  | den Unterricht        | die Unterrichte       |
 | Dative      | dem Unterricht        | den Unterrichten      |
 | Genitive    | des Unterrichts       | der Unterrichte       |, [[Erzie­hung]], [[Religionsunterricht]], [[Geschichtsunterricht]], [[Politikunterricht]], [[Sprachunterricht]], [[Blockflötenunterricht]], [[Erlernung]], [[lehren]]
+, [[Unterlage]]

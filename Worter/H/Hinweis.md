@@ -27,3 +27,4 @@ D: der [[Hinweis]], den [[hinweisen]]
 
 [[Zeichen]], [[Angabe]], [[Anzeige]], [[Benachrichtigung]], [[Vorschein]]
 , [[Beweis]]
+, [[Richtungsangabe]]

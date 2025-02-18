@@ -14,6 +14,9 @@ Da [[angehen|ging]] eine [[schlimme]] Zeit für das arme [[Stiefkind]] an.
 	- [ ] [[angehen|geht]]  das nur die Familie etwas an.
 
 ---
+[[vorangehen]] - [[vor]] = [[angehen]] / to precede, to go ahead
+
+---
 Synonyme: [[beginnen]], [[starten]], [[einleiten]], [[in Angriff nehmen]], [[aufnehmen]]
 Antonyme: [[aufhören]], [[beenden]], [[stoppen]], [[abbrechen]]
 
@@ -40,3 +43,4 @@ Zu+infinitive: [[anzugehen]]
 
 ---
 [[Angang]], [[Angelegenheit]], [[Anfang]], [[vorgehen]], [[Herangehensweise]], [[betreffen]]
+, [[vorangehen]]

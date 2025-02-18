@@ -22,3 +22,4 @@ Einzigartige mögliche Formen: [[Krieges]], [[Kriege]], [[Kriegen]]
 ---
 #Substantiv #Maskulin, [[aufzukriegen]], [[Weltkrieg]], [[Kriegsbemalung]], [[Kriegsschiff]], [[s1 e1]]
 , [[Gefecht]]
+, [[Kriegsausbruch]]

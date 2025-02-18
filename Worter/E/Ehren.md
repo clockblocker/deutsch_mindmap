@@ -31,3 +31,4 @@ PI: [[ehrend]], PII: [[geehrt]], Zu+inf: [[zu ehren]]
 [[Ehrung]], [[ehrenwert]], [[ehrenhaft]], [[Ehrenmann]], [[Ehrensache]]
 , [[schmeicheln]], [[beschimpfen]], [[respektieren]], [[verspotten]], [[Ehrenamt]],
 , [[Ehrentitel]], [[gratulieren]], [[schmähen]]
+, [[anstoßen]]

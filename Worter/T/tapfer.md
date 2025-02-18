@@ -29,3 +29,4 @@ P: [[tapferen]], [[tapfereren]], [[tapfersten]]
 
 ---
 [[Tapferkeit]], [[tapfern]], [[Tapfere]], [[Tapferkeit]], [[mutig]], [[wagend]]
+, [[beherzt]]

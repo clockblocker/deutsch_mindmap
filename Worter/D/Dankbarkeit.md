@@ -26,3 +26,4 @@ D: der [[Dankbarkeit]], den [[Dankbarkeiten]]
 
 ---
 [[danken]], [[dankbar]], [[undankbar]], [[Dankesschuld]]
+, [[dank]]

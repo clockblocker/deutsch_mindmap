@@ -1,7 +1,9 @@
-[[außerhalb]], [ˈaʊ̯sɐhalp]
+[[außerhalb]], [ˈaʊ̯sɐhalp]  is der [[Gegensatz]] für [[innerhalb]]
 
 ---
-_Aang nimmt Katara in die Arme und mit einem Sprung sind sie außerhalb des Schiffes._
+_Aang nimmt Katara in die Arme und mit einem Sprung sind sie [[außerhalb]] des Schiffes._
+
+[[2 prap.md#^8|(q)]] [[Außerhalb]] dieses [[Gebiets]], [[außerhalb]] unserer [[Öffnungszeiten]] ^8
 
 ---
 Synonyme: [[draußen]], [[extern]], [[Außen]], [[draußerhalb]], [[hinaus]], [[durchs]]
@@ -27,3 +29,4 @@ Grammatikalische Besonderheiten:
 - Kann sowohl konkret als auch abstrakt verwendet werden
 
 Hinweis: Nicht zu verwechseln mit [[innerhalb]], welches das Gegenteil bedeutet., [[auswärtig]], [[s1 e1]]
+, [[Öffnungszeit]]

@@ -17,3 +17,4 @@ Morphems:
 
 ---
 #Substantiv #Feminin, [[11 08]], [[einreisen]], [[Reisepass]], [[Ostasienfahrt]], [[Bewegung]], [[Ausflug]], [[verreisen]]
+, [[Reisekosten]]

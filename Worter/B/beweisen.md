@@ -1,6 +1,8 @@
 😤 [[beweisen]], [bəˈvaɪ̯zn̩] | [[bewies]], haben [[bewiesen]]
 
 ---
+[[2 prap.md#^3|(q)]] [[anhand]] von neueren Studien, anhand von [[Beweisen]] ^3
+
 [[15 genetiv#^6|(q)]] »Auf keinen Fall!« rief der junge Mann laut. »Sie sind [[verrückt]]! Das müssen Sie mir erst [[beweisen]].« ^6
 
 [[15 genetiv#^8|(q)]] Der Experte erklärte, dass der Mord nur durchs Fenster kommen konnte. Aber wie sollte man es [[beweisen]]? ^8

@@ -1,1 +1,2 @@
 , [[aufbringen]], [[verbrauchen]]
+, [[kosten]]

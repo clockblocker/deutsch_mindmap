@@ -13,7 +13,6 @@ Ich nehme [[artig]] meine Medizin
 Und [[warte]] hier im [[Daunenbeet]]  
 Bis die Sonne [[untergeht]]
 
-
 Sie kommen und sie gehen  
 Und manchmal auch zu [[zweit]]  
 Die späten [[Vögel]] singen  

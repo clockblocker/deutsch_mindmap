@@ -1,11 +1,13 @@
-🟢 der [[Umstand]], [ˈʊmʃtant]
+🔵 der [[Umstand]] 😟, [ˈʊmʃtant]
 die [[Umstände]]
 
 ---
 Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke [[versorgt]]. Welcher [[Umstand]] war dafür verantwortlich? 
 
+[[2 prap.md#^5|(q)]] [[aufgrund]] / auf Grund des Streiks, aufgrund / auf Grund der [[widrigen]] [[Umstände]] ^5  
+
 ---
-= [[Situation]], [[Gegebenheit]], [[Vorfall]]
+= [[Situation]], [[Gegebenheit]], [[Vorfall]], [[Lage]], [[Bedingung]]
 ≈ [[Bedingung]], [[Zustand]], [[Lage]], [[Fall]]
 ≠ [[Zufall]], [[Ausnahme]], [[Unvorhergesehenes]]
 

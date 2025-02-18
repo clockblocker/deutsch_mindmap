@@ -1,1 +1,2 @@
 , [[mutig]], [[tapfer]]
+, [[beherzt]]

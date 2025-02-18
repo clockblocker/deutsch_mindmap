@@ -26,7 +26,8 @@ und der Hut fliegt auch davon.
 
 Schirm und Robert fliegen dort  
 durch die Wolken immerfort.  
-Und der Hut fliegt weit voran,  
-stößt zuletzt am Himmel an.  
+[[9 Die Geschichte vom fliegenden Robert.md#^1|(q)]] Und der [[Hut]] [[fliegen|fliegt]] [[weit]] [[voran]],  
+[[anstoßen|stößt]] [[zuletzt]] am [[Himmel]] [[anstoßen|an]]. ^1
+
 Wo der Wind sie hingetragen,  
 ja, das weiß kein Mensch zu sagen.

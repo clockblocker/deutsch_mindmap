@@ -17,3 +17,4 @@ over, past, finished
 ---
 #Adverb 
 , [[hinweg]]
+, [[entlang]]

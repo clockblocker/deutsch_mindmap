@@ -73,3 +73,4 @@
 
 8. #Reziproke Pronomen
 [[einander]] (each other, one another)
+, [[Bezugswort]]

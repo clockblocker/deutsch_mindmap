@@ -1,0 +1,1 @@
+🔴 ⏰ die [[Öffnungszeit]], [ˈœfnʊŋsˌt͡saɪ̯t]

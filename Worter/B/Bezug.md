@@ -32,3 +32,4 @@ D: dem [[Bezug]], den [[Bezügen]]
 
 , [[Decke]]
 , [[bezogen]]
+, [[Bezugswort]]

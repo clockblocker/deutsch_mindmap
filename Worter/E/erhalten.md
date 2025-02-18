@@ -54,3 +54,4 @@ Partizip I: [[erhaltend]], Partizip II: [[erhalten]]
 
 [[ändern]], [[holen]], [[verloren]], [[verlieren]], [[Worter/H/haben]], [[kriegen]], [[verdienen]], [[abbekommen]]
 , [[beibehalten]], [[überlebt]], [[erben]], [[vernichten]], [[1 Präpositionen Übungen]], [[versenden]]
+, [[kosten]]

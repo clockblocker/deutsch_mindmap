@@ -1,1 +1,2 @@
 , [[langweilen]], [[langweilig]], [[Vergnügen]]
+, [[Feier]]

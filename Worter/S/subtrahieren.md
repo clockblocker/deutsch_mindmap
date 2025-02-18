@@ -1,1 +1,2 @@
 , [[zusammenrechnen]], [[dazuzählen]]
+, [[abziehen]]

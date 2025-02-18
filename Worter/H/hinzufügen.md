@@ -29,3 +29,4 @@ PI: [[hinzufügend]], PII: [[hinzugefügt]], Zu+inf: [[hinzuzufügen]]
 ---
 [[Hinzufügung]], [[Zusatz]], [[Beilage]], [[Ergänzung]]
 , [[ersetzen]]
+, [[einfügen]]

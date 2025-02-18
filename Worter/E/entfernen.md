@@ -29,3 +29,5 @@ PI: [[entfernend]], PII: [[entfernt]], Zu+inf: [[zuentfernen]]
 
 ---
 [[Entfernung]], [[entfernbar]], [[Entferner]]
+, [[einfügen]]
+, [[abziehen]]

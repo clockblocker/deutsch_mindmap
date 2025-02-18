@@ -26,3 +26,4 @@ D: dem [[Regen]], den [[Regen]]
 [[regnen]], [[regnerisch]], [[Regenbogen]], [[Regenschirm]], [[Regentag]]
 
 [[nass]], [[anregen]]
+, [[Unwetter]]

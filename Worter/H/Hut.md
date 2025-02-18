@@ -36,3 +36,4 @@ Weitere Bedeutungen:
 1. Kopfbedeckung zum Schutz vor Witterung
 2. Schutztruppe, Wache (in bestimmten Ausdrücken)
 3. Obhut, Schutz (z.B. "unter jemandes Hut stehen")
+, [[anstoßen]]

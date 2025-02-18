@@ -88,5 +88,14 @@
       ],
       "key": "E"
     }
+  ],
+  "cbcr-filler-de:normalize-and-do-not-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }

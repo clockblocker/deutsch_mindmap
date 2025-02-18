@@ -1,0 +1,4 @@
+
+, [[Richtungsangabe]]
+, [[Bezugswort]]
+, [[entlanggehen]]

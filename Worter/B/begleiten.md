@@ -27,3 +27,4 @@ Morpheme: [[be]][[gleit]][[en]]
 
 Partizip I: [[begleitend]], Partizip II: [[begleitet]]
 [[begleiten]] - [[be]] = [[gleiten]], [[beistehen]]
+, [[Begleiter]]

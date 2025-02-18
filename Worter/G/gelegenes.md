@@ -1,0 +1,1 @@
+📍 [[gelegen]], [ɡəˈleːɡn̩] ≠ [[ungelegen]]

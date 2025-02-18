@@ -39,3 +39,4 @@ Morpheme: [[sprech]][[en]]
 Partizip I: [[sprechend]], Partizip II: [[gesprochen]]
 
 , [[ansprechen]], [[7 Die Geschichte vom Zappel-Philipp]], [[versprechen]], [[unterhalten]], [[Sprichwort]], [[Schweige]], [[rechtsprechend]], [[entsprechen]], [[s1 e1]], [[aussprechen]], [[besprechen]], [[flöten]]
+, [[entsprechend]]
