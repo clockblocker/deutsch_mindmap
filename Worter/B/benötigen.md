@@ -1,1 +1,2 @@
 , [[brauchen]], [[müssen]]
+, [[mangeln]]

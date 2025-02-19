@@ -35,3 +35,4 @@ Zu+infinifive: [[weiterzumachen]]
 ---
 [[Weiterarbeit]], [[Weiterführung]], [[Weitermachen]]
 , [[unterbrechen]], [[nachdenken]], [[übernachten]]
+, [[durchhalten]]

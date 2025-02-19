@@ -1,35 +1,36 @@
-🔖 [[aussuchen]] + Akk, [ˈaʊ̯sˌzuːχən]
-[[suchte aus|suchte aus]]
-haben [[ausgesucht]]
+✅ [[aussuchen]], [ˈaʊ̯sˌzuːxən] | [[suchte aus]], haben [[ausgesucht]]
 
 ---
 - Ich [[suche]] mir fünf Zahlen aus
 
-19. Was versteht man unter dem Recht der „[[Freizügigkeit]]“ in Deutschland? (77%)
+1. Was versteht man unter dem Recht der „[[Freizügigkeit]]“ in Deutschland? (77%)
 	- [x] Man darf sich seinen [[Wohnort]] selbst [[aussuchen]].
 
----
-Synonyme: [[wählen]], [[auswählen]], [[bestimmen]], [[selektieren]], [[heraussuchen]]
-Antonyme: [[ablehnen 1]], [[zurückweisen]], [[verwerfen]]
+[[3 ADHD.md#^11|(q)]] Als Kind im Alter von 8 bis 10 Jahren [[verfügte]] ich über eine gute [[motorische]][[Koordinationsfähigkeit]] und wurde immer zuerst als Mitspieler [[ausgesucht]]. ^11
 
 ---
-Übersetzung: to choose, to select
+= [[wählen]], [[auswählen]], [[selektieren]]
+≈ [[auserwählen]], [[bestimmen]], [[entscheiden]], [[präferieren]]
+≠ [[verwerfen]], [[ablehnen]], [[ausschließen]], [[ignorieren]]
 
 ---
-Morpheme: [[aus]][[such]][[en]]
- #Verb  #Trennbar
+to choose, to select
+выбирать, подбирать
 
 ---
+[[aus]]|[[su]]|[[chen]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[suche aus]] | [[suchte aus]] | - | [[suche aus]] | [[suchte aus]] |
-| Du | [[suchst aus]] | [[suchtest aus]] | [[such aus]] | [[suchest aus]] | [[suchtest aus]] |
-| Er/sie/es | [[sucht aus]] | [[suchte aus]] | - | [[suche aus]] | [[suchte aus]] |
-| Wir | [[suchen aus]] | [[suchten aus]] | - | [[suchen aus]] | [[suchten aus]] |
-| Ihr | [[sucht aus]] | [[suchtet aus]] | [[sucht aus]] | [[suchet aus]] | [[suchtet aus]] |
-| Sie | [[suchen aus]] | [[suchten aus]] | [[suchen Sie aus]] | [[suchen aus]] | [[suchten aus]] |
+---
+ich: [[suche aus]], [[suchte aus]], –, [[suche aus]], [[suchte aus]]
+du: [[suchst aus]], [[suchtest aus]], [[suche aus]] | [[such aus]], [[suchst aus]], [[suchtest aus]]
+er/sie/es: [[sucht aus]], [[suchte aus]], –, [[suche aus]], [[suchte aus]]
+wir: [[suchen aus]], [[suchten aus]], [[suchen wir aus|suchen aus]], [[suchen aus]], [[suchten aus]]
+ihr: [[sucht aus]], [[suchtet aus]], [[sucht aus]], [[sucht aus]], [[suchtet aus]]
 
-Partizip I: [[auswählend]], Partizip II: [[ausgesucht]]
+PI: [[aussuchend]], PII: [[ausgesucht]], Zu+inf: [[auszusuchen]]
 
-[[aussuchen]] - [[aus]] = [[suchen]], [[ablehnen]]
+---
+[[aussuchen]] - [[aus]] = [[suchen]] / to choose, to select
+
+---
+[[suchen]], [[Auswahl]], [[aussuchen]]

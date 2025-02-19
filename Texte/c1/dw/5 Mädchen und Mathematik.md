@@ -1,0 +1,28 @@
+https://learngerman.dw.com/de/l-42197596/lm
+
+Mädchen und Mathematik  
+  
+Brüche, Logarithmen, Algebra: Was viele Jungen in Deutschland erst mal nicht abschreckt, ist für Mädchen oft ein Albtraum, so das Ergebnis verschiedener Studien. Doch muss Mathematik wirklich eine Männerdomäne bleiben?**  
+  
+In der Klasse 6F der Freien Schule Anne-Sophie in Berlin beginnt der Mathematikunterricht. Vorne an der Tafel steht Lehrerin Gudrun Schweighöfer, kurze braune Haare, strenger Blick, die Hand in die Luft gereckt. Sie versucht, die lärmende Schülerschar unter Kontrolle zu bringen. An diesem Tag gibt sie die Klassenarbeiten zurück. Die Sechstklässler mussten Brüche addieren, Flächen berechnen und Textaufgaben lösen. Victoria ist nicht begeistert vom Ergebnis:  
+  
+„Also, ich hab sie verkackt. Ich mag Mathe nicht.“  
+  
+So wie Victoria geht es vielen Mädchen. Sie mögen das Fach Mathematik nicht. Und das ist ein Grund, warum dann eine Klassenarbeit auch schon mal verkackt wird, eine saloppe Bezeichnung, wenn man eine Aufgabe nicht erfolgreich erledigt hat. Das Problem ist, dass die Abneigung gegen den Mathematikunterricht auch die spätere Berufswahl beeinflusst. Nur etwa jedes 20. Mädchen kann sich vorstellen, später in einem Beruf zu arbeiten, der mit Mathematik, Naturwissenschaften, Informatik oder Technik zu tun hat, den sogenannten MINT-Fächern. Bei den Jungs ist das anders. So wie bei Victorias Mitschüler Lars:  
+  
+„Ich möchte die Firma von meinem Vater übernehmen. Das ist eine Baufirma. – [Gudrun Schweighöfer] Was muss man dafür gut können? – Ja, Mathe muss man dafür können.“  
+  
+Seine Schwester sieht Lars eher nicht als Chefin des elterlichen Betriebs:  
+  
+„Ich denke nicht, weil, das ist nichts für sie so. Sie möchte eher Tierärztin oder irgendwas anderes werden.“  
+  
+Die Ergebnisse der PISA-Studien für Naturwissenschaften zeigten, dass Mädchen ihren männlichen Mitschülern im logischen, mathematischen Denken eigentlich in nichts nachstehen. PISA ist die Abkürzung für die Internationalen Schulleistungsstudien der OECD, der Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung. Die Studien zeigten aber auch, dass Mädchen offenbar eine Abneigung gegen Mathematik und Naturwissenschaften haben. Woran liegt das? Forscher um Victor Lavy von der britischen Universität Warwick machten Tests, um das herauszufinden. Sie ließen eine Gruppe von Schülern einen naturwissenschaftlichen Text schreiben, der zum einen von den eigenen Lehrern, zum anderen anonymisiert von außenstehenden Gutachtern bewertet wurde. Die Ergebnisse waren eindeutig: Bewerteten die eigenen Lehrer den Test, schnitten die Jungen besser ab, bewerteten dagegen außenstehende Lehrer die Schüler, waren die Mädchen überlegen. Offenbar haben Lehrer also eine vorgefasste Meinung, die sich in der Benotung niederschlägt. Das kann Lea aus Klasse 12 aus eigener Erfahrung bestätigen:  
+  
+„Ich finde, man muss auch in vielen Fächern die Lehrer erst mal so von sich überzeugen, weil dann denken die: ‚Okay, die Jungs können das jetzt gut.‘ Und dann muss man als Mädchen immer schon mal sich mehr melden oder ’n bisschen mehr machen, um erst mal zu zeigen: ‚Okay, ich kann das wirklich gut‘, um dann halt auch auf diesem Niveau zu stehen, wie die Jungs vielleicht als erstes gestanden hätten.“  
+  
+Mathematiklehrerin Gudrun Schweighöfer achtet in ihrem Mathematikunterricht besonders darauf, die Beteiligung von Mädchen zu fördern – denn sonst verlieren diese schnell die Motivation und die Selbstsicherheit. Aber gerade eine selbstbewusste Selbsteinschätzung ist wichtig, damit die Mädchen keine Abneigung gegenüber Naturwissenschaften entwickeln. Die OECD stellte in einem 2015 veröffentlichten Bildungsbericht fest, dass Deutschland zu den 72 untersuchten Ländern gehörte, in denen es unter den Geschlechtern in Bezug auf ihre Einstellung zur Mathematik die größten Unterschiede gab. Auf die Frage, wie sicher sie sich beim Lösen einer Matheaufgabe fühlen, kreuzten nur knapp die Hälfte der Schülerinnen „sicher“ an. Bei den Jungen dagegen waren es zwei Drittel. Befragt wurden in Deutschland rund 6500 Schülerinnen und Schüler im Alter von 15 Jahren. Was kann man tun, um den Mädchen auf diesem Weg mehr Selbstvertrauen einzuflößen? Gudrun Schweighöfer ist der Meinung, dass es keine einfache Lösung, aber manche hilfreiche Methode gibt:  
+  
+„Zum einen, indem man Mädchen ganz gezielt anspricht, also sich nicht nur darauf verlässt: ‚Ich nehm’ einfach nur die dran, die sich melden, und wenn sie sich nicht melden, dann eben nicht.‘ Und indem ich das eben, ja nicht besonders lobe. Das ist ja auch immer so ’n Eiertanz, nicht. Man darf ja auch jetzt nicht jemand besonders loben, weil es was Besonderes ist, sondern es ist eigentlich ’ne Selbstverständlichkeit.“  
+  
+Das Selbstbewusstsein von Mädchen fördern, ohne dabei zu übertreiben: Das ist ein richtiger Eiertanz, bei dem man sehr vorsichtig sein muss. Die Lehrkräfte müssen die Balance halten zwischen einem Zuviel und einem Zuwenig an Lob. Was nach Ansicht von Prof. Dr. Andrea Blunck ebenso wichtig ist: das Image der Mathematik insgesamt zu verbessern. In dem 2007 veröffentlichten Thesenpapier „Das Geschlecht der Mathematik“ stellte sie fest, dass das Fach Mathematik als zu schwer und zu abstrakt angesehen wird und als Männerdomäne**,** also als Bereich, in dem Männer vorherrschen, gilt – ungeachtet des Interesses weiblicher Studierender. Ob eine Imageverbesserung helfen würde, mehr Mädchen für Mathematik zu begeistern, ist schwer zu beantworten. Bislang waren entsprechende Versuche von Bildungspolitikern nur mäßig erfolgreich.
+

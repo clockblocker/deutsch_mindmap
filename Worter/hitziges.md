@@ -1,0 +1,1 @@
+🔥 [[hitzen]] | 🔥 [[hitzig]] | 🟢 das [[Hitzige]] 🔥

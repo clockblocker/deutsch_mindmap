@@ -25,3 +25,4 @@ D: dem [[Sitz]], den [[Sitzen]]
 
 ---
 [[sitzen]], [[sitzend]], [[sitzsam]], [[Sitzbank]], [[Sitzgelegenheit]], [[besitzen]], [[Vorsitzende]], [[vorsitzen]], [[stehen]]
+, [[aufsässig]]

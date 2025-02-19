@@ -1,1 +1,2 @@
 , [[versuchen]], [[wollen]]
+, [[vermeiden]]

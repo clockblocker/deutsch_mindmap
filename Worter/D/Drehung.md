@@ -1,1 +1,2 @@
 , [[verdrehen]], [[Wendung]], [[Richtungsänderung]]
+, [[verdreht]]

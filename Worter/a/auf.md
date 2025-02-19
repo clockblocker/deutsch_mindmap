@@ -1,1 +1,8 @@
 , [[aufstehen]], [[sagen]], [[Aufträgen]], [[aufhören]], [[da]], [[Aufgaben]], [[Aufruf]], [[Arbeiteraufstand]], [[Aufstand]], [[Aufgabe]], [[aufteilen]], [[aufgebracht]], [[aufbringen]], [[fordern]], [[auffordern]], [[Auflistung]], [[aufmerksam]], [[Verwaltungsaufbau]], [[erwähnen]], [[Garantiebestimmung]], [[vorhin]], [[stehen]], [[Aufnahme]], [[aufdecken]], [[aufnehmen]], [[hören]], [[Wechselpräposition]], [[aufwärts]], [[aufliegen]], [[Aufführung]], [[1 Präpositionen Übungen]], [[aufgeben]]
+, [[aufbrausen]]
+, [[aufrechterhalten]]
+, [[rechter]]
+, [[Arbeitsauftrag]]
+, [[Auftrag]]
+, [[unaufmerksam]]
+, [[aufsässig]]

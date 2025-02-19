@@ -1,8 +1,9 @@
 💬 [[redensartlich]], [ˈʁeːdn̩sˌaʁtlɪç]
 
 ---
-Wer etwas verliert und es wiederhaben will, muss suchen – in dieser Ecke oder in [[jener]]. Den [[redensartlichen]] [[Faden]] findet man dort aber nicht. [[Dazu]] muss man schon in die Tiefe seines eigenen Geistes [[eindringen]].
+Wer etwas verliert und es wiederhaben will, muss suchen – in dieser Ecke oder in [[jener]]. Den [[redensartlichen]] [[Faden]] findet man dort aber nicht. [[Dazu]] muss man schon in die Tiefe seines eigenen [[Geistes]] [[eindringen]].
 
+[[Eine Extrawurst bekommen.md#^1|(q)]] Die Deutschen sind ein Volk von [[Wurstessern]]. Und [[zwar]] so sehr, dass sich hier sogar [[Vegetarier]] über eine Wurst freuen können – [[zumindest]], wenn es sich [[redensartlich]] um eine Extrawurst handelt. ^1
 
 ---
 Synonyme:

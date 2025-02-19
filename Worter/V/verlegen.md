@@ -1,1 +1,2 @@
 , [[umziehen]], [[schüchtern]]
+, [[selbstbewusst]]

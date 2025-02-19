@@ -8,7 +8,7 @@ Weil es keine direkte [[Verbindung]] gibt, muss ich nachher in einen anderen Zug
 
 
 ---
-= [[Verknüpfung]], [[Worter/B/Beziehung]], [[Kontakt]]
+= [[Verknüpfung]], [[Beziehung]], [[Kontakt]]
 ≈ [[Zusammenhang]], [[Kommunikation]], [[Verbundenheit]], [[Bindung]]
 ≠ [[Trennung]], [[Isolation]], [[Unabhängigkeit]], [[Distanz]]
 
@@ -28,5 +28,6 @@ D: der [[Verbindung]], den [[Verbindungen]]
 [[verbinden]], [[verbindlich]], [[Verbindlichkeit]], [[Verbindungsmann]], [[Verbindungsfrau]]
 
 
-, [[Abstand]], [[Worter/B/Beziehung]], [[binden]], [[zusammenschrauben]], [[verbinden]], [[Bezug]], [[Zusammenschluss]], [[Scheidung]]
+, [[Abstand]], [[Beziehung]], [[binden]], [[zusammenschrauben]], [[verbinden]], [[Bezug]], [[Zusammenschluss]], [[Scheidung]]
 , [[Worter/Beziehung]], [[Beziehung]], [[Anki]]
+, [[Achse]]

@@ -29,3 +29,4 @@ P: [[begrenzten]], [[begrenzteren]], [[begrenztesten]]
 
 ---
 [[begrenzen]], [[Begrenzung]], [[grenzen]], [[Grenze]], [[unbegrenzt]], [[Grenz]], [[gering]], [[knapp]], [[unzählbar]]
+, [[übermäßig]]

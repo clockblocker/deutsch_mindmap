@@ -4,6 +4,8 @@
 ---
 Es ist ihr Traum, [[beziehungsweise]] Wunsch, Polizistin zu werden.
 
+[[Ein Auge zudrücken.md#^1|(q)]] Aber was bedeutet es, wenn man nur ein Auge schließt [[bzw.]] zudrückt?
+
 ---
 = [[oder]], [[respektive]], [[bzw.]]
 ≈ [[sprich]], [[genauer gesagt]], [[anders ausgedrückt]]
@@ -16,5 +18,5 @@ respectively, or rather, or
 [[bezieh]]|[[ungs]]|[[weise]]
 
 ---
-[[Worter/B/Beziehung]], [[beziehen]], [[weise]], [[weisen]], [[beziehungslos]]
-</ideal_output>, [[Worter/Beziehung]], [[Beziehung]], [[Anki]], [[jeweils]], [[entweder]]
+[[Beziehung]], [[beziehen]], [[weise]], [[weisen]], [[beziehungslos]]
+[[Beziehung]], [[Beziehung]], [[Anki]], [[jeweils]], [[entweder]]

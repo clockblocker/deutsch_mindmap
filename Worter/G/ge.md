@@ -1,2 +1,6 @@
 , [[geeignet]], [[Gewinn]], [[Gewalt]], [[Geräusch]], [[Gebiet]], [[Geburt]], [[Gesetz]], [[Gesundheitsamt]], [[gezwungen]], [[Gefängnis]], [[herabgezogen]], [[Gehaltszahlungen]], [[Gericht]], [[Gefahr]], [[aufgebracht]], [[gestehen]], [[Amtsgericht]], [[Geheim]], [[Eisgebilde]], [[Angriffsgeschrei]], [[gelungen]], [[Geschichtsunterricht]], [[gemein]], [[Schweigerecht]], [[Schweige]], [[gereizt]], [[Gewissensfreiheit]], [[Gerät]], [[ungefragt]], [[Angeklagte]], [[geehrt]], [[gegliedert]], [[Gebet]], [[Gemeindeverwaltung]], [[Wirtschaftsgemeinschaft]], [[Gemeinderat]], [[Gehalt]], [[ausgeruht]], [[stehen]], [[Gebäude]], [[Wange]], [[gewähren]], [[gering]], [[gewöhnen]], [[gewiss]], [[Zoogeschäft]], [[geschehen]], [[gesättigt]], [[Gerechtigkeit]], [[gemischt]], [[ungewöhnlich]], [[angelegen]], [[Geruch]], [[Gebrauch]], [[Wahlniederlage]], [[liebgewinnen]], [[Geschenkbestätigung]]
 , [[gelegen]]
+, [[zufriedengeben]]
+, [[ungestüm]]
+, [[Angelegenheit]]
+, [[ungehorsam]]

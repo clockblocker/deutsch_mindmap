@@ -1,1 +1,1 @@
-, [[Worter/B/Beziehung]], [[Ehepartner]]
+, [[Beziehung]], [[Ehepartner]]

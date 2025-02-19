@@ -1,1 +1,2 @@
 [[verstehen]], [[Bewusstsein]]
+, [[Geist]]

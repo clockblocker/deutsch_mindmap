@@ -1,1 +1,2 @@
 [[wiedersehen]], [[benutzen]], [[treffen]], [[lecken]], [[stoßen]], [[versuchen]], [[verwenden]], [[bewohnen]], [[verzichten]], [[vertragen]], [[zusteuern]], [[kümmern]], [[anblicken]], [[verabscheuen]]
+, [[vermeiden]]

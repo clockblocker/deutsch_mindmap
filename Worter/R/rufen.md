@@ -27,3 +27,4 @@ PI: [[rufend]], PII: [[gerufen]], Zu+inf: [[zurufen]]
 
 ---
 [[Ruf]], [[Rufer]], [[Ruferin]], [[rufbar]], [[Rufbereitschaft]]
+, [[verstummen]]

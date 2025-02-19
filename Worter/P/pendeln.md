@@ -1,1 +1,2 @@
 , [[umdrehen]], [[schaukeln]]
+, [[schwanken]]

@@ -1,1 +1,2 @@
 , [[Handlung]], [[Maßnahme]], [[Sport]]
+, [[Freizeitaktivität]]

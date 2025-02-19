@@ -1,2 +1,3 @@
 [[denken]]
 , [[nachdenken]]
+, [[nachdenklich]]

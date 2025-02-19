@@ -1,1 +1,2 @@
 , [[Buchstabe]], [[Zeichen]], [[Wappentier]]
+, [[Char]]

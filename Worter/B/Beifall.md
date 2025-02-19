@@ -21,3 +21,4 @@ Einzigartige mögliche Formen: [[Beifalls]], [[Beifall]], [[Beifälle]], [[Beif�
 
 ---
 #Substantiv #Maskulin[[untergehen]]
+, [[Lob]]

@@ -42,3 +42,4 @@ Einzigartige mögliche Formen:
 [[Kleinigkeit]], [[Kleinigkeiten]]
 [[Kleinigkeit]], [[Kleinigkeiten]]
 [[Kleinigkeiten]]
+, [[Angelegenheit]]

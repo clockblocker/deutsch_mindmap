@@ -26,3 +26,5 @@ Einzigartige mögliche Formen: [[Friedens]], [[Frieden]], [[Friedens]], [[Friede
 , [[Gefecht]]
 , [[Unwetter]]
 , [[Kriegsausbruch]]
+, [[zufriedengeben]]
+, [[Wutanfall]]

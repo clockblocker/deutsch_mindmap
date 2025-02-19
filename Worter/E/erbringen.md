@@ -33,3 +33,4 @@ PI: [[erbringend]], PII: [[erbracht]], Zu+inf: [[zu erbringen]]
 
 ---
 [[Erbringung]], [[Nachweis]], [[Leistung]], [[bringen]], [[Erfolg]]
+, [[erledigen]]

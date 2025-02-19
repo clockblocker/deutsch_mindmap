@@ -1,1 +1,2 @@
 , [[wenden]], [[wendig]]
+, [[motorische]]

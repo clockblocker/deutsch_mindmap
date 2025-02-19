@@ -1,1 +1,2 @@
 , [[streng]], [[Barmherzigen]]
+, [[mitfühlend]]

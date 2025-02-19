@@ -27,3 +27,4 @@ D: dem [[Merkmal]], den [[Merkmalen]]
 
 ---
 [[merken]], [[merklich]], [[kennzeichnend]], [[charakteristisch]], [[Worter/kennzeichnen]], [[Hinweis]]
+, [[Char]]

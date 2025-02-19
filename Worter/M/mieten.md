@@ -15,7 +15,7 @@ haben [[gemietet]]
 
 **Beispiele:**
 
-- Ich [[miete]] eine Wohnung.
+- Ich [[Miete]] eine Wohnung.
 - Du [[mietest]] ein Auto.
 - Er [[mietet]] ein Büro.
 - Es [[mietet]] ein Ferienhaus.
@@ -49,11 +49,11 @@ to rent, to lease
 
 **Imperativ:**
 
-- Ich [[miete]] die Wohnung.
+- Ich [[Miete]] die Wohnung.
 - Du [[miet|miete]] die Wohnung.
-- Er [[miete]] die Wohnung.
+- Er [[Miete]] die Wohnung.
 - Es [[mietet]] die Wohnung.
-- Sie [[miete]] die Wohnung.
+- Sie [[Miete]] die Wohnung.
 - Wir [[mieten]] die Wohnung.
 - Ihr [[mietet]] die Wohnung.
 - Sie [[mieten]] die Wohnung.

@@ -4,6 +4,9 @@ die [[Reihen]]
 ---
 Andere [[beherbergen]] Science-Fiction-Taschenbücher in [[Zweierreihen]], die hintere auf alten [[Pappkartons]] oder [[Holzplatten]] [[höhergestellt]], so dass man die Titel über die Bücher der [[vorderen]] [[Reihe]] hinweg lesen kann.
 
+[[2 ADHD.md#^12|(q)]] Ich bin [[ungeduldig]] und kann nicht warten, bis ich an der [[Reihe]] bin (z.B. beim Einkaufen). ^12
+
+
 ---
 = [[Folge]], [[Abfolge]], [[Sequenz]]
 ≈ [[Linie]], [[Reihenfolge]], [[Ordnung]], [[Ablauf]]

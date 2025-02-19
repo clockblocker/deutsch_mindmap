@@ -1,7 +1,13 @@
 🧠 [[bewusst]], [bəˈvʊst]
 
 ---
+[[Eigenlob stinkt.md#^2|(q)]] [[Selbstbewusste]] Menschen haben es leichter im Leben. Sie [[beeindrucken]] andere durch ihre [[Fähigkeiten]] und Talente. ^2
+
+Katara hat keine [[Schuld]]. Ich hab sie [[überredet]]. _Sieht [[schuldbewusst]] nach unten_ Es ist meine Schuld.
+
+---
 [[schuldbewusst]]
+[[Selbstbewusste]]
 
 ---
 = [[aufmerksam]], [[wahrnehmend]], [[reflektiert]]
@@ -25,3 +31,5 @@ P: [[bewussten]], [[bewussteren]], [[bewusstesten]]
 
 ---
 [[Bewusstsein]], [[bewusstlos]], [[unbewusst]], [[bewusstmachen]], [[bewusstwerden]], [[absichtlich]], [[unabsichtlich]], [[Verantwortungsbewusstsein]]
+, [[selbstbewusst]]
+, [[versehentlich]]

@@ -1,1 +1,1 @@
-, [[lesen]], [[ledigen]], [[Zelle]], [[Bundeskanzlerin]]
+, [[lesen]], [[ledig]], [[Zelle]], [[Bundeskanzlerin]]

@@ -1,1 +1,2 @@
 , [[trotz]], [[Arbeiteraufstand]], [[Aufstand]]
+, [[rebellisch]]

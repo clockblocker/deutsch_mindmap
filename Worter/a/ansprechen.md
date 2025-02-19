@@ -5,6 +5,8 @@ haben [[angesprochen]]
 ---
 Endlich [[gelingt]] es Mona, sie [[anzusprechen]].
 
+[[Die halbe Miete sein.md#^3|(q)]] Seit einiger Zeit ist Anja ein wenig [[nachdenklich]]. Daher [[ansprechen|spricht]] Fatima ihre Freundin in der Mittagspause darauf an. ^3
+
 *So [[sprach]] sie ihren Liebsten [[an]]*  
 *Ob er es ihr steigen kann*
 

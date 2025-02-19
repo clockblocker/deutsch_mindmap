@@ -25,3 +25,4 @@ Tags:
 
 Morphems:
 [[den]], [[unterscheiden]]
+, [[vermeiden]]

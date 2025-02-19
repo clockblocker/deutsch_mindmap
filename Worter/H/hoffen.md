@@ -74,3 +74,4 @@ Konjunktiv II:
 - Wenn wir mehr Ressourcen hätten, [[höfften]] wir auf den Erfolg.
 - Wenn ihr zusammenarbeitet, [[höfftet]] ihr auf eine Lösung.
 - Wenn sie die Möglichkeit hätten, [[höfften]] sie auf eine positive Wendung., [[hoffentlich]], [[befürchten]], [[verzweifeln]]
+, [[vertrauen]]

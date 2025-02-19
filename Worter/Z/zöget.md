@@ -1,2 +1,3 @@
 👗 [[anziehen]]
 [[ziehen]], [[weiterziehen]]
+, [[zeihen]]

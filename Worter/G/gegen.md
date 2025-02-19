@@ -34,3 +34,4 @@ Morphems:
 
 , [[11 08]], [[entgegen]], [[da]], [[FUDGEBOW]], [[Gegenwind]]
 , [[entlang]]
+, [[Gegenstand]]

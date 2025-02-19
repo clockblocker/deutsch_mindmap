@@ -75,3 +75,4 @@ Konjunktiv II:
 - Wenn ihr Zweifel hättet, [[sähet nach|sähet]] ihr den Kindern [[nach]].
 - Wenn sie nicht sicher wären, [[sähen nach|sähen]] sie der Sache [[nach]].
 , [[11 08]]
+, [[verzeihen]]

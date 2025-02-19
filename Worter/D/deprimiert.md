@@ -29,3 +29,4 @@ P: [[deprimierten]], [[deprimierteren]], [[deprimiertesten]]
 
 ---
 [[Depression]], [[deprimieren]], [[Niedergeschlagenheit]], [[demotivieren]], [[entmutigen]]
+, [[raustogig]]

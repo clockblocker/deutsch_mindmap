@@ -1,0 +1,1 @@
+🔵 💥 der [[Gefühlsausbruch]], [ɡəˈfyːlsʔaʊ̯sbʁʊx]

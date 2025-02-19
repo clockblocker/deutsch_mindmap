@@ -24,3 +24,4 @@ D: dem [[Kauf]], den [[Käufen]]
 
 ---
 [[kaufen]], [[käuflich]], [[Käufer]], [[Verkauf]], [[einkaufen]]
+, [[Miete]]

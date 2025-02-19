@@ -28,3 +28,5 @@ Einzigartige mögliche Formen:
 [[munterer]], [[munterera]], [[munteere]], [[munteeres]], [[münteren]], [[münterem]], [[münterer]], [[münteren]]
 [[muntesten]], [[muntester]], [[munteste]], [[muntestes]], [[muntesten]], [[munterstem]], [[muntester]], [[muntesten]]
 ''', [[ausgeruht]], [[s1 e1]], [[erschöpft]], [[matt]]
+, [[bedrückt]]
+, [[raustogig]]

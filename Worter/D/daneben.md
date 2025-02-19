@@ -1,32 +1,23 @@
-🔵 [[daneben]]
+😬 [[daneben]], [daˈneːbn̩]
 
 ---
-  Mutti, hier in der Küche steht eine offene Flasche Wein, und ein Glas steht [[daneben]]
+Mutti, hier in der Küche steht eine offene Flasche Wein, und ein Glas steht [[daneben]]
 
- Während die zwei streiten, sitzt Carmen daneben und versucht, ruhig zu bleiben. 
-		
----
+[[Ein Auge zudrücken.md#^2|(q)]] Der neue Kellner Roman ist ziemlich [[tollpatschig]]. Immer wieder fällt ihm etwas aus der Hand oder er gießt den Wein [[daneben]]. ^2
 
-Synonyme:
-- [[nebendran]], [[nebenbei]], [[an der Seite]]
+Während die zwei streiten, sitzt Carmen daneben und versucht, ruhig zu bleiben. 
 
 ---
-
-Beispiele:
-
-- Der Stuhl steht direkt [[daneben]].
-- Sie hat das Glas auf den Tisch gestellt, aber es fiel [[daneben]].
-- Die Tasche liegt auf dem Boden, und die Schuhe stehen [[daneben]].
+= [[falsch]], [[unpassend]], [[ungeschickt]]
+≈ [[unrichtig]], [[unangemessen]], [[unglücklich]]
+≠ [[richtig]], [[passend]], [[angemessen]], [[geschickt]]
 
 ---
-**Übersetzung**: next to it, beside it, off target
+beside, wrong, off
+рядом, неправильно
 
 ---
-
-Tags:
-#Adverb
+[[da]]|[[neben]]
 
 ---
-
-Morphems:
-[[Da]][[neben]], [[11 08]], [[da]]
+[[daneben]]

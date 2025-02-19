@@ -3,6 +3,8 @@
 ---
 *[[Plötzlich]] und [[misstrauisch]]* [[vorhaben|Habt]] ihr zwei irgendwas vor?
 
+[[2 ADHD.md#^4|(q)]] Es fällt mir schwer Aufgaben, [[Vorhaben]] oder Aktivitäten zu organisieren. ^4
+
 ---
 = [[planen]], [[beabsichtigen]], [[sich vornehmen]]
 ≈ [[beschließen]], [[erwägen]], [[gedenken]]

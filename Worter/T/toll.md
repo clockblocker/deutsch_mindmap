@@ -28,3 +28,4 @@ P: [[tollen]], [[tolleren]], [[tollsten]]
 
 , [[hervorragend]]
 , [[Schlecht]]
+, [[tollpatschig]]

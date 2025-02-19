@@ -1,1 +1,3 @@
 , [[Bewusstsein]]
+, [[selbstbewusst]]
+, [[Selbstwertgefühl]]

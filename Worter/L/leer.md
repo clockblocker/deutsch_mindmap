@@ -15,7 +15,7 @@ SASCHA: Mein Parfüm ist [[leer]]!
 Nun, der erste Kasten muss jetzt also [[leer]] sein! Sehen wir mal.  
 
 ---
-Synonyme: [[ledig]], [[frei]], [[unbesetzt]], [[ledig]], [[unbefüllt]], [[hungrig]]
+Synonyme: [[ledig 1]], [[frei]], [[unbesetzt]], [[ledig 1]], [[unbefüllt]], [[hungrig]]
 Antonyme: [[voll]], [[belegt]], [[besetzt]]
 
 ---

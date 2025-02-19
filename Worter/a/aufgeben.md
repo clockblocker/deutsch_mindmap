@@ -3,6 +3,8 @@
 ---
 [[amazon.md#^7|(q)]] [[Bestellung]] [[aufgegeben]] ^7
 
+[[Eigenlob stinkt.md#^8|(q)]] „Du, das muss mein neues Deodorant sein. Ich kaufe morgen direkt ein besseres!“ Lisa [[aufgeben|gibt]] auf. Manche Menschen sind einfach [[unverbesserlich]]. ^8
+
  [[Aufgabe]], [[Hauptaufgabe]],
  
 ---
@@ -30,3 +32,8 @@ PI: [[aufgebend]], PII: [[aufgegeben]], Zu+inf: [[aufzugeben]]
 
 ---
 [[Aufgabe]], [[aufgeben]], [[Zugeständnis]], [[sich ergeben]], [[aussetzen]]
+, [[zusammenbekommen]]
+, [[aufrechterhalten]]
+, [[durchhalten]]
+, [[abbrechen]]
+, [[Durchhaltevermögen]]

@@ -4,6 +4,7 @@ die [[Herausforderungen]]
 ---
 [[1 Präpositionen Übungen.md#^8|(q)]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, ___ den [[Herausforderungen]] zu lernen. ^8
 
+[[1 ADHD#^9|(q)]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 ---
 = [[Aufgabe]], [[Prüfung]], [[Test]]

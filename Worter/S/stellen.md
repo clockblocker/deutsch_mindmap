@@ -17,6 +17,7 @@ ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 [[zufriedenstellen]] - [[zu]][[frieden]] = [[stellen]]       / please
 [[erstellen]] - [[er]] = [[stellen]]                                / to create, to produce
 [[herstellen]] - [[her]] = [[stellen]] / to manufacture, to produce, to make
+[[fertigstellen]] - [[fertig]] = [[stellen]] / to complete, to finish
 
 
 ---
@@ -76,3 +77,4 @@ to place, to put, to set
 
 **Morphems of only infinitive:**  
 - [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]], [[vorstellen]], [[Darstellung]], [[anstellen]], [[zufriedenstellen]], [[legen]], [[höherstellen]], [[erstellen]], [[Lehrstellensuche]], [[Schwachstellen]]
+, [[fertigstellen]]

@@ -1,1 +1,3 @@
 , [[Versehen]]
+, [[Flüchtigkeitsfehler]]
+, [[Sorgfaltsfehler]]

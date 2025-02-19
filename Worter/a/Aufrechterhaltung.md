@@ -1,1 +1,2 @@
 , [[Erhaltung]], [[beibehalten]]
+, [[aufrechterhalten]]

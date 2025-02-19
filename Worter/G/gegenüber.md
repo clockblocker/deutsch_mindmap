@@ -3,6 +3,9 @@
 ---
 Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand [[gegenüber]] vom Fenster? 
 
+[[2 ADHD.md#^1|(q)]] Ich bin [[unaufmerksam]] [[gegenüber]] Details oder mache [[Sorgfaltsfehler]] bei der Arbeit. ^1
+
+
 Wir kaufen Blumen [[entweder]] im Geschäft [[gegenüber]] der [[Bibliothek]] oder in einem anderen Blumengeschäft gegenüber dem Kino.
 
 ---

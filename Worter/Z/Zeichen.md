@@ -36,3 +36,4 @@ Weitere Bedeutungen:
 1. Graphisches Symbol zur Kommunikation
 2. Merkmal oder Anzeichen
 3. Mathematisches oder linguistisches Symbol, [[s1 e1]], [[zeichnen]]
+, [[Char]]

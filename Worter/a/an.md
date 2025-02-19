@@ -10,3 +10,6 @@ Der bus fährt an , [[antrauen]], [[anbieten]], [[angehen]], [[Anerkennung]], [[
 , [[vorangehen]]
 , [[entlang]]
 , [[anstoßen]]
+, [[Wutanfall]]
+, [[Angelegenheit]]
+, [[Anstrengung]]

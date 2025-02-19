@@ -7,6 +7,7 @@ haben [[getraut]]
 
 ---
 [[antrauen]] - [[an]] = [[trauen]] / to marry, to wed
+[[vertrauen]] - [[ver]] = [[trauen]] / to trust, to confide in
 
 
 ---

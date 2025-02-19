@@ -1,1 +1,2 @@
 , [[rechte]], [[recht]], [[Held]]
+, [[rechter]]

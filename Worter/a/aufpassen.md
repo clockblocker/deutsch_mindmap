@@ -62,3 +62,4 @@ to pay attention, to take care
 
 **Morphems of only infinitive:**  
 - [[Konjunktion/Positionen/auf]][[passen]], [[Sorgen]], [[wachen]], [[beachten]]
+, [[ablenken]]

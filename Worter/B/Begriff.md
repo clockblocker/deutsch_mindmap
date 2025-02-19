@@ -37,3 +37,4 @@ D: dem [[Begriff]], den [[Begriffen]]
 
 ---
 [[begreifen]], [[begrifflich]], [[begriffslos]], [[Begriffswelt]], [[Begriffsklärung]]
+, [[Gegenstand]]

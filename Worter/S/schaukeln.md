@@ -33,3 +33,4 @@ Morpheme: [[schaukel]][[n]]
 
 Partizip I: [[schaukelnd]], Partizip II: [[geschaukelt]]
 [[schaukeln]] - keine Präfix = [[schaukel]], [[7 Die Geschichte vom Zappel-Philipp]]
+, [[schwanken]]

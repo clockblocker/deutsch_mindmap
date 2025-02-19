@@ -1,1 +1,2 @@
 , [[riechen]], [[Duft]]
+, [[stinken]]

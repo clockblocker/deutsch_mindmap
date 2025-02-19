@@ -24,3 +24,4 @@ Einzigartige mögliche Formen: [[Suche]], [[Suchen]], [[Suchen]], [[Suchen]]
 
 ---
 #Substantiv #Feminin, [[zuneigen]], [[Lehrstellensuche]], [[s1 e1]], [[Anki]]
+, [[aussuchen]]

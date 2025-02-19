@@ -1,1 +1,2 @@
 , [[Herzeleid]], [[Last]], [[Herausforderung]]
+, [[Anstrengung]]

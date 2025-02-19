@@ -23,3 +23,4 @@ D: der [[Aggression]], den [[Aggressionen]]
 
 ---
 [[aggressiv]], [[aggressieren]], [[Aggressivität]], [[Aggressionstrieb]]
+, [[Wutanfall]]

@@ -2,7 +2,7 @@
 nicht [[ohne Schuldbewusstsein]]
 
 ---
-Katara hat keine [[Schuld]]. Ich hab sie [[überredet]]. _[Sieht [[schuldbewusst]] nach unten]_ Es ist meine Schuld.
+Katara hat keine [[Schuld]]. Ich hab sie [[überredet]]. _Sieht [[schuldbewusst]] nach unten_ Es ist meine Schuld.
 
 ---
 = [[reumütig]], [[reuevoll]], [[zerknirscht]]

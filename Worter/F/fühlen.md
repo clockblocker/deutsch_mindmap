@@ -78,3 +78,4 @@ to feel
 - [[fühl]][[en]]
 
 , [[wohlfühlen]]
+, [[mitfühlend]]

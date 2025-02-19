@@ -1,7 +1,9 @@
 🧠 [[geistig]], [ˈɡaɪ̯stɪç] ≠ [[körperlich]]
 
 ---
-102. Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf politischem, [[wirtschaftlichem]], kulturellem, [[geistigem]] oder sozialem [[Gebiet]] eine [[besondere]] [[Leistung]] [[erbracht]] hat? Mit dem … (85%)
+[[2 ADHD.md#^5|(q)]] Ich gehe Aufgaben, die [[geistige]] [[Anstrengung]] [[erforderlich]] machen, am liebsten aus dem Weg. ^5
+
+1. Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf politischem, [[wirtschaftlichem]], kulturellem, [[geistigem]] oder sozialem [[Gebiet]] eine [[besondere]] [[Leistung]] [[erbracht]] hat? Mit dem … (85%)
 	- [ ] Bundesadler
 	- [x] [[Bundesverdienstkreuz]]
 	- [ ] Vaterländischen [[Verdienstorden]]
@@ -30,3 +32,4 @@ P: [[geistigen]], [[geistigeren]], [[geistigsten]]
 
 ---
 [[Geist]], [[geistlos]], [[geistreich]], [[Geistesblitz]], [[geistesabwesend]]
+, [[innerlich]]

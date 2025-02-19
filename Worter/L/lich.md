@@ -1,3 +1,7 @@
 , [[offensichtlich]], [[neulich]], [[redensartlich]], [[wahrscheinlich]], [[schließlich]], [[Ausführlich]], [[sachlich]], [[rechtlich]], [[gesetzlich]], [[verantwortlich]], [[ehrenamtlich]], [[elterlich]], [[Einheitliche]], [[ersinnlich]], [[Jugendliche]], [[Ehrlich]], [[wirtschaftlich]], [[Verheimlichen]], [[absichtlich]], [[mehrheitlich]], [[unabsichtlich]], [[Freundliches]], [[Schädliches]], [[Nützliches]], [[deutlich]], [[östlich]], [[unentbehrlich]], [[sämtlich]], [[ausschließlich]], [[willkürlich]], [[Persönlichkeit]], [[friedlich]], [[nämlich]], [[zusätzlich]], [[lediglich]], [[gewöhnlich]], [[herrlich]], [[kürzlich]], [[zärtlich]], [[schriftlich]], [[mündlich]], [[üblich]], [[verinnerlichen]], [[schriftsprachlich]], [[veröffentlichen]], [[ungewöhnlich]], [[unehrlicher]], [[menschlich]], [[natürlich]], [[hässlich]]
 , [[abzüglich]]
 , [[einschließlich]]
+, [[nachdenklich]]
+, [[unverbesserlich]]
+, [[versehentlich]]
+, [[innerlich]]

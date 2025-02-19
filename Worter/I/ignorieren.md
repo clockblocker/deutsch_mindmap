@@ -1,3 +1,6 @@
 , [[anhören 1]], [[vorhersagen]], [[bitten]], [[bedanken]], [[betreffen]], [[genießen]], [[haupten]], [[vorstellen]], [[erstaunen]], [[kontern]], [[bewundern]], [[erwarten]], [[studieren]], [[durchsuchen]], [[hervorheben]], [[übersehen]], [[trösten]], [[Aufruf]], [[erinnern]], [[empfangen]], [[respektieren]], [[beeinflussen]], [[auslesen]], [[beachten]], [[achten]], [[überreden]], [[anhören]], [[übertreten]], [[mustern]], [[erfahren]], [[anflehen]], [[anwenden]], [[verwalten]], [[anschauen]], [[kümmern]], [[anblicken]], [[beistehen]], [[auffordern]], [[versorgen]], [[beraten]], [[überwachen]], [[enthalten]], [[feiern]], [[hinweisen]], [[ableiten]], [[berücksichtigen]], [[entwerfen]], [[repräsentieren]], [[erwähnen]], [[übersetzen]], [[vergessen]], [[versäumen]], [[winken]], [[Vergleich]], [[untersuchen]], [[hinüberspähen]], [[betrachten]], [[aufnehmen]], [[berichten]], [[zuhören]], [[hören]], [[verlieben]], [[einhalten]], [[verinnerlichen]], [[ausprobieren]], [[betonen]], [[besprechen]], [[anspielen]], [[interessieren]]
 , [[zichten]]
 , [[anstoßen]]
+, [[schnüffeln]]
+, [[mitbekommt]]
+, [[aussuchen]]

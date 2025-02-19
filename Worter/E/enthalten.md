@@ -3,7 +3,9 @@
 ---
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
-01. Welche der [[folgend]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
+Sein Buch enthält [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
+
+1. Welche der [[folgend]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
 
 ---
 = [[beinhalten]], [[umfassen]], [[einschließen]]

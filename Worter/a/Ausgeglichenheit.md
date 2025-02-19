@@ -1,1 +1,2 @@
 [[Ruhe]], [[Laune]]
+, [[Stimmungsschwankung]]

@@ -14,3 +14,5 @@ Antonyme: [[ohne]], [[getrennt]], [[abgesondert]], [[Allein]]
 #Preposition #mit
 ''', [[Mitbewohner]], [[mitwaschen]], [[Damit]], [[mithalten]], [[fuchteln]], [[telefonieren]], [[wider]], [[mitbringen]], [[mitmachen]], [[da]], [[Mitglied]], [[Gründungsmitglied]], [[somit]], [[Mitarbeiterin]]
 , [[abzüglich]]
+, [[mitfühlend]]
+, [[mitbekommt]]

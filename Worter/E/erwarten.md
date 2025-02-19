@@ -3,6 +3,9 @@
 ---
 Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] erfüllt. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
 
+[[1 ADHD#^5|(q)]] steht auf, obwohl Sitzenbleiben [[erwartet]] wird. ^5
+
+
 ---
 Synonyme: [[vorhersehen]], [[vermuten]], [[antizipieren]], [[voraussehen]], [[rechnen mit]]
 Antonyme: [[überraschen]], [[ignorieren]], [[ignorieren]]

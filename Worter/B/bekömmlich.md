@@ -1,1 +1,3 @@
 , [[genießbar]]
+, [[zusammenbekommen]]
+, [[bekommen]]

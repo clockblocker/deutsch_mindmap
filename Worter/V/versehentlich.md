@@ -1,29 +1,29 @@
-🟢 versehentlich, [fɛɐ̯ˈzeːəntlɪç]
+😬 [[versehentlich]], [fɛɐ̯ˈzeːəntlɪç]
 
 ---
+[[Ein Auge zudrücken.md#^6|(q)]] Selbst der Chefkoch konnte sich vor ein paar Tagen nicht so richtig [[aufregen]], [[obwohl]] Roman [[versehentlich]] Zucker in die Suppe getan hatte. ^6
+
 
 ---
-Synonyme: 
-- [[unabsichtlich]], [[zufällig]], [[ungewollt]], [[unbeabsichtigt]], [[irrtümlich]]
-Antonyme: 
-- [[absichtlich]], [[vorsätzlich]], [[bewusst]], [[beabsichtigt]]
+= [[unabsichtlich]], [[unbeabsichtigt]], [[irrtümlich]]
+≈ [[zufällig]], [[versehentlich]], [[unfreiwillig]], [[aus Versehen]], [[antun]]
+≠ [[absichtlich]], [[vorsätzlich]], [[bewusst]], [[willentlich]]
 
 ---
-Übersetzung: accidentally, unintentionally
+accidental, inadvertently
+случайно, нечаянно
 
 ---
-Morpheme: 
-[[ver]][[seh]][[entlich]]
+[[ver]]|[[seh]]|[[ent]]|[[lich]]
 
 ---
-#Adverb #Modaladverb
-
-Verwendungsbeispiele:
-1. Ich habe versehentlich den falschen Knopf gedrückt.
-2. Er hat versehentlich die E-Mail an den falschen Empfänger gesendet.
+N: [[versehentlich]], [[versehentlicher]], [[versehentlichste]]  
+A: [[versehentlichen]], [[versehentlicheren]], [[versehentlichsten]]  
+G: [[versehentlichen]], [[versehentlicheren]], [[versehentlichsten]]  
+D: [[versehentlichem]], [[versehentlicherem]], [[versehentlichstem]]  
+F: [[versehentliche]], [[versehentlichere]], [[versehentlichste]]  
+N: [[versehentliches]], [[versehentlicheres]], [[versehentlichstes]]  
+P: [[versehentlichen]], [[versehentlicheren]], [[versehentlichsten]]  
 
 ---
-Verwandte Wörter:
-- [[versehen]] (Verb)
-- [[Versehen]] (Substantiv)
-- [[unabsichtlich]] (Adjektiv/Adverb), [[Leuchtgeschoss]], [[antun]]
+[[Versehen]], [[sehen]], [[versehen]]

@@ -1,1 +1,3 @@
 , [[Einsatzes]]
+, [[Aufmerksamkeit]]
+, [[Anstrengung]]

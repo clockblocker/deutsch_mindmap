@@ -24,3 +24,4 @@ Einzigartige mögliche Formen: [[Schule]], [[Schules]], [[Schule]], [[Schulen]],
 
 ---
 #Substantiv #Feminin, [[Gesamtschule]], [[Ersteinschulung]], [[Schulpflicht]], [[Schulamt]], [[Schulwesen]], [[Schulgebäude]]
+, [[Schularbeit]]

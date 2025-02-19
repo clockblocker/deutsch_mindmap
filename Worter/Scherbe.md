@@ -24,3 +24,4 @@ D: der [[Scherbe]], den [[Scherben]]
 
 ---
 [[scherbig]], [[scherben]], [[Scherbenhaufen]]
+, [[Scherb]]

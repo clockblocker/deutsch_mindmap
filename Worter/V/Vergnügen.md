@@ -26,3 +26,4 @@ D: dem [[Vergnügen]], den [[Vergnügen]]
 
 ---
 [[vergnügen]], [[vergnüglich]], [[vergnügt]], [[genießen]], [[erfreuen]], [[s1 e1]]
+, [[Freizeitaktivität]]

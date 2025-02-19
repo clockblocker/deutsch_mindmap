@@ -1,4 +1,3 @@
-
 😌 [[sorgsam]], [ˈzɔʁkzɐm] ≠ [[nachlässig]]
 
 ---

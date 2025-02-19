@@ -4,6 +4,8 @@ die [[Schwierigkeiten]]
 ---
 Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]. 
 
+[[1 ADHD#^17|(q)]] macht [[Flüchtigkeitsfehler]] oder hat [[Schwierigkeiten]], auf Details zu achten. ^17
+
 
 136. Sie gehen in Deutschland zum [[Arbeitsgericht]] bei … (97%)
 	- [x] [[ungerechtfertigter]] [[Kündigung]] durch Ihren Chef / Ihre Chefin.

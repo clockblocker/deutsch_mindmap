@@ -44,3 +44,4 @@ Morpheme: [[merk]][[en]]
 Partizip I: [[merkend]], Partizip II: [[gemerkt]]
 
 , [[besonders]], [[Druck]], [[behalten]], [[beachten]], [[Merkmal]], [[vergessen]], [[merkwürdige]], [[s1 e1]]
+, [[Aufmerksamkeit]]

@@ -1,1 +1,2 @@
 [[Fähigkeit]]
+, [[selbstbewusst]]

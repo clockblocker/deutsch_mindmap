@@ -63,3 +63,4 @@ to see
 **Morphems of only infinitive:**  
 - [[seh]][[en]]
 , [[Versehen]]
+, [[versehentlich]]

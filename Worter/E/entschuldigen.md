@@ -1,1 +1,2 @@
 , [[bestrafen]], [[vorwerfen]]
+, [[verzeihen]]

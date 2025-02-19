@@ -26,3 +26,5 @@ D: dem [[Heft]], den [[Heften]]
 
 , [[anheften]]
 , [[Taschenbuch]]
+, [[Aufgabenheft]]
+, [[Aufgabenheft]]

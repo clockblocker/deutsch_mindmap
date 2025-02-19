@@ -1,1 +1,2 @@
 , [[geduld]], [[Willenskraft]]
+, [[Durchhaltevermögen]]

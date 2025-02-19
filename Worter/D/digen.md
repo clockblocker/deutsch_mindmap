@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[digen]], [[digener]], [[digene]], [[digenes]], [[digenen]], [[digenem]], [[digener]], [[digenen]]
 [[digener]], [[digenerer]], [[digenere]], [[digeneres]], [[digeneren]], [[digeneren]], [[digenerer]], [[digeneren]]
-[[digensten]], [[digenster]], [[digenste]], [[digenstes]], [[digensten]], [[digensten]], [[digenster]], [[digensten]], [[ledigen]]
+[[digensten]], [[digenster]], [[digenste]], [[digenstes]], [[digensten]], [[digensten]], [[digenster]], [[digensten]], [[ledig]]

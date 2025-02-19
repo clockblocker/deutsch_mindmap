@@ -5,6 +5,8 @@
 
 Anja mag Hunde [[überhaupt]] nicht.
 
+[[1 ADHD#^7|(q)]] hat Schwierigkeiten, in einer Schlange oder [[überhaupt]] zu warten, bis sie dran ist. ^7
+
 NIC: Gut - das tut [[überhaupt]] nicht weh, keine Spur…  
 Aber Sascha mag Nic [[überhaupt]] nicht.
 

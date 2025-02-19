@@ -1,1 +1,2 @@
 , [[riechen]], [[witterten]], [[Witwer]]
+, [[schnüffeln]]

@@ -1,0 +1,3 @@
+
+, [[Stimmungsschwankung]]
+, [[schwanken]]

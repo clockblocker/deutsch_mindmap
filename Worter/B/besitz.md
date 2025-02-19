@@ -1,1 +1,2 @@
 , [[Waffenbesitz]], [[besitzen]]
+, [[Miete]]

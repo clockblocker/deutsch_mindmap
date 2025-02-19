@@ -5,6 +5,8 @@ Ich habe die Prüfung nicht [[bestanden]], aber [[zumindest]] habe ich es versuc
 
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]]. [[Zumindest]] [[behauptet]] das eine [[Redewendung]].
 
+[[Eine Extrawurst bekommen.md#^1|(q)]] Die Deutschen sind ein Volk von [[Wurstessern]]. Und [[zwar]] so sehr, dass sich hier sogar [[Vegetarier]] über eine Wurst freuen können – [[zumindest]], wenn es sich [[redensartlich]] um eine Extrawurst handelt. ^1
+
 ---
 Synonyme:
 - [[mindestens]], [[wenigstens]], [[allermindestens]], [[minimal]], [[jedenfalls]]

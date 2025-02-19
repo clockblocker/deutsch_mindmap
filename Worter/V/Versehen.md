@@ -29,3 +29,5 @@ PI: [[versehend]], PII: [[versehen]], Zu+inf: [[zuversehen]]
 
 ---
 [[Versehen]], [[versehentlich]], [[Versehentlichkeit]], [[Verseher]], [[Verseuchung]]
+, [[Flüchtigkeitsfehler]]
+, [[Sorgfaltsfehler]]

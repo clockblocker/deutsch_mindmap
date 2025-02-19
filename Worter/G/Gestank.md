@@ -1,1 +1,2 @@
 , [[Parfum]], [[Duft]], [[Geruch]]
+, [[stinken]]

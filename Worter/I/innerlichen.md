@@ -1,1 +1,2 @@
 , [[verinnerlichen]]
+, [[innerlich]]

@@ -240,7 +240,7 @@ Er will [[weder]] essen [[noch]] trinken
 
 
 
-![[Pasted image 20250129094057.png]]
+![[pronomen.png]]
 1. Wie geht's dir (du)?  
 2. Wie geht's Ihnen (Sie)?  
 3. Wie geht's [[ihm]] (er)?  

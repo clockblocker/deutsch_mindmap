@@ -1,1 +1,2 @@
 , [[Nachteile]], [[benachteiligen]]
+, [[Gelegenheit]]

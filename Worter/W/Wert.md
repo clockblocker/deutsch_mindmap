@@ -28,3 +28,4 @@ D: dem [[Wert]], den [[Werten]]
 
 ---
 [[werten]], [[wertvoll]], [[Wertsache]], [[Wertschätzung]], [[bewerten]], [[Anki]], [[Informationswert]]
+, [[Selbstwertgefühl]]

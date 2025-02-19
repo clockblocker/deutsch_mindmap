@@ -3,6 +3,8 @@
 ---
 Ich möchte dir meinen tiefen Dank [[aussprechen]].
 
+[[2 ADHD.md#^11|(q)]] Mir fällt es schwer [[abzuwarten]], bis andere [[ausgesprochen]] haben. Ich falle anderen ins Wort. ^11
+
 ---
 = [[verlautbaren]], [[äußern]], [[formulieren]]
 ≈ [[deklamieren]], [[proklamieren]], [[verkünden]], [[hervorbringen]]

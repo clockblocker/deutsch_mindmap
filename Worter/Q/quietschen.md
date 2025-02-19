@@ -1,4 +1,3 @@
-
 🚗 [[quietschen]], [ˈkviːtʃn̩] | [[quietschte]], haben [[gequietscht]]
 
 ---

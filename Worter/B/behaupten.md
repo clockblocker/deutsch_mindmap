@@ -3,6 +3,8 @@
 ---
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]]. [[Zumindest]] [[behauptet]] das eine [[Redewendung]].
 
+[[Eigenlob stinkt.md#^4|(q)]] „Ich bin der beste Radfahrer dieser Stadt“, [[behauptet]] Peter. Lisa [[verdreht]] die Augen. ^4
+
 ---
 Synonyme: [[bekennen]], [[verkünden]], [[erklären]], [[versichern]], [[postulieren]], [[sagen]]
 Antonyme: [[bezweifeln]], [[leugnen]], [[verneinen]], [[dementieren]]

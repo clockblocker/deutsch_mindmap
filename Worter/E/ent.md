@@ -2,3 +2,4 @@
 , [[entlang]]
 , [[entlanggehen]]
 , [[entsprechend]]
+, [[versehentlich]]

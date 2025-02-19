@@ -1,8 +1,10 @@
-🌪️ [[Wortermischen]] | [[mischte ein|mischte ein]], haben [[eingemischt]]
+🌪️ [[einmischen]] | [[mischte ein|mischte ein]], haben [[eingemischt]]
 
 ---
  Als die beiden nach zehn Minuten immer noch streiten, [[verliert]] sie die [[Geduld]]: 
- „Also, ich möchte mich ja nicht [[Wortermischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“
+ „Also, ich möchte mich ja nicht [[einmischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“
+
+[[1 ADHD#^18|(q)]] [[einmischt|mischt]] sich in die Aktivitäten anderer Leute ein. ^18
  
 ---
 Synonyme: [[dazwischenfahren]], [[interferieren]], [[intervenieren]], [[eingreifen]], [[dazwischenreden]]
@@ -27,7 +29,7 @@ Partizip I: [[einmischend]],
 Partizip II: [[eingemischt]]
 Zu+infinitive: [[einzumischen]]
 
-[[Wortermischen]] - [[ein]] = [[mischen]]
+[[einmischen]] - [[ein]] = [[mischen]]
 
 ---
 [[Einmischung]], [[Einmischer]], [[Einmischerin]], [[Nichteinmischung]]

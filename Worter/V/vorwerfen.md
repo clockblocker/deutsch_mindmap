@@ -28,3 +28,4 @@ PI: [[vorwerfend]], PII: [[vorgeworfen]], Zu+inf: [[vorzuwerfen]]
 
 ---
 [[Vorwurf]], [[Beschuldigung]], [[Anklage]], [[Tadel]], [[werfen]], [[abwerfen]]
+, [[zeihen]]

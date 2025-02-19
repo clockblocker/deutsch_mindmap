@@ -32,3 +32,4 @@ Partizip I: [[schäumend]], Partizip II: [[geschäumt]]
 
 [[schäumen]] - [[schäum]][[en]]
 '''
+, [[brausen]]

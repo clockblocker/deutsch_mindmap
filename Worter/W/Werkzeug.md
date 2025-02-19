@@ -2,6 +2,8 @@
 die [[Werkzeuge]]
 
 ---
+1. [[1 ADHD#^1|(q)]] verliert Dinge, die für Aufgaben oder Aktivitäten wichtig sind  
+   (z. B. [[Aufgabenheft]], [[Bleistifte]], Bücher, [[Werkzeuge]]). ^1
 
 ---
 = [[Gerät]], [[Instrument]]

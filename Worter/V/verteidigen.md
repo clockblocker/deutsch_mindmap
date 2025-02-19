@@ -44,3 +44,4 @@ PI: [[verteidigend]], PII: [[verteidigt]], Zu+inf: [[zu verteidigen]]
 
 [[überfallen]], [[angreifen]], [[ermorden]], [[morden]], [[wehrten]], [[schützen]], [[verantworten]], [[beschützen]], [[Bundeswehr]], [[wehren]], [[anklagen]], [[Verteidigungsposition]]
 , [[einbrechen]], [[bezigen]], [[vorwerfen]], [[Verteidigungspolitik]]
+, [[zeihen]]

@@ -37,3 +37,5 @@ PI: [[stehend]], PII: [[gestanden]], Zu+inf: [[zustehen]]
 
 [[gehen]], [[Sitz]], [[laufen]], [[standhaft]]
 , [[s1 e1]], [[tanzen]]
+, [[Gegenstand]]
+, [[schwanken]]

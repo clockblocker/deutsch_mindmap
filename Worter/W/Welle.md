@@ -27,3 +27,4 @@ Einzigartige mögliche Formen: [[Welle]], [[Wellen]], [[Welle]], [[Welle]], [[We
 
 ---
 #Substantiv #Feminin, [[s1 e1]]
+, [[Achse]]

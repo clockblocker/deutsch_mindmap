@@ -1,1 +1,6 @@
 , [[Arbeitsplatz]], [[Aufgabe]], [[Arbeitswelt]], [[Arbeit]], [[Arbeitsbedingungen]]
+, [[Freizeitaktivität]]
+, [[Termindruck]]
+, [[Arbeitsauftrag]]
+, [[Schularbeit]]
+, [[Beschäftigung]]

@@ -1,7 +1,10 @@
 🌟 [[erfüllen]], [ɛɐ̯ˈfʏlən] | [[erfüllte]], haben [[erfüllt]]
 
 ---
-Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] erfüllt. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
+Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] [[erfüllt]]. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
+
+[[2 ADHD.md#^3|(q)]] Es fällt mir schwer, Aufgaben am Arbeitsplatz, so wie mir erklärt wurden, zu [[erfüllen]]. ^3
+
 
 ---
 Synonyme: [[realisieren]], [[verwirklichen]], [[umsetzen]], [[vollbringen]], [[bewahrheiten]]
@@ -31,3 +34,4 @@ Zu+infinitive: [[zu erfüllen]]
 
 ---
 [[Erfüllung]], [[Erfüller]], [[Erfüllerin]], [[erfüllbar]], [[unerfüllbar]], [[Wunscherfüllung]], [[Bedingungserfüllung]], [[erwarten]], [[zufriedenstellen]], [[einhalten]], [[w-l]]
+, [[erledigen]]

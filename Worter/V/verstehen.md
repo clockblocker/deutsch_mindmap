@@ -32,3 +32,4 @@ Morpheme: [[ver]][[steh]][[en]]
 Partizip I: [[verstehend]], Partizip II: [[verstanden]]
 
 [[verstehen]] - [[ver]] = [[stehen]], [[deuten]], [[wundern]], [[merken]], [[auskennen]], [[kennen]], [[beachten]], [[Einverständnis]], [[lehren]]
+, [[mitbekommt]]

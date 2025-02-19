@@ -28,3 +28,4 @@ Einzigartige mögliche Formen:
 [[nervöser]], [[nervöserer]], [[nervösere]], [[nervöseres]], [[nervöseren]], [[nervoöserem]], [[nervöserer]], [[nervöseren]]
 [[nervösesten]], [[nervöster]], [[nervöste]], [[nervöstes]], [[nervösten]], [[nervöstem]], [[nervöster]], [[nervösten]]
 , [[beruhig]], [[beruhigenden]], [[ungeduldig]], [[entspannter]], [[gereizt]]
+, [[zappelig]]

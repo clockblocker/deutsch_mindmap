@@ -1,1 +1,1 @@
-, [[Liebestanz]], [[Worter/B/Beziehung]]
+, [[Liebestanz]], [[Beziehung]]

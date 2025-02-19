@@ -535,7 +535,7 @@ NIC: Ich muss los!
 
 SASCHA: Nein ins Schlafzimmer.
 
-NIC: Ahh ... die [[miete]].
+NIC: Ahh ... die [[Miete]].
 
 Nächstes Mal in Extra ...  
 Unsere Freunde [[gehen]] für Sam [[einkaufen]]  

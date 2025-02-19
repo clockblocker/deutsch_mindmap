@@ -1,1 +1,1 @@
-, [[Worter/B/Beziehung]], [[knüpfen]], [[Verbindung]], [[Worter/Beziehung]], [[Zusammenhang]]
+, [[Beziehung]], [[knüpfen]], [[Verbindung]], [[Worter/Beziehung]], [[Zusammenhang]]

@@ -7,3 +7,4 @@ die straße [[Entlang]]
 [[Ohne]] **einen** Plan
 [[Wider]] **meine Erwartung**
 
+, [[durch]]

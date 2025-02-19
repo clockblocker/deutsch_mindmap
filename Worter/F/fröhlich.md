@@ -36,3 +36,5 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[fröhlich]], [[fröhlicher]], [[fröhliche]], [[fröhliches]], [[fröhlichen]], [[fröhlichem]], [[fröhlicher]], [[fröhlichen]]
 [[fröhlichster]], [[fröhlichster]], [[fröhlichste]], [[fröhlischstes]], [[fröhlichsten]], [[fröhlichstem]], [[fröhlichster]], [[fröhlichsten]], [[Extra 8]], [[munter]], [[beleidigt]], [[deprimiert]], [[s1 e1]]
+, [[raustogig]]
+, [[launisch]]

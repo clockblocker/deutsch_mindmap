@@ -33,3 +33,4 @@ Morpheme: [[ver]][[zieh]][[en]]
 Partizip I: [[verzeihend]], Partizip II: [[verzogen]]
 
 [[verziehen]] - [[ver]] = [[ziehen]] /  to distort, to warp, to twist, to clear
+, [[verzeihen]]

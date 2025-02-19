@@ -29,3 +29,4 @@ Morpheme: [[nach]][[denk]][[en]]
 
 Partizip I: [[nachdenkend]], Partizip II: [[nachgedacht]]
 [[nachdenken]] - [[nach]] = [[denken]], [[überlegen]], [[erinnern]], [[träumen]]
+, [[nachdenklich]]

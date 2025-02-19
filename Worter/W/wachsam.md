@@ -1,1 +1,2 @@
 , [[zerstreut]], [[aufmerksam]], [[vorsichtig]]
+, [[unaufmerksam]]

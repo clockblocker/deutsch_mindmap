@@ -26,6 +26,10 @@ Je mehr „[[Zweitstimmen]]“ eine [[Partei]] bei einer [[Bundestagswahl]] beko
 	- [x] [[Jugendamt]].
 
 ---
+[[aufrechterhalten]] - [[auf]] - [[recht]] = [[erhalten]] / to maintain, to uphold
+
+
+---
 Synonyme: [[bekommen]], [[empfangen]], [[kriegen]], [[annehmen]], [[beziehen]]
 Antonyme: [[verlieren]], [[abgeben]], [[zurückgeben]]
 
@@ -55,3 +59,5 @@ Partizip I: [[erhaltend]], Partizip II: [[erhalten]]
 [[ändern]], [[holen]], [[verloren]], [[verlieren]], [[Worter/H/haben]], [[kriegen]], [[verdienen]], [[abbekommen]]
 , [[beibehalten]], [[überlebt]], [[erben]], [[vernichten]], [[1 Präpositionen Übungen]], [[versenden]]
 , [[kosten]]
+, [[zusammenbekommen]]
+, [[aufrechterhalten]]

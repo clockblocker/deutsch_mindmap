@@ -1,1 +1,3 @@
 , [[Laune]]
+, [[Gefühlsausbruch]]
+, [[Stimmungsschwankung]]

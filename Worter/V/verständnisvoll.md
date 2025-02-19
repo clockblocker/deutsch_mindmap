@@ -1,1 +1,2 @@
 , [[verständnislos]]
+, [[mitfühlend]]

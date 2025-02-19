@@ -32,4 +32,4 @@ Zu+infinifive: [[zu binden]]
 ---
 [[Band]], [[Bindung]], [[Binder]], [[Bindestrich]], [[Bindewort]], [[Verbindung]], [[Einbindung]]
 
-[[freimachen]], [[heiraten]], [[trauen]], [[hängen]], [[ledigen]], [[auflösen]]
+[[freimachen]], [[heiraten]], [[trauen]], [[hängen]], [[ledig]], [[auflösen]]

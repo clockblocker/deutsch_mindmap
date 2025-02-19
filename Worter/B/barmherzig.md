@@ -1,1 +1,2 @@
 , [[Vergebung]], [[Barmherzigen]], [[Erbarmen]]
+, [[mitfühlend]]

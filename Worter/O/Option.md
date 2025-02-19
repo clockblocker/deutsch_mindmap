@@ -1,1 +1,2 @@
 , [[Möglichkeit]], [[Wahl]]
+, [[Gelegenheit]]

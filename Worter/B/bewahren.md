@@ -1,1 +1,2 @@
 , [[retten]], [[morden]], [[verderben]], [[wehrten]], [[behalten]], [[verbrennen]], [[schwenden]], [[schützen]], [[beschützen]], [[schütten]], [[verteidigen]], [[einbrechen]], [[enthalten]], [[beibehalten]]
+, [[aufrechterhalten]]

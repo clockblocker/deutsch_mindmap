@@ -38,3 +38,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[fertig]], [[fertige]], [[fertiges]], [[fertiger]], [[fertigem]], [[fertigen]], [[fertigste]], [[fertigster]], [[fertigste]], [[fertigstes]], [[fertigsten]], [[fertigstem]]
+, [[fertigstellen]]

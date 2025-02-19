@@ -6,7 +6,6 @@ Katja ist Journalistin. Sie schreibt für eine regionale Zeitung in ihrer [[Heim
 [[Den Nagel auf den Kopf treffen.md#^6|(q)]] [[Katja]] [[lesen|liest]] [[gerne]] die [[Kommentar|Kommentare]] im [[Netz]], denn die [[Meinung]] der [[Leser]] [[interessieren|interessiert]] sie.
  ^6
 
-
 [[Den Nagel auf den Kopf treffen.md#^2|(Quelle: Den Nagel auf den Kopf treffen)]]
 Seit gestern ist Katja aber ein kleiner Star. Sie hat einen Artikel über den [[Zustand]] der [[Bonner]] Schulen geschrieben. Sie [[kritisiert]] darin die [[Stadtverwaltung]], weil sie nicht genug Geld in die [[Sanierung]] der [[Schulgebäude]] stecke.  ^2
 

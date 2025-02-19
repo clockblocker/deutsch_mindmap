@@ -30,3 +30,4 @@ Related words:
 
 , [[außerhalb]]
 , [[zusammenschrumpfen]]
+, [[innerlich]]

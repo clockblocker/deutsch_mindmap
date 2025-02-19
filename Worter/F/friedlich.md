@@ -30,3 +30,5 @@ P: [[friedlichen]], [[friedlicheren]], [[friedlichsten]]
 
 [[ruhig]], [[unheimlich]], [[beruhig]], [[beruhigenden]], [[zornig]], [[aufgebracht]], [[wütend]], [[gereizt]]
 , [[unruhig]]
+, [[zufriedengeben]]
+, [[ungestüm]]

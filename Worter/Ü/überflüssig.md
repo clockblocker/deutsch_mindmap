@@ -6,6 +6,9 @@
 Der Doctor hat jetzt [[angefangen]],  dem Kind zu untersuchen
 ("jetzt" ist [[überflüssig]])
 
+[[18.md#^1|(q)]] “ankommen” wird oft ohne [[zusätzliche]] präposition benutzt, also das “an” am ende ist hier [[überflüssig]]. ^1
+
+
 ---
 Synonyme: [[unnötig]], [[irrelevant]], [[entbehrlich]], [[unwesentlich]], [[überbelegt]]
 Antonyme: [[nötig]], [[wichtig]], [[relevant]], [[unerlässlich]], [[wesentlich]]

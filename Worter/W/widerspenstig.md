@@ -1,1 +1,4 @@
 , [[gehorsam]]
+, [[ungehorsam]]
+, [[aufsässig]]
+, [[rebellisch]]

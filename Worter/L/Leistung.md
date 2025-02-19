@@ -28,3 +28,4 @@ D: der [[Leistung]], den [[Leistungen]]
 
 ---
 [[leisten]], [[leistungsfähig]], [[leistungsstark]], [[Leistungssport]], [[leistungsorientiert]], [[Reparationsleistung]], [[Kraft]]
+, [[Anstrengung]]

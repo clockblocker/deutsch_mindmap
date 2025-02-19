@@ -30,4 +30,4 @@ Einzigartige mögliche Formen:
 
 ---
 , [[glaub]], [[Aussicht]], [[Gedanke]]
-, [[eindruck]], [[auftritt]], [[Begriff]], [[Gehaltsvorstellungen]], [[Aufführung]]
+, [[Eindruck]], [[auftritt]], [[Begriff]], [[Gehaltsvorstellungen]], [[Aufführung]]

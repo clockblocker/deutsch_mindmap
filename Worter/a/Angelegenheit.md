@@ -5,6 +5,7 @@ die [[Angelegenheiten]]
 ---
 , [[Sache]], [[angehen]]
 
+[[1 ADHD#^15|(q)]] erledigt [[Angelegenheiten]] nicht, außer unter hohem äußeren [[Termindruck]]. ^15
 
 ---
 = [[Sache]], [[Thema]], [[Frage]]

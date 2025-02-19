@@ -29,3 +29,4 @@ Zu+infinifive: [[zuzittern]]
 
 ---
 [[Zittern]], [[Zitterer]], [[zitterig]], [[zitternd]], [[Zitteraal]], [[Zitterinsel]]
+, [[schwanken]]

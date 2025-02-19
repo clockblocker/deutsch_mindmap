@@ -1,1 +1,2 @@
 , [[überlegen]]
+, [[nachdenklich]]

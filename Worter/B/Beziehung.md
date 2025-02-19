@@ -1,35 +1,33 @@
-🔵 die [[Worter/B/Beziehung]], [bəˈtsiːʊ̯ŋ]
+🔴 🫂 die [[Beziehung]], [bəˈtsiːʊŋ] | [[Bezug]] | [[bezogen]]
 die [[Beziehungen]]
 
 ---
-– Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Worter/B/Beziehung]] gelöst.)
-
+– Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Beziehung]] gelöst.)
 
 [[Außenbeziehungen]]
 
----
-Synonyme:
-- [[Verhältnis]], [[Verbindung]], [[Bindung]], [[Verknüpfung]], [[Kontakt]]
-- [[Partnerschaft]], [[Liebesbeziehung]], [[Romanze]]
+Es ist ihre Traum, [[beziehungsweisse]] Wunch, Polizistin zu werden.
 
 ---
-Übersetzung: relationship, connection, relation
+= [[Verhältnis]], [[Verbindung]], [[Kontakt]]
+≈ [[Partnerschaft]], [[Freundschaft]], [[Verbindung]], [[Verhältnis]]
+≠ [[Trennung]], [[Entfremdung]], [[Feindschaft]], [[Isolation]]
 
 ---
-Morpheme:
-[[be]][[zieh]][[ung]]
+relationship
+отношения
 
 ---
-Einzigartige mögliche Formen:
-- Singular: [[Worter/B/Beziehung]], [[Beziehungen]], [[Worter/B/Beziehung]], [[Worter/B/Beziehung]], [[Beziehungen]]
-- Genitiv: [[Worter/B/Beziehung]], [[Beziehungen]]
-- Dativ: [[Worter/B/Beziehung]], [[Beziehungen]]
-- Akkusativ: [[Worter/B/Beziehung]], [[Beziehungen]]
+[[Be]]|[[zieh]]|[[ung]]
 
 ---
-#Substantiv #Feminin
+N: die [[Beziehung]], die [[Beziehungen]]  
+A: die [[Beziehung]], die [[Beziehungen]]  
+G: der [[Beziehung]], der [[Beziehungen]]  
+D: der [[Beziehung]], den [[Beziehungen]]  
 
-Kontext-Beispiele:
-1. Eine enge [[Worter/B/Beziehung]] zwischen Freunden
-2. Eine romantische [[Worter/B/Beziehung]]
-3. Professionelle [[Beziehungen]] in der Arbeitswelt, [[Bezug]], [[bezogen]], [[beziehen]], [[Außenbeziehungen]], [[beziehungsweise]], [[Worter/Beziehung]]
+---
+[[beziehen]], [[beziehungsweise]], [[Beziehungsweise]], [[Beziehungsgeflecht]],  [[beziehen]]
+
+
+

@@ -1,1 +1,2 @@
 🗣️ [[behaupten]] , [[Redewendung]]
+, [[verdreht]]

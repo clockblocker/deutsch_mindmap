@@ -4,6 +4,9 @@ nicht [[unaufmerksam]]
 ---
 _Hinter einer hohen Schneedüne kommt Appa zum [[Vorschein]]. Er [[brüllt]] und macht [[somit]] auf sich [[aufmerksam]]._
 
+[[1 ADHD#^8|(q)]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]. ^8  
+
+
 er hört dem Lehrer aufmerksam zu.
 
 ---
@@ -31,3 +34,4 @@ P: [[aufmerksamen]], [[aufmerksameren]], [[aufmerksamsten]]
 
 [[zerstreut]], [[neugierig]], [[verständnislos]], [[bewusst]]
 , [[vorsichtig]]
+, [[ablenkbar]]

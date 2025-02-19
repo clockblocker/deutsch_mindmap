@@ -1,1 +1,2 @@
 , [[eifersüchtig]], [[entspannter]], [[beschwert]]
+, [[Sorgfalt]]

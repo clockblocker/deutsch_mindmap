@@ -13,6 +13,7 @@ Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Er
 
 ---
 [[ausdrücken]] - [[aus]] = [[drücken]] / to express, to press out
+[[zudrücken]] - [[zu]] = [[drücken]] / to squeeze shut, to wink at
   
 ---
 Synonyme: [[pressen]], [[drängen]], [[quetschen]], [[zusammendrücken]], [[knautschen]], [[quälen]]
@@ -39,3 +40,5 @@ Morpheme: [[drück]][[en]]
 Partizip I: [[drückend]], Partizip II: [[gedrückt]]
 
 [[drücken]] - [[drück]] = [[en]][[ziehen]], [[schieben]], [[stoßen]], [[antippen]], [[tippen]], [[Schubst]], [[Druck]], [[ausdrücken]], [[umarmen]]
+, [[bedrückt]]
+, [[zudrücken]]

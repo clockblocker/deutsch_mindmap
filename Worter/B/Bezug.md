@@ -10,8 +10,10 @@ die [[Bezüge]]
 
 [[beziehungsweise]]
 
+[[Beziehung]]
+
 ---
-= [[Referenz]], [[Worter/B/Beziehung]], [[Verweis]]
+= [[Referenz]], [[Beziehung]], [[Verweis]]
 ≈ [[Relation]], [[Zusammenhang]], [[Verbindung]]
 ≠ [[Trennung]], [[Losgelöstheit]], [[Unabhängigkeit]]
 

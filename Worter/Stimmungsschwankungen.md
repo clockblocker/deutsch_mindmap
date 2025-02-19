@@ -1,0 +1,4 @@
+
+🔴 die [[Stimmungsschwankung]] 😔
+, [[schwanken]]
+, [[launisch]]

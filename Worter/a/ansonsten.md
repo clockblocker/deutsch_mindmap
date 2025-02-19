@@ -15,3 +15,4 @@ otherwise, else, in other respects
 
 ---
 [[sonst]], [[sonst]], [[stattdessen]]
+, [[sonstig]]

@@ -1,7 +1,9 @@
 🔄 [[zusätzlich]], [tsuˈzɛtslɪç]
 
 ---
-Sein Buch enthält [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
+Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
+
+[[18.md#^1|(q)]] “ankommen” wird oft ohne [[zusätzliche]] präposition benutzt, also das “an” am ende ist hier [[überflüssig]]. ^1
 
 ---
 = [[ergänzend]], [[supplementär]], [[hinzugefügt]]
@@ -27,3 +29,4 @@ P: [[zusätzlichen]], [[zusätzlicheren]], [[zusätzlichsten]]
 [[zusätzlichkeit]], [[hinzufügen]], [[ergänzen]], [[supplementieren]]
 
 [[sonst]], [[nebenbei]], [[obendrein]], [[zudem]]
+, [[sonstig]]

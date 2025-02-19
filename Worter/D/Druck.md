@@ -11,6 +11,8 @@ Die [[Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
 *Kalt der [[Kuß]] von deinem Munde,*  
 *[[Matt]] der [[Druck]] von deiner Hand.* *[[Der Abschied.md#^2|(Quelle: Der Abschied)]]* 
 
+ unter hohem äußeren  [[Termindruck]]
+
 
 ---
 Synonyme:
@@ -31,3 +33,5 @@ Dative: dem [[Druck]], den [[Drücken]]
 
 ---
 [[drucken]], [[drückend]], [[Drucker]], [[Druckerei]], [[Drucksache]], [[besonders]], [[Zwang]], [[Zeichnung]], [[beeindrucken]], [[Einflussnahme]]
+, [[zudrücken]]
+, [[Termindruck]]

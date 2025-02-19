@@ -1,74 +1,29 @@
-[[selbstbewusst]]
-[[selbstbewusster]]
-[[am]] [[selbstbewusstesten]]
-
-nicht [[unsicher]]
+😎 [[selbstbewusst]], [zɛlpstbəˈvʊst] ≠ [[unsicher]]
 
 ---
-
-Synonyme:
-- [[sicher]], [[überzeugt]], [[selbstsicher]]
+[[Eigenlob stinkt.md#^2|(q)]] [[Selbstbewusste]] Menschen haben es leichter im Leben. Sie [[beeindrucken]] andere durch ihre [[Fähigkeiten]] und Talente. ^2
 
 ---
-Beispiele:
-
-- Ich sehe einen [[selbstbewussten]] Hund.
-- Ich gebe dem [[selbstbewussten]] Hund ein Leckerli.
-- Das Spielzeug des [[selbstbewussten]] Hundes ist kaputt.
-
-- Ich sehe eine [[selbstbewusste]] Katze.
-- Ich gebe der [[selbstbewussten]] Katze Milch.
-- Das Spielzeug der [[selbstbewussten]] Katze ist kaputt.
-
-- Ich sehe ein [[selbstbewusstes]] Haus.
-- Ich wohne in einem [[selbstbewussten]] Haus.
-- Die Tür eines [[selbstbewussten]] Hauses ist offen.
-
-- Ich sehe [[selbstbewusste]] Hunde.
-- Ich gebe den [[selbstbewussten]] Hunden Leckerli.
-- Die Spielzeuge der [[selbstbewussten]] Hunde sind kaputt.
-
-- Ich sehe einen [[selbstbewussteren]] Hund.
-- Ich gebe dem [[selbstbewussteren]] Hund ein Leckerli.
-- Das Spielzeug des [[selbstbewussteren]] Hundes ist kaputt.
-
-- Ich sehe eine [[selbstbewusstere]] Katze.
-- Ich gebe der [[selbstbewussteren]] Katze Milch.
-- Das Spielzeug der [[selbstbewussteren]] Katze ist kaputt.
-
-- Ich sehe ein [[selbstbewussteres]] Haus.
-- Ich wohne in einem [[selbstbewussteren]] Haus.
-- Die Tür eines [[selbstbewussteren]] Hauses ist offen.
-
-- Ich sehe [[selbstbewusstere]] Hunde.
-- Ich gebe den [[selbstbewussteren]] Hunden Leckerli.
-- Die Spielzeuge der [[selbstbewussteren]] Hunde sind kaputt.
-
-- Ich sehe den [[selbstbewusstesten]] Hund.
-- Ich gebe dem [[selbstbewusstesten]] Hund ein Leckerli.
-- Das Spielzeug des [[selbstbewusstesten]] Hundes ist kaputt.
-
-- Ich sehe die [[selbstbewussteste]] Katze.
-- Ich gebe der [[selbstbewusstesten]] Katze Milch.
-- Das Spielzeug der [[selbstbewusstesten]] Katze ist kaputt.
-
-- Ich sehe das [[selbstbewussteste]] Haus.
-- Ich wohne in dem [[selbstbewusstesten]] Haus.
-- Die Tür des [[selbstbewusstesten]] Hauses ist offen.
-
-- Ich sehe die [[selbstbewusstesten]] Hunde.
-- Ich gebe den [[selbstbewusstesten]] Hunden Leckerli.
-- Die Spielzeuge der [[selbstbewusstesten]] Hunde sind kaputt.
+= [[selbstsicher]], [[selbstvertraut]], [[selbstständig]], [[stolz]]
+≈ [[zuversichtlich]], [[entschlossen]], [[mutig]], [[überzeugt]],  [[Einflussnahme]]
+≠ [[unsicher]], [[schüchtern]], [[verlegen]], [[zweifelnd]], [[bescheiden]], [[zaghaft]], [[scheu]],  [[schüchtern]],
 
 ---
-**Übersetzung**:
-confident, self-assured
+self-confident
+самоуверенный
 
 ---
-
-Tags: 
-#Adjective
+[[selbst]]|[[bewusst]]
 
 ---
-Morphems:
-[[selbst]][[bewusst]], [[stolz]], [[bescheiden]], [[zaghaft]], [[scheu]], [[schüchtern]], [[Einflussnahme]]
+N: [[selbstbewusst]], [[selbstbewusster]], [[selbstbewussteste]]  
+A: [[selbstbewussten]], [[selbstbewussteren]], [[selbstbewusstesten]]  
+G: [[selbstbewussten]], [[selbstbewussteren]], [[selbstbewusstesten]]  
+D: [[selbstbewusstem]], [[selbstbewussterem]], [[selbstbewusstestem]]  
+F: [[selbstbewusste]], [[selbstbewusstere]], [[selbstbewussteste]]  
+N: [[selbstbewusstes]], [[selbstbewussteres]], [[selbstbewusstestes]]  
+P: [[selbstbewussten]], [[selbstbewussteren]], [[selbstbewusstesten]]  
+
+---
+[[Selbstbewusstsein]], [[bewusst]], [[bewusstlos]], [[Selbstvertrauen]]
+, [[Selbstwertgefühl]]

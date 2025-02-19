@@ -27,3 +27,5 @@ Neuter: [[mutiges]], [[mutigeres]], [[mutigestes]]
 Plural: [[mutigen]], [[mutigeren]], [[mutigsten]]  
 
 [[Mut]], [[Mutigkeit]], [[mutigerweise]], [[Mutlosigkeit]], [[scheu]], [[wagend]], [[entmutigt]], [[schüchtern]]
+, [[selbstbewusst]]
+, [[reumütig]]

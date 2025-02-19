@@ -1,1 +1,4 @@
 , [[Vorsicht]]
+, [[Flüchtigkeitsfehler]]
+, [[Sorgfaltsfehler]]
+, [[Sorgfalt]]

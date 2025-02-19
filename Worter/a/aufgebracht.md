@@ -26,3 +26,5 @@ P: [[aufgebrachten]], [[aufgebrachteren]], [[aufgebrachtest]]
 
 ---
 [[aufbringen]], [[Aufgebrachtsein]], [[Wut]], [[Empörung]], [[Ärger]], [[gereizt]]
+, [[aufbrausen]]
+, [[hitzig]]

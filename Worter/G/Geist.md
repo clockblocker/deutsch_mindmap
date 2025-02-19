@@ -1,4 +1,4 @@
-🔵 der [[Geist]]
+🔵 👻 der [[Geist]], [ɡaɪ̯st] |  [[geistig]],
 die [[Geister]]
 
 ---
@@ -9,18 +9,23 @@ die [[Geister]]
 
 *Im* [[Geist]] [[getrennt]] (getrennt, getrennt, getrennt, getrennt)  
 
+---
+= [[Seele]], [[Psyche]], [[Verstand]]
+≈ [[Spiritus]], [[Gespenst]], [[Dämon]],  [[Bewusstsein]]
+≠ [[Körper]], [[Materie]]
 
 ---
-Synonyme:
-- [[Phantom]], [[Gespenst]], [[Wesen]]
+spirit, ghost, mind
+дух, призрак, ум
 
 ---
-**Übersetzung**: ghost, spirit
-
----
-
-Morphems:
 [[Geist]]
 
 ---
-#Substantiv #Maskulin, [[Deutschland]], [[geistig]], [[Bewusstsein]]
+N: der [[Geist]], die [[Geister]]  
+A: den [[Geist]], die [[Geister]]  
+G: des [[Geistes]], der [[Geister]]  
+D: dem [[Geist]], den [[Geistern]]  
+
+---
+[[geistig]], [[geistern]], [[Geisteswissenschaft]]

@@ -3,6 +3,9 @@
 ---
 Обладать большим талантом. Über ein großes Talent [[verfügen]].
 
+[[3 ADHD.md#^11|(q)]] Als Kind im Alter von 8 bis 10 Jahren [[verfügte]] ich über eine gute [[motorische]] ^11
+
+
 ---
 = [[entscheiden]], [[anordnen]], [[befehlen]], [[besitzen]], [[beschließen]],
 ≈ [[verfügbar machen]] , [[erlassen]], [[festlegen]]

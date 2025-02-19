@@ -23,3 +23,4 @@ Einzigartige mögliche Formen:
 [[richtigsten]], [[richtigster]], [[richtigste]], [[richtigstes]], [[richtigsten]], [[richtigstem]], [[richtigster]], [[richtigsten]]
 
 [[richtig]], [[wahr]], [[s1 e1]], [[recht]], [[passend]]
+, [[verdreht]]

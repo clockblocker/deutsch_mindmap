@@ -29,3 +29,5 @@ PI: [[träumend]], PII: [[geträumt]], Zu+inf: [[zuträumen]]
 
 ---
 [[Traum]], [[träumen]], [[träumerisch]], [[Träumer]], [[Traumwelt]]
+, [[verträumen]]
+, [[verträumt]]

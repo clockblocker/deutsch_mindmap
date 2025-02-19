@@ -39,3 +39,4 @@ Einzigartige mögliche Formen:
 ---
 #Substantiv #Maskulin, [[zusteuern]], [[östlich]], [[s1 e1]], [[Anki]], [[Fachrichtung]], [[Richtungsänderung]]
 , [[Richtungsangabe]]
+, [[Achse]]

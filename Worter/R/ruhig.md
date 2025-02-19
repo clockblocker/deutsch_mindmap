@@ -39,3 +39,6 @@ Einzigartige mögliche Formen:
 
 [[windig]], [[nervös]]
 , [[lichterloh]], [[leis]], [[Flüsternd]], [[unbeeindruckt]], [[beruhig]], [[beruhigen]], [[beruhigenden]], [[ungeduldig]], [[wild]], [[zornig]], [[entspannter]], [[zittern]], [[entsetzt]], [[aufgebracht]], [[wütend]], [[gereizt]], [[leise]]
+, [[ungestüm]]
+, [[hitzig]]
+, [[zappelig]]

@@ -29,3 +29,8 @@ D: der [[Aufgabe]], den [[Aufgaben]]
 ---
 [[aufgeben]], [[aufgabenorientiert]], [[aufgabenlos]], [[Aufgabenheft]]
 , [[Problem]], [[Tätigkeit]], [[Pflicht]], [[Verantwortung]], [[Herausforderung]], [[Anspruch]], [[Stelle]], [[Bewerb]], [[Verpflichtung]], [[Hauptaufgabe]], [[Arbeit]], [[Lückentext]]
+, [[Freizeitaktivität]]
+, [[Versuch]]
+, [[Angelegenheit]]
+, [[Arbeitsauftrag]]
+, [[Schularbeit]]

@@ -2,7 +2,7 @@
 
 ---
 [[berufsbezogen]]
-
+[[Beziehung]]
 [[beziehungsweise]]
 
 ---
@@ -26,5 +26,5 @@ N: [[bezogenes]], [[bezogeneres]], [[bezogenste]]
 P: [[bezogenen]], [[bezogeneren]], [[bezogensten]]  
 
 ---
-[[beziehen]], [[Bezug]], [[beziehungsweise]], [[Worter/B/Beziehung]]
+[[beziehen]], [[Bezug]], [[beziehungsweise]], [[Beziehung]]
 , [[Bezugswort]]

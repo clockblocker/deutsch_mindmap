@@ -24,3 +24,6 @@ D: der [[Arbeit]], den [[Arbeiten]]
 ---
 arbeiten, arbeitsam, arbeitslos, arbeitsfähig, Arbeitgeber, [[Erlebnis]]
 , [[Feier]]
+, [[Freizeitaktivität]]
+, [[Arbeitsauftrag]]
+, [[Schularbeit]]

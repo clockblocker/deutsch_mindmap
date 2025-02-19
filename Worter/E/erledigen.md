@@ -1,35 +1,37 @@
-🔨 [[erledigen]] + Akk, [ɛʁˈleːdɪgn̩]
-[[erledigte]] 
-haben [[erledigt]]
+✅ [[erledigen]], [ɛɐ̯ˈleːdɪɡn̩] | [[erledigte]], haben [[erledigt]]
 
 ---
 Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]].
 
+[[Die halbe Miete sein.md#^5|(q)]] „es gibt momentan so viele Dinge, die ich [[erledigen]] muss. Mein größtes Problem ist, dass ich für meine kleine Tochter einen Platz in einer [[Kindertagesstätte]] suche. ^5
+
 Seit Mutter gestorben ist, habe ich die ganze Arbeit im [[Lager]] [[erledigt]], während du irgendwo Soldat gespielt hast!
 
 ---
-Synonyme: [[abschließen]], [[beenden]], [[fertigstellen]], [[bewältigen]], [[ausführen]]
-Antonyme: [[aufschieben]], [[vernachlässigen]], [[versäumen]], [[liegen lassen]]
+= [[erfüllen]], [[bewältigen]], [[abwickeln]], [[lösen]],  [[vornehmen]]
+≈ [[ausführen]], [[fertigstellen]], [[beenden]], [[erbringen]]
+≠ [[verschieben]], [[aufschieben]], [[vernachlässigen]], [[unterlassen]]
 
 ---
-Übersetzung: to finish, to complete, to take care of
+to handle, to take care of, to deal with
+выполнять, улаживать
 
 ---
-Morpheme: [[er]][[ledig]][[en]]
- #Verb  #Trennbar
+[[er]]|[[ledig]]|[[en]]
 
 ---
+ich: [[erledige]], [[erledigte]], –, [[erledige]], [[erledigte]]
+du: [[erledigst]], [[erledigtest]], [[erledige]] | [[erledigt]], [[erledigtest]]
+er/sie/es: [[erledigt]], [[erledigte]], –, [[erledige]], [[erledigte]]
+wir: [[erledigen]], [[erledigten]], [[erledigen wir|erledigen]], [[erledigen]], [[erledigten]]
+ihr: [[erledigt]], [[erledigtet]], [[erledigt]], [[erledigt]], [[erledigtet]]
 
+PI: [[erledigend]], PII: [[erledigt]], Zu+inf: [[zu erledigen]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[erledige]] | [[erledigte]] | - | [[erledige]] | [[erledigte]] |
-| Du | [[erledigst]] | [[erledigtest]] | [[erledige]] | [[erledigest]] | [[erledigtest]] |
-| Er/sie/es | [[erledigt]] | [[erledigte]] | - | [[erledige]] | [[erledigte]] |
-| Wir | [[erledigen]] | [[erledigten]] | - | [[erledigen]] | [[erledigten]] |
-| Ihr | [[erledigt]] | [[erledigtet]] | [[erledigt]] | [[erleidiget]] | [[erledigtet]] |
-| Sie | [[erledigen]] | [[erledigten]] | [[erledigen Sie]] | [[erledigen]] | [[erledigten]] |
+---
+[[erledigen]] - [[er]] = [[ledig]] / to handle, to take care of, to deal with
 
-Partizip I: [[erledigend]], Partizip II: [[erledigt]]
+---
+[[Erledigung]], [[ledig]], [[erledigt]], [[erledigbar]]
 
-[[erledigen]] - [[er]] = [[ledigen]], [[lösen]], [[vornehmen]]
+[[erledigen]] - [[er]] = [[ledig]], 

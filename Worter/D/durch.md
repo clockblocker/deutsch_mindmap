@@ -7,7 +7,7 @@ kein Plural
 
 [[Leibe geht durch den Magen]]
 
-[[Durch]] Kataras Handbewegungen bewegt sich das Wasser und in einem großen Eisberg hinter ihr bilden sich Risse.
+[[Durch]] Kataras [[Handbewegungen]] bewegt sich das Wasser und in einem großen Eisberg hinter ihr bilden sich Risse.
 
 
 ---
@@ -69,3 +69,5 @@ Morphems:
 , [[anhand]]
 , [[dank]]
 , [[infolge]]
+, [[durchhalten]]
+, [[Durchhaltevermögen]]

@@ -35,3 +35,4 @@ Partizip I: [[versuchend]], Partizip II: [[versucht]]
 
 [[versuchen]] - [[ver]] = [[suchen]]
 ''', [[s1 e1]], [[bemühen]], [[ausprobieren]], [[Verspätung]]
+, [[Versuch]]

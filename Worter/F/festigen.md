@@ -1,1 +1,2 @@
 , [[stützen]], [[wurzeln]]
+, [[aufrechterhalten]]

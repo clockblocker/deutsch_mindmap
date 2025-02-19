@@ -6,7 +6,7 @@ Montags von 19:30-21 Uhr trainiert eine [[Erwachsenenanfängergruppe]] und diens
 
 ---
 [[vermischen]] - [[ver]] = [[mischen]] //  to mix, to blend, to combine
-[[Wortermischen]] - [[ein]] = [[mischen]] // to interfere, to intervene, to mix in
+[[einmischen]] - [[ein]] = [[mischen]] // to interfere, to intervene, to mix in
 
 ---
 Synonyme: [[vermischen]], [[vermengen]], [[kombinieren]], [[durchmischen]], [[rühren]]

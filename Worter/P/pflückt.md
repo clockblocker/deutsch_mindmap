@@ -1,1 +1,2 @@
 [[pflücken]], [ˈpflʏkn̩]
+, [[abbrechen]]

@@ -19,7 +19,7 @@ impressed, amazed
 
 ---
 Morpheme:
-[[be]][[eindruck]][[t]]
+[[be]][[Eindruck]][[t]]
 
 ---
 

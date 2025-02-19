@@ -1,7 +1,9 @@
 💪 [[beeindrucken]], [beːaɪ̯nˈdʁʊkŋ] | [[beeindruckte]], haben [[beeindruckt]]
 
 ---
-, [[eindruck]]
+[[Eindruck]]
+
+[[Eigenlob stinkt.md#^2|(q)]] [[Selbstbewusste]] Menschen haben es leichter im Leben. Sie [[beeindrucken]] andere durch ihre [[Fähigkeiten]] und Talente. ^2
 
 ---
 = [[faszinieren]], [[begeistern]], [[erstaunen]]
@@ -29,3 +31,4 @@ ihr: [[beeindruckt]], [[beeindrucktet]], [[beeindruckt]], [[beeindrucket]], [[be
 
 ---
 [[beeindruckend]], [[beeindruckend]], [[beeindruckend]], [[beeindruckende]], [[Beeindruckung]], [[Eindruck]]
+, [[selbstbewusst]]

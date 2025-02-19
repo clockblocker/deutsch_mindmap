@@ -32,3 +32,4 @@ Einzigartige mögliche Formen:
 [[lustigste]], [[lustigster]], [[lustigste]], [[lustigstes]], [[lustigsten]], [[lustigstem]], [[lustigster]], [[lustigsten]]
 
 , [[ernst]], [[witzig]], [[fröhlich]]
+, [[raustogig]]

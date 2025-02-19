@@ -1,1 +1,1 @@
-, [[Worter/B/Beziehung]], [[Außenbeziehungen]], [[Worter/Beziehung]], [[Beziehung]], [[verlinkungen]]
+, [[Beziehung]], [[Außenbeziehungen]], [[Worter/Beziehung]], [[Beziehung]], [[verlinkungen]]

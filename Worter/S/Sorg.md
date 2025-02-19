@@ -1,1 +1,2 @@
 , [[Sorgen]], [[versorgen]], [[sorgsam]]
+, [[Sorgfalt]]

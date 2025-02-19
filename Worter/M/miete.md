@@ -1,22 +1,27 @@
-die [[miete]]
-die [[miete]]
-
-[[mieten]]
-
+🏠 die [[Miete]], [ˈmiːtə]
+die [[Mieten]]
 
 ---
-Beispiele:
-
-- Die [[miete]] ist am ersten des Monats fällig.
-- Ich habe die [[miete]] für dieses Jahr bereits bezahlt.
-- Wie hoch ist deine monatliche [[miete]]?
-- Miete! Oder ich greife an!  
+„Das ist ja schon mal [[Die halbe Miete sein|die halbe Miete]]“
 
 ---
-
-**Übersetzung**: rent
+= [[Pacht]], [[Leihgebühr]], [[Mietzins]]
+≈ [[Entgelt]], [[Gebühr]], [[Kosten]], [[Zahlung]]
+≠ [[Kauf]], [[Eigentum]], [[Besitz]]
 
 ---
+rent
+аренда, квартплата
 
+---
+[[Miet]]|[[e]]
 
-, [[einziehen]]
+---
+N: die [[Miete]], die [[Mieten]]  
+A: die [[Miete]], die [[Mieten]]  
+G: der [[Miete]], der [[Mieten]]  
+D: der [[Miete]], den [[Mieten]]  
+
+---
+[[mieten]], [[Mieter]], [[Mieterin]], [[Mietvertrag]], [[Mietshaus]], [[Mietwagen]]
+, [[Miete]]

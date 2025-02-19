@@ -1,1 +1,2 @@
 , [[Gehalt]], [[Lohn]]
+, [[Miete]]

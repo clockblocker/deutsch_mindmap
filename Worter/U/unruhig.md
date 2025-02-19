@@ -28,3 +28,4 @@ P: [[unruhigen]], [[unruhigeren]], [[unruhigsten]]
 [[Unruhe]], [[Ruhe]], [[unruhig machen]], [[beruhigen]], [[Unruhestifter]]
 
 [[nervös]][[ruhig]], [[beruhig]], [[ungeduldig]], [[entspannt]], [[aufgeregt]]
+, [[zappelig]]

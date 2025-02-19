@@ -3,7 +3,6 @@
 ---
 Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Erfolg]]!“ sagen oder jemandem die Daumen [[drücken]]. Ob es hilft? [[Immerhin]]: Wer [[freut]] sich nicht darüber, dass an ihn [[gedacht]] wird?
 
-
 ---
 Synonyme:
 - [[zumindest]], [[wenigstens]], [[dennoch]], [[trotzdem]], [[gleichwohl]]

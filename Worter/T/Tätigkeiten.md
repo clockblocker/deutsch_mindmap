@@ -1,1 +1,2 @@
 , [[Tätigkeit]], [[Aufgaben]]
+, [[Durchhaltevermögen]]

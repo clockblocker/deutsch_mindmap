@@ -27,3 +27,4 @@ D: der [[Anzeige]], den [[Anzeigen]]
 
 ---
 [[anzeigen]], [[Anzeiger]], [[anzeigewürdig]], [[Anzeigeerstatter]], [[anzeigepflichtig]], [[Bildschirm]]
+, [[zeihen]]

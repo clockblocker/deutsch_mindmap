@@ -1,1 +1,1 @@
-, [[Gefühl]], [[eindruck]], [[Bewusstsein]]
+, [[Gefühl]], [[Eindruck]], [[Bewusstsein]]

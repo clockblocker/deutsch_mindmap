@@ -5,6 +5,8 @@ sein [[zugegangen]]
 ---
 _Aang [[geht]] auf das Schiff [[zu]]._
 
+[[2 ADHD.md#^10|(q)]] Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu. ^10
+
 Nach der Pause hat sie ein Elterngespräch. Da [[geht]] es hoffentlich etwas ruhiger [[zu]].
 
 Sebastian selbst sieht das weniger entspannt. Er ist ziemlich nervös, als sie auf die Gruppe [[zugehen]], die sich um den Grill versammelt hat. 

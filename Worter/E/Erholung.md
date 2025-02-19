@@ -1,1 +1,2 @@
 , [[Ruh]], [[ausgeruht]], [[Arbeit]]
+, [[Anstrengung]]

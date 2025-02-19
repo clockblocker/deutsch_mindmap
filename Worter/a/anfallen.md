@@ -1,1 +1,2 @@
 , [[beißen]]
+, [[Wutanfall]]

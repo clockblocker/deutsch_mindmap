@@ -33,3 +33,4 @@ Partizip I: [[beruhigend]], Partizip II: [[beruhigt]]
 
 [[beruhigen]] - [[be]] = [[ruhig]]
 , [[hochschrecken]], [[schrecken]], [[toben]], [[schlichten]], [[schütteln]], [[trösten]], [[schreien]], [[unruhig]], [[entspannen]]
+, [[aufbrausen]]

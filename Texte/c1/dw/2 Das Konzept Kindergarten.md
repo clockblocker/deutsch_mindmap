@@ -1,0 +1,31 @@
+https://learngerman.dw.com/de/das-konzept-kindergarten-eine-erfolgsgeschichte/l-40285732/lm
+
+Das Konzept Kindergarten – eine Erfolgsgeschichte  
+  
+Spielen, selbst erfahren, lernen: Friedrich Fröbel revolutionierte mit seiner Idee die frühkindliche Pädagogik des 19. Jahrhunderts. Auch der Begriff fand seinen Weg in andere Sprachen.**  
+  
+„Kindergarten“ ist eines der wenigen deutschen Worte, die es in die englische Sprache geschafft haben. Auch in vielen anderen europäischen Sprachen – und sogar im Chinesischen und Usbekischen – setzt sich die entsprechende Vokabel aus den Wörtern „Kind“ und „Garten“ zusammen. Der Grund dafür: Die Institution Kindergarten ist eine deutsche Erfindung und wurde zum Erfolg, lange vor dem Aufblühen der deutschen Wirtschaft im 20. Jahrhundert. Am 28. Juni 1840 gründete der Pädagoge Friedrich Wilhelm August Fröbel im thüringischen Bad Blankenburg den „Allgemeinen Deutschen Kindergarten“ und damit den ersten Kindergarten der Welt. Orte zur Kinderbetreuung gab es schon vorher. Die hießen dann „Bewahranstalten“ oder „Warteschulen“. Entsprechend wurden die Kinder auch betreut, sagt Margitta Rockstein, die das Friedrich-Fröbel-Museum in Bad Blankenburg leitete:  
+  
+„Die Kleinkinder sind sich selbst überlassen. Die anderen sind sozusagen in der Schule. Es gibt ’ne Schulpflicht schon. Aber das ist eben dann, dass in dieser Zeit die Kleinkinder sozusagen vor Verwahrlosung bewahrt werden sollen, in diesen anderen Einrichtungen.“  
+  
+Friedrich Fröbel reichte es nicht, dass Kinder nur „verwahrt“ wurden. Sie wurden zwar beaufsichtigt, damit sie nicht verwahrlosten, in einen schlechten körperlichen und moralischen Zustand gerieten. Ansonsten wurden sie aber völlig sich selbst überlassen. Inspiriert von den Gedanken der Aufklärung verstand Friedrich Fröbel Menschen jedoch als freie Individuen, die von Geburt an dazu geschaffen sind, sich frei entfalten zu können. Dazu gehörte für ihn auch die Bildung – und zwar in einem frühestmöglichen Stadium. Allerdings – vor allem bei Kleinkindern – nicht in Form von Unterricht, sagt Margitta Rockstein:  
+  
+„Für ihn ist das Kind ’n Mensch in Entwicklung, das imstande ist, sich eigenständig auch Wissen anzueignen, wenn es entsprechende Bildungsmittel gereicht bekommt, wenn es mit Erwachsenen Kontakt hat, die sich mit ihm beschäftigen, die sozusagen seine Entwicklung anregen.“  
+  
+Friedrich Fröbel erkannte, dass es nichts brachte, kleinen Kindern Wissen einzuflößen, weil sie so in einer passiven Rolle gewesen wären. Sie sollten ihre Welt selbst erforschen. Und das am besten durch das natürlichste Verhalten, das sie beherrschten: das Spielen. So entwickelte Fröbel beispielsweise zur frühkindlichen Vermittlung grundlegender mathematisch-physikalischer Zusammenhänge Spielzeug in Form von geometrischen Figuren wie Würfel, Zylinder und Kugel. Den Erwachsenen fiel dabei die Aufgabe zu, die Kinder beim Spielen sprachlich und emotional zu begleiten. Diese lernten, das Erfahrene zu artikulieren und entwickelten ihre sozialen Kompetenzen. In der damaligen Zeit war das etwas völlig Neues, sagt Petra Strehmel, Psychologieprofessorin an der Hochschule für Angewandte Wissenschaften in Hamburg:  
+  
+„Was wir heute ja in der Entwicklungspsychologie im Prinzip auch immer betonen, dass Lernen und Entwicklung ein aktiver Prozess ist, das war von Fröbel eher revolutionär.“  
+  
+Weil sein Konzept allerdings zu revolutionär für die damalige Zeit war, musste Friedrich Fröbel den ersten Kindergarten der Weltgeschichte aus Geldmangel schon nach zwei Jahren wieder schließen. Doch er gab sich nicht geschlagen und reiste umher, um Vorträge zu halten und professionelle Erzieher im Sinne seiner Lehre auszubilden. Anfangs waren es meist Männer, die Schulen leiteten, später vor allem unverheiratete Frauen. Diesen eröffnete Fröbel so eine damals noch seltene Chance: einen qualifizierten Beruf auszuüben. Doch 1851 verbot der preußische Staat allzu progressive pädagogische Konzepte. Gehorsame Untertanen waren den Machthabern lieber als frei denkende Individuen. Fröbels Pädagogikreform schien am Ende zu sein, zumal er ein Jahr später auch starb. Die Kindergärtnerinnen wollten sich jedoch nicht mit dem Verlust ihrer Arbeit abfinden, erzählt Margitta Rockstein:  
+  
+„Nun, das waren auch sehr engagierte, couragierte und kluge Frauen, die eben auch Sprachen beherrschten und dann eben in den Ländern, wo Kapitalismus schon fortgeschrittener war und auch der Bedarf an Kindereinrichtungen oder Kindergärten dann da war, nach England, Frankreich, Spanien, Belgien gegangen sind und dort begannen, Kindergärten zu gründen und Kindergärtnerinnen auszubilden.“  
+  
+Tatsächlich trat der Kindergarten nun seinen Siegeszug an in den Staaten, in denen die Industrialisierung fortgeschritten war, wie etwa in England. Die gut ausgebildeten und mutigen, couragierten, deutschen Kindergärtnerinnen wagten den Schritt ins Ausland. Dass mit dem Konzept auch der Name in alle Welt gelangte, liegt wohl auch daran, dass Fröbel das Wort „Kindergarten“ sehr behutsam gewählt hatte, sagt Margitta Rockstein:  
+  
+„Diese schöne Wortschöpfung ‚Kindergarten‘, da sieht er eben auch das Kind als Samenkorn. Da ist potenziell schon alles drin.“  
+  
+Bei einem Kind sind nach Ansicht von Friedrich Fröbel wie bei einem pflanzlichen Samenkorn alle für ein Wachstum notwendigen Eigenschaften schon da. Sie sind potenziell vorhanden. Beide brauchen nur die notwendige Aufmerksamkeit, Zuwendung und Pflege. Dieser Grundgedanke hat nach Ansicht von Petra Strehmel die Jahrhunderte überdauert:  
+  
+„Wenn es manchmal schon auch kritisch gesehen wird, also gerade der Erziehungsbegriff, letztlich ist das ja immer noch so, dass wir ganz bestimmte Vorstellungen haben. Und dieses Bild vom Garten ist ja eher etwas, dass Kinder sich eben entsprechend ihrer Potenziale entwickeln sollen – und dieser Gedanke ist eigentlich bis heute aktuell.“  
+  
+Merkwürdig ist allerdings, dass ausgerechnet in Deutschland das bürokratische Wortungetüm „Kindertagesstätte“ und seine umgangssprachliche Abkürzung „Kita“ den nahezu philosophischen Begriff „Kindergarten“ inzwischen verdrängt haben. Tröstlich ist allerdings, dass Friedrich Fröbels Konzept auch in Kitas bis heute aktuell ist. Und das nicht nur in Deutschland.

@@ -1,1 +1,3 @@
 , [[Kunstinteresse]]
+, [[Freizeitaktivität]]
+, [[Aufmerksamkeit]]

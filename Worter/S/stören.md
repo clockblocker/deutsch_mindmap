@@ -41,3 +41,4 @@ Morpheme: [[stör]][[en]]
 Partizip I: [[störend]], Partizip II: [[gestört]]
 
 [[stören]] - [[stör]] = [[en]], [[gefallen]], [[missfallen]], [[nützen]], [[behagen]], [[behindern]], [[zerstörten]]
+, [[ablenken]]

@@ -1,1 +1,2 @@
 , [[Abbildung]]
+, [[Gegenstand]]

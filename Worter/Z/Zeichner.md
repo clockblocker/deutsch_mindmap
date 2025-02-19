@@ -27,3 +27,4 @@ D: dem [[Zeichner]], den [[Zeichnern]]
 
 ---
 [[zeichnen]], [[Zeichnung]], [[Zeichengerät]], [[Zeichenbrett]], [[Zeichenschule]]
+, [[zeihen]]

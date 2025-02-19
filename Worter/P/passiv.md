@@ -1,1 +1,2 @@
 , [[tätig]], [[lebhaft]], [[vollziehenden]]
+, [[motorische]]

@@ -1,5 +1,4 @@
-stumm, [ˈʃtʊm]
-nicht [[laut]]
+🤫 [[stumm]], [ʃtʊm] ≠ [[beredt]]
 
 ---
 *und die Mutter blickte [[stumm]]*  
@@ -9,19 +8,28 @@ Sie saß [[stumm]] in ihrer Wohnung und hatte immer nur einen Gedanken
 im Kopf: «Warum habe ich keine Tiefe? Warum habe ich keine Tiefe?»  
 
 ---
-Synonyme: [[leise]], [[still]], [[schweigsam]], [[wortkarg]], [[wortlos]]
-Antonyme: [[laut]], [[gesprächig]], [[redselig]], [[kommunikativ]]
+[[verstummen]] - [[ver]] = [[stummen]] / to fall silent, to become silent
 
 ---
-**Übersetzung**:
-mute, silent, speechless
+= [[sprachlos]], [[wortkarg]], [[schweigend]]
+≈ [[still]], [[lautlos]], [[unhörbar]]
+≠ [[beredt]], [[gesprächig]], [[laut]], [[hörbar]]
 
 ---
-#Adjective [[stumm]]
+mute, silent
+немой, молчаливый
 
+---
+[[stumm]]
 
-Einzigartige mögliche Formen: 
-[[stumm]], [[stummer]], [[stumme]], [[stummes]], [[stummen]], [[stummem]], [[stummer]], [[stummen]]
-[[stummer]], [[stammerer]], [[stammere]], [[stammeres]], [[stammeren]], [[stammeren]], [[stammerer]], [[stammeren]]
-[[stummsten]], [[stummster]], [[stummste]], [[stummste]], [[stummsten]], [[stummsten]], [[stummster]], [[stummsten]]
-, [[7 Die Geschichte vom Zappel-Philipp]]
+---
+N: [[stumm]], [[stummer]], [[stummste]]  
+A: [[stummen]], [[stummen]], [[stummsten]]  
+G: [[stummen]], [[stummen]], [[stummsten]]  
+D: [[stummem]], [[stummem]], [[stummstem]]  
+F: [[stumme]], [[stummere]], [[stummste]]  
+N: [[stummes]], [[stummeres]], [[stummstes]]  
+P: [[stummen]], [[stummen]], [[stummsten]]  
+
+---
+[[Stummheit]], [[verstummen]], [[stummschalten]]

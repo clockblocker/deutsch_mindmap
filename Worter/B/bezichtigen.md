@@ -1,1 +1,2 @@
 , [[anklagen]], [[bezigen]], [[vorwerfen]]
+, [[zeihen]]

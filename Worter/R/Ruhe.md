@@ -27,3 +27,5 @@ Einzigartige mögliche Formen: [[Ruhe]], [[Ruhen]]
 ---
 #Substantiv #Feminin, [[Ruh]], [[leis]], [[Frieden]], [[ruhig]], [[Tätigkeit]], [[Wert]], [[geduld]], [[Nachtruhe]], [[Arbeiteraufstand]], [[Aufstand]], [[Angriffsgeschrei]], [[Schweige]], [[ausgeruht]], [[unruhig]], [[Bewegung]]
 , [[Gefecht]]
+, [[Wutanfall]]
+, [[Termindruck]]

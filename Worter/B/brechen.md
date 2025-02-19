@@ -16,6 +16,7 @@ Mit einem Krachen [[bricht]] der Eisberg auseinander und versinkt im Wasser.
 
 ---
 [[zerbrechen]] - [[zer]] = [[brechen]] // shatter
+[[abbrechen]] - [[ab]] = [[brechen]] / to break off, to cancel
 
 
 ---
@@ -44,3 +45,4 @@ Partizip I: [[brechend]], Partizip II: [[gebrochen]]
 
 , [[unterbrechen]], [[zusammenbrechen]], [[versprechen]], [[übers Knie brechen]], [[einbrechen]], [[einhalten]]
 , [[Ausbruch]]
+, [[abbrechen]]

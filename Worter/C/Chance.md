@@ -1,1 +1,2 @@
 , [[Aussicht]], [[Möglichkeit]], [[Risiko]]
+, [[Gelegenheit]]

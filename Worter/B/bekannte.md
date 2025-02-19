@@ -25,3 +25,4 @@ D: der [[Bekannten]], den [[Bekannten]]
 ---
 [[bekannt]], [[Bekanntschaft]], [[bekanntlich]], [[Bekannte]]
 [[Kenntnis]], [[erkennen]], [[anerkennen]], [[bekennen]]
+, [[bekommen]]

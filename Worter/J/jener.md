@@ -6,6 +6,8 @@ Ich denke gerne zurück an [[jene]] Tage in Frankreich.
 
 Wer etwas verliert und es wiederhaben will, muss suchen – in dieser Ecke oder in [[jener]]. Den [[redensartlichen]] [[Faden]] findet man dort aber nicht. [[Dazu]] muss man schon in die Tiefe seines eigenen Geistes [[eindringen]].
 
+[[Eigenlob stinkt.md#^1|(q)]] „Ich habe das und [[jenes]] geschafft“, ^1
+
 ---
 Synonyme:
 - [[dieser]], [[derjenige]], [[selbiger]], [[solcher]]
