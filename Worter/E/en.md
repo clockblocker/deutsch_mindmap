@@ -22,3 +22,7 @@
 , [[durchhalten]]
 , [[verträumen]]
 , [[abbrechen]]
+, [[aufwachen]]
+, [[einschlafen]]
+, [[zumachen]]
+, [[aufmachen]]

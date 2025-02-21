@@ -28,3 +28,4 @@ Plural: [[wachsenden]], [[wachsenderen]], [[wachsendsten]]
 [[Wachstum]], [[Wachstumsrate]], [[wachsen]]
 
 , [[steigende]], [[wachsen]]
+, [[aufwachen]]

@@ -24,3 +24,4 @@ D: dem [[Auftrag]], den [[Aufträgen]]
 
 ---
 [[auftragen]], [[beauftragen]], [[Auftragsarbeit]], [[Auftraggeber]], [[Auftragnehmer]]
+, [[Auftragslage]]

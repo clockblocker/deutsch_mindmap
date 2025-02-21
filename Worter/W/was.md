@@ -9,3 +9,5 @@ Mensch Anna, es kommt darauf an, [[wie]] du schreibst – und nicht 
 #Pronomen #Interrogativpronomen 
 
 , [[sowas]], [[irgendwas]], [[darauf]], [[Nebensatz Conector]]
+, [[welcher]]
+, [[Was für ein?]]

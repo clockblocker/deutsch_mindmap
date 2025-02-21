@@ -1,1 +1,2 @@
 , [[sterben]], [[verscheiden]]
+, [[einschlafen]]

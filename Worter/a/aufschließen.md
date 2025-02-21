@@ -72,3 +72,5 @@ Konjunktiv II:
 - Wenn du aufpassen würdest, [[schlösset auf|schlösset]] du das Auto [[Konjunktion/Positionen/auf]].
 - Wenn er sich erinnern könnte, [[schlösse auf|schlösse]] er das Schloss [[Konjunktion/Positionen/auf]].
 - Wenn wir es eilig hätten, [[schlö​⬤, [[11 08]], [[abschließen]], [[eröffnen]], [[einholen]]
+, [[zumachen]]
+, [[aufmachen]]

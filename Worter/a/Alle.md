@@ -1,37 +1,26 @@
-[[Worter/A/Alle]] meine Entchen,
-
-[[Alles]]
-
-[[Indefinitpronomen]]
-
-
- [[Worter/A/Alle]], [ˈalə]
-nicht [[einige]], nicht [[manche]]
+👥 [[alle]], [ˈalə] | [[Artikelwörter]]
 
 ---
--
--
+[[Artikelwörter.md#^3|(q)]] - [[Alle]] – *Er ist hier mit allen Leuten bekannt.* ^3
+ 
 
 ---
-Synonyme: [[jeder]], [[sämtlich]], [[durchgehend]], [[komplett]], [[gesamt]]
-Antonyme: [[einige]], [[manche]], [[teilweise]], [[vereinzelt]], [[einzeln]]
+= [[gesamt]], [[jeder]], [[sämtlich]]
+≈ [[ganz]], [[total]], [[vollständig]]
+≠ [[kein]], [[manche]], [[einige]]
 
 ---
-**Übersetzung**:
-all, every, whole
+all, every
+все
 
 ---
-#Adjective [[Worter/A/Alle]]
+[[all]]|[[e]]
 
 ---
-Morpheme:
-[[Worter/A/Alle]]
+N: [[alle]]
+A: [[alle]]
+G: [[aller]]
+D: [[allen]]
 
 ---
-
-
-Einzigartige mögliche Formen: 
-[[Worter/A/Alle]], [[aller]], [[Worter/A/Alle]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
-[[Worter/A/Alle]], [[aller]], [[Worter/A/Alle]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
-[[Worter/A/Alle]], [[aller]], [[Worter/A/Alle]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
-''', [[Jeder]]
+[[allemal]], [[allerlei]], [[allerdings]], [[allgegenwärtig]], [[alljährlich]]

@@ -26,3 +26,4 @@ Morpheme: [[allerdings]]
 ---
 #Adverb [[allerdings]]
 , [[Conjunctions]]
+, [[Alle]]

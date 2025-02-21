@@ -28,3 +28,5 @@ Mögliche Formen:
 ---
 
 , [[sämtlich]], [[Je]], [[jeweils]]
+, [[Artikelwörter]]
+, [[Alle]]

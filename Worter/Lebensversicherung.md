@@ -26,4 +26,4 @@ G: der [[Lebensversicherung]], der [[Lebensversicherungen]]
 D: der [[Lebensversicherung]], den [[Lebensversicherungen]]  
 
 ---
-[[leben]], [[versichern]], [[Versicherung]], [[Lebensversicherungsvertrag]], [[lebenslang]]
+[[Leben]], [[versichern]], [[Versicherung]], [[Lebensversicherungsvertrag]], [[lebenslang]]

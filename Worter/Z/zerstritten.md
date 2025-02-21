@@ -1,1 +1,2 @@
 [[vereint]], [[einigen]]
+, [[einig]]

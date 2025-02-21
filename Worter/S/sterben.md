@@ -6,7 +6,7 @@
 ---
 = [[verenden]], [[ableben]], [[versterben]]
 ≈ [[dahinscheiden]], [[verscheiden]], [[das Zeitliche segnen]], [[den Geist aufgeben]], [[ins Gras beißen]], [[eingehen]], [[verscheiden]], 
-≠ [[leben]], [[bestehen]], [[existieren]], [[Geburt]], [[überleben]]
+≠ [[Leben]], [[bestehen]], [[existieren]], [[Geburt]], [[überleben]]
 
 ---
 to die, to pass away

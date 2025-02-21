@@ -1,13 +1,13 @@
-🟢 das [[leben]]
-die [[leben]]
+🟢 das [[Leben]]
+die [[Leben]]
 
 ---
 Toni raucht nicht mehr und [[lebt]] [[dadurch]] [[gesünder]].
 
 - *Keiner weiß wie lang* 
-  *Ja, für ein [[leben]] ohne Zwang* 
+  *Ja, für ein [[Leben]] ohne Zwang* 
   
--  Hast du in deinem [[leben]] schon mal ein Regal aufgebaut? 
+-  Hast du in deinem [[Leben]] schon mal ein Regal aufgebaut? 
 
 ---
 Synonyme:
@@ -26,7 +26,7 @@ Morphems:
 
 ---
 ---
-🌱 [[leben]] + (ohne Präposition), [ˈleːbn̩]
+🌱 [[Leben]] + (ohne Präposition), [ˈleːbn̩]
 [[lebte]]
 haben [[gelebt]]
 
@@ -34,7 +34,7 @@ haben [[gelebt]]
 
 
 ---
-[[erleben]] - [[er]] = [[leben]] / пережить
+[[erleben]] - [[er]] = [[Leben]] / пережить
 
 
 ---
@@ -55,10 +55,10 @@ Morpheme: [[leb]][[en]]
 | Ich | [[lebe]] | [[lebte]] | - | [[lebe]] | [[lebte]] |
 | Du | [[lebst]] | [[lebtest]] | [[lebe]] | [[lebest]] | [[lebtest]] |
 | Er/sie/es | [[lebt]] | [[lebte]] | - | [[lebe]] | [[lebte]] |
-| Wir | [[leben]] | [[lebten]] | - | [[leben]] | [[lebten]] |
+| Wir | [[Leben]] | [[lebten]] | - | [[Leben]] | [[lebten]] |
 | Ihr | [[lebt]] | [[lebtet]] | [[lebt]] | [[lebet]] | [[lebtet]] |
-| Sie | [[leben]] | [[lebten]] | [[leben Sie]] | [[leben]] | [[lebten]] |
+| Sie | [[Leben]] | [[lebten]] | [[leben Sie]] | [[Leben]] | [[lebten]] |
 
 Partizip I: [[lebend]], Partizip II: [[gelebt]]
-[[leben]] - keine Vorsilbe
+[[Leben]] - keine Vorsilbe
 , [[Geschäftsleben]], [[wohnen]], [[erfrieren]], [[verscheiden]], [[Lebensform]], [[Lebensjahr]], [[Lebensversicherung]], [[Grab]], [[s1 e1]]

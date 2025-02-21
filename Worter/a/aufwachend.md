@@ -1,1 +1,2 @@
 , [[erwachen]]
+, [[aufwachen]]

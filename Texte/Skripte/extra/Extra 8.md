@@ -79,7 +79,7 @@ NIC: Ach, na ja - … es [[ging]] so
 SAM: Und das Regalbrett oben drauf … Sascha?  
 SASCHA: Willst du es so, Sam?  
 SAM: Äh … ja …  
-SASCHA: Hast du in deinem [[leben]] schon mal ein Regal [[aufgebaut]]?  
+SASCHA: Hast du in deinem [[Leben]] schon mal ein Regal [[aufgebaut]]?  
 SAM: Oh, ja!  
 SASCHA: Oder machen das die Dienstboten für dich?  
 SAM: Oh …  

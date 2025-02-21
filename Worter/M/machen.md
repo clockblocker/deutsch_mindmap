@@ -22,6 +22,8 @@ Also [[lädt]] Adrian Emilie zum Essen [[ein]]. Es gibt Spaghetti mit leckerer S
 [[aufmachen]] - [[auf]] = [[machen]] / to open
 [[abmachen]] - [[ab]] = [[machen]] /  to arrange, to agree, to settle | remove
 [[mitmachen]] - [[mit]] = [[machen]] / participate
+[[aufmachen]] - [[auf]] = [[machen]] / to open
+[[zumachen]] - [[zu]] = [[machen]] / to close
 
 
 
@@ -52,3 +54,4 @@ Partizip I: [[machend]], Partizip II: [[gemacht]]
 
 +[[frei]] = [[freimachen]]
 , [[tun]], [[Sorgen]], [[anmachen]], [[mitmachen]], [[weitermachen]], [[übermachen]], [[durchmachen]]
+, [[zumachen]]

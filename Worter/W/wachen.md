@@ -8,6 +8,7 @@ Carola ist auf dem Weg zur Uni. Um halb neun hat sie eine wichtige Prüfung, abe
 ---
 [[erwachen]] - [[er]] = [[wachen]] / to awaken, to wake up
 [[überwachen]] - [[über]] = [[wachen]] / to monitor, to supervise, to watch over
+[[aufwachen]] - [[auf]] = [[wachen]] / to wake up
 
 ---
 Synonyme: [[aufpassen]], [[beobachten]], [[bewachen]], [[Wache halten]]
@@ -31,3 +32,4 @@ Morpheme: [[wach]][[en]]
 
 Partizip I: [[wachend]], Partizip II: [[gewacht]]
 , [[überwachen]], [[träumen]]
+, [[aufwachen]]

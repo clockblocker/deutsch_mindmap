@@ -40,3 +40,4 @@ Morpheme:
 Steigerungsformen: 
 [[meist]], [[meister]], [[meistens]]
 ''', [[betreffen]]
+, [[viel]]

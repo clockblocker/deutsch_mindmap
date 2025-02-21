@@ -7,3 +7,6 @@ the same
 
 
 [[Indefinitpronomen]], [[dieselbe]]
+, [[dieser]]
+, [[welcher]]
+, [[Was für ein?]]

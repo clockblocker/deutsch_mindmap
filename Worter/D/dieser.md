@@ -1,40 +1,25 @@
+👉 [[dieser]], [ˈdiːzɐ]
+
+---
  Sascha Maus [[dieser]] Brief ist für dich.
 
- [[Worter/P/Pronomen/Pronomen]]
- #pronomen  #Demonstrativpronomen 
-
-
-this
-
-
-|            |           |            |           |
-| ---------- | --------- | ---------- | --------- |
-| Maskulinum | Femininum | Neutrum    | Plural    |
-| [[dieser]] | [[diese]] | [[dieses]] | [[diese]] |
+---
+= [[der]], [[jene]], [[solcher]]
+≈ [[diese]], [[derjenige]], [[selbiger]]
+≠ [[jener]], [[derselbe]], [[gleiche]]
 
 ---
-Akkusativ (Accusative):
-
-|            |           |            |           |     |
-| ---------- | --------- | ---------- | --------- | --- |
-| Maskulinum | Femininum | Neutrum    | Plural    |     |
-| [[diesen]] | [[diese]] | [[dieses]] | [[diese]] |     |
+this, that
+этот, эта, это
 
 ---
-Dativ (Dative):
-
-|            |            |            |            |
-| ---------- | ---------- | ---------- | ---------- |
-| Maskulinum | Femininum  | Neutrum    | Plural     |
-| [[diesem]] | [[dieser]] | [[diesem]] | [[diesen]] |
+[[dies]]|[[er]]
 
 ---
-Genitiv (Genitive):
+N: [[dieser]], [[diese]], [[dieses]], [[diesen]]
+A: [[diesen]], [[diese]], [[dieses]], [[diesen]]
+G: [[dieses]], [[dieser]], [[dieses]], [[diesen]]
+D: [[diesem]], [[dieser]], [[diesem]], [[diesen]]
 
-|            |            |            |            |
-| ---------- | ---------- | ---------- | ---------- |
-| Maskulinum | Femininum  | Neutrum    | Plural     |
-| [[dieses]] | [[dieser]] | [[dieses]] | [[dieser]] |
-
-
-[[Indefinitpronomen]], [[dies]], [[jener]]
+---
+[[diesmal]], [[diesbezüglich]], [[diesjährig]], [[der]], [[die]], [[das]]

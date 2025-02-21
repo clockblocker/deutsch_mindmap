@@ -11,7 +11,7 @@ Er geht in die Bücherei und wohnt in einem Museum!  Wirklich! Hihi!
 
 
 ---
-Synonyme: [[leben]], [[residieren]], [[sich aufhalten]], [[bleiben]], [[einquartieren]]
+Synonyme: [[Leben]], [[residieren]], [[sich aufhalten]], [[bleiben]], [[einquartieren]]
 Antonyme: [[ausziehen]], [[verlassen]], [[umziehen]]
 
 ---

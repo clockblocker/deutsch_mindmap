@@ -1,1 +1,2 @@
 , [[einverstanden]], [[Einigkeit]]
+, [[einig]]

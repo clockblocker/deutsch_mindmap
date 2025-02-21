@@ -1,4 +1,4 @@
-[[bestehen]], [[sein]], [[fehlen]], [[leben]], [[befinden]], [[gelten]], [[vorliegen]], [[überleben]], [[stehen]], [[geschehen]], [[vorkommen]], [[sterben]]
+[[bestehen]], [[sein]], [[fehlen]], [[Leben]], [[befinden]], [[gelten]], [[vorliegen]], [[überleben]], [[stehen]], [[geschehen]], [[vorkommen]], [[sterben]]
 
 ✨ [[existieren]], [ɛksɪsˈtiːʁən] | [[existierte]], haben [[existiert]]
 

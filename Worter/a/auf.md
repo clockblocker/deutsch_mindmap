@@ -6,3 +6,5 @@
 , [[Auftrag]]
 , [[unaufmerksam]]
 , [[aufsässig]]
+, [[aufwachen]]
+, [[aufmachen]]

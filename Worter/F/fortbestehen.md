@@ -1,1 +1,1 @@
-, [[leben]], [[überleben]], [[bleiben]]
+, [[Leben]], [[überleben]], [[bleiben]]

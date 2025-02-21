@@ -8,7 +8,7 @@ Sag du es uns! Wie bist du in das Eis gekommen und warum bist du gar nicht [[erf
 
 ---
 Synonyme: [[erkalten]], [[einfrieren]], [[zufrieren]], [[gefrieren]]
-Antonyme: [[auftauen]], [[erwärmen]], [[leben]]
+Antonyme: [[auftauen]], [[erwärmen]], [[Leben]]
 
 ---
 to freeze to death, to die from cold

@@ -1,8 +1,12 @@
-🔵 [[manche]], [ˈmançə]
+👥 [[manche]], [ˈmanxə] | [[Artikelwörter]]
 
 ---
-[[Manche]] Menschen mögen keinen Kaffee.
+[[Artikelwörter.md#^2|(q)]] - [[Manche]] – *Manche Kinder spielen Fußball gern.*
+- [[Einige]] – *Einige Kinder spielen Volleyball gern.* ^2
+ 
 
+
+[[Manche]] Menschen mögen keinen Kaffee.
 
 *In der Tiefe ist es einsam*  
 *Und so [[manche]] Zähre fließt*  
@@ -14,26 +18,23 @@ Auch [[manche]] Menschen müssen ein dickes Fell haben, um sich zu schützen.
 Ob Bratwurst, Weißwurst oder Frikadelle: Manche Speisen schmecken mit Senf einfach besser.
 
 ---
-Synonyme: [[gewisse]], [[einige]], [[bestimmte]], [[etliche]], [[verschiedene]]
-Antonyme: [[keine]], [[keine einzige]], [[niemand]], [[niemals]]
+= [[einige]], [[verschiedene]], [[mancher]]
+≈ [[etliche]], [[mehrere]], [[gewisse]]
+≠ [[alle]], [[keine]], [[ganze]]
 
 ---
-**Übersetzung**:
-some, certain
+some, several
+некоторые
 
 ---
-#Adjective [[manche]]
+[[manch]]|[[e]]
 
 ---
-Morpheme:
-[[manche]]
+N: [[manche]]
+A: [[manche]]
+G: [[mancher]]
+D: [[manchen]]
 
 ---
-
-
-Einzigartige mögliche Formen: 
-[[Indefinitpronomen]], [[jeden]], [[Worter/A/Alle]]
-[[manche]], [[mancher]], [[manche]], [[manches]], [[manchen]], [[manchem]], [[mancher]], [[manchen]]
-
-[[Indefinitpronomen]], [[jeden]], [[Worter/A/Alle]]
-, [[mehrere]], [[gewiss]]
+[[manch]], [[mancherlei]], [[manchmal]], [[manch einer]]
+, [[Alle]]

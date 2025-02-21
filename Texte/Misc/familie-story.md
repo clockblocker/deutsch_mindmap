@@ -1,6 +1,6 @@
 Familie
 
-Der [[Mann]] und die [[Frau]] [[leben]] [[in]] [[einem]] [[Haus]]. Der [[Mann]] [[heißt]] Peter und die [[Frau]] [[heißt]] Anna. Sie [[Worter/H/haben]] [[zwei]] Kinder: [[einen]] [[Jungen]] und [[ein]] [[Mädchen]].
+Der [[Mann]] und die [[Frau]] [[Leben]] [[in]] [[einem]] [[Haus]]. Der [[Mann]] [[heißt]] Peter und die [[Frau]] [[heißt]] Anna. Sie [[Worter/H/haben]] [[zwei]] Kinder: [[einen]] [[Jungen]] und [[ein]] [[Mädchen]].
 
 Der [[Junge]] [[heißt]] Max und das [[Mädchen]] [[heißt]] Lena. Max und Lena [[spielen]] [[oft]] [[zusammen]]. Sie [[Worter/H/haben]] [[einen]] [[Hund]] und [[eine]] [[Katze]]. Der [[Hund]] [[heißt]] Bello und die [[Katze]] [[heißt]] Mimi.
 

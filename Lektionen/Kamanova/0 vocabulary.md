@@ -3,11 +3,12 @@
 - [[Stuhl]] (стул)
 - [[Schrank]] (шкаф)
 - [[Stift]] (карандаш)
-- [[Computer]] (компьютер)
+- [[Computer]] (компьютермчыя)
 - [[Wagen]] (автомобиль)
 - [[Mensch]] (человек)
 - [[Lehrer]] (учитель)
 
+**_An jenem Tag fühlte ich mich nicht besonders gut._**
 ### Feminine (f)
 - [[Lampe]] (лампа)
 - [[Tasche]] (сумка)

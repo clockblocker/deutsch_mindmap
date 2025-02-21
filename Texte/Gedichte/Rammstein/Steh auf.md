@@ -11,7 +11,9 @@ Wir könnten so viel machen
 Steh auf!  
 Steh wieder auf!  
 Steh auf!  
-Steh wieder auf!  [[aufstehen]]
+Steh wieder auf!
+
+[[her]]
   
 Bleib nicht liegen, es wär schade  
 Zirkus ist heut in der Stadt  

@@ -5,7 +5,7 @@ haben [[aufgebaut]]
 ---
 SAM: Ich helfe dir beim [[aufbauen]] … Wo ist die Anleitung?  
 
-SASCHA: Hast du in deinem [[leben]] schon mal ein Regal [[aufgebaut]]?  
+SASCHA: Hast du in deinem [[Leben]] schon mal ein Regal [[aufgebaut]]?  
 
 AN: NADJA / VON: ANNA Ja, Sam [[aufbauen|baut]] noch immer das Regal auf.  
 

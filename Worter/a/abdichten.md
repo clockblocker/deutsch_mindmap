@@ -1,1 +1,2 @@
 , [[bohren]], [[dicht]]
+, [[zumachen]]

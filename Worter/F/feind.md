@@ -4,6 +4,8 @@ die [[Feinde]]
 ---
 _[[Aufgebracht]]_ Aha! Der [[Verräter]] [[gesteht]] sogar. Krieger, sofort weg vom [[Feind]]! Der [[Fremde]] wird aus unserem Dorf [[verbannt]].
 
+Ich kämpfe gegen meinen [[Feind]]
+
 
 ---
 = [[Gegner]], [[Widersacher]], [[Antagonist]]

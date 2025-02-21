@@ -30,3 +30,4 @@ Plural: [[jene]], [[jene]], [[jene]]
 
 ---
 [[jenige]], [[jenseitig]], [[jenseits]]
+, [[Artikelwörter]]

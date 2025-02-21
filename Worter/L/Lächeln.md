@@ -1,5 +1,8 @@
 😊 [[Lächeln]], [[lächelte]], haben [[gelächelt]]
 
+[[ln]] - [[wenig]]
+[[Auftragslage]]
+
 ---
 STEFAN: Sascha, dein [[Lächeln]] … ist so süß.  
 Und hier ist das Wetter. Freundlich [[lächeln]].

@@ -3,3 +3,4 @@
 , [[Miete]]
 , [[rechter]]
 , [[Durchhaltevermögen]]
+, [[Alle]]

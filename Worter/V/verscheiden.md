@@ -5,7 +5,7 @@ Darauf tat sie die Augen zu und [[verschied]]. Das Mädchen ging jeden Tag hinau
 
 ---
 Synonyme: [[sterben]], [[ableben]], [[entschlafen]], [[dahingehen]], [[versterben]]
-Antonyme: [[leben]], [[auferstehen]], [[erwachen]]
+Antonyme: [[Leben]], [[auferstehen]], [[erwachen]]
 
 ---
 to pass away, to die

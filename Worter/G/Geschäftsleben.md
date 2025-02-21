@@ -15,7 +15,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Geschäft]][[s]][[leben]]
+[[Geschäft]][[s]][[Leben]]
 
 ---
 Einzigartige mögliche Formen: [[Geschäftsleben]]

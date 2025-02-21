@@ -34,5 +34,5 @@ Morpheme: [[er]][[leb]][[en]]
 | Sie       | [[erleben]]          | [[erlebten]]          | [[erleben Sie]]   | [[erleben]]            | [[erlebten]]            |
 
 Partizip I: [[erlebend]], Partizip II: [[erlebt]]
-[[erleben]] - [[er]] = [[leben]]
+[[erleben]] - [[er]] = [[Leben]]
 ''', [[genießen]], [[Erlebnis]]

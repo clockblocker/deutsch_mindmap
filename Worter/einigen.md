@@ -31,3 +31,4 @@ Zu+infinitive: [[zueinigen]]
 
 ---
 [[Einigung]], [[Vereinigung]], [[Einvernehmen]], [[Übereinstimmung]], [[Einigkeit]]
+, [[einig]]

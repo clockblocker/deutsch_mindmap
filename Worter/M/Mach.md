@@ -1,1 +1,3 @@
 [[machen]], [[durchmachen]]
+, [[zumachen]]
+, [[aufmachen]]

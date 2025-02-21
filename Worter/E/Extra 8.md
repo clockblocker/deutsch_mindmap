@@ -1,1 +1,1 @@
-, [[eigentlich]], [[leben]], [[fassen]], [[Anleitung]], [[Traum]], [[erschöpft]], [[Zettel]]
+, [[eigentlich]], [[Leben]], [[fassen]], [[Anleitung]], [[Traum]], [[erschöpft]], [[Zettel]]

@@ -1,1 +1,1 @@
-, [[leben]], [[Lebzeiten]], [[daß]]
+, [[Leben]], [[Lebzeiten]], [[daß]]

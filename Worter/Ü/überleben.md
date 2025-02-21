@@ -24,11 +24,11 @@ ihr: [[überlebt]], [[überlebtet]], [[überlebt]], [[überlebt]], [[überlebtet
 PI: [[überlebend]], PII: [[überlebt]], Zu+inf: [[zu überleben]]
 
 ---
-[[überleben]] - [[über]] = [[leben]] / to survive, to live through
+[[überleben]] - [[über]] = [[Leben]] / to survive, to live through
 
 ---
 [[Überleben]], [[Überlebender]], [[Überlebende]], [[überlebenswichtig]], [[Überlebenskampf]]
 
-[[leben]], [[eingehen]], [[überlebt]]
+[[Leben]], [[eingehen]], [[überlebt]]
 
 🧘 [[überleben]], [[w-l]]
