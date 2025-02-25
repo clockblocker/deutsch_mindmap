@@ -1,6 +1,10 @@
 https://www.youtube.com/watch?v=nRBXT1QSbeQ
 
-"Sammeln Sie Punkte? Dankeschön." Tja, diese Frage hört man mittlerweile an jeder Supermarktkasse und Millionen von Deutschen machen jeden Tag mit. Aber warum eigentlich? Wir haben den größten Punktelieferanten Payback besucht und herausgefunden, ob er den Kunden wirklich etwas zurückbezahlt, wie der Name verspricht. 
+валентина лепешкина
+
+[[1 Payback und Co. - Wer profitiert von Punktesystemen.md#^1|(q)]] "[[Sammeln]] Sie Punkte? Dankeschön. Tja, diese Frage hört man mittlerweile an jeder Supermarktkasse und Millionen [[von]] Deutschen machen jeden Tag mit" ^1
+
+. Aber warum eigentlich? Wir haben den größten Punktelieferanten Payback besucht und herausgefunden, ob er den [[Kunden]] wirklich etwas zurückbezahlt, wie der Name verspricht. 
 
 Dreieinhalb Millionen Mal am Tag zeigen wir Deutschen an der Kasse unsere Punktekarte vor. Und ganze 28 Millionen Menschen hierzulande sammeln sie. Payback-Punkte – Sinn oder Unsinn? 
 

@@ -3,6 +3,8 @@
 haben [[gesammelt]]
 
 ---
+[[1 Payback und Co. - Wer profitiert von Punktesystemen.md#^1|(q)]] "[[Sammeln]] Sie Punkte? Dankeschön. Tja, diese Frage hört man mittlerweile an jeder Supermarktkasse und Millionen von Deutschen machen jeden Tag mit" ^1
+
 Tränen [[sammelten]] sich in Petunias Augen.
 
 Ich [[sammle]] [[Münze]]

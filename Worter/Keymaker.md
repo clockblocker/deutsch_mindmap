@@ -7,8 +7,6 @@ Der Chef hat mir gesagt, alle meine Dokumente ins Büro zu sagen.
 `Конкретные места в словах, где есть грамматическая ошибка -- тоже`
 Der Chef haben mir gesagt, alle mein Dokument ins Büro zu sagen.
 
-
-
 ---
 `Не немецкий текст будет переведет на немецкий`
 Наш коллега пообещал нам собраться мыслями и ответить на все наши вопросы.
@@ -55,6 +53,11 @@ Unser Kollege hat uns versprochen sich zu sammeln und all unser Sache zu beantwo
 
 1. Он делает все неправильно.
 2. Я не могу для вас ничего сделать   
+
+
+я должен завершить все свои дела на работе до того, как уйду в продолжительный отпуск. перенесу все уроки с будних на выходные
+
+Ich muss alle meine Aufgaben auf der Arbeit erledigen, bevor ich in einen langen Urlaub gehe. Ich verschiebe alle Stunden von den Wochentagen auf das Wochenende.
 
 
 

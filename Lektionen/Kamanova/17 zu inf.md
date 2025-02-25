@@ -157,7 +157,7 @@ Unsere Freunde sind gefahren, um [[ihren]] Kollegen zu gratulieren
 “Der junge Mann *lehrt* Kinder tanzen.”
 
 
-1. Помогите мне прыгнуть!
+1. Помогите мне прыгнуть! Hilf mir zu springen!
 2. Помогите нам открыть дверь. Helfen Sie uns die Tür zu offnen 
 3. Мы слышали, как кто-то позвонил в дверь
 Wie haben gehört, wie jemand an der Tür [[geklingelt]] hat
@@ -210,6 +210,16 @@ Ich habe vergessen, **den Kollegen anzurufen**.
 9. Du hast mir heute Morgen nicht gesagt die ganze Wohnung zu ..... (aufräumen).
 10. Meine Schwester hofft, am Weihnachtsfest sehr gut zu ..... (aussehen).
 11. Die Großmutter hat wieder vergessen, die Tabletten zu ..... (einnehmen).
+
+12. Meine Schwester hofft, am Weihnachtsfest sehr gut ==aus==zu==sehen==.
+13. Die Großmutter hat wieder vergessen, die Tabletten ==ein==zu==nehmen==.
+
+14. Meine Schwester hofft, am Weihnachtsfest sehr gut auszusehen.
+15. Die Großmutter hat wieder vergessen, die Tabletten einzunehmen.
+16. Meine Schwester hofft, am Weihnachtsfest sehr gut ==aus==zu==sehen==.
+17. Die Großmutter hat wieder vergessen, die Tabletten ==ein==zu==nehmen==.
+
+
 
 ---
 
