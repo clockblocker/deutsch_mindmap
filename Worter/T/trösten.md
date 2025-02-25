@@ -32,3 +32,4 @@ Zu+infinitive: [[zu trösten]]
 
 ---
 [[Trost]], [[Tröster]], [[Tröstern]], [[Trostlosigkeit]], [[trostlos]], [[trostreich]]
+, [[ärgern]]

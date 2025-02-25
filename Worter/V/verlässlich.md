@@ -1,1 +1,2 @@
 [[Treu]], [[garantiert]], [[sicher]]
+, [[pünktlich]]

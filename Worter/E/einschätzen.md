@@ -1,2 +1,3 @@
 , [[schätzen]], [[unterschätzen]]
 , [[Selbsteinschätzung]]
+, [[beurteilen]]

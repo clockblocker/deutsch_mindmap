@@ -15,3 +15,7 @@
 , [[Verabredung]]
 , [[verträumen]]
 , [[verträumt]]
+, [[verschaffen]]
+, [[Vermieter]]
+, [[einverstanden]]
+, [[verabreden]]

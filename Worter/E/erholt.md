@@ -1,1 +1,1 @@
-, [[ausgeruht]], [[erschöpft]]
+😌 [[erholen]]

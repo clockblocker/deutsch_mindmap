@@ -3,6 +3,9 @@
 ---
  Die beiden Polizisten finden das sehr [[verdächtig]]. 
  „Wie kann es sein, dass keiner etwas von dem Geldkoffer weiß? Wieso [[verrät]] keiner, wer den Koffer gestohlen hat?“, fragt der Polizist. 
+
+[[0 checklist#^7|(q)]] Unsere sieben Tipps für die Wohnungssuche [[verraten]] dir, worauf Vermieter [[Wert]] legen und wie die ideale [[Wohnungsbewerbung]] aussieht. ^7
+
  
 ---
 Synonyme: [[ausplaudern]], [[preisgeben]], [[enthüllen]], [[offenbaren]], [[verraten]]

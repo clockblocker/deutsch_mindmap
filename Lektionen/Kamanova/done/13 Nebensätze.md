@@ -285,7 +285,7 @@ Wenn ein Modalverb da ist, klingt Präteritum oft natürlicher als Passiv. Wenn 
 38. Er erzählte uns, warum er einen neuen Wagen kaufen möchte (Er möchte einen neuen Wagen kaufen).  
 39. Er sagte uns nicht, warum seine Freundin unsere Hilfe brauchte (Seine Freundin brauchte unsere Hilfe).  
 40. Ihr antwortet nicht, warum ihr heute so spät aufgestanden seid (Ihr standet heute so spät auf).
-
+[[keymaker]]
 13.7 Раскройте скобки и заполните пропуски придаточными предложениями причины.
 Обратите внимание на употребление придаточных с союзным словом da преимущественно перед главным предложением:
 

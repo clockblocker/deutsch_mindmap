@@ -24,3 +24,4 @@ Einzigartige mögliche Formen:
 
 [[richtig]], [[wahr]], [[s1 e1]], [[recht]], [[passend]]
 , [[verdreht]]
+, [[gut]]

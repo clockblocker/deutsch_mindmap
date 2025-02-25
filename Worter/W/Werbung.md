@@ -18,3 +18,4 @@ Morphems:
 
 ---
 #Substantiv #Feminin, [[Anzeige]], [[Produktrezension]]
+, [[Inserat]]

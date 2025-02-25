@@ -31,3 +31,4 @@ Tags:
 
 Morphems:
 [[sondern]], [[CONNECTOR]], [[Anki]]
+, [[als]]

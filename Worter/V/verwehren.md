@@ -1,1 +1,2 @@
 [[übergeben]], [[schenken]]
+, [[verschaffen]]

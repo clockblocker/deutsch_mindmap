@@ -1,77 +1,33 @@
-😠 [[ärgern]]
-[[ärgerte]]
-haben [[geärgert]]
+😠 [[ärgern]], [ˈɛʁɡɐn] | [[ärgerte]], haben [[geärgert]]
 
 ---
-Ja, darüber wollen wir uns nicht [[ärgern]].
+Ja, [[darüber]] wollen wir uns nicht [[ärgern]].
+
+[[Eine Extrawurst bekommen.md#^4|(q)]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange [[darüber]], dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
 
 ---
-
-Synonyme:
-- [[verärgern]], [[aufregen]], [[ärgerlich machen]]
-
----
-
-Beispiele:
-
-😠 [[ärgern]]
-- Ich [[ärgere]] mich über das schlechte Wetter.
-- Du [[ärgerst]] deine Schwester oft.
-- Er [[ärgert]] sich über den Stau.
-- Wir [[ärgern]] uns über die hohen Preise.
-- Ihr [[ärgert]] euch wegen Kleinigkeiten.
-- Sie [[ärgern]] sich über die laute Musik.
+= [[verärgern]], [[aufregen]], [[verdrießen]]
+≈ [[belästigen]], [[nerven]], [[stören]]
+≠ [[beruhigen]], [[erfreuen]], [[trösten]], [[behagen]], [[amüsieren]]
 
 ---
-**Übersetzung**: to annoy, to irritate, to anger
+to annoy, to bother, to irritate
+злить, раздражать
 
 ---
-
-Morphems of only infinitive:
-[[ärger]][[n]]
+[[ärg]]|[[ern]]
 
 ---
-Tags:
-#Verb
+ich: [[ärgere]], [[ärgerte]], –, [[ärgere]], [[ärgerte]]
+du: [[ärgerst]], [[ärgertest]], [[ärgere]] | [[ärger]], [[ärgerst]], [[ärgertest]]
+er/sie/es: [[ärgert]], [[ärgerte]], –, [[ärgere]], [[ärgerte]]
+wir: [[ärgern]], [[ärgerten]], [[ärgern wir|ärgern]], [[ärgern]], [[ärgerten]]
+ihr: [[ärgert]], [[ärgertet]], [[ärgert]], [[ärgert]], [[ärgertet]]
+
+PI: [[ärgernd]], PII: [[geärgert]], Zu+inf: [[zu ärgern]]
 
 ---
-
-Präteritum:
-
-- Ich [[ärgerte]] mich über den Lärm.
-- Du [[ärgertest]] ihn mit deinem Verhalten.
-- Er [[ärgerte]] sich über den Regen.
-- Wir [[ärgerten]] uns über die Verspätung.
-- Ihr [[ärgertet]] euch über den Fehler.
-- Sie [[ärgerten]] sich über die Unordnung.
+[[ärgern]] - / to annoy, to bother, to irritate
 
 ---
-
-Imperativ:
-
-- [[ärgere]] dich nicht so sehr!
-- [[ärgert]] euch nicht über Kleinigkeiten!
-- [[Ärgern wir]] uns nicht darüber!
-- [[Ärgern Sie]] sich nicht zu sehr!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[ärgere]] mich nicht.
-- Sie meint, du [[ärgerst]] dich zu oft.
-- Er behauptet, er [[ärgere]] sich selten.
-- Wir erklären, wir [[ärgern]] uns nur selten.
-- Ihr sagt, ihr [[ärgert]] euch darüber.
-- Sie sagen, sie [[ärgern]] sich kaum.
-
----
-
-Konjunktiv II:
-
-- Wenn ich mehr Geduld hätte, [[ärgerte]] ich mich nicht so schnell.
-- Wenn du ruhiger wärst, [[ärgertest]] du dich weniger.
-- Wenn er gelassener wäre, [[ärgerte]] er sich nicht so sehr.
-- Wenn wir entspannt wären, [[ärgerten]] wir uns nicht.
-- Wenn ihr weniger stressig wäret, [[ärgertet]] ihr euch nicht.
-- Wenn sie es ignorieren könnten, [[ärgerten]] sie sich nicht., [[11 08]], [[behagen]]
+[[Ärger]], [[ärgerlich]], [[geärgert]]

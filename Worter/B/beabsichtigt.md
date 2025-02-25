@@ -1,1 +1,2 @@
 , [[zufällig]], [[absichtlich]]
+, [[beabsichtigen]]

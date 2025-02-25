@@ -52,3 +52,4 @@ Einzigartige mögliche Formen:
 , [[fernab]], [[weit und breit]], [[begrenzen]], [[speziell]]
 , [[althochdeutsch]]
 , [[anstoßen]]
+, [[lang]]

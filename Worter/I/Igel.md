@@ -1,23 +1,26 @@
-🔵 der [[Igel]], [ˈiːɡəl]
+🔵 🦔 der [[Igel]], [ˈiːɡl̩]
 die [[Igel]]
-
 
 ---
 Sag’ ihr, ich habe einen [[Igel]] gefressen
 
 ---
-Synonyme:
-- [[Stachelschwein]], [[Nabel]]
+= [[Stachelschwein]], [[Borstentier]]
+≈ [[Wildtier]], [[Nachtaktiv]], [[Stachel]]
+≠ [[Haustier]], [[Katze]], [[Hund]]
 
 ---
-Übersetzung: hedgehog
+hedgehog
+ёж
 
 ---
-Morpheme:
 [[Igel]]
 
 ---
-Einzigartige mögliche Formen: [[Igels]], [[Igel]], [[Igeln]]
+N: der [[Igel]], die [[Igel]]
+A: den [[Igel]], die [[Igel]]
+G: des [[Igels]], der [[Igel]]
+D: dem [[Igel]], den [[Igeln]]
 
 ---
-#Substantiv #Maskulin, [[fressen]], [[Extra 8]]
+[[igelartig]], [[Igelchen]], [[Igelhaus]]

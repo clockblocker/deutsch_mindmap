@@ -32,3 +32,4 @@ P: [[knappen]], [[knapperen]], [[knappsten]]
 
 [[weit]], [[Kaum]], [[Ausführlich]]
 , [[viel]]
+, [[lang]]

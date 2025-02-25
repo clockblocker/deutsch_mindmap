@@ -21,3 +21,4 @@ Morphems:
 
 ---
 #Substantiv #Masculin, [[11 08]]
+, [[geschmacklos]]

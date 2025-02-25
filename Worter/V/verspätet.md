@@ -1,1 +1,2 @@
 , [[rechtzeitig]], [[früh]], [[verspäten]]
+, [[pünktlich]]

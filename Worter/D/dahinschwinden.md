@@ -1,1 +1,2 @@
 , [[vergehen]], [[schwinden]]
+, [[verschwinden]]

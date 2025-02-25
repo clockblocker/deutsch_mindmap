@@ -2,6 +2,8 @@
 die [[Eindrücke]]
 
 ---
+[[0 checklist#^4|(q)]] Um zu zeigen, dass du genau das bist, ist vor allem der erste [[Eindruck]] wichtig. ^4
+
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
 [[16 Plusquamperfekt#^25|(q)]] Sie war bestimmt begabt und konnte noch einen großen [[Erfolg]] haben. Aber sie stand unter dem [[Eindruck]] des [[Unglücks]] und konnte nur an Tiefe denken. Ihr Selbstmord war nichts anderes, als ihr persönlicher starker Zwang zur Tiefe.» ^25

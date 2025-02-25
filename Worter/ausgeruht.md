@@ -25,3 +25,4 @@ P: [[ausgeruhten]], [[ausgeruhtteren]], [[ausgeruhtesten]]
 
 ---
 [[ruhen]], [[Ruhe]], [[ausruhen]], [[Ausruhen]], [[Erholung]]
+, [[erholen]]

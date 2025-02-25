@@ -6,6 +6,7 @@ Mutter Birgit seufzt: „Wie sollen wir all diese [[Wünsche]] unter einen Hut b
 
 Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfungen]].
 
+Er hat den [[Wunsch]] seinen Urlaub auf dem Lande zu [[verbringen]].
 
 *[[Kaum]] der [[Wunsch]] gesprochen [[ward]],*  
 *als die Türe [[leise]] [[knarrt]]:*  

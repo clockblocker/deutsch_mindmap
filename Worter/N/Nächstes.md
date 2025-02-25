@@ -43,3 +43,4 @@ Tags:
 ---
 Morphems:
 [[nächst]]
+, [[nah]]

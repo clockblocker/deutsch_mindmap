@@ -1,1 +1,2 @@
 , [[bös]], [[böse]], [[gereizt]]
+, [[ärgern]]

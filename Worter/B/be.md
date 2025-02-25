@@ -7,3 +7,8 @@
 , [[Beziehung]]
 , [[mitbekommt]]
 , [[Beschäftigung]]
+, [[Bewerbung]]
+, [[bestücken]]
+, [[bevorzugen]]
+, [[beabsichtigen]]
+, [[beurteilen]]

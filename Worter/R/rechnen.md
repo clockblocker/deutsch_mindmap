@@ -12,6 +12,7 @@ Leider hatte sie nicht mit der [[Finanzkrise]] [[gerechnet]]. [[Innerhalb]] von 
 
 ---
 [[zusammenrechnen]] - [[zusammen]] = [[rechnen]] / totaled
+[[ausrechnen]] - [[aus]] = [[rechnen]] / to calculate, to figure out
 
 
 ---
@@ -40,3 +41,4 @@ Morpheme: [[rechn]][[en]]
 
 Partizip I: [[rechnend]], Partizip II: [[gerechnet]]
 , [[bitten]], [[schmieren]]
+, [[ausrechnen]]

@@ -1,1 +1,2 @@
 🌟 [[prächtig]] | 🌟 [[prächtigen]]
+, [[nirgendwo]]

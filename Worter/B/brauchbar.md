@@ -1,1 +1,2 @@
 , [[Nützliches]], [[nutzlos]]
+, [[gut]]

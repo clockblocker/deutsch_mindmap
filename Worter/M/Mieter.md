@@ -5,6 +5,8 @@ die [[Mieter]]
 ---
 ANNA: An alle [[Mieter]] - Meine Kusine, Ihre [[Vermieterin]], hat diese Woche Urlaub 
 
+[[0 checklist#^3|(q)]] Ziel jedes [[Vermieters]] und [[Immobilienmaklers]] ist der perfekte [[Mieter]]. ^3
+
 ---
 Synonyme:
 - [[Wohnungsinhaber]], [[Pächter]], [[Bewohner]], [[Untermieter]]
@@ -22,3 +24,4 @@ Einzigartige mögliche Formen: [[Mieters]], [[Mieter]], [[Mietern]]
 ---
 #Substantiv #Maskulin, [[Extra 8]], [[Miethaus]]
 , [[Miete]]
+, [[Vermieter]]

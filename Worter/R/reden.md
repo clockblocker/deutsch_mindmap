@@ -15,6 +15,7 @@ Nach 15 Minuten [[redete]] der Schauspieler immer noch [[ohne Punkt und Komma]] 
 
 ---
 [[überreden]] - [[über]] = [[reden]] / to persuade, to convince
+[[verabreden]] - [[ver]] - [[ab]] = [[reden]] / to arrange, to make an appointment
 
 
 ---

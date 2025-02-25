@@ -28,3 +28,4 @@ Dative: der [[Nähe]], den [[Nähen]]
 
 ---
 [[nahe]], [[näher]], [[genähert]], [[annähern]], [[erwarten]], [[Entfernung]]
+, [[nah]]

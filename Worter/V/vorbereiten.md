@@ -3,9 +3,9 @@
 ---
 [[1 Präpositionen Übungen.md#^6|(q)]] e) Sie hat sich [[auf]] die schwierige Prüfung intensiv [[vorbereitet]]. ^6
 
-1) prap ist ine Konig
-2) veb ist iein. konig 
-3) 
+Ich fange an, mich auf die Reise [[vorzubereiten]].
+
+Ich [[vorbereiten|bereite]] mich [[auf]] die Reise vor.
 
 [[Soweit]] ich verstehe, muss ich wirklich gut auf Hören/Lesen [[vorbereitet]] sein.
 

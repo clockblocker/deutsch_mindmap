@@ -5,6 +5,8 @@ haben [[bestanden]]
 ---
 Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
 
+Ich lerne Deutsch, um die Prüfung [[erfolgreich]] zu [[bestehen]].
+
 Was ist besser, [[um]] mich [[zu]] trainieren? umgangssprache oder hochdeutsch, wenn mein ziel ist, c1 zu [[bestehen]]?
 
 Ich habe die Prüfung nicht [[bestanden]], aber [[zumindest]] habe ich es versucht.

@@ -8,6 +8,10 @@ haben [[gelernt]]
 von jdm
 aus etwa (A)
 
+---
+[[kennenlernen]] - [[kennen]] = [[lernen]] / to get to know, to meet
+
+
 
 ---
 Synonyme: [[studieren]], [[üben]], [[trainieren]], [[sich aneignen]], [[sich einprägen]]
@@ -34,3 +38,4 @@ Morpheme: [[lern]][[en]]
 Partizip I: [[lernend]], Partizip II: [[gelernt]]
 
 [[lernen]] - [[en]] = [[lern]], [[ablehnen]], [[Weiterbildung]], [[erfahren]], [[Wiederholungskarte]], [[Erwachsenenanfängergruppe]], [[Erlernung]], [[lehren]], [[auswendig]]
+, [[kennenlernen]]

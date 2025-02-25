@@ -1,26 +1,27 @@
-🟢 das [[Kaninchen]]
+🟢 🐇 das [[Kaninchen]], [kaˈnɪnçən]
 die [[Kaninchen]]
 
+---
 Der Unterschied ist, ‚A’ ist Saftige Happen mit [[Kaninchen]]…und ‚B’ ist Saftige Happen mit [[Huhn]]!  
 
-
-Beispiele:
-
-- Das [[Kaninchen]] hoppelte über die Wiese.
-- Sie hat zwei [[Kaninchen]] als Haustiere.
-- Die Kinder füttern das [[Kaninchen]] mit Karotten.
+---
+= [[Hase]], [[Langohr]]
+≈ [[Nager]], [[Kleintier]], [[Fellnase]]
+≠ [[Raubtier]], [[Wildtier]], [[Haustier]]
 
 ---
-Synonyme:
-- [[Häschen]], [[Hase]], [[Nagetiere]]
+rabbit
+кролик
 
 ---
-**Übersetzung**: rabbit, bunny
+[[Kaninchen]]
 
 ---
-
-Morphems:
-[[Kanin]][[chen]]
+N: das [[Kaninchen]], die [[Kaninchen]]
+A: das [[Kaninchen]], die [[Kaninchen]]
+G: des [[Kaninchens]], der [[Kaninchen]]
+D: dem [[Kaninchen]], den [[Kaninchen]]
 
 ---
-#Substantiv #Neuter
+[[kaninchenartig]], [[Kaninchenfell]], [[Kaninchenstall]]
+

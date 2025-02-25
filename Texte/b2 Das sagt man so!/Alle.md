@@ -13,7 +13,7 @@
 - [x] [[Ein dickes Fell haben]] 
 - [x] [[Ein Tropfen auf den heißen Stein]] 
 - [x] [[Eine Doktorarbeit aus etwas machen]]
-- [ ] [[Eine Extrawurst bekommen]] 
+- [x] [[Eine Extrawurst bekommen]] 
 - [ ] [[Einen Kater haben]]
 - [ ] [[Einen Korb bekommen]]
 - [ ] [[Einen Ohrwurm haben]]

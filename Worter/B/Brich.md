@@ -1,1 +1,2 @@
 💥 [[brechen]]
+, [[zusammenbrechen]]

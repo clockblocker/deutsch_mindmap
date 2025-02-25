@@ -33,3 +33,4 @@ Morpheme: [[kürs]][[en]]
 
 Partizip I: [[kürzend]], Partizip II: [[gekürzt]]
 , [[Kürzung]]
+, [[rasieren]]

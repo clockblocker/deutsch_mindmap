@@ -23,3 +23,4 @@ Morpheme:
 [[dauernd]]
 
 ---, [[dauern]], [[Extra 8]]
+, [[lang]]

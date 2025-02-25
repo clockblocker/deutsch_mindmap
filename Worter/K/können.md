@@ -2,6 +2,7 @@
 
 ---
 
+
 ---
 = [[imstande sein]],  [[mögen]] , [[imstande sein zu]]  
 ≈ [[erlauben]], [[dürfen]], [[fähig sein]], [[etwas tun]]

@@ -1,7 +1,10 @@
 ↔️ [[genauso]], [geˈnaʊ̯zoː]
 
 ---
-[[16 Plusquamperfekt#^31|(q)]] Seine Aussagen sind [[genauso]] interessant wie seine Bilder: ^31  
+[[16 Plusquamperfekt#^31|(q)]] Seine Aussagen sind [[genauso]] interessant [[wie]] seine Bilder: ^31  
+
+Der Löwe ist [[genauso]] schnell [[wie]] der Tiger.
+Der Tiger ist schneller [[als]] das Pferd
 
 ---
 = [[gleich]], [[desgleichen]]

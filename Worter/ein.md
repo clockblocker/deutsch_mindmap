@@ -5,3 +5,5 @@
 , [[Was für ein?]]
 , [[einig]]
 , [[einschlafen]]
+, [[umsteigen]]
+, [[einverstanden]]

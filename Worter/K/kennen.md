@@ -4,6 +4,8 @@
 
 ---
 [[auskennen]] - [[K/Konjunktion/aus]] = [[kennen]] / familiar
+[[kennenlernen]] - [[kennen]] = [[lernen]] / to get to know, to meet
+
 
 ---
 
@@ -36,3 +38,4 @@ Zu+infinitive: [[zu kennen]]
 
 [[Englischkenntnisse]], [[auskennen]]
 , [[erfahren]], [[Unbekannten]], [[auswendig]]
+, [[kennenlernen]]

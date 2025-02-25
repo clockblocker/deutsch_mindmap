@@ -1,1 +1,2 @@
 , [[erschöpft]]
+, [[Erschöpfung]]

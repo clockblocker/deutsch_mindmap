@@ -2,6 +2,9 @@
 [[freuen]] sich [[auf]] + Akk
 
 ---
+1. Сын радует отца. Der Sohn [[erfreust]] den Vater
+2. Отец радуется сыну. Der Vater [[freut]] sich [[über]] seinen Sohn.
+
 *Paulinchen aber [[freut]] sich sehr*  
 *und sprang im Zimmer hin und her.*  
 

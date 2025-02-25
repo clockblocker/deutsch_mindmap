@@ -1,9 +1,9 @@
-🌟 [[großartig]], [ˈɡʁoːsˈʔaʁtɪç] = 
+🌟 [[großartig]], [ˈɡʁoːsˈʔaʁtɪç] = [[toll]]
 
 ---
 du machst das [[grossartich]]
 
-[[toll]]
+1. Я чувствую себя отлично! Ich fühle mich [[großartig]]! 
 
 ---
 = 🌟 [[toll]], [[hervorragend]], [[ausgezeichnet]], [[überragend]]

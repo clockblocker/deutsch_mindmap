@@ -5,3 +5,4 @@
 , [[unverbesserlich]]
 , [[versehentlich]]
 , [[innerlich]]
+, [[pünktlich]]

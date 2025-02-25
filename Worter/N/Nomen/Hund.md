@@ -12,3 +12,4 @@ Translation:
 
 #Substantiv #Masculin 
 , [[wie Hund und Katze sein]]
+, [[Igel]]

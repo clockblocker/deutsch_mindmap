@@ -5,6 +5,8 @@ die [[Absichten]]
 ---
 Teiko to Kuro: Magst du das immer mit [[Absicht]]?
 
+Meine Frau hat die [[Absicht]] an die Nordsee zu fahren
+
 ---
 = [[vorhaben]], [[Plan]], [[Ziel]]
 ≈ [[Intention]], [[Vorsatz]], [[vorhaben]], [[Entschluss]]

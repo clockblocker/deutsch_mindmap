@@ -1,4 +1,4 @@
-🌟[[erscheinen]] über dem, [ɛɐ̯ˈʃaɪ̯nən]
+🌟[[erscheinen]] über dem, [ɛɐ̯ˈʃaɪ̯nən] != [[verschwinden]]
 [[erschien]]
 sein [[erschienen]]
 

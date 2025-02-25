@@ -22,3 +22,4 @@ suit
 
 Morphems of only infinitive:
 [[Anzug]], [[11 08]], [[Bekleidung]]
+, [[anziehen]]

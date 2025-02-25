@@ -32,3 +32,5 @@ PI: [[vermeidend]], PII: [[vermieden]], Zu+inf: [[zu vermeiden]]
 
 ---
 [[Meide]], [[Vermeidung]], [[vermeidbar]], [[vermeidlich]]
+, [[kennenlernen]]
+, [[beabsichtigen]]

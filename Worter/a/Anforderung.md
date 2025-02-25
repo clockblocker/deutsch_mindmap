@@ -1,1 +1,26 @@
-, [[Nachfrage]], [[Bedingung]]
+🔴 ⚙️ die [[Anforderung]], [ˈanfoːrdərʊŋ]
+die [[Anforderungen]]
+
+---
+[[0 checklist#^2|(q)]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die [[Bewerbung]]? ^2
+ 
+---
+= [[Bedarf]], [[Erfordernis]], [[Forderung]], [[Bedingung]]
+≈ [[Bedingung]], [[Voraussetzung]], [[Kriterium]]
+≠ [[Angebot]], [[Erfüllung]], [[Nachgiebigkeit]]
+
+---
+requirement, demand
+требование
+
+---
+[[An]]|[[forderung]]
+
+---
+N: die [[Anforderung]], die [[Anforderungen]]
+A: die [[Anforderung]], die [[Anforderungen]]
+G: der [[Anforderung]], der [[Anforderungen]]
+D: der [[Anforderung]], den [[Anforderungen]]
+
+---
+[[anfordern]], [[Anforderer]], [[Anforderin]], [[anfordernd]], [[anforderbar]]

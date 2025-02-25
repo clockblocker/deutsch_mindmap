@@ -31,3 +31,4 @@ Morpheme: [[unter]][[halt]][[en]]
 
 Partizip I: [[unterhaltend]], Partizip II: [[unterhalten]]
 [[unterhalten]] - [[unter]] = [[halten]], [[beschäftigen]], [[langweilen]], [[Unterhaltung]]
+, [[amüsieren]]

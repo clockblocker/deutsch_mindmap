@@ -31,3 +31,4 @@ Morpheme: [[fest]][[stell]][[en]]
 Partizip I: [[festellend]], Partizip II: [[festgestellt]]
 
 [[feststellen]] - [[fest]] = [[stellen]]
+, [[ausrechnen]]

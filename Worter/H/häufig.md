@@ -3,7 +3,9 @@
 ---
 Weil die Krankheit sehr [[häufig]] [[auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 
-71. Wo [[aufhalten|hält]] sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am [[häufigsten]] auf? Am [[häufigsten]] ist er / sie … (98%)
+Ich hoffe ihn jetzt [[häufiger]] zu sehen
+
+1. Wo [[aufhalten|hält]] sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am [[häufigsten]] auf? Am [[häufigsten]] ist er / sie … (98%)
 	- [x] in Berlin, weil sich dort das [[Bundeskanzleramt]] und der Bundestag [[befinden]].
 
 ---

@@ -31,3 +31,4 @@ PI: [[schaffend]], PII: [[geschaffen]], Zu+inf: [[zu schaffen]]
 
 ---
 [[Schaffung]], [[erschaffen]], [[Schöpfung]], [[Schaffenskraft]], [[Erschaffung]], [[Werk]], [[erreichen]], [[erstellen]], [[abschaffen]], [[scheitern]], [[w-l]], [[Arbeit]]
+, [[verschaffen]]

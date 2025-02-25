@@ -1,1 +1,3 @@
 , [[Esel]]
+, [[Kaninchen]]
+, [[Igel]]

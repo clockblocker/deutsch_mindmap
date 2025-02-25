@@ -4,24 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "968d7ee9ade53125",
+        "id": "cf474c1f8ba7cf80",
         "type": "tabs",
         "children": [
           {
-            "id": "0376aab058cb77c8",
+            "id": "c4681906993136db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Bekker/20.md",
+                "file": "Lektionen/Kamanova/done/16 Plusquamperfekt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20"
+              "title": "16 Plusquamperfekt"
+            }
+          },
+          {
+            "id": "2f8a75b00555fadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/done/13 Nebensätze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 Nebensätze"
+            }
+          },
+          {
+            "id": "46c02391c87f952c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Kamanova/17 zu inf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17 zu inf"
+            }
+          },
+          {
+            "id": "23a1b4857bfc803a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Keymaker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keymaker"
+            }
+          },
+          {
+            "id": "0b881a7b499f6bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/keymaker unfilled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "keymaker unfilled"
+            }
+          },
+          {
+            "id": "23235b0db67bcf7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/U/umsonst.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "umsonst"
+            }
+          },
+          {
+            "id": "0f839842f758f794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/c1/Galileo/1 Payback und Co. - Wer profitiert von Punktesystemen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Payback und Co. - Wer profitiert von Punktesystemen"
+            }
+          },
+          {
+            "id": "4e162f086badb472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/E/erscheinen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "erscheinen"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 357.50271224975586
   },
   "right": {
     "id": "0ab1e072fc4dd144",
@@ -168,34 +267,42 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0376aab058cb77c8",
+  "active": "23a1b4857bfc803a",
   "lastOpenFiles": [
-    "Texte/c1/dw/6 Die Automatisierung.md",
-    "Lektionen/Bekker/20.md",
-    "Worter/A/abholen.md",
-    "Worter/A/aufmachen.md",
-    "Worter/M/machen.md",
-    "Worter/Z/zumachen.md",
-    "Worter/A/Aufmachung.md",
-    "Worter/A/aufzumachen.md",
-    "Worter/A/aufschrauben.md",
-    "Worter/A/aufknöpfen.md",
-    "Worter/zudrücken.md",
-    "Worter/begeben.md",
-    "Worter/A/aufzukriegen.md",
-    "Worter/Z/Zuschuss.md",
-    "Worter/Z/zuzumachen.md",
-    "Worter/Z/zumachend.md",
-    "Worter/M/machst zu.md",
-    "Worter/E/einladen.md",
-    "Worter/S/Schlaflied.md",
-    "Worter/E/Einschlaf.md",
-    "Worter/E/einzuschlafen.md",
-    "Worter/E/einschlafend.md",
-    "Worter/S/schlafet ein.md",
-    "Worter/S/schlieft ein.md",
-    "Worter/S/schlaft ein.md",
-    "Worter/S/schlafen wir ein.md",
+    "Worter/keymaker unfilled.md",
+    "Worter/Keymaker.md",
+    "Worter/A/Angelegenheit.md",
+    "Worter/T/thema.md",
+    "Lektionen/Kamanova/17 zu inf.md",
+    "Texte/HPMOR/5. Der fundamentale Attributionsfehler.md",
+    "Texte/yt/Simplicissimus1/0.md",
+    "Worter/F/fragen.md",
+    "Worter/F/Frage.md",
+    "Lektionen/Kamanova/done/13 Nebensätze.md",
+    "Lektionen/Kamanova/done/11 Tren.md",
+    "Lektionen/Kamanova/done/8 Imperativ.md",
+    "Lektionen/Kamanova/done/16 Plusquamperfekt.md",
+    "Texte/c1/studtsbuch/1 Freizeit.md",
+    "Texte/c1/Begehen, entgehen, ergehen, vergehen, zergehen – Präfixverben und ihre Bedeutung.md",
+    "Texte/c1/Der elterliche Handykonsum und seine Folgen.md",
+    "Texte/c1/Galileo/1 Payback und Co. - Wer profitiert von Punktesystemen.md",
+    "Texte/c1/abra lesen/M1A1.md",
+    "Texte/c1/abra lesen/M1A2.md",
+    "Texte/c1/studtsbuch/2 Wolfgang Brenner.md",
+    "Texte/c1/studtsbuch/0 checklist.md",
+    "Lektionen/Bekker/32.md",
+    "Worter/S/schon.md",
+    "Worter/L/lange.md",
+    "Worter/L/lang.md",
+    "Worter/L/längstes.md",
+    "Anhänge/Pasted image 20250224055949.png",
+    "Anhänge/Pasted image 20250224055705.png",
+    "Anhänge/Pasted image 20250224055357.png",
+    "Texte/yt/Simplicissimus1",
+    "Texte/yt",
+    "Texte/c1/studtsbuch",
+    "Anhänge/Pasted image 20250222100655.png",
+    "Texte/c1/Galileo",
     "Worter/3",
     "Texte/Misc/ADHD",
     "Anhänge/pronomen.png",
@@ -205,14 +312,8 @@
     "Anhänge/Pasted image 20250203051808.png",
     "Anhänge/Pasted image 20250125084340.png",
     "Anhänge/54568_82022.mp3",
-    "Anhänge/Pasted image 20250119091912.png",
-    "Anhänge/Pasted image 20250121062442.png",
-    "Anhänge/Pasted image 20250122071455.png",
-    "Anhänge/Pasted image 20250122155146.png",
     "Anhänge/Урок 1. Числительные. Чтение, произношение.pdf",
     "Lektionen/b22 kourse",
-    "Texte/c1/dw",
-    "Worter/9",
-    "Worter/2"
+    "Texte/c1/dw"
   ]
 }

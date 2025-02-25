@@ -2,6 +2,8 @@
 nicht [[ungeeignet]]
 
 ---
+[[0 checklist#^5|(q)]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]. ^5
+
 Auf Bäumen sitzt man nicht [[besonders]] [[bequem]]. Manchmal gibt es aber Menschen, die so nervig sind, dass man am [[liebsten]] auf einen Baum [[klettern]] möchte. Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet]] zu sein
 
 ---

@@ -1,1 +1,2 @@
 [[handel]], [[Kauf]]
+, [[Zahlung]]

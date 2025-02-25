@@ -3,6 +3,8 @@
 ---
 • Heutigen [[Tageshöchstwert]] für neue Karten [[erhöhen]]
 
+[[0 checklist#^6|(q)]] Eine gut [[bestückte]] [[Bewerbungsmappe]] [[erhöht]] die [[Chancen]], auf dem heiß [[umkämpften]] Wohnungsmarkt deine Traumwohnung zu finden. ^6
+
 ---
 = [[steigern]], [[aufbessern]], [[anheben]]
 ≈ [[vergrößern]], [[vermehren]], [[verstärken]], [[aufwerten]]

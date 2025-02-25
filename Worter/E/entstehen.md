@@ -28,3 +28,4 @@ PI: [[entstehend]], PII: [[entstanden]], Zu+inf: [[entstehen]]
 
 ---
 [[Entstehung]], [[Entstehungsgeschichte]], [[Entstehungsjahr]], [[entstehend]], [[entstanden]]
+, [[verschwinden]]

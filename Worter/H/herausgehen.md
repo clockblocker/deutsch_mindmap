@@ -1,1 +1,2 @@
 , [[ausgehen]], [[betreten]], [[eintreten]]
+, [[aussteigen]]

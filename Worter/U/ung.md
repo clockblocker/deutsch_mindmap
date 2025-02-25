@@ -6,3 +6,6 @@ die [[Heizung]][[Veränderung]][[Reinigung]], [[Ausbildung]], [[Bedeutung]], [[A
 , [[Beschäftigung]]
 , [[Anstrengung]]
 , [[Verabredung]]
+, [[Erschöpfung]]
+, [[Zahlung]]
+, [[Wohnungsbewerbung]]

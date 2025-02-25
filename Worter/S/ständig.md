@@ -2,10 +2,11 @@
 nicht [[vorübergehend]]
 
 ---
-Tanja will den Eltern erklären, d
-ass ihr Sohn nicht mehr lernt, seit er [[ständig]] mit seinen Freunden Party macht. 
+[[Eine Extrawurst bekommen.md#^4|(q)]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
 
- Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderungen]], die so groß sind, dass man daraus ein Sprichwort machen muss.
+Tanja will den Eltern erklären, dass ihr Sohn nicht mehr lernt, seit er [[ständig]] mit seinen Freunden Party macht. 
+
+Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderungen]], die so groß sind, dass man daraus ein Sprichwort machen muss.
 
 ---
 Synonyme: [[permanent]], [[kontinuierlich]], [[fortlaufend]], [[unaufhörlich]], [[andauernd]]

@@ -22,3 +22,4 @@ Einzigartige mögliche Formen: [[Abstands]], [[Abständen]], [[Abstände]], [[Ab
 
 ---
 #Substantiv #Maskulin, [[Extra 8]], [[Annäherung]]
+, [[Leerzeichen]]

@@ -30,3 +30,4 @@ PI: [[aufstehend]], PII: [[aufgestanden]], Zu+inf: [[aufzustehen]]
 [[Aufstehen]], [[Aufsteher]], [[aufstehend]], [[Aufstandszeit]], [[aufgerichtet]]
 
 , [[aufstehen]], [[Aufstand]], [[plumpsen]], [[fallen]], [[erheben]]
+, [[zusammenbrechen]]

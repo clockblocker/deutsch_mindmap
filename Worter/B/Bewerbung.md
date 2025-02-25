@@ -1,38 +1,31 @@
-🔵 die [[Bewerbung]], [bəˈvɛʁbʊŋ]
+🔴 📝 die [[Bewerbung]], [bəˈveːɐ̯bʊŋ]
 die [[Bewerbungen]]
 
 ---
+[[0 checklist#^1|(q)]] [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1 ^1
+
+[[0 checklist#^2|(q)]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die [[Bewerbung]]? ^2
+
 
 ---
-Synonyme:
-- [[Kandidatur]], [[Antrag]], [[Anfrage]], [[Gesuch]], [[Sollizitation]]
-
-Antonyme:
-- [[Absage 1]], [[Zurückziehung]], [[Rückzug]]
+= [[Antrag]], [[Applikation]]
+≈ [[Anmeldung]], [[Gesuch]], [[Initiativbewerbung]]
+≠ [[Ablehnung]], [[Absage]]
 
 ---
-Übersetzung: application, candidacy, bid
+application
+заявка, заявление
 
 ---
-Morpheme:
-[[be]][[werb]][[ung]]
+[[Be]]|[[werb]]|[[ung]]
 
 ---
-#Substantiv #Feminin
+N: die [[Bewerbung]], die [[Bewerbungen]]
+A: die [[Bewerbung]], die [[Bewerbungen]]
+G: der [[Bewerbung]], der [[Bewerbungen]]
+D: der [[Bewerbung]], den [[Bewerbungen]]
 
-Gebrauchsbeispiele:
-- Eine [[Bewerbung]] für eine Stelle schreiben
-- [[Bewerbung]] per E-Mail einreichen
-- Formale [[Bewerbung]] für eine Position
-
-Hinweise:
-- Oft verwendet im beruflichen Kontext
-- Bezieht sich auf formellen Prozess der Bewerbung um eine Position oder Gelegenheit
-
-Einzigartige mögliche Formen: 
-[[Bewerbung]], [[Bewerbungen]], [[Bewerbung]], [[Bewerbungen]]
-
-Verwandte Wörter:
-- [[bewerben]]
-- [[Bewerber]]
-- [[Bewerbungsschreiben]], [[Bewerb]]
+---
+[[bewerben]], [[Bewerber]], [[Bewerberin]], [[Bewerbungsgespräch]], [[Bewerbungsunterlagen]]
+, [[Bewerbungsmappe]]
+, [[Wohnungsbewerbung]]

@@ -17,3 +17,6 @@ completely
 , [[ablenkbar]]
 , [[Verabredung]]
 , [[abbrechen]]
+, [[abfahren]]
+, [[beabsichtigen]]
+, [[verabreden]]

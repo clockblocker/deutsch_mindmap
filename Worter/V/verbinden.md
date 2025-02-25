@@ -46,3 +46,4 @@ Zu+infinitive: [[zu verbinden]]
 
 
 , [[knüpfen]], [[Zusammenschluss]], [[Worter/Beziehung]], [[verlinkungen]]
+, [[umsteigen]]

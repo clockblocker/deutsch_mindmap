@@ -1,7 +1,7 @@
 😤 [[lehren]], [leːʁən] | [[lehrte]], haben [[gelehrt]]
 
 ---
-
+Er [[lehrt]] mich Deutsch sprechen.
 
 ---
 = [[unterrichten]], [[dozieren]], [[beibringen]], [[ausbilden]], 

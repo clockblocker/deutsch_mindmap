@@ -4,6 +4,8 @@ die [[Vorteile]]
 ---
 Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können. „Stopp!“, ruft Jannis. „Du bekommst ja dein Budget. Und jetzt [[aufhören|hör]] auf, mir Honig um den Bart zu schmieren. Natürlich sehe ich die [[Vorteile]] selbst. Ich arbeite ja schon lange in dieser [[Branche]].“ 
 
+[[0 checklist#^1|(q)]] [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1 ^1
+
 
 ---
 Synonyme:

@@ -6,7 +6,7 @@ Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[�
 - Wir müssen versuchen, die anderen [[von]] diesem Plan zu [[überzeugen]]
 - Ich bin [[davon]] [[überzeugt]], dass wir es schaffen werden
 
-
+[[Eine Extrawurst bekommen.md#^2|(q)]] Tim ist ein guter Fußballspieler – finden seine Eltern. Sie sind davon [[überzeugt]], dass er später einmal Profi werden kann. ^2
 
 ---
 Synonyme: [[beweisen]], [[argumentieren]], [[bewirken]], [[bestärken]], [[motivieren]]

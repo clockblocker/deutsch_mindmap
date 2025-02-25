@@ -28,3 +28,4 @@ Morpheme:
 
 ---
 #Adverb, [[11 08]], [[obwohl]], [[echt]], [[wohlfühlen]], [[wohlgeformt]], [[s1 e1]], [[Anki]]
+, [[gut]]

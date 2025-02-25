@@ -1,1 +1,2 @@
 , [[witzig]], [[lustig]]
+, [[amüsieren]]

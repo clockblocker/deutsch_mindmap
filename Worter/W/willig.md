@@ -1,1 +1,2 @@
 , [[gehorsam]], [[freiwillig]]
+, [[gern]]

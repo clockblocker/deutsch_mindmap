@@ -8,3 +8,4 @@ schmutzig - sauber
 oft - selten
 teuer - billig
 [[hübsch]] - [[hässlich]]
+

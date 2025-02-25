@@ -28,6 +28,6 @@ Morpheme: [[ver]][[steig]][[en]]
 | Sie | [[versteigen]] | [[verstiegen]] | [[versteigen Sie sich]] | [[versteigen]] | [[verstiegen]] |
 
 Partizip I: [[versteigende]], Partizip II: [[verstiegen]]
-[[versteigen]] - [[ver]] = [[steigen]]
+[[versteigen]] - [[ver]] = [[steigen]] / to climb too high, to get into a difficult situation
 '''
 

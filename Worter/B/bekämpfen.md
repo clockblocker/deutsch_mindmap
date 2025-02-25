@@ -1,1 +1,2 @@
 , [[feinden]], [[Gegnern]]
+, [[umkämpfen]]

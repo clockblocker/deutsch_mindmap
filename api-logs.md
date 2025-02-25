@@ -53597,7 +53597,7 @@ to handle, to take care of, to deal with
 выполнять, улаживать
 
 ---
-[[er]]|[[ledig 1]]|[[en]]
+[[er]]|[[ledig]]|[[en]]
 
 ---
 ich: [[erledige]], [[erledigte]], –, [[erledige]], [[erledigte]]
@@ -53612,7 +53612,7 @@ PI: [[erledigend]], PII: [[erledigt]], Zu+inf: [[zu erledigen]]
 [[erledigen]] - [[er]] = [[ledig]] / to handle, to take care of, to deal with
 
 ---
-[[Erledigung]], [[ledig 1]], [[erledigt]], [[erledigbar]]
+[[Erledigung]], [[ledig]], [[erledigt]], [[erledigbar]]
 
                 ```
                 
@@ -54133,10 +54133,10 @@ single, unmarried
 неженатый, незамужняя
 
 ---
-[[ledig 1]]
+[[ledig]]
 
 ---
-N: [[ledig 1]], [[lediger]], [[ledigst]]  
+N: [[ledig]], [[lediger]], [[ledigst]]  
 A: [[ledig]], [[ledigeren]], [[ledigsten]]  
 G: [[ledig]], [[ledigeren]], [[ledigsten]]  
 D: [[ledigem]], [[ledigerem]], [[ledigstem]]  

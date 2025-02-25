@@ -2,6 +2,9 @@
 [[Das ist ja wie]]
 So [[wie]] bei mir.  
 
+Der Löwe ist [[genauso]] schnell [[wie]] der Tiger.
+Der Tiger ist schneller [[als]] das Pferd
+
 Sind Sie schon einmal umgezogen? [[Wie oft]]? 
 
 Mensch Anna, es [[kommt darauf an]], [[wie]] du schreibst – und nicht [[was]].

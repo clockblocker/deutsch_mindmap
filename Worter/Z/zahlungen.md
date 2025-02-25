@@ -1,1 +1,1 @@
-, [[Gehaltszahlungen]]
+, [[Gehaltszahlungen]]🔴 die [[Zahlung]] 💰

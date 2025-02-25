@@ -5,11 +5,14 @@ haben [[umgezogen]]
 ---
 Igitt! Ich muss mich [[umziehen]]!  
 
- 1961, vor dem Bau der Mauer, [[zog]] er nach Düsseldorf [[um]] und studierte hier bis 1963 an der Kunstakademie.
+Sie wollen die Sprache erlernen, um nach Deutschland [[umzuziehen]].
+
+1961, vor dem Bau der Mauer, [[zog]] er nach Düsseldorf [[um]] und studierte hier bis 1963 an der Kunstakademie.
+
 
 ---
-Synonyme: [[verlegen]], [[übersiedeln]], [[übersiedeln]], [[umsiedeln]], [[umziehen]]
-Antonyme: [[wohnen bleiben]], [[daheim bleiben]], [[sesshaft werden]], [[niederlassen]]
+Synonyme: [[verlegen]], [[übersiedeln]], [[übersiedeln]], [[umsiedeln]], [[umziehen]], [[ausziehen]], [[weiterziehen]], 
+Antonyme: [[wohnen bleiben]], [[daheim bleiben]], [[sesshaft werden]], [[niederlassen]], [[wohnen]], [[einziehen]]
 
 ---
 Übersetzung: to move (house)
@@ -33,4 +36,3 @@ Morpheme: [[um]][[zieh]][[en]]
 Partizip I: [[umziehend]], Partizip II: [[umgezogen]]
 
 [[umziehen]] - [[um]] = [[ziehen]] / to move (house)
-, [[wohnen]], [[ausziehen]], [[weiterziehen]], [[einziehen]]

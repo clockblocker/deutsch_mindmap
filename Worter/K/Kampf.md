@@ -1,2 +1,3 @@
 , [[Kampfstellung]]
 , [[Gefecht]]
+, [[umkämpfen]]

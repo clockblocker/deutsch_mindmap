@@ -3,6 +3,8 @@
 ---
 Ihr Mann [[verdient]] ganz [[anständig]]. 
 
+Ich [[habe vor]], viel Geld zu [[verdienen]].
+
 [[Damals]] [[verdiente]] ich mehr Geld
 
 So, ich gehe jetzt ins Bett! (Gähnt und streckt sich) Ja, das hab ich mir heute redlich [[verdient]]. 

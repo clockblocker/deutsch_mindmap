@@ -6,6 +6,9 @@
 *So [[erfreuet]] uns ein [[Veilchen]],*  
 *Das man früh im März [[gepflückt]]. [[Der Abschied.md#^3|(Quelle: Der Abschied)]]* 
 
+1. Сын радует отца. Der Sohn [[erfreust]] den Vater
+2. Отец радуется сыну. Der Vater [[freut]] sich über seinen Sohn.
+
 ---
 = [[erheitern]], [[beglücken]], [[freuen]]
 ≈ [[aufmuntern]], [[erheitern]], [[begeistern]], [[inspirieren]]
@@ -34,3 +37,5 @@ PI: [[erfreuend]], PII: [[erfreut]], Zu+inf: [[zu erfreuen]]
 [[Erfreuung]], [[Freude]], [[freudig]], [[erfreulich]], [[Erfreuliches]]
 
 [[freuen]], [[gefallen]], [[Vergnügen]], [[Freudiges]]
+, [[amüsieren]]
+, [[ärgern]]

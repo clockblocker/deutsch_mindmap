@@ -4,6 +4,8 @@ nicht [[unsicher]]
 ---
 Sie machen das Haus [[sicher]].
 
+Sie werden [[sicher]] gewinnen.
+*Они наверняка победят.
 
 122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
 	- [x] [[frei]], [[gleich]], [[geheim]].

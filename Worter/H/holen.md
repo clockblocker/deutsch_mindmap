@@ -18,6 +18,7 @@ Frau Schulte sagt: „So kann es auf jeden [[Fall]] nicht [[weitergehen]]. Auch 
 [[zurückholen]] - [[zurück]] = [[holen]]  / to get back, to reclaim
 [[nachholen]] - [[nach]] = [[holen]]         / to catch up, to make up for
 [[einholen]] - [[ein]] = [[holen]] / to catch up, to overtake, to obtain
+[[erholen]] - [[er]] = [[holen]] / to recover, to relax
 
 
 ---
@@ -44,3 +45,4 @@ Morpheme: [[hol]][[en]]
 
 Partizip I: [[holend]], Partizip II: [[geholt]]
 +[[ab]]  = [[abholen]], [[zurückholen]], [[nachholen]], [[einholen]], [[Worter/W/Wiederholung]], [[rausholen]]
+, [[erholen]]

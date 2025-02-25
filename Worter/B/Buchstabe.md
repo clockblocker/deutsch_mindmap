@@ -25,3 +25,4 @@ Einzigartige mögliche Formen: [[Buchstabe]], [[Buchstabens]], [[Buchstaben]], [
 ---
 #Substantiv #Maskulin
 , [[Char]]
+, [[Leerzeichen]]

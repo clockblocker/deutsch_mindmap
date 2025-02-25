@@ -6,6 +6,9 @@ haben [[gestört]]
 - *(Ich will) Ich will die Ruhe [[stören]]*  
 - SASCHA: [[Störe]] ich?  
 
+Du versuchst mich zu [[stören]]. _Ты пытаешься мне помешать._
+
+
 [[17 zu inf#^13|(q)]] «Dann will ich nicht weiter [[stören]]», sagte Herr Kohlaas und wollte schon [[von]] uns [[Abschied]] [[nehmen]], aber ich sagte: 
 «Warten Sie, Sie können den Mantel von meinem Vetter bekommen.» ^13
 
@@ -42,3 +45,4 @@ Partizip I: [[störend]], Partizip II: [[gestört]]
 
 [[stören]] - [[stör]] = [[en]], [[gefallen]], [[missfallen]], [[nützen]], [[behagen]], [[behindern]], [[zerstörten]]
 , [[ablenken]]
+, [[ärgern]]

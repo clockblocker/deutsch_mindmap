@@ -17,6 +17,7 @@ Mit einem Krachen [[bricht]] der Eisberg auseinander und versinkt im Wasser.
 ---
 [[zerbrechen]] - [[zer]] = [[brechen]] // shatter
 [[abbrechen]] - [[ab]] = [[brechen]] / to break off, to cancel
+[[zusammenbrechen]] - [[zusammen]] = [[brechen]] / to collapse, to break down
 
 
 ---

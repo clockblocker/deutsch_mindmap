@@ -1,1 +1,2 @@
 , [[Soldat]], [[Held]], [[Faust]]
+, [[umkämpfen]]

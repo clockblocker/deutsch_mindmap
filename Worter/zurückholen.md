@@ -5,6 +5,8 @@
 	- [x] Sie müssen die [[Entscheidung]] der [[volljährigen]] Tochter [[respektieren]].
 	- [ ] Sie haben das Recht, die Tochter in die [[elterliche]] Wohnung [[zurückzuholen]].
 
+[[erholen.md#^1|(q)]] sich selbst aus der [[Erschöpfung]] [[zurückholen]] ^1
+
 ---
 = [[wiederbeschaffen]], [[wiederholen]], [[zurückbringen]]
 ≈ [[holen]], [[abholen]], [[herbeischaffen]], [[zurückerobern]]

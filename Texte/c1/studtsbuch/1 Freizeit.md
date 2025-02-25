@@ -1,0 +1,23 @@
+https://rcel2.e2nl.uoa.gr/kpgeschool/images/pdf_files/C1_Students_Book_German.pdf
+
+Unsere Großeltern hatten wenig davon, und das Wort kannten sie nicht. 
+
+Our grandparents didn't have much of it, and they didn't know the word.
+
+Dem Grimmschen Wörterbuch (1878 beim Buchstaben F angelangt) war „Freizeit“ unbekannt; der Große Meyer von 1926 registrierte sie, aber nur als eine mehrtägige Zusammenkunft Gleichgesinnter, eine „kirchliche Freizeit“ beispielsweise. Der Große Brockhaus von 1954 sah das ebenso, ließ Freizeit aber zusätzlich als „neuen Ausdruck für Muße“ zu – und das war auch noch falsch.
+
+„Muße“: Die verträgt sich kaum mit Abenteuerurlaub und Fitnessstudio. Die Muße war vielmehr der heiter-gelassene Tageslauf, den in Athen und Rom die reichen Bürger anstrebten; Arbeit hielten sie ja für etwas Minderwertiges, dafür waren schließlich die Sklaven da.
+
+Für ältere Bildungsbürger ist der Begriff Muße noch heute positiv besetzt, er hat eine Aura von Kulturbeflissenheit; während sie den bloßen Fernsehkonsum eher unter „Müßiggang“ abbuchen würden – und der ist, nach einem Sprichwort aus der Zeit Luthers, bekanntlich „aller Laster Anfang“.
+
+Denn keiner Pflicht nachzugehen, widersprach dem christlichen Geist. „So jemand nicht will arbeiten, der soll auch nicht essen“, hatte Paulus an die Thessalonicher geschrieben – ein Satz, den Stalin in die Sowjetverfassung von 1937 übernahm. Die Benediktinermönche ließen als Gegenstück zur Arbeit nur das Beten zu („ora et labora“).
+
+Im frühen 20. Jahrhundert wurde Freizeit – noch lange ohne diesen Namen – zum Kampfziel der Gewerkschaften, weg von der 60- oder gar 72-Stunden-Woche. Erst als die Summe der beliebig verfügbaren Zeit (nach Abzug von Schlaf, Hausarbeit, Essen, Körperpflege) mit der Zahl der Arbeitsstunden pro Woche gleichzog, entstand das Bedürfnis, diesen Spielraum „Freizeit“ zu taufen – allerdings nur bei dem, der einer geregelten Arbeit nachgeht: Unter Arbeitslosen, Rentnern, Frühpensionären ist das Wort kaum gebräuchlich, ja die Sache finden viele von ihnen eher lästig, manchmal entsetzlich; während viele Mütter noch heute eine 100-Stunden-Woche absolvieren und Milliarden Bauern nie erfahren haben, was Freizeit ist.
+
+Die meisten Stadtmenschen aber besitzen inzwischen so viel davon, dass die Freizeit nach „Gestaltung“ ruft, einem Lieblingswort von Betriebsräten, Animateuren, Freizeitpädagogen (die gibt es) und der Freizeitindustrie; ihr größter Zweig, der Tourismus, ist mittlerweile das umsatzstärkste Gewerbe der Welt geworden. Schon registriert der Duden auch den Freizeitstress: die Strapazierung, die aus hektischer Aktivität und einem Übermaß von Angeboten folgt. So nass geschwitzt wie in der Freizeit sind in der Arbeit nur noch wenige. Und Ökologen beklagen längst die Freizeitschäden, die durch Freizeitschweiß und Tourismus angerichtet werden.
+
+Welche Karriere eines scheinbar unschuldigen Wortgebildes! Es benennt ein Weltproblem, mindestens aber eine wachsende Sorge der Industrienationen. Für eine zunehmende Zahl von Berufstätigen ist die Freizeit schon lange nicht mehr das, als was sie einst ins Leben trat: Kompensation der Plage, der Unfreiheit am Arbeitsplatz – sondern der primäre Lebenszweck. Unternehmen an Orten ohne Freizeitwert haben es schwer, Mitarbeiter an sich zu ziehen; jene Spitzenmanager ausgenommen, die Fanatiker der Arbeit sind, ohne Muße, wahrscheinlich auch ohne Gebet.
+
+Solche Arbeitstiere bestätigen aufs Neue die uralte Erfahrung, dass die oberen Zehntausend das Gegenteil von dem zu tun wünschen, was das Volk betreibt: Um 5 Uhr morgens, als die Bauern aufstanden, ging einst der russische Adel schlafen; als die Arbeiter noch 70 Stunden schufteten, schaute der Fabrikherr öfter mal im Büro vorbei; und die freizeitgestaltenden Massen von heute haben an der Spitze den Workaholic auf den Plan gerufen. Vergleichbare Verächter der Freizeit, mindestens des Freizeitkults, sind von jeher die Besessenen unter den Künstlern – ja selbst mit dem Begriff können sie kaum etwas anfangen, da er einen Gegensatz zur Arbeit benennt, den sie nicht kennen, eine Erholung von ihr, die sie nicht brauchen.
+
+Wünschen wir uns etwa, Franz Schubert hätte sich mehr Freizeit genommen, statt 9 Sinfonien, 750 Messen, 23 Klaviersonaten, 18 Streichquartette und mehr als 600 Lieder zu komponieren, bis er mit 31 Jahren starb? Aus der Arbeit sind nun einmal mehr große Dinge als aus der Freizeit hervorgegangen. Die Arbeit, ach ja! Vielleicht geht sie uns eines Tages noch so gründlich aus, dass wir alle uns zur Freizeit eher verurteilt als eingeladen sehen; aus den Wörterbüchern könnte sie dann wieder verschwinden, so, wie sie sich in einer kuriosen Weltsekunde hineingedrängelt hat.

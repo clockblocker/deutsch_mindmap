@@ -4,6 +4,8 @@
 96. Wie kann jemand, der den Holocaust [[leugnet]], [[bestraft]] werden? (100%)
 	- [ ] gar nicht, [[Holocaustleugnung]] ist [[erlaubt]]
 
+[[Eine Extrawurst bekommen.md#^3|(q)]] [[Deswegen]] fahren sie ihn viermal die Woche zum Training und [[erlauben]] ihm, jede freie Minute mit seinen Freunden Fußball zu spielen. ^3
+
 ---
 = [[gestatten]], [[bewilligen]], [[genehmigen]]
 ≈ [[zulassen]], [[akzeptieren]], [[dulden]], [[autorisieren]]

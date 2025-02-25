@@ -3,6 +3,11 @@
 ---
 e) Er [[zweifelt]] manchmal an seinen [[Fähigkeiten]].  
 
+1. Я не сомневаюсь! Ich zweifle nicht!
+2. Он никогда не сомневается. Er zweifelt [[nie]]. 
+
+Ich [[zweifle]] selten.  Du [[zweifelst]] immer.
+
 ---
 = [[bezweifeln]]
 ≈ [[misstrauen]], [[nicht glauben]], [[skeptisch sein]]

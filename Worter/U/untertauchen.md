@@ -32,3 +32,4 @@ Morpheme: [[unter]][[tauch]][[en]]
 Partizip I: [[untertauchend]], Partizip II: [[untergetaucht]]
 
 [[untertauchen]] - [[unter]] = [[tauchen]], [[auftauchten]]
+, [[verschwinden]]

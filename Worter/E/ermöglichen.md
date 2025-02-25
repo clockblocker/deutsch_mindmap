@@ -31,3 +31,4 @@ PI: [[ermöglichend]], PII: [[ermöglicht]], Zu+inf: [[zu ermöglichen]]
 
 ---
 [[Ermöglichung]], [[möglich]], [[Möglichkeit]], [[unmöglich]], [[Möglichkeiten]], [[gewähren]]
+, [[verschaffen]]

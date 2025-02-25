@@ -1,45 +1,24 @@
-[[gern]]
-[[lieber]]
-[[am]] [[liebsten]]
-
-nicht [[ungern]]
+👍 [[gern]], [ɡɛʁn]
 
 ---
+Ich lese [[gern]]. [[Lieber]] gehe ich ins Kino. Am [[liebsten]] höre ich Musik.
+
 Und wir tanzen [[gern]]!  
 Ich renoviere gern
 SASCHA: Saaaam – die Eier sind total schwarz … möchtest du [[lieber]] Käse?  
 
 
 ---
-
-Synonyme:
-- [[freudig]], [[bereitwillig]], [[mit Vergnügen]]
-
----
-Beispiele:
-
-- Ich trinke [[gern]] Kaffee.
-- Sie liest [[gern]] Bücher.
-- Er spielt [[gern]] Fußball.
-
-- Ich trinke [[lieber]] Tee.
-- Sie liest [[lieber]] Romane.
-- Er spielt [[lieber]] Tennis.
-
-- Ich trinke [[am liebsten]] heiße Schokolade.
-- Sie liest [[am liebsten]] Krimis.
-- Er spielt [[am liebsten]] Basketball.
+= [[gerne]], [[freudig]], [[mit Vergnügen]]
+≈ [[liebend gern]], [[mit Freude]], [[willig]]
+≠ [[ungern]], [[widerwillig]], [[ungern]]
 
 ---
-**Übersetzung**:
-gladly, with pleasure, like to
+gladly, with pleasure
+охотно, с удовольствием
 
 ---
-
-Tags: 
-#Adverb
-
----
-Morphems:
 [[gern]]
 
+---
+[[gerne]], [[Liebhaber]], [[gerne geschehen]]

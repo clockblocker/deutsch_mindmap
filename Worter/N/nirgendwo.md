@@ -1,29 +1,26 @@
-🚫 [[nirgendwo]], [ˈnɪɐ̯gəntˈvoː]
+
+📍 [[nirgendwo]], [ˈnɪɐ̯ɡn̩tˌvoː]
 
 ---
 Die Deutschen sind Weltmeister! In keinem anderen Land gibt es pro Kopf so viele Museen und [[nirgendwo]] werden sie so gut besucht. 
 
 Die Dursleys hatten einen kleinen Sohn namens Dudley und in ihren [[Augen]] gab es [[nirgendwo]] einen [[prächtigeren]] Jungen.
 
+1. Я не хочу с тобой никуда идти.  Ich möchte mit dir [[nirgendwo]] hingehen
+
+
 
 ---
-Synonyme: 
-- [[nirgends]], [[nirgendwohin]], [[nirgendshin]], [[an keinem Ort]]
-
-Antonyme: 
-- [[überall]], [[irgendwo]], [[irgendwohin]]
+= [[an keinem Ort]], [[an keinem Platz]], [[nirgends]], [[weit und breit]],
+≈ [[weg]], [[fort]], [[entfernt]]
+≠ [[überall]], [[irgendwo]], [[hier]],  [[allenthalben]]
 
 ---
-Übersetzung: nowhere
+nowhere
+нигде
 
 ---
-Morpheme:
-[[nirgend]][[wo]]
+[[nirgend]]|[[wo]]
 
 ---
-#Adverb #Lokaladverb
-
----
-
-[[irgendwo]], [[bald]]
-, [[weit und breit]], [[prächtig]], [[allenthalben]]
+[[nirgends]], [[irgendwo]], [[irgendwie]], [[irgendwann]]

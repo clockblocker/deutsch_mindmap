@@ -5,6 +5,8 @@ haben [[ausgesehen]]
 ---
 Aber er [[aussehen|sieht]] total gut aus!  
 
+_Wir waschen das Auto, damit es neu [[aussieht]]._
+
 Mein Gott! Wie [[sieht aus|sieht]] das hier aus! Alles liegt drunter und drüber. 
 
 MARIA: Annalein! Wie geht es dir? Wie geht es Louis? Ach, du [[siehst aus|siehst]] heute so hübsch aus!  

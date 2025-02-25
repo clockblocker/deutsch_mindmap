@@ -1,1 +1,2 @@
 , [[gezwungen]], [[freiwillig]]
+, [[gern]]

@@ -4,6 +4,9 @@
 „Das ist ein ganz großes [[Verbrechen]]!“, da ist er sich sicher. 
  Die Polizisten stöhnen. Das klingt nach sehr viel Arbeit.
 
+[[Eine Extrawurst bekommen.md#^9|(q)]] „Wieso? Ihr mögt doch Fußball gar nicht“, sagt die Mutter. Die Mädchen [[stöhnen]]. Nichts hat 
+die Mutter verstanden, gar nichts! ^9
+
 Alfreds Frau greift sich an den Kopf. „Alfred, du hast wieder mal Schwein gehabt!“ [[stöhnt]] sie genervt. 
  
 ---

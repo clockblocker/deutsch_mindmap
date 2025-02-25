@@ -1,1 +1,3 @@
 [[stören]]
+, [[amüsieren]]
+, [[ärgern]]

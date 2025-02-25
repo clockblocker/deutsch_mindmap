@@ -15,3 +15,4 @@ NIC: Jetzt geht das [[wieder]] [[los]]
 
 [[Was ist denn mit dir los]]
 , [[loswerden]], [[aussichtslos]], [[losschießen]], [[schadlos]], [[losziehen]], [[losfahren]], [[verständnislos]], [[ratlos]], [[nutzlos]], [[lustlos]]
+, [[geschmacklos]]

@@ -1,4 +1,3 @@
-
 🧘 [[wohlfühlen]] | [[fühlte wohl]], haben [[wohlgefühlt]]
 
 ---

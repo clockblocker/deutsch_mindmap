@@ -1,3 +1,6 @@
+⏱️ [[nun]], [nʊn]
+
+---
 *Ins Bett muß Friedrich [[nun]] hinein,*  
 *litt vielen Schmerz an seinem Bein;*  
 
@@ -6,27 +9,20 @@ SASCHA: Mich! Na ja - hier sind wir [[nun]] …
 
 _Der Eisberg bekommt mehr Risse. Katara dreht sich um und sieht es [[nun]] auch.
 
+[[Nun]] werde ich dir immer helfen.
+*[[Теперь]] я всегда буду тебе помогать.*
 
 ---
-Synonyme:
-- [[jetzt]], [[derzeit]], [[sofort]]
+= [[jetzt]], [[sofort]], [[nunmehr]]
+≈ [[also]], [[daher]], [[folglich]]
+≠ [[dann]], [[später]], [[einst]]
 
 ---
-Beispiele:
-- [[nun]] ist die Zeit gekommen.
+now
+сейчас
 
 ---
-**Übersetzung**: now, at this point
-
----
-
-Tags:
-#Adverb
-
----
-
-Morphems:
 [[nun]]
 
-
-, [[s1 e1]], [[bereits]]
+---
+[[nunmehr]], [[nun gut]], [[nun einmal]]

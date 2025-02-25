@@ -27,3 +27,4 @@ Synonyme:
 
 
 [[bericht]], [[Auskunft]], [[Bescheid]], [[Meldung]], [[Benachrichtigung]], [[Anki]]
+, [[Inserat]]

@@ -1,0 +1,17 @@
+Mein Haus, für dessen Errichtung ich das Geld von Jugend an gesammelt hatte, besaß einen einzigartigen Geschmack für mich, den Geschmack des Weines etwa auf der Zunge. Dieses Haus gehört mir und was damit gesagt ist, wird nur der recht verstehen können, dem das ungewöhnliche Gefühl des Besitzenden nie fremd geworden ist.
+
+Auf der Sonnenseite habe ich ein kleines Stück Rasen anlegen lassen, auf das ich aus meinem Fenster hinabschaue, wann immer ich Lust dazu habe.
+
+Auf der Rückseite befindet sich ein Hinterhof, auf dem Müllkästen stehen und wo meine Untermieter über selbstgezimmerten Holzställen ihre Taubenschläge haben. Sie kamen zu mir und baten mich um Einwilligung, hier bauen zu können, und ich gab sie ihnen.
+
+Heute hat mein Haus nicht mehr den Geschmack des Weins für mich und ich bin mit mir selbst zu Rate gegangen, ob ich es verkaufen soll oder nicht. Das hat seine gute Bewandtnis; als es mich vorgestern drängte, auf den Rasen hinabzuschauen und ich aus dem Fenster sah, da bemerkte ich auf der grünen Fläche die Kinder meiner Untermieter und ihrer Nachbarn. Ich war empört darüber, dass sie über den Rasen liefen und mit ihren eiligen Füßen zertraten, was ich für mein Geld hatte anlegen lassen. Ich wollte sie zuerst anrufen und mein Schimpfen hätte ausgereicht, um sie zu vertreiben, als mich ein Vorfall unvermutet schweigen ließ.
+
+Ein fünfjähriges, schmutziges Mädchen mit abstehenden Zöpfen rief etwas – das ich jedoch am Fenster nicht verstehen konnte – und sogleich liefen alle Kinder zu ihm hin, legten sich auf den Rasen und starrten auf eine Stelle, als ob es da etwas Besonderes zu schauen gäbe. Die Kinder waren still und im gleichen Augenblick bemächtigte sich meiner die Neugierde, und ich trat vom Fenster zurück, verließ meine behagliche Wohnung und ging zu den Kindern hinunter. Sie bemerkten mich nicht, sie starrten immer noch auf eine Stelle im Rasen.
+
+Ich ging langsam näher und als ich nur noch zwei Schritte hinter ihnen stand, da bückte ich mich langsam und griff dann schnell nach einem schmalen, braunen Bein, das einem kleinen Bengel gehörte. Die Kinder fuhren sofort auf und liefen schreiend davon. Den Bengel zog ich zu mir empor und schrie ihn an, er solle mit seinen Freunden gefälligst auf dem Hinterhof spielen, bei den Taubenschlägen und den runden, blechernen Müllkästen. Da sah er mich an und lief fort. Ich bückte mich nun und suchte nach dem, was die Kinder schweigen gemacht und ihr Spiel unterbrochen hatte. Ich suchte und suchte, aber ich fand nichts, ausgenommen eine einzige Butterblume. So ging ich wieder zu meinem Zimmer hinauf und verbrachte gute Zeit damit, mir zu überlegen, was die Kinder entdeckt haben mochten. Da ich jedoch selbst nichts gefunden hatte – auch dann nicht, als ich noch einmal hinunterging und nachsuchte –, musste ich annehmen, dass sie dieser Butterblume so viel Aufmerksamkeit geschenkt hatten.
+
+Ich überschlief diesen Vorfall und gestern reute mich mein Verhalten und ich ging hinab auf den Hinterhof, auf dem ich die Kinder bemerkt hatte und sagte ihnen, dass sie heute auf dem Rasen spielen dürften, so viel sie wollten. Und als sie, anstatt meinen Worten Folge zu leisten, davonliefen, da scheute ich mich nicht, sie zu locken und ihnen Versprechungen zu machen, wenn sie nur auf den Rasen gingen.
+
+**Sie gingen nicht!**
+
+Und jetzt stehe ich am Fenster und sehe auf den Hinterhof und erkenne ganz deutlich das kleine Mädchen mit den abstehenden Zöpfen. **Sie füttert die Tauben.**

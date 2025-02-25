@@ -25,7 +25,7 @@ done, completed, finished
 
 ---
 Morpheme:
-[[er]][[ledig 1]][[t]]
+[[er]][[ledig]][[t]]
 
 ---
 

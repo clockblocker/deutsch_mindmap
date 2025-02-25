@@ -9,6 +9,8 @@ Eine gute Arbeit ist viel [[wert]].
 
 [[16 Plusquamperfekt#^20|(q)]] Der [[Selbstmord]] einer [[begabten]] Künstlerin, die auch [[hübsch]] gewesen war, hatte einen großen [[Informationswert]] in der Boulevardpresse. ^20
 
+[[0 checklist#^7|(q)]] Unsere sieben Tipps für die Wohnungssuche [[verraten]] dir, worauf Vermieter [[Wert]] legen und wie die ideale [[Wohnungsbewerbung]] aussieht. ^7
+
 ---
 = [[Bedeutung]], [[Wichtigkeit]], [[Bedeutsamkeit]], [[Geltung]],
 ≈ [[Gewicht]], [[Bedeutung]], [[Relevanz]], [[Rang]]

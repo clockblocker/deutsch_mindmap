@@ -2,6 +2,9 @@
 DER HELLGRAUE FRÜHJAHRSMANTEL
 (nach Wolfgang Hildesheimer)
 
+
+[[keymaker]] 
+
 [[17 zu inf#^1|(q)]] Vor zwei Monaten - wir saßen gerade beim Frühstück - kam ein Brief von meinem [[Vetter]] Eduard.  ^1
 
 [[17 zu inf#^2|(q)]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2
@@ -151,9 +154,12 @@ Unsere Freunde sind gefahren, um [[ihren]] Kollegen zu gratulieren
 2. Мы приехали сюда работать. Wir sind hierher gekommen, um zu arbeiten
 3. Эта девушка учится водить машину. Dieses Mädchen lernt Autofahren  
 4. Молодой человек учит детей танцевать.
-5. Помогите мне прыгнуть!
-6. Помогите нам открыть дверь. Helfen Sie uns die Tür zu offnen 
-7. Мы слышали, как кто-то позвонил в дверь
+“Der junge Mann *lehrt* Kinder tanzen.”
+
+
+1. Помогите мне прыгнуть!
+2. Помогите нам открыть дверь. Helfen Sie uns die Tür zu offnen 
+3. Мы слышали, как кто-то позвонил в дверь
 Wie haben gehört, wie jemand an der Tür [[geklingelt]] hat
 8. Он слышал, как девочка кричала.
 9. Мы видели, как кто-то нес ваш чемодан.
@@ -181,7 +187,7 @@ Ich habe vergessen, **Brot zu kaufen**.
 21. Ich bin sehr froh, dich zu ..... .
 22. Es ist sehr interessant, bei jemandem zu Besuch zu ..... .
 23. Ich wünschte meiner Freundin, viel Glück im Leben zu ..... .
-24. Es ist nicht schön, die ganze Zeit Spaß zu ..... .
+24. Es ist nicht schön, die ganze Zeit Spaß zu haben
 25. Er half mir gern, die Prüfung in Mathematik in der Uni zu ..... .
 26. Ich habe eine gute Chance verloren, den Urlaub in Brasilien zu ..... .
 27. Es ist sehr einfach, einen Bildband von Salvador Dalí in der Buchhandlung zu ..... .
@@ -291,15 +297,17 @@ _[[Kreide]]_
 
 ### 17.11 Переведите следующие предложения, используя модальную конструкцию **sein + zu + Infinitiv**:
 
-47. Эту новость можно прочитать.
-48. Эту ошибку можно исправить.
-49. Эти деньги можно получить.
-50. Эти газеты можно взять.
-51. Эту юбку можно носить.
-52. Об этой возможности можно забыть.
-53. Эти бумаги можно было уничтожить.
-54. Эту ситуацию можно было объяснить.
-55. Этого человека можно было найти.
+1. Эту новость можно прочитать. Diese Nachricht kann gelesen werden.
+
+
+2. Эту ошибку можно исправить.
+3. Эти деньги можно получить.
+4. Эти газеты можно взять.
+5. Эту юбку можно носить.
+6. Об этой возможности можно забыть.
+7. Эти бумаги можно было уничтожить.
+8. Эту ситуацию можно было объяснить.
+9. Этого человека можно было найти.
 ---
 ### 17.12* Заполните пропуски местоимением **jeder** в соответствующем роде и падеже. Переведите предложения на русский язык:
 
@@ -378,13 +386,16 @@ _[[Kreide]]_
 108. Она ищет все картины этого художника.
 109. Мы часто приглашаем в клуб всех наших друзей. Некоторые отказываются, но некоторые приходят.
 110. Возьми на всякий случай мобильный телефон. Мы будем тебе звонить.
-111. На всякий случай у него есть прекрасное алиби.
-112. Во всех самолетах этой фирмы очень хорошие кресла.
-113. Во всех домах этого города красивые квартиры.
-114. Эта девочка поедет за границу вместе со всеми детьми.
-115. Углы всех комнат были серые и грязные.
-116. Все уже здесь.
-117. Все будут отмечать Пасху.
+Nimm für alle Fälle dein Mobiltelefon. Wir werden dich anrufen.
+
+
+1. На всякий случай у него есть прекрасное алиби.
+2. Во всех самолетах этой фирмы очень хорошие кресла.
+3. Во всех домах этого города красивые квартиры.
+4. Эта девочка поедет за границу вместе со всеми детьми.
+5. Углы всех комнат были серые и грязные.
+6. Все уже здесь.
+7. Все будут отмечать Пасху.
 
 ---
 

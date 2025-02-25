@@ -13,3 +13,4 @@ Antonyme: [[nachdem]], [[danach]]
 ---
 #Konjunktion #Subordinierend
 , [[s1 e1]]
+, [[als]]

@@ -30,3 +30,6 @@ PI: [[bleibend]], PII: [[geblieben]], Zu+inf: [[zubleiben]]
 [[bleibend]], [[bleibenswert]], [[bleibsam]], [[bleibsel]]
 
 , [[gehen]], [[reisen]], [[stehen]], [[rücken]], [[hingehen]], [[begeben]]
+, [[abfahren]]
+, [[verschwinden]]
+, [[umsteigen]]

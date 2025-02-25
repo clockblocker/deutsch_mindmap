@@ -1,1 +1,2 @@
 , [[schaffen]], [[Vernichtung]]
+, [[verschaffen]]

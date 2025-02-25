@@ -26,3 +26,4 @@ D: der [[Lücke]], den [[Lücken]]
 
 [[Abstand]], [[loch]], [[Stelle]]
 , [[Lückentext]]
+, [[Leerzeichen]]

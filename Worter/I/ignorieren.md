@@ -4,3 +4,5 @@
 , [[schnüffeln]]
 , [[mitbekommt]]
 , [[aussuchen]]
+, [[kennenlernen]]
+, [[beurteilen]]

@@ -31,3 +31,5 @@ Partizip I: [[fragend]], Partizip II: [[gefragt]]
 
 [[fragen]] - [[frag]][[en]]
 , [[befragen]], [[Fragerei]], [[ungefragt]], [[verfügen]]
+
+[[frage]]

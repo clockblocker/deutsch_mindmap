@@ -23,3 +23,4 @@ D: der [[Niederlage]], den [[Niederlagen]]
 
 ---
 [[niederlagen]], [[niederlegen]], [[sieglos]], [[verlieren]], [[unterliegen]], [[scheitern]], [[w-l]], [[Wahlniederlage]]
+, [[nie]]

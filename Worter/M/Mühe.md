@@ -4,6 +4,8 @@ die [[Mühen]]
 ---
 Ohne [[Mühe]], lernt man keine [[Fremdsprache]]
 
+1. Sich (D) die [[Mühe]] geben.
+
 , [[Bemühung]], 💪 [[mühen]]
 
 ---

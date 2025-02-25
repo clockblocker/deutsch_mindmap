@@ -1,1 +1,2 @@
 , [[schlafen]], [[aufstehen]], [[abhotten]]
+, [[erholen]]

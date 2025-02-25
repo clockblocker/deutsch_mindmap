@@ -1,1 +1,2 @@
 , [[unterstützen]], [[fördern]]
+, [[bevorzugen]]

@@ -1,1 +1,2 @@
 , [[schätzen]], [[Wert]], [[kritisieren]]
+, [[beurteilen]]

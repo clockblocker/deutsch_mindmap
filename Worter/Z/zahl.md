@@ -27,3 +27,4 @@ D: der [[Zahl]], den [[Zahlen]]
 
 , [[zahlreiche]], [[bezahlen]], [[Gehaltszahlungen]], [[Steuerzahler]]
 , [[Mengenangabe]], [[auszahlen]]
+, [[Zahlung]]

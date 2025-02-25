@@ -3,10 +3,14 @@
 ---
 [[Verschwinde]] aus unserem Dorf und [[zwar]] sofort!
 
+Wenn ich das Geld [[verschwende]], ist das Gelt [[verschwunden]]
+
+!= [[erscheinen]] 
+
 ---
 = [[entschwinden]], [[entweichen]], [[dahinschwinden]]
 ≈ [[verschweben]], [[wegfallen]], [[untertauchen]], [[verloren gehen]]
-≠ [[auftauchen]], [[erscheinen]], [[hervortreten]], [[bleiben]]
+≠  [[erscheinen]], [[auftauchen]], [[erscheinen]], [[hervortreten]], [[bleiben]]
 
 ---
 to disappear, to vanish

@@ -1,1 +1,2 @@
 [[köstlich]], [[eklig]]
+, [[geschmacklos]]

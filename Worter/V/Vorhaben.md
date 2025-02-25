@@ -1,9 +1,13 @@
 🎯 [[vorhaben]], [ˈfoːɐ̯haːbn̩] | [[vorhatte]], haben [[vorgehabt]]
 
 ---
-*[[Plötzlich]] und [[misstrauisch]]* [[vorhaben|Habt]] ihr zwei irgendwas vor?
+*[[Plötzlich]] und [[misstrauisch]]*: [[vorhaben|Habt]] ihr zwei irgendwas vor?
+
+Im Juli [[haben]] wir [[vor]], nach Frankreich zu fahren. _В июле мы планируем поехать во Францию._
 
 [[2 ADHD.md#^4|(q)]] Es fällt mir schwer Aufgaben, [[Vorhaben]] oder Aktivitäten zu organisieren. ^4
+
+Ich [[habe vor]], viel Geld zu [[verdienen]].
 
 ---
 = [[planen]], [[beabsichtigen]], [[sich vornehmen]]

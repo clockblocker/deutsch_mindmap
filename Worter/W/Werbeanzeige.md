@@ -1,1 +1,2 @@
 , [[Produktrezension]]
+, [[Inserat]]

@@ -2,7 +2,9 @@
 nicht [[erfolglos]]
 
 ---
- Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderungen]], die so groß sind, dass man daraus ein Sprichwort machen muss.
+Ich lerne Deutsch, um die Prüfung [[erfolgreich]] zu [[bestehen]].
+ 
+Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderungen]], die so groß sind, dass man daraus ein Sprichwort machen muss.
 
 [[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 

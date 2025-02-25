@@ -3,7 +3,9 @@
 ---
 Aber [[irgendwie]] macht der Rechner nicht das, was er tun soll. [[Schon]] das [[Hochfahren]] [[klappt]] nicht immer, ein neuer Browser lässt sich nicht installieren, und dann ist da immer wieder diese [[seltsame]] [[Fehlermeldung]]. 
 
- [[Kürzlich]] habe ich diese Musik [[schon]] gehört   [[12 Past#^8|(Quelle: 12 Past)]] 
+Ich hatte keine Ahnung, dass er [[schon]] [[lange]] weggefahren ist
+
+[[Kürzlich]] habe ich diese Musik [[schon]] gehört   [[12 Past#^8|(Quelle: 12 Past)]] 
 
 Oder es war nur ein gewöhnliches Wetterleuchten. Das hatten wir doch alles [[schon]] des [[Öfteren]], Prinz Zuko. 
 

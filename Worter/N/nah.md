@@ -1,34 +1,36 @@
-[[nah]]
- 
+📍 [[nah]], [naː] ≠ [[fern]]
+
 ---
- “[[fern]]” und “[[nah]]” sind [[Antonym]]e.
-  Das [[Gegenteil]] von “[[fern]]” ist “[[nah]]”.
+Dein Auto ist [[nah]]. Mein Auto ist [[näher]]. Sein Auto ist am [[nächsten]].
+
+Das [[Gegenteil]] von “[[fern]]” ist “[[nah]]”.
 
 *Der [[Haut]] so [[nah]], dem Auge [[fern]]*  
 
 Aang, bleib stehen! Wir dürfen da nicht [[näher]] rangehen. Das Schiff könnte voller Fallen sein!
 
+, [[Nähe]]
 
 ---
-Synonyme: [[nahe]], [[dicht]], [[in der Nähe]], [[benachbart]], [[eng]]
-Antonyme: [[weit]], [[fern]], [[entfernt]], [[abgelegen]]
+= [[nahe]], [[dicht]], [[unweit]]
+≈ [[in der Nähe]], [[beinahe]], [[fast]]
+≠ [[fern]], [[entfernt]], [[weit]]
 
 ---
-**Übersetzung**:
 near, close
+близкий, близко
 
 ---
-#Adjective [[nah]]
-
----
-Morpheme:
 [[nah]]
 
 ---
+N: [[nah]], [[näher]], [[nächst]]
+A: [[nahen]], [[näheren]], [[nächsten]]
+G: [[nahen]], [[näheren]], [[nächsten]]
+D: [[nahem]], [[näherem]], [[nächsten]]
+F: [[nahe]], [[nähere]], [[nächste]]
+N: [[nahes]], [[näheres]], [[nächstes]]
+P: [[nahen]], [[näheren]], [[nächsten]]
 
-
-Einzigartige mögliche Formen: 
-[[nah]], [[naher]], [[nahe]], [[nahes]], [[nahen]], [[nahem]], [[naher]], [[nahen]]
-[[näher]], [[näherer]], [[nähere]], [[näheres]], [[näheren]], [[näherem]], [[näherer]], [[näheren]]
-[[nächsten]], [[nächster]], [[nächste]], [[nächstes]], [[nächsten]], [[nächstem]], [[nächster]], [[nächsten]]
-, [[Nähe]]
+---
+[[Nähe]], [[nahezu]], [[Nachbar]], [[Nachbarschaft]]

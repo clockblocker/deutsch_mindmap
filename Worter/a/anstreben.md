@@ -1,2 +1,3 @@
 , [[versuchen]], [[wollen]]
 , [[vermeiden]]
+, [[beabsichtigen]]

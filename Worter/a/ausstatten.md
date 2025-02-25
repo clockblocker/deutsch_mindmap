@@ -1,1 +1,2 @@
 , [[versorgen]], [[einrichten]]
+, [[bestücken]]

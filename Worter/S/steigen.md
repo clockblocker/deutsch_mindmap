@@ -16,7 +16,9 @@ Bei den Kunstauktionen in London [[stieg]] der Umsatz in den letzten Jahren kont
 (Hebt die Hand um zu protestieren) Äh. ([[Steigt]] auf Appa)
 
 ---
-[[versteigen]] - [[ver]] = [[steigen]]
+[[versteigen]] - [[ver]] = [[steigen]] / to climb too high, to get into a difficult situation
+[[umsteigen]] - [[um]] = [[steigen]] / to change, to transfer
+[[aussteigen]] - [[aus]] = [[steigen]] / to get out, to disembark
 
 
 ---
@@ -45,3 +47,5 @@ Partizip I: [[steigend]], Partizip II: [[gestiegen]]
 
 [[steigen]] - [[en]] = [[steig]]
 , [[versteigen]], [[steigende]], [[klettern]], [[s1 e1]]
+, [[umsteigen]]
+, [[aussteigen]]
