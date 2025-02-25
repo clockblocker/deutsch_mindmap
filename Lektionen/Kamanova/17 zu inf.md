@@ -240,10 +240,6 @@ Unsere Nachbarn haben nach Weihnachten überraschend aufgehört, Sport zu treibe
 
 _[[Kreide]]_
  Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
- Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
- Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
- Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
- Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
 
 
  Unsere nachbaren haben nach Weihnachten überraschend aufgehört Sport zu treiben 
@@ -275,16 +271,16 @@ _[[Kreide]]_
 24. Как плохо быть разочарованным!
 ### 17.9 Переведите следующие предложения, используя модальную конструкцию **haben + zu + Infinitiv**:
 
-25. Мы должны приготовить хороший обед, потому что к нам придут гости.
-26. Так как этот ребенок очень слабый, он должен заниматься спортом.
-27. Наш сосед должен улучшить состояние своей квартиры.
-28. Так как мы не знаем всех слов, мы должны пользоваться словарем.
-29. Эта девушка должна помогать своей старой больной тете.
-30. Этот мальчик должен слушаться свою маму.
-31. Мы должны найти решение этой проблемы настолько быстро, насколько возможно.
-32. Он должен был принять приглашение своего начальника.
-33. Она должна была принимать эти таблетки каждый день.
-34. Перед экзаменом мы должны были собраться мыслями.
+1. Мы должны приготовить хороший обед, потому что к нам придут гости.  Wir müssen ein gutes Mittagessen zubereiten, weil Gäste komen.
+2. Так как этот ребенок очень слабый, он должен заниматься спортом. Weil dieses Kind sehr schwach ist, muss es Sport treiben.
+3. Наш сосед должен улучшить состояние своей квартиры.
+4. Так как мы не знаем всех слов, мы должны пользоваться словарем.
+5. Эта девушка должна помогать своей старой больной тете.
+6. Этот мальчик должен слушаться свою маму.
+7. Мы должны найти решение этой проблемы настолько быстро, насколько возможно.
+8. Он должен был принять приглашение своего начальника.
+9. Она должна была принимать эти таблетки каждый день.
+10. Перед экзаменом мы должны были собраться мыслями.
 
 ---
 
