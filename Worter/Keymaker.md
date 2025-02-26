@@ -85,11 +85,63 @@ Ich muss alle meine Aufgaben auf der Arbeit erledigen, bevor ich in einen langen
 1. Er hat nicht vergessen, seine alten Hefte in die Schule zu ..... (mitbringen).
 2. Es ist nicht schön, die Einladung des Freundes nicht gern anzunehmen (annehmen).
 3. Es ist doch naiv, einen Termin im letzten Moment zu ..... (absagen).
+Es ist doch naiv, einen Termin im letzten Moment zu ==absagen==.
+
+
+
+
+That's naive, canceling an appointment at the last minute. Es ist doch naive, einen Termin im letzten Moment zu absagen.
+
+That's naive, canceling an appointment at the last minute. Es ist doch naive, ein Termin in letzten Moment zu absagen.
+
+
 
 
 4.  Er hat nicht vergessen, seine alten Hefte in die Schule zu mitbringen.
-5.  Es ist nicht schön, die Einladung des Freundes nicht gern zu annehmen
-6.  Es ist doch naiv, einen Termin im letzten Moment abzusagen
+
+He didn't forget to bring his old notebooks to school. Sie hat nicht vergessen, seine alten Hefte in die Schule zu bringen.
+
+
+He didn't forget to bring his old notebooks to school. Er haben nicht vergessen, seine alten Hefte in die Schule zu bringen.
+
+
+
+
+
+He didn't forget to bring his old notebooks to school. Er hat nichts vergessen, seine alten Hefte in die Schule zu bringen.
+Er hat ==nichts== vergessen, seine alten Hefte in die Schule zu bringen. ✅
+
+
+
+
+
+He didn't forget to bring his old notebooks to school. Er hat nicht vergessen, sein alte Heft in die Schule zu bringen.
+Er hat nicht vergessen, sein==e== alt==en== Heft==e== in die Schule zu bringen.
+
+
+
+
+
+
+
+
+
+
+
+1.  Es ist nicht schön, die Einladung des Freundes nicht gern zu annehmen
+2.  Es ist doch naiv, einen Termin im letzten Moment abzusagen
 
 
 ----
+
+1. Наш коллега пообещал нам собраться мыслями и ответить на все наши вопросы.
+Unserem Kollege haben uns versprechen, sich sammeln und alle unsere Fragen zu beantworten.
+
+Uns==er== Kolleg==e== ==hat== uns ==versprochen==, sich ==zu== sammeln und alle unsere Fragen zu beantworten.
+
+1. Наш коллега пообещал нам собраться мыслями и ответить на все наши вопросы.
+
+Unser Kollege hat uns versprochen, sich zu sammeln und alle unsere Frage zu antworten.
+
+Unser Kollege hat uns versprochen, sich zu sammeln und alle unsere ==Fragen== zu beantworten.
+🔑 [[Keymaker]] | 🔵 der [[Keymaker]] 🔑

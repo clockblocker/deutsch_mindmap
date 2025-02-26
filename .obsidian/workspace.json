@@ -223,6 +223,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Lektionen/Kamanova/17 zu inf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17 zu inf"
+            }
+          },
+          {
+            "id": "4980a24fd30f11c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Worter/Keymaker.md",
                 "mode": "source",
                 "source": false
@@ -316,7 +330,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -463,11 +477,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "47322e28868e26a5",
+  "active": "4980a24fd30f11c4",
   "lastOpenFiles": [
-    "Lektionen/Bekker/34.md",
-    "Lektionen/Bekker/33.md",
     "Lektionen/Kamanova/17 zu inf.md",
+    "Lektionen/Bekker/34.md",
+    "Worter/Keymaker.md",
+    "Lektionen/Bekker/33.md",
     "Grammatik/Adjektivdeklination.md",
     "Texte/b2 Das sagt man so!/Einen Kater haben.md",
     "Worter/A/auflegen.md",
@@ -490,7 +505,6 @@
     "Texte/Skripte/extra/Extra 2.md",
     "Texte/Skripte/extra/Extra 9.md",
     "Texte/Skripte/extra/Extra 3.md",
-    "Texte/Skripte/extra/Extra 1.md",
     "Anhänge/Pasted image 20250224055949.png",
     "Anhänge/Pasted image 20250224055705.png",
     "Anhänge/Pasted image 20250224055357.png",
