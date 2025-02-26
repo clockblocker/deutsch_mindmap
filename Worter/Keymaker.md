@@ -10,20 +10,19 @@ Der Chef haben mir gesagt, alle mein Dokument ins Büro zu sagen.
 ---
 `Не немецкий текст будет переведет на немецкий`
 Наш коллега пообещал нам собраться мыслями и ответить на все наши вопросы.
-Unser Kollege hat uns versprochen, sich zu sammeln und alle unsere Fragen zu beantworten.
-
-
 
 `Немецкий текст будет проверен на грамматическую корректность`
 Unser Kollege hat uns versprochen sich zu sammeln und all unser Sachen zu beantworten.
-Unser Kollege hat uns versprochen==,== sich zu sammeln und all unser==e== Sachen zu beantworten.
 
-
-
-`Перевод + немецкий текст проверит правильно ли переведены слова`
+`Перевод + немецкий текст проверит не толлько грамматику, но и то, правильно ли переведены слова`
 Наш коллега пообещал нам собраться мыслями и ответить на все наши вопросы.
 Unser Kollege hat uns versprochen sich zu sammeln und all unser Sache zu beantworten
-Unser Kollege hat uns versprochen==,== sich zu sammeln und all unser==e== Sache==n== zu beantworten.
+
+Наш коллега пообещал нам собраться мыслями и ответить на все наши вопросы.
+Unser Kollege hat uns spechen sich zu sammeln und all unser Sache zu beantworten
+
+
+
 
 
 
