@@ -965,7 +965,7 @@ Helfen Sie uns==,== die T\xFCr zu ==\xF6ffnen==.</agent_output>
       <agent_output>Please include the translation in the next selection in order for me to help with the correction.</agent_output>
     </example>
   </example>
-</example_block>`;var x={generate_dictionary_entry:ye,determine_infinitive_and_pick_emoji:be,make_brackets:Ee,translate_de_to_eng:ke,translate_ru_to_de:xe,check_ru_de_translation:Ce};var F=class{constructor(n,t){this.settings=n;this.vault=t;this.genAI=null;this.model="gemini-2.0-flash-lite";this.logFile="api-logs.md";this.chatSessions={};try{this.settings.apiProvider==="deepseek"||this.settings.apiProvider==="google"&&(this.genAI=new I(this.settings.googleApiKey)),this.ensureLogFile()}catch(i){new T.Notice(`Error initializing API service: ${i.message}`)}}async ensureLogFile(){try{await this.vault.adapter.exists(this.logFile)||await this.vault.create(this.logFile,`# API Logs
+</example_block>`;var x={generate_dictionary_entry:ye,determine_infinitive_and_pick_emoji:be,make_brackets:Ee,translate_de_to_eng:ke,translate_ru_to_de:xe,check_ru_de_translation:Ce};var F=class{constructor(n,t){this.settings=n;this.vault=t;this.genAI=null;this.model="gemini-2.0-flash-lite-preview-02-05";this.logFile="api-logs.md";this.chatSessions={};try{this.settings.apiProvider==="deepseek"||this.settings.apiProvider==="google"&&(this.genAI=new I(this.settings.googleApiKey)),this.ensureLogFile()}catch(i){new T.Notice(`Error initializing API service: ${i.message}`)}}async ensureLogFile(){try{await this.vault.adapter.exists(this.logFile)||await this.vault.create(this.logFile,`# API Logs
 
 `)}catch(n){console.error("Error creating log file:",n)}}async appendToLog(n,t,i){try{let s=`
                 ## ${new Date().toISOString()}
