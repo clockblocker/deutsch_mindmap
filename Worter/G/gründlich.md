@@ -25,3 +25,4 @@ Einzigartige mögliche Formen:
 
 Adverbiale Verwendung: auf eine gründliche Art und Weise
 ''', [[Ausführlich]], [[Begründung]]
+, [[Grund]]

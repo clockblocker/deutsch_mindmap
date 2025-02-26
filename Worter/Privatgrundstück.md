@@ -27,3 +27,4 @@ D: dem [[Privatgrundstück]], den [[Privatgrundstücken]]
 
 ---
 [[privat]], [[grundstücklich]], [[Grundbesitz]], [[Eigentum]]
+, [[Grund]]

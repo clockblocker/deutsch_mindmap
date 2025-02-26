@@ -35,3 +35,4 @@ Einzigartige mögliche Formen:
 *und brachte seinen runden [[Reif]].*  
 
 hoop
+, [[Ring]]

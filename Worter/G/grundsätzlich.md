@@ -28,3 +28,4 @@ P: [[grundsätzlichen]], [[grundsätzlicheren]], [[grundsätzlichsten]]
 
 ---
 [[Grundsatz]], [[grundlegen]], [[Grundsätzlichkeit]], [[grundlegend]]
+, [[Grund]]

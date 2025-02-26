@@ -44,3 +44,4 @@ Partizip I: [[rettend]], Partizip II: [[gerettet]]
 
 [[retten]] - [[rett]] = [[en]]
 ''', [[ermorden]], [[morden]], [[verbrennen]], [[totschlagen]], [[vernichten]]
+, [[auffangen]]

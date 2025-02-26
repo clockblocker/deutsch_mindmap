@@ -1,23 +1,25 @@
-🔵 der [[Freund]], [ˈfʁɔɪ̯nt]
+🔵 🧑‍🤝‍🧑 der [[Freund]], [fʁɔɪ̯nt]
 die [[Freunde]]
 
-
 ---
 
+---
+= [[Kumpel]], [[Bekannter]], [[Gefährte]]
+≈ [[Vertrauter]], [[Kollege]], [[Partner]], [[Kamerad]]
+≠ [[Feind]], [[Gegner]], [[Fremder]], [[Unbekannter]]
 
 ---
-Synonyme:
-- [[Kumpel]], [[Kamerad]], [[Gefährte]], [[Buddy]], [[Kollege]]
+friend
+друг
 
 ---
-Übersetzung: f
-
----
-Morpheme:
 [[Freund]]
 
 ---
-Einzigartige mögliche Formen: [[Freunds]], [[Freund]], [[Freunde]], [[Freunden]]
+N: der [[Freund]], die [[Freunde]]
+A: den [[Freund]], die [[Freunde]]
+G: des [[Freundes]], der [[Freunde]]
+D: dem [[Freund]], den [[Freunden]]
 
 ---
-#Substantiv #Maskulin, [[Freundin]], [[Feind]], [[Freundliches]]
+[[freundlich]], [[Freundschaft]], [[befreunden]], [[Freundin]], [[Freundschaftlich]]

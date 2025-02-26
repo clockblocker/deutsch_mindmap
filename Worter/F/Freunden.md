@@ -1,1 +1,2 @@
-, [[Freund]]
+
+🔴 die [[Freund]] 🫂

@@ -8,3 +8,4 @@
 , [[aufsässig]]
 , [[aufwachen]]
 , [[aufmachen]]
+, [[auffangen]]

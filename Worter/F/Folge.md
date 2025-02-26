@@ -21,3 +21,4 @@ sequence, episode
 #Substantiv
 #Feminin[[Serie]], [[Ergebnis]], [[Reihe]], [[folgend]], [[Anlass]]
 , [[infolge]]
+, [[Grund]]

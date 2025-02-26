@@ -6,6 +6,8 @@ haben [[gefangen]]
 *Er [[fing]] die Fliegen in dem Haus*  
 *und riß ihnen die Flügel aus.*  
 
+[[Einen Kater haben.md#^1|(q)]] Es [[fängt]] meistens so an: Die Party ist gut, alle Freunde sind da, der Alkohol fließt, die Stimmung steigt. ^1
+
 *gleich [[fing]] er wieder an zu schrein:*  
 *»Ich esse keine Suppe! nein!*  
 
@@ -14,7 +16,7 @@ Ich brauch keinen Beruhigungstee! Ich will nur endlich den Avatar fangen! 
  Pass auf, so [[fängt]] man einen Fisch!
  
 ---
-[[auffangen]] - [[auf]] = [[fangen]]     //  to catch, to intercept
+[[auffangen]] - [[auf]] = [[fangen]] / to catch, to intercept
 [[anfangen]] - [[an]] = [[fangen]]     // to begin, to start
 [[empfangen]] - [[emp]] = [[fangen]] // to receive, to welcome
  

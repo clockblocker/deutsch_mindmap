@@ -157,7 +157,9 @@ Unsere Freunde sind gefahren, um [[ihren]] Kollegen zu gratulieren
 “Der junge Mann *lehrt* Kinder tanzen.”
 
 
-1. Помогите мне прыгнуть! Hilf mir zu springen!
+1. Помогите мне прыгнуть! Hilfen mir zu springen!
+
+
 2. Помогите нам открыть дверь. Helfen Sie uns die Tür zu offnen 
 3. Мы слышали, как кто-то позвонил в дверь
 Wie haben gehört, wie jemand an der Tür [[geklingelt]] hat
@@ -176,21 +178,24 @@ Wie haben gehört, wie jemand an der Tür [[geklingelt]] hat
 *z. B.* Ich habe vergessen, **Brot zu ......**  
 Ich habe vergessen, **Brot zu kaufen**.
 
-13. Er hat mir versprochen, einen interessanten Kommentar zu ..... .
-14. Der Chef hat mir gesagt, alle meine Dokumente ins Büro zu ..... .
-15. Wir hoffen, an Ostern nach Amerika zu ..... .
-16. Es gibt viele Möglichkeiten, die Wahrheit zu ..... .
-17. Es hat keinen Sinn, das Kind in die Ecke zu ..... .
-18. Vergiss nicht, die Schlüssel zu ..... .
-19. Er hat plötzlich aufgehört, mit seinem Freund zu ..... .
-20. Wir haben gerade angefangen, das schöne Essen zu ..... .
-21. Ich bin sehr froh, dich zu ..... .
-22. Es ist sehr interessant, bei jemandem zu Besuch zu ..... .
-23. Ich wünschte meiner Freundin, viel Glück im Leben zu ..... .
-24. Es ist nicht schön, die ganze Zeit Spaß zu haben
-25. Er half mir gern, die Prüfung in Mathematik in der Uni zu ..... .
-26. Ich habe eine gute Chance verloren, den Urlaub in Brasilien zu ..... .
-27. Es ist sehr einfach, einen Bildband von Salvador Dalí in der Buchhandlung zu ..... .
+1. Er hat mir versprochen, einen interessanten Kommentar zu ..... .
+Er hat mir versprochen, einen interessanten Kommentar zu springen.
+
+
+1. Der Chef hat mir gesagt, alle meine Dokumente ins Büro zu ..... .
+2. Wir hoffen, an Ostern nach Amerika zu ..... .
+3. Es gibt viele Möglichkeiten, die Wahrheit zu ..... .
+4. Es hat keinen Sinn, das Kind in die Ecke zu ..... .
+5. Vergiss nicht, die Schlüssel zu ..... .
+6. Er hat plötzlich aufgehört, mit seinem Freund zu ..... .
+7. Wir haben gerade angefangen, das schöne Essen zu ..... .
+8. Ich bin sehr froh, dich zu ..... .
+9. Es ist sehr interessant, bei jemandem zu Besuch zu ..... .
+10. Ich wünschte meiner Freundin, viel Glück im Leben zu ..... .
+11. Es ist nicht schön, die ganze Zeit Spaß zu haben
+12. Er half mir gern, die Prüfung in Mathematik in der Uni zu ..... .
+13. Ich habe eine gute Chance verloren, den Urlaub in Brasilien zu ..... .
+14. Es ist sehr einfach, einen Bildband von Salvador Dalí in der Buchhandlung zu ..... .
 
 ---
 

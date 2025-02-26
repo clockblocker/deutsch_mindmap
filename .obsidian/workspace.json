@@ -83,12 +83,166 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Bekker/33.md",
+                "file": "Lektionen/Bekker/verben/34.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "33"
+              "title": "34"
+            }
+          },
+          {
+            "id": "63258f9a7659a982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 Das sagt man so!/Alle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alle"
+            }
+          },
+          {
+            "id": "3be36e662b3d12b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 Das sagt man so!/Auf Wolke sieben schweben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auf Wolke sieben schweben"
+            }
+          },
+          {
+            "id": "550f589b5dc2f84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/Grund.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grund"
+            }
+          },
+          {
+            "id": "5b9ff21b56b8518d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/gründe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gründe"
+            }
+          },
+          {
+            "id": "44e12594fb0cf591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 Das sagt man so!/Alle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alle"
+            }
+          },
+          {
+            "id": "4a9051f7c5f2451d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 Das sagt man so!/Einen Kater haben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Einen Kater haben"
+            }
+          },
+          {
+            "id": "479ebfecee5bac40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/F/fängt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fängt"
+            }
+          },
+          {
+            "id": "83373b7603d8da94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/F/fangen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fangen"
+            }
+          },
+          {
+            "id": "6ec32f498207d6c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lektionen/Bekker/34.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "34"
+            }
+          },
+          {
+            "id": "2b945547dbc5259b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/R/Ring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ring"
+            }
+          },
+          {
+            "id": "7c1bb66b14994979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/R/Ring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ring"
             }
           },
           {
@@ -148,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -295,34 +449,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "09f443b5811b08f4",
+  "active": "6ec32f498207d6c3",
   "lastOpenFiles": [
-    "Lektionen/Kamanova/17 zu inf.md",
     "Lektionen/Bekker/33.md",
-    "Worter/Keymaker.md",
-    "Texte/c1/Galileo/1 Payback und Co. - Wer profitiert von Punktesystemen.md",
-    "Worter/K/Kunden.md",
-    "Worter/V/von.md",
-    "Worter/S/sammeln.md",
-    "Texte/Avatar/s1 e1.md",
-    "Texte/b1/1 Haben Sie noch Zeit?.md",
-    "Worter/keymaker unfilled.md",
-    "Worter/A/Angelegenheit.md",
-    "Worter/T/thema.md",
-    "Texte/HPMOR/5. Der fundamentale Attributionsfehler.md",
-    "Texte/yt/Simplicissimus1/0.md",
-    "Worter/F/fragen.md",
-    "Worter/F/Frage.md",
-    "Lektionen/Kamanova/done/13 Nebensätze.md",
-    "Lektionen/Kamanova/done/11 Tren.md",
-    "Lektionen/Kamanova/done/8 Imperativ.md",
-    "Lektionen/Kamanova/done/16 Plusquamperfekt.md",
-    "Texte/c1/studtsbuch/1 Freizeit.md",
-    "Texte/c1/Begehen, entgehen, ergehen, vergehen, zergehen – Präfixverben und ihre Bedeutung.md",
-    "Texte/c1/Der elterliche Handykonsum und seine Folgen.md",
-    "Texte/c1/abra lesen/M1A1.md",
-    "Texte/c1/abra lesen/M1A2.md",
-    "Texte/c1/studtsbuch/2 Wolfgang Brenner.md",
+    "Lektionen/Bekker/34.md",
+    "Lektionen/Kamanova/17 zu inf.md",
+    "Grammatik/Adjektivdeklination.md",
+    "Texte/b2 Das sagt man so!/Einen Kater haben.md",
+    "Worter/A/auflegen.md",
+    "Worter/K/kommen.md",
+    "Worter/F/Freunden.md",
+    "Worter/F/Freund.md",
+    "Texte/Brüder Grimm/Hänsel und Gretel.md",
+    "Worter/D/der Haifisch.md",
+    "Worter/H/Haifisch.md",
+    "Kanban/Deutsch Kanban.md",
+    "Texte/Gedichte/Rammstein/Zeig dich.md",
+    "Worter/F/fängt.md",
+    "Worter/F/fangen.md",
+    "Worter/G/geweint.md",
+    "Worter/W/weinen.md",
+    "Texte/Gedichte/Rammstein/Deutschland.md",
+    "Worter/Deutschlands.md",
+    "Texte/Einbuergerungstest/done/1-30.md",
+    "Texte/Brüder Grimm/Aschenputtel.md",
+    "Texte/Skripte/extra/Extra 2.md",
+    "Texte/Skripte/extra/Extra 9.md",
+    "Texte/Skripte/extra/Extra 3.md",
+    "Texte/Skripte/extra/Extra 1.md",
     "Anhänge/Pasted image 20250224055949.png",
     "Anhänge/Pasted image 20250224055705.png",
     "Anhänge/Pasted image 20250224055357.png",

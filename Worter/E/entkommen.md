@@ -30,3 +30,4 @@ PI: [[entkommen]], PII: [[entkommen]], Zu+inf: [[zu entkommen]]
 
 ---
 [[Entkommen]], [[Flucht]], [[entgehen]], [[entweichen]], [[fliehen]]
+, [[auffangen]]

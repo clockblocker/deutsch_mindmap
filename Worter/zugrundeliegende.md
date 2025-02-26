@@ -26,3 +26,4 @@ P: [[zugrundeliegenden]], [[zugrundeliegendere]], [[zugrundeliegendsten]]
 
 ---
 [[liegen]], [[Grundlage]], [[zugrunde]], [[grundlegend]], [[Grundsatz]]
+, [[Grund]]
