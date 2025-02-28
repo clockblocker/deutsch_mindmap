@@ -1,1 +1,2 @@
 , [[faul]], [[tätig]], [[lustlos]]
+, [[zielstrebig]]

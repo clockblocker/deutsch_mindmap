@@ -7,7 +7,7 @@ die [[Herausforderungen]]
 [[1 ADHD#^9|(q)]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 ---
-= [[Aufgabe]], [[Prüfung]], [[Test]]
+= [[Aufgabe]], [[Prüfung]], [[Worter/T/Test]]
 ≈ [[Schwierigkeit]], [[Hindernis]], [[Probe]], [[Bewährungsprobe]]
 ≠ [[Leichtigkeit]], [[Einfachheit]], [[Routine]]
 

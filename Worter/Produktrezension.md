@@ -6,7 +6,7 @@ die [[Produktrezensionen]]
 
 ---
 = [[Produktbewertung]], [[Rezension]]
-≈ [[Produktbericht]], [[Erfahrungsbericht]], [[Bewertung]], [[Test]]
+≈ [[Produktbericht]], [[Erfahrungsbericht]], [[Bewertung]], [[Worter/T/Test]]
 ≠ [[Werbeanzeige]], [[Werbung]], [[Marketing]], [[PR]], [[Imagekampagne]]
 
 ---

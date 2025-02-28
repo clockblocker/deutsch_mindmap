@@ -46,3 +46,5 @@
 , [[einverstanden]]
 , [[verabreden]]
 , [[beurteilen]]
+, [[streben]]
+, [[aufpassen]]

@@ -7,3 +7,4 @@ CINDY: Hey [[Leute]] seid ihr startklar? Los gehts!
 die [[Person]]
 
 Man, [[Menschen]], [[Leut]], [[s1 e1]]
+, [[Mensch]]

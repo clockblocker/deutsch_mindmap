@@ -1,39 +1,34 @@
- [[schwach]]
-[[schwächer]]
-[[am]] [[schwächsten]]
+[[standhaft]], [[großartig]], [[Schwachstellen]], [[bullig]], [[Schlecht]]
+
+
+💪 [[schwach]], [ʃvax] ≠ [[stark]]
 
 ---
 Sie fühlte sich aber [[einsam]] und [[schwach]].
 
 *Am dritten Tag, o weh und ach!*  
 *wie ist der Kaspar [[dünn]] und [[schwach]]!*  
+§
+---
+= [[kraftlos]], [[schlaff]], [[energiearm]],  [[Schwäche]], 
+≈ [[unfähig]], [[hilflos]], [[verletzlich]], [[weich]]
+≠ [[stark]], [[kräftig]], [[widerstandsfähig]], [[robust]]
 
 ---
- 
-nicht [[stark]]
+weak, feeble
+слабый
 
 ---
-
-Synonyme:
-- [[kraftlos]], [[gebrechlich]], [[matt]]
+[[schwach]]
 
 ---
-
-Beispiele:
-
-- Nach der Krankheit war sie sehr [[schwach]].
-- Er fühlte sich [[schwächer]] als sonst.
-- Das war der [[schwächste]] Versuch von allen.
-
----
-**Übersetzung**: weak, feeble
+N: [[schwach]], [[schwächer]], [[schwächste]]
+A: [[schwachen]], [[schwächeren]], [[schwächsten]]
+G: [[schwachen]], [[schwächeren]], [[schwächsten]]
+D: [[schwachem]], [[schwächerem]], [[schwächstem]]
+F: [[schwache]], [[schwächere]], [[schwächste]]
+N: [[schwaches]], [[schwächeres]], [[schwächstes]]
+P: [[schwachen]], [[schwächeren]], [[schwächsten]]
 
 ---
-
-Tags:
-#Adjective
-
----
-
-Morphems:
-[[schwach]], [[gesund]], [[übermächtig]], [[kerngesund]], [[Schwachsinn]], [[überlegen]], [[Schwäche]], [[standhaft]], [[großartig]], [[Schwachstellen]], [[bullig]], [[Schlecht]]
+[[Schwäche]], [[abschwächen]], [[schwachsinnig]], [[schwachköpfig]], [[schwachstellen]]

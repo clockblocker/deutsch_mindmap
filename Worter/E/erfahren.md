@@ -65,3 +65,5 @@ P: [[erfahrenen]], [[erfahreneren]], [[erfahrensten]]
 ---
 [[Erfahrung]], [[erfahren]], [[Erfahrenheit]], [[Urerfahrung]], [[erfahrbar]]
 , [[mitbekommt]]
+
+[[aufpassen]]

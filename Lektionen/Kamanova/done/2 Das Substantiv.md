@@ -83,7 +83,11 @@ z.B. ich bin Techniker, du bist Techniker, er ist Techniker, wir sind Techniker,
 8. seid Sportler.
 2.11* Заполните пропуски соответствующими формами глаго- na sein:
 .1 Wir...... Sportler. 2. Sie ...... Lehrer. 3. Du .... Techniker. 4. Ihr. Mechaniker. 5. E.r. Grafiker. 6. Sie ...A..rbeiter. 7. Ihr ..... Sportler.
-8.Wir ....Mechaniker. 9. Er .....Lehrer. 10. Sie. Techniker.
+8.Wir ....Mechaniker. 9. Er .....Lehrer. 
+
+1. Sie. Techniker.
+
+
 2.12 Переведите следующие предложения на немецкий язык:
 1. Этот человек - учитель. 2. Этот ребенок - спортсмен. 3. Эти рабо- чие- хорошие. .4 Эти техники - плохие. 5. Этот график - старый. 6. Этот механик - высокий. 7. Эти рабочие - новые. 8. Эти спортсме-
 ын - красивые.

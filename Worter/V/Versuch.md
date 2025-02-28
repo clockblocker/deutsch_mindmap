@@ -5,8 +5,8 @@ die [[Versuche]]
 [[1 ADHD#^11|(q)]] ist beim [[Versuch]], sich zu konzentrieren, leicht [[abgelenkt]] durch Dinge, die sie sieht oder hört. ^11
 
 ---
-= [[Experiment]], [[Test]], [[Probe]], [[Bemühung]],  [[ausprobieren]]
-≈ [[Anstrengung]], [[Bemühung]], [[Probe]], [[Test]], [[Bewerb]], [[Annäherung]], 
+= [[Experiment]], [[Worter/T/Test]], [[Probe]], [[Bemühung]],  [[ausprobieren]]
+≈ [[Anstrengung]], [[Bemühung]], [[Probe]], [[Worter/T/Test]], [[Bewerb]], [[Annäherung]], 
 ≠ [[Erfolg]], [[Scheitern]], [[Misserfolg]], [[Aufgabe]]
 
 ---

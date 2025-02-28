@@ -142,7 +142,7 @@ Ich gratuliere dir.
 6. Он ничего не говорит своему брату.  Er sagt seinem Bruder nichts
 7. Они дают её сыну йогурты.  Sie geben ihrem Sohn Jogurts
 8. Я дарю моей подруге книги.  Ich schenke meiner Freundin Bücher
-9. Моя подруга дарит её брату часы.  
+9. Моя подруга дарит её брату часы. Meine Freundin schenkt ihrem Bruder eine Uhr.
 10. Эти люди дарят моей подруге одежду.  
 11. Он не даёт его брату свои игрушки.  
 12. Она не даёт своему ребёнку яйца.  

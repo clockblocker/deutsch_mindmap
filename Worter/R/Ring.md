@@ -2,7 +2,7 @@
 die [[Ringe]]
 
 ---
-[[33.md#^1|(q)]] 15. Она говорит, что ты купишь ей это кольцо. Sie sagt, dass du ihr diesen [[Ring]] kaufen wirst ^1
+[[33#^1|(q)]] 15. Она говорит, что ты купишь ей это кольцо. Sie sagt, dass du ihr diesen [[Ring]] kaufen wirst ^1
 
 ---
 = [[Ehering]], [[Schmuckring]], [[Fingerring]]

@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=nRBXT1QSbeQ
 
 Dreieinhalb Millionen Mal am Tag zeigen wir Deutschen an der Kasse unsere Punktekarte vor. Und ganze 28 Millionen Menschen hierzulande sammeln sie. Payback-Punkte – Sinn oder Unsinn? 
 
+[[erfahren]]
+
 "Ich muss ehrlich sagen, ich hab das noch nie überdacht, ob es sich wirklich lohnt."  
 "Ob sich das wirklich rentiert? Ich hab keine Ahnung."  
 "Ich hab da meine Zweifel, ob man wirklich was dabei spart."  

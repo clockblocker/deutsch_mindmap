@@ -11,6 +11,14 @@
 *Я знаю, что я стану знаменитым.*
 *Он знает, что все напрасно.*
 
+stark - schwach
+richtig - falsch
+
+schmutzig - sauber 
+oft - selten
+teuer - billig
+[[hübsch]] - [[hässlich]]
+
 
 
 

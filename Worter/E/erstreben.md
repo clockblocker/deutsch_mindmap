@@ -1,3 +1,4 @@
 
 , [[vermeiden]]
 , [[beabsichtigen]]
+, [[streben]]

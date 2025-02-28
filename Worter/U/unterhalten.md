@@ -3,6 +3,9 @@
 haben [[unterhalten]]
 
 ---
+_9. Когда он стал богатым, он не захотел с нами общаться._
+Als er reich geworden ist, wollte er sich nicht mit uns [[unterhalten]].
+
 Als die beiden mit den Getränkekisten zurückkommen, [[unterhalten]] [[sie]] [[sich]] [[leb haft]]. Die anderen kommen dazu und nehmen den beiden ein paar von den schweren Kisten ab.
 
 Ich [[unterhalte]] mich mit dem Verkaufer

@@ -97,152 +97,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Alle.md",
+                "file": "Wortlisten/Verben/prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alle"
+              "title": "prompt"
             }
           },
           {
-            "id": "3be36e662b3d12b5",
+            "id": "8371b0017ee2c3bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Auf Wolke sieben schweben.md",
+                "file": "Wortlisten/Verben/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auf Wolke sieben schweben"
+              "title": "test"
             }
           },
           {
-            "id": "550f589b5dc2f84d",
+            "id": "29ffe095822a0af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/G/Grund.md",
+                "file": "Worter/Medium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grund"
-            }
-          },
-          {
-            "id": "5b9ff21b56b8518d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/G/gründe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gründe"
-            }
-          },
-          {
-            "id": "44e12594fb0cf591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/b2 Das sagt man so!/Alle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alle"
-            }
-          },
-          {
-            "id": "4a9051f7c5f2451d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/b2 Das sagt man so!/Einen Kater haben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Einen Kater haben"
-            }
-          },
-          {
-            "id": "479ebfecee5bac40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/F/fängt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fängt"
-            }
-          },
-          {
-            "id": "83373b7603d8da94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/F/fangen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fangen"
-            }
-          },
-          {
-            "id": "6ec32f498207d6c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Bekker/34.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "34"
-            }
-          },
-          {
-            "id": "47322e28868e26a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Kamanova/17 zu inf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17 zu inf"
-            }
-          },
-          {
-            "id": "4980a24fd30f11c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Keymaker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keymaker"
+              "title": "Medium"
             }
           },
           {
@@ -316,21 +204,91 @@
             }
           },
           {
-            "id": "4e162f086badb472",
+            "id": "f87a4d5d21377e67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/E/erscheinen.md",
+                "file": "Worter/E/erfahren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "erscheinen"
+              "title": "erfahren"
+            }
+          },
+          {
+            "id": "dda9cb7b8d0320b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/A/aufpassen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aufpassen"
+            }
+          },
+          {
+            "id": "9b26acdd226b6ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/vorstellen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vorstellen"
+            }
+          },
+          {
+            "id": "215151159eeb0a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/F/freuen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "freuen"
+            }
+          },
+          {
+            "id": "c40267baba1cf923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/F/freunde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "freunde"
+            }
+          },
+          {
+            "id": "a9f8086bad1c2ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/B/befreunden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "befreunden"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -477,34 +435,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4980a24fd30f11c4",
+  "active": "a9f8086bad1c2ee9",
   "lastOpenFiles": [
-    "Lektionen/Kamanova/17 zu inf.md",
-    "Lektionen/Bekker/34.md",
-    "Worter/Keymaker.md",
-    "Lektionen/Bekker/33.md",
-    "Grammatik/Adjektivdeklination.md",
-    "Texte/b2 Das sagt man so!/Einen Kater haben.md",
-    "Worter/A/auflegen.md",
-    "Worter/K/kommen.md",
-    "Worter/F/Freunden.md",
-    "Worter/F/Freund.md",
-    "Texte/Brüder Grimm/Hänsel und Gretel.md",
-    "Worter/D/der Haifisch.md",
-    "Worter/H/Haifisch.md",
-    "Kanban/Deutsch Kanban.md",
-    "Texte/Gedichte/Rammstein/Zeig dich.md",
-    "Worter/F/fängt.md",
-    "Worter/F/fangen.md",
-    "Worter/G/geweint.md",
-    "Worter/W/weinen.md",
-    "Texte/Gedichte/Rammstein/Deutschland.md",
-    "Worter/Deutschlands.md",
-    "Texte/Einbuergerungstest/done/1-30.md",
-    "Texte/Brüder Grimm/Aschenputtel.md",
-    "Texte/Skripte/extra/Extra 2.md",
-    "Texte/Skripte/extra/Extra 9.md",
-    "Texte/Skripte/extra/Extra 3.md",
+    "Worter/F/freunde.md",
+    "Worter/F/freuen.md",
+    "Worter/V/vorstellen.md",
+    "Worter/A/aufpassen.md",
+    "Worter/P/Passierschein.md",
+    "Worter/P/Passagier.md",
+    "Worter/P/Passwort.md",
+    "Worter/A/Aufpasserin.md",
+    "Worter/A/Aufpasser.md",
+    "Worter/A/aufzupassen.md",
+    "Worter/A/aufpassend.md",
+    "Worter/P/passen wir auf.md",
+    "Worter/A/auf der Hut sein.md",
+    "Worter/O/Obacht geben.md",
+    "Worter/E/erfahren.md",
+    "Texte/c1/Galileo/1 Payback und Co. - Wer profitiert von Punktesystemen.md",
+    "Worter/E/erscheinen.md",
+    "Wortlisten/Verben/prompt.md",
+    "Wortlisten/Verben/test.md",
+    "Worter/Untitled 9.md",
+    "Worter/D/darstellen.md",
+    "Worter/R/rennen.md",
+    "Worter/V/vorgestellt.md",
+    "Worter/H/hoffen.md",
+    "Worter/R/renne.md",
+    "Worter/verfeinden.md",
+    "Wortlisten/Verben",
+    "Lektionen/Bekker/done",
     "Anhänge/Pasted image 20250224055949.png",
     "Anhänge/Pasted image 20250224055705.png",
     "Anhänge/Pasted image 20250224055357.png",
@@ -522,8 +482,6 @@
     "Anhänge/Pasted image 20250203051808.png",
     "Anhänge/Pasted image 20250125084340.png",
     "Anhänge/54568_82022.mp3",
-    "Anhänge/Урок 1. Числительные. Чтение, произношение.pdf",
-    "Lektionen/b22 kourse",
-    "Texte/c1/dw"
+    "Anhänge/Урок 1. Числительные. Чтение, произношение.pdf"
   ]
 }

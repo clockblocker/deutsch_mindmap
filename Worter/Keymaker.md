@@ -1,3 +1,7 @@
+- Supercharge the grammar-checking command
+- Switch from _gemini-lite-demo_ to _geminy-lite_ (Google has deprecated _gemini-lite-demo_)
+
+
 `Не немецкий текст будет переведет на немецкий`
 *The boss told me to bring all my documents to the office.*
 

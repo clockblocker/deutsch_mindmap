@@ -5,7 +5,7 @@
 
 ---
 = [[schnell]], [[rasch]], [[flink]], [[flott]]
-≈ [[prompt]], [[unverzüglich]], [[sofort]], [[flugs]], [[eilig]]
+≈ [[Worter/P/prompt]], [[unverzüglich]], [[sofort]], [[flugs]], [[eilig]]
 ≠ [[langsam]], [[träge]], [[gemächlich]], [[verzögert]]
 
 ---

@@ -1,33 +1,35 @@
-🎭 [[darstellen]] + Akk, [daɐ̯ˈʃtɛlən], Darstellung
-[[stellte dar]]
-haben [[dargestellt]]
-
----
-Doch kein anderes Museum [[stellt]] das Leben und Aufwachsen in der DDR auf eine so anschauliche Weise [[dar]].
-
-
----
-Synonyme: [[zeigen]], [[präsentieren]], [[vorführen]], [[repräsentieren]], [[demonstrieren]]
-Antonyme: [[verbergen]], [[verschweigen]], [[verstecken]]
-
----
-Übersetzung: to represent, to portray, to depict
-
----
-Morpheme: [[dar]][[stell]][[en]]
- #Verb  #Untrennbar
- 
+🎭 [[darstellen]], [ˈdaːɐ̯ˌʃtɛlən] | [[stellte dar]], haben [[dargestellt]]
 
 ---
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[stelle dar]]       | [[stellte dar]]       | -                 | [[stelle dar]]         | [[stellte dar]]         |
-| Du        | [[stellst dar]]      | [[stelltest dar]]     | [[stell dar]]     | [[stellest dar]]       | [[stelltest dar]]       |
-| Er/sie/es | [[stellt dar]]       | [[stellte dar]]       | -                 | [[stelle dar]]         | [[stellte dar]]         |
-| Wir       | [[stellen dar]]      | [[stellten dar]]      | -                 | [[stellen dar]]        | [[stellten dar]]        |
-| Ihr       | [[stellt dar]]       | [[stelltet dar]]      | [[stellt dar]]    | [[stellet dar]]        | [[stelltet dar]]        |
-| Sie       | [[stellen dar]]      | [[stellten dar]]      | [[stellen Sie dar]]| [[stellen dar]]        | [[stellten dar]]        |
+---
+= [[repräsentieren]], [[verkörpern]], [[vorführen]]
+≈ [[zeigen]], [[präsentieren]], [[schildern]], [[ausdrücken]]
+≠ [[verbergen]], [[verschweigen]], [[verheimlichen]]
 
-Partizip I: [[darstellend]], Partizip II: [[dargestellt]]
-[[darstellen]] - [[dar]] = [[stellen]], [[widerspiegeln]], [[Darstellung]], [[beschreiben]], [[umschreiben]]
+---
+to represent, to portray, to depict
+представлять, изображать
+
+---
+[[dar]]|[[stell]]|[[en]]
+
+---
+| Person    | Präsens       | Präteritum      | Imperativ    | Konjunktiv I  | Konjunktiv II |
+| --------- | ------------- | --------------- | ------------ | ------------- | ------------- |
+| Ich       | [[stelle dar]]  | [[stellte dar]]  | -            | [[stelle dar]]  | [[stellte dar]] |
+| Du        | [[stellst dar]] | [[stelltest dar]] | [[stell dar]] | [[stellest dar]] | [[stelltest dar]] |
+| Er/sie/es | [[stellt dar]]  | [[stellte dar]]  | -            | [[stelle dar]]  | [[stellte dar]] |
+| Wir       | [[stellen dar]] | [[stellten dar]] | [[stellen dar]] | [[stellen dar]] | [[stellten dar]] |
+| Ihr       | [[stellt dar]]  | [[stellt dar]]  | [[stellt dar]] | [[stellet dar]] | [[stellet dar]] |
+| Sie       | [[stellen dar]] | [[stellten dar]] | [[stellen dar]] | [[stellen dar]] | [[stellten dar]] |
+*Zu + Inf*: zu [[darstellen]], P1: [[darstellend]], P2: [[dargestellt]]
+
+---
+[[darstellen]] - [[dar]] = [[stellen]] / to represent, to portray, to depict
+
+---
+[[Darstellung]], [[Darsteller]], [[vorstellen]], [[herstellen]], [[feststellen]], [[entstellen]]
+
+---
+

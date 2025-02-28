@@ -3,6 +3,8 @@
 ---
 [[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. [[14 perfekt#^14|(q)]]
 
+Achtest du [[eigentlich]] auf deine Kinder? Ты вообще обращаешь внимание на своих детей?
+
 «Die Pilze habe ich auf dem Tisch gefunden. Woher kommen sie [[eigentlich]]?» [[17 zu inf#^20|(q)]]
 
 Manchmal sagt er Nein zu Dingen, die [[eigentlich]] ganz [[sinnvoll]] wären. Bestimmt wird er alle [[möglichen]] [[Einwände]] haben: Wo soll er das Geld [[herholen]]?
@@ -16,7 +18,7 @@ Synonyme: [[tatsächlich]], [[wirklich]], [[im Grunde]], [[faktisch]], [[wahrhaf
 Antonyme: [[angeblich]], [[scheinbar]], [[vermeintlich]], [[oberflächlich]]
 
 ---
-actually, in fact, really
+actually, in fact, really, вообще, 
 
 ---
 [[eigentlich]]

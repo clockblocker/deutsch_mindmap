@@ -3,6 +3,10 @@
 ---
 [[2 ADHD.md#^10|(q)]] Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu. ^10
 
+1. [[Womit]] beschäftigst du dich die letzte Zeit? Чем ты занимаешься последнее время? 
+2. [[Mit]] [[wem]] beschäftigst du dich jetzt? Кем ты занимаешься сейчас?
+3. Wie lange beschäftigst du dich [[damit]]? Как долго ты уже этим занимаешься?
+
 Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. [[außerdem]] habe ich mich [[bisher]] viel zu wenig mit [[Naturschutz]] [[beschäftigt]]. Ich werde bestimmt viel Neues lernen. Man muss nicht [[unbedingt]] um die halbe Welt reisen, um über den Tellerrand zu schauen, Brüderchen!“
 
 Mit seiner Kamera machte Fred Fotos für seine Freunde zu Hause. Aber dann passierte etwas, womit er nicht [[gerechnet]] hatte: Fred war gerade damit [[beschäftigt]], eine Gruppe Giraffen zu fotografieren, als er hinter sich ein [[Geräusch]] hörte. Er [[drehte]] sich langsam um und stand einem riesigen Löwen gegenüber! 
@@ -20,7 +24,7 @@ Synonyme: [[Arbeiten]], [[anstellen]], [[unterhalten]], [[tätig sein]], [[engag
 Antonyme: [[entlassen]], [[feuern]], [[kündigen]], [[freisetzen]]
 
 ---
-to employ, to occupy, to engage
+заниматься, to employ, to occupy, to engage
 
 ---
 [[be]][[schäftig]][[en]]

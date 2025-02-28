@@ -1,23 +1,25 @@
-🟢 das [[Menschen]], [ˈmɛnʃən]
+👥 🔵 der [[Mensch]], [mɛnʃ]
 die [[Menschen]]
 
 ---
 
+---
+= [[Person]], [[Individuum]], [[Leute]]
+≈ [[Erdenbürger]], [[Menschheit]], [[Volk]], [[Gesellschaft]]
+≠ [[Tier]], [[Unmensch]], [[Monster]], [[Kreatur]]
 
 ---
-Synonyme:
-- [[Leute]], [[Bevölkerung]], [[Menschheit]], [[Menschenmasse]], [[Personen]]
+human, person, people
+человек, люди
 
 ---
-Übersetzung: people, human beings
+[[Mensch]]
 
 ---
-Morpheme:
-[[Mensch]][[en]]
+N: der [[Mensch]], die [[Menschen]]
+A: den [[Mensch]], die [[Menschen]]
+G: des [[Menschen]], der [[Menschen]]
+D: dem [[Mensch]], den [[Menschen]]
 
 ---
-Einzigartige mögliche Formen: [[Mensch]], [[Menschen]], [[Menschen]]
-
----
-#Substantiv #Feminin
-Plural: [[Menschen]], [[Menschenwürde]]
+[[menschlich]], [[Menschheit]], [[Menschenfreund]], [[Menschenwürde]], [[Menschenverstand]], [[unmenschlich]]

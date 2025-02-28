@@ -6,7 +6,7 @@ Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfungen]].
 
 
 ---
-= [[Test]], [[Examen]], [[Probe]]
+= [[Worter/T/Test]], [[Examen]], [[Probe]]
 ≈ [[Kontrolle]], [[Untersuchung]], [[Überprüfung]], [[Evaluation]]
 ≠ [[Freistellung]], [[Befreiung]], [[Ignoranz]]
 

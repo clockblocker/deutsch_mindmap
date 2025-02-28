@@ -3,6 +3,7 @@
 ---
 _Aang [[achtet]] jedoch nur [[auf]] sie und kracht mitten im Flug in Sokkas Wachturm._
 
+
 1. Sie [[achtet]] manchmal gar nicht [[auf]] ihre Kleidung. (**achten**)
 
 in [[Acht]]
@@ -20,7 +21,7 @@ Ohne auf ihre [[Umgebung]] zu [[achten]], läuft sie [[weiter]] –, bis sie ein
 ≠ [[missachten]], [[ignorieren]], [[verachten]]
 
 ---
-to respect, to pay attention to, to observe
+to pay attention to, to observe, to respect, 
 
 ---
 [[ach]]|[[t]]|[[en]]
@@ -39,3 +40,4 @@ PI: [[achtend]], PII: [[geachtet]], Zu+inf: [[zu achten]]
 
 ---
 [[Achtung]], [[achtbar]], [[achtsam]], [[Achtsamkeit]], [[verachten]], [[beachten]], [[schätzen]], [[s1 e1]], [[zuhören]]
+, [[aufpassen]]

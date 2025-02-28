@@ -79,3 +79,4 @@ Morphems:
 hard-working
 
 , [[tätig]]
+, [[zielstrebig]]

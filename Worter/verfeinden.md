@@ -33,5 +33,3 @@ Zu+infinitive: [[zuverfeinden]]
 ---
 [[Verfehndung]], [[Verfeindung]], [[Feind]], [[feindlich]], [[Feindschaft]]
 
-
-Present your final entry within <entry> tags. Ensure all information is accurate and formatted correctly according to the provided templates.

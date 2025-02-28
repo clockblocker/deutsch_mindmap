@@ -6,7 +6,7 @@
 
 
 ---
-= [[Test]], [[Examen]], [[Klausur]]
+= [[Worter/T/Test]], [[Examen]], [[Klausur]]
 ≈ [[Prüfung]], [[Testat]], [[Aufgaben]]
 ≠ [[Übung]], [[Hausaufgaben]], [[Lehrprobe]], [[Aufführung]]
 

@@ -32,3 +32,4 @@ Partizip I: [[verzichtend]], Partizip II: [[verzichtet]]
 
 [[verzichten]] - [[ver]] = [[zichten]]
 , [[wünschen]], [[ablehnen]], [[aufbringen]], [[fordern]], [[rauchen]], [[ausprobieren]], [[stattfinden]]
+, [[streben]]

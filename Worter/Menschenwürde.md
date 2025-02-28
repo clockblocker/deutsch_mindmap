@@ -27,3 +27,4 @@ D: der [[Menschenwürde]], den [[Menschenwürden]]
 
 ---
 [[würdig]], [[menschlich]], [[würdelos]], [[Würdigung]], [[würdigen]]
+, [[Mensch]]

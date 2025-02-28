@@ -5,7 +5,7 @@ die [[Schularbeiten]]
 [[1 ADHD#^24|(q)]] hat Schwierigkeiten, [[Arbeitsaufträge]] oder [[Schularbeiten]] [[fertigzustellen]]. ^24
 
 ---
-= [[Klassenarbeit]], [[Test]], [[Prüfung]]
+= [[Klassenarbeit]], [[Worter/T/Test]], [[Prüfung]]
 ≈ [[Examen]], [[Leistungskontrolle]], [[Bewertung]], [[Aufgabe]]
 ≠ [[Freizeit]], [[Spiel]], [[Unterricht]], [[Pause]]
 

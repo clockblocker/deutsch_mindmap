@@ -40,3 +40,7 @@ Partizip I: [[tragend]], Partizip II: [[getragen]]
 - [[trag]][[en]], [[anhaben]], [[übertragen]]
 
 , [[forttragen]], [[Pelzhandschuhe]], [[schleudern]]
+
+
+[[schwach]]
+

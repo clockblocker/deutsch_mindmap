@@ -1,4 +1,4 @@
-DER ZWANG ZUR TIEFE  
+.DER ZWANG ZUR TIEFE  
 (nach Patrik Süskind)  
 
 Eine junge [[Künstlerin]] aus Stuttgart bekam bei ihrer ersten  
@@ -146,17 +146,20 @@ Heute kann man aber bestimmt sagen, dass Surrealismus und Dali eins ist.
 ### 16.3
 Переведите следующие предложения:
 
-16. Я думаю, что журнал «Штерн» интереснее журнала «Шпигель».
-17. Мы считаем, что ваш ответ правильнее, чем ответ вашего коллеги.
-18. Он знает, что этот случай важнее для его работы, чем все другие.
-19. Ты выглядишь сегодня счастливее, чем вчера.
-20. Твоя квартира чище, чем квартира твоей подруги.
-21. Вы поёте сегодня громче, чем обычно.
-22. В вашем доме жарче, чем в нашем доме.
-23. Твой чемодан на 5 килограммов тяжелее, чем моя сумка.
-24. Его сестра на 3 года младше, чем мой брат.
-25. Мой дедушка на 7 лет старше, чем твой дедушка.
-26. Мой друг приехал в университет на своей машине на 20 минут раньше, чем я на метро. 
+1. Я думаю, что журнал «Штерн» интереснее журнала «Шпигель».
+Ich denke, dass die Zeitschrift „Stern“ interessanter ==ist als== die Zeitschrift „Spiegel“.
+
+
+1. Мы считаем, что ваш ответ правильнее, чем ответ вашего коллеги.
+2. Он знает, что этот случай важнее для его работы, чем все другие.
+3. Ты выглядишь сегодня счастливее, чем вчера.
+4. Твоя квартира чище, чем квартира твоей подруги.
+5. Вы поёте сегодня громче, чем обычно.
+6. В вашем доме жарче, чем в нашем доме.
+7. Твой чемодан на 5 килограммов тяжелее, чем моя сумка.
+8. Его сестра на 3 года младше, чем мой брат.
+9. Мой дедушка на 7 лет старше, чем твой дедушка.
+10. Мой друг приехал в университет на своей машине на 20 минут раньше, чем я на метро. 
 ### 16.4
 Образуйте неизменяемую форму **Superlativ** следующих прилагательных и наречий.  
 Обратите внимание, что суффикс **-esten** употребляется после основы на согласную **-d, -t, -s, -ß, -z**:
@@ -178,12 +181,14 @@ Heute kann man aber bestimmt sagen, dass Surrealismus und Dali eins ist.
 3. Dieses Kind ist das kleinste in der Schule.  
 4. Dieses Problem ist das wichtigste in unserer Arbeit
 5. Der Baikalsee ist der tiefste in der Welt.
-6. Dieses Mädchen ist ..... (**schön**) in der Uni.  
-7. Diese Zeitung ist ..... (**interessant**) in Deutschland.  
-8. Dieser Fall ist ..... (**schwer**) in seiner Praxis.  
-9. Dieses schöne Sofa ist ..... (**teuer**) im Geschäft.  
-10. Dieser Buddha ist ..... (**alt**) im Museum.  
-11. Dieser Platz ist ..... (**bequem**) im Zimmer.
+
+6. Diese Zeitung ist ..... (**interessant**) in Deutschland.  
+7. Dieser Fall ist ..... (**schwer**) in seiner Praxis.  
+8. Dieses schöne Sofa ist ..... (**teuer**) im Geschäft.  
+9. Dieser Buddha ist ..... (**alt**) im Museum.  
+10. Dieser Platz ist ..... (**bequem**) im Zimmer.
+
+[[keymaker]]
 
 ---
 
