@@ -1,1 +1,2 @@
 , [[anwesend]], [[fehlend]]
+, [[verfügbar]]

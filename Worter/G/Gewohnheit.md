@@ -1,1 +1,2 @@
 , [[Brauch]], [[gewöhnlich]], [[ungewöhnlich]]
+, [[gewöhnen]]

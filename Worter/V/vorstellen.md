@@ -58,57 +58,11 @@ Gerne, hier ist die Konjugation für "vorstellen":
 – Warum [[hat]] er *[[sich|sich]]* das nicht [[vorgestellt]]?
 – Weil es zu unrealistisch war.
 
-🤔 [[vorstellen]], [ˈfoːɐ̯ˌʃtɛlən] | [[stellte vor]], haben [[vorgestellt]]
+Auf dem [[allerersten]] Bildschirm sind einige Fehler.
 
----
 
----
-= [[präsentieren]], [[darstellen]], [[anbieten]]
-≈ [[zeigen]], [[vorführen]], [[empfehlen]], [[bekannt machen]]
-≠ [[verbergen]], [[verheimlichen]], [[zurückhalten]], [[ignorieren]]
 
----
-to introduce, to present, to imagine
-представлять, воображать
+_[[gewöhnen]]_
 
----
-[[vor]]|[[stell]]|[[en]]
+[[keymaker]]
 
----
-ich: [[stelle vor]], [[stellte vor]], –, [[stelle vor]], [[stellte vor]]
-du: [[stellst vor]], [[stelltest vor]], [[stelle vor]] | [[stell vor]], [[stellst vor]], [[stelltest vor]]
-er/sie/es: [[stellt vor]], [[stellte vor]], –, [[stelle vor]], [[stellte vor]]
-wir: [[stellen vor]], [[stellten vor]], [[stellen wir vor|stellen vor]], [[stellen vor]], [[stellten vor]]
-ihr: [[stellt vor]], [[stelltet vor]], [[stellt vor]], [[stellt vor]], [[stelltet vor]]
-
-PI: [[vorstellend]], PII: [[vorgestellt]], Zu+inf: [[vorzustellen]]
-
----
-[[vorstellen]] - [[vor]] = [[stellen]] / to introduce, to present, to imagine
-
----
-[[Vorstellung]], [[Vorsteller]], [[Vorstellerin]], [[vorstellbar]], [[vorstellend]], [[sich vorstellen]]
-
----
-###### [[stellen]] jN jM [[vor]]
-– Wen [[stellst]] du mir [[vor]]?
-– Meinen Freund.
-
-– Wem [[stellen]] wir euch [[vor]]?
-– Meinem Chef.
-
-– Warum hat er mich ihr [[vorgestellt]]?
-– Um euch miteinander bekannt zu machen.
-
----
-###### [[stellen]] *[[sich]]* jN [[vor]]
-– Wen [[stellst]] du *[[sich|dir]]* [[vor]]?
-– Mir einen berühmten Schauspieler.
-
-– Was [[stellen]] wir *[[sich|uns]]* [[vor]]?
-– Unsere Reise nach Japan.
-
-– Warum [[hat]] er *[[sich|sich]]* das nicht [[vorgestellt]]?
-– Weil es zu unrealistisch war.
-
-[[freuen]]

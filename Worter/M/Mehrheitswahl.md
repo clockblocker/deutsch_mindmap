@@ -1,1 +1,2 @@
 , [[Mehrheitswahlrecht]], [[Verhältniswahlrecht]]
+, [[Mehrheit]]

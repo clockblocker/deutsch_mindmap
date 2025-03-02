@@ -27,3 +27,4 @@ Typische Kontexte:
 - Zwischenzeitliche Entwicklungen
 - Veränderungen während einer Zeitspanne
 , [[Währenddessen]], [[s1 e1]]
+, [[gewöhnen]]

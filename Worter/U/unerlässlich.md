@@ -1,1 +1,2 @@
 , [[überflüssig]], [[notwendig]], [[unentbehrlich]]
+, [[erforderlich]]

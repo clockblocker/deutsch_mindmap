@@ -14,12 +14,9 @@ Psychologen [[meinen]], dass 60 Prozent aller Gespräche von Menschen [[handeln]
 
 Nun ist es nicht [[sinnvoll]], auf den [[Klatsch]] zu verzichten, denn aus den [[Fehlern]] der anderen können wir ja selbst etwas lernen. Wenn man aber die [[Gespräche]] um 50 Prozent [[verkürzt]], [[spart]] man eine [[Menge]] Zeit.
 
-
 Mit [[Recherchen]] im [[Netz]] kann man [[ebenfalls]] viel Zeit [[verschwenden]]. 
 Es gibt Leute, die bei eBay einen [[Koffer]] für den Urlaub kaufen wollen und nach vier Stunden im Internet [[Besitzer]] eines Autos sind, [[obwohl]] sie gar keinen [[Führerschein]] haben.
 Und wie oft [[telefonieren]] Sie mit Ihrem Handy, um jemandem zu sagen, dass Sie gerade im Zug sitzen?
-
-  
 
 Der größte Zeitkiller aber ist die multimediale [[Nutzung]] unseres Smartphones, die das Fernsehen als [[Zeiträuber]] Nummer eins in den letzten Jahren [[abgelöst]] hat. 
 

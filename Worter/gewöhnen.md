@@ -1,30 +1,49 @@
-🏠 [[gewöhnen]], [ɡəˈvøːnən] | [[gewöhnte]], haben [[gewöhnt]]
+😌 [[gewöhnen]], [ɡəˈvøːnən] | [[gewöhnte]], haben [[gewöhnt]]
 
 ---
 [[Inzwischen]] haben sie sich an die neue Schule [[gewöhnt]].
 
----
-= [[anpassen]], [[adaptieren]], [[akklimatisieren]]
-≈ [[sich zurechtfinden]], [[sich einleben]], [[sich eingewöhnen]]
-≠ [[ablehnen]], [[fremd bleiben]], [[sich sperren]]
+
 
 ---
-to get used to, to accustom oneself
+= [[anpassen]], [[akklimatisieren]], [[eingewöhnen]]
+≈ [[anpassen]], [[adaptieren]], [[sich einleben]], [[routinieren]]
+≠ [[entwöhnen]], [[verlernen]], [[abgewöhnen]]
 
 ---
-[[ge]]|[[wöh]]|[[nen]]
+to get used to, to accustom
+привыкать, приучать
 
 ---
-ich: [[gewöhne]], [[gewöhnte]], –, [[gewöhne]], [[gewöhnte]]
-du: [[gewöhnst]], [[gewöhntest]], [[gewöhne]] | [[gewöhn]], [[gewöhnest]], [[gewöhntest]]
-er/sie/es: [[gewöhnt]], [[gewöhnte]], –, [[gewöhne]], [[gewöhnte]]
-wir: [[gewöhnen]], [[gewöhnten]], [[gewöhnen wir|gewöhnen]], [[gewöhnen]], [[gewöhnten]]
-ihr: [[gewöhnt]], [[gewöhntet]], [[gewöhnt]], [[gewöhnet]], [[gewöhntet]]
-
-PI: [[gewöhnend]], PII: [[gewöhnt]], Zu+inf: [[zugewöhnen]]
+[[ge]]|[[wöhn]]|[[en]]
 
 ---
-[[gewöhnen]] - [[ge]] = [[wöhnen]] / to get used to, to accustom oneself
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[gewöhne]], [[gewöhnte]], [[gewöhne]], [[gewöhnte]], -
+du, [[gewöhnst]], [[gewöhntest]], [[gewöhnest]], [[gewöhntest]], [[gewöhn]] / [[gewöhne]]
+er, [[gewöhnt]], [[gewöhnte]], [[gewöhne]], [[gewöhnte]], -
+wir, [[gewöhnen]], [[gewöhnten]], [[gewöhnen]], [[gewöhnten]], [[gewöhnen]]
+ihr, [[gewöhnt]], [[gewöhntet]], [[gewöhnet]], [[gewöhntet]], [[gewöhnt]]
+sie, [[gewöhnen]], [[gewöhnten]], [[gewöhnen]], [[gewöhnten]], [[gewöhnen]]
+
+*Zu + Inf*: zu [[gewöhnen]], P1: [[gewöhnend]], P2: [[gewöhnt]]
 
 ---
-[[Gewöhnung]], [[gewohnt]], [[gewöhnlich]], [[ungewöhnlich]], [[angewöhnen]]
+
+---
+[[Gewohnheit]], [[ungewohnt]], [[gewöhnlich]], [[Abgewöhnung]], [[angewöhnen]]
+
+
+---
+###### [[gewöhnen]] *[[sich]]* `an` jN
+– `Woran` [[gewöhnst]] du *[[sich|dich]]*?
+– `An` das kalte Wetter.
+
+– `An` wen [[hat]] sie *[[sich|sich]]* [[gewöhnt]]?
+– `An` ihren neuen Kollegen.
+
+– Wie lange [[hast]] du *[[sich|dich]]* `daran` [[gewöhnt]]?
+– Ein paar Monate.
+
+
+[[aufpassen]]

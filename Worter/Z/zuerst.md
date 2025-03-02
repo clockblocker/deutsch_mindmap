@@ -21,3 +21,4 @@ Synonyme:
 ---
 
 #Adverb, [[erst]], [[zunächst]], [[mittlerweile]]
+, [[allererst]]

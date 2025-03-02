@@ -3,33 +3,42 @@
 ---
 
 ---
-= [[achten]], [[beachten]], [[aufmerksam sein]]
-≈ [[sich kümmern]], [[Obacht geben]], [[auf der Hut sein]]
-≠ [[ignorieren]], [[vernachlässigen]], [[unaufmerksam sein]]
+= [[achten]], [[beachten]], [[aufmerken]]
+≈ [[vorsichtig sein]], [[Obacht geben]], [[sich hüten]], [[aufpassen]]
+≠ [[ignorieren]], [[missachten]], [[übersehen]], [[vernachlässigen]]
 
 ---
 to pay attention, to watch out
-следить, присматривать
+следить, быть внимательным
 
 ---
 [[auf]]|[[pass]]|[[en]]
 
 ---
-ich: [[passe auf]], [[passte auf]], –, [[passe auf]], [[passte auf]]
-du: [[passt auf]], [[passtest auf]], [[pass auf]] | [[pass auf]], [[passt auf]], [[passtest auf]]
-er/sie/es: [[passt auf]], [[passte auf]], –, [[passe auf]], [[passte auf]]
-wir: [[passen auf]], [[passten auf]], [[passen wir auf|passen auf]], [[passen auf]], [[passten auf]]
-ihr: [[passt auf]], [[passtet auf]], [[passt auf]], [[passt auf]], [[passtet auf]]
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[passe auf]], [[passte auf]], [[passe auf]], [[passe auf]], -
+du, [[passt auf]], [[passtest auf]], [[pass auf]], [[passest auf]], [[passt auf]]
+er, [[passt auf]], [[passte auf]], [[passe auf]], [[passe auf]], -
+wir, [[passen auf]], [[passten auf]], [[passen auf]], [[passten auf]], [[passen auf]]
+ihr, [[passt auf]], [[passtet auf]], [[passt auf]], [[passet auf]], [[passt auf]]
+sie, [[passen auf]], [[passten auf]], [[passen auf]], [[passten auf]], [[passen auf]]
 
-PI: [[aufpassend]], PII: [[aufgepasst]], Zu+inf: [[aufzupassen]]
+*Zu + Inf*: zu [[aufpassen]], P1: [[aufpassend]], P2: [[aufgepasst]]
 
 ---
 [[aufpassen]] - [[auf]] = [[passen]] / to pay attention, to watch out
 
 ---
-[[Aufpasser]], [[Aufpasserin]], [[Pass]], [[Passwort]], [[Passagier]], [[Passierschein]]
+[[Aufpasser]], [[Aufpasserin]], [[Aufpassung]], [[Pass]], [[Passant]], [[Passagier]]
 
-, [[Sorgen]], [[wachen]], [[beachten]]
-, [[ablenken]]
 
-[[vorstellen]]
+---
+###### [[aufpassen]] `auf` jN
+– `Worauf` [[passt]] du [[auf]]?
+– `Auf` die Kinder.
+
+– `Auf` wen [[passt]] er [[auf]]?
+– `Auf` seinen Hund.
+
+– Wie lange [[hast]] du `darauf` [[aufgepasst]]?
+– Seit einer Stunde.

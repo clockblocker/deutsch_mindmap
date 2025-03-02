@@ -21,3 +21,4 @@ Einzigartige mögliche Formen: [[Freundin]], [[Freundin]], [[Freundinnen]], [[Fr
 
 ---
 #Substantiv #Feminin
+, [[befreunden]]

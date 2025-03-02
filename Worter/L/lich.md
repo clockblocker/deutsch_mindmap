@@ -6,3 +6,4 @@
 , [[versehentlich]]
 , [[innerlich]]
 , [[pünktlich]]
+, [[erforderlich]]

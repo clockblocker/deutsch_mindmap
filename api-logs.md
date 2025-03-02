@@ -76920,3 +76920,39 @@ Helfen Sie uns==,== die Tür zu ==öffnen==.</agent_output>
 
                 ---
                 
+                ## 2025-03-01T07:24:23.743Z
+                ### Prompt:
+                ```
+                Given a german word, determine its infinitive form and pick an appropriate emoji to represent it. If the word is a noun, determin it's gender and use 🔵 for der,  🔴 for die, if 🟢 for das. Do not write anything else, just the infinitive and an emoji. 
+Examples (input -> output):
+"brutzelt" -> "🍳 [[brutzeln]]",
+"gesorgt" -> "🤔 [[sorgen]]",
+"Hoffnungen" -> "🔴 die [[Hoffnung]] 🕊️",
+"eisigen", -> "🥶 [[eisig]]",
+"zweiteste", -> "2️⃣ [[zwei]]",
+"Auftragslage", -> "📈 [[Auftragslage]]",
+"her", -> "➡️ [[her]]",
+"saßen", -> "🪑 [[sitzen]]". 
+The output should be compact, without extra spaces or newlines.
+
+If a word can be a form of multiple parts of speach, list all options, separated with |. Examples (input -> output):
+"vergangene", -> "🕰️ [[vergangen]] | 🕰️ [[vergehen]]", 
+"Nieser", -> "🤧 [[niesen]] | 🔵 der [[Nieser]] 🤧",
+"klares", -> "😌 [[klären]] | 😌 [[klar]] | 🟢 das [[Klare]] 😌.
+                ```
+
+                ### Response:
+                ```
+                
+                ```
+                
+### Error:
+```
+{
+  "status": 503,
+  "statusText": ""
+}
+```
+
+                ---
+                

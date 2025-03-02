@@ -166,7 +166,13 @@ Wie haben gehört, wie jemand an der Tür [[geklingelt]] hat
 8. Он слышал, как девочка кричала.
 9. Мы видели, как кто-то нес ваш чемодан.
 10. Я видела, как дети играли в саду.
-11. Я обнаружила (нашла), что мой брат ждет меня. 
+11. Я обнаружила (нашла), что мой брат ждет меня.  
+Ich habe entdeckt, dass mein Bruder auf mich wartet.
+
+
+Ich habe entdeckt das mein Bruder auf mich wartet.
+
+
 12. Она обнаружила, что ее часы лежат в машине.
 
 [[vorhaben]]
@@ -176,20 +182,26 @@ Wie haben gehört, wie jemand an der Tür [[geklingelt]] hat
 ### 17.3* Дополните предложение подходящим по смыслу глаголом в неопределенной форме:
 
 1. Er hat mir versprochen, einen interessanten Kommentar zu ..... .
-2. Der Chef hat mir gesagt, alle meine Dokumente ins Büro zu ..... .
-3. Wir hoffen, an Ostern nach Amerika zu ..... .
-4. Es gibt viele Möglichkeiten, die Wahrheit zu ..... .
-5. Es hat keinen Sinn, das Kind in die Ecke zu ..... .
-6. Vergiss nicht, die Schlüssel zu ..... .
-7. Er hat plötzlich aufgehört, mit seinem Freund zu ..... .
-8. Wir haben gerade angefangen, das schöne Essen zu ..... .
-9. Ich bin sehr froh, dich zu ..... .
-10. Es ist sehr interessant, bei jemandem zu Besuch zu ..... .
-11. Ich wünschte meiner Freundin, viel Glück im Leben zu ..... .
-12. Es ist nicht schön, die ganze Zeit Spaß zu haben
-13. Er half mir gern, die Prüfung in Mathematik in der Uni zu ..... .
-14. Ich habe eine gute Chance verloren, den Urlaub in Brasilien zu ..... .
-15. Es ist sehr einfach, einen Bildband von Salvador Dalí in der Buchhandlung zu ..... .
+Er haben mir versprochen, eine interessanten Kommentar zu schreiben.
+
+Er ==hat== mir versprochen, ein==en== interessanten Kommentar zu schreiben.
+
+
+
+1. Der Chef hat mir gesagt, alle meine Dokumente ins Büro zu ..... .
+2. Wir hoffen, an Ostern nach Amerika zu ..... .
+3. Es gibt viele Möglichkeiten, die Wahrheit zu ..... .
+4. Es hat keinen Sinn, das Kind in die Ecke zu ..... .
+5. Vergiss nicht, die Schlüssel zu ..... .
+6. Er hat plötzlich aufgehört, mit seinem Freund zu ..... .
+7. Wir haben gerade angefangen, das schöne Essen zu ..... .
+8. Ich bin sehr froh, dich zu ..... .
+9. Es ist sehr interessant, bei jemandem zu Besuch zu ..... .
+10. Ich wünschte meiner Freundin, viel Glück im Leben zu ..... .
+11. Es ist nicht schön, die ganze Zeit Spaß zu haben
+12. Er half mir gern, die Prüfung in Mathematik in der Uni zu ..... .
+13. Ich habe eine gute Chance verloren, den Urlaub in Brasilien zu ..... .
+14. Es ist sehr einfach, einen Bildband von Salvador Dalí in der Buchhandlung zu ..... .
 
 ---
 

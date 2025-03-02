@@ -1,1 +1,2 @@
 , [[Versicherungspflicht]], [[unentbehrlich]], [[Notwendigkeit]]
+, [[erforderlich]]

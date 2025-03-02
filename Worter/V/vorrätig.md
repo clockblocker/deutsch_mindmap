@@ -1,1 +1,2 @@
 , [[ausverkauft]]
+, [[verfügbar]]

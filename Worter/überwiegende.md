@@ -1,0 +1,2 @@
+
+⚖️ [[überwiegen]] | ⚖️ [[überwiegend]]

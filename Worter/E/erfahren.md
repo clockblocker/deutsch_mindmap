@@ -1,4 +1,5 @@
-🧠 [[erfahren]], [ɛɐ̯ˈfaːʁn̩] | [[erfuhr]], haben [[erfahren]]
+
+🧐 [[erfahren]], [ɛɐ̯ˈfaːʁən] | [[erfuhr]], haben [[erfahren]]
 
 ---
 „Ich wollte nicht, dass du es [[erfährst]]“, [[flüsterte]] Petunia. „aber es ist [[wahr]]. Ich habe Sachen gesehen …“
@@ -9,61 +10,56 @@ hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
 [[Auslandserfahrung]]
 
 ---
-= [[erleben]], [[kennen]], [[wissen]]
-≈ [[entdecken]], [[vernehmen]], [[lernen]], [[mitbekommen]]
-≠ [[ignorieren]], [[übersehen]], [[unbekannt]], [[unreif]]
+= [[erleben]], [[kennenlernen]], [[mitbekommen]]
+≈ [[entdecken]], [[feststellen]], [[herausfinden]], [[wahrnehmen]]
+≠ [[ignorieren]], [[übersehen]], [[verpassen]], [[auslassen]]
 
 ---
 to experience, to learn, to find out
+испытывать, узнавать
 
 ---
 [[er]]|[[fahr]]|[[en]]
 
 ---
-ich: [[erfahre]], [[erfuhr]], –, [[erfahre]], [[erführe]]
-du: [[erfährst]], [[erfuhrst]], [[erfahre]] | [[erfahr]], [[erfahrest]], [[erführest]]
-er/sie/es: [[erfährt]], [[erfuhr]], –, [[erfahre]], [[erführe]]
-wir: [[erfahren]], [[erfuhren]], [[erfahren wir|erfahren]], [[erfahren]], [[erfuhren]]
-ihr: [[erfahrt]], [[erfuhret]], [[erfahrt]], [[erfahret]], [[erfuhret]]
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[erfahre]], [[erfuhr]], [[erfahre]], [[erfahre]], -
+du, [[erfährst]], [[erfuhrst]], [[erfahre]], [[erführest]], [[erfahr]] / [[erfahre]]
+er, [[erfährt]], [[erfuhr]], [[erfahre]], [[erfahre]], -
+wir, [[erfahren]], [[erfuhren]], [[erfahren]], [[erfuhren]], [[erfahren]]
+ihr, [[erfahrt]], [[erfuhrt]], [[erfahrt]], [[erfuhrt]], [[erfahrt]]
+sie, [[erfahren]], [[erfuhren]], [[erfahren]], [[erfuhren]], [[erfahren]]
 
-PI: [[erfahrend]], PII: [[erfahren]], Zu+inf: [[zu erfahren]]
-
----
-[[erfahren]] - [[er]] = [[fahren]] / to experience, to learn
-
----
-[[Erfahrung]], [[Erfahrungswert]], [[erfahrbar]], [[unerfahren]], [[Erfahrungsbericht]], [[erfahrenen]]
+*Zu + Inf*: zu [[erfahren]], P1: [[erfahrend]], P2: [[erfahren]]
 
 ---
-🕴️ [[erfahren]], [ɛɐ̯ˈfaːʁən]
-nicht [[unerfahren]]
+[[erfahren]] - [[er]] = [[fahren]] / to experience, to learn, to find out
 
 ---
-Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
+[[Erfahrung]], [[erfahren]], [[Erfahrungsbericht]], [[unerfahren]], [[fahrbar]]
 
 
 ---
-= [[kompetent]], [[sachkundig]], [[versiert]]
-≈ [[professionell]], [[qualifiziert]], [[geschult]], [[geübt]]
-≠ [[unerfahren]], [[ahnungslos]], [[uninformiert]], [[naiv]]
+###### [[erfahren]] (`von` jM / `durch` jN) **von** jN
+– **Wovon** [[erfährst]] du?
+– **Von** einer neuen Regelung.
+
+– `Von` wem haben wir das [[erfahren]]?
+– `Von` unserem Lehrer.
+
+– Wie hat sie **davon** [[erfahren]]?
+– Sie `durch` einen Freund **davon** erfa hren
 
 ---
-experienced, skilled, knowledgeable
+###### [[erfahren]] `über` jN
+– `Worüber` [[erfährst]] du in dem Kurs?
+– `Über` die Geschichte Europas.
 
----
-[[er]]|[[fahr]]|[[en]]
+– `Über` welches Thema haben wir mehr [[erfahren]]?
+– `Über` moderne Technologien.
 
----
-N: [[erfahren]], [[erfahrener]], [[erfahrenster]]  
-A: [[erfahrenen]], [[erfahreneren]], [[erfahrensten]]  
-G: [[erfahrener]], [[erfahrenerer]], [[erfahrenster]]  
-D: [[erfahrenem]], [[erfahrenerem]], [[erfahrenstem]]  
-F: [[erfahrene]], [[erfahrenere]], [[erfahrenste]]  
-N: [[erfahrenes]], [[erfahreneres]], [[erfahrenstes]]  
-P: [[erfahrenen]], [[erfahreneren]], [[erfahrensten]]  
+– Warum [[hat]] er `darüber` nichts [[erfahren]]?
+– Weil er nicht zugehört hat.
 
----
-[[Erfahrung]], [[erfahren]], [[Erfahrenheit]], [[Urerfahrung]], [[erfahrbar]]
-, [[mitbekommt]]
 
-[[aufpassen]]
+f

@@ -1,1 +1,2 @@
 , [[gehen]], [[Wanderung]]
+, [[Gassi]]

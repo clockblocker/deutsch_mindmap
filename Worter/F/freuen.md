@@ -59,42 +59,13 @@ Partizip I: [[freuend]], Partizip II: [[gefreut]]
 , [[gefallen]], [[dahinter]], [[betreffen]]
 , [[jammern]]
 
-😊 [[freuen]], [ˈfʁɔɪ̯ən] | [[freute]], haben [[gefreut]]
-
 ---
-
----
-= [[sich freuen]], [[begeistern]], [[entzüken]]
-≈ [[erfreuen]], [[vergnügen]], [[jubeln]], [[frohlocken]]
-≠ [[betrüben]], [[ärgern]], [[verdrießen]], [[beklagen]]
-
----
-to be happy, to rejoice
-радоваться
-
----
-[[freu]]|[[en]]
-
----
-ich: [[freue]], [[freute]], –, [[freue]], [[freute]]
-du: [[freust]], [[freutest]], [[freue]] | [[freu]], [[freust]], [[freutest]]
-er/sie/es: [[freut]], [[freute]], –, [[freue]], [[freute]]
-wir: [[freuen]], [[freuten]], [[freuen wir|freuen]], [[freuen]], [[freuten]]
-ihr: [[freut]], [[freutet]], [[freut]], [[freut]], [[freutet]]
-
-PI: [[freuend]], PII: [[gefreut]], Zu+inf: [[zu freuen]]
-
----
-
----
-[[Freude]], [[erfreuen]], [[erfreulich]], [[freudig]], [[Freund]], [[Freundin]], [[freundlich]]
-
 ###### [[freuen]] *[[sich]]* `auf` jN
 – `Worauf` [[freust]] du *[[dich]]*?
 – `Auf` meinen Urlaub.
 
 – `Auf` wen [[freuen]] wir *[[uns]]*?
-– `Auf` unsere [[Freunde]].
+– `Auf` unsere Freunde.
 
 – Wie lange [[hast]] du *[[dich]]* `darauf` [[gefreut]]?
 – Seit Wochen.
@@ -104,8 +75,11 @@ PI: [[freuend]], PII: [[gefreut]], Zu+inf: [[zu freuen]]
 – `Worüber` [[freust]] du *[[dich]]*?
 – `Über` das Geschenk.
 
-– `Über` wen [[freuen]] sie *[[sich]]*?
-– `Über` ihre Kinder.
+– `Über` wen [[hat]] sie *[[sich]]* [[gefreut]]?
+– `Über` ihren Besuch.
 
-– Warum [[hat]] er *[[sich]]* `darüber` [[gefreut]]?
-– Weil er es verdient hat.
+– Warum [[hast]] du *[[dich]]* `darüber` [[gefreut]]?
+– Weil es eine Überraschung war.
+
+
+[[vorstellen]]

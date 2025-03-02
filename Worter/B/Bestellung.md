@@ -25,3 +25,4 @@ D: der [[Bestellung]], den [[Bestellungen]]
 ---
 [[bestellen]], [[Bestellformular]], [[Bestellsystem]], [[bestellbereit]]
 , [[Arbeitsauftrag]]
+, [[Abonnement]]

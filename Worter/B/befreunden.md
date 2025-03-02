@@ -1,4 +1,3 @@
-, [[verfeinden]], [[Freundliches]]
 🤝 [[befreunden]], [bəˈfʁɔɪ̯ndn̩] | [[befreundete]], haben [[befreundet]]
 
 ---
@@ -31,6 +30,8 @@ sie, [[befreunden]], [[befreundeten]], [[befreunden]], [[befreundeten]], [[befre
 
 ---
 [[Freund]], [[Freundschaft]], [[befreundet]], [[Freundin]], [[freundlich]]
+, [[verfeinden]], [[Freundliches]]
+
 
 ---
 ###### [[befreunden]] *[[sich]]* `mit` jM

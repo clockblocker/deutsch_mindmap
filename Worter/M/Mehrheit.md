@@ -1,26 +1,32 @@
-die [[Mehrheit]], [ˈmeːɐ̯haɪ̯t] 
+🗳️ 🔴 die [[Mehrheit]], [ˈmeːɐ̯haɪ̯t]
 die [[Mehrheiten]]
-
-nicht [[Minderheit]]
 
 ---
 Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, kann die [[Regierung]] ihre [[Mehrheit]] [[verlieren]].
 
+Mach dir keine Sorgen über die [[erforderlichen]] [[Abonnements]] - die [[überwiegende]] [[Mehrheit]] der kostenpflichtigen Artikel ist in Internetarchiven kostenlos [[verfügbar]].
 
 ---
-Synonyme:
-- [[Überzahl]], [[Majorität]], [[Großteil]], [[Übermacht]], [[Übergewicht]]
+= [[Überzahl]], [[Großteil]], [[Hauptteil]]
+≈ [[Überlegenheit]], [[Vorherrschaft]], [[Dominanz]]
+≠ [[Minderheit]], [[Kleinheit]], [[Mangel]]
 
 ---
-Übersetzung: majority, plurality
+majority
+большинство
 
 ---
-Morpheme:
-[[Mehr]][[heit]]
+[[Mehr]]|[[heit]]
 
 ---
-Einzigartige mögliche Formen: [[Mehrheit]], [[Mehrheiten]]
+N: die [[Mehrheit]], die [[Mehrheiten]]
+A: die [[Mehrheit]], die [[Mehrheiten]]
+G: der [[Mehrheit]], der [[Mehrheiten]]
+D: der [[Mehrheit]], den [[Mehrheiten]]
 
 ---
-#Substantiv #Feminin
-''', [[mehrheitlich]], [[Mehrheitswahlrecht]], [[Wählermehrheit]]
+[[mehr]], [[mehrheitlich]], [[Mehrheitswahl]], [[Mehrheitsentscheidung]], [[Mehrheitsverhältnis]]
+
+
+---
+-

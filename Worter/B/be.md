@@ -12,3 +12,4 @@
 , [[bevorzugen]]
 , [[beabsichtigen]]
 , [[beurteilen]]
+, [[befreunden]]

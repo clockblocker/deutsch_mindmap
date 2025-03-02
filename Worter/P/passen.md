@@ -1,9 +1,11 @@
-
 🧩 [[passen]], [ˈpasn̩] | [[passte]], haben [[gepasst]]
 
 ---
 [[aufpassen]]
  [[Ferienpass]], [[Reisepass]]
+
+--
+[[aufpassen]] - [[auf]] = [[passen]] / to pay attention, to watch out
 
 ---
 = [[sich eignen]], [[zutreffen]], [[harmonieren]]
@@ -33,3 +35,6 @@ PI: [[passend]], PII: [[gepasst]], Zu+inf: [[zu passen]]
 ---
 [[passend]], [[unpassend]], [[Passung]], [[anpassen]], [[entsprechen]], [[Anpassung]]
 , [[verpassen]], [[stimmen]]
+
+
+[[stellen]]

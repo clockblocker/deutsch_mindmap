@@ -5,6 +5,8 @@ haben [[entwickelt]]
 ---
 Weil die Krankheit sehr [[häufig]] [[auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
 
+Ich interessiere mich dafür, wie sich unsere [[Gesellschaft]] [[entwickelt]].
+
 Die Forscher [[entwickeln]] ein neues Medikament.
 
 Die [[Begrüßung]] läuft noch ganz gut: Miriam stellt ihn allen vor. Sie scheinen nett zu sein, aber ein längeres Gespräch [[entwickelt]] sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 

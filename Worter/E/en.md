@@ -48,3 +48,5 @@
 , [[beurteilen]]
 , [[streben]]
 , [[aufpassen]]
+, [[befreunden]]
+, [[gewöhnen]]

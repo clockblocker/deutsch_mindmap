@@ -27,3 +27,4 @@ D: der [[Mitgliedschaft]], den [[Mitgliedschaften]]
 
 ---
 [[Mitglied]], [[mitgliedlich]], [[Mitgliedsbeitrag]], [[Vereinsmitgliedschaft]], [[Beitritt]], [[beitreten]], [[Vereinsbeitrag]], [[angehören]]
+, [[Abonnement]]

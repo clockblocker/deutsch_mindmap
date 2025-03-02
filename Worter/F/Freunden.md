@@ -1,2 +1,3 @@
 
 🔴 die [[Freund]] 🫂
+, [[befreunden]]

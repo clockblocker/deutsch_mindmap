@@ -1,1 +1,2 @@
 , [[gehen]], [[s1 e1]], [[Flur]]
+, [[Gassi]]

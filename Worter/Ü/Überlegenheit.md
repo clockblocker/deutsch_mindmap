@@ -1,1 +1,2 @@
 , [[Schwäche]]
+, [[Mehrheit]]

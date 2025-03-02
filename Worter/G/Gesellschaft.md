@@ -5,6 +5,8 @@ die [[Gesellschaften]]
 ---
 Jeder ist ein Teil der [[Gesellschaft]].
 
+Ich interessiere mich dafür, wie sich unsere [[Gesellschaft]] [[entwickelt]].
+
 r [[Geselle]] | 3 Jahr
 
 

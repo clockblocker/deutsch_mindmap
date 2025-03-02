@@ -4,235 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "cf474c1f8ba7cf80",
+        "id": "aeb024a35e19a0cb",
         "type": "tabs",
         "children": [
           {
-            "id": "c4681906993136db",
+            "id": "b5f0eed0b39720dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Kamanova/done/16 Plusquamperfekt.md",
-                "mode": "source",
+                "file": "Texte/b2 Das sagt man so!/Eine Extrawurst bekommen.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 Plusquamperfekt"
+              "title": "Eine Extrawurst bekommen"
             }
           },
           {
-            "id": "2f8a75b00555fadc",
+            "id": "e6765f90daf5f003",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Kamanova/done/13 Nebensätze.md",
+                "file": "Worter/Wurstessern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 Nebensätze"
+              "title": "Wurstessern"
             }
           },
           {
-            "id": "46c02391c87f952c",
+            "id": "cdd334c333d5a9fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lektionen/Kamanova/17 zu inf.md",
+                "file": "Texte/b2 Das sagt man so!/Eine Extrawurst bekommen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 zu inf"
+              "title": "Eine Extrawurst bekommen"
             }
           },
           {
-            "id": "23a1b4857bfc803a",
+            "id": "60d443fe205f00a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/c1/Galileo/1 Payback und Co. - Wer profitiert von Punktesystemen.md",
+                "file": "Lektionen/Bekker/39.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Payback und Co. - Wer profitiert von Punktesystemen"
+              "title": "39"
             }
           },
           {
-            "id": "dd8b170ceda78f18",
+            "id": "49a118d43bfb6803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/S/sammeln.md",
+                "file": "Lektionen/Bekker/39.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sammeln"
+              "title": "39"
             }
           },
           {
-            "id": "09f443b5811b08f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lektionen/Bekker/verben/34.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "34"
-            }
-          },
-          {
-            "id": "63258f9a7659a982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wortlisten/Verben/prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "prompt"
-            }
-          },
-          {
-            "id": "8371b0017ee2c3bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wortlisten/Verben/test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test"
-            }
-          },
-          {
-            "id": "29ffe095822a0af9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Medium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Medium"
-            }
-          },
-          {
-            "id": "2b945547dbc5259b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/R/Ring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ring"
-            }
-          },
-          {
-            "id": "7c1bb66b14994979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/R/Ring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ring"
-            }
-          },
-          {
-            "id": "0b881a7b499f6bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/keymaker unfilled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "keymaker unfilled"
-            }
-          },
-          {
-            "id": "23235b0db67bcf7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/U/umsonst.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "umsonst"
-            }
-          },
-          {
-            "id": "0f839842f758f794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/c1/Galileo/1 Payback und Co. - Wer profitiert von Punktesystemen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Payback und Co. - Wer profitiert von Punktesystemen"
-            }
-          },
-          {
-            "id": "f87a4d5d21377e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/E/erfahren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "erfahren"
-            }
-          },
-          {
-            "id": "dda9cb7b8d0320b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/A/aufpassen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "aufpassen"
-            }
-          },
-          {
-            "id": "9b26acdd226b6ef6",
+            "id": "6889218939621f6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -246,49 +92,21 @@
             }
           },
           {
-            "id": "215151159eeb0a84",
+            "id": "57f45b04437dc270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/F/freuen.md",
+                "file": "Worter/Keymaker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "freuen"
-            }
-          },
-          {
-            "id": "c40267baba1cf923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/F/freunde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "freunde"
-            }
-          },
-          {
-            "id": "a9f8086bad1c2ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/B/befreunden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "befreunden"
+              "title": "Keymaker"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -341,11 +159,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ab1e072fc4dd144",
@@ -361,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Worter/asdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for asdf"
             }
           },
           {
@@ -435,34 +256,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a9f8086bad1c2ee9",
+  "active": "57f45b04437dc270",
   "lastOpenFiles": [
-    "Worter/F/freunde.md",
-    "Worter/F/freuen.md",
     "Worter/V/vorstellen.md",
+    "Worter/asdf.md",
+    "Worter/F/fgfd.md",
+    "Texte/b2 Das sagt man so!/Eine Extrawurst bekommen.md",
+    "Worter/Keymaker.md",
+    "Worter/gewöhnen.md",
     "Worter/A/aufpassen.md",
-    "Worter/P/Passierschein.md",
-    "Worter/P/Passagier.md",
-    "Worter/P/Passwort.md",
-    "Worter/A/Aufpasserin.md",
-    "Worter/A/Aufpasser.md",
-    "Worter/A/aufzupassen.md",
-    "Worter/A/aufpassend.md",
-    "Worter/P/passen wir auf.md",
-    "Worter/A/auf der Hut sein.md",
-    "Worter/O/Obacht geben.md",
-    "Worter/E/erfahren.md",
-    "Texte/c1/Galileo/1 Payback und Co. - Wer profitiert von Punktesystemen.md",
-    "Worter/E/erscheinen.md",
-    "Wortlisten/Verben/prompt.md",
-    "Wortlisten/Verben/test.md",
-    "Worter/Untitled 9.md",
-    "Worter/D/darstellen.md",
-    "Worter/R/rennen.md",
-    "Worter/V/vorgestellt.md",
-    "Worter/H/hoffen.md",
-    "Worter/R/renne.md",
-    "Worter/verfeinden.md",
+    "Lektionen/b22 kourse/1.1 text.md",
+    "Lektionen/b22 kourse/1 Inhalt.md",
+    "Worter/V/verfügbar.md",
+    "Worter/Abonnements.md",
+    "Lektionen/Bekker/39.md",
+    "Worter/Gassi.md",
+    "Worter/G/Gassirunde.md",
+    "Worter/G/Gassi gehen.md",
+    "Worter/G/Gassis.md",
+    "Worter/G/Gassigehen.md",
+    "Worter/G/Gesellschaft.md",
+    "Worter/E/entwickelt.md",
+    "Worter/E/entwickeln.md",
+    "Worter/A/Abgewöhnung.md",
+    "Worter/U/ungewohnt.md",
+    "Worter/A/abgewöhnen.md",
+    "Worter/E/entwöhnen.md",
+    "Worter/R/routinieren.md",
+    "Worter/E/eingewöhnen.md",
+    "Texte/c1/jul",
     "Wortlisten/Verben",
     "Lektionen/Bekker/done",
     "Anhänge/Pasted image 20250224055949.png",
@@ -481,7 +303,6 @@
     "Anhänge/Pasted image 20250203084709.png",
     "Anhänge/Pasted image 20250203051808.png",
     "Anhänge/Pasted image 20250125084340.png",
-    "Anhänge/54568_82022.mp3",
-    "Anhänge/Урок 1. Числительные. Чтение, произношение.pdf"
+    "Anhänge/54568_82022.mp3"
   ]
 }

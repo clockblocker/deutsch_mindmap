@@ -19,3 +19,4 @@ Synonyme:
 
 #Adverb, [[erst]], [[endlich]]
 , [[anstoßen]]
+, [[allererst]]

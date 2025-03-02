@@ -1,1 +1,2 @@
 , [[Entscheidung]], [[Beschluss]]
+, [[verfügbar]]
