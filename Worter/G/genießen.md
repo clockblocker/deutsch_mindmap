@@ -35,4 +35,4 @@ Zu+infinitive: [[zu genießen]]
 
 
 , [[Trinken]], [[leiden]], [[Backen]], [[genießbar]], [[wohlfühlen]]
-, [[zumindest]], [[Redewendung]], [[behaupten]], [[Vergnügen]]
+, [[zumindest]], [[Redewendung]], [[behaupten]], [[vergnügen]]

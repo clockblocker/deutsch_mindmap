@@ -23,4 +23,4 @@ G: des [[Bewerbs]], der [[Bewerbe]]
 D: dem [[Bewerb]], den [[Bewerben]] 
 
 ---
-[[bewerben]], [[Bewerber]], [[Bewerbung]], [[werbend]], [[beabsichtigen]]
+[[bewerben]], [[Bewerber]], [[Bewerbung]], [[werbend]], [[beabsichtigen]], [[Mitbewerber]]

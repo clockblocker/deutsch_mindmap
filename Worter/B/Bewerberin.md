@@ -1,2 +1,2 @@
 , [[bewerben]]
-, [[Bewerbung]]
+, [[Bewerbung]], [[Mitbewerber]]

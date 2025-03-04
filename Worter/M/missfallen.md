@@ -28,4 +28,4 @@ Morpheme: [[miss]][[fall]][[en]]
 
 Partizip I: [[missfallend]], Partizip II: [[missfallen]]
 [[missfallen]] - [[miss]] = [[fallen]]
-, [[behagen]], [[ablehnen]], [[Vergnügen]]
+, [[behagen]], [[ablehnen]], [[vergnügen]]

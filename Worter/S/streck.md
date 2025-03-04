@@ -1,1 +1,1 @@
-, [[strecken]]
+, [[strecken]], [[Strecke]]

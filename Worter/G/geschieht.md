@@ -1,1 +1,1 @@
-, [[geschehen]]
+, [[geschehen]], [[allmählich]]

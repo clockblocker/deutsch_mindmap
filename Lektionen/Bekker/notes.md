@@ -10,7 +10,20 @@
 
 
 ----
-![[Pasted image 20250224055357.png]]
 
-правило можно упросить: 
-![[Pasted image 20250224055949.png]]
+vergnügen вместо amüsieren
+(338) https://youglish.com/pronounce/vergn%C3%BCgen/german
+вместо
+(45) https://youglish.com/pronounce/am%C3%BCsieren/german
+
+аналогично с другими глаголами
+
+---
+мб лексику подтягивать к никосу вегу?
+
+
+---
+
+
+da{prap}
+wo{prap} мб давать раньше?

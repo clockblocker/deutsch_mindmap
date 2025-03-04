@@ -31,3 +31,4 @@ PI: [[verschwendend]], PII: [[verschwendet]], Zu+inf: [[zu verschwenden]]
 
 ---
 [[Verschwendung]], [[verschwenderisch]], [[verschwendet]]
+

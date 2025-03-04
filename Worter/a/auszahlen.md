@@ -26,4 +26,4 @@ PI: [[auszahlend]], PII: [[ausgezahlt]], Zu+inf: [[auszuzahlen]]
 [[auszahlen]] - [[aus]] = [[zahlen]] / to remit, to pay out
 
 ---
-[[Auszahlung]], [[Auszahlungsbeleg]], [[Auszahlungsbetrag]], [[Auszahlungsschein]]
+[[Auszahlung]], [[Auszahlungsbeleg]], [[Auszahlungsbetrag]], [[Auszahlungsschein]], [[abheben]]

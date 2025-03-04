@@ -30,4 +30,4 @@ Einzigartige mögliche Formen:
 
 Etymologie: zusammengesetzt aus [[neu]] + [[gierig]], ursprünglich "nach Neuem gierig"
 
-, [[s1 e1]]
+, [[s1 e1]], [[Neugier]]

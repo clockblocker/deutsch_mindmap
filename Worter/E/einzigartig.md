@@ -1,1 +1,1 @@
-[[besonders]], [[durchschnittliches]], [[einziger]], [[ungewöhnlich]], [[speziell]]
+[[besonders]], [[durchschnittliches]], [[einziger]], [[ungewöhnlich]], [[speziell]], [[einmalig]]

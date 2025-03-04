@@ -24,4 +24,4 @@ D: dem [[Grund]], den [[Gründen]]
 ---
 [[gründen]], [[gründlich]], [[Begründung]], [[grundsätzlich]], [[Grundlage]], [[aufgrund]], [[ungrundet]], [[vergrunden]]
 
-, [[Gründung]], [[Grundlage]], [[gründen]], [[Grundgesetz]], [[Privatgrundstück]], [[grundsätzlich]], [[Grundrecht]], [[zugrundeliegende]], [[Begründung]], [[Anlass]], [[aus irgendeinem Grund]]
+, [[Gründung]], [[Grundlage]], [[gründen]], [[Grundgesetz]], [[Privatgrundstück]], [[grundsätzlich]], [[Grundrecht]], [[zugrundeliegende]], [[Begründung]], [[Anlass]], [[aus irgendeinem Grund]], [[Gründer]]

@@ -3,6 +3,8 @@
 ---
 Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
+[[1.1 text#^8|(q)]] Sophia und ihre Geschäftspartnerin konnten eine Bank von ihrem Finanzplan [[überzeugen]]. ^8
+
 - Wir müssen versuchen, die anderen [[von]] diesem Plan zu [[überzeugen]]
 - Ich bin [[davon]] [[überzeugt]], dass wir es schaffen werden
 

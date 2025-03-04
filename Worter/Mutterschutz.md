@@ -26,4 +26,4 @@ G: des [[Mutterschutzes]], der [[Mutterschutz]]
 D: dem [[Mutterschutz]], den [[Mutterschutz]]  
 
 ---
-[[mütterlich]], [[Mutterschaft]], [[schützen]], [[Arbeitsrecht]], [[Elterngeld]]
+[[mütterlich]], [[Mutterschaft]], [[schützen]], [[Arbeitsrecht]], [[Elterngeld]], [[Bindungsurlaub]]

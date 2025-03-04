@@ -1,1 +1,1 @@
-🤔 [[schätzen]], [[Vergnügen]]
+🤔 [[schätzen]], [[vergnügen]]

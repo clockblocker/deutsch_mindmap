@@ -41,4 +41,4 @@ D: der [[Gemeinde]], den [[Gemeinden]]
 [[gemeinsam]], [[gemeindlich]], [[Gemeinderatssitzung]], [[Gemeindevorstand]], [[gemeindefrei]]
 
 , [[Stadt]], [[Minderheit]], [[Dorf]]
-, [[Kirche]], [[Bundesbezirk]], [[gemein]], [[Bundesland]], [[Gemeindeverwaltung]], [[Gemeinderat]], [[Bezirk]]
+, [[Kirche]], [[Bundesbezirk]], [[gemein]], [[Bundesland]], [[Gemeindeverwaltung]], [[Gemeinderat]], [[Bezirk]], [[Bürgerei]]

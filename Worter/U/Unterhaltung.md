@@ -8,7 +8,7 @@ die [[Unterhaltungen]]
 
 ---
 = [[Kommunikation]], [[Gespräch]], [[Dialog]]
-≈ [[Konversation]], [[Plauderei]], [[Diskussion]], [[Austausch]], [[Partygespräch]], [[Vergnügen]]
+≈ [[Konversation]], [[Plauderei]], [[Diskussion]], [[Austausch]], [[Partygespräch]], [[vergnügen]]
 ≠ [[Schweigen]], [[Stille]], [[Funkstille]]
 
 ---

@@ -22,4 +22,4 @@ Genitive: der [[Kita]], der [[Kitas]]
 Dative: der [[Kita]], den [[Kitas]]  
 
 ---
-[[kitapflichtig]], [[Kita-Platz]], [[Kita-Kind]], [[Kita-Träger]]
+[[kitapflichtig]], [[Kita-Platz]], [[Kita-Kind]], [[Kita-Träger]], [[begeistert]]

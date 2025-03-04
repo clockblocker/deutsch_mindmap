@@ -1,1 +1,1 @@
-, [[Lust]], [[Vergnügen]]
+, [[Lust]], [[vergnügen]]

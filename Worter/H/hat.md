@@ -1,3 +1,3 @@
 , [[Worter/H/haben]], [[schleudern]]
 , [[befreunden]]
-, [[gewöhnen]]
+, [[gewöhnen]], [[allmählich]], [[auflegen]], [[vermarkten]]

@@ -1,2 +1,2 @@
 der [[Reis]] | #Substantiv #Masculin | rice
-, [[einreisen]], [[reisen]], [[verreisen]]
+, [[einreisen]], [[reisen]], [[verreisen]], [[Reise]]

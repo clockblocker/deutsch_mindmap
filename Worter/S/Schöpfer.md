@@ -1,1 +1,1 @@
-, [[Künstler]], [[Kunstschaffende]], [[schaffen]]
+, [[Künstler]], [[Kunstschaffende]], [[schaffen]], [[Gründer]]

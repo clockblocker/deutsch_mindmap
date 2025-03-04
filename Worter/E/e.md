@@ -3,4 +3,4 @@
 , [[Miete]]
 , [[rechter]]
 , [[Durchhaltevermögen]]
-, [[Alle]]
+, [[Alle]], [[messe]], [[Strecke]], [[Reise]]

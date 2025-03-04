@@ -1,1 +1,1 @@
-, [[aufräumen]], [[Vergnügen]]
+, [[aufräumen]], [[vergnügen]]

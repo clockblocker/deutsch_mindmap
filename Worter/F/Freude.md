@@ -12,7 +12,7 @@ Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwei
 
 ---
 Synonyme:
-- [[Glück]], [[Vergnügen]], [[Zufriedenheit]]
+- [[Glück]], [[vergnügen]], [[Zufriedenheit]]
 
 ---
 **Übersetzung**: joy, delight, pleasure

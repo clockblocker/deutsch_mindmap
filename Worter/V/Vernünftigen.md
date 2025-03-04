@@ -1,1 +1,2 @@
-, [[Vernunft]]
+, [[Vernunft]], [[abheben]]
+🤓 [[vernünftig]]

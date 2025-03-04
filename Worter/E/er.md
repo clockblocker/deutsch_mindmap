@@ -15,4 +15,4 @@
 , [[Erschöpfung]]
 , [[Vermieter]]
 , [[Korkenzieher]]
-, [[erforderlich]]
+, [[erforderlich]], [[Gründer]], [[Mitbewerber]]

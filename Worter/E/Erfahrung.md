@@ -4,6 +4,8 @@ die [[Erfahrungen]]
 ---
 [[16 Plusquamperfekt#^24|(q)]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
 
+[[1#^4|(q)]] Für mich klingt es sehr [[vernünftig]], so ein [[Ausleihsystem]] auch bei uns in Grünberg anzubieten. ^4
+
 "Nach meiner langen [[Erfahrung]] [[in]] diesem [[Bereich]] kann ich Ihnen einige Tipps geben. 
 
 "Nach meiner langen [[Erfahrung]] [[auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 

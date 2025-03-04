@@ -28,4 +28,4 @@ D: der [[Bewerbung]], den [[Bewerbungen]]
 ---
 [[bewerben]], [[Bewerber]], [[Bewerberin]], [[Bewerbungsgespräch]], [[Bewerbungsunterlagen]]
 , [[Bewerbungsmappe]]
-, [[Wohnungsbewerbung]]
+, [[Wohnungsbewerbung]], [[Mitbewerber]]

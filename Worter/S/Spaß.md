@@ -8,7 +8,7 @@ Beispiele:
 
 ---
 Synonyme:
-- [[Vergnügen]], [[Freude]], [[Gaudi]]
+- [[vergnügen]], [[Freude]], [[Gaudi]]
 
 ---
 **Übersetzung**: fun, enjoyment

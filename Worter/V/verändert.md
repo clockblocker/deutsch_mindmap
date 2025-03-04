@@ -1,1 +1,1 @@
-[[verändern]]
+[[verändern]], [[allmählich]]

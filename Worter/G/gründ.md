@@ -1,1 +1,1 @@
-, [[gründen]], [[Begründung]]
+, [[gründen]], [[Begründung]], [[Gründer]]

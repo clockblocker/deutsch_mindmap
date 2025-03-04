@@ -1,1 +1,1 @@
-, [[Wirtschaft]], [[Marktwirtschaft]]
+, [[Wirtschaft]], [[Marktwirtschaft]], [[messe]], [[vermarkten]]

@@ -6,4 +6,4 @@
 , [[einig]]
 , [[einschlafen]]
 , [[umsteigen]]
-, [[einverstanden]]
+, [[einverstanden]], [[einmalig]], [[Einschätzung]]

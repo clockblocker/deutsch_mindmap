@@ -1,1 +1,1 @@
-, [[lächerlich]], [[sinnvoll]]
+, [[lächerlich]], [[sinnvoll]], [[vernünftig]]

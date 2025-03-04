@@ -1,1 +1,1 @@
-, [[Trieb]], [[Tendenz]]
+, [[Trieb]], [[Tendenz]], [[Neugier]]

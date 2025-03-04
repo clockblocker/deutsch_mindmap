@@ -1,1 +1,1 @@
-, [[Boot]], [[wagen]]
+, [[Boot]], [[wagen]], [[Lastenrad]], [[Fahrradmesse]]

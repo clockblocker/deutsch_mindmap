@@ -1,1 +1,1 @@
-, [[bald]], [[zügig]]
+, [[bald]], [[zügig]], [[allmählich]]

@@ -1,30 +1,33 @@
-🔵 der [[Verwandte]], [fɛɐˈvantə]
-die [[Verwandten]]
-
+👨‍👩‍👧‍👦 [[verwandt]], [fɛɐ̯ˈvant] ≠ [[fremd]]
+der [[Verwandte]]
 
 ---
 Es ist mir so peinlich, mit dir [[verwandt]] zu sein! Grh!
 
-249. Wer ist in Deutschland [[hauptsächlich]] [[verantwortlich]] für die [[Kindererziehung]]? (97%)
+[[1.1 text#^5|(q)]] Doch dann besuchte sie [[Verwandte]] in Ghana, hatte dort eine Geschäftsidee und machte sich daraufhin selbstständig. ^5
+
+1. Wer ist in Deutschland [[hauptsächlich]] [[verantwortlich]] für die [[Kindererziehung]]? (97%)
 	- [ ] der Staat
 	- [x] die Eltern
 	- [ ] die [[Verwandten]]
 
 ---
-Synonyme:
-- [[Angehöriger]], [[Familienmitglied]], [[Blutsverwandter]], [[Verwandtschaftsmitglied]]
+= [[angehörig]], [[zugehörig]], [[blutsverwandt]]
+≈ [[Familie]], [[Angehörige]], [[Bekannte]], [[Freunde]]
+≠ [[fremd]], [[unbekannt]], [[entfremdet]]
 
 ---
-Übersetzung: relative
+related, relatives
+родственники
 
 ---
-Morpheme:
-[[ver]][[wandt]][[e]]
+[[Verwandtschaft]], [[verwandeln]], [[Verwandlung]], [[Verwandter]], [[verwandtschaftlich]]
 
 ---
-Einzigartige mögliche Formen: [[Verwandten]], [[Verwandtem]], [[Verwandter]], [[Verwandtem]], [[Verwandte]], [[Verwandten]], [[Verwandter]], [[Verwandten]]
+[[verwandt]]
 
 ---
-#Substantiv #Maskulin
-
-, [[Kusine]], [[Geschwister]]
+N: der [[Verwandte]], die [[Verwandten]]  
+A: den [[Verwandten]], die [[Verwandten]]  
+G: des [[Verwandten]], der [[Verwandten]]  
+D: dem [[Verwandten]], den [[Verwandten]]

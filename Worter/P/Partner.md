@@ -1,1 +1,1 @@
-, [[Ansprechpartner]], [[Ehemann]], [[Ehepartner]], [[Alliierte]]
+, [[Ansprechpartner]], [[Ehemann]], [[Ehepartner]], [[Alliierte]], [[Mitbewerber]]

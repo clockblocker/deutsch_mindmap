@@ -1,20 +1,27 @@
-🔴 die [[Reise]]
-die [[reisen]]
-
-Beispiele:
-
-- Wir haben eine lange [[Reise]] hinter uns
----
-Synonyme:
-- [[Fahrt]], [[Trip]], [[Tour]]
+✈️ 🔴 die [[Reise]], [ˈʁaɪ̯zə]
+die [[Reisen]]
 
 ---
-**Übersetzung**: journey, trip, travel
+
 
 ---
-Morphems:
+= [[Tour]], [[Trip]], [[Fahrt]]
+≈ [[Ausflug]], [[Urlaub]], [[Exkursion]], [[Unternehmen]]
+≠ [[Ankunft]], [[Heimkehr]], [[Aufenthalt]]
+
+---
+journey, trip, travel
+путешествие, поездка
+
+---
+[[reisen]], [[Reisender]], [[Reisende]], [[Reiseziel]], [[Reisebüro]]
+
+---
+[[Reis]]|[[e]]
 [[Reise]]
 
 ---
-#Substantiv #Feminin, [[11 08]], [[einreisen]], [[Reisepass]], [[Ostasienfahrt]], [[Bewegung]], [[Ausflug]], [[verreisen]]
-, [[Reisekosten]]
+N: die [[Reise]], die [[Reisen]]
+A: die [[Reise]], die [[Reisen]]
+G: der [[Reise]], der [[Reisen]]
+D: der [[Reise]], den [[Reisen]]

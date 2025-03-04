@@ -1,1 +1,1 @@
-, [[Buchhalter]], [[Unternehmerverband]], [[Arbeitnehmer]], [[Angestellte]]
+, [[Buchhalter]], [[Unternehmerverband]], [[Arbeitnehmer]], [[Angestellte]], [[Gründer]]

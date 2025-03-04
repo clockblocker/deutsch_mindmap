@@ -17,4 +17,4 @@ Synonyme:
 **Übersetzung**: start
 
 ---
-#Substantiv #Maskulin, [[Kundstart]]
+#Substantiv #Maskulin, [[Kundstart]], [[Strecke]]

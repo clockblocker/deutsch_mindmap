@@ -2,6 +2,8 @@
 nicht [[mehrere]]
 
 ---
+Ohne ein [[einziges]] Wort zu verstehen, konnte er alles erklären  
+
 Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas Bericht nicht. „Die [[Seitenzahlen]] sollten immer [[unten]] rechts stehen. Bitte achten Sie in Zukunft [[darauf]]!“, war ihr [[einziger]] Kommentar zu dem Bericht. 
 
 Bilde einen [[einzigen]] komplexen Satz mit einer Präposition aus den [[folgend]] [[einfachen]] Sätzen:

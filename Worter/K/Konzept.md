@@ -1,1 +1,1 @@
-, [[Gedanke]], [[Vorstellung]], [[Begriff]], [[Urkunde]]
+, [[Gedanke]], [[Vorstellung]], [[Begriff]], [[Urkunde]], [[Geschäftsidee]]

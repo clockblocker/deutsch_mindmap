@@ -24,4 +24,4 @@ N: [[gelungenes]], [[gelungeneres]], [[gelungenerstes]]
 P: [[gelungenen]], [[gelungeneren]], [[gelungensten]]  
 
 ---
-[[gelingen]], [[Gelingen]], [[mißlingen]], [[mißlungen]], [[Erfolg]]
+[[gelingen]], [[Gelingen]], [[mißlingen]], [[mißlungen]], [[Erfolg]], [[gelangen]]

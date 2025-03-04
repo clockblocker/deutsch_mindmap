@@ -9,7 +9,7 @@ Werner hat beim [[aufräumen]] ein altes Urlaubsfoto gefunden. Er hat einen Rahm
 
 Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]. Martin ist [[sauer]]: „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“ 
 
-Ich [[schätze]] ich fliege erstmal nach Hause und suche die Luftbändiger. Ach du [[Heiliger]]... Ich hab mein Zimmer seit hundert Jahren nicht mehr [[aufgeräumt]]. Das wird [[garantiert]] kein [[Vergnügen]]
+Ich [[schätze]] ich fliege erstmal nach Hause und suche die Luftbändiger. Ach du [[Heiliger]]... Ich hab mein Zimmer seit hundert Jahren nicht mehr [[aufgeräumt]]. Das wird [[garantiert]] kein [[vergnügen]]
 
 ---
 Synonyme: [[ordnen]], [[säubern]], [[putzen]], [[reinigen]], [[sortieren]], [[kehren]]

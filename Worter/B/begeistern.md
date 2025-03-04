@@ -3,6 +3,8 @@
 ---
 Lena hat einen neuen Kollegen: Bastian. Ihr Chef ist [[begeistert]] von Bastians Qualifikationen: Studium an einer teuren Privatuniversität, Auslandserfahrung, sehr gute Englischkenntnisse.
 
+Den werden wir für unsere Räder [[begeistern]] können
+
 ---
 Synonyme: [[motivieren]], [[inspirieren]], [[ermutigen]], [[mitreißen]], [[faszinieren]], [[gefallen]], [[interessieren]]
 Antonyme: [[enttäuschen]], [[demotivieren]], [[langweilen]], [[entmutigen]]

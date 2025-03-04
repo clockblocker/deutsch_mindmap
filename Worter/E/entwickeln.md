@@ -7,6 +7,10 @@ Weil die Krankheit sehr [[häufig]] [[auftritt]], wird das neues Medikament [[da
 
 Ich interessiere mich dafür, wie sich unsere [[Gesellschaft]] [[entwickelt]].
 
+[[1.1 text#^7|(q)]] Das Geschäftsmodell für das Start-up hat Sophia zusammen mit einer [[ehemaligen]] Verkaufsleiterin [[entwickelt]]. ^7
+ 
+
+
 Die Forscher [[entwickeln]] ein neues Medikament.
 
 Die [[Begrüßung]] läuft noch ganz gut: Miriam stellt ihn allen vor. Sie scheinen nett zu sein, aber ein längeres Gespräch [[entwickelt]] sich nicht. Und Miriams beste Freundin erklärt dann auch noch, dass sie unbedingt etwas mit ihr besprechen muss – unter vier Augen! 

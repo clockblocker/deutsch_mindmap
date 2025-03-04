@@ -3,6 +3,8 @@
 ---
 Heute tragen nur noch wenige Menschen Hüte. [[Trotzdem]] gibt es viele Leute, die alles unter einen Hut bringen wollen, damit jeder zufrieden ist.
 
+[[Obwohl]] ich mich oft mit meinen Freunden [[unterhalte]], ist es mir [[trotzdem]] langweilig.
+
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
 Manche Menschen legen sich [[Gurken]] auf die Augen, um etwas für ihre [[Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden.

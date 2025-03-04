@@ -3,4 +3,4 @@
 , [[Sorgfaltsfehler]]
 , [[Gefühlsausbruch]]
 , [[Stimmungsschwankung]]
-, [[Auftragslage]]
+, [[Auftragslage]], [[Bindungsurlaub]]

@@ -1,2 +1,2 @@
 [[verkaufen]]
-, [[Kauf]], [[Produktsupport]]
+, [[Kauf]], [[Produktsupport]], [[Ausleihsystem]]

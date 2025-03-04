@@ -1,1 +1,1 @@
-, [[einreisen]], [[reisen]], [[verreisen]]
+, [[einreisen]], [[reisen]], [[verreisen]], [[Reise]]

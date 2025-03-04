@@ -1,5 +1,5 @@
-, [[langweilen]], [[langweilig]], [[Vergnügen]]
+, [[langweilen]], [[langweilig]], [[vergnügen]]
 , [[Feier]]
 , [[Termindruck]]
 , [[Arbeitsauftrag]]
-, [[Beschäftigung]]
+, [[Beschäftigung]], [[Neugier]]

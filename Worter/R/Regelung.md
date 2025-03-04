@@ -1,1 +1,1 @@
-, [[Abkommen]], [[festlegen]], [[Festlegung]]
+, [[Abkommen]], [[festlegen]], [[Festlegung]], [[Verfügung]]

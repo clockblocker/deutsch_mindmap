@@ -1,1 +1,1 @@
-, [[Straße]], [[Weg]]
+, [[Straße]], [[Weg]], [[Strecke]]

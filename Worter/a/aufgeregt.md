@@ -35,4 +35,4 @@ Plural: [[aufgeregten]], [[aufgeregteren]], [[aufgeregtetsten]]
 
 [[nervös]][[ruhig]], [[beruhig]], [[entspannter]], [[entspannt]]
 , [[weitermachen]], [[schrecklich]], [[begeistert]], [[aufgebracht]]
-, [[zappelig]]
+, [[zappelig]], [[ungestört]]

@@ -1,4 +1,7 @@
-Hast du [[immer noch]] so viele Pickel?  
+Hast du [[immer noch]] so viele Pickel? 
+
+[[Obwohl]] sie [[schon]] [[oft]] ins Deutschland war, sprach sie [[immer]] [[noch]] kein Deutsch
+
  Ich bin [[noch]] krank.
 „Hallo! Kennst du mich [[noch]]?“
 Ich [[warte]] [[nur noch]] auf die Antwort!  

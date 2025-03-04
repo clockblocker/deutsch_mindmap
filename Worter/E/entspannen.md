@@ -7,6 +7,8 @@ haben [[entspannt]]
 
 [[entspannt]]
 
+
+
 ---
 Synonyme: [[beruhigen]], [[relaxen]], [[erholen]], [[abschalten 1]], [[ausspannen]]
 Antonyme: [[anstrengen]], [[stressen]], [[belasten]]

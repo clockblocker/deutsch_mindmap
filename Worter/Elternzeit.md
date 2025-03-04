@@ -24,4 +24,4 @@ G: der [[Elternzeit]], der [[Elternzeiten]]
 D: der [[Elternzeit]], den [[Elternzeiten]]  
 
 ---
-[[Eltern]], [[elterlich]], [[Elternteil]], [[Elternschaft]], [[Elternurlaub]], [[Elterngeldstelle]]
+[[Eltern]], [[elterlich]], [[Elternteil]], [[Elternschaft]], [[Elternurlaub]], [[Elterngeldstelle]], [[Bindungsurlaub]]

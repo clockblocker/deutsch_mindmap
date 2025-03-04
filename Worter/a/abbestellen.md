@@ -26,4 +26,4 @@ Morpheme: [[ab]][[bestell]][[en]]
 | Sie | [[bestellen ab]] | [[bestellten ab]] | [[bestellen Sie ab]] | [[bestellen ab]] | [[bestellten ab]] |
 
 Partizip I: [[abbestellend]], Partizip II: [[abbestellt]]
-[[abbestellen]] - [[ab]] = [[bestellen]], [[absagen]]
+[[abbestellen]] - [[ab]] = [[bestellen]], [[absagen]], [[auflegen]]

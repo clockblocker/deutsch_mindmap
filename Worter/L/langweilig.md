@@ -28,4 +28,4 @@ Plural: [[langweiligen]], [[langweiligeren]], [[langweiligsten]]
 
 , [[interessant]], [[witzig]], [[erstaunlich]], [[Bunt]], [[langweilen]]
 , [[Hot]]
-, [[geschmacklos]]
+, [[geschmacklos]], [[begeistert]]

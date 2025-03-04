@@ -3,10 +3,14 @@ nicht [[erfolglos]]
 
 ---
 Ich lerne Deutsch, um die Prüfung [[erfolgreich]] zu [[bestehen]].
+
+[[1.1 text#^9|(q)]] Sophias Unternehmen ist auch deshalb so [[erfolgreich]], weil jedes Rad [[einmalig]] ist. ^9
  
 Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderungen]], die so groß sind, dass man daraus ein Sprichwort machen muss.
 
 [[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
+
+Wir helfen dir dabei, - eine richtig gute Geschäftsidee zu entwickeln, mit der du dich von der Konkurrenz [[abhebst]], - eine [[gründliche]] Konkurrenzanalyse zu machen (um den Markt und deine [[Mitbewerber]] besser kennenzulernen), - einen [[vernünftigen]] Finanzplan zu erstellen, - und dein Produkt [[erfolgreich]] zu vermarkten – auch international.
 
 ---
 Synonyme: [[siegreich]], [[triumphierend]], [[gewinnend]], [[gelungen]], [[produktiv]]
@@ -32,4 +36,4 @@ Plural: [[erfolgreichen]], [[erfolgreicheren]], [[erfolgreichsten]]
 [[Erfolg]], [[Erfolgsaussicht]], [[Erfolglosigkeit]], [[erfolgsorientiert]], [[erfolgreich sein]]
 
 , [[vergebens]], [[Erfolg]]
-, [[Erfolgen]], [[w-l]]
+, [[Erfolgen]], [[w-l]], [[abheben]]

@@ -44,4 +44,4 @@ Tags:
 
 #Adjective
 
-#Positive | #Comparative | #Superlative, [[zügig]], [[s1 e1]]
+#Positive | #Comparative | #Superlative, [[zügig]], [[s1 e1]], [[Radschnellweg]]

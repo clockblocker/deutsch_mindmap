@@ -37,4 +37,4 @@ Tags:
 
 ---
 Morphems:
-[[dumm]], [[schlauen]], [[Weise]], [[überlegen]], [[doof]], [[begabt]]
+[[dumm]], [[schlauen]], [[Weise]], [[überlegen]], [[doof]], [[begabt]], [[vernünftig]]

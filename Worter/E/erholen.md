@@ -3,6 +3,8 @@
 ---
 Sie [[erholt]] sich immer gut.
 
+Statt zu arbeiten, [[erholt]] er sich [[ständig]] 
+
 Wir fahren nach Süden, um uns zu [[erholen]]
 
 [[erholen.md#^1|(q)]] sich selbst aus der [[Erschöpfung]] [[zurückholen]] ^1

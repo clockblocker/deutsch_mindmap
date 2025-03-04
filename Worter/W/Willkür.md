@@ -1,1 +1,1 @@
-, [[Pflicht]], [[Grundgesetz]], [[Gesetz]], [[Faustrecht]], [[Gericht]], [[Richtlinie]], [[Verwaltung]], [[Gesetzgebung]], [[Rechtsprechung]], [[willkürlich]], [[Bedingung]], [[Gerechtigkeit]], [[Begründung]]
+, [[Pflicht]], [[Grundgesetz]], [[Gesetz]], [[Faustrecht]], [[Gericht]], [[Richtlinie]], [[Verwaltung]], [[Gesetzgebung]], [[Rechtsprechung]], [[willkürlich]], [[Bedingung]], [[Gerechtigkeit]], [[Begründung]], [[Verfügung]]

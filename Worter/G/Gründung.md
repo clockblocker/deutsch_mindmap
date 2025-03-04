@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gründung]], [[Gründungen]]
 
 ---
-#Substantiv #Feminin, [[gründen]], [[Gründungsmitglied]]
+#Substantiv #Feminin, [[gründen]], [[Gründungsmitglied]], [[Gründer]]

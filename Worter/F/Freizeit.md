@@ -3,4 +3,4 @@
 , [[Termindruck]]
 , [[Arbeitsauftrag]]
 , [[Schularbeit]]
-, [[Beschäftigung]]
+, [[Beschäftigung]], [[Urlaub]]

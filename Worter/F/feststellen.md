@@ -5,6 +5,7 @@ haben [[festgestellt]]
 ---
 Wenn man die vielen Galerien und Ausstellungen in Banken und Einkaufszentren dazuzählt, muss man [[feststellen]]: Es gehen mehr Menschen 10 ins Museum als ins Kino.
 
+Sophia hat [[festgestellt]], dass es in Europa noch keine Bambusräder gab. 
 
 ---
 Synonyme: [[konstatieren]], [[feststellen]], [[ermitteln]], [[bestätigen]], [[nachweisen]], [[bemerken]], [[ausmachen]]

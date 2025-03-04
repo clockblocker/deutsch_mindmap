@@ -1,1 +1,1 @@
-, [[Beschluss]], [[Gesetz]], [[erlassen]]
+, [[Beschluss]], [[Gesetz]], [[erlassen]], [[Verfügung]]

@@ -3,6 +3,11 @@
 haben [[unterhalten]]
 
 ---
+_Das sind die Leute, mit denen wir uns [[unterhalten]] müssen._ _Это люди, с которыми мы должны общаться._
+
+[[Obwohl]] ich mich oft mit meinen Freunden [[unterhalte]], ist es mir [[trotzdem]] langweilig.
+
+
 _9. Когда он стал богатым, он не захотел с нами общаться._
 Als er reich geworden ist, wollte er sich nicht mit uns [[unterhalten]].
 
@@ -34,4 +39,4 @@ Morpheme: [[unter]][[halt]][[en]]
 
 Partizip I: [[unterhaltend]], Partizip II: [[unterhalten]]
 [[unterhalten]] - [[unter]] = [[halten]], [[beschäftigen]], [[langweilen]], [[Unterhaltung]]
-, [[amüsieren]]
+, [[amüsieren]], [[vergnügen]]

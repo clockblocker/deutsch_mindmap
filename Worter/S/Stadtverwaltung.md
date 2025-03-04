@@ -23,3 +23,4 @@ D: der [[Stadtverwaltung]], den [[Stadtverwaltungen]]
 
 ---
 [[verwalten]], [[Verwaltung]], [[stadtintern]], [[Städter]]
+, [[Bürgerei]]

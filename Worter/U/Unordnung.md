@@ -1,1 +1,1 @@
-, [[Reihe]], [[Verwaltung]], [[Auflistung]], [[Verwaltungsaufbau]]
+, [[Reihe]], [[Verwaltung]], [[Auflistung]], [[Verwaltungsaufbau]], [[Verfügung]]

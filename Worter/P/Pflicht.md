@@ -32,4 +32,4 @@ Einzigartige mögliche Formen:
 #Substantiv #Feminin #Nomen
 , [[Wahlpflicht]], [[Schulpflicht]], [[Schweigepflicht]], [[Religionspflicht]], [[Grundrecht]], [[Versicherungspflicht]], [[recht]], [[Anwesenheitspflicht]], [[s1 e1]], [[Notwendigkeit]]
 , [[Freizeitaktivität]]
-, [[Arbeitsauftrag]]
+, [[Arbeitsauftrag]], [[Urlaub]]

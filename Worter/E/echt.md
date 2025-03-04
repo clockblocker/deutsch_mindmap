@@ -34,4 +34,4 @@ Einzigartige mögliche Formen:
 ---
 
 , [[11 08]], [[digen]], [[bald]], [[echten]]
-, [[s1 e1]]
+, [[s1 e1]], [[natürlich]]

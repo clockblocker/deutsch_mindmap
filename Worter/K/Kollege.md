@@ -1,1 +1,1 @@
-, [[Freund]], [[Kumpel]]
+, [[Freund]], [[Kumpel]], [[Mitbewerber]]

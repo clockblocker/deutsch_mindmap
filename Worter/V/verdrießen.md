@@ -1,2 +1,2 @@
 
-, [[ärgern]]
+, [[ärgern]], [[vergnügen]]

@@ -5,6 +5,8 @@ _Aang nimmt Katara in die Arme und mit einem Sprung sind sie [[außerhalb]] des 
 
 [[2 prap.md#^8|(q)]] [[Außerhalb]] dieses [[Gebiets]], [[außerhalb]] unserer [[Öffnungszeiten]] ^8
 
+[[1#^2|(q)]] Autos und Transporter [[verschmutzen]] nicht mehr die Luft durch [[Abgase]], denn Lastenräder bringen die Waren von [[außerhalb]] der Stadt bis zum Geschäft. ^2
+
 ---
 Synonyme: [[draußen]], [[extern]], [[Außen]], [[draußerhalb]], [[hinaus]], [[durchs]]
 Antonyme: [[innerhalb]], [[innen]], [[drinnen]]
@@ -29,4 +31,4 @@ Grammatikalische Besonderheiten:
 - Kann sowohl konkret als auch abstrakt verwendet werden
 
 Hinweis: Nicht zu verwechseln mit [[innerhalb]], welches das Gegenteil bedeutet., [[auswärtig]], [[s1 e1]]
-, [[Öffnungszeit]]
+, [[Öffnungszeit]], [[verschmutzen]]

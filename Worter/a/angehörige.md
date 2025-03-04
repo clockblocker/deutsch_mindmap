@@ -1,1 +1,1 @@
-, [[Staatsangehörige]], [[angehören]]
+, [[Staatsangehörige]], [[angehören]], [[Verwandte]]

@@ -38,4 +38,4 @@ PI: [[bewerbend]], PII: [[beworben]], Zu+inf: [[zu bewerben]]
 
 ---
 [[Bewerber]], [[Bewerberin]], [[Bewerbung]], [[Bewerbungsgespräch]], [[Stellenbewerbung]], [[Bewerbung]], [[ablehnen]], [[Bewerb]]
-, [[Wohnungsbewerbung]]
+, [[Wohnungsbewerbung]], [[vermarkten]], [[Mitbewerber]]

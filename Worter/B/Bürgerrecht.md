@@ -1,1 +1,1 @@
-, [[Grundrecht]], [[wahlberechtigt]], [[Versammlungsfreiheit]]
+, [[Grundrecht]], [[wahlberechtigt]], [[Versammlungsfreiheit]], [[Bürgerei]]

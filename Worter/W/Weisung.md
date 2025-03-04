@@ -1,1 +1,1 @@
-, [[Richt]], [[weisen]]
+, [[Richt]], [[weisen]], [[Verfügung]]

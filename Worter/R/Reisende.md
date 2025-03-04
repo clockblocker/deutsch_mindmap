@@ -1,1 +1,1 @@
-, [[Abenteurer]], [[reisen]], [[verreisen]]
+, [[Abenteurer]], [[reisen]], [[verreisen]], [[Reise]]

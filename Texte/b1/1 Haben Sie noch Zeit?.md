@@ -5,9 +5,11 @@
 Denken Sie zum Beispiel an einen [[Fahrstuhl]]. Wie oft haben Sie schon auf den Fahrstuhl gewartet und [[während]] des [[Wartens]] [[ungefähr]] [[siebenmal]] auf den [[Fahrstuhlknopf]] [[gedrückt]]? 
 Warum haben Sie nicht [[einfach]] die [[Treppe]] genommen und sind in den zweiten [[Stock]] [[gelaufen]]? 
 Das ist mit [[Sicherheit]] die schnellere [[Variante]], denn nicht nur das Warten auf den Fahrstuhl kostet Zeit. 
+
+[[wahrheit]]
+
 Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den Fahrstuhl, [[Acht]] andere Menschen [[betreten]] den Fahrstuhl, jeder [[drückt]] eine andere Etage und kurz bevor der Fahrstuhl [[losfährt]], öffnet sich die Tür noch einmal. 
 Nummer neun möchte auch noch mitfahren.
-
 
 Oder denken Sie an die [[Gespräche]], die Sie jeden Tag mit Kollegen oder Freunden [[führen]]. 
 Psychologen [[meinen]], dass 60 Prozent aller Gespräche von Menschen [[handeln]], die nicht [[anwesend]] sind. Das nennt man [[Klatsch]] und [[Tratsch]].

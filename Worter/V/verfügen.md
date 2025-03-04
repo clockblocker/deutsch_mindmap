@@ -29,4 +29,4 @@ PI: [[verfügend]], PII: [[verfügt]], Zu+inf: [[zuverfügen]]
 
 ---
 [[verfügen]] - [[ver]] = [[fügen]] / to dispose, to command, to decree
-, [[verfügbar]]
+, [[verfügbar]], [[Verfügung]]

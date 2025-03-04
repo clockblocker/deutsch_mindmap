@@ -1,1 +1,1 @@
-, [[Weise]]
+, [[Weise]], [[vernünftig]]

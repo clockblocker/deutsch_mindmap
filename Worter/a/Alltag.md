@@ -1,2 +1,2 @@
 , [[fest]], [[Gedenktag]], [[Adventszeit]]
-, [[Feier]]
+, [[Feier]], [[Urlaub]]

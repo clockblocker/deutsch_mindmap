@@ -1,1 +1,1 @@
-, [[stiften]]
+, [[stiften]], [[Gründer]]

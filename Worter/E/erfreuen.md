@@ -36,6 +36,6 @@ PI: [[erfreuend]], PII: [[erfreut]], Zu+inf: [[zu erfreuen]]
 ---
 [[Erfreuung]], [[Freude]], [[freudig]], [[erfreulich]], [[Erfreuliches]]
 
-[[freuen]], [[gefallen]], [[Vergnügen]], [[Freudiges]]
+[[freuen]], [[gefallen]], [[vergnügen]], [[Freudiges]]
 , [[amüsieren]]
 , [[ärgern]]

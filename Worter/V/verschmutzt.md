@@ -1,1 +1,1 @@
-[[sauber]][[schmutzig]], [[frisch]], [[dreckigen]], [[dreckig]]
+[[sauber]][[schmutzig]], [[frisch]], [[dreckigen]], [[dreckig]], [[verschmutzen]], [[Luftverschmutzung]]

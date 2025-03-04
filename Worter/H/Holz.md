@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Holzes]], [[Holze]], [[Hölzer]], [[Hölzern]]
 
 ---
-#Substantiv #Neutral, [[Streichholz]], [[Holzplatte]]
+#Substantiv #Neutral, [[Streichholz]], [[Holzplatte]], [[Bambus]]

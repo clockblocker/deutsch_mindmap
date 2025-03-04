@@ -2,4 +2,4 @@
 #Pronomen #Reflexivpronomen
 
 yourself, [[bewerben]], [[Du]], [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]]
-, [[befreunden]]
+, [[befreunden]], [[vergnügen]]

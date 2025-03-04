@@ -31,4 +31,4 @@ PI: [[scheiternd]], PII: [[gescheitert]], Zu+inf: [[zu scheitern]]
 ---
 [[Scheitern]], [[Niederlage]], [[Misserfolg]], [[erfolglos]], [[gescheitert]], [[w-l]]
 , [[Versuch]]
-, [[durchhalten]]
+, [[durchhalten]], [[Karriere]], [[gelangen]]

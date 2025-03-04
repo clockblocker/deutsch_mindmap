@@ -1,3 +1,3 @@
 , [[fest]], [[abhalten]], [[Aufführung]]
 , [[Feier]]
-, [[Stehempfang]]
+, [[Stehempfang]], [[Fahrradmesse]], [[messe]]

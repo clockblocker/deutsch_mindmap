@@ -1,11 +1,14 @@
-, [[tief]], [[ordentlich]]
-
 gründlich, [ˈɡʁʏntlɪç]
 nicht [[oberflächlich]]
 
 ---
 Gründlich durchgecheckt steht sie da  
 Und wartet auf den Start, alles klar  
+
+Wir helfen dir dabei, - eine richtig gute Geschäftsidee zu entwickeln, mit der du dich von der Konkurrenz [[abhebst]], - eine [[gründliche]] Konkurrenzanalyse zu machen (um den Markt und deine [[Mitbewerber]] besser kennenzulernen), - einen [[vernünftigen]] Finanzplan zu erstellen, - und dein Produkt [[erfolgreich]] zu vermarkten – auch international.
+
+, [[tief]], [[ordentlich]]
+
 
 ---
 Synonyme: [[sorgfältig]], [[genau]], [[präzise]], [[umfassend]], [[detailliert]], [[akribisch]]
@@ -25,4 +28,4 @@ Einzigartige mögliche Formen:
 
 Adverbiale Verwendung: auf eine gründliche Art und Weise
 ''', [[Ausführlich]], [[Begründung]]
-, [[Grund]]
+, [[Grund]], [[Gründer]]

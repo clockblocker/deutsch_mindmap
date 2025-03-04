@@ -33,4 +33,4 @@ Zu+infinitive: [[zu langweilen]]
 
 , [[interessieren]], [[begeistern]] [[langweilen]]
 , [[erstaunen]], [[beeindrucken]]
-, [[amüsieren]]
+, [[amüsieren]], [[vergnügen]]

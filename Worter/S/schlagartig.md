@@ -1,1 +1,1 @@
-, [[plötzlich]]
+, [[plötzlich]], [[allmählich]]

@@ -1,1 +1,1 @@
-, [[sinnvoll]]
+, [[sinnvoll]], [[vernünftig]]

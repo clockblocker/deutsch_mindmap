@@ -3,6 +3,10 @@
 ---
 Und [[obwohl]] seine [[Fähigkeiten]] [[erstaunlich]] sind, muss er noch eine Menge lernen. 
 
+[[Obwohl]] sie [[schon]] [[oft]] ins Deutschland war, sprach sie [[immer]] [[noch]] kein Deutsch
+[[Obwohl]] ich mich oft mit meinen Freunden [[unterhalte]], ist es mir [[trotzdem]] langweilig.
+
+
 [[1 ADHD#^5|(q)]] steht auf, obwohl Sitzenbleiben [[erwartet]] wird. ^5
 
 [[Ein Auge zudrücken.md#^6|(q)]] Selbst der Chefkoch konnte sich vor ein paar Tagen nicht so richtig [[aufregen]], [[obwohl]] Roman [[versehentlich]] Zucker in die Suppe getan hatte. ^6

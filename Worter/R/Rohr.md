@@ -31,4 +31,4 @@ Kompositionen:
 - [[Wasserrohr]] (water pipe)
 - [[Abwasserrohr]] (sewage pipe)
 - [[Rohrleitung]] (pipeline)
-- [[Schilfrohr]] (reed)
+- [[Schilfrohr]] (reed), [[Bambus]]

@@ -5,4 +5,4 @@
 , [[zappelig]]
 , [[aufsässig]]
 , [[einig]]
-, [[beabsichtigen]]
+, [[beabsichtigen]], [[einmalig]], [[vernünftig]]

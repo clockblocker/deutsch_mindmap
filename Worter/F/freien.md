@@ -17,9 +17,9 @@ to court, to woo, to propose marriage
 [[frei]]|[[en]]
 
 ---
-ich: [[freie]], [[freite]], –, [[freie]], [[freite]]
-du: [[freiest]], [[freitetest]], [[freie]] | [[frei]] | [[freie]], [[freitest]], [[freitetest]]
-er/sie/es: [[freiet]], [[freite]], –, [[freie]], [[freite]]
+ich: [[Freie]], [[freite]], –, [[Freie]], [[freite]]
+du: [[freiest]], [[freitetest]], [[Freie]] | [[frei]] | [[Freie]], [[freitest]], [[freitetest]]
+er/sie/es: [[freiet]], [[freite]], –, [[Freie]], [[freite]]
 wir: [[freien]], [[freiten]], [[freien wir|freien]], [[freien]], [[freiten]]
 ihr: [[freiet]], [[freietet]], [[freiet]], [[freiet]], [[freietet]]
 

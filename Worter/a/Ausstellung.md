@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Ausstellung]], [[Ausstellungen]], [[Ausstellung
 ---
 #Substantiv #Feminin
 
-, [[Einzelausstellung]]
+, [[Einzelausstellung]], [[Fahrradmesse]], [[messe]]

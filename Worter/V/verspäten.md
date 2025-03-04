@@ -3,6 +3,8 @@
 ---
 b) Der Zug hatte [[Verspätung]]. Wir mussten lange warten.  
 
+Obwohl sie heute [[pünktlich]] gekommen sind, [[verspäten]] sie sich [[gewöhnlich]]
+
 
 ---
 =[[versäumen]],  [[zu spät kommen]], [[sich verspäten]], [[verzögern]]

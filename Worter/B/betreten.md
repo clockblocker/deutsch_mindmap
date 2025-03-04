@@ -9,6 +9,8 @@ Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen 
 
 Katara du wusstest, dass das [[Betreten]] des Schiffes [[verboten]] ist! Sokka hat leider Recht. Ich halte es auch für das Beste, wenn der Luftbändiger geht.
 
+Wenn der Fahrstuhl endlich angekommen ist, öffnet sich die Tür, acht Menschen [[verlassen]] den Fahrstuhl, [[acht]] andere Menschen [[betreten]] den Fahrstuhl, jeder [[drückt]] eine andere Etage und kurz bevor der Fahrstuhl [[losfährt]], öffnet sich die Tür noch einmal. 
+
 ---
 Synonyme: [[besteigen]], [[betreten]], [[überschreiten]], [[eintreten]], [[hineinschreiten]]
 Antonyme: [[verlassen]], [[aussteigen]], [[herausgehen]]

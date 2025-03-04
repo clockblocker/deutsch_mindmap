@@ -1,1 +1,1 @@
-[[Ruhe]], [[Gesetz]], [[Verfahren]], [[Reihe]], [[Verwaltung]], [[Auflistung]], [[Verwaltungsaufbau]]
+[[Ruhe]], [[Gesetz]], [[Verfahren]], [[Reihe]], [[Verwaltung]], [[Auflistung]], [[Verwaltungsaufbau]], [[Verfügung]]

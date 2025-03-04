@@ -1,1 +1,1 @@
-, [[genießen]], [[Vergnügen]]
+, [[genießen]], [[vergnügen]]

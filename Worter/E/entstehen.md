@@ -1,7 +1,7 @@
 🤔 [[entstehen]], [ɛntˈʃteːən] | [[entstand]], haben [[entstanden]]
 
 ---
-[[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues Gebäude. ^2
+[[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
 
 ---
 = [[auftreten]], [[geschehen]], [[passieren]], [[stattfinden]]

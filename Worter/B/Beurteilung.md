@@ -1,3 +1,3 @@
 , [[Vergleich]], [[Rezension]]
 , [[Selbsteinschätzung]]
-, [[beurteilen]]
+, [[beurteilen]], [[Einschätzung]]

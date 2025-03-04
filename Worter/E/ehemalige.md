@@ -4,10 +4,12 @@ nicht [[aktuell]]
 ---
 Sie wurde gemeinsam von Historikern und [[ehemaligen]] DDR-Bürgern zusammengestellt.
 
-181. Was wollte Willy Brandt mit seinem Kniefall 1970 im [[ehemaligen]] jüdischen Ghetto in Warschau [[ausdrücken]]? (81%)
+1. Das Geschäftsmodell für das Start-up hat Sophia zusammen mit einer [[ehemaligen]] Verkaufsleiterin [[entwickelt]].
+
+2. Was wollte Willy Brandt mit seinem Kniefall 1970 im [[ehemaligen]] jüdischen Ghetto in Warschau [[ausdrücken]]? (81%)
 	- [x] Er bat Polen und die polnischen Juden um [[Vergebung]].
 
-57. Wer wird meistens zum Präsidenten / zur Präsidentin des Deutschen Bundestages gewählt? (70%)
+3. Wer wird meistens zum Präsidenten / zur Präsidentin des Deutschen Bundestages gewählt? (70%)
 	- [x] ein Abgeordneter / eine Abgeordnete der stärksten Fraktion
 	- [ ] ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin
 

@@ -1,1 +1,1 @@
-, [[Schulterzucken]], [[verhalten]], [[Stolpersteine]], [[Bemühung]], [[Erbarmen]], [[Dankbarkeit]], [[Verantwortungsbewusstsein]]
+, [[Schulterzucken]], [[verhalten]], [[Stolpersteine]], [[Bemühung]], [[Erbarmen]], [[Dankbarkeit]], [[Verantwortungsbewusstsein]], [[Neugier]]
