@@ -1,2 +1,2 @@
 , [[Ergebnis]]
-, [[Grund]]
+, [[Grund]], [[Voraussetzung]]

@@ -1,1 +1,1 @@
-, [[drohen]], [[versprechen]]
+, [[drohen]], [[versprechen]], [[versichern]]

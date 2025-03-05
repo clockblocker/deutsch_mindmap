@@ -36,4 +36,4 @@ Dative: der [[Entscheidung]], den [[Entscheidungen]]
 
 
 , [[Auswahl]], [[entschließen]]
-, [[beschließen]], [[Rat]], [[Urteile]], [[Festlegung]], [[1 Präpositionen Übungen]]
+, [[beschließen]], [[Rat]], [[Urteile]], [[Festlegung]], [[1 Präpositionen Übungen]], [[Entscheidungsfreude]]

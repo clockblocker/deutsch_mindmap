@@ -1,1 +1,1 @@
-, [[fach]], [[Fachmann]]
+, [[fach]], [[Fachmann]], [[Fachwissen]]

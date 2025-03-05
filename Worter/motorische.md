@@ -6,7 +6,7 @@
 ---
 = [[bewegungsbezogen]], [[motorisch]], [[kinetisch]]
 ≈ [[beweglich]], [[aktiv]], [[dynamisch]], [[funktionell]]
-≠ [[unbeweglich]], [[passiv]], [[statisch]], [[unfunktionell]]
+≠ [[unbeweglich]], [[Worter/P/passiv]], [[statisch]], [[unfunktionell]]
 
 ---
 motor, motoric

@@ -1,1 +1,1 @@
-, [[drohen]], [[versprechen]], [[garantiert]], [[haften]], [[Garantiebestimmung]]
+, [[drohen]], [[versprechen]], [[garantiert]], [[haften]], [[Garantiebestimmung]], [[versichern]]

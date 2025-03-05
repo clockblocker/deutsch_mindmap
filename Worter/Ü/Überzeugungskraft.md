@@ -1,1 +1,1 @@
-, [[überzeugen]], [[Überzeugungsarbeit]]
+, [[überzeugen]], [[Überzeugungsarbeit]], [[Kommunikationsstärke]], [[Durchsetzungsvermögen]]

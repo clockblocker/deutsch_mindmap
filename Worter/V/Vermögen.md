@@ -27,4 +27,4 @@ Dative: dem [[Vermögen]], den [[Vermögen]]
 
 , [[Geld]], [[erb]]
 , [[zusammenschrumpfen]], [[vermuten]], [[Kraft]], [[können]]
-, [[Durchhaltevermögen]]
+, [[Durchhaltevermögen]], [[Durchsetzungsvermögen]]

@@ -28,3 +28,4 @@ Morpheme: [[streu]][[en]]
 Partizip I: [[streuend]], Partizip II: [[gestreut]]
 
 
+, [[verbreiten]]

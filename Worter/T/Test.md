@@ -1,3 +1,3 @@
 , [[Prüfung]], [[Herausforderung]], [[Produktrezension]]
 , [[Versuch]]
-, [[Schularbeit]]
+, [[Schularbeit]], [[Befragung]], [[Umfrage]]

@@ -1,1 +1,1 @@
-[[verlieren]], [[aufgeben]], [[erzielen]], [[Gewinn]], [[besiegen]], [[siegen]], [[unterliegen]], [[rausholen]], [[w-l]], [[liebgewinnen]]
+[[verlieren]], [[aufgeben]], [[erzielen]], [[Gewinn]], [[besiegen]], [[siegen]], [[unterliegen]], [[rausholen]], [[w-l]], [[liebgewinnen]], [[verspielen]]

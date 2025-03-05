@@ -2,7 +2,7 @@
 die [[Beweise]]
 
 ---
-Die [[Untersuchung]] [[ergibt]] keinen [[Beweis]] für seine [[Schuld]]
+Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
 
 ---
@@ -23,4 +23,4 @@ G: des [[Beweises]], der [[Beweise]]
 D: dem [[Beweis]], den [[Beweisen]]  
 
 ---
-[[beweisen]], [[beweisbar]], [[Beweislast]], [[Beweismittel]], [[beweiskräftig]], [[Anki]], [[Glaskugel]], [[Geschenkbestätigung]]
+[[beweisen]], [[beweisbar]], [[Beweislast]], [[Beweismittel]], [[beweiskräftig]], [[Anki]], [[Glaskugel]], [[Geschenkbestätigung]], [[ergeben]]

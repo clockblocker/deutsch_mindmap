@@ -1,1 +1,1 @@
-, [[öffnen]], [[Zulassungsgrenze]], [[Um­schlag]], [[Freizügigkeit]], [[Festlegung]], [[Eiserner Vorhang]], [[Vorhang]]
+, [[öffnen]], [[Zulassungsgrenze]], [[Um­schlag]], [[Freizügigkeit]], [[Festlegung]], [[Eiserner Vorhang]], [[Vorhang]], [[Lernbereitschaft]]

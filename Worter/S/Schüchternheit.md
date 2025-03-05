@@ -1,1 +1,1 @@
-, [[scheu]], [[schüchtern]]
+, [[scheu]], [[schüchtern]], [[Kommunikationsstärke]]

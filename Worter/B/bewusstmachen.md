@@ -1,1 +1,1 @@
-, [[bewusst]], [[Verantwortungsbewusstsein]]
+, [[bewusst]], [[Verantwortungsbewusstsein]], [[Karrierebewusstsein]]

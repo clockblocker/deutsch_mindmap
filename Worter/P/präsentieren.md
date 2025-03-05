@@ -1,1 +1,1 @@
-, [[wegzaubern]], [[schenken]], [[bieten]], [[ausstellen]], [[darstellen]], [[sehen lassen]], [[vorstellen]], [[anbieten]], [[vertreten]], [[repräsentieren]], [[vermarkten]]
+, [[wegzaubern]], [[schenken]], [[bieten]], [[ausstellen]], [[darstellen]], [[sehen lassen]], [[vorstellen]], [[anbieten]], [[vertreten]], [[repräsentieren]], [[vermarkten]], [[profilieren]], [[vorweisen]]

@@ -3,6 +3,10 @@
 ---
 _Aang nimmt Katara in die Arme und mit einem Sprung sind sie [[außerhalb]] des Schiffes._
 
+[[2 Unter Druck nach oben#^22|(q)]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat. ^22
+
+Unser Haus steht [[außerhalb]] der Stadt
+
 [[2 prap.md#^8|(q)]] [[Außerhalb]] dieses [[Gebiets]], [[außerhalb]] unserer [[Öffnungszeiten]] ^8
 
 [[1#^2|(q)]] Autos und Transporter [[verschmutzen]] nicht mehr die Luft durch [[Abgase]], denn Lastenräder bringen die Waren von [[außerhalb]] der Stadt bis zum Geschäft. ^2

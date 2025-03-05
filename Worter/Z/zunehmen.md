@@ -1,30 +1,49 @@
-🍽️ [[zunehmen]] + Akk, [ˈtsuːnɛmən]
-[[nahm zu|nahm zu]]
-haben [[zugenommen]]
+📈 [[zunehmen]], [ˈtsuːˌneːmən] | [[nahm zu]], haben [[zugenommen]]
 
 ---
 Wer kennt das nicht: Man hat [[zugenommen]] und muss den Gürtel ganz weit machen.
 
----
-Synonyme: [[wachsen]], [[anwachsen]], [[sich vergrößern]], [[sich ausbreiten]], [[sich vermehren]], [[wachsen]]
-Antonyme: [[abnehmen]], [[schrumpfen]], [[sich verkleinern]]
+2.	[[2 Unter Druck nach oben#^23|(q)]] Es gibt keine [[erkennbaren]] Gründe dafür, dass die Bedeutung der Sozialkompetenz in den letzten Jahren [[zunahm]] `-` ^23
 
 ---
-Übersetzung: to gain weight, to increase, to grow
+= [[wachsen]], [[ansteigen]], [[sich erhöhen]]
+≈ [[sich steigern]], [[sich mehren]], [[zunehmen an]], [[gedeihen]]
+≠ [[abnehmen]], [[sinken]], [[verringern]], [[schrumpfen]]
 
 ---
-Morpheme: [[zu]][[nehm]][[en]]
- #Verb  #Trennbar
+to increase, to gain weight
+увеличиваться, прибавлять в весе
 
-| Person    | Präsens       | Präteritum    | Imperativ         | Konjunktiv I   | Konjunktiv II   |
-| --------- | ------------- | ------------- | ----------------- | -------------- | --------------- |
-| Ich       | [[nehme zu]]  | [[nahm zu]]   | -                 | [[nehme zu]]   | [[nähme zu]]    |
-| Du        | [[nimmst zu]] | [[nahmst zu]] | [[nimm zu]]       | [[nehmest zu]] | [[nähmest zu]]  |
-| Er/sie/es | [[nimmt zu]]  | [[nahm zu]]   | -                 | [[nehme zu]]   | [[nähme zu]]    |
-| Wir       | [[nehmen zu]] | [[nahmen zu]] | -                 | [[nehmen zu]]  | [[nähmen zu]]   |
-| Ihr       | [[nehmt zu]]  | [[nahmt zu]]  | [[nehmt zu]]      | [[nehmet zu]]  | [[nähmetet zu]] |
-| Sie       | [[nehmen zu]] | [[nahmen zu]] | [[nehmen Sie zu]] | [[nehmen zu]]  | [[nähmen zu]]   |
-|           |               |               |                   |                |                 |
+---
+[[Zunahme]], [[zunehmen]], [[Zunehmend]]
 
-Partizip I: [[zunehmend]], Partizip II: [[zugenommen]]
-[[zunehmen]] - [[zu]] = [[nehmen]], [[schwinden]]
+---
+[[zu]]|[[nehm]]|[[en]]
+[[zu]] + [[nehmen]]
+
+
+---
+###### [[zunehmen]]
+– Was [[nimmt]] zu?
+– Die Arbeitsbelastung.
+
+– Warum [[nehmen]] die Preise [[zu]]?
+– Wegen der Inflation.
+
+– Wie lange [[hat]] die Spannung [[zugenommen]]?
+– Seit dem Vorfall.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[nehm zu]] / [[nehme zu]], [[nahm zu]], [[nehme zu]], [[nähme zu]], -
+du, [[nimmst zu]], [[nahmst zu]], [[nimm zu]], [[nähmest zu]], [[nehm zu]] / [[nehme zu]]
+er, [[nimmt zu]], [[nahm zu]], [[nehme zu]], [[nähme zu]], -
+wir, [[nehmen zu]], [[nahmen zu]], [[nehmen zu]], [[nähmen zu]], [[nehmen zu]]
+ihr, [[nehmt zu]], [[nahmt zu]], [[nehmt zu]], [[nähmest zu]], [[nehmt zu]]
+sie, [[nehmen zu]], [[nahmen zu]], [[nehmen zu]], [[nähmen zu]], [[nehmen zu]]
+
+*Zu + Inf*: zu [[zunehmen]], *P2*: [[zugenommen]]
+Adjektive: [[zunehmend]], [[zunehmender]], [[zunehmendst]]
+
+---
+[[zunehmender]], [[zunehmendes]], [[zunehmende]], [[zunehmenden]], [[zunehmendem]], [[zunehmenderer]], [[zunehmenderes]], [[zunehmendere]], [[zunehmenderen]], [[zunehmenderem]], [[zunehmendster]], [[zunehmendstes]], [[zunehmendste]], [[zunehmendsten]], [[zunehmendstem]]

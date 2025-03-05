@@ -1,1 +1,1 @@
-, [[Wirtschaftsform]], [[Marktwirtschaft]]
+, [[Wirtschaftsform]], [[Marktwirtschaft]], [[Wettbewerbsgesellschaft]]

@@ -1,1 +1,1 @@
-[[kontrollieren]], [[wild]], [[selbständig]], [[unterworfen]], [[Steuern]]
+[[kontrollieren]], [[wild]], [[selbständig]], [[unterworfen]], [[Steuern]], [[unbändig]]

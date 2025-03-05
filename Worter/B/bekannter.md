@@ -1,1 +1,2 @@
 , [[bekannt]], [[Fremde]]
+, [[Brieffreund]]

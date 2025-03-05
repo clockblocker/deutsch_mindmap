@@ -1,1 +1,1 @@
-, [[Elterngeld]], [[Arbeitslosenversicherung]]
+, [[Elterngeld]], [[Arbeitslosenversicherung]], [[Sozial]]

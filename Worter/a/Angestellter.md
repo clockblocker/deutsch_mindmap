@@ -1,1 +1,1 @@
-, [[Beamte]], [[Diener]], [[anstellen]], [[Behördenleiter]], [[Rentner]], [[Schwarzarbeiter]], [[Arbeitnehmer]]
+, [[Beamte]], [[Diener]], [[anstellen]], [[Behördenleiter]], [[Rentner]], [[Schwarzarbeiter]], [[Arbeitnehmer]], [[Führungskraft]], [[Anwärter]]

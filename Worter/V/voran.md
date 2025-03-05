@@ -1,2 +1,2 @@
 , [[vorwärts]]
-, [[anstoßen]]
+, [[anstoßen]], [[vorrangig]]

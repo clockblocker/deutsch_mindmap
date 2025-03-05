@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=nRBXT1QSbeQ
 
-валентина лепешкина
+
 
 [[1 Payback und Co. - Wer profitiert von Punktesystemen.md#^1|(q)]] "[[Sammeln]] Sie Punkte? Dankeschön. Tja, diese Frage hört man mittlerweile an jeder Supermarktkasse und Millionen [[von]] Deutschen machen jeden Tag mit" ^1
 

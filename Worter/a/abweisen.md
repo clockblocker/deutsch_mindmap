@@ -1,1 +1,1 @@
-[[übergeben]], [[anlachen]], [[einladen]], [[abstoßen]], [[Grüßen]], [[begrüßen]], [[ablehnen]], [[anflehen]], [[hineinlassen]], [[winken]]
+[[übergeben]], [[anlachen]], [[einladen]], [[abstoßen]], [[Grüßen]], [[begrüßen]], [[ablehnen]], [[anflehen]], [[hineinlassen]], [[winken]], [[abschrecken]]

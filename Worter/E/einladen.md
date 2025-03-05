@@ -1,6 +1,4 @@
-[[einladen]] + Akk, [ˈaɪ̯nladen] | die [[Einladung]]
-[[lud ein|lud ein]]  
-haben [[eingeladen]]
+💌 [[einladen]], [ˈaɪ̯nˌlaːdn̩] | [[lud ein]], haben [[eingeladen]]
 
 ---
 Als sie mich zu sich [[eingeladen]] hat, sagte ich ihr, dass ich leider keine Zeit hatte
@@ -12,28 +10,54 @@ Also [[lädt]] Adrian Emilie zum Essen [[ein]]. Es gibt Spaghetti mit leckerer S
 Liegt es wirklich am Essen oder an Adrians braunen Augen? Wer weiß … Auf jeden Fall hat es funktioniert: Emilie und Adrian [[heiraten]] nächstes Wochenende. Und ihr seid herzlich [[eingeladen]].
 
 ---
-Synonyme: [[bitten]], [[auffordern]], [[bestellen]], [[engagieren]], [[rekrutieren]]
-Antonyme: [[abweisen]], [[ausschließen]], [[ignorieren]], [[ablehnen 1]]
+= [[empfangen]], [[bewirten]], [[herzlich willkommen heißen]]
+≈ [[bitten]], [[auffordern]], [[vorschlagen]]
+≠ [[ausladen]], [[ablehnen]], [[verweigern]]
 
 ---
-Übersetzung: to invite
+to invite
+приглашать
 
 ---
-Morpheme: [[ein]][[lad]][[en]]
- #Verb  #Trennbar
- 
+[[Einladung]], [[Einlader]], [[Einladerin]], [[eingeladen]]
+
 ---
+[[ein]]|[[lad]]|[[en]]
+[[ein]] + [[laden]]
 
+---
+###### [[einladen]] jN
+– Wen [[lädst]] du [[ein]]?
+– Meine Freunde.
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[lade ein]] | [[lud ein]] | - | [[lade ein]] | [[lüde ein]] |
-| Du | [[lädst ein]] | [[ludst ein]] | [[lade ein]] | [[ladest ein]] | [[lüdest ein]] |
-| Er/sie/es | [[lädt ein]] | [[lud ein]] | - | [[lade ein]] | [[lüde ein]] |
-| Wir | [[laden ein]] | [[luden ein]] | - | [[laden ein]] | [[lüden ein]] |
-| Ihr | [[ladet ein]] | [[ludet ein]] | [[ladet ein]] | [[lader ein]] | [[lüdet ein]] |
-| Sie | [[laden ein]] | [[luden ein]] | [[laden Sie ein]] | [[laden ein]] | [[lüden ein]] |
+– Wen [[laden]] wir [[ein]]?
+– Unsere Familie.
 
-Partizip I: [[einladend]], Partizip II: [[eingeladen]]
+– Warum [[hat]] er sie [[eingeladen]]?
+– Um sie zu feiern.
 
-[[einladen]] - [[ein]] = [[laden]], [[verscheuchen]], [[ablehnen]], [[einpacken]]
+---
+###### [[einladen]] jN `zu` jD
+– Wen [[lädst]] du `zu` der Party [[ein]]?
+– Meine Kollegen.
+
+– Wen [[laden]] wir `zu` dem Treffen [[ein]]?
+– Die Experten.
+
+– Warum [[hat]] er sie `zu` dem Essen [[eingeladen]]?
+– Um sich zu bedanken.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[lade ein]] / [[lade ein]], [[lud ein]], [[lade ein]], [[lüde ein]], -
+du, [[lädst ein]], [[ludst ein]], [[lade ein]], [[lüdest ein]], [[lüdest ein]]
+er, [[lädt ein]], [[lud ein]], [[lade ein]], [[lüde ein]], -
+wir, [[laden ein]], [[luden ein]], [[laden ein]], [[lüden ein]], [[lüden ein]]
+ihr, [[ladet ein]], [[ludet ein]], [[ladet ein]], [[lüdet ein]], [[lüdet ein]]
+sie, [[laden ein]], [[luden ein]], [[laden ein]], [[lüden ein]], [[lüden ein]]
+
+*Zu + Inf*: [[einzuladen]], *P2*: [[eingeladen]]
+Adjektive: [[einladend]], [[einladender]], [[einladendst]]
+
+---
+[[einladender]], [[einladendes]], [[einladende]], [[einladenden]], [[einladendem]], [[einladenderer]], [[einladenderes]], [[einladendere]], [[einladenderen]], [[einladenderem]], [[einladendster]], [[einladendstes]], [[einladendste]], [[einladendsten]], [[einladendstem]]

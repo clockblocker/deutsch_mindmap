@@ -16,4 +16,4 @@ Translation:
 ---
 
 #Substantiv #Neuter  
-, [[manchmal]], [[Kita]], [[Kindererziehung]]
+, [[manchmal]], [[Kita]], [[Kindererziehung]], [[Nachwuchs]]

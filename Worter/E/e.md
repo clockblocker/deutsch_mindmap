@@ -3,4 +3,4 @@
 , [[Miete]]
 , [[rechter]]
 , [[Durchhaltevermögen]]
-, [[Alle]], [[messe]], [[Strecke]], [[Reise]]
+, [[Alle]], [[messe]], [[Strecke]], [[Reise]], [[Umfrage]], [[Sondierungsgespräche]], [[Geschichte]]

@@ -1,1 +1,1 @@
-, [[hocken]], [[sitzen]], [[einziehen]], [[beziehen]]
+, [[hocken]], [[sitzen]], [[einziehen]], [[beziehen]], [[Niederlassung]]

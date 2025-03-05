@@ -1,1 +1,1 @@
-, [[Auskunft]], [[Erfahrung]], [[Geburtsvorbereitung]], [[Erkenntnis]], [[Erlernung]]
+, [[Auskunft]], [[Erfahrung]], [[Geburtsvorbereitung]], [[Erkenntnis]], [[Erlernung]], [[Fachwissen]]

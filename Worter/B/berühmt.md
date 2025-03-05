@@ -4,6 +4,8 @@ nicht [[unbekannt]]
 ---
 Wenn ich [[berühmt]] bin, ja, dann werde ich auch "süß" sein.  
 
+Er ist [[zwar]] noch jung, [[aber]] schon sehr [[berühmt]].
+
 Er schreibt das Buch, um [[berühmt]] zu werden. Он пишет книгу, чтобы стать знаменитым.
 
 Ich weiß, dass ich [[berühmt]] werde. *Я знаю, что я стану знаменитым.*

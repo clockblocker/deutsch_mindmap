@@ -10,7 +10,7 @@
 ---
 = [[ausführend]], [[durchführend]], [[umsetzend]]
 ≈ [[handelnd]], [[praktizierend]], [[realisierend]]
-≠ [[untätig]], [[passiv]], [[zurückhaltend]]
+≠ [[untätig]], [[Worter/P/passiv]], [[zurückhaltend]]
 
 ---
 executive, implementing

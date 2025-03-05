@@ -24,3 +24,4 @@ D: der [[Anforderung]], den [[Anforderungen]]
 
 ---
 [[anfordern]], [[Anforderer]], [[Anforderin]], [[anfordernd]], [[anforderbar]]
+, [[Bedürfnis]], [[Grundvoraussetzung]]

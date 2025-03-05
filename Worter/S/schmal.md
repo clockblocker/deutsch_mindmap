@@ -1,1 +1,1 @@
-[[speziellen]], [[breit]], [[weit]], [[schmale]], [[speziell]]
+[[speziellen]], [[breit]], [[weit]], [[schmale]], [[speziell]], [[schlank]], [[klein]]

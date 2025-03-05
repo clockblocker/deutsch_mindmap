@@ -1,1 +1,1 @@
-, [[Wettervorhersage]], [[sagen]], [[Märchen]], [[Aussage]]
+, [[Wettervorhersage]], [[sagen]], [[Märchen]], [[Aussage]], [[aussagekräftig]]

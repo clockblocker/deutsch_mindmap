@@ -1,0 +1,1 @@
+🫂 [[sozial]], [zoˈtsi̯aːl], [[Sozial]]

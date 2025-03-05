@@ -1,1 +1,1 @@
-, [[quälen]], [[antun]]
+, [[quälen]], [[antun]], [[plagen]]

@@ -1,2 +1,2 @@
 , [[bezeichnen]], [[Worter/kennzeichnen]], [[kennzeichnen]], [[beschreiben]]
-, [[Char]]
+, [[Char]], [[profilieren]]

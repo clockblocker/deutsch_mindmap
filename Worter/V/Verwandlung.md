@@ -1,1 +1,1 @@
-, [[Verwandte]]
+, [[Verwandte]], [[verwandeln]]

@@ -4,6 +4,9 @@
 *Ich zünde mir ein Hölzchen an,*  
 *wie’s oft die Mutter hat [[getan]].«*  
 
+[[2 Unter Druck nach oben#^5|(q)]] Fest steht nur eins: Sie [[taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
+
+
 Es gibt nichts Gutes ausser man tut es.
 
 Zum Glück [[behielt]] Fred in dieser Situation doch noch einen kühlen Kopf. Er blieb ruhig stehen und [[tat]] einfach nichts. 

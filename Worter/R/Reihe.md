@@ -28,3 +28,4 @@ D: der [[Reihe]], den [[Reihen]]
 [[reihen]], [[reihenweise]], [[hintereinander]], [[aufgereiht]]
 
 [[Reihenfolge]], [[Serie]], [[Zeile]]
+, [[Unmenge]], [[Vielzahl]]

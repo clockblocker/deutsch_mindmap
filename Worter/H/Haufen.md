@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Haufens]], [[Haufen]], [[Haufen]], [[Haufen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[Unmenge]]

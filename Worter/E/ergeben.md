@@ -1,2 +1,2 @@
-[[Treu]], [[frönen]], [[wehren]], [[ergibt]]
-, [[zufriedengeben]]
+[[Treu]], [[frönen]], [[wehren]], [[Worter/ergeben]]
+, [[zufriedengeben]], [[ergeben]]

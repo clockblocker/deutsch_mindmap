@@ -4,6 +4,7 @@
 [[hinweisen]] - [[hin]] = [[weisen]] / to point out, to indicate
 [[überweisen]] - [[über]] = [[weisen]] / to transfer (money)
 [[beweisen]] - [[be]] = [[weisen]] / to prove, to demonstrate, to verify
+[[er]] + [[weisen]] = [[erweisen]] // to prove, to show
 
 [[Weise]]
 
@@ -31,4 +32,4 @@ PI: [[weisend]], PII: [[gewiesen]], Zu+inf: [[zuweisen]]
 [[weisen]] - to point, to indicate, to show
 
 ---
-[[Weisung]], [[Anweisung]], [[hinweisen]], [[zuweisen]], [[verweisen]], [[Wegweiser]], [[beziehungsweise]], [[s1 e1]], [[beweisen]]
+[[Weisung]], [[Anweisung]], [[hinweisen]], [[zuweisen]], [[verweisen]], [[Wegweiser]], [[beziehungsweise]], [[s1 e1]], [[beweisen]], [[vorweisen]], [[erweisen]]

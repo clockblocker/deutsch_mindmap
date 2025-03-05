@@ -1,1 +1,1 @@
-, [[Allgemeine]], [[allgemein]]
+, [[Allgemeine]], [[allgemein]], [[allgemeingültig]]

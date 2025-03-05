@@ -5,6 +5,8 @@ haben [[entschieden]]
 ---
 Er kann sich nicht [[entschieden]], was er essen möchte 
 
+3.	[[2 Unter Druck nach oben#^24|(q)]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine [[entscheidende]] Rolle. ^24
+
 Der Staat [[entscheidet]] [[über]] [[Gesetze]] und [[Steuern]].
 
 Ich habe mich [[für]] dieses Arbeitsangebot [[entschieden]].  
@@ -54,4 +56,4 @@ Morpheme: [[ent]][[scheid]][[en]]
 Partizip I: [[entscheidend]], Partizip II: [[entschieden]]
 [[entscheiden]] - [[ent]] = [[scheiden]]
 , [[umentscheiden]], [[entschließen]], [[Entscheidung]], [[verfügen]]
-, [[aussuchen]]
+, [[aussuchen]], [[Entscheidungsfreude]]

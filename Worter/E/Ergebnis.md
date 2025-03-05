@@ -5,6 +5,8 @@ die [[Ergebnisse]]
 ---
 Die [[Suche]] bleibt ohne [[Ergebnis]].
 
+[[2 Unter Druck nach oben#^3|(q)]] Na ja, [[zumindest]] sind das [[Ergebnisse]] von zwei Studien aus einer [[Unmenge]] von [[Untersuchungen]] zu der alles [[bewegenden]] Frage der [[Wettbewerbsgesellschaft]]: Wer kommt nach oben? ^3
+
 Das bisher höchste [[Ergebnis]] erzielte ein Gemälde von Claude Monet mit einem Preis von 36,5 Millionen Pfund
 
 Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]
@@ -27,4 +29,4 @@ Einzigartige mögliche Formen: [[Ergebnisses]], [[Ergebnis]], [[Ergebnisse]], [[
 ---
 #Substantiv #Neutrum
 
-, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]], [[Zwischenergebnis]], [[ergibt]], [[Anki]], [[Anlass]], [[1 Präpositionen Übungen]]
+, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]], [[Zwischenergebnis]], [[Worter/ergeben]], [[Anki]], [[Anlass]], [[1 Präpositionen Übungen]], [[Voraussetzung]], [[ergeben]], [[Ergebnisorientierung]]

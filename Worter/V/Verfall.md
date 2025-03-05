@@ -1,1 +1,1 @@
-, [[vergilben]], [[Sanierung]]
+, [[vergilben]], [[Sanierung]], [[Niedergang]]

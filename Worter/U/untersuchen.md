@@ -5,7 +5,7 @@ Mein Gott! Wie schwach bin ich! Ich soll unbedingt zum Arzt. Er [[untersucht]] m
 
 3. Der Arzt [[untersucht]] mich (ich).  
 
-Die [[Untersuchung]] [[ergibt]] keinen [[Beweis]] für seine [[Schuld]]
+Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
 Wissenschaftlerinnen [[untersuchen]] das [[Verhalten]] von Hunden.
 
@@ -38,4 +38,4 @@ PI: [[untersuchend]], PII: [[untersucht]], Zu+inf: [[zu untersuchend]]
 
 [[kontrollieren]], [[behandeln]], [[recherchieren]], [[checken]], [[durchchecken]], [[beobachten]], [[absuchen]], [[ermitteln]], [[studieren]], [[durchsuchen]], [[mustern]], 
 , [[betrachten]], [[ausprobieren]]
-, [[zichten]]
+, [[zichten]], [[forschen]]

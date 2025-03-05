@@ -1,2 +1,2 @@
 , [[standhaft]]
-, [[reumütig]]
+, [[reumütig]], [[weich]]

@@ -1,1 +1,1 @@
-, [[geben]], [[ergibt]]
+, [[geben]], [[Worter/ergeben]]

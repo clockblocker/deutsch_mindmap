@@ -1,1 +1,1 @@
-, [[zugeworfen]], [[vorstellen]], [[eindringen]], [[abgeben]], [[überlassen]], [[hineinlassen]], [[stiften]], [[veröffentlichen]], [[hinschicken]], [[vermarkten]]
+, [[zugeworfen]], [[vorstellen]], [[eindringen]], [[abgeben]], [[überlassen]], [[hineinlassen]], [[stiften]], [[veröffentlichen]], [[hinschicken]], [[vermarkten]], [[verbreiten]]

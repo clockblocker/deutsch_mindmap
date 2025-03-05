@@ -1,1 +1,1 @@
-, [[folgen]], [[einhalten]], [[erben]]
+, [[folgen]], [[einhalten]], [[erben]], [[Nachwuchs]]

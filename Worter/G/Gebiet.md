@@ -38,4 +38,4 @@ D: dem [[Gebiet]], den [[Gebieten]]
 [[gebieten]], [[gebieterisch]], [[Gebietsreform]], [[Gebietsabtretung]], [[Gebietskörperschaft]]
 
 , [[Landschaft]], [[Bereich]], [[Branche]], [[fach]]
-, [[Sektor]], [[Auflistung]], [[enthalten]], [[Geburtsort]], [[1 Präpositionen Übungen]]
+, [[Sektor]], [[Auflistung]], [[enthalten]], [[Geburtsort]], [[1 Präpositionen Übungen]], [[Hauptbereich]]

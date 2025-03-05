@@ -5,4 +5,4 @@
 , [[zappelig]]
 , [[aufsässig]]
 , [[einig]]
-, [[beabsichtigen]], [[einmalig]], [[vernünftig]]
+, [[beabsichtigen]], [[einmalig]], [[vernünftig]], [[dunkelhaarig]], [[ruppig]], [[vorrangig]]

@@ -1,1 +1,1 @@
-, [[Mehrheit]]
+, [[Mehrheit]], [[Vielzahl]]

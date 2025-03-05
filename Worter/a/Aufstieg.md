@@ -1,1 +1,1 @@
-, [[Fortschritt]], [[Karriere]]
+, [[Fortschritt]], [[Karriere]], [[Aufsteiger]], [[Niedergang]]

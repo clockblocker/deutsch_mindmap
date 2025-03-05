@@ -1,30 +1,49 @@
-😳 [[gestehen]], [gəˈʃteːən] | [[gestand]], haben [[gestanden]]
+🗣️ [[gestehen]], [ɡəˈʃteːən] | [[gestand]], haben [[gestanden]]
 
 ---
 _[[Aufgebracht]]_ Aha! Der [[Verräter]] [[gesteht]] sogar. Krieger, sofort weg vom [[Feind]]! Der [[Fremde]] wird aus unserem Dorf [[verbannt]].
 
 ---
-= [[bekennen]], [[zugeben]], [[eingestehen]]
-≈ [[offenbaren]], [[verraten]], [[enthüllen]]
-≠ [[Worter/V/verheimlichen]], [[verbergen]], [[leugnen]]
+= [[zugeben]], [[bekennen]], [[einräumen]]
+≈ [[offenbaren]], [[aussprechen]], [[erklären]]
+≠ [[leugnen]], [[verheimlichen]], [[verschweigen]]
 
 ---
 to confess, to admit
+признаваться, сознаваться
 
 ---
-[[ge]]|[[steh]]|[[en]]
+[[Geständnis]], [[Geständnisse]], [[geständig]]
 
 ---
-ich: [[gestehe]], [[gestand]], –, [[gestehe]], [[gestände]]
-du: [[gestehst]], [[gestandest]], [[gestehe]] | [[gesteh]], [[gestehest]], [[geständest]]
-er/sie/es: [[gesteht]], [[gestand]], –, [[gestehe]], [[gestände]]
-wir: [[gestehen]], [[gestanden]], [[gestehen wir|gestehen]], [[gestehen]], [[gestanden]]
-ihr: [[gesteht]], [[gestandet]], [[gesteht]], [[gestehet]], [[gestandet]]
-
-PI: [[gestehend]], PII: [[gestanden]], Zu+inf: [[zugestehen]]
+[[gesteh]]|[[en]]
+[[gestehen]]
 
 ---
-[[gestehen]] - [[ge]] = [[stehen]] / to confess, to admit
+###### [[gestehen]] jN
+– Was [[gesteht]] er?
+– Seine Schuld.
+
+– Was [[gestehen]] wir?
+– Unsere Fehler.
+
+– Warum [[hat]] sie ihre Liebe [[gestanden]]?
+– Weil sie es nicht länger verbergen konnte.
 
 ---
-[[Geständnis]], [[Geständigkeit]], [[gestehend]], [[aufrichtig]], [[verzeihen]], [[beichten]]
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[gestehe]], [[gestand]], [[gestehe]], [[gestehe]], -
+du, [[gestehst]], [[gestandst]], [[gestehest]], [[gestehest]], [[gestünde]]
+er, [[gesteht]], [[gestand]], [[gestehe]], [[gestehe]], -
+wir, [[gestehen]], [[gestanden]], [[gestehen]], [[gestehen]], [[gestünden]]
+ihr, [[gesteht]], [[gestandet]], [[gestehet]], [[gestehet]], [[gestündet]]
+sie, [[gestehen]], [[gestanden]], [[gestehen]], [[gestehen]], [[gestünden]]
+
+*Zu + Inf*: zu [[gestehen]], *P2*: [[gestanden]]
+Adjektive: [[gestehend]], [[gestehender]], [[gestehendst]]
+
+---
+[[gestehender]], [[gestehendes]], [[gestehende]], [[gestehenden]], [[gestehendem]], [[gestehenderer]], [[gestehenderes]], [[gestehendere]], [[gestehenderen]], [[gestehenderem]], [[gestehendster]], [[gestehendstes]], [[gestehendste]], [[gestehendsten]], [[gestehendstem]]
+
+
+[[stehen]]

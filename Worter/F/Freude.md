@@ -23,4 +23,4 @@ Morphems:
 [[Freud]][[e]]
 
 ---
-#Substantiv #Feminin, [[Herzeleid]], [[Freudiges]], [[erfreuen]]
+#Substantiv #Feminin, [[Herzeleid]], [[Freudiges]], [[erfreuen]], [[Entscheidungsfreude]]

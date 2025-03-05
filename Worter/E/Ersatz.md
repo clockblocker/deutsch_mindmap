@@ -1,1 +1,1 @@
-, [[Stellvertreter]], [[Ausgleich]], [[ersetzen]]
+, [[Stellvertreter]], [[Ausgleich]], [[ersetzen]], [[Nachwuchs]]

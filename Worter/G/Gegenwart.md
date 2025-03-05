@@ -1,1 +1,1 @@
-, [[heutig]], [[jetzig]], [[Vergangenheit]]
+, [[heutig]], [[jetzig]], [[Vergangenheit]], [[Geschichte]]

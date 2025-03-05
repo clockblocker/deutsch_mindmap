@@ -10,8 +10,11 @@ SASCHA: Ja, hallo?… Kurt Knall?… ob ich seine was bin?
 Seine Agentin? Nein, tut mir Leid … [[den]] gibt es hier nicht ...  -
 SASCHA: ‚Kurt Knall“ - so ein [[doof]]erName!  -
 ANNA: Wer würde sich so nennen!  
-	SASCHA: Ha! Alle Männer sind wie kleine Jungs - spielen immer nur dumme [[Spielchen]] …  -
+	SASCHA: Ha! Alle Männer sind wie [[kleine]] Jungs - spielen immer nur dumme [[Spielchen]] …  -
 COP1/NIC: Razzia!  
+
+
+
 COP 2/SAM: FBI! Keine [[Bewegung]] -
 … Beine hoch … Hände hoch … Hände hoch, nicht Beine hoch …!  
 COP 2: Ach ja, genau, Hände hoch  
@@ -30,7 +33,9 @@ SASCHA: Das ist nicht mein Problem - du solltest deine Rechnungen bez
 SAM: He, Entschuldigung, Sascha …  
 SASCHA: Und Sam - du wohnst jetzt bei Nic … also [[klopfen|klopf]]' bitte an … Und jetzt … will ich allein sein!  
 NIC: Autsch … was ist denn mit der los?  
-ANNA: Nic - welcher Tag ist heute?  
+
+ANNA: Nic - [[welcher]] Tag ist [[heute]]?  
+
 NIC: Mittwoch …  
 ANNA: Und wieviel Uhr ist es?  
 SAM: Ah! Ich weiß es … es ist halb sieben …  

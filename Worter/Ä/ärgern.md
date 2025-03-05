@@ -31,4 +31,4 @@ PI: [[ärgernd]], PII: [[geärgert]], Zu+inf: [[zu ärgern]]
 
 ---
 [[Ärger]], [[ärgerlich]], [[geärgert]]
-, [[vergnügen]]
+, [[vergnügen]], [[plagen]]

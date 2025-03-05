@@ -1,1 +1,1 @@
-, [[armer]], [[armen]], [[Reiche]]
+, [[armer]], [[armen]], [[Reiche]], [[Bedürfnis]]

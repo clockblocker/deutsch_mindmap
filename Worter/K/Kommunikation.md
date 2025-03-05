@@ -1,1 +1,1 @@
-, [[Unterhaltung]], [[Verbindung]]
+, [[Unterhaltung]], [[Verbindung]], [[Kommunikationsstärke]]

@@ -1,10 +1,5 @@
 🎁 [[bekommen]], [bəˈkɔmən] | [[bekam]], haben [[bekommen]]
 
- [[verloren]],[[verlieren]], [[nehm]], [[verdienen]], [[geben]], [[abbekommen]]
-
-, [[erhalten]], [[erben]], [[versenden]]
-, [[zusammenbekommen]]
-
 ---
 - Aber dann [[bekommt]] Sascha Post aus Amerika ...
 - Ja – das Kissen hab’ ich auch [[bekommen]].  
@@ -41,3 +36,8 @@ PI: [[bekommend]], PII: [[bekommen]], Zu+inf: [[zu bekommen]]
 ---
 [[Bekannte]], [[Bekanntschaft]], [[kommen]], [[bekömmlich]], [[bekömmlichkeit]]
 , [[mitbekommt]]
+
+ [[verloren]],[[verlieren]], [[nehm]], [[verdienen]], [[geben]], [[abbekommen]]
+
+, [[erhalten]], [[erben]], [[versenden]]
+, [[zusammenbekommen]]

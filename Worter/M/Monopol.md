@@ -1,2 +1,2 @@
 
-, [[Konkurrenz]]
+, [[Konkurrenz]], [[Wettbewerbsgesellschaft]]

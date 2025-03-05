@@ -1,1 +1,1 @@
-, [[kostengünstig]]
+, [[kostengünstig]], [[schlicht]]

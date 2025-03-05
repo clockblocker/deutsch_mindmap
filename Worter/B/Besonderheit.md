@@ -1,1 +1,1 @@
-, [[besonders]], [[Merkmal]]
+, [[besonders]], [[Merkmal]], [[Eigenschaft]]

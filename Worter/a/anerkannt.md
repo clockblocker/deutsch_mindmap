@@ -1,1 +1,1 @@
-, [[bekannt]], [[geehrt]], [[offiziell]]
+, [[bekannt]], [[geehrt]], [[offiziell]], [[allgemeingültig]]

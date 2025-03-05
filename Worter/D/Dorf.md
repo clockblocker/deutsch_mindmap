@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Dorfes]], [[Dorfe]], [[Dörfer]], [[Dörfern]]
 
 ---
-#Substantiv #Neutral, [[Dorfbewohner]], [[s1 e1]]
+#Substantiv #Neutral, [[Dorfbewohner]], [[s1 e1]], [[Beiersdorf]]

@@ -1,1 +1,1 @@
-[[erzählen]], [[ausdrücken]], [[anregen]], [[befreien]], [[äußern]], [[benachteiligen]], [[unter]], [[aussprechen]], [[veröffentlichen]], [[besprechen]], [[anspielen]]
+[[erzählen]], [[ausdrücken]], [[anregen]], [[befreien]], [[äußern]], [[benachteiligen]], [[unter]], [[aussprechen]], [[veröffentlichen]], [[besprechen]], [[anspielen]], [[verbreiten]]

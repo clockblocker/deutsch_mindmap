@@ -4,6 +4,8 @@ nicht [[undeutlich]]
 ---
 Ich kann dich nicht verstehen, bitte sprich [[deutlich]].
 
+[[2 Unter Druck nach oben#^4|(q)]] Bei der Analyse des Aufstiegs einiger deutscher Topmanager wird [[deutlich]], dass der Weg nach oben sehr [[unterschiedlich]] aussehen kann. ^4
+
 
 235. Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem [[Treffen]] [[deutlich]]? (86%)
 	- [x] [[Frieden]] und [[Sicherheit]] in den Ländern der EU

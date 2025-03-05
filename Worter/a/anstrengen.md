@@ -3,6 +3,8 @@
 ---
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
+
+
 ---
 Synonyme: [[bemühen]], [[verausgaben]], [[herausfordern]], [[belasten]], [[plagen]], [[mühen]]
 Antonyme: [[entspannen]], [[erholen]], [[verschnaufen]], [[ruhen]]
@@ -29,4 +31,4 @@ Zu+infinifive: [[anzustrengen]]
 [[anstrengen]] - [[an]] = [[strengen]]
 
 ---
-[[Anstrengung]], [[anstrengend]], [[Anstrengungsfaktor]], [[angestrengt]], [[durchatmen]]
+[[Anstrengung]], [[anstrengend]], [[Anstrengungsfaktor]], [[angestrengt]], [[durchatmen]], [[bemüht]]

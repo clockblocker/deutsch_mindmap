@@ -25,4 +25,4 @@ Einzigartige mögliche Formen:
 [[wild]], [[wilder]], [[wilde]], [[wildes]], [[wilden]], [[wildem]], [[wilder]], [[wilden]]
 [[wildere]], [[wilderer]], [[wildere]], [[wilderes]], [[wilderen]], [[wilderem]], [[wilderer]], [[wilderen]]
 [[wildesten]], [[wildester]], [[wildeste]], [[wildestes]], [[wildesten]], [[wildestem]], [[wildester]], [[wildesten]]
-, [[7 Die Geschichte vom Zappel-Philipp]], [[Wildbahn]]
+, [[7 Die Geschichte vom Zappel-Philipp]], [[Wildbahn]], [[unbändig]]

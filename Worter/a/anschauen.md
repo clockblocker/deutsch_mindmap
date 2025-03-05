@@ -37,4 +37,4 @@ PI: [[anschauend]], PII: [[angeschaut]], Zu+inf: [[anzuschauen]]
 [[anschauen]] - [[an]] = [[schauen]] / to look at, to view, to examine
 
 ---
-[[Anschauung]], [[Anschein]], [[Anschauen]], [[Beschaulichkeit]], [[beschauen]], [[ausleuchten]]
+[[Anschauung]], [[Anschein]], [[Anschauen]], [[Beschaulichkeit]], [[beschauen]], [[ausleuchten]], [[zugucken]]

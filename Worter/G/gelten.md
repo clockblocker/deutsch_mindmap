@@ -38,4 +38,4 @@ PI: [[geltend]], PII: [[gegolten]], Zu+inf: [[zu gelten]]
 [[gelten]] - [[gel]] = [[ten]] / to apply, to be valid, to be considered
 
 ---
-[[Geltung]], [[geltend]], [[Geltungsbereich]], [[Geltungsdrang]], [[geltungssüchtig]], [[Geltungssucht]], [[gültig]]
+[[Geltung]], [[geltend]], [[Geltungsbereich]], [[Geltungsdrang]], [[geltungssüchtig]], [[Geltungssucht]], [[gültig]], [[allgemeingültig]]

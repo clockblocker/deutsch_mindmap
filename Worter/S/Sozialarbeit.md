@@ -1,1 +1,1 @@
-, [[Sozialstunde]]
+, [[Sozialstunde]], [[Sozial]]

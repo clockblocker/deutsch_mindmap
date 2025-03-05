@@ -23,4 +23,4 @@ G: des [[Bildschirms]], der [[Bildschirme]]
 D: dem [[Bildschirm]], den [[Bildschirmen]] 
 
 ---
-[[bilden]], [[schirmen]], [[bildschirmfreundlich]], [[Bildschirmarbeit]], [[Bildschirmgerät]], [[Anki]]
+[[bilden]], [[schirmen]], [[bildschirmfreundlich]], [[Bildschirmarbeit]], [[Bildschirmgerät]], [[Anki]], [[Großleinwand]]

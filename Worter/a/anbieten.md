@@ -3,6 +3,8 @@
 ---
 Die Firma [[anbieten|bietet]] mir einen Job [[an]].
 
+[[2 Unter Druck nach oben#^6|(q)]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
+
 Was konnte ich ihm [[sonst]] [[anbieten]]? Ich ging in den Keller und fand in einem alten Koffer den hellgrauen Mantel meines Vetters.  [[17 zu inf#^14|(q)]]
 
 Zum Glück haben Julia, Robin und Dennis [[angeboten]], ihr zu helfen. Sie stehen zu viert vor dem Schrank, Katie liest die [[Anleitung]]. 

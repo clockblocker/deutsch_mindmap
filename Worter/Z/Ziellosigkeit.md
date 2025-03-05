@@ -1,1 +1,1 @@
-, [[Richtung]], [[Absicht]]
+, [[Richtung]], [[Absicht]], [[Ergebnisorientierung]]

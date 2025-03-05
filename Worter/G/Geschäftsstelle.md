@@ -1,1 +1,1 @@
-, [[Agentur]], [[Büro]]
+, [[Agentur]], [[Büro]], [[Niederlassung]]

@@ -1,1 +1,1 @@
-, [[gierig]], [[ehrenamtlich]]
+, [[gierig]], [[ehrenamtlich]], [[geldgierig]]

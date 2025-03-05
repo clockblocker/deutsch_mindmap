@@ -41,4 +41,4 @@ Morpheme: [[änder]][[n]]
 
 Partizip I: [[ändernd]], Partizip II: [[geändert]]
 
-, [[werden]], [[wechseln]], [[umentscheiden]], [[beibehalten]]
+, [[werden]], [[wechseln]], [[umentscheiden]], [[beibehalten]], [[verwandeln]]

@@ -5,7 +5,7 @@
 
 ---
 = [[akzeptieren]], [[sich begnügen]], [[sich abfinden]]
-≈ [[einwilligen]], [[zustimmen]], [[dulden]], [[ergeben]]
+≈ [[einwilligen]], [[zustimmen]], [[dulden]], [[Worter/E/ergeben]]
 ≠ [[verweigern]], [[ablehnen]], [[protestieren]], [[kämpfen]]
 
 ---

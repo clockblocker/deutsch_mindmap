@@ -26,4 +26,4 @@ Einzigartige mögliche Formen: [[Berichts]], [[Berichte]], [[Berichten]]
 
 ---
 #Substantiv #Maskulin, [[Abschlussbericht]], [[Angabe]], [[berichten]], [[Tagebuch]], [[Artikel]], [[Erzählung]]
-, [[Inserat]]
+, [[Inserat]], [[Geschichte]]

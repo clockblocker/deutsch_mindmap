@@ -1,3 +1,3 @@
 , [[Schwäche]], [[Versorgung]], [[Armut]], [[knapp]], [[Ausrüstung]], [[Mengenangabe]], [[Talent]]
 , [[mangeln]]
-, [[Mehrheit]]
+, [[Mehrheit]], [[Bedürfnis]], [[Unmenge]], [[Vielzahl]], [[Eigenschaft]]

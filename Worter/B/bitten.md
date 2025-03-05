@@ -3,6 +3,8 @@
 ---
 Simon muss also damit [[rechnen]], dass Jannis seine [[Bitte]] [[ablehnen]] wird. Deshalb greift er zu einem kleinen Trick: Er [[schmiert]] seinem Chef [[Jemandem Honig um den Bart schmieren|Honig um den]] [[Bart]].
 
+1. Er sah mich [[bittend]] an.
+
 [[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. [[14 perfekt#^14|(q)]]
 
 ---
@@ -33,4 +35,4 @@ Zu+infinifive: [[zubitten]]
 
 ---
 [[Bitte]], [[Bittsteller]], [[Bittschrift]], [[Bittgang]], [[Bittstellerin]], [[Bittgebet]]
-🙏 [[bitten]], [[auffordern]], [[verfügen]]
+🙏 [[bitten]], [[auffordern]], [[verfügen]], [[einladen]]

@@ -1,1 +1,1 @@
-, [[verlinkungen]]
+, [[verlinkungen]], [[vernetzt]]

@@ -1,1 +1,1 @@
-, [[schmale]]
+, [[schmale]], [[schlank]], [[klein]]

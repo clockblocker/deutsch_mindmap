@@ -1,1 +1,1 @@
-, [[führen]], [[Ausführlich]], [[ausführen]], [[einführen]], [[Einführung]], [[Aufführung]]
+, [[führen]], [[Ausführlich]], [[ausführen]], [[einführen]], [[Einführung]], [[Aufführung]], [[Führungskraft]]

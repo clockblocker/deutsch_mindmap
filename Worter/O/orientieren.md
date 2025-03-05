@@ -1,1 +1,1 @@
-, [[umsehen]], [[richten]]
+, [[umsehen]], [[richten]], [[Ergebnisorientierung]]

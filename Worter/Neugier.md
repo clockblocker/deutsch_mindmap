@@ -28,3 +28,4 @@ D: der [[Neugier]], den [[Neugieren]]
 
 ---
 -
+, [[Lernbereitschaft]]

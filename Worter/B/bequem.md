@@ -30,4 +30,4 @@ P: [[bequemen]], [[bequemeren]], [[bequemsten]]
 
 [[bequem]], [[geeignet]]
 , [[schwer]]
-, [[gelegen]]
+, [[gelegen]], [[unternehmerisch]]

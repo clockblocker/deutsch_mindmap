@@ -23,4 +23,4 @@ G: der [[Vernichtung]], der [[Vernichtungen]]
 D: der [[Vernichtung]], den [[Vernichtungen]]  
 
 ---
-[[vernichten]], [[vernichtend]], [[unvernichtbar]], [[Vernichter]], [[Vernichtungslager]]
+[[vernichten]], [[vernichtend]], [[unvernichtbar]], [[Vernichter]], [[Vernichtungslager]], [[Erhalt]]

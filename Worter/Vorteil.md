@@ -25,4 +25,4 @@ Genitive: des [[Vorteils]], der [[Vorteile]]
 Dative: dem [[Vorteil]], den [[Vorteilen]] 
 
 [[vorteilhaft]], [[vorteilen]]
-, [[Gelegenheit]]
+, [[Gelegenheit]], [[Erfolgsfaktor]]

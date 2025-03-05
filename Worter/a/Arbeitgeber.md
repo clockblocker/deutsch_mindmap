@@ -1,1 +1,1 @@
-, [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Arbeitnehmer]], [[Betriebsrat]], [[Angestellte]]
+, [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Arbeitnehmer]], [[Betriebsrat]], [[Angestellte]], [[Bewerber]]

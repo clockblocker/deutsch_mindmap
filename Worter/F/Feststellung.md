@@ -1,1 +1,1 @@
-, [[Auszählung]], [[Behauptung]], [[Festlegung]], [[Aussage]]
+, [[Auszählung]], [[Behauptung]], [[Festlegung]], [[Aussage]], [[Befragung]], [[Umfrage]]

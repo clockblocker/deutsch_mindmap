@@ -9,4 +9,4 @@
 , [[aufwachen]]
 , [[aufmachen]]
 , [[auffangen]]
-, [[aufpassen]], [[auflegen]]
+, [[aufpassen]], [[auflegen]], [[Aufhebung]], [[Aufsteiger]]

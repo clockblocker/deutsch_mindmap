@@ -1,1 +1,1 @@
-[[ganz]], [[halbes]], [[gesamt]], [[insgesamt]]
+[[ganz]], [[halbes]], [[gesamt]], [[insgesamt]], [[allgemeingültig]]

@@ -1,1 +1,1 @@
-, [[Verhandlung]]
+, [[Verhandlung]], [[Sondierungsgespräche]]

@@ -1,2 +1,2 @@
 , [[öffentlich]], [[erreichbar]]
-, [[verfügbar]]
+, [[verfügbar]], [[zugucken]]

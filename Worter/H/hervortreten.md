@@ -1,2 +1,2 @@
 , [[untertauchen]], [[erscheinen]], [[auftreten]], [[entstehen]]
-, [[verschwinden]]
+, [[verschwinden]], [[profilieren]]

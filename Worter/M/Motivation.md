@@ -1,1 +1,1 @@
-, [[Trieb]], [[Willenskraft]]
+, [[Trieb]], [[Willenskraft]], [[Lernbereitschaft]]

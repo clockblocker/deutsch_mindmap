@@ -30,4 +30,4 @@ Morpheme: [[jaul]][[en]]
 
 Partizip I: [[jaulend]], Partizip II: [[gejault]]
 
-, [[s1 e1]]
+, [[s1 e1]], [[bellen]]

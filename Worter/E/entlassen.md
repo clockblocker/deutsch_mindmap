@@ -1,1 +1,1 @@
-[[freimachen]], [[auflösen]], [[fangen]], [[ausbilden]], [[feuern]], [[beschäftigen]], [[schäftigen]], [[anstellen]], [[Entlassung]], [[verhaften]], [[ernennen]], [[festnehmen]], [[wegschicken]]
+[[freimachen]], [[auflösen]], [[fangen]], [[ausbilden]], [[feuern]], [[beschäftigen]], [[schäftigen]], [[anstellen]], [[Entlassung]], [[verhaften]], [[ernennen]], [[festnehmen]], [[wegschicken]], [[anwerben]]

@@ -1,0 +1,1 @@
+😌 [[schlicht]] | 🟢 das [[Schlichte]] 😌

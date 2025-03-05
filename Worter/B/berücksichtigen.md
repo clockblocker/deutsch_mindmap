@@ -1,7 +1,9 @@
 🤔 [[berücksichtigen]], [bəˈʁʏksɪçtɪgən] | [[berücksichtigte]], haben [[berücksichtigt]]
 
 ---
-171. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
+Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
+
+1. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
 	- [ ] [[steuert]] sich allein nach [[Angebot]] und [[Nachfrage]].
 	- [ ] wird vom Staat geplant und [[gesteuert]], Angebot und Nachfrage werden nicht [[berücksichtigt]].
 ---
@@ -28,4 +30,4 @@ PI: [[berücksichtigend]], PII: [[berücksichtigt]], Zu+inf: [[zu berücksichtig
 [[berücksichtigen]] - [[be]] = [[Rücksicht]] / to consider, to take into account
 
 ---
-[[Berücksichtigung]], [[rücksichtsvoll]], [[Rücksicht]], [[sichtig]], [[beachten]]
+[[Berücksichtigung]], [[rücksichtsvoll]], [[Rücksicht]], [[sichtig]], [[beachten]], [[einzigartig]]

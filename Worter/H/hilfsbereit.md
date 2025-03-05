@@ -1,1 +1,1 @@
-, [[Hilfsverb]]
+, [[Hilfsverb]], [[Sozial]]

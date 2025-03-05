@@ -25,3 +25,4 @@ D: dem [[Büro]], den [[Büros]]
 [[Büroarbeit]], [[Büroangestellter]], [[bürotauglich]], [[Bürokraft]]
 
 , [[Plenarsaal]], [[Behörde]], [[Arbeitsplatz]], [[Agentur]], [[Amt]]
+, [[Niederlassung]]

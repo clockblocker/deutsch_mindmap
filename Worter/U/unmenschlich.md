@@ -1,2 +1,2 @@
 , [[menschlich]]
-, [[Mensch]]
+, [[Mensch]], [[Sozial]]

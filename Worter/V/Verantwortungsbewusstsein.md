@@ -27,4 +27,4 @@ D: dem [[Verantwortungsbewusstsein]]
 ---
 [[verantwortlich]], [[bewusst]], [[Verantwortung]], [[bewusstmachen]], [[bewusstlos]]
 
-Verantwortungsbewusst[[sein]]
+Verantwortungsbewusst[[sein]], [[Anstand]]

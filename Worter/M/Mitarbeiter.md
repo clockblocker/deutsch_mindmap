@@ -1,1 +1,1 @@
-, [[Geselle]], [[Behördenleiter]], [[Arbeitnehmer]], [[Oberhaupt]], [[Angestellte]], [[Mitarbeiterin]], [[Mitbewerber]]
+, [[Geselle]], [[Behördenleiter]], [[Arbeitnehmer]], [[Oberhaupt]], [[Angestellte]], [[Mitarbeiterin]], [[Mitbewerber]], [[Führungskraft]], [[Anwärter]]

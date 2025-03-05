@@ -1,2 +1,2 @@
 , [[kennen]], [[Merkmal]], [[Worter/kennzeichnen]], [[kennzeichnen]]
-, [[Char]]
+, [[Char]], [[Eigenschaft]]

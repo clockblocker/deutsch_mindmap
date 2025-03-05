@@ -1,0 +1,1 @@
+🤔 [[entscheiden]] | 🤔 [[entscheidend]]

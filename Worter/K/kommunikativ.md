@@ -1,1 +1,1 @@
-, [[stumm]]
+, [[stumm]], [[Kommunikationsstärke]], [[vernetzt]]

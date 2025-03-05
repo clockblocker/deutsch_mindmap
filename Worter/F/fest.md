@@ -13,6 +13,9 @@ Also bedeutet “weihnachten” wörtlich “heilige nächte”, weil das [[fest
 *Sie müssen sich an Sterne [[krallen]], (ganz [[fest]])*  
 *damit sie nicht vom Himmel fallen.*
 
+1. Die Gäste sitzen an dem [[festlich]] [[gedeckten]] Tisch.
+
+
 Aber ich glaube [[fest]] daran, Aang kann diese Welt retten.
 
 [[festziehen]],

@@ -8,6 +8,8 @@ die [[Erziehungen]]
 	- [ ] der Großeltern.
 	- [ ] der Schulen.
 
+3.	[[2 Unter Druck nach oben#^24|(q)]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine entscheidende Rolle. ^24
+
 
 ---
 = [[Bildung]], [[Aufzucht]], [[Ausbildung]]

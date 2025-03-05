@@ -1,7 +1,10 @@
 🧐 [[betrachten]], [bəˈtʁaxtən] | [[betrachtete]], haben [[betrachtet]]
 
 ---
-Ich [[betrachte]] diese [[Aussage]] als nicht relevant.
+Ich [[betrachte]] diese [[Aussage]] als nicht relevant
+
+[[2 Unter Druck nach oben#^19|(q)]] Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]. ^19
+
 
 ---
 = [[beobachten]], [[begutachten]], [[untersuchen]]
@@ -31,3 +34,4 @@ PI: [[betrachtend]], PII: [[betrachtet]], Zu+inf: [[zu betrachten]]
 
 
 [[ansehen]], [[lesen]], [[sehen]], [[gucken]], [[angucken]], [[schauen]], [[mustern]], [[anschauen]], [[anblicken]], [[berücksichtigen]]
+, [[zugucken]]

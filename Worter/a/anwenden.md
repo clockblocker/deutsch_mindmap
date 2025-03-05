@@ -3,6 +3,9 @@
 ---
 Und ich habe sie [[angefleht]], ein bisschen Magie auf mich [[anzuwenden]], damit ich auch [[hübsch]] wäre, selbst wenn ich nicht zaubern konnte, so könnte ich wenigstens hübsch sein.“
 
+
+[[1 Wer bin ich und was mache ich hier?#^2|(q)]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]. ^2
+
 ---
 = [[benutzen]], [[verwenden]], [[einsetzen]],  [[nutzen]]
 ≈ [[nutzen]], [[praktizieren]], [[umsetzen]], [[gebrauchen]]

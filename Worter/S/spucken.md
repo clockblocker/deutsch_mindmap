@@ -28,4 +28,4 @@ Partizip II: [[gespuckt]]
 Zu+infinifive: [[zuspucken]]
 
 ---
-[[Spucke]], [[spucken]], [[Spucknapf]], [[Spuckschutz]], [[Speichel]]
+[[Spucke]], [[spucken]], [[Spucknapf]], [[Spuckschutz]], [[Speichel]], [[beißen]]

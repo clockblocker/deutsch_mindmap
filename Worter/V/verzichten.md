@@ -1,35 +1,50 @@
-🚫[[verzichten]] + Gen, [fɛɐ̯ˈtsɪçtn̩], [[verzichtete]], haben [[verzichtet]]
+🙅 [[verzichten]], [fɛɐ̯ˈt͡sɪçtn̩] | [[verzichtete]], haben [[verzichtete]]
 
 ---
 Bei einer deutschen [[Redensart]] muss man aber noch auf viel mehr [[verzichten]].
 
+ Sie [[verzichtet]] [[zugunsten]]  ihres Kindes auf den Kinobesuch.
+
 Aber das sind auch alles Dinge, die ihn glücklich machen. Und auf die soll er in [[Zukunft]] verzichten?
 
+---
+= [[aufgeben]], [[entsagen]], [[unterlassen]]
+≈ [[ablehnen]], [[vermeiden]], [[entbehren]]
+≠ [[beanspruchen]], [[fordern]], [[annehmen]]
 
 ---
-Synonyme: [[aufgeben]], [[absehen]], [[meiden]], [[unterlassen]], [[resignieren]], [[Verlangen]]
-Antonyme: [[festhalten]], [[beharren]], [[durchsetzen]], [[kämpfen]],  [[brauchen]]
+to renounce, to waive, to forgo
+отказываться, воздерживаться
 
 ---
-Übersetzung: to renounce, to give up, to abstain from
+[[Verzicht]], [[verzichtbar]], [[verzichtend]]
 
 ---
-Morpheme: [[ver]][[zicht]][[en]]
- #Verb  #Untrennbar
+[[ver]]|[[zicht]]|[[en]]
+[[ver]] + [[zichten]]
 
 ---
+###### [[verzichten]] `auf` jN
+– `Worauf` [[verzichtest]] du?
+– `Auf` Süßigkeiten.
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[verzichte]]        | [[verzichtete]]       | -                 | [[verzichte]]          | [[verzichtete]]         |
-| Du        | [[verzichtest]]      | [[verzichtetest]]     | [[verzichte]]     | [[verzichtest]]        | [[verzichtetest]]       |
-| Er/sie/es | [[verzichtet]]       | [[verzichtete]]       | -                 | [[verzichte]]          | [[verzichtete]]         |
-| Wir       | [[verzichten]]       | [[verzichteten]]      | -                 | [[verzichten]]         | [[verzichteten]]        |
-| Ihr       | [[verzichtet]]       | [[verzichtetet]]      | [[verzichtet]]    | [[verzichtet]]         | [[verzichtetet]]        |
-| Sie       | [[verzichten]]       | [[verzichteten]]      | [[verzichten Sie]]| [[verzichten]]         | [[verzichteten]]        |
+– `Auf` was [[verzichten]] wir?
+– `Auf` unseren Urlaub.
 
-Partizip I: [[verzichtend]], Partizip II: [[verzichtet]]
+– Warum [[hat]] er `darauf` [[verzichtet]]?
+– Aus gesundheitlichen Gründen.
 
-[[verzichten]] - [[ver]] = [[zichten]]
-, [[wünschen]], [[ablehnen]], [[aufbringen]], [[fordern]], [[rauchen]], [[ausprobieren]], [[stattfinden]]
-, [[streben]]
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[verzichte]], [[verzichtete]], [[verzichte]], [[verzichtete]], -
+du, [[verzichtest]], [[verzichtetest]], [[verzichtest]], [[verzichtetest]], [[verzichte]]
+er, [[verzichtet]], [[verzichtete]], [[verzichte]], [[verzichtete]], -
+wir, [[verzichten]], [[verzichteten]], [[verzichten]], [[verzichteten]], [[verzichten]]
+ihr, [[verzichtet]], [[verzichtetet]], [[verzichtet]], [[verzichtetet]], [[verzichtet]]
+sie, [[verzichten]], [[verzichteten]], [[verzichten]], [[verzichteten]], [[verzichten]]
+
+*Zu + Inf*: zu [[verzichten]], *P2*: [[verzichtete]]
+Adjektive: [[verzichtend]], [[verzichtender]], [[verzichtendst]]
+
+---
+[[verzichtender]], [[verzichtendes]], [[verzichtende]], [[verzichtenden]], [[verzichtendem]], [[verzichtenderer]], [[verzichtenderes]], [[verzichtendere]], [[verzichtenderen]], [[verzichtenderem]], [[verzichtendster]], [[verzichtendstes]], [[verzichtendste]], [[verzichtendsten]], [[verzichtendstem]]

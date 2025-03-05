@@ -4,6 +4,8 @@ die [[Bereiche]]
 ---
 Diesen [[Bereich]] darf niemand [[betreten]].
 
+[[1 Wer bin ich und was mache ich hier?#^1|(q)]] Von der Schule an interessierte ich mich für Mathematik, Informatik und Linguistik. Das waren die [[Hauptbereiche]] meines Interesses, abgesehen von Büchern und Computerspielen. ^1
+ 
 Neben den Museumsbesuchen und dem [[Kauf]] von Bildern [[widerspiegelt|spiegelt]] sich das [[gewachsene]] [[Kunstinteresse]] in der [[Anzahl]] der Studierenden im [[Bereich]] der bildenden Kunst wider.
 
 "Nach meiner langen [[Erfahrung]] [[in]] diesem [[Bereich]] kann ich Ihnen einige Tipps geben. 
@@ -24,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bereichs]], [[Bereichen]]
 
 ---
-#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[fach]], [[Ebene]], [[Anki]], [[1 Präpositionen Übungen]]
+#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[fach]], [[Ebene]], [[Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]]

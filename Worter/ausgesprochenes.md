@@ -1,0 +1,1 @@
+🗣️ [[aussprechen]] | 🟢 das [[Ausgesprochene]] 🗣️

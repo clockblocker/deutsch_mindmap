@@ -3,6 +3,8 @@
 ---
 Diese Arbeiter bekommen nur [[gering]] [[Löhne]].
 
+[[2 Unter Druck nach oben#^2|(q)]] Wenn dieser [[Aufsteiger]] endlich an der Spitze der Firma angekommen ist, dann [[plagen]] ihn meist Angst und Ressentiments, [[geringes]] [[Selbstwertgefühl]] und ein [[unbändiges]] [[Bedürfnis]] nach [[Anerkennung]]. Das ist wissenschaftlich erwiesen. ^2
+
 [[3 ADHD.md#^4|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich ein [[geringes]] [[Durchhaltevermögen]], [[abbrechen|brach]] ich [[Tätigkeiten]] vor deren [[Beendigung]] ab. ^5
 [[gering]]
 

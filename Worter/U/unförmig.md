@@ -1,1 +1,1 @@
-, [[kugelrund]], [[wohlgeformt]]
+, [[kugelrund]], [[wohlgeformt]], [[vollschlank]]

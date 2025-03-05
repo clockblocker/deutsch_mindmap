@@ -1,2 +1,2 @@
 , [[Worter/H/haben]], [[schleudern]]
-, [[gewöhnen]], [[abheben]]
+, [[gewöhnen]], [[abheben]], [[bemüht]], [[verspielen]], [[zugucken]], [[forschen]]

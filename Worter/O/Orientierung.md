@@ -1,2 +1,2 @@
 , [[Richtung]], [[östlich]]
-, [[Richtungsangabe]]
+, [[Richtungsangabe]], [[Ergebnisorientierung]]

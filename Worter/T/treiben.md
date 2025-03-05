@@ -3,8 +3,9 @@
 ---
 Die zweite Regel. [[Treiben]] Sie Sport.
 
-[[1 ADHD#^2|(q)]] 3. ist immer auf [[Achse]], wie von einem [[Motor]] [[getrieben]]. ^2
+Du [[triebst]] mich in den [[Wahnsinn]]
 
+[[1 ADHD#^2|(q)]] 3. ist immer auf [[Achse]], wie von einem [[Motor]] [[getrieben]]. ^2
 
 *Aber ihr, ihr beiden andern,*  
 *[[aufmachen|macht]] euch auf, mit uns zu [[wandern]],*  

@@ -3,6 +3,8 @@
 ---
 “als dank” ist eine feste [[Wendung]], die im deutschen [[üblich]] ist (wie “aus [[Dankbarkeit]]”).
 
+[[2 Unter Druck nach oben#^10|(q)]] Die [[üblichen]] [[Voraussetzungen]] [[erfüllen]] die Bewerber beim Nivea-Konzern [[ohnehin]] meistens – eine gute Universität oder Business-School, Auslandspraktika, [[fließendes]] Englisch und noch ein paar [[zusätzliche]] Zertifikate. ^10
+
 [[nackt.md#^3|(q)]]     ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]] ^3
 
 ---

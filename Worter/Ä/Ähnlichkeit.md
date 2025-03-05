@@ -1,1 +1,1 @@
-, [[Unterschied]]
+, [[Unterschied]], [[Analogie]]

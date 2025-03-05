@@ -1,1 +1,1 @@
-, [[anwenden]]
+, [[anwenden]], [[Anwendung]]

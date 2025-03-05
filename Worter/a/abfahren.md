@@ -1,4 +1,3 @@
-
 🚗 [[abfahren]], [ˈapˌfaːʁən] | [[fuhr ab]], sind [[abgefahren]]
 
 ---

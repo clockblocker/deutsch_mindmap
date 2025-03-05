@@ -28,4 +28,4 @@ G: des/der [[Jugendlichen]], der [[Jugendlichen]]
 D: dem/der [[Jugendlichen]], den [[Jugendlichen]]  
 
 ---
-[[jugendlich]], [[Jugend]], [[Adoleszenz]], [[Heranwachsender]], [[Strafgesetz]]
+[[jugendlich]], [[Jugend]], [[Adoleszenz]], [[Heranwachsender]], [[Strafgesetz]], [[Nachwuchs]]

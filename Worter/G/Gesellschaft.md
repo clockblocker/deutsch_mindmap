@@ -27,4 +27,4 @@ Einzigartige mögliche Formen: [[Gesellschaft]], [[Gesellschaften]], [[Gesellsch
 ---
 #Substantiv #Feminin, [[Handelsgesellschaft]], [[Bevölkerung]], [[Anki]]
 , [[Stehempfang]]
-, [[Mensch]]
+, [[Mensch]], [[Wettbewerbsgesellschaft]]

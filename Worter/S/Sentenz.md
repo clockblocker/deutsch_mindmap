@@ -1,1 +1,1 @@
-, [[Satz]]
+, [[Satz]], [[Spruch]]

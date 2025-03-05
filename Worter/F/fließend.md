@@ -3,6 +3,8 @@
 ---
 Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
 
+[[2 Unter Druck nach oben#^10|(q)]] Die [[üblichen]] [[Voraussetzungen]] [[erfüllen]] die Bewerber beim Nivea-Konzern [[ohnehin]] meistens – eine gute Universität oder Business-School, Auslandspraktika, [[fließendes]] Englisch und noch ein paar [[zusätzliche]] Zertifikate. ^10
+
 
 ---
 = [[flüssig]], [[glatt]], [[geschmeidig]]

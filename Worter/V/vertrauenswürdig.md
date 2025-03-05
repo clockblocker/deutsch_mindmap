@@ -1,2 +1,2 @@
 [[Treu]], [[verdächtig]], [[Ehrlich]], [[vertreten]]
-, [[vertrauen]]
+, [[vertrauen]], [[Vertrauensschwund]]

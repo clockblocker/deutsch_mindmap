@@ -1,1 +1,1 @@
-, [[entsprechen]]
+, [[entsprechen]], [[Analogie]]

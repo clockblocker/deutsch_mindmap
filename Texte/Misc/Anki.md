@@ -269,7 +269,7 @@ Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
 Er kann sich nicht [[entschieden]], was er essen möchte 
 
-Die [[Untersuchung]] [[ergibt]] keinen [[Beweis]] für seine [[Schuld]]
+Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
 Viele Länder [[gewähren]] die [[Aufnahme]] von [[Flüchtlingen]].
 

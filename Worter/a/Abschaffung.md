@@ -5,4 +5,4 @@ Die [[Abschaffung]] der [[Abtreibung]]
 
 das ge- 
 
-[[du]]
+[[du]], [[Aufhebung]]

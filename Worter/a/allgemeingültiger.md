@@ -1,0 +1,1 @@
+, [[allgemeingültig]]

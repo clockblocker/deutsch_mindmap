@@ -3,7 +3,7 @@ die [[Mute]]
 
 ---
 *Als sie nun durch das Zimmer sprang*  
-*mit leichtem Mut und Sing und Sang,*  
+*mit [[leichtem]] [[Mut]] und Sing und Sang,*  
 
 ---
 Synonyme:
@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Mutes]], [[Mute]], [[Müte]], [[Muten]]
 
 ---
-#Substantiv #Maskulin, [[mutig]], [[vermuten]], [[Demut]], [[entmutigt]]
+#Substantiv #Maskulin, [[mutig]], [[vermuten]], [[Demut]], [[entmutigt]], [[Entscheidungsfreude]], [[Risikobereitschaft]]

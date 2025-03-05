@@ -32,4 +32,4 @@ P: [[bewussten]], [[bewussteren]], [[bewusstesten]]
 ---
 [[Bewusstsein]], [[bewusstlos]], [[unbewusst]], [[bewusstmachen]], [[bewusstwerden]], [[absichtlich]], [[unabsichtlich]], [[Verantwortungsbewusstsein]]
 , [[selbstbewusst]]
-, [[versehentlich]]
+, [[versehentlich]], [[Karrierebewusstsein]]

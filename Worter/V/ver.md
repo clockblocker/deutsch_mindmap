@@ -19,4 +19,4 @@
 , [[Vermieter]]
 , [[einverstanden]]
 , [[verabreden]]
-, [[verfügbar]], [[verschmutzen]], [[Luftverschmutzung]], [[Verfügung]], [[vermarkten]]
+, [[verfügbar]], [[verschmutzen]], [[Luftverschmutzung]], [[Verfügung]], [[vermarkten]], [[versichern]], [[verbreiten]], [[verabschieden]], [[verwandeln]], [[verspielen]], [[vernetzt]]

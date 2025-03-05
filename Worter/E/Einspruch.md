@@ -27,4 +27,4 @@ G: des [[Einspruchs]], der [[Einsprüche]]
 D: dem [[Einspruch]], den [[Einsprüchen]]  
 
 ---
-[[einspringen]], [[widersprechen]], [[protestieren]], [[Einspruchsrecht]], [[Berufung]]
+[[einspringen]], [[widersprechen]], [[protestieren]], [[Einspruchsrecht]], [[Berufung]], [[Spruch]]

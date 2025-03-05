@@ -25,4 +25,4 @@ N: [[dunkles]], [[dunkleres]], [[dunkelstes]]
 P: [[dunklen]], [[dunkleren]], [[dunkelsten]]  
 
 ---
-[[Dunkelheit]], [[verdunkeln]], [[abdunkeln]], [[dunkeln]], [[eindunkeln]]
+[[Dunkelheit]], [[verdunkeln]], [[abdunkeln]], [[dunkeln]], [[eindunkeln]], [[dunkelhaarig]]

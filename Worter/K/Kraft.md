@@ -25,4 +25,4 @@ D: der [[Kraft]], den [[Kräften]]
 [[kräftig]], [[kraftvoll]], [[kraftlos]], [[bekräftigen]], [[Kraftwerk]]
 
 [[Energie]], [[Gewalt]], [[Druck]], [[Schwäche]], [[Willenskraft]]
-, [[Erschöpfung]]
+, [[Erschöpfung]], [[Führungskraft]], [[aussagekräftig]]

@@ -3,6 +3,8 @@
 haben [[begleitet]]
 
 ---
+1. [[Begleitest]] du mich [[bis zu]] der Bushaltestelle? *(auf, bis zu, bei, zu)*  
+
 Zuerst schloss sie Freundschaft mit dem Hasen und [[begleitete]] ihn überall hin.
 
 ---

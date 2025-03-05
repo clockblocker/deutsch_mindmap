@@ -1,1 +1,1 @@
-, [[Stellung]], [[Lage]], [[Stelle]], [[Verteidigungsposition]]
+, [[Stellung]], [[Lage]], [[Stelle]], [[Verteidigungsposition]], [[Spitzenposition]]

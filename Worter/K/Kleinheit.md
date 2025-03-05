@@ -1,2 +1,2 @@
 
-, [[Mehrheit]]
+, [[Mehrheit]], [[klein]]

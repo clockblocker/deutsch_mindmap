@@ -3,6 +3,8 @@
 ---
 Du musst den [[Wert]] des Geldes kennen.
 
+[[2 Unter Druck nach oben#^16|(q)]] Auch bei den wichtigsten persönlichen [[Eigenschaften]] der [[Anwärter]] auf [[Spitzenpositionen]] [[fordern]] die Firmen [[vorrangig]] [[weiche]] [[Werte]], [[sogenannte]] Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikationsstärke liegen weit vorn. ^16
+
 Eine gute Arbeit ist viel [[wert]].
 
 [[Tageshöchstwert]], [[Basiswert]]

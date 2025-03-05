@@ -3,6 +3,8 @@
 ---
 [[3 ADHD.md#^7|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich ein geringes [[Selbstwertgefühl]] bzw. eine niedrige [[Selbsteinschätzung]]. ^7
 
+[[2 Unter Druck nach oben#^2|(q)]] Wenn dieser [[Aufsteiger]] endlich an der Spitze der Firma angekommen ist, dann [[plagen]] ihn meist Angst und Ressentiments, [[geringes]] [[Selbstwertgefühl]] und ein [[unbändiges]] [[Bedürfnis]] nach [[Anerkennung]]. Das ist wissenschaftlich erwiesen. ^2
+
 ---
 = [[Selbstachtung]], [[Selbstbewusstsein]], [[Selbstwertschätzung]]
 ≈ [[Selbstvertrauen]], [[Selbstgefühl]], [[Selbstwert]], [[Selbstachtung]]

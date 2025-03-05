@@ -26,4 +26,4 @@ G: des [[Rentners]], der [[Rentner]]
 D: dem [[Rentner]], den [[Rentnern]] 
 
 ---
-[[Rente]], [[rentnerisch]], [[verrentnern]], [[Rentnerin]], [[Rentenversicherung]], [[Rentenberechnung]], [[Erwerbstätige]]
+[[Rente]], [[rentnerisch]], [[verrentnern]], [[Rentnerin]], [[Rentenversicherung]], [[Rentenberechnung]], [[Erwerbstätige]], [[Nachwuchsmanager]]

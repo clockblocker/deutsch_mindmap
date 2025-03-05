@@ -26,4 +26,4 @@ PI: [[überlassend]], PII: [[überlassen]], Zu+inf: [[zu überlassen]]
 [[überlassen]] - [[über]] = [[lassen]] / to leave, to entrust, to hand over
 
 ---
-[[Überlassung]], [[Überlasser]], [[Überlasserin]], [[überlässlich]], [[Überlassungsvertrag]]
+[[Überlassung]], [[Überlasser]], [[Überlasserin]], [[überlässlich]], [[Überlassungsvertrag]], [[widmen]]

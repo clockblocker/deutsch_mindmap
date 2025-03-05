@@ -1,1 +1,1 @@
-, [[Richt]], [[weisen]], [[Verfügung]]
+, [[Richt]], [[weisen]], [[Verfügung]], [[vorweisen]], [[erweisen]]

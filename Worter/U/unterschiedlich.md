@@ -4,6 +4,8 @@ nicht [[gleich]]
 ---
 Bei einem [[Streit]] gibt es [[unterschiedliche]] Meinungen.
 
+[[2 Unter Druck nach oben#^4|(q)]] Bei der Analyse des Aufstiegs einiger deutscher Topmanager wird [[deutlich]], dass der Weg nach oben sehr [[unterschiedlich]] aussehen kann. ^4
+
 Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]
 
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)

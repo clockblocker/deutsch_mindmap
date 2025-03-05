@@ -1,1 +1,1 @@
-, [[Netz]]
+, [[Netz]], [[vernetzt]]

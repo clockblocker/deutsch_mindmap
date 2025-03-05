@@ -10,7 +10,13 @@ Rotkäppchen aber, war nach den Blumen herumgelaufen, und als es so viel zusamme
 
 Wie der Wolf seinen Appetit gestillt hatte, legte er sich wieder ins Bett, schlief ein und fing an, überlaut zu schnarchen. Der Jäger ging eben an dem Haus vorbei und dachte: Wie die alte Frau schnarcht! Du musst doch sehen, ob ihr etwas fehlt. Da trat er in die Stube, und wie er vor das Bette kam, so sah er, dass der Wolf darin lag. "Finde ich dich hier, du alter Sünder," sagte er, "ich habe dich lange gesucht." Nun wollte er seine Büchse anlegen, da fiel ihm ein, der Wolf könnte die Großmutter gefressen haben und sie wäre noch zu retten, schoss nicht, sondern nahm eine Schere und fing an, dem schlafenden Wolf den Bauch aufzuschneiden. Wie er ein paar Schnitte getan hatte, da sah er das rote Käppchen leuchten, und noch ein paar Schnitte, da sprang das Mädchen heraus und rief: "Ach, wie war ich erschrocken, wie war's so dunkel in dem Wolf seinem Leib!" Und dann kam die alte Großmutter auch noch lebendig heraus und konnte kaum atmen. Rotkäppchen aber holte geschwind große Steine, damit füllten sie dem Wolf den Leib, und wie er aufwachte, wollte er fortspringen, aber die Steine waren so schwer, dass er gleich niedersank und sich totfiel.
 
-Da waren alle drei vergnügt. Der Jäger zog dem Wolf den Pelz ab und ging damit heim, die Großmutter aß den Kuchen und trank den Wein, den Rotkäppchen gebracht hatte, und erholte sich wieder; Rotkäppchen aber dachte: Du willst dein Lebtag nicht wieder allein vom Wege ab in den Wald laufen, wenn dir's die Mutter verboten hat.
+Da waren alle drei vergnügt. Der Jäger zog dem Wolf den Pelz ab und ging damit heim, die Großmutter aß den Kuchen und trank den Wein, den Rotkäppchen gebracht hatte, und erholte sich wieder; Rotkäppchen aber dachte: 
+
+Du willst dein Lebtag nicht wieder allein vom Wege [[ab]] in den Wald laufen, wenn dir's die Mutter verboten hat.
+
+You don't want to run off the path into the forest alone again in your life, if your mother has forbidden it.
+
+
 
 ---
 

@@ -1,1 +1,1 @@
-, [[schlichten]]
+, [[schlichten]], [[schlicht]]

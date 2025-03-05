@@ -1,1 +1,1 @@
-, [[ergibt]], [[Begründung]]
+, [[Worter/ergeben]], [[Begründung]]

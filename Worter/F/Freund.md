@@ -23,3 +23,4 @@ D: dem [[Freund]], den [[Freunden]]
 
 ---
 [[freundlich]], [[Freundschaft]], [[befreunden]], [[Freundin]], [[Freundschaftlich]]
+, [[Brieffreund]]

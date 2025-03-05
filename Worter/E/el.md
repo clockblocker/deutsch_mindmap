@@ -1,2 +1,2 @@
 [[regeln]], [[brutzeln]], [[krabbeln]], [[widerspiegeln]], [[wuscheln]], [[wandeln]], [[gaukeln]], [[trappeln]], [[Lächeln]], [[wickeln]], [[mitteln]], [[puttel]], [[jubeln]], [[Drittel]], [[Gabel]], [[dunkel]], [[wurzeln]], [[Esel]]
-, [[schnüffeln]]
+, [[schnüffeln]], [[verwandeln]]

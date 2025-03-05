@@ -16,6 +16,8 @@ Der Löwe [[schaute]] ihn eine Zeit lang an und machte sich dann auf den Weg zu 
 
 Der schöne Mann bedankt sich für die Hilfe. „Ich lerne gerade Deutsch, weil ich hier leben möchte“, erklärt er. Dann [[schaut]] er auf die Uhr: „Ich muss gehen.“ 
 
+[[2 Unter Druck nach oben#^22|(q)]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat. ^22
+
 ---
 [[anschauen]] - [[an]] = [[schauen]] / to look at, to view, to examine
 

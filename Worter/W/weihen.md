@@ -27,4 +27,4 @@ PI: [[weihend]], PII: [[geweiht]], Zu+inf: [[zu weihen]]
 [[weihen]] - [[weih]] = [[en]] / to consecrate, to ordain, to bless
 
 ---
-[[Weihe]], [[weihvoll]], [[Weihgeschenk]], [[Weihrauch]], [[Weihwasser]]
+[[Weihe]], [[weihvoll]], [[Weihgeschenk]], [[Weihrauch]], [[Weihwasser]], [[widmen]]

@@ -1,1 +1,1 @@
-🟢 das [[Gespräch]], [ɡəˈʃpʁɛçə], [[führen]]
+🟢 das [[Gespräch]], [ɡəˈʃpʁɛçə], [[führen]], [[Sondierungsgespräche]]

@@ -18,3 +18,4 @@ here, hither
 
 ---
 [[herkommen]], [[heraus]], [[herum]], [[herüber]], [[herunter]], [[herausfinden]], [[herstellen]], [[hergeben]]
+, [[Herkunft]]

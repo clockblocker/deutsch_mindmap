@@ -1,1 +1,1 @@
-, [[überquellen]], [[Armut]]
+, [[überquellen]], [[Armut]], [[Bedürfnis]]

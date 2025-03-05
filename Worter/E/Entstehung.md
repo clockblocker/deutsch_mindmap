@@ -1,1 +1,1 @@
-, [[Gründung]], [[Geburt]], [[entstehen]]
+, [[Gründung]], [[Geburt]], [[entstehen]], [[Herkunft]]

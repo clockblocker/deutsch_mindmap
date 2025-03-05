@@ -21,4 +21,4 @@ Morpheme: [[un]][[ge]][[fähr]]
 
 ---
 , [[eben]], [[abmessen]], [[Gefahr]]
-, [[ziemlich]], [[relativ]]
+, [[ziemlich]], [[relativ]], [[bis zu]]

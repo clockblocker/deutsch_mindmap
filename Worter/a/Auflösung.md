@@ -1,1 +1,1 @@
-, [[Lösung]], [[Kündigung]], [[Zusammenschluss]], [[Scheidung]], [[Erhaltung]]
+, [[Lösung]], [[Kündigung]], [[Zusammenschluss]], [[Scheidung]], [[Erhaltung]], [[Aufhebung]]

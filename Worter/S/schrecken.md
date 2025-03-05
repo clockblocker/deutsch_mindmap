@@ -6,6 +6,7 @@ haben [[erschrocken]]
 
 ---
 [[hochschrecken]] - [[hoch]] = [[schrecken]]
+[[ab]] + [[schrecken]] = [[abschrecken]] // to scare off
 
 ---
 Synonyme: [[erschrecken]], [[ängstigen]], [[verängstigen]], [[verstören]], [[beunruhigen]]
@@ -53,3 +54,4 @@ Morphems:
 ---
 #Substantiv #MaskulinI'll analyze the word "schrecken" and create an appropriate dictionary entry.
 
+, [[abschrecken]]

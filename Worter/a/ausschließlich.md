@@ -3,9 +3,9 @@
 ---
 Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nutzen sie [[vielfach]], [[allerdings]] [[ausschließlich]], um Verben zu bilden. 
 
+[[2 Unter Druck nach oben#^18|(q)]] Allerdings reichen [[ausschließlich]] kommunikative und [[soziale]] Kompetenzen nicht, um sich für Höheres zu [[profilieren]]. ^18
+
 [[ausschließlich]] der Reisekosten  
-
-
 
 ---
 = [[nur]], [[einzig]], [[allein]]
@@ -31,4 +31,4 @@ P: [[ausschließlichen]], [[ausschließlicheren]], [[ausschließlichsten]]
 [[ausschließen]], [[Ausschluss]], [[ausschließbar]], [[einschließlich]], [[unausschließbar]]
 
 [[sonst]], [[erst]], [[nebenbei]], [[usw]]
-, [[Reisekosten]]
+, [[Reisekosten]], [[Sozial]]

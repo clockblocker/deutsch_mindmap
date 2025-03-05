@@ -1,1 +1,1 @@
-, [[Festlegung]]
+, [[Festlegung]], [[Sondierungsgespräche]]

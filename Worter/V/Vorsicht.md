@@ -24,4 +24,4 @@ Einzigartige mögliche Formen:
 
 ---
 #Substantiv #Feminin
-''', [[Sackgasse]], [[s1 e1]], [[vorsichtig]]
+''', [[Sackgasse]], [[s1 e1]], [[vorsichtig]], [[Risikobereitschaft]]

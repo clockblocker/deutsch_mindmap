@@ -25,4 +25,4 @@ G: des [[Wählers]], der [[Wähler]]
 D: dem [[Wähler]], den [[Wählern]]  
 
 ---
-[[wählen]], [[Wahl]], [[wählbar]], [[Wählbarkeit]], [[Wahlurne]], [[Wahlzettel]], [[Wählerstimmen]], [[Wahlhelfer]], [[Wahlbenachrichtigung]], [[Wahlerlaubnis]], [[Wählermehrheit]]
+[[wählen]], [[Wahl]], [[wählbar]], [[Wählbarkeit]], [[Wahlurne]], [[Wahlzettel]], [[Wählerstimmen]], [[Wahlhelfer]], [[Wahlbenachrichtigung]], [[Wahlerlaubnis]], [[Wählermehrheit]], [[Bundestagsabgeordnete]]

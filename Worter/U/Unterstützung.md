@@ -4,6 +4,8 @@ die [[Unterstützungen]]
 ---
 [[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 
+Ich [[versichere]] dich meiner [[Unterstützung]]
+
 
 1. Was braucht man in Deutschland für eine [[Ehescheidung]]? (92%)
 	- [x] die [[Unterstützung]] eines [[Anwalts]] / einer Anwältin

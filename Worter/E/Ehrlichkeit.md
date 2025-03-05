@@ -1,1 +1,1 @@
-, [[Wahrheit]], [[Ehrlich]], [[Bestechung]], [[Verantwortungsbewusstsein]]
+, [[Wahrheit]], [[Ehrlich]], [[Bestechung]], [[Verantwortungsbewusstsein]], [[Betrugsmanöver]], [[Integrität]]

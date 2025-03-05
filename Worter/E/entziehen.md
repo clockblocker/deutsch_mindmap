@@ -1,2 +1,2 @@
 , [[stillen]], [[ausnehmen]], [[entfernen]]
-, [[verschaffen]], [[vermarkten]]
+, [[verschaffen]], [[vermarkten]], [[widmen]]

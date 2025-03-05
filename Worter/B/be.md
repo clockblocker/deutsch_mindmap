@@ -12,4 +12,4 @@
 , [[bevorzugen]]
 , [[beabsichtigen]]
 , [[beurteilen]]
-, [[befreunden]], [[begeistert]]
+, [[befreunden]], [[begeistert]], [[Bedürfnis]], [[Befragung]]

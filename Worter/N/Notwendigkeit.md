@@ -24,4 +24,4 @@ G: der [[Notwendigkeit]], der [[Notwendigkeiten]]
 D: der [[Notwendigkeit]], den [[Notwendigkeiten]]  
 
 ---
-[[notwendig]], [[notwenig]], [[notdürftig]], [[Notnagel]], [[Not]], [[Verwendung]], [[müssen]]
+[[notwendig]], [[notwenig]], [[notdürftig]], [[Notnagel]], [[Not]], [[Verwendung]], [[müssen]], [[Bedürfnis]], [[Voraussetzung]], [[Grundvoraussetzung]]

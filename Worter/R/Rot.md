@@ -1,1 +1,1 @@
-die [[Farbe]], [[blass]]
+die [[Farbe]], [[blass]], [[dunkelhaarig]]

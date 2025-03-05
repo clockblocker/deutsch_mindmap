@@ -1,1 +1,1 @@
-, [[Wettbewerb]], [[Wett]]
+, [[Wettbewerb]], [[Wett]], [[Wettbewerbsgesellschaft]]

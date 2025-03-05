@@ -31,4 +31,4 @@ PI: [[verletzend]], PII: [[verletzt]], Zu+inf: [[zuverletzen]]
 [[verletzen]] - [[ver]] = [[letzen]] / to injure, to hurt, to wound
 
 ---
-[[Verletzung]], [[Verletzte]], [[verletzlich]], [[Verletzbarkeit]], [[schmerzend]]
+[[Verletzung]], [[Verletzte]], [[verletzlich]], [[Verletzbarkeit]], [[schmerzend]], [[beißen]]

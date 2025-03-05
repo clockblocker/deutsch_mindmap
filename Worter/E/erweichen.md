@@ -1,2 +1,2 @@
 
-, [[weichen]]
+, [[weichen]], [[weich]]

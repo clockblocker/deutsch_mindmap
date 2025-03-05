@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[stark]], [[manchmal]], [[bullig]], [[laut]], [[leise]]
+[[stark]], [[manchmal]], [[bullig]], [[laut]], [[leise]], [[Kommunikationsstärke]]

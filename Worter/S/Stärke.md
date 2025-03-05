@@ -1,1 +1,1 @@
-[[Energie]], [[Vorteil]], [[Schwäche]], [[Kraft]], [[Begabung]]
+[[Energie]], [[Vorteil]], [[Schwäche]], [[Kraft]], [[Begabung]], [[Erfolgsfaktor]], [[Kommunikationsstärke]]

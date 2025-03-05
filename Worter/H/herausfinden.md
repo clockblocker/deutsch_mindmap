@@ -1,61 +1,46 @@
-🔍 [[herausfinden]]
-[[fand heraus|fand heraus]]
-haben [[herausgefunden]]
+🕵️ [[herausfinden]], [hɛˈʁaʊ̯sˌfɪndn̩] | [[fand heraus]], haben [[herausgefunden]]
 
 ---
+[[2 Unter Druck nach oben#^6|(q)]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
 
 ---
-
-**Synonyme:**
-
-- [[entdecken]], [[ermitteln]], [[recherchieren]]
-
----
-
-**Beispiele:**
-
-- Ich [[finde heraus|finde]] die Wahrheit [[heraus]].
-- Du [[findest heraus|findest]] das Geheimnis [[heraus]].
-- Er [[findet heraus|findet]] die Lösung [[heraus]].
-- Sie [[findet heraus|findet]] den Fehler [[heraus]].
-- Wir [[finden heraus|finden]] die Ursache [[heraus]].
-- Ihr [[findet heraus|findet]] den Weg [[heraus]].
-- Sie [[finden heraus|finden]] die Antwort [[heraus]].
+= [[ermitteln]], [[entdecken]], [[feststellen]]
+≈ [[erfahren]], [[erkennen]], [[aufdecken]], [[recherchieren]]
+≠ [[verbergen]], [[verheimlichen]], [[ignorieren]]
 
 ---
-
-**Übersetzung**:
 to find out, to discover
+выяснять, узнавать
 
 ---
-#Verb #Trennbar
+[[finden]], [[heraus]], [[Fund]], [[Erfindung]]
 
 ---
-
-**Präteritum:**
-
-- Ich [[fand heraus|fand]] die Wahrheit [[heraus]].
-- Du [[fandest heraus|fandest]] das Geheimnis [[heraus]].
-- Er [[fand heraus|fand]] die Lösung [[heraus]].
-- Sie [[fand heraus|fand]] den Fehler [[heraus]].
-- Wir [[fanden heraus|fanden]] die Ursache [[heraus]].
-- Ihr [[fandet heraus|fandet]] den Weg [[heraus]].
-- Sie [[fanden heraus|fanden]] die Antwort [[heraus]].
+[[heraus]]|[[find]]|[[en]]
+[[heraus]] + [[finden]] = [[herausfinden]] // to find out, to discover
 
 ---
+###### [[herausfinden]] jN
+– Was [[findest]] du [[heraus]]?
+– Ich [[finde]] die Lösung [[heraus]].
 
-**Imperativ:**
+– Was [[haben]] wir [[herausgefunden]]?
+– Wir [[haben]] die Wahrheit [[herausgefunden]].
 
-- Ich [[finde heraus|finde]] die Wahrheit [[heraus]].
-- Du [[finde heraus|finde]] die Wahrheit [[heraus]].
-- Er [[finde heraus|finde]] die Wahrheit [[heraus]].
-- Es [[finde heraus|finde]] die Wahrheit [[heraus]].
-- Sie [[finde heraus|finde]] die Wahrheit [[heraus]].
-- Wir [[finden heraus|finden]] die Wahrheit [[heraus]].
-- Ihr [[findet heraus|findet]] die Wahrheit [[heraus]].
-- Sie [[finden heraus|finden]] die Wahrheit [[heraus]].
+– Warum [[hat]] er das nicht [[herausgefunden]]?
+– Weil er nicht gesucht hat.
 
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[finde heraus]], [[fand heraus]], [[finde heraus]], [[fande heraus]], -
+du, [[findest heraus]], [[fandest heraus]], [[finde heraus]], [[fandest heraus]], [[fändest heraus]]
+er, [[findet heraus]], [[fand heraus]], [[finde heraus]], [[fande heraus]], -
+wir, [[finden heraus]], [[fanden heraus]], [[finden heraus]], [[fanden heraus]], [[fänden heraus]]
+ihr, [[findet heraus]], [[fandet heraus]], [[findet heraus]], [[fandet heraus]], [[fändet heraus]]
+sie, [[finden heraus]], [[fanden heraus]], [[finden heraus]], [[fanden heraus]], [[fänden heraus]]
 
-**Morphems of only infinitive:**  
-- [[heraus]][[finden]]
+*Zu + Inf*: [[herauszufinden]], *P2*: [[herausgefunden]]
+Adjektive: [[herausfindend]], [[herausfindender]], [[herausfindendst]]
+
+---
+[[herausfindender]], [[herausfindendes]], [[herausfindende]], [[herausfindenden]], [[herausfindendem]], [[herausfindenderer]], [[herausfindenderes]], [[herausfindendere]], [[herausfindenderen]], [[herausfindenderem]], [[herausfindendster]], [[herausfindendstes]], [[herausfindendste]], [[herausfindendsten]], [[herausfindendstem]]

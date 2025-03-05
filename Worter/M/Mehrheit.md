@@ -30,3 +30,4 @@ D: der [[Mehrheit]], den [[Mehrheiten]]
 
 ---
 -
+, [[Vielzahl]]

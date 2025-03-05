@@ -6,7 +6,33 @@ Mr und Mrs Dursley im Ligusterweg Nummer 4 waren stolz darauf, ganz und gar norm
 
 Mr Dursley war Direktor einer Firma namens Grunnings, die Bohrmaschinen herstellte. Er war groß und bullig und hatte fast keinen Hals, dafür aber einen sehr großen Schnurrbart. Mrs Dursley war dünn und blond und besaß doppelt so viel Hals, wie notwendig gewesen wäre, was allerdings sehr nützlich war, denn so konnte sie den Hals über den Gartenzaun recken und zu den Nachbarn hinüberspähen. Die Dursleys hatten einen kleinen Sohn namens Dudley und in ihren Augen gab es nirgendwo einen prächtigeren Jungen. 
 
-Die Dursleys besaßen alles, was sie wollten, doch sie hatten auch ein Geheimnis, und dass es jemand aufdecken könnte, war ihre größte Sorge. Einfach unerträglich wäre es, wenn die Sache mit den Potters herauskommen würde. Mrs Potter war die Schwester von Mrs Dursley; doch die beiden hatten sich schon seit etlichen Jahren nicht mehr gesehen. Mrs Dursley behauptete sogar, dass sie gar keine Schwester hätte, denn diese und deren Nichtsnutz von einem Mann waren so undursleyhaft, wie man es sich nur denken konnte. Die Dursleys schauderten beim Gedanken daran, was die Nachbarn sagen würden, sollten die Potters eines Tages in ihrer Straße aufkreuzen. Die Dursleys wussten, dass auch die Potters einen kleinen Sohn hatten, doch den hatten sie nie gesehen. Auch dieser Junge war ein guter Grund, sich von den Potters fernzuhalten; mit einem solchen Kind sollte ihr Dudley nicht in Berührung kommen. 
+Die Dursleys besaßen alles, was sie wollten, doch sie hatten auch ein Geheimnis, und dass es jemand aufdecken könnte, war ihre größte Sorge. 
+
+The Dursleys possessed everything they wanted, but they also had a secret, and the fact [[that]] someone could uncover it was their biggest worry.
+
+Die Dursleys besaßen alles, was sie wollten, doch sie hatten auch ein Geheimnis, und dass es jemand aufdecken könnte, war ihre größte Sorge. 
+
+The Dursleys possessed everything they wanted, but they also had a secret, and their greatest fear was that somebody would *uncover* it.
+
+
+
+
+
+Einfach unerträglich wäre [[es]], wenn die Sache mit den Potters herauskommen würde. 
+
+It would be simply unbearable [[if]] the thing with the Potters were to come out.
+
+Einfach unerträglich wäre es, wenn die Sache mit den Potters herauskommen würde. 
+
+It would be simply unbearable if the thing with the Potters were to come out.
+
+
+
+Mrs Potter war die Schwester von Mrs Dursley; doch die beiden hatten sich schon seit etlichen Jahren nicht mehr gesehen.
+
+Mrs Dursley behauptete sogar, dass sie gar keine Schwester hätte, denn diese und deren Nichtsnutz von einem Mann waren so undursleyhaft, wie man es sich nur denken konnte. 
+
+Die Dursleys schauderten beim Gedanken daran, was die Nachbarn sagen würden, sollten die Potters eines Tages in ihrer Straße aufkreuzen. Die Dursleys wussten, dass auch die Potters einen kleinen Sohn hatten, doch den hatten sie nie gesehen. Auch dieser Junge war ein guter Grund, sich von den Potters fernzuhalten; mit einem solchen Kind sollte ihr Dudley nicht in Berührung kommen. 
 ###### 2
 Als Mr und Mrs Dursley an dem trüben und grauen Dienstag, an dem unsere Geschichte beginnt, die Augen aufschlugen, war an dem wolkenverhangenen Himmel draußen kein Vorzeichen der [[merkwürdigen]] und geheimnisvollen Dinge zu erkennen, die bald überall im Land geschehen sollten. [[1 Ein Junge überlebt.md######2|source]]
 ###### . 

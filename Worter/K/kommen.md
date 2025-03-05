@@ -3,7 +3,7 @@
 sein [[gekommen]]
 
 ---
-
+Fahrt ihr im [[kommenden]] Sommer an die Nordsee?
 
 ---
 [[vorbeikommen]] - [[vorbei]] = [[kommen]]     /  to drop by, to come over

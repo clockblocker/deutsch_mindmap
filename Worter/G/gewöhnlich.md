@@ -30,4 +30,4 @@ P: [[gewöhnlichen]], [[gewöhnlicheren]], [[gewöhnlichsten]]
 [[Gewohnheit]], [[gewohnt]], [[gewöhnen]], [[ungewöhnlich]], [[gewohnheitsmäßig]]
 
 [[täglich]][[normal]][[besonders]], [[erstaunlich]], [[Unglaublich]], [[durchschnittliches]], [[selten]], [[fremd]], [[seltsam]], [[häufig]], [[großartig]], [[merkwürdige]]
-, [[einmalig]]
+, [[einmalig]], [[einzigartig]]

@@ -1,1 +1,1 @@
-[[teilen]], [[Nachteile]]
+[[teilen]], [[Nachteile]], [[Zubehör]]

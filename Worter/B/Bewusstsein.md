@@ -24,3 +24,4 @@ D: dem [[Bewusstsein]]
 
 ---
 [[bewusst]], [[bewusstlos]], [[Bewusstlosigkeit]], [[Bewusstwerdung]], [[Selbstbewusstsein]]
+, [[Karrierebewusstsein]]

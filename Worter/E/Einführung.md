@@ -23,4 +23,4 @@ G: der [[Einführung]], der [[Einführungen]]
 D: der [[Einführung]], den [[Einführungen]]  
 
 ---
-[[einführen]], [[Einführender]], [[einführend]], [[Einführungsveranstaltung]], [[Einführungskurs]], [[Anki]]
+[[einführen]], [[Einführender]], [[einführend]], [[Einführungsveranstaltung]], [[Einführungskurs]], [[Anki]], [[Aufhebung]]

@@ -1,3 +1,3 @@
 [[früh]] + [[-er]]
 , [[folgend]], [[vorhin]]
-, [[nachfolgend]]
+, [[nachfolgend]], [[zukünftig]]

@@ -70,4 +70,4 @@ Zu+infinifive: [[vorzuschlagen]]
 [[vorschlagen]] - [[vor]] = [[schlagen]]
 
 ---
-[[Vorschlag]], [[Vorschläger]], [[Vorschlagswesen]], [[Vorschlagsrecht]], [[Vorschlagsliste]], [[anbieten]], [[ablehnen]], [[verfügen]]
+[[Vorschlag]], [[Vorschläger]], [[Vorschlagswesen]], [[Vorschlagsrecht]], [[Vorschlagsliste]], [[anbieten]], [[ablehnen]], [[verfügen]], [[einladen]]

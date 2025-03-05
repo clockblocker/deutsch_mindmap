@@ -1,2 +1,2 @@
 , [[überflüssig]], [[egal]], [[grundsätzlich]], [[zugrundeliegende]]
-, [[sonstig]]
+, [[sonstig]], [[grundlegend]], [[vorrangig]]

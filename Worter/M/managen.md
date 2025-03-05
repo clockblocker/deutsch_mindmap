@@ -1,1 +1,1 @@
-, [[mitteln]], [[verwalten]]
+, [[mitteln]], [[verwalten]], [[Nachwuchsmanager]]

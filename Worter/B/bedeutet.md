@@ -1,1 +1,1 @@
-📦 [[bedeuten]] , [[ergibt]]
+📦 [[bedeuten]] , [[Worter/ergeben]]

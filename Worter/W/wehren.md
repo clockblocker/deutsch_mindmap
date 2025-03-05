@@ -14,7 +14,7 @@
 ---
 = [[verteidigen]], [[abwehren]], [[schützen]]
 ≈ [[widerstehen]], [[sich widersetzen]], [[gegenwirken]]
-≠ [[ergeben]], [[kapitulieren]], [[nachgeben]]
+≠ [[Worter/E/ergeben]], [[kapitulieren]], [[nachgeben]]
 
 ---
 to defend, to resist

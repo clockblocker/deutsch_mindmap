@@ -1,1 +1,1 @@
-, [[Lust]], [[regieren]], [[Neugier]]
+, [[Lust]], [[regieren]], [[Neugier]], [[geldgierig]]

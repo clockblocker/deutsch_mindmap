@@ -1,2 +1,2 @@
 , [[Problem]], [[Nachfrage]]
-, [[Angelegenheit]]
+, [[Angelegenheit]], [[Spruch]], [[Befragung]], [[Umfrage]]

@@ -1,1 +1,1 @@
-[[untergehen]], [[steigen]], [[tauchten]], [[landen]], [[hinaufklettern]], [[fallen]], [[erheben]], [[Leiter]], [[aufliegen]]
+[[untergehen]], [[steigen]], [[tauchten]], [[landen]], [[hinaufklettern]], [[fallen]], [[erheben]], [[Leiter]], [[aufliegen]], [[Aufsteiger]]

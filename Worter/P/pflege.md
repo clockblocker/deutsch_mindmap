@@ -1,1 +1,1 @@
-, [[pflegen]], [[Behandlung]], [[Pflegeversicherung]], [[Erhaltung]]
+, [[pflegen]], [[Behandlung]], [[Pflegeversicherung]], [[Erhaltung]], [[Erhalt]]

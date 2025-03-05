@@ -1,1 +1,1 @@
-, [[ablehnen]], [[leugnen]], [[vertreten]]
+, [[ablehnen]], [[leugnen]], [[vertreten]], [[versichern]]

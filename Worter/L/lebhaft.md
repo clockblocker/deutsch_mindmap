@@ -7,7 +7,7 @@ Die anderen kommen dazu und nehmen den beiden ein paar von den schweren Kisten a
 
 ---
 Synonyme: , [[munter]], [[dynamisch]], [[aktiv]], [[energisch]], [[temperamentvoll]], [[lebendig]]
-Antonyme: [[träge]], [[passiv]], [[phlegmatisch]], [[apathisch]], [[gleichgültig]]
+Antonyme: [[träge]], [[Worter/P/passiv]], [[phlegmatisch]], [[apathisch]], [[gleichgültig]]
 
 ---
 **Übersetzung**:

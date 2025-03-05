@@ -1,1 +1,1 @@
-, [[Kleinigkeit]]
+, [[Kleinigkeit]], [[Hauptbereich]], [[Grundvoraussetzung]]

@@ -1,1 +1,1 @@
-, [[Nachfrage]], [[Notwendigkeit]]
+, [[Nachfrage]], [[Notwendigkeit]], [[Bedürfnis]]

@@ -40,4 +40,4 @@ Stilistische Nuancen:
 
 
  [[deshalb]], [[bald]], [[obwohl]], [[soweit]]
-, [[immerhin]], [[Conjunctions]], [[CONNECTOR]], [[desto]], [[dadurch]], [[jedenfalls]], [[meinetwillen]], [[anstrengen]]
+, [[immerhin]], [[Conjunctions]], [[CONNECTOR]], [[desto]], [[dadurch]], [[jedenfalls]], [[meinetwillen]], [[anstrengen]], [[ohnehin]]

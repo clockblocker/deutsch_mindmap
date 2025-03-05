@@ -2,8 +2,9 @@
 die [[Untersuchungen]]
 
 ---
-Die [[Untersuchung]] [[ergibt]] keinen [[Beweis]] für seine [[Schuld]]
+Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
+[[2 Unter Druck nach oben#^3|(q)]] Na ja, [[zumindest]] sind das [[Ergebnisse]] von zwei Studien aus einer [[Unmenge]] von [[Untersuchungen]] zu der alles [[bewegenden]] Frage der [[Wettbewerbsgesellschaft]]: Wer kommt nach oben? ^3
 
 ---
 = [[Analyse]], [[Prüfung]], [[Erforschung]]
@@ -26,4 +27,4 @@ D: der [[Untersuchung]], den [[Untersuchungen]]
 [[untersuchen]], [[untersuchenswert]], [[Untersuchungsausschuss]], [[Untersuchungsbericht]]
 
 , [[suche]], [[Zwischenergebnis]]
-, [[Anki]]
+, [[Anki]], [[ergeben]]

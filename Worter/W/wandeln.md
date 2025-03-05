@@ -4,6 +4,7 @@ haben [[gewandelt]]
 
 ---
 [[umwandeln]] - [[um]] = [[wandeln]] / transform
+[[ver]] + [[wandeln]] = [[verwandeln]] // to transform, to convert
 
 ---
 Synonyme: [[gehen]], [[schreiten]], [[spazieren]], [[flanieren]], [[schlendernm]]

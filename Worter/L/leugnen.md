@@ -40,4 +40,4 @@ PI: [[leugnend]], PII: [[geleugnet]], Zu+inf: [[zu leugnen]]
 [[Leugnung]], [[Leugner]], [[Leugnung]], [[leugnerisch]], [[unbestreitbar]]
 
 , [[zugeben]], [[verantworten]], [[behaupten]], [[haupten]]
-, [[gestehen]], [[aussagen]]
+, [[gestehen]], [[aussagen]], [[versichern]]

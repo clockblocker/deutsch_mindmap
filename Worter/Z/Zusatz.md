@@ -1,1 +1,1 @@
-, [[anfügen]], [[hinzufügen]]
+, [[anfügen]], [[hinzufügen]], [[Hauptbereich]], [[Zubehör]], [[Grundvoraussetzung]]

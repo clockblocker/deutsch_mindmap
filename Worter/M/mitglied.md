@@ -2,7 +2,11 @@
 die [[Mitglieder]]
 
 ---
-118. Wer darf bei den [[rund]] 40 jüdischen Makkabi-[[Sportvereinen]] [[Mitglied]] werden? (100%)
+[[1 Wer bin ich und was mache ich hier?#^4|(q)]] Dort wurde ich auch ein aktives [[Mitglied]] der Liberalen Urbanistischen Oppositionspartei in Russland. ^4
+ 
+
+
+1. Wer darf bei den [[rund]] 40 jüdischen Makkabi-[[Sportvereinen]] [[Mitglied]] werden? (100%)
 	- [x] alle Menschen
 
 [[Mitglied]] einer Partei ist.

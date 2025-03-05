@@ -36,7 +36,7 @@ nicht [[untreu]]
 -
 
 ---
-Synonyme: [[loyal]], [[ergeben]], [[verlässlich]], [[zuverlässig]], [[treuherzig]]
+Synonyme: [[loyal]], [[Worter/E/ergeben]], [[verlässlich]], [[zuverlässig]], [[treuherzig]]
 Antonyme: [[untreu]], [[treulos]], [[illoyal]], [[unzuverlässig]], [[unbeständig]]
 
 ---

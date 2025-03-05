@@ -1,7 +1,10 @@
 https://readlang.com/shelf/571aec12f654850e459a4f11
 
 Episode One: Sams [[Ankunft]]
-Das ist die [[Geschichte]] von Sascha und Anna. Sie [[wohnen]] [[zusammen]] in Berlin.  
+
+[[Extra 1#^2|(q)]] Das ist die [[Geschichte]] von Sascha und Anna. ^2
+
+ Sie [[wohnen]] [[zusammen]] in Berlin.  
 [[Extra 1.md#^1|(q)]] Sie haben einen [[Nachbarn]]: Nic.   ^1
 
 Nic ist in Sascha [[verliebt]].  
@@ -9,7 +12,7 @@ Und Anna ist in Nic [[verliebt]].
 Aber [[dann]] [[bekommt]] Sascha [[Post]] aus Amerika ...
 
 Jo, ich hab dir [[doch]] [[gesagt]]: –[[ Es ist vorbei]]!!!  
-(Und [[nenn]] mich bitte nicht CHA CHA).
+(Und [[nenn]] mich bitte nicht CHA CHA). dsfbjkdfsg [[Brieffreundes]]
 
 Hallo Jo.
 
@@ -18,7 +21,7 @@ Aber es ist vorbei! [[vorbei]]! Und [[jetzt]] [[heul]] bitte nicht!
 Tschüs.  
 Männer!
 
-ANNA: Louis [[komm]] [[schon]]. Sascha! Die Post! Louis und ich haben die Post!  
+ANNA: Louis [[komm]] ==schon==. Sascha! Die Post! Louis und ich haben die Post!  
 [[Gib]] mir die Post Louis! 
 
 SASCHA: Gib mir sofort die Post Louis!
@@ -51,7 +54,7 @@ Der Brief ist von Sam! Sam Scott!
 
 ANNA: Wer ist Sam Scott?
 
-SASCHA: Er [[war]] mein Brieffreund. [[aber]] das ist sieben [[Jahr]]e [[her]].
+SASCHA: Er [[war]] mein [[Brieffreund]]. [[aber]] das ist sieben [[Jahr]]e [[her]].
 
 ANNA: Oh …
 

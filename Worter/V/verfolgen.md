@@ -37,4 +37,4 @@ Partizip I: [[verfolgend]], Partizip II: [[verfolgt]]
 [[verfolgen]] - [[ver]] = [[folgen]]
 
 , [[nachjagen]], [[hinterherlaufen]]
-, [[folgend]], [[Verfolgung]], [[Anki]]
+, [[folgend]], [[Verfolgung]], [[Anki]], [[plagen]], [[zugucken]]

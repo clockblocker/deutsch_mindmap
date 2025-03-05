@@ -11,6 +11,8 @@ Sie [[bewegt]] sich [[vorsichtig]] und langsam, um kein [[Geräusch]] zu machen.
 
 Durch Kataras Handbewegungen [[bewegt]] sich das Wasser und in einem großen Eisberg hinter ihr bilden sich Risse.
 
+[[2 Unter Druck nach oben#^3|(q)]] Na ja, [[zumindest]] sind das [[Ergebnisse]] von zwei Studien aus einer [[Unmenge]] von [[Untersuchungen]] zu der alles [[bewegenden]] Frage der [[Wettbewerbsgesellschaft]]: Wer kommt nach oben? ^3
+
 ---
 Synonyme: [[in Bewegung setzen]], [[umher bewegen]], [[verschaffen]], [[umstimmen]], [[antreiben]]
 Antonyme: [[stillstehen]], [[festhalten]], [[lähmen]], [[behalten]], [[belassen]]

@@ -23,3 +23,4 @@ Einzigartige mögliche Formen: [[Netzes]], [[Netze]], [[Netzen]]
 
 ---
 #Substantiv #Neutral
+, [[vernetzt]]

@@ -1,1 +1,1 @@
-, [[Einwohner]], [[Abgeordnete]], [[Staatsangehörige]], [[Staatsoberhaupt]], [[Steuerzahler]], [[Stadtoberhaupt]], [[Innensenator]], [[Bürgerversammlung]], [[Flüchtling]], [[Verbrecher]], [[Bürgerei]]
+, [[Einwohner]], [[Abgeordnete]], [[Staatsangehörige]], [[Staatsoberhaupt]], [[Steuerzahler]], [[Stadtoberhaupt]], [[Innensenator]], [[Bürgerversammlung]], [[Flüchtling]], [[Verbrecher]], [[Bürgerei]], [[Bundestagsabgeordnete]]

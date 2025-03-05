@@ -1,24 +1,26 @@
-klein, [ˈklaɪ̯n]
-nicht [[groß]]
+🐭 [[klein]], [klaɪ̯n] ≠ [[groß]]
 
 ---
 Dann kriegt der Frust uns nicht mehr [[klein]] ([[Kriegt uns klein]])
 
+---
+= [[winzig]], [[gering]], [[mini]]
+≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
+≠ [[groß]], [[riesig]], [[weit]], [[breit]]
 
 ---
-Synonyme: [[winzig]], [[gering]], [[minimal]], [[unbedeutend]], [[bescheiden]]
-Antonyme: [[groß]], [[riesig]], [[hoch]], [[weit]], [[lang]]
-
----
-**Übersetzung**:
 small, little
+маленький
 
 ---
-#Adjective [[klein]]
+[[Kleinheit]], [[kleinlich]], [[kleinmachen]]
+
+---
+[[klein]]
 
 
-Einzigartige mögliche Formen: 
-[[klein]], [[kleiner]], [[kleine]], [[kleines]], [[kleinen]], [[kleinem]], [[kleiner]], [[kleinen]]
-[[kleiner]], [[kleinerer]], [[kleinere]], [[kleineres]], [[kleineren]], [[kleinerem]], [[kleinerer]], [[kleineren]]
-[[kleinsten]], [[kleinster]], [[kleinste]], [[kleinstes]], [[kleinsten]], [[kleinstem]], [[kleinster]], [[kleinsten]]
-, [[Kleinigkeit]], [[mindest]], [[s1 e1]], [[prächtig]], [[gering]]
+---
+Adjektive: [[klein]], [[kleiner]], [[kleinst]]
+
+---
+[[kleiner]], [[kleines]], [[kleine]], [[kleinen]], [[kleinem]], [[kleinerer]], [[kleineres]], [[kleinere]], [[kleineren]], [[kleinerem]], [[kleinster]], [[kleinstes]], [[kleinste]], [[kleinsten]], [[kleinstem]]

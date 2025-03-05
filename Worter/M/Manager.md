@@ -1,1 +1,1 @@
-, [[Buchhalter]]
+, [[Buchhalter]], [[Führungskraft]], [[Nachwuchsmanager]]

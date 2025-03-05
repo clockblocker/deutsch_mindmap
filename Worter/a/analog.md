@@ -1,2 +1,3 @@
 , [[gleich]], [[ebenso]]
-, [[entsprechend]]
+, [[entsprechend]]↔️ [[analog]]
+, [[Analogie]]

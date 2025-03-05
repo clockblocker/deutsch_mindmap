@@ -1,1 +1,1 @@
-, [[Neugier]]
+, [[Neugier]], [[Lernbereitschaft]]

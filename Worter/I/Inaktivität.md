@@ -1,2 +1,2 @@
 , [[Sport]]
-, [[Öffnungszeit]]
+, [[Öffnungszeit]], [[Ergebnisorientierung]]

@@ -30,4 +30,4 @@ PI: [[zahlend]], PII: [[gezahlt]], Zu+inf: [[zu zahlen]]
 [[zahlen]] - pure verb / to pay, to spend money
 
 ---
-[[Zahlung]], [[Zähler]], [[Zahl]], [[bezahlen]], [[Zahlmeister]], [[zahlbar]], [[Zahlungsaufschub]], [[Anki]], [[auszahlen]]
+[[Zahlung]], [[Zähler]], [[Zahl]], [[bezahlen]], [[Zahlmeister]], [[zahlbar]], [[Zahlungsaufschub]], [[Anki]], [[auszahlen]], [[Vielzahl]]

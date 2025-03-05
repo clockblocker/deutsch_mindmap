@@ -3,6 +3,8 @@
 ---
 Sie lebt in New York dem [[sogenannten]] Big Apple.
 
+[[2 Unter Druck nach oben#^16|(q)]] Auch bei den wichtigsten persönlichen [[Eigenschaften]] der [[Anwärter]] auf [[Spitzenpositionen]] [[fordern]] die Firmen [[vorrangig]] [[weiche]] [[Werte]], [[sogenannte]] Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikationsstärke liegen weit vorn. ^16
+
 
 206. [[Woran]] [[erinnern]] die [[sogenannten]] „[[Stolpersteine]]“ in Deutschland? (100%)
 	- [ ] an [[berühmte]] deutsche Politikerinnen und Politiker

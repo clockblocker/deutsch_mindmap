@@ -1,1 +1,1 @@
-, [[Stellung]], [[Wert]], [[höherstellen]]
+, [[Stellung]], [[Wert]], [[höherstellen]], [[vorrangig]]

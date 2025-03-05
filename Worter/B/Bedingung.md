@@ -26,4 +26,4 @@ D: der [[Bedingung]], den [[Bedingungen]]
 [[bedingen]], [[bedingungslos]], [[bedingt]], [[unbedingtes Angebot]]
 
 , [[Grundlage]], [[Umstand]], [[Vorbehalt]]
-, [[Zustand]]
+, [[Zustand]], [[Grundvoraussetzung]]

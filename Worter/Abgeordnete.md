@@ -39,4 +39,4 @@ G: des [[Abgeordneten]], der [[Abgeordneten]]
 D: dem [[Abgeordneten]], den [[Abgeordneten]]  
 
 ---
-[[abordnen]], [[Abordnung]], [[Mandat]], [[Parlament]], [[Volksvertretung]]
+[[abordnen]], [[Abordnung]], [[Mandat]], [[Parlament]], [[Volksvertretung]], [[Bundestagsabgeordnete]]

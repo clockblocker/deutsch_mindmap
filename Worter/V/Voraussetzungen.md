@@ -1,1 +1,2 @@
-, [[Auswirkungen]]
+, [[Auswirkungen]] 
+🔴die [[Voraussetzung]] 📝

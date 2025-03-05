@@ -1,0 +1,1 @@
+, [[Risikobereitschaft]], [[unternehmerisch]]

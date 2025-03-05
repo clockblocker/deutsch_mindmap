@@ -1,2 +1,2 @@
 , [[sachlich]]
-, [[innerlich]]
+, [[innerlich]], [[allgemeingültig]]

@@ -1,1 +1,1 @@
-, [[ängstlich]]
+, [[ängstlich]], [[Risikobereitschaft]]

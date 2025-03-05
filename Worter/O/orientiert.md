@@ -1,1 +1,1 @@
-, [[verirrt]], [[bezogen]]
+, [[verirrt]], [[bezogen]], [[Ergebnisorientierung]]

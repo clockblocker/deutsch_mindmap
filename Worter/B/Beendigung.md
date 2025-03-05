@@ -1,2 +1,2 @@
 , [[Schluss]], [[Abschluss]], [[Kündigung]], [[Scheidung]], [[Entlassung]]
-, [[Durchhaltevermögen]]
+, [[Durchhaltevermögen]], [[Aufhebung]]

@@ -38,4 +38,4 @@ at least, minimum
 [[mindest]], [[mindestens]]
 
 , [[wenigstens]], [[zumindest]], [[neidisch]]
-, [[Mindestalter]], [[Mindestanteil]]
+, [[Mindestalter]], [[Mindestanteil]], [[bis zu]]

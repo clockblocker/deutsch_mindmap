@@ -36,4 +36,4 @@ Neuter: [[gebändigtes]], [[gebändigteres]], [[gebändigtes]]
 Plural: [[gebändigten]], [[gebändigteren]], [[gebändigsten]] 
 
 ---
-[[Bändigung]], [[Bändiger]], [[unbändig]], [[Unbändigkeit]]
+[[Bändigung]], [[Bändiger]], [[unbändig]], [[Unbändigkeit]], [[unbändig]]

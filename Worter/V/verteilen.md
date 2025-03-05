@@ -1,1 +1,1 @@
-[[teilen]], [[breiten]], [[ansammeln]], [[sammeln]], [[streuen]], [[zerstreuen]], [[stapeln]], [[aufteilen]], [[Verbreitung]]
+[[teilen]], [[breiten]], [[ansammeln]], [[sammeln]], [[streuen]], [[zerstreuen]], [[stapeln]], [[aufteilen]], [[Verbreitung]], [[verbreiten]]

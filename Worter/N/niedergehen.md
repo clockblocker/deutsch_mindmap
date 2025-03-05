@@ -1,1 +1,1 @@
-, [[aufspringen]], [[fallen]]
+, [[aufspringen]], [[fallen]], [[Niedergang]]

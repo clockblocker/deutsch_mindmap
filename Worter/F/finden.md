@@ -9,6 +9,7 @@ Aber was er [[fand]], waren nur falsche Buddhas. Dann in einem Geschäft neben d
 
 ---
 [[erfinden]] - [[er]] = [[finden]] / invent
+[[heraus]] + [[finden]] = [[herausfinden]] // to find out, to discover
 
 
 ---
@@ -38,4 +39,4 @@ Partizip I: [[findend]], Partizip II: [[gefunden]]
 
 
 [[verlieren]], [[suchen]], [[entdeckten]]
-, [[erfinden]], [[befinden]], [[s1 e1]], [[Diebstahl]], [[stattfinden]], [[gelangen]]
+, [[erfinden]], [[befinden]], [[s1 e1]], [[Diebstahl]], [[stattfinden]], [[gelangen]], [[herausfinden]]

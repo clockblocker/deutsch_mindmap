@@ -1,1 +1,1 @@
-[[seidig]], [[dick]], [[fein]], [[bullig]]
+[[seidig]], [[dick]], [[fein]], [[bullig]], [[klein]]

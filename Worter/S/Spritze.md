@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Spritze]], [[Spritzen]], [[Spritze]], [[Spritze]], [[Spritzen]], [[Spritze]], [[Spritze]], [[Spritzen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Impfung]]

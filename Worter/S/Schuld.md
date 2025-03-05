@@ -2,7 +2,7 @@ die [[Schuld]], [ʃʊlt]
 die [[Schulde]]
 
 ---
-Die [[Untersuchung]] [[ergibt]] keinen [[Beweis]] für seine [[Schuld]]
+Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
 Niemand ist ohne [[Schuld]].
 
@@ -35,4 +35,4 @@ Einzigartige mögliche Formen: [[Schulde]], [[Schulden]], [[Schuldest]], [[Schul
 ---
 #Substantiv #Femininum, [[s1 e1]], [[verurteilten]], [[Anki]], [[Pfand]], [[Abrechnung]]
 , [[Spende]]
-, [[Zahlung]]
+, [[Zahlung]], [[ergeben]]

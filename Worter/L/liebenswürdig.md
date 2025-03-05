@@ -1,1 +1,1 @@
-, [[nett]], [[bös]], [[garstig]]
+, [[nett]], [[bös]], [[garstig]], [[ruppig]]

@@ -1,1 +1,1 @@
-, [[abschließen]], [[schützen]], [[beschützen]], [[haften]], [[sicher]], [[stätigen]]
+, [[abschließen]], [[schützen]], [[beschützen]], [[haften]], [[sicher]], [[stätigen]], [[versichern]]

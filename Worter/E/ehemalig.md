@@ -1,1 +1,1 @@
-, [[vergangen]], [[ehemaligen]], [[regierend]]
+, [[vergangen]], [[ehemaligen]], [[regierend]], [[zukünftig]]

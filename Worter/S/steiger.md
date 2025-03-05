@@ -1,1 +1,1 @@
-, [[Versteigerung]]
+, [[Versteigerung]], [[Aufsteiger]]

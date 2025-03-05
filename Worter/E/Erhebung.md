@@ -1,1 +1,1 @@
-, [[erheben]]
+, [[erheben]], [[Befragung]], [[Umfrage]]

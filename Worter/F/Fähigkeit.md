@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fähigkeit]], [[Fähigkeiten]], [[Fähigkeiten]], [[Fähigkeiten]]
 
 ---
-#Substantiv #Feminin , [[arbeitsunfähig]], [[Begabung]]
+#Substantiv #Feminin , [[arbeitsunfähig]], [[Begabung]], [[Eigenschaft]], [[Teamfähigkeit]]

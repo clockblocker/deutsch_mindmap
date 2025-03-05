@@ -1,1 +1,1 @@
-, [[Armut]]
+, [[Armut]], [[Bedürfnis]]

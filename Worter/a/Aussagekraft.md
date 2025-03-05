@@ -1,1 +1,1 @@
-, [[Aussage]], [[aussagen]]
+, [[Aussage]], [[aussagen]], [[aussagekräftig]]

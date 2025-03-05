@@ -32,4 +32,4 @@ PI: [[betonend]], PII: [[betont]], Zu+inf: [[zu betonen]]
 [[Betonung]], [[betonend]], [[Ton]], [[tonisch]], [[Akzent]]
 
 , [[anreißen]], [[hervorheben]]
-, [[hervorragend]]
+, [[hervorragend]], [[versichern]]

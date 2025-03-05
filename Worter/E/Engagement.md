@@ -1,3 +1,3 @@
 , [[Einsatzes]]
 , [[Aufmerksamkeit]]
-, [[Anstrengung]]
+, [[Anstrengung]], [[Lernbereitschaft]]

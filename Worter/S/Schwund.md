@@ -1,1 +1,1 @@
-, [[schwinden]]
+, [[schwinden]], [[Vertrauensschwund]]

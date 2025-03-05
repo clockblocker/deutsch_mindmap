@@ -3,6 +3,10 @@
 ---
 [[2 ADHD.md#^10|(q)]] Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu. ^10
 
+[[2 Unter Druck nach oben#^1|(q)]] Der Mann, der Karriere machen will, sollte größer als 1,80 Meter sein, [[schlank]] und [[dunkelhaarig]], verheiratet, aber kinderlos, und sich in der Freizeit am liebsten mit sich selbst [[beschäftigen]]. ^1
+
+[[1 Wer bin ich und was mache ich hier?#^5|(q)]] In der Partei [[beschäftigte]] ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]] / (zammeln?) Menschen und Geld an und war öffentlich [[tätig]]. ^5x
+
 1. [[Womit]] beschäftigst du dich die letzte Zeit? Чем ты занимаешься последнее время? 
 2. [[Mit]] [[wem]] beschäftigst du dich jetzt? Кем ты занимаешься сейчас?
 3. Wie lange beschäftigst du dich [[damit]]? Как долго ты уже этим занимаешься?
@@ -48,4 +52,4 @@ Zu+infinitive: [[zu beschäftigen]]
 ---
 [[Beschäftigung]], [[Beschäftigter]], [[Beschäftigte]], [[Vollbeschäftigung]], [[Arbeitsbeschäftigung]], [[selbstbeschäftigt]]
 
-, [[Gastarbeiter]]
+, [[Gastarbeiter]], [[anwerben]]

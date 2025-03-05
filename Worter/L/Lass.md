@@ -1,1 +1,1 @@
-[[lassen]], [[hineinlassen]], [[erlassen]], [[Entlassung]]
+[[lassen]], [[hineinlassen]], [[erlassen]], [[Entlassung]], [[Niederlassung]]

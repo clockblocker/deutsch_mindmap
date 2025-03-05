@@ -35,4 +35,4 @@ Einzigartige mögliche Formen:
 
 
 [[schwierig]][[einfachen]], [[schwer]], [[unbequem]], [[ernst]], [[einfach]]
-, [[bitterlich]], [[leichtsinnig]], [[tief]], [[hellblau]], [[erleichtern]], [[leichtern]], [[beschwert]], [[bequem]]
+, [[bitterlich]], [[leichtsinnig]], [[tief]], [[hellblau]], [[erleichtern]], [[leichtern]], [[beschwert]], [[bequem]], [[schlank]]

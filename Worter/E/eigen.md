@@ -1,2 +1,2 @@
 , [[eigene]], [[einigen]]
-, [[Eigenlob]]
+, [[Eigenlob]], [[Eigenschaft]]

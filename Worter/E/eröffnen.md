@@ -1,10 +1,10 @@
 🚪 [[eröffnen]], [ˈʔɛʁˌʔœfnən] | [[eröffnete]], haben [[eröffnet]]
 
 ---
-256. Ein [[Ehepaar]] möchte in Deutschland ein Restaurant [[eröffnen]]. Was braucht es dazu [[unbedingt]]? (93%)
-	- [ ] eine [[Erlaubnis]] der Polizei
-	- [ ] eine [[Genehmigung]] einer Partei
-	- [ ] eine [[Genehmigung]] des [[Einwohnermeldeamts]]
+In unserer Stadt wird ein neues Kino [[eröffnet]] 
+Das neue Kino wurde gestern [[eröffnet]] 
+
+1. Ein [[Ehepaar]] möchte in Deutschland ein Restaurant [[eröffnen]]. Was braucht es dazu [[unbedingt]]? (93%)
 	- [x] eine [[Gaststättenerlaubnis]] von der [[zuständigen]] [[Behörde]]
 ---
 = [[beginnen]], [[einleiten]], [[starten]], [[anfangen]], [[aufmachen]]

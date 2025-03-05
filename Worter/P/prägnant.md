@@ -1,1 +1,1 @@
-, [[Zusammenfassung]]
+, [[Zusammenfassung]], [[aussagekräftig]]

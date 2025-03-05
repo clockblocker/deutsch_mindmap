@@ -1,1 +1,1 @@
-, [[verzichten]], [[w-l]]
+, [[verzichten]], [[w-l]], [[Durchsetzungsvermögen]]

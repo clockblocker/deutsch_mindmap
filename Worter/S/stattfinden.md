@@ -3,6 +3,8 @@
 ---
 ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. [[GPT.md#^1|(q)]]
 
+Einige Monate nachdem die ersten Wahlen [[stattfanden]], an denen ich teilgenommen hatte, erklärte Russland den Krieg, und alles änderte sich.
+
 ---
 = [[vorkommen]], [[ablaufen]], [[passieren]], [[Erfolgen]], [[geschehen]], [[ereignen]]
 ≈ [[zustande kommen]], [[gelegen]], [[gehen]]

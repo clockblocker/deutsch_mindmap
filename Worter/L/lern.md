@@ -1,2 +1,2 @@
 [[lernen]], [[Erlernung]]
-, [[kennenlernen]]
+, [[kennenlernen]], [[Lernbereitschaft]]

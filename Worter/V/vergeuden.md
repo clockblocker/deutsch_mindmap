@@ -1,2 +1,2 @@
 , [[sparen]], [[verschwenden]], [[schwenden]], [[verplempern]]
-, [[kosten]]
+, [[kosten]], [[verspielen]]

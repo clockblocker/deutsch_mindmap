@@ -1,1 +1,1 @@
-, [[usw]], [[anfügen]], [[ergibt]], [[ergänzen]], [[hinzufügen]]
+, [[usw]], [[anfügen]], [[Worter/ergeben]], [[ergänzen]], [[hinzufügen]]

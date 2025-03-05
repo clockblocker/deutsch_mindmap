@@ -1,2 +1,2 @@
 , [[einziger]], [[ausschließlich]], [[lediglich]]
-, [[einig]]
+, [[einig]], [[einzigartig]]

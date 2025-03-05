@@ -1,1 +1,1 @@
-, [[sachlich]]
+, [[sachlich]], [[allgemeingültig]]

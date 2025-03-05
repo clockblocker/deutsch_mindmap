@@ -1,1 +1,1 @@
-, [[umziehen]], [[hochziehen]]
+, [[umziehen]], [[hochziehen]], [[Niederlassung]], [[Niedergang]]

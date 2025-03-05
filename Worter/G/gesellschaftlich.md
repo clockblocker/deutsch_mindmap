@@ -1,1 +1,1 @@
-, [[öffentlich]], [[politisch]]
+, [[öffentlich]], [[politisch]], [[Sozial]]

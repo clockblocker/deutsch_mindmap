@@ -5,9 +5,17 @@ In den alten Zeiten, da hatte [[jeder]] Klang noch Sinn und [[Bedeutung]]. Wenn 
 
 Zu dieser Zeit [[hatten]] auch die Vögel ihre eigene Sprache, die [[jedermann]] verstand, jetzt lautet es nur wie ein Zwitschern, Kreischen und [[Pfeifen]] und bei einigen wie Musik ohne Worte. 
 
-Es kam aber den Vögeln in den Sinn, sie wollten nicht länger ohne Herrn sein und einen unter sich zu ihrem König wählen. Nur einer von ihnen, der Kiebitz, war dagegen; frei hatte er gelebt, und frei wollte er sterben, und angstvoll hin und her fliegend rief er: "Wo bliew ick? Wo bliew ick?" Er zog sich zurück in einsame und unbesuchte Sümpfe und zeigte sich nicht wieder unter seinesgleichen.
+Es kam aber den Vögeln [[in den Sinn]], sie wollten nicht länger ohne Herrn sein und einen unter sich zu ihrem König wählen.
 
-Die Vögel wollten sich nun über die Sache besprechen, und an einem schönen Maimorgen kamen sie alle aus Wäldern und Feldern zusammen, Adler und Buchfinke, Eule und Krähe, Lerche und Sperling, was soll ich sie alle nennen? Selbst der Kuckuck kam und der Wiedehopf, sein Küster, der so heißt, weil er sich immer ein paar Tage früher hören läßt; auch ein ganz kleiner Vogel, der noch keinen Namen hatte, mischte sich unter die Schar. Das Huhn, das zufällig von der ganzen Sache nichts gehört hatte, verwunderte sich über die große Versammlung.
+But it [[occurred]] to the birds that they no longer wanted to be without a master and wanted to choose one among themselves to be their king.
+
+
+
+Nur einer von ihnen, der Kiebitz, war dagegen; frei hatte er gelebt, und frei wollte er sterben, und angstvoll hin und her fliegend rief er: "Wo bliew ick? Wo bliew ick?" Er zog sich zurück in einsame und unbesuchte Sümpfe und zeigte sich nicht wieder unter seinesgleichen.
+
+Die Vögel wollten sich nun über die Sache besprechen, und an einem schönen Maimorgen kamen sie alle aus Wäldern und Feldern zusammen, Adler und Buchfinke, Eule und Krähe, Lerche und Sperling, was soll ich sie alle nennen? 
+
+Selbst der Kuckuck kam und der Wiedehopf, sein Küster, der so heißt, weil er sich immer ein paar Tage früher hören läßt; auch ein ganz kleiner Vogel, der noch keinen Namen hatte, mischte sich unter die Schar. Das Huhn, das zufällig von der ganzen Sache nichts gehört hatte, verwunderte sich über die große Versammlung.
 
 "Wat, wat, wat is den dar to don?" gackerte es, aber der Hahn beruhigte seine liebe Henne und sagte: "Luter riek Lüd!", erzählte ihr auch, was sie vorhätten. Es ward aber beschlossen, daß der König sein sollte, der am höchsten fliegen könnte. Ein Laubfrosch, der im Gebüsche saß, rief, als er das hörte, warnend: "Natt, natt, natt! Natt, natt, natt!", weil er meinte, es würden deshalb viel Tränen vergossen werden. Die Krähe aber sagte: "Quark ok!", es sollte alles friedlich abgehen.
 

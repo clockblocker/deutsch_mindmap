@@ -1,1 +1,1 @@
-[[bedeuten]], [[gering]]
+[[bedeuten]], [[gering]], [[aussagekräftig]]

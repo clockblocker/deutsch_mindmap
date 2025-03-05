@@ -3,6 +3,9 @@
 haben [[gedeckt]]
 
 ---
+1. Die Gäste sitzen an dem [[festlich]] [[gedeckten]] Tisch.
+
+---
 [[abdecken]] - [[ab]] = [[decken]] / shield, protect
 [[entdecken]] - [[ent]] = [[decken]], / uncover, find
 [[verdecken]] - [[ver]] = [[decken]]  / conceal, hide

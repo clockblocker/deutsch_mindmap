@@ -5,6 +5,8 @@ die [[Wahnsinne]]
 ---
 Um Liebe, [[Wahnsinn]], Mord …  
 
+Du [[triebst]] mich in den [[Wahnsinn]]
+
 *(Der [[Wahnsinn]])*  
 *Ist nur eine schmale Brücke*  
 *Die Ufer sind Vernunft und Trieb*  

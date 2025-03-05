@@ -1,25 +1,28 @@
-🔴 📚 die [[Geschichte]], [ˈɡəʃɪçtə]
+📜 🔴 die [[Geschichte]], [ɡəˈʃɪçtə]
 die [[Geschichten]]
 
 ---
-Das ist die [[Geschichte]] von Sascha und Anna. Sie [[wohnen]] [[zusammen]] in Berlin.  
+[[Extra 1#^2|(q)]] Das ist die [[Geschichte]] von Sascha und Anna. ^2
 
 ---
-= [[Erzählung]], [[Bericht]], [[Saga]]
-≈ [[Ereignis]], [[Vorfall]], [[Begebenheit]], [[Werdegang]]
-≠ [[Zukunft]], [[Prognose]], [[Vorhersage]]
+= [[Erzählung]], [[Historie]], [[Vergangenheit]]
+≈ [[Bericht]], [[Chronik]], [[Saga]], [[Story]]
+≠ [[Zukunft]], [[Gegenwart]], [[Fiktion]]
 
 ---
-story, history, tale
+history, story
+история, рассказ
 
 ---
-[[Ge]]|[[Schicht]]|[[e]]
+[[geschehen]], [[geschichtlich]], [[Geschichtenerzähler]], [[Geschichtsbuch]]
 
 ---
-N: die [[Geschichte]], die [[Geschichten]]  
-A: die [[Geschichte]], die [[Geschichten]]  
-G: der [[Geschichte]], der [[Geschichten]]  
-D: der [[Geschichte]], den [[Geschichten]]  
+[[Geschicht]]|[[e]]
+[[Geschichte]]
+
 
 ---
-[[geschichtlich]], [[historisch]], [[erzählen]], [[berichten]], [[geschehen]], [[Vergangenheit]], [[unehrlicher]], [[Verbrecher]], [[Erlebnis]]
+N: die [[Geschichte]], die [[Geschichten]]
+A: die [[Geschichte]], die [[Geschichten]]
+G: der [[Geschichte]], der [[Geschichten]]
+D: der [[Geschichte]], den [[Geschichten]]

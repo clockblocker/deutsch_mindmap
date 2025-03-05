@@ -1,1 +1,1 @@
-, [[bereiten]]
+, [[bereiten]], [[Lernbereitschaft]], [[Risikobereitschaft]]

@@ -26,3 +26,4 @@ Morpheme: [[schlich]][[t]][[en]]
 | Sie | [[schlichten]] | [[schlichteten]] | [[schlichten Sie]] | [[schlichten]] | [[schlichteten]] |
 
 Partizip I: [[schlichtend]], Partizip II: [[geschlichtet]]
+, [[schlicht]]

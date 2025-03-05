@@ -50883,7 +50883,7 @@ D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]
 
 ---
 = [[akzeptieren]], [[sich begnügen]], [[sich abfinden]]
-≈ [[einwilligen]], [[zustimmen]], [[dulden]], [[ergeben]]
+≈ [[einwilligen]], [[zustimmen]], [[dulden]], [[Worter/E/ergeben]]
 ≠ [[verweigern]], [[ablehnen]], [[protestieren]], [[kämpfen]]
 
 ---
@@ -76952,6 +76952,105 @@ If a word can be a form of multiple parts of speach, list all options, separated
   "status": 503,
   "statusText": ""
 }
+```
+
+                ---
+                
+                ## 2025-03-05T08:11:27.748Z
+                ### Prompt:
+                ```
+                Given a german word, determine it's normal form and pick an appropriate emoji to represent it. In this context, Partizip 1's normal from is an infinitive of a corresponding verb. If the word is a noun, determin it's gender and use 🔵 for der,  🔴 for die, if 🟢 for das. Do not write anything else, just the infinitive and an emoji. 
+Examples (input -> output):
+"brutzelt" -> "🍳 [[brutzeln]]",
+"gesorgt" -> "🤔 [[sorgen]]",
+"Hoffnungen" -> "🔴 die [[Hoffnung]] 🕊️",
+"eisigen", -> "🥶 [[eisig]]",
+"zweiteste", -> "2️⃣ [[zwei]]",
+"Auftragslage", -> "📈 [[Auftragslage]]",
+"her", -> "➡️ [[her]]",
+"saßen", -> "🪑 [[sitzen]]". 
+The output should be compact, without extra spaces or newlines.
+
+If a word can be a form of multiple parts of speach, list all options, separated with |. Examples (input -> output):
+"vergangene", -> "🕰️ [[vergehen]]", 
+"Nieser", -> "🤧 [[niesen]] | 🔵 der [[Nieser]] 🤧",
+"klares", -> "😌 [[klären]] | 😌 [[klar]] | 🟢 das [[Klare]] 😌.
+                ```
+
+                ### Response:
+                ```
+                
+                ```
+                
+### Error:
+```
+{}
+```
+
+                ---
+                
+                ## 2025-03-05T08:11:37.303Z
+                ### Prompt:
+                ```
+                Given a german word, determine it's normal form and pick an appropriate emoji to represent it. In this context, Partizip 1's normal from is an infinitive of a corresponding verb. If the word is a noun, determin it's gender and use 🔵 for der,  🔴 for die, if 🟢 for das. Do not write anything else, just the infinitive and an emoji. 
+Examples (input -> output):
+"brutzelt" -> "🍳 [[brutzeln]]",
+"gesorgt" -> "🤔 [[sorgen]]",
+"Hoffnungen" -> "🔴 die [[Hoffnung]] 🕊️",
+"eisigen", -> "🥶 [[eisig]]",
+"zweiteste", -> "2️⃣ [[zwei]]",
+"Auftragslage", -> "📈 [[Auftragslage]]",
+"her", -> "➡️ [[her]]",
+"saßen", -> "🪑 [[sitzen]]". 
+The output should be compact, without extra spaces or newlines.
+
+If a word can be a form of multiple parts of speach, list all options, separated with |. Examples (input -> output):
+"vergangene", -> "🕰️ [[vergehen]]", 
+"Nieser", -> "🤧 [[niesen]] | 🔵 der [[Nieser]] 🤧",
+"klares", -> "😌 [[klären]] | 😌 [[klar]] | 🟢 das [[Klare]] 😌.
+                ```
+
+                ### Response:
+                ```
+                
+                ```
+                
+### Error:
+```
+{}
+```
+
+                ---
+                
+                ## 2025-03-05T08:11:39.085Z
+                ### Prompt:
+                ```
+                Given a german word, determine it's normal form and pick an appropriate emoji to represent it. In this context, Partizip 1's normal from is an infinitive of a corresponding verb. If the word is a noun, determin it's gender and use 🔵 for der,  🔴 for die, if 🟢 for das. Do not write anything else, just the infinitive and an emoji. 
+Examples (input -> output):
+"brutzelt" -> "🍳 [[brutzeln]]",
+"gesorgt" -> "🤔 [[sorgen]]",
+"Hoffnungen" -> "🔴 die [[Hoffnung]] 🕊️",
+"eisigen", -> "🥶 [[eisig]]",
+"zweiteste", -> "2️⃣ [[zwei]]",
+"Auftragslage", -> "📈 [[Auftragslage]]",
+"her", -> "➡️ [[her]]",
+"saßen", -> "🪑 [[sitzen]]". 
+The output should be compact, without extra spaces or newlines.
+
+If a word can be a form of multiple parts of speach, list all options, separated with |. Examples (input -> output):
+"vergangene", -> "🕰️ [[vergehen]]", 
+"Nieser", -> "🤧 [[niesen]] | 🔵 der [[Nieser]] 🤧",
+"klares", -> "😌 [[klären]] | 😌 [[klar]] | 🟢 das [[Klare]] 😌.
+                ```
+
+                ### Response:
+                ```
+                
+                ```
+                
+### Error:
+```
+{}
 ```
 
                 ---

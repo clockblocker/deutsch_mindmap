@@ -27,4 +27,4 @@ PI: [[geschehend]], PII: [[geschehen]], Zu+inf: [[zu geschehen]]
 [[geschehen]] - [[ge]] = [[schehen]] / to happen, to occur
 
 ---
-[[Geschehen]], [[Ereignis]], [[Vorfall]], [[Begebenheit]], [[Handlung]], [[vorkommen]], [[ergehen]]
+[[Geschehen]], [[Ereignis]], [[Vorfall]], [[Begebenheit]], [[Handlung]], [[vorkommen]], [[ergehen]], [[Geschichte]]

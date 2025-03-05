@@ -3,4 +3,4 @@
 , [[Gefühlsausbruch]]
 , [[ausrechnen]]
 , [[umsteigen]]
-, [[aussteigen]], [[Ausleihsystem]]
+, [[aussteigen]], [[Ausleihsystem]], [[Voraussetzung]], [[aussagekräftig]]

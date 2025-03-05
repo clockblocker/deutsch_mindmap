@@ -1,2 +1,2 @@
 , [[überzeugen]], [[misstrauisch]], [[zweifelt]], [[zweifeln]]
-, [[vertrauen]]
+, [[vertrauen]], [[Vertrauensschwund]]

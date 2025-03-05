@@ -26,4 +26,4 @@ D: dem [[Feind]], den [[Feinden]]
 
 ---
 [[feindlich]], [[verfeinden]], [[Feindschaft]], [[Feindbild]], [[Feindseligkeit]], [[Gegnern]]
-, [[Begleiter]]
+, [[Begleiter]], [[Brieffreund]]

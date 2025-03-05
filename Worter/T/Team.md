@@ -1,1 +1,1 @@
-, [[Nationalmannschaft]]
+, [[Nationalmannschaft]], [[Teamfähigkeit]]
