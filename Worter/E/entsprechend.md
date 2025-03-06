@@ -26,3 +26,4 @@ P: [[entsprechenden]], [[entsprechenderen]], [[entsprechendsten]]
 
 ---
 [[entsprechen]], [[Sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
+, [[jeweilig]]

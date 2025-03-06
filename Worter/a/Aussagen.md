@@ -28,4 +28,4 @@ PI: [[aussagend]], PII: [[ausgesagt]], Zu+inf: [[auszusagen]]
 [[aussagen]] - [[aus]] = [[sagen]] / to state, to testify, to declare
 
 ---
-[[Aussage]], [[Aussagekraft]], [[Zeuge]], [[bezeugen]], [[Zeugenaussage]], [[Vernehmung]], [[aussagekräftig]]
+[[Aussage]], [[Aussagekraft]], [[Zeuge]], [[bezeugen]], [[Zeugenaussage]], [[Vernehmung]], [[aussagekräftig]], [[besagen]]

@@ -1,2 +1,2 @@
 
-, [[Freizeitaktivität]]
+, [[Freizeitaktivität]], [[Brettspiel]]

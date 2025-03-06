@@ -30,4 +30,4 @@ D: der [[Aussage]], den [[aussagen]]
 [[aussagen]], [[aussagekräftig]], [[Aussagekraft]], [[Zeugenaussage]], [[Falschaussage]]
 
 [[sagen]], [[Behauptung]], [[Meinungsäußerung]], [[Inhalt]]
-, [[Spruch]], [[Befragung]], [[Umfrage]]
+, [[Spruch]], [[Befragung]], [[Umfrage]], [[besagen]]

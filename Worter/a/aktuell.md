@@ -1,1 +1,1 @@
-, [[modern]], [[vergangen]], [[uralte]], [[ehemaligen]], [[ehemalige]], [[zeitgenössische]], [[zurzeit]], [[heutig]], [[jetzig]], [[regierend]]
+, [[modern]], [[vergangen]], [[uralte]], [[ehemaligen]], [[ehemalige]], [[zeitgenössische]], [[zurzeit]], [[heutig]], [[jetzig]], [[regierend]], [[jeweilig]]

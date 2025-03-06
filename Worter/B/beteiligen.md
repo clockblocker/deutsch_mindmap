@@ -5,6 +5,9 @@ haben [[beteiligt]]
 ---
 Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war. Es war an den ersten [[Angriffen]] der Feuernation [[beteiligt]].
 
+[[3 Soll man Geld spenden?#^11|^]] Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]. ^11
+
+
 134. Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
 	- [x] Ich [[beteilige]] mich an einer Bürgerinitiative für die [[Erhaltung]] der Buslinie oder gründe [[selber]] eine Initiative.
 
@@ -31,4 +34,4 @@ Morpheme: [[be]][[teil]][[ig]][[en]]
 | Sie       | [[beteiligen]]       | [[beteiligten]]       | [[beteiligen Sie]]| [[beteiligen]]         | [[beteiligten]]         |
 
 Partizip I: [[beteiligend]], Partizip II: [[beteiligt]]
-[[beteiligen]] - [[be]] = [[teilen]]
+[[beteiligen]] - [[be]] = [[teilen]], [[Beteiligung]]

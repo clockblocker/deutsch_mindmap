@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Verlustes]], [[Verluste]], [[Verlusten]], [[Verlustens]]
 
 ---
-#Substantiv #Maskulin, [[Kauf]], [[Lohn]], [[Wahlniederlage]], [[Erhalt]]
+#Substantiv #Maskulin, [[Kauf]], [[Lohn]], [[Wahlniederlage]], [[Erhalt]], [[Ernte]], [[Mehrwert]]

@@ -4,6 +4,10 @@
 Als ich jünger war, war ich sehr [[zielstrebig]] 
 
 ---
+[[be]] + [[streben]] = [[bestreben]] // to strive, to endeavor
+
+
+---
 = [[anstreben]], [[erstreben]], [[nachstreben]], [[wollen]]
 ≈ [[sich bemühen]], [[arbeiten auf]], [[versuchen]], [[trachten]]
 ≠ [[aufgeben]], [[verzichten]], [[ablehnen]], [[verwerfen]]
@@ -28,4 +32,4 @@ PI: [[strebend]], PII: [[gestrebt]], Zu+inf: [[zu streben]]
 [[streben]] - [[streben]] / to strive, to aspire
 
 ---
-[[Streben]], [[Bestreben]], [[Anstreben]], [[Strebsamkeit]], [[strebsam]]
+[[Streben]], [[bestreben]], [[Anstreben]], [[Strebsamkeit]], [[strebsam]]

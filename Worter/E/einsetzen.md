@@ -3,6 +3,8 @@
 ---
 [[einsetzen|Setzen]] Sie die richtigen Wörter in die Lücken im Satz ein.
 
+[[3 Soll man Geld spenden?#^7|^]] Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine `gemeinnützige | ehrenamtlich` Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit [[einsetzt]]. ^7
+
 Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[einsetzen]]. Und [[darüber]] [[freuen]] sich die [[wenigsten]].
 
 ---

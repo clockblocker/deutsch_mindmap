@@ -11,4 +11,4 @@ Herr W.:  Ja, der Umschlag ist noch da,   aber das Geld ist [[nicht mehr]] drin.
 [[Weniger ist mehr]]
 , [[bald]], [[Je mehr]], [[mehrheitlich]], [[Mehrheitswahlrecht]], [[mehrere]]
 , [[viel]]
-, [[Mehrheit]]
+, [[Mehrheit]], [[Mehrwert]]

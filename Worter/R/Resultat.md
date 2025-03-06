@@ -1,1 +1,1 @@
-, [[Ergebnis]], [[Abschluss]]
+, [[Ergebnis]], [[Abschluss]], [[Ernte]]

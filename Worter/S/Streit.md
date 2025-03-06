@@ -24,4 +24,4 @@ Morphems:
 
 ---
 #Substantiv #Maskulin 
-, [[schlichten]], [[Abkommen]], [[Einigkeit]], [[Anki]]
+, [[schlichten]], [[Abkommen]], [[Einigkeit]], [[Anki]], [[Konsens]]

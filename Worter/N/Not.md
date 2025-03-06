@@ -23,4 +23,4 @@ Morphems:
 [[Not]]
 
 ---
-#Substantiv #Feminin, [[Notfall]], [[Notwendigkeit]]
+#Substantiv #Feminin, [[Notfall]], [[Notwendigkeit]], [[Wohlstand]]

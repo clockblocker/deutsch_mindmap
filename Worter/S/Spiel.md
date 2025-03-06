@@ -1,2 +1,2 @@
 [[spielen]], [[Spielkarten]], [[Spielzug]], [[anspielen]]
-, [[Schularbeit]], [[verspielen]]
+, [[Schularbeit]], [[verspielen]], [[Brettspiel]]

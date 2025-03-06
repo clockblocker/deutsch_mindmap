@@ -1,1 +1,1 @@
-, [[Fachmann]], [[Anfänger]]
+, [[Fachmann]], [[Anfänger]], [[Hobbybäuerin]]

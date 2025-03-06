@@ -23,4 +23,4 @@ G: der [[Deutung]], der [[Deutungen]]
 D: der [[Deutung]], den [[Deutungen]]  
 
 ---
-[[deuten]], [[deutlich]], [[bedeuten]], [[bedeutsam]], [[undeutlich]]
+[[deuten]], [[deutlich]], [[bedeuten]], [[bedeutsam]], [[undeutlich]], [[eindeutig]]

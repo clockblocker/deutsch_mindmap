@@ -1,1 +1,1 @@
-, [[gierig]], [[neidisch]], [[gemein]], [[knapp]], [[geldgierig]]
+, [[gierig]], [[neidisch]], [[gemein]], [[knapp]], [[geldgierig]], [[wohltätig]]

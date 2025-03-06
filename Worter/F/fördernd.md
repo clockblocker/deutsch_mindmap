@@ -1,1 +1,1 @@
-, [[fördern]], [[zugunsten]]
+, [[fördern]], [[zugunsten]], [[gemeinnützig]]

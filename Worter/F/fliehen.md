@@ -1,1 +1,1 @@
-, [[ausreißen]], [[hinterherlaufen]], [[entwischen]], [[zurennen]], [[entspringen]]
+, [[ausreißen]], [[hinterherlaufen]], [[entwischen]], [[zurennen]], [[entspringen]], [[hinauslaufen]]

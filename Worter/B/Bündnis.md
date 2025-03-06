@@ -1,1 +1,1 @@
-, [[Vereinigung]], [[Zusammenschluss]], [[Alliierte]]
+, [[Vereinigung]], [[Zusammenschluss]], [[Alliierte]], [[Gemeinschaft]]

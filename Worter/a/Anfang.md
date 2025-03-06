@@ -23,4 +23,4 @@ G: des [[Anfangs]], der [[Anfänge]]
 D: dem [[Anfang]], den [[Anfängen]]  
 
 ---
-[[anfangen]], [[anfänglich]], [[Anfänger]], [[Anfangsbuchstabe]], [[Anfangsphase]], [[Anki]], [[Strecke]]
+[[anfangen]], [[anfänglich]], [[Anfänger]], [[Anfangsbuchstabe]], [[Anfangsphase]], [[Anki]], [[Strecke]], [[Abspann]]

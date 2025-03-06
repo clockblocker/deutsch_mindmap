@@ -1,1 +1,1 @@
-, [[Gewissensfreiheit]], [[gewiss]], [[Verantwortung]]
+, [[Gewissensfreiheit]], [[gewiss]], [[Verantwortung]], [[bestreben]]🟢 das [[Gewissen]] 😇

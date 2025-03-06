@@ -27,4 +27,4 @@ PI: [[trachtend]], PII: [[getrachtet]], Zu+inf: [[zu trachten]]
 [[trachten]] - clear root
 
 ---
-[[Trachten]], [[Trachtenkleid]], [[trachtend]], [[Bestreben]], [[Zielstrebigkeit]]
+[[Trachten]], [[Trachtenkleid]], [[trachtend]], [[bestreben]], [[Zielstrebigkeit]]

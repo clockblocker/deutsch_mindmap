@@ -1,1 +1,1 @@
-, [[fehlerhaft]], [[standhaft]], [[verhaften]], [[haften]], [[zaghaft]], [[Verhaftungen]]
+, [[fehlerhaft]], [[standhaft]], [[verhaften]], [[haften]], [[zaghaft]], [[Verhaftungen]], [[vorteilhaft]]

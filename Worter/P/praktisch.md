@@ -1,3 +1,3 @@
 , [[sinnvoll]], [[Nützliches]]
 , [[gelegen]]
-, [[verträumt]]
+, [[verträumt]], [[vorteilhaft]]

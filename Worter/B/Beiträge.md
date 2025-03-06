@@ -1,1 +1,2 @@
-, [[Steuern]], [[Vereinsbeitrag]]
+, [[Steuern]], [[Vereinsbeitrag]]🔵 der [[Beitrag]] ✍️
+🔵 der [[Beitrag]] ✍️

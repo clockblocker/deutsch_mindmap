@@ -1,2 +1,2 @@
 
-, [[befreunden]]
+, [[befreunden]], [[gesellschaftlich]]

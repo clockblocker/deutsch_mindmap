@@ -1,1 +1,1 @@
-, [[gierig]], [[Sozial]]
+, [[gierig]], [[Sozial]], [[wohltätig]]

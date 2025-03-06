@@ -1,1 +1,1 @@
-, [[Nachteile]], [[Schädliches]], [[widrig]]
+, [[Nachteile]], [[Schädliches]], [[widrig]], [[vorteilhaft]]

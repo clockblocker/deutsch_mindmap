@@ -1,0 +1,2 @@
+🎯 [[bestreben]] | 🎯 [[bestrebt]]
+, [[bestreben]]

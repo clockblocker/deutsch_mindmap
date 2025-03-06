@@ -1,2 +1,2 @@
 
-, [[streben]]
+, [[streben]], [[bestreben]]

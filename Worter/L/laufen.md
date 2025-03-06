@@ -33,4 +33,4 @@ PI: [[laufend]], PII: [[gelaufen]], Zu+inf: [[zu laufen]]
 [[Läufer]], [[Lauf]], [[laufend]], [[Laufstrecke]], [[Laufband]], [[anlaufen]], [[verlaufen]]
 
 , [[gehen]], [[stolpern]]
-, [[s1 e1]]
+, [[s1 e1]], [[hinauslaufen]]

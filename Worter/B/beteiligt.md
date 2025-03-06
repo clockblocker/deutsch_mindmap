@@ -1,1 +1,1 @@
-🤝 [[beteiligen]] | 😌 [[beteiligt]], [[s1 e1]]
+🤝 [[beteiligen]] | 😌 [[beteiligt]], [[s1 e1]], [[Beteiligung]]

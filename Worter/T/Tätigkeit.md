@@ -4,6 +4,9 @@ die [[Tätigkeiten]]
 ---
 Und sie stören die Konzentration auf die [[Tätigkeit]], die wir gerade [[ausüben]].
 
+[[3 Soll man Geld spenden?#^11|^]] Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]. ^11
+
+
 [[2 ADHD.md#^6|(q)]] Ich lasse mich bei [[Tätigkeiten]] leicht [[ablenken]]. ^6
 
 [[3 ADHD.md#^4|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich ein [[geringes]] [[Durchhaltevermögen]], [[abbrechen|brach]] ich [[Tätigkeiten]] vor deren [[Beendigung]] ab. ^5

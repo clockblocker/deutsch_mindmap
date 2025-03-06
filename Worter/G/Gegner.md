@@ -1,2 +1,2 @@
 , [[Feind]], [[Alliierte]], [[Gegnern]]
-, [[Begleiter]]
+, [[Begleiter]], [[Liebhaber]]

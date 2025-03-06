@@ -1,2 +1,2 @@
 , [[Begegnung]], [[Verbindung]], [[verlinkungen]]
-, [[Beziehung]], [[Teamfähigkeit]]
+, [[Beziehung]], [[Teamfähigkeit]], [[Gemeinschaft]]

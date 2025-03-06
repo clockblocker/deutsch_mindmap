@@ -49,4 +49,4 @@
 , [[streben]]
 , [[aufpassen]]
 , [[befreunden]]
-, [[gewöhnen]], [[verschmutzen]], [[auflegen]], [[vermarkten]], [[abheben]], [[gelangen]], [[Geschäftsidee]], [[anwerben]], [[widmen]], [[einladen]], [[bellen]], [[verbreiten]], [[verabschieden]], [[plagen]], [[unbändig]], [[herausfinden]], [[abschrecken]], [[verspielen]], [[zugucken]], [[ergeben]], [[profilieren]], [[vorweisen]], [[zunehmen]], [[erweisen]], [[forschen]]
+, [[gewöhnen]], [[verschmutzen]], [[auflegen]], [[vermarkten]], [[abheben]], [[gelangen]], [[Geschäftsidee]], [[anwerben]], [[widmen]], [[einladen]], [[bellen]], [[verbreiten]], [[verabschieden]], [[plagen]], [[unbändig]], [[herausfinden]], [[abschrecken]], [[verspielen]], [[zugucken]], [[ergeben]], [[profilieren]], [[vorweisen]], [[zunehmen]], [[erweisen]], [[forschen]], [[besagen]], [[einbringen]], [[bestreben]], [[hinauslaufen]]

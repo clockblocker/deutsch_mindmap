@@ -6,4 +6,4 @@
 , [[versehentlich]]
 , [[innerlich]]
 , [[pünktlich]]
-, [[erforderlich]], [[allmählich]]
+, [[erforderlich]], [[allmählich]], [[gesellschaftlich]]

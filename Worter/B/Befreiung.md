@@ -24,4 +24,4 @@ G: der [[Befreiung]], der [[Befreiungen]]
 D: der [[Befreiung]], den [[Befreiungen]]  
 
 ---
-[[befreien]], [[befreit]], [[Befreier]], [[befreiend]], [[Befreiungskampf]], [[Prüfung]], [[Verantwortung]]
+[[befreien]], [[befreit]], [[Befreier]], [[befreiend]], [[Befreiungskampf]], [[Prüfung]], [[Verantwortung]], [[Kirchenzehnt]]

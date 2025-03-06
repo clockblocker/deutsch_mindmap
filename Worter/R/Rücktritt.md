@@ -1,1 +1,1 @@
-, [[Kündigung]], [[Beitritt]]
+, [[Kündigung]], [[Beitritt]], [[Beitrag]]

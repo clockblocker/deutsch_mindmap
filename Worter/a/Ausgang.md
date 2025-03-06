@@ -15,4 +15,4 @@ Synonyme:
 
 ---
 #Substantiv #Masculine
-, [[Ergebnis]], [[Tür]]
+, [[Ergebnis]], [[Tür]], [[Ernte]], [[Zugang]]

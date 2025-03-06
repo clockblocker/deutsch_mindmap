@@ -18,4 +18,4 @@ Morpheme:
 [[hin]][[aus]]
 
 ---
-#Adverb #Präposition
+#Adverb #Präposition, [[hinauslaufen]]

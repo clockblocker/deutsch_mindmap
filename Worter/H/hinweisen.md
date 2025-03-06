@@ -31,4 +31,4 @@ PI: [[hinweisend]], PII: [[hingewiesen]], Zu+inf: [[hinzuweisen]]
 [[hinweisen]] - [[hin]] = [[weisen]] / to point out, to indicate
 
 ---
-[[Hinweis]], [[hinweisend]], [[Hinweisschild]], [[hinweisbar]], [[aufzeigen]]
+[[Hinweis]], [[hinweisend]], [[Hinweisschild]], [[hinweisbar]], [[aufzeigen]], [[besagen]]

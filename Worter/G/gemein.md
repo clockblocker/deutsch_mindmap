@@ -26,4 +26,4 @@ P: [[gemeinen]], [[gemeineren]], [[gemeinsten]]
 ---
 [[Gemeinheit]], [[gemeinerweise]], [[gemeinschaftlich]], [[vergemeinschaften]]
 
-, [[gemeinsam]], [[Gemeinde]], [[Allgemeine]], [[allgemein]], [[Religionsgemeinschaft]], [[einzigartig]]
+, [[gemeinsam]], [[Gemeinde]], [[Allgemeine]], [[allgemein]], [[Religionsgemeinschaft]], [[einzigartig]], [[gemeinnützig]]

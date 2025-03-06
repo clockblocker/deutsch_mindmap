@@ -1,2 +1,2 @@
 , [[schaden]]
-, [[gut]]
+, [[gut]], [[vorteilhaft]]

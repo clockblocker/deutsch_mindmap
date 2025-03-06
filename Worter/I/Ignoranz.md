@@ -1,2 +1,2 @@
 , [[Stolpersteine]], [[Gedenktag]], [[Behandlung]], [[Hinweis]], [[Untersuchung]], [[Prüfung]], [[Erkenntnis]], [[Erlernung]]
-, [[Aufmerksamkeit]], [[Einschätzung]], [[Anwendung]]
+, [[Aufmerksamkeit]], [[Einschätzung]], [[Anwendung]], [[Beteiligung]]

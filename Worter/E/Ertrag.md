@@ -1,1 +1,1 @@
-, [[Verlust]], [[Gewinn]], [[Frucht]]
+, [[Verlust]], [[Gewinn]], [[Frucht]], [[Ernte]], [[Mehrwert]]

@@ -1,1 +1,1 @@
-, [[verbieten]], [[erlaubt]], [[Erlaubnis]], [[Grundrecht]], [[verbannen]], [[Genehmigung]], [[Gaststättenerlaubnis]]
+, [[verbieten]], [[erlaubt]], [[Erlaubnis]], [[Grundrecht]], [[verbannen]], [[Genehmigung]], [[Gaststättenerlaubnis]], [[Zugang]]

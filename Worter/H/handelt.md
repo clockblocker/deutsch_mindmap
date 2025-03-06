@@ -1,1 +1,1 @@
-[[handeln]], [[Anki]]
+[[handeln]], [[Anki]], [[bedürftig]]

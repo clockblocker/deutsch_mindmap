@@ -1,1 +1,1 @@
-, [[Ährenkranz]], [[Erntedankfest]]
+, [[Ährenkranz]], [[Erntedankfest]], [[Hobbybäuerin]]

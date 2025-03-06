@@ -1,1 +1,1 @@
-, [[Tätigkeit]], [[Handlung]], [[Maßnahme]], [[lassen]], [[Bemühung]], [[Bewegung]], [[Durchsetzungsvermögen]]
+, [[Tätigkeit]], [[Handlung]], [[Maßnahme]], [[lassen]], [[Bemühung]], [[Bewegung]], [[Durchsetzungsvermögen]], [[Beteiligung]]

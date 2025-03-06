@@ -1,1 +1,1 @@
-[[herein]][[kommen]]
+[[herein]][[kommen]], [[hinauslaufen]]

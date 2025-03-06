@@ -4,6 +4,9 @@ die [[Pflichten]]
 ---
 Jetzt ist Schluss. Genug gespielt. Katara, denk dran, du hast [[Pflichten]].
 
+[[3 Soll man Geld spenden?#^4|^]] Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja". ^4
+
+
 23. An demokratischen Wahlen in Deutschland teilzunehmen ist … (89%)
 	- [ ] eine [[Pflicht]].
 	- [x] ein [[Recht]].

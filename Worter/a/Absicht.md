@@ -27,4 +27,4 @@ D: der [[Absicht]], den [[Absichten]]
 ---
 [[absichtlich]], [[beabsichtigen]], [[unabsichtlich]], [[absichtslos]], [[Versehen]], [[Einflussnahme]], [[Begebenheit]]
 , [[Flüchtigkeitsfehler]]
-, [[Sorgfaltsfehler]]
+, [[Sorgfaltsfehler]], [[bestreben]]

@@ -3,7 +3,7 @@ die [[Freundinnen]]
 
 
 ---
-[[3#^14|^]] Eine Freundin, die sich an einem Nachmittag als Erntehelferin beteiligt hatte, wurde von einer Wespe ins Ohr gestochen und musste sich in ärztliche Behandlung begeben. ^14
+[[3  Ein Selbstversuch als Hobbybäuerin#^14|^]] Eine Freundin, die sich an einem Nachmittag als Erntehelferin beteiligt hatte, wurde von einer Wespe ins Ohr gestochen und musste sich in ärztliche Behandlung begeben. ^14
 
 
 ---

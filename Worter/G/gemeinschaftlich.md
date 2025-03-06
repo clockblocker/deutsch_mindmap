@@ -1,1 +1,1 @@
-, [[gemeinsam]], [[öffentlich]], [[gemein]], [[Wirtschaftsgemeinschaft]], [[Sozial]]
+, [[gemeinsam]], [[öffentlich]], [[gemein]], [[Wirtschaftsgemeinschaft]], [[Sozial]], [[gesellschaftlich]], [[Gemeinschaft]]

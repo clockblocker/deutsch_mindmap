@@ -1,1 +1,1 @@
-, [[Hilfsverb]], [[Sozial]]
+, [[Hilfsverb]], [[Sozial]], [[wohltätig]]

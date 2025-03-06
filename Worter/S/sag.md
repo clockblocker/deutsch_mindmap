@@ -1,1 +1,1 @@
-, [[vorhersagen]], [[sagen]], [[aussagen]]
+, [[vorhersagen]], [[sagen]], [[aussagen]], [[besagen]]

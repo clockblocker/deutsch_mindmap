@@ -1,1 +1,1 @@
-, [[reichen]], [[erreichen]], [[erreichbar]]
+, [[reichen]], [[erreichen]], [[erreichbar]], [[Zugang]]

@@ -1,2 +1,2 @@
 das [[Ende]]  
-, [[endlich]], [[aufhören]], [[entstehen]]
+, [[endlich]], [[aufhören]], [[entstehen]], [[hinauslaufen]]

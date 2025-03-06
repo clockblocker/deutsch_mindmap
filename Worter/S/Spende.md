@@ -26,3 +26,4 @@ D: der [[Spende]], den [[Spenden]]
 
 ---
 [[spenden]], [[Spender]], [[Spendenaktion]], [[Spendenaufruf]], [[Spendenquittung]]
+, [[Kirchenzehnt]]

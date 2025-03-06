@@ -1,2 +1,2 @@
 , [[billig]], [[kostengünstig]], [[widrig]], [[teuer]]
-, [[gelegen]]
+, [[gelegen]], [[vorteilhaft]]

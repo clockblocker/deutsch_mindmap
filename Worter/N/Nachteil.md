@@ -1,2 +1,2 @@
 , [[Nachteile]], [[benachteiligen]]
-, [[Gelegenheit]]
+, [[Gelegenheit]], [[Mehrwert]], [[vorteilhaft]]

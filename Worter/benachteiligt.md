@@ -26,4 +26,4 @@ N: [[benachteiligtes]], [[benachteiligeres]], [[benachteiligtes]]
 P: [[benachteiligten]], [[benachteiligteren]], [[benachteiligsten]]  
 
 ---
-[[benachteiligen]], [[Benachteiligung]], [[Gleichberechtigung]], [[diskriminieren]], [[zurücksetzen]]
+[[benachteiligen]], [[Benachteiligung]], [[Gleichberechtigung]], [[diskriminieren]], [[zurücksetzen]], [[bedürftig]]

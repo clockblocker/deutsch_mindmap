@@ -1,1 +1,1 @@
-[[liebsten]], [[verlieben]], [[liebgewinnen]]
+[[liebsten]], [[verlieben]], [[liebgewinnen]], [[Liebhaber]]
