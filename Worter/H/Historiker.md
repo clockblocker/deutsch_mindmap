@@ -23,4 +23,4 @@ Plural: [[Historiker]], [[Historikern]]
 ---
 #Substantiv #Maskulin #Dativ #Plural
 
-Note: This is the dative plural form of "Historiker", which means "historians". In this form, it would typically be used in a sentence like "Ich habe mit den Historikern gesprochen" (I spoke with the historians).
+Note: This is the dative plural form of "Historiker", which means "historians". In this form, it would typically be used in a sentence like "Ich habe mit den Historikern gesprochen" (I spoke with the historians)., [[Geschichtsbuch]]

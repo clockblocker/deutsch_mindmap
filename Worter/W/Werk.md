@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Werkes]], [[Werke]], [[Werken]]
 ---
 #Substantiv #Neutral
 , [[schaffen]], [[Werkzeug]], [[Arbeit]]
-, [[Werksgelände]]
+, [[Werksgelände]], [[Geschichtsbuch]]

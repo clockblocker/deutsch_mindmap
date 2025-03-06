@@ -1,1 +1,1 @@
-, [[Artikel]], [[Bildband]], [[Taschenbuch]]
+, [[Artikel]], [[Bildband]], [[Taschenbuch]], [[Geschichtsbuch]]

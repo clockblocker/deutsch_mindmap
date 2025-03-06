@@ -1,1 +1,1 @@
-, [[Recherchen]], [[Rechercheergbenis]], [[Zwischenergebnis]], [[Untersuchung]]
+, [[Recherchen]], [[Rechercheergbenis]], [[Zwischenergebnis]], [[Untersuchung]], [[Geschichtsbuch]]

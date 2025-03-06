@@ -2,8 +2,10 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "default-img-size",
-    "custom-links"
+    "custom-links",
+    "footnote"
   ],
   "translucency": false,
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "theme": "system"
 }

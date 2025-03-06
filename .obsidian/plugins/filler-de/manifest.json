@@ -1,9 +1,8 @@
 {
-	"id": "cbcr-filler-de",
-	"name": "Filler Deutsch",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Fills in your gaps of German knowledge",
+	"id": "cbcr-text-eater-de",
+	"name": "Textfresser",
+	"minAppVersion": "0.0.2",
+	"description": "Go trough the german texts, building your own dictionary from your personal contexts",
 	"author": "clockblocker",
 	"authorUrl": "https://github.com/clockblocker/",
 	"fundingUrl": "https://buymeacoffee.com/fniqc5g0nr",

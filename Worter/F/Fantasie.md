@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fantasie]], [[Fantasien]], [[Fantasien]], [[Fantasien]]
 
 ---
-#Substantiv #Feminin, [[Traum]]
+#Substantiv #Feminin, [[Traum]], [[Geschichtsbuch]]

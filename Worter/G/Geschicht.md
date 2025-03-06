@@ -1,1 +1,1 @@
-, [[Geschichtsunterricht]], [[Geschichte]]
+, [[Geschichtsunterricht]], [[Geschichte]], [[Geschichtsbuch]]

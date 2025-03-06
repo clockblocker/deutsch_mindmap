@@ -1,1 +1,1 @@
-, [[Tagebuch]], [[Geschichte]]
+, [[Tagebuch]], [[Geschichte]], [[Geschichtsbuch]]

@@ -4,7 +4,7 @@
 Dann kriegt der Frust uns nicht mehr [[klein]] ([[Kriegt uns klein]])
 
 ---
-= [[winzig]], [[gering]], [[mini]]
+= [[kompakt]], [[winzig]], [[gering]]
 ≈ [[niedrig]], [[schmal]], [[zierlich]], [[zart]], [[begrenzt]]
 ≠ [[groß]], [[riesig]], [[weit]], [[breit]]
 

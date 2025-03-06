@@ -1,24 +1,30 @@
-🔴 die [[Freundschaft]]
+🫂 🔴 die [[Freundschaft]], [ˈfʁɔɪ̯ntʃaft]
 die [[Freundschaften]]
 
-Beispiele:
-
-- Ihre [[Freundschaft]] ist seit der Schulzeit unzertrennlich.
-- Sie schlossen eine tiefe [[Freundschaft]].
-- Zwischen den beiden Völkern entstand eine langjährige [[Freundschaft]].
-
----
-Synonyme:
-- [[Kameradschaft]], [[Beziehung]], [[Verbindung]]
-
----
-**Übersetzung**: fship
-
 ---
 
-Morphems:
-[[Freund]][[Schaft]]
+---
+= [[Kameradschaft]], [[Freundschaftsband]]
+≈ [[Beziehung]], [[Verbindung]], [[Zuneigung]], [[Vertrautheit]]
+≠ [[Feindschaft]], [[Abneigung]], [[Hass]], [[Zerwürfnis]]
 
 ---
-#Substantiv #Feminin
-, [[befreunden]]
+friendship
+дружба
+
+---
+[[Freund]], [[Freundin]], [[befreunden]], [[freundlich]], [[freundschaftlich]]
+
+---
+[[Freund]]|[[schaft]]
+[[Freundschaft]]
+
+
+---
+N: die [[Freundschaft]], die [[Freundschaften]]  
+A: die [[Freundschaft]], die [[Freundschaften]]  
+G: der [[Freundschaft]], der [[Freundschaften]]  
+D: der [[Freundschaft]], den [[Freundschaften]]
+
+
+[[klein]]

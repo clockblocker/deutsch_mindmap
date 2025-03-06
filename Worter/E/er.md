@@ -15,4 +15,4 @@
 , [[Erschöpfung]]
 , [[Vermieter]]
 , [[Korkenzieher]]
-, [[erforderlich]], [[Gründer]], [[Mitbewerber]], [[Erhalt]], [[Aufsteiger]], [[Bewerber]], [[ergeben]], [[erweisen]]
+, [[erforderlich]], [[Gründer]], [[Mitbewerber]], [[Erhalt]], [[Aufsteiger]], [[Bewerber]], [[ergeben]], [[erweisen]], [[Geschichtsbuch]]
