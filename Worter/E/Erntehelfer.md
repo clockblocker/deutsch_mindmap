@@ -1,1 +1,1 @@
-, [[Ernte]]
+, [[Ernte]], [[Erntehelferin]], [[Erntemenge]]

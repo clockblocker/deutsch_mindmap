@@ -1,1 +1,1 @@
-, [[Zaun]], [[Gartenzaun]]
+, [[Zaun]], [[Gartenzaun]], [[Stadtmauer]]

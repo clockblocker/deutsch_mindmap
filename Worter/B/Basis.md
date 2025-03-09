@@ -1,2 +1,2 @@
 , [[Grundlage]], [[unten]], [[Basiswert]], [[Anfang]]
-, [[Grund]], [[grundlegend]], [[Grundvoraussetzung]]
+, [[Grund]], [[grundlegend]], [[Grundvoraussetzung]], [[Hauptursache]]

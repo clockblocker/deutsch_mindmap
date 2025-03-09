@@ -2,7 +2,7 @@ Nur wenigen [[gelingt]] es, sich von ihrem eigenen [[Schatten]] zu [[lösen]]: L
 
 Gleich ist es 20 Uhr. Der [[Theatersaal]] ist voll, das [[Stück]] ist [[ausverkauft]]. 
 
-Jonas hat gleich seinen ersten [[auftritt]]. Sie spielen „Wilhelm Tell“, und Jonas hat die [[Hauptrolle]].
+Jonas hat gleich seinen ersten [[Auftritt]]. Sie spielen „Wilhelm Tell“, und Jonas hat die [[Hauptrolle]].
 
 Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
  

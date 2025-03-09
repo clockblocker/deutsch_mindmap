@@ -48,4 +48,4 @@ Eines der Kinder hat sich beim Spielen [[verletzt]].
 
   
 Petra und Klaus kochen, sie bekommen [[Besuch]]
-, [[s1 e1]], [[lediglich]], [[Vorlage]], [[durchmogeln]]
+, [[s1 e1]], [[lediglich]], [[Vorlage]], [[durchmogeln]], [[anspruchsvoll]], [[banal]]

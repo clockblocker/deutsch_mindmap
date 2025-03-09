@@ -18,7 +18,7 @@ Antonyme: [[zweifeln]], [[ablehnen 1]], [[misstrauen]], [[bezweifeln]]
 to convince, to persuade
 
 ---
-[[über]][[zeug]][[en]]
+[[über]][[Zeug]][[en]]
    
 
 ---

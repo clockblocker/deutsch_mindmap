@@ -1,1 +1,1 @@
-, [[Anspruch]]
+, [[Anspruch]], [[anspruchsvoll]]

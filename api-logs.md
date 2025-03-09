@@ -43804,7 +43804,7 @@ N: [[entsprechendes]], [[entsprechenderes]], [[entsprechendstes]]
 P: [[entsprechenden]], [[entsprechenderen]], [[entsprechendsten]]
 
 ---
-[[entsprechen]], [[Sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
+[[entsprechen]], [[Worter/S/sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
 
                   ```
                   
@@ -61179,7 +61179,7 @@ D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]
 ---
 = [[verstummen]], [[schweigen]], [[erstarren]]
 ≈ [[schweigen]], [[verstummen]], [[erstarren]], [[abbricht]]
-≠ [[sprechen]], [[reden]], [[schreien]], [[lärmen]]
+≠ [[Worter/S/sprechen]], [[reden]], [[schreien]], [[lärmen]]
 
 ---
 to fall silent, to become silent

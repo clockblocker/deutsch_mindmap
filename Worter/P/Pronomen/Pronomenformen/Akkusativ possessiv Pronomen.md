@@ -37,3 +37,4 @@
 - Wir lieben [[Unsere]] Tiere.  
 - Ihr pflegt [[eure]] Pflanzen.  
 - Sie bewundern [[ihre]] Bilder.
+[[Pronomen]]

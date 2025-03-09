@@ -1,1 +1,1 @@
-, [[wagend]], [[wagen]]
+, [[wagend]], [[wagen]], [[risikoreich]]

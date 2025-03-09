@@ -1,1 +1,1 @@
-, [[Bedürfnis]]
+, [[Bedürfnis]], [[bedürfen]], [[dürfen]], [[bedürfnisorientiert]]

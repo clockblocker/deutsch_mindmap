@@ -1,4 +1,4 @@
- die [[Regel]], [ˈʁeːɡl̩]
+die [[Regel]], [ˈʁeːɡl̩]
 die [[Regeln]]
 
 ---
@@ -32,4 +32,4 @@ Bedeutungen:
 Beispielsätze:
 - "Die Regel besagt, dass man pünktlich sein soll."
 - "Es gibt immer Ausnahmen von der Regel."
-- "Die Grammatikregel hilft beim richtigen Schreiben.", [[zufrieren]], [[Ordnung]], [[Richtlinie]], [[einhalten]]
+- "Die Grammatikregel hilft beim richtigen Schreiben.", [[zufrieren]], [[Ordnung]], [[Richtlinie]], [[einhalten]], [[verbot]]

@@ -33,4 +33,4 @@ N: [[ehrliches]], [[ehrlicheres]], [[ehrlichstes]]
 P: [[ehrlichen]], [[ehrlicheren]], [[ehrlichsten]]  
 
 ---
-[[Ehrlichkeit]], [[ehrlich gesagt]], [[Ehre]], [[unehrlich]], [[ehrenwert]], [[Ehrlich]], [[unehrlicher]]
+[[Ehrlichkeit]], [[ehrlich gesagt]], [[Ehre]], [[unehrlich]], [[ehrenwert]], [[Ehrlich]], [[unehrlicher]], [[treulos]]

@@ -1,2 +1,2 @@
 , [[passen]], [[am besten]], [[passend]]
-, [[gelegen]]
+, [[gelegen]], [[bedürfnisorientiert]]

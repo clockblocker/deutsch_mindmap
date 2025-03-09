@@ -14,7 +14,7 @@ die [[Werkzeuge]]
 tool, instrument
 
 ---
-[[Werk]]|[[zeug]]
+[[Werk]]|[[Zeug]]
 
 ---
 N: das [[Werkzeug]], die [[Werkzeuge]]  

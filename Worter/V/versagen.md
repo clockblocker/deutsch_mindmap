@@ -1,3 +1,3 @@
 , [[leisten]], [[erfüllen]], [[schaffen]], [[Niederlage]], [[scheitern]], [[w-l]]
 , [[durchhalten]]
-, [[zusammenbrechen]], [[bemüht]]
+, [[zusammenbrechen]], [[bemüht]], [[Großtat]], [[Aufgabenerfüllung]], [[aufraffen]], [[standhalten]], [[bewältigen]], [[gönnen]]

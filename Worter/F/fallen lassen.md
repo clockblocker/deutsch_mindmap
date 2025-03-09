@@ -1,1 +1,1 @@
-, [[greifen]], [[fassen]], [[auffangen]], [[umwerfen]], [[stützen]], [[packen]]
+, [[greifen]], [[fassen]], [[auffangen]], [[umwerfen]], [[stützen]], [[packen]], [[schleppen]]

@@ -1,2 +1,2 @@
 , [[Privatgrundstück]]
-, [[Miete]], [[Ausleihsystem]], [[Eigenschaft]]
+, [[Miete]], [[Ausleihsystem]], [[Eigenschaft]], [[Grundstück]]

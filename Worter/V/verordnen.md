@@ -1,1 +1,1 @@
-, [[bestellt]], [[erlassen]], [[Bezirksverordnetenversammlung]]
+, [[bestellt]], [[erlassen]], [[Bezirksverordnetenversammlung]], [[selbstauferlegen]]

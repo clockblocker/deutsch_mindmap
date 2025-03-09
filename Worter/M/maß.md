@@ -1,3 +1,3 @@
 [[messen]]
 , [[Maßnahme]]
-, [[übermäßig]], [[messe]]
+, [[übermäßig]], [[messe]], [[gleichermaßen]]

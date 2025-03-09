@@ -1,1 +1,1 @@
-, [[Druck]], [[veröffentlichen]]
+, [[Druck]], [[veröffentlichen]], [[Zeitdruck]]

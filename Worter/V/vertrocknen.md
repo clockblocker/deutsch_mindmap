@@ -1,1 +1,1 @@
-, [[überquellen]]
+, [[überquellen]], [[sprießen]]

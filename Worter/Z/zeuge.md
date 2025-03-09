@@ -1,1 +1,1 @@
-, [[zeugen]], [[Angeklagte]], [[aussagen]]
+, [[zeugen]], [[Angeklagte]], [[aussagen]], [[Zeug]]

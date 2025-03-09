@@ -1,2 +1,2 @@
 , [[Landschaft]], [[Gebäude]]
-, [[Werksgelände]]
+, [[Werksgelände]], [[Grundstück]]

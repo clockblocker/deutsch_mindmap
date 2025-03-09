@@ -1,1 +1,1 @@
-, [[ermordet]], [[einschlagen]], [[bespritzen]]
+, [[ermordet]], [[einschlagen]], [[bespritzen]], [[erlegen]]

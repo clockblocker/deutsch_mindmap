@@ -19,4 +19,4 @@ Morphems:
 [[Apart]][[ment]]
 
 ---
-#Substantiv #Neuter, [[Geburtsort]]
+#Substantiv #Neuter, [[Geburtsort]], [[Bauernhof]], [[Schrebergarten]]

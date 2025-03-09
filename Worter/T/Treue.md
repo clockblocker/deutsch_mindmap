@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Treue]], [[Treuen]], [[Treuer]], [[Treuem]], [[Treuer]], [[Treuen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[treulos]]

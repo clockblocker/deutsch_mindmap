@@ -1,3 +1,3 @@
 , [[Ruh]], [[ausgeruht]], [[Arbeit]]
 , [[Anstrengung]]
-, [[erholen]], [[Urlaub]]
+, [[erholen]], [[Urlaub]], [[Muskelkater]], [[Schrebergarten]], [[Spaziergang]]

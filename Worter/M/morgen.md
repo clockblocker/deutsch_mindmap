@@ -1,4 +1,4 @@
 [[heute]]  
 [[morgen]]  
 [[gestern]]  
-, [[heut]], [[bald]]
+, [[heut]], [[bald]], [[Nachmittag]]

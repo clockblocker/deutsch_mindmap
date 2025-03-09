@@ -1,1 +1,1 @@
-, [[Wohltätigkeit]]
+, [[Wohltätigkeit]], [[Verschwendung]]

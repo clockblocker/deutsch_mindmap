@@ -1,3 +1,3 @@
 , [[Miethaus]]
 , [[Miete]]
-, [[Vermieter]]
+, [[Vermieter]], [[mieten]]

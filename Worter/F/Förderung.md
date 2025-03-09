@@ -1,1 +1,1 @@
-, [[Erzie­hung]], [[Erziehung]], [[fördern]], [[Unterstützung]], [[vorderen]], [[Mittelzuweisung]]
+, [[Erzie­hung]], [[Erziehung]], [[fördern]], [[Unterstützung]], [[vorderen]], [[Mittelzuweisung]], [[Patenschaft]]

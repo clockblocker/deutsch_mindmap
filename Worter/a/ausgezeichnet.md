@@ -1,2 +1,2 @@
 , [[hervorragend]], [[großartig]], [[geehrt]], [[Schlecht]]
-, [[gut]]
+, [[gut]], [[außergewöhnlich]]

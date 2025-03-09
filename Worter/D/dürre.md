@@ -1,1 +1,1 @@
-, [[trocken]], [[Regen]]
+, [[trocken]], [[Regen]], [[Erntemenge]]

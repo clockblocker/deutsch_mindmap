@@ -1,4 +1,4 @@
-das [[Spiel]][[zeug]]
+das [[Spiel]][[Zeug]]
 die [[Spielzeuge]]
 
 ---

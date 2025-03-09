@@ -1,1 +1,1 @@
-, [[Erlaubnis]], [[Genehmigung]], [[Gaststättenerlaubnis]]
+, [[Erlaubnis]], [[Genehmigung]], [[Gaststättenerlaubnis]], [[verbot]]

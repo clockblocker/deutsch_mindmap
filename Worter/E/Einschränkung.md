@@ -1,2 +1,2 @@
 , [[Auswahl]], [[Osterweiterung]], [[Grundrecht]], [[Gaststättenerlaubnis]], [[Versammlungsfreiheit]], [[Freizügigkeit]], [[Männerwahlrecht]], [[Behinderung]], [[einschränken]], [[Entfaltung]], [[Befreiung]], [[Vorbehalt]]
-, [[Ausbruch]]
+, [[Ausbruch]], [[verbot]], [[Autoverbot]]

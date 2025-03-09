@@ -1,1 +1,1 @@
-[[rund]], [[kontinuierlich]], [[regelmäßig]]
+[[rund]], [[kontinuierlich]], [[regelmäßig]], [[allwöchentlich]]

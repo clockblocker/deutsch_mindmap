@@ -60,7 +60,7 @@ Und was sah der Fischer: seine Frau saß wieder in ihren alten Kleidern vor der 
 2. Gestern kamen wir spät nach Hause ([[kommen]]).  
 3. Vorgestern gab sie mir eine Einladung ins Kino ([[geben]]).  
 4. Wer nahm meinen Stift? ([[nehmen]])  
-5. Sie sprachen gestern über Kunst ([[sprechen]]).  
+5. Sie sprachen gestern über Kunst ([[Worter/S/sprechen]]).  
 6. Vor [[kurzem]] last er diesen Artikel auf Deutsch ([[lesen]]).  
 7. Er trank Wasser aus der Flasche in der Küche ([[trinken]]).  
 8. Gestern ..... sie überhaupt nicht (essen).  

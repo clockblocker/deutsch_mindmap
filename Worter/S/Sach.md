@@ -1,1 +1,1 @@
-, [[Sache]], [[sachlich]]
+, [[Sache]], [[sachlich]], [[Hauptursache]]

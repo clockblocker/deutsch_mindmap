@@ -1,1 +1,1 @@
-, [[risse]]
+, [[risse]], [[stechen]]

@@ -1,2 +1,2 @@
 , [[seufzen]], [[heulen]], [[stöhnen]], [[jubeln]], [[weinen]], [[jauchzen]]
-, [[jammern]]
+, [[jammern]], [[froh]]

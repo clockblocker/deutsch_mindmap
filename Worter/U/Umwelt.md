@@ -24,4 +24,4 @@ Genitive: der [[Umwelt]], der [[Umwelten]]
 Dative: der [[Umwelt]], den [[Umwelten]]  
 
 ---
-[[umweltfreundlich]], [[umweltbewusst]], [[Umweltschutz]], [[Umweltverschmutzung]], [[Umweltpolitik]], [[Luftverschmutzung]]
+[[umweltfreundlich]], [[umweltbewusst]], [[Umweltschutz]], [[Umweltverschmutzung]], [[Umweltpolitik]], [[Luftverschmutzung]], [[Umweltbelastung]]

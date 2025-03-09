@@ -1,1 +1,1 @@
-, [[Ergebnisorientierung]]
+, [[Ergebnisorientierung]], [[bedürfnisorientiert]]

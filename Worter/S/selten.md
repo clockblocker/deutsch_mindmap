@@ -4,6 +4,8 @@ nicht [[häufig]]
 ---
 Wir [[zweifeln]] [[selten]]
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^16|^]] Andere Freunde riefen mich immer [[seltener]] an, weil sie [[befürchteten]], ich könnte sie um Hilfe bitten. ^16
+
 Das gibt es nur [[selten]]. Glück im Spiel und in der Liebe haben nur [[wenige]]
 
 Er bekommt sechs Zeitschriften, die 80 Euro im Monat kosten. Und er zahlt 60 Euro im Monat für ein Fitnessstudio, in das er zu [[selten]] geht. 
@@ -31,4 +33,4 @@ Superlativ: [[seltensten]]
 
 [[täglich]][[normal]], [[meist]], [[bald]], [[Öfteren]]
 , [[manchmal]], [[üblich]], [[tausendfach]], [[zweifeln]]
-, [[überwiegend]], [[einmalig]], [[einzigartig]]
+, [[überwiegend]], [[einmalig]], [[einzigartig]], [[außergewöhnlich]], [[allwöchentlich]]

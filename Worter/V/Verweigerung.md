@@ -1,2 +1,2 @@
 , [[Genehmigung]], [[Einwilligung]], [[Unterstützung]], [[Einverständnis]]
-, [[Auftrag]]
+, [[Auftrag]], [[verbot]]

@@ -1,1 +1,1 @@
-[[Treu]]
+[[Treu]], [[treulos]]

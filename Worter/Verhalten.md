@@ -3,6 +3,8 @@
 ---
 Du [[verhältst]] dich wie ein Kind.
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^39|^]] Was die [[Abstriche]] [[angeht]], so [[verhält]] es sich nicht anders. ^39
+
 Wissenschaftlerinnen [[untersuchen]] das [[Verhalten]] von Hunden.
 
 ---

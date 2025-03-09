@@ -25,5 +25,5 @@ N: [[entsprechendes]], [[entsprechenderes]], [[entsprechendstes]]
 P: [[entsprechenden]], [[entsprechenderen]], [[entsprechendsten]]
 
 ---
-[[entsprechen]], [[Sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
+[[entsprechen]], [[Worter/S/sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
 , [[jeweilig]]

@@ -1,3 +1,3 @@
 [[Worter/A/Alle]]
 
-[[Indefinitpronomen]], [[s1 e1]]
+[[Indefinitpronomen]], [[s1 e1]], [[insgesamt]]

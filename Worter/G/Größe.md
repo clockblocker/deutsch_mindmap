@@ -1,1 +1,1 @@
-, [[Anzahl]], [[Mengenangabe]]
+, [[Anzahl]], [[Mengenangabe]], [[Fläche]], [[Quadratmeter]]

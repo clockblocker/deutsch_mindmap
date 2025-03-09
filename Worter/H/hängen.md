@@ -35,4 +35,4 @@ Morpheme: [[hängen]]
 
 Partizip I: [[hängend]], Partizip II: [[gehangen]]
 
-, [[einhängen]], [[springen]], [[abhängen]], [[s1 e1]]
+, [[einhängen]], [[springen]], [[abhängen]], [[s1 e1]], [[Hang]]

@@ -1,1 +1,1 @@
-, [[gegliedert]]
+, [[gegliedert]], [[gliedern]]

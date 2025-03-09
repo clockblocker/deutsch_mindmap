@@ -1,1 +1,1 @@
-, [[unmöglich]]
+, [[unmöglich]], [[bewältigen]]

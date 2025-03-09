@@ -33,4 +33,4 @@ N: [[gleichzeitiges]], [[gleichzeitigeres]], [[gleichzeitigstes]]
 P: [[gleichzeitigen]], [[gleichzeitigeren]], [[gleichzeitigsten]]  
 
 ---
-[[Gleichzeitigkeit]], [[gleichzeitig sein]], [[zeitgleich]], [[synchronisieren]], [[wobei]]
+[[Gleichzeitigkeit]], [[gleichzeitig sein]], [[zeitgleich]], [[synchronisieren]], [[wobei]], [[gleichermaßen]]

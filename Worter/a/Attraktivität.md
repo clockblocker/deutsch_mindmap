@@ -1,1 +1,1 @@
-, [[Schönheit]]
+, [[Schönheit]], [[attraktiv]]

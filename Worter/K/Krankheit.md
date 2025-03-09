@@ -1,1 +1,1 @@
-, [[Fieber]]
+, [[Fieber]], [[krankheitsbedingt]]

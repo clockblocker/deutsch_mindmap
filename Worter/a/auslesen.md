@@ -27,4 +27,4 @@ PI: [[auslesend]], PII: [[ausgelesen]], Zu+inf: [[auszulesen]]
 [[auslesen]] - [[aus]] = [[lesen]] / to read out, to extract, to select
 
 ---
-[[Auslese]], [[Auslesung]], [[Leser]], [[leserlich]], [[lesbar]]
+[[Auslese]], [[Auslesung]], [[Leser]], [[leserlich]], [[lesbar]], [[rupfen]]

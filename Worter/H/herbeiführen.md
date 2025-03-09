@@ -1,2 +1,2 @@
 , [[ermöglichen]]
-, [[vermeiden]]
+, [[vermeiden]], [[verursachen]]

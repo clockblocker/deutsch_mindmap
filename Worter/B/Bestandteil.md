@@ -1,1 +1,1 @@
-, [[Erfolgsfaktor]]
+, [[Erfolgsfaktor]], [[bestehen]]

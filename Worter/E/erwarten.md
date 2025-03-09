@@ -38,3 +38,4 @@ Zu+infinifive: [[zu erwarten]]
 
 
 
+, [[bedürfen]]

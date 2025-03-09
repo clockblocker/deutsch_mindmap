@@ -1,1 +1,1 @@
-, [[zugeben]], [[beißen]], [[verbieten]], [[lassen]], [[wehrten]], [[erlauben]], [[Zulassungsgrenze]], [[hineinlassen]], [[ermöglichen]], [[gewähren]]
+, [[zugeben]], [[beißen]], [[verbieten]], [[lassen]], [[wehrten]], [[erlauben]], [[Zulassungsgrenze]], [[hineinlassen]], [[ermöglichen]], [[gewähren]], [[dürfen]], [[einlassen]]

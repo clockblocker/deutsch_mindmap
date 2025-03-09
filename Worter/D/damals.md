@@ -25,4 +25,4 @@ Morpheme:
 ---
 #Adverb #Temporaladverb, [[bald]]🕰️ [[damals]]
 
-, [[daß]], [[s1 e1]], [[Anki]]
+, [[daß]], [[s1 e1]], [[Anki]], [[heutzutage]]

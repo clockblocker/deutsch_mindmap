@@ -1,1 +1,1 @@
-, [[kern]], [[Hälfte]]
+, [[kern]], [[Hälfte]], [[Brennpunkt]]

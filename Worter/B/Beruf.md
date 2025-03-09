@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Berufs]], [[Berufe]], [[Berufen]]
 
 ---
-#Substantiv #Maskulin, [[erwerbstätig]], [[berufsbezogen]], [[Berufsinformationszentrum]], [[Ehrenamt]], [[Berufswahl]], [[Arbeit]], [[Bindungsurlaub]]
+#Substantiv #Maskulin, [[erwerbstätig]], [[berufsbezogen]], [[Berufsinformationszentrum]], [[Ehrenamt]], [[Berufswahl]], [[Arbeit]], [[Bindungsurlaub]], [[beruflich]]

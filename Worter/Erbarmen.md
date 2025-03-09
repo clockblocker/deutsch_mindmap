@@ -22,4 +22,4 @@ G: des [[Erbarmens]], der [[Erbarmungen]]
 D: dem [[Erbarmen]], den [[Erbarmungen]]  
 
 ---
-[[erbarmen]], [[erbarmungslos]], [[erbarmungswürdig]], [[barmherzig]]
+[[erbarmen]], [[erbarmungslos]], [[erbarmungswürdig]], [[barmherzig]], [[unerbittlich]]

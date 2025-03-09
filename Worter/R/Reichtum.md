@@ -1,1 +1,1 @@
-, [[reich]], [[reichen]], [[ausreichen]], [[Armut]], [[Reiche]], [[Wohlstand]]
+, [[reich]], [[reichen]], [[ausreichen]], [[Armut]], [[Reiche]], [[Wohlstand]], [[Vielfalt]]

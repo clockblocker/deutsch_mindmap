@@ -49,4 +49,4 @@ G: des [[Gesetzes]], der [[Gesetze]]
 D: dem [[Gesetz]], den [[Gesetzen]]  
 
 ---
-[[gesetzlich]], [[Gesetzgeber]], [[Gesetzgebung]], [[ungesetzlich]], [[Gesetzentwurf]], [[volljährig]], [[Faustrecht]], [[Strafgesetz]], [[gesetzgebend]]
+[[gesetzlich]], [[Gesetzgeber]], [[Gesetzgebung]], [[ungesetzlich]], [[Gesetzentwurf]], [[volljährig]], [[Faustrecht]], [[Strafgesetz]], [[gesetzgebend]], [[verbot]]

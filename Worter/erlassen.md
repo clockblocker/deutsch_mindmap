@@ -32,4 +32,4 @@ PI: [[erlassend]], PII: [[erlassen]], Zu+inf: [[zu erlassen]]
 
 ---
 [[Erlass]], [[Erlassung]], [[Verordnung]], [[Dekret]], [[gesetzlich]], [[verfügen]], [[recht]]
-, [[verzeihen]]
+, [[verzeihen]], [[auferlegen]]

@@ -1,2 +1,2 @@
 
-, [[Anstrengung]]
+, [[Anstrengung]], [[Schweinehund]]

@@ -1,2 +1,2 @@
 
-, [[verschwinden]]
+, [[verschwinden]], [[Verschwendung]]

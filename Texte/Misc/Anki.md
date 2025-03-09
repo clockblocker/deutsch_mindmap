@@ -263,7 +263,7 @@ Er kann sich nicht entscheiden, was er essen möchte.
 
 Auf dem Bildschirm erscheint ein [[seltsames]] Symbol
 
-Weil die Krankheit sehr [[häufig]] [[auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
+Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
 
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
@@ -275,7 +275,7 @@ Viele Länder [[gewähren]] die [[Aufnahme]] von [[Flüchtlingen]].
 
 Auf dem [[Bildschirm]] [[erscheint]] ein [[seltsames]] Symbol.
 
-Weil die Krankheit sehr [[häufig]] [[auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
+Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 
 Ärzte werden auch als Doktoren [[bezeichnet]].
 

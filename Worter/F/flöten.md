@@ -8,7 +8,7 @@
 ---
 = [[pfeifen]], [[singen]]
 ≈ [[musizieren]], [[melodieren]]
-≠ [[sprechen]], [[reden]], [[flüstern]], [[schreien]]
+≠ [[Worter/S/sprechen]], [[reden]], [[flüstern]], [[schreien]]
 
 ---
 to play the flute

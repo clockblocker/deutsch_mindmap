@@ -23,4 +23,4 @@ G: des [[Geruchs]], der [[Gerüche]]
 D: dem [[Geruch]], den [[Gerüchen]]  
 
 ---
-[[riechen]], [[Geruchssinn]], [[Duft]], [[Geruchsstoff]], [[aromatisch]]
+[[riechen]], [[Geruchssinn]], [[Duft]], [[Geruchsstoff]], [[aromatisch]], [[Körpergeruch]]

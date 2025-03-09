@@ -26,3 +26,4 @@ D: dem [[Vorbild]], den [[Vorbildern]]
 
 ---
 [[vor]], [[Bild]], [[vorbildlich]], [[Vorbildfunktion]], [[Vorbildrolle]]
+, [[Heldin]]

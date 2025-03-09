@@ -1,1 +1,1 @@
-, [[sein]], [[Deutschland]], [[Polizist]], [[hinauslaufen]]
+, [[sein]], [[Deutschland]], [[Polizist]], [[hinauslaufen]], [[resultieren]], [[geraten]], [[auftreten]]

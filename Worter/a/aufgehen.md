@@ -1,1 +1,1 @@
-, [[aufhören]], [[klappen]], [[öffnen]], [[w-l]]
+, [[aufhören]], [[klappen]], [[öffnen]], [[w-l]], [[sprießen]]

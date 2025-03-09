@@ -23,4 +23,4 @@ fundamental, basic
 Adjektive: [[grundlegend]], [[grundlegender]], [[grundlegendst]]
 
 ---
-[[grundlegender]], [[grundlegendes]], [[grundlegende]], [[grundlegenden]], [[grundlegendem]], [[grundlegenderer]], [[grundlegenderes]], [[grundlegendere]], [[grundlegenderen]], [[grundlegenderem]], [[grundlegendster]], [[grundlegendstes]], [[grundlegendste]], [[grundlegendsten]], [[grundlegendstem]], [[Grundvoraussetzung]]
+[[grundlegender]], [[grundlegendes]], [[grundlegende]], [[grundlegenden]], [[grundlegendem]], [[grundlegenderer]], [[grundlegenderes]], [[grundlegendere]], [[grundlegenderen]], [[grundlegenderem]], [[grundlegendster]], [[grundlegendstes]], [[grundlegendste]], [[grundlegendsten]], [[grundlegendstem]], [[Grundvoraussetzung]], [[Grundstück]]

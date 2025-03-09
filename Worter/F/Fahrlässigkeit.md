@@ -1,2 +1,2 @@
 , [[Vorsicht]]
-, [[Sorgfalt]]
+, [[Sorgfalt]], [[Nachlässigkeit]]

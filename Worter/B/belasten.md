@@ -1,3 +1,3 @@
 , [[anspannen]], [[ledig]], [[erleichtern]], [[leichtern]], [[Last]], [[anstrengen]], [[entspannen]]
 , [[zeihen]]
-, [[erholen]], [[verschmutzen]]
+, [[erholen]], [[verschmutzen]], [[überfordern]], [[Umweltbelastung]]

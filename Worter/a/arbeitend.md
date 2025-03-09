@@ -1,1 +1,1 @@
-, [[tätig]], [[erwerbstätig]]
+, [[tätig]], [[erwerbstätig]], [[beruflich]]

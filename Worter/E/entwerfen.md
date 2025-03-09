@@ -1,6 +1,9 @@
 🎨 [[entwerfen]], [ɛntˈvɛɐ̯fn̩] | [[entwarf]], haben [[entworfen]]
 
 ---
+[[4 Autofrei#^11|^]] Die Innenstädte wurden mit Auto-Priorität im Sinn [[entworfen]] seit den letzten 60-80 Jahren. 
+
+
 84. Welche [[Hauptaufgabe]] hat der deutsche [[Bundespräsident]] / die deutsche Bundespräsidentin? Er / Sie … (77%)
 	- [ ] regiert das Land.
 	- [ ] [[entwirft]] die [[Gesetze]].
@@ -31,4 +34,4 @@ PI: [[entwerfend]], PII: [[entworfen]], Zu+inf: [[zu entwerfen]]
 [[entwerfen]] - [[ent]] = [[werfen]] / to design, to draft, to conceive
 
 ---
-[[Entwurf]], [[Entwerfer]], [[Entwerferin]], [[Entwurfstechnik]], [[Designprozess]], [[zeichnen]]
+[[Entwurf]], [[Entwerfer]], [[Entwerferin]], [[Entwurfstechnik]], [[Designprozess]], [[zeichnen]], [[designen]]

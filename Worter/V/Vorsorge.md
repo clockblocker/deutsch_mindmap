@@ -1,1 +1,1 @@
-, [[Schutz]], [[Versicherung]], [[Rentenversicherung]], [[Lebensversicherung]], [[Vorbeugung]]
+, [[Schutz]], [[Versicherung]], [[Rentenversicherung]], [[Lebensversicherung]], [[Vorbeugung]], [[Notfallschutz]]

@@ -1,1 +1,1 @@
-[[hinaus]], [[draußen]], [[außerhalb]], [[innerhalb]], [[Innensenator]]
+[[hinaus]], [[draußen]], [[außerhalb]], [[innerhalb]], [[Innensenator]], [[Innenstadt]]

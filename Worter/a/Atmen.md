@@ -34,4 +34,4 @@ Morpheme: [[at]][[m]][[en]]
 
 Partizip I: [[atmend]], Partizip II: [[geatmet]]
 
-, [[Atmen]]
+, [[Atmen]], [[schnauben]]

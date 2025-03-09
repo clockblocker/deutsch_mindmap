@@ -1,3 +1,3 @@
 , [[Vergleich]], [[Produktrezension]]
 , [[Schularbeit]]
-, [[Selbsteinschätzung]], [[Einschätzung]]
+, [[Selbsteinschätzung]], [[Einschätzung]], [[bewerten]]

@@ -1,1 +1,1 @@
-, [[Einheitliche]], [[Gleichheit]], [[Ungleichheit]]
+, [[Einheitliche]], [[Gleichheit]], [[Ungleichheit]], [[Vielfalt]]

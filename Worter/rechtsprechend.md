@@ -31,4 +31,4 @@ N: [[rechtsprechendes]], [[rechtsprechenderes]], [[rechtsprechendstes]]
 P: [[rechtsprechend]], [[rechtsprechendernen]], [[rechtsprechendsten]]  
 
 ---
-[[Rechtsprechung]], [[Gericht]], [[Richter]], [[Recht]], [[sprechen]], [[Jurisdiktion]]
+[[Rechtsprechung]], [[Gericht]], [[Richter]], [[Recht]], [[Worter/S/sprechen]], [[Jurisdiktion]]

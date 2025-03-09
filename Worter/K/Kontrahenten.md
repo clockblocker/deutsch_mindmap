@@ -1,1 +1,1 @@
-, [[Alliierte]]
+, [[Alliierte]][[Kontrahent]]

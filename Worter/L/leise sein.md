@@ -1,1 +1,1 @@
-, [[schnarchen]], [[knallen]], [[knarren]]
+, [[schnarchen]], [[knallen]], [[knarren]], [[schnauben]]

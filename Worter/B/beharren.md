@@ -1,3 +1,3 @@
 , [[umentscheiden]], [[verzichten]]
 , [[weichen]]
-, [[durchhalten]]
+, [[durchhalten]], [[standhalten]]

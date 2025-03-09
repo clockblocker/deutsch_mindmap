@@ -4,6 +4,9 @@
 ###### 1
 _Alle Augen richten sich auf Zuko, der seinen Wachen mit einer Geste klar macht, Aang zu umstellen. Der Prinz begibt sich, wie Aang, auf Kampfposition. Aang wirbelt mit seinem Gleiter eine Menge Schnee hoch, den er durch Luftbändigen gezielt auf Zuko und seinen Männern niederlässt. Zuko lässt den Schnee auf sich schmelzen._ [[s1 e2.md######1|source]]
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^14|^]] Eine Freundin, die sich an einem [[Nachmittag]] als [[Erntehelferin]] [[beteiligt]] hatte, wurde von einer [[Wespe]] ins Ohr [[gestochen]] und musste sich in ärztliche [[Behandlung]] [[begeben]]. ^14
+
+
 ---
 = [[bewegen]], [[fortbewegen]], [[aufmachen]]
 ≈ [[gehen]], [[sich wenden]], [[sich richten]]

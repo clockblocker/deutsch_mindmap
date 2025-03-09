@@ -1,2 +1,2 @@
 , [[greifen]], [[fassen]], [[nehm]], [[entwischen]], [[fangen]], [[nehmen]], [[packen]]
-, [[auffangen]]
+, [[auffangen]], [[raffen]]

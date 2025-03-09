@@ -1,1 +1,1 @@
-, [[Verlust]], [[Schwäche]]
+, [[Verlust]], [[Schwäche]], [[Bilanz]]

@@ -31,4 +31,4 @@ Morpheme: [[aus]][[reiß]][[en]]
 
 Partizip I: [[ausreißend]], Partizip II: [[ausgerissen]]
 
-[[ausreißen]] - [[aus]] = [[reißen]], [[ausrissen]], [[wurzeln]]
+[[ausreißen]] - [[aus]] = [[reißen]], [[ausrissen]], [[wurzeln]], [[rupfen]]

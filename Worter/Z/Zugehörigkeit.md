@@ -1,1 +1,1 @@
-, [[Mitgliedschaft]], [[angehören]]
+, [[Mitgliedschaft]], [[angehören]], [[Abhängigkeit]]

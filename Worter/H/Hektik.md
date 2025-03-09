@@ -1,2 +1,2 @@
 [[Ruhe]]
-, [[Termindruck]]
+, [[Termindruck]], [[Zeitdruck]]

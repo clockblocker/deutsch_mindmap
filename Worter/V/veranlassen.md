@@ -1,0 +1,1 @@
+, [[resultieren]], [[verursachen]]

@@ -6,6 +6,9 @@ ja, da sah der [[Bursche]] nicht,
 also daß ein jeder ruft:  
 »Seht den Hanns [[Guck]]-in-die-Luft!«  
 
+Oder vielleicht stehen die Häuser in der Stadt zu [[dicht]] [[beieinander]] und es gibt keinen Platz für Bäume.
+
+
 ---
 = [[geschlossen]], [[undurchlässig]], [[kompakt]]
 ≈ [[verdichtet]], [[fest]], [[eng]], [[voll]], [[vollständig]], [[locker]], [[fern]],

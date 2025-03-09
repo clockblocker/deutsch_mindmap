@@ -1,1 +1,1 @@
-, [[Rentenversicherung]], [[Rentenberechnung]]
+, [[Rentenversicherung]], [[Rentenberechnung]], [[Rente]]

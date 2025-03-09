@@ -28,4 +28,4 @@ P: [[unaufmerksamen]], [[unaufmerksameren]], [[unaufmerksamsten]]
 
 ---
 [[Aufmerksamkeit]], [[aufmerksam]], [[Unaufmerksamkeit]]
-, [[ungestört]]
+, [[ungestört]], [[aufopfernd]]

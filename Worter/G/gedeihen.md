@@ -1,1 +1,1 @@
-, [[eingehen]], [[schwinden]], [[entstehen]], [[wachsen]], [[zunehmen]]
+, [[eingehen]], [[schwinden]], [[entstehen]], [[wachsen]], [[zunehmen]], [[Wachstum]], [[sprießen]]

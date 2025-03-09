@@ -1,1 +1,1 @@
-, [[Osterweiterung]], [[Verbreitung]], [[Entfaltung]], [[Rückzug]]
+, [[Osterweiterung]], [[Verbreitung]], [[Entfaltung]], [[Rückzug]], [[Wachstum]]

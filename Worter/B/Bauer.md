@@ -1,1 +1,1 @@
-, [[Dorfbewohner]], [[Müller]], [[Hobbybäuerin]]
+, [[Dorfbewohner]], [[Müller]], [[Hobbybäuerin]], [[Bauernhof]]

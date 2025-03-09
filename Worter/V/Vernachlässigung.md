@@ -1,1 +1,1 @@
-, [[Kindererziehung]], [[Erzie­hung]], [[Erziehung]], [[Behandlung]], [[Einhaltung]], [[Untersuchung]], [[Sanierung]], [[Anwendung]]
+, [[Kindererziehung]], [[Erzie­hung]], [[Erziehung]], [[Behandlung]], [[Einhaltung]], [[Untersuchung]], [[Sanierung]], [[Anwendung]], [[Patenschaft]], [[Nachlässigkeit]]

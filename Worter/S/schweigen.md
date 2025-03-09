@@ -11,7 +11,7 @@ Es war an einem Sommertag an der Ostsee in einem kleinen Calé. Ein Junge und ei
 ---
 = [[stillschweigen]], [[sich ausschweigen]], [[nichts sagen]]
 ≈ [[verstummen]], [[ruhig sein]], [[nichts verraten]]
-≠ [[reden]], [[sprechen]], [[erzählen]], [[kommunizieren]]
+≠ [[reden]], [[Worter/S/sprechen]], [[erzählen]], [[kommunizieren]]
 
 ---
 to be silent, to keep quiet

@@ -25,3 +25,4 @@ D: der [[Ebene]], den [[Ebenen]]
 ---
 [[eben]], [[ebenmäßig]], [[ebnen]], [[ebnend]]
 [[Seite]], [[Feld]], [[Stufe]]
+, [[Gebirge]], [[Hügel]], [[Hang]]

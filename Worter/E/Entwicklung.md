@@ -26,4 +26,4 @@ D: der [[Entwicklung]], den [[Entwicklungen]]
 
 ---
 [[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Anki]], [[Wendung]]
-, [[fehlentwicklung]], [[Karriere]]
+, [[fehlentwicklung]], [[Karriere]], [[Stadtentwicklung]]

@@ -1,1 +1,1 @@
-, [[sprechen]], [[ansprechen]], [[Ansprache 1]], [[versprechen]], [[Ansprechpartner]], [[Rechtsprechung]], [[rechtsprechend]], [[entsprechen]], [[aussprechen]], [[besprechen]]
+, [[Worter/S/sprechen]], [[ansprechen]], [[Ansprache 1]], [[versprechen]], [[Ansprechpartner]], [[Rechtsprechung]], [[rechtsprechend]], [[entsprechen]], [[aussprechen]], [[besprechen]]

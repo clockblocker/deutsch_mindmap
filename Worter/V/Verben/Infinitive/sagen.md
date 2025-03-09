@@ -9,7 +9,7 @@ haben [[gesagt]]
 
 **Synonyme:**
 
-- [[sprechen]], [[äußern]], [[erzählen]]
+- [[Worter/S/sprechen]], [[äußern]], [[erzählen]]
 
 ---
 

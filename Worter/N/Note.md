@@ -24,4 +24,4 @@ Einzigartige mögliche Formen:
 
 ---
 #Substantiv #Feminin
-, [[Duft]]
+, [[Duft]], [[Körpergeruch]]

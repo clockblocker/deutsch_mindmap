@@ -18,4 +18,4 @@ Morphems:
 [[Meld]][[er]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Masculin, [[melden]]

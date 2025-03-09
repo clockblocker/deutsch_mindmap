@@ -22,4 +22,4 @@ G: der [[Gefahr]], der [[Gefahren]]
 D: der [[Gefahr]], den [[Gefahren]]  
 
 ---
-[[gefährlich]], [[gefährden]], [[gefährten]], [[Gefahrenzone]], [[Gefahrenstufe]]
+[[gefährlich]], [[gefährden]], [[gefährten]], [[Gefahrenzone]], [[Gefahrenstufe]], [[Notfallschutz]]

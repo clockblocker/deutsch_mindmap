@@ -1,2 +1,2 @@
 , [[gehen]], [[s1 e1]], [[Flur]]
-, [[Gassi]], [[Studiengang]], [[Niedergang]]
+, [[Gassi]], [[Studiengang]], [[Niedergang]], [[Spaziergang]]

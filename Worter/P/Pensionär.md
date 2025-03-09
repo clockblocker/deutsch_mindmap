@@ -1,1 +1,1 @@
-, [[Rentner]], [[Nachwuchsmanager]]
+, [[Rentner]], [[Nachwuchsmanager]], [[Pension]]

@@ -36,4 +36,4 @@ Dative: dem [[Druck]], den [[Drücken]]
 ---
 [[drucken]], [[drückend]], [[Drucker]], [[Druckerei]], [[Drucksache]], [[besonders]], [[Zwang]], [[Zeichnung]], [[beeindrucken]], [[Einflussnahme]]
 , [[zudrücken]]
-, [[Termindruck]]
+, [[Termindruck]], [[Zeitdruck]]

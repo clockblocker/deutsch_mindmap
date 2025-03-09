@@ -2,4 +2,4 @@
 , [[Feier]]
 , [[Termindruck]]
 , [[Arbeitsauftrag]]
-, [[Beschäftigung]], [[Neugier]]
+, [[Beschäftigung]], [[Neugier]], [[Zeitdruck]]

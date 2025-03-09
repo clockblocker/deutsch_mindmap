@@ -1,1 +1,1 @@
-, [[Recherchen]], [[Studiengang]]
+, [[Recherchen]], [[Studiengang]], [[Studie]]

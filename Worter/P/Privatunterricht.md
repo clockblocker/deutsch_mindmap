@@ -1,1 +1,1 @@
-, [[Schulwesen]], [[Blockflötenunterricht]]
+, [[Schulwesen]], [[Blockflötenunterricht]], [[Schulklasse]]

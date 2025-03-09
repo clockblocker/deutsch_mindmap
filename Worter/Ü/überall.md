@@ -3,6 +3,8 @@
 ---
 «Aber in Hamburg,» - dachte er, - «kann man sicher auch genug Buddhas kaufen.» Und er suchte [[überall]], in allen Geschäften, in allen Straßen, auf allen Plätzen. [[14 perfekt#^6|(q)]]
 
+[[4 Autofrei#^1|^]] [[Heutzutage]] steht das Thema Autofreiheit der Innenstädte am [[Brennpunkt]] der Stadtpolitikdiskussionen [[überall]]. ^1
+
 »Entschuldigung, Herr Kommissar«, sagte Klaus Zeiser. »Ich habe noch nicht [[aufgeräumt]] - [[überall]] Sachen von der Party ...« [[15 genetiv#^9|(q)]]
 
 Zuerst [[schloss]] sie Freundschaft mit dem Hasen und [[begleitete]] ihn [[überall]] hin.
@@ -28,3 +30,4 @@ everywhere, all over, in all places
 ---
 [[überal]], [[überallhin]], [[überallher]]
 [[irgendwo]], [[bald]], [[weit und breit]]
+, [[heutzutage]]

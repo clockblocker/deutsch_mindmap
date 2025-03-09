@@ -13,7 +13,7 @@ die [[Vorhänge]]
 curtain, drape
 
 ---
-[[vor]]|[[hang]]
+[[vor]]|[[Hang]]
 
 ---
 N: der [[Vorhang]], die [[Vorhänge]]  

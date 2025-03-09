@@ -1,1 +1,1 @@
-, [[Parfum]], [[Duft]], [[Geruch]]
+, [[Parfum]], [[Duft]], [[Geruch]], [[Körpergeruch]]

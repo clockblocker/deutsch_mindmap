@@ -1,1 +1,1 @@
-, [[Wohngegend]]
+, [[Wohngegend]], [[Viertel]]

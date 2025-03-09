@@ -21,4 +21,4 @@ Einzigartige mögliche Formen:
 [[kostenlos]], [[kostenloser]], [[kostenlose]], [[kostenloses]], [[kostenlosen]], [[kostenlosem]], [[kostenloser]], [[kostenlosen]]
 [[kostenloser]], [[kostenloserer]], [[kostenlosere]], [[kostenloserem]], [[kostenloseren]], [[kostenloserer]], [[kostenloseren]]
 [[kostenlosesten]], [[kostenlosester]], [[kostenloseste]], [[kostenlosestes]], [[kostenlosesten]], [[kostenlosestem]], [[kostenlosester]], [[kostenlosesten]]
-, [[finanziell]], [[unbezahlt]]
+, [[finanziell]], [[unbezahlt]], [[geldlich]]

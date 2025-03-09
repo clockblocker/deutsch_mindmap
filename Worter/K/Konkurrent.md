@@ -1,2 +1,2 @@
 , [[Gegnern]]
-, [[Konkurrenz]], [[Mitbewerber]], [[Bewerber]]
+, [[Konkurrenz]], [[Mitbewerber]], [[Bewerber]], [[Kontrahent]]

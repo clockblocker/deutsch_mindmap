@@ -16,7 +16,7 @@ Als die beiden mit den Getränkekisten zurückkommen, [[unterhalten]] [[sie]] [[
 Ich [[unterhalte]] mich mit dem Verkaufer
 
 ---
-Synonyme: [[plaudern]], [[sprechen]], [[kommunizieren]], [[diskutieren]], [[schwatzen]]
+Synonyme: [[plaudern]], [[Worter/S/sprechen]], [[kommunizieren]], [[diskutieren]], [[schwatzen]]
 Antonyme: [[schweigen]], [[ignorieren]], [[abbrechen]]
 
 ---

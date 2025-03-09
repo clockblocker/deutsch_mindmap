@@ -1,2 +1,2 @@
 🚶‍♂️ [[treten]]
-, [[auftritt]], [[Beitritt]], [[s1 e1]]
+, [[Auftritt]], [[Beitritt]], [[s1 e1]], [[auftreten]]

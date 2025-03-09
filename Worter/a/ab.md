@@ -19,4 +19,4 @@ completely
 , [[abbrechen]]
 , [[abfahren]]
 , [[beabsichtigen]]
-, [[verabreden]], [[Abgas]], [[abheben]], [[bis zu]], [[abschrecken]], [[Abspann]]
+, [[verabreden]], [[Abgas]], [[abheben]], [[bis zu]], [[abschrecken]], [[Abspann]], [[Abstrich]], [[abarbeiten]], [[Abhängigkeit]], [[Autoabgas]]

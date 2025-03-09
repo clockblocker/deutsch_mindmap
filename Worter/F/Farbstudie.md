@@ -12,7 +12,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Farb]][[studie]]
+[[Farb]][[Studie]]
 
 ---
 Einzigartige mögliche Formen: [[Farbstudie]], [[Farbstudien]]

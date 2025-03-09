@@ -1,2 +1,2 @@
 , [[beobachten]], [[Vergleich]], [[untersuchen]], [[betrachten]], [[kritisieren]]
-, [[beurteilen]], [[forschen]]
+, [[beurteilen]], [[forschen]], [[bewerten]], [[auseinandersetzen]]

@@ -1,1 +1,1 @@
-, [[Je mehr]], [[zunehmen]]
+, [[Je mehr]], [[zunehmen]], [[Wachstum]]

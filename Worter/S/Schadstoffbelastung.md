@@ -1,1 +1,1 @@
-, [[Luftverschmutzung]]
+, [[Luftverschmutzung]], [[Umweltbelastung]]

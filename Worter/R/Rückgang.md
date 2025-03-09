@@ -1,1 +1,1 @@
-, [[Entwicklung]], [[Niedergang]]
+, [[Entwicklung]], [[Niedergang]], [[Wachstum]]

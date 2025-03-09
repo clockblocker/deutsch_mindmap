@@ -23,4 +23,4 @@ money-hungry, avaricious
 Adjektive: [[geldgierig]], [[geldgieriger]], [[geldgierigst]]
 
 ---
-[[geldgieriger]], [[geldgieriges]], [[geldgierige]], [[geldgierigen]], [[geldgierigem]], [[geldgierigerer]], [[geldgierigeres]], [[geldgierigere]], [[geldgierigeren]], [[geldgierigerem]], [[geldgierigster]], [[geldgierigstes]], [[geldgierigste]], [[geldgierigsten]], [[geldgierigstem]]
+[[geldgieriger]], [[geldgieriges]], [[geldgierige]], [[geldgierigen]], [[geldgierigem]], [[geldgierigerer]], [[geldgierigeres]], [[geldgierigere]], [[geldgierigeren]], [[geldgierigerem]], [[geldgierigster]], [[geldgierigstes]], [[geldgierigste]], [[geldgierigsten]], [[geldgierigstem]], [[geldlich]]

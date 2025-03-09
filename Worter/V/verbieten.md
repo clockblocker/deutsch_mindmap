@@ -33,4 +33,4 @@ Morpheme: [[ver]][[biet]][[en]]
 
 Partizip I: [[verbietend]], Partizip II: [[verboten]]
 
-[[verbieten]] - [[ver]] = [[bieten]], [[lassen]], [[gewähren]]
+[[verbieten]] - [[ver]] = [[bieten]], [[lassen]], [[gewähren]], [[dürfen]], [[gönnen]]

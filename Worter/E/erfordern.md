@@ -1,2 +1,2 @@
 
-, [[erforderlich]]
+, [[erforderlich]], [[bedürfen]], [[benötigen]]

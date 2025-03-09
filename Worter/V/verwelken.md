@@ -1,1 +1,1 @@
-, [[blühen]]
+, [[blühen]], [[sprießen]]

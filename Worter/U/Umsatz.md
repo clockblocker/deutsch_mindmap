@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Umsatzes]], [[Umsatz]], [[Umsätze]], [[Umsätzen]]
 
 ---
-#Substantiv #Maskulin, [[Umsatzsteuer]]
+#Substantiv #Maskulin, [[Umsatzsteuer]], [[umsetzen]]

@@ -30,3 +30,4 @@ D: [[viel]], [[mehr]], [[meist]]
 
 ---
 [[viele]], [[vielfach]], [[vielfältig]], [[Vielheit]], [[Vielzahl]]
+, [[Vielfalt]]

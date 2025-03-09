@@ -1,2 +1,2 @@
 die [[Farbe]]
-, [[Gründungsmitglied]], [[smaragdgrüner]]
+, [[Gründungsmitglied]], [[smaragdgrüner]], [[Grünfläche]]

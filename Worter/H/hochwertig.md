@@ -1,1 +1,1 @@
-, [[wertvoll]], [[teuer]]
+, [[wertvoll]], [[teuer]], [[anspruchsvoll]]

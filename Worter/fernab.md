@@ -25,4 +25,4 @@ Neuter: [[fernabs]], [[fernaberes]], [[fernabestes]]
 Plural: [[fernaben]], [[fernaberen]], [[fernabesten]]  
 
 ---
-[[Fernabgelegene]], [[fernabliegende]], [[Fernabstand]]
+[[Fernabgelegene]], [[fernabliegende]], [[Fernabstand]], [[fernhalten]]

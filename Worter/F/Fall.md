@@ -17,4 +17,4 @@ Frau Schulte sagt: „So kann es [[auf]] [[jeden]] [[Fall]] nicht [[weitergehen]
 #Noun
 #Masculin
 [[gefallen]], [[Tonfall]], [[fallen]], [[Umstand]], [[Überfall]], [[Glücksfälle]]
-, [[Wutanfall]]
+, [[Wutanfall]], [[Straßenunfall]], [[Todesfall]], [[Notfallschutz]]

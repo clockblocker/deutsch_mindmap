@@ -35,4 +35,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[verboten]], [[verbotene]], [[verbotenes]], [[verbotener]], [[verbotenem]], [[verbotenen]]
 [[verbotenerer]], [[verbotenere]], [[verboteneres]], [[verbotenerer]], [[verboteneren]], [[verboteneres]]
-[[verbotensten]], [[verbotenstem]], [[verbotenster]], [[verbotensten]]
+[[verbotensten]], [[verbotenstem]], [[verbotenster]], [[verbotensten]], [[verbot]]

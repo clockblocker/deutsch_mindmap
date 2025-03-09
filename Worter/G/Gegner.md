@@ -1,2 +1,2 @@
 , [[Feind]], [[Alliierte]], [[Gegnern]]
-, [[Begleiter]], [[Liebhaber]]
+, [[Begleiter]], [[Liebhaber]], [[Kontrahent]], [[Baumpate]], [[Pate]]

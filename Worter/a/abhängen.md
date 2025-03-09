@@ -33,4 +33,4 @@ Morpheme: [[ab]][[häng]][[en]]
 | Sie | [[hängen ab]] | [[hingen ab]] | [[hängen Sie ab]] | [[hängen ab]] | [[hingen ab]] |
 
 Partizip I: [[abhängend]], Partizip II: [[abgehangen]]
-[[abhängen]] - [[ab]] = [[hängen]], [[fernab]], [[s1 e1]]
+[[abhängen]] - [[ab]] = [[hängen]], [[fernab]], [[s1 e1]], [[Hang]], [[Abhängigkeit]]

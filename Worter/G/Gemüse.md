@@ -1,1 +1,1 @@
-, [[Gurke]], [[Kürbisse]], [[Frucht]]
+, [[Gurke]], [[Kürbisse]], [[Frucht]], [[Unkraut]], [[Radieschen]], [[Gemüseanbau]]

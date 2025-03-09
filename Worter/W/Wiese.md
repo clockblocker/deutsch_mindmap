@@ -26,4 +26,4 @@ Dative: der [[Wiese]], den [[Wiesen]]
 [[wiesen]], [[wiesig]], [[wiesenartig]], [[Wiesenblume]], [[Wiesenkraut]]
 
 , [[Wiesen]], [[Gras]], [[Feld]], [[Blumenwiese]]
-, [[weisen]]
+, [[weisen]], [[Acker]], [[Wildblumenwiese]], [[Rasenfläche]]

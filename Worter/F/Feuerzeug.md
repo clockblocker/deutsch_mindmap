@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Feuer]][[zeug]]
+[[Feuer]][[Zeug]]
 
 ---
 Einzigartige mögliche Formen: [[Feuerzeuge]], [[Feuerzeugs]], [[Feuerzeugem]], [[Feuerzeugen]]

@@ -1,3 +1,3 @@
 , [[Gebiet]]
 , [[Achse]]
-, [[pünktlich]]
+, [[pünktlich]], [[Fläche]], [[Brennpunkt]]

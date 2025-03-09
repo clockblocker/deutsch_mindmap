@@ -22,3 +22,4 @@ Accusative: den [[Eimer]], die [[Eimer]]
 Genitive: des [[Eimers]], der [[Eimer]]  
 Dative: dem [[Eimer]], den [[Eimern]] 
 
+, [[Gießkanne]]

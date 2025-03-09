@@ -5,6 +5,8 @@ haben [[ertragen]]
 ---
 Viele Tiere haben ein dickes Fell. Es hilft ihnen, starke Kälte und Wind zu [[ertragen]]
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^22|^]] Ich habe [[gebuddelt]], [[was das Zeug hielt]], und an besonders warmen Tagen konnte ich meinen [[Körpergeruch]] selbst kaum [[ertragen]]. ^22
+
 ---
 Synonyme: [[aushalten]], [[erdulden]], [[tolerieren]], [[akzeptieren 1]], [[durchstehen]]
 Antonyme: [[ablehnen 1]], [[verweigern]], [[aufgeben]], [[kapitulieren]]
@@ -32,4 +34,4 @@ Partizip I: [[ertragend]], Partizip II: [[ertragen]]
 
 
 [[stören]], [[leiden]], [[aushalten]]
-, [[ablehnen]], [[vertragen]], [[durchmachen]]
+, [[ablehnen]], [[vertragen]], [[durchmachen]], [[standhalten]]

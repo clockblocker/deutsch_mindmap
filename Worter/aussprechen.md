@@ -28,7 +28,7 @@ ihr: [[sprecht aus]], [[spracht aus]], [[sprecht aus]], [[sprechet aus]], [[spr√
 PI: [[aussprechend]], PII: [[ausgesprochen]], Zu+inf: [[auszusprechen]]
 
 ---
-[[aussprechen]] - [[aus]] = [[sprechen]] / to pronounce, to express, to articulate
+[[aussprechen]] - [[aus]] = [[Worter/S/sprechen]] / to pronounce, to express, to articulate
 
 ---
 [[Aussprache]], [[Ausdruck]], [[Sprechweise]], [[aussprechen]], [[aussprechbar]], [[besprechen]], [[gestehen]]

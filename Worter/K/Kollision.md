@@ -1,1 +1,1 @@
-, [[Zusammenstoß]], [[Verkehrsunfall]]
+, [[Zusammenstoß]], [[Verkehrsunfall]], [[Straßenunfall]]

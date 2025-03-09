@@ -1,1 +1,1 @@
-, [[Schutz]], [[wehren]], [[Verteidigungsposition]], [[verteidigen]], [[Überfall]]
+, [[Schutz]], [[wehren]], [[Verteidigungsposition]], [[verteidigen]], [[Überfall]], [[Stadtmauer]]

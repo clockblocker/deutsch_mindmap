@@ -1,2 +1,2 @@
 
-, [[Aufmerksamkeit]]
+, [[Aufmerksamkeit]], [[Brennpunkt]]

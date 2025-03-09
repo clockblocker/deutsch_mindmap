@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Blume]], [[Blumen]], [[Blume]], [[Blume]], [[Blume]], [[Blume]], [[Blume]], [[Blumen]]
 
 ---
-#Substantiv #Feminin, [[Rose]], [[Blumenwiese]], [[Veilchen]]
+#Substantiv #Feminin, [[Rose]], [[Blumenwiese]], [[Veilchen]], [[Unkraut]], [[Radieschen]]

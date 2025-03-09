@@ -22,4 +22,4 @@ G: des [[Blums]], der [[Blumen]]
 D: dem [[Blum]], den [[Blumen]] 
 
 ---
-blumig, blühen, Blumenstrauß
+blumig, blühen, Blumenstrauß, [[Wildblumenwiese]]

@@ -1,1 +1,1 @@
-, [[brennen]], [[verbrennen]]
+, [[brennen]], [[verbrennen]], [[Brennpunkt]]

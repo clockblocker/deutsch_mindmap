@@ -1,1 +1,1 @@
-, [[klappen]], [[aufgeben]]
+, [[klappen]], [[aufgeben]], [[resultieren]], [[aufraffen]]

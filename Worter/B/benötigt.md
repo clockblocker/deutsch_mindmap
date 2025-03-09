@@ -1,2 +1,2 @@
 , [[dien]]
-, [[erforderlich]]
+, [[erforderlich]]🧰 [[benötigen]]

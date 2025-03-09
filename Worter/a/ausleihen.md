@@ -28,4 +28,4 @@ PI: [[ausleihend]], PII: [[ausgeliehen]], Zu+inf: [[auszuleihen]]
 [[ausleihen]] - [[aus]] = [[leihen]] / to borrow, to lend out
 
 ---
-[[Ausleihe]], [[Ausleiher]], [[Ausleiherin]], [[Ausleihtermin]], [[Ausleihfrist]], [[Ausleihsystem]]
+[[Ausleihe]], [[Ausleiher]], [[Ausleiherin]], [[Ausleihtermin]], [[Ausleihfrist]], [[Ausleihsystem]], [[mieten]]

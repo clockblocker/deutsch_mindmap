@@ -1,1 +1,1 @@
-, [[Druck]], [[Anwesenheitspflicht]], [[aufliegen]], [[auflegen]]
+, [[Druck]], [[Anwesenheitspflicht]], [[aufliegen]], [[auflegen]], [[auferlegen]]

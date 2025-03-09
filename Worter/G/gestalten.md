@@ -31,4 +31,4 @@ Partizip I: [[gestaltend]], Partizip II: [[gestaltet]]
 [[gestalten]] - [[ge]] = [[stellen]]
 
 [[arrangieren]], [[bilden]]
-, [[erscheinen]], [[prägen]], [[malen]], [[verwandeln]]
+, [[erscheinen]], [[prägen]], [[malen]], [[verwandeln]], [[designen]]

@@ -49,8 +49,8 @@
 
 [[2 Unter Druck nach oben#^16|(q)]] Auch bei den wichtigsten persönlichen [[Eigenschaften]] der [[Anwärter]] auf [[Spitzenpositionen]] [[fordern]] die Firmen [[vorrangig]] [[weiche]] [[Werte]], [[sogenannte]] Soft Skills: Eigenmotivation, [[Teamfähigkeit]], [[Lernbereitschaft]] und [[Kommunikationsstärke]] liegen weit vorn. ^16 
 
-Sie `liegen` im Wettbewerb weit `vorn`, weil sie wichtig sind.
 
+Sie `liegen` im Wettbewerb weit `vorn`, weil sie wichtig sind.
 
 Sie sind wichtig, Weil Sie im Wettbewerb weit `vorn` `liegen`
 

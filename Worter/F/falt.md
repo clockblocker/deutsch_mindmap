@@ -1,2 +1,2 @@
 , [[Entfaltung]]
-, [[Sorgfalt]]
+, [[Sorgfalt]], [[Vielfalt]]

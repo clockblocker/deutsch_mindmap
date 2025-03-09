@@ -5,6 +5,10 @@ haben [[entschieden]]
 ---
 Er kann sich nicht [[entschieden]], was er essen möchte 
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^27|^]] So gesehen bin ich [[zumindest]] eine [[Ackerheldin]], die den Kampf für sich [[entscheiden]] konnte. ^27
+
+[[3  Ein Selbstversuch als Hobbybäuerin#^8|^]] Ich muss mich bis Ende Oktober [[entscheiden]], ob ich mein Stück Gartenland auch im nächsten Jahr wieder bestellen will. ^8
+
 3.	[[2 Unter Druck nach oben#^24|(q)]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine [[entscheidende]] Rolle. ^24
 
 Der Staat [[entscheidet]] [[über]] [[Gesetze]] und [[Steuern]].

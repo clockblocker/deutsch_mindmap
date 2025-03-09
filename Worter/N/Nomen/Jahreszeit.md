@@ -14,4 +14,4 @@ Translation:
 ---
 
 #Substantiv #Feminin 
-, [[Frühjahr]], [[Wetter]]
+, [[Frühjahr]], [[Wetter]], [[Saison]]

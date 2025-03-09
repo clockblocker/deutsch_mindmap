@@ -27,4 +27,4 @@ G: der [[Last]], der [[Lasten]]
 D: der [[Last]], den [[Lasten]]  
 
 ---
-[[lasten]], [[belasten]], [[entlasten]], [[schwer]], [[bürdenartig]], [[recht]], [[Lastenrad]]
+[[lasten]], [[belasten]], [[entlasten]], [[schwer]], [[bürdenartig]], [[recht]], [[Lastenrad]], [[Umweltbelastung]]

@@ -26,4 +26,4 @@ P: [[gelegenen]], [[gelegeneren]], [[gelegensten]]
 
 ---
 [[liegen]], [[Lage]], [[Gelegenheit]], [[gelegentlich]], [[gelegenheitsarbeit]]
-, [[Angelegenheit]]
+, [[Angelegenheit]], [[erlegen]]

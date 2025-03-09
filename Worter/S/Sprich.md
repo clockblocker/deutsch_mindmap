@@ -1,4 +1,4 @@
-[[sprechen]]
+[[Worter/S/sprechen]]
 
 
 , [[beziehungsweise]], [[nämlich]]

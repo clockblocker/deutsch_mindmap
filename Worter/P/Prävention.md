@@ -1,1 +1,1 @@
-, [[Vorbeugung]]
+, [[Vorbeugung]], [[Notfallschutz]]

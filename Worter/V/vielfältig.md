@@ -1,2 +1,2 @@
 , [[verschiedene]]
-, [[viel]]
+, [[viel]], [[Vielfalt]]

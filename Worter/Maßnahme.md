@@ -23,4 +23,4 @@ G: der [[Maßnahme]], der [[Maßnahmen]]
 D: der [[Maßnahme]], den [[Maßnahmen]]  
 
 ---
-[[maßnehmen]], [[maßnahmenbezogen]], [[Maßnahmenkatalog]], [[Präventivmaßnahme]]
+[[maßnehmen]], [[maßnahmenbezogen]], [[Maßnahmenkatalog]], [[Präventivmaßnahme]], [[verbot]], [[Autoverbot]]

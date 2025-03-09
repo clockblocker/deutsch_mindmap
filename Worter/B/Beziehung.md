@@ -31,3 +31,4 @@ D: der [[Beziehung]], den [[Beziehungen]]
 
 
 
+, [[Abhängigkeit]]

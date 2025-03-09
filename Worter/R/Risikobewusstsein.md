@@ -1,1 +1,1 @@
-, [[Risikobereitschaft]]
+, [[Risikobereitschaft]], [[risikoreich]]

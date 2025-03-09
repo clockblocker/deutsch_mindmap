@@ -14,7 +14,7 @@ Synonyme:
 airplane, aircraft
 
 ---
-[[Flug]][[zeug]]
+[[Flug]][[Zeug]]
 
 ---
 Case: Singular, Plural  

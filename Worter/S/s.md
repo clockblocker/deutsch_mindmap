@@ -3,4 +3,4 @@
 , [[Sorgfaltsfehler]]
 , [[Gefühlsausbruch]]
 , [[Stimmungsschwankung]]
-, [[Auftragslage]], [[Bindungsurlaub]], [[Bundestagsabgeordnete]], [[Wettbewerbsgesellschaft]], [[Führungskraft]], [[Beiersdorf]], [[Vertrauensschwund]], [[Betrugsmanöver]], [[Erfolgsfaktor]], [[Kommunikationsstärke]], [[Entscheidungsfreude]], [[Durchsetzungsvermögen]], [[Sondierungsgespräche]], [[Geschichtsbuch]]
+, [[Auftragslage]], [[Bindungsurlaub]], [[Bundestagsabgeordnete]], [[Wettbewerbsgesellschaft]], [[Führungskraft]], [[Beiersdorf]], [[Vertrauensschwund]], [[Betrugsmanöver]], [[Erfolgsfaktor]], [[Kommunikationsstärke]], [[Entscheidungsfreude]], [[Durchsetzungsvermögen]], [[Sondierungsgespräche]], [[Geschichtsbuch]], [[anspruchsvoll]], [[krankheitsbedingt]]

@@ -3,6 +3,9 @@
 ---
 12. Mein Bruder möchte uns heute [[unbedingt]] besuchen.  
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^6|^]] Nicht, weil ich [[unbedingt]] mit einer [[Großtat]] in die [[Geschichtsbuch]] eingehen wollte, sondern vor einer weiteren [[Herausforderung]] stehe. ^6
+
+
 Er hat ihr [[versprochen]], dass er einen [[echten]] alten Buddha [[unbedingt]] findet.  [[14 perfekt#^3|(q)]]
 
 | **Katara**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Wir müssen [[unbedingt]] dem Schiff [[folgen]], Sokka. Aang hat unseren Stamm [[gerettet]], jetzt müssen wir ihn retten!                                                                                                                                                                                                                                                       |

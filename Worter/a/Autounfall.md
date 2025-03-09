@@ -1,1 +1,1 @@
-, [[Verkehrsunfall]]
+, [[Verkehrsunfall]], [[Straßenunfall]]

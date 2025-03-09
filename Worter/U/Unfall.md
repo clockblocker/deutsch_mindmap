@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Unfalls]], [[Unfalle]], [[Unfälle]], [[Unfällen]]
 
 ---
-#Substantiv #Maskulin, [[Verkehrstote]], [[Verkehrsunfall]], [[Krise]]
+#Substantiv #Maskulin, [[Verkehrstote]], [[Verkehrsunfall]], [[Krise]], [[Straßenunfall]]

@@ -1,1 +1,1 @@
-[[wehtun]], [[verletzen]], [[zerbrechen]], [[Heiliger]], [[zerstörten]], [[rumhacken]]
+[[wehtun]], [[verletzen]], [[zerbrechen]], [[Heiliger]], [[zerstörten]], [[rumhacken]], [[stechen]]

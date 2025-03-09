@@ -1,2 +1,2 @@
 , [[Wirklichkeit]], [[Fähigkeiten]], [[Fähigkeit]], [[Tätigkeit]], [[Schwierigkeit]], [[Freizügigkeit]], [[Persönlichkeit]], [[Unantastbarkeit]], [[Dankbarkeit]], [[weltfremd]]
-, [[Aufmerksamkeit]], [[Teamfähigkeit]], [[Wohltätigkeit]]
+, [[Aufmerksamkeit]], [[Teamfähigkeit]], [[Wohltätigkeit]], [[Abhängigkeit]], [[Nachlässigkeit]]

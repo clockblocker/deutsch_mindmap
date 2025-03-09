@@ -29,3 +29,4 @@ D: dem [[Rat]], den [[Räten]]
 [[raten]], [[beratend]], [[Rathaus]], [[Ratgeber]], [[Ratschlag]], [[Hinweis]], [[Gemeinderat]], [[Ältestenrat]], [[Stadträte]], [[Landräte]]
 
 [[Vorschlag]], [[Ratschlag]], [[ratlos]], [[verheiraten]], [[Betriebsrat]], [[beraten]]
+, [[geraten]]

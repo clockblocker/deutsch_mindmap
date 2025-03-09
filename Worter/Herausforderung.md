@@ -4,6 +4,9 @@ die [[Herausforderungen]]
 ---
 [[1 Wer bin ich und was mache ich hier?#^12|(q)]] Diese Anwendung hat das Sprachenlernen für mich in ein spannendes Spiel und den politischen Druck in eine spannende [[Herausforderung]] [[verwandelt]]. ^12
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^6|^]] Nicht, weil ich [[unbedingt]] mit einer [[Großtat]] in die [[Geschichtsbuch]] eingehen wollte, sondern vor einer weiteren [[Herausforderung]] stehe. ^6
+
+
 [[1 Präpositionen Übungen.md#^8|(q)]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, ___ den [[Herausforderungen]] zu lernen. ^8
 
 [[1 ADHD#^9|(q)]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
@@ -26,4 +29,4 @@ G: der [[Herausforderung]], der [[Herausforderungen]]
 D: der [[Herausforderung]], den [[Herausforderungen]]  
 
 ---
-[[herausfordern]], [[herausfordernd]], [[fordernd]], [[fordern]], [[verwandeln]]
+[[herausfordern]], [[herausfordernd]], [[fordernd]], [[fordern]], [[verwandeln]], [[bewältigen]]

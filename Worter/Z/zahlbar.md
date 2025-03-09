@@ -1,2 +1,2 @@
 , [[Zahl]]
-, [[Zahlung]]
+, [[Zahlung]], [[geldlich]]

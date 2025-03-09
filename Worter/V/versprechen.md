@@ -35,4 +35,4 @@ Morpheme: [[ver]][[sprech]][[en]]
 | Sie | [[versprechen]] | [[versprachen]] | [[versprechen Sie]] | [[versprechen]] | [[versprächen]] |
 
 Partizip I: [[versprechend]], Partizip II: [[versprochen]]
-[[versprechen]] - [[ver]] = [[sprechen]]
+[[versprechen]] - [[ver]] = [[Worter/S/sprechen]]

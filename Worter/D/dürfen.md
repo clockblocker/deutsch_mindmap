@@ -1,62 +1,37 @@
-🚫 [[dürfen]]  
-[[durfte]]  
-haben [[gedurft]]
+✅ [[dürfen]], [ˈdʏʁfən] | [[durfte]], haben [[gedurft]]
 
 ---
 - SASCHA: Nic! Niemand [[darf]] mein Fahrrad anfassen! Kapiert?  
 - [[Was darf es sein]]
 - ANNA: Das [[darf]] sie nicht …
 - Herr E.: Was [[darf]] es heute sein?  
+---
+= [[erlaubt sein]], [[genehmigt sein]], [[gestattet sein]]
+≈ [[können]], [[dürfen]], [[gestatten]], [[zulassen]]
+≠ [[verbieten]], [[untersagen]], [[verwehren]]
 
 ---
-
-**Synonyme:**
-
-- [[erlaubt sein]], [[können]], [[gestattet sein]]
+to be allowed, may
+иметь право, мочь
 
 ---
-
-**Beispiele:**
-
-- Ich [[darf]] ins Kino gehen.
-- Du [[darfst]] heute länger aufbleiben.
-- Er [[darf]] das Auto benutzen.
-- Es [[darf]] mitkommen.
-- Sie [[darf]] alles fragen.
-- Wir [[dürfen]] hier parken.
-- Ihr [[dürft]] teilnehmen.
-- Sie [[dürfen]] laut sprechen.
+[[Darf]], [[dürfte]], [[Erlaubnis]], [[Verbot]]
 
 ---
+[[dürf]]|[[en]]
 
-**Übersetzung**:
-to be allowed to, may
-
----
- #Verb  #Modalverb
 
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[darf]], [[durfte]], [[dürfe]], [[dürfte]], -
+du, [[darfst]], [[durftest]], [[dürfest]], [[dürftest]], [[dürf]] / [[dürfe]]
+er, [[darf]], [[durfte]], [[dürfe]], [[dürfte]], -
+wir, [[dürfen]], [[durften]], [[dürfen]], [[dürften]], [[dürfen]]
+ihr, [[dürft]], [[durftet]], [[dürfet]], [[dürftet]], [[dürft]]
+sie, [[dürfen]], [[durften]], [[dürfen]], [[dürften]], [[dürfen]]
 
-**Präteritum:**
-
-- Ich [[durfte]] ins Kino gehen.
-- Du [[durftest]] heute länger aufbleiben.
-- Er [[durfte]] das Auto benutzen.
-- Es [[durfte]] mitkommen.
-- Sie [[durfte]] alles fragen.
-- Wir [[durften]] hier parken.
-- Ihr [[durftet]] teilnehmen.
-- Sie [[durften]] laut sprechen.
-
----
-
-**Imperativ:**
-
-- (Imperative forms are not used with modal verbs)
+*Zu + Inf*: zu [[dürfen]], *P2*: [[gedurft]]
+Adjektive: [[dürfend]], [[dürfender]], [[dürfendst]]
 
 ---
-
-**Morphems of only infinitive:**  
-- [[dürf]][[en]]
-
-, [[sollen]], [[müssen]], [[Hilfsverb]]
+[[dürfender]], [[dürfendes]], [[dürfende]], [[dürfenden]], [[dürfendem]], [[dürfenderer]], [[dürfenderes]], [[dürfendere]], [[dürfenderen]], [[dürfenderem]], [[dürfendster]], [[dürfendstes]], [[dürfendste]], [[dürfendsten]], [[dürfendstem]], [[verbot]]

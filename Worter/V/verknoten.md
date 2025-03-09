@@ -1,1 +1,1 @@
-, [[lösen]], [[knüpfen]]
+, [[lösen]], [[knüpfen]], [[zerzausen]]

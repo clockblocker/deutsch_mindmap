@@ -1,1 +1,1 @@
-, [[auftritt]], [[Aufführung]]
+, [[Auftritt]], [[Aufführung]]

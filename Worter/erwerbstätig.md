@@ -25,4 +25,4 @@ N: [[erwerbstätiges]], [[erwerbstätigeres]], [[erwerbstätigstes]]
 P: [[erwerbstätigen]], [[erwerbstätigeren]], [[erwerbstätigsten]]  
 
 ---
-[[Erwerbstätigkeit]], [[Erwerb]], [[tätig]], [[Arbeit]], [[Beruf]], [[Beschäftigung]], [[Erwerbstätige]]
+[[Erwerbstätigkeit]], [[Erwerb]], [[tätig]], [[Arbeit]], [[Beruf]], [[Beschäftigung]], [[Erwerbstätige]], [[beruflich]]

@@ -2,7 +2,7 @@
 die [[Hauptrollen]]
 
 ---
-Jonas hat gleich seinen ersten [[auftritt]]. Sie spielen „Wilhelm Tell“, und Jonas hat die [[Hauptrolle]].
+Jonas hat gleich seinen ersten [[Auftritt]]. Sie spielen „Wilhelm Tell“, und Jonas hat die [[Hauptrolle]].
 
 
 ---

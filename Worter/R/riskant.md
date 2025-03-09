@@ -1,1 +1,1 @@
-, [[sicher]], [[gefährlich]], [[Risiko]]
+, [[sicher]], [[gefährlich]], [[Risiko]], [[risikoreich]]

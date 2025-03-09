@@ -1,2 +1,2 @@
 , [[Vergebung]]
-, [[Gefecht]]
+, [[Gefecht]], [[Schlacht]]

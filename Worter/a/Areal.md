@@ -1,2 +1,2 @@
 , [[Bereich]], [[Gebiet]]
-, [[Werksgelände]]
+, [[Werksgelände]], [[Grundstück]], [[Fläche]], [[Quadratmeter]]

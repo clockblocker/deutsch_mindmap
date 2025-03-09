@@ -27,7 +27,7 @@ ihr: [[entsprecht]], [[entspracht]], [[entsprecht]], [[entsprechet]], [[entsprä
 PI: [[entsprechend]], PII: [[entsprochen]], Zu+inf: [[zu entsprechen]]
 
 ---
-[[entsprechen]] - [[ent]] = [[sprechen]] / to correspond, to match, to comply with
+[[entsprechen]] - [[ent]] = [[Worter/S/sprechen]] / to correspond, to match, to comply with
 
 ---
 [[Entsprechung]], [[entsprechend]], [[Korrespondenz]], [[Konformität]], [[entsprechenderweise]]

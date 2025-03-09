@@ -26,7 +26,7 @@ ihr: [[besprecht]], [[bespracht]], [[besprecht]], [[besprecht]], [[bespracht]]
 PI: [[besprechend]], PII: [[besprochen]], Zu+inf: [[zubersprechen]]
 
 ---
-[[besprechen]] - [[be]] = [[sprechen]] / to discuss, to talk about, to go over
+[[besprechen]] - [[be]] = [[Worter/S/sprechen]] / to discuss, to talk about, to go over
 
 ---
 [[Besprechung]], [[Besprochenes]]

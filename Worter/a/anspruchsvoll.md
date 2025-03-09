@@ -1,24 +1,29 @@
-anspruchsvoll, [ˈanʃpʁʊχsˌfɔl] = [[schwierig]]
-nicht [[einfach]]
+🧐 [[anspruchsvoll]], [ˈanʃpʁʊxsˌfɔl]
 
 ---
-Und der Professor ist sehr anspruchsvoll: Er macht die Prüfungen gerne sehr schwer, damit viele sie nicht bestehen. 
+Und der Professor ist sehr [[anspruchsvoll]]: Er macht die Prüfungen gerne sehr schwer, damit viele sie nicht bestehen. 
+
+[[3  Ein Selbstversuch als Hobbybäuerin#^2|^]] Damit meine ich nicht nur die [[beruflichen]] Ziele, sondern auch meine privaten, denn diese können ja bekanntlich [[gleichermaßen]] [[anspruchsvoll]] sein. ^2
+
+---
+= [[fordernd]], [[herausfordernd]], [[ambitioniert]]
+≈ [[schwierig]], [[kompliziert]], [[hochwertig]], [[exklusiv]]
+≠ [[einfach]], [[anspruchslos]], [[leicht]]
+
+---
+demanding, challenging
+требовательный, взыскательный
+
+---
+[[Anspruch]], [[ansprechen]], [[Anspruchslosigkeit]], [[anspruchsvolle]]
+
+---
+[[An]]|[[spruch]]|[[s]]|[[voll]]
+[[anspruchsvoll]]
 
 
 ---
-Synonyme: [[kompliziert]], [[schwierig]], [[herausfordernd]], [[anspruchsreich]], [[sophisticated]]
-Antonyme: [[einfach]], [[unkompliziert]], [[simpel]], [[banal]]
+Adjektive: [[anspruchsvoll]], [[anspruchsvoller]], [[anspruchsvollsten]]
 
 ---
-**Übersetzung**:
-demanding, sophisticated, complex, challenging
-
----
-#Adjective [[anspruchsvoll]]
-
-
-Einzigartige mögliche Formen: 
-[[anspruchsvoll]], [[anspruchsvoller]], [[anspruchsvolle]], [[anspruchsvolles]], [[anspruchsvollen]], [[anspruchsvollem]], [[anspruchsvoller]], [[anspruchsvollen]]
-[[anspruchsvoller]], [[anspruchsvollerer]], [[anspruchsvollere]], [[anspruchsvolleres]], [[anspruchsvolleren]], [[anspruchsvollerem]], [[anspruchsvollerer]], [[anspruchsvolleren]]
-[[anspruchsvollsten]], [[anspruchsvollster]], [[anspruchsvollenste]], [[anspruchsvollestem]], [[anspruchsvollensten]], [[anspruchsvollstem]], [[anspruchsvollster]], [[anspruchsvollsten]]
-, [[Anspruch]], [[schwer]]
+[[anspruchsvoller]], [[anspruchsvolles]], [[anspruchsvolle]], [[anspruchsvollen]], [[anspruchsvollem]], [[anspruchsvollerer]], [[anspruchsvolleres]], [[anspruchsvollere]], [[anspruchsvolleren]], [[anspruchsvollerem]], [[anspruchsvollstener]], [[anspruchsvollstenes]], [[anspruchsvollstene]], [[anspruchsvollstenen]], [[anspruchsvollstenem]], [[banal]]

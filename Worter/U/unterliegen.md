@@ -28,4 +28,4 @@ PI: [[unterliegend]], PII: [[unterlegen]], Zu+inf: [[zu unterliegen]]
 [[unterliegen]] - [[unter]] = [[liegen]] / to be defeated, to submit, to succumb
 
 ---
-[[Unterlegenheit]], [[Niederlage]], [[unterlegen]], [[Unterwerfung]], [[Kapitulation]], [[überleben]], [[w-l]]
+[[Unterlegenheit]], [[Niederlage]], [[unterlegen]], [[Unterwerfung]], [[Kapitulation]], [[überleben]], [[w-l]], [[bewältigen]]

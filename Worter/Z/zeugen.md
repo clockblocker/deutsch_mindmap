@@ -13,7 +13,7 @@ Antonyme: [[vernichten]], [[zerstören]], [[auslöschen]]
 to procreate, to beget, to father
 
 ---
-[[zeug]][[en]]
+[[Zeug]][[en]]
    
 
 ---

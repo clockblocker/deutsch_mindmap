@@ -61,4 +61,4 @@ Morpheme: [[nutz]][[en]]
 | Sie       | [[nutzen]]| [[nutzten]]| [[nutzen Sie]]| [[nutzen]]   | [[nutzten]]   |
 
 Partizip I: [[nutzend]], Partizip II: [[genutzt]]
-, [[ablehnen]], [[Vorteil]], [[Nützliches]], [[nutzlos]], [[w-l]], [[Informationswert]], [[Gebrauch]], [[Nutzungsdaten]], [[gemeinnützig]], [[Mehrwert]]
+, [[ablehnen]], [[Vorteil]], [[Nützliches]], [[nutzlos]], [[w-l]], [[Informationswert]], [[Gebrauch]], [[Nutzungsdaten]], [[gemeinnützig]], [[Mehrwert]], [[verarbeiten]]

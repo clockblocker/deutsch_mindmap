@@ -6,7 +6,7 @@ wohl bei Tische sitzen will?«
 *Also sprach in ernstem Ton*  
 *der Papa zu seinem Sohn,*  
 
-Also [[sprechen|sprach]] in [[ernst|ernstem]] [[Ton]]
+Also [[Worter/S/sprechen|sprach]] in [[ernst|ernstem]] [[Ton]]
 der [[Papa]] zu seinem [[Sohn]],
 
 *und die Mutter blickte stumm*  

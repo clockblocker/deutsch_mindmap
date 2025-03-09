@@ -1,1 +1,1 @@
-, [[streng]], [[leichtsinnig]], [[anständig]], [[vorsichtig]]
+, [[streng]], [[leichtsinnig]], [[anständig]], [[vorsichtig]], [[unerbittlich]]

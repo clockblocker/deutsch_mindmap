@@ -1,27 +1,29 @@
-🔵 🧮 [[insgesamt]], [ɪnzɡəˈzamt]
+➕ [[insgesamt]], [ˈɪnzɡəˌzamt]
 
 ---
 Das Hotel hat [[insgesamt]] zehn Zimmer.
 
+Wird das Kriterium [[Aufgabenerfüllung]] für eine Aufgabe mit E (0 Punkte) [[bewertet]], dann ist das [[Ergebnis]] für diese Aufgabe [[insgesamt]] 0 Punkte.
 
 ---
-= [[vollständig]], [[ganz]], [[total]]
-≈ [[komplett]], [[vollends]], [[im Ganzen]], [[zusammen]]
-≠ [[teilweise]], [[partiell]], [[bruchstückhaft]]
+= [[alles in allem]], [[zusammenfassend]], [[alles]]
+≈ [[gesamthaft]], [[schließlich]], [[letztendlich]], [[unterm Strich]]
+≠ [[teilweise]], [[einzeln]], [[separat]]
 
 ---
-altogether, in total, altogether
+overall, in total
+в общем, всего
+
+---
+[[Gesamt]], [[Gesamtheit]], [[Gesamtzahl]], [[Gesamteindruck]]
 
 ---
 [[in]]|[[gesamt]]
+[[insgesamt]]
+
 
 ---
-N: [[insgesamt]]
-A: [[insgesamt]]
-G: [[insgesamten]]
-D: [[insgesamtem]]
+Adjektive: [[insgesamt]], [[insgesamter]], [[insgesamtst]]
 
 ---
-[[Gesamtheit]], [[gesamtheitlich]], [[gesamt]], [[zusammen]]
-
-[[beide]], [[überhaupt]], [[sämtlich]]
+[[insgesamter]], [[insgesamtes]], [[insgesamte]], [[insgesamten]], [[insgesamtem]], [[insgesamterer]], [[insgesamteres]], [[insgesamtere]], [[insgesamteren]], [[insgesamterem]], [[insgesamtster]], [[insgesamtstes]], [[insgesamtste]], [[insgesamtsten]], [[insgesamtstem]]

@@ -1,1 +1,1 @@
-, [[Sozialstunde]], [[Blockflötenunterricht]]
+, [[Sozialstunde]], [[Blockflötenunterricht]], [[Schulklasse]]

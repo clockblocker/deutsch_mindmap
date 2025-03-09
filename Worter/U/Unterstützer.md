@@ -1,1 +1,1 @@
-, [[unterstützen]], [[Unterstützung]], [[Gegnern]]
+, [[unterstützen]], [[Unterstützung]], [[Gegnern]], [[Baumpate]], [[Pate]]

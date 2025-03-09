@@ -1,2 +1,2 @@
 🔴 die [[Ursache]]
-, [[Auswirkungen]]
+, [[Auswirkungen]], [[verursachen]]

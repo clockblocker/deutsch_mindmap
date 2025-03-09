@@ -1,1 +1,1 @@
-, [[Honig]]
+, [[Honig]], [[Mücke]], [[Wespe]]

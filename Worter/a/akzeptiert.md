@@ -1,2 +1,2 @@
 , [[verbannt]]
-, [[einverstanden]], [[allgemeingültig]]
+, [[einverstanden]], [[allgemeingültig]], [[kontrovers]], [[strittig]]

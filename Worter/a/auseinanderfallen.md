@@ -1,1 +1,1 @@
-, [[auseinander]]
+, [[auseinander]], [[auseinandersetzen]]

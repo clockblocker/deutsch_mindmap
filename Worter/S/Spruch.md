@@ -17,7 +17,7 @@ saying, quote, proverb
 изречение, цитата, поговорка
 
 ---
-[[sprechen]], [[versprüchen]], [[Spruchweisheit]], [[Spruchband]], [[Spruchsammlung]]
+[[Worter/S/sprechen]], [[versprüchen]], [[Spruchweisheit]], [[Spruchband]], [[Spruchsammlung]]
 
 ---
 [[Spruch]]
@@ -27,3 +27,4 @@ N: der [[Spruch]], die [[Sprüche]]
 A: den [[Spruch]], die [[Sprüche]]
 G: des [[Spruches]], der [[Sprüche]]
 D: dem [[Spruch]], den [[Sprüchen]]
+, [[anspruchsvoll]]

@@ -29,3 +29,4 @@ PI: [[brausend]], PII: [[gebraust]], Zu+inf: [[zu brausen]]
 
 ---
 [[Brause]], [[Brausebad]], [[aufbrausen]], [[gebraust]]
+, [[schnauben]]

@@ -13,7 +13,7 @@ Es gibt keinen [[Zusammenhang]] zwischen Geld und Glück.
 context, connection, coherence
 
 ---
-[[Zusammen]]|[[hang]]
+[[Zusammen]]|[[Hang]]
 
 ---
 N: der [[Zusammenhang]], die [[Zusammenhänge]]  

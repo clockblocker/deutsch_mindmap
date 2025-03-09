@@ -24,4 +24,4 @@ Morphems:
 [[Schmerz]]
 
 ---
-#Substantiv #Maskulin, [[Herzeleid]]
+#Substantiv #Maskulin, [[Herzeleid]], [[Muskelkater]]

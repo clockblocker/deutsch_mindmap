@@ -19,4 +19,4 @@ Morphems:
 [[frei]][[gabe]]
 
 ---
-#Substantiv #Feminin, [[Freigabeprobleme]], [[Zulassungsgrenze]]
+#Substantiv #Feminin, [[Freigabeprobleme]], [[Zulassungsgrenze]], [[verbot]], [[Autoverbot]]

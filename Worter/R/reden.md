@@ -19,7 +19,7 @@ Nach 15 Minuten [[redete]] der Schauspieler immer noch [[ohne Punkt und Komma]] 
 
 
 ---
-Synonyme: [[sprechen]], [[diskutieren]], [[kommunizieren]], [[konversieren]], [[plaudern]]
+Synonyme: [[Worter/S/sprechen]], [[diskutieren]], [[kommunizieren]], [[konversieren]], [[plaudern]]
 Antonyme: [[schweigen]], [[verstummen]], [[sich ausschweigen]]
 
 ---

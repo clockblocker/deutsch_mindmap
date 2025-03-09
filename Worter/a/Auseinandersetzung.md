@@ -1,4 +1,4 @@
 , [[krieg]], [[Diskussion]], [[Konflikt]], [[Streit]]
 , [[Wortgefecht]]
 , [[Gefecht]]
-, [[Kriegsausbruch]]
+, [[Kriegsausbruch]], [[Schlacht]], [[auseinandersetzen]]

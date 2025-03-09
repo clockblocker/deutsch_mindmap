@@ -1,1 +1,1 @@
-, [[Geruch]]
+, [[Geruch]], [[Körpergeruch]]

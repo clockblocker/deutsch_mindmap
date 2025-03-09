@@ -5,4 +5,4 @@ Können [[wir]] [[uns]] heute treffen?
 ANNA: Ja, [[zeig]] es [[uns]] ‘mal!  
 
 
-ourself, [[brauchen]], [[Wer von uns beiden]], [[Wortlisten/Pronomen]], [[Worter/Untitled]], [[Pronomen]], [[vergnügen]], [[versichern]], [[widmen]], [[verabschieden]]
+ourself, [[brauchen]], [[Wer von uns beiden]], [[Wortlisten/Pronomen]], [[Worter/Untitled]], [[Pronomen]], [[vergnügen]], [[versichern]], [[widmen]], [[verabschieden]], [[melden]], [[aufraffen]], [[fernhalten]], [[abarbeiten]], [[überfordern]], [[einlassen]], [[auseinandersetzen]]

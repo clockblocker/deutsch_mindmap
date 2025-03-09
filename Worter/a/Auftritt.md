@@ -1,10 +1,10 @@
-🔵 der [[auftritt]] | [[auftreten]],
+🔵 der [[Auftritt]] | [[auftreten]],
 die [[Auftritte]]
 
 ---
-Weil die Krankheit sehr [[häufig]] [[auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
+Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
 
-Jonas hat gleich seinen ersten [[auftritt]]. Sie spielen „Wilhelm Tell“, und Jonas hat die [[Hauptrolle]].
+Jonas hat gleich seinen ersten [[Auftritt]]. Sie spielen „Wilhelm Tell“, und Jonas hat die [[Hauptrolle]].
 
 
 ---
@@ -19,10 +19,11 @@ appearance, performance, entrance
 
 ---
 Case: Singular, Plural  
-Nominative: der [[auftritt]], die [[Auftritte]]  
-Accusative: den [[auftritt]], die [[Auftritte]]  
+Nominative: der [[Auftritt]], die [[Auftritte]]  
+Accusative: den [[Auftritt]], die [[Auftritte]]  
 Genitive: des [[Auftritts]], der [[Auftritte]]  
-Dative: dem [[auftritt]], den [[Auftritten]] 
+Dative: dem [[Auftritt]], den [[Auftritten]] 
 
 ---
 [[auftreten]], [[auftretend]], [[Bühnenauftritt]], [[Konzertauftritt]], [[Anki]]
+

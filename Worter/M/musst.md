@@ -1,1 +1,1 @@
-[[müssen]]
+[[müssen]], [[bewältigen]]

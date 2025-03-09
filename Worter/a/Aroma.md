@@ -1,1 +1,1 @@
-, [[Geschmack]], [[Duft]]
+, [[Geschmack]], [[Duft]], [[Körpergeruch]]

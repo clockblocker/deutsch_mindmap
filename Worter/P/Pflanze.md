@@ -19,4 +19,4 @@ Morphems:
 [[Pflanz]][[e]]
 
 ---
-#Substantiv #Feminin, [[Baum]], [[Blum]], [[Veilchen]], [[Pilz]], [[Bambus]]
+#Substantiv #Feminin, [[Baum]], [[Blum]], [[Veilchen]], [[Pilz]], [[Bambus]], [[Unkraut]], [[Kraut]], [[bepflanzen]]

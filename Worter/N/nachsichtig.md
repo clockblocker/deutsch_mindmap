@@ -1,1 +1,1 @@
-, [[geduldig]], [[streng]], [[Barmherzigen]]
+, [[geduldig]], [[streng]], [[Barmherzigen]], [[unerbittlich]]

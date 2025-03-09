@@ -1,1 +1,1 @@
-, [[Beziehung]], [[binden]], [[Verbindung]], [[Worter/Beziehung]], [[Beziehung]], [[Bindungsurlaub]]
+, [[Beziehung]], [[binden]], [[Verbindung]], [[Worter/Beziehung]], [[Beziehung]], [[Bindungsurlaub]], [[Abhängigkeit]]

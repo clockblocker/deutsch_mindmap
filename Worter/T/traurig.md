@@ -1,3 +1,3 @@
 [[glücklich]], [[fröhlich]], [[lustig]], [[munter]], [[erfreut]], [[deprimiert]], [[entmutigt]]
 , [[bedrückt]]
-, [[raustogig]]
+, [[raustogig]], [[froh]]

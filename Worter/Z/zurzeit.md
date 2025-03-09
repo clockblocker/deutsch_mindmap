@@ -13,3 +13,4 @@ Antonyme: [[künftig]], [[zukünftig]], [[später]]
 ---
 Morpheme: [[zur]] + [[Zeit]]
 #Adverb
+, [[heutzutage]]

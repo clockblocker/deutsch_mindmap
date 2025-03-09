@@ -37,4 +37,4 @@ N: [[ehrenamtliches]], [[ehrenamtlicheres]], [[ehrenamtlichstes]]
 P: [[ehrenamtlichen]], [[ehrenamtlicheren]], [[ehrenamtlichsten]]  
 
 ---
-[[Ehrenamt]], [[Ehrenamtler]], [[Ehrenamtlerin]], [[ehren]], [[Amt]]
+[[Ehrenamt]], [[Ehrenamtler]], [[Ehrenamtlerin]], [[ehren]], [[Amt]], [[beruflich]]

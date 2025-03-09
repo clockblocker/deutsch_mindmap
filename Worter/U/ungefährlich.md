@@ -1,1 +1,1 @@
-, [[unheimlich]], [[gruselig]], [[tödlich]], [[gefährlich]]
+, [[unheimlich]], [[gruselig]], [[tödlich]], [[gefährlich]], [[risikoreich]]

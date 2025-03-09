@@ -1,64 +1,49 @@
-🏠 [[mieten]]  
-[[mietete]]  
-haben [[gemietet]]
+🔑 [[mieten]], [ˈmiːtn̩] | [[mietete]], haben [[gemietet]]
 
 ---
 [[Vermieterin]]
 
----
-
-**Synonyme:**
-
-- [[leasen]], [[pachten]], [[anmelden]]
+[[3  Ein Selbstversuch als Hobbybäuerin#^44|^]] [[Mieten]] Sie sich notfalls einen Garten, so wie ich es gemacht habe. ^44
 
 ---
-
-**Beispiele:**
-
-- Ich [[Miete]] eine Wohnung.
-- Du [[mietest]] ein Auto.
-- Er [[mietet]] ein Büro.
-- Es [[mietet]] ein Ferienhaus.
-- Sie [[mietet]] einen Lagerraum.
-- Wir [[mieten]] einen Anhänger.
-- Ihr [[mietet]] ein Boot.
-- Sie [[mieten]] die Ausrüstung.
+= [[pachten]], [[leasen]], [[anmieten]]
+≈ [[ausleihen]], [[beziehen]], [[mieten]], [[mieten]]
+≠ [[verkaufen]], [[vermieten]], [[besitzen]], [[kaufen]]
 
 ---
-
-**Übersetzung**:
-to rent, to lease
-
----
- #Verb
+to rent, to hire
+арендовать, снимать
 
 ---
-
-**Präteritum:**
-
-- Ich [[mietete]] eine Wohnung.
-- Du [[mietetest]] ein Auto.
-- Er [[mietete]] ein Büro.
-- Es [[mietete]] ein Ferienhaus.
-- Sie [[mietete]] einen Lagerraum.
-- Wir [[mieteten]] einen Anhänger.
-- Ihr [[mietetet]] ein Boot.
-- Sie [[mieteten]] die Ausrüstung.
+[[Miete]], [[Mieter]], [[Mieterin]], [[Vermieten]], [[Mietvertrag]]
 
 ---
+[[miet]]|[[en]]
+[[mieten]]
 
-**Imperativ:**
-
-- Ich [[Miete]] die Wohnung.
-- Du [[miet|miete]] die Wohnung.
-- Er [[Miete]] die Wohnung.
-- Es [[mietet]] die Wohnung.
-- Sie [[Miete]] die Wohnung.
-- Wir [[mieten]] die Wohnung.
-- Ihr [[mietet]] die Wohnung.
-- Sie [[mieten]] die Wohnung.
 
 ---
+###### [[mieten]] jN
+- Was [[mietest]] du?
+- Eine Wohnung.
 
-**Morphems of only infinitive:**  
-- [[miet]][[en]], [[leihen]], [[beziehen]], [[Miethaus]]
+- Was [[mieten]] wir?
+- Ein Auto.
+
+- Wie lange [[hast]] du das [[gemietet]]?
+- Für ein Jahr.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[miet]] / [[miete]], [[mietete]], [[miete]], [[mietete]], -
+du, [[mietest]], [[mietest]], [[mietest]], [[mietest]], [[miet]] / [[miete]]
+er, [[mietet]], [[mietete]], [[miete]], [[mietete]], -
+wir, [[mieten]], [[mieteten]], [[mieten]], [[mieteten]], [[mieten]]
+ihr, [[mietet]], [[mietetet]], [[mietet]], [[mietetet]], [[mietet]]
+sie, [[mieten]], [[mieteten]], [[mieten]], [[mieteten]], [[mieten]]
+
+*Zu + Inf*: zu [[mieten]], *P2*: [[gemietet]]
+Adjektive: [[mietend]], [[mietender]], [[mietendst]]
+
+---
+[[mietender]], [[mietendes]], [[mietende]], [[mietenden]], [[mietendem]], [[mietenderer]], [[mietenderes]], [[mietendere]], [[mietenderen]], [[mietenderem]], [[mietendster]], [[mietendstes]], [[mietendste]], [[mietendsten]], [[mietendstem]]

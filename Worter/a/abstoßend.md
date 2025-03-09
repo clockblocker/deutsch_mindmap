@@ -1,2 +1,2 @@
 , [[eklig]], [[abstoßen]], [[garstig]], [[hässlich]]
-, [[geschmacklos]]
+, [[geschmacklos]], [[attraktiv]]

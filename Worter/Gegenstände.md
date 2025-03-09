@@ -1,2 +1,3 @@
 
 🔵 der [[Gegenstand]] 📦
+, [[Zeug]]

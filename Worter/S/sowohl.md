@@ -1,1 +1,1 @@
-, [[weder]]
+, [[weder]], [[gleichermaßen]]

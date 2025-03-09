@@ -62,4 +62,4 @@ Einzigartige mögliche Formen:
 , [[11 08]], [[s1 e1]]
 
 [[geselle]], [[Gesellschaft]], 
-, [[solche]], [[dieselbe]], [[gleichzeitig]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichheit]], [[Ungleichbehandlung]], [[Ausgleich]]
+, [[solche]], [[dieselbe]], [[gleichzeitig]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichheit]], [[Ungleichbehandlung]], [[Ausgleich]], [[gleichermaßen]]

@@ -47,4 +47,4 @@ sie, [[verzichten]], [[verzichteten]], [[verzichten]], [[verzichteten]], [[verzi
 Adjektive: [[verzichtend]], [[verzichtender]], [[verzichtendst]]
 
 ---
-[[verzichtender]], [[verzichtendes]], [[verzichtende]], [[verzichtenden]], [[verzichtendem]], [[verzichtenderer]], [[verzichtenderes]], [[verzichtendere]], [[verzichtenderen]], [[verzichtenderem]], [[verzichtendster]], [[verzichtendstes]], [[verzichtendste]], [[verzichtendsten]], [[verzichtendstem]], [[bestreben]]
+[[verzichtender]], [[verzichtendes]], [[verzichtende]], [[verzichtenden]], [[verzichtendem]], [[verzichtenderer]], [[verzichtenderes]], [[verzichtendere]], [[verzichtenderen]], [[verzichtenderem]], [[verzichtendster]], [[verzichtendstes]], [[verzichtendste]], [[verzichtendsten]], [[verzichtendstem]], [[bestreben]], [[bedürfen]], [[benötigen]]

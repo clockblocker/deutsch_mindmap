@@ -1,1 +1,1 @@
-, [[Beziehung]], [[Je mehr]], [[Arbeitsverhältnis]], [[Verhältniswahlrecht]], [[Worter/Beziehung]], [[Beziehung]]
+, [[Beziehung]], [[Je mehr]], [[Arbeitsverhältnis]], [[Verhältniswahlrecht]], [[Worter/Beziehung]], [[Beziehung]], [[Abhängigkeit]]

@@ -1,1 +1,1 @@
-, [[Ablaufschlauch]]
+, [[Ablaufschlauch]], [[Gießkanne]]

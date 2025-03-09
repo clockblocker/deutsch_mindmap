@@ -1,2 +1,2 @@
 , [[zusammenfassen]]
-, [[zusammenbrechen]]
+, [[zusammenbrechen]], [[insgesamt]]

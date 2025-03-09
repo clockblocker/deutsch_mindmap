@@ -1,2 +1,2 @@
 [[übergeben]], [[zugeben]], [[Verlangen]], [[frönen]], [[tun]], [[bieten]], [[ertragen]], [[versprechen]], [[raten]], [[befragen]], [[vereinbaren]], [[wünschen]], [[anbieten]], [[bitten]], [[ablehnen]], [[annehmen]], [[vertragen]], [[bezahlen]], [[abgeben]], [[überreden]], [[schlucken]], [[wollen]], [[hineinlassen]], [[auffordern]], [[ermöglichen]], [[gewähren]], [[stiften]], [[hinschicken]]
-, [[zufriedengeben]], [[widmen]], [[einladen]]
+, [[zufriedengeben]], [[widmen]], [[einladen]], [[einlassen]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Notfalls]], [[Notfalle]], [[Notfällen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Notfallschutz]]

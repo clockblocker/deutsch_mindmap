@@ -1,1 +1,1 @@
-, [[zeugen]]
+, [[zeugen]], [[Zeug]]

@@ -1,1 +1,1 @@
-[[schön]], [[hübsch]], [[beliebtes]], [[hässlich]]
+[[schön]], [[hübsch]], [[beliebtes]], [[hässlich]], [[attraktiv]]

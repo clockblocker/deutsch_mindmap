@@ -33,3 +33,4 @@ P: [[einigen]], [[einigeren]], [[einigsten]]
 
 ---
 [[Einigkeit]], [[einigen]], [[einmal]], [[einzig]], [[einheitlich]]
+, [[strittig]]

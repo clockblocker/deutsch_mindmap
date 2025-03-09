@@ -1,2 +1,2 @@
 , [[Wohngegend]]
-, [[nah]]
+, [[nah]], [[Viertel]]

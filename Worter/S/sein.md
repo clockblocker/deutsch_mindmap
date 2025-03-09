@@ -36,4 +36,4 @@ Morpheme:
 | Sie       | [[sind]] | [[waren]]   | [[seien Sie]] | [[seien]] | [[wären]]     |
 [[wär]]
 Partizip I: [[seiend]], Partizip II: [[gewesen]]
-''', [[manchmal]], [[s1 e1]], [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]], [[Hilfsverb]], [[Bewusstsein]], [[Karrierebewusstsein]]
+''', [[manchmal]], [[s1 e1]], [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]], [[Hilfsverb]], [[Bewusstsein]], [[Karrierebewusstsein]], [[bestehen]]

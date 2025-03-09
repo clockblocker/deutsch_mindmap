@@ -1,6 +1,7 @@
 🏠 [[freien]], [ˈfʁaɪ̯ən] | [[freite]], haben [[gefreit]]
 
 ---
+[[2#^15|^]] Meistens gibt es ja nur [[außerhalb]] der Städte [[freie]] [[Flächen]], etwa in den [[Schrebergärten]] am Stadtrand. ^15
 
 ---
 [[befreien]] - [[be]] = [[freien]] / to free, to liberate, to release

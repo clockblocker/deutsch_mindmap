@@ -16,4 +16,4 @@ Morpheme:
 [[heut]]
 
 ---
-#Adverb
+#Adverb, [[heutzutage]]

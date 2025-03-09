@@ -1,1 +1,1 @@
-, [[Erwachsenenanfängergruppe]]
+, [[Erwachsenenanfängergruppe]], [[Schulklasse]]

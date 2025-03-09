@@ -1,1 +1,1 @@
-, [[einziger]], [[ausschließlich]], [[teuer]]
+, [[einziger]], [[ausschließlich]], [[teuer]], [[anspruchsvoll]]

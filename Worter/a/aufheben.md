@@ -1,1 +1,1 @@
-, [[zugeworfen]], [[erlassen]], [[abschaffen]], [[Aufhebung]]
+, [[zugeworfen]], [[erlassen]], [[abschaffen]], [[Aufhebung]], [[selbstauferlegen]]

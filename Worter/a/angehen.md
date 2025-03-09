@@ -3,6 +3,8 @@
 ---
  Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[angehen|geht]] [[dich]] nun wirklich [[nichts]] [[an]]!“
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^39|^]] Was die [[Abstriche]] [[angeht]], so [[verhält]] es sich nicht anders. ^39
+
 *Bauz! da [[geht]] die Türe [[auf]],*  
 *und herein in schnellem Lauf*  
 

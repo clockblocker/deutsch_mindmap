@@ -1,2 +1,2 @@
 
-, [[Miete]]
+, [[Miete]], [[mieten]]

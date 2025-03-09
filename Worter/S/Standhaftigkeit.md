@@ -1,2 +1,2 @@
 , [[standhaft]]
-, [[Durchhaltevermögen]]
+, [[Durchhaltevermögen]], [[standhalten]]

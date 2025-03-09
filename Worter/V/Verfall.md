@@ -1,1 +1,1 @@
-, [[vergilben]], [[Sanierung]], [[Niedergang]]
+, [[vergilben]], [[Sanierung]], [[Niedergang]], [[Stadtentwicklung]], [[Wachstum]]

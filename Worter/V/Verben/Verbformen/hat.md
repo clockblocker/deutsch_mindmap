@@ -1,1 +1,1 @@
-💼 [[Worter/H/haben]]  , [[vergnügen]], [[verschmutzen]], [[Verfügung]], [[versichern]], [[verbreiten]], [[verabschieden]], [[verwandeln]]
+💼 [[Worter/H/haben]]  , [[vergnügen]], [[verschmutzen]], [[Verfügung]], [[versichern]], [[verbreiten]], [[verabschieden]], [[verwandeln]], [[verarbeiten]], [[verursachen]]

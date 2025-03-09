@@ -1,2 +1,2 @@
 
-, [[Sorgfalt]]
+, [[Sorgfalt]], [[Nachlässigkeit]]

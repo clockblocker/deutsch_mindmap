@@ -26,4 +26,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[tödlich]], [[tödliche]], [[tödliches]], [[tödlichen]], [[tödlicher]], [[tödlicherem]], [[tödlicheren]], [[tödlicherer]], [[tödlicheres]], [[tödlichste]], [[tödlichstem]], [[tödlichsten]], [[tödlichster]], [[tödlichstes]]
-'''
+''', [[Todesfall]]

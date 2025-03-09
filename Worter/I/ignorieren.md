@@ -6,4 +6,4 @@
 , [[aussuchen]]
 , [[kennenlernen]]
 , [[beurteilen]]
-, [[aufpassen]], [[herausfinden]], [[zugucken]], [[forschen]]
+, [[aufpassen]], [[herausfinden]], [[zugucken]], [[forschen]], [[bewerten]], [[wiedererkennen]], [[melden]], [[verarbeiten]], [[auseinandersetzen]], [[intervenieren]]

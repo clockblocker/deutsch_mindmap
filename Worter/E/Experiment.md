@@ -1,2 +1,2 @@
 , [[ausprobieren]]
-, [[Versuch]]
+, [[Versuch]], [[Studie]]

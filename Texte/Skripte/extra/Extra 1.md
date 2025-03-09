@@ -109,6 +109,8 @@ NIC: „Ja hallo?”
 
 ANNA: Ich hab [[gefragt]], [[ob]] du was trinken [[willst]]!!!
 
+fyiyruyn. uyru6r
+
 NIC: Ääh … ja … eine Cola?
 
 ANNA: Sascha hat Post von Sam …

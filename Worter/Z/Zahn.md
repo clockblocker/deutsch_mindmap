@@ -25,4 +25,4 @@ G: des [[Zahnes]], der [[Zähne]]
 D: dem [[Zahn]], den [[Zähnen]]  
 
 ---
-[[zahnlos]], [[zahnärztlich]], [[Zahnbürste]], [[Zahnschmerzen]], [[Zahnpasta]]
+[[zahnlos]], [[zahnärztlich]], [[Zahnbürste]], [[Zahnschmerzen]], [[Zahnpasta]], [[zubeißen]]

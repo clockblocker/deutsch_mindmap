@@ -152,7 +152,7 @@
 ### Verben (Глаголы)
 - [[fahren]] - ехать, ездить
 - [[brauchen]] (A) - нуждаться
-- [[sprechen]] - говорить, разговаривать
+- [[Worter/S/sprechen]] - говорить, разговаривать
 - [[verstehen]] (A) - понимать
 - [[lesen]] (A) - читать
 - [[sehen]] (A) auf (A) - видеть, смотреть (на)
@@ -185,7 +185,7 @@
 ---
 
 ### Wendungen (Выражения)
-- [[Deutsch]] ([[Russisch]], [[Englisch]]) [[sprechen]] - говорить на немецком (русском, английском)
+- [[Deutsch]] ([[Russisch]], [[Englisch]]) [[Worter/S/sprechen]] - говорить на немецком (русском, английском)
 - [[auf Deutsch]] ([[Russisch]]) [[lesen]] - читать на немецком (русском)
 - [[ins Deutsche]] ([[Russische]]) [[übersetzen]] - переводить на немецкий (русский)
 

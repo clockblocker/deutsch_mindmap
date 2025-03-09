@@ -1,1 +1,1 @@
-, [[ersinnlich]], [[ungewöhnlich]], [[künstlerischer]]
+, [[ersinnlich]], [[ungewöhnlich]], [[künstlerischer]], [[banal]]

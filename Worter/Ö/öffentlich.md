@@ -4,10 +4,15 @@ nicht [[privat]]
 ---
 Sie ist eine Person des [[öffentlichen]] Lebens.
 
+[[4 Autofrei#^7|^]] Zuerst ist es einfach wirklich teuer, ein Motor pro Person zu haben, [[verglichen]] mit Angebot "ein Motor pro 100 Personen", das die Stadt mit dem [[öffentlichen]] Transport erreichen können. ^7
+
+[[4 Autofrei#^4|^]] Die Punkte, die Pro-Autofreiheit-Gruppen normalerweise [[öffentlich]] präsentieren, lassen sich in zwei Teilen [[gliedern]]: "Die Gesundheit der Burger" und "Die [[wirtschaftlichen]] [[Vorteile]] für die Stadt"  ^4
+
+
 279. In den meisten [[Mietshäusern]] in Deutschland gibt es eine „[[Hausordnung]]“. Was steht in einer [[solchen]] „Hausordnung“? Sie nennt … (87%)
 	- [ ] Regeln für die Benutzung [[öffentlicher]] [[Verkehrsmittel]].
 
-111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
+280. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
 	- [ ] Die Politik Israels [[öffentlich]] kritisieren.
 	- [ ] Das [[Aufhängen]] einer israelischen Flagge auf dem [[Privatgrundstück]].
 	- [ ] Eine Diskussion über die Politik Israels.

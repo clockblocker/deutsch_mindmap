@@ -1,6 +1,7 @@
 🌿 [[pflegen]], [ˈpfleːɡən] | [[pflegte]], haben [[gepflegt]]
 
 ---
+[[2#^2|^]] Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]. ^2
 
 
 ---
@@ -37,4 +38,4 @@ Plural: [[gepflegten]], [[gepflegteren]], [[gepflegtesten]]
 
 ---
 [[Pflege]], [[Pfleger]], [[Pflegeheim]], [[Pflegekraft]], [[Pflegeeltern]], [[Pflegestelle]], [[pfleglich]], [[pflegebedürftig]], [[Körperpflege]], [[Hautpflege]], [[Pflegeleicht]], [[Pflegeversicherung]], [[s1 e1]]
-, [[aufrechterhalten]]
+, [[aufrechterhalten]], [[züchten]]

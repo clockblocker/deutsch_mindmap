@@ -27,4 +27,4 @@ G: der [[Versorgung]], der [[Versorgungen]]
 D: der [[Versorgung]], den [[Versorgungen]]  
 
 ---
-[[versorgen]], [[Versorger]], [[versorgt]], [[Grundversorgung]], [[Krankenversorgung]]
+[[versorgen]], [[Versorger]], [[versorgt]], [[Grundversorgung]], [[Krankenversorgung]], [[Rente]], [[Pension]]

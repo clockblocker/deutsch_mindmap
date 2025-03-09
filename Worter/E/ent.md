@@ -2,4 +2,4 @@
 , [[entlang]]
 , [[entlanggehen]]
 , [[entsprechend]]
-, [[versehentlich]]
+, [[versehentlich]], [[Stadtentwicklung]]

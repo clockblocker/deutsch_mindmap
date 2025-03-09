@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Bett]][[zeug]]
+[[Bett]][[Zeug]]
 
 ---
 Einzigartige mögliche Formen: [[Bettzeug]], [[Bettzeugs]]

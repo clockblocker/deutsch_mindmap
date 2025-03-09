@@ -1,1 +1,1 @@
-, [[Liebhaber]]
+, [[Liebhaber]], [[Kontrahent]]

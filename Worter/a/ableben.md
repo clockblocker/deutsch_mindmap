@@ -1,1 +1,1 @@
-, [[sterben]], [[verscheiden]], [[Geburt]]
+, [[sterben]], [[verscheiden]], [[Geburt]], [[Todesfall]]

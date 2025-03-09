@@ -6,7 +6,7 @@
 ---
 = [[verstummen]], [[schweigen]], [[erstarren]], [[schweigen]]
 ≈ [[schweigen]], [[verstummen]], [[erstarren]], [[abbricht]]
-≠ [[sprechen]], [[reden]], [[schreien]], [[lärmen]], [[reden]], [[klingen]],  [[vorlesen]], [[sprechen]], [[knistern]], [[rufen]], [[Zischen]],  [[schallen]], [[lauten]],  [[schnurren]],  [[quietschen]],  [[funkten]], 
+≠ [[Worter/S/sprechen]], [[reden]], [[schreien]], [[lärmen]], [[reden]], [[klingen]],  [[vorlesen]], [[Worter/S/sprechen]], [[knistern]], [[rufen]], [[Zischen]],  [[schallen]], [[lauten]],  [[schnurren]],  [[quietschen]],  [[funkten]], 
 
 ---
 to fall silent, to become silent
@@ -29,4 +29,4 @@ PI: [[verstummend]], PII: [[verstummt]], Zu+inf: [[zu verstummen]]
 
 ---
 [[Verstummen]], [[Stummheit]], [[stumm]]
-, [[brausen]]
+, [[brausen]], [[ticken]]

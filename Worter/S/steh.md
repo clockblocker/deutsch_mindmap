@@ -1,2 +1,2 @@
 , [[aufstehen]], [[gestehen]], [[entstehen]], [[stehen]]
-, [[Stehempfang]]
+, [[Stehempfang]], [[bestehen]]

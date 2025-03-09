@@ -1,1 +1,1 @@
-, [[Weiterbildung]], [[Entwicklung]], [[Fortschritt]]
+, [[Weiterbildung]], [[Entwicklung]], [[Fortschritt]], [[Stadtentwicklung]]

@@ -5,6 +5,8 @@ haben [[angerufen]]
 ---
 “[[anrufen]]” [[verlangt]] Akkusativ (“mich”), nicht Dativ (“mir”)
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^16|^]] Andere Freunde [[anriefen|riefen]] mich immer [[seltener]] an, weil sie [[befürchteten]], ich könnte sie um Hilfe bitten. ^16
+
 
 ---
 Synonyme: [[telefonieren]], [[kontaktieren]], [[anklingeln]], [[durchklingeln]], [[wählen]]

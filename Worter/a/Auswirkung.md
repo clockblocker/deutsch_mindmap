@@ -1,1 +1,1 @@
-, [[Auswirkungen]]
+, [[Auswirkungen]], [[Hauptursache]]

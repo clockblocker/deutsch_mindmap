@@ -29,4 +29,4 @@ Partizip I: [[jagend]], Partizip II: [[gejagt]]
 [[jagen]] - kein Präfix = [[jagen]]
 
 , [[nachjagen]], [[scheuchen]], [[Jager]]
-, [[s1 e1]]
+, [[s1 e1]], [[erlegen]]

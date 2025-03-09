@@ -1,1 +1,1 @@
-, [[Passant]]
+, [[Passant]], [[Spaziergang]]

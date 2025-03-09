@@ -24,4 +24,4 @@ N: [[einzelnes]], [[einzelneres]], [[einzelnstes]]
 P: [[einzelnen]], [[einzelneren]], [[einzelnsten]]  
 
 ---
-[[Einzelheit]], [[Einzelfall]], [[vereinzeln]], [[Einzelwerk]], [[Anki]]
+[[Einzelheit]], [[Einzelfall]], [[vereinzeln]], [[Einzelwerk]], [[Anki]], [[insgesamt]]

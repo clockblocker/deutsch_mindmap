@@ -4,6 +4,8 @@
 *Ich zünde mir ein Hölzchen an,*  
 *wie’s oft die Mutter hat [[getan]].«*  
 
+[[3  Ein Selbstversuch als Hobbybäuerin#^23|^]] Mit schwarzen Fingernägeln und [[zerzaustem]] Haar fuhr ich dann nach [[getaner]] Arbeit nach Hause und war [[froh]], dass ich [[zumindest]] dazu noch in der Lage war. ^23
+
 [[2 Unter Druck nach oben#^5|(q)]] Fest steht nur eins: Sie [[taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
 
 

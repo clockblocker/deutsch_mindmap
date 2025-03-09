@@ -1,1 +1,1 @@
-, [[gleich]], [[unterschiedlich]], [[Einheitliche]]
+, [[gleich]], [[unterschiedlich]], [[Einheitliche]], [[gleichermaßen]]

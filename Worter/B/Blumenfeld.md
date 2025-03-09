@@ -1,1 +1,1 @@
-, [[Blumenwiese]]
+, [[Blumenwiese]], [[Wildblumenwiese]]

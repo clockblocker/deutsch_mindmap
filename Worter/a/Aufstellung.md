@@ -1,1 +1,1 @@
-, [[Berechnung]]
+, [[Berechnung]], [[Bilanz]]

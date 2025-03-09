@@ -28,4 +28,4 @@ PI: [[packend]], PII: [[gepackt]], Zu+inf: [[zu packen]]
 [[packen]] - [[pack]] = [[en]] / to pack, to grab, to seize
 
 ---
-[[Packung]], [[Paket]], [[Packen]], [[Packer]], [[Packtier]]
+[[Packung]], [[Paket]], [[Packen]], [[Packer]], [[Packtier]], [[raffen]]

@@ -26,4 +26,4 @@ G: des [[Geräts]], der [[Geräte]]
 D: dem [[Gerät]], den [[Geräten]]  
 
 ---
-[[geräten]], [[gerätetechnisch]], [[Geräteraum]], [[Gerätschaft]], [[Werkzeug]]
+[[geräten]], [[gerätetechnisch]], [[Geräteraum]], [[Gerätschaft]], [[Werkzeug]], [[Zeug]], [[geraten]]

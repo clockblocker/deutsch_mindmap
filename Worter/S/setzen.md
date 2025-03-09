@@ -40,4 +40,4 @@ Morpheme: [[setz]][[en]]
 
 Partizip I: [[setzend]], Partizip II: [[gesetzt]]
 
-[[setzen]] - [[setz]] = [[en]], [[einsetzen]], [[besetzen]], [[übersetzen]], [[s1 e1]], [[ersetzen]], [[aussetzen]]
+[[setzen]] - [[setz]] = [[en]], [[einsetzen]], [[besetzen]], [[übersetzen]], [[s1 e1]], [[ersetzen]], [[aussetzen]], [[auseinandersetzen]], [[umsetzen]]

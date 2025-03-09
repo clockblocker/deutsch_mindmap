@@ -1,1 +1,1 @@
-, [[Rentner]]
+, [[Rentner]], [[Rente]]

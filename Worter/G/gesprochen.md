@@ -1,1 +1,1 @@
-, [[sprechen]], [[schriftlich]], [[mündlich]]
+, [[Worter/S/sprechen]], [[schriftlich]], [[mündlich]]

@@ -38,4 +38,4 @@ Einzigartige mögliche Formen:
 5. [[andere]]
 6. [[andern]]
 7. [[woanders]]
-, [[ebenfalls]], [[anderessehen]], [[dieselbe]], [[ebenso]]
+, [[ebenfalls]], [[anderessehen]], [[dieselbe]], [[ebenso]], [[gleichermaßen]]

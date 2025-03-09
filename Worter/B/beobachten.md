@@ -31,4 +31,4 @@ Partizip I: [[beobachtend]], Partizip II: [[beobachtet]]
 [[kontrollieren]], [[sehen]], [[gucken]], [[abwarten]], [[wachen]], [[blicken]]
 
 
-, [[aufsehen]], [[s1 e1]], [[hinüberspähen]], [[betrachten]], [[zugucken]]
+, [[aufsehen]], [[s1 e1]], [[hinüberspähen]], [[betrachten]], [[zugucken]], [[intervenieren]]

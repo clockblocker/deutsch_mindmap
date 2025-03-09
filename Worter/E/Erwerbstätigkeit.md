@@ -1,2 +1,2 @@
 , [[erwerbstätig]]
-, [[Beschäftigung]]
+, [[Beschäftigung]], [[Rente]], [[Pension]]

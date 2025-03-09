@@ -23,4 +23,4 @@ G: des [[Parks]], der [[Parks]]
 D: dem [[Park]], den [[Parks]] 
 
 ---
-parken, parkend, Parkanlage, Parkbank, Parkplatz
+parken, parkend, Parkanlage, Parkbank, Parkplatz, [[Rasenfläche]]

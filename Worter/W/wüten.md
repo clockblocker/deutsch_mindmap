@@ -1,2 +1,2 @@
 , [[toben]], [[wütend]], [[stürmen]]
-, [[aufbrausen]]
+, [[aufbrausen]], [[schnauben]]

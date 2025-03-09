@@ -1,1 +1,1 @@
-, [[gemeinnützig]]
+, [[gemeinnützig]], [[aufopfernd]]

@@ -8,7 +8,7 @@
 ---
 = [[Stille]], [[Ruhe]]
 ≈ [[Zuhören]], [[Stillschweigen]], [[Gesprächspause]]
-≠ [[Lärm]], [[Sprechen]], [[Reden]]
+≠ [[Lärm]], [[Worter/S/sprechen]], [[Reden]]
 
 ---
 silence, quiet

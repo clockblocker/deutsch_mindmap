@@ -27,4 +27,4 @@ P: [[unglücklichen]], [[unglücklicheren]], [[unglücklichsten]]
 
 ---
 [[Unglück}}, [[Unglücklicher]], [[Unglückseligkeit]], [[glücklos]], [[unglücklicherweise]]
-, [[bedrückt]]
+, [[bedrückt]], [[froh]]

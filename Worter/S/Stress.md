@@ -1,2 +1,2 @@
 
-, [[Termindruck]]
+, [[Termindruck]], [[Zeitdruck]], [[Spaziergang]]

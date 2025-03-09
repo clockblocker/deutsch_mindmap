@@ -1,1 +1,1 @@
-, [[widerstehen]], [[Montagsdemonstration]], [[Aufstand]], [[Gegenwind]]
+, [[widerstehen]], [[Montagsdemonstration]], [[Aufstand]], [[Gegenwind]], [[standhalten]]

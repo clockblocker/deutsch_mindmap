@@ -1,1 +1,1 @@
-, [[passieren]], [[Erfolgen]], [[geschehen]]
+, [[passieren]], [[Erfolgen]], [[geschehen]], [[auftreten]]

@@ -1,2 +1,2 @@
 die [[Farbe]]
-, [[Schwarzarbeiter]]
+, [[Schwarzarbeiter]], [[Wespe]]

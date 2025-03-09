@@ -37,4 +37,4 @@ Zu+infinitive: [[zu erfüllen]]
 
 ---
 [[Erfüllung]], [[Erfüller]], [[Erfüllerin]], [[erfüllbar]], [[unerfüllbar]], [[Wunscherfüllung]], [[Bedingungserfüllung]], [[erwarten]], [[zufriedenstellen]], [[einhalten]], [[w-l]]
-, [[erledigen]]
+, [[erledigen]], [[Aufgabenerfüllung]]

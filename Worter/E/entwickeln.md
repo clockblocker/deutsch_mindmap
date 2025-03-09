@@ -3,7 +3,7 @@
 haben [[entwickelt]]
 
 ---
-Weil die Krankheit sehr [[häufig]] [[auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
+Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
 
 Ich interessiere mich dafür, wie sich unsere [[Gesellschaft]] [[entwickelt]].
 

@@ -27,4 +27,4 @@ Feminine: [[regelmäßige]], [[regelmäßigere]], [[regelmäßigste]]
 Neuter: [[regelmäßiges]], [[regelmäßigeres]], [[regelmäßigstes]]  
 Plural: [[regelmäßigen]], [[regelmäßigeren]], [[regelmäßigsten]]  
 
-[[Regelmäßigkeit]], [[regelmäßig]], [[unregelmäßig]], [[Regelmäßigkeiten]], [[geduld]], [[befürchten]], [[häufig]]
+[[Regelmäßigkeit]], [[regelmäßig]], [[unregelmäßig]], [[Regelmäßigkeiten]], [[geduld]], [[befürchten]], [[häufig]], [[allwöchentlich]]

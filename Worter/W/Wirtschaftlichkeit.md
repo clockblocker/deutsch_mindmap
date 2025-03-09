@@ -1,1 +1,1 @@
-, [[wirtschaftlich]], [[kostengünstig]], [[Wirtschaftsform]]
+, [[wirtschaftlich]], [[kostengünstig]], [[Wirtschaftsform]], [[Verschwendung]]

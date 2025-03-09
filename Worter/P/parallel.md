@@ -1,2 +1,2 @@
 , [[entgegen]], [[gleichzeitig]]
-, [[entlang]]
+, [[entlang]], [[gleichermaßen]]

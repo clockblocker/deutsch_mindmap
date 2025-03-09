@@ -1,1 +1,1 @@
-, [[Nachfrage]], [[Notwendigkeit]], [[Bedürfnis]], [[bedürftig]]
+, [[Nachfrage]], [[Notwendigkeit]], [[Bedürfnis]], [[bedürftig]], [[bedürfen]], [[bedürfnisorientiert]]

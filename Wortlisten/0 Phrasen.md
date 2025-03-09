@@ -18,3 +18,9 @@ es ist ist wissenschaftlich erwiesen, dass
 
 
 Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikationsstärke ==liegen weit vorn==.
+
+
+[[3  Ein Selbstversuch als Hobbybäuerin#^23|^]] Mit schwarzen Fingernägeln und [[zerzaustem]] Haar [[fuhr]] ich dann nach [[getaner]] Arbeit nach Hause und ==war [[froh]], dass ich [[zumindest]] [[dazu]] noch in der Lage war==. ^23
+
+
+ˇ[[4 Autofrei#^1|^]] [[Heutzutage]] steht das Thema Autofreiheit der Innenstädte am [[Brennpunkt]] der Stadtpolitikdiskussionen [[überall]]. ^1

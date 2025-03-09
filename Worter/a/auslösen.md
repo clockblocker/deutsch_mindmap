@@ -1,1 +1,1 @@
-, [[lösen]]
+, [[lösen]], [[resultieren]], [[verursachen]]

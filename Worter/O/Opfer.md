@@ -26,4 +26,4 @@ G: des [[Opfers]], der [[Opfer]]
 D: dem [[Opfer]], den [[Opfern]]  
 
 ---
-[[opfern]], [[opferbereit]], [[opferfreudig]], [[opferreich]], [[opferlos]], [[Kirchenzehnt]]
+[[opfern]], [[opferbereit]], [[opferfreudig]], [[opferreich]], [[opferlos]], [[Kirchenzehnt]], [[aufopfernd]]

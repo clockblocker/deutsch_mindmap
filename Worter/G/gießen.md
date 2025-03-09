@@ -32,4 +32,4 @@ Morpheme: [[gieß]][[en]]
 
 Partizip I: [[gießend]], Partizip II: [[gegossen]]
 
-[[Quirlen]]
+[[Quirlen]], [[Gießkanne]]
