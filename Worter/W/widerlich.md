@@ -1,2 +1,2 @@
 [[köstlich]], [[eklig]], [[widern]], [[garstig]], [[hässlich]]
-, [[geschmacklos]]
+, [[geschmacklos]], [[fies]]

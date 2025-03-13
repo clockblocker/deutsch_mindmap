@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Wahns]], [[Wahne]], [[Wahnen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[wahnsinnig]]

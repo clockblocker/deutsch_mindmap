@@ -1,1 +1,1 @@
-, [[klingen]], [[schallen]], [[lauten]]
+, [[klingen]], [[schallen]], [[lauten]], [[pfeifen]]

@@ -1,0 +1,1 @@
+, [[etablierte]], [[etablieren]]

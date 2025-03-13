@@ -29,3 +29,4 @@ Morpheme: [[krabb]][[el]][[n]]
 | Sie       | [[krabbeln]]         | [[krabelten]]         | [[krabbeln Sie]]  | [[krabbeln]]           | [[krabbelten]]          |
 
 Partizip I: [[krabelnd]], Partizip II: [[gekrabbelt]]
+, [[herumkriechen]]

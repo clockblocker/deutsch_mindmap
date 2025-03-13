@@ -3,6 +3,10 @@
 ---
 [[Kaum]] hat man ein Mädchen dabei, schon geht alles [[schief]]!
 
+[[3. Schuldenpaket. Vergeigen es die Grünen?#^1|^]] Ich kann es mir [[kaum]] mit [[ansehen]]. ^1
+
+[[Einen Korb bekommen#^10|^]] Doch in den letzten Wochen hat sie sich [[kaum]] [[gemeldet]]. ^10
+
 [[15 genetiv#^1|(q)]] Das Wohnzimmer sah aus wie nach einer Explosion: [[Scherben]] und kaputte Möbel. Dazwischen lag das tote Mädchen. Sie hieß Elenor Zeiser. Kommissar Nissen konnte [[kaum]] glauben, was er sah. ^1
 
 Das Licht ist so hell, ich kann [[kaum]] etwas sehen.

@@ -1,5 +1,5 @@
 🔴 die [[Liebe]]
-die [[Lieben]]
+die [[lieben]]
 
 ---
 Der wahre Traum der Liebe

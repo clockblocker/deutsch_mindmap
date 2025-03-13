@@ -1,1 +1,1 @@
-, [[verbannt]], [[vernetzt]]
+, [[verbannt]], [[vernetzt]], [[zusammen]]

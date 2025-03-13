@@ -1,1 +1,1 @@
-[[getrennt]][[vereint]], [[verbinden]], [[dankbar]], [[vernetzt]]
+[[getrennt]][[vereint]], [[verbinden]], [[dankbar]], [[vernetzt]], [[zusammen]]

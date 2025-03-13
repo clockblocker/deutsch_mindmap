@@ -30,4 +30,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Wahnsinns]], [[Wahnsinne]], [[Wahnsinnen]]
 
 ---
-#Substantiv #Maskulin, [[Schwachsinn]], [[irre]], [[s1 e1]]
+#Substantiv #Maskulin, [[Schwachsinn]], [[irre]], [[s1 e1]], [[wahnsinnig]]

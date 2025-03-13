@@ -5,6 +5,8 @@ haben [[entschieden]]
 ---
 Er kann sich nicht [[entschieden]], was er essen möchte 
 
+damit ist der Kampf [[entschieden]] 
+
 [[3  Ein Selbstversuch als Hobbybäuerin#^27|^]] So gesehen bin ich [[zumindest]] eine [[Ackerheldin]], die den Kampf für sich [[entscheiden]] konnte. ^27
 
 [[3  Ein Selbstversuch als Hobbybäuerin#^8|^]] Ich muss mich bis Ende Oktober [[entscheiden]], ob ich mein Stück Gartenland auch im nächsten Jahr wieder bestellen will. ^8

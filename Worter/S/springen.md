@@ -38,4 +38,4 @@ Morpheme: [[spring]][[en]]
 | Sie       | [[springen]]         | [[sprangen]]          | [[springen Sie]]  | [[springen]]           | [[sprången]]            |
 
 Partizip I: [[springend]], Partizip II: [[gesprungen]]
-, [[kriechen]], [[aufspringen]], [[entspringen]], [[flitzen]]
+, [[kriechen]], [[aufspringen]], [[entspringen]], [[flitzen]], [[herumkriechen]]

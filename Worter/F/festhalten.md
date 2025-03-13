@@ -1,2 +1,2 @@
 [[freimachen]], [[aufhalten]], [[schieben]], [[entwischen]], [[bewegen]], [[hinterherschicken]], [[ablösen]], [[lösen]], [[schaukeln]], [[rutschen]], [[umentscheiden]], [[verzichten]], [[schütteln]], [[umtauschen]], [[stützen]], [[wälzen]], [[überlassen]], [[umarmen]], [[verhaften]], [[haften]], [[austauschen]], [[aufnehmen]], [[packen]]
-, [[auffangen]]
+, [[auffangen]], [[gefangenzuhalten]]

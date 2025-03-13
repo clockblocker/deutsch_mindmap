@@ -1,33 +1,30 @@
-, [[auseinander]], [[verfeinden]]🤔 [[auseinandersetzen]]
-
-🤔 [[auseinandersetzen]], [ˈaʊ̯sʔaɪ̯ˌnandɐˌzɛt͡sn̩] | [[setzte auseinander]], haben [[auseinandergesetzt]]
+🤔 [[auseinandersetzen]], [aʊ̯sʔaɪ̯ˈnanɐˌzɛt͡sn̩](https://youglish.com/pronounce/auseinandersetzen/german) | [[setzte auseinander]], haben [[auseinandergesetzt]]
 
 ---
-In einem soziologischen Seminar zur Stadtplanung sollen Sie sich in einer schriftlichen Hausaufgabe mit der Frage [[auseinandersetzen]], ob [[Innenstädte]] zukünftig völlig autofrei sein sollen.
 
 ---
-= [[diskutieren]], [[behandeln]], [[erörtern]]
-≈ [[untersuchen]], [[analysieren]], [[prüfen]], [[konfrontieren]]
-≠ [[ignorieren]], [[vermeiden]], [[umgehen]], [[ausblenden]]
+= [[diskutieren]], [[erörtern]], [[behandeln]]
+≈ [[untersuchen]], [[prüfen]], [[analysieren]], [[erforschen]]
+≠ [[ignorieren]], [[vermeiden]], [[umgehen]]
 
 ---
-to deal with, to discuss
-рассматривать, обсуждать
+to deal with, to discuss, to examine
+рассматривать, обсуждать, разбирать
 
 ---
-[[Auseinandersetzung]], [[auseinander]], [[auseinandernehmen]], [[auseinanderfallen]]
+[[Auseinandersetzung]], [[auseinander]], [[setzen]]
 
 ---
 [[aus]]|[[ein|ander]]|[[setz]]|[[en]]
-[[auseinandersetzen]]
+[[aus]] + [[einandersetzen]]
 
 
 ---
-###### [[auseinandersetzen]] *[[sich]]* `mit` jM/jN
+###### [[auseinandersetzen]] *[[sich]]* `mit` jD
 - `Womit` [[setzt]] du *[[dich]]* [[auseinander]]?
-- `Mit` dem Problem.
+- `Mit` diesem Problem.
 
-- `Mit` wem [[setzen]] wir *[[uns]]* [[auseinander]]?
+- `Mit` wem [[setzt]] ihr *[[euch]]* [[auseinander]]?
 - `Mit` unseren Gegnern.
 
 - Wie lange [[hast]] du *[[dich]]* `damit` [[auseinandergesetzt]]?
@@ -35,14 +32,14 @@ to deal with, to discuss
 
 ---
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
-ich, [[setze auseinander]], [[setzte auseinander]], [[setze auseinander]], [[setzte auseinander]], -
-du, [[setzt auseinander]], [[setztest auseinander]], [[setzest auseinander]], [[setztest auseinander]], [[setze auseinander]]
-er, [[setzt auseinander]], [[setzte auseinander]], [[setze auseinander]], [[setzte auseinander]], -
-wir, [[setzen auseinander]], [[setzten auseinander]], [[setzen auseinander]], [[setzten auseinander]], [[setzen auseinander]]
-ihr, [[setzt auseinander]], [[setztet auseinander]], [[setzet auseinander]], [[setztet auseinander]], [[setzt auseinander]]
-sie, [[setzen auseinander]], [[setzten auseinander]], [[setzen auseinander]], [[setzten auseinander]], [[setzen auseinander]]
+ich, [[setze auseinander]] / [[setze mich auseinander]], [[setzte auseinander]], [[setze dich auseinander]], [[setzte auseinander]], -
+du, [[setzt auseinander]], [[setztest auseinander]], [[setzest dich auseinander]], [[setztest auseinander]], [[setz dich auseinander]]
+er, [[setzt auseinander]], [[setzte auseinander]], [[setze dich auseinander]], [[setzte auseinander]], -
+wir, [[setzen auseinander]], [[setzten auseinander]], [[setzen uns auseinander]], [[setzten auseinander]], [[setzen uns auseinander]]
+ihr, [[setzt auseinander]], [[setztet auseinander]], [[setzet euch auseinander]], [[setztet auseinander]], [[setzt euch auseinander]]
+sie, [[setzen auseinander]], [[setzten auseinander]], [[setzen sich auseinander]], [[setzten auseinander]], [[setzen sich auseinander]]
 
-*Zu + Inf*: [[auseinanderzusetzen]], *P2*: [[auseinandergesetzt]]
+*Zu + Inf*: zu [[auseinandersetzen]], *P2*: [[auseinandergesetzt]]
 Adjektive: [[auseinandersetzend]], [[auseinandersetzender]], [[auseinandersetzendst]]
 
 ---

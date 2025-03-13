@@ -39,4 +39,4 @@ Partizip I: [[aufbauend]], Partizip II: [[aufgebaut]], [[aufzubauen]]
 
 [[aufbauen]] - [[auf]] = [[bauen]]
 , [[Extra 8]], [[abreißen]], [[aufstellen]], [[stellen]], [[umwerfen]], [[abnehmen]], [[errichteten]], [[zerstörten]], [[Verwaltungsaufbau]], [[vernichten]]
-, [[zusammenbrechen]]
+, [[zusammenbrechen]], [[etablieren]]

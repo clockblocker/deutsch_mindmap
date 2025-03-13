@@ -1,1 +1,1 @@
-, [[Geige]], [[geigen]]
+, [[Geige]], [[geigen]], [[vergeigen]]

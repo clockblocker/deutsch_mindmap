@@ -1,1 +1,1 @@
-, [[schwer]], [[leicht]]
+, [[schwer]], [[leicht]], [[anstrengend]]

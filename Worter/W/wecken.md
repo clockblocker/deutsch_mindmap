@@ -5,6 +5,8 @@ haben [[geweckt]]
 ---
 (Dreht sich um) Los, [[weck]] meinen Onkel und sag ihm, ich hab endlich den Avatar gefunden
 
+[[Einen Ohrwurm haben#^1|^]] Thomas lässt sich gerne von Musik [[wecken]]. ^1
+
 ---
 Synonyme: [[aufwecken]], [[aufwachen]], [[erwachen]], [[aufwecken]]
 Antonyme: [[einschlafen]], [[schlafen]], [[ruhen]]
@@ -26,3 +28,4 @@ Morpheme: [[weck]][[en]]
 | Sie | [[wecken]] | [[weckten]] | [[wecken Sie]] | [[wecken]] | [[weckten]] |
 
 Partizip I: [[weckend]], Partizip II: [[geweckt]]
+, [[Wecker]]

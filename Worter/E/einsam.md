@@ -4,6 +4,8 @@ nicht [[gesellig]], [[Allein]]
 ---
 Sie fühlte sich aber [[einsam]] und schwach.
 
+[[Einen Korb bekommen#^12|^]] „Muss Liebe schön sein“, hat Mikael gedacht und sich dabei ziemlich [[einsam]] [[gefühlt]]. ^12
+
 Dort kann man für nicht einmal 50 Euro zwischen Sommerblumen, einem Haus in [[einsamer]] Landschaft oder einer Straße im Nebel wählen.
 
 

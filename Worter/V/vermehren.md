@@ -1,1 +1,1 @@
-, [[erhöhen]], [[mehrere]], [[ersetzen]], [[züchten]]
+, [[erhöhen]], [[mehrere]], [[ersetzen]], [[züchten]], [[verringern]]

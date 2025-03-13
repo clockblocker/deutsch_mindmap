@@ -1,1 +1,1 @@
-, [[herausfordern]], [[fordern]], [[Herausforderung]], [[anspruchsvoll]]
+, [[herausfordern]], [[fordern]], [[Herausforderung]], [[anspruchsvoll]], [[anstrengend]]

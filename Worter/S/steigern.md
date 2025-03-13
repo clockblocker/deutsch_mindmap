@@ -1,1 +1,1 @@
-, [[höherstellen]], [[erhöhen]], [[tausendfachen]]
+, [[höherstellen]], [[erhöhen]], [[tausendfachen]], [[verringern]]

@@ -20,4 +20,4 @@ Wir haben eine lange Reise hinter uns und sind alle recht müde [[davon]]
 
 #Pronoun
 
-“from it” or “because of it.”, [[dabei]], [[11 08]]
+“from it” or “because of it.”, [[dabei]], [[11 08]], [[hiervon]]

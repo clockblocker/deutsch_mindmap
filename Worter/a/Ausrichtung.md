@@ -1,1 +1,1 @@
-, [[Richtung]], [[Tendenz]], [[Richtungsänderung]]
+, [[Richtung]], [[Tendenz]], [[Richtungsänderung]], [[ausrichten]]

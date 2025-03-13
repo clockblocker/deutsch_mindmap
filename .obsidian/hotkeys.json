@@ -167,5 +167,14 @@
       ],
       "key": "R"
     }
+  ],
+  "convert-url-to-iframe:url-to-iframe": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "K"
+    }
   ]
 }

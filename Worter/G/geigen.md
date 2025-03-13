@@ -27,4 +27,4 @@ PI: [[geigend]], PII: [[gegeigt]], Zu+inf: [[zugeigen]]
 [[geigen]] - to play violin / Musikinstrument spielen
 
 ---
-[[Geige]], [[Geiger]], [[Geigerin]], [[Geigenspiel]], [[Geigenunterricht]]
+[[Geige]], [[Geiger]], [[Geigerin]], [[Geigenspiel]], [[Geigenunterricht]], [[vergeigen]]

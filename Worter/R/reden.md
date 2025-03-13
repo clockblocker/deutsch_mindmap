@@ -43,4 +43,4 @@ Morpheme: [[red]][[en]]
 Partizip I: [[redend]], Partizip II: [[geredet]]
 
 [[reden]] - [[red]][[en]], [[Redewendung]], [[überreden]], [[Schweige]], [[flöten]]
-, [[Verabredung]]
+, [[Verabredung]], [[pfeifen]]

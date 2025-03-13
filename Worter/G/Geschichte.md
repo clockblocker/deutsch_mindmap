@@ -1,29 +1,28 @@
-📜 🔴 die [[Geschichte]], [ɡəˈʃɪçtə]
+📜 🔴 die [[Geschichte]], [ɡəˈʃɪçtə](https://youglish.com/pronounce/Geschichte/german)
 die [[Geschichten]]
 
 ---
 [[Extra 1#^2|(q)]] Das ist die [[Geschichte]] von Sascha und Anna. ^2
 
 ---
-= [[Erzählung]], [[Historie]], [[Vergangenheit]]
-≈ [[Bericht]], [[Chronik]], [[Saga]], [[Story]]
-≠ [[Zukunft]], [[Gegenwart]], [[Fiktion]]
+= [[Erzählung]], [[Bericht]], [[Historie]]
+≈ [[Vergangenheit]], [[Chronik]], [[Saga]], [[Legende]]
+≠ [[Zukunft]], [[Fiktion]], [[Erfindung]]
 
 ---
 history, story
 история, рассказ
 
 ---
-[[geschehen]], [[geschichtlich]], [[Geschichtenerzähler]], [[Geschichtsbuch]]
+[[geschichtlich]], [[Geschichtenerzähler]], [[Geschichtsforschung]], [[Historiker]]
 
 ---
-[[Geschicht]]|[[e]]
+[[Ge]]|[[schicht]]|[[e]]
 [[Geschichte]]
 
 
 ---
-N: die [[Geschichte]], die [[Geschichten]]
-A: die [[Geschichte]], die [[Geschichten]]
-G: der [[Geschichte]], der [[Geschichten]]
+N: die [[Geschichte]], die [[Geschichten]]  
+A: die [[Geschichte]], die [[Geschichten]]  
+G: der [[Geschichte]], der [[Geschichten]]  
 D: der [[Geschichte]], den [[Geschichten]]
-, [[Geschichtsbuch]]

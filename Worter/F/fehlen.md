@@ -1,38 +1,62 @@
-⚠️ [[fehlen]] + Dat, [ˈfeːlən]
-[[fehlte]]
-haben [[gefehlt]]
+😟 [[fehlen]], [ˈfeːlən](https://youglish.com/pronounce/fehlen/german) | [[fehlte]], haben [[gefehlt]]
 
 ---
 Ach - Maria, du wirst mir [[fehlen]].  
 
+Ergänze die [[fehlenden]] Präpositionen:
+
 *In meiner Kette [[fehlt]] kein Glied*  
 *Wenn die Lust von hinten zieht*  
 
-Stattdessen ein ordentlich gemähter Rasen und ein weißer Zaun. Da [[fehlen]] ja nur noch die [[Gartenzwerge]]! Ist sie hier wirklich bei Freddie und Amelie? 
+Stattdessen ein ordentlich gemähter Rasen und ein weißer Zaun. Da [[fehlen]] ja nur noch die [[Gartenzwerge]]! Ist sie hier wirklich bei Freddie und Amelie?
 
 ---
-Synonyme: [[mangeln]], [[vermissen]], [[abgehen]], [[nicht vorhanden sein]], [[ausbleiben]]
-Antonyme: [[vorliegen]], [[vorhanden sein]], [[existieren]], [[besitzen]], [[enthalten]]
+= [[mangeln]], [[vermissen]], [[abgehen]]
+≈ [[fehlen]], [[entbehren]], [[verlieren]], [[ausbleiben]]
+≠ [[vorhanden sein]], [[vorliegen]], [[genug sein]], [[übrig sein]]
+
+[[reichen]], [[Fehlermeldung]], [[vorkommen]], [[Mengenangabe]], [[auftreten]]
 
 ---
-Übersetzung: to be missing, to lack
+[[fehl]]|[[en]]
+[[fehlen]]
+
 
 ---
-Morpheme: [[fehl]][[en]]
- #Verb #Untrennbar
+###### [[fehlen]] jD
+- Wem [[fehlt]] das Geld?
+- Mir.
+
+- Warum [[fehlen]] uns die Informationen?
+- Weil wir sie nicht haben.
+
+- Wie lange [[hat]] ihm die Geduld [[gefehlt]]?
+- Schon immer.
 
 ---
+###### [[fehlen]] jN
+- Was [[fehlt]]?
+- Ein Stuhl.
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[fehle]]            | [[fehlte]]            | -                 | [[fehle]]              | [[fehlte]]              |
-| Du        | [[fehlst]]           | [[fehltest]]          | [[fehle]]         | [[fehlest]]            | [[fehltest]]            |
-| Er/sie/es | [[fehlt]]            | [[fehlte]]            | -                 | [[fehle]]              | [[fehlte]]              |
-| Wir       | [[fehlen]]           | [[fehlten]]           | -                 | [[fehlen]]             | [[fehlten]]             |
-| Ihr       | [[fehlt]]            | [[fehltet]]           | [[fehlt]]         | [[fehlet]]             | [[fehltet]]             |
-| Sie       | [[fehlen]]           | [[fehlten]]           | [[fehlen Sie]]    | [[fehlen]]             | [[fehlten]]             |
+- Warum [[fehlen]] uns die Zutaten?
+- Weil wir sie vergessen haben.
 
-Partizip I: [[fehlend]], Partizip II: [[gefehlt]]
+- Wie lange [[hat]] das [[gefehlt]]?
+- Seit gestern.
 
-, [[sein]]
-, [[reichen]], [[Fehlermeldung]], [[vorkommen]], [[Mengenangabe]], [[auftreten]]
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[fehl]] / [[fehle]], [[fehlte]], [[fehle]], [[fehlte]], -
+du, [[fehlst]], [[fehltest]], [[fehlest]], [[fehltest]], [[fehl]] / [[fehle]]
+er, [[fehlt]], [[fehlte]], [[fehle]], [[fehlte]], -
+wir, [[fehlen]], [[fehlten]], [[fehlen]], [[fehlten]], [[fehlen]]
+ihr, [[fehlt]], [[fehltet]], [[fehlt]], [[fehltet]], [[fehlt]]
+sie, [[fehlen]], [[fehlten]], [[fehlen]], [[fehlten]], [[fehlen]]
+
+*Zu + Inf*: zu [[fehlen]], *P2*: [[gefehlt]]
+Adjektive: [[fehlend]], [[fehlender]], [[fehlendst]]
+
+---
+[[fehlender]], [[fehlendes]], [[fehlende]], [[fehlenden]], [[fehlendem]], [[fehlenderer]], [[fehlenderes]], [[fehlendere]], [[fehlenderen]], [[fehlenderem]], [[fehlendster]], [[fehlendstes]], [[fehlendste]], [[fehlendsten]], [[fehlendstem]]
+
+[[deutsche]]

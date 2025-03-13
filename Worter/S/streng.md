@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[streng]], [[strengere]], [[strengeres]], [[strengerer]], [[strengerem]], [[strengen]], [[strengere]], [[strengeres]], [[strengerer]], [[strengerem]]
 [[strengste]], [[strengster]], [[strengstes]], [[strengsten]], [[strengstem]], [[Extra 8]], [[anstrengen]]
-, [[Anstrengung]], [[unerbittlich]]
+, [[Anstrengung]], [[unerbittlich]], [[anstrengend]]

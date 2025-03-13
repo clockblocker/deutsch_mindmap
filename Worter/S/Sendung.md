@@ -17,4 +17,4 @@ Morphems:
 [[Send]][[ung]]
 
 ---
-#Substantiv #Feminin, [[Lieferung]], [[Bestellung]]
+#Substantiv #Feminin, [[Lieferung]], [[Bestellung]], [[Sender]]

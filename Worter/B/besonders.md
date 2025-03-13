@@ -48,4 +48,4 @@ Plural: [[besondere]], [[besondere]], [[besondere]]
 [[Besonderheit]], [[besondersartig]], [[besonderlich]]\
 
 , [[eignen]], [[geeignet]], [[hervorragend]]
-, [[allgemein]], [[s1 e1]], [[Anki]], [[üblich]], [[anstrengen]], [[einmalig]], [[banal]]
+, [[allgemein]], [[s1 e1]], [[Anki]], [[üblich]], [[anstrengen]], [[einmalig]], [[banal]], [[insbesondere]]

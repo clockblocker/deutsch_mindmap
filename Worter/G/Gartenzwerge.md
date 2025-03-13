@@ -1,1 +1,1 @@
-🏡 🔴 die [[Gartenzwerg]]
+🏡 🔴 die [[Gartenzwerg]], [[fehlen]]

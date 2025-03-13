@@ -1,1 +1,1 @@
-, [[Bedeutung]]
+, [[Bedeutung]], [[tragen]]

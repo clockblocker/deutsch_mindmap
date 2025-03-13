@@ -1,1 +1,1 @@
-, [[sein]], [[gelangen]], [[geraten]]
+, [[sein]], [[gelangen]], [[geraten]], [[landen]], [[herumkriechen]]

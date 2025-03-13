@@ -1,34 +1,62 @@
-
-🤝 [[verabreden]], [fɛɐ̯ˈʔaːbʁeːdn̩] | [[verabredete]], haben [[verabredet]]
+🤝 [[verabreden]], [fɛɐ̯ˈʔaːbʁeːdn̩](https://youglish.com/pronounce/verabreden/german) | [[verabredete]], haben [[verabredet]]
 
 ---
 [[Verabredung]]
 
+[[Einen Korb bekommen#^23|^]] „Und da dachte ich, du hast vielleicht Lust, mit mir ins Konzert zu gehen.“ „Tut mir leid,“ sagt Mikael, „ich bin mit meiner Freundin [[verabredet]].“ „Freundin?“, fragt Anna überrascht. ^23
+
 Unsere Freunde [[verabreden]] sich eine Reise zu machen 
 
 ---
-= [[abmachen]], [[vereinbaren]], [[terminieren]], [[sich treffen]]
-≈ [[planen]], [[vereinbaren]], [[festlegen]]
-≠ [[absagen]], [[verschieben]], [[stornieren]]
+= [[vereinbaren]], [[terminieren]], [[sich treffen]]
+≈ [[planen]], [[vereinbaren]], [[festlegen]], [[absprechen]]
+≠ [[absagen]], [[verschieben]], [[stornieren]], [[auflösen]]
 
 ---
 to arrange, to make an appointment
 договариваться, назначать встречу
 
 ---
+[[Verabredung]], [[verabredet]], [[Abmachung]], [[verabredungsgemäß]]
+
+---
 [[ver]]|[[ab]]|[[red]]|[[en]]
+[[ver]] + [[abreden]]
+
 
 ---
-ich: [[verabrede]], [[verabredete]], –, [[verabrede]], [[verabredete]]
-du: [[verabredest]], [[verabredetest]], [[verabrede]] | [[verabred]], [[verabredest]], [[verabredetest]]
-er/sie/es: [[verabredet]], [[verabredete]], –, [[verabrede]], [[verabredete]]
-wir: [[verabreden]], [[verabredeten]], [[verabreden wir|verabreden]], [[verabreden]], [[verabredeten]]
-ihr: [[verabredet]], [[verabredetet]], [[verabredet]], [[verabredet]], [[verabredetet]]
+###### [[verabreden]] *[[sich]]* `mit` jM
+- `Mit` wem [[verabredest]] du *[[dich]]*?
+- `Mit` meiner Freundin.
 
-PI: [[verabredend]], PII: [[verabredet]], Zu+inf: [[zu verabreden]]
+- `Mit` wem [[haben]] wir *[[uns]]* [[verabredet]]?
+- `Mit` unseren Kollegen.
+
+- Warum [[hat]] er *[[sich]]* `mit` ihr [[verabredet]]?
+- Um über die Arbeit zu sprechen.
 
 ---
-[[verabreden]] - [[ver]] - [[ab]] = [[reden]] / to arrange, to make an appointment
+###### [[verabreden]] jN `mit` jM
+- Was [[verabredest]] du `mit` ihm?
+- Ein Treffen.
+
+- Was [[haben]] wir `mit` ihnen [[verabredet]]?
+- Eine Besprechung.
+
+- Warum [[hat]] sie das `mit` ihm [[verabredet]]?
+- Um die Details zu klären.
 
 ---
-[[Verabredung]], [[Rede]], [[verabredet]]
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[verabrede]], [[verabredete]], [[verabrede]], [[verabredete]], -
+du, [[verabredest]], [[verabredetest]], [[verabrede]], [[verabredetest]], [[verabred]] / [[verabrede]]
+er, [[verabredet]], [[verabredete]], [[verabrede]], [[verabredete]], -
+wir, [[verabreden]], [[verabredeten]], [[verabreden]], [[verabredeten]], [[verabreden]]
+ihr, [[verabredet]], [[verabredetet]], [[verabredet]], [[verabredetet]], [[verabredet]]
+sie, [[verabreden]], [[verabredeten]], [[verabreden]], [[verabredeten]], [[verabreden]]
+
+*Zu + Inf*: zu [[verabreden]], *P2*: [[verabredet]]
+Adjektive: [[verabredend]], [[verabredender]], [[verabredendst]]
+
+---
+[[verabredender]], [[verabredendes]], [[verabredende]], [[verabredenden]], [[verabredendem]], [[verabredenderer]], [[verabredenderes]], [[verabredendere]], [[verabredenderen]], [[verabredenderem]], [[verabredendster]], [[verabredendstes]], [[verabredendste]], [[verabredendsten]], [[verabredendstem]]

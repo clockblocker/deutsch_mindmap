@@ -1,1 +1,1 @@
-, [[durchgeknallt]], [[irre]], [[verrückt]], [[sachlich]], [[geistig]], [[vernünftig]]
+, [[durchgeknallt]], [[irre]], [[verrückt]], [[sachlich]], [[geistig]], [[vernünftig]], [[wahnsinnig]]

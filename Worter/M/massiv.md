@@ -1,1 +1,1 @@
-, [[dick]], [[schmale]], [[gewaltigen]], [[gewaltig]], [[fett]], [[bullig]]
+, [[dick]], [[schmale]], [[gewaltigen]], [[gewaltig]], [[fett]], [[bullig]], [[stark]]

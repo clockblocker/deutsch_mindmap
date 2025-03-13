@@ -37,4 +37,4 @@ PI: [[absagend]], PII: [[abgesagt]], Zu+inf: [[abzusagen]]
 
 ---
 [[Absage]], [[Absagetermin]], [[Absagefrist]], [[Absagegrund]], [[Absender]], [[1 Präpositionen Übungen]]
-, [[verabreden]], [[abschrecken]]
+, [[verabreden]], [[abschrecken]], [[ausrichten]]

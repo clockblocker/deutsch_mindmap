@@ -1,2 +1,2 @@
 , [[beleidigt]]
-, [[bedrückt]]
+, [[bedrückt]], [[gelaunt]]

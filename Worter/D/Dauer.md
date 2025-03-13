@@ -1,1 +1,1 @@
-, [[Dauerausstellung]]
+, [[Dauerausstellung]], [[andauern]]

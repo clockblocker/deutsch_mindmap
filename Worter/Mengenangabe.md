@@ -23,4 +23,4 @@ G: der [[Mengenangabe]], der [[Mengenangaben]]
 D: der [[Mengenangabe]], den [[Mengenangaben]]  
 
 ---
-[[mengenmäßig]], [[mengenweise]], [[mengenbedingt]], [[mengenabhängig]]
+[[mengenmäßig]], [[mengenweise]], [[mengenbedingt]], [[mengenabhängig]], [[fehlen]]

@@ -4,6 +4,8 @@ die [[Vorträge]]
 ---
 Sie [[verpassen]] den gesamten [[Vortrag]].
 
+[[Vortrag]] in Magiegeschichte
+
 
 ---
 = [[Referat]], [[Präsentation]], [[Rede]]

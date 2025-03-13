@@ -1,5 +1,5 @@
 🔴 🌈 die [[Laune]], [ˈlaʊ̯nə]
-die [[Launen]]
+die [[launen]]
 
 ---
 Kaufen Sie ein neues [[Parfum]]. Ein schöner [[Duft]] bringt gute [[Laune]].
@@ -18,11 +18,11 @@ mood, temper, disposition
 [[Lau]]|[[ne]]
 
 ---
-N: die [[Laune]], die [[Launen]]  
-A: die [[Laune]], die [[Launen]]  
-G: der [[Laune]], der [[Launen]]  
-D: der [[Laune]], den [[Launen]]  
+N: die [[Laune]], die [[launen]]  
+A: die [[Laune]], die [[launen]]  
+G: der [[Laune]], der [[launen]]  
+D: der [[Laune]], den [[launen]]  
 
 ---
 [[launisch]], [[launenhaft]], [[aufheitern]], [[verstimmen]]
-, [[Stimmungsschwankung]]
+, [[Stimmungsschwankung]], [[gelaunt]]

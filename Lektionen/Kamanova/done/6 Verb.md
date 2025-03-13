@@ -83,59 +83,63 @@ Sie besuchen Oma und Opa oft und spielen dort.
   
 
 1. Meine Eltern fahren nach Berlin (fahren).
-
-2. Sein Onkel fährt nach Kassel (fahren).
-
-3. Wann fahrt ihr nach Moskau? (fahren).
-
-4. Warum fährst du nach Moskau nicht? (fahren).
-
-5. Kinder spielen, sie schlafen nicht (schlafen).
-
-6. Leider unsere Großmutter schläft nicht gut (schlafen).
-
-7. du schläfst schon? (schlafen).
-
-8. Wo schlaft ihr heute? (schlafen).
-
-9. Ich liese die Zeitung (lesen).
-
-10. Mein liest Bruder ein neues Buch (lesen).
-
-11. Was liest du? (lesen).
-
-12. Warum  ihr diese Zeitung? (lesen).
-
-13. Ich sehe meinen roten Stift nicht (sehen).
-
-14. Der Hund sieht das Spielzeug nicht (sehen).
-
-15. Siehst du deine Schwester oft? (sehen).
-
-16. Wo seht ihr dieses Wort? (sehen).
-
-17. Sie sprechen Deutsch? (sprechen).
-
-18. Sein Vater spricht  Englisch nicht schlecht (sprechen).
-
-19. Sprichst du Englisch? (sprechen).
-
-20. Wie gut sprechen ihr Russisch? (sprechen).
-
-21. Nehmen Sie Ihre Tasche, bitte! (nehmen).
-
-22. Er nimmt meinen Wagen oft (nehmen).
-
-23. Nimmst du diese alten Bücher? (nehmen).
-
-24. Ihr nehmt meine Sachen! (nehmen).
+Meine Eltern fahren zu Berlin.
 
 
-7. Verstehst du mich? (verstehen). ❌
-8. Er versteht dieses Buch nicht (verstehen). ❌
-10. Zahlst du für diese Zeitung? (zahlen). ❌
-11. Er zahlt für diese schönen Blumen (zahlen). ❌
-14. Wo wartet ihr auf den Lehrer? (warten). ❌
+
+
+1. Sein Onkel fährt nach Kassel (fahren).
+
+2. Wann fahrt ihr nach Moskau? (fahren).
+
+3. Warum fährst du nach Moskau nicht? (fahren).
+
+4. Kinder spielen, sie schlafen nicht (schlafen).
+
+5. Leider unsere Großmutter schläft nicht gut (schlafen).
+
+6. du schläfst schon? (schlafen).
+
+7. Wo schlaft ihr heute? (schlafen).
+
+8. Ich liese die Zeitung (lesen).
+
+9. Mein liest Bruder ein neues Buch (lesen).
+
+10. Was liest du? (lesen).
+
+11. Warum  ihr diese Zeitung? (lesen).
+
+12. Ich sehe meinen roten Stift nicht (sehen).
+
+13. Der Hund sieht das Spielzeug nicht (sehen).
+
+14. Siehst du deine Schwester oft? (sehen).
+
+15. Wo seht ihr dieses Wort? (sehen).
+
+16. Sie sprechen Deutsch? (sprechen).
+
+17. Sein Vater spricht  Englisch nicht schlecht (sprechen).
+
+18. Sprichst du Englisch? (sprechen).
+
+19. Wie gut sprechen ihr Russisch? (sprechen).
+
+20. Nehmen Sie Ihre Tasche, bitte! (nehmen).
+
+21. Er nimmt meinen Wagen oft (nehmen).
+
+22. Nimmst du diese alten Bücher? (nehmen).
+
+23. Ihr nehmt meine Sachen! (nehmen).
+
+
+24. Verstehst du mich? (verstehen). ❌
+25. Er versteht dieses Buch nicht (verstehen). ❌
+26. Zahlst du für diese Zeitung? (zahlen). ❌
+27. Er zahlt für diese schönen Blumen (zahlen). ❌
+28. Wo wartet ihr auf den Lehrer? (warten). ❌
 
 ### 6.4*  
 **Заполните пропуски соответствующими формами личных местоимений в Akkusativ:**
@@ -269,7 +273,7 @@ Ich sehe ... (du)
 12. Он видит свою старую бабушку не часто. Er sieht seine alte Oma nicht oft
 13. Ты видишь там мою машину?  Siehst du dort mein Auto?
 14. Ты видишь эту красивую девушку?  Siehst du dort das schöne Mädchen?
-15. Почему твой ребенок ещё не спит?  Warum schläft dein Kind noch nicht?
+15. Почему твой ребенок ещё не спит?  Warum schlaft dein Kind noch nicht?
 16. Что ты там видишь?  Was siehst du dort? 
 17. Что ты читаешь?  Was liest du?
 18. Что ты там берешь?  Was nimmst du? 

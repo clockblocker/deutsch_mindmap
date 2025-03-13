@@ -3,6 +3,8 @@
 ---
 Sein Name [[steht]] [[an]] erster [[Stelle]].
 
+[[Einen Korb bekommen#^8|^]] Damals wusste er noch nicht, dass sie [[auf]] Frauen [[steht]]. ^8
+
 ---
 [[entstehen]] - [[ent]] = [[stehen]] / to emerge, to arise, to develop
 [[aufstehen]] - [[auf]] = [[stehen]] / to get up, to rise
@@ -38,4 +40,4 @@ PI: [[stehend]], PII: [[gestanden]], Zu+inf: [[zustehen]]
 [[gehen]], [[Sitz]], [[laufen]], [[standhaft]]
 , [[s1 e1]], [[tanzen]]
 , [[Gegenstand]]
-, [[schwanken]]
+, [[schwanken]], [[herumkriechen]]

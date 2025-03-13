@@ -1,1 +1,1 @@
-, [[Verrückte]]
+, [[Verrückte]], [[wahnsinnig]]

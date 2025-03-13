@@ -1,1 +1,1 @@
-, [[Haltestelle]]
+, [[Haltestelle]], [[Sender]]

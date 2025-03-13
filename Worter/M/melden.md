@@ -1,19 +1,23 @@
-, [[anzeigen]], [[Einwohnermeldeamt]], [[s1 e1]]
  📢 [[melden]], [ˈmɛldn̩] | [[meldete]], haben [[gemeldet]]
 
 ---
 _Alle melden sich und gehen weg. Sokka schlägt sich ins Gesicht_
 
+[[Einen Korb bekommen#^10|^]] Doch in den letzten Wochen hat sie sich [[kaum]] [[gemeldet]]. ^10
+
+ [[Einwohnermeldeamt]]
+
 [[2#^7|^]] Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
 
  [[Fehlermeldung]],
+ 
 ---
-= [[anzeigen]], [[berichten]], [[mitteilen]], [[Meldung]]
+= [[anzeigen]], [[berichten]], [[mitteilen]], [[Meldung]], [[anzeigen]],
 ≈ [[informieren]], [[bekannt machen]], [[sagen]]
 ≠ [[verschweigen]], [[verheimlichen]], [[ignorieren]]
 
 ---
-to report, to announce
+keep in touch, to report, to announce
 сообщать, докладывать
 
 ---

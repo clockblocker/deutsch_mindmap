@@ -1,1 +1,1 @@
-, [[östlich]]
+, [[östlich]], [[westeuropäisch]]

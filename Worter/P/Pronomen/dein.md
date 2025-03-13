@@ -27,4 +27,4 @@ Neuter
 - **Das Spielzeug [[deines]] Kindes ist bunt**  #Genitiv (Your child’s toy is colorful)
 
 [[Akkusativ possessiv Pronomen]]
-, [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]]
+, [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]], [[Deinetwegen]]

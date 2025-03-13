@@ -1,2 +1,2 @@
 [[bestehen]], [[sein]], [[fehlen]], [[vorliegen]]
-, [[mangeln]]
+, [[mangeln]], [[vorhanden]]

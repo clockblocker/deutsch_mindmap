@@ -272,7 +272,7 @@
 - [[Zitrone]], [[Zitronen]] - лимон
 - [[Apfelsine]], [[Apfelsinen]] - апельсин
 - [[Frucht]], [[Früchte]] - фрукт
-- [[Laune]], [[Launen]] - настроение
+- [[Laune]], [[launen]] - настроение
 - [[Stunde]], [[Stunden]] - час
 - [[Haut]], [[Häute]] - кожа
 - [[Erdbeere]], [[Erdbeeren]] - клубника

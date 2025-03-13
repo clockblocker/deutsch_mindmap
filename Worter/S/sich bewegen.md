@@ -1,3 +1,3 @@
 , [[zappeln]], [[weiterziehen]]
 , [[tanzen]]
-, [[schwanken]]
+, [[schwanken]], [[herumkriechen]]

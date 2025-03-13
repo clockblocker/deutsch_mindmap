@@ -6,6 +6,9 @@ nicht [[zweitrangig]]
 	- [ ] der Staat
 	- [x] die Eltern
 
+[[Große Koalition#^2|^]] Der [[Begriff]] wird [[hauptsächlich]] in Deutschland und Österreich benutzt. ^2
+
+
 ---
 = [[meist]], [[vorwiegend]], [[primär]], [[überwiegend]]
 ≈ [[größtenteils]], [[vornehmlich]], [[zumeist]], [[meistens]]
@@ -29,4 +32,4 @@ P: [[hauptsächlichen]], [[hauptsächlicheren]], [[hauptsächlichsten]]
 ---
 [[Hauptsache]], [[Hauptsächlichkeit]], [[hauptsächlich sein]], [[vorwiegend]]
 
-, [[erst]], , [[nebenbei]], [[mehrheitlich]], [[Oberhaupt]], [[Hauptaufgabe]], [[zudem]], [[vorrangig]]
+, [[erst]], , [[nebenbei]], [[mehrheitlich]], [[Oberhaupt]], [[Hauptaufgabe]], [[zudem]], [[vorrangig]], [[insbesondere]]

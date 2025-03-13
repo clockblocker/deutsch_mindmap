@@ -1,1 +1,1 @@
-[[vereint]], [[gemeinsam]], [[Wirtschaftsgemeinschaft]], [[vernetzt]]
+[[vereint]], [[gemeinsam]], [[Wirtschaftsgemeinschaft]], [[vernetzt]], [[zusammen]]

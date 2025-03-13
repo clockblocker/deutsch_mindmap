@@ -78,4 +78,4 @@ Konjunktiv II:
 - Wenn er unsicher wäre, [[schliche]] er durch das Haus.
 - Wenn wir uns beeilen müssten, [[schlichen]] wir schnell.
 - Wenn ihr Angst hättet, [[schlichtet]] ihr langsam.
-- Wenn sie unbemerkt bleiben wollten, [[schlichen]] sie vorsichtig., [[rennen]], [[krachen]], [[flitzen]]
+- Wenn sie unbemerkt bleiben wollten, [[schlichen]] sie vorsichtig., [[rennen]], [[krachen]], [[flitzen]], [[herumkriechen]]

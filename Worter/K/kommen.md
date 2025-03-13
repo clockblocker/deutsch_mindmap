@@ -5,6 +5,9 @@ sein [[gekommen]]
 ---
 Fahrt ihr im [[kommenden]] Sommer an die Nordsee?
 
+[[Einen Kater haben.md#^3|(q)]] Doch dann [[kommen|kamen]] immer mehr [[Freund|Freunde]] dazu, und am [[Ende]] [[landen|landeten]] alle auf einer [[cool|coolen]] [[Party]]. ^3
+
+
 ---
 [[vorbeikommen]] - [[vorbei]] = [[kommen]]     /  to drop by, to come over
 [[herankommen]] - [[her]] + [[an]] = [[kommen]]  / to approach, to get closer

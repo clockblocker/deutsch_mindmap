@@ -1,1 +1,1 @@
-, [[verletzen]], [[Nachteile]], [[Schwachstellen]]
+, [[verletzen]], [[Nachteile]], [[Schwachstellen]], [[stark]]

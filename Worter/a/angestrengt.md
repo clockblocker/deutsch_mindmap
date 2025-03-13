@@ -1,1 +1,1 @@
-, [[anstrengen]]
+, [[anstrengen]], [[anstrengend]]

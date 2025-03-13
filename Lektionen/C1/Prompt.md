@@ -62,3 +62,9 @@ Ein weiterer, noch wichtiger Aspekt ist die wirtschaftliche Situation. Manche St
 Abschließend lässt sich sagen, außer der eigenen Vorliebe und der Arbeitsmöglichkeiten des Studiums, sind andere Aspekte auch zu achten.
 
 [[Richer]]
+
+es gibt eine einleitung, aber kein richtiger schluss. die argumente sind gut, aber es fehlt eine klar erkennbare struktur (zb. these-antithese-synthese).
+
+fehler wie „die wertvollen quadratmeter als parkplätze zu nutzen“ (besser: „für parkplätze zu verschwenden“) oder „so war es und so ist es brauch“ stören den lesefluss.
+
+Errors like "to use the valuable square meters as parking spaces" (better: "to waste for parking spaces") or "so it was and so it is custom" disrupt the flow of reading.

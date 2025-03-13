@@ -33,4 +33,4 @@ Morpheme: [[kriech]][[en]]
 Partizip I: [[kriechend]], Partizip II: [[gekrochen]]
 
 [[kriechen]] - [[kriech]] = [[en]]
-''', [[fliegen]], [[krabbeln]], [[flitzen]]
+''', [[fliegen]], [[krabbeln]], [[flitzen]], [[herumkriechen]]

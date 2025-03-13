@@ -1,2 +1,2 @@
 , [[ausverkauft]]
-, [[verfügbar]]
+, [[verfügbar]], [[vorhanden]]

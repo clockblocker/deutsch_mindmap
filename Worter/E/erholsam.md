@@ -1,2 +1,2 @@
 , [[bequem]]
-, [[erholen]]
+, [[erholen]], [[anstrengend]]

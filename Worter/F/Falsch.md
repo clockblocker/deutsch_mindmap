@@ -1,3 +1,3 @@
 , [[wahr]], [[richtig]], [[echt]], [[Ehrlich]], [[recht]], [[unrecht]], [[unehrlicher]], [[Gebrauch]], [[passend]]
 , [[entsprechend]]
-, [[verdreht]], [[natürlich]], [[treulos]]
+, [[verdreht]], [[natürlich]], [[treulos]], [[genau]]

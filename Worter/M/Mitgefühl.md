@@ -1,3 +1,3 @@
 , [[Barmherzigen]], [[Erbarmen]]
 , [[mitfühlend]]
-, [[mitbekommt]]
+, [[mitbekommt]], [[fühlen]]

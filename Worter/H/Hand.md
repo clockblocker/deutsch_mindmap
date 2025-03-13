@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Hand]], [[Hands]], [[Hände]], [[Händen]]
 ---
 #Substantiv #Feminin
 ''', [[Handschuh]], [[Handlung]], [[Faust]], [[Unterarm]], [[s1 e1]], [[Pelzhandschuhe]], [[Gabel]]
-, [[anhand]]
+, [[anhand]], [[vorhanden]]

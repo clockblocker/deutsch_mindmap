@@ -1,4 +1,4 @@
 
 , [[Flüchtigkeitsfehler]]
 , [[Sorgfaltsfehler]]
-, [[Sorgfalt]], [[Nachlässigkeit]]
+, [[Sorgfalt]], [[Nachlässigkeit]], [[genau]]

@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[unglaublich]], [[unglaubliche]], [[unglaubliches]], [[unglaublichen]], [[unglaublicher]], [[unglaublichem]], [[unglaublicher]], [[unglaublichen]]
 [[unglaublicher]], [[unglaublicherer]], [[unglaublichere]], [[unglaublicheres]], [[unglaublicheren]], [[unglaublicherem]], [[unglaublicherer]], [[unglaublicheren]]
-[[unglaublichsten]], [[unglaublichster]], [[unglaublichste]], [[unglaublichstes]], [[unglaublichsten]], [[unglaublichstem]], [[unglaublichster]], [[unglaublichsten]], [[s1 e1]]
+[[unglaublichsten]], [[unglaublichster]], [[unglaublichste]], [[unglaublichstes]], [[unglaublichsten]], [[unglaublichstem]], [[unglaublichster]], [[unglaublichsten]], [[s1 e1]], [[wahnsinnig]]

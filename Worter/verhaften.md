@@ -33,4 +33,4 @@ PI: [[verhaftend]], PII: [[verhaftet]], Zu+inf: [[zuverhaften]]
 [[verhaften]] - [[ver]] = [[haften]] / to arrest, to detain
 
 ---
-[[Verhaftung]], [[Verhafteter]], [[Haft]], [[Gefangener]], [[Festnahme]], [[Verhaftungen]]
+[[Verhaftung]], [[Verhafteter]], [[Haft]], [[Gefangener]], [[Festnahme]], [[Verhaftungen]], [[gefangenzuhalten]]

@@ -1,1 +1,1 @@
-, [[vorbereiten]], [[bereiten]], [[abhalten]], [[Gewerkschaft]], [[verwalten]]
+, [[vorbereiten]], [[bereiten]], [[abhalten]], [[Gewerkschaft]], [[verwalten]], [[ausrichten]]

@@ -1,1 +1,1 @@
-[[Wetter]], [[Himmel]]
+[[Wetter]], [[Himmel]], [[Stimmung]]

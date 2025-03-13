@@ -3,6 +3,8 @@
 ---
 Ich [[verwende]] mein Telefon auch, um Fotos zu machen.
 
+[[Große Koalition#^3|^]] Für [[westeuropäische]] Staaten wird der Begriff in der Regel [[verwendet]], um eine Koalition zwischen den beiden größten (mandatsstärksten) in einem von zwei so genannten Volksparteien dominierten Parteiensystem zu [[beschreiben]]. ^3
+
 "Die [[Bezeichnung]] Verb geht auf das lateinische _verbum_ 'Wort' zurück, das [[seinerseits]] als Übersetzung des griechischen Wortes für '[[Aussage]]' [[verwendet]] wurde - ein [[Hinweis]] darauf, dass man das Verb als [[unentbehrlich]] für eine Aussage [[ansah]]".
 
 ---

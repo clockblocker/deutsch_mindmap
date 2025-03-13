@@ -1,1 +1,1 @@
-[[anhaben]], [[anziehen]], [[Kleidung]], [[Bekleidung]]
+[[anhaben]], [[anziehen]], [[Kleidung]], [[Bekleidung]], [[tragen]]

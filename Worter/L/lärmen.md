@@ -1,2 +1,2 @@
 , [[brüllen]]
-, [[verstummen]]
+, [[verstummen]], [[summen]]

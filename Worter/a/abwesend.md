@@ -1,3 +1,3 @@
 , [[anwesend]], [[erreichbar]], [[fehlend]]
 , [[fern]]
-, [[verträumt]]
+, [[verträumt]], [[vorhanden]]

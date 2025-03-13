@@ -1,2 +1,2 @@
 \🛠️ [[stellen]]  
-, [[Angestellte]]
+, [[Angestellte]], [[einstellen]]

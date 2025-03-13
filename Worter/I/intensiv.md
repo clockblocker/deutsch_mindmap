@@ -1,1 +1,1 @@
-, [[scharf]]
+, [[scharf]], [[stark]]

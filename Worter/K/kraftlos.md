@@ -1,1 +1,1 @@
-, [[schwach]], [[Kraft]], [[erschöpft]], [[matt]]
+, [[schwach]], [[Kraft]], [[erschöpft]], [[matt]], [[stark]]

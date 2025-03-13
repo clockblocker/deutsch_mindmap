@@ -30,7 +30,7 @@ Nein!
 Nein!
 
 Willst du bis [[zum]] Tod der [[Scheide]]  
-Sie [[Lieben]] [[auch]] in [[schlechten]] [[Tagen]]?  
+Sie [[lieben]] [[auch]] in [[schlechten]] [[Tagen]]?  
 Nein!  
 Nein!
 

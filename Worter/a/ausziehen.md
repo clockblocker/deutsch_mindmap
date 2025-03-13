@@ -34,4 +34,4 @@ Partizip I: [[auszuziehend]], Partizip II: [[ausgezogen]]
 [[anhaben]], [[wohnen]]
 
 , [[Kontoauszug]], [[beziehen]], [[Bekleidung]]
-, [[anziehen]]
+, [[anziehen]], [[tragen]]

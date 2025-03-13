@@ -1,2 +1,2 @@
 , [[Deutschland]]
-, [[althochdeutsch]]
+, [[althochdeutsch]], [[Deutsche]]

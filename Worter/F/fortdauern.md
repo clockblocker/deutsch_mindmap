@@ -1,1 +1,1 @@
-[[bestehen]], [[vergehen]]
+[[bestehen]], [[vergehen]], [[andauern]]

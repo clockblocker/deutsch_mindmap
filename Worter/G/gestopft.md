@@ -43,4 +43,4 @@ Tags:
 
 ---
 Morphems:
-[[gestopft]]
+[[gestopft]], [[Stopfen]]

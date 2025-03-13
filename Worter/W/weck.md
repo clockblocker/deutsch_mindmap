@@ -1,1 +1,1 @@
-🔒 [[wecken]], [[s1 e1]]
+🔒 [[wecken]], [[s1 e1]], [[Wecker]]

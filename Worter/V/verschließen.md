@@ -1,4 +1,4 @@
 , [[festziehen]], [[anlachen]], [[aufzukriegen]], [[aufsperren]], [[abschließen]], [[bohren]], [[Briefumschlag]]
 , [[zudrücken]]
 , [[zumachen]]
-, [[aufmachen]]
+, [[aufmachen]], [[verstopfen]]

@@ -24,4 +24,4 @@ G: der [[Geige]], der [[geigen]]
 D: der [[Geige]], den [[geigen]]  
 
 ---
-[[geigen]], [[Geiger]], [[Geigermeister]], [[Geigenspiel]], [[geigend]]
+[[geigen]], [[Geiger]], [[Geigermeister]], [[Geigenspiel]], [[geigend]], [[vergeigen]]

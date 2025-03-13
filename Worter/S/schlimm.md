@@ -4,6 +4,8 @@ nicht [[gut]]
 ---
 Da [[angehen|ging]] eine [[schlimme]] Zeit für das arme [[Stiefkind]] an. 
 
+[[Einen Korb bekommen#^1|^]] Was ist an einem Korb so [[schlimm]]? ^1
+
 [[Eine Extrawurst bekommen.md#^6|(q)]] [[Ausgerechnet]] zu Tante Gisela, die Kinder doch sowieso nicht [[leiden]] kann! Das [[Schlimmste]] aber ist: Tim muss nicht mitkommen. ^6
 
 "Soll die dumme [[Gans]] bei uns in der [[Stube]] sitzen!" sprachen sie, "wer Brot essen will, muß [[verdienen]]: hinaus mit der [[Küchenmagd]]!" 

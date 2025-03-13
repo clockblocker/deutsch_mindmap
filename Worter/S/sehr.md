@@ -13,4 +13,4 @@ Synonyme:
 
 ---
 #Adverb, [[bitterlich]], [[bald]], [[ziemlich]]
-, [[viel]]
+, [[viel]], [[wahnsinnig]]

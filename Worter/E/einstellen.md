@@ -1,80 +1,71 @@
-⚙️ [[einstellen]]
-[[stellte ein]]
-haben [[eingestellt]]
+⚙️ [[einstellen]], [ˈaɪ̯nˌʃtɛlən](https://youglish.com/pronounce/einstellen/german) | [[stellte ein]], haben [[eingestellt]]
 
 ---
 9. Temperatur [[einstellen]].
 
+[[Einen Ohrwurm haben#^3|^]] Deshalb hat er auch einen Oldie-[[Sender]] auf seinem Radio-[[Wecker]] [[eingestellt]]. ^3
 
 ---
-
-Synonyme:
-- [[justieren]], [[anpassen]], [[regulieren]]
-
----
-
-Beispiele:
-
-- Ich [[Stelle]] den Wecker [[ein]].
-- Du [[stellst]] die Lautstärke [[ein]].
-- Er [[stellt]] die Maschine [[ein]].
-- Es [[stellt]] sich [[ein]] nach einiger Zeit.
-- Wir [[stellen]] das Radio [[ein]].
-- Ihr [[stellt]] die Parameter [[ein]].
-- Sie [[stellen]] die Uhr [[ein]].
+= [[justieren]], [[regulieren]], [[anpassen]]
+≈ [[einrichten]], [[installieren]], [[programmieren]], [[anpassen]]
+≠ [[ausschalten]], [[deaktivieren]], [[verstellen]]
 
 ---
-**Übersetzung**: to adjust, to set, to regulate
+to set, to adjust
+настраивать, устанавливать
 
 ---
-
-Morphems of only infinitive:
-[[ein]][[stellen]]
+[[Einstellung]], [[gestellt]], [[Stellung]], [[einrichten]], [[stellen]]
 
 ---
-Tags: 
-#Verb #Trennbar
+[[ein]]|[[stell]]|[[en]]
+[[ein]] + [[stellen]]
+
 
 ---
+###### [[einstellen]] jN
+- Was [[stellst]] du [[ein]]?
+- Die Klimaanlage.
 
-Präteritum:
+- Was [[stellen]] wir [[ein]]?
+- Die Route im Navigationssystem.
 
-- Ich [[stellte ein|stellte]] den Wecker [[ein]].
-- Du [[stelltest ein|stelltest]] die Lautstärke [[ein]].
-- Er [[stellte ein|stellte]] die Maschine [[ein]].
-- Es [[stellte ein|stellte]] sich [[ein]] nach einiger Zeit.
-- Wir [[stellten ein|stellten]] das Radio [[ein]].
-- Ihr [[stelltet ein|stelltet]] die Parameter [[ein]].
-- Sie [[stellten ein|stellten]] die Uhr [[ein]].
-
----
-
-Imperativ:
-
-- [[Stelle ein|Stelle ]] den Wecker ein!
-- [[Stell ein|Stell]] die Lautstärke ein!
-- [[Stellt ein|Stellt]] die Maschine ein!
-- [[Stellen ein|Stellen]] wir das Radio ein!
+- Warum [[hat]] er die Maschine [[eingestellt]]?
+- Um die Produktion zu starten.
 
 ---
+###### [[einstellen]] jN `auf` jN
+- Worauf [[stellst]] du die Maschine [[ein]]?
+- `Auf` die höchste Stufe.
 
-Konjunktiv I:
+- Worauf [[stellen]] wir die Geräte [[ein]]?
+- `Auf` den Energiesparmodus.
 
-- Er sagt, ich [[Stelle ein]] den Wecker.
-- Sie meint, du [[stellest ein]] die Lautstärke.
-- Er behauptet, er [[Stelle ein]] die Maschine.
-- Wir erklären, wir [[Stellen ein]] das Radio.
-- Ihr sagt, ihr [[stellet ein]] die Parameter.
-- Sie sagen, sie [[Stellen ein]] die Uhr.
+- Warum [[hat]] sie das Radio `darauf` [[eingestellt]]?
+- Um Nachrichten zu hören.
 
 ---
+###### [[einstellen]] *[[sich]]* `auf` jN
+- Worauf [[stellst]] du *[[dich]]* [[ein]]?
+- `Auf` eine lange Wartezeit.
 
-Konjunktiv II:
+- Worauf [[stellen]] wir *[[uns]]* [[ein]]?
+- `Auf` schwierige Fragen.
 
-- Wenn ich den Wecker richtig [[ein]]stellen müsste, [[stellte ein|stellte]] ich ihn [[ein]].
-- Wenn du die Lautstärke ändern müsstest, [[stelltest ein|stelltest]] du sie [[ein]].
-- Wenn er hier wäre, [[stellte ein|stellte]] er die Maschine [[ein]].
-- Wenn wir das Radio [[ein]]stellen könnten, [[stellten ein|stellten]] wir es [[ein]].
-- Wenn ihr die Parameter korrigieren wolltet, [[stelltet ein|stelltet]] ihr sie [[ein]].
-- Wenn sie die Uhr richten müssten, [[stellten ein|stellten]] sie sie [[ein]]., [[losschießen]], [[unterbrechen]], [[aufgeben]], [[feuern]], [[anstellen]], [[wegschicken]]
-, [[abbrechen]], [[anwerben]]
+- Warum [[hat]] er *[[sich]]* `darauf` [[eingestellt]]?
+- Weil er vorbereitet sein wollte.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[stelle ein]], [[stellte ein]], [[stelle ein]], [[stellte ein]], -
+du, [[stellst ein]], [[stelltest ein]], [[stell ein]], [[stelltest ein]], [[stell ein]]
+er, [[stellt ein]], [[stellte ein]], [[stelle ein]], [[stellte ein]], -
+wir, [[stellen ein]], [[stellten ein]], [[stellen ein]], [[stellten ein]], [[stellen ein]]
+ihr, [[stellt ein]], [[stelltet ein]], [[stellt ein]], [[stelltet ein]], [[stellt ein]]
+sie, [[stellen ein]], [[stellten ein]], [[stellen ein]], [[stellten ein]], [[stellen ein]]
+
+*Zu + Inf*: [[einzustellen]], *P2*: [[eingestellt]]
+Adjektive: [[einstellend]], [[einstellender]], [[einstellendst]]
+
+---
+[[einstellender]], [[einstellendes]], [[einstellende]], [[einstellenden]], [[einstellendem]], [[einstellenderer]], [[einstellenderes]], [[einstellendere]], [[einstellenderen]], [[einstellenderem]], [[einstellendster]], [[einstellendstes]], [[einstellendste]], [[einstellendsten]], [[einstellendstem]]

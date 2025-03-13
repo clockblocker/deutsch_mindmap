@@ -28,4 +28,4 @@ extraordinary, exceptional
 Adjektive: [[außergewöhnlich]], [[außergewöhnlicher]], [[außergewöhnlichst]]
 
 ---
-[[außergewöhnlicher]], [[außergewöhnliches]], [[außergewöhnliche]], [[außergewöhnlichen]], [[außergewöhnlichem]], [[außergewöhnlicherer]], [[außergewöhnlicheres]], [[außergewöhnlichere]], [[außergewöhnlicheren]], [[außergewöhnlicherem]], [[außergewöhnlichster]], [[außergewöhnlichstes]], [[außergewöhnlichste]], [[außergewöhnlichsten]], [[außergewöhnlichstem]], [[banal]]
+[[außergewöhnlicher]], [[außergewöhnliches]], [[außergewöhnliche]], [[außergewöhnlichen]], [[außergewöhnlichem]], [[außergewöhnlicherer]], [[außergewöhnlicheres]], [[außergewöhnlichere]], [[außergewöhnlicheren]], [[außergewöhnlicherem]], [[außergewöhnlichster]], [[außergewöhnlichstes]], [[außergewöhnlichste]], [[außergewöhnlichsten]], [[außergewöhnlichstem]], [[banal]], [[wahnsinnig]]

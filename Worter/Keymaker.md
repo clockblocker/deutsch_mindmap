@@ -2,11 +2,14 @@
 - Switch from _gemini-lite-demo_ to _geminy-lite_ (Google has deprecated _gemini-lite-demo_)
 
 
+
+
 `Не немецкий текст будет переведет на немецкий`
 *The boss told me to bring all my documents to the office.*
 
 `Неправильные слова будут посвечены как ошибка`
 Der Chef hat mir gesagt, alle meine Dokumente ins Büro zu sagen.
+
 
 `Конкретные места в словах, где есть грамматическая ошибка -- тоже`
 Der Chef haben mir gesagt, alle mein Dokument ins Büro zu sagen.
@@ -16,7 +19,7 @@ Der Chef haben mir gesagt, alle mein Dokument ins Büro zu sagen.
 Наш коллега пообещал нам собраться мыслями и ответить на все наши вопросы.
 
 `Немецкий текст будет проверен на грамматическую корректность`
-Unser Kollege hat uns versprochen sich zu sammeln und all unser Sachen zu beantworten.
+Unser Kollege hat uns versprochen sich zu sammeln und all unsere Sachen zu beantworten.
 
 `Перевод + немецкий текст проверит не толлько грамматику, но и то, правильно ли переведены слова`
 Наш коллега пообещал нам собраться мыслями и ответить на все наши вопросы.

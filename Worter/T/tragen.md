@@ -1,4 +1,4 @@
-👕 [[tragen]], [[trug]], haben [[getragen]]
+🧍 [[tragen]], [ˈtʁaːɡn̩](https://youglish.com/pronounce/tragen/german) | [[trug]], hat [[getragen]]
 
 ---
 SASCHA: Du musst Designer- Klamotten [[tragen]]…
@@ -15,32 +15,65 @@ und [[trug]] die Peitsche in dem Mund
 [[vertragen]] - [[ver]] = [[tragen]] / to tolerate, to endure, to get along
 
 ---
+= [[anhaben]], [[bekleiden]], [[führen]]
+≈ [[halten]], [[transportieren]], [[aushalten]]
+≠ [[ablegen]], [[ausziehen]], [[verlieren]]
 
 ---
-Synonyme: [[transportieren]], [[befördern]], [[schleppen]], [[heben]], [[mitführen]]
-Antonyme: [[ablegen]], [[absetzen]], [[fallenlassen]], [[loslassen]]
+to wear, to carry
+носить, нести
 
 ---
-Übersetzung: to carry, to wear
+[[Träger]], [[Tragweite]], [[getragen]], [[Tragetasche]]
 
 ---
-Morpheme: [[trag]][[en]]
- #Verb  #Untrennbar
-
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[trage]] | [[trug]] | - | [[trage]] | [[trüge]] |
-| Du | [[trägst]] | [[trugst]] | [[trag]] | [[tragest]] | [[trügest]] |
-| Er/sie/es | [[trägt]] | [[trug]] | - | [[trage]] | [[trüge]] |
-| Wir | [[tragen]] | [[trugen]] | - | [[tragen]] | [[trügen]] |
-| Ihr | [[tragt]] | [[trugt]] | [[tragt]] | [[traget]] | [[trüget]] |
-| Sie | [[tragen]] | [[trugen]] | [[tragen Sie]] | [[tragen]] | [[trügen]] |
-
-Partizip I: [[tragend]], Partizip II: [[getragen]]
-- [[trag]][[en]], [[anhaben]], [[übertragen]]
-
-, [[forttragen]], [[Pelzhandschuhe]], [[schleudern]]
+[[trag]]|[[en]]
 
 
-[[schwach]]
+---
+###### [[tragen]] jN
+- Was [[trägst]] du?
+- Einen Koffer.
 
+- Was [[tragen]] wir?
+- Verantwortung.
+
+- Was [[hat]] sie [[getragen]]?
+- Ein schönes Kleid.
+
+---
+###### [[tragen]] jN `auf` jN
+- Was [[trägst]] du `auf` deinem Kopf?
+- Einen Hut.
+
+- Was [[tragen]] wir `auf` unseren Schultern?
+- Die Last der Vergangenheit.
+
+- Was [[hat]] er `auf` seinem Rücken [[getragen]]?
+- Einen schweren Rucksack.
+
+---
+###### [[tragen]] jN `mit` jM
+- Was [[trägst]] du `mit` dir?
+- Ein Geheimnis.
+
+- Was [[tragen]] wir `mit` uns?
+- Unsere Erfahrungen.
+
+- Was [[hat]] sie `mit` sich [[getragen]]?
+- Ihre Trauer.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+ich, [[trage]], [[trug]], [[trage]], [[trüge]], -
+du, [[trägst]], [[trugst]], [[trag]], [[trügest]], [[trüg]]
+er, [[trägt]], [[trug]], [[trage]], [[trüge]], -
+wir, [[tragen]], [[trugen]], [[tragen]], [[trügen]], [[tragen]]
+ihr, [[tragt]], [[trugt]], [[tragt]], [[trüget]], [[tragt]]
+sie, [[tragen]], [[trugen]], [[tragen]], [[trügen]], [[tragen]]
+
+*Zu + Inf*: zu [[tragen]], *P2*: [[getragen]]
+Adjektive: [[tragend]], [[tragender]], [[tragendst]]
+
+---
+[[tragender]], [[tragendes]], [[tragende]], [[tragenden]], [[tragendem]], [[tragenderer]], [[tragenderes]], [[tragendere]], [[tragenderen]], [[tragenderem]], [[tragendster]], [[tragendstes]], [[tragendste]], [[tragendsten]], [[tragendstem]]

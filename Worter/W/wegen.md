@@ -67,4 +67,4 @@ Beispiele:
 - Aufgrund der Krankheit konnte er nicht kommen.
 - Die Schule fiel wegen des Schnees aus.
 ''', [[daß]], [[Anki]], [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]
-, [[dank]]
+, [[dank]], [[Deinetwegen]]

@@ -24,4 +24,4 @@ D: dem [[Haus]], den [[Häusern]]
 
 ---
 [[häuslich]], [[Hausfrau]], [[Haustür]], [[Hausaufgabe]], [[wohnhaft]], [[Hausbesitzer]], [[s1 e1]], [[Schulgebäude]], [[Fernsehturm]], [[Geburtsort]]
-, [[Schrebergarten]]
+, [[Schrebergarten]], [[Zeltsam]]

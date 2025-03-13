@@ -1,9 +1,9 @@
-💓 [[fühlen]]  
-[[fühlte]]  
-haben [[gefühlt]]
+😌 [[fühlen]], [ˈfyːlən] | [[fühlte]], haben [[gefühlt]]
 
 ---
 Wie [[misst]] du deinen [[fortschritt]]?Machst du mock-tests oder einfach nur [[gefühltes]] [[verständnis]]?
+
+[[Einen Korb bekommen#^12|^]] „Muss Liebe schön sein“, hat Mikael gedacht und sich dabei ziemlich [[einsam]] [[gefühlt]]. ^12
 
 [[Fühle]] den [[Boden]] unter deinen Füßen.
 
@@ -18,64 +18,56 @@ SASCHA: [[Fühl dich wie zu Hause]]. Ich muss mal ins Bad.
 Sie [[fühlte]] sich aber einsam und schwach.
 Könnt ihr mich [[fühlen]]? (_Wir [[fühlen]] dich_)  
 
+---
+= [[empfinden]], [[spüren]], [[wahrnehmen]]
+≈ [[erfahren]], [[verspüren]], [[fühlen]], [[berühren]]
+≠ [[ignorieren]], [[verleugnen]], [[unterdrücken]]
 
 ---
-
-**Synonyme:**
-
-- [[spüren]], [[empfinden]], [[bemerken]]
-
----
-
-**Beispiele:**
-
-- Ich [[fühle]] Freude.
-- Du [[fühlst]] dich gut.
-- Er [[fühlt]] Schmerz.
-- Es [[fühlt]] sich kalt an.
-- Sie [[fühlt]] die Wärme der Sonne.
-- Wir [[fühlen]] uns glücklich.
-- Ihr [[fühlt]] den Wind.
-- Sie [[fühlen]] sich wohl.
-
----
-
-**Übersetzung**:
 to feel
+чувствовать
 
 ---
-#Verb
+[[Gefühl]], [[fühlbar]], [[fühlend]], [[sich fühlen]], [[Mitgefühl]]
 
 ---
+[[fühl]]|[[en]]
+[[fühlen]]
 
-**Präteritum:**
-
-- Ich [[fühlte]] Freude.
-- Du [[fühltest]] dich gut.
-- Er [[fühlte]] Schmerz.
-- Es [[fühlte]] sich kalt an.
-- Sie [[fühlte]] die Wärme der Sonne.
-- Wir [[fühlten]] uns glücklich.
-- Ihr [[fühltet]] den Wind.
-- Sie [[fühlten]] sich wohl.
 
 ---
+###### [[fühlen]] jN
+- Was [[fühlst]] du?
+- Freude.
 
-**Imperativ:**
+- Was [[fühlen]] wir?
+- Die Kälte.
 
-- Ich [[fühle]] die Freude.
-- Du [[fühl|fühle]] die Freude.
-- Er [[fühle]] die Freude.
-- Es [[fühlt]] die Freude.
-- Sie [[fühle]] die Freude.
-- Wir [[fühlen]] die Freude.
-- Ihr [[fühlt]] die Freude.
-- Sie [[fühlen]] die Freude.
+- Wie [[hast]] du dich [[gefühlt]]?
+- Sehr gut.
 
 ---
+###### [[fühlen]] *[[sich]]*
+- Wie [[fühlst]] du *[[dich]]*?
+- Ich [[fühle]] *[[mich]]* müde.
 
-**Morphems of only infinitive:**  
-- [[fühl]][[en]]
+- Wie [[fühlen]] wir *[[uns]]*?
+- Wir [[fühlen]] *[[uns]]* wohl.
 
-, [[wohlfühlen]]
-, [[mitfühlend]]
+- Wie [[hat]] er *[[sich]]* [[gefühlt]]?
+- Er [[hat]] *[[sich]]* unwohl [[gefühlt]].
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[fühl]] / [[fühle]], [[fühlte]], [[fühle]], [[fühlte]], -
+du, [[fühlst]], [[fühltest]], [[fühlest]], [[fühltest]], [[fühl]] / [[fühle]]
+er, [[fühlt]], [[fühlte]], [[fühle]], [[fühlte]], -
+wir, [[fühlen]], [[fühlten]], [[fühlen]], [[fühlten]], [[fühlen]]
+ihr, [[fühlt]], [[fühltet]], [[fühlet]], [[fühltet]], [[fühlt]]
+sie, [[fühlen]], [[fühlten]], [[fühlen]], [[fühlten]], [[fühlen]]
+
+*Zu + Inf*: zu [[fühlen]], *P2*: [[gefühlt]]
+Adjektive: [[fühlend]], [[fühlender]], [[fühlendst]]
+
+---
+[[fühlender]], [[fühlendes]], [[fühlende]], [[fühlenden]], [[fühlendem]], [[fühlenderer]], [[fühlenderes]], [[fühlendere]], [[fühlenderen]], [[fühlenderem]], [[fühlendster]], [[fühlendstes]], [[fühlendste]], [[fühlendsten]], [[fühlendstem]]

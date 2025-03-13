@@ -1,1 +1,1 @@
-, [[auflegen]], [[selbstauferlegen]], [[auferlegen]]
+, [[auflegen]], [[selbstauferlegen]], [[auferlegen]], [[gelaunt]]

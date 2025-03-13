@@ -17,4 +17,4 @@ Morphems:
 [[Send]][[en]]
 
 ---
-#Substantiv #Maskulin, [[funkten]], [[hinschicken]], [[abschicken]], [[versenden]], [[zurücksenden]]
+#Substantiv #Maskulin, [[funkten]], [[hinschicken]], [[abschicken]], [[versenden]], [[zurücksenden]], [[Sender]]

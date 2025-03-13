@@ -1,2 +1,2 @@
 , [[steigen]], [[hinaufklettern]]
-, [[aussteigen]]
+, [[aussteigen]], [[landen]]

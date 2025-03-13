@@ -28,4 +28,4 @@ reasonable, sensible
 Adjektive: [[vernünftig]], [[vernünftiger]], [[vernünftigst]]
 
 ---
-[[vernünftiger]], [[vernünftiges]], [[vernünftige]], [[vernünftigen]], [[vernünftigem]], [[vernünftigerer]], [[vernünftigeres]], [[vernünftigere]], [[vernünftigeren]], [[vernünftigerem]], [[vernünftigster]], [[vernünftigstes]], [[vernünftigste]], [[vernünftigsten]], [[vernünftigstem]]
+[[vernünftiger]], [[vernünftiges]], [[vernünftige]], [[vernünftigen]], [[vernünftigem]], [[vernünftigerer]], [[vernünftigeres]], [[vernünftigere]], [[vernünftigeren]], [[vernünftigerem]], [[vernünftigster]], [[vernünftigstes]], [[vernünftigste]], [[vernünftigsten]], [[vernünftigstem]], [[wahnsinnig]]

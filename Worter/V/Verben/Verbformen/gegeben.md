@@ -1,1 +1,1 @@
-🎁 [[geben]]  
+🎁 [[geben]]  , [[vorhanden]]

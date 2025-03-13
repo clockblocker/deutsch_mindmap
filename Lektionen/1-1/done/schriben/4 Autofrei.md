@@ -1,22 +1,21 @@
-In einem soziologischen Seminar zur Stadtplanung sollen Sie sich in einer schriftlichen Hausaufgabe mit der Frage [[auseinandersetzen]], ob [[Innenstädte]] zukünftig völlig autofrei sein sollen.
+*In einem soziologischen Seminar zur Stadtplanung sollen Sie sich in einer schriftlichen Hausaufgabe mit der Frage [[auseinandersetzen]], ob [[Innenstädte]] zukünftig völlig autofrei sein sollen.*
 
-Auswendig lernen
-[[Sorgfalt]]
 
-Ausserdem, es gibt sehr viel Tote von Straßenunfällen, und die Mehrheit von ihnen die Verantwortung ist mit Autos.
 
+Well-structured, but with room for improvement. Arguments need to be more precise, language more elegant. You're on a good path, but not yet at C1 level. Do you want to revise it again?
+
+
+
+Heutzutage steht das Thema Autofreiheit der Innenstädte am m zentrum der Debatte über Stadtpolitik überall.
 
 
 Heutzutage steht das Thema Autofreiheit der Innenstädte am Brennpunkt der Stadtpolitikdiskussionen überall.
-
-*Obwohl es nur ein Teil der großen Diskussion über die Abhängigkeit vom Auto ist, zieht dieses Thema viel Aufmerksamkeit auf sich, weil es so einfach ist, es praktisch umzusetzen.* 
-*Fast jede Stadt hat die Möglichkeit, sich autofrei zu machen, weil es keine Notwendigkeit von der Bundesregierung gibt, zu intervenieren*
 
 Die Punkte, die Pro-Autofreiheit-Gruppen normalerweise öffentlich präsentieren, lassen sich in zwei Teile [[gliedern]]: 
 1) "Die Gesundheit der Burger", 
 2) "Die wirtschaftlichen Vorteile für die Stadt"
 
-Urbanisten argumentieren, dass `je` [weniger Autos] es in den Innenstädten gibt, `desto` [weniger Umweltbelastung durch Autoabgase] gibt es. 
+Urbanisten argumentieren, dass je weniger Autos es in den Innenstädten gibt, desto weniger Umweltbelastung durch Autoabgase gibt es. 
 
 Die wirtschaftlichen Argumente bestehen aus vielen Teilen. Zuerst ist es einfach wirklich teuer, ein Motor pro Person zu haben, verglichen mit einem Motor pro 100 Personen, die die Stadt mit dem öffentlichen Transport anbietet.
 
@@ -77,20 +76,25 @@ Es sind alles wichtige und richtige Fragen, die die Stadt beantworten muss, bevo
 
 ---
 
- 
+ In einem [soziologischen](https://youglish.com/pronounce/gering/german) Seminar zur Stadtplanung sollen Sie sich in einer schriftlichen Hausaufgabe mit der Frage [[auseinandersetzen]], ob [[Innenstädte]] zukünftig völlig autofrei sein sollen.
+
+, [[auseinander]], [[verfeinden]]
+
+
+Ausserdem, es gibt sehr viel Tote von Straßenunfällen, und die Mehrheit von ihnen die Verantwortung ist mit Autos.
+
+
+Urbanisten argumentieren, dass `je` [weniger Autos] es in den Innenstädten gibt, `desto` [weniger Umweltbelastung durch Autoabgase] gibt es. 
 
 
 
+Auswendig lernen
+[[Sorgfalt]]
 
 
 
-
-
-
-
-
-
-
+*Obwohl es nur ein Teil der großen Diskussion über die Abhängigkeit vom Auto ist, zieht dieses Thema viel Aufmerksamkeit auf sich, weil es so einfach ist, es praktisch umzusetzen.* 
+*Fast jede Stadt hat die Möglichkeit, sich autofrei zu machen, weil es keine Notwendigkeit von der Bundesregierung gibt, zu intervenieren*
 
 
 

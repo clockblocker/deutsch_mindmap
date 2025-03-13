@@ -3,6 +3,9 @@
 ---
 Bitte [[beschreibe]] mir dein Haus, damit ich es finde.
 
+[[Große Koalition#^3|^]] Für [[westeuropäische]] Staaten wird der Begriff in der Regel [[verwendet]], um eine Koalition zwischen den beiden größten (mandatsstärksten) in einem von zwei so genannten Volksparteien dominierten Parteiensystem zu [[beschreiben]]. ^3
+
+
 ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. [[GPT.md#^1|(q)]]
 
 

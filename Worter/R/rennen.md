@@ -67,3 +67,4 @@ Partizip I: [[rennend]], Partizip II: [[gerannt]]
 | Wir       | [[rennen]] | [[rannten]]  | [[rennen]] | [[rennen]]   | [[rennten]]   |
 | Ihr       | [[rennt]]  | [[ranntet]]  | [[rennt]]  | [[rennet]]   | [[renntet]]   |
 | Sie       | [[rennen]] | [[rannten]]  | [[rennen]] | [[rennen]]   | [[rennten]]   |
+, [[herumkriechen]]

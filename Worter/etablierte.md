@@ -1,0 +1,1 @@
+🏢 [[etablieren]] | 😌 [[etabliert]]

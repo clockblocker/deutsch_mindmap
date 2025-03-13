@@ -3,6 +3,8 @@
 ---
 [[Eigenlob stinkt.md#^2|(q)]] [[Selbstbewusste]] Menschen haben es leichter im Leben. Sie [[beeindrucken]] andere durch ihre [[Fähigkeiten]] und Talente. ^2
 
+ [[Einen Korb bekommen#^6|^]] Mikael geht ans Telefon: „Hallo Anna, ach schön von dir zu hören!“ Er lässt das „schön“ [[bewusst]] ironisch klingen. ^6
+
 Katara hat keine [[Schuld]]. Ich hab sie [[überredet]]. _Sieht [[schuldbewusst]] nach unten_ Es ist meine Schuld.
 
 ---

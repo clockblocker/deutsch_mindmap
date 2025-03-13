@@ -5,7 +5,18 @@ Er hat eine ganz bestimmte [[Schwäche]]
 [[stolz]]
 [[Absicht]]
 
+keine weitere [[Bewegung]]
+
+damit ist der Kampf [[entschieden]] 
+
 Es ist [[wirklich]] [[Unglaublich]]
+
+[[Vortrag]] in Magiegeschichte
+
+[[anstellen]]
+
+[[erledigt]]
+
 
 Midorima zu Kuro: Diener [[Spielzüge]] sind [[lächerlich]]
 [[Niederlage]] gegen Aomine 
