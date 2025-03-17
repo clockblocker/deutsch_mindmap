@@ -1,7 +1,7 @@
 ➕ [[beitragen]], [ˈbaɪ̯ˌtʁaːɡn̩](https://youglish.com/pronounce/beitragen/german) | [[trug bei]], hat [[beigetragen]]
 
 ---
-[[Golfstorm#^11|^]] Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
+*[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
 
 [[Vereinsbeitrag]],
 

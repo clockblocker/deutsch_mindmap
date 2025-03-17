@@ -3,7 +3,7 @@
 ---
 Was wollen wir trinken, sieben Tage [[lang]]? 
 
-[[Atom#^5|^]] Die Region hat den [[längsten]] [[ununterbrochenen]] [[Waldabschnitt]] der [[Küste]] – 24 Kilometer lang. ^5
+*[[Atom#^5|^]]* Die Region hat den [[längsten]] [[ununterbrochenen]] [[Waldabschnitt]] der [[Küste]] – 24 Kilometer lang. ^5
 
 Ich hatte keine Ahnung, dass er [[schon]] [[lange]] weggefahren ist
 
