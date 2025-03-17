@@ -2,7 +2,7 @@
 die [[Großtaten]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^6|^]] Nicht, weil ich [[unbedingt]] mit einer [[Großtat]] in die [[Geschichtsbuch]] eingehen wollte, sondern vor einer weiteren [[Herausforderung]] stehe. ^6
+*[[3  Ein Selbstversuch als Hobbybäuerin#^6|^]]* Nicht, weil ich [[unbedingt]] mit einer [[Großtat]] in die [[Geschichtsbuch]] eingehen wollte, sondern vor einer weiteren [[Herausforderung]] stehe. ^6
 
 ---
 = [[Heldentat]], [[Meisterleistung]], [[außergewöhnliche Leistung]]

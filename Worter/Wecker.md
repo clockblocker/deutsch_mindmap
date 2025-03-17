@@ -2,9 +2,9 @@
 die [[Wecker]]
 
 ---
-[[Einen Ohrwurm haben#^3|^]] Deshalb hat er auch einen Oldie-[[Sender]] auf seinem Radio-[[Wecker]] [[eingestellt]]. ^3
+*[[Einen Ohrwurm haben#^3|^]]* Deshalb hat er auch einen Oldie-[[Sender]] auf seinem Radio-[[Wecker]] [[eingestellt]]. ^3
 
-[[Einen Ohrwurm haben#^20|^]] Im Bett greift er zum [[Wecker]] und ändert den [[Sender]]. ^20
+*[[Einen Ohrwurm haben#^20|^]]* Im Bett greift er zum [[Wecker]] und ändert den [[Sender]]. ^20
 
 ---
 = [[Alarm]]

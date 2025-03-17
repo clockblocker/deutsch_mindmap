@@ -1,7 +1,7 @@
 💨 [[schnauben]], [ˈʃnaʊ̯bn̩] | [[schnaubte]], haben [[geschnaubt]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^15|^]] „Du und dein [[Acker]]!“, [[schnaubte]] sie später ins Telefon, „wir sehen uns wieder, wenn die [[Saison]] vorbei ist.“ 
+*[[3  Ein Selbstversuch als Hobbybäuerin#^15|^]]* „Du und dein [[Acker]]!“, [[schnaubte]] sie später ins Telefon, „wir sehen uns wieder, wenn die [[Saison]] vorbei ist.“ 
 
 ---
 = [[atmen]], [[keuchen]], [[pusten]]

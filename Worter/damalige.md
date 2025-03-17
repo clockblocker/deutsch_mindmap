@@ -1,7 +1,7 @@
 🕰️ [[damalig]], [ˈdaːmaːlɪç](https://youglish.com/pronounce/damalig/german) ≠ [[heutig]]
 
 ---
-[[Atom#^10|^]] Die [[damalige]] rechtspopulistische Regierung [[initiierte]] die Atompläne vor drei Jahren.
+*[[Atom#^10|^]]* Die [[damalige]] rechtspopulistische Regierung [[initiierte]] die Atompläne vor drei Jahren.
 
 ---
 = [[ehemalig]], [[früher]], [[vergangen]]

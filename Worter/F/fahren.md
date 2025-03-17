@@ -7,7 +7,7 @@ Sag’ ihr, ich habe einen [[Igel]]
 Igel gefressen … oder dass ich zum Mond [[gefahren]] bin …  
 
 [[fahren dazu, dass]]
-[[Golfstorm#^8|^]] [[Stattdessen]] [[führe]] der [[windgetriebene]] [[Aufstieg]] von Tiefenwasser im Südlichen Ozean [[dazu, dass]] die AMOC weiter zirkuliert. ^8
+*[[Golfstorm#^8|^]]* [[Stattdessen]] [[führe]] der [[windgetriebene]] [[Aufstieg]] von Tiefenwasser im Südlichen Ozean [[dazu, dass]] die AMOC weiter zirkuliert. ^8
 
 
 ---

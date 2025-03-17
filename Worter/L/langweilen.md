@@ -3,7 +3,7 @@
 ---
 Alfred [[gehört]] zu den Menschen, die immer den [[Kick]] suchen. Er braucht [[Abenteuer 1]] und [[Aufregung]], weil er sich [[sonst]] schnell [[langweilt]]. Dazu passt auch sein Hobby: das [[Glücksspiel]]. 
 
-[[Text mit Reflexivpronomen#^20|^]] Manchmal hat er (26) [[geärgert]], weil er (27) im Lateinunterricht so [[gelangweilt]] hat. ^20
+*[[Text mit Reflexivpronomen#^20|^]]* Manchmal hat er (26) [[geärgert]], weil er (27) im Lateinunterricht so [[gelangweilt]] hat. ^20
 
 ---
 = [[sich öden]], [[verdrießen]], [[ermüden]]

@@ -1,7 +1,7 @@
 💪 [[stark]], [ʃtaʁk](https://youglish.com/pronounce/stark/german) ≠ [[schwach]]
 
 ---
-[[Große Koalition#^1|^]] Als **Große Koalition** (auch **große Koalition**) wird in der Regel eine Regierungskoalition der [[mandatsstärksten]] Parteien im Parlament [[bezeichnet]]. ^1
+*[[Große Koalition#^1|^]]* Als **Große Koalition** (auch **große Koalition**) wird in der Regel eine Regierungskoalition der [[mandatsstärksten]] Parteien im Parlament [[bezeichnet]]. ^1
 
 ---
 = [[mächtig]], [[kräftig]], [[energisch]]

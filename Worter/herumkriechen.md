@@ -1,7 +1,7 @@
 🐛 [[herumkriechen]], [hɛˈʁʊmkʁiːçn̩](https://youglish.com/pronounce/herumkriechen/german) | [[kroch herum]], ist [[herumgekrochen]]
 
 ---
-[[Einen Ohrwurm haben#^26|^]] Doch ein Ohrwurm ist zum Glück kein Tier, das einem im Ohr [[herumkriecht]], sondern ein Lied.^26
+*[[Einen Ohrwurm haben#^26|^]]* Doch ein Ohrwurm ist zum Glück kein Tier, das einem im Ohr [[herumkriecht]], sondern ein Lied.^26
  
 ---
 = [[krabbeln]], [[kriechen]], [[sich bewegen]]

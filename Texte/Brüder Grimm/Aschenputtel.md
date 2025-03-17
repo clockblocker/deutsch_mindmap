@@ -40,17 +40,17 @@ Die schlechten ins Kröpfchen."
 
 [[kweymaker]]
 
-[[Aschenputtel#^3|^]] Da kamen zum [[Küchenfenster]] zwei weiße Täubchen herein und danach die Turteltäubchen, und endlich schwirrten und schwärmten alle Vöglein unter dem Himmel herein und ließen sich um die Asche nieder. ^3
+*[[Aschenputtel#^3|^]]* Da kamen zum [[Küchenfenster]] zwei weiße Täubchen herein und danach die Turteltäubchen, und endlich schwirrten und schwärmten alle Vöglein unter dem Himmel herein und ließen sich um die Asche nieder. ^3
 
-[[Aschenputtel#^4|^]] Und die Täubchen nickten mit ihren Köpfchen und fingen an pick, pick, pick, pick, und da fingen die übrigen auch an pick, pick, pick, pick, und lasen alle guten Körner in die Schüsseln. ^4
+*[[Aschenputtel#^4|^]]* Und die Täubchen nickten mit ihren Köpfchen und fingen an pick, pick, pick, pick, und da fingen die übrigen auch an pick, pick, pick, pick, und lasen alle guten Körner in die Schüsseln. ^4
 
-[[Aschenputtel#^5|^]] Und ehe eine halbe Stunde herum war, waren sie schon fertig, und flogen alle wieder hinaus. ^5
+*[[Aschenputtel#^5|^]]* Und ehe eine halbe Stunde herum war, waren sie schon fertig, und flogen alle wieder hinaus. ^5
 
-[[Aschenputtel#^6|^]] Da trug das Mädchen die Schüsseln zu der Stiefmutter, freute sich und glaubte, nun dürfte es mit auf die Hochzeit gehen. ^6
+*[[Aschenputtel#^6|^]]* Da trug das Mädchen die Schüsseln zu der Stiefmutter, freute sich und glaubte, nun dürfte es mit auf die Hochzeit gehen. ^6
 
-[[Aschenputtel#^7|^]] Aber sie sprach: "Es hilft dir alles nichts: du kommst nicht mit, denn du hast keine Kleider und kannst nicht tanzen; wir müssten uns deiner schämen." ^7
+*[[Aschenputtel#^7|^]]* Aber sie sprach: "Es hilft dir alles nichts: du kommst nicht mit, denn du hast keine Kleider und kannst nicht tanzen; wir müssten uns deiner schämen." ^7
 
-[[Aschenputtel#^8|^]] Darauf kehrte sie ihm den Rücken zu und eilte mit ihren zwei stolzen Töchtern fort. ^8
+*[[Aschenputtel#^8|^]]* Darauf kehrte sie ihm den Rücken zu und eilte mit ihren zwei stolzen Töchtern fort. ^8
 
 
 Als nun niemand mehr daheim war, ging Aschenputtel zu seiner Mutter Grab unter den Haselbaum und rief:
@@ -58,19 +58,19 @@ Als nun niemand mehr daheim war, ging Aschenputtel zu seiner Mutter Grab unter d
 "Bäumchen, rüttel dich und schüttel dich,  
 Wirf Gold und Silber über mich."
 
-[[Aschenputtel#^9|^]] Da warf ihm der Vogel ein golden und silbern Kleid herunter und mit Seide und Silber ausgestickte [[Pantoffeln]]. ^9
+*[[Aschenputtel#^9|^]]* Da warf ihm der Vogel ein golden und silbern Kleid herunter und mit Seide und Silber ausgestickte [[Pantoffeln]]. ^9
 
 [[keymaker]]
 
-[[Aschenputtel#^10|^]] In aller Eile [[zog]] es das Kleid an und ging zur Hochzeit. ^10
+*[[Aschenputtel#^10|^]]* In aller Eile [[zog]] es das Kleid an und ging zur Hochzeit. ^10
 
-[[Aschenputtel#^11|^]] Seine Schwestern aber und die Stiefmutter kannten es nicht und meinten, es müsse eine fremde Königstochter sein, so schön sah es in dem goldenen Kleide aus. ^11
+*[[Aschenputtel#^11|^]]* Seine Schwestern aber und die Stiefmutter kannten es nicht und meinten, es müsse eine fremde Königstochter sein, so schön sah es in dem goldenen Kleide aus. ^11
 
-[[Aschenputtel#^12|^]] An Aschenputtel dachten sie gar nicht und dachten, es säße daheim im Schmutz und suchte die Linsen aus der Asche. ^12
+*[[Aschenputtel#^12|^]]* An Aschenputtel dachten sie gar nicht und dachten, es säße daheim im Schmutz und suchte die Linsen aus der Asche. ^12
 
-[[Aschenputtel#^13|^]] Der Königssohn kam ihm entgegen, nahm es bei der Hand und tanzte mit ihm. ^13
+*[[Aschenputtel#^13|^]]* Der Königssohn kam ihm entgegen, nahm es bei der Hand und tanzte mit ihm. ^13
 
-[[Aschenputtel#^14|^]] Er wollte auch sonst mit niemand tanzen, also daß er ihm die Hand nicht losließ, und wenn ein anderer kam, es aufzufordern, sprach er: "Das ist meine Tänzerin." ^14
+*[[Aschenputtel#^14|^]]* Er wollte auch sonst mit niemand tanzen, also daß er ihm die Hand nicht losließ, und wenn ein anderer kam, es aufzufordern, sprach er: "Das ist meine Tänzerin." ^14
 
 
 Es tanzte bis es Abend war, da wollte es nach Hause gehen. Der Königssohn aber sprach: "Ich gehe mit und begleite dich," denn er wollte sehen, wem das schöne Mädchen angehörte. Sie entwischte ihm aber und sprang in das Taubenhaus. Nun wartete der Königssohn, bis der Vater kam, und sagte ihm, das fremde Mädchen wär in das Taubenhaus gesprungen. Der Alte dachte: "Sollte es Aschenputtel sein?" und sie mussten ihm Axt und Hacken bringen, damit er das Taubenhaus entzweischlagen konnte; aber es war niemand darin. Und als sie ins Haus kamen, lag Aschenputtel in seinen schmutzigen Kleidern in der Asche, und ein trübes Öllämpchen brannte im Schornstein; denn Aschenputtel war geschwind aus dem Taubenhaus hinten herabgesprungen, und war zu dem Haselbäumchen gelaufen: da hatte es die schönen Kleider abgezogen und aufs Grab gelegt, und der Vogel hatte sie wieder weggenommen, und dann hatte es sich in seinem grauen Kittelchen in die Küche zur Asche gesetzt.

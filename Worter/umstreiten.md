@@ -1,7 +1,7 @@
 ⚔️ [[umstreiten]], [ʊmˈʃtʁaɪ̯tn̩](https://youglish.com/pronounce/umstreiten/german) | [[umstritt]], haben [[umstritten]]
 
 ---
-[[Atom#^9|^]] Trotzdem bleibt das Thema politisch [[umstritten]]. ^9
+*[[Atom#^9|^]]* Trotzdem bleibt das Thema politisch [[umstritten]]. ^9
 
 ---
 = [[kontrovers diskutieren]], [[anzweifeln]], [[bestreiten]]

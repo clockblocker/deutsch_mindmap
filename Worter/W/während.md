@@ -3,7 +3,7 @@
 ---
 [[16 Plusquamperfekt#^26|(q)]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon [[während]] seines Lebens und auch nach seinem Tod hatte er großen [[Erfolg]]. ^26
 
-[[Text mit Reflexivpronomen#^13|^]] [[Während]] des Essens im Restaurant habe ich (18) seinen [[Bericht]] über die neuesten Küchenmaschinen mit großem Interesse [[angehört]]. ^13
+*[[Text mit Reflexivpronomen#^13|^]]* [[Während]] des Essens im Restaurant habe ich (18) seinen [[Bericht]] über die neuesten Küchenmaschinen mit großem Interesse [[angehört]]. ^13
 
 *Sokka ist es [[während]] [[dessen]] [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu*
 

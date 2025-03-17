@@ -3,7 +3,7 @@
 ---
 Wie [[misst]] du deinen [[fortschritt]]?Machst du mock-tests oder einfach nur [[gefühltes]] [[verständnis]]?
 
-[[Einen Korb bekommen#^12|^]] „Muss Liebe schön sein“, hat Mikael gedacht und sich dabei ziemlich [[einsam]] [[gefühlt]]. ^12
+*[[Einen Korb bekommen#^12|^]]* „Muss Liebe schön sein“, hat Mikael gedacht und sich dabei ziemlich [[einsam]] [[gefühlt]]. ^12
 
 [[Fühle]] den [[Boden]] unter deinen Füßen.
 

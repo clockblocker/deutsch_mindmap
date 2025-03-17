@@ -1,7 +1,7 @@
 ✂️ [[durchtrennen]], [dʊʁçˈtʁɛnən](https://youglish.com/pronounce/durchtrennen/german) | [[durchtrennte]], haben [[durchtrennt]]
 
 ---
-[[Atom#^6|^]] Nun soll er in der Mitte [[durchtrennt]] werden. *Und [[zerstört]] werden*, so die Aktivisten. ^6
+*[[Atom#^6|^]]* Nun soll er in der Mitte [[durchtrennt]] werden. *Und [[zerstört]] werden*, so die Aktivisten. ^6
 
 ---
 = [[teilen]], [[zerteilen]], [[spalten]]

@@ -2,7 +2,7 @@
 die [[Befürchtungen]]
 
 ---
-[[Golfstorm#^2|^]] Diese [[Befürchtungen]] [[äußerten]] Wissenschaftler in den vergangenen Jahren immer wieder. ^2
+*[[Golfstorm#^2|^]]* Diese [[Befürchtungen]] [[äußerten]] Wissenschaftler in den vergangenen Jahren immer wieder. ^2
 
 ---
 = [[Angst]], [[Besorgnis]], [[Furcht]], [[Sorgen]]

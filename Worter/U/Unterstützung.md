@@ -6,7 +6,7 @@ die [[Unterstützungen]]
 
 Ich [[versichere]] dich meiner [[Unterstützung]]
 
-[[3 Soll man Geld spenden?#^7|^]] Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine `gemeinnützige | ehrenamtlich` Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit einsetzt. ^7
+*[[3 Soll man Geld spenden?#^7|^]]* Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine `gemeinnützige | ehrenamtlich` Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit einsetzt. ^7
 
 
 1. Was braucht man in Deutschland für eine [[Ehescheidung]]? (92%)

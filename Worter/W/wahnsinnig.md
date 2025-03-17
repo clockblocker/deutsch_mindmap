@@ -2,7 +2,7 @@
 🤯 [[wahnsinnig]], [ˈvaːnzɪnɪç](https://youglish.com/pronounce/wahnsinnig/german) ≠ [[vernünftig]]
 
 ---
-[[Einen Korb bekommen#^18|^]] Die sind alle [[wahnsinnig]] nett! ^18
+*[[Einen Korb bekommen#^18|^]]* Die sind alle [[wahnsinnig]] nett! ^18
 
 ---
 = [[verrückt]], [[irrsinnig]], [[bekloppt]],  [[irre]], [[durchgeknallt]],

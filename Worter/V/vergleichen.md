@@ -5,7 +5,7 @@ haben [[verglichen]]
 ---
 Die Schüler sprechen über den [[Vergleich]] von Männern und Frauen.
 
-[[4 Autofrei#^7|^]] Zuerst ist es einfach wirklich teuer, ein Motor pro Person zu haben, [[verglichen]] mit Angebot "ein Motor pro 100 Personen", das die Stadt mit dem [[öffentlichen]] Transport erreichen können. ^7
+*[[4 Autofrei#^7|^]]* Zuerst ist es einfach wirklich teuer, ein Motor pro Person zu haben, [[verglichen]] mit Angebot "ein Motor pro 100 Personen", das die Stadt mit dem [[öffentlichen]] Transport erreichen können. ^7
 
 
 Meine Oma [[vergleicht]] immer die Preise, bevor sie ein Produkt kauft.

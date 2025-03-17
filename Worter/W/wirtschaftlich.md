@@ -2,7 +2,7 @@
 nicht [[unwirtschaftlich]]
 
 ---
-[[4 Autofrei#^4|^]] Die Punkte, die Pro-Autofreiheit-Gruppen normalerweise [[öffentlich]] präsentieren, lassen sich in zwei Teilen [[gliedern]]: "Die Gesundheit der Burger" und "Die [[wirtschaftlichen]] [[Vorteile]] für die Stadt"  ^4
+*[[4 Autofrei#^4|^]]* Die Punkte, die Pro-Autofreiheit-Gruppen normalerweise [[öffentlich]] präsentieren, lassen sich in zwei Teilen [[gliedern]]: "Die Gesundheit der Burger" und "Die [[wirtschaftlichen]] [[Vorteile]] für die Stadt"  ^4
 
 
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)

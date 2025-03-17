@@ -2,7 +2,7 @@
 die [[Abhängigkeiten]]
 
 ---
-[[4 Autofrei#^2|^]] Obwohl es nur ein Teil der großen Diskussion über die [[Abhängigkeit]] vom Auto ist, zieht dieses Thema viel [[Aufmerksamkeit]] auf sich, weil es so einfach ist, es praktisch [[umzusetzen]]. ^2
+*[[4 Autofrei#^2|^]]* Obwohl es nur ein Teil der großen Diskussion über die [[Abhängigkeit]] vom Auto ist, zieht dieses Thema viel [[Aufmerksamkeit]] auf sich, weil es so einfach ist, es praktisch [[umzusetzen]]. ^2
 
 ---
 = [[Konditionierung]], [[Unterordnung]], [[Beziehung]],

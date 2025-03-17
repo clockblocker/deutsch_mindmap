@@ -1,7 +1,7 @@
 🗓️ [[gegenwärtig]], [ˈɡeːɡn̩vaɐ̯tɪç](https://youglish.com/pronounce/gegenwärtig/german) ≠ [[vergangen]]
 
 ---
-[[Text mit Reflexivpronomen#^14|^]] [[Gegenwärtig]] [[vorbereitet|bereitet]] er (19) auf eine große Messe in den USA vor. ^14
+*[[Text mit Reflexivpronomen#^14|^]]* [[Gegenwärtig]] [[vorbereitet|bereitet]] er (19) auf eine große Messe in den USA vor. ^14
 
 ---
 = [[aktuell]], [[derzeit]], [[momentan]], [[heut]], [[anwesend]], [[zeitgenössische]], [[zurzeit]], 

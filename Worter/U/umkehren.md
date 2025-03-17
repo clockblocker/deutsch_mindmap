@@ -1,7 +1,7 @@
 🔄 [[umkehren]], [ˈʊmˌkeːʁən](https://youglish.com/pronounce/umkehren/german) | [[kehrte um]], sind/haben [[umgekehrt]]
 
 ---
-[[1 lesen StadtTours#^6|^]] Dabei werden die Interessen der Gäste berücksichtigt: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme passen sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]] 
+*[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste berücksichtigt: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme passen sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]] 
 
 ---
 = [[wenden]], [[drehen]], [[zurückkehren]]

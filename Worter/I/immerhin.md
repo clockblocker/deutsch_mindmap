@@ -3,7 +3,7 @@
 ---
 Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Erfolg]]!“ sagen oder jemandem die Daumen [[drücken]]. Ob es hilft? [[Immerhin]]: Wer [[freut]] sich nicht darüber, dass an ihn [[gedacht]] wird?
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^26|^]] [[Immerhin]] stellte ich mich [[allwöchentlich]] dem Kampf gegen einen [[unerbittlichen]] [[Kontrahenten]]: das [[Unkraut]]. ^26
+*[[3  Ein Selbstversuch als Hobbybäuerin#^26|^]]* [[Immerhin]] stellte ich mich [[allwöchentlich]] dem Kampf gegen einen [[unerbittlichen]] [[Kontrahenten]]: das [[Unkraut]]. ^26
 
 
 ---

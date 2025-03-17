@@ -1,7 +1,7 @@
 🌱 [[rupfen]], [ˈʁʊpfn̩] | [[zupfte]], haben [[gezupft]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^12|^]] Einige Freundschaften hat es mich auch gekostet: Ein Freund redet nicht mehr mit mir, seit er zum [[Unkrautrupfen]] mitkam. ^12
+*[[3  Ein Selbstversuch als Hobbybäuerin#^12|^]]* Einige Freundschaften hat es mich auch gekostet: Ein Freund redet nicht mehr mit mir, seit er zum [[Unkrautrupfen]] mitkam. ^12
 
 
 ---

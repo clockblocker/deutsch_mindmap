@@ -1,7 +1,7 @@
 💯 [[vollständig]], [ˈfɔlˌʃtɛndɪç](https://youglish.com/pronounce/vollständig/german) ≠ [[unvollständig]]
 
 ---
-[[Golfstorm#^7|^]] die [[Forschenden]] fanden jedoch keine [[Hinweise]] auf einen [[vollständigen]] Kollaps. ^7
+*[[Golfstorm#^7|^]]* die [[Forschenden]] fanden jedoch keine [[Hinweise]] auf einen [[vollständigen]] Kollaps. ^7
 
 ---
 = [[komplett]], [[ganz]], [[total]], [[ganz]], [[völlig]], [[voll]], [[gesamt]],  [[sämtlich]], [[insgesamt]], [[Alle]] 

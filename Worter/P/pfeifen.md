@@ -1,7 +1,7 @@
 🌬️ [[pfeifen]], [ˈpfaɪ̯fn̩](https://youglish.com/pronounce/pfeifen/german) | [[pfiff]], hat [[gepfiffen]]
 
 ---
-[[Einen Ohrwurm haben#^6|^]] Unter der Dusche [[pfeift]] er sie. ^6
+*[[Einen Ohrwurm haben#^6|^]]* Unter der Dusche [[pfeift]] er sie. ^6
 
 ---
 = [[zischen]], [[pfeifen]], [[trillern]]

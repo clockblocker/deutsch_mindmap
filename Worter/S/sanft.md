@@ -1,7 +1,7 @@
 😌 [[sanft]], [zaŋft](https://youglish.com/pronounce/sanft/german) ≠ [[hart]]
 
 ---
-[[1 lesen StadtTours#^8|^]] Von Anfang an praktiziert das junge Unternehmen die Idee des [[sanften]] Tourismus. ^8
+*[[1 lesen StadtTours#^8|^]]* Von Anfang an praktiziert das junge Unternehmen die Idee des [[sanften]] Tourismus. ^8
 
 ---
 = [[mild]], [[weich]], [[zart]],  [[zärtlich]]

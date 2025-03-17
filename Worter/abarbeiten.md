@@ -1,7 +1,7 @@
 👷 [[abarbeiten]], [ˈapʔaʁˌbaɪ̯tn̩] | [[arbeitete ab]], haben [[abgearbeitet]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^37|^]] Das ist wie im wirklichen Leben: Bedenken Sie, dass wir auch im Job gleichzeitig an vielen Projekten arbeiten und uns selten den Luxus [[gönnen]], eine Sache nach der anderen [[abzuarbeiten]]. ^37
+*[[3  Ein Selbstversuch als Hobbybäuerin#^37|^]]* Das ist wie im wirklichen Leben: Bedenken Sie, dass wir auch im Job gleichzeitig an vielen Projekten arbeiten und uns selten den Luxus [[gönnen]], eine Sache nach der anderen [[abzuarbeiten]]. ^37
 
 ---
 = [[erledigen]], [[bewältigen]], [[bearbeiten]]

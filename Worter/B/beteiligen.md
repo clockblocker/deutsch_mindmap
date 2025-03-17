@@ -5,9 +5,9 @@ haben [[beteiligt]]
 ---
 Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war. Es war an den ersten [[Angriffen]] der Feuernation [[beteiligt]].
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^14|^]] Eine Freundin, die sich an einem [[Nachmittag]] als [[Erntehelferin]] [[beteiligt]] hatte, wurde von einer [[Wespe]] ins Ohr [[gestochen]] und musste sich in ärztliche [[Behandlung]] [[begeben]]. ^14
+*[[3  Ein Selbstversuch als Hobbybäuerin#^14|^]]* Eine Freundin, die sich an einem [[Nachmittag]] als [[Erntehelferin]] [[beteiligt]] hatte, wurde von einer [[Wespe]] ins Ohr [[gestochen]] und musste sich in ärztliche [[Behandlung]] [[begeben]]. ^14
 
-[[3 Soll man Geld spenden?#^11|^]] Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]. ^11
+*[[3 Soll man Geld spenden?#^11|^]]* Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]. ^11
 
 
 134. Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)

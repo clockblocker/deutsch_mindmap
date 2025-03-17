@@ -1,7 +1,7 @@
 🗑️ [[überholt]], [yːbɐɐ̯ˈhoːlt](https://youglish.com/pronounce/überholt/german) ≠ [[modern]]
 
 ---
-> [[Atom#^4|^]] *Ich denke, dass die [[Kernkraft]] bereits [[überholt]] ist. Es gibt modernere Methoden, wie [[erneuerbare]] [[Energiequellen]]. Und da geht viel [[voran]].* ^4
+> *[[Atom#^4|^]]* *Ich denke, dass die [[Kernkraft]] bereits [[überholt]] ist. Es gibt modernere Methoden, wie [[erneuerbare]] [[Energiequellen]]. Und da geht viel [[voran]].* ^4
 
 ---
 = [[veraltet]], [[antiquiert]], [[obsolet]]

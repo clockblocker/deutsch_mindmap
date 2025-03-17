@@ -3,7 +3,7 @@
 ---
 Katara sieht den Eisberg [[genauer]] an und erkennt einen Jungen mit leuchtenden Pfeilen auf dem Kopf und den Händen. 
 
-[[Einen Korb bekommen#^11|^]] [[Genauer]] gesagt: Seit sie mit Katharina zusammen ist. ^11
+*[[Einen Korb bekommen#^11|^]]* [[Genauer]] gesagt: Seit sie mit Katharina zusammen ist. ^11
 
  nicht [[genau]]: [[zu]] = [[Platzwechsel]], [[bei]] = [[Location]]
  

@@ -9,7 +9,7 @@ Du [[erhältst]] morgen ein Geschenk.
 
 [[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 
-[[1 lesen StadtTours#^5|^]] Die teilnehmenden Besucherinnen und Besucher [[erhalten]] [[Einblicke]] in kulturelle, politische und wirtschaftliche [[Zusammenhänge]] und bekommen so ein [[facettenreiches]] Bild von historischen [[Entwicklungen]] und Bräuchen der Stadt, die z. B. auch 2 [[mithilfe]] von Fotos oder Anekdoten [[veranschaulicht]] werden. ^5
+*[[1 lesen StadtTours#^5|^]]* Die teilnehmenden Besucherinnen und Besucher [[erhalten]] [[Einblicke]] in kulturelle, politische und wirtschaftliche [[Zusammenhänge]] und bekommen so ein [[facettenreiches]] Bild von historischen [[Entwicklungen]] und Bräuchen der Stadt, die z. B. auch 2 [[mithilfe]] von Fotos oder Anekdoten [[veranschaulicht]] werden. ^5
 
 Schon 1964 [[erhielt]] Richter die Gelegenheit zur ersten [[Einzelausstellung]] und bald präsentierten viele in- und ausländische Galerien seine Werke
 

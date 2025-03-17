@@ -1,7 +1,7 @@
 😠 [[unerbittlich]], [ˈʊnʔɛɐ̯ˌbɪtlɪç] ≠ [[gnädig]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^26|^]] [[Immerhin]] stellte ich mich [[allwöchentlich]] dem Kampf gegen einen [[unerbittlichen]] [[Kontrahenten]]: das [[Unkraut]]. ^26
+*[[3  Ein Selbstversuch als Hobbybäuerin#^26|^]]* [[Immerhin]] stellte ich mich [[allwöchentlich]] dem Kampf gegen einen [[unerbittlichen]] [[Kontrahenten]]: das [[Unkraut]]. ^26
 
 ---
 = [[unversöhnlich]], [[hart]], [[rücksichtslos]]

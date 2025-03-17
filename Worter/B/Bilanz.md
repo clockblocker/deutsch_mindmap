@@ -2,7 +2,7 @@
 die [[Bilanzen]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^3|^]] Wenn ich jetzt nach vielen Jahren [[Bilanz]] ziehe, macht mich das [[Ergebnis]] sehr [[zufrieden]]. ^3
+*[[3  Ein Selbstversuch als Hobbybäuerin#^3|^]]* Wenn ich jetzt nach vielen Jahren [[Bilanz]] ziehe, macht mich das [[Ergebnis]] sehr [[zufrieden]]. ^3
 
 ---
 = [[Abschlussrechnung]], [[Jahresabschluss]], [[Abrechnung]]

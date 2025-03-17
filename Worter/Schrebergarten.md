@@ -2,7 +2,7 @@
 die [[Schrebergärten]]
 
 ---
-[[2#^15|^]] Meistens gibt es ja nur [[außerhalb]] der Städte [[freie]] [[Flächen]], etwa in den [[Schrebergärten]] am Stadtrand. ^15
+*[[2#^15|^]]* Meistens gibt es ja nur [[außerhalb]] der Städte [[freie]] [[Flächen]], etwa in den [[Schrebergärten]] am Stadtrand. ^15
 
 ---
 = [[Kleingarten]], [[Garten]]

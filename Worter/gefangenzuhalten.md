@@ -1,7 +1,7 @@
 ⛓️ [[gefangenzuhalten]], [ɡəˈfaŋənˌt͡suːˌhaltn̩](https://youglish.com/pronounce/gefangenzuhalten/german) | [[hielt gefangen]], haben [[gefangengehalten]]
 
 ---
-[[Der Zaunkönig#^2|^]] "Meinst du, deine Listen sollten gelten?" Sie beschlossen, ihn in seinem Loch [[gefangenzuhalten]] und auszuhungern. ^2
+*[[Der Zaunkönig#^2|^]]* "Meinst du, deine Listen sollten gelten?" Sie beschlossen, ihn in seinem Loch [[gefangenzuhalten]] und auszuhungern. ^2
 
 ---
 = [[inhaftieren]], [[festhalten]], [[internieren]]

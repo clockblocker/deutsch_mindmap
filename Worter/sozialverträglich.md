@@ -1,7 +1,7 @@
 🤝 [[sozialverträglich]], [zoˈtsi̯aːlfɛɐ̯ˌtʁɛːplɪç](https://youglish.com/pronounce/sozialverträglich/german) ≠ [[sozialunverträglich]]
 
 ---
-[[1 lesen StadtTours#^9|^]] Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
+*[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
 
 ---
 = [[sozial akzeptabel]], [[gesellschaftlich verträglich]], [[sozial gerecht]]

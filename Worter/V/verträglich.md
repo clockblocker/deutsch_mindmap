@@ -1,7 +1,7 @@
 🤝 [[verträglich]], [fɛɐ̯ˈtʁɛːplɪç](https://youglish.com/pronounce/verträglich/german) ≠ [[unverträglich]] | [[vertragen]]
 
 ---
-[[1 lesen StadtTours#^9|^]] Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
+*[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
 
 ---
 = [[kompatibel]], [[vereinbar]], [[angenehm]]

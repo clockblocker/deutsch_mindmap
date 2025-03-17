@@ -1,7 +1,7 @@
 ⏱️ [[verzögern]], [fɛɐ̯ˈtsøːɐ̯ɐn](https://youglish.com/pronounce/verzögern/german) | [[verzögerte]], haben [[verzögert]]
 
 ---
-[[Atom#^33|^]] Im schlimmsten Fall [[verzögert]] sich das Projekt – und sie können die Natur an ihrem Traumstrand noch etwas länger [[genießen]]. ^33
+*[[Atom#^33|^]]* Im schlimmsten Fall [[verzögert]] sich das Projekt – und sie können die Natur an ihrem Traumstrand noch etwas länger [[genießen]]. ^33
 
 ---
 = [[verspäten]], [[aufschieben]], [[hinauszögern]], , [[hinhalten]], [[verspäten]]

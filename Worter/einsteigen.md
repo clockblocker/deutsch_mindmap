@@ -1,7 +1,7 @@
 ⬆️ [[einsteigen]], [ˈaɪ̯nˌʃtaɪ̯ɡn̩] | [[stieg ein]], sind [[eingestiegen]]
 
 ---
-[[Atom#^23|^]] Italien [[hingegen]] will nach 35 Jahren wieder [[einsteigen]]. ^23
+*[[Atom#^23|^]]* Italien [[hingegen]] will nach 35 Jahren wieder [[einsteigen]]. ^23
 
 ---
 = [[betreten]], [[besteigen]], [[hineingehen]]

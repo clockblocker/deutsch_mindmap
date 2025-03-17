@@ -1,7 +1,7 @@
 😈 [[fies]], [fiːs](https://youglish.com/pronounce/fies/german) ≠ [[nett]]
 
 ---
-[[Einen Ohrwurm haben#^25|^]] Einen Ohrwurm haben? Das klingt nach einer ganz [[fiesen]] Krankheit. ^25
+*[[Einen Ohrwurm haben#^25|^]]* Einen Ohrwurm haben? Das klingt nach einer ganz [[fiesen]] Krankheit. ^25
 
 ---
 = [[gemein]], [[böse]], [[hinterhältig]]

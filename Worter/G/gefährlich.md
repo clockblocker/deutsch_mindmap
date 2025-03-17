@@ -4,7 +4,7 @@ nicht [[ungefährlich]]
 ---
 Sie geht alleine nach Hause, [[obwohl]] sie weiß, dass es [[gefährlich]] ist.
 
-[[Einen Ohrwurm haben#^27|^]] Das ist zwar nicht [[gefährlich]], kann aber ziemlich nervig sein. ^27
+*[[Einen Ohrwurm haben#^27|^]]* Das ist zwar nicht [[gefährlich]], kann aber ziemlich nervig sein. ^27
 
 *[[Gefährlich]] ist, wer Schmerzen kennt*  
 *Vom Feuer, das den Geist verbrennt (Bäng bäng)*  

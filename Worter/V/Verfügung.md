@@ -4,7 +4,7 @@ die [[Verfügungen]]
 ---
 1. Ein Auto, das einem vom Arbeitgeber zur [[Verfügung]] gestellt wird: der Dienstwagen
 
-> [[Atom#^8|^]] *Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
+> *[[Atom#^8|^]]* *Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
 
 
 Geld zur [[Verfügung]] stellen

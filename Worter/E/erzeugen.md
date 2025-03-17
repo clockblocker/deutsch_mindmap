@@ -1,7 +1,7 @@
 ⚙️ [[erzeugen]], [ɛɐ̯ˈt͡sɔɪ̯ɡən](https://youglish.com/pronounce/erzeugen/german) | [[erzeugte]], haben [[erzeugt]]
 
 ---
-[[Atom#^7|^]] Polen will weg von der Kohle. Noch 2024 wurde weit über die [[Hälfte]] des polnischen Stroms durch [[Kohlekraftwerke]] [[erzeugt]] – mit fatalen Folgen für Klima und Umwelt. ^7
+*[[Atom#^7|^]]* Polen will weg von der Kohle. Noch 2024 wurde weit über die [[Hälfte]] des polnischen Stroms durch [[Kohlekraftwerke]] [[erzeugt]] – mit fatalen Folgen für Klima und Umwelt. ^7
 
 ---
 = [[produzieren]], [[herstellen]], [[generieren]],  [[schaffen]], [[herstellen]]

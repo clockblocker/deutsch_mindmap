@@ -1,7 +1,7 @@
 🤔 [[höchstwahrscheinlich]], [ˈhøːçstvaːɐ̯ˌʃaɪ̯nlɪç](https://youglish.com/pronounce/höchstwahrscheinlich/german)
 
 ---
-> [[Atom#^30|^]] *In Polen?*  
+> *[[Atom#^30|^]]* *In Polen?*  
 > *[[Höchstwahrscheinlich]] ja.* ^30
 
 ---

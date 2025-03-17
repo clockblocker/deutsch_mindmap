@@ -2,7 +2,7 @@
 die [[Aufstiege]]
 
 ---
-[[Golfstorm#^8|^]] [[Stattdessen]] [[führe]] der [[windgetriebene]] [[Aufstieg]] von Tiefenwasser im Südlichen Ozean dazu, dass die AMOC weiter zirkuliert. ^8
+*[[Golfstorm#^8|^]]* [[Stattdessen]] [[führe]] der [[windgetriebene]] [[Aufstieg]] von Tiefenwasser im Südlichen Ozean dazu, dass die AMOC weiter zirkuliert. ^8
 
 ---
 = [[Erhebung]], [[Erhöhung]], [[Fortschritt]]

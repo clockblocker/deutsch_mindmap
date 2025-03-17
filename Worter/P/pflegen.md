@@ -1,7 +1,7 @@
 🌿 [[pflegen]], [ˈpfleːɡən] | [[pflegte]], haben [[gepflegt]]
 
 ---
-[[2#^2|^]] Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]. ^2
+*[[2#^2|^]]* Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]. ^2
 
 
 ---

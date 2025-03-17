@@ -1,7 +1,7 @@
 🕵️ [[erkundigen]], [ɛɐ̯ˈkʊndɪɡən](https://youglish.com/pronounce/erkundigen/german) | [[erkundigte]], haben [[erkundigt]]
 
 ---
-[[Text mit Reflexivpronomen#^21|^]] Moritz hat (28) auch nach dir [[erkundigt]]. ^21
+*[[Text mit Reflexivpronomen#^21|^]]* Moritz hat (28) auch nach dir [[erkundigt]]. ^21
 
 ---
 = [[informieren]], [[ausfragen]], [[ermitteln]], [[fragen]]

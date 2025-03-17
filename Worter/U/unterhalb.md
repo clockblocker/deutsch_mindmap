@@ -1,7 +1,7 @@
 ⬇️ [[unterhalb]], [ˈʊntɐˈhalb]
 
 ---
-[[2#^4|^]] [[Unterhalb]] der Grundschule ist ein Spielplatz, der lange Zeit sehr traurig [[aussah]]. ^4
+*[[2#^4|^]]* [[Unterhalb]] der Grundschule ist ein Spielplatz, der lange Zeit sehr traurig [[aussah]]. ^4
 
 
 ---

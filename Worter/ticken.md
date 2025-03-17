@@ -1,7 +1,7 @@
 ⏱️ [[ticken]], [ˈtɪkn̩] | [[tickte]], haben [[getickt]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^32|^]] Nun wusste ich, wie meine sogenannten Freunde [[tickten]]. ^32
+*[[3  Ein Selbstversuch als Hobbybäuerin#^32|^]]* Nun wusste ich, wie meine sogenannten Freunde [[tickten]]. ^32
 
 ---
 = [[klackern]], [[tick-tack machen]], [[schlagen]]

@@ -1,7 +1,7 @@
 🐝 [[summen]], [ˈzʊmən](https://youglish.com/pronounce/summen/german) | [[summte]], haben [[gesummt]]
 
 ---
-[[Einen Ohrwurm haben#^5|^]] Gut [[gelaunt]] steht Thomas auf und [[summt]] die Melodie mit. ^5
+*[[Einen Ohrwurm haben#^5|^]]* Gut [[gelaunt]] steht Thomas auf und [[summt]] die Melodie mit. ^5
 
 ---
 = [[schwirren]], [[brummen]], [[surren]], [[murmeln]]

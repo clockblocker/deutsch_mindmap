@@ -20,21 +20,21 @@ es ist ist wissenschaftlich erwiesen, dass
 Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikationsstärke ==liegen weit vorn==.
 
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^23|^]] Mit schwarzen Fingernägeln und [[zerzaustem]] Haar [[fuhr]] ich dann nach [[getaner]] Arbeit nach Hause und ==war [[froh]], dass ich [[zumindest]] [[dazu]] noch in der Lage war==. ^23
+*[[3  Ein Selbstversuch als Hobbybäuerin#^23|^]]* Mit schwarzen Fingernägeln und [[zerzaustem]] Haar [[fuhr]] ich dann nach [[getaner]] Arbeit nach Hause und ==war [[froh]], dass ich [[zumindest]] [[dazu]] noch in der Lage war==. ^23
 
 
-ˇ[[4 Autofrei#^1|^]] [[Heutzutage]] steht das Thema Autofreiheit der Innenstädte am [[Brennpunkt]] der Stadtpolitikdiskussionen [[überall]]. ^1
+ˇ*[[4 Autofrei#^1|^]]* [[Heutzutage]] steht das Thema Autofreiheit der Innenstädte am [[Brennpunkt]] der Stadtpolitikdiskussionen [[überall]]. ^1
 
-[[Text mit Reflexivpronomen#^4|^]] [[Unter anderem]] muss ich (4) noch bequeme Laufschuhe kaufen. ^4
+*[[Text mit Reflexivpronomen#^4|^]]* [[Unter anderem]] muss ich (4) noch bequeme Laufschuhe kaufen. ^4
 
 außerdem -- moreover
 
-[[Text mit Reflexivpronomen#^19|^]] Er sagte mir, dass er (25) früher in der Schule [[insbesondere]] vor den Lateinarbeiten [[gefürchtet]] hat. ^19
+*[[Text mit Reflexivpronomen#^19|^]]* Er sagte mir, dass er (25) früher in der Schule [[insbesondere]] vor den Lateinarbeiten [[gefürchtet]] hat. ^19
 
 
 kulturelle, politische und wirtschaftliche [[Zusammenhänge]] 
 
-[[1 lesen StadtTours#^9|^]] Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
+*[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
 
 
 m [[vielfältigen]] Angebot ist alles, was Spaß verspricht. 
@@ -69,13 +69,13 @@ Trotzdem [[bleibt das Thema politisch umstritten]].
 
 [[Haltung hat sich geändert]]
 
-[[Atom#^32|^]] Die Aktivisten von *Baltitskije SOS* [[fürchten, dass die Herausforderungen unterschätzt]] werden ^32
+*[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten, dass die Herausforderungen unterschätzt]] werden ^32
 
 Diese [[Befürchtungen äußerten Wissenschaftler]] in den vergangenen Jahren immer wieder. 
 
-[[Golfstorm#^6|^]] Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte [[als bisher angenommen]]. ^6
+*[[Golfstorm#^6|^]]* Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte [[als bisher angenommen]]. ^6
 
-[[Golfstorm#^9|^]] Die AMOC [[funktioniert wie eine Art]] [[riesiges]] globales [[Förderband]]: ^9
+*[[Golfstorm#^9|^]]* Die AMOC [[funktioniert wie eine Art]] [[riesiges]] globales [[Förderband]]: ^9
 
 
-[[Golfstorm#^11|^]] und [[tragen entscheidend dazu bei]], dass...^11
+*[[Golfstorm#^11|^]]* und [[tragen entscheidend dazu bei]], dass...^11

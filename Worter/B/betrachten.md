@@ -3,7 +3,7 @@
 ---
 Ich [[betrachte]] diese [[Aussage]] als nicht relevant
 
-[[3 Soll man Geld spenden?#^4|^]] Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja". ^4
+*[[3 Soll man Geld spenden?#^4|^]]* Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja". ^4
 
 
 [[2 Unter Druck nach oben#^19|(q)]] Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]. ^19

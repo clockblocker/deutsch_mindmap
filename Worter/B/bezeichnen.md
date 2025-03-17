@@ -3,7 +3,7 @@
 ---
 Ärzte werden auch als Doktoren [[bezeichnet]].
 
-[[Große Koalition#^1|^]] Als **Große Koalition** (auch **große Koalition**) wird in der Regel eine Regierungskoalition der [[mandatsstärksten]] Parteien im Parlament [[bezeichnet]]. ^1
+*[[Große Koalition#^1|^]]* Als **Große Koalition** (auch **große Koalition**) wird in der Regel eine Regierungskoalition der [[mandatsstärksten]] Parteien im Parlament [[bezeichnet]]. ^1
 
 Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].
 

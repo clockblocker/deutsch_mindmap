@@ -2,7 +2,7 @@
 die [[Fassaden]]
 
 ---
-[[2#^17|^]] An der [[Fassade]] eines [[Hochhauses]] können [[Sträucher]] und sogar Bäume [[wachsen]]! ^17
+*[[2#^17|^]]* An der [[Fassade]] eines [[Hochhauses]] können [[Sträucher]] und sogar Bäume [[wachsen]]! ^17
 
 ---
 = [[Außenwand]], [[Front]], [[Fassadenfront]]

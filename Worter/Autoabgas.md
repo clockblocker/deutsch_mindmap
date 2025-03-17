@@ -2,7 +2,7 @@
 die [[Autoabgase]]
 
 ---
-[[4 Autofrei#^19|^]]  Urbanisten argumentieren, dass je weniger Autos, desto weniger [[Umweltbelastung]] durch [[Autoabgase]] es gibt. ^19
+*[[4 Autofrei#^19|^]]*  Urbanisten argumentieren, dass je weniger Autos, desto weniger [[Umweltbelastung]] durch [[Autoabgase]] es gibt. ^19
 
 ---
 = [[Abgas]], [[Auspuffgas]], [[Fahrzeugabgas]]

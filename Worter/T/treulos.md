@@ -1,7 +1,7 @@
 💔 [[treulos]], [ˈtʁɔɪ̯loːs] ≠ [[treu]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^33|^]] „So ein [[unzuverlässiges]] und [[treuloses]] Pack“, dachte ich mir ganz oft. ^33
+*[[3  Ein Selbstversuch als Hobbybäuerin#^33|^]]* „So ein [[unzuverlässiges]] und [[treuloses]] Pack“, dachte ich mir ganz oft. ^33
 
 ---
 = [[untreu]], [[verräterisch]], [[illoyal]]

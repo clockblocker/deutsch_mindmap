@@ -1,7 +1,7 @@
 ♻️ [[erneuerbar]], [ɛɐ̯ˈnɔɪ̯ɐbaːɐ̯](https://youglish.com/pronounce/erneuerbar/german) ≠ [[nicht erneuerbar]]
 
 ---
-> [[Atom#^4|^]] *Ich denke, dass die [[Kernkraft]] bereits [[überholt]] ist. Es gibt modernere Methoden, wie [[erneuerbare]] [[Energiequellen]]. Und da geht viel [[voran]].* ^4
+> *[[Atom#^4|^]]* *Ich denke, dass die [[Kernkraft]] bereits [[überholt]] ist. Es gibt modernere Methoden, wie [[erneuerbare]] [[Energiequellen]]. Und da geht viel [[voran]].* ^4
 
 ---
 = [[regenerativ]], [[nachwachsend]], [[umweltfreundlich]]

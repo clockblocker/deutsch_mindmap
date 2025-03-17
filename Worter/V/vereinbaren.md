@@ -3,7 +3,7 @@
 ---
 „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“ 
 
-[[Text mit Reflexivpronomen#^2|^]] Wir treffen uns wie [[vereinbart]] in zwei Tagen in Frankfurt und fahren dann weiter nach Italien. ^2
+*[[Text mit Reflexivpronomen#^2|^]]* Wir treffen uns wie [[vereinbart]] in zwei Tagen in Frankfurt und fahren dann weiter nach Italien. ^2
 
 
 ---

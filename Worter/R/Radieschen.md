@@ -2,7 +2,7 @@
 die [[Radieschen]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^13|^]] Wir [[gerieten]] über die Frage, wie weit man Salat von [[Radieschen]] [[fernhalten]] sollte, in einen [[lächerlichen]] [[Streit]]. ^13
+*[[3  Ein Selbstversuch als Hobbybäuerin#^13|^]]* Wir [[gerieten]] über die Frage, wie weit man Salat von [[Radieschen]] [[fernhalten]] sollte, in einen [[lächerlichen]] [[Streit]]. ^13
 
 ---
 = [[Rettich]], [[Rettich]]

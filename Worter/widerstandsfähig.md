@@ -1,7 +1,7 @@
 💪 [[widerstandsfähig]], [ˈviːdɐʃtant͡sˌfɛːɪç](https://youglish.com/pronounce/widerstandsfähig/german) ≠ [[anfällig]]
 
 ---
-[[Golfstorm#^6|^]] Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
+*[[Golfstorm#^6|^]]* Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
 
 ---
 = [[resistent]], [[robust]], [[belastbar]]

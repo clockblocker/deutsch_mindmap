@@ -4,9 +4,9 @@ die [[Begriffe]]
 ---
 [[Schönheit]] ist ein [[relativer]] [[Begriff]].
 
-[[Große Koalition#^2|^]] Der [[Begriff]] wird [[hauptsächlich]] in Deutschland und Österreich benutzt. ^2
+*[[Große Koalition#^2|^]]* Der [[Begriff]] wird [[hauptsächlich]] in Deutschland und Österreich benutzt. ^2
 
-[[Große Koalition#^3|^]] Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der [[Begriff]] **Kleine Koalition** (auch **kleine Koalition**). 
+*[[Große Koalition#^3|^]]* Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der [[Begriff]] **Kleine Koalition** (auch **kleine Koalition**). 
 
 Ich kenne diesen [[Begriff]] nicht.
 

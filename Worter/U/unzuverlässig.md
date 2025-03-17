@@ -1,7 +1,7 @@
 😒 [[unzuverlässig]], [ˈʊntsuːɐ̯ˌfɛɐ̯lɛsɪç] ≠ [[zuverlässig]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^33|^]] „So ein [[unzuverlässiges]] und [[treuloses]] Pack“, dachte ich mir ganz oft. ^33
+*[[3  Ein Selbstversuch als Hobbybäuerin#^33|^]]* „So ein [[unzuverlässiges]] und [[treuloses]] Pack“, dachte ich mir ganz oft. ^33
 
 ---
 = [[untreu]], [[wankelmütig]], [[unbeständig]]

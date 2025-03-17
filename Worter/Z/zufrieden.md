@@ -4,7 +4,7 @@ nicht [[unzufrieden]]
 ---
 [[Wütend]]_ Bist du jetzt [[zufrieden]]? Da geht meine einzige Chance jemals ein Wasserbändiger zu werden! _[Geht weg]_
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^3|^]] Wenn ich jetzt nach vielen Jahren [[Bilanz]] ziehe, macht mich das [[Ergebnis]] sehr [[zufrieden]]. ^3
+*[[3  Ein Selbstversuch als Hobbybäuerin#^3|^]]* Wenn ich jetzt nach vielen Jahren [[Bilanz]] ziehe, macht mich das [[Ergebnis]] sehr [[zufrieden]]. ^3
 
 Heute tragen nur noch wenige Menschen Hüte. Trotzdem gibt es viele Leute, die alles unter einen Hut bringen wollen, damit jeder [[zufrieden]] ist.
 

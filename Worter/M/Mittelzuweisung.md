@@ -2,7 +2,7 @@
 die [[Mittelzuweisungen]]
 
 ---
-[[3 Soll man Geld spenden?#^8|^]] Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[gewissen]] [[Mehrwert]] zu bieten. ^8
+*[[3 Soll man Geld spenden?#^8|^]]* Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[gewissen]] [[Mehrwert]] zu bieten. ^8
 
 ---
 = [[Finanzierung]], [[Zuteilung]], [[Bereitstellung]]

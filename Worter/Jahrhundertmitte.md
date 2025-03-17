@@ -2,7 +2,7 @@
 (no plural)
 
 ---
-[[Golfstorm#^5|^]] Einige Studien [[ausgehen|gehen]] sogar von einem Kollaps bis zur [[Jahrhundertmitte]] aus. ^5
+*[[Golfstorm#^5|^]]* Einige Studien [[ausgehen|gehen]] sogar von einem Kollaps bis zur [[Jahrhundertmitte]] aus. ^5
 
 ---
 = [[Mitte des Jahrhunderts]]

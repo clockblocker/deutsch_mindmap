@@ -2,7 +2,7 @@
 die [[Verschwendungen]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^34|^]] Mit diesen Subjekten habe ich mal meine Zeit verbracht; welch eine [[Verschwendung]]. ^34
+*[[3  Ein Selbstversuch als Hobbybäuerin#^34|^]]* Mit diesen Subjekten habe ich mal meine Zeit verbracht; welch eine [[Verschwendung]]. ^34
 
 ---
 = [[Verschleuderung]], [[Verschwendungssucht]], [[Raubbau]]

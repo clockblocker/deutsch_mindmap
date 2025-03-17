@@ -5,7 +5,7 @@ haben [[geweckt]]
 ---
 (Dreht sich um) Los, [[weck]] meinen Onkel und sag ihm, ich hab endlich den Avatar gefunden
 
-[[Einen Ohrwurm haben#^1|^]] Thomas lässt sich gerne von Musik [[wecken]]. ^1
+*[[Einen Ohrwurm haben#^1|^]]* Thomas lässt sich gerne von Musik [[wecken]]. ^1
 
 ---
 Synonyme: [[aufwecken]], [[aufwachen]], [[erwachen]], [[aufwecken]]

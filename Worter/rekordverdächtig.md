@@ -1,7 +1,7 @@
 🥇 [[rekordverdächtig]], [ʁeˈkɔʁtfɛɐ̯ˌdɛçtɪç](https://youglish.com/pronounce/rekordverdächtig/german) ≠ [[normal]]
 
 ---
-[[Atom#^3|^]] In nur zehn Jahren soll hier Atomstrom produziert werden – ein [[rekordverdächtiges]] Tempo. ^3
+*[[Atom#^3|^]]* In nur zehn Jahren soll hier Atomstrom produziert werden – ein [[rekordverdächtiges]] Tempo. ^3
 
 ---
 = [[Rekord aufstellend]], [[außergewöhnlich]], [[überragend]]

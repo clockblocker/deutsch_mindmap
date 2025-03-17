@@ -2,7 +2,7 @@
 die [[Pantoffeln]]
 
 ---
-[[Aschenputtel#^9|^]] Da warf ihm der Vogel ein golden und silbern Kleid herunter und mit Seide und Silber ausgestickte [[Pantoffeln]]. ^9
+*[[Aschenputtel#^9|^]]* Da warf ihm der Vogel ein golden und silbern Kleid herunter und mit Seide und Silber ausgestickte [[Pantoffeln]]. ^9
 
 ---
 = [[Hausschuh]], [[Schluffi]]

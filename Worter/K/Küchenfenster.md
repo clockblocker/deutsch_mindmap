@@ -2,7 +2,7 @@
 die [[Küchenfenster]]
 
 ---
-[[Aschenputtel#^3|^]] Da kamen zum [[Küchenfenster]] zwei weiße [[Täubchen]] herein und danach die Turteltäubchen, und endlich schwirrten und schwärmten alle Vöglein unter dem Himmel herein und ließen sich um die Asche nieder. ^3
+*[[Aschenputtel#^3|^]]* Da kamen zum [[Küchenfenster]] zwei weiße [[Täubchen]] herein und danach die Turteltäubchen, und endlich schwirrten und schwärmten alle Vöglein unter dem Himmel herein und ließen sich um die Asche nieder. ^3
 
 ---
 = [[Fenster]] in der [[Küche]]

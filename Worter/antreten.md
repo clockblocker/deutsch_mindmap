@@ -1,7 +1,7 @@
 🚶 [[antreten]], [ˈantʁeːtn̩](https://youglish.com/pronounce/antreten/german) | [[trat an]], sind/haben [[angetreten]]
 
 ---
-[[Text mit Reflexivpronomen#^7|^]] Bevor wir unsere gemeinsame Reise nach Rom [[antreten]], möchte ich (8) [[außerdem]] noch einmal richtig ausschlafen, damit ich (9) bei dem Museumsbesuch in Rom besser auf die vielen interessanten Dinge konzentrieren kann. ^7
+*[[Text mit Reflexivpronomen#^7|^]]* Bevor wir unsere gemeinsame Reise nach Rom [[antreten]], möchte ich (8) [[außerdem]] noch einmal richtig ausschlafen, damit ich (9) bei dem Museumsbesuch in Rom besser auf die vielen interessanten Dinge konzentrieren kann. ^7
 
 ---
 = [[beginnen]], [[starten]], [[sich einfinden]]

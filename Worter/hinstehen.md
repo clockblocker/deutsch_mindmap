@@ -1,7 +1,7 @@
 🧍 [[hinstehen]], [ˈhɪnˌʃteːən](https://youglish.com/pronounce/hinstehen/german) | [[stand hin]], sind [[hin gestanden]]
 
 ---
-> [[Atom#^8|^]] *Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
+> *[[Atom#^8|^]]* *Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
 
 ---
 = [[dastehen]], [[sich aufstellen]], [[sich hinstellen]]

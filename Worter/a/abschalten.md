@@ -1,7 +1,7 @@
 😴 [[abschalten]], [ˈapˌʃaltn̩](https://youglish.com/pronounce/abschalten/german) | [[schaltete ab]], haben [[abgeschaltet]]
 
 ---
-> [[Atom#^13|^]] *Wenn sie die [[Kohlekraftwerke]] [[abschalten]], womit werden wir dann heizen? Wir haben kleine Kinder, also sind wir [[dagegen]].* ^13
+> *[[Atom#^13|^]]* *Wenn sie die [[Kohlekraftwerke]] [[abschalten]], womit werden wir dann heizen? Wir haben kleine Kinder, also sind wir [[dagegen]].* ^13
 
 ---
 = [[ausschalten]], [[deaktivieren]], [[herunterfahren]]

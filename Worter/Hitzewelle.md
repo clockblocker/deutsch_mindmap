@@ -2,7 +2,7 @@
 die [[Hitzewellen]]
 
 ---
-[[Golfstorm#^1|^]] Alle sorgen sich wegen höherer Temperaturen und [[Hitzewellen]], doch was wäre, wenn es plötzlich kühler würde? ^1
+*[[Golfstorm#^1|^]]* Alle sorgen sich wegen höherer Temperaturen und [[Hitzewellen]], doch was wäre, wenn es plötzlich kühler würde? ^1
 
 ---
 = [[Hitzperiode]], [[Hitzerekord]]
@@ -30,7 +30,7 @@ D: der [[Hitzewelle]], den [[Hitzewellen]]
 die [[Hitzewellen]]
 
 ---
-[[Golfstorm#^1|^]] Alle sorgen sich wegen höherer Temperaturen und [[Hitzewellen]], doch was wäre, wenn es plötzlich kühler würde? ^1
+*[[Golfstorm#^1|^]]* Alle sorgen sich wegen höherer Temperaturen und [[Hitzewellen]], doch was wäre, wenn es plötzlich kühler würde? ^1
 
 ---
 = [[Hitzperiode]], [[Hitzerekord]]

@@ -1,7 +1,7 @@
 🥕 🔵 der [[Gemüseanbau]], [ɡəˈmyːzəʔanˌbaʊ̯]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^45|^]] Ich garantiere Ihnen: Sie lernen dabei nicht nur etwas über [[Gemüseanbau]]! ^45
+*[[3  Ein Selbstversuch als Hobbybäuerin#^45|^]]* Ich garantiere Ihnen: Sie lernen dabei nicht nur etwas über [[Gemüseanbau]]! ^45
 
 ---
 = [[Gemüsebau]], [[Gemüseanpflanzung]], [[Gemüseproduktion]]

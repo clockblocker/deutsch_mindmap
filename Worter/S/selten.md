@@ -4,7 +4,7 @@ nicht [[häufig]]
 ---
 Wir [[zweifeln]] [[selten]]
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^16|^]] Andere Freunde riefen mich immer [[seltener]] an, weil sie [[befürchteten]], ich könnte sie um Hilfe bitten. ^16
+*[[3  Ein Selbstversuch als Hobbybäuerin#^16|^]]* Andere Freunde riefen mich immer [[seltener]] an, weil sie [[befürchteten]], ich könnte sie um Hilfe bitten. ^16
 
 Das gibt es nur [[selten]]. Glück im Spiel und in der Liebe haben nur [[wenige]]
 

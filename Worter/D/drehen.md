@@ -5,7 +5,7 @@ haben [[gedreht]]
 ---
 _Sokka zieht seinen Ärmel wieder runter und [[dreht]] sich zu Katara. 
 
-[[Text mit Reflexivpronomen#^16|^]] Unser Gespräch [[drehte]] (21) natürlich auch um unsere gemeinsame Schulzeit. ^16
+*[[Text mit Reflexivpronomen#^16|^]]* Unser Gespräch [[drehte]] (21) natürlich auch um unsere gemeinsame Schulzeit. ^16
 
 Wie lange wird dieser Film [[gedreht]]
 

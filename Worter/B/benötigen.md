@@ -1,7 +1,7 @@
 🤔 [[benötigen]], [bəˈnøːtɪɡn̩] | [[benötigte]], haben [[benötigt]]
 
 ---
-[[4 Autofrei#^20|^]]  Auf der anderen Seite werden ihnen zwei weitere große Thesen gegenübergestellt: "So war es und so ist es Brauch" und "Der staatliche [[Notfallschutz]] [[benötigt]] die [[autozentrierte]] Infrastruktur." ^20
+*[[4 Autofrei#^20|^]]*  Auf der anderen Seite werden ihnen zwei weitere große Thesen gegenübergestellt: "So war es und so ist es Brauch" und "Der staatliche [[Notfallschutz]] [[benötigt]] die [[autozentrierte]] Infrastruktur." ^20
 
 ---
 = [[brauchen]], [[erfordern]], [[benötigen]],  [[bedürfen]]

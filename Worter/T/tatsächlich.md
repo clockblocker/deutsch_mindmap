@@ -3,7 +3,7 @@
 ---
 Ich habe [[tatsächlich]] den Job bekommen.
 
-[[4 Autofrei#^21|^]] [[Tatsächlich]] findet man eine so drastische [[Veränderung]] wie das [[Autoverbot]] als [[risikoreich]]. ^10 ^21
+*[[4 Autofrei#^21|^]]* [[Tatsächlich]] findet man eine so drastische [[Veränderung]] wie das [[Autoverbot]] als [[risikoreich]]. ^10 ^21
 
 Ein Haar in der Suppe? Das möchte doch niemand haben. Aber es gibt [[tatsächlich]] Menschen, die extra [[danach]] suchen. Und sie freuen sich, wenn sie ein Haar in der Suppe gefunden haben. Aber warum ist das so?
 

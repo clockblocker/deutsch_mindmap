@@ -1,7 +1,7 @@
 🎽 [[anpassen]], [ˈanˌpasn̩](https://youglish.com/pronounce/anpassen/german) | [[passte an]], haben [[angepasst]]
 
 ---
-[[1 lesen StadtTours#^6|^]] Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]]
+*[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]]
 
 ---
 = [[adaptieren]], [[angleichen]], [[modifizieren]],  [[profilieren]]

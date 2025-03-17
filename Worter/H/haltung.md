@@ -2,7 +2,7 @@
 die [[Haltungen]]
 
 ---
-[[Atom#^25|^]] Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]: ^25
+*[[Atom#^25|^]]* Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]: ^25
 
 ---
 = [[Einstellung]], [[Position]], [[Benehmen]]

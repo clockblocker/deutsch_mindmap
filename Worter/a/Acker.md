@@ -2,9 +2,9 @@
 die [[Äcker]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^15|^]] „Du und dein [[Acker]]!“, [[schnaubte]] sie später ins Telefon, „wir sehen uns wieder, wenn die [[Saison]] vorbei ist.“ 
+*[[3  Ein Selbstversuch als Hobbybäuerin#^15|^]]* „Du und dein [[Acker]]!“, [[schnaubte]] sie später ins Telefon, „wir sehen uns wieder, wenn die [[Saison]] vorbei ist.“ 
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^46|^]] Im Grunde haben wir uns beide [[heldenhaft]] geschlagen, der [[Acker]] und ich. ^46
+*[[3  Ein Selbstversuch als Hobbybäuerin#^46|^]]* Im Grunde haben wir uns beide [[heldenhaft]] geschlagen, der [[Acker]] und ich. ^46
 
 , [[Ackerheldin]]
 

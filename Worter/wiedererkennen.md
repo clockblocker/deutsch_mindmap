@@ -1,7 +1,7 @@
 🧐 [[wiedererkennen]], [ˈviːdɐʔɛɐ̯ˌkɛnən] | [[erkannte wieder]], haben [[wiedererkannt]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^21|^]] Menschen, die mich kennen, hätten mich in meinem Outfit nicht [[wiedererkannt]]. ^21
+*[[3  Ein Selbstversuch als Hobbybäuerin#^21|^]]* Menschen, die mich kennen, hätten mich in meinem Outfit nicht [[wiedererkannt]]. ^21
 
 ---
 = [[identifizieren]], [[rekonstruieren]], [[reproduzieren]]

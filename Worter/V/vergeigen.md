@@ -1,7 +1,7 @@
 🤦 [[vergeigen]], [fɛɐ̯ˈɡaɪ̯ɡn̩](https://youglish.com/pronounce/vergeigen/german) | [[vergeigte]], haben [[vergeigt]]
 
 ---
-[[3. Schuldenpaket. Vergeigen es die Grünen?#^17|^]] [[Schuldenpaket]] [[Vergeigen]] es die Grünen? ^17
+*[[3. Schuldenpaket. Vergeigen es die Grünen?#^17|^]]* [[Schuldenpaket]] [[Vergeigen]] es die Grünen? ^17
 
 ---
 = [[verpfuschen]], [[versagen]], [[vermasseln]], [[verspielen]]

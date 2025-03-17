@@ -5,7 +5,7 @@
 1. Сын радует отца. Der Sohn [[erfreust]] den Vater
 2. Отец радуется сыну. Der Vater [[freut]] sich [[über]] seinen Sohn.
 
-[[Text mit Reflexivpronomen#^24|^]] Er würde (30) auf ein [[Wiedersehen]] mit dir [[freuen]]. ^24
+*[[Text mit Reflexivpronomen#^24|^]]* Er würde (30) auf ein [[Wiedersehen]] mit dir [[freuen]]. ^24
 
 *Paulinchen aber [[freut]] sich sehr*  
 *und sprang im Zimmer hin und her.*  

@@ -2,7 +2,7 @@
 die [[Schuldenpakete]]
 
 ---
-[[3. Schuldenpaket. Vergeigen es die Grünen?#^17|^]] [[Schuldenpaket]] [[Vergeigen]] es die Grünen? ^17
+*[[3. Schuldenpaket. Vergeigen es die Grünen?#^17|^]]* [[Schuldenpaket]] [[Vergeigen]] es die Grünen? ^17
 
 ---
 = [[Kreditpaket]], [[Finanzierungspaket]]

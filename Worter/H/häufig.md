@@ -3,7 +3,7 @@
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^30|^]] In dieser Zeit begann ich immer [[häufiger]] über meine Freunde nachzudenken und erkannte den Wert meiner Freundschaften. ^30
+*[[3  Ein Selbstversuch als Hobbybäuerin#^30|^]]* In dieser Zeit begann ich immer [[häufiger]] über meine Freunde nachzudenken und erkannte den Wert meiner Freundschaften. ^30
 
 Ich hoffe ihn jetzt [[häufiger]] zu sehen
 

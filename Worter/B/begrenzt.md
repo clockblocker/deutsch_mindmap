@@ -6,7 +6,7 @@ nicht [[unbegrenzt]]
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
 	- [ ] damit [[Bestechung]] in der Politik [[begrenzt]] wird
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^40|^]] Man hat in der Regel immer [[Zeitdruck]] und ein [[begrenztes]] Budget. ^40
+*[[3  Ein Selbstversuch als Hobbybäuerin#^40|^]]* Man hat in der Regel immer [[Zeitdruck]] und ein [[begrenztes]] Budget. ^40
 
 ---
 = [[beschränkt]], [[eingeschränkt]], [[limitiert]]

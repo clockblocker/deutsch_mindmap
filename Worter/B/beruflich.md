@@ -1,9 +1,9 @@
 💼 [[beruflich]], [bəˈʁuːflɪç]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^2|^]] Damit meine ich nicht nur die [[beruflichen]] Ziele, sondern auch meine privaten, denn diese können ja bekanntlich [[gleichermaßen]] [[anspruchsvoll]] sein. ^2
+*[[3  Ein Selbstversuch als Hobbybäuerin#^2|^]]* Damit meine ich nicht nur die [[beruflichen]] Ziele, sondern auch meine privaten, denn diese können ja bekanntlich [[gleichermaßen]] [[anspruchsvoll]] sein. ^2
 
-[[Text mit Reflexivpronomen#^12|^]] [[Beruflich]] [[beschäftigt]] er (17) mit dem [[Verkauf]] von Küchenmaschinen. ^12
+*[[Text mit Reflexivpronomen#^12|^]]* [[Beruflich]] [[beschäftigt]] er (17) mit dem [[Verkauf]] von Küchenmaschinen. ^12
 
 ---
 = [[dienstlich]], [[professionell]], [[geschäftlich]], [[berufsbezogen]],

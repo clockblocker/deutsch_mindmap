@@ -2,7 +2,7 @@
 die [[Abstriche]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^36|^]] Und man muss bestimmte [[Abstriche]] machen, wenn man nur einmal pro Woche vor Ort sein kann. ^36
+*[[3  Ein Selbstversuch als Hobbybäuerin#^36|^]]* Und man muss bestimmte [[Abstriche]] machen, wenn man nur einmal pro Woche vor Ort sein kann. ^36
 
 ---
 = [[Tupferprobe]], [[Wischprobe]], [[Probenentnahme]]

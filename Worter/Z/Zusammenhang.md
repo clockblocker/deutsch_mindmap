@@ -4,7 +4,7 @@ die [[Zusammenhänge]]
 ---
 Es gibt keinen [[Zusammenhang]] zwischen Geld und Glück.
 
-[[1 lesen StadtTours#^5|^]] Die teilnehmenden Besucherinnen und Besucher [[erhalten]] [[Einblicke]] in kulturelle, politische und wirtschaftliche [[Zusammenhänge]] und bekommen so ein [[facettenreiches]] Bild von historischen [[Entwicklungen]] und Bräuchen der Stadt, die z. B. auch 2 [[mithilfe]] von Fotos oder Anekdoten [[veranschaulicht]] werden. ^5
+*[[1 lesen StadtTours#^5|^]]* Die teilnehmenden Besucherinnen und Besucher [[erhalten]] [[Einblicke]] in kulturelle, politische und wirtschaftliche [[Zusammenhänge]] und bekommen so ein [[facettenreiches]] Bild von historischen [[Entwicklungen]] und Bräuchen der Stadt, die z. B. auch 2 [[mithilfe]] von Fotos oder Anekdoten [[veranschaulicht]] werden. ^5
 
 ---
 = [[Verbindung]], [[Beziehung]], [[Kontext]]

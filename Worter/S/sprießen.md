@@ -1,7 +1,7 @@
 🌱 [[sprießen]], [ˈʃpʁiːsn̩] | [[spross]], sind [[gesprossen]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^35|^]] Man muss auch beim [[Bewältigen]] der [[Erntemengen]] Ideen [[sprießen]] lassen, schließlich wird vieles gleichzeitig [[reif]]. ^35
+*[[3  Ein Selbstversuch als Hobbybäuerin#^35|^]]* Man muss auch beim [[Bewältigen]] der [[Erntemengen]] Ideen [[sprießen]] lassen, schließlich wird vieles gleichzeitig [[reif]]. ^35
 
 ---
 = [[keimen]], [[wachsen]], [[austreiben]]

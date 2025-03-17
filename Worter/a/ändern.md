@@ -12,7 +12,7 @@ Doch dann erklärte uns die Feuernation den Krieg und alles [[änderte]] sich.
 	- [x] [[Erwachsene]] müssen auch nach der [[Ausbildung]] immer weiter lernen.
 	- [ ] Alle müssen [[früher]] [[aufhören]] zu arbeiten, weil sich alles [[ändert]].
 
-[[Atom#^25|^]] Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]: ^25
+*[[Atom#^25|^]]* Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]: ^25
 
 ---
 = [[verändern]], [[modifizieren]], [[umwandeln]]

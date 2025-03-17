@@ -3,9 +3,9 @@
 ---
 „Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
 
-[[Atom#^32|^]] Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderungen]] [[unterschätzt]] werden ^32
+*[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderungen]] [[unterschätzt]] werden ^32
 
-[[Text mit Reflexivpronomen#^19|^]] Er sagte mir, dass er (25) früher in der Schule [[insbesondere]] vor den Lateinarbeiten [[gefürchtet]] hat. ^19
+*[[Text mit Reflexivpronomen#^19|^]]* Er sagte mir, dass er (25) früher in der Schule [[insbesondere]] vor den Lateinarbeiten [[gefürchtet]] hat. ^19
 
 *Alle warten auf das Licht*
 *[[Fürchtet]] euch, fürchtet euch nicht*  

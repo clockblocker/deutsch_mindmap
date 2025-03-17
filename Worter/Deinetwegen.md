@@ -1,7 +1,7 @@
 🙋 [[deinetwegen]], [ˈdaɪ̯nətˌveːɡn̩](https://youglish.com/pronounce/deinetwegen/german)
 
 ---
-[[Einen Ohrwurm haben#^13|^]] [[Deinetwegen]] habe ich jetzt auch einen“, antwortet der Kollege. ^13
+*[[Einen Ohrwurm haben#^13|^]]* [[Deinetwegen]] habe ich jetzt auch einen“, antwortet der Kollege. ^13
 
 ---
 = [[wegen dir]], [[um deinetwillen]]

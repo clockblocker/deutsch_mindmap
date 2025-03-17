@@ -24,15 +24,15 @@ Es ward nun beschlossen, sie wollten gleich an diesem schönen Morgen aufsteigen
 
 "Du unser König?" schrien die Vögel zornig. "Durch Ränke und Listen hast du es dahin gebracht." Sie machten eine andere Bedingung, der sollte ihr König sein, der am tiefsten in die Erde fallen könnte. Wie klatschte da die Gans mit ihrer breiten Brust wieder auf das Land! Wie scharrte der Hahn schnell ein Loch! Die Ente kam am schlimmsten weg, sie sprang in einen Graben, verrenkte sich aber die Beine und watschelte fort zum nahen Teiche mit dem Ausruf: "Pracherwerk! Pracherwerk!" Der Kleine ohne Namen aber suchte ein Mäuseloch, schlüpfte hinab und rief mit seiner feinen Stimme heraus: "König bün ick! König bün ick!"
 
-[[Der Zaunkönig#^1|^]] "Du unser König?" riefen die Vögel noch zorniger. ^1
+*[[Der Zaunkönig#^1|^]]* "Du unser König?" riefen die Vögel noch zorniger. ^1
 
-[[Der Zaunkönig#^2|^]] "Meinst du, deine Listen sollten gelten?" Sie beschlossen, ihn in seinem Loch [[gefangenzuhalten]] und auszuhungern. ^2
+*[[Der Zaunkönig#^2|^]]* "Meinst du, deine Listen sollten gelten?" Sie beschlossen, ihn in seinem Loch [[gefangenzuhalten]] und auszuhungern. ^2
 
-[[Der Zaunkönig#^3|^]] Die Eule ward als Wache davorgestellt; sie sollte den Schelm nicht herauslassen, so lieb ihr das Leben wäre. ^3
+*[[Der Zaunkönig#^3|^]]* Die Eule ward als Wache davorgestellt; sie sollte den Schelm nicht herauslassen, so lieb ihr das Leben wäre. ^3
 
-[[Der Zaunkönig#^4|^]] Als es aber Abend geworden war und die Vögel von der Anstrengung beim Fliegen große Müdigkeit empfanden, so gingen sie mit Weib und Kind zu Bett. ^4
+*[[Der Zaunkönig#^4|^]]* Als es aber Abend geworden war und die Vögel von der Anstrengung beim Fliegen große Müdigkeit empfanden, so gingen sie mit Weib und Kind zu Bett. ^4
 
-[[Der Zaunkönig#^5|^]] Die Eule allein blieb bei dem Mäuseloch stehen und blickte mit ihren großen Augen unverwandt hinein. ^5
+*[[Der Zaunkönig#^5|^]]* Die Eule allein blieb bei dem Mäuseloch stehen und blickte mit ihren großen Augen unverwandt hinein. ^5
 
 Indessen war sie auch müde geworden und dachte: Ein Auge kannst du wohl zutun, du wachst ja noch mit dem andern, und der kleine Bösewicht soll nicht aus seinem Loch heraus. Also tat sie das eine Auge zu und schaute mit dem andern steif auf das Mäuseloch. Der kleine Kerl guckte mit dem Kopf heraus und wollte wegwitschen, aber die Eule trat gleich davor, und er zog den Kopf wieder zurück. Dann tat die Eule das eine Auge wieder auf und das andere zu und wollte so die ganze Nacht abwechseln. Aber als sie das eine Auge wieder zumachte, vergaß sie das andere aufzutun, und sobald die beiden Augen zu waren, schlief sie ein. Der Kleine merkte das bald und schlüpfte weg.
 

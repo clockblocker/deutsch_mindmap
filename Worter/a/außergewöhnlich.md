@@ -1,7 +1,7 @@
 ✨ [[außergewöhnlich]], [ˈaʊ̯sɐɡəˌvœːnlɪç] ≠ [[gewöhnlich]]
 
 ---
-[[Untitled 11#^6|^]] Aus diesem Grund ist es häufig so, dass Lehrer ein geringes Einkommen bekommen und es für sie und für ausgebildete Menschen in Philosophie, Soziologie, Geschichte und Sprachwissenschaft erheblich schwierig ist, eine gute Arbeitsstelle zu finden, die ihnen akzeptable Bedingungen anbietet, selbst wenn sie über [[außergewöhnliche]] Fähigkeiten verfügen und die Wille haben, so gut wie möglich zu arbeiten. ^6
+*[[Untitled 11#^6|^]]* Aus diesem Grund ist es häufig so, dass Lehrer ein geringes Einkommen bekommen und es für sie und für ausgebildete Menschen in Philosophie, Soziologie, Geschichte und Sprachwissenschaft erheblich schwierig ist, eine gute Arbeitsstelle zu finden, die ihnen akzeptable Bedingungen anbietet, selbst wenn sie über [[außergewöhnliche]] Fähigkeiten verfügen und die Wille haben, so gut wie möglich zu arbeiten. ^6
 
 
 ---

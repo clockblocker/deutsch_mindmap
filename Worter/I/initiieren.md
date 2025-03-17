@@ -1,7 +1,7 @@
 💡 [[initiieren]], [ɪniˈt͡siːʁən](https://youglish.com/pronounce/initiieren/german) | [[initiierte]], haben [[initiiert]]
 
 ---
-[[Atom#^10|^]] Die [[damalige]] rechtspopulistische Regierung [[initiierte]] die Atompläne vor drei Jahren.
+*[[Atom#^10|^]]* Die [[damalige]] rechtspopulistische Regierung [[initiierte]] die Atompläne vor drei Jahren.
 
 ---
 = [[anstoßen]], [[beginnen]], [[starten]], [[gründen]], [[eröffnen]], [[Hochfahren]]

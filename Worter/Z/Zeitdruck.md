@@ -1,7 +1,7 @@
 ⏱️ 🔵 der [[Zeitdruck]], [ˈt͡saɪ̯tˌdʁʊk]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^40|^]] Man hat in der Regel immer [[Zeitdruck]] und ein [[begrenztes]] Budget. ^40
+*[[3  Ein Selbstversuch als Hobbybäuerin#^40|^]]* Man hat in der Regel immer [[Zeitdruck]] und ein [[begrenztes]] Budget. ^40
 
 
 

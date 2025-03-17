@@ -3,7 +3,7 @@
 ---
 Und der Professor ist sehr [[anspruchsvoll]]: Er macht die Prüfungen gerne sehr schwer, damit viele sie nicht bestehen. 
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^2|^]] Damit meine ich nicht nur die [[beruflichen]] Ziele, sondern auch meine privaten, denn diese können ja bekanntlich [[gleichermaßen]] [[anspruchsvoll]] sein. ^2
+*[[3  Ein Selbstversuch als Hobbybäuerin#^2|^]]* Damit meine ich nicht nur die [[beruflichen]] Ziele, sondern auch meine privaten, denn diese können ja bekanntlich [[gleichermaßen]] [[anspruchsvoll]] sein. ^2
 
 ---
 = [[fordernd]], [[herausfordernd]], [[ambitioniert]]

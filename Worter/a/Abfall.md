@@ -2,7 +2,7 @@
 die [[Abfälle]]
 
 ---
-[[Atom#^28|^]] Zum Beispiel: *Wohin mit dem radioaktiven [[Abfall]]?* ^28
+*[[Atom#^28|^]]* Zum Beispiel: *Wohin mit dem radioaktiven [[Abfall]]?* ^28
 
 ---
 = [[Müll]], [[Unrat]], [[Kehricht]], [[Dreck]], 

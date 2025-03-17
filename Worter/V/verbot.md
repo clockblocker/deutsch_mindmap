@@ -2,7 +2,7 @@
 die [[Verbote]]
 
 ---
-[[4 Autofrei#^21|^]] [[Tatsächlich]] findet man eine so drastische [[Veränderung]] wie das [[Autoverbot]] als [[risikoreich]]. ^10 ^21
+*[[4 Autofrei#^21|^]]* [[Tatsächlich]] findet man eine so drastische [[Veränderung]] wie das [[Autoverbot]] als [[risikoreich]]. ^10 ^21
 
 
 , [[verbieten]], [[erlaubt]], [[Erlaubnis]], [[Grundrecht]], [[verbannen]], [[Genehmigung]], [[Gaststättenerlaubnis]], [[Zugang]], [[dürfen]]

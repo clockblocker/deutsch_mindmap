@@ -1,7 +1,7 @@
 💯 [[unverzichtbar]], [ˈʊnfɛɐ̯ˌt͡sɪçtbaːɐ̯](https://youglish.com/pronounce/unverzichtbar/german) ≠ [[verzichbar]]
 
 ---
-> [[Atom#^8|^]] *Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
+> *[[Atom#^8|^]]* *Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
 
 ---
 = [[unerlässlich]], [[notwendig]], [[essentiell]], [[unentbehrlich]], [[erforderlich]]

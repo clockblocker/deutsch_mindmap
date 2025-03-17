@@ -1,7 +1,7 @@
 👍 [[befürworten]], [bəˈfyːɐ̯ˌvɔʁtn̩](https://youglish.com/pronounce/befürworten/german) | [[befürwortete]], haben [[befürwortet]]
 
 ---
-[[Atom#^27|^]] Damit repräsentieren sie den Trend. Laut einer repräsentativen [[Umfrage]] [[befürworten]] über 90% der Polen den Bau von Atomkraftwerken – trotz vieler offener Fragen. ^27
+*[[Atom#^27|^]]* Damit repräsentieren sie den Trend. Laut einer repräsentativen [[Umfrage]] [[befürworten]] über 90% der Polen den Bau von Atomkraftwerken – trotz vieler offener Fragen. ^27
 
 ---
 = [[unterstützen]], [[billigen]], [[gutheißen]]

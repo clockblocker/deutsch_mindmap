@@ -1,7 +1,7 @@
 📍 [[hiervon]], [ˈhiːɐ̯ˌfɔn](https://youglish.com/pronounce/hiervon/german)
 
 ---
-[[Große Koalition#^3|^]] Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der Begriff **Kleine Koalition** (auch **kleine Koalition**). 
+*[[Große Koalition#^3|^]]* Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der Begriff **Kleine Koalition** (auch **kleine Koalition**). 
 
 ---
 = [[davon]], [[von hier]]

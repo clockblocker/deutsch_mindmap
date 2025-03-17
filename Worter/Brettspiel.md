@@ -2,7 +2,7 @@
 die [[Brettspiele]]
 
 ---
-[[3 Soll man Geld spenden?#^7|^]] Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine [[gemeinnützige]] Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit einsetzt. ^7
+*[[3 Soll man Geld spenden?#^7|^]]* Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine [[gemeinnützige]] Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit einsetzt. ^7
 
 ---
 = [[Tischspiel]], [[Gesellschaftsspiel]]

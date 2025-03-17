@@ -3,7 +3,7 @@
 ---
 9. Temperatur [[einstellen]].
 
-[[Einen Ohrwurm haben#^3|^]] Deshalb hat er auch einen Oldie-[[Sender]] auf seinem Radio-[[Wecker]] [[eingestellt]]. ^3
+*[[Einen Ohrwurm haben#^3|^]]* Deshalb hat er auch einen Oldie-[[Sender]] auf seinem Radio-[[Wecker]] [[eingestellt]]. ^3
 
 ---
 = [[justieren]], [[regulieren]], [[anpassen]]

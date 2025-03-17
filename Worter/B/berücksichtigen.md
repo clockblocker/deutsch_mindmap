@@ -3,7 +3,7 @@
 ---
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 
-[[1 lesen StadtTours#^6|^]] Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]] 
+*[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]] 
 
 1. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
 	- [ ] [[steuert]] sich allein nach [[Angebot]] und [[Nachfrage]].

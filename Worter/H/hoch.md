@@ -4,7 +4,7 @@ nicht [[niedrig]]
 ---
 Das bisher [[höchste]] Ergebnis erzielte ein Gemälde von Claude Monet mit einem Preis von 36,5 Millionen Pfund
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^20|^]] Ich war [[höchstens]] eine [[Heldin]] der Arbeit, als ich auf dem Acker [[herumkroch]]. ^20
+*[[3  Ein Selbstversuch als Hobbybäuerin#^20|^]]* Ich war [[höchstens]] eine [[Heldin]] der Arbeit, als ich auf dem Acker [[herumkroch]]. ^20
 
 277. Eine Frau, die ein zweijähriges Kind hat, [[bewirbt]] sich in Deutschland um eine [[Stelle]]. Was ist ein Beispiel für [[Diskriminierung]]? Sie bekommt die Stelle nur deshalb nicht, weil sie … (95%)
 	- [x] Mutter ist.

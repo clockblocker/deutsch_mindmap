@@ -2,7 +2,7 @@
 die [[Todesfälle]]
 
 ---
-[[4 Autofrei#^5|^]] Zudem ist der Autoverkehr die [[Hauptursache]] von [[Straßenunfällen]], in welchen die [[Mehrheit]] der nicht-[[krankheitsbedingten]] [[Todesfälle]] in der Stadt [[Auftritt]]. ^5
+*[[4 Autofrei#^5|^]]* Zudem ist der Autoverkehr die [[Hauptursache]] von [[Straßenunfällen]], in welchen die [[Mehrheit]] der nicht-[[krankheitsbedingten]] [[Todesfälle]] in der Stadt [[Auftritt]]. ^5
 
 ---
 = [[Sterbefall]], [[Todesereignis]], [[Sterbefall]]

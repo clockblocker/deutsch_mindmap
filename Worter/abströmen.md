@@ -1,7 +1,7 @@
 💨 [[abströmen]], [ˈapˌʃtʁøːmən](https://youglish.com/pronounce/abströmen/german) | [[strömte ab]], ist [[abgeströmt]]
 
 ---
-[[Golfstorm#^10|^]] In der Tiefe [[abströmt|strömt]] es in südlicher Richtung ab. ^10
+*[[Golfstorm#^10|^]]* In der Tiefe [[abströmt|strömt]] es in südlicher Richtung ab. ^10
 
 ---
 = [[ausströmen]], [[abfließen]], [[entweichen]]

@@ -1,7 +1,7 @@
 🚪 [[einlassen]], [ˈaɪ̯nˌlasn̩] | [[ließ ein]], haben [[eingelassen]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^48|^]] Wenn ich mich nächstes Jahr wieder auf das Abenteuer „Garten“ [[einlasse]], will ich es [[tapfer]] und [[aufopfernd]] tun, aber will [[nachsichtig]] mit mir sein. ^48
+*[[3  Ein Selbstversuch als Hobbybäuerin#^48|^]]* Wenn ich mich nächstes Jahr wieder auf das Abenteuer „Garten“ [[einlasse]], will ich es [[tapfer]] und [[aufopfernd]] tun, aber will [[nachsichtig]] mit mir sein. ^48
 
 ---
 [[hin]] + [[einlassen]] = [[hineinlassen]] // to let in, to admit

@@ -9,7 +9,7 @@ Im DDR-Museum können die Besucher ein Stück DDR-Kultur [[erleben]]: Wie ist da
 
 Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. Egal, wie man sich [[anstellt]], es klappt nicht! Da muss der [[Wurm]] [[drin]] sein …
 
-[[Einen Korb bekommen#^13|^]] Jetzt erzählt Anna, was sie in letzter Zeit alles [[erlebt]] hat: Sie war mit Katharina in Paris, und es war so romantisch! ^13
+*[[Einen Korb bekommen#^13|^]]* Jetzt erzählt Anna, was sie in letzter Zeit alles [[erlebt]] hat: Sie war mit Katharina in Paris, und es war so romantisch! ^13
 
 ---
 Synonyme: [[erfahren]], [[miterleben]], [[mitbekommen]], [[durchmachen]], [[erleiden]], [[spüren]]

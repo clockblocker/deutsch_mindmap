@@ -7,7 +7,7 @@ nicht [[süß]], nicht [[fade]]
 *Und so kommt es, dass das Wasser*  
 *In den Meeren salzig ist*  
 
-[[Einen Kater haben#^11|^]] Trink viel Wasser und iss was [[Salziges]]. ^11
+*[[Einen Kater haben#^11|^]]* Trink viel Wasser und iss was [[Salziges]]. ^11
 
 
 ---

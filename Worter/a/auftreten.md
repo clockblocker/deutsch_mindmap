@@ -3,7 +3,7 @@
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 
-[[4 Autofrei#^5|^]] Zudem ist der Autoverkehr die [[Hauptursache]] von [[Straßenunfällen]], in welchen die [[Mehrheit]] der nicht-[[krankheitsbedingten]] [[Todesfälle]] in der Stadt [[Auftritt]]. ^5
+*[[4 Autofrei#^5|^]]* Zudem ist der Autoverkehr die [[Hauptursache]] von [[Straßenunfällen]], in welchen die [[Mehrheit]] der nicht-[[krankheitsbedingten]] [[Todesfälle]] in der Stadt [[Auftritt]]. ^5
  
  Dabei stand er noch nie auf einer Bühne. Er hat sich [[bisher]] nie [[getraut]], als Schauspieler im Theater [[aufzutreten]], weil er immer so [[schrecklich]] [[aufgeregt]] ist. 
  

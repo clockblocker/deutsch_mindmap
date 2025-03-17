@@ -1,7 +1,7 @@
 😊 [[gelaunt]], [ɡəˈlaʊ̯nt](https://youglish.com/pronounce/gelaunt/german) ≠ [[verstimmt]] | [[Laune]]
  
 ---
-[[Einen Ohrwurm haben#^5|^]] Gut [[gelaunt]] steht Thomas auf und [[summt]] die Melodie mit. ^5
+*[[Einen Ohrwurm haben#^5|^]]* Gut [[gelaunt]] steht Thomas auf und [[summt]] die Melodie mit. ^5
 
 ---
 = [[aufgelegt]], [[gestimmt]], [[munter]]

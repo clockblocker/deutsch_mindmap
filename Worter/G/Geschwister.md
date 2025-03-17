@@ -7,7 +7,7 @@ Mit einem [[Zischen]] werden die [[Geschwister]] nach hinten [[geschleudert]].
 
 Ich habe [[Geschwister]]: einen Bruder und eine Schwester.
 
-[[Atom#^25|^]] Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]: ^25
+*[[Atom#^25|^]]* Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]: ^25
 
 ---
 Synonyme:

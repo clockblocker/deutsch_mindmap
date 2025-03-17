@@ -1,7 +1,7 @@
 👍 [[vorteilhaft]], [ˈfoːɐ̯ˌtaɪ̯lhaft]
 
 ---
-[[3 Soll man Geld spenden?#^12|^]] Wenn die [[Bedingungen]] des "Angebots" den Spender [[zufriedenstellen]], wird die [[Wohltätigkeit]] für beide Seiten [[vorteilhaft]]. ^12
+*[[3 Soll man Geld spenden?#^12|^]]* Wenn die [[Bedingungen]] des "Angebots" den Spender [[zufriedenstellen]], wird die [[Wohltätigkeit]] für beide Seiten [[vorteilhaft]]. ^12
 
 ---
 = [[günstig]], [[nützlich]], [[förderlich]],  [[Vorteil]],

@@ -5,7 +5,7 @@ die [[Fälle]]
 ---
 NIC: [[Auf keinen Fall]]! Der Typ ist nicht mein Problem.
 
-[[Einen Kater haben#^14|^]] In Maries [[Fall]] ist das nämlich kein süßes Haustier, sondern die [[Bezeichnung]] für die schmerzhaften Folgen von zu viel Alkohol. ^14
+*[[Einen Kater haben#^14|^]]* In Maries [[Fall]] ist das nämlich kein süßes Haustier, sondern die [[Bezeichnung]] für die schmerzhaften Folgen von zu viel Alkohol. ^14
 
 Und ihr Bruder Nils [[erklärt]], dass er [[Auf keinen Fall]] in ein Flugzeug steigen wird. 
 

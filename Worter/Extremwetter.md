@@ -2,7 +2,7 @@
 (no plural)
 
 ---
-[[Golfstorm#^3|^]] Denn die Klimakrise führt nicht nur zu mehr [[Extremwetter]], sondern [[wirkt aus|wirkt]] sich auch auf [[Meeresströmungen]] aus. ^3
+*[[Golfstorm#^3|^]]* Denn die Klimakrise führt nicht nur zu mehr [[Extremwetter]], sondern [[wirkt aus|wirkt]] sich auch auf [[Meeresströmungen]] aus. ^3
 
 ---
 = [[Unwetter]], [[Naturkatastrophe]]

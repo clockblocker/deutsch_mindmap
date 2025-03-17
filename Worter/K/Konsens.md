@@ -3,7 +3,7 @@
 die [[Konsense]]
 
 ---
-[[3 Soll man Geld spenden?#^1|^]] Da es eine [[Vielzahl]] von Ethiken gibt, durch deren Prisma ein Mensch die Realität [[betrachten]] kann, wird im Rahmen dieser [[Überlegung]] [[vorgeschlagen]], den [[gesellschaftlichen]] [[Konsens]] als Quelle der Ethik zu nehmen. ^1
+*[[3 Soll man Geld spenden?#^1|^]]* Da es eine [[Vielzahl]] von Ethiken gibt, durch deren Prisma ein Mensch die Realität [[betrachten]] kann, wird im Rahmen dieser [[Überlegung]] [[vorgeschlagen]], den [[gesellschaftlichen]] [[Konsens]] als Quelle der Ethik zu nehmen. ^1
 
 ---
 = [[Übereinstimmung]], [[Einigkeit]], [[Einverständnis]]

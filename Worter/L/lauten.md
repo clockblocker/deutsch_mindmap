@@ -3,7 +3,7 @@
 ---
 Mona hat gerade ihr [[Abitur]] gemacht. Die große Frage [[lautet]]: Was macht sie nun? 
 
-[[3 Soll man Geld spenden?#^4|^]] Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja". ^4
+*[[3 Soll man Geld spenden?#^4|^]]* Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja". ^4
 
 ---
 Synonyme: [[klingen]], [[tönen]], [[erklingen]], [[erschallen]], [[verlautbaren]]

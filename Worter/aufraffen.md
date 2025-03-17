@@ -1,7 +1,7 @@
 💪 [[aufraffen]], [ˈaʊ̯fˌʁafn̩] | [[raffte auf]], haben [[aufgerafft]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^29|^]] Wenn ich mich mal nicht [[aufraffte]], zum Feld zu fahren, [[plagte]] mich das schlechte Gewissen. ^29
+*[[3  Ein Selbstversuch als Hobbybäuerin#^29|^]]* Wenn ich mich mal nicht [[aufraffte]], zum Feld zu fahren, [[plagte]] mich das schlechte Gewissen. ^29
 
 ---
 = [[sich aufrichten]], [[sich erheben]], [[sich zusammennehmen]]

@@ -3,7 +3,7 @@
 ---
 🗣️ die [[Meinungsäußerung]],
 
-[[Golfstorm#^2|^]] Diese [[Befürchtungen]] [[äußerten]] Wissenschaftler in den vergangenen Jahren immer wieder. ^2
+*[[Golfstorm#^2|^]]* Diese [[Befürchtungen]] [[äußerten]] Wissenschaftler in den vergangenen Jahren immer wieder. ^2
 
 51. Zu einem demokratischen Rechtsstaat gehört es nicht, dass … (88%)
 	- [ ] Menschen sich kritisch über die [[Regierung]] [[äußern]] können.

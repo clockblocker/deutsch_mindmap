@@ -1,7 +1,7 @@
 📍 [[unweit]], [ˈʊnvaɪ̯t](https://youglish.com/pronounce/unweit/german)
 
 ---
-[[Atom#^11|^]] Heute distanziert sie sich und plakatiert Anti-Atom-[[Botschaften]] – sogar [[unweit]] der [[Baustelle]], am [[Traumstrand]] in der Kleinstadt Chodzewo. ^10 ^11
+*[[Atom#^11|^]]* Heute distanziert sie sich und plakatiert Anti-Atom-[[Botschaften]] – sogar [[unweit]] der [[Baustelle]], am [[Traumstrand]] in der Kleinstadt Chodzewo. ^10 ^11
 
 ---
 = [[nahe]], [[in der Nähe]], [[nicht weit entfernt]], [[nah]]

@@ -2,7 +2,7 @@
 die [[Spaziergänge]]
 
 ---
-[[4 Autofrei#^10|^]] Und schließlich finden die Bewohner die leisen, sauberen und angstfreien autofreien Straßen [[attraktiver]] für [[Spaziergänge]] und Shopping. ^10
+*[[4 Autofrei#^10|^]]* Und schließlich finden die Bewohner die leisen, sauberen und angstfreien autofreien Straßen [[attraktiver]] für [[Spaziergänge]] und Shopping. ^10
 
 ---
 = [[Gang]], [[Wanderung]], [[Ausflug]]

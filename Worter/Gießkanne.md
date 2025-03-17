@@ -2,7 +2,7 @@
 die [[Gießkannen]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^28|^]] [[Häufig]] siegte aber auch der Acker – über meine Kraft (mehr als zehn [[Gießkannen]] Wasser konnte ich bei 30 Grad einfach nicht [[schleppen]]) und vor allem über meinen inneren [[Schweinehund]]. ^28
+*[[3  Ein Selbstversuch als Hobbybäuerin#^28|^]]* [[Häufig]] siegte aber auch der Acker – über meine Kraft (mehr als zehn [[Gießkannen]] Wasser konnte ich bei 30 Grad einfach nicht [[schleppen]]) und vor allem über meinen inneren [[Schweinehund]]. ^28
 
 ---
 = [[Gießgefäß]], [[Kanne]]

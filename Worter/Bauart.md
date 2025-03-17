@@ -2,7 +2,7 @@
 die [[Bauarten]]
 
 ---
-[[Atom#^20|^]] Polen hatte bereits in der Vergangenheit ein Atomkraftwerk [[sowjetischer]] [[Bauart]] geplant. ^20
+*[[Atom#^20|^]]* Polen hatte bereits in der Vergangenheit ein Atomkraftwerk [[sowjetischer]] [[Bauart]] geplant. ^20
 
 ---
 = [[Konstruktion]], [[Machart]], [[Ausführung]]

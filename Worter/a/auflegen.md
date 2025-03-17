@@ -1,9 +1,9 @@
 📞 [[auflegen]], [ˈaʊ̯fˌleːɡn̩] | [[legte auf]], haben [[aufgelegt]]
 
 ---
-[[Einen Kater haben#^18|^]] Der DJ [[auflegen|legte]] genau die [[richtig|richtige]] [[Musik]] [[auflegen|auf]], die [[Stimmung]] war [[fantastisch]], und irgendwie hatte Marie [[andauernd]] einen [[neu|neuen]] [[Drink]] in der [[Hand]]. ^18
+*[[Einen Kater haben#^18|^]]* Der DJ [[auflegen|legte]] genau die [[richtig|richtige]] [[Musik]] [[auflegen|auf]], die [[Stimmung]] war [[fantastisch]], und irgendwie hatte Marie [[andauernd]] einen [[neu|neuen]] [[Drink]] in der [[Hand]]. ^18
 
-[[Einen Korb bekommen#^26|^]] Ich muss jetzt los.“ Dann [[auflegen|legt]] er auf. ^26
+*[[Einen Korb bekommen#^26|^]]* Ich muss jetzt los.“ Dann [[auflegen|legt]] er auf. ^26
 
 
 ---

@@ -2,7 +2,7 @@
 die [[Akteure]]
 
 ---
-[[Atom#^24|^]] Polen und die Türkei sind die neuen [[Akteure]] auf dem europäischen Atommarkt.
+*[[Atom#^24|^]]* Polen und die Türkei sind die neuen [[Akteure]] auf dem europäischen Atommarkt.
 
 ---
 = [[Darsteller]], [[Schauspieler]], [[Mitwirkender]], [[Schauspieler]]

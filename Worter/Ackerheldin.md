@@ -2,7 +2,7 @@
 die [[Ackerheldinnen]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^27|^]] So gesehen bin ich [[zumindest]] eine [[Ackerheldin]], die den Kampf für sich [[entscheiden]] konnte. ^27
+*[[3  Ein Selbstversuch als Hobbybäuerin#^27|^]]* So gesehen bin ich [[zumindest]] eine [[Ackerheldin]], die den Kampf für sich [[entscheiden]] konnte. ^27
 
 ---
 = [[Bäuerin]], [[Landwirtin]]

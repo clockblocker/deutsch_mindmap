@@ -2,7 +2,7 @@
 die [[Kanalisationen]]
 
 ---
-[[4 Autofrei#^12|^]] Was ist mit der Lebensmittellogistik passieren? Was ist mit Krankenwagen? [[Feuerwehr]]? Polizei? [[Kanalisation]]? Elektrizität? ^17
+*[[4 Autofrei#^12|^]]* Was ist mit der Lebensmittellogistik passieren? Was ist mit Krankenwagen? [[Feuerwehr]]? Polizei? [[Kanalisation]]? Elektrizität? ^17
 
 ---
 = [[Abwassersystem]], [[Abwasserkanalisation]], [[Kanalnetz]]

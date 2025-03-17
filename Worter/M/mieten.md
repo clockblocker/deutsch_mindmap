@@ -3,7 +3,7 @@
 ---
 [[Vermieterin]]
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^44|^]] [[Mieten]] Sie sich notfalls einen Garten, so wie ich es gemacht habe. ^44
+*[[3  Ein Selbstversuch als Hobbybäuerin#^44|^]]* [[Mieten]] Sie sich notfalls einen Garten, so wie ich es gemacht habe. ^44
 
 ---
 = [[pachten]], [[leasen]], [[anmieten]]

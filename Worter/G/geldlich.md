@@ -2,7 +2,7 @@
 💰 [[geldlich]], [ˈɡɛltlɪç]
 
 ---
-[[4 Autofrei#^9|^]] Dann gibt es den Punkt "Ohne Autos braucht die Stadt keine Parkplätze": Es ist natürlich sehr unpraktisch, die [[geldlich]] [[wertvollen]] [[Quadratmeter]] der Innenstädte als Parkplätze zu nutzen. ^9
+*[[4 Autofrei#^9|^]]* Dann gibt es den Punkt "Ohne Autos braucht die Stadt keine Parkplätze": Es ist natürlich sehr unpraktisch, die [[geldlich]] [[wertvollen]] [[Quadratmeter]] der Innenstädte als Parkplätze zu nutzen. ^9
 
 ---
 = [[finanziell]], [[monetär]], [[wirtschaftlich]]

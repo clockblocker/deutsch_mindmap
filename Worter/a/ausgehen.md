@@ -5,7 +5,7 @@ sein [[ausgegangen]]
 ---
 Wir [[ausgehen|gehen]] davon aus, dass du kommst.
 
-[[Golfstorm#^5|^]] Einige Studien [[ausgehen|gehen]] sogar von einem Kollaps bis zur [[Jahrhundertmitte]] aus. ^5
+*[[Golfstorm#^5|^]]* Einige Studien [[ausgehen|gehen]] sogar von einem Kollaps bis zur [[Jahrhundertmitte]] aus. ^5
 
  
  Er [[ausgehen|geht]] mit mir aus! He, Nic, Schätzchen! Du siehst spitze aus!  

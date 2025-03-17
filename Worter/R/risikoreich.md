@@ -1,7 +1,7 @@
 ⚠️ [[risikoreich]], [ˈʁiːzikoˌʁaɪ̯ç]
 
 ---
-[[4 Autofrei#^21|^]] [[Tatsächlich]] findet man eine so drastische [[Veränderung]] wie das [[Autoverbot]] als [[risikoreich]]. ^10 ^21
+*[[4 Autofrei#^21|^]]* [[Tatsächlich]] findet man eine so drastische [[Veränderung]] wie das [[Autoverbot]] als [[risikoreich]]. ^10 ^21
 
 ---
 = [[gefährlich]], [[riskant]], [[waghalsig]]

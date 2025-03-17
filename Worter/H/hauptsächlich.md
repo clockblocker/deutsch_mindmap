@@ -6,7 +6,7 @@ nicht [[zweitrangig]]
 	- [ ] der Staat
 	- [x] die Eltern
 
-[[Große Koalition#^2|^]] Der [[Begriff]] wird [[hauptsächlich]] in Deutschland und Österreich benutzt. ^2
+*[[Große Koalition#^2|^]]* Der [[Begriff]] wird [[hauptsächlich]] in Deutschland und Österreich benutzt. ^2
 
 
 ---

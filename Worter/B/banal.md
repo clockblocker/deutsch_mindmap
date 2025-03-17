@@ -1,7 +1,7 @@
 🥱 [[banal]], [baˈnaːl]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^31|^]] Sie konnten nicht einmal [[banalen]] Dingen [[standhalten]]. ^31
+*[[3  Ein Selbstversuch als Hobbybäuerin#^31|^]]* Sie konnten nicht einmal [[banalen]] Dingen [[standhalten]]. ^31
 
 ---
 = [[alltäglich]], [[gewöhnlich]], [[platt]]

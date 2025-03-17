@@ -3,7 +3,7 @@
 ---
 „Ich habe alles [[reingeschrieben]], was sie wissen soll!“, sagt Elena [[beleidigt]]. Mit „sie“ ist ihre Chefin gemeint, die schwer [[zufriedenzustellen]] ist. 
 
-[[3 Soll man Geld spenden?#^12|^]] Wenn die [[Bedingungen]] des "Angebots" den Spender [[zufriedenstellen]], wird die [[Wohltätigkeit]] für beide Seiten [[vorteilhaft]]. ^12
+*[[3 Soll man Geld spenden?#^12|^]]* Wenn die [[Bedingungen]] des "Angebots" den Spender [[zufriedenstellen]], wird die [[Wohltätigkeit]] für beide Seiten [[vorteilhaft]]. ^12
 
 
 ---

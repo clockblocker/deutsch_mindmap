@@ -4,7 +4,7 @@ nicht [[unterbrochen]]
 ---
 Kinder wollen alles wissen. Doch die kleine Anna ist etwas zu [[neugierig]]. Sie stellt [[ununterbrochen]] Fragen. 
 
-[[Atom#^5|^]] Die Region hat den [[längsten]] [[ununterbrochenen]] [[Waldabschnitt]] der [[Küste]] – 24 Kilometer lang. ^5
+*[[Atom#^5|^]]* Die Region hat den [[längsten]] [[ununterbrochenen]] [[Waldabschnitt]] der [[Küste]] – 24 Kilometer lang. ^5
 
 ---
 Synonyme: [[durchgehend]], [[ohne Pause]], [[kontinuierlich]], [[unaufhörlich]], [[unablässig]]

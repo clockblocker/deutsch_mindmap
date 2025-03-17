@@ -4,7 +4,7 @@ die [[Notwendigkeiten]]
 ---
 dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
 
-[[4 Autofrei#^3|^]] *Fast jede Stadt hat die Möglichkeit, sich autofrei zu machen, weil es keine [[Notwendigkeit]] von der Bundesregierung gibt, zu [[intervenieren]].* ^3
+*[[4 Autofrei#^3|^]]* *Fast jede Stadt hat die Möglichkeit, sich autofrei zu machen, weil es keine [[Notwendigkeit]] von der Bundesregierung gibt, zu [[intervenieren]].* ^3
 
 
 ---

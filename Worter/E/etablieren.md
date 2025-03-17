@@ -1,7 +1,7 @@
 🏢 [[etablieren]], [etaˈbliːʁən](https://youglish.com/pronounce/etablieren/german) | [[etablierte]], haben [[etabliert]]
 
 ---
-[[Große Koalition#^3|^]] Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der Begriff **Kleine Koalition** (auch **kleine Koalition**). 
+*[[Große Koalition#^3|^]]* Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der Begriff **Kleine Koalition** (auch **kleine Koalition**). 
 
 ---
 = [[gründen]], [[einrichten]], [[etablieren]], [[einführen]]

@@ -2,7 +2,7 @@
 ⚙️ [[verarbeiten]], [fɛɐ̯ˈʔaʁbaɪ̯tn̩] | [[verarbeitete]], haben [[verarbeitet]]
 
 ---
-[[2#^18|^]] Es gibt viele Architekten, die diese Idee in ihren [[Entwürfen]] [[verarbeiten]]. ^18
+*[[2#^18|^]]* Es gibt viele Architekten, die diese Idee in ihren [[Entwürfen]] [[verarbeiten]]. ^18
 
 ---
 = [[bearbeiten]], [[verarbeiten]], [[aufbereiten]]

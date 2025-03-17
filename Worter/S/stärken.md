@@ -1,7 +1,7 @@
 💪 [[stärken]], [ˈʃtɛʁkn̩](https://youglish.com/pronounce/stärken/german) | [[stärkte]], haben [[gestärkt]]
 
 ---
-[[Text mit Reflexivpronomen#^15|^]] Im Restaurant haben wir (20) mit einem leckeren Essen [[gestärkt]]. ^15
+*[[Text mit Reflexivpronomen#^15|^]]* Im Restaurant haben wir (20) mit einem leckeren Essen [[gestärkt]]. ^15
 
 ---
 = [[kräftigen]], [[festigen]], [[beleben]]

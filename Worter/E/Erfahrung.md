@@ -4,7 +4,7 @@ die [[Erfahrungen]]
 ---
 [[16 Plusquamperfekt#^24|(q)]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
 
-[[1 lesen StadtTours#^7|^]] Ob Historiker*innen, Geograf*innen, Journalist*innen, Schauspieler*innen oder Schriftsteller*innen: All diese Expertinnen und Experten bringen nicht nur Fachkompetenz, [[sondern]] [[darüber]] [[hinaus]] auch [[Erfahrung]] im [[Umgang]] mit Gruppen mit. ^7
+*[[1 lesen StadtTours#^7|^]]* Ob Historiker*innen, Geograf*innen, Journalist*innen, Schauspieler*innen oder Schriftsteller*innen: All diese Expertinnen und Experten bringen nicht nur Fachkompetenz, [[sondern]] [[darüber]] [[hinaus]] auch [[Erfahrung]] im [[Umgang]] mit Gruppen mit. ^7
 
 [[Lektionen/Bekker/verben/1#^4|(q)]] Für mich klingt es sehr [[vernünftig]], so ein [[Ausleihsystem]] auch bei uns in Grünberg anzubieten. ^4
 

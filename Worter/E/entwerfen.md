@@ -1,7 +1,7 @@
 🎨 [[entwerfen]], [ɛntˈvɛɐ̯fn̩] | [[entwarf]], haben [[entworfen]]
 
 ---
-[[4 Autofrei#^11|^]] Die Innenstädte wurden mit Auto-Priorität im Sinn [[entworfen]] seit den letzten 60-80 Jahren. 
+*[[4 Autofrei#^11|^]]* Die Innenstädte wurden mit Auto-Priorität im Sinn [[entworfen]] seit den letzten 60-80 Jahren. 
 
 
 84. Welche [[Hauptaufgabe]] hat der deutsche [[Bundespräsident]] / die deutsche Bundespräsidentin? Er / Sie … (77%)

@@ -1,7 +1,7 @@
 🪓 [[roden]], [ˈʁoːdn̩](https://youglish.com/pronounce/roden/german) | [[rodete]], haben [[gerodet]]
 
 ---
- [[Atom#^1|^]] Der Bauplatz ist [[gerodet]], die Arbeiten haben begonnen. ^1
+ *[[Atom#^1|^]]* Der Bauplatz ist [[gerodet]], die Arbeiten haben begonnen. ^1
 
 
 ---

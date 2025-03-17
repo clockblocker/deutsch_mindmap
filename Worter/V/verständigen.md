@@ -1,7 +1,7 @@
 🗣️ [[verständigen]], [fɛɐ̯ˈʃtɛndɪɡən](https://youglish.com/pronounce/verständigen/german) | [[verständigte]], haben [[verständigt]]
 
 ---
-[[Text mit Reflexivpronomen#^28|^]] Wir können (34) dann telefonisch [[verständigen]]. ^28
+*[[Text mit Reflexivpronomen#^28|^]]* Wir können (34) dann telefonisch [[verständigen]]. ^28
 
 ---
 = [[informieren]], [[benachrichtigen]], [[unterrichten]]

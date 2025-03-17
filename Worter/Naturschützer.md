@@ -2,7 +2,7 @@
 die [[Naturschützer]]
 
 ---
-[[Atom#^2|^]] Doch nicht alle sehen das so. *Diese nuklearen Ambitionen halte ich für totalen Unsinn*, [[schimpft]] ein [[Naturschützer]] von *Baltitskije SOS*. ^2
+*[[Atom#^2|^]]* Doch nicht alle sehen das so. *Diese nuklearen Ambitionen halte ich für totalen Unsinn*, [[schimpft]] ein [[Naturschützer]] von *Baltitskije SOS*. ^2
 
 ---
 = [[Umweltschützer]], [[Ökologe]], [[Naturliebhaber]]

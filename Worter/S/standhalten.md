@@ -1,7 +1,7 @@
 💪 [[standhalten]], [ˈʃtantˌhaltn̩] | [[hielt stand]], haben [[standgehalten]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^31|^]] Sie konnten nicht einmal [[banalen]] Dingen [[standhalten]]. ^31
+*[[3  Ein Selbstversuch als Hobbybäuerin#^31|^]]* Sie konnten nicht einmal [[banalen]] Dingen [[standhalten]]. ^31
 
 ---
 = [[widerstehen]], [[aushalten]], [[ertragen]], [[durchhalten]], [[mithalten]],  [[überleben]],

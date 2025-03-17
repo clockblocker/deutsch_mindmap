@@ -896,7 +896,7 @@ Wir [[anschauen|schauen]] uns mal [[anschauen|an]], wie das [[funktionieren|funk
 <agent_input>[[There]] is a possibility ==of the== disaster.<agent_input>
 </example>
 </examples>
-`;var T=require("obsidian"),w="\u2014";function Q(e,n,t){return e=e.replace(/[\s\n]+$/,""),`${`[[${n}#^${t}|^]]`} ${e} ^${t}
+`;var T=require("obsidian"),w="\u2014";function Q(e,n,t){return e=e.replace(/[\s\n]+$/,""),`${`*[[${n}#^${t}|^]]*`} ${e} ^${t}
 `}async function H(e,n,t){try{let i=(0,T.normalizePath)(n),r=e.getAbstractFileByPath(i);if((!r||!(r instanceof T.TFile))&&(await e.create(i,""),r=e.getAbstractFileByPath(i),!r||!(r instanceof T.TFile))){console.error(`Failed to create file "${i}".`);return}await e.process(r,a=>a+t)}catch(i){throw console.error(`Failed to append to file ${n}: ${i}`),i}}async function L(e,n,t){try{let i=(0,T.normalizePath)(n),r=e.getAbstractFileByPath(i);return!r||!(r instanceof T.TFile)?null:(await e.read(r)).includes(t)}catch(i){return console.error(`Failed to check file content ${n}: ${i}`),null}}var Pn="###### [[verfeinden]] *[[sich]]* `mit` jM\n- `Mit` wem [[hast]] du *[[sich|dich]]* [[verfeindet]]?\n- `Mit` meinem ehemaligen Freund.\n\n- Warum [[hat]] sie *[[sich|sich]]* `mit` ihm [[verfeindet]]?\n",Kn=`###### rennen
 - Wohin rennst du?
 - Zum Bus.

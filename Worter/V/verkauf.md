@@ -3,7 +3,7 @@
 die [[Verkäufe]]
 
 ---
-[[Text mit Reflexivpronomen#^12|^]] [[Beruflich]] [[beschäftigt]] er (17) mit dem [[Verkauf]] von Küchenmaschinen. ^12
+*[[Text mit Reflexivpronomen#^12|^]]* [[Beruflich]] [[beschäftigt]] er (17) mit dem [[Verkauf]] von Küchenmaschinen. ^12
 
 ---
 = [[Absatz]], [[Veräußerung]], [[Handel]]

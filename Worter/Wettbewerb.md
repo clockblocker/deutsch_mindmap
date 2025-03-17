@@ -2,7 +2,7 @@
 die [[Wettbewerbe]]
 
 ---
-[[1 lesen StadtTours#^12|^]]  Die Angebote der [[einzelnen]] Reise-Teams [[erfüllen]] städtetouristische [[Ansprüche]] mit Niveau: Stadtspaziergänge mit App zum [[selbstständigen]] [[Erkunden]], Stadtspiele als [[Wettbewerbe]] für größere Gruppen, [[lebendige]] [[Lesungen]] zur Stadtgeschichte, Rundfahrten mit E-Bikes und E-Rollern oder mit dem „normalen“ Fahrrad – im [[vielfältigen]] Angebot ist alles, was Spaß verspricht. ^12
+*[[1 lesen StadtTours#^12|^]]*  Die Angebote der [[einzelnen]] Reise-Teams [[erfüllen]] städtetouristische [[Ansprüche]] mit Niveau: Stadtspaziergänge mit App zum [[selbstständigen]] [[Erkunden]], Stadtspiele als [[Wettbewerbe]] für größere Gruppen, [[lebendige]] [[Lesungen]] zur Stadtgeschichte, Rundfahrten mit E-Bikes und E-Rollern oder mit dem „normalen“ Fahrrad – im [[vielfältigen]] Angebot ist alles, was Spaß verspricht. ^12
 
 
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)

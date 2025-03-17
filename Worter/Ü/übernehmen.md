@@ -5,7 +5,7 @@ haben [[übernommen]]
 ---
 Weniger nutzen wir Präfixe, die nicht einheimisch, sondern aus anderen Sprachen [[übernommen]] sind: Vor allem aus klassischen Sprachen haben wir Präfixe [[entlehnt]] wie  [[re]] in _reaktivieren, rekonstruieren_ oder [[de]] mit den Varianten _des-_ und _dis-_ in [[demaskieren]], [[desillusionieren]], disqualifizieren_. 
 
-[[2#^6|^]] Jetzt hat eine [[Schulklasse]] eine [[Patenschaft]] für diese Bäume [[übernommen]]. ^6
+*[[2#^6|^]]* Jetzt hat eine [[Schulklasse]] eine [[Patenschaft]] für diese Bäume [[übernommen]]. ^6
 
 - [[übernehmen]], übergeben  
 

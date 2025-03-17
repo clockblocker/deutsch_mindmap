@@ -7,7 +7,7 @@ haben [[angesehen]]
 ---
 Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 
-[[3. Schuldenpaket. Vergeigen es die Grünen?#^1|^]] Ich kann es mir [[kaum]] mit [[ansehen]]. ^1
+*[[3. Schuldenpaket. Vergeigen es die Grünen?#^1|^]]* Ich kann es mir [[kaum]] mit [[ansehen]]. ^1
 
 *da sah sie plötzlich vor sich stehn*  
 *ein Feuerzeug, nett anzusehn.*  

@@ -6,7 +6,7 @@ sein [[gekrochen]]
 *Ein blindes Kind, das vorwärts [[kriecht]]*  
 *Weil es seine Mutter riecht*  
 
-[[3  Ein Selbstversuch als Hobbybäuerin#^20|^]] Ich war [[höchstens]] eine [[Heldin]] der Arbeit, als ich auf dem Acker [[herumkroch]]. ^20
+*[[3  Ein Selbstversuch als Hobbybäuerin#^20|^]]* Ich war [[höchstens]] eine [[Heldin]] der Arbeit, als ich auf dem Acker [[herumkroch]]. ^20
 
 ---
 Synonyme: [[schleichen]], [[robben]], [[winden]], [[rutschen]], [[schlängeln]]

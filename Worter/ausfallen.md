@@ -1,7 +1,7 @@
 ❌ [[ausfallen]], [ˈaʊ̯sˌfalən](https://youglish.com/pronounce/ausfallen/german) | [[fiel aus]], ist [[ausgefallen]]
 
 ---
-[[Golfstorm#^4|^]] Die sogenannte Atlantische meridionale [[Umwälzzirkulation]] (AMOC) sorgt in Nordeuropa für ein [[gemäßigtes]] Klima, könnte [[künftig]] aber schwächer [[ausfallen]]. ^4
+*[[Golfstorm#^4|^]]* Die sogenannte Atlantische meridionale [[Umwälzzirkulation]] (AMOC) sorgt in Nordeuropa für ein [[gemäßigtes]] Klima, könnte [[künftig]] aber schwächer [[ausfallen]]. ^4
 
 ---
 = [[entfallen]], [[absagen]], [[scheitern]]

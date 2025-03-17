@@ -1,7 +1,7 @@
 📦 [[lagern]], [ˈlaːɡɐn](https://youglish.com/pronounce/lagern/german) | [[lagerte]], haben [[gelagert]]
 
 ---
-> [[Atom#^29|^]] *Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.* ^29
+> *[[Atom#^29|^]]* *Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.* ^29
 
 ---
 = [[aufbewahren]], [[speichern]], [[deponieren]]

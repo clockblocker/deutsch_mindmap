@@ -2,7 +2,7 @@
 die [[Muskelkater]]
 
 ---
-[[3  Ein Selbstversuch als Hobbybäuerin#^25|^]] Mein Leben habe ich dabei nicht riskiert, höchstens ab und zu meine körperliche Unversehrtheit, wenn die [[Mücken]] mal wieder [[zubissen]] oder der [[Muskelkater]] schmerzte. ^25
+*[[3  Ein Selbstversuch als Hobbybäuerin#^25|^]]* Mein Leben habe ich dabei nicht riskiert, höchstens ab und zu meine körperliche Unversehrtheit, wenn die [[Mücken]] mal wieder [[zubissen]] oder der [[Muskelkater]] schmerzte. ^25
 
 ---
 = [[Muskelschmerz]], [[Verspannung]]

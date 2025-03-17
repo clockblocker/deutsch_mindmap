@@ -3,13 +3,13 @@
 ---
 _Alle [[melden]] sich und gehen weg. Sokka schlägt sich ins Gesicht_
 
-[[Text mit Reflexivpronomen#^9|^]] Vor einigen Tagen hat er (11) bei mir telefonisch [[gemeldet]] und wir haben (12) zum Essen [[verabredet]]. ^9
+*[[Text mit Reflexivpronomen#^9|^]]* Vor einigen Tagen hat er (11) bei mir telefonisch [[gemeldet]] und wir haben (12) zum Essen [[verabredet]]. ^9
 
-[[Einen Korb bekommen#^10|^]] Doch in den letzten Wochen hat sie sich [[kaum]] [[gemeldet]]. ^10
+*[[Einen Korb bekommen#^10|^]]* Doch in den letzten Wochen hat sie sich [[kaum]] [[gemeldet]]. ^10
 
  [[Einwohnermeldeamt]]
 
-[[2#^7|^]] Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
+*[[2#^7|^]]* Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
 
  [[Fehlermeldung]],
  
