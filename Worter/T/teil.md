@@ -1,1 +1,1 @@
-[[teilen]], [[Metallteile]], [[beteiligen]], [[Vorteil]], [[Hälfte]], [[aufteilen]], [[stück]], [[Urteile]], [[benachteiligt]]
+[[teilen]], [[Metallteile]], [[beteiligen]], [[Vorteil]], [[Hälfte]], [[aufteilen]], [[stück]], [[Urteile]], [[benachteiligt]], [[teilweise]]

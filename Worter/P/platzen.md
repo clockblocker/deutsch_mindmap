@@ -33,4 +33,4 @@ Morpheme: [[platz]][[en]]
 
 Partizip I: [[platzend]], Partizip II: [[geplatzt]]
 
-[[platzen]] - [[platz]] = [[zen]], [[krachen]]
+[[platzen]] - [[platz]] = [[zen]], [[krachen]], [[ausfallen]]

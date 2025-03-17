@@ -1,1 +1,1 @@
-, [[Schauspieler]]
+, [[Schauspieler]], [[Akteur]]

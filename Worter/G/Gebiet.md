@@ -4,6 +4,9 @@ die [[Gebiete]]
 ---
 mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
 
+[[Golfstorm#^11|^]] Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
+
+
 [[außerhalb]] dieses [[Gebiets]], außerhalb unserer [[Öffnungszeiten]]  
 
 "Nach meiner langen [[Erfahrung]] [[auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 

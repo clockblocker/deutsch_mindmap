@@ -1,2 +1,2 @@
 , [[mögen]], [[gratulieren]]
-, [[empfehlen]]
+, [[empfehlen]], [[befürworten]]

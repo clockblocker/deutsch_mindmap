@@ -1,1 +1,2 @@
 , [[mindest]], [[Tageshöchstwert]]⬆️ [[hoch]]
+, [[höchstwahrscheinlich]]

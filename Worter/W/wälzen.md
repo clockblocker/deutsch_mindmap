@@ -28,4 +28,4 @@ PI: [[wälzend]], PII: [[gewälzt]], Zu+inf: [[zu wälzen]]
 [[wälzen]] - reflexiv: [[sich wälzen]] / to roll, to turn over, to revolve
 
 ---
-[[Wälzung]], [[Wälzbewegung]], [[wälzbar]], [[Walze]], [[rollen]]
+[[Wälzung]], [[Wälzbewegung]], [[wälzbar]], [[Walze]], [[rollen]], [[Umwälzzirkulation]]

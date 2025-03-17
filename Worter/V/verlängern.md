@@ -1,3 +1,3 @@
 , [[verkürzen]], [[kürzen]], [[kündigen]]
 , [[entlang]]
-, [[lang]]
+, [[lang]], [[langfristig]]

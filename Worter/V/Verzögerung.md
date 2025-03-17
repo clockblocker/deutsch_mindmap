@@ -1,1 +1,1 @@
-, [[hinhalten]], [[Verspätung]], [[stau]]
+, [[hinhalten]], [[Verspätung]], [[stau]], [[verzögern]]

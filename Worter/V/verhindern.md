@@ -1,3 +1,3 @@
 , [[übertragen]], [[übermachen]], [[ausführen]], [[erlauben]], [[abhalten]], [[fördern]], [[lassen]], [[vollziehen]], [[behindern]], [[ermöglichen]], [[ergehen]], [[helfen]], [[stattfinden]]
 , [[vermeiden]]
-, [[verschaffen]], [[einlassen]], [[verursachen]], [[ausrichten]], [[verstopfen]], [[gewährleisten]], [[erzeugen]]
+, [[verschaffen]], [[einlassen]], [[verursachen]], [[ausrichten]], [[verstopfen]], [[gewährleisten]], [[erzeugen]], [[auswirken]]

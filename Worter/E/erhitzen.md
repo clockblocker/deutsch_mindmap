@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er daran denken würde, [[erhitzte]] er die Pfanne vor dem Braten.
 - Wenn wir Hunger hätten, [[erhitzten]] wir das Essen schnell.
 - Wenn ihr den Herd benutztet, [[erhitztet]] ihr das Wasser.
-- Wenn sie es eilig hätten, [[erhitzten]] sie das Essen in der Mikrowelle., [[Herd]]
+- Wenn sie es eilig hätten, [[erhitzten]] sie das Essen in der Mikrowelle., [[Herd]], [[abkühlen]]

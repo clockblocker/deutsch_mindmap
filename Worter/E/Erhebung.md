@@ -1,1 +1,1 @@
-, [[erheben]], [[Befragung]], [[Umfrage]], [[Hügel]], [[Studie]]
+, [[erheben]], [[Befragung]], [[Umfrage]], [[Hügel]], [[Studie]], [[Aufstieg]]

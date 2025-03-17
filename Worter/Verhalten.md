@@ -92,4 +92,4 @@ G: der [[Aufführung]], der [[Aufführungen]]
 D: der [[Aufführung]], den [[Aufführungen]]  
 
 ---
-[[aufführen]], [[Aufführungsrecht]], [[Aufführungsdatum]], [[1 Präpositionen Übungen]]
+[[aufführen]], [[Aufführungsrecht]], [[Aufführungsdatum]], [[1 Präpositionen Übungen]], [[Haltung]]

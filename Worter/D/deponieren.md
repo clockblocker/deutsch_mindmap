@@ -1,1 +1,1 @@
-[[hinlegen]], [[einlegen]]
+[[hinlegen]], [[einlegen]], [[lagern]]

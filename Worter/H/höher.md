@@ -1,1 +1,1 @@
-[[hoch]] , [[Weniger]], [[nächsthöher]], [[höherstellen]], [[erhöhen]]
+[[hoch]] , [[Weniger]], [[nächsthöher]], [[höherstellen]], [[erhöhen]], [[höchstwahrscheinlich]]

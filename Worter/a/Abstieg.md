@@ -1,1 +1,1 @@
-, [[Karriere]], [[Niedergang]]
+, [[Karriere]], [[Niedergang]], [[Aufstieg]]

@@ -1,1 +1,1 @@
-, [[zunehmen]]
+, [[zunehmen]], [[absinken]]

@@ -1,2 +1,2 @@
 [[fürchten]]
-, [[befürchten]]
+, [[befürchten]], [[Befürchtung]]

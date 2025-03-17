@@ -25,7 +25,7 @@ N: [[dicht]], [[dichter]], [[dichtester]]
 A: [[dichten]], [[dichteren]], [[dichtesten]]  
 G: [[dichter]], [[dichteren]], [[dichtester]]  
 D: [[dichtem]], [[dichterem]], [[dichtestem]]  
-F: [[dichte]], [[dihtere]], [[dichteste]]  
+F: [[Dichte]], [[dihtere]], [[dichteste]]  
 N: [[dichtes]], [[dichteres]], [[dichtestes]]  
 P: [[dichten]], [[dichteren]], [[dichtesten]]  
 

@@ -1,1 +1,1 @@
-[[wehtun]], [[erleichtern]]
+[[wehtun]], [[erleichtern]], [[abschwächen]]

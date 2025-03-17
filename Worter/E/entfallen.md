@@ -1,1 +1,1 @@
-, [[einfallen]]
+, [[einfallen]], [[ausfallen]]

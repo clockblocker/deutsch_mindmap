@@ -1,1 +1,1 @@
-, [[Vernichtung]], [[Gebäude]], [[Baustelle]]
+, [[Vernichtung]], [[Gebäude]], [[Baustelle]], [[Bauart]]

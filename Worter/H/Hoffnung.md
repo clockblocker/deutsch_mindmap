@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Hoffnung]], [[Hoffnungen]]
 
 ---
-#Substantiv #Feminin, [[s1 e1]], [[Aussicht]], [[hoffentlich]]
+#Substantiv #Feminin, [[s1 e1]], [[Aussicht]], [[hoffentlich]], [[Befürchtung]]

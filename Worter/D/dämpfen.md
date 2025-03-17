@@ -1,1 +1,1 @@
-, [[brutzeln]], [[beruhigen]], [[bändigen]]
+, [[brutzeln]], [[beruhigen]], [[bändigen]], [[abschwächen]]

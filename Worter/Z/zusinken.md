@@ -1,70 +1,47 @@
-🌊 [[zusinken]]
-[[sank zu]]
-sein [[zugesunken]]
+⬇️ [[zusinken]], [ˈt͡suːˌzɪŋkn̩](https://youglish.com/pronounce/zusinken/german) | [[sank zu]], ist [[zusammen gesunken]]
 
 ---
-
-Synonyme:
-- [[untergehen]], [[absinken]], [[versinken]]
+, [[schweben]],
 
 ---
-
-Beispiele:
-
-- Das Boot begann langsam [[zuzusinken]].
-- Er [[sank zu]] Boden vor Erschöpfung.
-- Der Stein ist auf den Grund des Sees [[zugesunken]].
+= [[versinken]], [[einsinken]], [[untergehen]]
+≈ [[sinken]], [[absinken]], [[verfallen]]
+≠ [[auftauchen]], [[aufsteigen]], [[emporsteigen]]
 
 ---
-**Übersetzung**: to sink down, to subside
+to sink down, to collapse
+затонуть, погрузиться
 
 ---
-
-Morphems of only infinitive:
-[[zu]][[sinken]]
+[[sinken]], [[Sinken]], [[versinken]]
 
 ---
-Tags:
-#Verb  #Trennbar
+[[zu]]|[[sink]]|[[en]]
+[[zu]] + [[sinken]]
+
 
 ---
+###### [[zusinken]]
+- Was [[sinkt]] gerade [[zu]]?
+- Das Schiff.
 
-Präteritum:
+- Wohin [[sinkt]] das Boot [[zu]]?
+- Zum Grund des Sees.
 
-- Ich [[sank zu]] Boden.
-- Du [[sankst zu]] in den Stuhl.
-- Er [[sank zu]] vor Müdigkeit.
-- Wir [[sanken zu]] auf unsere Knie.
-- Ihr [[sankt zu]] in den Sessel.
-- Sie [[sanken zu]] vor Erschöpfung.
-
----
-
-Imperativ:
-
-- [[Sink]] nicht [[zu]] tief!
-- [[Sinkt]] langsam [[zu]]!
-- [[Sinken wir]] zusammen [[zu]]!
-- [[Sinken Sie]] vorsichtig [[zu]]!
+- Wie schnell [[ist]] das Schiff [[gesunken]]?
+- Sehr schnell.
 
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[sink zu]] / [[zusinke]], [[sank zu]], [[sinke zu]], [[sänke zu]], -
+du, [[sinkst zu]], [[sankst zu]], [[sinkst zu]], [[sänkest zu]], [[sink zu]] / [[zusinke]]
+er, [[sinkt zu]], [[sank zu]], [[sinke zu]], [[sänke zu]], -
+wir, [[sinken zu]], [[sanken zu]], [[sinken zu]], [[sänken zu]], [[sinken zu]]
+ihr, [[sinkt zu]], [[sankt zu]], [[sinkt zu]], [[sänket zu]], [[sinkt zu]]
+sie, [[sinken zu]], [[sanken zu]], [[sinken zu]], [[sänken zu]], [[sinken zu]]
 
-Konjunktiv I:
-
-- Er sagt, ich [[sinke zu]] nach langer Arbeit.
-- Sie meint, du [[sinkest zu]] immer, wenn du müde bist.
-- Er behauptet, er [[sinke zu]], wenn er erschöpft ist.
-- Wir erklären, wir [[sinken zu]], wenn die Last zu groß wird.
-- Ihr sagt, ihr [[sinke zu]], wenn ihr euch nicht bewegt.
-- Sie sagen, sie [[sinken zu]], wenn der Tag endet.
+*Zu + Inf*: [[zuzusinken]], *P2*: [[zugesunken]]
+Adjektive: [[zusinkend]], [[zusinkender]], [[zusinkendst]]
 
 ---
-
-Konjunktiv II:
-
-- Wenn ich keine Kraft mehr hätte, [[sänke zu]] ich auf den Boden.
-- Wenn du dich entspannst, [[sänkest zu]] du tiefer.
-- Wenn er es nicht mehr aushält, [[sänke zu]] er zusammen.
-- Wenn wir uns aufgeben würden, [[sänken zu]] wir vor Erschöpfung.
-- Wenn ihr müder wäret, [[sänket zu]] ihr in den Stuhl.
-- Wenn sie erschöpft wären, [[sänken zu]] sie in den Schlaf.
+[[zusinkender]], [[zusinkendes]], [[zusinkende]], [[zusinkenden]], [[zusinkendem]], [[zusinkenderer]], [[zusinkenderes]], [[zusinkendere]], [[zusinkenderen]], [[zusinkenderem]], [[zusinkendster]], [[zusinkendstes]], [[zusinkendste]], [[zusinkendsten]], [[zusinkendstem]]

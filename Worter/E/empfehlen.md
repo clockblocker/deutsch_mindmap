@@ -28,3 +28,4 @@ PI: [[empfehlend]], PII: [[empfohlen]], Zu+inf: [[zu empfehlen]]
 
 ---
 [[Empfehlung]], [[Fehl]], [[empfehlenswert]]
+, [[befürworten]]

@@ -1,1 +1,1 @@
-, [[Beteiligung]]
+, [[Beteiligung]], [[Akteur]]

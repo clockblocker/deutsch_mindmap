@@ -65,3 +65,17 @@ Die Bürgerinitiative *Baltitskije SOS* [war sofort zur Stelle, als] die Atompl�
 *[[Alle uns zur Verfügung stehenden Analysen deuten darauf hin, dass]] die Kernenergie heute im polnischen Energiemix unverzichtbar ist, um die Energiesicherheit zu gewährleisten.* ^8
 
 Trotzdem [[bleibt das Thema politisch umstritten]]. 
+
+
+[[Haltung hat sich geändert]]
+
+[[Atom#^32|^]] Die Aktivisten von *Baltitskije SOS* [[fürchten, dass die Herausforderungen unterschätzt]] werden ^32
+
+Diese [[Befürchtungen äußerten Wissenschaftler]] in den vergangenen Jahren immer wieder. 
+
+[[Golfstorm#^6|^]] Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte [[als bisher angenommen]]. ^6
+
+[[Golfstorm#^9|^]] Die AMOC [[funktioniert wie eine Art]] [[riesiges]] globales [[Förderband]]: ^9
+
+
+[[Golfstorm#^11|^]] und [[tragen entscheidend dazu bei]], dass...^11

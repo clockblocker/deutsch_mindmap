@@ -10,7 +10,7 @@ Wir wollen die Welt [[verändern]].
 
 - Heute werden Sie eine [[Veränderung]] im Beruf haben, für mehr Geld
 
-91. In Deutschland kann ein Regierungswechsel in einem Bundesland [[Auswirkungen]] auf die Bundespolitik haben. Das Regieren wird … (64%)
+91. In Deutschland kann ein Regierungswechsel in einem Bundesland [[Auswirkung]] auf die Bundespolitik haben. Das Regieren wird … (64%)
 	- [x] schwieriger, wenn [[dadurch]] die Mehrheit im Bundesrat [[verändert]] wird.
 
 ---
@@ -37,4 +37,4 @@ Morpheme: [[ver]][[änder]][[n]]
 
 Partizip I: [[verändernd]], Partizip II: [[verändert]]
 
-[[verändern]] - [[ver]] = [[ändern]], [[bleiben]], [[verwandeln]], [[verarbeiten]], [[umkehren]], [[anpassen]]
+[[verändern]] - [[ver]] = [[ändern]], [[bleiben]], [[verwandeln]], [[verarbeiten]], [[umkehren]], [[anpassen]], [[auswirken]]

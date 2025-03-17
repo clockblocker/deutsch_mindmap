@@ -1,1 +1,1 @@
-, [[Weiterbildung]], [[Fortschritt]]
+, [[Weiterbildung]], [[Fortschritt]], [[Aufstieg]]

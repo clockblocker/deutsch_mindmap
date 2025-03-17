@@ -4,6 +4,9 @@ nicht [[gleich]], nicht [[einheitlich]]
 ---
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
+[[Golfstorm#^11|^]] Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
+
+
 Мы говорим о разных вещах. Wir sprechen über [[verschiedene]] Sachen.
 
 Es gab dort viele [[verschiedene]] Buddhas: so kleine, dass man sie in die [[Tasche]] stecken konnte und so große wie drei Männer.

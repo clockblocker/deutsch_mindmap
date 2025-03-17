@@ -1,2 +1,2 @@
 [[mittel]], [[bitterlich]], [[lichterloh]], [[regelmäßig]]
-, [[übermäßig]]
+, [[übermäßig]], [[gemäßigt]]

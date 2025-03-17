@@ -1,3 +1,3 @@
 die [[Person]]
 die [[Leute]], [[Leut]]
-, [[Mensch]]
+, [[Mensch]], [[Akteur]]

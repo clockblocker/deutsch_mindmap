@@ -3,8 +3,9 @@
 ---
 Ich [[annehmen|nehme]] an, dass die guten Studenten die Prüfung bestehen.
 
-Da musste Laura nicht lange [[überlegen]]. „Ich möchte dein Angebot [[annehmen]]“, antwortete sie, „denn wenn ich warte, bis ich wieder genug Geld habe, muss auch ich ins Altersheim. Und wie sagt man so schön? Besser den [[Spatz]] in der Hand als die [[Taube]] auf dem [[Dach]].“
+[[Golfstorm#^6|^]] Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
 
+Da musste Laura nicht lange [[überlegen]]. „Ich möchte dein Angebot [[annehmen]]“, antwortete sie, „denn wenn ich warte, bis ich wieder genug Geld habe, muss auch ich ins Altersheim. Und wie sagt man so schön? Besser den [[Spatz]] in der Hand als die [[Taube]] auf dem [[Dach]].“
 
 5. [[Wahlen]] in Deutschland sind frei. Was bedeutet das? (96%)
 	- [ ] Man darf Geld [[annehmen]], wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin [[wählt]].

@@ -48,3 +48,4 @@ Adjektive: [[verringernd]], [[verringernder]], [[verringerndst]]
 
 
 
+, [[absinken]]

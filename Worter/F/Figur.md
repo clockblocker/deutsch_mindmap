@@ -1,2 +1,2 @@
 , [[Gestalt]]
-, [[Char]]
+, [[Char]], [[Akteur]]

@@ -1,3 +1,3 @@
 , [[verbessern]], [[Fortschritt]], [[Zustand]]
 , [[fehlentwicklung]]
-, [[unverbesserlich]]
+, [[unverbesserlich]], [[Aufstieg]]

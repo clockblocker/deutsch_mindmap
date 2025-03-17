@@ -1,11 +1,7 @@
-🔄 [[ändern]] + Akk, [ˈɛːndɐn]
-[[änderte|änderte]]
-haben [[geändert]]
-
-[[ändern]] 1p+1s, [[wechseln]] 1p+2s, [[tauschen]] 2p+2s
+🔄 [[ändern]], [ˈɛndɐn](https://youglish.com/pronounce/ändern/german) | [[änderte]], haben [[geändert]]
 
 ---
-- Ach Maria! [[Sieh an|Sieh]] dich an! Du [[änderst]] dich nie! 
+- Ach Maria! [[Sieh an|Sieh]] dich [[ansehen|an]]! Du [[änderst]] dich nie! 
 - Heute werden Sie eine [[Veränderung]] im Beruf haben, für mehr Geld
 
 Doch dann erklärte uns die Feuernation den Krieg und alles [[änderte]] sich. 
@@ -16,29 +12,57 @@ Doch dann erklärte uns die Feuernation den Krieg und alles [[änderte]] sich.
 	- [x] [[Erwachsene]] müssen auch nach der [[Ausbildung]] immer weiter lernen.
 	- [ ] Alle müssen [[früher]] [[aufhören]] zu arbeiten, weil sich alles [[ändert]].
 
----
-Synonyme: [[verändern]], [[umändern]], [[modifizieren]], [[wandeln]], [[umwandeln]], 
-Antonyme: [[Worter/B/beibehalten]], [[lassen]], [[konservieren]], [[erhalten]], [[fixieren]]
-[[umschalten]]
+[[Atom#^25|^]] Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]: ^25
 
 ---
-Übersetzung: to change, to alter
+= [[verändern]], [[modifizieren]], [[umwandeln]]
+≈ [[anpassen]], [[korrigieren]], [[verbessern]], [[wandeln]]
+≠ [[beibehalten]], [[konservieren]], [[festhalten]]
 
 ---
-Morpheme: [[änder]][[n]]
- #Verb  #Trennbar
+to change, to alter
+менять, изменять
 
 ---
+[[Änderung]], [[verändern]], [[unverändert]], [[abändern]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[ändere]] | [[änderte]] | - | [[ändere]] | [[änderte]] |
-| Du | [[änderst]] | [[ändertest]] | [[ändere]] | [[änderest]] | [[ändertest]] |
-| Er/sie/es | [[ändert]] | [[änderte]] | - | [[ändere]] | [[änderte]] |
-| Wir | [[ändern]] | [[änderten]] | - | [[ändern]] | [[änderten]] |
-| Ihr | [[ändert]] | [[ändert]] | [[ändert]] | [[änderet]] | [[ändertet]] |
-| Sie | [[ändern]] | [[änderten]] | [[ändern Sie]] | [[ändern]] | [[änderten]] |
+---
+[[änder]]
 
-Partizip I: [[ändernd]], Partizip II: [[geändert]]
 
-, [[werden]], [[wechseln]], [[umentscheiden]], [[beibehalten]], [[verwandeln]]
+---
+###### [[ändern]] jN
+- Was [[änderst]] du?
+- Meine Meinung.
+
+- Warum [[ändern]] wir das?
+- Weil es notwendig ist.
+
+- Wie lange [[hast]] du das [[geändert]]?
+- Seit gestern.
+
+---
+###### [[ändern]] *[[sich]]*
+- Was [[ändert]] *[[sich]]*?
+- Das Wetter.
+
+- Warum [[ändert]] *[[sich]]* alles?
+- Weil die Zeit vergeht.
+
+- Wie schnell [[hat]] *[[sich]]* das [[geändert]]?
+- Sehr schnell.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[änder]] / [[ändere]], [[änderte]], [[ändere]], [[änderte]], -
+du, [[änderst]], [[ändertes]], [[änderst]], [[ändertes]], [[änder]] / [[ändere]]
+er, [[ändert]], [[änderte]], [[ändere]], [[änderte]], -
+wir, [[ändern]], [[änderten]], [[ändern]], [[änderten]], [[ändern]]
+ihr, [[ändert]], [[ändertet]], [[ändert]], [[ändertet]], [[ändert]]
+sie, [[ändern]], [[änderten]], [[ändern]], [[änderten]], [[ändern]]
+
+*Zu + Inf*: zu [[ändern]], *P2*: [[geändert]]
+Adjektive: [[ändernd]], [[ändernder]], [[änderndst]]
+
+---
+[[ändernder]], [[änderndes]], [[ändernde]], [[ändernden]], [[änderndem]], [[ändernderer]], [[ändernderes]], [[änderndere]], [[ändernderen]], [[ändernderem]], [[änderndster]], [[änderndstes]], [[änderndste]], [[änderndsten]], [[änderndstem]]

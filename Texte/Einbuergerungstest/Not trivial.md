@@ -1,4 +1,4 @@
-91. In Deutschland kann ein Regierungswechsel in einem Bundesland [[Auswirkungen]] auf die Bundespolitik haben. Das Regieren wird … (64%)
+91. In Deutschland kann ein Regierungswechsel in einem Bundesland [[Auswirkung]] auf die Bundespolitik haben. Das Regieren wird … (64%)
 	- [ ] schwieriger, wenn sich [[dadurch]] die Mehrheit im Bundestag [[ändert]].
 	- [ ] leichter, wenn dadurch neue Parteien in den Bundesrat kommen.
 	- [x] schwieriger, wenn [[dadurch]] die Mehrheit im Bundesrat [[verändert]] wird.

@@ -26,3 +26,4 @@ P: [[hitzigen]], [[hitzigeren]], [[hitzigsten]]
 
 ---
 [[Hitze]], [[heizen]], [[hitzefrei]], [[hitzköpfig]]
+, [[Hitzewelle]]

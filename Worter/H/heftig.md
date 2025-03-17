@@ -1,2 +1,2 @@
 , [[bitterlich]], [[scharf]]
-, [[ungestüm]], [[unbändig]]
+, [[ungestüm]], [[unbändig]], [[gemäßigt]]

@@ -1,1 +1,1 @@
-, [[leichtsinnig]], [[beruhig]], [[überstürzen]], [[vernünftig]], [[wahnsinnig]]
+, [[leichtsinnig]], [[beruhig]], [[überstürzen]], [[vernünftig]], [[wahnsinnig]], [[gemäßigt]]

@@ -1,1 +1,1 @@
-, [[Mitternachtssonne]]
+, [[Mitternachtssonne]], [[nördlich]]

@@ -3,6 +3,9 @@
 ---
 Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
+> [[Atom#^29|^]] *Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.* ^29
+
+
 [[1.1 text#^8|(q)]] Sophia und ihre Geschäftspartnerin konnten eine Bank von ihrem Finanzplan [[überzeugen]]. ^8
 
 - Wir müssen versuchen, die anderen [[von]] diesem Plan zu [[überzeugen]]

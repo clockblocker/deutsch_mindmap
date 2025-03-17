@@ -1,1 +1,1 @@
-[[Wetterbericht]], [[Wetter]]
+[[Wetterbericht]], [[Wetter]], [[Hitzewelle]], [[Extremwetter]]

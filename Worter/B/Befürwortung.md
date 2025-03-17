@@ -1,1 +1,1 @@
-, [[dafür]]
+, [[dafür]], [[befürworten]]

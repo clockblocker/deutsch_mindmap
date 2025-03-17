@@ -1,1 +1,1 @@
-, [[Rechercheergbenis]], [[Auswirkungen]]
+, [[Rechercheergbenis]], [[Auswirkung]]

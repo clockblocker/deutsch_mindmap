@@ -1,3 +1,3 @@
 , [[Kreislauf]], [[Zirkel]], [[Bundesland]]
 , [[Achse]]
-, [[Ring]]
+, [[Ring]], [[Polarkreis]]

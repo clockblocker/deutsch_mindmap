@@ -25,3 +25,4 @@ D: dem [[Unwetter]], den [[Unwettern]]
 
 ---
 [[Wetter]], [[unwetterartig]], [[Unwetterwarnung]], [[Unwetterfront]]
+, [[Extremwetter]]

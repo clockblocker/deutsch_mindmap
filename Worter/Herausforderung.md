@@ -6,6 +6,8 @@ die [[Herausforderungen]]
 
 [[3  Ein Selbstversuch als Hobbybäuerin#^6|^]] Nicht, weil ich [[unbedingt]] mit einer [[Großtat]] in die [[Geschichtsbuch]] eingehen wollte, sondern vor einer weiteren [[Herausforderung]] stehe. ^6
 
+[[Atom#^32|^]] Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderungen]] [[unterschätzt]] werden ^32
+
 
 [[1 Präpositionen Übungen.md#^8|(q)]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, ___ den [[Herausforderungen]] zu lernen. ^8
 

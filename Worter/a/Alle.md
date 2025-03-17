@@ -24,3 +24,4 @@ D: [[allen]]
 
 ---
 [[allemal]], [[allerlei]], [[allerdings]], [[allgegenwärtig]], [[alljährlich]]
+, [[teilweise]]

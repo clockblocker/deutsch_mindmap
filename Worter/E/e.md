@@ -3,4 +3,4 @@
 , [[Miete]]
 , [[rechter]]
 , [[Durchhaltevermögen]]
-, [[Alle]], [[messe]], [[Strecke]], [[Reise]], [[Umfrage]], [[Sondierungsgespräche]], [[Geschichte]], [[bedürftig]], [[Rente]], [[Schweinehund]], [[Gebirge]], [[Baumpate]], [[Pate]], [[Baustelle]], [[heutzutage]], [[Hauptursache]], [[insbesondere]], [[Deutsche]], [[Pflege]], [[Anlage]], [[mithilfe]], [[Wegbereiter]], [[Kohlekraftwerk]], [[damalige]]
+, [[Alle]], [[messe]], [[Strecke]], [[Reise]], [[Umfrage]], [[Sondierungsgespräche]], [[Geschichte]], [[bedürftig]], [[Rente]], [[Schweinehund]], [[Gebirge]], [[Baumpate]], [[Pate]], [[Baustelle]], [[heutzutage]], [[Hauptursache]], [[insbesondere]], [[Deutsche]], [[Pflege]], [[Anlage]], [[mithilfe]], [[Wegbereiter]], [[Kohlekraftwerk]], [[damalige]], [[teilweise]], [[Dichte]]

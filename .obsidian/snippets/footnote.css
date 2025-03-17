@@ -4,6 +4,13 @@
     font-style: italic;
     font-size: 8px !important;
     top: -0.2em !important;
+    display: inline !important;
+    white-space: nowrap;
+}
+
+.cm-line:has(.cm-blockid) {
+    display: inline-block;
+    width: auto;
 }
 
 .cm-highlight {
@@ -17,4 +24,12 @@
 
 .cm-line:has(.cm-blockid) + .cm-line {
     line-height: 8px;
+}
+
+.cm-hmd-internal-link.cm-link-alias.cm-highlight {
+    opacity: 0.3;
+}
+
+.cm-hmd-internal-link.cm-link-alias.cm-list-1 {
+    opacity: 1 !important;
 }

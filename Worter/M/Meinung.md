@@ -55,4 +55,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Meinung]], [[Meinungen]], [[Meinungs]]
 
 ---
-#Substantiv #Neutral, [[zögern]], [[Meinungsfreiheit]], [[Behauptung]], [[Meinungsäußerung]], [[Studie]], [[Äußerung]]
+#Substantiv #Neutral, [[zögern]], [[Meinungsfreiheit]], [[Behauptung]], [[Meinungsäußerung]], [[Studie]], [[Äußerung]], [[Haltung]]

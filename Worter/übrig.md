@@ -3,8 +3,7 @@
 ---
 du hast recht, das verb **“gesucht”** ist schon das partizip ii, also bleibt noch ein [[hilfsverb]] [[übrig]]. aber dein fehler war nicht das partizip, sondern dass du “haben” nicht konjugiert hast.
 
-[[suchen]]
-
+> *[[Atom#^26|^]] Was bleibt uns denn sonst [[übrig]]? Kohle ist nicht erlaubt, Gas ist nicht erlaubt.
 
 ---
 = [[verbleibend]], [[restlich]], [[übrigbleibend]]

@@ -3,6 +3,9 @@
 ---
 Katja ist Journalistin. Sie schreibt für eine regionale Zeitung in ihrer [[Heimatstadt]] Bonn. Ihre Artikel werden online [[veröffentlicht]] und auch auf Facebook gepostet. [[Den Nagel auf den Kopf treffen.md#^1|(Quelle: Den Nagel auf den Kopf treffen)]] 
 
+[[Golfstorm#^6|^]] Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
+
+
 ---
 = [[publizieren]], [[herausgeben]], [[verbreiten]]
 ≈ [[drucken]], [[veröffnen]], [[herausbringen]], [[verlagseitig veröffentlichen]]

@@ -1,1 +1,1 @@
-, [[Edelsteine]]
+, [[Edelsteine]], [[Abfall]]

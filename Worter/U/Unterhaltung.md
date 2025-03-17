@@ -15,7 +15,7 @@ die [[Unterhaltungen]]
 conversation, entertainment, amusement
 
 ---
-[[Unter]]|[[haltung]]
+[[Unter]]|[[Haltung]]
 
 ---
 N: die [[Unterhaltung]], die [[Unterhaltungen]]  

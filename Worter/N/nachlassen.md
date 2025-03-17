@@ -1,1 +1,1 @@
-, [[schwinden]], [[bemüht]], [[Nachlässigkeit]]
+, [[schwinden]], [[bemüht]], [[Nachlässigkeit]], [[absinken]]

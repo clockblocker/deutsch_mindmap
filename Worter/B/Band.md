@@ -24,3 +24,4 @@ D: der [[Band]], den [[Bands]]
 
 ---
 [[Bandsmitglied]], [[Bandleader]], [[Bandname]], [[Bandprobe]], [[Bandtour]]
+, [[Förderband]]

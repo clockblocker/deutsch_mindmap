@@ -1,1 +1,1 @@
-, [[schäumen]]
+, [[schäumen]], [[abkühlen]]

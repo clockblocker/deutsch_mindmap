@@ -1,3 +1,3 @@
 , [[faul]], [[tätig]], [[lebhaft]], [[lustlos]]
 , [[Freizeitaktivität]]
-, [[motorische]], [[lebendig]]
+, [[motorische]], [[lebendig]], [[Akteur]]

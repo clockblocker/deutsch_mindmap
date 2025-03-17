@@ -1,1 +1,1 @@
-, [[nachhaltig]]
+, [[nachhaltig]], [[langfristig]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Zuschauers]], [[Zuschauer]], [[Zuschauern]]
 
 ---
-#Substantiv #Maskulin, [[vertrauen]], [[Vereinstrainer]], [[zugucken]], [[Sender]]
+#Substantiv #Maskulin, [[vertrauen]], [[Vereinstrainer]], [[zugucken]], [[Sender]], [[Akteur]]

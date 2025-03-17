@@ -1,1 +1,1 @@
-, [[zerbrechen]]
+, [[zerbrechen]], [[widerstandsfähig]]

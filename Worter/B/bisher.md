@@ -1,4 +1,4 @@
- [[bisher]], [ˈbiːzər]
+[[bisher]], [ˈbiːzər]
 
 ---
 [[Bisher]] gab es noch keinen Regen, aber bestimmt [[bald]].
@@ -6,6 +6,9 @@
 Der [[Läufer]] bricht den Rekord. (Er schlägt den [[bisher]] Schnellsten.)
 
 Das [[bisher]] höchste Ergebnis erzielte ein Gemälde von Claude Monet mit einem Preis von 36,5 Millionen Pfund
+
+[[Golfstorm#^6|^]] Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
+
 
 Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. [[außerdem]] habe ich mich [[bisher]] viel zu wenig mit [[Naturschutz]] [[beschäftigt]]. Ich werde bestimmt viel Neues lernen. Man muss nicht [[unbedingt]] um die halbe Welt reisen, um über den Tellerrand zu schauen, Brüderchen!“
 

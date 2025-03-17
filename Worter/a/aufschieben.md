@@ -1,1 +1,1 @@
-, [[einhängen]], [[erledigen]], [[einschlagen]], [[hinhalten]], [[abarbeiten]]
+, [[einhängen]], [[erledigen]], [[einschlagen]], [[hinhalten]], [[abarbeiten]], [[verzögern]]

@@ -29,4 +29,4 @@ PI: [[stattfindend]], PII: [[stattgefunden]], Zu+inf: [[stattfinden]]
 [[stattfinden]] - [[statt]] = [[finden]] / to take place, to happen, to occur
 
 ---
-[[Stattfinden]], [[stattfindend]], [[stattgefunden]], [[stattgegeben]], [[Stadtfindung]]
+[[Stattfinden]], [[stattfindend]], [[stattgefunden]], [[stattgegeben]], [[Stadtfindung]], [[ausfallen]]

@@ -36,4 +36,4 @@ Morpheme: [[teil]][[en]]
 
 Partizip I: [[teilend]], Partizip II: [[geteilt]]
 
-[[teilen]] - [[teil]] = [[en]], [[beteiligen]], [[Eiserner Vorhang]], [[gliedern]], [[durchtrennen]], [[spalten]]
+[[teilen]] - [[teil]] = [[en]], [[beteiligen]], [[Eiserner Vorhang]], [[gliedern]], [[durchtrennen]], [[spalten]], [[teilweise]]

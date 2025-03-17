@@ -29,4 +29,4 @@ Einzigartige mögliche Formen:
 [[heißesten]], [[heißester]], [[heißeste]], [[heißestes]], [[heißesten]], [[heißestem]], [[heißester]], [[heißesten]]
 
 [[heißen]], [[Kühl]], [[Heißwäsche]], [[warmen]]
-, [[Hot]]
+, [[Hot]], [[Hitzewelle]]

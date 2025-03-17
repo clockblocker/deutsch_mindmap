@@ -2,7 +2,7 @@
 die [[Wirkungen]]
 
 ---
-, [[Auswirkungen]], [[Anlass]]
+, [[Auswirkung]], [[Anlass]]
 , [[Grund]]
 
 ---
@@ -26,3 +26,4 @@ N: die [[Wirkung]], die [[Wirkungen]]
 A: die [[Wirkung]], die [[Wirkungen]]  
 G: der [[Wirkung]], der [[Wirkungen]]  
 D: der [[Wirkung]], den [[Wirkungen]]
+, [[auswirken]]

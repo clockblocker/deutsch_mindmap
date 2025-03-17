@@ -4,6 +4,9 @@ sein [[ausgegangen]]
 
 ---
 Wir [[ausgehen|gehen]] davon aus, dass du kommst.
+
+[[Golfstorm#^5|^]] Einige Studien [[ausgehen|gehen]] sogar von einem Kollaps bis zur [[Jahrhundertmitte]] aus. ^5
+
  
  Er [[ausgehen|geht]] mit mir aus! He, Nic, Schätzchen! Du siehst spitze aus!  
 
@@ -18,7 +21,7 @@ Synonyme: [[verlassen]], [[hinausgehen]], [[herausgehen]], [[weggehen]], [[fortg
 Antonyme: [[heimgehen]], [[eintreten]], [[reinkommen]], [[bleiben]], [[hineingehen]]
 
 ---
-Übersetzung: to go out
+Übersetzung: assume, to go out
 
 ---
 Morpheme: [[aus]][[geh]][[en]]

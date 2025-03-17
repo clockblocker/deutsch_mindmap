@@ -1,4 +1,4 @@
 , [[Vorsicht]]
 , [[Flüchtigkeitsfehler]]
 , [[Sorgfaltsfehler]]
-, [[Sorgfalt]], [[Nachlässigkeit]]
+, [[Sorgfalt]], [[Nachlässigkeit]], [[Haltung]]

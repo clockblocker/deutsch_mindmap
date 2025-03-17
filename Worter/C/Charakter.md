@@ -1,2 +1,2 @@
 , [[Persönlichkeit]]
-, [[Char]], [[Tugend]], [[Integrität]]
+, [[Char]], [[Tugend]], [[Integrität]], [[Haltung]]

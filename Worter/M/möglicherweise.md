@@ -17,3 +17,4 @@ possibly, perhaps
 
 ---
 [[Möglichkeit]], [[möglich]], [[mögen]]
+, [[höchstwahrscheinlich]]

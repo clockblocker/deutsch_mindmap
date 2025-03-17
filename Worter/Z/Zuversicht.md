@@ -1,1 +1,1 @@
-, [[Hoffnung]], [[Vertrauensschwund]]
+, [[Hoffnung]], [[Vertrauensschwund]], [[Befürchtung]]

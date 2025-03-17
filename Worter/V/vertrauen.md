@@ -35,4 +35,4 @@ PI: [[vertrauend]], PII: [[vertraut]], Zu+inf: [[zu vertrauen]]
 
 ---
 [[Vertrauen]], [[vertrauenswürdig]], [[vertraulich]], [[Vertrauensperson]]
-, [[Vertrauensschwund]], [[fürchten]]
+, [[Vertrauensschwund]], [[fürchten]], [[Befürchtung]]

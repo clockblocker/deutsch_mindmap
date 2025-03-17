@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Winds]], [[Winde]], [[Winden]]
 
 ---
 #Substantiv #Maskulin, [[Gegenwind]]
-, [[Unwetter]]
+, [[Unwetter]], [[windgetrieben]]

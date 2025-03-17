@@ -27,4 +27,4 @@ PI: [[behindernd]], PII: [[behindert]], Zu+inf: [[zu behindern]]
 [[behindern]] - [[be]] = [[hindern]] / to hinder, to impede, to obstruct
 
 ---
-[[Behinderung]], [[Hindernis]], [[behindernd]], [[Behinderter]], [[Behinderung]], [[helfen]], [[verstopfen]]
+[[Behinderung]], [[Hindernis]], [[behindernd]], [[Behinderter]], [[Behinderung]], [[helfen]], [[verstopfen]], [[verzögern]]

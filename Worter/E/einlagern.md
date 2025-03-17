@@ -1,1 +1,1 @@
-, [[rausholen]]
+, [[rausholen]], [[lagern]]

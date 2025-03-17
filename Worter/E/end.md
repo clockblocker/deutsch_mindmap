@@ -1,2 +1,2 @@
 , [[schmerzend]], [[leuchtender]], [[beruhigenden]], [[leuchtenden]], [[anwesend]], [[steigende]], [[Studierender]], [[explodierenden]], [[wachsend]], [[alleinerziehend]], [[regierend]], [[wütend]], [[Abendgymnasium]], [[ausweichend]], [[folgend]], [[vollziehenden]], [[rechtsprechend]], [[planenden]], [[gesetzgebend]], [[ausreichende]], [[spannend]], [[wagend]], [[fließend]], [[hervorragend]], [[passend]], [[fehlend]]
-, [[mitfühlend]], [[anstrengend]]
+, [[mitfühlend]], [[anstrengend]], [[entscheidend]]

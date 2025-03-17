@@ -1,2 +1,2 @@
 [[normal]][[mittel]], [[bitterlich]], [[ziemlich]]
-, [[übermäßig]], [[wahnsinnig]]
+, [[übermäßig]], [[wahnsinnig]], [[Extremwetter]], [[gemäßigt]]

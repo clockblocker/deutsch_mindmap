@@ -1,1 +1,1 @@
-, [[verschicken]], [[behalten]], [[enthalten]], [[vergessen]]
+, [[verschicken]], [[behalten]], [[enthalten]], [[vergessen]], [[lagern]]

@@ -1,1 +1,1 @@
-, [[Stelle]]
+, [[Stelle]], [[teilweise]]

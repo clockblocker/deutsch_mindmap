@@ -1,1 +1,1 @@
-, [[entscheiden]], [[Bescheid]], [[verscheiden]], [[abscheiden]], [[Steuerbescheid]], [[Scheidung]]
+, [[entscheiden]], [[Bescheid]], [[verscheiden]], [[abscheiden]], [[Steuerbescheid]], [[Scheidung]], [[entscheidend]]

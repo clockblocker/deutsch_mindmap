@@ -1,1 +1,1 @@
-, [[Turm]], [[Gebäude]], [[Schulgebäude]]
+, [[Turm]], [[Gebäude]], [[Schulgebäude]], [[Bauart]]

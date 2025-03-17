@@ -26,4 +26,4 @@ D: der [[Rechnung]], den [[Rechnungen]]
 ---
 [[Rechnungsamt]], [[Rechnungswesen]], [[Rechnungshof]], [[Abrechnung]], [[einrechnen]], [[Geschenkbestätigung]]
 , [[Spende]]
-, [[ausrechnen]]
+, [[ausrechnen]], [[Modellrechnung]]

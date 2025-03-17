@@ -1,1 +1,1 @@
-, [[fest]], [[andauern]], [[nachhaltig]]
+, [[fest]], [[andauern]], [[nachhaltig]], [[langfristig]]

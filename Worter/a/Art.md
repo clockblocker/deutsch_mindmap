@@ -31,4 +31,4 @@ Einzigartige mögliche Formen: [[Art]], [[Arten]], [[Artart]], [[Artenreichtum]]
 
 
 ---
-[[Lebensart]], [[Redensart]], [[Kundstart]], 
+[[Lebensart]], [[Redensart]], [[Kundstart]], , [[Bauart]]

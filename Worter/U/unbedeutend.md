@@ -1,1 +1,1 @@
-, [[hervorragend]], [[gering]], [[aussagekräftig]]
+, [[hervorragend]], [[gering]], [[aussagekräftig]], [[entscheidend]]

@@ -35,4 +35,4 @@ Einzigartige mögliche Formen: [[Ergebnisses]], [[Ergebnis]], [[Ergebnisse]], [[
 
 , [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]], [[Zwischenergebnis]], [[Worter/ergeben]], [[Anki]], [[Anlass]], [[1 Präpositionen Übungen]], [[Voraussetzung]], [[ergeben]], [[Ergebnisorientierung]]
 
-, [[Bilanz]]
+, [[Bilanz]], [[Auswirkung]]

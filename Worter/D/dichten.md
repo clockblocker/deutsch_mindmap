@@ -1,1 +1,1 @@
-, [[Gedicht]], [[dicht]]
+, [[Gedicht]], [[dicht]], [[Dichte]]

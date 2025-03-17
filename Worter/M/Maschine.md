@@ -1,2 +1,2 @@
 , [[Rechner]], [[Gerät]], [[Bohrmaschinen]]
-, [[Motor]]
+, [[Motor]], [[Förderband]]

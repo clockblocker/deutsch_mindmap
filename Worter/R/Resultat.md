@@ -1,1 +1,1 @@
-, [[Ergebnis]], [[Abschluss]], [[Ernte]], [[Bilanz]], [[resultieren]]
+, [[Ergebnis]], [[Abschluss]], [[Ernte]], [[Bilanz]], [[resultieren]], [[Auswirkung]]

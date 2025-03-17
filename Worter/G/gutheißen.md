@@ -1,1 +1,1 @@
-[[verdammen]], [[tadeln]], [[mögen]], [[missfallen]], [[beschweren]], [[reklamieren]]
+[[verdammen]], [[tadeln]], [[mögen]], [[missfallen]], [[beschweren]], [[reklamieren]], [[befürworten]]

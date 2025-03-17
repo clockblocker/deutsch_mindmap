@@ -6,6 +6,9 @@ In welche [[Richtung]] müssen wir farren?
 
 (Sieht nach oben und [[zeigt]] in die [[Richtung]] aus der das Licht kam) 
 
+[[Golfstorm#^9|^]] Die AMOC funktioniert wie eine Art [[riesiges]] globales [[Förderband]]: Sie transportiert warmes, sehr salziges Wasser aus den [[Tropen]] [[Richtung]] [[nördlicher]] [[Polarkreis]], wo das Wasser [[abkühlt]] und [[wegen]] seiner größeren [[Dichte]] [[absinkt]]. ^9
+
+
 43. Wann kann in Deutschland eine Partei verboten werden? (88%)
 	- [ ] wenn ihr Wahlkampf zu teuer ist
 	- [x] wenn sie gegen die [[Verfassung]] kämpft

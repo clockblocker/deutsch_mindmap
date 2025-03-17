@@ -32,3 +32,4 @@ PI: [[erhöhend]], PII: [[erhöht]], Zu+inf: [[zuerhöhen]]
 [[Erhöhung]], [[erhöht]], [[Höhe]], [[höher]], [[erhaben]]
 
 [[beschränken]], [[nächsthöher]], [[herabziehen]], [[höherstellen]], [[Tageshöchstwert]]
+, [[abschwächen]]

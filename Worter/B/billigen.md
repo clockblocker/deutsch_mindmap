@@ -1,1 +1,1 @@
-, [[billig]], [[gönnen]]
+, [[billig]], [[gönnen]], [[befürworten]]

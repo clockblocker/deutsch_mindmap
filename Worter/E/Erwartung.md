@@ -27,4 +27,4 @@ Dative: der [[Erwartung]], den [[Erwartungen]]
 
 
 , [[Hoffnung]], [[entgegenfiebern]]
-, [[Anspruch]], [[Neugier]]
+, [[Anspruch]], [[Neugier]], [[Befürchtung]]

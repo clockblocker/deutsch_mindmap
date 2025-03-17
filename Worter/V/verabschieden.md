@@ -4,6 +4,8 @@
 [[1 Wer bin ich und was mache ich hier?#^8|(q)]] Vor einem Jahr [[verabschiedete]] die deutsche Regierung ein Gesetz über die Einbürgerung nach drei Jahren mit der Möglichkeit der doppelten Staatsbürgerschaft. ^8
 
 
+[[Atom#^22|^]] Andere europäische Länder haben sich längst [[verabschiedet]]: Deutschland, Spanien. ^22
+
 ---
 = [[verlassen]], [[gehen]], [[sich trennen]], [[Abschied]], [[Verabschiedung]], [[wegschicken]]
 ≈ [[auf Wiedersehen sagen]], [[Tschüss sagen]], [[Abschied nehmen]], [[wiedersehen]],

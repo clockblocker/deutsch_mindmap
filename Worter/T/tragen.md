@@ -13,6 +13,7 @@ und [[trug]] die Peitsche in dem Mund
 [[übertragen]] - [[über]] = [[tragen]] // to transfer, to transmit, to broadcast
 [[ertragen]] - [[er]] = [[tragen]] //  to endure,
 [[vertragen]] - [[ver]] = [[tragen]] / to tolerate, to endure, to get along
+[[bei]] + [[tragen]] = [[beitragen]] / вносить вклад, способствовать
 
 ---
 = [[anhaben]], [[bekleiden]], [[führen]]

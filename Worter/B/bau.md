@@ -1,1 +1,1 @@
-, [[aufbauen]], [[bauen]], [[einbauen]], [[umbauen]], [[Verwaltungsaufbau]], [[Gebäude]], [[Bauingenieur]], [[Schulgebäude]], [[Hobbybäuerin]], [[Baustelle]], [[Gemüseanbau]]
+, [[aufbauen]], [[bauen]], [[einbauen]], [[umbauen]], [[Verwaltungsaufbau]], [[Gebäude]], [[Bauingenieur]], [[Schulgebäude]], [[Hobbybäuerin]], [[Baustelle]], [[Gemüseanbau]], [[Bauart]]

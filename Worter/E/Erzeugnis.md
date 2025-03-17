@@ -1,1 +1,1 @@
-, [[Frucht]], [[erzeugen]]
+, [[Frucht]], [[erzeugen]], [[Abfall]]

@@ -1,1 +1,1 @@
-, [[erheben]], [[erhöhen]]
+, [[erheben]], [[erhöhen]], [[Aufstieg]]

@@ -40,4 +40,4 @@ Morpheme: [[schein]][[en]]
 
 Partizip I: [[scheinend]], Partizip II: [[geschienen]]
 
-[[scheinen]] - [[schein]] = [[en]], [[erscheinen]], [[scheinbar]], [[unscheinbar]]
+[[scheinen]] - [[schein]] = [[en]], [[erscheinen]], [[scheinbar]], [[unscheinbar]], [[höchstwahrscheinlich]]
