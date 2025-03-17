@@ -3,7 +3,9 @@
   "enabledCssSnippets": [
     "default-img-size",
     "custom-links",
-    "footnote"
+    "footnote",
+    "custom-highlighting",
+    "custom-block-ids"
   ],
   "translucency": false,
   "cssTheme": "Things",

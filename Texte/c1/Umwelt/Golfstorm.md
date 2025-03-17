@@ -64,3 +64,4 @@ The ocean currents transport heat to [[different]] [[areas]] of the earth and co
 *[[Golfstorm#^23|^]]* Allerdings hält auch der IPCC einen Zusammenbruch bis 2100 für eher unwahrscheinlich. ^23
 
 *[[Golfstorm#^24|^]]* Allerdings könnte sich das ändern, sollte das Eisschild Grönlands schneller schmelzen als erwartet und damit viel größere Mengen Süßwasser in den Atlantik gelangen. ^24
+
