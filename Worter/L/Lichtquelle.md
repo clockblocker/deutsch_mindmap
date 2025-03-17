@@ -1,1 +1,1 @@
-, [[Lichtstrahl]]
+, [[Lichtstrahl]], [[Küchenfenster]]

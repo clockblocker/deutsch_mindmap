@@ -1,1 +1,1 @@
-, [[gewähren]]
+, [[gewähren]], [[gewährleisten]]

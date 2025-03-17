@@ -24,7 +24,7 @@ Sam, ich hab' super Nachrichten für dich – Kanal 9 [[sucht]] ein R
 
 
 ---
-Synonyme: [[finden]], [[erforschen]], [[erkunden]], [[durchkämmen]], [[durchstöbern]]
+Synonyme: [[finden]], [[erforschen]], [[Erkunden]], [[durchkämmen]], [[durchstöbern]]
 Antonyme: [[verlieren]], [[aufgeben]], [[vermeiden]], [[ignorieren]]
 
 ---

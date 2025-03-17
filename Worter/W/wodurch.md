@@ -17,4 +17,4 @@ by what, through what, by means of which
 
 ---
 [[womit]], [[wodurch]], [[wofür]], [[woran]], [[wobei]], [[worauf]]
-</ideal_output>
+</ideal_output>, [[Konnektivpartikeln]]

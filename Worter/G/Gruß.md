@@ -8,7 +8,7 @@ die [[Grüße]]
 
 ---
 Synonyme:
-- [[Begrüßung]], [[Salutierung]], [[Ansprache 1]], [[Willkommen]]
+- [[Begrüßung]], [[Salutierung]], [[Ansprache]], [[Willkommen]]
 
 ---
 Übersetzung: _Regards_, greeting, salutation

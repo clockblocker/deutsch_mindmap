@@ -5,6 +5,8 @@ haben [[gedreht]]
 ---
 _Sokka zieht seinen Ärmel wieder runter und [[dreht]] sich zu Katara. 
 
+[[Text mit Reflexivpronomen#^16|^]] Unser Gespräch [[drehte]] (21) natürlich auch um unsere gemeinsame Schulzeit. ^16
+
 Wie lange wird dieser Film [[gedreht]]
 
 Mit seiner Kamera machte Fred Fotos für seine Freunde zu Hause. Aber dann passierte etwas, womit er nicht [[gerechnet]] hatte: Fred war gerade damit [[beschäftigt]], eine Gruppe Giraffen zu fotografieren, als er hinter sich ein [[Geräusch]] hörte. Er [[drehte]] sich langsam um und stand einem riesigen Löwen gegenüber! 
@@ -45,4 +47,4 @@ Partizip I: [[drehend]], Partizip II: [[gedreht]]
 
 
 , [[aufdrehen]], [[umdrehen]]
-, [[wegdrehen]], [[winden]], [[wälzen]], [[verdrehen]], [[s1 e1]], [[teuer]]
+, [[wegdrehen]], [[winden]], [[wälzen]], [[verdrehen]], [[s1 e1]], [[teuer]], [[umkehren]]

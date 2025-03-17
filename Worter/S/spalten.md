@@ -1,1 +1,1 @@
-, [[brechen]], [[verfeinden]], [[vereinen]]
+, [[brechen]], [[verfeinden]], [[vereinen]], [[durchtrennen]]

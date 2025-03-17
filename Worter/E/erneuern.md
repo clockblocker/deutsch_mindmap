@@ -1,1 +1,1 @@
-, [[verderben]], [[bessern]], [[umbauen]], [[vergilben]], [[Worter/W/Wiederholung]], [[ersetzen]]
+, [[verderben]], [[bessern]], [[umbauen]], [[vergilben]], [[Worter/W/Wiederholung]], [[ersetzen]], [[erneuerbar]]

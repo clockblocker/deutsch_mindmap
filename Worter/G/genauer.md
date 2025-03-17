@@ -1,2 +1,2 @@
 [[genau]]
-, [[s1 e1]]
+, [[s1 e1]], [[Konnektivpartikeln]]

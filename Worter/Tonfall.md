@@ -23,4 +23,4 @@ G: des [[Tonfalls]], der [[Tonfälle]]
 D: dem [[Tonfall]], den [[Tonfällen]] 
 
 ---
-[[tönen]], [[tonal]], [[eintönig]], [[Tonlage]]
+[[tönen]], [[tonal]], [[eintönig]], [[Tonlage]], [[fürchten]]

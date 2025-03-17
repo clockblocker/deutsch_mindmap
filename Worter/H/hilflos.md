@@ -1,1 +1,1 @@
-, [[übermächtig]], [[ratlos]], [[Hilfsverb]]
+, [[übermächtig]], [[ratlos]], [[Hilfsverb]], [[hilfsbereit]]

@@ -1,1 +1,1 @@
-, [[anschauen]]
+, [[anschauen]], [[veranschaulichen]]

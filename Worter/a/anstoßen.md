@@ -30,3 +30,4 @@ PI: [[anstoßend]], PII: [[angestoßen]], Zu+inf: [[anzustoßen]]
 
 ---
 [[Anstoß]], [[Anstoßzeit]], [[Anstoßpunkt]], [[Anstoßgebet]], [[Anstoßfinanzierung]]
+, [[initiieren]]

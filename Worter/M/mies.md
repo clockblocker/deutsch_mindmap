@@ -1,1 +1,1 @@
-[[Schlecht]], [[toll]]
+[[Schlecht]], [[toll]], [[ausgezeichnet]]

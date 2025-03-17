@@ -1,2 +1,2 @@
 [[irgendwo]], [[weit und breit]], [[überall]], [[allenthalben]]
-, [[nirgendwo]]
+, [[nirgendwo]], [[Negationspartikel]]

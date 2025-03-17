@@ -1,1 +1,1 @@
-, [[zurzeit]], [[heutzutage]]
+, [[zurzeit]], [[heutzutage]], [[gegenwärtig]]

@@ -1,1 +1,2 @@
 der [[Verkäufer]]
+, [[Verkauf]]

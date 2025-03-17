@@ -1,4 +1,4 @@
-🤷 [[ohnehin]], [ˌoːnəˈhɪn], [[CONNECTOR]],
+🤷 [[ohnehin]], [ˌoːnəˈhɪn], [[Konnektoren]],
 
 ---
 [[2 Unter Druck nach oben#^10|(q)]] Die [[üblichen]] [[Voraussetzungen]] [[erfüllen]] die Bewerber beim Nivea-Konzern [[ohnehin]] meistens – eine gute Universität oder Business-School, Auslandspraktika, [[fließendes]] Englisch und noch ein paar [[zusätzliche]] Zertifikate. ^10

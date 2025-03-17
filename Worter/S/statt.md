@@ -25,4 +25,4 @@ A: [[statt]], [[statts]]
 G: [[statts]], [[statts]]  
 D: [[statt]], [[statts]] 
 
----, [[15 genetiv]], [[anstatt]], [[Gen Prap]]
+---, [[15 genetiv]], [[anstatt]], [[Gen Prap]], [[Konjunktoren]]

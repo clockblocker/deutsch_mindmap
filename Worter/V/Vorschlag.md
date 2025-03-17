@@ -1,6 +1,5 @@
-🔵 der [[Vorschlag]], [ˈfɔʁʃlaːk], [[vorschlagen]]
+💡 🔵 der [[Vorschlag]], [ˈfoːɐ̯ʃlaːk](https://youglish.com/pronounce/Vorschlag/german)
 die [[Vorschläge]]
-
 
 ---
 Mein [[Vorschlag]] ist Sälze beiden 
@@ -15,21 +14,30 @@ Aber dem wird sie die Suppe schon noch versalzen! Beim nächsten Termin mit ihre
 	- [ ] ein [[Vorschlag]] der Bundesregierung
 	- [ ] ein Vorschlag der UdSSR
 
+---
+= [[Angebot]], [[Idee]], [[Empfehlung]]
+≈ [[Anregung]], [[Hinweis]], [[Option]], [[Antrag]]
+≠ [[Ablehnung]], [[Einwand]], [[Widerstand]]
 
 ---
-Synonyme:
-- [[Empfehlung]], [[Idee]], [[Rat]], [[Anregung]], [[Anweisung]]
+suggestion, proposal
+предложение
 
 ---
-Übersetzung: proposal, suggestion
+[[vorschlagen]], [[Vorschlagsrecht]], [[Vorschlagsliste]]
 
 ---
-Morpheme:
-[[Vor]][[schlag]]
+[[Vor]]|[[schlag]]
+[[Vorschlag]]
+
 
 ---
-Einzigartige mögliche Formen: [[Vorschlags]], [[Vorschlag]], [[Vorschläge]], [[Vorschlägen]]
+N: der [[Vorschlag]], die [[Vorschläge]]  
+A: den [[Vorschlag]], die [[Vorschläge]]  
+G: des [[Vorschlages]], der [[Vorschläge]]  
+D: dem [[Vorschlag]], den [[Vorschlägen]]
 
----
-#Substantiv #Maskulin, [[Ratschlag]], [[Beschluss]]
-, [[entsprechend]]
+
+Ausserung
+==[[Äuwßerung]]==
+

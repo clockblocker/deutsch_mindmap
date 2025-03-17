@@ -18,4 +18,4 @@ nevertheless, however, still, yet
 
 ---
 
-, [[Jedoch]], [[obwohl]], [[trotzdem]], [[immerhin]], [[Führerscheinprüfung]], [[vorbereiten]], [[Conjunctions]], [[CONNECTOR]], [[desto]], [[obendrein]], [[dadurch]], [[jedenfalls]]
+, [[Jedoch]], [[obwohl]], [[trotzdem]], [[immerhin]], [[Führerscheinprüfung]], [[vorbereiten]], [[Konjunktoren]], [[Konnektoren]], [[desto]], [[obendrein]], [[dadurch]], [[jedenfalls]], [[Konnektivpartikeln]]

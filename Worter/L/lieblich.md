@@ -1,1 +1,1 @@
-[[schön]], [[liebgewinnen]]
+[[schön]], [[liebgewinnen]], [[sanft]]

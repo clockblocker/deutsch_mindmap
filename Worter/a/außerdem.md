@@ -27,4 +27,4 @@ in addition, also, moreover, furthermore
 
 ---
 Morpheme:
-[[aus]][[er]][[dem]], [[CONNECTOR]], [[obendrein]]
+[[aus]][[er]][[dem]], [[Konnektoren]], [[obendrein]], [[antreten]], [[Konnektivpartikeln]]

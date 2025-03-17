@@ -1,4 +1,4 @@
-, [[Damit]], [[da]], [[CONNECTOR]]
+, [[Damit]], [[da]], [[Konnektoren]]
 🔗 [[dadurch]], [daˈdʊʁç]
 
 ---
@@ -22,4 +22,4 @@ thereby, through that, as a result
 [[da]]|[[durch]]
 
 ---
-[[womit]], [[wodurch]], [[deshalb]], [[infolge]], [[daher]], [[anregen]]
+[[womit]], [[wodurch]], [[deshalb]], [[infolge]], [[daher]], [[anregen]], [[Konjunktoren]]

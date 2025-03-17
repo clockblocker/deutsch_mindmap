@@ -2,4 +2,4 @@
 , [[beherzt]]
 , [[bedrückt]]
 , [[verdreht]]
-, [[verträumt]], [[begeistert]], [[bemüht]], [[vernetzt]], [[bedürfnisorientiert]], [[gelaunt]], [[verstopfen]]
+, [[verträumt]], [[begeistert]], [[bemüht]], [[vernetzt]], [[bedürfnisorientiert]], [[gelaunt]], [[verstopfen]], [[erkundigen]], [[überholt]], [[durchtrennen]]

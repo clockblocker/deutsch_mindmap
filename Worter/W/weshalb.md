@@ -1,1 +1,1 @@
-, [[wieso]], [[Woraus]], [[wodurch]]
+, [[wieso]], [[Woraus]], [[wodurch]], [[Konnektivpartikeln]]

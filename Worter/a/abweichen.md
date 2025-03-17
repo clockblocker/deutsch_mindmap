@@ -1,2 +1,2 @@
 , [[zusteuern]], [[entsprechen]]
-, [[ablenken]]
+, [[ablenken]], [[anpassen]]

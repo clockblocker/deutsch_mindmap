@@ -26,4 +26,4 @@ P: [[hervorragenden]]
 
 ---
 [[Hervorragenheit]], [[Herausragendes]], [[Hervorhebung]], [[hervorragend]]
-, [[gut]]
+, [[gut]], [[ausgezeichnet]]

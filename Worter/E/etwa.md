@@ -1,3 +1,3 @@
 [[Doch nicht etwa]]
 
-perhaps, [[ungefähr]], [[bis zu]]
+perhaps, [[ungefähr]], [[bis zu]], [[Konnektivpartikeln]], [[Abtönungspartikeln]]

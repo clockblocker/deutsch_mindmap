@@ -3,6 +3,10 @@
 ---
 [[2 ADHD.md#^10|(q)]] Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu. ^10
 
+[[Text mit Reflexivpronomen#^18|^]] Er erinnerte (23) sehr gut daran, dass ich (24) damals sehr gern mit Latein [[beschäftigte]]. ^18
+
+[[Text mit Reflexivpronomen#^12|^]] [[Beruflich]] [[beschäftigt]] er (17) mit dem [[Verkauf]] von Küchenmaschinen. ^12
+
 [[2 Unter Druck nach oben#^1|(q)]] Der Mann, der Karriere machen will, sollte größer als 1,80 Meter sein, [[schlank]] und [[dunkelhaarig]], verheiratet, aber kinderlos, und sich in der Freizeit am liebsten mit sich selbst [[beschäftigen]]. ^1
 
 [[1 Wer bin ich und was mache ich hier?#^5|(q)]] In der Partei [[beschäftigte]] ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]] / (zammeln?) Menschen und Geld an und war öffentlich [[tätig]]. ^5x

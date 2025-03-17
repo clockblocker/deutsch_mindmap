@@ -15,3 +15,4 @@ Morpheme: [[neben]][[bei]]
 
 ---
 #Adverb
+, [[Konnektivpartikeln]]

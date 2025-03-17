@@ -1,3 +1,3 @@
 , [[Geschenk]], [[Spendengeldern]], [[Unterstützung]]
 , [[Spende]]
-, [[Aufmerksamkeit]], [[Mittelzuweisung]]
+, [[Aufmerksamkeit]], [[Mittelzuweisung]], [[Pflege]]

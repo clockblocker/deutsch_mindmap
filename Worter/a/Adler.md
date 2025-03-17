@@ -25,4 +25,4 @@ G: des [[Adlers]], der [[Adler]]
 D: dem [[Adler]], den [[Adlern]] 
 
 ---
-[[adlergleich]], [[adlerartig]], [[Adlerhorst]], [[Adlernase]], [[Adleraugen]], [[Schwalbe]]
+[[adlergleich]], [[adlerartig]], [[Adlerhorst]], [[Adlernase]], [[Adleraugen]], [[Schwalbe]], [[Täubchen]]

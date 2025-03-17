@@ -1,1 +1,1 @@
-, [[immerhin]], [[ohnehin]]
+, [[immerhin]], [[ohnehin]], [[Negationspartikel]]

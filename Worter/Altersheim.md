@@ -23,4 +23,4 @@ Genitive: des [[Altersheims]] oder [[Altersheimes]], der [[Altersheime]]
 Dative: dem [[Altersheim]], den [[Altersheimen]] 
 
 ---
-[[altern]], [[Altersvorsorge]], [[Alterspflege]], [[Seniorenbetreuung]]
+[[altern]], [[Altersvorsorge]], [[Alterspflege]], [[Seniorenbetreuung]], [[Äußerung]]

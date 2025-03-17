@@ -34,6 +34,6 @@ Morpheme:
 
 ---
 
-, [[sterben]], [[bald]], [[CONNECTOR]], [[dadurch]], [[somit]], [[hierfür]], [[Anki]]
+, [[sterben]], [[bald]], [[Konnektoren]], [[dadurch]], [[somit]], [[hierfür]], [[Anki]]
 
-, [[1 Präpositionen Übungen]]
+, [[1 Präpositionen Übungen]], [[Konnektivpartikeln]], [[Konjunktoren]]

@@ -22,4 +22,4 @@ simple, plain, modest
 Adjektive: [[schlicht]], [[schlichter]], [[schlichtest]]
 
 ---
-[[schlichter]], [[schlichtes]], [[schlichte]], [[schlichten]], [[schlichtem]], [[schlichterer]], [[schlichteres]], [[schlichtere]], [[schlichteren]], [[schlichterem]], [[schlichtester]], [[schlichtestes]], [[schlichteste]], [[schlichtesten]], [[schlichtestem]]
+[[schlichter]], [[schlichtes]], [[schlichte]], [[schlichten]], [[schlichtem]], [[schlichterer]], [[schlichteres]], [[schlichtere]], [[schlichteren]], [[schlichterem]], [[schlichtester]], [[schlichtestes]], [[schlichteste]], [[schlichtesten]], [[schlichtestem]], [[facettenreich]]

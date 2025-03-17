@@ -1,1 +1,1 @@
-, [[eignen]]
+, [[eignen]], [[hilfsbereit]]

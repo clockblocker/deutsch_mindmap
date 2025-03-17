@@ -4,6 +4,8 @@ die [[Küsten]]
 ---
 1. [[Landschaften]]: die [[Küste]], das Gebirge, das [[Tal]], der [[Hügel]]
 
+[[Atom#^5|^]] Die Region hat den [[längsten]] [[ununterbrochenen]] [[Waldabschnitt]] der [[Küste]] – 24 Kilometer lang. ^5
+
 ---
 = [[Ufer]], [[Strand]], [[Meeresküste]]
 ≈ [[Meer]], [[Strand]], [[Bucht]]

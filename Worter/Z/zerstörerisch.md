@@ -1,1 +1,1 @@
-, [[zerstörten]]
+, [[zerstörten]], [[nachhaltig]]

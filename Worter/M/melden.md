@@ -1,7 +1,9 @@
  📢 [[melden]], [ˈmɛldn̩] | [[meldete]], haben [[gemeldet]]
 
 ---
-_Alle melden sich und gehen weg. Sokka schlägt sich ins Gesicht_
+_Alle [[melden]] sich und gehen weg. Sokka schlägt sich ins Gesicht_
+
+[[Text mit Reflexivpronomen#^9|^]] Vor einigen Tagen hat er (11) bei mir telefonisch [[gemeldet]] und wir haben (12) zum Essen [[verabredet]]. ^9
 
 [[Einen Korb bekommen#^10|^]] Doch in den letzten Wochen hat sie sich [[kaum]] [[gemeldet]]. ^10
 

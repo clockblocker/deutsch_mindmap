@@ -22,3 +22,4 @@ never
 [[niemals]], [[nimmer]], [[nie mehr]]
 
 [[Niemand]][[sowie]][[niemanden]], [[irgendwann]], [[bald]], [[manchmal]], [[Niederlage]], [[Wahlniederlage]]
+, [[Negationspartikel]]

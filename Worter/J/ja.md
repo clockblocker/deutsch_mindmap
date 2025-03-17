@@ -1,3 +1,3 @@
 [[nein]]
 
-[[bejahen]]
+[[bejahen]], [[Abtönungspartikeln]]

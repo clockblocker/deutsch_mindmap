@@ -3,6 +3,8 @@
 ---
 [[1 Präpositionen Übungen.md#^6|(q)]] e) Sie hat sich [[auf]] die schwierige Prüfung intensiv [[vorbereitet]]. ^6
 
+[[Text mit Reflexivpronomen#^14|^]] [[Gegenwärtig]] [[vorbereitet|bereitet]] er (19) auf eine große [[Messe]] in den USA vor. ^14
+
 Ich fange an, mich auf die Reise [[vorzubereiten]].
 
 Ich [[vorbereiten|bereite]] mich [[auf]] die Reise vor.

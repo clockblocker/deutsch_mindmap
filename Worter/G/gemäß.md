@@ -17,3 +17,4 @@ according to, pursuant to
 
 ---
 [[Maß]], [[messen]], [[gemessen]], [[gemessen]], [[gemäßigt]]
+, [[zeitgemäß]]

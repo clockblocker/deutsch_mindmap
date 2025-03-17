@@ -1,1 +1,1 @@
-, [[Trieb]], [[Willenskraft]], [[Lernbereitschaft]], [[Schweinehund]]
+, [[Trieb]], [[Willenskraft]], [[Lernbereitschaft]], [[Schweinehund]], [[Hauptgrund]]

@@ -32,4 +32,4 @@ Morpheme: [[hab]][[en]]
 Partizip I: [[habend]], Partizip II: [[gehabt]]
 
 [[Worter/H/haben]] - [[hab]] = [[en]]
-''', [[geben]], [[s1 e1]], [[Hilfsverb]], [[schleudern]], [[herausfinden]], [[abschrecken]], [[bestehen]], [[etablieren]]
+''', [[geben]], [[s1 e1]], [[Hilfsverb]], [[schleudern]], [[herausfinden]], [[abschrecken]], [[bestehen]], [[etablieren]], [[erkundigen]], [[anpassen]], [[initiieren]]

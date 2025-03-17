@@ -1,1 +1,1 @@
-, [[vereinbar]]
+, [[vereinbar]], [[verträglich]]

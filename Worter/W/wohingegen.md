@@ -1,1 +1,1 @@
-, [[Conjunctions]], [[CONNECTOR]]
+, [[Konjunktoren]], [[Konnektoren]]

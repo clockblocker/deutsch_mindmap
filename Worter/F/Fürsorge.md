@@ -1,1 +1,1 @@
-[[Segen]], [[Patenschaft]]
+[[Segen]], [[Patenschaft]], [[Pflege]]

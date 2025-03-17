@@ -1,3 +1,3 @@
 [[früh]] + [[-er]]
 , [[folgend]], [[vorhin]]
-, [[nachfolgend]], [[zukünftig]], [[jeweilig]], [[heutzutage]]
+, [[nachfolgend]], [[zukünftig]], [[jeweilig]], [[heutzutage]], [[gegenwärtig]], [[Konnektivpartikeln]], [[damalige]]

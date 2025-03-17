@@ -5,7 +5,7 @@ Super! Dann kannst du [[am besten]] zwei [[verschiedene]] Gruppen [[ausprobieren
 
 ---
 = [[experimentieren]], [[testen]], [[erproben]]
-≈ [[versuchen]], [[untersuchen]], [[erkunden]], [[prüfen]]
+≈ [[versuchen]], [[untersuchen]], [[Erkunden]], [[prüfen]]
 ≠ [[vermeiden]], [[ablehnen]], [[verzichten]], [[ignorieren]]
 
 ---

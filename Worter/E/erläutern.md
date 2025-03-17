@@ -1,1 +1,1 @@
-, [[klären]], [[verantworten]], [[umschreiben]]
+, [[klären]], [[verantworten]], [[umschreiben]], [[veranschaulichen]]

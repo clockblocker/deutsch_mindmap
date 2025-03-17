@@ -17,4 +17,5 @@ moreover, furthermore, in addition
 ---
 [[darüber hinaus]], [[obendrein]], [[zusätzlich]], [[ebenfalls]]
 
-[[übrigens]], [[CONNECTOR]], [[obendrein]]
+[[übrigens]], [[Konnektoren]], [[obendrein]]
+, [[Konnektivpartikeln]]

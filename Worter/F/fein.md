@@ -37,4 +37,4 @@ Einzigartige mögliche Formen:
 [[feinsten]], [[feinstere]], [[feinste]], [[feinstes]], [[feinsten]], [[feinstem]], [[feinster]], [[feinsten]]
 
 [[seidig]], [[Spitze]], [[Feinwäsche]]
-, [[pelzig]], [[schlank]], [[ruppig]]
+, [[pelzig]], [[schlank]], [[ruppig]], [[sanft]]

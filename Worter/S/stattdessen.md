@@ -18,3 +18,4 @@ Related Words:
 [[statt]], [[dessen]], [[Alternative]]
 
 , [[Damit]]
+, [[Konnektivpartikeln]], [[Konjunktoren]]

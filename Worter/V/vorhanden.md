@@ -24,4 +24,4 @@ available, present
 Adjektive: [[vorhanden]], [[vorhandener]], [[vorhandenst]]
 
 ---
-[[vorhandener]], [[vorhandenes]], [[vorhandene]], [[vorhandenen]], [[vorhandenem]], [[vorhandenerer]], [[vorhandeneres]], [[vorhandenere]], [[vorhandeneren]], [[vorhandenerem]], [[vorhandenster]], [[vorhandenstes]], [[vorhandenste]], [[vorhandensten]], [[vorhandenstem]]
+[[vorhandener]], [[vorhandenes]], [[vorhandene]], [[vorhandenen]], [[vorhandenem]], [[vorhandenerer]], [[vorhandeneres]], [[vorhandenere]], [[vorhandeneren]], [[vorhandenerem]], [[vorhandenster]], [[vorhandenstes]], [[vorhandenste]], [[vorhandensten]], [[vorhandenstem]], [[gegenwärtig]]

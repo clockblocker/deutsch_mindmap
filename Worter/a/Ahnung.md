@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[Ahnung]], [[Ahnung]], [[Ahnung]], [[Ahnung]]
 [[Ahnungen]], [[Ahnungen]], [[Ahnungen]], [[Ahnungen]]
-, [[ahnen]], [[s1 e1]]
+, [[ahnen]], [[s1 e1]], [[Einblick]]

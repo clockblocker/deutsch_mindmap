@@ -42,4 +42,4 @@ Morpheme: [[tret]][[en]]
 
 Partizip I: [[tretend]], Partizip II: [[getreten]]
 
-, [[beitreten]], [[übertreten]], [[vertreten]], [[stupsen]]
+, [[beitreten]], [[übertreten]], [[vertreten]], [[stupsen]], [[antreten]]

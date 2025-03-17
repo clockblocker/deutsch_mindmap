@@ -1,1 +1,1 @@
-, [[desto]], [[Je mehr]]
+, [[desto]], [[Je mehr]], [[Konjunktoren]]

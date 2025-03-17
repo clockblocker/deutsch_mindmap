@@ -28,4 +28,4 @@ Typische Verwendungen:
 Beispiele:
 - "Immerhin hast du es versucht."
 - "Es ist immerhin besser als nichts."
-- "Immerhin geht es ihr wieder besser.", [[Conjunctions]], [[s1 e1]]
+- "Immerhin geht es ihr wieder besser.", [[Konjunktoren]], [[s1 e1]], [[Konnektivpartikeln]]

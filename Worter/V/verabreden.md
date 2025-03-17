@@ -3,6 +3,8 @@
 ---
 [[Verabredung]]
 
+[[Text mit Reflexivpronomen#^9|^]] Vor einigen Tagen hat er (11) bei mir telefonisch [[gemeldet]] und wir haben (12) zum Essen [[verabredet]]. ^9
+
 [[Einen Korb bekommen#^23|^]] „Und da dachte ich, du hast vielleicht Lust, mit mir ins Konzert zu gehen.“ „Tut mir leid,“ sagt Mikael, „ich bin mit meiner Freundin [[verabredet]].“ „Freundin?“, fragt Anna überrascht. ^23
 
 Unsere Freunde [[verabreden]] sich eine Reise zu machen 

@@ -1,2 +1,2 @@
-, [[deshalb]], [[trotzdem]], [[CONNECTOR]], [[desto]], [[dadurch]], [[somit]], [[ebenso]]
-, [[nun]]
+, [[deshalb]], [[trotzdem]], [[Konnektoren]], [[desto]], [[dadurch]], [[somit]], [[ebenso]]
+, [[nun]], [[Konnektivpartikeln]]

@@ -1,1 +1,1 @@
-, [[trotzdem]], [[dennoch]], [[Conjunctions]], [[CONNECTOR]]
+, [[trotzdem]], [[dennoch]], [[Konjunktoren]], [[Konnektoren]], [[Konnektivpartikeln]]

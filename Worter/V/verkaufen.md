@@ -23,7 +23,7 @@ Morpheme: [[ver]][[Kauf]][[en]]
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
 | --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
 | Ich | [[verkaufe]] | [[verkaufte]] | - | [[verkaufe]] | [[verkaufte]] |
-| Du | [[verkaufst]] | [[verkauftest]] | [[verkauf]] | [[verkaufest]] | [[verkauftest]] |
+| Du | [[verkaufst]] | [[verkauftest]] | [[Verkauf]] | [[verkaufest]] | [[verkauftest]] |
 | Er/sie/es | [[verkauft]] | [[verkaufte]] | - | [[verkaufe]] | [[verkaufte]] |
 | Wir | [[verkaufen]] | [[verkauften]] | - | [[verkaufen]] | [[verkauften]] |
 | Ihr | [[verkauft]] | [[verkauftet]] | [[verkauft]] | [[verkaufet]] | [[verkaufetet]] |

@@ -1,1 +1,1 @@
-, [[somit]]
+, [[somit]], [[Konnektivpartikeln]]

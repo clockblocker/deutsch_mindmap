@@ -26,4 +26,4 @@ N: [[ungewöhnliches]], [[ungewöhnlicheres]], [[ungewöhnlichstes]]
 P: [[ungewöhnlichen]], [[ungewöhnlicheren]], [[ungewöhnlichsten]]  
 
 ---
-[[Gewohnheit]], [[gewöhnlich]], [[unwohnlich]], [[wohnlich]], [[wohnen]], [[banal]]
+[[Gewohnheit]], [[gewöhnlich]], [[unwohnlich]], [[wohnlich]], [[wohnen]], [[banal]], [[rekordverdächtig]]

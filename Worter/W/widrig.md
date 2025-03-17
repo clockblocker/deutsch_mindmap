@@ -26,4 +26,4 @@ N: [[widriges]], [[widrigeres]], [[widrigstes]]
 P: [[widrigen]], [[widrigeren]], [[widrigsten]]  
 
 ---
-[[Widrigkeit]], [[widerwärtig]], [[Widersacher]], [[widersetzen]], [[zuwider]]
+[[Widrigkeit]], [[widerwärtig]], [[Widersacher]], [[widersetzen]], [[zuwider]], [[verträglich]]

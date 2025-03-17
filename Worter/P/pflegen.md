@@ -18,9 +18,9 @@ to care for, to nurse, to maintain
 ---
 
 Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
-Ich: [[pflege]], [[pflegte]], -, [[pflege]], [[pflegte]]  
-Du: [[pflegst]], [[pflegtest]], [[pflege]], [[pflegest]], [[pflegtest]]  
-Er/sie/es: [[pflegt]], [[pflegte]], -, [[pflege]], [[pflegte]]  
+Ich: [[Pflege]], [[pflegte]], -, [[Pflege]], [[pflegte]]  
+Du: [[pflegst]], [[pflegtest]], [[Pflege]], [[pflegest]], [[pflegtest]]  
+Er/sie/es: [[pflegt]], [[pflegte]], -, [[Pflege]], [[pflegte]]  
 Wir: [[pflegen]], [[pflegten]], -, [[pflegen]], [[pflegten]]  
 Ihr: [[pflegt]], [[pflegtet]], [[pflegt]], [[pfleget]], [[pflegtet]]  
 

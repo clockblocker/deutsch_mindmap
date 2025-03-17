@@ -1,4 +1,3 @@
-[[behandeln]], [[Sorgen]], [[kümmern]], [[pflegen]]
 🚑 [[versorgen]], [fɛɐ̯ˈzɔʁɡn̩] | [[versorgte]], haben [[versorgt]]
 
 ---
@@ -10,7 +9,7 @@ Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berl
 
 ---
 = [[beliefern]], [[ausstatten]], [[verwalten]]
-≈ [[unterstützen]], [[ernähren]], [[kümmern]], [[betreuen]]
+≈ [[unterstützen]], [[ernähren]], [[kümmern]], [[betreuen]], [[behandeln]], [[Sorgen]], [[kümmern]],  [[pflegen]]
 ≠ [[vernachlässigen]], [[ignorieren]], [[entblößen]]
 
 ---

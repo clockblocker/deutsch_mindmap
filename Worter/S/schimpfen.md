@@ -3,6 +3,9 @@
 haben [[geschimpft]]
 
 ---
+[[Atom#^2|^]] Doch nicht alle sehen das so. *Diese nuklearen Ambitionen halte ich für totalen Unsinn*, [[schimpft]] ein [[Naturschützer]] von *Baltitskije SOS*. ^2
+
+
 *Mein [[Geschlecht]] [[schimpft]] mich [[Verräter]]*  
 *Ich bin der Albtraum aller Väter*  
 

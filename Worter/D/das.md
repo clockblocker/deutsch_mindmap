@@ -1,3 +1,3 @@
 , [[dieselbe]], [[daß]]
 , [[dieser]]
-, [[welcher]]
+, [[welcher]], [[Konnektivpartikeln]]

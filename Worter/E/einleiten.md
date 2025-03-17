@@ -1,1 +1,1 @@
-, [[anfangen]], [[angehen]], [[eröffnen]], [[einführen]]
+, [[anfangen]], [[angehen]], [[eröffnen]], [[einführen]], [[initiieren]]

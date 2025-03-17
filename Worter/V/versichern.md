@@ -64,3 +64,4 @@ unsereiner versteht sowas nicht
 - *„meinesgleichen wird hier nicht akzeptiert.“*
 
 maßgebliche quelle
+, [[gewährleisten]]

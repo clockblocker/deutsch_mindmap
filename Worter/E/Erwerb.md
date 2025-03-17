@@ -1,1 +1,1 @@
-, [[Verlust]], [[erwerbstätig]], [[Kauf]], [[Erwerbstätige]]
+, [[Verlust]], [[erwerbstätig]], [[Kauf]], [[Erwerbstätige]], [[Verkauf]]

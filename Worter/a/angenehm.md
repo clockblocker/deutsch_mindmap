@@ -1,2 +1,2 @@
 [[schade]], [[wohl]], [[unbequem]], [[unheimlich]], [[bittre]], [[schmerzend]], [[eiskaltem]], [[sauer]], [[furchtbar]], [[schrecklich]], [[garstig]], [[bequem]]
-, [[gut]], [[anstrengend]], [[fies]]
+, [[gut]], [[anstrengend]], [[fies]], [[verträglich]]

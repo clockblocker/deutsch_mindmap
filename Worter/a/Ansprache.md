@@ -1,4 +1,4 @@
-die 🗣️ 🔴 [[Ansprache 1]], [ˈanʃpʁaːxə]
+die 🗣️ 🔴 [[Ansprache]], [ˈanʃpʁaːxə]
 die [[Ansprachen]]
 
 ---

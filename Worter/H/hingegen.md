@@ -1,1 +1,1 @@
-, [[soweit]], [[CONNECTOR]], [[obendrein]]
+, [[soweit]], [[Konnektoren]], [[obendrein]], [[Konnektivpartikeln]], [[Konjunktoren]]

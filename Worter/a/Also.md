@@ -1,4 +1,4 @@
 [[so]]
 
-Also pass auf., [[CONNECTOR]], [[somit]]
-, [[nun]]
+Also pass auf., [[Konnektoren]], [[somit]]
+, [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]]

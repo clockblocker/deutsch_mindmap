@@ -25,4 +25,4 @@ G: der [[Schwachstellen]], der [[Schwachstellen]]
 D: den [[Schwachstellen]], den [[Schwachstellen]]  
 
 ---
-[[schwach]], [[schwächeln]], [[schwächen]], [[schwachstellen]]
+[[schwach]], [[schwächeln]], [[schwächen]], [[schwachstellen]], [[stärken]]

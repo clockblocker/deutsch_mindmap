@@ -23,4 +23,4 @@ Genitive: des [[Naturschutzes]], der [[Naturschutze]]
 Dative: dem [[Naturschutz]], den [[Naturschutzen]] 
 
 ---
-[[naturschützen]], [[naturschutzrechtlich]], [[Naturschutzgebiet]], [[Naturschutzgesetz]]
+[[naturschützen]], [[naturschutzrechtlich]], [[Naturschutzgebiet]], [[Naturschutzgesetz]], [[Naturschützer]]

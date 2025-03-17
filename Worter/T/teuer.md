@@ -27,3 +27,4 @@ P: [[teuren]], [[teuereren]], [[teuerste]]
 
 ---
 [[Teuerung]], [[teuerlich]], [[teuern]], [[teuernde]], [[drehen]]
+, [[umsonst]]

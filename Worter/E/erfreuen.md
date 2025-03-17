@@ -38,4 +38,4 @@ PI: [[erfreuend]], PII: [[erfreut]], Zu+inf: [[zu erfreuen]]
 
 [[freuen]], [[gefallen]], [[vergnügen]], [[Freudiges]]
 , [[amüsieren]]
-, [[ärgern]], [[plagen]], [[froh]]
+, [[ärgern]], [[plagen]], [[froh]], [[langweilen]]

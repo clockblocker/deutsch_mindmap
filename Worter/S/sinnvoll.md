@@ -31,4 +31,4 @@ Einzigartige mögliche Formen:
 [[sinnvoll]], [[sinnvoller]], [[sinnvolle]], [[sinnvolles]], [[sinnvollen]], [[sinnvollem]], [[sinnvoller]], [[sinnvollen]]
 [[sinnvoller]], [[sinnvollerer]], [[sinnvollere]], [[sinnvolleres]], [[sinnvolleren]], [[sinnvollerem]], [[sinnvollerer]], [[sinnvolleren]]
 [[sinnvollsten]], [[sinnvollster]], [[sinnvollste]], [[sinnvollstes]], [[sinnvollsten]], [[sinnvollstem]], [[sinnvollster]], [[sinnvollsten]]
-, [[eigentlich]], [[Einwand]], [[nutzlos]]
+, [[eigentlich]], [[Einwand]], [[nutzlos]], [[umsonst]]

@@ -3,6 +3,8 @@
 ---
 Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[auskennen]]. Doch wer über den Tellerrand schaut, kann viel entdecken: Einen Becher und Besteck findet man dabei eher nicht, aber ganz bestimmt neue Perspektiven.  
 
+[[Text mit Reflexivpronomen#^6|^]] Nicht jeder [[hilfsbereite]] Nachbar [[eignet]] sich für diesen Freundschaftsdienst, wenn er sich mit der [[Pflege]] von Katzen nicht [[auskennt]]. ^6
+
 [[1 Wer bin ich und was mache ich hier?#^10|(q)]] Meine Bekannten, die sich mit deutscher Politik [[auskennen]], sagen, dass die Wahrscheinlichkeit einer [[Aufhebung]] des Gesetzes über die doppelte Staatsbürgerschaft groß ist. ^10
 
 ---

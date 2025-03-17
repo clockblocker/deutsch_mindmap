@@ -20,4 +20,4 @@ the, to the extent that, the more... the more
 
 ---
 [[destomehr]], [[destoweniger]], [[sodesto]]
-, [[Je mehr]]
+, [[Je mehr]], [[Konjunktoren]]

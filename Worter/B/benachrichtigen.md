@@ -1,1 +1,1 @@
-, [[Benachrichtigung]], [[Wahlbenachrichtigung]]
+, [[Benachrichtigung]], [[Wahlbenachrichtigung]], [[verständigen]]

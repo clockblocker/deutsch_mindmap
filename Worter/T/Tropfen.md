@@ -40,7 +40,7 @@ Was [[nützt]] es, wenn man einen Tropfen Wasser auf einen heißen Stein fallen 
 
 ---
 Synonyme:
-- [[Tröpfchen]], [[Partikel]], [[Flüssigkeitsteilchen]], [[Kügelchen]], [[Bröckchen]]
+- [[Tröpfchen]], [[Worter/P/Partikel]], [[Flüssigkeitsteilchen]], [[Kügelchen]], [[Bröckchen]]
 
 ---
 Übersetzung: drop

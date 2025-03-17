@@ -26,4 +26,4 @@ D: dem [[Konflikt]], den [[Konflikten]]
 ---
 [[konflikthaft]], [[konfliktvermeidend]], [[kollidieren]], [[konfrontieren]], [[Widerspruch]], [[Ausgleich]]
 , [[Gefecht]]
-, [[Kriegsausbruch]], [[Konsens]], [[Schlacht]]
+, [[Kriegsausbruch]], [[Konsens]], [[Schlacht]], [[Einklang]]

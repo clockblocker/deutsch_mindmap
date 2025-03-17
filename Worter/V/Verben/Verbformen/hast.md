@@ -1,1 +1,1 @@
-💼 [[Worter/H/haben]]  
+💼 [[Worter/H/haben]]  , [[verständigen]]

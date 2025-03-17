@@ -2,4 +2,4 @@
 #Pronomen #Reflexivpronomen
 
 yourself, [[bewerben]], [[Du]], [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]]
-, [[befreunden]], [[vergnügen]], [[versichern]], [[widmen]], [[verabschieden]], [[bemüht]], [[melden]], [[aufraffen]], [[fernhalten]], [[abarbeiten]], [[überfordern]], [[einlassen]], [[auseinandersetzen]], [[fühlen]], [[einstellen]], [[etablieren]]
+, [[befreunden]], [[vergnügen]], [[versichern]], [[widmen]], [[verabschieden]], [[bemüht]], [[melden]], [[aufraffen]], [[fernhalten]], [[abarbeiten]], [[überfordern]], [[einlassen]], [[auseinandersetzen]], [[fühlen]], [[einstellen]], [[etablieren]], [[stärken]], [[langweilen]], [[erkundigen]], [[verständigen]], [[anpassen]], [[fürchten]]

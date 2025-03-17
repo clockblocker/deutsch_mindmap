@@ -1,2 +1,2 @@
 , [[zusammenfassen]]
-, [[zusammenbrechen]], [[insgesamt]]
+, [[zusammenbrechen]], [[insgesamt]], [[Konnektivpartikeln]]

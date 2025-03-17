@@ -1,22 +1,28 @@
-🟢 das [[Küchenfenster]]
+🪟 🟢 das [[Küchenfenster]], [ˈkʏçn̩ˌfɛnstɐ](https://youglish.com/pronounce/Küchenfenster/german)
 die [[Küchenfenster]]
 
-Beispiele:
-
-- Das [[Küchenfenster]] lässt viel Licht herein.
-- Ich habe das [[Küchenfenster]] geöffnet.
-- Die Aussicht aus dem [[Küchenfenster]] ist wunderschön.
+---
+[[Aschenputtel#^3|^]] Da kamen zum [[Küchenfenster]] zwei weiße [[Täubchen]] herein und danach die Turteltäubchen, und endlich schwirrten und schwärmten alle Vöglein unter dem Himmel herein und ließen sich um die Asche nieder. ^3
 
 ---
-Synonyme:
-- [[Fenster der Küche]], [[Fenster im Küchenbereich]]
+= [[Fenster]] in der [[Küche]]
+≈ [[Ausblick]], [[Lichtquelle]], [[Öffnung]]
+≠ [[Wand]], [[Tür]]
 
 ---
-**Übersetzung**: kitchen window
+kitchen window
+кухонное окно
 
 ---
-Morphems:
-[[Küche]]n[[Fenster]]
+[[Küche]], [[Fenster]]
 
 ---
-#Substantiv #Neuter, [[11 08]]
+[[Küche]]|[[n]]|[[fenster]]
+[[Küchen]] + [[Fenster]]
+
+
+---
+N: das [[Küchenfenster]], die [[Küchenfenster]]  
+A: das [[Küchenfenster]], die [[Küchenfenster]]  
+G: des [[Küchenfensters]], der [[Küchenfenster]]  
+D: dem [[Küchenfenster]], den [[Küchenfenstern]]

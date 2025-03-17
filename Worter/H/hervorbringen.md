@@ -1,1 +1,1 @@
-, [[zeugen]], [[schaffen]], [[Geburt]], [[aufbringen]], [[aussprechen]]
+, [[zeugen]], [[schaffen]], [[Geburt]], [[aufbringen]], [[aussprechen]], [[erzeugen]]

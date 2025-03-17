@@ -1,1 +1,1 @@
-, [[Pflegeversicherung]]
+, [[Pflegeversicherung]], [[Pflege]]

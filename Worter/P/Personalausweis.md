@@ -18,7 +18,7 @@ die [[Personalausweise]]
 identity card, ID card
 
 ---
-[[Personal]]|[[ausweis]]
+[[Worter/P/Personal]]|[[ausweis]]
 [[per]]|[[son]]|[[al]]|[[aus]]|[[weis]]
 
 ---
@@ -28,4 +28,4 @@ G: des [[Personalausweises]], der [[Personalausweise]]
 D: dem [[Personalausweis]], den [[Personalausweisen]]  
 
 ---
-[[Personal]], [[ausweisen]], [[identifizieren]], [[nachweisen]], [[Ausweis]]
+[[Worter/P/Personal]], [[ausweisen]], [[identifizieren]], [[nachweisen]], [[Ausweis]]

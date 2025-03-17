@@ -3,9 +3,9 @@
 ---
 Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]].
 
-[[Die halbe Miete sein.md#^5|(q)]] „es gibt momentan so viele Dinge, die ich [[erledigen]] muss. Mein größtes Problem ist, dass ich für meine kleine Tochter einen Platz in einer [[Kindertagesstätte]] suche. ^5
+Du kannst dir nicht vorstellen, was ich bis dahin noch alles [[erledigen]] muss. 
 
-[[bzw]]
+[[Die halbe Miete sein.md#^5|(q)]] „es gibt momentan so viele Dinge, die ich [[erledigen]] muss. Mein größtes Problem ist, dass ich für meine kleine Tochter einen Platz in einer [[Kindertagesstätte]] suche. ^5
 
 Seit Mutter gestorben ist, habe ich die ganze Arbeit im [[Lager]] [[erledigt]], während du irgendwo Soldat gespielt hast!
 

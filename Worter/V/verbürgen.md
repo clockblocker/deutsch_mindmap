@@ -1,1 +1,1 @@
-, [[haften]], [[versichern]]
+, [[haften]], [[versichern]], [[gewährleisten]]

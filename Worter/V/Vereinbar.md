@@ -31,3 +31,4 @@ P: [[vereinbaren]], [[vereinbareren]], [[vereinbarsten]]
 ---
 [[vereinbaren]], [[Vereinbarkeit]], [[unvereinbar]], [[Vereinbarung]], [[vereinbar]]
 , [[Vereinbarung]]
+, [[verträglich]]

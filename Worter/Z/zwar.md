@@ -23,4 +23,4 @@ indeed, it is true
 
 ---
 [[zwar]]
-, [[verschwinden]]
+, [[verschwinden]], [[Konnektivpartikeln]]

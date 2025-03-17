@@ -1,1 +1,1 @@
-, [[Denkmal]], [[Diesmal]], [[siebenmal]], [[manchmal]], [[Malbuch]], [[malen]], [[bemalen]], [[Merkmal]], [[einmal]], [[einmalig]]
+, [[Denkmal]], [[Diesmal]], [[siebenmal]], [[manchmal]], [[Malbuch]], [[malen]], [[bemalen]], [[Merkmal]], [[einmal]], [[einmalig]], [[Konjunktoren]]

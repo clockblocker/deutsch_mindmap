@@ -1,1 +1,1 @@
-[[getrennt]][[trennen]], [[Trennungsjahr]]
+[[getrennt]][[trennen]], [[Trennungsjahr]], [[durchtrennen]]

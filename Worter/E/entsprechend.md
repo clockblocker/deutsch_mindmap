@@ -3,6 +3,8 @@
 ---
 [[Entsprechend]] unserem [[Vorschlag]] 
 
+[[1 lesen StadtTours#^10|^]] Jede Stadt hat ihren ganz eigenen Charme. [[Entsprechend]] hat jedes StadtTours-Team überall einzigartige Programme für seine Besucherinnen und Besucher vorbereitet. ^10
+
 ---
 = [[gemäß]], [[dementsprechend]], [[analog]], [[derselben]], [[gleich]],  [[ebenso]],
 ≈ [[passend]], [[angemessen]], [[korrekt]], [[adäquat]],  [[solche]], [[vereinbar]], [[jeweils]],  [[passend]]

@@ -33,7 +33,7 @@ Tags:
 Morphems:
 [[Da]][[gegen]]
 
-, [[dabei]], [[deshalb]], [[Damit]], [[11 08]], [[ebenfalls]], [[einverstanden]], [[da]], [[CONNECTOR]], [[hierfür]]🚧 [[dagegen]], [daˈɡeːɡn̩]
+, [[dabei]], [[deshalb]], [[Damit]], [[11 08]], [[ebenfalls]], [[einverstanden]], [[da]], [[Konnektoren]], [[hierfür]]🚧 [[dagegen]], [daˈɡeːɡn̩]
 
 ---
 
@@ -51,4 +51,4 @@ against it, on the contrary, in contrast
 
 ---
 [[Widerspruch]], [[konträr]], [[entgegengesetzt]], [[Opposition]]
-</ideal_output>, [[Anki]]
+</ideal_output>, [[Anki]], [[Konnektivpartikeln]], [[Konjunktoren]]

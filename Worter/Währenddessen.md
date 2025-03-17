@@ -15,4 +15,4 @@ meanwhile, during that time, in the meantime
 [[währen]]|[[dessen]]
 
 ---
-[[zeitgleich]], [[zeitgleich]], [[gleichzeitig]], [[während]], [[indessen]], [[Währenddessen]]
+[[zeitgleich]], [[zeitgleich]], [[gleichzeitig]], [[während]], [[indessen]], [[Währenddessen]], [[Konnektivpartikeln]]

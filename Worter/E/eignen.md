@@ -3,6 +3,8 @@
 ---
 Dafür [[scheint]] ein [[bestimmter]] Baum [[besonders]] [[geeignet]] zu sein
 
+[[Text mit Reflexivpronomen#^6|^]] Nicht jeder [[hilfsbereite]] Nachbar [[eignet]] sich für diesen Freundschaftsdienst, wenn er sich mit der Pflege von Katzen nicht [[auskennt]]. ^6
+
 ---
 Synonyme: [[passen]], [[entsprechen]], [[geeignet sein]], [[taugen]], [[qualifiziert sein]]
 Antonyme: [[ungeeignet sein]], [[nicht passen]], [[untauglich sein]]

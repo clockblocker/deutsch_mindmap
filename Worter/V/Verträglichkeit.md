@@ -1,1 +1,1 @@
-, [[vertragen]]
+, [[vertragen]], [[verträglich]]

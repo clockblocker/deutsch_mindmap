@@ -1,1 +1,1 @@
-, [[Gleichgewicht]], [[Sicherheit]], [[Risiko]], [[Arbeiteraufstand]], [[Krise]]
+, [[Gleichgewicht]], [[Sicherheit]], [[Risiko]], [[Arbeiteraufstand]], [[Krise]], [[Energiesicherheit]]

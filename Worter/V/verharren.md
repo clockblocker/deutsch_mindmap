@@ -1,2 +1,2 @@
 , [[gehen]], [[zustürmen]], [[rücken]], [[tanzen]]
-, [[schwirren]]
+, [[schwirren]], [[hinstehen]]

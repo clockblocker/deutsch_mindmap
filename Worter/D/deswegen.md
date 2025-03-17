@@ -33,4 +33,4 @@ Verwandte Wörter:
 [[wegen]], [[deshalb]], [[darum]], [[weshalb]]
 
 , [[deshalb]], [[Damit]], [[trotzdem]]
-, [[geduld]], [[befürchten]], [[CONNECTOR]], [[dadurch]], [[somit]], [[hierfür]]
+, [[geduld]], [[befürchten]], [[Konnektoren]], [[dadurch]], [[somit]], [[hierfür]], [[Konnektivpartikeln]], [[Konjunktoren]]

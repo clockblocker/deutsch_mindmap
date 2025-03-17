@@ -1,1 +1,1 @@
-, [[unhöflich]], [[nett]], [[Freundliches]]
+, [[unhöflich]], [[nett]], [[Freundliches]], [[hilfsbereit]]

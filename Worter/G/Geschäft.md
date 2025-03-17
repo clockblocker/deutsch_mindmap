@@ -28,4 +28,4 @@ Synonyme:
 
 #Substantiv
 #Neuter[[handel]], [[Geschäftsleben]], [[Anki]], [[Zoogeschäft]]
-, [[Angelegenheit]], [[Geschäftsidee]]
+, [[Angelegenheit]], [[Geschäftsidee]], [[Verkauf]]

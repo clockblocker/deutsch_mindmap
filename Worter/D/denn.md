@@ -15,4 +15,4 @@ so then
 
 #empasis
 
-, [[riechen]], [[dennoch]], [[CONNECTOR]], [[desto]], [[daß]]
+, [[riechen]], [[dennoch]], [[Konnektoren]], [[desto]], [[daß]], [[Abtönungspartikeln]], [[Konjunktoren]]

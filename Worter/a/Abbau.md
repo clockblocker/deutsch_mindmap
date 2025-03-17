@@ -1,1 +1,1 @@
-, [[Kürzung]], [[Erhaltung]]
+, [[Kürzung]], [[Erhaltung]], [[Anlage]]

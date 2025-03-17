@@ -23,3 +23,4 @@ D: dem [[Schulgebäude]], den [[Schulgebäuden]]
 
 ---
 [[Schule]], [[Gebäude]], [[schulisch]], [[schulgebäudeähnlich]], [[schulgebäudeartig]], [[schulgebäudeintern]], [[schulgebäudeextern]]
+, [[Anlage]]

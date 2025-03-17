@@ -1,1 +1,1 @@
-, [[Büro]], [[Betrieb]], [[Schulgebäude]]
+, [[Büro]], [[Betrieb]], [[Schulgebäude]], [[Anlage]], [[Kohlekraftwerk]]

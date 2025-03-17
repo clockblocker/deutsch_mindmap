@@ -1,1 +1,1 @@
-, [[hervorragend]], [[großartig]], [[gewöhnlich]]
+, [[hervorragend]], [[großartig]], [[gewöhnlich]], [[rekordverdächtig]]

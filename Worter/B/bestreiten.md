@@ -1,1 +1,1 @@
-, [[zugeben]], [[leugnen]], [[Widerspruch]], [[bestätigen]]
+, [[zugeben]], [[leugnen]], [[Widerspruch]], [[bestätigen]], [[umstreiten]]

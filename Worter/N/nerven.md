@@ -1,2 +1,2 @@
 🔵 der [[Nerv]]
-, [[ärgern]]
+, [[ärgern]], [[langweilen]]

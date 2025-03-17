@@ -1,1 +1,1 @@
-, [[weder]], [[gleichermaßen]]
+, [[weder]], [[gleichermaßen]], [[Konjunktoren]]

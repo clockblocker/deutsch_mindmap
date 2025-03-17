@@ -1,1 +1,1 @@
-, [[anschauliche]], [[speziell]]
+, [[anschauliche]], [[speziell]], [[Konnektivpartikeln]]

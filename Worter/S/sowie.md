@@ -3,6 +3,8 @@
 ---
 Christina mag Männer [[sowie]] Frauen.
 
+[[1 lesen StadtTours#^9|^]] Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
+
 ---
 Synonyme: [[ebenso]], [[gleichfalls]], [[genauso]], [[ebenfalls]], [[desgleichen]]
 Antonyme: [[nicht]], [[weder]], [[niemals]], [[keineswegs]], [[nie]]
@@ -16,4 +18,4 @@ Morpheme:
 
 ---
 #Adverb #Konjunktion
-, [[CONNECTOR]], [[beziehungsweise]], [[Anki]]
+, [[Konnektoren]], [[beziehungsweise]], [[Anki]], [[Konnektivpartikeln]]

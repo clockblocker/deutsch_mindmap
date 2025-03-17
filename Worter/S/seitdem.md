@@ -25,4 +25,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen:
 [[seitdem]]
-''', [[s1 e1]], [[Seit]]
+''', [[s1 e1]], [[Seit]], [[Konjunktoren]]

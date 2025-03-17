@@ -1,4 +1,4 @@
-, [[CONNECTOR]], [[Bezug]], [[bezogen]]
+, [[Konnektoren]], [[Bezug]], [[bezogen]]
 🔗 [[beziehungsweise]], [bəˈtsiːʊŋsˌvaɪ̯zə]
 
 ---
@@ -21,4 +21,4 @@ respectively, or rather, or
 [[Beziehung]], [[beziehen]], [[weise]], [[weisen]], [[beziehungslos]]
 [[Beziehung]], [[Beziehung]], [[Anki]], [[jeweils]], [[entweder]]
 
-[[der Deutscher]]
+[[der Deutscher]], [[Konnektivpartikeln]]

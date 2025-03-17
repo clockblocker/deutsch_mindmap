@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 [[modern]], [[modernere]], [[moderneren]], [[moderneres]], [[modernem]], [[modernster]], [[modernste]], [[modernstes]], [[modernsten]], [[modernsten]], 
 
 [[uralte]], [[zeitgenössische]], [[preußisch]], [[neu]]
-, [[althochdeutsch]]
+, [[althochdeutsch]], [[überholt]]

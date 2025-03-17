@@ -1,2 +1,2 @@
 , [[Tür]], [[loch]], [[Tor]], [[Fenstern]], [[öffnen]], [[Abschottung]], [[Lücke]], [[Maul]]
-, [[Öffnungszeit]], [[Stopfen]]
+, [[Öffnungszeit]], [[Stopfen]], [[Küchenfenster]]

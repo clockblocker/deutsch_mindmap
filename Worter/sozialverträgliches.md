@@ -1,0 +1,1 @@
+🤝 [[sozialverträglich]] | 🟢 das [[Sozialverträgliche]] 🤝

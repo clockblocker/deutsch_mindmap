@@ -1,2 +1,2 @@
 
-, [[beherzt]]
+, [[beherzt]], [[fürchten]]

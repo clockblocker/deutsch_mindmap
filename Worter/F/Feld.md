@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Feldes]], [[Felde]], [[Felder]], [[Feldern]]
 
 ---
-#Substantiv #Neutrum, [[Hauptbereich]], [[Acker]]
+#Substantiv #Neutrum, [[Hauptbereich]], [[Acker]], [[Waldabschnitt]]

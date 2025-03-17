@@ -26,4 +26,4 @@ Adjektive: [[begeistert]], [[begeisterter]], [[begeistertst]]
 [[begeisterter]], [[begeistertes]], [[begeisterte]], [[begeisterten]], [[begeistertem]], [[begeisterterer]], [[begeisterteres]], [[begeistertere]], [[begeisterteren]], [[begeisterterem]], [[begeistertster]], [[begeistertstes]], [[begeistertste]], [[begeistertsten]], [[begeistertstem]]
 
 
-[[aufpassen]]
+[[aufpassen]], [[langweilen]]

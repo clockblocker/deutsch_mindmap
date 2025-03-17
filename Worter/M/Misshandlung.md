@@ -1,1 +1,1 @@
-, [[Erziehung]], [[Behandlung]], [[Prügelstrafe]], [[Folter]]
+, [[Erziehung]], [[Behandlung]], [[Prügelstrafe]], [[Folter]], [[Pflege]]

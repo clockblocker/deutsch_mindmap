@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Energie]], [[Energien]]
 
 ---
 #Substantiv #Neutral, [[Willenskraft]], [[s1 e1]]
-, [[Erschöpfung]]
+, [[Erschöpfung]], [[Energiequelle]], [[Energiesicherheit]]

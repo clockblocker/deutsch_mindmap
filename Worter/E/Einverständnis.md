@@ -2,7 +2,9 @@
 die [[Einverständnisse]]
 
 ---
- muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr [[Einverständnis]] geben.
+muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr [[Einverständnis]] geben.
+
+im [[Einverständnis]] mit  
 
 ---
 = [[Einwilligung]], [[Zustimmung]], [[Erlaubnis]], [[Genehmigung]]

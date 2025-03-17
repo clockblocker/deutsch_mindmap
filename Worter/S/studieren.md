@@ -29,4 +29,4 @@ Partizip II: [[studiert]]
 Zu+infinitive: [[zu studieren]]
 
 ---
-[[Student]], [[Studentin]], [[Studium]], [[Studiengang]], [[Studierende]], [[Studiengebühren]], [[Studienzeit]], [[betrachten]], [[Universität]], [[lehren]], [[Studie]]
+[[Student]], [[Studentin]], [[Studium]], [[Studiengang]], [[Studierende]], [[Studiengebühren]], [[Studienzeit]], [[betrachten]], [[Universität]], [[lehren]], [[Studie]], [[Erkunden]]

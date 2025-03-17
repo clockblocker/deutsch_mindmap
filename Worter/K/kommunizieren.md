@@ -1,1 +1,1 @@
-[[reden]], [[telefonieren]], [[berichten]], [[unterhalten]], [[ausdrücken]], [[anzeigen]], [[funkten]], [[Kommune]], [[schweigen]], [[sagen]], [[verbreiten]], [[Kommunikationsstärke]]
+[[reden]], [[telefonieren]], [[berichten]], [[unterhalten]], [[ausdrücken]], [[anzeigen]], [[funkten]], [[Kommune]], [[schweigen]], [[sagen]], [[verbreiten]], [[Kommunikationsstärke]], [[verständigen]]

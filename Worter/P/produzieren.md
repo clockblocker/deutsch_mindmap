@@ -1,1 +1,1 @@
-, [[zeugen]], [[schaffen]], [[erstellen]], [[herstellen]]
+, [[zeugen]], [[schaffen]], [[erstellen]], [[herstellen]], [[erzeugen]]

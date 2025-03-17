@@ -55,4 +55,4 @@ sie, [[etablieren]], [[etablierten]], [[etablieren]], [[etablierten]], [[etablie
 Adjektive: [[etablierend]], [[etablierender]], [[etablierendst]]
 
 ---
-[[etablierender]], [[etablierendes]], [[etablierende]], [[etablierenden]], [[etablierendem]], [[etablierenderer]], [[etablierenderes]], [[etablierendere]], [[etablierenderen]], [[etablierenderem]], [[etablierendster]], [[etablierendstes]], [[etablierendste]], [[etablierendsten]], [[etablierendstem]]
+[[etablierender]], [[etablierendes]], [[etablierende]], [[etablierenden]], [[etablierendem]], [[etablierenderer]], [[etablierenderes]], [[etablierendere]], [[etablierenderen]], [[etablierenderem]], [[etablierendster]], [[etablierendstes]], [[etablierendste]], [[etablierendsten]], [[etablierendstem]], [[initiieren]]

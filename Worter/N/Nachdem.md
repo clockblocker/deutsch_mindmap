@@ -18,3 +18,4 @@ Morpheme:
 
 ---
 #Konjunktion
+, [[Konnektivpartikeln]], [[Konjunktoren]]

@@ -1,1 +1,1 @@
-, [[CONNECTOR]], [[obendrein]], [[zudem]]
+, [[Konnektoren]], [[obendrein]], [[zudem]], [[Konnektivpartikeln]]

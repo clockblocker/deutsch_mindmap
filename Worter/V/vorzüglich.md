@@ -1,1 +1,1 @@
-[[prima]]
+[[prima]], [[ausgezeichnet]]

@@ -1,2 +1,2 @@
-, [[Nachdem]], [[CONNECTOR]]
-, [[als]]
+, [[Nachdem]], [[Konnektoren]]
+, [[als]], [[Konjunktoren]]

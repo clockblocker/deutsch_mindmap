@@ -1,1 +1,1 @@
-, [[Inhalt]]
+, [[Inhalt]], [[Äußerung]]

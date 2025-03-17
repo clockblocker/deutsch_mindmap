@@ -1,1 +1,1 @@
-, [[stark]]
+, [[stark]], [[stärken]]

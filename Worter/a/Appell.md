@@ -1,1 +1,1 @@
-, [[Ansprache 1]], [[Aufruf]], [[Petition]]
+, [[Ansprache]], [[Aufruf]], [[Petition]]

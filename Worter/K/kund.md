@@ -18,3 +18,4 @@ known, apparent, public
 
 Einzigartige mögliche Formen: 
 [[kund]], [[kunde]], [[kundes]], [[kundem]], [[kunden]]
+, [[erkundigen]], [[Erkunden]]

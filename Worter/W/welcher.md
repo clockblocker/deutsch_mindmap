@@ -22,4 +22,4 @@ D: [[welchem]], [[welcher]], [[welchem]], [[welchen]]
 
 ---
 [[welch]], [[welcherlei]], [[welchermassen]], [[welchermassen]]
-, [[Was für ein?]]
+, [[Was für ein?]], [[Konjunktoren]]

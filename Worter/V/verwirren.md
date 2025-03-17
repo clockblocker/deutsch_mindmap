@@ -57,4 +57,4 @@ sie, [[verwirren]], [[verwirrten]], [[verwirren]], [[verwirrten]], [[verwirren]]
 Adjektive: [[verwirrend]], [[verwirrender]], [[verwirrendst]]
 
 ---
-[[verwirrender]], [[verwirrendes]], [[verwirrende]], [[verwirrenden]], [[verwirrendem]], [[verwirrenderer]], [[verwirrenderes]], [[verwirrendere]], [[verwirrenderen]], [[verwirrenderem]], [[verwirrendster]], [[verwirrendstes]], [[verwirrendste]], [[verwirrendsten]], [[verwirrendstem]], [[zerzausen]]
+[[verwirrender]], [[verwirrendes]], [[verwirrende]], [[verwirrenden]], [[verwirrendem]], [[verwirrenderer]], [[verwirrenderes]], [[verwirrendere]], [[verwirrenderen]], [[verwirrenderem]], [[verwirrendster]], [[verwirrendstes]], [[verwirrendste]], [[verwirrendsten]], [[verwirrendstem]], [[zerzausen]], [[veranschaulichen]]

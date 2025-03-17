@@ -1,3 +1,3 @@
 [[ansehen]], [[vergleichen]], [[durchchecken]], [[absuchen]], [[Führerscheinprüfung]], [[durchsuchen]], [[Gesellenprüfung]], [[mustern]], [[überwachen]], [[untersuchen]], [[Prüfung]], [[ausprobieren]]
 , [[zichten]]
-, [[beurteilen]], [[bewerten]], [[auseinandersetzen]]
+, [[beurteilen]], [[bewerten]], [[auseinandersetzen]], [[Erkunden]]

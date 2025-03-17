@@ -1,4 +1,4 @@
-, [[CONNECTOR]], [[desto]], [[dadurch]]
+, [[Konnektoren]], [[desto]], [[dadurch]]
 🔗 [[somit]], [zɔˈmɪt]
 
 ---
@@ -19,4 +19,4 @@ therefore, consequently, thus
 [[so]]|[[mit]]
 
 ---
-[[also]], [[mithin]], [[demzufolge]], [[folglich]], [[demnach]]
+[[also]], [[mithin]], [[demzufolge]], [[folglich]], [[demnach]], [[Konnektivpartikeln]]

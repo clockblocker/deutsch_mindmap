@@ -1,1 +1,1 @@
-[[verändern]][[ändern]], [[umwandeln]], [[verwandeln]]
+[[verändern]][[ändern]], [[umwandeln]], [[verwandeln]], [[umkehren]], [[anpassen]]

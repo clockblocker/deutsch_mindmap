@@ -1,1 +1,1 @@
-, [[gründen]]
+, [[gründen]], [[initiieren]]

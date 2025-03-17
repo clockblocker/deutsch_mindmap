@@ -33,4 +33,4 @@ Superlativ: [[seltensten]]
 
 [[täglich]][[normal]], [[meist]], [[bald]], [[Öfteren]]
 , [[manchmal]], [[üblich]], [[tausendfach]], [[zweifeln]]
-, [[überwiegend]], [[einmalig]], [[einzigartig]], [[außergewöhnlich]], [[allwöchentlich]]
+, [[überwiegend]], [[einmalig]], [[einzigartig]], [[außergewöhnlich]], [[allwöchentlich]], [[Negationspartikel]]

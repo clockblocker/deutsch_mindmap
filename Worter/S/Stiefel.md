@@ -1,1 +1,1 @@
-, [[Schuh]]
+, [[Schuh]], [[Pantoffel]]

@@ -32,4 +32,4 @@ barely, hardly, scarcely
 ---
 Morpheme:
 [[Kaum]]
-, [[s1 e1]], [[Anki]]
+, [[s1 e1]], [[Anki]], [[Negationspartikel]]

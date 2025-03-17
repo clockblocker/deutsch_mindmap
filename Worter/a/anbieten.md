@@ -3,6 +3,10 @@
 ---
 Die Firma [[anbieten|bietet]] mir einen Job [[an]].
 
+[[Text mit Reflexivpronomen#^26|^]] Ein Termin Anfang Oktober [[bietet an|bietet]] (32) dafür an. ^26
+
+[[1 lesen StadtTours#^13|^]] Das Start-up hat Standards entwickelt, mit denen  in allen [[angebotenen]] Städten eine hohe Qualität der Programme [[gewährleisten]] sollen. ^13
+
 [[2 Unter Druck nach oben#^6|(q)]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
 
 Was konnte ich ihm [[sonst]] [[anbieten]]? Ich ging in den Keller und fand in einem alten Koffer den hellgrauen Mantel meines Vetters.  [[17 zu inf#^14|(q)]]
@@ -38,4 +42,4 @@ Zu+infinifive: [[anzubieten]]
 [[anbieten]] - [[an]] = [[bieten]] // to offer
 
 ---
-[[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]], [[ablehnen]], [[vermarkten]], [[einbringen]]
+[[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]], [[ablehnen]], [[vermarkten]], [[einbringen]], [[Äußerung]]

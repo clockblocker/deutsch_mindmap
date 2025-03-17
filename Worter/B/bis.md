@@ -1,1 +1,1 @@
-[[erwachen]], [[bisher]], [[bevor]], [[Seit]], [[FUDGEBOW]], [[bis zu]]
+[[erwachen]], [[bisher]], [[bevor]], [[Seit]], [[FUDGEBOW]], [[bis zu]], [[Konjunktoren]]

@@ -1,4 +1,4 @@
-🗣️[[ansprechen]] + Akk, [ˈanʃpʁɛçn̩],  🗣️ [[Ansprache 1]]
+🗣️[[ansprechen]] + Akk, [ˈanʃpʁɛçn̩],  🗣️ [[Ansprache]]
 [[sprach an|sprach an]]  
 haben [[angesprochen]]
 

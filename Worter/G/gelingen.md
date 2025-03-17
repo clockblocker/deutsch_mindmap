@@ -2,8 +2,10 @@
 
 ---
 Endlich [[gelingt]] es Mona, sie [[anzusprechen]].
- 
- Nur wenigen [[gelingt]] es, sich von ihrem eigenen [[Schatten]] zu [[lösen]]: Lucky Luke zum Beispiel [[schießt]] schneller als er und Peter Pan sucht ihn. Aber wie [[schafft]] man es, über seinen eigenen [[Schatten]] zu springen?
+
+Es [[gelingt]] dem Schüler nicht, die Aufgabe zu lösen
+
+Nur wenigen [[gelingt]] es, sich von ihrem eigenen [[Schatten]] zu [[lösen]]: Lucky Luke zum Beispiel [[schießt]] schneller als er und Peter Pan sucht ihn. Aber wie [[schafft]] man es, über seinen eigenen [[Schatten]] zu springen?
  
 ---
 Synonyme: [[erfolgen]], [[klappen]], [[funktionieren]], [[glücken]], [[schaffen]]

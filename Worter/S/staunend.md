@@ -21,3 +21,4 @@ amazed, astonished, wondering
 Einzigartige mögliche Formen: 
 [[staunend]], [[staunender]], [[staunende]], [[staunendes]], [[staunenden]], [[staunendem]], [[staunender]], [[staunenden]]
 [[staunendste]], [[staunendster]], [[staunendste]], [[staunendstes]], [[staunendsten]], [[staunendstem]], [[staunendstes]]
+, [[langweilen]]

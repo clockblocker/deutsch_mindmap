@@ -38,4 +38,4 @@ Tags:
 
 ---
 Morphems:
-[[sogar]], [[11 08]], [[s1 e1]], [[Sache]], [[Anki]]
+[[sogar]], [[11 08]], [[s1 e1]], [[Sache]], [[Anki]], [[Konnektivpartikeln]]

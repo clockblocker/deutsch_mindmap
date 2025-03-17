@@ -70,4 +70,4 @@ Morphems:
 , [[dank]]
 , [[infolge]]
 , [[durchhalten]]
-, [[Durchhaltevermögen]]
+, [[Durchhaltevermögen]], [[durchtrennen]]

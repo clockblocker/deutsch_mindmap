@@ -27,4 +27,4 @@ Tags:
 ---
 
 , [[Fachverkäufer]], [[Buchhalter]], [[Sammler]]
-, [[Immobilienmakler]]
+, [[Immobilienmakler]], [[Verkauf]]

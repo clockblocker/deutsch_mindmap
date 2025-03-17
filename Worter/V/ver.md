@@ -19,4 +19,4 @@
 , [[Vermieter]]
 , [[einverstanden]]
 , [[verabreden]]
-, [[verfügbar]], [[verschmutzen]], [[Luftverschmutzung]], [[Verfügung]], [[vermarkten]], [[versichern]], [[verbreiten]], [[verabschieden]], [[verwandeln]], [[verspielen]], [[vernetzt]], [[verarbeiten]], [[unzuverlässig]], [[Verschwendung]], [[verbot]], [[Autoverbot]], [[verursachen]], [[vergeigen]], [[verstopfen]], [[verringern]]
+, [[verfügbar]], [[verschmutzen]], [[Luftverschmutzung]], [[Verfügung]], [[vermarkten]], [[versichern]], [[verbreiten]], [[verabschieden]], [[verwandeln]], [[verspielen]], [[vernetzt]], [[verarbeiten]], [[unzuverlässig]], [[Verschwendung]], [[verbot]], [[Autoverbot]], [[verursachen]], [[vergeigen]], [[verstopfen]], [[verringern]], [[Verkauf]], [[verständigen]], [[veranschaulichen]], [[verträglich]], [[rekordverdächtig]]

@@ -32,3 +32,4 @@ Wichtige Konstruktionen:
 '''
 
 , [[Seite]], [[Nachdem]]
+, [[Konjunktoren]]

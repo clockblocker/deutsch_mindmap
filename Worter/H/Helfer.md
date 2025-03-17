@@ -1,1 +1,1 @@
-, [[Wahlhelfer]], [[helfen]], [[Erntehelferin]]
+, [[Wahlhelfer]], [[helfen]], [[Erntehelferin]], [[hilfsbereit]]

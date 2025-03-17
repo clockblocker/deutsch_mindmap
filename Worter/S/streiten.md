@@ -10,6 +10,10 @@ b) Die Kinder [[streiten]] sich oft [[um]] Kleinigkeiten
 Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird. 
 
 ---
+[[um]] + [[streiten]] = [[umstreiten]] // to dispute
+
+
+---
 
 Synonyme:
 - [[kämpfen]], [[diskutieren]], [[sich zanken]]
@@ -76,4 +80,4 @@ Konjunktiv II:
 - Wenn er nachgiebiger wäre, [[stritte]] er nicht ständig.
 - Wenn wir einig wären, [[stritten]] wir nicht.
 - Wenn ihr euch besser verstündet, [[strittet]] ihr nicht so oft.
-- Wenn sie ruhiger wären, [[stritten]] sie nicht um jede Kleinigkeit., [[schlichten]], [[einigen]], [[vertragen]], [[1 Präpositionen Übungen]], [[strittig]]
+- Wenn sie ruhiger wären, [[stritten]] sie nicht um jede Kleinigkeit., [[schlichten]], [[einigen]], [[vertragen]], [[1 Präpositionen Übungen]], [[strittig]], [[umstreiten]]

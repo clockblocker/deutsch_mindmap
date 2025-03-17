@@ -1,10 +1,9 @@
-😨  [[fürchten]], [ˈfʏʁçtn̩]
-[[fürchtete]]
-haben [[gefürchtet]]
+😨 [[fürchten]], [ˈfʏʁçtn̩](https://youglish.com/pronounce/fürchten/german) | [[fürchtete]], haben [[gefürchtet]]
 
 ---
 „Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
 
+[[Text mit Reflexivpronomen#^19|^]] Er sagte mir, dass er (25) früher in der Schule [[insbesondere]] vor den Lateinarbeiten [[gefürchtet]] hat. ^19
 
 *Alle warten auf das Licht*
 *[[Fürchtet]] euch, fürchtet euch nicht*  
@@ -15,30 +14,55 @@ haben [[gefürchtet]]
 ---
 [[befürchten]] - [[be]] = [[fürchten]] / to fear, to be afraid of
 
+---
+= [[befürchten]], [[sich ängstigen]], [[sich grauen]]
+≈ [[besorgen]], [[sorgen]], [[zittern]], [[bangen]]
+≠ [[vertrauen]], [[hoffen]], [[wagen]], [[vertragen]]
+
+---
+to fear
+бояться
+
+---
+[[Furcht]], [[furchtsam]], [[furchtbar]]
+
+---
+[[fürcht]]|[[en]]
 
 
 ---
-Synonyme: [[befürchten]], [[scheuen]], [[bangen]], [[sich ängstigen]], [[zittern]], [[zagen]]
-Antonyme: [[mutig sein]], [[furchtlos sein]], [[sich trauen]], [[unbesorgt sein]]
+###### [[fürchten]] jN
+- Was [[fürchtest]] du?
+- Die Dunkelheit.
+
+- Was [[fürchten]] wir?
+- Den Verlust.
+
+- Warum [[hat]] er den Tod [[gefürchtet]]?
+- Weil er Angst hatte.
 
 ---
-Übersetzung: to fear, to be afraid of
+###### [[fürchten]] *[[sich]]* `vor` jD
+- `Wovor` [[fürchtest]] du *[[dich]]*?
+- `Vor` Spinnen.
+
+- `Vor` wem [[hat]] sie *[[sich]]* [[gefürchtet]]?
+- `Vor` ihrem Chef.
+
+- Warum [[hat]] er *[[sich]]* `davor` [[gefürchtet]]?
+- Weil er unsicher war.
 
 ---
-Morpheme: [[fürch]][[ten]]
- #Verb #Untrennbar
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[fürcht]] / [[fürchte]], [[fürchtete]], [[fürchte]], [[fürchtete]], -
+du, [[fürchtest]], [[fürchtetest]], [[fürchtest]], [[fürchtetest]], [[fürcht]] / [[fürchte]]
+er, [[fürchtet]], [[fürchtete]], [[fürchte]], [[fürchtete]], -
+wir, [[fürchten]], [[fürchteten]], [[fürchten]], [[fürchteten]], [[fürchten]]
+ihr, [[fürchtet]], [[fürchtetet]], [[fürchtet]], [[fürchtetet]], [[fürchtet]]
+sie, [[fürchten]], [[fürchteten]], [[fürchten]], [[fürchteten]], [[fürchten]]
+
+*Zu + Inf*: zu [[fürchten]], *P2*: [[gefürchtet]]
+Adjektive: [[fürchtend]], [[fürchtender]], [[fürchtendst]]
 
 ---
-
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[fürchte]]          | [[fürchtete]]         | -                 | [[fürchte]]            | [[fürchtete]]           |
-| Du        | [[fürchtest]]        | [[fürchtetest]]       | [[fürchte]]       | [[fürchtest]]          | [[fürchtetest]]         |
-| Er/sie/es | [[fürchtet]]         | [[fürchtete]]         | -                 | [[fürchte]]            | [[fürchtete]]           |
-| Wir       | [[fürchten]]         | [[fürchteten]]        | -                 | [[fürchten]]           | [[fürchteten]]          |
-| Ihr       | [[fürchtet]]         | [[fürchtetet]]        | [[fürchtet]]      | [[fürchtet]]           | [[fürchtetet]]          |
-| Sie       | [[fürchten]]         | [[fürchteten]]        | [[fürchten Sie]]  | [[fürchten]]           | [[fürchteten]]          |
-
-Partizip I: [[fürchtend]], Partizip II: [[gefürchtet]]
-
-[[fürchten]] - no prefix/separable part
+[[fürchtender]], [[fürchtendes]], [[fürchtende]], [[fürchtenden]], [[fürchtendem]], [[fürchtenderer]], [[fürchtenderes]], [[fürchtendere]], [[fürchtenderen]], [[fürchtenderem]], [[fürchtendster]], [[fürchtendstes]], [[fürchtendste]], [[fürchtendsten]], [[fürchtendstem]]

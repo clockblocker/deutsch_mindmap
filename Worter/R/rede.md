@@ -1,2 +1,2 @@
 , [[Vortrag]], [[Redewendung]]
-, [[verabreden]]
+, [[verabreden]], [[Äußerung]]

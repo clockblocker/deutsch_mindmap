@@ -28,4 +28,4 @@ Morpheme:
 
 ---
 #Adverb, [[11 08]], [[obwohl]], [[echt]], [[wohlfühlen]], [[wohlgeformt]], [[s1 e1]], [[Anki]]
-, [[gut]], [[Wohlstand]], [[wohltätig]], [[Wohltätigkeit]]
+, [[gut]], [[Wohlstand]], [[wohltätig]], [[Wohltätigkeit]], [[Abtönungspartikeln]]

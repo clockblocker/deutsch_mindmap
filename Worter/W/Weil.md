@@ -7,4 +7,4 @@ SASCHA: Ja, [[Weil]] du in einem Museum arbeitest.
 
 because
 
-, [[Weile]], [[daß]], [[Nebensatz Conector]]
+, [[Weile]], [[daß]], [[Nebensatz Conector]], [[langweilen]], [[Konjunktoren]]

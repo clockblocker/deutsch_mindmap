@@ -34,4 +34,4 @@ Verwandte Wörter:
 [[noch]], [[oder]], [[nicht]], [[kein]]
 
 [[sowie]]
-, [[entweder]]
+, [[entweder]], [[Konjunktoren]]

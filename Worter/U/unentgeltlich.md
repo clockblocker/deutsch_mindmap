@@ -1,1 +1,1 @@
-, [[kostenlos]], [[finanziell]], [[ehrenamtlich]], [[unbezahlt]], [[geldlich]]
+, [[kostenlos]], [[finanziell]], [[ehrenamtlich]], [[unbezahlt]], [[geldlich]], [[umsonst]]

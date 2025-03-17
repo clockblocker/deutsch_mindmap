@@ -73,4 +73,4 @@ Tags:
 
 ---
 Morphems:
-[[hart]][[seidig]], [[schwer]], [[streng]], [[steif]], [[flüssigen]], [[zärtlich]], [[unerbittlich]]
+[[hart]][[seidig]], [[schwer]], [[streng]], [[steif]], [[flüssigen]], [[zärtlich]], [[unerbittlich]], [[sanft]]

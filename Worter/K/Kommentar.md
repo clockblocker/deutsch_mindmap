@@ -1,1 +1,1 @@
-, [[Meinungsäußerung]], [[Rezension]], [[Beitrag]]
+, [[Meinungsäußerung]], [[Rezension]], [[Beitrag]], [[Äußerung]]

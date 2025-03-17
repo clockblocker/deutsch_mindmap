@@ -1,1 +1,1 @@
-, [[Panik]], [[schrecken]]
+, [[Panik]], [[schrecken]], [[fürchten]]

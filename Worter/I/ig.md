@@ -5,4 +5,4 @@
 , [[zappelig]]
 , [[aufsässig]]
 , [[einig]]
-, [[beabsichtigen]], [[einmalig]], [[vernünftig]], [[dunkelhaarig]], [[ruppig]], [[vorrangig]], [[eindeutig]], [[gemeinnützig]], [[jeweilig]], [[strittig]], [[unzuverlässig]], [[Abhängigkeit]], [[wahnsinnig]]
+, [[beabsichtigen]], [[einmalig]], [[vernünftig]], [[dunkelhaarig]], [[ruppig]], [[vorrangig]], [[eindeutig]], [[gemeinnützig]], [[jeweilig]], [[strittig]], [[unzuverlässig]], [[Abhängigkeit]], [[wahnsinnig]], [[erkundigen]], [[verständigen]], [[nachhaltig]], [[damalige]]

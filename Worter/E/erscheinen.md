@@ -38,4 +38,4 @@ Partizip I: [[erscheinend]], Partizip II: [[erschienen]]
 [[erscheinen]] - [[er]] = [[scheinen]]
 
 [[untergehen]], [[aussehen]], [[aufgehen]], [[untertauchen]], [[verschwinden]], [[versinken]], [[auftauchten]], [[kommen]], [[wirken]]
-, [[scheinbar]], [[unscheinbar]], [[Vorschein]], [[Ankunft]]
+, [[scheinbar]], [[unscheinbar]], [[Vorschein]], [[Ankunft]], [[antreten]]

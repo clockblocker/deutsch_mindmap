@@ -30,4 +30,4 @@ N: [[heutiges]], [[heutigeres]], [[heutigstes]]
 P: [[heutigen]], [[heutigeren]], [[heutigsten]]  
 
 ---
-[[heute]], [[heutzutage]], [[Gegenwart]], [[zeitgenössisch]], [[aktuell]]
+[[heute]], [[heutzutage]], [[Gegenwart]], [[zeitgenössisch]], [[aktuell]], [[damalige]]

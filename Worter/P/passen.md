@@ -4,8 +4,9 @@
 [[aufpassen]]
  [[Ferienpass]], [[Reisepass]]
 
---
+---
 [[aufpassen]] - [[auf]] = [[passen]] / to pay attention, to watch out
+[[an]] + [[passen]] = [[anpassen]] // to adapt, to adjust
 
 ---
 = [[sich eignen]], [[zutreffen]], [[harmonieren]]

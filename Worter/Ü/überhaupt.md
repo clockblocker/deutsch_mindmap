@@ -45,4 +45,4 @@ Dieser Adverb [[überhaupt]] wird verwendet, um etwas allgemeingültig oder umfa
 Beispiele:
 - Hast du überhaupt etwas dagegen? (generell)
 - Ich mag Käse überhaupt nicht. (absolut)
-- Wir haben überhaupt keine Zeit mehr. (generell), [[Anki]]
+- Wir haben überhaupt keine Zeit mehr. (generell), [[Anki]], [[Konnektivpartikeln]]

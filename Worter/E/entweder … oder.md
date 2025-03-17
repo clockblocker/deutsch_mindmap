@@ -1,1 +1,1 @@
-, [[CONNECTOR]]
+, [[Konnektoren]]

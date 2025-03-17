@@ -1,1 +1,1 @@
-, [[Umweltprojekt]], [[Umwelt]]
+, [[Umweltprojekt]], [[Umwelt]], [[nachhaltig]], [[erneuerbar]]

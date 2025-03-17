@@ -1,1 +1,1 @@
-, [[garantiert]]
+, [[garantiert]], [[gewährleisten]]

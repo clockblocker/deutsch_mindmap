@@ -3,7 +3,7 @@
 ---
 Wir helfen dir dabei, - eine richtig gute Geschäftsidee zu entwickeln, mit der du dich von der Konkurrenz [[abhebst]], - eine [[gründliche]] Konkurrenzanalyse zu machen (um den Markt und deine [[Mitbewerber]] besser kennenzulernen), - einen [[vernünftigen]] Finanzplan zu erstellen, - und dein Produkt [[erfolgreich]] zu vermarkten – auch international.
 
-[[1#^4|(q)]] ==Für mich klingt es sehr [[vernünftig]],== so ein [[Ausleihsystem]] auch bei uns in Grünberg anzubieten. ^4
+[[Lektionen/Bekker/verben/1#^4|(q)]] ==Für mich klingt es sehr [[vernünftig]],== so ein [[Ausleihsystem]] auch bei uns in Grünberg anzubieten. ^4
 
 , [[lächerlich]], [[sinnvoll]], [[irre]], [[verrückt]]
 

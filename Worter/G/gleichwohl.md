@@ -1,1 +1,1 @@
-, [[obwohl]], [[trotzdem]], [[immerhin]], [[dennoch]], [[Conjunctions]], [[CONNECTOR]], [[desto]], [[jedenfalls]]
+, [[obwohl]], [[trotzdem]], [[immerhin]], [[dennoch]], [[Konjunktoren]], [[Konnektoren]], [[desto]], [[jedenfalls]], [[Konnektivpartikeln]]

@@ -1,1 +1,1 @@
-[[seidig]], [[unhöflich]], [[Spitze]], [[fein]], [[ruppig]]
+[[seidig]], [[unhöflich]], [[Spitze]], [[fein]], [[ruppig]], [[sanft]]

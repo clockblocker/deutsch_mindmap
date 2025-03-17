@@ -55,5 +55,5 @@ Morpheme:
 ---
 Einzigartige mögliche Formen: 
 [[sonst]]
-, [[sonst nichts]], [[s1 e1]], [[Kick]], [[Abenteuer 1]], [[langweilen]], [[klappen]], [[CONNECTOR]], [[Anki]]
-, [[sonstig]]
+, [[sonst nichts]], [[s1 e1]], [[Kick]], [[Abenteuer 1]], [[langweilen]], [[klappen]], [[Konnektoren]], [[Anki]]
+, [[sonstig]], [[umsonst]], [[Konnektivpartikeln]]

@@ -24,3 +24,44 @@ Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikation
 
 
 ˇ[[4 Autofrei#^1|^]] [[Heutzutage]] steht das Thema Autofreiheit der Innenstädte am [[Brennpunkt]] der Stadtpolitikdiskussionen [[überall]]. ^1
+
+[[Text mit Reflexivpronomen#^4|^]] [[Unter anderem]] muss ich (4) noch bequeme Laufschuhe kaufen. ^4
+
+außerdem -- moreover
+
+[[Text mit Reflexivpronomen#^19|^]] Er sagte mir, dass er (25) früher in der Schule [[insbesondere]] vor den Lateinarbeiten [[gefürchtet]] hat. ^19
+
+
+kulturelle, politische und wirtschaftliche [[Zusammenhänge]] 
+
+[[1 lesen StadtTours#^9|^]] Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
+
+
+m [[vielfältigen]] Angebot ist alles, was Spaß verspricht. 
+
+_[[In Anbetracht dessen]], dass er bald 70 wird, will er jetzt etwas kürzer treten._
+
+_Hilfe, war haben zuwenig Geld, schreien die Spitäler. Kanzler Klima hat [[angesichts dessen]] zum Ideenwettbewerb zur Stopfung der Finanzierungslöcher aufgerufen._
+
+_Mahlers Bekanntschaften und Freundesbeziehungen waren durchaus peripher in dem Sinne, dass zahlreiche dieser Personen heute kaum noch bekannt sind, [[dessen ungeachtet ]]sie zu ihrer Zeit jedoch von weitreichender Relevanz waren_
+
+_Im Eisenbahnerkonflikt blieben beide Parteien kompromisslos, ohne dass sich eine Lösung abzeichnete. [[Stattdessen]] häuften sich die politischen Erklärungen._
+
+_Dixieland bei der SPD. [[Trotzdem]]: die rechte Stimmung will nicht aufkommen._ (das blatt, Wochenzeitung, 20.3.1990, S. 3)
+
+_Reden Sie mit uns. **Sicherheitshalber**._
+_Talk to us. **Just to be sure**._
+
+
+
+• **auf der einen Seite … auf der anderen Seite …** → literally “on the one side … on the other side …” (more formal and explanatory)
+• **demgegenüber** → “in contrast to that” (often used as the second part of a contrast)
+• **hingegen** → “on the other hand” (more literary or academic)
+
+
+Die Bürgerinitiative *Baltitskije SOS* [war sofort zur Stelle, als] die Atompläne vor drei Jahren bekannt wurden.  
+
+
+*[[Alle uns zur Verfügung stehenden Analysen deuten darauf hin, dass]] die Kernenergie heute im polnischen Energiemix unverzichtbar ist, um die Energiesicherheit zu gewährleisten.* ^8
+
+Trotzdem [[bleibt das Thema politisch umstritten]]. 

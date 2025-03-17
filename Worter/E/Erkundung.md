@@ -1,1 +1,1 @@
-, [[suche]]
+, [[suche]], [[erkundigen]], [[Erkunden]]

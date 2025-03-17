@@ -1,1 +1,1 @@
-, [[während]], [[Conjunctions]]
+, [[während]], [[Konjunktoren]], [[Konnektivpartikeln]]

@@ -45,3 +45,6 @@ Adjektive: [[verringernd]], [[verringernder]], [[verringerndst]]
 
 ---
 [[verringernder]], [[verringerndes]], [[verringernde]], [[verringernden]], [[verringerndem]], [[verringernderer]], [[verringernderes]], [[verringerndere]], [[verringernderen]], [[verringernderem]], [[verringerndster]], [[verringerndstes]], [[verringerndste]], [[verringerndsten]], [[verringerndstem]]
+
+
+

@@ -24,4 +24,4 @@ G: der [[Nachteile]], der [[Nachteile]]
 D: den [[Nachteilen]], den [[Nachteilen]]  
 
 ---
-[[nachteilig]], [[benachteiligen]], [[Nachteil]], [[vorteilhaft]]
+[[nachteilig]], [[benachteiligen]], [[Nachteil]], [[vorteilhaft]], [[stärken]]

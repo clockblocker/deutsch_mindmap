@@ -1,1 +1,1 @@
-, [[verfeinden]], [[feinden]], [[Feind]]
+, [[verfeinden]], [[feinden]], [[Feind]], [[verträglich]]

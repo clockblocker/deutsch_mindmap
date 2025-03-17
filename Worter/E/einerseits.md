@@ -1,1 +1,1 @@
-, [[CONNECTOR]], [[entweder]]
+, [[Konnektoren]], [[entweder]], [[Konjunktoren]]

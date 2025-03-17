@@ -26,4 +26,4 @@ Feminine: [[verdächtige]], [[verdächtigere]], [[verdächtigste]]
 Neuter: [[verdächtiges]], [[verdächtigeres]], [[verdächtigstes]]  
 Plural: [[verdächtigen]], [[verdächtigeren]], [[verdächtigsten]]  
 
-[[Verdächtigung]], [[verdächtigen]], [[Verdacht]], [[verraten]], [[misstrauisch]]
+[[Verdächtigung]], [[verdächtigen]], [[Verdacht]], [[verraten]], [[misstrauisch]], [[rekordverdächtig]]

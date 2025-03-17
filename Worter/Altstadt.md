@@ -23,4 +23,4 @@ Genitive: der [[Altstadt]], der [[Altstädte]]
 Dative: der [[Altstadt]], den [[Altstädten]]  
 
 ---
-[[altstädtisch]]
+[[altstädtisch]], [[Äußerung]]

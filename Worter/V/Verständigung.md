@@ -1,1 +1,1 @@
-, [[Abkommen]]
+, [[Abkommen]], [[verständigen]]

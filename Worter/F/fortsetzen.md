@@ -1,2 +1,2 @@
 , [[unterbrechen]], [[weiterüben]], [[abbiegen]], [[kündigen]], [[weitermachen]], [[weitergehen]], [[beibehalten]], [[aufgeben]]
-, [[abbrechen]], [[auflegen]], [[andauern]]
+, [[abbrechen]], [[auflegen]], [[andauern]], [[umkehren]]

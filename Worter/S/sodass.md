@@ -21,4 +21,4 @@ Morpheme:
 [[so]] + [[dass]]
 
 ---
-, [[s1 e1]], [[daß]], [[passend]], [[1 Präpositionen Übungen]]
+, [[s1 e1]], [[daß]], [[passend]], [[1 Präpositionen Übungen]], [[Konjunktoren]]

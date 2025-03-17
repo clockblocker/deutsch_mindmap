@@ -1,10 +1,10 @@
-[[Für]] **den** freund
-[[Um]] **die** ecke
-[[Durch]] **den** park
-[[Gegen]] **die** wand
+[[Für]] **den** Freund
+[[Um]] **die** Ecke
+[[Durch]] **den** Park
+[[Gegen]] **die** Wand
 die straße [[Entlang]]
 [[Bis]] **den** Bahnhof
 [[Ohne]] **einen** Plan
 [[Wider]] **meine Erwartung**
 
-, [[durch]]
+

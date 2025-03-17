@@ -1,1 +1,1 @@
-, [[geeignet]], [[verheiratet]], [[verhaften]], [[meinetwillen]], [[Deinetwegen]]
+, [[geeignet]], [[verheiratet]], [[verhaften]], [[meinetwillen]], [[Deinetwegen]], [[ausgezeichnet]]

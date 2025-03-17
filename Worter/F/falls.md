@@ -26,4 +26,4 @@ Dative: dem [[Fall]], den [[Fällen]]
 [[fallen]], [[verfallen]], [[auffallen]], [[einfallen]]
 
 , [[ebenfalls]], [[soweit]]
-, [[jedenfalls]]
+, [[jedenfalls]], [[Konnektivpartikeln]], [[Konjunktoren]]

@@ -23,4 +23,4 @@ G: der [[Tür]], der [[Türen]]
 D: der [[Tür]], den [[Türen]]  
 
 ---
-[[Türgriff]], [[Türkette]], [[Türspion]], [[Türschloss]], [[Türklinke]], [[Türstopper]]
+[[Türgriff]], [[Türkette]], [[Türspion]], [[Türschloss]], [[Türklinke]], [[Türstopper]], [[Küchenfenster]]

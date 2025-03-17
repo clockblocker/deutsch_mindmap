@@ -37,4 +37,4 @@ PI: [[schweigend]], PII: [[geschwiegen]], Zu+inf: [[zuschweigen]]
 
 , [[geigen]], [[rufen]], [[besprechen]], [[klingen]]
 , [[Wortgefecht]]
-, [[brausen]], [[bellen]], [[Spruch]], [[summen]], [[pfeifen]]
+, [[brausen]], [[bellen]], [[Spruch]], [[summen]], [[pfeifen]], [[Äußerung]]

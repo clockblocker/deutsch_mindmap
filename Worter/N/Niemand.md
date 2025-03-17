@@ -24,4 +24,4 @@ Einzigartige mögliche Formen:
 [[Niemand]], [[Niemanden]], [[Niemandem]]
 
 
-[[Indefinitpronomen]], [[Je]]
+[[Indefinitpronomen]], [[Je]], [[Negationspartikel]]

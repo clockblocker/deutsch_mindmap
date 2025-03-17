@@ -1,1 +1,1 @@
-, [[pflegen]], [[Altersheim]]
+, [[pflegen]], [[Altersheim]], [[Pflege]]

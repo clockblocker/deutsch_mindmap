@@ -1,1 +1,1 @@
-, [[Jedoch]], [[Conjunctions]], [[CONNECTOR]]
+, [[Jedoch]], [[Konjunktoren]], [[Konnektoren]], [[Konnektivpartikeln]], [[Abtönungspartikeln]]

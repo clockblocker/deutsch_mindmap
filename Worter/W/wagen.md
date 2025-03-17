@@ -62,3 +62,4 @@ D: dem [[wagen]], den [[wagen]]
 , [[versuchen]]
 
 ---
+, [[fürchten]]

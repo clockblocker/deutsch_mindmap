@@ -1,1 +1,1 @@
-, [[Voraussetzung]]
+, [[Voraussetzung]], [[Konnektivpartikeln]]

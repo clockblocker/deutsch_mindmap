@@ -1,0 +1,1 @@
+, [[stärken]], [[lebendig]]

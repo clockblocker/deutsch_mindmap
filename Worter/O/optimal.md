@@ -1,2 +1,2 @@
 , [[bestens]]
-, [[gut]]
+, [[gut]], [[ausgezeichnet]]

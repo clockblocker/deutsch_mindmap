@@ -1,3 +1,3 @@
 [[untergehen]], [[anfangen]], [[angehen]], [[aufhören]], [[eröffnen]], [[aufgeben]]
 , [[fertigstellen]]
-, [[abbrechen]], [[auflegen]]
+, [[abbrechen]], [[auflegen]], [[antreten]], [[initiieren]]

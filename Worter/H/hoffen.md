@@ -30,4 +30,4 @@ PI: [[hoffend]], PII: [[gehofft]], Zu+inf: [[zu hoffen]]
 [[Hoffnung]], [[hoffentlich]], [[hoffnungsvoll]], [[hoffnungslos]], [[erhoffen]], [[verhoffen]]
 
 
-[[aufpassen]]
+[[aufpassen]], [[fürchten]]

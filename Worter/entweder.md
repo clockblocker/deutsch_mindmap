@@ -23,4 +23,4 @@ either, or
 [[ent]]|[[weder]]
 
 ---
-[[entweder-oder]], [[entweder ... oder]], [[Entweder-oder-Situation]]
+[[entweder-oder]], [[entweder ... oder]], [[Entweder-oder-Situation]], [[Konnektivpartikeln]], [[Konjunktoren]]

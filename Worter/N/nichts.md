@@ -4,4 +4,4 @@ nothing
 
 
 [[Indefinitpronomen]][[Niemand]], [[sonst nichts]], [[angehen]], [[Zahl]], [[Je]]
-, [[Angelegenheit]], [[Zeug]]
+, [[Angelegenheit]], [[Zeug]], [[Negationspartikel]]

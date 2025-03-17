@@ -1,1 +1,1 @@
-, [[sinnvoll]], [[Nützliches]], [[nutzlos]], [[unnötig]], [[Zeug]]
+, [[sinnvoll]], [[Nützliches]], [[nutzlos]], [[unnötig]], [[Zeug]], [[umsonst]]

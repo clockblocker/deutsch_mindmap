@@ -1,1 +1,1 @@
-, [[schaden]], [[verletzen]], [[Schädliches]]
+, [[schaden]], [[verletzen]], [[Schädliches]], [[stärken]]

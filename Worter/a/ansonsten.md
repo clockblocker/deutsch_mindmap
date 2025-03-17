@@ -1,4 +1,4 @@
-[[ansonsten]], [[CONNECTOR]]
+[[ansonsten]], [[Konnektoren]]
 
 ---
 „Es gibt ein Problem mit Martin“, sagt Frau Schulte, „er ist seit dem ersten Schultag mit einem Mitschüler [[verfeindet]]. Fast jeden Morgen [[beschimpfen]] und [[prügeln]] sie sich. Und [[ansonsten]] reden sie [[überhaupt]] nicht miteinander. Das stört die Atmosphäre in unserer Klasse!“
@@ -15,4 +15,4 @@ otherwise, else, in other respects
 
 ---
 [[sonst]], [[sonst]], [[stattdessen]]
-, [[sonstig]]
+, [[sonstig]], [[Konnektivpartikeln]]

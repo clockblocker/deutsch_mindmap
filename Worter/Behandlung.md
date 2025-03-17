@@ -27,4 +27,4 @@ G: der [[Behandlung]], der [[Behandlungen]]
 D: der [[Behandlung]], den [[Behandlungen]]  
 
 ---
-[[behandeln]], [[behandelbar]], [[Behandlungsmethode]], [[Behandlungsplan]], [[medizinisch]], [[Gleichbehandlung]], [[Ungleichbehandlung]], [[Vorbeugung]], [[Abstrich]]
+[[behandeln]], [[behandelbar]], [[Behandlungsmethode]], [[Behandlungsplan]], [[medizinisch]], [[Gleichbehandlung]], [[Ungleichbehandlung]], [[Vorbeugung]], [[Abstrich]], [[Umgang]]

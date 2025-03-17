@@ -2,7 +2,7 @@
 die [[Strecken]]
 
 ---
- [[1#^3|(q)]] Manche [[Strecke]]n in der Stadt sind zu Fuß ein bisschen zu weit, aber für eine Autofahrt eigentlich zu kurz. ^3
+ [[Lektionen/Bekker/verben/1#^3|(q)]] Manche [[Strecke]]n in der Stadt sind zu Fuß ein bisschen zu weit, aber für eine Autofahrt eigentlich zu kurz. ^3
 
 ---
 = [[Weg]], [[Distanz]], [[Route]]

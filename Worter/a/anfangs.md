@@ -1,2 +1,2 @@
-, [[erst]], [[zunächst]], [[CONNECTOR]], [[mittlerweile]], [[Anfang]]
-, [[allererst]]
+, [[erst]], [[zunächst]], [[Konnektoren]], [[mittlerweile]], [[Anfang]]
+, [[allererst]], [[Konnektivpartikeln]]

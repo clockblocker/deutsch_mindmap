@@ -28,4 +28,4 @@ D: der [[Quelle]], den [[Quellen]]
 
 ---
 [[quellen]], [[quellig]], [[quellbar]], [[Quellenangabe]], [[Quellcode]], [[Quellenforschung]]
-, [[s1 e1]]
+, [[s1 e1]], [[Energiequelle]]

@@ -27,4 +27,4 @@ Morpheme: [[vor]][[nimm]][[en]]
 | Sie | [[nehmen vor]] | [[nahmen vor]] | [[nehmen Sie vor]] | [[nehmen vor]] | [[nähmen vor]] |
 
 Partizip I: [[vornehmend]], Partizip II: [[vorgenommen]]
-[[vornehmen]] - [[vor]] = [[nehmen]]
+[[vornehmen]] - [[vor]] = [[nehmen]], [[antreten]]

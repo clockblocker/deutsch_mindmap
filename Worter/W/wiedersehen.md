@@ -5,6 +5,7 @@ haben [[wiedergesehen]]
 ---
 MARIA: Saschalein! Endlich [[wiedersehen|sehen]] wir uns [[wieder]]!  
 
+[[Text mit Reflexivpronomen#^24|^]] Er würde (30) auf ein [[Wiedersehen]] mit dir [[freuen]]. ^24
 
 ---
 Synonyme: [[treffen]], [[begegnen]], [[antreffen]], [[zusammenkommen]]

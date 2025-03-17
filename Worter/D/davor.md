@@ -1,4 +1,4 @@
-[[nachher]], [[hinterdrein]], [[zuvor]], [[inzwischen]], [[vorn]], [[da]], [[CONNECTOR]], [[Währenddessen]], [[vorhin]]
+[[nachher]], [[hinterdrein]], [[zuvor]], [[inzwischen]], [[vorn]], [[da]], [[Konnektoren]], [[Währenddessen]], [[vorhin]]
 👉 [[davor]], [daˈfoːɐ̯]
 
 ---

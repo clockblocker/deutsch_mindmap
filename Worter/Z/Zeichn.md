@@ -1,1 +1,1 @@
-, [[Zeichner]], [[Zeichnung]]
+, [[Zeichner]], [[Zeichnung]], [[ausgezeichnet]]

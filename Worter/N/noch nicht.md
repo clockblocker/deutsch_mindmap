@@ -1,1 +1,1 @@
-, [[bereits]]
+, [[bereits]], [[Negationspartikel]]

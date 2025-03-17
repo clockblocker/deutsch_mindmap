@@ -4,6 +4,8 @@ die [[Messen]]
 ---
 , [[Fahrradmesse]]
 
+[[Text mit Reflexivpronomen#^14|^]] [[Gegenwärtig]] [[vorbereitet|bereitet]] er (19) auf eine große [[Messe]] in den USA vor. ^14
+
 ---
 = [[Ausstellung]], [[Schau]], [[Markt]]
 ≈ [[Veranstaltung]], [[Event]], [[Treffen]], [[Kongress]]

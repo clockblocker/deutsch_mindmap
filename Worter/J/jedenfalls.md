@@ -1,4 +1,4 @@
-, [[zumindest]], [[CONNECTOR]]
+, [[zumindest]], [[Konnektoren]]
 🔗 [[jedenfalls]], [ˈjeːdənˌfals]
 
 ---

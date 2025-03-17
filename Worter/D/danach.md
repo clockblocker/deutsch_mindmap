@@ -1,32 +1,27 @@
+➡️ [[danach]], [daˈnaːx](https://youglish.com/pronounce/danach/german)
+
+---
 Ich mache Sport und [[danach]] trinke ich viel Wasser.
 
 Sicher hat der [[Einbrecher]] [[danach]] gesucht.
 
-Ein Haar in der Suppe? Das möchte doch niemand haben. Aber es gibt [[tatsächlich]] Menschen, die extra [[danach]] suchen. Und sie freuen sich, wenn sie ein Haar in der Suppe gefunden haben. Aber warum ist das so?
+Ein Haar in der Suppe? Das möchte doch niemand haben. Aber es gibt [[tatsächlich]] Menschen, die extra [[danach]] suchen. Und sie [[freuen]] sich, wenn sie ein Haar in der Suppe gefunden haben. Aber warum ist das so?
+
+[[Aschenputtel#^3|^]] Da kamen zum [[Küchenfenster]] zwei weiße [[Täubchen]] herein und danach die Turteltäubchen, und endlich schwirrten und schwärmten alle Vöglein unter dem Himmel herein und ließen sich um die Asche nieder. ^3
 
 ---
-
-Synonyme:
-- [[hinterher]], [[später]], [[anschließend]]
-
----
-
-Beispiele:
-
-- Zuerst essen wir, und [[danach]] gehen wir spazieren.
-- Sie hat die Unterlagen verloren und [[danach]] lange gesucht.
-- Er schaut sich den Film an und spricht [[danach]] darüber.
+= [[anschließend]], [[später]], [[folgend]]
+≈ [[darauf]], [[infolgedessen]], [[alsdann]]
+≠ [[davor]], [[zuvor]], [[vorher]]
 
 ---
-**Übersetzung**: after that, afterwards, for it
+after that, afterwards
+после этого
 
 ---
-
-Tags:
-#Adverb
+[[nach]]
 
 ---
+[[da]]|[[nach]]
 
-Morphems:
-[[Da]][[nach]][[nachher]], [[11 08]], [[hinterdrein]], [[seitdem]], [[bereits]], [[zuvor]], [[bevor]], [[da]], [[folgend]], [[vorhin]]
-, [[nachfolgend]]
+, [[Konnektivpartikeln]]

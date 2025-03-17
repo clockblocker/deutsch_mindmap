@@ -32,4 +32,4 @@ Partizip I: [[aufstellend]], Partizip II: [[aufgestellt]]
 
 [[aufstellen]] - [[auf]] = [[stellen]]
 
-[[setzen]], [[hinstellen]], [[legen]]
+[[setzen]], [[hinstellen]], [[legen]], [[antreten]]

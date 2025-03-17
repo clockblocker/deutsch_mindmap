@@ -30,4 +30,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Vertrags]], [[Verträge]], [[Verträgen]], [[Vertrag]]
 
 ---
-#Substantiv #Maskulin, [[vertragen]], [[Verpflichtung]]
+#Substantiv #Maskulin, [[vertragen]], [[Verpflichtung]], [[verträglich]]

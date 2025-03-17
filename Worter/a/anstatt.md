@@ -17,4 +17,4 @@ instead (of)
 
 ---
 [[statt]], [[an Stelle von]], [[stattdessen]], [[statt]]
-</ideal_output>, [[15 genetiv]], [[Gen Prap]]
+</ideal_output>, [[15 genetiv]], [[Gen Prap]], [[Konnektivpartikeln]], [[Konjunktoren]]

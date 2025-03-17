@@ -1,1 +1,1 @@
-, [[sonst]], [[fern]], [[obendrein]], [[zudem]]
+, [[sonst]], [[fern]], [[obendrein]], [[zudem]], [[Konnektivpartikeln]]

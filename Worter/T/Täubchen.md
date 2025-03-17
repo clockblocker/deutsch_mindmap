@@ -1,27 +1,27 @@
-![[Pasted image 20240704193617.png]]
-Singular: das [[Täub]][[chen]]
-Plural: die [[Täubchen]]
-
-Beispiele:
-Alle meine [[Täubchen]] 
-gurren auf dem Dach, 
+🕊️ 🟢 das [[Täubchen]], [ˈtɔɪ̯pçən](https://youglish.com/pronounce/Täubchen/german)
+die [[Täubchen]]
 
 ---
-Translation:
-little dove, pigeon
+[[Aschenputtel#^3|^]] Da kamen zum [[Küchenfenster]] zwei weiße [[Täubchen]] herein und [[danach]] die Turteltäubchen, und endlich schwirrten und schwärmten alle Vöglein unter dem Himmel herein und ließen sich um die Asche nieder. ^3
 
 ---
-
-#Substantiv
-#Neuter
+= [[kleine Taube]], [[Täublein]]
+≈ [[Vögelchen]], [[Schnäbelchen]]
+≠ [[Adler]], [[Geier]]
 
 ---
+little dove
+голубь
 
-Alle Formen:
+---
+[[Taube]]
 
-| Case        | Singular          | Plural           |
-|-------------|-------------------|------------------|
-| Nominative  | das Täubchen      | die Täubchen     |
-| Accusative  | das Täubchen      | die Täubchen     |
-| Dative      | dem Täubchen      | den Täubchen     |
-| Genitive    | des Täubchens     | der Täubchen     |
+---
+[[Taub]]|[[chen]]
+
+
+---
+N: das [[Täubchen]], die [[Täubchen]]  
+A: das [[Täubchen]], die [[Täubchen]]  
+G: des [[Täubchens]], der [[Täubchen]]  
+D: dem [[Täubchen]], den [[Täubchen]]

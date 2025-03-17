@@ -26,4 +26,4 @@ social
 Adjektive: [[sozial]], [[sozialer]], [[sozialste]]
 
 ---
-[[sozialer]], [[soziales]], [[soziale]], [[sozialen]], [[sozialem]], [[sozialerer]], [[sozialeres]], [[sozialere]], [[sozialeren]], [[sozialerem]], [[sozialsteer]], [[sozialstees]], [[sozialstee]], [[sozialsteen]], [[sozialsteem]], [[Sozial]], [[gemeinnützig]]
+[[sozialer]], [[soziales]], [[soziale]], [[sozialen]], [[sozialem]], [[sozialerer]], [[sozialeres]], [[sozialere]], [[sozialeren]], [[sozialerem]], [[sozialsteer]], [[sozialstees]], [[sozialstee]], [[sozialsteen]], [[sozialsteem]], [[Sozial]], [[gemeinnützig]], [[sozialverträglich]]

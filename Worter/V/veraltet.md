@@ -1,2 +1,2 @@
 , [[modern]], [[zeitgenössische]], [[heutig]], [[neu]]
-, [[althochdeutsch]]
+, [[althochdeutsch]], [[zeitgemäß]], [[überholt]]

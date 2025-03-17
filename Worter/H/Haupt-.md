@@ -1,1 +1,1 @@
-, [[Hauptursache]]
+, [[Hauptursache]], [[Hauptgrund]]
