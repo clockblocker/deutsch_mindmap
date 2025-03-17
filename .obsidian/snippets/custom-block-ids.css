@@ -1,0 +1,18 @@
+.cm-blockid {
+    color: var(--text-faint) !important;
+    opacity: 0.25 !important;
+    font-style: italic;
+    font-size: 8px !important;
+    top: -0.2em !important;
+}
+
+.cm-line:has(.cm-blockid) + .cm-line {
+    line-height: 8px;
+}
+
+/* select *[[...|...]]* */
+.cm-em.cm-hmd-internal-link.cm-link-alias {
+    opacity: 0.3;
+    /* remove italics */
+    font-style: normal;
+}
