@@ -1,1 +1,1 @@
-, [[anhören 1]], [[anhören]], [[entspannen]]
+, [[anhören]], [[anhören]], [[entspannen]]

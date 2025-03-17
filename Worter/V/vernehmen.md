@@ -1,2 +1,2 @@
-, [[anhören 1]], [[anhören]], [[erfahren]], [[zuhören]], [[hören]]
+, [[anhören]], [[anhören]], [[erfahren]], [[zuhören]], [[hören]]
 , [[mitbekommt]], [[vernünftig]]

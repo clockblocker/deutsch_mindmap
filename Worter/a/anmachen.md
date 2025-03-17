@@ -35,4 +35,4 @@ Morpheme: [[an]][[mach]][[en]]
 Partizip I: [[anmachend]], Partizip II: [[angemacht]]
 
 [[anmachen]] - [[an]] = [[machen]]
-'''
+''', [[abschalten]]

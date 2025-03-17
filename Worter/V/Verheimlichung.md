@@ -1,1 +1,1 @@
-, [[Verheimlichen]], [[Benachrichtigung]], [[Äußerung]]
+, [[Verheimlichen]], [[Benachrichtigung]], [[Äußerung]], [[Botschaft]]

@@ -1,2 +1,2 @@
 , [[Vorschau]]
-, [[Inserat]]
+, [[Inserat]], [[Botschaft]]

@@ -23,4 +23,4 @@ Einzigartige mögliche Formen:
 #Substantiv #Maskulin
 
 , [[Nationalmannschaft]], [[Gesellschaft]], [[Landschaft]]
-, [[Mitgliedschaft]], [[Wirtschaft]], [[Gewerkschaft]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]], [[Religionsgemeinschaft]], [[Eigenschaft]], [[Lernbereitschaft]], [[Risikobereitschaft]], [[Landwirtschaft]], [[Patenschaft]]
+, [[Mitgliedschaft]], [[Wirtschaft]], [[Gewerkschaft]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]], [[Religionsgemeinschaft]], [[Eigenschaft]], [[Lernbereitschaft]], [[Risikobereitschaft]], [[Landwirtschaft]], [[Patenschaft]], [[Botschaft]]

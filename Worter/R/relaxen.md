@@ -1,2 +1,2 @@
 , [[entspannen]]
-, [[erholen]]
+, [[erholen]], [[abschalten]]

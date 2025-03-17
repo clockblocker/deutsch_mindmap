@@ -29,4 +29,4 @@ Zu+infinitive: [[hochzufahren]]
 [[hochfahren]] - [[hoch]] = [[fahren]] / to start up, to boot (computer
 
 ---
-[[Hochfahren]], [[Systemstart]], [[Computerstart]], [[Bootvorgang]], [[Meldung]]
+[[Hochfahren]], [[Systemstart]], [[Computerstart]], [[Bootvorgang]], [[Meldung]], [[abschalten]]

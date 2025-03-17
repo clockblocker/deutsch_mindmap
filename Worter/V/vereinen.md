@@ -1,4 +1,3 @@
-
 🤝 [[vereinen]], [fɛɐ̯ˈaɪ̯nən] | [[vereinte]], haben [[vereint]]
 
 ---

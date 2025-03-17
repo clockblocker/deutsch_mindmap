@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "93ab45699152bffe",
+            "id": "ef79ebc93b5c2133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Botschaften.md",
+                "file": "Texte/c1/lern/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Botschaften"
+              "title": "1"
             }
           },
           {
-            "id": "55edcbf219278a81",
+            "id": "c8706d1c76d118fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/B/Botschaft.md",
+                "file": "Worter/A/abschalten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Botschaft"
+              "title": "abschalten"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ab1e072fc4dd144",
@@ -310,35 +311,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "55edcbf219278a81",
+  "active": "ef79ebc93b5c2133",
   "lastOpenFiles": [
-    "Worter/A/Ansprache.md",
-    "Worter/B/Botschaft.md",
-    "Worter/Botschaften.md",
     "Texte/c1/Umwelt/Atom.md",
-    "Texte/c1/lern/1.md",
-    "Texte/c1/Untitled 3.md",
+    "Worter/E/Entwicklung.md",
+    "Worter/Kohlekraftwerke.md",
+    "Worter/Kohlekraftwerk.md",
+    "Worter/A/abschalten.md",
+    "Worter/A/anhören.md",
+    "Worter/Z/zuhören.md",
+    "Worter/A/anhören 1.md",
+    "Worter/A/anmachen.md",
+    "Worter/A/abschaltendstem.md",
+    "Worter/A/abschaltendsten.md",
+    "Worter/A/abschaltendste.md",
+    "Worter/A/abschaltendstes.md",
+    "Worter/A/abschaltendster.md",
+    "Worter/A/abschaltenderem.md",
+    "Worter/A/abschaltenderen.md",
+    "Worter/A/abschaltendere.md",
+    "Worter/A/abschaltenderes.md",
+    "Worter/A/anschließen.md",
+    "Worter/A/abschaltenderer.md",
+    "Worter/A/abschaltendem.md",
+    "Worter/A/abschaltenden.md",
+    "Worter/A/abschaltende.md",
+    "Worter/A/abschaltendes.md",
+    "Worter/A/abschaltendst.md",
+    "Worter/A/abschaltender.md",
     "Texte/c1/lern",
-    "Worter/I/initiieren.md",
-    "Worter/Hochfahren.md",
-    "Worter/I/initiierendstem.md",
-    "Worter/I/initiierendsten.md",
-    "Worter/I/initiierendste.md",
-    "Worter/I/initiierendstes.md",
-    "Worter/I/initiierendster.md",
-    "Worter/I/initiierenderem.md",
-    "Worter/I/initiierenderen.md",
-    "Worter/I/initiierendere.md",
-    "Worter/I/initiierenderes.md",
-    "Worter/I/initiierenderer.md",
-    "Worter/I/initiierendem.md",
-    "Worter/I/initiierenden.md",
-    "Worter/I/initiierende.md",
-    "Worter/I/initiierendes.md",
-    "Worter/I/initiierendst.md",
-    "Worter/I/initiierender.md",
-    "Worter/I/initiierend.md",
-    "Worter/I/initiiertet.md",
     "Texte/c1/Umwelt",
     "Texte/c1/MOdel",
     "Worter/4",

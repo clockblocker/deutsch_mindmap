@@ -1,2 +1,2 @@
 [[Ruhe]], [[Ruh]], [[Angriffsgeschrei]], [[Schweige]], [[Unterhaltung]], [[Vortrag]]
-, [[Wortgefecht]], [[Spruch]], [[Wecker]]
+, [[Wortgefecht]], [[Spruch]], [[Wecker]], [[Botschaft]]

@@ -1,1 +1,1 @@
-[[teilen]], [[schneiden]], [[durchtrennen]]
+[[teilen]], [[schneiden]], [[durchtrennen]], [[spalten]]

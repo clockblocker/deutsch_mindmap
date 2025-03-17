@@ -30,6 +30,6 @@ Morpheme: [[an]][[hör]][[en]]
 | Sie | [[hören an]] | [[hörten an]] | [[hören Sie an]] | [[hören an]] | [[hörten an]] |
 
 Partizip I: [[anhörend 1]], Partizip II: [[angehört 1]]
-[[anhören 1]] - [[an]] = [[hören]] / выслушивать
+[[anhören]] - [[an]] = [[hören]] / выслушивать
 
 , [[angehören]]

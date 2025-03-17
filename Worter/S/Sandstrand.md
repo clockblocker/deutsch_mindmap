@@ -1,1 +1,1 @@
-[[Strand]]
+[[Strand]], [[Traumstrand]]

@@ -1,5 +1,21 @@
 https://www.youtube.com/watch?v=Zvz-hlE0LEA
 
+[[Atom#^25|^]] Polen hatte bereits in der Vergangenheit ein Atomkraftwerk sowjetischer Bauart geplant. ^25
+
+[[Atom#^26|^]] Doch nach Protesten und dem Ende der Sowjetunion 1990 wurde das Projekt aufgegeben – die Ruinen stehen noch immer. ^26
+
+
+ 
+[[Atom#^27|^]] Andere europäische Länder haben sich längst verabschiedet: Deutschland, Spanien. ^27
+
+[[Atom#^28|^]] Italien hingegen will nach 35 Jahren wieder einsteigen. ^28
+
+[[Atom#^29|^]] Polen und die Türkei sind die neuen Akteure auf dem europäischen Atommarkt. ^29
+
+
+
+
+
 ## Wie wäre es hier mit einem Atomkraftwerk?
 
 Direkt an der polnischen Ostsee, zwischen Wald, Dünen und Meer – ja, Polen macht ernst. [[Atom#^1|^]] Der Bauplatz ist [[gerodet]], die Arbeiten haben begonnen. ^1
@@ -29,19 +45,35 @@ Der [[Hauptgrund]]: Raus aus der Kohle
 
 [[Atom#^10|^]] Die [[damalige]] rechtspopulistische Regierung [[initiierte]] die Atompläne vor drei Jahren. 
 
-Heute distanziert sie sich und plakatiert Anti-Atom-[[Botschaften]] – sogar [[unweit]] der [[Baustelle]], am [[Traumstrand]] in der Kleinstadt Chodzewo. ^10
+[[Atom#^11|^]] Heute distanziert sie sich und plakatiert Anti-Atom-[[Botschaften]] – sogar [[unweit]] der [[Baustelle]], am [[Traumstrand]] in der Kleinstadt Chodzewo. ^10 ^11
 
-Die [[Stimmung]] dort? [[Gespalten]].  
+[[Atom#^12|^]] Die [[Stimmung]] dort? [[Gespalten]]. ^12
 
-> *Wenn sie die Kohlekraftwerke abschalten, womit werden wir dann heizen? Wir haben kleine Kinder, also sind wir dagegen.*  
+> [[Atom#^13|^]] *Wenn sie die [[Kohlekraftwerke]] [[abschalten]], womit werden wir dann heizen? Wir haben kleine Kinder, also sind wir [[dagegen]].* ^13
 
-> *Ich weiß nicht, ob das nicht für uns alle schädlich sein wird. Wir sollten uns auf die Entwicklung der Region konzentrieren und nicht auf banale Probleme.*
+
+> [[Atom#^14|^]] *Ich weiß nicht, ob das nicht für uns alle schädlich sein wird. Wir sollten uns auf die [[Entwicklung]] der Region konzentrieren und nicht auf banale Probleme.* ^14
 
 ### Ein zweiter Versuch
 
-Polen hatte bereits in der Vergangenheit ein Atomkraftwerk sowjetischer Bauart geplant. Doch nach Protesten und dem Ende der Sowjetunion 1990 wurde das Projekt aufgegeben – die Ruinen stehen noch immer.
+[[Atom#^20|^]] Polen hatte bereits in der Vergangenheit ein Atomkraftwerk sowjetischer Bauart geplant. ^20
 
-Andere europäische Länder haben sich längst verabschiedet: Deutschland, Spanien. Italien hingegen will nach 35 Jahren wieder einsteigen. Polen und die Türkei sind die neuen Akteure auf dem europäischen Atommarkt.
+[[Atom#^21|^]] Doch nach Protesten und dem Ende der Sowjetunion 1990 wurde das Projekt aufgegeben – die Ruinen stehen noch immer. ^21
+
+
+[[Atom#^22|^]] Andere europäische Länder haben sich längst verabschiedet: Deutschland, Spanien. ^22
+
+[[Atom#^23|^]] Italien hingegen will nach 35 Jahren wieder einsteigen. ^23
+
+[[Atom#^24|^]] Polen und die Türkei sind die neuen Akteure auf dem europäischen Atommarkt.
+
+das
+asd
+ads
+ad
+
+
+
 
 ### Die Wende der Meinung
 

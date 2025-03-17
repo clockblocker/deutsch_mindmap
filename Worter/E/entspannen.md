@@ -37,4 +37,4 @@ Partizip I: [[entspannend]], Partizip II: [[entspannt]]
 
 
 , [[wohlfühlen]], [[aufregen]], [[1 Präpositionen Übungen]], [[abhotten]]
-, [[aufbrausen]]
+, [[aufbrausen]], [[abschalten]]

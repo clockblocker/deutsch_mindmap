@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Strands]], [[Strande]], [[Strände]], [[Ständen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Traumstrand]]

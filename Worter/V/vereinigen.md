@@ -1,1 +1,1 @@
-, [[Wiedervereinigung]], [[vereinen]], [[Einigkeit]], [[gliedern]], [[durchtrennen]]
+, [[Wiedervereinigung]], [[vereinen]], [[Einigkeit]], [[gliedern]], [[durchtrennen]], [[spalten]]

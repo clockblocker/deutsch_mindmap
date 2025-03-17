@@ -1,1 +1,1 @@
-, [[Anleitung]], [[Deutung]], [[Angabe]], [[Behauptung]], [[Auslegung]], [[Aussage]], [[Abbildung]], [[Einführung]], [[Begründung]], [[Befragung]], [[Umfrage]], [[Äußerung]]
+, [[Anleitung]], [[Deutung]], [[Angabe]], [[Behauptung]], [[Auslegung]], [[Aussage]], [[Abbildung]], [[Einführung]], [[Begründung]], [[Befragung]], [[Umfrage]], [[Äußerung]], [[Botschaft]]

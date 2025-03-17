@@ -1,1 +1,1 @@
-, [[gesellen]], [[angehören]]
+, [[gesellen]], [[angehören]], [[spalten]]

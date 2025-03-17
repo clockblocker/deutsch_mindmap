@@ -1,1 +1,1 @@
-, [[loch]], [[Zeile]], [[Lücke]]
+, [[loch]], [[Zeile]], [[Lücke]], [[spalten]]

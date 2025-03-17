@@ -1,14 +1,12 @@
-[[Ansprache]], [[Benachrichtigung]], [[Inhalt]]
-
 ✉️ 🔴 die [[Botschaft]], [ˈboːtʃaft](https://youglish.com/pronounce/Botschaft/german)
 die [[Botschaften]]
 
 ---
-Heute distanziert sie sich und plakatiert Anti-Atom-[[Botschaften]] – sogar [[unweit]] der [[Baustelle]], am [[Traumstrand]] in der Kleinstadt Chodzewo. ^10
+[[Atom#^11|^]] Heute distanziert sie sich und plakatiert Anti-Atom-[[Botschaften]] – sogar [[unweit]] der [[Baustelle]], am [[Traumstrand]] in der Kleinstadt Chodzewo. ^10 ^11
 
 ---
 = [[Nachricht]], [[Mitteilung]], [[Erklärung]]
-≈ [[Information]], [[Bericht]], [[Ankündigung]], [[Aussage]]
+≈ [[Information]], [[Bericht]], [[Ankündigung]], [[Aussage]], [[Ansprache]], [[Benachrichtigung]], [[Inhalt]]
 ≠ [[Geheimnis]], [[Stille]], [[Verheimlichung]]
 
 ---

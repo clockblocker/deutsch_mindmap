@@ -26,4 +26,4 @@ Morphems:
 [[Geheim]][[nis]]
 
 ---
-#Substantiv #Neuter, [[Briefgeheimnis]], [[Vorschein]], [[geheimnisvolle]]
+#Substantiv #Neuter, [[Briefgeheimnis]], [[Vorschein]], [[geheimnisvolle]], [[Botschaft]]

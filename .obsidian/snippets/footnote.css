@@ -1,5 +1,6 @@
 .cm-blockid {
     color: var(--text-faint) !important;
+    opacity: 0.25 !important;
     font-style: italic;
     font-size: 8px !important;
     top: -0.2em !important;
@@ -12,4 +13,8 @@
     padding-right: 1px !important;
     border-width: 0px !important;
     background-color: rgb(255 0 0 / 33%) !important;
+}
+
+.cm-line:has(.cm-blockid) + .cm-line {
+    line-height: 8px;
 }

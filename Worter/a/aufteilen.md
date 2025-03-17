@@ -30,4 +30,4 @@ PI: [[aufteilend]], PII: [[aufgeteilt]], Zu+inf: [[aufzuteilen]]
 [[aufteilen]] - [[auf]] = [[teilen]] / to divide, to split up, to distribute
 
 ---
-[[Aufteilung]], [[Verteilung]], [[teilen]], [[Teilung]], [[Aufteilbar]], [[gliedern]]
+[[Aufteilung]], [[Verteilung]], [[teilen]], [[Teilung]], [[Aufteilbar]], [[gliedern]], [[spalten]]
