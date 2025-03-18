@@ -1,1 +1,1 @@
-, [[verhalten]]
+, [[verhalten]], [[Verhältnis]]

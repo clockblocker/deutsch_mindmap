@@ -1,5 +1,3 @@
-, [[Held]], [[Heiliger]], [[Mistkerl]]
-
 🟢 🧍 das [[Vorbild]], [ˈfoːɐ̯bɪlt]
 die [[Vorbilder]]
 
@@ -8,8 +6,8 @@ die [[Vorbilder]]
 
 ---
 = [[Ideal]], [[Muster]], [[Leitbild]]
-≈ [[Beispiel]], [[Inspiration]], [[Modell]], [[Vorbildfunktion]]
-≠ [[Gegenbeispiel]], [[Schreckbild]], [[Negativbeispiel]]
+≈ [[Beispiel]], [[Inspiration]], [[Modell]], [[Vorbildfunktion]], [[Held]], [[Heiliger]],
+≠ [[Gegenbeispiel]], [[Schreckbild]], [[Negativbeispiel]],  [[Mistkerl]]
 
 ---
 role model, example

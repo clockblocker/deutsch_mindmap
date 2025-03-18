@@ -3,7 +3,7 @@
 die [[Ungleichheiten]]
 
 ---
-[[Dativ]]: **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
+[[Dativ Verben]]: **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
 
 ---
 = [[Disparität]], [[Diskrepanz]], [[Unterschiedlichkeit]]

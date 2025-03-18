@@ -15,7 +15,7 @@ die [[Urteile]]
 judgment, verdict, ruling
 
 ---
-[[Ur]]|[[teil]]
+[[Ur]]|[[Worter/T/Teil]]
 
 ---
 N: das [[Urteil]], die [[Urteile]]  

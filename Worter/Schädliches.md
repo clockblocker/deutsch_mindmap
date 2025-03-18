@@ -1,7 +1,7 @@
 🚫 [[schädlich]], [ˈʃɛtlɪç] ≠ [[nützlich]]
 
 ---
-[[Dativ]]: Etwas [[Nützliches]], [[Schädliches]], [[Freudiges]], [[Schmerzliches]], [[Freundliches]]
+[[Dativ Verben]]: Etwas [[Nützliches]], [[Schädliches]], [[Freudiges]], [[Schmerzliches]], [[Freundliches]]
 
 ---
 = [[gefährlich]], [[nachteilig]], [[ungesund]]

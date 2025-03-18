@@ -27,3 +27,4 @@ P: [[guten]], [[besseren]], [[besten]]
 ---
 [[Güte]], [[gutartig]], [[gutmütig]], [[Gutmütigkeit]]
  [[am besten]], 
+, [[Saatgutsammler]]

@@ -8,14 +8,14 @@ Wo waren wir… also … die [[Metallteile]] einbauen …
 
 ---
 Synonyme:
-- [[Bauteil]], [[Komponente]], [[Element]], [[Teil]]
+- [[Bauteil]], [[Komponente]], [[Element]], [[Worter/T/Teil]]
 
 ---
 Übersetzung: metal part
 
 ---
 Morpheme:
-[[Metall]][[teil]]
+[[Metall]][[Worter/T/Teil]]
 
 ---
 Einzigartige mögliche Formen: [[Metallteils]], [[Metallteilen]], [[Metallteilen]]

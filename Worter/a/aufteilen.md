@@ -15,7 +15,7 @@
 to divide, to split up, to distribute
 
 ---
-[[auf]]|[[teil]]|[[en]]
+[[auf]]|[[Worter/T/Teil]]|[[en]]
 
 ---
 ich: [[teile auf]], [[teilte auf]], –, [[teile auf]], [[teilte auf]]

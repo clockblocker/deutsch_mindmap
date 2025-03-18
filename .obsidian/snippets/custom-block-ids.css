@@ -7,12 +7,16 @@
 }
 
 .cm-line:has(.cm-blockid) + .cm-line {
-    line-height: 8px;
+    /* visibly remove 1 \n after a block */
+    line-height: 0px;
 }
 
 /* select *[[...|...]]* */
 .cm-em.cm-hmd-internal-link.cm-link-alias {
     opacity: 0.3;
+
+    /* move ^ left from the content */
+    margin-left: -14px;
     /* remove italics */
     font-style: normal;
 }

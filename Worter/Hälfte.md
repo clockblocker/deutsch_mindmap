@@ -8,7 +8,7 @@ Leider hatte sie nicht mit der [[Finanzkrise]] [[gerechnet]]. [[Innerhalb]] von 
 
 ---
 Synonyme:
-- [[Mittelpunkt]], [[Mitte]], [[Teil]], [[Portion]], [[Hälften]]
+- [[Mittelpunkt]], [[Mitte]], [[Worter/T/Teil]], [[Portion]], [[Hälften]]
 
 ---
 half

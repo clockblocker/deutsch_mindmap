@@ -13,10 +13,10 @@ partly, partially
 частично
 
 ---
-[[Teil]], [[weise]], [[teilen]], [[teilnehmen]]
+[[Worter/T/Teil]], [[weise]], [[teilen]], [[teilnehmen]]
 
 ---
-[[teil]]|[[weis]]|[[e]]
+[[Worter/T/Teil]]|[[weis]]|[[e]]
 [[teilweise]]
 
 

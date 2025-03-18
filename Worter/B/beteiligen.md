@@ -21,7 +21,7 @@ Antonyme: [[ausschließen]], [[ignorieren]], [[fernbleiben]]
 Übersetzung: to participate, to be involved
 
 ---
-Morpheme: [[be]][[teil]][[ig]][[en]]
+Morpheme: [[be]][[Worter/T/Teil]][[ig]][[en]]
  #Verb  #Untrennbar
 
 ---

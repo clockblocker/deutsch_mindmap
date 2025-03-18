@@ -1,4 +1,3 @@
-[[fach]]
 🔵 🎒 der [[Fächer]], [ˈfɛçɐ]
 die [[Fächer]]
 
@@ -15,7 +14,7 @@ die [[Fächer]]
 ≠ [[Starres Objekt]], [[Heizung]], [[Klimaanlage]]
 
 ---
-fan, folding fan
+subject, fan, folding fan
 
 ---
 [[Fäch]]|[[er]]

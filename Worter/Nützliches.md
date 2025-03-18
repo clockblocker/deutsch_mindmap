@@ -2,7 +2,7 @@
 nicht [[unnütz]]
 
 ---
-[[Dativ]]: Etwas [[Nützliches]], [[Schädliches]], [[Freudiges]], [[Schmerzliches]], [[Freundliches]]
+[[Dativ Verben]]: Etwas [[Nützliches]], [[Schädliches]], [[Freudiges]], [[Schmerzliches]], [[Freundliches]]
 
 ---
 = [[brauchbar]], [[dienlich]], [[zweckmäßig]]

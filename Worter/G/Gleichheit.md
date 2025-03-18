@@ -2,7 +2,7 @@
 die [[Gleichheiten]]
 
 ---
-[[Dativ]]: **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
+[[Dativ Verben]]: **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
 
 ---
 = [[Gleichstellung]], [[Parität]], [[Gerechtigkeit]]

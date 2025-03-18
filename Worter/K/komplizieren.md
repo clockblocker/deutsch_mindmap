@@ -1,1 +1,1 @@
-, [[erleichtern]], [[leichtern]]
+, [[erleichtern]], [[leichtern]], [[komplex]]

@@ -51,4 +51,4 @@ against it, on the contrary, in contrast
 
 ---
 [[Widerspruch]], [[konträr]], [[entgegengesetzt]], [[Opposition]]
-</ideal_output>, [[Anki]], [[Konnektivpartikeln]], [[Konjunktoren]]
+</ideal_output>, [[Anki]], [[Konnektivpartikeln]], [[Konjunktoren]], [[wiederum]]

@@ -8,7 +8,7 @@ Beispiele:
 
 Synonyme:
 - [[Episode]]
-- [[Teil]]
+- [[Worter/T/Teil]]
 - [[Kapitel]]
 
 ---

@@ -1,1 +1,1 @@
-, [[weit]], [[gründlich]], [[gesamt]], [[begrenzt]], [[allgemein]], [[lediglich]]
+, [[weit]], [[gründlich]], [[gesamt]], [[begrenzt]], [[allgemein]], [[lediglich]], [[umfangreich]]

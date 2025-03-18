@@ -1,2 +1,2 @@
 🔵 das [[Geheimnis]]
-, [[Ergebnis]], [[Erlaubnis]], [[Rechercheergbenis]], [[Gefängnis]], [[Gaststättenerlaubnis]], [[Zwischenergebnis]], [[Wahlerlaubnis]], [[Einverständnis]], [[geheimnisvolle]], [[Erlebnis]], [[Bedürfnis]], [[bedürfnisorientiert]]
+, [[Ergebnis]], [[Erlaubnis]], [[Rechercheergbenis]], [[Gefängnis]], [[Gaststättenerlaubnis]], [[Zwischenergebnis]], [[Wahlerlaubnis]], [[Einverständnis]], [[geheimnisvolle]], [[Erlebnis]], [[Bedürfnis]], [[bedürfnisorientiert]], [[Verhältnis]]

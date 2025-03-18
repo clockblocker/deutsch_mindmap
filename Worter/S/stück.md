@@ -7,7 +7,7 @@ Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bü
 [[Privatgrundstück]]
 
 ---
-= [[Teil]], [[Abschnitt]], [[Portion]]
+= [[Worter/T/Teil]], [[Abschnitt]], [[Portion]]
 ≈ [[Fragment]], [[Bruchstück]], [[Ausschnitt]]
 ≠ [[Ganzes]], [[Komplett]], [[Vollständigkeit]]
 

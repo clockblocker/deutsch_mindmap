@@ -1,1 +1,1 @@
-, [[Wecker]], [[Entwarnung]]
+, [[Wecker]], [[Entwarnung]], [[Klingelbeil]]

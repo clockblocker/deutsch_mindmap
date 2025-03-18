@@ -1,5 +1,5 @@
 das [[thema]]  
-die [[Themen]]
+die [[Texte/c1/schriben/Themen]]
 
 ---
 

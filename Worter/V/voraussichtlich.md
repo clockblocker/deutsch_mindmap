@@ -38,4 +38,4 @@ Tags:
 
 ---
 Morphems:
-[[vor]][[aus]][[sichtlich]], [[hoffentlich]]
+[[vor]][[aus]][[sichtlich]], [[hoffentlich]], [[erwartungsgemäß]]

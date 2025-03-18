@@ -3,6 +3,9 @@
 ---
 *[[Atom#^9|^]]* Trotzdem bleibt das Thema politisch [[umstritten]]. ^9
 
+*[[Golfstorm#^16|^]]* [[Umstritten]] ist jedoch, wie stark – und wie schnell sich das beim Wetter und Klima in Europa [[bemerkbar]] macht. ^16
+
+
 ---
 = [[kontrovers diskutieren]], [[anzweifeln]], [[bestreiten]]
 ≈ [[debattieren]], [[diskutieren]], [[streiten]], [[bezweifeln]]

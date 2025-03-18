@@ -2,7 +2,7 @@
 die [[Annäherungen]]
 
 ---
-[[Dativ]] 2. **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
+[[Dativ Verben]] 2. **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
 
 
 ---

@@ -1,7 +1,7 @@
 🎉 [[Freudiges]], [ˈfrɔɪ̯dɪgəs]
 
 ---
-[[Dativ]]: Etwas [[Nützliches]], [[Schädliches]], [[Freudiges]], [[Schmerzliches]], [[Freundliches]]
+[[Dativ Verben]]: Etwas [[Nützliches]], [[Schädliches]], [[Freudiges]], [[Schmerzliches]], [[Freundliches]]
 
 ---
 = [[Fröhliches]], [[Erfreuliches]], [[Positives]]

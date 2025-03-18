@@ -13,7 +13,7 @@ die [[Abteilungen]]
 department, division, section
 
 ---
-[[Ab]][[teil]][[ung]]
+[[Ab]][[Worter/T/Teil]][[ung]]
 
 ---
 N: die [[Abteilung]], die [[Abteilungen]]  

@@ -1,2 +1,2 @@
 , [[zunächst]], [[zudem]]
-, [[allererst]], [[Konnektivpartikeln]]
+, [[allererst]], [[Konnektivpartikeln]], [[wiederum]]

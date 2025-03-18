@@ -32,4 +32,4 @@ Morpheme: [[kling]][[en]]
 
 Partizip I: [[klingend]], Partizip II: [[geklungen]]
 
-, [[lauten]]
+, [[lauten]], [[Klingelbeil]]

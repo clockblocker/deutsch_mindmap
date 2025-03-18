@@ -34,4 +34,4 @@ Tags:
 
 Morphems:
 [[stürm]][[isch]][[windig]], [[stürmen]], [[vorstürmen]], [[zustürmen]]
-, [[ungestüm]], [[unbändig]]
+, [[ungestüm]], [[unbändig]], [[Wirbelsturm]]

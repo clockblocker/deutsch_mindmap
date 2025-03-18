@@ -1,2 +1,2 @@
 , [[weit]], [[verkürzt]]
-, [[lang]]
+, [[lang]], [[umfangreich]]

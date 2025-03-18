@@ -1,1 +1,1 @@
-, [[Wecker]]
+, [[Wecker]], [[Klingelbeil]]

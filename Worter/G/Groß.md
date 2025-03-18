@@ -61,4 +61,4 @@ big, large
 
 Tags: 
 #Adjective [[Groß]], [[großartig]], [[gering]], [[Großschreibung]], [[speziell]]
-, [[viel]], [[Großleinwand]], [[klein]], [[Großtat]]
+, [[viel]], [[Großleinwand]], [[klein]], [[Großtat]], [[umfangreich]]

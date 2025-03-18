@@ -1,4 +1,4 @@
-Singular: der [[Teil]]
+Singular: der [[Worter/N/Nomen/Teil]]
 Plural: die [[Teile]]
 
 

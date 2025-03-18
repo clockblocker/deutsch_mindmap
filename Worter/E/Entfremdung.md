@@ -1,2 +1,2 @@
 
-, [[Beziehung]]
+, [[Beziehung]], [[Verhältnis]]

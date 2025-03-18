@@ -1,12 +1,21 @@
 Mein Name ist Denis Popov. Ich bin 1997 in der Stadt Nachodka, Region Primorje, Russland, geboren. Ich habe eine vollständige Familie: Mutter, Vater und Schwester (acht Jahre jünger  ich).
 
-[[1 Wer bin ich und was mache ich hier?#^1|(q)]] Von der Schule an interessierte ich mich für Mathematik, Informatik und Linguistik. Das waren die [[Hauptbereiche]] meines Interesses, abgesehen von Büchern und Computerspielen. ^1
+
+[[1 Wer bin ich und was mache ich hier?#^1|(q)]] Von der Schule an interessierte ich mich für Mathematik, Informatik und Linguistik. Das waren die Hauptbereiche meines Interesses, abgesehen von Büchern und Computerspielen. 
+^1
 
 [[1 Wer bin ich und was mache ich hier?#^2|(q)]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]. ^2
 
 Ich habe ab dem zweiten Studienjahr gearbeitet, zuerst in lokalen IT-Unternehmen in Samara und dann in einer [[Analogie]] von Google - dem Unternehmen Yandex in St. Petersburg.
 
-Nach dem Studium bin ich nach Moskau gezogen, wo ich bei der Deutschen Bank zu arbeiten begann.
+Nach dem Studium bin ich nach Moskau gezogen wo ich bei die Deutsche Bank zu arbeiten begann.
+###### Issues:
+1) ==der== Bank: "bei" + Dat.
+2) ==Deutsche== Bank: Proper Nouns are undeclined
+3) gezogen==,== wo: wo instoduces subordinate clause
+
+###### Correction
+Nach dem Studium bin ich nach Moskau gezogen==,== wo ich bei ==der== ==Deutsche== Bank zu arbeiten begann.
 
 [[1 Wer bin ich und was mache ich hier?#^3|(q)]] Nach meinem Umzug nach Moskau lernte ich in einer speziellen App, die über Bekannte [[verbreitet]] wurde, meine [[zukünftige]] Frau kennen. Wir begannen, zusammenzuleben. ^3
 
@@ -42,6 +51,15 @@ Ich mag sehr, was ich in den letzten sechs Monaten mache, und ich denke, ich kan
 
 ---
 
+<user_input>Von die Schule an interessierte ich mich fur Mathematik, Informatik und Linguistik. Das waren die Hauptberieche meines Interesse, помимо von Литературы und Computerspielen.</user_input>
+
+<agent_output>###### Correction
+Von ==der== Schule an interessierte ich mich f==ü==r Mathematik, Informatik und Linguistik.  
+Das waren die Hauptber==ei==che meines Interess==es==, `neben` ~~von~~ `Literatur` und Computerspielen.
+
+###### Suggested Alternative
+Schon in der Schulzeit interessierte ich mich für Mathematik, Informatik und Linguistik.  
+Diese Fächer waren die Hauptbereiche meines Interesses, neben Literatur und Computerspielen.</agent_output>
 
 Меня зовут Денис Попов.
 
@@ -109,3 +127,19 @@ There is a possibility ==of the== disaster
 [[vorstellen]]
 
 
+Meine Bekannten, die sich mit deutscher Politik auskennen, sagen, dass die Wahrscheinlichkeit einer Aufhebung des Gesetzes über die doppelte Staatsbürgerschaft groß ist.
+
+
+Meine Bekannten, die euch mit deutsche Politik auskennen, sagen, das die Wahrscheinlichkeit einer Aufhebung des Gesetzes über die doppelte Staatsbürgerschaft groß sind.
+###### Issues:
+1) ==euch==: "sich auskennen mit" requires Dat.
+2) deutsche==r==: mit + Dat. Die Politik ist feminin 
+3) da==ss==: typo
+4) gross ==ist==: "Wahrscheinlichkeit" is singular
+
+###### Correction
+Meine Bekannten, die ==sich== mit deutsche==r== Politik auskennen, sagen, da==ss== die Wahrscheinlichkeit einer Aufhebung des Gesetzes über die doppelte Staatsbürgerschaft gross ==ist==.
+
+[[sich]]
+
+[[Worter/T/Teil]]

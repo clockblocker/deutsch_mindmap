@@ -1,1 +1,1 @@
-, [[Bezug]], [[Zusammenhang]]
+, [[Bezug]], [[Zusammenhang]], [[Verhältnis]]

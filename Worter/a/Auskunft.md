@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Auskunft]], [[Auskunfts]], [[Auskunfte]], [[Auskünften]]
 
 ---
-#Substantiv #Feminin, [[auskennen]], [[Angabe]]
+#Substantiv #Feminin, [[auskennen]], [[Angabe]], [[Erklärung]]

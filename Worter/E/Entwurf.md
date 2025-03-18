@@ -28,3 +28,4 @@ A: den [[Entwurf]], die [[Entwürfe]]
 G: des [[Entwurfs]], der [[Entwürfe]]  
 D: dem [[Entwurf]], den [[Entwürfen]]
 
+, [[Modellierung]]

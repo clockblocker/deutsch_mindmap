@@ -32,4 +32,4 @@ Morpheme: [[wieder]][[seh]][[en]]
 
 Partizip I: [[wiedersehend]], Partizip II: [[wiedergesehen]]
 
-[[wiedersehen]] - [[wieder]] = [[sehen]], [[Abschied]]
+[[wiedersehen]] - [[wieder]] = [[sehen]], [[Abschied]], [[wiederum]]

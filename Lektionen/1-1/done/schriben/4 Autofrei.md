@@ -1,15 +1,8 @@
 *In einem soziologischen Seminar zur Stadtplanung sollen Sie sich in einer schriftlichen Hausaufgabe mit der Frage [[auseinandersetzen]], ob [[Innenstädte]] zukünftig völlig autofrei sein sollen.*
 
 
-
-Well-structured, but with room for improvement. Arguments need to be more precise, language more elegant. You're on a good path, but not yet at C1 level. Do you want to revise it again?
-
-
-
 Heutzutage steht das Thema Autofreiheit der Innenstädte am m zentrum der Debatte über Stadtpolitik überall.
 
-
-Heutzutage steht das Thema Autofreiheit der Innenstädte am Brennpunkt der Stadtpolitikdiskussionen überall.
 
 Die Punkte, die Pro-Autofreiheit-Gruppen normalerweise öffentlich präsentieren, lassen sich in zwei Teile [[gliedern]]: 
 1) "Die Gesundheit der Burger", 
@@ -37,8 +30,41 @@ Kanalisation? Elektrizität?
 Es sind alles wichtige und richtige Fragen, die die Stadt beantworten muss, bevor sie sich autofrei macht.
 
 
+Viele Bürger haben sich ausschliesslich mit Autos zu ihren Arbeitsplätzen oder zur Schule ihrer Kinder gewöhnt.
 
+Viele Bürger haben sich ==daran== **gewöhnt**, ~~ausschließlich~~`nur noch` mit Autos zu ihren Arbeitsplätzen oder zur Schule ihrer Kinder ==zu fahren==.
 
+---
+<user_input>Die wirtschaftlichen Argumente bestehen aus vielen Teilen. Zuerst ist es einfach wirklich teuer, ein Motor pro Person zu haben, verglichen mit einem Motor pro 100 Personen, die die Stadt mit  offentlichen Transport erriehen konnen.</user_input>
+
+<agent_output>###### Correction
+Die wirtschaftlichen Argumente bestehen aus vielen Teilen.  
+Zuerst ist es einfach wirklich teuer, ==einen== Motor pro Person zu haben, verglichen mit ==einem== Motor pro 100 Personen, die die Stadt mit ==ö==ffentlichen `Verkehrsmitteln` ==erreichen== k==ö==nnen.
+
+###### Suggested Alternative
+Die wirtschaftlichen Argumente sind vielfältig. Zunächst ist es schlichtweg teuer, wenn jede Person einen eigenen Motor hat, verglichen mit einem Motor für 100 Personen, die die Stadt mit öffentlichen Verkehrsmitteln erreichen können.</agent_output>
+
+---
+<user_input>Viele Bürger haben sich ausschließlich mit Autos zu ihren Arbeitsplätzen oder zur Schule ihrer Kinder gewöhnt.</user_input>
+
+<agent_output>###### Correction
+Viele Bürger haben sich ==daran== gewöhnt, ~~ausschließlich~~`nur noch` mit Autos zu ihren Arbeitsplätzen oder zur Schule ihrer Kinder ==zu fahren==.
+
+###### Suggested Alternative
+Viele Bürger sind es gewohnt, nur noch mit dem Auto zur Arbeit oder zur Schule ihrer Kinder zu fahren.</agent_output>
+
+---
+
+<user_input>Heutzutage steht das Thema Autofreiheit der Innenstadte am Brennpunkt der Stadtpolitikdiskussionen überall.</user_input>
+
+<agent_output>###### Correction
+Heutzutage steht das Thema **Autofreiheit** der Innenst==ä==dte am Brennpunkt der `stadtpolitischen` `Diskussionen` überall `in der Welt`
+
+###### Suggested Alternative
+Heutzutage ist das Thema autofreie Innenstädte ein zentraler Punkt in den stadtpolitischen Diskussionen überall in der Welt.</agent_output>
+
+---
+*[[4 Autofrei#^18|^]]* Es sind alles wichtige und richtige Fragen, die die Stadt beantworten mus, bevor sie sich autofrei macht.
 
 
 ---

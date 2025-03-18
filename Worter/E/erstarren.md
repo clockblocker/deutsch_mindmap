@@ -1,2 +1,2 @@
 , [[frieren]], [[zappeln]], [[zufrieren]], [[zucken]]
-, [[verstummen]]
+, [[verstummen]], [[schmelzen]]

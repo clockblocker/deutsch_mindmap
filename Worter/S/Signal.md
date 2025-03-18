@@ -1,1 +1,1 @@
-, [[Zeichen]], [[Leuchtrakete]]
+, [[Zeichen]], [[Leuchtrakete]], [[Klingelbeil]]

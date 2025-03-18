@@ -1,1 +1,1 @@
-[[Überraschen]], [[erstaunlich]]
+[[Überraschen]], [[erstaunlich]], [[erwartungsgemäß]]

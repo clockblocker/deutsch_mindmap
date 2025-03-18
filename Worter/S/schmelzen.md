@@ -1,71 +1,51 @@
-❄️ [[schmelzen]]
-[[schmolz]]
-haben [[geschmolzen]]
+🧊 [[schmelzen]], [ˈʃmɛltsn̩](https://youglish.com/pronounce/schmelzen/german) | [[schmolz]], sind [[geschmolzen]]
 
 ---
+*[[Golfstorm#^14|^]]* Denn der Atlantik erwärmt sich und in den nördlichen Regionen [[schmilzt]] das Eis. ^14
+
 Schokolade so seidig, da [[schmilzt]] das Herz jeder schönen Frau.
 CHARLOTTE: … über heißem Wasser [[schmelzen]] lassen …  
-Schokolade so seidig, da [[schmilzt]] das Herz jeder schönen Frau Bist du bereit?  
+Schokolade so seidig, da [[schmilzt]] das Herz jeder schönen Frau Bist du bereit?
 
 ---
-
-Synonyme:
-- [[zergehen]], [[flüssig werden]], [[auftauen]]
-
----
-
-Beispiele:
-
-- Der Schnee [[schmilzt]] in der Sonne.
-- Die Schokolade [[schmilzt]] in der Hitze.
-- Das Eis [[schmilzt]] langsam.
+= [[tauen]], [[verflüssigen]]
+≈ [[aufgehen]], [[zergehen]], [[fließen]], [[schmelzend]]
+≠ [[gefrieren]], [[erstarren]], [[festigen]], [[frieren]]
 
 ---
-**Übersetzung**: melts, is melting
+to melt
+таять, плавиться
 
 ---
-
-Morphems of only infinitive:
-[[Schmelz]][[en]]
+[[Schmelze]], [[Schmelzung]], [[schmelzbar]], [[Schmelzpunkt]]
 
 ---
-Tags:
-#Verb #Unregelmäßige
+[[schmelz]]|[[en]]
+[[schmelzen]]
+
 
 ---
+###### [[schmelzen]]
+- Was [[schmilzt]]?
+- Das Eis.
 
-Präteritum:
+- Warum [[schmilzt]] es?
+- Wegen der Hitze.
 
-- Der Schnee [[schmolz]] schnell.
-- Die Butter [[schmolz]] in der Pfanne.
-- Das Eis [[schmolz]] in wenigen Minuten.
-
----
-
-Imperativ:
-
-- [[Schmelz]] die Butter!
-- [[Schmelzt]] die Schokolade langsam!
-- [[Schmelzen wir]] den Käse!
+- Wie lange [[ist]] das Eis schon [[geschmolzen]]?
+- Seit dem Morgen.
 
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[schmelz]] / [[schmelze]], [[schmolz]], [[schmelze]], [[schmolze]], -
+du, [[schmilzt]], [[schmolzst]], [[schmilzest]], [[schmolzest]], [[schmelz]] / [[schmelze]]
+er, [[schmilzt]], [[schmolz]], [[schmelze]], [[schmolze]], -
+wir, [[schmelzen]], [[schmolzen]], [[schmelzen]], [[schmolzen]], [[schmelzen]]
+ihr, [[schmilzt]], [[schmolzt]], [[schmelzet]], [[schmolzet]], [[schmilzt]]
+sie, [[schmelzen]], [[schmolzen]], [[schmelzen]], [[schmolzen]], [[schmelzen]]
 
-Konjunktiv I:
-
-- Er sagt, ich [[schmelze]] schnell.
-- Sie meint, du [[schmilzest]] in der Sonne.
-- Er behauptet, er [[schmelze]] wie Eis.
-- Wir erklären, wir [[schmelzen]] unter Hitze.
-- Ihr sagt, ihr [[schmelzet]] bei warmem Wetter.
-- Sie sagen, sie [[schmelzen]] jeden Sommer.
+*Zu + Inf*: zu [[schmelzen]], *P2*: [[geschmolzen]]
+Adjektive: [[schmelzend]], [[schmelzender]], [[schmelzendst]]
 
 ---
-
-Konjunktiv II:
-
-- Wenn ich heiß wäre, [[schmölze]] ich schnell.
-- Wenn du näher kämst, [[schmölztest]] du schneller.
-- Wenn er Sonne sähe, [[schmölze]] er sofort.
-- Wenn wir aufpassen würden, [[schmölzen]] wir langsamer.
-- Wenn ihr in der Sonne wäret, [[schmölzet]] ihr bald.
-- Wenn sie in der Hitze wären, [[schmölzen]] sie vollständig., [[lassen]], [[zufrieren]]
+[[schmelzender]], [[schmelzendes]], [[schmelzende]], [[schmelzenden]], [[schmelzendem]], [[schmelzenderer]], [[schmelzenderes]], [[schmelzendere]], [[schmelzenderen]], [[schmelzenderem]], [[schmelzendster]], [[schmelzendstes]], [[schmelzendste]], [[schmelzendsten]], [[schmelzendstem]], [[Schmelzwasser]]

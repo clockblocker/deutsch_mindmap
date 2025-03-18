@@ -23,4 +23,4 @@ small, little
 Adjektive: [[klein]], [[kleiner]], [[kleinst]]
 
 ---
-[[kleiner]], [[kleines]], [[kleine]], [[kleinen]], [[kleinem]], [[kleinerer]], [[kleineres]], [[kleinere]], [[kleineren]], [[kleinerem]], [[kleinster]], [[kleinstes]], [[kleinste]], [[kleinsten]], [[kleinstem]]
+[[kleiner]], [[kleines]], [[kleine]], [[kleinen]], [[kleinem]], [[kleinerer]], [[kleineres]], [[kleinere]], [[kleineren]], [[kleinerem]], [[kleinster]], [[kleinstes]], [[kleinste]], [[kleinsten]], [[kleinstem]], [[umfangreich]]

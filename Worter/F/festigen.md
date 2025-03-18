@@ -1,2 +1,2 @@
 , [[stützen]], [[wurzeln]]
-, [[aufrechterhalten]], [[verwandeln]], [[etablieren]], [[stärken]]
+, [[aufrechterhalten]], [[verwandeln]], [[etablieren]], [[stärken]], [[schmelzen]]

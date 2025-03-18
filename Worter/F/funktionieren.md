@@ -1,1 +1,1 @@
-, [[wirken]], [[gelingen]], [[gutgehen]], [[klappen]], [[passen]], [[ticken]], [[bestehen]], [[ausfallen]]
+, [[wirken]], [[gelingen]], [[gutgehen]], [[klappen]], [[passen]], [[ticken]], [[bestehen]], [[ausfallen]], [[kollabieren]]

@@ -3,6 +3,8 @@
 ---
 [[2 prap.md#^15|(q)]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
 
+[[erwartungsgemäß]]
+
 ---
 = [[entsprechend]], [[laut]], [[zufolge]], [[entsprechend]]
 ≈ [[nach]], [[entsprechend]], [[konform]]
@@ -17,4 +19,4 @@ according to, pursuant to
 
 ---
 [[Maß]], [[messen]], [[gemessen]], [[gemessen]], [[gemäßigt]]
-, [[zeitgemäß]]
+, [[zeitgemäß]], [[erwartungsgemäß]]

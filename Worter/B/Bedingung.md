@@ -4,6 +4,11 @@ die [[Bedingungen]]
 ---
 Unter [[solchen]] [[Bedingungen]] kann ich nicht arbeiten.
 
+*[[Golfstorm#^18|^]]* Die Meeresströmungen [[abschwächten|schwächten]] sich unter diesen [[Bedingungen]] [[erwartungsgemäß]] ab – aber sie [[kollabierten]] nicht. ^18
+
+
+[[Klimabedingung]]
+
 *[[3 Soll man Geld spenden?#^12|^]]* Wenn die [[Bedingungen]] des "Angebots" den Spender [[zufriedenstellen]], wird die [[Wohltätigkeit]] für beide Seiten [[vorteilhaft]]. ^12
 
 ---
@@ -27,4 +32,4 @@ D: der [[Bedingung]], den [[Bedingungen]]
 [[bedingen]], [[bedingungslos]], [[bedingt]], [[unbedingtes Angebot]]
 
 , [[Grundlage]], [[Umstand]], [[Vorbehalt]]
-, [[Zustand]], [[Grundvoraussetzung]]
+, [[Zustand]], [[Grundvoraussetzung]], [[Verhältnis]], [[Klimabedingung]]

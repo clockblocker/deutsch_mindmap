@@ -14,7 +14,7 @@ nicht [[bevorzugt]]
 disadvantaged, discriminated
 
 ---
-[[be]]|[[nach]]|[[teil]]|[[igt]]
+[[be]]|[[nach]]|[[Worter/T/Teil]]|[[igt]]
 
 ---
 N: [[benachteiligt]], [[benachteiligter]], [[benachteiligster]]  

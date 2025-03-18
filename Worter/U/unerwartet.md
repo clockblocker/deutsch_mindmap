@@ -1,1 +1,1 @@
-, [[plötzlich]], [[erwarten]], [[ungefragt]]
+, [[plötzlich]], [[erwarten]], [[ungefragt]], [[erwartungsgemäß]]

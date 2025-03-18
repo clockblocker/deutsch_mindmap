@@ -29,4 +29,4 @@ Dative: dem [[Geräusch]], den [[Geräuschen]]
 ---
 [[geräuschvoll]], [[geräuscharm]], [[geräuschlos]], [[rauschen]]
 
-, [[knall]], [[laut]]
+, [[knall]], [[laut]], [[Klingelbeil]]

@@ -32,4 +32,4 @@ Weitere Informationen:
 - Wasserform bei Temperaturen unter 0°C
 - Fällt während Winter oder in kalten Regionen
 - Besteht aus gefrorenen Wasserkristallen
-- Wichtig für Wintersport und Ökosysteme, [[s1 e1]]
+- Wichtig für Wintersport und Ökosysteme, [[s1 e1]], [[Schmelzwasser]]

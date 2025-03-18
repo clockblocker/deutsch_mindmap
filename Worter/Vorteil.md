@@ -18,7 +18,7 @@ Synonyme:
 advantage, benefit
 
 ---
-[[Vor]][[teil]]
+[[Vor]][[Worter/T/Teil]]
 
 ---
 Case: Singular, Plural  

@@ -6,3 +6,8 @@
     border-width: 0px !important;
     background-color: rgb(255 0 0 / 33%) !important;
 }
+
+.cm-strikethrough {
+    text-decoration-color: rgb(142 40 40) !important;
+    text-decoration-thickness: 3px;
+}

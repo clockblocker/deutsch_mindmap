@@ -1,1 +1,1 @@
-, [[eingehen]], [[zusinken]]
+, [[eingehen]], [[zusinken]], [[kollabieren]]

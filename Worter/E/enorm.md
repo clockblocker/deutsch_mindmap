@@ -1,1 +1,1 @@
-, [[gewaltigen]], [[gewaltig]]
+, [[gewaltigen]], [[gewaltig]], [[winzig]]

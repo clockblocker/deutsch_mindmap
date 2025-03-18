@@ -30,3 +30,4 @@ P: [[erkennbaren]], [[erkennbareren]], [[erkennbarsten]]
 
 ---
 [[erkennen]], [[Erkenntnis]], [[Erkennung]], [[unerkennbar]], [[wiedererkennbar]]
+, [[bemerkbar]]

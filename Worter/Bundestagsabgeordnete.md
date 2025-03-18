@@ -4,6 +4,7 @@ die [[Bundestagsabgeordneten]]
 ---
 Die Diäten von [[Bundestagsabgeordneten]] könnten bald um 606 Euro steigen. 
 
+
 ---
 = [[Parlamentarier]], [[Abgeordneter]]
 ≈ [[Politiker]], [[Volksvertreter]]

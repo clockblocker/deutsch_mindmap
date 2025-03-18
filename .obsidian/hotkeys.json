@@ -116,22 +116,6 @@
       "key": "G"
     }
   ],
-  "cbcr-text-eater-de:check-ru-de-translation": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "K"
-    },
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
   "cbcr-text-eater-de:get-infinitive-and-emoji": [
     {
       "modifiers": [
@@ -177,5 +161,41 @@
       "key": "K"
     }
   ],
-  "graph:open": []
+  "graph:open": [],
+  "cbcr-text-eater-de:duplicate-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "cbcr-text-eater-de:check-schriben": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "cbcr-text-eater-de:check-schriben-2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "cbcr-text-eater-de:check-ru-de-translation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ]
 }

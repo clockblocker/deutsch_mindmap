@@ -3,6 +3,9 @@
 ---
 Wer kennt das nicht: Man hat [[zugenommen]] und muss den Gürtel ganz weit machen.
 
+*[[Golfstorm#^12|^]]* Ohne die Meeresströmungen würde Europa abkühlen, zudem könnten über dem Atlantik [[Wirbelstürme]] [[zunehmen]] und es schwächere [[Monsune]] in Afrika und Asien geben. ^12
+
+
 2.	[[2 Unter Druck nach oben#^23|(q)]] Es gibt keine [[erkennbaren]] Gründe dafür, dass die Bedeutung der Sozialkompetenz in den letzten Jahren [[zunahm]] `-` ^23
 
 ---

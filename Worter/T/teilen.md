@@ -19,7 +19,7 @@ Antonyme: [[vereinen]], [[kombinieren]], [[verbinden]], [[zusammenführen]],
 Übersetzung: to share, to divide, to split
 
 ---
-Morpheme: [[teil]][[en]]
+Morpheme: [[Worter/T/Teil]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -36,4 +36,4 @@ Morpheme: [[teil]][[en]]
 
 Partizip I: [[teilend]], Partizip II: [[geteilt]]
 
-[[teilen]] - [[teil]] = [[en]], [[beteiligen]], [[Eiserner Vorhang]], [[gliedern]], [[durchtrennen]], [[spalten]], [[teilweise]]
+[[teilen]] - [[Worter/T/Teil]] = [[en]], [[beteiligen]], [[Eiserner Vorhang]], [[gliedern]], [[durchtrennen]], [[spalten]], [[teilweise]]

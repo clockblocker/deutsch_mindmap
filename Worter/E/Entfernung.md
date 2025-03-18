@@ -2,7 +2,7 @@
 die [[Entfernungen]]
 
 ---
-[[Dativ]]: **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
+[[Dativ Verben]]: **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
 
 ---
 = [[Distanz]], [[Abstand]], [[Länge]]

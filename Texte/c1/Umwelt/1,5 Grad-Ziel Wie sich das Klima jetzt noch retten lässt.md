@@ -1,8 +1,16 @@
-Die Welt steuert mit hoher Geschwindigkeit darauf zu, das Ziel von maximal 1,5 Grad Erderwärmung zu überschreiten. Ein Interview mit dem Klimaforscher Elmar Kriegler über die Folgen und was jetzt zu tun wäre.
+*[[1,5 Grad-Ziel Wie sich das Klima jetzt noch retten lässt#^1|^]]* Die Welt [[steuert]] mit hoher [[Geschwindigkeit]] darauf zu, das Ziel von maximal 1,5 Grad Erderwärmung zu überschreiten. ^1
 
-_Professor Elmar Kriegler ist Leiter der Abteilung Transformationspfade am Potsdam-Institut für Klimafolgenforschung. Für den Weltklimarat (IPCC) war er in der Arbeitsgruppe III Autor des Kapitels „Langfristige Transformationspfade“. Der Bericht der Arbeitsgruppe erschien im April 2022._
+*[[1,5 Grad-Ziel Wie sich das Klima jetzt noch retten lässt#^2|^]]* Ein Interview mit dem [[Klimaforscher]] Elmar Kriegler über die [[Folgen]] und was jetzt zu tun wäre. ^2
 
-**Herr Professor Kriegler, gibt es noch eine Chance, das 1,5 Grad-Ziel aus den Pariser Klimaabkommen zu erreichen?**
+ 
+*[[1,5 Grad-Ziel Wie sich das Klima jetzt noch retten lässt#^3|^]]* _Professor Elmar Kriegler ist Leiter der Abteilung [[Transformationspfade]] am Potsdam-Institut für Klimafolgenforschung. ^3
+
+*[[1,5 Grad-Ziel Wie sich das Klima jetzt noch retten lässt#^4|^]]* Für den Weltklimarat (IPCC) war er in der Arbeitsgruppe III Autor des Kapitels „[[Langfristige]] Transformationspfade“. ^4
+
+*[[1,5 Grad-Ziel Wie sich das Klima jetzt noch retten lässt#^5|^]]* Der Bericht der Arbeitsgruppe erschien im April 2022._ ^5
+
+
+**Herr Professor Kriegler, gibt es noch eine Chance, das 1,5 Grad-Ziel aus den Pariser [[Klimaabkommen]] zu erreichen?**
 
 Wenn wir auf das 1,5 Grad Ziel kommen wollen, müssen wir die nächsten Jahre die Treibhausgasemissionen dramatisch senken, und selbst dann werden wir mit 50 Prozent Wahrscheinlichkeit zwischenzeitlich leicht darüber sein. Für den IPCC Bericht haben wir uns die Klimaschutzpläne angesehen, zu denen sich die einzelnen Länder im Pariser Abkommen bis 2030 verpflichtet haben. Selbst wenn das alle einhalten würden, kämen wir lediglich auf eine Stabilisierung der Emissionen über die nächsten zehn Jahre. Das reicht bei weitem nicht, die 1,5 Grad zu halten, dafür müssten die globalen Emission bis 2030 um 35 bis 60 Prozent sinken.
 

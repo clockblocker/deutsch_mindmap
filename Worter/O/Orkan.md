@@ -1,2 +1,2 @@
 , [[Sturm]]
-, [[Unwetter]]
+, [[Unwetter]], [[Wirbelsturm]]

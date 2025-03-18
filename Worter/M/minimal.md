@@ -1,1 +1,1 @@
-, [[gewaltig]], [[klein]], [[riesig]], [[wenige]], [[zumindest]], [[mindest]], [[gering]], [[knapp]]
+, [[gewaltig]], [[klein]], [[riesig]], [[wenige]], [[zumindest]], [[mindest]], [[gering]], [[knapp]], [[winzig]]

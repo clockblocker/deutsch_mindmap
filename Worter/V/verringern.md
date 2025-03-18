@@ -1,7 +1,8 @@
 📉 [[verringern]], [fɛɐ̯ˈʁɪŋɐn](https://youglish.com/pronounce/verringern/german) | [[verringerte]], haben [[verringert]]
 
 ---
-[[aussage]] 
+*[[Golfstorm#^15|^]]* Durch [[zusätzliches]] Süßwasser wird das [[Verhältnis]] von Temperatur und Salz im Meerwasser gestört, was [[wiederum]] die Stärke der Strömungen [[verringert]].
+
 
 ---
 = [[reduzieren]], [[mindern]], [[senken]]

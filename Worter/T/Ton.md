@@ -32,4 +32,4 @@ Verwendungsbeispiele:
 
 Zusätzliche Informationen:
 - Verwandt mit dem Verb [[tönen]]
-- Kann verschiedene Bedeutungsnuancen haben, je nach Kontext, [[7 Die Geschichte vom Zappel-Philipp]], [[Tonfall]], [[betonen]]
+- Kann verschiedene Bedeutungsnuancen haben, je nach Kontext, [[7 Die Geschichte vom Zappel-Philipp]], [[Tonfall]], [[betonen]], [[Klingelbeil]]

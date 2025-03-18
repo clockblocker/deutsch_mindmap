@@ -24,4 +24,4 @@ G: des [[Umstandes]], der [[Umstände]]
 D: dem [[Umstand]], den [[Umständen]]  
 
 ---
-[[umständlich]], [[umstehen]], [[Umstandsform]], [[Umstandswort]], [[Umstandssatz]], [[umgehen]], [[Begebenheit]]
+[[umständlich]], [[umstehen]], [[Umstandsform]], [[Umstandswort]], [[Umstandssatz]], [[umgehen]], [[Begebenheit]], [[Verhältnis]]

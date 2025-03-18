@@ -1,6 +1,4 @@
-https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert-a-51a181db-733b-4bfa-940a-65203a9111ad
-
-![Atlantikküste: Meeresströmungen sorgen für gemäßigtes Klima in Europa](https://cdn.prod.www.spiegel.de/images/6dcd6ae3-2209-4aeb-b756-d23451f5b2fa_w960_r1.778_fpx56_fpy50.jpg "Atlantikküste: Meeresströmungen sorgen für gemäßigtes Klima in Europa")
+#### Atlantikküste: Meeresströmungen sorgen für gemäßigtes Klima in Europa
 
 *[[Golfstorm#^1|^]]* Alle sorgen sich wegen höherer Temperaturen und [[Hitzewellen]], doch was wäre, wenn es plötzlich kühler würde? ^1
 
@@ -19,7 +17,8 @@ https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollap
 
 *[[Golfstorm#^8|^]]* [[Stattdessen]] führe der [[windgetriebene]] [[Aufstieg]] von Tiefenwasser im Südlichen Ozean dazu, dass die AMOC weiter zirkuliert. ^8
 
-###### *[[Golfstorm#^9|^]]* Katastrophale Folgen für Europa – auch ohne Kollaps ^9
+#### *[[Golfstorm#^9|^]]* Katastrophale Folgen für Europa – auch ohne Kollaps ^9
+
 
 *[[Golfstorm#^9|^]]* Die AMOC funktioniert wie eine Art [[riesiges]] globales [[Förderband]]: Sie transportiert warmes, sehr salziges Wasser aus den [[Tropen]] [[Richtung]] [[nördlicher]] [[Polarkreis]], wo das Wasser [[abkühlt]] und [[wegen]] seiner größeren [[Dichte]] [[absinkt]]. ^9
 
@@ -27,36 +26,31 @@ https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollap
 
 *[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und [[beitragen|tragen]] [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
 
-The ocean currents transport heat to [[different]] [[areas]] of the earth and contribute [[decisively]] to keeping the climate relatively mild in large parts of the northern hemisphere. ^11
 
-
-
-*[[Golfstorm#^12|^]]* Ohne die Meeresströmungen würde Europa abkühlen, zudem könnten über dem Atlantik Wirbelstürme zunehmen und es schwächere Monsune in Afrika und Asien geben. ^12
+*[[Golfstorm#^12|^]]* Ohne die Meeresströmungen würde Europa abkühlen, zudem könnten über dem Atlantik [[Wirbelstürme]] [[zunehmen]] und es schwächere [[Monsune]] in Afrika und Asien geben. ^12
  
  
-*[[Golfstorm#^13|^]]* Forschende sind sich einig, dass die Klimakrise die AMOC destabilisiert. ^13
+*[[Golfstorm#^13|^]]* [[Forschende]] sind sich einig, dass die Klimakrise die AMOC destabilisiert. ^13
 
-*[[Golfstorm#^14|^]]* Denn der Atlantik erwärmt sich und in den nördlichen Regionen schmilzt das Eis. ^14
+*[[Golfstorm#^14|^]]* Denn der Atlantik erwärmt sich und in den nördlichen Regionen [[schmilzt]] das Eis. ^14
 
-*[[Golfstorm#^15|^]]* Durch zusätzliches Süßwasser wird das Verhältnis von Temperatur und Salz im Meerwasser gestört, was wiederum die Stärke der Strömungen verringert. ^15
+*[[Golfstorm#^15|^]]* Durch zusätzliches Süßwasser wird das [[Verhältnis]] von Temperatur und Salz im Meerwasser gestört, was [[wiederum]] die Stärke der Strömungen [[verringert]]. ^15
 
-*[[Golfstorm#^16|^]]* Umstritten ist jedoch, wie stark – und wie schnell sich das beim Wetter und Klima in Europa bemerkbar macht. ^16
-
- 
-*[[Golfstorm#^17|^]]* Die Autoren der aktuellen Studie simulierten eine Welt unter extremen Klimabedingungen wie einem viel höheren CO₂-Gehalt in der Atmosphäre und einem massiven Zustrom von Schmelzwasser, etwa aus der Arktis. ^17
-
-*[[Golfstorm#^18|^]]* Die Meeresströmungen schwächten sich unter diesen Bedingungen erwartungsgemäß ab – aber sie kollabierten nicht. ^18
-
+*[[Golfstorm#^16|^]]* [[Umstritten]] ist jedoch, wie stark – und wie schnell sich das beim Wetter und Klima in Europa [[bemerkbar]] macht. ^16
 
  
-*[[Golfstorm#^19|^]]* »Diese Studie argumentiert anders als viele andere Studien«, sagt Jens Terhaar von der Universität Bern, der nicht an den Modellierungen beteiligt war. ^19
+*[[Golfstorm#^17|^]]* Die Autoren der aktuellen Studie simulierten eine Welt unter extremen [[Klimabedingungen]] wie einem viel höheren CO₂-Gehalt in der Atmosphäre und einem massiven Zustrom von [[Schmelzwasser]], [[etwa]] aus der Arktis. ^17
+
+*[[Golfstorm#^18|^]]* Die Meeresströmungen [[abschwächten|schwächten]] sich unter diesen [[Bedingungen]] [[erwartungsgemäß]] ab – aber sie [[kollabierten]] nicht. ^18
+
+ 
+*[[Golfstorm#^19|^]]* »Diese Studie argumentiert anders als viele andere Studien«, sagt Jens Terhaar von der Universität Bern, der nicht an den [[Modellierungen]] [[beteiligt]] war. ^19
 
 *[[Golfstorm#^20|^]]* »Statt sich auf die Region im Nordatlantik zu konzentrieren, in der Tiefenwasser gebildet wird, schauen sich die Autoren an, wie viel Tiefenwasser im Südlichen Ozean wieder an die Oberfläche kommt. ^20
 
 *[[Golfstorm#^21|^]]* Solange Wasser dort an die Oberfläche gelangt, muss woanders Tiefenwasser gebildet werden.« So bleibe die Strömung bestehen. ^21
 
 
- 
 ###### *[[Golfstorm#^22|^]]*  Forscher: Abschwächung von AMOC muss verhindert werden ^22
 
 *[[Golfstorm#^22|^]]* Die neue Studie bestätigt auch die Annahmen des Sonderberichtes des Weltklimarats (IPCC) über Klimawandel, Ozean und Kryosphäre von 2019, wonach die Nordatlantikströmung schwächer wird, je mehr die Klimakrise voranschreitet. ^22
@@ -65,3 +59,5 @@ The ocean currents transport heat to [[different]] [[areas]] of the earth and co
 
 *[[Golfstorm#^24|^]]* Allerdings könnte sich das ändern, sollte das Eisschild Grönlands schneller schmelzen als erwartet und damit viel größere Mengen Süßwasser in den Atlantik gelangen. ^24
 
+
+https://www.spiegel.de/wissenschaft/natur/klimawandel-studie-widerspricht-kollaps-des-golfstroms-im-21-jahrhundert-a-51a181db-733b-4bfa-940a-65203a9111ad

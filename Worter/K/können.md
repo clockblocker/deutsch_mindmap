@@ -1,6 +1,7 @@
 😤 [[können]], [ˈkœnən] | [[konnte]], [[konnten]], [[gekonnt]]
 
 ---
+*[[1. 606 Euro mehr Diät für Abgeordnete? 😱#^2|^]]* Die Diäten von [[Bundestagsabgeordneten]] [[könnten]] bald um 606 Euro steigen. ^2
 
 
 ---
