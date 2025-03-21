@@ -4,23 +4,16 @@
 	- gut sein `gegen` seine Kinder,  
 	- `gegen` seine Eltern, Freunde, Bekannten (auch: [[zu Präposition|zu]]);  
 
-2) **Feindlich (Gegensatz: [[für Präposition|für]]): herzlos, unfreundlich, grob sein**  
-	- `gegen` seine Freunde, 
-	- `gegen` seine Bekannten; 
-	
-	- er handelt `gegen` meinen Willen,
-	- er handelt `gegen` seine Überzeugung;
-	
-	- er tut etwas `gegen` die Familie,  
-	- er tut etwas `gegen` den Staat;
-	
-	- er schwimmt `gegen` den Strom; 
-	
-	- er kämpft `gegen` die Feinde, 
-	- er kämpft `gegen` die Wellen; 
-	
-	- Wer kennt ein gutes Mittel `gegen` die Krankheit,  
-	- Wer kennt ein gutes Mittel `gegen` die Erkältung?  
+2) **Feindlich (Gegensatz: [[für Präposition|für]]):** 
+	herzlos, unfreundlich, grob sein
+	- Er ist grob                             `gegen` sein*en*  alt*en*              Freund  
+	- Sie lügt                                  `gegen` ihr*e*       treu*e*             Kollegin  
+	- Sie sind unfreundlich           `gegen` ihr*e*       langjährig*en* Bekannten 
+	- Er handelt                             `gegen` mein*en* erklärt*en*        Willen  
+	- Er tut etwas                          `gegen` di*e*         gesamt*e*        Familie  
+	- Er schwimmt                        `gegen` de*n*        reißend*en*      Strom  
+	- Er kämpft                             `gegen` di*e*          feindlich*en*    Truppen  
+	- Wer kennt ein gutes Mittel `gegen` di*e*         gefährlich*e*    Krankheit?  
 
 3) `bei` Zeit und Zahlen – fast, annähernd: 
 	- `gegen` Abend,  

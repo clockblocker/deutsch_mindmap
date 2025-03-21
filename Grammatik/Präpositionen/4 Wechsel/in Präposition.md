@@ -5,7 +5,7 @@
 	                   `in` de*r* klein*en* Tasche  
 	                   `in` mein*em* hell*en* Zimmer  
 	                   `in` mein*en* alt*en* Büchern  
-
+	
 	-  Ich stecke das Geld `in` de*n* schwer*en* Beutel  
 	                   `in` di*e* klein*e* Tasche  
 	                   `in` da*s* metall*ene* Schloss  

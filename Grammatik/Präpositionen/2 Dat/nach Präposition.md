@@ -1,4 +1,4 @@
-###### Bezeichnet die Richtung, das Streben (Gegensatz: [[von Präposition|von]]):
+Bezeichnet die Richtung, das Streben (Gegensatz: [[von Präposition|von]]):
 
 1) **Räumlich**:  
 	- Wir fahren  `nach` Hause
@@ -13,16 +13,16 @@
 	- Die Fenster gehen  `nach` Norden
 					 `nach` der Straße.  
 	
-	- Wie komme ich   `nach` dem Zoo? 
+	- Wie komme ich  `nach` dem Zoo? 
 					`nach` dem Kurfürstendamm?  
 					
 	- Wir [[streben]] (sehnen uns)  `nach` [[Ansehen]]
 							`nach` Ehre und Ruhm
-							`nach` Reichtum.
+							`nach` Reichtum
 
 	- Wir handeln    `nach` dem Gesetz
 				 `nach` den Vorschriften des Arztes
-				 `nach` bestem Wissen und Gewissen.  
+				 `nach` bestem Wissen und Gewissen
 
 2) **Zeitlich**:  was schon vorüber ist (Gegensatz: [[vor Präposition|vor]]):  
 	- `nach` dem Konzert

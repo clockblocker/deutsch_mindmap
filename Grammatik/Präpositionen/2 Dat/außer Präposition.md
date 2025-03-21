@@ -1,8 +1,12 @@
-###### Bedeutet: etwas ist ausgeschlossen, ausgenommen, nicht einbegriffen:
+Bedeutet: etwas ist ausgeschlossen, ausgenommen, nicht einbegriffen:
 
-- `Außer` dem Kapitän wurden alle gerettet.
-- `Außer` dem Rathaus ist die ganze Stadt verbrannt.
-- Er ist Oberst a. D. (`außer` Dienst).
-- Diese Geldscheine sind `außer` Kurs (gesetzt).
-- Die Sache ist `außer` Zweifel.
-- Der Kranke ist `außer` Gefahr.
+- `Außer` de*m* mutig*en*   Kapitän 
+  `Außer` de*r*   jung*en*     Passagierin  
+  `Außer` de*m* klein*en*     Kind  
+  `Außer` de*n* verletz*ten* Matrosen      wurden alle gerettet  
+
+-      Die Sache ist `außer` de*m* geringst*en* Zweifel  
+				`außer` de*r* logisch*en* Erklärung  
+				`außer` de*m* menschlich*en* Verständnis  
+				`außer` de*n* vernünftig*en* Optionen  
+				`außer` Zweifel
