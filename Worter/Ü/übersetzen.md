@@ -14,7 +14,7 @@ Der Text wurde auch ins Arabische [[übersetzt]].
 to translate, to interpret
 
 ---
-[[über]]|[[setz]]|[[en]]
+[[Worter/Ü/über]]|[[setz]]|[[en]]
 
 ---
 ich: [[übersetze]], [[übersetzte]], –, [[übersetze]], [[übersetzte]]
@@ -26,7 +26,7 @@ ihr: [[übersetzt]], [[übersetztet]], [[übersetzt]], [[übersetzet]], [[übers
 PI: [[übersetzend]], PII: [[übersetzt]], Zu+inf: [[überzusetzen]]
 
 ---
-[[übersetzen]] - [[über]] = [[setzen]] / to translate, to interpret
+[[übersetzen]] - [[Worter/Ü/über]] = [[setzen]] / to translate, to interpret
 
 ---
 [[Übersetzer]], [[Übersetzung]], [[Übersetzerin]], [[dolmetschen]], [[überliefern]]

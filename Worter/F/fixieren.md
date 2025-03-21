@@ -1,1 +1,1 @@
-[[umschalten]][[ändern]], [[brechen]], [[umdrehen]], [[drehen]], [[anstarrten]], [[starren]], [[festkleben]], [[wälzen]], [[anblicken]]
+[[umschalten]][[ändern]], [[brechen]], [[umdrehen]], [[drehen]], [[anstarrten]], [[starren]], [[festkleben]], [[wälzen]], [[anblicken]], [[wenden]]

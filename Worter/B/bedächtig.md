@@ -1,1 +1,1 @@
-, [[überstürzen]]
+, [[überstürzen]], [[langsam]]

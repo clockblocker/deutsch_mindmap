@@ -3,7 +3,6 @@
 
 
 
-
 `Не немецкий текст будет переведет на немецкий`
 *The boss told me to bring all my documents to the office.*
 

@@ -6,7 +6,7 @@
 ---
 = [[zum Teil]], [[partiell]], [[in Teilen]]
 ≈ [[manchmal]], [[gelegentlich]], [[stellenweise]], [[halbes]],
-≠ [[ganz]], [[vollständig]], [[komplett]], [[total]], [[alle]], [[überhaupt]], [[völlig]],  [[gesamt]], [[sämtlich]], [[ausschließlich]], [[insgesamt]]
+≠ [[ganz]], [[vollständig]], [[komplett]], [[total]], [[Worter/A/Alle]], [[überhaupt]], [[völlig]],  [[gesamt]], [[sämtlich]], [[ausschließlich]], [[insgesamt]]
 
 ---
 partly, partially

@@ -11,7 +11,7 @@ die [[Erfahrungen]]
 
 "Nach meiner langen [[Erfahrung]] [[in]] diesem [[Bereich]] kann ich Ihnen einige Tipps geben. 
 
-"Nach meiner langen [[Erfahrung]] [[auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 
+"Nach meiner langen [[Erfahrung]] [[Worter/A/auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 
 
 Wir [[austauschen|tauschen]] unsere [[Erfahrungen]] aus.
 

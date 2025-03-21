@@ -20,7 +20,7 @@ to occur, to appear
 [[Auftritt]], [[Auftreten]], [[auftretend]], [[auftrittsfreudig]]
 
 ---
-[[auf]]|[[tret]]|[[en]]
+[[Worter/A/auf]]|[[tret]]|[[en]]
 [[auftreten]]
 
 
@@ -29,7 +29,7 @@ to occur, to appear
 - Was [[tritt]] auf?
 - Ein Problem.
 
-- Wo [[tritt]] das [[auf]]?
+- Wo [[tritt]] das [[Worter/A/auf]]?
 - Hier.
 
 - Wann [[ist]] das [[aufgetreten]]?
@@ -37,10 +37,10 @@ to occur, to appear
 
 ---
 ###### [[auftreten]] `als` jN
-- `Als` was [[tritt]] er [[auf]]?
+- `Als` was [[tritt]] er [[Worter/A/auf]]?
 - `Als` Experte.
 
-- `Als` was [[treten]] wir [[auf]]?
+- `Als` was [[treten]] wir [[Worter/A/auf]]?
 - `Als` Team.
 
 - Warum [[ist]] sie `als` Zeugin [[aufgetreten]]?

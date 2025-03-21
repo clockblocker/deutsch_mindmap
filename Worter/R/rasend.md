@@ -1,2 +1,2 @@
 , [[rasen]]
-, [[ungestüm]]
+, [[ungestüm]], [[rasch]]

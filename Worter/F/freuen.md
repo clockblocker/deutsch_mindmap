@@ -1,9 +1,9 @@
-😀 [[freuen]] mich [[über]] + Akk, [ˈfʁɔʏ̯ən], [[freute]], haben [[gefreut]]
-[[freuen]] sich [[auf]] + Akk
+😀 [[freuen]] mich [[Worter/Ü/über]] + Akk, [ˈfʁɔʏ̯ən], [[freute]], haben [[gefreut]]
+[[freuen]] sich [[Worter/A/auf]] + Akk
 
 ---
 1. Сын радует отца. Der Sohn [[erfreust]] den Vater
-2. Отец радуется сыну. Der Vater [[freut]] sich [[über]] seinen Sohn.
+2. Отец радуется сыну. Der Vater [[freut]] sich [[Worter/Ü/über]] seinen Sohn.
 
 *[[Text mit Reflexivpronomen#^24|^]]* Er würde (30) auf ein [[Wiedersehen]] mit dir [[freuen]]. ^24
 

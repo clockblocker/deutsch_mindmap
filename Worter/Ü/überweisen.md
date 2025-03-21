@@ -17,7 +17,7 @@ Antonyme: [[abheben]], [[auszahlen]], [[empfangen]]
 Übersetzung: to transfer (money)
 
 ---
-Morpheme: [[über]][[weis]][[en]]
+Morpheme: [[Worter/Ü/über]][[weis]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -34,5 +34,5 @@ Morpheme: [[über]][[weis]][[en]]
 
 Partizip I: [[überweisend]], Partizip II: [[überwiesen]]
 
-[[überweisen]] - [[über]] = [[weisen]] / to transfer (money)
+[[überweisen]] - [[Worter/Ü/über]] = [[weisen]] / to transfer (money)
 ''', [[bezahlen]]

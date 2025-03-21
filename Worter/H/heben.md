@@ -1,6 +1,4 @@
-🏋️‍♂️ [[heben]] + Akk, [ˈheːbn̩]
-[[hob]]
-haben [[gehoben]]
+💪 [[heben]], [ˈheːbn̩](https://youglish.com/pronounce/heben/german) | [[hob]], haben [[gehoben]]
 
 ---
 Ein paar Tiger-Seelöwen [[heben]] verwundert die Köpfe und jaulen.
@@ -9,35 +7,64 @@ Appa! Alles okay bei dir? *([[Hebt]] ein Augenlid von Appa [[hoch]])* Wach auf
 
 ([[Hebt]] die Hand um zu protestieren) Äh. (Steigt auf Appa)
 
+Вы там совсем ебанутые?
+`(Sind Sie da völlig verrückt geworden?)`
+
 ---
-[[erheben]] - [[er]] = [[heben]]
+[[erheben]] - [[er]] = [[heben]] / to raise, to elevate, to erect
 [[hervorheben]] - [[hervor]] = [[heben]] / to emphasize, to highlight, to stress
 
+---
+= [[anheben]], [[aufrichten]], [[emporheben]]
+≈ [[aufnehmen]], [[tragen]], [[erheben]], [[steigern]]
+≠ [[senken]], [[absenken]], [[fallen lassen]]
 
 ---
-Synonyme: [[anheben]], [[aufheben]], [[emporbringen]], [[emporheben]], [[hochheben]], [[lupfen]], [[stemmen]]
-Antonyme: [[absenken]], [[fallenlassen]], [[hinunterlassen]], [[niederlegen]], [[runternehmen]]
+to lift, to raise
+поднимать
 
 ---
-Übersetzung: to lift, to raise, to pick up
+[[Hebung]], [[Heber]], [[erheben]], [[hochheben]]
 
 ---
-Morpheme: [[heb]][[en]]
- #Verb  #Untrennbar
+[[heb]]|[[en]]
+
 
 ---
+###### [[heben]] jN
+- Was [[hebst]] du?
+- Den Koffer.
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[hebe]]             | [[hob]]               | -                 | [[hebe]]               | [[höbe]]                |
-| Du        | [[hebst]]            | [[hobst]]             | [[heb]]           | [[hebest]]             | [[höbest]]              |
-| Er/sie/es | [[hebt]]             | [[hob]]               | -                 | [[hebe]]               | [[höbe]]                |
-| Wir       | [[heben]]            | [[hoben]]             | -                 | [[heben]]              | [[höben]]               |
-| Ihr       | [[hebt]]             | [[hobt]]              | [[hebt]]          | [[hebet]]              | [[höbet]]               |
-| Sie       | [[heben]]            | [[hoben]]             | [[heben Sie]]     | [[heben]]              | [[höben]]               |
+- Warum [[heben]] wir die Hand?
+- Um uns zu melden.
 
-Partizip I: [[hebend]], Partizip II: [[gehoben]]
+- Wie viel [[hat]] er [[gehoben]]?
+- 50 Kilo.
 
+---
+###### [[heben]] jN [[auf]] jN
+- Was [[hebst]] du [[auf]]?
+- Das Kind [[auf]] den Arm.
 
-[[setzen]], [[ziehen]], [[bücken]]
-, [[erheben]], [[s1 e1]], [[tragen]], [[hervorheben]], [[schleudern]], [[abheben]]
+- Warum [[heben]] wir das Glas [[auf]]?
+- Zum Anstoßen.
+
+- Wie [[hat]] er das Kind [[auf]] den Stuhl [[gehoben]]?
+- Mit Mühe.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[heb]] / [[hebe]], [[hob]], [[hebe]], [[höbe]], -
+du, [[hebst]], [[hobst]], [[hebe]], [[höbest]], [[heb]] / [[hebe]]
+er, [[hebt]], [[hob]], [[hebe]], [[höbe]], -
+wir, [[heben]], [[hoben]], [[heben]], [[höben]], [[heben]]
+ihr, [[hebt]], [[hobt]], [[hebet]], [[höbet]], [[hebt]]
+sie, [[heben]], [[hoben]], [[heben]], [[höben]], [[heben]]
+
+*Zu + Inf*: zu [[heben]], *P2*: [[gehoben]]
+Adjektive: [[hebend]], [[hebender]], [[hebendst]]
+
+---
+[[hebender]], [[hebendes]], [[hebende]], [[hebenden]], [[hebendem]], [[hebenderer]], [[hebenderes]], [[hebendere]], [[hebenderen]], [[hebenderem]], [[hebendster]], [[hebendstes]], [[hebendste]], [[hebendsten]], [[hebendstem]]
+
+[[wenden]]

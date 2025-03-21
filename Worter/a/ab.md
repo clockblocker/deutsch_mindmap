@@ -19,4 +19,4 @@ completely
 , [[abbrechen]]
 , [[abfahren]]
 , [[beabsichtigen]]
-, [[verabreden]], [[Abgas]], [[abheben]], [[bis zu]], [[abschrecken]], [[Abspann]], [[Abstrich]], [[abarbeiten]], [[Abhängigkeit]], [[Autoabgas]], [[Abgrenzung]], [[Waldabschnitt]], [[abschalten]], [[Abfall]], [[abschwächen]], [[abkühlen]], [[absinken]], [[abströmen]]
+, [[verabreden]], [[Abgas]], [[abheben]], [[bis zu]], [[abschrecken]], [[Abspann]], [[Abstrich]], [[abarbeiten]], [[Abhängigkeit]], [[Autoabgas]], [[Abgrenzung]], [[Waldabschnitt]], [[abschalten]], [[Abfall]], [[abschwächen]], [[abkühlen]], [[absinken]], [[abströmen]], [[Fußabdruck]]

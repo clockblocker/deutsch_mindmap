@@ -13,7 +13,7 @@ Synonyme:
 excitement, agitation
 
 ---
-[[auf]][[reg]][[ung]]
+[[Worter/A/auf]][[reg]][[ung]]
 
 ---
 Case: Singular, Plural  

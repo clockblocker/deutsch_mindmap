@@ -13,7 +13,7 @@ Die Dursleys [[besaßen]] alles, was sie wollten, doch sie hatten auch ein [[Geh
 to uncover, to expose, to reveal
 
 ---
-[[auf]]|[[deck]]|[[en]]
+[[Worter/A/auf]]|[[deck]]|[[en]]
 
 ---
 ich: [[decke auf]], [[deckte auf]], –, [[decke auf]], [[deckte auf]]
@@ -25,7 +25,7 @@ ihr: [[deckt auf]], [[decktet auf]], [[deckt auf]], [[decket auf]], [[decktet au
 PI: [[aufdeckend]], PII: [[aufgedeckt]], Zu+inf: [[aufzudecken]]
 
 ---
-[[aufdecken]] - [[auf]] = [[decken]] / to uncover, to expose, to reveal
+[[aufdecken]] - [[Worter/A/auf]] = [[decken]] / to uncover, to expose, to reveal
 
 ---
 [[Aufdeckung]], [[Aufdeckungsprozess]], [[decken]], [[Deckel]], [[aufgedeckt]], [[Enthüllung]]

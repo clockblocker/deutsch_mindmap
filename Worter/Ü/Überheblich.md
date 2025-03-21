@@ -18,7 +18,7 @@ arrogant, conceited, haughty
 
 ---
 Morpheme:
-[[über]][[heblich]]
+[[Worter/Ü/über]][[heblich]]
 
 ---
 

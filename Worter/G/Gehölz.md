@@ -1,1 +1,1 @@
-, [[Baum]], [[Waldabschnitt]]
+, [[Baum]], [[Waldabschnitt]], [[Büsch]]

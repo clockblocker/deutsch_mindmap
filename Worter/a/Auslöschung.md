@@ -1,1 +1,1 @@
-, [[Vernichtung]]
+, [[Vernichtung]], [[Fußabdruck]]

@@ -2,7 +2,7 @@
 | Da-Form        | Preposition  | Meaning                           |     |
 | -------------- | ------------ | --------------------------------- | --- |
 | [[daran]]      | [[an]]       | on it / about it / at it          |     |
-| [[darauf]]     | [[auf]]      | on it / onto it / to that         |     |
+| [[darauf]]     | [[Worter/A/auf]]      | on it / onto it / to that         |     |
 | [[darin]]      | [[in]]       | in it                             |     |
 | [[daraus]]     | [[aus]]      | out of it / from it               |     |
 | [[dabei]]      | [[bei]]      | with it / at it / in the process  |     |
@@ -12,8 +12,8 @@
 | [[dahinter]]   | [[hinter]]   | behind it                         |     |
 | [[damit]]      | [[mit]]      | with it                           |     |
 | [[danach]]     | [[nach]]     | after it / afterward              |     |
-| [[daneben]]    | [[neben]]    | beside it / next to it            |     |
-| [[darüber]]    | [[über]]     | about it / above it / over it     |     |
+| [[daneben]]    | [[Worter/N/neben]]    | beside it / next to it            |     |
+| [[darüber]]    | [[Worter/Ü/über]]     | about it / above it / over it     |     |
 | [[darum]]      | [[um]]       | about it / around it / that’s why |     |
 | [[darunter]]   | [[unter]]    | under it / underneath it          |     |
 | [[davor]]      | [[vor]]      | in front of it / before it        |     |

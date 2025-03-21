@@ -13,7 +13,7 @@ _[[Aufgebracht]]_ Aha! Der [[Verräter]] [[gesteht]] sogar. Krieger, sofort weg
 agitated, upset, enraged
 
 ---
-[[auf]]|[[ge]]|[[bracht]]
+[[Worter/A/auf]]|[[ge]]|[[bracht]]
 
 ---
 N: [[aufgebracht]], [[aufgebrachter]], [[aufgebrachtest]]  

@@ -13,7 +13,7 @@ Synonyme:
 order, commission, assignment
 
 ---
-[[Auf]][[trag]]
+[[Worter/A/auf]][[trag]]
 
 ---
 Case: Singular, Plural  

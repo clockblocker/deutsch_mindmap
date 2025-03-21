@@ -20,7 +20,7 @@ Ob Bratwurst, Weißwurst oder Frikadelle: Manche Speisen schmecken mit Senf einf
 ---
 = [[einige]], [[verschiedene]], [[mancher]]
 ≈ [[etliche]], [[mehrere]], [[gewisse]]
-≠ [[alle]], [[keine]], [[ganze]]
+≠ [[Worter/A/Alle]], [[keine]], [[ganze]]
 
 ---
 some, several
@@ -37,4 +37,4 @@ D: [[manchen]]
 
 ---
 [[manch]], [[mancherlei]], [[manchmal]], [[manch einer]]
-, [[Alle]]
+, [[Worter/A/Alle]]

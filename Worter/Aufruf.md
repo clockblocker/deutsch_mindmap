@@ -17,7 +17,7 @@ die [[Aufrufe]]
 appeal, call, summons
 
 ---
-[[Auf]][[Ruf]]
+[[Worter/A/auf]][[Ruf]]
 
 ---
 N: der [[Aufruf]], die [[Aufrufe]]  

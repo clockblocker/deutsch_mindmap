@@ -1,1 +1,1 @@
-, [[enthüllen]], [[offenbar]], [[verdecken]], [[verraten]], [[gestehen]], [[vorzutäuschen]], [[Verheimlichen]], [[demaskieren]], [[aufdecken]], [[erweisen]]
+, [[enthüllen]], [[offenbar]], [[verdecken]], [[verraten]], [[gestehen]], [[vorzutäuschen]], [[Verheimlichen]], [[demaskieren]], [[aufdecken]], [[erweisen]], [[zeigen]]

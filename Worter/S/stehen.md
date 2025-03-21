@@ -3,11 +3,11 @@
 ---
 Sein Name [[steht]] [[an]] erster [[Stelle]].
 
-*[[Einen Korb bekommen#^8|^]]* Damals wusste er noch nicht, dass sie [[auf]] Frauen [[steht]]. ^8
+*[[Einen Korb bekommen#^8|^]]* Damals wusste er noch nicht, dass sie [[Worter/A/auf]] Frauen [[steht]]. ^8
 
 ---
 [[entstehen]] - [[ent]] = [[stehen]] / to emerge, to arise, to develop
-[[aufstehen]] - [[auf]] = [[stehen]] / to get up, to rise
+[[aufstehen]] - [[Worter/A/auf]] = [[stehen]] / to get up, to rise
 [[gestehen]] - [[ge]] = [[stehen]] / to confess, to admit
 [[beistehen]] - [[bei]] = [[stehen]] / to stand by, to support, to assist
 

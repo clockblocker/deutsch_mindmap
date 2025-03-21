@@ -1,1 +1,1 @@
-, [[Fachmann]], [[Führungskraft]], [[Durchsetzungsvermögen]]
+, [[Fachmann]], [[Führungskraft]], [[Durchsetzungsvermögen]], [[Einfluss]]

@@ -5,7 +5,7 @@
 *Und fühlten sich gleich angemacht*
 
 ---
-[[auf]] + [[raffen]] = [[aufraffen]] // собраться с силами
+[[Worter/A/auf]] + [[raffen]] = [[aufraffen]] // собраться с силами
 
 ---
 = [[schnappen]], [[ergreifen]], [[packen]]

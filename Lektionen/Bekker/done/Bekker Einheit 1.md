@@ -23,7 +23,7 @@
   
 1. [[Eins]], [[zwei]], [[Drei]], [[ein]], [[eine]], [[mein]], [[dein]], [[sein]].
 2. [[Vier]], [[sieben]], [[sie]], [[die]], [[wieder]].
-3. [[Fünf]], [[dünn]], [[müde]], [[über]].
+3. [[Fünf]], [[dünn]], [[müde]], [[Worter/Ü/über]].
 4. [[Sechs]], [[wachsen]], [[Lachs]].
 5. [[Acht]], [[machen]], [[lachen]], [[Sachen]], [[aufwachen]].
 6. [[Neun]], [[neu]], [[Freund]], [[freundlich]], [[Eule]].

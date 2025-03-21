@@ -1,1 +1,1 @@
-, [[Wert]], [[Informationswert]]
+, [[Wert]], [[Informationswert]], [[Einfluss]]

@@ -13,7 +13,7 @@ to maintain, to uphold
 поддерживать, сохранять
 
 ---
-[[auf]]|[[recht]]|[[er]]|[[halten]]
+[[Worter/A/auf]]|[[recht]]|[[er]]|[[halten]]
 
 ---
 ich: [[erhalte aufrecht]], [[erhielt aufrecht]], –, [[erhalte aufrecht]], [[erhielte aufrecht]]
@@ -25,7 +25,7 @@ ihr: [[erhaltet aufrecht]], [[erhieltet aufrecht]], [[erhaltet aufrecht]], [[erh
 PI: [[aufrechterhaltend]], PII: [[aufrechterhalten]], Zu+inf: [[aufrechtzuerhalten]]
 
 ---
-[[aufrechterhalten]] - [[auf]] - [[recht]] = [[erhalten]] / to maintain, to uphold
+[[aufrechterhalten]] - [[Worter/A/auf]] - [[recht]] = [[erhalten]] / to maintain, to uphold
 
 ---
 [[Recht]], [[halten]], [[Aufrechterhaltung]], [[aufrecht]]

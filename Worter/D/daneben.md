@@ -17,7 +17,7 @@ beside, wrong, off
 рядом, неправильно
 
 ---
-[[da]]|[[neben]]
+[[da]]|[[Worter/N/neben]]
 
 ---
 [[daneben]]

@@ -1,1 +1,1 @@
-, [[Bunt]], [[langweilig]], [[facettenreich]]
+, [[Bunt]], [[langweilig]], [[facettenreich]], [[wechselvoll]]

@@ -13,7 +13,7 @@ Antonyme: [[bedächtig]], [[überlegt]], [[vorsichtig]], [[besonnen]]
 Übersetzung: to rush, to do something hastily
 
 ---
-Morpheme: [[über]][[stürz]][[en]]
+Morpheme: [[Worter/Ü/über]][[stürz]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,4 +26,4 @@ Morpheme: [[über]][[stürz]][[en]]
 | Sie | [[überstürzen]] | [[überstürzten]] | [[überstürzen Sie]] | [[überstürzen]] | [[überstürzten]] |
 
 Partizip I: [[überstürzend]], Partizip II: [[überstürzt]]
-[[überstürzen]] - [[über]] = [[stürzen]]
+[[überstürzen]] - [[Worter/Ü/über]] = [[stürzen]]

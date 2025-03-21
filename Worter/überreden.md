@@ -14,7 +14,7 @@ Katara hat keine [[Schuld]]. Ich hab sie [[überredet]]. _[Sieht [[schuldbewuss
 to persuade, to convince
 
 ---
-[[über]]|[[red]]|[[en]]
+[[Worter/Ü/über]]|[[red]]|[[en]]
 
 ---
 ich: [[überrede]], [[überredete]], –, [[überrede]], [[überredete]]
@@ -26,7 +26,7 @@ ihr: [[überredet]], [[überredetet]], [[überredet]], [[überredet]], [[überre
 PI: [[überredend]], PII: [[überredet]], Zu+inf: [[überzureden]]
 
 ---
-[[überreden]] - [[über]] = [[reden]] / to persuade, to convince
+[[überreden]] - [[Worter/Ü/über]] = [[reden]] / to persuade, to convince
 
 ---
 [[Überredung]], [[Überredungskunst]], [[Redegewandt]], [[Überzeugung]], [[überredend]]

@@ -1,1 +1,1 @@
-, [[attraktiv]]
+, [[attraktiv]], [[Sehenswürdigkeit]]

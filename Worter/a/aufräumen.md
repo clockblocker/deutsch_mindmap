@@ -19,7 +19,7 @@ Antonyme: [[verschmutzen]], [[verunreinigen]], [[unordentlich machen]]
 Übersetzung: to clean up, to tidy up
 
 ---
-Morpheme: [[auf]][[räum]][[en]]
+Morpheme: [[Worter/A/auf]][[räum]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -32,4 +32,4 @@ Morpheme: [[auf]][[räum]][[en]]
 | Sie | [[räumen auf]] | [[räumten auf]] | [[räumen Sie auf]] | [[räumen auf]] | [[räumten auf]] |
 
 Partizip I: [[aufräumend]], Partizip II: [[aufgeräumt]]
-[[aufräumen]] - [[auf]] = [[räumen]], [[vereinbaren]]
+[[aufräumen]] - [[Worter/A/auf]] = [[räumen]], [[vereinbaren]]

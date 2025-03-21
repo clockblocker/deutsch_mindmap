@@ -16,7 +16,7 @@ to overtax, to overwhelm
 [[Forderung]], [[Überforderung]], [[überfordert]], [[überfordernd]]
 
 ---
-[[über]]|[[forder]]|[[n]]
+[[Worter/Ü/über]]|[[forder]]|[[n]]
 [[überfordern]]
 
 

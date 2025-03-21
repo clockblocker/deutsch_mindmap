@@ -10,7 +10,7 @@ Das Wasserblase [[bricht]] über Sokka zusammen und der Fisch fällt ins Wasser_
 
 Mit einem Krachen [[bricht]] der Eisberg auseinander und versinkt im Wasser.
 
-– [[Brechen den Stab|Brechen]] Sie nicht so schnell [[den]] [[Stab]] [[über]] einen Menschen! (Verurteilen Sie ihn nicht zu schnell)
+– [[Brechen den Stab|Brechen]] Sie nicht so schnell [[den]] [[Stab]] [[Worter/Ü/über]] einen Menschen! (Verurteilen Sie ihn nicht zu schnell)
 
 [[Sein Auge bricht]]. (Er stirbt)
 

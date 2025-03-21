@@ -14,7 +14,7 @@ du hast recht, das verb **“gesucht”** ist schon das partizip ii, also bleibt
 remaining, left over, spare
 
 ---
-[[über]]|[[ig]]
+[[Worter/Ü/über]]|[[ig]]
 
 ---
 N: [[übrig]], [[übrigerer]], [[übrigster]]  

@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Tanne]], [[Tannens]], [[Tannen]], [[Tannen]]
 ---
 #Substantiv #Feminin
  
-, [[Tannenbaum]]
+, [[Tannenbaum]], [[Linde]]

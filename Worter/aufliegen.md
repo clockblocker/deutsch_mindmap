@@ -12,7 +12,7 @@
 to land, to be open, to be served
 
 ---
-[[auf]]|[[lie]]|[[gen]]
+[[Worter/A/auf]]|[[lie]]|[[gen]]
 
 ---
 ich: [[liege auf]], [[lag auf]], –, [[liege auf]], [[läge auf]]
@@ -24,7 +24,7 @@ ihr: [[liegt auf]], [[lagt auf]], [[legt auf]], [[lieget auf]], [[lagtet auf]]
 PI: [[aufliegend]], PII: [[aufgelegen]], Zu+inf: [[aufzuliegen]]
 
 ---
-[[aufliegen]] - [[auf]] = [[liegen]] / to land, to be open, to be served
+[[aufliegen]] - [[Worter/A/auf]] = [[liegen]] / to land, to be open, to be served
 
 ---
 [[Auflage]], [[aufliegen]], [[Aufleger]], [[aufliegend]], [[Aufflug]]

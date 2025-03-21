@@ -1,2 +1,2 @@
 
-, [[Alle]]
+, [[Worter/A/Alle]]

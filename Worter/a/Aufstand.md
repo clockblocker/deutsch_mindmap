@@ -19,7 +19,7 @@ die [[Aufstände]]
 uprising, revolt, rebellion
 
 ---
-[[Auf]]|[[stand]]
+[[Worter/A/auf]]|[[stand]]
 
 ---
 N: der [[Aufstand]], die [[Aufstände]]  

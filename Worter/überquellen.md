@@ -12,7 +12,7 @@ Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quel
 to overflow, to spill over
 
 ---
-[[über]]|[[quell]]|[[en]]
+[[Worter/Ü/über]]|[[quell]]|[[en]]
 
 ---
 ich: [[überquelle]], [[überquoll]], –, [[überquelle]], [[überquölle]]
@@ -24,7 +24,7 @@ ihr: [[überquillt]], [[überquollt]], [[überquillt]], [[überquellet]], [[übe
 PI: [[überquellend]], PII: [[überquollen]], Zu+inf: [[überzuquellen]]
 
 ---
-[[überquellen]] - [[über]] = [[quellen]] / to overflow, to spill over
+[[überquellen]] - [[Worter/Ü/über]] = [[quellen]] / to overflow, to spill over
 
 ---
 [[Überquellung]], [[Überfluss]], [[quellen]], [[Quellung]], [[Erguss]], [[Quelle]]

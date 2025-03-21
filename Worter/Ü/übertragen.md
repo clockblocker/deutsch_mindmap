@@ -13,7 +13,7 @@ Antonyme: [[zurückhalten]], [[blockieren]], [[verhindern]]
 Übersetzung: to transfer, to transmit, to broadcast
 
 ---
-Morpheme: [[über]][[trag]][[en]]
+Morpheme: [[Worter/Ü/über]][[trag]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -26,5 +26,5 @@ Morpheme: [[über]][[trag]][[en]]
 | Sie | [[übertragen]] | [[übertrugen]] | [[übertragen Sie]] | [[übertragen]] | [[übertrügen]] |
 
 Partizip I: [[übertragend]], Partizip II: [[übertragen]]
-[[übertragen]] - [[über]] = [[tragen]]
+[[übertragen]] - [[Worter/Ü/über]] = [[tragen]]
 ''', [[funkten]], [[s1 e1]], [[versenden]]

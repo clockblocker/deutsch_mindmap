@@ -1,1 +1,1 @@
-, [[regieren]], [[Oberhaupt]]
+, [[regieren]], [[Oberhaupt]], [[Monarch]]

@@ -22,7 +22,7 @@
 | nach        | [[nachstellen]]        | [[nachstehen]]        | [[nachstehen]]       |                       | [[nachlegen]]        | [[nachsitzen]]      |
 | nieder      |                        |                       | [[niederlegen]]      | [[neiderliegen]]      | [[niederlegen]]      |                     |
 | quer        | [[querstellen]]        | [[querstehen]]        | [[querlegen]]        | [[querliegen]]        |                      |                     |
-| [[über]] 2  | [[überstellen]]        | [[überstehen]]        | [[überlegen]]        |                       | [[überlegen]]        |                     |
+| [[Worter/Ü/über]] 2  | [[überstellen]]        | [[überstehen]]        | [[überlegen]]        |                       | [[überlegen]]        |                     |
 | [[um]] 2    | [[umstellen]]          | [[umstehen]]          | [[umlegen]]          | [[umliegen]]          | [[umlegen]]          |                     |
 | umher       |                        | [[umherstehen]]       |                      | [[umherliegen]]       |                      |                     |
 | [[unter]] 2 | [[unterstellen]]       | [[unterstehen]]       | [[unterlegen]]       | [[unterliegen]]       | [[unterlegen]]       |                     |

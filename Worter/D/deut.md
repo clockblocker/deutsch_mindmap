@@ -1,1 +1,1 @@
-[[bedeuten]], [[Bedeutung]], [[deuten]], [[Deutung]], [[deutlich]], [[eindeutig]]
+[[bedeuten]], [[Bedeutung]], [[deuten]], [[Deutung]], [[deutlich]], [[eindeutig]], [[bedeutend]]

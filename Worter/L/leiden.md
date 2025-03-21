@@ -1,10 +1,11 @@
 🤕 [[leiden]], [ˈlaɪ̯dn̩] | [[litt]], haben [[gelitten]]
 
 ---
-*Er schlug den Stuhl und Vogel tot,*  
-*die Katzen 😥 [[leiden|litten]] große Not.*  
+Er schlug den Stuhl und Vogel tot,
+die Katzen 😥 [[leiden|litten]] große Not.
 
 [[Eine Extrawurst bekommen.md#^6|(q)]] [[Ausgerechnet]] zu Tante Gisela, die Kinder doch sowieso nicht [[leiden]] kann! Das [[Schlimmste]] aber ist: Tim muss nicht mitkommen. ^6
+
 
 *Ins Bett muß Friedrich nun hinein,*  
 *[[litt]] vielen Schmerz an seinem Bein;*  

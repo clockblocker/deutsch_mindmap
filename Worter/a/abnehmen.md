@@ -33,4 +33,4 @@ Partizip I: [[abnehmend]], Partizip II: [[abgenommen]]
 
 
 
-, [[schwinden]], [[anheften]], [[entfernen]], [[verringern]], [[absinken]]
+, [[schwinden]], [[anheften]], [[entfernen]], [[verringern]], [[absinken]], [[Diät]]

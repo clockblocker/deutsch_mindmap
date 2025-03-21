@@ -15,7 +15,7 @@ die [[Aufnahmen]]
 recordings, recordings, takes, admission
 
 ---
-[[auf]]|[[nahm]]|[[en]]
+[[Worter/A/auf]]|[[nahm]]|[[en]]
 
 ---
 N: die [[Aufnahme]], die [[Aufnahmen]]  

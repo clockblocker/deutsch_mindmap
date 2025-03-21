@@ -25,15 +25,11 @@ Ich fühle mich wie ein geschlagener, kraftloser Sack.
 
 **Thema 1 Beschreiben Sie einen Arbeitgeber, für den Sie gearbeitet haben oder arbeiten möchten (z. B. Branche, Produkte und Dienstleistungen, Abteilungen und ihre Aufgaben, Besonderheiten).**
 
-  
-
 Ich möchte einen Arbeitgeber beschreiben, bei dem ich nach meinem Masterabschluss gearbeitet habe. Das war im Jahr 2012 beim Lebensmittelkonzern Nestlé, der weltweit bekannt ist. 
 
 Ich möchte einen Arbeitgeber beschreiben, bei dem ich nach meinem Masterabschluss gearbeitet habe. Das war im Jahr 2012 beim Lebensmittelkonzern Nestlé, der weltweit bekannt ist. ✅
 
 Das Unternehmen produziert und verkauft eine Vielzahl von Produkten wie Kaffee, Süßigkeiten, [[Babynahrung]] und weitere Lebensmittel.
-
-  
 
 Der Konzern hat seinen Hauptsitz in Vevey, in der Schweiz, und beschäftigt weltweit etwa 300.000 Mitarbeiter. In Russland, wo ich tätig war, arbeiteten ungefähr 10.000 Angestellte für Nestlé. Ich war dort als interne Auditorin tätig und [[zuständig]] für die Region GUS, [[insbesondere]] für Russland, die Ukraine, Kasachstan, Usbekistan sowie einige weitere Märkte. 
 

@@ -25,7 +25,7 @@ Zuerst [[schloss]] sie Freundschaft mit dem Hasen und [[begleitete]] ihn [[über
 everywhere, all over, in all places
 
 ---
-[[über]][[all]]
+[[Worter/Ü/über]][[all]]
 
 ---
 [[überal]], [[überallhin]], [[überallher]]

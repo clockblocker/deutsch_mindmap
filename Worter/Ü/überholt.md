@@ -16,7 +16,7 @@ outdated, obsolete
 [[überholen]], [[Überholung]]
 
 ---
-[[über]]|[[hol]]|[[t]]
+[[Worter/Ü/über]]|[[hol]]|[[t]]
 [[überholt]]
 
 

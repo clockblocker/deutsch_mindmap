@@ -11,7 +11,8 @@ die [[Türen]]
 ≠ [[Wand]], [[Fenster]], [[Dach]], [[Zimmer]]
 
 ---
-door
+door 
+
 
 ---
 [[Tü]]|[[r]]
@@ -24,3 +25,5 @@ D: der [[Tür]], den [[Türen]]
 
 ---
 [[Türgriff]], [[Türkette]], [[Türspion]], [[Türschloss]], [[Türklinke]], [[Türstopper]], [[Küchenfenster]]
+
+#Feminin 

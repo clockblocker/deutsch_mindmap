@@ -5,7 +5,7 @@ haben [[aufgehängt]]
 ---
 Werner hat beim Aufräumen ein altes Urlaubsfoto gefunden. Er hat einen [[Rahmen]] dafür gekauft und will es im Wohnzimmer aufhängen.
 
-Ehe ich's vergesse: heute abend läßt du dir von Tante Martha einen Kleiderbügel geben und [[hängst]] den Anzug ordentlich [[auf]]
+Ehe ich's vergesse: heute abend läßt du dir von Tante Martha einen Kleiderbügel geben und [[hängst]] den Anzug ordentlich [[Worter/A/auf]]
 
 111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
 	- [ ] Die Politik Israels [[öffentlich]] kritisieren.
@@ -21,7 +21,7 @@ Antonyme: [[abnehmen]], [[herunterhängen]], [[entfernen]]
 Übersetzung: to hang up, to suspend
 
 ---
-Morpheme: [[auf]][[häng]][[en]]
+Morpheme: [[Worter/A/auf]][[häng]][[en]]
  #Verb  #Trennbar
 
 | Person    | Präsens        | Präteritum       | Imperativ          | Konjunktiv I    | Konjunktiv II     |
@@ -35,6 +35,6 @@ Morpheme: [[auf]][[häng]][[en]]
 |           |                |                  |                    |                 |                   |
 
 Partizip I: [[aufhängend]], Partizip II: [[aufgehängt]]
-[[aufhängen]] - [[auf]] = [[hängen]]
+[[aufhängen]] - [[Worter/A/auf]] = [[hängen]]
 
 , [[einhängen]], [[hängen]]

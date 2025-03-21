@@ -1,1 +1,1 @@
-nicht [[genau]]: [[zu]] = [[Platzwechsel]], [[bei]] = [[Location]]
+nicht [[genau]]: [[zu]] = [[Worter/P/Platzwechsel]], [[bei]] = [[Location]]

@@ -19,15 +19,15 @@ to hang up (the phone)
 [[Auflegen]], [[Auflage]], [[auflegen auf]]
 
 ---
-[[auf]]|[[leg]]|[[en]]
-[[auf]] + [[legen]]
+[[Worter/A/auf]]|[[leg]]|[[en]]
+[[Worter/A/auf]] + [[legen]]
 
 ---
 ###### [[auflegen]] jN
-– Was [[legst]] du [[auf]]?
+– Was [[legst]] du [[Worter/A/auf]]?
 – Musik.
 
-– Was [[legen]] wir [[auf]]?
+– Was [[legen]] wir [[Worter/A/auf]]?
 – Neue Platten.
 
 – Warum [[hat]] er die Platte [[aufgelegt]]?
@@ -35,13 +35,13 @@ to hang up (the phone)
 
 ---
 ###### [[auflegen]] jN `auf` jN
-– Was [[legst]] du [[auf]] das Brot?
+– Was [[legst]] du [[Worter/A/auf]] das Brot?
 – Käse.
 
-– Was [[legen]] wir [[auf]] den Tisch?
+– Was [[legen]] wir [[Worter/A/auf]] den Tisch?
 – Das Geschirr.
 
-– Warum [[hat]] sie das Buch [[auf]] den Tisch [[aufgelegt]]?
+– Warum [[hat]] sie das Buch [[Worter/A/auf]] den Tisch [[aufgelegt]]?
 – Um es zu lesen.
 
 ---

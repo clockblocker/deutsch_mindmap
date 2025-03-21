@@ -22,7 +22,7 @@ to open
 открывать
 
 ---
-[[auf]]|[[mach]]|[[en]]
+[[Worter/A/auf]]|[[mach]]|[[en]]
 
 ---
 ich: [[mache auf]], [[machte auf]], –, [[mache auf]], [[machte auf]]
@@ -34,7 +34,7 @@ ihr: [[macht auf]], [[machtet auf]], [[macht auf]], [[machtet auf]], [[machtet a
 PI: [[aufmachend]], PII: [[aufgemacht]], Zu+inf: [[aufzumachen]]
 
 ---
-[[aufmachen]] - [[auf]] = [[machen]] / to open
+[[aufmachen]] - [[Worter/A/auf]] = [[machen]] / to open
 
 ---
-[[Aufmachung]], [[auf]], [[machen]], [[Aufwand]], [[Aufgabe]]
+[[Aufmachung]], [[Worter/A/auf]], [[machen]], [[Aufwand]], [[Aufgabe]]

@@ -11,7 +11,7 @@
 ---
 = [[unterhalb]], [[darunter]], [[unten]]
 ≈ [[tiefer]], [[niedriger]], [[im Unterschied zu]], [[im Gegensatz zu]]
-≠ [[über]], [[oberhalb]], [[oben]]
+≠ [[Worter/Ü/über]], [[oberhalb]], [[oben]]
 
 ---
 under, below, beneath

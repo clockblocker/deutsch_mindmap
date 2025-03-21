@@ -30,4 +30,4 @@ G: des [[Zeugs]], der [[Zeuge]]
 D: dem [[Zeug]], den [[Zeugen]]
 
 , [[überzeugen]], [[zeugen]], 
-, [[erzeugen]]
+, [[erzeugen]], [[zeigen]]

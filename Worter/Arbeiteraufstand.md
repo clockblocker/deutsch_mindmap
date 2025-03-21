@@ -16,7 +16,7 @@ workers' uprising, labor revolt
 
 ---
 [[Arbeiter]]+[[Aufstand]]
-[[Arbei]]|[[ter]]|[[Auf]]|[[stand]]
+[[Arbei]]|[[ter]]|[[Worter/A/auf]]|[[stand]]
 
 ---
 N: der [[Arbeiteraufstand]], die [[Arbeiteraufstände]]  

@@ -2,7 +2,7 @@
 
 ---
 [[hinweisen]] - [[hin]] = [[weisen]] / to point out, to indicate
-[[überweisen]] - [[über]] = [[weisen]] / to transfer (money)
+[[überweisen]] - [[Worter/Ü/über]] = [[weisen]] / to transfer (money)
 [[beweisen]] - [[be]] = [[weisen]] / to prove, to demonstrate, to verify
 [[er]] + [[weisen]] = [[erweisen]] // to prove, to show
 

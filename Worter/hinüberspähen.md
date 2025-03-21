@@ -12,7 +12,7 @@ Mrs Dursley war dünn und blond und [[besaß]] [[doppelt]] so viel Hals, wie [[n
 to peek over, to look over
 
 ---
-[[hin]]|[[über]]|[[späh]]|[[en]]
+[[hin]]|[[Worter/Ü/über]]|[[späh]]|[[en]]
 
 ---
 ich: [[spähe hinüber]], [[späh(e)te hinüber]], –, [[spähe hinüber]], [[späh(e)te hinüber]]
@@ -24,7 +24,7 @@ ihr: [[späht hinüber]], [[späh(e)tet hinüber]], [[späht hinüber]], [[späh
 PI: [[hinüberspähend]], PII: [[hinüberspäht]], Zu+inf: [[hinüberzuspähen]]
 
 ---
-[[hinüberspähen]] - [[hin]] + [[über]] = [[spähen]] / to peek over, to look over
+[[hinüberspähen]] - [[hin]] + [[Worter/Ü/über]] = [[spähen]] / to peek over, to look over
 
 ---
 [[Späher]], [[Spähvorgang]], [[Beobachtung]], [[Spähtrupp]], [[Spähbetrieb]]

@@ -1,6 +1,4 @@
-🎯 [[stoßen]] + Akk/Dat, [ˈʃtɔsən]
-[[stieß]] 
-haben [[gestoßen]]
+💥 [[stoßen]], [ˈʃtɔːsn̩](https://youglish.com/pronounce/stoßen/german) | [[stieß]], haben [[gestoßen]]
 
 ---
 _Der Wasserball [[stößt]] an Sokkas Speerende und zerplatzt.
@@ -13,27 +11,60 @@ _Sokka [[stößt]] ihm mit dem Ende des Speers an den Kopf und Katara schlägt i
 [[anstoßen]] - [[an]] = [[stoßen]] / to toast, to clink glasses
 
 ---
-Synonyme: [[schubsen]], [[drücken]], [[werfen]], [[rempeln]], [[anstoßen]]
-Antonyme: [[ziehen]], [[fangen]], [[meiden]]
+= [[schlagen]], [[rammen]], [[anstoßen]]
+≈ [[drücken]], [[schieben]], [[treffen]], [[prallen]]
+≠ [[ziehen]], [[entfernen]], [[verfehlen]], [[verpassen]]
 
 ---
-Übersetzung: to push, to strike
+to push, to bump, to hit
+толкать, ударять
 
 ---
-Morpheme: [[stoß]][[en]]
- #Verb #Untrennbar
+[[Stoß]], [[Stoßstange]], [[anstoßen]], [[stoßen auf]], [[gestoßen]]
 
 ---
+[[stoß]]|[[en]]
+[[stoßen]]
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[stoße]]            | [[stieß]]             | -                 | [[stoße]]              | [[stieße]]              |
-| Du        | [[stößt]]            | [[stießt]]            | [[stoß]]          | [[stoßest]]            | [[stießest]]            |
-| Er/sie/es | [[stößt]]            | [[stieß]]             | -                 | [[stoße]]              | [[stieße]]              |
-| Wir       | [[stoßen]]           | [[stießen]]           | -                 | [[stoßen]]             | [[stießen]]             |
-| Ihr       | [[stoßt]]            | [[stießt]]            | [[stoßt]]         | [[stoßet]]             | [[stießet]]             |
-| Sie       | [[stoßen]]           | [[stießen]]           | [[stoßen Sie]]    | [[stoßen]]             | [[stießen]]             |
 
-Partizip I: [[stoßend]], Partizip II: [[gestoßen]]
+---
+###### [[stoßen]] jN
+- Was [[stößt]] du?
+- Den Ball.
 
-[[ziehen]], [[werfen]], [[schieben]], [[Schubst]], [[abstoßen]], [[stupsen]], [[verstoßen]], [[s1 e1]]
+- Wen [[stoßen]] wir?
+- Niemanden.
+
+- Warum [[hat]] er das [[gestoßen]]?
+- Aus Versehen.
+
+---
+###### [[stoßen]] `auf` jN
+- `Worauf` [[stößt]] du?
+- `Auf` ein Problem.
+
+- `Auf` wen [[sind]] wir [[gestoßen]]?
+- `Auf` einen alten Freund.
+
+- Wie lange [[bist]] du `darauf` [[gestoßen]]?
+- Erst heute.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[stoß]] / [[stoße]], [[stieß]], [[stoße]], [[stieße]], -
+du, [[stößt]], [[stießest]], [[stoß]], [[stießest]], [[stoß]] / [[stoße]]
+er, [[stößt]], [[stieß]], [[stoße]], [[stieße]], -
+wir, [[stoßen]], [[stießen]], [[stoßen]], [[stießen]], [[stoßen]]
+ihr, [[stoßt]], [[stießt]], [[stoßt]], [[stießet]], [[stoßt]]
+sie, [[stoßen]], [[stießen]], [[stoßen]], [[stießen]], [[stoßen]]
+
+*Zu + Inf*: zu [[stoßen]], *P2*: [[gestoßen]]
+Adjektive: [[stoßend]], [[stoßender]], [[stoßendst]]
+
+---
+[[stoßender]], [[stoßendes]], [[stoßende]], [[stoßenden]], [[stoßendem]], [[stoßenderer]], [[stoßenderes]], [[stoßendere]], [[stoßenderen]], [[stoßenderem]], [[stoßendster]], [[stoßendstes]], [[stoßendste]], [[stoßendsten]], [[stoßendstem]]
+
+
+Wir stoßen uns an unseren Fehlern.
+
+

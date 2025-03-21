@@ -14,7 +14,7 @@ Antonyme: [[aufbleiben]], [[weitermachen]], [[reisen]]
 to spend the night, to stay overnight
 
 ---
-[[über]][[nach]][[ten]]
+[[Worter/Ü/über]][[nach]][[ten]]
  
 ---
 
@@ -29,7 +29,7 @@ Partizip I: [[übernachtend]],
 Partizip II: [[übernachtet]]
 Zu+infinitive: [[übernachten]]
 
-[[übernachten]] - [[über]] = [[nachten]]
+[[übernachten]] - [[Worter/Ü/über]] = [[nachten]]
 
 ---
 [[Übernachtung]], [[Übernachtungsort]], [[Übernachtungsgast]], [[Übernachtungskosten]], [[Übernachtungsplatz]]

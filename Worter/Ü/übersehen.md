@@ -11,7 +11,7 @@ Antonyme: [[wahrnehmen]], [[bemerken]], [[erkennen]], [[sehen]]
 to overlook, to miss, to ignore
 
 ---
-[[über]][[seh]][[en]]
+[[Worter/Ü/über]][[seh]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[übersehend]],
 Partizip II: [[übersehen]]
 Zu+infinifive: [[zu übersehen]]
 
-[[übersehen]] - [[über]] = [[sehen]]
+[[übersehen]] - [[Worter/Ü/über]] = [[sehen]]
 
 ---
 [[Übersehen]], [[Übersehung]], [[Übersicht]], [[Übersichtlichkeit]], [[unübersehbar]]

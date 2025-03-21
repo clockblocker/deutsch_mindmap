@@ -4,7 +4,7 @@
 *[[Golfstorm#^7|^]]* die [[Forschenden]] fanden jedoch keine [[Hinweise]] auf einen [[vollständigen]] Kollaps. ^7
 
 ---
-= [[komplett]], [[ganz]], [[total]], [[ganz]], [[völlig]], [[voll]], [[gesamt]],  [[sämtlich]], [[insgesamt]], [[Alle]] 
+= [[komplett]], [[ganz]], [[total]], [[ganz]], [[völlig]], [[voll]], [[gesamt]],  [[sämtlich]], [[insgesamt]], [[Worter/A/Alle]] 
 ≈ [[ausführlich]], [[umfassend]], [[restlos]],  [[Vollbremsung]],  [[mehrheitlich]], [[dicht]]
 ≠ [[unvollständig]], [[teilweise]], [[fragmentarisch]], [[halbes]], [[ziemlich]], [[lediglich]],  [[übrig]],[[teilweise]]
 

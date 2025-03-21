@@ -11,7 +11,7 @@
 to leave, to entrust, to hand over
 
 ---
-[[über]]|[[las]]|[[sen]]
+[[Worter/Ü/über]]|[[las]]|[[sen]]
 
 ---
 ich: [[überlasse]], [[überließ]], –, [[überlasse]], [[überließe]]
@@ -23,7 +23,7 @@ ihr: [[überlasst]], [[überließet]], [[überlasst]], [[überlasst]], [[überli
 PI: [[überlassend]], PII: [[überlassen]], Zu+inf: [[zu überlassen]]
 
 ---
-[[überlassen]] - [[über]] = [[lassen]] / to leave, to entrust, to hand over
+[[überlassen]] - [[Worter/Ü/über]] = [[lassen]] / to leave, to entrust, to hand over
 
 ---
 [[Überlassung]], [[Überlasser]], [[Überlasserin]], [[überlässlich]], [[Überlassungsvertrag]], [[widmen]]

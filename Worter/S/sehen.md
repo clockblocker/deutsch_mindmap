@@ -9,7 +9,7 @@
 [[sehen lassen]] = [[sehen]] + [[lassen]]  / to show oneself, to demonstrate
 [[umsehen]] - [[um]] = [[sehen]]               / to look around, to survey
 [[wiedersehen]] - [[wieder]] = [[sehen]]   / to see again, to meet again
-[[aufsehen]] - [[auf]] = [[sehen]]                / to look up, to notice
+[[aufsehen]] - [[Worter/A/auf]] = [[sehen]]                / to look up, to notice
 
 
 ---
@@ -39,4 +39,4 @@ Partizip I: [[sehend]], Partizip II: [[gesehen]]
 
 
 [[wiedersehen]], [[ansehen]], [[aussehen]]
-, [[gucken]], [[sehen lassen]], [[umsehen]], [[anderessehen]], [[aufsehen]], [[anblicken]], [[s1 e1]], [[Ansichtskarte]]
+, [[gucken]], [[sehen lassen]], [[umsehen]], [[anderessehen]], [[aufsehen]], [[anblicken]], [[s1 e1]], [[Ansichtskarte]], [[Sehenswürdigkeit]]

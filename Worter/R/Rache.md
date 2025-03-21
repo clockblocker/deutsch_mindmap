@@ -1,1 +1,1 @@
-, [[Selbstjustiz]], [[Vergebung]]
+, [[Selbstjustiz]], [[Vergebung]], [[rächen]]

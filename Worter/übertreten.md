@@ -16,7 +16,7 @@
 to transgress, to violate, to overstep
 
 ---
-[[über]]|[[tre]]|[[ten]]
+[[Worter/Ü/über]]|[[tre]]|[[ten]]
 
 ---
 ich: [[übertrete]], [[übertrat]], –, [[übertrete]], [[übertäte]]
@@ -28,7 +28,7 @@ ihr: [[übertretet]], [[übertratet]], [[übertretet]], [[übertretet]], [[über
 PI: [[übertretend]], PII: [[übertreten]], Zu+inf: [[übertreten]]
 
 ---
-[[übertreten]] - [[über]] = [[treten]] / to transgress, to violate, to overstep
+[[übertreten]] - [[Worter/Ü/über]] = [[treten]] / to transgress, to violate, to overstep
 
 ---
 [[Übertretung]], [[Gesetzesübertretung]], [[übertreten]], [[Überschreitung]], [[Verletzer]]

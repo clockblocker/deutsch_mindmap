@@ -1,39 +1,4 @@
-🔄 [[wenden]], [ˈvɛndən] | [[wendete]], haben [[gewendet]]
-
----
-
----
-= [[drehen]], [[umdrehen]], [[umkehren]]
-≈ [[kehren]], [[umwenden]], [[transformieren]]
-≠ [[festhalten]], [[behalten]], [[belassen]]
-
----
-to turn, to change, to turn over
-
----
-[[wen]]|[[den]]
-
----
-ich: [[Wende]], [[wendete]], –, [[Wende]], [[wendete]]
-du: [[wendest]], [[wendetest]], [[Wende]] | [[wend]], [[wendest]], [[wendetest]]
-er/sie/es: [[wendet]], [[wendete]], –, [[Wende]], [[wendete]]
-wir: [[wenden]], [[wendeten]], [[wenden wir|wenden]], [[wenden]], [[wendeten]]
-ihr: [[wendet]], [[wendetet]], [[wendet]], [[wendet]], [[wendetet]]
-
-PI: [[wendend]], PII: [[gewendet]], Zu+inf: [[zuwenden]]
-
----
-[[wenden]] / to turn, to change, to turn over
-
----
-[[Wendung]], [[Wende]], [[Wendepunkt]], [[umwenden]], [[anwenden]], [[einwenden]]
-
-
-
-
-🔁 [[wenden]] sich an, [ˈvɛndən]
-[[wandte an|wandte an]]  
-haben [[gewandt]]
+🔄 [[wenden]], [ˈvɛndn̩](https://youglish.com/pronounce/wenden/german) | [[wandte]]/[[wendete]], haben [[gewandt]]/[[gewendet]]
 
 ---
 ([[Wendet]] [[sich]] unbeeindruckt seinem Spiel zu)
@@ -41,36 +6,69 @@ haben [[gewandt]]
 „Katrin“, [[wendet]] er [[sich]] [[an]] seine Frau, „soll ich das Bild nicht besser ins Schlafzimmer hängen?“ 
 
 ---
-+[[ver]] = [[verwenden]]
-+[[zu]] = [[zuwenden]]
++[[ver]] = [[verwenden]] // to use, to apply, to employ
++[[zu]] = [[zuwenden]] // to turn towards, to direct to, to devote
+
+---
+= [[drehen]], [[umdrehen]], [[kehren]]
+≈ [[verändern]], [[ändern]], [[wenden]], [[wenden]]
+≠ [[behalten]], [[festlegen]], [[fixieren]]
+
+---
+to turn, to flip
+поворачивать
+
+---
+[[Wendung]], [[Anwendung]], [[verwandt]], [[Wende]]
+
+---
+[[wend]]|[[en]]
 
 
 ---
-Synonyme: [[drehen]], [[umdrehen]], [[umkehren]], [[umstellen]], [[umlenken]], [[umdrehen]], [[drehen]]
-Antonyme: [[gradlinig]], [[starr]], [[unbeweglich]], [[gerade]]
+###### [[wenden]] jN
+- Was [[wendest]] du?
+- Das Blatt.
+
+- Warum [[wenden]] wir das Schiff?
+- Um zurückzufahren.
+
+- Wie [[hat]] er das Fleisch [[gewendet]]?
+- Mit einer Gabel.
 
 ---
-Übersetzung: to turn, to bend
+###### [[wenden]] *[[sich]]* `an` jN
+- `An` wen [[wendest]] du *[[dich]]*?
+- `An` meinen Anwalt.
+
+- `An` wen [[wenden]] wir *[[uns]]*?
+- `An` die Behörden.
+
+- Warum [[hat]] er *[[sich]]* `an` sie [[gewendet]]?
+- Um Hilfe zu bekommen.
 
 ---
-Morpheme: [[wend]][[en]]
- #Verb  #Trennbar
- 
+###### [[wenden]] jN `an` jN
+- Was [[wendest]] du `an`?
+- Meine ganze Kraft `an` die Aufgabe.
+
+- Was [[wenden]] wir `an`?
+- Unsere Ressourcen `an` das Projekt.
+
+- Warum [[hat]] er seine Zeit `an` das Spiel [[gewendet]]?
+- Weil es ihm Spaß gemacht hat.
+
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[wend]] / [[wende]], [[wandte]] / [[wendete]], [[wende]], [[wandte]] / [[wendete]], -
+du, [[wendest]], [[wandtest]] / [[wendetest]], [[wendest]], [[wandtest]] / [[wendetest]], [[wend]] / [[wende]]
+er, [[wendet]], [[wandte]] / [[wendete]], [[wende]], [[wandte]] / [[wendete]], -
+wir, [[wenden]], [[wandten]] / [[wendeten]], [[wenden]], [[wandten]] / [[wendeten]], [[wenden]]
+ihr, [[wendet]], [[wandtet]] / [[wendetet]], [[wendet]], [[wandtet]] / [[wendetet]], [[wendet]]
+sie, [[wenden]], [[wandten]] / [[wendeten]], [[wenden]], [[wandten]] / [[wendeten]], [[wenden]]
 
+*Zu + Inf*: zu [[wenden]], *P2*: [[gewandt]] / [[gewendet]]
+Adjektive: [[wendend]], [[wendender]], [[wendendst]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[Wende]] | [[wandte]] | - | [[Wende]] | [[wendete]] |
-| Du | [[wendest]] | [[wandtest]] | [[Wende]] | [[wendest]] | [[wendtest]] |
-| Er/sie/es | [[wendet]] | [[wandte]] | - | [[Wende]] | [[wendete]] |
-| Wir | [[wenden]] | [[wandten]] | - | [[wenden]] | [[wendeten]] |
-| Ihr | [[wendet]] | [[wandtet]] | [[wendet]] | [[wendet]] | [[wendetet]] |
-| Sie | [[wenden]] | [[wandten]] | [[wenden Sie]] | [[wenden]] | [[wendeten]] |
-
-Partizip I: [[wendend]], Partizip II: [[gewendet]]
-
-[[wenden]] - [[wend]] = [[en]], [[abbiegen]], [[biegen]], [[Redewendung]], [[verdrehen]], [[anwenden]]
-
-
-
+---
+[[wendender]], [[wendendes]], [[wendende]], [[wendenden]], [[wendendem]], [[wendenderer]], [[wendenderes]], [[wendendere]], [[wendenderen]], [[wendenderem]], [[wendendster]], [[wendendstes]], [[wendendste]], [[wendendsten]], [[wendendstem]]

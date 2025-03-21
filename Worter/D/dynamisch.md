@@ -1,2 +1,2 @@
 , [[flott]], [[lebhaft]], [[matt]]
-, [[motorische]], [[lebendig]]
+, [[motorische]], [[lebendig]], [[wechselvoll]]

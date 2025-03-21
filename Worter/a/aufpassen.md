@@ -12,7 +12,7 @@ to pay attention, to watch out
 следить, быть внимательным
 
 ---
-[[auf]]|[[pass]]|[[en]]
+[[Worter/A/auf]]|[[pass]]|[[en]]
 
 ---
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
@@ -26,7 +26,7 @@ sie, [[passen auf]], [[passten auf]], [[passen auf]], [[passten auf]], [[passen 
 *Zu + Inf*: zu [[aufpassen]], P1: [[aufpassend]], P2: [[aufgepasst]]
 
 ---
-[[aufpassen]] - [[auf]] = [[passen]] / to pay attention, to watch out
+[[aufpassen]] - [[Worter/A/auf]] = [[passen]] / to pay attention, to watch out
 
 ---
 [[Aufpasser]], [[Aufpasserin]], [[Aufpassung]], [[Pass]], [[Passant]], [[Passagier]]
@@ -34,10 +34,10 @@ sie, [[passen auf]], [[passten auf]], [[passen auf]], [[passten auf]], [[passen 
 
 ---
 ###### [[aufpassen]] `auf` jN
-– `Worauf` [[passt]] du [[auf]]?
+– `Worauf` [[passt]] du [[Worter/A/auf]]?
 – `Auf` die Kinder.
 
-– `Auf` wen [[passt]] er [[auf]]?
+– `Auf` wen [[passt]] er [[Worter/A/auf]]?
 – `Auf` seinen Hund.
 
 – Wie lange [[hast]] du `darauf` [[aufgepasst]]?

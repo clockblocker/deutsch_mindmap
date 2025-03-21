@@ -1,1 +1,1 @@
-, [[Weltreise]], [[Ostasienfahrt]]
+, [[Weltreise]], [[Ostasienfahrt]], [[ferner]]

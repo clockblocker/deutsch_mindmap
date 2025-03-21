@@ -1,1 +1,1 @@
-, [[Spitze]]
+, [[Spitze]], [[Berg]]

@@ -20,7 +20,7 @@ Synonyme:
 tasks, assignments, duties
 
 ---
-[[auf]][[gaben]]
+[[Worter/A/auf]][[gaben]]
 
 ---
 Case: Singular, Plural  

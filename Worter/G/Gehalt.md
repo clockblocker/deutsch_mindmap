@@ -27,3 +27,4 @@ D: dem [[Gehalt]], den [[Gehältern]]
 [[gehaltvoll]], [[bezahlen]], [[verdienen]], [[Gehaltserhöhung]]
 
 [[Bedeutung]], [[Gehaltsvorstellungen]], [[Gehaltszahlungen]], [[unbezahlt]]
+, [[Nominallohn]]

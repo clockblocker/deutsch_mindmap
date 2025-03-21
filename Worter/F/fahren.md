@@ -13,7 +13,7 @@ Igel gefressen … oder dass ich zum Mond [[gefahren]] bin …
 ---
 [[losfahren]] - [[los]] = [[fahren]] / отъехать, to set off, to depart
 [[abfahren]] - [[ab]] = [[fahren]] / to depart, to leave
-[[überfahren]] - [[über]] = [[fahren]] / переехать, to run over,
+[[überfahren]] - [[Worter/Ü/über]] = [[fahren]] / переехать, to run over,
 [[hochfahren]] - [[hoch]] = [[fahren]] / to start up, to boot (computer
 
 

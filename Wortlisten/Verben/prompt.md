@@ -95,10 +95,10 @@
 <exapmle>
 <german_word>aufpassen</german_word>
 <ideal_valence_block>###### [[aufpassen]] `auf` jN
-– `Worauf` [[passt]] du [[auf]]?
+– `Worauf` [[passt]] du [[Worter/A/auf]]?
 – `Auf` den Verkehr.
 
-– `Auf` wen [[passt]] du [[auf]]?
+– `Auf` wen [[passt]] du [[Worter/A/auf]]?
 – `Auf` mein kleines Geschwisterchen.
 
 – Wie lange [[hast]] du `darauf` [[aufgepasst]]?

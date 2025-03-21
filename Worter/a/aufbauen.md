@@ -20,7 +20,7 @@ Antonyme: [[abbrechen]], [[zerbrechen]], [[zerstören]], [[abbauen]]
 Übersetzung: to build up, to construct
 
 ---
-Morpheme: [[auf]][[bau]][[en]]
+Morpheme: [[Worter/A/auf]][[bau]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -37,6 +37,6 @@ Morpheme: [[auf]][[bau]][[en]]
 
 Partizip I: [[aufbauend]], Partizip II: [[aufgebaut]], [[aufzubauen]]
 
-[[aufbauen]] - [[auf]] = [[bauen]]
+[[aufbauen]] - [[Worter/A/auf]] = [[bauen]]
 , [[Extra 8]], [[abreißen]], [[aufstellen]], [[stellen]], [[umwerfen]], [[abnehmen]], [[errichteten]], [[zerstörten]], [[Verwaltungsaufbau]], [[vernichten]]
 , [[zusammenbrechen]], [[etablieren]]

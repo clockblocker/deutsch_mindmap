@@ -65,4 +65,4 @@ sie, [[ändern]], [[änderten]], [[ändern]], [[änderten]], [[ändern]]
 Adjektive: [[ändernd]], [[ändernder]], [[änderndst]]
 
 ---
-[[ändernder]], [[änderndes]], [[ändernde]], [[ändernden]], [[änderndem]], [[ändernderer]], [[ändernderes]], [[änderndere]], [[ändernderen]], [[ändernderem]], [[änderndster]], [[änderndstes]], [[änderndste]], [[änderndsten]], [[änderndstem]]
+[[ändernder]], [[änderndes]], [[ändernde]], [[ändernden]], [[änderndem]], [[ändernderer]], [[ändernderes]], [[änderndere]], [[ändernderen]], [[ändernderem]], [[änderndster]], [[änderndstes]], [[änderndste]], [[änderndsten]], [[änderndstem]], [[wenden]]

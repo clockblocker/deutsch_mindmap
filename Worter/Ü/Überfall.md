@@ -14,7 +14,7 @@ die [[Überfälle]]
 attack, raid, assault
 
 ---
-[[Über]]|[[fall]]
+[[Worter/Ü/über]]|[[fall]]
 
 ---
 N: der [[Überfall]], die [[Überfälle]]  

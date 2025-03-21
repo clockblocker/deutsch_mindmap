@@ -14,7 +14,7 @@ order, assignment, mission
 заказ, поручение, задание
 
 ---
-[[auf]]|[[trag]]
+[[Worter/A/auf]]|[[trag]]
 
 ---
 N: der [[Auftrag]], die [[Aufträge]]

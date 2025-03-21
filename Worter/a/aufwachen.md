@@ -12,7 +12,7 @@ to wake up
 просыпаться
 
 ---
-[[auf]]|[[wach]]|[[en]]
+[[Worter/A/auf]]|[[wach]]|[[en]]
 
 ---
 ich: [[wache auf]], [[wachte auf]], –, [[wache auf]], [[wachte auf]]
@@ -24,7 +24,7 @@ ihr: [[wacht auf]], [[wachtet auf]], [[wacht auf]], [[wachtet auf]], [[wachtet a
 PI: [[aufwachend]], PII: [[aufgewacht]], Zu+inf: [[aufzuwachen]]
 
 ---
-[[aufwachen]] - [[auf]] = [[wachen]] / to wake up
+[[aufwachen]] - [[Worter/A/auf]] = [[wachen]] / to wake up
 
 ---
 [[Aufwachen]], [[wach]], [[wachsam]], [[wachsen]], [[wachsend]]

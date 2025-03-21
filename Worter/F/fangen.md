@@ -16,7 +16,7 @@ Ich brauch keinen Beruhigungstee! Ich will nur endlich den Avatar fangen! 
  Pass auf, so [[fängt]] man einen Fisch!
  
 ---
-[[auffangen]] - [[auf]] = [[fangen]] / to catch, to intercept
+[[auffangen]] - [[Worter/A/auf]] = [[fangen]] / to catch, to intercept
 [[anfangen]] - [[an]] = [[fangen]]     // to begin, to start
 [[empfangen]] - [[emp]] = [[fangen]] // to receive, to welcome
  

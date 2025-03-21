@@ -1,1 +1,1 @@
-, [[nachjagen]], [[gefangenzuhalten]]
+, [[nachjagen]], [[gefangenzuhalten]], [[entlassen]]

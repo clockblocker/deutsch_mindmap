@@ -17,7 +17,7 @@ consideration, deliberation
 [[überlegen]], [[überlegt]], [[Überlegungskraft]], [[überlegenswert]]
 
 ---
-[[Über]]|[[leg]]|[[ung]]
+[[Worter/Ü/über]]|[[leg]]|[[ung]]
 [[Überlegung]]
 
 

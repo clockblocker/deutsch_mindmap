@@ -12,7 +12,7 @@ _Prinz Zuko kommt mit einigen Kriegern aus dem Schiff und wird von Sokka angegri
 head over heels, upside down
 
 ---
-[[kopf]]|[[über]]
+[[kopf]]|[[Worter/Ü/über]]
 
 ---
 N: [[kopfüber]]

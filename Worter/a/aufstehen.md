@@ -12,7 +12,7 @@
 to get up, to rise
 
 ---
-[[auf]]|[[steh]]|[[en]]
+[[Worter/A/auf]]|[[steh]]|[[en]]
 
 ---
 ich: [[stehe auf]], [[stand auf]], –, [[stehe auf]], [[stände auf]]
@@ -24,7 +24,7 @@ ihr: [[steht auf]], [[standet auf]], [[steht auf]], [[stehet auf]], [[ständet a
 PI: [[aufstehend]], PII: [[aufgestanden]], Zu+inf: [[aufzustehen]]
 
 ---
-[[aufstehen]] - [[auf]] = [[stehen]] / to get up, to rise
+[[aufstehen]] - [[Worter/A/auf]] = [[stehen]] / to get up, to rise
 
 ---
 [[Aufstehen]], [[Aufsteher]], [[aufstehend]], [[Aufstandszeit]], [[aufgerichtet]]

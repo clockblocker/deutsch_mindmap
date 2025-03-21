@@ -7,7 +7,7 @@
 ---
 = [[unter]], [[darunter]], [[unten]]
 ≈ [[nieder]], [[tiefer]], [[unterhalb von]],[[nächsthöher]]
-≠ [[oberhalb]], [[über]], [[oben]]
+≠ [[oberhalb]], [[Worter/Ü/über]], [[oben]]
 
 ---
 below, underneath

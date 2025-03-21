@@ -1,1 +1,1 @@
-, [[anstellen]], [[anwerben]]
+, [[anstellen]], [[anwerben]], [[entlassen]]

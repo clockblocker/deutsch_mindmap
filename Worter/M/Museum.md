@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Museums]], [[Museum]], [[Museen]], [[Museen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neutral, [[Sehenswürdigkeit]]

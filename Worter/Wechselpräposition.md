@@ -1,4 +1,4 @@
-[[an]], [[auf]], [[über]], [[hinter]], [[vor]], [[neben]], [[in]], [[zwischen]], [[unter]]
+[[an]], [[Worter/A/auf]], [[Worter/Ü/über]], [[hinter]], [[vor]], [[Worter/N/neben]], [[in]], [[zwischen]], [[unter]]
 
 | **Preposition**                   | **Dative (Wo? - Location, no movement)**                                           | **Accusative (Wohin? - Movement, change of position)**                                      |
 | --------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |

@@ -1,1 +1,1 @@
-, [[Acker]], [[Wildblumenwiese]], [[Rasenfläche]]
+, [[Acker]], [[Wildblumenwiese]], [[Rasenfläche]], [[Büsch]]

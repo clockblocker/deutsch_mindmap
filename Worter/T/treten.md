@@ -12,9 +12,9 @@ haben/sein [[getreten]]
 ---
 [[betreten]] - [[be]] = [[treten]] /  to enter, to step into
 [[eintreten]] - [[ein]] = [[treten]] / to enter, to step in
-[[auftreten]] - [[auf]] = [[treten]] / to appear, to occur, to perform
+[[auftreten]] - [[Worter/A/auf]] = [[treten]] / to appear, to occur, to perform
 [[beitreten]] - [[bei]] = [[treten]] / to join, to become a member
-[[übertreten]] - [[über]] = [[treten]] / to transgress, to violate, to overstep
+[[übertreten]] - [[Worter/Ü/über]] = [[treten]] / to transgress, to violate, to overstep
 [[vertreten]] - [[ver]] = [[treten]] / to represent, to substitute, to stand in for
 
 

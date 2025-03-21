@@ -17,8 +17,8 @@ ascender, someone who rises in social status
 [[aufsteigen]], [[Aufstieg]], [[aufsteigen]], [[Aufstiegschance]]
 
 ---
-[[auf]]|[[steig]]|[[er]]
-[[Auf]] + [[steiger]]
+[[Worter/A/auf]]|[[steig]]|[[er]]
+[[Worter/A/auf]] + [[steiger]]
 
 ---
 N: der [[Aufsteiger]], die [[Aufsteiger]]

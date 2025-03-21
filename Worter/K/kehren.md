@@ -32,4 +32,4 @@ Morpheme: [[kehr]][[en]]
 
 Partizip I: [[kehrend]], Partizip II: [[gekehrt]]
 
-[[kehren]] - keine Präfix, [[umkehren]]
+[[kehren]] - keine Präfix, [[umkehren]], [[wenden]]

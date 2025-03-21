@@ -1,2 +1,4 @@
-Inf: [[zeigen]]
-, [[Richtung]], [[s1 e1]]
+[[zeigen]]
+
+
+[[делал]]

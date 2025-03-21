@@ -1,1 +1,1 @@
-, [[vorwärts]], [[nach unten]], [[aufwärts]]
+, [[vorwärts]], [[nach unten]], [[aufwärts]], [[Berg]]

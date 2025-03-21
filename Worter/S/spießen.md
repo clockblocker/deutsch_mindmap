@@ -5,7 +5,7 @@ haben [[gespießt]]
 ---
 
 ---
-[[aufspießen]] - [[auf]] = [[spießen]]
+[[aufspießen]] - [[Worter/A/auf]] = [[spießen]]
 
 ---
 Synonyme: [[durchbohren]], [[aufspießen]], [[stechen]], [[durchstechen]]

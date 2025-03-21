@@ -13,13 +13,13 @@ Wir [[nehmen]] dazu vor allem [[einfach]] strukturierte Verben wie _spielen_, a
 [[zu Herzen nehmen]]
 
 ----
-[[übernehmen]] - [[über]] = [[nehmen]]              / захватить
+[[übernehmen]] - [[Worter/Ü/über]] = [[nehmen]]              / захватить
 [[herausnehmen]] - [[heraus]] = [[nehmen]]     / remove 
 [[vornehmen]] - [[vor]] = [[nehmen]]                  / намереватсья 
 [[zunehmen]] - [[zu]] = [[nehmen]]                    / gain weight / набрать
 [[abnehmen]] - [[ab]] = [[nehmen]]                     /  to lose weight, to decrease, to take off
 [[annehmen]] - [[an]] = [[nehmen]] // to accept, to assume, to take
-[[aufnehmen]] - [[auf]] = [[nehmen]] / to take up, have guests, to record, to receive
+[[aufnehmen]] - [[Worter/A/auf]] = [[nehmen]] / to take up, have guests, to record, to receive
 [[ausnehmen]] - [[aus]] = [[nehmen]] / to remove, to except
 [[festnehmen]] - [[fest]] = [[nehmen]] / to arrest, to take into custody, to apprehend
 
@@ -47,7 +47,7 @@ Morpheme: [[nehm]][[en]]
 
 Partizip I: [[nehmend]], Partizip II: [[genommen]], Zu infinitive: zu nehmen
 
-+[[über]] = [[übernehmen]] / захватить
++[[Worter/Ü/über]] = [[übernehmen]] / захватить
 +[[heraus]] = [[herausnehmen]] / remove 
 +[[zu]] =  [[zunehmen]] / gain weight / набрать
 [[vornehmen]] - [[vor]] = [[nehmen]] / намереватсья 

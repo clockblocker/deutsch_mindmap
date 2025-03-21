@@ -16,7 +16,7 @@ self-sacrificing, devoted
 [[Opfer]], [[aufopfern]], [[Aufopferung]], [[aufopferungsvoll]]
 
 ---
-[[auf]]|[[opfer]]|[[nd]]
+[[Worter/A/auf]]|[[opfer]]|[[nd]]
 [[aufopfernd]]
 
 

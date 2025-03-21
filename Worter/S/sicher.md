@@ -4,6 +4,10 @@ nicht [[unsicher]]
 ---
 Sie machen das Haus [[sicher]].
 
+Das sind die Wörter, über die ich mir nicht [[sicher]] bin.
+Das sind die Wörter gelesen. Darüber bin ich mir nicht sicher.
+Worüber bist du dir nicht sicher?
+
 Sie werden [[sicher]] gewinnen.
 *Они наверняка победят.
 

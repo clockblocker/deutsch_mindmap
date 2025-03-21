@@ -31,8 +31,7 @@ So die Tränen sieht man nicht
 In der Tiefe ist es [[einsam]]  
 Und so [[manche]] [[Zähre]] [[fließt]]  
 Und so kommt es, dass das Wasser  
-In den [[Meeren]] [[salzig]] ist  
-
+In den [[Meeren]] [[salzig]] ist   
   
 Man kann von uns halten  
 Was immer man da will  

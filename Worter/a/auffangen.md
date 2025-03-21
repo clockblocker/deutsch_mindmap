@@ -13,7 +13,7 @@ to catch, to intercept
 ловить, перехватывать
 
 ---
-[[auf]]|[[fan]]|[[gen]]
+[[Worter/A/auf]]|[[fan]]|[[gen]]
 
 ---
 ich: [[fange auf]], [[fing auf]], –, [[fange auf]], [[finge auf]]
@@ -25,7 +25,7 @@ ihr: [[fangt auf]], [[fingt auf]], [[fangt auf]], [[fanget auf]], [[fingt auf]]
 PI: [[auffangend]], PII: [[aufgefangen]], Zu+inf: [[aufzufangen]]
 
 ---
-[[auffangen]] - [[auf]] = [[fangen]] / to catch, to intercept
+[[auffangen]] - [[Worter/A/auf]] = [[fangen]] / to catch, to intercept
 
 ---
 [[Auffangbecken]], [[Auffangnetz]], [[Auffanglager]], [[Auffangstation]]

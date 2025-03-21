@@ -16,7 +16,7 @@ Antonyme: [[unterliegen]], [[scheitern]], [[aufgeben]]
 Übersetzung: to overcome, to conquer, to prevail
 
 ---
-Morpheme: [[über]][[wind]][[en]]
+Morpheme: [[Worter/Ü/über]][[wind]][[en]]
  #Verb  #Untrennbar
 
 | Person    | Präsens         | Präteritum     | Imperativ          | Konjunktiv I    | Konjunktiv II    |
@@ -29,4 +29,4 @@ Morpheme: [[über]][[wind]][[en]]
 | Sie       | [[überwinden]]  | [[überwanden]] | [[überwinden Sie]] | [[überwinden]]  | [[überw​änden]]  |
 
 Partizip I: [[überwindend]], Partizip II: [[überwunden]]
-[[überwinden]] - [[über]] = [[winden]], [[überstehen]], [[Hürde]], [[s1 e1]]
+[[überwinden]] - [[Worter/Ü/über]] = [[winden]], [[überstehen]], [[Hürde]], [[s1 e1]]

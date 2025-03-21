@@ -23,4 +23,4 @@ D: der [[Verabschiedung]], den [[Verabschiedungen]]
 
 ---
 [[verabschieden]], [[abschiedlich]], [[Abschied]], [[Abschiedswort]]
-, [[Empfang]]
+, [[Empfang]], [[Anrede]]

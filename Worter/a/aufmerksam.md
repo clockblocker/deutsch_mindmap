@@ -18,7 +18,7 @@ er hört dem Lehrer aufmerksam zu.
 attentive, alert, mindful
 
 ---
-[[auf]]|[[merk]]|[[sam]]
+[[Worter/A/auf]]|[[merk]]|[[sam]]
 
 ---
 N: [[aufmerksam]], [[aufmerksamerer]], [[aufmerksamster]]  

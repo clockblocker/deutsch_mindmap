@@ -1,1 +1,1 @@
-, [[flott]], [[zügig]]
+, [[flott]], [[zügig]], [[Schnell]], [[rasch]], [[langsam]]

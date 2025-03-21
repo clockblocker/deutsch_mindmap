@@ -17,7 +17,7 @@ ascent, rise, promotion
 [[aufsteigen]], [[steigen]], [[Aufsteiger]]
 
 ---
-[[auf]]|[[stieg]]
+[[Worter/A/auf]]|[[stieg]]
 [[Aufstieg]]
 
 

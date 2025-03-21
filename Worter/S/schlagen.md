@@ -90,4 +90,4 @@ Konjunktiv II:
 - Wenn er schneller wäre, [[schlüge]] er zuerst.
 - Wenn wir gut vorbereitet wären, [[schlügen]] wir das Zelt schneller auf.
 - Wenn ihr euch beeiltet, [[schlüget]] ihr noch pünktlich zu.
-- Wenn sie trainieren würden, [[schlügen]] sie ihre Gegner.[[Quirlen]], [[klopfen]], [[peitschen]], [[herausschlagen]], [[totschlagen]], [[einschlagen]], [[wegshlagen]], [[klapfen]], [[vorschlagen]], [[stupsen]], [[um­schlagen]], [[watschen]], [[Schlagwort]], [[Schlacht]], [[ticken]]
+- Wenn sie trainieren würden, [[schlügen]] sie ihre Gegner.[[Quirlen]], [[klopfen]], [[peitschen]], [[herausschlagen]], [[totschlagen]], [[einschlagen]], [[wegshlagen]], [[klapfen]], [[vorschlagen]], [[stupsen]], [[um­schlagen]], [[watschen]], [[Schlagwort]], [[Schlacht]], [[ticken]], [[stoßen]]

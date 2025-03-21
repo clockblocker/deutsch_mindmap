@@ -1,1 +1,1 @@
-, [[beeinflussen]], [[Einflussnahme]]
+, [[beeinflussen]], [[Einflussnahme]], [[Einfluss]]

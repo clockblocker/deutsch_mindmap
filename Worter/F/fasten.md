@@ -1,1 +1,1 @@
-, [[fressen]], [[hungern]]
+, [[fressen]], [[hungern]], [[Diät]]

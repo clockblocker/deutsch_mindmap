@@ -1,2 +1,2 @@
 
-, [[kosten]]
+, [[kosten]], [[Diät]]

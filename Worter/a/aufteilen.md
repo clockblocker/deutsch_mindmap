@@ -15,7 +15,7 @@
 to divide, to split up, to distribute
 
 ---
-[[auf]]|[[Worter/T/Teil]]|[[en]]
+[[Worter/A/auf]]|[[Worter/T/Teil]]|[[en]]
 
 ---
 ich: [[teile auf]], [[teilte auf]], –, [[teile auf]], [[teilte auf]]
@@ -27,7 +27,7 @@ ihr: [[teilt auf]], [[teiltet auf]], [[teilt auf]], [[teilet auf]], [[teiltet au
 PI: [[aufteilend]], PII: [[aufgeteilt]], Zu+inf: [[aufzuteilen]]
 
 ---
-[[aufteilen]] - [[auf]] = [[teilen]] / to divide, to split up, to distribute
+[[aufteilen]] - [[Worter/A/auf]] = [[teilen]] / to divide, to split up, to distribute
 
 ---
 [[Aufteilung]], [[Verteilung]], [[teilen]], [[Teilung]], [[Aufteilbar]], [[gliedern]], [[spalten]]

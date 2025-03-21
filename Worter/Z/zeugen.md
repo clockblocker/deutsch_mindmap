@@ -3,7 +3,7 @@
 ---
 
 ---
-[[überzeugen]] - [[über]] = [[zeugen]] / to convince, to persuade
+[[überzeugen]] - [[Worter/Ü/über]] = [[zeugen]] / to convince, to persuade
 
 ---
 Synonyme: [[erzeugen]], [[hervorbringen]], [[gebären]], [[produzieren]], [[erschaffen]]

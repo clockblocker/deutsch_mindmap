@@ -1,1 +1,1 @@
-, [[hervorheben]], [[hervorragend]]
+, [[hervorheben]], [[hervorragend]], [[heben]]

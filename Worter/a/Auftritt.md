@@ -15,7 +15,7 @@ Synonyme:
 appearance, performance, entrance
 
 ---
-[[auf]][[tritt]]
+[[Worter/A/auf]][[tritt]]
 
 ---
 Case: Singular, Plural  

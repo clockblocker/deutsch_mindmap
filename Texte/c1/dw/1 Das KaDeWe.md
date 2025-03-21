@@ -1,7 +1,9 @@
 https://learngerman.dw.com/de/das-kadewe-ein-kaufhaus-mit-geschichte/l-42249057/lm
+
 Das KaDeWe – ein Kaufhaus mit Geschichte  
   
-Es hat eine wechselvolle Geschichte hinter sich und ist eine der beliebtesten Sehenswürdigkeiten der Stadt: das Kaufhaus des Westens in Berlin. Legendär ist seine Lebensmittelabteilung, die zu den größten der Welt zählt.**  
+*[[1 Das KaDeWe#^1|^]]* Es hat eine [[wechselvolle]] [[Geschichte]] hinter sich und ist eine der [[beliebtesten]] [[Sehenswürdigkeiten]] der Stadt: das Kaufhaus des Westens in Berlin. Legendär ist seine Lebensmittelabteilung, die zu den größten der Welt zählt. ^1
+
   
 Das Kaufhaus des Westens, besser bekannt unter der Abkürzung KaDeWe, hat eine lange, sehr wechselvolle Geschichte hinter sich. 1907 beschloss der jüdische Kaufmann Adolf Jandorf, in Berlin ein riesiges Warenhaus in der damals noch ruhigen Tauentzienstraße zu eröffnen. Dieser Boulevard liegt im Südwesten Berlins und schließt sich an den Kurfürstendamm an. Die Idee Adolf Jandorfs wurde damals belächelt. Ein riesiges Warenhaus in einer Wohngegend – wie soll das funktionieren? Der Kaufmann ließ sich davon aber nicht beeindrucken, erzählt die frühere Geschäftsführerin Petra Fladenhofer:  
   

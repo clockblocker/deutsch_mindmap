@@ -5,7 +5,7 @@
 
 *[[3  Ein Selbstversuch als Hobbybäuerin#^39|^]]* Was die [[Abstriche]] [[angeht]], so [[verhält]] es sich nicht anders. ^39
 
-*Bauz! da [[geht]] die Türe [[auf]],*  
+*Bauz! da [[geht]] die Türe [[Worter/A/auf]],*  
 *und herein in schnellem Lauf*  
 
 Da [[angehen|ging]] eine [[schlimme]] Zeit für das arme [[Stiefkind]] an. 

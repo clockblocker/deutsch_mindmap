@@ -1,1 +1,1 @@
-, [[vormachen]], [[ausstellen]], [[darstellen]], [[sehen lassen]], [[Montagsdemonstration]], [[Versammlungsfreiheit]], [[veranschaulichen]]
+, [[vormachen]], [[ausstellen]], [[darstellen]], [[sehen lassen]], [[Montagsdemonstration]], [[Versammlungsfreiheit]], [[veranschaulichen]], [[zeigen]]

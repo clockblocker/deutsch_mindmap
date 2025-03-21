@@ -14,7 +14,7 @@ SASCHA: Also Stefan, wollen wir über die Arbeit [[reden]]?
 Nach 15 Minuten [[redete]] der Schauspieler immer noch [[ohne Punkt und Komma]] über seinen neuen Film, [[ohne]] dass Jenny [[überhaupt]] eine Frage stellen konnte. 
 
 ---
-[[überreden]] - [[über]] = [[reden]] / to persuade, to convince
+[[überreden]] - [[Worter/Ü/über]] = [[reden]] / to persuade, to convince
 [[verabreden]] - [[ver]] - [[ab]] = [[reden]] / to arrange, to make an appointment
 
 

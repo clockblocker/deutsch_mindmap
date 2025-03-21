@@ -1,4 +1,4 @@
-Und Nic von [[neben]]an
+Und Nic von [[Worter/N/neben]]an
 
 Ich wohne [[nebenan]].
 

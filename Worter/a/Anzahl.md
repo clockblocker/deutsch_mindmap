@@ -21,4 +21,4 @@ Einzigartige mögliche Formen:
 
 ---
 #Substantiv #Maskulin
-, [[Unmenge]], [[Vielzahl]]
+, [[Unmenge]], [[Vielzahl]], [[Million]]

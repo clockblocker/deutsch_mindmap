@@ -13,7 +13,7 @@ due to, because of
 вследствие, из-за
 
 ---
-[[auf]]|[[Grund]]
+[[Worter/A/auf]]|[[Grund]]
 
 ---
 [[Grund]], [[begründen]], [[gründlich]], [[Grundlage]], [[grundsätzlich]]

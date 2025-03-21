@@ -1,5 +1,0 @@
-a) Wir fahren nach Hause, nach der Stadt, nach Bremen, nach Deutschland (aber: in die Schweiz), nach Europa; wir fragen, erkundigen uns nach dem Weg, nach der Abfahrt des Zuges; die Fenster gehen nach Norden, nach der Straße, wie komme ich nach dem Zoo? nach dem Kurfürstendamm? Wir streben (sehnen uns) nach Ansehen, nach Ehre und Ruhm, nach Reichtum; wir handeln nach dem Gesetz, nach den Vorschriften des Arztes, nach bestem Wissen und Gewissen;
-
-b) zeitlich: was schon vorüber ist (Gegensatz: vor): nach dem Konzert, nach der Hochzeit, nach Neujahr, nach der Arbeit, nach einer Minute, einem Jahr; ein Viertel nach zwölf;
-
-c) ähnlich: einer nach dem andern; nach dem Alphabet, nach dem Gesetz, nach meinem Wunsch, nach meiner Meinung, nach meiner Ansicht (auch: meiner Ansicht nach), vgl. „gemäß“.

@@ -17,7 +17,7 @@ Antonyme: [[beginnen]], [[starten]], [[fortfahren]], [[weitermachen]]
 to stop, to cease, to end
 
 ---
-[[auf]][[hör]][[en]]
+[[Worter/A/auf]][[hör]][[en]]
  
 ---
 
@@ -33,7 +33,7 @@ Partizip II: [[aufgehört]]
 Zu+infinifive: [[aufzuhören]]
 
 
-[[aufhören]] - [[auf]] = [[hören]] / to stop, to cease, to end
+[[aufhören]] - [[Worter/A/auf]] = [[hören]] / to stop, to cease, to end
 
 ---
 [[Aufhören]], [[Aufhörer]], [[Aufhörerin]], [[Aufhörpunkt]]

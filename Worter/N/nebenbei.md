@@ -11,7 +11,7 @@ Antonyme: [[hauptsächlich]], [[ausschließlich]], [[nur]]
 Übersetzung: incidentally, by the way, on the side
 
 ---
-Morpheme: [[neben]][[bei]]
+Morpheme: [[Worter/N/neben]][[bei]]
 
 ---
 #Adverb

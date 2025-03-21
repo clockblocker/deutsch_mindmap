@@ -76,7 +76,7 @@
 	•	[[zwar]] … aber … – indeed … but …
 
 7. emphasis & reinforcement
-	•	[[auf]] jeden Fall – in any case
+	•	[[Worter/A/auf]] jeden Fall – in any case
 	•	[[besonders]] – especially
 	•	[[genau]] – exactly
 	•	[[in]] der Tat – indeed

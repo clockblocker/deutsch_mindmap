@@ -9,7 +9,7 @@ NIC: [[Auf keinen Fall]]! Der Typ ist nicht mein Problem.
 
 Und ihr Bruder Nils [[erklärt]], dass er [[Auf keinen Fall]] in ein Flugzeug steigen wird. 
 
-Frau Schulte sagt: „So kann es [[auf]] [[jeden]] [[Fall]] nicht [[weitergehen]]. Auch die Mitschüler [[leiden]] unter den [[ständigen]] [[Aggressionen]]. Also, wie holen wir die Kuh vom Eis?“
+Frau Schulte sagt: „So kann es [[Worter/A/auf]] [[jeden]] [[Fall]] nicht [[weitergehen]]. Auch die Mitschüler [[leiden]] unter den [[ständigen]] [[Aggressionen]]. Also, wie holen wir die Kuh vom Eis?“
 
 [[Tonfall]], [[Wutanfall]], [[Straßenunfall]], [[Todesfall]], [[Notfallschutz]]
 

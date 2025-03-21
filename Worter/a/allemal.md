@@ -1,2 +1,2 @@
 , [[jedenfalls]]
-, [[Alle]]
+, [[Worter/A/Alle]]

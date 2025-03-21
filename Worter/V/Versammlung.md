@@ -1,1 +1,1 @@
-, [[Versammlungsfreiheit]], [[Bundesversammlung]], [[Bezirksverordnetenversammlung]], [[Bürgerversammlung]]
+, [[Versammlungsfreiheit]], [[Bundesversammlung]], [[Bezirksverordnetenversammlung]], [[Bürgerversammlung]], [[Menschenmenge]]

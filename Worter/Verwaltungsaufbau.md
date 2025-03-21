@@ -18,7 +18,7 @@ administrative structure, organizational setup
 
 ---
 [[Verwaltungs]]+[[aufbau]]
-[[Ver]]|[[waltungs]]|[[auf]]|[[bau]]
+[[Ver]]|[[waltungs]]|[[Worter/A/auf]]|[[bau]]
 
 ---
 N: der [[Verwaltungsaufbau]], die [[Verwaltungsaufbauten]]  

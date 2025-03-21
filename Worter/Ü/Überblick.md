@@ -14,7 +14,7 @@ Das neue Museum [[bietet]] einen [[Überblick]] über moderne Kunst.
 overview, survey, general view
 
 ---
-[[Über]]|[[blick]]
+[[Worter/Ü/über]]|[[blick]]
 
 ---
 N: der [[Überblick]], die [[Überblicke]]  

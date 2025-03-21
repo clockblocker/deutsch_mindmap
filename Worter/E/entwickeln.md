@@ -10,6 +10,8 @@ Ich interessiere mich dafür, wie sich unsere [[Gesellschaft]] [[entwickelt]].
 [[1.1 text#^7|(q)]] Das Geschäftsmodell für das Start-up hat Sophia zusammen mit einer [[ehemaligen]] Verkaufsleiterin [[entwickelt]]. ^7
  
 
+*[[1. 606 Euro mehr Diät für Abgeordnete? 😱#^4|^]]* Und wenn die das so machen wie in der Vergangenheit, also die Diäten einfach so zu erhöhen, wie sich die [[Nominallöhne]] [[entwickelt]] haben, dann würde das bedeuten, die neue Abgeordneten-Diät steigt auf über 11.800 Euro pro Monat. ^4
+
 
 Die Forscher [[entwickeln]] ein neues Medikament.
 

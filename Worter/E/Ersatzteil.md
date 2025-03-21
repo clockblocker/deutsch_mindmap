@@ -1,1 +1,1 @@
-, [[ersetzen]]
+, [[ersetzen]], [[Ersatz]]

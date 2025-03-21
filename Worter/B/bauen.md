@@ -17,7 +17,7 @@ _Aang hat aus Appas [[Schwanz]] eine [[Rutsche]] [[gebaut]], von der nun die kle
 	- [ ] Er [[versorgt]] alle [[Einwohner]] und [[Einwohnerinnen]] [[kostenlos ]]mit Zeitungen.
 
 ---
-[[aufbauen]] - [[auf]] = [[bauen]] / собрать, to build up, to construct
+[[aufbauen]] - [[Worter/A/auf]] = [[bauen]] / собрать, to build up, to construct
 
 
 ---
@@ -44,6 +44,6 @@ Morpheme: [[bau]][[en]]
 
 Partizip I: [[bauend]], Partizip II: [[gebaut]]
 
-+[[auf]] = [[aufbauen]], 
++[[Worter/A/auf]] = [[aufbauen]], 
 
 [[einbauen]], [[umbauen]], [[errichteten]], [[Gebäude]], [[s1 e1]], [[Bauingenieur]], [[Baustelle]], [[Bauart]]

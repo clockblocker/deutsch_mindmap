@@ -17,7 +17,7 @@ schaut er [[aufwärts]] [[allenthalben]].   [[8  Die Geschichte vom Hanns Guck-i
 upward, upwards, uphill
 
 ---
-[[auf]]|[[wärts]]
+[[Worter/A/auf]]|[[wärts]]
 
 ---
 [[aufwärtsgerichtet]], [[aufwärtsbewegung]], [[aufwärtssteigend]], [[aufwärtstendenz]]

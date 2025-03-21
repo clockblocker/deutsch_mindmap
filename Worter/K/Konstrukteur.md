@@ -1,1 +1,1 @@
-, [[Bauingenieur]], [[Ingenieur]]
+, [[Bauingenieur]], [[Ingenieur]], [[Konstruktionsbedingt]]

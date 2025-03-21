@@ -21,7 +21,7 @@ Antonyme: [[zweifeln]], [[ablehnen 1]], [[misstrauen]], [[bezweifeln]]
 to convince, to persuade
 
 ---
-[[über]][[Zeug]][[en]]
+[[Worter/Ü/über]][[Zeug]][[en]]
    
 
 ---
@@ -37,7 +37,7 @@ Partizip I: [[überzeugend]],
 Partizip II: [[überzeugt]]
 Zu+infinitive: [[zu überzeugen]]
 
-[[überzeugen]] - [[über]] = [[zeugen]] / to convince, to persuade
+[[überzeugen]] - [[Worter/Ü/über]] = [[zeugen]] / to convince, to persuade
 
 ---
 [[Überzeugung]], [[Überzeugungskraft]], [[Überzeugungstäter]], [[überzeugend]], [[überzeugt]], [[Selbstüberzeugung]]

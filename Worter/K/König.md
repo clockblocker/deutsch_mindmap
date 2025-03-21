@@ -1,1 +1,1 @@
-, [[Spielkarten]], [[Zaunkönig]]
+, [[Spielkarten]], [[Zaunkönig]], [[Monarch]]

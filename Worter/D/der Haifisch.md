@@ -8,6 +8,8 @@ die [[Haifische]]
 *Doch der Haifisch lebt im Wasser*  
 *So die Tränen sieht man nicht*  
 
+[[Texte/Gedichte/Rammstein/Haifisch|Haifisch]]
+
 ---
 Synonyme:
 - [[Raubfisch]], [[Meerestier]], [[Weißer Hai]]

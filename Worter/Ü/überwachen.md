@@ -19,7 +19,7 @@
 to monitor, to supervise, to watch over
 
 ---
-[[über]]|[[wach]]|[[en]]
+[[Worter/Ü/über]]|[[wach]]|[[en]]
 
 ---
 ich: [[überwache]], [[überwachte]], –, [[überwache]], [[überwachte]]
@@ -31,7 +31,7 @@ ihr: [[überwacht]], [[überwachtet]], [[überwacht]], [[überwachet]], [[überw
 PI: [[überwachend]], PII: [[überwacht]], Zu+inf: [[überzuwachen]]
 
 ---
-[[überwachen]] - [[über]] = [[wachen]] / to monitor, to supervise, to watch over
+[[überwachen]] - [[Worter/Ü/über]] = [[wachen]] / to monitor, to supervise, to watch over
 
 ---
 [[Überwachung]], [[Überwacher]], [[überwachbar]], [[Überwachungsgerät]], [[Kontrollsystem]]

@@ -1,44 +1,25 @@
+⚡ [[rasch]], [ʁaʃ](https://youglish.com/pronounce/rasch/german) ≠ [[langsam]]
+
+---
+
+---
+= [[schnell]], [[zügig]], [[flott]]
+≈ [[eilig]], [[fix]], [[geschwind]], [[schnell]]
+≠ [[langsam]], [[gemächlich]], [[träge]], [[langatmig]]
+
+---
+quick, rapid
+быстрый, скорый
+
+---
+[[Raserei]], [[rasen]], [[rasend]], [[Rasanz]]
+
+---
 [[rasch]]
-[[rascher]]
-[[am]] [[raschesten]]
 
-nicht [[langsam]]
 
 ---
+Adjektive: [[rasch]], [[rascher]], [[raschesten]]
 
 ---
-
-Synonyme:
-- [[Schnell]], [[flink]], [[eilig]]
-
----
-
-Beispiele:
-
-- Das Auto fährt sehr [[rasch]].
-- Du musst [[rasch]] handeln.
-- Er bewegte sich [[rasch]] durch den Raum.
-- Der Erfolg kam [[rasch]].
-
-- Das Auto fährt [[rascher]] als das Fahrrad.
-- Du musst [[rascher]] handeln.
-- Er bewegte sich [[rascher]] durch den Raum.
-- Der Erfolg kam [[rascher]] als erwartet.
-
-- Das Auto fährt [[am raschesten]].
-- Du musst [[am raschesten]] handeln.
-- Er bewegte sich [[am raschesten]] durch den Raum.
-- Der Erfolg kam [[am raschesten]].
-
----
-**Übersetzung**:
-fast, quick
-
----
-
-Tags: 
-#Adjective
-
----
-Morphems:
-[[rasch]][[Überraschen]], [[geschwind]], [[bald]], [[zügig]]
+[[rascher]], [[rasches]], [[rasche]], [[raschen]], [[raschem]], [[rascherer]], [[rascheres]], [[raschere]], [[rascheren]], [[rascherem]], [[raschestener]], [[raschestenes]], [[raschestene]], [[raschestenen]], [[raschestenem]]

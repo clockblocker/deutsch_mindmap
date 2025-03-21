@@ -1,1 +1,1 @@
-, [[geschwind]], [[überstürzen]], [[zügig]]
+, [[geschwind]], [[überstürzen]], [[zügig]], [[Schnell]], [[rasch]]

@@ -5,7 +5,7 @@ Katara sieht den Eisberg [[genauer]] an und erkennt einen Jungen mit leuchtenden
 
 *[[Einen Korb bekommen#^11|^]]* [[Genauer]] gesagt: Seit sie mit Katharina zusammen ist. ^11
 
- nicht [[genau]]: [[zu]] = [[Platzwechsel]], [[bei]] = [[Location]]
+ nicht [[genau]]: [[zu]] = [[Worter/P/Platzwechsel]], [[bei]] = [[Location]]
  
 ---
 = [[präzise]], [[exakt]], [[richtig]]

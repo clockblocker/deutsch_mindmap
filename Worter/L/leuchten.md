@@ -13,7 +13,7 @@ _Die Pfeile des Jungen hören auf zu [[leuchten]] und er bricht zusammen.
 [[Leuchtrakete]]
 
 ---
-[[aufleuchten]] - [[auf]] = [[leuchten]]    /  to light up, to illuminate
+[[aufleuchten]] - [[Worter/A/auf]] = [[leuchten]]    /  to light up, to illuminate
 [[beleuchten]] - [[be]] = [[leuchten]]      / to illuminate, to light up
 [[ausleuchten]] - [[aus]] = [[leuchten]]   / to illuminate, to light up thoroughly
 

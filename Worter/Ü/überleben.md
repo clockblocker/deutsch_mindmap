@@ -12,7 +12,7 @@ Ein Junge [[überlebt]]
 to survive, to live through
 
 ---
-[[über]]|[[leb]]|[[en]]
+[[Worter/Ü/über]]|[[leb]]|[[en]]
 
 ---
 ich: [[überlebe]], [[überlebte]], –, [[überlebe]], [[überlebte]]
@@ -24,7 +24,7 @@ ihr: [[überlebt]], [[überlebtet]], [[überlebt]], [[überlebt]], [[überlebtet
 PI: [[überlebend]], PII: [[überlebt]], Zu+inf: [[zu überleben]]
 
 ---
-[[überleben]] - [[über]] = [[Leben]] / to survive, to live through
+[[überleben]] - [[Worter/Ü/über]] = [[Leben]] / to survive, to live through
 
 ---
 [[Überleben]], [[Überlebender]], [[Überlebende]], [[überlebenswichtig]], [[Überlebenskampf]]

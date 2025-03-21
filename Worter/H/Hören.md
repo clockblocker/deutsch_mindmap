@@ -2,7 +2,7 @@
 
 ---
 [[zuhören]] - [[zu]] = [[hören]] / to listen, to pay attention
-[[aufhören]] - [[auf]] = [[hören]] / to stop, to cease, to end
+[[aufhören]] - [[Worter/A/auf]] = [[hören]] / to stop, to cease, to end
 [[anhören]] - [[an]] = [[hören]] / выслушивать
 
 ---

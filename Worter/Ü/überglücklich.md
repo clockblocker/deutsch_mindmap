@@ -20,5 +20,5 @@ Einzigartige mögliche Formen:
 [[überglücklich]], [[überglücklicher]], [[überglückliche]], [[überglückliches]], [[überglücklichen]], [[überglücklichem]], [[überglücklicher]], [[überglücklichen]]
 [[überglücklichsten]], [[überglücklichster]], [[überglücklichste]], [[überglücklichstes]], [[überglücklichsten]], [[überglücklichstem]], [[überglücklichster]], [[überglücklichsten]]
 
-Morpheme: [[über]][[glücklich]]
+Morpheme: [[Worter/Ü/über]][[glücklich]]
 '''

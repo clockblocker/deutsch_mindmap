@@ -16,16 +16,16 @@ to rouse oneself, to pull oneself together
 [[Raff]], [[raffend]], [[aufgerafft]]
 
 ---
-[[auf]]|[[raff]]|[[en]]
-[[auf]] + [[raffen]] = [[aufraffen]] // собраться с силами
+[[Worter/A/auf]]|[[raff]]|[[en]]
+[[Worter/A/auf]] + [[raffen]] = [[aufraffen]] // собраться с силами
 
 
 ---
 ###### [[aufraffen]] *[[sich]]*
-- Wozu [[raffst]] du *[[dich]]* [[auf]]?
+- Wozu [[raffst]] du *[[dich]]* [[Worter/A/auf]]?
 - Um zu arbeiten.
 
-- Warum [[raffen]] wir *[[uns]]* [[auf]]?
+- Warum [[raffen]] wir *[[uns]]* [[Worter/A/auf]]?
 - Um unsere Ziele zu erreichen.
 
 - Warum [[hat]] er *[[sich]]* [[aufgerafft]]?

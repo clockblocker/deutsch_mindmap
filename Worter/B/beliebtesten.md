@@ -1,1 +1,1 @@
-, [[beliebtes]]
+, [[beliebtes]], [[wechselvoll]], [[Sehenswürdigkeit]]

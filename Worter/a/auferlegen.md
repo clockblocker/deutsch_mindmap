@@ -13,11 +13,11 @@ to impose, to inflict
 налагать, возлагать
 
 ---
-[[Auflage]], [[Auferlegung]], [[erlegen]], [[auf]]
+[[Auflage]], [[Auferlegung]], [[erlegen]], [[Worter/A/auf]]
 
 ---
-[[auf]]|[[erleg]]|[[en]]
-[[auf]] + [[erlegen]] = [[auferlegen]]
+[[Worter/A/auf]]|[[erleg]]|[[en]]
+[[Worter/A/auf]] + [[erlegen]] = [[auferlegen]]
 
 
 ---

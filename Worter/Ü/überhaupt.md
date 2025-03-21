@@ -34,7 +34,7 @@ Antonyme: [[gar nicht]], [[keineswegs]], [[niemals]]
 
 ---
 Morpheme:
-[[über]][[Haupt]]
+[[Worter/Ü/über]][[Haupt]]
 
 ---
 #Adverb #überhaupt

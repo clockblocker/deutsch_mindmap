@@ -13,7 +13,7 @@ predominantly, mainly
 преимущественно, в основном
 
 ---
-[[über]]|[[wiegen]]|[[d]]
+[[Worter/Ü/über]]|[[wiegen]]|[[d]]
 
 ---
 N: [[überwiegend]], [[überwiegender]], [[überwiegenst]]

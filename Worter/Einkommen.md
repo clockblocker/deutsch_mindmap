@@ -25,4 +25,4 @@ G: des [[Einkommens]], der [[Einkommen]]
 D: dem [[Einkommen]], den [[Einkommen]]  
 
 ---
-[[einkommen]], [[einkommensteuerpflichtig]], [[einkommensabhängig]], [[Einkommenssteuer]]
+[[einkommen]], [[einkommensteuerpflichtig]], [[einkommensabhängig]], [[Einkommenssteuer]], [[Nominallohn]]

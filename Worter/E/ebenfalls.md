@@ -28,4 +28,4 @@ Morpheme: [[eben]][[fall]][[s]]
 
 ---
 #Adverb
-, [[seinerseits]], [[zudem]], [[Konnektivpartikeln]]
+, [[seinerseits]], [[zudem]], [[Konnektivpartikeln]], [[ferner]]

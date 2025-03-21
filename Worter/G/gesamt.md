@@ -28,4 +28,4 @@ Einzigartige mögliche Formen:
 [[gesamterer]], [[gesamtere]], [[gesamteres]], [[gesamteren]], [[gesamterem]], [[gesamterer]], [[gesamteren]]
 [[gesamtesten]], [[gesamtester]], [[gesamteste]], [[gesamtestes]], [[gesamtesten]], [[gesamtestem]], [[gesamtester]], [[gesamtesten]]
 , [[Gesamtschule]], [[sämtlich]], [[insgesamt]]
-, [[Alle]]
+, [[Worter/A/Alle]]

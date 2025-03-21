@@ -15,7 +15,7 @@ inattentive, absent-minded
 невнимательный, рассеянный
 
 ---
-[[un]]|[[auf]]|[[merksam]]
+[[un]]|[[Worter/A/auf]]|[[merksam]]
 
 ---
 N: [[unaufmerksam]], [[unaufmerksamer]], [[unaufmerksamst]]

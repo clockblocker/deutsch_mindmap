@@ -5,7 +5,7 @@
 
 
 ---
-+[[über]] = 💭 [[überlegen]] /  to think over, to consider, to ponder
++[[Worter/Ü/über]] = 💭 [[überlegen]] /  to think over, to consider, to ponder
 [[anlegen]] - [[an]] = [[legen]] / to dock, to put down, to apply, to invest
 [[einlegen]] - [[ein]] = [[legen]] / to insert, to place, to put in, to pickle
 [[festlegen]] - [[fest]] = [[legen]] / to determine, to establish, to fix, to lay down

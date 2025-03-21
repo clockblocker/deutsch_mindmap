@@ -19,6 +19,6 @@ thereupon, then, subsequently
 [[darauf]], [[hin]]
 
 ---
-[[dar]]|[[auf]]|[[hin]]
+[[dar]]|[[Worter/A/auf]]|[[hin]]
 [[daraufhin]]
 , [[Konnektivpartikeln]]

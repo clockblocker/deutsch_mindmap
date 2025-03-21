@@ -4,6 +4,7 @@ die [[Gurken]]
 ---
 Manche Menschen legen sich [[Gurken]] auf die Augen, um etwas für ihre [[Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden.
 
+[[Pferd]]
 
 ---
 Synonyme:

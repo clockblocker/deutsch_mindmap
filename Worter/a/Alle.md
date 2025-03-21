@@ -1,7 +1,7 @@
-👥 [[alle]], [ˈalə] | [[Artikelwörter]]
+👥 [[Worter/A/Alle]], [ˈalə] | [[Artikelwörter]]
 
 ---
-[[Artikelwörter.md#^3|(q)]] - [[Alle]] – *Er ist hier mit allen Leuten bekannt.* ^3
+[[Artikelwörter.md#^3|(q)]] - [[Worter/A/Alle]] – *Er ist hier mit allen Leuten bekannt.* ^3
  
 
 ---
@@ -17,8 +17,8 @@ all, every
 [[all]]|[[e]]
 
 ---
-N: [[alle]]
-A: [[alle]]
+N: [[Worter/A/Alle]]
+A: [[Worter/A/Alle]]
 G: [[aller]]
 D: [[allen]]
 

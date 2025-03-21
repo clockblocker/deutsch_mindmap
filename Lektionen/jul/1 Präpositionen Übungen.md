@@ -11,7 +11,7 @@ a) [[1 Präpositionen Übungen.md#^2|(q)]] Ich [[interessiere]] mich [[für]] mo
 
 [[1 Präpositionen Übungen.md#^5|(q)]] d) Das Buch, [[von]] dem ich dir [[erzählt]] habe, liegt auf dem Tisch. ^5
 
-[[1 Präpositionen Übungen.md#^6|(q)]] e) Sie hat sich [[auf]] die schwierige Prüfung intensiv [[vorbereitet]]. ^6
+[[1 Präpositionen Übungen.md#^6|(q)]] e) Sie hat sich [[Worter/A/auf]] die schwierige Prüfung intensiv [[vorbereitet]]. ^6
 
 ---
 #### **2. Kombiniere die Sätze mit einer Präposition**
@@ -65,7 +65,7 @@ Ergänze die [[fehlenden]] Präpositionen:
 
 "Nach meiner langen [[Erfahrung]] [[in]] diesem [[Bereich]] kann ich Ihnen einige Tipps geben. 
 
-"Nach meiner langen [[Erfahrung]] [[auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 
+"Nach meiner langen [[Erfahrung]] [[Worter/A/auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 
 
 [[auswendig]] 
 

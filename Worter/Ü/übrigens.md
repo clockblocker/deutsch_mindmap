@@ -19,7 +19,7 @@ by the way, incidentally, by the bye
 
 ---
 Morpheme:
-[[über]][[ig]][[ens]]
+[[Worter/Ü/über]][[ig]][[ens]]
 
 ---
 Übrigens kann man das Adverb [[übrigens]] an unterschiedlichen Stellen im Satz verwenden, um zusätzliche Informationen oder Nebengedanken einzubringen., [[sonst]], [[umschreiben]]

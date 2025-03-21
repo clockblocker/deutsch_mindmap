@@ -12,7 +12,7 @@ Für zwei Wochen [[aufnehmen|nehmen]] wir einen Schüler aus Amerika bei uns zu 
 to take up, to record, to receive
 
 ---
-[[auf]]|[[nehm]]|[[en]]
+[[Worter/A/auf]]|[[nehm]]|[[en]]
 
 ---
 ich: [[nehme auf]], [[nahm auf]], –, [[nehme auf]], [[nähme auf]]
@@ -24,11 +24,11 @@ ihr: [[nehmt auf]], [[nahmt auf]], [[nehmt auf]], [[nehmet auf]], [[nähmtet auf
 PI: [[aufnehmend]], PII: [[aufgenommen]], Zu+inf: [[aufzunehmen]]
 
 ---
-[[aufnehmen]] - [[auf]] = [[nehmen]] / to take up, to record, to receive
+[[aufnehmen]] - [[Worter/A/auf]] = [[nehmen]] / to take up, to record, to receive
 
 ---
 [[Aufnahme]], [[Aufnehmer]], [[aufnehmbar]], [[aufgenommen]], [[Aufnahmefähigkeit]]
 
 
 [[hinlegen]], [[loswerden]], [[hineingezogen]], [[schleudern]], [[angehen]], [[annehmen]], [[anstellen]], [[empfangen]], [[verbannen]], [[legen]], [[beherbergen]], [[verstoßen]], [[Aufnahme]], [[s1 e1]]
-, [[ausstoßen]], [[verinnerlichen]], [[aussetzen]]
+, [[ausstoßen]], [[verinnerlichen]], [[aussetzen]], [[heben]]

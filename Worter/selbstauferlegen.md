@@ -16,7 +16,7 @@ to impose on oneself
 [[selbst]], [[Auferlegung]], [[auferlegen]]
 
 ---
-[[selbst]]|[[auf]]|[[erleg]]|[[en]]
+[[selbst]]|[[Worter/A/auf]]|[[erleg]]|[[en]]
 [[selbst]] + [[auferlegen]]
 
 

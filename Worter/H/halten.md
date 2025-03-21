@@ -27,7 +27,7 @@ Katara und Sokka [[halten]] sich an der Eisscholle fest und werden mit ihr von e
 [[erhalten]] - [[er]] = [[halten]]                   /  to receive, to get, to maintain
 [[unterhalten]] - [[unter]] = [[halten]]        / переговориваться 
 [[abhalten]] - [[ab]] = [[halten]]                  /  to hold, to conduct, to prevent
-[[aufrechterhalten]] - [[auf]] - [[rechter]] = [[halten]] / to maintain, to uphold
+[[aufrechterhalten]] - [[Worter/A/auf]] - [[rechter]] = [[halten]] / to maintain, to uphold
 [[stand]] + [[halten]] = [[standhalten]] // to withstand, to resist
 
 

@@ -1,1 +1,1 @@
-, [[Gebirge]], [[Hügel]]
+, [[Gebirge]], [[Hügel]], [[Berg]]

@@ -13,7 +13,7 @@ Antonyme: [[zusperren]], [[verschließen]], [[verriegeln]]
 Übersetzung: to unlock, to open (with a key)
 
 ---
-Morpheme: [[auf]][[sperr]][[en]]
+Morpheme: [[Worter/A/auf]][[sperr]][[en]]
  #Verb  #Trennbar
  
 
@@ -27,4 +27,4 @@ Morpheme: [[auf]][[sperr]][[en]]
 | Sie | [[sperren auf]] | [[sperrten auf]] | [[sperren Sie auf]] | [[sperren auf]] | [[sperrten auf]] |
 
 Partizip I: [[aufsperrend]], Partizip II: [[aufgesperrt]]
-[[aufsperren]] - [[auf]] = [[sperren]]
+[[aufsperren]] - [[Worter/A/auf]] = [[sperren]]

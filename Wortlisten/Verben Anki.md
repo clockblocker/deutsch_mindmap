@@ -8,12 +8,12 @@ Der Kunde hat sich darüber beschwert, dass er nicht gut beraten wurde.
 - Wir haben uns [[dafür]] [[entschieden]], uns zu trennen.
 
 **sich [[beziehen]] auf** **+** **Akk.**  
-- Ich [[beziehe]] mich [[auf]] das, was Sie vorhin [[erwähnt]] haben.  
-- Meine Frage [[bezieht]] sich [[auf]] die [[Garantiebestimmungen]].
+- Ich [[beziehe]] mich [[Worter/A/auf]] das, was Sie vorhin [[erwähnt]] haben.  
+- Meine Frage [[bezieht]] sich [[Worter/A/auf]] die [[Garantiebestimmungen]].
 
 ***sich [[beschweren]] über** + Akk. 
 
-Wir haben uns bei unseren Nachbarn schon oft [[über]] den Lärm [[beschwert]].  
+Wir haben uns bei unseren Nachbarn schon oft [[Worter/Ü/über]] den Lärm [[beschwert]].  
 Der Kunde hat sich darüber [[beschwert]], dass er nicht gut [[beraten]] wurde.
 
 
@@ -27,7 +27,7 @@ Ich habe mich für dieses Arbeitsangebot entschieden.
 Wir haben uns dafür entschieden, uns zu trennen.
 
 **sich beziehen auf** **+** **Akk.**  
-Ich [[beziehe]] mich [[auf]] das, was Sie vorhin [[erwähnt]] haben.  
+Ich [[beziehe]] mich [[Worter/A/auf]] das, was Sie vorhin [[erwähnt]] haben.  
 Meine Frage bezieht sich auf die Garantiebestimmungen.
 
 • Heutigen [[Tageshöchstwert]] für neue Karten [[erhöhen]]

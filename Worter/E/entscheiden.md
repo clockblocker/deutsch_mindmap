@@ -13,7 +13,7 @@ damit ist der Kampf [[entschieden]]
 
 3.	[[2 Unter Druck nach oben#^24|(q)]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine [[entscheidende]] Rolle. ^24
 
-Der Staat [[entscheidet]] [[über]] [[Gesetze]] und [[Steuern]].
+Der Staat [[entscheidet]] [[Worter/Ü/über]] [[Gesetze]] und [[Steuern]].
 
 Ich habe mich [[für]] dieses Arbeitsangebot [[entschieden]].  
 

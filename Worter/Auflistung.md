@@ -14,7 +14,7 @@ die [[Auflistungen]]
 list, enumeration, itemization
 
 ---
-[[auf]]|[[list]]|[[ung]]
+[[Worter/A/auf]]|[[list]]|[[ung]]
 
 ---
 N: die [[Auflistung]], die [[Auflistungen]]  

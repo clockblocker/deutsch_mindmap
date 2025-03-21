@@ -3,7 +3,7 @@
 haben [[überlegt]]
 
 ---
-Die Katze [[über]][[legte]] noch, wie sie das [[anstellen]] sollte,
+Die Katze [[Worter/Ü/über]][[legte]] noch, wie sie das [[anstellen]] sollte,
 Überheblich, überlegen  
 
 Jetzt [[überlegt]] er: Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand gegenüber vom Fenster? 
@@ -21,7 +21,7 @@ Antonyme: [[handeln]], [[spontan sein]], [[ohne Nachdenken]]
 Übersetzung: to think over, to consider, to ponder
 
 ---
-Morpheme: [[über]][[leg]][[en]]
+Morpheme: [[Worter/Ü/über]][[leg]][[en]]
  #Verb #Untrennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -34,7 +34,7 @@ Morpheme: [[über]][[leg]][[en]]
 | Sie | [[überlegen]] | [[überlegten]] | [[überlegen Sie]] | [[überlegen]] | [[überlegten]] |
 
 Partizip I: [[überlegend]], Partizip II: [[überlegt]]
-[[überlegen]] - [[über]] = [[legen]]
+[[überlegen]] - [[Worter/Ü/über]] = [[legen]]
 ```
 
 As an adjective:

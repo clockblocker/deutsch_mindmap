@@ -13,7 +13,7 @@ Mit seiner Kamera machte Fred Fotos für seine Freunde zu Hause. Aber dann passi
 
 ---
 [[umdrehen]] - [[um]] = [[drehen]] / to turn around, to rotate
-[[aufdrehen]] - [[auf]] = [[drehen]] / to turn on, to open up
+[[aufdrehen]] - [[Worter/A/auf]] = [[drehen]] / to turn on, to open up
 [[wegdrehen]] - [[weg]] = [[drehen]] / to turn away
 [[verdrehen]] - [[ver]] = [[drehen]] / roll eyes, to distort, to twist, to misrepresent
 

@@ -49,4 +49,4 @@ sie, [[nehmen zu]], [[nahmen zu]], [[nehmen zu]], [[nähmen zu]], [[nehmen zu]]
 Adjektive: [[zunehmend]], [[zunehmender]], [[zunehmendst]]
 
 ---
-[[zunehmender]], [[zunehmendes]], [[zunehmende]], [[zunehmenden]], [[zunehmendem]], [[zunehmenderer]], [[zunehmenderes]], [[zunehmendere]], [[zunehmenderen]], [[zunehmenderem]], [[zunehmendster]], [[zunehmendstes]], [[zunehmendste]], [[zunehmendsten]], [[zunehmendstem]], [[absinken]]
+[[zunehmender]], [[zunehmendes]], [[zunehmende]], [[zunehmenden]], [[zunehmendem]], [[zunehmenderer]], [[zunehmenderes]], [[zunehmendere]], [[zunehmenderen]], [[zunehmenderem]], [[zunehmendster]], [[zunehmendstes]], [[zunehmendste]], [[zunehmendsten]], [[zunehmendstem]], [[absinken]], [[Diät]]

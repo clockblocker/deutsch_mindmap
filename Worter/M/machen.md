@@ -19,10 +19,10 @@ Also [[lädt]] Adrian Emilie zum Essen [[ein]]. Es gibt Spaghetti mit leckerer S
 [[anmachen]] - [[an]] = [[machen]] / to turn on, to switch on | agree, remove
 [[ausmachen]] - [[aus]] = [[machen]] / to detect, to determine, to matter | turn off 
 [[vormachen]] - [[vor]] = [[machen]] / to show, to demonstrate
-[[aufmachen]] - [[auf]] = [[machen]] / to open
+[[aufmachen]] - [[Worter/A/auf]] = [[machen]] / to open
 [[abmachen]] - [[ab]] = [[machen]] /  to arrange, to agree, to settle | remove
 [[mitmachen]] - [[mit]] = [[machen]] / participate
-[[aufmachen]] - [[auf]] = [[machen]] / to open
+[[aufmachen]] - [[Worter/A/auf]] = [[machen]] / to open
 [[zumachen]] - [[zu]] = [[machen]] / to close
 
 

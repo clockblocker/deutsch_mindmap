@@ -4,6 +4,8 @@ sehr positiv [[beliebt]]
 ---
 Das DDR-Museum in Berlin Mitte - ein sehr [[beliebtes]] Museum in der Hauptstadt 
 
+*[[1 Das KaDeWe#^1|^]]* Es hat eine [[wechselvolle]] [[Geschichte]] hinter sich und ist eine der [[beliebtesten]] [[Sehenswürdigkeiten]] der Stadt: das Kaufhaus des Westens in Berlin. Legendär ist seine Lebensmittelabteilung, die zu den größten der Welt zählt. ^1
+
 
 ---
 Synonyme: [[populär]], [[gemocht]], [[bevorzugt]], [[geschätzt]], [[angesehen]]

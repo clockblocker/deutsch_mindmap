@@ -15,7 +15,7 @@
 to request, to call upon, to demand
 
 ---
-[[auf]]|[[ford]]|[[ern]]
+[[Worter/A/auf]]|[[ford]]|[[ern]]
 
 ---
 ich: [[fordere auf]], [[forderte auf]], –, [[fordere auf]], [[forderte auf]]
@@ -27,7 +27,7 @@ ihr: [[fordert auf]], [[fordertet auf]], [[fordert auf]], [[fordert auf]], [[for
 PI: [[auffordernd]], PII: [[aufgefordert]], Zu+inf: [[aufzufordern]]
 
 ---
-[[auffordern]] - [[auf]] = [[fordern]] / to request, to call upon, to demand
+[[auffordern]] - [[Worter/A/auf]] = [[fordern]] / to request, to call upon, to demand
 
 ---
 [[Aufforderung]], [[Forderung]], [[auffordernd]], [[herausfordernd]], [[auffordern]], [[herausfordern]]

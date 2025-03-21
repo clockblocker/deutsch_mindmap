@@ -13,7 +13,7 @@ rebellious, insubordinate
 мятежный, непокорный
 
 ---
-[[auf]]|[[säss]]|[[ig]]
+[[Worter/A/auf]]|[[säss]]|[[ig]]
 
 ---
 N: [[aufsässig]], [[aufsässiger]], [[aufsässigst]]

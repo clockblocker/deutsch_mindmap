@@ -5,7 +5,7 @@ ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 
 ---
 [[ausstellen]] - [[aus]] = [[stellen]]                          / to exhibit
-[[aufstellen]] - [[auf]] = [[stellen]]                           /  to set up
+[[aufstellen]] - [[Worter/A/auf]] = [[stellen]]                           /  to set up
 [[hinstellen]] - [[hin]] = [[stellen]]                            / to put
 [[darstellen]] - [[dar]] = [[stellen]]                           / to represent
 [[zusammenstellen]] - [[zusammen]] = [[stellen]] / составлять / собирать

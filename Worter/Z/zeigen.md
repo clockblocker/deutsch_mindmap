@@ -1,7 +1,4 @@
-👉 [[zeigen]] + Akk, [ˈtsaɪ̯ɡn̩]
-[[zeigte]]
-haben [[gezeigt]]
-
+👀 [[zeigen]], [ˈtsaɪ̯ɡn̩](https://youglish.com/pronounce/zeigen/german) | [[zeigte]], haben [[gezeigt]]
 
 ---
 ANNA: Hey Sam, komm … Wir [[zeigen]] dir die Wohnung.
@@ -26,35 +23,61 @@ Das Fangen von Pinguinen ist eine alte und heilige Kunst. Und ich werd's dir [[z
 
 Die Kamera schwenkt nach oben von den Kindern zu den Erwachsenen und [[zeigt]], dass sie weniger erfreut sind
 
+Die Kamera [[zeigt]] den eisigen Südpol und schwingt über einen [[riesigen]], schneebedeckten Hügel mit Fußabdrücken von zwei Menschen.
 
 | **Aang**                                                                                                                                                                                                                                                                                                                                                                                                  | Los Appa! [[Vorwärts]], dem [[zeigen]] [[wirs]]! Yip Yip!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _Appa steht auf und [[läuft]] los, fliegt aber nicht._                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
+---
+= [[vorführen]], [[darstellen]], [[demonstrieren]]
+≈ [[hinweisen]], [[andeuten]], [[offenbaren]], [[präsentieren]]
+≠ [[verbergen]], [[verheimlichen]], [[verdecken]]
 
 ---
-Synonyme: [[demonstrieren]], [[präsentieren]], [[vorführen]], [[aufzeigen]], [[darstellen]]
-Antonyme: [[verbergen]], [[verstecken]], [[verschweigen]], [[verdunkeln]]
+to show, to demonstrate
+показывать
 
 ---
-Übersetzung: to show, to point out
+[[Zeige]], [[Zeiger]], [[Zeug]], [[Anzeige]], [[Zeichnung]], [[Zeugnis]]
 
 ---
-Morpheme: [[zeig]][[en]]
- #Verb  #Untrennbar
- 
+[[zeig]]|[[en]]
+
 
 ---
+###### [[zeigen]] jM jN
+- Wem [[zeigst]] du das Foto?
+- Meiner Mutter.
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[zeige]]            | [[zeigte]]            | -                 | [[zeige]]              | [[zeigte]]              |
-| Du        | [[zeigst]]           | [[zeigtest]]          | [[zeige]]         | [[zeigest]]            | [[zeigtest]]            |
-| Er/sie/es | [[zeigt]]            | [[zeigte]]            | -                 | [[zeige]]              | [[zeigte]]              |
-| Wir       | [[zeigen]]           | [[zeigten]]           | -                 | [[zeigen]]             | [[zeigten]]             |
-| Ihr       | [[zeigt]]            | [[zeigtet]]           | [[zeigt]]         | [[zeiget]]             | [[zeigtet]]             |
-| Sie       | [[zeigen]]           | [[zeigten]]           | [[zeigen Sie]]    | [[zeigen]]             | [[zeigten]]             |
+- Was [[zeigen]] wir dem Publikum?
+- Unsere neue Kollektion.
 
-Partizip I: [[zeigend]], Partizip II: [[gezeigt]]
-[[zeigen]] - [[zeig]] = [[en]]
-''', [[sehen lassen]], [[beibringen]], [[verdecken]], [[vorstellen]], [[anzeigen]], [[hinweisen]], [[weisen]], [[s1 e1]], [[ergeben]], [[vorweisen]], [[erweisen]], [[veranschaulichen]]
+- Warum [[hat]] er es ihr [[gezeigt]]?
+- Um ihr zu helfen.
+
+---
+###### [[zeigen]] *[[sich]]*
+- Was [[zeigt]] das Thermometer?
+- Es [[zeigt]] 30 Grad.
+
+- Warum [[zeigt]] sich das Problem?
+- Weil die Situation kompliziert ist.
+
+- Wie lange [[hat]] sich das [[gezeigt]]?
+- Seit gestern.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[zeig]] / [[zeige]], [[zeigte]], [[zeige]], [[zeigte]], -
+du, [[zeigst]], [[zeigtest]], [[zeigst]], [[zeigtest]], [[zeig]] / [[zeige]]
+er, [[zeigt]], [[zeigte]], [[zeige]], [[zeigte]], -
+wir, [[zeigen]], [[zeigten]], [[zeigen]], [[zeigten]], [[zeigen]]
+ihr, [[zeigt]], [[zeigtet]], [[zeiget]], [[zeigtet]], [[zeigt]]
+sie, [[zeigen]], [[zeigten]], [[zeigen]], [[zeigten]], [[zeigen]]
+
+*Zu + Inf*: zu [[zeigen]], *P2*: [[gezeigt]]
+Adjektive: [[zeigend]], [[zeigender]], [[zeigendst]]
+
+---
+[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]]

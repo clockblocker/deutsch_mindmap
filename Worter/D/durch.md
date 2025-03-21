@@ -19,8 +19,8 @@ Verwendungen:
 - Temporal: Durch den ganzen Tag arbeitete er. (time)
 
 ---
-Synonyme: [[hindurch]], [[über]], [[entlang]], [[mittels]], [[vermittels]]
-Antonyme: [[um]], [[vor]], [[hinter]], [[über]], [[neben]]
+Synonyme: [[hindurch]], [[Worter/Ü/über]], [[entlang]], [[mittels]], [[vermittels]]
+Antonyme: [[um]], [[vor]], [[hinter]], [[Worter/Ü/über]], [[Worter/N/neben]]
 
 ---
 Übersetzung: through, across
@@ -47,23 +47,13 @@ Synonyme:
 ---
 **Übersetzung**: completion, execution
 
----
-
-Morphems:
-[[durch]]
-
----
-#Substantiv #Neuter
-
-
----
-
-[[läuft]] [[noch]] ein bisschen [[durch]] die Stadt
 
 По городу
 
 
-[[Leibe geht durch den Magen]], [[durchs]]
+[[Leibe geht durch den Magen]],
+
+[[durchs]]
 
  [[durch]], [dʊʁç], [[durchknallen]], [[knallen]], [[durchgeknallt]], [[durchschnittliches]], [[durchchecken]], [[trotz]], [[durchatmen]], [[da]], [[durchsuchen]], [[dadurch]], [[wodurch]], [[s1 e1]], [[durchmogeln]], [[FUDGEBOW]], [[durchmachen]]
 , [[anhand]]
@@ -71,3 +61,5 @@ Morphems:
 , [[infolge]]
 , [[durchhalten]]
 , [[Durchhaltevermögen]], [[durchtrennen]]
+
+[[läuft]] [[noch]] ein bisschen [[durch]] die Stadt

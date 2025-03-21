@@ -3,7 +3,7 @@
 haben [[aufgestellt]]
 
 ---
-Doch kein anderes Museum [[stellt]] das Leben und Aufwachsen in der DDR [[auf]] eine so anschauliche Weise dar.
+Doch kein anderes Museum [[stellt]] das Leben und Aufwachsen in der DDR [[Worter/A/auf]] eine so anschauliche Weise dar.
 
 ---
 Synonyme: [[platzieren]], [[positionieren]], [[errichten]], [[installieren]], [[aufbauen]]
@@ -13,7 +13,7 @@ Antonyme: [[abbauen]], [[entfernen]], [[niederlegen]], [[umwerfen]]
 Übersetzung: to set up, to erect, to place
 
 ---
-Morpheme: [[auf]][[stell]][[en]]
+Morpheme: [[Worter/A/auf]][[stell]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -30,6 +30,6 @@ Morpheme: [[auf]][[stell]][[en]]
 
 Partizip I: [[aufstellend]], Partizip II: [[aufgestellt]]
 
-[[aufstellen]] - [[auf]] = [[stellen]]
+[[aufstellen]] - [[Worter/A/auf]] = [[stellen]]
 
 [[setzen]], [[hinstellen]], [[legen]], [[antreten]]

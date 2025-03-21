@@ -3,8 +3,9 @@ die [[Pferdeschwänze]]
 
 
 ---
-Ein junger Mann mit einem [[Pferdeschwanz]] und einer Narbe im Gesicht starrt den Lichtstrahl an._
+Ein junger Mann mit einem [[Pferdeschwanz]] und einer Narbe im Gesicht starrt den Lichtstrahl an.
 
+[[Ergebnis]]
 
 ---
 Synonyme:

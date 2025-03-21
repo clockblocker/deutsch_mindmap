@@ -1,3 +1,5 @@
+[[entlassen]]
+
 Episode Four: Sam [[Sucht]] Einen Job  
 Das ist die [[Geschichte]] von Anna und Sascha aus Berlin.  
 Sie haben [[Besuch]] von Sam aus Amerika.  
@@ -102,7 +104,7 @@ Ja hallo Stefaaaan! Ja, wie geht’s dir? Stefan?
 SASCHA: Heute Abend? Zum Abendessen? Ja gern Stefan. Ja fantastisch Stefan. Bis dann Stefan.  
 Das war Stefan.  
 A/N/S: Nein!  
-SASCHA: Er will mit mir essen gehen … und [[über]] meinen neuen Job sprechen! Jaaaa!  
+SASCHA: Er will mit mir essen gehen … und [[Worter/Ü/über]] meinen neuen Job sprechen! Jaaaa!  
 SAM: Ohhh! Wer ist Stefan?  
 ANNA: Er ist Saschas Chef.  
 SASCHA: Ja, er ist total reich. Und so intelligent! Und er will mit mir essen gehen!  

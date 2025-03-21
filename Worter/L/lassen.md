@@ -19,7 +19,7 @@ STEFAN: Also zurück zum Thema, [[Lass]] uns über dich und mich rede
 ---
 [[verlassen]] - [[ver]] = [[lassen]]           / abandon
 [[erlassen]] - [[er]] = [[lassen]]               / to decree, to enact, to grant
-[[überlassen]] - [[über]] = [[lassen]]      / to entrust, to hand over
+[[überlassen]] - [[Worter/Ü/über]] = [[lassen]]      / to entrust, to hand over
 [[hineinlassen]] - [[hinein]] = [[lassen]] / to let in, to admit
 
 ---
@@ -48,4 +48,4 @@ PI: [[lassend]], PII: [[gelassen]], Zu+inf: [[zu lassen]]
 ---
 [[Erlaubnis]], [[Zulassung]], [[Toleranz]], [[Passivität]], [[Genehmigung]]
 
-[[stören]], [[Quirlen]], [[umschalten]], [[ändern]], [[tun]], [[stehen lassen]], [[versuchen]], [[wechseln]], [[sehen lassen]], [[gestrichen]], , [[einlassen]]
+[[stören]], [[Quirlen]], [[umschalten]], [[ändern]], [[tun]], [[stehen lassen]], [[versuchen]], [[wechseln]], [[sehen lassen]], [[gestrichen]], , [[einlassen]], [[entlassen]]

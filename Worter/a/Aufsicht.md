@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[auf]][[Sicht]]
+[[Worter/A/auf]][[Sicht]]
 
 ---
 Einzigartige mögliche Formen: [[Aufsicht]], [[Aufsichten]], [[Aufsichts]]

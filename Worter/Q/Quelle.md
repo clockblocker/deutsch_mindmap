@@ -5,7 +5,7 @@ die [[Quellen]]
  Das Licht stammt von einer unglaublich starken [[Quelle]], das muss er sein!
 
 ---
-[[überquellen]] - [[über]] = [[quellen]] / to overflow, to spill over
+[[überquellen]] - [[Worter/Ü/über]] = [[quellen]] / to overflow, to spill over
 
 
 ---

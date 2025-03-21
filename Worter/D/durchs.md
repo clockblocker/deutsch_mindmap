@@ -5,7 +5,7 @@
 *Und einer schlug sie tot*
 
 ---
-Synonyme: [[durch das]], [[via]], [[mittels]], [[über]], [[längs]]
+Synonyme: [[durch das]], [[via]], [[mittels]], [[Worter/Ü/über]], [[längs]]
 Antonyme: [[außerhalb]], [[hinter]], [[ohne]]
 
 

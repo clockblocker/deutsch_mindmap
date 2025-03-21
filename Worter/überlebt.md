@@ -12,7 +12,7 @@ Ein Junge [[überlebt]]
 survived
 
 ---
-[[über]]|[[leb]]|[[t]]
+[[Worter/Ü/über]]|[[leb]]|[[t]]
 
 ---
 N: [[überlebt]], [[überlebter]], [[überlebster]]  

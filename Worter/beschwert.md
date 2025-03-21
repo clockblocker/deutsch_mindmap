@@ -2,9 +2,9 @@
 nicht [[leicht]]
 
 ---
-Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] freundlich. „Sind Sie ganz sicher, dass Sie alles richtig installiert haben?“, fragt er Uli, „unsere Kunden waren bisher immer [[zufrieden]]. Es hat sich niemand [[über]] dieses Modell [[beschwert]].“ 
+Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] freundlich. „Sind Sie ganz sicher, dass Sie alles richtig installiert haben?“, fragt er Uli, „unsere Kunden waren bisher immer [[zufrieden]]. Es hat sich niemand [[Worter/Ü/über]] dieses Modell [[beschwert]].“ 
 
-d) Sie hat sich [[über]] ihre Kollegin [[beschwert]].  
+d) Sie hat sich [[Worter/Ü/über]] ihre Kollegin [[beschwert]].  
 
 ---
 Synonyme: [[belastet]], [[bedrückt]], [[geplagt]], [[gestresst]], [[überladen]]

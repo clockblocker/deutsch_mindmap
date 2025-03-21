@@ -15,7 +15,7 @@ die [[Aufführungen]]
 stage performance, public show
 
 ---
-[[auf]]|[[führ]]|[[ung]]
+[[Worter/A/auf]]|[[führ]]|[[ung]]
 
 ---
 N: die [[Aufführung]], die [[Aufführungen]]  

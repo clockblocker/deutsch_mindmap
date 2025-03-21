@@ -1,1 +1,1 @@
-, [[Todesfall]]
+, [[Todesfall]], [[sterben]]

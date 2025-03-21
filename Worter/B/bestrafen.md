@@ -37,4 +37,4 @@ Zu+infinifive: [[zu bestrafen]]
 
 ---
 [[Bestrafung]], [[Strafe]], [[Straftat]], [[strafbar]], [[Strafgericht]], [[Strafmaß]], [[Strafverfolgung]], [[Prügelstrafe]]
-, [[verzeihen]]
+, [[verzeihen]], [[rächen]]

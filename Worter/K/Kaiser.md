@@ -1,1 +1,1 @@
-, [[Reichskrone]]
+, [[Reichskrone]], [[Monarch]]

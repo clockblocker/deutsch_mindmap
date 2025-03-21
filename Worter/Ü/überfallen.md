@@ -14,7 +14,7 @@ Antonyme: [[beschützen]], [[verteidigen]], [[helfen]], [[beistehen]]
 Übersetzung: to attack, to assault, to rob
 
 ---
-Morpheme: [[über]][[fall]][[en]]
+Morpheme: [[Worter/Ü/über]][[fall]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -31,4 +31,4 @@ Morpheme: [[über]][[fall]][[en]]
 
 Partizip I: [[überfallénd]], Partizip II: [[überfalléñ]]
 
-[[überfallen]] - [[über]] = [[fallen]], [[Deutschland]], [[stürmen]]
+[[überfallen]] - [[Worter/Ü/über]] = [[fallen]], [[Deutschland]], [[stürmen]]

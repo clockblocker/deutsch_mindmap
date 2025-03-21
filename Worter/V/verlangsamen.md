@@ -1,1 +1,1 @@
-, [[zulaufen]], [[verzögern]]
+, [[zulaufen]], [[verzögern]], [[langsam]]

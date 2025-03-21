@@ -18,7 +18,7 @@ die [[Aufgaben]]
 task, assignment, duty
 
 ---
-[[Auf]]|[[gabe]]
+[[Worter/A/auf]]|[[gabe]]
 
 ---
 N: die [[Aufgabe]], die [[Aufgaben]]  

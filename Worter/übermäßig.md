@@ -13,7 +13,7 @@ excessive, immoderate
 чрезмерный, излишний
 
 ---
-[[über]]|[[mäßig]]
+[[Worter/Ü/über]]|[[mäßig]]
 
 ---
 N: [[übermäßig]], [[übermäßiger]], [[übermäßigst]]

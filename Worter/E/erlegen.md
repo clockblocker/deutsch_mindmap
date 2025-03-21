@@ -1,7 +1,7 @@
 🦌 [[erlegen]], [ɛɐ̯ˈleːɡn̩] | [[erlegte]], haben [[erlegt]]
 
 ---
-[[auf]] + [[erlegen]] = [[auferlegen]]
+[[Worter/A/auf]] + [[erlegen]] = [[auferlegen]]
 
 , [[ausgeben]], [[selbstauferlegen]], [[auferlegen]]
 

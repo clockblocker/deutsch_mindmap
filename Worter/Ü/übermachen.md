@@ -10,7 +10,7 @@ Antonyme: [[zurückhalten]], [[blockieren]], [[verhindern]]
 to transfer, to send over
 
 ---
-[[über]][[mach]][[en]]
+[[Worter/Ü/über]][[mach]][[en]]
  
 ---
 
@@ -25,7 +25,7 @@ Partizip I: [[übermachend]],
 Partizip II: [[übermacht]]
 Zu+infinitive: [[überzumachen]]
 
-[[übermachen]] - [[über]] = [[machen]]
+[[übermachen]] - [[Worter/Ü/über]] = [[machen]]
 
 ---
 [[Übermachung]], [[Übermachtvorgang]], [[Übermachungsauftrag]]

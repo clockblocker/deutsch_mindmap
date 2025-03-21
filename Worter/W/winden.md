@@ -3,7 +3,7 @@
 haben [[gewunden]]
 
 ---
-[[überwinden]] - [[über]] = [[winden]]
+[[überwinden]] - [[Worter/Ü/über]] = [[winden]]
 
 ---
 Synonyme: [[drehen]], [[wickeln]], [[umwickeln]], [[umwinden]], [[schlängeln]]

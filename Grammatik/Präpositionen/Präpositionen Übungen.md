@@ -1,0 +1,6 @@
+- [ ] [[Präpositionen Übung 1 Präpositionen in temporalem Gebrauch]] 
+- [ ] [[Präpositionen Übung 2 Präpositionen in kausalem Gebrauch]] 
+- [ ] [[Präpositionen Übung 3]] 
+- [ ] [[Präpositionen Übung 4]] 
+- [ ] [[Präpositionen Übung 5  stehenden Satzteile in den Genitiv]] 
+- [ ] [[Präpositionen Übung 6 Setzen Sie die Präposition und den Artikel in dem richtigen Kasus ein.]] 

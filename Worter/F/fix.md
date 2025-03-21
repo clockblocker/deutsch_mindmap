@@ -1,1 +1,1 @@
-, [[flott]]
+, [[flott]], [[Schnell]], [[rasch]]

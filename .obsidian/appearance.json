@@ -5,9 +5,13 @@
     "custom-links",
     "footnote",
     "custom-highlighting",
-    "custom-block-ids"
+    "custom-block-ids",
+    "custom-italics"
   ],
   "translucency": false,
   "cssTheme": "Things",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono NL"
 }

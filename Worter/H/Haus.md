@@ -2,6 +2,9 @@
 die [[Häuser]]
 
 ---
+Vor langer, langer Zeit lebte die Katze nicht in den [[Häusern]] der Menschen
+
+
 [[Haustür]], [[Gebetshaus]], [[Gästehaus]], [[Miethaus]]
 
 
@@ -24,4 +27,7 @@ D: dem [[Haus]], den [[Häusern]]
 
 ---
 [[häuslich]], [[Hausfrau]], [[Haustür]], [[Hausaufgabe]], [[wohnhaft]], [[Hausbesitzer]], [[s1 e1]], [[Schulgebäude]], [[Fernsehturm]], [[Geburtsort]]
-, [[Schrebergarten]], [[Zeltsam]]
+, [[Schrebergarten]], [[Zeltsam]], [[Traufe]]
+
+
+#Neuter 

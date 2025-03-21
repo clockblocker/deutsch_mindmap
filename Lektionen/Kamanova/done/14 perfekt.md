@@ -390,7 +390,7 @@ Meine Freunde gingen gestern zur Polizei und sagten, dass sie den Verbrecher in 
 [[gpt]]
 
 Meine Freunde sind gestern zur Polizei gegangen und haben dort gesagt, dass sie einen Verbrecher in der Nähe des Bahnhofs gesehen haben
-nicht [[genau]]: [[zu]] = [[Platzwechsel]], [[bei]] = [[Location]]
+nicht [[genau]]: [[zu]] = [[Worter/P/Platzwechsel]], [[bei]] = [[Location]]
 1. Она поставила полки около двери. На полки она положила журналы. Sie hat die Regale bei der Tür aufgestellt. Auf die Regale hat sie Zeitschriften gelegt.
 2. Нам нужен был их адрес, но мы не нашли его дома.
 3. Я забыл, какая у тебя была идея.

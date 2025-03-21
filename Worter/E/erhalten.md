@@ -28,7 +28,7 @@ Je mehr „[[Zweitstimmen]]“ eine [[Partei]] bei einer [[Bundestagswahl]] beko
 	- [x] [[Jugendamt]].
 
 ---
-[[aufrechterhalten]] - [[auf]] - [[recht]] = [[erhalten]] / to maintain, to uphold
+[[aufrechterhalten]] - [[Worter/A/auf]] - [[recht]] = [[erhalten]] / to maintain, to uphold
 
 
 ---

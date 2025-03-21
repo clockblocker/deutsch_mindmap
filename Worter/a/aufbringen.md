@@ -12,7 +12,7 @@ _[[Aufgebracht]]_ Aha! Der [[Verräter]] [[gesteht]] sogar. Krieger, sofort weg
 to raise, to generate, to muster
 
 ---
-[[auf]]|[[bring]]|[[en]]
+[[Worter/A/auf]]|[[bring]]|[[en]]
 
 ---
 ich: [[bringe auf]], [[brachte auf]], –, [[bringe auf]], [[brächte auf]]
@@ -24,7 +24,7 @@ ihr: [[bringt auf]], [[brachtet auf]], [[bringt auf]], [[bringet auf]], [[bräch
 PI: [[aufbringend]], PII: [[aufgebracht]], Zu+inf: [[aufzubringen]]
 
 ---
-[[aufbringen]] - [[auf]] = [[bringen]] / to raise, to generate, to muster
+[[aufbringen]] - [[Worter/A/auf]] = [[bringen]] / to raise, to generate, to muster
 
 ---
 [[Aufbringung]], [[Aufbringungsfähigkeit]], [[aufbringlich]], [[bringen]], [[Bringschuld]]

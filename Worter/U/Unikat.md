@@ -1,1 +1,1 @@
-, [[Vorlage]]
+, [[Vorlage]], [[Ersatz]]

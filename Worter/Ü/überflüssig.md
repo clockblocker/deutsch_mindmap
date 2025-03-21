@@ -22,7 +22,7 @@ superfluous, unnecessary, redundant
 
 ---
 Morpheme:
-[[über]][[flüssig]]
+[[Worter/Ü/über]][[flüssig]]
 
 ---
 

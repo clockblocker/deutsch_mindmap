@@ -11,7 +11,7 @@ Antonyme: [[ausweichen]], [[stoppen]], [[bremsen]]
 to run over, to drive over
 
 ---
-[[über]][[fahr]][[en]]
+[[Worter/Ü/über]][[fahr]][[en]]
  
 ---
 
@@ -26,7 +26,7 @@ Partizip I: [[überfahrend]],
 Partizip II: [[überfahren]]
 Zu+infinifive: [[überfahren]]
 
-[[überfahren]] - [[über]] = [[fahren]] / to run over,
+[[überfahren]] - [[Worter/Ü/über]] = [[fahren]] / to run over,
 
 ---
 [[Überfahrt]], [[überfahren]], [[Überfahrung]], [[Unfallstelle]], [[Verkehrsunfall]]

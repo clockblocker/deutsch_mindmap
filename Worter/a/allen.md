@@ -1,2 +1,2 @@
 [[Worter/A/Alle]], [[allenthalben]]
-, [[Alle]]
+, [[Worter/A/Alle]]

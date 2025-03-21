@@ -3,7 +3,7 @@ die [[Garantiebestimmungen]]
 
 ---
 
-Meine Frage [[bezieht]] sich [[auf]] die [[Garantiebestimmungen]].
+Meine Frage [[bezieht]] sich [[Worter/A/auf]] die [[Garantiebestimmungen]].
 
 ---
 = [[Gewährleistungsbedingungen]], [[Garantiebedingungen]]

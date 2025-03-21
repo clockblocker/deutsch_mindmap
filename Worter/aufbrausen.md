@@ -13,7 +13,7 @@ to flare up, to fly into a rage
 вспылить, взбеситься
 
 ---
-[[auf]]|[[brau]]|[[sen]]
+[[Worter/A/auf]]|[[brau]]|[[sen]]
 
 ---
 ich: [[brause auf]], [[brauste auf]], –, [[brause auf]], [[brauste auf]]
@@ -25,7 +25,7 @@ ihr: [[braust auf]], [[braustet auf]], [[braust auf]], [[brauset auf]], [[braust
 PI: [[aufbrausend]], PII: [[aufgebraust]], Zu+inf: [[aufzubrausen]]
 
 ---
-[[aufbrausen]] - [[auf]] = [[brausen]] / to flare up, to fly into a rage
+[[aufbrausen]] - [[Worter/A/auf]] = [[brausen]] / to flare up, to fly into a rage
 
 ---
 [[Brause]], [[Brausebad]], [[Aufruhr]], [[brausend]], [[aufgebracht]]

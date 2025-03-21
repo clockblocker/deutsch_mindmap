@@ -14,7 +14,7 @@ Antonyme: [[unterliegen]], [[scheitern]], [[aufgeben]]
 Übersetzung: to survive, to get through, to weather
 
 ---
-Morpheme: [[über]][[steh]][[en]]
+Morpheme: [[Worter/Ü/über]][[steh]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
@@ -27,4 +27,4 @@ Morpheme: [[über]][[steh]][[en]]
 | Sie | [[überstehen]] | [[überstanden]] | [[überstehen Sie]] | [[überstehen]] | [[überstünden]] |
 
 Partizip I: [[überstehend]], Partizip II: [[überstanden]]
-[[überstehen]] - [[über]] = [[stehen]], [[durchmachen]]
+[[überstehen]] - [[Worter/Ü/über]] = [[stehen]], [[durchmachen]]

@@ -3,7 +3,7 @@
 haben [[aufgeleuchtet]]
 
 ---
-Plötzlich [[leuchtet]] das Wasser unter der Eisscholle hellblau [[auf]]
+Plötzlich [[leuchtet]] das Wasser unter der Eisscholle hellblau [[Worter/A/auf]]
 
 Plötzlich [[leuchtet auf|leuchtet]] [[weit]] [[entfernt]] am Himmel ein [[leuchtender]] Punkt auf, der immer näher kommt. - Sokkas Bumeraang! 
 
@@ -15,7 +15,7 @@ Antonyme: [[erlöschen]], [[verdunkeln]], [[ausschalten]], [[verlöschen]]
 Übersetzung: to light up, to illuminate
 
 ---
-Morpheme: [[auf]][[leucht]][[en]]
+Morpheme: [[Worter/A/auf]][[leucht]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -32,5 +32,5 @@ Morpheme: [[auf]][[leucht]][[en]]
 
 Partizip I: [[aufleuchtend]], Partizip II: [[aufgeleuchtet]]
 
-[[aufleuchten]] - [[auf]] = [[leuchten]]
+[[aufleuchten]] - [[Worter/A/auf]] = [[leuchten]]
 , [[s1 e1]]

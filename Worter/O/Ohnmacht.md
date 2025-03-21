@@ -1,1 +1,1 @@
-, [[Bewusstsein]]
+, [[Bewusstsein]], [[Einfluss]]

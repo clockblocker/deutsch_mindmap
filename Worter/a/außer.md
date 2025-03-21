@@ -4,7 +4,7 @@ außer, [ˈaʊ̯sɐ]
 [[außerhalb]]
 
 ---
-Synonyme: [[abgesehen von]], [[mit Ausnahme von]], [[neben]], [[ausgenommen]]
+Synonyme: [[abgesehen von]], [[mit Ausnahme von]], [[Worter/N/neben]], [[ausgenommen]]
 Antonyme: [[einschließlich]], [[inklusive]], [[zusammen mit]]
 
 ---

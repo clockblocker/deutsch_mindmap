@@ -1,1 +1,1 @@
-, [[überfahren]]
+, [[überfahren]], [[stoßen]]

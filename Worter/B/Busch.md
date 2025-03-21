@@ -24,3 +24,4 @@ Morphems:
 ---
 #Substantiv #Maskulin
 
+, [[Büsch]]

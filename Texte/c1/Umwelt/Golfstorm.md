@@ -1,5 +1,10 @@
 #### Atlantikküste: Meeresströmungen sorgen für gemäßigtes Klima in Europa
 
+Das sind die Wörter, über die ich mir nicht [[sicher]] bin.
+Das sind die Wörter gelesen. Darüber bin ich mir nicht sicher.
+Worüber bist du dir nicht sicher?
+
+
 *[[Golfstorm#^1|^]]* Alle sorgen sich wegen höherer Temperaturen und [[Hitzewellen]], doch was wäre, wenn es plötzlich kühler würde? ^1
 
 *[[Golfstorm#^2|^]]* Diese [[Befürchtungen]] [[äußerten]] Wissenschaftler in den vergangenen Jahren immer wieder. ^2

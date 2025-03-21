@@ -1,29 +1,47 @@
-😤 [[zweifeln]], [ˈt͡svaɪ̯fl̩n] | [[zweifelte]], haben [[gezweifelt]]
+🤔 [[zweifeln]], [ˈt͡svaɪ̯fln̩](https://youglish.com/pronounce/zweifeln/german) | [[zweifelte]], haben [[gezweifelt]]
 
 ---
 Wir [[zweifeln]] [[selten]]
 
 ---
-= [[bezweifeln]], [[misstrauen]], [[ungläubig]]
-≈ [[unsicher sein]], [[zögern]], [[schwanken]], [[vermuten]], [[verzweifeln]]
-≠ [[glauben]], [[vertrauen]], [[annehmen]], [[sicher sein]], [[überzeugen]], [[bestimmen]]
+= [[bezweifeln]], [[in Frage stellen]], [[argwöhnen]]
+≈ [[zögern]], [[schwanken]], [[unsicher sein]], [[vermuten]]
+≠ [[glauben]], [[vertrauen]], [[sicher sein]], [[überzeugt sein]]
 
 ---
-to doubt, to question, to be uncertain
+to doubt
+сомневаться
 
 ---
-[[zwei]]|[[fel]]
+[[Zweifel]], [[Zweifler]], [[zweifelhaft]], [[zweifellos]], [[anzweifeln]]
 
 ---
-ich: [[zweifle]], [[zweifelte]], –, [[zweifle]], [[zweifelte]]
-du: [[zweifelst]], [[zweifeltest]], [[zweifle]] | [[zweifel]] | [[zweifelst]], [[zweifeltest]], [[zweifeltest]]
-er/sie/es: [[zweifelt]], [[zweifelte]], –, [[zweifle]], [[zweifelte]]
-wir: [[zweifeln]], [[zweifelten]], [[zweifeln wir|zweifeln]], [[zweifeln]], [[zweifelten]]
-ihr: [[zweifelt]], [[zweifeltet]], [[zweifelt]], [[zweifelt]], [[zweifeltet]]
+[[zwei|fel]]|[[n]]
+[[zweifeln]]
 
-PI: [[zweifelnd]], PII: [[gezweifelt]], Zu+inf: [[zuzweifeln]]
 
 ---
+###### [[zweifeln]] `an` jD
+- `Woran` [[zweifelst]] du?
+- `An` seinen Worten.
+
+- `An` wem [[zweifeln]] wir?
+- `An` unseren Fähigkeiten.
+
+- Warum [[hat]] sie `daran` [[gezweifelt]]?
+- Weil sie uns nicht vertraut hat.
 
 ---
-[[Zweifel]], [[zweifelhaft]], [[Zweifler]], [[zweifellos]], [[zweifelnd]]
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[zweifl]] / [[zweifle]], [[zweifelte]], [[zweifle]], [[zweifelte]], -
+du, [[zweifelst]], [[zweifeltest]], [[zweifelst]], [[zweifeltest]], [[zweifl]] / [[zweifle]]
+er, [[zweifelt]], [[zweifelte]], [[zweifle]], [[zweifelte]], -
+wir, [[zweifeln]], [[zweifelten]], [[zweifeln]], [[zweifelten]], [[zweifeln]]
+ihr, [[zweifelt]], [[zweifeltet]], [[zweifelt]], [[zweifeltet]], [[zweifelt]]
+sie, [[zweifeln]], [[zweifelten]], [[zweifeln]], [[zweifelten]], [[zweifeln]]
+
+*Zu + Inf*: zu [[zweifeln]], *P2*: [[gezweifelt]]
+Adjektive: [[zweifelnd]], [[zweifelnder]], [[zweifelndst]]
+
+---
+[[zweifelnder]], [[zweifelndes]], [[zweifelnde]], [[zweifelnden]], [[zweifelndem]], [[zweifelnderer]], [[zweifelnderes]], [[zweifelndere]], [[zweifelnderen]], [[zweifelnderem]], [[zweifelndster]], [[zweifelndstes]], [[zweifelndste]], [[zweifelndsten]], [[zweifelndstem]]

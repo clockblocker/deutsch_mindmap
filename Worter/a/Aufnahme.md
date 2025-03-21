@@ -14,7 +14,7 @@ Viele Länder [[gewähren]] die [[Aufnahme]] von [[Flüchtlingen]].
 recording, admission, reception
 
 ---
-[[auf]]|[[Nahme]]
+[[Worter/A/auf]]|[[Nahme]]
 
 ---
 N: die [[Aufnahme]], die [[Aufnahmen]]  

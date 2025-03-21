@@ -4,6 +4,8 @@ die [[Regen]]
 ---
 [[Bisher]] gab es noch keinen [[Regen]], aber bestimmt [[bald]].
 
+Er kommt `aus` dem [[Regen]] in die [[Traufe]]; 
+
 
 ---
 = [[Niederschlag]], [[Regenwetter]]

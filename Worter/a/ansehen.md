@@ -28,7 +28,7 @@ Synonyme: [[betrachten]], [[begutachten]], [[besichtigen]], [[mustern]], [[inspi
 Antonyme: [[ignorieren]], [[übersehen]], [[wegsehen]], [[abwenden]]
 
 ---
-Übersetzung: to look at, to view, to see
+Übersetzung: to look at, to view, to see, Reputation
 
 ---
 Morpheme: [[an]][[seh]][[en]]

@@ -4,7 +4,7 @@
 
 
 ---
-[[aufbrausen]] - [[auf]] = [[brausen]] / to flare up, to fly into a rage
+[[aufbrausen]] - [[Worter/A/auf]] = [[brausen]] / to flare up, to fly into a rage
 
 ---
 = [[rauschen]], [[tosen]], [[donnern]]

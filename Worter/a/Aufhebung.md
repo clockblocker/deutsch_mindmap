@@ -17,7 +17,7 @@ abolition, repeal, cancellation
 [[aufheben]], [[aufgehoben]], [[Aufheber]], [[aufhebbar]]
 
 ---
-[[auf]]|[[heb]]|[[ung]]
+[[Worter/A/auf]]|[[heb]]|[[ung]]
 [[Aufhebung]]
 
 ---

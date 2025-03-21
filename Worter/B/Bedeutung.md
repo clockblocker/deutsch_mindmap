@@ -1,1 +1,1 @@
-, [[Geltung]], [[Deutung]], [[deutlich]], [[Inhalt]], [[Gehalt]], [[Wert]], [[Bedeutungsunterschied]], [[Informationswert]]
+, [[Geltung]], [[Deutung]], [[deutlich]], [[Inhalt]], [[Gehalt]], [[Wert]], [[Bedeutungsunterschied]], [[Informationswert]], [[bedeutend]], [[Einfluss]]

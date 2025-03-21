@@ -14,7 +14,7 @@ work assignment, task
 рабочее задание, поручение
 
 ---
-[[Arbeits]]|[[auf]]|[[trag]]
+[[Arbeits]]|[[Worter/A/auf]]|[[trag]]
 
 ---
 N: der [[Arbeitsauftrag]], die [[Arbeitsaufträge]]

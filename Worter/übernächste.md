@@ -12,7 +12,7 @@
 day after the next, following, future
 
 ---
-[[über]]|[[nächste]]
+[[Worter/Ü/über]]|[[nächste]]
 
 ---
 - [[nächste]], [[letzten]], [[jetzigen]], [[vorherigen]]

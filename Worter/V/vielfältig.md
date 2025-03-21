@@ -26,4 +26,4 @@ diverse, varied
 Adjektive: [[vielfältig]], [[vielfältiger]], [[vielfältigst]]
 
 ---
-[[vielfältiger]], [[vielfältiges]], [[vielfältige]], [[vielfältigen]], [[vielfältigem]], [[vielfältigerer]], [[vielfältigeres]], [[vielfältigere]], [[vielfältigeren]], [[vielfältigerem]], [[vielfältigster]], [[vielfältigstes]], [[vielfältigste]], [[vielfältigsten]], [[vielfältigstem]]
+[[vielfältiger]], [[vielfältiges]], [[vielfältige]], [[vielfältigen]], [[vielfältigem]], [[vielfältigerer]], [[vielfältigeres]], [[vielfältigere]], [[vielfältigeren]], [[vielfältigerem]], [[vielfältigster]], [[vielfältigstes]], [[vielfältigste]], [[vielfältigsten]], [[vielfältigstem]], [[wechselvoll]]

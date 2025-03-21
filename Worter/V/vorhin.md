@@ -1,7 +1,7 @@
 🕰️ [[vorhin]], [fɔɐ̯ˈhɪn]
 
 ---
-Ich [[beziehe]] mich [[auf]] das, was Sie [[vorhin]] [[erwähnt]] haben.  
+Ich [[beziehe]] mich [[Worter/A/auf]] das, was Sie [[vorhin]] [[erwähnt]] haben.  
 
 
 ---

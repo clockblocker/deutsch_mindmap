@@ -1,1 +1,1 @@
-, [[nicken]], [[hinweisen]], [[weisen]]
+, [[nicken]], [[hinweisen]], [[weisen]], [[zeigen]]

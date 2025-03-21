@@ -16,7 +16,7 @@
 to give up, to surrender, to quit
 
 ---
-[[auf]]|[[geb]]|[[en]]
+[[Worter/A/auf]]|[[geb]]|[[en]]
 
 ---
 ich: [[gebe auf]], [[gab auf]], –, [[gebe auf]], [[gäbe auf]]
@@ -28,7 +28,7 @@ ihr: [[gebt auf]], [[gabt auf]], [[gebt auf]], [[gebet auf]], [[gabt auf]]
 PI: [[aufgebend]], PII: [[aufgegeben]], Zu+inf: [[aufzugeben]]
 
 ---
-[[aufgeben]] - [[auf]] = [[geben]] / to give up, to surrender, to quit
+[[aufgeben]] - [[Worter/A/auf]] = [[geben]] / to give up, to surrender, to quit
 
 ---
 [[Aufgabe]], [[aufgeben]], [[Zugeständnis]], [[sich ergeben]], [[aussetzen]]

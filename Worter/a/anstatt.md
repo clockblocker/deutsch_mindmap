@@ -7,7 +7,7 @@
 ---
 = [[anstelle von]], [[in Ermangelung von]]
 ≈ [[statt]], [[statt dessen]], [[an Stelle von]]
-≠ [[zusätzlich zu]], [[außerhalb von]], [[neben]]
+≠ [[zusätzlich zu]], [[außerhalb von]], [[Worter/N/neben]]
 
 ---
 instead (of)

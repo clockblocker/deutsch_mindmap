@@ -1,1 +1,1 @@
-, [[vormachen]], [[ausstellen]], [[darstellen]], [[sehen lassen]], [[vorstellen]]
+, [[vormachen]], [[ausstellen]], [[darstellen]], [[sehen lassen]], [[vorstellen]], [[zeigen]]

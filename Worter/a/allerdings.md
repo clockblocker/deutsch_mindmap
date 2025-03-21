@@ -26,4 +26,4 @@ Morpheme: [[allerdings]]
 ---
 #Adverb [[allerdings]]
 , [[Konjunktoren]]
-, [[Alle]], [[ohnehin]], [[Konnektivpartikeln]]
+, [[Worter/A/Alle]], [[ohnehin]], [[Konnektivpartikeln]]

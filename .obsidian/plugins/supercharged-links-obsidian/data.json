@@ -1,0 +1,50 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Neuter",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "77a4-9658",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Feminin",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "40a8-eb9f",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Plural",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "b97d-f470",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": false
+    }
+  ]
+}

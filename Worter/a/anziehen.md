@@ -13,7 +13,7 @@
 ≠ [[ausziehen]], [[ablegen]], [[entkleiden]], [[abziehen]]
 
 ---
-to put on, to attract
+to put on, to attract, getting dressed
 надевать, привлекать
 
 ---

@@ -1,1 +1,1 @@
-, [[gehen]], [[Passant]], [[wagen]]
+, [[gehen]], [[Passant]], [[wagen]], [[Fußabdruck]]

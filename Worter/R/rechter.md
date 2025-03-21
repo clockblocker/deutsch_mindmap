@@ -2,7 +2,7 @@
 die [[Rechten]]
 
 ---
-[[aufrechterhalten]] - [[auf]] - [[rechter]] = [[halten]] / to maintain, to uphold
+[[aufrechterhalten]] - [[Worter/A/auf]] - [[rechter]] = [[halten]] / to maintain, to uphold
 , [[rechte]], [[recht]]
 
 ---
