@@ -7,7 +7,7 @@ Seit gestern ist Katja aber ein kleiner Star. Sie hat einen Artikel über den [[
 ---
 = [[Renovierung]], [[Restaurierung]], [[Instandsetzung]]
 ≈ [[Erneuerung]], [[Sanierungskonzept]], [[Modernisierung]], [[Wiederherstellung]]
-≠ [[Zerstörung]], [[Abriss]], [[Verfall]], [[Vernachlässigung]]
+≠ [[Zerstörung]], [[Abriss]], [[verfall]], [[Vernachlässigung]]
 
 ---
 rehabilitation, renovation, refurbishment, remediation

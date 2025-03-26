@@ -17,3 +17,9 @@ Die anderen kommen dazu und [[abnehmen|nehmen]] den beiden ein paar von den schw
 Miriam ist [[erleichtert]]: Das Eis zwischen Sebastian und ihren Freunden ist gebrochen!	
 
 https://learngerman.dw.com/de/das-eis-brechen/l-19536464
+
+🧊🤝 [[das Eis brechen]] *Redewendung*
+🐛🚫 [[da ist der Wurm drin]] *Redewendung*
+🎩🧩🤹‍♂️ [[alles unter einen Hut bringen]] *Redewendung*
+👖🤏 [[den Gürtel enger schnallen]] *Redewendung*
+☁️7️⃣🥰 [[auf Wolke sieben schweben]] *Redewendung*

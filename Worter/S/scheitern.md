@@ -7,7 +7,7 @@ Er hat mich gestern nicht angerufen, weil er noch einmal [[gescheitert]] ist.
 ---
 = [[fehlschlagen]], [[misslingen]], [[missglücken]], [[Niederlage]], [[unterliegen]],
 ≈ [[versagen]], [[untergehen]], [[zusammenbrechen]]
-≠ [[gelingen]], [[erfolgreich sein]], [[triumphieren]], [[leisten]], [[gutgehen]], [[erfüllen]], [[klappen]], [[Erfolgen]], [[schaffen]], [[erreichen]], [[besiegen]], [[siegen]], [[überleben]]
+≠ [[gelingen]], [[erfolgreich sein]], [[triumphieren]], [[Leisten]], [[gutgehen]], [[erfüllen]], [[klappen]], [[Erfolgen]], [[schaffen]], [[erreichen]], [[besiegen]], [[siegen]], [[überleben]]
 
 ---
 to fail, to be unsuccessful

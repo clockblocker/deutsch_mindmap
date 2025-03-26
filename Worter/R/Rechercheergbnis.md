@@ -1,1 +1,1 @@
-, [[Rechercheergbenis]]
+, [[Rechercheergebenis]]

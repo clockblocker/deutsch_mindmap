@@ -6,7 +6,11 @@
     "footnote",
     "custom-highlighting",
     "custom-block-ids",
-    "custom-italics"
+    "custom-italics",
+    "supercharged-links-gen",
+    "custim-color-der-die-das",
+    "custom-wortart",
+    "custom-color-der-die-das"
   ],
   "translucency": false,
   "cssTheme": "Things",

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Zimmers]], [[Zimmern]], [[Zimmer]]
 
 ---
-#Substantiv #Neutral, [[Flur]], [[Halle]], [[Tür]]
+#Substantiv #Neutral, [[Flur]], [[Halle]], [[Tür]], [[Wohnzimmer]]

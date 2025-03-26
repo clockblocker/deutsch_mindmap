@@ -1,4 +1,4 @@
-🟢 📄 das [[Rechercheergbenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
+🟢 📄 das [[Rechercheergebenis]], [reˈʃɛrʃəʔɛɐ̯ɡeːpnɪs]
 die [[Rechercheergbnisse]]
 
 ---
@@ -17,8 +17,8 @@ research result, findings
 [[Re]]|[[cher]]|[[che]]|[[er]]|[[geb]]|[[nis]]
 
 ---
-N: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
-A: das [[Rechercheergbenis]], die [[Rechercheergbnisse]]  
+N: das [[Rechercheergebenis]], die [[Rechercheergbnisse]]  
+A: das [[Rechercheergebenis]], die [[Rechercheergbnisse]]  
 G: des [[Rechercheergbnis­ses]], der [[Rechercheergbnisse]]  
 D: dem [[Rechercheergbnis]], den [[Rechercheergbnissen]]  
 

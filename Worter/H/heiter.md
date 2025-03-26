@@ -1,3 +1,1 @@
-[[glücklich]], [[fröhlich]], [[lustig]], [[munter]]
-, [[raustogig]]
-, [[launisch]], [[gelaunt]]
+[[glücklich]], [[fröhlich]], [[lustig]], [[munter]], [[raustogig]], [[launisch]], [[gelaunt]]

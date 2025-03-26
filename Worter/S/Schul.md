@@ -1,2 +1,2 @@
 , [[Schule]], [[Schulabschluss]], [[Schulpflicht]], [[Schulamt]], [[Schulwesen]], [[Schulgebäude]]
-, [[Schularbeit]], [[Grundschulkind]], [[Schulklasse]]
+, [[Schularbeit]], [[Grundschulkind]], [[Schulklasse]], [[Schultasche]]

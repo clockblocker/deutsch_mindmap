@@ -3,7 +3,9 @@
 ---
 Das Restaurant [[befindet]] sich in der Nähe des Bahnhofs.
 
-71. Wo [[aufhalten|hält]] sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am [[häufigsten]] auf? Am [[häufigsten]] ist er / sie … (98%)
+7. Die Antenne [[befindet]] sich über dem Dach.  
+
+8. Wo [[aufhalten|hält]] sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am [[häufigsten]] auf? Am [[häufigsten]] ist er / sie … (98%)
 	- [x] in Berlin, weil sich dort das [[Bundeskanzleramt]] und der Bundestag [[befinden]].
 
 ---

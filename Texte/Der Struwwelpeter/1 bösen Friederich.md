@@ -10,7 +10,6 @@ Er [[schlug]] den [[Stuhl]] und [[Vogel]] [[tot]],
 die [[Katzen]] [[litten]] [[große Not]].  
 
 [[arger]]
-w
 Und höre [[nur]], [[wie]] [[bös]] er war:  
 Er [[peitschen|peitschte]] seine Gretchen [[gar]]!
 
@@ -47,3 +46,5 @@ aß auch die gute Leberwurst
 und trank den Wein für seinen Durst.  
 Die Peitsche hat er [[mitgebracht]]  
 und [[nimmt]] sie [[sorglich]] sehr [[in acht]].
+
+[[Gemischt]]

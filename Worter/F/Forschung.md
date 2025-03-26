@@ -2,7 +2,7 @@
 die [[Forschungen]]
 
 ---
-, [[suche]], [[Rechercheergbenis]], [[Untersuchung]], [[Forscher]], [[forschen]]
+, [[suche]], [[Rechercheergebenis]], [[Untersuchung]], [[Forscher]], [[forschen]]
 
 Die Forscher forschen die Forschung
 
@@ -27,4 +27,4 @@ N: die [[Forschung]], die [[Forschungen]]
 A: die [[Forschung]], die [[Forschungen]]  
 G: der [[Forschung]], der [[Forschungen]]  
 D: der [[Forschung]], den [[Forschungen]]
-, [[Studie]]
+, [[Studie]], [[Rechercheergebnis]]

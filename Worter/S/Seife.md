@@ -1,7 +1,6 @@
 🔴 die [[Seife]], [ˈzaɪ̯fə]
 die [[Seifen]]
 
-
 ---
 blauen Topf mit der [[flüssigen]] [[Kamillenseife]]
 
@@ -25,3 +24,40 @@ Einzigartige mögliche Formen: [[Seife]], [[Seifen]], [[Seife]], [[Seife]], [[Se
 
 
 [[Waschmittel]], [[Kamillenseife]]
+
+<span class="custom-color-for-die">die</span> 🧼 [[Seife]]
+
+[[brot]]
+
+
+<span class="custom-color-for-die">die</span> 🧼 [[Seife]]
+
+{
+  "morphemischeZerlegung": [
+    {
+      "Seif": "Stamm"
+    },
+    {
+      "e": "Endung"
+    }
+  ]
+}
+
+
+{
+  "morphemischeZerlegung": [
+    {
+      "Seif": "Stamm"
+    },
+    {
+      "e": "Endung"
+    }
+  ]
+}
+
+
+
+[[Grammatik/Morphem/Stamm/List/Seif (Stamm)|Seif]]|[[Grammatik/Morphem/Endung/List/e (Endung)|e]]
+
+
+[[mietschuldenfreiheitsbescheinigung]]

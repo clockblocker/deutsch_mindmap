@@ -1,20 +1,19 @@
-Viele Autos fahren in ... Stadt.
-Ein Fahrradfahrer fährt unter ... Baum, weil es regnet.
-Das Schiff fährt aus einem Kanal in ... Fluss hinein.
-Viele Leute sammeln sich (wo?) vor ... Kirche und gehen in ... Kirche hinein.
-Zwei Vögel fliegen über ... Dach, ... Baum und ... Straße.
-Die Turnhalle und der Sportplatz werden im nächsten Jahr neben ... Schule gebaut.
-In der Sportstunde gehen wir auch in ... Gymnastikraum.
-Die Gäste parken (wo?) auf ... Parkplätzen vor der Turnhalle, manche fahren über ... Parkplätze undparken (wo?) im ... Parkverbot.
-
-Ich hänge die Plakate für Deutsch an ... Wand.
-Die Schultasche stellst du bitte unter ... Tisch.
-Jeder Schüler setzt sich an ... Bank.
-Eine Schülerin setzt sich vor ... Lehrer.
-Jetzt sitzt sie (wo?) vor ... Lehrer.
-Der Lehrer setzt sich an ... Lehrerpult.
-Der Hausmeister hängt die Lampe an ... Decke.
-Die Schränke werden an ... Wand angebracht.
-Wenn ich Brötchen kaufen möchte, muss ich vor ... Raum des Hausmeisters gehen.
-Wenn es klingelt, gehen alle Schüler in ... Pausenhof.
-
+1. Ich fahre mein Auto unter _________ Brücke.  
+2. Viele Autos fahren in _________ Stadt.  
+3. Ein Fahrradfahrer fährt unter _________ Baum, weil es regnet.  
+4. Das Schiff fährt aus einem Kanal in _________ Fluss hinein.  
+5. Viele Leute sammeln sich (wo?) vor _________ Kirche und gehen in _________ Kirche hinein.  
+6. Zwei Vögel fliegen über _________ Dach, _________ Baum und _________ Straße.  
+7. Die Turnhalle und der Sportplatz werden im nächsten Jahr neben _________ Schule gebaut.  
+8. In der Sportstunde gehen wir auch in _________ Gymnastikraum.  
+9. Die Gäste parken (wo?) auf _________ Parkplätzen vor der Turnhalle, manche fahren über _________ Parkplätze und parken (wo?) _________ Parkplatz.  
+10. Ich hänge die Plakate für Deutsch _________ _________ Wand.  
+11. Die Schultasche stellst du bitte unter _________ Tisch.  
+12. Jeder Schüler setzt sich an _________ Bank.  
+13. Eine Schülerin setzt sich vor _________ Lehrer.  
+14. Jetzt sitzt sie (wo?) vor _________ Lehrer.  
+15. Der Lehrer setzt sich an _________ Lehrerpult.  
+16. Der Hausmeister hängt die Lampe an _________ Decke.  
+17. Die Schulschränke werden _________ _________ Wand angebracht.  
+18. Wenn ich Brötchen kaufen möchte, muss ich vor _________ Raum des Hausmeisters gehen.  
+19. Wenn es klingelt, gehen alle Schüler in _________ Pausenhof.

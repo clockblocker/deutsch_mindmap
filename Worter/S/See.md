@@ -1,2 +1,3 @@
-• _die See_ (**feminine**) = das [[Meer]] 🌊 (_an der See_ → at the sea).
-• _der See_ (**masculine**) = **the lake** 🏞️ (_am See_ → at the lake).
+🏞 <span class="custom-color-for-der">der</span> [[See]] | 🌊 <span class="custom-color-for-die">die</span> [[See]]
+
+[[schloss]]

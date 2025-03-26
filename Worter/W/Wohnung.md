@@ -27,4 +27,4 @@ Alle Formen:
 
 
 , [[einziehen]], [[Haus]], [[Geburtsort]]
-, [[Wohnungsbewerbung]], [[Bauernhof]], [[Grundstück]], [[Schrebergarten]]
+, [[Wohnungsbewerbung]], [[Bauernhof]], [[Grundstück]], [[Schrebergarten]], [[Wohnzimmer]]

@@ -36,4 +36,4 @@ Morpheme: [[ob]][[wohl]]
 
 ---
 #Konjunktion #Nebensatz
-, [[trotz]], [[Konjunktoren]], [[Konnektoren]], [[Anki]]
+, [[trotz]], [[Konjunktoren]], [[Konnektoren]], [[Anki]], [[unterhalten]]

@@ -16,3 +16,4 @@ Er [[vornehmen|nimmt]] sich vor, in nächster Zeit nicht ins Kino zu gehen und w
 
 https://learngerman.dw.com/de/den-g%C3%BCrtel-enger-schnallen/l-19536479/lm
 
+👖🤏 [[den Gürtel enger schnallen]] *Redewendung*

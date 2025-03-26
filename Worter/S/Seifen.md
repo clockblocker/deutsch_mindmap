@@ -1,1 +1,3 @@
-, [[Seife]]
+ [[Seife]]
+
+#Substantiv #Feminin

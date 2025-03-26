@@ -4,7 +4,7 @@ die [[Ziele]]
 ---
 Denn wenn die anderen dieselben Ziele und Interessen haben, findet man zusammen bestimmt eine Lösung.  
 
-Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[leisten]] muss, um ein [[Ziel]] [[zu]] [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
+Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[Leisten]] muss, um ein [[Ziel]] [[zu]] [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
 ---
 Synonyme:

@@ -1,1 +1,1 @@
-, [[Schwimmbad]]
+, [[Schwimmbad]], [[Turnhalle]]

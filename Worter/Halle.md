@@ -23,4 +23,4 @@ G: der [[Halle]], der [[Hallen]]
 D: der [[Halle]], den [[Hallen]]  
 
 ---
-[[hallen]], [[hallend]], [[hallig]], [[Hallentrakt]]
+[[hallen]], [[hallend]], [[hallig]], [[Hallentrakt]], [[Turnhalle]]

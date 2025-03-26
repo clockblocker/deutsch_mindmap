@@ -7,7 +7,7 @@ die [[Wachstümer]]
 ---
 = [[Zunahme]], [[Entwicklung]], [[Gedeihen]]
 ≈ [[Fortschritt]], [[Expansion]], [[Steigerung]]
-≠ [[Rückgang]], [[Abnahme]], [[Verfall]]
+≠ [[Rückgang]], [[Abnahme]], [[verfall]]
 
 ---
 growth

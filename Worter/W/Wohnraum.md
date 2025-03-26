@@ -1,1 +1,1 @@
-, [[Wohnort]]
+, [[Wohnort]], [[Wohnzimmer]]

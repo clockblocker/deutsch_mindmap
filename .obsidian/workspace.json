@@ -8,20 +8,329 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78c52abbf2729622",
+            "id": "48e99e5e4b1883bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammatik/Präpositionen/Präpositionen Übungen.md",
+                "file": "Worter/M/molken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Präpositionen Übungen"
+              "title": "molken"
+            }
+          },
+          {
+            "id": "a324b607d7377941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 Das sagt man so!/Alle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alle"
+            }
+          },
+          {
+            "id": "d1904977a7b6b76b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texte/b2 Das sagt man so!/Den Faden verlieren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Den Faden verlieren"
+            }
+          },
+          {
+            "id": "e0cb34a367007808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/S/See.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "See"
+            }
+          },
+          {
+            "id": "9925e7764162e696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/verfallen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verfallen"
+            }
+          },
+          {
+            "id": "3f2fd055fd3d977e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/verfall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verfall"
+            }
+          },
+          {
+            "id": "196797769857e59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/verfall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verfall"
+            }
+          },
+          {
+            "id": "7a204078276d60bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/melken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "melken"
+            }
+          },
+          {
+            "id": "e72a3e30ea01e95d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/S/schloss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "schloss"
+            }
+          },
+          {
+            "id": "ec35f65ca96f1634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/trozdem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trozdem"
+            }
+          },
+          {
+            "id": "425a9a066eb36b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/T/trotzdem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trotzdem"
+            }
+          },
+          {
+            "id": "c56ae17a2a039243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/S/See.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "See"
+            }
+          },
+          {
+            "id": "8ab35cd991e5a183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/S/schloss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "schloss"
+            }
+          },
+          {
+            "id": "876fa4534eb3c083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/P/Pfifferling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pfifferling"
+            }
+          },
+          {
+            "id": "648d4df335760dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/S/Seife.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seife"
+            }
+          },
+          {
+            "id": "8c2101f3ef94b7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/mietschuldenfreiheitsbescheinigung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mietschuldenfreiheitsbescheinigung"
+            }
+          },
+          {
+            "id": "0f5cb645fd0e4757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/S/See.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "See"
+            }
+          },
+          {
+            "id": "733b8bf3a356dc18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/S/schloss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "schloss"
+            }
+          },
+          {
+            "id": "e9e745f5bf1d42c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/Gründung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gründung"
+            }
+          },
+          {
+            "id": "00b98ae30be79f68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/gluchlich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gluchlich"
+            }
+          },
+          {
+            "id": "054492a59e71c9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/G/glücklich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "glücklich"
+            }
+          },
+          {
+            "id": "1faed54d49328da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/H/heiter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "heiter"
+            }
+          },
+          {
+            "id": "0f48651e7cbc3c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Wohnzimmer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wohnzimmer"
             }
           }
-        ]
+        ],
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -78,7 +387,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ab1e072fc4dd144",
@@ -169,34 +479,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "78c52abbf2729622",
+  "active": "8c2101f3ef94b7d7",
   "lastOpenFiles": [
-    "Grammatik/Präpositionen/Präpositionen Alle.md",
-    "Grammatik/Präpositionen/4 Wechsel/an Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/zuwider Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/zufolge Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/zu Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/von Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/seit Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/nebst Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/nach Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/mit Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/laut Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/gemäß Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/gegenüber Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/entgegen Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/binnen Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/bei Präposition.md",
-    "Worter/U/uns.md",
-    "Worter/P/Pronomen/Pronomen.md",
-    "Grammatik/Präpositionen/2 Dat/außer Präposition.md",
-    "Grammatik/Präpositionen/2 Dat/aus Präposition.md",
-    "Worter/Z/zimmer.md",
-    "Grammatik/Präpositionen/1 Akk/um Präposition.md",
-    "Grammatik/Präpositionen/1 Akk/wider Präposition.md",
-    "Grammatik/Präpositionen/1 Akk/ohne Präposition.md",
-    "Grammatik/Präpositionen/1 Akk/lang Präposition.md",
-    "Grammatik/Präpositionen/1 Akk/je Präposition.md",
+    "Worter/S/Schuld.md",
+    "Worter/mietschuldenfreiheitsbescheinigung.md",
+    "Worter/S/Seife.md",
+    "Worter/S/Seifen.md",
+    "Worter/brot.md",
+    "Worter/P/Pfifferling.md",
+    "Worter/S/schloss.md",
+    "Worter/S/See.md",
+    "Worter/E/er.md",
+    "Worter/S/schleifen.md",
+    "Worter/S/schaffen.md",
+    "Worter/S/schliefen.md",
+    "Worter/T/trotzdem.md",
+    "Worter/trozdem.md",
+    "Worter/T/trotz.md",
+    "Worter/T/trotzen.md",
+    "Worter/melken.md",
+    "Worter/V/verfall.md",
+    "Worter/verfalle.md",
+    "Worter/schlos.md",
+    "Worter/V/verfallen.md",
+    "Texte/b2 Das sagt man so!/Den Faden verlieren.md",
+    "Texte/b2 Das sagt man so!/Das Haar in der Suppe suchen.md",
+    "Texte/b2 Das sagt man so!/Das Eis brechen.md",
+    "Texte/b2 Das sagt man so!/Da ist der Wurm drin.md",
+    "Texte/b2 Das sagt man so!/Alles unter einen Hut bringen.md",
+    "Worter/Grundform/Verb/a/b",
+    "Worter/Grundform/Verb/a",
+    "Worter/Grundform/Verb",
+    "Worter/Grundform",
+    "Grammatik/Präpositionen/List",
     "Grammatik/Präpositionen/Übungen",
     "Anhänge/Pasted image 20250320073302.png",
     "Anhänge/Pasted image 20250320073257.png",
@@ -204,11 +519,6 @@
     "Grammatik/Präpositionen/3 Gen",
     "Grammatik/Präpositionen/4 Wechsel",
     "Grammatik/Partikel",
-    "Grammatik/Praxisen",
-    "Grammatik/Präpositionen/2 Dat",
-    "Grammatik/Präpositionen/1 Akk",
-    "Grammatik/Präpositionen/1 Akk",
-    "Texte/c1/Wissenschaft",
     "Anhänge/Pasted image 20250224055949.png",
     "Anhänge/Pasted image 20250224055705.png",
     "Anhänge/Pasted image 20250224055357.png",

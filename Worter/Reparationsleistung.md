@@ -26,4 +26,4 @@ G: des [[Reparationsleistungs]], der [[Reparationsleistungen]]
 D: dem [[Reparationsleistung]], den [[Reparationsleistungen]]  
 
 ---
-[[reparieren]], [[leisten]], [[Leistung]], [[Kompensation]], [[Wiedergutmachung]]
+[[reparieren]], [[Leisten]], [[Leistung]], [[Kompensation]], [[Wiedergutmachung]]

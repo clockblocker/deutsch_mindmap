@@ -47,3 +47,7 @@ Einzigartige mögliche Formen: [[Trotzes]], [[Trotz]]
 #Substantiv #Maskulin
 , [[trotzdem]], [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]
 , [[anhand]]
+
+*Praeposition* 🛡 [[Grammatik/Praeposition/List/trotz (Praeposition)|trotz]]
+<span class="custom-color-for-der">der</span> 😤 [[Trotz]]
+*A misspelling of* *Verb* 😤 [[trotzen]]

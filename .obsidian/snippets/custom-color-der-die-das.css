@@ -1,0 +1,50 @@
+.custom-color-for-die {
+    position: relative;
+    display: inline-block;
+    color: inherit;
+    opacity: 0.8;
+}
+  
+.custom-color-for-die::before {
+    content: 'die';
+    position: absolute;
+    inset: 0;
+    color: red;
+    opacity: 0.4;
+    mix-blend-mode: overlay;
+    pointer-events: none;
+}
+
+.custom-color-for-das {
+    position: relative;
+    display: inline-block;
+    color: inherit;
+    opacity: 0.8;
+}
+  
+.custom-color-for-das::before {
+    content: 'das';
+    position: absolute;
+    inset: 0;
+    color: green;
+    opacity: 0.4;
+    mix-blend-mode: overlay;
+    pointer-events: none;
+  }
+
+.custom-color-for-der {
+    position: relative;
+    display: inline-block;
+    color: inherit;
+    opacity: 0.8;
+}
+  
+.custom-color-for-der::before {
+    content: 'der';
+    position: absolute;
+    inset: 0;
+    color: blue;
+    opacity: 0.4;
+    mix-blend-mode: overlay;
+    pointer-events: none;
+}

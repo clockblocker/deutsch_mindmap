@@ -13,3 +13,8 @@ Ja, denkt die Mutter, sie sind längst keine kleinen Kinder mehr. Da [[einfallen
 Die Eltern [[ansehen|sehen]] sich an. „Und wir beide? Wir machen mal w ieder Urlaub zu zweit. So wie [[früher]]!“
 
 https://learngerman.dw.com/de/alles-unter-einen-hut-bringen/l-19399823
+
+
+🎩🧩🤹‍♂️ [[alles unter einen Hut bringen]] *Redewendung*
+👖🤏 [[den Gürtel enger schnallen]] *Redewendung*
+☁️7️⃣🥰 [[auf Wolke sieben schweben]] *Redewendung*

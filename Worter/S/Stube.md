@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Stube]], [[Stube]], [[Stuben]], [[Stuben]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Wohnzimmer]]

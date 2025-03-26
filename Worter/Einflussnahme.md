@@ -14,7 +14,7 @@ die [[Einflussnahmen]]
 influence, persuasion, manipulation
 
 ---
-[[ein]]|[[fluss]]|[[nahm]]|[[e]]
+[[ein]]|[[Fluss]]|[[nahm]]|[[e]]
 
 ---
 N: die [[Einflussnahme]], die [[Einflussnahmen]]  

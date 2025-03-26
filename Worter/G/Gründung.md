@@ -1,6 +1,8 @@
- die [[Gründung]], [ˈɡʁʏndʊŋ]
+die [[Gründung]], [ˈɡʁʏndʊŋ]
 die [[Gründungen]]
 
+
+[[gluchlich]]
 
 ---
 [[Handelsgesellschaft]]

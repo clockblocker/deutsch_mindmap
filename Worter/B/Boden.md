@@ -34,4 +34,4 @@ Alle Formen:
 | Accusative  | den Boden         | die Böden        |
 | Dative      | dem Boden         | den Böden        |
 | Genitive    | des Bodens        | der Böden        |, [[Vereinbarung]], [[s1 e1]]
-, [[Grund]]
+, [[Grund]], [[Decke]]

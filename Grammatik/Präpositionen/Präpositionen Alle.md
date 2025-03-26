@@ -1,4 +1,4 @@
-#### Akkusative Präpositionen|Akkusative  
+#### Akkusative  
 [[durch Präposition|durch]]  
 [[für Präposition|für]]  
 [[ohne Präposition|ohne]]  
@@ -11,7 +11,7 @@
 [[je Präposition|je]]  
 
 ---
-#### Dativ Präpositionen|Dativ  
+#### Dativ  
 [[aus Präposition|aus]]  
 [[außer Präposition|außer]]  
 [[bei Präposition|bei]]  
@@ -35,7 +35,7 @@
 
 
 ---
-#### Genitiv Präpositionen|Genitiv  
+#### Genitiv  
 [[anstatt Präposition|anstatt]]  
 [[statt Präposition|statt]]  
 [[trotz Präposition|trotz]] (G/D)  
@@ -53,7 +53,7 @@
 [[um … willen Präposition|um … willen]]
 [[zugunsten Präposition|zugunsten]]
 
-[[oberhalb Präposition|oberhalb]]  
+[[Grammatik/Präpositionen/List/oberhalb Präposition|oberhalb]]  
 [[unterhalb Präposition|unterhalb]]  
 [[diesseits Präposition|diesseits]]  
 [[jenseits Präposition|jenseits]]  
@@ -63,7 +63,7 @@
 [[kraft Präposition|kraft]]  
 
 ----
-#### Wechselpräpositionen (Akkusativ/Dativ)  
+#### Wechselpräpositionen
 [[an Präposition|an]]  
 [[auf Präposition|auf]]  
 [[hinter Präposition|hinter]]  

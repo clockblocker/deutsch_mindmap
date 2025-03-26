@@ -1,1 +1,1 @@
-, [[Rechercheergbenis]], [[Erkenntnis]]
+, [[Rechercheergebenis]], [[Erkenntnis]], [[Rechercheergebnis]]

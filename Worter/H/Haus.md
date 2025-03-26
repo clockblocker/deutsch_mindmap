@@ -30,4 +30,4 @@ D: dem [[Haus]], den [[Häusern]]
 , [[Schrebergarten]], [[Zeltsam]], [[Traufe]]
 
 
-#Neuter 
+#Neuter , [[Präpositionen Übung 1 mit Dativ (WO?)]]

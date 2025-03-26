@@ -1,1 +1,1 @@
-, [[Branche]], [[Rechercheergbenis]], [[Schwäche]]
+, [[Branche]], [[Rechercheergebenis]], [[Schwäche]]

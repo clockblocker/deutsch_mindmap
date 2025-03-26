@@ -23,4 +23,4 @@ Accusative: den [[Koffer]], die [[Koffer]]
 Genitive: des [[Koffers]], der [[Koffer]]  
 Dative: dem [[Koffer]], den [[Koffern]] 
 
-[[koffern]], [[Kofferraum]], [[Kofferkind]], [[Kofferwort]]
+[[koffern]], [[Kofferraum]], [[Kofferkind]], [[Kofferwort]], [[Schultasche]]

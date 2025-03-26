@@ -1,6 +1,6 @@
 [[Träume]] und [[Wünsche]] hat jeder. Wenn Menschen zum Beispiel nicht den Traum gehabt hätten, wie die Vögel zu fliegen, wäre das [[Flugzeug]] nie [[erfunden]] worden. Aber manche Träume sollte man nicht um jeden Preis [[verfolgen]].
 
-Lauras Traum war es schon immer, ein Haus mit Garten zu haben. 20 Jahre lang [[legte an|legte]] sie ihr Geld in Aktien an, um sich ein Haus [[leisten]] zu können. 
+Lauras Traum war es schon immer, ein Haus mit Garten zu haben. 20 Jahre lang [[legte an|legte]] sie ihr Geld in Aktien an, um sich ein Haus [[Leisten]] zu können. 
 
 Über die Jahre kam eine schöne Summe zusammen, und Laura studierte [[bereits]] die Immobilienangebote in der Zeitung und im Internet. 
 

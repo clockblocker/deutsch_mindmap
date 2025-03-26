@@ -1,6 +1,4 @@
-🏃‍♂️ [[rennen]] + Akk, [ˈʁɛnən]
-[[rannte|rannte]]
-haben [[gerannt]]
+🏃 [[rennen]], [ˈʁɛnən](https://youglish.com/pronounce/rennen/german) | [[rannte]], sind [[gerannt]]
 
 ---
 *Da kam der Ludwig her[[gerannt]]*  
@@ -12,59 +10,44 @@ EIN PINGUIN! ([[Rennt]] hinter dem Pinguin her)
 [[zurennen]] - [[zu]] = [[rennen]]
 
 ---
-Synonyme: [[laufen]], [[eilen]], [[spurten]], [[joggen]], [[flitzen]]
-Antonyme: [[gehen]], [[schleichen]], [[kriechen]]
+= [[laufen]], [[eilen]], [[flitzen]]
+≈ [[sprinten]], [[rasen]], [[galoppieren]], [[huschen]]
+≠ [[gehen]], [[schleichen]], [[bummeln]], [[trödeln]]
 
 ---
-Übersetzung: to run
+to run
+бежать
 
 ---
-Morpheme: [[renn]][[en]]
- #Verb  #Trennbar
- 
+[[Rennen]], [[Rennbahn]], [[Rennfahrer]], [[rennmäßig]], [[Rennpferd]]
+
 ---
+[[renn]]|[[en]]
+[[rennen]]
 
 
-| Person    | Präsens    | Präteritum   | Imperativ      | Konjunktiv I | Konjunktiv II |
-| --------- | ---------- | ------------ | -------------- | ------------ | ------------- |
-| Ich       | [[renne]]  | [[rannte]]   | -              | [[renne]]    | [[renne]]     |
-| Du        | [[rennst]] | [[ranntest]] | [[renne]]      | [[rennest]]  | [[rännest]]   |
-| Er/sie/es | [[rennt]]  | [[rannte]]   | -              | [[renne]]    | [[renne]]     |
-| Wir       | [[rennen]] | [[rannten]]  | -              | [[rennen]]   | [[rännten]]   |
-| Ihr       | [[rennt]]  | [[rannt]]    | [[rennt]]      | [[rennet]]   | [[rännet]]    |
-| Sie       | [[rennen]] | [[rannten]]  | [[rennen Sie]] | [[rennen]]   | [[rännten]]   |
+---
+###### [[rennen]]
+- Wohin [[rennst]] du?
+- Zum Bahnhof.
 
-Partizip I: [[rennend]], Partizip II: [[gerannt]]
+- Mit wem [[rennen]] wir?
+- Mit unseren Freunden.
 
-[[kriechen]], [[liegen]], [[laufen]]
-, [[hinterherlaufen]], [[zurennen]], [[zulaufen]], [[zustürmen]], [[s1 e1]]
+- Wie lange [[bist]] du schon [[gerannt]]?
+- Seit einer Stunde.
 
-  
-| Person    | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------- | ---------- | --------- | ------------ | ------------- |
-| Ich       |         |            |           |              |               |
-| Du        |         |            |           |              |               |
-| Er/sie/es |         |            |           |              |               |
-| Wir       |         |            |           |              |               |
-| Ihr       |         |            |           |              |               |
-| Sie       |         |            |           |              |               |
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[renn]] / [[renne]], [[rannte]], [[renne]], [[rennte]], -
+du, [[rennst]], [[ranntest]], [[rennst]], [[ranntest]], [[renn]] / [[renne]]
+er, [[rennt]], [[rannte]], [[renne]], [[rennte]], -
+wir, [[rennen]], [[rannten]], [[rennen]], [[rennten]], [[rennen]]
+ihr, [[rennt]], [[ranntet]], [[rennt]], [[ranntet]], [[rennt]]
+sie, [[rennen]], [[rannten]], [[rennen]], [[rennten]], [[rennen]]
 
-| Person    | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------- | ---------- | --------- | ------------ | ------------- |
-| Ich       | renne   | rannte     | -         | renne        | rennte        |
-| Du        | rennst  | ranntest   | renn(e)   | rennest      | renntest      |
-| Er/sie/es | rennt   | rannte     | -         | renne        | rennte        |
-| Wir       | rennen  | rannten    | rennen    | rennen       | rennten       |
-| Ihr       | rennt   | ranntet    | rennt     | rennet       | renntet       |
-| Sie       | rennen  | rannten    | rennen    | rennen       | rennten       |
+*Zu + Inf*: zu [[rennen]], *P2*: [[gerannt]]
+Adjektive: [[rennend]], [[rennender]], [[rennendst]]
 
-
-| Person    | Präsens    | Präteritum   | Imperativ  | Konjunktiv I | Konjunktiv II |
-| --------- | ---------- | ------------ | ---------- | ------------ | ------------- |
-| Ich       | [[renne]]  | [[rannte]]   | -          | [[renne]]    | [[rennte]]    |
-| Du        | [[rennst]] | [[ranntest]] | [[renn]]   | [[rennest]]  | [[renntest]]  |
-| Er/sie/es | [[rennt]]  | [[rannte]]   | -          | [[renne]]    | [[rennte]]    |
-| Wir       | [[rennen]] | [[rannten]]  | [[rennen]] | [[rennen]]   | [[rennten]]   |
-| Ihr       | [[rennt]]  | [[ranntet]]  | [[rennt]]  | [[rennet]]   | [[renntet]]   |
-| Sie       | [[rennen]] | [[rannten]]  | [[rennen]] | [[rennen]]   | [[rennten]]   |
-, [[herumkriechen]]
+---
+[[rennender]], [[rennendes]], [[rennende]], [[rennenden]], [[rennendem]], [[rennenderer]], [[rennenderes]], [[rennendere]], [[rennenderen]], [[rennenderem]], [[rennendster]], [[rennendstes]], [[rennendste]], [[rennendsten]], [[rennendstem]]

@@ -35,7 +35,7 @@ Einzigartige mögliche Formen: [[Ergebnisses]], [[Ergebnis]], [[Ergebnisse]], [[
 ---
 #Substantiv #Neutrum
 
-, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergbenis]], [[Zwischenergebnis]], [[Worter/ergeben]], [[Anki]], [[Anlass]], [[1 Präpositionen Übungen]], [[Voraussetzung]], [[ergeben]], [[Ergebnisorientierung]]
+, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergebenis]], [[Zwischenergebnis]], [[Worter/ergeben]], [[Anki]], [[Anlass]], [[1 Präpositionen Übungen]], [[Voraussetzung]], [[ergeben]], [[Ergebnisorientierung]]
 
 , [[Bilanz]], [[Auswirkung]]
 
@@ -43,4 +43,4 @@ tatzechlish
 [[tatsächlich]]
 
 ###### Erklärung:
-1) t==a==ts==ä==chlich: Korrektur der Schreibweise
+1) t==a==ts==ä==chlich: Korrektur der Schreibweise, [[Rechercheergebnis]]

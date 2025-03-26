@@ -1,1 +1,1 @@
-, [[Schulklasse]]
+, [[Schulklasse]], [[Turnhalle]]

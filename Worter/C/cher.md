@@ -1,1 +1,1 @@
-, [[Rechercheergbenis]], [[Kocher]]
+, [[Rechercheergebenis]], [[Kocher]]

@@ -5,7 +5,7 @@
 ---
 = [[Städtebau]], [[Stadtplanung]]
 ≈ [[Urbanisierung]], [[Infrastruktur]], [[Sanierung]]
-≠ [[Verfall]], [[Stagnation]], [[Landflucht]]
+≠ [[verfall]], [[Stagnation]], [[Landflucht]]
 
 ---
 urban development

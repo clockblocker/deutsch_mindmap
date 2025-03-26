@@ -18,9 +18,9 @@
       "match": "exact",
       "uid": "77a4-9658",
       "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": false
     },
     {
       "type": "tag",

@@ -42,4 +42,4 @@ Partizip II: [[gegangen]]
 Zu+infinifive: [[zu gehen]]
 
 ---
-[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]], [[weitergehen]], [[stolpern]], [[vorgehen]], [[begehen]], [[unter]], [[umgehen]], [[s1 e1]], [[ergehen]], [[stattfinden]], [[hingehen]], [[begeben]], [[verabschieden]]
+[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]], [[weitergehen]], [[stolpern]], [[vorgehen]], [[begehen]], [[unter]], [[umgehen]], [[s1 e1]], [[ergehen]], [[stattfinden]], [[hingehen]], [[begeben]], [[verabschieden]], [[rennen]]

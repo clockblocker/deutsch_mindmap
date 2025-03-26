@@ -1,5 +1,3 @@
-[[Junktoren]]
-
 #### Coordinating Konjunktoren
 these conjunctions connect equal parts of a sentence (main clauses, phrases, or words) without changing word order.
 

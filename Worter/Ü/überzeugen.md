@@ -1,7 +1,7 @@
 🌟 [[überzeugen]] von + Dat, [ˌyːbɐˈtsɔʏ̯gn̩] | [[überzeugte]], haben [[überzeugt]]
 
 ---
-Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
+Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[Leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
 > *[[Atom#^29|^]]* *Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.* ^29
 

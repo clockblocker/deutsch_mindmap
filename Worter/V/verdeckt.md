@@ -1,2 +1,2 @@
 , [[heimlich]], [[verdecken]]
-, [[erkennbar]], [[bemerkbar]]
+, [[erkennbar]], [[bemerkbar]], [[Decke]]

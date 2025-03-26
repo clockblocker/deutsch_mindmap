@@ -1,2 +1,2 @@
 , [[Schulabschluss]], [[Schulamt]], [[Schulwesen]], [[Schulgebäude]]
-, [[Schularbeit]]
+, [[Schularbeit]], [[Schultasche]]

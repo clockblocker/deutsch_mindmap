@@ -1,1 +1,1 @@
-, [[Rechercheergbenis]], [[Auswirkung]]
+, [[Rechercheergebenis]], [[Auswirkung]], [[Rechercheergebnis]]

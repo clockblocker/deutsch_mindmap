@@ -1,2 +1,2 @@
 Inf: [[wohnen]]
-, [[Bewohner]], [[bewohnen]], [[Einwohner]], [[Wohnort]]
+, [[Bewohner]], [[bewohnen]], [[Einwohner]], [[Wohnort]], [[Wohnzimmer]]

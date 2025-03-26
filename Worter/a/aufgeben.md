@@ -10,7 +10,7 @@
 ---
 = [[resignieren]], [[kapitulieren]], [[verzichten]], [[verzweifeln]], [[beschließen]],
 ≈ [[aufhören]], [[abrechen]], [[loslassen]], [[zurückholen]], 
-≠ [[beginnen]], [[fortsetzen]], [[anfangen]], [[leisten]], [[schaffen]], [[bewerben]], [[aufbringen]],  [[stützen]],  [[besetzen]],  [[vorhaben]], [[fordern]], [[vorsitzen]], [[begehen]],  [[beibehalten]],  [[wagen]], [[durchmachen]], [[einrichten]]
+≠ [[beginnen]], [[fortsetzen]], [[anfangen]], [[Leisten]], [[schaffen]], [[bewerben]], [[aufbringen]],  [[stützen]],  [[besetzen]],  [[vorhaben]], [[fordern]], [[vorsitzen]], [[begehen]],  [[beibehalten]],  [[wagen]], [[durchmachen]], [[einrichten]]
 
 ---
 to give up, to surrender, to quit

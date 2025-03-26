@@ -22,7 +22,7 @@ influence, impact
 [[beeinflussen]], [[einflussreich]], [[einflusslos]]
 
 ---
-[[Ein]]|[[fluss]]
+[[Ein]]|[[Fluss]]
 [[Einfluss]]
 
 

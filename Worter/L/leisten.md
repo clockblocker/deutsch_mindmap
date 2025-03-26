@@ -1,4 +1,4 @@
-💪  [[leisten]], [ˈlaɪ̯stən] | [[leistete]], haben [[geleistet]]
+🏆🎯 | 💸 [[leisten]], [ˈlaɪ̯stən] | [[leistete]], haben [[geleistet]]
 
 ---
 Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?

@@ -1,1 +1,1 @@
-, [[Scheibe]], [[Teller]], [[Block]]
+, [[Scheibe]], [[Teller]], [[Block]], [[Decke]]

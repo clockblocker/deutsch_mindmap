@@ -11,3 +11,8 @@ Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] fr
 „Das kann ja sein“, sagt Uli, „aber bei mir [[scheint]] [[einfach]] der Wurm drin zu sein. [[Irgendwas]] ist hier [[fehlerhaft]].“ Der Fachverkäufer erklärt sich [[schließlich]] [[bereit]], den Rechner [[umzutauschen]]. Der neue Computer [[läuft]] problemlos. Kein Wurm [[weit und breit]]. Uli ist [[erleichtert]].
 
 https://learngerman.dw.com/de/da-ist-der-wurm-drin/l-19068047/lm
+
+🐛🚫 [[da ist der Wurm drin]] *Redewendung*
+🎩🧩🤹‍♂️ [[alles unter einen Hut bringen]] *Redewendung*
+👖🤏 [[den Gürtel enger schnallen]] *Redewendung*
+☁️7️⃣🥰 [[auf Wolke sieben schweben]] *Redewendung*

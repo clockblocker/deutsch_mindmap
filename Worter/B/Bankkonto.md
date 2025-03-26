@@ -1,1 +1,1 @@
-, [[Konto]]
+, [[Konto]], [[Bank]]

@@ -11,3 +11,10 @@ Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas [[Bericht]] nic
 Elenas Freundin Susanne versucht, sie zu [[trösten]]: „Ärgere dich nicht! Deine Chefin sucht doch immer ein Haar in der Suppe. Sie ist eben besonders kritisch, aber das hat nichts mit dir zu tun. Ich bin mir sicher: Sie weiß genau, wie gut du arbeitest!“
 
  https://learngerman.dw.com/de/das-haar-in-der-suppe-suchen/l-18745493/lm
+ 
+🔎😠 [[das Haar in der Suppe suchen]] *Redewendung*
+🧊🤝 [[das Eis brechen]] *Redewendung*
+🐛🚫 [[da ist der Wurm drin]] *Redewendung*
+🎩🧩🤹‍♂️ [[alles unter einen Hut bringen]] *Redewendung*
+👖🤏 [[den Gürtel enger schnallen]] *Redewendung*
+☁️7️⃣🥰 [[auf Wolke sieben schweben]] *Redewendung*

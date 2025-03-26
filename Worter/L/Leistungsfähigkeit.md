@@ -1,1 +1,1 @@
-, [[leisten]], [[Behinderung]]
+, [[Leisten]], [[Behinderung]]

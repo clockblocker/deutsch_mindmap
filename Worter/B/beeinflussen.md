@@ -15,7 +15,7 @@
 to influence, to affect, to impact
 
 ---
-[[be]]|[[ein]]|[[fluss]]|[[en]]
+[[be]]|[[ein]]|[[Fluss]]|[[en]]
 
 ---
 ich: [[beeinflusse]], [[beeinflusste]], –, [[beeinflusse]], [[beeinflusste]]

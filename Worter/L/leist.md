@@ -1,1 +1,1 @@
-, [[leisten]], [[Reparationsleistung]], [[gewährleisten]]
+, [[Leisten]], [[Reparationsleistung]], [[gewährleisten]]

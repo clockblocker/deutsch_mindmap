@@ -1,1 +1,1 @@
-, [[Ranzen]], [[Tasche]]
+, [[Ranzen]], [[Tasche]], [[Schultasche]]

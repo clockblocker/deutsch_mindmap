@@ -4,7 +4,7 @@ Sabrina ist genervt und ein wenig [[neidisch]]: Ihre Freundin Tina fährt [[mind
 
 Klar, Tina verdient ja auch viel Geld als Managerin. Sabrina findet: Tina lebt wie Gott in Frankreich! Das bedeutet natürlich nicht, dass sie eine Göttin ist oder dass sie in Frankreich lebt.
 
-Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[leisten]] und [[genießt]] das Leben. So [[vorstellen|stellen]] sich manche Leute das Leben in Frankreich vor. 
+Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[Leisten]] und [[genießt]] das Leben. So [[vorstellen|stellen]] sich manche Leute das Leben in Frankreich vor. 
 
 Sonne, Liebe in der Luft, Rotwein, guter Käse und schöne Landschaften, den ganzen Tag „oh, là là“ rufen und es sich [[gutgehen]] lassen. Ob das realistisch ist? Fragt doch mal einen Franzosen …
 

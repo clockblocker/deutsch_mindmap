@@ -17,3 +17,7 @@ Julian spricht gerade über den [[vorläufigen]] [[Zeitplan]] und alle sind konz
   Die Kollegen lächeln. Sie kennen [[solche]] Situationen. Und Julian [[beschließt]]: Nach der [[Besprechung]] wird er eine längere Pause machen und ein bisschen mit Maja spielen.
 
 https://learngerman.dw.com/de/den-faden-verlieren/l-19536507/lm
+
+
+🧵😵‍💫 [[den Faden verlieren]] <span class="custom-wortart">Redewendung</span>
+[[see]]

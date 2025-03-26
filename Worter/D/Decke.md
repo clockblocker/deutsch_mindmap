@@ -1,4 +1,4 @@
-🔴 die [[Decke]]
+🛌 🔴 die [[Decke]], [ˈdɛkə](https://youglish.com/pronounce/Decke/german)
 die [[Decken]]
 
 ---
@@ -6,26 +6,24 @@ Unter einer [[Decke]] ist es warm und gemütlich. Was darunter passiert, kann ma
 
 Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]
 
+---
+= [[Platte]], [[Überzug]]
+≈ [[Himmel]], [[Dach]], [[Bettdecke]], [[Zimmerdecke]]
+≠ [[Boden]], [[Grund]]
 
 ---
-Synonyme:
-- [[Überwurf]], [[Bezug]], [[Bedeckung]], [[Plane]], [[Verhüllung]]
+ceiling, blanket
+потолок, одеяло
 
 ---
-cover, blanket, ceiling
+[[decken]], [[Bettdecke]], [[Zimmerdecke]], [[Deckenleuchte]]
 
 ---
-[[Deck]][[e]]
+[[Decke]]
+
 
 ---
-Case: Singular, Plural  
-Nominative: die [[Decke]], die [[Decken]]  
-Accusative: die [[Decke]], die [[Decken]]  
-Genitive: der [[Decke]], der [[Decken]]  
-Dative: der [[Decke]], den [[Decken]]  
-
----
-[[decken]], [[Deckung]], [[bedecken]], [[zudecken]], [[überdecken]]
-
-, [[Haut]], [[Fell]]
-, [[Geheim]]
+N: die [[Decke]], die [[Decken]]  
+A: die [[Decke]], die [[Decken]]  
+G: der [[Decke]], der [[Decken]]  
+D: der [[Decke]], den [[Decken]]

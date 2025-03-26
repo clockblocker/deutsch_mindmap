@@ -1,1 +1,1 @@
-, [[Tüte]], [[Tasche]]
+, [[Tüte]], [[Tasche]], [[Schultasche]]

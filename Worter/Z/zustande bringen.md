@@ -1,1 +1,1 @@
-, [[leisten]], [[schaffen]], [[aufbringen]]
+, [[Leisten]], [[schaffen]], [[aufbringen]]

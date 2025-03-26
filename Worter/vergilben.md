@@ -27,4 +27,4 @@ PI: [[vergilbend]], PII: [[vergilbt]], Zu+inf: [[zuvergilben]]
 [[vergilben]] - [[ver]] = [[gelben]] / to yellow, to discolor with age
 
 ---
-[[Vergilbung]], [[Gelb]], [[gelb]], [[gelblich]], [[Verfall]]
+[[Vergilbung]], [[Gelb]], [[gelb]], [[gelblich]], [[verfall]]

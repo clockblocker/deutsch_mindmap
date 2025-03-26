@@ -20,6 +20,10 @@ Der schöne Mann bedankt sich für die Hilfe. „Ich lerne gerade Deutsch, weil 
 
 Der schöne Mann [[losmöchten|möchte]] [[gerade]] los, aber er dreht sich noch ein letztes Mal um: „Vielleicht sehen wir uns wieder?“ „Gerne“, sagt Diana und schreibt ihm ihre Telefonnummer auf. Heute hat er angerufen. [[Seitdem]] [[schwebt]] Diana auf [[Wolke]] sieben. 
 
+schwebt Diana auf Wolke sieben
+
 Das Leben ist halt manchmal einfach perfekt.
 
 https://learngerman.dw.com/de/auf-wolke-sieben-schweben/l-18745542/lm
+
+☁️7️⃣🥰 [[auf Wolke sieben schweben]] *Redewendung*

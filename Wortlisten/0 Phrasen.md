@@ -24,18 +24,18 @@ kulturelle, politische und wirtschaftliche [[Zusammenhänge]]
 
 m [[vielfältigen]] Angebot ist alles, was Spaß verspricht. 
 
-_[[In Anbetracht dessen]], dass er bald 70 wird, will er jetzt etwas kürzer treten._
+[[In Anbetracht dessen]], dass er bald 70 wird, will er jetzt etwas kürzer treten._
 
-_Hilfe, war haben zuwenig Geld, schreien die Spitäler. Kanzler Klima hat [[angesichts dessen]] zum Ideenwettbewerb zur Stopfung der Finanzierungslöcher aufgerufen._
+Hilfe, war haben zuwenig Geld, schreien die Spitäler. Kanzler Klima hat [[angesichts dessen]] zum Ideenwettbewerb zur Stopfung der Finanzierungslöcher aufgerufen.
 
-_Mahlers Bekanntschaften und Freundesbeziehungen waren durchaus peripher in dem Sinne, dass zahlreiche dieser Personen heute kaum noch bekannt sind, [[dessen ungeachtet ]]sie zu ihrer Zeit jedoch von weitreichender Relevanz waren_
+Mahlers Bekanntschaften und Freundesbeziehungen waren durchaus peripher in dem Sinne, dass zahlreiche dieser Personen heute kaum noch bekannt sind, [[dessen ungeachtet ]]sie zu ihrer Zeit jedoch von weitreichender Relevanz waren
 
-_Im Eisenbahnerkonflikt blieben beide Parteien kompromisslos, ohne dass sich eine Lösung abzeichnete. [[Stattdessen]] häuften sich die politischen Erklärungen._
+Im Eisenbahnerkonflikt blieben beide Parteien kompromisslos, ohne dass sich eine Lösung abzeichnete. [[Stattdessen]] häuften sich die politischen Erklärungen.
 
-_Dixieland bei der SPD. [[Trotzdem]]: die rechte Stimmung will nicht aufkommen._ (das blatt, Wochenzeitung, 20.3.1990, S. 3)
+Dixieland bei der SPD. [[Trotzdem]]: die rechte Stimmung will nicht aufkommen. (das blatt, Wochenzeitung, 20.3.1990, S. 3)
 
-_Reden Sie mit uns. **Sicherheitshalber**._
-_Talk to us. **Just to be sure**._
+Reden Sie mit uns. **Sicherheitshalber**.
+Talk to us. **Just to be sure**.
 
 
 
@@ -81,4 +81,13 @@ Glücklicherweise bot uns die Deutsche Bank gleichzeitig die Möglichkeit, in di
 Je öfter er sie sieht, desto mehr gefällt sie ihm
 
 es ist ist wissenschaftlich erwiesen, dass
+
+
+1) лего по темам
+2) лего по кускам рыбы
+
+---
+
+
+---
 

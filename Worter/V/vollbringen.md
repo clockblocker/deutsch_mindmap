@@ -1,2 +1,2 @@
-, [[leisten]], [[erfüllen]], [[ausführen]]
+, [[Leisten]], [[erfüllen]], [[ausführen]]
 , [[fertigstellen]]

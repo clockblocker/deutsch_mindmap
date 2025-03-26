@@ -1,17 +1,36 @@
 https://readlang.com/shelf/571aec12f654850e459a4f11
 
+1 мп
+2 бП
+
+---
+3 ма
+4 ба
+
+время 
+воля 
+силы 
+
+---
+глокая кудра быдлануа 
+
+---
+1) понюхать | смотрим без сабов и пытаемся понять
+2) есть | 
+3) переварить | 
+
+---
+
 Episode One: Sams [[Ankunft]]
 
-[[Extra 1#^2|(q)]] Das ist die [[Geschichte]] von Sascha und Anna. ^2
+[[Extra 1#^2|(q)]] Das ist die [[Geschichte]] von *Sascha* und Anna. ^2
 
- Sie [[wohnen]] [[zusammen]] in Berlin.  
+Sie [[wohnen]] [[zusammen]] in Berlin.  
 [[Extra 1.md#^1|(q)]] Sie haben einen [[Nachbarn]]: Nic.   ^1
 
 Nic ist in Sascha [[verliebt]].  
 Und Anna ist in Nic [[verliebt]].  
 Aber [[dann]] [[bekommt]] Sascha [[Post]] aus Amerika ...
-
-[[Keymaker]]
 
 Jo, ich hab dir [[doch]] [[gesagt]]: –[[ Es ist vorbei]]!!!  
 (Und [[nenn]] mich bitte nicht CHA CHA). dsfbjkdfsg [[Brieffreundes]]

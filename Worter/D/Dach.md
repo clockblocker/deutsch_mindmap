@@ -32,4 +32,4 @@ Alle Formen:
 | Nominative  | das Dach          | die Dächer     |
 | Accusative  | das Dach          | die Dächer     |
 | Dative      | dem Dach          | den Dächern    |
-| Genitive    | des Daches        | der Dächer     |, [[annehmen]], [[Tür]], [[Traufe]]
+| Genitive    | des Daches        | der Dächer     |, [[annehmen]], [[Tür]], [[Traufe]], [[Decke]]

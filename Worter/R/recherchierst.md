@@ -1,1 +1,1 @@
-, [[recherchieren]]
+, [[recherchieren]], [[Rechercheergebnis]]

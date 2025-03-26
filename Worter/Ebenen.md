@@ -1,1 +1,1 @@
-🔴 die [[Ebene]]
+🔴 die [[Ebene]], [[Decke]]

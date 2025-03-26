@@ -53,13 +53,16 @@ Ich mag sehr, was ich in den letzten sechs Monaten mache, und ich denke, ich kan
 
 <user_input>Von die Schule an interessierte ich mich fur Mathematik, Informatik und Linguistik. Das waren die Hauptberieche meines Interesse, помимо von Литературы und Computerspielen.</user_input>
 
-<agent_output>###### Correction
-Von ==der== Schule an interessierte ich mich f==ü==r Mathematik, Informatik und Linguistik.  
-Das waren die Hauptber==ei==che meines Interess==es==, `neben` ~~von~~ `Literatur` und Computerspielen.
 
 ###### Suggested Alternative
 Schon in der Schulzeit interessierte ich mich für Mathematik, Informatik und Linguistik.  
-Diese Fächer waren die Hauptbereiche meines Interesses, neben Literatur und Computerspielen.</agent_output>
+Diese Fächer waren die Hauptbereiche meines Interesses, neben Literatur und Computerspielen.
+
+
+1) de -> enhanced de 
+2) artikels -> lego -> de
+
+
 
 Меня зовут Денис Попов.
 

@@ -1,4 +1,4 @@
-🏆 die [[Leistung]], [ˈlaɪ̯stʊŋ] | [[leisten]]
+🏆 die [[Leistung]], [ˈlaɪ̯stʊŋ] | [[Leisten]]
 die [[Leistungen]] 
 
 ---
@@ -27,5 +27,5 @@ G: der [[Leistung]], der [[Leistungen]]
 D: der [[Leistung]], den [[Leistungen]]  
 
 ---
-[[leisten]], [[leistungsfähig]], [[leistungsstark]], [[Leistungssport]], [[leistungsorientiert]], [[Reparationsleistung]], [[Kraft]]
+[[Leisten]], [[leistungsfähig]], [[leistungsstark]], [[Leistungssport]], [[leistungsorientiert]], [[Reparationsleistung]], [[Kraft]]
 , [[Anstrengung]], [[Großtat]], [[Aufgabenerfüllung]]

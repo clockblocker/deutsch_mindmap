@@ -1,6 +1,4 @@
-🗣️ [[unterhalten]] + Akk, [ˌʊntɐˈhaltən]
-[[unterhielt]]
-haben [[unterhalten]]
+🗣️ [[unterhalten]], [ˌʊntɐˈhaltn̩](https://youglish.com/pronounce/unterhalten/german) | [[unterhielt]], haben [[unterhalten]]
 
 ---
 _Das sind die Leute, mit denen wir uns [[unterhalten]] müssen._ _Это люди, с которыми мы должны общаться._
@@ -16,27 +14,60 @@ Als die beiden mit den Getränkekisten zurückkommen, [[unterhalten]] [[sie]] [[
 Ich [[unterhalte]] mich mit dem Verkaufer
 
 ---
-Synonyme: [[plaudern]], [[Worter/S/sprechen]], [[kommunizieren]], [[diskutieren]], [[schwatzen]]
-Antonyme: [[schweigen]], [[ignorieren]], [[abbrechen]]
+= [[amüsieren]], [[vergnügen]], [[belustigen]]
+≈ [[bespaßen]], [[erheitern]], [[unterstützen]], [[finanzieren]]
+≠ [[langweilen]], [[betrüben]], [[vernachlässigen]]
 
 ---
-Übersetzung: to entertain, to converse, to chat
+to entertain, to support
+развлекать, поддерживать
 
 ---
-Morpheme: [[unter]][[halt]][[en]]
- #Verb  #Untrennbar
+[[Unterhaltung]], [[Unterhalter]], [[Unterhalterin]], [[unterhaltsam]], [[Unterhaltsamkeit]]
 
 ---
+[[unter]]|[[halt]]|[[en]]
+[[unter]] + [[halten]]
 
-| Person    | Präsens         | Präteritum        | Imperativ           | Konjunktiv I     | Konjunktiv II     |
-| --------- | --------------- | ----------------- | ------------------- | ---------------- | ----------------- |
-| Ich       | [[unterhalte]]  | [[unterhielt]]    | -                   | [[unterhalte]]   | [[unterhielte]]   |
-| Du        | [[unterhältst]] | [[unterhieltest]] | [[unterhalte]]      | [[unterhaltest]] | [[unterhieltest]] |
-| Er/sie/es | [[unterhält]]   | [[unterhielt]]    | -                   | [[unterhalte]]   | [[unterhielte]]   |
-| Wir       | [[unterhalten]] | [[unterhielten]]  | -                   | [[unterhalten]]  | [[unterhielten]]  |
-| Ihr       | [[unterhaltet]] | [[unterhieltet]]  | [[unterhaltet]]     | [[unterhaltet]]  | [[unterhieltet]]  |
-| Sie       | [[unterhalten]] | [[unterhielten]]  | [[unterhalten Sie]] | [[unterhalten]]  | [[unterhielten]]  |
 
-Partizip I: [[unterhaltend]], Partizip II: [[unterhalten]]
-[[unterhalten]] - [[unter]] = [[halten]], [[beschäftigen]], [[langweilen]], [[Unterhaltung]]
-, [[amüsieren]], [[vergnügen]]
+---
+###### [[unterhalten]] jN
+- Wen [[unterhält]] der Clown?
+- Die Kinder.
+
+- Was [[unterhalten]] wir?
+- Die Gäste.
+
+- Wie lange [[hat]] er die Menge [[unterhalten]]?
+- Den ganzen Abend.
+
+---
+###### [[unterhalten]] *[[sich]]*
+- Worüber [[unterhältst]] du *[[dich]]*?
+- Über das Wetter.
+
+- Mit wem [[unterhalten]] wir *[[uns]]*?
+- Mit unseren Freunden.
+
+- Wie lange [[habt]] ihr *[[euch]]* [[unterhalten]]?
+- Bis spät in die Nacht.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[unterhalt]] / [[unterhalte]], [[unterhielt]], [[unterhalte]], [[unterhielte]], -
+du, [[unterhältst]], [[unterhieltest]], [[unterhaltest]], [[unterhieltest]], [[unterhalt]] / [[unterhalte]]
+er, [[unterhält]], [[unterhielt]], [[unterhalte]], [[unterhielte]], -
+wir, [[unterhalten]], [[unterhielten]], [[unterhalten]], [[unterhielten]], [[unterhalten]]
+ihr, [[unterhaltet]], [[unterhieltet]], [[unterhaltet]], [[unterhieltet]], [[unterhaltet]]
+sie, [[unterhalten]], [[unterhielten]], [[unterhalten]], [[unterhielten]], [[unterhalten]]
+
+*Zu + Inf*: zu [[unterhalten]], *P2*: [[unterhalten]]
+Adjektive: [[unterhaltend]], [[unterhaltender]], [[unterhaltendst]]
+
+---
+[[unterhaltender]], [[unterhaltendes]], [[unterhaltende]], [[unterhaltenden]], [[unterhaltendem]], [[unterhaltenderer]], [[unterhaltenderes]], [[unterhaltendere]], [[unterhaltenderen]], [[unterhaltenderem]], [[unterhaltendster]], [[unterhaltendstes]], [[unterhaltendste]], [[unterhaltendsten]], [[unterhaltendstem]]
+
+
+[[geselschaft]]
+
+[[buroangestelle]]

@@ -2,7 +2,6 @@ _Unter dem Mondlicht schimmert ein winziges [[Silberfragment]], eine zarte Linie
 … schwarze Umhänge fallen …
 … Blut fließt in Strömen und jemand schreit ein Wort.
 
-
 Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]. Einige von ihnen sind bis an den [[Rand]] [[gefüllt]] mit dicken [[Wälzern]] über Naturwissenschaften, Mathematik, Geschichte und all das. 
 
 Andere [[beherbergen]] Science-Fiction-Taschenbücher in [[Zweierreihen]], die hintere auf alten [[Pappkartons]] oder [[Holzplatten]] [[höhergestellt]], so dass man die Titel über die Bücher der [[vorderen]] [[Reihe]] hinweg lesen kann. 
@@ -11,7 +10,7 @@ Andere [[beherbergen]] Science-Fiction-Taschenbücher in [[Zweierreihen]], die h
 
 Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern.
 
-Dies ist das Wohnzimmer des Hauses, in dem der angesehene Professor Michael Verres-Evans, seine Frau Mrs Petunia Evans-Verres und ihr Adoptivsohn Harry James Potter-Evans-Verres leben.
+Dies ist das [[Wohnzimmer]] des Hauses, in dem der angesehene Professor Michael Verres-Evans, seine Frau Mrs Petunia Evans-Verres und ihr Adoptivsohn Harry James Potter-Evans-Verres leben.
 
 Auf dem Wohnzimmertisch liegen ein Brief sowie ein [[unfrankierter]] [[Briefumschlag]] aus [[vergilbtem]] Pergament, der in [[smaragdgrüner]] [[Tinte]] an _Mr H. Potter_ adressiert ist.
 
@@ -67,7 +66,7 @@ Harry atmete tief durch. „Mum, _deine_ Eltern konnten nicht zaubern, nicht wah
 
 Der Professor wandte sich ihm zu und sah ihn, herablassend wie immer, an. „Ach, nun komm schon, Harry. _Zauberei_? Ist das dein Ernst? Obwohl du sagst, dass dir Rationalität am wichtigsten ist und du so viel darüber liest? Ich hätte nicht gedacht, dass _du_ das ernst nehmen würdest, mein Sohn, selbst wenn du erst zehn bist. Zauberei ist so ziemlich die unwissenschaftlichste Sache, die es gibt!“
 
-Harrys Mund verzog sich verbittert. Er wurde gut behandelt, vermutlich besser als die meisten Väter ihre leiblichen Kinder behandelten. Harry wurde auf die beste Grundschule geschickt — und als das nicht ausreichte, wurde er mit Tutoren aus dem unerschöpflichen Pool der verarmten Studenten versorgt. Immer wurde er dazu ermutigt sich in seine Interessensgebiete zu vertiefen, alle Bücher, die ihn interessierten, bekam er gekauft, durfte an allen mathematischen oder naturwissenschaftlichen Wettbewerben teilnehmen. Er bekam fast alles, was er begehrte, aber ernst genommen wurde er nicht. Von einem festangestellten Professor, der in Oxford Biochemie lehrte, konnte man wohl kaum erwarten, dass er den Ratschlägen eines kleinen Jungen Gehör schenkte. Natürlich würde er Interesse vortäuschen; so verhielt sich ein Guter Vater nun einmal und wenn man überzeugt war, ein Guter Vater zu sein, dann machte man das halt so. Aber einen Zehnjährigen _ernst nehmen_? Wohl kaum.
+Harrys Mund verzog sich verbittert. Er wurde gut behandelt, vermutlich besser als die meisten Väter ihre leiblichen Kinder behandelten. Harry wurde auf die beste Grundschule geschickt — und als das nicht ausreichte, wurde er mit Tutoren aus dem unerschöpflichen Pool der verarmten Studenten versorgt. Immer wurde er dazu ermutigt sich in seine Interessensgebiete zu vertiefen, alle Bücher, die ihn [[interessierten]], bekam er gekauft, durfte an allen mathematischen oder naturwissenschaftlichen Wettbewerben teilnehmen. Er bekam fast alles, was er begehrte, aber ernst genommen wurde er nicht. Von einem festangestellten Professor, der in Oxford Biochemie lehrte, konnte man wohl kaum erwarten, dass er den Ratschlägen eines kleinen Jungen Gehör schenkte. Natürlich würde er Interesse vortäuschen; so verhielt sich ein Guter Vater nun einmal und wenn man überzeugt war, ein Guter Vater zu sein, dann machte man das halt so. Aber einen Zehnjährigen _ernst nehmen_? Wohl kaum.
 
 Manchmal hätte Harry seinen Vater am liebsten angeschrien.
 
@@ -173,4 +172,4 @@ Das Gesicht verschwand vom Zaun.
 
 Der Garten war eine Weile still.
 
-Dann sagte eine Jungenstimme ruhig und leise: „_Was war denn das?!_“
+Dann sagte eine ==Jungenstimme== ruhig und leise: „_Was war [[denn]] das?!

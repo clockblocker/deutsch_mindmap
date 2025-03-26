@@ -1,39 +1,27 @@
-🔵 der [[Hut]], [hʊt]
+🎩 🔵 der [[Hut]], [huːt](https://youglish.com/pronounce/Hut/german)
 die [[Hüte]]
 
 ---
 Heute tragen nur noch wenige Menschen [[Hüte]]. Trotzdem gibt es viele Leute, die alles unter einen [[Hut]] bringen wollen, damit jeder zufrieden ist
 
 ---
-Synonyme:
-- [[Kopfbedeckung]], [[Mütze]], [[Kappe]], [[Helm]], [[Haube]]
+= [[Kopfbedeckung]], [[Barett]], [[Käppi]]
+≈ [[Mütze]], [[Häubchen]], [[Turban]], [[Zylinder]]
+≠ [[keine Kopfbedeckung]]
 
 ---
-Übersetzung: hat, cap
+hat
+шляпа
 
 ---
-Morpheme:
-[[Hut]]
+[[hüten]], [[hütbar]], [[Hütchen]], [[Hutmacher]], [[Hutgeschäft]]
 
 ---
-Einzigartige mögliche Formen: 
-Singular:
-- Nominativ: [[Hut]]
-- Genitiv: [[Hutes]], [[Huts]]
-- Dativ: [[Hut]], [[Hute]]
-- Akkusativ: [[Hut]]
+[[Hut]]</agent_output>
 
-Plural:
-- Nominativ: [[Hüte]]
-- Genitiv: [[Hüte]]
-- Dativ: [[Hüten]]
-- Akkusativ: [[Hüte]]
 
 ---
-#Substantiv #Maskulin
-
-Weitere Bedeutungen:
-1. Kopfbedeckung zum Schutz vor Witterung
-2. Schutztruppe, Wache (in bestimmten Ausdrücken)
-3. Obhut, Schutz (z.B. "unter jemandes Hut stehen")
-, [[anstoßen]]
+N: der [[Hut]], die [[Hüte]]
+A: den [[Hut]], die [[Hüte]]
+G: des [[Hutes]], der [[Hüte]]
+D: dem [[Hut]], den [[Hüten]]

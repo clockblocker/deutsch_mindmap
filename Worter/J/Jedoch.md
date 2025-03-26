@@ -1,5 +1,5 @@
-*[[Jedoch]] nach Hause lief der Hund*  
-*und trug die Peitsche in dem Mund
+[[Jedoch]] nach Hause lief der Hund  
+und trug die Peitsche in dem Mund
 
 Ein stark dekliniertes Nomen im Singular ohne Begleiter bleibt [[jedoch]] undekliniert:  
 *abzüglich Rabatt (nicht: Rabatts)*  

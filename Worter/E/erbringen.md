@@ -9,7 +9,7 @@
 
 
 ---
-= [[leisten]], [[vollbringen]], [[zuwege bringen]]
+= [[Leisten]], [[vollbringen]], [[zuwege bringen]]
 ≈ [[erreichen]], [[bewerkstelligen]], [[hervorbringen]]
 ≠ [[versagen]], [[scheitern]], [[unterliegen]]
 

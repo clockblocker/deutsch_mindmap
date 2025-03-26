@@ -1,7 +1,7 @@
 🌊 [[anlegen]] | [[legte an|legte an]], haben [[angelegt]]
 
 ---
-Lauras Traum war es schon immer, ein Haus mit Garten zu haben. 20 Jahre lang [[legte an|legte]] sie ihr Geld in Aktien an, um sich ein Haus [[leisten]] zu können. 
+Lauras Traum war es schon immer, ein Haus mit Garten zu haben. 20 Jahre lang [[legte an|legte]] sie ihr Geld in Aktien an, um sich ein Haus [[Leisten]] zu können. 
 
 ---
 Synonyme: [[anbinden]], [[befestigen]], [[festmachen]], [[andocken]], [[landen]]
