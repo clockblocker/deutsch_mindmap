@@ -1,1 +1,1 @@
-, [[Halle]], [[Turnhalle]]
+, [[Halle]], [[Turnhalle]], [[Gymnastikraum]]

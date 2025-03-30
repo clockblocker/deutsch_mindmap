@@ -22,4 +22,4 @@ Accusative: den [[Schreibtisch 1]], die [[Schreibtische]]
 Genitive: des [[Schreibtisches]], der [[Schreibtische]]  
 Dative: dem [[Schreibtisch 1]], den [[Schreibtischen]] 
 
-[[schreiben]], [[Tisch]], [[Schreibunterlage]], [[Schreibtischschublade]]
+[[schreiben]], [[Tisch]], [[Schreibunterlage]], [[Schreibtischschublade]], [[Lehrerpult]]

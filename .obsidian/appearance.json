@@ -5,12 +5,12 @@
     "custom-links",
     "footnote",
     "custom-highlighting",
-    "custom-block-ids",
     "custom-italics",
     "supercharged-links-gen",
     "custim-color-der-die-das",
     "custom-wortart",
-    "custom-color-der-die-das"
+    "custom-color-der-die-das",
+    "custom-block-ids"
   ],
   "translucency": false,
   "cssTheme": "Things",

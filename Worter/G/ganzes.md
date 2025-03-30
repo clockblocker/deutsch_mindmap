@@ -1,2 +1,2 @@
 [[ganz]], [[halbes]], [[Sektor]], [[stück]], [[Drittel]]
-, [[Scherb]]
+, [[Scherb]], [[Bestandteil]]

@@ -1,1 +1,1 @@
-, [[Metallteile]]
+, [[Metallteile]], [[Bestandteil]]

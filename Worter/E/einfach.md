@@ -49,3 +49,31 @@ Eines der Kinder hat sich beim Spielen [[verletzt]].
   
 Petra und Klaus kochen, sie bekommen [[Besuch]]
 , [[s1 e1]], [[lediglich]], [[Vorlage]], [[durchmogeln]], [[anspruchsvoll]], [[banal]], [[facettenreich]]
+
+😊 [[einfach]], [ˈaɪ̯nfax](https://youglish.com/pronounce/einfach/german)
+
+---
+Ethischen
+
+---
+= [[simpel]], [[leicht]], [[gering]] | [[schlicht]], [[unverziert]]
+≈ [[unkompliziert]], [[klar]], [[verständlich]] | [[bescheiden]], [[pur]]
+≠ [[kompliziert]], [[schwierig]], [[aufwendig]] | [[komplex]], [[aufwändig]]
+
+---
+simple, easy | simple, plain  
+простой | простой, незамысловатый
+
+---
+[[Vereinfachung]], [[vereinfachen]], [[Einfachheit]], [[einfachheitshalber]] | [[einfach]], [[Einfachheit]]
+
+---
+[[ein]]|[[fach]]
+[[ein]] + [[fach]]
+
+
+---
+Adjektive: [[einfach]], [[einfacher]], [[einfachsten]]
+
+---
+[[einfacher]], [[einfaches]], [[einfache]], [[einfachen]], [[einfachem]], [[einfacherer]], [[einfacheres]], [[einfachere]], [[einfacheren]], [[einfacherem]], [[einfachstener]], [[einfachstenes]], [[einfachstene]], [[einfachstenen]], [[einfachstenem]]

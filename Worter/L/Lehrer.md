@@ -1,1 +1,1 @@
-, [[Erzieher]], [[Dozent]], [[lehren]], [[Schulklasse]]
+, [[Erzieher]], [[Dozent]], [[lehren]], [[Schulklasse]], [[Lehrerpult]]

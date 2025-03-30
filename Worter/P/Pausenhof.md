@@ -4,6 +4,9 @@ die [[Pausenhöfe]]
 ---
 Oh je, denkt Tanja, das ist nicht leicht für das Mädchen. Leider kann sie nicht lange mit ihr sprechen, denn sie hat Aufsicht auf dem [[Pausenhof]]
 
+18. In der Pause spielen alle Kinder auf dem [[Pausenhof]].  
+
+
 ---
 Synonyme:
 - [[Schulhof]], [[Schulgelände]], [[Schulplatz]]

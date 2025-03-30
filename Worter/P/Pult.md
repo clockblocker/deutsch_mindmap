@@ -1,1 +1,1 @@
-, [[Schreibtisch]], [[Tisch]]
+, [[Schreibtisch]], [[Tisch]], [[Lehrerpult]]

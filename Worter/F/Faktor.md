@@ -1,1 +1,1 @@
-, [[Erfolgsfaktor]], [[Hauptursache]]
+, [[Erfolgsfaktor]], [[Hauptursache]], [[Bestandteil]]

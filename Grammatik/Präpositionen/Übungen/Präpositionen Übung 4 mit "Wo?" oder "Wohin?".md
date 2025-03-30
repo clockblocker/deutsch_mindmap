@@ -1,29 +1,32 @@
 ### Setze jeweils die richtige Präposition und den Artikel ein!
 
-- Wir fahren _________ _________ Nordsee. Cuxhaven liegt _________ _________ Nordsee.  
-- Der Spiegel hängt _________ _________ Wand.  
-- Ich hänge den Spiegel _________ _________ Wand.  
-- Ich stelle den Koffer _________ _________ Bushaltestelle.  
-- Der Koffer steht _________ _________ Bushaltestelle.  
+- Wir fahren an die Nordsee. Cuxhaven liegt an der Nordsee.  
+- Der Spiegel hängt an der [[Wand]].  
+- Ich hänge den Spiegel an die Wand.  
+- Ich stelle den Koffer an die Bushaltestelle.  
+- Der Koffer steht an der Bushaltestelle.  
 
-- Mimi, die Katze, springt _________ _________ Schrank.  
-- Mimi sitzt _________ _________ Schrank.  
+- Mimi, die Katze, springt auf den [[Schrank]].  
+- Mimi sitzt auf dem Schrank.  
 
-- Stellen Sie den Wagen _________ _________ Haus!  
-- _________ _________ Haus ist genug Platz.  
+- Stellen Sie den Wagen vor das [[Haus]]!  
+- Vor dem Haus ist genug Platz.  
 
-- Ich gieße Tee _________ _________ Tasse.  
-- _________ _________ Tasse ist heißer Tee.  
 
-- Kann ich mich _________ _________ Tür setzen?  
-- Nun sitze ich _________ _________ Tür.  
+[[schloss]]
 
-- Ich hänge die Lampe _________ _________ Tisch.  
-- Die Lampe hängt _________ _________ Tisch.  
+- Ich gieße Tee in die Tasse.  
+- In der Tasse ist heißer Tee.  
 
-- Vorsicht, wenn du _________ _________ Straße gehst!  
+- Kann ich mich vor den die setzen?  
+- Nun sitze ich vor der Tür.  
 
-- Der Hund legt sich _________ _________ Tisch.  
+- Ich hänge die Lampe über den Tisch.  
+- Die Lampe hängt über dem Tisch.  
+
+- Vorsicht, wenn du durch die Straße gehst!  
+
+- Der Hund legt sich auf den Tisch.  
 - Der Hund liegt _________ _________ Tisch.  
 - Er setzt sich _________ _________ Zuschauer.  
 - Er sitzt _________ _________ Zuschauern.  
@@ -35,3 +38,5 @@
 - Ich setze mich _________ _________ die beiden dicken Tanten.  
 - Die Kirche ist _________ _________ Rathaus und _________ Stadtgarten.  
 - _________ acht und neun Uhr komme ich nach Hause.
+
+[[mietschuldenfreiheitsbescheinigung]]

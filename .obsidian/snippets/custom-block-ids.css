@@ -20,3 +20,29 @@
     /* remove italics */
     font-style: normal;
 }
+
+.HyperMD-header-6 {
+    padding-top: 0px !important;
+}
+
+.cm-line:has(.block_title) {
+    text-align: right !important;
+    line-height: 12px !important;
+    padding-bottom: 2px !important;
+}
+
+.block_title {
+    font-size: 12px !important;
+    color: var(--hr-color);
+    font-weight: 700;
+}
+    
+.markdown-source-view.mod-cm6 .hr {
+    line-height: 0px !important;
+    padding-bottom: 4px !important;
+}
+
+.cm-hashtag {
+    background-color: var(--hr-color);
+    color: var(--text-normal);
+}

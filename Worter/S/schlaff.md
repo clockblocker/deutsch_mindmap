@@ -1,1 +1,1 @@
-, [[locker]], [[stark]]
+, [[locker]], [[stark]], [[faul]]

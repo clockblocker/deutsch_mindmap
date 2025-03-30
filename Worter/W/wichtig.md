@@ -2,8 +2,13 @@
 nicht [[unbedeutend]]
 
 ---
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
+= [[wesentlich]] = [[bedeutend]]
+≈ [[grundlegend]] = [[grundsätzlich]] = [[zugrundeliegende]] 
 
+
+
+
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
 
 die [[Zeit]] is wichtig
 
@@ -34,4 +39,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[wichtig]], [[wichtiger]], [[wichtige]], [[wichtiges]], [[wichtigen]], [[wichtigem]], [[wichtiger]], [[wichtigen]]
-[[wichtigste]], [[wichtigster]], [[wichtigste]], [[wichtigstes]], [[wichtigsten]], [[wichtigstem]], [[wichtigster]], [[wichtigsten]], [[notwendig]], [[egal]], [[wertvoll]], [[unentbehrlich]], [[s1 e1]], [[unnötig]], [[angelegen]], [[grundlegend]], [[vorrangig]], [[unverzichtbar]], [[bedeutend]]
+[[wichtigste]], [[wichtigster]], [[wichtigste]], [[wichtigstes]], [[wichtigsten]], [[wichtigstem]], [[wichtigster]], [[wichtigsten]], [[notwendig]], [[egal]], [[wertvoll]], [[unentbehrlich]], [[s1 e1]], [[unnötig]], [[angelegen]], [[grundlegend]], [[vorrangig]], [[unverzichtbar]], [[bedeutend]], [[wesentlich]]

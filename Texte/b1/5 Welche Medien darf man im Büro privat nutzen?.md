@@ -1,8 +1,10 @@
 Welche Medien darf man im Büro privat nutzen?
 
-Viele Arbeitsplätze haben heutzutage einen Internetanschluss. Was liegt näher, als den beruflichen Internetanschluss für den privaten E-Mail-Verkehr, für eBay-Auktionen oder für die Suche nach dem neusten Kinofilm zu nutzen? Ebenso verlockend ist es, privat zu telefonieren.
+[[Viele]] Arbeitsplätze haben heutzutage einen Internetanschluss. 
 
-  
+
+Was liegt näher, als den beruflichen Internetanschluss für den privaten E-Mail-Verkehr, für eBay-Auktionen oder für die Suche nach dem neusten Kinofilm zu nutzen? Ebenso verlockend ist es, privat zu telefonieren.
+
 
 Doch Vorsicht! Schnell kann bei einer solchen Aktion das Arbeitsverhältnis auf dem Spiel stehen – wie es kürzlich bei der Firma Karma in Osnabrück passiert ist. Die Firma prüft zurzeit die Entlassung von 60 Mitarbeitern. Die Begründung für diese Maßnahme lautet: Diese Mitarbeiter haben während ihrer Arbeitszeit im Internet gesurft.
 

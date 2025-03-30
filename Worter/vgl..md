@@ -1,1 +1,1 @@
-[[vergleichen]]
+[[bzw.]][[vergleichen]]

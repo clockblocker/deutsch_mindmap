@@ -4,4 +4,4 @@ SASCHA: Hier ist das [[Schlafzimmer]].
 
 
 
-, [[schlafen]], [[Wohnzimmer]]
+, [[schlafen]], [[Wohnzimmer]], [[Gymnastikraum]]

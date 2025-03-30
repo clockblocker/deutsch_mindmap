@@ -24,4 +24,7 @@ D: dem [[Tisch]], den [[Tischen]]
 
 ---
 [[tischbereit]]
-, [[Kocher]]
+, [[Kocher]], [[Lehrerpult]]
+
+#Masculin 
+#Maskulin 

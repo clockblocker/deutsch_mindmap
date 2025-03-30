@@ -19,4 +19,4 @@ Morphems:
 [[Küch]][[e]]
 
 ---
-#Substantiv #Feminin, [[Küchenmagd]], [[Herd]], [[Küchenfenster]], [[Wohnzimmer]]
+#Substantiv #Feminin, [[Küchenmagd]], [[Herd]], [[Küchenfenster]], [[Wohnzimmer]], [[Gymnastikraum]]

@@ -27,7 +27,7 @@
                             `durch` di*e* alt*e* Post  
                             `durch` di*e* verschieden*en* Kanäle  
 
-4) **Beim Passiv bedeutet `durch` das Mittel und die Ursache, (vgl. [[von]])**
+4) **Beim Passiv bedeutet `durch` das Mittel und die Ursache, ([[vgl.]] [[von]])**
 	- Er wurde getötet     `durch` ein*en* laut*en* Schuss  
                      `durch` di*e* plötz*e* Explosion  
                      `durch` da*s* tragisch*e* Ereignis  

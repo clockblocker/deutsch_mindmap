@@ -4,333 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "04b780ea96ba7578",
+        "id": "5633f11797158a5e",
         "type": "tabs",
         "children": [
           {
-            "id": "48e99e5e4b1883bf",
+            "id": "5d733019dc12078e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/M/molken.md",
+                "file": "Texte/c1/schriben/5 Brauchen wir Kohlekraftwerke?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "molken"
+              "title": "5 Brauchen wir Kohlekraftwerke?"
             }
           },
           {
-            "id": "a324b607d7377941",
+            "id": "5ad9c5b7badb8b90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Alle.md",
+                "file": "Worter/Kohlekraftwerke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alle"
+              "title": "Kohlekraftwerke"
             }
           },
           {
-            "id": "d1904977a7b6b76b",
+            "id": "f2b3a286caa88c50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/b2 Das sagt man so!/Den Faden verlieren.md",
+                "file": "Worter/Kohlekraftwerke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Den Faden verlieren"
+              "title": "Kohlekraftwerke"
             }
           },
           {
-            "id": "e0cb34a367007808",
+            "id": "e2f58a13d4782b50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/S/See.md",
+                "file": "Worter/Kohlekraftwerk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "See"
-            }
-          },
-          {
-            "id": "9925e7764162e696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/V/verfallen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "verfallen"
-            }
-          },
-          {
-            "id": "3f2fd055fd3d977e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/V/verfall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "verfall"
-            }
-          },
-          {
-            "id": "196797769857e59a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/V/verfall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "verfall"
-            }
-          },
-          {
-            "id": "7a204078276d60bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/melken.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "melken"
-            }
-          },
-          {
-            "id": "e72a3e30ea01e95d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/schloss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "schloss"
-            }
-          },
-          {
-            "id": "ec35f65ca96f1634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/trozdem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "trozdem"
-            }
-          },
-          {
-            "id": "425a9a066eb36b19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/T/trotzdem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "trotzdem"
-            }
-          },
-          {
-            "id": "c56ae17a2a039243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/See.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "See"
-            }
-          },
-          {
-            "id": "8ab35cd991e5a183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/schloss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "schloss"
-            }
-          },
-          {
-            "id": "876fa4534eb3c083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/P/Pfifferling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pfifferling"
-            }
-          },
-          {
-            "id": "648d4df335760dab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/Seife.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seife"
-            }
-          },
-          {
-            "id": "8c2101f3ef94b7d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/mietschuldenfreiheitsbescheinigung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mietschuldenfreiheitsbescheinigung"
-            }
-          },
-          {
-            "id": "0f5cb645fd0e4757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/See.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "See"
-            }
-          },
-          {
-            "id": "733b8bf3a356dc18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/schloss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "schloss"
-            }
-          },
-          {
-            "id": "e9e745f5bf1d42c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/G/Gründung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gründung"
-            }
-          },
-          {
-            "id": "00b98ae30be79f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/gluchlich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gluchlich"
-            }
-          },
-          {
-            "id": "054492a59e71c9af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/G/glücklich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "glücklich"
-            }
-          },
-          {
-            "id": "1faed54d49328da4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/H/heiter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "heiter"
-            }
-          },
-          {
-            "id": "0f48651e7cbc3c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Wohnzimmer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wohnzimmer"
+              "title": "Kohlekraftwerk"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -404,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grammatik/Präpositionen/4 Wechsel/auf Präposition.md",
+                "file": "Worter/S/schloss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -414,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for auf Präposition"
+              "title": "Backlinks for schloss"
             }
           },
           {
@@ -479,34 +213,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8c2101f3ef94b7d7",
+  "active": "e2f58a13d4782b50",
   "lastOpenFiles": [
-    "Worter/S/Schuld.md",
-    "Worter/mietschuldenfreiheitsbescheinigung.md",
-    "Worter/S/Seife.md",
-    "Worter/S/Seifen.md",
-    "Worter/brot.md",
-    "Worter/P/Pfifferling.md",
-    "Worter/S/schloss.md",
+    "Worter/S/Stromerzeugungsanlage.md",
+    "Worter/Kohlekraftwerk.md",
+    "Worter/Kohlekraftwerke.md",
+    "Texte/c1/schriben/5 Brauchen wir Kohlekraftwerke?.md",
+    "Worter/M/mag.md",
+    "Texte/b1/5 Welche Medien darf man im Büro privat nutzen?.md",
+    "Worter/S/sauer.md",
+    "Worter/K/klein.md",
+    "Worter/W/wild.md",
+    "Worter/C/chaotisch.md",
+    "Worter/S/stark.md",
+    "Worter/S/schmal.md",
+    "Worter/K/kleinsten.md",
+    "Worter/G/gut.md",
+    "Texte/b1/6 Umgangsformen im Geschäftsleben.md",
+    "Texte/b1/1 Haben Sie noch Zeit?.md",
+    "Worter/K/kleine.md",
+    "Worter/kleins`ten.md",
+    "Texte/Avatar/s1 e1.md",
+    "Worter/E/erklärte.md",
+    "Worter/E/erklären.md",
+    "Worter/E/Erdkönigreich.md",
+    "Worter/D/damals.md",
     "Worter/S/See.md",
-    "Worter/E/er.md",
-    "Worter/S/schleifen.md",
-    "Worter/S/schaffen.md",
-    "Worter/S/schliefen.md",
-    "Worter/T/trotzdem.md",
-    "Worter/trozdem.md",
-    "Worter/T/trotz.md",
-    "Worter/T/trotzen.md",
-    "Worter/melken.md",
-    "Worter/V/verfall.md",
-    "Worter/verfalle.md",
-    "Worter/schlos.md",
-    "Worter/V/verfallen.md",
-    "Texte/b2 Das sagt man so!/Den Faden verlieren.md",
-    "Texte/b2 Das sagt man so!/Das Haar in der Suppe suchen.md",
-    "Texte/b2 Das sagt man so!/Das Eis brechen.md",
-    "Texte/b2 Das sagt man so!/Da ist der Wurm drin.md",
-    "Texte/b2 Das sagt man so!/Alles unter einen Hut bringen.md",
+    "Worter/S/schloss.md",
+    "Worter/often.md",
+    "Grammatik/Morphem/Praefix/List",
+    "Grammatik/Morphem/Praefix",
+    "Grammatik/Morphem",
     "Worter/Grundform/Verb/a/b",
     "Worter/Grundform/Verb/a",
     "Worter/Grundform/Verb",
@@ -516,9 +253,6 @@
     "Anhänge/Pasted image 20250320073302.png",
     "Anhänge/Pasted image 20250320073257.png",
     "Grammatik/Präpositionen/Präpositionen Gen/Untitled",
-    "Grammatik/Präpositionen/3 Gen",
-    "Grammatik/Präpositionen/4 Wechsel",
-    "Grammatik/Partikel",
     "Anhänge/Pasted image 20250224055949.png",
     "Anhänge/Pasted image 20250224055705.png",
     "Anhänge/Pasted image 20250224055357.png",

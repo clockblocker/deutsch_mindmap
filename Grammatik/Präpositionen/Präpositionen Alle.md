@@ -62,6 +62,21 @@
 [[mithilfe Präposition|mithilfe]]  
 [[kraft Präposition|kraft]]  
 
+[[for lack of preposition|for lack of]]
+[[by means of preposition|by means of]]
+[[regardless of preposition|regardless of]]
+[[for the sake of preposition|for the sake of]]
+[[in favor of preposition|in favor of]]
+
+[[Grammar/Prepositions/List/above preposition|above]]
+[[below preposition|below]]
+[[on this side of preposition|on this side of]]
+[[beyond preposition|beyond]]
+[[regarding preposition|regarding]]
+[[as a result of preposition|as a result of]]
+[[with the help of preposition|with the help of]]
+[[by virtue of preposition|by virtue of]]
+
 ----
 #### Wechselpräpositionen
 [[an Präposition|an]]  

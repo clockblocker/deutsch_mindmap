@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kastens]], [[Kasten]], [[Kästen]], [[Kästen]]
 
 ---
-#Substantiv #Maskulin, [[Getränkekasten]]
+#Substantiv #Maskulin, [[Getränkekasten]], [[Schublade]]
