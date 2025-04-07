@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kabelfernsehens]], [[Kabelfernsehen]], [[Kabelfernsehes]], [[Kabelfernsehen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

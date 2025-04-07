@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ablaufschlauches]], [[Ablaufschlauch]], [[Ablaufschläuche]], [[Ablaufschläuchen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

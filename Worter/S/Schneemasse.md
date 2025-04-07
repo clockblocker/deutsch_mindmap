@@ -19,7 +19,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schneemasse]], [[Schneemassen]], [[Schneemasses]], [[Schneemasser]]
 
 ---
-#Substantiv #Neutral #Komposition
+#Substantiv #Neuter #Komposition
 
 Weitere Erklärung:
 Eine zusammengesetzte Bezeichnung für eine große Menge von Schnee, die sich an einem Ort angesammelt hat. Häufig verwendet in Beschreibungen von Wintersituationen, Gebirgslandschaften oder extremen Wetterbedingungen., [[s1 e1]]

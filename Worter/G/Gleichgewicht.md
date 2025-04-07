@@ -30,4 +30,4 @@ Einzigartige mögliche Formen:
 [[Gleichgewicht]], [[Gleichgewichts]], [[Gleichgewichte]], [[Gleichgewichten]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

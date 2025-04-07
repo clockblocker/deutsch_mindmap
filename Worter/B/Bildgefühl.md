@@ -26,5 +26,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bildgefühls]], [[Bildgefühle]], [[Bildgefühlen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 

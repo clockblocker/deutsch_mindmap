@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schicksals]], [[Schicksale]], [[Schicksalen]]
 
 ---
-#Substantiv #Neutral, [[ergehen]]
+#Substantiv #Neuter, [[ergehen]]

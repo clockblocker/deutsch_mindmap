@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schlagsahnes]], [[Schlagsahne]], [[Schlagsahnen]], [[Schlagsahnen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

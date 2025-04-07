@@ -21,7 +21,7 @@ Morpheme:
 [[Leucht]][[geschoss]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter
 
 Einzigartige mögliche Formen:
 [[Leuchtgeschoss]], [[Leuchtgeschosses]], [[Leuchtgeschossen]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Eisentellers]], [[Eisenteil]], [[Eisentellern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

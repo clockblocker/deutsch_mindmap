@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ausgusses]], [[Ausguss]], [[Ausgüsse]], [[Ausgüssen]]  
 
 ---
-#Substantiv #Neutrum, [[einhängen]]
+#Substantiv #Neuter, [[einhängen]]

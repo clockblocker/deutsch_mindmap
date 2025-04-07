@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Herzschlags]], [[Herzschlage]], [[Herzschläge]], [[Herzschlägen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

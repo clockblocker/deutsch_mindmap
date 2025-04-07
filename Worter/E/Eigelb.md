@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Eigelbs]], [[Eigelbe]], [[Eigelben]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

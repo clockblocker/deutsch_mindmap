@@ -60,4 +60,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Verlangens]], [[Verlangen]], [[Verlangen]], [[Verlangen]]
 
 ---
-#Substantiv #Neutral, [[Lust]], [[ablehnen]], [[Aufruf]], [[Anspruch]], [[auffordern]], [[dürsten]], [[bedürfen]], [[benötigen]]
+#Substantiv #Neuter, [[Lust]], [[ablehnen]], [[Aufruf]], [[Anspruch]], [[auffordern]], [[dürsten]], [[bedürfen]], [[benötigen]]

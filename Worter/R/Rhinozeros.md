@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Rhinozeros]], [[Rhinozeros']], [[Rhinozeros'es]], [[Rhinozeros'en]]
 
 ---
-#Substantiv #Neutral, [[Extra 8]]
+#Substantiv #Neuter, [[Extra 8]]

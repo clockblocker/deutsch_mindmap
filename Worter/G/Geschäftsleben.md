@@ -21,6 +21,6 @@ Morpheme:
 Einzigartige mögliche Formen: [[Geschäftsleben]]
 
 ---
-#Substantiv #Neutral #Kompositum
+#Substantiv #Neuter #Kompositum
 
 Would you like me to elaborate on any part of this dictionary entry?

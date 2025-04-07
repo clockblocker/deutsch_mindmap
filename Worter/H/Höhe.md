@@ -13,7 +13,7 @@ height, elevation
 ---
 
 #Substantiv
-#Feminine
+#Feminin
 
 ---
 

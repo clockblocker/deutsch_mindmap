@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Feuerzeuge]], [[Feuerzeugs]], [[Feuerzeugem]], [[Feuerzeugen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

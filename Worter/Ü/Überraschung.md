@@ -12,5 +12,5 @@ Synonyme:
 **Übersetzung**: surprise
 
 ---
-#Substantiv #Feminine
+#Substantiv #Feminin
 , [[erstaunen]]

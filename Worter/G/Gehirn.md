@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gehirns]], [[Gehirne]], [[Gehirnen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

@@ -21,7 +21,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tischtuchs]], [[Tischtuch]], [[Tischtücher]], [[Tischtüchern]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter
 
 Zusammensetzung:
 - [[Tisch]] (table)

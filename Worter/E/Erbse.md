@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Erbse]], [[Erbsen]], [[Erbse]], [[Erbsen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

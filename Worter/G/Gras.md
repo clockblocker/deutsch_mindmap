@@ -21,6 +21,6 @@ Morpheme:
 Einzigartige mögliche Formen: [[Grases]], [[Grase]], [[Gräser]], [[Gräsern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 , [[Wiesen]]

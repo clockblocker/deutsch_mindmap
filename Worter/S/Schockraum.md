@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schockraums]], [[Schockräume]], [[Schockräumen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

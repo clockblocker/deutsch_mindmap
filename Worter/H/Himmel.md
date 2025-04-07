@@ -20,5 +20,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Himmels]], [[Himmel]], [[Himmeln]]
 
 ---
-#Substantiv #Neutral, [[im siebten Himmel sein]]
+#Substantiv #Neuter, [[im siebten Himmel sein]]
 , [[anstoßen]], [[Decke]]

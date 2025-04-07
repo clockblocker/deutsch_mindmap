@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Raumstationen]], [[Raumstation]], [[Raumstationen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

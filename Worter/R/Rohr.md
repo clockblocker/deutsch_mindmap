@@ -19,7 +19,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Rohres]], [[Rohre]], [[Rohren]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 Additional context:
 - In technical contexts: pipe, conduit

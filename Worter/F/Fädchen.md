@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fädchens]], [[Fädchen]], [[Fädchen]], [[Fädchen]], [[Fädchen]], [[Fädchen]], [[Fädchen]], [[Fädchen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

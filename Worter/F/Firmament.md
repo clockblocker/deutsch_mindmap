@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Firmaments]], [[Firmament]], [[Firmamente]], [[Firmamenten]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

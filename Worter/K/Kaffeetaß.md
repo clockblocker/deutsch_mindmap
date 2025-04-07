@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kaffeetaßes]], [[Kaffeetaß]], [[Kaffeetassen]], [[Kaffeetassen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

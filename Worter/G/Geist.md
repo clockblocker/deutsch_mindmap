@@ -32,4 +32,3 @@ D: dem [[Geist]], den [[Geistern]]
 , [[geisteswissenschaftlich]]
 
 #Maskulin 
-

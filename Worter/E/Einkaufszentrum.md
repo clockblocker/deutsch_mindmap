@@ -19,6 +19,6 @@ Morpheme:
 Einzigartige mögliche Formen: [[Einkaufszentrum]], [[Einkaufszentren]], [[Einkaufszentrums]], [[Einkaufszentren]]
 
 ---
-#Substantiv #Neutral #Plural
+#Substantiv #Neuter #Plural
 
 Note: This is the plural form of "Einkaufszentrum", a compound noun created from "Einkauf" (shopping) and "Zentrum" (center).

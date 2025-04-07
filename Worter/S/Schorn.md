@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schorns]], [[Schorne]], [[Schornern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

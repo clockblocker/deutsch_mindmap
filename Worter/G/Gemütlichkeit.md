@@ -25,7 +25,7 @@ Einzigartige mögliche Formen:
 Keine weiteren Deklинationsformen gebräuchlich
 
 ---
-#Substantiv #Neutral #Abstrakt
+#Substantiv #Neuter #Abstrakt
 
 ---
 Kulturelle Anmerkung:

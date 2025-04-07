@@ -33,7 +33,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ergebnisses]], [[Ergebnis]], [[Ergebnisse]], [[Ergebnissen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter
 
 , [[Erfolg]], [[entgegenfiebern]], [[Rechercheergebenis]], [[Zwischenergebnis]], [[Worter/ergeben]], [[Anki]], [[Anlass]], [[1 Präpositionen Übungen]], [[Voraussetzung]], [[ergeben]], [[Ergebnisorientierung]]
 

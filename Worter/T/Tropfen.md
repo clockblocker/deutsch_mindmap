@@ -53,7 +53,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tropfens]], [[Tropfen]], [[Tropfe]], [[Tropfen]], [[Tropfen]], [[Tropfen]], [[Tropfen]], [[Tropfen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 
 [[Regen]], [[Zähre]]

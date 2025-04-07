@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Landschaft]], [[Landschaften]], [[Landschafts]], [[Landschafte]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

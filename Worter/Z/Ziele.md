@@ -19,7 +19,7 @@ Morpheme:
 [[Ziel]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 Grammatische Informationen:
 - Plural: [[Ziele]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tintenfasses]], [[Tintenfasse]], [[Tintenfässer]], [[Tintenfässern]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

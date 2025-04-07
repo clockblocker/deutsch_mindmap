@@ -30,7 +30,7 @@ Plural:
 - Akkusativ: [[Zeichen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 Weitere Bedeutungen:
 1. Graphisches Symbol zur Kommunikation

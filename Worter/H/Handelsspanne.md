@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Handelsspannes]], [[Handelsspanne]], [[Handelsspannen]], [[Handelsspannen]]
 
 ---
-#Substantiv #Neutral, [[spannen]]
+#Substantiv #Neuter, [[spannen]]

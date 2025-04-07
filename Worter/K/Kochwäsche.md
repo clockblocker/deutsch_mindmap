@@ -18,4 +18,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kochwäsches]], [[Kochwäsche]], [[Kochwäschen]], [[Kochwäschen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

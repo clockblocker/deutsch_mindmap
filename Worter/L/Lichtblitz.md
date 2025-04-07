@@ -19,7 +19,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lichtblitzes]], [[Lichtblitzen]], [[Lichtblitz]], [[Lichtblitze]]
 
 ---
-#Substantiv #Neutrum #Kompositum
+#Substantiv #Neuter #Kompositum
 
 Weitere Erklärung:
 Ein Lichtblitz ist ein kurzer, intensiver Lichtausbruch, der schnell auftritt und schnell wieder verschwindet. Er kann natürlich (wie bei Blitzen) oder künstlich (wie bei Blitzlichtlampen) entstehen., [[s1 e1]]

@@ -15,7 +15,7 @@ Morpheme:
 [[miss]][[versteh]][[en]][[-nis]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 ---
 Deklinationstabelle:

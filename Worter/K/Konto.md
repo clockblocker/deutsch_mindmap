@@ -21,7 +21,7 @@ Morpheme:
 [[Konto]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 Einzigartige mögliche Formen:
 [[Kontos]], [[Konto]], [[Konten]]

@@ -23,7 +23,7 @@ Einzigartige mögliche Formen:
 [[Erinnerung]], [[Erinnerungen]], [[Erinnerung]], [[Erinnerungen]], [[Erinnerungen]], [[Erinnerung]]
 
 ---
-#Substantiv #Femininum
+#Substantiv #Feminin
 
 Beispielsätze:
 1. "Die Erinnerung an seine Kindheit war sehr lebendig."

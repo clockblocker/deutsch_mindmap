@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Zellwolle]], [[Zellwolles]], [[Zellwollen]], [[Zellwollen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

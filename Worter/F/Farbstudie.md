@@ -18,4 +18,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Farbstudie]], [[Farbstudien]]
 
 ---
-#Substantiv #Neutral #Komposition
+#Substantiv #Neuter #Komposition

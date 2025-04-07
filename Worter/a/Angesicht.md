@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Angesichts]], [[Angesichte]], [[Angesichtern]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

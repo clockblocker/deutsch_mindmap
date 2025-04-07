@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Hölzchens]], [[Hölzchen]], [[Hölzchen]], [[Hölzchen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

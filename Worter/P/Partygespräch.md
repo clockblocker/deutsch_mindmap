@@ -19,7 +19,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Partygespräches]], [[Partygespräch]], [[Partygesprächen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 Detailed breakdown:
 - Compound noun formed from [[Party]] + [[Gespräch]]

@@ -10,4 +10,4 @@ Synonyme:
 **Übersetzung**: cold, common cold
 
 ---
-#Substantiv #Feminine
+#Substantiv #Feminin

@@ -22,5 +22,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Energie]], [[Energien]]
 
 ---
-#Substantiv #Neutral, [[Willenskraft]], [[s1 e1]]
+#Substantiv #Neuter, [[Willenskraft]], [[s1 e1]]
 , [[Erschöpfung]], [[Energiequelle]], [[Energiesicherheit]]

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lotto-Tages]], [[Lotto-Tage]], [[Lotto-Tagen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

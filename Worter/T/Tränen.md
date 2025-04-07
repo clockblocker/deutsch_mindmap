@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Träne]], [[Tränen]], [[Träne]], [[Tränen]], [[Träne]], [[Tränen]], [[Träne]], [[Tränen]]
 
 ---
-#Substantiv #Femininum, [[Zähre]]
+#Substantiv #Feminin, [[Zähre]]

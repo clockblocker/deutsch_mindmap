@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Viehs]], [[Viehe]], [[Vieher]], [[Viehem]]
 
 ---
-#Substantiv #Neutrum, [[s1 e1]]
+#Substantiv #Neuter, [[s1 e1]]

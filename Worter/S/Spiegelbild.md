@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Spiegelbildes]], [[Spiegelbildern]], [[Spiegelbilder]], [[Spiegelbildern]]
 
 ---
-#Substantiv #Neutrum, [[s1 e1]]
+#Substantiv #Neuter, [[s1 e1]]

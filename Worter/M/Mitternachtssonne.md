@@ -19,5 +19,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Mitternachtssonne]], [[Mitternachtssonnen]]
 
 ---
-#Substantiv #Neutrum #Komposition
+#Substantiv #Neuter #Komposition
 , [[s1 e1]]

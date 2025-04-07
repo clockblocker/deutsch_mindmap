@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Düse]], [[Düsen]], [[Düse]], [[Düsen]], [[Düse]], [[Düse]], [[Düsen]], [[Düsen]]
 
 ---
-#Substantiv #Feminim, [[Düsenflieger]]
+#Substantiv #Feminin, [[Düsenflieger]]

@@ -20,5 +20,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Heeres]], [[Heere]], [[Heeren]]
 
 ---
-#Substantiv #Neutrum #Militär
+#Substantiv #Neuter #Militär
 

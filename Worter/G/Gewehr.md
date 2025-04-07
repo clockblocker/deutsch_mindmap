@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gewehrs]], [[Gewehre]], [[Gewehren]]
 
 ---
-#Substantiv #Neutrum, [[Schleuder]]
+#Substantiv #Neuter, [[Schleuder]]

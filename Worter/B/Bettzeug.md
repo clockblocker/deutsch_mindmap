@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bettzeug]], [[Bettzeugs]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

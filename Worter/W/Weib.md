@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Weibes]], [[Weibe]], [[Weiber]], [[Weibern]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

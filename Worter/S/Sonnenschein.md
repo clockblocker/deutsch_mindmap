@@ -20,5 +20,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sonnenscheins]], [[Sonnenscheine]], [[Sonnenscheinen]]
 
 ---
-#Substantiv #Neutral, [[Regen]]
+#Substantiv #Neuter, [[Regen]]
 , [[Unwetter]], [[Wirbelsturm]]

@@ -19,7 +19,7 @@ assumption, presumption
 ---
 
 #Substantiv
-#Feminine
+#Feminin
 
 ---
 

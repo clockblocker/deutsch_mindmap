@@ -21,7 +21,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ziels]], [[Zielen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 , [[zielen]], [[Quelle]]
 , [[zielstrebig]], [[Strecke]], [[Herkunft]], [[bestreben]]

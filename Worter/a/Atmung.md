@@ -22,7 +22,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Atmung]], [[Atmungen]]
 
 ---
-#Substantiv #Neutral #Prozess
+#Substantiv #Neuter #Prozess
 
 Weitere Informationen:
 - Biologischer Prozess des Sauerstoffaustauschs

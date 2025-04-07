@@ -24,7 +24,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ausbildung]], [[Ausbildungen]]
 
 ---
-#Substantiv #Neutral, [[Gesellenprüfung]], [[Erzie­hung]], [[Weiterbildung]], [[Lehrstellensuche]], [[Studiengang]]
+#Substantiv #Neuter, [[Gesellenprüfung]], [[Erzie­hung]], [[Weiterbildung]], [[Lehrstellensuche]], [[Studiengang]]
 
 
 #Feminin 

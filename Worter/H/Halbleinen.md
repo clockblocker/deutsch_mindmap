@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Halbleinens]], [[Halbleinenen]], [[Halbleinen]], [[Halbleinenen]]
 
 ---
-#Substantiv #Neutrum #Compound
+#Substantiv #Neuter #Compound

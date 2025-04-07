@@ -13,7 +13,7 @@ wall
 ---
 
 #Substantiv
-#Feminine
+#Feminin
 
 ---
 

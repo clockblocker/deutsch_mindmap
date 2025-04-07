@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Eiweißes]], [[Eiweißen]], [[Eiweißen]], [[Eiweißern]]
 
 ---
-#Substantiv #Neutrum[[verquirlen]]
+#Substantiv #Neuter[[verquirlen]]

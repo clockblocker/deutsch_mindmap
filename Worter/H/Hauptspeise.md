@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Hauptspeise]], [[Hauptspeisen]]  
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

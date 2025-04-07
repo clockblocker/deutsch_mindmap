@@ -22,7 +22,7 @@ Einzigartige mögliche Formen:
 - [[Ansammlung]]s
 
 ---
-#Substantiv #Neutral #Ableitung
+#Substantiv #Neuter #Ableitung
 
 
 

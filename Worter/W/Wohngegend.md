@@ -19,7 +19,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Wohngegend]], [[Wohngegends]], [[Wohngegenden]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 Zusatzinformationen:
 - Zusammengesetztes Substantiv aus [[Wohnen|wohnen]] und [[Gegend]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Liedes]], [[Liede]], [[Lieder]], [[Liedern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

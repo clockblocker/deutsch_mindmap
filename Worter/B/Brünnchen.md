@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Brünnchens]], [[Brünnchen]], [[Brünnchen]], [[Brünnchen]], [[Brünnchen]], [[Brünnchen]], [[Brünnchen]], [[Brünnchen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

@@ -19,7 +19,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fernrohrs]], [[Fernrohr]], [[Fernrohre]], [[Fernrohren]]
 
 ---
-#Substantiv #Neutrum #Komposition
+#Substantiv #Neuter #Komposition
 
 Gebrauchshinweise:
 - Verwendet in Astronomie, Beobachtung von entfernten Objekten

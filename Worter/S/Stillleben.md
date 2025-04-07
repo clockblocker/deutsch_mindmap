@@ -19,5 +19,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Stillleben]], [[Stilllebens]], [[Stilllebene]]
 
 ---
-#Substantiv #Neutrum #Kunst
+#Substantiv #Neuter #Kunst
 

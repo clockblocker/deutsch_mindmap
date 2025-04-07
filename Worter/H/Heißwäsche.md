@@ -18,4 +18,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Heißwäsches]], [[Heißwäsche]], [[Heißwäschen]], [[Heißwäschen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

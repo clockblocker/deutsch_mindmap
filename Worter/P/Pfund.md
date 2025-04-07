@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Pfunds]], [[Pfunde]], [[Pfunden]]
 
 ---
-#Substantiv #Neutral[[abgepackt]]
+#Substantiv #Neuter[[abgepackt]]

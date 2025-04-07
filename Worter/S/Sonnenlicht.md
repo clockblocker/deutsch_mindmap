@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sonnenlichts]], [[Sonnenlichte]], [[Sonnenlichtern]]
 
 ---
-#Substantiv #Neutral, [[Sonne]]
+#Substantiv #Neuter, [[Sonne]]

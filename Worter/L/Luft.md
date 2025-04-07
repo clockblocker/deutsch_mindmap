@@ -11,7 +11,7 @@ air
 ---
 
 #Substantiv
-#Feminine
+#Feminin
 
 ---
 

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fähnchens]], [[Fähnchen]], [[Fähnchen]], [[Fähnchen]]
 
 ---
-#Substantiv #Neutrum, [[Fahne]]
+#Substantiv #Neuter, [[Fahne]]

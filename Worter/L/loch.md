@@ -36,4 +36,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lochs]], [[Loche]], [[Löcher]], [[Löchern]]
 
 ---
-#Substantiv #Neutrum, [[betreffen]]🕳️ 🔵 der [[Loch]], [[s1 e1]], [[Stopfen]]
+#Substantiv #Neuter, [[betreffen]]🕳️ 🔵 der [[Loch]], [[s1 e1]], [[Stopfen]]

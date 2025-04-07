@@ -20,6 +20,6 @@ Morpheme:
 Einzigartige mögliche Formen: [[Nutzung]], [[Nutzungen]]
 
 ---
-#Substantiv #Neutral #Ableitung
+#Substantiv #Neuter #Ableitung
 
 , [[nutzlos]], [[Nutzungsdaten]]

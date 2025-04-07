@@ -69,7 +69,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Wartens]], [[warten]]
 
 ---
-#Substantiv #Neutrum #Verbal-Noun
+#Substantiv #Neuter #Verbal-Noun
 
 ---
 Zusätzliche Informationen:

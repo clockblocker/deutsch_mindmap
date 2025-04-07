@@ -20,5 +20,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Landes]], [[Lande]], [[Länder]], [[Ländern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 ''', [[Lieblingsland]], [[Deutschland]], [[Landtagswahl]], [[Bundesland]], [[Landräte]], [[Bezirk]], [[Küste]], [[Landwirtschaft]], [[Grundstück]], [[landen]]

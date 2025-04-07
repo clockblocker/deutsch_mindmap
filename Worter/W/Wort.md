@@ -20,7 +20,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Worts]], [[Worte]], [[Worten]], [[Wörter]], [[Wörtern]]
 
 ---
-#Substantiv #Neutrum, [[Schlagwort]], [[Verantwortungsbewusstsein]]
+#Substantiv #Neuter, [[Schlagwort]], [[Verantwortungsbewusstsein]]
 , [[Wortgefecht]]
 , [[Bezugswort]]
 , [[Char]]

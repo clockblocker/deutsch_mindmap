@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Glückstags]], [[Glückstage]], [[Glückstagen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

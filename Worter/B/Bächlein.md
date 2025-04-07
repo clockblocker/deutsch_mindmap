@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bächleins]], [[Bächlein]], [[Bächleine]], [[Bächleinen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

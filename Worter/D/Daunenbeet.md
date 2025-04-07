@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Daunenbetts]], [[Daunenbette]], [[Daunenbetten]]
 
 ---
-#Substantiv #Neutrum, [[untergehen]]
+#Substantiv #Neuter, [[untergehen]]

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Zauberquirls]], [[Zauberquirle]], [[Zauberquirlen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

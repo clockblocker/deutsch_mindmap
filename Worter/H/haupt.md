@@ -20,7 +20,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Hauptes]], [[Haupte]], [[Häupter]], [[Häuptern]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter
 
 
 [[überhaupt]]

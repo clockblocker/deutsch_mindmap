@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Asches]], [[Aschen]], [[Asche]], [[Aschen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

@@ -17,4 +17,4 @@ Morpheme: [[fein]][[Wäsche]]
 Einzigartige mögliche Formen: [[Feinwäsches]], [[Feinwäsche]], [[Feinwäschen]], [[Feinwäschen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

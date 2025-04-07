@@ -20,5 +20,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tragödie]], [[Tragödien]], [[Tragödie]], [[Tragödien]], [[Tragödie]], [[Tragödien]], [[Tragödie]], [[Tragödien]]
 
 ---
-#Substantiv #Femininum
+#Substantiv #Feminin
 

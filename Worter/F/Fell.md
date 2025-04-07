@@ -24,5 +24,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fells]], [[Felle]], [[Fellen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 

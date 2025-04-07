@@ -16,7 +16,7 @@ Morpheme:
 [[Schlag]][[Zeug]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter
 
 Kulturelle Bedeutung:
 Ein Schlagzeug ist ein Musikinstrument, das aus verschiedenen Trommeln und Becken besteht und typischerweise in Bands, Orchestern und anderen musikalischen Ensembles verwendet wird.

@@ -11,5 +11,5 @@ Synonyme:
 **Übersetzung**: university
 
 ---
-#Substantiv #Feminine
+#Substantiv #Feminin
 ```​⬤

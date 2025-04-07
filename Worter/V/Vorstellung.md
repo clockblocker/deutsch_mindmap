@@ -20,7 +20,7 @@ Morpheme:
 [[vor]][[stell]][[ung]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 ---
 Einzigartige mögliche Formen:

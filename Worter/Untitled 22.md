@@ -1,5 +1,5 @@
 #Nomen
-[can be multiple] Gender: #Feminin | #Maskulin | #Neutrum
+[can be multiple] Gender: #Feminin | #Maskulin | #Neuter
 Declension: #Stark | #Schwach
 Form: #Grundform | #Flektiert
 
@@ -7,7 +7,7 @@ Form: #Grundform | #Flektiert
 Type: #Possessiv | #Reflexiv | #Personal | #Generalisierendes | #Demonstrativ | #W-Pronomen | #Indefinit | #Quantifikativ
 [if applicable] + [can be multiple] Case: #Nominativ | #Akkusativ | #Dativ | #Genitiv
 [if applicable] + [can be multiple] Number: #Singular | #Plural
-[if applicable] + [can be multiple] Gender: #Feminin | #Maskulin | #Neutrum
+[if applicable] + [can be multiple] Gender: #Feminin | #Maskulin | #Neuter
 Form: #Grundform | #Flektiert
 
 #Verb
@@ -32,7 +32,7 @@ Form: #Grundform | #Flektiert
 
 #Artikel
 Type: #Bestimmt | #Unbestimmt
-Gender: #Feminin | #Maskulin | #Neutrum
+Gender: #Feminin | #Maskulin | #Neuter
 Case: #Nominativ | #Akkusativ | #Dativ | #Genitiv
 Form: #Grundform | #Flektiert
 

@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Baumwolle]], [[Baumwolles]], [[Baumwollen]], [[Baumwollen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

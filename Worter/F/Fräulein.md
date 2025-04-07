@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Fräulein]], [[Fräuleins]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

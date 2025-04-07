@@ -21,5 +21,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Waschtoilette]], [[Waschtoiletten]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter
 '''

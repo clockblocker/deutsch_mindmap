@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Dings]], [[Dinge]], [[Dingen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

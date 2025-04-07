@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kitzes]], [[Kitze]], [[Kitzes]], [[Kitze]], [[Kitzes]], [[Kitze]], [[Kitze]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Häufleins]], [[Häuflein]], [[Häufleinen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

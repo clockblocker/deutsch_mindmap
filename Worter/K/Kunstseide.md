@@ -17,7 +17,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kunststoffes]], [[Kunststoffe]], [[Kunststoffen]]
 
 ---
-#Substantiv #Neutrum 
+#Substantiv #Neuter 
 #Kompositum
 
 , [[Zellwolle]]

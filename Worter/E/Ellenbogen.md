@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ellenbogens]], [[Ellenbogen]], [[Ellenbogen]], [[Ellenbogen]]
 
 ---
-#Substantiv #Neutral, [[s1 e1]], [[Unterarm]]
+#Substantiv #Neuter, [[s1 e1]], [[Unterarm]]

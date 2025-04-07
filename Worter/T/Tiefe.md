@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tiefes]], [[Tiefen]], [[Tiefe]], [[Tiefer]], [[Tiefetn]], [[Tiefer]], [[Tiefes]]
 
 ---
-#Substantiv #Neutral, [[Stufe]], [[unten]]
+#Substantiv #Neuter, [[Stufe]], [[unten]]

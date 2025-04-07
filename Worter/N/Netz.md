@@ -22,5 +22,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Netzes]], [[Netze]], [[Netzen]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 , [[vernetzt]]

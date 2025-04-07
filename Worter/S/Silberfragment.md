@@ -20,7 +20,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Silberfragments]], [[Silberfragmenten]]
 
 ---
-#Substantiv #Neutrum #Kompositum
+#Substantiv #Neuter #Kompositum
 
 Weitere Informationen:
 - Zusammengesetzt aus [[Silber]] (silber) und [[Fragment]] (fragment)

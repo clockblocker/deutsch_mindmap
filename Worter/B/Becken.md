@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Beckens]], [[Becken]], [[Becken]], [[Becken]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

@@ -18,4 +18,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bärenhungers]], [[Bärenhunger]], [[Bärenhungern]]
 
 ---
-#Substantiv #Neutrum #Kompositum
+#Substantiv #Neuter #Kompositum

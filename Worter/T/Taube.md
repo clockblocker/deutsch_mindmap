@@ -10,7 +10,7 @@ dove, pigeon
 ---
 
 #Substantiv
-#Feminine
+#Feminin
 
 ---
 

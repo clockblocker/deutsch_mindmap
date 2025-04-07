@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Nachspeise]], [[Nachspeisen]], [[Nachspeise]], [[Nachspeise]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter

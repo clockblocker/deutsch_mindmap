@@ -19,7 +19,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Rückseite]], [[Rückseiten]], [[Rückseites]], [[Rückseite]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 The word is composed of two parts:
 - [[Rück]]: back, rear

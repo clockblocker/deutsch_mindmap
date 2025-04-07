@@ -19,7 +19,7 @@ Morpheme:
 [[Rosen]][[rot]]
 
 ---
-#Substantiv #Neutrum #Botanik
+#Substantiv #Neuter #Botanik
 
 
 Einzigartige mögliche Formen:

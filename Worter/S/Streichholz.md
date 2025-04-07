@@ -22,7 +22,7 @@ Einzigartige mögliche Formen:
 [[Streichholzes]], [[Streichholz]], [[Streichhölzer]], [[Streichhölzern]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 
 Zusätzliche Informationen:
 - Zusammengesetztes Wort aus [[streichen]] und [[Holz]]

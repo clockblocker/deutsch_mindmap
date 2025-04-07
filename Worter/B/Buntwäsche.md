@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Buntwäsches]], [[Buntwäsche]], [[Buntwäschen]], [[Buntwäschen]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

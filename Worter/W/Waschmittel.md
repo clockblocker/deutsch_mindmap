@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Waschmittels]], [[Waschmitteln]], [[Waschmittel]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter

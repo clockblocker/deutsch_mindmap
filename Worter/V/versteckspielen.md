@@ -17,7 +17,7 @@ Morpheme:
 [[versteck]][[spiel]][[en]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter
 
 Einzigartige mögliche Formen:
 [[Versteckspielen]], [[Versteckspielens]], [[Versteckspiele]], [[Versteckspielens]]

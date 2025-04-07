@@ -20,6 +20,6 @@ Morpheme:
 Einzigartige mögliche Formen: [[Werkes]], [[Werke]], [[Werken]]
 
 ---
-#Substantiv #Neutral
+#Substantiv #Neuter
 , [[schaffen]], [[Werkzeug]], [[Arbeit]]
 , [[Werksgelände]], [[Geschichtsbuch]], [[Kohlekraftwerk]]

@@ -19,5 +19,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Erbsenhirns]], [[Erbsenhirne]], [[Erbsenhirnen]]
 
 ---
-#Substantiv #Neutrum #Kompositum
+#Substantiv #Neuter #Kompositum
 , [[s1 e1]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Pferdes]], [[Pferde]], [[Pferden]]
 
 ---
-#Substantiv #Neutrum, [[Esel]], [[Schwein]]
+#Substantiv #Neuter, [[Esel]], [[Schwein]]

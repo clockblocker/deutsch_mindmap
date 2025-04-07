@@ -20,4 +20,4 @@ Einzigartige mögliche Formen:
 [[Familienmitglieds]], [[Familienmitglied]], [[Familienmitgliedern]], [[Familienmitgliede]]
 
 ---
-#Substantiv #Neutrum
+#Substantiv #Neuter
