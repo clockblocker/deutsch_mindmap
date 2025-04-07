@@ -1,6 +1,6 @@
 ### Bestimmte Artikel:
 
-| Case       | #Masculin | Feminin | #Neuter | #Plural |
+| Case       | #Maskulin  | Feminin | #Neuter | #Plural |
 | ---------- | --------- | ------- | ------- | ------- |
 | #Nominativ | [[Artikels_/der]]   | [[Artikels_/die]] | [[Artikels_/das]] | [[Artikels_/die]] |
 | #Akkusativ | [[den]]   | [[Artikels_/die]] | [[Artikels_/das]] | [[Artikels_/die]] |
@@ -9,7 +9,7 @@
 
 ### Unbestimmte Artikel:
 
-| Case       | #Masculin | #Feminin  | #Neuter   | #Plural |
+| Case       | #Maskulin  | #Feminin  | #Neuter   | #Plural |
 | ---------- | --------- | --------- | --------- | ------- |
 | #Nominativ | [[Artikels_/ein]]   | [[eine]]  | [[Artikels_/ein]]   | (none)  |
 | #Akkusativ | [[einen]] | [[eine]]  | [[Artikels_/ein]]   | (none)  |

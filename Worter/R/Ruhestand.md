@@ -1,1 +1,1 @@
-, [[Arbeitsplatz]], [[Lebensjahr]], [[Arbeitswelt]], [[Rente]], [[Pension]]
+, [[Arbeitsplatz]], [[Lebensjahr]], [[Arbeitswelt]], [[Rente]], [[Pension]], [[Arbeitsstelle]]

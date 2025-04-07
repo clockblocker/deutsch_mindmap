@@ -40,5 +40,5 @@ D: dem [[Rechercheergebnis]], den [[Rechercheergebnissen]]
 
 #Nomen #Pronomen #Adverb #Adjektiv #Verb #Artikel #Partikel 
 
-#Feminin #Masculin #Neuter
+#Feminin #Maskulin  #Neuter
 #Reflexiv 

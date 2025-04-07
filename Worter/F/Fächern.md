@@ -1,1 +1,1 @@
-, [[fach]], [[Fächer]]
+, [[Fach]], [[Fächer]]

@@ -19,7 +19,7 @@ tail
 ---
 
 #Substantiv
-#Masculine
+#Maskulin e
 
 ---
 

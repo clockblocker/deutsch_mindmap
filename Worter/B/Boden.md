@@ -22,7 +22,7 @@ floor, ground
 ---
 
 #Substantiv
-#Masculine
+#Maskulin e
 
 ---
 

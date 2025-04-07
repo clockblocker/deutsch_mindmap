@@ -12,7 +12,7 @@ Damit hat sie ein Thema angesprochen, das viele [[bewegt]]: Ihr Artikel wurde ü
 to multiply a thousand times, to increase a thousandfold
 
 ---
-[[tau]]|[[send]]|[[fach]]|[en]
+[[tau]]|[[send]]|[[Fach]]|[en]
 
 ---
 N: [[tausendfachen]], [[tausendfacher]], [[tausendfachster]]

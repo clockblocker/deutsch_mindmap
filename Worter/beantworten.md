@@ -11,7 +11,7 @@
 to answer, to reply
 
 ---
-[[be]]|[[ant]]|[[wort]]|[[en]]
+[[be]]|[[ant]]|[[Worter/W/Wort]]|[[en]]
 
 ---
 ich: [[beantworte]], [[beantwortete]], –, [[beantworte]], [[beantwortete]]

@@ -1,1 +1,1 @@
-, [[redlich]], [[ungerecht]]
+, [[redlich]], [[ungerecht]], [[ausgewogen]]

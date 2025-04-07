@@ -1,4 +1,4 @@
 [[Ruhe]], [[durchatmen]], [[Arbeit]]
 , [[Wutanfall]]
 , [[Termindruck]]
-, [[Anstrengung]], [[Muskelkater]], [[Zeitdruck]], [[Spaziergang]]
+, [[Anstrengung]], [[Muskelkater]], [[Zeitdruck]], [[Spaziergang]], [[Arbeitsdruck]]

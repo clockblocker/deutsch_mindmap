@@ -11,7 +11,7 @@ lesson, class
 ---
 
 #Substantiv
-#Masculine
+#Maskulin e
 
 ---
 

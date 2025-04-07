@@ -44,3 +44,9 @@ Setzen Sie die Präposition und den Artikel in dem richtigen Kasus ein.
 43. ... d... Wahl ... d... Vorsitzenden des Kegelvereins.
 44. Wilhelm hat große Freude ... sein... Umzug.
 45. Deine Meinung ... d... Vorgang teile ich nicht.
+
+вредная привычква
+==Schlechte Gewohnheit==
+
+###### Erklärung:
+1) ==Schlechte Gewohnheit==: `translation`

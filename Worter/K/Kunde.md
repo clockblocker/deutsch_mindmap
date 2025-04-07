@@ -28,6 +28,6 @@ Beispiele:
 
 Tags:
 #Substantiv
-#Masculin | #Feminin | #Neuter 
+#Maskulin  | #Feminin | #Neuter 
 
 ---, [[Urkunde]], [[Zeiser]]

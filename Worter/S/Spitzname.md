@@ -19,4 +19,4 @@ Morphems:
 [[Spitz]][[Name]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Maskulin 

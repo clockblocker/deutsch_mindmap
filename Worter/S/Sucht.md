@@ -21,4 +21,4 @@ Morphems:
 [[Sucht]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Maskulin 

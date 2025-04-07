@@ -25,4 +25,4 @@ Genitive: des [[Fachs]] oder [[Faches]], der [[Fächer]]
 Dative: dem [[Fach]], den [[Fächern]]
 
 ---
-[[fachlich]], [[fachkundig]], [[fachmännisch]], [[fachspezifisch]], [[Fachmann]], [[Fachfrau]], [[Fachkraft]], [[fach]], [[Fachrichtung]], [[tausendfachen]], [[tausendfach]], [[Fachwissen]], [[Schublade]]
+[[fachlich]], [[fachkundig]], [[fachmännisch]], [[fachspezifisch]], [[Fachmann]], [[Fachfrau]], [[Fachkraft]], [[Fach]], [[Fachrichtung]], [[tausendfachen]], [[tausendfach]], [[Fachwissen]], [[Schublade]], [[Studienfach]]

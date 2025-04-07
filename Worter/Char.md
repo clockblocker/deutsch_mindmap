@@ -7,7 +7,7 @@ die [[Chare]]
 ---
 = [[Zeichen]], [[Symbol]], [[Merkmal]]
 ≈ [[Buchstabe]], [[Figur]], [[Kennzeichen]]
-≠ [[Wort]], [[Satz]]
+≠ [[Worter/W/Wort]], [[Satz]]
 
 ---
 character, sign

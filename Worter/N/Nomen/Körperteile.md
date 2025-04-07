@@ -13,4 +13,4 @@ Bodypart
 ---
 
 #Substantiv
-#Masculin | #Feminin | #Neuter 
+#Maskulin  | #Feminin | #Neuter 

@@ -35,4 +35,4 @@ A: den [[Fall]], die [[Fälle]]
 G: des [[Falles]], der [[Fälle]]  
 D: dem [[Fall]], den [[Fällen]]
 
-, [[Abfall]], [[ausfallen]]
+, [[Abfall]], [[ausfallen]], [[entfallen]]

@@ -1,2 +1,2 @@
 , [[Verbreitung]]
-, [[Aufmerksamkeit]], [[Dichte]]
+, [[Aufmerksamkeit]], [[Dichte]], [[Ablenkung]]

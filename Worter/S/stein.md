@@ -20,7 +20,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Steins]], [[Steine]], [[Steinen]]
 
 ---
-#Substantiv #Maskulin🔵 der [[Felsen]], [ˈfɛlzən]
+#Substantiv #Maskulinder [[Felsen]], [ˈfɛlzən]
 die [[Felsen]]
 
 

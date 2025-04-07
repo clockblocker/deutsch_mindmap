@@ -18,3 +18,4 @@
 , [[erforderlich]], [[Gründer]], [[Mitbewerber]], [[Erhalt]], [[Aufsteiger]], [[Bewerber]], [[ergeben]], [[erweisen]], [[Geschichtsbuch]], [[Liebhaber]], [[Hobbybäuerin]], [[gleichermaßen]], [[Aufgabenerfüllung]], [[unerbittlich]], [[gliedern]], [[Sender]], [[Wecker]], [[verringern]], [[erkundigen]], [[Wegbereiter]], [[erzeugen]], [[Erkunden]], [[Naturschützer]], [[erneuerbar]], [[Saatgutsammler]], [[Erklärung]], [[Ersatz]], [[heben]], [[ferner]], [[Rechercheergebnis]]
 
 
+, [[erläutern]], [[Schulabgängerin]], [[Schulabgänger]]

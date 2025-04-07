@@ -1,1 +1,1 @@
-der [[Tee]] / die [[Tees]] | #Substantiv #Masculin | tea
+der [[Tee]] / die [[Tees]] | #Substantiv #Maskulin  | tea

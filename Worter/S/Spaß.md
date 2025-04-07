@@ -19,5 +19,5 @@ Morphems:
 [[Spaß]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Maskulin 
 

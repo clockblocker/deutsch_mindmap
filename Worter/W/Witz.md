@@ -13,7 +13,7 @@ Das ist doch ein [[Witz]]! Und dafür bekommen sie E-Mails von 633 F
 ---
 
 #Noun
-#Masculin
+#Maskulin 
 
 ---
 
@@ -26,5 +26,5 @@ Das ist doch ein [[Witz]]! Und dafür bekommen sie E-Mails von 633 F
 
 **Tags:**
 - #Noun
-- #Masculin
+- #Maskulin 
 , [[dafür]]

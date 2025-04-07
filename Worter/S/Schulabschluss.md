@@ -29,3 +29,4 @@ D: dem [[Schulabschluss]], den [[Schulabschlüssen]]
 [[abschließen]], [[schulisch]], [[Schulzeit]], [[Zeugnis]], [[graduieren]]
 
 , [[Abitur]], [[Abschluss]], [[Ersteinschulung]]
+, [[Schulabgängerin]], [[Schulabgänger]]

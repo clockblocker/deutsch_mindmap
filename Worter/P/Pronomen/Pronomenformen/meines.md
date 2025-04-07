@@ -1,6 +1,6 @@
 #pronomen #Possessivpronomen
 
-Meines ist die #Genitiv  und #Masculin form von [[mein]] 
+Meines ist die #Genitiv  und #Maskulin  form von [[mein]] 
 
 Beispiele:
 

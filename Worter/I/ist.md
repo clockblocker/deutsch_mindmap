@@ -1,1 +1,1 @@
-, [[sein]], [[Deutschland]], [[Polizist]], [[hinauslaufen]], [[resultieren]], [[geraten]], [[auftreten]], [[ausfallen]], [[zusinken]], [[absinken]], [[abströmen]], [[schmelzen]], [[kollabieren]], [[sterben]]
+, [[sein]], [[Deutschland]], [[Polizist]], [[hinauslaufen]], [[resultieren]], [[geraten]], [[auftreten]], [[ausfallen]], [[zusinken]], [[absinken]], [[abströmen]], [[schmelzen]], [[kollabieren]], [[sterben]], [[entfallen]]

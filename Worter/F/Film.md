@@ -1,1 +1,1 @@
-der [[Film]] / die [[Filme]] | #Substantiv #Masculin | film
+der [[Film]] / die [[Filme]] | #Substantiv #Maskulin  | film

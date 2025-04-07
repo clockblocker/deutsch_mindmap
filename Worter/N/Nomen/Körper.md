@@ -13,4 +13,4 @@ Body
 
  der [[Körperteil]]
  
-#Substantiv #Masculin 
+#Substantiv #Maskulin  

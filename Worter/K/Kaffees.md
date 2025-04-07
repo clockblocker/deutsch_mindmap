@@ -1,1 +1,1 @@
-der [[Kaffee]] / die [[Kaffees]] | #Substantiv #Masculin | coffee
+der [[Kaffee]] / die [[Kaffees]] | #Substantiv #Maskulin  | coffee

@@ -1,1 +1,1 @@
-, [[Wort]], [[Lückentext]]
+, [[Worter/W/Wort]], [[Lückentext]]

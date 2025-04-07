@@ -37,3 +37,5 @@ D: der [[Wirtschaft]], den [[Wirtschaften]]
 
 , [[Haushalt]], [[Gaststättenerlaubnis]], [[wirtschaftlich]]
 , [[Wirtschaftsform]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]]
+
+#Feminin

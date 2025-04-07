@@ -1,1 +1,1 @@
-, [[Anzahl]], [[summen]]
+, [[Anzahl]], [[summen]], [[Betrag]]

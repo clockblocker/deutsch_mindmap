@@ -1,1 +1,1 @@
-der [[Mund]] / die [[Münder]] | #Substantiv #Masculin | mouth
+der [[Mund]] / die [[Münder]] | #Substantiv #Maskulin  | mouth

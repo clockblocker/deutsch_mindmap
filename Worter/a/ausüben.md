@@ -5,6 +5,9 @@ haben [[ausgeübt]]
 ---
 Die [[Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
 
+Andererseits sind viele Menschen der festen Überzeugung, dass das Wichtigste dabei ist, das lieben, was man in seinem Leben [[ausüben]] wird. 
+
+
 Und sie stören die Konzentration auf die Tätigkeit, die wir gerade [[ausüben]]
 
 

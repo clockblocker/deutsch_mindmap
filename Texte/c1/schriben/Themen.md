@@ -1,3 +1,0 @@
-**Technologie und Digitalisierung**
-
-„

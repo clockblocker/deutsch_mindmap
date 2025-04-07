@@ -1,2 +1,2 @@
-der [[Zucker]] | #Substantiv #Masculin | sugar
+der [[Zucker]] | #Substantiv #Maskulin  | sugar
 , [[Honig]]

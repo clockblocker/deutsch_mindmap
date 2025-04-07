@@ -1,1 +1,1 @@
-, [[dick]], [[schmale]], [[gewaltigen]], [[gewaltig]], [[fett]], [[bullig]], [[stark]], [[Berg]]
+, [[dick]], [[schmale]], [[gewaltigen]], [[gewaltig]], [[fett]], [[bullig]], [[stark]], [[Berg]], [[erheblich]]

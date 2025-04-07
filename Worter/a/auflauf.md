@@ -19,4 +19,4 @@ Morphems:
 [[Konjunktion/Positionen/auf]][[lauf]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Maskulin 

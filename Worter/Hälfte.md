@@ -24,4 +24,4 @@ Genitive: der [[Hälfte]], der [[Hälften]]
 Dative: der [[Hälfte]], den [[Hälften]]  
 
 ---
-[[halbieren]], [[halbtags]], [[halbwegs]], [[halbherzig]], [[zusammenschrumpfen]]
+[[halbieren]], [[halbtags]], [[halbwegs]], [[halbherzig]], [[zusammenschrumpfen]], [[Kohlekraftwerk]]

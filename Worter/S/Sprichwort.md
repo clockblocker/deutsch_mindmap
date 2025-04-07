@@ -14,7 +14,7 @@ Synonyme:
 proverb, saying
 
 ---
-[[Sprech]][[wort]]
+[[Sprech]][[Worter/W/Wort]]
 
 ---
 Case: Singular, Plural  

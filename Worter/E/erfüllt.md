@@ -1,1 +1,1 @@
-, [[erfüllen]], [[gesättigt]]
+, [[erfüllen]], [[gesättigt]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]]

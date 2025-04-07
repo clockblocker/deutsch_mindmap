@@ -1,2 +1,2 @@
-der [[Name]] / die [[Namen]] | #Substantiv #Masculin | name
+der [[Name]] / die [[Namen]] | #Substantiv #Maskulin  | name
 , [[Bezeichnung]], [[Franz]], [[Firmennamen]]

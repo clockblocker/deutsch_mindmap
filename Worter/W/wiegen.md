@@ -3,6 +3,8 @@
 haben [[gewogen]]
 
 ---
+, [[wiegen]], [[ausgewogen]]
+
 _Er [[wog]] vielleicht ein halbes Lot –_  
 _und war am fünften Tage tot._
 

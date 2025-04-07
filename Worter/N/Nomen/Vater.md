@@ -15,5 +15,5 @@ Translation:
 
 ---
 
-#Substantiv #Masculin 
+#Substantiv #Maskulin  
 , [[s1 e1]]

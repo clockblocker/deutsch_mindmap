@@ -14,7 +14,7 @@ Antonyme: [[schweigen]], [[ignorieren]], [[verschweigen]]
 Übersetzung: to answer, to respond
 
 ---
-Morpheme: [[ant]][[wort]][[en]]
+Morpheme: [[ant]][[Worter/W/Wort]][[en]]
  #Verb  #Untrennbar
 
 ---

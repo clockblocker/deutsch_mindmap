@@ -3,7 +3,7 @@
 die [[Hänge]]
 
 ---
-*[[2#^3|^]]* Meine Schwester lebt in Stuttgart, ihr [[Viertel]] liegt an einem [[Hang]]. ^3
+*[[Lektionen/Bekker/verben/2#^3|^]]* Meine Schwester lebt in Stuttgart, ihr [[Viertel]] liegt an einem [[Hang]]. ^3
 
 , [[Vorhang]], [[Zusammenhang]]
 

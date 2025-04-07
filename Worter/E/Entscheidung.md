@@ -85,3 +85,5 @@ Die wirtschaftlichen Argumente sind vielfältig. Zunächst ist es schlichtweg te
 <agent_output>Die Punkte, die Pro-Autofreiheit-Gruppen normalerweise öffentlich präsentieren, lassen sich in zwei ==Teile== gliedern: "==d==ie Gesundheit der B==ü==rger" und "==d==ie wirtschaftlichen Vorteile für die Stadt"</agent_output>
 
 </example>
+
+#Feminin

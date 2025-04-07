@@ -2,6 +2,9 @@
 die [[Bedingungen]]
 
 ---
+	•	Erklären Sie, unter welchen [[Bedingungen]] sich ein Arbeitgeber für Home-Office aussprechen sollte.
+
+
 Unter [[solchen]] [[Bedingungen]] kann ich nicht arbeiten.
 
 *[[Golfstorm#^18|^]]* Die Meeresströmungen [[abschwächten|schwächten]] sich unter diesen [[Bedingungen]] [[erwartungsgemäß]] ab – aber sie [[kollabierten]] nicht. ^18
@@ -33,3 +36,5 @@ D: der [[Bedingung]], den [[Bedingungen]]
 
 , [[Grundlage]], [[Umstand]], [[Vorbehalt]]
 , [[Zustand]], [[Grundvoraussetzung]], [[Verhältnis]], [[Klimabedingung]]
+
+#Feminin

@@ -16,7 +16,7 @@ suit
 ---
 
 #Substantiv
-#Masculin
+#Maskulin 
 
 ---
 

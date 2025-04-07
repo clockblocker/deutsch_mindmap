@@ -5,7 +5,7 @@
 5. Viele Vögel sitzen auf dem Dach.  
 6. Sie legt den Löffel in die [[Schublade]].  
 7. Ihr legt die sauberen Handtücher in den Schrank.  
-8. Der Computer steht im zweiten Stock des Klassenzimmer.  
+8. Der Computer steht im zweiten Stock des Klassen[[zimmer]]
 9. Sie hängen ihren Mantel in die Garderobe.  
 10. Ich gehe abends früh ins Bett.  
 11. Das [[Geschirr]] steht noch auf dem Tisch.  
@@ -19,5 +19,16 @@
 19. Heute fahren wir _________ _________ Schwarzwald.  
 20. _________ _________ Rastplatz machen wir ein Picknick.  
 21. Wir machen einen Ausflug und fahren _________ _________ Berge.  
-22. Mit dem Schiff fahren wir _________ _________ _________ Meer.  
-23. Mit dem Auto fahren wir _________ _________ Straße.
+Wir machen einen Ausflug und fahren ==in die== Berge.
+
+###### Erklärung:
+1) ==in die==: Präposition "in" + Akkusativ (wohin?)
+2. Mit dem Schiff fahren wir _________ _________ _________ Meer.  
+3. Mit dem Auto fahren wir _________ _________ Straße.
+4. Mit dem Schiff fahren wir ==auf das== ==offene== Meer.
+5. Mit dem Auto fahren wir ==auf der== Straße.
+
+###### Erklärung:
+1) ==auf das==: Präposition "auf" + Akkusativ (wohin?)
+2) ==offene==: Adjektivdeklination nach bestimmtem Artikel
+3) ==auf der==: Präposition "auf" + Dativ (wo?)

@@ -1,1 +1,1 @@
-, [[Schulgebäude]]
+, [[Schulgebäude]], [[Bürofläche]]

@@ -1,4 +1,4 @@
-, [[fach]]🔴 die [[Abteilung]], [apˈtaɪ̯lʊŋ]
+, [[Fach]]🔴 die [[Abteilung]], [apˈtaɪ̯lʊŋ]
 die [[Abteilungen]]
 
 ---

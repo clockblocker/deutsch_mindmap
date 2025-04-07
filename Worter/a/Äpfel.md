@@ -1,2 +1,2 @@
-der [[Apfel]] / die [[Äpfel]] | #Substantiv #Masculin | apple
+der [[Apfel]] / die [[Äpfel]] | #Substantiv #Maskulin  | apple
 , [[Kürbisse]]

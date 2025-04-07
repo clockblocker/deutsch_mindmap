@@ -1,1 +1,1 @@
-, [[Gesellenprüfung]], [[Lehrstellensuche]]
+, [[Gesellenprüfung]], [[Lehrstellensuche]], [[Berufsgruppe]]

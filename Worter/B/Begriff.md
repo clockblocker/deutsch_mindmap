@@ -23,7 +23,7 @@ Ich kenne diesen [[Begriff]] nicht.
 	- [x] Der Begriff meint den [[Zusammenschluss]] europäischer Staaten zur EU.
 
 ---
-= [[Konzept]], [[Idee]], [[Vorstellung]], [[Wort]], [[Ausdruck]]
+= [[Konzept]], [[Idee]], [[Vorstellung]], [[Worter/W/Wort]], [[Ausdruck]]
 ≈ [[Terminus]], [[Gedanke]], [[Denkform]], [[Kategorie]]
 ≠ [[Nichtwissen]], [[Verwirrung]], [[Unklarheit]]
 

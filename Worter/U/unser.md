@@ -6,7 +6,7 @@
 - **Ich gebe [[unseren]] Freunden ein Geschenk** #Dativ (I give our fs a gift)
 - **Die Bücher [[unserer]] Freunde sind interessant**  #Genitiv (The books of our fs are interesting)
 
-#Masculin
+#Maskulin 
 - **[[unser]] Vater arbeitet hart**  #Nominativ (Our father works hard)
 - **Ich besuche [[unseren]] Vater**  #Akkusativ (I visit our father)
 - **Ich helfe [[unserem]] Vater im Garten**  #Dativ (I help our father in the garden)

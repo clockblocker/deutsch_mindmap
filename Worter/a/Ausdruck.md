@@ -23,5 +23,5 @@ Einzigartige mögliche Formen: [[Ausdrucks]], [[Ausdrucke]], [[Ausdrücke]], [[a
 ---
 #Substantiv #Maskulin
 
-, [[Wort]], [[Gesichtsausdruck]]
+, [[Worter/W/Wort]], [[Gesichtsausdruck]]
 , [[aussprechen]]

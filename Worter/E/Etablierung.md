@@ -1,1 +1,1 @@
-, [[Gründung]], [[etablieren]]
+, [[Gründung]], [[etablieren]], [[Einrichtung]]

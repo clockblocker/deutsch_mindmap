@@ -1,1 +1,1 @@
-[[einfach]], [ˈaɪ̯nfax], [[fach]], [[1 Präpositionen Übungen]], [[schlicht]]
+[[einfach]], [ˈaɪ̯nfax], [[Fach]], [[1 Präpositionen Übungen]], [[schlicht]]

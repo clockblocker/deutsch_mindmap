@@ -29,4 +29,4 @@ Beispiele:
 
 Tags:
 #Substantiv
-#Masculin
+#Maskulin 

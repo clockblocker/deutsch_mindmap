@@ -1,5 +1,5 @@
 das [[thema]]  
-die [[Texte/c1/schriben/Themen]]
+die [[Schriben/schriben/Themen]]
 
 ---
 
@@ -12,4 +12,4 @@ die [[Texte/c1/schriben/Themen]]
 ---
 
   **Translation:** The topics in the meeting were very diverse., [[Inhalt]]
-, [[Angelegenheit]]
+, [[Angelegenheit]], [[Studienfach]]

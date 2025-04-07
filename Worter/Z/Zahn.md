@@ -1,4 +1,4 @@
-der [[Zahn]] / die [[Zähne]] | #Substantiv #Masculin | tooth
+der [[Zahn]] / die [[Zähne]] | #Substantiv #Maskulin  | tooth
 
 🔵 🦷 der [[Zahn]], [t͡saːn]
 die [[Zähne]]

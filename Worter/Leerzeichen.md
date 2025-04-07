@@ -8,7 +8,7 @@ Setze ein [[Leerzeichen]] zwischen die Wörter.
 ---
 = [[Leerstelle]], [[Zwischenraum]]
 ≈ [[Abstand]], [[Freiraum]], [[Lücke]]
-≠ [[Buchstabe]], [[Zeichen]], [[Wort]]
+≠ [[Buchstabe]], [[Zeichen]], [[Worter/W/Wort]]
 
 ---
 space (character)

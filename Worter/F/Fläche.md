@@ -3,7 +3,7 @@
 die [[Flächen]]
 
 ---
-*[[2#^15|^]]* Meistens gibt es ja nur [[außerhalb]] der Städte [[freie]] [[Flächen]], etwa in den [[Schrebergärten]] am Stadtrand. ^15
+*[[Lektionen/Bekker/verben/2#^15|^]]* Meistens gibt es ja nur [[außerhalb]] der Städte [[freie]] [[Flächen]], etwa in den [[Schrebergärten]] am Stadtrand. ^15
 
 , [[Seite]], [[Feld]], [[Gebiet]], [[Ebene]]
 , [[Achse]], [[Grünfläche]], [[Hang]]
@@ -29,4 +29,4 @@ N: die [[Fläche]], die [[Flächen]]
 A: die [[Fläche]], die [[Flächen]]  
 G: der [[Fläche]], der [[Flächen]]  
 D: der [[Fläche]], den [[Flächen]]
-, [[Rasenfläche]], [[Quadratmeter]]
+, [[Rasenfläche]], [[Quadratmeter]], [[Bürofläche]]

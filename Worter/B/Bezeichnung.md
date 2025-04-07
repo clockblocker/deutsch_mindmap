@@ -7,7 +7,7 @@ die [[Bezeichnungen]]
 
 ---
 = [[Benennung]], [[Kennzeichnung]], [[Titel]]
-≈ [[Name]], [[Ausdruck]], [[Terminus]], [[Wort]],  [[sogenannt]]
+≈ [[Name]], [[Ausdruck]], [[Terminus]], [[Worter/W/Wort]],  [[sogenannt]]
 ≠ [[Anonymität]], [[Unbestimmtheit]], [[Vieldeutigkeit]]
 
 ---

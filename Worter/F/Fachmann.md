@@ -25,5 +25,5 @@ D: dem [[Fachmann]], den [[Fachmännern]]
 ---
 [[fachkundig]], [[fachmännisch]], [[Fachfrau]], [[Fachleute]]
 
-, [[Geselle]], [[Meister]], [[räter]], [[Schwuler]], [[fach]]
+, [[Geselle]], [[Meister]], [[räter]], [[Schwuler]], [[Fach]]
 , [[Fachrichtung]], [[Ingenieur]], [[Fachwissen]]

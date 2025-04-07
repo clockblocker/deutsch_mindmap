@@ -36,4 +36,4 @@ Partizip I: [[gebend]], Partizip II: [[gegeben]]
 
 [[übergeben]], [[zugeben]], [[kriegen]], [[schenken]]
 , [[aufgeben]], [[umgeben]], [[vergebens]], [[ausgeben]], [[abgeben]], [[Worter/ergeben]], [[s1 e1]], [[stiften]], [[Begebenheit]], [[begeben]]
-, [[zufriedengeben]], [[ergeben]]
+, [[zufriedengeben]], [[ergeben]], [[Arbeitgeber]]

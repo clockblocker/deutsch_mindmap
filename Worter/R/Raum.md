@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Raumes]], [[Raum]], [[Räume]], [[Räumen]]
 
 ---
-#Substantiv #Masculin , [[Entfernung]], [[Zelle]], [[Flur]], [[Halle]], [[Fläche]], [[Gymnastikraum]]
+#Substantiv #Maskulin  , [[Entfernung]], [[Zelle]], [[Flur]], [[Halle]], [[Fläche]], [[Gymnastikraum]]

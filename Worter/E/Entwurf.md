@@ -2,7 +2,7 @@
 die [[Entwürfe]]
 
 ---
-*[[2#^18|^]]* Es gibt viele Architekten, die diese Idee in ihren [[Entwürfen]] [[verarbeiten]]. ^18
+*[[Lektionen/Bekker/verben/2#^18|^]]* Es gibt viele Architekten, die diese Idee in ihren [[Entwürfen]] [[verarbeiten]]. ^18
 
 ---
 = [[Plan]], [[Skizze]], [[Konzept]]

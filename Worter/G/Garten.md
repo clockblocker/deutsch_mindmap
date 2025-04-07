@@ -1,2 +1,2 @@
-der [[Garten]] / die [[Gärten]] | #Substantiv #Masculin | garden
+der [[Garten]] / die [[Gärten]] | #Substantiv #Maskulin  | garden
 , [[Gartenzwerg]], [[Gartenzaun]], [[Grünfläche]], [[Schrebergarten]], [[Radieschen]], [[Acker]], [[Wildblumenwiese]], [[Rasenfläche]]

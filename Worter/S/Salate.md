@@ -1,1 +1,1 @@
-der [[Salat]] / die [[Salate]] | #Substantiv #Masculin | salad
+der [[Salat]] / die [[Salate]] | #Substantiv #Maskulin  | salad

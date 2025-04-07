@@ -1,1 +1,1 @@
-, [[fach]], [[Fachrichtung]]
+, [[Fach]], [[Fachrichtung]]

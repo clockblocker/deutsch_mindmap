@@ -1,6 +1,8 @@
 🏆 [[gelungen]], [ɡəˈlʊŋən] = [[gelingen]]
 
 ---
+* Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance.
+
 *Sokka ist es [[während]] [[dessen]] [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu*
 
 ---

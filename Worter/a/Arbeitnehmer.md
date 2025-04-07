@@ -30,4 +30,4 @@ D: dem [[Arbeitnehmer]], den [[Arbeitnehmern]]
 [[arbeitnehmerfreundlich]], [[Arbeitnehmerschutz]], [[Arbeitnehmerrechte]], [[Arbeitnehmerin]]
 
 [[Arbeitsverhältnis]], [[Rentner]], [[Arbeitswelt]], [[Gewerkschaft]]
-, [[Angestellte]], [[Erwerbstätige]]
+, [[Angestellte]], [[Erwerbstätige]], [[Belegschaft]]

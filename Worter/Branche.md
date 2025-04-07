@@ -23,4 +23,4 @@ Genitive: der [[Branche]], der [[Branchen]]
 Dative: der [[Branche]], den [[Branchen]]  
 
 ---
-[[branchenspezifisch]], [[branchenüblich]], [[branchenführend]]
+[[branchenspezifisch]], [[branchenüblich]], [[branchenführend]], [[Berufsgruppe]]

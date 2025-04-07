@@ -12,7 +12,7 @@ Damit hat sie ein Thema angesprochen, das viele [[bewegt]]: Ihr Artikel wurde ü
 thousandfold, a thousand times, thousandfold
 
 ---
-[[tau]]|[[send]]|[[fach]]
+[[tau]]|[[send]]|[[Fach]]
 
 ---
 N: [[tausendfach]]

@@ -9,7 +9,7 @@ _Alle [[melden]] sich und gehen weg. Sokka schlägt sich ins Gesicht_
 
  [[Einwohnermeldeamt]]
 
-*[[2#^7|^]]* Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
+*[[Lektionen/Bekker/verben/2#^7|^]]* Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
 
  [[Fehlermeldung]],
  

@@ -2,7 +2,7 @@
 die [[Patenschaften]]
 
 ---
-*[[2#^6|^]]* Jetzt hat eine [[Schulklasse]] eine [[Patenschaft]] für diese Bäume [[übernommen]]. ^6
+*[[Lektionen/Bekker/verben/2#^6|^]]* Jetzt hat eine [[Schulklasse]] eine [[Patenschaft]] für diese Bäume [[übernommen]]. ^6
 
 ---
 = [[Patronanz]], [[Förderung]], [[Unterstützung]]

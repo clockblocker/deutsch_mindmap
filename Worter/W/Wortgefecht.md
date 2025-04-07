@@ -15,7 +15,7 @@ verbal duel, argument
 словесная перепалка
 
 ---
-[[Wort]]|[[Gefecht]]
+[[Worter/W/Wort]]|[[Gefecht]]
 
 ---
 N: das [[Wortgefecht]], die [[Wortgefechte]]
@@ -24,4 +24,4 @@ G: des [[Wortgefechts]], der [[Wortgefechte]]
 D: dem [[Wortgefecht]], den [[Wortgefechten]]
 
 ---
-[[Wort]], [[Gefecht]], [[gefechten]], [[Wortwahl]], [[Wortmeldung]]
+[[Worter/W/Wort]], [[Gefecht]], [[gefechten]], [[Wortwahl]], [[Wortmeldung]]

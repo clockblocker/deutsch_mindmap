@@ -1,4 +1,4 @@
 Nominative: [[Artikels_/ein]]
 
-#Masculin #Dative: [[einem]]
+#Maskulin  #Dative: [[einem]]
 #Neuter #Dative: [[einem]]

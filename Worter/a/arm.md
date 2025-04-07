@@ -1,4 +1,4 @@
-der [[arm]] / die [[Arme]] | #Substantiv #Masculin | arm 
+der [[arm]] / die [[Arme]] | #Substantiv #Maskulin  | arm 
 
 ---
 [[arm]], [[ärmer]], [[am]] [[ärmsten]] | [[Armut]]

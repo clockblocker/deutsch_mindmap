@@ -14,5 +14,5 @@ Synonyme:
 **Übersetzung**: exit
 
 ---
-#Substantiv #Masculine
+#Substantiv #Maskulin e
 , [[Ergebnis]], [[Tür]], [[Ernte]], [[Zugang]]

@@ -22,6 +22,6 @@ Morphems:
 [[Un]][[Sinn]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Maskulin 
 
 , [[Schwachsinn]]

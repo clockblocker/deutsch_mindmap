@@ -1,1 +1,1 @@
-, [[Grundschulkind]]
+, [[Grundschulkind]], [[Schulabgängerin]]

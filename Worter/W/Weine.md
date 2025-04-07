@@ -1,2 +1,2 @@
-der [[Wein]] / die [[Weine]] | #Substantiv #Masculin | wine
+der [[Wein]] / die [[Weine]] | #Substantiv #Maskulin  | wine
 , [[weinen]]

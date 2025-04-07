@@ -22,4 +22,4 @@ G: der [[Schlagwörter]], der [[Schlagwörter]]
 D: den [[Schlagwörtern]], den [[Schlagwörtern]]  
 
 ---
-[[schlagen]], [[Wort]], [[stichwortartig]], [[Schlagzeile]]
+[[schlagen]], [[Worter/W/Wort]], [[stichwortartig]], [[Schlagzeile]]

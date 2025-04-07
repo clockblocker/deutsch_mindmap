@@ -1,1 +1,1 @@
-, [[Druck]], [[Last]], [[Umweltbelastung]]
+, [[Druck]], [[Last]], [[Umweltbelastung]], [[Arbeitsdruck]]

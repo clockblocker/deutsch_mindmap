@@ -4,7 +4,7 @@
 🤝 [[kümmern]], [ˈkʏmɐn] | [[kümmerte]], haben [[gekümmert]]
 
 ---
-*[[2#^7|^]]* Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
+*[[Lektionen/Bekker/verben/2#^7|^]]* Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
 
 | **Aang** | [[Kümmer]] dich um Appa bis ich wieder zurück bin, ja?      |
 | -------- | ----------------------------------------------------------- |

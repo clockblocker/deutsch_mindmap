@@ -12,7 +12,7 @@ Translation:
 ---
 
 #Substantiv
-#Masculin 
+#Maskulin  
 
 
 

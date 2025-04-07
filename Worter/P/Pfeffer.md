@@ -1,1 +1,1 @@
-der [[Pfeffer]] / die [[Pfeffer]] | #Substantiv #Masculin | pepper
+der [[Pfeffer]] / die [[Pfeffer]] | #Substantiv #Maskulin  | pepper

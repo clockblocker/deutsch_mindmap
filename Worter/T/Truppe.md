@@ -1,1 +1,1 @@
-, [[Heer]], [[Band]]
+, [[Heer]], [[Band]], [[Belegschaft]]

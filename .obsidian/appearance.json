@@ -10,7 +10,8 @@
     "custim-color-der-die-das",
     "custom-wortart",
     "custom-color-der-die-das",
-    "custom-block-ids"
+    "custom-block-ids",
+    "tabs"
   ],
   "translucency": false,
   "cssTheme": "Things",

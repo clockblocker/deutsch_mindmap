@@ -1,1 +1,1 @@
-, [[wichtig]], [[bedeutend]]
+, [[wichtig]], [[bedeutend]], [[erheblich]]

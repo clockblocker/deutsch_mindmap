@@ -1,1 +1,1 @@
-der [[Käse]] / die [[Käse]] | #Substantiv #Masculin | cheese
+der [[Käse]] / die [[Käse]] | #Substantiv #Maskulin  | cheese

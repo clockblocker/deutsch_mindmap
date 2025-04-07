@@ -25,4 +25,4 @@ Morphems:
 [[ab]][[gang]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Schulabgängerin]], [[Schulabgänger]]

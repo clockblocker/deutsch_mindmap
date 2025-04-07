@@ -1,84 +1,99 @@
 {
   "main": {
-    "id": "7b54233430d82e5f",
+    "id": "fc4ee5c9e4aac271",
     "type": "split",
     "children": [
       {
-        "id": "5633f11797158a5e",
-        "type": "tabs",
+        "id": "ed62c136acdcd474",
+        "type": "split",
         "children": [
           {
-            "id": "5d733019dc12078e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texte/c1/schriben/5 Brauchen wir Kohlekraftwerke?.md",
-                "mode": "source",
-                "source": false
+            "id": "677edd0e397d36f1",
+            "type": "split",
+            "dimension": 36.3754889178618,
+            "children": [
+              {
+                "id": "c81620b107ac0634",
+                "type": "tabs",
+                "dimension": 39.32748538011696,
+                "children": [
+                  {
+                    "id": "14ccbe85df61bcf4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Schriben/Рыба Teil 1.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Рыба Teil 1"
+                    }
+                  }
+                ]
               },
-              "icon": "lucide-file",
-              "title": "5 Brauchen wir Kohlekraftwerke?"
-            }
+              {
+                "id": "646091cf30947e1f",
+                "type": "tabs",
+                "dimension": 60.672514619883046,
+                "children": [
+                  {
+                    "id": "472447b412cb3e01",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Worter/G/Geist.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Geist"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
           },
           {
-            "id": "5ad9c5b7badb8b90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Kohlekraftwerke.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kohlekraftwerke"
-            }
-          },
-          {
-            "id": "f2b3a286caa88c50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Kohlekraftwerke.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kohlekraftwerke"
-            }
-          },
-          {
-            "id": "e2f58a13d4782b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Kohlekraftwerk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kohlekraftwerk"
-            }
+            "id": "a263e0551089a3da",
+            "type": "tabs",
+            "dimension": 63.6245110821382,
+            "children": [
+              {
+                "id": "6b2626645f7fd416",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Schriben/Model/Teil 1/0 Studieren - aber was?.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "0 Studieren - aber was?"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 3
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1cd8d8654e644fb3",
+    "id": "b0fddffd97f372b5",
     "type": "split",
     "children": [
       {
-        "id": "5324c7a728bb0b3e",
+        "id": "cf0e4c1b0ab5f31d",
         "type": "tabs",
         "children": [
           {
-            "id": "e313be86e2286860",
+            "id": "d5c66a8525949b3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,12 +106,12 @@
             }
           },
           {
-            "id": "75a792a5ed66f125",
+            "id": "a6d256d991173a40",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MaskulinI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +123,7 @@
             }
           },
           {
-            "id": "621d716b36bf9bfd",
+            "id": "c9b34f8d456fd8b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -117,28 +132,27 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
-    "id": "0ab1e072fc4dd144",
+    "id": "5551a767f2afb90d",
     "type": "split",
     "children": [
       {
-        "id": "9ab2bdef50439334",
+        "id": "adc7322127d91c81",
         "type": "tabs",
         "children": [
           {
-            "id": "05f9db21a0491969",
+            "id": "36f7be1e72687561",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worter/S/schloss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,11 +162,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for schloss"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "39bc8165d6b03546",
+            "id": "e49e4725b1e8a0b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -165,7 +179,7 @@
             }
           },
           {
-            "id": "aa2e7e72196c6ab6",
+            "id": "3c1ca57645d0f16f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,18 +194,17 @@
             }
           },
           {
-            "id": "d61fe203211a722e",
+            "id": "df62fd324cf64fd1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worter/H/hinzufügen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hinzufügen"
+              "title": "Outline"
             }
           }
         ]
@@ -213,53 +226,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e2f58a13d4782b50",
+  "active": "472447b412cb3e01",
   "lastOpenFiles": [
-    "Worter/S/Stromerzeugungsanlage.md",
-    "Worter/Kohlekraftwerk.md",
-    "Worter/Kohlekraftwerke.md",
-    "Texte/c1/schriben/5 Brauchen wir Kohlekraftwerke?.md",
-    "Worter/M/mag.md",
-    "Texte/b1/5 Welche Medien darf man im Büro privat nutzen?.md",
-    "Worter/S/sauer.md",
-    "Worter/K/klein.md",
-    "Worter/W/wild.md",
-    "Worter/C/chaotisch.md",
-    "Worter/S/stark.md",
-    "Worter/S/schmal.md",
-    "Worter/K/kleinsten.md",
-    "Worter/G/gut.md",
-    "Texte/b1/6 Umgangsformen im Geschäftsleben.md",
-    "Texte/b1/1 Haben Sie noch Zeit?.md",
-    "Worter/K/kleine.md",
-    "Worter/kleins`ten.md",
-    "Texte/Avatar/s1 e1.md",
-    "Worter/E/erklärte.md",
-    "Worter/E/erklären.md",
-    "Worter/E/Erdkönigreich.md",
-    "Worter/D/damals.md",
-    "Worter/S/See.md",
-    "Worter/S/schloss.md",
-    "Worter/often.md",
-    "Grammatik/Morphem/Praefix/List",
-    "Grammatik/Morphem/Praefix",
-    "Grammatik/Morphem",
-    "Worter/Grundform/Verb/a/b",
-    "Worter/Grundform/Verb/a",
-    "Worter/Grundform/Verb",
-    "Worter/Grundform",
-    "Grammatik/Präpositionen/List",
-    "Grammatik/Präpositionen/Übungen",
-    "Anhänge/Pasted image 20250320073302.png",
-    "Anhänge/Pasted image 20250320073257.png",
-    "Grammatik/Präpositionen/Präpositionen Gen/Untitled",
-    "Anhänge/Pasted image 20250224055949.png",
-    "Anhänge/Pasted image 20250224055705.png",
-    "Anhänge/Pasted image 20250224055357.png",
-    "Anhänge/Pasted image 20250222100655.png",
-    "Anhänge/pronomen.png",
-    "Anhänge/Pasted image 20250203051744.png",
-    "Anhänge/Pasted image 20250127154728.png",
-    "Anhänge/Pasted image 20250203084709.png"
+    "Schriben/Wortschatz.md",
+    "Worter/E/Einrichtung.md",
+    "Worter/EINRICHTUNGEN/_Index_of_EINRICHTUNGEN.md",
+    "Worter/APPARATUR/_Index_of_APPARATUR.md",
+    "Worter/EINRICHTER/_Index_of_EINRICHTER.md",
+    "Worter/EINRICHTUNGSSTIL/_Index_of_EINRICHTUNGSSTIL.md",
+    "Worter/EINRICHTUNGSSTIL/Einrichtungsstil.md",
+    "Worter/EINRICHTUNGSSTIL",
+    "Worter/EINRICHTER/Einrichter.md",
+    "Worter/EINRICHTER",
+    "Worter/APPARATUR/Apparatur.md",
+    "Worter/APPARATUR",
+    "Worter/EINRICHTUNGEN/Einrichtungen.md",
+    "Worter/EINRICHTUNGEN",
+    "Schriben/Model/Teil 1/0 Studieren - aber was?.md",
+    "Worter/B/bieten.md",
+    "Worter/günstiger.md",
+    "Worter/G/günstig.md",
+    "Worter/U/unterschätzt.md",
+    "Worter/U/unterschätzen.md",
+    "Worter/A/Ausbildung.md",
+    "Worter/L/Leisten.md",
+    "Schriben/Рыба Teil 1.md",
+    "Worter/Einkommen.md",
+    "Worter/Arbeitsstelle.md",
+    "Worter/ARBEITSSTELLEN/_Index_of_ARBEITSSTELLEN.md",
+    "Worter/ARBEITSKOLLEGE/_Index_of_ARBEITSKOLLEGE.md",
+    "Worter/ARBEITSKOLLEGE/Arbeitskollege.md",
+    "Worter/ARBEITSKOLLEGE",
+    "Worter/ARBEITSSTELLEN/Arbeitsstellen.md",
+    "Worter/ARBEITSSTELLEN",
+    "Worter/BETRÄCHTLICH/_Index_of_BETRÄCHTLICH.md",
+    "Worter/ERHEBLICHSTEM",
+    "Worter/ERHEBLICHSTEN",
+    "Worter/ERHEBLICHSTE",
+    "Worter/ERHEBLICHSTES"
   ]
 }

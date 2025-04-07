@@ -10,7 +10,7 @@ Beispiele:
 ---
 
 #Substantiv
-#Masculine
+#Maskulin e
 
 ---
 

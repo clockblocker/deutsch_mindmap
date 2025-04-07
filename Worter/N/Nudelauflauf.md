@@ -19,4 +19,4 @@ Morphems:
 [[Nudel]][[auflauf]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Maskulin 

@@ -14,4 +14,4 @@ Translation:
 
 ---
 
-#Substantiv #Masculin #Plural 
+#Substantiv #Maskulin  #Plural 

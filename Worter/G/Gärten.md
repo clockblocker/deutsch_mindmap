@@ -1,1 +1,1 @@
-der [[Garten]] / die [[Gärten]] | #Substantiv #Masculin | garden
+der [[Garten]] / die [[Gärten]] | #Substantiv #Maskulin  | garden

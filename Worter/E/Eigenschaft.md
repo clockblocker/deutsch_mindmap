@@ -4,6 +4,12 @@ die [[Eigenschaften]]
 ---
 [[2 Unter Druck nach oben#^16|(q)]] Auch bei den wichtigsten persönlichen [[Eigenschaften]] der [[Anwärter]] auf [[Spitzenpositionen]] [[fordern]] die Firmen [[vorrangig]] [[weiche]] [[Werte]], [[sogenannte]] Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikationsstärke liegen weit vorn. ^16
 
+
+Also, for the most important personal [[characteristics]] of the [[candidates]] for [[top positions]], companies [[primarily]] [[demand]] [[soft]] [[values]], [[so-called]] soft skills: self-motivation, teamwork, willingness to learn, and communication skills are far ahead. ^16
+
+
+
+
 [[2 Unter Druck nach oben#^19|(q)]] Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]. ^19
 
 

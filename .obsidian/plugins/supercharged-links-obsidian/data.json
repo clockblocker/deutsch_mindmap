@@ -45,6 +45,18 @@
       "selectAppend": false,
       "selectPrepend": false,
       "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Maskulin",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "d9ba-cd34",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": false
     }
   ]
 }

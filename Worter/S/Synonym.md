@@ -5,7 +5,7 @@ Beispiele:
  
 ---
 Synonyme:
-- [[Wort]]
+- [[Worter/W/Wort]]
 - [[Ausdruck]]
 - [[Äquivalent]]
 

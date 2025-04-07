@@ -12,4 +12,4 @@ Part
 
 ---
 
-#Substantiv #Masculin 
+#Substantiv #Maskulin  

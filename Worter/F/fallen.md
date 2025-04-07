@@ -9,6 +9,11 @@ Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es ma
 ≠ [[steigen]], [[aufsteigen]], [[klettern]]
 
 ---
+[[einfallen]]  - to come to mind
+[[ausfallen]] - to be cancelled
+[[entfallen]] - to be omitted
+
+---
 to fall, to drop
 
 ---
@@ -29,5 +34,4 @@ PI: [[fallend]], PII: [[gefallen]], Zu+inf: [[zu fallen]]
 ---
 [[Fall]], [[Sturz]], [[fallend]], [[Fallhöhe]], [[Fallgeschwindigkeit]]
 
-[[aufstehen]], [[stolpern]], [[plumpsen]]
-, [[ausfallen]], [[absinken]]
+[[aufstehen]], [[stolpern]], [[plumpsen]], [[ausfallen]], [[absinken]]

@@ -2,6 +2,8 @@
 [[richtete]], haben [[gerichtet]]
 
 ---
+- Erklären Sie , nach welchen Kriterien sich die Wahl des [[Studienfachs]] [[richten]] sollte .
+
 (Guckt wieder in das Fernrohr und [[richtet]] dads Fernrohr auf die Siedlung des südlichen Wasserstamms)
 
 171. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)

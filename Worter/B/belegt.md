@@ -1,1 +1,1 @@
-, [[leer]], [[voll]]
+, [[leer]], [[voll]], [[Belegschaft]]

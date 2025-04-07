@@ -29,3 +29,7 @@ D: dem [[Geist]], den [[Geistern]]
 
 ---
 [[geistig]], [[geistern]], [[Geisteswissenschaft]]
+, [[geisteswissenschaftlich]]
+
+#Maskulin 
+

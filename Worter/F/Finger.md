@@ -1,2 +1,2 @@
-der [[Finger]] / die [[Finger]] | #Substantiv #Masculin | finger
+der [[Finger]] / die [[Finger]] | #Substantiv #Maskulin  | finger
 , [[Daumen]], [[Fingernagel]], [[Faust]]

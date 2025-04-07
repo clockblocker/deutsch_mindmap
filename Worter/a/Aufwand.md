@@ -1,2 +1,2 @@
 , [[Einsatzes]], [[Bemühung]]
-, [[aufmachen]]
+, [[aufmachen]], [[Betrag]]

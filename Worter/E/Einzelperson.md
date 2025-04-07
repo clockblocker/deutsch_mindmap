@@ -1,1 +1,1 @@
-, [[Partei]], [[Gemeinde]], [[Behörde]], [[Bevölkerung]], [[Agentur]], [[Gemeinderat]], [[Stadtverwaltung]], [[Bürgerei]], [[Menschenmenge]]
+, [[Partei]], [[Gemeinde]], [[Behörde]], [[Bevölkerung]], [[Agentur]], [[Gemeinderat]], [[Stadtverwaltung]], [[Bürgerei]], [[Menschenmenge]], [[Berufsgruppe]]

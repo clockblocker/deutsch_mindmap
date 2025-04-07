@@ -1,2 +1,2 @@
 [[vereint]][[ruhig]], [[vereinbar]], [[wohlgeformt]], [[friedlich]]
-, [[einig]], [[verträglich]]
+, [[einig]], [[verträglich]], [[ausgewogen]]

@@ -1,1 +1,1 @@
-der [[Fuss]] / die [[Füsse]] | #Substantiv #Masculin | foot
+der [[Fuss]] / die [[Füsse]] | #Substantiv #Maskulin  | foot

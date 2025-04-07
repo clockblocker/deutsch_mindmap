@@ -1,6 +1,8 @@
 🤞 [[wünschen]], [ˈvʏnʃən] | [[wünschte]], haben [[gewünscht]], [[Wunsch]]
 
 ---
+Einerseits vertreten viele den Standpunkt, man sollte vor allem auf die Arbeitsmöglichkeiten des [[gewünschten]] [[Studiengangs]] achten. 
+
 Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Erfolg]]!“ sagen oder jemandem die Daumen [[drücken]]. Ob es hilft? [[Immerhin]]: Wer [[freut]] sich nicht darüber, dass an ihn [[gedacht]] wird?
 
 «Das macht nichts!» - lacht meine [[Schwester]]. «Wir helfen unserem

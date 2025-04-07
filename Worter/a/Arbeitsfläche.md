@@ -1,1 +1,1 @@
-, [[Schreibtisch]]
+, [[Schreibtisch]], [[Bürofläche]]

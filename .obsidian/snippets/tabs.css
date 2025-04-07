@@ -1,0 +1,41 @@
+.workspace-tab-header-container {
+    height: 24px;
+}
+
+svg.svg-icon {
+    height: 12px;
+}
+
+.view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+    padding: 12px;
+}
+
+.view-header {
+    height: 24px;
+}
+
+.view-header-title-container {
+    font-size: 10px;
+}
+
+.workspace-tab-header-container-inner {
+    margin-top: 2px;
+}
+
+.workspace-tab-header-inner-title {
+    font-size: 12px;
+}
+
+.sidebar-toggle-button {
+    padding: 0px;
+    padding-right: 2px;
+    height: auto;
+}
+
+.workspace-ribbon.mod-left {
+    margin-top: 24px;
+}
+
+.workspace-ribbon.mod-left:before {
+    height: 24px;
+}

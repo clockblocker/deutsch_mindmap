@@ -1,2 +1,2 @@
 , [[Elternzeit]], [[Arbeitsplatz]]
-, [[Arbeitsauftrag]]
+, [[Arbeitsauftrag]], [[Arbeitsstelle]]

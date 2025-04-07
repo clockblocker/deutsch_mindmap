@@ -24,7 +24,7 @@ end, conclusion
 ---
 
 #Substantiv
-#Masculin 
+#Maskulin  
 
 ---
 

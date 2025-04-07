@@ -3,6 +3,9 @@
 ---
 *[[4 Autofrei#^20|^]]*  Auf der anderen Seite werden ihnen zwei weitere große Thesen gegenübergestellt: "So war es und so ist es Brauch" und "Der staatliche [[Notfallschutz]] [[benötigt]] die [[autozentrierte]] Infrastruktur." ^20
 
+
+Dies lohnt sich sogar für den Arbeitgeber unter dem Aspekt der [[Kosteneinsparung]], da er weniger [[Bürofläche]] [[benötigt]] und dadurch die Kosten für Strom, Wasser und Reinigung sinken.
+
 ---
 = [[brauchen]], [[erfordern]], [[benötigen]],  [[bedürfen]]
 ≈ [[erwünschen]], [[verlangen]], [[fordern]], [[benötigen]]

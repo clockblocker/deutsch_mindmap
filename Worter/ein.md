@@ -6,4 +6,4 @@
 , [[einig]]
 , [[einschlafen]]
 , [[umsteigen]]
-, [[einverstanden]], [[einmalig]], [[Einschätzung]], [[einladen]], [[eindeutig]], [[einbringen]], [[einlassen]], [[einstellen]], [[Einklang]], [[Einblick]], [[Einfluss]]
+, [[einverstanden]], [[einmalig]], [[Einschätzung]], [[einladen]], [[eindeutig]], [[einbringen]], [[einlassen]], [[einstellen]], [[Einklang]], [[Einblick]], [[Einfluss]], [[Einrichtung]]

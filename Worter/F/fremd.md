@@ -38,4 +38,4 @@ Einzigartige mögliche Formen:
 [[fremdesten]], [[fremdester]], [[fremdeste]], [[fremdstes]], [[fremdesten]], [[fremdesten]], [[fremdester]], [[fremdesten]]
 
 , [[bekannt]], [[eigene]], [[verwandt]], [[kennen]], [[Unbekannten]], [[auswärtig]], [[einheimisch]], [[Fremdsprache]], [[weltfremd]], [[auswendig]]
-, [[fern]], [[Verwandte]]
+, [[fern]], [[Verwandte]], [[heimisch]]

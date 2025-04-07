@@ -1,2 +1,2 @@
 
-, [[Immobilienmakler]]
+, [[Immobilienmakler]], [[Bürofläche]]

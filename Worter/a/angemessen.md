@@ -1,4 +1,4 @@
 , [[passend]]
 , [[gelegen]]
 , [[entsprechend]]
-, [[übermäßig]], [[gemäßigt]]
+, [[übermäßig]], [[gemäßigt]], [[ausgewogen]]

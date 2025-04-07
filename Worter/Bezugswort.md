@@ -15,7 +15,7 @@ antecedent, referent
 опорное слово, референт
 
 ---
-[[Bezug]]+[[Wort]]
+[[Bezug]]+[[Worter/W/Wort]]
 
 ---
 N: das [[Bezugswort]], die [[Bezugswörter]]
@@ -24,5 +24,5 @@ G: des [[Bezugswortes]], der [[Bezugswörter]]
 D: dem [[Bezugswort]], den [[Bezugswörtern]]
 
 ---
-[[Bezug]], [[Wort]], [[bezüglich]], [[bezogen]], [[Wortart]]
+[[Bezug]], [[Worter/W/Wort]], [[bezüglich]], [[bezogen]], [[Wortart]]
 , [[entlanggehen]]

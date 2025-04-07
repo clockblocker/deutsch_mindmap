@@ -1,2 +1,2 @@
 
-, [[nachdenklich]]
+, [[nachdenklich]], [[geisteswissenschaftlich]]

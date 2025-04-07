@@ -1,1 +1,1 @@
-, [[Fachverkäufer]], [[fach]], [[Fachrichtung]]
+, [[Fachverkäufer]], [[Fach]], [[Fachrichtung]]

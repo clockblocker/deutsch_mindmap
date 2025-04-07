@@ -7,7 +7,7 @@ Ja, mein [[Sprachschatz]] ist nicht schlecht ^1
  
 
 ---
-= [[Wortschatz]], [[Lexikon]], [[Vokabular]]
+= [[Worter/W/Wortschatz]], [[Lexikon]], [[Vokabular]]
 ≈ [[Wortbestand]], [[Sprachgebrauch]], [[Redewendungen]]
 ≠ [[Nichtwissen]], [[Unkenntnis]], [[Sprachbarriere]]
 

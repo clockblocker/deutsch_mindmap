@@ -13,7 +13,7 @@ guy
 ---
 
 #Substantiv
-#Masculin
+#Maskulin 
 
 ---
 

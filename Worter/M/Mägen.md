@@ -1,1 +1,1 @@
-der [[Magen]] / die [[Mägen]] | #Substantiv #Masculin | stomach
+der [[Magen]] / die [[Mägen]] | #Substantiv #Maskulin  | stomach

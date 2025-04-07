@@ -18,4 +18,4 @@ Morphems:
 [[Nerv]][[en]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Maskulin 

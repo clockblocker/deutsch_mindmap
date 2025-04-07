@@ -1,4 +1,4 @@
-🟢 das [[Wort]], [vɔrt]
+🟢 das [[Worter/W/Wort]], [vɔrt]
 die [[Wörter]]
 
 
@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Wort]]
+[[Worter/W/Wort]]
 
 ---
 Einzigartige mögliche Formen: [[Worts]], [[Worte]], [[Worten]], [[Wörter]], [[Wörtern]]

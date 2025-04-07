@@ -1,6 +1,6 @@
 #pronomen #Possessivpronomen
 
-Meinem ist die #Dativ  und #Masculin  form von [[mein]] 
+Meinem ist die #Dativ  und #Maskulin   form von [[mein]] 
 
 Beispiele:
 

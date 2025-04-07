@@ -10,6 +10,6 @@ Translation:
 
 ---
 
-#Substantiv #Masculin 
+#Substantiv #Maskulin  
 , [[wie Hund und Katze sein]]
 , [[Igel]], [[Schweinehund]], [[Schwein]]

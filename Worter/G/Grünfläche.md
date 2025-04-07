@@ -2,7 +2,7 @@
 die [[Grünflächen]]
 
 ---
-*[[2#^2|^]]* Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]. ^2
+*[[Lektionen/Bekker/verben/2#^2|^]]* Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]. ^2
 
 , [[Wiesen]], [[Gras]], [[Wiese]], [[rasen]]
 

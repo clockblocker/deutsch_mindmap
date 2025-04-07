@@ -1,4 +1,4 @@
-🟢 das [[Ausbildung]], [ˈaʊ̯sbɪldʊŋ]
+🎓 🔴 die [[Ausbildung]], [ˈaʊ̯sˌbɪldʊŋ](https://youglish.com/pronounce/Ausbildung/german)
 die [[Ausbildungen]]
 
 
@@ -25,3 +25,6 @@ Einzigartige mögliche Formen: [[Ausbildung]], [[Ausbildungen]]
 
 ---
 #Substantiv #Neutral, [[Gesellenprüfung]], [[Erzie­hung]], [[Weiterbildung]], [[Lehrstellensuche]], [[Studiengang]]
+
+
+#Feminin 

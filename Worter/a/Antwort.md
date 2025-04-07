@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[ant]][[wort]]
+[[ant]][[Worter/W/Wort]]
 
 ---
 #Substantiv #Feminin, [[Lösung]], [[Auskunft]], [[Bescheid]], [[Verantwortung]], [[verantworten]]

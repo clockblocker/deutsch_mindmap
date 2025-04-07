@@ -21,4 +21,4 @@ Morphems:
 [[Rauch]][[melder]]
 
 ---
-#Substantiv #Masculin
+#Substantiv #Maskulin 

@@ -20,5 +20,5 @@ Morphems:
 [[Gesch]][[mack]]
 
 ---
-#Substantiv #Masculin, [[11 08]]
+#Substantiv #Maskulin , [[11 08]]
 , [[geschmacklos]]

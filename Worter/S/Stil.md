@@ -13,4 +13,4 @@ Synonyme:
 **Übersetzung**: style
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Lebensstil]]

@@ -19,7 +19,7 @@ Synonyme:
 ---
 
 #Substantiv
-#Masculin
+#Maskulin 
 
 ---
 

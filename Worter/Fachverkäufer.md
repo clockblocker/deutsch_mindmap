@@ -23,4 +23,4 @@ Genitive: des [[Fachverkäufers]], der [[Fachverkäufer]]
 Dative: dem [[Fachverkäufer]], den [[Fachverkäufern]] 
 
 ---
-[[verkaufen]], [[Fachhandel]], [[Fachkraft]], [[fach]]
+[[verkaufen]], [[Fachhandel]], [[Fachkraft]], [[Fach]]

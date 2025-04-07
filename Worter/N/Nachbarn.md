@@ -14,4 +14,4 @@ Translation:
 ---
 
 #Substantiv
-#Masculin | #Feminin | #Neuter 
+#Maskulin  | #Feminin | #Neuter 

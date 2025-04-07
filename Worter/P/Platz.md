@@ -20,4 +20,4 @@ Morphems:
 [[Platz]]
 
 ---
-#Substantiv #Masculin, [[Sitz]], [[Arbeitsplatz]], [[nicht am richtigen Platz sein]]
+#Substantiv #Maskulin , [[Sitz]], [[Arbeitsplatz]], [[nicht am richtigen Platz sein]]

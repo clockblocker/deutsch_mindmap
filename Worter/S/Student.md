@@ -1,1 +1,1 @@
-, [[Schüler]], [[Studierender]], [[studieren]], [[Studie]], [[Grundschulkind]]
+, [[Schüler]], [[Studierender]], [[studieren]], [[Studie]], [[Grundschulkind]], [[Schulabgänger]]

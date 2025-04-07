@@ -1,4 +1,4 @@
-Bezeichnet die Berührung einer [[senkrechten]] (wirklichen oder gedachten) Fläche oder die Bewegung gegen sie:
+	Bezeichnet die Berührung einer [[senkrechten]] (wirklichen oder gedachten) Fläche oder die Bewegung gegen sie:
 
 1) **Räumlich (Berührung einer Fläche oder Bewegung dorthin)**  
 	- Das Bild hängt `an` de*r* glatt*en* Wand  
@@ -35,7 +35,6 @@ Bezeichnet die Berührung einer [[senkrechten]] (wirklichen oder gedachten) Flä
                      `an` di*e* alt*en* Mauern  
 
 2) **Häufige Verben mit `an`**  
-
 	- **Mit Akkusativ (Bewegung, Zielgerichtetheit, Absicht)**  
 		- Wir denken `an` unser*en* Urlaub.  
 		- Ich glaube `an` ein*en* Gott.  

@@ -2,6 +2,8 @@
 die [[Bezüge]]
 
 ---
+Heute wird kontrovers darüber diskutiert, was für Kriterien [[Schulabgängerinnen]] und [[Schulabgänger]] [[berücksichtigen]] sollten, um die richtige Entscheidung in [[Bezug]] auf ihre Studienwahl zu treffen. 
+
 111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
 	- [ ] Die Politik Israels [[öffentlich]] kritisieren.
 	- [ ] Das [[Aufhängen]] einer israelischen Flagge auf dem [[Privatgrundstück]].
@@ -35,4 +37,4 @@ D: dem [[Bezug]], den [[Bezügen]]
 , [[Decke]]
 , [[bezogen]]
 , [[Bezugswort]]
-, [[Abonnement]]
+, [[Abonnement]], [[Schulabgänger]]

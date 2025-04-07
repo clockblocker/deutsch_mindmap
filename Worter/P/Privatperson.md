@@ -1,1 +1,1 @@
-, [[Gemeinde]], [[Staatsgast]], [[Agentur]], [[Gemeinderat]]
+, [[Gemeinde]], [[Staatsgast]], [[Agentur]], [[Gemeinderat]], [[Berufsgruppe]]

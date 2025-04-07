@@ -4,4 +4,4 @@ Plural: die [[hungern]]
 
 
 #Substantiv
-#Masculin, [[Bärenhunger]]
+#Maskulin , [[Bärenhunger]]

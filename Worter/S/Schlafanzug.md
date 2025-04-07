@@ -24,7 +24,7 @@ pajamas, sleepwear
 ---
 
 #Substantiv
-#Masculin
+#Maskulin 
 
 Morphems:
 - [[Schlaf]][[Anzug]]

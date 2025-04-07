@@ -59,4 +59,4 @@ Adjektive: [[fehlend]], [[fehlender]], [[fehlendst]]
 ---
 [[fehlender]], [[fehlendes]], [[fehlende]], [[fehlenden]], [[fehlendem]], [[fehlenderer]], [[fehlenderes]], [[fehlendere]], [[fehlenderen]], [[fehlenderem]], [[fehlendster]], [[fehlendstes]], [[fehlendste]], [[fehlendsten]], [[fehlendstem]]
 
-[[deutsche]], [[ausfallen]]
+[[deutsche]], [[ausfallen]], [[entfallen]]

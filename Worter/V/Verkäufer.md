@@ -22,9 +22,9 @@ Beispiele:
 
 Tags:
 #Substantiv
-#Masculin | #Feminin | #Neuter 
+#Maskulin  | #Feminin | #Neuter 
 
 ---
 
 , [[Fachverkäufer]], [[Buchhalter]], [[Sammler]]
-, [[Immobilienmakler]], [[Verkauf]]
+, [[Immobilienmakler]], [[Verkauf]], [[Einzelhändler]]

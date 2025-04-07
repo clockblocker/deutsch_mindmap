@@ -1,1 +1,1 @@
-, [[einrichten]]
+, [[einrichten]], [[Einrichtung]]

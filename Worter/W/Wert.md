@@ -32,4 +32,7 @@ D: dem [[Wert]], den [[Werten]]
 
 ---
 [[werten]], [[wertvoll]], [[Wertsache]], [[Wertschätzung]], [[bewerten]], [[Anki]], [[Informationswert]]
-, [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]]
+, [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]], [[Betrag]]
+
+
+#Maskulin 

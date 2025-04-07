@@ -1,1 +1,1 @@
-, [[Studierender]], [[Dozent]], [[Forscher]]
+, [[Studierender]], [[Dozent]], [[Forscher]], [[Schulabgänger]]

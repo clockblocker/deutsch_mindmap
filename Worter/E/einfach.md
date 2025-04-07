@@ -32,7 +32,7 @@ simple, easy
 
 ---
 Morpheme:
-[[ein]][[fach]]
+[[ein]][[Fach]]
 
 ---
 
@@ -68,8 +68,8 @@ simple, easy | simple, plain
 [[Vereinfachung]], [[vereinfachen]], [[Einfachheit]], [[einfachheitshalber]] | [[einfach]], [[Einfachheit]]
 
 ---
-[[ein]]|[[fach]]
-[[ein]] + [[fach]]
+[[ein]]|[[Fach]]
+[[ein]] + [[Fach]]
 
 
 ---

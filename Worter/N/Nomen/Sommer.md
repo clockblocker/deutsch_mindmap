@@ -1,6 +1,6 @@
 [[Jahreszeit]]
 ![[Pasted image 20240618145621.png]]
-#Substantiv #Masculin 
+#Substantiv #Maskulin  
 
 
 im Juni (юнИ)

@@ -55,4 +55,4 @@ sie, [[schalten ab]], [[schalteten ab]], [[schalten ab]], [[schalteten ab]], [[s
 Adjektive: [[abschaltend]], [[abschaltender]], [[abschaltendst]]
 
 ---
-[[abschaltender]], [[abschaltendes]], [[abschaltende]], [[abschaltenden]], [[abschaltendem]], [[abschaltenderer]], [[abschaltenderes]], [[abschaltendere]], [[abschaltenderen]], [[abschaltenderem]], [[abschaltendster]], [[abschaltendstes]], [[abschaltendste]], [[abschaltendsten]], [[abschaltendstem]]
+[[abschaltender]], [[abschaltendes]], [[abschaltende]], [[abschaltenden]], [[abschaltendem]], [[abschaltenderer]], [[abschaltenderes]], [[abschaltendere]], [[abschaltenderen]], [[abschaltenderem]], [[abschaltendster]], [[abschaltendstes]], [[abschaltendste]], [[abschaltendsten]], [[abschaltendstem]], [[Kohlekraftwerk]]

@@ -1,1 +1,1 @@
-, [[eben]], [[regelmäßig]], [[Gleichheit]]
+, [[eben]], [[regelmäßig]], [[Gleichheit]], [[ausgewogen]]

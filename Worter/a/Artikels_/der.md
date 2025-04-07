@@ -2,7 +2,7 @@
 [[Artikels]]
 
 der [[Tod]]
-#Nominativ  #Masculin #bestimmte
+#Nominativ  #Maskulin  #bestimmte
 
 --- 
 

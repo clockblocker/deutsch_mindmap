@@ -13,7 +13,7 @@ Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nut
 many times, frequently, often
 
 ---
-[[viel]]|[[fach]]
+[[viel]]|[[Fach]]
 
 ---
 N: [[vielfach]], [[vielfacher]], [[vielfachster]]  

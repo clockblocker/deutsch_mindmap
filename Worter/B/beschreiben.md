@@ -33,4 +33,4 @@ PI: [[beschreibend]], PII: [[beschrieben]], Zu+inf: [[zu beschreiben]]
 [[beschreiben]] - [[be]] = [[schreiben]] / to describe, to portray, to depict
 
 ---
-[[Beschreibung]], [[Beschreiber]], [[beschreibbar]], [[Beschreibung]], [[beschreibend]]
+[[Beschreibung]], [[Beschreiber]], [[beschreibbar]], [[Beschreibung]], [[beschreibend]], [[erläutern]]

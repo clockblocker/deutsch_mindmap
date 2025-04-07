@@ -1,1 +1,1 @@
-, [[Reihe]], [[Verwaltung]], [[Auflistung]], [[Verwaltungsaufbau]], [[Verfügung]], [[Satzklammer]]
+, [[Reihe]], [[Verwaltung]], [[Auflistung]], [[Verwaltungsaufbau]], [[Verfügung]], [[Satzklammer]], [[Datenbank]], [[Einrichtung]]

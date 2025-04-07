@@ -2,7 +2,7 @@
 die [[Stadtmauern]]
 
 ---
-*[[2#^11|^]]* [[Entlang]] der [[Stadtmauer]], wo früher eine traurige Wiese war, wachsen jetzt zum Beispiel Tomaten, Zwiebeln und Kartoffeln. ^11
+*[[Lektionen/Bekker/verben/2#^11|^]]* [[Entlang]] der [[Stadtmauer]], wo früher eine traurige Wiese war, wachsen jetzt zum Beispiel Tomaten, Zwiebeln und Kartoffeln. ^11
 
 ---
 = [[Befestigung]], [[Wehr]], [[Wall]]

@@ -1,1 +1,1 @@
-der [[Ring]] / die [[Ringe]] | #Substantiv #Masculin | ring
+der [[Ring]] / die [[Ringe]] | #Substantiv #Maskulin  | ring

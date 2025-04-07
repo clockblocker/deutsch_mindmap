@@ -10,7 +10,7 @@ TV, television
 ---
 
 #Substantiv
-#Masculine
+#Maskulin e
 
 ---
 

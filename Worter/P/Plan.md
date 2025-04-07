@@ -11,7 +11,7 @@ plan
 ---
 
 #Substantiv
-#Masculine
+#Maskulin e
 
 ---
 

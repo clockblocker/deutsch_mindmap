@@ -1,1 +1,1 @@
-, [[Bilanz]]
+, [[Bilanz]], [[Buchhaltung]]

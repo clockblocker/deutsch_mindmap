@@ -1,1 +1,1 @@
-, [[schmücken]], [[Verdienstorden]], [[Vorhang]]
+, [[schmücken]], [[Verdienstorden]], [[Vorhang]], [[Ausstattung]]

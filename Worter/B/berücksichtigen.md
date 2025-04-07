@@ -3,6 +3,8 @@
 ---
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 
+Heute wird kontrovers darüber diskutiert, was für Kriterien [[Schulabgängerinnen]] und [[Schulabgänger]] [[berücksichtigen]] sollten, um die richtige Entscheidung in [[Bezug]] auf ihre Studienwahl zu treffen.
+
 *[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]] 
 
 1. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
@@ -32,4 +34,4 @@ PI: [[berücksichtigend]], PII: [[berücksichtigt]], Zu+inf: [[zu berücksichtig
 [[berücksichtigen]] - [[be]] = [[Rücksicht]] / to consider, to take into account
 
 ---
-[[Berücksichtigung]], [[rücksichtsvoll]], [[Rücksicht]], [[sichtig]], [[beachten]], [[einzigartig]]
+[[Berücksichtigung]], [[rücksichtsvoll]], [[Rücksicht]], [[sichtig]], [[beachten]], [[einzigartig]], [[Schulabgänger]]

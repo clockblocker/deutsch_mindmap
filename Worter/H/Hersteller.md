@@ -1,1 +1,1 @@
-, [[herstellen]], [[Beiersdorf]]
+, [[herstellen]], [[Beiersdorf]], [[Einzelhändler]]
