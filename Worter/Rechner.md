@@ -7,7 +7,7 @@ Eigentlich [[versteht]] Uli viel von Computern, aber hier ist er wirklich [[ratl
 
 ---
 Synonyme:
-- [[Computer]], [[PC]], [[Elektronengehirn]], [[Apparat]], [[Maschine]]
+- [[Computer]], [[Worter/P/PC]], [[Elektronengehirn]], [[Apparat]], [[Maschine]]
 
 ---
 computer, calculating machine

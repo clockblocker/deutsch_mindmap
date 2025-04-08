@@ -3,18 +3,15 @@
 
 *Heute wird kontrovers darüber diskutiert, was die Regierungen mit* `jM` *tun sollten, um die Herausforderungen* `jS` *zu bewältigen*
 
-*oder ob eine solche Handlungsweise nur als* temporäre Krisenmaßnahme *angesehen werden sollte.*
-
 ---
 *Ich verfolge schon seit geraumer Zeit eure Beiträge zu* `jM` *und möchte nun auch etwas dazu schreiben.*
 
-*Zunächst möchte ich erst einmal feststellen, dass* 
+*Heute wird kontrovers darüber diskutiert, ob* ... *sollten*, *oder ob eine solche Handlungsweise nur als* ... *angesehen werden sollte.*
 
 
 ---
 ---
 ##### Seite 1
-
 *Auf der einen Seite vertreten viele `jD` den Standpunkt,*
 - *man sollte vor allem auf* `jN` *achten.*
 - *dass* `nicht nur` ... `sondern zusätzlich auch` ...
@@ -75,3 +72,17 @@
 *Ein weiterer Vorteil|Nachteil sind* 
 *Außerdem:*
 *Und nicht zuletzt:* 
+
+
+---
+---
+---
+*Ich verfolge schon seit geraumer Zeit eure Beiträge zu* `jM` *und möchte nun auch etwas dazu schreiben.*
+
+*Heute wird kontrovers darüber diskutiert, ob* ... *sollten*, *oder ob eine solche Handlungsweise nur als* ... *angesehen werden sollte.*
+
+*Auf der einen Seite vertreten viele `jD` den Standpunkt,* *dass* `nicht nur` ... `sondern zusätzlich auch` ...
+
+
+
+*Auf der anderen Seite sind viele* `jD` *der festen Überzeugung, dass* *(+das Wichtigste dabei ist,)* `Nebensatz`
