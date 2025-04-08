@@ -4,6 +4,8 @@ die [[Vorteile]]
 ---
 * Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance.
 
+- Ein [[Vorteil]] des Unternehmens ist es, wenn man meist zu Fuß zur Arbeit kommt
+
 •	Erläutern Sie [[Vorteile]] für Arbeiten im Büro einer Firma.
 
 Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können. „Stopp!“, ruft Jannis. „Du bekommst ja dein Budget. Und jetzt [[aufhören|hör]] auf, mir Honig um den Bart zu schmieren. Natürlich sehe ich die [[Vorteile]] selbst. Ich arbeite ja schon lange in dieser [[Branche]].“ 
@@ -32,4 +34,4 @@ Genitive: des [[Vorteils]], der [[Vorteile]]
 Dative: dem [[Vorteil]], den [[Vorteilen]] 
 
 [[vorteilhaft]], [[vorteilen]]
-, [[Gelegenheit]], [[Erfolgsfaktor]], [[Mehrwert]]
+, [[Gelegenheit]], [[Erfolgsfaktor]], [[Mehrwert]], [[Nachteil]]

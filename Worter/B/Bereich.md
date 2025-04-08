@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bereichs]], [[Bereichen]]
 
 ---
-#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]]
+#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]], [[Abteilung]]

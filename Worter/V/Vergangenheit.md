@@ -28,4 +28,4 @@ G: der [[Vergangenheit]], der [[Vergangenheiten]]
 D: der [[Vergangenheit]], den [[Vergangenheiten]]  
 
 ---
-[[vergangen]], [[vergangenheitsbezogen]], [[vergänglich]], [[Zeitvergangenheit]]
+[[vergangen]], [[vergangenheitsbezogen]], [[vergänglich]], [[Zeitvergangenheit]], [[Ausblick]]

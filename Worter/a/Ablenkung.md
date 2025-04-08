@@ -31,3 +31,6 @@ D: der [[Ablenkung]], den [[Ablenkungen]]
 , [[Aufmerksamkeit]]
 , [[ablenken]]
 , [[ablenkbar]]
+
+
+#Feminin

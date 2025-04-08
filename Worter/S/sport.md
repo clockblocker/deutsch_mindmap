@@ -23,4 +23,4 @@ G: des [[Sports]], der [[Sportarten]]
 D: dem [[Sport]], den [[Sportarten]]  
 
 ---
-[[sportlich]], [[sporttreiben]], [[Sportsgeist]], [[Sportler]], [[sporteln]]
+[[sportlich]], [[sporttreiben]], [[Sportsgeist]], [[Sportler]], [[sporteln]], [[Bewegungsmangel]]

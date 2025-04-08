@@ -37,4 +37,4 @@ Morpheme: [[ver]][[änder]][[n]]
 
 Partizip I: [[verändernd]], Partizip II: [[verändert]]
 
-[[verändern]] - [[ver]] = [[ändern]], [[bleiben]], [[verwandeln]], [[verarbeiten]], [[umkehren]], [[anpassen]], [[auswirken]], [[wenden]]
+[[verändern]] - [[ver]] = [[ändern]], [[bleiben]], [[verwandeln]], [[verarbeiten]], [[umkehren]], [[anpassen]], [[auswirken]], [[wenden]], [[umstellen]]

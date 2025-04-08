@@ -1,1 +1,1 @@
-, [[Aussicht]], [[Zukunft]]
+, [[Aussicht]], [[Zukunft]], [[Ausblick]]

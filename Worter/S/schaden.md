@@ -56,4 +56,4 @@ PI: [[schadend]], PII: [[geschadet]], Zu+inf: [[zuschaden]]
 [[schaden]] / to harm, to damage, to be detrimental
 
 ---
-[[Schaden]], [[Schadensersatz]], [[schädlich]], [[beschädigen]], [[unschädlich]], [[Schädliches]], [[Mehrwert]]
+[[Schaden]], [[Schadensersatz]], [[schädlich]], [[beschädigen]], [[unschädlich]], [[Schädliches]], [[Mehrwert]], [[Nachteil]]

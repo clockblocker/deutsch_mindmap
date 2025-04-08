@@ -1,1 +1,1 @@
-, [[Bereich]], [[Fach]], [[Sektor]]
+, [[Bereich]], [[Fach]], [[Sektor]], [[Abteilung]]

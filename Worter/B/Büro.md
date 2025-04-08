@@ -26,3 +26,6 @@ D: dem [[Büro]], den [[Büros]]
 
 , [[Plenarsaal]], [[Behörde]], [[Arbeitsplatz]], [[Agentur]], [[Amt]]
 , [[Niederlassung]], [[Büroangestellte]], [[Bürofläche]], [[Arbeitsstelle]]
+
+
+#Neuter , [[Abteilung]]

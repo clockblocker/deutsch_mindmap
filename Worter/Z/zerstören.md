@@ -1,2 +1,2 @@
 , [[zeugen]], [[schaffen]], [[errichteten]], [[malen]], [[erstellen]], [[zerstörten]], [[herstellen]], [[vernichten]]
-, [[aufrechterhalten]], [[züchten]], [[designen]], [[etablieren]], [[erzeugen]]
+, [[aufrechterhalten]], [[züchten]], [[designen]], [[etablieren]], [[erzeugen]], [[verfassen]]

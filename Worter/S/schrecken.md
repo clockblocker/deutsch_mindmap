@@ -52,6 +52,6 @@ Morphems:
 [[Schreck]][[en]]
 
 ---
-#Substantiv #MaskulinI'll analyze the word "schrecken" and create an appropriate dictionary entry.
+#Substantiv #Maskulin'll analyze the word "schrecken" and create an appropriate dictionary entry.
 
 , [[abschrecken]]

@@ -30,4 +30,4 @@ respectively, or rather, or
 [[Beziehung]], [[beziehen]], [[weise]], [[weisen]], [[beziehungslos]]
 [[Beziehung]], [[Beziehung]], [[Anki]], [[jeweils]], [[entweder]]
 
-[[der Deutscher]], [[Konnektivpartikeln]]
+[[der Deutscher]], [[Konnektivpartikeln]], [[Zugriff]]

@@ -27,4 +27,4 @@ D: der [[Bewegung]], den [[Bewegungen]]
 
 ---
 [[bewegen]], [[Bewegungsablauf]], [[beweglich]], [[bewegend]], [[Bewegungsapparat]]
-[[Schritt]], [[Partei]], [[Spielzug]], [[Sport]], [[begeben]], [[Spaziergang]], [[Umwälzzirkulation]]
+[[Schritt]], [[Partei]], [[Spielzug]], [[Sport]], [[begeben]], [[Spaziergang]], [[Umwälzzirkulation]], [[Bewegungsmangel]]

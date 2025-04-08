@@ -1,3 +1,3 @@
 , [[Kunstinteresse]]
 , [[Freizeitaktivität]]
-, [[Aufmerksamkeit]], [[Neugier]], [[Bedürfnis]], [[Lernbereitschaft]]
+, [[Aufmerksamkeit]], [[Neugier]], [[Bedürfnis]], [[Lernbereitschaft]], [[Vorliebe]]

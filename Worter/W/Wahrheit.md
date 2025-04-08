@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Wahrheit]], [[Wahrheiten]]
 
 ---
-#Substantiv #Feminin, [[Betrugsmanöver]]
+#Substantiv #Feminin, [[Betrugsmanöver]], [[wahrnehmen]]

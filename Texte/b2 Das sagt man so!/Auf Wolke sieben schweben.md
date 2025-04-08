@@ -6,6 +6,9 @@ Manchmal ist das Leben einfach perfekt.
 
 Auf [[Wolke]] sieben [[schweben]]
 
+[[vorstellen]]
+
+
 [[stehen]]
 
 Während Diana erklärt, was „[[Sahne]]“ ist, bemerkt sie, dass der Mann wunderschöne Augen hat. „Ich bin aus Kanada“, sagt er. 

@@ -4,6 +4,8 @@ nicht [[privat]]
 ---
 Sie ist eine Person des [[öffentlichen]] Lebens.
 
+- *das Auto oder den* [[öffentlichen]] [[Verkehrsmittel]] *benutzt*
+
 *[[4 Autofrei#^7|^]]* Zuerst ist es einfach wirklich teuer, ein Motor pro Person zu haben, [[verglichen]] mit Angebot "ein Motor pro 100 Personen", das die Stadt mit dem [[öffentlichen]] Transport erreichen können. ^7
 
 *[[4 Autofrei#^4|^]]* Die Punkte, die Pro-Autofreiheit-Gruppen normalerweise [[öffentlich]] präsentieren, lassen sich in zwei Teilen [[gliedern]]: "Die Gesundheit der Burger" und "Die [[wirtschaftlichen]] [[Vorteile]] für die Stadt"  ^4

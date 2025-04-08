@@ -1,12 +1,12 @@
-, [[Fach]]🔴 die [[Abteilung]], [apˈtaɪ̯lʊŋ]
+🔴 die [[Abteilung]], [apˈtaɪ̯lʊŋ]
 die [[Abteilungen]]
 
 ---
-
+Ein weiterer Vorteil des Büros ist, dass es fast einfacher ist, alles unter einen Hut zu bringen, wenn alle [[Abteilung]] in einem Gebäude sitzen.
 
 ---
 = [[Sektion]], [[Ressort]], [[Bereich]]
-≈ [[Abteil]], [[Sektor]], [[Büro]], [[Einheit]], [[Gruppe]]
+≈ [[Abteil]], [[Sektor]], [[Büro]], [[Einheit]], [[Gruppe]], [[Fach]]
 ≠ [[Gesamtorganisation]], [[Unternehmen]], [[Ganzes]]
 
 ---

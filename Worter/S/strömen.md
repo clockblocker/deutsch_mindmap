@@ -1,1 +1,1 @@
-, [[fließen]], [[Meeresströmung]], [[abströmen]]
+, [[fließen]], [[Meeresströmung]], [[abströmen]], [[Strom]]

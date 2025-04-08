@@ -1,1 +1,1 @@
-, [[ausdrücken]], [[aussprechen]]
+, [[ausdrücken]], [[aussprechen]], [[verfassen]]

@@ -26,3 +26,5 @@ N: die [[Datenbank]], die [[Datenbanken]]
 A: die [[Datenbank]], die [[Datenbanken]]
 G: der [[Datenbank]], der [[Datenbanken]]
 D: der [[Datenbank]], den [[Datenbanken]]
+
+#Feminin

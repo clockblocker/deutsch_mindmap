@@ -1,1 +1,1 @@
-📚 [[entdecken]] + Akk, [ɛntˈdɛkən], [[finden]], [[übersehen]]
+📚 [[entdecken]] + Akk, [ɛntˈdɛkən], [[finden]], [[übersehen]], [[wahrnehmen]]

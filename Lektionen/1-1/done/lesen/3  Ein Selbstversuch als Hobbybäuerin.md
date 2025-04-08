@@ -84,6 +84,7 @@ Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehre
 ###### Abschnitt D
 *[[3  Ein Selbstversuch als Hobbybäuerin#^35|^]]* Man muss auch beim [[Bewältigen]] der [[Erntemengen]] Ideen [[sprießen]] lassen, schließlich wird vieles gleichzeitig [[reif]]. ^35
 
+
 *[[3  Ein Selbstversuch als Hobbybäuerin#^36|^]]* Und man muss bestimmte [[Abstriche]] machen, wenn man nur einmal pro Woche vor Ort sein kann. ^36
 
 *[[3  Ein Selbstversuch als Hobbybäuerin#^37|^]]* Das ist wie im wirklichen Leben: Bedenken Sie, dass wir auch im Job gleichzeitig an vielen Projekten arbeiten und uns selten den Luxus [[gönnen]], eine Sache nach der anderen [[abzuarbeiten]]. ^37

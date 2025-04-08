@@ -20,14 +20,14 @@ to introduce, to present, to imagine
 ---
 Gerne, hier ist die Konjugation für "vorstellen":
 
-| Person    | Präsens        | Präteritum      | Imperativ     | Konjunktiv I   | Konjunktiv II  |
-| --------- | -------------- | --------------- | ------------- | -------------- | -------------- |
-| Ich       | [[stelle vor]]  | [[stellte vor]]  | -             | [[stelle vor]]   | [[stellte vor]]  |
-| Du        | [[stellst vor]] | [[stelltest vor]] | [[stell vor]] | [[stellest vor]] | [[stelltest vor]] |
-| Er/sie/es | [[stellt vor]]  | [[stellte vor]]  | -             | [[stelle vor]]   | [[stellte vor]]  |
-| Wir       | [[stellen vor]] | [[stellten vor]] | [[stellen vor]] | [[stellen vor]]  | [[stellten vor]] |
-| Ihr       | [[stellt vor]]  | [[stelltet vor]] | [[stellt vor]] | [[stellet vor]]  | [[stellet vor]]  |
-| Sie       | [[stellen vor]] | [[stellten vor]] | [[stellen vor]] | [[stellen vor]]  | [[stellten vor]] |
+| Person    | Präsens         | Präteritum        | Imperativ       | Konjunktiv I     | Konjunktiv II     |
+| --------- | --------------- | ----------------- | --------------- | ---------------- | ----------------- |
+| Ich       | [[stelle vor]]  | [[stellte vor]]   | -               | [[stelle vor]]   | [[stellte vor]]   |
+| Du        | [[stellst vor]] | [[stelltest vor]] | [[stell vor]]   | [[stellest vor]] | [[stelltest vor]] |
+| Er/sie/es | [[stellt vor]]  | [[stellte vor]]   | -               | [[stelle vor]]   | [[stellte vor]]   |
+| Wir       | [[stellen vor]] | [[stellten vor]]  | [[stellen vor]] | [[stellen vor]]  | [[stellten vor]]  |
+| Ihr       | [[stellt vor]]  | [[stelltet vor]]  | [[stellt vor]]  | [[stellet vor]]  | [[stellet vor]]   |
+| Sie       | [[stellen vor]] | [[stellten vor]]  | [[stellen vor]] | [[stellen vor]]  | [[stellten vor]]  |
 *Zu + Inf*: zu [[vorstellen]], P1: [[vorstellend]], P2: [[vorgestellt]]
 
 ---

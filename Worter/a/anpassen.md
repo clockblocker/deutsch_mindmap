@@ -55,4 +55,4 @@ sie, [[passen an]], [[passten an]], [[passen an]], [[passten an]], [[passen an]]
 Adjektive: [[anpassend]], [[anpassender]], [[anpassendst]]
 
 ---
-[[anpassender]], [[anpassendes]], [[anpassende]], [[anpassenden]], [[anpassendem]], [[anpassenderer]], [[anpassenderes]], [[anpassendere]], [[anpassenderen]], [[anpassenderem]], [[anpassendster]], [[anpassendstes]], [[anpassendste]], [[anpassendsten]], [[anpassendstem]]
+[[anpassender]], [[anpassendes]], [[anpassende]], [[anpassenden]], [[anpassendem]], [[anpassenderer]], [[anpassenderes]], [[anpassendere]], [[anpassenderen]], [[anpassenderem]], [[anpassendster]], [[anpassendstes]], [[anpassendste]], [[anpassendsten]], [[anpassendstem]], [[umstellen]]

@@ -3,13 +3,15 @@ die [[Fächer]]
 
 ---
 [[Fachverkäufer]]
-[[einfachen]], [[einfach]], 
+
+- *Für welches Studien*[[Fach]] *sollte man sich entscheiden?*
 
 - das schwerste [[Fach]]
 
 ---
 Synonyme:
 - [[Disziplin]], [[Bereich]], [[Gebiet]], [[Abteilung]], [[Ressort]]
+[[einfachen]], [[einfach]], 
 
 ---
 subject, field, discipline, специальность
@@ -26,3 +28,6 @@ Dative: dem [[Fach]], den [[Fächern]]
 
 ---
 [[fachlich]], [[fachkundig]], [[fachmännisch]], [[fachspezifisch]], [[Fachmann]], [[Fachfrau]], [[Fachkraft]], [[Fach]], [[Fachrichtung]], [[tausendfachen]], [[tausendfach]], [[Fachwissen]], [[Schublade]], [[Studienfach]]
+
+
+#Neuter 

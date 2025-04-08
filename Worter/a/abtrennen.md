@@ -1,1 +1,1 @@
-[[trennen]], [[anschließen]]
+[[trennen]], [[anschließen]], [[Abteilung]]

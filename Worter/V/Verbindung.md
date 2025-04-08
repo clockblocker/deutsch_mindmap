@@ -30,4 +30,4 @@ D: der [[Verbindung]], den [[Verbindungen]]
 
 , [[Abstand]], [[Beziehung]], [[binden]], [[zusammenschrauben]], [[verbinden]], [[Bezug]], [[Zusammenschluss]], [[Scheidung]]
 , [[Worter/Beziehung]], [[Beziehung]], [[Anki]]
-, [[Achse]], [[Gemeinschaft]], [[Zugang]], [[Abhängigkeit]]
+, [[Achse]], [[Gemeinschaft]], [[Zugang]], [[Abhängigkeit]], [[Austausch]]

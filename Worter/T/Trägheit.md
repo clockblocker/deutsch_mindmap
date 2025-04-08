@@ -1,1 +1,1 @@
-, [[Schweinehund]]
+, [[Schweinehund]], [[Bewegungsmangel]]

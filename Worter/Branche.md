@@ -2,6 +2,9 @@
 die [[Branchen]]
 
 ---
+- *der IT-*[[Branche]], [[Werbung]], [[Buchhaltung]] und [[Verwaltung]] *geeignet ist*
+
+
 Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können. „Stopp!“, ruft Jannis. „Du bekommst ja dein Budget. Und jetzt [[aufhören|hör]] auf, mir Honig um den Bart zu schmieren. Natürlich sehe ich die [[Vorteile]] selbst. Ich arbeite ja schon lange in dieser [[Branche]].“ 
 
 
@@ -24,3 +27,5 @@ Dative: der [[Branche]], den [[Branchen]]
 
 ---
 [[branchenspezifisch]], [[branchenüblich]], [[branchenführend]], [[Berufsgruppe]]
+
+#Feminin

@@ -2,7 +2,10 @@
 die [[Berufsgruppen]]
 
 ---
-•	Nennen Sie Beispiele für [[Berufsgruppen]], für die Home-Office nicht möglich ist.
+- *Nennen Sie Beispiele für* [[Berufsgruppe]]*n, für die Home-Office nicht möglich ist.*
+
+- *für* [[Berufsgruppe]]*n aus* 
+
 
 ---
 = [[Arbeitsgruppe]], [[Fachgruppe]]
@@ -26,3 +29,6 @@ N: die [[Berufsgruppe]], die [[Berufsgruppen]]
 A: die [[Berufsgruppe]], die [[Berufsgruppen]]
 G: der [[Berufsgruppe]], der [[Berufsgruppen]]
 D: der [[Berufsgruppe]], den [[Berufsgruppen]]
+
+
+#Feminin 

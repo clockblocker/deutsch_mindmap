@@ -1,1 +1,1 @@
-, [[Leitung]]
+, [[Leitung]], [[Strom]]

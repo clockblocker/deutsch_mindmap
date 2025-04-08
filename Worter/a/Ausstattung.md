@@ -27,3 +27,6 @@ N: die [[Ausstattung]], die [[Ausstattungen]]
 A: die [[Ausstattung]], die [[Ausstattungen]]
 G: der [[Ausstattung]], der [[Ausstattungen]]
 D: der [[Ausstattung]], den [[Ausstattungen]]
+
+
+#Feminin

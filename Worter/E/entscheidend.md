@@ -3,6 +3,9 @@
 ---
 *[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
 
+
+Man darf aber auch nicht vergessen, dass es für den Arbeitgeber auch einen [[entscheidenden]] Nachteil gibt: 
+
 ---
 = [[ausschlaggebend]], [[maßgeblich]], [[wichtig]]
 ≈ [[bedeutend]], [[relevant]], [[kritisch]],  [[rechtsprechend]],  [[grundlegend]]

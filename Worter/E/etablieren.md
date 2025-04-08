@@ -3,6 +3,9 @@
 ---
 *[[Große Koalition#^3|^]]* Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der Begriff **Kleine Koalition** (auch **kleine Koalition**). 
 
+Besonders seit der Corona-Pandemie hat es sich [[etabliert]], dass die Menschen beim Geschäftstreffen bis hin zum Feierabendbier online zusammenkommen.
+
+
 ---
 = [[gründen]], [[einrichten]], [[etablieren]], [[einführen]]
 ≈ [[aufbauen]], [[installieren]], [[festigen]]

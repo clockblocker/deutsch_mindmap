@@ -1,6 +1,8 @@
 😟 [[fehlen]], [ˈfeːlən](https://youglish.com/pronounce/fehlen/german) | [[fehlte]], haben [[gefehlt]]
 
 ---
+Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind.
+
 Ach - Maria, du wirst mir [[fehlen]].  
 
 Ergänze die [[fehlenden]] Präpositionen:
@@ -59,4 +61,4 @@ Adjektive: [[fehlend]], [[fehlender]], [[fehlendst]]
 ---
 [[fehlender]], [[fehlendes]], [[fehlende]], [[fehlenden]], [[fehlendem]], [[fehlenderer]], [[fehlenderes]], [[fehlendere]], [[fehlenderen]], [[fehlenderem]], [[fehlendster]], [[fehlendstes]], [[fehlendste]], [[fehlendsten]], [[fehlendstem]]
 
-[[deutsche]], [[ausfallen]], [[entfallen]]
+[[deutsche]], [[ausfallen]], [[entfallen]], [[Mangel]]

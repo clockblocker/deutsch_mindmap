@@ -4,6 +4,7 @@ die [[Reinigungen]]
 ---
 SASCHA: Kannst du mein Kleid von der [[Reinigung]] abholen?  
 
+die Kosten für Strom, Wasser und [[Reinigung]]
 
 ---
 Synonyme:
@@ -20,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Reinigung]], [[Reinigungen]], [[Reinigung]], [[Reinigung]], [[Reinigung]], [[Reinigung]], [[Reinigung]], [[Reinigungen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Strom]]

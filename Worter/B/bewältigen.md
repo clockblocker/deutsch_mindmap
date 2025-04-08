@@ -3,6 +3,8 @@
 ---
 *[[3  Ein Selbstversuch als Hobbybäuerin#^35|^]]* Man muss auch beim [[Bewältigen]] der [[Erntemengen]] Ideen sprießen lassen, schließlich wird vieles gleichzeitig reif. ^35
 
+
+
 ---
 = [[meistern]], [[schaffen]], [[überwinden]], [[schaffen]], [[überwinden]],  [[zurechtkommen]], [[durchmachen]]
 ≈ [[erledigen]], [[handhaben]], [[lösen]], [[fertigbringen]], [[erledigen]], [[überstehen]] ,[[Herausforderung]]

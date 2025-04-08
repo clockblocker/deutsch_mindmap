@@ -25,3 +25,6 @@ N: die [[Kosteneinsparung]], die [[Kosteneinsparungen]]
 A: die [[Kosteneinsparung]], die [[Kosteneinsparungen]]
 G: der [[Kosteneinsparung]], der [[Kosteneinsparungen]]
 D: der [[Kosteneinsparung]], den [[Kosteneinsparungen]]
+
+
+#Feminin 

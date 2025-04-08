@@ -1,18 +1,52 @@
 Home-Office oder Arbeitsplatz im Büro einer Firma?
 Wo lässt es sich besser arbeiten?
-	+	Erklären Sie, unter welchen [[Bedingungen]] sich ein Arbeitgeber für Home-Office aussprechen sollte.
-	+	[[Erläutern]] Sie mögliche Argumente des Arbeitgebers gegen Home-Office.
-	-	Erläutern Sie [[Vorteile]] für Arbeiten im Büro einer Firma.
-	+	Nennen Sie Beispiele für [[Berufsgruppen]], für die Home-Office nicht möglich ist.
+	-	Erklären Sie, unter welchen [[Bedingungen]] sich ein Arbeitgeber für Home-Office aussprechen sollte.
+	•	Erläutern Sie mögliche Argumente des Arbeitgebers gegen Home-Office.
+	•	Erläutern Sie [[Vorteile]] für Arbeiten im Büro einer Firma.
+	•	Nennen Sie Beispiele für [[Berufsgruppen]], für die Home-Office nicht möglich ist.
 
 Schreiben Sie circa 230 Wörter.
 
 
-*Die Verbindung zwischen*   ... *und* ... *lässt sich an einem Beispiel veranschaulichen:* 
-
-*Seit dem* ... *sind* ... *überall gesunken.*
 
 ---
+---
+---
+Heute wird kontoverz daruber diskutiet, ob die Arbeitgaber ihre IT-, Werbung, Buchhaltung und andere remote-friendly Branche ins Home-Office wechel sollte, oder solche Handlungsweise nur als temporäre Krisenmassnahme angesehen werden sollte.
+
+Auf der einen Seite vertrenen fiele den Standpunkt, dass die Arbiet am heimischen Schriebtisch nicht nur für die physiche und psychische Gesundheit der Arbeiter gut ist sondern zusäztlich auch hilftlich für die Kosteneinspaung der Arbetgeber. Uns tatzächlich: wenn ein Angestellte hat schnelles Internet, Zugriff auf Datenbanken und technische Ausstattungen zu Hause, könnte sein Firme weniger Büroplatzen mieten.
+
+Auf der anderen Seite sind viele Arbeitgeber der Festung Überzeugung, dass die Produktivität der Arbeit im Büro sehr starker ist. Es für manche Arbeitnahmer  erheblich schwierig ist, um ihre Arbeit zu Konzentriren ohne die Kontrolle der Vorsiztenden. Ausserdem, fehlt der persönliche Austausch under den Kollegen, der ein unveräusserlicher Teil des sogenannten Teamworks ist. Der Arbeit in vor Ort hat keine solche Nachteile, im Gegenteil -- der Austausch mit den Kollegen wird da gefördert.
+
+Ein weiterer Vorteil des Büros ist, dass es fast einfacher ist, alles unter einen Hut zu bringen, wenn alle [[Abteilung]]en in einem Gebäude sitzen.
+Und nicht zuletzt hilft es den Arbeitnehmern zwischen Arbeitszeit und Freizeit zu unterscheiden.
+
+Abschliessend lässt sich sagen, dass im Gegensatz zu den Angestellten, eine Unmenge der Arbeitnehmer gibt die kein Möglichkeit haben ihren Arbeitsplatz nach Hause zu wechseln. 
+
+Abschliessend lässt sich sagen, dass im Gegensatz zu den Angestellten, eine Unmenge der Arbeitnehmer bzw. Krankenschwester, Ärzte und Lehrer gibt die kein Möglichkeit haben ihren Arbeitsplatz nach Hause zu wechseln. 
+
+bzw.
+
+Zum Beispiel müssen Krankenschwester, Ärzte und Lehrer ihre Arbeit vor Ort bewältigen. 
+
+
+---
+---
+---
+
+Heute wird kontrovers darüber diskutiert, ob die Arbeitgeber ihre IT-, Werbungs-, Buchhaltungs- und andere sogenannte remote-freundlich Branchen ins Home-Office wechseln sollten, oder solche Handlungsweisen nur als temporäre Krisenmassnahme angesehen werden sollten.
+
+Auf der einen Seite vertreten viele den Standpunkt, dass die Arbeit am heimischen Schreibtisch nicht nur für die physische und psychische Gesundheit der Angestellten gut ist, sondern zusätzlich auch hilfreich für die Kosteneinsparung der Arbeitgeber ist. 
+
+Auf der anderen Seite sind viele Arbeitgeber der festen Überzeugung, dass die Produktivität der Arbeit im Büro viel höher ist. Es ist für manche Arbeitnehmer erheblich schwieriger, sich auf ihre Arbeit zu konzentrieren ohne die Kontrolle der Vorsitzenden. 
+
+Ausserdem, fehlt der persönliche Austausch under den Kollegen, der ein unveräusserlicher Teil des Teamworks ist. Der Arbeit vor Ort hat keine solche Nachteile, im Gegenteil -- der Austausch mit den Kollegen wird da gefördert. Außerdem fehlt der persönliche Austausch unter den Kollegen, der ein unveräußerlicher Teil des sogenannten Teamworks ist. Die Arbeit vor Ort hat keine solchen Nachteile, im Gegenteil -- der Austausch mit den Kollegen wird da gefördert.
+
+Ein weiterer Vorteil des Büros ist das es ist fast einfacher alles unter einen Hut bringen, wenn alle Branche in einem Gebäude sitzt. Und nicht zuletzt hilft es, die Arbeitnehmer zwischen der Arbeitszeit und Freizeit zu trennen.
+
+Abschliessend lässt sich sagen, dass anstatt der Angestellten, die Unmenge der Arbeitnehmer kein Home-Office haben könnten. Zum Beispiel, müssen die Krankenschwester, die Ärtzte und die Lehrer ihre Arbeit vor Ort bewältigen . 
+
+--- 
 ---
 ---
 
@@ -70,14 +104,10 @@ Erläutern Sie [[Vorteile]] für Arbeiten im Büro einer Firma.
 *Abschliessend lässt sich sagen, dass neben* ... *auch die Aspekte* ... *beachten werden sollten, um* ... *zu beurteilen.*
 
 
+*Die Verbindung zwischen*   ... *und* ... *lässt sich an einem Beispiel veranschaulichen:* 
 
+*Seit dem* ... *sind* ... *überall gesunken.*
 
-
-
-
-
-
-
-
+---
 
 Einige Callcenter oder Start-ups können alle ihre Arbeiter nach Hause lassen, um keine Büromiete zu zahlen

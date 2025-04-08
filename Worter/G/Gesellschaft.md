@@ -5,6 +5,10 @@ die [[Gesellschaften]]
 ---
 Jeder ist ein Teil der [[Gesellschaft]].
 
+- *liegt die* gegenwärtige [[Gesellschaft]] *mehr Wert auf Studiengänge im Bereich*
+
+Sie nehmen an einem Seminar zu [[gesellschaftlichen]] Themen
+
 Ich interessiere mich dafür, wie sich unsere [[Gesellschaft]] [[entwickelt]].
 
 r [[Geselle]] | 3 Jahr

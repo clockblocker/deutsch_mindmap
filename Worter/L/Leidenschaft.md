@@ -1,2 +1,2 @@
 
-, [[Freizeitaktivität]]
+, [[Freizeitaktivität]], [[Vorliebe]]

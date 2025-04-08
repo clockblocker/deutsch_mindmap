@@ -28,4 +28,4 @@ PI: [[beibehaltend]], PII: [[beibehalten]], Zu+inf: [[beizubehalten]]
 [[beibehalten]] - [[bei]] = [[behalten]] / to keep, to maintain, to retain
 
 ---
-[[Beibehaltung]], [[Erhalt]], [[Übernahme]], [[Aufrechterhaltung]], [[behalten]], [[umkehren]]
+[[Beibehaltung]], [[Erhalt]], [[Übernahme]], [[Aufrechterhaltung]], [[behalten]], [[umkehren]], [[umstellen]]

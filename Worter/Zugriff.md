@@ -2,37 +2,28 @@
 die [[Zugriffe]]
 
 ---
-➡️ [[beziehungsweise]], [bəˈtsiːʊŋsˌvaɪ̯zə](https://youglish.com/pronounce/beziehungsweise/german)
-
----
-1) ==Programmieren==: Rechtschreibfehler
-
----
-= [[oder]], [[respektive]], [[bzw.]]
-≈ [[und]], [[sowie]], [[oder auch]]
-≠  -
-
----
-respectively, or  
-соответственно, или
-
----
-[[Beziehung]], [[weise]]
-
----
-Word not recognized.
+- *schnelles Internet* [[Zugriff]] `auf` [[Datenbank]]*en und technische* [[Ausstattungen]]
 
 ---
 = [[Zugang]], [[Eintritt]], [[Zugangsberechtigung]]
 ≈ [[Erlaubnis]], [[Genehmigung]], [[Eingabe]]
 ≠ [[Sperrung]], [[Ausschluss]], [[Verweigerung]]
 
+= [[oder]], [[respektive]], [[bzw.]]
+≈ [[und]], [[sowie]], [[oder auch]]
+≠  -
+
 ---
 access  
 доступ
 
+respectively, or  
+соответственно, или
+
 ---
 [[zugreifen]], [[Zugriffsrecht]], [[Zugriffsversuch]], [[Zugriffszeit]]
+[[Beziehung]], [[weise]]
+
 
 ---
 [[Zug]]|[[griff]]
@@ -44,3 +35,6 @@ N: der [[Zugriff]], die [[Zugriffe]]
 A: den [[Zugriff]], die [[Zugriffe]]
 G: des [[Zugriffs]], der [[Zugriffe]]
 D: dem [[Zugriff]], den [[Zugriffen]]
+
+
+#Maskulin

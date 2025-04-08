@@ -4,6 +4,8 @@ die [[Vorträge]]
 ---
 Sie [[verpassen]] den gesamten [[Vortrag]].
 
+- *halten einen kurzen* [[Vortrag]] *zu dem von Ihnen* [[gewählten]] *Thema*
+
 [[Vortrag]] in Magiegeschichte
 
 
@@ -26,3 +28,5 @@ D: dem [[Vortrag]], den [[Vorträgen]]
 
 ---
 [[vortragen]], [[vorgetragen]], [[Vortragende]], [[vortragend]], [[Vorlesung]]
+
+#Maskulin 

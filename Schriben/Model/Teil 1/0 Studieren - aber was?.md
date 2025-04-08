@@ -1,9 +1,9 @@
-Für das Internetforum Karriere & Beruf verfassen Sie einen Diskussionsbeitrag zu diesem Thema :
+Für das Internetforum K[[1 Veranstaltungen und Meetings online oder offline?]]arriere & Beruf verfassen Sie einen Diskussionsbeitrag zu diesem Thema :
 
 Studieren - aber was ? Für welches Studienfach sollte man sich entscheiden ?
 - Erklären Sie , nach welchen Kriterien sich die Wahl des [[Studienfachs]] [[richten]] sollte .
 - Argumentieren Sie [[anhand]] eines Beispiels für ein Studienfach .
-- Nennen Sie Gründe , die gegen ein Studium sprechen könnten .
+- Nennen Sie Gründe, die gegen ein Studium sprechen könnten .
 - Erläutern Sie eine Alternative zum Studium .
 
 ---
@@ -19,9 +19,8 @@ Meiner Ansicht nach sind beide Kriterien [[entscheidend]] bei der Wahl, aber auc
 In Kolumbien, zum Beispiel, liegt die gegenwärtige Gesellschaft mehr Wert auf Studiengänge im Bereich der Naturwissenschaften, weswegen die im geisteswissenschaftlichen Bereich unterschätzt und weniger unterstützt werden.
 Aus diesem Grund ist es häufig so, dass Lehrer ein geringes Einkommen bekommen und es für sie und für ausgebildete Menschen in Philosophie, Soziologie, Geschichte und Sprachwissenschaft erheblich schwierig ist, eine gute Arbeitsstelle zu finden, die ihnen akzeptable [[Bedingungen]] anbietet, selbst wenn sie über außergewöhnliche Fähigkeiten verfügen und die Wille haben, so gut wie möglich zu arbeiten.
 
-Ein weiterer, noch wichtiger Aspekt ist die wirtschaftliche Situation. Manche Studiengänge sind zu teuer und viele Menschen können sich daher nicht leisten, die zu studieren. Nichtsdestoweniger gibt es heute andere Ausbildungsmöglichkeiten, die günstiger sind und eine gute Ausbildung bieten: In Kolumbien kann man beispielsweise in der Bildungseinrichtung „SENA“ studieren und ein Diplom in einem praktischen Bereich bekommen, der gute Arbeitsmöglichkeiten hat.
 
-Abschließend lässt sich sagen, außer der eigenen Vorliebe und der Arbeitsmöglichkeiten des Studiums, sind andere Aspekte auch zu achten.
+Abschließend lässt sich sagen, außer der eigenen [[Vorliebe]] und der Arbeitsmöglichkeiten des Studiums, sind andere Aspekte auch zu achten.
 
 
 ---

@@ -31,4 +31,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[wahr]], [[wahre]], [[wahres]], [[wahren]], [[wahrem]]
 [[wahrer]], [[wahrere]], [[wahreres]], [[wahrerem]], [[wahrererer]]
-[[wahrste]], [[wahrster]], [[wahrstes]], [[wahrstem]], [[wahrstesten]], [[echten]], [[recht]], [[wahrscheinlich]], [[höchstwahrscheinlich]]
+[[wahrste]], [[wahrster]], [[wahrstes]], [[wahrstem]], [[wahrstesten]], [[echten]], [[recht]], [[wahrscheinlich]], [[höchstwahrscheinlich]], [[wahrnehmen]]

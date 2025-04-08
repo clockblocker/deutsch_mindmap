@@ -1,1 +1,1 @@
-, [[füllen]], [[Füller]], [[Unmenge]], [[Vielzahl]], [[Dichte]]
+, [[füllen]], [[Füller]], [[Unmenge]], [[Vielzahl]], [[Dichte]], [[Mangel]]

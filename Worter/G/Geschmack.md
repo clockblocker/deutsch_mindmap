@@ -21,4 +21,4 @@ Morphems:
 
 ---
 #Substantiv #Maskulin , [[11 08]]
-, [[geschmacklos]]
+, [[geschmacklos]], [[Vorliebe]]

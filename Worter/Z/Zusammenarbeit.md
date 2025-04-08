@@ -1,2 +1,2 @@
 , [[Wettbewerb]], [[Mitarbeiterin]]
-, [[Konkurrenz]], [[Teamfähigkeit]], [[zusammen]]
+, [[Konkurrenz]], [[Teamfähigkeit]], [[zusammen]], [[Austausch]]

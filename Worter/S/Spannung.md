@@ -1,1 +1,1 @@
-, [[Aufregung]], [[entgegenfiebern]], [[spannend]], [[Abspann]]
+, [[Aufregung]], [[entgegenfiebern]], [[spannend]], [[Abspann]], [[Strom]]

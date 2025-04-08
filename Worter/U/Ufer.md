@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ufers]], [[Ufer]], [[Ufern]]
 
 ---
-#Substantiv #Neuter, [[Fluss]]
+#Substantiv #Neuter, [[Fluss]], [[Strom]]

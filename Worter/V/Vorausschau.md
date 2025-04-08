@@ -1,1 +1,1 @@
-, [[Vorschau]]
+, [[Vorschau]], [[Ausblick]]

@@ -31,4 +31,4 @@ D: der [[Beziehung]], den [[Beziehungen]]
 
 
 
-, [[Abhängigkeit]], [[Umgang]]
+, [[Abhängigkeit]], [[Umgang]], [[Zugriff]]

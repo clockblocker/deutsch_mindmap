@@ -1,2 +1,2 @@
 , [[Handlung]], [[Maßnahme]], [[Sport]]
-, [[Freizeitaktivität]], [[Akteur]]
+, [[Freizeitaktivität]], [[Akteur]], [[Bewegungsmangel]]

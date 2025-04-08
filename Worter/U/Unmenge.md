@@ -5,6 +5,8 @@ die [[Unmengen]]
 ---
 [[2 Unter Druck nach oben#^3|(q)]] Na ja, [[zumindest]] sind das [[Ergebnisse]] von zwei Studien aus einer [[Unmenge]] von [[Untersuchungen]] zu der alles [[bewegenden]] Frage der [[Wettbewerbsgesellschaft]]: Wer kommt nach oben? ^3
 
+
+
 ---
 = [[Menge]], [[Vielzahl]], [[Fülle]]
 ≈ [[Anzahl]], [[Reihe]], [[Haufen]], [[Masse]]

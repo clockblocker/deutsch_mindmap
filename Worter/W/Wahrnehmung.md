@@ -1,1 +1,1 @@
-, [[Gefühl]], [[Eindruck]], [[Bewusstsein]], [[Riechsinn]]
+, [[Gefühl]], [[Eindruck]], [[Bewusstsein]], [[Riechsinn]], [[wahrnehmen]]

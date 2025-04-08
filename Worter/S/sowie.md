@@ -18,4 +18,4 @@ Morpheme:
 
 ---
 #Adverb #Konjunktion
-, [[Konnektoren]], [[beziehungsweise]], [[Anki]], [[Konnektivpartikeln]]
+, [[Konnektoren]], [[beziehungsweise]], [[Anki]], [[Konnektivpartikeln]], [[Zugriff]]

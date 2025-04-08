@@ -1,1 +1,1 @@
-[[liebsten]], [[beliebtes]], [[Hot]]
+[[liebsten]], [[beliebtes]], [[Hot]], [[Vorliebe]]

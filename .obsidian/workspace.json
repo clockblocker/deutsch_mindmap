@@ -8,48 +8,175 @@
         "type": "split",
         "children": [
           {
-            "id": "677edd0e397d36f1",
+            "id": "dd36dec795a75216",
             "type": "split",
-            "dimension": 36.3754889178618,
+            "dimension": 70.10463378176382,
             "children": [
               {
-                "id": "c81620b107ac0634",
+                "id": "781934cd57227645",
                 "type": "tabs",
-                "dimension": 39.32748538011696,
+                "dimension": 45.25993883792049,
                 "children": [
                   {
-                    "id": "14ccbe85df61bcf4",
+                    "id": "82511c57715ff95d",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Schriben/Рыба Teil 1.md",
+                        "file": "Texte/b2 Das sagt man so!/Alle.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "Рыба Teil 1"
+                      "title": "Alle"
+                    }
+                  },
+                  {
+                    "id": "70b341d37a9bf5ae",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Texte/b2 Das sagt man so!/Auf Wolke sieben schweben.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Auf Wolke sieben schweben"
+                    }
+                  },
+                  {
+                    "id": "2638aedd2392acd1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Worter/V/vorstellen.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "vorstellen"
+                    }
+                  },
+                  {
+                    "id": "5867de29e742df43",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Worter/S/stellten vor.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "stellten vor"
+                    }
+                  },
+                  {
+                    "id": "afc9cf5fe17e255b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Worter/V/vorstellen.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "vorstellen"
+                    }
+                  },
+                  {
+                    "id": "08e2ab8a35f0dd6f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Worter/V/vorstellen.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "vorstellen"
+                    }
+                  },
+                  {
+                    "id": "2959a047a781dedb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Schriben/Wortschatz Teil 1.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Wortschatz Teil 1"
+                    }
+                  },
+                  {
+                    "id": "2adebc1b9a38b0d5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Schriben/Wortschatz Buch/Alltagsleben/Arbeit und Beruf.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Arbeit und Beruf"
                     }
                   }
-                ]
+                ],
+                "currentTab": 7
               },
               {
-                "id": "646091cf30947e1f",
+                "id": "eefcbb43c5c88b23",
                 "type": "tabs",
-                "dimension": 60.672514619883046,
+                "dimension": 54.74006116207951,
                 "children": [
                   {
-                    "id": "472447b412cb3e01",
+                    "id": "cbd9f6449fa215b9",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Worter/G/Geist.md",
+                        "file": "Schriben/Model/Teil 1/1.1 Home-Office.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "Geist"
+                      "title": "1.1 Home-Office"
+                    }
+                  },
+                  {
+                    "id": "bbeef9734c15507d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Worter/B/bewältigt.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "bewältigt"
+                    }
+                  },
+                  {
+                    "id": "40f69b7bc8540ecb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Worter/A/Austausch.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Austausch"
                     }
                   }
                 ]
@@ -60,10 +187,52 @@
           {
             "id": "a263e0551089a3da",
             "type": "tabs",
-            "dimension": 63.6245110821382,
+            "dimension": 29.895366218236173,
             "children": [
               {
-                "id": "6b2626645f7fd416",
+                "id": "4a8ef1eeed26b78f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Schriben/Mein/3 Überwachungssoftware.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "3 Überwachungssoftware"
+                }
+              },
+              {
+                "id": "467a326adb95167b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worter/wahrgenommen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "wahrgenommen"
+                }
+              },
+              {
+                "id": "be81504bcae7024f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worter/W/wahrnehmen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "wahrnehmen"
+                }
+              },
+              {
+                "id": "49461731fa269a0f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -111,7 +280,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MaskulinI",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +301,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,43 +394,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "472447b412cb3e01",
+  "active": "2adebc1b9a38b0d5",
   "lastOpenFiles": [
-    "Schriben/Wortschatz.md",
-    "Worter/E/Einrichtung.md",
-    "Worter/EINRICHTUNGEN/_Index_of_EINRICHTUNGEN.md",
-    "Worter/APPARATUR/_Index_of_APPARATUR.md",
-    "Worter/EINRICHTER/_Index_of_EINRICHTER.md",
-    "Worter/EINRICHTUNGSSTIL/_Index_of_EINRICHTUNGSSTIL.md",
-    "Worter/EINRICHTUNGSSTIL/Einrichtungsstil.md",
-    "Worter/EINRICHTUNGSSTIL",
-    "Worter/EINRICHTER/Einrichter.md",
-    "Worter/EINRICHTER",
-    "Worter/APPARATUR/Apparatur.md",
-    "Worter/APPARATUR",
-    "Worter/EINRICHTUNGEN/Einrichtungen.md",
-    "Worter/EINRICHTUNGEN",
-    "Schriben/Model/Teil 1/0 Studieren - aber was?.md",
-    "Worter/B/bieten.md",
-    "Worter/günstiger.md",
-    "Worter/G/günstig.md",
-    "Worter/U/unterschätzt.md",
-    "Worter/U/unterschätzen.md",
-    "Worter/A/Ausbildung.md",
-    "Worter/L/Leisten.md",
-    "Schriben/Рыба Teil 1.md",
-    "Worter/Einkommen.md",
-    "Worter/Arbeitsstelle.md",
-    "Worter/ARBEITSSTELLEN/_Index_of_ARBEITSSTELLEN.md",
-    "Worter/ARBEITSKOLLEGE/_Index_of_ARBEITSKOLLEGE.md",
-    "Worter/ARBEITSKOLLEGE/Arbeitskollege.md",
-    "Worter/ARBEITSKOLLEGE",
-    "Worter/ARBEITSSTELLEN/Arbeitsstellen.md",
-    "Worter/ARBEITSSTELLEN",
-    "Worter/BETRÄCHTLICH/_Index_of_BETRÄCHTLICH.md",
-    "Worter/ERHEBLICHSTEM",
-    "Worter/ERHEBLICHSTEN",
-    "Worter/ERHEBLICHSTE",
-    "Worter/ERHEBLICHSTES"
+    "Worter/Kohlekraftwerk.md",
+    "Schriben/Wortschatz Buch/Natur und Umwelt/Die Erde.md",
+    "Schriben/Wortschatz Buch/Natur und Umwelt/Chemie.md",
+    "Schriben/Wortschatz Buch/Natur und Umwelt/Biologie.md",
+    "Schriben/Wortschatz Buch/Natur und Umwelt",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Wirtschaft.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Verkehr.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Tourismus.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Technik.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Sprache.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Religion.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Recht und Gesetz.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Medien.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Energie.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen/Bevölkerung und Gesellschaft.md",
+    "Schriben/Wortschatz Buch/Die Welt der Menschen",
+    "Schriben/Wortschatz Buch/Der Mensch/Körper.md",
+    "Schriben/Wortschatz Buch/Der Mensch/Sport.md",
+    "Schriben/Wortschatz Buch/Der Mensch/Geist und Seele.md",
+    "Schriben/Wortschatz Buch/Der Mensch/Gesundheit.md",
+    "Schriben/Wortschatz Buch/Der Mensch/Ernährung.md",
+    "Schriben/Wortschatz Buch/Der Mensch",
+    "Schriben/Wortschatz Buch/Bildung und Forschung/Wissenschaft.md",
+    "Schriben/Wortschatz Buch/Bildung und Forschung/Studium.md",
+    "Schriben/Wortschatz Buch/Bildung und Forschung/Schule und Bildung.md",
+    "Schriben/Wortschatz Buch/Bildung und Forschung",
+    "Schriben/Wortschatz Buch/Alltagsleben/Zeit.md",
+    "Schriben/Wortschatz Buch/Alltagsleben/Geld.md",
+    "Schriben/Wortschatz Buch/Alltagsleben/Freizeit.md",
+    "Schriben/Wortschatz Buch/Alltagsleben/Beziehungen.md",
+    "Schriben/Wortschatz Buch/Alltagsleben",
+    "Worter/WAHRNEHMENDSTEM",
+    "Worter/WAHRNEHMENDSTEN",
+    "Worter/WAHRNEHMENDSTE",
+    "Worter/WAHRNEHMENDSTES",
+    "Worter/WAHRNEHMENDSTER"
   ]
 }
