@@ -1,3 +1,13 @@
+###### Netzkriminalität und Cybermobbing: Sollte das Internet stärker reguliert werden? #ME23  
+* Erklären Sie, welche Folgen das Internet als völlig rechtsfreier Raum haben könnte. 
+* Nennen Sie Beispiele, die einer rechtlichen Regulierung unterliegen sollten. 
+* Erläutern Sie, wie sich eine zu starke Regulierung auf die Meinungsfreiheit auswirken könnte. 
+* Nennen Sie Alternativen, wie man Menschen vor den Gefahren, die durch das Internet entstehen, schützen könnte.
+
+[[3 Sollte das Internet stärker reguliert werden?|Model]], [[6 Sollte das Internet stärker reguliert werden?|Mein]]
+
+---
+
 ###### #GPT Sollte das Internet stärker reguliert werden?
   - Erklären Sie, welche Folgen das Internet als völlig rechtsfreier Raum haben könnte.
   - Nennen Sie Beispiele, die einer rechtlichen Regulierung unterliegen sollten.

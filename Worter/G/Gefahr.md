@@ -4,6 +4,9 @@ die [[Gefahren]]
 ---
 Katara, du hättest nicht zu diesem Schiff gehen dürfen. Jetzt sind alle im Dorf in [[Gefahr]]
 
+* *Nennen Sie Alternativen, wie man Menschen vor den* [[Gefahr]]*en, die durch das Internet* [[entstehen]], [[schützen]] *könnte.* 
+
+
 ---
 = [[Risiko]], [[Bedrohung]], [[Gefährdung]]
 ≈ [[Bedrängnis]], [[Gefährlichkeit]], [[Wagnis]], [[Unsicherheit]]

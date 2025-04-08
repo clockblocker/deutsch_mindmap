@@ -8,8 +8,8 @@ Besonders seit der Corona-Pandemie hat es sich [[etabliert]], dass die Menschen 
 
 * Geben Sie ein Beispiel für Online- oder Offline-Meetings.
 * Argumentieren Sie für oder gegen Online-[[Veranstaltungen]].
-* Gehen Sie auf die Situation in Ihrem Heimatland oder einem anderen Land ein.
-* Schließen Sie mit einem Ausblick in die Zukunft.
+* [[eingehen|Gehen]] Sie auf die Situation in Ihrem [[Heimatland]] oder einem anderen Land ein.
+* Schließen Sie mit einem [[Ausblick]] in die Zukunft.
 
 ---
 

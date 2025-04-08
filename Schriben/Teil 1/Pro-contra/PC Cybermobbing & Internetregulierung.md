@@ -1,5 +1,7 @@
 ##### Cybermobbing & Internetregulierung
 
+---
+
 ###### Folgen eines unregulierten Internets:
 - #GPT anhaltende Belästigung / psychischer Schaden  
 - #GPT öffentliche Bloßstellung → Reputationsverlust  

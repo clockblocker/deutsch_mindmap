@@ -1,6 +1,8 @@
 📧 [[eingehen]] | [[ging ein|ging ein]], sein [[eingegangen]]
 
 ---
+- [[eingehen|Gehen]] *Sie auf die Situation in Ihrem Heimatland oder einem anderen Land* [[eingehen|ein]]
+
 Simon braucht ein bisschen mehr Budget für sein neues Projekt. Aber wird er es bekommen? Jannis, sein Chef, ist [[eigentlich]] ein netter Mensch, doch er [[eingehen|geht]] nicht gern [[Risiken]] ein. 
 
 ---

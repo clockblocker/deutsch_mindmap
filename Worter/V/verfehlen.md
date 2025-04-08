@@ -1,1 +1,1 @@
-, [[einschlagen]], [[erzielen]], [[zielen]], [[erreichten]], [[erreichen]], [[versäumen]], [[verpassen]], [[treffen]], [[gelangen]], [[stoßen]]
+, [[einschlagen]], [[erzielen]], [[zielen]], [[erreichten]], [[erreichen]], [[versäumen]], [[verpassen]], [[treffen]], [[gelangen]], [[stoßen]], [[erfüllen]]

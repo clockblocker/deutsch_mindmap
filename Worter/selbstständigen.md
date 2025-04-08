@@ -1,1 +1,2 @@
 🧍 [[selbstständig]]
+, [[erfüllen]]

@@ -1,2 +1,2 @@
 , [[hineinlassen]]
-, [[zumachen]], [[Zugang]]
+, [[zumachen]], [[Zugang]], [[Publikumsverkehr]]

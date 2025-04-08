@@ -1,3 +1,12 @@
+**Soll Englisch zweite Behördensprache in Deutschland werden?** #ME23 
+* Erklären Sie, welche Kriterien Angestellte in Behörden mit Publikumsverkehr erfüllen sollten. 
+* Argumentieren Sie anhand von Beispielen für oder gegen Englisch als zweite Behördensprache. 
+* Erläutern Sie, wie wichtig es für die Integration ist, die Landessprache zu beherrschen. 
+* Nennen Sie Möglichkeiten, eine zweite Fremdsprache zu lernen.
+[[7 Soll Englisch zweite Behördensprache in Deutschland werden?|Model]], [[4 Soll Englisch zweite Behördensprache in Deutschland werden?|Mein]]
+
+---
+
 ###### #GPT Sollte Englisch zweite Behördensprache in Deutschland werden?
   - Erklären Sie, welche Kriterien Angestellte in Behörden mit Publikumsverkehr erfüllen sollten.
   - Argumentieren Sie mit Beispielen für oder gegen Englisch als zweite Behördensprache.

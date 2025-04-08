@@ -3,6 +3,9 @@
 ---
 Du hast [[völlig]] recht.
 
+* *Erklären Sie, welche Folgen das Internet als* [[völlig]] [[rechtsfreier]] *Raum haben könnte.* 
+
+
 Er sieht [[völlig]] [[erschöpft]] aus!  
 
 Also schön! Du bist kein Spinner, du bist [[völlig]] durchgeknallt!

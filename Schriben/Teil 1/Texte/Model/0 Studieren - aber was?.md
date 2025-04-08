@@ -1,10 +1,10 @@
 Für das Internetforum Karriere & Beruf verfassen Sie einen Diskussionsbeitrag zu diesem Thema :
 
 Studieren - aber was ? Für welches Studienfach sollte man sich entscheiden ?
-- Erklären Sie , nach welchen Kriterien sich die Wahl des [[Studienfachs]] [[richten]] sollte .
+- Erklären Sie, nach welchen Kriterien sich die Wahl des [[Studienfachs]] [[richten]] sollte .
 - Argumentieren Sie [[anhand]] eines Beispiels für ein Studienfach .
 - Nennen Sie Gründe, die gegen ein Studium sprechen könnten .
-- Erläutern Sie eine Alternative zum Studium .
+- [[Erläutern]] Sie eine Alternative zum Studium .
 
 ---
 

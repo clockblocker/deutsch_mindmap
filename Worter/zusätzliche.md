@@ -1,1 +1,1 @@
-🏠 [[zusätzlich]]
+🏠 [[zusätzlich]], [[erfüllen]]

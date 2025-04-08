@@ -1,4 +1,6 @@
 ###### Task
+- *Erklären Sie, nach welchen Kriterien sich* *die Wahl* *des Studienfachs* [[richten]] *sollte*
+- [[eingehen|Gehen]] *Sie auf die Situation in Ihrem Heimatland oder einem anderen Land* [[eingehen|ein]]
 - [[verfassen]] *Sie einen Diskussions*[[Beitrag]] *zu diesem Thema:*
 - *Für welches Studien[[Fach]] sollte man sich* [[entscheiden]] ?
 - *nach welchen Kriterien sich die Wahl des Studienfachs* [[richten]] *sollte*
@@ -16,6 +18,15 @@
 - *Bewegungs*[[mangel]] *im Home-Office*
 - *ist man* [[gezwungen]]*, sich zu bewegen*
 - *das Auto oder den* [[öffentlichen]] *Verkehrsmittel benutzt*
+* *Erklären Sie, welche* [[Folgen]] *ein zu hoher Arbeitsdruck haben kann.*
+* *Nennen Sie Vorteile einer* [[gelungenen]] *Work Life Balance.*
+* *Nennen Sie andere Möglichkeiten für einen* [[ausgewogenen]] *Lebensstil.*
+* *Erklären Sie, welche Folgen das Internet als* [[völlig]] [[rechtsfreier]] *Raum haben könnte.* 
+* *Nennen Sie Beispiele, die einer* [[rechtlichen]] *Regulierung* [[unterliegen]] *sollten* 
+* *Erläutern Sie, wie sich eine zu starke Regulierung auf die Meinungsfreiheit* [[auswirken]] *könnte.* 
+* *Nennen Sie Alternativen, wie man Menschen vor den* [[Gefahr]]*en, die durch das Internet* [[entstehen]], [[schützen]] *könnte.* 
+* *Erklären Sie, welche Kriterien Angestellte in* [[Behörden]] *mit* [[Publikumsverkehr]] [[erfüllen]] *sollten.* 
+* *Erläutern Sie, wie wichtig es für die Integration ist, die Landessprache zu* [[beherrschen]]. 
  
 ###### Content
 - *die richtige* [[Entscheidung]] *in Bezug auf `jN` zu treffen.*

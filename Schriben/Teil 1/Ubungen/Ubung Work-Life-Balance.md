@@ -1,3 +1,13 @@
+
+###### Work Life Balance: Wie schaffen wir ein ausgewogenes Verhältnis zwischen Berufsleben und Privatleben? #ME23
+* Erklären Sie, welche Folgen ein zu hoher [[Arbeitsdruck]] haben kann.
+* Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance.
+* Erläutern Sie, was [[Arbeitgebende]] für eine gute Work Life Balance tun können.
+* Nennen Sie andere Möglichkeiten für einen [[ausgewogenen]] [[Lebensstil]].
+
+Texte: [[2 Work Life Balance|Model]], [[5 Work-Life-Balance|Mein]]
+
+
 ###### #GPT Work-Life-Balance – Wie schaffen wir ein ausgewogenes Verhältnis zwischen Berufsleben und Privatleben? #GPT
   - Erklären Sie, welche Folgen ein zu hoher Arbeitsdruck haben kann.
   - Nennen Sie Vorteile einer gelungenen Work-Life-Balance.

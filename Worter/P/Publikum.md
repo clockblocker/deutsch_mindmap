@@ -21,4 +21,4 @@ Morphems:
 
 ---
 #Substantiv #Neuter
-, [[riesig]], [[Menschenmenge]]
+, [[riesig]], [[Menschenmenge]], [[Publikumsverkehr]]

@@ -1,1 +1,1 @@
-, [[reichen]], [[zufriedenstellen]], [[ausreichen]], [[entsprechen]]
+, [[reichen]], [[zufriedenstellen]], [[ausreichen]], [[entsprechen]], [[erfüllen]]

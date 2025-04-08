@@ -1,1 +1,1 @@
-🤞 🔴 die [[Erwartung]], [[erwarten]]
+🤞 🔴 die [[Erwartung]], [[erwarten]], [[erfüllen]]

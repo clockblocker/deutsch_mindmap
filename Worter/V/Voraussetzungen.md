@@ -1,2 +1,3 @@
 , [[Auswirkung]] 
 🔴die [[Voraussetzung]] 📝
+, [[erfüllen]]

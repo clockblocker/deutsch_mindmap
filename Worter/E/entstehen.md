@@ -3,6 +3,10 @@
 ---
 [[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
 
+
+* *Nennen Sie Alternativen, wie man Menschen vor den* [[Gefahr]]*en, die durch das Internet* [[entstehen]], [[schützen]] *könnte.* 
+
+
 ---
 = [[auftreten]], [[geschehen]], [[passieren]], [[stattfinden]]
 ≈ [[erscheinen]], [[hervorrufen]], [[verursachen]]

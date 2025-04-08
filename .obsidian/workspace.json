@@ -4,21 +4,114 @@
     "type": "split",
     "children": [
       {
-        "id": "7ab54c340979d0a9",
-        "type": "tabs",
+        "id": "1c4bb9bd68cc5b65",
+        "type": "split",
+        "dimension": 51.46443514644351,
         "children": [
           {
-            "id": "5d5c6d9f4e6ede76",
+            "id": "7ab54c340979d0a9",
+            "type": "tabs",
+            "dimension": 73.33333333333333,
+            "children": [
+              {
+                "id": "a60bf52b146a25cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Schriben/Teil 1/Texte/Model/3 Sollte das Internet stärker reguliert werden?.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "3 Sollte das Internet stärker reguliert werden?"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ffb3765bd775ccbf",
+            "type": "tabs",
+            "dimension": 26.666666666666668,
+            "children": [
+              {
+                "id": "6845049e850c16fe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Schriben/Teil 1/Wortschatz Teil 1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Wortschatz Teil 1"
+                }
+              },
+              {
+                "id": "61e761fa6296888e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worter/B/Behörden.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Behörden"
+                }
+              },
+              {
+                "id": "0c82d7e9bdc3c54a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worter/B/Behörde.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Behörde"
+                }
+              },
+              {
+                "id": "2f28f793dda57a9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worter/Publikumsverkehr.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Publikumsverkehr"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "97465ae216b385c2",
+        "type": "tabs",
+        "dimension": 48.53556485355649,
+        "children": [
+          {
+            "id": "345bd725895a5ea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schriben/Teil 1/GPT Tier List C1 Prüfung Teil 1.md",
+                "file": "Schriben/Teil 1/Ubungen/Ubung Home-Office vs Büroarbeit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT Tier List C1 Prüfung Teil 1"
+              "title": "Ubung Home-Office vs Büroarbeit"
             }
           }
         ]
@@ -78,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5026054382324
+    "width": 200
   },
   "right": {
     "id": "5551a767f2afb90d",
@@ -167,43 +260,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5d5c6d9f4e6ede76",
+  "active": "345bd725895a5ea9",
   "lastOpenFiles": [
+    "Schriben/Teil 1/GPT Tier List C1 Prüfung Teil 1.md",
+    "Schriben/Teil 1/Ubungen/Ubung Home-Office vs Büroarbeit.md",
+    "Schriben/Teil 1/Texte/Model/3 Sollte das Internet stärker reguliert werden?.md",
+    "Schriben/Teil 1/Texte/Model/4 Soll Englisch zweite Behördensprache in Deutschland werden?.md",
     "Schriben/Teil 1/Wortschatz Teil 1.md",
-    "Schriben/Teil 1/Рыба Teil 1.md",
-    "Schriben/Teil 1/Untitled.md",
-    "Worter/W/wahrnehmen.md",
-    "Schriben/Texte/Model/Teil 2/0 zusammen mit sechs Kollegen in einem Raum.md",
-    "Schriben/Teil 2/Texte/Model/4 zum ersten Mal zu spät gekommen.md",
-    "Schriben/Teil 2/Texte/Model/3 Hund ins Buro.md",
-    "Schriben/Teil 2/Texte/Model/2 Sollte es eine Sondersteuer für besonders ungesunde Lebensmittel geben?.md",
-    "Schriben/Teil 2/Texte/Model/1.1 noch nicht erhalten haben.md",
-    "Schriben/Teil 2/Texte/Model/1  Gemeinsam ein neues Produkt präsentieren.md",
-    "Schriben/Teil 2/Texte/Model/0 zusammen mit sechs Kollegen in einem Raum.md",
-    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit/Wettlauf gegen die Zeit 4.md",
-    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit/Wettlauf gegen die Zeit 3.md",
-    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit/Wettlauf gegen die Zeit 2.md",
-    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit/Wettlauf gegen die Zeit 1.md",
-    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit",
-    "Schriben/Teil 2/Texte/Model/Teil 2/4 zum ersten Mal zu spät gekommen.md",
-    "Schriben/Teil 2/Texte/Model/Teil 2/3 Hund ins Buro.md",
-    "Schriben/Teil 2/Texte/Model/Teil 2/2 Sollte es eine Sondersteuer für besonders ungesunde Lebensmittel geben?.md",
-    "Schriben/Teil 2/Texte/Model/Teil 2/1.1 noch nicht erhalten haben.md",
-    "Schriben/Teil 2/Texte/Model/Teil 2/1  Gemeinsam ein neues Produkt präsentieren.md",
-    "Schriben/Teil 2/Texte/Model/Teil 2/0 zusammen mit sechs Kollegen in einem Raum.md",
-    "Schriben/Teil 2/Texte/Model/Teil 2",
-    "Schriben/Teil 2/Texte/Model/Teil 1/4 Soll Englisch zweite Behördensprache in Deutschland werden?.md",
-    "Schriben/Teil 2/Texte/Model/Teil 1/3 Sollte das Internet stärker reguliert werden?.md",
-    "Schriben/Teil 2/Texte/Model/Teil 1/2 Work Life Balance.md",
-    "Schriben/Teil 2/Texte/Model/Teil 1/1.1 Home-Office.md",
-    "Schriben/Teil 2/Texte/Model/Teil 1/1 Veranstaltungen und Meetings online oder offline?.md",
-    "Schriben/Teil 2/Texte/Model/Teil 1",
-    "Schriben/Teil 2/Texte/Model",
-    "Schriben/Teil 2/Texte",
-    "Schriben/Teil 2",
-    "Schriben/Teil 1/Wortschatz Buch/Die Welt der Menschen",
-    "Schriben/Teil 1/Wortschatz Buch/Natur und Umwelt",
-    "Schriben/Teil 1/Wortschatz Buch/Der Mensch",
-    "Schriben/Teil 1/Wortschatz Buch/Bildung und Forschung"
+    "Worter/B/Behörden.md",
+    "Worter/erfüllen.md",
+    "Worter/ERFÜLLENDSTEM/erfüllendstem.md",
+    "Worter/ERFÜLLENDSTEM",
+    "Worter/ERFÜLLENDSTEN/erfüllendsten.md",
+    "Worter/ERFÜLLENDSTEN",
+    "Worter/ERFÜLLENDSTE/erfüllendste.md",
+    "Worter/ERFÜLLENDSTE",
+    "Worter/ERFÜLLENDSTES/erfüllendstes.md",
+    "Worter/ERFÜLLENDSTES",
+    "Worter/ERFÜLLENDSTER/erfüllendster.md",
+    "Worter/ERFÜLLENDSTER",
+    "Worter/ERFÜLLENDEREM/erfüllenderem.md",
+    "Worter/ERFÜLLENDEREM",
+    "Worter/ERFÜLLENDEREN/erfüllenderen.md",
+    "Worter/ERFÜLLENDEREN",
+    "Worter/ERFÜLLENDERE/erfüllendere.md",
+    "Worter/ERFÜLLENDERE",
+    "Worter/ERFÜLLENDERES/erfüllenderes.md",
+    "Worter/ERFÜLLENDERES",
+    "Worter/ERFÜLLENDERER/erfüllenderer.md",
+    "Worter/ERFÜLLENDERER",
+    "Worter/ERFÜLLENDEM/erfüllendem.md",
+    "Worter/ERFÜLLENDEN/erfüllenden.md",
+    "Worter/ERFÜLLENDE/erfüllende.md",
+    "Worter/ERFÜLLENDES/erfüllendes.md",
+    "Worter/ERFÜLLENDST/erfüllendst.md",
+    "Worter/ERFÜLLENDER/erfüllender.md",
+    "Worter/ERFÜLL/erfüll.md",
+    "Worter/ERFÜLLUNGSGEHILFE/Erfüllungsgehilfe.md",
+    "Worter/UNERFÜLLT/unerfüllt.md"
   ]
 }
