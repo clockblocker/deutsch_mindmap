@@ -4,138 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ed62c136acdcd474",
-        "type": "split",
+        "id": "7ab54c340979d0a9",
+        "type": "tabs",
         "children": [
           {
-            "id": "dd36dec795a75216",
-            "type": "split",
-            "dimension": 27.19665271966527,
-            "children": [
-              {
-                "id": "781934cd57227645",
-                "type": "tabs",
-                "dimension": 73.33333333333333,
-                "children": [
-                  {
-                    "id": "82511c57715ff95d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Schriben/Рыба Teil 1.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Рыба Teil 1"
-                    }
-                  }
-                ]
+            "id": "5d5c6d9f4e6ede76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schriben/Teil 1/GPT Tier List C1 Prüfung Teil 1.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "eefcbb43c5c88b23",
-                "type": "tabs",
-                "dimension": 26.66666666666667,
-                "children": [
-                  {
-                    "id": "cbd9f6449fa215b9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Schriben/Wortschatz Teil 1.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Wortschatz Teil 1"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "a263e0551089a3da",
-            "type": "tabs",
-            "dimension": 72.80334728033473,
-            "children": [
-              {
-                "id": "4a8ef1eeed26b78f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Schriben/GPT/Pro-contra/PC Bedingungsloses Grundeinkommen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "PC Bedingungsloses Grundeinkommen"
-                }
-              },
-              {
-                "id": "52df8f96e6eb0220",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Schriben/GPT/Pro-contra/PC Home-Office vs Büroarbeit.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "PC Home-Office vs Büroarbeit"
-                }
-              },
-              {
-                "id": "467a326adb95167b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Schriben/Model/Teil 1/0 Studieren - aber was?.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "0 Studieren - aber was?"
-                }
-              },
-              {
-                "id": "be81504bcae7024f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Worter/W/wahrnehmen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "wahrnehmen"
-                }
-              },
-              {
-                "id": "49461731fa269a0f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Schriben/Model/Teil 1/0 Studieren - aber was?.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "0 Studieren - aber was?"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "GPT Tier List C1 Prüfung Teil 1"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 356.5026054382324
   },
   "right": {
     "id": "5551a767f2afb90d",
@@ -281,43 +167,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4a8ef1eeed26b78f",
+  "active": "5d5c6d9f4e6ede76",
   "lastOpenFiles": [
-    "Schriben/GPT/Ubungen/Ubung Work-Life-Balance.md",
-    "Schriben/GPT/Ubungen/Ubung Studienwahl + Berufswahl.md",
-    "Schriben/GPT/Ubungen/Ubung Sprache & Integration.md",
-    "Schriben/GPT/Ubungen/Ubung Soziales + Ehrenamt.md",
-    "Schriben/GPT/Ubungen/Ubung Soziale Netzwerke & Meinungsfreiheit.md",
-    "Schriben/GPT/Ubungen/Ubung Schule & Bildungssystem (z. B. Noten, Lebensvorbereitung).md",
-    "Schriben/GPT/Ubungen/Ubung Netzkriminalität & Cybermobbing.md",
-    "Schriben/GPT/Ubungen/Ubung Künstliche Intelligenz & Arbeitsmarkt.md",
-    "Schriben/GPT/Ubungen/Ubung Home-Office vs Büroarbeit.md",
-    "Schriben/GPT/Ubungen/Ubung Erneuerbare Energien + Klimawandel.md",
-    "Schriben/GPT/Ubungen/Ubung Digitalisierung.md",
-    "Schriben/GPT/Ubungen/Ubung Cybermobbing & Internetregulierung.md",
-    "Schriben/GPT/Ubungen/Ubung Bedingungsloses Grundeinkommen.md",
-    "Schriben/GPT/Pro-contra/PC Bedingungsloses Grundeinkommen.md",
-    "Schriben/GPT/GPT Ubungs.md",
-    "Schriben/GPT/GPT C1 Prüfung Themen Tier List.md",
-    "Schriben/GPT/Ubungen",
-    "Schriben/GPT/Pro-contra/PC Soziale Netzwerke & Meinungsfreiheit.md",
-    "Schriben/GPT/Pro-contra/PC Soziales + Ehrenamt.md",
-    "Schriben/GPT/Pro-contra/PC Schule & Bildungssystem (z. B. Noten, Lebensvorbereitung).md",
-    "Schriben/GPT/Pro-contra/PC Erneuerbare Energien + Klimawandel.md",
-    "Schriben/GPT/Pro-contra/PC Künstliche Intelligenz & Arbeitsmarkt.md",
-    "Schriben/GPT/Pro-contra/PC Cybermobbing & Internetregulierung.md",
-    "Schriben/GPT/Pro-contra/PC Work-Life-Balance.md",
-    "Schriben/GPT/Pro-contra/PC Studienwahl + Berufswahl.md",
-    "Schriben/GPT/Pro-contra/PC Sprache & Integration.md",
-    "Schriben/Рыба Teil 1.md",
-    "Schriben/GPT/Pro-contra",
-    "Schriben/GPT",
-    "Schriben/Wortschatz Buch/Natur und Umwelt",
-    "Schriben/Wortschatz Buch/Die Welt der Menschen",
-    "Schriben/Wortschatz Buch/Der Mensch",
-    "Schriben/Wortschatz Buch/Bildung und Forschung",
-    "Schriben/Wortschatz Buch/Alltagsleben",
-    "Worter/WAHRNEHMENDSTEM",
-    "Worter/WAHRNEHMENDSTEN"
+    "Schriben/Teil 1/Wortschatz Teil 1.md",
+    "Schriben/Teil 1/Рыба Teil 1.md",
+    "Schriben/Teil 1/Untitled.md",
+    "Worter/W/wahrnehmen.md",
+    "Schriben/Texte/Model/Teil 2/0 zusammen mit sechs Kollegen in einem Raum.md",
+    "Schriben/Teil 2/Texte/Model/4 zum ersten Mal zu spät gekommen.md",
+    "Schriben/Teil 2/Texte/Model/3 Hund ins Buro.md",
+    "Schriben/Teil 2/Texte/Model/2 Sollte es eine Sondersteuer für besonders ungesunde Lebensmittel geben?.md",
+    "Schriben/Teil 2/Texte/Model/1.1 noch nicht erhalten haben.md",
+    "Schriben/Teil 2/Texte/Model/1  Gemeinsam ein neues Produkt präsentieren.md",
+    "Schriben/Teil 2/Texte/Model/0 zusammen mit sechs Kollegen in einem Raum.md",
+    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit/Wettlauf gegen die Zeit 4.md",
+    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit/Wettlauf gegen die Zeit 3.md",
+    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit/Wettlauf gegen die Zeit 2.md",
+    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit/Wettlauf gegen die Zeit 1.md",
+    "Schriben/Teil 2/Texte/Wettlauf gegen die Zeit",
+    "Schriben/Teil 2/Texte/Model/Teil 2/4 zum ersten Mal zu spät gekommen.md",
+    "Schriben/Teil 2/Texte/Model/Teil 2/3 Hund ins Buro.md",
+    "Schriben/Teil 2/Texte/Model/Teil 2/2 Sollte es eine Sondersteuer für besonders ungesunde Lebensmittel geben?.md",
+    "Schriben/Teil 2/Texte/Model/Teil 2/1.1 noch nicht erhalten haben.md",
+    "Schriben/Teil 2/Texte/Model/Teil 2/1  Gemeinsam ein neues Produkt präsentieren.md",
+    "Schriben/Teil 2/Texte/Model/Teil 2/0 zusammen mit sechs Kollegen in einem Raum.md",
+    "Schriben/Teil 2/Texte/Model/Teil 2",
+    "Schriben/Teil 2/Texte/Model/Teil 1/4 Soll Englisch zweite Behördensprache in Deutschland werden?.md",
+    "Schriben/Teil 2/Texte/Model/Teil 1/3 Sollte das Internet stärker reguliert werden?.md",
+    "Schriben/Teil 2/Texte/Model/Teil 1/2 Work Life Balance.md",
+    "Schriben/Teil 2/Texte/Model/Teil 1/1.1 Home-Office.md",
+    "Schriben/Teil 2/Texte/Model/Teil 1/1 Veranstaltungen und Meetings online oder offline?.md",
+    "Schriben/Teil 2/Texte/Model/Teil 1",
+    "Schriben/Teil 2/Texte/Model",
+    "Schriben/Teil 2/Texte",
+    "Schriben/Teil 2",
+    "Schriben/Teil 1/Wortschatz Buch/Die Welt der Menschen",
+    "Schriben/Teil 1/Wortschatz Buch/Natur und Umwelt",
+    "Schriben/Teil 1/Wortschatz Buch/Der Mensch",
+    "Schriben/Teil 1/Wortschatz Buch/Bildung und Forschung"
   ]
 }
