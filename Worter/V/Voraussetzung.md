@@ -35,4 +35,4 @@ G: der [[Voraussetzung]], der [[Voraussetzungen]]
 D: der [[Voraussetzung]], den [[Voraussetzungen]]
 , [[Grundvoraussetzung]]
 
-#Feminin 
+#Feminin , [[Rahmenbedingung]]

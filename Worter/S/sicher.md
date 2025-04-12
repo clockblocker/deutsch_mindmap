@@ -39,4 +39,4 @@ P: [[sicheren]], [[sichereren]], [[sichersten]]
 [[Sicherheit]], [[sichern]], [[versichern]], [[absichern]], [[Versicherung]]
 
 , [[bestimmt]], [[Geheimnis]], [[ratlos]], [[fest]], [[Versicherungspflicht]], [[Versicherung]], [[garantiert]]
-, [[s1 e1]], [[Anki]], [[risikoreich]], [[Energiesicherheit]]
+, [[s1 e1]], [[Texte/Misc/Anki]], [[risikoreich]], [[Energiesicherheit]]

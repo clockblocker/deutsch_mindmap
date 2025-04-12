@@ -16,4 +16,4 @@ respectively, or rather, or
 
 ---
 [[Beziehung]], [[weise]], [[beziehen]], [[weisen]], [[beziehungslos]]
-, [[Anki]]
+, [[Texte/Misc/Anki]]

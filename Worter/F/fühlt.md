@@ -1,2 +1,2 @@
 Inf: [[fühlen]]
-, [[Anki]]
+, [[Texte/Misc/Anki]]

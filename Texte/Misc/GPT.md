@@ -2,7 +2,7 @@
 Google-[[Konto]] [[verwalten]]
 
 ---
-[[GPT.md#^2|(q)]] • im deutschen brauchen [[unzählbare]] Substantiva normalerweise **einen Artikel** oder eine [[Mengenangabe]]. ^2
+[[Texte/Misc/GPT#^2|(q)]] • im deutschen brauchen [[unzählbare]] Substantiva normalerweise **einen Artikel** oder eine [[Mengenangabe]]. ^2
 
 • **falsch:** ❌ _“Meine Schwester hat Geld in die Tasche gelegt.”_ (klingt [[unvollständig]], weil es unklar ist, ob es sich um konkretes oder [[irgendein]] Geld [[handelt]])
 
@@ -12,7 +12,7 @@ Google-[[Konto]] [[verwalten]]
 • bei [[Erwähnungen]]/[[hinweisen]]: **von etwas sprechen**
 
 ---
-[[GPT.md#^1|(q)]] ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. Wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. ^1
+[[Texte/Misc/GPT#^1|(q)]] ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. Wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. ^1
 
 also:
 

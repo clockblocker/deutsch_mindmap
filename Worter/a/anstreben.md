@@ -1,4 +1,4 @@
 , [[versuchen]], [[wollen]]
 , [[vermeiden]]
 , [[beabsichtigen]]
-, [[streben]], [[bestreben]]
+, [[Streben]], [[bestreben]]

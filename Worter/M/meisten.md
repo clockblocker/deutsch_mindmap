@@ -1,1 +1,1 @@
-[[meist]], [[s1 e1]], [[wohlfühlen]], [[auskennen]], [[Tellerrand]], [[Besteck]], [[Bestecken]], [[Becher]], [[eher]], [[behagen]], [[selbständig]], [[Anki]]
+[[meist]], [[s1 e1]], [[wohlfühlen]], [[auskennen]], [[Tellerrand]], [[Besteck]], [[Bestecken]], [[Becher]], [[eher]], [[behagen]], [[selbständig]], [[Texte/Misc/Anki]]

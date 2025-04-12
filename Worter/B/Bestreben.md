@@ -5,7 +5,7 @@
 
 
 ---
-= [[anstreben]], [[versuchen]], [[sich bemühen]], [[streben]]
+= [[anstreben]], [[versuchen]], [[sich bemühen]], [[Streben]]
 ≈ [[arbeiten]], [[wirken]], [[trachten]]
 ≠ [[aufgeben]], [[verzichten]], [[unterlassen]]
 
@@ -18,7 +18,7 @@ to strive, to endeavor
 
 ---
 [[be]]|[[streb]]|[[en]]
-[[be]] + [[streben]] = [[bestreben]] // to strive, to endeavor
+[[be]] + [[Streben]] = [[bestreben]] // to strive, to endeavor
 
 
 ---
@@ -62,7 +62,7 @@ endeavor, aspiration
 стремление, старание
 
 ---
-[[bestreben]], [[streben]], [[Bestrebung]], [[bestrebt]]
+[[bestreben]], [[Streben]], [[Bestrebung]], [[bestrebt]]
 
 ---
 [[be]]|[[streb]]|[[en]]

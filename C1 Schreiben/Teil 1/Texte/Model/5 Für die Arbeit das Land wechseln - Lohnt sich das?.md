@@ -16,8 +16,7 @@ auch ich finde, dass es viele Gründe gibt, die für einen Arbeitsplatzwechsel i
 
 Die Frage, nach welchen Kriterien man „seinen“ neuen Arbeitsplatz auswählt, ist dabei nicht immer so einfach zu beantworten. Zunächst einmal sollte man sich selbst fragen: „Was ist mir persönlich wichtig?“, weiter, in Hinblick auf einen beruflichen Wechsel, sollte man sich auf persönliche Fragen wie die beruflichen Chancen auf persönliches Wachstum, Weiterbildung und zusätzliche Qualifikationen hat, auch das Gehalt sollte man im Vergleich zum jetzigen Bruttojahresgehalt genauer betrachten.
 
-Es ist natürlich auch ein Argument, die gegen einen Arbeitsplatzwechsel ins Ausland sprechen. Man muss
-beispielsweise viel Energie in einen solchen Neuanfang investieren, oft versteht man einige nicht auf Anhieb. Man sollte sich bewusst sein, dass es schwierig sein kann, sich an eine neue Arbeitskultur zu gewöhnen. Man braucht eine hohe Frustrationstoleranz. Die Arbeitsweise, die Kommunikation, die Regeln, die Hierarchien, die Übersetzung von Dokumenten und die Beantragung des Visums kosten viel Zeit und Nerven kosten.
+Es ist natürlich auch ein Argument, die gegen einen Arbeitsplatzwechsel ins Ausland sprechen. Man muss beispielsweise viel Energie in einen solchen Neuanfang investieren, oft versteht man einige nicht auf Anhieb. Man sollte sich bewusst sein, dass es schwierig sein kann, sich an eine neue Arbeitskultur zu gewöhnen. Man braucht eine hohe Frustrationstoleranz. Die Arbeitsweise, die Kommunikation, die Regeln, die Hierarchien, die Übersetzung von Dokumenten und die Beantragung des Visums kosten viel Zeit und Nerven kosten.
 
 Es gibt aber auch viele Vorteile, die zum Auswandern, wenn ihr euch einfach nur beruflich verändern oder neue Karrieremöglichkeiten wünscht. Dann kann ich vor allem eine grüne Karte empfehlen, die euch den Raum zur Vernetzung mit Menschen aus der ganzen Welt bietet und ihr bequem zu Hause aus der Couch machen könnt.
 

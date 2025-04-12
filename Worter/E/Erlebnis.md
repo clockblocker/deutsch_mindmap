@@ -9,7 +9,7 @@ die [[Erlebnisse]]
 ---
 = [[Begebenheit]], [[Geschichte]], [[Ereignis]], , [[Abenteuer]]
 ≈ [[Abenteuer]], [[Anekdote]], [[Erfahrung]]
-≠ [[Tätigkeit]], [[Arbeit]], [[Beschäftigung]]
+≠ [[Tätigkeit]], [[Worter/A/Arbeit]], [[Beschäftigung]]
 
 ---
 experience, adventure

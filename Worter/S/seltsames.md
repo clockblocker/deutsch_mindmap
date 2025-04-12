@@ -1,1 +1,1 @@
-, [[seltsam]], [[Anki]]
+, [[seltsam]], [[Texte/Misc/Anki]]

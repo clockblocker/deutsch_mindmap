@@ -1,2 +1,2 @@
 , [[bemühen]]
-, [[streben]], [[bestreben]], [[aufraffen]]
+, [[Streben]], [[bestreben]], [[aufraffen]]

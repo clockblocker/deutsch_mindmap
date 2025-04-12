@@ -27,5 +27,5 @@ Morpheme:
 [[wohl]]
 
 ---
-#Adverb, [[11 08]], [[obwohl]], [[echt]], [[wohlfühlen]], [[wohlgeformt]], [[s1 e1]], [[Anki]]
-, [[gut]], [[Wohlstand]], [[wohltätig]], [[Wohltätigkeit]], [[Abtönungspartikeln]], [[sowohl]]
+#Adverb, [[11 08]], [[obwohl]], [[echt]], [[wohlfühlen]], [[wohlgeformt]], [[s1 e1]], [[Texte/Misc/Anki]]
+, [[gut]], [[Wohlstand]], [[wohltätig]], [[Wohltätigkeit]], [[Abtönungspartikeln]], [[sowohl]], [[Wohlbefinden]]

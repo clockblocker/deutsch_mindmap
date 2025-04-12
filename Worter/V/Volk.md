@@ -1,2 +1,2 @@
 , [[Bevölkerung]], [[Volkssouveränität]], [[Volksbildung]]
-, [[Mensch]], [[Menschenmenge]], [[Monarch]]
+, [[Mensch]], [[Menschenmenge]], [[Monarch]], [[Gesamtgesellschaft]]

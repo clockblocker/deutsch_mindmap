@@ -1,6 +1,8 @@
 🔓 [[ermöglichen]], [ɛɐ̯ˈmøːɡlɪçən] | [[ermöglichte]], haben [[ermöglicht]]
 
 ---
+- Erläutern Sie, warum viele Unternehmen Homeoffice [[ermöglichen]].  
+
 125. In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, … (76%)
 	- [ ] die Bürger und Bürgerinnen zu [[zwingen]], ihre Stimme [[abzugeben]].
 	- [x] nach dem Willen der [[Wählermehrheit]] den Wechsel der Regierung zu [[ermöglichen]].

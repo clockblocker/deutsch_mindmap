@@ -29,4 +29,4 @@ G: des [[Verdienstordens]], der [[Verdienstorden]]
 D: dem [[Verdienstorden]], den [[Verdienstorden]]  
 
 ---
-[[verdienen]], [[Orden]], [[Verdienstmedaille]], [[Auszeichnung]], [[Ehrung]]
+[[verdienen]], [[Orden]], [[Verdienstmedaille]], [[Auszeichnung]], [[Ehrung]], [[Verdienst]]

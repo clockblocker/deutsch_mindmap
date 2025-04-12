@@ -4,6 +4,8 @@
 ---
 In einem Monat werden sie das Land [[verlassen]].
 
+- Erläutern Sie, warum Menschen ihr [[Herkunftsland]] [[verlassen]].
+
 [[17 zu inf#^2|(q)]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2
 
 Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
@@ -52,4 +54,4 @@ Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 , [[anstoßen]]
 , [[abfahren]]
 , [[kennenlernen]]
-, [[aussteigen]], [[widmen]], [[verabschieden]], [[hinauslaufen]], [[schleppen]], [[geraten]], [[unzuverlässig]], [[landen]], [[hinstehen]], [[initiieren]], [[abströmen]], [[aufhalten]], [[einnehmen]]
+, [[aussteigen]], [[widmen]], [[verabschieden]], [[hinauslaufen]], [[schleppen]], [[geraten]], [[unzuverlässig]], [[landen]], [[hinstehen]], [[initiieren]], [[abströmen]], [[aufhalten]], [[einnehmen]], [[Herkunftsland]]

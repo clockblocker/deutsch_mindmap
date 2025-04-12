@@ -46,4 +46,4 @@ Deklinationstabelle:
 
 
 , [[Verlangen]]
-, [[erwarten]], [[Anliegen]]
+, [[erwarten]], [[Anliegen]], [[Streben]]

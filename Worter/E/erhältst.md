@@ -1,1 +1,1 @@
-, [[erhalten]], [[Anki]]
+, [[erhalten]], [[Texte/Misc/Anki]]

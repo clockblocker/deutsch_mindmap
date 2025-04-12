@@ -32,5 +32,5 @@ Tags:
 ---
 
 Morphems:
-[[sondern]], [[Konnektoren]], [[Anki]]
+[[sondern]], [[Konnektoren]], [[Texte/Misc/Anki]]
 , [[als]], [[Konjunktoren]]

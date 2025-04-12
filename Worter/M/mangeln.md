@@ -3,6 +3,10 @@
 ---
 [[1 ADHD#^9|(q)]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
+
+- Erläutern Sie die Folgen [[mangelnder]] Integration für die [[Gesamtgesellschaft]].  
+
+
 ---
 = [[fehlen]], [[ermangeln]], [[entbehren]]
 ≈ [[fehlen]], [[mangelhaft sein]], [[dürften]], [[benötigen]]

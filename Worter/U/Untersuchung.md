@@ -27,4 +27,4 @@ D: der [[Untersuchung]], den [[Untersuchungen]]
 [[untersuchen]], [[untersuchenswert]], [[Untersuchungsausschuss]], [[Untersuchungsbericht]]
 
 , [[suche]], [[Zwischenergebnis]]
-, [[Anki]], [[ergeben]], [[Studie]], [[Abstrich]]
+, [[Texte/Misc/Anki]], [[ergeben]], [[Studie]], [[Abstrich]]

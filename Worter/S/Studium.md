@@ -8,7 +8,7 @@ die [[Studien]]
 ---
 = [[Ausbildung]], [[Universität]]
 ≈ [[Worter/S/Studium]], [[Hochschule]]
-≠ [[Schule]], [[Arbeit]], [[Hobby]], [[Worter/F/Freizeit]]
+≠ [[Schule]], [[Worter/A/Arbeit]], [[Hobby]], [[Worter/F/Freizeit]]
 
 ---
 studies

@@ -1,1 +1,1 @@
-, [[verdienen]], [[Anki]]
+, [[verdienen]], [[Texte/Misc/Anki]]

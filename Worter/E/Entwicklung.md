@@ -28,5 +28,5 @@ G: der [[Entwicklung]], der [[Entwicklungen]]
 D: der [[Entwicklung]], den [[Entwicklungen]]  
 
 ---
-[[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Anki]], [[Wendung]]
+[[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Texte/Misc/Anki]], [[Wendung]]
 , [[fehlentwicklung]], [[Karriere]], [[Stadtentwicklung]], [[Persönlichkeitsentwicklung]], [[Laufbahn]], [[Kindesalter]]

@@ -1,1 +1,1 @@
-, [[Weniger]], [[verkürzt]], [[begrenzt]]
+, [[Weniger]], [[verkürzt]], [[begrenzt]], [[Reduktion]]

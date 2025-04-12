@@ -25,4 +25,4 @@ D: dem [[Ring]], den [[Ringen]]
 ---
 [[Ringel]], [[Ringbuch]], [[Ringkampf]], [[Ringförmig]], [[Ringelblume]], [[Ringelnatz]], [[Ringvorlesung]]
 </ideal_output>
-, [[verringern]]
+, [[verringern]], [[Verringerung]]

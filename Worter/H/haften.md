@@ -29,4 +29,4 @@ PI: [[haftend]], PII: [[gehaftet]], Zu+inf: [[zu haften]]
 [[haften]] / to be liable, to adhere, to stick
 
 ---
-[[Haftung]], [[haftbar]], [[Haftpflicht]], [[Haftstrafe]], [[anhaften]], [[festhalten]]
+[[Haftung]], [[haftbar]], [[Haftpflicht]], [[Haftstrafe]], [[anhaften]], [[festhalten]], [[dauerhaft]]

@@ -12,4 +12,4 @@
 , [[bevorzugen]]
 , [[beabsichtigen]]
 , [[beurteilen]]
-, [[befreunden]], [[begeistert]], [[Bedürfnis]], [[Befragung]], [[besagen]], [[bestreben]], [[bedürfen]], [[bewerten]], [[bewältigen]], [[bepflanzen]], [[Umweltbelastung]], [[bestehen]], [[benötigen]], [[bedürfnisorientiert]], [[fürchten]], [[befürworten]], [[Befürchtung]], [[bemerkbar]], [[Klimabedingung]], [[bedeutend]], [[Beherrschung]], [[beeinträchtigen]], [[beherrschen]], [[Beantragung]], [[Bedrohung]]
+, [[befreunden]], [[begeistert]], [[Bedürfnis]], [[Befragung]], [[besagen]], [[bestreben]], [[bedürfen]], [[bewerten]], [[bewältigen]], [[bepflanzen]], [[Umweltbelastung]], [[bestehen]], [[benötigen]], [[bedürfnisorientiert]], [[fürchten]], [[befürworten]], [[Befürchtung]], [[bemerkbar]], [[Klimabedingung]], [[bedeutend]], [[Beherrschung]], [[beeinträchtigen]], [[beherrschen]], [[Beantragung]], [[Bedrohung]], [[Streben]], [[Modebegriff]], [[Wohlbefinden]]

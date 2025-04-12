@@ -1,1 +1,1 @@
-, [[Konjunktoren]]
+, [[Konjunktoren]], [[inwiefern]]

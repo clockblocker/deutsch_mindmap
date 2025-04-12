@@ -34,4 +34,4 @@ P: [[fernen]], [[ferneren]], [[fernsten]]
 
 ---
 [[Ferne]], [[entfernen]], [[Fernweh]], [[fernsehen]], [[Fernbeziehung]], [[Fernbedienung]]
-, [[althochdeutsch]], [[fernhalten]], [[unweit]]
+, [[althochdeutsch]], [[fernhalten]], [[unweit]], [[inwiefern]]

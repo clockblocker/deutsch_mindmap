@@ -25,3 +25,4 @@ D: den [[Reisekosten]]
 
 ---
 [[reisen]], [[Reise]], [[kosten]], [[Reisebüro]], [[Reiseführer]]
+, [[Verdienst]]

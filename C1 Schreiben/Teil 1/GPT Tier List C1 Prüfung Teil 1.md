@@ -4,12 +4,12 @@
 - 👥 [[Soziale Medien & Kommunikation]] #Medien/Gesellschaft
 - 🌍 [[Integration & Migration]] #Gesellschaft 
 - 🏠 [[Homeoffice + Work-Life Balance]] #Arbeit
+- 💻 [[KI & Menschliche Kommunikation]] #Medien/Arbeit
 
 ###### A-TIER (dependable picks, some finesse required)
 - 📰 [[Fake News & Medienkompetenz]] #Medien
 - 🏳️‍🌈 [[Gleichberechtigung + Diversity]] #Gesellschaft
 - 🧠 [[Stress + Psychische Gesundheit]] #Gesundheit/Arbeit
-
 
 ###### B-TIER (use with care, needs good spin)
 - 💻 [[KI & Menschliche Kommunikation]] #Medien/Arbeit

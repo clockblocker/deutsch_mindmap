@@ -1,2 +1,2 @@
 Inf: [[passieren]]
-, [[Extra 8]], [[echten]], [[Anki]]
+, [[Extra 8]], [[echten]], [[Texte/Misc/Anki]]

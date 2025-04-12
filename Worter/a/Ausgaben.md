@@ -1,1 +1,1 @@
-, [[ausgeben]]
+[[Ausgabe]]

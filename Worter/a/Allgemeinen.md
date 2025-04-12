@@ -1,1 +1,1 @@
-, [[Allgemeine]], [[allgemein]], [[einführen]], [[Einführung]], [[Anki]]
+, [[Allgemeine]], [[allgemein]], [[einführen]], [[Einführung]], [[Texte/Misc/Anki]]

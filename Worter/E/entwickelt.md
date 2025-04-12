@@ -1,3 +1,3 @@
-, [[Reif]], [[unreif]], [[entwickeln]], [[Anki]]
+, [[Reif]], [[unreif]], [[entwickeln]], [[Texte/Misc/Anki]]
 💡 [[entwickeln]]
 , [[allmählich]]

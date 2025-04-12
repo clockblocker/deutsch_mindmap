@@ -5,7 +5,7 @@ Also. Michael. Ich war nicht — nicht immer so …“ Sie zeigte auf sich selbs
 
 
 ---
-= [[beabsichtigen]], [[planen]], [[streben]]
+= [[beabsichtigen]], [[planen]], [[Streben]]
 ≈ [[vorhaben]], [[anstreben]], [[begehren]]
 ≠ [[ablehnen]], [[verweigern]], [[unterlassen]]
 

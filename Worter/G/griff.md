@@ -1,1 +1,1 @@
-, [[greifen]], [[Angriff]], [[Begriff]], [[Angriffsgeschrei]], [[Zugriff]], [[Fehlgriff]]
+, [[greifen]], [[Angriff]], [[Begriff]], [[Angriffsgeschrei]], [[Zugriff]], [[Fehlgriff]], [[Modebegriff]]

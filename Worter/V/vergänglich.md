@@ -1,1 +1,1 @@
-, [[Vergangenheit]]
+, [[Vergangenheit]], [[dauerhaft]]

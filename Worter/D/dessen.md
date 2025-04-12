@@ -20,4 +20,4 @@ whose, of which, of whom
 
 ---
 [[genitive]], [[Relativpronomen]], [[Possessivpronomen]]
-, [[Anki]]
+, [[Texte/Misc/Anki]]

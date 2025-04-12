@@ -1,4 +1,4 @@
 [[ziehen]]
 [[ziehen]]
-, [[anziehen]], [[einigen]], [[als-zu]], [[Anki]]
+, [[anziehen]], [[einigen]], [[als-zu]], [[Texte/Misc/Anki]]
 , [[zeihen]], [[Vorschlag]], [[Äußerung]]

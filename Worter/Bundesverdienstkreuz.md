@@ -20,7 +20,7 @@ die [[Bundesverdienstkreuze]]
 Federal Cross of Merit, Federal Merit Cross
 
 ---
-[[Bundes]]|[[verdienst]]|[[kreuz]]
+[[Bundes]]|[[Verdienst]]|[[kreuz]]
 
 ---
 N: das [[Bundesverdienstkreuz]], die [[Bundesverdienstkreuze]]  

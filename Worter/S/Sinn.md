@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sinnes]], [[Sinne]], [[Sinnen]], [[Sinnen]]
 
 ---
-#Substantiv #Maskulin, [[Unsinn]], [[Schwachsinn]], [[ersinnlich]], [[Deutung]], [[Inhalt]], [[Anki]], [[wahnsinnig]], [[Riechsinn]]
+#Substantiv #Maskulin, [[Unsinn]], [[Schwachsinn]], [[ersinnlich]], [[Deutung]], [[Inhalt]], [[Texte/Misc/Anki]], [[wahnsinnig]], [[Riechsinn]]

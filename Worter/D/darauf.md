@@ -15,4 +15,4 @@ Synonyme:
 **Übersetzung**: on it, to it, about it
 
 ---
-#Adverb, [[dabei]], [[da]], [[folgend]], [[Anki]]
+#Adverb, [[dabei]], [[da]], [[folgend]], [[Texte/Misc/Anki]]

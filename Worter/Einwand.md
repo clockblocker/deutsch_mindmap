@@ -23,3 +23,5 @@ Genitive: des [[Einwands]] oder [[Einwandes]], der [[Einwände]]
 Dative: dem [[Einwand]], den [[Einwänden]] 
 
 [[einwenden]], [[widerspruchsvoll]], [[einwendig]], [[Vorbehalt]], [[Vorschlag]]
+
+#Maskulin 

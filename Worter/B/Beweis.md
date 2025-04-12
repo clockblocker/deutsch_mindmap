@@ -23,4 +23,4 @@ G: des [[Beweises]], der [[Beweise]]
 D: dem [[Beweis]], den [[Beweisen]]  
 
 ---
-[[beweisen]], [[beweisbar]], [[Beweislast]], [[Beweismittel]], [[beweiskräftig]], [[Anki]], [[Glaskugel]], [[Geschenkbestätigung]], [[ergeben]]
+[[beweisen]], [[beweisbar]], [[Beweislast]], [[Beweismittel]], [[beweiskräftig]], [[Texte/Misc/Anki]], [[Glaskugel]], [[Geschenkbestätigung]], [[ergeben]]

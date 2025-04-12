@@ -1,9 +1,9 @@
-, [[Kürzung]], [[Erhaltung]], [[Anlage]], [[Bauart]]
-
 ⛏️ 🔵 der [[Abbau]], [ˈapˌbaʊ̯](https://youglish.com/pronounce/Abbau/german) | 📉 🔵 der [[Abbau]], [ˈapˌbaʊ̯]
 
 ---
 *Auf der einen Seite vertreten viele den Standpunkt, dass* `nicht nur` Kohle [[Abbau]] und Verbrennung ein öffentliches Gesundheitsrisiko darstellt, `sondern` *(zusätzlich)* `auch` die Kohlekraftwerke viel CO2 produziert. Luftverschmutzung, toxische Abgase, Smog und saure Regenfälle sind in Kohleabhängigen Regionen Chinas und Indiens so selbstverständlich wie weisser Schnee in der Winter des Finnlands.
+
+, [[Kürzung]], [[Erhaltung]], [[Anlage]], [[Bauart]]
 
 ---
 = [[Bergbau]], [[Förderung]] | [[Reduzierung]], [[Verringerung]], [[Senkung]]
@@ -38,3 +38,4 @@ N: der [[Abbau]], die [[Abbaue]]
 A: den [[Abbau]], die [[Abbaue]]
 G: des [[Abbaus]], der [[Abbaue]]
 D: dem [[Abbau]], den [[Abbauten]]
+, [[Reduktion]]

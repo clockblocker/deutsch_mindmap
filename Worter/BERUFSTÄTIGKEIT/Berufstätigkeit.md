@@ -5,7 +5,7 @@ Berufstätigkeit
 , [[Erwerbstätigkeit]]
 
 ---
-= [[Erwerbstätigkeit]], [[Arbeit]]
+= [[Erwerbstätigkeit]], [[Worter/A/Arbeit]]
 ≈ [[Beschäftigung]], [[Job]]
 ≠ [[Arbeitslosigkeit]], [[Ruhestand]]
 
@@ -28,4 +28,4 @@ G: der [[Berufstätigkeit]], der [[Berufstätigkeiten]]
 D: der [[Berufstätigkeit]], den [[Berufstätigkeiten]]
 
 
-#Feminin 
+#Feminin , [[berufstätig]]

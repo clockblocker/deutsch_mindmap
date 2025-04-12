@@ -4,7 +4,7 @@
 [[betrachten]] - [[be]] = [[trachten]] / to observe, to regard, to consider
 
 ---
-= [[streben]], [[bemühen]], [[anstreben]]
+= [[Streben]], [[bemühen]], [[anstreben]]
 ≈ [[versuchen]], [[wollen]], [[beabsichtigen]], [[ansteuern]]
 ≠ [[aufgeben]], [[resignieren]], [[verzichten]]
 

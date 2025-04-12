@@ -27,4 +27,4 @@ G: der [[Toleranz]], der [[Toleranzen]]
 D: der [[Toleranz]], den [[Toleranzen]]
 
 
-#Feminin 
+#Feminin , [[Rücksicht]]

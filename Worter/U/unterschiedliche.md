@@ -1,1 +1,1 @@
-, [[unterschiedlich]], [[Streit]], [[Anki]]
+, [[unterschiedlich]], [[Streit]], [[Texte/Misc/Anki]]

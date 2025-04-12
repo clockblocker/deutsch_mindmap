@@ -9,7 +9,7 @@ Ohne [[Mühe]], lernt man keine [[Fremdsprache]]
 , [[Bemühung]], 💪 [[mühen]]
 
 ---
-= [[Anstrengung]], [[Arbeit]], [[Plage]]
+= [[Anstrengung]], [[Worter/A/Arbeit]], [[Plage]]
 ≈ [[Kraftanwendung]], [[Aufgabe]], [[Last]]
 ≠ [[Leichtigkeit]], [[Entspannung]], [[Spaß]], [[Freude]]
 

@@ -13,10 +13,10 @@ to work off, to process
 отрабатывать, выполнять
 
 ---
-[[Arbeit]], [[Abarbeitung]], [[abgearbeitet]], [[bearbeiten]]
+[[Worter/A/Arbeit]], [[Abarbeitung]], [[abgearbeitet]], [[bearbeiten]]
 
 ---
-[[ab]]|[[arbeit]]|[[en]]
+[[ab]]|[[Worter/A/Arbeit]]|[[en]]
 [[abarbeiten]]
 
 

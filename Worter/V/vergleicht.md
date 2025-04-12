@@ -1,1 +1,1 @@
-, [[vergleichen]], [[Vergleich]], [[Anki]]
+, [[vergleichen]], [[Vergleich]], [[Texte/Misc/Anki]]

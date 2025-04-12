@@ -1,2 +1,2 @@
 🙇‍♂️[[beugen]]
-[[bücken]], [[verbeugen]], [[Vorbeugung]]
+[[bücken]], [[verbeugen]], [[Vorbeugung]], [[vorbeugen]]

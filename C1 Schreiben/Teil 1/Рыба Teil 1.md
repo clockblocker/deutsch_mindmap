@@ -1,10 +1,9 @@
 ##### Pre-Kopf
 *Ich verfolge schon seit geraumer Zeit eure Beiträge zu* `jM` *und möchte nun auch etwas dazu schreiben.*
-
 ##### Kopf
 *Heute wird kontrovers darüber diskutiert, 
 
-1) *ob* `eD` *ein vorübergehender modischer Slogan ist, oder ob das Streben danach als zentraler Bestandteil einer erfolgreichen* `jS` *angesehen werden sollte.*
+1) *ob* `eD` *ein vorübergehender Modebegriff ist, oder ob das Streben danach als notwendiger Bestandteil einer erfolgreichen* `jS` *angesehen werden sollte.*
 
 2) *ob* ... *sollten*, *oder ob solche Maßnahmen 
 	2) *nur als* ... *(temporäre Krisenlösung)* *angesehen werden sollte.*
@@ -15,7 +14,7 @@
 
 5) *was die Regierungen mit* `jM` *tun sollten, um den Herausforderungen* `jS` *zu begegnen*
 
-
+temporäre Krisenlösung
 ---
 ---
 ##### Seite 1
@@ -179,7 +178,6 @@ Persönlichkeitsentwicklung
 
 ==abilitet== = Fähigkeit
 
-
  _Wenn diese_ [[Voraussetzungen]] _erfüllt werden,
 
 
@@ -243,3 +241,12 @@ Um die [[Reichweite]] von `jN` zu erklären, sollten wir uns einmal [[anschauen]
 
 
 *Am Mainsterns is es so, aber der Teufel stekt in dem Detail: z.b. ...*
+
+erfolgreichen
+
+
+
+> _…
+
+> _...that the problem can only be adequately addressed through a balanced interplay of_ jN_.
+

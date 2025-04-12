@@ -1,1 +1,1 @@
-, [[Kauf]], [[Verkauf]]
+, [[Kauf]], [[Verkauf]], [[Erwerb]]

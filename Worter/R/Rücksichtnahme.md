@@ -1,1 +1,1 @@
-, [[Vorsicht]]
+, [[Vorsicht]], [[Rücksicht]]

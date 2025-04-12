@@ -1,8 +1,11 @@
-
 🧑‍🤝‍🧑 [[gesellschaftlich]], [ɡəˈzɛlʃaftlɪç]
 
 ---
 Da es eine [[Vielzahl]] von Ethiken gibt, durch deren Prisma ein Mensch die Realität [[betrachten]] kann, wird im Rahmen dieser [[Überlegung]] [[vorgeschlagen]], den [[gesellschaftlichen]] Konsens als Quelle der Ethik zu nehmen.
+
+
+- Diskutieren Sie, wie [[gesellschaftlich]]e [[Rahmenbedingung]]en zu einer besseren Balance [[beitragen]] könnten  
+
 
 ---
 = [[sozial]], [[gemeinschaftlich]], [[kollektiv]]

@@ -18,7 +18,7 @@ die [[Arbeitnehmer]]
 employee, worker
 
 ---
-[[Arbeit]]|[[nehm]]|[[er]]
+[[Worter/A/Arbeit]]|[[nehm]]|[[er]]
 
 ---
 N: der [[Arbeitnehmer]], die [[Arbeitnehmer]]  

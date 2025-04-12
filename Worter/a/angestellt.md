@@ -1,2 +1,2 @@
 🛠️ [[anstellen]]
-, [[Angestellte]], [[Büroangestellte]]
+, [[Angestellte]], [[Büroangestellte]], [[berufstätig]]

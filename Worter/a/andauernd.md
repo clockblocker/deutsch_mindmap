@@ -1,1 +1,1 @@
-[[andauern]]
+[[andauern]], [[dauerhaft]]

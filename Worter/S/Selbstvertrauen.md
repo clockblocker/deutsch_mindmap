@@ -1,3 +1,3 @@
 
 , [[selbstbewusst]]
-, [[Selbstwertgefühl]]
+, [[Selbstwertgefühl]], [[Selbstwert]]

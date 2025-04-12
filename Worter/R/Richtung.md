@@ -40,6 +40,6 @@ Einzigartige mögliche Formen:
 [[Richtung]], [[Richtungern]]
 
 ---
-#Substantiv #Maskulin, [[zusteuern]], [[östlich]], [[s1 e1]], [[Anki]], [[Fachrichtung]], [[Richtungsänderung]]
+#Substantiv #Maskulin, [[zusteuern]], [[östlich]], [[s1 e1]], [[Texte/Misc/Anki]], [[Fachrichtung]], [[Richtungsänderung]]
 , [[Richtungsangabe]]
 , [[Achse]], [[richtungsgebend]]

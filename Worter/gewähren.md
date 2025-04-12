@@ -27,5 +27,5 @@ PI: [[gewährend]], PII: [[gewährt]], Zu+inf: [[zugewähren]]
 [[gewähren]] - [[ge]] = [[währen]] / to grant, to allow, to provide
 
 ---
-[[Gewährung]], [[Gewährsmann]], [[Gewährleistung]], [[gewährbar]], [[begewähren]], [[Anki]]
+[[Gewährung]], [[Gewährsmann]], [[Gewährleistung]], [[gewährbar]], [[begewähren]], [[Texte/Misc/Anki]]
 , [[verschaffen]], [[gönnen]]

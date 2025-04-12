@@ -33,8 +33,6 @@ Einerseits vertreten viele den Standpunkt, man sollte vor allem auf die Arbeitsm
 
 Einerseits vertreten viele den Standpunkt, man sollte vor allem auf die Menge der Arbeitsplätze des Studienfachs aufpassen. 
 
-
-
 Einerseits vertreten viele den Standpunkt, man sollte vor allem 
 
 ---

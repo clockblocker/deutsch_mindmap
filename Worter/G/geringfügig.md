@@ -1,2 +1,2 @@
 , [[wichtig]]
-, [[überwiegend]], [[weitgehend]]
+, [[überwiegend]], [[weitgehend]], [[Verringerung]]

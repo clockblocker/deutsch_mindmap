@@ -1,1 +1,1 @@
-, [[bewerben]], [[Bewerbung]], [[Bewerb]], [[anwerben]], [[erwerben]]
+, [[bewerben]], [[Bewerbung]], [[Bewerb]], [[anwerben]], [[erwerben]], [[Erwerb]]

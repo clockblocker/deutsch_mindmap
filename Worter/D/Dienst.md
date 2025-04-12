@@ -9,4 +9,4 @@ der [[Dienste]]
 
 #Substantiv
 #Maskulin
-, [[Diensten]], [[Militärdienst]], [[Verdienstorden]], [[Urlaub]], [[Bindungsurlaub]]
+, [[Diensten]], [[Militärdienst]], [[Verdienstorden]], [[Urlaub]], [[Bindungsurlaub]], [[Verdienst]]

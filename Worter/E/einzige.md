@@ -1,1 +1,1 @@
-, [[einziger]], [[Anki]]
+, [[einziger]], [[Texte/Misc/Anki]]

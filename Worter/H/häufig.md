@@ -33,4 +33,4 @@ P: [[häufigen]], [[häufigeren]], [[häufigsten]]
 ---
 [[häufig]], [[Häufigkeit]], [[Häufung]], [[aufhäufen]], [[anhäufen]]
 
-, [[selten]], [[manchmal]], [[Anki]]
+, [[selten]], [[manchmal]], [[Texte/Misc/Anki]]

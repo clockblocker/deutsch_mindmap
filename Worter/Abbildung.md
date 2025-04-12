@@ -23,4 +23,4 @@ G: der [[Abbildung]], der [[Abbildungen]]
 D: der [[Abbildung]], den [[Abbildungen]]  
 
 ---
-[[abbilden]], [[bildhaft]], [[bildlich]], [[Bildung]], [[Abbild]], [[Anki]]
+[[abbilden]], [[bildhaft]], [[bildlich]], [[Bildung]], [[Abbild]], [[Texte/Misc/Anki]]

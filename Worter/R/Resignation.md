@@ -1,2 +1,2 @@
 , [[Schulterzucken]], [[Anspruch]], [[Bewerb]]
-, [[Durchhaltevermögen]], [[bestreben]]
+, [[Durchhaltevermögen]], [[bestreben]], [[Streben]]

@@ -16,7 +16,7 @@ Bezeichnet die Richtung, das Streben (Gegensatz: [[von Präposition|von]]):
 	- Wie komme ich  `nach` dem Zoo? 
 					`nach` dem Kurfürstendamm?  
 					
-	- Wir [[streben]] (sehnen uns)  `nach` [[Ansehen]]
+	- Wir [[Streben]] (sehnen uns)  `nach` [[Ansehen]]
 							`nach` Ehre und Ruhm
 							`nach` Reichtum
 

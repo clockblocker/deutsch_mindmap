@@ -27,5 +27,5 @@ Synonyme:
 ---
 
 #Substantiv
-#Neuter[[handel]], [[Geschäftsleben]], [[Anki]], [[Zoogeschäft]]
+#Neuter[[handel]], [[Geschäftsleben]], [[Texte/Misc/Anki]], [[Zoogeschäft]]
 , [[Angelegenheit]], [[Geschäftsidee]], [[Verkauf]]

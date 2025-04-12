@@ -1,1 +1,1 @@
-, [[damalige]], [[langfristig]], [[vorübergehend]]
+, [[damalige]], [[langfristig]], [[vorübergehend]], [[dauerhaft]]

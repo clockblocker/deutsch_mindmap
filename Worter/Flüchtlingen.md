@@ -1,1 +1,1 @@
-🔵 👥 der [[Flüchtling]], [ˈflʏçtlɪŋ], [[Aufnahme]], [[Anki]]
+🔵 👥 der [[Flüchtling]], [ˈflʏçtlɪŋ], [[Aufnahme]], [[Texte/Misc/Anki]]

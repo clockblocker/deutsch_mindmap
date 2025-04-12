@@ -9,7 +9,7 @@ Alle [[stimmen]] gegen Ninas Idee.
 
 [[Klavierstimmer]].
 
-[[gpt]]
+[[Texte/Misc/GPT]]
 
 ---
 = [[zustimmen]], [[übereinstimmen]], [[passen]]

@@ -33,7 +33,7 @@ Morpheme: [[ver]][[dien]][[en]]
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
 | --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
 | Ich | [[verdiene]] | [[verdiente]] | - | [[verdiene]] | [[verdiente]] |
-| Du | [[verdienst]] | [[verdiendest]] | [[verdien]] | [[verdieness]] | [[verdiendest]] |
+| Du | [[Verdienst]] | [[verdiendest]] | [[verdien]] | [[verdieness]] | [[verdiendest]] |
 | Er/sie/es | [[verdient]] | [[verdiente]] | - | [[verdiene]] | [[verdiente]] |
 | Wir | [[verdienen]] | [[verdienten]] | - | [[verdienen]] | [[verdienten]] |
 | Ihr | [[verdient]] | [[verdiendent]] | [[verdient]] | [[verdienet]] | [[verdiendest]] |

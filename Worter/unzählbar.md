@@ -1,7 +1,7 @@
 ♾️ [[unzählbar]], [ˈʊnt͡səːlb̥aːɐ̯] ≠ [[zählbar]]
 
 ---
-[[GPT.md#^2|(q)]] • im deutschen brauchen [[unzählbare]] Substantiva normalerweise **einen Artikel** oder eine [[Mengenangabe]]. ^2
+[[Texte/Misc/GPT#^2|(q)]] • im deutschen brauchen [[unzählbare]] Substantiva normalerweise **einen Artikel** oder eine [[Mengenangabe]]. ^2
 
 ---
 = [[unabzählbar]]

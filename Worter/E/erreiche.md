@@ -1,1 +1,1 @@
-, [[erreichten]], [[erreichen]], [[Anki]]
+, [[erreichten]], [[erreichen]], [[Texte/Misc/Anki]]

@@ -1,1 +1,1 @@
-, [[Lage]], [[Umstand]], [[Zustand]], [[Begebenheit]], [[Verhältnis]]
+, [[Lage]], [[Umstand]], [[Zustand]], [[Begebenheit]], [[Verhältnis]], [[Rahmenbedingung]]

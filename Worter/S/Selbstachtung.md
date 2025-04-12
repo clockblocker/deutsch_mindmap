@@ -1,2 +1,2 @@
 
-, [[Selbstwertgefühl]]
+, [[Selbstwertgefühl]], [[Selbstwert]]

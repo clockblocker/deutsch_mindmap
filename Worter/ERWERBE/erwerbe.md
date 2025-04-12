@@ -1,1 +1,1 @@
-, [[erwerben]]
+, [[erwerben]], [[Erwerb]]

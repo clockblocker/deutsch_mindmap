@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Ausdrucks]], [[Ausdrucke]], [[Ausdrücke]], [[a
 #Substantiv #Maskulin
 
 , [[Worter/W/Wort]], [[Gesichtsausdruck]]
-, [[aussprechen]]
+, [[aussprechen]], [[Modebegriff]]

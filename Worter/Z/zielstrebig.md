@@ -27,4 +27,4 @@ P: [[zielstrebigen]], [[zielstrebigeren]], [[zielstrebigsten]]
 
 ---
 [[Ziel]], [[Streben]], [[Zielstrebigkeit]], [[zielstrebig handeln]], [[zielstrebig sein]]
-, [[streben]]
+, [[Streben]]

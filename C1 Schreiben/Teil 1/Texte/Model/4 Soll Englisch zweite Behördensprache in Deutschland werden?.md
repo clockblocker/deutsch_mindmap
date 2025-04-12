@@ -107,6 +107,3 @@ Die Einführung von Englisch als zweite Amtssprache könnte in dieser Hinsicht a
 
 
 - [[höflich]], [[hilfsbereit]], [[verständnisvoll]], [[kompetent]]
-
----
-

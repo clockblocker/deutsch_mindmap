@@ -7,7 +7,7 @@ die [[Renten]]
 ---
 = [[Pension]], [[Altersversorgung]]
 ≈ [[Ruhestand]], [[Altersruhe]], [[Versorgung]]
-≠ [[Arbeit]], [[Erwerbstätigkeit]]
+≠ [[Worter/A/Arbeit]], [[Erwerbstätigkeit]]
 
 ---
 pension, retirement benefit

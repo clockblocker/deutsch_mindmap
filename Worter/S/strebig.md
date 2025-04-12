@@ -1,1 +1,1 @@
-💪 [[streben]]
+💪 [[Streben]]

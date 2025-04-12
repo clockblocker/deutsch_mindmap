@@ -2,7 +2,7 @@
 die [[Bekannten]]
 
 ---
-, [[bekannt]], [[Anki]]
+, [[bekannt]], [[Texte/Misc/Anki]]
 
 
 ---

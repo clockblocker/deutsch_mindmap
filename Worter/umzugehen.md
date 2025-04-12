@@ -1,1 +1,1 @@
-🤝 [[umgehen]], [[Anki]]
+🤝 [[umgehen]], [[Texte/Misc/Anki]]

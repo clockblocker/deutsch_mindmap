@@ -1,4 +1,4 @@
-, [[Arbeitsplatz]], [[Aufgabe]], [[Arbeitswelt]], [[Arbeit]], [[Arbeitsbedingungen]]
+, [[Arbeitsplatz]], [[Aufgabe]], [[Arbeitswelt]], [[Worter/A/Arbeit]], [[Arbeitsbedingungen]]
 , [[Freizeitaktivität]]
 , [[Termindruck]]
 , [[Arbeitsauftrag]]

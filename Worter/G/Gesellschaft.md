@@ -32,6 +32,6 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gesellschaft]], [[Gesellschaften]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaft]], [[Gesellschaften]]
 
 ---
-#Substantiv #Feminin, [[Handelsgesellschaft]], [[Bevölkerung]], [[Anki]]
+#Substantiv #Feminin, [[Handelsgesellschaft]], [[Bevölkerung]], [[Texte/Misc/Anki]]
 , [[Stehempfang]]
-, [[Mensch]], [[Wettbewerbsgesellschaft]], [[gesellschaftlich]]
+, [[Mensch]], [[Wettbewerbsgesellschaft]], [[gesellschaftlich]], [[Gesamtgesellschaft]]

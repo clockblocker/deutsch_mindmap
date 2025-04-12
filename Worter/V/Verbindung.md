@@ -29,5 +29,5 @@ D: der [[Verbindung]], den [[Verbindungen]]
 
 
 , [[Abstand]], [[Beziehung]], [[binden]], [[zusammenschrauben]], [[verbinden]], [[Bezug]], [[Zusammenschluss]], [[Scheidung]]
-, [[Worter/Beziehung]], [[Beziehung]], [[Anki]]
+, [[Worter/Beziehung]], [[Beziehung]], [[Texte/Misc/Anki]]
 , [[Achse]], [[Gemeinschaft]], [[Zugang]], [[Abhängigkeit]], [[Austausch]]

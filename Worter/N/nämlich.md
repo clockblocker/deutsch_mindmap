@@ -18,4 +18,4 @@ you see, namely, that is to say, specifically
 
 ---
 [[erklären]], [[verdeutlichen]], [[präzisieren]], [[spezifizieren]]
-, [[Anki]], [[Konnektivpartikeln]]
+, [[Texte/Misc/Anki]], [[Konnektivpartikeln]]

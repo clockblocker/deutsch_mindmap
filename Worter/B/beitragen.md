@@ -5,6 +5,9 @@
 
 [[Vereinsbeitrag]],
 
+- Diskutieren Sie, wie [[gesellschaftlich]]e [[Rahmenbedingung]]en zu einer besseren Balance [[beitragen]] könnten  
+
+
 ---
 = [[helfen]], [[unterstützen]], [[fördern]]
 ≈ [[mitwirken]], [[beteiligen]], [[spenden]]
@@ -46,4 +49,4 @@ sie, [[tragen bei]], [[trugen bei]], [[tragen bei]], [[trügen bei]], [[tragen b
 Adjektive: [[beitragend]], [[beitragender]], [[beitragendst]]
 
 ---
-[[beitragender]], [[beitragendes]], [[beitragende]], [[beitragenden]], [[beitragendem]], [[beitragenderer]], [[beitragenderes]], [[beitragendere]], [[beitragenderen]], [[beitragenderem]], [[beitragendster]], [[beitragendstes]], [[beitragendste]], [[beitragendsten]], [[beitragendstem]]
+[[beitragender]], [[beitragendes]], [[beitragende]], [[beitragenden]], [[beitragendem]], [[beitragenderer]], [[beitragenderes]], [[beitragendere]], [[beitragenderen]], [[beitragenderem]], [[beitragendster]], [[beitragendstes]], [[beitragendste]], [[beitragendsten]], [[beitragendstem]], [[Rahmenbedingung]]

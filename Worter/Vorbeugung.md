@@ -1,27 +1,31 @@
-🛡️ 🔴 die [[Vorbeugung]], [ˈfoːɐ̯ˌbɔɪ̯ɡʊŋ]
-die [[Vorbeugungen]]
+🛡️ 🔴 die [[Vorbeugung]], [ˈfoːɐ̯ˌbɔɪ̯ɡʊŋ](https://youglish.com/pronounce/Vorbeugung/german)
+(no plural form)
 
 ---
 Die [[Impfung]] ist von der [[Vorbeugung]].
 
 ---
-= [[Prävention]], [[Prophylaxe]]
-≈ [[Schutz]], [[Vorsorge]], [[Verhinderung]]
-≠ [[Behandlung]], [[Heilung]], [[Therapie]]
+= [[Prävention]], [[Verhinderung]]
+≈ [[Schutz]], [[Vermeidung]], [[Abwehr]]
+≠ [[Verursachung]], [[Auslösung]]
 
 ---
-prevention, prophylaxis
-профилактика, предупреждение
+prevention  
+предотвращение, профилактика
 
 ---
-[[vorbeugen]], [[vorbeugend]]
+[[vorbeugen]], [[vorbeugend]], [[Prävention]]
 
 ---
 [[Vor]]|[[beug]]|[[ung]]
 [[Vorbeugung]]
+
 
 ---
 N: die [[Vorbeugung]], die [[Vorbeugungen]]
 A: die [[Vorbeugung]], die [[Vorbeugungen]]
 G: der [[Vorbeugung]], der [[Vorbeugungen]]
 D: der [[Vorbeugung]], den [[Vorbeugungen]]
+
+
+#Feminin 

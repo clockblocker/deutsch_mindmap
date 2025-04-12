@@ -5,6 +5,9 @@ haben [[gestaltet]]
 ---
 Die Kamera schwenkt nach unten, und die [[Gestalten]] von Aang und Katara erscheinen über dem Horizont.
 
+- Diskutieren Sie, wie ein ausgewogenes Homeoffice-Modell [[gestaltet]] werden könnte.  
+
+
 ---
 Synonyme: [[formen]], [[kreieren]], [[entwerfen]], [[modellieren]], [[bilden]]
 Antonyme: [[zerstören]], [[auflösen]], [[vernichten]]

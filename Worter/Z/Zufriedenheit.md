@@ -1,2 +1,2 @@
 , [[Freude]], [[Herzeleid]]
-, [[zufriedengeben]]
+, [[zufriedengeben]], [[Wohlbefinden]]

@@ -1,1 +1,1 @@
-🤚 [[winken]], [[Anki]]
+🤚 [[winken]], [[Texte/Misc/Anki]]

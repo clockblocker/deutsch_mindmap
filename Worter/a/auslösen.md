@@ -1,1 +1,1 @@
-, [[lösen]], [[resultieren]], [[verursachen]], [[erzeugen]], [[zugrunde]]
+, [[lösen]], [[resultieren]], [[verursachen]], [[erzeugen]], [[zugrunde]], [[vorbeugen]]

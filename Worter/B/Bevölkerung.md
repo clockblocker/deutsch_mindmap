@@ -31,4 +31,4 @@ D: der [[Bevölkerung]], den [[Bevölkerungen]]
 ---
 [[bevölkern]], [[Bevölkerungsdichte]], [[Bevölkerungsgruppe]], [[Bevölkerungswachstum]][[Menschen]]
 
-#Feminin 
+#Feminin , [[Gesamtgesellschaft]]

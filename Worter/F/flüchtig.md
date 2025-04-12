@@ -1,2 +1,2 @@
 , [[gründlich]], [[Flüchtling]]
-, [[Flüchtigkeitsfehler]]
+, [[Flüchtigkeitsfehler]], [[dauerhaft]]

@@ -1,1 +1,2 @@
-, [[Vorbeugung]]
+, [[Vorbeugung]]🛡️ [[vorbeugen]] | 😌 [[vorbeugend]]
+

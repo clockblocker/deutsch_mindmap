@@ -16,7 +16,7 @@ die [[Zwangsarbeiten]]
 forced labor, compulsory work
 
 ---
-[[Zwang]]s|[[Arbeit]]
+[[Zwang]]s|[[Worter/A/Arbeit]]
 
 ---
 N: die [[Zwangsarbeit]], die [[Zwangsarbeiten]]  

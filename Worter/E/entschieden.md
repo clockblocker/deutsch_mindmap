@@ -1,1 +1,1 @@
-, [[entscheiden]], [[entschlossen]], [[Anki]], [[1 Präpositionen Übungen]], [[entscheidend]], [[letztendlich]]
+, [[entscheiden]], [[entschlossen]], [[Texte/Misc/Anki]], [[1 Präpositionen Übungen]], [[entscheidend]], [[letztendlich]]

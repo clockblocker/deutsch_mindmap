@@ -387,7 +387,7 @@ Ich habe nicht gewusst, dass sie niemals ins Ausland  gefahren sind
 2. Мои друзья ходили вчера в полицию и сказали, что видели преступника около вокзала
 Meine Freunde gingen gestern zur Polizei und sagten, dass sie den Verbrecher in der Nähe des Bahnhofs *gesehen haben*.
 
-[[gpt]]
+[[Texte/Misc/GPT]]
 
 Meine Freunde sind gestern zur Polizei gegangen und haben dort gesagt, dass sie einen Verbrecher in der Nähe des Bahnhofs gesehen haben
 nicht [[genau]]: [[zu]] = [[Worter/P/Platzwechsel]], [[bei]] = [[Location]]
@@ -431,7 +431,7 @@ In Japan haben sie Geld *verloren*.
 In Japan haben sie Geld verloren
 in Japan haben sie Geld verloren
 
-[[gpt]]
+[[Texte/Misc/GPT]]
 1. Моя сестра положила деньги в сумку
 Meine Schwester hat *das* Geld in die Tasche gelegt.
 Meine Schwester hat das Geld in die Tasche gelegt 

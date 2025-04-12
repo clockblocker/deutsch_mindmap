@@ -28,5 +28,5 @@ therefore, hence
 , [[hinweg]], [[desto]], [[dadurch]], [[somit]]
 
 , [[deshalb]]
-, [[Anki]]
+, [[Texte/Misc/Anki]]
 , [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]]

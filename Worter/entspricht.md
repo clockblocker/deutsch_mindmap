@@ -1,1 +1,1 @@
-🤝 [[entsprechen]], [[Anki]]
+🤝 [[entsprechen]], [[Texte/Misc/Anki]]

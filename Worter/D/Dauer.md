@@ -1,1 +1,1 @@
-, [[Dauerausstellung]], [[andauern]], [[Dauerverfügbarkeit]]
+, [[Dauerausstellung]], [[andauern]], [[Dauerverfügbarkeit]], [[dauerhaft]]

@@ -16,7 +16,7 @@ work pressure
 [[arbeiten]], [[Druck]], [[arbeitsreich]], [[druckvoll]]
 
 ---
-[[Arbeit]]|`s`|[[druck]]
+[[Worter/A/Arbeit]]|`s`|[[druck]]
 [[Arbeitsdruck]]
 
 

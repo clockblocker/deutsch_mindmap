@@ -1,0 +1,1 @@
+😌 [[dauerhaft]] | 🟢 das [[Dauerhafte]] 😌

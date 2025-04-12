@@ -21,8 +21,8 @@
 
 ---
 ###### 🔍 Thema 4: [[Selbstdarstellung]] und soziale Vergleiche – Leben wir in einer digitalen Illusion?
-- Erklären Sie, warum viele Menschen ihr Leben auf sozialen Medien [[inszexnieren]].  
-- Nennen Sie ein Beispiel, wie digitale [[Vergleiche]] [[Selbstwert]] beeinflussen können.  
+- Erklären Sie, warum viele Menschen ihr Leben auf sozialen Medien [[inszenieren]].  
+- Nennen Sie ein Beispiel, wie digitale [[Vergleich]]e [[Selbstwert]] beeinflussen können.  
 - Argumentieren Sie, [[inwiefern]] das [[Streben]] nach [[Anerkennung]] online problematisch sein kann. 
 - Diskutieren Sie, wie Medienkompetenz und [[Aufklärung]] psychische Stabilität stärken können.  
 

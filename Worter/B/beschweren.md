@@ -34,4 +34,4 @@ PI: [[beschwerend]], PII: [[beschwert]], Zu+inf: [[zu beschweren]]
 
 ---
 [[Beschwerde]], [[Beschwerung]], [[Beschwerdeführer]], [[beschwerlich]], [[Beschwernis]], [[reklamieren]], [[klagen]], [[versüssen]]
-, [[jammern]]
+, [[jammern]], [[entlasten]]

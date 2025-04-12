@@ -1,1 +1,1 @@
-, [[wohlfühlen]]
+, [[wohlfühlen]], [[Wohlbefinden]]

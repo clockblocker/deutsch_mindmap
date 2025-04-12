@@ -1,4 +1,6 @@
-###### 🌍 Migration – Chance oder Herausforderung für die Gesellschaft?
+[[4 Soll Englisch zweite Behördensprache in Deutschland werden?]]
+
+###### 🌍 Migration – Chance oder Herausforderung für die [[Gesellschaft]]?
 - Erläutern Sie, warum Menschen ihr Herkunftsland verlassen.  
 - Nennen Sie ein Beispiel, wie Migration eine Gesellschaft bereichern kann.  
 - Erklären Sie Schwierigkeiten, die bei der Integration entstehen können.  
@@ -9,7 +11,7 @@
 ###### 🧾 Einbürgerung erleichtern – sinnvoll oder riskant?
 - Beschreiben Sie die Voraussetzungen für eine Einbürgerung in Deutschland.  
 - Argumentieren Sie anhand eines Beispiels, warum ein vereinfachter Zugang sinnvoll sein könnte.  
-- Nennen Sie mögliche Einwände gegen zu leichte Einbürgerung.  
+- Nennen Sie mögliche [[Einwände]] gegen zu leichte Einbürgerung.  
 - Erläutern Sie, wie eine Balance zwischen Integration und staatsbürgerlicher Verantwortung aussehen kann.  
 
 ---
@@ -27,3 +29,5 @@
 - Nennen Sie ein Beispiel für eine gelungene Integration durch Sprache.  
 - Erläutern Sie Probleme, die durch mangelnde Sprachkenntnisse entstehen.  
 - Diskutieren Sie, wie Sprachförderung effektiver gestaltet werden könnte.  
+
+

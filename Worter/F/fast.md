@@ -33,5 +33,5 @@ Nuancen:
 - Impliziert eine kleine Differenz zum vollständigen Zustand
 '''
 
-This template is tailored for an adverb, highlighting its meaning, usage, and providing context for how "fast" is used in German., [[Anki]]
+This template is tailored for an adverb, highlighting its meaning, usage, and providing context for how "fast" is used in German., [[Texte/Misc/Anki]]
 , [[nah]], [[unweit]]

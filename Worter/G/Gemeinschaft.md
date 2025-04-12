@@ -28,3 +28,4 @@ A: die [[Gemeinschaft]], die [[Gemeinschaften]]
 G: der [[Gemeinschaft]], der [[Gemeinschaften]]  
 D: der [[Gemeinschaft]], den [[Gemeinschaften]]
 
+, [[Gesamtgesellschaft]]

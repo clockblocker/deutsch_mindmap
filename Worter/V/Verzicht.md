@@ -1,1 +1,1 @@
-, [[Anspruch]], [[Versicherungspflicht]], [[unverzichtbar]]
+, [[Anspruch]], [[Versicherungspflicht]], [[unverzichtbar]], [[Erwerb]]

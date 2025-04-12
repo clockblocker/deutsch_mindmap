@@ -1,1 +1,1 @@
-🏷️ [[bezeichnen]] | 🏷️ 🔵 der [[Bezeichner]], [[Anki]]
+🏷️ [[bezeichnen]] | 🏷️ 🔵 der [[Bezeichner]], [[Texte/Misc/Anki]]

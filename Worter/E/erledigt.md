@@ -33,4 +33,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[erledigt]], [[erledigte]], [[erledigtes]], [[erledigter]], [[erledigtem]], [[erledigten]], [[erledigt]]
 [[erledigere]], [[erlediger]], [[erledigte]], [[erledigeres]], [[erledigendem]], [[erledigensten]], [[erledigte]]
-[[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[s1 e1]], [[gelöst]], [[Anki]]
+[[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[erledigt]], [[s1 e1]], [[gelöst]], [[Texte/Misc/Anki]]

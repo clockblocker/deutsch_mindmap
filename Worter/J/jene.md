@@ -1,2 +1,2 @@
-, [[jener]], [[Anki]]
+, [[jener]], [[Texte/Misc/Anki]]
 , [[dieser]]

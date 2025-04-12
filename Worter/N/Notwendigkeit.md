@@ -4,6 +4,8 @@ die [[Notwendigkeiten]]
 ---
 dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
 
+###### ⚖️ Work-Life Balance – [[Modebegriff]] oder echte [[Notwendigkeit]]?
+
 *[[4 Autofrei#^3|^]]* *Fast jede Stadt hat die Möglichkeit, sich autofrei zu machen, weil es keine [[Notwendigkeit]] von der Bundesregierung gibt, zu [[intervenieren]].* ^3
 
 
@@ -28,3 +30,6 @@ D: der [[Notwendigkeit]], den [[Notwendigkeiten]]
 [[notwendig]], [[notwenig]], [[notdürftig]], [[Notnagel]], [[Not]], [[Verwendung]], [[müssen]], [[Bedürfnis]], [[Voraussetzung]], [[Grundvoraussetzung]]
 
 , [[unentbehrlich]]
+, [[Modebegriff]]
+
+#Feminin 

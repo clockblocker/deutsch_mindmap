@@ -23,5 +23,5 @@ Morpheme:
 Einzigartige mögliche Formen: [[Suche]], [[Suchen]], [[Suchen]], [[Suchen]]
 
 ---
-#Substantiv #Feminin, [[zuneigen]], [[Lehrstellensuche]], [[s1 e1]], [[Anki]]
+#Substantiv #Feminin, [[zuneigen]], [[Lehrstellensuche]], [[s1 e1]], [[Texte/Misc/Anki]]
 , [[aussuchen]]

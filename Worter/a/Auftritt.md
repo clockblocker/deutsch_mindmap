@@ -25,5 +25,5 @@ Genitive: des [[Auftritts]], der [[Auftritte]]
 Dative: dem [[Auftritt]], den [[Auftritten]] 
 
 ---
-[[auftreten]], [[auftretend]], [[Bühnenauftritt]], [[Konzertauftritt]], [[Anki]]
+[[auftreten]], [[auftretend]], [[Bühnenauftritt]], [[Konzertauftritt]], [[Texte/Misc/Anki]]
 

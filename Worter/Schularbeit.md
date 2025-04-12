@@ -14,7 +14,7 @@ schoolwork, test
 школьная работа, контрольная работа
 
 ---
-[[Schul]]|[[arbeit]]
+[[Schul]]|[[Worter/A/Arbeit]]
 
 ---
 N: die [[Schularbeit]], die [[Schularbeiten]]
@@ -23,4 +23,4 @@ G: der [[Schularbeit]], der [[Schularbeiten]]
 D: der [[Schularbeit]], den [[Schularbeiten]]
 
 ---
-[[Schule]], [[Arbeit]], [[schulisch]], [[Schulaufgabe]], [[Schulbuch]], [[Schulferien]]
+[[Schule]], [[Worter/A/Arbeit]], [[schulisch]], [[Schulaufgabe]], [[Schulbuch]], [[Schulferien]]

@@ -28,4 +28,4 @@ G: des [[Verständnisses]], der [[Verständnisse]]
 D: dem [[Verständnis]], den [[Verständnissen]]
 
 
-#Neuter , [[verständnisvoll]]
+#Neuter , [[verständnisvoll]], [[Rücksicht]]

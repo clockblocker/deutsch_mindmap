@@ -11,7 +11,7 @@ Einerseits vertreten viele den Standpunkt, man sollte vor allem auf die Arbeitsm
 ---
 = [[Studienfach]], [[Studienrichtung]]
 ≈ [[Worter/S/Studium]], [[Ausbildung]], [[Lehrgang]], [[Fachrichtung]]
-≠ [[keiner]], [[Arbeit]], [[Praktikum]]
+≠ [[keiner]], [[Worter/A/Arbeit]], [[Praktikum]]
 
 ---
 course of study, degree program

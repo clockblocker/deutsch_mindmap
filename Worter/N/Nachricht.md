@@ -29,5 +29,5 @@ Synonyme:
 #Substantiv #Feminin
 
 
-[[bericht]], [[Auskunft]], [[Bescheid]], [[Meldung]], [[Benachrichtigung]], [[Anki]]
+[[bericht]], [[Auskunft]], [[Bescheid]], [[Meldung]], [[Benachrichtigung]], [[Texte/Misc/Anki]]
 , [[Inserat]]

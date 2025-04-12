@@ -1,1 +1,1 @@
-, [[gemeinsam]], [[Allgemeine]], [[Anki]]
+, [[gemeinsam]], [[Allgemeine]], [[Texte/Misc/Anki]]

@@ -2,7 +2,7 @@
 die [[Angaben]]
 
 ---
-[[GPT.md#^2|(q)]] • im deutschen brauchen [[unzählbare]] Substantiva normalerweise **einen Artikel** oder eine [[Mengenangabe]]. ^2
+[[Texte/Misc/GPT#^2|(q)]] • im deutschen brauchen [[unzählbare]] Substantiva normalerweise **einen Artikel** oder eine [[Mengenangabe]]. ^2
 
 1. In Deutschland helfen [[ehrenamtliche]] [[Wahlhelfer]] und Wahlhelferinnen bei den [[Wahlen]]. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen? (90%)
 	- [ ] Sie schreiben Karten und Briefe mit der [[Angabe]] des [[Wahllokals]].

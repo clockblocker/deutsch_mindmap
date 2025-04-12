@@ -1,2 +1,2 @@
 , [[gering]]
-, [[Durchhaltevermögen]]
+, [[Durchhaltevermögen]], [[Bedürfnis]]

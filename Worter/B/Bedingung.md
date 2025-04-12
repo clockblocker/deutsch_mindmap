@@ -39,3 +39,4 @@ D: der [[Bedingung]], den [[Bedingungen]]
 #Feminin 
 
 
+, [[Rahmenbedingung]]

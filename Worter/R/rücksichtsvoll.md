@@ -1,1 +1,1 @@
-, [[leichtsinnig]], [[berücksichtigen]]
+, [[leichtsinnig]], [[berücksichtigen]], [[Rücksicht]]

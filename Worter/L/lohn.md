@@ -29,4 +29,4 @@ D: dem [[Lohn]], den [[Löhnen]]
 [[lohnen]], [[lohnend]], [[Lohnarbeit]], [[Lohnsklave]], [[Lohnsteuer]]
 
 , [[Lohnsteuer]], [[Sozialabgaben]], [[Gehaltszahlungen]], [[unbezahlt]], [[Gehalt]]
-, [[Nominallohn]]
+, [[Nominallohn]], [[Verdienst]]

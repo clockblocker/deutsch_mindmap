@@ -1,4 +1,4 @@
 , [[dabei]], [[da]]
 
 Ich suche meinen Koffer, [[darin]] sind meine Sachen.
-, [[Anki]]
+, [[Texte/Misc/Anki]]

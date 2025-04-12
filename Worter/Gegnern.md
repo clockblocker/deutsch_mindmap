@@ -23,4 +23,4 @@ G: des [[Gegners]], der [[Gegner]]
 D: dem [[Gegner]], den [[Gegnern]]  
 
 ---
-[[gegnerisch]], [[Gegnerschaft]], [[entgegentreten]], [[bekämpfen]], [[Anki]]
+[[gegnerisch]], [[Gegnerschaft]], [[entgegentreten]], [[bekämpfen]], [[Texte/Misc/Anki]]

@@ -1,2 +1,2 @@
 👤 [[erscheinen]]
-, [[Anki]]
+, [[Texte/Misc/Anki]]

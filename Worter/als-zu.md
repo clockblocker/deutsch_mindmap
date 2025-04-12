@@ -1,1 +1,1 @@
-[[Eher]] [[ziehe]] ich wieder zu meinen Eltern, [[als|als]] einen Tag länger bei dir [[zu]] wohnen., [[Anki]]
+[[Eher]] [[ziehe]] ich wieder zu meinen Eltern, [[als|als]] einen Tag länger bei dir [[zu]] wohnen., [[Texte/Misc/Anki]]

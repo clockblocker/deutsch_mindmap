@@ -1,0 +1,2 @@
+😩 [[mangeln]] | 😌 [[mangelnd]]
+, [[Gesamtgesellschaft]]

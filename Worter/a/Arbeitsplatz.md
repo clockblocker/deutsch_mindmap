@@ -14,7 +14,7 @@ die [[Arbeitsplätze]]
 workplace, workstation
 
 ---
-[[Arbeit]]|[[s]]|[[platz]]
+[[Worter/A/Arbeit]]|[[s]]|[[platz]]
 
 ---
 N: der [[Arbeitsplatz]], die [[Arbeitsplätze]]  

@@ -1,2 +1,2 @@
 , [[Strumpf]]
-, [[streben]]
+, [[Streben]]

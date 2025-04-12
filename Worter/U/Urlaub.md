@@ -6,7 +6,7 @@ die [[Urlaube]]
 ---
 = [[Ferien]], [[Worter/F/Freizeit]], [[Erholungsurlaub]]
 ≈ [[Auszeit]], [[Erholung]], [[Pause]], [[Frei]] [[Ausflug]]
-≠ [[Arbeit]], [[Dienst]], [[Pflicht]], [[Alltag]]
+≠ [[Worter/A/Arbeit]], [[Dienst]], [[Pflicht]], [[Alltag]]
 
 ---
 vacation, holiday

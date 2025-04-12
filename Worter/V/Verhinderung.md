@@ -1,2 +1,2 @@
 , [[abhalten]], [[Erlaubnis]]
-, [[Gelegenheit]], [[Vorbeugung]], [[Hemmung]]
+, [[Gelegenheit]], [[Vorbeugung]], [[Hemmung]], [[verhindern]]

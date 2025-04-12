@@ -33,4 +33,4 @@ Morpheme: [[beug]][[en]]
 
 Partizip I: [[beugend]], Partizip II: [[gebeugt]], Zu infinitive: zu beugen
 
-- [[beug]][[en]][[bücken]], [[strecken]], [[verbeugen]], [[knicken]]
+- [[beug]][[en]][[bücken]], [[strecken]], [[verbeugen]], [[knicken]], [[vorbeugen]]

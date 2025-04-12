@@ -31,8 +31,8 @@ G: des [[Wertes]], der [[Werte]]
 D: dem [[Wert]], den [[Werten]]  
 
 ---
-[[werten]], [[wertvoll]], [[Wertsache]], [[Wertschätzung]], [[bewerten]], [[Anki]], [[Informationswert]]
+[[werten]], [[wertvoll]], [[Wertsache]], [[Wertschätzung]], [[bewerten]], [[Texte/Misc/Anki]], [[Informationswert]]
 , [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]], [[Betrag]]
 
 
-#Maskulin , [[Stellenwert]]
+#Maskulin , [[Stellenwert]], [[Selbstwert]]

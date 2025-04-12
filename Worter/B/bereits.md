@@ -33,4 +33,4 @@ Typische Verwendung:
 - "Er ist bereits angekommen."
 - "Das Buch ist bereits ausverkauft."
 - "Ich habe das bereits erledigt."
-''', [[Grenz]], [[Anki]], [[Berufsfeld]]
+''', [[Grenz]], [[Texte/Misc/Anki]], [[Berufsfeld]]
