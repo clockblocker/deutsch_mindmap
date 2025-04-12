@@ -1,1 +1,1 @@
-, [[echten]], [[echt]], [[entlehnen]], [[Vorlage]], [[Modellierung]], [[Ersatz]]
+, [[echten]], [[echt]], [[entlehnen]], [[Vorlage]], [[Modellierung]], [[Ersatz]], [[Übersetzung]]

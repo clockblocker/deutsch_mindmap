@@ -3,7 +3,7 @@
 nicht [[gezwungen]]
 
 ---
-132. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
+132. Viele Menschen in Deutschland arbeiten in ihrer [[Worter/F/Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
 	- [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
 	- [ ] Sie arbeiten in der [[Bundesregierung]].
 

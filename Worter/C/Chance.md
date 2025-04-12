@@ -24,3 +24,4 @@ D: der [[Chance]], den [[Chancen]]
 
 ---
 [[chancenreich]], [[chancenlos]]
+, [[Bildungschance]]

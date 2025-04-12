@@ -1,2 +1,2 @@
 , [[Berechnung]], [[Nebenkostenabrechnung]], [[schätzen]], [[unterschätzen]], [[Auszählung]]
-, [[Selbsteinschätzung]], [[Einschätzung]]
+, [[Selbsteinschätzung]], [[Einschätzung]], [[Wertschätzung]]

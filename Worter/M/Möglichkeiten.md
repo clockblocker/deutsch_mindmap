@@ -1,1 +1,1 @@
-, [[Möglichkeit]], [[ermöglichen]]
+, [[Möglichkeit]], [[ermöglichen]], [[Bildungschance]]

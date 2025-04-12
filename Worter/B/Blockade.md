@@ -1,1 +1,1 @@
-, [[Block]], [[Gegenwind]], [[Förderband]]
+, [[Block]], [[Gegenwind]], [[Förderband]], [[Hemmung]]

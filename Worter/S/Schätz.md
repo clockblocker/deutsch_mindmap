@@ -1,1 +1,1 @@
-, [[schätzen]], [[Einschätzung]]
+, [[schätzen]], [[Einschätzung]], [[Wertschätzung]]

@@ -3,6 +3,10 @@
 ---
 *[[Golfstorm#^3|^]]* Denn die Klimakrise führt nicht nur zu mehr [[Extremwetter]], sondern [[wirkt aus|wirkt]] sich auch auf [[Meeresströmungen]] aus. ^3
 
+
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Hier sollte immer die Meinungsfreiheit im_ [[Mittelpunkt]] _stehen, denn eine zu starke Regulierung im Netz kann sich auf die Qualität der_ [[Berichterstattung]] _durch die_ [[Medien]] [[auswirken]], _oder Menschen werden_ [[verhaftet]], _weil sie ihre Meinung im Internet_ [[kundgetan]] _haben._ ^5
+
+
 ---
 = [[sich auswirken]], [[resultieren]], [[folgen]]
 ≈ [[beeinflussen]], [[wirken]], [[verändern]], [[ausstrahlen]]
@@ -44,4 +48,4 @@ sie, [[wirken aus]], [[wirkten aus]], [[wirken aus]], [[wirkten aus]], [[wirken 
 Adjektive: [[auswirkend]], [[auswirkender]], [[auswirkendst]]
 
 ---
-[[auswirkender]], [[auswirkendes]], [[auswirkende]], [[auswirkenden]], [[auswirkendem]], [[auswirkenderer]], [[auswirkenderes]], [[auswirkendere]], [[auswirkenderen]], [[auswirkenderem]], [[auswirkendster]], [[auswirkendstes]], [[auswirkendste]], [[auswirkendsten]], [[auswirkendstem]], [[Auswirkung]]
+[[auswirkender]], [[auswirkendes]], [[auswirkende]], [[auswirkenden]], [[auswirkendem]], [[auswirkenderer]], [[auswirkenderes]], [[auswirkendere]], [[auswirkenderen]], [[auswirkenderem]], [[auswirkendster]], [[auswirkendstes]], [[auswirkendste]], [[auswirkendsten]], [[auswirkendstem]], [[Auswirkung]], [[Berichterstattung]]

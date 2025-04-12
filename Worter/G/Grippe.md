@@ -7,7 +7,7 @@ Sie ist glücklich. Sie hat keine [[Grippe]]. Sie muss auch nicht lernen.
 ---
 = [[Influenza]], [[Erkältungskrankheit]]
 ≈ [[Virusinfektion]], [[Viruserkrankung]], [[Infekt]]
-≠ [[Gesundheit]], [[Wohlbefinden]], [[Fitness]]
+≠ [[Worter/G/Gesundheit]], [[Wohlbefinden]], [[Fitness]]
 
 ---
 flu, influenza

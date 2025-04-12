@@ -1,1 +1,1 @@
-, [[verfügen]]
+, [[verfügen]], [[anweisen]]

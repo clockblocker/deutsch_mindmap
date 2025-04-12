@@ -130,7 +130,7 @@
 
 #### Feminin (f)
 - [[Karte]], [[Karten]] - билет
-- [[Zeit]], [[Zeiten]] - время
+- [[Worter/Z/zeit]], [[Zeiten]] - время
 - [[Arbeit]], [[Arbeiten]] - работа
 - [[Neuigkeit]], [[Neuigkeiten]] - новость
 - [[Uhr]], [[Uhren]] - часы
@@ -202,14 +202,14 @@
 ##### Feminin (f)
 - [[Antwort]], [[Antworten]] - ответ
 - [[Frage]], [[Fragen]] - вопрос
-- [[Sprache]], [[Sprachen]] - язык
+- [[Worter/S/Sprache]], [[Sprachen]] - язык
 
 ##### Neutrum (n)
 - [[Schweigen]] - молчание
 - [[Geschäft]], [[Geschäfte]] - магазин
 - [[Zoogeschäft]], [[Zoogeschäfte]] - зоомагазин
 - [[Kaufhaus]], [[Kaufhäuser]] - магазин
-- [[Geld]], [[Gelder]] - деньги
+- [[Worter/G/Geld]], [[Gelder]] - деньги
 - [[Silber]] - серебро
 - [[Gold]] - золото
 - [[Problem]], [[Probleme]] - проблема
@@ -266,9 +266,9 @@
 - [[Stress]] - стресс
 
 ##### Feminin (f)
-- [[Regel]], [[Regeln]] - правило
+- [[Worter/R/Regel]], [[Regeln]] - правило
 - [[Flasche]], [[Flaschen]] - бутылка
-- [[Gesundheit]] - здоровье
+- [[Worter/G/Gesundheit]] - здоровье
 - [[Zitrone]], [[Zitronen]] - лимон
 - [[Apfelsine]], [[Apfelsinen]] - апельсин
 - [[Frucht]], [[Früchte]] - фрукт
@@ -497,7 +497,7 @@
 - [[Kunst]], [[Künste]] - искусство
 
 ##### Neutrum (n)
-- [[Studium]], [[Studien]] - учеба
+- [[Worter/S/Studium]], [[Studien]] - учеба
 - [[Gebäude]] - здание
 - [[Museum]], [[Museen]] - музей
 - [[Boot]], [[Boote]] - лодка

@@ -5,6 +5,8 @@ die [[Behörden]]
 23. In Deutschland sind die [[meisten]] [[Erwerbstätigen]] … (97%)
 	- [x] bei einer Firma oder [[Behörde]] [[beschäftigt]].
 
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^2|^]]* _Besonders bei_ [[Behördengängen]] _verstehen viele oft nur wenig und sind auf einen_ [[Dolmetscher]] [[angewiesen]] _. Wer schon einmal einen Brief von einer_ [[Behörde]] _bekommen hat, weiß, dass diese komplizierten_ [[Satzkonstruktionen]] _auch für_ [[Muttersprachler]] _eine_ [[Herausforderung]] _sein können.
+
 * *Erklären Sie, welche Kriterien Angestellte in* [[Behörden]] *mit* [[Publikumsverkehr]] [[erfüllen]] *sollten.* 
 
 23. Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)
@@ -38,4 +40,4 @@ D: der [[Behörde]], den [[Behörden]]
 ---
 [[behördlich]], [[verwalten]], [[amtlich]], [[bürokratisch]], [[Gesundheitsamt]], [[Forstamt]], [[Verwaltungsaufbau]], [[Stadtverwaltung]], [[Polizei]], [[Bürgerei]]
 
-#Feminin 
+#Feminin , [[Behördensprache]], [[Behördengang]], [[Behördenkorrespondenz]], [[gang]]

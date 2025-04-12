@@ -17,7 +17,7 @@ die [[Außenbeziehungen]]
 foreign relations, external relations
 
 ---
-[[Außen]]+[[Beziehungen]]
+[[Außen]]+[[Worter/B/Beziehungen]]
 [[Außen]]|[[Bezieh]]|[[ungen]]
 
 ---

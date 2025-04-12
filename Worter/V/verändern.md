@@ -5,6 +5,9 @@ haben [[verändert]]
 ---
 Wir wollen die Welt [[verändern]].
 
+*Die [[Reihenfolge]] der [[Inhaltspunkt]]e wurde in dieser [[Musterlösung]] [[verändert]]. Wichtig ist nicht, dass man die Punkte aus der [[Aufgabenstellung]] nur [[thematisiert]], sondern sie auch logisch miteinander verbindet, sodass ein kohärenter Text entsteht. Es gibt keinen [[Punktabzug]], wenn Sie dabei die [[Reihenfolge]] verändern.
+
+
 196. Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In dieser Zeit [[veränderte]] sich die DDR [[politisch]] … (86%)
 	- [x] von einer Diktatur zur Demokratie.
 
@@ -12,6 +15,9 @@ Wir wollen die Welt [[verändern]].
 
 91. In Deutschland kann ein Regierungswechsel in einem Bundesland [[Auswirkung]] auf die Bundespolitik haben. Das Regieren wird … (64%)
 	- [x] schwieriger, wenn [[dadurch]] die Mehrheit im Bundesrat [[verändert]] wird.
+
+
+
 
 ---
 Synonyme: [[ändern]], [[umgestalten]], [[modifizieren]], [[transformieren]], [[umwandeln]]
@@ -37,4 +43,4 @@ Morpheme: [[ver]][[änder]][[n]]
 
 Partizip I: [[verändernd]], Partizip II: [[verändert]]
 
-[[verändern]] - [[ver]] = [[ändern]], [[bleiben]], [[verwandeln]], [[verarbeiten]], [[umkehren]], [[anpassen]], [[auswirken]], [[wenden]], [[umstellen]]
+[[verändern]] - [[ver]] = [[ändern]], [[bleiben]], [[verwandeln]], [[verarbeiten]], [[umkehren]], [[anpassen]], [[auswirken]], [[wenden]], [[umstellen]], [[beeinflussen]]

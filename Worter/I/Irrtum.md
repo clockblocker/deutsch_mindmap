@@ -1,4 +1,4 @@
 , [[Fehler]], [[antun]], [[Erkenntnis]], [[Versehen]]
 , [[fehlentwicklung]]
 , [[Flüchtigkeitsfehler]]
-, [[Sorgfaltsfehler]]
+, [[Sorgfaltsfehler]], [[Fehlgriff]], [[Verständnis]]

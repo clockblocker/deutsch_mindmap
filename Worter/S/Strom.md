@@ -5,7 +5,7 @@ die [[Ströme]]
 dadurch die Kosten für Strom, Wasser und [[Reinigung]] sinken
 
 ---
-= [[Elektrizität]], [[Energie]] | [[Fluss]], [[Gewässer]]
+= [[Elektrizität]], [[Worter/E/Energie]] | [[Fluss]], [[Gewässer]]
 ≈ [[Leistung]], [[Kraft]], [[Spannung]] | [[Bach]], [[Flusslauf]]
 ≠ [[Isolierung]] | [[Quelle]], [[Ufer]]
 

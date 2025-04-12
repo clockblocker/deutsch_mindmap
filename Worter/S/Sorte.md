@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sorte]], [[Sorten]], [[Sorte]], [[Sorten]], [[Sorte]], [[Sorten]], [[Sorte]], [[Sorten]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Textsorte]]

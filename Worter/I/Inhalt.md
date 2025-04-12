@@ -5,6 +5,10 @@ die [[Inhalte]]
 237. 2007 wurde das 50-jährige [[Jubiläum]] der „Römischen [[Verträge]]“ [[gefeiert]]. Was war der [[Inhalt]] der Verträge? (78%)
 	- [x] Gründung der Europäischen [[Wirtschaftsgemeinschaft]] (EWG)
 
+238. [[Inhalt]], [[Umfang]], [[Realisierung]] der Sprachfunktionen (z. B. etwas erklären, Argumente anführen, [[Vorschläge]] machen)  
+
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^5|^]]* _Neben den_ [[Inhalten]] _der Arbeit und der Gesetze müssen diese Angestellten auch höflich,_ [[hilfsbereit]] _und vor allem_ [[verständnisvoll]] _im_ [[Umgang]] _mit Menschen und ihren_ [[Anliegen]] _sein. ^5
+
 
 ---
 = [[Bedeutung]], [[Sinn]], [[Kern]]
@@ -24,4 +28,6 @@ G: des [[Inhalts]], der [[Inhalte]]
 D: dem [[Inhalt]], den [[Inhalten]]  
 
 ---
-[[inhaltsreich]], [[inhaltlich]], [[inhaltsarm]], [[nachfüllen]], [[enthalten]], [[Reparationsleistung]], [[Informationswert]], [[Nutzungsdaten]]
+[[inhaltsreich]], [[inhaltlich]], [[inhaltsarm]], [[nachfüllen]], [[enthalten]], [[Reparationsleistung]], [[Informationswert]], [[Nutzungsdaten]], [[Textsorte]], [[Inhaltspunkt]]
+
+#Maskulin 

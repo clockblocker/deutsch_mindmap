@@ -68,7 +68,7 @@ ANNA: Aus Amerika? [[Von wem denn]]? [[Na sag schon]] ...
 SASCHA: Mmh … „Hallo! [[Kennst]] du mich [[noch]]?“  
 Nein ... „vor sieben Jahren [[Brieffreunde]] sind wir ...“
 
-Vor sieben Jahren [[waren]] wir Brieffreunde.
+Vor sieben Jahren [[Worter/W/Waren]] wir Brieffreunde.
 
 [[Ach du liebe Zeit]] ... [[jetzt]] [[erinnere]] ich mich [[wieder]].  
 Der Brief ist von Sam! Sam Scott!

@@ -1,1 +1,1 @@
-, [[Finanzkrise]], [[Wirtschaft]], [[Rezension]]
+, [[Finanzkrise]], [[Worter/W/Wirtschaft]], [[Rezension]]

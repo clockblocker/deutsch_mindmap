@@ -1,1 +1,1 @@
-, [[häufig]], [[Dichte]]
+, [[häufig]], [[Dichte]], [[Seltenheit]]

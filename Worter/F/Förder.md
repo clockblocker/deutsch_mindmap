@@ -1,1 +1,1 @@
-, [[Förderband]]
+, [[Förderband]], [[Förderung]]

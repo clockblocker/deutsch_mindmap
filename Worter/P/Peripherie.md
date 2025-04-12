@@ -1,1 +1,1 @@
-, [[Innenstadt]], [[Brennpunkt]]
+, [[Innenstadt]], [[Brennpunkt]], [[Mittelpunkt]]

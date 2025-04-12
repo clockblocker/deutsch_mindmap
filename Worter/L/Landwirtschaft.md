@@ -5,7 +5,7 @@
 
 ---
 = [[Agrarwirtschaft]], [[Ackerbau]], [[Viehzucht]]
-≈ [[Bauernhof]], [[Landwirtschaftsbetrieb]], [[Ernährung]]
+≈ [[Bauernhof]], [[Landwirtschaftsbetrieb]], [[Worter/E/Ernährung]]
 ≠ [[Industrie]], [[Handel]], [[Dienstleistung]]
 
 ---

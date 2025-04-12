@@ -1,1 +1,1 @@
-, [[Sport]], [[Grippe]], [[Muskelkater]]
+, [[Worter/S/Sport]], [[Grippe]], [[Muskelkater]]

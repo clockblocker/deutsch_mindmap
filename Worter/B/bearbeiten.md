@@ -1,1 +1,1 @@
-, [[vornehmen]], [[rumhacken]], [[verarbeiten]], [[abarbeiten]]
+, [[vornehmen]], [[rumhacken]], [[verarbeiten]], [[abarbeiten]], [[Bearbeitung]], [[Aufgabenstellung]]

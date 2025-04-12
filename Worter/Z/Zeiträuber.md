@@ -16,7 +16,7 @@ Antonyme:
 
 ---
 Morpheme:
-[[Zeit]][[Räuber]]
+[[Worter/Z/zeit]][[Räuber]]
 
 ---
 Einzigartige mögliche Formen: 

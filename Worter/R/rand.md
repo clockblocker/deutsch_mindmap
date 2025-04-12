@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Randes]], [[Rande]], [[Ränder]], [[Rändern]]
 
 ---
-, [[Tellerrand]], [[Grenz]], [[Besatz]]
+, [[Tellerrand]], [[Grenz]], [[Besatz]], [[Mittelpunkt]]

@@ -23,4 +23,4 @@ Genitive: der [[Bahn]], der [[Bahnen]]
 Dative: der [[Bahn]], den [[Bahnen]] 
 
 ---
-[[bahnen]], [[bahnbrechend]], [[Bahnhof]], [[Bahnsteig]], [[Bahnline]]
+[[bahnen]], [[bahnbrechend]], [[Bahnhof]], [[Bahnsteig]], [[Bahnline]], [[Laufbahn]]

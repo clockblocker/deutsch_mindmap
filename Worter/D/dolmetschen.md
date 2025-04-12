@@ -1,1 +1,1 @@
-, [[übersetzen]]
+, [[übersetzen]], [[Dolmetscher]]

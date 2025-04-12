@@ -25,4 +25,4 @@ G: des [[Sprachschatzes]], der [[Sprachschätze]]
 D: dem [[Sprachschatz]], den [[Sprachschätzen]]
 
 ---
-[[Sprache]], [[Schatz]], [[sprachlich]], [[schätzen]], [[Sprachkenntnisse]]
+[[Worter/S/Sprache]], [[Schatz]], [[sprachlich]], [[schätzen]], [[Sprachkenntnisse]]

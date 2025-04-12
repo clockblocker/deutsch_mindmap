@@ -5,10 +5,14 @@ haben [[behandelt]]
 ---
 SASCHA: Meine Mutter [[behandelt]] mich auch wie ein Baby 
 
+Wenn Sie die Situation falsch verstanden haben, kann es sein, dass Sie keinen Punkt richtig [[behandelt]] haben
+
+Es ist wichtig, dass Sie alle Themenpunkte [[behandeln]] und keinen Punkt vergessen. ==Versuchen Sie zu jedem Punkt zwei Sätze zu schreiben.==
+
 284. Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)
 	- [x] Ich kann mich beim [[Behördenleiter]] / bei der Behördenleiterin [[beschweren]].
 
-263. In Deutschland sind [[Jugendliche]] ab 14 Jahren [[strafmündig]]. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen [[Strafgesetze]] [[verstoßen]], … (85%)
+285. In Deutschland sind [[Jugendliche]] ab 14 Jahren [[strafmündig]]. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen [[Strafgesetze]] [[verstoßen]], … (85%)
 	- [x] werden bestraft.
 	- [ ] werden wie [[Erwachsene]] [[behandelt]].
 ---
@@ -38,4 +42,4 @@ Partizip I: [[behandelnd]], Partizip II: [[behandelt]]
 
 [[behandeln]] - [[be]] = [[handeln]], [[ablehnen]], [[Gleichbehandlung]]
 🩺 [[behandeln]], [[Ungleichbehandlung]]
-, [[anhand]], [[auseinandersetzen]]
+, [[anhand]], [[auseinandersetzen]], [[thematisieren]]

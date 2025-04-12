@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Stellung]], [[Stellungen]], [[Stellungs]]
 Notes:
 - Can refer to a physical or abstract position
 - Used in various contexts like job position, military stance, or philosophical standpoint
-- Derived from the verb [[stellen]] (to place, to set), [[einstellen]], [[umstellen]]
+- Derived from the verb [[stellen]] (to place, to set), [[einstellen]], [[umstellen]], [[Aufgabenstellung]], [[Beantragung]]

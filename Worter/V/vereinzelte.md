@@ -1,1 +1,1 @@
-, [[zahlreiche]]
+, [[zahlreiche]][[vereinzeln]]

@@ -1,1 +1,1 @@
-, [[Schweigepflicht]], [[Religionspflicht]], [[Anwesenheitspflicht]]
+, [[Schweigepflicht]], [[Religionspflicht]], [[Anwesenheitspflicht]], [[verantwortungsvoll]], [[verantwortungsbewusst]]

@@ -7,7 +7,7 @@ die [[Arbeitsaufträge]]
 ---
 = [[Aufgabe]], [[Auftrag]], [[Job]]
 ≈ [[Mission]], [[Bestellung]], [[Pflicht]], [[Tätigkeit]]
-≠ [[Freizeit]], [[Langeweile]], [[Untätigkeit]], [[Muße]]
+≠ [[Worter/F/Freizeit]], [[Langeweile]], [[Untätigkeit]], [[Muße]]
 
 ---
 work assignment, task

@@ -12,7 +12,7 @@
 ---
 [[2 Unter Druck nach oben#^4|(q)]] Bei der Analyse des Aufstiegs einiger deutscher Topmanager wird [[deutlich]], dass der Weg nach oben sehr [[unterschiedlich]] aussehen kann. ^4
 
-[[2 Unter Druck nach oben#^5|(q)]] Fest steht nur eins: Sie [[taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
+[[2 Unter Druck nach oben#^5|(q)]] Fest steht nur eins: Sie [[Worter/T/Taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
 
 [[2 Unter Druck nach oben#^6|(q)]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
 

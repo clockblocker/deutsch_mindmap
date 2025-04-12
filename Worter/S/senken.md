@@ -1,1 +1,1 @@
-[[bücken]], [[erheben]], [[steilen]], [[herabziehen]], [[erhöhen]], [[verringern]], [[abschwächen]], [[heben]]
+[[bücken]], [[erheben]], [[steilen]], [[herabziehen]], [[erhöhen]], [[verringern]], [[abschwächen]], [[heben]], [[abbauen]]

@@ -32,4 +32,4 @@ PI: [[unterscheidend]], PII: [[unterschieden]], Zu+inf: [[zu unterscheiden]]
 [[Unterscheidung]], [[unterschiedlich]], [[Unterschied]], [[unterscheidbar]], [[unterschiedslos]], [[verschieden]]
 
 [[vermischen]], [[gleichen]], [[erkennen]], [[mitteln]]
-, [[auseinanderzuhalten]], [[Bedeutungsunterschied]]
+, [[auseinanderzuhalten]], [[Bedeutungsunterschied]], [[Menschenrecht]], [[Tat]]

@@ -18,7 +18,7 @@ die [[Wirtschaftsgemeinschaften]]
 economic community, economic union
 
 ---
-[[Wirtschaft]]+[[s]]+[[Gemeinschaft]]
+[[Worter/W/Wirtschaft]]+[[s]]+[[Gemeinschaft]]
 [[Wirt]]|[[schaft]]|[[s]]|[[Ge]]|[[mein]]|[[schaft]]
 
 ---

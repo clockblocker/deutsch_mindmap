@@ -13,7 +13,7 @@
 time of the crime, moment of the offense
 
 ---
-[[Tat]]|[[zeit]]
+[[Worter/T/Tat]]|[[Worter/Z/zeit]]
 
 ---
 N: die [[Tatzeit]], die [[Tatzeiten]]  
@@ -22,4 +22,4 @@ G: der [[Tatzeit]], der [[Tatzeiten]]
 D: der [[Tatzeit]], den [[Tatzeiten]]  
 
 ---
-[[Täter]], [[Tatort]], [[Tatwaffe]], [[Tatverdacht]], [[Tatbestand]]
+[[Täter]], [[Tatort]], [[Tatwaffe]], [[Tatverdacht]], [[Tatbestand]], [[Tat]]

@@ -24,3 +24,4 @@ D: der [[Gelegenheit]], den [[Gelegenheiten]]
 
 ---
 [[gelegen]], [[legen]], [[Gelegenheitsarbeit]], [[Gelegenheitskauf]], [[Gelegenheitsfund]]
+, [[gelegentlich]]

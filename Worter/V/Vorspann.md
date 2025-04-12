@@ -1,1 +1,1 @@
-, [[Abspann]]
+, [[Abspann]], [[Einleitung]], [[Schlusssatz]]

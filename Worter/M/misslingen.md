@@ -1,1 +1,1 @@
-, [[Leisten]], [[erfüllen]], [[klappen]], [[Erfolgen]], [[schaffen]], [[erreichen]], [[scheitern]], [[w-l]]
+, [[Leisten]], [[erfüllen]], [[klappen]], [[Erfolgen]], [[schaffen]], [[erreichen]], [[scheitern]], [[w-l]], [[verfehlen]]

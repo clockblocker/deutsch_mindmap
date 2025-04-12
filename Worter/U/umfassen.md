@@ -1,1 +1,1 @@
-, [[Worter/H/haben]], [[greifen]], [[fassen]], [[einschließen]], [[enthalten]], [[umfangreich]]
+, [[Worter/H/haben]], [[greifen]], [[fassen]], [[einschließen]], [[enthalten]], [[umfangreich]], [[Umfang]]

@@ -1,2 +1,2 @@
 [[Treu]], [[garantiert]], [[sicher]]
-, [[pünktlich]], [[unzuverlässig]]
+, [[pünktlich]], [[unzuverlässig]], [[verantwortungsvoll]], [[verantwortungsbewusst]]

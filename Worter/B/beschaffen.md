@@ -1,3 +1,3 @@
 , [[aufbringen]]
 , [[zusammenbekommen]]
-, [[verschaffen]]
+, [[verschaffen]], [[erwerben]]

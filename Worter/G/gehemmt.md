@@ -1,1 +1,1 @@
-, [[scheu]]
+, [[scheu]], [[Hemmung]], [[hemmen]]

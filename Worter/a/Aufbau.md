@@ -1,1 +1,1 @@
-, [[Vernichtung]], [[Verwaltungsaufbau]], [[Einrichtung]]
+, [[Vernichtung]], [[Verwaltungsaufbau]], [[Einrichtung]], [[Textaufbau]]

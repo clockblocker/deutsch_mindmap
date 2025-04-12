@@ -2,4 +2,4 @@
 , [[festziehen]], [[herausziehen]], [[umziehen]], [[losziehen]], [[weiterziehen]], [[anziehen]], [[verziehen]], [[Erzieher]], [[ziemen]], [[Beziehung]], [[ausziehen]], [[Erziehungsproblem]], [[Erzie­hung]], [[Erziehung]], [[herabziehen]], [[vorziehen]], [[beziehen]], [[vollziehenden]], [[Worter/Beziehung]]
 , [[abziehen]]
 , [[zeihen]]
-, [[Korkenzieher]]
+, [[Korkenzieher]], [[erziehen]]

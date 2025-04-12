@@ -28,4 +28,4 @@ Dative: der [[Branche]], den [[Branchen]]
 ---
 [[branchenspezifisch]], [[branchenüblich]], [[branchenführend]], [[Berufsgruppe]]
 
-#Feminin
+#Feminin, [[Berufsfeld]]

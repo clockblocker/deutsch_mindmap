@@ -1,0 +1,2 @@
+🤔 [[erschweren]] | 😌 [[erschwert]]
+, [[Meinungsbildung]]

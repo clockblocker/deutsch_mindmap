@@ -24,4 +24,4 @@ G: der [[Religionsgemeinschaft]], der [[Religionsgemeinschaften]]
 D: der [[Religionsgemeinschaft]], den [[Religionsgemeinschaften]]  
 
 ---
-[[Religion]], [[religiös]], [[Gemeinschaft]], [[Konfession]], [[kirchlich]]
+[[Worter/Religion]], [[religiös]], [[Gemeinschaft]], [[Konfession]], [[kirchlich]]

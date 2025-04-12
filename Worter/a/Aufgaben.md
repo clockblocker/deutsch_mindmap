@@ -31,4 +31,4 @@ Dative: dem [[Aufgaben]], den [[Aufgaben]]
 
 [[aufgeben]], [[aufgabenfrei]], [[aufgabenorientiert]], [[aufgabenkritisch]], [[Aufgabe]]
 , [[Aufgabenheft]]
-, [[Aufgabenheft]], [[Aufgabenerfüllung]]
+, [[Aufgabenheft]], [[Aufgabenerfüllung]], [[Aufgabengerechtigkeit]]

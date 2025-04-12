@@ -1,2 +1,2 @@
 , [[erst]], [[zunächst]], [[hauptsächlich]], [[zugrundeliegende]], [[zusätzlich]]
-, [[allererst]], [[vorrangig]]
+, [[allererst]], [[vorrangig]], [[letztendlich]]

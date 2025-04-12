@@ -1,1 +1,1 @@
-, [[Schichtarbeiter]]
+, [[Schichtarbeiter]], [[Wochenendarbeit]]

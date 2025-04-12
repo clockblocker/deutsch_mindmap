@@ -53,4 +53,4 @@ sie, [[verbreiten]], [[verbreiteten]], [[verbreiten]], [[verbreiteten]], [[verbr
 Adjektive: [[verbreitend]], [[verbreitender]], [[verbreitendst]]
 
 ---
-[[verbreitender]], [[verbreitendes]], [[verbreitende]], [[verbreitenden]], [[verbreitendem]], [[verbreitenderer]], [[verbreitenderes]], [[verbreitendere]], [[verbreitenderen]], [[verbreitenderem]], [[verbreitendster]], [[verbreitendstes]], [[verbreitendste]], [[verbreitendsten]], [[verbreitendstem]]
+[[verbreitender]], [[verbreitendes]], [[verbreitende]], [[verbreitenden]], [[verbreitendem]], [[verbreitenderer]], [[verbreitenderes]], [[verbreitendere]], [[verbreitenderen]], [[verbreitenderem]], [[verbreitendster]], [[verbreitendstes]], [[verbreitendste]], [[verbreitendsten]], [[verbreitendstem]], [[aussenden]]

@@ -29,4 +29,4 @@ Morpheme: [[ant]][[Worter/W/Wort]][[en]]
 | Sie       | [[Antworten]]| [[antworteten]]| [[antworten Sie]]| [[Antworten]]| [[antworteten]]|
 
 Partizip I: [[antwortend]], Partizip II: [[geantwortet]]
-[[Antworten]] - [[ant]] = [[worten]], [[verantworten]]
+[[Antworten]] - [[ant]] = [[worten]], [[verantworten]], [[verantwortungsvoll]]

@@ -1,1 +1,1 @@
-[[anhaben]], [[Worter/H/haben]], [[Liebhaber]]
+[[anhaben]], [[Worter/H/haben]], [[Liebhaber]], [[Handhabung]]

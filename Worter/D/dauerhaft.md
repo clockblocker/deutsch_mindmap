@@ -1,1 +1,1 @@
-, [[fest]], [[andauern]], [[nachhaltig]], [[langfristig]]
+, [[fest]], [[andauern]], [[nachhaltig]], [[langfristig]], [[vorübergehend]], [[Dauerverfügbarkeit]]

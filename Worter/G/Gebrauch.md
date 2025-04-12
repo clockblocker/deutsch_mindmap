@@ -23,4 +23,4 @@ G: des [[Gebrauches]], der [[Gebräuche]]
 D: dem [[Gebrauch]], den [[Gebräuchen]]  
 
 ---
-[[gebrauchen]], [[gebraucht]], [[Gebrauchsanleitung]], [[Gebrauchsgegenstand]], [[Gebrauchsmuster]], [[hingehen]]
+[[gebrauchen]], [[gebraucht]], [[Gebrauchsanleitung]], [[Gebrauchsgegenstand]], [[Gebrauchsmuster]], [[hingehen]], [[Handhabung]]

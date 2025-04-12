@@ -1,1 +1,1 @@
-, [[Erfahrung]], [[kennen]], [[Einblick]]
+, [[Erfahrung]], [[kennen]], [[Einblick]], [[Verständnis]]

@@ -16,4 +16,4 @@ Morphems:
 [[Blick]]
 
 ---
-#Substantiv #Maskulin , [[Gesichtsausdruck]], [[anblicken]], [[s1 e1]], [[Überblick]], [[Einblick]], [[Ausblick]]
+#Substantiv #Maskulin , [[Gesichtsausdruck]], [[anblicken]], [[s1 e1]], [[Überblick]], [[Einblick]], [[Ausblick]], [[Hinblick]]

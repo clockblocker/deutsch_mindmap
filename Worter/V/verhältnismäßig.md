@@ -1,1 +1,1 @@
-, [[relativ]], [[Verhältnis]], [[ausgewogen]]
+, [[relativ]], [[Verhältnis]], [[ausgewogen]], [[angemessen]]

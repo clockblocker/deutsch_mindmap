@@ -10,7 +10,7 @@ Zunächst möchte ich erst einmal feststellen, dass das Arbeiten von zu Hause au
 
 32. Wer [[wählt]] in Deutschland die [[Abgeordneten]] zum Bundestag? (89%)
 	- [ ] das [[Militär]]
-	- [ ] die [[Wirtschaft]]
+	- [ ] die [[Worter/W/Wirtschaft]]
 	- [x] das [[wahlberechtigte]] Volk
 	- [ ] die [[Verwaltung]]
 
@@ -39,4 +39,4 @@ D: der [[Verwaltung]], den [[Verwaltungen]]
 [[Aufsicht]], [[leiten]], [[Regierung]], [[Behörde]], [[Bundesbezirk]], [[Ordnungsamt]], [[Einwohnermeldeamt]], [[Standesamt]], [[Behördenleiter]]
 , [[Amt]], [[Gemeindeverwaltung]], [[Verwaltungsaufbau]], [[Landräte]], [[Innensenator]], [[Stadtverwaltung]], [[Bürgerei]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]]
 
-#Feminin 
+#Feminin , [[behördlich]]

@@ -4,6 +4,8 @@ die [[Vorschläge]]
 ---
 Mein [[Vorschlag]] ist Sälze beiden 
 
+1. [[Inhalt]], [[Umfang]], [[Realisierung]] der Sprachfunktionen (z. B. etwas erklären, Argumente anführen, [[Vorschläge]] machen)
+
 Aber dem wird sie die Suppe schon noch versalzen! Beim nächsten Termin mit ihrem Chef macht sie einige [[Vorschläge]] für das Projekt. 
 
 „Liebe Laura“, sagte sie am Telefon, „ich weiß, wie traurig du bist wegen der Sache mit dem Haus. Ich möchte dir einen [[Vorschlag]] machen. Wie du weißt, [[ziehe]] ich bald ins [[Altersheim]]. Ich [[anbieten|biete]] dir meine kleine Wohnung in der [[Altstadt]] an.“ 
@@ -41,3 +43,4 @@ D: dem [[Vorschlag]], den [[Vorschlägen]]
 Ausserung
 ==[[Äuwßerung]]==
 
+#Maskulin 

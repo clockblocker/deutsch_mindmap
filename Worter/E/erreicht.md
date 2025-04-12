@@ -1,1 +1,1 @@
-, [[erreichten]], [[erreichen]]
+, [[erreichten]], [[erreichen]], [[Verständnis]], [[Wertschätzung]]

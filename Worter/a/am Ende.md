@@ -1,2 +1,2 @@
 , [[zuletzt]], [[endlich]], [[schließlich]]
-, [[allererst]]
+, [[allererst]], [[letztendlich]]

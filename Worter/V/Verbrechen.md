@@ -34,4 +34,4 @@ Dative: dem [[Verbrechen]], den [[Verbrechen]]
 [[Verbrechen]], [[verbrecherisch]], [[kriminell]], [[strafbar]]
 
 ---
-, [[stöhnen]], [[verhaften]], [[Verbrecher]]
+, [[stöhnen]], [[verhaften]], [[Verbrecher]], [[Tat]]

@@ -1,1 +1,1 @@
-, [[ermöglichen]]
+, [[ermöglichen]], [[Hemmung]]

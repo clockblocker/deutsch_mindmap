@@ -7,7 +7,7 @@ Wie schade! Ich soll zu Hause bleiben. Ich liege im Bett, und ich habe [[Fieber]
 ---
 = [[Erkrankung]], [[Krankheit]]
 ≈ [[Hitze]], [[Temperaturerhöhung]], [[Infektion]]
-≠ [[Gesundheit]], [[Wohlbefinden]], [[Normalzustand]]
+≠ [[Worter/G/Gesundheit]], [[Wohlbefinden]], [[Normalzustand]]
 
 ---
 fever

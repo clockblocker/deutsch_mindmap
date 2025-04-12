@@ -4,7 +4,7 @@ nicht [[Falsch]]
 ---
 Wird richtig sauer, macht einen bösen Gesichtsausdruck und fuchtelt mit den Armen
 
-[[2 Unter Druck nach oben#^5|(q)]] Fest steht nur eins: Sie [[taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
+[[2 Unter Druck nach oben#^5|(q)]] Fest steht nur eins: Sie [[Worter/T/Taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
 
 
 ---
@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 
 [[richtig]], [[wahr]], [[s1 e1]], [[recht]], [[passend]]
 , [[verdreht]]
-, [[gut]]
+, [[gut]], [[angemessen]]

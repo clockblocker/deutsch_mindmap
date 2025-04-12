@@ -3,6 +3,10 @@
 ---
 *[[Golfstorm#^7|^]]* Die Arbeit wurde im Fachjournal »Nature« veröffentlicht und gibt [[zumindest]] [[teilweise]] [[Entwarnung]]: Das Strömungssystem könnte sich bis 2100 deutlich [[abschwächen]], die [[Forschenden]] fanden jedoch keine [[Hinweise]] auf einen [[vollständigen]] Kollaps. ^7
 
+
+1. 3 Sprachfunktionen [[angemessen]] oder 2 angemessen und 2 [[teilweise]]  
+
+
 ---
 = [[zum Teil]], [[partiell]], [[in Teilen]]
 ≈ [[manchmal]], [[gelegentlich]], [[stellenweise]], [[halbes]],

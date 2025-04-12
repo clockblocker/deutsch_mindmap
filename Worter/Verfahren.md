@@ -11,7 +11,7 @@ die [[Verfahren]]
 
 ---
 = [[Methode]], [[Prozess]], [[Vorgang]]
-≈ [[Ablauf]], [[vorgehen]], [[Technik]], [[Strategie]]
+≈ [[Ablauf]], [[vorgehen]], [[Worter/T/Technik]], [[Strategie]]
 ≠ [[Stillstand]], [[Chaos]], [[Zufall]]
 
 ---

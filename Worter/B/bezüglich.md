@@ -1,2 +1,2 @@
 , [[Bezug]], [[woran]]
-, [[Bezugswort]]
+, [[Bezugswort]], [[Hinsicht]]

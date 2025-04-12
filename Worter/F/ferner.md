@@ -22,3 +22,4 @@ furthermore, moreover, besides
 [[fern]]|[[er]]
 [[fern]] + [[er]]
 
+, [[sowohl]]

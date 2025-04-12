@@ -1,1 +1,1 @@
-, [[Bedeutungsunterschied]]
+, [[Bedeutungsunterschied]], [[zutreffen]]

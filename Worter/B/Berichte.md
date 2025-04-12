@@ -1,1 +1,3 @@
-[[bericht]], [[berichten]]
+[[Bericht]], [[berichten]]
+
+#Plural 

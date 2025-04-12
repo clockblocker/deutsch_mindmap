@@ -1,1 +1,1 @@
-, [[berücksichtigen]]
+, [[berücksichtigen]], [[Hinsicht]]

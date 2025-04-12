@@ -3,6 +3,11 @@
 ---
 Mach dir keine Sorgen über die [[erforderlichen]] [[Abonnements]] - die [[überwiegende]] [[Mehrheit]] der kostenpflichtigen Artikel ist in Internetarchiven kostenlos [[verfügbar]].
 
+1. [[überwiegend]] [[erkennbar]]  
+
+	3. [[überwiegend]] angemessen  
+
+
 ---
 = [[hauptsächlich]], [[vorwiegend]], [[überwältigend]], [[meist]],  [[mehrheitlich]]
 ≈ [[meistens]], [[größtenteils]], [[überwiegend]], [[vornehmlich]], [[hauptsächlich]],
@@ -30,3 +35,4 @@ P: [[überwiegenden]], [[überwiegenderen]], [[überwiegensten]]
 
 ---
 -
+, [[weitgehend]]

@@ -1,1 +1,3 @@
-, [[Voraussetzung]], [[Konnektivpartikeln]]
+, [[Voraussetzung]], [[Konnektivpartikeln]], [[Menschenrecht]]
+
+[[voraussetzen]], [[Tat]]

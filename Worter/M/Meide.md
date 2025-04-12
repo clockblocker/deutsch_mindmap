@@ -1,2 +1,2 @@
 
-, [[vermeiden]]
+, [[vermeiden]], [[meiden]]

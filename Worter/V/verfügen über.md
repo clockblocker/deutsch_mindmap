@@ -1,1 +1,1 @@
-, [[besitzen]]
+, [[besitzen]], [[beherrschen]]

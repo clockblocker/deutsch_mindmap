@@ -1,1 +1,1 @@
-, [[sein]], [[liegen]], [[stehen]]
+, [[sein]], [[liegen]], [[stehen]], [[aufhalten]]

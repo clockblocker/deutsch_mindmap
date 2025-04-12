@@ -1,1 +1,1 @@
-, [[erwachsen]], [[volljährig]], [[elterlich]], [[Jugendamt]], [[Jugendliche]]
+, [[erwachsen]], [[volljährig]], [[elterlich]], [[Jugendamt]], [[Jugendliche]], [[frühkindlich]]

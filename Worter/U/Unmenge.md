@@ -28,3 +28,6 @@ N: die [[Unmenge]], die [[Unmengen]]
 A: die [[Unmenge]], die [[Unmengen]]
 G: der [[Unmenge]], der [[Unmengen]]
 D: der [[Unmenge]], den [[Unmengen]]
+
+
+#Feminin 

@@ -1,1 +1,1 @@
-, [[Klatsch]], [[Tratsch]]
+, [[Klatsch]], [[Tratsch]], [[Nachrede]]

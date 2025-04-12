@@ -1,1 +1,2 @@
-, [[Zeichen]], [[Leuchtrakete]], [[Klingelbeil]]
+, [[Zeichen]], [[Leuchtrakete]], [[Klingelbeil]]🟢 das [[Signal]] 📣
+#Neuter , [[aussenden]]

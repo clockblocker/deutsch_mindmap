@@ -5,7 +5,7 @@ die [[Kräfte]]
 Um diese schwere Tasche zu tragen, brauchst du viel [[Kraft]].
 
 ---
-= [[Stärke]], [[Energie]], [[Macht]]
+= [[Stärke]], [[Worter/E/Energie]], [[Macht]]
 ≈ [[Gewalt]], [[Leistung]], [[Potenz]], [[Vermögen]]
 ≠ [[Schwäche]], [[Unfähigkeit]], [[Machtlosigkeit]]
 
@@ -24,5 +24,5 @@ D: der [[Kraft]], den [[Kräften]]
 ---
 [[kräftig]], [[kraftvoll]], [[kraftlos]], [[bekräftigen]], [[Kraftwerk]]
 
-[[Energie]], [[Gewalt]], [[Druck]], [[Schwäche]], [[Willenskraft]]
-, [[Erschöpfung]], [[Führungskraft]], [[aussagekräftig]], [[Kernkraft]], [[Kohlekraftwerk]], [[Strom]]
+[[Worter/E/Energie]], [[Gewalt]], [[Druck]], [[Schwäche]], [[Willenskraft]]
+, [[Erschöpfung]], [[Führungskraft]], [[aussagekräftig]], [[Kernkraft]], [[Kohlekraftwerk]], [[Strom]], [[Lehrkraft]]

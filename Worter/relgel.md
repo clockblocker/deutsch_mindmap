@@ -1,3 +1,3 @@
-📏 [[regeln]] | 🔴 die [[Regel]] 📏
+📏 [[regeln]] | 🔴 die [[Worter/R/Regel]] 📏
 
 [[tile]]

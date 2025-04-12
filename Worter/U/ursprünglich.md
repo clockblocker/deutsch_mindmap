@@ -26,4 +26,4 @@ P: [[ursprünglichen]], [[ursprünglicheren]], [[ursprünglichsten]]
 
 ---
 [[Ursprung]], [[ursprünglich]], [[Urkunde]], [[Urtext]], [[Urschrift]]
-, [[allererst]]
+, [[allererst]], [[vorher]]

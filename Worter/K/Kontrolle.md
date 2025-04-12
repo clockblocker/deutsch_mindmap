@@ -1,2 +1,6 @@
 , [[Aufsicht]], [[Prüfung]]
-, [[Gefühlsausbruch]]
+, [[Gefühlsausbruch]], [[Beherrschung]]
+
+🔴 die [[Kontrolle]] ✅
+
+#Feminin 

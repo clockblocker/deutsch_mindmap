@@ -19,4 +19,4 @@ Morphems:
 [[ant]][[Worter/W/Wort]]
 
 ---
-#Substantiv #Feminin, [[Lösung]], [[Auskunft]], [[Bescheid]], [[Verantwortung]], [[verantworten]]
+#Substantiv #Feminin, [[Lösung]], [[Auskunft]], [[Bescheid]], [[Verantwortung]], [[verantworten]], [[Musterlösung]], [[Aufgabenstellung]], [[verantwortungsvoll]]

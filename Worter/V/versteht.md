@@ -5,6 +5,9 @@ haben [[verstanden]]
 ---
 (Ich will) Ich will, dass ihr mich [[versteht]]  
 
+*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^7|^]]* Man muss beispielsweise viel Energie in einen solchen [[Neuanfang]] investieren, oft [[versteht]] man einige nicht auf [[Anhieb]]. ^7
+
+
 Greta [[versteht]] die Ängste ihrer Schwester gut. 
 „Es bringt [[überhaupt]] nichts, nervös zu sein“, sagt sie. 
 „Ich drücke dir die Daumen. Du [[schaffst]] das alles.“ 

@@ -15,7 +15,7 @@ study
 исследование
 
 ---
-[[studieren]], [[Student]], [[Studium]], [[studienbezogen]]
+[[studieren]], [[Student]], [[Worter/S/Studium]], [[studienbezogen]]
 
 ---
 [[Studie]]

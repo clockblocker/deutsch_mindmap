@@ -27,4 +27,4 @@ G: des [[Sprachunterrichts]], der [[Sprachunterrichte]]
 D: dem [[Sprachunterricht]], den [[Sprachunterrichten]]  
 
 ---
-[[unterrichten]], [[Sprache]], [[Sprachlehrer]], [[Sprachkurs]], [[Sprachbildung]]
+[[unterrichten]], [[Worter/S/Sprache]], [[Sprachlehrer]], [[Sprachkurs]], [[Sprachbildung]]

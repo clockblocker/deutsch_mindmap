@@ -6,7 +6,7 @@
 ---
 = [[Ermüdung]], [[Auszehrung]], [[Kraftlosigkeit]]
 ≈ [[Müdigkeit]], [[Abgeschlagenheit]], [[Mattigkeit]]
-≠ [[Energie]], [[Kraft]], [[Vitalität]]
+≠ [[Worter/E/Energie]], [[Kraft]], [[Vitalität]]
 
 ---
 exhaustion

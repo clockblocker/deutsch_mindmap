@@ -1,6 +1,5 @@
-🔵​ der [[Bericht]], [bəˈʁɪçt]
+📄 🔵 der [[Bericht]], [bəˈʁɪçt](https://youglish.com/pronounce/Bericht/german)
 die [[Berichte]]
-
 
 ---
 [[15 genetiv#^7|(q)]] Der Kommissar und Kramer warteten auf den [[Bericht]] des Experten. ^7
@@ -11,21 +10,25 @@ Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas [[Bericht]] nic
 
 - [[Wetterbericht]]
 
+---
+= [[Meldung]], [[Report]], [[Protokoll]]
+≈ [[Information]], [[Nachricht]], [[Darstellung]]
+≠ [[Frage]], [[Spekulation]]
 
 ---
-Synonyme:
-- [[Mitteilung]], [[Nachricht]], [[Meldung]], [[Information]], [[Darstellung]]
+report, account  
+отчет, доклад
 
 ---
-Übersetzung: report, account
+[[berichten]], [[Berichterstattung]], [[Berichterstatter]]
 
 ---
-Morpheme:
-[[be]][[richt]]
+[[Bericht]]
+[[Bericht]]
+
 
 ---
-Einzigartige mögliche Formen: [[Berichts]], [[Berichte]], [[Berichten]]
-
----
-#Substantiv #Maskulin, [[Abschlussbericht]], [[Angabe]], [[berichten]], [[Tagebuch]], [[Artikel]], [[Erzählung]]
-, [[Inserat]], [[Geschichte]], [[Botschaft]]
+N: der [[Bericht]], die [[Berichte]]
+A: den [[Bericht]], die [[Berichte]]
+G: des [[Berichts]], der [[Berichte]]
+D: dem [[Bericht]], den [[Berichten]]

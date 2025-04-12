@@ -1,1 +1,1 @@
-, [[Bürgerei]]
+, [[Bürgerei]], [[Medium]]

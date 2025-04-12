@@ -1,2 +1,2 @@
 , [[schwer]], [[beschweren]]
-, [[Schwert]]
+, [[Schwert]], [[erschweren]]

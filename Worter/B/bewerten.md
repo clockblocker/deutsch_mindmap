@@ -3,6 +3,8 @@
 ---
 Wird das Kriterium [[Aufgabenerfüllung]] für eine Aufgabe mit E (0 Punkte) [[bewertet]], dann ist das [[Ergebnis]] für diese Aufgabe [[insgesamt]] 0 Punkte.
 
+[[Bewertet]] wird, ob die thematischen Punkte und die Sätze des Briefes sinnvoll und richtig [[verknüpft]] sind: ist der Brief logisch [[aufgebaut]]? 
+
 ---
 = [[einschätzen]], [[beurteilen]], [[taxieren]], [[Wert]], [[kritisieren]], [[beurteilen]]
 ≈ [[analysieren]], [[prüfen]], [[begutachten]], [[schätzen]], [[schätzen]]

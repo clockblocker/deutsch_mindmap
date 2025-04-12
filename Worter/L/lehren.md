@@ -29,4 +29,4 @@ PI: [[lehrend]], PII: [[gelehrt]], Zu+inf: [[zulehren]]
 ---
 [[Lehrer]], [[Lehrerin]], [[Lehre]], [[Lehrbuch]], [[Unterricht]]
 
- [[Geschichtsunterricht]]
+ [[Geschichtsunterricht]], [[erziehen]], [[Lehrkraft]]

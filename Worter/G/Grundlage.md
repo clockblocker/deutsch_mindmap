@@ -24,4 +24,4 @@ Einzigartige mögliche Formen:
 ---
 #Substantiv #Maskulin
 , [[Basiswert]], [[zugrundeliegende]], [[s1 e1]]
-, [[Achse]], [[grundlegend]], [[Hauptursache]]
+, [[Achse]], [[grundlegend]], [[Hauptursache]], [[zugrunde]]

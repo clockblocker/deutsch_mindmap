@@ -17,7 +17,7 @@ die [[Verkehrstoten]]
 traffic fatality, road traffic death
 
 ---
-[[Verkehr]][[s]][[tote]]
+[[Worter/V/Verkehr]][[s]][[tote]]
 
 ---
 N: die [[Verkehrstote]], die [[Verkehrstoten]]  
@@ -26,4 +26,4 @@ G: der [[Verkehrstoten]], der [[Verkehrstoten]]
 D: der [[Verkehrstoten]], den [[Verkehrstoten]]  
 
 ---
-[[Verkehr]], [[tot]], [[Unfall]], [[Straße]], [[Statistik]], [[Sicherheit]]
+[[Worter/V/Verkehr]], [[tot]], [[Unfall]], [[Straße]], [[Statistik]], [[Sicherheit]]

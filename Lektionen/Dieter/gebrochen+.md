@@ -36,7 +36,7 @@
 
 ﻿﻿Das [[Gute]] bricht sich [[Bahn]]. (Es macht sich einen Weg; es siegt.) 
 
-﻿﻿Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Beziehungen]] [[gelöst]].)
+﻿﻿Wir haben mit dieser Familie gebrochen. (Wir haben unsere[[Worter/B/Beziehungen]]] [[gelöst]].)
 
 **abbrechen**:
 
@@ -46,7 +46,7 @@
 
 ﻿﻿Der [[wütende]] [[Polizist]] hat die [[Unterredung]] abgebrochen. (Er hat sie [[plötzlich]] beendet.)
 
-﻿﻿Der Kaufmann bricht seine [[Beziehungen]] zu seiner [[Lieferfirma]] ab. (Er kauft nicht mehr bei ihr.)
+﻿﻿Der Kaufmann bricht seine[[Worter/B/Beziehungen]]] zu seiner [[Lieferfirma]] ab. (Er kauft nicht mehr bei ihr.)
 
 ﻿﻿Der [[Schiedsrichter]] brach das Spiel ab. (Er beendete es [[vorzeitig]].)
 

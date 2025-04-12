@@ -15,7 +15,7 @@ die [[Verkehrsmittel]]
 means of transportation, mode of transport
 
 ---
-[[Verkehr]]|[[mittel]]
+[[Worter/V/Verkehr]]|[[mittel]]
 
 ---
 N: das [[Verkehrsmittel]], die [[Verkehrsmittel]]  
@@ -24,6 +24,6 @@ G: des [[Verkehrsmittels]], der [[Verkehrsmittel]]
 D: dem [[Verkehrsmittel]], den [[Verkehrsmitteln]]  
 
 ---
-[[verkehren]], [[Verkehr]], [[Verkehrsverbindung]], [[befördern]]
+[[verkehren]], [[Worter/V/Verkehr]], [[Verkehrsverbindung]], [[befördern]]
 
 #Neuter 

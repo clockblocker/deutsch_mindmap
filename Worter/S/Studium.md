@@ -1,5 +1,5 @@
 , [[studieren]]
-🔵 📚 das [[Studium]], [ˈʃtuːdi̯ʊm]
+🔵 📚 das [[Worter/S/Studium]], [ˈʃtuːdi̯ʊm]
 die [[Studien]]
 
 ---
@@ -7,8 +7,8 @@ die [[Studien]]
 
 ---
 = [[Ausbildung]], [[Universität]]
-≈ [[Studium]], [[Hochschule]]
-≠ [[Schule]], [[Arbeit]], [[Hobby]], [[Freizeit]]
+≈ [[Worter/S/Studium]], [[Hochschule]]
+≠ [[Schule]], [[Arbeit]], [[Hobby]], [[Worter/F/Freizeit]]
 
 ---
 studies
@@ -18,10 +18,10 @@ studies
 [[studi]]|[[um]]
 
 ---
-N: das [[Studium]], die [[Studien]]  
-A: das [[Studium]], die [[Studien]]  
+N: das [[Worter/S/Studium]], die [[Studien]]  
+A: das [[Worter/S/Studium]], die [[Studien]]  
 G: des [[Studiums]], der [[Studien]]  
-D: dem [[Studium]], den [[Studien]]  
+D: dem [[Worter/S/Studium]], den [[Studien]]  
 
 ---
 [[studieren]], [[Studiengang]], [[Studienjahr]], [[Student]], [[studienorientiert]], [[Erlernung]], [[Studie]], [[Studienfach]]

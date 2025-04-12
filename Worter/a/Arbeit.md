@@ -7,7 +7,7 @@ die [[Arbeiten]]
 ---
 = [[Job]], [[Beschäftigung]], [[Tätigkeit]]
 ≈ [[Beruf]], [[Schaffen]], [[Werk]], [[Aufgabe]], [[Werk]], [[erwerbstätig]]
-≠ [[Freizeit]], [[Erholung]], [[Entspannung]], [[Urlaub]]
+≠ [[Worter/F/Freizeit]], [[Erholung]], [[Entspannung]], [[Urlaub]]
 
 ---
 work, job, occupation, labor
@@ -26,4 +26,4 @@ arbeiten, arbeitsam, arbeitslos, arbeitsfähig, Arbeitgeber, [[Erlebnis]]
 , [[Feier]]
 , [[Freizeitaktivität]]
 , [[Arbeitsauftrag]]
-, [[Schularbeit]], [[Bindungsurlaub]], [[Studiengang]], [[Rente]], [[Pension]], [[verarbeiten]], [[abarbeiten]], [[Spaziergang]], [[Arbeitsdruck]], [[Arbeitgeber]], [[Arbeitsstelle]]
+, [[Schularbeit]], [[Bindungsurlaub]], [[Studiengang]], [[Rente]], [[Pension]], [[verarbeiten]], [[abarbeiten]], [[Spaziergang]], [[Arbeitsdruck]], [[Arbeitgeber]], [[Arbeitsstelle]], [[Erwerbstätigkeit]], [[Wochenendarbeit]], [[Berufstätigkeit]]

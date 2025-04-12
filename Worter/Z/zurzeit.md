@@ -11,6 +11,6 @@ Antonyme: [[künftig]], [[zukünftig]], [[später]]
 Übersetzung: currently, at the moment, presently
 
 ---
-Morpheme: [[zur]] + [[Zeit]]
+Morpheme: [[zur]] + [[Worter/Z/zeit]]
 #Adverb
 , [[heutzutage]]

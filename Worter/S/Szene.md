@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Szene]], [[Szenen]], [[Szene]], [[Szene]], [[Szene]], [[Szene]], [[Szenen]], [[Szenen]]
 
 ---
-#Substantiv #Feminin, [[s1 e1]]
+#Substantiv #Feminin, [[s1 e1]], [[inszenieren]]

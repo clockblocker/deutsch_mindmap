@@ -9,7 +9,7 @@ Normalerweise [[verbindet]] man das Herz mit Liebe und Romantik. Man kann zum Be
 
 Aang ist der Avatar. Er ist die einzige Chance für diese Welt. Ihr habt ihn aus guten Gründen gefunden. Und jetzt ist euer Schicksal mit dem seinen [[verbunden]].
 
-132. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
+132. Viele Menschen in Deutschland arbeiten in ihrer [[Worter/F/Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
 	- [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
 	- [ ] Sie arbeiten in der [[Bundesregierung]].
 
@@ -47,4 +47,4 @@ Zu+infinitive: [[zu verbinden]]
 
 , [[knüpfen]], [[Zusammenschluss]], [[Worter/Beziehung]], [[verlinkungen]]
 , [[umsteigen]]
-, [[befreunden]], [[gliedern]], [[durchtrennen]], [[spalten]]
+, [[befreunden]], [[gliedern]], [[durchtrennen]], [[spalten]], [[vermitteln]]

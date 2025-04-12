@@ -6,4 +6,4 @@ SASCHA: [[Hilfe]], komm schon [[rein]].
 [[Hilfe]], es ist die Vermieterin!
 
 , [[Unterstützung]], [[beistehen]], [[helfen]], [[Hilfsverb]], [[Gegenwind]]
-, [[Spende]], [[Beitrag]], [[Wohltätigkeit]], [[hilfsbereit]], [[mithilfe]]
+, [[Spende]], [[Beitrag]], [[Wohltätigkeit]], [[hilfsbereit]], [[mithilfe]], [[Förderung]]

@@ -6,7 +6,7 @@ die [[Bundesregierungen]]
 	- [x] in Berlin, weil sich dort das [[Bundeskanzleramt]] und der Bundestag [[befinden]].
 	- [ ] auf Schloss Meseberg, dem [[Gästehaus]] der [[Bundesregierung]], um [[Staatsgäste]] zu [[empfangen]].
 
-132. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
+132. Viele Menschen in Deutschland arbeiten in ihrer [[Worter/F/Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
 	- [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
 	- [ ] Sie arbeiten in der [[Bundesregierung]].
 

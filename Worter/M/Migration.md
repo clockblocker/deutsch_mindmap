@@ -1,1 +1,1 @@
-, [[Migrant]]
+, [[Migrant]], [[Einwanderung]], [[Migrantin]]

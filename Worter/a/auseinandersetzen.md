@@ -1,6 +1,8 @@
 🤔 [[auseinandersetzen]], [aʊ̯sʔaɪ̯ˈnanɐˌzɛt͡sn̩](https://youglish.com/pronounce/auseinandersetzen/german) | [[setzte auseinander]], haben [[auseinandergesetzt]]
 
 ---
+ Mit dem [[gewählten]] Thema sollen Sie sich detailliert [[auseinandersetzen]] und Ihre Argumente klar und strukturiert darlegen.
+
 
 ---
 = [[diskutieren]], [[erörtern]], [[behandeln]]

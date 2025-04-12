@@ -1,1 +1,1 @@
-, [[abhalten]], [[feiern]], [[ausrichten]]
+, [[abhalten]], [[feiern]], [[ausrichten]], [[durchführen]]

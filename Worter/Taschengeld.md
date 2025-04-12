@@ -15,7 +15,7 @@ die [[Taschengelder]]
 pocket money, allowance
 
 ---
-[[Taschen]][[geld]]
+[[Taschen]][[Worter/G/Geld]]
 
 ---
 N: das [[Taschengeld]], die [[Taschengelder]]  
@@ -24,4 +24,4 @@ G: des [[Taschengeldes]], der [[Taschengelder]]
 D: dem [[Taschengeld]], den [[Taschengeldern]]  
 
 ---
-[[Tasche]], [[Geld]], [[Jugend]], [[Eltern]], [[Sparen]]
+[[Tasche]], [[Worter/G/Geld]], [[Jugend]], [[Eltern]], [[Sparen]]

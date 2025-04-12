@@ -1,4 +1,4 @@
 , [[Lebzeiten]]
 
-[[zeit]]
+[[Worter/Z/zeit]]
 

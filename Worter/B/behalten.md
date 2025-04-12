@@ -7,7 +7,7 @@ SASCHA: … [[ behalten|behalt]] deinen Job, du Schleimer, du Oktopus!
 
 Das Kind bricht das Essen. (Es kann das Essen nicht [[behalten]].)
 
-Zum Glück [[behielt]] Fred in dieser Situation doch noch einen kühlen Kopf. Er blieb ruhig stehen und [[tat]] einfach nichts. 
+Zum Glück [[behielt]] Fred in dieser Situation doch noch einen kühlen Kopf. Er blieb ruhig stehen und [[Worter/T/Tat]] einfach nichts. 
 
 ---
 [[beibehalten]] - [[bei]] = [[behalten]] / to keep, to maintain, to retain
@@ -44,4 +44,4 @@ Zu infinitive: [[zubehalten]]
 [[übergeben]], [[loswerden]], [[geliehen]], [[wegwerfen]], [[bewegen]], [[wechseln]], [[ablösen]], [[schicken]], [[verkaufen]], [[feuern]]
 , [[umtauschen]], [[abgeben]], [[überlassen]], [[austauschen]], [[hinauswerfen]], [[beibehalten]], [[wiederschicken]], [[hinschicken]], [[zurücksenden]], [[aussetzen]]
 , [[rasieren]]
-, [[umsteigen]], [[verwandeln]], [[entlassen]], [[wenden]]
+, [[umsteigen]], [[verwandeln]], [[entlassen]], [[wenden]], [[aussenden]]

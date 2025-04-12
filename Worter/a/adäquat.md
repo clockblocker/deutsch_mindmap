@@ -1,2 +1,2 @@
 , [[ausreichen]], [[passend]]
-, [[entsprechend]]
+, [[entsprechend]], [[angemessen]]

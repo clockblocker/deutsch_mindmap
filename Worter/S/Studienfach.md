@@ -14,7 +14,7 @@ field of study, major
 учебная дисциплина, специальность
 
 ---
-[[studieren]], [[Studium]], [[Fach]]
+[[studieren]], [[Worter/S/Studium]], [[Fach]]
 
 ---
 [[Studie]]|`n`|[[Fach]]

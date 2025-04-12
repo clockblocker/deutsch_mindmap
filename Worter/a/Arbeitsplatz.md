@@ -8,7 +8,7 @@ die [[Arbeitsplätze]]
 ---
 = [[Arbeitsort]], [[Arbeitsstätte]]
 ≈ [[Büro]], [[Werkstatt]], [[Arbeitsbereich]], [[Arbeitsumgebung]]
-≠ [[Zuhause]], [[Freizeit]], [[Ruhestand]]
+≠ [[Zuhause]], [[Worter/F/Freizeit]], [[Ruhestand]]
 
 ---
 workplace, workstation

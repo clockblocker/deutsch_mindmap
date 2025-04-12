@@ -1,1 +1,1 @@
-, [[Pausenhof]]
+, [[Pausenhof]], [[Mittelpunkt]]

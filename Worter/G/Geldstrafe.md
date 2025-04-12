@@ -23,7 +23,7 @@ die [[Geldstrafen]]
 fine, monetary penalty
 
 ---
-[[Geld]][[strafe]]
+[[Worter/G/Geld]][[strafe]]
 
 ---
 N: die [[Geldstrafe]], die [[Geldstrafen]]  

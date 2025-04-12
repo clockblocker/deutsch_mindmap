@@ -4,6 +4,9 @@ die [[Nachrichten]]
 ---
 Er erwartet eine [[Nachricht]] von seiner Schwester.
 
+*[[3 Sollte das Internet stärker reguliert werden?#^1|^]]* _Neben_ [[Beleidigungen]], _übler_ [[Nachrede]] _oder_ [[Verleumdung]] [[verfassen]] _manche sogar_ [[Nachrichten]], _die zur_ [[Gewalt]] [[aufrufen]]. ^1
+
+
 Die gute [[Nachricht]] freut ihn sehr.
 
 - ANNA: Hey! Drei [[Nachrichten]] … Oh nein!  

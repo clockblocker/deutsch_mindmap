@@ -1,1 +1,1 @@
-, [[Sprache]], [[Redensart]]
+, [[Worter/S/Sprache]], [[Redensart]]

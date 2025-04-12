@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[aus]][[sprache]]
+[[aus]][[Worter/S/Sprache]]
 
 ---
 Einzigartige mögliche Formen: [[Aussprache]], [[Aussprachen]]

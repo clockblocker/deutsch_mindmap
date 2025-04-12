@@ -30,4 +30,4 @@ PI: [[entsprechend]], PII: [[entsprochen]], Zu+inf: [[zu entsprechen]]
 [[entsprechen]] - [[ent]] = [[Worter/S/sprechen]] / to correspond, to match, to comply with
 
 ---
-[[Entsprechung]], [[entsprechend]], [[Korrespondenz]], [[Konformität]], [[entsprechenderweise]]
+[[Entsprechung]], [[entsprechend]], [[Korrespondenz]], [[Konformität]], [[entsprechenderweise]], [[zutreffen]]

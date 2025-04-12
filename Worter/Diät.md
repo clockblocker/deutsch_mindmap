@@ -10,7 +10,7 @@ die [[Diäten]]
 
 ---
 = [[Ernährungsweise]], [[Kost]]
-≈ [[Abnehmen]], [[Fasten]], [[Ernährung]], [[Diätplan]]
+≈ [[Abnehmen]], [[Fasten]], [[Worter/E/Ernährung]], [[Diätplan]]
 ≠ [[Zunehmen]], [[Überernährung]]
 
 ---
@@ -32,7 +32,7 @@ D: der [[Diät]], den [[Diäten]]
 
 ---
 = [[Ernährungsweise]], [[Kost]]
-≈ [[Abnehmen]], [[Fasten]], [[Ernährung]], [[Diätplan]]
+≈ [[Abnehmen]], [[Fasten]], [[Worter/E/Ernährung]], [[Diätplan]]
 ≠ [[Zunehmen]], [[Überernährung]]
 
 ---

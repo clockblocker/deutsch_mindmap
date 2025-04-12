@@ -30,4 +30,4 @@ G: des [[Allgemeinen]], der [[Allgemeinen]]
 D: dem [[Allgemeinen]], den [[Allgemeinen]]  
 
 ---
-[[allgemein]], [[verallgemeinern]], [[Allgemeinheit]], [[Allgemeinwissen]]
+[[allgemein]], [[verallgemeinern]], [[Allgemeinheit]], [[Allgemeinwissen]], [[vereinzeln]]

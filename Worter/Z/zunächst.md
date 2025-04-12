@@ -26,4 +26,4 @@ Komparativ: nicht üblich
 Superlativ: nicht üblich
 
 ---
-[[zunächst einmal]], [[bis zunächst]], [[vorerst]], [[Konnektoren]], [[winken]], [[Anki]], [[einmal]], [[Konnektivpartikeln]], [[wiederum]]
+[[zunächst einmal]], [[bis zunächst]], [[vorerst]], [[Konnektoren]], [[winken]], [[Anki]], [[einmal]], [[Konnektivpartikeln]], [[wiederum]], [[letztendlich]]

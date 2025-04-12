@@ -1,1 +1,1 @@
-[[sitzen]][[setzen]], [[entsetzt]], [[auseinandersetzen]], [[umsetzen]]
+[[sitzen]][[setzen]], [[entsetzt]], [[auseinandersetzen]], [[umsetzen]], [[voraussetzen]]

@@ -1,1 +1,1 @@
-, [[Meinungsfreiheit]], [[Pressezensur]]
+, [[Meinungsfreiheit]], [[Pressezensur]], [[Berichterstattung]]

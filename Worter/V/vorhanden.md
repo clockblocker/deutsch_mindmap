@@ -3,6 +3,8 @@
 ---
 Meine Naase ist mit Seife verstopft, und mein [[Riechsinn]] ist fast nicht [[vorhanden]].
 
+ Die typischen [[Textsortenmerkmale]] sollten [[vorhanden]] sein.
+
 ---
 = [[vorrätig]], [[existent]], [[verfügbar]]
 ≈ [[da]], [[existent]], [[gegeben]]

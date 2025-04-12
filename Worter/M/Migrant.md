@@ -25,3 +25,5 @@ D: dem [[Migranten]], den [[Migranten]]
 
 ---
 [[migrieren]], [[Migration]], [[migrantisch]], [[Migrationshintergrund]]
+
+#Maskulin , [[Migrantin]]

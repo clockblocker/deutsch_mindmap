@@ -1,2 +1,2 @@
 ✋ [[halten]]
-, [[fernhalten]]
+, [[fernhalten]], [[aufhalten]]

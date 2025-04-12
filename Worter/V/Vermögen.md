@@ -25,6 +25,6 @@ Dative: dem [[Vermögen]], den [[Vermögen]]
 ---
 [[vermögen]], [[vermögend]], [[vermögenslos]], [[Vermögenswert]], [[Vermögenssteuer]]
 
-, [[Geld]], [[erb]]
+, [[Worter/G/Geld]], [[erb]]
 , [[zusammenschrumpfen]], [[vermuten]], [[Kraft]], [[können]]
-, [[Durchhaltevermögen]], [[Durchsetzungsvermögen]], [[Schuldenpaket]]
+, [[Durchhaltevermögen]], [[Durchsetzungsvermögen]], [[Schuldenpaket]], [[Beherrschung]]

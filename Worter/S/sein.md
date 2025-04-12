@@ -31,9 +31,9 @@ Morpheme:
 | Ich       | [[bin]] | [[war]]     | -         | [[sei]]      | [[wäre]]      |
 | Du        | [[bist]] | [[warst]]   | [[sei]]   | [[seist]]    | [[wärest]]    |
 | Er/sie/es | [[ist]]  | [[war]]     | -         | [[sei]]      | [[wäre]]      |
-| Wir       | [[sind]] | [[waren]]   | -         | [[seien]]    | [[wären]]     |
+| Wir       | [[sind]] | [[Worter/W/Waren]]   | -         | [[seien]]    | [[wären]]     |
 | Ihr       | [[seid]] | [[wart]]    | [[seid]]  | [[seiet]]    | [[wäret]]     |
-| Sie       | [[sind]] | [[waren]]   | [[seien Sie]] | [[seien]] | [[wären]]     |
+| Sie       | [[sind]] | [[Worter/W/Waren]]   | [[seien Sie]] | [[seien]] | [[wären]]     |
 [[wär]]
 Partizip I: [[seiend]], Partizip II: [[gewesen]]
 ''', [[manchmal]], [[s1 e1]], [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]], [[Hilfsverb]], [[Bewusstsein]], [[Karrierebewusstsein]], [[bestehen]]

@@ -32,4 +32,4 @@ Morpheme: [[räum]][[en]]
 Partizip I: [[räumend]], Partizip II: [[geräumt]]
 
 , [[dammen]], [[bewohnen]], [[aufräumen]]
-, [[beziehen]], [[besetzen]], [[roden]]
+, [[beziehen]], [[besetzen]], [[roden]], [[einnehmen]]

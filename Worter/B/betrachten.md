@@ -3,6 +3,9 @@
 ---
 Ich [[betrachte]] diese [[Aussage]] als nicht relevant
 
+*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^5|^]]* Zunächst einmal sollte man sich selbst fragen: „Was ist mir persönlich wichtig?“, weiter, in [[Hinblick]] auf einen beruflichen Wechsel, sollte man sich auf persönliche Fragen wie die beruflichen Chancen auf persönliches [[Wachstum]], [[Weiterbildung]] und [[zusätzliche]] Qualifikationen hat, auch das [[Gehalt]] sollte man im [[Vergleich]] zum [[jetzigen]] [[Bruttojahresgehalt]] genauer [[betrachten]]. ^5
+
+
 *[[3 Soll man Geld spenden?#^4|^]]* Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja". ^4
 
 
@@ -37,4 +40,4 @@ PI: [[betrachtend]], PII: [[betrachtet]], Zu+inf: [[zu betrachten]]
 
 
 [[ansehen]], [[lesen]], [[sehen]], [[gucken]], [[angucken]], [[schauen]], [[mustern]], [[anschauen]], [[anblicken]], [[berücksichtigen]]
-, [[zugucken]]
+, [[zugucken]], [[Hinsicht]]

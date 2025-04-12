@@ -8,17 +8,17 @@
 ---
 = [[Termindruck]], [[Terminnot]], [[Zeitnot]]
 ≈ [[Eile]], [[Hektik]], [[Stress]], [[Beschleunigung]], [[Termindruck]]
-≠ [[Zeit]], [[Ruhe]], [[Entspannung]], [[Langeweile]]
+≠ [[Worter/Z/zeit]], [[Ruhe]], [[Entspannung]], [[Langeweile]]
 
 ---
 time pressure
 нехватка времени, цейтнот
 
 ---
-[[Zeit]], [[drucken]], [[zeitdrücklich]], [[zeitkritisch]]
+[[Worter/Z/zeit]], [[drucken]], [[zeitdrücklich]], [[zeitkritisch]]
 
 ---
-[[Zeit]]|[[druck]]
+[[Worter/Z/zeit]]|[[druck]]
 [[Zeitdruck]]
 
 

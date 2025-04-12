@@ -7,7 +7,7 @@ Geschäftstreffen
 ---
 = [[Meeting]], [[Konferenz]], [[Besprechung]]
 ≈ [[Termin]], [[Verhandlung]], [[Zusammenkunft]]
-≠ [[Freizeit]], [[Urlaub]]
+≠ [[Worter/F/Freizeit]], [[Urlaub]]
 
 ---
 business meeting  

@@ -1,1 +1,1 @@
-, [[Regel]], [[grundsätzlich]], [[zugrundeliegende]]
+, [[Worter/R/Regel]], [[grundsätzlich]], [[zugrundeliegende]]

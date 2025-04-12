@@ -1,1 +1,1 @@
-, [[vorläufig]]
+, [[vorläufig]], [[vorübergehend]]

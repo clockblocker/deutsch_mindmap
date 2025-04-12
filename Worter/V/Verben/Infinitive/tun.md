@@ -1,5 +1,5 @@
 ⚙️ [[tun]]  
-[[tat]]  
+[[Worter/T/Tat]]  
 haben [[getan]]
 
 ---
@@ -42,14 +42,14 @@ to do
 
 **Präteritum:**
 
-- Ich [[tat]] mein Bestes.
+- Ich [[Worter/T/Tat]] mein Bestes.
 - Du [[tatest]] das Richtige.
-- Er [[tat]] nichts.
-- Es [[tat]] weh.
-- Sie [[tat]] das Notwendige.
-- Wir [[taten]] alles für dich.
+- Er [[Worter/T/Tat]] nichts.
+- Es [[Worter/T/Tat]] weh.
+- Sie [[Worter/T/Tat]] das Notwendige.
+- Wir [[Worter/T/Taten]] alles für dich.
 - Ihr [[tatet]] viel Gutes.
-- Sie [[taten]] so, als ob.
+- Sie [[Worter/T/Taten]] so, als ob.
 
 ---
 

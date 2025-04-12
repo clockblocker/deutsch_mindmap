@@ -1,1 +1,1 @@
-, [[Verbrechen]], [[Verbrecher]]
+, [[Verbrechen]], [[Verbrecher]], [[legal]], [[strafbar]]

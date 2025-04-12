@@ -18,3 +18,4 @@ likewise, similarly, just as
 
 ---
 [[sowie]], [[desgleichen]], [[gleichfalls]], [[genauso]], [[folglich]]
+, [[sowohl]]

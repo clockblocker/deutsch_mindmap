@@ -1,1 +1,1 @@
-, [[Fremdsprache]]
+, [[Fremdsprache]], [[Muttersprachler]], [[Zielsprache]], [[Landessprache]]

@@ -1,4 +1,4 @@
 [[Wahl]]
 
 , [[Bundestagswahl]], [[Erststimme]], 
-🗳️ 🔴 die [[wählen]], [[wahlberechtigt]], [[Kommunalwahlen]]
+🗳️ 🔴 die [[wählen]], [[wahlberechtigt]], [[Kommunalwahlen]], [[beeinflussen]]

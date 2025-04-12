@@ -1,1 +1,1 @@
-[[Zeit]][[ung]]
+[[Worter/Z/zeit]][[ung]]

@@ -1,1 +1,2 @@
 👍 [[bewerten]]
+, [[Bearbeitung]], [[sowohl]], [[abwechslungsreich]]

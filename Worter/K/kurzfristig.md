@@ -1,1 +1,1 @@
-, [[nachhaltig]], [[langfristig]]
+, [[nachhaltig]], [[langfristig]], [[vorübergehend]]

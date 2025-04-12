@@ -1,1 +1,1 @@
-, [[beeinflussen]], [[Einflussnahme]], [[Einfluss]]
+, [[beeinflussen]], [[Einflussnahme]], [[Einfluss]], [[richtungsgebend]]

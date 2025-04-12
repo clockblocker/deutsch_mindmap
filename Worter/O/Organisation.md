@@ -1,1 +1,1 @@
-[[Unternehmen]], [[Verein]], [[Ordnung]], [[Gründungsmitglied]], [[Verwaltung]], [[Verwaltungsaufbau]]
+[[Unternehmen]], [[Verein]], [[Ordnung]], [[Gründungsmitglied]], [[Verwaltung]], [[Verwaltungsaufbau]], [[Hierarchie]]

@@ -1,2 +1,2 @@
 , [[anschauliche]], [[klar]], [[deutlich]], [[laut]]
-, [[erkennbar]], [[aussagekräftig]], [[verständigen]]
+, [[erkennbar]], [[aussagekräftig]], [[verständigen]], [[Verständnis]]

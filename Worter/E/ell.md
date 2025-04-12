@@ -1,1 +1,1 @@
-, [[offiziell]], [[speziell]]
+, [[offiziell]], [[speziell]], [[generell]]

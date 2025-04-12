@@ -4,6 +4,9 @@ nicht [[krank]]
 ---
 Toni raucht nicht mehr und [[lebt]] [[dadurch]] [[gesünder]].
 
+*[[2 Work Life Balance#^6|^]]* _Eine gute Work-Life-Balance_ [[sorgt]] _dafür, dass wir_ [[gesünder]] _sind und unsere Zeit effektiver und auch kreativer nutzen, da wir Prioritäten setzen. ^6
+
+
 ---
 Synonyme: [[fit]], [[vital]], [[rüstig]], [[wohlauf]], [[lebensfrisch]]  
 Antonyme: [[krank]], [[schwach]], [[matt]], [[erschöpft]], [[angeschlagen]]

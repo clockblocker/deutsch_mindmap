@@ -27,3 +27,4 @@ D: dem [[Grund]], den [[Gründen]]
 
 
 
+, [[zugrunde]]

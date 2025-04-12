@@ -1,1 +1,1 @@
-, [[Vorschau]], [[Zusammenfassung]], [[zusammenfassen]]
+, [[Vorschau]], [[Zusammenfassung]], [[zusammenfassen]], [[Schlusssatz]]

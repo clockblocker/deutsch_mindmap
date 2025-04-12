@@ -26,4 +26,4 @@ G: der [[Berufswahl]], der [[Berufswahlen]]
 D: der [[Berufswahl]], den [[Berufswahlen]]  
 
 ---
-[[berufen]], [[wählen]], [[Beruf]], [[beruflich]], [[Berufsorientierung]]
+[[berufen]], [[wählen]], [[Beruf]], [[beruflich]], [[Berufsorientierung]], [[Berufsfeld]]

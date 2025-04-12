@@ -32,3 +32,4 @@ D: der [[Verantwortung]], den [[Verantwortungen]]
 
 , [[Schuld]], [[Pflicht]]
 , [[strafmündig]], [[Verpflichtung]], [[Verantwortungsbewusstsein]]
+, [[verantwortungsvoll]], [[verantwortungsbewusst]]

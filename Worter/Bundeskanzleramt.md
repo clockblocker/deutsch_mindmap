@@ -24,4 +24,4 @@ G: des [[Bundeskanzleramtes]], der [[Bundeskanzlerämter]]
 D: dem [[Bundeskanzleramt]], den [[Bundeskanzlerämtern]]  
 
 ---
-[[Kanzler]], [[bundesdeutsch]], [[Regierung]], [[Staatsapparat]], [[Bundeskanzlerin]]
+[[Kanzler]], [[bundesdeutsch]], [[Regierung]], [[Staatsapparat]], [[Bundeskanzlerin]], [[aufhalten]]

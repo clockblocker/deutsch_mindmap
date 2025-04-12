@@ -41,3 +41,4 @@ Zu+infinifive: [[zu verbringen]]
 [[Verbringung]], [[Zeitverbringung]], [[Urlaubsverbringung]], [[Aufenthaltsverbringung]]
 
 , [[hinbringen]]
+, [[letztendlich]], [[Qualitätszeit]]

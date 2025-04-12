@@ -1,4 +1,4 @@
-🔴 die [[Religion]], [ʁeliˈɡi̯oːn]
+🔴 die [[Worter/Religion]], [ʁeliˈɡi̯oːn]
 die [[Religionen]]
 
 ---
@@ -19,10 +19,10 @@ religion
 [[Relig]][[ion]]
 
 ---
-N: die [[Religion]], die [[Religionen]]  
-A: die [[Religion]], die [[Religionen]]  
-G: der [[Religion]], der [[Religionen]]  
-D: der [[Religion]], den [[Religionen]]  
+N: die [[Worter/Religion]], die [[Religionen]]  
+A: die [[Worter/Religion]], die [[Religionen]]  
+G: der [[Worter/Religion]], der [[Religionen]]  
+D: der [[Worter/Religion]], den [[Religionen]]  
 
 ---
 [[religiös]], [[religiöse]], [[Religiosität]], [[Religionswissenschaft]], [[Religionsfreiheit]], [[Religionspflicht]], [[Religionsunterricht]], [[Glaubensfreiheit]], [[Religionsgemeinschaft]]

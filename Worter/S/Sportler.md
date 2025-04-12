@@ -1,1 +1,1 @@
-, [[Läufer]], [[Sport]]
+, [[Läufer]], [[Worter/S/Sport]]

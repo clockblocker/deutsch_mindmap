@@ -6,7 +6,7 @@
 
 ---
 = [[Verknüpfungen]], [[Verbindungen]], [[Querverweise]]
-≈ [[Vernetzung]], [[Referenzen]], [[Beziehungen]]
+≈ [[Vernetzung]], [[Referenzen]], [[Worter/B/Beziehungen]]
 ≠ [[Trennung]], [[Isolation]], [[Unverbundenheit]]
 
 ---

@@ -1,1 +1,1 @@
-, [[beherrschen]]
+, [[beherrschen]], [[Beherrschung]]

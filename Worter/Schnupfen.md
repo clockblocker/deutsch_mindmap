@@ -8,7 +8,7 @@ Wie schade! Ich soll zu Hause bleiben. Ich liege im Bett, und ich habe [[Fieber]
 ---
 = [[Erkältung]], [[Nasenkatarrh]]
 ≈ [[Grippe]], [[Erkältungskrankheit]], [[Infekt]]
-≠ [[Gesundheit]], [[Wohlbefinden]]
+≠ [[Worter/G/Gesundheit]], [[Wohlbefinden]]
 
 ---
 common cold, runny nose

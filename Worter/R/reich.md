@@ -28,4 +28,4 @@ Plural: [[reichen]], [[reicheren]], [[reichsten]]
 [[Reichtum]], [[Reichheit]], [[Reichlichkeit]], [[reichlich]], [[bereichern]]
 
 [[armer]], [[armen]], [[erreichten]], [[Bereich]]
-, [[erfolgreich]], [[Reichskrone]], [[erreichen]], [[erreichbar]], [[ausreichen]], [[ausreichende]], [[bedürftig]], [[risikoreich]], [[facettenreich]], [[umfangreich]]
+, [[erfolgreich]], [[Reichskrone]], [[erreichen]], [[erreichbar]], [[ausreichen]], [[ausreichende]], [[bedürftig]], [[risikoreich]], [[facettenreich]], [[umfangreich]], [[Erreichbarkeit]], [[abwechslungsreich]]

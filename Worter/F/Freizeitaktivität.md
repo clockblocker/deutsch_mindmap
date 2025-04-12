@@ -15,7 +15,7 @@ leisure activity, recreational activity
 досуговая деятельность, развлечение
 
 ---
-[[Freizeit]]|[[aktivität]]
+[[Worter/F/Freizeit]]|[[aktivität]]
 
 ---
 N: die [[Freizeitaktivität]], die [[Freizeitaktivitäten]]
@@ -24,4 +24,4 @@ G: der [[Freizeitaktivität]], der [[Freizeitaktivitäten]]
 D: der [[Freizeitaktivität]], den [[Freizeitaktivitäten]]
 
 ---
-[[Freizeit]], [[aktiv]], [[Aktivität]], [[Freizeitgestaltung]], [[Freizeitpark]], [[Freizeitkleidung]], [[Freizeitverhalten]], [[Freizeitbeschäftigung]], [[Freizeitgestaltung]]
+[[Worter/F/Freizeit]], [[aktiv]], [[Aktivität]], [[Freizeitgestaltung]], [[Freizeitpark]], [[Freizeitkleidung]], [[Freizeitverhalten]], [[Freizeitbeschäftigung]], [[Freizeitgestaltung]]

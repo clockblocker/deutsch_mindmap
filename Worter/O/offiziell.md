@@ -29,3 +29,4 @@ P: [[offiziellen]], [[offizieleren]], [[offizielsten]]
 [[Offizialität]], [[offizialisieren]], [[Amt]], [[amtlich]], [[Offiziant]]
 
 , [[öffentlich]], [[gesetzlich]]
+, [[legal]], [[Amtssprache]], [[behördlich]]

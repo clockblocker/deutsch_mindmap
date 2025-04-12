@@ -1,2 +1,2 @@
 , [[Nachtruhe]]
-, [[fehlentwicklung]], [[ungestört]], [[Ablenkung]]
+, [[fehlentwicklung]], [[ungestört]], [[Ablenkung]], [[Bedienung]], [[Hemmung]]

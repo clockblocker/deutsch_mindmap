@@ -1,5 +1,5 @@
 , [[Religionsunterricht]], [[geisteswissenschaftlich]]
-🔬 🔴 die [[Wissenschaft]], [ˈvɪsn̩ʃaft](https://youglish.com/pronounce/Wissenschaft/german)
+🔬 🔴 die [[Worter/W/Wissenschaft]], [ˈvɪsn̩ʃaft](https://youglish.com/pronounce/Wissenschaft/german)
 die [[Wissenschaften]]
 
 ---
@@ -7,7 +7,7 @@ wissenschaft
 
 ---
 = [[Forschung]], [[Lehre]]
-≈ [[Studium]], [[Akademiker]], [[Erkenntnis]], [[Theorie]]
+≈ [[Worter/S/Studium]], [[Akademiker]], [[Erkenntnis]], [[Theorie]]
 ≠ [[Unwissenheit]], [[Ignoranz]]
 
 ---
@@ -18,13 +18,13 @@ science
 [[wissenschaftlich]], [[Wissenschaftler]], [[Naturwissenschaft]], [[Geisteswissenschaft]], [[Wissenschafterin]], [[Forschung]]
 
 ---
-[[Wissenschaft]]
+[[Worter/W/Wissenschaft]]
 
 
 ---
-N: die [[Wissenschaft]], die [[Wissenschaften]]
-A: die [[Wissenschaft]], die [[Wissenschaften]]
-G: der [[Wissenschaft]], der [[Wissenschaften]]
-D: der [[Wissenschaft]], den [[Wissenschaften]]
+N: die [[Worter/W/Wissenschaft]], die [[Wissenschaften]]
+A: die [[Worter/W/Wissenschaft]], die [[Wissenschaften]]
+G: der [[Worter/W/Wissenschaft]], der [[Wissenschaften]]
+D: der [[Worter/W/Wissenschaft]], den [[Wissenschaften]]
 
 #Feminin 

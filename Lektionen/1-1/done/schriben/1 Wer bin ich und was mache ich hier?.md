@@ -21,7 +21,7 @@ Nach dem Studium bin ich nach Moskau gezogen==,== wo ich bei ==der== ==Deutsche=
 
 [[1 Wer bin ich und was mache ich hier?#^4|(q)]] Dort wurde ich auch ein aktives [[Mitglied]] der Liberalen Urbanistischen Oppositionspartei in Russland. ^4
 
-[[1 Wer bin ich und was mache ich hier?#^5|(q)]] In der Partei [[beschäftigte]] ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]]  Menschen und Geld an und war öffentlich [[tätig]]. ^5
+[[1 Wer bin ich und was mache ich hier?#^5|(q)]] In der Partei [[Beschäftigte]] ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]]  Menschen und Geld an und war öffentlich [[tätig]]. ^5
 
 Einige Monate, nachdem die ersten Wahlen [[stattfanden]], an denen ich teilgenommen hatte, erklärte Russland den Krieg, und alles änderte sich.
 

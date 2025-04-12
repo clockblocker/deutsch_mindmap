@@ -1,3 +1,3 @@
 
 
-🛠️ [[aufbauen]] + Akk, [ˈaʊ̯fbaʊ̯ən], [[Extra 8]]
+🛠️ [[aufbauen]] + Akk, [ˈaʊ̯fbaʊ̯ən], [[Extra 8]], [[Abschnitt]], [[Verknüpfung]]

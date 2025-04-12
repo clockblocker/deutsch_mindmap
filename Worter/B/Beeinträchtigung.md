@@ -1,1 +1,1 @@
-, [[Behinderung]]
+, [[Behinderung]], [[beeinträchtigen]]

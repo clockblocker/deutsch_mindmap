@@ -1,10 +1,10 @@
-die [[Regel]], [ˈʁeːɡl̩]
+die [[Worter/R/Regel]], [ˈʁeːɡl̩]
 die [[Regeln]]
 
 ---
-In der [[Regel]] ist es gefährlich, wenn das Eis bricht, zum Beispiel auf einem zugefrorenen See. 
+In der [[Worter/R/Regel]] ist es gefährlich, wenn das Eis bricht, zum Beispiel auf einem zugefrorenen See. 
 
-[[2 prap.md#^15|(q)]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
+[[2 prap.md#^15|(q)]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Worter/R/Regel]] ^15
 
 ---
 Synonyme:
@@ -15,10 +15,10 @@ Synonyme:
 
 ---
 Morpheme:
-[[Regel]]
+[[Worter/R/Regel]]
 
 ---
-Einzigartige mögliche Formen: [[Regel]], [[Regeln]], [[Regels]], [[Regels]]
+Einzigartige mögliche Formen: [[Worter/R/Regel]], [[Regeln]], [[Regels]], [[Regels]]
 
 ---
 #Substantiv #Feminin 

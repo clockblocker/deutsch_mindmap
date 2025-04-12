@@ -1,0 +1,3 @@
+🔴 die [[Satzkonstruktion]] ✍️
+
+#Plural 

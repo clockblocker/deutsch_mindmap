@@ -14,4 +14,4 @@ Die Katze überlegte [[noch]], wie sie das anstellen sollte
 
 Habt ihr das verstanden [[oder noch einmal]]?
 
-#adverb “still” or “yet,”, [[11 08]], [[durch]], [[bald]], [[selbst]], [[dennoch]], [[weder]]
+#adverb “still” or “yet,”, [[11 08]], [[durch]], [[bald]], [[selbst]], [[dennoch]], [[weder]], [[sowohl]]

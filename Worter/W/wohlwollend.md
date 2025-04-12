@@ -1,1 +1,1 @@
-, [[neidisch]]
+, [[neidisch]], [[verständnisvoll]]

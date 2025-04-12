@@ -13,11 +13,11 @@ money-hungry, avaricious
 алчный, жадный до денег
 
 ---
-[[Geld]], [[Gier]], [[Geldgier]], [[geldgieriger]], [[geldgierigste]]
+[[Worter/G/Geld]], [[Gier]], [[Geldgier]], [[geldgieriger]], [[geldgierigste]]
 
 ---
-[[Geld]]|[[gierig]]
-[[Geld]] + [[gierig]]
+[[Worter/G/Geld]]|[[gierig]]
+[[Worter/G/Geld]] + [[gierig]]
 
 ---
 Adjektive: [[geldgierig]], [[geldgieriger]], [[geldgierigst]]

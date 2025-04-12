@@ -1,0 +1,2 @@
+🔴 die [[Lehrkraft]] 🧑‍🏫
+#Plural 

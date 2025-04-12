@@ -1,1 +1,1 @@
-, [[berichten]]
+, [[berichten]], [[Berichterstattung]]

@@ -29,4 +29,4 @@ G: der [[Meinungsfreiheit]], der [[Meinungsfreiheiten]]
 D: der [[Meinungsfreiheit]], den [[Meinungsfreiheiten]]  
 
 ---
-[[meinen]], [[frei]], [[Meinung]], [[Freiheit]], [[Grundrecht]], [[Demokratie]], [[Pressezensur]]
+[[meinen]], [[frei]], [[Meinung]], [[Freiheit]], [[Grundrecht]], [[Demokratie]], [[Pressezensur]], [[Meinungsbildung]]

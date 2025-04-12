@@ -1,1 +1,1 @@
-[[Zu]] [[gleicher]] [[Zeit]]
+[[Zu]] [[gleicher]] [[Worter/Z/zeit]]

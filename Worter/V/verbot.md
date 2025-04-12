@@ -9,7 +9,7 @@ die [[Verbote]]
 
 ---
 = [[Untersagung]], [[Verweigerung]], [[Einschränkung]]
-≈ [[Regel]], [[Bestimmung]], [[Gesetz]], [[Maßnahme]]
+≈ [[Worter/R/Regel]], [[Bestimmung]], [[Gesetz]], [[Maßnahme]]
 ≠ [[Erlaubnis]], [[Genehmigung]], [[Zulassung]], [[Freigabe]]
 
 ---

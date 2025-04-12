@@ -68,3 +68,4 @@ Adjektive: [[stoßend]], [[stoßender]], [[stoßendst]]
 Wir stoßen uns an unseren Fehlern.
 
 
+, [[meiden]]

@@ -2,6 +2,7 @@
 die [[Meinungsäußerungen]]
 
 ---
+
 16. Wann ist die Meinungsfreiheit in Deutschland [[eingeschränkt]]? (80%)
 	- [x] bei der öffentlichen [[Verbreitung]] falscher [[Behauptung]] über [[einzelne]] Personen
 	- [ ] bei [[Meinungsäußerungen]] über die [[Bundesregierung]]
@@ -28,3 +29,5 @@ D: der [[Meinungsäußerung]], den [[Meinungsäußerungen]]
 
 ---
 [[Meinung]], [[äußern]], [[Meinungsfrei­heit]], [[Meinungsbildung]], [[kommentieren]]
+
+#Feminin 

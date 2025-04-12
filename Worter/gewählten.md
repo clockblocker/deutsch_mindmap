@@ -1,1 +1,1 @@
-[[wählen]]
+[[wählen]], [[auseinandersetzen]]

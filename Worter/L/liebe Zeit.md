@@ -2,4 +2,4 @@ Om god
 
 [[Ach du liebe Zeit]]!
 
-[[Zeit]]!
+[[Worter/Z/zeit]]!

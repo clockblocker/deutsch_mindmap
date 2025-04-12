@@ -4,6 +4,8 @@
 Ein Nomen ohne Begleiter im Plural steht im Dativ, wenn der Genitiv nicht [[erkennbar]] ist:  
 *[[Abzüglich]] Geldern aus Spenden (statt: abzüglich Gelder aus Spenden)*  
 
+1. [[stellenweise]] [[erkennbar]]  
+
 2.	[[2 Unter Druck nach oben#^23|(q)]] Es gibt keine [[erkennbaren]] Gründe dafür, dass die Bedeutung der Sozialkompetenz in den letzten Jahren [[zunahm]] `-` ^23
 
 

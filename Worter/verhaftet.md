@@ -1,1 +1,1 @@
-😱 [[verhaften]], [fɛɐ̯ˈhaftən] | [[verhaftete]], haben [[verhaftet]]
+😱 [[verhaften]], [fɛɐ̯ˈhaftən] | [[verhaftete]], haben [[verhaftet]], [[Berichterstattung]]

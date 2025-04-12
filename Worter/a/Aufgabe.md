@@ -12,7 +12,7 @@ die [[Aufgaben]]
 ---
 = [[Pflicht]], [[Obliegenheit]], [[Verantwortung]]
 ≈ [[Aufgabenstellung]], [[Auftrag]], [[Pensum]], [[Mission]]
-≠ [[Freizeit]], [[Hobby]], [[vergnügen]]
+≠ [[Worter/F/Freizeit]], [[Hobby]], [[vergnügen]]
 
 ---
 task, assignment, duty
@@ -34,4 +34,4 @@ D: der [[Aufgabe]], den [[Aufgaben]]
 , [[Angelegenheit]]
 , [[Arbeitsauftrag]]
 , [[Schularbeit]]
-, [[aufmachen]], [[Erhalt]], [[bestreben]], [[Aufgabenerfüllung]]
+, [[aufmachen]], [[Erhalt]], [[bestreben]], [[Aufgabenerfüllung]], [[Aufgabengerechtigkeit]], [[Anhieb]], [[Anhieb]]

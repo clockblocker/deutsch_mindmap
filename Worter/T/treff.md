@@ -1,1 +1,1 @@
-, [[treffen]], [[betreffen]]
+, [[treffen]], [[betreffen]], [[zutreffen]]

@@ -8,7 +8,7 @@ Mit seiner Kamera machte Fred Fotos für seine Freunde zu Hause. Aber dann passi
 
 „Zum ersten Mal in meinem Leben“, erzählte er später seinen Freunden zu Hause, „dachte ich, dass ich nicht lebend nach Hause komme. Mir ist das Herz in die Hose [[gerutscht]].“ 
 
-Zum Glück [[behielt]] Fred in dieser Situation doch noch einen kühlen Kopf. Er blieb ruhig stehen und [[tat]] einfach nichts. 
+Zum Glück [[behielt]] Fred in dieser Situation doch noch einen kühlen Kopf. Er blieb ruhig stehen und [[Worter/T/Tat]] einfach nichts. 
 
 Der Löwe [[schaute]] ihn eine Zeit lang an und machte sich dann auf den Weg zu den Giraffen. Glück gehabt! Nächstes Jahr möchte Fred [[unbedingt]] nach London. Den Buckingham Palace wollte er schon immer sehen …
 

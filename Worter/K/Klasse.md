@@ -19,4 +19,4 @@ Morphems:
 [[Klass]][[e]]
 
 ---
-#Substantiv #Feminin, [[toll]], [[Schulklasse]]
+#Substantiv #Feminin, [[toll]], [[Schulklasse]], [[Klassenstufe]]

@@ -1,1 +1,1 @@
-, [[Religion]], [[ungläubig]]
+, [[Worter/Religion]], [[ungläubig]]

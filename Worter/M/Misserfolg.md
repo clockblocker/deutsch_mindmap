@@ -1,3 +1,3 @@
 , [[Niederlage]], [[scheitern]], [[Wahlniederlage]], [[Hot]]
 , [[fehlentwicklung]]
-, [[Versuch]], [[Karriere]], [[Großtat]]
+, [[Versuch]], [[Karriere]], [[Großtat]], [[Bildungserfolg]]

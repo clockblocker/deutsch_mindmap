@@ -1,1 +1,1 @@
-, [[selten]]
+, [[selten]], [[vereinzeln]]

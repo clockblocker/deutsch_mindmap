@@ -27,3 +27,7 @@ D: der [[Gerechtigkeit]], den [[Gerechtigkeiten]]
 
 ---
 [[gerecht]], [[Gerichtshof]], [[rechtlich]], [[Rechtsprechung]], [[ungerecht]]
+, [[Aufgabengerechtigkeit]], [[Menschenrecht]], [[frühkindlich]]
+
+
+#Feminin 

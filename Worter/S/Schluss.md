@@ -1,8 +1,9 @@
-der [[Schluss]]
-die [[Schlüsse]]
+🔚 🔵 der [[Schluss]], [ʃlʊs](https://youglish.com/pronounce/Schluss/german)
 
 ---
 Jetzt ist [[Schluss]]. Genug gespielt. Katara, denk dran, du hast Pflichten.
+
+1. [[Textaufbau]] (z. B. [[Einleitung]], [[Schluss]]), Logik
 
 Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Ergebnis]] [[entgegenzufiebern]]
 
@@ -10,24 +11,24 @@ Ob [[Sportwetten]] oder Roulette, Alfred liebt es, bis zum [[Schluss]] dem [[Erg
 
 
 ---
-
-Synonyms:
-- [[Ende]]
-- [[Abschluss]]
-- [[Beendigung]]
+= [[Ende]], [[Abschluss]], [[Fazit]]
+≈ [[Finale]], [[Ausgang]], [[Resultat]]
+≠ [[Anfang]], [[Einleitung]], [[Beginn]]
 
 ---
-
-**Übersetzung**:
-end, conclusion
-
----
-
-#Substantiv
-#Maskulin  
+conclusion, end  
+заключение, конец
 
 ---
+[[schließen]], [[schlüssig]], [[Schlussfolgerung]]
 
-**Morphems of only infinitive:**
-- [[Schluss]], [[entgegenfiebern]], [[schließlich]], [[Beschluss]], [[Schulabschluss]], [[Zusammenschluss]], [[Einführung]], [[s1 e1]], [[Anfang]]
-, [[einschließlich]], [[Abspann]]
+---
+[[Schluss]]
+
+
+---
+N: der [[Schluss]], die [[Schlüsse]]
+A: den [[Schluss]], die [[Schlüsse]]
+G: des [[Schlusses]], der [[Schlüsse]]
+D: dem [[Schluss]], den [[Schlüssen]]
+, [[Schlusssatz]]

@@ -1,8 +1,8 @@
 🎼 🔴 die [[Note]], [ˈnoːtə]
-die [[Noten]]
+die [[Worter/N/Noten]]
 
 ---
-Sie haben meinem Sohn eine Fünf gegeben! Bei seinem alten Lehrer hatte er immer gute [[Noten]]!
+Sie haben meinem Sohn eine Fünf gegeben! Bei seinem alten Lehrer hatte er immer gute [[Worter/N/Noten]]!
 
 ---
 Synonyme:
@@ -20,7 +20,7 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen: 
-[[Note]], [[Notes]], [[Noten]], [[Noten]]
+[[Note]], [[Notes]], [[Worter/N/Noten]], [[Worter/N/Noten]]
 
 ---
 #Substantiv #Feminin

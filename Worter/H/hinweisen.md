@@ -1,7 +1,8 @@
 🚩 [[hinweisen]], [ˈhɪnˌvaɪ̯zən] | [[wies hin]], haben [[hingewiesen]]
 
 ---
-[[Hinweis]]
+*[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]. ^6
+
 
 **“von etwas sprechen”** → wenn du etwas [[erwähnst]] oder auf etwas [[anspielst]]
 • bei diskussionen: **über etwas sprechen**
@@ -29,6 +30,8 @@ PI: [[hinweisend]], PII: [[hingewiesen]], Zu+inf: [[hinzuweisen]]
 
 ---
 [[hinweisen]] - [[hin]] = [[weisen]] / to point out, to indicate
+
+[[Hinweis]]
 
 ---
 [[Hinweis]], [[hinweisend]], [[Hinweisschild]], [[hinweisbar]], [[aufzeigen]], [[besagen]]

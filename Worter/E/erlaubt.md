@@ -33,4 +33,4 @@ N: [[erlaubtes]], [[erlaubteres]], [[erlaubtestes]]
 P: [[erlaubten]], [[erlaubteren]], [[erlaubtesten]]  
 
 ---
-[[erlauben]], [[Erlaubnis]], [[unerlaubt]], [[Verbot]], [[zulässig]], [[gesetzlich]], [[alleinerziehend]], [[verbot]]
+[[erlauben]], [[Erlaubnis]], [[unerlaubt]], [[Verbot]], [[zulässig]], [[gesetzlich]], [[alleinerziehend]], [[verbot]], [[legal]]

@@ -1,1 +1,1 @@
-, [[Geburt]], [[Anfang]]
+, [[Geburt]], [[Anfang]], [[Anhieb]], [[Anhieb]]

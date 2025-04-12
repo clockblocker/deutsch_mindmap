@@ -1,4 +1,4 @@
-Singular: die [[Zeit]]
+Singular: die [[Worter/N/Nomen/Zeit]]
 Plural: die [[Zeiten]]
 
 Beispiele:

@@ -1,1 +1,3 @@
 , [[übersetzen]]
+
+#Feminin 

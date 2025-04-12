@@ -5,6 +5,8 @@ haben [[gewählt]]
 ---
 Dort kann man für nicht einmal 50 Euro zwischen Sommerblumen, einem Haus in einsamer Landschaft oder einer Straße im Nebel [[wählen]].
 
+ Mit dem [[gewählten]] Thema sollen Sie sich detailliert [[auseinandersetzen]] und Ihre Argumente klar und strukturiert darlegen.
+
 258. Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag [[gewählt]] zu werden? (90%)
 	- [ ] 3 %
 	- [ ] 4 %

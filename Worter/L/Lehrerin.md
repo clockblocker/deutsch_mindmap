@@ -1,1 +1,1 @@
-, [[lehren]]
+, [[lehren]], [[Lehrkraft]]

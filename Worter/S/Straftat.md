@@ -21,7 +21,7 @@ die [[Straftaten]]
 criminal offense, crime
 
 ---
-[[Straf]]|[[tat]]
+[[Straf]]|[[Worter/T/Tat]]
 
 ---
 N: die [[Straftat]], die [[Straftaten]]  
@@ -31,4 +31,4 @@ D: der [[Straftat]], den [[Straftaten]]
 
 ---
 , [[bestrafen]]
-[[strafen]], [[strafbar]], [[Straftäter]], [[kriminell]], [[straflos]], [[Strafgesetz]]
+[[strafen]], [[strafbar]], [[Straftäter]], [[kriminell]], [[straflos]], [[Strafgesetz]], [[Tat]], [[legal]]

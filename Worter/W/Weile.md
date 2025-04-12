@@ -7,7 +7,7 @@ die [[Weilen]]
 
 ---
 Synonyme:
-- [[Zeit]], [[Moment]], [[Zeitspanne]], [[Augenblick]], [[Phase]]
+- [[Worter/Z/zeit]], [[Moment]], [[Zeitspanne]], [[Augenblick]], [[Phase]]
 
 ---
 while, moment, period of time

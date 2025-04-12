@@ -1,0 +1,1 @@
+[[richtungsgebend]], [[Tat]]

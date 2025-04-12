@@ -1,4 +1,4 @@
 , [[Tätigkeit]], [[Arbeit]]
 , [[Arbeitsauftrag]]
 , [[Auftrag]]
-, [[Beschäftigung]], [[Arbeitsstelle]]
+, [[Beschäftigung]], [[Arbeitsstelle]], [[Erwerbstätigkeit]], [[Berufstätigkeit]]

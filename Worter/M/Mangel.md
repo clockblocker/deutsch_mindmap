@@ -26,3 +26,5 @@ N: der [[Mangel]], die [[Mängel]]
 A: den [[Mangel]], die [[Mängel]]
 G: des [[Mangels]], der [[Mängel]]
 D: dem [[Mangel]], den [[Mängeln]]
+
+#Maskulin 

@@ -1,1 +1,1 @@
-, [[entwickeln]], [[Stadtentwicklung]]
+, [[entwickeln]], [[Stadtentwicklung]], [[Persönlichkeitsentwicklung]]

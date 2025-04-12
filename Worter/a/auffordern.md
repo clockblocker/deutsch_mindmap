@@ -30,4 +30,4 @@ PI: [[auffordernd]], PII: [[aufgefordert]], Zu+inf: [[aufzufordern]]
 [[auffordern]] - [[Worter/A/auf]] = [[fordern]] / to request, to call upon, to demand
 
 ---
-[[Aufforderung]], [[Forderung]], [[auffordernd]], [[herausfordernd]], [[auffordern]], [[herausfordern]]
+[[Aufforderung]], [[Forderung]], [[auffordernd]], [[herausfordernd]], [[auffordern]], [[herausfordern]], [[Aufrufen]]

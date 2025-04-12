@@ -4,6 +4,9 @@ nicht [[vorübergehend]]
 ---
 [[Eine Extrawurst bekommen.md#^4|(q)]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
 
+
+- Nennen Sie ein Beispiel, wie der [[ständig]]e Nachrichtenstrom die [[Meinungsbildung]] [[erschwert]].  
+
 Statt zu arbeiten, [[erholt]] er sich [[ständig]] 
 
 Tanja will den Eltern erklären, dass ihr Sohn nicht mehr lernt, seit er [[ständig]] mit seinen Freunden Party macht. 
@@ -42,4 +45,4 @@ Verwandte Ausdrücke:
 
 [[manchmal]] ≠ [[immer]]
 [[manchmal]] ≠ [[nie]]
-[[manchmal]] ≈ [[selten]], [[selbständig]], [[einmal]], [[verständigen]]
+[[manchmal]] ≈ [[selten]], [[selbständig]], [[einmal]], [[verständigen]], [[durchgängig]]

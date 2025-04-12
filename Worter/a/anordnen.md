@@ -1,1 +1,1 @@
-, [[Zweierreihen]], [[erlassen]], [[verfügen]], [[auferlegen]]
+, [[Zweierreihen]], [[erlassen]], [[verfügen]], [[auferlegen]], [[anweisen]]

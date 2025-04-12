@@ -1,1 +1,1 @@
-[[Worter/A/Alle]], [[ununterbrochen]], [[allgemein]]
+[[Worter/A/Alle]], [[ununterbrochen]], [[allgemein]], [[stellenweise]]

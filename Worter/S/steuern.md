@@ -33,4 +33,4 @@ PI: [[steuernd]], PII: [[gesteuert]], Zu+inf: [[zusteuern]]
 ---
 [[Steuerung]], [[Steuerrad]], [[Steuermann]], [[Steuergerät]], [[steuerbar]]
 
-, [[Anki]]
+, [[Anki]], [[beeinflussen]]

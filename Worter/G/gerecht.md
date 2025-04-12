@@ -1,1 +1,1 @@
-, [[recht]], [[ungerecht]], [[ungerechtfertigen]], [[unrecht]], [[Gerechtigkeit]]
+, [[recht]], [[ungerecht]], [[ungerechtfertigen]], [[unrecht]], [[Gerechtigkeit]], [[Aufgabengerechtigkeit]]

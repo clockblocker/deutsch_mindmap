@@ -1,1 +1,1 @@
-, [[bestrafen]], [[Freiheitsstrafe]], [[Geldstrafe]], [[Prügelstrafe]], [[Todesstrafe]], [[verurteilten]], [[Bundesverdienstkreuz]], [[Verdienstorden]], [[Lohn]]
+, [[bestrafen]], [[Freiheitsstrafe]], [[Geldstrafe]], [[Prügelstrafe]], [[Todesstrafe]], [[verurteilten]], [[Bundesverdienstkreuz]], [[Verdienstorden]], [[Lohn]], [[legal]], [[strafbar]], [[Punktabzug]]

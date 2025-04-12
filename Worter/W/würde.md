@@ -1,3 +1,3 @@
 🌱 [[werden]]  
 🌱 [[werden]]  
-, [[Ehrentitel]], [[Menschenwürde]]
+, [[Ehrentitel]], [[Menschenwürde]], [[Menschenrecht]]

@@ -3,6 +3,9 @@
 ---
 Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
 
+*[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]. ^6
+
+
 *[[4 Autofrei#^6|^]]* Die wirtschaftliche Linie der Argumente [[besteht]] [[aus]] vielen Teilen. ^6
 
 1. Der Teil des Fahrrads, der normalerweise aus Metall [[besteht]]: der Ramen 
@@ -95,4 +98,4 @@ sie, [[bestehen]], [[bestanden]], [[bestehen]], [[bestünden]], [[bestehen]]
 Adjektive: [[bestehend]], [[bestehender]], [[bestehendst]]
 
 ---
-[[bestehender]], [[bestehendes]], [[bestehende]], [[bestehenden]], [[bestehendem]], [[bestehenderer]], [[bestehenderes]], [[bestehendere]], [[bestehenderen]], [[bestehenderem]], [[bestehendster]], [[bestehendstes]], [[bestehendste]], [[bestehendsten]], [[bestehendstem]]
+[[bestehender]], [[bestehendes]], [[bestehende]], [[bestehenden]], [[bestehendem]], [[bestehenderer]], [[bestehenderes]], [[bestehendere]], [[bestehenderen]], [[bestehenderem]], [[bestehendster]], [[bestehendstes]], [[bestehendste]], [[bestehendsten]], [[bestehendstem]], [[dringen]]

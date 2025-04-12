@@ -26,4 +26,4 @@ G: des [[Rufs]], der [[Rufe]]
 D: dem [[Ruf]], den [[Rufen]] 
 
 ---
-[[rufen]], [[rufbar]], [[anrufen]], [[Rufname]], [[Rufzeichen]]
+[[rufen]], [[rufbar]], [[anrufen]], [[Rufname]], [[Rufzeichen]], [[Aufrufen]]

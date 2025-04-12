@@ -29,9 +29,9 @@ Antonyme: [[angeblich]], [[vermeintlich]], [[scheinbar]], [[hypothetisch]]
 Übersetzung: actually, indeed, in fact
 
 ---
-Morpheme: [[Tat]][[sächlich]]
+Morpheme: [[Worter/T/Tat]][[sächlich]]
 #Adverb
 
 
 [[allerdings]], [[eigentlich]], [[echt]]
-, [[begrüßen]], [[zerbrechen]], [[erwarten]], [[sogenannt]], [[Anki]], [[erfüllen]]
+, [[begrüßen]], [[zerbrechen]], [[erwarten]], [[sogenannt]], [[Anki]], [[erfüllen]], [[Tat]]

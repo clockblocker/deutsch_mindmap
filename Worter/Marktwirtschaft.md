@@ -18,7 +18,7 @@ die [[Marktwirtschaften]]
 market economy
 
 ---
-[[Markt]]+[[Wirtschaft]]
+[[Markt]]+[[Worter/W/Wirtschaft]]
 [[Markt]]|[[Wirt]]|[[schaft]]
 
 ---

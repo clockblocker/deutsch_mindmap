@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[leichtsinnig]], [[leichtsinniger]], [[leichtsinnige]], [[leichtsinniges]], [[leichtsinnigen]], [[leichtsinnigem]], [[leichtsinniger]], [[leichtsinnigen]]
 [[leichtsinnigste]], [[leichtsinnigster]], [[leichtsinnigste]], [[leichtsinnigstes]], [[leichtsinnigsten]], [[leichtsinnigstem]], [[leichtsinnigster]], [[leichtsinnigsten]]
-, [[nachdenklich]]
+, [[nachdenklich]], [[verantwortungsvoll]], [[verantwortungsbewusst]]

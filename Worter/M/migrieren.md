@@ -1,1 +1,1 @@
-, [[Migrant]]
+, [[Migrant]], [[Migrantin]]

@@ -6,7 +6,7 @@
 ---
 = [[Zeitdruck]], [[Deadline]], [[Zeitnot]]
 ≈ [[Stress]], [[Eile]], [[Hektik]], [[Zeitknappheit]]
-≠ [[Entspannung]], [[Ruhe]], [[Freizeit]], [[Langeweile]]
+≠ [[Entspannung]], [[Ruhe]], [[Worter/F/Freizeit]], [[Langeweile]]
 
 ---
 time pressure, deadline pressure

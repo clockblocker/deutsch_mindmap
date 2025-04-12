@@ -1,1 +1,1 @@
-, [[zusammenfassen]]
+, [[zusammenfassen]], [[inhaltlich]]

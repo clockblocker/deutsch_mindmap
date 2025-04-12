@@ -1,1 +1,1 @@
-, [[vergehen]]
+, [[vergehen]], [[vorübergehend]]

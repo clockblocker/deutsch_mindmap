@@ -7,7 +7,7 @@ die [[Behinderungen]]
 ---
 = [[Körperbeeinträchtigung]], [[Einschränkung]], [[Handicap]]
 ≈ [[Invalidität]], [[Gebrechlichkeit]], [[Beeinträchtigung]], [[Unterstützung]]
-≠ [[Gesundheit]], [[Leistungsfähigkeit]], [[Vollkommenheit]]
+≠ [[Worter/G/Gesundheit]], [[Leistungsfähigkeit]], [[Vollkommenheit]]
 
 ---
 disability, impairment
@@ -22,4 +22,4 @@ G: der [[Behinderung]], der [[Behinderungen]]
 D: der [[Behinderung]], den [[Behinderungen]]  
 
 ---
-[[behindern]], [[behindert]], [[Behindertenrecht]], [[Behindertenausweis]], [[behindertengerecht]], [[stau]], [[mithilfe]]
+[[behindern]], [[behindert]], [[Behindertenrecht]], [[Behindertenausweis]], [[behindertengerecht]], [[stau]], [[mithilfe]], [[Hindernis]], [[Förderung]], [[Hemmung]]

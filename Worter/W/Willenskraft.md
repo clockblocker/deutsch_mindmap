@@ -7,7 +7,7 @@ die [[Willenskräfte]]
 
 ---
 = [[Entschlossenheit]], [[Zielstrebigkeit]], [[Durchhaltevermögen]]
-≈ [[Motivation]], [[Energie]], [[Selbstdisziplin]], [[Ausdauer]]
+≈ [[Motivation]], [[Worter/E/Energie]], [[Selbstdisziplin]], [[Ausdauer]]
 ≠ [[Schwäche]], [[Willenlosigkeit]], [[Unentschlossenheit]], [[Mutlosigkeit]]
 
 ---

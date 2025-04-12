@@ -15,7 +15,7 @@ opening hours
 часы работы
 
 ---
-[[Öffnungs]]+[[zeit]]
+[[Öffnungs]]+[[Worter/Z/zeit]]
 
 ---
 N: die [[Öffnungszeit]], die [[Öffnungszeiten]]
@@ -24,4 +24,4 @@ G: der [[Öffnungszeit]], der [[Öffnungszeiten]]
 D: der [[Öffnungszeit]], den [[Öffnungszeiten]]
 
 ---
-[[öffnen]], [[Öffnung]], [[Zeit]], [[Öffnungszeiten]], [[Öffnungszeiten]]
+[[öffnen]], [[Öffnung]], [[Worter/Z/zeit]], [[Öffnungszeiten]], [[Öffnungszeiten]]

@@ -1,1 +1,1 @@
-, [[Training]], [[Sport]], [[Schweinehund]], [[faul]]
+, [[Training]], [[Worter/S/Sport]], [[Schweinehund]], [[faul]]

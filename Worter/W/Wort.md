@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Worts]], [[Worte]], [[Worten]], [[Wörter]], [[
 , [[Wortgefecht]]
 , [[Bezugswort]]
 , [[Char]]
-, [[Leerzeichen]]
+, [[Leerzeichen]], [[Satzzeichen]], [[Satzkonstruktion]]

@@ -1,1 +1,5 @@
-, [[übersetzen]]
+, [[übersetzen]], [[Dolmetscher]]
+
+#Maskulin 
+
+[[Übersetzerin]], [[Übersetzung]]

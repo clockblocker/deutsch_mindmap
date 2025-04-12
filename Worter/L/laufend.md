@@ -1,1 +1,1 @@
-, [[laufen]]
+, [[laufen]], [[durchgängig]]

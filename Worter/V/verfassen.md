@@ -3,6 +3,9 @@
 ---
 - [[verfassen]] *Sie einen Diskussions*[[Beitrag]] *zu diesem Thema%*
 
+*[[3 Sollte das Internet stärker reguliert werden?#^1|^]]* _Neben_ [[Beleidigungen]], _übler_ [[Nachrede]] _oder_ [[Verleumdung]] [[verfassen]] _manche sogar_ [[Nachrichten]], _die zur_ [[Gewalt]] [[aufrufen]]. ^1
+
+
 ---
 = [[schreiben]], [[abfassen]], [[formulieren]]
 ≈ [[erstellen]], [[entwerfen]], [[dichten]]
@@ -46,4 +49,4 @@ sie, [[verfassen]], [[verfassten]], [[verfassen]], [[verfassten]], [[verfassen]]
 Adjektive: [[verfassend]], [[verfassender]], [[verfassendst]]
 
 ---
-[[verfassender]], [[verfassendes]], [[verfassende]], [[verfassenden]], [[verfassendem]], [[verfassenderer]], [[verfassenderes]], [[verfassendere]], [[verfassenderen]], [[verfassenderem]], [[verfassendster]], [[verfassendstes]], [[verfassendste]], [[verfassendsten]], [[verfassendstem]]
+[[verfassender]], [[verfassendes]], [[verfassende]], [[verfassenden]], [[verfassendem]], [[verfassenderer]], [[verfassenderes]], [[verfassendere]], [[verfassenderen]], [[verfassenderem]], [[verfassendster]], [[verfassendstes]], [[verfassendste]], [[verfassendsten]], [[verfassendstem]], [[Verleumdung]]

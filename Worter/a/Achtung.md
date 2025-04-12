@@ -1,2 +1,2 @@
 , [[Vorsicht]], [[beachten]], [[achten]], [[Menschenwürde]]
-, [[Aufmerksamkeit]]
+, [[Aufmerksamkeit]], [[Wertschätzung]], [[Respekt]]

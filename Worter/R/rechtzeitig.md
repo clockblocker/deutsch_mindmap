@@ -16,7 +16,7 @@ timely, in good time, punctual
 
 ---
 Morpheme:
-[[recht]][[zeit]][[ig]]
+[[recht]][[Worter/Z/zeit]][[ig]]
 
 ---
 

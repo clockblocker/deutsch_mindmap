@@ -1,1 +1,1 @@
-, [[fördern]], [[Baumpate]], [[Pate]]
+, [[fördern]], [[Baumpate]], [[Pate]], [[Förderung]]

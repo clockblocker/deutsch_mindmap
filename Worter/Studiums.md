@@ -1,1 +1,1 @@
-[[Studium]], [[Gen Prap]]
+[[Worter/S/Studium]], [[Gen Prap]]

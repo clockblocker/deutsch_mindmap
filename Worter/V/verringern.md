@@ -49,4 +49,4 @@ Adjektive: [[verringernd]], [[verringernder]], [[verringerndst]]
 
 
 
-, [[absinken]]
+, [[absinken]], [[abbauen]]

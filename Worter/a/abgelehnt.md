@@ -1,1 +1,1 @@
-, [[ablehnen]]
+, [[ablehnen]], [[voraussetzen]]

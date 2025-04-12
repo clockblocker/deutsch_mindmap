@@ -1,1 +1,4 @@
 , [[Äußerung]]
+
+#Plural 
+, [[Menschenrecht]], [[Tat]]

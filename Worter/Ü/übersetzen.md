@@ -29,4 +29,4 @@ PI: [[übersetzend]], PII: [[übersetzt]], Zu+inf: [[überzusetzen]]
 [[übersetzen]] - [[Worter/Ü/über]] = [[setzen]] / to translate, to interpret
 
 ---
-[[Übersetzer]], [[Übersetzung]], [[Übersetzerin]], [[dolmetschen]], [[überliefern]]
+[[Übersetzer]], [[Übersetzung]], [[Übersetzerin]], [[dolmetschen]], [[überliefern]], [[Zielsprache]]

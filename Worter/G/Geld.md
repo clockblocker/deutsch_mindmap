@@ -1,4 +1,4 @@
-🟢 das [[Geld]], [ɡɛlt]
+🟢 das [[Worter/G/Geld]], [ɡɛlt]
 die [[Gelder]]
 
 
@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Geld]]
+[[Worter/G/Geld]]
 
 ---
 Einzigartige mögliche Formen: [[Geldes]], [[Gelde]], [[Gelder]], [[Geldern]]

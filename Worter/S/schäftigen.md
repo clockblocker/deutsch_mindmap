@@ -1,4 +1,4 @@
-🌿 [[beschäftigen]], [bəˈʃɛftɪɡən] | [[beschäftigte]], haben [[beschäftigt]]
+🌿 [[beschäftigen]], [bəˈʃɛftɪɡən] | [[Beschäftigte]], haben [[beschäftigt]]
 
 ---
 
@@ -19,9 +19,9 @@ to employ, to occupy, to engage
 ---
 
 Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
-Ich: [[beschäftige]], [[beschäftigte]], -, [[beschäftige]], [[beschäftigte]]  
+Ich: [[beschäftige]], [[Beschäftigte]], -, [[beschäftige]], [[Beschäftigte]]  
 Du: [[beschäftigst]], [[beschäftigtest]], [[beschäftige]], [[beschäftigest]], [[beschäftigtest]]  
-Er/sie/es: [[beschäftigt]], [[beschäftigte]], -, [[beschäftige]], [[beschäftigte]]  
+Er/sie/es: [[beschäftigt]], [[Beschäftigte]], -, [[beschäftige]], [[Beschäftigte]]  
 Wir: [[beschäftigen]], [[beschäftigten]], -, [[beschäftigen]], [[beschäftigten]]  
 Ihr: [[beschäftigt]], [[beschäftigtet]], [[beschäftigt]], [[beschäftiget]], [[beschäftigtet]]  
 

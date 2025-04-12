@@ -1,1 +1,1 @@
-💼 [[Worter/V/Verben/Infinitive/haben]]  , [[vorhaben]], [[verständigen]]
+💼 [[Worter/V/Verben/Infinitive/haben]]  , [[vorhaben]], [[verständigen]], [[verfehlen]]

@@ -13,7 +13,7 @@ Synonyme:
 schedule, timetable, plan
 
 ---
-[[Zeit]][[plan]]
+[[Worter/Z/zeit]][[plan]]
 
 ---
 Case: Singular, Plural  

@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 [[bunt]], [[bunter]], [[bunte]], [[buntes]], [[bunten]], [[buntem]], [[bunter]], [[bunten]]
 [[bunter]], [[bunterer]], [[buntere]], [[bunteres]], [[bunteren]], [[bunteren]], [[bunterer]], [[bunteren]]
 [[buntesten]], [[buntester]], [[bunteste]], [[buntestes]], [[buntesten]], [[bunterstem]], [[buntester]], [[buntesten]]
-''', [[facettenreich]], [[wechselvoll]]
+''', [[facettenreich]], [[wechselvoll]], [[abwechslungsreich]]

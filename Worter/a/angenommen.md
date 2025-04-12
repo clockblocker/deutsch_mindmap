@@ -1,1 +1,1 @@
-, [[annehmen]]
+, [[annehmen]], [[voraussetzen]]

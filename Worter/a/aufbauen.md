@@ -5,6 +5,10 @@ haben [[aufgebaut]]
 ---
 SAM: Ich helfe dir beim [[aufbauen]] … Wo ist die Anleitung?  
 
+Ihr Text soll nicht nur insgesamt, sondern auch innerhalb der einzelnen [[Abschnitte]] logisch [[aufgebaut]] und für die Leserinnen und Leser gut [[nachvollziehbar]] sein. 
+
+[[Bewertet]] wird, ob die thematischen Punkte und die Sätze des Briefes sinnvoll und richtig [[verknüpft]] sind: ist der Brief logisch [[aufgebaut]]? 
+
 SASCHA: Hast du in deinem [[Leben]] schon mal ein Regal [[aufgebaut]]?  
 
 AN: NADJA / VON: ANNA Ja, Sam [[aufbauen|baut]] noch immer das Regal auf.  
@@ -39,4 +43,4 @@ Partizip I: [[aufbauend]], Partizip II: [[aufgebaut]], [[aufzubauen]]
 
 [[aufbauen]] - [[Worter/A/auf]] = [[bauen]]
 , [[Extra 8]], [[abreißen]], [[aufstellen]], [[stellen]], [[umwerfen]], [[abnehmen]], [[errichteten]], [[zerstörten]], [[Verwaltungsaufbau]], [[vernichten]]
-, [[zusammenbrechen]], [[etablieren]]
+, [[zusammenbrechen]], [[etablieren]], [[Textaufbau]], [[zugrunde]]

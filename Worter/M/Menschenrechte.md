@@ -1,1 +1,2 @@
-, [[Prügelstrafe]], [[Folter]], [[Menschenwürde]]
+, [[Prügelstrafe]], [[Folter]], [[Menschenwürde]]🤝 [[Menschenrecht]]
+#Plural , [[Tat]]

@@ -34,4 +34,4 @@ sie, [[messen]], [[maßen]], [[messen]], [[määßen]], [[messen]]
 Adjektive: [[messend]], [[messender]], [[messendst]]
 
 ---
-[[messender]], [[messendes]], [[messende]], [[messenden]], [[messendem]], [[messenderer]], [[messenderes]], [[messendere]], [[messenderen]], [[messenderem]], [[messendster]], [[messendstes]], [[messendste]], [[messendsten]], [[messendstem]]
+[[messender]], [[messendes]], [[messende]], [[messenden]], [[messendem]], [[messenderer]], [[messenderes]], [[messendere]], [[messenderen]], [[messenderem]], [[messendster]], [[messendstes]], [[messendste]], [[messendsten]], [[messendstem]], [[unangemessen]]

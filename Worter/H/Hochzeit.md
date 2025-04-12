@@ -14,7 +14,7 @@ die [[Hochzeiten]]
 wedding, marriage ceremony
 
 ---
-[[Hoch]]|[[Zeit]]
+[[Hoch]]|[[Worter/Z/zeit]]
 
 ---
 N: die [[Hochzeit]], die [[Hochzeiten]]  

@@ -25,3 +25,4 @@ Morpheme:
 ---
 #Substantiv #Maskulin #Singular
 
+, [[Nachrede]], [[Verleumdung]]

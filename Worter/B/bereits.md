@@ -3,6 +3,8 @@
 ---
 Du musst nicht noch einkaufen gehen, ich habe es [[bereits]] [[erledigt]].
 
+- Erklären Sie, in welchen [[Berufsfeldern]] KI [[bereits]] [[eingesetzt]] wird.
+
 Die Familie plant ihren Urlaub [[bereits]] im Winter.
 
 Es gibt [[bereits]] [[zahlreiche]] [[Ausstellungen]] zu den Themen Berliner Mauer oder Staatssicherheit
@@ -31,4 +33,4 @@ Typische Verwendung:
 - "Er ist bereits angekommen."
 - "Das Buch ist bereits ausverkauft."
 - "Ich habe das bereits erledigt."
-''', [[Grenz]], [[Anki]]
+''', [[Grenz]], [[Anki]], [[Berufsfeld]]

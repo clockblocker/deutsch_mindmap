@@ -46,4 +46,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[Erfahrung]], [[Erfahrung]], [[Erfahrungen]], [[Erfahrungen]], [[erfahren]], [[erfahrenen]], [[Erlebnis]], [[1 Präpositionen Übungen]], [[Fachwissen]]
+[[Erfahrung]], [[Erfahrung]], [[Erfahrungen]], [[Erfahrungen]], [[erfahren]], [[erfahrenen]], [[Erlebnis]], [[1 Präpositionen Übungen]], [[Fachwissen]], [[Laufbahn]]

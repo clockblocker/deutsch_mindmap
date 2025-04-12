@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Nutzung]], [[Nutzungen]]
 ---
 #Substantiv #Neuter #Ableitung
 
-, [[nutzlos]], [[Nutzungsdaten]]
+, [[nutzlos]], [[Nutzungsdaten]], [[Handhabung]], [[Bedienung]]

@@ -1,1 +1,1 @@
-, [[Weiterbildung]], [[Entwicklung]], [[Fortschritt]], [[Stadtentwicklung]], [[Umwälzzirkulation]]
+, [[Weiterbildung]], [[Entwicklung]], [[Fortschritt]], [[Stadtentwicklung]], [[Umwälzzirkulation]], [[Persönlichkeitsentwicklung]]

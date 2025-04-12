@@ -1,1 +1,1 @@
-, [[rechtlich]], [[gesetzlich]], [[Schwarzarbeiter]], [[gültig]], [[verfassungswidrig]]
+, [[rechtlich]], [[gesetzlich]], [[Schwarzarbeiter]], [[gültig]], [[verfassungswidrig]], [[rechtsfrei]], [[legal]], [[strafbar]]

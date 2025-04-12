@@ -1,1 +1,1 @@
-, [[Wert]], [[Erfolgsfaktor]], [[Eigenschaft]]
+, [[Wert]], [[Erfolgsfaktor]], [[Eigenschaft]], [[Qualitätszeit]]

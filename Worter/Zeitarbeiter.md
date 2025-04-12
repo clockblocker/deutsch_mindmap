@@ -17,7 +17,7 @@ die [[Zeitarbeiter]]
 temporary worker, agency worker
 
 ---
-[[Zeit]]|[[Arbeiter]]
+[[Worter/Z/zeit]]|[[Arbeiter]]
 
 ---
 N: der [[Zeitarbeiter]], die [[Zeitarbeiter]]  

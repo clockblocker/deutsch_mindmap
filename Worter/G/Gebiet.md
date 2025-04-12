@@ -9,7 +9,7 @@ mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
 
 [[außerhalb]] dieses [[Gebiets]], außerhalb unserer [[Öffnungszeiten]]  
 
-"Nach meiner langen [[Erfahrung]] [[Worter/A/auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 
+"Nach meiner langen [[Erfahrung]] [[auf]] diesem [[Gebiet]] kann ich Ihnen einige Tipps geben. 
 
 59. Vor wie vielen Jahren gab es erstmals eine [[jüdische]] [[Gemeinde]] auf dem [[Gebiet]] des [[heutigen]] Deutschlands? (100%)
 	- [x] vor etwa 1700 Jahren

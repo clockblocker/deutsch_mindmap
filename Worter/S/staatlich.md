@@ -1,1 +1,1 @@
-, [[öffentlich]], [[Bundesregierung]], [[Staatsgast]], [[politisch]], [[Staatsoberhaupt]], [[gesellschaftlich]]
+, [[öffentlich]], [[Bundesregierung]], [[Staatsgast]], [[politisch]], [[Staatsoberhaupt]], [[gesellschaftlich]], [[behördlich]]

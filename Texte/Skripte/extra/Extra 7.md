@@ -93,7 +93,7 @@ NIC: Siehst du? Frauen lieben Azte! Sascha kann mir nicht [[widerstehe
 SAM: [[Ehrlich]]?  
 NIC: Na klar! So geht das! Schätzchen, komm zu Doktor Nic …  
 MARIA: … bis bald, Mami, danke, Mami, Tschüss!  
-Na, Herr Doktor, wo [[waren]] wir?  
+Na, Herr Doktor, wo [[Worter/W/Waren]] wir?  
 Hah … Ich glaube, ich habe Fieber…  
 NIC: Madame - ich glaube, ich kann helfen. Wo tut es weh?  
 ANNA: Hallo.  

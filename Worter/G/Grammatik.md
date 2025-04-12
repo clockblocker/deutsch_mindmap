@@ -1,1 +1,1 @@
-, [[Artikelverwendung]], [[Satzklammer]]
+, [[Artikelverwendung]], [[Satzklammer]], [[Interpunktion]], [[Satzkonstruktion]]

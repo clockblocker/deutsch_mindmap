@@ -1,7 +1,10 @@
 👮 [[rechtsfrei]], [ˈʁɛçt͡sˌfʁaɪ̯](https://youglish.com/pronounce/rechtsfrei/german)
 
 ---
-* *Erklären Sie, welche Folgen das Internet als* [[völlig]] [[rechtsfreier]] *Raum haben könnte.*
+* *Erklären Sie, welche Folgen das Internet als* [[völlig]] [[rechtsfreier]] *Raum haben [[rechtsfrei]]könnte.*
+
+- _Als regelmäßiger Internetnutzer_ [[vorkommen|kommt]] _es mir_ [[gelegentlich]] _so vor, als würden manche Personen das Internet als einen_ [[rechtsfreien]] _Raum ansehen._ ^1
+
 
 ---
 = [[gesetzlos]], [[vogelfrei]]

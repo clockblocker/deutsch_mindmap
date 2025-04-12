@@ -1,3 +1,3 @@
 , [[kaufen]], [[befürchten]]
 , [[bekommen]]
-, [[verschaffen]], [[fürchten]]
+, [[verschaffen]], [[fürchten]], [[erwerben]]

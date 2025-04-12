@@ -6,6 +6,9 @@ Midorima to Taiga: Aber unterschätz mich nicht
 *[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderungen]] [[unterschätzt]] werden ^32
 
 
+[[Letztendlich]] _sind wir selbst dafür verantwortlich, dass es uns und unserer Familie gut geht._ [[Qualitätszeit]] _mit Freunden und Familie zu_ [[verbringen]] _wird oft_ [[unterschätzt]] _, da es nicht „rentabel“ ist. ^10
+
+
 ---
 = [[nicht würdigen]], [[gering schätzen]], [[unterschätzen]]
 ≈ [[herabsetzen]], [[geringschätzig sein]], [[nicht ernst nehmen]]

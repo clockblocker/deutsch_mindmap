@@ -1,1 +1,1 @@
-, [[ausfallen]]
+, [[ausfallen]], [[Bedienung]], [[Dauerverfügbarkeit]]

@@ -9,7 +9,7 @@ die [[Arbeitswelten]]
 ---
 = [[Berufswelt]], [[Arbeitsumfeld]]
 ≈ [[Arbeitsplatz]], [[Erwerbssphäre]], [[Berufsleben]]
-≠ [[Privatleben]], [[Freizeit]], [[Ruhestand]]
+≠ [[Privatleben]], [[Worter/F/Freizeit]], [[Ruhestand]]
 
 ---
 world of work, working environment

@@ -1,32 +1,30 @@
-**der** [[Umfang]]
-
-Beispiele:
-
-- Der [[Umfang]] des Tisches beträgt zwei Meter.
-- Der [[Umfang]] der Taille kann mit einem Maßband gemessen werden.
-- Der [[Umfang]] des Projekts ist sehr groß.
+📏 🔵 der [[Umfang]], [ˈʊmfant](https://youglish.com/pronounce/Umfang/german)
 
 ---
-Synonyme:
-- [[maß]]
-- [[Größe]]
-- [[Kreisumfang]]
+1. [[Inhalt]], [[Umfang]], [[Realisierung]] der Sprachfunktionen (z. B. etwas erklären, Argumente anführen, [[Vorschläge]] machen)
 
 ---
-**Übersetzung**:
-- circumference
-- extent
+= [[Größe]], [[Ausmaß]], [[Dimension]]
+≈ [[Volumen]], [[Weite]], [[Breite]]
+≠ [[Begrenzung]], [[Beschränkung]]
 
 ---
+extent, scope, volume  
+объем, масштаб
 
-#Substantiv
+---
+[[umfassen]], [[umfangreich]], [[Umfangsreich]]
+
+---
+[[um]]|[[fang]]
+[[Umfang]]
+
+
+---
+N: der [[Umfang]], die [[Umfänge]]
+A: den [[Umfang]], die [[Umfänge]]
+G: des [[Umfangs]], der [[Umfänge]]
+D: dem [[Umfang]], den [[Umfängen]]
+
+
 #Maskulin 
-
----
-
-Morphems of only noun:
-- [[Umfang]]
-
----
-
-Feel free to ask if you need more details!, [[umfangreich]]

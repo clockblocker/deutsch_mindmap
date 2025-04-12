@@ -1,5 +1,4 @@
-🔵 der [[Vorteil]]
-die [[Vorteile]]
+👍 🔵 der [[Vorteil]], [ˈfɔʁˌtaɪ̯l](https://youglish.com/pronounce/Vorteil/german)
 
 ---
 * Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance.
@@ -17,21 +16,25 @@ Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können. „Stop
 
 
 ---
-Synonyme:
-- [[Nutzen]], [[Gewinn]], [[Profit]], [[Pluspunkt]], [[Stärke]]
+
+= [[Vorzug]], [[Nutzen]], [[Plus]]
+≈ [[Nutzen]], [[Gewinn]], [[Vorteilhaftigkeit]]
+≠ [[Nachteil]], [[Nachteiligkeit]], [[Minus]]
 
 ---
-advantage, benefit
+advantage, benefit  
+преимущество, выгода
 
 ---
-[[Vor]][[Worter/T/Teil]]
+[[vorteilhaft]], [[bevorzugen]]
 
 ---
-Case: Singular, Plural  
-Nominative: der [[Vorteil]], die [[Vorteile]]  
-Accusative: den [[Vorteil]], die [[Vorteile]]  
-Genitive: des [[Vorteils]], der [[Vorteile]]  
-Dative: dem [[Vorteil]], den [[Vorteilen]] 
+[[Vor]]|[[teil]]
+[[Vorteil]]
 
-[[vorteilhaft]], [[vorteilen]]
-, [[Gelegenheit]], [[Erfolgsfaktor]], [[Mehrwert]], [[Nachteil]]
+
+---
+N: der [[Vorteil]], die [[Vorteile]]
+A: den [[Vorteil]], die [[Vorteile]]
+G: des [[Vorteils]], der [[Vorteile]]
+D: dem [[Vorteil]], den [[Vorteilen]]

@@ -4,6 +4,7 @@ die [[Brennpunkte]]
 ---
 *[[4 Autofrei#^1|^]]* [[Heutzutage]] steht das Thema Autofreiheit der Innenstädte am [[Brennpunkt]] der Stadtpolitikdiskussionen [[überall]]. ^1
 
+
 ---
 = [[Schwerpunkt]], [[Zentrum]], [[Hotspot]]
 ≈ [[Mittelpunkt]], [[Fokus]], [[Kernbereich]], [[Problemzone]]

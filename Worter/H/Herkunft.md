@@ -4,6 +4,10 @@ die [[Herkünfte]]
 ---
 3.	[[2 Unter Druck nach oben#^24|(q)]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine entscheidende Rolle. ^24
 
+
+- Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann.  
+
+
 ---
 = [[Ursprung]], [[Abstammung]], [[Geburt]]
 ≈ [[Entstehung]], [[Quelle]], [[Heimat]], [[Provenienz]],  [[einheimisch]]
@@ -26,3 +30,5 @@ N: die [[Herkunft]], die [[Herkünfte]]
 A: die [[Herkunft]], die [[Herkünfte]]
 G: der [[Herkunft]], der [[Herkünfte]]
 D: der [[Herkunft]], den [[Herkünften]]
+
+#Feminin 

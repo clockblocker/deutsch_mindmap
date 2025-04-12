@@ -1,1 +1,1 @@
-, [[vorbei]], [[hinweg]]
+, [[vorbei]], [[hinweg]], [[vorübergehend]]

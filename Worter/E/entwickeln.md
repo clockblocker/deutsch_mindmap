@@ -43,4 +43,4 @@ Partizip I: [[entwickelnd]], Partizip II: [[entwickelt]]
 
 , [[Aufwachsen]], [[erfinden]]
 , [[erstellen]], [[Entwicklung]], [[ableiten]], [[entwerfen]], [[Entfaltung]], [[Anki]], [[bleiben]]
-, [[fehlentwicklung]]
+, [[fehlentwicklung]], [[Persönlichkeitsentwicklung]]

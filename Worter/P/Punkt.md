@@ -1,3 +1,3 @@
 , [[Gebiet]]
 , [[Achse]]
-, [[pünktlich]], [[Fläche]], [[Brennpunkt]]
+, [[pünktlich]], [[Fläche]], [[Brennpunkt]], [[Interpunktion]], [[Satzzeichen]], [[Mittelpunkt]], [[Inhaltspunkt]], [[Punktabzug]]

@@ -1,2 +1,2 @@
 
-, [[als]], [[Konjunktoren]]
+, [[als]], [[Konjunktoren]], [[sowohl]]

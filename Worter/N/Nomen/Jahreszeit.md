@@ -1,4 +1,4 @@
-Die [[Jahr]]es[[Zeit]]
+Die [[Jahr]]es[[Worter/N/Nomen/Zeit]]
 ![[Pasted image 20240618145555.png]]
 Singular: die [[Jahreszeit]]
 Plural: die [[Jahreszeiten]]

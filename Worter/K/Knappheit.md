@@ -1,1 +1,1 @@
-, [[knapp]], [[Mangel]]
+, [[knapp]], [[Mangel]], [[Seltenheit]]

@@ -1,1 +1,1 @@
-, [[entscheidend]]
+, [[entscheidend]], [[richtungsgebend]]

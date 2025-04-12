@@ -28,4 +28,4 @@ PI: [[prägend]], PII: [[geprägt]], Zu+inf: [[zu prägen]]
 [[prägen]] - [[prä]] = [[gen]] / to shape, to mold, to influence, to coin
 
 ---
-[[Prägung]], [[prägend]], [[Gepräge]], [[Münzprägung]], [[charakterprägen]], [[beeindrucken]], [[Münze]]
+[[Prägung]], [[prägend]], [[Gepräge]], [[Münzprägung]], [[charakterprägen]], [[beeindrucken]], [[Münze]], [[erziehen]]

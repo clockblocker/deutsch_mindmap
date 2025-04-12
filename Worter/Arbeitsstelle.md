@@ -7,7 +7,7 @@ Arbeitsstelle
 ---
 = [[Arbeitsplatz]], [[Stelle]], [[Job]]
 ≈ [[Büro]], [[Unternehmen]], [[Firma]], [[Beschäftigung]]
-≠ [[Freizeit]], [[Ruhestand]], [[Arbeitslosigkeit]]
+≠ [[Worter/F/Freizeit]], [[Ruhestand]], [[Arbeitslosigkeit]]
 
 ---
 workplace, job  

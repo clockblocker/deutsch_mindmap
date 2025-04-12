@@ -27,4 +27,4 @@ G: der [[Wirtschaftsform]], der [[Wirtschaftsformen]]
 D: der [[Wirtschaftsform]], den [[Wirtschaftsformen]]  
 
 ---
-[[wirtschaften]], [[Wirtschaft]], [[wirtschaftlich]], [[Wirtschaftlichkeit]]
+[[wirtschaften]], [[Worter/W/Wirtschaft]], [[wirtschaftlich]], [[Wirtschaftlichkeit]]

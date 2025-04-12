@@ -41,4 +41,4 @@ Weitere Bedeutungen:
 Verwendungsbeispiele:
 - "Eine Stufe hinaufsteigen"
 - "Die erste Stufe der Karriereleiter"
-- "Eine höhere Stufe der Entwicklung", [[dreistufig]], [[unter]], [[s1 e1]]
+- "Eine höhere Stufe der Entwicklung", [[dreistufig]], [[unter]], [[s1 e1]], [[Klassenstufe]]

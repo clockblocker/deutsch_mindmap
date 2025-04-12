@@ -1,10 +1,10 @@
 🚗 [[fahren]] + Akk/Dat, [ˈfaːrən]
 [[fuhr]]
-haben [[gefahren]]
+haben [[Gefahren]]
 
 ---
 Sag’ ihr, ich habe einen [[Igel]]
-Igel gefressen … oder dass ich zum Mond [[gefahren]] bin …  
+Igel gefressen … oder dass ich zum Mond [[Gefahren]] bin …  
 
 [[fahren dazu, dass]]
 *[[Golfstorm#^8|^]]* [[Stattdessen]] [[führe]] der [[windgetriebene]] [[Aufstieg]] von Tiefenwasser im Südlichen Ozean [[dazu, dass]] die AMOC weiter zirkuliert. ^8
@@ -39,6 +39,6 @@ Morpheme: [[fahr]][[en]]
 | Ihr | [[fahrt]] | [[fuhrt]] | [[fahrt]] | [[fahret]] | [[führet]] |
 | Sie | [[fahren]] | [[fuhren]] | [[fahren Sie]] | [[fahren]] | [[führen]] |
 
-Partizip I: [[fahrend]], Partizip II: [[gefahren]]
+Partizip I: [[fahrend]], Partizip II: [[Gefahren]]
 
  [[paddeln]], [[losfahren]], [[überfahren]], [[Hochfahren]], [[erfahren]], [[s1 e1]], [[aus der Haut fahren]], [[wagen]], [[Lastenrad]]

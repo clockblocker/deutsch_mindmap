@@ -30,4 +30,4 @@ Morpheme: [[arrangier]][[en]]
 
 Partizip I: [[arrangierend]], Partizip II: [[arrangiert]]
 
-, [[zusammenstellen]], [[vereinbaren]], [[vorbereiten]], [[einpacken]]
+, [[zusammenstellen]], [[vereinbaren]], [[vorbereiten]], [[einpacken]], [[inszenieren]]

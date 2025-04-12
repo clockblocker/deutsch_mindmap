@@ -1,2 +1,2 @@
 , [[Frechheit]], [[bescheiden]], [[Demut]]
-, [[Eigenlob]]
+, [[Eigenlob]], [[Selbstdarstellung]]

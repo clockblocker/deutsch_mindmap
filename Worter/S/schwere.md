@@ -1,1 +1,1 @@
-, [[schwer]], [[Last]]
+, [[schwer]], [[Last]], [[erschweren]]

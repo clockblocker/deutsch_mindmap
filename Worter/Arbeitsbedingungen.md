@@ -6,7 +6,7 @@
 ---
 = [[Arbeitsverhältnisse]], [[Arbeitsumfeld]], [[Arbeitswelt]]
 ≈ [[Arbeitsklima]], [[Arbeitsbedingungen]], [[Arbeitsmarkt]], [[Beschäftigung]]
-≠ [[Arbeitslosigkeit]], [[Faulenzen]], [[Freizeit]]
+≠ [[Arbeitslosigkeit]], [[Faulenzen]], [[Worter/F/Freizeit]]
 
 ---
 working conditions, conditions of employment

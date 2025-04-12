@@ -3,6 +3,9 @@ die [[Reihenfolgen]]
 
 ---
 - in der speziellen [[Reihenfolge]]
+
+*Die [[Reihenfolge]] der [[Inhaltspunkt]]e wurde in dieser [[Musterlösung]] [[verändert]]. Wichtig ist nicht, dass man die Punkte aus der [[Aufgabenstellung]] nur [[thematisiert]], sondern sie auch logisch miteinander verbindet, sodass ein kohärenter Text entsteht. Es gibt keinen [[Punktabzug]], wenn Sie dabei die [[Reihenfolge]] verändern.
+
 -
 
 ---
@@ -20,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Reihenfolge]], [[Reihenfolgen]]
 
 ---
-#Substantiv #Feminin, [[Zeile]]
+#Substantiv #Feminin, [[Zeile]], [[thematisieren]]

@@ -6,7 +6,7 @@ die [[Ordnungen]]
 
 ---
 Synonyme:
-- [[System]], [[Struktur]], [[Regel]], [[Organisation]], [[Arrangement]]
+- [[System]], [[Struktur]], [[Worter/R/Regel]], [[Organisation]], [[Arrangement]]
 
 ---
 order, arrangement, system, discipline

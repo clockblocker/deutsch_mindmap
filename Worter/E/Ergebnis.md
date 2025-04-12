@@ -43,4 +43,4 @@ tatzechlish
 [[tatsächlich]]
 
 ###### Erklärung:
-1) t==a==ts==ä==chlich: Korrektur der Schreibweise, [[Rechercheergebnis]]
+1) t==a==ts==ä==chlich: Korrektur der Schreibweise, [[Rechercheergebnis]], [[Schlusssatz]], [[Musterlösung]], [[Bildungserfolg]]

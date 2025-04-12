@@ -13,7 +13,7 @@ choice of studies, choice of major
 выбор специальности
 
 ---
-[[studieren]], [[Wahl]], [[Studium]]
+[[studieren]], [[Wahl]], [[Worter/S/Studium]]
 
 ---
 [[Studie]]|`n`|[[wahl]]

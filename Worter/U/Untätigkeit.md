@@ -1,3 +1,3 @@
-, [[Tätigkeit]], [[Handlung]], [[verhalten]], [[Maßnahme]], [[Bemühung]], [[Training]], [[Verwendung]], [[Sport]], [[Bewegung]]
+, [[Tätigkeit]], [[Handlung]], [[verhalten]], [[Maßnahme]], [[Bemühung]], [[Training]], [[Verwendung]], [[Worter/S/Sport]], [[Bewegung]]
 , [[Arbeitsauftrag]]
-, [[Beschäftigung]], [[bestreben]]
+, [[Beschäftigung]], [[bestreben]], [[Erwerbstätigkeit]], [[Tat]]

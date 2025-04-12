@@ -1,2 +1,2 @@
 , [[stürmen]], [[besetzen]], [[w-l]]
-, [[umkämpfen]]
+, [[umkämpfen]], [[einnehmen]]

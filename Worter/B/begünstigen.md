@@ -1,2 +1,2 @@
 , [[unterstützen]], [[fördern]]
-, [[bevorzugen]]
+, [[bevorzugen]], [[beeinträchtigen]], [[hemmen]], [[erschweren]]

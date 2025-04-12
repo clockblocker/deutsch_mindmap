@@ -1,1 +1,1 @@
-, [[Erzie­hung]], [[Einhaltung]], [[Verdienstorden]], [[Menschenwürde]]
+, [[Erzie­hung]], [[Einhaltung]], [[Verdienstorden]], [[Menschenwürde]], [[Wertschätzung]], [[Respekt]]

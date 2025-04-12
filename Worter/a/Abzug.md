@@ -1,3 +1,3 @@
 , [[Lohnsteuer]], [[Rückzug]]
 , [[abzüglich]]
-, [[abziehen]], [[Beitrag]]
+, [[abziehen]], [[Beitrag]], [[Punktabzug]]

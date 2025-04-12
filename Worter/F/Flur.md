@@ -28,3 +28,4 @@ D: dem [[Flur]], den [[Fluren]]
 [[flurisch]], [[befluren]], [[durchfluren]]
 
 , [[Wiesen]], [[Feld]]
+, [[gang]]

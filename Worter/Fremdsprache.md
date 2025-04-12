@@ -21,4 +21,4 @@ G: der [[Fremdsprache]], der [[Fremdsprachen]]
 D: der [[Fremdsprache]], den [[Fremdsprachen]]  
 
 ---
-[[Fremder]], [[fremdartig]], [[Fremde]], [[fremdeln]]
+[[Fremder]], [[fremdartig]], [[Fremde]], [[fremdeln]], [[Zielsprache]], [[Landessprache]]

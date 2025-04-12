@@ -32,4 +32,4 @@ PI: [[befindend]], PII: [[befunden]], Zu+inf: [[zu befinden]]
 [[befinden]] - [[be]] = [[finden]] / to be located, to find oneself
 
 ---
-[[Befinden]], [[Zustand]], [[Verfassung]], [[Lage]], [[Zustand]]
+[[Befinden]], [[Zustand]], [[Verfassung]], [[Lage]], [[Zustand]], [[aufhalten]]

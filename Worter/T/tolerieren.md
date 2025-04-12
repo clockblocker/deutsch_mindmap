@@ -1,1 +1,1 @@
-, [[hassen]], [[ertragen]], [[vertragen]], [[lassen]]
+, [[hassen]], [[ertragen]], [[vertragen]], [[lassen]], [[tolerant]]

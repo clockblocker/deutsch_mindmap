@@ -1,4 +1,4 @@
-🔴 die [[Sprache]], [ˈʃpʀaːχə]
+🔴 die [[Worter/S/Sprache]], [ˈʃpʀaːχə]
 die [[Sprachen]]
 
 
@@ -14,11 +14,11 @@ Synonyme:
 
 ---
 Morpheme:
-[[Sprache]]
+[[Worter/S/Sprache]]
 
 ---
-Einzigartige mögliche Formen: [[Sprache]], [[Sprachen]], [[Sprache]], [[Sprache]], [[Sprache]], [[Sprache]], [[Sprache]], [[Sprachen]]
+Einzigartige mögliche Formen: [[Worter/S/Sprache]], [[Sprachen]], [[Worter/S/Sprache]], [[Worter/S/Sprache]], [[Worter/S/Sprache]], [[Worter/S/Sprache]], [[Worter/S/Sprache]], [[Sprachen]]
 
 ---
 #Substantiv #Feminin, [[Sprachunterricht]], [[schriftsprachlich]]
-, [[Sprachschatz]]
+, [[Sprachschatz]], [[Behördensprache]], [[Dolmetscher]], [[Muttersprachler]], [[Amtssprache]], [[Zielsprache]], [[Landessprache]]

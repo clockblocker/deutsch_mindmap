@@ -15,7 +15,7 @@ die [[Elternzeiten]]
 parental leave
 
 ---
-[[Eltern]][[Zeit]]
+[[Eltern]][[Worter/Z/zeit]]
 
 ---
 N: die [[Elternzeit]], die [[Elternzeiten]]  

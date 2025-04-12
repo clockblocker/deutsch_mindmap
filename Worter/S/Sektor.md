@@ -27,4 +27,4 @@ D: dem [[Sektor]], den [[Sektoren]]
 [[sektoral]], [[sektorspezifisch]], [[sektorenübergreifend]]
 
 , [[Bereich]], [[Branche]]
-, [[Hauptbereich]], [[Berufsgruppe]], [[Abteilung]]
+, [[Hauptbereich]], [[Berufsgruppe]], [[Abteilung]], [[Berufsfeld]]

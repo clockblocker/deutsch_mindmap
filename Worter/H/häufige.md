@@ -1,1 +1,1 @@
-🔁 [[häufig]] | 🔵 [[häufen]]
+🔁 [[häufig]] | 🔵 [[häufen]], [[vereinzeln]]

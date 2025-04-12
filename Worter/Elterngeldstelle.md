@@ -14,7 +14,7 @@ die [[Elterngeldstellen]]
 parental benefit office, parents' allowance agency
 
 ---
-[[Eltern]][[geld]][[Stelle]]
+[[Eltern]][[Worter/G/Geld]][[Stelle]]
 
 ---
 N: die [[Elterngeldstelle]], die [[Elterngeldstellen]]  

@@ -24,7 +24,7 @@ nicht [[unwirtschaftlich]]
 economical, economic, financially viable
 
 ---
-[[wirtschaft]]|[[lich]]
+[[Worter/W/Wirtschaft]]|[[lich]]
 
 ---
 N: [[wirtschaftlich]], [[wirtschaftlicher]], [[wirtschaftlichster]]  
@@ -36,4 +36,4 @@ N: [[wirtschaftliches]], [[wirtschaftlicheres]], [[wirtschaftlichstes]]
 P: [[wirtschaftlichen]], [[wirtschaftlicheren]], [[wirtschaftlichsten]]  
 
 ---
-[[Wirtschaft]], [[wirtschaften]], [[Wirtschaftlichkeit]], [[Wirtschaftswissenschaft]], [[Wirtschaftsraum]], [[kostengünstig]], [[Wirtschaftsform]], [[Wirtschaftsgemeinschaft]], [[unternehmerisch]], [[geldlich]]
+[[Worter/W/Wirtschaft]], [[wirtschaften]], [[Wirtschaftlichkeit]], [[Wirtschaftswissenschaft]], [[Wirtschaftsraum]], [[kostengünstig]], [[Wirtschaftsform]], [[Wirtschaftsgemeinschaft]], [[unternehmerisch]], [[geldlich]]

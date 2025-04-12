@@ -6,7 +6,7 @@ Unter [[Druck]] nach oben
 
 Es gibt Menschen, die immer bekommen, was sie wollen, ganz ohne [[Druck]] oder [[Gewalt]]. Sie haben ein ganz [[besonderes]] Talent, andere zu manipulieren, ohne dass diese es wirklich [[merken]]. Aber wie machen sie das?  
 
-Die [[Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
+Die [[Worter/W/Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
 
 *Traurig wird in dieser Stunde*  
 *Selbst der Liebe [[süßstes]] [[Pfand]],*  

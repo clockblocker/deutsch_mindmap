@@ -1,1 +1,1 @@
-, [[Geld]], [[Währung]]
+, [[Worter/G/Geld]], [[Währung]]

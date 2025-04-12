@@ -1,4 +1,4 @@
-🏀 der [[Sport]], [ʃpɔʁt]
+🏀 der [[Worter/S/Sport]], [ʃpɔʁt]
 die [[Sportarten]]
 
 ---
@@ -14,13 +14,13 @@ die [[Sportarten]]
 sport, physical activity
 
 ---
-[[Sport]]
+[[Worter/S/Sport]]
 
 ---
-N: der [[Sport]], die [[Sportarten]]  
-A: den [[Sport]], die [[Sportarten]]  
+N: der [[Worter/S/Sport]], die [[Sportarten]]  
+A: den [[Worter/S/Sport]], die [[Sportarten]]  
 G: des [[Sports]], der [[Sportarten]]  
-D: dem [[Sport]], den [[Sportarten]]  
+D: dem [[Worter/S/Sport]], den [[Sportarten]]  
 
 ---
 [[sportlich]], [[sporttreiben]], [[Sportsgeist]], [[Sportler]], [[sporteln]], [[Bewegungsmangel]]

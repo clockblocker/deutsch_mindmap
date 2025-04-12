@@ -1,1 +1,1 @@
-, [[Personalausweis]], [[Belegschaft]]
+, [[Personalausweis]], [[Belegschaft]], [[Bedienung]]

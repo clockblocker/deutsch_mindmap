@@ -1,5 +1,5 @@
-Singular: der [[Körper]]
-Plural: die [[Körper]]
+Singular: der [[Worter/N/Nomen/Körper]]
+Plural: die [[Worter/N/Nomen/Körper]]
 
 
 Beispiele:

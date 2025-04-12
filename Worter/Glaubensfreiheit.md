@@ -24,4 +24,4 @@ G: der [[Glaubensfreiheit]], der [[Glaubensfreiheiten]]
 D: der [[Glaubensfreiheit]], den [[Glaubensfreiheiten]]  
 
 ---
-[[glauben]], [[frei]], [[Religion]], [[Verfassungsrecht]], [[Religionsausübung]]
+[[glauben]], [[frei]], [[Worter/Religion]], [[Verfassungsrecht]], [[Religionsausübung]]

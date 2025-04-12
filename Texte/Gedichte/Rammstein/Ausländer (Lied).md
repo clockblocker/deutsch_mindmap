@@ -38,7 +38,7 @@ That one languages learn must
 [[ander|Andere]] [[Land|Länder]], [[ander|andere]] [[Zunge|Zungen]]
 So hab ich mich [[schon]] [[früh]] [[zwingen|gezwungen]]
 Dem [[Missverständnis]] zum [[Verdruß|Verdruss]]
-Dass man [[Sprache|Sprachen]] [[lernen]] [[müssen|muss]]
+Dass man [[Worter/S/Sprache|Sprachen]] [[lernen]] [[müssen|muss]]
 
 Und wenn die Sonne untergeht  
 Und man vor Ausländerinnen steht  

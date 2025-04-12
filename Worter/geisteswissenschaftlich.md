@@ -13,10 +13,10 @@ humanities-related, pertaining to the humanities
 гуманитарный
 
 ---
-[[Geisteswissenschaft]], [[Geist]], [[Wissenschaft]]
+[[Geisteswissenschaft]], [[Geist]], [[Worter/W/Wissenschaft]]
 
 ---
-[[Geist]]|`es`|[[wissenschaft]]|[[lich]]|[[en]]
+[[Geist]]|`es`|[[Worter/W/Wissenschaft]]|[[lich]]|[[en]]
 [[Geisteswissenschaft]] + [[lich]]
 
 

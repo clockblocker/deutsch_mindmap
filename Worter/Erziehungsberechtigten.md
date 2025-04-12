@@ -1,1 +1,1 @@
-🧑‍👧 der [[Erziehungsberechtigte]], [ɛɐ̯ˈtsiːʊ̯ŋsb̥ɛˈʁɛçtɪɡtə], [[Erziehung]]
+🧑‍👧 der [[Erziehungsberechtigte]], [ɛɐ̯ˈtsiːʊ̯ŋsb̥ɛˈʁɛçtɪɡtə], [[Erziehung]], [[erziehen]]

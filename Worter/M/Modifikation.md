@@ -1,1 +1,1 @@
-[[Veränderung]]
+[[Veränderung]], [[Bearbeitung]]

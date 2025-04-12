@@ -1,1 +1,1 @@
-, [[verfeinden]], [[vereinen]]
+, [[verfeinden]], [[vereinen]], [[vermitteln]]

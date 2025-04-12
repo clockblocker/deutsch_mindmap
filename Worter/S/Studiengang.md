@@ -10,7 +10,7 @@ Einerseits vertreten viele den Standpunkt, man sollte vor allem auf die Arbeitsm
 
 ---
 = [[Studienfach]], [[Studienrichtung]]
-≈ [[Studium]], [[Ausbildung]], [[Lehrgang]], [[Fachrichtung]]
+≈ [[Worter/S/Studium]], [[Ausbildung]], [[Lehrgang]], [[Fachrichtung]]
 ≠ [[keiner]], [[Arbeit]], [[Praktikum]]
 
 ---
@@ -18,7 +18,7 @@ course of study, degree program
 учебный курс, программа обучения
 
 ---
-[[Studium]], [[Gang]], [[studieren]], [[Studiengänge]], [[Studienfach]]
+[[Worter/S/Studium]], [[Gang]], [[studieren]], [[Studiengänge]], [[Studienfach]]
 
 ---
 [[Studien]]|[[gang]]

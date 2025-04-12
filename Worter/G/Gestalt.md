@@ -6,7 +6,7 @@ Die Kamera schwenkt nach unten, und die Gestalten von Aang und Katara erscheinen
 
 ---
 Synonyme:
-- [[Form]], [[Figur]], [[Erscheinung]], [[Körper]], [[Silhouette]], [[Profil]]
+- [[Form]], [[Figur]], [[Erscheinung]], [[Worter/K/Körper]], [[Silhouette]], [[Profil]]
 
 ---
 Übersetzung: shape, form, figure, appearance, embodiment

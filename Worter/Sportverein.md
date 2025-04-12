@@ -18,7 +18,7 @@ die [[Sportvereine]]
 sports club, sports association
 
 ---
-[[Sport]][[verein]]
+[[Worter/S/Sport]][[verein]]
 
 ---
 N: der [[Sportverein]], die [[Sportvereine]]  

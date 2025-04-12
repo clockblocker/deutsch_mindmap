@@ -3,7 +3,7 @@
 sein [[zugefroren]]
 
 ---
-In der [[Regel]] ist es gefährlich, wenn das Eis bricht, zum Beispiel auf einem [[zugefrorenen]] See. 
+In der [[Worter/R/Regel]] ist es gefährlich, wenn das Eis bricht, zum Beispiel auf einem [[zugefrorenen]] See. 
 
 ---
 Synonyme: [[erstarren]], [[einfrieren]], [[gefrieren]], [[festfrieren]]

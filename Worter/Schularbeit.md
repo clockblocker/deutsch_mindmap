@@ -7,7 +7,7 @@ die [[Schularbeiten]]
 ---
 = [[Klassenarbeit]], [[Worter/T/Test]], [[Prüfung]]
 ≈ [[Examen]], [[Leistungskontrolle]], [[Bewertung]], [[Aufgabe]]
-≠ [[Freizeit]], [[Spiel]], [[Unterricht]], [[Pause]]
+≠ [[Worter/F/Freizeit]], [[Spiel]], [[Unterricht]], [[Pause]]
 
 ---
 schoolwork, test

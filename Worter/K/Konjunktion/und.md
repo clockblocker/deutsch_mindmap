@@ -1,2 +1,2 @@
 and
-, [[weit und breit]], [[beziehungsweise]], [[Konjunktoren]], [[Zugriff]]
+, [[weit und breit]], [[beziehungsweise]], [[Konjunktoren]], [[Zugriff]], [[sowohl]]

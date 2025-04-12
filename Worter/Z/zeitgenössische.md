@@ -19,7 +19,7 @@ contemporary, modern, current
 
 ---
 Morpheme:
-[[zeit]][[genössisch]][[e]]
+[[Worter/Z/zeit]][[genössisch]][[e]]
 
 ---
 

@@ -16,7 +16,7 @@ die [[Adventszeiten]]
 Advent season, period before Christmas
 
 ---
-[[Advent]]|[[Zeit]]
+[[Advent]]|[[Worter/Z/zeit]]
 
 ---
 N: die [[Adventszeit]], die [[Adventszeiten]]  

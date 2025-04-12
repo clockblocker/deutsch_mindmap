@@ -16,7 +16,7 @@ die [[Religionsunterrichte]]
 ---
 = [[Glaubenslehre]], [[Religionslehre]]
 ≈ [[Religionskunde]], [[Glaubensunterricht]], [[Konfessionsunterricht]]
-≠ [[Atheismus]], [[Säkularismus]], [[Wissenschaft]]
+≠ [[Atheismus]], [[Säkularismus]], [[Worter/W/Wissenschaft]]
 
 ---
 religious education, religious instruction
@@ -32,4 +32,4 @@ G: des [[Religionsunterrichts]], der [[Religionsunterrichte]]
 D: dem [[Religionsunterricht]], den [[Religionsunterrichten]]  
 
 ---
-[[Religion]], [[unterrichten]], [[Glaubenslehre]], [[Konfession]], [[konfessionell]]
+[[Worter/Religion]], [[unterrichten]], [[Glaubenslehre]], [[Konfession]], [[konfessionell]]

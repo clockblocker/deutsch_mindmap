@@ -1,1 +1,1 @@
-, [[Abteilung]]
+, [[Abteilung]], [[Abschnitt]]

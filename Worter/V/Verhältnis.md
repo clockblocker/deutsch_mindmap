@@ -4,6 +4,9 @@ die [[Verhältnisse]]
 ---
 *[[Golfstorm#^15|^]]* Durch zusätzliches Süßwasser wird das [[Verhältnis]] von Temperatur und Salz im Meerwasser gestört, was [[wiederum]] die Stärke der Strömungen [[verringert]].
 
+*[[2 Work Life Balance#^2|^]]* _Das moderne Leben fordert von uns, die_ [[Erwerbstätigkeit]] _, das_ [[Familienleben]] _und die persönliche Zeit in ein_ [[ausgewogenes]] [[Verhältnis]] _zu bringen, was nicht immer leicht ist. ^2
+
+
 [[Arbeitsverhältnis]], [[Verhältniswahlrecht]]
 
 ---
@@ -28,3 +31,6 @@ N: das [[Verhältnis]], die [[Verhältnisse]]
 A: das [[Verhältnis]], die [[Verhältnisse]]
 G: des [[Verhältnisses]], der [[Verhältnisse]]
 D: dem [[Verhältnis]], den [[Verhältnissen]]
+, [[Erwerbstätigkeit]]
+
+#Neuter 

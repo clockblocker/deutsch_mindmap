@@ -1,2 +1,2 @@
 , [[vorziehen]]
-, [[bevorzugen]]
+, [[bevorzugen]], [[Aufgabengerechtigkeit]]

@@ -1,1 +1,1 @@
-, [[Sport]]
+, [[Worter/S/Sport]]

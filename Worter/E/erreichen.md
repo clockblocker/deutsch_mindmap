@@ -3,6 +3,9 @@
 ---
 _Begehen_, _entgehen_, _ergehen_, _vergehen_, _zergehen_.... Welches Licht werfen wir mit diesen Verben auf eine Szene und [[wodurch]] [[erreichen]] wir den illuminierenden Effekt?
 
+*[[2 Work Life Balance#^8|^]]* _Das kann zum Beispiel dadurch_ [[erreicht]] _werden, dass_ [[Arbeitszeiten]] _klar definiert werden und_ [[Feierabend]] _wirklich Feierabend bedeutet. ^8
+
+
 Wir versuchen im letzten Augenblick unseren [[Zug]] zu [[erreichen]].
 
 Ich [[erreiche]] alle meine Ziele.
@@ -46,4 +49,4 @@ PI: [[erreichend]], PII: [[erreicht]], Zu+inf: [[zu erreichen]]
 
 , [[schaden]], [[reichen]]
 , [[erreichbar]], [[einholen]], [[wodurch]], [[w-l]]
-, [[zusammenbekommen]], [[erfüllen]]
+, [[zusammenbekommen]], [[erfüllen]], [[Verknüpfung]], [[erwerben]]

@@ -1,1 +1,1 @@
-, [[kern]], [[Grenze]], [[Grenz]], [[Berufsinformationszentrum]], [[Viertel]], [[Innenstadt]], [[Brennpunkt]]
+, [[kern]], [[Grenze]], [[Grenz]], [[Berufsinformationszentrum]], [[Viertel]], [[Innenstadt]], [[Brennpunkt]], [[Mittelpunkt]]

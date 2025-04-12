@@ -12,7 +12,7 @@ die [[Geister]]
 ---
 = [[Seele]], [[Psyche]], [[Verstand]]
 ≈ [[Spiritus]], [[Gespenst]], [[Dämon]],  [[Bewusstsein]]
-≠ [[Körper]], [[Materie]]
+≠ [[Worter/K/Körper]], [[Materie]]
 
 ---
 spirit, ghost, mind

@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[zu]][[verlässig]][[Treu]], [[garantiert]]
+[[zu]][[verlässig]][[Treu]], [[garantiert]], [[verantwortungsvoll]], [[verantwortungsbewusst]]

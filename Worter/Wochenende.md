@@ -1,1 +1,1 @@
-🏖️ 🟢 das [[Wochenende]]
+🏖️ 🟢 das [[Wochenende]], [[Wochenendarbeit]]

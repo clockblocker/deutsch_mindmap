@@ -6,7 +6,7 @@ die [[Großtaten]]
 
 ---
 = [[Heldentat]], [[Meisterleistung]], [[außergewöhnliche Leistung]]
-≈ [[Errungenschaft]], [[Leistung]], [[Tat]], [[Erfolg]]
+≈ [[Errungenschaft]], [[Leistung]], [[Worter/T/Tat]], [[Erfolg]]
 ≠ [[Fehlleistung]], [[Versagen]], [[Misserfolg]]
 
 ---
@@ -14,10 +14,10 @@ great deed, feat
 подвиг, великое дело
 
 ---
-[[groß]], [[Tat]], [[tätig]], [[Groß]]
+[[groß]], [[Worter/T/Tat]], [[tätig]], [[Groß]]
 
 ---
-[[Groß]]|[[tat]]
+[[Groß]]|[[Worter/T/Tat]]
 [[Großtat]]
 
 
@@ -26,3 +26,4 @@ N: die [[Großtat]], die [[Großtaten]]
 A: die [[Großtat]], die [[Großtaten]]  
 G: der [[Großtat]], der [[Großtaten]]  
 D: der [[Großtat]], den [[Großtaten]]
+, [[Tat]]

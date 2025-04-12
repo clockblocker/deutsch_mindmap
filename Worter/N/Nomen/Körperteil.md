@@ -1,7 +1,7 @@
 Singular: der [[Körperteil]]
 Plural: die [[Körperteile]]
 
-[[Körper]][[Worter/N/Nomen/Teil]]
+[[Worter/N/Nomen/Körper]][[Worter/N/Nomen/Teil]]
 
 
 Beispiele:

@@ -10,6 +10,10 @@ Neben den Museumsbesuchen und dem [[Kauf]] von Bildern [[widerspiegelt|spiegelt]
 
 "Nach meiner langen [[Erfahrung]] [[in]] diesem [[Bereich]] kann ich Ihnen einige Tipps geben. 
 
+_Daher halte ich es für sehr wichtig, dass_ [[Bereiche]] _des öffentlichen Lebens im Netz einer starken Kontrolle unterliegen und unsere persönlichen Daten geschützt werden._ ^2
+
+
+
 ---
 Synonyme:
 - [[Gebiet]], [[Sektor]], [[Areal]], [[Domäne]], [[Ressort]], [[Raum]]
@@ -26,4 +30,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bereichs]], [[Bereichen]]
 
 ---
-#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]], [[Abteilung]]
+#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]], [[Abteilung]], [[Abschnitt]], [[Hinsicht]]

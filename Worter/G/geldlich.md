@@ -14,10 +14,10 @@ monetary, financial
 денежный, финансовый
 
 ---
-[[Geld]], [[geldwert]], [[geldgierig]], [[geldlos]]
+[[Worter/G/Geld]], [[geldwert]], [[geldgierig]], [[geldlos]]
 
 ---
-[[geld]]|[[lich]]
+[[Worter/G/Geld]]|[[lich]]
 [[geldlich]]
 
 

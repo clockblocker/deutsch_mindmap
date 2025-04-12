@@ -27,4 +27,4 @@ G: der [[Religionspflicht]], der [[Religionspflichten]]
 D: der [[Religionspflicht]], den [[Religionspflichten]]  
 
 ---
-[[Religion]], [[pflichtbewusst]], [[religiös]], [[Glaubenspflicht]]
+[[Worter/Religion]], [[pflichtbewusst]], [[religiös]], [[Glaubenspflicht]]

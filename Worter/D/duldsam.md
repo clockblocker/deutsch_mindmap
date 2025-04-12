@@ -1,1 +1,1 @@
-, [[verträglich]]
+, [[verträglich]], [[tolerant]]

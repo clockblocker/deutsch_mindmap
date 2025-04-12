@@ -1,1 +1,1 @@
-, [[Gleichgewicht]], [[ausgewogen]]
+, [[Gleichgewicht]], [[ausgewogen]], [[Aufgabengerechtigkeit]]

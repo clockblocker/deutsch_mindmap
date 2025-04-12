@@ -1,2 +1,2 @@
 , [[entwischen]], [[entspringen]]
-, [[verschwinden]], [[abströmen]]
+, [[verschwinden]], [[abströmen]], [[dringen]]

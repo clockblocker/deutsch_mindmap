@@ -1,6 +1,3 @@
-[[wiedersehen]], [[benutzen]], [[suchen]], [[treffen]], [[versuchen]], [[verwenden]], [[antippen]], [[anstarrten]], [[nutzen]], [[begegnen]], [[vorziehen]], [[herausfordern]], [[begehen]], [[umgehen]], [[ergehen]], [[wagen]], [[ausprobieren]], [[durchmachen]]
-, [[anstoßen]]
-
 🙅 [[vermeiden]], [fɛɐ̯ˈmaɪ̯dn̩] | [[vermied]], haben [[vermieden]]
 
 ---
@@ -10,6 +7,9 @@
 = [[ausweichen]], [[entgehen]], [[umgehen]]
 ≈ [[meiden]], [[unterlassen]], [[verhindern]], [[auslassen]]
 ≠ [[suchen]], [[anstreben]], [[erstreben]], [[herbeiführen]]
+
+[[wiedersehen]], [[benutzen]], [[suchen]], [[treffen]], [[versuchen]], [[verwenden]], [[antippen]], [[anstarrten]], [[nutzen]], [[begegnen]], [[vorziehen]], [[herausfordern]], [[begehen]], [[umgehen]], [[ergehen]], [[wagen]], [[ausprobieren]], [[durchmachen]]
+, [[anstoßen]]
 
 ---
 to avoid, to evade

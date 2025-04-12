@@ -1,1 +1,1 @@
-, [[Barmherzigen]], [[wohltätig]], [[unerbittlich]]
+, [[Barmherzigen]], [[wohltätig]], [[unerbittlich]], [[verständnisvoll]]

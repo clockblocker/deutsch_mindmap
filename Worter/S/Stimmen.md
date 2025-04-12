@@ -38,4 +38,4 @@ PI: [[stimmend]], PII: [[gestimmt]], Zu+inf: [[zustimmen]]
 [[Stimme]], [[Abstimmung]], [[stimmlich]], [[Stimmung]], [[zustimmen]], [[abstimmen]]
 
  [[Stimmabgabe]], [[Wählerstimmen]], [[bestimmen]]
-, [[Klavierstimmer]]
+, [[Klavierstimmer]], [[zutreffen]]

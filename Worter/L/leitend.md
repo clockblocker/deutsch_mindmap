@@ -1,1 +1,1 @@
-, [[leiten]], [[Leitung]]
+, [[leiten]], [[Leitung]], [[richtungsgebend]]

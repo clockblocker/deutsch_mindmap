@@ -6,7 +6,7 @@ die [[Erlernungen]]
 
 ---
 = [[Lernen]], [[Aneignung]]
-≈ [[Studium]], [[Unterricht]], [[Fortbildung]], [[Weiterbildung]]
+≈ [[Worter/S/Studium]], [[Unterricht]], [[Fortbildung]], [[Weiterbildung]]
 ≠ [[Unterlassung]], [[Ignoranz]], [[Unwissenheit]], [[Verlernen]]
 
 ---

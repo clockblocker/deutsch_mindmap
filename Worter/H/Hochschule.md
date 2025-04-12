@@ -1,1 +1,1 @@
-, [[Schule]], [[Universität]]
+, [[Schule]], [[Universität]], [[Bildungseinrichtung]]

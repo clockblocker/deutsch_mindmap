@@ -1,2 +1,2 @@
 , [[vorstellen]]
-, [[befreunden]], [[melden]], [[verständigen]]
+, [[befreunden]], [[melden]], [[verständigen]], [[kundtun]]

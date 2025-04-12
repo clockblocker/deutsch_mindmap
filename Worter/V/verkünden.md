@@ -1,1 +1,1 @@
-, [[sagen]], [[behaupten]], [[haupten]], [[berichten]], [[aussprechen]], [[rufen]]
+, [[sagen]], [[behaupten]], [[haupten]], [[berichten]], [[aussprechen]], [[rufen]], [[kundtun]]

@@ -8,7 +8,7 @@ Die Forscher forschen die Forschung
 
 ---
 = [[Erforschung]], [[Studie]], [[Untersuchung]]
-≈ [[Wissenschaft]], [[Analyse]], [[Erkenntnis]], [[Studium]]
+≈ [[Worter/W/Wissenschaft]], [[Analyse]], [[Erkenntnis]], [[Worter/S/Studium]]
 ≠ [[Ignoranz]], [[Unwissenheit]], [[Untersuchung]]
 
 ---

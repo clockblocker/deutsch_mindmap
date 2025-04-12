@@ -3,6 +3,9 @@
 ---
 *[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]]
 
+*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^3|^]]* In diesem Prozess lernt man auch, sich flexibel an die Umwelt [[anzupassen]]. ^3
+
+
 ---
 = [[adaptieren]], [[angleichen]], [[modifizieren]],  [[profilieren]]
 ≈ [[verändern]], [[justieren]], [[anpassen]], [[abstimmen]], [[einstellen]]
@@ -55,4 +58,4 @@ sie, [[passen an]], [[passten an]], [[passen an]], [[passten an]], [[passen an]]
 Adjektive: [[anpassend]], [[anpassender]], [[anpassendst]]
 
 ---
-[[anpassender]], [[anpassendes]], [[anpassende]], [[anpassenden]], [[anpassendem]], [[anpassenderer]], [[anpassenderes]], [[anpassendere]], [[anpassenderen]], [[anpassenderem]], [[anpassendster]], [[anpassendstes]], [[anpassendste]], [[anpassendsten]], [[anpassendstem]], [[umstellen]]
+[[anpassender]], [[anpassendes]], [[anpassende]], [[anpassenden]], [[anpassendem]], [[anpassenderer]], [[anpassenderes]], [[anpassendere]], [[anpassenderen]], [[anpassenderem]], [[anpassendster]], [[anpassendstes]], [[anpassendste]], [[anpassendsten]], [[anpassendstem]], [[umstellen]], [[Angemessenheit]], [[angemessen]]

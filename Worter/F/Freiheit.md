@@ -28,4 +28,4 @@ D: der [[Freiheit]], den [[Freiheiten]]
 
 [[Pflicht]], [[Freiheitsstrafe]], [[Meinungsfreiheit]], [[Gefängnis]], [[Zügel]], [[Folter]]
 , [[Versammlungsfreiheit]], [[Freizügigkeit]], [[recht]], [[Glaubensfreiheit]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[Verpflichtung]], [[Verfolgung]], [[Befreiung]], [[Bedingung]], [[Zelle]], [[Einflussnahme]], [[Verantwortung]]
-, [[Auftrag]], [[Kirchenzehnt]], [[Stadtmauer]]
+, [[Auftrag]], [[Kirchenzehnt]], [[Stadtmauer]], [[rechtsfrei]], [[Menschenrecht]], [[Hemmung]]

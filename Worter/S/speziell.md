@@ -31,4 +31,4 @@ N: [[speziellen]], [[spezifischeres]], [[spezifischstes]]
 P: [[speziellen]], [[spezifischeren]], [[spezifischsten]]  
 
 ---
-[[Spezial]], [[Spezialität]], [[spezialisieren]], [[spezialisiert]], [[Spezialist]], [[einmalig]], [[allgemeingültig]], [[außergewöhnlich]], [[insbesondere]]
+[[Spezial]], [[Spezialität]], [[spezialisieren]], [[spezialisiert]], [[Spezialist]], [[einmalig]], [[allgemeingültig]], [[außergewöhnlich]], [[insbesondere]], [[generell]]

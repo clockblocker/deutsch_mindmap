@@ -30,4 +30,4 @@ D: der [[Unterstützung]], den [[Unterstützungen]]
 
 ---
 [[unterstützen]], [[unterstützend]], [[Unterstützer]], [[Unterstützerin]], [[Unterstützung­sanspruch]], [[beistehen]], [[Versorgung]], [[unter]], [[1 Präpositionen Übungen]], [[Gegenwind]]
-, [[Spende]], [[Mittelzuweisung]], [[Beitrag]], [[Wohltätigkeit]], [[Patenschaft]], [[Pflege]], [[mithilfe]]
+, [[Spende]], [[Mittelzuweisung]], [[Beitrag]], [[Wohltätigkeit]], [[Patenschaft]], [[Pflege]], [[mithilfe]], [[Hindernis]]

@@ -1,35 +1,58 @@
-🚪[[dringen]] + Gen/in + Akk, [ˈdrɪŋən]
-[[drang]]
-sein [[gedrungen]]
+🚪 [[dringen]], [ˈdʁɪŋən](https://youglish.com/pronounce/dringen/german) → [[drang]] → [[gedrungen]]
 
 ---
 Ist aber ganz [[dringend]]!
 
----
-[[eindringen]] - [[ein]] = [[dringen]] / to penetrate, to intrude, to break in
+*[[3 Sollte das Internet stärker reguliert werden?#^2|^]]* _Eine Regulierung der Seiten von sozialen Netzwerken halte ich dagegen für weniger_ [[dringend]]. ^2
 
 ---
-Synonyme: [[eindringen]], [[vordringen]], [[penetrieren]], [[durchdringen]], [[eindringen]]
-Antonyme: [[zurückweichen]], [[weichen]], [[aufhalten]]
+= [[eindringen]], [[vordringen]], [[penetrieren]] | [[bestehen auf]], [[beharren]]
+≈ [[eindringen]], [[durchdringen]] | [[verlangen]], [[fordern]]
+≠ [[zurückweichen]], [[entweichen]] | [[nachgeben]], [[verzichten]]
 
 ---
-Übersetzung: to penetrate, to press forward, to intrude
+to penetrate, to intrude | to insist  
+проникать, вторгаться | настаивать
 
 ---
-Morpheme: [[dring]][[en]]
- #Verb  #Untrennbar
+[[Eindringen]], [[drängen]], [[drängend]] | [[Drang]], [[drängen]], [[drängend]]
 
 ---
+[[dring]]|[[en]]
 
-| Person    | Präsens   | Präteritum | Imperativ      | Konjunktiv I | Konjunktiv II |
-| --------- | --------- | ---------- | -------------- | ------------ | ------------- |
-| Ich       | [[dringe]]| [[drang]]  | -              | [[dringe]]   | [[dränge]]    |
-| Du        | [[dringst]]| [[drangst]]| [[dringe]]     | [[dringest]] | [[drängest]]  |
-| Er/sie/es | [[dringt]]| [[drang]]  | -              | [[dringe]]   | [[dränge]]    |
-| Wir       | [[dringen]]| [[drangen]]| -             | [[dringen]]  | [[drängen]]   |
-| Ihr       | [[dringt]]| [[drangt]] | [[dringt]]     | [[dringet]]  | [[dränget]]   |
-| Sie       | [[dringen]]| [[drangen]]| [[dringen Sie]]| [[dringen]]  | [[drängen]]   |
 
-Partizip I: [[dringend]], Partizip II: [[gedrungen]]
+---
+###### [[dringen]] `in` jN
+- `Worin` [[dringst]] du [[ein]]?
+- `In` das Haus.
 
-🔵 [[dringen]] | 💧 [[eindringen]] | 🌊 [[durchdringen]]
+- `In` was [[dringen]] wir [[ein]]?
+- `In` die Diskussion.
+
+- Warum [[sind]] sie `darin` [[eingedrungen]]?
+- Um die Wahrheit herauszufinden.
+
+---
+###### [[dringen]] `auf` jN
+- `Worauf` [[dringst]] du?
+- `Auf` eine schnelle Entscheidung.
+
+- `Auf` was [[bestehen]] wir?
+- `Auf` eine Entschuldigung.
+
+- Warum [[hat]] er `darauf` [[gedrungen]]?
+- Weil es ihm wichtig war.
+
+---
+ich, [[dring]] / [[dringe]], [[drang]], [[dringe]], [[dränge]], -
+du, [[dringst]], [[drangst]], [[dringst]], [[drängest]], [[dring]] / [[dringe]]
+er, [[dringt]], [[drang]], [[dringe]], [[dränge]], -
+wir, [[dringen]], [[drangen]], [[dringen]], [[drängen]], [[dringen]]
+ihr, [[dringt]], [[drangt]], [[dringt]], [[dränget]], [[dringt]]
+sie, [[dringen]], [[drangen]], [[dringen]], [[drängen]], [[dringen]]
+
+*Zu + Inf*: zu [[dringen]], *P2*: [[gedrungen]]
+Adjektive: [[dringend]], [[dringender]], [[dringendst]]
+
+---
+[[dringender]], [[dringendes]], [[dringende]], [[dringenden]], [[dringendem]], [[dringenderer]], [[dringenderes]], [[dringendere]], [[dringenderen]], [[dringenderem]], [[dringendster]], [[dringendstes]], [[dringendste]], [[dringendsten]], [[dringendstem]]

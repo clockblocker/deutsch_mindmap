@@ -3,6 +3,9 @@
 ---
 Wofür hast du dich [[letztendlich]] [[entschieden]]?  
 
+[[Letztendlich]] _sind wir selbst dafür verantwortlich, dass es uns und unserer Familie gut geht._ [[Qualitätszeit]] _mit Freunden und Familie zu_ [[verbringen]] _wird oft_ [[unterschätzt]] _, da es nicht „rentabel“ ist. ^10
+
+
 ---
 = [[schlussendlich]], [[schließlich]], [[endgültig]],  [[endlich]], [[schließlich]]
 ≈ [[zum Schluss]], [[am Ende]], [[zuletzt]], [[im Endergebnis]]

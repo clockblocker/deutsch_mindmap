@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Problems]], [[Probleme]], [[Problemen]]
 
 ---
 #Substantiv #Maskulin, [[Sache]], [[Herausforderung]], [[Erziehungsproblem]]
-, [[Angelegenheit]], [[Nachteil]]
+, [[Angelegenheit]], [[Nachteil]], [[Aufgabenstellung]], [[Hindernis]]

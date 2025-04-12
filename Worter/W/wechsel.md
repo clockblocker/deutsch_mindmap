@@ -1,4 +1,4 @@
 смена
 
 [[Ortwechsel]] des Subjekts, [[wechseln]]
-, [[Stimmungsschwankung]], [[wechselvoll]], [[Austausch]]
+, [[Stimmungsschwankung]], [[wechselvoll]], [[Austausch]], [[abwechslungsreich]]

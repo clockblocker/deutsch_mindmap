@@ -1,1 +1,1 @@
-, [[verständnislos]]
+, [[verständnislos]], [[verständnisvoll]]

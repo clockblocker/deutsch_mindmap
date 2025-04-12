@@ -14,7 +14,7 @@ mid-century
 середина века
 
 ---
-[[Jahrhundert]], [[Mitte]], [[Jahr]], [[Zeit]]
+[[Jahrhundert]], [[Mitte]], [[Jahr]], [[Worter/Z/zeit]]
 
 ---
 [[Jahr|hundert]]|[[mitte]]

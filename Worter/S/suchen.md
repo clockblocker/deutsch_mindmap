@@ -49,4 +49,4 @@ Partizip I: [[suchend]], Partizip II: [[gesucht]]
 
 
 +[[aus]] = [[aussuchen]]
-, [[versuchen]], [[durchsuchen]], [[Lehrstellensuche]], [[untersuchen]]
+, [[versuchen]], [[durchsuchen]], [[Lehrstellensuche]], [[untersuchen]], [[meiden]]

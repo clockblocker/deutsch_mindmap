@@ -25,5 +25,5 @@ D: der [[Armut]], den [[Armuten]]
 ---
 [[arm]], [[verarmen]], [[Armutsgrenze]], [[armutsgefährdet]], [[Armutszeugnis]]
 
-[[Taschengeld]], [[Wirtschaft]]
+[[Taschengeld]], [[Worter/W/Wirtschaft]]
 , [[Anki]]

@@ -26,9 +26,9 @@ Morpheme:
 | Ich       | [[bin]]              | [[war]]              | -                 | [[sei]]               | [[wäre]]               |
 | Du        | [[bist]]             | [[warst]]            | [[sei]]           | [[seiest]]            | [[wärest]]             |
 | Er/sie/es | [[ist]]              | [[war]]              | -                 | [[sei]]               | [[wäre]]               |
-| Wir       | [[sind]]             | [[waren]]            | -                 | [[seien]]             | [[wären]]              |
+| Wir       | [[sind]]             | [[Worter/W/Waren]]            | -                 | [[seien]]             | [[wären]]              |
 | Ihr       | [[seid]]             | [[wart]]             | [[seid]]          | [[seiet]]             | [[wäret]]              |
-| Sie       | [[sind]]             | [[waren]]            | [[seien Sie]]     | [[seien]]             | [[wären]]              |
+| Sie       | [[sind]]             | [[Worter/W/Waren]]            | [[seien Sie]]     | [[seien]]             | [[wären]]              |
 
 Partizip I: [[seiend]], Partizip II: [[gewesen]]
 

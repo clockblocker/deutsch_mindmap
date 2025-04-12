@@ -30,3 +30,6 @@ D: dem [[Schutz]], den [[Schutzen]]
 
 [[Segen]], [[Sicherheit]], [[beschützen]]
 , [[Versicherung]], [[Asyl]], [[Folter]], [[Kündigungsschutzklage]], [[Erhaltung]], [[Überfall]], [[Verfolgung]], [[Unantastbarkeit]], [[Vorbeugung]], [[Erhalt]], [[Stadtmauer]], [[Notfallschutz]]
+
+
+#Maskulin 

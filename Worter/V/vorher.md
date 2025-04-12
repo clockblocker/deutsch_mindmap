@@ -1,26 +1,29 @@
+🕰️ [[vorher]], [ˈfoːɐ̯heːɐ̯](https://youglish.com/pronounce/vorher/german)
+
+---
 SASCHA: Aber [[vorher]] gehen wir aus!  
 
-
-Synonyme:
-- [[zuvor]], [[davor]], [[früher]]
+Lesen Sie [[vorher]] die Situation genau durch.
 
 ---
-
-Beispiele:
-
-- Ich habe [[vorher]] noch nie so etwas erlebt.
-- Sie war [[vorher]] sehr aufgeregt.
-- Wir sollten [[vorher]] planen, was wir machen wollen.
+= [[zuvor]], [[früher]], [[ehemals]]
+≈ [[früher]], [[einst]], [[ursprünglich]]
+≠ [[nachher]], [[später]], [[danach]]
 
 ---
-**Übersetzung**: before, previously
+before, previously  
+раньше, прежде
 
 ---
-
-Tags:
-#Adverb
+[[vorhergehend]], [[vorhersehen]], [[Vorherrschaft]], [[Vorhersage]]
 
 ---
+[[vor]]|[[her]]
+[[vorher]]
 
-Morphems:
-[[vor]][[her]][[nachher]], [[hinterdrein]], [[bevor]], [[inzwischen]], [[vorhergehen]], [[vorherigen]], [[eher]], [[neulich]], [[Konnektoren]], [[Währenddessen]], [[vorhin]], [[kürzlich]], [[damalige]], [[ferner]]
+
+---
+Adjektive: [[vorherig]], [[vorheriger]], [[vorherigst]]
+
+---
+[[vorheriger]], [[vorheriges]], [[vorherige]], [[vorherigen]], [[vorherigem]], [[vorherigerer]], [[vorherigeres]], [[vorherigere]], [[vorherigeren]], [[vorherigerem]], [[vorherigster]], [[vorherigstes]], [[vorherigste]], [[vorherigsten]], [[vorherigstem]]

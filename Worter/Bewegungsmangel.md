@@ -6,7 +6,7 @@ Andererseits ist der [[Bewegungsmangel]] im Home-Office ein großes Problem.
 ---
 = [[Inaktivität]], [[Bewegungsarmut]]
 ≈ [[Trägheit]], [[Unbeweglichkeit]], [[Stillsitzen]]
-≠ [[Bewegung]], [[Aktivität]], [[Sport]]
+≠ [[Bewegung]], [[Aktivität]], [[Worter/S/Sport]]
 
 ---
 lack of exercise, physical inactivity  
@@ -33,7 +33,7 @@ Andererseits ist der [[Bewegungsmangel]] im Home-Office ein großes Problem.
 ---
 = [[Inaktivität]], [[Bewegungsarmut]]
 ≈ [[Trägheit]], [[Unbeweglichkeit]], [[Stillsitzen]]
-≠ [[Bewegung]], [[Aktivität]], [[Sport]]
+≠ [[Bewegung]], [[Aktivität]], [[Worter/S/Sport]]
 
 ---
 lack of exercise, physical inactivity  

@@ -1,2 +1,2 @@
 , [[Diskussion]]
-, [[Wortgefecht]]
+, [[Wortgefecht]], [[Meinungsbildung]]

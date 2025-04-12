@@ -7,7 +7,7 @@
 
 ---
 = [[wechseln]], [[transferieren]], [[umsteigen]]
-≈ [[verbinden]], [[anschließen]], [[wechseln]], [[Verkehr]]
+≈ [[verbinden]], [[anschließen]], [[wechseln]], [[Worter/V/Verkehr]]
 ≠ [[behalten]], [[bleiben]], [[verweilen]]
 
 ---

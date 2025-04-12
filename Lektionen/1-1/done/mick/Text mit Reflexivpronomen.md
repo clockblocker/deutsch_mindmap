@@ -32,7 +32,7 @@
 
 **[[Text mit Reflexivpronomen#^17|^]]* Wir konnten uns noch an viele [[Erlebnisse]] aus der Schulzeit erinnern. ^17
 
-**[[Text mit Reflexivpronomen#^18|^]]* Er erinnerte sich sehr gut daran, dass ich mich damals sehr gern mit Latein [[beschäftigte]]. ^18
+**[[Text mit Reflexivpronomen#^18|^]]* Er erinnerte sich sehr gut daran, dass ich mich damals sehr gern mit Latein [[Beschäftigte]]. ^18
 
 **[[Text mit Reflexivpronomen#^19|^]]* Er sagte mir, dass er sich früher in der Schule [[insbesondere]] vor den Lateinarbeiten [[gefürchtet]] hat. ^19
 

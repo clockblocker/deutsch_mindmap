@@ -13,11 +13,11 @@ public access, public traffic
 общественный доступ, посещаемость
 
 ---
-[[Publikum]], [[Verkehr]], [[Besucher]], [[öffentlich]]
+[[Publikum]], [[Worter/V/Verkehr]], [[Besucher]], [[öffentlich]]
 
 ---
-[[Publikum]]|`s`|[[verkehr]]
-[[Publikum]] + [[Verkehr]]
+[[Publikum]]|`s`|[[Worter/V/Verkehr]]
+[[Publikum]] + [[Worter/V/Verkehr]]
 
 
 ---

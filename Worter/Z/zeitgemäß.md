@@ -13,10 +13,10 @@ contemporary, up-to-date
 современный, актуальный
 
 ---
-[[Zeit]], [[Gemäßheit]], [[Zeitgeist]]
+[[Worter/Z/zeit]], [[Gemäßheit]], [[Zeitgeist]]
 
 ---
-[[zeit]]|[[gemäß]]
+[[Worter/Z/zeit]]|[[gemäß]]
 [[zeitgemäß]]
 
 

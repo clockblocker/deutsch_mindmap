@@ -3,6 +3,10 @@
 ---
 [[M1A1.md#^1|(q)]] Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn? ^1
 
+
+Diskutieren Sie, wie ein [[bewusster]] Umgang mit digitalen Medien [[gefördert]] werden könnte.  
+
+
 1. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört nicht dazu? (93%)
 	- [x] Er bezahlt für alle [[Staatsangehörigen]] Urlaubsreisen.
 	- [ ] Er [[fördert]] Sportler und Sportlerinnen.
@@ -33,4 +37,4 @@ PI: [[fördernd]], PII: [[gefördert]], Zu+inf: [[zufördern]]
 ---
 [[Förderung]], [[Förderer]], [[Förderung]], [[förderlich]], [[Förderband]]
 , [[schaden]], [[unterstützen]]
-, [[benachteiligen]], [[stärken]], [[verzögern]]
+, [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]]

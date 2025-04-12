@@ -1,1 +1,1 @@
-, [[Vernichtung]], [[Gebäude]], [[Baustelle]], [[Bauart]], [[Modellierung]], [[Konstruktionsbedingt]]
+, [[Vernichtung]], [[Gebäude]], [[Baustelle]], [[Bauart]], [[Modellierung]], [[Konstruktionsbedingt]], [[Satzkonstruktion]]

@@ -30,3 +30,4 @@ P: [[verfügbaren]], [[verfügbareren]], [[verfügbarsten]]
 
 ---
 -
+, [[Dauerverfügbarkeit]]

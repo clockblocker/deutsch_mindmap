@@ -1,2 +1,2 @@
 , [[vorhergehen]]
-, [[nachfolgend]]
+, [[nachfolgend]], [[vorher]]

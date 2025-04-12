@@ -1,3 +1,3 @@
 , [[Bewusstsein]]
 , [[selbstbewusst]]
-, [[Selbstwertgefühl]]
+, [[Selbstwertgefühl]], [[Selbstdarstellung]]

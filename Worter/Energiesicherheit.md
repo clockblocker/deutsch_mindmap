@@ -13,11 +13,11 @@ energy security
 энергетическая безопасность
 
 ---
-[[Energie]], [[Sicherheit]]
+[[Worter/E/Energie]], [[Sicherheit]]
 
 ---
-[[Energie]]|[[s]]|[[sicher]]|[[heit]]
-[[Energie]] + [[Sicherheit]]
+[[Worter/E/Energie]]|[[s]]|[[sicher]]|[[heit]]
+[[Worter/E/Energie]] + [[Sicherheit]]
 
 
 ---

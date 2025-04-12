@@ -1,1 +1,1 @@
-, [[rechtlich]]
+, [[rechtlich]], [[legal]], [[strafbar]]

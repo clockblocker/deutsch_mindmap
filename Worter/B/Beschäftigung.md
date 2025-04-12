@@ -8,7 +8,7 @@ die [[Beschäftigungen]]
 ---
 = [[Arbeit]], [[Tätigkeit]], [[Job]]
 ≈ [[Beruf]], [[Erwerbstätigkeit]], [[Beschaeftigung]], [[Beschaeftigung]]
-≠ [[Arbeitslosigkeit]], [[Untätigkeit]], [[Langeweile]], [[Freizeit]]
+≠ [[Arbeitslosigkeit]], [[Untätigkeit]], [[Langeweile]], [[Worter/F/Freizeit]]
 
 ---
 employment, occupation, activity
@@ -25,4 +25,4 @@ D: der [[Beschäftigung]], den [[Beschäftigungen]]
 
 ---
 [[beschäftigen]], [[schäftig]], [[Beschäftigungsgrad]], [[Beschäftigungstherapie]], [[Beschäftigungsverbot]]
-, [[Arbeitsstelle]]
+, [[Arbeitsstelle]], [[Berufstätigkeit]]

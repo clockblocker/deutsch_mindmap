@@ -1,6 +1,8 @@
 🎭 [[darstellen]], [ˈdaːɐ̯ˌʃtɛlən] | [[stellte dar]], haben [[dargestellt]]
 
 ---
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^1|^]]* _Deutschland ist schon lange ein_ [[Einwanderungsland]] _und für viele Migrantinnen und Migranten_ [[darstellen|stellt]] _die deutsche Sprache eine besondere_ [[Hürde]] _dar. ^1
+
 
 ---
 = [[repräsentieren]], [[verkörpern]], [[wiedergeben]]
@@ -44,4 +46,4 @@ sie, [[stellen dar]], [[stellten dar]], [[stellen dar]], [[stellten dar]], [[ste
 – Mehr als zehn Jahre.
 
 
-[[freuen]], [[profilieren]], [[veranschaulichen]], [[erläutern]]
+[[freuen]], [[profilieren]], [[veranschaulichen]], [[erläutern]], [[vermitteln]], [[Selbstdarstellung]]

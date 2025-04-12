@@ -28,4 +28,4 @@ N: [[unrechtes]], [[unrechteres]], [[unrechtest]]
 P: [[unrechten]], [[unrechtere]], [[unrechtest]]  
 
 ---
-[[Unrecht]], [[unrechtmäßig]], [[Rechtswesen]], [[Gerechtigkeit]], [[ungerecht]]
+[[Unrecht]], [[unrechtmäßig]], [[Rechtswesen]], [[Gerechtigkeit]], [[ungerecht]], [[Menschenrecht]]

@@ -29,4 +29,4 @@ D: der [[Entwicklung]], den [[Entwicklungen]]
 
 ---
 [[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Anki]], [[Wendung]]
-, [[fehlentwicklung]], [[Karriere]], [[Stadtentwicklung]]
+, [[fehlentwicklung]], [[Karriere]], [[Stadtentwicklung]], [[Persönlichkeitsentwicklung]], [[Laufbahn]], [[Kindesalter]]

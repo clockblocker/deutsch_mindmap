@@ -27,3 +27,6 @@ A: den [[Teil]], die [[Teile]]
 G: des [[Teils]], der [[Teile]]
 D: dem [[Teil]], den [[Teilen]]
 , [[Bestandteil]], [[Abteilung]]
+
+
+#Maskulin 

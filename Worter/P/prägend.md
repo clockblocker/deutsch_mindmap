@@ -1,1 +1,1 @@
-, [[prägen]]
+, [[prägen]], [[richtungsgebend]]

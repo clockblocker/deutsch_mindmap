@@ -1,1 +1,1 @@
-, [[kern]], [[Inhalt]], [[Kernkraft]]
+, [[kern]], [[Inhalt]], [[Kernkraft]], [[Mittelpunkt]]

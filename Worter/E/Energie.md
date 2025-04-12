@@ -1,6 +1,6 @@
 Processed the word "Energie". Identified it as a Noun.
 
-🟢 die [[Energie]], [ɛnɛʁˈɡiː]
+🟢 die [[Worter/E/Energie]], [ɛnɛʁˈɡiː]
 die [[Energien]]
 
 ---
@@ -16,10 +16,10 @@ Synonyme:
 
 ---
 Morpheme:
-[[Energie]]
+[[Worter/E/Energie]]
 
 ---
-Einzigartige mögliche Formen: [[Energie]], [[Energien]]
+Einzigartige mögliche Formen: [[Worter/E/Energie]], [[Energien]]
 
 ---
 #Substantiv #Neuter, [[Willenskraft]], [[s1 e1]]

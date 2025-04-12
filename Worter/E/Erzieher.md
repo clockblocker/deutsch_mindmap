@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 Zusätzliche Informationen:
 - Bezeichnet eine Person, die beruflich Kinder und Jugendliche betreut, bildet und erzieht
 - Typischerweise in Kindergärten, Schulen, Horten oder anderen Bildungseinrichtungen tätig
-- Weibliche Form: [[Erzieherin]], [[Erzie­hung]], [[Erziehung]]
+- Weibliche Form: [[Erzieherin]], [[Erzie­hung]], [[Erziehung]], [[erziehen]]

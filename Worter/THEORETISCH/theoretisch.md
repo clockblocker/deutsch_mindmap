@@ -1,1 +1,1 @@
-, [[geisteswissenschaftlich]]
+, [[geisteswissenschaftlich]], [[inhaltlich]]

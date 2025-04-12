@@ -3,6 +3,10 @@
 ---
 [[amazon.md#^4|(q)]] Artikel [[zurücksenden]] oder [[ersetzen]] ^4
 
+
+- Argumentieren Sie, ob digitale [[Nähe]] echte soziale [[Beziehung]]en [[ersetzen]] kann.  
+
+
 ---
 = [[austauschen]], [[vertauschen]], [[erneuern]], [[wechseln]], [[ablösen]], [[umtauschen]], [[austauschen]]
 ≈ [[tauschen]], [[wechseln]], [[ersetzten durch]], [[niederlegen]],  [[vertreten]], 

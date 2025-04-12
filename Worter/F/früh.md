@@ -4,6 +4,8 @@ nicht [[spät]]
 ---
 [[Frühstück]]
 
+- Beschreiben Sie die Bedeutung von Bildung im [[frühen]] [[Kindesalter]].  
+
 Du bist [[früh]] [[dran]]!
 
 *Andere Länder, andere Zungen*  
@@ -37,4 +39,4 @@ Einzigartige mögliche Formen:
 [[früh]], [[früher]], [[frühe]], [[frühes]], [[frühen]], [[frühem]], [[früher]], [[frühen]]
 [[früheren]], [[früherer]], [[frühere]], [[früheres]], [[früheren]], [[früherem]], [[früherer]], [[früheren]]
 [[frühesten]], [[frühester]], [[frühesteʼs]], [[frühestes]], [[frühesten]], [[frühesteʼm]], [[frühester]], [[frühesten]]
-''', [[Frühjahr]], [[Frühjahrsmantel]]
+''', [[Frühjahr]], [[Frühjahrsmantel]], [[frühkindlich]]

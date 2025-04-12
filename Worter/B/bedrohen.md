@@ -1,1 +1,1 @@
-, [[erpressen]], [[schützen]], [[beschützen]], [[verteidigen]]
+, [[erpressen]], [[schützen]], [[beschützen]], [[verteidigen]], [[Bedrohung]]

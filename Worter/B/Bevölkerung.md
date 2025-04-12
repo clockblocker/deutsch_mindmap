@@ -2,9 +2,12 @@
 die [[Bevölkerungen]]
 
 ---
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^8|^]]* _Nicht nur die Immigrantinnen und Immigranten fühlen sich schneller mit dem Land verbunden, wenn sie die Landessprache sprechen, auch die_ [[einheimische]] [[Bevölkerung]] _ist oft viel_ [[toleranter]] _den Menschen_ [[gegenüber]] _, die versuchen, die_ [[Zielsprache]] _zu erlernen. ^8
+
+
 225. In welchem anderen Land gibt es eine große deutschsprachige [[Bevölkerung]]? (97%)
 
-178. Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke [[versorgt]]. Welcher [[Umstand]] war dafür verantwortlich? (81%)
+226. Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke [[versorgt]]. Welcher [[Umstand]] war dafür verantwortlich? (81%)
 	- [ ] Für Frankreich war eine [[Versorgung]] der West-Berliner [[Bevölkerung]] mit dem Flugzeug [[kostengünstiger]].
 	- [x] Die Sowjetunion [[unterbrach]] den [[gesamten]] Verkehr auf dem Landwege.
 
@@ -27,3 +30,5 @@ D: der [[Bevölkerung]], den [[Bevölkerungen]]
 
 ---
 [[bevölkern]], [[Bevölkerungsdichte]], [[Bevölkerungsgruppe]], [[Bevölkerungswachstum]][[Menschen]]
+
+#Feminin 

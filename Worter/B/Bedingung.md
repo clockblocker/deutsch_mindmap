@@ -1,9 +1,8 @@
-🔴 die [[Bedingung]], [bəˈdɪŋʊŋ]
+🤝 🔴 die [[Bedingung]], [bəˈdɪŋʊŋ](https://youglish.com/pronounce/Bedingung/german)
 die [[Bedingungen]]
 
 ---
-	•	Erklären Sie, unter welchen [[Bedingungen]] sich ein Arbeitgeber für Home-Office aussprechen sollte.
-
+•	Erklären Sie, unter welchen [[Bedingungen]] sich ein Arbeitgeber für Home-Office aussprechen sollte.
 
 Unter [[solchen]] [[Bedingungen]] kann ich nicht arbeiten.
 
@@ -14,27 +13,29 @@ Unter [[solchen]] [[Bedingungen]] kann ich nicht arbeiten.
 
 *[[3 Soll man Geld spenden?#^12|^]]* Wenn die [[Bedingungen]] des "Angebots" den Spender [[zufriedenstellen]], wird die [[Wohltätigkeit]] für beide Seiten [[vorteilhaft]]. ^12
 
----
-= [[Voraussetzung]], [[Konditionen]], [[Umstände]]
-≈ [[Bestimmung]], [[Anforderung]], [[Vorbedingung]], [[Klausel]]
-≠ [[Freiheit]], [[Unabhängigkeit]], [[Willkür]], [[Beliebigkeit]]
 
 ---
-condition, prerequisite, term
+= [[Voraussetzung]], [[Anforderung]], [[Klausel]]
+≈ [[Bedingung]], [[Auflage]], [[Bestimmung]]
+≠ [[Ausnahme]], [[Freiheit]], [[Unabhängigkeit]]
 
 ---
-[[Be]]|[[ding]]|[[ung]]
+condition, requirement  
+условие, требование
 
 ---
-N: die [[Bedingung]], die [[Bedingungen]]  
-A: die [[Bedingung]], die [[Bedingungen]]  
-G: der [[Bedingung]], der [[Bedingungen]]  
-D: der [[Bedingung]], den [[Bedingungen]]  
+[[bedingt]], [[Bedingungslos]], [[Bedingungslose]]
 
 ---
-[[bedingen]], [[bedingungslos]], [[bedingt]], [[unbedingtes Angebot]]
+[[Bedingung]]
 
-, [[Grundlage]], [[Umstand]], [[Vorbehalt]]
-, [[Zustand]], [[Grundvoraussetzung]], [[Verhältnis]], [[Klimabedingung]]
 
-#Feminin
+---
+N: die [[Bedingung]], die [[Bedingungen]]
+A: die [[Bedingung]], die [[Bedingungen]]
+G: der [[Bedingung]], der [[Bedingungen]]
+D: der [[Bedingung]], den [[Bedingungen]]
+
+#Feminin 
+
+

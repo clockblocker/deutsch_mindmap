@@ -27,4 +27,4 @@ D: dem [[Einkommen]], den [[Einkommen]]
 ---
 [[einkommen]], [[einkommensteuerpflichtig]], [[einkommensabhängig]], [[Einkommenssteuer]], [[Nominallohn]]
 
-#Neuter 
+#Neuter , [[Bruttojahresgehalt]]

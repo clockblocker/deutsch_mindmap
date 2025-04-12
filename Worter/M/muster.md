@@ -1,2 +1,2 @@
 , [[mustern]], [[Vorlage]]
-, [[Vorbild]]
+, [[Vorbild]], [[Musterlösung]]

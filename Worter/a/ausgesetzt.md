@@ -1,1 +1,1 @@
-, [[aussetzen]]
+, [[aussetzen]], [[voraussetzen]]

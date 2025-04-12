@@ -1,1 +1,3 @@
-🔴 die [[Nachricht]], [[Richt]]
+🔴 die [[Nachricht]], [[Richt]], [[Verleumdung]]
+
+#Plural , [[Berichterstattung]]

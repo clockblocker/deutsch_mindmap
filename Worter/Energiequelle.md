@@ -14,10 +14,10 @@ energy source
 источник энергии
 
 ---
-[[Energie]], [[Quelle]]
+[[Worter/E/Energie]], [[Quelle]]
 
 ---
-[[Energie]]|[[quelle]]
+[[Worter/E/Energie]]|[[quelle]]
 [[Energiequelle]]
 
 

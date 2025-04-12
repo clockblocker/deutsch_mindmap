@@ -13,7 +13,7 @@ Synonyme:
 sports betting
 
 ---
-[[Sport]][[wette]]
+[[Worter/S/Sport]][[wette]]
 
 ---
 Case: Singular, Plural  

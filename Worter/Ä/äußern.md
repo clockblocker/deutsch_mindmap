@@ -3,6 +3,9 @@
 ---
 🗣️ die [[Meinungsäußerung]],
 
+*[[3 Sollte das Internet stärker reguliert werden?#^3|^]]* _Auch wenn sich Menschen besonders oft auf diesen Seiten_ [[unangemessen]] [[äußern]], _so bleibt es doch ein privater Rahmen und niemand ist gezwungen, sich dort_ [[aufzuhalten]]. ^3
+
+
 *[[Golfstorm#^2|^]]* Diese [[Befürchtungen]] [[äußerten]] Wissenschaftler in den vergangenen Jahren immer wieder. ^2
 
 51. Zu einem demokratischen Rechtsstaat gehört es nicht, dass … (88%)
@@ -33,4 +36,4 @@ PI: [[äußernd]], PII: [[geäußert]], Zu+inf: [[zu äußern]]
 [[äußern]] - [[äu]] = [[ßer]] / to express, to utter, to voice
 
 ---
-[[Äußerung]], [[äußerlich]], [[außern]], [[Außerung]], [[unäußerlich]], [[verhaften]], [[Meinungsäußerung]], [[aussprechen]]
+[[Äußerung]], [[äußerlich]], [[außern]], [[Außerung]], [[unäußerlich]], [[verhaften]], [[Meinungsäußerung]], [[aussprechen]], [[aufhalten]]

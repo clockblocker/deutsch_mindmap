@@ -14,11 +14,11 @@ body odor
 запах тела
 
 ---
-[[Körper]], [[Geruch]], [[körperlich]], [[geruchsneutral]]
+[[Worter/K/Körper]], [[Geruch]], [[körperlich]], [[geruchsneutral]]
 
 ---
-[[Körper]]|[[ge]]|[[ruch]]
-[[Körper]] + [[Geruch]]
+[[Worter/K/Körper]]|[[ge]]|[[ruch]]
+[[Worter/K/Körper]] + [[Geruch]]
 
 
 ---

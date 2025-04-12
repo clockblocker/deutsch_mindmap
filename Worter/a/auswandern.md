@@ -4,6 +4,11 @@
 *[[Wettlauf gegen die Zeit 1#^5|^]]* Belay ist ein Stammgast der Gottscheer Hall, seit er vor mehr als 60 Jahren nach Amerika [[auswanderte]]. ^5
 
 
+
+*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^11|^]]* Es gibt aber auch viele Vorteile, die zum [[Auswandern]], wenn ihr euch einfach nur [[beruflich]] verändern oder neue Karrieremöglichkeiten [[wünscht]]. ^11
+
+
+
 ---
 = [[emigrieren]], [[fortziehen]]
 ≈ [[verlassen]], [[weggehen]], [[umsiedeln]], [[einreisen]]

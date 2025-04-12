@@ -1,1 +1,1 @@
-, [[endlich]], [[Konnektivpartikeln]]
+, [[endlich]], [[Konnektivpartikeln]], [[letztendlich]]

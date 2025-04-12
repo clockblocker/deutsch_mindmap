@@ -23,4 +23,4 @@ D: der [[Wanderung]], den [[Wanderungen]]
 
 ---
 [[wandern]], [[Wanderer]], [[Wanderführer]], [[Wanderkarte]]
-</dictionary_entry>, [[1 Präpositionen Übungen]]
+</dictionary_entry>, [[1 Präpositionen Übungen]], [[einwandern]], [[Einwanderung]]

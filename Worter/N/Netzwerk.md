@@ -1,1 +1,2 @@
-, [[Netz]], [[vernetzt]]
+, [[Netz]], [[vernetzt]]🟢 das [[Netzwerk]] 🌐
+#Neuter 

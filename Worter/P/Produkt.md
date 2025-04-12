@@ -1,2 +1,2 @@
 , [[Werk]], [[Frucht]], [[Bestellung]], [[Produktsupport]], [[Produktrezension]]
-, [[Gegenstand]]
+, [[Gegenstand]], [[Ware]]

@@ -1,1 +1,1 @@
-, [[Meister]], [[bewältigen]]
+, [[Meister]], [[bewältigen]], [[beherrschen]]

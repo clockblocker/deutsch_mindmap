@@ -14,7 +14,7 @@ Antonyme: [[unregelmäßig]], [[sporadisch]], [[zufällig]], [[unberechenbar]]
 **regular, steady, consistent**
 
 ---
-[[regel]][[mäßig]]
+[[Worter/R/Regel]][[mäßig]]
 
 ---
 
@@ -27,4 +27,4 @@ Feminine: [[regelmäßige]], [[regelmäßigere]], [[regelmäßigste]]
 Neuter: [[regelmäßiges]], [[regelmäßigeres]], [[regelmäßigstes]]  
 Plural: [[regelmäßigen]], [[regelmäßigeren]], [[regelmäßigsten]]  
 
-[[Regelmäßigkeit]], [[regelmäßig]], [[unregelmäßig]], [[Regelmäßigkeiten]], [[geduld]], [[befürchten]], [[häufig]], [[allwöchentlich]]
+[[Regelmäßigkeit]], [[regelmäßig]], [[unregelmäßig]], [[Regelmäßigkeiten]], [[geduld]], [[befürchten]], [[häufig]], [[allwöchentlich]], [[gelegentlich]]

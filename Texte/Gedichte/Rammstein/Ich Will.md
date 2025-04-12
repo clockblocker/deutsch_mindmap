@@ -16,7 +16,7 @@ Ich will
 (Ich will) Ich will, dass ihr mich [[versteht]]  
   
 (Ich will) Ich will eure [[Fantasie]]  
-(Ich will) Ich will eure [[Energie]]  
+(Ich will) Ich will eure [[Worter/E/Energie]]  
 (Ich will) Ich will eure Hände sehen  
 (Ich will) in [[Beifall]] [[untergehen]]  
 

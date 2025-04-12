@@ -1,1 +1,1 @@
-[[Energie]]
+[[Worter/E/Energie]]

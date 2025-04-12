@@ -1,1 +1,1 @@
-, [[beleidigen]], [[beleidigt]]
+, [[beleidigen]], [[beleidigt]], [[Beleidigung]]

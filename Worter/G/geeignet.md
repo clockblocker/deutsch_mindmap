@@ -34,4 +34,4 @@ Neuter: [[geeignetes]], [[geeigneteres]], [[geeignetestes]]
 Plural: [[geeigneten]], [[geeigneteren]], [[geeignetesten]]  
 
 [[Eignung]], [[Geeignetheit]], [[Tauglichkeit]], [[Qualifikation]], [[Fähig]]
-, [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]]
+, [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]], [[angemessen]], [[unangemessen]]

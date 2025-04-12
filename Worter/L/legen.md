@@ -35,4 +35,4 @@ PI: [[legend]], PII: [[gelegt]], Zu+inf: [[zu legen]]
 
 ---
 [[Lage]], [[Lagerung]], [[Ablage]], [[Legung]], [[Verlegung]], [[Vorlage]], [[festlegen]], [[angelegen]]
-, [[Gelegenheit]], [[auflegen]], [[grundlegend]], [[erlegen]]
+, [[Gelegenheit]], [[auflegen]], [[grundlegend]], [[erlegen]], [[gelegentlich]]

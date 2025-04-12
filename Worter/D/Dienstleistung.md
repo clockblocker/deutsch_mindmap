@@ -1,1 +1,1 @@
-, [[Landwirtschaft]]
+, [[Landwirtschaft]], [[Ware]]

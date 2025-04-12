@@ -1,2 +1,2 @@
 , [[streng]], [[Barmherzigen]]
-, [[mitfühlend]], [[wohltätig]]
+, [[mitfühlend]], [[wohltätig]], [[verständnisvoll]]

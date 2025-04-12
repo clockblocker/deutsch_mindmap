@@ -4,6 +4,8 @@
 [[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
 
 
+- Erläutern Sie, welche [[Gefahren]] durch zu viel Kontrolle [[entstehen]] können.  
+
 * *Nennen Sie Alternativen, wie man Menschen vor den* [[Gefahr]]*en, die durch das Internet* [[entstehen]], [[schützen]] *könnte.* 
 
 

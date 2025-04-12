@@ -1,1 +1,1 @@
-, [[besprechen]], [[auseinandersetzen]]
+, [[besprechen]], [[auseinandersetzen]], [[thematisieren]]

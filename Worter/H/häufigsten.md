@@ -1,2 +1,2 @@
 , [[meist]]
-🔴 [[häufig]]
+🔴 [[häufig]], [[aufhalten]]

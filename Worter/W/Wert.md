@@ -35,4 +35,4 @@ D: dem [[Wert]], den [[Werten]]
 , [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]], [[Betrag]]
 
 
-#Maskulin 
+#Maskulin , [[Stellenwert]]

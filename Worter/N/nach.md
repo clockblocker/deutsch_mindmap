@@ -9,4 +9,4 @@ CINDY: Kopf [[nach]] rechts und links und rechts und noch einmal.
 [[nachher]], [[nachjagen]], [[nach dem]], [[Nachdem]], [[Nachspeise]], [[nachbringen]], [[nach unten]], [[Nachfrage]], [[bringen]], [[nachdenken]], [[übernachten]], [[da]], [[Nachteile]], [[nachholen]], [[Benachrichtigung]], [[benachteiligt]]
 , [[nachfolgend]]
 , [[entlang]]
-, [[nachdenklich]], [[Nachwuchs]], [[Nachmittag]], [[Nachlässigkeit]], [[nachhaltig]], [[Nachteil]]
+, [[nachdenklich]], [[Nachwuchs]], [[Nachmittag]], [[Nachlässigkeit]], [[nachhaltig]], [[Nachteil]], [[Nachrede]]

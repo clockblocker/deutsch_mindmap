@@ -1,1 +1,1 @@
-, [[gegliedert]], [[gliedern]]
+, [[gegliedert]], [[gliedern]], [[Textaufbau]], [[Hierarchie]]

@@ -1,2 +1,2 @@
 , [[Worter/S/sprechen]], [[ansprechen]], [[Sprachunterricht]], [[schriftsprachlich]], [[Fremdsprache]]
-, [[Sprachschatz]]
+, [[Sprachschatz]], [[Behördensprache]], [[Muttersprachler]], [[Amtssprache]], [[Zielsprache]], [[Landessprache]]

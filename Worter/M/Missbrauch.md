@@ -1,1 +1,1 @@
-, [[Kindererziehung]], [[Gebrauch]], [[Anwendung]]
+, [[Kindererziehung]], [[Gebrauch]], [[Anwendung]], [[Handhabung]]

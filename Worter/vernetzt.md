@@ -3,6 +3,10 @@
 ---
 [[2 Unter Druck nach oben#^20|(q)]] [[An der Spitze]] der „[[Erfolgsfaktoren]]“ steht jedoch das strategische, [[vernetzte]] Denken. Eine Studie der Boston Consulting Group kristallisierte vier Idealtypen heraus: den Analytiker, den Macher, den Integrator und den [[Erfinder]], die meistens in Kombination gesucht sind. ^20
 
+
+[[Bewertet]] wird, ob die thematischen Punkte und die Sätze des Briefes sinnvoll und richtig [[verknüpft]] sind: ist der Brief logisch [[aufgebaut]]? 
+
+
 ---
 = [[verbunden]], [[verknüpft]], [[integriert]]
 ≈ [[kommunikativ]], [[kooperativ]], [[interaktiv]], [[verflochten]]

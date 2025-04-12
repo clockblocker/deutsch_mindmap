@@ -217,7 +217,7 @@ Oh mother! I haven’t even thought about it!
 SAM: Hey Nic? Was soll ich sagen?  
 NIC: Mensch relax! Das ist doch [[ganz]] einfach.  
 SAM: Ja, klar! Nic mit seinen 100 Freundinnen!  
-NIC: Na ja, … also … es [[waren]] schon [[Weniger]] [[als]] 100 …  
+NIC: Na ja, … also … es [[Worter/W/Waren]] schon [[Weniger]] [[als]] 100 …  
 SAM: Fünfzig!  
 NIC: Mmhh .. nicht [[ganz]].  
 SAM: Zehn?  

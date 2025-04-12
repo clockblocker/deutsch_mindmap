@@ -3,6 +3,9 @@
 ---
 * Nennen Sie andere Möglichkeiten für einen [[ausgewogenen]] [[Lebensstil]].
 
+*[[2 Work Life Balance#^2|^]]* _Das moderne Leben fordert von uns, die_ [[Erwerbstätigkeit]] _, das_ [[Familienleben]] _und die persönliche Zeit in ein_ [[ausgewogenes]] [[Verhältnis]] _zu bringen, was nicht immer leicht ist. ^2
+
+
 , [[gemäßigt]]
 
 ---

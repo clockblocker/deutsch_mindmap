@@ -10,7 +10,7 @@ die [[Leistungen]]
 
 
 ---
-= [[Erfolg]], [[Ergebnis]], [[Tat]]
+= [[Erfolg]], [[Ergebnis]], [[Worter/T/Tat]]
 ≈ [[Werk]], [[Errungenschaft]], [[Verdienst]], [[Resultat]]
 ≠ [[Misserfolg]], [[Versagen]], [[Niederlage]], [[Schwäche]]
 
@@ -28,4 +28,4 @@ D: der [[Leistung]], den [[Leistungen]]
 
 ---
 [[Leisten]], [[leistungsfähig]], [[leistungsstark]], [[Leistungssport]], [[leistungsorientiert]], [[Reparationsleistung]], [[Kraft]]
-, [[Anstrengung]], [[Großtat]], [[Aufgabenerfüllung]], [[Strom]]
+, [[Anstrengung]], [[Großtat]], [[Aufgabenerfüllung]], [[Strom]], [[Bildungserfolg]]

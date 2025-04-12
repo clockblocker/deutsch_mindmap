@@ -14,7 +14,7 @@ die [[Elterngeldbeträge]]
 parental allowance, parental benefits
 
 ---
-[[Eltern]][[geld]]
+[[Eltern]][[Worter/G/Geld]]
 
 ---
 N: das [[Elterngeld]], die [[Elterngeldbeträge]]  
@@ -23,4 +23,4 @@ G: des [[Elterngeldes]], der [[Elterngeldbeträge]]
 D: dem [[Elterngeld]], den [[Elterngeldbeträgen]]  
 
 ---
-[[Eltern]], [[Geld]], [[Mutterschutz]], [[Vaterschaftsurlaub]], [[Familienförderung]]
+[[Eltern]], [[Worter/G/Geld]], [[Mutterschutz]], [[Vaterschaftsurlaub]], [[Familienförderung]]

@@ -25,4 +25,4 @@ N: [[ernsthaftes]], [[ernsterhafteres]], [[ernsthaftestes]]
 P: [[ernsthaften]], [[ernsterhafteren]], [[ernsthaftesten]]  
 
 ---
-[[Ernst]], [[ernstnehmen]], [[Ernsthaftigkeit]], [[Ernsthaftung]]
+[[Ernst]], [[ernstnehmen]], [[Ernsthaftigkeit]], [[Ernsthaftung]], [[verantwortungsvoll]]

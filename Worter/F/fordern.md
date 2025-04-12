@@ -34,4 +34,4 @@ PI: [[fordernd]], PII: [[gefordert]], Zu+inf: [[zufordern]]
 
 ---
 [[Forderung]], [[Herausforderung]], [[Anspruch]], [[forschend]], [[fordernd]], [[Forderer]], [[Forderung]]
-, [[erforderlich]], [[überfordern]], [[benötigen]]
+, [[erforderlich]], [[überfordern]], [[benötigen]], [[Aufrufen]], [[dringen]]

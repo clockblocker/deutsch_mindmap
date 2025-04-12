@@ -3,6 +3,9 @@ die [[Gesellschaften]]
 
 
 ---
+die Frage, was KI alles leisten kann und welchen [[Stellenwert]] sie in unserer [[Gesellschaft]] [[einnehmen]] soll, finde ich auch sehr spannend.
+
+
 Jeder ist ein Teil der [[Gesellschaft]].
 
 - *liegt die* gegenwärtige [[Gesellschaft]] *mehr Wert auf Studiengänge im Bereich*

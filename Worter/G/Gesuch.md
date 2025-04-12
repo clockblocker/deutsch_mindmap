@@ -1,2 +1,2 @@
 , [[Antrag]], [[Bewerbung]], [[Petition]]
-, [[Wohnungsbewerbung]]
+, [[Wohnungsbewerbung]], [[Beantragung]]

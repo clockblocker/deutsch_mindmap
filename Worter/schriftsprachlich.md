@@ -26,4 +26,4 @@ N: [[schriftsprachliches]], [[schriftsprachlicheres]], [[schriftsprachlichstes]]
 P: [[schriftsprachlichen]], [[schriftsprachlicheren]], [[schriftsprachlichsten]]  
 
 ---
-[[Schriftsprache]], [[Sprache]], [[schreiben]], [[sprachlich]], [[literarisch]]
+[[Schriftsprache]], [[Worter/S/Sprache]], [[schreiben]], [[sprachlich]], [[literarisch]]

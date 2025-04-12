@@ -1,1 +1,1 @@
-, [[Annäherung]], [[Rückzug]]
+, [[Annäherung]], [[Rückzug]], [[Anhieb]], [[Anhieb]]

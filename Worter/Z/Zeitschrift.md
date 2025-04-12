@@ -1,4 +1,4 @@
-die [[Zeit]][[Schrift|schrift]]
+die [[Worter/Z/zeit]][[Schrift|schrift]]
 die [[Zeitschriften]]
 
 ---

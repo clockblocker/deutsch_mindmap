@@ -1,1 +1,1 @@
-, [[Berufsgruppe]]
+, [[Berufsgruppe]], [[Berufsfeld]]

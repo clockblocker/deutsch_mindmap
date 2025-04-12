@@ -1,2 +1,2 @@
-, [[Sport]]
-, [[Öffnungszeit]], [[Ergebnisorientierung]], [[Bewegungsmangel]]
+, [[Worter/S/Sport]]
+, [[Öffnungszeit]], [[Ergebnisorientierung]], [[Bewegungsmangel]], [[Tat]]

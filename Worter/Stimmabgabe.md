@@ -30,4 +30,4 @@ G: der [[Stimmabgabe]], der [[Stimmabgaben]]
 D: der [[Stimmabgabe]], den [[Stimmabgaben]]  
 
 ---
-[[stimmen]], [[abgeben]], [[Stimme]], [[Wahl]], [[Abstimmung]]
+[[stimmen]], [[abgeben]], [[Stimme]], [[Wahl]], [[Abstimmung]], [[beeinflussen]]

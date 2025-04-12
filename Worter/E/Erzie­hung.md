@@ -24,3 +24,6 @@ D: der [[Erziehung]], den [[Erziehungen]]
 
 ---
 [[erziehen]], [[erzieherisch]], [[Erzieher]], [[Erzieherin]], [[erziehungsbedürftig]]
+
+
+#Feminin 

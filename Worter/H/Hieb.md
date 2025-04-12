@@ -20,4 +20,4 @@ Morphems:
 [[Hieb]]
 
 ---
-#Substantiv #Maskulin, [[rumhacken]]
+#Substantiv #Maskulin, [[rumhacken]], [[Anhieb]], [[Anhieb]]

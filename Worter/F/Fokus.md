@@ -1,2 +1,2 @@
 
-, [[Aufmerksamkeit]], [[Brennpunkt]], [[Ablenkung]]
+, [[Aufmerksamkeit]], [[Brennpunkt]], [[Ablenkung]], [[Mittelpunkt]]

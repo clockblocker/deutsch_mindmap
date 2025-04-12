@@ -20,4 +20,4 @@ Morphems:
 [[Wesen]]
 
 ---
-#Substantiv #Neuter, [[Schulwesen]], [[Persönlichkeit]], [[wesentlich]]
+#Substantiv #Neuter, [[Schulwesen]], [[Persönlichkeit]], [[wesentlich]], [[Finanzwesen]]

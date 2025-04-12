@@ -1,1 +1,1 @@
-, [[Gesetz]], [[Faustrecht]], [[Gericht]], [[Verfassung]], [[Gesetzgebung]]
+, [[Gesetz]], [[Faustrecht]], [[Gericht]], [[Verfassung]], [[Gesetzgebung]], [[Hierarchie]]

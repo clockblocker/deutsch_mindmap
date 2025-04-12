@@ -3,6 +3,9 @@
 ---
 Stürme wie dieser [[vorkommen|kommen]] in der Region [[häufig]] vor.
 
+*[[3 Sollte das Internet stärker reguliert werden?#^1|^]]* _Als regelmäßiger Internetnutzer_ [[vorkommen|kommt]] _es mir_ [[gelegentlich]] _so vor, als würden manche Personen das Internet als einen_ [[rechtsfreien]] _Raum ansehen._ ^1
+
+
 ---
 = [[geschehen]], [[auftreten]], [[existieren]], [[passieren]]
 ≈ [[passieren]], [[begegnen]], [[sich ereignen]], [[auftauchen]]
@@ -27,4 +30,4 @@ PI: [[vorkommend]], PII: [[vorgekommen]], Zu+inf: [[vorzukommen]]
 [[vorkommen]] - [[vor]] = [[kommen]] / to happen, to occur, to exist
 
 ---
-[[Vorkommen]], [[Vorkommnis]], [[vorkommend]], [[hervorkommend]], [[aufkommen]], [[stattfinden]]
+[[Vorkommen]], [[Vorkommnis]], [[vorkommend]], [[hervorkommend]], [[aufkommen]], [[stattfinden]], [[rechtsfrei]]

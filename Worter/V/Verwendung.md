@@ -22,4 +22,4 @@ G: der [[Verwendung]], der [[Verwendungen]]
 D: der [[Verwendung]], den [[Verwendungen]]  
 
 ---
-[[verwenden]], [[verwendbar]], [[Verwendungszweck]], [[Verwendungsart]], [[zweckentfremdete Verwendung]]
+[[verwenden]], [[verwendbar]], [[Verwendungszweck]], [[Verwendungsart]], [[zweckentfremdete Verwendung]], [[Handhabung]], [[Bedienung]]
