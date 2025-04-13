@@ -1,1 +1,1 @@
-, [[bekannt]], [[Steuern]]
+, [[bekannt]], [[Steuern]], [[wertschätzen]]

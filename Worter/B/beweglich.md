@@ -1,2 +1,2 @@
 , [[locker]], [[steif]], [[wendig]], [[Bewegung]], [[begeben]]
-, [[motorische]]
+, [[motorische]], [[flexibel]]

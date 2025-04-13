@@ -1,2 +1,2 @@
 , [[Vorlage]]
-, [[Vorbild]], [[Bauart]], [[Modellrechnung]], [[Modellierung]]
+, [[Vorbild]], [[Bauart]], [[Modellrechnung]], [[Modellierung]], [[Arbeitszeitmodell]], [[Arbeitsmodell]]

@@ -1,2 +1,2 @@
 , [[versammeln]], [[verfeinden]]
-, [[befreunden]]
+, [[befreunden]], [[paaren]]

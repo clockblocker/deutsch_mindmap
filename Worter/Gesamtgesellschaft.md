@@ -29,3 +29,4 @@ D: der [[Gesamtgesellschaft]], den [[Gesamtgesellschaften]]
 
 
 #Feminin
+, [[mangeln]]

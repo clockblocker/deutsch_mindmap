@@ -32,4 +32,4 @@ D: dem [[Schutz]], den [[Schutzen]]
 , [[Versicherung]], [[Asyl]], [[Folter]], [[Kündigungsschutzklage]], [[Erhaltung]], [[Überfall]], [[Verfolgung]], [[Unantastbarkeit]], [[Vorbeugung]], [[Erhalt]], [[Stadtmauer]], [[Notfallschutz]]
 
 
-#Maskulin 
+#Maskulin , [[Datenschutz]]

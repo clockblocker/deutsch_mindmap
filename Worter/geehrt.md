@@ -28,4 +28,4 @@ N: [[geehrtes]], [[geehrteteres]], [[geehrtetetes]]
 P: [[geehrten]], [[geehrteren]], [[geehrtesten]]  
 
 ---
-[[ehren]], [[Ehre]], [[ehrenvoll]], [[ehrenhalber]], [[Ehrung]]
+[[ehren]], [[Ehre]], [[ehrenvoll]], [[ehrenhalber]], [[Ehrung]], [[wertschätzen]]

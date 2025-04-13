@@ -28,4 +28,4 @@ D: der [[Leistung]], den [[Leistungen]]
 
 ---
 [[Leisten]], [[leistungsfähig]], [[leistungsstark]], [[Leistungssport]], [[leistungsorientiert]], [[Reparationsleistung]], [[Kraft]]
-, [[Anstrengung]], [[Großtat]], [[Aufgabenerfüllung]], [[Strom]], [[Bildungserfolg]]
+, [[Anstrengung]], [[Großtat]], [[Aufgabenerfüllung]], [[Strom]], [[Bildungserfolg]], [[Angebot]], [[Unterstützungsangebot]]

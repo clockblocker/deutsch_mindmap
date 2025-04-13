@@ -4,6 +4,9 @@
 [[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
 
 
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
+
+
 - Erklären Sie, wodurch psychische [[Belastung]] am Arbeitsplatz [[entsteht]].  
 
 - Erläutern Sie, welche [[Gefahren]] durch zu viel Kontrolle [[entstehen]] können.  

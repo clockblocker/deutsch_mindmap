@@ -1,1 +1,1 @@
-, [[beliebtes]], [[schätzen]], [[geehrt]]
+, [[beliebtes]], [[schätzen]], [[geehrt]], [[wertschätzen]]

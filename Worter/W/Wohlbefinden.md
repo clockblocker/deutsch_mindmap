@@ -2,6 +2,9 @@
 (no plural form)
 
 ---
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^6|^]]* Unternehmen tragen eine [[wesentlich]]e [[Verantwortung]] für das [[Wohlbefinden]] ihrer [[Mitarbeitenden]]^6
+- 
+
 - Erläutern Sie, welche Verantwortung Unternehmen für das [[Wohlbefinden]] ihrer Mitarbeitenden tragen.
 
 ---
@@ -31,4 +34,4 @@ G: des [[Wohlbefindens]], der [[Wohlbefinden]]
 D: dem [[Wohlbefinden]], den [[Wohlbefinden]]
 
 
-#Neuter 
+#Neuter , [[Burnout]]

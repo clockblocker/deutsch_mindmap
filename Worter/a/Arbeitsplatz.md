@@ -24,4 +24,7 @@ D: dem [[Arbeitsplatz]], den [[Arbeitsplätzen]]
 
 ---
 [[arbeiten]], [[Arbeiterin]], [[Arbeiter]], [[Arbeitslosigkeit]], [[Arbeitszeit]], [[Stelle]], [[Arbeitswelt]], [[Betrieb]], [[Tisch]]
-, [[Arbeitsauftrag]], [[Arbeitsstelle]]
+, [[Arbeitsauftrag]], [[Arbeitsstelle]], [[Arbeitsumfeld]]
+
+
+#Maskulin , [[Homeoffice]]

@@ -3,6 +3,7 @@
 ---
 [[grundlegend]] = [[grundsätzlich]] = [[zugrundeliegende]] = [[wesentlich]] = [[bedeutend]]
 
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^6|^]]* Unternehmen tragen eine [[wesentlich]]e [[Verantwortung]] für das [[Wohlbefinden]] ihrer [[Mitarbeitenden]]. ^6
 
 , [[überflüssig]], [[egal]], [[grundsätzlich]], [[zugrundeliegende]]
 , [[sonstig]], [[grundlegend]], [[vorrangig]], 

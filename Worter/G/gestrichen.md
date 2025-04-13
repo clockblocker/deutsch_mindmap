@@ -34,4 +34,4 @@ Note: "gestrichen" is specifically the past participle form of "streichen", whic
 2. Crossed out (as in removing text)
 3. Stroked (as in gently touching)
 
-The past participle form is used in perfect tenses and as an adjective in some contexts.
+The past participle form is used in perfect tenses and as an adjective in some contexts., [[Streichung]]

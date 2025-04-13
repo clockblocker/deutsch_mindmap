@@ -38,3 +38,6 @@ N: der [[Vorteil]], die [[Vorteile]]
 A: den [[Vorteil]], die [[Vorteile]]
 G: des [[Vorteils]], der [[Vorteile]]
 D: dem [[Vorteil]], den [[Vorteilen]]
+
+
+#Maskulin 

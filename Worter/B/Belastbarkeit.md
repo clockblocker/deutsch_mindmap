@@ -1,2 +1,2 @@
 
-, [[Durchhaltevermögen]]
+, [[Durchhaltevermögen]], [[Belastung]]

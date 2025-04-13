@@ -32,4 +32,4 @@ already, yet, still
 Morpheme:
 [[schon]]
 
----, [[Meldung]], [[s1 e1]], [[Abtönungspartikeln]]
+---, [[Meldung]], [[s1 e1]], [[Abtönungspartikeln]], [[schonen]]

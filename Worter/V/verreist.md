@@ -1,1 +1,1 @@
-, [[verreisen]]
+, [[verreisen]], [[abwesend]]

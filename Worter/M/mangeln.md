@@ -1,32 +1,64 @@
-😔 [[mangeln]], [ˈmaŋl̩n] | [[mangelte]], haben [[gemangelt]]
+😩 [[mangeln]], [ˈmaŋl̩n](https://youglish.com/pronounce/mangeln/german) → [[mangelte]] → [[gemangelt]]
 
 ---
 [[1 ADHD#^9|(q)]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 
-- Erläutern Sie die Folgen [[mangelnder]] Integration für die [[Gesamtgesellschaft]].  
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
 
 
----
-= [[fehlen]], [[ermangeln]], [[entbehren]]
-≈ [[fehlen]], [[mangelhaft sein]], [[dürften]], [[benötigen]]
-≠ [[überfließen]], [[vorhanden sein]], [[genug haben]], [[überschütten]]
+- Erläutern Sie die Folgen [[mangelnder]] Integration für die [[Gesamtgesellschaft]].
 
 ---
-to lack, to be lacking
+= [[fehlen]], [[ermangeln]]
+≈ [[fehlen]], [[entbehren]]
+≠ [[vorhanden sein]], [[überschießen]]
+
+---
+to lack, to be lacking  
 не хватать, недоставать
 
 ---
-[[man]]|[[geln]]
+[[Mangel]], [[mangelhaft]], [[mangellos]]
 
 ---
-ich: [[mangle]], [[mangelte]], –, [[mangle]], [[mangelte]]
-du: [[mangelst]], [[mangeltest]], [[mangle]] | [[mangel]], [[mangelst]], [[mangeltest]]
-er/sie/es: [[mangelt]], [[mangelte]], –, [[mangle]], [[mangelte]]
-wir: [[mangeln]], [[mangelten]], [[mangeln wir|mangeln]], [[mangeln]], [[mangelten]]
-ihr: [[mangelt]], [[mangeltet]], [[mangelt]], [[mangelt]], [[mangeltet]]
+[[mangel]]|[[n]]
+[[mangeln]]
 
-PI: [[mangelnd]], PII: [[gemangelt]], Zu+inf: [[zu mangeln]]
 
 ---
-[[Mangel]], [[mangelhaft]], [[Mangelware]], [[Mangelerscheinung]]
+###### [[mangeln]] jD
+- Wem [[mangelt]] es?
+- Mir.
+
+- Wem [[mangelt]] es?
+- Ihm.
+
+- Warum [[hat]] es ihm [[gemangelt]]?
+- Weil er nicht vorbereitet war.
+
+---
+###### [[mangeln]] an jN
+- `Woran` [[mangelt]] es?
+- `An` Zeit.
+
+- `Woran` [[hat]] es [[gemangelt]]?
+- `An` Geld.
+
+- `An` was [[mangelt]] es uns?
+- `An` Erfahrung.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[mangle]], [[mangelte]], [[mangle]], [[mangelte]], -
+du, [[mangelst]], [[mangeltest]], [[mangelst]], [[mangeltest]], [[mangle]]
+er, [[mangelt]], [[mangelte]], [[mangle]], [[mangelte]], -
+wir, [[mangeln]], [[mangelten]], [[mangeln]], [[mangelten]], [[mangeln]]
+ihr, [[mangelt]], [[mangeltet]], [[mangelt]], [[mangeltet]], [[mangelt]]
+sie, [[mangeln]], [[mangelten]], [[mangeln]], [[mangelten]], [[mangeln]]
+
+*Zu + Inf*: zu [[mangeln]], *P2*: [[gemangelt]]
+Adjektive: [[mangelnd]], [[mangelnder]], [[mangelndst]]
+
+---
+[[mangelnder]], [[mangelndes]], [[mangelnde]], [[mangelnden]], [[mangelndem]], [[mangelnderer]], [[mangelnderes]], [[mangelndere]], [[mangelnderen]], [[mangelnderem]], [[mangelndster]], [[mangelndstes]], [[mangelndste]], [[mangelndsten]], [[mangelndstem]]

@@ -23,4 +23,4 @@ G: [[mehrerer]]
 D: [[mehreren]]  
 
 ---
-[[Mehrzahl]], [[mehrfach]], [[Mehrdeutigkeit]], [[vermehren]], [[Texte/Misc/Anki]]
+[[Mehrzahl]], [[mehrfach]], [[Mehrdeutigkeit]], [[vermehren]], [[Texte/Misc/Anki]], [[zahlreich]]

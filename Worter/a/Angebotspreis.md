@@ -1,1 +1,1 @@
-, [[anbieten]]
+, [[anbieten]], [[Angebot]]

@@ -1,1 +1,1 @@
-, [[Vernichtung]]
+, [[Vernichtung]], [[Wegfall]], [[Streichung]]

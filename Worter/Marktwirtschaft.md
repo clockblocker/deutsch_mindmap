@@ -28,4 +28,4 @@ G: der [[Marktwirtschaft]], der [[Marktwirtschaften]]
 D: der [[Marktwirtschaft]], den [[Marktwirtschaften]]  
 
 ---
-[[marktwirtschaftlich]], [[wirtschaften]], [[Marktwirtschaftler]], [[Markt]], [[Wirtschaftsform]], [[berücksichtigen]], [[Wettbewerbsgesellschaft]]
+[[marktwirtschaftlich]], [[wirtschaften]], [[Marktwirtschaftler]], [[Markt]], [[Wirtschaftsform]], [[berücksichtigen]], [[Wettbewerbsgesellschaft]], [[Angebot]]

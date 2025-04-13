@@ -1,1 +1,1 @@
-, [[anreißen]], [[tippen]], [[Streichholz]], [[gestrichen]], [[reinschreiben]]
+, [[anreißen]], [[tippen]], [[Streichholz]], [[gestrichen]], [[reinschreiben]], [[Streichung]]

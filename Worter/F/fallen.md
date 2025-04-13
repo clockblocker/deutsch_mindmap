@@ -34,4 +34,4 @@ PI: [[fallend]], PII: [[gefallen]], Zu+inf: [[zu fallen]]
 ---
 [[Fall]], [[Sturz]], [[fallend]], [[Fallhöhe]], [[Fallgeschwindigkeit]]
 
-[[aufstehen]], [[stolpern]], [[plumpsen]], [[ausfallen]], [[absinken]]
+[[aufstehen]], [[stolpern]], [[plumpsen]], [[ausfallen]], [[absinken]], [[Wegfall]]

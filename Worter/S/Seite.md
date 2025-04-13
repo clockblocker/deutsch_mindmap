@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Seite]], [[Seiten]], [[Seite]], [[Seiten]], [[Seite]], [[Seiten]], [[Seite]], [[Seiten]]
 
 ---
-#Substantiv #Feminin, [[Rückseite]], [[Seitenzahlen]], [[seinerseits]]
+#Substantiv #Feminin, [[Rückseite]], [[Seitenzahlen]], [[seinerseits]], [[einerseits]]

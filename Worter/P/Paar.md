@@ -1,1 +1,1 @@
-, [[Ehepaar]]
+, [[Ehepaar]], [[paaren]]

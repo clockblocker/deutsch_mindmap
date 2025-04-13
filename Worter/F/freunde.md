@@ -25,4 +25,4 @@ D: dem [[Freund]], den [[Freunden]]
 [[befreunden]], [[Freundschaft]], [[freundlich]], [[Freundin]], [[freundschaftlich]], [[Freundschaftsdienst]]
 
 -
-, [[Verwandte]]
+, [[Verwandte]], [[Privatleben]]

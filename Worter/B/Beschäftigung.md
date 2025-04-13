@@ -25,4 +25,4 @@ D: der [[Beschäftigung]], den [[Beschäftigungen]]
 
 ---
 [[beschäftigen]], [[schäftig]], [[Beschäftigungsgrad]], [[Beschäftigungstherapie]], [[Beschäftigungsverbot]]
-, [[Arbeitsstelle]], [[Berufstätigkeit]]
+, [[Arbeitsstelle]], [[Berufstätigkeit]], [[Beschäftigte]]

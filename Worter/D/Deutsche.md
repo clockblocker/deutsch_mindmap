@@ -26,4 +26,4 @@ G: der [[deutschen]], der [[deutschen]]
 D: der [[deutschen]], den [[deutschen]]
 
 
-[[verwenigere]]
+[[verwenigere]], [[fehlen]]

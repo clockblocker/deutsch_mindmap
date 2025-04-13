@@ -3,6 +3,10 @@
 ---
 *[[3  Ein Selbstversuch als Hobbybäuerin#^13|^]]* Wir [[gerieten]] über die Frage, wie weit man Salat von [[Radieschen]] [[fernhalten]] sollte, in einen [[lächerlichen]] [[Streit]]. ^13
 
+
+- Erklären Sie, warum klassische [[Arbeitszeitmodelle]] durch Digitalisierung unter Druck [[geraten]]. 
+
+
 💡 [[raten]], [[gelangen]]
 
 ---
@@ -56,4 +60,4 @@ sie, [[geraten]], [[gerieten]], [[geraten]], [[gerieten]], [[geraten]]
 Adjektive: [[geratend]], [[geratender]], [[geratendst]]
 
 ---
-[[geratender]], [[geratendes]], [[geratende]], [[geratenden]], [[geratendem]], [[geratenderer]], [[geratenderes]], [[geratendere]], [[geratenderen]], [[geratenderem]], [[geratendster]], [[geratendstes]], [[geratendste]], [[geratendsten]], [[geratendstem]]
+[[geratender]], [[geratendes]], [[geratende]], [[geratenden]], [[geratendem]], [[geratenderer]], [[geratenderes]], [[geratendere]], [[geratenderen]], [[geratenderem]], [[geratendster]], [[geratendstes]], [[geratendste]], [[geratendsten]], [[geratendstem]], [[Arbeitszeitmodell]]

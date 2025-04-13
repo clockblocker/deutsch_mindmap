@@ -32,4 +32,4 @@ P: [[bequemen]], [[bequemeren]], [[bequemsten]]
 
 [[bequem]], [[geeignet]]
 , [[schwer]]
-, [[gelegen]], [[unternehmerisch]], [[faul]]
+, [[gelegen]], [[unternehmerisch]], [[faul]], [[ergonomisch]]

@@ -1,1 +1,1 @@
-, [[hinzufügen]]
+, [[hinzufügen]], [[Streichung]]

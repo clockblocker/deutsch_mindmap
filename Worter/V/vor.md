@@ -2,4 +2,4 @@
 , [[vorangehen]]
 , [[Vorbild]]
 , [[durch]]
-, [[bevorzugen]], [[Vorbeugung]], [[Voraussetzung]], [[vorrangig]], [[vorweisen]], [[vorhanden]], [[Vorschlag]], [[Vorliebe]], [[vorher]], [[voraussetzen]], [[vorübergehend]], [[vorbeugen]]
+, [[bevorzugen]], [[Vorbeugung]], [[Voraussetzung]], [[vorrangig]], [[vorweisen]], [[vorhanden]], [[Vorschlag]], [[Vorliebe]], [[vorher]], [[voraussetzen]], [[vorübergehend]], [[vorbeugen]], [[vorbeugend]]

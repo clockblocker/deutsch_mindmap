@@ -1,1 +1,1 @@
-, [[vorbeugen]]
+, [[vorbeugen]], [[vorbeugend]]

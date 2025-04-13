@@ -5,6 +5,9 @@ haben [[geregelt]]
 ---
 Sprechen Sie mit meiner Agentin, Sascha - vielleicht können Sie das beide [[regeln]]
 
+- Diskutieren Sie, ob das Recht auf Nicht-[[Erreichbarkeit]] [[gesetzlich]] [[geregelt]] werden sollte.  
+
+
 DIE GLEICHEN [[REGELN]] GELTEN!  
 
 ---

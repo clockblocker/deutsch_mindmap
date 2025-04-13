@@ -1,3 +1,3 @@
 🤝 [[anbieten]]
 
-[[angeboten]]
+[[angeboten]], [[Angebot]]

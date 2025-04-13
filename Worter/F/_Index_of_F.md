@@ -436,7 +436,7 @@
  [[Worter/F/fehle|fehle]]
  [[Worter/F/Fehleinschätzung|Fehleinschätzung]]
  [[Worter/F/fehlen Sie|fehlen Sie]]
- [[Worter/F/fehlen|fehlen]]
+ [[fehlen|fehlen]]
  [[Worter/F/fehlend|fehlend]]
  [[Worter/F/fehlende|fehlende]]
  [[Worter/F/fehlendem|fehlendem]]

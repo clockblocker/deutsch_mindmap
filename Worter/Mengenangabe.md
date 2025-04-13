@@ -8,7 +8,7 @@ die [[Mengenangaben]]
 ---
 = [[Quantität]], [[Amount]], [[Zahl]]
 ≈ [[Menge]], [[Maßzahl]], [[Größe]], [[Volumen]]
-≠ [[Zuwenig]], [[Mangel]], [[Fehlen]]
+≠ [[Zuwenig]], [[Mangel]], [[fehlen]]
 
 ---
 quantity, amount

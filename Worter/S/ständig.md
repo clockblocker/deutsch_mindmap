@@ -45,4 +45,4 @@ Verwandte Ausdrücke:
 
 [[manchmal]] ≠ [[immer]]
 [[manchmal]] ≠ [[nie]]
-[[manchmal]] ≈ [[selten]], [[selbständig]], [[einmal]], [[verständigen]], [[durchgängig]]
+[[manchmal]] ≈ [[selten]], [[selbständig]], [[einmal]], [[verständigen]], [[durchgängig]], [[chronisch]]

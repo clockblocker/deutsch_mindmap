@@ -3,6 +3,9 @@
 ---
 - [[eingehen|Gehen]] *Sie auf die Situation in Ihrem Heimatland oder einem anderen Land* [[eingehen|ein]]
 
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[eingehen]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
+
+
 Simon braucht ein bisschen mehr Budget für sein neues Projekt. Aber wird er es bekommen? Jannis, sein Chef, ist [[eigentlich]] ein netter Mensch, doch er [[eingehen|geht]] nicht gern [[Risiken]] ein. 
 
 ---

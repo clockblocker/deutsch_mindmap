@@ -1,1 +1,1 @@
-, [[Kürzung]], [[Je mehr]], [[Wachstum]], [[Reduktion]], [[Verringerung]]
+, [[Kürzung]], [[Je mehr]], [[Wachstum]], [[Reduktion]], [[Verringerung]], [[Verbesserung]]

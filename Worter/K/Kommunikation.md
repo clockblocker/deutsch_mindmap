@@ -1,1 +1,1 @@
-, [[Unterhaltung]], [[Verbindung]], [[Kommunikationsstärke]], [[Behördenkorrespondenz]]
+, [[Unterhaltung]], [[Verbindung]], [[Kommunikationsstärke]], [[Behördenkorrespondenz]], [[Kommunikationskultur]]

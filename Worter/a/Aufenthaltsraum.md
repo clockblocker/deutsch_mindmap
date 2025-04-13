@@ -1,1 +1,1 @@
-, [[Wohnzimmer]]
+, [[Wohnzimmer]], [[Pausenraum]]

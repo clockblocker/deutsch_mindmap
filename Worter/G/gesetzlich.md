@@ -2,11 +2,14 @@
 nicht [[illegal]]
 
 ---
+- Diskutieren Sie, ob das Recht auf Nicht-[[Erreichbarkeit]] [[gesetzlich]] [[geregelt]] werden sollte.  
+
+
 266. Wann beginnt die [[gesetzliche]] [[Nachtruhe]] in Deutschland? (99%)
 	- [ ] wenn die Sonne untergeht
 	- [x] um 22 Uhr
 
-100. Was gehört nicht zur [[gesetzlichen]] Sozialversicherung? (93%)
+267. Was gehört nicht zur [[gesetzlichen]] Sozialversicherung? (93%)
 	- [ ] die [[gesetzliche]] [[Rentenversicherung]]
 	- [x] die [[Lebensversicherung]]
 	- [ ] die [[Arbeitslosenversicherung]]

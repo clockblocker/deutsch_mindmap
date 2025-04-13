@@ -1,1 +1,1 @@
-, [[entfallen]]
+, [[entfallen]], [[Wegfall]]

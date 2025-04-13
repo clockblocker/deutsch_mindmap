@@ -1,1 +1,1 @@
-, [[Schaffensplatz]], [[Arbeitsplatz]]
+, [[Schaffensplatz]], [[Arbeitsplatz]], [[Homeoffice]]

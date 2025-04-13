@@ -1,1 +1,1 @@
-, [[Umgang]]
+, [[Umgang]], [[Kommunikationskultur]]

@@ -1,6 +1,9 @@
 🤝 [[unterstützen]], [ʊntɪˈʃtʏtsən] | [[unterstützte]], haben [[unterstützt]]
 
 ---
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebot]]e wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
+
+
 47. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört nicht dazu? (93%)
 	- [x] Er bezahlt für alle [[Staatsangehörigen]] Urlaubsreisen.
 	- [ ] Er zahlt Kindergeld.

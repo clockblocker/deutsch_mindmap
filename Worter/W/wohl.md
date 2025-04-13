@@ -3,6 +3,9 @@
 nicht [[unwohl]]
 
 ---
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
+
+
 She [[fühlte]] sich nicht [[wohl]]
 Herr W.:  Er hat sie [[wohl]] nicht für echt gehalten.
 ANNA: … Wie war [[wohl]] Nic als Baby?  
@@ -28,4 +31,4 @@ Morpheme:
 
 ---
 #Adverb, [[11 08]], [[obwohl]], [[echt]], [[wohlfühlen]], [[wohlgeformt]], [[s1 e1]], [[Texte/Misc/Anki]]
-, [[gut]], [[Wohlstand]], [[wohltätig]], [[Wohltätigkeit]], [[Abtönungspartikeln]], [[sowohl]], [[Wohlbefinden]]
+, [[gut]], [[Wohlstand]], [[wohltätig]], [[Wohltätigkeit]], [[Abtönungspartikeln]], [[sowohl]], [[Wohlbefinden]], [[Arbeitsumfeld]]

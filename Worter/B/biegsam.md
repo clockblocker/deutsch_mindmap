@@ -1,1 +1,1 @@
-, [[steif]], [[verbiegen]]
+, [[steif]], [[verbiegen]], [[flexibel]]

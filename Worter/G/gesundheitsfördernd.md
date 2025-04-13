@@ -1,1 +1,1 @@
-, [[krankheitsbedingt]]
+, [[krankheitsbedingt]], [[ergonomisch]]

@@ -41,4 +41,4 @@ Morpheme: [[aus]][[geh]][[en]]
 
 Partizip I: [[ausgehend]], Partizip II: [[ausgegangen]]
 
-[[ausgehen]] - [[aus]] = [[gehen]], [[Extra 8]], [[brennen]]
+[[ausgehen]] - [[aus]] = [[gehen]], [[Extra 8]], [[brennen]], [[münden]]

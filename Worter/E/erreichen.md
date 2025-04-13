@@ -49,4 +49,4 @@ PI: [[erreichend]], PII: [[erreicht]], Zu+inf: [[zu erreichen]]
 
 , [[schaden]], [[reichen]]
 , [[erreichbar]], [[einholen]], [[wodurch]], [[w-l]]
-, [[zusammenbekommen]], [[erfüllen]], [[Verknüpfung]], [[erwerben]]
+, [[zusammenbekommen]], [[erfüllen]], [[Verknüpfung]], [[erwerben]], [[münden]]

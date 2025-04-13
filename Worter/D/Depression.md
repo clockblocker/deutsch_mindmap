@@ -1,1 +1,1 @@
-, [[deprimiert]], [[Stimmung]]
+, [[deprimiert]], [[Stimmung]], [[Burnout]]

@@ -25,3 +25,6 @@ N: der [[Arbeitsdruck]], die [[Arbeitsdrücke]]
 A: den [[Arbeitsdruck]], die [[Arbeitsdrücke]]
 G: des [[Arbeitsdrucks]], der [[Arbeitsdrücke]]
 D: dem [[Arbeitsdruck]], den [[Arbeitsdrücken]]
+
+
+#Maskulin 

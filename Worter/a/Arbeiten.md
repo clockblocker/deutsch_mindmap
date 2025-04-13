@@ -1,3 +1,3 @@
 🔴 die [[arbeit 1]]
 , [[lauben]], [[Arbeitsgericht]], [[Arbeitsplatz]], [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Schwarzarbeiter]], [[Schichtarbeiter]], [[arbeitsunfähig]], [[Zwangsarbeit]], [[schlafen]], [[Worter/A/Arbeit]], [[Arbeitsbedingungen]]
-, [[erholen]], [[bemüht]], [[bestreben]], [[verarbeiten]], [[ticken]], [[abarbeiten]], [[Arbeitsdruck]], [[Arbeitsstelle]], [[Wochenendarbeit]], [[Berufstätigkeit]]
+, [[erholen]], [[bemüht]], [[bestreben]], [[verarbeiten]], [[ticken]], [[abarbeiten]], [[Arbeitsdruck]], [[Arbeitsstelle]], [[Wochenendarbeit]], [[Berufstätigkeit]], [[Arbeitszeitmodell]]

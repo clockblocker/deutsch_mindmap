@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[anwesend]], [[anwesender]], [[anwesende]], [[anwesenderes]], [[anwesenden]], [[anwesendem]], [[anwesender]], [[anwesenden]]
 [[anwesendste]], [[anwesendster]], [[anwesendste]], [[anwesendster]], [[anwesendsten]], [[anwesendsten]]
-, [[Anwesenheitspflicht]], [[fehlend]]
+, [[Anwesenheitspflicht]], [[fehlend]], [[Abwesenheit]]

@@ -1,1 +1,1 @@
-, [[Gespräch]], [[Unterhaltung]]
+, [[Gespräch]], [[Unterhaltung]], [[Kommunikationskultur]]

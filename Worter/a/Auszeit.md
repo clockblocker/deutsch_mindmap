@@ -1,1 +1,1 @@
-, [[Urlaub]]
+, [[Urlaub]], [[Abwesenheit]]

@@ -1,1 +1,1 @@
-[[Reihenfolge]]
+[[Reihenfolge]], [[chronisch]]

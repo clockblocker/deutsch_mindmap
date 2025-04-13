@@ -1,2 +1,2 @@
 [[Fähigkeit]]
-, [[selbstbewusst]]
+, [[selbstbewusst]], [[mangeln]]

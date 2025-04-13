@@ -33,4 +33,4 @@ Einzigartige mögliche Formen: [[Tätigkeit]], [[Tätigkeiten]], [[Tätigkeit]],
 #Substantiv #Feminin
 
 , [[Bewegung]], [[Worter/A/Arbeit]], [[Erlebnis]]
-, [[Arbeitsauftrag]], [[Erwerbstätigkeit]], [[Berufstätigkeit]], [[berufstätig]]
+, [[Arbeitsauftrag]], [[Erwerbstätigkeit]], [[Berufstätigkeit]], [[berufstätig]], [[Berufsleben]]

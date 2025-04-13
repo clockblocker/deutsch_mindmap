@@ -1,1 +1,1 @@
-, [[Produktsupport]], [[Bedienung]]
+, [[Produktsupport]], [[Bedienung]], [[Angebot]], [[Unterstützungsangebot]]

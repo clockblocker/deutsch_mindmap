@@ -27,4 +27,4 @@ Dative: der [[Diskussion]], den [[Diskussionen]]
 
 , [[Verhandlung]], [[Gespräch]]
 , [[Fragerei]], [[Besprechung]], [[Unterhaltung]], [[Vortrag]]
-, [[Wortgefecht]], [[Meinungsbildung]]
+, [[Wortgefecht]], [[Meinungsbildung]], [[Feedbackgespräch]]

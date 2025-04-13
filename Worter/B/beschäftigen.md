@@ -47,7 +47,7 @@ Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 Ich: [[beschäftige]], [[Beschäftigte]], -, [[beschäftige]], [[Beschäftigte]]  
 Du: [[beschäftigst]], [[beschäftigtest]], [[beschäftige]], [[beschäftigest]], [[beschäftigtest]]  
 Er/sie/es: [[beschäftigt]], [[Beschäftigte]], -, [[beschäftige]], [[Beschäftigte]]  
-Wir: [[beschäftigen]], [[beschäftigten]], -, [[beschäftigen]], [[beschäftigten]]  
+Wir: [[beschäftigen]], [[Beschäftigten]], -, [[beschäftigen]], [[Beschäftigten]]  
 Ihr: [[beschäftigt]], [[beschäftigtet]], [[beschäftigt]], [[beschäftiget]], [[beschäftigtet]]  
 
 Partizip I: [[beschäftigend]], 

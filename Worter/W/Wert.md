@@ -13,6 +13,8 @@ Eine gute Arbeit ist viel [[wert]].
 
 [[0 checklist#^7|(q)]] Unsere sieben Tipps für die Wohnungssuche [[verraten]] dir, worauf Vermieter [[Wert]] legen und wie die ideale [[Wohnungsbewerbung]] aussieht. ^7
 
+
+
 ---
 = [[Bedeutung]], [[Wichtigkeit]], [[Bedeutsamkeit]], [[Geltung]],
 ≈ [[Gewicht]], [[Bedeutung]], [[Relevanz]], [[Rang]]
@@ -35,4 +37,4 @@ D: dem [[Wert]], den [[Werten]]
 , [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]], [[Betrag]]
 
 
-#Maskulin , [[Stellenwert]], [[Selbstwert]]
+#Maskulin , [[Stellenwert]], [[Selbstwert]], [[wertschätzen]]

@@ -1,1 +1,1 @@
-, [[steif]], [[flüssigen]], [[wenden]], [[anstarrten]], [[starren]], [[wendig]], [[weich]]
+, [[steif]], [[flüssigen]], [[wenden]], [[anstarrten]], [[starren]], [[wendig]], [[weich]], [[flexibel]]

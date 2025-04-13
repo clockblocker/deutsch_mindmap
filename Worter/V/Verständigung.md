@@ -1,1 +1,1 @@
-, [[Abkommen]], [[verständigen]]
+, [[Abkommen]], [[verständigen]], [[Kommunikationskultur]]

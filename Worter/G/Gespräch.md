@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gesprächs]], [[Gespräche]], [[Gesprächen]]
 
 ---
-#Substantiv #Neuter, [[Partygespräch]], [[Sondierungsgespräche]]
+#Substantiv #Neuter, [[Partygespräch]], [[Sondierungsgespräche]], [[Feedbackgespräch]]

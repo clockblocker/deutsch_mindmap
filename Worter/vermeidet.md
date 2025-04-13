@@ -1,2 +1,3 @@
 
 🙅 [[vermeiden]]
+, [[mangeln]]

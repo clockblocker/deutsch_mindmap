@@ -1,1 +1,1 @@
-, [[Risiko]], [[wagen]], [[Risikobereitschaft]]
+, [[Risiko]], [[wagen]], [[Risikobereitschaft]], [[sichern]]

@@ -38,4 +38,4 @@ D: der [[Herausforderung]], den [[Herausforderungen]]
 ---
 [[herausfordern]], [[herausfordernd]], [[fordernd]], [[fordern]], [[verwandeln]], [[bewältigen]]
 
-#Feminin , [[berufstätig]]
+#Feminin , [[berufstätig]], [[Belastung]]

@@ -25,4 +25,6 @@ D: dem [[Betrieb]], den [[Betrieben]]
 ---
 [[betreiben]], [[betrieblich]], [[Betriebsrat]], [[Betriebswirtschaft]]
 [[Haushalt]]
-, [[Anlage]], [[Bedienung]]
+, [[Anlage]], [[Bedienung]], [[Betriebssport]]
+
+#Maskulin 

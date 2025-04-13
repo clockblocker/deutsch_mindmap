@@ -5,7 +5,7 @@ die [[Mängel]]
 Andererseits ist der [[Bewegungsmangel]] im Home-Office ein großes Problem.
 
 ---
-= [[Fehlen]], [[Defizit]], [[Unzulänglichkeit]],  [[knapp]], [[Bedürfnis]],
+= [[fehlen]], [[Defizit]], [[Unzulänglichkeit]],  [[knapp]], [[Bedürfnis]],
 ≈ [[Knappheit]], [[Verlust]], [[Bedarf]], [[Schwäche]], [[Versorgung]], [[Armut]], [[Ausrüstung]],
 ≠ [[Überfluss]], [[Fülle]], [[Überschuss]], [[Mengenangabe]], [[Mehrheit]], [[Unmenge]], [[Vielzahl]],[[Wohlstand]]
 

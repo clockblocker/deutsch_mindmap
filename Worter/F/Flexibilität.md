@@ -1,1 +1,1 @@
-, [[Freizügigkeit]], [[Festlegung]]
+, [[Freizügigkeit]], [[Festlegung]], [[flexibel]]

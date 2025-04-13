@@ -27,4 +27,4 @@ D: dem [[Urlaub]], den [[Urlauben]]
 
 ---
 -
-, [[Bindungsurlaub]], [[Reise]]
+, [[Bindungsurlaub]], [[Reise]], [[Abwesenheit]]

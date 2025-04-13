@@ -1,3 +1,3 @@
 [[fehlen]]
 
-[[erfahren]]
+[[erfahren]], [[abwesend]]

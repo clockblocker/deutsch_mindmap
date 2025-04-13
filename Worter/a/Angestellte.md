@@ -23,4 +23,4 @@ G: der [[Angestellten]], der [[Angestellten]]
 D: der [[Angestellten]], den [[Angestellten]]  
 
 ---
-[[anstellen]], [[Anstellung]], [[angestellt]], [[Angestelltenversicherung]], [[Erwerbstätige]], [[Büroangestellte]], [[Belegschaft]], [[Bedienung]]
+[[anstellen]], [[Anstellung]], [[angestellt]], [[Angestelltenversicherung]], [[Erwerbstätige]], [[Büroangestellte]], [[Belegschaft]], [[Bedienung]], [[Beschäftigte]]

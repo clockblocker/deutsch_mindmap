@@ -1,1 +1,1 @@
-, [[Erwerbstätige]]
+, [[Erwerbstätige]], [[Beschäftigte]]

@@ -3,6 +3,9 @@
 ---
 ###### 🧘‍♀️ Burnout [[verhindern]] – Was können Arbeitgebende tun?
 
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^8|^]]* Nur so lässt sich [[langfristig]] die Gesundheit der [[Belegschaft]] [[sichern]] und ein Burnout [[verhindern]]. ^8
+
+
 ---
 =   [[unterbinden]], [[verwehren]], [[blockieren]], [[abhalten]], [[vermeiden]]
 ≈= [[aufhalten]], [[stoppen]], [[hemmen]], [[behindern]], [[verstopfen]]

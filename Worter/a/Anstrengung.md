@@ -24,4 +24,4 @@ D: der [[Anstrengung]], den [[Anstrengungen]]
 
 ---
 [[anstrengen]], [[streng]], [[anstrengend]], [[Anstrengungsbereitschaft]], [[Anstrengungsgrad]]
-, [[bestreben]]
+, [[bestreben]], [[Belastung]]

@@ -51,4 +51,4 @@ D: dem [[Gesetz]], den [[Gesetzen]]
 ---
 [[gesetzlich]], [[Gesetzgeber]], [[Gesetzgebung]], [[ungesetzlich]], [[Gesetzentwurf]], [[volljährig]], [[Faustrecht]], [[Strafgesetz]], [[gesetzgebend]], [[verbot]]
 
-#Neuter 
+#Neuter , [[Arbeitnehmerrecht]]

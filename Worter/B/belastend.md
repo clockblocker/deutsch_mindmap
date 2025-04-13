@@ -1,1 +1,1 @@
-, [[schwer]], [[leicht]], [[anstrengend]]
+, [[schwer]], [[leicht]], [[anstrengend]], [[Belastung]]

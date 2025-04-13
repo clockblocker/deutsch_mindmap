@@ -1,2 +1,2 @@
 
-, [[verschwinden]], [[entfallen]]
+, [[verschwinden]], [[entfallen]], [[Wegfall]]

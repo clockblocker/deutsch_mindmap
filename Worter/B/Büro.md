@@ -28,4 +28,4 @@ D: dem [[Büro]], den [[Büros]]
 , [[Niederlassung]], [[Büroangestellte]], [[Bürofläche]], [[Arbeitsstelle]]
 
 
-#Neuter , [[Abteilung]], [[Bildungseinrichtung]]
+#Neuter , [[Abteilung]], [[Bildungseinrichtung]], [[Homeoffice]]

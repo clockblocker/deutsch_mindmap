@@ -4,6 +4,10 @@ die [[Vorbilder]]
 ---
 [[2 prap.md#^15|(q)]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Worter/R/Regel]] ^15
 
+
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnisse]] der Mitarbeitenden [[eingehen]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
+
+
 ---
 = [[Ideal]], [[Muster]], [[Leitbild]]
 ≈ [[Beispiel]], [[Inspiration]], [[Modell]], [[Vorbildfunktion]], [[Held]], [[Heiliger]],
@@ -25,3 +29,5 @@ D: dem [[Vorbild]], den [[Vorbildern]]
 ---
 [[vor]], [[Bild]], [[vorbildlich]], [[Vorbildfunktion]], [[Vorbildrolle]]
 , [[Heldin]]
+
+#Neuter 

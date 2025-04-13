@@ -1,1 +1,2 @@
 🤔 [[entstehen]]
+, [[mangeln]], [[chronisch]], [[Belastung]]

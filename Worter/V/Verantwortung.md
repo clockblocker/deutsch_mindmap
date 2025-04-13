@@ -4,6 +4,8 @@ die [[Verantwortungen]]
 ---
 Er würde gern mehr [[Verantwortung]] übernehmen, hat er zum Chef gesagt. Lena ist klar, was das bedeutet: Sie wird die Arbeit machen und Bastian wird den Erfolg für sich verbuchen. 
 
+*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^6|^]]* Unternehmen tragen eine [[wesentlich]]e [[Verantwortung]] für das [[Wohlbefinden]] ihrer [[Mitarbeitenden]]. ^6
+
 1. [[Woraus]] [[begründet]] sich [[Deutschlands]] [[besondere]] [[Verantwortung]] für Israel? (100%)
 	- [ ] aus der [[Mitgliedschaft]] in der Europäischen Union (EU)
 	- [x] aus den nationalsozialistischen [[Verbrechen]] gegen Juden
@@ -33,3 +35,6 @@ D: der [[Verantwortung]], den [[Verantwortungen]]
 , [[Schuld]], [[Pflicht]]
 , [[strafmündig]], [[Verpflichtung]], [[Verantwortungsbewusstsein]]
 , [[verantwortungsvoll]], [[verantwortungsbewusst]]
+
+
+#Feminin 
