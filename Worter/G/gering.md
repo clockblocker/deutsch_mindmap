@@ -32,4 +32,4 @@ P: [[geringen]], [[geringeren]], [[geringsten]]
 [[Geringfügigkeit]], [[geringschätzig]], [[Geringverdiener]], [[Geringfügigkeit]]
 
 [[speziellen]], [[prima]], [[breit]], [[bitterlich]], [[gewaltigen]], [[gewaltig]], [[klein]], [[speziell]]
-, [[viel]], [[verringern]], [[Million]], [[erheblich]], [[Verringerung]], [[zahlreich]]
+, [[viel]], [[verringern]], [[Million]], [[erheblich]], [[Verringerung]], [[zahlreich]], [[unschätzbar]]

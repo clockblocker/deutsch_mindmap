@@ -1,1 +1,1 @@
-, [[Musterlösung]]
+, [[Musterlösung]], [[Lösungsansatz]]

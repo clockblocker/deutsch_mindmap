@@ -1,1 +1,1 @@
-, [[weitergehen]]
+, [[weitergehen]], [[Verzögerung]]

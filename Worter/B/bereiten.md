@@ -1,6 +1,8 @@
 🍽️ [[bereiten]], [bəˈraɪ̯tən] | [[bereitete]], haben [[bereitet]]
 
 ---
+*[[06-C1-Schreiben-T2#^3|^]]* Es gibt keine Restaurants oder Supermärkte in der [[Nähe]] und in der [[Teeküche]] kann man sich auch kein Essen [[zubereiten]]. ^3
+
 
 ---
 [[vorbereiten]] - [[vor]] = [[bereiten]] / get ready

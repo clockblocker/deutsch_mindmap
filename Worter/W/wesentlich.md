@@ -3,7 +3,10 @@
 ---
 [[grundlegend]] = [[grundsätzlich]] = [[zugrundeliegende]] = [[wesentlich]] = [[bedeutend]]
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^6|^]]* Unternehmen tragen eine [[wesentlich]]e [[Verantwortung]] für das [[Wohlbefinden]] ihrer [[Mitarbeitenden]]. ^6
+*[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^3|^]]* Dennoch gibt es auch [[wesentliche]] Nachteile, die sowohl für Arbeitnehmer als auch für Arbeitgeber ins [[Gewicht]] fallen können. ^3
+
+
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^6|^]]* Unternehmen tragen eine [[wesentlich]]e [[Verantwortung]] für das [[Wohlbefinden]] ihrer [[Mitarbeitenden]]. ^6
 
 , [[überflüssig]], [[egal]], [[grundsätzlich]], [[zugrundeliegende]]
 , [[sonstig]], [[grundlegend]], [[vorrangig]], 
@@ -28,4 +31,4 @@ essential, significant
 Adjektive: [[wesentlich]], [[wesentlicher]], [[wesentlichsten]]
 
 ---
-[[wesentlicher]], [[wesentliches]], [[wesentliche]], [[wesentlichen]], [[wesentlichem]], [[wesentlicherer]], [[wesentlicheres]], [[wesentlichere]], [[wesentlicheren]], [[wesentlicherem]], [[wesentlichstener]], [[wesentlichstenes]], [[wesentlichstene]], [[wesentlichstenen]], [[wesentlichstenem]], [[erheblich]]
+[[wesentlicher]], [[wesentliches]], [[wesentliche]], [[wesentlichen]], [[wesentlichem]], [[wesentlicherer]], [[wesentlicheres]], [[wesentlichere]], [[wesentlicheren]], [[wesentlicherem]], [[wesentlichstener]], [[wesentlichstenes]], [[wesentlichstene]], [[wesentlichstenen]], [[wesentlichstenem]], [[erheblich]], [[essenziell]]

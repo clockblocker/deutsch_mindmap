@@ -5,6 +5,12 @@ haben [[erhalten]]
 ---
 Du [[erhältst]] morgen ein Geschenk.
 
+*[[05-C1-Schreiben-T2#^2|^]]* [[Daraufhin]] [[erhielten]] Sie von Ihrer [[Vorgesetzten]] eine E-Mail mit dem [[Hinweis]] darauf, dieses [[Verhalten]] in Zukunft zu [[unterlassen]]. ^2
+
+
+*[[02-C1-Schreiben-T2#^2|^]]* Ihr Teamleiter sollte Ihnen schon vor einer Woche eine [[Grobplanung]] für die Präsentation schicken, die Sie [[bisher]] - trotz [[wiederholter]] [[Nachfrage]] - noch nicht [[erhalten]] haben. ^2
+
+
 [[amazon.md#^2|(q)]] [[Produktsupport]] [[erhalten]] ^2
 
 [[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9

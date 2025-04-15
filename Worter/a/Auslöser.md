@@ -1,1 +1,1 @@
-, [[Hauptursache]]
+, [[Hauptursache]], [[Ursache]]

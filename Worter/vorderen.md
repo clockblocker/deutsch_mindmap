@@ -4,7 +4,7 @@
 Andere [[beherbergen]] Science-Fiction-Taschenbücher in [[Zweierreihen]], die hintere auf alten [[Pappkartons]] oder [[Holzplatten]] [[höhergestellt]], so dass man die Titel über die Bücher der [[vorderen]] [[Reihe]] hinweg lesen kann.
 
 ---
-= [[vorgehen]], [[voranstellen]], [[voranschreiten]]
+= [[Vorgehen]], [[voranstellen]], [[voranschreiten]]
 ≈ [[fortschrittlich]], [[progressiv]], [[vorwärts]]
 ≠ [[zurückbleiben]], [[stagnieren]], [[rückständig]]
 

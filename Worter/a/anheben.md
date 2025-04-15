@@ -1,1 +1,1 @@
-, [[heben]], [[erheben]], [[hochziehen]], [[erhöhen]]
+, [[heben]], [[erheben]], [[hochziehen]], [[erhöhen]], [[steigern]], [[senken]], [[senken]]

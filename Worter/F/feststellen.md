@@ -3,6 +3,9 @@
 haben [[festgestellt]]
 
 ---
+*[[01-C1-Schreiben-T2#^10|^]]* Bei Ihrer [[Rückkehr]] [[feststellen|stellen]] Sie überrascht fest, dass Sie nicht mehr allein, sondern zusammen mit sechs Kolleginnen und Kollegen in einem Raum sitzen. ^10
+
+
 Wenn man die vielen Galerien und Ausstellungen in Banken und Einkaufszentren dazuzählt, muss man [[feststellen]]: Es gehen mehr Menschen 10 ins Museum als ins Kino.
 
 *[[3 Soll man Geld spenden?#^6|^]]* Wenn man jedoch die Frage stellt, ob es für einen Menschen *nützlich* ist, sich in [[wohltätige]] Aktivitäten [[einzubringen]], ist [[festzustellen]], dass der Mensch mit der Entwicklung des Internets jede Gruppe nach seinen Interessen finden kann. ^6
@@ -34,4 +37,4 @@ Morpheme: [[fest]][[stell]][[en]]
 Partizip I: [[festellend]], Partizip II: [[festgestellt]]
 
 [[feststellen]] - [[fest]] = [[stellen]]
-, [[ausrechnen]], [[herausfinden]], [[besagen]]
+, [[ausrechnen]], [[herausfinden]], [[besagen]], [[Rückkehr]]

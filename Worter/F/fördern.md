@@ -4,6 +4,10 @@
 [[M1A1.md#^1|(q)]] Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn? ^1
 
 
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^9|^]]* Die [[informell]]en [[Gespräch]]e in der [[Kaffeepause]] oder der direkte [[Blickkontakt]] bei [[Meetings]] tragen [[entscheidend]] zur [[Teamentwicklung]] bei und [[fördern]] ein [[Gefühl]] der [[Zugehörigkeit]]. ^9
+
+
+
 Diskutieren Sie, wie ein [[bewusster]] Umgang mit digitalen Medien [[gefördert]] werden könnte.  
 
 
@@ -37,4 +41,4 @@ PI: [[fördernd]], PII: [[gefördert]], Zu+inf: [[zufördern]]
 ---
 [[Förderung]], [[Förderer]], [[Förderung]], [[förderlich]], [[Förderband]]
 , [[schaden]], [[unterstützen]]
-, [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]]
+, [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]], [[steigern]]

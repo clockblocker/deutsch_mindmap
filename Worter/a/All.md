@@ -2,7 +2,7 @@
 nicht [[keine]], [[manche]], [[einige]] 
 
 ---
-*[[Hielt]] man für Ufos aus dem [[All]]*
+*[[Hielt]] man für Ufos aus dem [[Worter/A/All]]*
 *Darum schickte ein General*  
 
 ---
@@ -18,7 +18,7 @@ Antonyme:
 
 ---  
 Morpheme:
-[[All]]
+[[Worter/A/All]]
 
 ---
 #Adjective [[Worter/A/Alle]]

@@ -1,1 +1,1 @@
-, [[Wahlpflicht]], [[Versicherungspflicht]], [[Notwendigkeit]]
+, [[Wahlpflicht]], [[Versicherungspflicht]], [[Notwendigkeit]], [[Sachzwang]]

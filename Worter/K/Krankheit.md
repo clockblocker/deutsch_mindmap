@@ -1,1 +1,1 @@
-, [[Fieber]], [[krankheitsbedingt]]
+, [[Fieber]], [[krankheitsbedingt]], [[Gesundheit]], [[Pandemie]]

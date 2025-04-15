@@ -1,1 +1,1 @@
-[[Treu]], [[geduldig]], [[standhaft]], [[unzuverlässig]], [[langfristig]], [[dauerhaft]]
+[[Treu]], [[geduldig]], [[standhaft]], [[unzuverlässig]], [[langfristig]], [[dauerhaft]], [[langjährig]]

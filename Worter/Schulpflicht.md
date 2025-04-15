@@ -27,4 +27,4 @@ G: der [[Schulpflicht]], der [[Schulpflichten]]
 D: der [[Schulpflicht]], den [[Schulpflichten]]  
 
 ---
-[[schulpflichtig]], [[Schule]], [[Pflicht]], [[Bildungssystem]], [[Schulgesetz]]
+[[schulpflichtig]], [[Schule]], [[Pflicht]], [[Bildungssystem]], [[Schulgesetz]], [[Arbeitsform]]

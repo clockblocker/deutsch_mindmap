@@ -2,7 +2,7 @@
 (no plural form)
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^9|^]]* [[Vorbeugend]] lässt sich eine gesunde Unternehmenskultur schaffen, wenn flexible Modelle, regelmäßige [[Feedbackgespräche]] und eine offene [[Kommunikationskultur]] [[etabliert]] werden. ^9
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^9|^]]* [[Vorbeugend]] lässt sich eine gesunde Unternehmenskultur schaffen, wenn flexible Modelle, regelmäßige [[Feedbackgespräche]] und eine offene [[Kommunikationskultur]] [[etabliert]] werden. ^9
 
 
 ---

@@ -16,7 +16,7 @@
   "translucency": false,
   "cssTheme": "Things",
   "theme": "obsidian",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "",
   "monospaceFontFamily": "JetBrains Mono NL"
 }

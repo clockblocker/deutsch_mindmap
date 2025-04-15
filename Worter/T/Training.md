@@ -23,4 +23,4 @@ G: des [[Trainings]], der [[Trainings]]
 D: dem [[Training]], den [[Trainings]]  
 
 ---
-[[trainieren]], [[Trainer]], [[trainierbar]], [[Trainingsanzug]], [[Trainingslager]], [[Worter/S/Sport]], [[Achtsamkeitstraining]]
+[[trainieren]], [[Trainer]], [[trainierbar]], [[Trainingsanzug]], [[Trainingslager]], [[Worter/S/Sport]], [[Achtsamkeitstraining]], [[Kurs]]

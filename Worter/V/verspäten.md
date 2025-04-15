@@ -31,4 +31,4 @@ PI: [[verspätend]], PII: [[verspätet]], Zu+inf: [[zuverspaeten]]
 [[verspäten]] - [[ver]] = [[späten]] / to be late, to delay
 
 ---
-[[Verspätung]], [[verspätet]], [[verspaetetstes]]
+[[Verspätung]], [[verspätet]], [[verspaetetstes]], [[Zuspätkommen]]

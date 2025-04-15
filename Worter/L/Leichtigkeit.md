@@ -1,2 +1,2 @@
 , [[Herzeleid]], [[Last]], [[Herausforderung]]
-, [[Anstrengung]]
+, [[Anstrengung]], [[Gewicht]]

@@ -3,6 +3,8 @@
 haben [[umgezogen]]
 
 ---
+*[[01-C1-Schreiben-T2#^9|^]]* Während Ihres Urlaubs ist Ihre Firma in ein anderes Gebäude [[umgezogen]]. ^9
+
 Igitt! Ich muss mich [[umziehen]]!  
 
 Sie wollen die Sprache erlernen, um nach Deutschland [[umzuziehen]].

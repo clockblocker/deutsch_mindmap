@@ -3,6 +3,9 @@
 ---
 _Begehen_, _entgehen_, _ergehen_, _vergehen_, _zergehen_.... Welches Licht werfen wir mit diesen Verben auf eine Szene und [[wodurch]] [[erreichen]] wir den illuminierenden Effekt?
 
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^7|^]]* Die physische [[Präsenz]] [[unterstützt]] das [[gegenseitige]] [[Vertrauen]] und die [[Motivation]], die in digitalen [[Settings]] nur schwer zu [[erreichen]] sind. ^7
+
+
 *[[2 Work Life Balance#^8|^]]* _Das kann zum Beispiel dadurch_ [[erreicht]] _werden, dass_ [[Arbeitszeiten]] _klar definiert werden und_ [[Feierabend]] _wirklich Feierabend bedeutet. ^8
 
 
@@ -49,4 +52,4 @@ PI: [[erreichend]], PII: [[erreicht]], Zu+inf: [[zu erreichen]]
 
 , [[schaden]], [[reichen]]
 , [[erreichbar]], [[einholen]], [[wodurch]], [[w-l]]
-, [[zusammenbekommen]], [[erfüllen]], [[Verknüpfung]], [[erwerben]], [[münden]]
+, [[zusammenbekommen]], [[erfüllen]], [[Verknüpfung]], [[erwerben]], [[münden]], [[gegenseitig]]

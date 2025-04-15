@@ -1,1 +1,1 @@
-, [[kern]], [[wesentlich]]
+, [[kern]], [[wesentlich]], [[Gewicht]]

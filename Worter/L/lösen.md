@@ -35,4 +35,4 @@ Partizip II: [[gelöst]]
 Zu+infinitive: [[zu lösen]]
 
 ---
-[[Lösung]], [[Lösungsmittel]], [[Lösbarkeit]], [[Problemlösung]], [[Lösungsansatz]], [[verbinden]], [[knüpfen]], [[anheften]], [[verstricken]], [[wurzeln]], [[bewältigen]], [[Musterlösung]]
+[[Lösung]], [[Lösungsmittel]], [[Lösbarkeit]], [[Problemlösung]], [[Lösungsansatz]], [[verbinden]], [[knüpfen]], [[anheften]], [[verstricken]], [[wurzeln]], [[bewältigen]], [[Musterlösung]], [[Lösungsvorschlag]]

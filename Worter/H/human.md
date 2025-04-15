@@ -1,1 +1,1 @@
-, [[menschlich]], [[Sozial]]
+, [[menschlich]], [[Sozial]], [[zwischenmenschlich]]

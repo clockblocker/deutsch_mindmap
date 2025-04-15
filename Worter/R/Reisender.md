@@ -1,1 +1,1 @@
-, [[einreisen]], [[reisen]], [[verreisen]], [[Reise]]
+, [[einreisen]], [[reisen]], [[verreisen]], [[Reise]], [[Pendler]]

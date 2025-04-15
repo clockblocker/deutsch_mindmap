@@ -26,3 +26,4 @@ N: das [[Wohnzimmer]], die [[Wohnzimmer]]
 A: das [[Wohnzimmer]], die [[Wohnzimmer]]  
 G: des [[Wohnzimmers]], der [[Wohnzimmer]]  
 D: dem [[Wohnzimmer]], den 
+, [[Kantine]]

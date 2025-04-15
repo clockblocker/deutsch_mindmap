@@ -1,1 +1,1 @@
-, [[Kaffeepulver 1]], [[Fruchtsaft]]
+, [[Kaffeepulver 1]], [[Fruchtsaft]], [[Kaffeepause]], [[Kaffeepause]]

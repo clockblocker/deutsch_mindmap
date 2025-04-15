@@ -22,4 +22,4 @@ G: der [[Entfernung]], der [[Entfernungen]]
 D: der [[Entfernung]], den [[Entfernungen]]  
 
 ---
-[[entfernen]], [[entfernt]], [[fernhalten]], [[Distanz]], [[Rückzug]], [[Streichung]], [[Abwesenheit]]
+[[entfernen]], [[entfernt]], [[fernhalten]], [[Distanz]], [[Rückzug]], [[Streichung]], [[Abwesenheit]], [[Präsenz]]

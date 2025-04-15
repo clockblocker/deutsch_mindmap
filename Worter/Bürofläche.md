@@ -25,3 +25,6 @@ N: die [[Bürofläche]], die [[Büroflächen]]
 A: die [[Bürofläche]], die [[Büroflächen]]
 G: der [[Bürofläche]], der [[Büroflächen]]
 D: der [[Bürofläche]], den [[Büroflächen]]
+
+
+#Feminin 

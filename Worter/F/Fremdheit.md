@@ -1,1 +1,1 @@
-, [[Mitgliedschaft]], [[Fremde]]
+, [[Mitgliedschaft]], [[Fremde]], [[Zugehörigkeit]]

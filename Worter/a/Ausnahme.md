@@ -1,1 +1,1 @@
-, [[Umstand]], [[ausnehmen]], [[Seltenheit]]
+, [[Umstand]], [[ausnehmen]], [[Seltenheit]], [[Regelung]]

@@ -1,1 +1,1 @@
-, [[Sache]], [[sachlich]], [[Hauptursache]]
+, [[Sache]], [[sachlich]], [[Hauptursache]], [[Sachzwang]]

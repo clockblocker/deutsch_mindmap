@@ -1,1 +1,1 @@
-, [[leihen]], [[mieten]]
+, [[leihen]], [[mieten]], [[anmieten]]

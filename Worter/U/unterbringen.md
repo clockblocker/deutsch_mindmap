@@ -1,1 +1,1 @@
-, [[einlegen]], [[beherbergen]]
+, [[einlegen]], [[beherbergen]], [[Unterbringung]], [[abstellen]]

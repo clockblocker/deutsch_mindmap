@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Preises]], [[Preise]], [[Preisen]]
 
 ---
-#Substantiv #Maskulin, [[Wett]]
+#Substantiv #Maskulin, [[Wett]], [[Kurs]]

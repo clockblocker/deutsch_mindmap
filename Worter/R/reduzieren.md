@@ -1,2 +1,2 @@
 , [[beschränken]], [[verkürzen]], [[kürzen]], [[zusammenrechnen]], [[abnehmen]], [[einschränken]], [[erhöhen]], [[tausendfachen]], [[ergänzen]]
-, [[abziehen]], [[verringern]], [[abschwächen]], [[abbauen]], [[Reduktion]]
+, [[abziehen]], [[verringern]], [[abschwächen]], [[abbauen]], [[Reduktion]], [[steigern]], [[Stressreduktion]], [[senken]], [[senken]]

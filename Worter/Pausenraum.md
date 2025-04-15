@@ -2,7 +2,7 @@
 die [[Pausenräume]]
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebot]]e wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebot]]e wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
 
 
 ---
@@ -29,4 +29,4 @@ G: des [[Pausenraumes]], der [[Pausenräume]]
 D: dem [[Pausenraum]], den [[Pausenräumen]]
 
 
-#Maskulin 
+#Maskulin , [[Teeküche]]

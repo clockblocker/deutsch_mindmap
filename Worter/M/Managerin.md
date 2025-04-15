@@ -1,1 +1,1 @@
-, [[Erntehelferin]], [[Arbeitgeber]]
+, [[Erntehelferin]], [[Arbeitgeber]], [[Manager]]

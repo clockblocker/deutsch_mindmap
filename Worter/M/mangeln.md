@@ -4,7 +4,7 @@
 [[1 ADHD#^9|(q)]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
 
 
 - Erläutern Sie die Folgen [[mangelnder]] Integration für die [[Gesamtgesellschaft]].

@@ -3,6 +3,12 @@
 ---
 Ты встречаешь подругу – Du triffst deine Freundin.
 
+*[[08-C1-Schreiben-T2#^4|^]]* - Denken Sie an einen höflichen E-Mail-/[[Briefanfang]], wobei Sie [[Verständnis]] für die [[getroffene]] [[Regelung]] zeigen. ^4
+
+
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
+
+
 ---
 = [[begegnen]], [[antreffen]], [[sich treffen]]
 ≈ [[zusammentreffen]], [[vereinbaren]], [[konsultieren]]
@@ -15,9 +21,9 @@ to meet, to hit, to encounter
 [[tref]]|[[fen]]
 
 ---
-ich: [[treffe]], [[traf]], –, [[treffe]], [[träfe]]
-du: [[triffst]], [[trafst]], [[treffe]] | [[triff]], [[treffest]], [[träfest]]
-er/sie/es: [[trifft]], [[traf]], –, [[treffe]], [[träfe]]
+ich: [[Treffe]], [[traf]], –, [[Treffe]], [[träfe]]
+du: [[triffst]], [[trafst]], [[Treffe]] | [[triff]], [[treffest]], [[träfest]]
+er/sie/es: [[trifft]], [[traf]], –, [[Treffe]], [[träfe]]
 wir: [[treffen]], [[trafen]], [[treffen wir|treffen]], [[treffen]], [[träfen]]
 ihr: [[trefft]], [[traft]], [[trefft]], [[treffet]], [[träfet]]
 
@@ -34,3 +40,5 @@ PI: [[treffend]], PII: [[getroffen]], Zu+inf: [[zu treffen]]
 , [[vermeiden]]
 , [[Verabredung]]
 , [[kennenlernen]], [[messe]], [[stoßen]]
+
+#Feminin 

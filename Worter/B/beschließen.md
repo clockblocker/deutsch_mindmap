@@ -3,6 +3,9 @@
 ---
   Die Kollegen lächeln. Sie kennen [[solche]] Situationen. Und Julian [[beschließt]]: Nach der [[Besprechung]] wird er eine längere Pause machen und ein bisschen mit Maja spielen.
 
+*[[08-C1-Schreiben-T2#^1|^]]* Da der [[betriebseigene]] Parkplatz Ihrer Firma regelmäßig [[ausgelastet]] ist, hat Frau Weiß von der [[Geschäftsführung]] [[beschlossen]], dass nur noch Mitarbeitende, die von [[außerhalb]] zur Arbeit kommen, den Parkplatz benutzen dürfen. ^1
+
+
 148. Was ist eine Aufgabe der Polizei in Deutschland? (87%)
 	- [ ] das Land zu [[verteidigen]]
 	- [ ] die Bürgerinnen und Bürger [[abzuhören]]

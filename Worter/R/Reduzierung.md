@@ -1,1 +1,1 @@
-, [[Kürzung]], [[Osterweiterung]], [[Abkürzung]], [[Wegfall]], [[Streichung]]
+, [[Kürzung]], [[Osterweiterung]], [[Abkürzung]], [[Wegfall]], [[Streichung]], [[Rückgang]]

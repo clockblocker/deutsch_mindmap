@@ -1,2 +1,2 @@
 [[Worter/E/Energie]], [[Trieb]], [[treiben]]
-, [[Motor]]
+, [[Motor]], [[Motivation]]

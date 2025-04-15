@@ -11,7 +11,7 @@
 [[eingehen]] - [[ein]] = [[gehen]]              // to enter, to go in, take risk
 [[weitergehen]] - [[weiter]] = [[gehen]]   // to continue, to go on, to proceed
 [[gutgehen]] - [[gut]] = [[gehen]]             // to go well, to work out fine
-[[vorgehen]] - [[vor]] = [[gehen]]             // to proceed, to act, to go forward
+[[Vorgehen]] - [[vor]] = [[gehen]]             // to proceed, to act, to go forward
 [[angehen]] - [[an]] = [[gehen]]                // start
 [[umgehen]] - [[um]] = [[gehen]] / to bypass, to avoid, to circumvent
 [[entlanggehen]] - [[ent]] = [[gehen]] / to walk along
@@ -42,4 +42,4 @@ Partizip II: [[gegangen]]
 Zu+infinifive: [[zu gehen]]
 
 ---
-[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]], [[weitergehen]], [[stolpern]], [[vorgehen]], [[begehen]], [[unter]], [[umgehen]], [[s1 e1]], [[ergehen]], [[stattfinden]], [[hingehen]], [[begeben]], [[verabschieden]], [[rennen]], [[weitgehend]], [[gang]], [[vorübergehend]]
+[[Gang]], [[Gänger]], [[Gehweg]], [[Fußgänger]], [[Spaziergang]], [[Weggang]], [[Übergang]], [[gutgehen]], [[weitergehen]], [[stolpern]], [[Vorgehen]], [[begehen]], [[unter]], [[umgehen]], [[s1 e1]], [[ergehen]], [[stattfinden]], [[hingehen]], [[begeben]], [[verabschieden]], [[rennen]], [[weitgehend]], [[gang]], [[vorübergehend]]

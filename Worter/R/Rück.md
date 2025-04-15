@@ -1,3 +1,6 @@
+🔙 [[Rück-]]
+
+---
 📐 [[Rück]], [ˈʁʏk]
 
 ---
@@ -26,4 +29,20 @@ Häufige Verwendungen:
 
 ---
 #Präfix #Wortbildung
-, [[Rückwand]], [[berücksichtigen]], [[Rückzug]], [[rücken]], [[Verrückte]], [[Rücksicht]]
+, [[Rückwand]], [[berücksichtigen]], [[Rückzug]], [[rücken]], [[Verrückte]], [[Rücksicht]], [[Rückgang]]
+
+---
+= [[zurück-]], [[wieder-]]
+≈ [[gegen-]], [[entgegen-]]
+≠ [[vor-]]
+
+---
+back-, return-  
+обратный-, возвратный-
+
+---
+[[Rückseite]], [[Rücktritt]], [[Rückblick]], [[Rückgrat]]
+
+---
+[[Rück]]
+

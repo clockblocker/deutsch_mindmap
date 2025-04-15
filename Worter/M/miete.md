@@ -25,4 +25,4 @@ D: der [[Miete]], den [[Mieten]]
 ---
 [[mieten]], [[Mieter]], [[Mieterin]], [[Mietvertrag]], [[Mietshaus]], [[Mietwagen]]
 , [[Miete]]
-, [[Vermieter]], [[Grundstück]]
+, [[Vermieter]], [[Grundstück]], [[anmieten]]

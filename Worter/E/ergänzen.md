@@ -2,7 +2,13 @@
 
 ---
  [[Ergänze]] die richtige Präposition
- 
+
+*[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^7|^]]* Um die Vorteile beider Büro- und Homeoffice-Arbeit sinnvoll zu kombinieren, sollten Unternehmen hybride Modelle etablieren, in denen digitale Meetings mit regelmäßig geplanten persönlichen Treffen [[ergänzt]] werden. ^7
+
+
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
+
+
 ---
 = [[komplettieren]], [[hinzufügen]], [[vollständigen]],  [[anfügen]], [[zusätzlich]]
 ≈ [[hinzufügen]], [[erweitern]], [[anreichern]], [[verbessern]], [[füllen]], [[dazuzählen]], [[nachholen]],

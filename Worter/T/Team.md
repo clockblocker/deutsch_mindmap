@@ -1,1 +1,1 @@
-, [[Nationalmannschaft]], [[Teamfähigkeit]], [[Gemeinschaft]], [[Belegschaft]]
+, [[Nationalmannschaft]], [[Teamfähigkeit]], [[Gemeinschaft]], [[Belegschaft]], [[Teamentwicklung]], [[Teamleiter]]

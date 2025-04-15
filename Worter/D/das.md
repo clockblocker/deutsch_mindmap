@@ -1,3 +1,3 @@
 , [[dieselbe]], [[daß]]
 , [[dieser]]
-, [[welcher]], [[Konnektivpartikeln]], [[Streben]]
+, [[welcher]], [[Konnektivpartikeln]], [[Streben]], [[Vorgehen]]

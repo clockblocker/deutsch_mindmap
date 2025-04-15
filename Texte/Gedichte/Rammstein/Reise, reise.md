@@ -4,7 +4,7 @@ Der eine [[sticht]] die [[Lanz]] im [[Heer]]
 Der andre [[wirft]] sie in das Meer
 
 *Auf den [[Welle|Wellen]] [[werden|wird]] [[fechten|gefochten]]*  
-*Wo [[Fisch]] und [[Fleisch]] zur [[See]] [[flechten|geflochten]]*  
+*Wo [[Worter/F/fisch]] und [[Fleisch]] zur [[See]] [[flechten|geflochten]]*  
 *Der [[eine]] [[stechen|sticht]] die [[Lanze]] im [[Heer]]*  
 *Der [[andere]] [[werfen|wirft]] sie in das [[Meer]]*
 

@@ -1,7 +1,11 @@
 🤝 [[unterstützen]], [ʊntɪˈʃtʏtsən] | [[unterstützte]], haben [[unterstützt]]
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebot]]e wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebot]]e wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
+
+
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^7|^]]* Die physische [[Präsenz]] [[unterstützt]] das [[gegenseitige]] [[Vertrauen]] und die [[Motivation]], die in digitalen [[Settings]] nur schwer zu [[erreichen]] sind. ^7
+
 
 
 47. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört nicht dazu? (93%)

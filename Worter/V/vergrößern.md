@@ -1,1 +1,1 @@
-, [[beschränken]], [[kürzen]], [[einschränken]], [[erhöhen]], [[tausendfachen]], [[verringern]], [[abbauen]]
+, [[beschränken]], [[kürzen]], [[einschränken]], [[erhöhen]], [[tausendfachen]], [[verringern]], [[abbauen]], [[steigern]]

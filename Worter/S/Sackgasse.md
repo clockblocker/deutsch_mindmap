@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sackgasse]], [[Sackgassen]], [[Sackgasse]], [[Sackgassen]]
 
 ---
-#Substantiv #Feminin, [[s1 e1]]
+#Substantiv #Feminin, [[s1 e1]], [[Lösungsansatz]]

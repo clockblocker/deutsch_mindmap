@@ -1,1 +1,1 @@
-, [[mitten]], [[zugrundeliegende]], [[grundlegend]], [[Mittelpunkt]]
+, [[mitten]], [[zugrundeliegende]], [[grundlegend]], [[Mittelpunkt]], [[essenziell]]

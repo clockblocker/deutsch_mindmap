@@ -25,4 +25,4 @@ G: der [[Anwesenheitspflicht]], der [[Anwesenheitspflichten]]
 D: der [[Anwesenheitspflicht]], den [[Anwesenheitspflichten]]  
 
 ---
-[[anwesend]], [[pflichtbewusst]], [[verpflichten]], [[präsent]]
+[[anwesend]], [[pflichtbewusst]], [[verpflichten]], [[präsent]], [[Arbeitsform]]

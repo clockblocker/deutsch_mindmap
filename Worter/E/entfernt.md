@@ -1,2 +1,2 @@
 , [[fern]], [[nah]], [[fernab]], [[Entfernung]], [[entfernen]]
-, [[nirgendwo]], [[unweit]], [[abwesend]]
+, [[nirgendwo]], [[unweit]], [[abwesend]], [[direkt]]

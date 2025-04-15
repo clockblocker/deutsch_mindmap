@@ -11,7 +11,7 @@ die [[Verfahren]]
 
 ---
 = [[Methode]], [[Prozess]], [[Vorgang]]
-≈ [[Ablauf]], [[vorgehen]], [[Worter/T/Technik]], [[Strategie]]
+≈ [[Ablauf]], [[Vorgehen]], [[Worter/T/Technik]], [[Strategie]]
 ≠ [[Stillstand]], [[Chaos]], [[Zufall]]
 
 ---
@@ -27,4 +27,4 @@ G: des [[Verfahrens]], der [[Verfahren]]
 D: dem [[Verfahren]], den [[Verfahren]]  
 
 ---
-[[verfahren]], [[Verfahrensweise]], [[Verfahrensablauf]], [[Verfahrensdokumentation]], [[Prozessmanagement]], [[Mahnverfahren]], [[dreistufig]]
+[[verfahren]], [[Verfahrensweise]], [[Verfahrensablauf]], [[Verfahrensdokumentation]], [[Prozessmanagement]], [[Mahnverfahren]], [[dreistufig]], [[Technologie]], [[Arbeitsform]], [[Arbeitsprozess]]

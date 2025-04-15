@@ -1,1 +1,1 @@
-, [[spontanen]]
+, [[spontanen]], [[spontan]]

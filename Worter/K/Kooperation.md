@@ -1,2 +1,2 @@
 , [[Wettbewerb]]
-, [[Konkurrenz]], [[Austausch]]
+, [[Konkurrenz]], [[Austausch]], [[Teamentwicklung]], [[Zusammenarbeit]]

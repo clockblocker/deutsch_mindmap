@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Freigabe]][[probleme]]
+[[Freigabe]][[Probleme]]
 
 ---
 #Substantiv #Feminin

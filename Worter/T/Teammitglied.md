@@ -1,1 +1,1 @@
-, [[Mitarbeiterin]]
+, [[Mitarbeiterin]], [[Kollege]], [[Teamleiter]]

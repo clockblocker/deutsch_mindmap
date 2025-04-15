@@ -1,6 +1,9 @@
 🏛️ [[gründen]], [ˈgʁʏndən] | [[gründete]], haben [[gegründet]]
 
 ---
+*[[07-C1-Schreiben-T2#^4|^]]* * Zeigen Sie Verständnis dafür, dass aus finanziellen/personellen [[Gründen]] eine [[längere]] [[Einführung]] in neue [[Softwareprogramme]] schwierig sein kann. ^4
+
+
 184. Auf welcher [[rechtlichen]] Grundlage wurde der Staat Israel [[gegründet]]? (100%)
 	- [x] eine Resolution der [[Vereinten]] Nationen
 	- [ ] ein [[Beschluss]] des Zionistenkongresses

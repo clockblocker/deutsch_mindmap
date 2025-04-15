@@ -1,1 +1,1 @@
-, [[Öfteren]], [[häufig]], [[Worter/W/Wiederholung]], [[einmalig]]
+, [[Öfteren]], [[häufig]], [[Worter/W/Wiederholung]], [[einmalig]], [[wiederholen]], [[mehrmals]]

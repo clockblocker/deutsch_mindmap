@@ -1,7 +1,7 @@
 🔒 [[sichern]], [ˈziːçɐn](https://youglish.com/pronounce/sichern/german) → [[sicherte]] → [[gesichert]]
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^8|^]]* Nur so lässt sich [[langfristig]] die Gesundheit der [[Belegschaft]] [[sichern]] und ein Burnout [[verhindern]]. ^8
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^8|^]]* Nur so lässt sich [[langfristig]] die Gesundheit der [[Belegschaft]] [[sichern]] und ein Burnout [[verhindern]]. ^8
 
 
 ---

@@ -3,6 +3,9 @@
 ---
 1. Ein [[bellender]] Hund [[beißen|beißt]] nicht.
 
+*[[04-C1-Schreiben-T2#^2|^]]* Im Büro unter Ihnen [[bellt]] [[unaufhörlich]] ein junger Hund. ^2
+
+
 ---
 = [[kläffen]], [[jaulen]]
 ≈ [[winseln]], [[knurren]], [[schreien]], [[rufen]]

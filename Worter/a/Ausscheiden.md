@@ -1,1 +1,1 @@
-, [[Entlassung]], [[ausnehmen]], [[verdauen]]
+, [[Entlassung]], [[ausnehmen]], [[verdauen]], [[Betriebszugehörigkeit]]

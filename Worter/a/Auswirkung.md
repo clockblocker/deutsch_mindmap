@@ -28,3 +28,5 @@ A: die [[Auswirkung]], die [[Auswirkungen]]
 G: der [[Auswirkung]], der [[Auswirkungen]]
 D: der [[Auswirkung]], den [[Auswirkungen]]
 , [[Einfluss]]
+
+#Feminin 

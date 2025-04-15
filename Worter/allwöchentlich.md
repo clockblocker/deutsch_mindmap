@@ -16,8 +16,8 @@ weekly
 [[Woche]], [[allwöchentlich]], [[wöchentlich]], [[wöchentlich]]
 
 ---
-[[all]]|[[wöchent]]|[[lich]]
-[[all]] + [[wöchentlich]]
+[[Worter/A/All]]|[[wöchent]]|[[lich]]
+[[Worter/A/All]] + [[wöchentlich]]
 
 
 ---

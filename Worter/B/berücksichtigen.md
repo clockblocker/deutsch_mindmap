@@ -3,6 +3,9 @@
 ---
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 
+*[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^10|^]]* Ein solches hybride Modell [[berücksichtigt]] sowohl ökonomische Vorteile als auch das [[Wohlbefinden]] der Mitarbeiter und [[darstellen|stellt]] somit eine zukunftsweisende Arbeitsform dar. ^10
+
+
 Heute wird kontrovers darüber diskutiert, was für Kriterien [[Schulabgängerinnen]] und [[Schulabgänger]] [[berücksichtigen]] sollten, um die richtige Entscheidung in [[Bezug]] auf ihre Studienwahl zu treffen.
 
 *[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]] 

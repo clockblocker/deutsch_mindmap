@@ -1,1 +1,1 @@
-, [[Kommunikationskultur]]
+, [[Kommunikationskultur]], [[Unternehmenskultur]]

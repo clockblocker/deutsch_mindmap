@@ -4,6 +4,9 @@
 - Ach Maria! [[Sieh an|Sieh]] dich [[ansehen|an]]! Du [[änderst]] dich nie! 
 - Heute werden Sie eine [[Veränderung]] im Beruf haben, für mehr Geld
 
+*[[04-C1-Schreiben-T2#^3|^]]* Obwohl Sie den [[Hundebesitzer]] schon [[mehrmals]] [[darauf]] [[angesprochen]] haben, hat sich bis jetzt nichts [[geändert]]. ^3
+
+
 Doch dann erklärte uns die Feuernation den Krieg und alles [[änderte]] sich. 
 
 [[Daran]] [[ändern]] auch die [[explodierenden]] Preise nichts.

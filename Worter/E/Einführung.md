@@ -4,7 +4,13 @@ die [[Einführungen]]
 ---
 Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^3|^]]* Ein Beispiel für Maßnahmen zur Stressreduktion ist die [[Einführung]] [[flexibler]] Arbeitszeiten und die Möglichkeit, im Homeoffice oder in hybriden [[Arbeitsmodellen]] zu arbeiten. ^3
+*[[07-C1-Schreiben-T2#^4|^]]* * Zeigen Sie Verständnis dafür, dass aus finanziellen/personellen [[Gründen]] eine [[längere]] [[Einführung]] in neue [[Softwareprogramme]] schwierig sein kann. ^4
+
+
+*[[07-C1-Schreiben-T2#^1|^]]* An Ihrem Arbeitsplatz ist eine neue [[Software]] [[eingeführt]] worden, zu der es jedoch nur eine 10-minütige [[Einführung]] gab. ^1
+
+
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^3|^]]* Ein Beispiel für Maßnahmen zur Stressreduktion ist die [[Einführung]] [[flexibler]] Arbeitszeiten und die Möglichkeit, im Homeoffice oder in hybriden [[Arbeitsmodellen]] zu arbeiten. ^3
 
 
 ---

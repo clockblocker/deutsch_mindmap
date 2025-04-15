@@ -1,1 +1,1 @@
-, [[beschließen]], [[Beschluss]]
+, [[beschließen]], [[Beschluss]], [[betriebseigen]]

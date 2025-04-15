@@ -24,3 +24,5 @@ D: der [[Angestellten]], den [[Angestellten]]
 
 ---
 [[anstellen]], [[Anstellung]], [[angestellt]], [[Angestelltenversicherung]], [[Erwerbstätige]], [[Büroangestellte]], [[Belegschaft]], [[Bedienung]], [[Beschäftigte]]
+
+#Feminin , [[Geschäftsführung]]

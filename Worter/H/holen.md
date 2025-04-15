@@ -45,4 +45,4 @@ Morpheme: [[hol]][[en]]
 
 Partizip I: [[holend]], Partizip II: [[geholt]]
 +[[ab]]  = [[abholen]], [[zurückholen]], [[nachholen]], [[einholen]], [[Worter/W/Wiederholung]], [[rausholen]]
-, [[erholen]]
+, [[erholen]], [[wiederholen]]

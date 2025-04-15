@@ -28,4 +28,4 @@ G: der [[Stelle]], der [[Stellen]]
 D: der [[Stelle]], den [[Stellen]]  
 
 ---
-[[stellen]], [[stellvertretend]], [[Stellvertretung]], [[Stellenanzeige]], [[stellenweise]], [[stehen]], [[Texte/Misc/Anki]], [[Arbeitsstelle]], [[Stellenwert]]
+[[stellen]], [[stellvertretend]], [[Stellvertretung]], [[Stellenanzeige]], [[stellenweise]], [[stehen]], [[Texte/Misc/Anki]], [[Arbeitsstelle]], [[Stellenwert]], [[abstellen]]

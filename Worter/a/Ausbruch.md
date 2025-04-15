@@ -25,4 +25,4 @@ D: dem [[Ausbruch]], den [[Ausbrüchen]]
 ---
 [[ausbrechen]], [[brechen]], [[Ausbruch]], [[Ausbruchsversuch]], [[Ausbruchsgefahr]]
 , [[Wutanfall]]
-, [[Gefühlsausbruch]]
+, [[Gefühlsausbruch]], [[Pandemie]]

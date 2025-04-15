@@ -24,4 +24,4 @@ G: des [[Direktkandidaten]], der [[Direktkandidaten]]
 D: dem [[Direktkandidaten]], den [[Direktkandidaten]]  
 
 ---
-[[Wahl]], [[Kandidatur]], [[Wahlkreis]], [[Direktwahl]], [[Kandidieren]]
+[[Wahl]], [[Kandidatur]], [[Wahlkreis]], [[Direktwahl]], [[Kandidieren]], [[direkt]]

@@ -3,4 +3,4 @@
 🟢 das [[Datum]] 🗓️
 
 
-#Plural , [[Datenschutz]]
+#Plural , [[Datenschutz]], [[Software]]

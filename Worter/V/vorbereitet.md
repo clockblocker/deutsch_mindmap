@@ -1,1 +1,1 @@
-🤝 [[vorbereiten]], [[spontanen]], [[1 Präpositionen Übungen]], [[gegenwärtig]]
+🤝 [[vorbereiten]], [[spontanen]], [[1 Präpositionen Übungen]], [[gegenwärtig]], [[spontan]]

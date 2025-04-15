@@ -1,1 +1,1 @@
-, [[Auswirkung]]
+, [[Auswirkung]]🔴 die [[Konsequenz]] 💥

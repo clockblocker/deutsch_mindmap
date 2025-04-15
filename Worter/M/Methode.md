@@ -1,1 +1,1 @@
-, [[Weise]], [[Maßnahme]], [[Verfahren]], [[Arbeitsmodell]]
+, [[Weise]], [[Maßnahme]], [[Verfahren]], [[Arbeitsmodell]], [[Lösungsansatz]], [[Arbeitskonzept]], [[Arbeitsform]], [[Vorgehen]]

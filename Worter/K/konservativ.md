@@ -1,1 +1,1 @@
-, [[unternehmerisch]]
+, [[unternehmerisch]], [[langjährig]]

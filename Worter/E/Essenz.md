@@ -1,1 +1,1 @@
-, [[kern]], [[Inhalt]]
+, [[kern]], [[Inhalt]], [[essenziell]]

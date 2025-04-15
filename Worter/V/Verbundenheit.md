@@ -1,1 +1,1 @@
-, [[angehören]], [[Verbindung]], [[Worter/Beziehung]], [[Beziehung]], [[Dankbarkeit]]
+, [[angehören]], [[Verbindung]], [[Worter/Beziehung]], [[Beziehung]], [[Dankbarkeit]], [[Zugehörigkeit]], [[Entfremdung]]

@@ -3,6 +3,7 @@
 ---
 [[1 ADHD#^9|(q)]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
+
 ---
 = [[ausweichen]], [[entgehen]], [[umgehen]]
 ≈ [[meiden]], [[unterlassen]], [[verhindern]], [[auslassen]]

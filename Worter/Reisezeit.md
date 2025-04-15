@@ -2,7 +2,7 @@
 die [[Reisezeiten]]
 
 ---
-*[[GPT Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^2|^]]* [[Einerseits]] [[ermöglichen]] digitale Tools flexible Arbeitsmodelle und eine [[Reduktion]] von [[Reisezeiten]] und [[Reisekosten]], [[wodurch]] nicht nur die Umwelt [[geschont]] wird, sondern auch die [[Vereinbarkeit]] von Beruf und Privatleben verbessert wird. ^2
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^2|^]]* [[Einerseits]] [[ermöglichen]] digitale Tools flexible Arbeitsmodelle und eine [[Reduktion]] von [[Reisezeiten]] und [[Reisekosten]], [[wodurch]] nicht nur die Umwelt [[geschont]] wird, sondern auch die [[Vereinbarkeit]] von Beruf und Privatleben verbessert wird. ^2
 
 
 ---
@@ -27,3 +27,6 @@ N: die [[Reisezeit]], die [[Reisezeiten]]
 A: die [[Reisezeit]], die [[Reisezeiten]]
 G: der [[Reisezeit]], der [[Reisezeiten]]
 D: der [[Reisezeit]], den [[Reisezeiten]]
+
+
+#Feminin 

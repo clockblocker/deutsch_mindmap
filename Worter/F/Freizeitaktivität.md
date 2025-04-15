@@ -25,4 +25,4 @@ D: der [[Freizeitaktivität]], den [[Freizeitaktivitäten]]
 
 ---
 [[Worter/F/Freizeit]], [[aktiv]], [[Aktivität]], [[Freizeitgestaltung]], [[Freizeitpark]], [[Freizeitkleidung]], [[Freizeitverhalten]], [[Freizeitbeschäftigung]], [[Freizeitgestaltung]]
-, [[Betriebssport]]
+, [[Betriebssport]], [[Arbeitsform]]

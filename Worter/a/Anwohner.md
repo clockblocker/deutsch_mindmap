@@ -1,1 +1,1 @@
-, [[Bewohner]], [[Einwohner]]
+, [[Bewohner]], [[Einwohner]], [[Pendler]]

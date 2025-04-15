@@ -26,4 +26,4 @@ G: des [[Arbeitsverhältnisses]], der [[Arbeitsverhältnisse]]
 D: dem [[Arbeitsverhältnis]], den [[Arbeitsverhältnissen]]  
 
 ---
-[[arbeiten]], [[Arbeitsrecht]], [[Arbeitgeber]], [[Arbeitnehmer]], [[Vertragsbedingungen]], [[Verhältnis]]
+[[arbeiten]], [[Arbeitsrecht]], [[Arbeitgeber]], [[Arbeitnehmer]], [[Vertragsbedingungen]], [[Verhältnis]], [[Arbeitsbedingung]], [[Betriebszugehörigkeit]]

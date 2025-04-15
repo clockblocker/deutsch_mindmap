@@ -1,1 +1,1 @@
-, [[Kaffeebecher]]
+, [[Kaffeebecher]], [[Kaffeepause]]

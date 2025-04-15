@@ -1,8 +1,8 @@
 🔴 die [[Ursache]]
 die [[Ursachen]]
 
-Beispiele:
-- STEFAN: Keine [[Ursache]]. Es ist mir eine Ehre.  
+---
+*[[05-C1-Schreiben-T2#^4|^]]* * Nennen Sie die [[Ursache]] Ihres [[Zuspätkommen]]s ^4
 
 
 ---
@@ -18,4 +18,4 @@ Morphems:
 [[Ur]][[Sache]]
 
 ---
-#Substantiv #Feminin, [[Hauptursache]], [[verursachen]], [[Hauptgrund]], [[Auswirkung]]
+#Substantiv #Feminin, [[Hauptursache]], [[verursachen]], [[Hauptgrund]], [[Auswirkung]], [[Konsequenz]]

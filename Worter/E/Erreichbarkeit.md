@@ -1,7 +1,7 @@
 📞 🔴 die [[Erreichbarkeit]], [ɛɐ̯ˈʁaɪ̯çbaɐˌkaɪ̯t](https://youglish.com/pronounce/Erreichbarkeit/german)
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
 
 
 - Diskutieren Sie, ob das Recht auf Nicht-[[Erreichbarkeit]] [[gesetzlich]] [[geregelt]] werden sollte.  

@@ -1,2 +1,2 @@
 , [[Verspätung]]
-, [[pünktlich]]
+, [[pünktlich]], [[Zuspätkommen]]

@@ -1,1 +1,1 @@
-, [[telefonieren]], [[anrufen]], [[ansprechen]]
+, [[telefonieren]], [[anrufen]], [[ansprechen]], [[Kontakt]]

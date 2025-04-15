@@ -15,9 +15,9 @@ definitely, certainly
 во всяком случае, непременно
 
 ---
-[[mal]], [[all]]
+[[mal]], [[Worter/A/All]]
 
 ---
-[[all]]|`e`|[[mal]]
+[[Worter/A/All]]|`e`|[[mal]]
 [[alle]] + [[mal]]
 

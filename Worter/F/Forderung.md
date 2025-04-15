@@ -1,4 +1,4 @@
 , [[Anspruch]], [[fordern]], [[auffordern]], [[Herausforderung]]
 , [[Spende]]
 , [[Zahlung]]
-, [[erforderlich]], [[überfordern]], [[Beantragung]]
+, [[erforderlich]], [[überfordern]], [[Beantragung]], [[Kompromissvorschlag]]

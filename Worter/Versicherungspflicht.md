@@ -28,4 +28,4 @@ G: der [[Versicherungspflicht]], der [[Versicherungspflichten]]
 D: der [[Versicherungspflicht]], den [[Versicherungspflichten]]  
 
 ---
-[[versichern]], [[pflichtversichert]], [[Pflichtversicherung]], [[gesetzlich]], [[obligatorisch]]
+[[versichern]], [[pflichtversichert]], [[Pflichtversicherung]], [[gesetzlich]], [[obligatorisch]], [[Arbeitsform]]

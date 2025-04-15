@@ -3,7 +3,7 @@
 ---
 Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind.
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^2|^]]* Dieser permanente Stress, [[gepaart]] mit zu wenig sozialem [[Austausch]] und dem [[fehlen]] klar definierter Grenzen zwischen Arbeitszeit und Freizeit, kann [[rasch]] in einen Burnout [[münden]]. ^2
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^2|^]]* Dieser permanente Stress, [[gepaart]] mit zu wenig sozialem [[Austausch]] und dem [[fehlen]] klar definierter Grenzen zwischen Arbeitszeit und Freizeit, kann [[rasch]] in einen Burnout [[münden]]. ^2
 
 
 Ach - Maria, du wirst mir [[fehlen]].  
@@ -95,4 +95,4 @@ N: das [[fehlen]], -
 A: das [[fehlen]], -
 G: des [[Fehlens]], -
 D: dem [[fehlen]], -
-#Neuter , [[abwesend]]
+#Neuter , [[abwesend]], [[Präsenz]]

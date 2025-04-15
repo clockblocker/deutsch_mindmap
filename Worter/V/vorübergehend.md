@@ -40,4 +40,4 @@ P: [[vorübergehenden]], [[vorübergehenderen]], [[vorübergehendsten]]
 ---
 📊 **Konjugierte Indefinitzahlen** *(if applicable)*
 (none for vorübergehend)
-, [[chronisch]]
+, [[chronisch]], [[unaufhörlich]], [[langjährig]]

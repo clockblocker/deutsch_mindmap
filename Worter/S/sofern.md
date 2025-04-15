@@ -1,1 +1,1 @@
-, [[Konnektivpartikeln]], [[Konjunktoren]], [[voraussetzen]]
+, [[Konnektivpartikeln]], [[Konjunktoren]], [[voraussetzen]], [[indem]]

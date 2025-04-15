@@ -1,2 +1,2 @@
 , [[überdrüssig]], [[enttäuscht]], [[frustriert]], [[entmutigt]], [[lustlos]]
-, [[zielstrebig]]
+, [[zielstrebig]], [[Motivation]]

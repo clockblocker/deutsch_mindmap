@@ -1,1 +1,1 @@
-, [[Schneemasse]], [[Unmenge]], [[Menschenmenge]]
+, [[Schneemasse]], [[Unmenge]], [[Menschenmenge]], [[Gewicht]]

@@ -1,1 +1,1 @@
-, [[Kürzung]], [[Reduktion]], [[Verringerung]]
+, [[Kürzung]], [[Reduktion]], [[Verringerung]], [[senken]], [[senken]]

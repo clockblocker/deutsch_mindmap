@@ -3,7 +3,10 @@
 ---
 Musik [[verbindet]] die Menschen.
 
-*[[GPT Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^3|^]]* Der [[Wegfall]] langer [[Geschäftsreise]]n reduziert den Stress und den damit [[verbundenen]] physischen als auch psychischen Druck, der durch ständige [[Abwesenheiten]] [[entstehen]] kann. ^3
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^12|^]]* So kann der [[effiziente]] [[Einsatz]] digitaler [[Technologie]]n [[optimal]] mit dem [[unschätzbaren]] [[Wert]] [[zwischenmenschlicher]] [[Kontakt]]e [[verbunden]] werden. ^12
+w
+
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^3|^]]* Der [[Wegfall]] langer [[Geschäftsreise]]n reduziert den Stress und den damit [[verbundenen]] physischen als auch psychischen Druck, der durch ständige [[Abwesenheiten]] [[entstehen]] kann. ^3
 
 
 [[1 Präpositionen Übungen.md#^1|(q)]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1

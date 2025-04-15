@@ -26,3 +26,4 @@ together
 [[zu|sammen]]
 [[zusammen]]
 
+, [[gegenseitig]]

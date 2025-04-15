@@ -1,10 +1,10 @@
-🔵 der [[Pflicht]],  [[pflichten]] | 
+✅ 🔴 die [[Pflicht]], [p͡flɪçt](https://youglish.com/pronounce/Pflicht/german)
 die [[Pflichten]]
 
 ---
 Jetzt ist Schluss. Genug gespielt. Katara, denk dran, du hast [[Pflichten]].
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]* Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten. ^7
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]* Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten. ^7
 
 
 *[[3 Soll man Geld spenden?#^4|^]]* Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja". ^4
@@ -17,25 +17,30 @@ Jetzt ist Schluss. Genug gespielt. Katara, denk dran, du hast [[Pflichten]].
 [[Anwesenheitspflicht]]
 
 ---
-Synonyme:
-- [[Aufgabe]], [[Verpflichtung]], [[Obliegenheit]], [[Verantwortung]], [[Schuldigkeit]]
-
-Antonyme:
-- [[Freiheit]], [[Willkür]], [[Belieben]]
+= [[Verpflichtung]], [[Obliegenheit]], [[Aufgabe]]
+≈ [[Zwang]], [[Notwendigkeit]], [[Erfordernis]]
+≠ [[Freiheit]], [[Wahl]], [[Kür]]
 
 ---
-Übersetzung: duty, obligation, responsibility
+duty, obligation  
+обязанность
 
 ---
-Morpheme:
-[[Pflicht]]
-
----
-Einzigartige mögliche Formen: 
-[[Pflicht]], [[Pflichten]], [[Pflichtens]]
-
----
-#Substantiv #Feminin #Nomen
+[[pflichten]], [[pflichtgemäß]], [[pflichtbewusst]], [[Pflichtgefühl]], [[Pflichtverletzung]]
 , [[Wahlpflicht]], [[Schulpflicht]], [[Schweigepflicht]], [[Religionspflicht]], [[Grundrecht]], [[Versicherungspflicht]], [[recht]], [[Anwesenheitspflicht]], [[s1 e1]], [[Notwendigkeit]]
 , [[Freizeitaktivität]]
 , [[Arbeitsauftrag]], [[Urlaub]]
+
+
+---
+[[Pflicht]]
+
+
+---
+N: die [[Pflicht]], die [[Pflichten]]
+A: die [[Pflicht]], die [[Pflichten]]
+G: der [[Pflicht]], der [[Pflichten]]
+D: der [[Pflicht]], den [[Pflichten]]
+
+
+#Feminin 

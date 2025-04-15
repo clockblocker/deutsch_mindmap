@@ -26,4 +26,7 @@ arbeiten, arbeitsam, arbeitslos, arbeitsfähig, Arbeitgeber, [[Erlebnis]]
 , [[Feier]]
 , [[Freizeitaktivität]]
 , [[Arbeitsauftrag]]
-, [[Schularbeit]], [[Bindungsurlaub]], [[Studiengang]], [[Rente]], [[Pension]], [[verarbeiten]], [[abarbeiten]], [[Spaziergang]], [[Arbeitsdruck]], [[Arbeitgeber]], [[Arbeitsstelle]], [[Erwerbstätigkeit]], [[Wochenendarbeit]], [[Berufstätigkeit]], [[Arbeitnehmerrecht]], [[Arbeitszeitmodell]], [[Arbeitsmodell]], [[Arbeitsumfeld]]
+, [[Schularbeit]], [[Bindungsurlaub]], [[Studiengang]], [[Rente]], [[Pension]], [[verarbeiten]], [[abarbeiten]], [[Spaziergang]], [[Arbeitsdruck]], [[Arbeitgeber]], [[Arbeitsstelle]], [[Erwerbstätigkeit]], [[Wochenendarbeit]], [[Berufstätigkeit]], [[Arbeitnehmerrecht]], [[Arbeitszeitmodell]], [[Arbeitsmodell]], [[Arbeitsumfeld]], [[Kaffeepause]], [[Kaffeepause]], [[Zusammenarbeit]]
+
+
+#Feminin , [[Arbeitskonzept]], [[Arbeitsform]], [[Arbeitsbedingung]], [[Arbeitsprozess]]

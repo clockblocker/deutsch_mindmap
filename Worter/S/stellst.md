@@ -1,2 +1,2 @@
 \🛠️ [[stellen]]  
-, [[einstellen]], [[umstellen]]
+, [[einstellen]], [[umstellen]], [[abstellen]]

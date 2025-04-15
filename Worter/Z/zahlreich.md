@@ -1,7 +1,7 @@
 🔢 [[zahlreich]], [ˈt͡saːlʁaɪ̯ç](https://youglish.com/pronounce/zahlreich/german)
 
 ---
-*[[GPT Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^1|^]]* Virtuelle Meetings bieten im [[Berufsleben]] [[zahlreich]]e [[Vorteil]]e. ^1
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^1|^]]* Virtuelle Meetings bieten im [[Berufsleben]] [[zahlreich]]e [[Vorteil]]e. ^1
 
 
 ---

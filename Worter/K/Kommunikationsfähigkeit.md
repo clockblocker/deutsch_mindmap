@@ -1,1 +1,1 @@
-, [[Kommunikationsstärke]]
+, [[Kommunikationsstärke]], [[Kommunikation]]

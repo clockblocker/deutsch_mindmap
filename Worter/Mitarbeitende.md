@@ -1,7 +1,7 @@
 👨‍💼 [[Mitarbeitende]], [ˈmɪtʔaʁˌbaɪ̯təndə](https://youglish.com/pronounce/Mitarbeitende/german)
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^6|^]]* Unternehmen tragen eine [[wesentlich]]e [[Verantwortung]] für das [[Wohlbefinden]] ihrer [[Mitarbeitenden]]
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^6|^]]* Unternehmen tragen eine [[wesentlich]]e [[Verantwortung]] für das [[Wohlbefinden]] ihrer [[Mitarbeitenden]]
 ^6
 
 ---

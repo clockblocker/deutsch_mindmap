@@ -4,6 +4,9 @@ die [[Tätigkeiten]]
 ---
 Und sie stören die Konzentration auf die [[Tätigkeit]], die wir gerade [[ausüben]].
 
+*[[01-C1-Schreiben-T2#^11|^]]* - Nennen Sie [[Tätigkeit]]en, die durch den neuen Platz [[erschwert]] werden ^11
+
+
 *[[3 Soll man Geld spenden?#^11|^]]* Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]. ^11
 
 
@@ -33,4 +36,4 @@ Einzigartige mögliche Formen: [[Tätigkeit]], [[Tätigkeiten]], [[Tätigkeit]],
 #Substantiv #Feminin
 
 , [[Bewegung]], [[Worter/A/Arbeit]], [[Erlebnis]]
-, [[Arbeitsauftrag]], [[Erwerbstätigkeit]], [[Berufstätigkeit]], [[berufstätig]], [[Berufsleben]]
+, [[Arbeitsauftrag]], [[Erwerbstätigkeit]], [[Berufstätigkeit]], [[berufstätig]], [[Berufsleben]], [[Arbeitsprozess]]

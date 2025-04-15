@@ -1,1 +1,1 @@
-, [[Aufstieg]], [[Flut]]
+, [[Aufstieg]], [[Flut]], [[Rückgang]]

@@ -1,1 +1,1 @@
-, [[gerade]], [[fern]]
+, [[gerade]], [[fern]], [[direkt]]

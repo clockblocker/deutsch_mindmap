@@ -1,7 +1,10 @@
 😩 [[erschweren]], [ɛɐ̯ˈʃveːrən](https://youglish.com/pronounce/erschweren/german) → [[erschwerte]] → [[erschwert]]
 
 ---
-- Nennen Sie ein Beispiel, wie der [[ständig]]e Nachrichtenstrom die Meinungsbildung [[erschwert]].  
+*[[01-C1-Schreiben-T2#^11|^]]* Nennen Sie [[Tätigkeit]]en, die durch den neuen Platz [[erschwert]] werden ^11
+
+
+Nennen Sie ein Beispiel, wie der [[ständig]]e Nachrichtenstrom die Meinungsbildung [[erschwert]].  
 
 ---
 = [[erschweren]], [[erschweren]], [[erschweren]]

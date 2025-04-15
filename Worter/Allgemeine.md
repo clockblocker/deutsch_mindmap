@@ -21,7 +21,7 @@ Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 general, common, overall
 
 ---
-[[all]]|[[gemein]]|[[es]]
+[[Worter/A/All]]|[[gemein]]|[[es]]
 
 ---
 N: das [[Allgemeine]], die [[Allgemeinen]]  

@@ -26,4 +26,4 @@ G: der [[Wahlpflicht]], der [[Wahlpflichten]]
 D: der [[Wahlpflicht]], den [[Wahlpflichten]]  
 
 ---
-[[wählen]], [[Pflicht]], [[Wahlsystem]], [[Demokratie]], [[wahlpflichtig]]
+[[wählen]], [[Pflicht]], [[Wahlsystem]], [[Demokratie]], [[wahlpflichtig]], [[Arbeitsform]]

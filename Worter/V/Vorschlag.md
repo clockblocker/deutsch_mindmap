@@ -4,6 +4,9 @@ die [[Vorschläge]]
 ---
 Mein [[Vorschlag]] ist Sälze beiden 
 
+*[[02-C1-Schreiben-T2#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
+
+
 1. [[Inhalt]], [[Umfang]], [[Realisierung]] der Sprachfunktionen (z. B. etwas erklären, Argumente anführen, [[Vorschläge]] machen)
 
 Aber dem wird sie die Suppe schon noch versalzen! Beim nächsten Termin mit ihrem Chef macht sie einige [[Vorschläge]] für das Projekt. 
@@ -44,3 +47,4 @@ Ausserung
 ==[[Äuwßerung]]==
 
 #Maskulin 
+, [[Kompromissvorschlag]], [[Vorgehen]], [[Lösungsvorschlag]]

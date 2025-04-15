@@ -3,7 +3,10 @@
 ---
 Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebote]] wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
+*[[03-C1-Schreiben-T2#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2
+
+
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebote]] wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
 
 
 *[[Golfstorm#^15|^]]* Durch [[zusätzliches]] Süßwasser wird das [[Verhältnis]] von Temperatur und Salz im Meerwasser gestört, was [[wiederum]] die Stärke der Strömungen [[verringert]].

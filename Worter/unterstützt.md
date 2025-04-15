@@ -1,1 +1,1 @@
-🤝 [[unterstützen]]
+🤝 [[unterstützen]], [[gegenseitig]]

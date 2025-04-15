@@ -5,6 +5,8 @@
 
 [[nachher]], [[hinterdrein]], [[Konnektoren]]
 
+*[[05-C1-Schreiben-T2#^2|^]]* [[Daraufhin]] [[erhielten]] Sie von Ihrer [[Vorgesetzten]] eine E-Mail mit dem [[Hinweis]] darauf, dieses [[Verhalten]] in Zukunft zu [[unterlassen]]. ^2
+
 
 ---
 = [[danach]], [[infolgedessen]], [[in der Folge]]

@@ -1,1 +1,3 @@
 🔵 der [[Arbeitsplatz]]
+
+#Plural 

@@ -1,1 +1,1 @@
-, [[Abschottung]]
+, [[Abschottung]], [[Entfremdung]]

@@ -1,3 +1,3 @@
 , [[Widerspruch]], [[Meinungsäußerung]], [[kritisieren]], [[Rezension]]
 , [[Eigenlob]]
-, [[Lob]]
+, [[Lob]], [[Beschwerde]]

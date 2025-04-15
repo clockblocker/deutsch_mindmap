@@ -3,6 +3,7 @@
 ---
 [[1 ADHD#^19|(q)]] ist unruhig oder [[übermäßig]] aktiv. ^19
 
+
 ---
 = [[exzessiv]], [[extrem]], [[unangemessen]]
 ≈ [[übertrieben]], [[übertrieben]], [[zu viel]], [[ausufernd]]

@@ -13,7 +13,7 @@ gradually, slowly
 постепенно, мало-помалу
 
 ---
-[[all]]|[[mäh]]|[[lich]]
+[[Worter/A/All]]|[[mäh]]|[[lich]]
 
 ---
 N: [[allmählich]], [[allmählicher]], [[allmählichste]]

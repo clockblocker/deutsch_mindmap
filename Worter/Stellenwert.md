@@ -26,3 +26,6 @@ A: den [[Stellenwert]], die [[Stellenwerte]]
 G: des [[Stellenwertes]], der [[Stellenwerte]]
 D: dem [[Stellenwert]], den [[Stellenwerten]]
 , [[einnehmen]]
+
+
+#Maskulin 

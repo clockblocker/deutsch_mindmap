@@ -1,1 +1,1 @@
-, [[Vorsitzende]], [[Führungskraft]]
+, [[Vorsitzende]], [[Führungskraft]], [[Manager]], [[Geschäftsführung]]

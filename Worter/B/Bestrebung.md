@@ -1,1 +1,1 @@
-, [[Bemühung]], [[bestreben]]
+, [[Bemühung]], [[bestreben]], [[Projekt]]

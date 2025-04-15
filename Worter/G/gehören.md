@@ -37,4 +37,4 @@ Morpheme: [[ge]][[hör]][[en]]
 | Sie       | [[gehören]]          | [[gehörten]]          | [[gehören Sie]]   | [[gehören]]            | [[gehörten]]            |
 
 Partizip I: [[gehörend]], Partizip II: [[gehört]]
-[[gehören]] - [[ge]] = [[hören]], [[ablehnen]], [[angehören]]
+[[gehören]] - [[ge]] = [[hören]], [[ablehnen]], [[angehören]], [[Zugehörigkeit]]

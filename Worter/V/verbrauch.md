@@ -1,1 +1,1 @@
-, [[verbrauchen]]
+, [[verbrauchen]], [[Aufwand]]

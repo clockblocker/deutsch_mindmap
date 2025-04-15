@@ -26,4 +26,4 @@ Genitive: des [[Gewinns]], der [[Gewinne]]
 Dative: dem [[Gewinn]], den [[Gewinnen]] 
 
 [[gewinnen]], [[gewinnbringend]], [[Gewinnmargen]], [[Gewinnausschüttung]], [[Vorteil]], [[Wett]], [[Niederlage]]
-, [[Reisekosten]], [[Ernte]], [[Mehrwert]], [[Erwerb]], [[Verdienst]]
+, [[Reisekosten]], [[Ernte]], [[Mehrwert]], [[Erwerb]], [[Verdienst]], [[Betriebskosten]], [[Aufwand]]

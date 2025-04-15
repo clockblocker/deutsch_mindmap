@@ -25,4 +25,4 @@ N: [[schweres]], [[schwereres]], [[schwerstes]], [[Schwere]]
 P: [[schweren]], [[schwereren]], [[schwersten]], [[Schwere]]  
 
 ---
-[[erschweren]], [[erschwerend]], [[Schwierigkeit]], [[schwerfällig]], [[Schwerkraft]]
+[[erschweren]], [[erschwerend]], [[Schwierigkeit]], [[schwerfällig]], [[Schwerkraft]], [[Beschwerde]]

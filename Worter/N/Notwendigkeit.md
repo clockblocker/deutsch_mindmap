@@ -4,6 +4,9 @@ die [[Notwendigkeiten]]
 ---
 dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
 
+*[[06-C1-Schreiben-T2#^4|^]]* * Eröffnen Sie Ihr Schreiben höflich, indem Sie Ihr Verständnis für die [[Notwendigkeit]] der [[Umbauarbeiten]] zeigen. ^4
+
+
 ###### ⚖️ Work-Life Balance – [[Modebegriff]] oder echte [[Notwendigkeit]]?
 
 *[[4 Autofrei#^3|^]]* *Fast jede Stadt hat die Möglichkeit, sich autofrei zu machen, weil es keine [[Notwendigkeit]] von der Bundesregierung gibt, zu [[intervenieren]].* ^3
@@ -32,4 +35,4 @@ D: der [[Notwendigkeit]], den [[Notwendigkeiten]]
 , [[unentbehrlich]]
 , [[Modebegriff]]
 
-#Feminin 
+#Feminin , [[Arbeitsform]], [[Sachzwang]]

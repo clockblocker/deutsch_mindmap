@@ -1,0 +1,2 @@
+💡 [[Lösungsansatz]]
+#Plural 

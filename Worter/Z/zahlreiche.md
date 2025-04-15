@@ -4,6 +4,9 @@ nicht [[wenige]]
 ---
 Es gibt bereits [[zahlreiche]] Ausstellungen zu den Themen Berliner Mauer oder Staatssicherheit
 
+*[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^1|^]]* Nach der Corona Pandemie haben viele Unternehmen das Homeoffice ermöglicht, weil es nicht nur [[zahlreiche]] organisatorische Vorteile bietet, sondern auch die Produktivität der [[Belegschaft]] [[steigern]] kann. ^1
+
+
 ---
 Synonyme: [[viele]], [[mehrere]], [[unzählige]], [[zahllos]], [[massenhaft]]
 Antonyme: [[wenige]], [[keine]], [[vereinzelte]], [[spärliche]]

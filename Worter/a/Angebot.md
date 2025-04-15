@@ -4,7 +4,7 @@ die [[Angebote]]
 ---
 ANNA: Okay – hier: Job-[[Angebote]] …
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebote]] wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebote]] wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
 
 
 171. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
@@ -34,4 +34,4 @@ G: des [[Angebotes]], der [[Angebote]]
 D: dem [[Angebot]], den [[Angeboten]]
 
 
-#Neuter , [[Unterstützungsangebot]]
+#Neuter , [[Unterstützungsangebot]], [[Kompromissvorschlag]]

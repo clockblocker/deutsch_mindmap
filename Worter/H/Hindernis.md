@@ -27,4 +27,4 @@ G: des [[Hindernisses]], der [[Hindernisse]]
 D: dem [[Hindernis]], den [[Hindernissen]]
 
 
-#Neuter , [[verhindern]]
+#Neuter , [[verhindern]], [[Lösungsansatz]], [[Tool]]

@@ -1,1 +1,1 @@
-, [[unbequem]], [[beschwert]], [[beschweren]], [[schwer]]
+, [[unbequem]], [[beschwert]], [[beschweren]], [[schwer]], [[Beschwerde]]

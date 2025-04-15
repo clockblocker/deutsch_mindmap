@@ -1,1 +1,1 @@
-, [[Rollstuhl]], [[Verkehrsmittel]], [[wagen]]
+, [[Rollstuhl]], [[Verkehrsmittel]], [[wagen]], [[Fahrzeug]]

@@ -34,4 +34,4 @@ PI: [[besitzend]], PII: [[besessen]], Zu+inf: [[zubesitzen]]
 ---
 [[Besitz]], [[Besitzer]], [[Besitzerin]], [[besitzlos]], [[Besitztum]], [[Grundbesitz]]
 , [[Worter/H/haben]], [[fehlen]], [[gehören]], [[Waffenbesitz]]
-, [[mieten]]
+, [[mieten]], [[Hundebesitzer]]

@@ -1,1 +1,1 @@
-, [[Verhältnis]]
+, [[Verhältnis]], [[Situation]]

@@ -1,1 +1,1 @@
-, [[Anleitung]], [[Worter/R/Regel]], [[Gesetz]], [[Richtlinie]], [[einhalten]]
+, [[Anleitung]], [[Worter/R/Regel]], [[Gesetz]], [[Richtlinie]], [[einhalten]], [[Regelung]]

@@ -1,1 +1,1 @@
-[[Hanteln]]
+[[Hanteln]], [[Gewicht]]

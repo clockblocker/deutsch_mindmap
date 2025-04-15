@@ -1,1 +1,1 @@
-, [[Wert]]
+, [[Wert]], [[Unternehmenskultur]]

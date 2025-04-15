@@ -1,13 +1,14 @@
-, [[Worter/ergeben]], [[verursachen]]
 🗣️ [[hervorrufen]], [hɛɐ̯ˈfoːɐ̯ˌʁuːfn̩](https://youglish.com/pronounce/hervorrufen/german) → [[rief hervor]] → [[hervorgerufen]]
 
 ---
-durch das Internet* [[entstehen]]
 
 ---
 = [[auslösen]], [[verursachen]], [[bewirken]]
 ≈ [[erzeugen]], [[generieren]], [[provozieren]]
 ≠ [[verhindern]], [[unterdrücken]], [[vermeiden]]
+
+, [[Worter/ergeben]], [[verursachen]]
+
 
 ---
 to evoke, to cause  

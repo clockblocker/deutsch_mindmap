@@ -1,1 +1,1 @@
-, [[zufällig]], [[willkürlich]], [[spontanen]]
+, [[zufällig]], [[willkürlich]], [[spontanen]], [[spontan]]

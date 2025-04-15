@@ -19,7 +19,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Hai]][[fisch]]
+[[Hai]][[Worter/F/fisch]]
 
 ---
 Einzigartige mögliche Formen: [[Haifisches]], [[Haifischen]], [[Haifischen]], [[Haifisch]], [[Haifische]], [[Haifischi]], [[Haifischens]]

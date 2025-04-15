@@ -1,1 +1,1 @@
-, [[auftauchten]]
+, [[auftauchten]], [[Rückgang]]

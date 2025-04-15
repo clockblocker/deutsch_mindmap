@@ -3,6 +3,9 @@
 ---
 ANNA: Das [[dauert]] sicher nur eine Woche …  
 
+*[[07-C1-Schreiben-T2#^2|^]]* Als [[Folge]] [[dauern]] bei Ihnen und Ihrem Team viele [[Arbeitsprozess]]e nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der [[geforderten]] Zeit zu [[erledigen]]. ^2
+
+
 1. Их поездка длилась две недели. Ihre Reise [[dauerte]] zwei Wochen.
 
 Was für ein Glück! Aber dieses Glück [[dauerte]] nicht lange. [[14 perfekt#^4|(q)]]

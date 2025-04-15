@@ -14,7 +14,7 @@ all, every
 все
 
 ---
-[[all]]|[[e]]
+[[Worter/A/All]]|[[e]]
 
 ---
 N: [[Worter/A/Alle]]

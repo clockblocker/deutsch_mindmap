@@ -1,1 +1,1 @@
-, [[Konstruktionsbedingt]]
+, [[Konstruktionsbedingt]], [[Technologie]]

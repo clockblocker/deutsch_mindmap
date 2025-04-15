@@ -1,2 +1,2 @@
 , [[Vorschlag]], [[Ratschlag]], [[Rat]], [[Hinweis]]
-, [[empfehlen]]
+, [[empfehlen]], [[Lösungsvorschlag]]

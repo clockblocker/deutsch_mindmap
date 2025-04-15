@@ -1,1 +1,1 @@
-, [[außerhalb]], [[auswärtig]]
+, [[außerhalb]], [[auswärtig]], [[betriebseigen]]

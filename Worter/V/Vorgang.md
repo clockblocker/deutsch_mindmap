@@ -1,2 +1,2 @@
-, [[Handlung]], [[Verfahren]], [[vorgehen]]
-, [[vorangehen]]
+, [[Handlung]], [[Verfahren]], [[Vorgehen]]
+, [[vorangehen]], [[Arbeitsprozess]]

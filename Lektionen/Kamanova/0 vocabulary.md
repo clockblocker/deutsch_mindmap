@@ -335,7 +335,7 @@
 ##### Maskulin (m)
 - [[Geburtstag]], [[Geburtstage]] - день рождения
 - [[Spaß]], [[Späße]] - удовольствие
-- [[Fisch]], [[Fische]] - рыба
+- [[Worter/F/fisch]], [[Fische]] - рыба
 - [[Salat]], [[Salate]] - салат
 - [[Kuchen]], [[Kuchen]] - пирог
 - [[Quatsch]] - чепуха, ерунда

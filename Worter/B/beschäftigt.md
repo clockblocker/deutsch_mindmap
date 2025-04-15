@@ -3,4 +3,4 @@
 
 , [[schäftigen]], [[unbedingt]], [[bisher]], [[begeistert]], [[erwerbstätig]], [[selbständig]]
 , [[tätig]], [[Naturschutz]]
-, [[Verkauf]], [[berufstätig]]
+, [[Verkauf]], [[berufstätig]], [[auslasten]]

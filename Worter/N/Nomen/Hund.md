@@ -12,4 +12,4 @@ Translation:
 
 #Substantiv #Maskulin  
 , [[wie Hund und Katze sein]]
-, [[Igel]], [[Schweinehund]], [[Schwein]]
+, [[Igel]], [[Schweinehund]], [[Schwein]], [[Hundebesitzer]]

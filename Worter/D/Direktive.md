@@ -1,1 +1,1 @@
-, [[Richtlinie]]
+, [[Richtlinie]], [[direkt]]

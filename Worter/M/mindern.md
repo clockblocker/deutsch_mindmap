@@ -1,1 +1,1 @@
-, [[verringern]]
+, [[verringern]], [[steigern]], [[senken]], [[senken]]

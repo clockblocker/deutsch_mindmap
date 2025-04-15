@@ -1,1 +1,1 @@
-🌟 [[möchten]]  , [[mögen]]
+🌟 [[möchten]]  , [[mögen]], [[steigern]]

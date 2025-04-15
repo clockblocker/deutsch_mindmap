@@ -1,1 +1,1 @@
-, [[modern]], [[jüdisch]], [[preußisch]], [[üblich]], [[künstlerischer]]
+, [[modern]], [[jüdisch]], [[preußisch]], [[üblich]], [[künstlerischer]], [[langjährig]]

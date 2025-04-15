@@ -2,6 +2,9 @@ der [[Raum]], [ʁaʊ̯m]
 die [[Räume]]
 
 ---
+*[[03-C1-Schreiben-T2#^6|^]]* * Beschreiben Sie das [[Platzproblem]], das sich durch den neuen Arbeitsplatz des Kollegen im [[Raum]] [[ergeben]] hat. ^6
+
+
 *Ich bin die Ecke aller [[Räume*]]  
 *Ich bin der Schatten aller Bäume* 
 
@@ -20,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Raumes]], [[Raum]], [[Räume]], [[Räumen]]
 
 ---
-#Maskulin  , [[Entfernung]], [[Zelle]], [[Flur]], [[Halle]], [[Fläche]], [[Gymnastikraum]], [[Pausenraum]]
+#Maskulin  , [[Entfernung]], [[Zelle]], [[Flur]], [[Halle]], [[Fläche]], [[Gymnastikraum]], [[Pausenraum]], [[Büroraum]]

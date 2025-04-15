@@ -24,4 +24,4 @@ D: der [[Anforderung]], den [[Anforderungen]]
 
 ---
 [[anfordern]], [[Anforderer]], [[Anforderin]], [[anfordernd]], [[anforderbar]]
-, [[Bedürfnis]], [[Grundvoraussetzung]], [[Aufgabenstellung]], [[Anliegen]], [[Beantragung]]
+, [[Bedürfnis]], [[Grundvoraussetzung]], [[Aufgabenstellung]], [[Anliegen]], [[Beantragung]], [[Sachzwang]]

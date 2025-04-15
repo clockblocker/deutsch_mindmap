@@ -25,3 +25,4 @@ D: dem [[Fieber]], den [[Fiebern]]
 [[fiebern]], [[fieberhaft]], [[fiebernd]], [[fiebrig]], [[fieberfrei]]
 
 , [[entgegenfiebern]], [[fiebern]]
+, [[Gesundheit]]

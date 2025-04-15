@@ -1,1 +1,1 @@
-, [[Urlaub]], [[Abwesenheit]]
+, [[Urlaub]], [[Abwesenheit]], [[Kaffeepause]], [[Kaffeepause]]

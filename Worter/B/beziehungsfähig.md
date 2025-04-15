@@ -1,1 +1,1 @@
-, [[Beziehung]]
+, [[Beziehung]], [[zwischenmenschlich]]

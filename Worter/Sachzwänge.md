@@ -1,0 +1,3 @@
+🔵 der [[Sachzwang]] 😟
+
+#Plural 

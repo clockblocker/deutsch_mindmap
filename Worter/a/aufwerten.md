@@ -1,1 +1,1 @@
-, [[herabziehen]], [[höherstellen]], [[erhöhen]]
+, [[herabziehen]], [[höherstellen]], [[erhöhen]], [[steigern]]

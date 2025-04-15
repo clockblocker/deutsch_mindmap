@@ -4,7 +4,6 @@
 * Erläutern Sie, was [[Arbeitgebende]] für eine gute Work Life Balance tun können.
 * Nennen Sie andere Möglichckeiten für einen [[ausgewogenen]] [[Lebensstil]].
 
-
 Schreiben Sie circa 230 Wörter.
 
 ---

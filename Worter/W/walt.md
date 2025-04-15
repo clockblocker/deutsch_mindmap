@@ -1,2 +1,3 @@
-[[Gewalt]], [[Anwalt]]
-, [[Verwaltung]], [[verwalten]]
+[[Gewalt]], [[Anwalt]], [[Verwaltung]], [[verwalten]]
+
+waltan - wield power

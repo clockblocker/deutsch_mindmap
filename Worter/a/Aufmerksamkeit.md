@@ -27,4 +27,4 @@ D: der [[Aufmerksamkeit]], den [[Aufmerksamkeiten]]
 
 ---
 [[aufmerksam]], [[merken]], [[Aufmerksamkeitsdefizit]], [[Aufmerksamkeitsstörung]]
-, [[unaufmerksam]], [[umsetzen]]
+, [[unaufmerksam]], [[umsetzen]], [[Blickkontakt]]

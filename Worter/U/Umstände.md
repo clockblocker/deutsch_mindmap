@@ -1,1 +1,2 @@
 🔵 der [[Umstand]] 😟
+, [[Situation]], [[Arbeitsbedingung]]

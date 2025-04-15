@@ -32,4 +32,4 @@ Morpheme: [[hin]][[stell]][[en]]
 Partizip I: [[hinstellend]], Partizip II: [[hingestellt]]
 
 [[hinstellen]] - [[hin]] = [[stellen]]
-```
+```, [[abstellen]]

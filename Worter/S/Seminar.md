@@ -1,1 +1,1 @@
-, [[Vorlesung]]
+, [[Vorlesung]], [[Kurs]]

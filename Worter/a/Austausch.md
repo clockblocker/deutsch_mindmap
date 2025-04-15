@@ -4,7 +4,7 @@ die [[Austausche]]
 ---
 Außerdem [[fehlt]] der persönliche [[Austausch]] unter den Kollegen
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^2|^]]* Dieser permanente Stress, [[gepaart]] mit zu wenig sozialem [[Austausch]] und dem [[fehlen]] klar definierter Grenzen zwischen Arbeitszeit und Freizeit, kann [[rasch]] in einen Burnout [[münden]]. ^2
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^2|^]]* Dieser permanente Stress, [[gepaart]] mit zu wenig sozialem [[Austausch]] und dem [[fehlen]] klar definierter Grenzen zwischen Arbeitszeit und Freizeit, kann [[rasch]] in einen Burnout [[münden]]. ^2
 
 
 - *Außerdem wird der* [[Austausch]] *mit den Kollegen gefördert.* 
@@ -38,4 +38,4 @@ G: des [[Austausches]], der [[Austausche]]
 D: dem [[Austausch]], den [[Austauschen]]
 
 
-#Maskulin , [[Feedbackgespräch]]
+#Maskulin , [[Feedbackgespräch]], [[Interaktion]], [[Kommunikation]]

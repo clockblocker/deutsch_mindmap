@@ -26,4 +26,4 @@ Der Anblick beschreibt das, was man sieht, oder wie etwas aussieht. Es kann eine
 
 Beispiele:
 - Der Anblick des Sonnenuntergangs war atemberaubend.
-- Der Anblick der Ruinen erinnerte sie an vergangene Zeiten.
+- Der Anblick der Ruinen erinnerte sie an vergangene Zeiten., [[Blickkontakt]]

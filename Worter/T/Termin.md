@@ -1,3 +1,3 @@
 , [[vereinbaren]], [[versäumen]]
 , [[Termindruck]]
-, [[Verabredung]], [[Behördengang]]
+, [[Verabredung]], [[Behördengang]], [[Geschäftsreise]], [[Meeting]]

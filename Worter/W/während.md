@@ -38,4 +38,4 @@ Morpheme:
 
 ---
 #Präposition, [[s1 e1]], [[warten]], [[innerhalb]], [[Konjunktoren]], [[Konnektoren]], [[Währenddessen]], [[wobei]], [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]
-, [[als]]
+, [[als]], [[indem]]

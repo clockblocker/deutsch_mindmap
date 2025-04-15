@@ -1,1 +1,1 @@
-, [[zögern]], [[verzögern]]
+, [[zögern]], [[verzögern]], [[Verzögerung]]

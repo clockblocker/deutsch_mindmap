@@ -7,7 +7,7 @@
 *[[Lektionen/Bekker/verben/2#^7|^]]* Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
 
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
 
 
 | **Aang** | [[Kümmer]] dich um Appa bis ich wieder zurück bin, ja?      |

@@ -3,6 +3,9 @@
 ---
 * Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance.
 
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
+
+
 - Ein [[Vorteil]] des Unternehmens ist es, wenn man meist zu Fuß zur Arbeit kommt
 
 •	Erläutern Sie [[Vorteile]] für Arbeiten im Büro einer Firma.

@@ -3,6 +3,12 @@
 ---
 Du [[verhältst]] dich wie ein Kind.
 
+*[[05-C1-Schreiben-T2#^2|^]]* [[Daraufhin]] [[erhielten]] Sie von Ihrer [[Vorgesetzten]] eine E-Mail mit dem [[Hinweis]] darauf, dieses [[Verhalten]] in Zukunft zu [[unterlassen]]. ^2
+
+
+*[[02-C1-Schreiben-T2#^4|^]]* * Nennen Sie Probleme, die durch sein [[Verhalten]] entstehen können. ^4
+
+
 *[[3  Ein Selbstversuch als Hobbybäuerin#^39|^]]* Was die [[Abstriche]] [[angeht]], so [[verhält]] es sich nicht anders. ^39
 
 Wissenschaftlerinnen [[untersuchen]] das [[Verhalten]] von Hunden.
@@ -67,29 +73,4 @@ D: dem [[verhalten]], den [[verhalten]]
 ---
 [[verhalten]], [[Verhaltensmuster]], [[Verhaltensweise]], [[verhaltensneutral]], [[verhaltensnah]]
 
-🟢🎭 die [[Aufführung]], [aʊ̯fˈfyːʁʊŋ]
-die [[Aufführungen]]
-
-
----
-
-
----
-= [[Vorführung]], [[Darstellung]], [[Inszenierung]]
-≈ [[Darbietung]], [[Show]], [[Spiel]], [[Konzert]]
-≠ [[Probe]], [[Training]], [[Übung]], [[Einrichtung]]
-
----
-performance, show, play
-
----
-[[Worter/A/auf]]|[[führ]]|[[ung]]
-
----
-N: die [[Aufführung]], die [[Aufführungen]]  
-A: die [[Aufführung]], die [[Aufführungen]]  
-G: der [[Aufführung]], der [[Aufführungen]]  
-D: der [[Aufführung]], den [[Aufführungen]]  
-
----
-[[aufführen]], [[Aufführungsrecht]], [[Aufführungsdatum]], [[1 Präpositionen Übungen]], [[Haltung]], [[Verhältnis]]
+#Neuter 

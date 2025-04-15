@@ -17,7 +17,7 @@ hat
 [[hüten]], [[hütbar]], [[Hütchen]], [[Hutmacher]], [[Hutgeschäft]]
 
 ---
-[[Hut]]</agent_output>
+[[Hut]]
 
 
 ---
@@ -25,3 +25,6 @@ N: der [[Hut]], die [[Hüte]]
 A: den [[Hut]], die [[Hüte]]
 G: des [[Hutes]], der [[Hüte]]
 D: dem [[Hut]], den [[Hüten]]
+
+
+#Maskulin 

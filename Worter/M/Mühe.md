@@ -26,4 +26,4 @@ G: der [[Mühe]], der [[Mühen]]
 D: der [[Mühe]], den [[Mühen]]  
 
 ---
-[[mühselig]], [[mühen]], [[mühevoll]], [[bemühen]], [[bemüht]]
+[[mühselig]], [[mühen]], [[mühevoll]], [[bemühen]], [[bemüht]], [[Aufwand]]

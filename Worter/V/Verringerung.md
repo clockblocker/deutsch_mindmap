@@ -30,4 +30,4 @@ G: der [[Verringerung]], der [[Verringerungen]]
 D: der [[Verringerung]], den [[Verringerungen]]
 
 
-#Feminin 
+#Feminin , [[Rückgang]]

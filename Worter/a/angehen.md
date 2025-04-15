@@ -44,5 +44,5 @@ Zu+infinitive: [[anzugehen]]
 [[angehen]] - [[an]] = [[gehen]] // start
 
 ---
-[[Angang]], [[Angelegenheit]], [[Anfang]], [[vorgehen]], [[Herangehensweise]], [[betreffen]]
+[[Angang]], [[Angelegenheit]], [[Anfang]], [[Vorgehen]], [[Herangehensweise]], [[betreffen]]
 , [[vorangehen]]

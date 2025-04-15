@@ -27,4 +27,4 @@ G: der [[Schweigepflicht]], der [[Schweigepflichten]]
 D: der [[Schweigepflicht]], den [[Schweigepflichten]]  
 
 ---
-[[schweigen]], [[pflichtbewusst]], [[vertraulich]], [[geheim]], [[Geheim]]
+[[schweigen]], [[pflichtbewusst]], [[vertraulich]], [[geheim]], [[Geheim]], [[Arbeitsform]]

@@ -3,7 +3,10 @@
 ---
 *[[Große Koalition#^3|^]]* Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der Begriff **Kleine Koalition** (auch **kleine Koalition**). 
 
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^9|^]]* [[Vorbeugend]] lässt sich eine gesunde Unternehmenskultur schaffen, wenn flexible Modelle, regelmäßige [[Feedbackgespräche]] und eine offene [[Kommunikationskultur]] [[etabliert]] werden. ^9
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
+
+
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^9|^]]* [[Vorbeugend]] lässt sich eine gesunde Unternehmenskultur schaffen, wenn flexible Modelle, regelmäßige [[Feedbackgespräche]] und eine offene [[Kommunikationskultur]] [[etabliert]] werden. ^9
 
 
 Besonders seit der Corona-Pandemie hat es sich [[etabliert]], dass die Menschen beim Geschäftstreffen bis hin zum Feierabendbier online zusammenkommen.

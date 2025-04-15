@@ -23,7 +23,7 @@ Antonyme:
 
 ---
 Morpheme:
-[[Gleich]][[gewicht]]
+[[Gleich]][[Gewicht]]
 
 ---
 Einzigartige mögliche Formen: 

@@ -4,6 +4,9 @@ nicht [[sinnlos]]
 ---
 Nun ist es nicht [[sinnvoll]], auf den Klatsch zu verzichten, denn aus den Fehlern der anderen können wir ja selbst etwas lernen.
 
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
+
+
 Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. Außerdem habe ich mich bisher viel zu wenig mit Naturschutz [[beschäftigt]]. Ich werde bestimmt viel Neues lernen. Man muss nicht unbedingt um die halbe Welt reisen, um über den Tellerrand zu schauen, Brüderchen!“
 
 Manchmal sagt er Nein zu Dingen, die [[eigentlich]] ganz [[sinnvoll]] wären. Bestimmt wird er alle [[möglichen]] [[Einwände]] haben: Wo soll er das Geld [[herholen]]?

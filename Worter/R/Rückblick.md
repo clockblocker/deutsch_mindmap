@@ -1,1 +1,1 @@
-, [[Rück]], [[Vorschau]], [[Ausblick]]
+, [[Rück]], [[Vorschau]], [[Ausblick]], [[Rückgang]], [[Rückkehr]]

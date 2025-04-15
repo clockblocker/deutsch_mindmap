@@ -1,1 +1,1 @@
-, [[breiten]], [[verringern]]
+, [[breiten]], [[verringern]], [[senken]], [[senken]]

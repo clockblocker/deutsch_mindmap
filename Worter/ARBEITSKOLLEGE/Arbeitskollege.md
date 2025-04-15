@@ -1,1 +1,1 @@
-, [[Arbeitsstelle]]
+, [[Arbeitsstelle]], [[Kollege]]

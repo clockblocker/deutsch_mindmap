@@ -3,6 +3,9 @@
 ---
 Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]].
 
+*[[07-C1-Schreiben-T2#^2|^]]* Als [[Folge]] [[dauern]] bei Ihnen und Ihrem Team viele [[Arbeitsprozess]]e nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der [[geforderten]] Zeit zu [[erledigen]]. ^2
+
+
 Du kannst dir nicht vorstellen, was ich bis dahin noch alles [[erledigen]] muss. 
 
 [[Die halbe Miete sein.md#^5|(q)]] „es gibt momentan so viele Dinge, die ich [[erledigen]] muss. Mein größtes Problem ist, dass ich für meine kleine Tochter einen Platz in einer [[Kindertagesstätte]] suche. ^5

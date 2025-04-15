@@ -29,3 +29,6 @@ A: den [[Arbeitgebenden]], die [[Arbeitgebenden]]
 G: des [[Arbeitgebenden]], der [[Arbeitgebenden]]
 D: dem [[Arbeitgebenden]], den [[Arbeitgebenden]]
 , [[Erwerbstätigkeit]]
+
+
+#Maskulin 

@@ -22,4 +22,4 @@ G: der [[Behinderung]], der [[Behinderungen]]
 D: der [[Behinderung]], den [[Behinderungen]]  
 
 ---
-[[behindern]], [[behindert]], [[Behindertenrecht]], [[Behindertenausweis]], [[behindertengerecht]], [[stau]], [[mithilfe]], [[Hindernis]], [[Förderung]], [[Hemmung]]
+[[behindern]], [[behindert]], [[Behindertenrecht]], [[Behindertenausweis]], [[behindertengerecht]], [[stau]], [[mithilfe]], [[Hindernis]], [[Förderung]], [[Hemmung]], [[Gesundheit]]

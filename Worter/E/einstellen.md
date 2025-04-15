@@ -1,6 +1,9 @@
 ⚙️ [[einstellen]], [ˈaɪ̯nˌʃtɛlən](https://youglish.com/pronounce/einstellen/german) | [[stellte ein]], haben [[eingestellt]]
 
 ---
+*[[03-C1-Schreiben-T2#^1|^]]* In Ihrer Firma wurde ein neuer Kollege [[eingestellt]], der jetzt mit Ihnen in Ihrem Büro arbeitet. ^1
+
+
 9. Temperatur [[einstellen]].
 
 *[[Einen Ohrwurm haben#^3|^]]* Deshalb hat er auch einen Oldie-[[Sender]] auf seinem Radio-[[Wecker]] [[eingestellt]]. ^3

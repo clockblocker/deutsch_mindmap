@@ -1,1 +1,1 @@
-, [[ausgewogen]]
+, [[ausgewogen]], [[gegenseitig]]

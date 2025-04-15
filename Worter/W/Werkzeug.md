@@ -26,4 +26,4 @@ D: dem [[Werkzeug]], den [[Werkzeugen]]
 [[Werkzeugkasten]], [[Werkzeugmacher]], [[Werkzeugmaschine]], [[Werkzeugbau]], [[werkzeuglos]]
 
 [[mittel]], [[Zirkel]]
-, [[Messer]]
+, [[Messer]], [[Tool]]

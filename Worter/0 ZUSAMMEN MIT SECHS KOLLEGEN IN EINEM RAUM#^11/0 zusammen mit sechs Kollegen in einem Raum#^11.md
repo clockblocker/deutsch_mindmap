@@ -1,0 +1,1 @@
+, [[Vorgesetzte]], [[Sachzwang]], [[Arbeitsbedingung]], [[Kompromissvorschlag]]

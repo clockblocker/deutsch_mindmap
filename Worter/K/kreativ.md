@@ -1,1 +1,1 @@
-, [[ersinnlich]], [[künstlerischer]], [[unternehmerisch]]
+, [[ersinnlich]], [[künstlerischer]], [[unternehmerisch]], [[Kreativität]]

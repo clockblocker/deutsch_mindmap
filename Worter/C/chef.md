@@ -1,1 +1,1 @@
-, [[Regierungschef]], [[Oberhaupt]], [[Herrchen]], [[Führungskraft]], [[Arbeitgeber]]
+, [[Regierungschef]], [[Oberhaupt]], [[Herrchen]], [[Führungskraft]], [[Arbeitgeber]], [[Kollege]], [[Vorgesetzte]]

@@ -1,6 +1,9 @@
 🌐 [[allgemein]], [ˈalɡəˌmaɪ̯n]
 
 ---
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^10|^]]* Ohne diese persönlichen [[Interaktion]]en kann es zu einem [[Rückgang]] der kreativen [[Zusammenarbeit]] und einer [[allgemeinen]] [[Entfremdung]] unter Kollegen kommen. ^10
+
+
 der [[allgemeinen]] Religionsfreiheit
 
 ---
@@ -12,7 +15,7 @@ der [[allgemeinen]] Religionsfreiheit
 general, universal, widespread
 
 ---
-[[all]]|[[gemein]]
+[[Worter/A/All]]|[[gemein]]
 
 ---
 N: [[allgemein]], [[allgemeinerer]], [[allgemeinster]]  

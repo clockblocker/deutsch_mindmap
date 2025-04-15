@@ -1,1 +1,1 @@
-, [[Führungskraft]]
+, [[Führungskraft]], [[direkt]], [[Manager]], [[Vorgesetzte]]

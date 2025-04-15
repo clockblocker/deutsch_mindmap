@@ -1,1 +1,1 @@
-, [[erhöhen]], [[ersetzen]], [[stärken]], [[abschwächen]]
+, [[erhöhen]], [[ersetzen]], [[stärken]], [[abschwächen]], [[steigern]]

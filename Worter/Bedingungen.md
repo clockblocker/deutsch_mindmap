@@ -1,1 +1,1 @@
-🤝 🔴 die [[Bedingung]]
+🤝 🔴 die [[Bedingung]], [[Situation]]

@@ -1,1 +1,1 @@
-, [[verfeinden]], [[anpassen]]
+, [[verfeinden]], [[anpassen]], [[Entfremdung]]

@@ -33,4 +33,4 @@ D: der [[Arbeitszeit]], den [[Arbeitszeiten]]
 
 
 , [[Elternzeit]], [[Arbeitsplatz]]
-, [[Arbeitsauftrag]], [[Arbeitsstelle]], [[Arbeitszeitmodell]]
+, [[Arbeitsauftrag]], [[Arbeitsstelle]], [[Arbeitszeitmodell]], [[Arbeitsform]]

@@ -29,4 +29,4 @@ Morpheme: [[gleit]][[en]]
 | Sie | [[gleiten]] | [[glitten]] | [[gleiten Sie]] | [[gleiten]] | [[glitten]] |
 
 Partizip I: [[gleitend]], Partizip II: [[geglitten]]
-, [[rollen]]
+, [[rollen]], [[einschleichen]]

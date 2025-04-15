@@ -2,7 +2,7 @@
 die [[Arbeitsmodelle]]
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^3|^]]* Ein Beispiel für Maßnahmen zur Stressreduktion ist die [[Einführung]] [[flexibler]] Arbeitszeiten und die Möglichkeit, im Homeoffice oder in hybriden [[Arbeitsmodellen]] zu arbeiten. ^3
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^3|^]]* Ein Beispiel für Maßnahmen zur Stressreduktion ist die [[Einführung]] [[flexibler]] Arbeitszeiten und die Möglichkeit, im Homeoffice oder in hybriden [[Arbeitsmodellen]] zu arbeiten. ^3
 
 
 

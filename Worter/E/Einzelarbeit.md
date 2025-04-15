@@ -1,1 +1,1 @@
-, [[Sozialstunde]]
+, [[Sozialstunde]], [[Teamentwicklung]], [[Gruppendynamik]]

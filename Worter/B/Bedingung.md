@@ -39,4 +39,4 @@ D: der [[Bedingung]], den [[Bedingungen]]
 #Feminin 
 
 
-, [[Rahmenbedingung]]
+, [[Rahmenbedingung]], [[Sachzwang]], [[Arbeitsbedingung]]

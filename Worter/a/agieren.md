@@ -1,1 +1,1 @@
-[[handeln]], [[wirken]], [[Agentur]], [[vorgehen]], [[verhalten]], [[Akteur]]
+[[handeln]], [[wirken]], [[Agentur]], [[Vorgehen]], [[verhalten]], [[Akteur]]

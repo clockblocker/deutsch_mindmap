@@ -2,7 +2,7 @@
 die [[Wegfälle]]
 
 ---
-*[[GPT Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^3|^]]* Der [[Wegfall]] langer [[Geschäftsreise]]n reduziert den Stress und den damit [[verbundenen]] physischen als auch psychischen Druck, der durch ständige [[Abwesenheiten]] [[entstehen]] kann. ^3
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^3|^]]* Der [[Wegfall]] langer [[Geschäftsreise]]n reduziert den Stress und den damit [[verbundenen]] physischen als auch psychischen Druck, der durch ständige [[Abwesenheiten]] [[entstehen]] kann. ^3
 
 
 ---

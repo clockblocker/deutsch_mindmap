@@ -1,6 +1,9 @@
 👀 [[zeigen]], [ˈtsaɪ̯ɡn̩](https://youglish.com/pronounce/zeigen/german) | [[zeigte]], haben [[gezeigt]]
 
 ---
+*[[01-C1-Schreiben-T2#^11|^]]* - Eröffnen Sie Ihr Schreiben höflich, [[indem]] Sie Verständnis für [[Sachzwänge]] [[zeigen]] ^11
+
+
 ANNA: Hey Sam, komm … Wir [[zeigen]] dir die Wohnung.
 ANNA: Ja, [[zeig]] es uns ‘mal!  
 Ich [[zeig]] es dir!  
@@ -80,4 +83,4 @@ sie, [[zeigen]], [[zeigten]], [[zeigen]], [[zeigten]], [[zeigen]]
 Adjektive: [[zeigend]], [[zeigender]], [[zeigendst]]
 
 ---
-[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]]
+[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]], [[Sachzwang]]

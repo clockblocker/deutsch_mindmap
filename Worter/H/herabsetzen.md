@@ -1,1 +1,1 @@
-, [[unterschätzen]], [[benachteiligen]]
+, [[unterschätzen]], [[benachteiligen]], [[senken]], [[senken]]

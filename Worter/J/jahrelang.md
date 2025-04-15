@@ -1,1 +1,1 @@
-, [[Lebensjahr]]
+, [[Lebensjahr]], [[langjährig]]

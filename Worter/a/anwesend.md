@@ -4,6 +4,9 @@ nicht [[abwesend]]
 ---
 Psychologen meinen, dass 60 Prozent aller Gespräche von Menschen handeln, die nicht [[anwesend]] sind. 
 
+*[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^9|^]]* Zum Beispiel, wenn ein paar Tage pro Woche für beide Manager und Angestellte Pflicht sind, im Büro [[anwesend]] zu sein, ist es viel einfacher, alles unter einen Hut zu bringen. ^9
+
+
 In Deutschland hat ein Kind in der Schule [[Anwesenheitspflicht]]
 
 ---

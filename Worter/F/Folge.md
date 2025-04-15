@@ -1,24 +1,59 @@
-**die [[Folge]]**
-**die [[folgen]]**
+👣 🔴 die [[Folge]], [ˈfɔlɡə](https://youglish.com/pronounce/Folge/german) | ➡️ [[folgen]], [ˈfɔlɡn̩] → [[folgte]] → [[gefolgt]]
 
-Beispiele:
+---
 - Und hier ist die [[nächste]] [[Folge]] von Extra!
 
----
+*[[07-C1-Schreiben-T2#^2|^]]* Als [[Folge]] [[dauern]] bei Ihnen und Ihrem Team viele [[Arbeitsprozess]]e nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der [[geforderten]] Zeit zu [[erledigen]]. ^2
 
-Synonyme:
-- [[Episode]]
-- [[Worter/T/Teil]]
-- [[Kapitel]]
+
 
 ---
+= [[Konsequenz]], [[Resultat]], [[Auswirkung]], [[Ergebnis]]
+≈ [[Reihe]], [[Sequenz]], [[Serie]], 
+!=  [[Ursache]]m, [[hinterhergehen]], [[beachten]], [[gehorchen]]
+!≈ [[ignorieren]], [[missachten]]
+?, [[Anfang]], [[Anlass]], [[infolge]], [[Grund]], [[Voraussetzung]], [[Hauptursache]]
 
-**Übersetzung**:
-sequence, episode
 
 ---
+consequence, episode | to follow  
+последствие, серия | следовать
 
-#Substantiv
-#Feminin[[Serie]], [[Ergebnis]], [[Reihe]], [[folgend]], [[Anlass]]
-, [[infolge]]
-, [[Grund]], [[Voraussetzung]], [[Hauptursache]], [[Auswirkung]]
+---
+[[Folgen]], [[Folgerung]], [[Folgerichtigkeit]] | [[Verfolger]], [[Befolgung]], [[Folgsamkeit]], [[folgend]],  [[befolgen]], 
+
+---
+[[folg]]|[[e]]
+[[Folge]]
+
+
+---
+###### [[folgen]] jD
+- Wem [[folgst]] du?
+- Meinen Eltern.
+
+- Warum [[folgen]] wir ihm?
+- Weil er uns führt.
+
+- Wie lange [[bist]] du ihm schon [[gefolgt]]?
+- Seit Jahren.
+
+---
+###### [[folgen]] `auf` jN
+- `Worauf` [[folgst]] du?
+- `Auf` die Anweisungen.
+
+- `Auf` was [[sind]] wir [[gefolgt]]?
+- `Auf` die neuen Trends.
+
+- Wie lange [[bist]] du `darauf` [[gefolgt]]?
+- Seit dem ersten Tag.
+
+---
+N: die [[Folge]], die [[Folgen]]
+A: die [[Folge]], die [[Folgen]]
+G: der [[Folge]], der [[Folgen]]
+D: der [[Folge]], den [[Folgen]]
+
+
+#Feminin 

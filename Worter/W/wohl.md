@@ -3,7 +3,7 @@
 nicht [[unwohl]]
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
 
 
 She [[fühlte]] sich nicht [[wohl]]

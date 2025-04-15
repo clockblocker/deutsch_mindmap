@@ -24,4 +24,4 @@ D: dem [[Fortschritt]], den [[Fortschritten]]
 
 ---
 [[fortschrittlich]], [[fortschreiten]], [[voranschreiten]], [[progressiv]]
-, [[fehlentwicklung]], [[Karriere]], [[Niedergang]], [[Wachstum]], [[Persönlichkeitsentwicklung]], [[Laufbahn]]
+, [[fehlentwicklung]], [[Karriere]], [[Niedergang]], [[Wachstum]], [[Persönlichkeitsentwicklung]], [[Laufbahn]], [[Technologie]]

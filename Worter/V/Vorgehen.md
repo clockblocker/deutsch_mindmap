@@ -1,16 +1,21 @@
-, [[angehen]], [[Verfahren]], [[vorderen]]
-🏃‍♂️ [[vorgehen]], [ˈfoɐ̯ˌgeːən] | [[vorging]], sein [[vorgegangen]]
+🏃‍♂️ [[Vorgehen]], [ˈfoɐ̯ˌgeːən] | [[vorging]], sein [[vorgegangen]]
 
 ---
-Wie soll wir [[vorgehen]]?
+*[[02-C1-Schreiben-T2#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
+
+
+Wie soll wir [[Vorgehen]]?
 
 ---
 = [[voranschreiten]], [[handeln]], [[agieren]]
-≈ [[prozedieren]], [[verfahren]], [[vorgehen]]
+≈ [[prozedieren]], [[verfahren]], [[Vorgehen]]
 ≠ [[zögern]], [[stillstehen]], [[warten]]
 
+, [[angehen]], [[Verfahren]], [[vorderen]]
+
 ---
-to proceed, to act, to go forward
+to proceed, to act, to go forward | procedure, approach  
+порядок действий, подход
 
 ---
 [[vor]]|[[geh]]|[[en]]
@@ -25,7 +30,41 @@ ihr: [[geht vor]], [[vorginget]], [[geht vor]], [[gehet vor]], [[vorginget]]
 PI: [[vorgehend]], PII: [[vorgegangen]], Zu+inf: [[vorzugehen]]
 
 ---
-[[vorgehen]] - [[vor]] = [[gehen]] / to proceed, to act, to go forward
+[[Vorgehen]] - [[vor]] = [[gehen]] / to proceed, to act, to go forward
 
 ---
 [[Vorgang]], [[Vorgehen]], [[Vorgehensweise]], [[Verfahren]], [[vorwärts]]
+
+
+
+*[[02-C1-Schreiben-T2#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
+
+
+🚶 🟢 das [[Vorgehen]], [ˈfoːɐ̯ˌɡeːən](https://youglish.com/pronounce/Vorgehen/german)
+
+---
+
+---
+= [[Verfahren]], [[Vorgehensweise]], [[Handlungsweise]]
+≈ [[Ablauf]], [[Prozedur]], [[Methode]]
+≠ (N/A)
+
+---
+
+
+---
+[[vorgehen]], [[Vorgehensweise]], [[Vorgehensmodell]]
+
+---
+[[das]] [[Vor]]|[[geh]]|[[en]]
+[[das]] + [[Vorgehen]]
+
+
+---
+N: das [[Vorgehen]], die [[Vorgehen]]
+A: das [[Vorgehen]], die [[Vorgehen]]
+G: des [[Vorgehens]], der [[Vorgehen]]
+D: dem [[Vorgehen]], den [[Vorgehen]]
+
+
+#Neuter 

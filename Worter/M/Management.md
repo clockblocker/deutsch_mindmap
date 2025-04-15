@@ -1,1 +1,1 @@
-, [[Leitung]], [[mitteln]], [[Behördenleiter]], [[Verwaltung]], [[Betriebsrat]]
+, [[Leitung]], [[mitteln]], [[Behördenleiter]], [[Verwaltung]], [[Betriebsrat]], [[Manager]], [[Geschäftsführung]]

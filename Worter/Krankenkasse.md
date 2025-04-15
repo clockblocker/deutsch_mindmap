@@ -25,4 +25,4 @@ G: der [[Krankenkasse]], der [[Krankenkassen]]
 D: der [[Krankenkasse]], den [[Krankenkassen]]  
 
 ---
-[[krank]], [[Kasse]], [[versichern]], [[Versicherung]], [[Worter/G/Gesundheit]]
+[[krank]], [[Kasse]], [[versichern]], [[Versicherung]], [[Worter/G/Gesundheit]], [[Gesundheit]]

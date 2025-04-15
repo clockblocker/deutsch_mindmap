@@ -27,4 +27,4 @@ D: dem [[Betrieb]], den [[Betrieben]]
 [[Haushalt]]
 , [[Anlage]], [[Bedienung]], [[Betriebssport]]
 
-#Maskulin 
+#Maskulin , [[Betriebskosten]], [[Betriebszugehörigkeit]], [[betriebseigen]]

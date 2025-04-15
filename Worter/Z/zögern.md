@@ -14,7 +14,6 @@ to hesitate, to delay, to waver
 ---
 [[zöger]][[n]]
    
-
 ---
 
 Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
@@ -35,4 +34,4 @@ Zu+infinitive: [[zu zögern]]
 [[bereit]], [[losziehen]], [[abwarten]], [[rangehen]], [[entscheiden]]
 
 
-, [[entschließen]], [[stürmen]], [[vorstürmen]], [[vorgehen]], [[bestimmen]], [[zaghaft]], [[zweifeln]], [[Zweifel]], [[verzögern]], [[Hemmung]]
+, [[entschließen]], [[stürmen]], [[vorstürmen]], [[Vorgehen]], [[bestimmen]], [[zaghaft]], [[zweifeln]], [[Zweifel]], [[verzögern]], [[Hemmung]]

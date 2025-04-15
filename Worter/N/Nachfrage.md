@@ -4,6 +4,9 @@ die [[Nachfragen]]
 ---
 Das richtige „Bildgefühl" ist auch bei Ikea der Grund für die steigende [[Nachfrage]].
 
+*[[02-C1-Schreiben-T2#^2|^]]* Ihr Teamleiter sollte Ihnen schon vor einer Woche eine [[Grobplanung]] für die Präsentation schicken, die Sie [[bisher]] - trotz [[wiederholter]] [[Nachfrage]] - noch nicht [[erhalten]] haben. ^2
+
+
 171. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
 	- [ ] [[steuert]] sich allein nach [[Angebot]] und [[Nachfrage]].
 

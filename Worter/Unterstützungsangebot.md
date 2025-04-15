@@ -2,7 +2,7 @@
 die [[Unterstützungsangebote]]
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]* Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten. ^7
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]* Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten. ^7
 
 
 ---

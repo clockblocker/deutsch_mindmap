@@ -8,6 +8,9 @@ die [[Wohnorte]]
 19. Was versteht man unter dem Recht der „[[Freizügigkeit]]“ in Deutschland? (77%)
 	- [x] Man darf sich seinen [[Wohnort]] selbst [[aussuchen]].
 
+*[[08-C1-Schreiben-T2#^2|^]]* Das bedeutet, dass Sie Ihr [[Fahrzeug]] dort nicht mehr [[abstellen]] dürfen, da sich Ihre Firma an Ihrem [[Wohnort]] [[befindet]]. ^2
+
+
 ---
 = [[Heimat]], [[Lebensmittelpunkt]]
 ≈ [[Standort]], [[Aufenthaltsort]], [[Domizil]], [[Bleibe]]
@@ -27,3 +30,6 @@ D: dem [[Wohnort]], den [[Wohnorten]]
 
 ---
 [[wohnen]], [[Wohnstätte]], [[Wohngebiet]], [[Wohnraum]], [[Wohnbezirk]], [[Geburtsort]]
+
+
+#Maskulin 

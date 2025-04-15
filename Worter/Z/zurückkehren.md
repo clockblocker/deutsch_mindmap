@@ -40,3 +40,4 @@ Partizip I: [[zurückkehrend]], Partizip II: [[zurückgekehrt]]
 
 
 [[weggehen]], [[ausreißen]]
+, [[Rückkehr]]

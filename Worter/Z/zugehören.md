@@ -1,1 +1,1 @@
-, [[angehören]]
+, [[angehören]], [[Zugehörigkeit]], [[Betriebszugehörigkeit]]

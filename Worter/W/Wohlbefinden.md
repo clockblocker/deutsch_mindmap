@@ -2,10 +2,12 @@
 (no plural form)
 
 ---
-*[[GPT Burnout verhindern – Was können Arbeitgebende tun?#^6|^]]* Unternehmen tragen eine [[wesentlich]]e [[Verantwortung]] für das [[Wohlbefinden]] ihrer [[Mitarbeitenden]]^6
-- 
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^6|^]]* Unternehmen tragen eine [[wesentlich]]e [[Verantwortung]] für das [[Wohlbefinden]] ihrer [[Mitarbeitenden]]^6
 
-- Erläutern Sie, welche Verantwortung Unternehmen für das [[Wohlbefinden]] ihrer Mitarbeitenden tragen.
+*[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^10|^]]* Ein solches hybride Modell [[berücksichtigt]] sowohl ökonomische Vorteile als auch das [[Wohlbefinden]] der Mitarbeiter und [[darstellen|stellt]] somit eine zukunftsweisende Arbeitsform dar. ^10
+
+
+Erläutern Sie, welche Verantwortung Unternehmen für das [[Wohlbefinden]] ihrer Mitarbeitenden tragen.
 
 ---
 = [[Wohlgefühl]], [[Wohlsein]]

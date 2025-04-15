@@ -1,1 +1,1 @@
-, [[hauptsächlich]], [[grundlegend]], [[vorrangig]], [[entscheidend]], [[wesentlich]]
+, [[hauptsächlich]], [[grundlegend]], [[vorrangig]], [[entscheidend]], [[wesentlich]], [[essenziell]]

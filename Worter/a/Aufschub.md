@@ -1,1 +1,1 @@
-, [[Verspätung]], [[Realisierung]]
+, [[Verspätung]], [[Realisierung]], [[Verzögerung]]

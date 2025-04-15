@@ -3,6 +3,9 @@
 ---
 Das Restaurant [[befindet]] sich in der Nähe des Bahnhofs.
 
+*[[08-C1-Schreiben-T2#^2|^]]* Das bedeutet, dass Sie Ihr [[Fahrzeug]] dort nicht mehr [[abstellen]] dürfen, da sich Ihre Firma an Ihrem [[Wohnort]] [[befindet]]. ^2
+
+
 7. Die Antenne [[befindet]] sich über dem Dach.  
 
 8. Wo [[aufhalten|hält]] sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am [[häufigsten]] auf? Am [[häufigsten]] ist er / sie … (98%)

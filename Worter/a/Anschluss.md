@@ -1,1 +1,1 @@
-, [[Abstand]], [[Steckdose]], [[Beitritt]], [[beitreten]]
+, [[Abstand]], [[Steckdose]], [[Beitritt]], [[beitreten]], [[Kontakt]]

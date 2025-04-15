@@ -1,1 +1,1 @@
-, [[zurückkehren]]
+, [[zurückkehren]], [[Rückkehr]]

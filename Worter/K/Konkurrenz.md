@@ -23,4 +23,4 @@ D: der [[Konkurrenz]], den [[Konkurrenzen]]
 
 ---
 [[konkurrieren]], [[Konkurrent]], [[konkurrenzfähig]], [[Konkurrenzkampf]]
-, [[Mitbewerber]]
+, [[Mitbewerber]], [[Teamentwicklung]]

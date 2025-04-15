@@ -5,7 +5,7 @@
 
 , [[verreisen]]
 
-*[[GPT Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^2|^]]* [[Einerseits]] [[ermöglichen]] digitale Tools flexible Arbeitsmodelle und eine [[Reduktion]] von [[Reisezeit]]en und [[Reisekosten]], [[wodurch]] nicht nur die Umwelt [[geschont]] wird, sondern auch die [[Vereinbarkeit]] von Beruf und Privatleben verbessert wird. ^2
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^2|^]]* [[Einerseits]] [[ermöglichen]] digitale Tools flexible Arbeitsmodelle und eine [[Reduktion]] von [[Reisezeit]]en und [[Reisekosten]], [[wodurch]] nicht nur die Umwelt [[geschont]] wird, sondern auch die [[Vereinbarkeit]] von Beruf und Privatleben verbessert wird. ^2
 
 
 ---

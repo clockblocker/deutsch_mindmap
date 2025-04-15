@@ -73,4 +73,4 @@ Konjunktiv II:
 - Wenn er gewusst hätte, dass es regnet, [[nähme mit|nähme]] er den Schirm [[mit]].
 - Wenn wir das Auto hätten, [[nähmen mit|nähmen]] wir alle unsere Sachen [[mit]].
 - Wenn ihr mehr Zeit hättet, [[nähmet mit|nähmet]] ihr eure Freunde [[mit]].
-- Wenn sie nicht so viel Gepäck hätten, [[nähmen mit|nähmen]] sie das Fahrrad [[mit]].[[abholen]][[holen]], [[begleiten]], [[mitbringen]], [[forttragen]], [[ausleihen]]
+- Wenn sie nicht so viel Gepäck hätten, [[nähmen mit|nähmen]] sie das Fahrrad [[mit]].[[abholen]][[holen]], [[begleiten]], [[mitbringen]], [[forttragen]], [[ausleihen]], [[abstellen]]

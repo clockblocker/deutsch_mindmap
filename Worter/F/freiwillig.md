@@ -34,4 +34,4 @@ N: [[freiwilliges]], [[freiwilligeres]], [[freiwilligstes]]
 P: [[freiwilligen]], [[freiwilligeren]], [[freiwilligsten]]  
 
 ---
-[[Freiwilligkeit]], [[Freiwillige]], [[freiwillig melden]], [[Freiwilligenarbeit]], [[Freiwilligendienst]], [[freien]], [[zwangsweise]]
+[[Freiwilligkeit]], [[Freiwillige]], [[freiwillig melden]], [[Freiwilligenarbeit]], [[Freiwilligendienst]], [[freien]], [[zwangsweise]], [[spontan]]

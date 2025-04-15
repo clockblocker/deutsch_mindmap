@@ -1,2 +1,2 @@
 
-, [[verfügbar]], [[Erreichbarkeit]], [[Dauerverfügbarkeit]]
+, [[verfügbar]], [[Erreichbarkeit]], [[Dauerverfügbarkeit]], [[Präsenz]]

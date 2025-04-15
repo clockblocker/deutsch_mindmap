@@ -3,6 +3,9 @@
 ---
 Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
+*[[07-C1-Schreiben-T2#^1|^]]* An Ihrem Arbeitsplatz ist eine neue [[Software]] [[eingeführt]] worden, zu der es jedoch nur eine 10-minütige [[Einführung]] gab. ^1
+
+
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^3|^]]* _Es stellt sich daher die Frage, ob es sinnvoll wäre, Englisch als zweite_ [[Amtssprache]] _in Deutschland_ [[einzuführen]] _. Sicherlich würde es für viele Menschen eine große Erleichterung sein, wenn sie ihre Behördenkorrespondenz auf Englisch durchführen könnten. ^3
 
 

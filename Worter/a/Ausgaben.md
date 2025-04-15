@@ -1,1 +1,1 @@
-[[Ausgabe]]
+[[Ausgabe]], [[Betriebskosten]]
