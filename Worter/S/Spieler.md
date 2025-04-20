@@ -1,1 +1,1 @@
-, [[Vereinstrainer]], [[verspielen]]
+, [[Vereinstrainer]], [[verspielen]], [[Spiel]]

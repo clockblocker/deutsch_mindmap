@@ -4,6 +4,9 @@ die [[Bedingungen]]
 ---
 •	Erklären Sie, unter welchen [[Bedingungen]] sich ein Arbeitgeber für Home-Office aussprechen sollte.
 
+Unter diesen [[Bedingung]]en ist produktives [[Arbeiten]] kaum möglich.
+
+
 Unter [[solchen]] [[Bedingungen]] kann ich nicht arbeiten.
 
 *[[Golfstorm#^18|^]]* Die Meeresströmungen [[abschwächten|schwächten]] sich unter diesen [[Bedingungen]] [[erwartungsgemäß]] ab – aber sie [[kollabierten]] nicht. ^18

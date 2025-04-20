@@ -33,4 +33,4 @@ Verwendungsbeispiele:
 2. Grenzlinie
 3. Telefonlinie
 4. Fluglinie, [[Grenze]], [[Richtlinie]], [[Reihe]], [[Grenz]], [[Oder-Neiße-Linie]]
-, [[Achse]], [[Fläche]]
+, [[Achse]], [[Fläche]], [[Punkt]]

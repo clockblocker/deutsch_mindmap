@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Mieters]], [[Mieter]], [[Mietern]]
 ---
 #Substantiv #Maskulin, [[Extra 8]], [[Miethaus]]
 , [[Miete]]
-, [[Vermieter]], [[mieten]], [[anmieten]], [[Besitzer]], [[Hausverwalter]]
+, [[Vermieter]], [[mieten]], [[anmieten]], [[Besitzer]], [[Hausverwalter]], [[Hausverwaltung]]

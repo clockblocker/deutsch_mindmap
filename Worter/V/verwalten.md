@@ -29,4 +29,4 @@ PI: [[verwaltend]], PII: [[verwaltet]], Zu+inf: [[zu verwalten]]
 [[verwalten]] - [[ver]] = [[walten]] / to administer, to manage, to govern
 
 ---
-[[Verwaltung]], [[Verwalter]], [[verwaltbar]], [[Verwaltungsakt]], [[Verwaltungsrecht]], [[versorgen]], [[Gemeindeverwaltung]], [[Steuern]], [[Verwaltungsaufbau]], [[Stadtverwaltung]], [[Hausverwalter]], [[Gebäudeverwaltung]]
+[[Verwaltung]], [[Verwalter]], [[verwaltbar]], [[Verwaltungsakt]], [[Verwaltungsrecht]], [[versorgen]], [[Gemeindeverwaltung]], [[Steuern]], [[Verwaltungsaufbau]], [[Stadtverwaltung]], [[Hausverwalter]], [[Gebäudeverwaltung]], [[Hausverwaltung]]

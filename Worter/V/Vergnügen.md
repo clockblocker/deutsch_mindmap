@@ -90,3 +90,4 @@ D: dem [[vergnügen]], den [[vergnügen]]
 
 ---
 [[vergnügen]], [[vergnüglich]], [[vergnügt]], [[genießen]], [[erfreuen]], [[s1 e1]]
+, [[Spiel]]

@@ -1,1 +1,1 @@
-, [[Hausverwalter]]
+, [[Hausverwalter]], [[Hausverwaltung]]

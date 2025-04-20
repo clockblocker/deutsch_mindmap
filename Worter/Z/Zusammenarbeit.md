@@ -29,4 +29,4 @@ G: der [[Zusammenarbeit]], der [[Zusammenarbeiten]]
 D: der [[Zusammenarbeit]], den [[Zusammenarbeiten]]
 
 
-#Feminin , [[Gruppendynamik]]
+#Feminin , [[Gruppendynamik]], [[Team]]

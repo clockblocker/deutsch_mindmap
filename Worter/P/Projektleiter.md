@@ -1,1 +1,1 @@
-, [[Projektleitung]], [[Projekt]]
+, [[Projektleitung]], [[Projekt]], [[Projektmanager]]

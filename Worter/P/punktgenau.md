@@ -1,2 +1,2 @@
 
-, [[pünktlich]], [[genau]]
+, [[pünktlich]], [[genau]], [[Punkt]]

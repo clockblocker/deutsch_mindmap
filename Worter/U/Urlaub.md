@@ -34,4 +34,4 @@ D: dem [[Urlaub]], den [[Urlauben]]
 , [[Bindungsurlaub]], [[Reise]], [[Abwesenheit]], [[Arbeitsform]]
 
 
-#Maskulin 
+#Maskulin , [[Bürosituation]]

@@ -1,1 +1,1 @@
-, [[Urkunde]], [[Zettel]]
+, [[Urkunde]], [[Zettel]], [[Punkt]]

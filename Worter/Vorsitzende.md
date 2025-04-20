@@ -27,4 +27,4 @@ G: des/der [[Vorsitzenden]], der [[Vorsitzenden]]
 D: dem/der [[Vorsitzenden]], den [[Vorsitzenden]]  
 
 ---
-[[vorsitzen]], [[Vorsitz]], [[Vorstandsvorsitzende]], [[Aufsichtsratsvorsitzende]]
+[[vorsitzen]], [[Vorsitz]], [[Vorstandsvorsitzende]], [[Aufsichtsratsvorsitzende]], [[Ende]], [[Pitch]]

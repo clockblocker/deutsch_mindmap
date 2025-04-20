@@ -29,4 +29,4 @@ D: dem [[Vortrag]], den [[Vorträgen]]
 ---
 [[vortragen]], [[vorgetragen]], [[Vortragende]], [[vortragend]], [[Vorlesung]]
 
-#Maskulin 
+#Maskulin , [[Pitch]]

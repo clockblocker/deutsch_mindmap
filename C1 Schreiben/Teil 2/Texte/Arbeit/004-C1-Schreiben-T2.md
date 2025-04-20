@@ -28,8 +28,7 @@ Ich danke Ihnen im Voraus für Ihr Verständnis.
 Mit freundlichen Grüßen  
 Denis Popov
 
-
-![[ElevenLabs_2025-04-17T02_00_07_Otto_pvc_sp100_s34_sb46_se0_b_m2.mp3]]
+![[ElevenLabs_2025-04-20T04_55_52_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]
 
 ---
 
@@ -43,17 +42,29 @@ Ihr Büro befindet sich in einem großen Gebäude, in dem mehrere Firmen Räume 
 
 Sehr geehrter Herr Jung,
 
-*ich wende mich an Sie, um auf die Situation mit* Ihrem Hund *noch einmal einzugehen.*
+*ich wende mich an Sie, um auf 
+die Situation mit* Ihrem [[Hund]] 
+*noch einmal einzugehen.*
 
-*Ich habe vollstes Verständnis dafür, dass* ein junger Hund kaum allein zu Hause bleiben kann und Sie sich daher gezwungen sehen, ihn mit ins Büro zu bringen.
+*Ich habe vollstes Verständnis dafür, 
+dass* ein junger Hund kaum allein zu [[Haus]]e bleiben kann 
+und Sie sich daher gezwungen sehen, ihn mit ins [[Büro]] zu bringen.
 
-*Allerdings* *ist* sein ständiges Bellen *ein großes Problem* für unser Team: es erschwert nicht nur Online-Meetings und Kundengespräche erheblich, sondern stört auch die allgemeine Konzentration. 
+*Allerdings* *ist* sein ständiges [[Bellen]] *ein großes Problem* für unser [[Team]]: 
+es erschwert nicht nur Online-Meetings und Kundengespräche erheblich, 
+sondern stört auch die allgemeine Konzentration. 
 
-*Falls sich die Situation nicht ändert,* *werde ich gezwungen sein*, mich offiziell an die Hausverwaltung zu wenden. Unter diesen Bedingungen ist produktives Arbeiten kaum möglich.
+*Falls sich die [[Situation]] nicht ändert,* 
+*werde ich gezwungen sein*, 
+mich offiziell an die [[Hausverwaltung]] zu wenden. 
+Unter diesen [[Bedingung]]en ist produktives [[Arbeiten]] kaum möglich.
 
-Wenn zeitweises Homeoffice keine Lösung darstellt, schlage ich vor, den Hund während der Arbeitszeit in Betreuung zu geben.
+*Wenn* zeitweises [[Homeoffice]] *keine [[Lösung]] darstellt,* 
+*schlage ich vor,* den Hund während der Arbeitszeit in Betreuung zu geben.
 
 *Ich danke Ihnen im Voraus für Ihr Verständnis.*
 
 *Mit freundlichen Grüßen*  
 *Denis Popov*
+
+![[ElevenLabs_2025-04-20T04_55_52_Otto_pvc_sp100_s100_sb100_se24_b_m2 1.mp3]]

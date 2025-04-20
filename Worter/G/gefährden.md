@@ -1,1 +1,1 @@
-, [[schaden]], [[beschützen]], [[Gefahr]], [[gewährleisten]], [[sichern]]
+, [[schaden]], [[beschützen]], [[Gefahr]], [[gewährleisten]], [[sichern]], [[aufs Spiel setzen]]

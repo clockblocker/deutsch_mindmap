@@ -1,4 +1,4 @@
- das [[Risiko]], [ˈʁɪzɪko]
+das [[Risiko]], [ˈʁɪzɪko]
 die [[Risiken]]
 
 ---
@@ -26,4 +26,6 @@ D: dem [[Risiko]], den [[Risiken]]
 [[riskant]], [[riskieren]], [[Risikomanagement]], [[Risikobereitschaft]], [[risikofrei]]
 
 , [[Risiko]], [[eigentlich]], [[Schutz]], [[Geburtsvorbereitung]]
-, [[Versicherung]], [[Lebensversicherung]], [[Pfand]], [[Erfolgsfaktor]], [[Notfallschutz]], [[risikoreich]]
+, [[Versicherung]], [[Lebensversicherung]], [[Pfand]], [[Erfolgsfaktor]], [[Notfallschutz]], [[risikoreich]], [[aufs Spiel setzen]]
+
+#Neuter 

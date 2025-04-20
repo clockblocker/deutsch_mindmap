@@ -1,1 +1,1 @@
-[[setzen]], [[einsetzen]], [[Entsetzen]], [[Gesetz]], [[besetzen]], [[übersetzen]], [[aussetzen]], [[Voraussetzung]], [[auseinandersetzen]], [[umsetzen]], [[Übersetzung]]
+[[setzen]], [[einsetzen]], [[Entsetzen]], [[Gesetz]], [[besetzen]], [[übersetzen]], [[aussetzen]], [[Voraussetzung]], [[auseinandersetzen]], [[umsetzen]], [[Übersetzung]], [[aufs Spiel setzen]]

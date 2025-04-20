@@ -1,2 +1,2 @@
 , [[Vortrag]], [[Redewendung]]
-, [[verabreden]], [[Äußerung]], [[Anrede]], [[Nachrede]]
+, [[verabreden]], [[Äußerung]], [[Anrede]], [[Nachrede]], [[Pitch]]

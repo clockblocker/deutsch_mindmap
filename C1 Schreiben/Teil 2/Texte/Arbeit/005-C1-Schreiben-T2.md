@@ -16,7 +16,7 @@ Sehr geehrte Frau Marek,
 
 ich habe vollstes Verständnis dafür, wie wichtig Pünktlichkeit ist – besonders, wenn eine Projektpräsentation bereits in der nächsten Woche ansteht.
 
-Leider war meine Tochter unerwartet krank geworden, und ich war gezwungen, sie zur Notbetreuung zu bringen. Ich hätte Sie über meine mögliche Verspätung informieren müssen; dafür möchte ich mich entschuldigen.
+Leider war meine Frau unerwartet krank geworden, und ich war gezwungen, sie in den Notfall zu bringen. Ich hätte Sie über meine mögliche Verspätung informieren müssen; dafür möchte ich mich entschuldigen.
 
 Allerdings halte ich einen schriftlichen Hinweis in diesem Fall für überzogen: Ich bin seit vielen Jahren Teil des Unternehmens und war in all den Jahren noch nie zu spät.
 
@@ -26,7 +26,7 @@ Auf eine Antwort von Ihnen freue ich mich.
 
 Denis Popov
 
-![[ElevenLabs_2025-04-17T02_00_47_Otto_pvc_sp100_s34_sb46_se0_b_m2.mp3]]
+![[ElevenLabs_2025-04-20T05_15_05_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]
 
 ---
 
@@ -40,21 +40,28 @@ Schreiben Sie circa 120 Wörter.
 
 ---
 
-Sehr geehrte Frau Marek,
+*Sehr geehrte Frau Marek,*
 
-ich wende mich an Sie, um auf die Situation
-mit Ihren Hinweis auf mein Zuspätkommen
-einzugehen.
+*ich habe vollstes Verständnis dafür,*
+wie wichtig Pünktlichkeit ist *– besonders,* 
+*wenn* eine Projektpräsentation bereits in der nächsten Woche ansteht.
 
-Ich habe vollstes Verständnis dafür, wie wichtig Pünktlichkeit ist – besonders in unserem Projektumfeld, wo Zeitnot zu Arbeitsdruck kommen kann.
+*Leider* war meine Frau unerwartet krank geworden, 
+*und ich war gezwungen,*
+sie in den [[Notfall]] zu bringen.
+*Ich hätte* Sie über meine mögliche Verspätung informieren *müssen;* 
+*dafür möchte ich mich entschuldigen.*
 
-Leider ist meine Tochter unerwartet krank geworden und die Babysitterin konnte erst um 9 Uhr bei uns sein. Ich hätte Sie über mein Zuspätkommen informieren müssen, dafür möchte ich mich entschuldigen, denn in dem morgendlichen Stress habe ich das einfach vergessen.
+*Allerdings* halte ich einen schriftlichen Hinweis in diesem Fall für überzogen: 
+Ich bin seit vielen Jahren Teil des Unternehmens 
+und war in all den Jahren noch nie zu spät.
 
-Allerdings finde ich einen schriftlichen Hinweis in diesem Fall überzogen: Ich bin seit vielen Jahren Teil des Unternehmens und war in all den Jahren noch nie zu spät.
-
-Sollte es – was ich nicht hoffe – noch einmal zu einer Verspätung kommen, werde ich Sie direkt informieren und vielleicht könnten Sie vor dem Verfassen einer E-Mail das Gespräch mit mir direkt suchen. 
+Sollte es noch einmal zu einer Verspätung kommen, 
+werde ich Sie direkt informieren und ich würde es begrüßen, 
+wenn Sie in einem solchen Fall zunächst das direkte Gespräch suchen.
 
 Auf eine Antwort von Ihnen freue ich mich.
 
-*Mit freundlichen Grüßen*
 Denis Popov
+
+![[ElevenLabs_2025-04-20T05_15_05_Otto_pvc_sp100_s100_sb100_se24_b_m2 1.mp3]]

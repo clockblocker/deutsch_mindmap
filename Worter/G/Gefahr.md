@@ -32,4 +32,4 @@ D: der [[Gefahr]], den [[Gefahren]]
 ---
 [[gefährlich]], [[gefährden]], [[gefährten]], [[Gefahrenzone]], [[Gefahrenstufe]], [[Notfallschutz]]
 
-#Feminin 
+#Feminin , [[aufs Spiel setzen]]

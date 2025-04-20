@@ -1,1 +1,1 @@
-, [[Teamfähigkeit]], [[Gruppendynamik]], [[Teamleiter]]
+, [[Teamfähigkeit]], [[Gruppendynamik]], [[Teamleiter]], [[Team]]

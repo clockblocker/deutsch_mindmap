@@ -29,4 +29,4 @@ PI: [[anspielend]], PII: [[angespielt]], Zu+inf: [[anzuspielen]]
 [[anspielen]] - [[an]] = [[spielen]] / to allude to, to hint at
 
 ---
-[[Anspielung]], [[Anspieler]], [[anspielungsreich]], [[anspielungsweise]]
+[[Anspielung]], [[Anspieler]], [[anspielungsreich]], [[anspielungsweise]], [[Spiel]]

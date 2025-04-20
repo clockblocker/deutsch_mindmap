@@ -28,4 +28,4 @@ G: des [[Leiters]], der [[Leiter]]
 D: dem [[Leiter]], den [[Leitern]] 
 
 ---
-[[leiten]], [[Leiterin]], [[Leitersprossen]], [[aufsteigen]], [[Nachwuchsmanager]], [[Arbeitgeber]], [[Hierarchie]], [[Manager]], [[Vorgesetzte]], [[Teamleiter]], [[Einkaufsleiterin]]
+[[leiten]], [[Leiterin]], [[Leitersprossen]], [[aufsteigen]], [[Nachwuchsmanager]], [[Arbeitgeber]], [[Hierarchie]], [[Manager]], [[Vorgesetzte]], [[Teamleiter]], [[Einkaufsleiterin]], [[Projektmanager]]

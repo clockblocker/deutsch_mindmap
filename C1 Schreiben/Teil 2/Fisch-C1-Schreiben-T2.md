@@ -25,6 +25,8 @@ Ich habe vollstes Verständnis dafür, dass
 - *ein Umzug unter Zeitdruck* nicht alle Bedürfnisse berücksichtigen kann.
 - *es angesichts des Arbeits- und Zeitdrucks* zu Verzögerungen kommen kann
 - ein *junger Hund* kaum allein zu Hause bleiben kann und Sie sich daher gezwungen sehen, *ihn mit ins Büro zu bringen.*
+(– besonders, wenn *eine Projektpräsentation bereits in der nächsten Woche ansteht.*)
+
 Allerdings
 - hat sich *meine Arbeitssituation in dem neuen Gebäude* signifikant verändert.
 - steht *die Präsentation* bereits nächste Woche an. 
@@ -42,14 +44,17 @@ Dennoch
 - Konzentration der sechs Kolleg:innen stören
 - es birgt das Risiko, dass / das Risiko bergen, dass
 - sensible Informationen von unbeteiligten Mitarbeitenden mitgehört werden.
+
 - Demoversion *unseres "E-Ledger" Projekts* ist *seit drei Tagen* im *internen Produktionssystem* verfügbar
 - Allerdings ist *sein ständiges Bellen* ein großes Problem für unser Team:
 - es erschwert *Online-Meetings und Kundengespräche* erheblich, 
 - stört die allgemeine Konzentration. 
 
 #### Entschuldigung 
-Leider *war meine Tochter unerwartet krank geworden und die Babysitterin konnte erst um 9 Uhr bei uns sein.* Ich hätte Sie *über mein Zuspätkommen informieren* müssen, dafür möchte ich mich entschuldigen, denn *in dem morgendlichen Stress habe ich das einfach vergessen.*
+- Leider war *meine Tochter unerwartet krank* geworden, 
+- und ich war gezwungen, *sie zur Notbetreuung zu bringen.*
 
+- Ich hätte *Sie über meine mögliche Verspätung informieren* müssen; dafür möchte ich mich entschuldigen.
 
 
 ---
@@ -71,6 +76,9 @@ können wir *den Pitch verlieren* – und damit *monatelange Vorarbeit aufs Spie
 
 *Unter diesen Bedingungen ist produktives Arbeiten kaum möglich.*
 
+#### Unmut
+Allerdings halte ich *einen schriftlichen Hinweis* in diesem Fall für überzogen: 
+- Ich bin seit vielen Jahren Teil des Unternehmens, *und war in all den Jahren* noch nie zu spät.
 
 
 
@@ -86,6 +94,11 @@ Wenn *die neuen Räume* kein *separates Büro* anbieten können, schlage ich vor
 - ein paar Telefonzellen einzubauen.
 
 Wenn *zeitweises Homeoffice* keine Lösung darstellt, schlage ich vor, *den Hund während der Arbeitszeit in Betreuung zu geben.*
+
+#### Umgang
+Sollte es noch einmal zu *einer Verspätung* kommen, 
+werde ich *Sie direkt informieren* und ich würde es begrüßen, 
+wenn Sie in einem solchen Fall *zunächst das direkte Gespräch suchen.*
 
 
 ---

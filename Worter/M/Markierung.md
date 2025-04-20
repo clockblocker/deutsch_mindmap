@@ -1,1 +1,1 @@
-, [[Zeichen]], [[Nummerierung]], [[Grenze]], [[Grenz]], [[kennzeichnen]]
+, [[Zeichen]], [[Nummerierung]], [[Grenze]], [[Grenz]], [[kennzeichnen]], [[Punkt]]

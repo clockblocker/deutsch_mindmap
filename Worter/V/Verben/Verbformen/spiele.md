@@ -1,1 +1,1 @@
-**Inf**: [[spielen]]
+**Inf**: [[spielen]], [[Spiel]]
