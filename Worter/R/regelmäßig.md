@@ -2,6 +2,11 @@
 nicht [[unregelmäßig]]
 
 ---
+
+[[ständig]], [[dauerhaft]], [[regelmäßig]]
+
+---
+
 Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird. 
 
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11

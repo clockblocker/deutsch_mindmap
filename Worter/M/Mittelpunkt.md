@@ -29,4 +29,4 @@ G: des [[Mittelpunkts]], der [[Mittelpunkte]]
 D: dem [[Mittelpunkt]], den [[Mittelpunkten]]
 
 
-#Maskulin 
+#Maskulin , [[Raummitte]]

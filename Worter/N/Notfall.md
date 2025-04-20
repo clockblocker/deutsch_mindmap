@@ -5,6 +5,8 @@ die [[Notfälle]]
 ---
 NIC: Keine [[Panik]]! Ich bin da! Wo ist der [[Notfall]]?  
 
+*[[08-C1-Schreiben-T2-M#^16|^]]* Ich könnte [[notfalls]] auch für die Parkplatznutzung etwas zahlen. ^16
+
 
 ---
 Synonyme:

@@ -1,6 +1,9 @@
 😤 [[beschweren]] über + Akk.  , [bəˈʃveːʁən] | [[beschwerte]], haben [[beschwert]], [[beschwert]]
 
 ---
+*[[04-C1-Schreiben-T2-M#^13|^]]* Ich möchte Sie daher noch einmal [[höflich]] bitten, sich darum zu [[kümmern]], dass Ihr Hund uns nicht weiter mit seinem Bellen [[belästigt]], da ich mich [[ansonsten]] leider [[gezwungen]] sehe, mich direkt beim [[Hausverwalter]] über Sie zu [[beschweren]]. ^13
+
+
 284. Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)
 	- [x] Ich kann mich beim [[Behördenleiter]] / bei der Behördenleiterin [[beschweren]].
 

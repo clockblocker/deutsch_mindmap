@@ -7,6 +7,9 @@
 *[[Lektionen/Bekker/verben/2#^7|^]]* Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
 
 
+*[[04-C1-Schreiben-T2-M#^13|^]]* Ich möchte Sie daher noch einmal [[höflich]] bitten, sich darum zu [[kümmern]], dass Ihr Hund uns nicht weiter mit seinem Bellen [[belästigt]], da ich mich [[ansonsten]] leider [[gezwungen]] sehe, mich direkt beim [[Hausverwalter]] über Sie zu [[beschweren]]. ^13
+
+
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
 
 

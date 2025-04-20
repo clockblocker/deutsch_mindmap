@@ -4,6 +4,12 @@ nicht [[schwer]]
 ---
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
 
+*[[03-C1-Schreiben-T2-M#^13|^]]* So hätten auch die Kolleginnen und Kollegen aus den anderen Büros [[leichter]] [[Zugang]] zum Kopierer und wir hätten wieder Platz für den [[Gemeinschaftstisch]]. ^13
+
+
+*[[01-C1-Schreiben-T2-M#^6|^]]* Wenn die neuen [[Räumlichkeiten]] kein [[separates]] Büro [[anbieten]] können, schlage ich vor, eine [[leichte]] [[Modulwand]] zu errichten, um sowohl mich, als auch meine Kollegin im [[Einkaufsbereich]] Frau Schneider [[abzugrenzen]]. ^6
+
+
 *Als sie nun durch das Zimmer sprang*  
 *mit [[leichtem]] Mut und Sing und Sang,*  
 

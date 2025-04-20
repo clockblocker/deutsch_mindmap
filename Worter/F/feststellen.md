@@ -3,7 +3,10 @@
 haben [[festgestellt]]
 
 ---
-*[[01-C1-Schreiben-T2#^10|^]]* Bei Ihrer [[Rückkehr]] [[feststellen|stellen]] Sie überrascht fest, dass Sie nicht mehr allein, sondern zusammen mit sechs Kolleginnen und Kollegen in einem Raum sitzen. ^10
+*[[01-C1-Schreiben-T2-M#^10|^]]* Bei Ihrer [[Rückkehr]] [[feststellen|stellen]] Sie überrascht fest, dass Sie nicht mehr allein, sondern zusammen mit sechs Kolleginnen und Kollegen in einem Raum sitzen. ^10
+
+
+*[[01-C1-Schreiben-T2-M#^2|^]]* Nach meiner Rückkehr habe ich [[festgestellt]], dass ich den Raum noch mit sechs Kolleginnen und Kollegen zu [[teilen]] habe, die [[teilweise]] für den [[Verkauf]] in unserer Firma [[tätig]] sind. ^2
 
 
 Wenn man die vielen Galerien und Ausstellungen in Banken und Einkaufszentren dazuzählt, muss man [[feststellen]]: Es gehen mehr Menschen 10 ins Museum als ins Kino.

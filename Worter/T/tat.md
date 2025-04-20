@@ -28,3 +28,4 @@ G: der [[Tat]], der [[Taten]]
 D: der [[Tat]], den [[Taten]]
 
 #Feminin 
+, [[Leistung]]

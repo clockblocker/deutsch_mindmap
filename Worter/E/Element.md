@@ -1,1 +1,1 @@
-, [[Metallteile]], [[Bestandteil]]
+, [[Metallteile]], [[Bestandteil]], [[Modulwand]]

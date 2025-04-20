@@ -37,4 +37,4 @@ G: des [[Zugriffs]], der [[Zugriffe]]
 D: dem [[Zugriff]], den [[Zugriffen]]
 
 
-#Maskulin
+#Maskulin, [[Internetzugang]]

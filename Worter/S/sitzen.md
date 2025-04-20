@@ -31,4 +31,4 @@ PI: [[sitzend]], PII: [[gesessen]], Zu+inf: [[zu sitzen]]
 [[sitzen]] - [[si]] = [[tzen]] / to sit, to be seated, to take a seat
 
 ---
-[[Sitz]], [[Sitzplatz]], [[Sitzgelegenheit]], [[sitzend]], [[sitzsam]], [[tanzen]]
+[[Sitz]], [[Sitzplatz]], [[Sitzgelegenheit]], [[sitzend]], [[sitzsam]], [[tanzen]], [[Hundesitter]]

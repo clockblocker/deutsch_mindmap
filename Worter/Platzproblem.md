@@ -2,10 +2,10 @@
 die [[Platzprobleme]]
 
 ---
-*[[03-C1-Schreiben-T2#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2
+*[[03-C1-Schreiben-T2-M#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2
 
 
-*[[03-C1-Schreiben-T2#^6|^]]* * Beschreiben Sie das [[Platzproblem]], das sich durch den neuen Arbeitsplatz des Kollegen im [[Raum]] [[ergeben]] hat. ^6
+*[[03-C1-Schreiben-T2-M#^6|^]]* * Beschreiben Sie das [[Platzproblem]], das sich durch den neuen Arbeitsplatz des Kollegen im [[Raum]] [[ergeben]] hat. ^6
 
 
 ---

@@ -1,1 +1,1 @@
-, [[Klingelbeil]]
+, [[Klingelbeil]], [[Lautstärke]]

@@ -1,1 +1,1 @@
-[[übergeben]][[abpacken]], [[abgeben]], [[aussetzen]]
+[[übergeben]][[abpacken]], [[abgeben]], [[aussetzen]], [[beliefern]]

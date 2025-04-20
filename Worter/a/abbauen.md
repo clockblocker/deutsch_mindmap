@@ -19,7 +19,7 @@ to reduce, to dismantle
 [[Abbau]], [[Abbauung]], [[Bauer]], [[aufbauen]], [[Abbaugebiet]]
 
 ---
-[[ab]]|[[bau]]|[[en]]
+[[ab]]|[[Bau]]|[[en]]
 [[ab]] + [[bauen]]
 
 

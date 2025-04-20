@@ -4,6 +4,9 @@ nicht [[getrennt]]
 ---
 Sie wurde [[gemeinsam]] von Historikern und ehemaligen DDR-Bürgern zusammengestellt.
 
+*[[02-C1-Schreiben-T2-M#^7|^]]* wie wir alle in dieser Firma stehen auch Sie unter großem [[Zeitdruck]] und ich bin mir sicher, dass Sie unser [[gemeinsames]] Projekt nicht aus den Augen verloren haben. ^7
+
+
 Die beiden Firmen [[verfolgen]] ein [[gemeinsames]] Ziel.
 
 10 Während der ersten Hälfte der 1960er-Jahre kooperierte Richter in [[gemeinsamen]] Ausstellungen mit Sigmar Polke, Konrad Lueg und Manfred Kuttner.
@@ -34,4 +37,4 @@ Einzigartige mögliche Formen:
 
 [[vereint]], [[einzelnen]], [[aneinander]], [[zu zweit]]
 , [[Gemeinde]], [[einzelne]]
-, [[einig]], [[Gemeinschaft]], [[gegenseitig]]
+, [[einig]], [[Gemeinschaft]], [[gegenseitig]], [[Gemeinschaftstisch]]

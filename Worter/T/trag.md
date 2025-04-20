@@ -1,3 +1,3 @@
 , [[Vortrag]], [[Aufträgen]], [[vertragen]], [[forttragen]]
 , [[Arbeitsauftrag]]
-, [[Auftrag]], [[tragen]]
+, [[Auftrag]], [[tragen]], [[tragbar]]

@@ -1,1 +1,1 @@
-, [[Ansichtskarte]]
+, [[Ansichtskarte]], [[Foto]]

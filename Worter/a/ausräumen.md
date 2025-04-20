@@ -1,1 +1,1 @@
-[[abpacken]], [[füllen]], [[einlegen]]
+[[abpacken]], [[füllen]], [[einlegen]], [[Räumlichkeit]]

@@ -1,1 +1,1 @@
-, [[sonst]], [[stattdessen]], [[Konnektoren]], [[Konnektivpartikeln]]
+, [[sonst]], [[stattdessen]], [[Konnektoren]], [[Konnektivpartikeln]], [[ansonsten]]

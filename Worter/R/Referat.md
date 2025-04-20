@@ -1,1 +1,1 @@
-, [[Vortrag]], [[Vorlesung]]
+, [[Vortrag]], [[Vorlesung]], [[Präsentation]]

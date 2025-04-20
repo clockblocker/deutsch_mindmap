@@ -11,7 +11,7 @@ Antonyme: [[verfallen]], [[zerstören]], [[abreißen]]
 to rebuild, to remodel, to renovate
 
 ---
-[[um]][[bau]][[en]]
+[[um]][[Bau]][[en]]
  
 ---
 

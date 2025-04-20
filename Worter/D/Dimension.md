@@ -1,1 +1,1 @@
-, [[Ebene]], [[Umfang]]
+, [[Ebene]], [[Umfang]], [[Plakatgröße]]

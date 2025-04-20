@@ -1,1 +1,1 @@
-, [[Eiserner Vorhang]]
+, [[Eiserner Vorhang]], [[separat]]

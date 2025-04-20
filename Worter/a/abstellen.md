@@ -1,7 +1,7 @@
 🅿️ [[abstellen]], [ˈapˌʃtɛlən](https://youglish.com/pronounce/abstellen/german) → [[stellte ab]] → [[abgestellt]]
 
 ---
-*[[08-C1-Schreiben-T2#^2|^]]* Das bedeutet, dass Sie Ihr [[Fahrzeug]] dort nicht mehr [[abstellen]] dürfen, da sich Ihre Firma an Ihrem Wohnort befindet. ^2
+*[[08-C1-Schreiben-T2-M#^2|^]]* Das bedeutet, dass Sie Ihr [[Fahrzeug]] dort nicht mehr [[abstellen]] dürfen, da sich Ihre Firma an Ihrem Wohnort befindet. ^2
 
 
 ---

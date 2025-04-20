@@ -3,6 +3,8 @@
 ---
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 
+*dass* ein Umzug unter Zeitdruck nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann.
+
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^10|^]]* Ein solches hybride Modell [[berücksichtigt]] sowohl ökonomische Vorteile als auch das [[Wohlbefinden]] der Mitarbeiter und [[darstellen|stellt]] somit eine zukunftsweisende Arbeitsform dar. ^10
 
 

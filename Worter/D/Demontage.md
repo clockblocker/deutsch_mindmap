@@ -1,1 +1,1 @@
-, [[Bauart]]
+, [[Bauart]], [[Zusammenbau]]

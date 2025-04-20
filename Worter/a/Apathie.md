@@ -1,1 +1,1 @@
-, [[Neugier]], [[Karrierebewusstsein]], [[Motivation]]
+, [[Neugier]], [[Karrierebewusstsein]], [[Motivation]], [[Interesse]]

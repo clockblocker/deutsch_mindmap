@@ -3,6 +3,8 @@ die [[Steckdosen]]
 
 
 ---
+[[Internetzugang]] und [[Stromanschluss]] + [[Steckdosen]]
+
 Waschmaschine an die [[Steckdose]] anschließen oder:
 
 
@@ -21,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Steckdose]], [[Steckdoses]], [[Steckdosen]], [[Steckdosen]]
 
 ---
-#Substantiv #Feminin, [[anschließen]]
+#Substantiv #Feminin, [[anschließen]], [[Stromanschluss]]

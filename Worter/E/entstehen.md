@@ -4,6 +4,9 @@
 [[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
 
 
+*[[03-C1-Schreiben-T2-M#^9|^]]* Leider ist durch den zusätzlichen Schreibtisch in unserem [[Großraumbüro]] ein Platzproblem [[entstanden]]. ^9
+
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^3|^]]* Der [[Wegfall]] langer [[Geschäftsreise]]n reduziert den Stress und den damit [[verbundenen]] physischen als auch psychischen Druck, der durch ständige [[Abwesenheiten]] [[entstehen]] kann. ^3
 
 

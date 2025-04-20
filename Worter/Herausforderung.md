@@ -18,6 +18,10 @@ die [[Herausforderungen]]
 
 [[1 ADHD#^9|(q)]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
+
+*[[06-C1-Schreiben-T2-M#^9|^]]* Leider stehen wir Mitarbeitende nun durch das Schließen der Kantine vor einer größeren [[Herausforderung]]: Wie Sie sicher wissen, gibt es keine anderen Restaurants oder Supermärkte im [[Umkreis]] und selbst, wenn wir uns unser Essen mitbringen würden, könnten wir es dennoch nicht warm machen, da die Teeküchen nicht dafür [[ausgestattet]] sind. ^9
+
+
 ---
 = [[Aufgabe]], [[Prüfung]], [[Worter/T/Test]]
 ≈ [[Schwierigkeit]], [[Hindernis]], [[Probe]], [[Bewährungsprobe]]

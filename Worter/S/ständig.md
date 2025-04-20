@@ -2,6 +2,10 @@
 nicht [[vorübergehend]]
 
 ---
+
+[[ständig]], [[dauerhaft]], [[regelmäßig]]
+
+---
 [[Eine Extrawurst bekommen.md#^4|(q)]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
 
 

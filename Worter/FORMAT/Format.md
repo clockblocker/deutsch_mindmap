@@ -1,1 +1,1 @@
-, [[Textsorte]]
+, [[Textsorte]], [[Plakatgröße]]

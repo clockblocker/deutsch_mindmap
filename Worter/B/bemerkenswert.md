@@ -1,1 +1,1 @@
-, [[außergewöhnlich]], [[rekordverdächtig]], [[bedeutend]]
+, [[außergewöhnlich]], [[rekordverdächtig]], [[bedeutend]], [[signifikant]]

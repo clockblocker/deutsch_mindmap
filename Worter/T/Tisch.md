@@ -27,4 +27,4 @@ D: dem [[Tisch]], den [[Tischen]]
 , [[Kocher]], [[Lehrerpult]]
 
 #Maskulin  
-#Maskulin 
+#Maskulin , [[Gemeinschaftstisch]]

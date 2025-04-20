@@ -28,7 +28,7 @@ Antonyme: [[abreißen]], [[zerstören]], [[abbauen]]
 Übersetzung: to build, to construct
 
 ---
-Morpheme: [[bau]][[en]]
+Morpheme: [[Bau]][[en]]
  #Verb  #Untrennbar
 
 ---
@@ -46,4 +46,4 @@ Partizip I: [[bauend]], Partizip II: [[gebaut]]
 
 +[[Worter/A/auf]] = [[aufbauen]], 
 
-[[einbauen]], [[umbauen]], [[errichteten]], [[Gebäude]], [[s1 e1]], [[Bauingenieur]], [[Baustelle]], [[Bauart]]
+[[einbauen]], [[umbauen]], [[errichteten]], [[Gebäude]], [[s1 e1]], [[Bauingenieur]], [[Baustelle]], [[Bauart]], [[Zusammenbau]]

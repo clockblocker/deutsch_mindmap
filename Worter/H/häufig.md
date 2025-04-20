@@ -3,6 +3,9 @@
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 
+*[[03-C1-Schreiben-T2-M#^11|^]]* Um Herrn Umuck einen eigenen Schreibtisch zu geben, musste unser großer [[Gemeinschaftstisch]] in der [[Raummitte]] weichen, an dem wir zuvor [[häufig]] gemeinsam gearbeitet haben. ^11
+
+
 *[[3  Ein Selbstversuch als Hobbybäuerin#^30|^]]* In dieser Zeit begann ich immer [[häufiger]] über meine Freunde nachzudenken und erkannte den Wert meiner Freundschaften. ^30
 
 Ich hoffe ihn jetzt [[häufiger]] zu sehen

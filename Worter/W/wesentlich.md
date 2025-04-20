@@ -31,4 +31,4 @@ essential, significant
 Adjektive: [[wesentlich]], [[wesentlicher]], [[wesentlichsten]]
 
 ---
-[[wesentlicher]], [[wesentliches]], [[wesentliche]], [[wesentlichen]], [[wesentlichem]], [[wesentlicherer]], [[wesentlicheres]], [[wesentlichere]], [[wesentlicheren]], [[wesentlicherem]], [[wesentlichstener]], [[wesentlichstenes]], [[wesentlichstene]], [[wesentlichstenen]], [[wesentlichstenem]], [[erheblich]], [[essenziell]]
+[[wesentlicher]], [[wesentliches]], [[wesentliche]], [[wesentlichen]], [[wesentlichem]], [[wesentlicherer]], [[wesentlicheres]], [[wesentlichere]], [[wesentlicheren]], [[wesentlicherem]], [[wesentlichstener]], [[wesentlichstenes]], [[wesentlichstene]], [[wesentlichstenen]], [[wesentlichstenem]], [[erheblich]], [[essenziell]], [[signifikant]]

@@ -5,6 +5,9 @@ haben [[aufgestellt]]
 ---
 Doch kein anderes Museum [[stellt]] das Leben und Aufwachsen in der DDR [[Worter/A/auf]] eine so anschauliche Weise dar.
 
+*[[03-C1-Schreiben-T2-M#^12|^]]* Ich möchte Sie daher fragen, ob Sie einverstanden sind, wenn wir den großen [[Kopierer]] aus dem [[Großraumbüro]] [[entfernen]] und [[stattdessen]] im [[Flur]] [[aufstellen]]. ^12
+
+
 ---
 Synonyme: [[platzieren]], [[positionieren]], [[errichten]], [[installieren]], [[aufbauen]]
 Antonyme: [[abbauen]], [[entfernen]], [[niederlegen]], [[umwerfen]]

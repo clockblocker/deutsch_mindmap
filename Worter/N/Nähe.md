@@ -4,7 +4,7 @@ die [[Nähen]]
 ---
 „Ist das in der [[Nähe]] von Berlin?“ „Nein, Berlin liegt im Osten von Deutschland und Köln im Westen.“ 
 
-*[[06-C1-Schreiben-T2#^3|^]]* Es gibt keine Restaurants oder Supermärkte in der [[Nähe]] und in der [[Teeküche]] kann man sich auch kein Essen [[zubereiten]]. ^3
+*[[06-C1-Schreiben-T2-M#^3|^]]* Es gibt keine Restaurants oder Supermärkte in der [[Nähe]] und in der [[Teeküche]] kann man sich auch kein Essen [[zubereiten]]. ^3
 
 
 - Argumentieren Sie, ob digitale [[Nähe]] echte soziale [[Beziehung]]en [[ersetzen]] kann.  

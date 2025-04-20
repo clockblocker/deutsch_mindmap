@@ -32,4 +32,4 @@ PI: [[begrenzend]], PII: [[begrenzt]], Zu+inf: [[zu begrenzen]]
 [[begrenzen]] - [[be]] = [[grenzen]] / to limit, to restrict, to confine
 
 ---
-[[Begrenzung]], [[unbegrenzt]], [[Grenze]], [[grenzenlos]], [[begrenzt]], [[Grenz]]
+[[Begrenzung]], [[unbegrenzt]], [[Grenze]], [[grenzenlos]], [[begrenzt]], [[Grenz]], [[abgrenzen]]

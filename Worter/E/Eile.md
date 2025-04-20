@@ -1,2 +1,2 @@
 , [[Verspätung]]
-, [[Termindruck]], [[Zeitdruck]], [[Spaziergang]], [[Tempo]]
+, [[Termindruck]], [[Zeitdruck]], [[Spaziergang]], [[Tempo]], [[Zeitnot]]

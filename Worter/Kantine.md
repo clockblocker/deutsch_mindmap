@@ -1,7 +1,7 @@
 🍽️ 🔴 die [[Kantine]], [kanˈtiːnə](https://youglish.com/pronounce/Kantine/german)
 
 ---
-*[[06-C1-Schreiben-T2#^1|^]]* Die [[Kantine]] Ihrer Firma soll nun für zwei Monate [[wegen]] [[Umbauarbeiten]] schließen. ^1
+*[[06-C1-Schreiben-T2-M#^1|^]]* Die [[Kantine]] Ihrer Firma soll nun für zwei Monate [[wegen]] [[Umbauarbeiten]] schließen. ^1
 
 
 ---

@@ -4,6 +4,9 @@ nicht [[wenige]]
 ---
 Es gibt bereits [[zahlreiche]] Ausstellungen zu den Themen Berliner Mauer oder Staatssicherheit
 
+*[[04-C1-Schreiben-T2-M#^15|^]]* Auf der Seite hundesitting.de finden Sie [[zahlreiche]] [[Anzeigen]] von Menschen, die diese [[Aufgabe]] gegen [[Bezahlung]] übernehmen. ^15
+
+
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^1|^]]* Nach der Corona Pandemie haben viele Unternehmen das Homeoffice ermöglicht, weil es nicht nur [[zahlreiche]] organisatorische Vorteile bietet, sondern auch die Produktivität der [[Belegschaft]] [[steigern]] kann. ^1
 
 

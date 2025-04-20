@@ -1,7 +1,7 @@
 🏢 [[anmieten]], [ˈanˌmiːtn̩](https://youglish.com/pronounce/anmieten/german) → [[mietete an]] → [[angemietet]]
 
 ---
-*[[04-C1-Schreiben-T2#^1|^]]* *[[04-C1-Schreiben-T2#^1|^]]* Ihr Büro befindet sich in einem großen Gebäude, in dem mehrere Firmen Räume [[angemietet]] haben. ^1
+*[[04-C1-Schreiben-T2-M#^1|^]]* *[[04-C1-Schreiben-T2-M#^1|^]]* Ihr Büro befindet sich in einem großen Gebäude, in dem mehrere Firmen Räume [[angemietet]] haben. ^1
 
 
 

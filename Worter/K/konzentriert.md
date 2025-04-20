@@ -1,3 +1,3 @@
 , [[zerstreut]], [[aufmerksam]]
 , [[ablenkbar]]
-, [[unaufmerksam]]
+, [[unaufmerksam]], [[Konzentration]]

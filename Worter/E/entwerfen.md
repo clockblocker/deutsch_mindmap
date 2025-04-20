@@ -3,6 +3,8 @@
 ---
 *[[4 Autofrei#^11|^]]* Die Innenstädte wurden mit Auto-Priorität im Sinn [[entworfen]] seit den letzten 60-80 Jahren. 
 
+*[[02-C1-Schreiben-T2-M#^9|^]]* Ich muss aber unbedingt bis [[Ende]] der Woche eine erste [[Version]] der Präsentation [[entwerfen]], da wir noch die Bildrechte für die Fotos [[einholen]] müssen. ^9
+
 
 84. Welche [[Hauptaufgabe]] hat der deutsche [[Bundespräsident]] / die deutsche Bundespräsidentin? Er / Sie … (77%)
 	- [ ] regiert das Land.

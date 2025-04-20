@@ -24,7 +24,7 @@ Antonyme: [[abbrechen]], [[zerbrechen]], [[zerstören]], [[abbauen]]
 Übersetzung: to build up, to construct
 
 ---
-Morpheme: [[Worter/A/auf]][[bau]][[en]]
+Morpheme: [[Worter/A/auf]][[Bau]][[en]]
  #Verb  #Trennbar
  
 ---

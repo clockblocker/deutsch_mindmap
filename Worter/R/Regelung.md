@@ -1,7 +1,7 @@
 📜 🔴 die [[Regelung]], [ˈʁeːɡəlʊŋ](https://youglish.com/pronounce/Regelung/german)
 
 ---
-*[[08-C1-Schreiben-T2#^4|^]]* - Denken Sie an einen höflichen E-Mail-/[[Briefanfang]], wobei Sie [[Verständnis]] für die [[getroffene]] [[Regelung]] zeigen. ^4
+*[[08-C1-Schreiben-T2-M#^4|^]]* - Denken Sie an einen höflichen E-Mail-/[[Briefanfang]], wobei Sie [[Verständnis]] für die [[getroffene]] [[Regelung]] zeigen. ^4
 xx
 
 ---
@@ -31,4 +31,4 @@ G: der [[Regelung]], der [[Regelungen]]
 D: der [[Regelung]], den [[Regelungen]]
 
 
-#Feminin 
+#Feminin , [[Ausnahmeregelung]]

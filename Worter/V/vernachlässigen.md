@@ -49,4 +49,4 @@ sie, [[vernachlässigen]], [[vernachlässigten]], [[vernachlässigen]], [[vernac
 Adjektive: [[vernachlässigend]], [[vernachlässigender]], [[vernachlässigst]]
 
 ---
-[[vernachlässigender]], [[vernachlässigendes]], [[vernachlässigende]], [[vernachlässigenden]], [[vernachlässigendem]], [[vernachlässigenderer]], [[vernachlässigenderes]], [[vernachlässigendere]], [[vernachlässigenderen]], [[vernachlässigenderem]], [[vernachlässigster]], [[vernachlässigstes]], [[vernachlässigste]], [[vernachlässigsten]], [[vernachlässigstem]], [[erziehen]], [[unterlassen]]
+[[vernachlässigender]], [[vernachlässigendes]], [[vernachlässigende]], [[vernachlässigenden]], [[vernachlässigendem]], [[vernachlässigenderer]], [[vernachlässigenderes]], [[vernachlässigendere]], [[vernachlässigenderen]], [[vernachlässigenderem]], [[vernachlässigster]], [[vernachlässigstes]], [[vernachlässigste]], [[vernachlässigsten]], [[vernachlässigstem]], [[erziehen]], [[unterlassen]], [[ausarbeiten]]

@@ -14,7 +14,7 @@ Antonyme: [[ausbauen]], [[entfernen]], [[demontieren]], [[zerlegen]]
 Übersetzung: to install, to build in, to incorporate
 
 ---
-Morpheme: [[ein]][[bau]][[en]]
+Morpheme: [[ein]][[Bau]][[en]]
  #Verb  #Trennbar
 
 ---

@@ -3,6 +3,9 @@
 ---
 - [[eingehen|Gehen]] *Sie auf die Situation in Ihrem Heimatland oder einem anderen Land* [[eingehen|ein]]
 
+*[[08-C1-Schreiben-T2-M#^8|^]]* ich möchte kurz auf die neue Parkplatzregelung [[eingehen]]. ^8
+
+
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[eingehen]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
 
 

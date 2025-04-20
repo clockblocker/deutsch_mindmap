@@ -30,4 +30,4 @@ D: dem [[Verdienst]], den [[Verdiensten]]
 , [[Verdienst]]
 
 
-#Maskulin 
+#Maskulin , [[Leistung]]

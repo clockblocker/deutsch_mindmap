@@ -26,4 +26,4 @@ together
 [[zu|sammen]]
 [[zusammen]]
 
-, [[gegenseitig]]
+, [[gegenseitig]], [[separat]], [[Zusammenbau]], [[gemeinschaftlich]]

@@ -3,6 +3,9 @@
 ---
 dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
 
+*[[04-C1-Schreiben-T2-M#^15|^]]* Auf der Seite hundesitting.de finden Sie [[zahlreiche]] [[Anzeige]] von Menschen, die diese [[Aufgabe]] gegen [[Bezahlung]] übernehmen. ^15
+
+
 267. Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun? (97%)
 	- [x] Sie müssen die [[Entscheidung]] der [[volljährigen]] Tochter [[respektieren]].
 	- [ ] Sie können zur Polizei gehen und die Tochter [[anzeigen]].

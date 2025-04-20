@@ -1,1 +1,1 @@
-, [[Brett]], [[Tisch]], [[Block]]
+, [[Brett]], [[Tisch]], [[Block]], [[Gemeinschaftstisch]]

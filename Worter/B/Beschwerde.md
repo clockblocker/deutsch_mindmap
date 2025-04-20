@@ -2,10 +2,10 @@
 die [[Beschwerden]]
 
 ---
-*[[01-C1-Schreiben-T2#^11|^]]* Schreiben Sie eine [[Beschwerde]] an Ihre [[Vorgesetzte]], Frau Grimm ^11
+*[[01-C1-Schreiben-T2-M#^11|^]]* Schreiben Sie eine [[Beschwerde]] an Ihre [[Vorgesetzte]], Frau Grimm ^11
 
 
-*[[05-C1-Schreiben-T2#^3|^]]* Schreiben Sie eine [[Beschwerde]] an Ihre [[Vorgesetzte]], Frau Marek. ^3
+*[[05-C1-Schreiben-T2-M#^3|^]]* Schreiben Sie eine [[Beschwerde]] an Ihre [[Vorgesetzte]], Frau Marek. ^3
 
 
 ---

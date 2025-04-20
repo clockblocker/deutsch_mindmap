@@ -2,7 +2,7 @@
 die [[Büroräume]]
 
 ---
-*[[04-C1-Schreiben-T2#^5|^]]* * Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für die [[Unterbringung]] des Hundes in den [[Büroräumen]] zeigen. ^5
+*[[04-C1-Schreiben-T2-M#^5|^]]* * Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für die [[Unterbringung]] des Hundes in den [[Büroräumen]] zeigen. ^5
 
 
 ---

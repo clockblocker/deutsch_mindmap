@@ -34,4 +34,4 @@ Plural: [[unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]
 
 [[Unterschiedlichkeit]], [[unterschiedlich]], [[unterschiedlich sein]]
 [[andere]][[anders]], [[verschiedene]], [[gleich]], [[auseinander]], [[solche]], [[dieselbe]]
-, [[einziger]], [[Einheitliche]], [[gleichzeitig]], [[Unterschied]], [[unterscheiden]], [[ebenso]], [[gemischt]], [[abwechslungsreich]]
+, [[einziger]], [[Einheitliche]], [[gleichzeitig]], [[Unterschied]], [[unterscheiden]], [[ebenso]], [[gemischt]], [[abwechslungsreich]], [[separat]]

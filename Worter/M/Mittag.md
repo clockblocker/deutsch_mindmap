@@ -1,3 +1,3 @@
 [[Mittagessen]] 
 
-12:00, [[Nachmittag]]
+12:00, [[Nachmittag]], [[Mittagspause]]

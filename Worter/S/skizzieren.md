@@ -1,1 +1,1 @@
-, [[malen]], [[entwerfen]], [[beschreiben]], [[zeichnen]]
+, [[malen]], [[entwerfen]], [[beschreiben]], [[zeichnen]], [[Skizze]]

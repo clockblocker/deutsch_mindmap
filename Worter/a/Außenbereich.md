@@ -1,1 +1,1 @@
-, [[Pausenhof]], [[Mittelpunkt]]
+, [[Pausenhof]], [[Mittelpunkt]], [[Räumlichkeit]]

@@ -23,4 +23,4 @@ meaningful, significant, telling
 Adjektive: [[aussagekräftig]], [[aussagekräftiger]], [[aussagekräftigst]]
 
 ---
-[[aussagekräftiger]], [[aussagekräftiges]], [[aussagekräftige]], [[aussagekräftigen]], [[aussagekräftigem]], [[aussagekräftigerer]], [[aussagekräftigeres]], [[aussagekräftigere]], [[aussagekräftigeren]], [[aussagekräftigerem]], [[aussagekräftigster]], [[aussagekräftigstes]], [[aussagekräftigste]], [[aussagekräftigsten]], [[aussagekräftigstem]]
+[[aussagekräftiger]], [[aussagekräftiges]], [[aussagekräftige]], [[aussagekräftigen]], [[aussagekräftigem]], [[aussagekräftigerer]], [[aussagekräftigeres]], [[aussagekräftigere]], [[aussagekräftigeren]], [[aussagekräftigerem]], [[aussagekräftigster]], [[aussagekräftigstes]], [[aussagekräftigste]], [[aussagekräftigsten]], [[aussagekräftigstem]], [[signifikant]]

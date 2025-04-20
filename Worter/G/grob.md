@@ -24,4 +24,4 @@ rough, coarse
 Adjektive: [[grob]], [[gröber]], [[gröbst]]
 
 ---
-[[grober]], [[grobes]], [[grobe]], [[groben]], [[grobem]], [[gröberer]], [[gröberes]], [[gröbere]], [[gröberen]], [[gröberem]], [[gröbster]], [[gröbstes]], [[gröbste]], [[gröbsten]], [[gröbstem]]
+[[grober]], [[grobes]], [[grobe]], [[groben]], [[grobem]], [[gröberer]], [[gröberes]], [[gröbere]], [[gröberen]], [[gröberem]], [[gröbster]], [[gröbstes]], [[gröbste]], [[gröbsten]], [[gröbstem]], [[höflich]]

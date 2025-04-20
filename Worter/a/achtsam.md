@@ -1,2 +1,2 @@
 , [[sorglich]], [[achten]], [[aufmerksam]]
-, [[unaufmerksam]]
+, [[unaufmerksam]], [[sensibel]]

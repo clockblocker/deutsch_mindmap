@@ -16,7 +16,7 @@ vegetable cultivation
 [[Gemüse]], [[anbauen]], [[Gemüsegarten]], [[Gemüsebeet]], [[Gemüsebauer]]
 
 ---
-[[Gemüse]]|[[an]]|[[bau]]
+[[Gemüse]]|[[an]]|[[Bau]]
 [[Gemüse]] + [[Anbau]]
 
 

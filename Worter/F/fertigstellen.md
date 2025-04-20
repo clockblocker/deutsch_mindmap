@@ -29,3 +29,4 @@ PI: [[fertigstellend]], PII: [[fertiggestellt]], Zu+inf: [[fertigzustellen]]
 
 ---
 [[fertig]], [[stellen]], [[Fertigstellung]], [[fertigmachen]]
+, [[ausarbeiten]]

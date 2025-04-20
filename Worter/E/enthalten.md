@@ -3,6 +3,9 @@
 ---
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
+*[[01-C1-Schreiben-T2-M#^7|^]]* Für einen [[Zusammenbau]] braucht man keine [[Bauarbeiter]], die [[Leistungen]] sind im Preis für leichte [[Modulwände]] [[bereits]] [[enthalten]]. ^7
+
+
 Sein Buch enthält [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
 
 1. Welche der [[folgend]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)

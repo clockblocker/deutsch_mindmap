@@ -1,1 +1,1 @@
-, [[Genehmigung]], [[Gaststättenerlaubnis]]
+, [[Genehmigung]], [[Gaststättenerlaubnis]], [[Bildrecht]]

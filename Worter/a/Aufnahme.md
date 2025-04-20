@@ -23,4 +23,4 @@ G: der [[Aufnahme]], der [[Aufnahmen]]
 D: der [[Aufnahme]], den [[Aufnahmen]]  
 
 ---
-[[aufnehmen]], [[aufnehmbar]], [[Aufnahmebedingungen]], [[Aufnahmeverfahren]], [[aufnahmefähig]], [[Texte/Misc/Anki]], [[Unterbringung]]
+[[aufnehmen]], [[aufnehmbar]], [[Aufnahmebedingungen]], [[Aufnahmeverfahren]], [[aufnahmefähig]], [[Texte/Misc/Anki]], [[Unterbringung]], [[Foto]]

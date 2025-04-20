@@ -26,3 +26,5 @@ A: die [[Anwendung]], die [[Anwendungen]]
 G: der [[Anwendung]], der [[Anwendungen]]  
 D: der [[Anwendung]], den [[Anwendungen]]
 , [[wenden]], [[Handhabung]], [[Software]]
+
+#Feminin 

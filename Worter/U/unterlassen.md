@@ -1,7 +1,7 @@
 🚫 [[unterlassen]], [ˌʊntɐˈlasn̩](https://youglish.com/pronounce/unterlassen/german) → [[unterließ]] → [[unterlassen]]
 
 ---
-*[[05-C1-Schreiben-T2#^2|^]]* [[Daraufhin]] [[erhielten]] Sie von Ihrer [[Vorgesetzten]] eine E-Mail mit dem [[Hinweis]] darauf, dieses [[Verhalten]] in Zukunft zu [[unterlassen]]. ^2
+*[[05-C1-Schreiben-T2-M#^2|^]]* [[Daraufhin]] [[erhielten]] Sie von Ihrer [[Vorgesetzten]] eine E-Mail mit dem [[Hinweis]] darauf, dieses [[Verhalten]] in Zukunft zu [[unterlassen]]. ^2
 
 
 ---

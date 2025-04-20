@@ -16,7 +16,7 @@ hobby farmer (female)
 [[Hobby]], [[Bauer]], [[Bäuerin]], [[Landwirtschaft]]
 
 ---
-[[Hobby]]|[[bau]]|[[er]]|[[in]]
+[[Hobby]]|[[Bau]]|[[er]]|[[in]]
 [[Hobby]] + [[Bäuerin]]
 
 

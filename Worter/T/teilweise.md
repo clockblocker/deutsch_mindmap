@@ -4,6 +4,9 @@
 *[[Golfstorm#^7|^]]* Die Arbeit wurde im Fachjournal »Nature« veröffentlicht und gibt [[zumindest]] [[teilweise]] [[Entwarnung]]: Das Strömungssystem könnte sich bis 2100 deutlich [[abschwächen]], die [[Forschenden]] fanden jedoch keine [[Hinweise]] auf einen [[vollständigen]] Kollaps. ^7
 
 
+*[[01-C1-Schreiben-T2-M#^2|^]]* Nach meiner Rückkehr habe ich [[festgestellt]], dass ich den Raum noch mit sechs Kolleginnen und Kollegen zu [[teilen]] habe, die [[teilweise]] für den [[Verkauf]] in unserer Firma [[tätig]] sind. ^2
+
+
 1. 3 Sprachfunktionen [[angemessen]] oder 2 angemessen und 2 [[teilweise]]  
 
 

@@ -1,7 +1,7 @@
 🏃‍♂️ [[Vorgehen]], [ˈfoɐ̯ˌgeːən] | [[vorging]], sein [[vorgegangen]]
 
 ---
-*[[02-C1-Schreiben-T2#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
+*[[02-C1-Schreiben-T2-M#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
 
 
 Wie soll wir [[Vorgehen]]?
@@ -37,7 +37,7 @@ PI: [[vorgehend]], PII: [[vorgegangen]], Zu+inf: [[vorzugehen]]
 
 
 
-*[[02-C1-Schreiben-T2#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
+*[[02-C1-Schreiben-T2-M#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
 
 
 🚶 🟢 das [[Vorgehen]], [ˈfoːɐ̯ˌɡeːən](https://youglish.com/pronounce/Vorgehen/german)

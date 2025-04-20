@@ -1,2 +1,2 @@
 
-, [[fertigstellen]], [[Baustelle]]
+, [[fertigstellen]], [[Baustelle]], [[Ausarbeitung]]

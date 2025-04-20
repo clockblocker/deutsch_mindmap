@@ -3,7 +3,7 @@
 haben [[umgezogen]]
 
 ---
-*[[01-C1-Schreiben-T2#^9|^]]* Während Ihres Urlaubs ist Ihre Firma in ein anderes Gebäude [[umgezogen]]. ^9
+*[[01-C1-Schreiben-T2-M#^9|^]]* Während Ihres Urlaubs ist Ihre Firma in ein anderes Gebäude [[umgezogen]]. ^9
 
 Igitt! Ich muss mich [[umziehen]]!  
 
@@ -38,3 +38,4 @@ Morpheme: [[um]][[zieh]][[en]]
 Partizip I: [[umziehend]], Partizip II: [[umgezogen]]
 
 [[umziehen]] - [[um]] = [[ziehen]] / to move (house)
+, [[Umzug]]

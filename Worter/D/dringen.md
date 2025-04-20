@@ -3,6 +3,9 @@
 ---
 Ist aber ganz [[dringend]]!
 
+*[[06-C1-Schreiben-T2-M#^8|^]]* die [[Umbauarbeiten]] unserer Kantine kann ich nur zu gut verstehen, sie waren auch wirklich [[dringend]] [[nötig]]. ^8
+
+
 *[[3 Sollte das Internet stärker reguliert werden?#^2|^]]* _Eine Regulierung der Seiten von sozialen Netzwerken halte ich dagegen für weniger_ [[dringend]]. ^2
 
 ---
@@ -11,7 +14,7 @@ Ist aber ganz [[dringend]]!
 ≠ [[zurückweichen]], [[entweichen]] | [[nachgeben]], [[verzichten]]
 
 ---
-to penetrate, to intrude | to insist  
+to penetrate, to intrude | to insist  | urgent
 проникать, вторгаться | настаивать
 
 ---

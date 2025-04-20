@@ -2,7 +2,12 @@
 die [[Verzögerungen]]
 
 ---
-*[[02-C1-Schreiben-T2#^3|^]]* * Eröffnen Sie Ihr Schreiben höflich, indem Sie [[Verständnis]] für die [[Verzögerung]] [[zeigen]]. ^3
+*[[02-C1-Schreiben-T2-M#^3|^]]* * Eröffnen Sie Ihr Schreiben höflich, indem Sie [[Verständnis]] für die [[Verzögerung]] [[zeigen]]. ^3
+
+
+Ich bringe vollstes Verständnis dafür,* 
+dass es angesichts des Arbeits- und Zeitdrucks 
+zu [[Verzögerungen]] kommen kann. 
 
 
 ---
@@ -31,3 +36,5 @@ A: die [[Verzögerung]], die [[Verzögerungen]]
 G: der [[Verzögerung]], der [[Verzögerungen]]
 D: der [[Verzögerung]], den [[Verzögerungen]]
 , [[Zuspätkommen]]
+
+#Feminin 

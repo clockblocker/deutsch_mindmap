@@ -3,10 +3,10 @@
 ---
 - [[verfassen]] *Sie einen Diskussions*[[Beitrag]] *zu diesem Thema%*
 
-*[[04-C1-Schreiben-T2#^4|^]]* [[Verfassen]] Sie ein Schreiben an den Besitzer, Herrn Jung, in dem Sie ihn auf das Problem [[aufmerksam]] machen. ^4
+*[[04-C1-Schreiben-T2-M#^4|^]]* [[Verfassen]] Sie ein Schreiben an den Besitzer, Herrn Jung, in dem Sie ihn auf das Problem [[aufmerksam]] machen. ^4
 
 
-*[[03-C1-Schreiben-T2#^3|^]]* [[Verfassen]] Sie ein Schreiben an Ihre [[Vorgesetzte]], Frau Kaur, in dem Sie sie auf das Problem [[aufmerksam]] machen. ^3
+*[[03-C1-Schreiben-T2-M#^3|^]]* [[Verfassen]] Sie ein Schreiben an Ihre [[Vorgesetzte]], Frau Kaur, in dem Sie sie auf das Problem [[aufmerksam]] machen. ^3
 
 
 *[[3 Sollte das Internet stärker reguliert werden?#^1|^]]* _Neben_ [[Beleidigungen]], _übler_ [[Nachrede]] _oder_ [[Verleumdung]] [[verfassen]] _manche sogar_ [[Nachrichten]], _die zur_ [[Gewalt]] [[aufrufen]]. ^1

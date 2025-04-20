@@ -20,7 +20,6 @@ Morpheme:
 Einzigartige mögliche Formen: [[Problems]], [[Probleme]], [[Problemen]]
 
 ---
-#Substantiv #Maskulin, [[Sache]], [[Herausforderung]], [[Erziehungsproblem]]
+#Substantiv #Neuter , [[Sache]], [[Herausforderung]], [[Erziehungsproblem]]
 , [[Angelegenheit]], [[Nachteil]], [[Aufgabenstellung]], [[Hindernis]], [[Lösungsansatz]], [[Platzproblem]]
-
-#Maskulin , [[Lösungsvorschlag]]
+ , [[Lösungsvorschlag]], [[Engpass]]

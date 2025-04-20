@@ -13,11 +13,11 @@ to cost
 стоить
 
 ---
-[[kost]]|[[en]]
+[[Kost]]|[[en]]
 
 ---
 ich: [[koste]], [[kostete]], –, [[koste]], [[kostete]]
-du: [[kostest]], [[kostetest]], [[koste]] | [[kost]], [[kostest]], [[kostetest]]
+du: [[kostest]], [[kostetest]], [[koste]] | [[Kost]], [[kostest]], [[kostetest]]
 er/sie/es: [[kostet]], [[kostete]], –, [[koste]], [[kostete]]
 wir: [[kosten]], [[kosteten]], [[kosten wir|kosten]], [[kosten]], [[kosteten]]
 ihr: [[kostet]], [[kostetet]], [[kostet]], [[kostet]], [[kostetet]]

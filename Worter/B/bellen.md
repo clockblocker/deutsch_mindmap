@@ -3,7 +3,10 @@
 ---
 1. Ein [[bellender]] Hund [[beißen|beißt]] nicht.
 
-*[[04-C1-Schreiben-T2#^2|^]]* Im Büro unter Ihnen [[bellt]] [[unaufhörlich]] ein junger Hund. ^2
+*[[04-C1-Schreiben-T2-M#^10|^]]* Allerdings [[verursacht]] sein ständiges [[Bellen]] für unser gesamtes Team große Probleme. ^10
+
+
+*[[04-C1-Schreiben-T2-M#^2|^]]* Im Büro unter Ihnen [[bellt]] [[unaufhörlich]] ein junger Hund. ^2
 
 
 ---
@@ -47,3 +50,6 @@ Adjektive: [[bellend]], [[bellender]], [[bellendst]]
 
 ---
 [[bellender]], [[bellendes]], [[bellende]], [[bellenden]], [[bellendem]], [[bellenderer]], [[bellenderes]], [[bellendere]], [[bellenderen]], [[bellenderem]], [[bellendster]], [[bellendstes]], [[bellendste]], [[bellendsten]], [[bellendstem]]
+
+
+#Neuter 

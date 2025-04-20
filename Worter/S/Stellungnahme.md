@@ -1,1 +1,1 @@
-, [[Meinungsäußerung]], [[Äußerung]]
+, [[Meinungsäußerung]], [[Äußerung]], [[Rückmeldung]]

@@ -1,7 +1,7 @@
 🗓️ [[langjährig]], [ˈlaŋˌjɛːʁɪç](https://youglish.com/pronounce/langjährig/german)
 
 ---
-*[[05-C1-Schreiben-T2#^1|^]]* Sie sind letzte Woche zum ersten Mal in Ihrer [[langjährigen]] [[Betriebszugehörigkeit]] zu spät gekommen. ^1
+*[[05-C1-Schreiben-T2-M#^1|^]]* Sie sind letzte Woche zum ersten Mal in Ihrer [[langjährigen]] [[Betriebszugehörigkeit]] zu spät gekommen. ^1
 
 
 ---

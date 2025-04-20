@@ -1,1 +1,1 @@
-, [[Zeichnung]]
+, [[Zeichnung]], [[Foto]]

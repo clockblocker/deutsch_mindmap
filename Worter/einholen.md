@@ -3,6 +3,9 @@
 ---
 Es ist unmöglich ein [[Kriegsschiff]] mit so einem Kanu [[einzuhohlen]]
 
+*[[02-C1-Schreiben-T2-M#^9|^]]* Ich muss aber unbedingt bis [[Ende]] der Woche eine erste [[Version]] der Präsentation [[entwerfen]], da wir noch die Bildrechte für die Fotos [[einholen]] müssen. ^9
+
+
 ---
 = [[aufholen]], [[erreichen]], [[nachholen]]
 ≈ [[überrunden]], [[einfangen]], [[aufschließen]]

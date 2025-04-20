@@ -1,1 +1,1 @@
-, [[Kita]]
+, [[Kita]], [[ausstatten]]

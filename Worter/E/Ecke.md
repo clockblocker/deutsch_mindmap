@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ecke]], [[Ecken]], [[Ecke]], [[Ecke]], [[Ecken]], [[Ecke]], [[Ecke]], [[Ecken]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Raummitte]]

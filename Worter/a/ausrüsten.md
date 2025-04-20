@@ -1,2 +1,2 @@
 , [[bereiten]], [[Ausrüstung]]
-, [[bestücken]]
+, [[bestücken]], [[ausstatten]]

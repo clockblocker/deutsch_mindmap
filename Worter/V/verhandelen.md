@@ -5,6 +5,9 @@ haben [[verhandelt]]
 ---
 [[Verhandlung]]
 
+*[[01-C1-Schreiben-T2-M#^3|^]]* Als [[Einkaufsleiterin]] [[verhandle]] ich mit den [[Lieferanten]] nicht nur schriftlich per mail, sondern auch telefonisch oder per Skype. ^3
+
+
 ---
 Synonyme: [[diskutieren]], [[besprechen]], [[unterhandeln]], [[debattieren]], [[argumentieren]], [[aushandeln]]
 Antonyme: [[ablehnen 1]], [[ignorieren]], [[verweifen]]

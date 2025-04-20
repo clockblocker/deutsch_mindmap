@@ -1,7 +1,7 @@
 💡 🔵 der [[Lösungsvorschlag]], [ˈløːzʊŋsˌfɔɐ̯ʃlaːk](https://youglish.com/pronounce/Lösungsvorschlag/german)
 
 ---
-*[[07-C1-Schreiben-T2#^6|^]]* * Nennen Sie einige [[Lösungsvorschläge]] für das Problem. ^6
+*[[07-C1-Schreiben-T2-M#^6|^]]* * Nennen Sie einige [[Lösungsvorschläge]] für das Problem. ^6
 
 
 ---

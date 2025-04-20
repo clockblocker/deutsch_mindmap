@@ -4,7 +4,7 @@ die [[Gebiete]]
 ---
 mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
 
-*[[06-C1-Schreiben-T2#^2|^]]* Leider steht das Gebäude in einem industriellen [[Gebiet]]. ^2
+*[[06-C1-Schreiben-T2-M#^2|^]]* Leider steht das Gebäude in einem industriellen [[Gebiet]]. ^2
 
 
 *[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11

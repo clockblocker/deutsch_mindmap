@@ -1,0 +1,1 @@
+🤔 [[präferieren]] | 🔴 die [[Präferenz]] 👍

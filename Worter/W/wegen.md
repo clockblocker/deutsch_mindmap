@@ -1,6 +1,6 @@
 [[wegen]] meiner Krankheit arbeite ich nicht. 
 
-*[[06-C1-Schreiben-T2#^1|^]]* Die [[Kantine]] Ihrer Firma soll nun für zwei Monate [[wegen]] [[Umbauarbeiten]] schließen. ^1
+*[[06-C1-Schreiben-T2-M#^1|^]]* Die [[Kantine]] Ihrer Firma soll nun für zwei Monate [[wegen]] [[Umbauarbeiten]] schließen. ^1
 
 
 b) [[Wegen]] des schlechten [[Wetters]] entschieden wir uns, die [[Wanderung]] [[abzusagen]].   [[1 Präpositionen Übungen.md#^3|(q)]]

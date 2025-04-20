@@ -3,6 +3,9 @@
 ---
 Du musst nicht noch einkaufen gehen, ich habe es [[bereits]] [[erledigt]].
 
+*[[01-C1-Schreiben-T2-M#^7|^]]* Für einen [[Zusammenbau]] braucht man keine [[Bauarbeiter]], die [[Leistungen]] sind im Preis für leichte [[Modulwände]] [[bereits]] [[enthalten]]. ^7
+
+
 - Erklären Sie, in welchen [[Berufsfeldern]] KI [[bereits]] [[eingesetzt]] wird.
 
 Die Familie plant ihren Urlaub [[bereits]] im Winter.

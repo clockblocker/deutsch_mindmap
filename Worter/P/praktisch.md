@@ -1,3 +1,3 @@
 , [[sinnvoll]], [[Nützliches]]
 , [[gelegen]]
-, [[verträumt]], [[vorteilhaft]], [[geisteswissenschaftlich]]
+, [[verträumt]], [[vorteilhaft]], [[geisteswissenschaftlich]], [[tragbar]]

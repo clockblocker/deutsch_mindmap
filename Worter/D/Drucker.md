@@ -1,1 +1,1 @@
-, [[Druck]], [[Stift]]
+, [[Druck]], [[Stift]], [[Kopierer]]

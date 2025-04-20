@@ -1,1 +1,1 @@
-, [[Steckdose]]
+[[Steckdose]]

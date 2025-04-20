@@ -1,2 +1,2 @@
 , [[leer]], [[füllen]], [[laden]], [[schütten]]
-, [[bestücken]]
+, [[bestücken]], [[ausstatten]]

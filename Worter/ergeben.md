@@ -3,13 +3,13 @@
 ---
 Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
-*[[06-C1-Schreiben-T2#^5|^]]* * Nennen Sie Probleme, die sich durch das Fehlen der Kantine [[ergeben]] werden. ^5
+*[[06-C1-Schreiben-T2-M#^5|^]]* * Nennen Sie Probleme, die sich durch das Fehlen der Kantine [[ergeben]] werden. ^5
 
 
-*[[03-C1-Schreiben-T2#^6|^]]* * Beschreiben Sie das [[Platzproblem]], das sich durch den neuen Arbeitsplatz des Kollegen im [[Raum]] [[ergeben]] hat. ^6
+*[[03-C1-Schreiben-T2-M#^6|^]]* * Beschreiben Sie das [[Platzproblem]], das sich durch den neuen Arbeitsplatz des Kollegen im [[Raum]] [[ergeben]] hat. ^6
 
 
-*[[03-C1-Schreiben-T2#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2
+*[[03-C1-Schreiben-T2-M#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2
 
 
 [[2 Unter Druck nach oben#^11|(q)]] Die Personalchefs großer deutscher Unternehmen, so [[ergaben]] [[Befragungen]] des SPIEGEL, halten Examensnoten, Titel und schlichtes [[Fachwissen]] für wenig [[aussagekräftig]]. ^11

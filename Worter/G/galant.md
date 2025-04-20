@@ -1,1 +1,1 @@
-, [[unhöflich]]
+, [[unhöflich]], [[höflich]]

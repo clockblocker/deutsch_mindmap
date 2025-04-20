@@ -3,6 +3,9 @@
 ---
 Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht.
 
+*[[03-C1-Schreiben-T2-M#^12|^]]* Dieser Tisch fehlt uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit. ^12
+
+
 
 ---
 Synonyme: [[alltäglich]], [[gewöhnlich]], [[regelmäßig]], [[wiederkehrend]], [[permanent]]

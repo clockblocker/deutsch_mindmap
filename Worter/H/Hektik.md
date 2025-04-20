@@ -1,2 +1,2 @@
 [[Ruhe]]
-, [[Termindruck]], [[Zeitdruck]], [[Arbeitsdruck]]
+, [[Termindruck]], [[Zeitdruck]], [[Arbeitsdruck]], [[Zeitnot]]

@@ -1,1 +1,1 @@
-, [[erfinden]], [[umschreiben]]
+, [[erfinden]], [[umschreiben]], [[Kopierer]]

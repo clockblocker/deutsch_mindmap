@@ -34,4 +34,4 @@ Morpheme: [[inter]][[essier]][[en]]
 Partizip I: [[interessierend]], Partizip II: [[interessiert]]
 
 [[interessieren]] - [[inter]] = [[essier]]
-''', [[betreffen]], [[kümmern]], [[Interessenverband]], [[Kunstinteresse]]
+''', [[betreffen]], [[kümmern]], [[Interessenverband]], [[Kunstinteresse]], [[Interesse]]

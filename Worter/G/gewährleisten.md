@@ -1,9 +1,14 @@
 ✅ [[gewährleisten]], [ɡəˈvɛːɐ̯ˌlaɪ̯stn̩](https://youglish.com/pronounce/gewährleisten/german) | [[gewährleistete]], haben [[gewährleistet]]
 
 ---
+*[[01-C1-Schreiben-T2-M#^5|^]]* Ich [[benötige]] einen Arbeitsplatz, der [[Vertraulichkeit]] [[gewährleisten]] kann. ^5
+
+
 *[[1 lesen StadtTours#^13|^]]* Das Start-up hat Standards entwickelt, mit denen  in allen [[angebotenen]] Städten eine hohe Qualität der Programme [[gewährleisten]] sollen. ^13
 
-> *[[Atom#^8|^]]* *Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
+
+ *[[Atom#^8|^]]* Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]]. ^8
+
 
 ---
 = [[garantieren]], [[sicherstellen]], [[verbürgen]], [[versprechen]],

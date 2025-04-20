@@ -2,6 +2,9 @@
 die [[Anzeigen]]
 
 ---
+*[[04-C1-Schreiben-T2-M#^15|^]]* Auf der Seite hundesitting.de finden Sie [[zahlreiche]] [[Anzeige]] von Menschen, die diese [[Aufgabe]] gegen [[Bezahlung]] übernehmen. ^15
+
+
 290. Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen? (87%)
 	- [ ] eine [[Anzeige]] schreiben
 	- [x] den Fernseher [[reklamieren]]
@@ -29,3 +32,6 @@ D: der [[Anzeige]], den [[Anzeigen]]
 [[anzeigen]], [[Anzeiger]], [[anzeigewürdig]], [[Anzeigeerstatter]], [[anzeigepflichtig]], [[Bildschirm]]
 , [[zeihen]]
 , [[Inserat]], [[zeigen]]
+
+
+#Feminin 

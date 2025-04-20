@@ -1,1 +1,1 @@
-, [[Bedeutung]], [[Stellenwert]]
+, [[Bedeutung]], [[Stellenwert]], [[signifikant]]

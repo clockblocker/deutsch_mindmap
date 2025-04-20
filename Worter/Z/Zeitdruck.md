@@ -28,3 +28,5 @@ A: den [[Zeitdruck]], die [[Zeitdrücke]]
 G: des [[Zeitdrucks]], der [[Zeitdrücke]]
 D: dem [[Zeitdruck]], den [[Zeitdrücken]]
 , [[Arbeitsdruck]]
+
+#Maskulin 

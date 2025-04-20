@@ -22,4 +22,7 @@ Genitive: der [[Meldung]], der [[Meldungen]]
 Dative: der [[Meldung]], den [[Meldungen]]  
 
 ---
-[[melden]], [[Anmeldung]], [[Abmeldung]], [[Vorwarnung]], [[Anzeige]]
+[[melden]], [[Anmeldung]], [[Abmeldung]], [[Vorwarnung]], [[Anzeige]], [[Rückmeldung]]
+
+
+#Feminin 

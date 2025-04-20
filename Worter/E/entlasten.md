@@ -46,4 +46,4 @@ sie, [[entlasten]], [[entlasteten]], [[entlasten]], [[entlasteten]], [[entlasten
 Adjektive: [[entlastend]], [[entlastender]], [[entlastendst]]
 
 ---
-[[entlastender]], [[entlastendes]], [[entlastende]], [[entlastenden]], [[entlastendem]], [[entlastenderer]], [[entlastenderes]], [[entlastendere]], [[entlastenderen]], [[entlastenderem]], [[entlastendster]], [[entlastendstes]], [[entlastendste]], [[entlastendsten]], [[entlastendstem]]
+[[entlastender]], [[entlastendes]], [[entlastende]], [[entlastenden]], [[entlastendem]], [[entlastenderer]], [[entlastenderes]], [[entlastendere]], [[entlastenderen]], [[entlastenderem]], [[entlastendster]], [[entlastendstes]], [[entlastendste]], [[entlastendsten]], [[entlastendstem]], [[belästigen]]

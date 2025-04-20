@@ -1,1 +1,1 @@
-, [[Bahn]], [[Lieferung]], [[Versandt]]
+, [[Bahn]], [[Lieferung]], [[Versandt]], [[Mitfahrgelegenheit]]

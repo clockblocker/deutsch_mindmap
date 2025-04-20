@@ -18,7 +18,7 @@ mining, extraction | reduction, dismantling
 [[abbauen]], [[Abbaugebiet]], [[Abbauunternehmen]] | [[Abbauplan]], [[Personalabbau]], [[Abbaukosten]]
 
 ---
-[[ab]]|[[bau]]
+[[ab]]|[[Bau]]
 [[ab]] + [[Bau]]
 
 
@@ -38,4 +38,4 @@ N: der [[Abbau]], die [[Abbaue]]
 A: den [[Abbau]], die [[Abbaue]]
 G: des [[Abbaus]], der [[Abbaue]]
 D: dem [[Abbau]], den [[Abbauten]]
-, [[Reduktion]], [[Stressabbau]]
+, [[Reduktion]], [[Stressabbau]], [[Zusammenbau]]

@@ -3,6 +3,9 @@
 ---
  Denn wenn die anderen [[dieselben]] Ziele und Interessen haben, findet man zusammen bestimmt eine Lösung.  
 
+*[[06-C1-Schreiben-T2-M#^12|^]]* Bei meiner [[kurzweiligen]] Recherche habe ich [[herausgefunden]], dass die Firma ABC diesen [[Lieferservice]] für [[denselben]] Preis wie für unsere Kantine [[anbietet]]. ^12
+
+
 ---
 Synonyme:
 - [[identisch]], [[gleich]], [[eben derselbe]]

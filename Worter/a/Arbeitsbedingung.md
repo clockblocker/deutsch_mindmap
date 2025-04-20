@@ -3,7 +3,7 @@
 die [[Arbeitsbedingungen]]
 
 ---
-*[[01-C1-Schreiben-T2#^11|^]]* - Beschreiben Sie [[Arbeitsbedingung]]en, die für Sie akzeptabel wären ^11
+*[[01-C1-Schreiben-T2-M#^11|^]]* - Beschreiben Sie [[Arbeitsbedingung]]en, die für Sie akzeptabel wären ^11
 
 ---
 = [[Arbeitsverhältnis]], [[Arbeitsumstände]]

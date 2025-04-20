@@ -3,6 +3,10 @@
 ---
 [[2 Unter Druck nach oben#^6|(q)]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
 
+
+*[[06-C1-Schreiben-T2-M#^12|^]]* Bei meiner [[kurzweiligen]] Recherche habe ich [[herausgefunden]], dass die Firma ABC diesen [[Lieferservice]] für [[denselben]] Preis wie für unsere Kantine [[anbietet]]. ^12
+
+
 ---
 = [[ermitteln]], [[entdecken]], [[feststellen]]
 ≈ [[erfahren]], [[erkennen]], [[aufdecken]], [[recherchieren]]

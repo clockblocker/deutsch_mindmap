@@ -3,7 +3,7 @@
 ---
 Ты встречаешь подругу – Du triffst deine Freundin.
 
-*[[08-C1-Schreiben-T2#^4|^]]* - Denken Sie an einen höflichen E-Mail-/[[Briefanfang]], wobei Sie [[Verständnis]] für die [[getroffene]] [[Regelung]] zeigen. ^4
+*[[08-C1-Schreiben-T2-M#^4|^]]* - Denken Sie an einen höflichen E-Mail-/[[Briefanfang]], wobei Sie [[Verständnis]] für die [[getroffene]] [[Regelung]] zeigen. ^4
 
 
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11

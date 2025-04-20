@@ -1,2 +1,2 @@
 der [[Verkäufer]]
-, [[Verkauf]]
+, [[Verkauf]], [[Einkaufsleiterin]]

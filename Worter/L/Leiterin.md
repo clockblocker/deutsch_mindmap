@@ -1,1 +1,1 @@
-, [[Leiter]], [[Erntehelferin]], [[Arbeitgeber]]
+, [[Leiter]], [[Erntehelferin]], [[Arbeitgeber]], [[Einkaufsleiterin]]

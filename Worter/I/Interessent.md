@@ -1,1 +1,1 @@
-, [[Bewerber]], [[Anwärter]]
+, [[Bewerber]], [[Anwärter]], [[Interesse]]

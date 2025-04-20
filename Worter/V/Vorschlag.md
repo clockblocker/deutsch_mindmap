@@ -4,10 +4,13 @@ die [[Vorschläge]]
 ---
 Mein [[Vorschlag]] ist Sälze beiden 
 
-*[[02-C1-Schreiben-T2#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
+*[[02-C1-Schreiben-T2-M#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
 
 
 1. [[Inhalt]], [[Umfang]], [[Realisierung]] der Sprachfunktionen (z. B. etwas erklären, Argumente anführen, [[Vorschläge]] machen)
+
+*[[06-C1-Schreiben-T2-M#^11|^]]* Daher würde ich Ihnen gerne folgenden [[Vorschlag]] unterbreiten: Wie wäre es, wenn Mitarbeitende die Möglichkeit [[bekämen]], morgens [[gemeinschaftlich]] online Essen von der Firma ABC zu bestellen, die sonst auch unsere Kantine [[beliefert]]? ^11
+
 
 Aber dem wird sie die Suppe schon noch versalzen! Beim nächsten Termin mit ihrem Chef macht sie einige [[Vorschläge]] für das Projekt. 
 

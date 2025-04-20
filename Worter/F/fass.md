@@ -22,4 +22,4 @@ Morphems:
 
 ---
 #Substantiv #Neuter
-, [[Verfassung]], [[anfassen]], [[verfassen]]
+, [[Verfassung]], [[anfassen]], [[verfassen]], [[erfassen]]

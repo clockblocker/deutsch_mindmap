@@ -3,6 +3,12 @@
 ---
 Die Firma [[anbieten|bietet]] mir einen Job [[an]].
 
+*[[06-C1-Schreiben-T2-M#^12|^]]* Bei meiner [[kurzweiligen]] Recherche habe ich [[herausgefunden]], dass die Firma ABC diesen [[Lieferservice]] für [[denselben]] Preis wie für unsere Kantine [[anbietet]]. ^12
+
+
+*[[01-C1-Schreiben-T2-M#^6|^]]* Wenn die neuen [[Räumlichkeiten]] kein [[separates]] Büro [[anbieten]] können, schlage ich vor, eine [[leichte]] [[Modulwand]] zu errichten, um sowohl mich, als auch meine Kollegin im [[Einkaufsbereich]] Frau Schneider [[abzugrenzen]]. ^6
+
+
 *[[Text mit Reflexivpronomen#^26|^]]* Ein Termin Anfang Oktober [[bietet an|bietet]] (32) dafür an. ^26
 
 *[[1 lesen StadtTours#^13|^]]* Das Start-up hat Standards entwickelt, mit denen  in allen [[angebotenen]] Städten eine hohe Qualität der Programme [[gewährleisten]] sollen. ^13
@@ -42,4 +48,4 @@ Zu+infinifive: [[anzubieten]]
 [[anbieten]] - [[an]] = [[bieten]] // to offer
 
 ---
-[[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]], [[ablehnen]], [[vermarkten]], [[einbringen]], [[Äußerung]], [[Unterstützungsangebot]]
+[[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]], [[ablehnen]], [[vermarkten]], [[einbringen]], [[Äußerung]], [[Unterstützungsangebot]], [[abgrenzen]]

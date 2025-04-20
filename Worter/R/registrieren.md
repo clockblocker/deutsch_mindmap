@@ -1,1 +1,1 @@
-, [[bemerken]], [[merken]], [[verbuchen]], [[anmelden]], [[aufnehmen]]
+, [[bemerken]], [[merken]], [[verbuchen]], [[anmelden]], [[aufnehmen]], [[erfassen]]

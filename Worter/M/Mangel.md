@@ -27,4 +27,4 @@ A: den [[Mangel]], die [[Mängel]]
 G: des [[Mangels]], der [[Mängel]]
 D: dem [[Mangel]], den [[Mängeln]]
 
-#Maskulin , [[Platzproblem]]
+#Maskulin , [[Platzproblem]], [[Personalmangel]], [[Engpass]]

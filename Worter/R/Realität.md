@@ -1,1 +1,1 @@
-, [[Zaubertrick]], [[Wirklichkeit]], [[Wahrheit]], [[Modellierung]], [[Realisierung]], [[Modell]]
+, [[Zaubertrick]], [[Wirklichkeit]], [[Wahrheit]], [[Modellierung]], [[Realisierung]], [[Modell]], [[Foto]]

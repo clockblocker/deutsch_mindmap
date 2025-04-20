@@ -5,10 +5,13 @@ haben [[erhalten]]
 ---
 Du [[erhältst]] morgen ein Geschenk.
 
-*[[05-C1-Schreiben-T2#^2|^]]* [[Daraufhin]] [[erhielten]] Sie von Ihrer [[Vorgesetzten]] eine E-Mail mit dem [[Hinweis]] darauf, dieses [[Verhalten]] in Zukunft zu [[unterlassen]]. ^2
+*[[07-C1-Schreiben-T2-M#^12|^]]* Deshalb bitte ich Sie, dass wir so lange die alte Software nutzen dürfen, bis unsere [[Abteilung]] eine 2- bis 3-stündige [[Einführung]] zu der Software [[erhalten]] kann. ^12
 
 
-*[[02-C1-Schreiben-T2#^2|^]]* Ihr Teamleiter sollte Ihnen schon vor einer Woche eine [[Grobplanung]] für die Präsentation schicken, die Sie [[bisher]] - trotz [[wiederholter]] [[Nachfrage]] - noch nicht [[erhalten]] haben. ^2
+*[[05-C1-Schreiben-T2-M#^2|^]]* [[Daraufhin]] [[erhielten]] Sie von Ihrer [[Vorgesetzten]] eine E-Mail mit dem [[Hinweis]] darauf, dieses [[Verhalten]] in Zukunft zu [[unterlassen]]. ^2
+
+
+*[[02-C1-Schreiben-T2-M#^2|^]]* Ihr Teamleiter sollte Ihnen schon vor einer Woche eine [[Grobplanung]] für die Präsentation schicken, die Sie [[bisher]] - trotz [[wiederholter]] [[Nachfrage]] - noch nicht [[erhalten]] haben. ^2
 
 
 [[amazon.md#^2|(q)]] [[Produktsupport]] [[erhalten]] ^2

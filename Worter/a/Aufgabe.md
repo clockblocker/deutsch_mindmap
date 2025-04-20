@@ -35,3 +35,5 @@ D: der [[Aufgabe]], den [[Aufgaben]]
 , [[Arbeitsauftrag]]
 , [[Schularbeit]]
 , [[aufmachen]], [[Erhalt]], [[bestreben]], [[Aufgabenerfüllung]], [[Aufgabengerechtigkeit]], [[Anhieb]], [[Anhieb]], [[Projekt]]
+
+#Feminin , [[Arbeitsschritt]]

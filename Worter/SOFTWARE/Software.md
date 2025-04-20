@@ -1,7 +1,7 @@
 💻 die [[Software]], [ˈzɔftˌvɛːɐ̯](https://youglish.com/pronounce/Software/german)
 
 ---
-*[[07-C1-Schreiben-T2#^1|^]]* An Ihrem Arbeitsplatz ist eine neue [[Software]] [[eingeführt]] worden, zu der es jedoch nur eine 10-minütige [[Einführung]] gab. ^1
+*[[07-C1-Schreiben-T2-M#^1|^]]* An Ihrem Arbeitsplatz ist eine neue [[Software]] [[eingeführt]] worden, zu der es jedoch nur eine 10-minütige [[Einführung]] gab. ^1
 
 
 

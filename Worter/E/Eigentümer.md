@@ -1,3 +1,3 @@
 , [[Dieb]]
 , [[Vermieter]]
-, [[Immobilienmakler]]
+, [[Immobilienmakler]], [[Besitzer]], [[Hausverwalter]]

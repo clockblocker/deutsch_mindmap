@@ -2,7 +2,7 @@
 die [[Kompromissvorschläge]]
 
 ---
-*[[01-C1-Schreiben-T2#^11|^]]* - Machen Sie einen [[Kompromissvorschlag]] ^11
+*[[01-C1-Schreiben-T2-M#^11|^]]* - Machen Sie einen [[Kompromissvorschlag]] ^11
 
 
 ---

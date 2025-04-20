@@ -1,1 +1,1 @@
-, [[Dichte]], [[Ablenkung]]
+, [[Dichte]], [[Ablenkung]], [[Konzentration]]

@@ -1,2 +1,2 @@
 [[Ruhe]], [[Ruh]], [[Angriffsgeschrei]], [[Schweige]], [[Unterhaltung]], [[Vortrag]]
-, [[Wortgefecht]], [[Spruch]], [[Wecker]], [[Botschaft]], [[Klingelbeil]], [[Medium]], [[Ruhestörung]]
+, [[Wortgefecht]], [[Spruch]], [[Wecker]], [[Botschaft]], [[Klingelbeil]], [[Medium]], [[Ruhestörung]], [[Rückmeldung]], [[Lautstärke]]

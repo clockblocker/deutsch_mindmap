@@ -1,1 +1,1 @@
-, [[hervorragend]], [[gering]], [[aussagekräftig]], [[entscheidend]], [[bedeutend]], [[erheblich]], [[richtungsgebend]]
+, [[hervorragend]], [[gering]], [[aussagekräftig]], [[entscheidend]], [[bedeutend]], [[erheblich]], [[richtungsgebend]], [[signifikant]]

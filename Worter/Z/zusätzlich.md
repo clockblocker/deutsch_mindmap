@@ -3,7 +3,7 @@
 ---
 Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
 
-*[[03-C1-Schreiben-T2#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2
+*[[03-C1-Schreiben-T2-M#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2
 
 
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebote]] wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5

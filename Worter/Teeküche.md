@@ -1,7 +1,7 @@
 ☕ 🔴 die [[Teeküche]], [ˈteːˌkʏçə](https://youglish.com/pronounce/Teeküche/german)
 
 ---
-*[[06-C1-Schreiben-T2#^3|^]]* Es gibt keine Restaurants oder Supermärkte in der [[Nähe]] und in der [[Teeküche]] kann man sich auch kein Essen [[zubereiten]]. ^3
+*[[06-C1-Schreiben-T2-M#^3|^]]* Es gibt keine Restaurants oder Supermärkte in der [[Nähe]] und in der [[Teeküche]] kann man sich auch kein Essen [[zubereiten]]. ^3
 
 
 ---

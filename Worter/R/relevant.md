@@ -1,1 +1,1 @@
-, [[überflüssig]], [[wichtig]], [[bezogen]], [[entscheidend]], [[bedeutend]], [[wesentlich]]
+, [[überflüssig]], [[wichtig]], [[bezogen]], [[entscheidend]], [[bedeutend]], [[wesentlich]], [[signifikant]]

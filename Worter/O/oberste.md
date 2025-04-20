@@ -1,1 +1,1 @@
-, [[Oberhaupt]]
+, [[Oberhaupt]]⬆️ [[oberst]] | ⬆️ [[oben]]

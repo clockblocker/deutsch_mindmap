@@ -1,2 +1,2 @@
 , [[verhalten]]
-, [[kosten]], [[Betrag]]
+, [[kosten]], [[Betrag]], [[belaufen]]

@@ -1,1 +1,1 @@
-, [[artig]]
+, [[artig]], [[höflich]]

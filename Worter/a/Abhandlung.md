@@ -1,1 +1,1 @@
-, [[Artikel]], [[Taschenbuch]]
+, [[Artikel]], [[Taschenbuch]], [[Ausarbeitung]]

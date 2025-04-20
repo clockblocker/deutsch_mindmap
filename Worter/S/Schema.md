@@ -1,1 +1,1 @@
-, [[Vorlage]], [[Modell]]
+, [[Vorlage]], [[Modell]], [[Skizze]]

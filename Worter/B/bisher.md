@@ -3,7 +3,7 @@
 ---
 [[Bisher]] gab es noch keinen Regen, aber bestimmt [[bald]].
 
-*[[02-C1-Schreiben-T2#^2|^]]* Ihr Teamleiter sollte Ihnen schon vor einer Woche eine [[Grobplanung]] für die Präsentation schicken, die Sie [[bisher]] - trotz [[wiederholter]] [[Nachfrage]] - noch nicht [[erhalten]] haben. ^2
+*[[02-C1-Schreiben-T2-M#^2|^]]* Ihr Teamleiter sollte Ihnen schon vor einer Woche eine [[Grobplanung]] für die Präsentation schicken, die Sie [[bisher]] - trotz [[wiederholter]] [[Nachfrage]] - noch nicht [[erhalten]] haben. ^2
 
 
 Der [[Läufer]] bricht den Rekord. (Er schlägt den [[bisher]] Schnellsten.)

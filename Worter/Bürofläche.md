@@ -27,4 +27,4 @@ G: der [[Bürofläche]], der [[Büroflächen]]
 D: der [[Bürofläche]], den [[Büroflächen]]
 
 
-#Feminin 
+#Feminin , [[Großraumbüro]]
