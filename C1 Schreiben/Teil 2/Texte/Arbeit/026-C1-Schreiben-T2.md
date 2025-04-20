@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Teamkonflikte
+#Team/Konflikt
 
 In Ihrem Team kommt es regelmäßig zu zwischenmenschlichen Konflikten, die das Arbeitsklima und die Zusammenarbeit erheblich beeinträchtigen. Sie haben den Eindruck, dass ohne frühzeitige Intervention eine Verschärfung droht. 
 - Eröffnen Sie Ihr Schreiben höflich und konstruktiv, indem Sie Ihre Sorge um das Betriebsklima ausdrücken.

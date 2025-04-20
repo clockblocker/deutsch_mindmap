@@ -1,4 +1,6 @@
-#Schreiben/C1/T2 #Behörden
+#Schreiben/C1/T2 #Behörden #Kommunikationsmangel
+#Organisation/Kommunikation #Leadership/Fuehrung
+
 
 Sie haben eine Rückfrage zu einem Steuerbescheid gestellt, aber seit über drei Wochen keine Antwort erhalten. Ihre Frist zur Zahlung läuft bald ab.
 - Zeigen Sie Verständnis für den Arbeitsaufwand.

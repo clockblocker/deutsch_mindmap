@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Technische
+#Misc/Sicherheit
 
 Im Gebäude Ihrer Firma wurden neue Sicherheitsmaßnahmen eingeführt: Alle Türen schließen automatisch nach zehn Sekunden. Dies führt dazu, dass Meetings ständig unterbrochen werden, wenn Kollegen nachkommen. Schreiben Sie eine E-Mail an Herrn Neuhaus vom Gebäudemanagement.
 - Zeigen Sie Verständnis für die Sicherheitsanforderungen.

@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Studuim
+#Schreiben/C1/T2 #Studuim #Technische
+#Organisation/Technik #Misc/Ergonomie
 
 Sie möchten in der Bibliothek einen Arbeitsplatz reservieren, doch das Online-System funktioniert seit Tagen nicht. Mehrere Mails an die Verwaltung blieben unbeantwortet.
 - Zeigen Sie Verständnis für technische Schwierigkeiten.

@@ -1,5 +1,6 @@
-#Schreiben/C1/T2 #Arbeit 
-
+#Schreiben/C1/T2 #Arbeit #Störung
+#Physical/Raumprobleme #Physical/Lärm #Team/Ruhe #Team/Kooperation 
+ 
    Sie und Ihr Teamleiter Herr Lehmann sollen in der nächsten Woche gemeinsam ein neues Produkt präsentieren. Ihr Teamleiter sollte Ihnen schon vor einer Woche eine Grobplanung für die Präsentation schicken, die Sie bisher - trotz wiederholter Nachfrage - noch nicht erhalten haben. Schreiben Sie eine E-Mail an Ihren Teamleiter.
 * Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für die Verzögerung zeigen.
 * Nennen Sie Probleme, die durch sein Verhalten entstehen können.

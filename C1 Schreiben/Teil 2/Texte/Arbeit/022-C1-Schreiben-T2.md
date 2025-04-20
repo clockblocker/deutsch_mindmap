@@ -1,4 +1,6 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Unzuverlässigkeit
+#Organisation/Meetings
+
 
 Sie erhalten regelmäßig Einladungen zu Meetings, die sehr kurzfristig angesetzt werden. Dies führt dazu, dass Sie Ihren Arbeitstag umplanen müssen und wichtige Aufgaben darunter leiden.
 - Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für die dynamischen Arbeitsprozesse zeigen.

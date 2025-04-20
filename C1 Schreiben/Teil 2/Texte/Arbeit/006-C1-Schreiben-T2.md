@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Störung
+#Physical/Verpflegung
 
 Die Kantine Ihrer Firma soll nun für zwei Monate wegen Umbauarbeiten schließen. Leider steht das Gebäude in einem industriellen Gebiet. Es gibt keine Restaurants oder Supermärkte in der Nähe und in der Teeküche kann man sich auch kein Essen zubereiten. Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Ebert.
 

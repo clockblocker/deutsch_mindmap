@@ -1,4 +1,6 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Störung
+#Physical/Lärm #Team/Ruhe
+
 
 Ihr Büro befindet sich in einem großen Gebäude, in dem mehrere Firmen Räume angemietet haben. Im Büro unter Ihnen bellt unaufhörlich ein junger Hund. Obwohl Sie den Hundebesitzer schon mehrmals darauf angesprochen haben, hat sich bis jetzt nichts geändert. Verfassen Sie ein Schreiben an den Besitzer, Herrn Jung, in dem Sie ihn auf das Problem aufmerksam machen.
 

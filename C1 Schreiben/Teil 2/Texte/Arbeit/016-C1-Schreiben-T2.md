@@ -1,4 +1,6 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Kommunikationsmangel
+#Organisation/Kommunikation #Misc/Image
+
 
 In letzter Zeit werden immer häufiger firmeninterne E-Mails mit vertraulichem Inhalt an den gesamten Verteiler gesendet. Dies hat bereits zu Missverständnissen geführt. Schreiben Sie an Ihren IT-Verantwortlichen Herrn Jansen.
 - Erklären Sie, warum Ihnen dieser Punkt aufgefallen ist.

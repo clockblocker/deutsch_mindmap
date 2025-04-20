@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Studuim
+#Schreiben/C1/T2 #Studuim #Teamkonflikte
+#Team/Konflikt #Misc/Veranstaltung #Team/NeuerKollege
 
 In Ihrer Seminargruppe gibt es seit Wochen Spannungen. Ein Gruppenmitglied dominiert, andere ziehen sich zurück. Die Arbeit leidet spürbar.
 - Beschreiben Sie sachlich die Situation.

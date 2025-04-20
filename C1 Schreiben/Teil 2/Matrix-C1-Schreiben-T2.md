@@ -13,7 +13,7 @@
 ---
 ---
 ---
-#### 🕒 Unzuverlässigkeit / schlechte Planung
+#### 🕒 #Unzuverlässigkeit / schlechte Planung 
 verspätete Infos, kurzfristige Meetings, chaotische Organisation, keine Rückmeldungen
 
 ###### Arbeit:
@@ -27,7 +27,7 @@ verspätete Infos, kurzfristige Meetings, chaotische Organisation, keine Rückme
 
 ---
 
-#### 💻 Technische / logistische Probleme
+#### 💻 #Technische / logistische Probleme
 Softwarefehler, Geräteausfall, Temperaturprobleme, Stühle, Müll im Flur, neue Türsysteme
 
 ###### Arbeit:
@@ -41,7 +41,7 @@ Softwarefehler, Geräteausfall, Temperaturprobleme, Stühle, Müll im Flur, neue
 
 ---
 
-#### 🧠 Überlastung / zusätzliche Aufgaben
+#### 🧠 #Überlastung / zusätzliche Aufgaben
 unbezahlte Mehrarbeit, neue Verantwortungen ohne Entlastung, Multitasking, unfaire Arbeitsverteilung
 
 ###### Arbeit:
@@ -55,7 +55,7 @@ unbezahlte Mehrarbeit, neue Verantwortungen ohne Entlastung, Multitasking, unfai
 
 ---
 
-#### 📢 Störung / Arbeitsumgebung
+#### 📢 #Störung / Arbeitsumgebung
 Lärm, Platzmangel, geteilte Büros, bellender Hund, unangenehmes Raumklima
 
 ###### Arbeit:
@@ -69,7 +69,7 @@ Lärm, Platzmangel, geteilte Büros, bellender Hund, unangenehmes Raumklima
 
 ---
 
-#### 🧍 Ungerechte Regelungen / Zugang
+#### 🧍 #Ungerechte Regelungen / Zugang
 Parkplatzverbot, Kursplatzmangel, fehlende Betreuungsangebote, unberücksichtigte Ernährungsbedürfnisse
 
 ###### Arbeit:
@@ -84,7 +84,7 @@ Parkplatzverbot, Kursplatzmangel, fehlende Betreuungsangebote, unberücksichtigt
 
 ---
 
-#### 🚫 Kommunikationsmangel / Führungsschwäche
+#### 🚫 #Kommunikationsmangel / Führungsschwäche
 unklare Erwartungen, harte Mails, Feedback fehlt, ignorierte Anfragen, vergessene Absprachen
 
 ###### Arbeit:
@@ -98,7 +98,7 @@ unklare Erwartungen, harte Mails, Feedback fehlt, ignorierte Anfragen, vergessen
 
 ---
 
-#### 📈 Fehlende Entwicklung / Weiterbildung
+#### 📈 #FehlendeWeiterbildung / Weiterbildung
 keine Fortbildung, versprochene Beförderung bleibt aus, keine Perspektiven trotz Engagement
 
 ###### Arbeit:
@@ -112,7 +112,7 @@ keine Fortbildung, versprochene Beförderung bleibt aus, keine Perspektiven trot
 
 ---
 
-#### 🔄 Teamkonflikte / Werteprobleme
+#### 🔄 #Teamkonflikte / Werteprobleme
 schlechte Stimmung, Konflikte im Team, ignorierte Nachhaltigkeit, eine unlebbar [[Firmenkultur]] 
 
 ###### Arbeit:

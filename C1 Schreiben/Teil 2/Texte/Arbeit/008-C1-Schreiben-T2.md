@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Ungerechte
+#Physical/Parkplatz
 
 Da der betriebseigene Parkplatz Ihrer Firma regelmäßig ausgelastet ist, hat Frau Weiß von der Geschäftsführung beschlossen, dass nur noch Mitarbeitende, die von außerhalb zur Arbeit kommen, den Parkplatz benutzen dürfen. Das bedeutet, dass Sie Ihr Fahrzeug dort nicht mehr abstellen dürfen, da sich Ihre Firma an Ihrem Wohnort befindet. Teilen Sie Frau Weiß mit, weshalb Sie mit dieser Regelung ein Problem haben.
 

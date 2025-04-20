@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Technische #Störung
+#Physical/Klima #Organisation/Technik #Physical/Lärm
 
 In letzter Zeit ist Ihnen aufgefallen, dass weder die Klimaanlage noch die Heizung in Ihrem Büro ordnungsgemäß funktionieren. Die Temperaturen im Büro weichen stark von den angenehmen Arbeitsbedingungen ab.
 - Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für technische Schwierigkeiten äußern.

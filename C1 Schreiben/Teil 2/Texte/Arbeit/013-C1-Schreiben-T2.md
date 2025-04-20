@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Überlastung
+#Leadership/Fuehrung #Karriere/Aufgabenverteilung #Mental/Stress
 
 Sie wurden gebeten, zusätzlich zu Ihren Aufgaben regelmäßig das Social-Media-Konto der Firma zu betreuen, ohne dafür eine entsprechende Entlastung oder Vergütung zu erhalten. Schreiben Sie eine E-Mail an Ihre Vorgesetzte Frau Keller.
 - Drücken Sie Ihre Bereitschaft zur Unterstützung aus.

@@ -1,4 +1,6 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Unzuverlässigkeit #Kommunikationsmangel
+#Organisation/Kommunikation #Life/Arbeitszeit #Mental/Wertschätzung
+
 
 Sie sind letzte Woche zum ersten Mal in Ihrer langjährigen Betriebszugehörigkeit zu spät gekommen. Daraufhin erhielten Sie von Ihrer Vorgesetzten eine E-Mail mit dem Hinweis darauf, dieses Verhalten in Zukunft zu unterlassen. Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Marek. 
 * Eröffnen Sie Ihr Schreiben, indem Sie Verständnis für die Wichtigkeit der Einhaltung der Arbeitszeit zeigen. 

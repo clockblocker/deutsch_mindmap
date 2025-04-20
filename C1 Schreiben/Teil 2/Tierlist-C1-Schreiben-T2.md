@@ -4,7 +4,7 @@
 021-026 = Tier B GPT Arbeit
 ```
 #### S Tier 
-  - ###### 🗂️ PHYSICAL ENVIRONMENT
+  - ###### 🗂️ PHYSICAL-ENVIRONMENT
     - Raumprobleme / Platzmangel: [[001-C1-Schreiben-T2|001]], [[003-C1-Schreiben-T2|003]], [[104-C1-Schreiben-T2|104]], [[204-C1-Schreiben-T2|204]],
     - Lärm (Kollegen/ Hunde/ Bauarbeiten): [[001-C1-Schreiben-T2|001]], [[004-C1-Schreiben-T2|004]], [[104-C1-Schreiben-T2|104]], [[204-C1-Schreiben-T2|204]],
     - Klimaanlage / Heizung defekt: [[021-C1-Schreiben-T2|021]], [[101-C1-Schreiben-T2|101]], [[204-C1-Schreiben-T2|204]],
@@ -56,29 +56,30 @@
     - Firmenimage gefährdet: [[012-C1-Schreiben-T2|012]], [[016-C1-Schreiben-T2|016]], [[025-C1-Schreiben-T2|025]], [[208-C1-Schreiben-T2|208]],
 
 
-- [x] [[001-C1-Schreiben-T2|001]]
-- [x] [[002-C1-Schreiben-T2|002]]
-- [x] [[003-C1-Schreiben-T2|003]]
-- [x] [[004-C1-Schreiben-T2|004]]
-- [x] [[005-C1-Schreiben-T2|005]]
+
+- [ ] [[001-C1-Schreiben-T2|001]]
+- [ ] [[002-C1-Schreiben-T2|002]]
+- [ ] [[003-C1-Schreiben-T2|003]]
+- [ ] [[004-C1-Schreiben-T2|004]]
+- [ ] [[005-C1-Schreiben-T2|005]]
 - [ ] [[006-C1-Schreiben-T2|006]]
 - [ ] [[007-C1-Schreiben-T2|007]]
-- [ ] [[008-C1-Schreiben-T2|008]] 
+- [ ] [[008-C1-Schreiben-T2|008]]
 
-- [ ] [[011-C1-Schreiben-T2|011]] 
-- [ ] [[012-C1-Schreiben-T2|012]] 
-- [ ] [[013-C1-Schreiben-T2|013]] 
-- [ ] [[014-C1-Schreiben-T2|014]] 
-- [ ] [[015-C1-Schreiben-T2|015]] 
-- [ ] [[016-C1-Schreiben-T2|016]] 
-- [ ] [[017-C1-Schreiben-T2|017]] 
+- [ ] [[011-C1-Schreiben-T2|011]]
+- [ ] [[012-C1-Schreiben-T2|012]]
+- [ ] [[013-C1-Schreiben-T2|013]]
+- [ ] [[014-C1-Schreiben-T2|014]]
+- [ ] [[015-C1-Schreiben-T2|015]]
+- [ ] [[016-C1-Schreiben-T2|016]]
+- [ ] [[017-C1-Schreiben-T2|017]]
 
-- [ ] [[021-C1-Schreiben-T2|021]] 
-- [ ] [[022-C1-Schreiben-T2|022]] 
-- [ ] [[023-C1-Schreiben-T2|023]] 
-- [ ] [[024-C1-Schreiben-T2|024]] 
-- [ ] [[025-C1-Schreiben-T2|025]] 
-- [ ] [[026-C1-Schreiben-T2|026]] 
+- [ ] [[021-C1-Schreiben-T2|021]]
+- [ ] [[022-C1-Schreiben-T2|022]]
+- [ ] [[023-C1-Schreiben-T2|023]]
+- [ ] [[024-C1-Schreiben-T2|024]]
+- [ ] [[025-C1-Schreiben-T2|025]]
+- [ ] [[026-C1-Schreiben-T2|026]]
 
 - [ ] [[101-C1-Schreiben-T2|101]]
 - [ ] [[102-C1-Schreiben-T2|102]]
@@ -87,7 +88,7 @@
 - [ ] [[105-C1-Schreiben-T2|105]]
 - [ ] [[106-C1-Schreiben-T2|106]]
 - [ ] [[107-C1-Schreiben-T2|107]]
-- [ ] [[108-C1-Schreiben-T2|108]] 
+- [ ] [[108-C1-Schreiben-T2|108]]
 
 - [ ] [[201-C1-Schreiben-T2|201]]
 - [ ] [[202-C1-Schreiben-T2|202]]
@@ -96,4 +97,4 @@
 - [ ] [[205-C1-Schreiben-T2|205]]
 - [ ] [[206-C1-Schreiben-T2|206]]
 - [ ] [[207-C1-Schreiben-T2|207]]
-- [ ] [[208-C1-Schreiben-T2|208]] 
+- [ ] [[208-C1-Schreiben-T2|208]]

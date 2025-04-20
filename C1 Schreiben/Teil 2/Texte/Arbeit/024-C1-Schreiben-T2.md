@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #FehlendeWeiterbildung
+#Development/Weiterbildung
 
 In Ihrem Unternehmen werden aktuell kaum Fortbildungsangebote bereitgestellt, obwohl Sie den Bedarf nach beruflicher Weiterentwicklung sehen. Dies hemmt Ihre Karrierechancen und motiviert Sie weniger.
 - Eröffnen Sie Ihr Schreiben höflich, indem Sie die betriebliche Situation und vorhandene Ressourcen anerkennen.

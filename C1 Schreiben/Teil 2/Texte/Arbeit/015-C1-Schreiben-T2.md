@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Ungerechte #Teamkonflikte
+#Team/Ungleichbehandlung #Mental/Wertschätzung #Misc/Veranstaltung
 
 Bei einer kürzlich organisierten Firmenveranstaltung wurden Vegetarierinnen und Vegetarier nicht ausreichend berücksichtigt. Als Betroffene möchten Sie sich darüber äußern. Schreiben Sie an Frau Behm aus der Eventabteilung.
 - Danken Sie für die Organisation der Veranstaltung.

@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Überlastung #Ungerechte
+#Life/Betreuung
 
 Aufgrund unflexibler Arbeitszeiten und fehlender betrieblicher Unterstützungsangebote im Bereich Kinderbetreuung haben Sie Schwierigkeiten, Ihre familiären Verpflichtungen mit den beruflichen Anforderungen in Einklang zu bringen.
 - Eröffnen Sie Ihr Schreiben höflich und zeigen Sie Verständnis für betriebliche Rahmenbedingungen.

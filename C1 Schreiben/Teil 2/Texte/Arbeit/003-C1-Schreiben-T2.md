@@ -1,4 +1,6 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Überlastung #Störung
+#Physical/Raumprobleme #Team/NeuerKollege #Team/Kooperation #Mental/Stress
+
 
 In Ihrer Firma wurde ein neuer Kollege eingestellt, der jetzt mit Ihnen in Ihrem Büro arbeitet. Durch den zusätzlichen Arbeitsplatz hat sich jedoch in Ihrem Büro ein Platzproblem ergeben. Verfassen Sie ein Schreiben an Ihre Vorgesetzte, Frau Kaur, in dem Sie sie auf das Problem aufmerksam machen.
 * Eröffnen Sie Ihr Schreiben, indem Sie Ihre Freude darüber äußern, dass Ihr Team jetzt einen neuen Kollegen hat.

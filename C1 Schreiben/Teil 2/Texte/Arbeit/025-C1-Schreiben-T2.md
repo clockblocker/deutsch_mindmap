@@ -1,4 +1,5 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Teamkonflikte
+#Misc/Nachhaltigkeit #Misc/Image
 
 Sie haben festgestellt, dass in Ihrem Büro die Mülltrennung und weitere nachhaltige Maßnahmen vernachlässigt werden, was das Firmenimage und Ihre eigenen Werte in Bezug auf Umweltschutz beeinträchtigt.
 - Eröffnen Sie Ihr Schreiben höflich, indem Sie die Notwendigkeit von Nachhaltigkeitsmaßnahmen anerkennen.

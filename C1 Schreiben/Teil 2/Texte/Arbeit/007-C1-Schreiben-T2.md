@@ -1,4 +1,6 @@
-#Schreiben/C1/T2 #Arbeit 
+#Schreiben/C1/T2 #Arbeit #Technische
+#Organisation/Kommunikation #Organisation/Schulung #Organisation/Technik #Mental/Stress
+
 
 An Ihrem Arbeitsplatz ist eine neue Software eingeführt worden, zu der es jedoch nur eine 10-minütige Einführung gab. Als Folge dauern bei Ihnen und Ihrem Team viele Arbeitsprozesse nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der geforderten Zeit zu erledigen. Schreiben Sie Ihrem Vorgesetzten Herrn Heine eine E-Mail.
 * Beschreiben Sie die Situation anhand eines Beispiels.
