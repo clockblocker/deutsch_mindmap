@@ -24,6 +24,7 @@ Sollte es noch einmal zu einer Verspätung kommen, werde ich Sie direkt informie
 
 Auf eine Antwort von Ihnen freue ich mich.
 
+Mit freundlichen Grüßen
 Denis Popov
 
 ![[ElevenLabs_2025-04-20T05_15_05_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]
@@ -52,16 +53,18 @@ sie in den [[Notfall]] zu bringen.
 *Ich hätte* Sie über meine mögliche Verspätung informieren *müssen;* 
 *dafür möchte ich mich entschuldigen.*
 
-*Allerdings* halte ich einen schriftlichen Hinweis in diesem Fall für überzogen: 
-Ich bin seit vielen Jahren Teil des Unternehmens 
-und war in all den Jahren noch nie zu spät.
+*Allerdings halte ich* einen schriftlichen [[Hinweis]] *in diesem Fall für überzogen:* 
+Ich bin seit vielen [[Jahr]]en [[Teil]] des [[Unternehmen]]s 
+und war in all den [[Jahr]]en noch nie zu spät.
 
-Sollte es noch einmal zu einer Verspätung kommen, 
-werde ich Sie direkt informieren und ich würde es begrüßen, 
-wenn Sie in einem solchen Fall zunächst das direkte Gespräch suchen.
+*Sollte es noch einmal zu* einer [[Verspätung]] *kommen,* 
+*werde ich* Sie direkt informieren 
+*und ich würde es begrüßen,* 
+*wenn* Sie in einem solchen Fall zunächst das direkte Gespräch suchen.
 
 Auf eine Antwort von Ihnen freue ich mich.
 
-Denis Popov
+*Mit freundlichen Grüßen*
+*Denis Popov*
 
 ![[ElevenLabs_2025-04-20T05_15_05_Otto_pvc_sp100_s100_sb100_se24_b_m2 1.mp3]]

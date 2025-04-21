@@ -25,3 +25,5 @@ N: die [[Vorarbeit]], die [[Vorarbeiten]]
 A: die [[Vorarbeit]], die [[Vorarbeiten]]
 G: der [[Vorarbeit]], der [[Vorarbeiten]]
 D: der [[Vorarbeit]], den [[Vorarbeiten]]
+
+#Feminin 

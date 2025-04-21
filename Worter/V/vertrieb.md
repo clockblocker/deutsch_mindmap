@@ -1,2 +1,2 @@
 🚷 [[vertreiben]]
-, [[Verkauf]]
+, [[Verkauf]], [[Buchhaltungsbereich]]

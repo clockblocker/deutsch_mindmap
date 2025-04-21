@@ -1,1 +1,1 @@
-, [[heutig]], [[jetzig]], [[Vergangenheit]], [[Geschichte]], [[gegenwärtig]], [[Präsenz]]
+, [[heutig]], [[jetzig]], [[Vergangenheit]], [[Geschichte]], [[gegenwärtig]], [[Präsenz]], [[Perspektive]]

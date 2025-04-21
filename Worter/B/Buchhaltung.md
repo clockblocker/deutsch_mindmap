@@ -31,4 +31,4 @@ G: der [[Buchhaltung]], der [[Buchhaltungen]]
 D: der [[Buchhaltung]], den [[Buchhaltungen]]
 , [[Datenbank]], [[Ausstattung]]
 
-#Feminin
+#Feminin, [[Buchhaltungsbereich]]

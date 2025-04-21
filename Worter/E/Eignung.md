@@ -1,1 +1,1 @@
-, [[eignen]], [[geeignet]], [[Vereinbarkeit]]
+, [[eignen]], [[geeignet]], [[Vereinbarkeit]], [[Kompetenz]]

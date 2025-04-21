@@ -13,22 +13,20 @@ Schreiben Sie circa 120 Wörter.
 
 Sehr geehrte Frau Kaur,
 
-ich freue mich sehr, dass unser IT-Infrastruktur-Team durch Herrn Ibrahim verstärkt wurde. Neue Perspektiven und Kompetenzen sind immer ein Gewinn.
+ich freue mich sehr, dass unser IT-Infrastruktur-Team durch Herrn Muller verstärkt wird. Neue Perspektiven und Kompetenzen sind immer ein Gewinn.
 
-Zurzeit leite ich ein Team von sechs Softwareingenieur:innen bei der Entwicklung unseres internen „E-Ledger“-Projekt für den Buchhaltungsbereich. 
+Zurzeit leite ich ein Team von sechs Softwareingenieur:innen bei der Entwicklung unseres internen „E-Ledger“-Projekts für den Buchhaltungsbereich. 
 
-Allerdings führt die gegenwärtige Bürosituation durch den neuen Arbeitsplatz zu gewissen Herausforderungen. Unser Open Space ist für sieben Personen gestaltet – der neue Kollege findet jedoch kaum Platz. Der vorhandene Platz ist sehr begrenzt, die Arbeitsbedingungen sind insgesamt wenig komfortabel und allgemeine Konzentration ist dadurch gestört.
+Allerdings ist es durch den neuen Arbeitsplatz im Büro deutlich enger geworden. Unser Open Space ist für sieben Personen gestaltet – der neue Kollege findet jedoch kaum Platz. Der vorhandene Raum ist sehr begrenzt und die allgemeine Konzentration ist dadurch gestört.
 
-Wenn kein расширение Büro angeboten werden kann, schlage ich vor dem Team die Möglichkeit anzubieten, bis zu zwei Tage pro Woche im Homeoffice zu arbeiten.
-
-Eine mögliche Lösung wäre, dem Team die Möglichkeit anzubieten, bis zu zwei Tage pro Woche im Homeoffice zu arbeiten.
+Wenn kein angemessenes Büro angeboten werden kann, schlage ich vor, dem Team die Möglichkeit zu geben, bis zu zwei Tagen pro Woche im Homeoffice zu arbeiten.
 
 Auf eine Antwort von Ihnen freue ich mich.
 
+Mit freundlichen Grüßen
 Denis Popov
 
-![[ElevenLabs_2025-04-17T01_59_19_Otto_pvc_sp100_s34_sb46_se0_b_m2.mp3]]
-
+![[ElevenLabs_2025-04-20T07_00_48_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]
 
 ---
 
@@ -42,17 +40,31 @@ Schreiben Sie circa 120 Wörter.
 
 ---
 
-Sehr geehrte Frau Kaur,
+*Sehr geehrte Frau Kaur,*
 
-ich freue mich sehr, dass unser IT-Infrastruktur-Team durch Herrn Ibrahim verstärkt wird. Neue Perspektiven und Kompetenzen sind immer ein Gewinn.
+*ich freue mich sehr,* 
+*dass* unser IT-Infrastruktur-[[Team]] *durch* Herrn Muller *verstärkt wird.* 
+Neue [[Perspektive]]n und [[Kompetenz]]en sind immer ein Gewinn.
 
-Zurzeit leite ich ein Team von sechs Softwareingenieur:innen bei der Entwicklung unseres internen „E-Ledger“-Projekts für den Buchhaltungsbereich. 
+*Zurzeit* leite ich ein Team von sechs Softwareingenieur:innen 
+bei der [[Entwicklung]] unseres internen „E-Ledger“-[[Projekt]]s 
+für den [[Buchhaltungsbereich]]. 
 
-Allerdings führt die gegenwärtige Bürosituation durch den neuen Arbeitsplatz zu gewissen Herausforderungen. Unser Open Space ist für sieben Personen gestaltet – der neue Kollege findet jedoch kaum Platz.  Der vorhandene Platz ist sehr begrenzt, die Arbeitsbedingungen sind insgesamt wenig komfortabel und die allgemeine Konzentration ist dadurch gestört.
+*Allerdings ist es durch den* neuen [[Arbeitsplatz]] im [[Büro]] deutlich enger *geworden*. 
+Unser [[Open Space]] ist für sieben [[Person]]en gestaltet – 
+der neue [[Kollege]] findet jedoch kaum [[Platz]]. 
+Der vorhandene [[Raum]] ist sehr begrenzt 
+und die allgemeine [[Konzentration]] ist dadurch gestört.
 
-Wenn kein angemessenes Büro angeboten werden kann, schlage ich vor, dem Team die Möglichkeit anzubieten, bis zu zwei Tagen pro Woche im Homeoffice zu arbeiten.
+*Wenn kein* angemessenes Büro *angeboten werden kann,* 
+*schlage ich vor,* 
+dem Team *die Möglichkeit zu geben,* 
+bis zu zwei Tagen pro Woche im Homeoffice zu arbeiten.
 
-Auf eine Antwort von Ihnen freue ich mich.
+*Auf eine Antwort von Ihnen freue ich mich.*
 
 *Mit freundlichen Grüßen*
-Denis Popov
+*Denis Popov*
+
+
+![[ElevenLabs_2025-04-20T07_00_48_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]

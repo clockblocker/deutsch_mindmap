@@ -1,1 +1,1 @@
-, [[Großraumbüro]]
+, [[Großraumbüro]], [[Open Space]]

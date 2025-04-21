@@ -1,1 +1,1 @@
-, [[Buchhaltung]]
+, [[Buchhaltung]], [[Buchhaltungsbereich]]

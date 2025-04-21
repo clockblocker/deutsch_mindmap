@@ -1,4 +1,4 @@
-#Schreiben/C1/T2 #Arbeit #Störung
+	#Schreiben/C1/T2 #Arbeit #Störung
 #Physical/Raumprobleme #Physical/Lärm #Team/Ruhe #Team/Kooperation 
  
    Sie und Ihr Teamleiter Herr Lehmann sollen in der nächsten Woche gemeinsam ein neues Produkt präsentieren. Ihr Teamleiter sollte Ihnen schon vor einer Woche eine Grobplanung für die Präsentation schicken, die Sie bisher - trotz wiederholter Nachfrage - noch nicht erhalten haben. Schreiben Sie eine E-Mail an Ihren Teamleiter.
@@ -24,6 +24,7 @@ Ich schlage vor, dass wir uns morgen kurz zusammensetzen, um die offenen Punkte 
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
+Mit freundlichen Grüßen
 Denis Popov
 
 ![[ElevenLabs_2025-04-20T04_53_30_Otto_pvc_sp100_s100_sb46_se0_b_m2.mp3]]
@@ -66,6 +67,7 @@ um die offenen [[Punkt]]e zu klären.
 
 *Ich freue mich auf Ihre [[Rückmeldung]] und danke Ihnen im Voraus.*
 
+*Mit freundlichen Grüßen*
 *Denis Popov*
 
 

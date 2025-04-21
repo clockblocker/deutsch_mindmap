@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Möglichkeit]], [[Möglichkeiten]], [[Möglichk
 
 ---
 #Substantiv #Feminin #Abstrakt #Ableitung
-🤝 🔴 die [[Möglichkeit]]🤔 🔴 die [[Möglichkeit]], [[ermöglichen]], [[Texte/Misc/Anki]], [[Zugang]]
+🤝 🔴 die [[Möglichkeit]]🤔 🔴 die [[Möglichkeit]], [[ermöglichen]], [[Texte/Misc/Anki]], [[Zugang]], [[Perspektive]]

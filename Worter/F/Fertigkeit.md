@@ -1,1 +1,1 @@
-, [[Fähigkeiten]], [[Fähigkeit]]
+, [[Fähigkeiten]], [[Fähigkeit]], [[Kompetenz]]

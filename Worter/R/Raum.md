@@ -25,4 +25,4 @@ Einzigartige mögliche Formen: [[Raumes]], [[Raum]], [[Räume]], [[Räumen]]
 ---
 #Maskulin  , [[Entfernung]], [[Zelle]], [[Flur]], [[Halle]], [[Fläche]], [[Gymnastikraum]], [[Pausenraum]], [[Büroraum]], [[Räumlichkeit]], [[Großraumbüro]], [[Raummitte]]
 
-, [[Telefonzelle]]
+, [[Telefonzelle]], [[Open Space]]

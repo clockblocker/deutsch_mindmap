@@ -1,8 +1,12 @@
-🟢 📈 die [[Entwicklung]], [ɛntˈvɪklʊŋ]
+📈 die [[Entwicklung]], [ɛntˈvɪklʊŋ]
 die [[Entwicklungen]]
 
 ---
 Der Film zeigt die [[Entwicklung]] eines Menschen von der Geburt bis zum Tod.
+
+*Zurzeit* leite ich ein Team von sechs Softwareingenieur:innen 
+bei der [[Entwicklung]] unseres internen „E-Ledger“-[[Projekt]]s 
+für den [[Buchhaltungsbereich]]. 
 
 > *[[Atom#^14|^]]* *Ich weiß nicht, ob das nicht für uns alle schädlich sein wird. Wir sollten uns auf die [[Entwicklung]] der Region konzentrieren und nicht auf banale Probleme.* ^14
  
@@ -30,3 +34,5 @@ D: der [[Entwicklung]], den [[Entwicklungen]]
 ---
 [[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Texte/Misc/Anki]], [[Wendung]]
 , [[fehlentwicklung]], [[Karriere]], [[Stadtentwicklung]], [[Persönlichkeitsentwicklung]], [[Laufbahn]], [[Kindesalter]], [[Verbesserung]], [[Teamentwicklung]], [[Technologie]], [[Ausarbeitung]]
+
+#Feminin , [[Open Space]]

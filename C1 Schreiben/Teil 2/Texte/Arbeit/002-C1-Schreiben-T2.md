@@ -1,7 +1,6 @@
 #Schreiben/C1/T2 #Arbeit #Unzuverlässigkeit #Kommunikationsmangel
 #Organisation/Kommunikation #Organisation/Fristen #Leadership/Fuehrung
 
-
 Während Ihres Urlaubs ist Ihre Firma in ein anderes Gebäude umgezogen. Bei Ihrer Rückkehr stellen Sie überrascht fest, dass Sie nicht mehr allein, sondern zusammen mit sechs Kolleginnen und Kollegen in einem Raum sitzen.
 Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Grimm
 - Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für Sachzwänge zeigen

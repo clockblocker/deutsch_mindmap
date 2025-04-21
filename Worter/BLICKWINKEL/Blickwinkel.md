@@ -1,1 +1,1 @@
-, [[Hinblick]], [[Aspekt]]
+, [[Hinblick]], [[Aspekt]], [[Perspektive]]

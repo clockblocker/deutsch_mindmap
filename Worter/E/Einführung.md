@@ -37,4 +37,4 @@ D: der [[Einführung]], den [[Einführungen]]
 [[einführen]], [[Einführender]], [[einführend]], [[Einführungsveranstaltung]], [[Einführungskurs]], [[Texte/Misc/Anki]], [[Aufhebung]]
 
 
-#Feminin , [[Wegfall]], [[Pitch]]
+#Feminin , [[Wegfall]], [[Pitch]], [[Vorarbeit]]

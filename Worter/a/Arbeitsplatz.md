@@ -27,4 +27,4 @@ D: dem [[Arbeitsplatz]], den [[Arbeitsplätzen]]
 , [[Arbeitsauftrag]], [[Arbeitsstelle]], [[Arbeitsumfeld]]
 
 
-#Maskulin , [[Homeoffice]], [[Arbeitsform]], [[Büroraum]], [[Großraumbüro]], [[Bürosituation]]
+#Maskulin , [[Homeoffice]], [[Arbeitsform]], [[Büroraum]], [[Großraumbüro]], [[Bürosituation]], [[Open Space]]

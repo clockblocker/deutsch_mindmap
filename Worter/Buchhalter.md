@@ -23,4 +23,4 @@ G: des [[Buchhalters]], der [[Buchhalter]]
 D: dem [[Buchhalter]], den [[Buchhaltern]]  
 
 ---
-[[buchen]], [[Buchhaltung]], [[buchhalterisch]], [[Rechnungswesen]]
+[[buchen]], [[Buchhaltung]], [[buchhalterisch]], [[Rechnungswesen]], [[Buchhaltungsbereich]]

@@ -28,4 +28,4 @@ G: des [[Projekts]], der [[Projekte]]
 D: dem [[Projekt]], den [[Projekten]]
 
 
-#Neuter , [[Projektmanager]]
+#Neuter , [[Projektmanager]], [[Open Space]]

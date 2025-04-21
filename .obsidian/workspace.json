@@ -6,48 +6,20 @@
       {
         "id": "f513c5991ac80580",
         "type": "tabs",
-        "dimension": 46.459143968871594,
+        "dimension": 56.15384615384615,
         "children": [
-          {
-            "id": "0cd0d98faa2b726d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/005-C1-Schreiben-T2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "005-C1-Schreiben-T2"
-            }
-          },
-          {
-            "id": "4a6e0f86ed7d03df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Vorarbeit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vorarbeit"
-            }
-          },
           {
             "id": "99f5013a533b735e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/021-C1-Schreiben-T2.md",
+                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/001-C1-Schreiben-T2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "021-C1-Schreiben-T2"
+              "title": "001-C1-Schreiben-T2"
             }
           }
         ]
@@ -55,8 +27,22 @@
       {
         "id": "56c287249fac5517",
         "type": "tabs",
-        "dimension": 53.540856031128406,
+        "dimension": 43.84615384615385,
         "children": [
+          {
+            "id": "0cd0d98faa2b726d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 2/Tierlist-C1-Schreiben-T2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tierlist-C1-Schreiben-T2"
+            }
+          },
           {
             "id": "1497237a5e9b8ae2",
             "type": "leaf",
@@ -142,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.50390243530273
+    "width": 278.50390243530273
   },
   "right": {
     "id": "5551a767f2afb90d",
@@ -236,82 +222,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "24b70972fb29b4cb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ac1b068daf9eb741",
-        "type": "window",
-        "children": [
-          {
-            "id": "50b4cc00fe3680d6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f29832717de81459",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "C1 Schreiben/Teil 2/Fisch-C1-Schreiben-T2.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Fisch-C1-Schreiben-T2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 400,
-        "y": 363,
-        "width": 600,
-        "height": 875,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "0cd0d98faa2b726d",
+  "active": "99f5013a533b735e",
   "lastOpenFiles": [
-    "C1 Schreiben/Teil 2/Fisch-C1-Schreiben-T2.md",
-    "C1 Schreiben/Teil 2/Texte/Arbeit/005-C1-Schreiben-T2.md",
-    "Anhänge/ElevenLabs_2025-04-20T05_15_05_Otto_pvc_sp100_s100_sb100_se24_b_m2 1.mp3",
-    "Anhänge/ElevenLabs_2025-04-20T05_15_05_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3",
-    "C1 Schreiben/Teil 2/Texte/Arbeit/006-C1-Schreiben-T2.md",
-    "Worter/Notbetreuung.md",
-    "Worter/N/Notfall.md",
-    "Worter/REGELBETREUUNG/Regelbetreuung.md",
-    "Worter/REGELBETREUUNG",
-    "Worter/NOTFALLBETREUUNG/Notfallbetreuung.md",
-    "Worter/NOTFALLBETREUUNG",
-    "Worter/KRISENBETREUUNG/Krisenbetreuung.md",
-    "Worter/KRISENBETREUUNG",
-    "Worter/NOTBETREUUNGEN/Notbetreuungen.md",
-    "Worter/NOTBETREUUNGEN",
-    "C1 Schreiben/Teil 2/Texte/Arbeit/004-C1-Schreiben-T2.md",
-    "Worter/A/Arbeiten.md",
-    "Worter/B/Bedingung.md",
-    "Worter/HAUSVERWALTUNG/Hausverwaltung.md",
-    "Worter/IMMOBILIEN/Immobilien.md",
-    "Worter/IMMOBILIEN",
-    "Worter/VERWALTUNG VON WOHNHÄUSERN/Verwaltung von Wohnhäusern.md",
-    "Worter/VERWALTUNG VON WOHNHÄUSERN",
-    "Worter/HAUSVERWALTUNGEN/Hausverwaltungen.md",
-    "Worter/HAUSVERWALTUNGEN",
-    "Worter/T/Team.md",
-    "Worter/TEAMS/Teams.md",
-    "Worter/TEAMS",
-    "Worter/EINZELKÄMPFER/Einzelkämpfer.md",
     "C1 Schreiben/Teil 2/Texte/Arbeit/003-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/001-C1-Schreiben-T2.md",
+    "Worter/V/Verzögerung.md",
     "C1 Schreiben/Teil 2/Texte/Arbeit/002-C1-Schreiben-T2.md",
-    "Worter/Projektmanager.md",
-    "Worter/PROJEKTMANAGERN/Projektmanagern.md",
-    "Worter/PROJEKTMANAGERS/Projektmanagers.md",
-    "Worter/PROJEKTKOORDINATOR/Projektkoordinator.md",
+    "Worter/Open Space.md",
+    "Worter/OPEN SPACES/Open Spaces.md",
+    "Worter/OPEN SPACES",
+    "Worter/OPEN/Open.md",
+    "Worter/OPEN",
+    "Worter/SPACE/Space.md",
+    "Worter/SPACE",
+    "Worter/GESCHLOSSENES BÜRO/geschlossenes Büro.md",
+    "Worter/GESCHLOSSENES BÜRO",
+    "Worter/OFFENER ARBEITSBEREICH/offener Arbeitsbereich.md",
+    "Worter/OFFENER ARBEITSBEREICH",
+    "Worter/E/Entwicklung.md",
+    "Worter/Buchhaltungsbereich.md",
+    "Worter/BUCHHALTUNGSBEREICHEN/Buchhaltungsbereichen.md",
+    "Worter/BUCHHALTUNGSBEREICHEN",
+    "Worter/BUCHHALTUNGSBEREICHS/Buchhaltungsbereichs.md",
+    "Worter/BUCHHALTUNGSBEREICHS",
+    "Worter/BUCHHALTUNGS/Buchhaltungs.md",
+    "Worter/BUCHHALTUNGS",
+    "Worter/BUCHHALTUNGSBEREICHE/Buchhaltungsbereiche.md",
+    "Worter/BUCHHALTUNGSBEREICHE",
+    "Worter/K/Kompetenz.md",
+    "Worter/P/Perspektive.md",
+    "Worter/KOMPETENZEN/Kompetenzen.md",
+    "Worter/KOMPETENZEN",
+    "Worter/KOMPETENZBEREICH/Kompetenzbereich.md",
+    "Worter/KOMPETENZERWERB/Kompetenzerwerb.md",
+    "Worter/PERSPEKTIVLOSIGKEIT/Perspektivlosigkeit.md",
+    "Worter/PERSPEKTIVENWECHSEL/Perspektivenwechsel.md",
+    "Worter/PERSPEKTIVISCH/perspektivisch.md",
+    "C1 Schreiben/Teil 2/Tierlist-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Fisch-C1-Schreiben-T2.md",
     "Anhänge/Pasted Image 20250418092802_863.png",
     "Anhänge/Pasted Image 20250418073845_878.png",
     "Anhänge/Pasted Image 20250418071644_618.png",

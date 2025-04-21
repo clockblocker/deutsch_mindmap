@@ -1,1 +1,1 @@
-, [[Produktsupport]], [[Produktrezension]], [[Buchhaltung]]
+, [[Produktsupport]], [[Produktrezension]], [[Buchhaltung]], [[Buchhaltungsbereich]]

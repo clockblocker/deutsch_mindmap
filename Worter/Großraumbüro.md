@@ -33,4 +33,4 @@ G: des [[Großraumbüros]], der [[Großraumbüros]]
 D: dem [[Großraumbüro]], den [[Großraumbüros]]
 
 
-#Neuter 
+#Neuter , [[Open Space]]
