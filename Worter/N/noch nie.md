@@ -1,4 +1,4 @@
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 SAM: Ach so, … keine Freundinnen ... [[noch]] [[nie]].  
 

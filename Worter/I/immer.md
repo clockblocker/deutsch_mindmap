@@ -1,4 +1,4 @@
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 Hast du [[immer]] noch [[so viele]] Pickel?  
 

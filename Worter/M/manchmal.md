@@ -1,6 +1,6 @@
 🌈 [[manchmal]], [ˈmantsman]
 
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 
 ---

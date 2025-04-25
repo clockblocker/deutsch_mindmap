@@ -1,5 +1,5 @@
 🗓️ [[allwöchentlich]], [ˈalˌvœçəntlɪç]
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 
 ---

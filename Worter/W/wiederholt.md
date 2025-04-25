@@ -1,4 +1,4 @@
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 
 , [[Öfteren]], [[häufig]], [[Worter/W/Wiederholung]], [[einmalig]], [[wiederholen]], [[mehrmals]]

@@ -1,6 +1,6 @@
 📍 [[stellenweise]], [ˈʃtɛlənˌvaɪ̯zə](https://youglish.com/pronounce/stellenweise/german)
 
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 
 ---

@@ -6253,7 +6253,7 @@ var require_purify = __commonJS({
           var returnNode = void 0;
           IS_EMPTY_INPUT = !dirty;
           if (IS_EMPTY_INPUT) {
-            dirty = "<!-->";
+            dirty = "<!--->";
           }
           if (typeof dirty !== "string" && !_isNode(dirty)) {
             if (typeof dirty.toString !== "function") {

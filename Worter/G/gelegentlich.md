@@ -1,6 +1,6 @@
 🗓️ [[gelegentlich]], [ɡəˈleːɡn̩tlɪç](https://youglish.com/pronounce/gelegentlich/german)
 
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 
 ---

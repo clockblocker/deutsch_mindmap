@@ -1,6 +1,6 @@
 [[Kaum]], [kaʊm]
 
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 
 ---

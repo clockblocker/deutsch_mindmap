@@ -1,7 +1,7 @@
 🕰️ [[dauerhaft]], [ˈdaʊ̯ɐhaft](https://youglish.com/pronounce/dauerhaft/german)
 
 ---
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 ---> [[Temporal-Dauerhaft]] <---
 
 ---

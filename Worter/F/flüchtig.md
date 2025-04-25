@@ -1,5 +1,5 @@
 💨 [[flüchtig]], [ˈflʏçtɪç](https://youglish.com/pronounce/flüchtig/german)
---> [[Temporal-Dauerhaft]] <--
+---> [[Temporal-Dauerhaft]] <---
 
 ---
 

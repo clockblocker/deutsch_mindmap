@@ -1,7 +1,7 @@
 🥇 [[einmalig]], [ˈaɪ̯nmaːlɪç] ≠ [[wiederholt]]
 
---> [[Temporal-Frequenz]] <--
---> [[Temporal-Dauerhaft]] <--
+---> [[Temporal-Frequenz]] <---
+---> [[Temporal-Dauerhaft]] <---
 
 
 

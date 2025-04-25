@@ -1,8 +1,8 @@
 oft-selten
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 langfristig
---> [[Temporal-Perspektive]] <--
+---> [[Temporal-Perspektive]] <---
 
 
 #### Perspektive

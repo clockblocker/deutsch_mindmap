@@ -1,3 +1,3 @@
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 , [[launisch]], [[Wechsel]]

@@ -1,4 +1,4 @@
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 #### 🟢 [[immer]] 
 1) [[stets]] *(formal immer)*
 	- 

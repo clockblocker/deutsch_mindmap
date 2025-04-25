@@ -1,6 +1,6 @@
 🙅 [[nie]], [niː]
 
---> [[Temporal-Frequenz]] <--
+---> [[Temporal-Frequenz]] <---
 
 
 ---

@@ -1297,7 +1297,7 @@ Wir fahren **~~f\xFCr~~ eine Woche** in die Ukraine.
 [[stand]] + [[halten]]</agent_output>
 </example>
 
-<!-- Example of a longer compound with foreign root -->
+<!-- Example of a longer compound with foreign root --->
 <example>
 <german_word>Arbeitsplatzcomputersystem</german_word>
 <agent_output>[[Arbeit]]|${R}s${R}|[[platz]]|[[computer]]|[[system]]
