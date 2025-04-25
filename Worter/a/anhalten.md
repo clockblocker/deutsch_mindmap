@@ -1,3 +1,3 @@
 [[fahren]], [[dauern]], [[vergehen]], [[losfahren]], [[verlaufen]], [[durchatmen]], [[weitergehen]], [[Ankunft]], [[bleiben]]
 , [[entlanggehen]]
-, [[abfahren]], [[ticken]]
+, [[abfahren]], [[ticken]], [[langanhaltend]]

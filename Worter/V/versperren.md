@@ -1,1 +1,1 @@
-, [[dammen]], [[abschließen]], [[öffnen]], [[verstopfen]]
+, [[dammen]], [[abschließen]], [[öffnen]], [[verstopfen]], [[sperren]]

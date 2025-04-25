@@ -1,0 +1,1 @@
+👍 [[akzeptieren]] | 😌 [[akzeptabel]]

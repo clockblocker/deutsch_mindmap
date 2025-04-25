@@ -2,8 +2,7 @@
 nicht [[unregelmäßig]]
 
 ---
-
-[[ständig]], [[dauerhaft]], [[regelmäßig]]
+--> [[Temporal-Frequenz]] <--
 
 ---
 

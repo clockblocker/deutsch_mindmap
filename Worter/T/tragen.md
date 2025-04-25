@@ -77,4 +77,4 @@ sie, [[tragen]], [[trugen]], [[tragen]], [[trügen]], [[tragen]]
 Adjektive: [[tragend]], [[tragender]], [[tragendst]]
 
 ---
-[[tragender]], [[tragendes]], [[tragende]], [[tragenden]], [[tragendem]], [[tragenderer]], [[tragenderes]], [[tragendere]], [[tragenderen]], [[tragenderem]], [[tragendster]], [[tragendstes]], [[tragendste]], [[tragendsten]], [[tragendstem]], [[heben]], [[tragbar]]
+[[tragender]], [[tragendes]], [[tragende]], [[tragenden]], [[tragendem]], [[tragenderer]], [[tragenderes]], [[tragendere]], [[tragenderen]], [[tragenderem]], [[tragendster]], [[tragendstes]], [[tragendste]], [[tragendsten]], [[tragendstem]], [[heben]], [[tragbar]], [[tragfähig]]

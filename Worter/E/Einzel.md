@@ -1,1 +1,1 @@
-, [[Einzelausstellung]], [[Einzelhändler]]
+, [[Einzelausstellung]], [[Einzelhändler]], [[Einzelfallregelung]]

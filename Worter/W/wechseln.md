@@ -17,7 +17,7 @@ Antonyme: [[Worter/B/beibehalten]], [[lassen]], [[behalten]], [[bleiben]], [[ver
 Übersetzung: to change, to swap, to switch
 
 ---
-Morpheme: [[wechsel]][[n]]
+Morpheme: [[Wechsel]][[n]]
  #Verb  #Trennbar
  
 ---

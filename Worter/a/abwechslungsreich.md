@@ -17,7 +17,7 @@ varied, diverse
 [[Abwechslung]], [[abwechseln]], [[abwechslungsfähig]]
 
 ---
-[[ab]]|[[wechsel]]|`s`|[[reich]]
+[[ab]]|[[Wechsel]]|`s`|[[reich]]
 [[abwechslungsreich]]
 
 

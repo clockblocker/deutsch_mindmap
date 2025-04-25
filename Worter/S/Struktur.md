@@ -1,1 +1,1 @@
-, [[Ordnung]], [[Bauart]], [[Textaufbau]], [[Hierarchie]]
+, [[Ordnung]], [[Bauart]], [[Textaufbau]], [[Hierarchie]], [[strukturell]]

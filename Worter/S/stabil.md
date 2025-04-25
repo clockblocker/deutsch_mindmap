@@ -1,1 +1,1 @@
-, [[fest]], [[durchgeknallt]], [[explodierenden]], [[zittern]], [[widerstandsfähig]], [[dauerhaft]]
+, [[fest]], [[durchgeknallt]], [[explodierenden]], [[zittern]], [[widerstandsfähig]], [[dauerhaft]], [[tragfähig]], [[langanhaltend]]

@@ -1,1 +1,4 @@
+--> [[Temporal-Frequenz]] <--
+
+
 , [[meist]], [[hauptsächlich]]

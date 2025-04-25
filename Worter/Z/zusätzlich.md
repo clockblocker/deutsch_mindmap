@@ -3,6 +3,8 @@
 ---
 Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
 
+*„Mitarbeitenden wird ein [[zusätzlicher]] [[Urlaubstag]] [[gewährt]].“*
+
 *[[03-C1-Schreiben-T2-M#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2
 
 

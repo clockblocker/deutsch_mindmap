@@ -16,7 +16,7 @@ eventful, changeable
 [[Wechsel]], [[voll]], [[wechseln]], [[Wechselhaftigkeit]]
 
 ---
-[[wechsel]]|[[voll]]
+[[Wechsel]]|[[voll]]
 [[wechselvoll]]
 
 

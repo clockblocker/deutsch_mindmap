@@ -1,1 +1,3 @@
+---> [[Temporal-Dauerhaft]] <---
+
 , [[chronisch]]

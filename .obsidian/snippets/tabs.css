@@ -39,3 +39,7 @@ svg.svg-icon {
 .workspace-ribbon.mod-left:before {
     height: 24px;
 }
+
+.markdown-source-view.mod-cm6 .cm-table-widget th, .markdown-source-view.mod-cm6 .cm-table-widget td {
+    min-width: 20px !important;
+}

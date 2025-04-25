@@ -1,5 +1,7 @@
-, [[Stelle]], [[teilweise]]
 📍 [[stellenweise]], [ˈʃtɛlənˌvaɪ̯zə](https://youglish.com/pronounce/stellenweise/german)
+
+--> [[Temporal-Frequenz]] <--
+
 
 ---
 6. [[stellenweise]] situations- und partneradäquat
@@ -15,6 +17,8 @@ in places, here and there
 
 ---
 [[Stelle]], [[Weise]], [[stellen]]
+
+, [[Stelle]], [[teilweise]]
 
 ---
 [[Stelle]]|`n`|[[weis]]|[[e]]

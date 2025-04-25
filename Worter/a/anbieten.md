@@ -1,5 +1,8 @@
 🤝 [[anbieten]] | [[bot an|bot an]], haben [[angeboten]]
 
+------- > [[erlauben-verbieten]] <----------
+
+
 ---
 Die Firma [[anbieten|bietet]] mir einen Job [[an]].
 

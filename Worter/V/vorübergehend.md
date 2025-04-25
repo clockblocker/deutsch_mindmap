@@ -1,5 +1,8 @@
 ⏳ [[vorübergehend]], [foːɐ̯ˈyːbɐˌɡeːənt](https://youglish.com/pronounce/vorübergehend/german)
 
+---> [[Temporal-Dauerhaft]] <---
+
+
 ---
 Work-Life-Balance
 
@@ -40,4 +43,4 @@ P: [[vorübergehenden]], [[vorübergehenderen]], [[vorübergehendsten]]
 ---
 📊 **Konjugierte Indefinitzahlen** *(if applicable)*
 (none for vorübergehend)
-, [[chronisch]], [[unaufhörlich]], [[langjährig]]
+, [[chronisch]], [[unaufhörlich]], [[langjährig]], [[langanhaltend]]

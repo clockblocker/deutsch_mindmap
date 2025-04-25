@@ -1,6 +1,8 @@
 die [[Nutzung]], [ˈnʊtsʊŋ], [[nutzen]]
 die [[Nutzungen]]
 
+---> [[Zugang-Zugriff]] <---
+
 
 ---
 Der größte Zeitkiller aber ist die multimediale Nutzung unseres Smartphones, die das Fernsehen als Zeiträuber Nummer eins in den letzten Jahren abgelöst hat. 
@@ -20,6 +22,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Nutzung]], [[Nutzungen]]
 
 ---
-#Substantiv #Neuter #Ableitung
+#Feminin 
 
 , [[nutzlos]], [[Nutzungsdaten]], [[Handhabung]], [[Bedienung]]
+

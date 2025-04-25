@@ -1,5 +1,7 @@
 🕰️ [[dauernd]], [ˈdaʊ̯ɐnd]
 
+--> [[Temporal-Frequenz]] <--
+
 ---
 MARIA: Ja! Wir sprechen dauernd miteinander – sie ist mir eine echte Freundin.  
 

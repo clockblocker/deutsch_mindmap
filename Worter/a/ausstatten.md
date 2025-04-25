@@ -4,6 +4,12 @@
 *[[06-C1-Schreiben-T2-M#^9|^]]* Leider stehen wir Mitarbeitende nun durch das Schließen der Kantine vor einer größeren [[Herausforderung]]: Wie Sie sicher wissen, gibt es keine anderen Restaurants oder Supermärkte im [[Umkreis]] und selbst, wenn wir uns unser Essen mitbringen würden, könnten wir es dennoch nicht warm machen, da die Teeküchen nicht dafür [[ausgestattet]] sind. ^9
 
 
+*Der Zugang zu Strom ist für Studierende oft eingeschränkt: Zahlreiche Räume sind
+- [[unzureichend]] `mit` *Steckdosen* [[ausgestattet]]
+- [[mangelhaft]] `mit` *Steckdosen* [[ausgestattet]]
+*, was das Arbeiten mit Laptops erheblich erschwert*
+
+
 ---
 = [[einrichten]], [[versehen]], [[bestücken]]
 ≈ [[ausrüsten]], [[möblieren]], [[liefern]],

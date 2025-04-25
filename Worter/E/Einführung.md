@@ -4,6 +4,8 @@ die [[Einführungen]]
 ---
 Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
+An Ihrem Arbeitsplatz ist eine neue Software eingeführt worden, zu der es jedoch nur eine 10-minütige [[Einführung]] gab.
+
 *[[07-C1-Schreiben-T2-M#^12|^]]* Deshalb bitte ich Sie, dass wir so lange die alte Software nutzen dürfen, bis unsere [[Abteilung]] eine 2- bis 3-stündige [[Einführung]] zu der Software [[erhalten]] kann. ^12
 
 

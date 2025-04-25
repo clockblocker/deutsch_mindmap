@@ -1,6 +1,8 @@
 🚪 🔵 der [[Zugang]], [ˈt͡suːɡaŋ]
 die [[Zugänge]]
 
+---> [[Zugang-Zugriff]] <---
+
 ---
 *[[3 Soll man Geld spenden?#^9|^]]* Ob es sich um die Teilnahme an geschlossenen Chats für Spender der Organisation, die Aufnahme des Namens des Spenders in die Liste der Personen im [[Abspann]], oder den direkten [[Zugang]] zu den Teilnehmern der Organisation, bekommt man immer etwas für seine [[Beiträge]]. ^9
 
@@ -33,4 +35,4 @@ G: des [[Zugangs]], der [[Zugänge]]
 D: dem [[Zugang]], den [[Zugängen]]
 , [[Stadtmauer]], [[verbot]], [[Zugriff]], [[Publikumsverkehr]], [[Hindernis]]
 
-#Maskulin , [[Internetzugang]]
+#Maskulin , [[Internetzugang]], [[Zufahrt]], [[Zufahrt]]

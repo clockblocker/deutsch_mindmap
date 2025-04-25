@@ -28,3 +28,5 @@ D: dem [[Open Space]], den [[Open Spaces]]
 
 
 #Maskulin 
+
+Großraumbüro

@@ -1,1 +1,1 @@
-, [[Wählerstimmen]], [[enthalten]]
+, [[Wählerstimmen]], [[enthalten]], [[vorenthalten]]

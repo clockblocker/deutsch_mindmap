@@ -35,4 +35,4 @@ G: der [[Freizeit]], -
 D: der [[Freizeit]], -
 
 
-#Feminin , [[Privatleben]], [[Berufsleben]], [[Meeting]], [[Kurs]], [[Spiel]], [[Bürosituation]]
+#Feminin , [[Privatleben]], [[Berufsleben]], [[Meeting]], [[Kurs]], [[Spiel]], [[Bürosituation]], [[Urlaubstag]]

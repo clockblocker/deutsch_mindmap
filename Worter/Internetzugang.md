@@ -28,4 +28,4 @@ G: des [[Internetzugangs]], der [[Internetzugänge]]
 D: dem [[Internetzugang]], den [[Internetzugängen]]
 
 
-#Maskulin 
+#Maskulin , [[Internetversorgung]]

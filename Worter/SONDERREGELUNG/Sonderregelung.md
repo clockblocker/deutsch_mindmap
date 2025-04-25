@@ -1,1 +1,1 @@
-, [[Ausnahmeregelung]]
+, [[Ausnahmeregelung]], [[Einzelfallregelung]]

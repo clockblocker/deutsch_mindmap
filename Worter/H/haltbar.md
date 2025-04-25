@@ -1,1 +1,1 @@
-, [[anständig]], [[Haltung]]
+, [[anständig]], [[Haltung]], [[tragfähig]]

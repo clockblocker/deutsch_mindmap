@@ -38,4 +38,4 @@ Zu+infinifive: [[auszudrücken]]
 [[Ausdruck]], [[Ausdruckskraft]], [[Ausdrucksweise]], [[Ausdruckslos]], [[Ausdrucksform]][[ausdrücken]]
 
 [[bedeuten]], [[wringen]], [[auswringen]]
-, [[zutreffen]]
+, [[zutreffen]], [[ausdrücklich]]

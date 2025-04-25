@@ -1,5 +1,8 @@
 📚 [[umfangreich]], [ˈʊmfaŋˌʁaɪ̯ç](https://youglish.com/pronounce/umfangreich/german) ≠ [[begrenzt]]
 
+----> [[viel-wenig]] <----
+
+
 ---
 *[[2 Bäumepflanzen für das Klima#^51|^]]* [[Saatgutsammler]] in Forsten brauchen umfangreiches Wissen über den gesamten Ernteprozess: von der Vorhersage, wann bestimmte Arten ihre Samen freisetzen, damit sie gesammelt werden können, bis hin zur sicheren Reinigung der Samen. ^51
 

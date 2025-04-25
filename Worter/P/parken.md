@@ -1,1 +1,1 @@
-[[fahren]], [[Worterparken]], [[abstellen]]
+[[fahren]], [[Worterparken]], [[abstellen]], [[Parkberechtigung]]

@@ -1,1 +1,1 @@
-[[Blitz]], [[Strom]]
+[[Blitz]], [[Strom]], [[Energieversorgung]]

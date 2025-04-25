@@ -1,1 +1,1 @@
-, [[Genehmigung]], [[Zulassungsgrenze]], [[hineinlassen]], [[lassen]], [[verbot]], [[Autoverbot]]
+, [[Genehmigung]], [[Zulassungsgrenze]], [[hineinlassen]], [[lassen]], [[verbot]], [[Autoverbot]], [[zulassen]]

@@ -20,14 +20,14 @@ Leider war meine Frau unerwartet krank geworden, und ich war gezwungen, sie in d
 
 Allerdings halte ich einen schriftlichen Hinweis in diesem Fall für überzogen: Ich bin seit vielen Jahren Teil des Unternehmens und war in all den Jahren noch nie zu spät.
 
-Sollte es noch einmal zu einer Verspätung kommen, werde ich Sie direkt informieren und ich würde es begrüßen, wenn Sie in einem solchen Fall zunächst das direkte Gespräch suchen.
+Sollte es noch einmal zu einer Verspätung kommen, werde ich Sie direkt informieren und begrüße es, wenn Sie in einem solchen Fall zunächst das direkte Gespräch suchen.
 
 Auf eine Antwort von Ihnen freue ich mich.
 
 Mit freundlichen Grüßen
 Denis Popov
 
-![[ElevenLabs_2025-04-20T05_15_05_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]
+![[ElevenLabs_005.mp3]]
 
 ---
 
@@ -67,4 +67,4 @@ Auf eine Antwort von Ihnen freue ich mich.
 *Mit freundlichen Grüßen*
 *Denis Popov*
 
-![[ElevenLabs_2025-04-20T05_15_05_Otto_pvc_sp100_s100_sb100_se24_b_m2 1.mp3]]
+![[ElevenLabs_2025-04-21T06_27_28_Otto_pvc_sp100_s100_sb100_se24_b_m2 1.mp3]]

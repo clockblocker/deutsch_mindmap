@@ -1,0 +1,4 @@
+--> [[Temporal-Dauerhaft]] <--
+
+
+, [[tragfähig]]

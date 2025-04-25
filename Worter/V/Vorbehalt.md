@@ -22,4 +22,4 @@ G: des [[Vorbehalts]], der [[Vorbehalte]]
 D: dem [[Vorbehalt]], den [[Vorbehalten]]  
 
 ---
-[[vorbehalten]], [[vorbehaltslos]], [[Vorbehaltsklausel]], [[Vorbehaltszahlung]]
+[[vorbehalten]], [[vorbehaltslos]], [[Vorbehaltsklausel]], [[Vorbehaltszahlung]], [[vorenthalten]]

@@ -1,1 +1,2 @@
-, [[regelmäßig]]
+--> [[Temporal-Frequenz]] <--
+---> [[Temporal-Dauerhaft]] <---

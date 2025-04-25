@@ -1,3 +1,6 @@
+----> [[viel-wenig]] <----
+
+
 ➕ [[viel]], [fiːl] | [[Artikelwörter]] 
 
 ---
@@ -30,4 +33,4 @@ D: [[viel]], [[mehr]], [[meist]]
 
 ---
 [[viele]], [[vielfach]], [[vielfältig]], [[Vielheit]], [[Vielzahl]]
-, [[Vielfalt]]
+, [[Vielfalt]], [[beträchtlich]]

@@ -5,6 +5,9 @@
 4) IMMER Vorschlag | Lösung
 0.2) Schwanz
 
+#### Wortschatz
+stört = negativ beeinflusst = leidet unter
+
 ---
 ---
 ---
@@ -24,21 +27,27 @@ einzugehen.
 Ich habe vollstes Verständnis dafür, dass 
 - *ein Umzug unter Zeitdruck* nicht alle Bedürfnisse berücksichtigen kann.
 - *es angesichts des Arbeits- und Zeitdrucks* zu Verzögerungen kommen kann
-- ein *junger Hund* kaum allein zu Hause bleiben kann und Sie sich daher gezwungen sehen, *ihn mit ins Büro zu bringen.*
+- ein *junger Hund kaum allein zu Hause bleiben kann* und Sie sich daher gezwungen sehen, *ihn mit ins Büro zu bringen.*
+- und Sie deshalb entschieden haben, ihn *nur noch Mitarbeitenden* zur [[Verfügung]] zu stellen, die *von außerhalb kommen.*
 (– besonders, wenn *eine Projektpräsentation bereits in der nächsten Woche ansteht.*)
+(– insbesondere, weil *es seit über zehn [[Jahr]]en keine grundlegenden Veränderungen gegeben hat*)
 
 Allerdings
 - hat sich *meine Arbeitssituation in dem neuen Gebäude* signifikant verändert.
-- steht *die Präsentation* bereits nächste Woche an. 
+- steht *die Vorstellung des Projekts* bereits nächste Woche an. 
+- sind *die Mitarbeitenden ohne die Kantine* gezwungen,
 Dennoch
 - *wirkt sich* die neue Bürosituation *erheblich auf* meine Arbeit *aus*.
-
+Obwohl *ich in der Nähe des Arbeitsplatzes wohne*, bin ich auf *den Parkplatz* angewiesen, weil ich *mich ohne Rollstuhl nicht selbstständig bewegen kann.*
 
 ---
 ---
 ---
 
 #### Probleme 
+- Wir im *Design-* Team sind an *die Nutzung einer anderen Software – PowerPoint –* gewöhnt. 
+- *Zehn Minuten* sind leider zu wenig, um *ein neues Hauptwerkzeug* sinnvoll *einzuführen*. 
+- Heute konnten wir nur *zwei Seiten* statt der geplanten *sechs* fertigstellen.
 - nehme ich ständig an virtuellen Meetings mit externen Partnern teil.
 - häufigen Gespräche
 - Konzentration der sechs Kolleg:innen stören
@@ -48,7 +57,10 @@ Dennoch
 - Demoversion *unseres "E-Ledger" Projekts* ist *seit drei Tagen* im *internen Produktionssystem* verfügbar
 - Allerdings ist *sein ständiges Bellen* ein großes Problem für unser Team:
 - es erschwert *Online-Meetings und Kundengespräche* erheblich, 
-- stört die allgemeine Konzentration. 
+- beeinflusst die allgemeine Konzentration negativ
+
+Dadurch 
+- wird Freizeit verkürzt, *und auch* Konzentration und Produktivität leiden.
 
 #### Entschuldigung 
 - Leider war *meine Tochter unerwartet krank* geworden, 
@@ -63,13 +75,14 @@ Dennoch
 
 #### Akzeptable Bedunungen
 
-Aus diesem Grund benötige ich *einen ruhigen, abgegrenzten Arbeitsplatz,* 
-- der *vertrauliche Gespräche* ermöglicht.
+Aus diesem Grund 
+- benötige ich *einen ruhigen, abgegrenzten Arbeitsplatz,* der *vertrauliche Gespräche* ermöglicht.
+- finde ich es sinnvoll, *der Belegschaft* die Möglichkeit zu geben, *innerhalb unserer Mittagspause etwas Warmes zu essen.*
 
 #### Konsequenzen ungelöster Problemes
 Falls 
 - wir *bis Ende der Woche mit einer ersten Version der Präsentation* nicht fertig sind, 
-können wir *den Pitch verlieren* – und damit *monatelange Vorarbeit aufs Spiel setzen.*
+können wir *den Auftrag verlieren* – und damit *monatelange Vorarbeit aufs Spiel setzen.*
 
 *Falls sich die Situation nicht ändert,* *werde ich gezwungen sein,* 
 - mich offiziell an die Hausverwaltung zu wenden. 
@@ -79,6 +92,11 @@ können wir *den Pitch verlieren* – und damit *monatelange Vorarbeit aufs Spie
 #### Unmut
 Allerdings halte ich *einen schriftlichen Hinweis* in diesem Fall für überzogen: 
 - Ich bin seit vielen Jahren Teil des Unternehmens, *und war in all den Jahren* noch nie zu spät.
+
+#### Grundlegende Lösung gebraucht werden
+*[[Fisch-C1-Schreiben-T2#^3|^]]* Solche **[[Einzelfallregelung]]en** bleiben jedoch nur eine **[[Symptombehandlung]]**. ^3
+
+*[[Fisch-C1-Schreiben-T2#^4|^]]* **Langfristig** braucht das Problem jedoch eine **strukturelle** Lösung. ^4
 
 
 
@@ -94,6 +112,13 @@ Wenn *die neuen Räume* kein *separates Büro* anbieten können, schlage ich vor
 - ein paar Telefonzellen einzubauen.
 
 Wenn *zeitweises Homeoffice* keine Lösung darstellt, schlage ich vor, *den Hund während der Arbeitszeit in Betreuung zu geben.*
+
+Wenn *ein Essenwagen* nicht organisiert werden kann, schlage ich vor, ein *Firmen*Angebot mit *einem Lieferdienst* zu arrangieren.
+
+#### Grundlegende Lösung
+- Solche Einzelfallregelungen bleiben jedoch nur eine Symptombehandlung.
+- Langfristig braucht es jedoch eine strukturelle Lösung.
+
 
 #### Umgang
 Sollte es noch einmal zu *einer Verspätung* kommen, 
@@ -190,31 +215,5 @@ Wenn in der Bibliothek keine Stromanschlüsse angeboten werden können, schlage 
 Eine mögliche Lösung wäre, dem Team die Möglichkeit anzubieten, bis zu zwei Tage pro Woche im Homeoffice zu arbeiten.
 
 
-
-
-
-
-###### GPT bullshit
-- **Beispiel**  
-  → *„Gestern zum Beispiel mussten wir…”*
-
-- **Unmut / Kritik**  
-  → *„Ich war ehrlich gesagt überrascht über Ihre E-Mail…”*
-
-- **Kontext / Auslöser**  
-  → *„Seit letzter Woche teilt ein neuer Kollege mein Büro…”*
-
-- **Lob / positive Haltung**  
-  → *„Ich freue mich, dass unser Team Zuwachs bekommen hat.”*
-
-- **Selbstpositionierung / Legitimation**  
-  → *„Als Einkaufsleiterin bin ich auf vertrauliche Gespräche angewiesen.”*
-
-- **Rücksichtnahme / Verständnis**  
-  → *„Ich habe volles Verständnis dafür, dass…”*
-
-- **Negative Konsequenzen**  
-  → *„Andernfalls droht ein Auftragsverlust…”*
-
-- **Appell / Bitte / Wunsch**  
-  → *„Ich möchte Sie daher bitten, … zu prüfen.”*
+#### Arguments
+- Der [[Zugang]] `zu` Strom ist *für Studierende* oft [[eingeschränkt]]: *In vielen Räumen der Universität* gibt es zu wenige [[Steckdose]]n, *was das Arbeiten mit Laptops* erheblich [[erschwert]]. [[Zugang-Zugriff#^2|^]]

@@ -1,1 +1,4 @@
+--> [[Temporal-Dauerhaft]] <--
+
+
 , [[Vergangenheit]], [[dauerhaft]]

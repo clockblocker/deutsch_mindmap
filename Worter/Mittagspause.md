@@ -27,3 +27,6 @@ N: die [[Mittagspause]], die [[Mittagspausen]]
 A: die [[Mittagspause]], die [[Mittagspausen]]
 G: der [[Mittagspause]], der [[Mittagspausen]]
 D: der [[Mittagspause]], den [[Mittagspausen]]
+
+
+#Feminin 

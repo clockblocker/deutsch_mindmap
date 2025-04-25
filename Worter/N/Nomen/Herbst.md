@@ -1,3 +1,3 @@
 [[Jahreszeit]]
 ![[Pasted image 20240618145621.png]]
-#Substantiv #Maskulin  , [[Frühjahr]]
+#Substantiv #Maskulin  , [[Frühjahr]], [[Wechsel]]

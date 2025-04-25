@@ -1,1 +1,1 @@
-, [[erlauben]]
+, [[erlauben]], [[zulassen]], [[freigeben]]

@@ -1,1 +1,1 @@
-[[ganz]], [[deshalb]], [[Halbleinen]], [[halbes]], [[außerhalb]], [[innerhalb]], [[Hälfte]], [[unterhalb]], [[Konjunktoren]]
+[[ganz]], [[deshalb]], [[Halbleinen]], [[halbes]], [[außerhalb]], [[innerhalb]], [[Hälfte]], [[unterhalb]], [[Konjunktoren]], [[weshalb]]

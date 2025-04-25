@@ -3,6 +3,10 @@
 ---
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^2|^]]* _Besonders bei_ [[Behördengängen]] _verstehen viele oft nur wenig und sind auf einen_ [[Dolmetscher]] [[angewiesen]] _. Wer schon einmal einen Brief von einer_ [[Behörde]] _bekommen hat, weiß, dass diese komplizierten_ [[Satzkonstruktionen]] _auch für_ [[Muttersprachler]] _eine_ [[Herausforderung]] _sein können.
 
+
+Obwohl ich in der Nähe des Arbeitsplatzes wohne, bin ich auf den Parkplatz [[angewiesen]], weil ich mich nur mit einem [[Rollstuhl]] [[fortbewegen]] kann.
+
+
 ---
 = [[befehlen]], [[verfügen]], [[anordnen]]
 ≈ [[beauftragen]], [[geben]], [[erteilen]]

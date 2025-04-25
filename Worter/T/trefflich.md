@@ -1,1 +1,1 @@
-, [[hervorragend]]
+, [[hervorragend]], [[mangelhaft]]

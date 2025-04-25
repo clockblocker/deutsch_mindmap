@@ -24,4 +24,4 @@ resistant, resilient
 Adjektive: [[widerstandsfähig]], [[widerstandsfähiger]], [[widerstandsfähigst]]
 
 ---
-[[widerstandsfähiger]], [[widerstandsfähiges]], [[widerstandsfähige]], [[widerstandsfähigen]], [[widerstandsfähigem]], [[widerstandsfähigerer]], [[widerstandsfähigeres]], [[widerstandsfähigere]], [[widerstandsfähigeren]], [[widerstandsfähigerem]], [[widerstandsfähigster]], [[widerstandsfähigstes]], [[widerstandsfähigste]], [[widerstandsfähigsten]], [[widerstandsfähigstem]]
+[[widerstandsfähiger]], [[widerstandsfähiges]], [[widerstandsfähige]], [[widerstandsfähigen]], [[widerstandsfähigem]], [[widerstandsfähigerer]], [[widerstandsfähigeres]], [[widerstandsfähigere]], [[widerstandsfähigeren]], [[widerstandsfähigerem]], [[widerstandsfähigster]], [[widerstandsfähigstes]], [[widerstandsfähigste]], [[widerstandsfähigsten]], [[widerstandsfähigstem]], [[tragfähig]]

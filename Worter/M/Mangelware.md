@@ -1,2 +1,2 @@
 
-, [[mangeln]], [[Mangel]]
+, [[mangeln]], [[Mangel]], [[mangelhaft]]

@@ -1,1 +1,1 @@
-, [[aufsperren]]
+, [[aufsperren]], [[sperren]]

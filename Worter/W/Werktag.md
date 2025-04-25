@@ -1,1 +1,1 @@
-, [[Feiertag]], [[Rosenmontag]]
+, [[Feiertag]], [[Rosenmontag]], [[Urlaubstag]]

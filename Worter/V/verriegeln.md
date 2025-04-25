@@ -1,2 +1,2 @@
 , [[aufmachen]], [[aufsperren]], [[öffnen]]
-, [[zumachen]]
+, [[zumachen]], [[sperren]]

@@ -9,3 +9,4 @@
 
 
 , [[verwirrt]], [[ordentlich]], [[wild]], [[mitteln]], [[gegliedert]]
+, [[strukturell]]

@@ -21,14 +21,14 @@ Als Projektmanager nehme ich ständig an virtuellen Meetings mit externen Partne
 
 Aus diesem Grund benötige ich einen ruhigen, abgegrenzten Arbeitsplatz, der vertrauliche Gespräche ermöglicht.
 
-Wenn die neuen Räume kein separates Büro anbieten können, schlage ich vor ein paar Telefonzellen einzubauen.
+Wenn die neuen Räume kein separates Büro anbieten können, schlage ich vor, ein paar Telefonzellen einzubauen.
 
 Auf eine Antwort von Ihnen freue ich mich.
 
 Mit freundlichen Grüßen
 Denis Popov
 
-![[ElevenLabs_2025-04-20T04_54_35_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]
+![[ElevenLabs_002.mp3]]
 
 ---
 ---

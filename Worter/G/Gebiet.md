@@ -47,4 +47,4 @@ D: dem [[Gebiet]], den [[Gebieten]]
 , [[Sektor]], [[Auflistung]], [[enthalten]], [[Geburtsort]], [[1 Präpositionen Übungen]], [[Hauptbereich]]
 
 
-#Neuter 
+#Neuter , [[Gelände]]

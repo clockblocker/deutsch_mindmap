@@ -1,1 +1,1 @@
-, [[wahlberechtigt]]
+, [[wahlberechtigt]], [[Parkberechtigung]]

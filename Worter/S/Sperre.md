@@ -1,1 +1,1 @@
-, [[Schranke]], [[Zugang]]
+, [[Schranke]], [[Zugang]], [[sperren]]

@@ -1,1 +1,1 @@
-, [[vorherigen]], [[heutzutage]], [[vorher]]
+, [[vorherigen]], [[heutzutage]], [[vorher]], [[derzeit]]

@@ -24,7 +24,7 @@ change of place, position change
 [[Platz]], [[wechseln]], [[Platzierung]], [[Wechsel]]
 
 ---
-[[Platz]]|[[wechsel]]
+[[Platz]]|[[Wechsel]]
 [[Platz]] + [[Wechsel]]
 
 

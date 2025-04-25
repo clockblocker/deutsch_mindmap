@@ -1,1 +1,1 @@
-🔊 [[betonen]] | 😌 [[betont]]
+🔊 [[betonen]] | 😌 [[betont]], [[ausdrücklich]]

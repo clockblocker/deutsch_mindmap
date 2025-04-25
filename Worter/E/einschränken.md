@@ -1,6 +1,15 @@
 🚧 [[einschränken]], [ˈaɪ̯nˌʃʁɛŋkən] | [[schränkte ein]], haben [[eingeschränkt]]
 
+------- > [[erlauben-verbieten]] <----------
+
+
 ---
+
+Der [[Zugang]] `zu` Strom ist `für` Studierende oft eingeschränkt: *In vielen Räumen der Universität gibt es nicht ausreichend Steckdosen, was das Arbeiten mit Laptops erheblich erschwert.* [[Zugang-Zugriff#^2|^]] 
+
+
+
+
 16. Wann ist die Meinungsfreiheit in Deutschland [[eingeschränkt]]? (80%)
 	- [x] bei der öffentlichen [[Verbreitung]] falscher [[Behauptung]] über [[einzelne]] Personen
 

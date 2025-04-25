@@ -26,4 +26,4 @@ PI: [[ausnehmend]], PII: [[ausgenommen]], Zu+inf: [[auszunehmen]]
 [[ausnehmen]] - [[aus]] = [[nehmen]] / to remove, to except
 
 ---
-[[Ausnahme]], [[ausgenommen]], [[ausnehmend]], [[ausnahmen]], [[Ausnehmer]]
+[[Ausnahme]], [[ausgenommen]], [[ausnehmend]], [[Ausnahmen]], [[Ausnehmer]]

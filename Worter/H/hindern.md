@@ -1,2 +1,2 @@
 [[freimachen]], [[behindern]]
-, [[ablenken]], [[aufhalten]], [[Hindernis]], [[verhindern]]
+, [[ablenken]], [[aufhalten]], [[Hindernis]], [[verhindern]], [[untersagen]]

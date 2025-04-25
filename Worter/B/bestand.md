@@ -1,1 +1,1 @@
-[[bestehen]], [[Bestandteil]]
+[[bestehen]], [[Bestandteil]], [[Ressource]]

@@ -1,6 +1,8 @@
 🔴 die [[Versorgung]], [fɛɐ̯ˈzɔʁgʊŋ] |  [[versorgen]]
 die [[Versorgungen]]
 
+---> [[Zugang-Zugriff]] <---
+
 ---
 Ich muss mich auch noch um die [[Versorgung]] meiner Katze kümmern.
 
@@ -27,4 +29,6 @@ G: der [[Versorgung]], der [[Versorgungen]]
 D: der [[Versorgung]], den [[Versorgungen]]  
 
 ---
-[[versorgen]], [[Versorger]], [[versorgt]], [[Grundversorgung]], [[Krankenversorgung]], [[Rente]], [[Pension]], [[Pflege]], [[Energiesicherheit]]
+[[versorgen]], [[Versorger]], [[versorgt]], [[Grundversorgung]], [[Krankenversorgung]], [[Rente]], [[Pension]], [[Pflege]], [[Energiesicherheit]], [[Wasserversorgung]]
+
+#Feminin , [[Internetversorgung]], [[Energieversorgung]]

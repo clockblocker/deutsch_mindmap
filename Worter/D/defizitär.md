@@ -1,1 +1,1 @@
-, [[wirtschaftlich]]
+, [[wirtschaftlich]], [[unzureichend]], [[mangelhaft]]

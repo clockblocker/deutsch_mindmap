@@ -1,1 +1,1 @@
-, [[abreißen]], [[umbauen]], [[zerstörten]]
+, [[abreißen]], [[umbauen]], [[zerstörten]], [[Restaurant]]

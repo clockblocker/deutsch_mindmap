@@ -1,1 +1,1 @@
-🛡️ [[wehren]] | 🔵 der [[Wehr]]
+🛡️ [[wehren]] | 🔵 der [[Wehr]], [[zulassen]]

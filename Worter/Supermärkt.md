@@ -1,0 +1,2 @@
+[[Supermarkt]]
+#Maskulin 

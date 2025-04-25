@@ -8,7 +8,7 @@
 | [[Es]]  | gibt  | [[ihm]]   | [[sein]]  | ganzes | [[es]]   | des [[seines]]  |
 | [[Wir]] | geben | [[uns]]   | [[unser]] | ganze  | [[uns]]  | der [[unserer]] |
 | [[Ihr]] | gebt  | [[euch]]  | [[euer]]  | ganze  | [[euch]] | der [[eurer]]   |
-| [[Sie]] | geben | [[ihnen]] | [[ihr]]   | ganze  | [[sie]]  | der [[ihrer]]   |
+| [[sie]] | geben | [[ihnen]] | [[ihr]]   | ganze  | [[sie]]  | der [[ihrer]]   |
 | [[Sie]] | geben | [[Ihnen]] | [[Ihr]]   | ganze  | [[Sie]]  | der [[Ihrer]]   |
 
 unsereiner versteht sowas nicht

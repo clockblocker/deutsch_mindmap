@@ -3,6 +3,7 @@
 ---
 *[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
 
+
 ---
 = [[dauerhaft]], [[langfristig]], [[ökologisch]]
 ≈ [[umweltfreundlich]], [[ressourcenschonend]], [[zukunftsfähig]]

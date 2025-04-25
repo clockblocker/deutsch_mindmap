@@ -1,6 +1,9 @@
 🔒 [[begrenzt]] [bəˈɡʁɛnts] | 🔒 [[begrenzen]] 
 nicht [[unbegrenzt]]
 
+----> [[viel-wenig]] <----
+
+
 ---
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
@@ -30,4 +33,4 @@ P: [[begrenzten]], [[begrenzteren]], [[begrenztesten]]
 
 ---
 [[begrenzen]], [[Begrenzung]], [[grenzen]], [[Grenze]], [[unbegrenzt]], [[Grenz]], [[gering]], [[knapp]], [[unzählbar]]
-, [[übermäßig]], [[allgemeingültig]], [[klein]], [[umfangreich]]
+, [[übermäßig]], [[allgemeingültig]], [[klein]], [[umfangreich]], [[unzureichend]]

@@ -1,1 +1,1 @@
-, [[verboten]], [[erlaubt]], [[gültig]], [[legal]]
+, [[verboten]], [[erlaubt]], [[gültig]], [[legal]], [[zulassen]]

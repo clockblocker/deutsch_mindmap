@@ -24,3 +24,4 @@ D: dem [[Supermarkt]], den [[Supermärkten]]
 
 ---
 [[einkaufen]], [[Supermarktkette]], [[Lebensmitteleinkauf]], [[Einkaufswagen]]
+#Maskulin 

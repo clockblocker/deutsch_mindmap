@@ -90,4 +90,4 @@ G: des [[Festes]], der [[Feste]]
 D: dem [[fest]], den [[Festen]]  
 
 ---
-[[feiern]], [[festlich]], [[Festung]], [[Festtag]], [[Festlichkeit]], [[Erntedankfest]], [[standhaft]], [[festlegen]], [[Festlegung]], [[dicht]], [[festnehmen]]
+[[feiern]], [[festlich]], [[Festung]], [[Festtag]], [[Festlichkeit]], [[Erntedankfest]], [[standhaft]], [[festlegen]], [[Festlegung]], [[dicht]], [[festnehmen]], [[tragfähig]]

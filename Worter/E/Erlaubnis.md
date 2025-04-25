@@ -31,4 +31,4 @@ D: der [[Erlaubnis]], den [[Erlaubnissen]]
 
 ---
 [[erlauben]], [[erlaubt]], [[erlaubnislos]], [[erlaubnispflichtig]], [[hineinlassen]], [[lassen]], [[Wahlerlaubnis]], [[Einverständnis]]
-, [[Auftrag]], [[Zugang]], [[dürfen]], [[verbot]], [[Autoverbot]], [[Zugriff]]
+, [[Auftrag]], [[Zugang]], [[dürfen]], [[verbot]], [[Autoverbot]], [[Zugriff]], [[Parkberechtigung]]

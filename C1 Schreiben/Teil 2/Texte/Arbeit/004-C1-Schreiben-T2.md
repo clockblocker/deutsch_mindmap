@@ -21,14 +21,14 @@ Allerdings ist sein ständiges Bellen ein großes Problem für unser Team: es er
 
 Falls sich die Situation nicht ändert, werde ich gezwungen sein, mich offiziell an die Hausverwaltung zu wenden. Unter diesen Bedingungen ist produktives Arbeiten kaum möglich.
 
-Wenn zeitweises Homeoffice keine Lösung darstellt, schlage ich vor, den Hund während der Arbeitszeit in Betreuung zu geben.
+Wenn Sie keine Möglichkeit haben, zeitweise von zu Hause aus zu arbeiten, schlage ich vor, den Hund während der Arbeitszeit in Betreuung zu geben.
 
 Ich danke Ihnen im Voraus für Ihr Verständnis.
 
 Mit freundlichen Grüßen  
 Denis Popov
 
-![[ElevenLabs_2025-04-20T04_55_52_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]
+![[ElevenLabs_004.mp3]]
 
 ---
 
@@ -67,4 +67,4 @@ Unter diesen [[Bedingung]]en ist produktives [[Arbeiten]] kaum möglich.
 *Mit freundlichen Grüßen*  
 *Denis Popov*
 
-![[ElevenLabs_2025-04-20T04_55_52_Otto_pvc_sp100_s100_sb100_se24_b_m2 1.mp3]]
+![[ElevenLabs_2025-04-21T06_28_25_Otto_pvc_sp100_s100_sb100_se24_b_m2 1.mp3]]

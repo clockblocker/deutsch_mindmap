@@ -1,5 +1,7 @@
 [[Öfteren]], [ˈœftərən]
 
+--> [[Temporal-Frequenz]] <--
+
 ---
 Oder es war nur ein gewöhnliches Wetterleuchten. Das hatten wir doch alles schon des [[Öfteren]], Prinz Zuko. 
 

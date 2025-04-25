@@ -1,3 +1,3 @@
 , [[widerstehen]], [[wehrten]], [[abstoßen]], [[ertragen]], [[ablehnen]], [[annehmen]], [[vertragen]], [[erlauben]], [[beschweren]], [[reklamieren]], [[verstoßen]], [[ausstoßen]], [[kritisieren]]
 , [[zufriedengeben]]
-, [[sträuben]], [[einlassen]], [[umstreiten]], [[einnehmen]]
+, [[sträuben]], [[einlassen]], [[umstreiten]], [[einnehmen]], [[zulassen]]

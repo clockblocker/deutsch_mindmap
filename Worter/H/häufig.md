@@ -1,5 +1,7 @@
 🔁 [[häufig]], [ˈhɔɪ̯fɪç] ≠ [[selten]]
 
+--> [[Temporal-Frequenz]] <--
+
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 

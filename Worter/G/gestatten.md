@@ -1,1 +1,1 @@
-, [[lassen]], [[erlauben]], [[ermöglichen]], [[gewähren]], [[dürfen]], [[gönnen]], [[einlassen]]
+, [[lassen]], [[erlauben]], [[ermöglichen]], [[gewähren]], [[dürfen]], [[gönnen]], [[einlassen]], [[zulassen]]

@@ -1,2 +1,2 @@
 , [[deshalb]], [[Damit]], [[Konnektoren]], [[dadurch]], [[somit]]
-, [[infolge]], [[Konnektivpartikeln]]
+, [[infolge]], [[Konnektivpartikeln]], [[weshalb]]

@@ -1,1 +1,1 @@
-, [[Internetzugang]]
+, [[Internetzugang]], [[Internetversorgung]]

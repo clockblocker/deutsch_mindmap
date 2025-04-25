@@ -1,1 +1,1 @@
-, [[Netz]], [[Medium]], [[Internetzugang]]
+, [[Netz]], [[Medium]], [[Internetzugang]], [[Internetversorgung]]

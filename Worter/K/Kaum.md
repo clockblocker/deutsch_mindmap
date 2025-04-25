@@ -1,5 +1,8 @@
 [[Kaum]], [kaʊm]
 
+--> [[Temporal-Frequenz]] <--
+
+
 ---
 [[Kaum]] hat man ein Mädchen dabei, schon geht alles [[schief]]!
 

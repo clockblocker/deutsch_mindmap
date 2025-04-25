@@ -1,1 +1,1 @@
-, [[Einkaufszentrum]]
+, [[Einkaufszentrum]], [[Supermarkt]]

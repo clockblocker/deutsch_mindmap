@@ -25,4 +25,4 @@ clear, unambiguous
 Adjektive: [[eindeutig]], [[eindeutiger]], [[eindeutigst]]
 
 ---
-[[eindeutiger]], [[eindeutiges]], [[eindeutige]], [[eindeutigen]], [[eindeutigem]], [[eindeutigerer]], [[eindeutigeres]], [[eindeutigere]], [[eindeutigeren]], [[eindeutigerem]], [[eindeutigster]], [[eindeutigstes]], [[eindeutigste]], [[eindeutigsten]], [[eindeutigstem]]
+[[eindeutiger]], [[eindeutiges]], [[eindeutige]], [[eindeutigen]], [[eindeutigem]], [[eindeutigerer]], [[eindeutigeres]], [[eindeutigere]], [[eindeutigeren]], [[eindeutigerem]], [[eindeutigster]], [[eindeutigstes]], [[eindeutigste]], [[eindeutigsten]], [[eindeutigstem]], [[ausdrücklich]]

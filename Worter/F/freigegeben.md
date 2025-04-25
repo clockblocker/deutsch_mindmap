@@ -40,4 +40,4 @@ Tags:
 Morphems:
 [[frei]][[gegeben]]
 
-, [[erlaubt]]
+, [[erlaubt]], [[freigeben]]

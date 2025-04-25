@@ -1,1 +1,1 @@
-, [[Angebot]]
+, [[Angebot]], [[Firmenangebot]]

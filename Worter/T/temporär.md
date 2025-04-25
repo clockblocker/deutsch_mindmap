@@ -1,1 +1,3 @@
+---> [[Temporal-Dauerhaft]] <--
+
 , [[vorläufig]], [[vorübergehend]]

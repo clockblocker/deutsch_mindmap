@@ -1,1 +1,1 @@
-, [[dick]], [[fest]], [[kerngesund]], [[bullig]], [[widerstandsfähig]]
+, [[dick]], [[fest]], [[kerngesund]], [[bullig]], [[widerstandsfähig]], [[tragfähig]]

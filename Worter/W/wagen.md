@@ -62,4 +62,4 @@ D: dem [[wagen]], den [[wagen]]
 , [[versuchen]]
 
 ---
-, [[fürchten]], [[aufs Spiel setzen]]
+, [[fürchten]], [[aufs Spiel setzen]], [[Essenswagen]], [[Essenwagen]]

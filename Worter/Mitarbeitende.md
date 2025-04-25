@@ -28,4 +28,4 @@ G: des [[Mitarbeitenden]], der [[Mitarbeitenden]]
 D: dem [[Mitarbeitenden]], den [[Mitarbeitenden]]
 
 
-#Plural 
+#Plural , [[Außendienstmitarbeiter]]

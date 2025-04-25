@@ -1,2 +1,3 @@
-[[Treu]], [[geduldig]], [[kontinuierlich]], [[standhaft]]
-, [[launisch]], [[unzuverlässig]]
+--> [[Temporal-Frequenz]] <--
+
+[[Treu]], [[geduldig]], [[kontinuierlich]], [[standhaft]], [[launisch]], [[unzuverlässig]], [[tragfähig]]

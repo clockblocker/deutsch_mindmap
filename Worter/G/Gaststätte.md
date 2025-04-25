@@ -1,1 +1,1 @@
-, [[Gaststättenerlaubnis]], [[Kantine]]
+, [[Gaststättenerlaubnis]], [[Kantine]], [[Restaurant]]

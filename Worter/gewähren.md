@@ -1,7 +1,14 @@
 🤝 [[gewähren]], [ɡəˈvɛːʁən] | [[gewährte]], haben [[gewährt]]
 
+------- > [[erlauben-verbieten]] <----------
+
+
 ---
 Viele Länder [[gewähren]] die [[Aufnahme]] von [[Flüchtlingen]].
+
+halte ich es für sinnvoll, uns weiterhin die Nutzung des Parkplatzes zu gewähren
+
+*„Mitarbeitenden wird ein [[zusätzlicher]] [[Urlaubstag]] [[gewährt]].“*
 
 ---
 = [[erlauben]], [[genehmigen]], [[bewilligen]]

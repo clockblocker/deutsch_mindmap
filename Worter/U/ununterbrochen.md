@@ -1,6 +1,9 @@
 🟢 [[ununterbrochen]], [ˌʊnˌʊntɐˈbʁɔxən] | 🏃‍♀️ [[unterbrechen]] 
 nicht [[unterbrochen]]
 
+---> [[Temporal-Dauerhaft]] <---
+
+
 ---
 Kinder wollen alles wissen. Doch die kleine Anna ist etwas zu [[neugierig]]. Sie stellt [[ununterbrochen]] Fragen. 
 

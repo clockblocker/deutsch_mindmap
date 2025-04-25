@@ -24,3 +24,5 @@ D: dem [[Rollstuhl]], den [[Rollstühlen]]
 
 ---
 [[rollen]], [[rollstuhlgerecht]], [[rollstuhlfahren]], [[Rollstuhlfahrer]]
+
+#Maskulin 

@@ -26,4 +26,4 @@ Einzigartige mögliche Formen: [[Veränderung]], [[Veränderungen]], [[Veränder
 
 ---
 #Substantiv #Feminin, [[Entwicklung]], [[Wende]], [[Wendung]], [[Zustand]]
-, [[Stimmungsschwankung]]
+, [[Stimmungsschwankung]], [[Wechsel]]

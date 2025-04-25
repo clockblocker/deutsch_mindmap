@@ -1,5 +1,8 @@
 🔓 [[ermöglichen]], [ɛɐ̯ˈmøːɡlɪçən] | [[ermöglichte]], haben [[ermöglicht]]
 
+------- > [[erlauben-verbieten]] <----------
+
+
 ---
 - Erläutern Sie, warum viele Unternehmen Homeoffice [[ermöglichen]].  
 

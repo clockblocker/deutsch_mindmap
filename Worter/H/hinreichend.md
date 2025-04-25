@@ -1,1 +1,1 @@
-, [[genug]], [[ausreichende]]
+, [[genug]], [[ausreichende]], [[unzureichend]]

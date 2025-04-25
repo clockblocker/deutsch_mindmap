@@ -1,1 +1,1 @@
-, [[Kurs]]
+, [[Kurs]], [[Wechsel]]

@@ -1,5 +1,10 @@
 🥇 [[einmalig]], [ˈaɪ̯nmaːlɪç] ≠ [[wiederholt]]
 
+--> [[Temporal-Frequenz]] <--
+--> [[Temporal-Dauerhaft]] <--
+
+
+
 ---
 [[1.1 text#^9|(q)]] Sophias Unternehmen ist auch deshalb so [[erfolgreich]], weil jedes Rad [[einmalig]] ist. ^9
 

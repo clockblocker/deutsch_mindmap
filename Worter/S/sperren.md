@@ -1,34 +1,61 @@
-🚫 [[sperren]] + Akk, [ˈʃpɛʁən]
-[[sperrte]]
-haben [[gesperrt]]
+🔒 [[sperren]], [ˈʃpɛʁən](https://youglish.com/pronounce/sperren/german) → [[sperrte]] → [[gesperrt]]
+
+------- > [[erlauben-verbieten]] <----------
 
 ---
+*„Der Parkplatz ist [[derzeit]] [[gesperrt]].“*
+
 
 ---
-[[aufsperren]] - [[Worter/A/auf]] = [[sperren]]
+= [[blockieren]], [[verriegeln]], [[schließen]], [[dammen]]
+≈ [[absperren]], [[versperren]], [[verwehren]]
+≠ [[freigeben]], [[öffnen]], [[entriegeln]]
 
 ---
-Synonyme: [[blockieren]], [[verriegeln]], [[versperren]], [[absperren]], [[hindern]]
-Antonyme: [[öffnen]], [[freigeben]], [[zulassen]], [[erlauben]]
+to block, to lock, to bar  
+блокировать, запирать
 
 ---
-Übersetzung: to block, to lock, to bar, to prevent
+[[Sperre]], [[Sperrung]], [[Sperrzeit]], [[Sperrgebiet]], [[Sperrfrist]]
 
 ---
-Morpheme: [[sperr]][[en]]
- #Verb  #Untrennbar
+[[sperr]]|[[en]]
+[[sperren]]
+
 
 ---
+###### [[sperren]] jN
+- Was [[sperrst]] du?
+- Die Tür.
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[sperre]]           | [[sperrte]]           | -                 | [[sperre]]             | [[sperrte]]             |
-| Du        | [[sperrst]]          | [[sperrtest]]         | [[sperre]]        | [[sperrest]]           | [[sperretest]]          |
-| Er/sie/es | [[sperrt]]           | [[sperrte]]           | -                 | [[sperre]]             | [[sperrte]]             |
-| Wir       | [[sperren]]          | [[sperrten]]          | -                 | [[sperren]]            | [[sperrten]]            |
-| Ihr       | [[sperrt]]           | [[sperrtet]]          | [[sperrt]]        | [[sperret]]            | [[sperretet]]           |
-| Sie       | [[sperren]]          | [[sperrten]]          | [[sperren Sie]]   | [[sperren]]            | [[sperrten]]            |
+- Was [[sperren]] wir?
+- Den Zugang.
 
-Partizip I: [[sperrend]], Partizip II: [[gesperrt]]
+- Warum [[hat]] er das Konto [[gesperrt]]?
+- Wegen verdächtiger Aktivitäten.
 
-, [[dammen]]
+---
+###### [[sperren]] jN `für` jN
+- `Wofür` [[sperrst]] du den Bereich?
+- `Für` die Öffentlichkeit.
+
+- `Für` wen [[sperren]] wir die Straße?
+- `Für` die Bauarbeiter.
+
+- Wie lange [[hat]] er das `dafür` [[gesperrt]]?
+- Für eine Stunde.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[sperre]], [[sperrte]], [[sperre]], [[sperrte]], -
+du, [[sperrst]], [[sperrtest]], [[sperre]], [[sperrtest]], [[sperrtest]]
+er, [[sperrt]], [[sperrte]], [[sperre]], [[sperrte]], -
+wir, [[sperren]], [[sperrten]], [[sperren]], [[sperrten]], [[sperrten]]
+ihr, [[sperrt]], [[sperrtet]], [[sperrt]], [[sperrtet]], [[sperrtet]]
+sie, [[sperren]], [[sperrten]], [[sperren]], [[sperrten]], [[sperrten]]
+
+*Zu + Inf*: zu [[sperren]], *P2*: [[gesperrt]]
+Adjektive: [[sperrend]], [[sperrender]], [[sperrendst]]
+
+---
+[[sperrender]], [[sperrendes]], [[sperrende]], [[sperrenden]], [[sperrendem]], [[sperrenderer]], [[sperrenderes]], [[sperrendere]], [[sperrenderen]], [[sperrenderem]], [[sperrendster]], [[sperrendstes]], [[sperrendste]], [[sperrendsten]], [[sperrendstem]]

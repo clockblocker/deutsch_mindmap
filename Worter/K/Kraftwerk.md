@@ -1,2 +1,2 @@
 , [[Kraft]]
-, [[Motor]], [[Kohlekraftwerk]]
+, [[Motor]], [[Kohlekraftwerk]], [[Energieversorgung]]

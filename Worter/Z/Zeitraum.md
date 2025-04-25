@@ -1,1 +1,1 @@
-, [[Woche]], [[Lebensjahr]], [[Saison]], [[Jahrhundertmitte]]
+, [[Woche]], [[Lebensjahr]], [[Saison]], [[Jahrhundertmitte]], [[Frist]], [[derzeit]]

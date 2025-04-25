@@ -4,6 +4,8 @@
 *[[08-C1-Schreiben-T2-M#^2|^]]* Das bedeutet, dass Sie Ihr [[Fahrzeug]] dort nicht mehr [[abstellen]] dürfen, da sich Ihre Firma an Ihrem Wohnort befindet. ^2
 
 
+*„Das [[Abstellen]] privater Fahrzeuge ist untersagt.“*
+
 ---
 = [[parken]], [[hinstellen]], [[deponieren]]
 ≈ [[platzieren]], [[lagern]], [[unterbringen]]
@@ -56,4 +58,4 @@ sie, [[stellen ab]], [[stellten ab]], [[stellen ab]], [[stellten ab]], [[stellen
 Adjektive: [[abstellend]], [[abstellender]], [[abstellendst]]
 
 ---
-[[abstellender]], [[abstellendes]], [[abstellende]], [[abstellenden]], [[abstellendem]], [[abstellenderer]], [[abstellenderes]], [[abstellendere]], [[abstellenderen]], [[abstellenderem]], [[abstellendster]], [[abstellendstes]], [[abstellendste]], [[abstellendsten]], [[abstellendstem]]
+[[abstellender]], [[abstellendes]], [[abstellende]], [[abstellenden]], [[abstellendem]], [[abstellenderer]], [[abstellenderes]], [[abstellendere]], [[abstellenderen]], [[abstellenderem]], [[abstellendster]], [[abstellendstes]], [[abstellendste]], [[abstellendsten]], [[abstellendstem]], [[Parkberechtigung]]

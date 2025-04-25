@@ -1,1 +1,1 @@
-, [[Worter/W/Wirtschaft]], [[Marktwirtschaft]], [[messe]], [[vermarkten]]
+, [[Worter/W/Wirtschaft]], [[Marktwirtschaft]], [[messe]], [[vermarkten]], [[Supermarkt]]

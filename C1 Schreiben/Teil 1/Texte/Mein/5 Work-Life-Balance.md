@@ -90,7 +90,8 @@ Es ist die ==Lache== des ==Mitgefühls==
 
 ---
 
-*Heute wir kontrovers darüber diskutiert, ob die* Work-Life-Balance *ein vorübergehender modischer Slogan ist, oder ob das Streben danach als zentraler Bestandteil einer erfolgreichen* Karriere *angesehen werden sollte.
+§*Heute wir kontrovers darüber diskutiert, ob die* Work-Life-Balance *ein vorübergehender modischer Slogan ist, oder ob das Streben danach als zentraler Bestandteil einer erfolgreichen* Karriere *angesehen werden sollte. ^1
+
 
 *Auf der einen Seite vertreten viele Arbeitgeber den Standpunkt, man sollte vor allem auf* seinen Beitrag für die Firma zuerst zu *achten.*
 

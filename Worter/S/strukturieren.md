@@ -1,1 +1,1 @@
-[[arrangieren]], [[gliedern]]
+[[arrangieren]], [[gliedern]], [[strukturell]]

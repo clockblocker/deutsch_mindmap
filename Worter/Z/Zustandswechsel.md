@@ -1,1 +1,1 @@
-[[Zustand]]s[[wechsel]]
+[[Zustand]]s[[Wechsel]]

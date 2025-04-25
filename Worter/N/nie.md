@@ -1,5 +1,8 @@
 🙅 [[nie]], [niː]
 
+--> [[Temporal-Frequenz]] <--
+
+
 ---
 Ich vergesse nie etwas!
 ANNA: Wir haben [[nie]] Geld!  

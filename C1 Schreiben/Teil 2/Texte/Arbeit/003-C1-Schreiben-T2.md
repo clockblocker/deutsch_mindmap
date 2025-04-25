@@ -17,16 +17,16 @@ ich freue mich sehr, dass unser IT-Infrastruktur-Team durch Herrn Muller verstä
 
 Zurzeit leite ich ein Team von sechs Softwareingenieur:innen bei der Entwicklung unseres internen „E-Ledger“-Projekts für den Buchhaltungsbereich. 
 
-Allerdings ist es durch den neuen Arbeitsplatz im Büro deutlich enger geworden. Unser Open Space ist für sieben Personen gestaltet – der neue Kollege findet jedoch kaum Platz. Der vorhandene Raum ist sehr begrenzt und die allgemeine Konzentration ist dadurch gestört.
+Allerdings ist es durch den neuen Arbeitsplatz im Büro deutlich enger geworden. Unseres Großraumbüro ist für sieben Personen gestaltet – der neue Kollege findet jedoch kaum Platz. Der vorhandene Raum ist sehr begrenzt und die allgemeine Konzentration ist dadurch gestört.
 
-Wenn kein angemessenes Büro angeboten werden kann, schlage ich vor, dem Team die Möglichkeit zu geben, bis zu zwei Tagen pro Woche im Homeoffice zu arbeiten.
+Wenn kein größeres Büro angeboten werden kann, schlage ich vor, dem Team die Möglichkeit zu geben, bis zu zwei Tagen pro Woche im Homeoffice zu arbeiten.
 
 Auf eine Antwort von Ihnen freue ich mich.
 
 Mit freundlichen Grüßen
 Denis Popov
 
-![[ElevenLabs_2025-04-20T07_00_48_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]
+![[ElevenLabs_003.mp3]]
 
 ---
 
@@ -67,4 +67,4 @@ bis zu zwei Tagen pro Woche im Homeoffice zu arbeiten.
 *Denis Popov*
 
 
-![[ElevenLabs_2025-04-20T07_00_48_Otto_pvc_sp100_s100_sb100_se24_b_m2.mp3]]
+![[ElevenLabs_003.mp3]]

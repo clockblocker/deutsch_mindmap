@@ -27,4 +27,4 @@ D: dem [[Zusammenhang]], den [[Zusammenhängen]]
 [[zusammenhängen]], [[zusammenhängend]], [[zusammenhangslos]], [[kontextbezogen]]
 
 , [[Bezug]], [[Verbindung]], [[Worter/Beziehung]], [[Beziehung]]
-, [[zusammenbekommen]], [[zusammen]], [[Verhältnis]]
+, [[zusammenbekommen]], [[zusammen]], [[Verhältnis]], [[Anschluss]]

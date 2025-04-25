@@ -29,4 +29,4 @@ therefore, hence
 
 , [[deshalb]]
 , [[Texte/Misc/Anki]]
-, [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]]
+, [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]]

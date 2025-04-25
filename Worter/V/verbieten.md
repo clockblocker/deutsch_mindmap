@@ -2,6 +2,9 @@
 [[verbot|verbot]]
 haben [[verboten]]
 
+------- > [[erlauben-verbieten]] <----------
+
+
 ---
 *Sie drohen mit den Pfoten:*  
 *"Der Vater hat’s [[verboten]]!*  

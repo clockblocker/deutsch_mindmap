@@ -1,5 +1,8 @@
 💪 [[stark]], [ʃtaʁk](https://youglish.com/pronounce/stark/german) ≠ [[schwach]]
 
+----> [[viel-wenig]] <----
+
+
 ---
 *[[Große Koalition#^1|^]]* Als **Große Koalition** (auch **große Koalition**) wird in der Regel eine Regierungskoalition der [[mandatsstärksten]] Parteien im Parlament [[bezeichnet]]. ^1
 
@@ -35,4 +38,4 @@ Adjektive: [[stark]], [[stärker]], [[stärkst]]
 - *Die* [[Worter/S/stärkste.md|stärkste]] *Mutter und ein* [[Worter/S/stärkster.md|stärkster]] *Sohn gaben* [[Worter/S/stärkstem.md|stärkstem]] *Vater ein* [[Worter/S/stärkstes.md|stärkstes]] *Geschenk* [[Worter/S/stärksten.md|stärksten]] *Onkels*
 
 
-[[schmal]], [[erheblich]]
+[[schmal]], [[erheblich]], [[beträchtlich]]

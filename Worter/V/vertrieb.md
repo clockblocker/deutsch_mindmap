@@ -1,2 +1,2 @@
 🚷 [[vertreiben]]
-, [[Verkauf]], [[Buchhaltungsbereich]]
+, [[Verkauf]], [[Buchhaltungsbereich]], [[Außendienstmitarbeiter]]

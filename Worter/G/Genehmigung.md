@@ -26,4 +26,4 @@ G: der [[Genehmigung]], der [[Genehmigungen]]
 D: der [[Genehmigung]], den [[Genehmigungen]]  
 
 ---
-[[genehmigen]], [[genehmigt]], [[Genehmigungsprozess]], [[Genehmigungsbehörde]], [[lassen]], [[Einverständnis]], [[verbot]], [[Zugriff]]
+[[genehmigen]], [[genehmigt]], [[Genehmigungsprozess]], [[Genehmigungsbehörde]], [[lassen]], [[Einverständnis]], [[verbot]], [[Zugriff]], [[Parkberechtigung]]

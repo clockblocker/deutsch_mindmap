@@ -1,2 +1,4 @@
 , [[Verspätung]]
 , [[pünktlich]], [[Zuspätkommen]]
+
+#Feminin 

@@ -31,4 +31,4 @@ G: der [[Regelung]], der [[Regelungen]]
 D: der [[Regelung]], den [[Regelungen]]
 
 
-#Feminin , [[Ausnahmeregelung]]
+#Feminin , [[Ausnahmeregelung]], [[Einzelfallregelung]]

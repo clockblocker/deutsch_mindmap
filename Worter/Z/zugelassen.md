@@ -1,1 +1,1 @@
-, [[wahlberechtigt]], [[verbannt]]
+, [[wahlberechtigt]], [[verbannt]], [[zulassen]]

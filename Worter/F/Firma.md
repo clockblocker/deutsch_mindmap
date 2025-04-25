@@ -30,4 +30,4 @@ G: der [[Firma]], der [[Firmen]]
 D: der [[Firma]], den [[Firmen]]
 , [[Arbeitsstelle]]
 
-#Feminin 
+#Feminin , [[Firmenangebot]]
