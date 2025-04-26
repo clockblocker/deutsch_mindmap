@@ -1,8 +1,7 @@
-📜 🔴 die [[Verfügung]], [fɛɐ̯ˈfyːɡʊŋ]
+[[zur Verfügung stellen]]
+
+📜 🔴 die [[Verfügung]], [fɛɐ̯ˈfyːɡʊŋ](https://youglish.com/pronounce/Verfügung/german)
 die [[Verfügungen]]
-
-------- > [[erlauben-verbieten]] <----------
-
 
 ---
 1. Ein Auto, das einem vom Arbeitgeber zur [[Verfügung]] gestellt wird: der Dienstwagen
@@ -20,46 +19,25 @@ Geld zur [[Verfügung]] stellen
 
 ---
 = [[Anordnung]], [[Bestimmung]], [[Regelung]]
-≈ [[Entscheidung]], [[Erlass]], [[Dekret]], [[Weisung]]
-≠ [[Unordnung]], [[Chaos]], [[Willkür]]
+≈ [[Entscheidung]], [[Erlass]], [[Dekret]]
+≠ [[Unordnung]], [[Chaos]], [[Verwirrung]]
 
 ---
-disposition, order, decree
+disposal, order, decree  
 распоряжение, постановление
 
 ---
-[[verfügen]], [[verfügbar]], [[Verfügungsrecht]], [[zur Verfügung stellen]]
+[[verfügen]], [[verfügbar]], [[Verfügbarkeit]], [[zur Verfügung stellen]]
 
 ---
 [[ver]]|[[füg]]|[[ung]]
 [[Verfügung]]
 
----
-###### [[verfügen]] `über` jN
-– `Worüber` [[verfügst]] du?
-– `Über` viel Geld.
-
-– `Über` was [[verfügen]] wir?
-– `Über` ein großes Haus.
-
-– Wie lange [[hat]] er `darüber` [[verfügt]]?
-– Seit seiner Kindheit.
 
 ---
-###### [[verfügen]] `über` jN **zu** jM
-– `Worüber` [[verfügst]] du?
-– `Über` meine Zeit.
-
-– `Zu` wem [[verfügst]] du `über` deine Zeit?
-– `Zu` meinem Chef.
-
-– Warum [[hat]] sie `darüber` nicht **zu** ihm [[verfügt]]?
-– Weil sie keine Zeit hatte.
-
----
-N: die [[Verfügung]], die [[Verfügungen]]  
-A: die [[Verfügung]], die [[Verfügungen]]  
-G: der [[Verfügung]], der [[Verfügungen]]  
+N: die [[Verfügung]], die [[Verfügungen]]
+A: die [[Verfügung]], die [[Verfügungen]]
+G: der [[Verfügung]], der [[Verfügungen]]
 D: der [[Verfügung]], den [[Verfügungen]]
 
 

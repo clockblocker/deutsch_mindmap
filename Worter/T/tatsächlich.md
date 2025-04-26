@@ -1,4 +1,5 @@
 🤔 tatsächlich, [tatˈzɛçlɪç]
+---> 🧩 [[Grad-Wahrheit]] <---
 
 ---
 Ich habe [[tatsächlich]] den Job bekommen.

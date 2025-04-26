@@ -28,3 +28,4 @@ G: der [[Datenbank]], der [[Datenbanken]]
 D: der [[Datenbank]], den [[Datenbanken]]
 
 #Feminin
+, [[Server]]

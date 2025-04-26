@@ -1,3 +1,4 @@
+---> [[Ingredient-Einhaltung]] <---
 🚀 [[ausführen]] | [[führte aus|führte aus]], haben [[ausgeführt]]
 
 ---
@@ -34,4 +35,4 @@ Zu+infinifive: [[auszuführen]]
 
 , [[erklären]], [[tun]], [[erledigen]], [[ausüben]], [[vornehmen]]
 , [[begehen]], [[vollziehen]], [[zusammenfassen]]
-, [[fertigstellen]], [[abarbeiten]], [[erläutern]], [[erfüllen]], [[unterlassen]], [[ausarbeiten]]
+, [[fertigstellen]], [[abarbeiten]], [[erläutern]], [[erfüllen]], [[unterlassen]], [[ausarbeiten]], [[befolgen]]

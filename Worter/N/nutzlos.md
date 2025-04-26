@@ -1,6 +1,8 @@
-, [[nützen]], [[Nützliches]]
 🚫 [[nutzlos]], [ˈnʊtsloz]
 nicht [[nützlich]]
+
+---> 🧱[[Grad-Gewicht]] <---
+
 
 ---
 Aomine zu Kuro: Es sind [[nutzlose]] [[Bemühungen]]
@@ -10,6 +12,9 @@ Aomine zu Kuro: Es sind [[nutzlose]] [[Bemühungen]]
 = [[wertlos]], [[sinnlos]], [[überflüssig]]
 ≈ [[unnütz]], [[vergeblich]], [[ineffektiv]], [[bedeutungslos]]
 ≠ [[nützlich]], [[wertvoll]], [[sinnvoll]], [[brauchbar]]
+
+, [[nützen]], [[Nützliches]]
+
 
 ---
 useless, pointless

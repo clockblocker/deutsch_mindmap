@@ -1,4 +1,8 @@
+---> 💥 [[Grad-Intensität]] <---
+---> 🧱[[Grad-Gewicht]] <---
+
 📊 [[signifikant]], [zɪɡniˈfɪkant](https://youglish.com/pronounce/signifikant/german)
+
 
 ---
 Es ist offenbar nicht im Interesse des Unternehmens, wenn sensible Daten wie Einkaufspreise bzw. -bedingungen an Mitarbeiter gelangen, die keinen Zugang zu solchen Daten haben sollten. Ich benötige einen Arbeitsplatz, der Vertraulichkeit gewährleisten kann.

@@ -1,3 +1,4 @@
+---> 🧩 [[Grad-Wahrheit]] <---
 😕 [[scheinbar]], [ˈʃaɪ̯nbɐɐ]
 
 ---

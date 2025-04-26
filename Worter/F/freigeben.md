@@ -1,6 +1,6 @@
-✅ [[freigeben]], [ˈfʁaɪ̯ˌɡeːbn̩](https://youglish.com/pronounce/freigeben/german) → [[gab frei]] → [[freigegeben]]
+---> [[Ingredient-erlauben-verbieten]] <---
 
-------- > [[erlauben-verbieten]] <----------
+✅ [[freigeben]], [ˈfʁaɪ̯ˌɡeːbn̩](https://youglish.com/pronounce/freigeben/german) → [[gab frei]] → [[freigegeben]]
 
 ---
 ich habe vollstes Verständnis dafür, dass der Parkplatz unserer Firma regelmäßig ausgelastet ist und Sie deshalb entschieden haben, ihn nur Mitarbeitenden zur Nutzung freizugeben, die von außerhalb kommen.

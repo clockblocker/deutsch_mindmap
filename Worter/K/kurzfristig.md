@@ -1,4 +1,5 @@
----> [[Temporal-Dauerhaft]] <---
+---> ⏱️ [[Temporal-Perspektive]] <---
+---> ⏱️ [[Temporal-Dauerhaft]] <---
 
 
 , [[nachhaltig]], [[langfristig]], [[vorübergehend]], [[chronisch]], [[langjährig]]

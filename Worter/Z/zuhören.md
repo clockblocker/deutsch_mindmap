@@ -34,3 +34,4 @@ PI: [[zuhörend]], PII: [[zugehört]], Zu+inf: [[zuzuhören]]
 [[Zuhörer]], [[Zuhörerin]], [[Aufmerksamkeit]], [[gehört]], [[hörbar]]
 
 [[anhören]], [[Schweige]]
+, [[mithören]]

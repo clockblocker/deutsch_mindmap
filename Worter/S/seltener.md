@@ -1,1 +1,2 @@
+---> 📈 [[Grad-Vergleich]] <---
 , [[meist]], [[selten]]

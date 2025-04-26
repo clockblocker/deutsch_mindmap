@@ -1,5 +1,8 @@
 🕰️ [[vorhin]], [fɔɐ̯ˈhɪn]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 Ich [[beziehe]] mich [[Worter/A/auf]] das, was Sie [[vorhin]] [[erwähnt]] haben.  
 

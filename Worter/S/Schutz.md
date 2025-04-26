@@ -1,3 +1,5 @@
+---> [[Ingredient-Risiko-Schutz-Nomen]] <---
+
 🔵 der [[Schutz]], [ˈʃʊts]
 die [[Schutze]] oder [[Schutzarten]]
 
@@ -32,4 +34,4 @@ D: dem [[Schutz]], den [[Schutzen]]
 , [[Versicherung]], [[Asyl]], [[Folter]], [[Kündigungsschutzklage]], [[Erhaltung]], [[Überfall]], [[Verfolgung]], [[Unantastbarkeit]], [[Vorbeugung]], [[Erhalt]], [[Stadtmauer]], [[Notfallschutz]]
 
 
-#Maskulin , [[Datenschutz]]
+#Maskulin , [[Datenschutz]], [[Geborgenheit]]

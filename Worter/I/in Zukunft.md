@@ -1,1 +1,3 @@
-, [[irgendwann]]
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+

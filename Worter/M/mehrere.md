@@ -1,4 +1,4 @@
-[[Indefinitpronomen]], [[jeden]], [[einzelnen]], [[zahlreiche]], [[einziger]]
+---> 🧮 [[Grad-Quantität]] <---
 🔵 [[mehrere]], [ˈmeːʁəʁə]
 
 ---
@@ -23,4 +23,5 @@ G: [[mehrerer]]
 D: [[mehreren]]  
 
 ---
-[[Mehrzahl]], [[mehrfach]], [[Mehrdeutigkeit]], [[vermehren]], [[Texte/Misc/Anki]], [[zahlreich]]
+[[Mehrzahl]], [[mehrfach]], [[Mehrdeutigkeit]], [[vermehren]], [[Texte/Misc/Anki]], [[zahlreich]], [[Großteil]]
+[[Indefinitpronomen]], [[jeden]], [[einzelnen]], [[zahlreiche]], [[einziger]]

@@ -1,3 +1,4 @@
+---> [[Ingredient-Verben-Bedürfnis]] <---
 🏋️ [[fordern]], [ˈfɔʁdɐn] | [[forderte]], haben [[gefordert]]
 
 ---

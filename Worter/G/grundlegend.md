@@ -1,5 +1,8 @@
 🧱 [[grundlegend]], [ˈɡʁuːntˌleːɡn̩t]
 
+---> 🧱[[Grad-Gewicht]] <---
+
+
 ---
 [[2 Unter Druck nach oben#^14|(q)]] [[Integrität]], Respekt und [[Anstand]] sind [[grundlegend]] für die Zusammenarbeit, meint Adolf Michael Picard vom Otto-Versand. ^14
 

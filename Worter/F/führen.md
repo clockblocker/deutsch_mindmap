@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🚗 [[führen]] + Akk, [ˈfyːʁən], [[führte]], haben [[geführt]]
 
 ---

@@ -1,9 +1,6 @@
+---> [[Ingredient-Zugang-Zugriff]] <---
+
 🔌 🔵 der [[Anschluss]], [ˈanʃlʊs](https://youglish.com/pronounce/Anschluss/german)
-
----> [[Zugang-Zugriff]] <---
-
-
----
 
 ---
 = [[Verbindung]], [[Konnektion]], [[Anbindung]]

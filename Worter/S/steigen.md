@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🏔️ [[steigen]] + Dat/Akk, [ˈʃtaɪ̯gən]
 [[stieg]], [[stiegen]]
 sein [[gestiegen]]

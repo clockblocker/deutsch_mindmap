@@ -1,3 +1,4 @@
+---> [[Management-Coordination-Allocation]] <---
 🎨 [[gestalten]] + Akk, [gəˈʃtaltən], 🧑‍🤝‍🧑 🔴 die [[Gestalt]]
 [[gestaltete]]
 haben [[gestaltet]]

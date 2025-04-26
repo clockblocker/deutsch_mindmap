@@ -1,1 +1,1 @@
-, [[wirken]], [[Auswirkung]], [[auswirken]], [[Auswirkung]]
+, [[wirken]], [[Auswirkung]], [[auswirken]], [[Auswirkung]], [[Wirkung]]

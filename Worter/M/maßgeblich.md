@@ -1,1 +1,5 @@
+---> 🧱[[Grad-Gewicht]] <---
+
 , [[entscheidend]], [[richtungsgebend]]
+
+

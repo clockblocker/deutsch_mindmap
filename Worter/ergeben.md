@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 📊 [[ergeben]], [ɛɐ̯ˈɡeːbn̩] | [[ergab]], haben [[Worter/E/ergeben]]
 
 ---

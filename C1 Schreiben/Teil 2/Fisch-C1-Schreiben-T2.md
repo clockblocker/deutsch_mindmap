@@ -216,4 +216,4 @@ Eine mögliche Lösung wäre, dem Team die Möglichkeit anzubieten, bis zu zwei 
 
 
 #### Arguments
-- Der [[Zugang]] `zu` Strom ist *für Studierende* oft [[eingeschränkt]]: *In vielen Räumen der Universität* gibt es zu wenige [[Steckdose]]n, *was das Arbeiten mit Laptops* erheblich [[erschwert]]. [[Zugang-Zugriff#^2|^]]
+- Der [[Zugang]] `zu` Strom ist *für Studierende* oft [[eingeschränkt]]: *In vielen Räumen der Universität* gibt es zu wenige [[Steckdose]]n, *was das Arbeiten mit Laptops* erheblich [[erschwert]]. [[Ingredient-Zugang-Zugriff#^2|^]]

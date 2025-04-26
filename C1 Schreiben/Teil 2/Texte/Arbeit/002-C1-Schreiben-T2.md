@@ -15,7 +15,7 @@ Sehr geehrte Frau Grimm,
 
 ich wende mich an Sie, um auf die Situation im neuen Büro einzugehen.
 
-Ich habe vollstes Verständnis dafür, dass ein Umzug unter Zeitdruck nicht alle Bedürfnisse berücksichtigen kann. Dennoch wirkt sich die neue Bürosituation erheblich auf meine Arbeit aus.
+Ich habe vollstes Verständnis dafür, dass ein Umzug unter Zeitdruck nicht alle Bedürfnisse [[berücksichtigen]] kann. Dennoch wirkt sich die neue Bürosituation erheblich auf meine Arbeit aus.
 
 Als Projektmanager nehme ich ständig an virtuellen Meetings mit externen Partnern teil. Meine häufigen Gespräche würden nicht nur die Konzentration der sechs Kolleg:innen stören, sondern auch das Risiko bergen, dass sensible Informationen von unbeteiligten Mitarbeitenden mitgehört werden.
 
@@ -23,7 +23,7 @@ Aus diesem Grund benötige ich einen ruhigen, abgegrenzten Arbeitsplatz, der ver
 
 Wenn die neuen Räume kein separates Büro anbieten können, schlage ich vor, ein paar Telefonzellen einzubauen.
 
-Auf eine Antwort von Ihnen freue ich mich.
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
 Mit freundlichen Grüßen
 Denis Popov
@@ -45,13 +45,44 @@ Schreiben Sie circa 120 Wörter.
 
 ---
 
+*[[002-C1-Schreiben-T2#^1|^]]* Sehr geehrte Frau Grimm, ^1
+
+*[[002-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die Situation im neuen Büro einzugehen. ^1
+
+
+*[[002-C1-Schreiben-T2#^2|^]]* Ich habe vollstes Verständnis dafür, dass ein Umzug unter Zeitdruck nicht alle Bedürfnisse berücksichtigen kann. ^2
+
+*[[002-C1-Schreiben-T2#^3|^]]* Dennoch wirkt sich die neue Bürosituation [[erheblich]] auf meine Arbeit aus. ^3
+
+ 
+*[[002-C1-Schreiben-T2#^4|^]]* Als Projektmanager nehme ich [[ständig]] an virtuellen Meetings mit externen Partnern teil. ^4
+
+*[[002-C1-Schreiben-T2#^5|^]]* Meine [[häufigen]] Gespräche würden nicht nur die Konzentration der sechs Kolleg:innen stören, sondern auch das Risiko bergen, dass sensible Informationen von unbeteiligten Mitarbeitenden mitgehört werden. ^5
+
+ 
+*[[002-C1-Schreiben-T2#^6|^]]* Aus diesem Grund benötige ich einen ruhigen, abgegrenzten Arbeitsplatz, der vertrauliche Gespräche ermöglicht. ^6
+
+ 
+*[[002-C1-Schreiben-T2#^7|^]]* Wenn die neuen Räume kein separates Büro anbieten können, schlage ich vor, ein paar Telefonzellen einzubauen. ^7
+
+
+*[[002-C1-Schreiben-T2#^8|^]]* Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus. ^8
+
+ 
+*[[002-C1-Schreiben-T2#^8|^]]* Mit freundlichen Grüßen ^8
+
+*[[002-C1-Schreiben-T2#^8|^]]* Denis Popov ^8
+
+
+
+---
 *Sehr geehrte Frau Grimm,*
 
 *ich wende mich an Sie, um auf die Situation* im neuen [[Büro]] *einzugehen.*
 
 *Ich habe vollstes Verständnis dafür, 
 dass* ein [[Umzug]] unter [[Zeitdruck]] nicht alle [[Bedürfnis]]se berücksichtigen kann. 
-*Dennoch* *wirkt sich* die neue [[Bürosituation]] *erheblich auf* meine [[Arbeit]] *aus*.
+*Dennoch* *wirkt sich* die neue [[Bürosituation]] *erheblich auf* meine Arbeit *aus*.
 
 Als [[Projektmanager]] nehme ich ständig an virtuellen [[Meeting]]s mit externen [[Partner]]n teil. 
 Meine häufigen [[Gespräch]]e würden *nicht nur* die [[Konzentration]] der sechs Kolleg:innen stören, *sondern auch das [[Risiko]] bergen, 

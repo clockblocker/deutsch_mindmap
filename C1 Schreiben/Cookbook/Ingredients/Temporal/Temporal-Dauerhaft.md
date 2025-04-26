@@ -1,6 +1,5 @@
----> [[Temporal-Dauerhaft]] <---
-
----> [[Temporal-Dauerhaft]] <---
+[[0 Temporal-Freunde]]
+---> ⏱️ [[Temporal-Dauerhaft]] <---
 
 #### 🟢 [[dauerhaft]] 
 1) ❤️ [[dauerhaft]] *(permanent; long-term stable)*

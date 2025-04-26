@@ -1,10 +1,12 @@
+---> [[Ingredient-erlauben-verbieten]] <---
+
 🤝 [[gewähren]], [ɡəˈvɛːʁən] | [[gewährte]], haben [[gewährt]]
-
-------- > [[erlauben-verbieten]] <----------
-
 
 ---
 Viele Länder [[gewähren]] die [[Aufnahme]] von [[Flüchtlingen]].
+
+die [[Nutzung]] *des Parkplatzes* zu [[gewähren]]. 
+
 
 halte ich es für sinnvoll, uns weiterhin die Nutzung des Parkplatzes zu gewähren
 

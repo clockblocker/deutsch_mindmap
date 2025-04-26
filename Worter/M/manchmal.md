@@ -1,7 +1,7 @@
+---> ⏱️ [[Temporal-Template]] <---
+---> ⏱️ [[Temporal-Frequenz]] <---
+
 🌈 [[manchmal]], [ˈmantsman]
-
----> [[Temporal-Frequenz]] <---
-
 
 ---
 [[Manchmal]] ist das Leben einfach perfekt. Neulich war Diana im Supermarkt. 

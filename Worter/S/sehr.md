@@ -1,4 +1,6 @@
 🔵 [[sehr]]
+---> 🧩 [[Grad-Wahrheit]] <---
+
 
 Beispiele:
 

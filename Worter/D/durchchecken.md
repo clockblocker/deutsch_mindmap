@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 🕵️[[durchchecken]] + Akk, [ˈdʊʁtʃˌtʃɛkn̩]
 [[checkte durch|checkte durch]]  
 haben [[durchgecheckt]]

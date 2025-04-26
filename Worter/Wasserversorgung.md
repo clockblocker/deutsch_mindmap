@@ -1,6 +1,6 @@
 💧 🔴 die [[Wasserversorgung]], [ˈvasɐfɛɐ̯ˌzɔʁɡʊŋ](https://youglish.com/pronounce/Wasserversorgung/german)
 
-----> [[Zugang-Zugriff]] <----
+----> [[Ingredient-Zugang-Zugriff]] <----
 
 ---
 - *Das Gebäude befindet sich noch im Bau und* [[verfügt]] *derzeit* `über` keine Wasserversorgung

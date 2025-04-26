@@ -1,8 +1,7 @@
+---> [[Ingredient-Zugang-Zugriff]] <---
+
 🔑 🔵 der [[Zugriff]], [ˈtsuːɡʁɪf](https://youglish.com/pronounce/Zugriff/german)
 die [[Zugriffe]]
-
----> [[Zugang-Zugriff]] <---
-
 
 ---
 - *schnelles Internet* [[Zugriff]] `auf` [[Datenbank]]*en und technische* [[Ausstattungen]]

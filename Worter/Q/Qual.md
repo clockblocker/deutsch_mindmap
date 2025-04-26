@@ -25,4 +25,4 @@ Einzigartige mögliche Formen:
 ---
 #Substantiv #Feminin #Leid #Emotion
 
-, [[quälen]]
+, [[quälen]], [[Bedrängnis]]

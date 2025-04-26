@@ -1,3 +1,4 @@
+---> 🧮 [[Grad-Quantität]] <---
 📉 🔵 der [[Mangel]], [ˈmaŋəl](https://youglish.com/pronounce/Mangel/german)
 die [[Mängel]]
 

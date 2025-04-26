@@ -27,3 +27,4 @@ Dative: dem [[Auftritt]], den [[Auftritten]]
 ---
 [[auftreten]], [[auftretend]], [[Bühnenauftritt]], [[Konzertauftritt]], [[Texte/Misc/Anki]]
 
+, [[Mehrheit]]

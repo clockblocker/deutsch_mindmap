@@ -1,11 +1,11 @@
-🚧 [[einschränken]], [ˈaɪ̯nˌʃʁɛŋkən] | [[schränkte ein]], haben [[eingeschränkt]]
+---> [[Ingredient-erlauben-verbieten]] <---
 
-------- > [[erlauben-verbieten]] <----------
+🚧 [[einschränken]], [ˈaɪ̯nˌʃʁɛŋkən] | [[schränkte ein]], haben [[eingeschränkt]]
 
 
 ---
 
-Der [[Zugang]] `zu` Strom ist `für` Studierende oft eingeschränkt: *In vielen Räumen der Universität gibt es nicht ausreichend Steckdosen, was das Arbeiten mit Laptops erheblich erschwert.* [[Zugang-Zugriff#^2|^]] 
+Der [[Zugang]] `zu` Strom ist `für` Studierende oft eingeschränkt: *In vielen Räumen der Universität gibt es nicht ausreichend Steckdosen, was das Arbeiten mit Laptops erheblich erschwert.* [[Ingredient-Zugang-Zugriff#^2|^]] 
 
 
 

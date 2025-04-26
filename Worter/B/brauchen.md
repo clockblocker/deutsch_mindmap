@@ -1,3 +1,5 @@
+---> [[Ingredient-Verben-Bedürfnis]] <---
+
 🙏  [[brauchen]]  
 [[brauchte]]  
 haben [[gebraucht]]

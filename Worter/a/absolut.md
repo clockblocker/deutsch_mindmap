@@ -1,3 +1,4 @@
+---> 🧩 [[Grad-Ganzheit]] <---
 [[absolut]]
 [[absoluter]]
 [[am]] [[absolutesten]]

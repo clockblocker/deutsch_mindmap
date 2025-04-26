@@ -1,2 +1,3 @@
+---> 🧮 [[Grad-Quantität]] <---
+
 [[einig]]
-, [[Worter/A/Alle]]

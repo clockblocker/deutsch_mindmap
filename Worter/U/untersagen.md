@@ -1,6 +1,6 @@
+---> [[Ingredient-erlauben-verbieten]] <---
 
 🚫 [[untersagen]], [ʊntɐˈzaːɡn̩](https://youglish.com/pronounce/untersagen/german) → [[untersagte]] → [[untersagt]]
-------- > [[erlauben-verbieten]] <----------
 
 ---
 *[[008-C1-Schreiben-T2#^2|^]]* seine Nutzung für Mitarbeitende, die nicht von außerhalb kommen, zu [[untersagen]]. ^2

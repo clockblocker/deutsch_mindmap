@@ -1,3 +1,4 @@
+---> 🧮 [[Grad-Quantität]] <---
 🔴 die [[Reihe]], [ˈʁaɪ̯ə]
 die [[Reihen]]
 
@@ -29,3 +30,6 @@ D: der [[Reihe]], den [[Reihen]]
 
 [[Reihenfolge]], [[Serie]], [[Zeile]]
 , [[Unmenge]], [[Vielzahl]]
+
+
+#Feminin 

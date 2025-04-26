@@ -1,4 +1,5 @@
----> [[Temporal-Frequenz]] <---
+---> ⏱️ [[Temporal-Template]] <---
+---> ⏱️ [[Temporal-Frequenz]] <---
 
 Hast du [[immer]] noch [[so viele]] Pickel?  
 

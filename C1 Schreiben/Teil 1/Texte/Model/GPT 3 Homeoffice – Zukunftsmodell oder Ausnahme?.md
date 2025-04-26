@@ -63,7 +63,7 @@ Ein solches hybride Modell berücksichtigt sowohl ökonomische Vorteile als auch
 [[Mitarbeiter]] in [[Branche]]n wie IT, 
 [[Werbung]], [[Buchhaltung]], oder [[Verwaltung]] 
 entscheiden sich, an den heimischen [[Schreibtisch]]en zu bleiben, 
-weil es die [[Vereinbarkeit]] von [[Beruf]]- und [[Privatleben]] verbessert und [[Raum]] für [[Arbeit]] im individuellen [[Tempo]] schafft. 
+weil es die [[Vereinbarkeit]] von [[Beruf]]- und [[Privatleben]] verbessert und [[Raum]] für [[Worter/A/Arbeit]] im individuellen [[Tempo]] schafft. 
 
 Unternehmen *wiederum* 
 *senken durch* die [[Reduktion]] von [[Bürofläche]]n und [[Betriebskosten]] *ihren finanziellen [[Aufwand]]* 
@@ -86,7 +86,7 @@ und die direkte [[Kommunikation]],
 *was zu einem [[Mangel]] an* [[Gruppendynamik]] und [[Kreativität]] *führen kann.*
 
 ---
-*Um die [[Vorteil]]e beider* [[Büro]]- und [[Homeoffice]]-[[Arbeit]] *sinnvoll zu kombinieren,* 
+*Um die [[Vorteil]]e beider* [[Büro]]- und [[Homeoffice]]-[[Worter/A/Arbeit]] *sinnvoll zu kombinieren,* 
 *sollten* [[Unternehmen]] hybride Modelle *etablieren,* 
 *in denen* digitale [[Meeting]]s mit regelmäßig geplanten persönlichen [[Treffen]] *ergänzt werden.* 
 

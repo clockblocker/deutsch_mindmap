@@ -3,4 +3,4 @@
 , [[zufriedengeben]]
 , [[ungestüm]]
 , [[Angelegenheit]]
-, [[ungehorsam]], [[Geschichtsbuch]], [[Körpergeruch]], [[Gebirge]], [[gelaunt]], [[gewährleisten]], [[ausgezeichnet]], [[gemäßigt]], [[wertschätzen]]
+, [[ungehorsam]], [[Geschichtsbuch]], [[Körpergeruch]], [[Gebirge]], [[gelaunt]], [[gewährleisten]], [[ausgezeichnet]], [[gemäßigt]], [[wertschätzen]], [[Geborgenheit]]

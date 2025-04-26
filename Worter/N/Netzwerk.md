@@ -1,2 +1,2 @@
 , [[Netz]], [[vernetzt]]🟢 das [[Netzwerk]] 🌐
-#Neuter , [[Internetversorgung]]
+#Neuter , [[Internetversorgung]], [[Internet]], [[Server]]

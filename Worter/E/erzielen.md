@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🎯 [[erzielen]] + Akk, [ɛɐ̯ˈtsiːlən]
 [[erzielte]]
 haben [[erzielt]]

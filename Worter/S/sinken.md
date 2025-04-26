@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🌊 [[sinken]]
 [[sank]]
 sein [[gesunken]]

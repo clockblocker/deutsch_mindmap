@@ -1,6 +1,9 @@
 🧐 [[ernsthaft]], [ˈʔɛʁnstˌhaft]
 nicht [[oberflächlich]]
 
+---> 🧩 [[Grad-Wahrheit]] <---
+
+
 ---
 [Kuro] -- Ich sagte ja dass Aomine [[ernsthaft]] spielt, aber..
 

@@ -1,3 +1,4 @@
+---> [[Ingredient-Risiko-Schutz-Verben]] <---
 🛡️ [[schützen]] + Akk, [ˈʃʏtsən]
 [[schützte]]
 haben [[geschützt]]

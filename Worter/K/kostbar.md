@@ -1,2 +1,2 @@
 , [[wertvoll]], [[teuer]]
-, [[kosten]], [[unschätzbar]]
+, [[kosten]], [[unschätzbar]], [[wertlos]]

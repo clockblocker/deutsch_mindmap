@@ -1,3 +1,5 @@
+---> [[Management-Coordination-Allocation]] <---
+---> [[Ingredient-Pflege]] <---
 🚑 [[versorgen]], [fɛɐ̯ˈzɔʁɡn̩] | [[versorgte]], haben [[versorgt]]
 
 ---

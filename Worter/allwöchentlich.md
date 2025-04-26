@@ -1,6 +1,5 @@
+---> ⏱️ [[Temporal-Frequenz]] <---
 🗓️ [[allwöchentlich]], [ˈalˌvœçəntlɪç]
----> [[Temporal-Frequenz]] <---
-
 
 ---
 *[[3  Ein Selbstversuch als Hobbybäuerin#^26|^]]* [[Immerhin]] stellte ich mich [[allwöchentlich]] dem Kampf gegen einen [[unerbittlichen]] [[Kontrahenten]]: das [[Unkraut]]. ^26

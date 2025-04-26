@@ -1,4 +1,6 @@
 🤔 eigentlich, [ˈaɪ̯kəntlɪç]
+---> 🧩 [[Grad-Wahrheit]] <---
+
 
 ---
 [[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. [[14 perfekt#^14|(q)]]

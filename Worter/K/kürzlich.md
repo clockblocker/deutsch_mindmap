@@ -1,5 +1,8 @@
 🕰️ [[kürzlich]], [ˈkʏʁtslɪç], vor [[Kurzem]],
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 [[Kürzlich]] habe ich diese Musik [[schon]] gehört   [[12 Past#^8|(Quelle: 12 Past)]] 
 

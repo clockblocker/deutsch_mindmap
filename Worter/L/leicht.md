@@ -1,3 +1,4 @@
+---> 💥 [[Grad-Intensität]] <---
 💫 [[leicht]], [laɪ̯çt], 🏋️ [[leichtern]] 
 nicht [[schwer]]
 

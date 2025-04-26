@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 🧔[[vornehmen]] sich for, [fɔɐ̯ˈneːmən]
 [[nahm vor|nahm vor]]  
 haben [[vorgenommen]]

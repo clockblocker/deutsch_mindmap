@@ -1,7 +1,5 @@
+---> 🧮 [[Grad-Quantität]] <---
 👎 [[unzureichend]], [ˈʊntsuˌʁaɪ̯çənt](https://youglish.com/pronounce/unzureichend/german)
-
-----> [[viel-wenig]] <----
-
 
 ---
 *Der Zugang zu Strom ist für Studierende oft eingeschränkt: Zahlreiche Räume sind

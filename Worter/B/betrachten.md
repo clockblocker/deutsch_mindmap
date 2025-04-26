@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 🧐 [[betrachten]], [bəˈtʁaxtən] | [[betrachtete]], haben [[betrachtet]]
 
 ---

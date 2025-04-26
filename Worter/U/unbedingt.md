@@ -1,3 +1,4 @@
+---> 🧩 [[Grad-Wahrheit]] <---
  💯 [[unbedingt]], [ˈʊnbəˌdɪŋt]
 
 ---

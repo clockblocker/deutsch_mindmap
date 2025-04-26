@@ -24,4 +24,4 @@ Dative: dem [[Einwand]], den [[Einwänden]]
 
 [[einwenden]], [[widerspruchsvoll]], [[einwendig]], [[Vorbehalt]], [[Vorschlag]]
 
-#Maskulin , [[Beschwerde]], [[Lösungsvorschlag]]
+#Maskulin , [[Beschwerde]], [[Lösungsvorschlag]], [[Argument]]

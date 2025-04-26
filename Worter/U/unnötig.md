@@ -1,5 +1,8 @@
 🙅‍♀️ [[unnötig]], [ˈʊnˌnøːtɪç] ≠ [[notwendig]]
 
+---> 🧱[[Grad-Gewicht]] <---
+
+
 ---
 ja, deutsch ist manchmal einfach [[unnötig]] kompliziert. aber du hast das prinzip jetzt gecheckt
 

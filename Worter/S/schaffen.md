@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🏗️ [[schaffen]], [ˈʃafən] | [[schuf]], haben [[geschaffen]]
 
 ---

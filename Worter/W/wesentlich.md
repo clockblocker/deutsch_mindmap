@@ -1,4 +1,7 @@
+---> 💥 [[Grad-Intensität]] <---
+---> 🧱[[Grad-Gewicht]] <---
 ✨ [[wesentlich]], [ˈveːzəntlɪç](https://youglish.com/pronounce/wesentlich/german)
+
 
 ---
 [[grundlegend]] = [[grundsätzlich]] = [[zugrundeliegende]] = [[wesentlich]] = [[bedeutend]]

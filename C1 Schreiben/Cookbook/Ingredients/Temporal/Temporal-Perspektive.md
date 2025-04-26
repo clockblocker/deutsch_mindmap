@@ -1,3 +1,6 @@
+[[0 Temporal-Freunde]]
+---> ⏱️ [[Temporal-Perspektive]] <---
+
 #### 🟢 [[langfristig]] 
 1) [[nachhaltig]] *(sustainable; designed for long-term effect)*  
 	-  

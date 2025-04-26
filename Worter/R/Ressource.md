@@ -1,8 +1,9 @@
+---> [[Ingredient-Zugang-Zugriff]] <---
+
 💡 🔴 die [[Ressource]], [ʁeˈsʊʁsə](https://youglish.com/pronounce/Ressource/german)
 die [[Ressourcen]]
 
 ---
-----> [[Zugang-Zugriff]] <----
 
 ---
 = [[Rohstoff]], [[Quelle]], [[Mittel]]

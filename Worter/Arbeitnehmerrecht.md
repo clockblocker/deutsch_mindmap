@@ -17,7 +17,7 @@ employee rights, labor law
 [[Arbeitnehmer]], [[Recht]], [[arbeitsrechtlich]]
 
 ---
-[[Arbeit]]|[[nehmer]]|[[recht]]
+[[Worter/A/Arbeit]]|[[nehmer]]|[[recht]]
 [[Arbeitnehmerrecht]]
 
 

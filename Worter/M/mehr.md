@@ -1,3 +1,4 @@
+---> 📈 [[Grad-Vergleich]] <---
 [[Weniger]] ist das Gegenteil von [[mehr]]
 ANNA: Noch [[mehr]] Sport.  
 

@@ -1,3 +1,4 @@
+---> 📈 [[Grad-Vergleich]] <---
 [[weniger]], [ˈveːnɪɡɐ]
 [[weniger]]
 

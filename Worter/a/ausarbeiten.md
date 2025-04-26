@@ -16,10 +16,10 @@ to elaborate, to work out
 разрабатывать, прорабатывать
 
 ---
-[[Ausarbeitung]], [[ausgearbeitet]], [[ausarbeiten]], [[Arbeit]], [[arbeiten]], [[Bearbeitung]]
+[[Ausarbeitung]], [[ausgearbeitet]], [[ausarbeiten]], [[Worter/A/Arbeit]], [[arbeiten]], [[Bearbeitung]]
 
 ---
-[[aus]]|[[arbeit]]|[[ung]]
+[[aus]]|[[Worter/A/Arbeit]]|[[ung]]
 [[Ausarbeitung]]
 
 

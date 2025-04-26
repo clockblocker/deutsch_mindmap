@@ -1,3 +1,5 @@
+---> 🧱[[Grad-Gewicht]] <---
+
 [[wichtig]]
 nicht [[unbedeutend]]
 

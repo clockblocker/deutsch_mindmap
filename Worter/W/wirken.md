@@ -29,4 +29,4 @@ Partizip I: [[wirkend]], Partizip II: [[gewirkt]]
 
 
 - [[Wirk]][[en]], [[aussehen]], [[spinnen]]
-, [[Auswirkung]], [[bemüht]], [[bestreben]], [[auswirken]], [[Auswirkung]]
+, [[Auswirkung]], [[bemüht]], [[bestreben]], [[auswirken]], [[Auswirkung]], [[Wirkung]]

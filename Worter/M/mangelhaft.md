@@ -1,6 +1,5 @@
 👎 [[mangelhaft]], [ˈmaŋəlhaft](https://youglish.com/pronounce/mangelhaft/german)
-
-----> [[viel-wenig]] <----
+---> 🧮 [[Grad-Quantität]] <---
 
 ---
 *Der Zugang zu Strom ist für Studierende oft eingeschränkt: Zahlreiche Räume sind

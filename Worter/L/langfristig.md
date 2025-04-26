@@ -1,6 +1,6 @@
+---> ⏱️ [[Temporal-Perspektive]] <---
 ⏳ [[langfristig]], [ˈlaŋˌfʁɪstɪç](https://youglish.com/pronounce/langfristig/german)
 
----> [[0 Temporal-Freunde]] <---
 
 ---
 > *[[Atom#^29|^]]* *Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.* ^29

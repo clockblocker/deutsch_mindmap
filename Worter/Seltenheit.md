@@ -1,3 +1,5 @@
+---> ⏱️ [[Temporal-Frequenz]] <---
+
 💎 🔴 die [[Seltenheit]], [ˈzɛltn̩haɪ̯t](https://youglish.com/pronounce/Seltenheit/german)
 
 ---

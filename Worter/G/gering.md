@@ -1,7 +1,5 @@
+---> 💥 [[Grad-Intensität]] <---
 🐭 [[gering]], [ɡəˈʁɪŋə] ≠ [[groß]]
-
-----> [[viel-wenig]] <----
-
 
 ---
 Diese Arbeiter bekommen nur [[gering]] [[Löhne]].

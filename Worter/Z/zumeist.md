@@ -1,4 +1,5 @@
----> [[Temporal-Frequenz]] <---
+---> ⏱️ [[Temporal-Template]] <---
+---> ⏱️ [[Temporal-Frequenz]] <---
 
 
 , [[meist]], [[hauptsächlich]]

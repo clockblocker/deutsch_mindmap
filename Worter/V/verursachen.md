@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 💥 [[verursachen]], [fɛɐ̯ˈʔuʁzaχn̩] | [[verursachte]], haben [[verursacht]]
 
 ---

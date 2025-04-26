@@ -1,6 +1,9 @@
 ehemalige, [eˈheːmalɪɡə]
 nicht [[aktuell]]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 Sie wurde gemeinsam von Historikern und [[ehemaligen]] DDR-Bürgern zusammengestellt.
 

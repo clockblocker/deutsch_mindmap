@@ -1,5 +1,7 @@
 🕗 [[heut]], [hɔʏ̯t]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
 ---
 Sie wird [[heut]] Nacht nicht untergehen  
 Und die Welt zählt laut bis zehn

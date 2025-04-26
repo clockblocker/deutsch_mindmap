@@ -1,5 +1,3 @@
-, [[Menge]]
-, [[viel]], [[Unmenge]]
 🔢 🔴 die [[Vielzahl]], [ˈfiːlˌt͡saːl]
 die [[Vielzahlen]]
 
@@ -27,3 +25,6 @@ N: die [[Vielzahl]], die [[Vielzahlen]]
 A: die [[Vielzahl]], die [[Vielzahlen]]
 G: der [[Vielzahl]], der [[Vielzahlen]]
 D: der [[Vielzahl]], den [[Vielzahlen]]
+
+
+#Feminin 

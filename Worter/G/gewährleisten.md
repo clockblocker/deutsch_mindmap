@@ -1,3 +1,5 @@
+---> [[Ingredient-Risiko-Schutz-Verben]] <---
+---> [[Ingredient-Verben-Bedürfnis]] <---
 ✅ [[gewährleisten]], [ɡəˈvɛːɐ̯ˌlaɪ̯stn̩](https://youglish.com/pronounce/gewährleisten/german) | [[gewährleistete]], haben [[gewährleistet]]
 
 ---

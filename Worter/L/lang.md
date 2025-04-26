@@ -1,3 +1,5 @@
+---> ⏱️ [[Temporal-Dauerhaft]] <---
+
 📏 [[lang]], [laŋ] ≠ [[kurz]]
 
 ---

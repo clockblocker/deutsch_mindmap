@@ -1,3 +1,6 @@
+---> 📊 [[Grad-Verteilung]] <---
+---> 🧩 [[Grad-Wahrheit]] <---
+
 recht, [ˈʁɛçt]
 nicht [[falsch]]
 

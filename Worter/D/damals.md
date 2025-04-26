@@ -1,5 +1,7 @@
 🕰️ [[damals]], [ˈdaːmals]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
 
 ---
 Das erste Mal, dass ich diesen Menschen gesehen habe, war vor vier Jahren. [[Damals]] kannte ich ihn noch nicht [[14 perfekt#^17|(q)]]

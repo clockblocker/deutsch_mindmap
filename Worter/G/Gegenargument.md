@@ -1,1 +1,1 @@
-, [[Einwand]]
+, [[Einwand]], [[Argument]]

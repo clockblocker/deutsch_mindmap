@@ -25,3 +25,6 @@ N: der [[Aufsteiger]], die [[Aufsteiger]]
 A: den [[Aufsteiger]], die [[Aufsteiger]]
 G: des [[Aufsteigers]], der [[Aufsteiger]]
 D: dem [[Aufsteiger]], den [[Aufsteigern]]
+
+
+#Maskulin 

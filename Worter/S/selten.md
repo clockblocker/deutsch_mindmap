@@ -1,3 +1,4 @@
+---> ⏱️ [[Temporal-Template]] <---
 selten, [ˈzɛltn̩]
 nicht [[häufig]]
 

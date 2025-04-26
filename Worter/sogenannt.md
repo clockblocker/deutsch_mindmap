@@ -1,3 +1,4 @@
+---> 🧩 [[Grad-Wahrheit]] <---
 🏷️ [[sogenannt]], [ˈzoːɡəˌnant] ≠ [[wirklich]]
 
 ---

@@ -1,2 +1,3 @@
+---> 🧩 [[Grad-Ganzheit]] <---
 , [[ungefähr]]
 , [[nah]]

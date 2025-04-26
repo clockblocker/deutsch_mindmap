@@ -1,3 +1,7 @@
+---> 📊 [[Grad-Verteilung]] <---
+---> 🧩 [[Grad-Ganzheit]] <---
+---> 🧮 [[Grad-Quantität]] <---
+
 🧩 [[teilweise]], [ˈtaɪ̯lvaɪ̯zə](https://youglish.com/pronounce/teilweise/german)
 
 ---

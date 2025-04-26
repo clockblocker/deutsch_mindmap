@@ -1,7 +1,8 @@
+---> [[Ingredient-Result-Verb]] <---
+---> [[Management-Coordination-Allocation]] <---
+---> [[Ingredient-erlauben-verbieten]] <---
+
 🔓 [[ermöglichen]], [ɛɐ̯ˈmøːɡlɪçən] | [[ermöglichte]], haben [[ermöglicht]]
-
-------- > [[erlauben-verbieten]] <----------
-
 
 ---
 - Erläutern Sie, warum viele Unternehmen Homeoffice [[ermöglichen]].  

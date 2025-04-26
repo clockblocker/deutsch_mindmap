@@ -1,1 +1,2 @@
-, [[wichtig]], [[egal]], [[angelegen]]
+---> 🧱[[Grad-Gewicht]] <---
+

@@ -1,6 +1,7 @@
 [[wirken|Wirk]][[lich]]
-[[wirklicher]]  
-am [[wirklichsten]]
+
+---> 🧩 [[Grad-Wahrheit]] <---
+
 
 ---
 Er geht in die Bücherei und wohnt in einem Museum! [[wirklich]]! Hihi!

@@ -1,3 +1,4 @@
+---> [[Ingredient-Verben-Bedürfnis]] <---
 📝 [[Verlangen]] + Akk/Gen, [fɛɐ̯ˈlaŋɡən] | das [[Verlangen]]
 [[verlangte]]
 haben [[verlangt]]

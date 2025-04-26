@@ -1,3 +1,4 @@
+---> 🧩 [[Grad-Ganzheit]] <---
 🏺 [[übrig]], [ˈyːbʁɪç] ≠ [[vollständig]]
 
 ---

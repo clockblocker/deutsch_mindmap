@@ -1,7 +1,6 @@
+---> [[Ingredient-erlauben-verbieten]] <---
+
 🤝 [[erlauben]], [ɛɐ̯ˈlaʊ̯bən] | [[erlaubte]], haben [[erlaubt]]
-
-------- > [[erlauben-verbieten]] <----------
-
 
 ---
 96. Wie kann jemand, der den Holocaust [[leugnet]], [[bestraft]] werden? (100%)

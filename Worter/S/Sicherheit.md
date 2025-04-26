@@ -1,3 +1,5 @@
+---> [[Ingredient-Risiko-Schutz-Nomen]] <---
+
 🔴 die [[Sicherheit]], [ˈzɪçɐhaɪt]
 die [[Sicherheiten]]
 
@@ -24,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sicherheit]], [[Sicherheiten]]
 
 ---
-#Substantiv #Feminin, [[Verkehrstote]], [[Risiko]], [[Versicherung]], [[Gefahr]], [[Verteidigungspolitik]], [[Pfand]], [[Krise]], [[Zweifel]], [[Notfallschutz]], [[Energiesicherheit]], [[Bedrohung]], [[Datenschutz]], [[sichern]], [[unsicher]]
+#Substantiv #Feminin, [[Verkehrstote]], [[Risiko]], [[Versicherung]], [[Gefahr]], [[Verteidigungspolitik]], [[Pfand]], [[Krise]], [[Zweifel]], [[Notfallschutz]], [[Energiesicherheit]], [[Bedrohung]], [[Datenschutz]], [[sichern]], [[unsicher]], [[Garantie]]

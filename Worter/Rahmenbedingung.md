@@ -1,3 +1,4 @@
+---> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
 🧱 🔴 die [[Rahmenbedingung]], [ˈʁaːmənbəˌdɪŋʊŋ](https://youglish.com/pronounce/Rahmenbedingung/german)
 die [[Rahmenbedingungen]]
 

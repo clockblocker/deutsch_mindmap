@@ -14,10 +14,10 @@ work concept, working concept
 концепция работы
 
 ---
-[[konzeptionell]], [[konzipieren]], [[Arbeit]], [[Konzept]]
+[[konzeptionell]], [[konzipieren]], [[Worter/A/Arbeit]], [[Konzept]]
 
 ---
-[[Arbeit]]|`s`|[[konzept]]
+[[Worter/A/Arbeit]]|`s`|[[konzept]]
 [[Arbeitskonzept]]
 
 

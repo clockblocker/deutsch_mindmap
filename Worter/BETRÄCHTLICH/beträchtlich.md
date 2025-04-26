@@ -1,7 +1,7 @@
+---> 💥 [[Grad-Intensität]] <---
 📈 [[beträchtlich]], [bəˈtʁɛçtlɪç](https://youglish.com/pronounce/beträchtlich/german)
 
 ---
-----> [[viel-wenig]] <----
 
 ---
 = [[erheblich]], [[bedeutend]], [[wesentlich]]

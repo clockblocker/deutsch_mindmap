@@ -1,3 +1,4 @@
+---> 🧩 [[Grad-Ganzheit]] <---
 gesamt, [gəˈzamt]
 nicht [[teilweise]]
 

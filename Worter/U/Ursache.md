@@ -18,4 +18,4 @@ Morphems:
 [[Ur]][[Sache]]
 
 ---
-#Substantiv #Feminin, [[Hauptursache]], [[verursachen]], [[Hauptgrund]], [[Auswirkung]], [[Konsequenz]]
+#Substantiv #Feminin, [[Hauptursache]], [[verursachen]], [[Hauptgrund]], [[Auswirkung]], [[Konsequenz]], [[Wirkung]]

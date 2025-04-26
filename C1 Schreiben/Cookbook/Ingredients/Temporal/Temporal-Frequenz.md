@@ -1,4 +1,5 @@
----> [[Temporal-Frequenz]] <---
+[[0 Temporal-Freunde]]
+---> ⏱️ [[Temporal-Frequenz]] <---
 #### 🟢 [[immer]] 
 1) [[stets]] *(formal immer)*
 	- 
@@ -11,10 +12,10 @@
 #### 🟡 [[oft]] 
 1) [[regelmäßig]] *(regularly)*
 	- 
-2) [[häufig]] / [[häufiger]] *(frequently)*
-	- 
-3) [[ständig]] *(constantly; unbroken)*
-	- 
+2) ❤️ [[häufig]] / [[häufiger]] / [[Häufigkeit]] *(frequently)*
+	- Meine [[häufigen]] Gespräche würden nicht nur die Konzentration der sechs Kolleg:innen stören, sondern auch das Risiko bergen, dass sensible Informationen von unbeteiligten Mitarbeitenden mitgehört werden [[002-C1-Schreiben-T2#^5|^]]
+3) ❤️ [[ständig]] *(constantly; unbroken)*
+	- Als Projektmanager nehme ich [[ständig]] an virtuellen Meetings mit externen Partnern teil[[002-C1-Schreiben-T2#^4|^]]
 4) [[dauernd]] *(continually; with breaks)*
 	- 
 5) [[wiederholt]] *(repeatedly)*
@@ -41,7 +42,7 @@
 7) [[allwöchentlich]] / [[allmonatlich]] / [[alljährlich]] *(every week / month / year)
 	- 
 #### 🔵 [[selten]] 
-1) [[nur selten]] *(only rarely)*
+1) [[nur selten]] / [[Seltenheit]] *(only rarely)*
 	- 
 2) [[kaum]] *(hardly)*
 	- 

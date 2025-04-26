@@ -1,2 +1,3 @@
-, [[wichtig]]
-, [[überwiegend]], [[weitgehend]], [[Verringerung]], [[signifikant]]
+---> 💥 [[Grad-Intensität]] <---
+---> 🧱[[Grad-Gewicht]] <---
+

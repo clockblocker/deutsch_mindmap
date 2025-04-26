@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 🙅 [[verzichten]], [fɛɐ̯ˈt͡sɪçtn̩] | [[verzichtete]], haben [[verzichtete]]
 
 ---

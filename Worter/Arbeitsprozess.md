@@ -14,10 +14,10 @@ work process
 рабочий процесс
 
 ---
-[[arbeiten]], [[Prozess]], [[Arbeit]]
+[[arbeiten]], [[Prozess]], [[Worter/A/Arbeit]]
 
 ---
-[[Arbeit]]|`s`|[[prozess]]
+[[Worter/A/Arbeit]]|`s`|[[prozess]]
 [[Arbeitsprozess]]
 
 

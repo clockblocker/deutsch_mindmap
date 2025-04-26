@@ -1,6 +1,9 @@
 📏 [[abgrenzen]], [ˈapˌɡʁɛnʦn̩](https://youglish.com/pronounce/abgrenzen/german) → [[grenzte ab]] → haben [[abgegrenzt]]
 
 ---
+*[[002-C1-Schreiben-T2#^6|^]]* Aus diesem Grund benötige ich einen [[ruhigen]], [[abgegrenzten]] Arbeitsplatz, der vertrauliche Gespräche ermöglicht. ^6
+
+
 *[[01-C1-Schreiben-T2-M#^6|^]]* Wenn die neuen [[Räumlichkeiten]] kein [[separates]] Büro [[anbieten]] können, schlage ich vor, eine [[leichte]] [[Modulwand]] zu errichten, um sowohl mich, als auch meine Kollegin im [[Einkaufsbereich]] Frau Schneider [[abzugrenzen]]. ^6
 
 

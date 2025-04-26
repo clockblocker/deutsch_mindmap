@@ -1,4 +1,5 @@
-, [[Menge]]
+---> 🧮 [[Grad-Quantität]] <---
+
 🤯 🔴 die [[Unmenge]], [ˈʊnˌmɛŋə]
 die [[Unmengen]]
 

@@ -1,3 +1,5 @@
+---> [[Ingredient-Verben-Bedürfnis]] <---
+
  [[nötig]], [ˈnøːtɪç]
 nicht [[unnötig]]
 

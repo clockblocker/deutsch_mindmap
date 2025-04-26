@@ -1,3 +1,4 @@
+---> 📈 [[Grad-Vergleich]] <---
 [[gleich]], [ɡlaɪ̯ç]  nicht [[unterschiedlich]]
 = immediately = [[wie]]
 

@@ -1,3 +1,5 @@
+---> 📊 [[Grad-Verteilung]] <---
+---> 🧩 [[Grad-Ganzheit]] <---
 💯 [[vollständig]], [ˈfɔlˌʃtɛndɪç](https://youglish.com/pronounce/vollständig/german) ≠ [[unvollständig]]
 
 ---

@@ -1,1 +1,2 @@
-[[jeden]][[ganz]][[Worter/A/Alle]], [[völlig]], [[halbes]], [[voll]], [[gesamt]], [[Sektor]], [[stück]], [[sämtlich]], [[insgesamt]], [[übrig]], [[teilweise]]
+---> 🧩 [[Grad-Ganzheit]] <---
+[[jeden]][[ganz]], [[völlig]], [[halbes]], [[voll]], [[gesamt]], [[Sektor]], [[stück]], [[sämtlich]], [[insgesamt]], [[übrig]], [[teilweise]]

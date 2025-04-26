@@ -1,5 +1,6 @@
-
 ✅ [[eindeutig]], [ˈaɪ̯ndɔɪ̯tɪç]
+---> 🧩 [[Grad-Wahrheit]] <---
+
 
 ---
 Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - [[eindeutig]] ja".

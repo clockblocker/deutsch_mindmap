@@ -1,4 +1,4 @@
-----> [[viel-wenig]] <----
+---> 🧮 [[Grad-Quantität]] <---
 
 
 ➕ [[viel]], [fiːl] | [[Artikelwörter]] 

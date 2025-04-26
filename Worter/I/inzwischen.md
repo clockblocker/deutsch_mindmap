@@ -1,5 +1,8 @@
 🕰️ inzwischen, [ɪntˈsvaɪ̯ʃn̩] = [[bereits]]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 [[Inzwischen]] haben sie sich an die neue Schule [[gewöhnt]].
 

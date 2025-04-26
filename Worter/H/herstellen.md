@@ -1,3 +1,6 @@
+---> [[Ingredient-Result-Verb]] <---
+
+
 🏭 [[herstellen]], [ˈheːɐ̯ʃtɛlən] | [[herstellte]], haben [[hergestellt]]
 
 ---

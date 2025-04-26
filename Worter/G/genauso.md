@@ -1,3 +1,4 @@
+---> 📈 [[Grad-Vergleich]] <---
 ↔️ [[genauso]], [geˈnaʊ̯zoː]
 
 ---

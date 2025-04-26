@@ -1,2 +1,3 @@
+---> 💥 [[Grad-Intensität]] <---
 , [[übermächtig]]
 , [[überwiegend]]

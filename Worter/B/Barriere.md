@@ -1,1 +1,1 @@
-, [[Schranke]], [[Zaun]], [[Hürde]], [[Gegenwind]], [[Hindernis]]
+, [[Schranke]], [[Zaun]], [[Hürde]], [[Gegenwind]], [[Hindernis]], [[barrierefrei]]

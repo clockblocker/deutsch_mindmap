@@ -1,3 +1,4 @@
+---> 🧱[[Grad-Gewicht]] <---
 🔏 [[unentbehrlich]], [ʊnɛntˈbeːɐ̯lɪç]
 nicht [[entbehrlich]]
 

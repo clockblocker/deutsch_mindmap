@@ -23,4 +23,4 @@ G: der [[Behauptungen]], der [[Behauptung]]
 D: der [[Behauptungen]], den [[Behauptung]]  
 
 ---
-[[behaupten]], [[behaupteterweise]], [[unbegründet]], [[unbehauptet]], [[Meinungsäußerung]]
+[[behaupten]], [[behaupteterweise]], [[unbegründet]], [[unbehauptet]], [[Meinungsäußerung]], [[Argument]]

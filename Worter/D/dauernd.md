@@ -1,6 +1,7 @@
-🕰️ [[dauernd]], [ˈdaʊ̯ɐnd]
+---> ⏱️ [[Temporal-Template]] <---
+---> ⏱️ [[Temporal-Frequenz]] <---
 
----> [[Temporal-Frequenz]] <---
+🕰️ [[dauernd]], [ˈdaʊ̯ɐnd]
 
 ---
 MARIA: Ja! Wir sprechen dauernd miteinander – sie ist mir eine echte Freundin.  

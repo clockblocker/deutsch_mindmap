@@ -1,3 +1,4 @@
+---> [[Ingredient-Einhaltung]] <---
 🤝 [[respektieren]], [ʁɛspɛkˈtiːʁən] | [[respektierte]], haben [[respektiert]]
 
 ---

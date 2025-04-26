@@ -1,3 +1,5 @@
+---> [[Management-Coordination-Allocation]] <---
+---> [[Ingredient-Pflege]] <---
 🏛️ [[verwalten]], [fɛɐ̯ˈvaltən] | [[verwaltete]], haben [[verwaltet]]
 
 ---

@@ -1,5 +1,9 @@
+---> 🧩 [[Grad-Ganzheit]] <---
 ganz, [ɡants]
 nicht [[halb]], [[teilweise]], [[partiell]]
+
+---> [[Grad-Verstärker-Mod]] <---
+
 
 ---
 - NIC: Mensch relax! Das ist doch [[ganz]] einfach.

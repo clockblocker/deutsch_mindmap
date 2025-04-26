@@ -1,4 +1,5 @@
----> [[Temporal-Frequenz]] <---
+---> ⏱️ [[Temporal-Template]] <---
+---> ⏱️ [[Temporal-Frequenz]] <---
 
 
 , [[Öfteren]], [[häufig]], [[Worter/W/Wiederholung]], [[einmalig]], [[wiederholen]], [[mehrmals]]

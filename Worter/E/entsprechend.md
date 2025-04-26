@@ -1,5 +1,7 @@
 ➡️ [[entsprechend]], [ɛntˈʃpʁɛçn̩t]  |  [[entsprechen]]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
 ---
 [[Entsprechend]] unserem [[Vorschlag]] 
 

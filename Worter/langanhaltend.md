@@ -1,5 +1,5 @@
----> [[Temporal-Dauerhaft]] <---
-
+---> ⏱️ [[Temporal-Perspektive]] <---
+---> ⏱️ [[Temporal-Dauerhaft]] <---
 
 ⏳ [[langanhaltend]], [laŋˈʔanhaːltn̩t](https://youglish.com/pronounce/langanhaltend/german)
 

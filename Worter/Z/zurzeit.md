@@ -1,5 +1,7 @@
 ⏰ zurzeit, [tsuɐ̯ˈtsaɪ̯t]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
 ---
 Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein Geschäft läuft [[zurzeit]] nicht gut und sein Konto ist fast leer. 
 

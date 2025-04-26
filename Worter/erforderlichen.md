@@ -1,2 +1,3 @@
 
 ✅ [[erfordern]] | ✅ [[erforderlich]]
+, [[Mehrheit]]

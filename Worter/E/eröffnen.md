@@ -1,3 +1,4 @@
+---> [[Management-Coordination-Allocation]] <---
 🚪 [[eröffnen]], [ˈʔɛʁˌʔœfnən] | [[eröffnete]], haben [[eröffnet]]
 
 ---

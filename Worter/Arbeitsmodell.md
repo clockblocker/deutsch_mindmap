@@ -16,10 +16,10 @@ work model
 модель работы
 
 ---
-[[Arbeit]], [[Modell]]
+[[Worter/A/Arbeit]], [[Modell]]
 
 ---
-[[Arbeit]]|`s`|[[modell]]
+[[Worter/A/Arbeit]]|`s`|[[modell]]
 [[Arbeitsmodell]]
 
 
@@ -30,4 +30,4 @@ G: des [[Arbeitsmodells]], der [[Arbeitsmodelle]]
 D: dem [[Arbeitsmodell]], den [[Arbeitsmodellen]]
 
 
-#Neuter 
+#Neuter , [[Server]]

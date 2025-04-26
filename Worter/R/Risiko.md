@@ -1,7 +1,11 @@
+---> [[Ingredient-Risiko-Schutz-Nomen]] <---
+
 das [[Risiko]], [ˈʁɪzɪko]
 die [[Risiken]]
 
 ---
+*[[002-C1-Schreiben-T2#^5|^]]* Meine [[häufigen]] Gespräche würden nicht nur die Konzentration der sechs Kolleg:innen stören, sondern auch das [[Risiko]] [[bergen]], dass [[sensible]] Informationen von [[unbeteiligten]] Mitarbeitenden [[mitgehört]] werden.
+
 - [ ] größer ist das [[Risiko]], eine Koalition bilden zu müssen.
 
 
@@ -28,4 +32,4 @@ D: dem [[Risiko]], den [[Risiken]]
 , [[Risiko]], [[eigentlich]], [[Schutz]], [[Geburtsvorbereitung]]
 , [[Versicherung]], [[Lebensversicherung]], [[Pfand]], [[Erfolgsfaktor]], [[Notfallschutz]], [[risikoreich]], [[aufs Spiel setzen]]
 
-#Neuter 
+#Neuter , [[Garantie]]

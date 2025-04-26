@@ -1,1 +1,2 @@
 🟢 das [[Abonnement]] 📰
+, [[Mehrheit]]

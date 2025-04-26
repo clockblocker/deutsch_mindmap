@@ -1,3 +1,4 @@
+---> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
 🔴 die [[Erwartung]], [ˈʔɛɐ̯ˌvɑʁtʊŋ]
 die [[Erwartungen]]
 
@@ -28,3 +29,5 @@ Dative: der [[Erwartung]], den [[Erwartungen]]
 
 , [[Hoffnung]], [[entgegenfiebern]]
 , [[Anspruch]], [[Neugier]], [[Befürchtung]], [[Ausblick]]
+
+#Feminin 

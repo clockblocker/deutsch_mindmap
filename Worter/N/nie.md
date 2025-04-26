@@ -1,7 +1,7 @@
+---> ⏱️ [[Temporal-Template]] <---
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
 🙅 [[nie]], [niː]
-
----> [[Temporal-Frequenz]] <---
-
 
 ---
 Ich vergesse nie etwas!

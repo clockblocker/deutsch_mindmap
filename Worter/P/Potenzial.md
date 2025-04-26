@@ -1,1 +1,1 @@
-, [[Begabung]]
+, [[Begabung]], [[Kapazität]]

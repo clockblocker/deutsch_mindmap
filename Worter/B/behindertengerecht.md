@@ -1,1 +1,1 @@
-, [[Behinderung]]
+, [[Behinderung]], [[barrierefrei]]

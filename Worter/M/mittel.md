@@ -1,3 +1,4 @@
+---> 💥 [[Grad-Intensität]] <---
 [[mittel]], [ˈmɪtl̩]
 nicht [[groß]], nicht [[klein]]
 

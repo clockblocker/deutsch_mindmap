@@ -1,8 +1,12 @@
 🤷‍♀️ egal, [ˈeːɡal]
 
+---> 🧱[[Grad-Gewicht]] <---
+
+
 ---
 ANNA: Das ist ein … ein ... ach, ist [[egal]] …  
 NIC: [[egal]] … Komm … das müssen wir feiern!  
+
 
 *Der Jüngling steigt den Berg mit Qual*  
 *Die Aussicht ist ihm sehr [[egal]]*  

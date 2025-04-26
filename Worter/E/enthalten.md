@@ -1,3 +1,4 @@
+---> [[Ingredient-Risiko-Schutz-Verben]] <---
 🍽️ [[enthalten]], [ɛntˈhaltən] | [[enthielt]], haben [[enthalten]]
 
 ---

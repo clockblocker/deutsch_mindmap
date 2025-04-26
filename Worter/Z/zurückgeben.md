@@ -1,1 +1,1 @@
-[[stehlen]], [[leihen]], [[rauben]], [[kaufen]], [[erhalten]], [[erwidern]], [[umtauschen]], [[entlehnen]], [[ausleihen]], [[wiederschicken]]
+[[stehlen]], [[leihen]], [[rauben]], [[kaufen]], [[erhalten]], [[erwidern]], [[umtauschen]], [[entlehnen]], [[ausleihen]], [[wiederschicken]], [[borgen]]

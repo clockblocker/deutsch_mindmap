@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🌱 [[wachsen]], [ˈvaksn̩] | [[wuchs]], [[sein gewachsen]]
 
 ---

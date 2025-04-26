@@ -25,3 +25,6 @@ N: die [[Wettbewerbsgesellschaft]], die [[Wettbewerbsgesellschaften]]
 A: die [[Wettbewerbsgesellschaft]], die [[Wettbewerbsgesellschaften]]
 G: der [[Wettbewerbsgesellschaft]], der [[Wettbewerbsgesellschaften]]
 D: der [[Wettbewerbsgesellschaft]], den [[Wettbewerbsgesellschaften]]
+
+
+#Feminin 

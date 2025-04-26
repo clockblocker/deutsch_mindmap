@@ -3,6 +3,9 @@
 haben [[abgehangen]]
 
 ---
+„Zugang zu Hochschulen darf nicht vom [[Einkommen]] [[abhängen]].“
+
+
 Weil ihre [[Ehre]] nicht davon [[abhing]], dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
 
 Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist [[mutig]] und hat [[weder]] Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]]. 

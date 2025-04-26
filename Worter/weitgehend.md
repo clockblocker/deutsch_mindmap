@@ -1,3 +1,5 @@
+---> 📊 [[Grad-Verteilung]] <---
+---> 🧩 [[Grad-Ganzheit]] <---
 ↔️ [[weitgehend]], [ˈvaɪ̯tˌɡeːənt](https://youglish.com/pronounce/weitgehend/german)
 
 ---

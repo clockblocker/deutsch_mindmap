@@ -1,5 +1,8 @@
 💎 [[unschätzbar]], [ˈʊnʃɛt͡sbaːɐ̯](https://youglish.com/pronounce/unschätzbar/german)
 
+---> 🧱[[Grad-Gewicht]] <---
+
+
 ---
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^12|^]]* So kann der [[effiziente]] [[Einsatz]] digitaler [[Technologie]]n [[optimal]] mit dem [[unschätzbaren]] [[Wert]] [[zwischenmenschlicher]] [[Kontakte]] [[verbunden]] werden. ^12
 

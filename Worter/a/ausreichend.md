@@ -1,10 +1,8 @@
+---> 🧮 [[Grad-Quantität]] <---
 👍 [[ausreichend]], [ˈaʊ̯sˌʁaɪ̯çənt](https://youglish.com/pronounce/ausreichend/german)
 
-----> [[viel-wenig]] <----
-
-
 ---
-[[Zugang-Zugriff#^2|^]] Der [[Zugang]] `zu` Strom ist für Studierende oft [[eingeschränkt]]: In vielen Räumen der Universität gibt es nicht [[ausreichend]] [[Steckdose]]n, was das Arbeiten mit Laptops erheblich [[erschwert]]. ^2
+[[Ingredient-Zugang-Zugriff#^2|^]] Der [[Zugang]] `zu` Strom ist für Studierende oft [[eingeschränkt]]: In vielen Räumen der Universität gibt es nicht [[ausreichend]] [[Steckdose]]n, was das Arbeiten mit Laptops erheblich [[erschwert]]. ^2
 
 
 ---

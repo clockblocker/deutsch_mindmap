@@ -1,4 +1,6 @@
 🗣️ [[ausdrücklich]], [ˈaʊ̯sˌdʁʏklɪç](https://youglish.com/pronounce/ausdrücklich/german)
+---> 🧩 [[Grad-Wahrheit]] <---
+
 
 ---
 _„Die Nutzung wurde den Mitarbeitenden [ausdrücklich](app://obsidian.md/ausdr%C3%BCcklich) verboten.“_

@@ -1,3 +1,4 @@
+---> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
 🔵 der [[Anspruch]], [ˈanʃpʁʊx]
 die [[Ansprüche]]
 
@@ -30,3 +31,6 @@ D: dem [[Anspruch]], den [[Ansprüchen]]
 
 ---
 [[ansprechen]], [[anspruchsvoll]], [[beanspruchen]], [[Anspruchsdenken]], [[anspruchslos]], [[recht]], [[fordern]], [[Spruch]]
+
+
+#Maskulin 

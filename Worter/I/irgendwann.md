@@ -1,5 +1,8 @@
 🔀 [[irgendwann]], [ˈɪɐ̯gəntˌvɛn]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 Aber ich habe die Hoffnung nicht aufgegeben. Ich glaube daran, dass der Avatar [[irgendwann]] zurückkehrt und die Welt rettet.
 

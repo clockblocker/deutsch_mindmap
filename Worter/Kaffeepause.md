@@ -9,7 +9,7 @@ die [[Kaffeepausen]]
 ---
 = [[Kaffeetrinken]], [[Pause]]
 ≈ [[Ruhepause]], [[Erholung]], [[Auszeit]]
-≠ [[Arbeit]], [[Stress]]
+≠ [[Worter/A/Arbeit]], [[Stress]]
 
 ---
 coffee break  

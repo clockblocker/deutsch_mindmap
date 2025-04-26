@@ -1,5 +1,7 @@
 🗓️ [[heutzutage]], [ˈhɔɪ̯t͡səˌtaːɡə]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
 ---
 *[[4 Autofrei#^1|^]]* [[Heutzutage]] steht das Thema Autofreiheit der Innenstädte am [[Brennpunkt]] der Stadtpolitikdiskussionen [[überall]]. ^1
 

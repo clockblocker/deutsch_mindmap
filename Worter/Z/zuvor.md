@@ -1,5 +1,8 @@
 🕰️ zuvor, [tsuˈfoːɐ̯]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 Der Künstler bekam 30 allerdings von diesem Geld nichts, er hatte das Bild drei Jahre [[zuvor]] für 2000 Dollar verkauft.
 

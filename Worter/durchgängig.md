@@ -1,5 +1,6 @@
+---> ⏱️ [[Temporal-Dauerhaft]] <---
+
 ↔️ [[durchgängig]], [ˈdʊɐ̯çˌɡɛŋɪç](https://youglish.com/pronounce/durchgängig/german)
----> [[Temporal-Dauerhaft]] <---
 
 ---
 1. [[durchgängig]] effektiv

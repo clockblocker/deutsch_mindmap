@@ -1,5 +1,8 @@
 ➡️ [[ferner]], [ˈfɛʁnɐ](https://youglish.com/pronounce/ferner/german)
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 , [[sonst]], [[fern]], [[obendrein]], [[zudem]], [[Konnektivpartikeln]], [[wiederum]]
 

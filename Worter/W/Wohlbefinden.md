@@ -36,4 +36,4 @@ G: des [[Wohlbefindens]], der [[Wohlbefinden]]
 D: dem [[Wohlbefinden]], den [[Wohlbefinden]]
 
 
-#Neuter , [[Burnout]]
+#Neuter , [[Burnout]], [[Geborgenheit]]

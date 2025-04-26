@@ -1,7 +1,6 @@
+---> [[Ingredient-erlauben-verbieten]] <---
+
 🤫 [[vorenthalten]], [foːɐ̯ˈʔɛnthaltn̩](https://youglish.com/pronounce/vorenthalten/german) → [[enthielt vor]] → [[vorenthalten]]
-
-------- > [[erlauben-verbieten]] <----------
-
 
 ---
 *„Die Nutzung wird den Mitarbeitenden de facto [[vorenthalten]].“*

@@ -1,5 +1,8 @@
 🔑 [[ausschlaggebend]], [ˈaʊ̯sʃlaːkˌɡeːbn̩t](https://youglish.com/pronounce/ausschlaggebend/german)
 
+---> 🧱[[Grad-Gewicht]] <---
+
+
 ---
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^7|^]]* _Da spielt die_ [[Beherrschung]] _der_ [[Landessprache]] _eine_ [[ausschlaggebende]] _Rolle. ^7
 

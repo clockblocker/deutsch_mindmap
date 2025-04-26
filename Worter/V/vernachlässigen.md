@@ -1,7 +1,6 @@
-[[kontrollieren]][[lernen]][[bürsten]][[behandeln]], [[recherchieren]], [[bedienen]], [[Sorgen]], [[kümmern]], [[kehren]], [[erledigen]], [[ausüben]], [[üben]], [[checken]], [[durchchecken]], [[richten]], [[beobachten]], [[vornehmen]], [[pflegen]], [[mähen]], [[absuchen]], [[verbuchen]], [[vorbereiten]], [[bereiten]], [[durchsuchen]], [[hervorheben]], [[übersehen]], [[beschützen]], [[schmücken]], [[auslesen]], [[beachten]], [[anwenden]], [[nachholen]], [[verwalten]], [[versorgen]], [[überwachen]], [[berücksichtigen]], [[vergessen]], [[untersuchen]], [[hinüberspähen]], [[betrachten]], [[betonen]]
-, [[zichten]]
-, [[aufrechterhalten]]
-, [[aufpassen]], [[forschen]], [[züchten]], [[abarbeiten]], [[designen]], [[unterhalten]]
+---> [[Ingredient-Einhaltung]] <---
+---> [[Ingredient-Pflege]] <---
+---> [[Ingredient-Verben-Bedürfnis]] <---
 
 😔 [[vernachlässigen]], [fɛɐ̯ˈnaxˌlɛsɪɡn̩](https://youglish.com/pronounce/vernachlässigen/german) → [[vernachlässigte]] → haben [[vernachlässigt]]
 

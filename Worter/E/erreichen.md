@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🎯 [[erreichen]], [ɛˈʁaɪ̯çn̩] | [[erreichte]], haben [[erreicht]]
 
 ---

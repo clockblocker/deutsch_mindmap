@@ -1,7 +1,6 @@
+---> [[Ingredient-erlauben-verbieten]] <---
+
 🙅 [[verweigern]], [fɛɐ̯ˈvaɪ̯ɡɐn](https://youglish.com/pronounce/verweigern/german) → [[verweigerte]] → [[verweigert]]
-
-------- > [[erlauben-verbieten]] <----------
-
 
 ---
 Ihm wurde die [[Zufahrt]] zum [[Gelände]] [[verweigert]]

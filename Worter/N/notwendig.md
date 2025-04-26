@@ -1,5 +1,9 @@
+---> [[Ingredient-Verben-Bedürfnis]] <---
+---> 🧱[[Grad-Gewicht]] <---
+
 notwendig, [ˈnoːtvɛndɪç]
 nicht [[unnötig]]
+
 
 ---
 Tun wir nicht manchmal Dinge, die absolut nicht [[notwendig]] sind?

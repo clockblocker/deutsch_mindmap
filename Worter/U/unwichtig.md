@@ -1,1 +1,1 @@
-[[liebsten]], [[wichtig]], [[notwendig]], [[egal]], [[angelegen]], [[bedeutend]], [[essenziell]]
+---> 🧱[[Grad-Gewicht]] <---

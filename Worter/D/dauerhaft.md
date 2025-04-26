@@ -1,8 +1,8 @@
-🕰️ [[dauerhaft]], [ˈdaʊ̯ɐhaft](https://youglish.com/pronounce/dauerhaft/german)
+---> ⏱️ [[Temporal-Template]] <---
+---> ⏱️ [[Temporal-Frequenz]] <---
+---> ⏱️ [[Temporal-Dauerhaft]] <---
 
----
----> [[Temporal-Frequenz]] <---
----> [[Temporal-Dauerhaft]] <---
+🕰️ [[dauerhaft]], [ˈdaʊ̯ɐhaft](https://youglish.com/pronounce/dauerhaft/german)
 
 ---
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1

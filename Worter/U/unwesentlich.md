@@ -1,1 +1,2 @@
-, [[überflüssig]], [[wichtig]], [[angelegen]], [[grundlegend]], [[wesentlich]]
+---> 🧱[[Grad-Gewicht]] <---
+

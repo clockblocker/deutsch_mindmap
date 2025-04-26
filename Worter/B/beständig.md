@@ -1,4 +1,5 @@
----> [[Temporal-Dauerhaft]] <---
+---> ⏱️ [[Temporal-Perspektive]] <---
+---> ⏱️ [[Temporal-Dauerhaft]] <---
 
 [[Treu]], [[geduldig]], [[standhaft]], [[unzuverlässig]], [[langfristig]], [[dauerhaft]], [[langjährig]]
 

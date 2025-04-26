@@ -1,3 +1,4 @@
+---> [[Ingredient-Risiko-Schutz-Verben]] <---
 🔵 [[drohen]] + Dat/Akk, [ˈdroːən]
 [[drohte]]  
 haben [[gedroht]]
@@ -34,4 +35,4 @@ Morpheme: [[droh]][[en]]
 | Sie       | [[drohen]]           | [[drohten]]           | [[drohen Sie]]    | [[drohen]]             | [[drohten]]             |
 
 Partizip I: [[drohend]], Partizip II: [[gedroht]]
-[[drohen]] - [[droh]] = [[en]]
+[[drohen]] - [[droh]] = [[en]], [[bevorstehen]]

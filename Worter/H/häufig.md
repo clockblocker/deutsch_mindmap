@@ -1,6 +1,6 @@
-🔁 [[häufig]], [ˈhɔɪ̯fɪç] ≠ [[selten]]
+---> ⏱️ [[Temporal-Frequenz]] <---
 
----> [[Temporal-Frequenz]] <---
+🔁 [[häufig]], [ˈhɔɪ̯fɪç] ≠ [[selten]]
 
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].

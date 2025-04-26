@@ -1,3 +1,4 @@
+---> [[Ingredient-Risiko-Schutz-Verben]] <---
 🙅 [[vermeiden]], [fɛɐ̯ˈmaɪ̯dn̩] | [[vermied]], haben [[vermieden]]
 
 ---

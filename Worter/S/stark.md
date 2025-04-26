@@ -1,7 +1,5 @@
+---> 💥 [[Grad-Intensität]] <---
 💪 [[stark]], [ʃtaʁk](https://youglish.com/pronounce/stark/german) ≠ [[schwach]]
-
-----> [[viel-wenig]] <----
-
 
 ---
 *[[Große Koalition#^1|^]]* Als **Große Koalition** (auch **große Koalition**) wird in der Regel eine Regierungskoalition der [[mandatsstärksten]] Parteien im Parlament [[bezeichnet]]. ^1

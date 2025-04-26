@@ -1,3 +1,4 @@
+---> 💥 [[Grad-Intensität]] <---
 🤩 [[gewaltig]], [ɡəˈvaltɪç]
 nicht [[klein]], [[gering]], [[unbedeutend]]
 

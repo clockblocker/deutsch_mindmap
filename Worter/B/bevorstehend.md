@@ -1,2 +1,5 @@
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 [[nächste]]
-, [[vergangen]], [[zukünftig]]
+, [[vergangen]], [[zukünftig]], [[bevorstehen]]

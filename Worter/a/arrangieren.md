@@ -1,3 +1,4 @@
+---> [[Management-Coordination-Allocation]] <---
 🎼 [[arrangieren]] + Akk, [aʁaŋˈʒiːʁən]
 [[arrangierte]]
 haben [[arrangiert]]

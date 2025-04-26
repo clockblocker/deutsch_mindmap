@@ -1,3 +1,4 @@
+---> 🧮 [[Grad-Quantität]] <---
 die [[Minderheit]], [ˈmɪndɐˌhaɪ̯t]
 die [[Minderheiten]]
 
@@ -21,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Minderheit]], [[Minderheiten]], [[Minderheit]], [[Minderheiten]], [[Minderheit]], [[Minderheiten]], [[Minderheit]], [[Minderheiten]]
 
 ---
-#Substantiv #Maskulin, [[Bevölkerung]], [[Wählermehrheit]]
+#Substantiv #Feminin , [[Bevölkerung]], [[Wählermehrheit]], [[Großteil]]

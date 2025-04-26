@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 💡 [[resultieren]], [ʁezʊlˈtiːʁən] | [[resultierte]], haben [[resultiert]]
 
 ---

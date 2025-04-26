@@ -10,7 +10,7 @@ die [[Pausen]]
 ---
 = [[Unterbrechung]], [[Ruhezeit]], [[Erholung]]
 ≈ [[Auszeit]], [[Verschnaufpause]], [[Regeneration]]
-≠ [[Arbeit]], [[Tätigkeit]], [[Beschäftigung]]
+≠ [[Worter/A/Arbeit]], [[Tätigkeit]], [[Beschäftigung]]
 
 ---
 break, pause  

@@ -1,3 +1,5 @@
+[[0 Temporal-Freunde]]
+---> ⏱️ [[Temporal-Template]] <---
 #### 🟢 [[immer]] 
 1) [[dauerhaft]] *(permanent, enduring)*
 2) [[konstant]] *(consistent)*

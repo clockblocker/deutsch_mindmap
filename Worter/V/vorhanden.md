@@ -1,7 +1,5 @@
+---> 🧮 [[Grad-Quantität]] <---
 ✅ [[vorhanden]], [foɐ̯ˈhandn̩](https://youglish.com/pronounce/vorhanden/german) ≠ [[fehlend]]
-
-----> [[viel-wenig]] <----
-
 
 ---
 Meine Naase ist mit Seife verstopft, und mein [[Riechsinn]] ist fast nicht [[vorhanden]].

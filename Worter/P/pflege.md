@@ -4,6 +4,10 @@ die [[Pflegen]]
 ---
 *[[Text mit Reflexivpronomen#^6|^]]* Nicht jeder [[hilfsbereite]] Nachbar [[eignet]] sich für diesen Freundschaftsdienst, wenn er sich mit der [[Pflege]] von Katzen nicht [[auskennt]]. ^6
 
+
+📚 [[Pflege]] / [[Betreuung]] / [[Verantwortung]] *Attention, Care, Responsibility*
+
+
 ---
 = [[Betreuung]], [[Fürsorge]], [[Versorgung]]
 ≈ [[Behandlung]], [[Unterstützung]], [[Zuwendung]], [[Obhut]],  [[Erhaltung]],  [[Erhalt]]
@@ -25,3 +29,6 @@ N: die [[Pflege]], die [[Pflegen]]
 A: die [[Pflege]], die [[Pflegen]]  
 G: der [[Pflege]], der [[Pflegen]]  
 D: der [[Pflege]], den [[Pflegen]]
+
+
+#Feminin 

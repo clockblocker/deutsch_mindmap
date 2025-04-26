@@ -1,10 +1,13 @@
+---> [[Ingredient-Zugang-Zugriff]] <---
+---> [[Ingredient-erlauben-verbieten]] <---
+
 die [[Nutzung]], [ˈnʊtsʊŋ], [[nutzen]]
 die [[Nutzungen]]
 
----> [[Zugang-Zugriff]] <---
-
 
 ---
+die [[Nutzung]] *des Parkplatzes* zu [[gewähren]]. 
+
 Der größte Zeitkiller aber ist die multimediale Nutzung unseres Smartphones, die das Fernsehen als Zeiträuber Nummer eins in den letzten Jahren abgelöst hat. 
 
 ---

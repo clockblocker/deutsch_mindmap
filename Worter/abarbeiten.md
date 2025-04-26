@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 👷 [[abarbeiten]], [ˈapʔaʁˌbaɪ̯tn̩] | [[arbeitete ab]], haben [[abgearbeitet]]
 
 ---

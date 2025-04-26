@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 😟 [[beeinträchtigen]], [bəˈʔiːntʁɛçtɪɡn̩](https://youglish.com/pronounce/beeinträchtigen/german) → [[beeinträchtigte]] → haben [[beeinträchtigt]]
 
 ---

@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 🔍 [[kontrollieren]] + Akk, [kɔntʁɔˈliːʁən]
 [[kontrollierte]]
 haben [[kontrolliert]]

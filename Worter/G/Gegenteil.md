@@ -24,4 +24,4 @@ Alle Formen:
 | Dative      | dem Gegenteil      | den Gegenteilen  |
 | Genitive    | des Gegenteils     | der Gegenteile   |
 
-, [[fern]], [[nah]]
+, [[fern]], [[nah]], [[Argument]]

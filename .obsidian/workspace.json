@@ -4,212 +4,171 @@
     "type": "split",
     "children": [
       {
-        "id": "56c287249fac5517",
+        "id": "6b3fbf544adf8b27",
         "type": "tabs",
-        "dimension": 59.52170062001771,
         "children": [
           {
-            "id": "241eba3912575464",
+            "id": "f2c3710af91abbe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/008-C1-Schreiben-T2.md",
+                "file": "C1 Schreiben/Cookbook/Format/Teil-2/Format-Teil-2-Komplaint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008-C1-Schreiben-T2"
+              "title": "Format-Teil-2-Komplaint"
             }
           },
           {
-            "id": "bc3e6030a2ac9683",
+            "id": "d50f370405702692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Cookbook/Ingredients/Temporal/Temporal-Zeitpunkt.md",
+                "file": "C1 Schreiben/Cookbook/Format/Teil-2/Format-Teil-2-Komplaint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temporal-Zeitpunkt"
+              "title": "Format-Teil-2-Komplaint"
             }
           },
           {
-            "id": "357e3414b795811a",
+            "id": "e99f43c188e01d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Cookbook/Ingredients/erlauben-verbieten.md",
+                "file": "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Kopf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "erlauben-verbieten"
+              "title": "Section-Teil-2-Kopf"
             }
           },
           {
-            "id": "112705ab900e3534",
+            "id": "30b41d6fef6741cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Cookbook/Ingredients/viel-wenig.md",
+                "file": "C1 Schreiben/Cookbook/Format/Teil-2/Format-Teil-2-Komplaint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "viel-wenig"
+              "title": "Format-Teil-2-Komplaint"
             }
           },
           {
-            "id": "132892cddd13f776",
+            "id": "0cc93e8e9ecef8a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Freude-Ausserung.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Section-Teil-2-Freude-Ausserung"
+            }
+          },
+          {
+            "id": "146fb8f52d197a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Cookbook/Format/Teil-2/Format-Teil-2-Komplaint.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Format-Teil-2-Komplaint"
+            }
+          },
+          {
+            "id": "c2ed80691133c644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Cookbook/Kochbuch-Rezepte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kochbuch-Rezepte"
+            }
+          },
+          {
+            "id": "867cb8bd7d6d0dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Entschuldigung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section-Teil-2-Entschuldigung"
+            }
+          },
+          {
+            "id": "999d19135c2f3a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Cookbook/Format/Teil-2/Format-Teil-2-Komplaint.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Format-Teil-2-Komplaint"
+            }
+          },
+          {
+            "id": "e99bd4d0a418b89d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Akzeptable-Bedunungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section-Teil-2-Akzeptable-Bedunungen"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
-        "id": "fc3d7e98ed14d24e",
+        "id": "5116daa0308c9ef6",
         "type": "tabs",
-        "dimension": 40.47829937998229,
         "children": [
           {
-            "id": "6e3b84cd27c58aff",
+            "id": "37c8f5d6edadcfa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Cookbook/Ingredients/Temporal/0 Temporal-Freunde.md",
+                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/003-C1-Schreiben-T2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 Temporal-Freunde"
-            }
-          },
-          {
-            "id": "87ee493fdcce6c36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Cookbook/Ingredients/Temporal/0 Temporal-Freunde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 Temporal-Freunde"
-            }
-          },
-          {
-            "id": "b35cb41694c5282d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/S/ständig.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ständig"
-            }
-          },
-          {
-            "id": "2ae5e62c905f8630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/D/dauerhaft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dauerhaft"
-            }
-          },
-          {
-            "id": "4fa42d3f46765d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Cookbook/Ingredients/Temporal/0 Temporal-Freunde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 Temporal-Freunde"
-            }
-          },
-          {
-            "id": "d54f316e76d57288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/H/häufig.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "häufig"
-            }
-          },
-          {
-            "id": "ec44e973b673027a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Cookbook/Ingredients/Temporal/Temporal-Dauerhaft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Temporal-Dauerhaft"
-            }
-          },
-          {
-            "id": "3c5c70f584e3bd6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/K/kurz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kurz"
-            }
-          },
-          {
-            "id": "bbba34788382febb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Cookbook/Ingredients/Temporal/Temporal-Dauerhaft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Temporal-Dauerhaft"
+              "title": "003-C1-Schreiben-T2"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stable; steady",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5039024353027
+    "width": 390.5026054382324
   },
   "right": {
     "id": "5551a767f2afb90d",
@@ -361,44 +320,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbba34788382febb",
+  "active": "d5c66a8525949b3a",
   "lastOpenFiles": [
-    "C1 Schreiben/Cookbook/Ingredients/Temporal/Temporal-Zeitpunkt.md",
-    "Worter/kontextabhängig.md",
-    "C1 Schreiben/Cookbook/Ingredients/Temporal/0 Temporal-Freunde.md",
-    "C1 Schreiben/Cookbook/Ingredients/Temporal/Temporal-Dauerhaft.md",
-    "Worter/G/Gastdozent.md",
-    "Worter/F/flüchtig.md",
-    "Worter/INSTABIL/instabil.md",
-    "Worter/V/vergänglich.md",
-    "Worter/nicht dauerhaft.md",
-    "Worter/PUNKTUELL/punktuell.md",
-    "Worter/in diesem Moment.md",
-    "Worter/M/momentan.md",
-    "Worter/E/einmalig.md",
-    "Worter/K/kurzfristig.md",
-    "Worter/K/kurz.md",
-    "Worter/S/speziellen.md",
-    "Worter/kurzzeitig.md",
-    "Worter/H/häufig.md",
-    "Worter/LANGANHALTENDSTEM/langanhaltendstem.md",
-    "Worter/LANGANHALTENDSTEM",
-    "Worter/LANGANHALTENDSTEN/langanhaltendsten.md",
-    "Worter/LANGANHALTENDSTEN",
-    "Worter/LANGANHALTENDSTE/langanhaltendste.md",
-    "Worter/LANGANHALTENDSTE",
-    "Worter/LANGANHALTENDSTES/langanhaltendstes.md",
-    "Worter/LANGANHALTENDSTES",
-    "Worter/LANGANHALTENDSTER/langanhaltendster.md",
-    "Worter/LANGANHALTENDSTER",
-    "Worter/LANGANHALTENDEREM/langanhaltenderem.md",
-    "Worter/LANGANHALTENDEREM",
-    "Worter/LANGANHALTENDEREN/langanhaltenderen.md",
-    "Worter/LANGANHALTENDEREN",
-    "Worter/LANGANHALTENDERE/langanhaltendere.md",
-    "Worter/LANGANHALTENDERE",
-    "Worter/LANGANHALTENDERES",
-    "Worter/LANGANHALTENDERER",
+    "C1 Schreiben/Cookbook/Kitchen.md",
+    "C1 Schreiben/Cookbook/Kochbuch-Rezepte.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Arbeit.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Behinderung.md",
+    "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Probleme.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Burnout.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Datenschutz.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Homeoffice.md",
+    "C1 Schreiben/Cookbook/Location/Location-Uni.md",
+    "C1 Schreiben/Cookbook/Location/Location-Arbeit.md",
+    "C1 Schreiben/Cookbook/Location/Location-Behörden.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Zeitdruck.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Ruhe.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-KI.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Online-Meetings.md",
+    "Worter/A/Argument.md",
+    "C1 Schreiben/Cookbook/Untitled.md",
+    "C1 Schreiben/Cookbook/Format/Teil-2/Format-Teil-2-Komplaint.md",
+    "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Akzeptable-Bedunungen.md",
+    "Worter/gewähren.md",
+    "Worter/N/Nutzung.md",
+    "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Ursache.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Rollstuhl.md",
+    "C1 Schreiben/Cookbook/Themen/0 Themen.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/007-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/008-C1-Schreiben-T2.md",
+    "C1 Schreiben/Cookbook/Format/Sections/Teil-2",
+    "C1 Schreiben/Cookbook/Format/Sections/Teil-1",
+    "C1 Schreiben/Cookbook/Format/Teil-2",
+    "C1 Schreiben/Cookbook/Format/Sections",
+    "C1 Schreiben/Cookbook/Format/Teil-1",
+    "C1 Schreiben/Cookbook/Format",
+    "C1 Schreiben/Cookbook/Location",
+    "Worter/GEBORGENHEITEN",
+    "Worter/GEBORGEN",
+    "Worter/VERLASSENHEIT",
     "Anhänge/Pasted Image 20250418092802_863.png",
     "Anhänge/Pasted Image 20250418073845_878.png",
     "Anhänge/Pasted Image 20250418071644_618.png",

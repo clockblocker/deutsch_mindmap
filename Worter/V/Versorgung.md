@@ -1,7 +1,7 @@
+---> [[Ingredient-Zugang-Zugriff]] <---
+
 🔴 die [[Versorgung]], [fɛɐ̯ˈzɔʁgʊŋ] |  [[versorgen]]
 die [[Versorgungen]]
-
----> [[Zugang-Zugriff]] <---
 
 ---
 Ich muss mich auch noch um die [[Versorgung]] meiner Katze kümmern.

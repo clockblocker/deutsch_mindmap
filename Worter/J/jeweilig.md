@@ -1,5 +1,8 @@
 🗓️ [[jeweilig]], [ˈjeːˌvaɪ̯lɪç]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]].
 

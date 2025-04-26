@@ -1,6 +1,9 @@
 früh, [ˈfʀyː]
 nicht [[spät]]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 [[Frühstück]]
 

@@ -1,3 +1,5 @@
+---> [[Ingredient-Risiko-Schutz-Nomen]] <---
+
 🔴 die [[Angst]], [ˈaŋkst], die [[Ängste]]
 [[vor]] dem ... haben Angst 
 
@@ -26,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Angst]], [[Ängste]], [[Angsts]], [[Ängsten]], [[Angstgefühl]], [[Angstzustände]]
 
 ---
-#Substantiv #Feminin, [[ängstlich]], [[s1 e1]], [[Bedrohung]]
+#Substantiv #Feminin, [[ängstlich]], [[s1 e1]], [[Bedrohung]], [[Geborgenheit]]

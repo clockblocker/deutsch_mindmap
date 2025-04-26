@@ -29,3 +29,6 @@ D: dem [[Wettbewerb]], den [[Wettbewerben]]
 
 ---
 [[wettbewerbsfähig]], [[wettbewerbslos]], [[wettbewerbsorientiert]], [[Wettbewerbsrecht]], [[konkurrieren]], [[anregen]], [[Mitbewerber]], [[Wettbewerbsgesellschaft]]
+
+
+#Maskulin 

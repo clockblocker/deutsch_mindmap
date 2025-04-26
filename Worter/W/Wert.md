@@ -40,4 +40,4 @@ D: dem [[Wert]], den [[Werten]]
 , [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]], [[Betrag]]
 
 
-#Maskulin , [[Stellenwert]], [[Selbstwert]], [[wertschätzen]], [[Kurs]]
+#Maskulin , [[Stellenwert]], [[Selbstwert]], [[wertschätzen]], [[Kurs]], [[wertlos]]

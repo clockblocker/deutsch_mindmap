@@ -1,6 +1,6 @@
 🔢 [[mehrmals]], [ˈmeːɐ̯ˌmaːls](https://youglish.com/pronounce/mehrmals/german)
 
----> [[Temporal-Frequenz]] <---
+---> ⏱️ [[Temporal-Frequenz]] <---
 
 
 ---

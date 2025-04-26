@@ -1,1 +1,2 @@
----> [[Temporal-Dauerhaft]] <---
+---> ⏱️ [[Temporal-Perspektive]] <---
+---> ⏱️ [[Temporal-Dauerhaft]] <---

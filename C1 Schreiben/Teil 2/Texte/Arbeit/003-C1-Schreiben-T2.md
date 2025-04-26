@@ -21,7 +21,7 @@ Allerdings ist es durch den neuen Arbeitsplatz im Büro deutlich enger geworden.
 
 Wenn kein größeres Büro angeboten werden kann, schlage ich vor, dem Team die Möglichkeit zu geben, bis zu zwei Tagen pro Woche im Homeoffice zu arbeiten.
 
-Auf eine Antwort von Ihnen freue ich mich.
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
 Mit freundlichen Grüßen
 Denis Popov

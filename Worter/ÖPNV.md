@@ -3,6 +3,9 @@
 ---
 *[[08-C1-Schreiben-T2-M#^15|^]]* Der [[ÖPNV]] bietet hier keine gute [[Verbindung]] an. ^15
 
+🚌 [[öffentlichen Nahverkehr]]
+
+
 
 ---
 = [[öffentlicher Personennahverkehr]]

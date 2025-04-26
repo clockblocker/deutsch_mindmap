@@ -1,1 +1,1 @@
-, [[Wertschätzung]]
+, [[Wertschätzung]], [[wertlos]]

@@ -1,2 +1,2 @@
 , [[öffentlich]], [[erreichbar]]
-, [[verfügbar]], [[zugucken]], [[Zugang]]
+, [[verfügbar]], [[zugucken]], [[Zugang]], [[barrierefrei]]

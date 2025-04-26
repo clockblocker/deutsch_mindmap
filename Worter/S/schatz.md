@@ -1,2 +1,2 @@
 
-, [[Sprachschatz]]
+, [[Sprachschatz]], [[Wortschatz]]

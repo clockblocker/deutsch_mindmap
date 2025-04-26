@@ -22,4 +22,4 @@ Accusative: den [[Rechner]], die [[Rechner]]
 Genitive: des [[Rechners]], der [[Rechner]]  
 Dative: dem [[Rechner]], den [[Rechnern]] 
 
-rechnen, rechnerisch, elektronisch
+rechnen, rechnerisch, elektronisch, [[Server]]

@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Worter/S/Sprache]], [[Sprachen]], [[Worter/S/Sp
 
 ---
 #Substantiv #Feminin, [[Sprachunterricht]], [[schriftsprachlich]]
-, [[Sprachschatz]], [[Behördensprache]], [[Dolmetscher]], [[Muttersprachler]], [[Amtssprache]], [[Zielsprache]], [[Landessprache]]
+, [[Sprachschatz]], [[Behördensprache]], [[Dolmetscher]], [[Muttersprachler]], [[Amtssprache]], [[Zielsprache]], [[Landessprache]], [[Wortschatz]]

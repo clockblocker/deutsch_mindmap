@@ -1,1 +1,1 @@
-, [[gezwungen]], [[Zwang]], [[Sachzwang]]
+, [[gezwungen]], [[Zwang]], [[Sachzwang]], [[Bedrängnis]]

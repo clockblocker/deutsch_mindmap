@@ -1,3 +1,4 @@
+---> 📊 [[Grad-Verteilung]] <---
 🚫 [[ausschließlich]], [ˈaʊ̯sˌʃliːslɪç]
 
 ---

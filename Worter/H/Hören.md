@@ -29,4 +29,4 @@ PI: [[hörend]], PII: [[gehört]], Zu+inf: [[zu hören]]
 [[hören]] / to hear, to listen
 
 ---
-[[Hören]], [[Hörer]], [[Hörerin]], [[hörbar]], [[Hörgerät]], [[Zuhörer]]
+[[Hören]], [[Hörer]], [[Hörerin]], [[hörbar]], [[Hörgerät]], [[Zuhörer]], [[mithören]]

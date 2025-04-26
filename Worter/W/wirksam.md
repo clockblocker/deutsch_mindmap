@@ -1,1 +1,1 @@
-, [[gültig]], [[Auswirkung]], [[effizient]]
+, [[gültig]], [[Auswirkung]], [[effizient]], [[Wirkung]]

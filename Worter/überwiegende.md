@@ -1,2 +1,3 @@
 
 ⚖️ [[überwiegen]] | ⚖️ [[überwiegend]]
+, [[Mehrheit]]

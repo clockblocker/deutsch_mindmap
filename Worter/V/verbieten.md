@@ -1,9 +1,8 @@
+---> [[Ingredient-erlauben-verbieten]] <---
+
 🚫 [[verbieten]] + Dat, Akk, [fɛɐ̯ˈbiːtn̩]
 [[verbot|verbot]]
 haben [[verboten]]
-
-------- > [[erlauben-verbieten]] <----------
-
 
 ---
 *Sie drohen mit den Pfoten:*  

@@ -27,3 +27,7 @@ A: die [[Wirkung]], die [[Wirkungen]]
 G: der [[Wirkung]], der [[Wirkungen]]  
 D: der [[Wirkung]], den [[Wirkungen]]
 , [[auswirken]]
+
+
+
+#Feminin 

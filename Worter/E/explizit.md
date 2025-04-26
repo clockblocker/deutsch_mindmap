@@ -1,1 +1,2 @@
+---> 🧩 [[Grad-Wahrheit]] <---
 , [[ungefragt]], [[ausdrücklich]]

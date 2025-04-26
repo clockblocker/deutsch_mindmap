@@ -1,4 +1,6 @@
 🌟 [[gewiss]], [ɡəˈvɪs]
+---> 🧩 [[Grad-Wahrheit]] <---
+
 
 ---
 Hast du nicht eine [[gewisse]] Sache vergessen?

@@ -1,1 +1,4 @@
-, [[bedienen]], [[achten]], [[ziemen]], [[pflegen]], [[übersehen]], [[befinden]], [[respektieren]], [[beachten]], [[übertreten]], [[mustern]], [[ehren]], [[übersetzen]], [[entsprechen]], [[einhalten]], [[bewerten]], [[beeinflussen]]
+---> [[Ingredient-Einhaltung]] <---
+---> [[Ingredient-Pflege]] <---
+---> [[Ingredient-Verben-Bedürfnis]] <---
+, [[befolgen]]

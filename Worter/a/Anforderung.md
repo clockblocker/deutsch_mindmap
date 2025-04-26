@@ -1,3 +1,5 @@
+---> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
+
 🔴 ⚙️ die [[Anforderung]], [ˈanfoːrdərʊŋ]
 die [[Anforderungen]]
 
@@ -25,3 +27,5 @@ D: der [[Anforderung]], den [[Anforderungen]]
 ---
 [[anfordern]], [[Anforderer]], [[Anforderin]], [[anfordernd]], [[anforderbar]]
 , [[Bedürfnis]], [[Grundvoraussetzung]], [[Aufgabenstellung]], [[Anliegen]], [[Beantragung]], [[Sachzwang]]
+
+#Feminin 

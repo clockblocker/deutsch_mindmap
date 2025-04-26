@@ -1,2 +1,4 @@
-Du bist [[total]] reich[[ganz]], [[völlig]], [[gesamt]], [[ziemlich]], [[insgesamt]]
-, [[Worter/A/Alle]], [[teilweise]]
+---> 🧩 [[Grad-Ganzheit]] <---
+Du bist [[total]] reich
+
+[[ganz]], [[völlig]], [[gesamt]], [[ziemlich]], [[insgesamt]], [[teilweise]]

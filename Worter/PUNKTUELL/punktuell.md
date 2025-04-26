@@ -1,4 +1,3 @@
----> [[Temporal-Dauerhaft]] <---
----> [[Temporal-Dauerhaft]] <---
+---> ⏱️ [[Temporal-Dauerhaft]] <---
 
 , [[stellenweise]]

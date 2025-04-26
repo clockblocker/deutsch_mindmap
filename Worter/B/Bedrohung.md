@@ -1,4 +1,3 @@
-, [[Risiko]], [[Schutz]], [[Gefahr]]
 ⚠️ 🔴 die [[Bedrohung]], [bəˈdʁoːʊ̯ʊŋ](https://youglish.com/pronounce/Bedrohung/german)
 
 ---

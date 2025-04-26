@@ -14,7 +14,7 @@ in einen Burnout münden.
 ---
 = [[Muße]], [[Erholung]], [[Entspannung]]
 ≈ [[Urlaub]], [[Ferien]], [[Freiheit]]
-≠ [[Arbeit]], [[Pflicht]], [[Beschäftigung]]
+≠ [[Worter/A/Arbeit]], [[Pflicht]], [[Beschäftigung]]
 
 ---
 leisure time, free time  

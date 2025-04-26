@@ -1,3 +1,4 @@
+---> 📊 [[Grad-Verteilung]] <---
 👍 [[überwiegend]], [ˈyːbɐˌviːɡn̩t] ≠ [[untergeordnet]]
 
 ---

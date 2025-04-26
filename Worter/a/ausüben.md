@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 🏋️ [[ausüben]] + auf + Akk, [ˈaʊ̯sˌʔyːbən]
 [[übte aus|übte aus]]
 haben [[ausgeübt]]

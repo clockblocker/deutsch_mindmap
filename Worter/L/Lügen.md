@@ -1,3 +1,4 @@
+---> 🧩 [[Grad-Wahrheit]] <---
 😡 [[Lügen]]
 [[log]]
 haben [[gelogen]]

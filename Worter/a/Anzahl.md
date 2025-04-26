@@ -1,3 +1,4 @@
+---> 🧮 [[Grad-Quantität]] <---
 🔵 der [[Anzahl]], [ˈantsa:l]
 die [[Anzahlen]]
 

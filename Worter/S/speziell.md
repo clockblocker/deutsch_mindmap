@@ -1,4 +1,6 @@
 😤 [[speziellen]], [ʃpɛtsi̯ˈʔɛln̩], ≠ [[allgemein]]
+---> 🧩 [[Grad-Wahrheit]] <---
+
 
 ---
 [[besonders]], [[speziellen]], [[grundsätzlich]], [[allgemein]]

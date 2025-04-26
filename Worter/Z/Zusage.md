@@ -1,1 +1,1 @@
-, [[sagen]], [[Einwilligung]], [[Verpflichtung]]
+, [[sagen]], [[Einwilligung]], [[Verpflichtung]], [[Garantie]]

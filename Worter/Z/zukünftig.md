@@ -1,5 +1,8 @@
 🔮 [[zukünftig]], [ˈt͡suːˌkʏnftɪç] ≠ [[vergangen]]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 [[1 Wer bin ich und was mache ich hier?#^3|(q)]] Nach meinem Umzug nach Moskau lernte ich in einer speziellen App, die über Bekannte [[verbreitet]] wurde, meine [[zukünftige]] Frau kennen. Wir begannen, zusammenzuleben. ^3
 

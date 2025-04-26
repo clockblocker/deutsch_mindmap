@@ -1,5 +1,8 @@
 🕰️ [[heutig]], [ˈhɔɪ̯tɪç] ≠ [[veraltet]]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 197. Welches [[heutige]] deutsche Bundesland gehörte früher zum [[Gebiet]] der DDR? (87%)
 	- [x] Thüringen

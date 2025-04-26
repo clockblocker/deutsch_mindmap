@@ -1,3 +1,4 @@
+---> [[Management-Coordination-Allocation]] <---
 💁 [[überlassen]], [ˈyːbɐlasn̩] | [[überließ]], haben [[überlassen]]
 
 ---
@@ -26,4 +27,4 @@ PI: [[überlassend]], PII: [[überlassen]], Zu+inf: [[zu überlassen]]
 [[überlassen]] - [[Worter/Ü/über]] = [[lassen]] / to leave, to entrust, to hand over
 
 ---
-[[Überlassung]], [[Überlasser]], [[Überlasserin]], [[überlässlich]], [[Überlassungsvertrag]], [[widmen]]
+[[Überlassung]], [[Überlasser]], [[Überlasserin]], [[überlässlich]], [[Überlassungsvertrag]], [[widmen]], [[borgen]]

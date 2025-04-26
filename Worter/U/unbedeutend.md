@@ -1,1 +1,3 @@
-, [[hervorragend]], [[gering]], [[aussagekräftig]], [[entscheidend]], [[bedeutend]], [[erheblich]], [[richtungsgebend]], [[signifikant]], [[beträchtlich]]
+---> 🧱[[Grad-Gewicht]] <---
+
+

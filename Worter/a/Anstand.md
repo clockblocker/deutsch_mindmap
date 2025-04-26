@@ -3,6 +3,7 @@
 ---
 [[2 Unter Druck nach oben#^14|(q)]] [[Integrität]], Respekt und [[Anstand]] sind [[grundlegend]] für die Zusammenarbeit, meint Adolf Michael Picard vom Otto-Versand. ^14
 
+
 ---
 = [[Manieren]], [[Höflichkeit]], [[Taktgefühl]]
 ≈ [[Respekt]], [[Ethik]], [[Moral]], [[Anständigkeit]], [[Verantwortungsbewusstsein]]

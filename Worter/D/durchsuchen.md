@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 🕵️ [[durchsuchen]] | [[durchsuchte]], haben [[durchsucht]]
 
 ---

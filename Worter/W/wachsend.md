@@ -1,3 +1,4 @@
+---> 📈 [[Grad-Vergleich]] <---
 wachsend, [ˈvaksənt]
 nicht [[stagnierend]]
 

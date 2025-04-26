@@ -1,3 +1,4 @@
+---> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
 🤝 🔴 die [[Bedingung]], [bəˈdɪŋʊŋ](https://youglish.com/pronounce/Bedingung/german)
 die [[Bedingungen]]
 

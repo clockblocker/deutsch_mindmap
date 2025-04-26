@@ -26,4 +26,4 @@ N: [[schlechtes]], [[schlechteres]], [[schlechtestes]]
 P: [[schlechten]], [[schlechteren]], [[schlechtesten]]  
 
 ---
-[[verschlechtern]], [[Schlechtigkeit]], [[schlechtmachen]], [[schlimmsten]], [[Schlecht]], [[herrlich]], [[Gebrauch]], [[Produktrezension]], [[fies]]
+[[verschlechtern]], [[Schlechtigkeit]], [[schlechtmachen]], [[schlimmsten]], [[Schlecht]], [[herrlich]], [[Gebrauch]], [[Produktrezension]], [[fies]], [[wertlos]]

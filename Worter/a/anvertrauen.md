@@ -1,2 +1,2 @@
 , [[überlassen]]
-, [[vertrauen]]
+, [[vertrauen]], [[borgen]]

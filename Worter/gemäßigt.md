@@ -1,7 +1,9 @@
+---> 💥 [[Grad-Intensität]] <---
 😌 [[gemäßigt]], [ɡəˈmɛːsɪçt](https://youglish.com/pronounce/gemäßigt/german) ≠ [[unmäßig]]
 
 ---
 *[[Golfstorm#^4|^]]* Die sogenannte Atlantische meridionale [[Umwälzzirkulation]] (AMOC) sorgt in Nordeuropa für ein [[gemäßigtes]] Klima, könnte [[künftig]] aber schwächer [[ausfallen]]. ^4
+
 
 ---
 = [[moderat]], [[mäßig]], [[besonnen]]

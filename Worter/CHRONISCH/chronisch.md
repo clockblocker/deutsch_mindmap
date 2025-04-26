@@ -1,7 +1,6 @@
+---> ⏱️ [[Temporal-Dauerhaft]] <---
+
 🤕 [[chronisch]], [ˈkʁoːnɪʃ](https://youglish.com/pronounce/chronisch/german)
-
----> [[Temporal-Dauerhaft]] <---
-
 
 ---
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1

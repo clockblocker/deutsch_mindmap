@@ -1,2 +1,2 @@
-, [[hauptsächlich]]
-, [[überwiegend]], [[vorrangig]]
+---> 🧱[[Grad-Gewicht]] <---
+

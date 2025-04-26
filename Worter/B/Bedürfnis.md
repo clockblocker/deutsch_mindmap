@@ -1,3 +1,4 @@
+---> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
 ❤️ 🟢 das [[Bedürfnis]], [bəˈdʏɐ̯fnɪs](https://youglish.com/pronounce/Bedürfnis/german)
 die [[Bedürfnisse]]
 

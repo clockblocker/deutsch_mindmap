@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🛠️ [[erstellen]], [ɛɐ̯ˈʃtɛlən] | [[erstellte]], haben [[erstellt]]
 
 ---

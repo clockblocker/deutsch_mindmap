@@ -1,2 +1,2 @@
 
-, [[Mehrheit]], [[Zubehör]]
+, [[Mehrheit]], [[Zubehör]], [[Großteil]]

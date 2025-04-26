@@ -1,1 +1,4 @@
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 , [[vergangen]], [[damalige]]

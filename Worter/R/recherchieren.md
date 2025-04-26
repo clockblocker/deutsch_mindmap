@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 🔍 [[recherchieren]], [ʀɛʃɛrˈʃiːʀən]
 [[recherchierte]]
 haben [[recherchiert]]

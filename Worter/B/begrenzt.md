@@ -1,8 +1,8 @@
+---> 🧮 [[Grad-Quantität]] <---
+---> 🧩 [[Grad-Ganzheit]] <---
+
 🔒 [[begrenzt]] [bəˈɡʁɛnts] | 🔒 [[begrenzen]] 
 nicht [[unbegrenzt]]
-
-----> [[viel-wenig]] <----
-
 
 ---
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)

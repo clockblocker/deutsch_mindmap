@@ -1,2 +1,2 @@
 , [[Kraft]], [[Fähig]], [[Begabung]], [[Talent]]
-, [[Durchhaltevermögen]], [[Beherrschung]], [[Kompetenz]]
+, [[Durchhaltevermögen]], [[Beherrschung]], [[Kompetenz]], [[Kapazität]]

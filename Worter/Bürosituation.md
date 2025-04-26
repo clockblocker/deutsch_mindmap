@@ -2,7 +2,7 @@
 die [[Bürosituationen]]
 
 ---
-*Dennoch* *wirkt sich* die neue [[Bürosituation]] *erheblich auf* meine [[Arbeit]] *aus*.
+*Dennoch* *wirkt sich* die neue [[Bürosituation]] *erheblich auf* meine [[Worter/A/Arbeit]] *aus*.
 
 ---
 = [[Büroumgebung]], [[Arbeitssituation im Büro]]
@@ -14,7 +14,7 @@ office situation
 офисная ситуация
 
 ---
-[[Büro]], [[Situation]], [[Arbeit]], [[Arbeitsplatz]]
+[[Büro]], [[Situation]], [[Worter/A/Arbeit]], [[Arbeitsplatz]]
 
 ---
 [[Büro]]|`s`|[[situation]]

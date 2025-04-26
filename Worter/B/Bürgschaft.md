@@ -1,1 +1,1 @@
-, [[Pfand]]
+, [[Pfand]], [[Garantie]]

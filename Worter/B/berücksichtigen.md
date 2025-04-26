@@ -1,3 +1,4 @@
+---> [[Ingredient-Einhaltung]] <---
 🤔 [[berücksichtigen]], [bəˈʁʏksɪçtɪgən] | [[berücksichtigte]], haben [[berücksichtigt]]
 
 ---

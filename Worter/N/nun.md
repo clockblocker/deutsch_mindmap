@@ -1,5 +1,8 @@
 ⏱️ [[nun]], [nʊn]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 *Ins Bett muß Friedrich [[nun]] hinein,*  
 *litt vielen Schmerz an seinem Bein;*  

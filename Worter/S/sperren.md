@@ -1,10 +1,11 @@
-🔒 [[sperren]], [ˈʃpɛʁən](https://youglish.com/pronounce/sperren/german) → [[sperrte]] → [[gesperrt]]
+---> [[Ingredient-erlauben-verbieten]] <---
 
-------- > [[erlauben-verbieten]] <----------
+🔒 [[sperren]], [ˈʃpɛʁən](https://youglish.com/pronounce/sperren/german) → [[sperrte]] → [[gesperrt]]
 
 ---
 *„Der Parkplatz ist [[derzeit]] [[gesperrt]].“*
 
+„Der [[Zugriff]] auf die Daten wurde [[gesperrt]].“  
 
 ---
 = [[blockieren]], [[verriegeln]], [[schließen]], [[dammen]]

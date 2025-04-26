@@ -20,10 +20,10 @@ reconstruction work, remodeling
 ремонтные работы, перестройка
 
 ---
-[[umbauen]], [[Umbau]], [[Arbeit]]
+[[umbauen]], [[Umbau]], [[Worter/A/Arbeit]]
 
 ---
-[[Um]]|[[Bau]]|[[arbeit]]
+[[Um]]|[[Bau]]|[[Worter/A/Arbeit]]
 [[Um]] + [[Bauarbeit]]
 
 
@@ -47,10 +47,10 @@ reconstruction work, remodeling
 ремонтные работы, перестройка
 
 ---
-[[umbauen]], [[Umbau]], [[Arbeit]]
+[[umbauen]], [[Umbau]], [[Worter/A/Arbeit]]
 
 ---
-[[Um]]|[[Bau]]|[[arbeit]]
+[[Um]]|[[Bau]]|[[Worter/A/Arbeit]]
 [[Um]] + [[Bauarbeit]]
 
 

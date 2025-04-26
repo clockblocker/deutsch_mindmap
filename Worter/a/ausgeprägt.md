@@ -1,1 +1,2 @@
+---> 💥 [[Grad-Intensität]] <---
 , [[stark]], [[erheblich]]

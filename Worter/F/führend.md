@@ -1,1 +1,4 @@
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 , [[führen]], [[regierend]]

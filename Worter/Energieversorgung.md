@@ -1,6 +1,6 @@
 💡 🔴 die [[Energieversorgung]], [ɛnɐˈʁiːfɛɐ̯ˌzɔʁɡʊŋ](https://youglish.com/pronounce/Energieversorgung/german)
 
----> [[Zugang-Zugriff]] <---
+---> [[Ingredient-Zugang-Zugriff]] <---
 
 ---
 

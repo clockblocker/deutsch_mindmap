@@ -1,3 +1,4 @@
+---> [[Ingredient-Pflege]] <---
 🕵️ [[beobachten]] + Akk, [bəˈʔoːbaxtən]
 [[beobachtete]]
 haben [[beobachtet]]

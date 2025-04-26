@@ -1,7 +1,11 @@
+---> 💥 [[Grad-Intensität]] <---
 ⬆️ [[erheblich]], [ɛɐ̯ˈheːplɪç](https://youglish.com/pronounce/erheblich/german)
 
 ---
 erheblich schwierig ist
+
+*[[002-C1-Schreiben-T2#^3|^]]* Dennoch wirkt sich die neue Bürosituation [[erheblich]] auf meine Arbeit aus. ^3
+
 
 > _Das Verhalten hatte_ **_erhebliche_** _Konsequenzen_
 

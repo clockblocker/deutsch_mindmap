@@ -1,5 +1,8 @@
 🕰️ [[vorher]], [ˈfoːɐ̯heːɐ̯](https://youglish.com/pronounce/vorher/german)
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 SASCHA: Aber [[vorher]] gehen wir aus!  
 

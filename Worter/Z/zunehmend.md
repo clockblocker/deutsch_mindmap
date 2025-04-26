@@ -1,3 +1,4 @@
+---> 📈 [[Grad-Vergleich]] <---
 📈 [[zunehmend]], [ˈtsuːˌneːmənt]
 
 ---

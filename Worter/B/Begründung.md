@@ -24,4 +24,4 @@ G: der [[Begründung]], der [[Begründungen]]
 D: der [[Begründung]], den [[Begründungen]]  
 
 ---
-[[begründen]], [[unbegründet]], [[Grund]], [[gründlich]], [[begründbar]]
+[[begründen]], [[unbegründet]], [[Grund]], [[gründlich]], [[begründbar]], [[Argument]]

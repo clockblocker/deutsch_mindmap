@@ -1,4 +1,6 @@
 🌈 [[besonders]], [bəˈzɔndɐs]
+---> 🧩 [[Grad-Wahrheit]] <---
+
 
 ---
 Sie haben ein [[besonderes]] Haus, das Energie spart.

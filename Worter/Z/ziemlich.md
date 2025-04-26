@@ -1,5 +1,9 @@
+---> 📊 [[Grad-Verteilung]] <---
+---> 🧩 [[Grad-Wahrheit]] <---
+
 ziemlich, [ˈtsiːmlɪç]
 nicht [[völlig]], nicht [[ganz]]
+
 
 ---
 Für andere kann das [[ziemlich]] nervig sein.

@@ -1,5 +1,8 @@
 🔗 [[folgend]], [ˈfɔlgənt]
 
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+
 ---
 1. Welche der [[folgend]] [[Auflistungen]] [[enthält]] nur Bundesländer, die zum [[Gebiet]] der [[früheren]] DDR gehörten? (86%)
 

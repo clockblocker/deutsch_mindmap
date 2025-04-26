@@ -3,6 +3,7 @@
 ---
 [[2 Unter Druck nach oben#^5|(q)]] Fest steht nur eins: Sie [[Worter/T/Taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
 
+
 ---
 = [[universell]], [[allgemein verbindlich]], [[gültig]]
 ≈ [[anerkannt]], [[akzeptiert]], [[objektiv]], [[fundiert]]

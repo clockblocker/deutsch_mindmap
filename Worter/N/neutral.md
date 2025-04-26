@@ -1,1 +1,1 @@
-, [[sachlich]], [[politisch]]
+, [[sachlich]], [[politisch]], [[unbeteiligt]]
