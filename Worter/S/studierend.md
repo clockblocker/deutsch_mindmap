@@ -1,1 +1,1 @@
-, [[studieren]]
+, [[studieren]], [[Studierendenwohnheim]], [[Studierendenwerk]]

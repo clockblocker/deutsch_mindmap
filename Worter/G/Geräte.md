@@ -1,1 +1,1 @@
-, [[Gerät]], [[Zubehör]]
+, [[Gerät]], [[Zubehör]], [[Bürotechnik]]

@@ -33,4 +33,4 @@ PI: [[veröffentlichend]], PII: [[veröffentlicht]], Zu+inf: [[zu veröffentlich
 ---
 [[Veröffentlichung]], [[Publikation]], [[Herausgabe]], [[Verbreitung]], [[öffentlich]]
 , [[öffentlich]]
-, [[kundtun]], [[aussenden]]
+, [[kundtun]], [[aussenden]], [[ankündigen]]

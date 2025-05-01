@@ -1,1 +1,1 @@
-, [[Garantiebestimmung]]
+, [[Garantiebestimmung]], [[existieren]]

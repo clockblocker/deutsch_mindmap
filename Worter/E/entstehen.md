@@ -4,6 +4,8 @@
 [[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
 
 
+- Nennen Sie Probleme, die durch die Schließung [[entstehen]] könnten.
+
 *[[03-C1-Schreiben-T2-M#^9|^]]* Leider ist durch den zusätzlichen Schreibtisch in unserem [[Großraumbüro]] ein Platzproblem [[entstanden]]. ^9
 
 

@@ -28,4 +28,4 @@ A: die [[Kompetenz]], die [[Kompetenzen]]
 G: der [[Kompetenz]], der [[Kompetenzen]]
 D: der [[Kompetenz]], den [[Kompetenzen]]
 
-#Feminin 
+#Feminin , [[Zuständigkeit]]

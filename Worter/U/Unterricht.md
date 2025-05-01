@@ -24,4 +24,4 @@ Alle Formen:
 | Dative      | dem Unterricht        | den Unterrichten      |
 | Genitive    | des Unterrichts       | der Unterrichte       |, [[Erzie­hung]], [[Religionsunterricht]], [[Geschichtsunterricht]], [[Politikunterricht]], [[Sprachunterricht]], [[Blockflötenunterricht]], [[Erlernung]], [[lehren]]
 , [[Unterlage]]
-, [[Schularbeit]], [[Lehrkraft]]
+, [[Schularbeit]], [[Lehrkraft]], [[Schulung]]

@@ -1,4 +1,5 @@
 #Schreiben/C1/T2 #Arbeit #Kommunikationsmangel #FehlendeWeiterbildung
+#Schreiben/C1/T2 #Arbeit #Kommunikationsmangel #FehlendeWeiterbildung
 #Leadership/Intransparenz #Development/Karriere #Karriere/Beförderung
 
 Nach Ihrem letzten Jahresgespräch wurde Ihnen eine mögliche Beförderung in Aussicht gestellt, jedoch haben Sie seither nichts mehr dazu gehört. Schreiben Sie eine E-Mail an Ihre Vorgesetzte Frau Walter.

@@ -29,4 +29,4 @@ G: des [[Bauarbeiters]], der [[Bauarbeiter]]
 D: dem [[Bauarbeiter]], den [[Bauarbeitern]]
 
 
-#Maskulin 
+#Maskulin , [[Bauarbeit]]

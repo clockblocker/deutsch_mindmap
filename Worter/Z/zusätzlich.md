@@ -45,4 +45,4 @@ P: [[zusätzlichen]], [[zusätzlicheren]], [[zusätzlichsten]]
 [[zusätzlichkeit]], [[hinzufügen]], [[ergänzen]], [[supplementieren]]
 
 [[sonst]], [[nebenbei]], [[obendrein]], [[zudem]]
-, [[sonstig]], [[ferner]]
+, [[sonstig]], [[ferner]], [[weiterhin]]

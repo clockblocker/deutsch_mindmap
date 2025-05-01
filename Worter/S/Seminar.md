@@ -1,1 +1,1 @@
-, [[Vorlesung]], [[Kurs]]
+, [[Vorlesung]], [[Kurs]], [[Schulung]], [[Blockveranstaltung]]

@@ -28,4 +28,4 @@ A: die [[Betriebskosten]]
 G: der [[Betriebskosten]]
 D: den [[Betriebskosten]]
 
-#Plural 
+#Plural , [[betrieblich]]

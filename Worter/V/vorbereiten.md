@@ -2,6 +2,8 @@
 🏃‍♂️[[vorbereiten]] | [[bereitete vor|bereitete vor]], haben [[vorbereitet]]
 
 ---
+![[006-C1-Schreiben-T2#^5|^]] 
+
 [[1 Präpositionen Übungen.md#^6|(q)]] e) Sie hat sich [[Worter/A/auf]] die schwierige Prüfung intensiv [[vorbereitet]]. ^6
 
 *[[Text mit Reflexivpronomen#^14|^]]* [[Gegenwärtig]] [[vorbereitet|bereitet]] er (19) auf eine große [[Messe]] in den USA vor. ^14
@@ -44,4 +46,4 @@ Zu+infinitive: [[vorzubereiten]]
 [[vorbereiten]] - [[vor]] = [[bereiten]]
 
 ---
-[[Vorbereitung]], [[Vorbereitungszeit]], [[Vorbereitungskurs]], [[Vorbereitungsraum]], [[Vorbereitungsteam]], [[Geburtsvorbereitung]], [[ausrichten]], [[Vorarbeit]]
+[[Vorbereitung]], [[Vorbereitungszeit]], [[Vorbereitungskurs]], [[Vorbereitungsraum]], [[Vorbereitungsteam]], [[Geburtsvorbereitung]], [[ausrichten]], [[Vorarbeit]], [[bereitstellen]]

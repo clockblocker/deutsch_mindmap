@@ -27,4 +27,4 @@ G: des [[Arbeitsdrucks]], der [[Arbeitsdrücke]]
 D: dem [[Arbeitsdruck]], den [[Arbeitsdrücken]]
 
 
-#Maskulin 
+#Maskulin , [[Arbeitsbelastung]]

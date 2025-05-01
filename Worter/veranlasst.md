@@ -1,0 +1,2 @@
+= [[gezwungen]]
+[[veranlassen]]

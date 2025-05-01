@@ -1,1 +1,1 @@
-[[Ordnung]]s[[thema]]
+[[Ordnung]]s[[Worter/T/thema]]

@@ -4,6 +4,8 @@
 ---
 erheblich schwierig ist
 
+[[like]]
+
 *[[002-C1-Schreiben-T2#^3|^]]* Dennoch wirkt sich die neue Bürosituation [[erheblich]] auf meine Arbeit aus. ^3
 
 

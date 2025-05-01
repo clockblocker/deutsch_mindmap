@@ -1,1 +1,1 @@
-, [[umbauen]]
+, [[umbauen]], [[Renovierungsbedarf]]

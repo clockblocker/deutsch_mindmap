@@ -4,6 +4,8 @@ die [[Vorträge]]
 ---
 Sie [[verpassen]] den gesamten [[Vortrag]].
 
+![[Sprechen-T1#^4|^]]
+
 - *halten einen kurzen* [[Vortrag]] *zu dem von Ihnen* [[gewählten]] *Thema*
 
 [[Vortrag]] in Magiegeschichte

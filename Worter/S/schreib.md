@@ -1,1 +1,1 @@
-, [[Schreibtisch]], [[reinschreiben]], [[beschreiben]], [[Großschreibung]], [[schreiben]]
+, [[Schreibtisch]], [[reinschreiben]], [[beschreiben]], [[Großschreibung]], [[schreiben]], [[Beschreibung]]

@@ -1,1 +1,1 @@
-, [[vorhanden]], [[fehlen]], [[Präsenz]]
+, [[vorhanden]], [[fehlen]], [[Präsenz]], [[Bestand]]

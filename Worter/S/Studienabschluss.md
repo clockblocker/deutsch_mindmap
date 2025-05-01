@@ -1,1 +1,1 @@
-, [[Abschluss]]
+, [[Abschluss]], [[Semesterende]]

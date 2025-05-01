@@ -1,2 +1,2 @@
 ---> ⏱️ [[Temporal-Perspektive]] <---
-, [[zeitgemäß]]
+, [[zeitgemäß]], [[kurzfristig]]

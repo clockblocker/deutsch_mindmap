@@ -1,8 +1,11 @@
-🔴 das [[Niveau]], [niˈvoː], [[Ebene]]
+das [[Niveau]], [niˈvoː], [[Ebene]]
 die [[Niveaus]]
 
 ---
 **mindestens 30 min hören (c1 [[niveau]])** → nachrichten, podcasts, interviews
+
+sich [[Lebenshaltungskosten]] nicht [[auf einem festen Niveau halten lassen]]
+
 
 ---
 = [[Standard]], [[Maßstab]], [[Niveau]]
@@ -24,3 +27,5 @@ D: dem [[Niveau]], den [[Niveaus]]
 
 ---
 [[niveauvoll]], [[nivellieren]], [[Niveau]]
+
+#Neuter  

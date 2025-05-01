@@ -41,3 +41,4 @@ Plural: [[gezeugten]], [[gezeugteren]], [[gezeugtetsten]]
 
 ---
 [[Zeugung]], [[Zeuger]], [[Zeugnis]], [[zeugenschaftlich]], [[Vaterschaft]]
+, [[Überzeugung]]

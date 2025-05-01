@@ -1,1 +1,1 @@
-, [[Worter/S/Sport]], [[Grippe]], [[Muskelkater]], [[Gesundheit]]
+, [[Worter/S/Sport]], [[Grippe]], [[Muskelkater]], [[Gesundheit]], [[Fitnessstudio]]

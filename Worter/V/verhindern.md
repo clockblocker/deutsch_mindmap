@@ -1,4 +1,6 @@
 ---> [[Ingredient-Risiko-Schutz-Verben]] <---
+---> [[Ingredient-Result-Verb]] <---
+
 ⛔ [[verhindern]], [fɛɐ̯ˈhɪndɐn](https://youglish.com/pronounce/verhindern/german) → [[verhinderte]] → [[verhindert]]
 
 ---

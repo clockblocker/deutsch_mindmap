@@ -27,4 +27,4 @@ PI: [[stolpernd]], PII: [[gestolpert]], Zu+inf: [[zu stolpern]]
 [[stolpern]] / to stumble, to trip
 
 ---
-[[Stolpern]], [[Stolperstein]], [[stolperig]], [[stolpernd]], [[Stolperer]]
+[[Stolpern]], [[Stolperstein]], [[stolperig]], [[stolpernd]], [[Stolperer]], [[Stolpergefahr]]

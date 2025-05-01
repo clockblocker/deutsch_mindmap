@@ -1,1 +1,1 @@
-, [[Gymnastikraum]]
+, [[Gymnastikraum]], [[Fitnessstudio]]

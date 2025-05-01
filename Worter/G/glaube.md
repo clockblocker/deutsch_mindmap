@@ -1,2 +1,2 @@
 Inf: [[glauben]]
-, [[glaub]], [[Worter/Religion]], [[ungläubig]], [[Vertrauensschwund]]
+, [[glaub]], [[Worter/Religion]], [[ungläubig]], [[Vertrauensschwund]], [[Überzeugung]]

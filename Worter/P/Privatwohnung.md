@@ -1,1 +1,1 @@
-, [[Gästehaus]], [[Amtssitz]]
+, [[Gästehaus]], [[Amtssitz]], [[Studierendenwohnheim]]

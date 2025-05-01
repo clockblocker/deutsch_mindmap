@@ -31,4 +31,4 @@ D: der [[Versorgung]], den [[Versorgungen]]
 ---
 [[versorgen]], [[Versorger]], [[versorgt]], [[Grundversorgung]], [[Krankenversorgung]], [[Rente]], [[Pension]], [[Pflege]], [[Energiesicherheit]], [[Wasserversorgung]]
 
-#Feminin , [[Internetversorgung]], [[Energieversorgung]]
+#Feminin , [[Internetversorgung]], [[Energieversorgung]], [[Verpflegung]]

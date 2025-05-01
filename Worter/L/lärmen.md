@@ -1,2 +1,2 @@
 , [[brüllen]]
-, [[verstummen]], [[summen]]
+, [[verstummen]], [[summen]], [[Dauerlärm]]

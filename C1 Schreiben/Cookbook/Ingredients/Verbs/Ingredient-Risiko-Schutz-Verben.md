@@ -5,6 +5,7 @@
 🚨 [[drohen]] *(to threaten; danger is active or imminent)*
 ⚡ [[enthalten]] *(to include a risk; hidden, embedded danger)*
 🌋 [[ausgehen]] ``von`` *(to emanate from; source actively emitting danger)*
+[[behindern]]
 
 ---
 

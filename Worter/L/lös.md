@@ -1,1 +1,1 @@
-, [[auflösen]], [[lösen]], [[Musterlösung]]
+, [[auflösen]], [[lösen]], [[Musterlösung]], [[Übergangslösung]]

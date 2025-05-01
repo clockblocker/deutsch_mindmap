@@ -30,4 +30,4 @@ professional, occupational
 Adjektive: [[beruflich]], [[beruflicher]], [[beruflichst]]
 
 ---
-[[beruflicher]], [[berufliches]], [[berufliche]], [[beruflichen]], [[beruflichem]], [[beruflicherer]], [[beruflicheres]], [[beruflichere]], [[beruflicheren]], [[beruflicherem]], [[beruflichster]], [[beruflichstes]], [[beruflichste]], [[beruflichsten]], [[beruflichstem]], [[Berufsgruppe]], [[Berufsfeld]]
+[[beruflicher]], [[berufliches]], [[berufliche]], [[beruflichen]], [[beruflichem]], [[beruflicherer]], [[beruflicheres]], [[beruflichere]], [[beruflicheren]], [[beruflicherem]], [[beruflichster]], [[beruflichstes]], [[beruflichste]], [[beruflichsten]], [[beruflichstem]], [[Berufsgruppe]], [[Berufsfeld]], [[betrieblich]]

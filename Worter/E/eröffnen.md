@@ -31,4 +31,4 @@ PI: [[eröffnend]], PII: [[eröffnet]], Zu+inf: [[zu eröffnen]]
 [[eröffnen]] - [[er]] = [[öffnen]] / to open, to inaugurate, to start
 
 ---
-[[Eröffnung]], [[Eröffner]], [[Eröffnerin]], [[eröffnend]], [[Neueröffnung]]
+[[Eröffnung]], [[Eröffner]], [[Eröffnerin]], [[eröffnend]], [[Neueröffnung]], [[Eröffnungsfeier]]

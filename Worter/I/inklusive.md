@@ -3,6 +3,10 @@
 ---
 [[2 prap.md#^18|(q)]] inklusive der Speisen und Getränke ^18
 
+
+*[[033-C1-Schreiben-T2#^1|^]]* Der Kopierer, den Sie [[inklusive]] [[Wartung]] und [[Techniker]] bei einer Firma für [[Bürotechnik]] [[gemietet]] haben, hat [[häufig]] einen [[Papierstau]] und die Firma ist nur schwer zu [[erreichen]]. ^1
+
+
 ---
 = [[einschließlich]], [[mit]], [[samt]]
 ≈ [[eingenommen]], [[mitgerechnet]], [[eingeschlossen]]

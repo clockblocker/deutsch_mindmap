@@ -1,11 +1,25 @@
-#Schreiben/C1/T2 #Arbeit #Technische #Störung
-#Physical/Klima #Organisation/Technik #Physical/Lärm
-
-In letzter Zeit ist Ihnen aufgefallen, dass weder die Klimaanlage noch die Heizung in Ihrem Büro ordnungsgemäß funktionieren. Die Temperaturen im Büro weichen stark von den angenehmen Arbeitsbedingungen ab.
-- Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für technische Schwierigkeiten äußern.
-- Nennen Sie konkrete Auswirkungen auf Ihre Arbeitsleistung und das Raumklima.
-- Beschreiben Sie, welche Temperatur- oder Klimabedingungen Sie als angemessen empfinden.
-- Schlagen Sie mögliche Lösungen vor, z. B. eine kurzfristige Reparatur oder einen technischen Check.
+[[T1-Schreiben-Ubungen]]
 
 ---
+
+Ihr Unternehmen hat beschlossen, die Heiztemperatur im Bürogebäude auf maximal 18 Grad zu senken, um Energiekosten zu sparen. Viele Mitarbeitende, einschließlich Ihnen selbst, empfinden diese Temperatur als zu niedrig. Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Sommer.
+	•	Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für die Energieeinsparmaßnahmen zeigen.
+	•	Schildern Sie, welche Probleme durch die niedrige Temperatur entstehen.
+	•	Beschreiben Sie, unter welchen Bedingungen Sie akzeptabel arbeiten könnten.
+	•	Machen Sie einen Vorschlag zur Verbesserung der Situation.
+
+---
+
+Ihr Unternehmen hat beschlossen, die Heiztemperatur im Bürogebäude auf maximal 18 Grad zu senken, um Energiekosten zu sparen. Viele Mitarbeitende, einschließlich Ihnen selbst, empfinden diese Temperatur als zu niedrig. Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Sommer.
+	•	Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für die Energieeinsparmaßnahmen zeigen.
+	•	Schildern Sie, welche Probleme durch die niedrige Temperatur entstehen.
+	•	Beschreiben Sie, unter welchen Bedingungen Sie akzeptabel arbeiten könnten.
+	•	Machen Sie einen Vorschlag zur Verbesserung der Situation.
+
+
+Sehr geehrte Frau Sommer,
+
+ich wende mich an Sie, um auf die neue Temperaturregulierung einzugehen.
+
+Ich habe vollstes Verständnis dafür, wie wichtig Energieeinsparmaßnahmen sind – insbesondere, da unser Budget seit dem zweiten Quartal beträchtlich reduziert wurde. ^1
 

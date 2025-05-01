@@ -1,1 +1,1 @@
-[[alt]][[mod]][[isch]], [[modern]], [[zeitgenössische]], [[neu]], [[zeitgemäß]], [[überholt]]
+[[alt]][[mod]][[isch]], [[modern]], [[zeitgenössische]], [[neu]], [[zeitgemäß]], [[überholt]], [[veraltet]]

@@ -5,6 +5,8 @@ die [[Gesellschaften]]
 ---
 die Frage, was KI alles leisten kann und welchen [[Stellenwert]] sie in unserer [[Gesellschaft]] [[einnehmen]] soll, finde ich auch sehr spannend.
 
+"Für einigermaßen große [[Gesellschaften]] - eindeutig | deutlich | bestimmt  ja". ^4
+
 
 Jeder ist ein Teil der [[Gesellschaft]].
 

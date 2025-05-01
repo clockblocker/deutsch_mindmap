@@ -25,4 +25,4 @@ G: des [[Ausgleichs]], der [[Ausgleiche]]
 D: dem [[Ausgleich]], den [[Ausgleichen]]  
 
 ---
-[[ausgleichen]], [[ausgeglichen]], [[Ausgleicher]], [[Ausgleichsmotor]], [[Ausgleichssport]], [[Abrechnung]], [[Stressabbau]]
+[[ausgleichen]], [[ausgeglichen]], [[Ausgleicher]], [[Ausgleichsmotor]], [[Ausgleichssport]], [[Abrechnung]], [[Stressabbau]], [[Wiedergutmachung]]

@@ -2,7 +2,8 @@
 die [[Fristen]]
 
 ---
-Frist
+Zu kurze [[Fristen]] für die [[Abgabe]] von Projekten
+
 
 ---
 = [[Termin]], [[Zeitraum]], [[Deadline]]
@@ -31,4 +32,4 @@ D: der [[Frist]], den [[Fristen]]
 
 #Feminin 
 
-[[Deadline]]
+[[Deadline]], [[kurzfristig]]

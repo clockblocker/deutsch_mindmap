@@ -1,1 +1,1 @@
-, [[räter]], [[Fachmann]], [[Ingenieur]], [[speziell]]
+, [[räter]], [[Fachmann]], [[Ingenieur]], [[speziell]], [[Techniker]]

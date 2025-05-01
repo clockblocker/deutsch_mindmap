@@ -2,4 +2,4 @@
 
 ---
 
-Ich hätte Sie über meine mögliche Verspätung informieren müssen; dafür möchte ich mich entschuldigen.
+![[005-C1-Schreiben-T2#^2|^]]

@@ -6,6 +6,8 @@
 ---
 Work-Life-Balance
 
+[[vorübergehend]], [[zeitweilig]], [[temporär]],
+
 ---
 = [[zeitweilig]], [[temporär]], [[vorläufig]]
 ≈ [[kurzfristig]], [[provisorisch]]

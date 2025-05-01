@@ -39,4 +39,4 @@ G: des [[Zugriffs]], der [[Zugriffe]]
 D: dem [[Zugriff]], den [[Zugriffen]]
 
 
-#Maskulin, [[Internetzugang]]
+#Maskulin, [[Internetzugang]], [[Verpflegung]], [[Erholung]]

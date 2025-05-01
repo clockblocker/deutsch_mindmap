@@ -5,6 +5,10 @@ die [[Mittagspausen]]
 *[[06-C1-Schreiben-T2-M#^10|^]]* Meiner Meinung nach sollte es für alle Mitarbeitenden die Möglichkeit geben, mittags etwas Warmes zu essen, sofern sie dies [[wünschen]] und das [[innerhalb]] von unserer [[Mittagspause]] von 30 Minuten. ^10
 
 
+![[006-C1-Schreiben-T2#^2|^]]
+
+
+
 ---
 = [[Mittagsruhe]], [[Mittagszeit]]
 ≈ [[Pause]], [[Erholung]]

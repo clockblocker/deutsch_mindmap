@@ -27,4 +27,4 @@ G: des [[Systems]], der [[Systeme]]
 D: dem [[System]], den [[Systemen]]
 
 
-#Neuter 
+#Neuter , [[Systemabsturz]]

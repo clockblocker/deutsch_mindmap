@@ -23,4 +23,4 @@ G: der [[Ausrüstung]], der [[Ausrüstungen]]
 D: der [[Ausrüstung]], den [[Ausrüstungen]]  
 
 ---
-[[ausrüsten]], [[gerüstet]], [[Rüstung]], [[Ausrüstungsgegenstand]]
+[[ausrüsten]], [[gerüstet]], [[Rüstung]], [[Ausrüstungsgegenstand]], [[Bürotechnik]]

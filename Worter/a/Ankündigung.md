@@ -1,2 +1,2 @@
 , [[Vorschau]]
-, [[Inserat]], [[Botschaft]]
+, [[Inserat]], [[Botschaft]], [[ankündigen]], [[Ruf]]

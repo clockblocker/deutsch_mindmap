@@ -18,7 +18,7 @@ Die frage "Soll man Geld spenden?" ist, wie jede andere Frage nach dem `Soll | P
 
 *[[3 Soll man Geld spenden?#^3|^]]* Ob es sich um die Teilung der [[Ernte]] mit Armen, den [[Kirchenzehnten]] oder formalisierte Steuern [[handelt]], der gesellschaftliche Konsens besagte auf die eine oder andere Weise, dass es für das Leben mit anderen Menschen [[notwendig]] ist, einen Teil des persönlichen [[Wohlstands]] für das [[Gemeinwohl]] auszugeben. ^3
 
-*[[3 Soll man Geld spenden?#^4|^]]* Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja". ^4
+*[[3 Soll man Geld spenden?#^4|^]]* Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große [[Gesellschaften]] - `eindeutig | deutlich | bestimmt` ja". ^4
 
 *[[3 Soll man Geld spenden?#^5|^]]* Aus der gleichen Perspektive ist es sehr schwierig zu argumentieren, dass ein Mensch eine [[gewisse]] ethische Belastung für [[zusätzliche]] Spenden hat, zusätzlich zu den gezahlten Steuern. Diese Aussage wurde [[prägnant]] und [[treffend]] im Slogan der russischen Steuerreform der 2000er Jahre formuliert: "Steuern gezahlt - und schlaf ruhig". ^5
 

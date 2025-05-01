@@ -3,6 +3,10 @@
 ---
 Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind.
 
+
+•	Arbeitsmaterialien [[fehlen]] oder sind [[veraltet]]
+
+
 *[[03-C1-Schreiben-T2-M#^12|^]]* Dieser Tisch fehlt uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit. ^12
 
 
@@ -98,4 +102,4 @@ N: das [[fehlen]], -
 A: das [[fehlen]], -
 G: des [[Fehlens]], -
 D: dem [[fehlen]], -
-#Neuter , [[abwesend]], [[Präsenz]], [[belaufen]]
+#Neuter , [[abwesend]], [[Präsenz]], [[belaufen]], [[Bestand]], [[existieren]], [[ungenügen]]

@@ -1,1 +1,1 @@
-, [[Auflistung]], [[Ausrüstung]], [[Ausstattung]], [[Einrichtung]]
+, [[Auflistung]], [[Ausrüstung]], [[Ausstattung]], [[Einrichtung]], [[Bestand]]

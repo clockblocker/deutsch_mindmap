@@ -1,1 +1,1 @@
-, [[Erfahrung]], [[Kompetenz]]
+, [[Erfahrung]], [[Kompetenz]], [[Zuständigkeit]]

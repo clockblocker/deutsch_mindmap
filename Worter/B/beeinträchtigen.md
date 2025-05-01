@@ -5,6 +5,9 @@
 ---
 2. [[vereinzelte]] [[Fehlgriffe]] [[beeinträchtigen]] den Lesefluss nicht
 
+- [[Dauerlärm]] durch [[Bauarbeiten]] [[beeinträchtigt]] Kundenkommunikation
+- Schlechte Luftqualität im Büro [[beeinträchtigt]] Gesundheit
+
 Das heißt, dass Ihr Text nur wenige Fehler enthalten sollte, auf keinen Fall dürfen die Fehler das Verständnis [[beeinträchtigen]].
 
 ---
@@ -50,4 +53,4 @@ sie, [[beeinträchtigen]], [[beeinträchtigten]], [[beeinträchtigen]], [[beeint
 Adjektive: [[beeinträchtigend]], [[beeinträchtigender]], [[beeinträchtigendst]]
 
 ---
-[[beeinträchtigender]], [[beeinträchtigendes]], [[beeinträchtigende]], [[beeinträchtigenden]], [[beeinträchtigendem]], [[beeinträchtigenderer]], [[beeinträchtigenderes]], [[beeinträchtigendere]], [[beeinträchtigenderen]], [[beeinträchtigenderem]], [[beeinträchtigendster]], [[beeinträchtigendstes]], [[beeinträchtigendste]], [[beeinträchtigendsten]], [[beeinträchtigendstem]]
+[[beeinträchtigender]], [[beeinträchtigendes]], [[beeinträchtigende]], [[beeinträchtigenden]], [[beeinträchtigendem]], [[beeinträchtigenderer]], [[beeinträchtigenderes]], [[beeinträchtigendere]], [[beeinträchtigenderen]], [[beeinträchtigenderem]], [[beeinträchtigendster]], [[beeinträchtigendstes]], [[beeinträchtigendste]], [[beeinträchtigendsten]], [[beeinträchtigendstem]], [[verschlechtern]]

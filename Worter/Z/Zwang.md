@@ -1,4 +1,5 @@
----> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
+---> [[Ingredient-Bedürfnis]] <---
+
 🔵 der [[Zwang]]
 die [[Zwänge]]
 

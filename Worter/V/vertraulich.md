@@ -4,3 +4,4 @@
 , [[public]], [[confidentiality]], [[secret]], [[conceal]], [[privacy of correspondence]], [[official]]
 , [[trust]], [[confidentiality]]
 
+, [[persönlich]]

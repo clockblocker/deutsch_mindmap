@@ -49,8 +49,8 @@
     -  
 3) [[momentan]] *(at the moment)*
     -  
-4) [[in diesem Moment]]
-5) [[punktuell]] *(spotwise / selectively)*
+==4) [[in diesem Moment]]==
+4) [[punktuell]] *(spotwise / selectively)*
     -  
 
 #### 🔴 [[nicht dauerhaft]] 

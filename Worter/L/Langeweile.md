@@ -2,4 +2,4 @@
 , [[Feier]]
 , [[Termindruck]]
 , [[Arbeitsauftrag]]
-, [[Beschäftigung]], [[Neugier]], [[Zeitdruck]], [[Stimmung]], [[Qualitätszeit]], [[Reizüberflutung]], [[Überforderung]], [[Zeitnot]]
+, [[Beschäftigung]], [[Neugier]], [[Zeitdruck]], [[Stimmung]], [[Qualitätszeit]], [[Reizüberflutung]], [[Überforderung]], [[Zeitnot]], [[Anregung]]

@@ -1,1 +1,1 @@
-, [[abgeben]]
+, [[abgeben]], [[Abgabe]]

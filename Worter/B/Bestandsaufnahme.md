@@ -1,1 +1,1 @@
-, [[Bestandteil]]
+, [[Bestandteil]], [[Bestand]]

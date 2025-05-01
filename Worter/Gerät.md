@@ -2,6 +2,9 @@
 die [[Geräte]]
 
 ---
+*[[042-C1-Schreiben-T2#^2|^]]* Ihr Unternehmen hat beschlossen, aus Kostengründen ältere technische [[Geräte]] wie Laptops und Telefone [[weiterhin]] im [[Einsatz]] zu lassen. ^2
+
+
 290. Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen? (87%)
 	- [ ] eine [[Anzeige]] schreiben
 	- [x] den Fernseher [[reklamieren]]
@@ -29,4 +32,4 @@ D: dem [[Gerät]], den [[Geräten]]
 [[geräten]], [[gerätetechnisch]], [[Geräteraum]], [[Gerätschaft]], [[Werkzeug]], [[Zeug]], [[geraten]], [[Tool]]
 
 
-#Neuter 
+#Neuter , [[Drucker]]

@@ -1,1 +1,1 @@
-, [[meinen]], [[pflichten]], [[einverstanden]], [[leugnen]], [[Einspruch]], [[Widerspruch]], [[entsprechen]], [[stimmen]]
+, [[meinen]], [[pflichten]], [[einverstanden]], [[leugnen]], [[Einspruch]], [[Widerspruch]], [[entsprechen]], [[stimmen]], [[zustimmen]]

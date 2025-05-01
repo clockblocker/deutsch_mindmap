@@ -22,4 +22,4 @@ Einzigartige mögliche Formen:
 
 ---
 #Substantiv #Maskulin
-, [[Unmenge]], [[Vielzahl]], [[Million]]
+, [[Unmenge]], [[Vielzahl]], [[Million]], [[Bestand]]

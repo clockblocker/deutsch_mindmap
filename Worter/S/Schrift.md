@@ -13,4 +13,4 @@ Beispiele:
 
 Tags: 
 #Substantiv
-#Feminin, [[Großschreibung]], [[schreiben]], [[schriftlich]], [[schriftsprachlich]]
+#Feminin, [[Großschreibung]], [[schreiben]], [[schriftlich]], [[schriftsprachlich]], [[Beschreibung]]

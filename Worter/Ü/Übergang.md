@@ -1,1 +1,1 @@
-, [[Brücke]], [[gehen]], [[Beitritt]]
+, [[Brücke]], [[gehen]], [[Beitritt]], [[Übergangslösung]]

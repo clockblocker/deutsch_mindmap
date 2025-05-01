@@ -1,3 +1,5 @@
+---> [[Ingredient-Bedürfnis]] <---
+
 🔴 🕊️ die [[Freiheit]], [ˈfʁaɪ̯haɪ̯t]
 die [[Freiheiten]]
 

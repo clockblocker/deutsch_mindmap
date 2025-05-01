@@ -1,1 +1,1 @@
-, [[Behinderung]], [[behindern]], [[barrierefrei]]
+, [[Behinderung]], [[behindern]], [[barrierefrei]], [[mobilitätseingeschränkt]]

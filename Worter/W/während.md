@@ -1,7 +1,14 @@
 🔗 während, [ˈveːʀʌnt]
 
 ---
+![[006-C1-Schreiben-T2#^2|^]]
+
+![[Sprechen-T1#^4|^]]
+
+
 [[16 Plusquamperfekt#^26|(q)]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon [[während]] seines Lebens und auch nach seinem Tod hatte er großen [[Erfolg]]. ^26
+
+
 
 *[[Text mit Reflexivpronomen#^13|^]]* [[Während]] des Essens im Restaurant habe ich (18) seinen [[Bericht]] über die neuesten Küchenmaschinen mit großem Interesse [[angehört]]. ^13
 

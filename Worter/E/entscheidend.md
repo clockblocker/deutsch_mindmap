@@ -33,4 +33,4 @@ crucial, decisive
 Adjektive: [[entscheidend]], [[entscheidender]], [[entscheidendst]]
 
 ---
-[[entscheidender]], [[entscheidendes]], [[entscheidende]], [[entscheidenden]], [[entscheidendem]], [[entscheidenderer]], [[entscheidenderes]], [[entscheidendere]], [[entscheidenderen]], [[entscheidenderem]], [[entscheidendster]], [[entscheidendstes]], [[entscheidendste]], [[entscheidendsten]], [[entscheidendstem]], [[wesentlich]], [[richtungsgebend]]
+[[entscheidender]], [[entscheidendes]], [[entscheidende]], [[entscheidenden]], [[entscheidendem]], [[entscheidenderer]], [[entscheidenderes]], [[entscheidendere]], [[entscheidenderen]], [[entscheidenderem]], [[entscheidendster]], [[entscheidendstes]], [[entscheidendste]], [[entscheidendsten]], [[entscheidendstem]], [[wesentlich]], [[richtungsgebend]], [[Kundenbesuch]]

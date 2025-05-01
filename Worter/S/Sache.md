@@ -10,7 +10,7 @@ Ich wasche [[sogar]] all deine Sachen!
 
 ---
 Synonyme:
-- [[Ding]], [[Angelegenheit]], [[Gegenstand]], [[Thema]], [[Problem]]
+- [[Ding]], [[Angelegenheit]], [[Gegenstand]], [[Worter/T/thema]], [[Problem]]
 
 ---
 thing, matter, issue

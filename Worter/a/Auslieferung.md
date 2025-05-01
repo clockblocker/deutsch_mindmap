@@ -1,1 +1,1 @@
-, [[Lieferung]], [[Versandt]]
+, [[Lieferung]], [[Versandt]], [[liefern]]

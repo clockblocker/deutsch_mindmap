@@ -22,4 +22,4 @@ G: der [[Universität]], der [[Universitäten]]
 D: der [[Universität]], den [[Universitäten]]  
 
 ---
-[[universitär]], [[studieren]], [[Universitätsabschluss]], [[Universitätsprofessor]]
+[[universitär]], [[studieren]], [[Universitätsabschluss]], [[Universitätsprofessor]], [[Studierendenwerk]]

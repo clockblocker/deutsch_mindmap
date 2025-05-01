@@ -1,1 +1,1 @@
-, [[Mangel]]
+, [[Mangel]], [[Bedarf]]

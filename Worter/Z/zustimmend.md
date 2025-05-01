@@ -1,1 +1,1 @@
-, [[einverstanden]]
+, [[einverstanden]], [[zustimmen]]

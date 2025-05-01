@@ -26,4 +26,4 @@ complete, fully
 Adjektive: [[vollständig]], [[vollständiger]], [[vollständigst]]
 
 ---
-[[vollständiger]], [[vollständiges]], [[vollständige]], [[vollständigen]], [[vollständigem]], [[vollständigerer]], [[vollständigeres]], [[vollständigere]], [[vollständigeren]], [[vollständigerem]], [[vollständigster]], [[vollständigstes]], [[vollständigste]], [[vollständigsten]], [[vollständigstem]]
+[[vollständiger]], [[vollständiges]], [[vollständige]], [[vollständigen]], [[vollständigem]], [[vollständigerer]], [[vollständigeres]], [[vollständigere]], [[vollständigeren]], [[vollständigerem]], [[vollständigster]], [[vollständigstes]], [[vollständigste]], [[vollständigsten]], [[vollständigstem]], [[Vervollständigen]]

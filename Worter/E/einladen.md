@@ -60,4 +60,4 @@ sie, [[laden ein]], [[luden ein]], [[laden ein]], [[lüden ein]], [[lüden ein]]
 Adjektive: [[einladend]], [[einladender]], [[einladendst]]
 
 ---
-[[einladender]], [[einladendes]], [[einladende]], [[einladenden]], [[einladendem]], [[einladenderer]], [[einladenderes]], [[einladendere]], [[einladenderen]], [[einladenderem]], [[einladendster]], [[einladendstes]], [[einladendste]], [[einladendsten]], [[einladendstem]]
+[[einladender]], [[einladendes]], [[einladende]], [[einladenden]], [[einladendem]], [[einladenderer]], [[einladenderes]], [[einladendere]], [[einladenderen]], [[einladenderem]], [[einladendster]], [[einladendstes]], [[einladendste]], [[einladendsten]], [[einladendstem]], [[einberufen]]

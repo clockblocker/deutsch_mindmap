@@ -1,1 +1,1 @@
-, [[Bearbeitung]], [[Punktabzug]]
+, [[Bearbeitung]], [[Punktabzug]], [[Änderung]]

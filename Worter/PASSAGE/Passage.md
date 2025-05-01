@@ -1,1 +1,1 @@
-, [[Abschnitt]], [[gang]]
+, [[Abschnitt]], [[gang]], [[Zutritt]]

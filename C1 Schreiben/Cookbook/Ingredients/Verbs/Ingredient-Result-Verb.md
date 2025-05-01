@@ -19,10 +19,13 @@
 ---
 
 #### 🚨 Negative Folgen / Schäden 
+like 🩹 [[beeinträchtigen]] *(to impair; partial damage, softer tone)*  
 🔥 [[verursachen]] *(to cause; neutral-negative events)*
 💥 [[schädigen]] *(to harm; direct damage to quality or structure)*
 💣 [[zerstören]] *(to destroy; complete destruction)*
-🩹 [[beeinträchtigen]] *(to impair; partial damage, softer tone)*  
+🚧 [[behindern]] *(to hinder, to impede, to obstruct)*
+🚫 [[stören]] *(to disturb, to bother, to interfere)*
+⛔ [[verhindern]] *(to prevent, to hinder)*
 
 ---
 

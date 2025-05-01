@@ -1,23 +1,31 @@
-	Wenn kein ... angeboten werden kann, schlage ich vor ... y
+Sehr geehrte Frau Nachname,
 
-%% Wenn am neuen Standort kein separates Büro angeboten werden kann %%
-=
+ich habe vollstes Verständnis dafür, dass die Bibliothek nicht alle Bedürfnisse vollständig berücksichtigen kann – insbesondere, da sich die Zahl der Studierenden, die die Bibliothek nutzen möchten, aufgrund der bevorstehenden Prüfungen deutlich erhöht hat.
 
-- sa asd asd | as
-- sa asd asd | asd a
-- sa asd asd | asd asd
-- sa asd asd | asd asd
-- as asd asd | asd asd | as asd asd | asd asd | as asd asd | asd asd | as asd asd | ==as==
-- as asd asd | asd asd | as asd asd | asd asd | as asd asd | asd asd | as asd asd | ==asd a==
-- as asd asd | asd asd | as asd asd | asd asd | as asd asd | asd asd | as asd asd | ==asd as==
-- as asd asd | asd asd | as asd asd | asd asd | as asd asd | asd asd | as asd asd | ==asd a==
-- as asd asd | asd asd | as asd asd | asd asd | as asd asd | asd asd | as asd asd | ==as==
-- as asd ads | asd asd
-- as asd ads | asd asd
-- as asd ads | asd a
-- as asd ads | as
+Allerdings benötige ich für meine Diplomarbeit einen Laptop und einen ruhigen Arbeitsplatz, der im Wohnheim nicht zur Verfügung steht.
 
-=
+Leider ist der Zugang zu Strom in der Bibliothek eingeschränkt: zahlreiche Räume sind mangelhaft mit Steckdosen ausgestattet, was das Arbeiten mit Laptops erheblich erschwert. 
+
+Wenn in der Bibliothek momentan kein Stromanschluss angeboten werden kann, schlage ich vor, die Nutzung von Powerbanks zu erlauben.
+
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
+
+Mit freundlichen Grüßen  
+Denis Popov
+
+
+
+
+
+Der [[Zugang]] `zu` [[Strom]] ist für Studierende oft [[eingeschränkt]]
+- In vielen Räumen der Universität gibt es nicht ausreichend[[Steckdose]]n 
+- Zahlreiche Räume sind [[mangelhaft]] mit [[Steckdose]]n [[ausgestattet]]
+, was das Arbeiten mit Laptops [[erheblich]] erschwert^1
+
+
+
+
+
 Wenn in der Bibliothek kein Stromanschluss angeboten werden kann, schlage ich vor, die Nutzung der Powerbanks zu erlauben.
 
 Wenn in der Bibliothek kein Stromanschluss angeboten werden kann, schlage ich vor, die Nutzung der Powerbanks zu erlauben.

@@ -1,3 +1,4 @@
+---> [[Ingredient-Verb-Wachstum-Steigerung]] <---
 📉 [[senken]], [ˈzɛŋkn̩](https://youglish.com/pronounce/senken/german) → [[senkte]] → [[gesenkt]]
 
 ---
@@ -48,4 +49,4 @@ sie, [[senken]], [[senkten]], [[senken]], [[senkten]], [[senken]]
 Adjektive: [[senkend]], [[senkender]], [[senkendst]]
 
 ---
-[[senkender]], [[senkendes]], [[senkende]], [[senkenden]], [[senkendem]], [[senkenderer]], [[senkenderes]], [[senkendere]], [[senkenderen]], [[senkenderem]], [[senkendster]], [[senkendstes]], [[senkendste]], [[senkendsten]], [[senkendstem]], [[verbilligen]]
+[[senkender]], [[senkendes]], [[senkende]], [[senkenden]], [[senkendem]], [[senkenderer]], [[senkenderes]], [[senkendere]], [[senkenderen]], [[senkenderem]], [[senkendster]], [[senkendstes]], [[senkendste]], [[senkendsten]], [[senkendstem]], [[verbilligen]], [[verschlechtern]]

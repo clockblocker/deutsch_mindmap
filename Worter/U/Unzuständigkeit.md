@@ -1,1 +1,1 @@
-, [[Verantwortung]]
+, [[Verantwortung]], [[Zuständigkeit]]

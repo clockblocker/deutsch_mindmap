@@ -48,4 +48,4 @@ Imperativ:
 - [[besuche]] deine Großeltern!
 - [[Besuch]] heute eine Ausstellung!
 - [[besucht]] eure Freunde!
-- [[besuchen]] wir das Museum!
+- [[besuchen]] wir das Museum!, [[Kundenbesuch]]

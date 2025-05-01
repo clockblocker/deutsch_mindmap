@@ -14,7 +14,7 @@ Schreiben Sie circa 230 Wörter.
 ---
 Heute wird kontoverz daruber diskutiet, ob die Arbeitgaber ihre IT-, Werbung, Buchhaltung und andere remote-friendly Branche ins Home-Office wechel sollte, oder solche Handlungsweise nur als temporäre Krisenmassnahme angesehe[[C1 Schreiben/Noten]]n werden sollte.
 
-Auf der einen Seite vertrenen fiele den Standpunkt, dass die Arbiet am heimischen Schriebtisch nicht nur für die physiche und psychische Gesundheit der Arbeiter gut ist sondern zusäztlich auch hilftlich für die Kosteneinspaung der Arbetgeber. Uns tatzächlich: wenn ein Angestellte hat schnelles Internet, Zugriff auf Datenbanken und technische Ausstattungen zu Hause, könnte sein Firme weniger Büroplatzen mieten.
+Auf der einen Seite vertrenen fiele den Standpunk die Arbiet am heimischen Schriebtisch nicht nur für die physiche und psychische Gesundheit der Arbeiter gut ist sondern zusäztlich auch hilftlich für die Kosteneinspaung der Arbetgeber. Uns tatzächlich: wenn ein Angestellte hat schnelles Internet, Zugriff auf Datenbanken und technische Ausstattungen zu Hause, könnte sein Firme weniger Büroplatzen mieten.
 
 Auf der anderen Seite sind viele Arbeitgeber der Festung Überzeugung, dass die Produktivität der Arbeit im Büro sehr starker ist. Es für manche Arbeitnahmer  erheblich schwierig ist, um ihre Arbeit zu Konzentriren ohne die Kontrolle der Vorsiztenden. Ausserdem, fehlt der persönliche Austausch under den Kollegen, der ein unveräusserlicher Teil des sogenannten Teamworks ist. Der Arbeit in vor Ort hat keine solche Nachteile, im Gegenteil -- der Austausch mit den Kollegen wird da gefördert.
 

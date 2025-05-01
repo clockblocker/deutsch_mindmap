@@ -2,6 +2,8 @@
 die [[Aufwände]]
 
 ---
+![[006-C1-Schreiben-T2#^5|^]] 
+
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^3|^]]* Unternehmen [[wiederum]] [[senken]] durch die Reduktion von [[Bürofläche]]n und [[Betriebskosten]] ihren finanziellen [[Aufwand]] und verbessern ihre Kosteneffizienz. ^3
 
 

@@ -7,4 +7,4 @@
 , [[aussuchen]]
 , [[kennenlernen]]
 , [[beurteilen]]
-, [[aufpassen]], [[herausfinden]], [[zugucken]], [[forschen]], [[bewerten]], [[wiedererkennen]], [[melden]], [[verarbeiten]], [[auseinandersetzen]], [[intervenieren]], [[fühlen]], [[erkundigen]], [[verständigen]], [[Erkunden]], [[wahrnehmen]], [[Bearbeitung]], [[thematisieren]], [[meiden]], [[unterlassen]], [[ausarbeiten]], [[verweigern]], [[mithören]], [[befolgen]]
+, [[aufpassen]], [[herausfinden]], [[zugucken]], [[forschen]], [[bewerten]], [[wiedererkennen]], [[melden]], [[verarbeiten]], [[auseinandersetzen]], [[intervenieren]], [[fühlen]], [[erkundigen]], [[verständigen]], [[Erkunden]], [[wahrnehmen]], [[Bearbeitung]], [[thematisieren]], [[meiden]], [[unterlassen]], [[ausarbeiten]], [[verweigern]], [[mithören]], [[befolgen]], [[befassen]]

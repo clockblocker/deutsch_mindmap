@@ -28,4 +28,4 @@ A: den [[Mangel]], die [[Mängel]]
 G: des [[Mangels]], der [[Mängel]]
 D: dem [[Mangel]], den [[Mängeln]]
 
-#Maskulin , [[Platzproblem]], [[Personalmangel]], [[Engpass]], [[Ressource]]
+#Maskulin , [[Platzproblem]], [[Personalmangel]], [[Engpass]], [[Ressource]], [[Bestand]]

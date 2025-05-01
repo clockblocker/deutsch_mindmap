@@ -1,3 +1,5 @@
+---> [[Ingredinet-Hindernis-Nomen]] <--
+
 💥 [[scheitern]], [ˈʃaɪ̯tɐn] | [[scheiterte]], sein [[gescheitert]]
 
 ---

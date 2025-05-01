@@ -1,4 +1,4 @@
-das [[thema]]  
+das [[Worter/T/thema]]  
 die [[Schriben/schriben/Themen]]
 
 ---

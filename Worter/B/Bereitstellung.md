@@ -1,1 +1,1 @@
-, [[Versorgung]], [[Mittelzuweisung]], [[Dauerverfügbarkeit]]
+, [[Versorgung]], [[Mittelzuweisung]], [[Dauerverfügbarkeit]], [[bereitstellen]]

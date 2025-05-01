@@ -98,3 +98,39 @@
 - [ ] [[206-C1-Schreiben-T2|206]]
 - [ ] [[207-C1-Schreiben-T2|207]]
 - [ ] [[208-C1-Schreiben-T2|208]]
+
+
+ S-TIER (most probable, super exam-friendly)
+- Neues Bürokonzept [[verschlechtert]] Konzentration und Produktivität
+- Arbeitsmaterialien [[fehlen]] oder sind [[veraltet]]
+- Verspätete Information über wichtige [[betriebliche]] [[Änderungen]]
+- Zu kurze [[Fristen]] für die [[Abgabe]] von Projekten
+- [[Dauerlärm]] durch [[Bauarbeiten]] [[beeinträchtigt]] Kundenkommunikation
+
+A-TIER (very likely, but a little less core)
+- [[Häufige]] [[Systemabstürze]] [[behindern]] tägliche Aufgaben
+- [[Überbelegung]] von [[Besprechungsräumen]] [[verhindert]] effiziente Planung
+- Fehlende [[Pausenräume]] [[verschlechtern]] [[Erholungsmöglichkeiten]]
+- [[Eingeschränkter]] Zugang zu Firmensoftware nach Systemupdate
+
+B-TIER (plausible but more specific / less universal)
+- Zu hohe [[Arbeitsbelastung]] wegen [[Personalmangel]] im Team
+- Keine klare [[Zuständigkeit]] für [[Projektverantwortung]] führt zu Chaos
+- Unflexible Home-Office-Regelung trotz [[betrieblicher]] Möglichkeiten
+- Schlechte Luftqualität im Büro [[beeinträchtigt]] Gesundheit
+
+C-TIER (more exotic, risky they wouldn’t use it)
+- Wichtige interne [[Schulungen]] werden [[kurzfristig]] [[abgesagt]]
+- Schwierigkeiten durch [[mehrsprachige]] Kommunikation im internationalen Team
+
+
+- Arbeitsmaterialien [[fehlen]] oder sind [[veraltet]]
+- Verspätete Information über wichtige [[betriebliche]] [[Änderungen]]
+- Zu hohe [[Arbeitsbelastung]] wegen [[Personalmangel]] im Team
+- Zu kurze [[Fristen]] für die [[Abgabe]] von Projekten
+- [[Dauerlärm]] durch [[Bauarbeiten]] [[beeinträchtigt]] Kundenkommunikation
+
+- [[Häufige]] [[Systemabstürze]] [[behindern]] tägliche Aufgaben
+- [[Überbelegung]] von [[Besprechungsräumen]] [[verhindert]] effiziente Planung
+- Fehlende [[Pausenräume]] [[verschlechtern]] [[Erholungsmöglichkeiten]]
+- [[Eingeschränkter]] Zugang zu Firmensoftware nach Systemupdate

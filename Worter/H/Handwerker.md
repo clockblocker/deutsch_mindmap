@@ -1,1 +1,1 @@
-, [[Geselle]], [[Müller]], [[Ingenieur]], [[Tannhäuser]], [[Bauarbeiter]]
+, [[Geselle]], [[Müller]], [[Ingenieur]], [[Tannhäuser]], [[Bauarbeiter]], [[Techniker]]

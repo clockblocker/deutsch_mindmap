@@ -1,3 +1,4 @@
+---> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
 ⬆️ 🔵 der [[Aufstieg]], [ˈaʊ̯fʃtiːk](https://youglish.com/pronounce/Aufstieg/german)
 die [[Aufstiege]]
 

@@ -1,3 +1,5 @@
+---> [[Ingredient-Bedürfnis]] <---
+
 🚧 🔵 der [[Sachzwang]], [ˈzaxˌt͡sv̯aŋ](https://youglish.com/pronounce/Sachzwang/german)
 die [[Sachzwänge]]
 

@@ -10,7 +10,7 @@ Einfache Strukturen reichen nicht aus, der Wortschatz [[zutreffend]] sein muss (
 ---
 = [[Textgattung]], [[Textart]], [[Genre]]
 ≈ [[Stil]], [[Form]], [[Format]]
-≠ [[Thema]], [[Inhalt]]
+≠ [[Worter/T/thema]], [[Inhalt]]
 
 ---
 text type, genre  

@@ -3,6 +3,10 @@
 ---
 [[Vermieterin]]
 
+*[[033-C1-Schreiben-T2#^1|^]]* Der Kopierer, den Sie [[inklusive]] [[Wartung]] und [[Techniker]] bei einer Firma für [[Bürotechnik]] [[gemietet]] haben, hat [[häufig]] einen [[Papierstau]] und die Firma ist nur schwer zu [[erreichen]]. ^1
+
+
+
 *[[3  Ein Selbstversuch als Hobbybäuerin#^44|^]]* [[Mieten]] Sie sich notfalls einen Garten, so wie ich es gemacht habe. ^44
 
 ---

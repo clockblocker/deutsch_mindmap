@@ -1,1 +1,1 @@
-, [[Verbesserung]]
+, [[Verbesserung]], [[verschlechtern]]

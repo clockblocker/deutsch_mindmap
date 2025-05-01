@@ -28,4 +28,4 @@ G: des [[Gangs]], der [[Gänge]]
 D: dem [[Gang]], den [[Gängen]]
 , [[gang]]
 
-#Maskulin , [[Rückgang]], [[Internetzugang]]
+#Maskulin , [[Rückgang]], [[Internetzugang]], [[Übergangslösung]], [[Ablauf]]

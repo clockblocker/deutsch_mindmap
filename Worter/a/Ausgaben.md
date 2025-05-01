@@ -1,1 +1,1 @@
-[[Ausgabe]], [[Betriebskosten]]
+[[Ausgabe]], [[Betriebskosten]], [[Lebenshaltungskosten]]

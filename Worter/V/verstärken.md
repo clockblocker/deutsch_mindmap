@@ -1,3 +1,4 @@
+---> [[Ingredient-Verb-Wachstum-Steigerung]] <---
 , [[erhöhen]], [[ersetzen]], [[stärken]], [[abschwächen]], [[steigern]]
 💪 [[verstärken]], [fɛɐ̯ˈʃtɛʁkn̩](https://youglish.com/pronounce/verstärken/german) → [[verstärkte]] → haben [[verstärkt]]
 

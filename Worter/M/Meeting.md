@@ -31,4 +31,4 @@ A: das [[Meeting]], die [[Meetings]]
 G: des [[Meetings]], der [[Meetings]]
 D: dem [[Meeting]], den [[Meetings]]
 
-#Neuter 
+#Neuter , [[Kundenbesuch]]

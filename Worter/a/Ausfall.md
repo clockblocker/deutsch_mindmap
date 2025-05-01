@@ -1,1 +1,1 @@
-, [[ausfallen]], [[Bedienung]], [[Dauerverfügbarkeit]]
+, [[ausfallen]], [[Bedienung]], [[Dauerverfügbarkeit]], [[Störung]], [[Systemabsturz]]

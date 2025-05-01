@@ -1,1 +1,1 @@
-, [[Eigenschaft]], [[Mangel]]
+, [[Eigenschaft]], [[Mangel]], [[ungenügen]]

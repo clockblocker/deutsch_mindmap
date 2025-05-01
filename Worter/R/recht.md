@@ -51,6 +51,8 @@ Einzigartige mögliche Formen:
  [[rechtzeitig]], [[11 08]], [[rechte]], [[Ganz recht]]
 
 
+[[meinung]]
+
 
 
 , [[ziemlich]], [[zurechtkommen]], [[rechtlich]], [[Anspruch]], [[Grundrecht]], [[Faustrecht]], [[Gleichbehandlung]], [[Schweigerecht]], [[Mehrheitswahlrecht]], [[Verhältniswahlrecht]], [[Männerwahlrecht]], [[rechtsprechend]], [[s1 e1]], [[Gerechtigkeit]]

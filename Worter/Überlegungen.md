@@ -1,0 +1,1 @@
+🤔 [[überlegen]] | 🔴 die [[Überlegung]] 🤔

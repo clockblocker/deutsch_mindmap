@@ -1,1 +1,1 @@
-, [[zufriedenstellen]]
+, [[zufriedenstellen]], [[ungenügen]]

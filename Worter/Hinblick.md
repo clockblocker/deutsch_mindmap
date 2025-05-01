@@ -25,3 +25,6 @@ N: der [[Hinblick]], die [[Hinblicke]]
 A: den [[Hinblick]], die [[Hinblicke]]
 G: des [[Hinblickes]], der [[Hinblicke]]
 D: dem [[Hinblick]], den [[Hinblicken]]
+
+
+#Maskulin 

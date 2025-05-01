@@ -27,4 +27,4 @@ A: die [[Einrichtung]], die [[Einrichtungen]]
 G: der [[Einrichtung]], der [[Einrichtungen]]
 D: der [[Einrichtung]], den [[Einrichtungen]]
 
-#Feminin 
+#Feminin , [[Studierendenwerk]]

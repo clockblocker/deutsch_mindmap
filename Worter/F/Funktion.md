@@ -1,1 +1,1 @@
-, [[Tätigkeit]], [[Stelle]], [[Verwendung]], [[Bedienung]]
+, [[Tätigkeit]], [[Stelle]], [[Verwendung]], [[Bedienung]], [[Störung]], [[Zuständigkeit]]

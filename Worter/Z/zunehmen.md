@@ -1,6 +1,11 @@
+---> [[Ingredient-Verb-Wachstum-Steigerung]] <---
+
 📈 [[zunehmen]], [ˈtsuːˌneːmən] | [[nahm zu]], haben [[zugenommen]]
 
 ---
+*[[Sprechen-T1#^4|^]]* Heute wird kontrovers darüber diskutiert, wie Städte mit dem [[zunehmenden]] [[Verkehrsaufkommen]] umgehen sollen, insbesondere im [[Hinblick]] auf Umwelt- und Lebensqualitätsfragen. ^4
+
+
 Wer kennt das nicht: Man hat [[zugenommen]] und muss den Gürtel ganz weit machen.
 
 *[[Golfstorm#^12|^]]* Ohne die Meeresströmungen würde Europa abkühlen, zudem könnten über dem Atlantik [[Wirbelstürme]] [[zunehmen]] und es schwächere [[Monsune]] in Afrika und Asien geben. ^12

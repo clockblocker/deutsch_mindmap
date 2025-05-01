@@ -1,1 +1,1 @@
-[[Veränderung]][[verändern]][[ändern]]
+[[Veränderung]][[verändern]][[ändern]], [[Änderung]]

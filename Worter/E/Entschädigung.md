@@ -1,1 +1,1 @@
-, [[Ausgleich]]
+, [[Ausgleich]], [[Wiedergutmachung]]

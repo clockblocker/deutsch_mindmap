@@ -1,1 +1,1 @@
-, [[Behinderung]], [[beeinträchtigen]]
+, [[Behinderung]], [[beeinträchtigen]], [[Lärmproblem]], [[Störung]]

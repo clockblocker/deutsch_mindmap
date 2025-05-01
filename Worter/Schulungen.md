@@ -1,0 +1,2 @@
+🧑‍🏫 [[Schulung]]
+, [[kurzfristig]]

@@ -3,4 +3,4 @@
 
 `zur` Verfügung stellen
 
-[[Verfügung]]
+[[Verfügung]], [[bereitstellen]]

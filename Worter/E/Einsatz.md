@@ -3,6 +3,9 @@
 ---
 - Erläutern Sie mögliche [[Gefahren]] durch den [[Einsatz]] von KI am Arbeitsplatz.  
 
+*[[042-C1-Schreiben-T2#^2|^]]* Ihr Unternehmen hat beschlossen, aus Kostengründen ältere technische [[Gerät]]e wie Laptops und Telefone [[weiterhin]] im [[Einsatz]] zu lassen. ^2
+
+
 
 ---
 = [[Verwendung]], [[Gebrauch]], [[Anwendung]] | [[Engagement]], [[Beteiligung]], [[Mitwirkung]] | [[Wetteinsatz]], [[Einsatz]]

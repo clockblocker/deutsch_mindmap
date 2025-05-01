@@ -23,4 +23,4 @@ G: des [[Betriebsrates]], der [[Betriebsräte]]
 D: dem [[Betriebsrat]], den [[Betriebsräten]]  
 
 ---
-[[betriebsrätlich]], [[betriebsratsfähig]], [[Betriebsverfassungsgesetz]], [[Arbeitnehmerschutz]], [[Rat]], [[Betrieb]]
+[[betriebsrätlich]], [[betriebsratsfähig]], [[Betriebsverfassungsgesetz]], [[Arbeitnehmerschutz]], [[Rat]], [[Betrieb]], [[betrieblich]]

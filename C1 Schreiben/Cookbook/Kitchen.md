@@ -4,12 +4,6 @@
 , was das Arbeiten mit Laptops [[erheblich]] erschwert^1
 
 
-[[Kitchen#^1|^]] Der [[Ingredient-Zugang-Zugriff|Zugang]] `zu` [[Utility|Strom]] ist `für` Studierende [[oft-selten|oft]] [[Ingredient-erlauben-verbieten|eingeschränkt]]: 
-	 In vielen Räumen der Universität gibt es nicht [[viel-wenig|ausreichend]] Steckdosen
-	 [[viel-wenig|Zahlreiche]] Räume sind [[viel-wenig|unzureichend]] / [[viel-wenig|mangelhaft]] mit Steckdosen [[ausgestattet]]
-, was das Arbeiten mit Laptops [[erheblich]] [[einfach-schwer|erschwert]]^1
-
-
 
 ---
 

@@ -1,6 +1,10 @@
 ✨ [[auswirken]], [ˈaʊ̯sˌvɪʁkn̩](https://youglish.com/pronounce/auswirken/german) | [[wirkte aus]], haben [[ausgewirkt]] | | [[Auswirkung]]
 
 ---
+
+![[002-C1-Schreiben-T2#^3|^]]
+
+
 *[[Golfstorm#^3|^]]* Denn die Klimakrise führt nicht nur zu mehr [[Extremwetter]], sondern [[wirkt aus|wirkt]] sich auch auf [[Meeresströmungen]] aus. ^3
 
 

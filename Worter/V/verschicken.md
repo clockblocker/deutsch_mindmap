@@ -30,4 +30,4 @@ Morpheme: [[ver]][[schick]][[en]]
 
 Partizip I: [[verschickend]], Partizip II: [[verschickt]]
 
-[[verschicken]] - [[ver]] = [[schicken]], [[nebenbei]], [[hinschicken]], [[aussenden]]
+[[verschicken]] - [[ver]] = [[schicken]], [[nebenbei]], [[hinschicken]], [[aussenden]], [[liefern]]

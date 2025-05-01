@@ -27,4 +27,4 @@ G: der [[Ersteinschulung]], der [[Ersteinschulungen]]
 D: der [[Ersteinschulung]], den [[Ersteinschulungen]]  
 
 ---
-[[einschulen]], [[Schule]], [[Schulanfänger]], [[Schulbeginn]], [[Einschulung]]
+[[einschulen]], [[Schule]], [[Schulanfänger]], [[Schulbeginn]], [[Einschulung]], [[Schulung]]

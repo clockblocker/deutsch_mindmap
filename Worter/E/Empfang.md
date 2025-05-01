@@ -27,3 +27,4 @@ D: dem [[Empfang]], den [[Empfängen]]
 
 ---
 [[empfangen]], [[Empfangsbereich]], [[Empfangsbestätigung]], [[Empfangshalle]], [[Empfangstheke]]
+, [[Abgabe]]

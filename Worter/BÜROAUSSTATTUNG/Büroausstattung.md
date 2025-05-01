@@ -1,1 +1,1 @@
-, [[Bürofläche]]
+, [[Bürofläche]], [[Bürotechnik]]

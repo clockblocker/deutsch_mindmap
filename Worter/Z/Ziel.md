@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Ziels]], [[Zielen]]
 #Substantiv #Neuter
 
 , [[zielen]], [[Quelle]]
-, [[zielstrebig]], [[Strecke]], [[Herkunft]], [[bestreben]], [[Anliegen]], [[Zielsprache]], [[Streben]], [[Ende]]
+, [[zielstrebig]], [[Strecke]], [[Herkunft]], [[bestreben]], [[Anliegen]], [[Zielsprache]], [[Streben]], [[Ende]], [[Zielabstimmung]], [[zielgerichtet]]

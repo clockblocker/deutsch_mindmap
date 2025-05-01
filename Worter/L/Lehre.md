@@ -1,1 +1,1 @@
-, [[Ausbildung]], [[Gesellenprüfung]], [[lehren]]
+, [[Ausbildung]], [[Gesellenprüfung]], [[lehren]], [[Schulung]]

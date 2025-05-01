@@ -1,3 +1,4 @@
+---> [[Ingredient-Verb-Wachstum-Steigerung]] <---
 📉 [[verringern]], [fɛɐ̯ˈʁɪŋɐn](https://youglish.com/pronounce/verringern/german) | [[verringerte]], haben [[verringert]]
 
 ---
@@ -49,4 +50,4 @@ Adjektive: [[verringernd]], [[verringernder]], [[verringerndst]]
 
 
 
-, [[absinken]], [[abbauen]]
+, [[absinken]], [[abbauen]], [[verschlechtern]]

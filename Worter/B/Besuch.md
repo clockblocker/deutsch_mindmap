@@ -14,4 +14,4 @@ Petra und Klaus kochen, sie bekommen [[Besuch]]
 
 Tags:
 #Noun
-#Maskulin , [[Behördengang]]
+#Maskulin , [[Behördengang]], [[Kundenbesuch]]

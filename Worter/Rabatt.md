@@ -24,3 +24,6 @@ D: dem [[Rabatt]], den [[Rabatten]]
 
 ---
 [[rabattieren]], [[Rabattaktion]], [[Rabattcode]], [[Rabattmarke]]
+, [[Wiedergutmachung]]
+
+#Maskulin 

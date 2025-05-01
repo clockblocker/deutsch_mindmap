@@ -27,13 +27,12 @@
 9) [[Einzelheit]] *(single detail / unit)*
 #### 🔴 [[nicht vorhanden]]
 1) [[kaum]] *(hardly)*
-2) [[mangelhaft]] *(deficient; lacking in quality or amount)*
+2) like [[mangelhaft]] *(deficient; lacking in quality or amount)*
 3) [[unzureichend]] *(insufficient; below requirement)*
 4) [[begrenzt]] *(limited; inadequate range or scope)*
 5) [[Wenigkeit]] *(trivial amount)*
 6) [[Mangel]] *(shortage / absence)*
 7) [[keine]] *(none)*
-
 
 
 8) [[Menge]] *(amount; volume)*  

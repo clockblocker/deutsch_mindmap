@@ -1,1 +1,1 @@
-, [[Mitgliedschaft]], [[ausschließlich]], [[ausstoßen]], [[Zugriff]], [[Zugehörigkeit]]
+, [[Mitgliedschaft]], [[ausschließlich]], [[ausstoßen]], [[Zugriff]], [[Zugehörigkeit]], [[Zutritt]]

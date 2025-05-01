@@ -23,3 +23,6 @@ Nominativ: [[Studierender]], [[Studierende]], [[Studierendes]], [[Studierenden]]
 Genitiv: [[Studierenden]], [[Studierender]], [[Studierenden]], [[Studierenden]]
 Dativ: [[Studierendem]], [[Studierender]], [[Studierendem]], [[Studierenden]]
 Akkusativ: [[Studierenden]], [[Studierende]], [[Studierendes]], [[Studierenden]]
+
+
+#Maskulin 

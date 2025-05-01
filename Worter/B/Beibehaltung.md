@@ -1,1 +1,1 @@
-, [[beibehalten]], [[Erhalt]], [[Austausch]], [[Wechsel]]
+, [[beibehalten]], [[Erhalt]], [[Austausch]], [[Wechsel]], [[Änderung]]

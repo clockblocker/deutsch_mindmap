@@ -1,28 +1,31 @@
-, [[Gedanke]]
-🤔 🔴 die [[Überlegung]], [yːbɐˈleːɡʊŋ]
-die [[Überlegungen]]
+🤔 🔴 die [[Überlegung]], [yːbɐˈleːɡʊŋ](https://youglish.com/pronounce/Überlegung/german)
 
 ---
+*[[Sprechen-T1#^1|^]]* Abschließend sollen einige [[Überlegungen]] [[folgen]], ^1
+
 
 ---
-= [[Gedanke]], [[Erwägung]], [[Nachdenken]]
-≈ [[Analyse]], [[Betrachtung]], [[Reflexion]], [[Studie]]
-≠ [[Unachtsamkeit]], [[Impulsivität]], [[Leichtsinn]]
+= [[Erwägung]], [[Gedanke]], [[Betrachtung]]
+≈ [[Analyse]], [[Reflexion]], [[Abwägung]]
+≠ [[Unachtsamkeit]], [[Leichtfertigkeit]]
 
 ---
-consideration, deliberation
+consideration, thought  
 размышление, соображение
 
 ---
-[[überlegen]], [[überlegt]], [[Überlegungskraft]], [[überlegenswert]]
+[[überlegen]], [[legen]], [[überlegt]], [[Überlegung]]
 
 ---
-[[Worter/Ü/über]]|[[leg]]|[[ung]]
-[[Überlegung]]
+[[Über]]|[[leg]]|[[ung]]
+[[Über]][[Legung]]
 
 
 ---
-N: die [[Überlegung]], die [[Überlegungen]]  
-A: die [[Überlegung]], die [[Überlegungen]]  
-G: der [[Überlegung]], der [[Überlegungen]]  
+N: die [[Überlegung]], die [[Überlegungen]]
+A: die [[Überlegung]], die [[Überlegungen]]
+G: der [[Überlegung]], der [[Überlegungen]]
 D: der [[Überlegung]], den [[Überlegungen]]
+
+
+#Feminin 

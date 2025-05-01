@@ -1,3 +1,4 @@
+---> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
 📈 🟢 das [[Wachstum]], [ˈvaksˌtuːm]
 die [[Wachstümer]]
 
@@ -28,4 +29,4 @@ N: das [[Wachstum]], die [[Wachstümer]]
 A: das [[Wachstum]], die [[Wachstümer]]  
 G: des [[Wachstums]], der [[Wachstümer]]  
 D: dem [[Wachstum]], den [[Wachstümern]]
-, [[Persönlichkeitsentwicklung]]
+, [[Persönlichkeitsentwicklung]], [[Erhöhung]]

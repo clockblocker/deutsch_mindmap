@@ -38,4 +38,4 @@ Morpheme: [[unter]][[geh]][[en]]
 Partizip I: [[untergehend]], Partizip II: [[untergegangen]]
 
 [[untergehen]] - [[unter]] = [[gehen]]
-, [[aushalten]], [[scheinen]], [[zusinken]], [[kontern]], [[entstehen]], [[vorkommen]], [[scheitern]], [[w-l]], [[profilieren]]
+, [[aushalten]], [[scheinen]], [[zusinken]], [[kontern]], [[entstehen]], [[vorkommen]], [[scheitern]], [[w-l]], [[profilieren]], [[existieren]]

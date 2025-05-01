@@ -1,3 +1,4 @@
+---> [[Ingredient-Verb-Wachstum-Steigerung]] <---
 ---> [[Ingredient-erlauben-verbieten]] <---
 
 🚧 [[einschränken]], [ˈaɪ̯nˌʃʁɛŋkən] | [[schränkte ein]], haben [[eingeschränkt]]
@@ -7,8 +8,7 @@
 
 Der [[Zugang]] `zu` Strom ist `für` Studierende oft eingeschränkt: *In vielen Räumen der Universität gibt es nicht ausreichend Steckdosen, was das Arbeiten mit Laptops erheblich erschwert.* [[Ingredient-Zugang-Zugriff#^2|^]] 
 
-
-
+[[Eingeschränkter]] Zugang zu Firmensoftware nach Systemupdate
 
 16. Wann ist die Meinungsfreiheit in Deutschland [[eingeschränkt]]? (80%)
 	- [x] bei der öffentlichen [[Verbreitung]] falscher [[Behauptung]] über [[einzelne]] Personen

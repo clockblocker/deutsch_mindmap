@@ -3,6 +3,7 @@
 ---
 *[[Atom#^33|^]]* Im schlimmsten Fall [[verzögert]] sich das Projekt – und sie können die Natur an ihrem Traumstrand noch etwas länger [[genießen]]. ^33
 
+
 ---
 = [[verspäten]], [[aufschieben]], [[hinauszögern]], , [[hinhalten]], [[verspäten]]
 ≈ [[verlangsamen]], [[hemmen]], [[behindern]], [[aufhalten]]
@@ -19,7 +20,6 @@ to delay, to postpone
 [[ver]]|[[zöger]]|[[n]]
 [[ver]] + [[zögern]]
 
-
 ---
 ###### [[verzögern]] jN
 - Was [[verzögert]] die Situation?
@@ -30,6 +30,8 @@ to delay, to postpone
 
 - Wie lange [[hat]] er die Entscheidung [[verzögert]]?
 - Bis zum letzten Moment.
+
+
 
 ---
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II

@@ -1,6 +1,10 @@
+---> [[Ingredient-Verb-Wachstum-Steigerung]] <---
 📈 [[erhöhen]], [ɛɐ̯ˈhøːən] | [[erhöhte]], haben [[erhöht]]
 
 ---
+*[[031-C1-Schreiben-T2#^2|^]]* `Vom` nächsten [[Semester]] an soll die monatliche [[Warmmiete]] `von` 400 € `auf` 600 € erhöht werden. ^2
+
+
 • Heutigen [[Tageshöchstwert]] für neue Karten [[erhöhen]]
 
 [[0 checklist#^6|(q)]] Eine gut [[bestückte]] [[Bewerbungsmappe]] [[erhöht]] die [[Chancen]], auf dem heiß [[umkämpften]] Wohnungsmarkt deine Traumwohnung zu finden. ^6

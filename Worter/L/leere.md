@@ -1,1 +1,1 @@
-, [[leer]], [[Zeug]], [[Dichte]], [[Ausstattung]], [[Einrichtung]]
+, [[leer]], [[Zeug]], [[Dichte]], [[Ausstattung]], [[Einrichtung]], [[Überfüllung]], [[Überbelegung]]

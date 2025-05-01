@@ -24,3 +24,5 @@ D: dem [[Beweis]], den [[Beweisen]]
 
 ---
 [[beweisen]], [[beweisbar]], [[Beweislast]], [[Beweismittel]], [[beweiskräftig]], [[Texte/Misc/Anki]], [[Glaskugel]], [[Geschenkbestätigung]], [[ergeben]]
+
+#Maskulin 

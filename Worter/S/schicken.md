@@ -46,4 +46,4 @@ Morpheme: [[schick]][[en]]
 | Sie       | [[schicken]]         | [[schickten]]         | [[schicken Sie]]  | [[schicken]]           | [[schickten]]           |
 
 Partizip I: [[schickend]], Partizip II: [[geschickt]]
-, [[ziemen]], [[übermachen]], [[s1 e1]], [[aussenden]], [[beliefern]], [[weiterleiten]]
+, [[ziemen]], [[übermachen]], [[s1 e1]], [[aussenden]], [[beliefern]], [[weiterleiten]], [[liefern]]

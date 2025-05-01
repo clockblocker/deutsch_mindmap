@@ -1,3 +1,5 @@
+---> [[Ingredient-Bedürfnis]] <---
+
 🔵 der [[Umstand]] 😟, [ˈʊmʃtant]
 die [[Umstände]]
 
@@ -25,3 +27,5 @@ D: dem [[Umstand]], den [[Umständen]]
 
 ---
 [[umständlich]], [[umstehen]], [[Umstandsform]], [[Umstandswort]], [[Umstandssatz]], [[umgehen]], [[Begebenheit]], [[Verhältnis]], [[Rahmenbedingung]], [[Sachzwang]]
+
+#Maskulin 

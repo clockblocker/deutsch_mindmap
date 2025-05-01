@@ -2,6 +2,7 @@
 die [[Firmenangebote]]
 
 ---
+![[006-C1-Schreiben-T2#^1|^]]
 
 ---
 = [[Angebot]], [[Offerte]], [[Geschäftsangebot]]

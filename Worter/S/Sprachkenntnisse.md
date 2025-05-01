@@ -1,2 +1,2 @@
 , [[Englischkenntnisse]]
-, [[Sprachschatz]], [[Muttersprachler]]
+, [[Sprachschatz]], [[Muttersprachler]], [[mehrsprachig]]

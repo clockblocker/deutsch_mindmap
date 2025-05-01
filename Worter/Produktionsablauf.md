@@ -18,7 +18,7 @@ production processes
 [[Produktion]], [[Ablauf]]
 
 ---
-[[Produktion]]|`s`|[[abläufe]]
+[[Produktion]]|`s`|[[Abläufe]]
 [[Produktion]] + [[Abläufe]]
 
 

@@ -1,3 +1,4 @@
+---> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
 👍 🔴 die [[Verbesserung]], [fɛɐ̯ˈbɛsərʊŋ](https://youglish.com/pronounce/Verbesserung/german)
 die [[Verbesserungen]]
 
@@ -29,4 +30,4 @@ A: die [[Verbesserung]], die [[Verbesserungen]]
 G: der [[Verbesserung]], der [[Verbesserungen]]
 D: der [[Verbesserung]], den [[Verbesserungen]]
 
-#Feminin 
+#Feminin , [[Erhöhung]]

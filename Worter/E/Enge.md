@@ -30,4 +30,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[Enge]], [[Engere]], [[Engere]], [[Engeres]], [[Engeren]], [[Engerem]], [[Engerer]], [[Engeren]]
 [[Engsten]], [[Engster]], [[Engste]], [[Engstes]], [[Engsten]], [[Engstem]], [[Engster]], [[Engsten]]
-''', [[s1 e1]]
+''', [[s1 e1]], [[Überfüllung]]

@@ -4,9 +4,13 @@ die [[Aufgabenstellungen]]
 ---
 *Die [[Reihenfolge]] der [[Inhaltspunkt]]e wurde in dieser [[Musterlösung]] [[verändert]]. Wichtig ist nicht, dass man die Punkte aus der [[Aufgabenstellung]] nur [[thematisiert]], sondern sie auch logisch miteinander verbindet, sodass ein kohärenter Text entsteht. Es gibt keinen [[Punktabzug]], wenn Sie dabei die [[Reihenfolge]] verändern.
 
+
+[[Vervollständigen]] Sie die E-Mail unter [[Berücksichtigung]] der [[Aufgabenstellung]].
+
+
 ---
 = [[Fragestellung]], [[Problemstellung]], [[Aufgabe]]
-≈ [[Anforderung]], [[Thema]], [[Problem]]
+≈ [[Anforderung]], [[Worter/T/thema]], [[Problem]]
 ≠ [[Lösung]], [[Antwort]]
 
 ---

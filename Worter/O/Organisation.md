@@ -1,1 +1,1 @@
-[[Unternehmen]], [[Verein]], [[Ordnung]], [[Gründungsmitglied]], [[Verwaltung]], [[Verwaltungsaufbau]], [[Hierarchie]], [[Geschäftsführung]], [[Firma]], [[System]]
+[[Unternehmen]], [[Verein]], [[Ordnung]], [[Gründungsmitglied]], [[Verwaltung]], [[Verwaltungsaufbau]], [[Hierarchie]], [[Geschäftsführung]], [[Firma]], [[System]], [[Vorbereitung]], [[Studierendenwerk]]

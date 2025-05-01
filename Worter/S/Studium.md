@@ -24,4 +24,4 @@ G: des [[Studiums]], der [[Studien]]
 D: dem [[Worter/S/Studium]], den [[Studien]]  
 
 ---
-[[studieren]], [[Studiengang]], [[Studienjahr]], [[Student]], [[studienorientiert]], [[Erlernung]], [[Studie]], [[Studienfach]]
+[[studieren]], [[Studiengang]], [[Studienjahr]], [[Student]], [[studienorientiert]], [[Erlernung]], [[Studie]], [[Studienfach]], [[Studierendenwohnheim]], [[Studierendenwerk]], [[studienbegleitend]]

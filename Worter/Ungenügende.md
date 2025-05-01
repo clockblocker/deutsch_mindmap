@@ -1,0 +1,1 @@
+👎 [[ungenügen]] | 🟢 das [[Ungenügende]] 👎

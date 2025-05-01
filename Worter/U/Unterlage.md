@@ -28,3 +28,6 @@ D: der [[Unterlage]], den [[Unterlagen]]
 
 ---
 [[unterlegen]], [[Unterlagenmappe]], [[Untergrund]], [[Unterbau]], [[Unterricht]]
+
+
+#Feminin 

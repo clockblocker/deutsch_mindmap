@@ -1,1 +1,1 @@
-, [[bequem]], [[Nützliches]], [[effizient]]
+, [[bequem]], [[Nützliches]], [[effizient]], [[zielgerichtet]]

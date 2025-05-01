@@ -1,1 +1,1 @@
-, [[Speisekarte]]
+, [[Speisekarte]], [[Büfett]]

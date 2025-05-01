@@ -5,6 +5,8 @@
 ---
 Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
+![[Sprechen-T1#^4|^]]
+
 *[[06-C1-Schreiben-T2-M#^5|^]]* * Nennen Sie Probleme, die sich durch das Fehlen der Kantine [[ergeben]] werden. ^5
 
 

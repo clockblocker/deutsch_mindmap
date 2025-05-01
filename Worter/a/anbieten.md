@@ -51,4 +51,4 @@ Zu+infinifive: [[anzubieten]]
 [[anbieten]] - [[an]] = [[bieten]] // to offer
 
 ---
-[[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]], [[ablehnen]], [[vermarkten]], [[einbringen]], [[Äußerung]], [[Unterstützungsangebot]], [[abgrenzen]]
+[[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]], [[ablehnen]], [[vermarkten]], [[einbringen]], [[Äußerung]], [[Unterstützungsangebot]], [[abgrenzen]], [[bereitstellen]]

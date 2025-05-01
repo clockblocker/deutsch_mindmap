@@ -1,1 +1,1 @@
-, [[absagen]]
+, [[absagen]], [[Schulung]], [[kurzfristig]]

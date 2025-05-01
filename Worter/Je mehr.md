@@ -1,3 +1,4 @@
+---> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
 🔗 [[je mehr]], [ˈdʒeː ˈmeːɐ̯]
 
 ---
@@ -20,4 +21,4 @@ the more... the more, the greater... the greater
 [[je]][[mehr]]
 
 ---
-[[Steigerung]], [[Vergleich]], [[Proportion]], [[Verhältnis]], [[Zunahme]], [[Je mehr]]
+[[Steigerung]], [[Vergleich]], [[Proportion]], [[Verhältnis]], [[Zunahme]], [[Je mehr]], [[Erhöhung]]

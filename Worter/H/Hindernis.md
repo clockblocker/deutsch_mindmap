@@ -1,3 +1,5 @@
+---> [[Ingredinet-Hindernis-Nomen]] <--
+
 🚧 🟢 das [[Hindernis]], [ˈhɪndɐnɪs](https://youglish.com/pronounce/Hindernis/german)
 die [[Hindernisse]]
 
@@ -27,4 +29,4 @@ G: des [[Hindernisses]], der [[Hindernisse]]
 D: dem [[Hindernis]], den [[Hindernissen]]
 
 
-#Neuter , [[verhindern]], [[Lösungsansatz]], [[Tool]], [[Engpass]]
+#Neuter , [[verhindern]], [[Lösungsansatz]], [[Tool]], [[Engpass]], [[Stolpergefahr]]

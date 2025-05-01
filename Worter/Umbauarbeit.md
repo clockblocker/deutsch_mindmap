@@ -7,6 +7,8 @@
 *[[06-C1-Schreiben-T2-M#^4|^]]* * Eröffnen Sie Ihr Schreiben höflich, indem Sie Ihr Verständnis für die [[Notwendigkeit]] der [[Umbauarbeiten]] zeigen. ^4
 
 
+![[031-C1-Schreiben-T2#^6|^]]
+
 *[[06-C1-Schreiben-T2-M#^8|^]]* die [[Umbauarbeiten]] unserer Kantine kann ich nur zu gut verstehen, sie waren auch wirklich [[dringend]] [[nötig]]. ^8
 
 
@@ -32,33 +34,5 @@ N: die [[Umbauarbeit]], die [[Umbauarbeiten]]
 A: die [[Umbauarbeit]], die [[Umbauarbeiten]]
 G: der [[Umbauarbeit]], der [[Umbauarbeiten]]
 D: der [[Umbauarbeit]], den [[Umbauarbeiten]]
-🔨 🔴 die [[Umbauarbeit]], [ˈʊmbaʊ̯ʔaʁbaɪ̯t](https://youglish.com/pronounce/Umbauarbeit/german)
-
----
-[[umbauen]],
-
----
-= [[Renovierung]], [[Sanierung]], [[Umgestaltung]]
-≈ [[Veränderung]], [[Erneuerung]], [[Restaurierung]]
-≠ [[Abriss]], [[Zerstörung]]
-
----
-reconstruction work, remodeling  
-ремонтные работы, перестройка
-
----
-[[umbauen]], [[Umbau]], [[Worter/A/Arbeit]]
-
----
-[[Um]]|[[Bau]]|[[Worter/A/Arbeit]]
-[[Um]] + [[Bauarbeit]]
-
-
----
-N: die [[Umbauarbeit]], die [[Umbauarbeiten]]
-A: die [[Umbauarbeit]], die [[Umbauarbeiten]]
-G: der [[Umbauarbeit]], der [[Umbauarbeiten]]
-D: der [[Umbauarbeit]], den [[Umbauarbeiten]]
-
 
 #Feminin 

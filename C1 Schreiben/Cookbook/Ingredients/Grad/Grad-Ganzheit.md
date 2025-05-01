@@ -34,7 +34,7 @@
 8) [[phasenweise]] *(in phases; process-focused)*
 #### 🟠 [[unvollständig]] 
 1) [[unvollständig]] *(incomplete)*
-2) [[eingeschränkt]] *(restricted; weaker variant)*
+2) ❤️ [[eingeschränkt]] *(restricted; weaker variant)*
 3) [[fragmentarisch]] *(fragmented; used in analysis)*  
 
 #### 🔴 [[begrenzt]] 

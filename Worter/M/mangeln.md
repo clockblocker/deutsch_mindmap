@@ -61,4 +61,4 @@ sie, [[mangeln]], [[mangelten]], [[mangeln]], [[mangelten]], [[mangeln]]
 Adjektive: [[mangelnd]], [[mangelnder]], [[mangelndst]]
 
 ---
-[[mangelnder]], [[mangelndes]], [[mangelnde]], [[mangelnden]], [[mangelndem]], [[mangelnderer]], [[mangelnderes]], [[mangelndere]], [[mangelnderen]], [[mangelnderem]], [[mangelndster]], [[mangelndstes]], [[mangelndste]], [[mangelndsten]], [[mangelndstem]]
+[[mangelnder]], [[mangelndes]], [[mangelnde]], [[mangelnden]], [[mangelndem]], [[mangelnderer]], [[mangelnderes]], [[mangelndere]], [[mangelnderen]], [[mangelnderem]], [[mangelndster]], [[mangelndstes]], [[mangelndste]], [[mangelndsten]], [[mangelndstem]], [[ungenügen]]

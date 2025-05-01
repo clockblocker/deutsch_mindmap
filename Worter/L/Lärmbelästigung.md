@@ -1,1 +1,1 @@
-, [[Umweltbelastung]], [[Ruhestörung]]
+, [[Umweltbelastung]], [[Ruhestörung]], [[Lärmproblem]], [[Dauerlärm]]

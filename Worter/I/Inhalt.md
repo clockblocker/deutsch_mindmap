@@ -12,7 +12,7 @@ die [[Inhalte]]
 
 ---
 = [[Bedeutung]], [[Sinn]], [[Kern]]
-≈ [[Essenz]], [[Substanz]], [[Botschaft]], [[Aussage]], [[Thema]], [[enthalten]]
+≈ [[Essenz]], [[Substanz]], [[Botschaft]], [[Aussage]], [[Worter/T/thema]], [[enthalten]]
 ≠ [[Form]], [[Äußerlichkeit]], [[Oberfläche]], [[Um­schlag]],
 
 ---

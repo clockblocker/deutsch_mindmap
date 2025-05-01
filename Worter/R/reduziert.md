@@ -1,2 +1,2 @@
 ---> 📈 [[Grad-Vergleich]] <---
-, [[Weniger]], [[verkürzt]], [[begrenzt]], [[Reduktion]]
+, [[Weniger]], [[verkürzt]], [[begrenzt]], [[Reduktion]], [[reduzieren]]

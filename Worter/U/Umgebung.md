@@ -27,3 +27,5 @@ Dative: der [[Umgebung]], den [[Umgebungen]]
 
 , [[Szene]], [[Landschaft]], [[Umwelt]]
 , [[quietschen]], [[Nähe]], [[Arbeitsumfeld]], [[Bürosituation]]
+
+#Feminin , [[Arbeitsumgebung]]

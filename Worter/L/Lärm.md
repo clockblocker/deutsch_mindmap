@@ -19,4 +19,4 @@ Morphems:
 [[Lärm]]
 
 ---
-#Substantiv #Maskulin[[Ruhe]], [[Nachtruhe]], [[Schweige]], [[Ruhestörung]]
+#Substantiv #Maskulin[[Ruhe]], [[Nachtruhe]], [[Schweige]], [[Ruhestörung]], [[Lärmproblem]], [[Dauerlärm]]

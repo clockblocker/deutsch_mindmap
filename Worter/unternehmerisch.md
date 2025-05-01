@@ -24,4 +24,4 @@ entrepreneurial, business-minded
 Adjektive: [[unternehmerisch]], [[unternehmerischer]], [[unternehmerischst]]
 
 ---
-[[unternehmerischer]], [[unternehmerisches]], [[unternehmerische]], [[unternehmerischen]], [[unternehmerischem]], [[unternehmerischerer]], [[unternehmerischeres]], [[unternehmerischere]], [[unternehmerischeren]], [[unternehmerischerem]], [[unternehmerischster]], [[unternehmerischstes]], [[unternehmerischste]], [[unternehmerischsten]], [[unternehmerischstem]]
+[[unternehmerischer]], [[unternehmerisches]], [[unternehmerische]], [[unternehmerischen]], [[unternehmerischem]], [[unternehmerischerer]], [[unternehmerischeres]], [[unternehmerischere]], [[unternehmerischeren]], [[unternehmerischerem]], [[unternehmerischster]], [[unternehmerischstes]], [[unternehmerischste]], [[unternehmerischsten]], [[unternehmerischstem]], [[betrieblich]]

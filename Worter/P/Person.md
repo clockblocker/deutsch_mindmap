@@ -2,4 +2,4 @@ die [[Person]]
 die [[Leute]], [[Leut]]
 , [[Mensch]], [[Akteur]]
 
-#Feminin , [[Migrantin]], [[Personennahverkehr]]
+#Feminin , [[Migrantin]], [[Personennahverkehr]], [[persönlich]]

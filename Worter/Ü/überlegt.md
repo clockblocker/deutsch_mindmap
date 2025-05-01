@@ -1,2 +1,2 @@
 💭 [[überlegen]]
-, [[überstürzen]], [[bewusst]], [[spontan]]
+, [[überstürzen]], [[bewusst]], [[spontan]], [[Überlegung]]

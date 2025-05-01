@@ -26,4 +26,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[rechtzeitig]], [[rechtzeitiger]], [[rechtzeitige]], [[rechtzeitiges]], [[rechtzeitigen]], [[rechtzeitigem]], [[rechtzeitiger]], [[rechtzeitigen]]
-[[rechtzeitstem]], [[rechtzeitstes]], [[rechtzeitstem]], [[rechtzeitstens]], [[rechtzeitstens]], [[rechtzeitstens]], [[rechtzeitstes]], [[rechtzeitstem]]
+[[rechtzeitstem]], [[rechtzeitstes]], [[rechtzeitstem]], [[rechtzeitstens]], [[rechtzeitstens]], [[rechtzeitstens]], [[rechtzeitstes]], [[rechtzeitstem]], [[liefern]]

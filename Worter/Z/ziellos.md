@@ -1,2 +1,2 @@
 , [[planenden]]
-, [[zielstrebig]]
+, [[zielstrebig]], [[zielgerichtet]]

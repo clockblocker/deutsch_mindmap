@@ -6,7 +6,7 @@ die [[Leitpunkte]]
 
 ---
 = [[Schlüsselpunkt]], [[Kernpunkt]], [[Hauptpunkt]]
-≈ [[Thema]], [[Aspekt]], [[Punkt]]
+≈ [[Worter/T/thema]], [[Aspekt]], [[Punkt]]
 ≠ [[Nebensache]], [[Irrelevanz]]
 
 ---

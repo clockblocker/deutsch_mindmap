@@ -5,6 +5,11 @@
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 
+*[[042-C1-Schreiben-T2#^1|^]]* Ihr eigener Laptop ist jedoch sehr langsam, [[häufig]] gibt es Softwareprobleme, und Videokonferenzen sind kaum möglich. ^1
+
+
+[[Häufige]] [[Systemabstürze]] [[behindern]] tägliche Aufgaben
+
 *[[03-C1-Schreiben-T2-M#^11|^]]* Um Herrn Umuck einen eigenen Schreibtisch zu geben, musste unser großer [[Gemeinschaftstisch]] in der [[Raummitte]] weichen, an dem wir zuvor [[häufig]] gemeinsam gearbeitet haben. ^11
 
 
@@ -38,4 +43,4 @@ P: [[häufigen]], [[häufigeren]], [[häufigsten]]
 ---
 [[häufig]], [[Häufigkeit]], [[Häufung]], [[aufhäufen]], [[anhäufen]]
 
-, [[selten]], [[manchmal]], [[Texte/Misc/Anki]]
+, [[selten]], [[manchmal]], [[Texte/Misc/Anki]], [[Techniker]]

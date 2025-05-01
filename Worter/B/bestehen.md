@@ -1,4 +1,4 @@
-✅ [[bestehen]], [bəˈʃteːən] | [[bestand]], haben [[bestanden]]
+✅ [[bestehen]], [bəˈʃteːən] | [[Bestand]], haben [[bestanden]]
 
 ---
 Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
@@ -34,7 +34,7 @@ to exist, to pass (an exam)
 существовать, сдавать (экзамен)
 
 ---
-[[Bestand]], [[Bestandteil]], [[bestehend]], [[Beständigkeit]]
+[[Bes tand]], [[Bestandteil]], [[bestehend]], [[Beständigkeit]]
 
 ---
 [[be]]|[[steh]]|[[en]]
@@ -87,9 +87,9 @@ to exist, to pass (an exam)
 
 ---
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
-ich, [[besteh]] / [[bestehe]], [[bestand]], [[bestehe]], [[bestünde]], -
+ich, [[besteh]] / [[bestehe]], [[Bestand]], [[bestehe]], [[bestünde]], -
 du, [[bestehst]], [[bestandst]], [[bestehest]], [[bestündest]], [[besteh]] / [[bestehe]]
-er, [[besteht]], [[bestand]], [[bestehe]], [[bestünde]], -
+er, [[besteht]], [[Bestand]], [[bestehe]], [[bestünde]], -
 wir, [[bestehen]], [[bestanden]], [[bestehen]], [[bestünden]], [[bestehen]]
 ihr, [[besteht]], [[bestandet]], [[bestehet]], [[bestündet]], [[besteht]]
 sie, [[bestehen]], [[bestanden]], [[bestehen]], [[bestünden]], [[bestehen]]

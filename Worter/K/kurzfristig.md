@@ -1,8 +1,38 @@
 ---> ⏱️ [[Temporal-Perspektive]] <---
 ---> ⏱️ [[Temporal-Dauerhaft]] <---
 
+⏱️ [[kurzfristig]], [ˈkʊʁt͡sˌfʁɪstɪç](https://youglish.com/pronounce/kurzfristig/german)
+
+---
+•	Wichtige interne [[Schulungen]] werden [[kurzfristig]] [[abgesagt]]
+
+---
+= [[zeitnah]], [[bald]], [[demnächst]]
+≈ [[schnell]], [[rasch]], [[umgehend]]
+≠ [[langfristig]], [[spät]], [[verzögert]]
 
 , [[nachhaltig]], [[langfristig]], [[vorübergehend]], [[chronisch]], [[langjährig]]
 
+
+---
+short-term, short-notice  
+краткосрочный, краткосрочный
+
+---
+[[kurz]], [[Frist]], [[Fristigkeit]]
+
+---
+[[kurz]]|[[frist]]|[[ig]]
+[[kurzfristig]]
+
+
+---
+Adjektive: [[kurzfristig]], [[kurzfristiger]], [[kurzfristigst]]
+
+---
+[[kurzfristiger]], [[kurzfristiges]], [[kurzfristige]], [[kurzfristigen]], [[kurzfristigem]], [[kurzfristigerer]], [[kurzfristigeres]], [[kurzfristigere]], [[kurzfristigeren]], [[kurzfristigerem]], [[kurzfristigster]], [[kurzfristigstes]], [[kurzfristigste]], [[kurzfristigsten]], [[kurzfristigstem]]
+
+
+
 nachhaltig
-vorübergehend
+vorübergehend, [[Schulung]]

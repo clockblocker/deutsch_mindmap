@@ -23,4 +23,4 @@ Alle Formen:
 | Accusative  | die Idee          | die Ideen         |
 | Dative      | der Idee          | den Ideen         |
 | Genitive    | der Idee          | der Ideen         |, [[Sinn]], [[Vorschlag]], [[Gedanke]], [[Vorstellung]], [[Begriff]]
-, [[Gegenstand]], [[Geschäftsidee]], [[Lösungsvorschlag]]
+, [[Gegenstand]], [[Geschäftsidee]], [[Lösungsvorschlag]], [[Anregung]]

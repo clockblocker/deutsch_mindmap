@@ -1,1 +1,1 @@
-, [[berufsbezogen]], [[unternehmerisch]], [[beruflich]]
+, [[berufsbezogen]], [[unternehmerisch]], [[beruflich]], [[betrieblich]]

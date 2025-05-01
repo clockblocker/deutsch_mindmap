@@ -1,3 +1,5 @@
+---> [[Ingredinet-Hindernis-Nomen]] <--
+
 ⏳ 🔴 die [[Verzögerung]], [fɛɐ̯ˈtsøːɡɐʁʊŋ](https://youglish.com/pronounce/Verzögerung/german)
 die [[Verzögerungen]]
 
@@ -26,7 +28,7 @@ delay
 [[verzögern]], [[verzögert]], [[Verzögerungszeit]]
 
 ---
-[[Ver]]|[[zöger]]|[[ung]]
+[[Ver]]|[[zög]]|[[er]]|[[ung]]
 [[Verzögerung]]
 
 

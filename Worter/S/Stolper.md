@@ -1,1 +1,1 @@
-🚶‍♂️ [[stolpern]]
+🚶‍♂️ [[stolpern]], [[Stolpergefahr]]

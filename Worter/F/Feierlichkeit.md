@@ -1,2 +1,2 @@
 , [[feiern]]
-, [[Feier]]
+, [[Feier]], [[Eröffnungsfeier]]

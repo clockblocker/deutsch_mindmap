@@ -2,4 +2,4 @@
 
 , [[pflichten]], [[Einwilligung]]
 , [[zufriedengeben]]
-, [[sträuben]], [[umstreiten]]
+, [[sträuben]], [[umstreiten]], [[zustimmen]]

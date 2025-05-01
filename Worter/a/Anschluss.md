@@ -3,6 +3,9 @@
 🔌 🔵 der [[Anschluss]], [ˈanʃlʊs](https://youglish.com/pronounce/Anschluss/german)
 
 ---
+![[Sprechen-T1#^4|^]]
+
+---
 = [[Verbindung]], [[Konnektion]], [[Anbindung]]
 ≈ [[Verknüpfung]], [[Zusammenhang]], [[Beziehung]]
 ≠ [[Trennung]], [[Abtrennung]], [[Abbruch]]

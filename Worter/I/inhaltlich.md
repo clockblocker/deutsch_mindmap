@@ -3,6 +3,8 @@
 ---
 1. alle 4 Sprachfunktionen [[inhaltlich]] und [[umfangreich]] [[angemessen]]
 
+Inhaltliche [[Anregungen]]:
+
 Mit diesem Kriterium wird die [[inhaltliche]] [[Bearbeitung]] der Aufgabe [[bewertet]]. 
 
 ---

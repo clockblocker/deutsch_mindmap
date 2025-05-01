@@ -1,2 +1,2 @@
 , [[verwirrt]], [[blindes]], [[zerstreut]]
-, [[ablenkbar]]
+, [[ablenkbar]], [[zielgerichtet]]

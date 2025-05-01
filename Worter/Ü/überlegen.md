@@ -60,4 +60,4 @@ Einzigartige mögliche Formen:
 [[überlegen]], [[überlegener]], [[überlegene]], [[überlegenes]], [[überlegenen]], [[überlegenem]], [[überlegener]], [[überlegenen]]
 [[überlegener]], [[überlegenderer]], [[überlegendere]], [[überlegenderes]], [[überlegendere]], [[überlegendem]], [[überlegenderer]], [[überlegendere]]
 [[überlegensten]], [[überlegenster]], [[überlegenste]], [[überlegenstes]], [[überlegensten]], [[überlegensten]], [[überlegenster]], [[überlegensten]]
-, [[Deutschland]]
+, [[Deutschland]], [[Überlegung]]

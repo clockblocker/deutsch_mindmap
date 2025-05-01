@@ -26,4 +26,4 @@ Dative: der [[Umwelt]], den [[Umwelten]]
 ---
 [[umweltfreundlich]], [[umweltbewusst]], [[Umweltschutz]], [[Umweltverschmutzung]], [[Umweltpolitik]], [[Luftverschmutzung]], [[Umweltbelastung]], [[Klimabedingung]]
 
-#Feminin 
+#Feminin , [[Arbeitsumgebung]]

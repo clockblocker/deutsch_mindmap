@@ -26,3 +26,4 @@ D: der [[Ansicht]], den [[Ansichten]]
 [[ansehen]], [[sehen]], [[anschauen]], [[betrachten]]
 
 [[glaub]], [[Meinung]], [[Meinungsäußerung]]
+, [[Überzeugung]]

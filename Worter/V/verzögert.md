@@ -1,3 +1,3 @@
 , [[bald]], [[zügig]]
 ⏱️ [[verzögern]]
-, [[Verzögerung]]
+, [[Verzögerung]], [[kurzfristig]]

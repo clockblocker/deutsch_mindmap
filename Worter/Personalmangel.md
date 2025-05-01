@@ -27,4 +27,4 @@ A: den [[Personalmangel]], die [[Personalmängel]]
 G: des [[Personalmangels]], der [[Personalmängel]]
 D: dem [[Personalmangel]], den [[Personalmängeln]]
 
-#Maskulin 
+#Maskulin , [[Arbeitsbelastung]]

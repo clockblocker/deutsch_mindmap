@@ -1,2 +1,2 @@
 , [[schadlos]]
-, [[fehlentwicklung]]
+, [[fehlentwicklung]], [[Störung]]

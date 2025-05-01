@@ -13,10 +13,10 @@ to address, to discuss, to thematize
 обсуждать, затрагивать тему
 
 ---
-[[Thema]], [[thematisch]], [[Thematisierung]]
+[[Worter/T/thema]], [[thematisch]], [[Thematisierung]]
 
 ---
-[[Thema]]|[[tisier]]|[[t]]
+[[Worter/T/thema]]|[[tisier]]|[[t]]
 [[thematisieren]]
 
 ---

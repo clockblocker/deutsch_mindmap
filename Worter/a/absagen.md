@@ -1,10 +1,10 @@
 ☎️ [[absagen]], [ˈapˌzaːɡn̩] | [[sagte ab]], haben [[abgesagt]]
 
-
-
 ---
 
 b) [[Wegen]] des schlechten [[Wetters]] entschieden wir uns, die [[Wanderung]] [[abzusagen]].   [[1 Präpositionen Übungen.md#^3|(q)]]
+
+- Wichtige interne [[Schulungen]] werden [[kurzfristig]] [[abgesagt]]
 
 [[16 Plusquamperfekt#^14|(q)]] Aber sie nahm die Einladungen nicht an. Sie [[absagen|sagte]] immer aus dem Grund ab, dass sie arbeiten musste. ^14
 

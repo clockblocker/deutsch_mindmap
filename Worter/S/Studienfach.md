@@ -6,7 +6,7 @@ Laura
 
 ---
 = [[Fach]], [[Studienrichtung]], [[Hauptfach]]
-≈ [[Bereich]], [[Disziplin]], [[Thema]]
+≈ [[Bereich]], [[Disziplin]], [[Worter/T/thema]]
 ≠  -
 
 ---

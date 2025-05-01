@@ -1,1 +1,1 @@
-, [[Lager]], [[Ressource]]
+, [[Lager]], [[Ressource]], [[Bestand]]

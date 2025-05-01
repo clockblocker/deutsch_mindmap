@@ -5,6 +5,9 @@
 ---
 _Begehen_, _entgehen_, _ergehen_, _vergehen_, _zergehen_.... Welches Licht werfen wir mit diesen Verben auf eine Szene und [[wodurch]] [[erreichen]] wir den illuminierenden Effekt?
 
+*[[033-C1-Schreiben-T2#^1|^]]* Der Kopierer, den Sie [[inklusive]] [[Wartung]] und [[Techniker]] bei einer Firma für [[Bürotechnik]] [[gemietet]] haben, hat [[häufig]] einen [[Papierstau]] und die Firma ist nur schwer zu [[erreichen]]. ^1
+
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^7|^]]* Die physische [[Präsenz]] [[unterstützt]] das [[gegenseitige]] [[Vertrauen]] und die [[Motivation]], die in digitalen [[Settings]] nur schwer zu [[erreichen]] sind. ^7
 
 

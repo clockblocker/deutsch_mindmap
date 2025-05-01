@@ -26,4 +26,4 @@ Morpheme: [[aus]][[sterb]][[en]]
 | Sie       | [[sterben aus]] | [[starben aus]] | [[sterben Sie aus]] | [[sterben aus]]  | [[stürben aus]]  |
 
 Partizip I: [[aussterbend]], Partizip II: [[ausgestorben]]
-[[aussterben]] - [[aus]] = [[sterben]], [[s1 e1]]
+[[aussterben]] - [[aus]] = [[sterben]], [[s1 e1]], [[existieren]]

@@ -29,4 +29,4 @@ D: dem [[Teil]], den [[Teilen]]
 , [[Bestandteil]], [[Abteilung]]
 
 
-#Maskulin , [[Großteil]]
+#Maskulin , [[Großteil]], [[Raumaufteilung]]

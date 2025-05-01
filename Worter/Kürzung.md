@@ -1,3 +1,4 @@
+---> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
 🔴 die [[Kürzung]], [ˈkʏʁtswʊŋ]
 die [[Kürzungen]]
 
@@ -26,4 +27,4 @@ G: der [[Kürzung]], der [[Kürzungen]]
 D: der [[Kürzung]], den [[Kürzungen]]  
 
 ---
-[[kürzen]], [[kurz]], [[kürzlich]], [[kürzbar]], [[Abkürzung]], [[Mittelzuweisung]], [[Reduktion]], [[Streichung]]
+[[kürzen]], [[kurz]], [[kürzlich]], [[kürzbar]], [[Abkürzung]], [[Mittelzuweisung]], [[Reduktion]], [[Streichung]], [[Erhöhung]]

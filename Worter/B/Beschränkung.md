@@ -1,1 +1,1 @@
-, [[Auswahl]], [[Prokura]], [[einschränken]], [[Umfang]]
+, [[Auswahl]], [[Prokura]], [[einschränken]], [[Umfang]], [[Budgetbeschränkung]], [[Einschränkung]]

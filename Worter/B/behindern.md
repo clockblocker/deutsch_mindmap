@@ -1,7 +1,9 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🚧 [[behindern]], [bəˈhɪndəʁn] | [[behinderte]], haben [[behindert]]
 
 ---
-[[Behinderung]]
+[[Häufige]] [[Systemabstürze]] [[behindern]] tägliche Aufgaben
 
 ---
 = [[hemmen]], [[einschränken]], [[stören]]
@@ -10,6 +12,8 @@
 
 ---
 to hinder, to impede, to obstruct
+
+[[Behinderung]]
 
 ---
 [[be]]|[[hinder]]|[[n]]
@@ -27,4 +31,4 @@ PI: [[behindernd]], PII: [[behindert]], Zu+inf: [[zu behindern]]
 [[behindern]] - [[be]] = [[hindern]] / to hinder, to impede, to obstruct
 
 ---
-[[Behinderung]], [[Hindernis]], [[behindernd]], [[Behinderter]], [[Behinderung]], [[helfen]], [[verstopfen]], [[verzögern]], [[beeinträchtigen]]
+[[Behinderung]], [[Hindernis]], [[behindernd]], [[Behinderter]], [[Behinderung]], [[helfen]], [[verstopfen]], [[verzögern]], [[beeinträchtigen]], [[Systemabsturz]]

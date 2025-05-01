@@ -1,1 +1,1 @@
-, [[Betrieb]], [[Ablenkung]], [[Dauerverfügbarkeit]]
+, [[Betrieb]], [[Ablenkung]], [[Dauerverfügbarkeit]], [[Störung]], [[Ablauf]]

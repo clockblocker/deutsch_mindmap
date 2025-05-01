@@ -1,1 +1,1 @@
-[[Schlecht]], [[Schlimmer]], [[bald]]
+[[Schlecht]], [[Schlimmer]], [[bald]], [[verschlechtern]]

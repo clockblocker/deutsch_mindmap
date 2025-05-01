@@ -3,6 +3,9 @@
 ---
 Simon muss also damit [[rechnen]], dass Jannis seine [[Bitte]] [[ablehnen]] wird. Deshalb greift er zu einem kleinen Trick: Er [[schmiert]] seinem Chef [[Jemandem Honig um den Bart schmieren|Honig um den]] [[Bart]].
 
+- Ich [[ablehne|lehne]] ... ab, weil / denn ...
+
+
 ---
 Synonyme: [[verweigern]], [[zurückweisen]], [[abweisen]], [[abstreiten]], [[ablehnen]]
 Antonyme: [[annehmen]], [[akzeptieren]], [[zustimmen]], [[befürworten]]

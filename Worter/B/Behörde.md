@@ -40,4 +40,4 @@ D: der [[Behörde]], den [[Behörden]]
 ---
 [[behördlich]], [[verwalten]], [[amtlich]], [[bürokratisch]], [[Gesundheitsamt]], [[Forstamt]], [[Verwaltungsaufbau]], [[Stadtverwaltung]], [[Polizei]], [[Bürgerei]]
 
-#Feminin , [[Behördensprache]], [[Behördengang]], [[Behördenkorrespondenz]], [[gang]]
+#Feminin , [[Behördensprache]], [[Behördengang]], [[Behördenkorrespondenz]], [[gang]], [[Studierendenwerk]]

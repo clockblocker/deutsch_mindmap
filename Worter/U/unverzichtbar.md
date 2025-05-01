@@ -4,7 +4,8 @@
 ---
 - Argumentieren Sie anhand eines Beispiels, wann persönliche Treffen [[unverzichtbar]] sind.  
 
-> *[[Atom#^8|^]]* *Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
+Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
+> 
 
 ---
 = [[unerlässlich]], [[notwendig]], [[essentiell]], [[unentbehrlich]], [[erforderlich]]

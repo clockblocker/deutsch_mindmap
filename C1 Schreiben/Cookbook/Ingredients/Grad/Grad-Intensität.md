@@ -3,15 +3,15 @@
 #### 🟢 [[stark]] 
 1) ❤️ [[erheblich]] *(significant; with consequences)*
 	- Dennoch wirkt sich die neue Bürosituation [[erheblich]] auf meine Arbeit aus. [[002-C1-Schreiben-T2#^3|^]]
-2) [[deutlich]] *(clearly perceptible)*
-3) [[massiv]] *(heavy, overwhelming in tone or scale)*
-4) [[beträchtlich]] *(considerable; formal, neutral)*
-5) [[ausgeprägt]] *(clearly marked or distinct)*
-6) [[überwältigend]] *(emotionally overpowering)*
-7) [[gewaltig]] *(immense; overwhelming; physical or emotional power)*  
-8) [[stark]] *(strong; general high-impact)*  
-9) [[signifikant]] *(statistically or rhetorically meaningful)*  
-10) [[drastisch]] *(radical, often negative)*
+2) ❤️ [[beträchtlich]] *(considerable, substantial )*
+3) ❤️[[deutlich]] *(clearly perceptible)*
+4) [[ausgeprägt]] *(clearly marked or distinct)*
+5) [[überwältigend]] *(emotionally overpowering)*
+6) [[gewaltig]] *(immense; overwhelming; physical or emotional power)*  
+7) [[stark]] *(strong; general high-impact)*  
+8) [[signifikant]] *(statistically or rhetorically meaningful)*  
+9) [[drastisch]] *(radical, often negative)*
+10) [[massiv]] *(heavy, overwhelming in tone or scale)*
 
 #### 🟡 [[moderat]] 
 1) [[spürbar]] *(noticeable; low-key intensity)*

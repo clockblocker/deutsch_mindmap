@@ -1,1 +1,1 @@
-, [[uralte]]
+, [[uralte]], [[veraltet]]

@@ -27,4 +27,4 @@ A: die [[Technologie]], die [[Technologien]]
 G: der [[Technologie]], der [[Technologien]]
 D: der [[Technologie]], den [[Technologien]]
 
-#Feminin 
+#Feminin , [[Bürotechnik]]

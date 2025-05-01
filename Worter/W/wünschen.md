@@ -1,6 +1,8 @@
 🤞 [[wünschen]], [ˈvʏnʃən] | [[wünschte]], haben [[gewünscht]], [[Wunsch]]
 
 ---
+![[002-C1-Schreiben-T2#^5|^]]
+
 Einerseits vertreten viele den Standpunkt, man sollte vor allem auf die Arbeitsmöglichkeiten des [[gewünschten]] [[Studiengangs]] achten. 
 
 *[[06-C1-Schreiben-T2-M#^10|^]]* Meiner Meinung nach sollte es für alle Mitarbeitenden die Möglichkeit geben, mittags etwas Warmes zu essen, sofern sie dies [[wünschen]] und das [[innerhalb]] von unserer [[Mittagspause]] von 30 Minuten. ^10

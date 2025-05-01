@@ -1,1 +1,1 @@
-, [[unterstützen]], [[Unterstützung]], [[zugunsten]], [[hilfsbereit]]
+, [[unterstützen]], [[Unterstützung]], [[zugunsten]], [[hilfsbereit]], [[studienbegleitend]]

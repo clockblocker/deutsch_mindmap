@@ -1,1 +1,1 @@
-, [[Verfahren]], [[Technologie]]
+, [[Verfahren]], [[Technologie]], [[Drucker]], [[Bürotechnik]], [[Techniker]]

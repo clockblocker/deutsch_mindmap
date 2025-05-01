@@ -1,1 +1,1 @@
-, [[passen]], [[anpassen]], [[Bearbeitung]]
+, [[passen]], [[anpassen]], [[Bearbeitung]], [[Änderung]]

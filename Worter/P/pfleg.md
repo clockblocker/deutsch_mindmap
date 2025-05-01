@@ -1,1 +1,1 @@
-, [[pflegen]], [[Pflege]]
+, [[pflegen]], [[Pflege]], [[Verpflegung]]

@@ -1,1 +1,1 @@
-, [[Kürzung]], [[Osterweiterung]], [[Abkürzung]], [[usw]], [[Entfaltung]]
+, [[Kürzung]], [[Osterweiterung]], [[Abkürzung]], [[usw]], [[Entfaltung]], [[Einschränkung]]

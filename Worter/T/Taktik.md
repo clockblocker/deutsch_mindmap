@@ -1,1 +1,1 @@
-, [[Spielzug]]
+, [[Spielzug]], [[Vorgehensweise]]

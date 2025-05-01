@@ -2,16 +2,12 @@
 
 ---
 
-Aus diesem Grund benötige ich 
-*einen ruhigen, abgegrenzten Arbeitsplatz,* 
-der *vertrauliche Gespräche* ermöglicht.
+![[002-C1-Schreiben-T2#^5|^]]
 
-Aus diesem Grund finde ich es sinnvoll, 
-*der Belegschaft* die Möglichkeit zu geben, 
-*innerhalb unserer Mittagspause etwas Warmes* zu *essen.*
+![[006-C1-Schreiben-T2#^2|^]]
 
 Da *der ÖPNV* keine akzeptablen Bedingungen *für Menschen mit Behinderung* bietet, 
 halte ich es für sinnvoll, uns weiterhin 
-die [[Nutzung]] *des Parkplatzes* zu [[gewähren]]. 
+die [[Nutzung]] *des Parkplatzes* zu gewähren. 
 
 Solche Einzelfallregelungen bleiben jedoch nur eine Symptombehandlung.

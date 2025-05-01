@@ -35,4 +35,4 @@ Morpheme: [[droh]][[en]]
 | Sie       | [[drohen]]           | [[drohten]]           | [[drohen Sie]]    | [[drohen]]             | [[drohten]]             |
 
 Partizip I: [[drohend]], Partizip II: [[gedroht]]
-[[drohen]] - [[droh]] = [[en]], [[bevorstehen]]
+[[drohen]] - [[droh]] = [[en]], [[bevorstehen]], [[ankündigen]]

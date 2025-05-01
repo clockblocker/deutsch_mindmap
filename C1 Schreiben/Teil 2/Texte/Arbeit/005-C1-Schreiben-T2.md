@@ -14,57 +14,34 @@ Schreiben Sie circa 120 Wörter.
 
 Sehr geehrte Frau Marek,
 
-ich habe vollstes Verständnis dafür, wie wichtig Pünktlichkeit ist – besonders, wenn eine Projektpräsentation bereits in der nächsten Woche ansteht.
+ich habe vollstes Verständnis dafür, wie wichtig Pünktlichkeit ist – insbesondere, da die Vorstellung des Projekts bereits in der nächsten Woche ansteht. ^1
 
-Leider war meine Frau unerwartet krank geworden, und ich war gezwungen, sie in den Notfall zu bringen. Ich hätte Sie über meine mögliche Verspätung informieren müssen; dafür möchte ich mich entschuldigen.
 
-Allerdings halte ich einen schriftlichen Hinweis in diesem Fall für überzogen: Ich bin seit vielen Jahren Teil des Unternehmens und war in all den Jahren noch nie zu spät.
+Leider ist meine Frau unerwartet krank geworden, und ich war gezwungen, sie in den Notfall zu bringen. Ich hätte Sie über meine mögliche Verspätung informieren müssen; dafür möchte ich mich entschuldigen. ^2
 
-Sollte es noch einmal zu einer Verspätung kommen, werde ich Sie direkt informieren und begrüße es, wenn Sie in einem solchen Fall zunächst das direkte Gespräch suchen.
 
-Auf eine Antwort von Ihnen freue ich mich.
+Allerdings halte ich einen schriftlichen Hinweis in diesem Fall für [[unangemessen]]: ^5
+
+
+Ich bin seit vielen Jahren Teil des Unternehmens und war in all den Jahren noch nie zu spät. ^3
+
+
+Sollte es noch einmal zu einer Verspätung kommen, werde ich Sie direkt informieren und schlage vor, in solchen Fällen zunächst das persönliche Gespräch zu suchen. ^4
+
+
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
 Mit freundlichen Grüßen
 Denis Popov
 
-![[ElevenLabs_005.mp3]]
-
 ---
 
-Sie sind letzte Woche zum ersten Mal in Ihrer langjährigen Betriebszugehörigkeit zu spät gekommen. Daraufhin erhielten Sie von Ihrer Vorgesetzten eine E-Mail mit dem Hinweis darauf, dieses Verhalten in Zukunft zu unterlassen. Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Marek. 
-* Eröffnen Sie Ihr Schreiben, indem Sie Verständnis für die Wichtigkeit der Einhaltung der Arbeitszeit zeigen. 
-* Nennen Sie die Ursache Ihres Zuspätkommens. 
-* Äußern Sie Ihren Unmut über die E-Mail Ihrer Vorgesetzten. 
-* Machen Sie einen Vorschlag für den Umgang mit Verspätungen. 
+![[005-C1-Schreiben-T2#^1|^]]
 
-Schreiben Sie circa 120 Wörter.
+![[005-C1-Schreiben-T2#^2|^]]
 
----
+![[005-C1-Schreiben-T2#^5|^]] 
+![[005-C1-Schreiben-T2#^3|^]]
 
-*Sehr geehrte Frau Marek,*
+![[005-C1-Schreiben-T2#^4|^]]
 
-*ich habe vollstes Verständnis dafür,*
-wie wichtig Pünktlichkeit ist *– besonders,* 
-*wenn* eine Projektpräsentation bereits in der nächsten Woche ansteht.
-
-*Leider* war meine Frau unerwartet krank geworden, 
-*und ich war gezwungen,*
-sie in den [[Notfall]] zu bringen.
-*Ich hätte* Sie über meine mögliche Verspätung informieren *müssen;* 
-*dafür möchte ich mich entschuldigen.*
-
-*Allerdings halte ich* einen schriftlichen [[Hinweis]] *in diesem Fall für überzogen:* 
-Ich bin seit vielen [[Jahr]]en [[Teil]] des [[Unternehmen]]s 
-und war in all den [[Jahr]]en noch nie zu spät.
-
-*Sollte es noch einmal zu* einer [[Verspätung]] *kommen,* 
-*werde ich* Sie direkt informieren 
-*und ich würde es begrüßen,* 
-*wenn* Sie in einem solchen Fall zunächst das direkte Gespräch suchen.
-
-Auf eine Antwort von Ihnen freue ich mich.
-
-*Mit freundlichen Grüßen*
-*Denis Popov*
-
-![[ElevenLabs_2025-04-21T06_27_28_Otto_pvc_sp100_s100_sb100_se24_b_m2 1.mp3]]

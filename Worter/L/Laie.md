@@ -1,1 +1,1 @@
-, [[Anwalt]], [[Forscher]], [[Friseur]], [[Fachmann]], [[Ingenieur]], [[Anfänger]]
+, [[Anwalt]], [[Forscher]], [[Friseur]], [[Fachmann]], [[Ingenieur]], [[Anfänger]], [[Techniker]]

@@ -1,1 +1,1 @@
-, [[verantworten]], [[verantwortlich]], [[verantwortungsvoll]]
+, [[verantworten]], [[verantwortlich]], [[verantwortungsvoll]], [[Zuständigkeit]]

@@ -30,4 +30,4 @@ G: der [[Kapazität]], der [[Kapazitäten]]
 D: der [[Kapazität]], den [[Kapazitäten]]
 
 
-#Feminin 
+#Feminin , [[Überbelegung]]

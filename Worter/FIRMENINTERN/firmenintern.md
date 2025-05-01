@@ -1,1 +1,1 @@
-, [[betriebseigen]], [[Firma]]
+, [[betriebseigen]], [[Firma]], [[betrieblich]]

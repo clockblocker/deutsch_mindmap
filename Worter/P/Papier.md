@@ -1,2 +1,2 @@
 das [[Papier]] / die [[Papiere]] | #Substantiv #Neuter | paper
-, [[Bildschirm]]
+, [[Bildschirm]], [[Papierstau]]

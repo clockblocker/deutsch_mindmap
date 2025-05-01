@@ -1,3 +1,5 @@
+---> [[Ingredinet-Hindernis-Nomen]] <--
+
 , [[Gegenwind]], [[Förderung]]
 🛑 🔴 die [[Hemmung]], [ˈhɛmʊŋ](https://youglish.com/pronounce/Hemmung/german)
 die [[Hemmungen]]
