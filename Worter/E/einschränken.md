@@ -1,5 +1,5 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
 ---> [[Ingredient-Verb-Wachstum-Steigerung]] <---
----> [[Ingredient-erlauben-verbieten]] <---
 
 🚧 [[einschränken]], [ˈaɪ̯nˌʃʁɛŋkən] | [[schränkte ein]], haben [[eingeschränkt]]
 

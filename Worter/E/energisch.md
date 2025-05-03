@@ -1,1 +1,2 @@
-, [[lebhaft]], [[matt]], [[stark]]
+---> 💥 [[Grad-Intensität]] <---
+, [[lebhaft]], [[matt]], [[stark]], [[heftig]]

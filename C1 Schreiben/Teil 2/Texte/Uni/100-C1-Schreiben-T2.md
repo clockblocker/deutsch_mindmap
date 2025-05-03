@@ -1,0 +1,1 @@
+no arbeitplatz in bibliothek

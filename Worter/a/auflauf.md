@@ -16,7 +16,7 @@ Synonyme:
 
 ---
 Morphems:
-[[Konjunktion/Positionen/auf]][[lauf]]
+[[Konjunktion/Positionen/auf]][[Lauf]]
 
 ---
 #Substantiv #Maskulin 

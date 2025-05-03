@@ -3,6 +3,9 @@
 ---
 Babys [[erkennen]] ihre Mütter [[an]] ihren Stimmen.
 
+*[[C1-Lesen-1-000-Text#^9|^]]* Bei guten [[Sichtverhältnissen]] sorgt [[zusätzlich]] eine Drohne aus der Luft [6], dass weiterer Müll im Wasser [[erkannt]] wird. ^9
+
+
 SASCHA: [[Erkennst]] du hier irgend jemand?  
 
 Katara sieht den Eisberg genauer an und [[erkennt]] einen Jungen mit leuchtenden Pfeilen auf dem Kopf und den Händen. 

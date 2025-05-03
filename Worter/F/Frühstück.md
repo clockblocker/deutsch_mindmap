@@ -2,4 +2,4 @@
 
 Ich beim [[Frühstück]]
 
-[[Frühstücken]]
+[[Frühstücken]], [[früher]]

@@ -6,6 +6,8 @@
 🌱 [[hervorgehen]] `aus` *(to emerge from; narrative or analytical outcome)*
 ➡️ [[führen]] `zu` *(to lead to; causal chain builder)*
 📎 [[zur Folge haben]] *(to have as a consequence; bureaucratic phrasing)*
+🕰️ [[geschehen]] *to happen, to occur, to take place*
+
 
 ---
 
@@ -34,7 +36,6 @@ like 🩹 [[beeinträchtigen]] *(to impair; partial damage, softer tone)*
 🏆 [[erzielen]] *(to achieve; performance-oriented, results-focused)*
 🔓 [[ermöglichen]] *(to make possible; facilitation, soft success)*  
 ✨ [[bewirken]] *(to cause/make happen; neutral-positive outcome)*
-
 
 #### 🎨 Produktion / Erschaffung – Creating, Building, Producing
 🎨 [[zeugen]] *(to bring about; historical or metaphorical creation)*

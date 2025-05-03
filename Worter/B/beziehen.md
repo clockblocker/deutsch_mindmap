@@ -4,7 +4,10 @@
  [Player to the team] -- Wie habt ihr Kaijo [[beziegt]]? 
  Durch pure [[Willenskraft]] oder?
 
-Ich [[beziehe]] mich [[Worter/A/auf]] das, was Sie [[vorhin]] [[erwähnt]] haben.  
+*[[C1-Lesen-1-000-Loesung#^6|^]]* „Damalig“ [[bezieht]] sich auf eine frühere Zeit. Die Bedrohung durch Plastikmüll ist jedoch [[gegenwärtig]], nicht nur in der Vergangenheit. ^6
+
+
+Ich [[beziehe]] mich [[auf]] das, was Sie [[vorhin]] [[erwähnt]] haben.  
 
 Meine Frage [[bezieht]] sich [[Worter/A/auf]] die [[Garantiebestimmungen]].
 

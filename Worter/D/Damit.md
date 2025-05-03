@@ -32,4 +32,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen: 
 [[Damit]]
-, [[11 08]], [[aufmachen]], [[Konnektoren]], [[daß]], [[Texte/Misc/Anki]], [[Nebensatz Conector]], [[Konjunktoren]]
+, [[11 08]], [[aufmachen]], [[Konnektoren]], [[daß]], [[Texte/Misc/Anki]], [[Nebensatz Conector]], [[Konjunktoren]], [[damalig]]

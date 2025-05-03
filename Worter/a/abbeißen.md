@@ -1,4 +1,4 @@
-🍎 [[abbeißen 1]] + Akk, [ˌapˈbaɪ̯sn̩]
+🍎 [[abbeißen]] + Akk, [ˌapˈbaɪ̯sn̩]
 [[biss ab|biss ab]]
 haben [[abgebissen]]
 

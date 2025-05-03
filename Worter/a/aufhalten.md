@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🛑 [[aufhalten]], [ˈaʊ̯fˌhaltn̩](https://youglish.com/pronounce/aufhalten/german) → [[hielt auf]] → [[aufgehalten]]
 
 ---

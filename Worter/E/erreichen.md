@@ -1,3 +1,4 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 ---> [[Ingredient-Result-Verb]] <---
 
 🎯 [[erreichen]], [ɛˈʁaɪ̯çn̩] | [[erreichte]], haben [[erreicht]]
@@ -57,4 +58,4 @@ PI: [[erreichend]], PII: [[erreicht]], Zu+inf: [[zu erreichen]]
 
 , [[schaden]], [[reichen]]
 , [[erreichbar]], [[einholen]], [[wodurch]], [[w-l]]
-, [[zusammenbekommen]], [[erfüllen]], [[Verknüpfung]], [[erwerben]], [[münden]], [[gegenseitig]]
+, [[zusammenbekommen]], [[erfüllen]], [[Verknüpfung]], [[erwerben]], [[münden]], [[gegenseitig]], [[durchsetzen]]

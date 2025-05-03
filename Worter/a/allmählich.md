@@ -3,6 +3,12 @@
 ---
 Obwohl es in Russland viele Probleme gibt, wird das Leben [[allmählich]] besser.
 
+*[[C1-Lesen-1-000-Text#^5|^]]* [[Bisher]] konzentrierten sich die [[Reinigungsmaßnahmen]] vor allem auf [[Küsten]] und die [[Wasseroberfläche]], [3] den [[Meeresboden]] zu säubern ist [[aufwendiger]] und für [[Taucher]] [[gefährlich]]. ^5
+
+
+*[[C1-Lesen-1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[absenken|sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
+
+
 ---
 = [[langsam]], [[schrittweise]], [[allmählig]]
 ≈ [[nach und nach]], [[allmählich]], [[stufenweise]], [[sukzessive]]
@@ -13,7 +19,7 @@ gradually, slowly
 постепенно, мало-помалу
 
 ---
-[[Worter/A/All]]|[[mäh]]|[[lich]]
+[[All]]|[[mäh]]|[[lich]]
 
 ---
 N: [[allmählich]], [[allmählicher]], [[allmählichste]]
@@ -38,3 +44,4 @@ P: [[allmählichen]], [[allmählicheren]], [[allmählichsten]]
 
 – Wie [[hat]] sich das [[allmählich]] [[entwickelt]]?
 – Über einen langen Zeitraum.
+, [[ablagern]]

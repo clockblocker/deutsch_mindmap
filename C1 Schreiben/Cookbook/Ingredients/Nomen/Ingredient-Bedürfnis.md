@@ -7,6 +7,8 @@
 📚 [[Bedarf]] *(need, requirement  )*
 📚 [[Grundbedürfnis]] *(basic need; survival or essential life needs)*
 🛡️ [[Freiheit]] *(freedom; absence of constraint, fundamental human need)*
+[[Tätigkeit]] *(activity)*
+
 
 ---
 
@@ -34,3 +36,4 @@
 🎯 [[Notwendigkeit]] *(necessity; unavoidable need for action or resources)*
 🎯 [[Zwangslage]] *(situation of compulsion; emergency requiring action)*
 🚧 [[Sachzwang]] *(objective necessity, constraint)*
+

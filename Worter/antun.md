@@ -28,4 +28,4 @@ PI: [[antuend]], PII: [[angetan]], Zu+inf: [[anzutun]]
 
 ---
 [[Antuerei]], [[Worter/T/Tat]], [[Handlung]], [[Schaden]], [[Verletzung]], [[absichtlich]], [[unabsichtlich]], [[Versehen]]
-, [[versehentlich]], [[Tat]]
+, [[versehentlich]], [[Tat]], [[irrtümlich]]

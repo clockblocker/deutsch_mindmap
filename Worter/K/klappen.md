@@ -1,3 +1,5 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+
 ✅ [[klappen]], [ˈklapən] | [[klappte]], haben [[geklappt]] | [[Klappe]]
 
 ---

@@ -1,3 +1,4 @@
+---> 💸 [[Grad-Preis]] <---
 ✅ [[effizient]], [ɛfiˈt͡si̯ɛnt](https://youglish.com/pronounce/effizient/german)
 
 ---

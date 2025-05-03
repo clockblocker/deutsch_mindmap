@@ -1,1 +1,2 @@
-, [[annehmen]], [[Beweis]]
+---> 🤝 [[Ingredient-Interaktion]] <---
+[[annehmen]]

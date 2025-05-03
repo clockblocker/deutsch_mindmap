@@ -1,8 +1,13 @@
+---> ⚠️ [[Grad-Risiko]] <---
+
 🟥 [[gefährlich]], [ɡəˈfɛːɐ̯lɪç]
 nicht [[ungefährlich]]
 
 ---
 Sie geht alleine nach Hause, [[obwohl]] sie weiß, dass es [[gefährlich]] ist.
+
+*[[C1-Lesen-1-000-Text#^5|^]]* [[Bisher]] konzentrierten sich die [[Reinigungsmaßnahmen]] vor allem auf [[Küsten]] und die [[Wasseroberfläche]], [3] den [[Meeresboden]] zu säubern ist [[aufwendiger]] und für [[Taucher]] [[gefährlich]]. ^5
+
 
 *[[Einen Ohrwurm haben#^27|^]]* Das ist zwar nicht [[gefährlich]], kann aber ziemlich nervig sein. ^27
 

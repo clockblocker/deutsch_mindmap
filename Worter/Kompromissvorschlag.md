@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🤝 🔵 der [[Kompromissvorschlag]], [kɔmˈpʁoːmɪsfɔɐ̯ˌʃlaːk](https://youglish.com/pronounce/Kompromissvorschlag/german)
 die [[Kompromissvorschläge]]
 

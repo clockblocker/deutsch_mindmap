@@ -1,1 +1,1 @@
-, [[einbauen]], [[hängen]], [[aufhängen]], [[zusammenschrauben]], [[einrichten]]
+, [[einbauen]], [[hängen]], [[aufhängen]], [[zusammenschrauben]], [[einrichten]], [[zusammensetzen]]

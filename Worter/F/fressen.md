@@ -3,6 +3,9 @@
 ---
 Sag’ ihr, ich habe einen [[Igel]] gefressen
 
+*[[C1-Lesen-1-000-Text#^4|^]]*  Für viele Tiere im Ozean sind die [[Plastikteile]] eine [[akute]] _2_ [[Bedrohung]], denn oft [[fressen]] sie sie [[irrtümlich]] und [[sterben]] [[daran]]. ^4
+
+
 ---
 Synonyme: [[essen]], [[verschlingen]], [[schlingen]], [[futtern]], [[verputzen]]
 Antonyme: [[verhungern]], [[fasten]], [[abmagern]]

@@ -1,7 +1,12 @@
 📦 [[lagern]], [ˈlaːɡɐn](https://youglish.com/pronounce/lagern/german) | [[lagerte]], haben [[gelagert]]
 
 ---
+*[[C1-Lesen-1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[absenken|sinkt]] dieser Müll [[allmählich]] in die Tiefe und [[lagert]] sich am [[Meeresboden]] ab. ^3
+
+
 > *[[Atom#^29|^]]* *Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.* ^29
+
+
 
 ---
 = [[aufbewahren]], [[speichern]], [[deponieren]]
@@ -44,4 +49,4 @@ sie, [[lagern]], [[lagerten]], [[lagern]], [[lagerten]], [[lagern]]
 Adjektive: [[lagernd]], [[lagernder]], [[lagerndst]]
 
 ---
-[[lagernder]], [[lagerndes]], [[lagernde]], [[lagernden]], [[lagerndem]], [[lagernderer]], [[lagernderes]], [[lagerndere]], [[lagernderen]], [[lagernderem]], [[lagerndster]], [[lagerndstes]], [[lagerndste]], [[lagerndsten]], [[lagerndstem]], [[abstellen]]
+[[lagernder]], [[lagerndes]], [[lagernde]], [[lagernden]], [[lagerndem]], [[lagernderer]], [[lagernderes]], [[lagerndere]], [[lagernderen]], [[lagernderem]], [[lagerndster]], [[lagerndstes]], [[lagerndste]], [[lagerndsten]], [[lagerndstem]], [[abstellen]], [[ablagern]]

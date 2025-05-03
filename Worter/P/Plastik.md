@@ -1,1 +1,1 @@
-, [[Kunst]]
+, [[Kunst]], [[Kunststoffabfall]], [[Plastikteil]]

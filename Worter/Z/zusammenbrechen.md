@@ -1,3 +1,4 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 , [[aufstehen]], [[s1 e1]], [[scheitern]], [[w-l]]
 , [[erholen]]
 💥 [[zusammenbrechen]], [t͡suˈzamənˌbʁɛçən] | [[brach zusammen]], sind [[zusammengebrochen]]

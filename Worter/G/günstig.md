@@ -1,7 +1,5 @@
-, [[billig]], [[kostengünstig]], [[widrig]], [[teuer]]
-, [[gelegen]], [[vorteilhaft]]👍 [[günstig]], [ˈɡʏnstɪç](https://youglish.com/pronounce/günstig/german)
+---> 💸 [[Grad-Preis]] <---
 
----
 👍 [[günstig]], [ˈɡʏnstɪç](https://youglish.com/pronounce/günstig/german) | [[günstiger]], [[am günstigsten]]
 
 ---
@@ -11,6 +9,9 @@ die günstiger sind und eine gute Ausbildung bieten
 = [[preiswert]], [[vorteilhaft]], [[billig]]
 ≈ [[angemessen]], [[akzeptabel]], [[ermäßigt]]
 ≠ [[teuer]], [[ungünstig]], [[kostspielig]]
+
+, [[billig]], [[kostengünstig]], [[widrig]], [[teuer]]
+, [[gelegen]], [[vorteilhaft]] [[günstig]],
 
 ---
 favorable, cheaper  

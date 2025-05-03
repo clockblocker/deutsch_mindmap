@@ -1,3 +1,4 @@
+---> 💸 [[Grad-Preis]] <---
 ⚖️ [[angemessen]], [ˈaŋɡəˌmeːsn̩](https://youglish.com/pronounce/angemessen/german)
 
 ---
@@ -36,4 +37,4 @@ appropriate, adequate
 Adjektive: [[angemessen]], [[angemessener]], [[angemessenst]]
 
 ---
-[[angemessener]], [[angemessenes]], [[angemessene]], [[angemessenen]], [[angemessenem]], [[angemessenerer]], [[angemesseneres]], [[angemessenere]], [[angemesseneren]], [[angemessenerem]], [[angemessenster]], [[angemessenstes]], [[angemessenste]], [[angemessensten]], [[angemessenstem]]
+[[angemessener]], [[angemessenes]], [[angemessene]], [[angemessenen]], [[angemessenem]], [[angemessenerer]], [[angemesseneres]], [[angemessenere]], [[angemesseneren]], [[angemessenerem]], [[angemessenster]], [[angemessenstes]], [[angemessenste]], [[angemessensten]], [[angemessenstem]], [[günstig]]

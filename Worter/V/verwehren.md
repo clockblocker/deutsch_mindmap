@@ -1,2 +1,2 @@
 [[übergeben]], [[schenken]]
-, [[verschaffen]], [[dürfen]], [[gönnen]], [[verhindern]], [[sperren]], [[untersagen]]
+, [[verschaffen]], [[dürfen]], [[gönnen]], [[verhindern]], [[sperren]], [[untersagen]], [[einlassen]]

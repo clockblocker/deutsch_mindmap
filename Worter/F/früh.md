@@ -1,13 +1,10 @@
-früh, [ˈfʀyː]
-nicht [[spät]]
-
 ---> ⏱️ [[Temporal-Zeitpunkt]] <---
 
+⏰ [[früh]], [fʁyː](https://youglish.com/pronounce/früh/german)
 
 ---
-[[Frühstück]]
 
-- Beschreiben Sie die Bedeutung von Bildung im [[frühen]] [[Kindesalter]].  
+Beschreiben Sie die Bedeutung von Bildung im [[frühen]] [[Kindesalter]].  
 
 Du bist [[früh]] [[dran]]!
 
@@ -27,19 +24,26 @@ Die Eltern [[ansehen|sehen]] sich an. „Und wir beide? Wir machen mal w jeder U
 
 
 ---
-Synonyme: [[zeitig]], [[frühzeitig]], [[vorzeitig]], [[zeitlich]]
-Antonyme: [[spät]], [[verspätet]], [[später]]
+= [[zeitig]], [[vorzeitig]]
+≈ [[bald]], [[schnell]], [[frühzeitig]]
+≠ [[spät]], [[verspätet]]
 
 ---
-**Übersetzung**:
-early, soon
+early  
+рано
 
 ---
-#Adjective #Adverb [[früh]]
+[[Frühe]], [[Frühling]], [[frühzeitig]], [[verfrüht]], [[Frühstück]]
+
+[[Frühstück]],[[Frühjahr]], [[Frühjahrsmantel]], [[frühkindlich]]
 
 
-Einzigartige mögliche Formen: 
-[[früh]], [[früher]], [[frühe]], [[frühes]], [[frühen]], [[frühem]], [[früher]], [[frühen]]
-[[früheren]], [[früherer]], [[frühere]], [[früheres]], [[früheren]], [[früherem]], [[früherer]], [[früheren]]
-[[frühesten]], [[frühester]], [[frühesteʼs]], [[frühestes]], [[frühesten]], [[frühesteʼm]], [[frühester]], [[frühesten]]
-''', [[Frühjahr]], [[Frühjahrsmantel]], [[frühkindlich]]
+---
+[[früh]]
+
+
+---
+Adjektive: [[früh]], [[früher]], [[frühst]]
+
+---
+[[früher]], [[frühes]], [[frühe]], [[frühen]], [[frühem]], [[früherer]], [[früheres]], [[frühere]], [[früheren]], [[früherem]], [[frühster]], [[frühstes]], [[frühste]], [[frühsten]], [[frühstem]]

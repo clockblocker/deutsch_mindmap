@@ -1,3 +1,5 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+
 📞 [[empfangen]], [ɛmˈpfaŋən] | [[empfing]], haben [[empfangen]]
 
 ---
@@ -34,4 +36,4 @@ PI: [[empfangend]], PII: [[empfangen]], Zu+inf: [[zu empfangen]]
 , [[versenden]]
 , [[Stehempfang]]
 , [[bekommen]]
-, [[auffangen]], [[einladen]], [[verabschieden]], [[einlassen]], [[aussenden]], [[liefern]]
+, [[auffangen]], [[einladen]], [[verabschieden]], [[Worter/E/einlassen]], [[aussenden]], [[liefern]]

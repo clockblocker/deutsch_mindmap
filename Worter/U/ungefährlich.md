@@ -1,1 +1,2 @@
-, [[unheimlich]], [[gruselig]], [[tödlich]], [[gefährlich]], [[risikoreich]]
+---> ⚠️ [[Grad-Risiko]] <---
+, [[unheimlich]], [[gruselig]], [[tödlich]], [[gefährlich]], [[risikoreich]], [[akut]]

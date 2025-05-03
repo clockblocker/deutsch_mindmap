@@ -1,1 +1,1 @@
-, [[Schritt]], [[gang]]
+, [[Schritt]], [[gang]], [[Lauf]]

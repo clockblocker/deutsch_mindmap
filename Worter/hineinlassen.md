@@ -1,3 +1,5 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+
 🚪 [[hineinlassen]], [hɪˈnaɪ̯nˌlasən] | [[ließ hinein]], haben [[hineingelassen]]
 
 ---
@@ -9,7 +11,7 @@
 
 ---
 = [[eintreten lassen]], [[hereinlassen]], [[zulassen]]
-≈ [[reinlassen]], [[einlassen]], [[betreten erlauben]]
+≈ [[reinlassen]], [[Worter/E/einlassen]], [[betreten erlauben]]
 ≠ [[aussperren]], [[abweisen]], [[zurückhalten]], [[verweigern]]
 
 ---
@@ -31,4 +33,4 @@ PI: [[hineinlassend]], PII: [[hineingelassen]], Zu+inf: [[hineinzulassen]]
 [[hineinlassen]] - [[hinein]] = [[lassen]] / to let in, to admit
 
 ---
-[[Einlass]], [[Zutritt]], [[Erlaubnis]], [[Zulassung]], [[hereinlassen]], [[einlassen]]
+[[Einlass]], [[Zutritt]], [[Erlaubnis]], [[Zulassung]], [[hereinlassen]], [[Worter/E/einlassen]], [[einlassen]]

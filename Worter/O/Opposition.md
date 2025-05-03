@@ -1,1 +1,1 @@
-, [[Regierung]], [[Bundesregierung]], [[regierend]], [[Regierungspartei]], [[Regierungschef]], [[Einheitspartei]]
+, [[Regierung]], [[Bundesregierung]], [[regierend]], [[Regierungspartei]], [[Regierungschef]], [[Einheitspartei]], [[Entgegensetzung]]

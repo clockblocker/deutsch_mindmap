@@ -1,3 +1,5 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+
 [[w-l]] 😌 [[bewältigen]], [bəˈvɛltɪɡn̩] | [[bewältigte]], haben [[bewältigt]]
 
 ---

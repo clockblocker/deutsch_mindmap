@@ -1,2 +1,1 @@
-, [[unterbrechen]], [[weiterüben]], [[abbiegen]], [[kündigen]], [[weitermachen]], [[weitergehen]], [[beibehalten]], [[aufgeben]]
-, [[abbrechen]], [[auflegen]], [[andauern]], [[umkehren]], [[weiterleiten]]
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---

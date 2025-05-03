@@ -1,4 +1,4 @@
-z---> [[Ingredient-Zugang-Zugriff]] <---
+---> [[Ingredient-Zugang-Zugriff]] <---
 #### 🔓 [[Zugang]]
 *→ literally “entrance”, metaphorically “access”*
 
@@ -75,5 +75,4 @@ infrastructure-style access — when something is *supplied*
 
 ---
 
-
-[[viel-wenig]]
+[[Zutritt]]

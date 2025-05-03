@@ -1,3 +1,5 @@
+---> 💥 [[Grad-Intensität]] <---
+
 [[Groß]]
 [[größer]]
 [[am]] [[größten]]

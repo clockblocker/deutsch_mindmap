@@ -1,3 +1,4 @@
+---> ⏱️ [[Temporal-Status]] <---
 ---> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
 🔴 die [[Erwartung]], [ˈʔɛɐ̯ˌvɑʁtʊŋ]
 die [[Erwartungen]]

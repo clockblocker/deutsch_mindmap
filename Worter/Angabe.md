@@ -29,3 +29,6 @@ D: der [[Angabe]], den [[Angaben]]
 ---
 [[angeben]], [[angaben]], [[angabt]], [[Angabefehler]], [[wahrheitsgemäß]], [[Mengenangabe]]
 , [[Richtungsangabe]]
+
+
+#Feminin 

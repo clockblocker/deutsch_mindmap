@@ -56,4 +56,4 @@ G: der [[Folge]], der [[Folgen]]
 D: der [[Folge]], den [[Folgen]]
 
 
-#Feminin 
+#Feminin , [[zufolge]]

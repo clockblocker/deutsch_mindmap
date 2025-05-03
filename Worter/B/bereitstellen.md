@@ -1,3 +1,4 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
 ---> [[Management-Coordination-Allocation]] <---
 
 🛠️ [[bereitstellen]], [bəˈʁaɪ̯tˌʃteːlən](https://youglish.com/pronounce/bereitstellen/german) → [[stellte bereit]] → [[bereitgestellt]]

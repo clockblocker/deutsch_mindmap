@@ -1,1 +1,1 @@
-, [[geeignet]], [[Fähig]]
+, [[geeignet]], [[Fähig]], [[einsatzfähig]]

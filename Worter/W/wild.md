@@ -1,3 +1,5 @@
+---> 💥 [[Grad-Intensität]] <---
+
 [[wild]], nicht [[zahm]], nicht [[gezähmt]]
 
 ---
@@ -42,3 +44,4 @@ Einzigartige mögliche Formen:
 - *Die* [[Worter/W/wilde.md|wilde]] *Mutter und ein* [[Worter/W/wilder.md|wilder]] *Sohn gaben* [[Worter/W/wildem.md|wildem]] *Vater ein* [[Worter/W/wildes.md|wildes]] *Geschenk* [[Worter/W/wilden.md|wilden]] *Onkels*
 - *Die* [[Worter/W/wildere.md|wildere]] *Mutter und ein* [[Worter/W/wilderer.md|wilderer]] *Sohn gaben* [[Worter/W/wilderem.md|wilderem]] *Vater ein* [[Worter/W/wilderes.md|wilderes]] *Geschenk* [[Worter/W/wilderen.md|wilderen]] *Onkels*
 - *Die* [[Worter/W/wildeste.md|wildeste]] *Mutter und ein* [[Worter/W/wildester.md|wildester]] *Sohn gaben* [[Worter/W/wildestem.md|wildestem]] *Vater ein* [[Worter/W/wildestes.md|wildestes]] *Geschenk* [[Worter/W/wildesten.md|wildesten]] *Onkels*
+, [[heftig]]

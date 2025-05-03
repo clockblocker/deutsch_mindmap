@@ -1,3 +1,4 @@
+---> ⏱️ [[Temporal-Status]] <---
 🔤 [[schließlich]], [ˈʃliːslɪç]
 
 ---

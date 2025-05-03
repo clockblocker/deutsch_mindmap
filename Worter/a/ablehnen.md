@@ -1,3 +1,5 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+
 🚫 [[ablehnen]] | [[lehnte ab|lehnte ab]], haben [[abgelehnt]]
 
 ---
@@ -39,4 +41,4 @@ Zu+infinifive: [[abzulehnen]]
 , [[zufriedengeben]]
 , [[loben]]
 , [[bevorzugen]]
-, [[Streben]], [[anwerben]], [[einlassen]]
+, [[Streben]], [[anwerben]], [[Worter/E/einlassen]], [[genehmigen]]

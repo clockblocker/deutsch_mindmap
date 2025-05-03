@@ -1,1 +1,1 @@
-, [[Schritt]], [[Handlung]], [[Maßnahme]], [[Bewegung]], [[Akteur]], [[Tat]], [[Interaktion]]
+, [[Schritt]], [[Handlung]], [[Maßnahme]], [[Bewegung]], [[Akteur]], [[Tat]], [[Interaktion]], [[agieren]]

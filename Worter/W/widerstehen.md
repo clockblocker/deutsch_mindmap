@@ -1,3 +1,5 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+
 🛡️ [[widerstehen]] + Dat, [ˈviːdɐˌʃteːən]
 [[widerstand]]
 haben [[widerstanden]]

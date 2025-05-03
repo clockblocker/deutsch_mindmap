@@ -28,4 +28,4 @@ Morpheme:
 ---
 #Adverb
 , [[inzwischen]], [[Währenddessen]], [[vorhin]], [[1 Präpositionen Übungen]]
-, [[nachfolgend]], [[ferner]]
+, [[nachfolgend]], [[ferner]], [[früher]]

@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🔗 [[unterbrechen]] + Akk, [ˌʊntɐˈbrɛçən]
 [[unterbrach|unterbrach]]
 haben [[unterbrochen]]

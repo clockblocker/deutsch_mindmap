@@ -28,4 +28,4 @@ G: des [[Fotos]], der [[Fotos]]
 D: dem [[Foto]], den [[Fotos]]
 
 
-#Neuter 
+#Neuter , [[Nahaufnahme]]

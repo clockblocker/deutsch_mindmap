@@ -4,7 +4,8 @@
 ---> 📈 [[Grad-Vergleich]] <---
 ---> 🧱 [[Grad-Gewicht]] <---
 ---> 🧩 [[Grad-Ganzheit]] <---
-
+---> 💸 [[Grad-Preis]] <---
+---> ⚠️ [[Grad-Risiko]] <---
 
 
 

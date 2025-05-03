@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 [[geben]], [[Gebetshaus]], [[Bettag]]
 🟢 🙏 das [[Gebet]], [ɡəˈbeːt]
 die [[Gebete]]

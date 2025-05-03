@@ -1,1 +1,1 @@
-, [[zurennen]], [[näherkommen]], [[zugehen]], [[herankam]], [[zukommen]]
+, [[zurennen]], [[näherkommen]], [[zugehen]], [[herankam]], [[zukommen]], [[nähern]]

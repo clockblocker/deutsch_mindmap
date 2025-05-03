@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 📞 [[aufrufen]], [ˈaʊ̯fˌʁuːfn̩](https://youglish.com/pronounce/aufrufen/german) → [[rief auf]] → [[aufgerufen]]
 
 ---

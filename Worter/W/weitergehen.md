@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 😤 [[weitergehen]], [ˈvaɪ̯tɐˌgeːən] | [[ging weiter]], sein [[weitergegangen]]
 
 ---

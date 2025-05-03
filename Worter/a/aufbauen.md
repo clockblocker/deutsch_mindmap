@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 ⚒️ [[aufbauen]] + Akk, [ˈaʊ̯fbauən] 
 [[baute auf|baute auf]]
 haben [[aufgebaut]]
@@ -43,4 +44,4 @@ Partizip I: [[aufbauend]], Partizip II: [[aufgebaut]], [[aufzubauen]]
 
 [[aufbauen]] - [[Worter/A/auf]] = [[bauen]]
 , [[Extra 8]], [[abreißen]], [[aufstellen]], [[stellen]], [[umwerfen]], [[abnehmen]], [[errichteten]], [[zerstörten]], [[Verwaltungsaufbau]], [[vernichten]]
-, [[zusammenbrechen]], [[etablieren]], [[Textaufbau]], [[zugrunde]]
+, [[zusammenbrechen]], [[etablieren]], [[Textaufbau]], [[zugrunde]], [[zerreiben]]

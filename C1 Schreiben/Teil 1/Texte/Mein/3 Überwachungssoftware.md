@@ -9,7 +9,8 @@
 
 ---
 
-*Heute wird kontrovers darüber diskutiert, ob* die Eltern ihre Kinder mit Hilfe einer Überwachungssoftware kontrollieren sollten, *oder ob eine solche Handlungsweise als* eine grosse Überschreitung der persönlichen Grenzen *angesehen werden sollte.*
+*Heute wird kontrovers darüber diskutiert, ob* die Eltern ihre Kinder mit Hilfe einer Überwachungssoftware kontrollieren sollten, *oder ob eine solche Handlungsweise als* eine grosse Überschreitung der persönlichen Grenzen *angesehen werden sollte.* ^1
+
 
 *Auf der einen Seite vertreten viele Wissenschaftler den Standpunkt, dass* die Entwicklung der 
 Empfehlungsalgorithmen in den sozialen Netzwerken das natürlichen Aufwachsen von Kindern zerstört. 

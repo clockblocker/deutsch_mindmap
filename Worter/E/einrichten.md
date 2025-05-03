@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 ---> [[Management-Coordination-Allocation]] <---
 🛠️ [[einrichten]], [ˈaɪ̯nˌʁɪçtn̩] | [[richtete ein]], haben [[eingerichtet]]
 

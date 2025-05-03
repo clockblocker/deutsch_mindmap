@@ -35,3 +35,4 @@ Morpheme: [[tauch]][[en]]
 Partizip I: [[tauchend]], Partizip II: [[getaucht]]
 
 [[tauchen]] - no prefix
+, [[Taucher]]

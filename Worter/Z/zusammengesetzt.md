@@ -1,1 +1,1 @@
-, [[zusammen]], [[komplex]]
+, [[zusammen]], [[komplex]], [[zusammensetzen]]

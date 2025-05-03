@@ -1,1 +1,1 @@
-[[vermischen]][[teilen]], [[zusammenstellen]], [[mischen]], [[abscheiden]], [[paaren]]
+[[vermischen]][[teilen]], [[zusammenstellen]], [[mischen]], [[abscheiden]], [[paaren]], [[zusammensetzen]]

@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🚪 der [[Beitritt]], [ˈbaɪ̯tʁɪt]
 die [[Beitritte]]
 

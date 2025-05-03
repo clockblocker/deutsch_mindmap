@@ -1,3 +1,5 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+
 💡 [[initiieren]], [ɪniˈt͡siːʁən](https://youglish.com/pronounce/initiieren/german) | [[initiierte]], haben [[initiiert]]
 
 ---

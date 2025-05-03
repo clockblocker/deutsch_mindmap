@@ -1,3 +1,5 @@
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
 🕰️ [[damalig]], [ˈdaːmaːlɪç](https://youglish.com/pronounce/damalig/german) ≠ [[heutig]]
 
 ---

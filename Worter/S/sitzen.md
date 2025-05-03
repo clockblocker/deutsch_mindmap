@@ -1,16 +1,20 @@
 👥 [[sitzen]], [ˈzɪtsn] | [[saß]], haben [[gesessen]]
 
 ---
-[[Sitz]], [[Sessel]]
+*[[C1-Lesen-1-000-Text#^7|^]]* Das System [[setzt]] _5_ sich `aus` vier Roboter-Komponenten zusammen: Ein autonom [[fahrendes]] Roboter-Boot lokalisiert größere Müllansammlungen im Wasser. ^7
+
 
 ---
-[[besitzen]] - [[be]] = [[sitzen]] / to own, to possess
-[[vorsitzen]] - [[vor]] = [[sitzen]] / to preside, to chair, to sit in front
+[[besitzen]] - [[be]] = [[sitzen]]  *to own, to possess*
+[[vorsitzen]] - [[vor]] = [[sitzen]]  *to preside, to chair, to sit in front*
+`sich` [[sitzen]] `aus` *compound*
 
 ---
 = [[Platz nehmen]], [[hocken]], [[sich hinsetzen]]
 ≈ [[verweilen]], [[sitzen bleiben]], [[ruhen]]
 ≠ [[stehen]], [[liegen]], [[gehen]]
+
+[[Sitz]], [[Sessel]]
 
 ---
 to sit, to be seated, to take a seat

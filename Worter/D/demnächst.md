@@ -1,3 +1,4 @@
+---> ⏱️ [[Temporal-Status]] <---
 ---> ⏱️ [[Temporal-Perspektive]] <---
 ---> ⏱️ [[Temporal-Zeitpunkt]] <---
 

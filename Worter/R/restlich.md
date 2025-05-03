@@ -31,4 +31,4 @@ Tags:
 
 Morphems:
 [[rest]][[lich]]
-, [[sonstig]]
+, [[sonstig]], [[Rest]]

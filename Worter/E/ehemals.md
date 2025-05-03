@@ -1,3 +1,3 @@
 ---> ⏱️ [[Temporal-Zeitpunkt]] <---
 
-, [[vorherigen]], [[heutzutage]], [[vorher]], [[derzeit]]
+, [[vorherigen]], [[heutzutage]], [[vorher]], [[derzeit]], [[früher]]

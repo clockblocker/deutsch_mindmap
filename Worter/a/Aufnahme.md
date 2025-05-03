@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🔴 die [[Aufnahme]], [ˈaʊ̯fˌnaːmə]
 die [[Aufnahmen]]
 
@@ -23,4 +25,4 @@ G: der [[Aufnahme]], der [[Aufnahmen]]
 D: der [[Aufnahme]], den [[Aufnahmen]]  
 
 ---
-[[aufnehmen]], [[aufnehmbar]], [[Aufnahmebedingungen]], [[Aufnahmeverfahren]], [[aufnahmefähig]], [[Texte/Misc/Anki]], [[Unterbringung]], [[Foto]]
+[[aufnehmen]], [[aufnehmbar]], [[Aufnahmebedingungen]], [[Aufnahmeverfahren]], [[aufnahmefähig]], [[Texte/Misc/Anki]], [[Unterbringung]], [[Foto]], [[Nahaufnahme]]

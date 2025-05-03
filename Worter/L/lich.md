@@ -6,4 +6,4 @@
 , [[versehentlich]]
 , [[innerlich]]
 , [[pünktlich]]
-, [[erforderlich]], [[allmählich]], [[gesellschaftlich]], [[beruflich]], [[außergewöhnlich]], [[allwöchentlich]], [[unerbittlich]], [[geldlich]], [[nördlich]], [[geisteswissenschaftlich]], [[erheblich]], [[inhaltlich]], [[letztendlich]], [[frühkindlich]], [[zwischenmenschlich]], [[unaufhörlich]], [[Räumlichkeit]], [[gemeinschaftlich]], [[ausdrücklich]], [[beträchtlich]], [[betrieblich]], [[persönlich]]
+, [[erforderlich]], [[allmählich]], [[gesellschaftlich]], [[beruflich]], [[außergewöhnlich]], [[allwöchentlich]], [[unerbittlich]], [[geldlich]], [[nördlich]], [[geisteswissenschaftlich]], [[erheblich]], [[inhaltlich]], [[letztendlich]], [[frühkindlich]], [[zwischenmenschlich]], [[unaufhörlich]], [[Räumlichkeit]], [[gemeinschaftlich]], [[ausdrücklich]], [[beträchtlich]], [[betrieblich]], [[persönlich]], [[irrtümlich]]

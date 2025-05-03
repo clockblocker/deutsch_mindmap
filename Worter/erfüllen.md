@@ -1,3 +1,4 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 ---> [[Ingredient-Verben-Bedürfnis]] <---
 ✅ [[erfüllen]], [ɛɐ̯ˈfʏlən](https://youglish.com/pronounce/erfüllen/german) → [[erfüllte]] → [[erfüllt]]
 

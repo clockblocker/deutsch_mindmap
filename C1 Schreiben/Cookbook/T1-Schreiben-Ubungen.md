@@ -9,6 +9,14 @@
 - [x] [[007-C1-Schreiben-T2|007]] Unzureichende Einführung neuer Software führt zu Verzögerungen im Arbeitsprozess
 - [x] [[008-C1-Schreiben-T2|008]] Neue Parkplatzregelung schließt Mitarbeitende mit Wohnortnähe aus
 
+- [x] [[008-C1-Schreiben-T2|008]] Neue Parkplatzregelung schließt Mitarbeitende mit Wohnortnähe aus
+- [x] [[008-C1-Schreiben-T2|008]] Neue Parkplatzregelung schließt Mitarbeitende mit Wohnortnähe aus
+- [x] [[009-C1-Schreiben-T2|009]] Bildungsurlaub
+
+#### Uni
+- [ ] [[100-C1-Schreiben-T2|100]] Kein Arbeitsplatz in der Bibliothek 
+
+#### Other
 - [ ] [[030-C1-Schreiben-T2|030]] Meetings = schlecht 
 - [ ] [[031-C1-Schreiben-T2|031]] Warmmiete des Studierendenwohnheims erhöht werden
 - [ ] [[032-C1-Schreiben-T2|032]] Catering-Service = Mist

@@ -1,3 +1,4 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
 ---> [[Ingredient-Zugang-Zugriff]] <---
 
 🔑 🔵 der [[Zugriff]], [ˈtsuːɡʁɪf](https://youglish.com/pronounce/Zugriff/german)

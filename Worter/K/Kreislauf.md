@@ -14,7 +14,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Kreis]][[lauf]]
+[[Kreis]][[Lauf]]
 
 ---
 Einzigartige mögliche Formen: [[Kreislaufs]], [[Kreislaufe]], [[Kreisläufe]], [[Kreisläufen]]

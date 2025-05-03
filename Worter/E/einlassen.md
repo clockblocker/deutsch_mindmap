@@ -1,10 +1,10 @@
-🚪 [[einlassen]], [ˈaɪ̯nˌlasn̩] | [[ließ ein]], haben [[eingelassen]]
+🚪 [[Worter/E/einlassen]], [ˈaɪ̯nˌlasn̩] | [[ließ ein]], haben [[eingelassen]]
 
 ---
 *[[3  Ein Selbstversuch als Hobbybäuerin#^48|^]]* Wenn ich mich nächstes Jahr wieder auf das Abenteuer „Garten“ [[einlasse]], will ich es [[tapfer]] und [[aufopfernd]] tun, aber will [[nachsichtig]] mit mir sein. ^48
 
 ---
-[[hin]] + [[einlassen]] = [[hineinlassen]] // to let in, to admit
+[[hin]] + [[Worter/E/einlassen]] = [[hineinlassen]] // to let in, to admit
 
 ---
 = [[zulassen]], [[akzeptieren]], [[gestatten]]
@@ -20,11 +20,11 @@ embark (on adventure)
 
 ---
 [[ein]]|[[lass]]|[[en]]
-[[einlassen]]
+[[Worter/E/einlassen]]
 
 
 ---
-###### [[einlassen]] *[[sich]]* `auf` jN
+###### [[Worter/E/einlassen]] *[[sich]]* `auf` jN
 - `Worauf` [[lässt]] du *[[dich]]* [[ein]]?
 - `Auf` ein Abenteuer.
 
@@ -35,7 +35,7 @@ embark (on adventure)
 - Weil er mutig war.
 
 ---
-###### [[einlassen]] jN
+###### [[Worter/E/einlassen]] jN
 - Was [[lässt]] du [[ein]]?
 - Wasser.
 

@@ -1,1 +1,1 @@
-, [[Wettervorhersage]], [[Modellrechnung]], [[Ausblick]]
+, [[Wettervorhersage]], [[Modellrechnung]], [[Ausblick]], [[Schätzung]]

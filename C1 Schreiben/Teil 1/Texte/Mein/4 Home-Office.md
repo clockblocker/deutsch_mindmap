@@ -12,7 +12,7 @@ Schreiben Sie circa 230 Wörter.
 ---
 ---
 ---
-Heute wird kontoverz daruber diskutiet, ob die Arbeitgaber ihre IT-, Werbung, Buchhaltung und andere remote-friendly Branche ins Home-Office wechel sollte, oder solche Handlungsweise nur als temporäre Krisenmassnahme angesehe[[C1 Schreiben/Noten]]n werden sollte.
+Heute wird kontoverz daruber diskutiet, ob die Arbeitgaber ihre IT-, Werbung, Buchhaltung und andere remote-friendly Branche ins Home-Office wechel sollte, oder solche Handlungsweise nur als temporäre Krisenmassnahme angesehen werden sollte.
 
 Auf der einen Seite vertrenen fiele den Standpunk die Arbiet am heimischen Schriebtisch nicht nur für die physiche und psychische Gesundheit der Arbeiter gut ist sondern zusäztlich auch hilftlich für die Kosteneinspaung der Arbetgeber. Uns tatzächlich: wenn ein Angestellte hat schnelles Internet, Zugriff auf Datenbanken und technische Ausstattungen zu Hause, könnte sein Firme weniger Büroplatzen mieten.
 
@@ -63,7 +63,7 @@ Abschliessend lässt sich sagen, dass anstatt der Angestellten, die Unmenge der 
 ---
 ---
 
-*Heute wird kontrovers darüber diskutiert, ob die Arbeitgeber* ihnen Angestellten der geeigneten Berufsgruppen wie IT-Branche, Werbung, Buchhaltung oder [[Verwaltung]] ihren Arbeitnehmern der Home-Office Gelegenheit geben *sollten,* *oder ob eine solche Handlungsweise nur als* temporäre Krisenmaßnahme *angesehen werden sollte.*
+*Heute wird kontrovers darüber diskutiert, ob die Arbeitgeber* ihnen Angestellten der geeigneten Berufsgruppen wie IT-Branche, Werbung, Buchhaltung oder [[Verwaltung]] ihren Arbeitnehmern der Home-Office Gelegenheit geben *sollten,* *oder ob eine solche Handlungsweise nur als* temporäre Krisenmaßnahme *angesehen werden sollte.* ^1
 
 ---
 *Auf der einen Seite vertreten viele Wissenschaftler den Standpunk, dass* die Produktivität der Belegschaft nach dem Wechsel zum Home-Office Hause leidet.
@@ -80,9 +80,6 @@ Erläutern Sie [[Vorteile]] für Arbeiten im Büro einer Firma.
 *Tatsächlich: Wenn* ein Programmier (Programmiererin) mit bestimmten Bedingungen zu Hause, wie z.B. schnelles Internet, Zugriff auf Datenbanken und technische Ausstattungen, zwei Stunden pro Tag `als` Freizeit `statt` seiner Pendelzeit *hätte*, *hätte* er (sie) wahrscheinlich mehr Energie. *Und wenn* die Hälfe der Belegschaft die Büros dauerhaft verlassen *würde*, *würden* die Firmen die Hälfte weniger Bürofläche benötigen 
 
 *Abschließend lässt sich sagen, dass es gibt keine einheitliche Lösung für alle:* die `Art`, der Ort und die besonderen Bedingungen der Arbeit *sind bei der Kosten-Nutzen Analyse* *entscheidend.*  Kindergärtner oder Krankenschwestern haben keine Wahl in Bezug auf Home-Office, während große Unternehmen haben die Möglichkeit, teamweise zu entscheiden.
-
-
-
 
 
 ---

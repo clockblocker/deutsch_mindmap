@@ -1,3 +1,4 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 ---> [[Ingredinet-Hindernis-Nomen]] <--
 
 , [[Leisten]], [[erfüllen]], [[schaffen]], [[Niederlage]], [[scheitern]], [[w-l]]

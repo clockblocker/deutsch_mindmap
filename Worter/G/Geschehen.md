@@ -1,7 +1,12 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🕰️ [[geschehen]], [ɡəˈʃeːən]
 
 ---
 Niemand weiß, was wirklich [[geschehen]] ist.
+
+*[[C1-Lesen-1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet bewirken, dass etwas geschieht. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
+
 
 ---
 = [[passieren]], [[stattfinden]], [[vorfallen]], [[Unfall]], [[Erfolgen]],

@@ -1,6 +1,6 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
 ---> [[Ingredient-Result-Verb]] <---
 ---> [[Management-Coordination-Allocation]] <---
----> [[Ingredient-erlauben-verbieten]] <---
 
 🔓 [[ermöglichen]], [ɛɐ̯ˈmøːɡlɪçən] | [[ermöglichte]], haben [[ermöglicht]]
 
@@ -40,4 +40,4 @@ PI: [[ermöglichend]], PII: [[ermöglicht]], Zu+inf: [[zu ermöglichen]]
 
 ---
 [[Ermöglichung]], [[möglich]], [[Möglichkeit]], [[unmöglich]], [[Möglichkeiten]], [[gewähren]]
-, [[verschaffen]], [[einlassen]], [[gewährleisten]], [[aufhalten]], [[hemmen]]
+, [[verschaffen]], [[Worter/E/einlassen]], [[gewährleisten]], [[aufhalten]], [[hemmen]], [[einlassen]]

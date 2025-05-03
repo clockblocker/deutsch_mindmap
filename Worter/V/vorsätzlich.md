@@ -1,2 +1,2 @@
 , [[zufällig]], [[antun]], [[absichtlich]], [[unabsichtlich]]
-, [[versehentlich]]
+, [[versehentlich]], [[irrtümlich]]

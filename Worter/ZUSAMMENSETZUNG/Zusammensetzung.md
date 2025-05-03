@@ -1,1 +1,1 @@
-, [[Zusammenbau]]
+, [[Zusammenbau]], [[zusammensetzen]]

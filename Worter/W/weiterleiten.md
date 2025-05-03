@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 ➡️ [[weiterleiten]], [ˈvaɪ̯tɐˌlaɪ̯tn̩](https://youglish.com/pronounce/weiterleiten/german) → [[leitete weiter]] → [[weitergeleitet]]
 
 ---

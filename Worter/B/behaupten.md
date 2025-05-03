@@ -1,3 +1,4 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 🗣️ [[behaupten]], [bəˈhaʊ̯ptən] | [[behauptete]], haben [[behauptet]]
 
 ---
@@ -34,4 +35,4 @@ Zu+infinitive: [[zu behaupten]]
 [[behaupten]] - [[be]] = [[haupten]] / to claim, to assert, to maintain
 
 ---
-[[Behauptungen]], [[Behaupter]], [[Behaupterin]], [[behauptbar]], [[unbehauptbar]], [[Behauptung]], [[besagen]]
+[[Behauptungen]], [[Behaupter]], [[Behaupterin]], [[behauptbar]], [[unbehauptbar]], [[Behauptung]], [[besagen]], [[durchsetzen]]

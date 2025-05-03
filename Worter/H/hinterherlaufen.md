@@ -13,7 +13,7 @@ Antonyme: [[vorangehen]], [[verlassen]], [[vorauseilen]]
 Übersetzung: to run after, to chase after
 
 ---
-Morpheme: [[hinterher]][[lauf]][[en]]
+Morpheme: [[hinterher]][[Lauf]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -47,7 +47,7 @@ Antonyme: [[zurückbleiben]], [[weglaufen]], [[abhauen]], [[fliehen]]
 Übersetzung: to run after, to chase
 
 ---
-Morpheme: [[hinter]][[her]][[lauf]][[en]]
+Morpheme: [[hinter]][[her]][[Lauf]][[en]]
  #Verb  #Trennbar
  
 ---

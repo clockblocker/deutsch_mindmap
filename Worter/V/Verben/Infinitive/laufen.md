@@ -20,7 +20,7 @@ Nun, es [[läuft]] jeden Tag 
 
 **Beispiele:**
 
-- Ich [[laufe]] jeden Morgen.
+- Ich [[Worter/L/Laufe]] jeden Morgen.
 - Du [[läufst]] schnell.
 - Er [[läuft]] einen Marathon.
 - Es [[läuft]] ohne Pause.
@@ -54,11 +54,11 @@ to run, to walk
 
 **Imperativ:**
 
-- Ich [[laufe]] schneller.
-- Du [[lauf]] schneller.
-- Er [[laufe]] schneller.
+- Ich [[Worter/L/Laufe]] schneller.
+- Du [[Lauf]] schneller.
+- Er [[Worter/L/Laufe]] schneller.
 - Es [[läuft]] schneller.
-- Sie [[laufe]] schneller.
+- Sie [[Worter/L/Laufe]] schneller.
 - Wir [[laufen]] schneller.
 - Ihr [[lauft]] schneller.
 - Sie [[laufen]] schneller.
@@ -66,4 +66,4 @@ to run, to walk
 ---
 
 **Morphems of only infinitive:**  
-- [[lauf]][[en]]
+- [[Lauf]][[en]]

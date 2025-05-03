@@ -6,4 +6,4 @@
 im [[März]]
 im [[April]] 
 im [[Mai]]
-, [[Frühjahr]], [[Wechsel]]
+, [[Frühjahr]], [[Wechsel]], [[früher]]

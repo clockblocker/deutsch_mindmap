@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🚶‍♀️ [[einführen]], [ˈaɪ̯nˌfyːʁən] | [[führte ein]], haben [[eingeführt]]
 
 ---

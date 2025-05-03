@@ -34,4 +34,4 @@ long-term
 Adjektive: [[langfristig]], [[langfristiger]], [[langfristigst]]
 
 ---
-[[langfristiger]], [[langfristiges]], [[langfristige]], [[langfristigen]], [[langfristigem]], [[langfristigerer]], [[langfristigeres]], [[langfristigere]], [[langfristigeren]], [[langfristigerem]], [[langfristigster]], [[langfristigstes]], [[langfristigste]], [[langfristigsten]], [[langfristigstem]], [[chronisch]], [[langjährig]], [[strukturell]], [[langanhaltend]]
+[[langfristiger]], [[langfristiges]], [[langfristige]], [[langfristigen]], [[langfristigem]], [[langfristigerer]], [[langfristigeres]], [[langfristigere]], [[langfristigeren]], [[langfristigerem]], [[langfristigster]], [[langfristigstes]], [[langfristigste]], [[langfristigsten]], [[langfristigstem]], [[chronisch]], [[langjährig]], [[strukturell]], [[langanhaltend]], [[akut]]

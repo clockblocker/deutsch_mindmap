@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🏋️‍♀️[[weiterüben]] + Akk, [ˈvaɪ̯tɐˌʔyːbən]
 [[übte weiter|übte weiter]]  
 haben [[weitergeübt]]

@@ -32,4 +32,4 @@ Morpheme: [[Worter/A/auf]][[lös]][[en]]
 
 Partizip I: [[auflösend]], Partizip II: [[aufgelöst]]
 
-[[auflösen]] - [[Worter/A/auf]] = [[lösen]], [[flechten]], [[ansammeln]], [[gestalten]], [[versammeln]], [[antrauen]], [[gründen]], [[herstellen]], [[etablieren]], [[einberufen]]
+[[auflösen]] - [[Worter/A/auf]] = [[lösen]], [[flechten]], [[ansammeln]], [[gestalten]], [[versammeln]], [[antrauen]], [[gründen]], [[herstellen]], [[etablieren]], [[einberufen]], [[ablagern]]

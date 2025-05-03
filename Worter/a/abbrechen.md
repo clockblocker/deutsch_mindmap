@@ -1,4 +1,4 @@
-[[bestehen]], [[anfangen]], [[dauern]], [[aufbauen]], [[machen]], [[abreißen]], [[pflückt]], [[unterbrechen]], [[aufgeben]], [[pflücken]], [[kündigen]], [[unterhalten]], [[verbringen]], [[angehen]], [[aufhören]], [[studieren]], [[ausführen]], [[Worter/W/Wiederholung]]
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 
 🛑 [[abbrechen]], [ˈapˌbʁɛçn̩] | [[brach ab]], haben [[abgebrochen]]
 

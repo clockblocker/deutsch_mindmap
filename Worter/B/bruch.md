@@ -1,4 +1,4 @@
 , [[Steinbruch]]
 , [[Ausbruch]]
 , [[Scherb]]
-, [[Gefühlsausbruch]]
+, [[Gefühlsausbruch]], [[Bruchteil]]

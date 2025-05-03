@@ -25,7 +25,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[davon]][[lauf]][[en]]
+[[davon]][[Lauf]][[en]]
 
 ---
 Tags:
@@ -46,7 +46,7 @@ Präteritum:
 
 Imperativ:
 
-- [[lauf]] nicht einfach [[davon]]!
+- [[Lauf]] nicht einfach [[davon]]!
 - [[lauft]] schnell [[davon]], wenn ihr Angst habt!
 - [[Laufen wir]] zusammen [[davon]], wenn es brenzlig wird!
 - [[Laufen Sie]] nicht einfach [[davon]]!

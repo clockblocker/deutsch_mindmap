@@ -1,3 +1,4 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
 🤔 🟢 das [[Interesse]], [ɪntəˈʁɛsə](https://youglish.com/pronounce/Interesse/german)
 die [[Interessen]]
 

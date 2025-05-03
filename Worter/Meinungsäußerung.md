@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🗣️ die [[Meinungsäußerung]], [ˈmaɪ̯nʊŋsˌɔʏ̯sərʊŋ]
 die [[Meinungsäußerungen]]
 

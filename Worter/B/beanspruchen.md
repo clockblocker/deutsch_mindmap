@@ -1,1 +1,1 @@
-, [[Verlangen]], [[geben]], [[anspannen]], [[Anspruch]], [[besetzen]], [[fordern]], [[überfordern]], [[schonen]]
+, [[Verlangen]], [[geben]], [[anspannen]], [[Anspruch]], [[besetzen]], [[fordern]], [[überfordern]], [[schonen]], [[verzichten]]

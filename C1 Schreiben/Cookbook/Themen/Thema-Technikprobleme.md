@@ -13,8 +13,4 @@ bei einer Firma für [[Bürotechnik]]
 
 mangelhafte [[Wartung]] *(deficient maintenance)*
 
-
-
-
-
 [[Papierstau]]

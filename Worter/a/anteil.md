@@ -1,2 +1,2 @@
 ---> 📊 [[Grad-Verteilung]] <---
-, [[Mindestanteil]], [[Drittel]], [[Großteil]]
+, [[Mindestanteil]], [[Drittel]], [[Großteil]], [[Bruchteil]]

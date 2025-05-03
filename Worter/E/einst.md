@@ -1,2 +1,2 @@
 
-, [[nun]], [[vorher]]
+, [[nun]], [[vorher]], [[früher]]

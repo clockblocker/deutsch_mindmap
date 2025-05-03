@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🤝 die [[Einwilligung]], [ˈaɪnvɪlɪɡʊŋ]
 die [[Einwilligungen]]
 

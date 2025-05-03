@@ -1,1 +1,2 @@
+---> ⚠️ [[Grad-Risiko]] <---
 , [[spontan]]

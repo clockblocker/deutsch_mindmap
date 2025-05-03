@@ -1,3 +1,5 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 👋 [[aufgeben]], [ˈaʊ̯fˌgeːbm̩] | [[gab auf]], haben [[aufgegeben]]
 
 ---
@@ -40,4 +42,4 @@ PI: [[aufgebend]], PII: [[aufgegeben]], Zu+inf: [[aufzugeben]]
 , [[zusammenbrechen]]
 , [[umkämpfen]]
 , [[beabsichtigen]]
-, [[Streben]], [[bemüht]], [[bestreben]], [[aufraffen]], [[standhalten]], [[bewältigen]], [[umsetzen]], [[initiieren]], [[kollabieren]], [[erwerben]], [[einnehmen]]
+, [[Streben]], [[bemüht]], [[bestreben]], [[aufraffen]], [[standhalten]], [[bewältigen]], [[umsetzen]], [[initiieren]], [[kollabieren]], [[erwerben]], [[einnehmen]], [[durchsetzen]]

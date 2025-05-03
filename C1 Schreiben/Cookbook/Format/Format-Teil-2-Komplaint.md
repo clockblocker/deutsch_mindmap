@@ -4,7 +4,7 @@
 ---
 ---
 
-[[Section-Teil-2-Kopf]]
+[[C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Kopf]]
 
 ---
 [[Section-Teil-2-Verständnis]]

@@ -1,1 +1,2 @@
+---> ⏱️ [[Temporal-Status]] <---
 , [[bereits]], [[Negationspartikel]]

@@ -13,6 +13,7 @@
 ---
 #### 🟢 [[Wichtig]] – High Importance / Strong Value
 [[umfangreich]] *(extensive, comprehensive)*
+[[ernst]] *(serious, earnest)*
 [[wesentlich]] *(essential; key component of a whole)*
 [[bedeutend]] *(important; notable / large in scope)*
 [[bedeutsam]] *(significant; emotionally or formally important)*

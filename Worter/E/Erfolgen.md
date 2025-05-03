@@ -1,3 +1,4 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 🔄 [[erfolgen]], [ɛɐ̯ˈfɔlɡən] | [[erfolgte]], sein [[erfolgt]]
 
 ---

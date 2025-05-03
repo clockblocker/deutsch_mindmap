@@ -1,1 +1,1 @@
-, [[Mülltonne]], [[Abfall]]
+, [[Mülltonne]], [[Abfall]], [[Kunststoffabfall]], [[Müllspäher]], [[Unterwasserabfall]]

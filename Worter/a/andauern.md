@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🕰️ [[andauern]], [ˈanˌdaʊ̯ɐn](https://youglish.com/pronounce/andauern/german) | [[dauerte an]], hat [[angedauert]]
 
 ---

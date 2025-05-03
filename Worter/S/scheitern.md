@@ -1,3 +1,4 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 ---> [[Ingredinet-Hindernis-Nomen]] <--
 
 💥 [[scheitern]], [ˈʃaɪ̯tɐn] | [[scheiterte]], sein [[gescheitert]]
@@ -33,4 +34,4 @@ PI: [[scheiternd]], PII: [[gescheitert]], Zu+inf: [[zu scheitern]]
 ---
 [[Scheitern]], [[Niederlage]], [[Misserfolg]], [[erfolglos]], [[gescheitert]], [[w-l]]
 , [[Versuch]]
-, [[durchhalten]], [[Karriere]], [[gelangen]], [[bemüht]], [[Aufgabenerfüllung]], [[standhalten]], [[bewältigen]], [[umsetzen]], [[bestehen]], [[vergeigen]], [[ausfallen]], [[kollabieren]], [[Realisierung]], [[verfehlen]], [[beherrschen]], [[Neuanfang]], [[Anhieb]], [[Anhieb]], [[Laufbahn]], [[Bildungserfolg]], [[Projekt]], [[Pitch]]
+, [[durchhalten]], [[Karriere]], [[gelangen]], [[bemüht]], [[Aufgabenerfüllung]], [[standhalten]], [[bewältigen]], [[umsetzen]], [[bestehen]], [[vergeigen]], [[ausfallen]], [[kollabieren]], [[Realisierung]], [[verfehlen]], [[beherrschen]], [[Neuanfang]], [[Anhieb]], [[Anhieb]], [[Laufbahn]], [[Bildungserfolg]], [[Projekt]], [[Pitch]], [[durchsetzen]]

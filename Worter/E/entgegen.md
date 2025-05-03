@@ -32,4 +32,4 @@ Related Words:
 [[entgegenkommen]], [[entgegensetzen]], [[entgegenwirken]], [[entgegentreten]]
 
 , [[dagegen]], [[ebenfalls]], [[trotz]], [[wider]], [[entgegenfiebern]]
-, [[entlang]]
+, [[entlang]], [[halber]], [[Entgegensetzung]], [[zufolge]]

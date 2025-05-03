@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🚶 [[antreten]], [ˈantʁeːtn̩](https://youglish.com/pronounce/antreten/german) | [[trat an]], sind/haben [[angetreten]]
 
 ---

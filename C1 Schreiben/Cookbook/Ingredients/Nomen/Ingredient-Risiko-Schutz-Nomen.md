@@ -1,5 +1,7 @@
 ---> [[Ingredient-Risiko-Schutz-Nomen]] <---
 
+###### Wortschatz
+[[akute]] [[Bedrohung]]
 #### ≈ Abstrakte Gefahr 
 - ⚡ [[Risiko]] *(risk; possibility of damage or loss)*
 - ⚡ [[Gefahr]] *(danger; actual or looming threat)*

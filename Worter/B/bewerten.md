@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 ⚖️ [[bewerten]], [bəˈveːɐ̯tn̩] | [[bewertete]], haben [[bewertet]]
 
 ---

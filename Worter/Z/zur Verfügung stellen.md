@@ -1,4 +1,4 @@
----> [[Ingredient-erlauben-verbieten]] <---
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
 ---> [[Management-Coordination-Allocation]] <---
 
 `zur` Verfügung stellen

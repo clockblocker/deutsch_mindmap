@@ -1,3 +1,4 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 🏆 [[siegen]], [ˈziːɡən] | [[siegte]], haben [[gesiegt]]
 
 ---

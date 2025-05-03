@@ -29,4 +29,6 @@ N: die [[Fläche]], die [[Flächen]]
 A: die [[Fläche]], die [[Flächen]]  
 G: der [[Fläche]], der [[Flächen]]  
 D: der [[Fläche]], den [[Flächen]]
-, [[Rasenfläche]], [[Quadratmeter]], [[Bürofläche]], [[Räumlichkeit]], [[Gelände]]
+, [[Rasenfläche]], [[Quadratmeter]], [[Bürofläche]], [[Räumlichkeit]], [[Gelände]], [[Wasseroberfläche]]
+
+#Feminin 

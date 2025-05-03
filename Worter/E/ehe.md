@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 
 
 , [[ehemaligen]], [[ehemalige]], [[bevor]]
-, [[verheiratet]], [[verheiraten]], [[Ehemann]], [[Ehepaar]], [[Ehepartner]], [[Ehescheidung]], [[Trennungsjahr]], [[Scheidungsprozess]], [[Konnektivpartikeln]], [[Konjunktoren]]
+, [[verheiratet]], [[verheiraten]], [[Ehemann]], [[Ehepaar]], [[Ehepartner]], [[Ehescheidung]], [[Trennungsjahr]], [[Scheidungsprozess]], [[Konnektivpartikeln]], [[Konjunktoren]], [[Sobald]]

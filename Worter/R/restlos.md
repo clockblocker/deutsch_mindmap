@@ -1,1 +1,1 @@
-, [[ausverkauft]]
+, [[ausverkauft]], [[Rest]]

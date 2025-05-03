@@ -1,3 +1,5 @@
+---> ⏱️ [[Temporal-Status]] <---
+
 [[schon]], [ʃoːn]
 
 ---

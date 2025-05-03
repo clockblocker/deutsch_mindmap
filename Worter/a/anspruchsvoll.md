@@ -1,3 +1,4 @@
+---> 💸 [[Grad-Preis]] <---
 🧐 [[anspruchsvoll]], [ˈanʃpʁʊxsˌfɔl]
 
 ---

@@ -50,4 +50,4 @@ sie, [[rennen]], [[rannten]], [[rennen]], [[rennten]], [[rennen]]
 Adjektive: [[rennend]], [[rennender]], [[rennendst]]
 
 ---
-[[rennender]], [[rennendes]], [[rennende]], [[rennenden]], [[rennendem]], [[rennenderer]], [[rennenderes]], [[rennendere]], [[rennenderen]], [[rennenderem]], [[rennendster]], [[rennendstes]], [[rennendste]], [[rennendsten]], [[rennendstem]]
+[[rennender]], [[rennendes]], [[rennende]], [[rennenden]], [[rennendem]], [[rennenderer]], [[rennenderes]], [[rennendere]], [[rennenderen]], [[rennenderem]], [[rennendster]], [[rennendstes]], [[rennendste]], [[rennendsten]], [[rennendstem]], [[Lauf]]

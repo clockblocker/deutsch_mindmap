@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Läufers]], [[Läufer]], [[Läufern]]
 
 ---
-#Substantiv #Maskulin, [[laufen]]
+#Substantiv #Maskulin, [[laufen]], [[Lauf]]

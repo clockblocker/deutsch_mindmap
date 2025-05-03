@@ -1,3 +1,4 @@
+---> ⏱️ [[Temporal-Status]] <---
 ---> 📈 [[Grad-Vergleich]] <---
 [[gleich]], [ɡlaɪ̯ç]  nicht [[unterschiedlich]]
 = immediately = [[wie]]
@@ -63,4 +64,4 @@ Einzigartige mögliche Formen:
 , [[11 08]], [[s1 e1]]
 
 [[geselle]], [[Gesellschaft]], 
-, [[solche]], [[dieselbe]], [[gleichzeitig]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichheit]], [[Ungleichbehandlung]], [[Ausgleich]], [[gleichermaßen]]
+, [[solche]], [[dieselbe]], [[gleichzeitig]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichheit]], [[Ungleichbehandlung]], [[Ausgleich]], [[gleichermaßen]], [[Sobald]]

@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Spiegels]], [[Spiegel]], [[Spiegeln]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Wasseroberfläche]]

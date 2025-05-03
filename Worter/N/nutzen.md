@@ -1,3 +1,5 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+
 🛠️ [[nutzen]] + Akk, [ˈnʊtsən]
 [[nutzte]]
 haben [[genutzt]]

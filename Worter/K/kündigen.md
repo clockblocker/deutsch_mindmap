@@ -1,3 +1,5 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+
 🚪 [[kündigen]], [[kündigte]], haben [[gekündigt]]
 
 ----

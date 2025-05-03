@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 , [[Bestellung]]📝 🔴 die [[Beantragung]], [bəˈʔantʁaːɡʊŋ](https://youglish.com/pronounce/Beantragung/german)
 
 ---

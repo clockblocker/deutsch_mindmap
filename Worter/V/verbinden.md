@@ -53,4 +53,4 @@ Zu+infinitive: [[zu verbinden]]
 
 , [[knüpfen]], [[Zusammenschluss]], [[Worter/Beziehung]], [[verlinkungen]]
 , [[umsteigen]]
-, [[befreunden]], [[gliedern]], [[durchtrennen]], [[spalten]], [[vermitteln]], [[paaren]], [[münden]], [[abgrenzen]]
+, [[befreunden]], [[gliedern]], [[durchtrennen]], [[spalten]], [[vermitteln]], [[paaren]], [[münden]], [[abgrenzen]], [[zusammensetzen]]

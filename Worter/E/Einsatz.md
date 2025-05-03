@@ -57,4 +57,4 @@ G: des [[Einsatzes]], der [[Einsätze]]
 D: dem [[Einsatz]], den [[Einsätzen]]
 
 
-#Maskulin , [[Aufwand]]
+#Maskulin , [[Aufwand]], [[einsatzfähig]]

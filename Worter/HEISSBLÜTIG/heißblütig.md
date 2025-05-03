@@ -1,0 +1,2 @@
+---> 💥 [[Grad-Intensität]] <---
+, [[heftig]]

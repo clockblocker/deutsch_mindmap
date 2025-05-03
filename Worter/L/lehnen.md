@@ -31,4 +31,4 @@ Partizip II: [[gelehnt]]
 ---
 [[Lehne]], [[Anlehnung]], [[Lehnstuhl]], [[Rückenlehne]], [[lehnbar]]
 
-🙅‍♀️ [[lehnen]] | 🗽 der [[Lehn]], [[entlehnen]]
+🙅‍♀️ [[lehnen]] | 🗽 der [[Lehn]], [[entlehnen]], [[Ablehnung]]

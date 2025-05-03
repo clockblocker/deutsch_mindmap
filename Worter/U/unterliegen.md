@@ -1,3 +1,4 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 🏳️ [[unterliegen]], [ʊntɐˈliːgən] | [[unterlag]], haben [[unterlegen]]
 
 ---

@@ -1,7 +1,12 @@
+---> 🧱[[Grad-Gewicht]] <---
+
 [[ernst]], [ˈɛʁnst]
 nicht [[leicht]], [[schwer]]
 
 ---
+*[[C1-Lesen-1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]. ^5
+
+
 „Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
 
 *Also sprach in [[ernstem]] Ton*  
@@ -33,4 +38,4 @@ Einzigartige mögliche Formen:
 [[ernst]], [[ernster]], [[ernste]], [[ernstes]], [[ernsten]], [[ernstem]], [[ernster]], [[ernsten]]
 [[ernster]], [[ernserer]], [[ernstere]], [[ernseres]], [[ernseren]], [[ernsererem]], [[ernserer]], [[ernseren]]
 [[ernstesten]], [[ernstester]], [[ernsteste]], [[ernststes]], [[ernstesten]], [[ernststem]], [[ernstester]], [[ernstesten]], [[witzig]], [[lächerlich]], [[7 Die Geschichte vom Zappel-Philipp]], [[schlimm]], [[Erkenntnis]]
-, [[raustogig]], [[fürchten]], [[Spiel]]
+, [[raustogig]], [[fürchten]], [[Spiel]], [[akut]]

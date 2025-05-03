@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🟢 🗣️ das [[Eigenlob]], [ˈaɪ̯ɡn̩ˌloːp]
 die [[Eigenlobs]]
 

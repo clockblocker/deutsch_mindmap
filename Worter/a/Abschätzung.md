@@ -1,1 +1,1 @@
-, [[Berechnung]], [[Einschätzung]]
+, [[Berechnung]], [[Einschätzung]], [[Schätzung]]

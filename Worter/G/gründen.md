@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🏛️ [[gründen]], [ˈgʁʏndən] | [[gründete]], haben [[gegründet]]
 
 ---

@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🔴 die [[Unterstützung]], [ˈʊntɐˌʃtʏtsʊŋ] | [[unterstützen]]
 die [[Unterstützungen]]
 

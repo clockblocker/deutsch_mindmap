@@ -1,3 +1,5 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+
 🤝 [[beteiligen]] + an + Dat, [bəˈtaɪ̯lɪɡən]
 [[beteiligte]]
 haben [[beteiligt]]
@@ -36,4 +38,4 @@ Morpheme: [[be]][[Worter/T/Teil]][[ig]][[en]]
 | Sie       | [[beteiligen]]       | [[beteiligten]]       | [[beteiligen Sie]]| [[beteiligen]]         | [[beteiligten]]         |
 
 Partizip I: [[beteiligend]], Partizip II: [[beteiligt]]
-[[beteiligen]] - [[be]] = [[teilen]], [[Beteiligung]]
+[[beteiligen]] - [[be]] = [[teilen]], [[Beteiligung]], [[einlassen]]

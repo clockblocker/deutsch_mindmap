@@ -40,4 +40,4 @@ Zu+infinifive: [[anzunehmen]]
 
 [[übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]], [[glaub]], [[raten]], [[erhalten]], [[ablehnen]]
 , [[empfangen]], [[vermuten]], [[verstoßen]], [[verinnerlichen]], [[wiederschicken]], [[zweifelt]], [[zweifeln]]
-, [[bekommen]], [[einnehmen]], [[beeinflussen]], [[liefern]]
+, [[bekommen]], [[einnehmen]], [[beeinflussen]], [[liefern]], [[verzichten]]

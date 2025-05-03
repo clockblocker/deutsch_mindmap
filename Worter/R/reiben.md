@@ -29,3 +29,4 @@ Morpheme: [[reib]][[en]]
 | Sie       | [[reiben]] | [[rieben]] | [[reiben Sie]] | [[reiben]]   | [[rieben]]    |
 
 Partizip I: [[reibend]], Partizip II: [[gerieben]]
+, [[zerreiben]]

@@ -1,1 +1,3 @@
-, [[verbieten]], [[erlauben]], [[gewähren]], [[zulassen]], [[freigeben]], [[verweigern]]
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+
+---> ✅ [[Ingredient-erlauben-verbieten]] <---

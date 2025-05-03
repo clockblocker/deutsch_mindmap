@@ -45,4 +45,4 @@ gentle, soft
 Adjektive: [[sanft]], [[sanfter]], [[sanftest]]
 
 ---
-[[sanfter]], [[sanftes]], [[sanfte]], [[sanften]], [[sanftem]], [[sanfterer]], [[sanfteres]], [[sanftere]], [[sanfteren]], [[sanfterem]], [[sanftester]], [[sanftestes]], [[sanfteste]], [[sanftesten]], [[sanftestem]]
+[[sanfter]], [[sanftes]], [[sanfte]], [[sanften]], [[sanftem]], [[sanfterer]], [[sanfteres]], [[sanftere]], [[sanfteren]], [[sanfterem]], [[sanftester]], [[sanftestes]], [[sanfteste]], [[sanftesten]], [[sanftestem]], [[heftig]]

@@ -1,3 +1,4 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
 [[umarmen]]
 🔴 🤗 die [[Umarmung]], [ˈʊmˌaʁmʊŋ]
 die [[Umarmungen]]

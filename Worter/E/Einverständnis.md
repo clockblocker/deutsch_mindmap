@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🟢 📝 das [[Einverständnis]], [ˈaɪ̯nfɛɐ̯ˌʃtɛndnɪs]
 die [[Einverständnisse]]
 
@@ -25,3 +27,5 @@ D: dem [[Einverständnis]], den [[Einverständnissen]]
 
 ---
 [[einverstanden]], [[verstehen]], [[zustimmen]], [[genehmigen]]
+
+#Neuter 

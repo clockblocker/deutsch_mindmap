@@ -1,1 +1,1 @@
-, [[streuen]], [[zerstreuen]]
+, [[streuen]], [[zerstreuen]], [[einsammeln]]

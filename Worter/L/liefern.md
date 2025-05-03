@@ -8,6 +8,10 @@ Teamleiter [[liefert]] wichtige [[Unterlagen]] für eine Präsentation nicht [[r
 *[[032-C1-Schreiben-T2#^7|^]]* [[Wiedergutmachung]]: bestelltes [[Büfett]] mit 20% [[Rabatt]] [[erneut]] [[liefern]], falsch [[geliefertes]] Büfett nicht bezahlen ^7
 
 
+*[[C1-Lesen-1-000-Text#^8|^]]* Dann wird ein Beobachtungsroboter ins Wasser gelassen, der [[Nahaufnahmen]] des Meeresbodens [[liefert]]. ^8
+
+
+
 ---
 = [[zustellen]], [[ausliefern]], [[senden]]
 ≈ [[bringen]], [[schicken]], [[verschicken]], [[liefern]]

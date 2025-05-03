@@ -26,4 +26,4 @@ N: [[absichtliches]], [[absichtlicheres]], [[absichtlichstes]]
 P: [[absichtlichen]], [[absichtlicheren]], [[absichtlichsten]]  
 
 ---
-[[Absicht]], [[beabsichtigen]], [[unabsichtlich]], [[Vorsatz]], [[Intention]]
+[[Absicht]], [[beabsichtigen]], [[unabsichtlich]], [[Vorsatz]], [[Intention]], [[irrtümlich]]

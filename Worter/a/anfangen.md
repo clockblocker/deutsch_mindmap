@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🎬 [[anfangen]] + Akk, [anˈfaŋən]
 [[fing an|fing an]]
 haben [[angefangen]]

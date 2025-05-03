@@ -1,3 +1,5 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+
 🔒 [[einschließen]] + Akk, [ˈaɪ̯nʃliːsn̩]
 [[schloss ein|schloss ein]]
 haben [[eingeschlossen]]

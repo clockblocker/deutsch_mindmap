@@ -1,3 +1,4 @@
+---> 💸 [[Grad-Preis]] <---
 [[billig]]
 💰 [[kostengünstig]], [ˈkɔstn̩ˌɡʏnstɪç]
 nicht [[teuer]]

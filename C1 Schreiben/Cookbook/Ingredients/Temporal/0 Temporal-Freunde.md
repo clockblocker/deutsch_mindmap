@@ -13,10 +13,10 @@
 *beständig*
 ---> ⏱️ [[Temporal-Dauerhaft]] <---
 
+*Bisher, bald, bereits*
+---> ⏱️ [[Temporal-Status]] <---
 
-
-
-
+❗ [[akut]] *(acute, urgent)*
 
 #### ⏱️ Zeitkonflikt
 🧨 [[Verzögerung]] *(delay)*  
@@ -25,3 +25,6 @@
 ❗ [[Pünktlichkeit]] *(punctuality)*  
 ⏰ zu [[spät]] *(too late)*  
 ⚡ [[unerwartet]] *(unexpectedly)*  
+
+
+[[Bisher]], [[bald]], [[bereits]]

@@ -1,3 +1,4 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
 , [[Einigkeit]], [[Einverständnis]]
 🤝 🔵 der [[Konsens]], [kɔnˈzɛns]
 die [[Konsense]]

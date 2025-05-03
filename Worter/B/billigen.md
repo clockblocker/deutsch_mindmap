@@ -1,1 +1,2 @@
-, [[billig]], [[gönnen]], [[befürworten]], [[verbilligen]], [[zustimmen]]
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+

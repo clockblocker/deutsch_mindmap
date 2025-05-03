@@ -1,3 +1,5 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 🌅 [[untergehen]] + Dat, [ˈʊntɐˌɡeːən]
 [[ging unter|ging unter]]
 sein [[untergegangen]]

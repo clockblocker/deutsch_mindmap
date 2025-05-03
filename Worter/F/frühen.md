@@ -1,1 +1,1 @@
-, [[früh]], [[Frühjahrsmantel]], [[Kindesalter]]
+, [[früh]], [[Frühjahrsmantel]], [[Kindesalter]], [[früher]]

@@ -5,6 +5,9 @@ die [[Mengen]]
 ---
 Und obwohl seine Fähigkeiten erstaunlich sind, muss er noch eine [[Menge]] lernen. 
 
+*[[C1-Lesen-1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]. ^3
+
+
 Die Kinder erreichen Aang und Katara und die [[Menge]] ist fröhlich
 
 Eine Suppe kann sehr lecker sein, [[besonders]] mit der richtigen [[Menge]] Salz. 

@@ -1,1 +1,3 @@
-, [[dafür]], [[Erlaubnis]], [[Beitritt]], [[Einspruch]], [[Einwilligung]], [[Widerspruch]], [[Einverständnis]], [[Vorbehalt]], [[Konsens]], [[Beschwerde]], [[zustimmen]]
+---> 🤝 [[Ingredient-Interaktion]] <---
+
+#Feminin 

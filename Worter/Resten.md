@@ -1,0 +1,2 @@
+🍽️ [[resten]] | 🔵 der [[Rest]] 🍽️
+, [[ablagern]]

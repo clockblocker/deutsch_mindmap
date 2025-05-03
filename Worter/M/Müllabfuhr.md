@@ -1,1 +1,1 @@
-, [[Mülltonne]]
+, [[Mülltonne]], [[Müllspäher]]

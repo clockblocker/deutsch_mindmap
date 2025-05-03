@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🔴 🗓️ die [[Verabredung]], [fɛɐ̯ˈʔapʁeːdʊŋ]
 die [[Verabredungen]]
 

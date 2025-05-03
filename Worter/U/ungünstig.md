@@ -1,1 +1,1 @@
-, [[widrig]], [[vorteilhaft]]
+, [[widrig]], [[vorteilhaft]], [[günstig]]

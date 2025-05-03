@@ -40,4 +40,4 @@ Partizip I: [[wegwerfend]], Partizip II: [[weggeworfen]]
 [[wegwerfen]] - [[weg]] = [[werfen]]
 
 [[verlieren]], [[gehören]]
-, [[hinauswerfen]], [[verarbeiten]], [[melken]]
+, [[hinauswerfen]], [[verarbeiten]], [[melken]], [[einsammeln]]

@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🎁 🟢 das [[Angebot]], [ˈaŋɡəˌboːt](https://youglish.com/pronounce/Angebot/german)
 die [[Angebote]]
 

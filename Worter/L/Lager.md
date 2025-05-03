@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Lagers]], [[Lagern]], [[Lägern]]
 
 ---
 #Substantiv #Neuter, [[s1 e1]], [[Vernichtungslager]]
-, [[erledigen]], [[lagern]]
+, [[erledigen]], [[lagern]], [[ablagern]]

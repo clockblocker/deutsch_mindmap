@@ -1,3 +1,4 @@
+---> 💸 [[Grad-Preis]] <---
 billig, [ˈbɪlɪç]
 nicht [[teuer]]
 

@@ -11,20 +11,20 @@
 
 *Sehr geehrte Frau* ^1
 
-![[Section-Teil-2-Kopf#^1|^]]
+![[C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Kopf#^1|^]]
 
 *Sehr geehrter Herr* ^2
 
-![[Section-Teil-2-Kopf#^2|^]]
+![[C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Kopf#^2|^]]
 
 *ich wende mich an Sie, um `auf`* ^3
 
-![[Section-Teil-2-Kopf#^3|^]]
+![[C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Kopf#^3|^]]
 
 *noch einmal einzugehen.* ^4
 
-![[Section-Teil-2-Kopf#^4|^]]
+![[C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Kopf#^4|^]]
 
 *einzugehen.* ^5
 
-![[Section-Teil-2-Kopf#^5|^]]
+![[C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Kopf#^5|^]]

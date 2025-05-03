@@ -16,7 +16,7 @@ to amount to
 [[Lauf]], [[Laufen]], [[Betrag]], [[Umlauf]]
 
 ---
-[[be]]|[[lauf]]|[[en]]
+[[be]]|[[Lauf]]|[[en]]
 [[be]] + [[laufen]]
 
 

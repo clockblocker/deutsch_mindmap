@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 , [[erlaubt]], [[erlauben]]
 🔴 die [[Erlaubnis]], [ˈʔɛɐ̯laʊ̯pnɪs]
 die [[Erlaubnisse]]

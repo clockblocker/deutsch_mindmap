@@ -18,8 +18,11 @@
 [[Thema-Umbauarbeiten-Umzug]]
 [[Thema-Utilities]]
 [[Thema-Geld]]
+[[Thema-Tiere]]
+[[Thema-Automation]]
 
 [[Thema-KI]]
+[[Thema-Klima]]
 [[Thema-Verkehr]]
 [[Thema-Kommunikation]]
 
@@ -33,7 +36,7 @@
 ###### Formats:
 [[Format-Teil-1-Contra]]
 [[Format-Teil-1-Pro]]
-[[Format-Teil-1-Pro-Contra]]
+[[Format-Teil-1]]
 
 [[Format-Teil-2-Komplaint]]
 

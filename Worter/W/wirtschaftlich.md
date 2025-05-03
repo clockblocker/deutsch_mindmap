@@ -1,3 +1,4 @@
+---> 💸 [[Grad-Preis]] <---
 🏢 [[wirtschaftlich]], [ˈvɪʁtʃaftsˌlɪç]
 nicht [[unwirtschaftlich]]
 

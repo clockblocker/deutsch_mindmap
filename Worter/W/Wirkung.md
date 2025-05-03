@@ -30,4 +30,4 @@ D: der [[Wirkung]], den [[Wirkungen]]
 
 
 
-#Feminin 
+#Feminin , [[bewirken]]

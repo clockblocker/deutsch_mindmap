@@ -27,4 +27,4 @@ Morpheme: [[an]][[sammel]][[n]]
 
 Partizip I: [[ansammelnd]], Partizip II: [[angesammelt]]
 [[ansammeln]] - [[an]] = [[sammeln]]
-, [[zusammenbekommen]], [[abströmen]]
+, [[zusammenbekommen]], [[abströmen]], [[ablagern]]

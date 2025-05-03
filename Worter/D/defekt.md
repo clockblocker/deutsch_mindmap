@@ -1,2 +1,2 @@
 , [[schadlos]]
-, [[fehlentwicklung]], [[Störung]]
+, [[fehlentwicklung]], [[Störung]], [[einsatzfähig]]

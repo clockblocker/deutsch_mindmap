@@ -1,3 +1,5 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 ---> [[Ingredient-Risiko-Schutz-Verben]] <---
 ---> [[Ingredient-Result-Verb]] <---
 
@@ -15,7 +17,7 @@
 ---
 =   [[unterbinden]], [[verwehren]], [[blockieren]], [[abhalten]], [[vermeiden]]
 ≈= [[aufhalten]], [[stoppen]], [[hemmen]], [[behindern]], [[verstopfen]]
-≠   [[ermöglichen]], [[fördern]], [[zulassen]], [[begünstigen]], [[erlauben]], [[lassen]], [[helfen]], [[stattfinden]], [[einlassen]], [[verursachen]], [[gewährleisten]], [[erzeugen]]
+≠   [[ermöglichen]], [[fördern]], [[zulassen]], [[begünstigen]], [[erlauben]], [[lassen]], [[helfen]], [[stattfinden]], [[Worter/E/einlassen]], [[verursachen]], [[gewährleisten]], [[erzeugen]]
 ≈≠ [[übertragen]], [[übermachen]], [[ausführen]], [[vollziehen]], [[ergehen]], [[ausrichten]], [[auswirken]], [[durchführen]], [[verschaffen]]
 
 ---
@@ -54,4 +56,4 @@ sie, [[verhindern]], [[verhinderten]], [[verhindern]], [[verhinderten]], [[verhi
 Adjektive: [[verhindernd]], [[verhindernder]], [[verhinderndst]]
 
 ---
-[[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]]
+[[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]], [[durchsetzen]]

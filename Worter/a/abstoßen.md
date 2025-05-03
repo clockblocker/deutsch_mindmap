@@ -1,3 +1,5 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+
 🤢[[abstoßen]] + Akk, [apˈʃtɔsn̩]
 [[stieß ab|stieß ab]]  
 haben [[abgestoßen]]

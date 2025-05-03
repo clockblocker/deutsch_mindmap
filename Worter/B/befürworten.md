@@ -1,3 +1,5 @@
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+
 👍 [[befürworten]], [bəˈfyːɐ̯ˌvɔʁtn̩](https://youglish.com/pronounce/befürworten/german) | [[befürwortete]], haben [[befürwortet]]
 
 ---

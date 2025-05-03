@@ -1,0 +1,12 @@
+- *Das moderne Leben fordert von uns,* ... *, was nicht immer leicht ist.*
+- ..., ... *und* ... *sind keine Seltenheit mehr.* 
+- *Diese Umstände führen jedoch oft dazu, dass*... 
+- *... sind häufige Folgen, die*
+- *Damit es gar nicht erst so weit kommt, sollten wir auf* `jN` *achten.* 
+- *Das kann zum Beispiel dadurch erreicht werden, dass* 
+- *kann durch `jN` viel erreicht werden.*
+- *Natürlich ist das hauptsächlich in großen Unternemen mit vielen Angestellten möglich, aber auch in kleinen Firmen kann* *(durch jN)* *erreicht werden.*
+- *Am wichtigsten ist es meiner Meinung nach jedoch, dass wir selbst dafür sorgen, dass ...*
+- *Letztendlich sind wir selbst dafür verantwortlich, dass*
+- `jD` *wird oft [[unterschätzt]], da es*
+- *Was in der Theorie einfach klingt, ist in der Praxis für ... Roboter aber nicht einfach*

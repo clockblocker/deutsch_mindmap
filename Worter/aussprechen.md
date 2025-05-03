@@ -31,4 +31,4 @@ PI: [[aussprechend]], PII: [[ausgesprochen]], Zu+inf: [[auszusprechen]]
 [[aussprechen]] - [[aus]] = [[Worter/S/sprechen]] / to pronounce, to express, to articulate
 
 ---
-[[Aussprache]], [[Ausdruck]], [[Sprechweise]], [[aussprechen]], [[aussprechbar]], [[besprechen]], [[gestehen]]
+[[Aussprache]], [[Ausdruck]], [[Sprechweise]], [[aussprechen]], [[aussprechbar]], [[besprechen]], [[gestehen]], [[angeben]]

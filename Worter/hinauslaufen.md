@@ -16,7 +16,7 @@ to run out, to lead to
 [[laufen]], [[Lauf]], [[hinaus]]
 
 ---
-[[hin]]|[[aus]]|[[lauf]]|[[en]]
+[[hin]]|[[aus]]|[[Lauf]]|[[en]]
 [[hinaus]] + [[laufen]]
 
 

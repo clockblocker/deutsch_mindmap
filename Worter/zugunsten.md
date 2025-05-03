@@ -18,3 +18,4 @@ in favor of, for the benefit of
 ---
 [[zu]]|[[gunsten]]
 [[zugunsten]]
+, [[halber]], [[verzichten]]

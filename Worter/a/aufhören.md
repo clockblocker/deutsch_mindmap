@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🛑 [[aufhören]] | [[hörte auf|hörte auf]], haben [[aufgehört]]
 
 ---

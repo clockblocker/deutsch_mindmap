@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🔵 🚫 der [[Widerspruch]], [ˈvɪdɐʃpʁʊx]
 die [[Widersprüche]]
 
@@ -26,5 +28,3 @@ D: dem [[Widerspruch]], den [[Widersprüchen]]
 ---
 [[widersprechen]], [[widersprüchlich]], [[Widersprüchlichkeit]], [[bestreiten]], [[widerlegen]]
 
-[[Einwand]], [[Einspruch]], [[Einwilligung]]
-, [[Einverständnis]], [[Petition]], [[Vergleich]], [[Spruch]], [[Vereinbarkeit]]

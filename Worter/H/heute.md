@@ -5,3 +5,4 @@
 [[morgen]]  
 [[gestern]]  
 
+, [[früher]]

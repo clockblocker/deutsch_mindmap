@@ -1,8 +1,8 @@
-vergangen, [fɛɐ̯ˈɡaŋən]
-nicht [[zukünftig]]
-
 ---> ⏱️ [[Temporal-Zeitpunkt]] <---
 
+
+vergangen, [fɛɐ̯ˈɡaŋən]
+nicht [[zukünftig]]
 
 ---
 Meine Großmutter [[erzählte]] mir oft [[Geschichten]] über eine längst [[vergangene]] Zeit, von einer Zeit des [[Friedens]].

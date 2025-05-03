@@ -13,7 +13,7 @@ Antonyme: [[stehenbleiben]], [[stoppen]], [[innehalten]], [[verlangsamen]]
 Übersetzung: to run towards, to flow towards
 
 ---
-Morpheme: [[zu]][[lauf]][[en]]
+Morpheme: [[zu]][[Lauf]][[en]]
  #Verb  #Trennbar
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |

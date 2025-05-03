@@ -12,4 +12,4 @@ Der bus fährt an , [[antrauen]], [[anbieten]], [[angehen]], [[Anerkennung]], [[
 , [[anstoßen]]
 , [[Wutanfall]]
 , [[Angelegenheit]]
-, [[Anstrengung]], [[anwerben]], [[Anwendung]], [[Anwärter]], [[anspruchsvoll]], [[Gemüseanbau]], [[anstrengend]], [[andauern]], [[antreten]], [[Anlage]], [[anpassen]], [[Anrede]], [[stoßen]], [[Büroangestellte]], [[angemessen]], [[anweisen]], [[Anliegen]], [[Anhieb]], [[Anhieb]], [[Angebot]], [[anmieten]], [[ansonsten]], [[Anschluss]], [[langanhaltend]], [[ankündigen]], [[Anregung]]
+, [[Anstrengung]], [[anwerben]], [[Anwendung]], [[Anwärter]], [[anspruchsvoll]], [[Gemüseanbau]], [[anstrengend]], [[andauern]], [[antreten]], [[Anlage]], [[anpassen]], [[Anrede]], [[stoßen]], [[Büroangestellte]], [[angemessen]], [[anweisen]], [[Anliegen]], [[Anhieb]], [[Anhieb]], [[Angebot]], [[anmieten]], [[ansonsten]], [[Anschluss]], [[langanhaltend]], [[ankündigen]], [[Anregung]], [[angeben]]

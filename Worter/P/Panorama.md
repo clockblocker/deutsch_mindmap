@@ -1,1 +1,1 @@
-, [[Aussicht]], [[Überblick]], [[Ausblick]]
+, [[Aussicht]], [[Überblick]], [[Ausblick]], [[Nahaufnahme]]

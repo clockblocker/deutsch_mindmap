@@ -1,2 +1,2 @@
 , [[offensichtlich]], [[Absicht]], [[absichtlich]], [[berücksichtigen]], [[vorsichtig]]
-, [[beabsichtigen]], [[Ausblick]], [[Hinsicht]], [[Rücksicht]]
+, [[beabsichtigen]], [[Ausblick]], [[Hinsicht]], [[Rücksicht]], [[Sichtverhältnis]]

@@ -4,6 +4,12 @@
 ---
 Ich [[verwende]] mein Telefon auch, um Fotos zu machen.
 
+*[[C1-Lesen-1-000-Loesung#^11|^]]* „[[Dabei]]“ kann hier im Sinne von „bei dieser [[Gelegenheit]]“ oder „[[währenddessen]]“ [[verwendet]] werden und [[einleitet|leitet]] eine mögliche Schwierigkeit ein, die [[auftreten]] kann, wenn sich der Roboter dem Müll [[nähert]]. ^11
+
+
+*[[C1-Lesen-1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden. ^2
+
+
 Hier wird [[bewertet]], ob Ihr Wortschatz und die Strukturen, die Sie [[verwenden]], [[angemessen]] und [[abwechslungsreich]] sind. E
 
 *[[Große Koalition#^3|^]]* Für [[westeuropäische]] Staaten wird der Begriff in der Regel [[verwendet]], um eine Koalition zwischen den beiden größten (mandatsstärksten) in einem von zwei so genannten Volksparteien dominierten Parteiensystem zu [[beschreiben]]. ^3

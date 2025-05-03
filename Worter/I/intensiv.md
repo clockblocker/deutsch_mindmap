@@ -1,1 +1,2 @@
-, [[scharf]], [[stark]]
+---> 💥 [[Grad-Intensität]] <---
+, [[scharf]], [[stark]], [[heftig]]

@@ -14,7 +14,7 @@ Katara, du solltest nicht deine ganze Hoffnung [[Worter/A/auf]] diesen Jungen [[
 [[einsetzen]] - [[ein]] = [[setzen]] / insert
 [[besetzen]] - [[be]] = [[setzen]] / to occupy, to fill, to take up
 [[ersetzen]] - [[er]] = [[setzen]] / to replace, to substitute
-
+[[setzen]] + [[zusammen]] = `sich` [[zusammensetzen]] `aus` jD *состоять из частей*
 
 ---
 Synonyme: [[platzieren]], [[positionieren]], [[legen]], [[stellen]], [[aufstellen]]
@@ -40,4 +40,4 @@ Morpheme: [[setz]][[en]]
 
 Partizip I: [[setzend]], Partizip II: [[gesetzt]]
 
-[[setzen]] - [[setz]] = [[en]], [[einsetzen]], [[besetzen]], [[übersetzen]], [[s1 e1]], [[ersetzen]], [[aussetzen]], [[auseinandersetzen]], [[umsetzen]], [[voraussetzen]], [[aufs Spiel setzen]]
+[[setzen]] - [[setz]] = [[en]], [[einsetzen]], [[besetzen]], [[übersetzen]], [[s1 e1]], [[ersetzen]], [[aussetzen]], [[auseinandersetzen]], [[umsetzen]], [[voraussetzen]], [[aufs Spiel setzen]], [[zusammensetzen]], [[durchsetzen]]

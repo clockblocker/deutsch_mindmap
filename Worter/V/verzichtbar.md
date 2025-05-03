@@ -1,2 +1,2 @@
 , [[notwendig]], [[unentbehrlich]]
-, [[erforderlich]], [[unverzichtbar]]
+, [[erforderlich]], [[unverzichtbar]], [[verzichten]]

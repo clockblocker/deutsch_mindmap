@@ -1,1 +1,1 @@
-, [[Nähe]], [[Annäherung]]
+, [[Nähe]], [[Annäherung]], [[nähern]]

@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🏛️ der [[Einspruch]], [ˈaɪ̯nʃpʁʊx]
 die [[Einsprüche]]
 
@@ -27,4 +29,4 @@ G: des [[Einspruchs]], der [[Einsprüche]]
 D: dem [[Einspruch]], den [[Einsprüchen]]  
 
 ---
-[[einspringen]], [[widersprechen]], [[protestieren]], [[Einspruchsrecht]], [[Berufung]], [[Spruch]]
+[[einspringen]], [[widersprechen]], [[protestieren]], [[Einspruchsrecht]], [[Berufung]], [[Spruch]], [[Ablehnung]]

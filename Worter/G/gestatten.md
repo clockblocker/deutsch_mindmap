@@ -1,1 +1,2 @@
-, [[lassen]], [[erlauben]], [[ermöglichen]], [[gewähren]], [[dürfen]], [[gönnen]], [[einlassen]], [[zulassen]]
+---> ✅ [[Ingredient-erlauben-verbieten]] <---
+

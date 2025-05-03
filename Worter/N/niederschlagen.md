@@ -1,1 +1,1 @@
-, [[totschlagen]]
+, [[totschlagen]], [[ablagern]]

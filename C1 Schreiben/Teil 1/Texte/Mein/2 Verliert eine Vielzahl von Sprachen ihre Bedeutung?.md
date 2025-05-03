@@ -44,7 +44,8 @@ Durch Faktoren wie den Klimawandel und die Urbanisierung werden Bewohner linguis
 Weltanschauung
 
 
-*Heute wird kontrovers darüber diskutiert, ob die Regierungen* *etwas für die Erhaltung* der gefährdeten Sprachen *tun sollten, oder* das Verschwinden der wenig benutzten Sprachen das Ergebnis der natürlichen Selektion ist.
+*Heute wird kontrovers darüber diskutiert, ob die Regierungen* *etwas für die Erhaltung* der gefährdeten Sprachen *tun sollten, oder* das Verschwinden der wenig benutzten Sprachen das Ergebnis der natürlichen Selektion ist. ^1
+
 
 *Auf der einen Seite vertreten viele Wissenschaftler den Standpunkt, dass* jede Sprache  `nicht nur` `für` die linguistische Forschung nützlich, `sondern zusätzlich auch` *ein unveräusserlicher Teil der Kultur* ist. *Es stellt sich die Frage*: Hätte Cervantes dieselben Geschichten erzählt, `wenn` er gezwungen gewesen `wäre`, kein Spanisch beim Schreiben `zu` gebrauchen? *Die Verbindung zwischen* der Sprache *und* der Kultur *lässt sich an einem Beispiel veranschaulichen:*
 Für die Israelis war das Projekt der Wiederbelebung der Hebräischen Sprache die Grundlage `für` die nationale Identität.

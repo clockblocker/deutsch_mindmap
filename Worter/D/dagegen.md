@@ -1,3 +1,6 @@
+*[[C1-Lesen-1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] [[anzugehen]], entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das [[Kunststoffabfälle]] unter Wasser [[orten]] und [[einsammeln]] kann. ^1
+
+
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
 
 ein Eltern sind [[dagegen]], dass ich ein Auto bekomme.

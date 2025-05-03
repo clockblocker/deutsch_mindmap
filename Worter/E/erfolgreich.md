@@ -4,6 +4,9 @@ nicht [[erfolglos]]
 ---
 Ich lerne Deutsch, um die Prüfung [[erfolgreich]] zu [[bestehen]].
 
+*[[C1-Lesen-1-000-Text#^15|^]]* [[Bisher]] [[läuft]] die Entwicklung aber trotz dieser erhöhten Schwierigkeiten [[erfolgreich]]: Wenn das System _9_ voll [[einsatzfähig]] ist, soll es [[Unterwasserabfälle]] mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich [[einsammeln]]. ^15
+
+
 *[[02-C1-Schreiben-T2-M#^5|^]]* * Beschreiben Sie mögliche [[Konsequenzen]], sollte die Präsentation nicht [[erfolgreich]] sein. ^5
 
 

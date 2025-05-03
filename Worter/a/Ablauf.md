@@ -20,7 +20,7 @@ process, procedure, sequence
 [[ablaufen]], [[Ablaufplan]], [[Ablaufzeit]], [[Ablaufdatum]], [[Ablaufgeschwindigkeit]]
 
 ---
-[[Ab]]|[[lauf]]|[[e]]
+[[Ab]]|[[Lauf]]|[[e]]
 [[Ablauf]]
 
 

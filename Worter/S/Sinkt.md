@@ -1,2 +1,2 @@
 🌊 [[sinken]]
-, [[zusinken]], [[absinken]]
+, [[zusinken]], [[absinken]], [[ablagern]]

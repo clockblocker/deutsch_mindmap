@@ -36,4 +36,4 @@ PI: [[erlaubend]], PII: [[erlaubt]], Zu+inf: [[zu erlauben]]
 [[Erlaubnis]], [[Erlauber]], [[Erlauberin]], [[unerlaubt]], [[erlaubt]], [[Erlaubung]]
 
 [[stören]], [[verbieten]], [[lassen]], [[wehrten]], [[erlaubt]]
-, [[zwingen]], [[Gaststättenerlaubnis]], [[Wahlerlaubnis]], [[ermöglichen]], [[gewähren]], [[können]], [[gönnen]], [[einlassen]]
+, [[zwingen]], [[Gaststättenerlaubnis]], [[Wahlerlaubnis]], [[ermöglichen]], [[gewähren]], [[können]], [[gönnen]], [[Worter/E/einlassen]], [[einlassen]]

@@ -1,3 +1,4 @@
+---> ⚠️ [[Grad-Risiko]] <---
 ---> ⏱️ [[Temporal-Dauerhaft]] <---
 
 

@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 ⛔ 🟢 das [[Verbot]], [fɛɐ̯ˈbɔt]
 die [[Verbote]]
 

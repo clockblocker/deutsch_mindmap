@@ -1,8 +1,13 @@
+---> [[Ingredient-Bedürfnis]] <---
+
 die [[Tätigkeit]], [ˈtɛːtɪçkaɪt]
 die [[Tätigkeiten]]
 
 ---
 Und sie stören die Konzentration auf die [[Tätigkeit]], die wir gerade [[ausüben]].
+
+*[[C1-Lesen-1-000-Loesung#^8|^]]* „[[Dabei]]“ kann sich auf eine Tätigkeit oder einen [[Umstand]] beziehen. Es passt hier nicht, um auszudrücken, dass die Drohne etwas bewirkt. ^8
+
 
 *[[01-C1-Schreiben-T2-M#^11|^]]* - Nennen Sie [[Tätigkeit]]en, die durch den neuen Platz [[erschwert]] werden ^11
 

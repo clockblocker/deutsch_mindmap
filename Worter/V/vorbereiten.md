@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 ---> [[Ingredient-Pflege]] <---
 🏃‍♂️[[vorbereiten]] | [[bereitete vor|bereitete vor]], haben [[vorbereitet]]
 

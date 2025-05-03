@@ -3,6 +3,9 @@
 ---
 Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
 
+*[[C1-Lesen-1-000-Text#^9|^]]* Bei guten [[Sichtverhältnissen]] sorgt [[zusätzlich]] eine Drohne aus der Luft [6], dass weiterer Müll im Wasser [[erkannt]] wird. ^9
+
+
 *„Mitarbeitenden wird ein [[zusätzlicher]] [[Urlaubstag]] [[gewährt]].“*
 
 *[[03-C1-Schreiben-T2-M#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2

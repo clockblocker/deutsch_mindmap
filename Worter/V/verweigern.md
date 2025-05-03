@@ -1,3 +1,4 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
 ---> [[Ingredient-erlauben-verbieten]] <---
 
 🙅 [[verweigern]], [fɛɐ̯ˈvaɪ̯ɡɐn](https://youglish.com/pronounce/verweigern/german) → [[verweigerte]] → [[verweigert]]
@@ -8,7 +9,7 @@ Ihm wurde die [[Zufahrt]] zum [[Gelände]] [[verweigert]]
 ---
 = [[ablehnen]], [[zurückweisen]], [[versagen]]
 ≈ [[ignorieren]], [[entziehen]], [[verpassen]]
-≠ [[gewähren]], [[genehmigen]], [[bewilligen]], [[zulassen]], [[einlassen]], [[hineinlassen]], [[ermöglichen]], [[übergeben]]
+≠ [[gewähren]], [[genehmigen]], [[bewilligen]], [[zulassen]], [[Worter/E/einlassen]], [[hineinlassen]], [[ermöglichen]], [[übergeben]]
 !≈ [[anbieten]], [[bieten]], [[annehmen]], [[einladen]], [[zugeben]], [[Verlangen]], [[frönen]], [[tun]], [[ertragen]], [[versprechen]], [[raten]], [[befragen]], [[vereinbaren]], [[wünschen]], [[bitten]], [[vertragen]], [[bezahlen]], [[abgeben]], [[überreden]], [[schlucken]], [[wollen]], [[auffordern]], [[stiften]], [[hinschicken]], [[zufriedengeben]], [[widmen]],
 
 ---

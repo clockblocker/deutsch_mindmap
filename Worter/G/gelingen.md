@@ -1,3 +1,5 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+
 🌈 [[gelingen]], [ɡəˈlɪŋən] | [[gelang]], sein [[gelungen]]
 
 ---

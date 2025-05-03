@@ -6,7 +6,7 @@
 = [[genehmigen]], [[erlauben]], [[gestatten]]
 ≈ [[bewilligen]], [[autorisieren]], [[akzeptieren]]
 ≠ [[verbieten]], [[untersagen]], [[verweigern]]
-, [[zugeben]], [[beißen]], [[verbieten]], [[lassen]], [[wehrten]], [[erlauben]], [[Zulassungsgrenze]], [[hineinlassen]], [[ermöglichen]], [[gewähren]], [[dürfen]], [[einlassen]], [[aufhalten]], [[verhindern]]
+, [[zugeben]], [[beißen]], [[verbieten]], [[lassen]], [[wehrten]], [[erlauben]], [[Zulassungsgrenze]], [[hineinlassen]], [[ermöglichen]], [[gewähren]], [[dürfen]], [[Worter/E/einlassen]], [[aufhalten]], [[verhindern]]
 
 
 ---
@@ -56,4 +56,4 @@ sie, [[lassen zu]], [[ließen zu]], [[lassen zu]], [[ließen zu]], [[ließen zu]
 Adjektive: [[zulassend]], [[zulassender]], [[zulassendst]]
 
 ---
-[[zulassender]], [[zulassendes]], [[zulassende]], [[zulassenden]], [[zulassendem]], [[zulassenderer]], [[zulassenderes]], [[zulassendere]], [[zulassenderen]], [[zulassenderem]], [[zulassendster]], [[zulassendstes]], [[zulassendste]], [[zulassendsten]], [[zulassendstem]], [[freigeben]]
+[[zulassender]], [[zulassendes]], [[zulassende]], [[zulassenden]], [[zulassendem]], [[zulassenderer]], [[zulassenderes]], [[zulassendere]], [[zulassenderen]], [[zulassenderem]], [[zulassendster]], [[zulassendstes]], [[zulassendste]], [[zulassendsten]], [[zulassendstem]], [[freigeben]], [[einlassen]]

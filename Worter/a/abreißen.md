@@ -1,3 +1,4 @@
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 📛 [[abreißen]] + Akk, [ˌapˈʀaɪ̯sn̩]
 [[riss ab|riss ab]]  
 haben [[abgerissen]]

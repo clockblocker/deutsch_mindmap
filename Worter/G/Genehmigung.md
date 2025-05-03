@@ -1,3 +1,5 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🔴 die [[Genehmigung]], [ɡəˈneːmɪɡʊŋ]
 die [[Genehmigungen]]
 
@@ -17,7 +19,7 @@ die [[Genehmigungen]]
 approval, authorization, permission
 
 ---
-[[Geneh]]|[[migung]]
+[[Genehm]]|[[ig]]|[[ung]]
 
 ---
 N: die [[Genehmigung]], die [[Genehmigungen]]  
@@ -27,3 +29,4 @@ D: der [[Genehmigung]], den [[Genehmigungen]]
 
 ---
 [[genehmigen]], [[genehmigt]], [[Genehmigungsprozess]], [[Genehmigungsbehörde]], [[lassen]], [[Einverständnis]], [[verbot]], [[Zugriff]], [[Parkberechtigung]], [[Zutritt]]
+

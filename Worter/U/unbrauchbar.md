@@ -1,1 +1,1 @@
-, [[Nützliches]], [[unnötig]]
+, [[Nützliches]], [[unnötig]], [[einsatzfähig]]

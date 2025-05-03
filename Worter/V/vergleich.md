@@ -1,8 +1,13 @@
+---> 🤝 [[Ingredient-Interaktion]] <---
+
 🔵 🔍 der [[Vergleich]], [fɛɐ̯ˈglаɪ̯ç]
 die [[Vergleiche]]
 
 ---
 Die Schüler sprechen über den [[Vergleich]] von Männern und Frauen.
+
+*[[C1-Lesen-1-000-Loesung#^1|^]]* Die Präposition „gegenüber“ [[drückt aus|drückt]] ein [[Verhältnis]] der [[Entgegensetzung]] oder des [[Vergleichs]] aus. Dies passt nicht zum Kontext der [[Mengenangabe]]. ^1
+
 
 - Nennen Sie ein Beispiel, wie digitale [[Vergleiche]] [[Selbstwert]] beeinflussen können.  
 

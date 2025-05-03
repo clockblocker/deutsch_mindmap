@@ -1,3 +1,3 @@
 , [[kleben]], [[anheften]], [[Heft]]
 , [[Aufgabenheft]]
-, [[Aufgabenheft]]
+, [[Aufgabenheft]], [[heftig]]

@@ -26,3 +26,4 @@ N: die [[Meeresströmung]], die [[Meeresströmungen]]
 A: die [[Meeresströmung]], die [[Meeresströmungen]]
 G: der [[Meeresströmung]], der [[Meeresströmungen]]
 D: der [[Meeresströmung]], den [[Meeresströmungen]]
+#Feminin 

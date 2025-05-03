@@ -19,7 +19,7 @@ Antonyme: [[stehenbleiben]], [[anhalten]], [[stoppen]]
 (transitiv) to traverse, to pass through
 
 ---
-Morpheme: [[ver]][[lauf]][[en]]
+Morpheme: [[ver]][[Lauf]][[en]]
  #Verb #Untrennbar #Mehrfachbedeutung
 
 ---

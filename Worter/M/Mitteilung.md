@@ -1,1 +1,1 @@
-[[bericht]], [[Auskunft]], [[Nachricht]], [[Bescheid]], [[Fehlermeldung]], [[Meldung]], [[Schweigepflicht]], [[Angabe]], [[Anzeige]], [[Benachrichtigung]], [[Aussage]], [[Worter/ergeben]], [[Botschaft]]
+[[bericht]], [[Auskunft]], [[Nachricht]], [[Bescheid]], [[Fehlermeldung]], [[Meldung]], [[Schweigepflicht]], [[Angabe]], [[Anzeige]], [[Benachrichtigung]], [[Aussage]], [[Worter/ergeben]], [[Botschaft]], [[Information]]

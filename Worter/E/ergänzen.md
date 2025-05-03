@@ -33,4 +33,4 @@ PI: [[ergänzend]], PII: [[ergänzt]], Zu+inf: [[zuergänzen]]
 [[ergänzen]] - [[er]] = [[gänzen]] / to add to, to complete, to supplement
 
 ---
-[[Ergänzung]], [[Ergänzungsband]], [[ergänzend]], [[Ergänzungssatz]], [[ersetzen]], [[Vervollständigen]]
+[[Ergänzung]], [[Ergänzungsband]], [[ergänzend]], [[Ergänzungssatz]], [[ersetzen]], [[Vervollständigen]], [[zusammensetzen]]

@@ -1,1 +1,1 @@
-, [[aufbauen]], [[bauen]], [[abreißen]], [[errichteten]], [[Konstruktionsbedingt]], [[Satzkonstruktion]]
+, [[aufbauen]], [[bauen]], [[abreißen]], [[errichteten]], [[Konstruktionsbedingt]], [[Satzkonstruktion]], [[zerreiben]]

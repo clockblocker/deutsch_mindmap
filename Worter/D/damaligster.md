@@ -1,1 +1,1 @@
-, [[damalige]]
+, [[damalige]], [[damalig]]

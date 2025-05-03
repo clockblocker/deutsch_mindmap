@@ -1,1 +1,2 @@
-, [[liegen]], [[unterbrechen]], [[weiterüben]], [[weitermachen]], [[aufhören]], [[weitergehen]], [[geigen]], [[abschalten]]
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
