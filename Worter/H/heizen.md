@@ -1,2 +1,2 @@
 , [[Herd]]
-, [[hitzig]]
+, [[hitzig]], [[Heiztemperatur]]

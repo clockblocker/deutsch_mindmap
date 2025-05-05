@@ -1,1 +1,1 @@
-Hot, [[Heizung]]
+Hot, [[Heizung]], [[Heiztemperatur]]

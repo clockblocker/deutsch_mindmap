@@ -2,7 +2,7 @@
 
 ---
 
-Ihr Unternehmen hat beschlossen, die Heiztemperatur im Bürogebäude auf maximal 18 Grad zu senken, um Energiekosten zu sparen. Viele Mitarbeitende, einschließlich Ihnen selbst, empfinden diese Temperatur als zu niedrig. Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Sommer.
+Ihr Unternehmen hat beschlossen, die [[Heiztemperatur]] im Bürogebäude auf maximal 18 Grad zu senken, um Energiekosten zu sparen. Viele Mitarbeitende, einschließlich Ihnen selbst, empfinden diese Temperatur als zu niedrig. Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Sommer.
 	•	Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für die Energieeinsparmaßnahmen zeigen.
 	•	Schildern Sie, welche Probleme durch die niedrige Temperatur entstehen.
 	•	Beschreiben Sie, unter welchen Bedingungen Sie akzeptabel arbeiten könnten.

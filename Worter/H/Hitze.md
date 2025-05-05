@@ -1,2 +1,2 @@
 , [[Fieber]]
-, [[hitzig]], [[Hitzewelle]]
+, [[hitzig]], [[Hitzewelle]], [[Heiztemperatur]]
