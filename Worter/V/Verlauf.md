@@ -1,1 +1,1 @@
-, [[Geschichte]], [[Strecke]], [[Ablauf]]
+, [[Geschichte]], [[Strecke]], [[Ablauf]], [[DURCHLAUF]]

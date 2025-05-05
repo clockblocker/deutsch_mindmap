@@ -5,7 +5,7 @@
 
 
 ---
-= [[Berufstätigkeit]], [[Worter/A/Arbeit]]
+= [[Berufstätigkeit]], [[Arbeit]]
 ≈ [[Beschäftigung]], [[Tätigkeit]], [[Job]]
 ≠ [[Arbeitslosigkeit]], [[Untätigkeit]]
 

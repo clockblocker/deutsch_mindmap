@@ -27,4 +27,4 @@ A: den [[Stromanschluss]], die [[Stromanschlüsse]]
 G: des [[Stromanschlusses]], der [[Stromanschlüsse]]
 D: dem [[Stromanschluss]], den [[Stromanschlüssen]]
 
-#Maskulin 
+#Maskulin , [[Stromzugang]]

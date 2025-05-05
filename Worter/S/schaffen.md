@@ -33,7 +33,7 @@ PI: [[schaffend]], PII: [[geschaffen]], Zu+inf: [[zu schaffen]]
 [[schaffen]] - to create, to manage / to accomplish
 
 ---
-[[Schaffung]], [[erschaffen]], [[Schöpfung]], [[Schaffenskraft]], [[Erschaffung]], [[Werk]], [[erreichen]], [[erstellen]], [[abschaffen]], [[scheitern]], [[w-l]], [[Worter/A/Arbeit]]
+[[Schaffung]], [[erschaffen]], [[Schöpfung]], [[Schaffenskraft]], [[Erschaffung]], [[Werk]], [[erreichen]], [[erstellen]], [[abschaffen]], [[scheitern]], [[w-l]], [[Arbeit]]
 , [[verschaffen]], [[gelangen]], [[bewältigen]], [[abarbeiten]], [[vergeigen]]
 
-, [[bereitstellen]]
+, [[bereitstellen]], [[meistern]]

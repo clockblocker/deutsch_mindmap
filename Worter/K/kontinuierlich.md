@@ -4,6 +4,8 @@ nicht [[diskontinuierlich]]
 ---
 Bei den Kunstauktionen in London stieg der Umsatz in den letzten Jahren [[kontinuierlich]].
 
+*[[TD#^4|^]]* **Runestone Tower** erhöhen ihren **Schaden** mit jeder Sekunde, in der sie [[kontinuierlich]] [[dasselbe]] Ziel [[angreifen]]. ^4
+
 
 ---
 Synonyme: [[stetig]], [[ununterbrochen]], [[fortlaufend]], [[unaufhörlich]], [[permanent]]

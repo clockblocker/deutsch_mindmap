@@ -1,1 +1,1 @@
-, [[Lage]], [[Wohnort]], [[Niederlassung]]
+, [[Lage]], [[Wohnort]], [[Niederlassung]], [[Ort]]

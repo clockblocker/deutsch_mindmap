@@ -1,1 +1,1 @@
-, [[dringen]], [[eindringen]], [[dringend]]
+, [[dringen]], [[eindringen]], [[dringend]], [[DURCHDRINGUNG]]

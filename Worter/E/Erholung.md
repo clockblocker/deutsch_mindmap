@@ -32,4 +32,4 @@ G: der [[Erholung]], der [[Erholungen]]
 D: der [[Erholung]], den [[Erholungen]]
 
 #Feminin 
-, [[Bauarbeit]]
+, [[Bauarbeit]], [[Überlastung]]

@@ -1,2 +1,2 @@
 , [[betreten]]
-, [[aussteigen]]
+, [[aussteigen]], [[erklimmen]]

@@ -1,1 +1,1 @@
-, [[Atmen]], [[niesen]]
+, [[Atmen]], [[niesen]], [[schnuppern]]

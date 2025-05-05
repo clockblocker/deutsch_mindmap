@@ -29,3 +29,4 @@ PI: [[schnüffelnd]], PII: [[geschnüffelt]], Zu+inf: [[zu schnüffeln]]
 
 ---
 [[Schnüffeln]], [[Schnüffler]], [[schnüffelig]]
+, [[Erschnüffeln]]

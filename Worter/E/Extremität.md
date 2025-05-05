@@ -1,1 +1,1 @@
-, [[Glied]], [[Gliedmaße]], [[Unterarm]]
+, [[Glied]], [[Gliedmaße]], [[Unterarm]], [[Fuß]]

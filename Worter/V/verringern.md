@@ -4,6 +4,7 @@
 ---
 *[[Golfstorm#^15|^]]* Durch [[zusätzliches]] Süßwasser wird das [[Verhältnis]] von Temperatur und Salz im Meerwasser gestört, was [[wiederum]] die Stärke der Strömungen [[verringert]].
 
+Der Bonus von **Fokusrune** [[verringert]] sich mit jeder Sekunde (-**10%**/Sekunde).
 
 ---
 = [[reduzieren]], [[mindern]], [[senken]]

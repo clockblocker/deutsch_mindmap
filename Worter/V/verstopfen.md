@@ -49,4 +49,4 @@ sie, [[verstopfen]], [[verstopften]], [[verstopfen]], [[verstopften]], [[verstop
 Adjektive: [[verstopfend]], [[verstopfender]], [[verstopfendst]]
 
 ---
-[[verstopfender]], [[verstopfendes]], [[verstopfende]], [[verstopfenden]], [[verstopfendem]], [[verstopfenderer]], [[verstopfenderes]], [[verstopfendere]], [[verstopfenderen]], [[verstopfenderem]], [[verstopfendster]], [[verstopfendstes]], [[verstopfendste]], [[verstopfendsten]], [[verstopfendstem]]
+[[verstopfender]], [[verstopfendes]], [[verstopfende]], [[verstopfenden]], [[verstopfendem]], [[verstopfenderer]], [[verstopfenderes]], [[verstopfendere]], [[verstopfenderen]], [[verstopfenderem]], [[verstopfendster]], [[verstopfendstes]], [[verstopfendste]], [[verstopfendsten]], [[verstopfendstem]], [[überfüllen]]

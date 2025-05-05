@@ -3,6 +3,9 @@
 ---
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]. 
 
+Zurzeit [[leite]] ich ein Team von sechs Softwareingenieur:innen bei der [[Entwicklung]] unseres [[intern]]en „E-Ledger“-Projekts für den [[Buchhaltungsbereich]]. ^2
+
+
 ---
 [[ableiten]] - [[ab]] = [[leiten]] / to derive, to deduce, to infer
 

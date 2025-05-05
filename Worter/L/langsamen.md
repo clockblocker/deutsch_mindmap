@@ -1,2 +1,2 @@
 [[langsam]]
-#Adjective
+#Adjective, [[verlangsamen]]

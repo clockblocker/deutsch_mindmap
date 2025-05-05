@@ -1,5 +1,5 @@
 ---> 🤝 [[Ingredient-Interaktion]] <---
-
+[[Verbot]] `von`
 #### 🟢 [[Zustimmung]] / [[Annahme]]  
 *(consent, agreement, approval)*  
 1) [[Zustimmung]] *(agreement)*  

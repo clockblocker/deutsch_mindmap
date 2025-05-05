@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Woche]], [[Wochen]], [[Wochens]], [[Woche]], [[Woche]], [[Woche]], [[Wochen]], [[Wochen]]
 
 ---
-#Substantiv #Neuter, [[allwöchentlich]]
+#Substantiv #Neuter, [[allwöchentlich]], [[einwöchig]]

@@ -24,4 +24,4 @@ G: der [[Aufführung]], der [[Aufführungen]]
 D: der [[Aufführung]], den [[Aufführungen]]  
 
 ---
-[[aufführen]], [[Aufführungsort]], [[aufführungsreif]], [[aufführungswürdig]]
+[[aufführen]], [[Aufführungsort]], [[aufführungsreif]], [[aufführungswürdig]], [[Programm]]

@@ -1,1 +1,1 @@
-, [[Schatten]], [[dunkel]], [[Sichtverhältnis]]
+, [[Schatten]], [[dunkel]], [[Sichtverhältnis]], [[Lichtsäule]]

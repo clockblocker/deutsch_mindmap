@@ -3,6 +3,8 @@
 ---
 Neue [[Perspektive]]n und [[Kompetenz]]en sind immer ein Gewinn.
 
+ich freue mich sehr, dass unser IT-Infrastruktur-Team durch Herrn Muller [[verstärkt]] wird. Neue [[Perspektive]]n und [[Kompetenz]]en sind immer ein [[Gewinn]]. ^1
+
 
 ---
 = [[Aussicht]], [[Blickwinkel]], [[Sichtweise]]

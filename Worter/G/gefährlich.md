@@ -45,4 +45,4 @@ Einzigartige mögliche Formen:
 [[gefährlichste]], [[gefährlichster]], [[gefährlichste]], [[gefährlichstes]], [[gefährlichsten]], [[gefährlichstem]], [[gefährlichster]], [[gefährlichsten]]
 
 , [[tödlich]]
-, [[Gefahr]], [[Schädliches]], [[Texte/Misc/Anki]], [[risikoreich]]
+, [[Gefahr]], [[Schädliches]], [[Texte/Misc/Anki]], [[risikoreich]], [[gefährden]]

@@ -3,6 +3,8 @@
 ---
 ![[006-C1-Schreiben-T2#^2|^]]
 
+Wenn Sie keine Möglichkeit haben, [[vorübergehend]] von zu Hause aus zu arbeiten, schlage ich vor, den Hund [[während]] der Arbeitszeit [[betreuen]] zu lassen. 
+
 ![[Sprechen-T1#^4|^]]
 
 

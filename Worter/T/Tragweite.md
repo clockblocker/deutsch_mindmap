@@ -1,1 +1,1 @@
-, [[Bedeutung]], [[tragen]]
+, [[Bedeutung]], [[tragen]], [[Reichweite]]

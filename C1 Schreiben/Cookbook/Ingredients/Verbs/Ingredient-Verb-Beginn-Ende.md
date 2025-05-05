@@ -39,17 +39,18 @@
 
 #### 🔴 [[Ende]]  
 1) [[beenden]] *(to end — general)*  
-2) [[abschließen]] *(to conclude — structured/completed finish)*  
-3) [[stoppen]] *(to stop — abrupt/dynamic)*  
-4) [[abbrechen]] *(to abort, cut off — incomplete end)*  
-5) [[aufhören]] *(to cease — personal/habitual)*  
-6) [[stilllegen]] *(to decommission — industrial/formal)*  
-7) [[einstellen]] *(to discontinue — bureaucratic/legal)*  
-8) [[aufgeben]] *(to give up; surrender or abandon)*  
-9) [[verhindern]] *(to prevent; blocking success or completion)*  
-10) [[abreißen]] *(to tear down; physical or structural end)*  
-11) [[kündigen]] *(to terminate; contracts, relationships)*  
-12) [[aussteigen]] *(to opt out/exit; neutral disengagement)*  
-13) [[aufhalten]] *(to delay or obstruct)*  
-14) [[umkehren]] *(to turn back; reversal before completion)*  
-15) [[untergehen]] *(to fail catastrophically; collapse or ruin)*  
+2) ✅ [[absolvieren]] *(to complete, to finish)*
+3) [[abschließen]] *(to conclude — structured/completed finish)*  
+4) [[stoppen]] *(to stop — abrupt/dynamic)*  
+5) [[abbrechen]] *(to abort, cut off — incomplete end)*  
+6) [[aufhören]] *(to cease — personal/habitual)*  
+7) [[stilllegen]] *(to decommission — industrial/formal)*  
+8) [[einstellen]] *(to discontinue — bureaucratic/legal)*  
+9) [[aufgeben]] *(to give up; surrender or abandon)*  
+10) [[verhindern]] *(to prevent; blocking success or completion)*  
+11) [[abreißen]] *(to tear down; physical or structural end)*  
+12) [[kündigen]] *(to terminate; contracts, relationships)*  
+13) [[aussteigen]] *(to opt out/exit; neutral disengagement)*  
+14) [[aufhalten]] *(to delay or obstruct)*  
+15) [[umkehren]] *(to turn back; reversal before completion)*  
+16) [[untergehen]] *(to fail catastrophically; collapse or ruin)*  

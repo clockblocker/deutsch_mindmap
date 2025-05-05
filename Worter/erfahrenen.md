@@ -4,6 +4,9 @@ nicht [[unerfahren]]
 ---
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
 
+*[[TD#^3|^]]* Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten. ^3
+
+
 Schlaft jetzt, [[erfahrene]] Könige 
 
 ---

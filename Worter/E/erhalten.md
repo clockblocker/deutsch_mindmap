@@ -5,8 +5,9 @@ haben [[erhalten]]
 ---
 Du [[erhältst]] morgen ein Geschenk.
 
-![[006-C1-Schreiben-T2#^2|^]]
+Seit zwei Jahren versuche ich darum, ein Studienvisum zu [[erhalten]] und einen Platz im Programm zu sichern. 
 
+![[006-C1-Schreiben-T2#^2|^]]
 
 *[[07-C1-Schreiben-T2-M#^12|^]]* Deshalb bitte ich Sie, dass wir so lange die alte Software nutzen dürfen, bis unsere [[Abteilung]] eine 2- bis 3-stündige [[Einführung]] zu der Software [[erhalten]] kann. ^12
 

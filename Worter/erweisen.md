@@ -55,4 +55,4 @@ sie, [[erweisen]], [[erwiesen]], [[erweisen]], [[erwiesen]], [[erweisen]]
 Adjektive: [[erweisend]], [[erweisender]], [[erweisendst]]
 
 ---
-[[erweisender]], [[erweisendes]], [[erweisende]], [[erweisenden]], [[erweisendem]], [[erweisenderer]], [[erweisenderes]], [[erweisendere]], [[erweisenderen]], [[erweisenderem]], [[erweisendster]], [[erweisendstes]], [[erweisendste]], [[erweisendsten]], [[erweisendstem]]
+[[erweisender]], [[erweisendes]], [[erweisende]], [[erweisenden]], [[erweisendem]], [[erweisenderer]], [[erweisenderes]], [[erweisendere]], [[erweisenderen]], [[erweisenderem]], [[erweisendster]], [[erweisendstes]], [[erweisendste]], [[erweisendsten]], [[erweisendstem]], [[bewähren]]

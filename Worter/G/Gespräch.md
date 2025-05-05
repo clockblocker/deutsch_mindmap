@@ -4,6 +4,8 @@ die [[Gespräche]]
 ---
 Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
 
+Meine [[häufig]]en [[Gespräch]]e würden nicht nur die Konzentration der sechs Kolleg:innen [[beeinträchtigen]], sondern auch das Risiko [[bergen]], dass [[sensible]] [[Information]]en von [[unbeteiligten]] [[Mitarbeitende]]n [[mitgehört]] werden.
+
 *[[01-C1-Schreiben-T2-M#^1|^]]* Mögen Sie sich auf unser [[Gespräch]] kurz vor meinem [[Urlaub]] erinnern, in dem Sie mir im neuen Gebäude ein Büro für zwei Personen in [[Aussicht]] gestellt haben. ^1
 
 
@@ -28,4 +30,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gesprächs]], [[Gespräche]], [[Gesprächen]]
 
 ---
-#Substantiv #Neuter, [[Partygespräch]], [[Sondierungsgespräche]], [[Feedbackgespräch]], [[Meeting]], [[Kommunikation]], [[Argument]], [[Kundenbesuch]]
+#Substantiv #Neuter, [[Partygespräch]], [[Sondierungsgespräche]], [[Feedbackgespräch]], [[Meeting]], [[Kommunikation]], [[Argument]], [[Kundenbesuch]], [[Kundengespräch]]

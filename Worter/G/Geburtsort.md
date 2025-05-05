@@ -24,4 +24,4 @@ G: des [[Geburtsortes]], der [[Geburtsorte]]
 D: dem [[Geburtsort]], den [[Geburtsorten]]  
 
 ---
-[[Geburt]], [[Geburtsdatum]], [[Geburtsurkunde]], [[geburtshilflich]], [[gebürtig]]
+[[Geburt]], [[Geburtsdatum]], [[Geburtsurkunde]], [[geburtshilflich]], [[gebürtig]], [[Ort]]

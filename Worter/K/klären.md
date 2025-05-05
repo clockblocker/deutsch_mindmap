@@ -3,6 +3,8 @@
 haben [[geklärt]]
 
 ---
+Ich schlage vor, dass wir uns morgen kurz [[zusammensetzen]], um die offenen [[Punkte]] zu [[klären]]. 
+
 
 ---
 [[erklären]] - [[er]] = [[klären]]

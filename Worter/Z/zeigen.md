@@ -83,4 +83,4 @@ sie, [[zeigen]], [[zeigten]], [[zeigen]], [[zeigten]], [[zeigen]]
 Adjektive: [[zeigend]], [[zeigender]], [[zeigendst]]
 
 ---
-[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]], [[Sachzwang]]
+[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]], [[Sachzwang]], [[bewähren]]

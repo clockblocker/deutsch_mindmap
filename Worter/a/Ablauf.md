@@ -42,4 +42,4 @@ G: des [[Ablaufes]], der [[Abläufe]]
 D: dem [[Ablauf]], den [[Abläufen]]
 
 
-#Maskulin , [[Vorgehensweise]]
+#Maskulin , [[Vorgehensweise]], [[Programm]], [[DURCHLAUF]]

@@ -1,1 +1,1 @@
-, [[Tor]], [[Flur]], [[Tür]]
+, [[Tor]], [[Flur]], [[Tür]], [[DURCHLAUF]], [[DURCHDRINGUNG]]

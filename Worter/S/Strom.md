@@ -27,4 +27,4 @@ G: des [[Stromes]], der [[Ströme]]
 D: dem [[Strom]], den [[Strömen]]
 
 
-#Maskulin , [[Stromanschluss]]
+#Maskulin , [[Stromanschluss]], [[Stromzugang]]

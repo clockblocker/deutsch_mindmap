@@ -1,1 +1,1 @@
-, [[Berg]]
+, [[Berg]], [[bergen]]

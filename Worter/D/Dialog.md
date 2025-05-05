@@ -1,1 +1,1 @@
-, [[Gespräch]], [[Unterhaltung]], [[Kommunikationskultur]], [[Kommunikation]]
+, [[Gespräch]], [[Unterhaltung]], [[Kommunikationskultur]], [[Kommunikation]], [[Kundengespräch]]

@@ -4,6 +4,9 @@ die [[Allgemeinen]]
 ---
 Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
+Allerdings [[darstellen|stellt]] sein [[ständiges]] Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und [[Kundengespräche]] erheblich, sondern [[beeinträchtigt]] auch die [[allgemeine]] Konzentration.
+
+
 [[nackt.md#^3|(q)]]     ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]] ^3
 
 120. Das Wahlsystem in Deutschland ist ein … (84%)

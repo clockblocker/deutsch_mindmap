@@ -1,1 +1,1 @@
-[[Schale]], [[Kasten]], [[Krug]], [[Topf]], [[Schüssel]], [[Tüte]], [[Eimer]], [[enthalten]], [[Teekanne]], [[Schublade]]
+[[Schale]], [[Kasten]], [[Krug]], [[Topf]], [[Schüssel]], [[Tüte]], [[Eimer]], [[enthalten]], [[Teekanne]], [[Schublade]], [[Metallkiste]]

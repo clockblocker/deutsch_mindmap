@@ -1,1 +1,1 @@
-, [[Heer]], [[Band]], [[Belegschaft]], [[Team]]
+, [[Heer]], [[Band]], [[Belegschaft]], [[Team]], [[Gegnerhorde]]

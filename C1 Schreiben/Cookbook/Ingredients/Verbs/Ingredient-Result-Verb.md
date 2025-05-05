@@ -1,9 +1,12 @@
 ---> [[Ingredient-Result-Verb]] <---
 
+- Konzentration [[beeinträchtigen]] 
 #### ✅ Resultat / Konsequenz – Neutral Outcome
 ✅ [[ergeben]] *(to result in; neutral, direct consequence)*
 🔗 [[resultieren]] *(to result from; formal cause-effect link)*
 🌱 [[hervorgehen]] `aus` *(to emerge from; narrative or analytical outcome)*
+🗣️ [[hervorrufen]] *(to evoke, to cause)*  
+[[auslösen]] *(to trigger, to cause)*
 ➡️ [[führen]] `zu` *(to lead to; causal chain builder)*
 📎 [[zur Folge haben]] *(to have as a consequence; bureaucratic phrasing)*
 🕰️ [[geschehen]] *to happen, to occur, to take place*
@@ -46,4 +49,4 @@ like 🩹 [[beeinträchtigen]] *(to impair; partial damage, softer tone)*
 🖌️ [[designen]] *(to design; structuring or styling)*  
 🏛️ [[etablieren]] *(to establish; making institutions, systems)*
 🌱 [[erzeugen]] *(to generate; neutral production)*
-✍️ [[verfassen]] *(to compose; writing, formal creation)*  
+✍️ [[verfassen]] *(to compose; writing, formal creation)*  , [[hervorrufen]]

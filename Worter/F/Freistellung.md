@@ -1,1 +1,1 @@
-, [[Anwesenheitspflicht]], [[Prüfung]]
+, [[Anwesenheitspflicht]], [[Prüfung]], [[Bildungsfreistellung]]

@@ -1,33 +1,31 @@
-der [[Kunde]]
-die [[Kundin]]
+👤 🔵 der [[Kunde]], [ˈkʊndə](https://youglish.com/pronounce/Kunde/german)
 die [[Kunden]]
 
-NIC: Ich bin der [[Verkäufer]] und du bist der [[Kunde]].
+---
+neue [[Partner]] und [[Kunde]]n [[gewinnen]]
+
+---
+= [[Abnehmer]], [[Klient]], [[Käufer]]
+≈ [[Verbraucher]], [[Interessent]], [[Geschäftspartner]]
+≠ [[Verkäufer]], [[Lieferant]]
+
+---
+customer, client  
+клиент, покупатель
+
+---
+[[kundtun]], [[Kundenbindung]], [[Kundenorientierung]], [[Kundenservice]]
+
+---
+[[Kund]]|[[e]]
+[[Kunde]]
 
 
 ---
+N: der [[Kunde]], die [[Kunden]]
+A: den [[Kunden]], die [[Kunden]]
+G: des [[Kunden]], der [[Kunden]]
+D: dem [[Kunden]], den [[Kunden]]
 
-Synonyme:
-- [[Klient]]
-- [[Abnehmer]]
-- [[Käufer]]
 
----
-
-Beispiele:
-
-- Der [[Kunde]] fragt nach dem Preis.
-- Die [[Kundin]] möchte eine Rückerstattung.
-- Die [[Kunden]] sind zufrieden mit dem Service.
-
----
-
-**Übersetzung**: customer, client
-
----
-
-Tags:
-#Substantiv
-#Maskulin  | #Feminin | #Neuter 
-
----, [[Urkunde]], [[Zeiser]], [[kundtun]], [[Kundenbesuch]]
+#Maskulin , [[Kundengespräch]]

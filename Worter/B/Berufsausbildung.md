@@ -1,1 +1,1 @@
-, [[Gesellenprüfung]], [[Lehrstellensuche]], [[Berufsgruppe]]
+, [[Gesellenprüfung]], [[Lehrstellensuche]], [[Berufsgruppe]], [[Aufstiegsfortbildung]]

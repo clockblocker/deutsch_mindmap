@@ -1,4 +1,4 @@
-[[T1-Schreiben-Ubungen]]
+[[T2-Schreiben-Ubungen]]
 
 ---
 
@@ -21,5 +21,22 @@ Sehr geehrte Frau Sommer,
 
 ich wende mich an Sie, um auf die neue Temperaturregulierung einzugehen.
 
-Ich habe vollstes Verständnis dafür, wie wichtig Energieeinsparmaßnahmen sind – insbesondere, da unser Budget seit dem zweiten Quartal beträchtlich reduziert wurde. ^1
+Ich habe vollstes Verständnis dafür, dass die Energieeinsparmaßnahmen nötig sind - insbesondere, da unser Budget seit dem zweiten Quartal reduziert wurde.
+
+Allerdings stellt die gesunkene Temperatur ein erhebliches Problem für unser Team dar: Einige Mitarbeitende sind gezwungen, alle dreißig Minuten heißen Tee zuzubereiten, während andere zusätzliche Jacken und Handschuhe tragen.
+
+Bedienungen
+Bedingungen
+
+
+Da unter solchen Bedingungen eine erfolgreiche Arbeit kaum möglich ist, wäre ein Temperaturerhöhung auf 20 Grad wünschenswert.
+
+Wenn jedoch die Temperatur momentan nicht erhöht werden kann, schlage ich vor, dem Team dauerhafter Homeoffice zu erlauben. 
+
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
+
+Mit freundlichen Grüßen
+Denis Popov
+
+  
 

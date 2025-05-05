@@ -18,7 +18,7 @@ die [[Mindestanteile]]
 minimum share, minimum stake
 
 ---
-[[Mindest]]|[[anteil]]
+[[Mindest]]|[[Anteil]]
 
 ---
 N: der [[Mindestanteil]], die [[Mindestanteile]]  

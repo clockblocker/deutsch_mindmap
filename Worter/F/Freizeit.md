@@ -1,4 +1,4 @@
-, [[Arbeitsplatz]], [[Aufgabe]], [[Arbeitswelt]], [[Worter/A/Arbeit]], [[Arbeitsbedingungen]]
+, [[Arbeitsplatz]], [[Aufgabe]], [[Arbeitswelt]], [[Arbeit]], [[Arbeitsbedingungen]]
 , [[Freizeitaktivität]]
 , [[Termindruck]]
 , [[Arbeitsauftrag]]
@@ -14,7 +14,7 @@ in einen Burnout münden.
 ---
 = [[Muße]], [[Erholung]], [[Entspannung]]
 ≈ [[Urlaub]], [[Ferien]], [[Freiheit]]
-≠ [[Worter/A/Arbeit]], [[Pflicht]], [[Beschäftigung]]
+≠ [[Arbeit]], [[Pflicht]], [[Beschäftigung]]
 
 ---
 leisure time, free time  
@@ -35,4 +35,4 @@ G: der [[Freizeit]], -
 D: der [[Freizeit]], -
 
 
-#Feminin , [[Privatleben]], [[Berufsleben]], [[Meeting]], [[Kurs]], [[Spiel]], [[Bürosituation]], [[Urlaubstag]], [[Arbeitsumgebung]], [[Bauarbeit]], [[Arbeitsbelastung]], [[Dienstreise]]
+#Feminin , [[Privatleben]], [[Berufsleben]], [[Meeting]], [[Kurs]], [[Spiel]], [[Bürosituation]], [[Urlaubstag]], [[Arbeitsumgebung]], [[Bauarbeit]], [[Arbeitsbelastung]], [[Dienstreise]], [[Bildungsurlaub]]

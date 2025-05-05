@@ -40,5 +40,5 @@ Einzigartige mögliche Formen: [[Tätigkeit]], [[Tätigkeiten]], [[Tätigkeit]],
 ---
 #Substantiv #Feminin
 
-, [[Bewegung]], [[Worter/A/Arbeit]], [[Erlebnis]]
+, [[Bewegung]], [[Arbeit]], [[Erlebnis]]
 , [[Arbeitsauftrag]], [[Erwerbstätigkeit]], [[Berufstätigkeit]], [[berufstätig]], [[Berufsleben]], [[Arbeitsprozess]], [[Arbeitsschritt]]

@@ -24,3 +24,4 @@ Einzigartige mögliche Formen: [[Pforte]], [[Pforten]], [[Pförtner]], [[Pförtn
 ---
 #Substantiv #Feminin
 
+, [[Fuß]]

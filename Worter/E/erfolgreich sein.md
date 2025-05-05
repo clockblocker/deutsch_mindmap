@@ -1,2 +1,2 @@
 , [[gutgehen]], [[erfolgreich]], [[siegen]], [[scheitern]], [[w-l]]
-, [[zusammenbrechen]], [[vergeigen]], [[verfehlen]]
+, [[zusammenbrechen]], [[vergeigen]], [[verfehlen]], [[meistern]]

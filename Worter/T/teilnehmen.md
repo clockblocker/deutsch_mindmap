@@ -1,13 +1,14 @@
-, [[bewerben]], [[beteiligen]], [[mitmachen]], [[beitreten]], [[verpassen]], [[zugucken]], [[antreten]], [[teilweise]]
 🙋 [[teilnehmen]], [ˈtaɪ̯lˌneːmən](https://youglish.com/pronounce/teilnehmen/german) | [[nahm teil]], haben [[teilgenommen]]
 
 ---
-Er ist
+Als Projektmanager [[teilnehmen|nehme]] ich [[ständig]] an [[virtuell]]en [[Meeting]]s mit [[extern]]en [[Partner]]n teil. 
 
 ---
 = [[mitmachen]], [[beteiligen]], [[partizipieren]]
 ≈ [[besuchen]], [[anwesend sein]], [[dabei sein]], [[sich beteiligen]]
 ≠ [[fehlen]], [[auslassen]], [[fernbleiben]], [[ignorieren]]
+
+, [[bewerben]], [[beteiligen]], [[mitmachen]], [[beitreten]], [[verpassen]], [[zugucken]], [[antreten]], [[teilweise]]
 
 ---
 to participate, to take part

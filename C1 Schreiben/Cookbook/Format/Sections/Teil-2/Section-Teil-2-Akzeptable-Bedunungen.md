@@ -6,8 +6,5 @@
 
 ![[006-C1-Schreiben-T2#^2|^]]
 
-Da *der ÖPNV* keine akzeptablen Bedingungen *für Menschen mit Behinderung* bietet, 
-halte ich es für sinnvoll, uns weiterhin 
-die [[Nutzung]] *des Parkplatzes* zu gewähren. 
+![[008-C1-Schreiben-T2#^3|^]]
 
-Solche Einzelfallregelungen bleiben jedoch nur eine Symptombehandlung.

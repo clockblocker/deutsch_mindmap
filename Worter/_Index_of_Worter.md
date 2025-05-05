@@ -1792,7 +1792,7 @@
  [[Worter/Vetter|Vetter]]
  [[Worter/vgl.|vgl.]]
  [[Worter/vielfältigen|vielfältigen]]
- [[Worter/virus|virus]]
+ [[Virus|Virus]]
  [[Worter/Volksbildung|Volksbildung]]
  [[Worter/Volkssouveränität|Volkssouveränität]]
  [[Worter/volljährigen|volljährigen]]

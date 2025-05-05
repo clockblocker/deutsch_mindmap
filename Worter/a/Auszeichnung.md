@@ -1,1 +1,1 @@
-, [[Bundesverdienstkreuz]], [[Verdienstorden]], [[Ehrentitel]], [[ausgezeichnet]]
+, [[Bundesverdienstkreuz]], [[Verdienstorden]], [[Ehrentitel]], [[ausgezeichnet]], [[Belohnung]]

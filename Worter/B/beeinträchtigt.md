@@ -1,1 +1,3 @@
-, [[verletzt]], [[beeinträchtigen]], [[Dauerlärm]], [[Bauarbeit]]
+[[beeinträchtigen]],
+
+, [[verletzt]],  [[Dauerlärm]], [[Bauarbeit]]

@@ -3,6 +3,8 @@
 🏃‍♂️[[vorbereiten]] | [[bereitete vor|bereitete vor]], haben [[vorbereitet]]
 
 ---
+Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]].
+
 ![[006-C1-Schreiben-T2#^5|^]] 
 
 [[1 Präpositionen Übungen.md#^6|(q)]] e) Sie hat sich [[Worter/A/auf]] die schwierige Prüfung intensiv [[vorbereitet]]. ^6

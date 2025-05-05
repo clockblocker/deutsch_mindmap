@@ -1,3 +1,5 @@
+--->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+
 🎲 [[aufs Spiel setzen]], [aʊ̯fs ʃpiːl ˈzɛt͡sn̩](https://youglish.com/pronounce/aufs Spiel setzen/german) → [[setzte aufs Spiel]] → haben [[aufs Spiel gesetzt]]
 
 ---

@@ -24,4 +24,4 @@ G: des [[Visums]], der [[Visen/Visa]]
 D: dem [[Visum]], den [[Visen/Visa]]  
 
 ---
-[[visieren]], [[Visierung]], [[Einreise]], [[Passstempel]], [[Reisedokument]]
+[[visieren]], [[Visierung]], [[Einreise]], [[Passstempel]], [[Reisedokument]], [[Studienvisum]]

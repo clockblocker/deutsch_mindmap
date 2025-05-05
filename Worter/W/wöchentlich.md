@@ -1,1 +1,1 @@
-, [[Wochenbett]], [[allwöchentlich]]
+, [[Wochenbett]], [[allwöchentlich]], [[einwöchig]]

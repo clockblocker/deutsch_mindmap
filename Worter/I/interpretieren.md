@@ -1,1 +1,1 @@
-, [[deuten]], [[Auslegung]], [[umschreiben]]
+, [[deuten]], [[Auslegung]], [[umschreiben]], [[auslegen]]

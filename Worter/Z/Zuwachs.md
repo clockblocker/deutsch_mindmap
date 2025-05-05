@@ -1,1 +1,1 @@
-, [[Verlust]], [[Aufstieg]]
+, [[Verlust]], [[Aufstieg]], [[Anstieg]]

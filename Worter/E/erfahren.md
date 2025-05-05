@@ -4,6 +4,10 @@
 ---
 „Ich wollte nicht, dass du es [[erfährst]]“, [[flüsterte]] Petunia. „aber es ist [[wahr]]. Ich habe Sachen gesehen …“
 
+
+Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
+
+
 [[16 Plusquamperfekt#^24|(q)]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]]  
 hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
 
@@ -62,4 +66,4 @@ sie, [[erfahren]], [[erfuhren]], [[erfahren]], [[erfuhren]], [[erfahren]]
 – Weil er nicht zugehört hat.
 
 
-f, [[fühlen]]
+f, [[fühlen]], [[erleiden]]

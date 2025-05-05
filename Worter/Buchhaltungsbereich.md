@@ -6,6 +6,9 @@ die [[Buchhaltungsbereiche]]
 bei der [[Entwicklung]] unseres internen „E-Ledger“-[[Projekt]]s 
 für den [[Buchhaltungsbereich]]. 
 
+Zurzeit [[leite]] ich ein Team von sechs Softwareingenieur:innen bei der [[Entwicklung]] unseres [[intern]]en „E-Ledger“-Projekts für den [[Buchhaltungsbereich]]. ^2
+
+
 ---
 = [[Rechnungswesen]], [[Finanzbuchhaltung]]
 ≈ [[Bereich]], [[Finanzen]], [[Buchung]]

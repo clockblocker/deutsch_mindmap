@@ -2,7 +2,7 @@
 die [[Produktionssysteme]]
 
 ---
-#Teamkonflikte
+Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]].
 
 ---
 = [[Fertigungssystem]], [[Herstellungssystem]]

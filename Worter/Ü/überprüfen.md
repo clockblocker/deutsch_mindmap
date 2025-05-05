@@ -1,2 +1,2 @@
 [[kontrollieren]], [[checken]], [[durchchecken]]
-, [[zichten]]
+, [[zichten]], [[prüfen]]

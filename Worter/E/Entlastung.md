@@ -1,1 +1,1 @@
-, [[Last]], [[Befreiung]], [[Erleichterung]], [[entlasten]], [[Belastung]], [[Stressreduktion]], [[Arbeitsbelastung]]
+, [[Last]], [[Befreiung]], [[Erleichterung]], [[entlasten]], [[Belastung]], [[Stressreduktion]], [[Arbeitsbelastung]], [[Überlastung]]

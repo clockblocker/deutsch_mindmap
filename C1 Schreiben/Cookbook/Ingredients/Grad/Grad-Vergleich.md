@@ -1,11 +1,16 @@
 [[0 Grad]]
 ---> 📈 [[Grad-Vergleich]] <---
 
+- ist die Universitätsbibliothek [[zunehmend]] überfüllt
+- [[zusätzlich]]e Steckdosen
+- da die [[Besucherzahl]] `zum` *Jahresende* deutlich [[gestiegen]] ist
+#### Mehr
 1) [[mehr]] *(more; simple additive)*
-2) [[zunehmend]] *(increasingly; dynamic)*
-3) [[steigend]] *(rising; data-driven)*
-4) [[wachsend]] *(growing; abstract or numerical)*
-5) [[verstärkt]] *(intensified)*
+2) ❤️ [[zusätzlich]] *(additionally, extra, furthermore)*
+3) ❤️ [[steigend]] *(rising; data-driven)*
+4) [[zunehmend]] *(increasingly; dynamic)*
+5) [[wachsend]] *(growing; abstract or numerical)*
+6) [[verstärkt]] *(intensified)*
 
 #### 🟡 [[gleich]] *(equal; same level)*
 1) [[genauso]] *(just as; for parity)*

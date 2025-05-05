@@ -5,6 +5,9 @@ die [[Mängel]]
 ---
 Andererseits ist der [[Bewegungsmangel]] im Home-Office ein großes Problem.
 
+*[[100-C1-Schreiben-T2#^4|^]]* Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
+
+
 ---
 = [[fehlen]], [[Defizit]], [[Unzulänglichkeit]],  [[knapp]], [[Bedürfnis]],
 ≈ [[Knappheit]], [[Verlust]], [[Bedarf]], [[Schwäche]], [[Versorgung]], [[Armut]], [[Ausrüstung]],

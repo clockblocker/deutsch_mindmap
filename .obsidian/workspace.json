@@ -4,21 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "cb7ec91e0c777e74",
+        "id": "c2dc3b2a30a47989",
         "type": "tabs",
         "children": [
           {
-            "id": "f668dc94f309b1f6",
+            "id": "8afb97d75f8a3e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Cookbook/Format/Format-Teil-1.md",
+                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/005-C1-Schreiben-T2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Format-Teil-1"
+              "title": "005-C1-Schreiben-T2"
+            }
+          },
+          {
+            "id": "9ce40f2a7c65f6c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/021-C1-Schreiben-T2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "021-C1-Schreiben-T2"
+            }
+          },
+          {
+            "id": "438b1321082062d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Lesen/C1-Lesen-Teil-1/Lochtype/Lesen-Teil-1-Verb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesen-Teil-1-Verb"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "049c81dcb7ecd4d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2be8ecea114e515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Vorschlag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section-Teil-2-Vorschlag"
             }
           }
         ]
@@ -92,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50260543823242
+    "width": 200
   },
   "right": {
     "id": "5551a767f2afb90d",
@@ -186,44 +235,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f668dc94f309b1f6",
+  "active": "9ce40f2a7c65f6c5",
   "lastOpenFiles": [
-    "C1 Schreiben/Cookbook/Format/Sections/Teil-1/Section-Teil-1-Anderen-Seite.md",
-    "C1 Schreiben/Teil 1/Texte/Mein/1 Brauchen wir Kohlekraftwerke?.md",
-    "C1 Schreiben/Cookbook/Format/Sections/Teil-1/Section-Teil-1-Kopf.md",
-    "C1 Schreiben/Cookbook/Format/Format-Teil-1.md",
-    "C1 Schreiben/Cookbook/Format/Sections/Teil-1/Section-Teil-1-Einen-Seite.md",
-    "C1 Schreiben/Cookbook/Format/Sections/Teil-1/Section-Teil-1-Meiner-Ansicht.md",
-    "C1 Schreiben/Teil 1/Texte/Mein/5 Work-Life-Balance.md",
-    "C1 Schreiben/Teil 1/Texte/Mein/6 Sollte das Internet stärker reguliert werden?.md",
-    "C1 Schreiben/Teil 1/Texte/Mein/4 Home-Office.md",
-    "C1 Schreiben/Teil 1/Texte/Mein/7 Soll Englisch zweite Behördensprache in Deutschland werden?.md",
-    "C1 Schreiben/Teil 1/Texte/Mein/9 Klimaschutz.md",
-    "C1 Schreiben/Teil 1/Texte/Mein/3 Überwachungssoftware.md",
-    "C1 Schreiben/Teil 1/Texte/Mein/2 Verliert eine Vielzahl von Sprachen ihre Bedeutung?.md",
-    "C1 Schreiben/Cookbook/Format/Sections/Teil-1/Section-Teil-1-Beispiel.md",
-    "C1 Schreiben/Cookbook/Format/Format-Teil-2-Komplaint.md",
-    "C1 Schreiben/Teil 1/Subthemen/Homeoffice + Work-Life Balance.md",
-    "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Akzeptable-Bedunungen.md",
-    "Worter/A/anderen.md",
-    "C1 Schreiben/Cookbook/Format/Format-Teil-1-Contra.md",
-    "C1 Schreiben/Cookbook/Format/Format-Teil-1-Pro.md",
-    "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Kopf.md",
     "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Vorschlag.md",
-    "Worter/A/Ausdruck.md",
-    "C1 Schreiben/Teil 1/Subthemen/Bildungsgerechtigkeit.md",
-    "C1 Schreiben/Teil 1/Themen/000-C1-Schreiben-T1.md",
-    "C1 Schreiben/Cookbook/Ingredients/Connector-Phrases/Connector-Phrases-T1.md",
-    "Anhänge/ElevenLabs_2025-05-02T06_11_18_Otto_pvc_sp100_s50_sb45_se24_b_m2.mp3",
-    "Worter/UNTERWASSERABFÄLLEN",
-    "Worter/UNTERWASSERABFALLS",
-    "Worter/UNTERWASSER",
-    "Worter/MÜLL UNTER WASSER",
-    "Worter/ABFALL UNTER WASSER",
-    "Worter/EINSATZFÄHIGSTEM",
-    "Worter/EINSATZFÄHIGSTEN",
-    "Worter/EINSATZFÄHIGSTE",
-    "Worter/EINSATZFÄHIGSTES",
+    "C1 Schreiben/Cookbook/Format/Format-Teil-2-Komplaint.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/021-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/009-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/T2-Schreiben-Ubungen.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/005-C1-Schreiben-T2.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Lochtype/Lesen-Teil-1-Verb.md",
+    "C1 Schreiben/Cookbook/Kochbuch-Rezepte.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/001-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/002-C1-Schreiben-T2.md",
+    "Worter/A/Arbeit.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-1-001/C1-Lesen-1-001-Text.md",
+    "Worter/E/ebenso.md",
+    "Worter/Z/zuverlässig.md",
+    "Worter/Speichelproben.md",
+    "Worter/Speichelprobe.md",
+    "Worter/ERSCHNÜFFELTEN/erschnüffelten.md",
+    "Worter/E/Erschnüffeln.md",
+    "Worter/SPEICHELUNTERSUCHUNG/Speicheluntersuchung.md",
+    "Worter/SPEICHELUNTERSUCHUNG",
+    "Worter/I/insgesamt.md",
+    "Worter/R/Rahmen.md",
+    "Worter/S/Studie.md",
+    "Worter/einwöchiges.md",
+    "Worter/einwöchig.md",
+    "Worter/ABSOLVIERT/absolviert.md",
+    "Worter/absolvieren.md",
+    "Worter/EINWÖCHIGSTEM",
+    "Worter/EINWÖCHIGSTEN",
+    "Worter/EINWÖCHIGSTE",
+    "Worter/EINWÖCHIGSTES",
+    "Worter/EINWÖCHIGSTER",
+    "Worter/EINWÖCHIGEREM",
+    "Worter/EINWÖCHIGEREN",
+    "Worter/EINWÖCHIGERE",
+    "Worter/EINWÖCHIGERES",
     "Anhänge/Pasted Image 20250418092802_863.png",
     "Anhänge/Pasted Image 20250418073845_878.png",
     "Anhänge/Pasted Image 20250418071644_618.png",

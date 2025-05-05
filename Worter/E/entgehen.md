@@ -1,4 +1,4 @@
 , [[treffen]], [[verpassen]]
 , [[weichen]]
 , [[vermeiden]]
-, [[mitbekommt]], [[meiden]]
+, [[mitbekommt]], [[meiden]], [[erleiden]]

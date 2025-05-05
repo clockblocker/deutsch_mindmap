@@ -1,3 +1,5 @@
+[[T2-Schreiben-Ubungen]]
+
 #Schreiben/C1/T2 #Arbeit #Unzuverlässigkeit #Kommunikationsmangel
 #Organisation/Kommunikation #Life/Arbeitszeit #Mental/Wertschätzung
 
@@ -20,7 +22,7 @@ ich habe vollstes Verständnis dafür, wie wichtig Pünktlichkeit ist – insbes
 Leider ist meine Frau unerwartet krank geworden, und ich war gezwungen, sie in den Notfall zu bringen. Ich hätte Sie über meine mögliche Verspätung informieren müssen; dafür möchte ich mich entschuldigen. ^2
 
 
-Allerdings halte ich einen schriftlichen Hinweis in diesem Fall für [[unangemessen]]: ^5
+Allerdings halte ich einen schriftlichen Hinweis in diesem Fall für unangemessen: ^5
 
 
 Ich bin seit vielen Jahren Teil des Unternehmens und war in all den Jahren noch nie zu spät. ^3

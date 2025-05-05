@@ -1,6 +1,8 @@
 😩 [[erschweren]], [ɛɐ̯ˈʃveːrən](https://youglish.com/pronounce/erschweren/german) → [[erschwerte]] → [[erschwert]]
 
 ---
+[[Dennoch]] [[erschwert]] neue Bürosituation meine Arbeit [[erheblich]].
+
 *[[01-C1-Schreiben-T2-M#^11|^]]* Nennen Sie [[Tätigkeit]]en, die durch den neuen Platz [[erschwert]] werden ^11
 
 *[[03-C1-Schreiben-T2-M#^12|^]]* Dieser Tisch fehlt uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit. ^12

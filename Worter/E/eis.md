@@ -1,1 +1,1 @@
-, [[eisigen]], [[eiskaltem]], [[Eisgebilde]], [[Schmelzwasser]]
+, [[eisigen]], [[eiskaltem]], [[Eisgebilde]], [[Schmelzwasser]], [[Gefrierknall]]

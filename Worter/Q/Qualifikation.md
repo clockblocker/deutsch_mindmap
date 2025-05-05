@@ -1,1 +1,1 @@
-, [[geeignet]], [[Schulabschluss]], [[Weiterbildung]], [[Fachwissen]], [[Kompetenz]]
+, [[geeignet]], [[Schulabschluss]], [[Weiterbildung]], [[Fachwissen]], [[Kompetenz]], [[Zusatzqualifikation]]

@@ -6,6 +6,8 @@
 ---
 [[Kaum]] hat man ein Mädchen dabei, schon geht alles [[schief]]!
 
+Unser Großraumbüro ist für sieben Personen [[ausgelegt]], [[sodass]] für den neuen Kollegen [[kaum]] Arbeitsraum [[vorhanden]] ist. 
+
 *[[3. Schuldenpaket. Vergeigen es die Grünen?#^1|^]]* Ich kann es mir [[kaum]] mit [[ansehen]]. ^1
 
 *[[Einen Korb bekommen#^10|^]]* Doch in den letzten Wochen hat sie sich [[kaum]] [[gemeldet]]. ^10

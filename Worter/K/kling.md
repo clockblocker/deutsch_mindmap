@@ -1,1 +1,1 @@
-, [[klingen]], [[Klingelbeil]]
+, [[klingen]], [[Klingelbeil]], [[Abklingzeit]]

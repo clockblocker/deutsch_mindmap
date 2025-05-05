@@ -1,1 +1,1 @@
-, [[einstellen]], [[Softwareprogramm]]
+, [[einstellen]], [[Softwareprogramm]], [[Programm]]

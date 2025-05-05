@@ -14,7 +14,7 @@ die [[Arbeitsplätze]]
 workplace, workstation
 
 ---
-[[Worter/A/Arbeit]]|[[s]]|[[platz]]
+[[Arbeit]]|[[s]]|[[platz]]
 
 ---
 N: der [[Arbeitsplatz]], die [[Arbeitsplätze]]  
@@ -27,4 +27,4 @@ D: dem [[Arbeitsplatz]], den [[Arbeitsplätzen]]
 , [[Arbeitsauftrag]], [[Arbeitsstelle]], [[Arbeitsumfeld]]
 
 
-#Maskulin , [[Homeoffice]], [[Arbeitsform]], [[Büroraum]], [[Großraumbüro]], [[Bürosituation]], [[Open Space]]
+#Maskulin , [[Homeoffice]], [[Arbeitsform]], [[Büroraum]], [[Großraumbüro]], [[Bürosituation]], [[Open Space]], [[Arbeitsraum]]

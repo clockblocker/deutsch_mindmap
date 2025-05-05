@@ -7,6 +7,10 @@
 
 *[[1 lesen StadtTours#^10|^]]* Jede Stadt hat ihren ganz eigenen Charme. [[Entsprechend]] hat jedes StadtTours-Team überall einzigartige Programme für seine Besucherinnen und Besucher vorbereitet. ^10
 
+
+Der DPS-[[Anstieg]] pro Sekunde durch **Eisiger Tod** wird [[entsprechend]] einem [[Anteil]] von **Fokusrune** erhöht.
+
+
 ---
 = [[gemäß]], [[dementsprechend]], [[analog]], [[derselben]], [[gleich]],  [[ebenso]],
 ≈ [[passend]], [[angemessen]], [[korrekt]], [[adäquat]],  [[solche]], [[vereinbar]], [[jeweils]],  [[passend]]
@@ -30,4 +34,4 @@ P: [[entsprechenden]], [[entsprechenderen]], [[entsprechendsten]]
 
 ---
 [[entsprechen]], [[Worter/S/sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
-, [[jeweilig]], [[erwartungsgemäß]], [[zufolge]]
+, [[jeweilig]], [[erwartungsgemäß]], [[zufolge]], [[Anstieg]]

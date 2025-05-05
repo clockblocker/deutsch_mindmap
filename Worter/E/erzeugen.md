@@ -45,4 +45,4 @@ sie, [[erzeugen]], [[erzeugten]], [[erzeugen]], [[erzeugten]], [[erzeugen]]
 Adjektive: [[erzeugend]], [[erzeugender]], [[erzeugendst]]
 
 ---
-[[erzeugender]], [[erzeugendes]], [[erzeugende]], [[erzeugenden]], [[erzeugendem]], [[erzeugenderer]], [[erzeugenderes]], [[erzeugendere]], [[erzeugenderen]], [[erzeugenderem]], [[erzeugendster]], [[erzeugendstes]], [[erzeugendste]], [[erzeugendsten]], [[erzeugendstem]]
+[[erzeugender]], [[erzeugendes]], [[erzeugende]], [[erzeugenden]], [[erzeugendem]], [[erzeugenderer]], [[erzeugenderes]], [[erzeugendere]], [[erzeugenderen]], [[erzeugenderem]], [[erzeugendster]], [[erzeugendstes]], [[erzeugendste]], [[erzeugendsten]], [[erzeugendstem]], [[hervorrufen]]

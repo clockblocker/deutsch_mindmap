@@ -15,12 +15,12 @@ work environment
 рабочая среда
 
 ---
-[[Worter/A/Arbeit]], [[Umfeld]]
+[[Arbeit]], [[Umfeld]]
 , [[Arbeitswelt]], [[Arbeitsbedingungen]]
 
 
 ---
-[[Worter/A/Arbeit]]|`s`|[[umfeld]]
+[[Arbeit]]|`s`|[[umfeld]]
 [[Arbeitsumfeld]]
 
 

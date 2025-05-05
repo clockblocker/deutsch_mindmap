@@ -1,1 +1,1 @@
-, [[Angemessenheit]]
+, [[Angemessenheit]], [[Genauigkeit]], [[Präzision]]

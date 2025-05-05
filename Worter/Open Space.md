@@ -1,7 +1,7 @@
 🏢 🔵 der [[Open Space]], [ˈoːpn̩ ˈspeɪ̯s](https://youglish.com/pronounce/Open Space/german)
 
 ---
-Unser [[Open Space]] ist für sieben [[Person]]en gestaltet – 
+Unseres [[Großraumbüro]] ([[Open Space]]) ist für sieben [[Person]]en gestaltet – 
 
 ---
 = [[Großraumbüro]], [[offener Arbeitsbereich]]

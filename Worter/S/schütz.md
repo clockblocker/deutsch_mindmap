@@ -1,1 +1,1 @@
-, [[schützen]], [[beschützen]], [[Naturschützer]]
+, [[schützen]], [[beschützen]], [[Naturschützer]], [[schallgeschützt]]

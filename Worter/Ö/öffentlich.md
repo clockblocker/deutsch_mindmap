@@ -44,4 +44,4 @@ P: [[öffentlichen]], [[öffentlicheren]], [[öffentlichsten]]
 [[Öffentlichkeit]], [[veröffentlichen]], [[Öffentlichkeitsarbeit]], [[öffentlich-rechtlich]], [[veröffentlichen]]
 
 , [[heimlich]], [[kund]]
-, [[öffnen]], [[Geheim]], [[politisch]], [[Publikumsverkehr]], [[ÖPNV]]
+, [[öffnen]], [[Geheim]], [[politisch]], [[Publikumsverkehr]], [[ÖPNV]], [[intern]]

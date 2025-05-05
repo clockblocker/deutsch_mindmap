@@ -3,6 +3,9 @@
 haben/sein [[gesteckt]]
 
 ---
+*[[C1-Lesen-1-001-Text#^3|^]]* Schließlich [[steckt]] die [[schwarzhaarige]] Berner Sennenhündin ihre [[bernsteinbraune]], [[feuchte]] Nase ganz in das Loch. ^3
+
+
 Aber er ist etwas besonderes, das merke ich. Er [[steckt]] voller Weisheit, ich spüre es.
 
 „Die [[stecken]] alle unter einer [[Decke]]“, sagt sein Kollege. [[Unter einer Decke stecken]]

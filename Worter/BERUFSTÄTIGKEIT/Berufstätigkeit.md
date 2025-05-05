@@ -5,7 +5,7 @@ Berufstätigkeit
 , [[Erwerbstätigkeit]]
 
 ---
-= [[Erwerbstätigkeit]], [[Worter/A/Arbeit]]
+= [[Erwerbstätigkeit]], [[Arbeit]]
 ≈ [[Beschäftigung]], [[Job]]
 ≠ [[Arbeitslosigkeit]], [[Ruhestand]]
 

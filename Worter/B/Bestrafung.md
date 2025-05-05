@@ -1,1 +1,1 @@
-, [[bestrafen]], [[Vergebung]]
+, [[bestrafen]], [[Vergebung]], [[Belohnung]]

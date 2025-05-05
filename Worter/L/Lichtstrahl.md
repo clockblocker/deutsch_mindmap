@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lichtstrahls]], [[Lichtstrahl]], [[Lichtstrahle]], [[Lichtstrahlen]]
 
 ---
-#Substantiv #Neuter, [[s1 e1]], [[Lichtblitz]]
+#Substantiv #Neuter, [[s1 e1]], [[Lichtblitz]], [[Lichtsäule]]

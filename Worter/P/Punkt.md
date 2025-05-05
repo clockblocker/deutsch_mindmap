@@ -1,14 +1,17 @@
 ⚫ 🔵 der [[Punkt]], [pʊŋkt](https://youglish.com/pronounce/Punkt/german) | 📍 🔵 der [[Punkt]], [pʊŋkt]
 
 ---
-, [[Gebiet]]
-, [[Achse]]
-, [[pünktlich]], [[Fläche]], [[Brennpunkt]], [[Interpunktion]], [[Satzzeichen]], [[Mittelpunkt]], [[Inhaltspunkt]], [[Punktabzug]], [[Aspekt]]
+Ich schlage vor, dass wir uns morgen kurz [[zusammensetzen]], um die offenen [[Punkte]] zu [[klären]]. 
 
 ---
 = [[Stelle]], [[Markierung]], [[Merkmal]] | [[Moment]], [[Zeitpunkt]]
 ≈ [[Zeichen]], [[Notiz]], [[Hinweis]] | [[Augenblick]], [[Zeit]]
 ≠ [[Linie]], [[Fläche]] | [[Unendlichkeit]]
+
+, [[Gebiet]]
+, [[Achse]]
+, [[pünktlich]], [[Fläche]], [[Brennpunkt]], [[Interpunktion]], [[Satzzeichen]], [[Mittelpunkt]], [[Inhaltspunkt]], [[Punktabzug]], [[Aspekt]]
+
 
 ---
 point, dot  | point, item  
@@ -28,4 +31,4 @@ G: des [[Punktes]], der [[Punkte]]
 D: dem [[Punkt]], den [[Punkten]]
 
 
-#Maskulin 
+#Maskulin , [[Doppelpunkt]]

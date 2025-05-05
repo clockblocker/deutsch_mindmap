@@ -1,6 +1,8 @@
 🚚 [[Umzug]], [ˈʊmˌʦuːk](https://youglish.com/pronounce/Umzug/german)
 
 ---
+Ich habe vollstes Verständnis dafür, dass ein [[Umzug]] unter Zeitdruck nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann.
+
 *[[01-C1-Schreiben-T2-M#^1|^]]* Mit meinem Schreiben möchte ich auf das Thema Arbeitsbedingungen nach dem [[Umzug]] eingehen ^1
 
 

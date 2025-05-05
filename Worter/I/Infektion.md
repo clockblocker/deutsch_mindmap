@@ -1,1 +1,1 @@
-, [[Fieber]], [[Impfung]], [[Pandemie]]
+, [[Fieber]], [[Impfung]], [[Pandemie]], [[infizieren]]

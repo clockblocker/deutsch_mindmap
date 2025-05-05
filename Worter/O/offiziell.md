@@ -1,6 +1,9 @@
 🏛️ [[offiziell]], [ɔfiˈtsiːəl] ≠ [[inoffiziell]]
 
 ---
+Falls sich die Situation nicht ändert, würde ich mich leider [[veranlasst]] sehen, mich [[offiziell]] an die [[Hausverwaltung]] zu wenden. 
+
+
 183. Der 27. Januar ist in Deutschland ein [[offizieller]] Gedenktag. Woran erinnert dieser Tag? (74%)
 	- [x] an die [[Opfer]] des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)
 

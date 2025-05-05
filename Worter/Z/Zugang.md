@@ -36,4 +36,4 @@ G: des [[Zugangs]], der [[Zugänge]]
 D: dem [[Zugang]], den [[Zugängen]]
 , [[Stadtmauer]], [[verbot]], [[Zugriff]], [[Publikumsverkehr]], [[Hindernis]]
 
-#Maskulin , [[Internetzugang]], [[Zufahrt]], [[Zufahrt]]
+#Maskulin , [[Internetzugang]], [[Zufahrt]], [[Zufahrt]], [[Stromzugang]]

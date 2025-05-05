@@ -27,4 +27,4 @@ A: die [[Telefonzelle]], die [[Telefonzellen]]
 G: der [[Telefonzelle]], der [[Telefonzellen]]
 D: der [[Telefonzelle]], den [[Telefonzellen]]
 
-#Feminin 
+#Feminin , [[Telefonkabine]]

@@ -1,1 +1,1 @@
-, [[erreichbar]]
+, [[erreichbar]], [[virtuell]]

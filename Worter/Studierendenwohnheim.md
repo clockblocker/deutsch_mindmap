@@ -4,6 +4,9 @@
 *[[031-C1-Schreiben-T2#^1|^]]* Sie haben ein Zimmer in einem [[Studierendenwohnheim]] in Deutschland. ^1
 
 
+*[[100-C1-Schreiben-T2#^3|^]]* Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3
+
+
 *[[031-C1-Schreiben-T2#^4|^]]* Beschreiben Sie die Wichtigkeit des [[Studierendenwohnheims]] für die [[Studierenden]]. ^4
 
 

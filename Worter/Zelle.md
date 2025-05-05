@@ -23,4 +23,4 @@ G: der [[Zelle]], der [[Zellen]]
 D: der [[Zelle]], den [[Zellen]]  
 
 ---
-[[zellig]], [[Zellteilung]], [[Zellwand]], [[zellulärer]], [[Zellstruktur]], [[Telefonzelle]]
+[[zellig]], [[Zellteilung]], [[Zellwand]], [[zellulärer]], [[Zellstruktur]], [[Telefonzelle]], [[Telefonkabine]]

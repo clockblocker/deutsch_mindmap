@@ -1,4 +1,5 @@
----> [[Ingredient-Risiko-Schutz-Verben]] <---
+--->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+
 🛡️ [[schützen]] + Akk, [ˈʃʏtsən]
 [[schützte]]
 haben [[geschützt]]
@@ -34,4 +35,4 @@ Partizip I: [[schützend]], Partizip II: [[geschützt]], Zu infinitive: zu schü
 
 
 , [[angreifen]], [[retten]], [[verletzen]], [[wehrten]], [[verbrennen]], [[totschlagen]], [[rauben]], [[abdecken]], [[decken]]
-, [[quälen]], [[beschützen]], [[Schutz]], [[Mutterschutz]], [[antun]], [[wehren]], [[einbrechen]], [[watschen]], [[aussetzen]], [[fernhalten]], [[stechen]], [[überfordern]], [[vorbeugen]], [[Datenschutz]], [[schonen]], [[belästigen]], [[aufs Spiel setzen]]
+, [[quälen]], [[beschützen]], [[Schutz]], [[Mutterschutz]], [[antun]], [[wehren]], [[einbrechen]], [[watschen]], [[aussetzen]], [[fernhalten]], [[stechen]], [[überfordern]], [[vorbeugen]], [[Datenschutz]], [[schonen]], [[belästigen]], [[aufs Spiel setzen]], [[schallgeschützt]]

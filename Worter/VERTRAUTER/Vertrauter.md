@@ -1,1 +1,1 @@
-, [[Vertraulichkeit]]
+, [[Vertraulichkeit]], [[vertraulich]]

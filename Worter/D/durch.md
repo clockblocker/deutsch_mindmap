@@ -63,4 +63,4 @@ Synonyme:
 , [[Durchhaltevermögen]], [[durchtrennen]]
 
 [[läuft]] [[noch]] ein bisschen [[durch]] die Stadt
-, [[durchgängig]], [[durchführen]], [[durchsetzen]]
+, [[durchgängig]], [[durchführen]], [[durchsetzen]], [[DURCHDRINGUNG]]

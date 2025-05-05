@@ -1,3 +1,5 @@
+[[T2-Schreiben-Ubungen]]
+
 #Schreiben/C1/T2 #Arbeit #Störung
 #Physical/Lärm #Team/Ruhe
 
@@ -17,13 +19,10 @@ ich wende mich an Sie, um auf die Situation mit Ihrem Hund noch einmal einzugehe
 Ich habe vollstes Verständnis dafür, dass ein junger Hund kaum allein zu Hause bleiben kann und Sie sich daher gezwungen sehen, ihn mit ins Büro zu bringen. ^1
 
 
-Allerdings stellt sein ständiges Bellen ein großes Problem für unser Team dar: ^5
+Allerdings stellt sein ständiges Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und Kundengespräche erheblich, sondern beeinträchtigt auch die allgemeine Konzentration. ^2
 
 
-Es erschwert nicht nur Online-Meetings und Kundengespräche erheblich, sondern beeinträchtigt auch die allgemeine Konzentration. ^2
-
-
-Falls sich die Situation nicht ändert, sehe ich mich leider veranlasst, die Hausverwaltung einzuschalten. ^3
+Falls sich die Situation nicht ändert, würde ich mich leider veranlasst sehen, mich an die Hausverwaltung zu wenden. ^3
 
 
 Wenn Sie keine Möglichkeit haben, vorübergehend von zu Hause aus zu arbeiten, schlage ich vor, den Hund während der Arbeitszeit betreuen zu lassen. ^4
@@ -38,9 +37,25 @@ Denis Popov
 
 ![[004-C1-Schreiben-T2#^1|^]]
 
-![[004-C1-Schreiben-T2#^5|^]] 
 ![[004-C1-Schreiben-T2#^2|^]]
 
 ![[004-C1-Schreiben-T2#^3|^]]
 
 ![[004-C1-Schreiben-T2#^4|^]]
+
+---
+
+Sehr geehrter Herr Jung,
+
+Ich habe vollstes Verständnis dafür, dass ein junger Hund kaum allein zu Hause bleiben kann und Sie sich daher gezwungen sehen, ihn mit ins Büro zu bringen.
+
+Allerdings [[darstellen|stellt]] sein [[ständiges]] Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und [[Kundengespräche]] erheblich, sondern [[beeinträchtigt]] auch die [[allgemeine]] Konzentration. 
+
+Falls sich die Situation nicht ändert, würde ich mich leider [[veranlasst]] sehen, mich [[offiziell]] an die [[Hausverwaltung]] zu wenden. 
+
+Wenn Sie keine Möglichkeit haben, [[vorübergehend]] von zu Hause aus zu arbeiten, schlage ich vor, den Hund [[während]] der Arbeitszeit [[betreuen]] zu lassen. 
+
+Ich danke Ihnen im Voraus für Ihr Verständnis.
+
+Mit freundlichen Grüßen  
+Denis Popov

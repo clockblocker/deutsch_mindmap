@@ -32,4 +32,4 @@ Related words:
 
 , [[außerhalb]]
 , [[zusammenschrumpfen]]
-, [[innerlich]]
+, [[innerlich]], [[intern]]

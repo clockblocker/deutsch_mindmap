@@ -32,4 +32,4 @@ Zu+infinifive: [[einzudringen]]
 [[Eindringen]], [[Eindringling]], [[Eindringversuch]], [[Eindringtiefe]], [[Eindringvorgang]]
 
 , [[angreifen]], [[dringen]], [[eintreten]], [[Faden]]
-, [[einschleichen]], [[dringend]]
+, [[einschleichen]], [[dringend]], [[DURCHDRINGUNG]]

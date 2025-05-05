@@ -31,4 +31,4 @@ Morpheme: [[ent]][[deck]][[en]]
 
 Partizip I: [[entdeckend]], Partizip II: [[entdeckt]]
 
-[[entdecken]] - [[ent]] = [[decken]], [[ausmachen]], [[erfinden]], [[erfahren]], [[herausfinden]], [[Erkunden]]
+[[entdecken]] - [[ent]] = [[decken]], [[ausmachen]], [[erfinden]], [[erfahren]], [[herausfinden]], [[Erkunden]], [[bergen]], [[Erschnüffeln]]

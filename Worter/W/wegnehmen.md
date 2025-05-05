@@ -1,2 +1,2 @@
 [[setzen]], [[hinstellen]], [[schenken]], [[nachbringen]], [[hinbringen]], [[ausnehmen]], [[entfernen]], [[hinzufügen]]
-, [[abziehen]], [[einbringen]], [[abstellen]]
+, [[abziehen]], [[einbringen]], [[abstellen]], [[zufügen]]

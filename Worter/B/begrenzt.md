@@ -5,6 +5,9 @@
 nicht [[unbegrenzt]]
 
 ---
+Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]. ^5
+
+
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
 	- [ ] damit [[Bestechung]] in der Politik [[begrenzt]] wird

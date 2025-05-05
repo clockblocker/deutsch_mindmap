@@ -29,4 +29,4 @@ Partizip I: [[lautend]],
 Partizip II: [[gelautet]]
 
 ---
-[[Lautung]], [[Wortlaut]], [[Verlautbarung]], [[Lautungsmerkmal]]
+[[Lautung]], [[Wortlaut]], [[Verlautbarung]], [[Lautungsmerkmal]], [[schallgeschützt]]

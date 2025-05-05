@@ -1,1 +1,1 @@
-, [[Wettbewerb]], [[Beherrschung]]
+, [[Wettbewerb]], [[Beherrschung]], [[meistern]]

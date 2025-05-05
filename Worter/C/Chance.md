@@ -4,6 +4,7 @@ die [[Chancen]]
 ---
 [[0 checklist#^6|(q)]] Eine gut [[bestückte]] [[Bewerbungsmappe]] [[erhöht]] die [[Chancen]], auf dem heiß [[umkämpften]] Wohnungsmarkt deine Traumwohnung zu finden. ^6
 
+
 ---
 = [[Gelegenheit]], [[Möglichkeit]], [[Option]],  [[Möglichkeit]], [[Risiko]]
 ≈ [[Glück]], [[Vorteil]], [[Aussicht]], [[Aussicht]],
@@ -25,3 +26,5 @@ D: der [[Chance]], den [[Chancen]]
 ---
 [[chancenreich]], [[chancenlos]]
 , [[Bildungschance]]
+
+#Feminin , [[absolvieren]]

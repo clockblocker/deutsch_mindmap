@@ -1,6 +1,6 @@
 ---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 ---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
----> [[Ingredient-Risiko-Schutz-Verben]] <---
+--->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
 ---> [[Ingredient-Result-Verb]] <---
 
 ⛔ [[verhindern]], [fɛɐ̯ˈhɪndɐn](https://youglish.com/pronounce/verhindern/german) → [[verhinderte]] → [[verhindert]]
@@ -56,4 +56,4 @@ sie, [[verhindern]], [[verhinderten]], [[verhindern]], [[verhinderten]], [[verhi
 Adjektive: [[verhindernd]], [[verhindernder]], [[verhinderndst]]
 
 ---
-[[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]], [[durchsetzen]]
+[[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]], [[durchsetzen]], [[auslösen]], [[hervorrufen]]

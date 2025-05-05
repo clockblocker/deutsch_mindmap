@@ -14,10 +14,10 @@ elaboration, working out, draft
 разработка, проработка, черновик
 
 ---
-[[ausarbeiten]], [[ausgearbeitet]], [[Worter/A/Arbeit]], [[arbeiten]], [[bearbeiten]]
+[[ausarbeiten]], [[ausgearbeitet]], [[Arbeit]], [[arbeiten]], [[bearbeiten]]
 
 ---
-[[aus]]|[[Worter/A/Arbeit]]|[[ung]]
+[[aus]]|[[Arbeit]]|[[ung]]
 [[Ausarbeitung]]
 
 

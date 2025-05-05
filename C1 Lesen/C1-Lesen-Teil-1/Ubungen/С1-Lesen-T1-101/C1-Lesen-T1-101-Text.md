@@ -16,18 +16,6 @@ Das Forscherteam beschränkte sich nicht auf genetische Analysen, sondern unters
 ### Lesen Teil 1
 #### Modelltest 2
 
-**Beispiel:**
-0 ☑ a. beim ☐ b. nachdem ☐ c. während ☐ d. wegen
-
-1 ☐ a. haben ☐ b. hatten ☐ c. müssten ☐ d. waren
-2 ☐ a. Für die Dauer ☐ b. Im Laufe der Zeit ☐ c. In deren Verlauf ☐ d. Solange
-3 ☐ a. deren ☐ b. die ☐ c. was ☐ d. wo
-4 ☐ a. Gemisch ☐ b. Mischung ☐ c. Vermengen ☐ d. Vielfalt
-5 ☐ a. dafür ☐ b. damit ☐ c. daraus ☐ d. davon
-6 ☐ a. hat ☐ b. kann ☐ c. war ☐ d. wird
-7 ☐ a. erweiterte ☐ b. verbreitete ☐ c. vergrößerte ☐ d. verteilte
-8 ☐ a. Ergebnis ☐ b. Erlös ☐ c. Ernte ☐ d. Ertrag
-
 ###### Antwortoptionen:
  1) [[Lesen-Teil-1-Verb-Plusquamperfekt]]
     a) haben 
@@ -69,3 +57,9 @@ Das Forscherteam beschränkte sich nicht auf genetische Analysen, sondern unters
     b) Erlös 
     c) Ernte 
     d) Ertrag
+
+
+
+101: 
+1-a, 2-b, 3-c...
+

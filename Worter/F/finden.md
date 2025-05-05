@@ -39,4 +39,4 @@ Partizip I: [[findend]], Partizip II: [[gefunden]]
 
 
 [[verlieren]], [[suchen]], [[entdeckten]]
-, [[erfinden]], [[befinden]], [[s1 e1]], [[Diebstahl]], [[stattfinden]], [[gelangen]], [[herausfinden]]
+, [[erfinden]], [[befinden]], [[s1 e1]], [[Diebstahl]], [[stattfinden]], [[gelangen]], [[herausfinden]], [[bergen]], [[Erschnüffeln]]

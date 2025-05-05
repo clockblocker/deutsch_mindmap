@@ -7,6 +7,12 @@ nicht [[vorübergehend]]
 [[Eine Extrawurst bekommen.md#^4|(q)]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
 
 
+Als Projektmanager [[teilnehmen|nehme]] ich [[ständig]] an [[virtuell]]en [[Meeting]]s mit [[extern]]en [[Partner]]n teil. 
+
+
+Allerdings [[darstellen|stellt]] sein [[ständiges]] Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und [[Kundengespräche]] erheblich, sondern [[beeinträchtigt]] auch die [[allgemeine]] Konzentration. 
+
+
 - Nennen Sie ein Beispiel, wie der [[ständig]]e Nachrichtenstrom die [[Meinungsbildung]] [[erschwert]].  
 
 Statt zu arbeiten, [[erholt]] er sich [[ständig]] 

@@ -1,1 +1,1 @@
-, [[bestrafen]]
+, [[bestrafen]], [[Belohnung]]

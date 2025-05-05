@@ -1,2 +1,2 @@
 📍 [[legen]]  
-, [[auflegen]]
+, [[auflegen]], [[auslegen]]

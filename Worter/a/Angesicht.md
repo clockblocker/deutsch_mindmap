@@ -21,7 +21,7 @@ Morpheme:
 [[an]][[Gesicht]]
 
 ---
-Einzigartige mögliche Formen: [[Angesichts]], [[Angesichte]], [[Angesichtern]]
+Einzigartige mögliche Formen: [[angesichts]], [[Angesichte]], [[Angesichtern]]
 
 ---
 #Substantiv #Neuter

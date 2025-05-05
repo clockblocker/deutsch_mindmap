@@ -1,6 +1,9 @@
 ➕ [[einbringen]], [ˈaɪ̯nˌbʁɪŋən] | [[brachte ein]], haben [[eingebracht]]
 
 ---
+neue [[Netzwerk]]e [[einbringen]] 
+
+
 *[[3 Soll man Geld spenden?#^6|^]]* Wenn man jedoch die Frage stellt, ob es für einen Menschen *nützlich* ist, sich in [[wohltätige]] Aktivitäten [[einzubringen]], ist [[festzustellen]], dass der Mensch mit der Entwicklung des Internets jede Gruppe nach seinen Interessen finden kann. ^6
 
 ---

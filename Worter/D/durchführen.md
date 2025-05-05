@@ -46,4 +46,4 @@ sie, [[führen durch]], [[führten durch]], [[führen durch]], [[führten durch]
 Adjektive: [[durchführend]], [[durchführender]], [[durchführendst]]
 
 ---
-[[durchführender]], [[durchführendes]], [[durchführende]], [[durchführenden]], [[durchführendem]], [[durchführenderer]], [[durchführenderes]], [[durchführendere]], [[durchführenderen]], [[durchführenderem]], [[durchführendster]], [[durchführendstes]], [[durchführendste]], [[durchführendsten]], [[durchführendstem]], [[durchsetzen]]
+[[durchführender]], [[durchführendes]], [[durchführende]], [[durchführenden]], [[durchführendem]], [[durchführenderer]], [[durchführenderes]], [[durchführendere]], [[durchführenderen]], [[durchführenderem]], [[durchführendster]], [[durchführendstes]], [[durchführendste]], [[durchführendsten]], [[durchführendstem]], [[durchsetzen]], [[absolvieren]]

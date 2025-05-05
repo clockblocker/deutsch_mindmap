@@ -37,4 +37,4 @@ appropriate, adequate
 Adjektive: [[angemessen]], [[angemessener]], [[angemessenst]]
 
 ---
-[[angemessener]], [[angemessenes]], [[angemessene]], [[angemessenen]], [[angemessenem]], [[angemessenerer]], [[angemesseneres]], [[angemessenere]], [[angemesseneren]], [[angemessenerem]], [[angemessenster]], [[angemessenstes]], [[angemessenste]], [[angemessensten]], [[angemessenstem]], [[günstig]]
+[[angemessener]], [[angemessenes]], [[angemessene]], [[angemessenen]], [[angemessenem]], [[angemessenerer]], [[angemesseneres]], [[angemessenere]], [[angemesseneren]], [[angemessenerem]], [[angemessenster]], [[angemessenstes]], [[angemessenste]], [[angemessensten]], [[angemessenstem]], [[günstig]], [[wünschenswert]]

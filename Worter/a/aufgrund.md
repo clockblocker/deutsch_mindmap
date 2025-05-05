@@ -19,4 +19,4 @@ due to, because of
 
 ---
 [[Grund]], [[begründen]], [[gründlich]], [[Grundlage]], [[grundsätzlich]]
-, [[dank]], [[Konnektivpartikeln]]
+, [[dank]], [[Konnektivpartikeln]], [[angesichts]]

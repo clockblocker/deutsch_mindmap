@@ -5,6 +5,8 @@
 ---
 Du musst nicht noch einkaufen gehen, ich habe es [[bereits]] [[erledigt]].
 
+Allerdings [[anstehen|steht]] die [[Vorstellung]] des Projekts [[bereits]] nächste Woche an.
+
 „[[Zukünftig]]“ bezieht sich auf etwas, das erst in der Zukunft passieren wird. Die Bedrohung durch Plastikmüll ist [[bereits]] real.
 
 *[[01-C1-Schreiben-T2-M#^7|^]]* Für einen [[Zusammenbau]] braucht man keine [[Bauarbeiter]], die [[Leistungen]] sind im Preis für leichte [[Modulwände]] [[bereits]] [[enthalten]]. ^7

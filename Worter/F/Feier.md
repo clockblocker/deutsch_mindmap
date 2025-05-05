@@ -9,7 +9,7 @@ der [[Feiertag]]
 ---
 = [[Fest]], [[Festlichkeit]], [[Zeremonie]]
 ≈ [[Party]], [[Empfang]], [[Veranstaltung]], [[Festakt]]
-≠ [[Worter/A/Arbeit]], [[Alltag]], [[Routine]], [[Langeweile]]
+≠ [[Arbeit]], [[Alltag]], [[Routine]], [[Langeweile]]
 
 ---
 celebration, party

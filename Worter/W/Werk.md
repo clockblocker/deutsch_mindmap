@@ -21,5 +21,5 @@ Einzigartige mögliche Formen: [[Werkes]], [[Werke]], [[Werken]]
 
 ---
 #Substantiv #Neuter
-, [[schaffen]], [[Werkzeug]], [[Worter/A/Arbeit]]
+, [[schaffen]], [[Werkzeug]], [[Arbeit]]
 , [[Werksgelände]], [[Geschichtsbuch]], [[Kohlekraftwerk]], [[Tat]], [[Leistung]], [[Studierendenwerk]]

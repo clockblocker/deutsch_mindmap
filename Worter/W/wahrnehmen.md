@@ -49,4 +49,4 @@ sie, [[nehmen wahr]], [[nahmen wahr]], [[nehmen wahr]], [[nähmen wahr]], [[nehm
 Adjektive: [[wahrnehmend]], [[wahrnehmender]], [[wahrnehmendst]]
 
 ---
-[[wahrnehmender]], [[wahrnehmendes]], [[wahrnehmende]], [[wahrnehmenden]], [[wahrnehmendem]], [[wahrnehmenderer]], [[wahrnehmenderes]], [[wahrnehmendere]], [[wahrnehmenderen]], [[wahrnehmenderem]], [[wahrnehmendster]], [[wahrnehmendstes]], [[wahrnehmendste]], [[wahrnehmendsten]], [[wahrnehmendstem]]
+[[wahrnehmender]], [[wahrnehmendes]], [[wahrnehmende]], [[wahrnehmenden]], [[wahrnehmendem]], [[wahrnehmenderer]], [[wahrnehmenderes]], [[wahrnehmendere]], [[wahrnehmenderen]], [[wahrnehmenderem]], [[wahrnehmendster]], [[wahrnehmendstes]], [[wahrnehmendste]], [[wahrnehmendsten]], [[wahrnehmendstem]], [[schnuppern]]

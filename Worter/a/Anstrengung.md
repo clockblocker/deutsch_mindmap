@@ -4,6 +4,10 @@ die [[Anstrengungen]]
 ---
 [[2 ADHD.md#^5|(q)]] Ich gehe Aufgaben, die [[geistige]] [[Anstrengung]] [[erforderlich]] machen, am liebsten aus dem Weg. ^5
 
+
+Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
+
+
 ---
 = [[Bemühung]], [[Kraftanstrengung]], [[Mühe]],  [[anstrengen]]
 ≈ [[Einsatz]], [[Leistung]], [[Fleiß]], [[Engagement]], [[Bewerb]], [[Versuch]]
@@ -25,3 +29,5 @@ D: der [[Anstrengung]], den [[Anstrengungen]]
 ---
 [[anstrengen]], [[streng]], [[anstrengend]], [[Anstrengungsbereitschaft]], [[Anstrengungsgrad]]
 , [[bestreben]], [[Belastung]], [[Aufwand]]
+
+#Feminin 

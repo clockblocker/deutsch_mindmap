@@ -1,1 +1,1 @@
-[[verstehen]], [[aufspießen]], [[dringen]], [[bohren]]
+[[verstehen]], [[aufspießen]], [[dringen]], [[bohren]], [[DURCHDRINGUNG]]

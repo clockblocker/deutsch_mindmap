@@ -10,7 +10,7 @@ die [[Urlaube]]
 ---
 = [[Ferien]], [[Worter/F/Freizeit]], [[Erholungsurlaub]]
 ≈ [[Auszeit]], [[Erholung]], [[Pause]], [[Frei]] [[Ausflug]]
-≠ [[Worter/A/Arbeit]], [[Dienst]], [[Pflicht]], [[Alltag]]
+≠ [[Arbeit]], [[Dienst]], [[Pflicht]], [[Alltag]]
 
 ---
 vacation, holiday
@@ -34,4 +34,4 @@ D: dem [[Urlaub]], den [[Urlauben]]
 , [[Bindungsurlaub]], [[Reise]], [[Abwesenheit]], [[Arbeitsform]]
 
 
-#Maskulin , [[Bürosituation]], [[Urlaubstag]], [[Dienstreise]]
+#Maskulin , [[Bürosituation]], [[Urlaubstag]], [[Dienstreise]], [[Bildungsfreistellung]], [[Bildungsurlaub]]

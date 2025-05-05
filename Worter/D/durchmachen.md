@@ -27,4 +27,4 @@ PI: [[durchmachend]], PII: [[durchgemacht]], Zu+inf: [[durchzumachen]]
 [[durchmachen]] - [[durch]] = [[machen]] / to experience, to endure, to go through, to suffer
 
 ---
-[[Durchmachen]], [[Durststrecker]], [[Durchreisende]], [[spontanen]]
+[[Durchmachen]], [[Durststrecker]], [[Durchreisende]], [[spontanen]], [[erleiden]]

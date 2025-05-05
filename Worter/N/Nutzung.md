@@ -29,3 +29,4 @@ Einzigartige mögliche Formen: [[Nutzung]], [[Nutzungen]]
 
 , [[nutzlos]], [[Nutzungsdaten]], [[Handhabung]], [[Bedienung]]
 
+, [[Auslastung]]

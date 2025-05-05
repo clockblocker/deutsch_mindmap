@@ -7,7 +7,7 @@ die [[Spaziergänge]]
 ---
 = [[Gang]], [[Wanderung]], [[Ausflug]]
 ≈ [[Erholung]], [[Worter/F/Freizeit]], [[Bewegung]], [[Entspannung]], [[Gassi]], [[Wanderung]]
-≠ [[Worter/A/Arbeit]], [[Stress]], [[Eile]]
+≠ [[Arbeit]], [[Stress]], [[Eile]]
 
 ---
 walk, stroll

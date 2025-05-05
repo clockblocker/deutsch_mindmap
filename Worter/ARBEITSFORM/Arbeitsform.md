@@ -14,11 +14,11 @@ form of work, working method
 форма работы
 
 ---
-[[Worter/A/Arbeit]], [[formen]], [[Arbeitsplatz]], [[Arbeitszeit]]
+[[Arbeit]], [[formen]], [[Arbeitsplatz]], [[Arbeitszeit]]
 , [[Arbeitsmodell]]
 
 ---
-[[Worter/A/Arbeit]]|`s`|[[form]]
+[[Arbeit]]|`s`|[[form]]
 [[Arbeitsform]]
 
 

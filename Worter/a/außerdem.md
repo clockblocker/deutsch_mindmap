@@ -3,6 +3,9 @@
 ---
 [[Außerdem]] kombinieren wir Wörter wie _gehen_ mit Wörtern wie _an_ oder _nach_ (_angehen_, _nachgehen_).
 
+*[[TD#^5|^]]* Jede Tötung durch einen **Frost Tower** hat die Chance, eine [[mächtige]] Nova [[auszulösen]], die [[außerdem]] eine 3-fache Chance hat, eine **[[Gefrierknall]]** [[auszulösen]]. ^5
+
+
 А девушка ещё и очень умная при этом.  Und das Mädchen ist [[außerdem]] sehr intelligent.
 
 Er müsste etwa in ihrem [[Alter]] sein. [[Außerdem]] Herr aller Elemente!

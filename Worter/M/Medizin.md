@@ -1,1 +1,1 @@
-, [[Arzenei]], [[Symptombehandlung]]
+, [[Arzenei]], [[Symptombehandlung]], [[medizinisch]]

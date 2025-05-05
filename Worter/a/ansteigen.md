@@ -1,2 +1,2 @@
 ---> [[Ingredient-Verb-Wachstum-Steigerung]] <---
-, [[zunehmen]], [[absinken]]
+, [[zunehmen]], [[absinken]], [[Anstieg]]

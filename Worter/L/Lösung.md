@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lösung]], [[Lösung]], [[Lösungen]], [[Lösungen]]
 
 ---
-#Substantiv #Feminin, [[Möglichkeit]], [[lösen]], [[Hürde]], [[Befreiung]], [[Texte/Misc/Anki]], [[Musterlösung]], [[Aufgabenstellung]], [[Lösungsansatz]], [[Kompromissvorschlag]], [[Lösungsvorschlag]], [[Übergangslösung]]
+#Substantiv #Feminin, [[Möglichkeit]], [[lösen]], [[Hürde]], [[Befreiung]], [[Texte/Misc/Anki]], [[Musterlösung]], [[Aufgabenstellung]], [[Lösungsansatz]], [[Kompromissvorschlag]], [[Lösungsvorschlag]], [[Übergangslösung]], [[auslösen]]

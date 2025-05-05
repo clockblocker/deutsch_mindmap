@@ -23,5 +23,5 @@ G: des [[Arbeitsauftrages]], der [[Arbeitsaufträge]]
 D: dem [[Arbeitsauftrag]], den [[Arbeitsaufträgen]]
 
 ---
-[[Worter/A/Arbeit]], [[Auftrag]], [[beauftragen]], [[Arbeitsplatz]], [[Arbeitszeit]], [[Arbeitsweg]]
+[[Arbeit]], [[Auftrag]], [[beauftragen]], [[Arbeitsplatz]], [[Arbeitszeit]], [[Arbeitsweg]]
 , [[Arbeitsform]]

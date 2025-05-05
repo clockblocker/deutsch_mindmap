@@ -33,4 +33,4 @@ G: des [[Aufstiegs]], der [[Aufstiege]]
 D: dem [[Aufstieg]], den [[Aufstiegen]]
 
 
-#Maskulin 
+#Maskulin , [[Aufstiegsfortbildung]]

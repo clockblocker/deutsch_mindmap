@@ -1,5 +1,7 @@
 [[0 Grad]]
 ---> 💥 [[Grad-Intensität]] <---
+
+die [[geringe]] [[Anzahl]] der Arbeitsplätze
 #### 🟢 [[stark]] 
 1) ❤️ [[erheblich]] *(significant; with consequences)*
 	- Dennoch wirkt sich die neue Bürosituation [[erheblich]] auf meine Arbeit aus. [[002-C1-Schreiben-T2#^3|^]]

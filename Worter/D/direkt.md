@@ -37,4 +37,4 @@ direct, straight
 Adjektive: [[direkt]], [[direkter]], [[direktest]]
 
 ---
-[[direkter]], [[direktes]], [[direkte]], [[direkten]], [[direktem]], [[direkterer]], [[direkteres]], [[direktere]], [[direkteren]], [[direkterem]], [[direktester]], [[direktestes]], [[direkteste]], [[direktesten]], [[direktestem]]
+[[direkter]], [[direktes]], [[direkte]], [[direkten]], [[direktem]], [[direkterer]], [[direkteres]], [[direktere]], [[direkteren]], [[direkterem]], [[direktester]], [[direktestes]], [[direkteste]], [[direktesten]], [[direktestem]], [[offen]]

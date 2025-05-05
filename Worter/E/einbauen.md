@@ -5,6 +5,11 @@ haben [[eingebaut]]
 ---
 Wo waren wir… also … die [[Metallteile]] [[einbauen]] …  
 
+*[[100-C1-Schreiben-T2#^5|^]]* Wenn keine [[zusätzliche]] Steckdosen momentan [[eingebaut]] werden können, schlage ich vor, die Nutzung von Powerbanks bis zum Ende der Umbauarbeiten zu [[erlauben]]. ^5
+
+
+Wenn in dem neuen Raum kein separates Büro angeboten werden kann, schlage ich vor, einige schallgeschützte Telefonkabinen [[einzubauen]]. ^6
+
 
 ---
 Synonyme: [[integrieren]], [[installieren]], [[montieren]], [[zusammensetzen]], [[anbringen]], [[einfügen]]

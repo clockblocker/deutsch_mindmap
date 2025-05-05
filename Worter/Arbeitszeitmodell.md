@@ -17,7 +17,7 @@ working time model
 [[Arbeitszeit]], [[Modell]], [[arbeiten]]
 
 ---
-[[Worter/A/Arbeit]]|`s`|[[zeit]]|[[modell]]
+[[Arbeit]]|`s`|[[zeit]]|[[modell]]
 [[Arbeitszeit]] + [[Modell]]
 
 

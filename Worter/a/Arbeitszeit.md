@@ -15,10 +15,10 @@ working hours, working time
 рабочее время
 
 ---
-[[arbeiten]], [[Worter/A/Arbeit]], [[Arbeiter]], [[arbeitsfähig]], [[Arbeitsvertrag]], [[Arbeitsplatz]]
+[[arbeiten]], [[Arbeit]], [[Arbeiter]], [[arbeitsfähig]], [[Arbeitsvertrag]], [[Arbeitsplatz]]
 
 ---
-[[Worter/A/Arbeit]]|`s`|[[zeit]]
+[[Arbeit]]|`s`|[[zeit]]
 [[Arbeitszeit]]
 
 

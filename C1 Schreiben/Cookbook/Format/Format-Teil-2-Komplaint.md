@@ -4,7 +4,7 @@
 ---
 ---
 
-[[C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Kopf]]
+[[Section-Teil-2-Kopf]]
 
 ---
 [[Section-Teil-2-Verständnis]]
@@ -18,6 +18,7 @@
 ---
 [[Section-Teil-2-Akzeptable-Bedunungen]]
 [[Section-Teil-2-Konsequenzen-des-Problemes]]
+[[Section-Teil-2-Gut-fur-Firma]]
 
 ---
 [[Section-Teil-2-Vorschlag]]

@@ -1,3 +1,3 @@
 ---> [[Ingredient-Result-Verb]] <---
 
-, [[schaden]], [[verletzen]], [[Schädliches]], [[stärken]]
+, [[schaden]], [[verletzen]], [[Schädliches]], [[stärken]], [[gefährden]]

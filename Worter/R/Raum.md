@@ -2,6 +2,9 @@ der [[Raum]], [ʁaʊ̯m]
 die [[Räume]]
 
 ---
+Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]. ^5
+
+
 *[[03-C1-Schreiben-T2-M#^6|^]]* * Beschreiben Sie das [[Platzproblem]], das sich durch den neuen Arbeitsplatz des Kollegen im [[Raum]] [[ergeben]] hat. ^6
 
 
@@ -25,4 +28,4 @@ Einzigartige mögliche Formen: [[Raumes]], [[Raum]], [[Räume]], [[Räumen]]
 ---
 #Maskulin  , [[Entfernung]], [[Zelle]], [[Flur]], [[Halle]], [[Fläche]], [[Gymnastikraum]], [[Pausenraum]], [[Büroraum]], [[Räumlichkeit]], [[Großraumbüro]], [[Raummitte]]
 
-, [[Telefonzelle]], [[Open Space]], [[Raumaufteilung]], [[Besprechungsraum]]
+, [[Telefonzelle]], [[Open Space]], [[Raumaufteilung]], [[Besprechungsraum]], [[Arbeitsraum]]

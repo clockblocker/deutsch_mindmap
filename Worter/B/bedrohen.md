@@ -1,1 +1,2 @@
-, [[erpressen]], [[schützen]], [[beschützen]], [[verteidigen]], [[Bedrohung]]
+---> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+

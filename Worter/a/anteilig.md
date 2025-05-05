@@ -1,1 +1,1 @@
-, [[Mindestanteil]]
+, [[Mindestanteil]], [[Anteil]]

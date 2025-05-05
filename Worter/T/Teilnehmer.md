@@ -1,1 +1,1 @@
-, [[Mitglied]], [[Bewerber]]
+, [[Mitglied]], [[Bewerber]], [[teilnehmen]]

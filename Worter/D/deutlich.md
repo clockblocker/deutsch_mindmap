@@ -6,6 +6,9 @@ nicht [[undeutlich]]
 ---
 Ich kann dich nicht verstehen, bitte sprich [[deutlich]].
 
+Allerdings ist es durch den neuen Arbeitsplatz im Büro [[deutlich]] [[eng]]er geworden. ^6
+
+
 [[2 Unter Druck nach oben#^4|(q)]] Bei der Analyse des Aufstiegs einiger deutscher Topmanager wird [[deutlich]], dass der Weg nach oben sehr [[unterschiedlich]] aussehen kann. ^4
 
 

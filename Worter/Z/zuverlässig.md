@@ -6,6 +6,11 @@ nicht [[unzuverlässig]]
 
 ---
 
+*[[C1-Lesen-1-001-Text#^6|^]]* Man hatte sie nicht nur mit [[Speichelproben]] trainiert, aber sie [[erschnüffelten]] Corona [[ebenso]] [[zuverlässig]] in Urin- und Schweißproben. ^6
+
+
+---
+
 Synonyme:
 - [[vertrauenswürdig]], [[verlässlich]], [[sicher]]
 

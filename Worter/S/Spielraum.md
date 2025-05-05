@@ -1,2 +1,2 @@
 
-, [[Gelegenheit]]
+, [[Gelegenheit]], [[Reichweite]]

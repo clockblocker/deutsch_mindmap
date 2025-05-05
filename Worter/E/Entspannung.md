@@ -1,4 +1,4 @@
-[[Ruhe]], [[durchatmen]], [[Worter/A/Arbeit]]
+[[Ruhe]], [[durchatmen]], [[Arbeit]]
 , [[Wutanfall]]
 , [[Termindruck]]
 , [[Anstrengung]], [[Muskelkater]], [[Zeitdruck]], [[Spaziergang]], [[Arbeitsdruck]], [[Überforderung]], [[Stressabbau]], [[Burnout]], [[Stressreduktion]], [[Erholung]]

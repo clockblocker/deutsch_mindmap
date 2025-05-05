@@ -7,6 +7,8 @@ die [[Verzögerungen]]
 *[[02-C1-Schreiben-T2-M#^3|^]]* * Eröffnen Sie Ihr Schreiben höflich, indem Sie [[Verständnis]] für die [[Verzögerung]] [[zeigen]]. ^3
 
 
+Ich habe vollstes Verständnis dafür, dass es [[angesichts]] des Arbeits- und [[Zeitdruck]]s zu [[Verzögerung]]en kommen kann. 
+
 Ich bringe vollstes Verständnis dafür,* 
 dass es angesichts des Arbeits- und Zeitdrucks 
 zu [[Verzögerungen]] kommen kann. 

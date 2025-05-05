@@ -1,3 +1,3 @@
 Der Dezember ist der [[Monat]] des [[Winter]]s
 
-#Substantiv #Maskulin  
+#Substantiv #Maskulin  , [[Jahresende]]

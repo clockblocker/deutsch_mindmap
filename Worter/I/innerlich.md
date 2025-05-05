@@ -30,3 +30,4 @@ P: [[innerlichen]], [[innerlicheren]], [[innerlichsten]]
 
 ---
 [[Inneres]], [[innerhalb]], [[innern]], [[innerhalb]]
+, [[intern]], [[extern]]

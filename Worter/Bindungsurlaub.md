@@ -6,7 +6,7 @@ die [[Bindungsurlaube]]
 ---
 = [[Elternzeit]], [[Babypause]]
 ≈ [[Mutterschutz]], [[Vaterschaftsurlaub]], [[Erziehungsurlaub]]
-≠ [[Worter/A/Arbeit]], [[Beruf]], [[Dienst]]
+≠ [[Arbeit]], [[Beruf]], [[Dienst]]
 
 ---
 parental leave

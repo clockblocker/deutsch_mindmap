@@ -22,4 +22,4 @@ G: der [[Erlernung]], der [[Erlernungen]]
 D: der [[Erlernung]], den [[Erlernungen]]  
 
 ---
-[[erlernen]], [[Lernprozess]], [[Lernergebnis]], [[Lernziel]], [[Lernen]]
+[[erlernen]], [[Lernprozess]], [[Lernergebnis]], [[Lernziel]], [[Lernen]], [[Zusatzqualifikation]], [[Aufstiegsfortbildung]]

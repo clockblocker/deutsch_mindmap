@@ -15,11 +15,11 @@ work step
 рабочий шаг
 
 ---
-[[Worter/A/Arbeit]], [[Schritt]]
+[[Arbeit]], [[Schritt]]
 
 ---
-[[Worter/A/Arbeit]]|`s`|[[schritt]]
-[[Worter/A/Arbeit]] + [[Schritt]]
+[[Arbeit]]|`s`|[[schritt]]
+[[Arbeit]] + [[Schritt]]
 
 
 ---

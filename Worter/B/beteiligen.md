@@ -38,4 +38,4 @@ Morpheme: [[be]][[Worter/T/Teil]][[ig]][[en]]
 | Sie       | [[beteiligen]]       | [[beteiligten]]       | [[beteiligen Sie]]| [[beteiligen]]         | [[beteiligten]]         |
 
 Partizip I: [[beteiligend]], Partizip II: [[beteiligt]]
-[[beteiligen]] - [[be]] = [[teilen]], [[Beteiligung]], [[einlassen]]
+[[beteiligen]] - [[be]] = [[teilen]], [[Beteiligung]], [[einlassen]], [[Anteil]]

@@ -15,7 +15,7 @@ construction worker
 строитель
 
 ---
-[[Bau]], [[arbeiten]], [[Worter/A/Arbeit]], [[Baustelle]]
+[[Bau]], [[arbeiten]], [[Arbeit]], [[Baustelle]]
 
 ---
 [[Bau]]|[[arbeiter]]

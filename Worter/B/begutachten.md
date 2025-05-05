@@ -1,1 +1,1 @@
-[[kontrollieren]][[ansehen]], [[beobachten]], [[mustern]], [[anschauen]], [[betrachten]], [[bewerten]]
+[[kontrollieren]][[ansehen]], [[beobachten]], [[mustern]], [[anschauen]], [[betrachten]], [[bewerten]], [[prüfen]]

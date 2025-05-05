@@ -14,13 +14,13 @@ employer
 работодатель
 
 ---
-[[Arbeit geben]], [[Worter/A/Arbeit]], [[Arbeitgeberverband]] | [[Arbeit geben]], [[Worter/A/Arbeit]], [[Arbeitgeberverband]]
+[[Arbeit geben]], [[Arbeit]], [[Arbeitgeberverband]] | [[Arbeit geben]], [[Arbeit]], [[Arbeitgeberverband]]
 , [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Arbeitnehmer]], [[Betriebsrat]], [[Angestellte]], [[Bewerber]], [[Belegschaft]]
 
 
 ---
-[[Worter/A/Arbeit]]|[[geb]]|[[en]]
-[[Worter/A/Arbeit]] + [[geben]]
+[[Arbeit]]|[[geb]]|[[en]]
+[[Arbeit]] + [[geben]]
 
 
 ---

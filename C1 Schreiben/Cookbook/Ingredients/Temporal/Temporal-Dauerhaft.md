@@ -1,6 +1,7 @@
 [[0 Temporal-Freunde]]
 ---> ⏱️ [[Temporal-Dauerhaft]] <---
 
+ [[vorübergehend]] von zu Hause aus zu arbeiten
 #### 🟢 [[dauerhaft]] 
 ❤️ [[dauerhaft]] *(permanent; long-term stable)*
 ❤️ [[beständig]] *(stable; steady; not changing)*  

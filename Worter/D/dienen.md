@@ -3,6 +3,7 @@
 haben [[gedient]]
 
 ---
+*[[TD#^2|^]]* **WARNUNG:** Dieser Modus ist [[äußerst]] schwierig und [[dient]] dem [[Messen]] gegen starke [[Gegnerhorden]]. ^2
 
 
 ---

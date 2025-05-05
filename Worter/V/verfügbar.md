@@ -1,7 +1,12 @@
 ✅ [[verfügbar]], [fɛɐ̯ˈfyːɐ̯baːɐ̯] ≠ [[nicht verfügbar]]
 
 ---
+Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]]. 
+
 Mach dir keine Sorgen über die [[erforderlichen]] [[Abonnements]] - die [[überwiegende]] [[Mehrheit]] der kostenpflichtigen Artikel ist in Internetarchiven kostenlos [[verfügbar]].
+
+Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]].
+
 
 ---
 = [[vorhanden]], [[erhältlich]], [[zugänglich]]

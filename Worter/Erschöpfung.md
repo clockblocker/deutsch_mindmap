@@ -23,4 +23,4 @@ D: der [[Erschöpfung]], den [[Erschöpfungen]]
 
 ---
 [[erschöpfen]], [[erschöpft]], [[Erschöpfungszustand]]
-, [[Burnout]]
+, [[Burnout]], [[Überlastung]]

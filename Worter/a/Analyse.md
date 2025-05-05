@@ -1,1 +1,1 @@
-, [[Vergleich]], [[Untersuchung]], [[Nutzungsdaten]], [[Einschätzung]], [[Befragung]], [[Umfrage]], [[Studie]], [[Abstrich]], [[Modellrechnung]], [[Modellierung]], [[Überlegung]]
+, [[Vergleich]], [[Untersuchung]], [[Nutzungsdaten]], [[Einschätzung]], [[Befragung]], [[Umfrage]], [[Studie]], [[Abstrich]], [[Modellrechnung]], [[Modellierung]], [[Überlegung]], [[Speichelprobe]]

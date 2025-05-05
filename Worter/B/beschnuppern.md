@@ -1,2 +1,2 @@
 
-, [[schnüffeln]]
+, [[schnüffeln]], [[schnuppern]]

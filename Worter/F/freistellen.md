@@ -1,1 +1,1 @@
-, [[schäftigen]], [[entlassen]]
+, [[schäftigen]], [[entlassen]], [[Bildungsfreistellung]], [[Bildungsurlaub]]

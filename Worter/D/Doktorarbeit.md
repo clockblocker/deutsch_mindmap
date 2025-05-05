@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Doktorarbeit]], [[Doktorarbeiten]], [[Doktorarb
 Weitere Informationen:
 - Eine wissenschaftliche Arbeit, die zur Erlangung des Doktorgrades verfasst wird
 - Typischerweise eine umfangreiche Forschungsarbeit in einem spezifischen akademischen Fachgebiet
-- Muss originelle Forschungsergebnisse oder wissenschaftliche Erkenntnisse präsentieren, [[Worter/A/Arbeit]]
+- Muss originelle Forschungsergebnisse oder wissenschaftliche Erkenntnisse präsentieren, [[Arbeit]]

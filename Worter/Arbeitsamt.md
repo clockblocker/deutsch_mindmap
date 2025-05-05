@@ -15,7 +15,7 @@ die [[Arbeitsämter]]
 employment office, job center
 
 ---
-[[Worter/A/Arbeit]][[s]][[Amt]]
+[[Arbeit]][[s]][[Amt]]
 
 ---
 N: das [[Arbeitsamt]], die [[Arbeitsämter]]  

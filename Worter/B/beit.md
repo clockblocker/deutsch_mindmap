@@ -1,1 +1,1 @@
-, [[Worter/A/Arbeit]]
+, [[Arbeit]]

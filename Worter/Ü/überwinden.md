@@ -29,4 +29,4 @@ Morpheme: [[Worter/Ü/über]][[wind]][[en]]
 | Sie       | [[überwinden]]  | [[überwanden]] | [[überwinden Sie]] | [[überwinden]]  | [[überw​änden]]  |
 
 Partizip I: [[überwindend]], Partizip II: [[überwunden]]
-[[überwinden]] - [[Worter/Ü/über]] = [[winden]], [[überstehen]], [[Hürde]], [[s1 e1]]
+[[überwinden]] - [[Worter/Ü/über]] = [[winden]], [[überstehen]], [[Hürde]], [[s1 e1]], [[erklimmen]]

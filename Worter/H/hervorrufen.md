@@ -1,6 +1,9 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🗣️ [[hervorrufen]], [hɛɐ̯ˈfoːɐ̯ˌʁuːfn̩](https://youglish.com/pronounce/hervorrufen/german) → [[rief hervor]] → [[hervorgerufen]]
 
 ---
+Das Töten eines Gegners hat eine 5%-Chance, einen [[Strahl]] aus dem Boden [[hervorzurufen]],  
 
 ---
 = [[auslösen]], [[verursachen]], [[bewirken]]
@@ -11,7 +14,7 @@
 
 
 ---
-to evoke, to cause  
+🗣️ [[hervorrufen]] *to evoke, to cause*  
 вызывать, провоцировать
 
 ---

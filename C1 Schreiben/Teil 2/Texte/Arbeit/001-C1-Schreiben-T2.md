@@ -1,3 +1,5 @@
+[[T2-Schreiben-Ubungen]]
+
 #Schreiben/C1/T2 #Arbeit #Störung
 #Physical/Raumprobleme #Physical/Lärm #Team/Ruhe #Team/Kooperation 
  
@@ -18,7 +20,7 @@ Ich habe vollstes Verständnis dafür, dass es angesichts des Arbeits- und Zeitd
 
 Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im internen Produktionssystem verfügbar, aber ohne Ihre Grobplanung kann ich die Präsentation nicht vorbereiten.
 
-Falls wir bis Ende der Woche mit einer ersten Version der Präsentation nicht fertig sind, könnte dies den Auftrag gefährden – und damit monatelange Vorarbeit aufs Spiel setzen.
+Falls wir bis Ende der Woche mit einer ersten Version der Präsentation nicht fertig sind, könnte dies den Auftrag [[gefährden]] – und damit monatelange Vorarbeit aufs Spiel setzen.
 
 Ich schlage vor, dass wir uns morgen kurz zusammensetzen, um die offenen Punkte zu klären.
 
@@ -75,3 +77,19 @@ Denis Popov
 
 [[Section-Teil-2-Vorschlag]]
 ![[001-C1-Schreiben-T2#^5|^]] 
+
+
+---
+
+
+ich wende mich an Sie, um auf unsere [[bevorstehende]] Präsentation noch einmal einzugehen.
+
+Ich habe vollstes Verständnis dafür, dass es [[angesichts]] des Arbeits- und [[Zeitdruck]]s zu [[Verzögerung]]en kommen kann. 
+
+Allerdings [[anstehen|steht]] die [[Vorstellung]] des Projekts [[bereits]] nächste Woche an.
+
+Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]]. 
+
+Falls wir bis Ende der Woche mit einer ersten Version der Präsentation nicht fertig sind, können wir den [[Auftrag]] [[gefährden]] – und damit monatelange [[Vorarbeit]] aufs Spiel setzen. 
+
+Ich schlage vor, dass wir uns morgen kurz [[zusammensetzen]], um die offenen [[Punkte]] zu [[klären]]. 

@@ -1,8 +1,9 @@
-
 🤝 🟢 das [[Meeting]], [ˈmiːtɪŋ](https://youglish.com/pronounce/Meeting/german)
 die [[Meetings]]
 
 ---
+Als Projektmanager [[teilnehmen|nehme]] ich [[ständig]] an [[virtuell]]en [[Meeting]]s mit [[extern]]en [[Partner]]n teil.
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^9|^]]* Die [[informell]]en [[Gespräch]]e in der [[Kaffeepause]] oder der direkte [[Blickkontakt]] bei [[Meetings]] tragen [[entscheidend]] zur [[Teamentwicklung]] bei und [[fördern]] ein [[Gefühl]] der [[Zugehörigkeit]]. ^9
 
 

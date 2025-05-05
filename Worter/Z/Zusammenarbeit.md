@@ -15,10 +15,10 @@ collaboration, cooperation
 сотрудничество
 
 ---
-[[zusammenarbeiten]], [[Worter/A/Arbeit]], [[Mitarbeit]], [[Zusammenarbeitsmodell]]
+[[zusammenarbeiten]], [[Arbeit]], [[Mitarbeit]], [[Zusammenarbeitsmodell]]
 
 ---
-[[Zusammen]]|[[Worter/A/Arbeit]]
+[[Zusammen]]|[[Arbeit]]
 [[Zusammenarbeit]]
 
 

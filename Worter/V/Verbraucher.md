@@ -1,1 +1,1 @@
-, [[Verbraucherzentrale]], [[verbrauchen]]
+, [[Verbraucherzentrale]], [[verbrauchen]], [[Kunde]]

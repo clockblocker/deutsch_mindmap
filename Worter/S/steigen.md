@@ -1,12 +1,13 @@
 ---> [[Ingredient-Result-Verb]] <---
+---> 📈 [[Grad-Vergleich]] <---
 
 🏔️ [[steigen]] + Dat/Akk, [ˈʃtaɪ̯gən]
 [[stieg]], [[stiegen]]
 sein [[gestiegen]]
 
 ---
-*Die Ufer sind Vernunft und Trieb*  
-*Ich [[steigen|steig]]' dir nach*  
+*[[100-C1-Schreiben-T2#^2|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeiten]] nicht alle [[Bedürfnisse]] [[berücksichtigen]] kann - insbesondere, da die [[Besucherzahl]] zum [[Jahresende]] deutlich [[gestiegen]] ist. ^2
+
 
 110 Millionen Besucher kommen im Jahr, Tendenz [[steigend]].
 
@@ -50,4 +51,4 @@ Partizip I: [[steigend]], Partizip II: [[gestiegen]]
 [[steigen]] - [[en]] = [[steig]]
 , [[versteigen]], [[steigende]], [[klettern]], [[s1 e1]]
 , [[umsteigen]]
-, [[aussteigen]], [[Aufstieg]], [[absinken]]
+, [[aussteigen]], [[Aufstieg]], [[absinken]], [[Anstieg]]

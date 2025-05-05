@@ -1,2 +1,2 @@
 [[bürsten]], [[einschließen]], [[zählen]], [[nennen]], [[einschlagen]], [[nachholen]]
-, [[vermeiden]], [[unterlassen]]
+, [[vermeiden]], [[unterlassen]], [[teilnehmen]]

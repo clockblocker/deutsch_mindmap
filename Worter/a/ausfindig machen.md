@@ -1,1 +1,1 @@
-, [[entdeckten]], [[finden]], [[orten]]
+, [[entdeckten]], [[finden]], [[orten]], [[aufspüren]]

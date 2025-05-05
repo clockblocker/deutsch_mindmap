@@ -4,6 +4,8 @@ die [[Gegner]]
 ---
 Wir müssen unseren [[Gegnern]] immer [[einen Schritt voraus sein]].
 
+*[[TD#^6|^]]* Schaden an ❄️ **verlangsamten** [[Gegnern]] wird multiplikativ auf **125%** erhöht  
+
 
 ---
 = [[Widersacher]], [[Antagonist]], [[Kontrahent]]
@@ -24,3 +26,6 @@ D: dem [[Gegner]], den [[Gegnern]]
 
 ---
 [[gegnerisch]], [[Gegnerschaft]], [[entgegentreten]], [[bekämpfen]], [[Texte/Misc/Anki]]
+
+
+#Maskulin 

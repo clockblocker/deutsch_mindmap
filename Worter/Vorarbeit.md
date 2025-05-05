@@ -13,10 +13,10 @@ preparatory work, preliminary work
 подготовительная работа
 
 ---
-[[vorarbeiten]], [[Worter/A/Arbeit]], [[Vorbereiten]], [[Vorarbeiter]]
+[[vorarbeiten]], [[Arbeit]], [[Vorbereiten]], [[Vorarbeiter]]
 
 ---
-[[Vor]]|[[Worter/A/Arbeit]]
+[[Vor]]|[[Arbeit]]
 [[Vorarbeit]]
 
 

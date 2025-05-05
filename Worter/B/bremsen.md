@@ -1,1 +1,1 @@
-, [[durchknallen]], [[Vollbremsung]], [[überfahren]], [[hemmen]]
+, [[durchknallen]], [[Vollbremsung]], [[überfahren]], [[hemmen]], [[verlangsamen]]

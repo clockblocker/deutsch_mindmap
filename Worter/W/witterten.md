@@ -9,7 +9,7 @@ haben [[gewittert]]
 *Mann, wer hätte das gedacht?
 
 ---
-Synonyme: [[riechen]], [[spüren]], [[wahrnehmen]], [[erschnüffeln]]
+Synonyme: [[riechen]], [[spüren]], [[wahrnehmen]], [[Erschnüffeln]]
 Antonyme: [[ignorieren]], [[übersehen]], [[verkennen]]
 
 ---

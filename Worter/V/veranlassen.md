@@ -2,6 +2,8 @@
 🤔 [[veranlassen]], [fɛɐ̯ˈʔanlasn̩](https://youglish.com/pronounce/veranlassen/german) → [[veranlasste]] → [[veranlasst]]
 
 ---
+Falls sich die Situation nicht ändert, würde ich mich leider [[veranlasst]] sehen, mich an die [[Hausverwaltung]] zu wenden. 
+
 sehe ich mich leider veranlasst
 
 ---

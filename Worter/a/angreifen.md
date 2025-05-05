@@ -5,6 +5,8 @@ haben [[angegriffen]]
 ---
 Miete! Oder ich [[greife an]]!  
 
+*[[TD#^4|^]]* **Runestone Tower** erhöhen ihren **Schaden** mit jeder Sekunde, in der sie [[kontinuierlich]] [[dasselbe]] Ziel [[angreifen]]. ^4
+
 
 ---
 Synonyme: [[attackieren]], [[überfallen]], [[belagern]], [[stürmen]], [[eindringen]], [[überfallen]]

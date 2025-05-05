@@ -1,1 +1,1 @@
-, [[kerngesund]], [[krankheitsbedingt]]
+, [[kerngesund]], [[krankheitsbedingt]], [[medizinisch]]

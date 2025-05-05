@@ -6,26 +6,41 @@
 ![[Section-Teil-2-Verständnis#^10|^]]
 ![[Section-Teil-2-Verständnis#^11|^]]
 ![[Section-Teil-2-Verständnis#^27|^]]
+
 ![[Section-Teil-2-Verständnis#^12|^]]
-![[Section-Teil-2-Verständnis#^13|^]]
-![[Section-Teil-2-Verständnis#^15|^]]
-![[Section-Teil-2-Verständnis#^18|^]]
+
 ![[Section-Teil-2-Verständnis#^17|^]]
+
+![[Section-Teil-2-Verständnis#^22|^]]
+
+![[Section-Teil-2-Verständnis#^18|^]]
+
+![[Section-Teil-2-Verständnis#^30|^]]
+
 ![[Section-Teil-2-Verständnis#^19|^]]
 ![[Section-Teil-2-Verständnis#^21|^]]
-![[Section-Teil-2-Verständnis#^22|^]]
 ![[Section-Teil-2-Verständnis#^25|^]]
+
+![[Section-Teil-2-Verständnis#^15|^]]
+
+![[Section-Teil-2-Verständnis#^13|^]]
 
 
 *– insbesondere, da* ^8
 ![[Section-Teil-2-Verständnis#^14|^]]
+
+![[Section-Teil-2-Verständnis#^32|^]]
+
 ![[Section-Teil-2-Verständnis#^16|^]] 
 ![[Section-Teil-2-Verständnis#^20|^]]
+
+![[Section-Teil-2-Verständnis#^33|^]]
+
 ![[Section-Teil-2-Verständnis#^23|^]] 
 ![[Section-Teil-2-Verständnis#^24|^]]
 ![[Section-Teil-2-Verständnis#^26|^]]
 
-
+![[Section-Teil-2-Verständnis#^31|^]]
 
 ---
 ---
@@ -140,6 +155,28 @@ auf unserem Campus im vergangenen Jahr [[umfangreiche]] [[Umbauarbeiten]] stattg
 ![[032-C1-Schreiben-T2#^10|^]]
 
 dass es angesichts des Arbeits- und Zeitdrucks nicht immer möglich ist, alle Wünsche der Kunden zu berücksichtigen. ^27
+
+
+---
+
+![[009-C1-Schreiben-T2#^1|^]]
+
+die Firma unter Personalmangel und Arbeitsdruck nicht alle Bedürfnisse berücksichtigen kann ^31
+
+
+die Vorstellung des Projekts bereits in den nächsten Monaten ansteht. ^32
+
+
+
+---
+![[100-C1-Schreiben-T2#^2|^]]
+
+die Bibliothek angesichts der Umbauarbeiten nicht alle Bedürfnisse berücksichtigen kann ^30
+
+
+da die Besucherzahl zum Jahresende deutlich gestiegen ist. ^33
+
+
 
 
 ----

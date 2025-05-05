@@ -1,1 +1,1 @@
-[[getrennt]], [[aneinander]], [[einsam]], [[einzelne]], [[vernetzt]], [[zusammen]], [[zwischenmenschlich]], [[separat]], [[studienbegleitend]]
+[[getrennt]], [[aneinander]], [[einsam]], [[einzelne]], [[vernetzt]], [[zusammen]], [[zwischenmenschlich]], [[separat]], [[studienbegleitend]], [[schallgeschützt]]

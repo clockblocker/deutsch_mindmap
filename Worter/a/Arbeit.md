@@ -1,4 +1,4 @@
-💼 die [[Worter/A/Arbeit]], [ˈaɐ̯baɪ̯t]
+💼 die [[Arbeit]], [ˈaɐ̯baɪ̯t]
 die [[Arbeiten]]
 
 ---
@@ -16,10 +16,10 @@ work, job, occupation, labor
 [[ar]]|[[beit]]
 
 ---
-N: die [[Worter/A/Arbeit]], die [[Arbeiten]]  
-A: die [[Worter/A/Arbeit]], die [[Arbeiten]]  
-G: der [[Worter/A/Arbeit]], der [[Arbeiten]]  
-D: der [[Worter/A/Arbeit]], den [[Arbeiten]]  
+N: die [[Arbeit]], die [[Arbeiten]]  
+A: die [[Arbeit]], die [[Arbeiten]]  
+G: der [[Arbeit]], der [[Arbeiten]]  
+D: der [[Arbeit]], den [[Arbeiten]]  
 
 ---
 arbeiten, arbeitsam, arbeitslos, arbeitsfähig, Arbeitgeber, [[Erlebnis]]
@@ -29,4 +29,4 @@ arbeiten, arbeitsam, arbeitslos, arbeitsfähig, Arbeitgeber, [[Erlebnis]]
 , [[Schularbeit]], [[Bindungsurlaub]], [[Studiengang]], [[Rente]], [[Pension]], [[verarbeiten]], [[abarbeiten]], [[Spaziergang]], [[Arbeitsdruck]], [[Arbeitgeber]], [[Arbeitsstelle]], [[Erwerbstätigkeit]], [[Wochenendarbeit]], [[Berufstätigkeit]], [[Arbeitnehmerrecht]], [[Arbeitszeitmodell]], [[Arbeitsmodell]], [[Arbeitsumfeld]], [[Kaffeepause]], [[Kaffeepause]], [[Zusammenarbeit]]
 
 
-#Feminin , [[Arbeitskonzept]], [[Arbeitsform]], [[Arbeitsbedingung]], [[Arbeitsprozess]], [[Bauarbeiter]], [[Arbeitsschritt]], [[ausarbeiten]], [[Ausarbeitung]], [[Spiel]], [[Bürosituation]], [[Vorarbeit]], [[Arbeitsumgebung]], [[Bauarbeit]], [[Arbeitsbelastung]]
+#Feminin , [[Arbeitskonzept]], [[Arbeitsform]], [[Arbeitsbedingung]], [[Arbeitsprozess]], [[Bauarbeiter]], [[Arbeitsschritt]], [[ausarbeiten]], [[Ausarbeitung]], [[Spiel]], [[Bürosituation]], [[Vorarbeit]], [[Arbeitsumgebung]], [[Bauarbeit]], [[Arbeitsbelastung]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Arbeitsraum]]

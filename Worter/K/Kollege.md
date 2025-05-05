@@ -28,4 +28,4 @@ G: des [[Kollegen]], der [[Kollegen]]
 D: dem [[Kollegen]], den [[Kollegen]]
 
 
-#Maskulin 
+#Maskulin , [[Partner]]

@@ -1,1 +1,1 @@
-, [[Treue]], [[Verantwortungsbewusstsein]], [[Integrität]], [[unzuverlässig]]
+, [[Treue]], [[Verantwortungsbewusstsein]], [[Integrität]], [[unzuverlässig]], [[Genauigkeit]]

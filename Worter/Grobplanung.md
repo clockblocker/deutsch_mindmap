@@ -1,6 +1,8 @@
 📝 🔴 die [[Grobplanung]], [ˈɡʁoːpˌplaːnʊŋ](https://youglish.com/pronounce/Grobplanung/german)
 
 ---
+Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]]. 
+
 *[[02-C1-Schreiben-T2-M#^2|^]]* Ihr Teamleiter sollte Ihnen schon vor einer Woche eine [[Grobplanung]] für die Präsentation schicken, die Sie [[bisher]] - trotz [[wiederholter]] [[Nachfrage]] - noch nicht [[erhalten]] haben. ^2
 
 

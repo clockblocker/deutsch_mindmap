@@ -23,4 +23,4 @@ Genitive: der [[Anerkennung]], der [[Anerkennungen]]
 Dative: der [[Anerkennung]], den [[Anerkennungen]]  
 
 ---
-[[anerkennen]], [[anerkennend]], [[anerkennenswert]], [[unerkannt]], [[Verdienstorden]], [[Menschenwürde]], [[Dankbarkeit]], [[Nachrede]], [[Verleumdung]], [[inwiefern]], [[Streben]], [[Bedürfnis]]
+[[anerkennen]], [[anerkennend]], [[anerkennenswert]], [[unerkannt]], [[Verdienstorden]], [[Menschenwürde]], [[Dankbarkeit]], [[Nachrede]], [[Verleumdung]], [[inwiefern]], [[Streben]], [[Bedürfnis]], [[Belohnung]]

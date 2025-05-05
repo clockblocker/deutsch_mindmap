@@ -17,7 +17,7 @@ Ich mag dich [[wegen]] deiner Augen.
 
 
 ---
-Synonyme: [[aufgrund von]], [[infolge]], [[aus]], [[von wegen]], [[Angesichts]], [[zugrunde liegende]]
+Synonyme: [[aufgrund von]], [[infolge]], [[aus]], [[von wegen]], [[angesichts]], [[zugrunde liegende]]
 Antonyme: [[trotz]], [[ungeachtet]], [[unbeschadet]], [[entgegen]]
 
 ---

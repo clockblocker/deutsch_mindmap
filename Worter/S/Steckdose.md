@@ -5,6 +5,9 @@ die [[Steckdosen]]
 ---
 [[Internetzugang]] und [[Stromanschluss]] + [[Steckdosen]]
 
+*[[100-C1-Schreiben-T2#^4|^]]* Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
+
+
 Waschmaschine an die [[Steckdose]] anschließen oder:
 
 
@@ -23,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Steckdose]], [[Steckdoses]], [[Steckdosen]], [[Steckdosen]]
 
 ---
-#Substantiv #Feminin, [[anschließen]], [[Stromanschluss]]
+#Substantiv #Feminin, [[anschließen]], [[Stromanschluss]], [[Stromzugang]]

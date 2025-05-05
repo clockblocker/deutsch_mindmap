@@ -6,7 +6,7 @@ und damit monatelange Vorarbeit [[aufs Spiel setzen]].
 ---
 = [[Match]], [[Wettkampf]], [[Duell]]
 ≈ [[Unterhaltung]], [[Freizeit]], [[Vergnügen]], [[Sport]]
-≠ [[Worter/A/Arbeit]], [[Ernst]]
+≠ [[Arbeit]], [[Ernst]]
 
 ---
 game, play  
@@ -28,4 +28,4 @@ A: das [[Spiel]], die [[Spiele]]
 G: des [[Spieles]], der [[Spiele]]
 D: dem [[Spiel]], den [[Spielen]]
 
-#Neuter 
+#Neuter , [[Spielweise]]

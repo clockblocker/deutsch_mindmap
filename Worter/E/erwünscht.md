@@ -23,4 +23,4 @@ Einzigartige mögliche Formen:
 
 Hinweis: Entstanden aus dem Partizip II des Verbs [[erwünschen]]
 ''', [[verlaufen]]
-, [[erforderlich]]
+, [[erforderlich]], [[wünschenswert]]

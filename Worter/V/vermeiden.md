@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Verben]] <---
+--->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
 🙅 [[vermeiden]], [fɛɐ̯ˈmaɪ̯dn̩] | [[vermied]], haben [[vermieden]]
 
 ---
@@ -35,4 +35,4 @@ PI: [[vermeidend]], PII: [[vermieden]], Zu+inf: [[zu vermeiden]]
 ---
 [[Meide]], [[Vermeidung]], [[vermeidbar]], [[vermeidlich]]
 , [[kennenlernen]]
-, [[beabsichtigen]], [[fernhalten]], [[abarbeiten]], [[auseinandersetzen]], [[verursachen]], [[Erkunden]], [[vorbeugen]], [[befassen]], [[verzichten]]
+, [[beabsichtigen]], [[fernhalten]], [[abarbeiten]], [[auseinandersetzen]], [[verursachen]], [[Erkunden]], [[vorbeugen]], [[befassen]], [[verzichten]], [[erleiden]], [[hervorrufen]]

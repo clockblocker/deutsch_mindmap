@@ -4,6 +4,8 @@
 *[[3  Ein Selbstversuch als Hobbybäuerin#^40|^]]* Man hat in der Regel immer [[Zeitdruck]] und ein [[begrenztes]] Budget. ^40
 
 
+Ich habe vollstes Verständnis dafür, dass es [[angesichts]] des Arbeits- und [[Zeitdruck]]s zu [[Verzögerung]]en kommen kann. 
+
 
 ---
 = [[Termindruck]], [[Terminnot]], [[Zeitnot]]

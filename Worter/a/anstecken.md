@@ -1,1 +1,1 @@
-, [[entfernen]]
+, [[entfernen]], [[infizieren]]

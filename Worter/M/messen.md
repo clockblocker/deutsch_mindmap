@@ -5,6 +5,9 @@ haben [[gemessen]]
 ---
 Ich [[messe]] die Temperatur. Wieder 39 Grad. I
 
+*[[TD#^2|^]]* **WARNUNG:** Dieser Modus ist [[äußerst]] schwierig und [[dient]] dem [[Messen]] gegen starke [[Gegnerhorden]]. ^2
+
+
 SASCHA: Dann müssen wir Sie [[messen]].
 
 SAM: Den [[Abstand]] zwischen 2 Regalbrettern [[messen]] …'  
@@ -68,4 +71,4 @@ Morphems of only infinitive:
 
 ---
 
-Let me know if you need any more help!, [[Extra 8]], [[wiegen]], [[messbar]]
+Let me know if you need any more help!, [[Extra 8]], [[wiegen]], [[messbar]], [[Gegnerhorde]]

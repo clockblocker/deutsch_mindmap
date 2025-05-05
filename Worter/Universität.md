@@ -23,3 +23,6 @@ D: der [[Universität]], den [[Universitäten]]
 
 ---
 [[universitär]], [[studieren]], [[Universitätsabschluss]], [[Universitätsprofessor]], [[Studierendenwerk]]
+
+
+#Feminin , [[Universitätsbibliothek]]

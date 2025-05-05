@@ -6,7 +6,7 @@
         In diesem Kontext ist „finden“ kein reflexives Verb und kann hier auch nicht unpersönlich verwendet werden. 
         Der Hund also „er“, findet den Leckerbissen.  
     c) ✅ gelohnt
-        Die Wendung „Es hat sich gelohnt“ bezeichnet das erfolgreiche Ende einer Anstrengung. Um welchen „Lohn“ es hier ging, erfährt man nach dem Doppelpunkt.
+        Die Wendung „Es hat sich gelohnt“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
     d) ❌ gewonnen
         „Gewinnen“ ist kein reflexives Verb und passt auch inhaltlich nicht, denn es handelt sich nicht um einen Wettkampf oder Wettbewerb.
 1) [[Lesen-Teil-1-Pronomen]]

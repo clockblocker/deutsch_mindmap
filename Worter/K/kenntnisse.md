@@ -1,1 +1,1 @@
-, [[Englischkenntnisse]], [[Fachwissen]], [[Kompetenz]]
+, [[Englischkenntnisse]], [[Fachwissen]], [[Kompetenz]], [[Zusatzqualifikation]]

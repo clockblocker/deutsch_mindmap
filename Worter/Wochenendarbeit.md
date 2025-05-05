@@ -14,10 +14,10 @@ weekend work
 работа в выходные дни
 
 ---
-[[Wochenende]], [[Worter/A/Arbeit]], [[arbeiten]], [[Wochenenddienst]]
+[[Wochenende]], [[Arbeit]], [[arbeiten]], [[Wochenenddienst]]
 
 ---
-[[Wochenende]]|`r`|[[Worter/A/Arbeit]]
+[[Wochenende]]|`r`|[[Arbeit]]
 [[Wochenendarbeit]]
 
 

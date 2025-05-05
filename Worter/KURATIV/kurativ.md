@@ -1,1 +1,1 @@
-, [[vorbeugend]]
+, [[vorbeugend]], [[medizinisch]]

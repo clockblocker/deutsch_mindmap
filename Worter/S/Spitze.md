@@ -5,6 +5,9 @@ die [[Spitzen]]
 [[2 Unter Druck nach oben#^20|(q)]] [[An der Spitze]] der „[[Erfolgsfaktoren]]“ steht jedoch das strategische, [[vernetzte]] Denken. Eine Studie der Boston Consulting Group kristallisierte vier Idealtypen heraus: den Analytiker, den Macher, den Integrator und den [[Erfinder]], die meistens in Kombination gesucht sind. ^20
 
 
+*[[TD#^3|^]]* Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten. ^3
+
+
 ---
 Synonyme:
 - [[Gipfel]], [[Ende]], [[Zentrum]]

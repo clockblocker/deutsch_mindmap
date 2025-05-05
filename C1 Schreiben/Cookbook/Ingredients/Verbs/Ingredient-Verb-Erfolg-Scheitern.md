@@ -1,5 +1,8 @@
 ---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 
+neue [[Partner]] und [[Kunde]]n [[gewinnen]]
+aktuellen [[Aufgabenbereich]] erweitern
+neue Netzwerke einbringen
 #### 🟢 [[Erfolg]]  
 1) [[schaffen]] *(to manage, succeed — core neutral verb)*  
 2) [[gelingen]] *(to succeed — often impersonal: „es gelingt mir“)*  

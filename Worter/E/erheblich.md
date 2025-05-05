@@ -2,9 +2,7 @@
 ⬆️ [[erheblich]], [ɛɐ̯ˈheːplɪç](https://youglish.com/pronounce/erheblich/german)
 
 ---
-erheblich schwierig ist
-
-[[like]]
+[[Dennoch]] [[erschwert]] neue Bürosituation meine Arbeit [[erheblich]].
 
 *[[002-C1-Schreiben-T2#^3|^]]* Dennoch wirkt sich die neue Bürosituation [[erheblich]] auf meine Arbeit aus. ^3
 

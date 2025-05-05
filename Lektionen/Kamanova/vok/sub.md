@@ -81,7 +81,7 @@
 #### Feminin (f)
 - [[Karte]], [[Karten]] - билет
 - [[Worter/Z/zeit]], [[Zeiten]] - время
-- [[Worter/A/Arbeit]], [[Arbeiten]] - работа
+- [[Arbeit]], [[Arbeiten]] - работа
 - [[Neuigkeit]], [[Neuigkeiten]] - новость
 - [[Uhr]], [[Uhren]] - часы
 - [[Sache]], [[Sachen]] - вещь, дело

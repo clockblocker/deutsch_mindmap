@@ -18,7 +18,7 @@ working condition
 [[Arbeitsbedingungen verbessern]], [[Arbeitsbedingungen schaffen]]
 
 ---
-[[Worter/A/Arbeit]]|`s`|[[bedingung]]
+[[Arbeit]]|`s`|[[bedingung]]
 [[Arbeitsbedingung]]
 
 

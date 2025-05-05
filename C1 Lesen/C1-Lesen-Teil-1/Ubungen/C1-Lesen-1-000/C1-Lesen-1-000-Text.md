@@ -60,6 +60,7 @@ Bisher läuft die Entwicklung aber trotz dieser erhöhten Schwierigkeiten erfolg
     d) voll
 
 ---
+![[ElevenLabs_2025-05-02T06_11_18_Otto_pvc_sp100_s50_sb45_se24_b_m2.mp3]]
 
 **Roboter als Unterwasser-Müllsammler**
 
@@ -68,7 +69,7 @@ Bisher läuft die Entwicklung aber trotz dieser erhöhten Schwierigkeiten erfolg
 *[[C1-Lesen-1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] [[anzugehen]], entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das [[Kunststoffabfälle]] unter Wasser [[orten]] und [[einsammeln]] kann. ^1
 
 
-*[[C1-Lesen-1-000-Text#^2|^]]* Die Ozeane unseres Planeten sind voller Plastikmüll – zwischen 26 und 66 Millionen Tonnen größere und kleinere [[Kunststoffreste]] befinden sich [[Schätzungen]] [[zufolge]] zufolge _1_ im Meer. ^2
+*[[C1-Lesen-1-000-Text#^2|^]]* Die Ozeane unseres Planeten sind voller Plastikmüll – zwischen 26 und 66 Millionen Tonnen größere und kleinere [[Kunststoffreste]] befinden sich [[Schätzungen]] [[zufolge]] _1_ im Meer. ^2
 
 *[[C1-Lesen-1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[sinkt]] dieser Müll [[allmählich]] in die Tiefe und [[lagert ab|lagert]] sich am [[Meeresboden]] ab. ^3
 
@@ -117,5 +118,3 @@ Das System setz sich aus vier Roboter-Komponenten zusammen: Ein autonom fahrende
 Was in der Theorie einfach klingt, ist in der Praxis für autonom agierende Roboter aber nicht einfach: Denn anders als an Land herrschen im Wasser ganz besondere Bedingungen. Sobald ein Stück Müll identifiziert und geortet wurde, muss sich der Roboter zunächst in dessen Nähe bewegen. Dabei kann er mitunter auf starke Strömungen treffen, gegen die er sich durchsetzen muss.
 
 Bisher läuft die Entwicklung aber trotz dieser erhöhten Schwierigkeiten erfolgreich: Wenn das System voll einsatzfähig ist, soll es Unterwasserabfälle mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich einsammeln. Die Roboter wären dann so effektiv wie menschliche Taucher.
-
-![[ElevenLabs_2025-05-02T06_11_18_Otto_pvc_sp100_s50_sb45_se24_b_m2.mp3]]

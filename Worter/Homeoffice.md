@@ -2,6 +2,9 @@
 (no plural form)
 
 ---
+Wenn kein größeres Büro angeboten werden kann, schlage ich vor, dem Team die Möglichkeit zu geben, an ein bis zwei Tagen pro Woche im [[Homeoffice]] zu arbeiten. ^4
+
+
 Ein Beispiel für Maßnahmen zur Stressreduktion ist die Einführung flexibler Arbeitszeiten und die Möglichkeit, im Homeoffice oder in hybriden Arbeitsmodellen zu arbeiten.
 
 ---

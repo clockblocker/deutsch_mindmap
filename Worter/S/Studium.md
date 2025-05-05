@@ -8,7 +8,7 @@ die [[Studien]]
 ---
 = [[Ausbildung]], [[Universität]]
 ≈ [[Worter/S/Studium]], [[Hochschule]]
-≠ [[Schule]], [[Worter/A/Arbeit]], [[Hobby]], [[Worter/F/Freizeit]]
+≠ [[Schule]], [[Arbeit]], [[Hobby]], [[Worter/F/Freizeit]]
 
 ---
 studies
@@ -24,4 +24,4 @@ G: des [[Studiums]], der [[Studien]]
 D: dem [[Worter/S/Studium]], den [[Studien]]  
 
 ---
-[[studieren]], [[Studiengang]], [[Studienjahr]], [[Student]], [[studienorientiert]], [[Erlernung]], [[Studie]], [[Studienfach]], [[Studierendenwohnheim]], [[Studierendenwerk]], [[studienbegleitend]]
+[[studieren]], [[Studiengang]], [[Studienjahr]], [[Student]], [[studienorientiert]], [[Erlernung]], [[Studie]], [[Studienfach]], [[Studierendenwohnheim]], [[Studierendenwerk]], [[studienbegleitend]], [[MBA-Studium]], [[Studienvisum]]

@@ -1,3 +1,5 @@
+---> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+
 🤕 [[schaden]], [ˈʃaːdn̩]
 
 ---

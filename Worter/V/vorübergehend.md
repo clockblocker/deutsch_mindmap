@@ -4,7 +4,7 @@
 ⏳ [[vorübergehend]], [foːɐ̯ˈyːbɐˌɡeːənt](https://youglish.com/pronounce/vorübergehend/german)
 
 ---
-Work-Life-Balance
+Wenn Sie keine Möglichkeit haben, [[vorübergehend]] von zu Hause aus zu arbeiten, schlage ich vor, den Hund [[während]] der Arbeitszeit [[betreuen]] zu lassen. 
 
 [[vorübergehend]], [[zeitweilig]], [[temporär]],
 

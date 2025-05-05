@@ -26,4 +26,4 @@ tasty, delicious
 Tags: 
 #Adjective 
 , [[Worter/essbar]]
-, [[geschmacklos]]
+, [[geschmacklos]], [[Leckerbissen]]

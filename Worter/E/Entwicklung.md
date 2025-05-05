@@ -4,6 +4,9 @@ die [[Entwicklungen]]
 ---
 Der Film zeigt die [[Entwicklung]] eines Menschen von der Geburt bis zum Tod.
 
+Zurzeit [[leite]] ich ein Team von sechs Softwareingenieur:innen bei der [[Entwicklung]] unseres [[intern]]en „E-Ledger“-Projekts für den [[Buchhaltungsbereich]]. ^2
+
+
 *Zurzeit* leite ich ein Team von sechs Softwareingenieur:innen 
 bei der [[Entwicklung]] unseres internen „E-Ledger“-[[Projekt]]s 
 für den [[Buchhaltungsbereich]]. 

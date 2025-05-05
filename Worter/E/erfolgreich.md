@@ -4,6 +4,12 @@ nicht [[erfolglos]]
 ---
 Ich lerne Deutsch, um die Prüfung [[erfolgreich]] zu [[bestehen]].
 
+*[[100-C1-Schreiben-T2#^3|^]]* Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3
+
+
+Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
+
+
 *[[C1-Lesen-1-000-Text#^15|^]]* [[Bisher]] [[läuft]] die Entwicklung aber trotz dieser erhöhten Schwierigkeiten [[erfolgreich]]: Wenn das System _9_ voll [[einsatzfähig]] ist, soll es [[Unterwasserabfälle]] mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich [[einsammeln]]. ^15
 
 

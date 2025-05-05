@@ -5,6 +5,9 @@ nicht [[ungeeignet]]
 [[0 checklist#^5|(q)]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]. ^5
 
 
+*[[TD#^3|^]]* Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten. ^3
+
+
 Zunächst möchte ich erst einmal feststellen, dass das Arbeiten von zu Hause aus für Berufsgruppen aus der IT-Branche, [[Werbung]], [[Buchhaltung]] und [[Verwaltung]] [[geeignet]] ist, vor allem, wenn bestimmte Bedingungen zu Hause [[erfüllt]] sind, wie z. B. schnelles Internet, Zugriff auf [[Datenbanken]] und technische [[Ausstattungen]]
 
 
@@ -34,4 +37,4 @@ Neuter: [[geeignetes]], [[geeigneteres]], [[geeignetestes]]
 Plural: [[geeigneten]], [[geeigneteren]], [[geeignetesten]]  
 
 [[Eignung]], [[Geeignetheit]], [[Tauglichkeit]], [[Qualifikation]], [[Fähig]]
-, [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]], [[angemessen]], [[unangemessen]], [[einsatzfähig]]
+, [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]], [[angemessen]], [[unangemessen]], [[einsatzfähig]], [[wünschenswert]]

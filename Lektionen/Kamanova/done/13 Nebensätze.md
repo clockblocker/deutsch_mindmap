@@ -406,7 +406,7 @@ Sie erzählte mir, was ihr Freund ihr zu Weihnachten schenken wollte
 
 13.6 Переведите следующие предложения:
 
-127. Когда у него было много времени, он играл в теннис после работы.  Wenn er viel Zeit hatte, spielte er Tennis nach der [[Worter/A/Arbeit]] 
+127. Когда у него было много времени, он играл в теннис после работы.  Wenn er viel Zeit hatte, spielte er Tennis nach der [[Arbeit]] 
 128. Когда мы пришли к моей подруге, она сидела за столом и переводила статью.  Wenn wir zu meiner Freundin gekommen sind, saß sie am Tisch und übersetzte einen Artikel 
 129. Когда им нужна была наша помощь, они сразу звонили нам.  Wenn sie  unserer Hilfe brauchten, riefen sie uns an
 130. Когда мы говорили по-немецки, она понимала не всё.  Wenn wir auf Deutsch gesprochen haben, hat sie nicht alles verstanden 

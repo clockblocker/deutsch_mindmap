@@ -1,7 +1,7 @@
 *[[Kochbuch-Rezepte]]*
 
 ###### Übungen
-[[T1-Schreiben-Ubungen]]
+[[T2-Schreiben-Ubungen]]
 
 ###### Themen:
 [[Thema-Zeitdruck]]
@@ -20,6 +20,8 @@
 [[Thema-Geld]]
 [[Thema-Tiere]]
 [[Thema-Automation]]
+[[Thema-Weiterbildung]]
+[[Thema-Personalmangel]]
 
 [[Thema-KI]]
 [[Thema-Klima]]
@@ -34,10 +36,7 @@
 
 
 ###### Formats:
-[[Format-Teil-1-Contra]]
-[[Format-Teil-1-Pro]]
 [[Format-Teil-1]]
-
 [[Format-Teil-2-Komplaint]]
 
 

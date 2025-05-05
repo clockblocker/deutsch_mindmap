@@ -2,6 +2,6 @@
 
 ---
 
-Solche Einzelfallregelungen bleiben jedoch nur eine Symptombehandlung.
+![[008-C1-Schreiben-T2#^4|^]]
 
-Wenn das Firmenangebot mit einem Fahrradverleihdienst keine grundlegende Lösung darstellt, schlage ich vor, teilweise Homeoffice zu ermöglichen, um die Anzahl der Parkplatzsuchenden zu reduzieren.
+

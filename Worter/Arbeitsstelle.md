@@ -14,10 +14,10 @@ workplace, job
 рабочее место, работа
 
 ---
-[[arbeiten]], [[Worter/A/Arbeit]], [[Arbeiter]], [[Arbeitsvertrag]], [[Arbeitszeit]], [[Arbeitskollege]]
+[[arbeiten]], [[Arbeit]], [[Arbeiter]], [[Arbeitsvertrag]], [[Arbeitszeit]], [[Arbeitskollege]]
 
 ---
-[[Worter/A/Arbeit]]|`s`|[[stell]]|[[e]]
+[[Arbeit]]|`s`|[[stell]]|[[e]]
 [[Arbeitsstelle]]
 
 

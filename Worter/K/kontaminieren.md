@@ -1,1 +1,1 @@
-, [[verschmutzen]]
+, [[verschmutzen]], [[infizieren]]

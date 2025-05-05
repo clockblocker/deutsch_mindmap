@@ -8,7 +8,7 @@ die [[Freizeitaktivitäten]]
 ---
 = [[Hobby]], [[Freizeitbeschäftigung]], [[Aktivität]]
 ≈ [[vergnügen]], [[Interesse]], [[Leidenschaft]], [[Zeitvertreib]]
-≠ [[Worter/A/Arbeit]], [[Pflicht]], [[Verpflichtung]], [[Aufgabe]]
+≠ [[Arbeit]], [[Pflicht]], [[Verpflichtung]], [[Aufgabe]]
 
 ---
 leisure activity, recreational activity

@@ -1,3 +1,5 @@
+[[T2-Schreiben-Ubungen]]
+
 #Schreiben/C1/T2 #Arbeit #Unzuverlässigkeit #Kommunikationsmangel
 #Organisation/Kommunikation #Organisation/Fristen #Leadership/Fuehrung
 
@@ -20,13 +22,13 @@ ich wende mich an Sie, um auf die Situation im neuen Büro einzugehen. ^2
 Ich habe vollstes Verständnis dafür, dass ein Umzug unter Zeitdruck nicht alle Bedürfnisse berücksichtigen kann. ^3
 
 
-Dennoch [[auswirkt|wirkt]] sich die neue Bürosituation [[erheblich]] auf meine Arbeit aus. ^9
+Dennoch erschwert neue Bürosituation meine Arbeit [[erheblich]]. ^9
 
 
 Als Projektmanager nehme ich ständig an virtuellen Meetings mit externen Partnern teil. Meine häufigen Gespräche würden nicht nur die Konzentration der sechs Kolleg:innen beeinträchtigen, sondern auch das Risiko bergen, dass sensible Informationen von unbeteiligten Mitarbeitenden mitgehört werden. ^4
 
 
-Aus diesem Grund wäre ein ruhiger, abgegrenzter Arbeitsplatz wünschenswert, der vertrauliche Gespräche ermöglicht. ^5
+Aus diesem Grund wäre ein ruhiger, abgegrenzter Arbeitsplatz [[wünschenswert]], der vertrauliche Gespräche ermöglicht. ^5
 
 
 Wenn in dem neuen Raum kein separates Büro angeboten werden kann, schlage ich vor, einige schallgeschützte Telefonkabinen einzubauen. ^6
@@ -73,5 +75,21 @@ Schreiben Sie circa 120 Wörter.
 ![[002-C1-Schreiben-T2#^7|^]]
 
 ![[002-C1-Schreiben-T2#^8|^]]
+
+
+---
+
+Ich habe vollstes Verständnis dafür, dass ein [[Umzug]] unter Zeitdruck nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann.
+
+[[Dennoch]] [[erschwert]] neue Bürosituation meine Arbeit [[erheblich]].
+
+Als Projektmanager [[teilnehmen|nehme]] ich [[ständig]] an [[virtuell]]en [[Meeting]]s mit [[extern]]en [[Partner]]n teil. 
+
+Meine [[häufig]]en [[Gespräch]]e würden nicht nur die Konzentration der sechs Kolleg:innen [[beeinträchtigen]], sondern auch das Risiko [[bergen]], dass [[sensible]] [[Information]]en von [[unbeteiligten]] [[Mitarbeitende]]n [[mitgehört]] werden.
+
+Aus diesem Grund wäre ein ruhiger, [[abgegrenzter]] Arbeitsplatz [[wünschenswert]], der [[vertrauliche]] Gespräche [[ermöglicht]].
+
+Wenn in dem neuen Raum kein separates Büro angeboten werden kann, schlage ich vor, einige [[schallgeschützte]] [[Telefonkabinen]] [[einzubauen]].
+
 
 

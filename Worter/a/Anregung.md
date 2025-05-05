@@ -26,4 +26,4 @@ A: die [[Anregung]], die [[Anregungen]]
 G: der [[Anregung]], der [[Anregungen]]
 D: der [[Anregung]], den [[Anregungen]]
 
-#Feminin 
+#Feminin , [[Anteil]]

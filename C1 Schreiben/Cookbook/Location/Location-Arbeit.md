@@ -1,75 +1,47 @@
 *[[Kochbuch-Rezepte]]*
 
-[[Thema-Zeitdruck]]
-[[Thema-Behinderung]]
-[[Thema-Burnout]]
-[[Thema-Datenschutz]]
-[[Thema-Essen]]
-[[Thema-Homeoffice]]
-[[Thema-KI]]
-[[Thema-Kommunikation]]
-[[Thema-Platzdruck]]
-[[Thema-Ruhe]]
-[[Thema-Umbauarbeiten-Umzug]]
-[[Thema-Utilities]]
-[[Thema-Verkehr]]
+---
+[[001-C1-Schreiben-T2]]
+- [[bevorstehende]] [[Präsentation]]
+- [[steht]] die [[Vorstellung]] des [[Projekt]]s [[bereits]]
+- Die [[Demoversion]] ist *seit drei Tagen* `im` *internen* [[Produktionssystem]] [[verfügbar]]
+- könnte [[dies]] den [[Auftrag]] [[gefährden]]
+- *monatelange* [[Vorarbeit]] [[aufs Spiel setzen]].
+- uns [[zusammensetzen]], um die [[offenen]] [[Punkt]]e zu [[klären]].
+
+[[002-C1-Schreiben-T2]]
+- [[Umzug]] unter [[Zeitdruck]]  
+- [[Bedürfnis]]se [[berücksichtigen]]
+- [[auswirkt|wirkt]] sich die [[Bürosituation]] [[erheblich]] `auf` meine Arbeit [[aus]].
+- [[nehme]] ich [[ständig]] `an` virtuellen Meetings `mit` externen Partnern [[teil]]
+- [[häufigen]] [[Gespräch]]e
+- die [[Konzentration]] der sechs Kolleg:innen [[beeinträchtigen]]
+- das [[Risiko]] bergen
+- [[sensible]] Informationen
+- von [[unbeteiligten]] [[Mitarbeitende]]n [[mitgehört]] werden
+- ein ruhiger, abgegrenzter Arbeitsplatz
+- der [[vertrauliche]] Gespräche ermöglicht
+- separates [[Büro]]
+- einige [[schallgeschützte]] [[Telefonkabinen]] [[einzubauen]]
+
+[[003-C1-Schreiben-T2]]
+- [[Team]] `durch` Herrn Muller `verstärkt` wird
+- [[Zurzeit]] [[leite]] ich ein Team (`von` *sechs Softwareingenieur:innen* `bei` der Entwicklung `jS`)
+-  (`durch` *den neuen Arbeitsplatz* `im` Büro) [[deutlich]] [[eng]]er geworden
+- [[Großraumbüro]] ist für sieben Personen [[ausgelegt]]
+- für *den neuen Kollegen* [[kaum]] [[Arbeitsraum]] [[vorhanden]] ist
+- Der [[vorhandene]] Raum ist sehr begrenzt
+- [[Konzentration]] aller erheblich [[beeinträchtigt]]
+- ein bis zwei Tagen pro Woche `im` [[Homeoffice]] zu arbeiten.
 
 
-*Wenn* 
-in dem neuen Raum [[Thema-Umbauarbeiten-Umzug]]
-*kein* 
-separates Büro [[Thema-Ruhe]], [[Thema-Datenschutz]], [[Thema-Kommunikation]]
-*angeboten werden kann,* 
-*schlage ich vor,* 
-ein paar Telefonzellen einzubauen.  [[Thema-Ruhe]], [[Thema-Datenschutz]], [[Thema-Kommunikation]]
+mir für ein Jahr eine vollständige Tätigkeit im Homeoffice zu ermöglichen.
 
-*Wenn* momentan
-*kein* 
-größeres Büro  [[Thema-Platzdruck]]
-*angeboten werden kann,* 
-*schlage ich vor,* 
-dem Team die Möglichkeit zu geben, 
-bis zu zwei Tagen pro Woche von zu Hause aus zu arbeiten. [[Thema-Homeoffice]]
+**to allow me to work fully from home for a year.**
 
-*Wenn* momentan
-*kein* 
-größeres Büro
-*angeboten werden kann,* 
-*schlage ich vor,* 
-dem Team die Möglichkeit zu geben, 
-bis zu zwei Tagen pro Woche [[Thema-Homeoffice]]
-- von zu Hause aus zu arbeiten.
-- im Homeoffice zu arbeiten.
 
-Wenn
-Sie keine Möglichkeit haben, 
-[[vorübergehend]] von zu Hause aus zu arbeiten, [[Thema-Homeoffice]]
-schlage ich vor, 
-den Hund während der Arbeitszeit in Betreuung zu geben. [[Thema-Ruhe]]
+- _mir dauerhaftes Homeoffice für ein Jahr zu erlauben._
 
-Wenn momentan
-kein
-Essenwagen [[Thema-Essen]]
-organisiert werden kann, 
-schlage ich vor, 
-ein Firmenangebot mit einem 
-Lieferdienst  [[Thema-Essen]]
-zu bereitzustellen.
+- _to allow me permanent home office for one year._
 
-Wenn [[momentan]] 
-keine längere Einführung [[Thema-Zeitdruck]]
-angeboten werden kann, 
-schlage ich vor, 
-uns die Möglichkeit zu geben, 
-bis zur angegebenen Frist mit der erprobten PowerPoint zu arbeiten. [[Thema-Technikprobleme]]
-
-Wenn momentan
-kein
-teilweise Homeoffice [[Thema-Homeoffice]]
-ermöglicht werden kann, 
-schlage ich vor, 
-ein Firmenangebot mit einem 
-Fahrradverleihdienst
-bereitzustellen,  [[Thema-Verkehr]]
-um die Anzahl der Parkplatzsuchenden zu reduzieren. [[Thema-Verkehr]]
 

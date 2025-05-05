@@ -22,7 +22,7 @@ Morpheme:
 [[Meister]]
 
 ---
-Einzigartige mögliche Formen: [[Meisters]], [[Meistern]], [[Meister]], [[Meistern]]
+Einzigartige mögliche Formen: [[Meisters]], [[meistern]], [[Meister]], [[meistern]]
 
 ---
 #Substantiv #Maskulin

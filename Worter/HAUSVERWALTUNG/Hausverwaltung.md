@@ -2,7 +2,8 @@
 die [[Hausverwaltungen]]
 
 ---
-mich offiziell an die [[Hausverwaltung]] zu wenden.
+Falls sich die Situation nicht ändert, würde ich mich leider [[veranlasst]] sehen, mich an die [[Hausverwaltung]] zu wenden. 
+
 
 ---
 = [[Immobilienverwaltung]], [[Verwaltung von Wohnhäusern]]

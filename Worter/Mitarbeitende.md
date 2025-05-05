@@ -17,7 +17,7 @@ employees, collaborators
 [[mitarbeiten]], [[Mitarbeit]], [[Mitarbeiter]]
 
 ---
-[[Mit]]|[[Worter/A/Arbeit]]|`en`|[[de]]
+[[Mit]]|[[Arbeit]]|`en`|[[de]]
 [[Mitarbeitende]]
 
 

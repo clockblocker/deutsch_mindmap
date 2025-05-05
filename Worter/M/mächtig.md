@@ -2,6 +2,11 @@
 [[mächtiger]]
 [[am]] [[mächtigsten]]
 
+*[[TD#^5|^]]* Jede Tötung durch einen **Frost Tower** hat die Chance, eine [[mächtige]] Nova [[auszulösen]], die [[außerdem]] eine 3-fache Chance hat, eine **[[Gefrierknall]]** [[auszulösen]]. ^5
+
+
+
+
  So lebte die Katze mit dem Löwen zusammen und glaubte, endlich den [[mächtigsten]] Begleiter gefunden zu haben. 
 
 nicht [[schwach]]

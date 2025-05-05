@@ -3,6 +3,8 @@
 💪 [[verstärken]], [fɛɐ̯ˈʃtɛʁkn̩](https://youglish.com/pronounce/verstärken/german) → [[verstärkte]] → haben [[verstärkt]]
 
 ---
+ich freue mich sehr, dass unser IT-Infrastruktur-Team durch Herrn Muller [[verstärkt]] wird. Neue [[Perspektive]]n und [[Kompetenz]]en sind immer ein [[Gewinn]]. ^1
+
 
 *[[03-C1-Schreiben-T2-M#^8|^]]* vor einer Woche wurde unser Grafik-Team durch den neuen Kollegen, Herrn Umuck, [[verstärkt]] und ich kann im [[Namen]] aller Kolleginnen und Kollegen sprechen, wenn ich sage, dass wir uns alle sehr freuen, Herrn Umuck im Team [[begrüßen]] zu [[dürfen]]. ^8
 

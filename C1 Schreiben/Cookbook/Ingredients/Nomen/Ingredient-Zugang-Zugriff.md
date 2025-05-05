@@ -12,9 +12,11 @@
 „Zugang `zu` Bildung ist ein Grundrecht.“ 
 
 [[Wasser]] / [[Internet]] (general)  
+
+[[Stromzugang]]
+
 Der [[Zugang]] `zu` [[Strom]] ist *für Studierende oft* [[eingeschränkt]]: 
  *In vielen Räumen der Universität gibt es nicht ausreichend* [[Steckdose]]n
- *Zahlreiche Räume sind unzureichend mit* [[Steckdose]]n [[ausgestattet]]
 *, was das Arbeiten mit Laptops [[erheblich]] erschwert*^2
 
 

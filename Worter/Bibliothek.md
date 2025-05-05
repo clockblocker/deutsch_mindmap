@@ -23,4 +23,4 @@ G: der [[Bibliothek]], der [[Bibliotheken]]
 D: der [[Bibliothek]], den [[Bibliotheken]]  
 
 ---
-[[bibliothekarisch]], [[Bibliothekar]], [[Bibliothekarin]], [[bibliophil]], [[Ausleihsystem]], [[Turnhalle]]
+[[bibliothekarisch]], [[Bibliothekar]], [[Bibliothekarin]], [[bibliophil]], [[Ausleihsystem]], [[Turnhalle]], [[Universitätsbibliothek]]

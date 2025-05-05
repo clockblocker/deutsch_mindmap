@@ -1,1 +1,1 @@
-, [[Beziehung]], [[Ehepartner]], [[Zusammenarbeit]]
+, [[Beziehung]], [[Ehepartner]], [[Zusammenarbeit]], [[Partner]]

@@ -83,4 +83,4 @@ Konjunktiv II:
 - Wenn sie hier wären, [[röchen]] sie die Gewürze.
 ```​⬤, [[toll]], [[Witterten]], [[Geruch]]
 , [[stinken]]
-, [[schnüffeln]]
+, [[schnüffeln]], [[Erschnüffeln]]

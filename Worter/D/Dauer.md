@@ -1,1 +1,1 @@
-, [[Dauerausstellung]], [[andauern]], [[Dauerverfügbarkeit]], [[dauerhaft]], [[Reisezeit]], [[Dauerlärm]]
+, [[Dauerausstellung]], [[andauern]], [[Dauerverfügbarkeit]], [[dauerhaft]], [[Reisezeit]], [[Dauerlärm]], [[Abklingzeit]]

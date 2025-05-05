@@ -1,8 +1,17 @@
 ---> 🧮 [[Grad-Quantität]] <---
+
 ✅ [[vorhanden]], [foɐ̯ˈhandn̩](https://youglish.com/pronounce/vorhanden/german) ≠ [[fehlend]]
 
 ---
+Unser Großraumbüro ist für sieben Personen [[ausgelegt]], [[sodass]] für den neuen Kollegen [[kaum]] Arbeitsraum [[vorhanden]] ist. 
+
+Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]. ^5
+
+
 Meine Naase ist mit Seife verstopft, und mein [[Riechsinn]] ist fast nicht [[vorhanden]].
+
+- für *den neuen Kollegen* [[kaum]] [[Arbeitsraum]] [[vorhanden]] ist
+-  Der [[vorhandene]] Raum ist sehr begrenzt
 
  Die typischen [[Textsortenmerkmale]] sollten [[vorhanden]] sein.
 

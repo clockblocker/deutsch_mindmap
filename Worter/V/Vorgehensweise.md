@@ -52,4 +52,4 @@ G: der [[Vorgehensweise]], der [[Vorgehensweisen]]
 D: der [[Vorgehensweise]], den [[Vorgehensweisen]]
 
 
-#Feminin 
+#Feminin , [[Spielweise]]

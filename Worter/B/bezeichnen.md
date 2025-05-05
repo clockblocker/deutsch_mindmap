@@ -3,6 +3,9 @@
 ---
 Ärzte werden auch als Doktoren [[bezeichnet]].
 
+Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
+
+
 *[[Große Koalition#^1|^]]* Als **Große Koalition** (auch **große Koalition**) wird in der Regel eine Regierungskoalition der [[mandatsstärksten]] Parteien im Parlament [[bezeichnet]]. ^1
 
 Will man jemanden [[beleidigen]], [[bezeichnet]] man ihn schon mal als „Schwein“. Aber wenn jemand „Schwein hat“, ist das ein Grund zur [[Freude]].

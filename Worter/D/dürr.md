@@ -1,1 +1,1 @@
-, [[nass]], [[trocken]], [[vollschlank]]
+, [[nass]], [[trocken]], [[vollschlank]], [[feucht]]

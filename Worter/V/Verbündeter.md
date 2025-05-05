@@ -1,1 +1,1 @@
-, [[Feind]], [[Gegnern]], [[Kontrahent]]
+, [[Feind]], [[Gegnern]], [[Kontrahent]], [[Partner]]

@@ -1,3 +1,5 @@
+---> [[Ingredient-Verb-Wachstum-Steigerung]] <---
+
 🏋️[[abnehmen]] + Akk, [ˈapneːmən]
 [[nahm ab|nahm ab]]  
 haben [[abgenommen]]
@@ -34,3 +36,4 @@ Partizip I: [[abnehmend]], Partizip II: [[abgenommen]]
 
 
 , [[schwinden]], [[anheften]], [[entfernen]], [[verringern]], [[absinken]], [[Diät]], [[beliefern]]
+

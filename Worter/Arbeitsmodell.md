@@ -16,10 +16,10 @@ work model
 модель работы
 
 ---
-[[Worter/A/Arbeit]], [[Modell]]
+[[Arbeit]], [[Modell]]
 
 ---
-[[Worter/A/Arbeit]]|`s`|[[modell]]
+[[Arbeit]]|`s`|[[modell]]
 [[Arbeitsmodell]]
 
 

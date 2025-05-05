@@ -1,6 +1,9 @@
 ⚖️ [[sodass]], [zoˈdas]
 
 ---
+Unser Großraumbüro ist für sieben Personen [[ausgelegt]], [[sodass]] für den neuen Kollegen [[kaum]] Arbeitsraum [[vorhanden]] ist. 
+
+
 (Ballt die Handschuhe zu [[Fäusten]], [[sodass]] Wasser aus ihnen tropft)
 
 [[1 Präpositionen Übungen.md#^1|(q)]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1

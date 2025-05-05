@@ -6,6 +6,9 @@
 *[[032-C1-Schreiben-T2#^7|^]]* [[Wiedergutmachung]]: bestelltes [[Büfett]] mit 20% [[Rabatt]] [[erneut]] [[liefern]], falsch [[geliefertes]] Büfett nicht bezahlen ^7
 
 
+Danach gilt eine globale [[Abklingzeit]] von 15 Sek., bevor der Effekt [[erneut]] [[eintreten]] kann.
+
+
 ---
 = [[verlängern]], [[auffrischen]], [[modernisieren]]
 ≈ [[aktualisieren]], [[restaurieren]], [[renovieren]]

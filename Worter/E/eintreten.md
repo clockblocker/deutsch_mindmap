@@ -1,10 +1,13 @@
 🚪 [[eintreten]] | [[trat ein|trat ein]], sein [[eingetreten]]
 
 ---
-[[Kaum]] der [[Wunsch]] gesprochen [[ward]],*  
-*als die Türe [[leise]] [[knarrt]]:*  
-*Zu den Mädchen, zu den drein,*  
-*[[eintreten|tritt]] der Zar des Landes ein.* 
+[[Kaum]] der [[Wunsch]] gesprochen [[ward]],
+als die Türe [[leise]] [[knarrt]]:
+Zu den Mädchen, zu den drein,
+[[eintreten|tritt]] der Zar des Landes ein.
+
+Danach gilt eine globale [[Abklingzeit]] von 15 Sek., bevor der Effekt [[erneut]] [[eintreten]] kann.
+
 
 ---
 Synonyme: [[betreten]], [[hereinkommen]], [[hereintreten]], [[hineintreten]], [[eindringen]]

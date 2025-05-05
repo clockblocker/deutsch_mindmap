@@ -1,2 +1,2 @@
 🔑 [[aufschließen]]
-, [[schmollen]], [[hilfsbereit]]
+, [[schmollen]], [[hilfsbereit]], [[offen]]

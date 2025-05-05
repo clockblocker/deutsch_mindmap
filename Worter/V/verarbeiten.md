@@ -14,10 +14,10 @@ to process, to handle
 обрабатывать, перерабатывать
 
 ---
-[[Worter/A/Arbeit]], [[verarbeitet]], [[Verarbeitung]], [[bearbeiten]]
+[[Arbeit]], [[verarbeitet]], [[Verarbeitung]], [[bearbeiten]]
 
 ---
-[[ver]]|[[Worter/A/Arbeit]]|[[en]]
+[[ver]]|[[Arbeit]]|[[en]]
 [[ver]] + [[arbeiten]]
 
 

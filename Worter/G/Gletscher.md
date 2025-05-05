@@ -4,6 +4,8 @@ die [[Gletscher]]
 ---
 Es ist ja nicht so, als müsste man nur am zweiten [[Gletscher]] rechts abbiegen. Sie wohnen am anderen Ende der Welt!
 
+###### [[Gletscher]]-Nova  
+
 ---
 Synonyme:
 - [[Eisstrom]], [[Eisschild]], [[Eisberg]], [[Firnfeld]]
@@ -28,4 +30,4 @@ Zusätzliche Informationen:
 
 Beispielsätze:
 - Der Gletscher in den Alpen schmilzt aufgrund der Klimaerwärmung.
-- Wissenschaftler untersuchen die Bewegung des Gletschers., [[s1 e1]], [[Schmelzwasser]]
+- Wissenschaftler untersuchen die Bewegung des Gletschers., [[s1 e1]], [[Schmelzwasser]], [[Lichtsäule]]

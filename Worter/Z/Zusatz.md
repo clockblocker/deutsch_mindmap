@@ -1,1 +1,1 @@
-, [[anfügen]], [[hinzufügen]], [[Hauptbereich]], [[Zubehör]], [[Grundvoraussetzung]]
+, [[anfügen]], [[hinzufügen]], [[Hauptbereich]], [[Zubehör]], [[Grundvoraussetzung]], [[Zusatzqualifikation]]

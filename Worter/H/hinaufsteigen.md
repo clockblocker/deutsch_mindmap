@@ -1,1 +1,1 @@
-, [[versteigen]]
+, [[versteigen]], [[erklimmen]]

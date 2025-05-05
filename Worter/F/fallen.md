@@ -1,6 +1,9 @@
 🍂 [[fallen]], [ˈfalən] | [[fiel]], sein [[gefallen]]
 
 ---
+*[[C1-Lesen-1-001-Text#^19|^]]* Es hat sich [[gelohnt]]: Aus einer Metallbox [[fällt]] ihr ein [[Leckerbissen]] vor die [[Füße]]. ^19
+
+
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
 
 ---

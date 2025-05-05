@@ -27,4 +27,4 @@ Morpheme: [[Worter/Ü/über]][[trag]][[en]]
 
 Partizip I: [[übertragend]], Partizip II: [[übertragen]]
 [[übertragen]] - [[Worter/Ü/über]] = [[tragen]]
-''', [[funkten]], [[s1 e1]], [[versenden]], [[vermitteln]]
+''', [[funkten]], [[s1 e1]], [[versenden]], [[vermitteln]], [[infizieren]]

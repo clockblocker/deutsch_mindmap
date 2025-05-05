@@ -1,1 +1,1 @@
-, [[Verkauf]], [[Pitch]]
+, [[Verkauf]], [[Pitch]], [[Kundengespräch]]

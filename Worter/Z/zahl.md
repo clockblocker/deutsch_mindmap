@@ -27,4 +27,6 @@ D: der [[Zahl]], den [[Zahlen]]
 
 , [[zahlreiche]], [[bezahlen]], [[Gehaltszahlungen]], [[Steuerzahler]]
 , [[Mengenangabe]], [[auszahlen]]
-, [[Zahlung]], [[Vielzahl]], [[Million]]
+, [[Zahlung]], [[Vielzahl]], [[Million]], [[Besucherzahl]]
+
+#Feminin 

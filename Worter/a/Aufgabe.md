@@ -28,7 +28,7 @@ D: der [[Aufgabe]], den [[Aufgaben]]
 
 ---
 [[aufgeben]], [[aufgabenorientiert]], [[aufgabenlos]], [[Aufgabenheft]]
-, [[Problem]], [[Tätigkeit]], [[Pflicht]], [[Verantwortung]], [[Herausforderung]], [[Anspruch]], [[Stelle]], [[Bewerb]], [[Verpflichtung]], [[Hauptaufgabe]], [[Worter/A/Arbeit]], [[Lückentext]]
+, [[Problem]], [[Tätigkeit]], [[Pflicht]], [[Verantwortung]], [[Herausforderung]], [[Anspruch]], [[Stelle]], [[Bewerb]], [[Verpflichtung]], [[Hauptaufgabe]], [[Arbeit]], [[Lückentext]]
 , [[Freizeitaktivität]]
 , [[Versuch]]
 , [[Angelegenheit]]
@@ -36,4 +36,4 @@ D: der [[Aufgabe]], den [[Aufgaben]]
 , [[Schularbeit]]
 , [[aufmachen]], [[Erhalt]], [[bestreben]], [[Aufgabenerfüllung]], [[Aufgabengerechtigkeit]], [[Anhieb]], [[Anhieb]], [[Projekt]]
 
-#Feminin , [[Arbeitsschritt]], [[Zuständigkeit]]
+#Feminin , [[Arbeitsschritt]], [[Zuständigkeit]], [[Aufgabenbereich]]

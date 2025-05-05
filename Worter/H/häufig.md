@@ -5,6 +5,8 @@
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 
+Meine [[häufig]]en [[Gespräch]]e würden nicht nur die Konzentration der sechs Kolleg:innen [[beeinträchtigen]], sondern auch das Risiko [[bergen]], dass [[sensible]] [[Information]]en von [[unbeteiligten]] [[Mitarbeitende]]n [[mitgehört]] werden.
+
 *[[042-C1-Schreiben-T2#^1|^]]* Ihr eigener Laptop ist jedoch sehr langsam, [[häufig]] gibt es Softwareprobleme, und Videokonferenzen sind kaum möglich. ^1
 
 

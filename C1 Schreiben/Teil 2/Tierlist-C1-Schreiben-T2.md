@@ -63,8 +63,8 @@
 - [x] [[004-C1-Schreiben-T2|004]]
 - [x] [[005-C1-Schreiben-T2|005]]
 - [x] [[006-C1-Schreiben-T2|006]]
-- [ ] [[007-C1-Schreiben-T2|007]]
-- [ ] [[008-C1-Schreiben-T2|008]]
+- [x] [[007-C1-Schreiben-T2|007]]
+- [x] [[008-C1-Schreiben-T2|008]]
 
 - [ ] [[011-C1-Schreiben-T2|011]]
 - [ ] [[012-C1-Schreiben-T2|012]]

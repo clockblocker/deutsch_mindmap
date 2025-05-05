@@ -1,7 +1,7 @@
 ⏳ [[bevorstehen]], [bəˈfoːɐ̯ˌʃteːən](https://youglish.com/pronounce/bevorstehen/german) → [[stand bevor]] → [[bevorgestanden]]
 
 ---
-[[bevorstehende]] Präsentation
+ich wende mich an Sie, um auf unsere [[bevorstehende]] Präsentation noch einmal einzugehen.
 
 ---
 = [[anstehen]], [[erwarten]], [[bevorliegen]]
