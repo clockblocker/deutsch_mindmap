@@ -6,7 +6,7 @@
 
 ---
 = [[Bildungsfreistellung]], [[Weiterbildungsurlaub]]
-≈ [[Urlaub]], [[Freizeit]], [[Seminar]], [[Kurs]]
+≈ [[Urlaub]], [[Worter/F/Freizeit]], [[Seminar]], [[Kurs]]
 ≠ [[Arbeit]], [[Dienst]]
 
 ---

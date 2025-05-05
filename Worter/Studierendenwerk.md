@@ -14,7 +14,7 @@ student union, student services
 студенческий союз, студенческий городок
 
 ---
-[[Student]], [[Werk]], [[Studium]], [[Universität]]
+[[Student]], [[Werk]], [[Worter/S/Studium]], [[Universität]]
 
 ---
 [[Studierend]]|[[en]]|[[werk]]

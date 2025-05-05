@@ -6,7 +6,7 @@
 ---
 = [[Arbeitsaufwand]], [[Arbeitsdruck]]
 ≈ [[Stress]], [[Überlastung]], [[Pensum]]
-≠ [[Entlastung]], [[Freizeit]]
+≠ [[Entlastung]], [[Worter/F/Freizeit]]
 
 ---
 workload, work pressure  

@@ -8,7 +8,7 @@ die [[Kurse]] | die [[Kurse]]
 ---
 = [[Lehrgang]], [[Seminar]] | [[Wechselkurs]], [[Preis]]
 ≈ [[Schulung]], [[Training]] | [[Wert]], [[Notierung]]
-≠ [[Freizeit]] | [[Verlust]]
+≠ [[Worter/F/Freizeit]] | [[Verlust]]
 
 ---
 course  | exchange rate  

@@ -8,7 +8,7 @@ die [[Landessprachen]]
 
 ---
 = [[Amtssprache]], [[Nationalsprache]]
-≈ [[Muttersprache]], [[Sprache]]
+≈ [[Muttersprache]], [[Worter/S/Sprache]]
 ≠ [[Fremdsprache]]
 
 ---
@@ -16,7 +16,7 @@ national language, official language
 государственный язык
 
 ---
-[[Land]], [[Sprache]], [[national]], [[amtlich]]
+[[Land]], [[Worter/S/Sprache]], [[national]], [[amtlich]]
 
 ---
 [[Land]]|[[es]]|[[sprach]]|[[e]]

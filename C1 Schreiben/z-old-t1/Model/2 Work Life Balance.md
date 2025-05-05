@@ -26,7 +26,7 @@ Am wichtigsten ist es meiner Meinung nach jedoch, dass wir selbst dafür sorgen,
 
 *[[2 Work Life Balance#^3|^]]* _Oft leiden wir unter enormem Druck bei der Arbeit._ [[Überstunden]] _, ständige_ [[Erreichbarkeit]] _für den Arbeitgeber und_ [[Wochenendarbeit]] _sind keine_ [[Seltenheit]] _mehr. ^3
 
-*[[2 Work Life Balance#^4|^]]* _Diese_ [[Umstände]] _führen jedoch oft dazu, dass der Mensch nicht mehr_ [[abschalten]] _kann und sein Privatleben_ [[vernachlässigt]] _. Unruhiger und zu wenig Schlaf, eine ungesunde_ [[Ernährung]] _und der permanente Stress sind häufige Folgen, die den Körper_ [[ausbrennen]] _und ihn krank machen. ^4
+*[[2 Work Life Balance#^4|^]]* _Diese_ [[Umstände]] _führen jedoch oft dazu, dass der Mensch nicht mehr_ [[abschalten]] _kann und sein Privatleben_ [[vernachlässigt]] _. Unruhiger und zu wenig Schlaf, eine ungesunde_ [[Worter/E/Ernährung]] _und der permanente Stress sind häufige Folgen, die den Körper_ [[ausbrennen]] _und ihn krank machen. ^4
 
 *[[2 Work Life Balance#^5|^]]* _Nicht selten leiden diese Menschen auch unter psychischen Problemen wie Depression oder Burn-out. ^5
 
@@ -76,7 +76,7 @@ Am wichtigsten ist es meiner Meinung nach jedoch, dass wir selbst dafür sorgen,
 - [[Überstunden]], ständige [[Erreichbarkeit]] und [[Wochenendarbeit]]
 - leiden unter enormem [[Druck]] 
 - der Mensch nicht mehr [[abschalten]] kann
-- [[Unruhiger]] Schlaf und ungesunde [[Ernährung]], permanente Stress 
+- [[Unruhiger]] Schlaf und ungesunde [[Worter/E/Ernährung]], permanente Stress 
 - Burn-out  = [[den Körper ausbrennen]]
 - Wenig Schlaf, der permanente Stress und Problemen wie Depression oder Burn-out
 - ausgewogenes Leben

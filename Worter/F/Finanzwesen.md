@@ -6,7 +6,7 @@
 
 ---
 = [[Finanzwirtschaft]], [[Finanzsektor]]
-≈ [[Geldwesen]], [[Wirtschaft]], [[Bankwesen]]
+≈ [[Geldwesen]], [[Worter/W/Wirtschaft]], [[Bankwesen]]
 ≠ [[Privatwirtschaft]]
 
 ---

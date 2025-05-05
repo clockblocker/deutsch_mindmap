@@ -8,7 +8,7 @@
 ---
 Heutigstage leiden viele Personnen unter dem enormen Arbeitsdruck: die [[Überstunden]] in den Firmen, zweite arbeitplatye und die [[konstant]] Versuch sein Skills zu verbessern sind die *häufigsten Erscheinungen in einer modernen Gesellschaft.* 
 
-Aber was passiert, wenn man kein Zeit sich zu entspannen hat und sein Leben nur auf die Arbeitsaktivitäten reduziert? Zuerst akkumuliert man den [[Stress]] in seinem [[Körper]], dann verliert man die Fähigkeit Arbeit- und Privatzeit zu trennen und sein Sozlialleben verkleinert sich. Durch diese Ergabnissen lieden die physische and psychische Gesundkeit, bekommt man die Moglichkeiten für Burnout uns sogar auch Depression.
+Aber was passiert, wenn man kein Zeit sich zu entspannen hat und sein Leben nur auf die Arbeitsaktivitäten reduziert? Zuerst akkumuliert man den [[Stress]] in seinem [[Worter/K/Körper]], dann verliert man die Fähigkeit Arbeit- und Privatzeit zu trennen und sein Sozlialleben verkleinert sich. Durch diese Ergabnissen lieden die physische and psychische Gesundkeit, bekommt man die Moglichkeiten für Burnout uns sogar auch Depression.
 
 Es stellt sich die Frage: wenn die lack von Work-Life-Balance solche [[schreckliche]] Folgen hat, gitbt es filleicht etwas, das die Menchen dagegen tun könnte?
 

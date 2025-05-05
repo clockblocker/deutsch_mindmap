@@ -6,7 +6,7 @@ Argumente
 
 ---
 = [[Vokabular]], [[Lexikon]], [[Wortbestand]]
-≈ [[Sprache]], [[Wörter]], [[Ausdruck]]
+≈ [[Worter/S/Sprache]], [[Wörter]], [[Ausdruck]]
 ≠ [[Sprachlosigkeit]], [[Wortarmut]]
 
 ---

@@ -5,7 +5,7 @@ MBA
 
 ---
 = [[Master of Business Administration]]
-≈ [[Studium]], [[Management]], [[Wirtschaft]]
+≈ [[Worter/S/Studium]], [[Management]], [[Worter/W/Wirtschaft]]
 ≠ [[keine]]
 
 ---

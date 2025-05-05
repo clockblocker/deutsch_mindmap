@@ -7,7 +7,7 @@ die [[Bürosituationen]]
 ---
 = [[Büroumgebung]], [[Arbeitssituation im Büro]]
 ≈ [[Arbeitsplatz]], [[Umgebung]], [[Situation]]
-≠ [[Freizeit]], [[Urlaub]]
+≠ [[Worter/F/Freizeit]], [[Urlaub]]
 
 ---
 office situation  

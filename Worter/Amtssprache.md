@@ -15,7 +15,7 @@ official language
 официальный язык
 
 ---
-[[Amt]], [[Sprache]], [[amtlich]], [[offiziell]]
+[[Amt]], [[Worter/S/Sprache]], [[amtlich]], [[offiziell]]
 
 ---
 [[Amt]]|`s`|[[sprach]]|[[e]]

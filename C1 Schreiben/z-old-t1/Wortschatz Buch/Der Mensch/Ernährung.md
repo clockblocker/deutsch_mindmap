@@ -214,7 +214,7 @@
 *In* [[Reformhäusern]] *findet man Lebensmittel, die in normalen Supermärkten oft nicht erhältlich sind, z. B. seltene Getreidesorten.*
 
 ## Ernährung
-###### sich [[ernähren]] von + D → die [[C1 Schreiben/Teil 1/Wortschatz Buch/Der Mensch/Ernährung]]
+###### sich [[ernähren]] von + D → die [[C1 Schreiben/z-old-t1/Wortschatz Buch/Der Mensch/Ernährung]]
 *Die frühen Menschen* [[ernährten]] *sich überwiegend von Wurzeln, Beeren und anderen Früchten, die sie im Wald finden konnten.*
 
 ###### sich [[gesund]] ernähren → [[gesunde]] Ernährung

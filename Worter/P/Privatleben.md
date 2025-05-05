@@ -8,7 +8,7 @@
 
 ---
 = [[Privatsphäre]], [[persönliches Leben]]
-≈ [[Freizeit]], [[Familie]], [[Freunde]]
+≈ [[Worter/F/Freizeit]], [[Familie]], [[Freunde]]
 ≠ [[Berufsleben]], [[Öffentlichkeit]]
 
 ---

@@ -5,7 +5,7 @@
 
 
 ---
-= [[Technik]], [[Verfahren]], [[Wissenschaft]]
+= [[Worter/T/Technik]], [[Verfahren]], [[Worter/W/Wissenschaft]]
 ≈ [[Innovation]], [[Fortschritt]], [[Entwicklung]]
 ≠ [[Rückschritt]], [[Verzögerung]]
 

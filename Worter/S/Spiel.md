@@ -5,7 +5,7 @@ und damit monatelange Vorarbeit [[aufs Spiel setzen]].
 
 ---
 = [[Match]], [[Wettkampf]], [[Duell]]
-≈ [[Unterhaltung]], [[Freizeit]], [[Vergnügen]], [[Sport]]
+≈ [[Unterhaltung]], [[Worter/F/Freizeit]], [[Vergnügen]], [[Worter/S/Sport]]
 ≠ [[Arbeit]], [[Ernst]]
 
 ---

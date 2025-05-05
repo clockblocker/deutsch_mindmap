@@ -7,7 +7,7 @@ die [[Arbeitsumgebungen]]
 ---
 = [[Arbeitsplatz]], [[Arbeitsbereich]]
 ≈ [[Büro]], [[Umwelt]]
-≠ [[Freizeit]]
+≠ [[Worter/F/Freizeit]]
 
 ---
 work environment  

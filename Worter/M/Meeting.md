@@ -10,7 +10,7 @@ Als Projektmanager [[teilnehmen|nehme]] ich [[ständig]] an [[virtuell]]en [[Mee
 ---
 = [[Besprechung]], [[Konferenz]], [[Zusammentreffen]]
 ≈ [[Veranstaltung]], [[Termin]], [[Gespräch]]
-≠ [[Freizeit]], [[Pause]]
+≠ [[Worter/F/Freizeit]], [[Pause]]
 
 , [[Besprechung]]
 , [[Verabredung]]

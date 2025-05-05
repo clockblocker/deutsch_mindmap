@@ -8,7 +8,7 @@ die [[Arbeitszeiten]]
 ---
 = [[Dienstzeit]], [[Beschäftigungszeit]]
 ≈ [[Arbeitsstunden]], [[Tätigkeit]], [[Beruf]]
-≠ [[Freizeit]], [[Urlaub]], [[arbeitsfrei]]
+≠ [[Worter/F/Freizeit]], [[Urlaub]], [[arbeitsfrei]]
 
 ---
 working hours, working time  
@@ -18,7 +18,7 @@ working hours, working time
 [[arbeiten]], [[Arbeit]], [[Arbeiter]], [[arbeitsfähig]], [[Arbeitsvertrag]], [[Arbeitsplatz]]
 
 ---
-[[Arbeit]]|`s`|[[zeit]]
+[[Arbeit]]|`s`|[[Worter/Z/zeit]]
 [[Arbeitszeit]]
 
 

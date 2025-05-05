@@ -23,4 +23,4 @@ G: des [[Schnupfens]], der [[Schnupfen]]
 D: dem [[Schnupfen]], den [[Schnupfen]]  
 
 ---
-[[schnupfen]], [[schnupfig]], [[erkälten]], [[niesen]], [[Gesundheit]]
+[[schnupfen]], [[schnupfig]], [[erkälten]], [[niesen]], [[Worter/G/Gesundheit]]

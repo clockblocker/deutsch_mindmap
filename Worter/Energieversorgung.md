@@ -14,11 +14,11 @@ energy supply
 энергоснабжение
 
 ---
-[[Energie]], [[versorgen]], [[Versorgung]], [[Energieerzeugung]], [[Energiewirtschaft]]
+[[Worter/E/Energie]], [[versorgen]], [[Versorgung]], [[Energieerzeugung]], [[Energiewirtschaft]]
 
 ---
-[[Energie]]|[[versorg]]|[[ung]]
-[[Energie]] + [[Versorgung]]
+[[Worter/E/Energie]]|[[versorg]]|[[ung]]
+[[Worter/E/Energie]] + [[Versorgung]]
 
 
 ---

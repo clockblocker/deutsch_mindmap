@@ -7,7 +7,7 @@ die [[Reisezeiten]]
 
 ---
 = [[Fahrtzeit]], [[Reisedauer]]
-≈ [[Zeit]], [[Dauer]], [[Reise]]
+≈ [[Worter/Z/zeit]], [[Dauer]], [[Reise]]
 ≠ (none)
 
 ---
@@ -15,10 +15,10 @@ travel time
 время в пути
 
 ---
-[[Reise]], [[Zeit]]
+[[Reise]], [[Worter/Z/zeit]]
 
 ---
-[[Reise]]|[[zeit]]|[[en]]
+[[Reise]]|[[Worter/Z/zeit]]|[[en]]
 [[Reisezeiten]]
 
 

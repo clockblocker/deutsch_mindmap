@@ -25,4 +25,4 @@ D: der [[Grippe]], den [[Grippen]]
 [[grippal]], [[erkranken]], [[ansteckend]], [[infizieren]], [[fiebern]]
 
 [[Schnupfen]]
-, [[Gesundheit]]
+, [[Worter/G/Gesundheit]]

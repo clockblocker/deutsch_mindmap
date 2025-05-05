@@ -22,6 +22,6 @@ G: der [[Behinderung]], der [[Behinderungen]]
 D: der [[Behinderung]], den [[Behinderungen]]  
 
 ---
-[[behindern]], [[behindert]], [[Behindertenrecht]], [[Behindertenausweis]], [[behindertengerecht]], [[stau]], [[mithilfe]], [[Hindernis]], [[Förderung]], [[Hemmung]], [[Gesundheit]]
+[[behindern]], [[behindert]], [[Behindertenrecht]], [[Behindertenausweis]], [[behindertengerecht]], [[stau]], [[mithilfe]], [[Hindernis]], [[Förderung]], [[Hemmung]], [[Worter/G/Gesundheit]]
 
 #Feminin 

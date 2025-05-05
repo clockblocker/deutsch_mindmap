@@ -6,7 +6,7 @@
 
 ---
 = [[Dienstschluss]], [[Arbeitsende]]
-≈ [[Freizeit]], [[Erholung]], [[Auszeit]]
+≈ [[Worter/F/Freizeit]], [[Erholung]], [[Auszeit]]
 ≠ [[Arbeitsbeginn]], [[Arbeitszeit]]
 
 ---

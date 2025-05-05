@@ -1,5 +1,5 @@
 , [[Krankenkasse]], [[Gesundheitsamt]], [[Behinderung]], [[Fieber]], [[Schnupfen]], [[Grippe]], [[Wohlbefinden]]
-❤️ 🔴 die [[Gesundheit]], [ɡəˈzʊnthaɪ̯t](https://youglish.com/pronounce/Gesundheit/german)
+❤️ 🔴 die [[Worter/G/Gesundheit]], [ɡəˈzʊnthaɪ̯t](https://youglish.com/pronounce/Gesundheit/german)
 
 ---
 Beschäftigte
@@ -18,14 +18,14 @@ health
 
 ---
 [[Gesund]]|[[heit]]
-[[Gesundheit]]
+[[Worter/G/Gesundheit]]
 
 
 ---
-N: die [[Gesundheit]], -
-A: die [[Gesundheit]], -
-G: der [[Gesundheit]], -
-D: der [[Gesundheit]], -
+N: die [[Worter/G/Gesundheit]], -
+A: die [[Worter/G/Gesundheit]], -
+G: der [[Worter/G/Gesundheit]], -
+D: der [[Worter/G/Gesundheit]], -
 
 
 #Feminin 

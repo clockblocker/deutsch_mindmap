@@ -6,7 +6,6 @@
       {
         "id": "c2dc3b2a30a47989",
         "type": "tabs",
-        "dimension": 62.825278810408925,
         "children": [
           {
             "id": "8afb97d75f8a3e15",
@@ -28,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/021-C1-Schreiben-T2.md",
+                "file": "C1 Schreiben/z-old-t1/Meta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "021-C1-Schreiben-T2"
+              "title": "Meta"
             }
           },
           {
@@ -52,27 +51,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "049c81dcb7ecd4d3",
-        "type": "tabs",
-        "dimension": 37.174721189591075,
-        "children": [
-          {
-            "id": "d2be8ecea114e515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Vorschlag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Section-Teil-2-Vorschlag"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 335.5026054382324
   },
   "right": {
     "id": "5551a767f2afb90d",
@@ -239,42 +217,42 @@
   },
   "active": "9ce40f2a7c65f6c5",
   "lastOpenFiles": [
-    "Worter/Heiztemperatur.md",
-    "Worter/ABKÜHLUNG/Abkühlung.md",
-    "Worter/ABKÜHLUNG",
-    "Worter/WÄRME/Wärme.md",
-    "Worter/WÄRME",
-    "Worter/TEMPERATUR/Temperatur.md",
-    "Worter/TEMPERATUR",
-    "Worter/RAUMTEMPERATUR/Raumtemperatur.md",
-    "Worter/RAUMTEMPERATUR",
-    "Worter/HEIZTEMPERATUREN/Heiztemperaturen.md",
-    "Worter/HEIZTEMPERATUREN",
-    "C1 Schreiben/Teil 2/Texte/Arbeit/021-C1-Schreiben-T2.md",
-    "C1 Schreiben/Cookbook/Format/Sections/Teil-2/Section-Teil-2-Vorschlag.md",
-    "C1 Schreiben/Cookbook/Format/Format-Teil-2-Komplaint.md",
-    "C1 Schreiben/Teil 2/Texte/Arbeit/009-C1-Schreiben-T2.md",
-    "C1 Schreiben/Teil 2/T2-Schreiben-Ubungen.md",
+    "C1 Schreiben/Teil 1/GPT Tier List C1 Prüfung Teil 1.md",
+    "C1 Schreiben/z-old-t1/Wortschatz Teil 1.md",
+    "C1 Schreiben/Teil 1/Рыба Teil 1.md",
+    "C1 Schreiben/z-old-t1/Arbeit Lego.md",
+    "C1 Schreiben/z-old-t1/Anki.md",
+    "C1 Schreiben/Teil 1/Alt/Alltagsleben/Beziehungen.md",
+    "C1 Schreiben/z-old-t1/Wortschatz Buch/Alltagsleben/Zeit.md",
+    "C1 Schreiben/z-old-t1/Wortschatz Buch/Alltagsleben/Geld.md",
+    "C1 Schreiben/z-old-t1/Wortschatz Buch/Alltagsleben/Freizeit.md",
+    "C1 Schreiben/z-old-t1/Wortschatz Buch/Alltagsleben/Beziehungen.md",
+    "C1 Schreiben/z-old-t1/Wortschatz Buch/Alltagsleben/Arbeit und Beruf.md",
+    "C1 Schreiben/z-old-t1/Wortschatz Buch/Alltagsleben",
+    "C1 Schreiben/Teil 1/Wortschatz Buch",
+    "C1 Schreiben/Teil 1/Alt/Alltagsleben/Arbeit und Beruf.md",
+    "C1 Schreiben/z-old-t1/Mein/1 Brauchen wir Kohlekraftwerke?.md",
+    "C1 Schreiben/z-old-t1/Subthemen/Bildungsgerechtigkeit.md",
+    "C1 Schreiben/z-old-t1/Subthemen/Soziale Medien & Kommunikation.md",
+    "C1 Schreiben/Teil 1/exc/Arbeit.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Klima.md",
+    "C1 Schreiben/Teil 1/Texte/001-C1-Schreiben-T1.md",
+    "C1 Schreiben/Teil 1/Texte/000-C1-Schreiben-T1.md",
     "C1 Schreiben/Teil 2/Texte/Arbeit/005-C1-Schreiben-T2.md",
-    "C1 Lesen/C1-Lesen-Teil-1/Lochtype/Lesen-Teil-1-Verb.md",
-    "C1 Schreiben/Cookbook/Kochbuch-Rezepte.md",
-    "C1 Schreiben/Teil 2/Texte/Arbeit/001-C1-Schreiben-T2.md",
-    "C1 Schreiben/Teil 2/Texte/Arbeit/002-C1-Schreiben-T2.md",
-    "Worter/A/Arbeit.md",
-    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-1-001/C1-Lesen-1-001-Text.md",
-    "Worter/E/ebenso.md",
-    "Worter/Z/zuverlässig.md",
-    "Worter/Speichelproben.md",
-    "Worter/Speichelprobe.md",
-    "Worter/ERSCHNÜFFELTEN/erschnüffelten.md",
-    "Worter/E/Erschnüffeln.md",
-    "Worter/SPEICHELUNTERSUCHUNG/Speicheluntersuchung.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Social-Medien.md",
+    "C1 Schreiben/z-old-t1/Mein/5 Work-Life-Balance.md",
+    "C1 Schreiben/z-old-t1/Mein/4 Home-Office.md",
+    "C1 Schreiben/z-old-t1/Mein/2 Verliert eine Vielzahl von Sprachen ihre Bedeutung?.md",
+    "C1 Schreiben/z-old-t1/Mein/7 Soll Englisch zweite Behördensprache in Deutschland werden?.md",
+    "C1 Schreiben/z-old-t1/Mein/6 Sollte das Internet stärker reguliert werden?.md",
+    "C1 Schreiben/z-old-t1",
+    "Worter/ABKÜHLUNG",
+    "Worter/WÄRME",
+    "Worter/TEMPERATUR",
+    "Worter/RAUMTEMPERATUR",
+    "Worter/HEIZTEMPERATUREN",
     "Worter/SPEICHELUNTERSUCHUNG",
-    "Worter/I/insgesamt.md",
     "Worter/EINWÖCHIGSTEM",
-    "Worter/EINWÖCHIGSTEN",
-    "Worter/EINWÖCHIGSTE",
-    "Worter/EINWÖCHIGSTES",
     "Anhänge/Pasted Image 20250418092802_863.png",
     "Anhänge/Pasted Image 20250418073845_878.png",
     "Anhänge/Pasted Image 20250418071644_618.png",

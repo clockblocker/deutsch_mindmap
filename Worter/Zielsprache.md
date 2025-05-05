@@ -7,7 +7,7 @@ die [[Zielsprachen]]
 
 ---
 = [[Übersetzungssprache]]
-≈ [[Fremdsprache]], [[Sprache]]
+≈ [[Fremdsprache]], [[Worter/S/Sprache]]
 ≠ [[Ausgangssprache]], [[Muttersprache]]
 
 ---
@@ -15,7 +15,7 @@ target language
 целевой язык
 
 ---
-[[Ziel]], [[Sprache]], [[übersetzen]], [[lernen]]
+[[Ziel]], [[Worter/S/Sprache]], [[übersetzen]], [[lernen]]
 
 ---
 [[Ziel]]|[[sprach]]|[[e]]

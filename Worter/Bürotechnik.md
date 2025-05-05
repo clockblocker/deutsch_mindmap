@@ -14,10 +14,10 @@ office technology
 офисная техника
 
 ---
-[[Büro]], [[Technik]], [[Büroausstattung]], [[Bürogerät]]
+[[Büro]], [[Worter/T/Technik]], [[Büroausstattung]], [[Bürogerät]]
 
 ---
-[[Büro]]|[[technik]]
+[[Büro]]|[[Worter/T/Technik]]
 [[Bürotechnik]]
 
 

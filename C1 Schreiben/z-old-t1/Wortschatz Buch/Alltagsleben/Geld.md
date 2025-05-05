@@ -28,7 +28,7 @@
 *Das Ehepaar geht zur Bank, um ein gemeinsames* [[Konto]] *zu* [[eröffnen]], *auf das beide Partner Zugriff haben.*
 
 ###### Geld auf ein Konto [[einzahlen]]
-*Wenn Sie ein Konto eröffnen wollen, müssen Sie* [[C1 Schreiben/Teil 1/Wortschatz Buch/Alltagsleben/Geld]] *auf dieses* [[Konto]] [[einzahlen]].
+*Wenn Sie ein Konto eröffnen wollen, müssen Sie* [[C1 Schreiben/z-old-t1/Wortschatz Buch/Alltagsleben/Geld]] *auf dieses* [[Konto]] [[einzahlen]].
 
 ###### Geld von einem Konto [[abheben]]
 *Informieren Sie vorher Ihre Bank, wenn Sie eine große Geldsumme von Ihrem* [[Konto]] [[abheben]] *möchten.*
@@ -37,7 +37,7 @@
 *Um die Autoreparatur zu bezahlen, muss ich diesen Monat mein* [[Konto]] [[überziehen]].
 
 ###### Geld [[anlegen]] → die [[Geldanlage]], -anlagen
-*Wer kein großes Risiko eingehen möchte, legt sein* [[C1 Schreiben/Teil 1/Wortschatz Buch/Alltagsleben/Geld]] *in Immobilien* [[an]].
+*Wer kein großes Risiko eingehen möchte, legt sein* [[C1 Schreiben/z-old-t1/Wortschatz Buch/Alltagsleben/Geld]] *in Immobilien* [[an]].
 
 ###### der [[Zins]], Zinsen
 *Da man für das Geld auf einem Sparkonto nur sehr niedrige* [[Zinsen]] *bekommt, investieren die Menschen ihr Geld lieber in Aktien.*

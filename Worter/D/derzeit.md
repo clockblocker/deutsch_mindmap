@@ -19,10 +19,10 @@ currently, at present
 в настоящее время, в данный момент
 
 ---
-[[Zeit]], [[Zeitraum]], [[zeitig]], [[derzeitig]]
+[[Worter/Z/zeit]], [[Zeitraum]], [[zeitig]], [[derzeitig]]
 
 ---
-[[der]]|[[zeit]]
+[[der]]|[[Worter/Z/zeit]]
 [[derzeit]]
 
 

@@ -6,7 +6,7 @@
 
 ---
 = [[Verkehrsmenge]], [[Verkehrsbelastung]]
-≈ [[Verkehr]], [[Transport]], [[Mobilität]]
+≈ [[Worter/V/Verkehr]], [[Transport]], [[Mobilität]]
 ≠ [[Verkehrsberuhigung]]
 
 ---
@@ -14,10 +14,10 @@ traffic volume
 объем трафика
 
 ---
-[[Verkehr]], [[aufkommen]], [[Verkehrsfluss]], [[Verkehrsplanung]]
+[[Worter/V/Verkehr]], [[aufkommen]], [[Verkehrsfluss]], [[Verkehrsplanung]]
 
 ---
-[[Verkehr]]|`s`|[[aufkommen]]
+[[Worter/V/Verkehr]]|`s`|[[aufkommen]]
 [[Verkehrsaufkommen]]
 
 

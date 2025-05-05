@@ -5,7 +5,7 @@ Ich schlage vor, dass wir uns morgen kurz [[zusammensetzen]], um die offenen [[P
 
 ---
 = [[Stelle]], [[Markierung]], [[Merkmal]] | [[Moment]], [[Zeitpunkt]]
-≈ [[Zeichen]], [[Notiz]], [[Hinweis]] | [[Augenblick]], [[Zeit]]
+≈ [[Zeichen]], [[Notiz]], [[Hinweis]] | [[Augenblick]], [[Worter/Z/zeit]]
 ≠ [[Linie]], [[Fläche]] | [[Unendlichkeit]]
 
 , [[Gebiet]]

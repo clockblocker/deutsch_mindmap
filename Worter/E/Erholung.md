@@ -5,7 +5,7 @@
 
 ---
 = [[Entspannung]], [[Regeneration]], [[Ruhe]]
-≈ [[Freizeit]], [[Urlaub]], [[Erholung]]
+≈ [[Worter/F/Freizeit]], [[Urlaub]], [[Erholung]]
 ≠ [[Anstrengung]], [[Stress]], [[Arbeit]]
 
 , [[Ruh]], [[ausgeruht]], 

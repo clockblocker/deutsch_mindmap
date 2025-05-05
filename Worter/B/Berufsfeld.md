@@ -7,7 +7,7 @@
 ---
 = [[Arbeitsbereich]], [[Tätigkeitsfeld]], [[Branche]]
 ≈ [[Sektor]], [[Industrie]], [[Wirtschaftszweig]], [[Karriere]]
-≠ [[Privatleben]], [[Freizeit]]
+≠ [[Privatleben]], [[Worter/F/Freizeit]]
 
 ---
 field of work, professional field  

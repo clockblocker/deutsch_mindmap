@@ -18,7 +18,7 @@ interpreter
 переводчик
 
 ---
-[[dolmetschen]], [[Dolmetschen]], [[Sprache]], [[Übersetzung]]
+[[dolmetschen]], [[Dolmetschen]], [[Worter/S/Sprache]], [[Übersetzung]]
 
 ---
 [[Dolmetsch]]|[[er]]

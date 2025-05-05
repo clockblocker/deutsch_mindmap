@@ -1,1 +1,1 @@
-, [[Gesundheit]]
+, [[Worter/G/Gesundheit]]

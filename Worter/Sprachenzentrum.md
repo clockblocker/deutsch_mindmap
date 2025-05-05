@@ -14,10 +14,10 @@ language center
 центр изучения языков
 
 ---
-[[Sprache]], [[Zentrum]], [[Sprachkurs]], [[Sprachlehrer]]
+[[Worter/S/Sprache]], [[Zentrum]], [[Sprachkurs]], [[Sprachlehrer]]
 
 ---
-[[Sprache]]|[[n]]|[[zentrum]]
+[[Worter/S/Sprache]]|[[n]]|[[zentrum]]
 [[Sprachenzentrum]]
 
 

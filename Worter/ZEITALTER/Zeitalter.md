@@ -6,7 +6,7 @@ die [[Zeitalter]]
 
 ---
 = [[Ära]], [[Epoche]], [[Periode]]
-≈ [[Zeit]], [[Jahrhundert]], [[Dekade]]
+≈ [[Worter/Z/zeit]], [[Jahrhundert]], [[Dekade]]
 ≠ (none)
 
 ---
@@ -14,10 +14,10 @@ age, era
 эпоха, век
 
 ---
-[[Zeit]], [[alter]]
+[[Worter/Z/zeit]], [[alter]]
 
 ---
-[[Zeit]]|[[alter]]
+[[Worter/Z/zeit]]|[[alter]]
 [[Zeitalter]]
 
 

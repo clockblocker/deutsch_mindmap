@@ -15,7 +15,7 @@ former, of that time
 тогдашний, прежний
 
 ---
-[[damals]], [[damit]], [[damals]], [[Zeit]]
+[[damals]], [[damit]], [[damals]], [[Worter/Z/zeit]]
 
 ---
 [[damal]]|[[ig]]

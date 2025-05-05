@@ -7,7 +7,7 @@ Zu kurze [[Fristen]] für die [[Abgabe]] von Projekten
 
 ---
 = [[Termin]], [[Zeitraum]], [[Deadline]]
-≈ [[Zeit]], [[Periode]], [[Fälligkeit]]
+≈ [[Worter/Z/zeit]], [[Periode]], [[Fälligkeit]]
 ≠
 
 , [[Kündigungsfrist]], [[langfristig]]

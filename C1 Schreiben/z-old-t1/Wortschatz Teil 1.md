@@ -32,8 +32,8 @@
 - in ein [[ausgewogenes]] [[Verhältnis]] zu bringen
 - die [[Erwerbstätigkeit]] und das [[Familienleben]] 
 - *die richtige* [[Entscheidung]] *in Bezug auf `jN` zu treffen.*
-- [[Wirtschaft]]*liche Lage der Person*
-- *Natur*[[Wissenschaft]]*en, weswegen die im geistes*[[Wissenschaft]] *lichen*
+- [[C1 Schreiben/z-old-t1/Wortschatz Buch/Die Welt der Menschen/Wirtschaft]]*liche Lage der Person*
+- *Natur*[[C1 Schreiben/z-old-t1/Wortschatz Buch/Bildung und Forschung/Wissenschaft]]*en, weswegen die im geistes*[[C1 Schreiben/z-old-t1/Wortschatz Buch/Bildung und Forschung/Wissenschaft]] *lichen*
 - *liegt die* gegenwärtige [[Gesellschaft]] *mehr Wert auf Studiengänge im Bereich*
 - [[Veranstaltung]]*en und Meetings online oder offline?*
 - *mehr* [[Wert]] *auf Studiengänge*
@@ -102,7 +102,7 @@ Stadt:
 - *Auch wenn `sich` Menschen* [[unangemessen]] [[äußern]]
 - [[privater]] [[Rahmen]]
 - *niemand ist* [[gezwungen]], `sich` [[aufzuhalten]]
-- *Qualität der* [[Bericht]]*e* `durch` *die* [[Medien]]
+- *Qualität der* [[Bericht]]*e* `durch` *die* [[C1 Schreiben/z-old-t1/Wortschatz Buch/Die Welt der Menschen/Medien]]
 - *Menschen werden* [[verhaftet]]
 - [[Menschenrecht]]*e*
 - *um* [[strafbare]] *von* [[legalen]] [[Äußerung]]*en* *und* [[Tat]]*en zu unterscheiden*
@@ -123,7 +123,7 @@ Stadt:
 - *wird der persönliche* [[Austausch]] *mit den Kollegen* [[gefördert]]
 - *Hier kann die Arbeit nicht im Home-Office* [[bewältigt]] *werden, sie muss vor Ort sein.*
 - *leiden unter enormem* [[Druck]] 
-- *die* [[Berufstätigkeit]], *das* [[Familienleben]] *und die* *persönliche* [[Zeit]]
+- *die* [[Berufstätigkeit]], *das* [[Familienleben]] *und die* *persönliche* [[C1 Schreiben/Teil 1/Alt/Alltagsleben/Zeit]]
 - *der Mensch nicht mehr* [[abschalten]] *kann*
 - *Burn-out*  = [[den Körper ausbrennen]]
 - `jD` [[Prioritäten]] *setzen*

@@ -1,5 +1,5 @@
 💞 🔴 die [[Beziehung]], [bəˈtsiːʊŋ](https://youglish.com/pronounce/Beziehung/german)
-die [[Beziehungen]]
+die [[Worter/B/Beziehungen]]
 
 ---
 – Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Beziehung]] gelöst.)
@@ -28,8 +28,8 @@ relationship
 
 
 ---
-N: die [[Beziehung]], die [[Beziehungen]]
-A: die [[Beziehung]], die [[Beziehungen]]
-G: der [[Beziehung]], der [[Beziehungen]]
-D: der [[Beziehung]], den [[Beziehungen]]
+N: die [[Beziehung]], die [[Worter/B/Beziehungen]]
+A: die [[Beziehung]], die [[Worter/B/Beziehungen]]
+G: der [[Beziehung]], der [[Worter/B/Beziehungen]]
+D: der [[Beziehung]], den [[Worter/B/Beziehungen]]
 , [[Interaktion]], [[Kommunikation]], [[Anschluss]]

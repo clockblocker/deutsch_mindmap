@@ -13,7 +13,7 @@ multilingual, multi-lingual
 многоязычный, многоязычный
 
 ---
-[[Sprache]], [[mehr]], [[Sprachkenntnisse]]
+[[Worter/S/Sprache]], [[mehr]], [[Sprachkenntnisse]]
 
 ---
 [[mehr]]|[[sprach]]|[[ig]]

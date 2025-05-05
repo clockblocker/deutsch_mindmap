@@ -7,7 +7,7 @@
 
 ---
 = [[Firmensport]]
-≈ [[Sport]], [[Freizeitaktivität]], [[Teambuilding]]
+≈ [[Worter/S/Sport]], [[Freizeitaktivität]], [[Teambuilding]]
 ≠ (none)
 
 ---
@@ -15,10 +15,10 @@ company sports
 корпоративный спорт
 
 ---
-[[Betrieb]], [[Sport]]
+[[Betrieb]], [[Worter/S/Sport]]
 
 ---
-[[Betrieb]]|`s`|[[sport]]
+[[Betrieb]]|`s`|[[Worter/S/Sport]]
 [[Betriebssport]]
 
 

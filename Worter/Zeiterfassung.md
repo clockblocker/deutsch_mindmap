@@ -14,10 +14,10 @@ time tracking
 учет рабочего времени
 
 ---
-[[Zeit]], [[erfassen]], [[Erfassung]]
+[[Worter/Z/zeit]], [[erfassen]], [[Erfassung]]
 
 ---
-[[Zeit]]|[[erfass]]|[[ung]]
+[[Worter/Z/zeit]]|[[erfass]]|[[ung]]
 [[Zeiterfassung]]
 
 

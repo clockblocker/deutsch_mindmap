@@ -17,7 +17,7 @@ native speaker
 носитель языка
 
 ---
-[[Muttersprache]], [[Sprache]], [[sprechen]], [[Sprachkenntnisse]]
+[[Muttersprache]], [[Worter/S/Sprache]], [[sprechen]], [[Sprachkenntnisse]]
 
 ---
 [[Mutter]]|[[sprach]]|[[ler]]

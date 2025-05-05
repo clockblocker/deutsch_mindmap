@@ -25,13 +25,9 @@ Ich habe vollstes Verständnis dafür, dass die Energieeinsparmaßnahmen nötig 
 
 Allerdings stellt die gesunkene Temperatur ein erhebliches Problem für unser Team dar: Einige Mitarbeitende sind gezwungen, alle dreißig Minuten heißen Tee zuzubereiten, während andere zusätzliche Jacken und Handschuhe tragen.
 
-Bedienungen
-Bedingungen
-
-
 Da unter solchen Bedingungen eine erfolgreiche Arbeit kaum möglich ist, wäre ein Temperaturerhöhung auf 20 Grad wünschenswert.
 
-Wenn jedoch die Temperatur momentan nicht erhöht werden kann, schlage ich vor, dem Team dauerhafter Homeoffice zu erlauben. 
+Wenn jedoch die Temperatur momentan nicht erhöht werden kann, schlage ich vor, dem Team dauerhaftes Homeoffice zu erlauben. 
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 

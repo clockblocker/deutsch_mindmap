@@ -47,7 +47,7 @@ Zuallererst liegt es jedoch an uns, dafür zu sorgen, dass es gar nicht erst zu 
 *[[3 Sollte das Internet stärker reguliert werden?#^4|^]]* _Außerdem wird das, was als strafbare_ [[Äußerung]] _angesehen wird, von Land zu Land anders_ [[beurteilt]]. ^4
 
  
-*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Hier sollte immer die Meinungsfreiheit im_ [[Mittelpunkt]] _stehen, denn eine zu starke Regulierung im Netz kann sich auf die Qualität der_ [[Berichterstattung]] _durch die_ [[Medien]] [[auswirken]], _oder Menschen werden_ [[verhaftet]], _weil sie ihre Meinung im Internet_ [[kundgetan]] _haben._ ^5
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Hier sollte immer die Meinungsfreiheit im_ [[Mittelpunkt]] _stehen, denn eine zu starke Regulierung im Netz kann sich auf die Qualität der_ [[Berichterstattung]] _durch die_ [[Worter/Medien]] [[auswirken]], _oder Menschen werden_ [[verhaftet]], _weil sie ihre Meinung im Internet_ [[kundgetan]] _haben._ ^5
 
  
 *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrechte]] _als_ [[richtungsgebende]] _Linie_ [[vorausgesetzt]] _werden, um strafbare von legalen_ [[Äußerungen]] _und_ [[Taten]] _zu_ [[unterscheiden]]. ^5
@@ -97,7 +97,7 @@ Zuallererst liegt es jedoch an uns, dafür zu sorgen, dass es gar nicht erst zu 
 - *Auch wenn `sich` Menschen* [[unangemessen]] [[äußern]]
 - [[privater]] [[Rahmen]]
 - *niemand ist* [[gezwungen]], `sich` [[aufzuhalten]]
-- *Qualität der* [[Bericht]]*e* `durch` *die* [[Medien]]
+- *Qualität der* [[Bericht]]*e* `durch` *die* [[Worter/Medien]]
 - *Menschen werden* [[verhaftet]]
 - [[Menschenrecht]]*e*
 - *um* [[strafbare]] *von* [[legalen]] [[Äußerung]]*en* *und* [[Tat]]*en zu unterscheiden*
@@ -108,8 +108,8 @@ Zuallererst liegt es jedoch an uns, dafür zu sorgen, dass es gar nicht erst zu 
 ---
 ----
 
-- *Qualität der* [[Berichterstattung]] `durch` *die* [[Medien]]
-- *Qualität der* [[Berichte]] `durch` *die* [[Medien]]
+- *Qualität der* [[Berichterstattung]] `durch` *die* [[Worter/Medien]]
+- *Qualität der* [[Berichte]] `durch` *die* [[Worter/Medien]]
 
 - *persönlichen* *Daten* [[geschützt]] *werden*
 - *persönlichen* *Daten* [[gewehrt]] *werden*

@@ -8,7 +8,7 @@
 ---
 = [[Arbeitsleben]], [[Erwerbsleben]]
 ≈ [[Karriere]], [[Tätigkeit]], [[Job]]
-≠ [[Privatleben]], [[Freizeit]]
+≠ [[Privatleben]], [[Worter/F/Freizeit]]
 
 , [[Geschäftsleben]], [[Arbeitswelt]], [[Privatleben]]
 

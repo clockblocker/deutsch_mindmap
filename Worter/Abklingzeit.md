@@ -6,7 +6,7 @@ Danach gilt eine globale [[Abklingzeit]] von 15 Sek., bevor der Effekt [[erneut]
 
 ---
 = [[Zerfallszeit]]
-≈ [[Zeit]], [[Dauer]]
+≈ [[Worter/Z/zeit]], [[Dauer]]
 ≠ [[keine]]
 
 ---
@@ -14,10 +14,10 @@ decay time, decay period
 время затухания
 
 ---
-[[abklingen]], [[Zeit]]
+[[abklingen]], [[Worter/Z/zeit]]
 
 ---
-[[Ab]]|[[kling]]|[[zeit]]
+[[Ab]]|[[kling]]|[[Worter/Z/zeit]]
 [[Abklingzeit]]
 
 

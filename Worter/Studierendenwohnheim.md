@@ -21,7 +21,7 @@ student residence hall, dormitory
 общежитие
 
 ---
-[[Student]], [[Studium]], [[Wohnheim]], [[Wohnen]]
+[[Student]], [[Worter/S/Studium]], [[Wohnheim]], [[Wohnen]]
 
 ---
 [[Studierend]]|[[en]]|[[wohn]]|[[heim]]

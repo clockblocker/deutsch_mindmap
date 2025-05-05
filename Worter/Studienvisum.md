@@ -14,7 +14,7 @@ student visa
 студенческая виза
 
 ---
-[[Studium]], [[Visum]], [[studieren]]
+[[Worter/S/Studium]], [[Visum]], [[studieren]]
 
 ---
 [[Studien]]|[[visum]]

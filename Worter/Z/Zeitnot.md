@@ -14,11 +14,11 @@ time pressure, time crunch
 нехватка времени
 
 ---
-[[Zeit]], [[Not]]
+[[Worter/Z/zeit]], [[Not]]
 
 ---
-[[Zeit]]|[[not]]
-[[Zeit]] + [[Not]]
+[[Worter/Z/zeit]]|[[not]]
+[[Worter/Z/zeit]] + [[Not]]
 
 
 ---

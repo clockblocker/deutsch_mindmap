@@ -14,7 +14,7 @@ accompanying studies
 сопровождающий учебу
 
 ---
-[[Studium]], [[begleiten]], [[Studienbegleitung]]
+[[Worter/S/Studium]], [[begleiten]], [[Studienbegleitung]]
 
 ---
 [[Studie]]|[[n]]|[[begleit]]|[[end]]

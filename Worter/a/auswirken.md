@@ -10,7 +10,7 @@
 
 - Beschreiben Sie, wie sich Homeoffice auf das Familienleben [[auswirkt]].  
 
-*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Hier sollte immer die Meinungsfreiheit im_ [[Mittelpunkt]] _stehen, denn eine zu starke Regulierung im Netz kann sich auf die Qualität der_ [[Berichterstattung]] _durch die_ [[Medien]] [[auswirken]], _oder Menschen werden_ [[verhaftet]], _weil sie ihre Meinung im Internet_ [[kundgetan]] _haben._ ^5
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Hier sollte immer die Meinungsfreiheit im_ [[Mittelpunkt]] _stehen, denn eine zu starke Regulierung im Netz kann sich auf die Qualität der_ [[Berichterstattung]] _durch die_ [[Worter/Medien]] [[auswirken]], _oder Menschen werden_ [[verhaftet]], _weil sie ihre Meinung im Internet_ [[kundgetan]] _haben._ ^5
 
 
 ---

@@ -1,1 +1,1 @@
-, [[Wohlbefinden]], [[Gesundheit]]
+, [[Wohlbefinden]], [[Worter/G/Gesundheit]]

@@ -61,7 +61,7 @@ Vorbeugend lässt sich eine gesunde Unternehmenskultur schaffen, wenn flexible M
 
 - *Dieser* permanente [[Stress]], 
 - *gepaart mit* zu wenig sozialem [[Austausch]] 
-- *und* dem [[Fehlen]] klar definierter [[Grenze]]n zwischen [[Arbeitszeit]] und [[Freizeit]], 
+- *und* dem [[Fehlen]] klar definierter [[Grenze]]n zwischen [[Arbeitszeit]] und [[Worter/F/Freizeit]], 
 - *kann rasch* einen [[Burnout]] *hervorrufen*.
 
 ---
@@ -88,7 +88,7 @@ Vorbeugend lässt sich eine gesunde Unternehmenskultur schaffen, wenn flexible M
 - *als auch auf* psychologische [[Unterstützungsangebot]]e *zu achten*. 
 
 - *Nur so* 
-- *lässt sich langfristig* die [[Gesundheit]] der [[Belegschaft]] *sichern* 
+- *lässt sich langfristig* die [[Worter/G/Gesundheit]] der [[Belegschaft]] *sichern* 
 - und ein [[Burnout]] verhindern.
 
 ---

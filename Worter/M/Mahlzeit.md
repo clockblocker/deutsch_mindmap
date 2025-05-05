@@ -18,7 +18,7 @@ meal
 [[Mahlzeitenplan]], [[Mahlzeitenersatz]]
 
 ---
-[[Mahl]]|[[zeit]]|[[en]]
+[[Mahl]]|[[Worter/Z/zeit]]|[[en]]
 [[Mahlzeit]]
 
 

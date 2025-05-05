@@ -6,7 +6,7 @@
 ---
 = [[Bauarbeiten]], [[Konstruktionsarbeit]]
 ≈ [[Baustelle]], [[Handwerk]], [[Renovierung]]
-≠ [[Freizeit]], [[Erholung]]
+≠ [[Worter/F/Freizeit]], [[Erholung]]
 
 ---
 construction work  

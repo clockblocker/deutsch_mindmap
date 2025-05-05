@@ -14,10 +14,10 @@ quality time
 качественное время
 
 ---
-[[Qualität]], [[Zeit]], [[qualitativ]], [[Zeit miteinander verbringen]]
+[[Qualität]], [[Worter/Z/zeit]], [[qualitativ]], [[Zeit miteinander verbringen]]
 
 ---
-[[Qualität]]|`s`|[[zeit]]
+[[Qualität]]|`s`|[[Worter/Z/zeit]]
 [[Qualitätszeit]]
 
 

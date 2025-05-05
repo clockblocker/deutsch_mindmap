@@ -7,7 +7,7 @@ Ihr Vorgesetzter, Herr Krüger, hat [[angekündigt]], dass aus [[Budgetgründen]
 ---
 = [[Geschäftsreise]], [[Dienstfahrt]]
 ≈ [[Reise]], [[Trip]], [[Ausflug]]
-≠ [[Urlaub]], [[Freizeit]]
+≠ [[Urlaub]], [[Worter/F/Freizeit]]
 
 ---
 business trip, official trip  

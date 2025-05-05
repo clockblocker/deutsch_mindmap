@@ -1,2 +1,2 @@
 , [[Mehrheit]], [[Frechheit]], [[Wahrheit]], [[Sicherheit]], [[Staatssicherheit]], [[Weisheit]], [[Schönheit]], [[Einheitliche]], [[Einheit]], [[Freiheit]], [[Versammlungsfreiheit]], [[mehrheitlich]], [[Gleichheit]], [[Ungleichheit]], [[Gewissensfreiheit]], [[Vergangenheit]], [[Begebenheit]]
-, [[Angelegenheit]], [[krankheitsbedingt]], [[Energiesicherheit]], [[Seltenheit]], [[Angemessenheit]], [[Abwesenheit]], [[Gesundheit]], [[Geborgenheit]]
+, [[Angelegenheit]], [[krankheitsbedingt]], [[Energiesicherheit]], [[Seltenheit]], [[Angemessenheit]], [[Abwesenheit]], [[Worter/G/Gesundheit]], [[Geborgenheit]]

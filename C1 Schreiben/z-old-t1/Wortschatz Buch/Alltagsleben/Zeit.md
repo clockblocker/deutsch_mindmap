@@ -1,6 +1,6 @@
 ## Zeit - verbale Ausdrücke
 ###### Zeit [[verbringen]] mit + D
-*Häufig wird beklagt, dass Kinder und Jugendliche zu viel* [[C1 Schreiben/Teil 1/Wortschatz Buch/Alltagsleben/Zeit]] *damit* [[verbringen]], *Computerspiele zu spielen.*
+*Häufig wird beklagt, dass Kinder und Jugendliche zu viel* [[C1 Schreiben/z-old-t1/Wortschatz Buch/Alltagsleben/Zeit]] *damit* [[verbringen]], *Computerspiele zu spielen.*
 
 ###### Zeit [[verbringen]] + Lokalangabe
 *Einen großen Teil unserer* [[Lebenszeit]] [[verbringen]] *wir am Arbeitsplatz.*

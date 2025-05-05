@@ -14,7 +14,7 @@ officialese, bureaucratic language
 канцелярский язык
 
 ---
-[[Behörde]], [[Sprache]], [[amtlich]], [[bürokratisch]]
+[[Behörde]], [[Worter/S/Sprache]], [[amtlich]], [[bürokratisch]]
 
 ---
 [[Behörde]]|`n`|[[sprach]]|[[e]]

@@ -5,7 +5,7 @@
 
 ---
 = [[Printer]], [[Druckgerät]]
-≈ [[Gerät]], [[Maschine]], [[Technik]]
+≈ [[Gerät]], [[Maschine]], [[Worter/T/Technik]]
 ≠ [[Handschrift]]
 
 ---

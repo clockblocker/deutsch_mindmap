@@ -11,7 +11,7 @@ Erläutern Sie, welche Verantwortung Unternehmen für das [[Wohlbefinden]] ihrer
 
 ---
 = [[Wohlgefühl]], [[Wohlsein]]
-≈ [[Gesundheit]], [[Zufriedenheit]], [[Glück]]
+≈ [[Worter/G/Gesundheit]], [[Zufriedenheit]], [[Glück]]
 ≠ [[Unwohlsein]], [[Leid]], [[Unbehagen]]
 
 , [[wohlfühlen]], [[Fieber]], [[Schnupfen]], [[Grippe]]

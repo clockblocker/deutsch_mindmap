@@ -15,10 +15,10 @@ technician
 техник
 
 ---
-[[Technik]], [[technisch]], [[Technikerin]], [[Technikerteam]]
+[[Worter/T/Technik]], [[technisch]], [[Technikerin]], [[Technikerteam]]
 
 ---
-[[Technik]]|[[er]]
+[[Worter/T/Technik]]|[[er]]
 [[Techniker]]
 
 

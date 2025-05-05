@@ -16,7 +16,7 @@ local public transport
 [[Personenverkehr]], [[Nahverkehrsmittel]], [[Nahverkehrsnetz]], [[Nahverkehrstarif]]
 
 ---
-[[Person]]|`en`|[[nah]]|[[verkehr]]
+[[Person]]|`en`|[[nah]]|[[Worter/V/Verkehr]]
 [[Personen]] + [[Nahverkehr]]
 
 

@@ -1,6 +1,6 @@
 ## Medien
 ###### das [[Medium]], Medien
-*Mithilfe verschiedener* [[C1 Schreiben/Teil 1/Wortschatz Buch/Die Welt der Menschen/Medien]] *können Lehrer und Professoren den Lernstoff interessant und abwechslungsreich vermitteln.*
+*Mithilfe verschiedener* [[C1 Schreiben/z-old-t1/Wortschatz Buch/Die Welt der Menschen/Medien]] *können Lehrer und Professoren den Lernstoff interessant und abwechslungsreich vermitteln.*
 
 ###### [[medial]]
 *Prominente klagen häufig über das große* [[mediale]] *Interesse an ihrer Person und den daraus resultierenden Mangel an Privatsphäre.*

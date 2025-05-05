@@ -6,7 +6,7 @@ die [[Urlaubstage]]
 
 ---
 = [[Ferientag]], [[Feiertag]]
-≈ [[Freizeit]], [[Erholung]], [[Auszeit]]
+≈ [[Worter/F/Freizeit]], [[Erholung]], [[Auszeit]]
 ≠ [[Arbeitstag]], [[Werktag]]
 
 ---
