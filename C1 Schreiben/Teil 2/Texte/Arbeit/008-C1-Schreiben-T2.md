@@ -24,7 +24,7 @@ Allerdings stellt die getroffene Regelung ein großes Problem für mich dar. ^6
 Obwohl ich in der Nähe des Arbeitsplatzes wohne, bin ich auf den Parkplatz angewiesen, weil ich mich ohne Rollstuhl nicht selbstständig bewegen kann. ^2
 
 
-Da der ÖPNV keine akzeptablen Bedingungen für Menschen mit Behinderung bietet, halte ich es für sinnvoll, eine Ausnahme für mobilitätseingeschränkte Mitarbeitende zu ermöglichen. ^3
+Da der ÖPNV keine akzeptablen Bedingungen für Menschen mit Behinderung bietet, wäre eine Ausnahme für mobilitätseingeschränkte Mitarbeitende wünschenswert.  ^3
 
 
 Um jedoch das Parkproblem grundlegend zu lösen, könnten ergänzende Maßnahmen geprüft werden. ^4

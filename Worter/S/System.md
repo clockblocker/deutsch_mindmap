@@ -27,4 +27,4 @@ G: des [[Systems]], der [[Systeme]]
 D: dem [[System]], den [[Systemen]]
 
 
-#Neuter , [[Systemabsturz]]
+#Neuter , [[Systemabsturz]], [[Rentensystem]]

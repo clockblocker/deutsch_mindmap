@@ -21,18 +21,46 @@ Sehr geehrte Frau Sommer,
 
 ich wende mich an Sie, um auf die neue Temperaturregulierung einzugehen.
 
-Ich habe vollstes Verständnis dafür, dass die Energieeinsparmaßnahmen nötig sind - insbesondere, da unser Budget seit dem zweiten Quartal reduziert wurde.
+Ich habe vollstes Verständnis dafür, dass die Energieeinsparmaßnahmen nötig sind - insbesondere, da unser Budget seit dem zweiten Quartal reduziert wurde. ^4
 
-Allerdings stellt die gesunkene Temperatur ein erhebliches Problem für unser Team dar: Einige Mitarbeitende sind gezwungen, alle dreißig Minuten heißen Tee zuzubereiten, während andere zusätzliche Jacken und Handschuhe tragen.
 
-Da unter solchen Bedingungen eine erfolgreiche Arbeit kaum möglich ist, wäre ein Temperaturerhöhung auf 20 Grad wünschenswert.
+Allerdings stellt die gesunkene Temperatur ein erhebliches Problem für unser Team dar: ^5
 
-Wenn jedoch die Temperatur momentan nicht erhöht werden kann, schlage ich vor, dem Team dauerhaftes Homeoffice zu erlauben. 
+
+Einige Mitarbeitende sind gezwungen, alle dreißig Minuten heißen Tee zuzubereiten, während andere zusätzliche Jacken und Handschuhe tragen. ^3
+
+
+Da unter solchen Bedingungen eine erfolgreiche Arbeit kaum möglich ist, wäre ein Temperaturerhöhung auf 20 Grad wünschenswert. ^2
+
+
+Wenn jedoch die Temperatur momentan nicht erhöht werden kann, schlage ich vor, dem Team dauerhaftes Homeoffice zu erlauben. ^1
+
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
 Mit freundlichen Grüßen
 Denis Popov
 
-  
+---
+[[Section-Teil-2-Verständnis]]
+
+---
+[[Section-Teil-2-Freude-Ausserung]]
+
+---
+[[Section-Teil-2-Allerdings-Bridge]]
+[[Section-Teil-2-Probleme]]
+[[Section-Teil-2-Entschuldigung]]
+
+---
+[[Section-Teil-2-Akzeptable-Bedunungen]]
+[[Section-Teil-2-Konsequenzen-des-Problemes]]
+[[Section-Teil-2-Gut-fur-Firma]]
+
+---
+[[Section-Teil-2-Vorschlag]]
+[[Section-Teil-2-Grundlegende-Lösung]]
+
+---
+[[Section-Teil-2-Schwanz]]
 

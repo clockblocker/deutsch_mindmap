@@ -1,1 +1,1 @@
-, [[Heiztemperatur]]
+, [[Heiztemperatur]], [[Temperaturrekord]]

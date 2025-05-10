@@ -1,1 +1,1 @@
-, [[Hitzewelle]]
+, [[Hitzewelle]], [[Temperaturrekord]]

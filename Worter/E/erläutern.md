@@ -1,4 +1,13 @@
-, [[klären]], [[verantworten]], [[umschreiben]], [[veranschaulichen]]
+explain
+
+[[klären]], [[verantworten]], [[umschreiben]], [[veranschaulichen]]
+*clarify, account for, rewrite, illustrate*
+
+
+
+
+
+
 🗣️ [[erläutern]], [ɛɐ̯ˈlɔɪ̯tɐn](https://youglish.com/pronounce/erläutern/german) → [[erläuterte]] → haben [[erläutert]]
 
 ---

@@ -6,7 +6,7 @@ die [[Grundlagen]]
 ---
 Nein. Ihr seid zu ungeduldig. Ihr müsst zuerst die [[Grundlagen]] richtig beherrschen! Weiterüben.
 
-*[[C1-Lesen-1-000-Text#^11|^]]* Diese dient einem Sammelroboter als [[Grundlage]], der dann den Müll mithilfe eines [[Greifers]] in einen [[Sammelkorb]] legt. ^11
+*[[C1-Lesen-T1-000-Text#^11|^]]* Diese dient einem Sammelroboter als [[Grundlage]], der dann den Müll mithilfe eines [[Greifers]] in einen [[Sammelkorb]] legt. ^11
 
 
 ---

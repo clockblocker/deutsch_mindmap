@@ -25,4 +25,4 @@ D: der [[Zeichnung]], den [[Zeichnungen]]
 
 ---
 [[zeichnen]], [[Zeichner]], [[Zeichenkunst]]
-, [[zeihen]], [[zeigen]]
+, [[zeihen]], [[zeigen]], [[verzeichnen]]

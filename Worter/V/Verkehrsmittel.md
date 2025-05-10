@@ -3,6 +3,8 @@
 die [[Verkehrsmittel]]
 
 ---
+ Man kann zum Beispiel das Fahrrad statt des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, [[anstatt]] in modischen [[Geschäften]] ständig [[Neues]] zu [[erwerben]].
+ 
 279. In den meisten [[Mietshäusern]] in Deutschland gibt es eine „[[Hausordnung]]“. Was steht in einer [[solchen]] „Hausordnung“? Sie nennt … (87%)
 	- [ ] Regeln für die Benutzung [[öffentlicher]] [[Verkehrsmittel]].
 

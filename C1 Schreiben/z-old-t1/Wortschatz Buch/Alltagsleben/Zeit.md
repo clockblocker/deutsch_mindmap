@@ -54,8 +54,8 @@
 ###### im [[dargestellten]] Zeitraum
 *Der Grafik zufolge ist die Zahl der Arbeitslosen im* [[dargestellten]] Zeitraum *leicht gesunken.*
 
-###### im [[Worter/L/Laufe]] der Zeit
-*Zu Beginn eines Auslandsaufenthalts ist vieles fremd und ungewohnt, doch* im [[Worter/L/Laufe]] der Zeit *gewöhnt man sich an die neue Umgebung.*
+###### im [[Laufe]] der Zeit
+*Zu Beginn eines Auslandsaufenthalts ist vieles fremd und ungewohnt, doch* im [[Laufe]] der Zeit *gewöhnt man sich an die neue Umgebung.*
 
 ###### im Laufe des [[Studiums]]
 *Im Laufe des* [[Studiums]] *lernen Studierende, sich selbstständig mit wissenschaftlichen Themen auseinanderzusetzen.*

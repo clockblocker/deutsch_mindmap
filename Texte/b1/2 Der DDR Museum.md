@@ -10,3 +10,11 @@ Ist ein Neubau-Wohn-zimmer [[gemütlich]] und wie sitzt man in einem [[Trabant]]
 16 Bereichen (z. B. Wohnen, Arbeiten, Freizeit, Urlaub, Mode, Kultur) den Alltag in der DDR.
 
 Sie wurde [[gemeinsam]] von [[Historikern]] und [[ehemaligen]] DDR-Bürgern [[zusammengestellt]].
+
+
+- время 
+- силы
+- воля
+
+
+

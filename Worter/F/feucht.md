@@ -1,7 +1,7 @@
 💧 [[feucht]], [fɔɪ̯çt](https://youglish.com/pronounce/feucht/german)
 
 ---
-*[[C1-Lesen-1-001-Text#^3|^]]* Schließlich [[steckt]] die [[schwarzhaarige]] Berner Sennenhündin ihre [[bernsteinbraune]], [[feuchte]] Nase ganz in das Loch. ^3
+*[[C1-Lesen-T1-001-Text#^3|^]]* Schließlich [[steckt]] die [[schwarzhaarige]] Berner Sennenhündin ihre [[bernsteinbraune]], [[feuchte]] Nase ganz in das Loch. ^3
 
 
 ---

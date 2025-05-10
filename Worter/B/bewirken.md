@@ -3,10 +3,10 @@
 ✨ [[bewirken]], [bəˈvɪʁkn̩](https://youglish.com/pronounce/bewirken/german) → [[bewirkte]] → [[bewirkt]]
 
 ---
-*[[C1-Lesen-1-000-Loesung#^8|^]]* „[[Dabei]]“ kann sich auf eine Tätigkeit oder einen Umstand beziehen. Es passt hier nicht, um [[auszudrücken]], dass die Drohne etwas [[bewirkt]]. ^8
+*[[C1-Lesen-T1-000-Loesung#^8|^]]* „[[Dabei]]“ kann sich auf eine Tätigkeit oder einen Umstand beziehen. Es passt hier nicht, um [[auszudrücken]], dass die Drohne etwas [[bewirkt]]. ^8
 
 
-*[[C1-Lesen-1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet [[bewirken]], dass etwas [[geschieht]]. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
+*[[C1-Lesen-T1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet [[bewirken]], dass etwas [[geschieht]]. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
 
 
 

@@ -5,6 +5,9 @@ vergangen, [fɛɐ̯ˈɡaŋən]
 nicht [[zukünftig]]
 
 ---
+In den [[vergangenen]] zehn Jahren wurden nahezu jeden Sommer neue Temperaturrekorde verzeichnet; mittlerweile ist die Zahl der Hitzewellen und Waldbrände deutlich gestiegen.
+
+
 Meine Großmutter [[erzählte]] mir oft [[Geschichten]] über eine längst [[vergangene]] Zeit, von einer Zeit des [[Friedens]].
 
 ---

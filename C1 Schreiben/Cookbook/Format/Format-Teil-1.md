@@ -1,9 +1,39 @@
 ###### Pro-Contra
 [[Section-Teil-1-Kopf]]
+
+[[Section-Teil-1-Warum-Wichtig]]
+
+[[Section-Teil-1-Einen-Seite]]
+*([[Section-Teil-1-Beispiel]])*
+
+[[Section-Teil-1-Anderen-Seite]]
+*([[Section-Teil-1-Beispiel]])*
+
+[[Section-Teil-1-Synthese]]
+[[Section-Teil-1-Vorschag]]
+
+[[Section-Teil-1-Schluss]]
+
+###### Pro-Pro / Contra-Contra
+[[Section-Teil-1-Kopf]]
 [[Section-Teil-1-Einen-Seite]]
 [[Section-Teil-1-Beispiel]]
 [[Section-Teil-1-Anderen-Seite]]
-[[Section-Teil-1-Meiner-Ansicht]]
+[[Section-Teil-1-Synthese]]
+
+
+*Auf der einen Seite vertreten viele den Standpunkt*
+
+*Es stellt sich die Frage*
+
+*Auf der [[anderen]] Seite sind zahlreiche Politiker der festen Überzeugung, dass* 
+
+
+*Abschließend lässt sich sagen, dass neben* `jS` 
+*auch die Aspekte* `jS` *und* `jS` 
+
+*beachtet werden sollten, um* 
+*zu*
 
 
 ###### Pro

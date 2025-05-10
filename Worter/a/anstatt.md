@@ -1,6 +1,9 @@
 🔗 [[anstatt]], [anˈʃtat]
 
 ---
+ Man kann zum Beispiel das Fahrrad statt des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, [[anstatt]] in modischen [[Geschäften]] ständig [[Neues]] zu [[erwerben]].
+
+
 , [[stattdessen]], [[statt]]
 
 

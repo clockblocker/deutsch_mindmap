@@ -3,10 +3,10 @@
 ---
 Babys [[erkennen]] ihre Mütter [[an]] ihren Stimmen.
 
-*[[C1-Lesen-1-001-Text#^1|^]]* Hunde haben sich beim [[Erkennen]] von Corona-[[Viren]] [[bewährt]]. Und sie [[taugen]] auch zum [[Erschnüffeln]] von anderen Krankheiten. ^1
+*[[C1-Lesen-T1-001-Text#^1|^]]* Hunde haben sich beim [[Erkennen]] von Corona-[[Viren]] [[bewährt]]. Und sie [[taugen]] auch zum [[Erschnüffeln]] von anderen Krankheiten. ^1
 
 
-*[[C1-Lesen-1-000-Text#^9|^]]* Bei guten [[Sichtverhältnissen]] sorgt [[zusätzlich]] eine Drohne aus der Luft [6], dass weiterer Müll im Wasser [[erkannt]] wird. ^9
+*[[C1-Lesen-T1-000-Text#^9|^]]* Bei guten [[Sichtverhältnissen]] sorgt [[zusätzlich]] eine Drohne aus der Luft [6], dass weiterer Müll im Wasser [[erkannt]] wird. ^9
 
 
 SASCHA: [[Erkennst]] du hier irgend jemand?  

@@ -37,4 +37,4 @@ Morpheme: [[üb]][[en]]
 | Sie       | [[üben]]             | [[übten]]             | [[üben Sie]]      | [[üben]]               | [[übten]]               |
 
 Partizip I: [[übend]], Partizip II: [[geübt]]
-, [[s1 e1]], [[üblich]]
+, [[s1 e1]], [[üblich]], [[Übungsbuch]]

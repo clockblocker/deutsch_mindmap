@@ -1,1 +1,1 @@
-, [[Ausführlich]], [[ausführen]], [[Abkürzung]], [[Vortrag]], [[Zusammenfassung]], [[Bauart]], [[Realisierung]], [[durchführen]], [[Version]], [[Ausarbeitung]], [[Präsentation]], [[Beschreibung]]
+, [[Ausführlich]], [[ausführen]], [[Abkürzung]], [[Vortrag]], [[Zusammenfassung]], [[Bauart]], [[Realisierung]], [[durchführen]], [[Version]], [[Ausarbeitung]], [[Präsentation]], [[Beschreibung]], [[Umsetzung]]

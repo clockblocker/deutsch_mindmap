@@ -1,2 +1,2 @@
 , [[rechtzeitig]], [[zeitgenössische]], [[Elternzeit]], [[Adventszeit]], [[Zeitarbeiter]], [[Hochzeit]], [[Tatzeit]]
-, [[Öffnungszeit]], [[Zeitdruck]], [[zeitgemäß]], [[Jahrhundertmitte]], [[Qualitätszeit]], [[Zeitalter]], [[Arbeitszeitmodell]], [[Reisezeit]], [[Zeiterfassung]], [[Zeitnot]], [[Punkt]], [[Frist]], [[derzeit]], [[damalig]], [[Abklingzeit]]
+, [[Öffnungszeit]], [[Zeitdruck]], [[zeitgemäß]], [[Jahrhundertmitte]], [[Qualitätszeit]], [[Zeitalter]], [[Arbeitszeitmodell]], [[Reisezeit]], [[Zeiterfassung]], [[Zeitnot]], [[Punkt]], [[Frist]], [[derzeit]], [[damalig]], [[Abklingzeit]], [[Alltag]]

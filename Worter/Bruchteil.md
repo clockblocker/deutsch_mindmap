@@ -2,7 +2,7 @@
 die [[Bruchteile]]
 
 ---
-*[[C1-Lesen-1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden. ^2
+*[[C1-Lesen-T1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden. ^2
 
 
 ---

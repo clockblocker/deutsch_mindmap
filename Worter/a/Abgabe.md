@@ -29,4 +29,4 @@ G: der [[Abgabe]], der [[Abgaben]]
 D: der [[Abgabe]], den [[Abgaben]]
 
 
-#Feminin 
+#Feminin , [[Grünsteuer]]

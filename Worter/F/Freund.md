@@ -23,4 +23,4 @@ D: dem [[Freund]], den [[Freunden]]
 
 ---
 [[freundlich]], [[Freundschaft]], [[befreunden]], [[Freundin]], [[Freundschaftlich]]
-, [[Brieffreund]], [[Liebhaber]], [[Kontrahent]]
+, [[Brieffreund]], [[Liebhaber]], [[Kontrahent]], [[klimafreundlich]]

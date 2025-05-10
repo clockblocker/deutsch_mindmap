@@ -1,1 +1,1 @@
-, [[Bewegungsmangel]]
+, [[Bewegungsmangel]], [[Mobilität]]

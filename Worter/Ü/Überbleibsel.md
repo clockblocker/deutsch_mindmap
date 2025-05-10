@@ -1,1 +1,1 @@
-, [[übrig]], [[Rest]]
+, [[übrig]], [[Rest]], [[Kunststoffreste]]

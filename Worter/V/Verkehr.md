@@ -1,2 +1,2 @@
 traffic, [[Verkehrstote]], [[Verkehrsmittel]]
-, [[umsteigen]], [[Publikumsverkehr]], [[Personennahverkehr]], [[Verkehrsaufkommen]]
+, [[umsteigen]], [[Publikumsverkehr]], [[Personennahverkehr]], [[Verkehrsaufkommen]], [[Mobilität]]

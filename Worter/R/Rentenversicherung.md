@@ -26,4 +26,4 @@ G: der [[Rentenversicherung]], der [[Rentenversicherungen]]
 D: der [[Rentenversicherung]], den [[Rentenversicherungen]]  
 
 ---
-[[Rente]], [[versichern]], [[Rentner]], [[Vorsorge]], [[Sozialversicherung]], [[Rentenberechnung]]
+[[Rente]], [[versichern]], [[Rentner]], [[Vorsorge]], [[Sozialversicherung]], [[Rentenberechnung]], [[Rentensystem]]

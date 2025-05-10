@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🆙 [[fördern]], [ˈfœʁdɐn] | [[förderte]], haben [[gefördert]]
 
 ---
@@ -41,4 +43,4 @@ PI: [[fördernd]], PII: [[gefördert]], Zu+inf: [[zufördern]]
 ---
 [[Förderung]], [[Förderer]], [[Förderung]], [[förderlich]], [[Förderband]]
 , [[schaden]], [[unterstützen]]
-, [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]], [[steigern]]
+, [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]], [[steigern]], [[beitragen]]

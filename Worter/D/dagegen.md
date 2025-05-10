@@ -1,4 +1,7 @@
-*[[C1-Lesen-1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] [[anzugehen]], entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das [[Kunststoffabfälle]] unter Wasser [[orten]] und [[einsammeln]] kann. ^1
+😠 [[dagegen]], [daˈɡeːɡn̩](https://youglish.com/pronounce/dagegen/german)
+
+---
+*[[C1-Lesen-T1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] anzugehen, entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das Kunststoffabfälle unter Wasser orten und einsammeln kann. ^1
 
 
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
@@ -8,50 +11,29 @@ ein Eltern sind [[dagegen]], dass ich ein Auto bekomme.
 Ich habe auch gar nichts [[gegen]] den [[Durst]] deines [[Einbrechers]], aber ich habe [[etwas]] [[dagegen]]
 
 ---
-Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht. Lena [[dagegen]] [[merkt]] es schnell, denn sie arbeitet [[eng]] mit Bastian zusammen. 
+= [[entgegen]], [[wider]]
+≈ [[kontra]], [[im Gegensatz zu]]
+≠ [[dafür]], [[zustimmend]]
 
 ---
-
-Synonyme:
-- [[wider]], [[kontra]], [[entgegen]]
-
----
-
-Beispiele:
-
-- Ich habe nichts [[dagegen]].
-- Sie hat starke Argumente [[dagegen]].
-- Viele Menschen sind [[dagegen]].
+against, in contrast  
+против, в отличие от
 
 ---
-**Übersetzung**: against it, opposed to it
-
----
-
-Tags:
-#Adverb
-
----
-
-Morphems:
-[[Da]][[gegen]]
-
-, [[dabei]], [[deshalb]], [[Damit]], [[11 08]], [[ebenfalls]], [[einverstanden]], [[da]], [[Konnektoren]], [[hierfür]]🚧 [[dagegen]], [daˈɡeːɡn̩]
-
----
-
-
----
-= [[im Gegensatz]], [[entgegen]], [[wider]]
-≈ [[andererseits]], [[hingegen]], [[demgegenüber]]
-≠ [[dafür]], [[zustimmend]], [[einverstanden]]
-
----
-against it, on the contrary, in contrast
+[[Gegner]], [[Gegenteil]], [[gegenüber]], [[Gegensatz]]
 
 ---
 [[da]]|[[gegen]]
+[[da]] + [[gegen]]
+
 
 ---
-[[Widerspruch]], [[konträr]], [[entgegengesetzt]], [[Opposition]]
-</ideal_output>, [[Texte/Misc/Anki]], [[Konnektivpartikeln]], [[Konjunktoren]], [[wiederum]], [[Kohlekraftwerk]]
+###### [[dagegenhalten]]
+- Wogegen [[hältst]] du?
+- Gegen die Ungerechtigkeit.
+
+- Warum [[halten]] wir [[dagegen]]?
+- Weil wir anderer Meinung sind.
+
+- Wie lange [[hast]] du [[dagegengehalten]]?
+- Seit dem Anfang der Diskussion.

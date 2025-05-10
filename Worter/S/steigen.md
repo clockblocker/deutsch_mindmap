@@ -9,6 +9,11 @@ sein [[gestiegen]]
 *[[100-C1-Schreiben-T2#^2|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeiten]] nicht alle [[Bedürfnisse]] [[berücksichtigen]] kann - insbesondere, da die [[Besucherzahl]] zum [[Jahresende]] deutlich [[gestiegen]] ist. ^2
 
 
+Nicht nur würde die [[alltäglich]]e [[Mobilität]] ohne Autos erheblich erschwert, sondern auch die [[Lebenshaltungskosten]] würden durch [[sogenannte]] „[[Grünsteuern]]“ [[steigen]].
+
+
+In den vergangenen zehn Jahren wurden [[nahezu]] jeden Sommer neue [[Temperaturrekorde]] [[verzeichnet]], und [[sowohl]] die [[Zahl]] der [[Hitzewellen]] als auch der [[Waldbrände]] ist deutlich [[gestiegen]]. 
+
 110 Millionen Besucher kommen im Jahr, Tendenz [[steigend]].
 
 Bei den Kunstauktionen in London [[stieg]] der Umsatz in den letzten Jahren kontinuierlich.
@@ -51,4 +56,4 @@ Partizip I: [[steigend]], Partizip II: [[gestiegen]]
 [[steigen]] - [[en]] = [[steig]]
 , [[versteigen]], [[steigende]], [[klettern]], [[s1 e1]]
 , [[umsteigen]]
-, [[aussteigen]], [[Aufstieg]], [[absinken]], [[Anstieg]]
+, [[aussteigen]], [[Aufstieg]], [[absinken]], [[Anstieg]], [[Grünsteuer]]

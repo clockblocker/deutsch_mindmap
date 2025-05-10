@@ -3,7 +3,7 @@
 haben [[gelohnt]]
 
 ---
-*[[C1-Lesen-1-001-Text#^19|^]]* Es hat sich [[gelohnt]]: Aus einer Metallbox [[fällt]] ihr ein [[Leckerbissen]] vor die [[Füße]]. ^19
+*[[C1-Lesen-T1-001-Text#^19|^]]* Es hat sich [[gelohnt]]: Aus einer Metallbox [[fällt]] ihr ein [[Leckerbissen]] vor die [[Füße]]. ^19
 
 
 Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].

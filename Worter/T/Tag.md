@@ -5,8 +5,7 @@ die [[Tage]]
 
 
 ---
--
--
+*Auf diesem Grund wurde ich gezwungen, mein essen* [[täglich]] *zu Hause vorzubereiten – wofür ich leide keine Zeit habe.*  
 
 ---
 Synonyme:
@@ -23,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tag]], [[Tages]], [[Tage]], [[Tagen]]
 
 ---
-#Substantiv #Maskulin[[erwachen]], [[Feiertag]], [[Gedenktag]], [[Trauertag]], [[Wahltag]], [[Bettag]], [[Tageshöchstwert]], [[s1 e1]], [[Tagebuch]], [[Wetter]], [[heutzutage]], [[Urlaubstag]]
+#Substantiv #Maskulin[[erwachen]], [[Feiertag]], [[Gedenktag]], [[Trauertag]], [[Wahltag]], [[Bettag]], [[Tageshöchstwert]], [[s1 e1]], [[Tagebuch]], [[Wetter]], [[heutzutage]], [[Urlaubstag]], [[Alltag]]

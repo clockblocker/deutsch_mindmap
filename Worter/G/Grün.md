@@ -1,2 +1,2 @@
 die [[Farbe]]
-, [[Gründungsmitglied]], [[smaragdgrüner]], [[Grünfläche]]
+, [[Gründungsmitglied]], [[smaragdgrüner]], [[Grünfläche]], [[klimafreundlich]], [[Grünsteuer]]

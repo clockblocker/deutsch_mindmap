@@ -56,4 +56,4 @@ sie, [[verhindern]], [[verhinderten]], [[verhindern]], [[verhinderten]], [[verhi
 Adjektive: [[verhindernd]], [[verhindernder]], [[verhinderndst]]
 
 ---
-[[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]], [[durchsetzen]], [[auslösen]], [[hervorrufen]]
+[[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]], [[durchsetzen]], [[auslösen]], [[hervorrufen]], [[beitragen]]

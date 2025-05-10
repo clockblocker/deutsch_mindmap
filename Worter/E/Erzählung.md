@@ -25,3 +25,4 @@ D: der [[Erzählung]], den [[Erzählungen]]
 [[erzählen]], [[erzählerisch]], [[Erzähler]], [[Erzählerin]], [[nacherzählen]]
 
 , [[Geschichte]], [[Märchen]], [[erzählen]]
+, [[Übungsbuch]]

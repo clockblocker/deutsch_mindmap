@@ -33,4 +33,4 @@ PI: [[zeichnend]], PII: [[gezeichnet]], Zu+inf: [[zuzeichnen]]
 ---
 
 ---
-[[Zeichen]], [[Zeichnung]], [[Zeichner]], [[Zeichenstift]], [[Zeichentisch]]
+[[Zeichen]], [[Zeichnung]], [[Zeichner]], [[Zeichenstift]], [[Zeichentisch]], [[verzeichnen]]

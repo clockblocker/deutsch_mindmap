@@ -5,7 +5,7 @@
 ---
  Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[angehen|geht]] [[dich]] nun wirklich [[nichts]] [[an]]!“
 
-*[[C1-Lesen-1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] [[anzugehen]], entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das [[Kunststoffabfälle]] unter Wasser [[orten]] und [[einsammeln]] kann. ^1
+*[[C1-Lesen-T1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] [[anzugehen]], entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das [[Kunststoffabfälle]] unter Wasser [[orten]] und [[einsammeln]] kann. ^1
 
 
 *[[3  Ein Selbstversuch als Hobbybäuerin#^39|^]]* Was die [[Abstriche]] [[angeht]], so [[verhält]] es sich nicht anders. ^39

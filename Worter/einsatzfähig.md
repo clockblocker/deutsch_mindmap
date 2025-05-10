@@ -1,7 +1,7 @@
 ✅ [[einsatzfähig]], [ˈaɪ̯nzatsˌfɛːɪç](https://youglish.com/pronounce/einsatzfähig/german)
 
 ---
-*[[C1-Lesen-1-000-Text#^15|^]]* [[Bisher]] [[läuft]] die Entwicklung aber trotz dieser erhöhten Schwierigkeiten erfolgreich: Wenn das System _9_ voll [[einsatzfähig]] ist, soll es [[Unterwasserabfälle]] mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich [[einsammeln]]. ^15
+*[[C1-Lesen-T1-000-Text#^15|^]]* [[Bisher]] [[läuft]] die Entwicklung aber trotz dieser erhöhten Schwierigkeiten erfolgreich: Wenn das System _9_ voll [[einsatzfähig]] ist, soll es [[Unterwasserabfälle]] mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich [[einsammeln]]. ^15
 
 
 ---

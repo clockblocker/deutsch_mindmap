@@ -4,7 +4,7 @@
 die [[Entgegensetzungen]]
 
 ---
-*[[C1-Lesen-1-000-Loesung#^1|^]]* Die Präposition „gegenüber“ [[drückt aus|drückt]] ein [[Verhältnis]] der [[Entgegensetzung]] oder des [[Vergleichs]] aus. Dies passt nicht zum Kontext der [[Mengenangabe]]. ^1
+*[[C1-Lesen-T1-000-Loesung#^1|^]]* Die Präposition „gegenüber“ [[drückt aus|drückt]] ein [[Verhältnis]] der [[Entgegensetzung]] oder des [[Vergleichs]] aus. Dies passt nicht zum Kontext der [[Mengenangabe]]. ^1
 
 
 ---

@@ -1,1 +1,1 @@
-, [[entlassen]]
+, [[entlassen]], [[Massenentlassung]]

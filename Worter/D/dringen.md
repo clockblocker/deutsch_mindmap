@@ -3,7 +3,7 @@
 ---
 Ist aber ganz [[dringend]]!
 
-*[[C1-Lesen-1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]. ^5
+*[[C1-Lesen-T1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]. ^5
 
 
 *[[06-C1-Schreiben-T2-M#^8|^]]* die [[Umbauarbeiten]] unserer Kantine kann ich nur zu gut verstehen, sie waren auch wirklich [[dringend]] [[nötig]]. ^8

@@ -1,1 +1,1 @@
-, [[Kunststoffabfall]], [[Plastikteil]]
+, [[Kunststoffabfall]], [[Plastikteil]], [[Kunststoffreste]]

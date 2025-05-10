@@ -10,7 +10,7 @@ Ja, denkt die Mutter, sie sind längst keine kleinen Kinder mehr. Da [[einfallen
 „Sag mal, Sunita hat doch diese Freundin in Portugal, die sie schon lange mal besuchen will …“ „Richtig“, stimmt ihr Mann zu. 
 „Und Nils wollte in den [[Ferien]] sowieso ein paar Wochen jobben, um Geld für sein [[Schlagzeug]] zu [[verdienen]]. Vielleicht könnte er bei meiner Schwester wohnen und in ihrer Firma arbeiten.“
 
-Die Eltern [[ansehen|sehen]] sich an. „Und wir beide? Wir machen mal w ieder Urlaub zu zweit. So wie [[früher]]!“
+Die Eltern [[ansehen|sehen]] sich an. „Und wir beide? Wir machen mal wieder Urlaub zu zweit. So wie [[früher]]!“
 
 https://learngerman.dw.com/de/alles-unter-einen-hut-bringen/l-19399823
 

@@ -30,3 +30,5 @@ Das Leben ist halt manchmal einfach perfekt.
 https://learngerman.dw.com/de/auf-wolke-sieben-schweben/l-18745542/lm
 
 ☁️7️⃣🥰 [[auf Wolke sieben schweben]] *Redewendung*
+
+

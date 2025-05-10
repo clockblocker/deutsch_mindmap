@@ -1,3 +1,11 @@
+[[Format-Teil-1]]
+
+---
+
+![[0 Studieren - aber was?#^1|^]] 
+
+
+
 *Heute wird kontrovers darüber diskutiert, was die Regierungen mit* 
 `jM` 
 *tun sollten, um die Herausforderungen* 

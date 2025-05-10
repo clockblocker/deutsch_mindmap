@@ -2,7 +2,7 @@ Mr und Mrs Dursley im Ligusterweg Nummer 4 waren stolz darauf, ganz und gar norm
 
 ---
 
-Mr Dursley war Direktor einer Firma namens Grunnings, die Bohrmaschinen herstellte. Er war groß und bullig und hatte fast keinen Hals, dafür aber einen sehr großen Schnurrbart. Mrs Dursley war dünn und blond und besaß doppelt so viel Hals, wie notwendig gewesen wäre, was allerdings sehr nützlich war, denn so konnte sie den Hals über den Gartenzaun recken und zu den Nachbarn hinüberspähen. Die Dursleys hatten einen kleinen Sohn namens Dudley und in ihren Augen gab es nirgendwo einen prächtigeren Jungen. 
+Mr Dursley war Direktor einer Firma namens Grunnings, die Bohrmaschinen herstellte. Er war groß und bullig und hatte fast keinen Hals, [[dafür]] aber einen sehr großen Schnurrbart. Mrs Dursley war dünn und [[blond]] und besaß doppelt so viel Hals, wie notwendig gewesen wäre, was allerdings sehr nützlich war, denn so konnte sie den Hals über den Gartenzaun recken und zu den Nachbarn hinüberspähen. Die Dursleys hatten einen kleinen Sohn namens Dudley und in ihren Augen gab es nirgendwo einen prächtigeren Jungen. 
 
 Die Dursleys besaßen alles, was sie wollten, doch sie hatten auch ein Geheimnis, und dass es jemand aufdecken könnte, war ihre größte Sorge. 
 

@@ -36,4 +36,4 @@ Einzigartige mögliche Formen: [[Gesellschaft]], [[Gesellschaften]], [[Gesellsch
 ---
 #Substantiv #Feminin, [[Handelsgesellschaft]], [[Bevölkerung]], [[Texte/Misc/Anki]]
 , [[Stehempfang]]
-, [[Mensch]], [[Wettbewerbsgesellschaft]], [[gesellschaftlich]], [[Gesamtgesellschaft]], [[Firma]]
+, [[Mensch]], [[Wettbewerbsgesellschaft]], [[gesellschaftlich]], [[Gesamtgesellschaft]], [[Firma]], [[Staat]]

@@ -2,7 +2,7 @@
 die [[Nahaufnahmen]]
 
 ---
-*[[C1-Lesen-1-000-Text#^8|^]]* Dann wird ein Beobachtungsroboter ins Wasser gelassen, der [[Nahaufnahmen]] des Meeresbodens [[liefert]]. ^8
+*[[C1-Lesen-T1-000-Text#^8|^]]* Dann wird ein Beobachtungsroboter ins Wasser gelassen, der [[Nahaufnahmen]] des Meeresbodens [[liefert]]. ^8
 
 
 ---

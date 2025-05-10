@@ -1,13 +1,13 @@
  🧺 [[einsammeln]], [ˈaɪ̯nzaməln̩](https://youglish.com/pronounce/einsammeln/german) → [[sammelte ein]] → [[eingesammelt]]
 
 ---
-*[[C1-Lesen-1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] [[anzugehen]], entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das [[Kunststoffabfälle]] unter Wasser [[orten]] und [[einsammeln]] kann. ^1
+*[[C1-Lesen-T1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] [[anzugehen]], entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das [[Kunststoffabfälle]] unter Wasser [[orten]] und [[einsammeln]] kann. ^1
 
 
-*[[C1-Lesen-1-000-Text#^6|^]]* Deshalb entwickeln nun Wissenschaftlerinnen und Wissenschaftler der Technischen Universität München gemeinsam mit [[ausländischen]] Partner-Instituten ein System, die _4_ Aufgabe [[darin]] [[besteht]], Müll unter Wasser [[einzusammeln]]. ^6
+*[[C1-Lesen-T1-000-Text#^6|^]]* Deshalb entwickeln nun Wissenschaftlerinnen und Wissenschaftler der Technischen Universität München gemeinsam mit [[ausländischen]] Partner-Instituten ein System, die _4_ Aufgabe [[darin]] [[besteht]], Müll unter Wasser [[einzusammeln]]. ^6
 
 
-*[[C1-Lesen-1-000-Text#^15|^]]* [[Bisher]] [[läuft]] die Entwicklung aber trotz dieser erhöhten Schwierigkeiten erfolgreich: Wenn das System _9_ voll [[einsatzfähig]] ist, soll es [[Unterwasserabfälle]] mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich [[einsammeln]]. ^15
+*[[C1-Lesen-T1-000-Text#^15|^]]* [[Bisher]] [[läuft]] die Entwicklung aber trotz dieser erhöhten Schwierigkeiten erfolgreich: Wenn das System _9_ voll [[einsatzfähig]] ist, soll es [[Unterwasserabfälle]] mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich [[einsammeln]]. ^15
 
 
 

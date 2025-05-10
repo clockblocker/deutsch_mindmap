@@ -5,7 +5,7 @@ die [[Gründe]]
 *[[07-C1-Schreiben-T2-M#^4|^]]* * Zeigen Sie Verständnis dafür, dass aus finanziellen/personellen [[Gründen]] eine [[längere]] [[Einführung]] in neue [[Softwareprogramme]] schwierig sein kann. ^4
 
 
-*[[C1-Lesen-1-000-Loesung#^4|^]]* Die Präposition „[[zuliebe]]“ drückt einen [[Grund]] oder eine [[Absicht]] aus (um jemandes Willen). Dies passt nicht zum Kontext der Mengenangabe. ^4
+*[[C1-Lesen-T1-000-Loesung#^4|^]]* Die Präposition „[[zuliebe]]“ drückt einen [[Grund]] oder eine [[Absicht]] aus (um jemandes Willen). Dies passt nicht zum Kontext der Mengenangabe. ^4
 
 
 ---

@@ -2,7 +2,7 @@
 die [[Reste]]
 
 ---
-*[[C1-Lesen-1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[absenken|sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
+*[[C1-Lesen-T1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[absenken|sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
 
 
 ---
@@ -30,3 +30,4 @@ D: dem [[Rest]], den [[Resten]]
 
 
 #Maskulin 
+, [[Kunststoffreste]]

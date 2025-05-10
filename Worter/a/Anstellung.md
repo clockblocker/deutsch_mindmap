@@ -1,1 +1,1 @@
-, [[anstellen]], [[Entlassung]], [[Angestellte]], [[Betriebszugehörigkeit]]
+, [[anstellen]], [[Entlassung]], [[Angestellte]], [[Betriebszugehörigkeit]], [[Massenentlassung]]

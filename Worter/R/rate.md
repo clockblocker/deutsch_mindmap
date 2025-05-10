@@ -1,2 +1,2 @@
 💡 [[raten]]
-, [[FEUERRATE]]
+, [[FEUERRATE]], [[Geburtenrate]]

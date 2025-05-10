@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kunst]], [[Kunsts]], [[Künste]], [[Künsten]]
 
 ---
-#Substantiv #Feminin, [[Vorfahre]], [[s1 e1]], [[Künstler]], [[Kunstauktionen]], [[Kunsthandel]], [[Kunstschaffende]], [[Kunsterzieher]], [[Kunstinteresse]], [[Künstlerin]], [[künstlerischer]], [[Kunststoffabfall]]
+#Substantiv #Feminin, [[Vorfahre]], [[s1 e1]], [[Künstler]], [[Kunstauktionen]], [[Kunsthandel]], [[Kunstschaffende]], [[Kunsterzieher]], [[Kunstinteresse]], [[Künstlerin]], [[künstlerischer]], [[Kunststoffabfall]], [[Kunststoffreste]]

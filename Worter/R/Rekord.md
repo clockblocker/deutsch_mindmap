@@ -1,1 +1,1 @@
-, [[rekordverdächtig]]
+, [[rekordverdächtig]], [[Temperaturrekord]]

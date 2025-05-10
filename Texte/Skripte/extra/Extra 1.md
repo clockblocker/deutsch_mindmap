@@ -28,12 +28,15 @@ Episode One: Sams [[Ankunft]]
 Sie [[wohnen]] [[zusammen]] in Berlin.  
 [[Extra 1.md#^1|(q)]] Sie haben einen [[Nachbarn]]: Nic.   ^1
 
-Nic ist in Sascha [[verliebt]].  
+*[[Extra 1#^3|^]]* Nic ist in Sascha [[verliebt]]. ^3
+
 Und Anna ist in Nic [[verliebt]].  
 Aber [[dann]] [[bekommt]] Sascha [[Post]] aus Amerika ...
 
 Jo, ich hab dir [[doch]] [[gesagt]]: – Es ist [[vorbei]]!!!  
-(Und [[nenn]] mich bitte nicht CHA CHA). dsfbjkdfsg [[Brieffreundes]]
+(Und [[nenn]] mich bitte nicht CHA CHA).
+
+[[Brieffreundes]]
 
 Hallo Jo.
 

@@ -1,0 +1,1 @@
+🔥 [[Waldbrand]] | 🔴 die [[Waldbrände]] 🔥

@@ -3,7 +3,7 @@
 ✅ [[absolvieren]], [ˌapzoˈviːʁən](https://youglish.com/pronounce/absolvieren/german) → [[absolvierte]] → haben [[absolviert]]
 
 ---
-*[[C1-Lesen-1-001-Text#^20|^]]* Cordula ist einer von [[insgesamt]] 15 Hunden, die im [[Rahmen]] einer [[Studie]] ein [[einwöchiges]] Spezialtraining [[absolviert]] haben. ^20
+*[[C1-Lesen-T1-001-Text#^20|^]]* Cordula ist einer von [[insgesamt]] 15 Hunden, die im [[Rahmen]] einer [[Studie]] ein [[einwöchiges]] Spezialtraining [[absolviert]] haben. ^20
 
 
 Allerdings erhält man nicht oft die [[Chance]], ein MBA-Studium an der Harvard-Universität zu [[absolvieren]].

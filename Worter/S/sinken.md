@@ -7,7 +7,7 @@ sein [[gesunken]]
 ---
 Tot [[zusinken|sank]] dieser zu Boden und die restliche Herde raste in panischem Schrecken davon.
 
-*[[C1-Lesen-1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
+*[[C1-Lesen-T1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
 
 
 ---

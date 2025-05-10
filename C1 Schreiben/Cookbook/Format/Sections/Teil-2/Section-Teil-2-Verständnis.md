@@ -177,6 +177,9 @@ die Bibliothek angesichts der Umbauarbeiten nicht alle Bedürfnisse berücksicht
 da die Besucherzahl zum Jahresende deutlich gestiegen ist. ^33
 
 
+---
+
+![[021-C1-Schreiben-T2#^4|^]] 
 
 
 ----

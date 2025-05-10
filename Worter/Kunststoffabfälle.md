@@ -1,2 +1,2 @@
 🗑️ [[Kunststoffabfall]] | 🔵 der [[Kunststoffabfall]] 🗑️
-, [[einsammeln]]
+, [[einsammeln]], [[Kunststoffreste]]

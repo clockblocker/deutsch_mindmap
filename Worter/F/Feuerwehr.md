@@ -23,4 +23,4 @@ Accusative: den [[Feuerwehr]], die [[Feuerwehren]]
 Genitive: des [[Feuerwehrs]], der [[Feuerwehren]]  
 Dative: dem [[Feuerwehr]], den [[Feuerwehren]] 
 
-[[feuerwehrmäßig]], [[Feuerwehrmann]], [[Feuerwehrfrau]], [[Feuerwehrauto]]
+[[feuerwehrmäßig]], [[Feuerwehrmann]], [[Feuerwehrfrau]], [[Feuerwehrauto]], [[Waldbrand]]

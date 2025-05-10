@@ -1,5 +1,7 @@
 [[0 Grad]]
 ---> 🧩 [[Grad-Ganzheit]] <---
+
+wurden [[nahezu]] jeden Sommer neue Temperaturrekorde verzeichnet
 #### ⚪ [[vollständig]]
 1) [[vollständig]] *(complete; neutral register)*
 2) [[komplett]] *(complete; casual/emphatic)*

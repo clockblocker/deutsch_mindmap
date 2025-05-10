@@ -1,1 +1,1 @@
-, [[Fächer]]
+, [[Fächer]], [[klimafreundlich]]

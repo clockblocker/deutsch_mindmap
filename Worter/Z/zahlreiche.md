@@ -2,6 +2,8 @@ zahlreiche, [ˈtsaːlˌʁaɪ̯çə]
 nicht [[wenige]]
 
 ---
+Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es [[zahlreiche]] persönliche [[Maßnahmen]] zum Schutz der [[Umwelt]] gibt. 
+
 Es gibt bereits [[zahlreiche]] Ausstellungen zu den Themen Berliner Mauer oder Staatssicherheit
 
 *[[04-C1-Schreiben-T2-M#^15|^]]* Auf der Seite hundesitting.de finden Sie [[zahlreiche]] [[Anzeigen]] von Menschen, die diese [[Aufgabe]] gegen [[Bezahlung]] übernehmen. ^15

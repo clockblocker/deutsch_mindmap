@@ -4,10 +4,12 @@
 ---
 Ich [[verwende]] mein Telefon auch, um Fotos zu machen.
 
-*[[C1-Lesen-1-000-Loesung#^11|^]]* „[[Dabei]]“ kann hier im Sinne von „bei dieser [[Gelegenheit]]“ oder „[[währenddessen]]“ [[verwendet]] werden und [[einleitet|leitet]] eine mögliche Schwierigkeit ein, die [[auftreten]] kann, wenn sich der Roboter dem Müll [[nähert]]. ^11
+Die Staatliche Regulierung kann sich zum Beispiel darauf beziehen, wie recycelbar Kleidung ist oder ob Plastik als Verpackungsmaterial [[verwenden]] werden darf.
+
+*[[C1-Lesen-T1-000-Loesung#^11|^]]* „[[Dabei]]“ kann hier im Sinne von „bei dieser [[Gelegenheit]]“ oder „[[währenddessen]]“ [[verwendet]] werden und [[einleitet|leitet]] eine mögliche Schwierigkeit ein, die [[auftreten]] kann, wenn sich der Roboter dem Müll [[nähert]]. ^11
 
 
-*[[C1-Lesen-1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden. ^2
+*[[C1-Lesen-T1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden. ^2
 
 
 Hier wird [[bewertet]], ob Ihr Wortschatz und die Strukturen, die Sie [[verwenden]], [[angemessen]] und [[abwechslungsreich]] sind. E

@@ -31,4 +31,4 @@ PI: [[vergessend]], PII: [[vergessen]], Zu+inf: [[zu vergessen]]
 
 ---
 [[Vergessen]], [[Vergessenheit]], [[vergeßlich]], [[unvergessen]], [[Vergesslichkeit]], [[Worter/W/Wiederholung]]
-, [[verzeihen]], [[wiedererkennen]], [[wiederholen]], [[erfassen]]
+, [[verzeihen]], [[wiedererkennen]], [[wiederholen]], [[erfassen]], [[verzeichnen]]

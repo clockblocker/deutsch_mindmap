@@ -1,1 +1,1 @@
-, [[Rente]]
+, [[Rente]], [[Rentensystem]]

@@ -1,1 +1,1 @@
-, [[Entlassung]], [[Stimmung]], [[einstellen]], [[Haltung]], [[Überzeugung]]
+, [[Entlassung]], [[Stimmung]], [[einstellen]], [[Haltung]], [[Überzeugung]], [[Massenentlassung]]

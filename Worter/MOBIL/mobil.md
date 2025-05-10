@@ -1,1 +1,1 @@
-, [[tragbar]], [[mobilitätseingeschränkt]]
+, [[tragbar]], [[mobilitätseingeschränkt]], [[Mobilität]]

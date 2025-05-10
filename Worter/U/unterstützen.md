@@ -1,3 +1,5 @@
+---> [[Ingredient-Result-Verb]] <---
+
 🤝 [[unterstützen]], [ʊntɪˈʃtʏtsən] | [[unterstützte]], haben [[unterstützt]]
 
 ---
@@ -39,4 +41,4 @@ PI: [[unterstützend]], PII: [[unterstützt]], Zu+inf: [[zu unterstützen]]
 [[unterstützen]] - [[unter]] = [[stützen]] / to support, to help, to assist
 
 ---
-[[Unterstützung]], [[Unterstützer]], [[Unterstützerin]], [[unterstützend]], [[Beistand]], [[versorgen]], [[beraten]], [[intervenieren]], [[stärken]], [[befürworten]], [[unterhalten]], [[beeinträchtigen]], [[entlasten]], [[zustimmen]], [[betreuen]]
+[[Unterstützung]], [[Unterstützer]], [[Unterstützerin]], [[unterstützend]], [[Beistand]], [[versorgen]], [[beraten]], [[intervenieren]], [[stärken]], [[befürworten]], [[unterhalten]], [[beeinträchtigen]], [[entlasten]], [[zustimmen]], [[betreuen]], [[beitragen]]

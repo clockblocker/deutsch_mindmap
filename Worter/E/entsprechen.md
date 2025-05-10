@@ -6,7 +6,7 @@
 ---
 Das [[entspricht]] unserer Idee.
 
-*[[C1-Lesen-1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]. ^3
+*[[C1-Lesen-T1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]. ^3
 
 
 [[2 prap.md#^14|(q)]] [[Entsprechend]] unserem [[Vorschlag]] ^14

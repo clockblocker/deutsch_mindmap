@@ -2,7 +2,11 @@
 die [[Brennpunkte]]
 
 ---
-*[[4 Autofrei#^1|^]]* [[Heutzutage]] steht das Thema Autofreiheit der Innenstädte am [[Brennpunkt]] der Stadtpolitikdiskussionen [[überall]]. ^1
+
+Aus diesem Grund steht das Thema Klimaschutz im [[Mittelpunkt]] öffentlicher Diskussionen.
+
+
+*[[Heutzutage]] steht das Thema Autofreiheit der Innenstädte am [[Brennpunkt]] der Stadtpolitikdiskussionen [[überall]].* [[4 Autofrei#^1|^]] 
 
 
 ---

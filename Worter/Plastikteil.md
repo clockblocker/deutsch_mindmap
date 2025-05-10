@@ -2,7 +2,7 @@
 die [[Plastikteile]]
 
 ---
-*[[C1-Lesen-1-000-Text#^4|^]]* Für viele Tiere im Ozean sind die [[Plastikteile]] eine [[akute]] _2_ [[Bedrohung]], denn oft [[fressen]] sie sie [[irrtümlich]] und [[sterben]] [[daran]]. ^4
+*[[C1-Lesen-T1-000-Text#^4|^]]* Für viele Tiere im Ozean sind die [[Plastikteile]] eine [[akute]] _2_ [[Bedrohung]], denn oft [[fressen]] sie sie [[irrtümlich]] und [[sterben]] [[daran]]. ^4
 
 
 ---

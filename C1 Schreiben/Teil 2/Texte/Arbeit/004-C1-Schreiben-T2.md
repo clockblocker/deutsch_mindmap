@@ -19,7 +19,10 @@ ich wende mich an Sie, um auf die Situation mit Ihrem Hund noch einmal einzugehe
 Ich habe vollstes Verständnis dafür, dass ein junger Hund kaum allein zu Hause bleiben kann und Sie sich daher gezwungen sehen, ihn mit ins Büro zu bringen. ^1
 
 
-Allerdings stellt sein ständiges Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und Kundengespräche erheblich, sondern beeinträchtigt auch die allgemeine Konzentration. ^2
+Allerdings stellt sein ständiges Bellen ein großes Problem für unser Team dar: ^5
+
+
+nicht nur erschwert es die Online-Meetings und Kundengespräche erheblich, sondern beeinträchtigt auch die allgemeine Konzentration. ^2
 
 
 Falls sich die Situation nicht ändert, würde ich mich leider veranlasst sehen, mich an die Hausverwaltung zu wenden. ^3

@@ -4,6 +4,8 @@ die [[Handlungen]]
 ---
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
 
+Auf der anderen Seite sind viele der festen Überzeugung, dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[einfach]]er gesagt alt getan ist.
+
 _Zuallererst liegt es jedoch an uns, dafür zu sorgen, dass es gar nicht erst zu_ [[verletzenden]] _und strafbaren_ [[Äußerungen]] _und_ [[Handlungen]] _kommt, egal ob virtuell oder real._ ^6
 
 

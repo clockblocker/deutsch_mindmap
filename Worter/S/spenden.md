@@ -3,4 +3,4 @@
 🎁 [[spenden]]
 
 🔴 die [[Spende]] 🎁
-, [[Wohltätigkeit]]
+, [[Wohltätigkeit]], [[beitragen]]

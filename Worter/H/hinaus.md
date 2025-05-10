@@ -20,4 +20,4 @@ Morpheme:
 [[hin]][[aus]]
 
 ---
-#Adverb #Präposition, [[hinauslaufen]]
+#Adverb #Präposition, [[hinauslaufen]], [[heraus]]

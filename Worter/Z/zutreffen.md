@@ -3,7 +3,7 @@
 ---
 Auf dem Niveau C1 können Sie auch feine [[Bedeutungsunterschiede]] mit dem [[jeweils]] [[zutreffenden]] Wortschatz [[ausdrücken]], es kommt hier also auch auf Nuancen an.
 
-*[[C1-Lesen-1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]. ^5
+*[[C1-Lesen-T1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]. ^5
 
 
 ---

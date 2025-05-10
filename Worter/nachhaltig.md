@@ -27,4 +27,4 @@ sustainable
 Adjektive: [[nachhaltig]], [[nachhaltiger]], [[nachhaltigst]]
 
 ---
-[[nachhaltiger]], [[nachhaltiges]], [[nachhaltige]], [[nachhaltigen]], [[nachhaltigem]], [[nachhaltigerer]], [[nachhaltigeres]], [[nachhaltigere]], [[nachhaltigeren]], [[nachhaltigerem]], [[nachhaltigster]], [[nachhaltigstes]], [[nachhaltigste]], [[nachhaltigsten]], [[nachhaltigstem]], [[erneuerbar]]
+[[nachhaltiger]], [[nachhaltiges]], [[nachhaltige]], [[nachhaltigen]], [[nachhaltigem]], [[nachhaltigerer]], [[nachhaltigeres]], [[nachhaltigere]], [[nachhaltigeren]], [[nachhaltigerem]], [[nachhaltigster]], [[nachhaltigstes]], [[nachhaltigste]], [[nachhaltigsten]], [[nachhaltigstem]], [[erneuerbar]], [[recycelbar]], [[klimafreundlich]]

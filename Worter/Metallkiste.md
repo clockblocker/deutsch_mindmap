@@ -2,7 +2,7 @@
 die [[Metallkisten]]
 
 ---
-*[[C1-Lesen-1-001-Text#^2|^]]* Cordula [[schnuppert]] an einem Loch in der großen [[Metallkiste]] und wartet. ^2
+*[[C1-Lesen-T1-001-Text#^2|^]]* Cordula [[schnuppert]] an einem Loch in der großen [[Metallkiste]] und wartet. ^2
 
 
 ---

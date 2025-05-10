@@ -1,1 +1,1 @@
-, [[Extremwetter]]
+, [[Extremwetter]], [[Waldbrand]]

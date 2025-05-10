@@ -1,1 +1,1 @@
-, [[Lager]]
+, [[Lager]], [[Bedarfsraum]]

@@ -1,1 +1,1 @@
-, [[Kunststoffabfall]]
+, [[Kunststoffabfall]], [[recycelbar]], [[Kunststoffreste]]

@@ -1,8 +1,10 @@
 einfach, [ˈaɪ̯nfax]
 nicht [[kompliziert]]
 
-
 ---
+Auf der anderen Seite sind viele der festen Überzeugung, dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[einfach]]er gesagt alt getan ist.
+
+
 in Kilo [[Mehl]], es kann von der [[einfachen]] [[Sorte]] sein
 
 • “zu + infinitiv” → [[einfaches]] Infinitiv-Konstrukt nach [[bestimmten]] Wörtern

@@ -3,7 +3,7 @@
 ⏱️ [[sobald]], [zoˈbalt](https://youglish.com/pronounce/sobald/german)
 
 ---
-*[[C1-Lesen-1-000-Text#^13|^]]* [[Sobald]] ein Stück Müll identifiziert und [[geortet]] wurde, muss sich der Roboter [[zunächst]] in [[dessen]] Nähe bewegen. ^13
+*[[C1-Lesen-T1-000-Text#^13|^]]* [[Sobald]] ein Stück Müll identifiziert und [[geortet]] wurde, muss sich der Roboter [[zunächst]] in [[dessen]] Nähe bewegen. ^13
 
 
 ---

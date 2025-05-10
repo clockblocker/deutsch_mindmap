@@ -5,7 +5,7 @@
 ---
 Niemand weiß, was wirklich [[geschehen]] ist.
 
-*[[C1-Lesen-1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet bewirken, dass etwas geschieht. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
+*[[C1-Lesen-T1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet bewirken, dass etwas geschieht. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
 
 
 ---

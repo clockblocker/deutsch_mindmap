@@ -3,7 +3,7 @@
 🕰️ [[früher]], [ˈfʁyːɐ](https://youglish.com/pronounce/früher/german)
 
 ---
-*[[C1-Lesen-1-000-Loesung#^7|^]]* „[[Früher]]“ bezieht sich [[ebenfalls]] auf eine vergangene Zeit. Die Bedrohung besteht [[weiterhin]]. ^7
+*[[C1-Lesen-T1-000-Loesung#^7|^]]* „[[Früher]]“ bezieht sich [[ebenfalls]] auf eine vergangene Zeit. Die Bedrohung besteht [[weiterhin]]. ^7
 
 
 ---

@@ -1,4 +1,4 @@
-[[C1-Lesen-1-000-Text]]
+[[C1-Lesen-T1-000-Text]]
 autonom [[agierende]] Roboter
 Ein autonom fahrendes Roboter-Boot
 Robotersystem

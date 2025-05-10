@@ -4,7 +4,7 @@ die [[Absichten]]
 ---
 Teiko to Kuro: Magst du das immer mit [[Absicht]]?
 
-*[[C1-Lesen-1-000-Loesung#^4|^]]* Die Präposition „[[zuliebe]]“ drückt einen [[Grund]] oder eine [[Absicht]] aus (um jemandes Willen). Dies passt nicht zum Kontext der Mengenangabe. ^4
+*[[C1-Lesen-T1-000-Loesung#^4|^]]* Die Präposition „[[zuliebe]]“ drückt einen [[Grund]] oder eine [[Absicht]] aus (um jemandes Willen). Dies passt nicht zum Kontext der Mengenangabe. ^4
 
 
 Meine Frau hat die [[Absicht]] an die Nordsee zu fahren

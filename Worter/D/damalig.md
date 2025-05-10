@@ -2,7 +2,7 @@
 🗓️ [[damalig]], [ˈdaːmaːlɪç](https://youglish.com/pronounce/damalig/german)
 
 ---
-*[[C1-Lesen-1-000-Loesung#^6|^]]* „Damalig“ [[bezieht]] sich auf eine frühere Zeit. Die Bedrohung durch Plastikmüll ist jedoch gegenwärtig, nicht nur in der Vergangenheit. ^6
+*[[C1-Lesen-T1-000-Loesung#^6|^]]* „Damalig“ [[bezieht]] sich auf eine frühere Zeit. Die Bedrohung durch Plastikmüll ist jedoch gegenwärtig, nicht nur in der Vergangenheit. ^6
 
 
 ---

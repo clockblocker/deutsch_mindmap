@@ -11,9 +11,12 @@
 📎 [[zur Folge haben]] *(to have as a consequence; bureaucratic phrasing)*
 🕰️ [[geschehen]] *to happen, to occur, to take place*
 
+#### 🌱 [[Unterhaltung]]
+[[fördern]]
+[[unterstützen]]
+[[unterhalten]]
 
 ---
-
 #### 📈 Steigerung / Veränderung
 📈 [[steigen]] *(to rise; numerical or quantitative growth)*
 🌿 [[wachsen]] *(to grow; organic, general increase)*

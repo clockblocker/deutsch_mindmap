@@ -30,4 +30,4 @@ D: der [[Sozialversicherung]], den [[Sozialversicherungen]]
 
 ---
 [[sozial]], [[versichern]], [[Versicherung]], [[Sozialstaat]], [[Sozialleistung]], [[Krankenkasse]]
-, [[Pflegeversicherung]], [[Sozialversicherungsausweis]]
+, [[Pflegeversicherung]], [[Sozialversicherungsausweis]], [[Rentensystem]]

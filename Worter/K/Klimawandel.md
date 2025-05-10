@@ -1,1 +1,1 @@
-, [[Hitzewelle]], [[Extremwetter]]
+, [[Hitzewelle]], [[Extremwetter]], [[klimafreundlich]]

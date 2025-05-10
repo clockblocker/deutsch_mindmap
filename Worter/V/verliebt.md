@@ -1,1 +1,1 @@
-💘 [[verlieben]] | 💘 [[verliebt]]
+[[verlieben]]

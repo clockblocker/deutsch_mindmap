@@ -1,1 +1,1 @@
-[[Wetter]], [[Monsun]], [[Klimabedingung]], [[Arbeitsumfeld]]
+[[Wetter]], [[Monsun]], [[Klimabedingung]], [[Arbeitsumfeld]], [[klimafreundlich]]

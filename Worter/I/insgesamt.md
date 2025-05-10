@@ -3,7 +3,7 @@
 ---
 Das Hotel hat [[insgesamt]] zehn Zimmer.
 
-*[[C1-Lesen-1-001-Text#^20|^]]* Cordula ist einer von [[insgesamt]] 15 Hunden, die im [[Rahmen]] einer [[Studie]] ein [[einwöchiges]] Spezialtraining [[absolviert]] haben. ^20
+*[[C1-Lesen-T1-001-Text#^20|^]]* Cordula ist einer von [[insgesamt]] 15 Hunden, die im [[Rahmen]] einer [[Studie]] ein [[einwöchiges]] Spezialtraining [[absolviert]] haben. ^20
 
 
 Wird das Kriterium [[Aufgabenerfüllung]] für eine Aufgabe mit E (0 Punkte) [[bewertet]], dann ist das [[Ergebnis]] für diese Aufgabe [[insgesamt]] 0 Punkte.

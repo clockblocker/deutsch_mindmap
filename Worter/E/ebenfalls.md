@@ -3,7 +3,7 @@
 ---
 Dieses Hotel [[bietet]] [[ebenfalls]] einen Blick aufs Meer.
 
-*[[C1-Lesen-1-000-Loesung#^7|^]]* „[[Früher]]“ bezieht sich [[ebenfalls]] auf eine vergangene Zeit. Die Bedrohung besteht [[weiterhin]]. ^7
+*[[C1-Lesen-T1-000-Loesung#^7|^]]* „[[Früher]]“ bezieht sich [[ebenfalls]] auf eine vergangene Zeit. Die Bedrohung besteht [[weiterhin]]. ^7
 
 
 *[[3  Ein Selbstversuch als Hobbybäuerin#^49|^]]* Superman hatte [[ebenfalls]] einen Bürojob, und er rettete die Welt schließlich auch nicht in eineinhalb Stunden. ^49

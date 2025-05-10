@@ -2,7 +2,7 @@
 die [[Füße]]
 
 ---
-*[[C1-Lesen-1-001-Text#^19|^]]* Es hat sich [[gelohnt]]: Aus einer Metallbox [[fällt]] ihr ein [[Leckerbissen]] vor die [[Füße]]. ^19
+*[[C1-Lesen-T1-001-Text#^19|^]]* Es hat sich [[gelohnt]]: Aus einer Metallbox [[fällt]] ihr ein [[Leckerbissen]] vor die [[Füße]]. ^19
 
 
 zu [[Fuß]] gegangen

@@ -24,13 +24,15 @@ ich wende mich an Sie, um auf die Situation mit unserer temporär geschlossenen 
 Ich habe vollstes Verständnis dafür, dass die Umbauarbeiten notwendig sind – insbesondere, da seit mehreren Jahren keine grundlegende Erneuerung stattgefunden haben. ^4
 
 
-Allerdings sind die Mitarbeitenden ohne die Kantine gezwungen, jeden Tag ihr Essen zu Hause vorzubereiten, da ^5
+Allerdings sind die Mitarbeitenden ohne die Kantine gezwungen, jeden Tag ihr Essen zu Hause vorzubereiten,  ^5
 
 
-es in der Nähe weder Restaurants noch Supermärkte gibt. Dadurch wird Freizeit durch einen zusätzlichen Aufwand wie Einkaufen und Kochen verkürzt. ^3
+da es in der Nähe weder Restaurants noch Supermärkte gibt. 
+
+Dadurch wird Freizeit durch einen zusätzlichen Aufwand wie Einkaufen und Kochen verkürzt. ^3
 
 
-Aus diesem Grund finde ich es sinnvoll, der Belegschaft die Möglichkeit zu geben, während der Mittagspause eine warme Mahlzeit zu erhalten. ^2
+Aus diesem Grund wäre es wünschenswert, der Belegschaft eine entsprechende Möglichkeit anzubieten ^2
 
 
 Wenn ein Essenwagen nicht organisiert werden kann, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren. ^1

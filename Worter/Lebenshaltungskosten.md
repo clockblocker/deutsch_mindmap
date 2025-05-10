@@ -27,4 +27,4 @@ A: die [[Lebenshaltungskosten]]
 G: der [[Lebenshaltungskosten]]
 D: den [[Lebenshaltungskosten]]
 
-#Plural 
+#Plural , [[Grünsteuer]]

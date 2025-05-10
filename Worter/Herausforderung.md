@@ -5,6 +5,9 @@ die [[Herausforderungen]]
 [[1 Wer bin ich und was mache ich hier?#^12|(q)]] Diese Anwendung hat das Sprachenlernen für mich in ein spannendes Spiel und den politischen Druck in eine spannende [[Herausforderung]] [[verwandelt]]. ^12
 
 
+Heute wird kontrovers darüber diskutiert, was die Menschen für die Klimaschutz tun könnte, um die [[Herausforderungen]] des Klimawechsels zu [[bewältigen]].
+
+
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^2|^]]* _Besonders bei_ [[Behördengängen]] _verstehen viele oft nur wenig und sind auf einen_ [[Dolmetscher]] [[angewiesen]] _. Wer schon einmal einen Brief von einer_ [[Behörde]] _bekommen hat, weiß, dass diese komplizierten_ [[Satzkonstruktionen]] _auch für_ [[Muttersprachler]] _eine_ [[Herausforderung]] _sein können.
 
 *[[3  Ein Selbstversuch als Hobbybäuerin#^6|^]]* Nicht, weil ich [[unbedingt]] mit einer [[Großtat]] in die [[Geschichtsbuch]] eingehen wollte, sondern vor einer weiteren [[Herausforderung]] stehe. ^6

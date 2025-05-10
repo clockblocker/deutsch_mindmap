@@ -2,7 +2,7 @@
 die [[Müllspäher]]
 
 ---
-*[[C1-Lesen-1-000-Text#^10|^]]* Alle Informationen dieser „[[Müllspäher]]“ werden dann zu einer virtuellen Karte kombiniert. ^10
+*[[C1-Lesen-T1-000-Text#^10|^]]* Alle Informationen dieser „[[Müllspäher]]“ werden dann zu einer virtuellen Karte kombiniert. ^10
 
 ---
 = [[Müllsammler]], [[Müllwerker]]

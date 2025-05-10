@@ -1,10 +1,10 @@
 👃 [[Erschnüffeln]], [ɛɐ̯ˈʃnʏfəln̩](https://youglish.com/pronounce/erschnüffeln/german) → [[erschnüffelte]] → haben [[erschnüffelt]]
 
 ---
-*[[C1-Lesen-1-001-Text#^1|^]]* Hunde haben sich beim [[Erkennen]] von Corona-[[Viren]] [[bewährt]]. Und sie [[taugen]] auch zum [[Erschnüffeln]] von anderen Krankheiten. ^1
+*[[C1-Lesen-T1-001-Text#^1|^]]* Hunde haben sich beim [[Erkennen]] von Corona-[[Viren]] [[bewährt]]. Und sie [[taugen]] auch zum [[Erschnüffeln]] von anderen Krankheiten. ^1
 
 
-*[[C1-Lesen-1-001-Text#^6|^]]* Man hatte sie nicht nur mit [[Speichelproben]] trainiert, aber sie [[erschnüffelten]] Corona [[ebenso]] [[zuverlässig]] in Urin- und Schweißproben. ^6
+*[[C1-Lesen-T1-001-Text#^6|^]]* Man hatte sie nicht nur mit [[Speichelproben]] trainiert, aber sie [[erschnüffelten]] Corona [[ebenso]] [[zuverlässig]] in Urin- und Schweißproben. ^6
 
 
 ---

@@ -1,2 +1,2 @@
 , [[Arbeitsamt]], [[Arbeitsplatz]], [[Stelle]], [[Arbeitsverhältnis]], [[Arbeitslosenversicherung]], [[Kündigungsschutzklage]], [[Lehrstellensuche]], [[Berufswahl]], [[Arbeitsbedingungen]]
-, [[Beschäftigung]], [[Arbeitsstelle]], [[Erwerbstätigkeit]], [[Berufstätigkeit]]
+, [[Beschäftigung]], [[Arbeitsstelle]], [[Erwerbstätigkeit]], [[Berufstätigkeit]], [[Rentensystem]]

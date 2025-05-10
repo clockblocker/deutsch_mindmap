@@ -2,6 +2,9 @@ das [[Geschäft]]
 [[Geschäfte]]
 
 ---
+ Man kann zum Beispiel das Fahrrad statt des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, [[anstatt]] in modischen [[Geschäften]] ständig [[Neues]] zu [[erwerben]].
+
+
 Das [[Geschäft]] schließt heute schon um fünf Uhr.
 
 Man soll ins [[Geschäft]] gehen, viel Essen und viele Getränke kaufen.

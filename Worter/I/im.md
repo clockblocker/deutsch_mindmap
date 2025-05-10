@@ -15,4 +15,4 @@ im Dezember
 
 im [[Jahreszeit]]
 
-, [[Konnektivpartikeln]], [[Konjunktoren]]
+, [[Konnektivpartikeln]], [[Konjunktoren]], [[im Laufe]]

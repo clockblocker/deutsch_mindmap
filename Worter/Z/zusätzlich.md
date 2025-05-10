@@ -9,7 +9,7 @@ Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezei
 *[[100-C1-Schreiben-T2#^5|^]]* Wenn keine [[zusätzliche]] Steckdosen momentan [[eingebaut]] werden können, schlage ich vor, die Nutzung von Powerbanks bis zum Ende der Umbauarbeiten zu [[erlauben]]. ^5
 
 
-*[[C1-Lesen-1-000-Text#^9|^]]* Bei guten [[Sichtverhältnissen]] sorgt [[zusätzlich]] eine Drohne aus der Luft [6], dass weiterer Müll im Wasser [[erkannt]] wird. ^9
+*[[C1-Lesen-T1-000-Text#^9|^]]* Bei guten [[Sichtverhältnissen]] sorgt [[zusätzlich]] eine Drohne aus der Luft [6], dass weiterer Müll im Wasser [[erkannt]] wird. ^9
 
 
 *„Mitarbeitenden wird ein [[zusätzlicher]] [[Urlaubstag]] [[gewährt]].“*

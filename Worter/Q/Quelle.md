@@ -4,7 +4,7 @@ die [[Quellen]]
 ---
  Das Licht stammt von einer unglaublich starken [[Quelle]], das muss er sein!
 
-*[[C1-Lesen-1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]. ^3
+*[[C1-Lesen-T1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]. ^3
 
 
 ---

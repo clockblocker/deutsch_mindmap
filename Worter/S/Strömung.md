@@ -2,7 +2,7 @@
 die [[Strömungen]]
 
 ---
-*[[C1-Lesen-1-000-Text#^14|^]]* [8] kann er [[mitunter]] auf starke [[Strömungen]] treffen, gegen die er sich [[durchsetzen]] muss. ^14
+*[[C1-Lesen-T1-000-Text#^14|^]]* [8] kann er [[mitunter]] auf starke [[Strömungen]] treffen, gegen die er sich [[durchsetzen]] muss. ^14
 
 
 ---

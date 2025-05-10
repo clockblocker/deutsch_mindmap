@@ -1,30 +1,48 @@
-💘 [[verlieben]]😍 [[verlieben]], [fɛɐ̯ˈliːbən] | [[verliebte]], haben [[verliebt]]
+😍 [[verlieben]], [fɛɐ̯ˈliːbn̩](https://youglish.com/pronounce/verlieben/german) → [[verliebte]] → haben/sein [[verliebt]]
 
 ---
-In love, [[verlaufen]]
+*[[Extra 1#^3|^]]* Nic ist in Sascha [[verliebt]]. ^3
+
 
 ---
-= [[sich verknallen]], [[sich verzeteln]]
-≈ [[Gefühle entwickeln]], [[Zuneigung fassen]], [[sich hingezogen fühlen]]
-≠ [[ablehnen]], [[zurückweisen]], [[ignorieren]]
+= [[sich verlieben]], [[entzückt sein]]
+≈ [[lieben]], [[anbeten]], [[vergöttern]]
+≠ [[verachten]], [[hassen]], [[ablehnen]]
 
 ---
-to fall in love
+to fall in love  
+влюбляться
+
+---
+[[Liebe]], [[verliebt sein]], [[Verliebtheit]], [[Liebeskummer]], [[verliebt machen]]
 
 ---
 [[ver]]|[[lieb]]|[[en]]
+[[ver]] + [[lieben]]
+
 
 ---
-ich: [[verliebe]], [[verliebte]], –, [[verliebe]], [[verliebte]]
-du: [[verliebst]], [[verliebtest]], [[verliebe]] | [[verlieb]], [[verliebest]], [[verliebtest]]
-er/sie/es: [[verliebt]], [[verliebte]], –, [[verliebe]], [[verliebte]]
-wir: [[verlieben]], [[verliebten]], [[verlieben wir|verlieben]], [[verlieben]], [[verliebten]]
-ihr: [[verliebt]], [[verliebt]], [[verliebt]], [[verliebt]], [[verliebt]]
+###### [[verlieben]] *[[sich]]* `in` jN
+- `Worin` [[hast]] du *[[dich]]* [[verliebt]]?
+- `In` ihre Augen.
 
-PI: [[verliebeend]], PII: [[verliebt]], Zu+inf: [[zuverlieben]]
+- `In` wen [[hat]] er *[[sich]]* [[verliebt]]?
+- `In` seine Nachbarin.
+
+- Wie lange [[hast]] du *[[dich]]* `darin` [[verliebt]]?
+- Seit einem Jahr.
 
 ---
-[[verlieben]] - [[ver]] = [[lieben]] / to fall in love
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[verlieb]] / [[verliebe]], [[verliebte]], [[verliebe]], [[verliebte]], -
+du, [[verliebst]], [[verliebtest]], [[verliebst]], [[verliebtest]], [[verlieb]] / [[verliebe]]
+er, [[verliebt]], [[verliebte]], [[verliebe]], [[verliebte]], -
+wir, [[verlieben]], [[verliebten]], [[verlieben]], [[verliebten]], [[verlieben]]
+ihr, [[verliebt]], [[verliebtet]], [[verliebt]], [[verliebtet]], [[verliebt]]
+sie, [[verlieben]], [[verliebten]], [[verlieben]], [[verliebten]], [[verlieben]]
+
+*Zu + Inf*: sich zu [[verlieben]], *P2*: [[verliebt]]
+Adjektive: [[verliebend]], [[verliebender]], [[verliebendst]]
 
 ---
-[[Verliebter]], [[Verliebte]], [[verliebt]], [[Verliebtheit]], [[Liebe]]
+[[verliebender]], [[verliebendes]], [[verliebende]], [[verliebenden]], [[verliebendem]], [[verliebenderer]], [[verliebenderes]], [[verliebendere]], [[verliebenderen]], [[verliebenderem]], [[verliebendster]], [[verliebendstes]], [[verliebendste]], [[verliebendsten]], [[verliebendstem]]

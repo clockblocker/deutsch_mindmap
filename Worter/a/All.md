@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[Worter/A/Alle]], [[aller]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
 [[ganz]], [[ganze]], [[ganzes]], [[ganzen]], [[ganzem]], [[ganze]], [[ganzen]], [[überall]], [[Allgemeine]], [[allgemein]]
-, [[Worter/A/Alle]], [[allmählich]], [[allwöchentlich]]
+, [[Worter/A/Alle]], [[allmählich]], [[allwöchentlich]], [[Alltag]]

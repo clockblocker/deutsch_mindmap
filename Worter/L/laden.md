@@ -2,6 +2,8 @@ der [[Laden]] - store
 [[laden]] + Akk/Dat, [ˈlaːdn̩], [[lud]] , haben [[geladen]]
 
 ---
+Man kann zum Beispiel das Fahrrad statt des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, [[anstatt]] in modischen [[Geschäften]] ständig [[Neues]] zu [[erwerben]].
+
 Eigentlich [[versteht]] Uli viel von Computern, aber hier ist er wirklich [[ratlos]]. Also bringt er den [[Rechner]] zurück in den [[Laden]]. 
 
 
@@ -34,3 +36,6 @@ Morpheme: [[la]][[d]][[en]]
 
 Partizip I: [[ladend]], Partizip II: [[geladen]]
 [[laden]] - [[la]] = [[d]]en, [[abfeuern]], [[Aufrufen]]
+
+
+#Maskulin 

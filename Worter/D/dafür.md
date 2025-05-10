@@ -1,7 +1,7 @@
 ---> 🤝 [[Ingredient-Interaktion]] <---
 Er war groß und [[bullig]] und hatte fast keinen Hals, dafür aber einen sehr großen [[Schnurrbart]].
 
-*[[C1-Lesen-1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet bewirken, dass etwas geschieht. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
+*[[C1-Lesen-T1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet bewirken, dass etwas geschieht. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
 
 
 ANNA: Das ist doch ein [[Witz]]! Und [[dafür]] bekommen sie E-Mails von 633 Frauen.  
@@ -23,3 +23,5 @@ Morphems:
 ---
 #Adverb
 [[Dazu]], [[dabei]], [[sparen]], [[da]], [[hierfür]]
+
+[[ver]]

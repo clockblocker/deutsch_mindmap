@@ -4,7 +4,7 @@
 die [[Ablehnungen]]
 
 ---
-*[[C1-Lesen-1-000-Loesung#^10|^]]* „Dagegen“ drückt einen Gegensatz oder eine [[Ablehnung]] aus. Dies passt nicht zum Kontext der Unterstützung bei der Müllerkennung. ^10
+*[[C1-Lesen-T1-000-Loesung#^10|^]]* „Dagegen“ drückt einen Gegensatz oder eine [[Ablehnung]] aus. Dies passt nicht zum Kontext der Unterstützung bei der Müllerkennung. ^10
 
 
 ---

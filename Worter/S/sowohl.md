@@ -3,6 +3,9 @@
 ---
 Mit diesem Kriterium wird die [[inhaltliche]] [[Bearbeitung]] der Aufgabe [[bewertet]].
 
+In den vergangenen zehn Jahren wurden [[nahezu]] jeden Sommer neue [[Temperaturrekorde]] [[verzeichnet]], und [[sowohl]] die [[Zahl]] der Hitzewellen als auch der Waldbrände ist deutlich [[gestiegen]]. 
+
+
 ---
 = [[ebenso]], [[auch]], [[sowohl ... als auch]]
 ≈ [[und]], [[ferner]], [[des Weiteren]]

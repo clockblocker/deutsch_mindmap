@@ -1,1 +1,1 @@
-, [[Bedarf]]
+, [[Bedarf]], [[Bedarfsraum]]

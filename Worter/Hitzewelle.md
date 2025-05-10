@@ -2,6 +2,8 @@
 die [[Hitzewellen]]
 
 ---
+In den vergangenen zehn Jahren wurden nahezu jeden Sommer neue [[Temperaturrekorde]] [[verzeichnet]]; [[mittlerweile]] ist die Zahl der [[Hitzewellen]] und [[Waldbrände]] deutlich gestiegen.
+
 *[[Golfstorm#^1|^]]* Alle sorgen sich wegen höherer Temperaturen und [[Hitzewellen]], doch was wäre, wenn es plötzlich kühler würde? ^1
 
 ---
@@ -54,3 +56,6 @@ N: die [[Hitzewelle]], die [[Hitzewellen]]
 A: die [[Hitzewelle]], die [[Hitzewellen]]
 G: der [[Hitzewelle]], der [[Hitzewellen]]
 D: der [[Hitzewelle]], den [[Hitzewellen]]
+
+
+#Feminin 
