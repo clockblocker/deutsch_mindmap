@@ -1,1 +1,1 @@
-[[getrennt]], [[aneinander]], [[selbständig]], [[Je mehr]], [[geschlechtsabhängig]], [[unterworfen]], [[wobei]], [[meinetwillen]]
+[[getrennt]], [[aneinander]], [[selbständig]], [[Je mehr]], [[geschlechtsabhängig]], [[unterworfen]], [[wobei]], [[meinetwillen]], [[eigenständig]]

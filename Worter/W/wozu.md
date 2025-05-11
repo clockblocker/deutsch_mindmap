@@ -24,4 +24,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen:
 [[wozu]]
-'''
+''', [[Grammatik-Pronomen-Interrogative]]

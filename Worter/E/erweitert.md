@@ -1,1 +1,1 @@
-, [[verkürzt]]
+, [[verkürzt]], [[erweitern]]

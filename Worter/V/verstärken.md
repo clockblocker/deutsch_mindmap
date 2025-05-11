@@ -1,5 +1,4 @@
----> [[Ingredient-Verb-Wachstum-Steigerung]] <---
-, [[erhöhen]], [[ersetzen]], [[stärken]], [[abschwächen]], [[steigern]]
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 💪 [[verstärken]], [fɛɐ̯ˈʃtɛʁkn̩](https://youglish.com/pronounce/verstärken/german) → [[verstärkte]] → haben [[verstärkt]]
 
 ---
@@ -50,4 +49,4 @@ sie, [[verstärken]], [[verstärkten]], [[verstärken]], [[verstärkten]], [[ver
 Adjektive: [[verstärkend]], [[verstärkender]], [[verstärkendst]]
 
 ---
-[[verstärkender]], [[verstärkendes]], [[verstärkende]], [[verstärkenden]], [[verstärkendem]], [[verstärkenderer]], [[verstärkenderes]], [[verstärkendere]], [[verstärkenderen]], [[verstärkenderem]], [[verstärkendster]], [[verstärkendstes]], [[verstärkendste]], [[verstärkendsten]], [[verstärkendstem]]
+[[verstärkender]], [[verstärkendes]], [[verstärkende]], [[verstärkenden]], [[verstärkendem]], [[verstärkenderer]], [[verstärkenderes]], [[verstärkendere]], [[verstärkenderen]], [[verstärkenderem]], [[verstärkendster]], [[verstärkendstes]], [[verstärkendste]], [[verstärkendsten]], [[verstärkendstem]], [[Bedeutungsverstärkung]]

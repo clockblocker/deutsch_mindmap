@@ -1,3 +1,5 @@
+[[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien|Demonstrativ-Pronominaladverb]]
+
 🔵 daran
 
 Denkst du an Anja?
@@ -41,4 +43,4 @@ Morphems:
 
 ---
 Tags:
-#Adverb #Pronomen, [[11 08]], [[s1 e1]], [[zerbrechen]], [[da]]
+#Adverb #Pronomen, [[11 08]], [[s1 e1]], [[zerbrechen]], [[da]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]

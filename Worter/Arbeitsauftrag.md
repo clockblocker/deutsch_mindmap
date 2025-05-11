@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🔵 📝 der [[Arbeitsauftrag]], [ˈaʁbaɪ̯t͡sʔaʊ̯fˌtʁaːk]
 die [[Arbeitsaufträge]]
 

@@ -1,3 +1,3 @@
 [[Dativ pronomen]]
-[[Genetiv possessiv Pronomen]]
-, [[Du]]
+[[Grammatik-Attributiv-Possessiv-Pronomen-Genetiv]]
+, [[Du]], [[Grammatik-Pronomen-Personal]]

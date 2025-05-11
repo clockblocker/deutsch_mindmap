@@ -1,1 +1,1 @@
-, [[ansammeln]], [[sammeln]], [[versammeln]], [[Saatgutsammler]], [[einsammeln]]
+, [[ansammeln]], [[sammeln]], [[versammeln]], [[Saatgutsammler]], [[einsammeln]], [[Absammeln]]

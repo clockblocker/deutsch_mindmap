@@ -1,2 +1,2 @@
----> [[Ingredient-Verb-Wachstum-Steigerung]] <---
-, [[einbauen]], [[kürzen]], [[einrichten]]
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+, [[einbauen]], [[kürzen]], [[einrichten]], [[vergrößern]]

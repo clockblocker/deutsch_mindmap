@@ -28,3 +28,4 @@ G: des [[Ortes]], der [[Orte]]
 D: dem [[Ort]], den [[Orten]]
 
 #Maskulin 
+, [[vielerorts]]

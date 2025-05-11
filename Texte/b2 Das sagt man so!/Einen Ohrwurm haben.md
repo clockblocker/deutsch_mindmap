@@ -10,7 +10,7 @@
 
 *[[Einen Ohrwurm haben#^2|^]]* Am liebsten hört er Pop-Musik aus den 60ern und 70er. ^2
 
-*[[Einen Ohrwurm haben#^3|^]]* Deshalb hat er auch einen Oldie-[[Sender]] auf seinem Radio-[[Wecker]] [[eingestellt]]. ^3
+*[[Einen Ohrwurm haben#^3|^]]* Deshalb hat er auch einen Oldie-[[Sender]] auf seinem [[Radio]]-[[Wecker]] [[eingestellt]]. ^3
 
 *[[Einen Ohrwurm haben#^4|^]]* Heute Morgen spielt er „Yellow Submarine“ von den Beatles. ^4
 

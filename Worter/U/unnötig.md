@@ -31,4 +31,4 @@ P: [[unnötigen]], [[unnötigeren]], [[unnötigsten]]
 [[Unnötigkeit]], [[nötig]], [[notwendig]], [[unnütze]], [[überflüssig]]
 
 [[nötig]], [[überflüssig]], [[dien]], [[notwendig]], [[unentbehrlich]]
-, [[dringend]]
+, [[dringend]], [[lebenswichtig]]

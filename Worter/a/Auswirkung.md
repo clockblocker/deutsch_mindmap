@@ -29,4 +29,4 @@ G: der [[Auswirkung]], der [[Auswirkungen]]
 D: der [[Auswirkung]], den [[Auswirkungen]]
 , [[Einfluss]]
 
-#Feminin , [[Wirkung]]
+#Feminin , [[Wirkung]], [[Umwelteinfluss]]

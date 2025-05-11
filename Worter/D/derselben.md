@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Selben]], [[Selber]], [[Selbes]], [[Selbem]], [
 
 ---
 #Substantiv #Maskulin
-''', [[dieselbe]]
+''', [[dieselbe]], [[derselbe]]

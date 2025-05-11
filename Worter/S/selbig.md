@@ -1,1 +1,1 @@
-, [[derselben]]
+, [[derselben]], [[derselbe]]

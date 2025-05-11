@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schirms]], [[Schirme]], [[Schirmen]]
 
 ---
-#Substantiv #Maskulin, [[Bildschirm]]
+#Substantiv #Maskulin, [[Bildschirm]], [[abschiermen]]

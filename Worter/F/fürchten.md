@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 😨 [[fürchten]], [ˈfʏʁçtn̩](https://youglish.com/pronounce/fürchten/german) | [[fürchtete]], haben [[gefürchtet]]
 
 ---

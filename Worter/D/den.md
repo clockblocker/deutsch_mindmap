@@ -25,4 +25,4 @@ Tags:
 
 Morphems:
 [[den]], [[unterscheiden]]
-, [[vermeiden]], [[gefährden]]
+, [[vermeiden]], [[gefährden]], [[der]], [[Grammatik-Pronomen-Relativ-Selbständige]], [[schaden]]

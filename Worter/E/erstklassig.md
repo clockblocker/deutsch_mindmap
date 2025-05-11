@@ -1,1 +1,3 @@
+---> [[Grad-gut]] <--
+
 , [[hervorragend]], [[großartig]]

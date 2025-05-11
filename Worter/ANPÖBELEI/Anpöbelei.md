@@ -1,1 +1,1 @@
-, [[Beleidigung]]
+, [[Beleidigung]], [[Beschimpfung]]

@@ -1,1 +1,1 @@
-, [[sprießen]]
+, [[sprießen]], [[beleben]]

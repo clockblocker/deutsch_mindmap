@@ -1,0 +1,1 @@
+#Plural , [[der]], [[derjenige]], [[Mehrzahl]]

@@ -1,1 +1,1 @@
-[[sauber]], [[ordentlich]], [[wuschelig]], [[Ordnung]], [[bügeln]]
+[[sauber]], [[ordentlich]], [[wuschelig]], [[Ordnung]], [[bügeln]], [[Ordnen]]

@@ -1,3 +1,4 @@
+ --> [[Ingredient-Add-Remove]] <--
 ---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🚶‍♀️ [[einführen]], [ˈaɪ̯nˌfyːʁən] | [[führte ein]], haben [[eingeführt]]
 
@@ -37,4 +38,4 @@ PI: [[einführend]], PII: [[eingeführt]], Zu+inf: [[einzuführen]]
 [[einführen]] - [[ein]] = [[führen]] / to introduce, to import
 
 ---
-[[Einführung]], [[Einführer]], [[Einfuhr]], [[Importeur]], [[implementieren]], [[Einführungsdatum]]
+[[Einführung]], [[Einführer]], [[Einfuhr]], [[Importeur]], [[implementieren]], [[Einführungsdatum]], [[einschleppen]]

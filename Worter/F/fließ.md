@@ -1,1 +1,1 @@
-, [[fließen]], [[fließend]]
+, [[fließen]], [[fließend]], [[einfließen]]

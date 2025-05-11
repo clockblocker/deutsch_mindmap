@@ -29,4 +29,4 @@ N: [[übliches]], [[üblicheres]], [[üblichstes]]
 P: [[üblichen]], [[üblicheren]], [[üblichsten]]  
 
 ---
-[[üben]], [[Üblichkeit]], [[überlicherweise]], [[unüblich]], [[Worter/Ü/Übung]]
+[[üben]], [[Üblichkeit]], [[überlicherweise]], [[unüblich]], [[Worter/Ü/Übung]], [[gang und gäbe]]

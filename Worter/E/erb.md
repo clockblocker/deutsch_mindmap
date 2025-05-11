@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Erbes]], [[Erbe]], [[erben]], [[Erbern]]
 
 ---
-#Substantiv #Neuter, [[sterben]]
+#Substantiv #Neuter, [[sterben]], [[Erbgut]], [[Erbträger]]

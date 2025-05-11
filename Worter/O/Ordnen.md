@@ -1,63 +1,58 @@
-🗂️ [[Ordnen]]  
-[[ordnete]]  
-haben [[geordnet]]
+🗂️ [[ordnen]], [ˈɔʁdnən](https://youglish.com/pronounce/ordnen/german) → [[ordnete]] → haben [[geordnet]]
 
 ---
 
----
-
-**Synonyme:**
-
-- [[sortieren]], [[strukturieren]], [[organisieren]]
 
 ---
-
-**Beispiele:**
-
-- Ich [[ordne]] meine Bücher.
-- Du [[ordnest]] deine Unterlagen.
-- Er [[ordnet]] seine Gedanken.
-- Es [[ordnet]] die Dateien.
-- Sie [[ordnet]] das Chaos.
-- Wir [[Ordnen]] die Regale.
-- Ihr [[ordnet]] eure Aufgaben.
-- Sie [[Ordnen]] die Papiere.
+= [[sortieren]], [[strukturieren]], [[anordnen]]
+≈ [[organisieren]], [[systematisieren]], [[klassifizieren]]
+≠ [[verwirren]], [[durcheinanderbringen]], [[unordentlich machen]]
 
 ---
-
-**Übersetzung**:
-to organize, to arrange
-
----
- #Verb
+to arrange, to sort  
+упорядочивать, сортировать
 
 ---
-
-**Präteritum:**
-
-- Ich [[ordnete]] meine Bücher.
-- Du [[ordnetest]] deine Unterlagen.
-- Er [[ordnete]] seine Gedanken.
-- Es [[ordnete]] die Dateien.
-- Sie [[ordnete]] das Chaos.
-- Wir [[ordneten]] die Regale.
-- Ihr [[ordnetet]] eure Aufgaben.
-- Sie [[ordneten]] die Papiere.
+[[Ordnung]], [[geordnet]], [[unordentlich]], [[Anordnung]]
 
 ---
+[[ordn]]|[[en]]
+[[ordnen]]
 
-**Imperativ:**
-
-- Ich [[ordne]] jetzt.
-- Du [[ordne]] jetzt.
-- Er [[ordne]] jetzt.
-- Es [[ordnet]] jetzt.
-- Sie [[ordne]] jetzt.
-- Wir [[Ordnen]] jetzt.
-- Ihr [[ordnet]] jetzt.
-- Sie [[Ordnen]] jetzt.
 
 ---
+###### [[ordnen]] jN
+- Was [[ordnest]] du?
+- Meine Bücher.
 
-**Morphems of only infinitive:**  
-- [[ordn]][[en]], [[Ordnungsamt]], [[einpacken]], [[zerzausen]], [[gliedern]]
+- Was [[ordnen]] wir?
+- Unsere Gedanken.
+
+- Warum [[hat]] er seine Sachen [[geordnet]]?
+- Um Ordnung zu schaffen.
+
+---
+###### [[ordnen]] *[[sich]]*
+- Was [[ordnet]] sich?
+- Die Dinge in meinem Leben.
+
+- Warum [[ordnet]] sich alles?
+- Weil ich es so will.
+
+- Wie lange [[hat]] sich alles [[geordnet]]?
+- Seit dem Frühling.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[ordne]], [[ordnete]], [[ordne]], [[ordnete]], -
+du, [[ordnest]], [[ordnetest]], [[ordnest]], [[ordnetest]], [[ordne]]
+er, [[ordnet]], [[ordnete]], [[ordne]], [[ordnete]], -
+wir, [[ordnen]], [[ordneten]], [[ordnen]], [[ordneten]], [[ordnen]]
+ihr, [[ordnet]], [[ordnetet]], [[ordnet]], [[ordnetet]], [[ordnet]]
+sie, [[ordnen]], [[ordneten]], [[ordnen]], [[ordneten]], [[ordnen]]
+
+*Zu + Inf*: zu [[ordnen]], *P2*: [[geordnet]]
+Adjektive: [[ordnend]], [[ordnender]], [[ordnendst]]
+
+---
+[[ordnender]], [[ordnendes]], [[ordnende]], [[ordnenden]], [[ordnendem]], [[ordnenderer]], [[ordnenderes]], [[ordnendere]], [[ordnenderen]], [[ordnenderem]], [[ordnendster]], [[ordnendstes]], [[ordnendste]], [[ordnendsten]], [[ordnendstem]], [[Ordnen]], [[überordnen]]

@@ -1,1 +1,1 @@
-, [[dauernd]], [[kontinuierlich]], [[ständig]], [[durchgängig]], [[chronisch]]
+, [[dauernd]], [[kontinuierlich]], [[ständig]], [[durchgängig]], [[chronisch]], [[im Gange]]

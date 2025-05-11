@@ -3,6 +3,9 @@
 haben [[ausgebildet]]
 
 ---
+*[[C1-Lesen-T1-001-Text#^36|^]]* Neben Corona werden auch Prostatakrebs und bakterielle Infektionen in [[Verwahrten]] [[zuverlässig]] von [[damit]] [[ausgebildeten]] Hunden erschnüffelt – Malariaparasiten sogar vor [[Ausbruch]] der Krankheit. ^36
+
+
 Vielleicht haben die da Wasserbändiger, die dich [[ausbilden]] können.
 
 250. In Deutschland hat man die besten Chancen auf einen gut [[bezahlten]] [[Arbeitsplatz]], wenn man … (96%)

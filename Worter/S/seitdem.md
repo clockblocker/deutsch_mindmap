@@ -1,3 +1,6 @@
+[[Grammatik-Konjunktoren-Subordinating-Temporale|Temporale Subordinating Konjunktor]]
+
+---
 🟠 [[seitdem]], [ˈzaɪ̯tdem]
 
 ---
@@ -25,4 +28,4 @@ Morpheme:
 ---
 Einzigartige mögliche Formen:
 [[seitdem]]
-''', [[s1 e1]], [[Seit]], [[Konjunktoren]]
+[[Seit]], [[Konjunktoren]]

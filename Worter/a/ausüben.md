@@ -38,3 +38,4 @@ Morpheme: [[aus]][[üb]][[en]]
 Partizip I: [[ausübend]], Partizip II: [[ausgeübt]]
 
 [[ausüben]] - [[aus]] = [[üben]]
+, [[Ausübung]]

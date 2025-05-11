@@ -23,6 +23,7 @@
 [[signifikant]] *(statistically / rhetorically notable)*
 [[wertvoll]] *(valuable; emotionally / materially)*
 [[angelegen]] *(„es ist mir ein Anliegen“ → personally important)*
+[[bemerkenswert]] *(remarkable, noteworthy)*
 
 ---
 #### 🟡 [[Maßgeblich]] – Determining / Influencing Importance

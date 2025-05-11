@@ -1,2 +1,2 @@
 , [[Silberfragment]], [[stück]]
-, [[Scherb]], [[Bruchteil]], [[Rest]]
+, [[Scherb]], [[Bruchteil]], [[Rest]], [[Überrest]]

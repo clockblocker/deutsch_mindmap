@@ -1,3 +1,5 @@
+[[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien|Demonstrativ-Pronominaladverb]]
+
 Du hattest ihn doch [[darunter]] gelegt
 
 ---
@@ -26,4 +28,4 @@ Tags:
 Morphems:
 [[Da]][[runter]]
 
-, [[11 08]], [[da]]
+, [[11 08]], [[da]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]

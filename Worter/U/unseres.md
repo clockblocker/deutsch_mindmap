@@ -1,2 +1,2 @@
-[[Genetiv possessiv Pronomen]]
+[[Grammatik-Attributiv-Possessiv-Pronomen-Genetiv]]
 , [[Worter/Untitled]], [[Pronomen]]

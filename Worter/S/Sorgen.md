@@ -9,6 +9,9 @@ Oh Mann. Ich mach mir [[Sorgen]] …
 *[[C1-Lesen-T1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet [[bewirken]], dass etwas geschieht. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
 
 
+Bei guten Sichtverhältnissen [[sorgt]] zusätzlich eine Drohne aus der Luft [[dafür]], dass weiterer Müll im Wasser erkannt wird. [[C1-Lesen-T1-000-Text#^8|^]]
+
+
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]].
 
 *[[2 Work Life Balance#^6|^]]* _Eine gute Work-Life-Balance_ [[sorgt]] _dafür, dass wir_ [[gesünder]] _sind und unsere Zeit effektiver und auch kreativer nutzen, da wir Prioritäten setzen. ^6

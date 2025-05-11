@@ -1,8 +1,8 @@
-, [[gehen]], [[s1 e1]], [[Flur]]
-, [[Gassi]], [[Studiengang]], [[Niedergang]], [[Spaziergang]], [[Umgang]], [[durchgängig]], [[Behördengang]]🚶 🔵 der [[Gang]], [ɡaŋ](https://youglish.com/pronounce/Gang/german)
+🚶 🔵 der [[Gang]], [ɡaŋ](https://youglish.com/pronounce/Gang/german)
 
 ---
 [[Behörde]]
+[[gang und gäbe]]
 
 ---
 = [[Schritt]], [[Bewegung]], [[Fortbewegung]] | [[Korridor]], [[Flur]]
@@ -28,4 +28,6 @@ G: des [[Gangs]], der [[Gänge]]
 D: dem [[Gang]], den [[Gängen]]
 , [[gang]]
 
-#Maskulin , [[Rückgang]], [[Internetzugang]], [[Übergangslösung]], [[Ablauf]], [[Lauf]], [[DURCHLAUF]]
+#Maskulin , [[Rückgang]], [[Internetzugang]], [[Übergangslösung]], [[Ablauf]], [[Lauf]], [[Durchlauf]], [[gang und gäbe]], [[im Gange]], [[in Gang kommen]]
+, [[gehen]], [[s1 e1]], [[Flur]]
+, [[Gassi]], [[Studiengang]], [[Niedergang]], [[Spaziergang]], [[Umgang]], [[durchgängig]], [[Behördengang]], [[Verlauf]]

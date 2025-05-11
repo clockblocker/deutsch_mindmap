@@ -28,4 +28,4 @@ P: [[gültigen]], [[gültigeren]], [[gültigsten]]
 [[Gültigkeit]], [[gelten]], [[Gültigkeitsdauer]], [[ungültig]], [[Gültigkeitszeitraum]]
 
 😌 [[gültig]] | 🤝 [[gelten]]
-, [[allgemeingültig]]
+, [[allgemeingültig]], [[Gleichgültigkeit]]

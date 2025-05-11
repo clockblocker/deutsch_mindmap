@@ -1,3 +1,7 @@
+[[Grammatik-Pronomen-Demonstrativ-Einfach]]
+
+---
+
 🔵 der [[jener]]
 die [[jenen]]
 
@@ -30,4 +34,4 @@ Plural: [[jene]], [[jene]], [[jene]]
 
 ---
 [[jenige]], [[jenseitig]], [[jenseits]]
-, [[Artikelwörter]]
+, [[Artikelwörter]], [[diejenige]]

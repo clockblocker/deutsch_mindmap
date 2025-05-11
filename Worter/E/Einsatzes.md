@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🔵 der [[Einsatz]]
 die [[Einsätze]]
 

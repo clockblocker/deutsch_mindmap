@@ -1,25 +1,17 @@
-[[Artikelwörter]] ❓ [[welcher]], [ˈvɛlçɐ]
+[[Grammatik-Konjunktoren-Subordinating-Relative|Relative Subordinating Konjunktor]]
 
 ---
+#### [[Grammatik-Pronomen-Interrogative]] 
+- [[Welcher]] Tag ist heute?
 
----
-= [[der]], [[die]], [[das]]
-≈ [[was für ein]], [[was]]
-≠ [[kein]], [[derselbe]]
+#### [[Grammatik-Pronomen-Relativ]] 
+- Der Tag, [[welcher]] so lang war… 
 
----
-which, who, that
-который
+| Case | [[Masculin]] | [[Feminin]] | [[Neuter]] | [[Plural]] |
+| ---- | ------------ | ----------- | ---------- | ---------- |
+| Nom  | [[welcher]]      | [[welche]]      | [[welches]]    | [[welche]]     |
+| Acc  | [[welchen]]      | [[welche]]      | [[welches]]    | [[welche]]     |
+| Dat  | [[welchem]]      | [[welcher]]     | [[welchem]]    | [[welchen]]    |
+| Gen  | [[welches]]      | [[welcher]]     | [[welches]]    | [[welcher]]    |
 
----
-[[welch]]|[[er]]
-
----
-N: [[welcher]], [[welche]], [[welches]], [[welchen]]
-A: [[welchen]], [[welche]], [[welches]], [[welchen]]
-G: [[welches]], [[welcher]], [[welches]], [[welchen]]
-D: [[welchem]], [[welcher]], [[welchem]], [[welchen]]
-
----
-[[welch]], [[welcherlei]], [[welchermassen]], [[welchermassen]]
-, [[Was für ein?]], [[Konjunktoren]]
+, [[der]], [[Grammatik-Pronomen-Relativ-Selbständige]], [[derselbe]], [[derjenige]]

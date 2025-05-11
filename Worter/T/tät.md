@@ -1,1 +1,1 @@
-, [[Tätigkeit]], [[tätig]]
+, [[Tätigkeit]], [[tätig]], [[Untätigkeit]]

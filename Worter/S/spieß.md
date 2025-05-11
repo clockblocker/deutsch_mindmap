@@ -1,1 +1,1 @@
-, [[aufspießen]], [[spießen]]
+, [[aufspießen]], [[spießen]], [[Spießbürgertum]]

@@ -8,7 +8,7 @@ haben [[sortiert]]
 
 ---
 Synonyme: [[ordnen]], [[klassifizieren]], [[einteilen]], [[gruppieren]], [[kategorisieren]]
-Antonyme: [[durcheinanderbringen]], [[vermischen]], [[vermengen]], [[durcheinander werfen]], [[vermischen]]
+Antonyme: [[durcheinanderbringen]], [[vermischen]], [[Vermengen]], [[durcheinander werfen]], [[vermischen]]
 
 ---
 Übersetzung: to sort, to categorize
@@ -31,4 +31,4 @@ Morpheme: [[sort]][[ier]][[en]]
 
 Partizip I: [[sortierend]], Partizip II: [[sortiert]]
 
-, [[zusammenstellen]], [[aufräumen]], [[auseinanderzuhalten]], [[gliedern]]
+, [[zusammenstellen]], [[aufräumen]], [[auseinanderzuhalten]], [[gliedern]], [[Ordnen]]

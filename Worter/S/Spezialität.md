@@ -1,1 +1,1 @@
-, [[speziell]]
+, [[speziell]], [[Eigenart]]

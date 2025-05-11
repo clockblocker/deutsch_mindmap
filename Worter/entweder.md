@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Coordinating-Alternativ|Alternativ]]
+
+---
+
 🔗 [[entweder]], [ɛntˈveːdɐ]
 
 ---

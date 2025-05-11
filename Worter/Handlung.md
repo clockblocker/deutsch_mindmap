@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🔴 die [[Handlung]], [ˈhantlʊŋ]
 die [[Handlungen]]
 

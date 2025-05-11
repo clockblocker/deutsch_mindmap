@@ -3,11 +3,12 @@
 ---
 Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind.
 
+*[[C1-Lesen-T1-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15
+
 
 •	Arbeitsmaterialien [[fehlen]] oder sind [[veraltet]]
 
-
-*[[03-C1-Schreiben-T2-M#^12|^]]* Dieser Tisch fehlt uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit. ^12
+*[[03-C1-Schreiben-T2-M#^12|^]]* Dieser Tisch [[fehlt]] uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit. ^12
 
 
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^2|^]]* Dieser permanente Stress, [[gepaart]] mit zu wenig sozialem [[Austausch]] und dem [[fehlen]] klar definierter Grenzen zwischen Arbeitszeit und Freizeit, kann [[rasch]] in einen Burnout [[münden]]. ^2

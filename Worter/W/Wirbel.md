@@ -1,1 +1,1 @@
-, [[Wirbelsturm]]
+, [[Wirbelsturm]], [[Lendenwirbel]], [[Wirbelsäule]]

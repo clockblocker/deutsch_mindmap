@@ -22,3 +22,4 @@ why, for what reason
 [[wes]]|[[halb]]
 [[wes]] + [[halb]]
 
+, [[Grammatik-Pronomen-Interrogative]]

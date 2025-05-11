@@ -1,7 +1,11 @@
+---> 🧮 [[Grad-Quantität]] <---
+
 📍 [[vereinzeln]], [fɛɐ̯ˈʔaɪ̯nt͡sl̩tə](https://youglish.com/pronounce/vereinzeln/german), [[einzelne]]
 
 ---
 2. [[vereinzelte]] [[Fehlgriffe]] [[beeinträchtigen]] den [[Lesefluss]] nicht
+
+*[[C1-Lesen-T1-102-Text#^3|^]]* Sie zieht [[vielerorts]] ihre [[Schleimspur]] – jedoch [[ausgerechnet]] in Spanien nur (1) ganz [[vereinzelt]], wie Forschende in den vergangenen Jahren [[herausfanden]]. ^3
 
 
 ---

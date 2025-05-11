@@ -1,1 +1,1 @@
- [[Wann]] kommt er [[denn]]?
+ [[Wann]] kommt er [[denn]]?, [[Grammatik-Pronomen-Interrogative]]

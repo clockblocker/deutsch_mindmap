@@ -1,1 +1,2 @@
-, [[festziehen]], [[einhängen]], [[reißen]], [[hängen]], [[festkleben]], [[kleben]], [[aufhängen]], [[schnallen]], [[Bestecken]], [[binden]], [[zusammenschrauben]], [[anlegen]], [[anheften]], [[wurzeln]]
+ --> [[Ingredient-Add-Remove]] <--
+

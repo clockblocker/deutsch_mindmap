@@ -1,1 +1,1 @@
-, [[Einfluss]]
+, [[Einfluss]], [[Gültigkeit]]

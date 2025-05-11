@@ -29,4 +29,4 @@ PI: [[vernichtend]], PII: [[vernichtet]], Zu+inf: [[zuvernichten]]
 [[vernichten]] - [[ver]] = [[nicht]] / to destroy
 
 ---
-[[Vernichtung]], [[vernichtend]], [[Vernichtungslager]], [[vernichtend geschlagen]], [[erzeugen]], [[verfassen]]
+[[Vernichtung]], [[vernichtend]], [[Vernichtungslager]], [[vernichtend geschlagen]], [[erzeugen]], [[verfassen]], [[hervorbringen]], [[beseitigen]]

@@ -25,4 +25,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Silbe]], [[Silben]], [[Silbe]], [[Silbe]], [[Silbe]], [[Silbe]], [[Silbe]], [[Silben]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Vorsilbe]]

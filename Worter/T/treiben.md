@@ -3,6 +3,9 @@
 ---
 Die zweite Regel. [[Treiben]] Sie Sport.
 
+*[[C1-Lesen-T1-001-Text#^31|^]]* (5) [[Treibende]] [[Kraft]] der Studie zum Geruchssinn von Hunden und ihre Bedeutung für die Corona-Erkennung ist Holger Volk, Professor und [[Leiter]] der Klinik für Kleintiere an der Tierärztlichen Hochschule Hannover. ^31
+
+
 Du [[triebst]] mich in den [[Wahnsinn]]
 
 [[1 ADHD#^2|(q)]] 3. ist immer auf [[Achse]], wie von einem [[Motor]] [[getrieben]]. ^2

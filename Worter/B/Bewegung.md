@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🏃‍♂️ die [[Bewegung]], [bəˈveːɡʊŋ]
 die [[Bewegungen]]
 

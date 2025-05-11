@@ -1,4 +1,7 @@
 ---> 🤝 [[Ingredient-Interaktion]] <---
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 💪 🔴 die [[Motivation]], [ˌmoːtivaˈt͡si̯oːn](https://youglish.com/pronounce/Motivation/german)
 
 ---

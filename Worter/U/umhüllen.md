@@ -1,1 +1,1 @@
-, [[wickeln]], [[verkleiden]]
+, [[wickeln]], [[verkleiden]], [[bedecken]]

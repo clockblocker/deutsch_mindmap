@@ -67,4 +67,4 @@ G: des [[Vorgehens]], der [[Vorgehen]]
 D: dem [[Vorgehen]], den [[Vorgehen]]
 
 
-#Neuter 
+#Neuter , [[Einschreiten]]

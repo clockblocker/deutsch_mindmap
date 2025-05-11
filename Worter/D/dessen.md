@@ -1,14 +1,12 @@
- 🔗 [[dessen]], [ˈdɛsən]
+ 🔗 [[dessen]], [ˈdɛsən] | [[Grammatik-Pronomen-Relativ-Possessiv]]
 
 ---
-*Sokka ist es während [[dessen]] [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu*
+Der Mann, [[dessen]] Frau Geburtstag hat, hat ein Geschenk.
 
 *[[C1-Lesen-T1-000-Text#^13|^]]* [[Sobald]] ein Stück Müll identifiziert und [[geortet]] wurde, muss sich der Roboter [[zunächst]] in [[dessen]] Nähe bewegen. ^13
 
 
-Der Mann, [[dessen]] Frau Geburtstag hat, hat ein Geschenk.
-
- [[stattdessen]], [[Währenddessen]]
+[[stattdessen]], [[Währenddessen]]
 
 ---
 = [[seines]], [[ihrer]], [[von dem]]
@@ -22,5 +20,4 @@ whose, of which, of whom
 [[de]]|[[ssen]]
 
 ---
-[[genitive]], [[Relativpronomen]], [[Possessivpronomen]]
-, [[Texte/Misc/Anki]]
+[[genitive]]

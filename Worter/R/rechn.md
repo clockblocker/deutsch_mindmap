@@ -1,2 +1,2 @@
 , [[zusammenrechnen]], [[rechnen]]
-, [[ausrechnen]]
+, [[ausrechnen]], [[ausgerechnet]]

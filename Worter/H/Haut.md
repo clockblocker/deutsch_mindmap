@@ -34,4 +34,4 @@ Einzigartige mögliche Formen:
 [[Haut]], [[Haut]], [[Haut]], [[Haut]], [[Haut]], [[Haut]], [[Haut]], [[Haut]]
 
 ---
-#Substantiv #Feminin, [[fern]], [[nah]], [[Hautfarbe]], [[aus der Haut fahren]]
+#Substantiv #Feminin, [[fern]], [[nah]], [[Hautfarbe]], [[aus der Haut fahren]], [[unter die Haut gehen]]

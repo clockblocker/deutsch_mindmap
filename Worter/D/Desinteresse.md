@@ -1,2 +1,2 @@
 , [[Schulterzucken]], [[Kunstinteresse]]
-, [[Aufmerksamkeit]], [[Neugier]], [[Lernbereitschaft]], [[Meinungsbildung]], [[Interesse]], [[Anregung]]
+, [[Aufmerksamkeit]], [[Neugier]], [[Lernbereitschaft]], [[Meinungsbildung]], [[Interesse]], [[Anregung]], [[Gleichgültigkeit]]

@@ -1,3 +1,6 @@
+[[Grammatik-Konjunktoren-Subordinating-Konzessiv|Konzessiv Subordinating Konjunktor]]
+
+---
 [[obwohl]], [ˈɔpfォl]
 
 ---
@@ -36,4 +39,4 @@ Morpheme: [[ob]][[wohl]]
 
 ---
 #Konjunktion #Nebensatz
-, [[trotz]], [[Konjunktoren]], [[Konnektoren]], [[Texte/Misc/Anki]], [[unterhalten]]
+, [[trotz]], [[Konjunktoren]], [[Konnektoren]], [[Texte/Misc/Anki]], [[unterhalten]], [[ungeachtet]]

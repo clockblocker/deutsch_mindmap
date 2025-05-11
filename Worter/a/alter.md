@@ -1,3 +1,3 @@
 [[alt]]
 
-, [[volljährig]], [[Mindestalter]], [[s1 e1]], [[Kindesalter]], [[Zeitalter]]
+, [[volljährig]], [[Mindestalter]], [[s1 e1]], [[Kindesalter]], [[Zeitalter]], [[gleichaltrig]], [[Gleichaltrige]]

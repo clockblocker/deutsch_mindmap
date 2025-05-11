@@ -17,7 +17,7 @@ wurden [[nahezu]] jeden Sommer neue Temperaturrekorde verzeichnet
 1) [[flächendeckend]] *(system-wide; policy register)*
 2) [[durchweg]] *(throughout; stylistic)*
 3) [[überall]] *(everywhere; spatial)*
-
+4) [[weltweit]] *(worldwide)*
 #### 🟢 [[weitgehend]] 
 1) [[weitgehend]] *(for the most part; formal-safe)*
 2) [[größtenteils]] *(mostly; percentage tone)*

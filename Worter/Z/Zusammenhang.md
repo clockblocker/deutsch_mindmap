@@ -30,4 +30,4 @@ G: des [[Zusammenhangs]], der [[Zusammenhänge]]
 D: dem [[Zusammenhang]], den [[Zusammenhängen]]
 
 
-#Maskulin 
+#Maskulin , [[Zeichenfolge]]

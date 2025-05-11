@@ -1,1 +1,3 @@
-, [[leer]], [[voll]], [[Belegschaft]]
+[[belegen]]
+
+[[leer]], [[voll]], [[Belegschaft]]

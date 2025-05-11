@@ -1,1 +1,1 @@
-, [[Schlüssel]]
+, [[Schlüssel]], [[entschlüsseln]]

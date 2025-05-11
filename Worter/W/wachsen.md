@@ -1,4 +1,4 @@
----> [[Ingredient-Verb-Wachstum-Steigerung]] <---
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 ---> [[Ingredient-Result-Verb]] <---
 
 🌱 [[wachsen]], [ˈvaksn̩] | [[wuchs]], [[sein gewachsen]]
@@ -35,4 +35,4 @@ PI: [[wachsend]], PII: [[gewachsen]], Zu+inf: [[zu wachsen]]
 
 , [[eingehen]], [[schrumpfen]], [[zusammenschrumpfen]], [[schwinden]], [[entstehen]]
 , [[aufwachen]]
-, [[rasieren]], [[Nachwuchs]], [[Fassade]]
+, [[rasieren]], [[Nachwuchs]], [[Fassade]], [[vermehren]]

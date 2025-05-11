@@ -16,4 +16,4 @@ I, me
 [[ich]]
 
 ---
-[[Ichbezug]], [[Ich-Identität]], [[Ich-Erzähler]], [[Selbst]], [[Persönlichkeit]], [[befassen]]
+[[Ichbezug]], [[Ich-Identität]], [[Ich-Erzähler]], [[Selbst]], [[Persönlichkeit]], [[befassen]], [[Grammatik-Pronomen-Personal]]

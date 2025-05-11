@@ -1,3 +1,6 @@
+[[Grammatik-Konjunktoren-Subordinating-Kausal|Kausal Subordinating Konjunktor]]
+
+---
 Na gut … [[Weil]] du’s bist 
 SASCHA: Ja, [[Weil]] du in einem Museum arbeitest.  
 
@@ -7,4 +10,4 @@ SASCHA: Ja, [[Weil]] du in einem Museum arbeitest.
 
 because
 
-, [[Weile]], [[daß]], [[Nebensatz Conector]], [[langweilen]], [[Konjunktoren]]
+, [[Weile]], [[daß]], [[Nebensatz Conector]], [[langweilen]], [[Konjunktoren]], [[zumal]]

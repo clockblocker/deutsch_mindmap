@@ -1,1 +1,1 @@
-, [[Außenbeziehungen]]
+, [[Außenbeziehungen]], [[weltweit]]

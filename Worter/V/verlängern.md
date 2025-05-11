@@ -1,3 +1,2 @@
-, [[verkürzen]], [[kürzen]], [[kündigen]]
-, [[entlang]]
-, [[lang]], [[langfristig]]
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+

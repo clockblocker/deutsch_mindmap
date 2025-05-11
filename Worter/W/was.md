@@ -10,4 +10,4 @@ Mensch Anna, es kommt darauf an, [[wie]] du schreibst – und nicht 
 
 , [[sowas]], [[irgendwas]], [[darauf]], [[Nebensatz Conector]]
 , [[welcher]]
-, [[Was für ein?]]
+, [[Was für ein?]], [[Grammatik-Pronomen-Interrogative]]

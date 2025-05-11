@@ -1,2 +1,2 @@
-, [[garstig]], [[hässlich]]
-, [[geschmacklos]]
+---> [[Grad-gut]] <--
+

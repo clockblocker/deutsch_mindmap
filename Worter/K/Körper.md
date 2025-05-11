@@ -3,3 +3,4 @@
 🔵 der [[Worter/K/Körper]] 🧍
 
 #Maskulin 
+, [[Körperflüssigkeit]]

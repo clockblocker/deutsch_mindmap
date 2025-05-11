@@ -29,4 +29,4 @@ D: der [[Zahl]], den [[Zahlen]]
 , [[Mengenangabe]], [[auszahlen]]
 , [[Zahlung]], [[Vielzahl]], [[Million]], [[Besucherzahl]]
 
-#Feminin 
+#Feminin , [[Mehrzahl]]

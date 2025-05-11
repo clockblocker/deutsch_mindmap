@@ -27,4 +27,4 @@ Tags:
 ---
 
 Morphems:
-[[Wo]][[Konjunktion/für]], [[wodurch]]
+[[Wo]][[für]], [[wodurch]], [[Grammatik-Pronomen-Interrogative]]

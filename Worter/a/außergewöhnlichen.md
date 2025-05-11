@@ -1,1 +1,1 @@
-, [[außergewöhnlich]]
+, [[außergewöhnlich]], [[Gedächtnis]]

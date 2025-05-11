@@ -3,6 +3,9 @@
 ---
 Wofür hast du dich [[letztendlich]] [[entschieden]]?  
 
+*[[C1-Lesen-T1-100-Text#^4|^]]* (2) [[Das zeigt sich]] in der [[Ausübung]] immer extremerer Sportarten, in [[skurrilen]] [[Kleidungsstilen]] und [[letztendlich]] auch in ausgefallenen [[Sprechweisen]]. ^4
+
+
 [[Letztendlich]] _sind wir selbst dafür verantwortlich, dass es uns und unserer Familie gut geht._ [[Qualitätszeit]] _mit Freunden und Familie zu_ [[verbringen]] _wird oft_ [[unterschätzt]] _, da es nicht „rentabel“ ist. ^10
 
 

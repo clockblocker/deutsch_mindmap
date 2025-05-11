@@ -1,1 +1,1 @@
-🌱 [[werden]]  , [[wollen]]
+🌱 [[werden]]  , [[wollen]], [[verwirklichen]], [[wegzüchten]]

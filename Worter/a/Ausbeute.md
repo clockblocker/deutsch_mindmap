@@ -1,1 +1,1 @@
-, [[Ernte]], [[Erntemenge]]
+, [[Ernte]], [[Erntemenge]], [[Ertrag]]

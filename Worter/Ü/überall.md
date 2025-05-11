@@ -31,4 +31,4 @@ everywhere, all over, in all places
 ---
 [[überal]], [[überallhin]], [[überallher]]
 [[irgendwo]], [[bald]], [[weit und breit]]
-, [[heutzutage]], [[stellenweise]], [[Ort]]
+, [[heutzutage]], [[stellenweise]], [[Ort]], [[weltweit]], [[vielerorts]]

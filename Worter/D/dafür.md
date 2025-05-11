@@ -1,5 +1,10 @@
 ---> 🤝 [[Ingredient-Interaktion]] <---
+[[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien|Demonstrativ-Pronominaladverb]]
+
 Er war groß und [[bullig]] und hatte fast keinen Hals, dafür aber einen sehr großen [[Schnurrbart]].
+
+*[[C1-Lesen-T1-000-Text#^8|^]]* Bei guten [[Sichtverhältnissen]] sorgt [[zusätzlich]] eine Drohne aus der Luft [[dafür]], dass weiterer Müll im Wasser erkannt wird. ^8
+
 
 *[[C1-Lesen-T1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet bewirken, dass etwas geschieht. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
 
@@ -24,4 +29,4 @@ Morphems:
 #Adverb
 [[Dazu]], [[dabei]], [[sparen]], [[da]], [[hierfür]]
 
-[[ver]]
+[[ver]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]

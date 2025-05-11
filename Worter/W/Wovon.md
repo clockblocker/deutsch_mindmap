@@ -33,4 +33,4 @@ Grammatikalische Hinweise:
 - Zusammengesetztes Fragewort
 - Verwendet in indirekten und direkten Fragesätzen
 - Immer mit Präposition "von" verbunden
-''', [[s1 e1]]
+''', [[s1 e1]], [[Grammatik-Pronomen-Interrogative]]

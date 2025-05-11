@@ -1,1 +1,1 @@
-, [[verscheiden]], [[hingehen]], [[sterben]]
+, [[verscheiden]], [[hingehen]], [[sterben]], [[umkommen]]

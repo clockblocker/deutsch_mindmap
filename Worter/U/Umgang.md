@@ -2,6 +2,9 @@
 die [[Umgänge]]
 
 ---
+*[[C1-Lesen-T1-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
+
+
 *[[1 lesen StadtTours#^7|^]]* Ob Historiker*innen, Geograf*innen, Journalist*innen, Schauspieler*innen oder Schriftsteller*innen: All diese Expertinnen und Experten bringen nicht nur Fachkompetenz, [[sondern]] [[darüber]] [[hinaus]] auch [[Erfahrung]] im [[Umgang]] mit Gruppen mit. ^7
 
 

@@ -127,7 +127,7 @@ are paired conjunctions that connect clauses, words, or phrases in a balanced wa
 	• Words like [[obschon]], _[[wiewohl]]_, _[[wenngleich]]_, _[[indes]]_, _[[nichtsdestoweniger]]_ are more formal or literary.
 	• In casual spoken German, you’ll hear simpler forms like _[[obwohl]]_, _[[aber]]_, _[[doch]]_, _[[trotzdem]]_ far more frequently.
 
-#### Konzessiven Konjunktionen**
+#### Konzessiven Konjunktionen
 komplette liste der konzessiven konjunktionen
 (konjunktionen, die einen gegensatz oder unerwarteten widerspruch ausdrücken)
 1. Standard-Konjunktionen (“obwohl” Gruppe)

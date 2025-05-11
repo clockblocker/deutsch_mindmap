@@ -1,3 +1,6 @@
+ --> [[Ingredient-Add-Remove]] <--
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+
 ➖ [[abziehen]], [ˈapˌt͡siːən] | [[zog ab]], haben [[abgezogen]]
 
 ---

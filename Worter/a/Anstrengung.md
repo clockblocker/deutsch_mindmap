@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🔴 💪 die [[Anstrengung]], [ˈanˌʃtʁɛŋʊŋ]
 die [[Anstrengungen]]
 

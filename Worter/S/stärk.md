@@ -1,1 +1,1 @@
-, [[stärken]]
+, [[stärken]], [[verstärken]]

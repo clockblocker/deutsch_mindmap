@@ -4,6 +4,9 @@
 ---
 Du hast der Feuermarine ein Lichtsignal [[gegeben]], oder?
 
+[[gang und gäbe]]
+
+
 ---
 Synonyme: [[schenken]], [[überreichen]], [[aushändigen]], [[liefern]], [[erteilen]]
 Antonyme: [[nehmen]], [[empfangen]], [[bekommen]], [[beanspruchen]]
@@ -36,4 +39,4 @@ Partizip I: [[gebend]], Partizip II: [[gegeben]]
 
 [[übergeben]], [[zugeben]], [[kriegen]], [[schenken]]
 , [[aufgeben]], [[umgeben]], [[vergebens]], [[ausgeben]], [[abgeben]], [[Worter/ergeben]], [[s1 e1]], [[stiften]], [[Begebenheit]], [[begeben]]
-, [[zufriedengeben]], [[ergeben]], [[Arbeitgeber]], [[richtungsgebend]], [[anweisen]], [[freigeben]], [[borgen]], [[existieren]], [[angeben]]
+, [[zufriedengeben]], [[ergeben]], [[Arbeitgeber]], [[richtungsgebend]], [[anweisen]], [[freigeben]], [[borgen]], [[existieren]], [[angeben]], [[gang und gäbe]]

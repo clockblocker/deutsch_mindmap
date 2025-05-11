@@ -29,3 +29,4 @@ D: der [[Worter/G/Gesundheit]], -
 
 
 #Feminin 
+, [[Anfall]]

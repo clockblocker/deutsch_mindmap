@@ -1,1 +1,1 @@
-, [[dorthin]], [[Herkunft]], [[Herkunftsland]]
+, [[dorthin]], [[Herkunft]], [[Herkunftsland]], [[entstammen]]

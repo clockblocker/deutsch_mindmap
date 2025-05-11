@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Subordinating-Modale|Modale Subordinating Konjunktor]]
+
+---
+
 ➡️ [[indem]], [ɪnˈdɛm](https://youglish.com/pronounce/indem/german) 
 [[Konjunktoren]]
 

@@ -1,2 +1,2 @@
 ---> [[Management-Coordination-Allocation]] <---
-[[arrangieren]], [[gliedern]], [[strukturell]]
+[[arrangieren]], [[gliedern]], [[strukturell]], [[Ordnen]]

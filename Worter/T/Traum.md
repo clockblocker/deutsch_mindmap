@@ -22,4 +22,4 @@ Synonyme:
 ---
 #Substantiv #Maskulin, [[Extra 8]], [[Wunsch]], [[s1 e1]], [[träumen]]
 , [[verträumen]]
-, [[verträumt]], [[Traumstrand]]
+, [[verträumt]], [[Traumstrand]], [[Phantasie]]

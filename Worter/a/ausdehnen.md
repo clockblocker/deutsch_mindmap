@@ -1,1 +1,1 @@
-, [[breiten]], [[strecken]], [[begrenzen]]
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---

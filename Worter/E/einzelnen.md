@@ -1,3 +1,5 @@
+---> 🧮 [[Grad-Quantität]] <---
+
 🔴 einzelnen, [ˈaɪ̯nʒəlnən]
 nicht [[zusammen]], nicht [[mehrere]]
 
@@ -13,7 +15,7 @@ Antonyme:
 
 ---
 **Übersetzung**:
-individual, single, separate
+[[einzelnen]] *(individual, single, separate)*
 
 ---
 #Adjective [[einzelnen]]

@@ -1,4 +1,4 @@
 📍 [[legen]]  
 [[hinlegen]], [[überlegen]], [[anlegen]], [[einlegen]], [[festlegen]], [[Auslegung]], [[Festlegung]]
 , [[gelegen]]
-, [[Angelegenheit]], [[auflegen]], [[Überlegung]], [[auslegen]]
+, [[Angelegenheit]], [[auflegen]], [[Überlegung]], [[auslegen]], [[belegen]]

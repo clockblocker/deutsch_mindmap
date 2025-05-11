@@ -1,4 +1,4 @@
----> [[Ingredient-Verb-Wachstum-Steigerung]] <---
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 📉 [[verringern]], [fɛɐ̯ˈʁɪŋɐn](https://youglish.com/pronounce/verringern/german) | [[verringerte]], haben [[verringert]]
 
 ---

@@ -1,2 +1,2 @@
 --->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
-, [[sicher]], [[sichern]]
+, [[sicher]], [[sichern]], [[abschiermen]]

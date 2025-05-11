@@ -9,7 +9,7 @@ Montags von 19:30-21 Uhr trainiert eine [[Erwachsenenanfängergruppe]] und diens
 [[einmischen]] - [[ein]] = [[mischen]] // to interfere, to intervene, to mix in
 
 ---
-Synonyme: [[vermischen]], [[vermengen]], [[kombinieren]], [[durchmischen]], [[rühren]]
+Synonyme: [[vermischen]], [[Vermengen]], [[kombinieren]], [[durchmischen]], [[rühren]]
 Antonyme: [[trennen]], [[scheiden]], [[separieren]]
 
 ---
@@ -41,4 +41,4 @@ Neuter: [[gemischtes]], [[gemischteres]], [[gemischtestes]]
 Plural: [[gemischten]], [[gemischteren]], [[gemischtesten]] 
 
 ---
-[[Mischung]], [[Mischer]], [[Mischdatei]], [[Mischpult]], [[Mischung]], [[durchmischen]], [[Mischlinge]]
+[[Mischung]], [[Mischer]], [[Mischdatei]], [[Mischpult]], [[Mischung]], [[durchmischen]], [[Mischlinge]], [[Gemisch]]

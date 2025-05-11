@@ -1,3 +1,5 @@
+ --> [[Ingredient-Add-Remove]] <--
+
 [[herausschlagen]] + Akk, [ˌhɛʁaʊ̯sˈʃlaːɡn̩]
 [[schlug heraus|schlug heraus]]
 haben [[herausgeschlagen]]

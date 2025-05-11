@@ -1,4 +1,7 @@
+---> [[Ingredinet-Action-Nomen]] <---
 ---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+
+---
 
 🛠️ [[nutzen]] + Akk, [ˈnʊtsən]
 [[nutzte]]
@@ -63,4 +66,4 @@ Morpheme: [[nutz]][[en]]
 | Sie       | [[nutzen]]| [[nutzten]]| [[nutzen Sie]]| [[nutzen]]   | [[nutzten]]   |
 
 Partizip I: [[nutzend]], Partizip II: [[genutzt]]
-, [[ablehnen]], [[Vorteil]], [[Nützliches]], [[nutzlos]], [[w-l]], [[Informationswert]], [[Gebrauch]], [[Nutzungsdaten]], [[gemeinnützig]], [[Mehrwert]], [[verarbeiten]]
+, [[ablehnen]], [[Vorteil]], [[Nützliches]], [[nutzlos]], [[w-l]], [[Informationswert]], [[Gebrauch]], [[Nutzungsdaten]], [[gemeinnützig]], [[Mehrwert]], [[verarbeiten]], [[Ertrag]]

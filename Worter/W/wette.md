@@ -14,4 +14,4 @@ Synonyme:
 **Übersetzung**: bet, wager
 
 ---
-#Substantiv #Feminin, [[Sportwetten]]
+#Substantiv #Feminin, [[Sportwetten]], [[Wetteinsatz]]

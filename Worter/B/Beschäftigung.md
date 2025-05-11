@@ -1,4 +1,7 @@
-[[Beruf]], [[Tätigkeit]], [[beschäftigen]], [[schäftigen]], [[erwerbstätig]], [[Entlassung]], [[Arbeit]], [[Erlebnis]], [[Arbeitsbedingungen]]
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
+
 🔴 💼 die [[Beschäftigung]], [bəˈʃɛftɪɡʊŋ]
 die [[Beschäftigungen]]
 
@@ -26,3 +29,5 @@ D: der [[Beschäftigung]], den [[Beschäftigungen]]
 ---
 [[beschäftigen]], [[schäftig]], [[Beschäftigungsgrad]], [[Beschäftigungstherapie]], [[Beschäftigungsverbot]]
 , [[Arbeitsstelle]], [[Berufstätigkeit]], [[Beschäftigte]], [[Betriebszugehörigkeit]]
+
+[[Beruf]], [[Tätigkeit]], [[beschäftigen]], [[schäftigen]], [[erwerbstätig]], [[Entlassung]], [[Arbeit]], [[Erlebnis]], [[Arbeitsbedingungen]]

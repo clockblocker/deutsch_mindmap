@@ -39,4 +39,4 @@ Partizip II: [[gewünscht]]
 Zu+infinitive: [[zuwünschen]]
 
 ---
-[[Wunsch]], [[Wünsche]], [[Wünschelrute]], [[wünschenswert]], [[wunschlos]], [[wunschlos]], [[ablehnen]]
+[[Wunsch]], [[Wünsche]], [[Wünschelrute]], [[wünschenswert]], [[wunschlos]], [[wunschlos]], [[ablehnen]], [[anstreben]]

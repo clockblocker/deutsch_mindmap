@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 🌟 [[hervorragend]], [ɛɐ̯vɔʁˈʁaːgnt]
 
 ---

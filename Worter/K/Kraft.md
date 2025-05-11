@@ -2,12 +2,17 @@
 die [[Kräfte]]
 
 ---
-Um diese schwere Tasche zu tragen, brauchst du viel [[Kraft]].
+*[[C1-Lesen-T1-001-Text#^31|^]]* (5) [[Treibende]] [[Kraft]] der Studie zum Geruchssinn von Hunden und ihre Bedeutung für die Corona-Erkennung ist Holger Volk, Professor und [[Leiter]] der Klinik für Kleintiere an der Tierärztlichen Hochschule Hannover. ^31
+
+
+⚙️ [[Kernkraft]], [[Kohlekraftwerk]], [[Lehrkraft]]
 
 ---
-= [[Stärke]], [[Worter/E/Energie]], [[Macht]]
-≈ [[Gewalt]], [[Leistung]], [[Potenz]], [[Vermögen]]
-≠ [[Schwäche]], [[Unfähigkeit]], [[Machtlosigkeit]]
+
+= [[Stärke]], [[Energie]], [[Willenskraft]], [[Führungskraft]], [[Wucht]]
+≈ [[Leistung]], [[Potenz]], [[Vermögen]], [[Gewalt]], [[Druck]], [[Strom]], [[aussagekräftig]]
+ [[Stärke]], [[Energie]], [[Macht]]
+≠ [[Schwäche]], [[Unfähigkeit]], [[Machtlosigkeit]], [[Erschöpfung]]
 
 ---
 power, strength, force
@@ -24,5 +29,4 @@ D: der [[Kraft]], den [[Kräften]]
 ---
 [[kräftig]], [[kraftvoll]], [[kraftlos]], [[bekräftigen]], [[Kraftwerk]]
 
-[[Worter/E/Energie]], [[Gewalt]], [[Druck]], [[Schwäche]], [[Willenskraft]]
-, [[Erschöpfung]], [[Führungskraft]], [[aussagekräftig]], [[Kernkraft]], [[Kohlekraftwerk]], [[Strom]], [[Lehrkraft]]
+#Feminin 

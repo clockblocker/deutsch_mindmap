@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Subordinating-Konditional|Konditional Subordinating Konjunktoren]]
+
+---
+
 🔴 der [[Fall]] | [[ebenfalls]]
 die [[Fälle]]
 

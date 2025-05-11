@@ -32,4 +32,4 @@ P: [[verschiedenen]], [[verschiedeneren]], [[verschiedensten]]
 ---
 [[Verschiedenheit]], [[unterscheiden]], [[Unterschied]], [[Vielfalt]], [[divergieren]]
 
-, [[Texte/Misc/Anki]], [[gleichermaßen]]
+, [[Texte/Misc/Anki]], [[gleichermaßen]], [[derselbe]]

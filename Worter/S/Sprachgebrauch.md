@@ -1,2 +1,2 @@
 , [[Artikelverwendung]]
-, [[Sprachschatz]]
+, [[Sprachschatz]], [[Sprechweise]]

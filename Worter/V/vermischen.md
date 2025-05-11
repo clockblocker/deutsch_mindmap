@@ -7,7 +7,7 @@ CHARLOTTE: Das Eigelb mit der Schokolade [[vermischen]] …
 
 
 ---
-Synonyme: [[mischen]], [[vereinen]], [[kombinieren]], [[vermengen]], [[vermischen]]
+Synonyme: [[mischen]], [[vereinen]], [[kombinieren]], [[Vermengen]], [[vermischen]]
 Antonyme: [[trennen]], [[sortieren]], [[teilen]], [[scheiden]], [[unterscheiden]]
 
 ---

@@ -1,1 +1,1 @@
-, [[Umsatz]]
+, [[Umsatz]], [[Erlös]]

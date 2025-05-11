@@ -1,1 +1,1 @@
-, [[Fach]], [[Fachrichtung]], [[Studienfach]]
+, [[Fach]], [[Fachrichtung]], [[Studienfach]], [[Forschungsgebiet]]

@@ -1,20 +1,22 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🚨 🔵 der [[Einsatz]], [ˈaɪ̯nzats](https://youglish.com/pronounce/Einsatz/german)
 
 ---
-- Erläutern Sie mögliche [[Gefahren]] durch den [[Einsatz]] von KI am Arbeitsplatz.  
+*[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] (6) [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden. ^34
+
+
+Erläutern Sie mögliche [[Gefahren]] durch den [[Einsatz]] von KI am Arbeitsplatz.  
 
 *[[042-C1-Schreiben-T2#^2|^]]* Ihr Unternehmen hat beschlossen, aus Kostengründen ältere technische [[Gerät]]e wie Laptops und Telefone [[weiterhin]] im [[Einsatz]] zu lassen. ^2
 
 
-
 ---
-= [[Verwendung]], [[Gebrauch]], [[Anwendung]] | [[Engagement]], [[Beteiligung]], [[Mitwirkung]] | [[Wetteinsatz]], [[Einsatz]]
-≈ [[Nutzung]], [[Verwertung]] | [[Aktivität]], [[Einschreiten]] | [[Risiko]], [[Spiel]]
-≠ [[Ruhestand]], [[Untätigkeit]] | [[Passivität]], [[Zurückhaltung]] | [[Gewinn]], [[Verlust]]
-
-, [[Nutzung]], [[Einsatzes]], [[einsetzen]], [[Wett]], [[Bemühung]], [[Verwendung]], [[Gebrauch]]
-, [[Anstrengung]], [[Anwendung]]
-
+= *Usage* [[Verwendung]], [[Gebrauch]], [[Anwendung]], [[Nutzung]], [[Verwertung]]
+= *Involvement* [[Engagement]], [[Beteiligung]], [[Mitwirkung]], [[Bemühung]], [[Anstrengung]]
+≈ *Gamble* [[Aktivität]], [[Einschreiten]], [[Risiko]], [[Spiel]]
+≠ [[Ruhestand]], [[Untätigkeit]], [[Passivität]], [[Zurückhaltung]], [[Gewinn]], [[Verlust]]
 
 ---
 use, deployment, application | commitment, involvement | stake, bet
@@ -22,6 +24,8 @@ use, deployment, application | commitment, involvement | stake, bet
 
 ---
 [[einsetzen]], [[Einsatzbereit]], [[Einsatzgebiet]] | [[sich einsetzen]], [[Einsatzfreude]], [[Einsatzkraft]] | [[Einsatzhöhe]], [[Einsatzbedingungen]]
+[[Wetteinsatz]], [[einsetzen]]
+
 
 ---
 [[Ein]]|[[satz]]
@@ -58,3 +62,5 @@ D: dem [[Einsatz]], den [[Einsätzen]]
 
 
 #Maskulin , [[Aufwand]], [[einsatzfähig]]
+
+

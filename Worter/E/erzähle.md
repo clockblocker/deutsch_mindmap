@@ -1,1 +1,1 @@
-[[erzählen]], [[Extra 8]]
+[[erzählen]]

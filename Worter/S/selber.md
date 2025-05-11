@@ -30,4 +30,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[selber]], [[selberer]], [[selbere]], [[selberes]], [[selberen]], [[selberm]], [[selbere]], [[selberen]]
-[[selbsten]], [[selbster]], [[selbste]], [[selbstes]], [[selbsten]], [[selbstem]], [[selbster]], [[selbsten]], [[andere]]
+[[selbsten]], [[selbster]], [[selbste]], [[selbstes]], [[selbsten]], [[selbstem]], [[selbster]], [[selbsten]], [[andere]], [[derselbe]]

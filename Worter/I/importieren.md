@@ -1,1 +1,1 @@
-, [[entlehnen]], [[einführen]]
+, [[entlehnen]], [[einführen]], [[einschleppen]]

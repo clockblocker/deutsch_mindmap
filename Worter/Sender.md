@@ -27,3 +27,6 @@ N: der [[Sender]], die [[Sender]]
 A: den [[Sender]], die [[Sender]]  
 G: des [[Senders]], der [[Sender]]  
 D: dem [[Sender]], den [[Sendern]]
+
+
+#Maskulin 

@@ -1,1 +1,2 @@
-, [[hervorragend]], [[schlimm]], [[toll]], [[herrlich]], [[fürchten]]
+---> [[Grad-gut]] <--
+

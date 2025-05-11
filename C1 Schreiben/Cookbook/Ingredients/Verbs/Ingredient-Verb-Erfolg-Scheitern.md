@@ -31,6 +31,7 @@ neue Netzwerke einbringen
 25) [[übertreffen]] *(to surpass — comparative success)*  
 26) [[überleben]] *(to survive — base threshold success)*  
 27) [[behaupten]] *(to assert/sustain oneself — especially in competition)*  
+28) [[vollziehen]] *(to carry out, to perform, to execute)*
 
 #### 🔴 [[Scheitern]]  
 1) [[scheitern]] *(to fail — formal, full failure)*  

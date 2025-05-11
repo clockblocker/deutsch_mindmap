@@ -1,3 +1,6 @@
+[[Grammatik-Pronomen-Demonstrativ-Einfach]]
+
+---
 👉 [[dieser]], [ˈdiːzɐ]
 
 ---

@@ -10,7 +10,7 @@
 - [x] [[008-C1-Schreiben-T2|008]] Neue Parkplatzregelung schließt Mitarbeitende mit Wohnortnähe aus
 - [x] [[009-C1-Schreiben-T2|00 9]] Bildungsurlaub
 - [x] [[021-C1-Schreiben-T2|021]] Heiztemperatur reduziert werden
-- [x] [[0010-C1-Schreiben-T2|0010]] Heiztemperatur reduziert werden
+- [x] [[0010-C1-Schreiben-T2|0010]] Schließung unserer Kantine einzugehen
 
 #### Uni
 - [x] [[100-C1-Schreiben-T2|100]] Kein Arbeitsplatz in der Bibliothek

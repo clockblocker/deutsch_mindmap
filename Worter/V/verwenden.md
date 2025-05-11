@@ -43,4 +43,4 @@ PI: [[verwendend]], PII: [[verwendet]], Zu+inf: [[zu verwenden]]
 
 ---
 [[Verwendung]], [[verwendbar]], [[Verwendbarkeit]], [[Anwendung]], [[Einsatz]], [[Artikelverwendung]], [[verbrauchen]]
-, [[vermeiden]], [[meiden]]
+, [[vermeiden]], [[meiden]], [[aufwendig]]

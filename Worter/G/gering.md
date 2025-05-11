@@ -1,4 +1,6 @@
 ---> 💥 [[Grad-Intensität]] <---
+---> 🧮 [[Grad-Quantität]] <---
+
 🐭 [[gering]], [ɡəˈʁɪŋə] ≠ [[groß]]
 
 ---
@@ -6,6 +8,8 @@ Diese Arbeiter bekommen nur [[gering]] [[Löhne]].
 
 *[[100-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die [[geringe]] [[Anzahl]] der Arbeitsplätze in der [[Universitätsbibliothek]] einzugehen. ^1
 
+
+*[[C1-Lesen-T1-101-Text#^11|^]]* Bei ihr war der (8) [[Ertrag]] an genetischem Material jedoch für weitere Analysen zu [[gering]]. ^11
 
 
 [[2 Unter Druck nach oben#^2|(q)]] Wenn dieser [[Aufsteiger]] endlich an der Spitze der Firma angekommen ist, dann [[plagen]] ihn meist Angst und Ressentiments, [[geringes]] [[Selbstwertgefühl]] und ein [[unbändiges]] [[Bedürfnis]] nach [[Anerkennung]]. Das ist wissenschaftlich erwiesen. ^2

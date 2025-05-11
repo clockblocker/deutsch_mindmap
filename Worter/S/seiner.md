@@ -1,4 +1,4 @@
 [[Dativ pronomen]]
-[[Genetiv possessiv Pronomen]]
+[[Grammatik-Attributiv-Possessiv-Pronomen-Genetiv]]
 
-, [[seinerseits]]
+, [[seinerseits]], [[Grammatik-Pronomen-Personal]]

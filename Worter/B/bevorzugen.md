@@ -29,3 +29,4 @@ PI: [[bevorzugend]], PII: [[bevorzugt]], Zu+inf: [[zu bevorzugen]]
 
 ---
 [[Bevorzugung]], [[Vorzug]], [[bevorzugt]]
+, [[überordnen]]

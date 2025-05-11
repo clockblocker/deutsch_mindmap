@@ -1,1 +1,1 @@
-, [[Gliedmaße]], [[Fuß]]
+, [[Gliedmaße]], [[Fuß]], [[Wirbelsäule]]

@@ -3,10 +3,10 @@
 ⚠️ 🔴 die [[Bedrohung]], [bəˈdʁoːʊ̯ʊŋ](https://youglish.com/pronounce/Bedrohung/german)
 
 ---
+*[[C1-Lesen-T1-000-Text#^4|^]]* Für viele Tiere im Ozean sind die Plastikteile eine ernste [[akut]]e [[Bedrohung]], denn oft fressen sie sie irrtümlich und sterben daran. ^4
+
+
 ###### 👨‍🔧 Automatisierung in der Industrie – [[Bedrohung]] für Arbeitsplätze?
-
-*[[C1-Lesen-T1-000-Text#^4|^]]*  Für viele Tiere im Ozean sind die [[Plastikteile]] eine [[akute]] _2_ [[Bedrohung]], denn oft [[fressen]] sie sie [[irrtümlich]] und [[sterben]] [[daran]]. ^4
-
 
 ---
 = [[Gefährdung]], [[Drohung]], [[Bedrängnis]]

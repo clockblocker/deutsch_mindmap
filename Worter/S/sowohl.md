@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Coordinating-Kopulativ]]
+
+---
+
 ➕ [[sowohl]], [zoˈvoːl](https://youglish.com/pronounce/sowohl/german)
 
 ---

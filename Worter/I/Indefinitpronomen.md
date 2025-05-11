@@ -39,3 +39,4 @@ Here is the list of some common [[Indefinitpronomen]] (indefinite pronouns) in G
 - [[Worter/A/Alle]] (all)
 - [[jede]] (every, each)
 
+, [[derselbe]]

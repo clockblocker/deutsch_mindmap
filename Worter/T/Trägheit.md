@@ -1,1 +1,4 @@
-, [[Schweinehund]], [[Bewegungsmangel]], [[Motivation]]
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
+, [[Schweinehund]], [[Bewegungsmangel]], [[Motivation]], [[Untätigkeit]]

@@ -1,1 +1,1 @@
-, [[verletzen]]
+, [[verletzen]], [[Wunde]]

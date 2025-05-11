@@ -29,3 +29,4 @@ PI: [[aussetzend]], PII: [[ausgesetzt]], Zu+inf: [[auszusetzen]]
 
 ---
 [[Aussetzung]], [[Aussetzer]], [[aussetzbar]], [[aussetzend]]
+, [[abschiermen]]

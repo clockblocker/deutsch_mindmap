@@ -46,4 +46,4 @@ more
 Adjektive: [[mehr]], [[mehrere]], [[meisten]]
 
 ---
-[[mehrer]], [[mehres]], [[mehre]], [[mehren]], [[mehrem]], [[mehrereer]], [[mehrerees]], [[mehreree]], [[mehrereen]], [[mehrereem]], [[meistener]], [[meistenes]], [[meistene]], [[meistenen]], [[meistenem]], [[mehrsprachig]]
+[[mehrer]], [[mehres]], [[mehre]], [[mehren]], [[mehrem]], [[mehrereer]], [[mehrerees]], [[mehreree]], [[mehrereen]], [[mehrereem]], [[meistener]], [[meistenes]], [[meistene]], [[meistenen]], [[meistenem]], [[mehrsprachig]], [[Mehrzahl]], [[vermehren]]

@@ -1,1 +1,1 @@
-, [[Lebensform]], [[Lebensjahr]], [[Lebensversicherung]]
+, [[Lebensform]], [[Lebensjahr]], [[Lebensversicherung]], [[lebenswichtig]]

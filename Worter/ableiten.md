@@ -27,4 +27,4 @@ PI: [[ableitend]], PII: [[abgeleitet]], Zu+inf: [[abzuleiten]]
 [[ableiten]] - [[ab]] = [[leiten]] / to derive, to deduce, to infer
 
 ---
-[[Ableitung]], [[ableitbar]], [[Ableitungsregel]], [[hergeleitet]], [[Herleitung]], [[ergeben]]
+[[Ableitung]], [[ableitbar]], [[Ableitungsregel]], [[hergeleitet]], [[Herleitung]], [[ergeben]], [[entstammen]]

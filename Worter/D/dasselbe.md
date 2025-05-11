@@ -1,1 +1,1 @@
-, [[dieselbe]]
+, [[dieselbe]], [[derselbe]], [[jenig]]

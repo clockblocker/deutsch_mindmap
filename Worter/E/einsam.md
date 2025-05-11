@@ -1,3 +1,5 @@
+---> 🧮 [[Grad-Quantität]] <---
+
 [[einsam]], [ˈaɪ̯n.zaːm]
 nicht [[gesellig]], [[Allein]]
 
@@ -17,7 +19,7 @@ Antonyme:
 
 ---
 **Übersetzung**:
-lonely, solitary, alone
+[[einsam]] *(lonely, solitary, alone)*
 
 ---
 #Adjective [[einsam]]

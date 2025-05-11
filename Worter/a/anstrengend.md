@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 😓 [[anstrengend]], [ˈanˌʃtʁɛŋənt](https://youglish.com/pronounce/anstrengend/german) ≠ [[entspannt]] | [[anstrengen]]
 
 ---

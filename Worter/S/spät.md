@@ -1,3 +1,3 @@
 ---> ⏱️ [[Temporal-Zeitpunkt]] <---
 
-, [[spätabends 1]], [[verspäten]], [[frühkindlich]], [[Zuspätkommen]], [[kurzfristig]]
+, [[spätabends 1]], [[verspäten]], [[frühkindlich]], [[Zuspätkommen]], [[kurzfristig]], [[ursprünglich]]

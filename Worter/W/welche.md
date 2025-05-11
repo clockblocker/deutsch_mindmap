@@ -1,4 +1,1 @@
-[[welcher]]
-
-[[Worter/P/Pronomen/Pronomen]]
-#Relativpronomen #pronomen , [[dessen]]
+[[welcher]], [[Grammatik-Pronomen-Relativ-Selbständige]], [[diejenige]], [[jenige]]

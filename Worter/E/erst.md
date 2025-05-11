@@ -32,4 +32,4 @@ Einzigartige mögliche Formen:
 [[erst]], [[erste]], [[ersten]], [[erstem]], [[erster]], [[erstes]]
 [[erstere]], [[ersterer]], [[ersteres]], [[erstere]], [[ersteren]], [[ersterem]], [[ersterer]], [[ersteren]]
 [[Ersten]], [[Erster]], [[Erstes]], [[Ersten]], [[Erstem]], [[Erster]], [[Ersten]], [[zweit]], [[allerletzten]], [[Ersteinschulung]], [[Erststimme]]
-, [[allererst]]
+, [[allererst]], [[ursprünglich]]

@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 💧 [[feucht]], [fɔɪ̯çt](https://youglish.com/pronounce/feucht/german)
 
 ---

@@ -2,6 +2,9 @@
 die [[Einflüsse]]
 
 ---
+*[[C1-Lesen-T1-102-Text#^8|^]]* Viel [[Forschungsbedarf]] gibt es noch beim [[Einfluss]] auf die Tierwelt. ^8
+
+
 - `Unter` de*r* Regierung Wilhelms II.  
   `unter` Wilhelm, de*m* Zweit*en*  
   `unter` de*m* Einfluss der Monarchie  
@@ -31,4 +34,7 @@ N: der [[Einfluss]], die [[Einflüsse]]
 A: den [[Einfluss]], die [[Einflüsse]]  
 G: des [[Einflusses]], der [[Einflüsse]]  
 D: dem [[Einfluss]], den [[Einflüssen]]
-, [[Stellenwert]]
+, [[Stellenwert]], [[einfließen]], [[Umwelteinfluss]]
+
+
+#Maskulin 

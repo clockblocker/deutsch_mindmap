@@ -1,3 +1,6 @@
+[[Grammatik-Konjunktoren-Subordinating-Temporale|Temporale Subordinating Konjunktor]]
+
+---
 [[Konnektoren]]
 
 ⏱️ [[sobald]], [zoˈbalt](https://youglish.com/pronounce/sobald/german)

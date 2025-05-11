@@ -1,2 +1,2 @@
 , [[ersinnlich]], [[künstlerischer]]
-, [[verträumt]]
+, [[verträumt]], [[Phantasie]]

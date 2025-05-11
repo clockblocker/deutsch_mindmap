@@ -1,3 +1,5 @@
+[[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien|Demonstrativ-Pronominaladverb]]
+
 [[darauf]]
 
 ---
@@ -18,4 +20,4 @@ Synonyme:
 **Übersetzung**: on it, to it, about it
 
 ---
-#Adverb, [[dabei]], [[da]], [[folgend]], [[Texte/Misc/Anki]]
+#Adverb, [[dabei]], [[da]], [[folgend]], [[Texte/Misc/Anki]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]

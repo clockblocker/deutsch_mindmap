@@ -22,4 +22,4 @@ Morphems:
 [[Fleisch]]
 
 ---
-#Substantiv #Neuter[[Braten]], [[Haut]], [[Linsen]]
+#Substantiv #Neuter[[Braten]], [[Haut]], [[Linsen]], [[Gemüse]]

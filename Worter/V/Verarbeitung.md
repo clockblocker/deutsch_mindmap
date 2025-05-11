@@ -1,1 +1,1 @@
-, [[verarbeiten]], [[Bearbeitung]]
+, [[verarbeiten]], [[Bearbeitung]], [[Verwertung]]

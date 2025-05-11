@@ -28,4 +28,4 @@ Tags:
 
 ---
 Morphems:
-[[ver]][[lässig]]
+[[ver]][[lässig]], [[zuverlässig]]

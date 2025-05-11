@@ -1,2 +1,2 @@
+---> [[Grad-gut]] <--
 
-, [[mitfühlend]], [[attraktiv]]

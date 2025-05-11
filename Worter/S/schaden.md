@@ -1,8 +1,11 @@
+---> [[Grad-gut]] <--
 ---> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
 
 🤕 [[schaden]], [ˈʃaːdn̩]
 
 ---
+*[[C1-Lesen-T1-102-Text#^6|^]]* Aber sicher ist: Sie [[vermehrt]] sich schneller als andere Spezies, frisst mehr und setzt sich [[notfalls]] zum Fressen in die [[pralle]] Sonne, ohne [[Schaden]] zu (3) [[nehmen]] . ^6
+
 
 ---
 = [[beeinträchtigen]], [[beschädigen]], [[gefährden]], [[antun]]
@@ -58,4 +61,4 @@ PI: [[schadend]], PII: [[geschadet]], Zu+inf: [[zuschaden]]
 [[schaden]] / to harm, to damage, to be detrimental
 
 ---
-[[Schaden]], [[Schadensersatz]], [[schädlich]], [[beschädigen]], [[unschädlich]], [[Schädliches]], [[Mehrwert]], [[Nachteil]], [[Ruf]], [[Wiedergutmachung]], [[beitragen]]
+[[Schaden]], [[Schadensersatz]], [[schädlich]], [[beschädigen]], [[unschädlich]], [[Schädliches]], [[Mehrwert]], [[Nachteil]], [[Ruf]], [[Wiedergutmachung]], [[beitragen]], [[Ertrag]], [[Schädling]]

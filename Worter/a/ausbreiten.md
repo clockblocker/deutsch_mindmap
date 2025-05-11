@@ -1,3 +1,5 @@
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+
 [[ausbreiten]] + Akk, [aʊ̯sˈbʁaɪ̯tn̩]
 [[breitete aus|breitete aus]]
 haben [[ausgebreitet]]

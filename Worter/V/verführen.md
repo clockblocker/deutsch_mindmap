@@ -1,1 +1,1 @@
-, [[bestechen]]
+, [[bestechen]], [[locken]]

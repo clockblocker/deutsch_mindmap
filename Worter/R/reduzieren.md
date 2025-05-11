@@ -1,4 +1,4 @@
----> [[Ingredient-Verb-Wachstum-Steigerung]] <---
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 
 📉 [[reduzieren]], [ʁeˈduːt͡siːʁən](https://youglish.com/pronounce/reduzieren/german) → [[reduzierte]] → haben [[reduziert]]
 
@@ -9,10 +9,6 @@ reduzieren
 = [[verringern]], [[senken]], [[mindern]]
 ≈ [[kürzen]], [[einschränken]], [[abbauen]]
 ≠ [[erhöhen]], [[vergrößern]], [[steigern]]
-
-, [[beschränken]], [[verkürzen]], [[kürzen]], [[zusammenrechnen]], [[abnehmen]], [[einschränken]], [[erhöhen]], [[tausendfachen]], [[ergänzen]]
-, [[abziehen]], [[verringern]], [[abschwächen]], [[abbauen]], [[Reduktion]], [[steigern]], [[Stressreduktion]], [[senken]], [[senken]], [[verbilligen]]
-
 
 ---
 to reduce, to cut down  
@@ -50,4 +46,4 @@ sie, [[reduzieren]], [[reduzierten]], [[reduzieren]], [[reduzierten]], [[reduzie
 Adjektive: [[reduzierend]], [[reduzierender]], [[reduzierendst]]
 
 ---
-[[reduzierender]], [[reduzierendes]], [[reduzierende]], [[reduzierenden]], [[reduzierendem]], [[reduzierenderer]], [[reduzierenderes]], [[reduzierendere]], [[reduzierenderen]], [[reduzierenderem]], [[reduzierendster]], [[reduzierendstes]], [[reduzierendste]], [[reduzierendsten]], [[reduzierendstem]], [[verlangsamen]]
+[[reduzierender]], [[reduzierendes]], [[reduzierende]], [[reduzierenden]], [[reduzierendem]], [[reduzierenderer]], [[reduzierenderes]], [[reduzierendere]], [[reduzierenderen]], [[reduzierenderem]], [[reduzierendster]], [[reduzierendstes]], [[reduzierendste]], [[reduzierendsten]], [[reduzierendstem]], [[verlangsamen]], [[verstärken]], [[vermehren]]

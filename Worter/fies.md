@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 😈 [[fies]], [fiːs](https://youglish.com/pronounce/fies/german) ≠ [[nett]]
 
 ---

@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 😠 [[beleidigt]], [bəˈlaɪ̯dɪçt], 😠 [[beleidigen]] | 
 nicht [[freundlich]]
 

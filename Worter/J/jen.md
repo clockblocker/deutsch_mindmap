@@ -1,1 +1,1 @@
-, [[jener]]
+, [[jener]], [[diejenige]], [[jenige]], [[derjenige]], [[jenig]]

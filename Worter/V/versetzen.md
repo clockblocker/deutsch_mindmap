@@ -1,1 +1,1 @@
-, [[verbannen]], [[rücken]]
+, [[verbannen]], [[rücken]], [[verschieben]]

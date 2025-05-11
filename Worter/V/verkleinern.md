@@ -1,1 +1,2 @@
-, [[breiten]], [[verringern]], [[senken]], [[senken]]
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+

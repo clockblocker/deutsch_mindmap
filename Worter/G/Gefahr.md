@@ -6,12 +6,15 @@ die [[Gefahren]]
 ---
 Katara, du hättest nicht zu diesem Schiff gehen dürfen. Jetzt sind alle im Dorf in [[Gefahr]]
 
-- Erläutern Sie mögliche [[Gefahren]] durch den [[Einsatz]] von KI am Arbeitsplatz.  
+*[[C1-Lesen-T1-102-Text#^11|^]]* (6) [[Abzuraten]] sei auch von [[Schneckengift]]. „Es gibt immer die [[Gefahr]], dass der Falsche davon frisst.“ ^11
+
+
+Erläutern Sie mögliche [[Gefahren]] durch den [[Einsatz]] von KI am Arbeitsplatz.  
 
 *[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]. ^6
 
 
-* *Nennen Sie Alternativen, wie man Menschen vor den* [[Gefahr]]*en, die durch das Internet* [[entstehen]], [[schützen]] *könnte.* 
+*Nennen Sie Alternativen, wie man Menschen vor den* [[Gefahr]]*en, die durch das Internet* [[entstehen]], [[schützen]] *könnte.* 
 
 
 ---

@@ -1,6 +1,8 @@
+---> [[Ingredinet-Action-Nomen]] <---
 ---> [[Ingredient-Zugang-Zugriff]] <---
 ---> [[Ingredient-erlauben-verbieten]] <---
 
+---
 die [[Nutzung]], [ˈnʊtsʊŋ], [[nutzen]]
 die [[Nutzungen]]
 
@@ -29,4 +31,4 @@ Einzigartige mögliche Formen: [[Nutzung]], [[Nutzungen]]
 
 , [[nutzlos]], [[Nutzungsdaten]], [[Handhabung]], [[Bedienung]]
 
-, [[Auslastung]]
+, [[Auslastung]], [[Verwertung]]

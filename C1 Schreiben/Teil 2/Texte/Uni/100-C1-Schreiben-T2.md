@@ -56,3 +56,6 @@ Schreiben Sie eine E-Mail an den Bibliotheksleiter, Herrn Dr. Schneider.
 *[[100-C1-Schreiben-T2#^5|^]]* Wenn keine [[zusätzliche]] Steckdosen momentan [[eingebaut]] werden können, schlage ich vor, die Nutzung von Powerbanks bis zum Ende der Umbauarbeiten zu [[erlauben]]. 
 
 
+ 
+ich wende mich auf Sie, um auf die geringe Количетсво der Arbeitsplätze in der Universitätsbibliothek einzugehen. 
+

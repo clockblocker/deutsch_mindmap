@@ -1,1 +1,1 @@
-, [[brechen]], [[verletzen]], [[zurücksenden]]
+, [[brechen]], [[verletzen]], [[zurücksenden]], [[heilen]]

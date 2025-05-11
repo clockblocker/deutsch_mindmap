@@ -12,7 +12,7 @@ Letzte Woche musste Tim nicht mal seine Hausaufgaben zu Ende machen: Seine Elter
 
 [[Eine Extrawurst bekommen.md#^5|(q)]] Aber heute sind sie so richtig [[wütend]]: Beim Abendessen haben ihnen die Eltern gerade erzählt, dass sie nächstes Wochenende alle zu Tante Gisela fahren werden. ^5
 
-[[Eine Extrawurst bekommen.md#^6|(q)]] [[Ausgerechnet]] zu Tante Gisela, die Kinder doch sowieso nicht [[leiden]] kann! Das [[Schlimmste]] aber ist: Tim muss nicht mitkommen. ^6
+[[Eine Extrawurst bekommen.md#^6|(q)]] [[ausgerechnet]] zu Tante Gisela, die Kinder doch sowieso nicht [[leiden]] kann! Das [[Schlimmste]] aber ist: Tim muss nicht mitkommen. ^6
 
 Er darf zu seinem Freund Carl, um für das nächste Spiel zu trainieren. 
 

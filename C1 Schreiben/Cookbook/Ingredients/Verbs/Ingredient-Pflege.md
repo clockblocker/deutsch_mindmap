@@ -3,6 +3,7 @@
 ---> [[Ingredient-Pflege]] <---
 #### Sorgfalt / Aufmerksamkeit 
 🧹 [[pflegen]] *(to maintain; care for)*
+🛡️ [[vorbeugend]] *(preventive)*
 👀 [[achten]] *(to pay attention; to observe respectfully)*
 🚸 [[aufpassen]] *(to watch out / be careful)*
 👁️ [[betrachten]] *(to look at attentively)*
@@ -10,6 +11,7 @@
 🧡 [[Sorgen]] *(to take care; noun and verb use)*
 🛡️ [[beschützen]] *(to protect; defensive action)*
 🔭 [[beobachten]] *(to observe carefully)*
+
 
 ---
 
@@ -53,6 +55,6 @@
 ❌ [[verzichten]] *(to renounce / give up; deliberate omission)*
 
 ---
-
+🛡️ [[vorbeugend]] *(preventive)*
 
 ---

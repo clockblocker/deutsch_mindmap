@@ -39,4 +39,4 @@ Zu+infinitive: [[einzugehen]]
 ---
 [[Eingang]], [[Eingänger]], [[Eingangsdatum]], [[Eingangsstempel]], [[Eingangsbuch]]
 
-, [[sprießen]]
+, [[sprießen]], [[einfließen]]

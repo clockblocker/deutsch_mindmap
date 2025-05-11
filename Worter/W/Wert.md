@@ -3,6 +3,9 @@
 ---
 Du musst den [[Wert]] des Geldes kennen.
 
+*[[C1-Lesen-T1-100-Text#^2|^]]* Jugendliche [[legen]] in der [[Mehrzahl]] [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
+
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^12|^]]* So kann der [[effiziente]] [[Einsatz]] digitaler [[Technologie]]n [[optimal]] mit dem [[unschätzbaren]] [[Wert]] [[zwischenmenschlicher]] [[Kontakte]] [[verbunden]] werden. ^12
 
 
@@ -40,4 +43,4 @@ D: dem [[Wert]], den [[Werten]]
 , [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]], [[Betrag]]
 
 
-#Maskulin , [[Stellenwert]], [[Selbstwert]], [[wertschätzen]], [[Kurs]], [[wertlos]]
+#Maskulin , [[Stellenwert]], [[Selbstwert]], [[wertschätzen]], [[Kurs]], [[wertlos]], [[Verwertung]], [[bemerkenswert]]

@@ -27,3 +27,6 @@ N: der [[Greifer]], die [[Greifer]]
 A: den [[Greifer]], die [[Greifer]]
 G: des [[Greifers]], der [[Greifer]]
 D: dem [[Greifer]], den [[Greifern]]
+
+
+#Maskulin 

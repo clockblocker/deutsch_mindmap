@@ -24,4 +24,4 @@ N: [[schädliches]], [[schädlicheres]], [[schädlichstes]]
 P: [[schädlichen]], [[schädlicheren]], [[schädlichsten]]  
 
 ---
-[[Schaden]], [[schädigen]], [[Schädlichkeit]], [[unschädlich]], [[gesundheitsschädlich]], [[Schädliches]]
+[[Schaden]], [[schädigen]], [[Schädlichkeit]], [[unschädlich]], [[gesundheitsschädlich]], [[Schädliches]], [[schaden]]

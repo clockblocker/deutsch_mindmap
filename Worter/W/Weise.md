@@ -58,4 +58,4 @@ Einzigartige mögliche Formen: [[Weisen]], [[Weisen]], [[Weisen]]
 #Substantiv #Maskulin #Plural
 
 , [[zwangsweise]], [[beziehungsweise]]
-, [[erledigen]], [[vernünftig]], [[vorweisen]], [[erweisen]], [[teilweise]], [[Zugriff]], [[stellenweise]], [[Vorgehensweise]], [[Spielweise]]
+, [[erledigen]], [[vernünftig]], [[vorweisen]], [[erweisen]], [[teilweise]], [[Zugriff]], [[stellenweise]], [[Vorgehensweise]], [[Spielweise]], [[Sprechweise]]

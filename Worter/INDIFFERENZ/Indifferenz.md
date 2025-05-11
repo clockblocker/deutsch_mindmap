@@ -1,1 +1,1 @@
-, [[Meinungsbildung]]
+, [[Meinungsbildung]], [[Gleichgültigkeit]]

@@ -1,2 +1,5 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 , [[Handlung]], [[Maßnahme]], [[Worter/S/Sport]]
-, [[Freizeitaktivität]], [[Akteur]], [[Bewegungsmangel]]
+, [[Freizeitaktivität]], [[Akteur]], [[Bewegungsmangel]], [[Einsatz]], [[Untätigkeit]]

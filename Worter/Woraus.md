@@ -6,6 +6,9 @@
 	- [x] aus den nationalsozialistischen [[Verbrechen]] gegen Juden
 	- [ ] aus dem [[Grundgesetz]] der Bundesrepublik Deutschland
 	- [ ] aus der christlichen Tradition
+	- [ ] 
+*[[C1-Lesen-T1-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15
+
 
 
 ---
@@ -21,3 +24,4 @@ from what, out of which, from which
 
 ---
 [[woraufhin]], [[worüber]], [[wodurch]], [[womit]], [[woran]]
+, [[Grammatik-Pronomen-Interrogative]]

@@ -1,1 +1,1 @@
-, [[Narbe]]
+, [[Narbe]], [[Wunde]]

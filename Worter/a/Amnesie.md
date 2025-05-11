@@ -1,1 +1,1 @@
-, [[Erinnerung]], [[Bewusstsein]]
+, [[Erinnerung]], [[Bewusstsein]], [[Gedächtnis]]

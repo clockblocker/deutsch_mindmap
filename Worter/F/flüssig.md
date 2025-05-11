@@ -1,1 +1,1 @@
-, [[überflüssig]], [[fest]], [[flüssigen]], [[fließend]]
+, [[überflüssig]], [[fest]], [[flüssigen]], [[fließend]], [[Körperflüssigkeit]]

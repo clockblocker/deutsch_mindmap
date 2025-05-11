@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 👍 [[vorteilhaft]], [ˈfoːɐ̯ˌtaɪ̯lhaft]
 
 ---

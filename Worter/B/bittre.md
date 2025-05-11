@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[bittre]], [[bittrer]], [[bittere]], [[bitteres]], [[bitteren]], [[bitterem]], [[bitterer]], [[bitteren]]
 [[bitterer]], [[bitterer]], [[bittere]], [[bitteres]], [[bitteren]], [[bitterem]], [[bitterer]], [[bitteren]]
-[[bittersten]], [[bitterster]], [[bitterste]], [[bittestes]], [[bittersten]], [[bittestem]], [[bitterster]], [[bittersten]]
+[[bittersten]], [[bitterster]], [[bitterste]], [[bittestes]], [[bittersten]], [[bittestem]], [[bitterster]], [[bittersten]], [[angenehm]]

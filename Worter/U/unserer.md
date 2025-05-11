@@ -1,4 +1,4 @@
 [[Dativ pronomen]]
 
-[[Genetiv possessiv Pronomen]]
-, [[Pronomen]]
+[[Grammatik-Attributiv-Possessiv-Pronomen-Genetiv]]
+, [[Pronomen]], [[Grammatik-Pronomen-Personal]]

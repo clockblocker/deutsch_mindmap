@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🔴 die [[Ruhe]], [ˈruːə]
 die Ruhen
 
@@ -28,4 +31,4 @@ Einzigartige mögliche Formen: [[Ruhe]], [[Ruhen]]
 #Substantiv #Feminin, [[Ruh]], [[leis]], [[Frieden]], [[ruhig]], [[Tätigkeit]], [[Wert]], [[geduld]], [[Nachtruhe]], [[Arbeiteraufstand]], [[Aufstand]], [[Angriffsgeschrei]], [[Schweige]], [[ausgeruht]], [[unruhig]], [[Bewegung]]
 , [[Gefecht]]
 , [[Wutanfall]]
-, [[Termindruck]], [[Schlacht]], [[Zeitdruck]], [[Wecker]], [[Arbeitsdruck]], [[Ruhestörung]], [[Lärmproblem]], [[Erholung]], [[Dauerlärm]], [[Lauf]]
+, [[Termindruck]], [[Schlacht]], [[Zeitdruck]], [[Wecker]], [[Arbeitsdruck]], [[Ruhestörung]], [[Lärmproblem]], [[Erholung]], [[Dauerlärm]], [[Lauf]], [[Anfall]], [[Untätigkeit]]

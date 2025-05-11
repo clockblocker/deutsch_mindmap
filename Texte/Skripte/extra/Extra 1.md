@@ -45,7 +45,7 @@ Aber es ist vorbei! [[vorbei]]! Und [[jetzt]] [[heul]] bitte nicht!
 Tschüs.  
 Männer!
 
-ANNA: Louis [[komm]] ==schon==. Sascha! Die Post! Louis und ich haben die Post!  
+ANNA: Louis [[komm]] schon. Sascha! Die Post! Louis und ich haben die Post!  
 [[Gib]] mir die Post Louis! 
 
 SASCHA: Gib mir sofort die Post Louis!
@@ -54,9 +54,9 @@ ANNA: Louis. [[Lass das fallen!]]
 
 ANNA: [[Guter]] Hund!
 ANNA: Telefon[[Rechnung]], Gas[[Rechnung]], Strom[[Rechnung]] … Oh, [[was]] ist das?  
-Sascha, ein Brief [[Konjunktion/für]] dich!
+Sascha, ein Brief [[für]] dich!
 
-SASCHA: Ein Brief [[Konjunktion/für]] mich.  
+SASCHA: Ein Brief [[für]] mich.  
 [[von]] meiner Mutter ...
 
 SASCHA: Hey, was ist [[denn]] das?
@@ -256,7 +256,7 @@ ANNA: Ja.
 
 SAM: Wow, fantastic.
 
-SASCHA: Und hier ist ein Kissen [[Konjunktion/für]] dich …
+SASCHA: Und hier ist ein Kissen [[für]] dich …
 
 SAM: Thanks.
 

@@ -54,4 +54,4 @@ sie, [[sammeln ein]], [[sammelten ein]], [[sammeln ein]], [[sammelten ein]], [[s
 Adjektive: [[einsammelnd]], [[einsammelnder]], [[einsammelndst]]
 
 ---
-[[einsammelnder]], [[einsammelndes]], [[einsammelnde]], [[einsammelnden]], [[einsammelndem]], [[einsammelnderer]], [[einsammelnderes]], [[einsammelndere]], [[einsammelnderen]], [[einsammelnderem]], [[einsammelndster]], [[einsammelndstes]], [[einsammelndste]], [[einsammelndsten]], [[einsammelndstem]], [[einsatzfähig]]
+[[einsammelnder]], [[einsammelndes]], [[einsammelnde]], [[einsammelnden]], [[einsammelndem]], [[einsammelnderer]], [[einsammelnderes]], [[einsammelndere]], [[einsammelnderen]], [[einsammelnderem]], [[einsammelndster]], [[einsammelndstes]], [[einsammelndste]], [[einsammelndsten]], [[einsammelndstem]], [[einsatzfähig]], [[Absammeln]]

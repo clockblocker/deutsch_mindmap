@@ -1,1 +1,1 @@
-, [[teuer]], [[Aufwand]]
+, [[teuer]], [[Aufwand]], [[aufwendig]]

@@ -1,1 +1,1 @@
-, [[DURCHLAUF]]
+, [[Durchlauf]]

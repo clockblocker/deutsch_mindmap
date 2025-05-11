@@ -35,4 +35,4 @@ G: euer, eurer
 D: euch, euren  
 
 ---
-[[Du]], [[Ihr]], [[ihrig]], [[ihren]], [[ihrem]], [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]]
+[[Du]], [[Ihr]], [[ihrig]], [[ihren]], [[ihrem]], [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]], [[Grammatik-Pronomen-Personal]]

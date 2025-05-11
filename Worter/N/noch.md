@@ -1,4 +1,7 @@
+[[Grammatik-Konjunktoren-Coordinating-Kopulativ|Kopulativ]] | [[Grammatik-Konjunktoren-Coordinating-Alternativ|Alternativ]]
 ---> ⏱️ [[Temporal-Status]] <---
+
+---
 
 Hast du [[immer noch]] so viele Pickel? 
 

@@ -34,4 +34,4 @@ PI: [[anzeigend]], PII: [[angezeigt]], Zu+inf: [[anzuzeigen]]
 [[anzeigen]] - [[an]] = [[zeigen]] / to report, to indicate, to display
 
 ---
-[[Anzeige]], [[Anzeiger]], [[Anzeigetafel]], [[anzeigbar]], [[Anzeigepflicht]], [[Verwendung]], [[ankündigen]]
+[[Anzeige]], [[Anzeiger]], [[Anzeigetafel]], [[anzeigbar]], [[Anzeigepflicht]], [[Verwendung]], [[ankündigen]], [[hindeuten]]

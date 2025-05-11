@@ -5,6 +5,8 @@ haben [[umgeben]]
 ---
 Um sie herum ist nun alles still und sie sind [[umgeben]] von großen Eisschollen
 
+Vielmehr wird [[empfohlen]], nur morgens zu gießen und [[Beete]] mit einem kleinen [[Zaun]] (7) zu [[umgeben]] .
+
 ---
 Synonyme: [[umringen]], [[umzingeln]], [[umschließen]], [[umsäumen]], [[umkreisen]], [[hüllen]]
 Antonyme: [[freigeben]], [[freilassen]], [[befreien]], [[einsam]]

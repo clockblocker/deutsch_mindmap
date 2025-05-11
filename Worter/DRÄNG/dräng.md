@@ -1,1 +1,1 @@
-, [[Bedrängnis]]
+, [[Bedrängnis]], [[verdrängen]]

@@ -29,4 +29,4 @@ Morpheme: [[ver]][[quirlen]]
 
 Partizip I: [[verquirlend]], Partizip II: [[verquirlt]]
 
-[[verquirlen]] - [[ver]] = [[quirlen]]
+[[verquirlen]] - [[ver]] = [[quirlen]], [[Vermengen]]

@@ -1,3 +1,5 @@
+---> 🧮 [[Grad-Quantität]] <---
+
 🔵 [[einzeln]], [ˈaɪ̯ntsəln] | [[einzelnen]] | [[einzelne]],
 
 ---

@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 🟥 [[eklig]], [ˈeːklɪç]
 nicht [[appetitlich]], nicht [[schmackhaft]]
 

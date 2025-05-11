@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 🟠 [[unhöflich]], [ʊnˈhøːflɪç]
 nicht [[höflich]]
 

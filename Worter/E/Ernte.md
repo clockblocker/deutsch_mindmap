@@ -4,6 +4,12 @@ die [[Ernten]]
 ---
 *[[3 Soll man Geld spenden?#^3|^]]* Ob es sich um die Teilung der [[Ernte]] mit [[Bedürftigen]], den [[Kirchenzehnten]] oder formalisierte Steuern [[handelt]], der gesellschaftliche Konsens besagte auf die eine oder andere Weise, dass es für das Leben mit anderen Menschen [[notwendig]] ist, einen Teil des persönlichen [[Wohlstands]] für das [[Gemeinwohl]] auszugeben. ^3
 
+
+*a) [[Ergebnis]] \ result*
+*b) [[Erlös]] \ proceeds*  
+*c) [[Ernte]] \ harvest*  
+*d) [[Ertrag]] \ yield*
+
 ---
 = [[Einbringung]], [[Ertrag]], [[Ausbeute]]
 ≈ [[Gewinn]], [[Resultat]], [[Ausgang]], [[Saison]], [[Ährenkranz]], [[Erntedankfest]], [[Frucht]]
@@ -26,3 +32,5 @@ A: die [[Ernte]], die [[Ernten]]
 G: der [[Ernte]], der [[Ernten]]  
 D: der [[Ernte]], den [[Ernten]]
 , [[bedürftig]], [[Erntehelferin]], [[Erntemenge]], [[Gemüseanbau]]
+
+#Feminin 

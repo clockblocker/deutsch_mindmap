@@ -1,2 +1,2 @@
 📢 [[verbreiten]]
-, [[zukünftig]]
+, [[zukünftig]], [[gang und gäbe]]

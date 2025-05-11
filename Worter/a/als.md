@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Subordinating-Temporale|Temporale Subordinating Konjunktor]]
+
+---
+
 🔗 [[als]], [als]
 
 ---

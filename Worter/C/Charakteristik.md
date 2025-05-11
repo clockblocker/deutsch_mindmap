@@ -1,1 +1,1 @@
-, [[Eigenschaft]]
+, [[Eigenschaft]], [[Eigenart]]

@@ -1,1 +1,1 @@
-, [[aufregen]], [[gereizt]]
+, [[aufregen]], [[gereizt]], [[wecken]]

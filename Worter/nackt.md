@@ -10,3 +10,4 @@ _Adjektiv_
     (beim Menschen von Körperstellen, die normalerweise von Haaren [[bedeckt]] sind, von bestimmten [[neugeborenen]] Tieren) [[kahl]] (1a)
     
     "ein nackter [[Schädel]]"
+, [[Nacktschnecke]]

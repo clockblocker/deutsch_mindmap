@@ -1,2 +1,2 @@
 ---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
-, [[absolvieren]], [[auslösen]]
+, [[absolvieren]], [[auslösen]], [[in Gang kommen]]

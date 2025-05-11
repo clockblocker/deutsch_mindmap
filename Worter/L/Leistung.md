@@ -34,4 +34,4 @@ D: der [[Leistung]], den [[Leistungen]]
 , [[Anstrengung]], [[Großtat]], [[Aufgabenerfüllung]], [[Strom]], [[Bildungserfolg]], [[Angebot]], [[Unterstützungsangebot]]
 
 
-#Feminin , [[Kapazität]]
+#Feminin , [[Kapazität]], [[Trefferquote]]

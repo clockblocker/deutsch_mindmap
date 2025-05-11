@@ -48,4 +48,4 @@ sie, [[sterben]], [[starben]], [[sterben]], [[stürben]], [[sterben]]
 Adjektive: [[sterbend]], [[sterbender]], [[sterbendst]]
 
 ---
-[[sterbender]], [[sterbendes]], [[sterbende]], [[sterbenden]], [[sterbendem]], [[sterbenderer]], [[sterbenderes]], [[sterbendere]], [[sterbenderen]], [[sterbenderem]], [[sterbendster]], [[sterbendstes]], [[sterbendste]], [[sterbendsten]], [[sterbendstem]], [[existieren]]
+[[sterbender]], [[sterbendes]], [[sterbende]], [[sterbenden]], [[sterbendem]], [[sterbenderer]], [[sterbenderes]], [[sterbendere]], [[sterbenderen]], [[sterbenderem]], [[sterbendster]], [[sterbendstes]], [[sterbendste]], [[sterbendsten]], [[sterbendstem]], [[existieren]], [[umkommen]]

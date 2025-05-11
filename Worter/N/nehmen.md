@@ -3,6 +3,9 @@
 ---
 Ich [[nehme]] statt der Suppe einen Salat
 
+*[[C1-Lesen-T1-102-Text#^6|^]]* Aber sicher ist: Sie [[vermehrt]] sich schneller als andere Spezies, frisst mehr und setzt sich [[notfalls]] zum Fressen in die [[pralle]] Sonne, ohne [[Schaden]] zu (3) [[nehmen]] . ^6
+
+
 Wir [[nehmen]] dazu vor allem [[einfach]] strukturierte Verben wie _spielen_, aber auch komplex strukturierte Verben wie [[begehen]]. 
 
 *Die Peitsche hat er mitgebracht*  

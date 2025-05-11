@@ -38,4 +38,4 @@ Morpheme: [[scheide]][[n]]
 
 Partizip I: [[scheidend]], Partizip II: [[geschieden]]
 
-[[scheiden]] - [[scheide]] = [[n]][[vermischen]], [[heiraten]], [[trauen]], [[entscheiden]], [[antrauen]], [[mischen]], [[verscheiden]], [[verheiraten]], [[abscheiden]], [[Ehescheidung]], [[Scheidung]], [[Scheidungsprozess]], [[paaren]]
+[[scheiden]] - [[scheide]] = [[n]][[vermischen]], [[heiraten]], [[trauen]], [[entscheiden]], [[antrauen]], [[mischen]], [[verscheiden]], [[verheiraten]], [[abscheiden]], [[Ehescheidung]], [[Scheidung]], [[Scheidungsprozess]], [[paaren]], [[Vermengen]]

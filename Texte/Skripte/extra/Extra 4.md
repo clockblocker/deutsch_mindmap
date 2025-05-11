@@ -122,7 +122,7 @@ SASCHA: Was soll ich zu Stefan sagen? Ich habe nichts zu sagen.
 NIC: Ich habe eine Idee... Wir können alle hier zu Hause essen!  
 ANNA: Ja! Wir können zusammen mit Stefan sprechen … über deinen neuen Job …  
 SASCHA: Hier? Nein, [[Das geht nicht]]!  
-NIC: Ich kann [[Konjunktion/für]] euch kochen …  
+NIC: Ich kann [[für]] euch kochen …  
 SASCHA: Nein! Das geht nicht!  
 NIC: Komm schon, Sascha.  
 ANNA: Bitte, Sascha!  
@@ -156,7 +156,7 @@ NIC: Sams Café ist jetzt [[geschlossen]] …
 SAM/ANNA: Awwwwww.  
 VOICE: Ein Paket für Sascha Meier und Anna Schmidt.  
 ANNA: Schon. Ohh! Danke! … Sascha … schau ‘mal!  
-SASCHA: … [[Konjunktion/für]] die liebe Anna … von S.  
+SASCHA: … [[für]] die liebe Anna … von S.  
 … Für die [[hübsche]] Sascha …von S … [[wer]] ist S?  
 SASCHA: Das muss Stefan sein ...  
 ANNA: Oh, was ist es?  

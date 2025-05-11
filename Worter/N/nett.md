@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 🤗 [[nett]], [nɛt]
 nicht [[unhöflich]], nicht [[unfreundlich]]
 
@@ -35,4 +37,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[nett]], [[netter]], [[nette]], [[nettes]], [[netten]], [[nettem]], [[netter]], [[netten]]
-[[nettester]], [[nettester]], [[netteste]], [[nettstes]], [[nettesten]], [[nettstem]], [[nettester]], [[nettesten]], [[Extra 8]], [[bös]], [[böse]], [[garstig]], [[fies]]
+[[nettester]], [[nettester]], [[netteste]], [[nettstes]], [[nettesten]], [[nettstem]], [[nettester]], [[nettesten]], [[Extra 8]], [[bös]], [[böse]], [[garstig]], [[fies]], [[angenehm]]

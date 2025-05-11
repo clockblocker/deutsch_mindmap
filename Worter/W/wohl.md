@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 [[wohl]], [[wohler]], [[am]] [[wohlsten]]
 
 nicht [[unwohl]]
@@ -31,4 +33,4 @@ Morpheme:
 
 ---
 #Adverb, [[11 08]], [[obwohl]], [[echt]], [[wohlfühlen]], [[wohlgeformt]], [[s1 e1]], [[Texte/Misc/Anki]]
-, [[gut]], [[Wohlstand]], [[wohltätig]], [[Wohltätigkeit]], [[Abtönungspartikeln]], [[sowohl]], [[Wohlbefinden]], [[Arbeitsumfeld]]
+, [[gut]], [[Wohlstand]], [[wohltätig]], [[Wohltätigkeit]], [[Abtönungspartikeln]], [[sowohl]], [[Wohlbefinden]], [[Arbeitsumfeld]], [[angenehm]]

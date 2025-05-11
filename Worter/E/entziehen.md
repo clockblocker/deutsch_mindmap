@@ -1,2 +1,1 @@
-, [[stillen]], [[ausnehmen]], [[entfernen]]
-, [[verschaffen]], [[vermarkten]], [[widmen]], [[verweigern]], [[vorenthalten]], [[bereitstellen]]
+ --> [[Ingredient-Add-Remove]] <--

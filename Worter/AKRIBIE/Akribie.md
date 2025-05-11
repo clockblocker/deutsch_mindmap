@@ -1,1 +1,1 @@
-, [[Präzision]]
+, [[Präzision]], [[akribisch]]

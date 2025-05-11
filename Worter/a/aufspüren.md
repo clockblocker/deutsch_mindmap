@@ -1,7 +1,11 @@
 🔎 [[aufspüren]], [ˈaʊ̯fsˌʃpyːʁən](https://youglish.com/pronounce/aufspüren/german) → [[spürte auf]] → haben [[aufgespürt]]
 
 ---
-*[[C1-Lesen-T1-001-Text#^5|^]]* Es hat sie zu [[medizinischen]] [[Supernasen]] [[gemacht]], die mit einer [[Präzision]] von 92 Prozent aus über 5000 Proben _1_ [[aufspürten]], die mit Corona-Viren [[infiziert]] waren. ^5
+*[[C1-Lesen-T1-001-Text#^25|^]]* Es hat sie zu medizinischen Supernasen gemacht, die mit einer Präzision von 92 Prozent aus über 5000 Proben von denen [[aufspürten]], die mit Corona-Viren infiziert waren. ^25
+
+
+*[[C1-Lesen-T1-001-Text#^37|^]]* Das Team um Volk (8) [[verlässt]] zwar auf Hundenasen, weil die ihre [[Eignung]] zum [[Aufspüren]] von Krankheiten aller Art [[bewiesen]] hätten. ^37
+
 
 
 ---

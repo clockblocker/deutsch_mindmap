@@ -4,6 +4,8 @@
  Die beiden Polizisten finden das sehr [[verdächtig]]. 
  „Wie kann es sein, dass keiner etwas von dem Geldkoffer weiß? Wieso [[verrät]] keiner, wer den Koffer gestohlen hat?“, fragt der Polizist. 
 
+Das [[verraten]] die [[Gene]] des [[Pompejaners]]  
+
 [[0 checklist#^7|(q)]] Unsere sieben Tipps für die Wohnungssuche [[verraten]] dir, worauf Vermieter [[Wert]] legen und wie die ideale [[Wohnungsbewerbung]] aussieht. ^7
 
  
@@ -34,4 +36,4 @@ Zu+infinitive: [[zu verraten]]
 [[verraten]] - [[ver]] = [[raten]], to betray, to reveal, to disclose
 
 ---
-[[Verrat]], [[Verräter]], [[Verräterin]], [[verräterisch]], [[verrätisch]], [[gestehen]], [[Verheimlichen]], [[treulos]]
+[[Verrat]], [[Verräter]], [[Verräterin]], [[verräterisch]], [[verrätisch]], [[gestehen]], [[Verheimlichen]], [[treulos]], [[gen]]

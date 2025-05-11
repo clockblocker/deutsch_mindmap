@@ -1,1 +1,2 @@
-, [[bequem]], [[garstig]], [[hübsch]], [[fies]]
+---> [[Grad-gut]] <--
+

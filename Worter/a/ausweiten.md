@@ -1,1 +1,2 @@
-, [[verkürzen]], [[begrenzen]], [[einschränken]]
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+, [[vermehren]]

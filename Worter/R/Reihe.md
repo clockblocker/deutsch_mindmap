@@ -32,4 +32,4 @@ D: der [[Reihe]], den [[Reihen]]
 , [[Unmenge]], [[Vielzahl]]
 
 
-#Feminin 
+#Feminin , [[Zeichenfolge]]

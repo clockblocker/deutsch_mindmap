@@ -47,3 +47,4 @@ D: dem [[Kohlekraftwerk]], den [[Kohlekraftwerken]]
 
 [[Saft]]
 
+, [[Kraft]]

@@ -4,6 +4,9 @@
 ---
 Mein Gott! Wie schwach bin ich! Ich soll unbedingt zum Arzt. Er [[untersucht]] mich und gibt mir Tabletten. 
 
+*[[C1-Lesen-T1-101-Text#^10|^]]* Das Forscherteam [[beschränkte]] sich nicht auf genetische Analysen, sondern [[untersuchte]] auch anatomische [[Eigenschaften]] des Pompejaners. ^10
+
+
 3. Der Arzt [[untersucht]] mich (ich).  
 
 Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]

@@ -1,3 +1,4 @@
+ --> [[Ingredient-Add-Remove]] <--
 ---> ✅ [[Ingredient-erlauben-verbieten]] <---
 ---> [[Management-Coordination-Allocation]] <---
 

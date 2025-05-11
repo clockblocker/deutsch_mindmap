@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🔵 der [[Gewinn]]
 die [[Gewinne]]
 
@@ -30,4 +33,4 @@ Dative: dem [[Gewinn]], den [[Gewinnen]]
 
 
 
-#Maskulin 
+#Maskulin , [[Wetteinsatz]], [[Einsatz]], [[Erlös]]

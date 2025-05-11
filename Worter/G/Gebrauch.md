@@ -24,3 +24,5 @@ D: dem [[Gebrauch]], den [[Gebräuchen]]
 
 ---
 [[gebrauchen]], [[gebraucht]], [[Gebrauchsanleitung]], [[Gebrauchsgegenstand]], [[Gebrauchsmuster]], [[hingehen]], [[Handhabung]]
+
+#Maskulin 

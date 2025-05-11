@@ -36,4 +36,4 @@ N: [[deutliches]], [[deutlicheres]], [[deutlichstes]]
 P: [[deutlichen]], [[deutlicheren]], [[deutlichsten]]  
 
 ---
-[[Deutlichkeit]], [[verdeutlichen]], [[Bedeutung]], [[deuten]], [[undeutlich]], [[geheimnisvolle]], [[Texte/Misc/Anki]], [[laut]], [[leise]], [[bemerkbar]], [[ausdrücklich]]
+[[Deutlichkeit]], [[verdeutlichen]], [[Bedeutung]], [[deuten]], [[undeutlich]], [[geheimnisvolle]], [[Texte/Misc/Anki]], [[laut]], [[leise]], [[bemerkbar]], [[ausdrücklich]], [[hindeuten]]

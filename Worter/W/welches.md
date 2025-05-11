@@ -5,4 +5,4 @@ Nein, Ich habe keins.
 Ya, Ich habe [[welches]].
 
 [[Worter/P/Pronomen/Pronomen]]
-#Relativpronomen #pronomen , [[dessen]]
+#Relativpronomen #pronomen , [[dessen]], [[Grammatik-Pronomen-Relativ-Selbständige]]

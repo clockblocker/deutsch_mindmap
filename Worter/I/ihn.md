@@ -1,1 +1,1 @@
-ihn, [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]]
+ihn, [[Wortlisten/Pronomen]], [[Texte/Untitled]], [[Pronomen]], [[Grammatik-Pronomen-Personal]]

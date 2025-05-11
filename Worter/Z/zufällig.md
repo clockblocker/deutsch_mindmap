@@ -35,4 +35,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[zufällig]], [[zufälliger]], [[zufällige]], [[zufälliges]], [[zufälligen]], [[zufälligem]], [[zufälliger]], [[zufälligen]]
 [[zufälligste]], [[zufälligster]], [[zufälligste]], [[zufälligstes]], [[zufälligsten]], [[zufälligstem]], [[zufälligster]], [[zufälligsten]], [[s1 e1]], [[Umweltprojekt]], [[Umwelt]], [[mitmachen]], [[regelmäßig]], [[Je mehr]], [[antun]], [[somit]], [[ungläubig]], [[Begegnung]], [[willkürlich]]
-, [[versehentlich]], [[Konstruktionsbedingt]], [[strukturell]], [[zufolge]]
+, [[versehentlich]], [[Konstruktionsbedingt]], [[strukturell]], [[zufolge]], [[ausgerechnet]]

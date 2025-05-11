@@ -1,1 +1,1 @@
-[[freimachen]], [[befreien]]
+[[freimachen]], [[befreien]], [[Erlös]]

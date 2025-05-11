@@ -4,6 +4,9 @@ nicht [[gleich]], nicht [[einheitlich]]
 ---
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
+*[[C1-Lesen-T1-100-Text#^6|^]]* Die [[verschiedenen]] [[Sprechweisen]] der Jugendlichen lassen sich deshalb linguistisch gesehen nicht als Sprache(n) [[bezeichnen]] , weil unter Sprache ein [[Zeichenefüge]] mit eigener Grammatik, differenziertem Wortschatz und normativer [[Gültigkeit]] verstanden wird. ^6
+
+
 *[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
 
 
@@ -43,4 +46,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[verschiedene]], [[verschiedener]], [[verschiedenes]], [[verschiedenen]], [[verschiedenem]]
 [[verschiedenere]], [[verschiedenerer]], [[verschiedeneres]], [[verschiedeneren]], [[verschiedenerem]]
-[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]], [[verschieden]], [[mehrere]], [[Texte/Misc/Anki]], [[am besten]], [[zahlreich]]
+[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]], [[verschieden]], [[mehrere]], [[Texte/Misc/Anki]], [[am besten]], [[zahlreich]], [[jenig]]

@@ -37,4 +37,4 @@ Weitere Bedeutungen:
 2. Merkmal oder Anzeichen
 3. Mathematisches oder linguistisches Symbol, [[s1 e1]], [[zeichnen]]
 , [[Char]]
-, [[Leerzeichen]], [[Fußabdruck]], [[Satzzeichen]], [[Punkt]], [[Doppelpunkt]]
+, [[Leerzeichen]], [[Fußabdruck]], [[Satzzeichen]], [[Punkt]], [[Doppelpunkt]], [[Zeichenfolge]]

@@ -1,1 +1,1 @@
-, [[Fehlgriff]]
+, [[Fehlgriff]], [[Trefferquote]]

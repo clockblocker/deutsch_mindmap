@@ -1,1 +1,1 @@
-🟢 der [[Gedanke]], [ɡəˈdaŋkən]
+🟢 der [[Gedanke]], [ɡəˈdaŋkən], [[Gedächtnis]]

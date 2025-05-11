@@ -26,4 +26,4 @@ polite, courteous
 Adjektive: [[höflich]], [[höflicher]], [[höflichst]]
 
 ---
-[[höflicher]], [[höfliches]], [[höfliche]], [[höflichen]], [[höflichem]], [[höflicherer]], [[höflicheres]], [[höflichere]], [[höflicheren]], [[höflicherem]], [[höflichster]], [[höflichstes]], [[höflichste]], [[höflichsten]], [[höflichstem]]
+[[höflicher]], [[höfliches]], [[höfliche]], [[höflichen]], [[höflichem]], [[höflicherer]], [[höflicheres]], [[höflichere]], [[höflicheren]], [[höflicherem]], [[höflichster]], [[höflichstes]], [[höflichste]], [[höflichsten]], [[höflichstem]], [[derb]]

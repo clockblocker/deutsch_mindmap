@@ -1,1 +1,1 @@
-, [[wundern]]
+, [[wundern]], [[Wunde]]

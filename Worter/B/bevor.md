@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Subordinating-Temporale|Temporale Subordinating Konjunktor]]
+
+---
+
 ⏰ [[bevor]], [bəˈfɔɐ̯]
 
 ---
@@ -12,5 +16,6 @@ Antonyme: [[nachdem]], [[danach]]
 
 ---
 #Konjunktion #Subordinierend
+
 , [[s1 e1]]
 , [[als]], [[Konjunktoren]], [[bevorstehen]], [[Sobald]]

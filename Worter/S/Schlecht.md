@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 😞 [[schlecht]], [ʃlɛçt]
 nicht [[gut]]
 

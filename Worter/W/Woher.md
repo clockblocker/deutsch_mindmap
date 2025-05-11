@@ -25,4 +25,4 @@ Tags:
 
 Morphems:
 [[Wo]][[her]]
-, [[Woraus]]
+, [[Woraus]], [[Grammatik-Pronomen-Interrogative]]

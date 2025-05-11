@@ -6,6 +6,9 @@
 *[[TD#^2|^]]* **WARNUNG:** Dieser Modus ist [[äußerst]] schwierig und [[dient]] dem [[Messen]] gegen starke [[Gegnerhorden]]. ^2
 
 
+*[[C1-Lesen-T1-100-Text#^13|^]]* (7) [[Hierbei]] ist die [[äußerst]] produktive [[Vorsilbe]] sau- [[bemerkenswert]], sie wird auch heute gerne noch zur [[Bedeutungsverstärkung]] des Grundwortes benutzt, z. B. in saukomisch (sehr komisch) oder saublöd (äußerst blöd). ^13
+
+
 ---
 = [[sehr]], [[extrem]], [[ungemein]]
 ≈ [[besonders]], [[ausgesprochen]], [[äußerlich]]

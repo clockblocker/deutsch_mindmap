@@ -1,4 +1,4 @@
-###### [[DURCHLAUF]] BEENDEN
+###### [[Durchlauf]] BEENDEN
 **Herzlichen Glückwunsch!**  
 *[[TD#^1|^]]* Du hast alle regulären [[Wellen]] [[gemeistert]] und damit das Spiel abgeschlossen.  
 Beende den [[Durchlauf]] und öffne die Spielstatistik. ^1

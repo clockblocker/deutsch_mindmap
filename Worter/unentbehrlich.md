@@ -26,4 +26,4 @@ N: [[unentbehrliches]], [[unentbehrlicheres]], [[unentbehrlichstes]]
 P: [[unentbehrlichen]], [[unentbehrlicheren]], [[unentbehrlichsten]]  
 
 ---
-[[entbehren]], [[Unentbehrlichkeit]], [[Notwendigkeit]], [[Erfordernis]]
+[[entbehren]], [[Unentbehrlichkeit]], [[Notwendigkeit]], [[Erfordernis]], [[lebenswichtig]]

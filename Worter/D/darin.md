@@ -1,3 +1,5 @@
+[[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien|Demonstrativ-Pronominaladverb]]
+
 ➡️ [[darin]], [daˈʁɪn](https://youglish.com/pronounce/darin/german)
 
 ---
@@ -20,3 +22,4 @@ in it, therein
 [[dar]]|[[in]]
 [[darin]]
 
+, [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]

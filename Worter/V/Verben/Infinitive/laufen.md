@@ -66,4 +66,4 @@ to run, to walk
 ---
 
 **Morphems of only infinitive:**  
-- [[Lauf]][[en]]
+- [[Lauf]][[en]], [[Verlauf]]

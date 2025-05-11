@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 👍 [[gut]], [ɡuːt] ≠ [[schlecht]]
 
 ---
@@ -29,4 +31,4 @@ P: [[guten]], [[besseren]], [[besten]]
  [[am besten]], 
 , [[Saatgutsammler]]
 
-, [[Wiedergutmachung]]
+, [[Wiedergutmachung]], [[Erbgut]]

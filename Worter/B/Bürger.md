@@ -1,1 +1,1 @@
-, [[Einwohner]], [[Abgeordnete]], [[Staatsangehörige]], [[Staatsoberhaupt]], [[Steuerzahler]], [[Stadtoberhaupt]], [[Innensenator]], [[Bürgerversammlung]], [[Flüchtling]], [[Verbrecher]], [[Bürgerei]], [[Bundestagsabgeordnete]], [[Monarch]]
+, [[Einwohner]], [[Abgeordnete]], [[Staatsangehörige]], [[Staatsoberhaupt]], [[Steuerzahler]], [[Stadtoberhaupt]], [[Innensenator]], [[Bürgerversammlung]], [[Flüchtling]], [[Verbrecher]], [[Bürgerei]], [[Bundestagsabgeordnete]], [[Monarch]], [[Spießbürgertum]]

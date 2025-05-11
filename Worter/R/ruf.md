@@ -32,4 +32,4 @@ D: dem [[Ruf]], den [[Rufen]]
 [[rufen]], [[rufbar]], [[anrufen]], [[Rufname]], [[Rufzeichen]], [[Aufrufen]]
 
 
-#Maskulin , [[hervorrufen]]
+#Maskulin , [[hervorrufen]], [[schaden]]

@@ -1,1 +1,1 @@
-, [[Museum]], [[Ansammlung]], [[Bezirksverordnetenversammlung]], [[Bildband]], [[Sammler]], [[Bestand]], [[einsammeln]]
+, [[Museum]], [[Ansammlung]], [[Bezirksverordnetenversammlung]], [[Bildband]], [[Sammler]], [[Bestand]], [[einsammeln]], [[Absammeln]]

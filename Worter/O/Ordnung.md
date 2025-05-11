@@ -22,4 +22,4 @@ Genitive: der [[Ordnung]], der [[Ordnungen]]
 Dative: der [[Ordnung]], den [[Ordnungen]]  
 
 ---
-[[ordnen]], [[ordentlich]], [[unordentlich]], [[Rechtsordnung]], [[Weltordnung]], [[Hausordnung]], [[Arbeiteraufstand]], [[Aufstand]], [[Ordnungsamt]], [[Faustrecht]], [[Reihe]], [[Server]], [[Störung]]
+[[ordnen]], [[ordentlich]], [[unordentlich]], [[Rechtsordnung]], [[Weltordnung]], [[Hausordnung]], [[Arbeiteraufstand]], [[Aufstand]], [[Ordnungsamt]], [[Faustrecht]], [[Reihe]], [[Server]], [[Störung]], [[Ordnen]]

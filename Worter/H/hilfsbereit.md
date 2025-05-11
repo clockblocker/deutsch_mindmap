@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 🤝 [[hilfsbereit]], [ˈhɪlfsbəˌʁaɪ̯t](https://youglish.com/pronounce/hilfsbereit/german) ≠ [[unhilfsbereit]]
 
 ---

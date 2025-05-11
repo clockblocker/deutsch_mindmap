@@ -1,2 +1,2 @@
 ---> [[Management-Coordination-Allocation]] <---
-, [[vorbereiten]], [[bereiten]], [[abhalten]], [[Gewerkschaft]], [[verwalten]], [[ausrichten]], [[durchführen]], [[einberufen]]
+, [[vorbereiten]], [[bereiten]], [[abhalten]], [[Gewerkschaft]], [[verwalten]], [[ausrichten]], [[durchführen]], [[einberufen]], [[Ordnen]]

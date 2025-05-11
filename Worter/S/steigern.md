@@ -1,4 +1,4 @@
----> [[Ingredient-Verb-Wachstum-Steigerung]] <---
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 📈 [[steigern]], [ˈʃtaɪ̯ɡɐn](https://youglish.com/pronounce/steigern/german) → [[steigerte]] → haben/sein [[gesteigert]]
 
 ---
@@ -53,4 +53,4 @@ sie, [[steigern]], [[steigerten]], [[steigern]], [[steigerten]], [[steigern]]
 Adjektive: [[steigernd]], [[steigernder]], [[steigerndst]]
 
 ---
-[[steigernder]], [[steigerndes]], [[steigernde]], [[steigernden]], [[steigerndem]], [[steigernderer]], [[steigernderes]], [[steigerndere]], [[steigernderen]], [[steigernderem]], [[steigerndster]], [[steigerndstes]], [[steigerndste]], [[steigerndsten]], [[steigerndstem]], [[Erhöhung]]
+[[steigernder]], [[steigerndes]], [[steigernde]], [[steigernden]], [[steigerndem]], [[steigernderer]], [[steigernderes]], [[steigerndere]], [[steigernderen]], [[steigernderem]], [[steigerndster]], [[steigerndstes]], [[steigerndste]], [[steigerndsten]], [[steigerndstem]], [[Erhöhung]], [[vermehren]]

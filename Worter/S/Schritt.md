@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schrittes]], [[Schritt]], [[Schritte]], [[Schritten]]
 
 ---
-#Substantiv #Maskulin, [[Maßnahme]], [[einen Schritt voraus sein]], [[Fortschritt]], [[gang]], [[Arbeitsschritt]]
+#Substantiv #Maskulin, [[Maßnahme]], [[einen Schritt voraus sein]], [[Fortschritt]], [[gang]], [[Arbeitsschritt]], [[Einschreiten]]

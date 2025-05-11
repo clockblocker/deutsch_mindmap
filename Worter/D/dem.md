@@ -1,1 +1,1 @@
-[[zum]], [[demnächst]], [[nach dem]], [[hinterm]], [[Nachdem]], [[seitdem]], [[trotzdem]], [[zudem]], [[indem]]
+[[zum]], [[demnächst]], [[nach dem]], [[hinterm]], [[Nachdem]], [[seitdem]], [[trotzdem]], [[zudem]], [[indem]], [[der]], [[Grammatik-Pronomen-Relativ-Selbständige]], [[demnach]]

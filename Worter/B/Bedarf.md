@@ -29,4 +29,4 @@ G: des [[Bedarfs]], der [[Bedürfnisse]]
 D: dem [[Bedarf]], den [[Bedürfnissen]]
 
 
-#Maskulin , [[Renovierungsbedarf]], [[Bedarfsraum]]
+#Maskulin , [[Renovierungsbedarf]], [[Bedarfsraum]], [[Forschungsbedarf]]

@@ -1,4 +1,4 @@
 [[wer]]
 
 whose
-, [[Was für ein?]]
+, [[Was für ein?]], [[Grammatik-Pronomen-Interrogative]]

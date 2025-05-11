@@ -1,7 +1,9 @@
+[[Grammatik-Pronomen-Relativ]]
+
+die Frau, [[deren]] Auto gestohlen wurde
+
+
 [[welcher]]
 
-Die Frau, [[deren]] Vater krank ist, ist traurig.
-
-
 [[Worter/P/Pronomen/Pronomen]]
-#Relativpronomen #pronomen , [[vorderen]], [[Texte/Misc/Anki]]
+#Relativpronomen #pronomen , [[vorderen]], [[Texte/Misc/Anki]], [[der]], [[Grammatik-Pronomen-Relativ-Possessiv]]

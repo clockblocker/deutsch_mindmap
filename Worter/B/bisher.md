@@ -5,10 +5,10 @@
 ---
 [[Bisher]] gab es noch keinen Regen, aber bestimmt [[bald]].
 
+*[[C1-Lesen-T1-000-Text#^5|^]]* [[Bisher]] konzentrierten sich die Reinigungsmaßnahmen vor allem auf [[Küsten]] und die [[Wasseroberfläche]], [[während]] aber den Meeresboden zu säubern [[aufwendiger]] und für Taucher [[gefährlich]] ist. ^5
+
+
 *[[C1-Lesen-T1-000-Text#^15|^]]* [[Bisher]] [[läuft]] die Entwicklung aber trotz dieser erhöhten Schwierigkeiten erfolgreich: Wenn das System _9_ voll [[einsatzfähig]] ist, soll es [[Unterwasserabfälle]] mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich [[einsammeln]]. ^15
-
-
-*[[C1-Lesen-T1-000-Text#^5|^]]* [[Bisher]] konzentrierten sich die [[Reinigungsmaßnahmen]] vor allem auf [[Küsten]] und die [[Wasseroberfläche]], [3] den [[Meeresboden]] zu säubern ist [[aufwendiger]] und für [[Taucher]] [[gefährlich]]. ^5
 
 
 *[[02-C1-Schreiben-T2-M#^2|^]]* Ihr Teamleiter sollte Ihnen schon vor einer Woche eine [[Grobplanung]] für die Präsentation schicken, die Sie [[bisher]] - trotz [[wiederholter]] [[Nachfrage]] - noch nicht [[erhalten]] haben. ^2
@@ -40,4 +40,4 @@ Morpheme:
 [[bis]]+[[her]]
 
 ---
-#Adverb, [[geduld]], [[befürchten]], [[Regen]], [[einsatzfähig]]
+#Adverb, [[geduld]], [[befürchten]], [[Regen]], [[einsatzfähig]], [[aufwendig]]

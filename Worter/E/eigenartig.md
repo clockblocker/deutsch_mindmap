@@ -1,2 +1,2 @@
 , [[fremd]], [[seltsam]], [[merkwürdige]]
-, [[Eigenlob]]
+, [[Eigenlob]], [[skurril]], [[Eigenart]]

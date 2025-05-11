@@ -3,6 +3,9 @@
 ---
 Machen Sie einen Vorschlag, wie jeder [[Einzelne]] zum Klimaschutz [[beitragen]] kann.
 
+*[[C1-Lesen-T1-102-Text#^13|^]]* Generell darf man aber Folgendes nicht vergessen: Nacktschnecken sind quasi die Geier der Gärten und Wiesen: Sie beseitigen Kot und Kadaver, bringen die Kompostierung auf Trab und [[beitragen|tragen]] damit (8) `zur` Gesundheit des kleinen Ökosystems [[bei]]. ^13
+
+
 *[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
 
 

@@ -1,12 +1,32 @@
+[[Grammatik-Pronomen-Demonstrativ-Zusammengesetzt]]
 
- [[Worter/P/Pronomen/Pronomen]]
- #pronomen  #Demonstrativpronomen 
+---
+
+👯 [[derselbe]], [ˈdeːɐ̯ˌzɛlbə](https://youglish.com/pronounce/derselbe/german)
+
+---
 
 
+---
+= [[der gleiche]], [[identisch]]
+≈ [[eben]], [[selbig]]
+≠ [[ein anderer]], [[verschieden]]
+
+---
 the same
+тот же самый
+
+---
+[[selbst]], [[selber]], [[Selbst-]]
+
+---
+[[der]]|[[selb]]|[[e]]
+[[der]] + [[selbe]]
 
 
-[[Indefinitpronomen]], [[dieselbe]]
-, [[dieser]]
-, [[welcher]]
-, [[Was für ein?]]
+---
+N: der [[derselbe]], die [[dieselbe]], das [[dasselbe]], die [[denselben]]
+A: den [[denselben]], die [[dieselbe]], das [[dasselbe]], die [[denselben]]
+G: des [[desselben]], der [[derselben]], des [[desselben]], der [[derselben]]
+D: dem [[demselben]], der [[derselben]], dem [[demselben]], den [[denselben]]
+, [[jenig]]

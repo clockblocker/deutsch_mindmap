@@ -188,7 +188,7 @@
  [[Worter/ausführen, [[erfüllen|ausführen, [[erfüllen]]
  [[Worter/Ausführlich|Ausführlich]]
  [[Worter/ausgeprägter|ausgeprägter]]
- [[Worter/Ausgerechnet|Ausgerechnet]]
+ [[ausgerechnet|ausgerechnet]]
  [[Worter/ausgeruht|ausgeruht]]
  [[Worter/ausgesprochenes|ausgesprochenes]]
  [[Worter/AUSGEWOGENE/_Index_of_AUSGEWOGENE|_Index_of_AUSGEWOGENE]]

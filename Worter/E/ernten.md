@@ -1,1 +1,1 @@
-, [[pflückt]], [[pflücken]], [[Erntedankfest]], [[Ernte]], [[Erntemenge]], [[melken]]
+, [[pflückt]], [[pflücken]], [[Erntedankfest]], [[Ernte]], [[Erntemenge]], [[melken]], [[Absammeln]]

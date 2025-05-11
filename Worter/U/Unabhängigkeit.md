@@ -1,1 +1,1 @@
-, [[Bezug]], [[selbständig]], [[Freiheit]], [[Besatzungsmacht]], [[Verbindung]], [[Beziehung]], [[Bedingung]], [[Zusammenhang]], [[Einflussnahme]], [[Abhängigkeit]]
+, [[Bezug]], [[selbständig]], [[Freiheit]], [[Besatzungsmacht]], [[Verbindung]], [[Beziehung]], [[Bedingung]], [[Zusammenhang]], [[Einflussnahme]], [[Abhängigkeit]], [[Umwelteinfluss]]

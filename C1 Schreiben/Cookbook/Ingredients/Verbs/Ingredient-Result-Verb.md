@@ -48,6 +48,7 @@ like 🩹 [[beeinträchtigen]] *(to impair; partial damage, softer tone)*
 🎨 [[schaffen]] *(to create; artistic or general)*
 🏗️ [[errichten]] *(to erect; formal structures, buildings, institutions)*
 📑 [[erstellen]] *(to compile / create systematically; documents, plans)*
+🌱 [[hervorbringen]] *(to produce, to generate)*
 🏭 [[herstellen]] *(to produce; manufacturing tone)*
 🖌️ [[designen]] *(to design; structuring or styling)*  
 🏛️ [[etablieren]] *(to establish; making institutions, systems)*

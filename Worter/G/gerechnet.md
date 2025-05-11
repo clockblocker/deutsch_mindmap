@@ -1,1 +1,1 @@
-, [[rechnen]], [[zusammenschrumpfen]]
+, [[rechnen]], [[zusammenschrumpfen]], [[ausgerechnet]]

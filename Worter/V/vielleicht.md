@@ -11,4 +11,4 @@ Aber [[vielleicht]] war [[Jemand]] in unserem Haus?
 maybe, perhaps
 
 Tags:
-#Adverb[[allerdings]], [[wohl]], [[11 08]], [[bald]], [[unbedingt]], [[s1 e1]], [[jedenfalls]]
+#Adverb[[allerdings]], [[wohl]], [[11 08]], [[bald]], [[unbedingt]], [[s1 e1]], [[jedenfalls]], [[womöglich]]

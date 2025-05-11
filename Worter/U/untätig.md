@@ -1,1 +1,1 @@
-, [[tätig]], [[vollziehenden]], [[faul]], [[auslasten]]
+, [[tätig]], [[vollziehenden]], [[faul]], [[auslasten]], [[Untätigkeit]]

@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Coordinating-Satzadverbien]]
+
+---
+
 🔄 [[deshalb]], [deːsˈhalp]
 
 ---
@@ -36,4 +40,4 @@ Morpheme:
 
 , [[sterben]], [[bald]], [[Konnektoren]], [[dadurch]], [[somit]], [[hierfür]], [[Texte/Misc/Anki]]
 
-, [[1 Präpositionen Übungen]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]]
+, [[1 Präpositionen Übungen]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]], [[demnach]]

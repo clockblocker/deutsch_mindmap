@@ -1,1 +1,2 @@
-, [[schmerzend]], [[Schädliches]]
+---> [[Grad-gut]] <--
+

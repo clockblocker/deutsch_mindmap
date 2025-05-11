@@ -1,3 +1,5 @@
+[[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien|Demonstrativ-Pronominaladverb]]
+
 Ja, [[darüber]] wollen wir uns nicht ärgern.
 
 *[[1 lesen StadtTours#^7|^]]* Ob Historiker*innen, Geograf*innen, Journalist*innen, Schauspieler*innen oder Schriftsteller*innen: All diese Expertinnen und Experten bringen nicht nur Fachkompetenz, [[sondern]] [[darüber]] [[hinaus]] auch [[Erfahrung]] im [[Umgang]] mit Gruppen mit. ^7
@@ -32,4 +34,4 @@ Tags:
 ---
 
 Morphems:
-[[Da]][[rüber]], [[dabei]], [[11 08]], [[davon]], [[daran]], [[bald]], [[nächsthöher]], [[dahinter]], [[betreffen]], [[da]]
+[[Da]][[rüber]], [[dabei]], [[11 08]], [[davon]], [[daran]], [[bald]], [[nächsthöher]], [[dahinter]], [[betreffen]], [[da]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]

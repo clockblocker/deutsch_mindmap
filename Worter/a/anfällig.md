@@ -1,2 +1,2 @@
 
-, [[Wutanfall]], [[widerstandsfähig]]
+, [[Wutanfall]], [[widerstandsfähig]], [[Anfall]]

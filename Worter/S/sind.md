@@ -1,1 +1,1 @@
-, [[sein]], [[gelangen]], [[geraten]], [[sprießen]], [[landen]], [[antreten]], [[kollabieren]], [[stoßen]], [[sterben]], [[dringen]], [[einwandern]], [[direkt]], [[Ablauf]]
+, [[sein]], [[gelangen]], [[geraten]], [[sprießen]], [[landen]], [[antreten]], [[kollabieren]], [[stoßen]], [[sterben]], [[dringen]], [[einwandern]], [[direkt]], [[Ablauf]], [[Einschreiten]], [[umkommen]], [[fliehen]]

@@ -3,5 +3,7 @@
   "newFileFolderPath": "Worter",
   "attachmentFolderPath": "Anhänge",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "spellcheck": false
 }

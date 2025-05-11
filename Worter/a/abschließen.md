@@ -6,6 +6,9 @@ haben [[abgeschlossen]]
 ---
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
 
+*[[C1-Lesen-T1-001-Text#^38|^]]* Aber in der Studie heißt es auch, dass [[zusätzliche]] Labortests [[durchgeführt]] werden müssen, um eine bestimmte Krankheit [[abschließend]] zu diagnostizieren. ^38
+
+
 [[1 Wer bin ich und was mache ich hier?#^2|(q)]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]. ^2
 
 1951 begann er mit einem Studium an der Dresdner Kunstakade-5 mie und [[schloss]] es mit einem Wandgemälde als Diplomarbeit [[ab]].

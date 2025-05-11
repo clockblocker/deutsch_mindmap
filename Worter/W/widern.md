@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 🤢  [[widern]], [ˈviːdərn] | [[widerte]], haben [[gewidert]]
 
 ---

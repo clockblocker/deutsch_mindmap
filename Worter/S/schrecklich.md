@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 [[schrecklich]], [ˈʃʁɛklɪç]
 nicht [[gut]], [[angenehm 1]]
 
@@ -34,4 +36,4 @@ Plural: [[schrecklichen]], [[schrecklicheren]], [[schrecklichsten]]
 [[Schrecklichkeit]], [[schrecklichmachen]], [[schrecklichkeit]]
 
  [[einfachfantastisch]], [[furchtbar]], [[schlimm]]
-, [[toll]]
+, [[toll]], [[angenehm]]

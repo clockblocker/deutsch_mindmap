@@ -33,4 +33,4 @@ Zu+infinitive: [[zu begeistern]]
 
 ---
 [[Begeisterung]], [[Begeisterte]], [[Begeisterungssturm]], [[begeisternd]], [[begeisterungsfähig]], [[anregen]], [[erfreuen]], [[beeindrucken]]
-, [[amüsieren]], [[abschrecken]]
+, [[amüsieren]], [[abschrecken]], [[beleben]], [[locken]]

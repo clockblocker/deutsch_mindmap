@@ -1,4 +1,6 @@
-, [[Einsatzes]], [[Bewerb]]
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🔴 🏋️ die [[Bemühung]], [bəˈmyːʊ̯ŋ]
 die [[Bemühungen]]
 
@@ -6,10 +8,12 @@ die [[Bemühungen]]
 Aomine zu Kuro: Es sind [[nutzlose]] [[Bemühungen]]
 
 
+
 ---
 = [[Anstrengung]], [[Einsatz]], [[Mühe]]
-≈ [[bestreben]], [[Bestrebung]], [[Versuch]], [[Aufwand]]
+≈ [[bestreben]], [[Bestrebung]], [[Versuch]], [[Aufwand]], [[Einsatzes]], [[Bewerb]]
 ≠ [[Gleichgültigkeit]], [[Untätigkeit]], [[Passivität]]
+
 
 ---
 effort, endeavor, attempt

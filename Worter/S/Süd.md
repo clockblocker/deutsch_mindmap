@@ -1,1 +1,1 @@
-, [[Südpol]]
+, [[Südpol]], [[südöstlich]]

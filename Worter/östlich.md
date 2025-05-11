@@ -25,4 +25,4 @@ N: [[östliches]], [[östlicheres]], [[östlichstes]]
 P: [[östlichen]], [[östlicheren]], [[östlichsten]]  
 
 ---
-[[Osten]], [[östwärts]], [[Ostseite]], [[Orientierung]], [[Richtung]], [[Ostgrenze]]
+[[Osten]], [[östwärts]], [[Ostseite]], [[Orientierung]], [[Richtung]], [[Ostgrenze]], [[südöstlich]]

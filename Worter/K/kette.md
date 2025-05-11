@@ -18,4 +18,4 @@ Morphems:
 [[kette]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Zeichenfolge]]

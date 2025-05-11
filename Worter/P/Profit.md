@@ -1,1 +1,1 @@
-, [[Gewinn]], [[Vorteil]]
+, [[Gewinn]], [[Vorteil]], [[Ertrag]], [[Erlös]]

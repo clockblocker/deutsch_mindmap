@@ -1,3 +1,5 @@
+---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+
 🔧 [[vollziehen]], [fɔlˈtsiːən] | [[vollzog]], haben [[vollzogen]]
 
 ---
@@ -9,7 +11,7 @@
 ≠ [[unterlassen]], [[verhindern]], [[aufhalten]], [[ausüben]]
 
 ---
-to carry out, to perform, to execute
+*(to carry out, to perform, to execute)*
 
 ---
 [[voll]]|[[ziehen]]

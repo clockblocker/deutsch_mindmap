@@ -1,4 +1,4 @@
 [[Dativ pronomen]]
 
-[[Genetiv possessiv Pronomen]]
-, [[dessen]], [[Pronomen]]
+[[Grammatik-Attributiv-Possessiv-Pronomen-Genetiv]]
+, [[dessen]], [[Pronomen]], [[Grammatik-Pronomen-Personal]]

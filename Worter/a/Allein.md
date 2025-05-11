@@ -1,3 +1,6 @@
+[[Grammatik-Konjunktoren-Coordinating-Adversativ]]
+
+---
 [[Allein]]  
 [[alleiner]]  
 [[am]] [[alleinsten]]
@@ -45,4 +48,4 @@ Tags:
 Morphems of only infinitive:
 - [[Allein]]
 
-, [[alleinerziehend]], [[ausschließlich]], [[lediglich]], [[ungestört]], [[zusammen]], [[Konjunktoren]], [[studienbegleitend]]
+, [[alleinerziehend]], [[ausschließlich]], [[lediglich]], [[ungestört]], [[zusammen]], [[Konjunktoren]], [[studienbegleitend]], [[eigenständig]]

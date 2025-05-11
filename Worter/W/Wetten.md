@@ -1,2 +1,2 @@
 🔴 die [[wette]]
-, [[Wett]]
+, [[Wett]], [[Wetteinsatz]]

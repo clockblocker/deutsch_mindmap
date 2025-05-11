@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🔵 🧪 der [[Versuch]], [fɛɐ̯ˈzuːx]
 die [[Versuche]]
 

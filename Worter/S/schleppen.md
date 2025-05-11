@@ -46,4 +46,4 @@ sie, [[schleppen]], [[schleppten]], [[schleppen]], [[schleppten]], [[schleppen]]
 Adjektive: [[schleppend]], [[schleppender]], [[schleppendst]]
 
 ---
-[[schleppender]], [[schleppendes]], [[schleppende]], [[schleppenden]], [[schleppendem]], [[schleppenderer]], [[schleppenderes]], [[schleppendere]], [[schleppenderen]], [[schleppenderem]], [[schleppendster]], [[schleppendstes]], [[schleppendste]], [[schleppendsten]], [[schleppendstem]]
+[[schleppender]], [[schleppendes]], [[schleppende]], [[schleppenden]], [[schleppendem]], [[schleppenderer]], [[schleppenderes]], [[schleppendere]], [[schleppenderen]], [[schleppenderem]], [[schleppendster]], [[schleppendstes]], [[schleppendste]], [[schleppendsten]], [[schleppendstem]], [[einschleppen]]

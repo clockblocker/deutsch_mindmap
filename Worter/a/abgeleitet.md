@@ -1,1 +1,1 @@
-, [[ableiten]]
+, [[ableiten]], [[ursprünglich]]

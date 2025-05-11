@@ -1,1 +1,1 @@
-, [[begeistern]], [[begeistert]], [[Unmut]]
+, [[begeistern]], [[begeistert]], [[Unmut]], [[Gleichgültigkeit]]

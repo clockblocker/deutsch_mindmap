@@ -3,6 +3,9 @@
 ---
 Ich [[annehmen|nehme]] an, dass die guten Studenten die Prüfung bestehen.
 
+*[[C1-Lesen-T1-102-Text#^4|^]]* Anders als lange [[angenommen]], wurde sie [[demnach]] wohl nicht durch Obst- und Gemüseimporte nach dem Zweiten Weltkrieg von der Iberischen Halbinsel [[eingeschleppt]] – der Name führt also in die [[Irre]].  ^4
+
+
 *[[Golfstorm#^6|^]]* Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
 
 Da musste Laura nicht lange [[überlegen]]. „Ich möchte dein Angebot [[annehmen]]“, antwortete sie, „denn wenn ich warte, bis ich wieder genug Geld habe, muss auch ich ins Altersheim. Und wie sagt man so schön? Besser den [[Spatz]] in der Hand als die [[Taube]] auf dem [[Dach]].“
@@ -40,4 +43,4 @@ Zu+infinifive: [[anzunehmen]]
 
 [[übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]], [[glaub]], [[raten]], [[erhalten]], [[ablehnen]]
 , [[empfangen]], [[vermuten]], [[verstoßen]], [[verinnerlichen]], [[wiederschicken]], [[zweifelt]], [[zweifeln]]
-, [[bekommen]], [[einnehmen]], [[beeinflussen]], [[liefern]], [[verzichten]]
+, [[bekommen]], [[einnehmen]], [[beeinflussen]], [[liefern]], [[verzichten]], [[angenehm]]

@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 😓 [[schmerzend]], [ˈʃmɛrtsənt]
 nicht [[schmerzlos]]
 
@@ -25,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[schmerzend]], [[schmerzende]], [[schmerzendes]], [[schmerzenden]], [[schmerzendem]], [[schmerzender]], [[schmerzenden]]
 [[schmerzhafter]], [[schmerzhafte]], [[schmerzhaftes]], [[schmerzhaften]], [[schmerzhaftem]], [[schmerzhafter]], [[schmerzhaften]]
-[[schmerzhafteste]], [[schmerzhaftester]], [[schmerzhafteste]], [[schmerzhaftestes]], [[schmerzhaftesten]], [[schmerzhaftestem]], [[schmerzhaftester]], [[schmerzhaftesten]], [[verletzen]]
+[[schmerzhafteste]], [[schmerzhaftester]], [[schmerzhafteste]], [[schmerzhaftestes]], [[schmerzhaftesten]], [[schmerzhaftestem]], [[schmerzhaftester]], [[schmerzhaftesten]], [[verletzen]], [[angenehm]]

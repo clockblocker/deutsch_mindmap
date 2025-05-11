@@ -32,3 +32,4 @@ PI: [[ersetzend]], PII: [[ersetzt]], Zu+inf: [[zuersetzen]]
 
 ---
 [[Ersetzen]], [[Ersatz]], [[Ersatzteil]], [[ersetzbar]], [[unersetzlich]]
+, [[verdrängen]]

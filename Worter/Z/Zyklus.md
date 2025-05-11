@@ -1,1 +1,1 @@
-, [[Kreislauf]], [[Umwälzzirkulation]], [[DURCHLAUF]]
+, [[Kreislauf]], [[Umwälzzirkulation]], [[Durchlauf]]

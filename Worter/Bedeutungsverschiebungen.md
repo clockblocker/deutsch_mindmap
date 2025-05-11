@@ -1,0 +1,2 @@
+🔄 [[Bedeutungsverschiebung]]
+, [[verschieben]]

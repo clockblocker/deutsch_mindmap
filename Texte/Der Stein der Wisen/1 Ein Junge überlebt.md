@@ -43,9 +43,34 @@ Als Mr und Mrs Dursley an dem trüben und grauen Dienstag, an dem unsere Geschic
 
 Keiner von ihnen sah den riesigen Waldkauz am Fenster vorbeifliegen. 
 
-Um halb neun griff Mr Dursley nach der Aktentasche, gab seiner Frau einen Schmatz auf die Wange und versuchte es auch bei Dudley mit einem Abschiedskuss. Der ging jedoch daneben, weil Dudley gerade einen Wutanfall hatte und die Wände mit seinem Haferbrei bewarf. »Kleiner Schlingel«, gluckste Mr Dursley, während er nach draußen ging. Er setzte sich in den Wagen und fuhr rückwärts die Einfahrt zu Nummer 4 hinaus. 
+Um halb neun griff Mr Dursley nach der Aktentasche, gab seiner Frau einen Schmatz auf die Wange und versuchte es auch bei Dudley mit einem Abschiedskuss. Der ging jedoch daneben, weil Dudley gerade einen Wutanfall hatte und die Wände mit seinem Haferbrei bewarf. »Kleiner Schlingel«, gluckste Mr Dursley, während er nach draußen ging. Er setzte sich in den Wagen und fuhr rückwärts die Einfahrt mit Nummer 4 hinaus. 
 
-An der Straßenecke fiel ihm zum ersten Mal etwas Merkwürdiges auf – eine Katze, die eine Straßenkarte studierte. Einen Moment war Mr Dursley nicht klar, was er gesehen hatte – dann wandte er rasch den Kopf zurück, um noch einmal hinzuschauen. An der Einbiegung zum Ligusterweg stand eine getigerte Katze, aber eine Straßenkarte war nicht zu sehen. Woran er nur wieder gedacht hatte! Das musste eine Sinnestäuschung gewesen sein. Mr Dursley blinzelte und starrte die Katze an. Die Katze starrte zurück. Während Mr Dursley um die Ecke bog und die Straße entlangfuhr, beobachtete er die Katze im Rückspiegel. Jetzt las sie das Schild mit dem Namen Ligusterweg – nein, sie blickte auf das Schild. Katzen konnten weder Karten nochSchilder lesen. Mr Dursley gab sich einen kleinen Ruck und verjagte die Katze aus seinen Gedanken. Während er in Richtung Stadt fuhr, hatte er nur noch den großen Auftrag für Bohrmaschinen im Sinn, der heute hoffentlich eintreffen würde. 
+
+*[[1 Ein Junge überlebt#^1|^]]* An der Straßenecke fiel ihm zum ersten Mal etwas [[Merkwürdiges]] auf – eine Katze, die eine Straßenkarte studierte. ^1
+
+*[[1 Ein Junge überlebt#^2|^]]* Einen Moment war Mr Dursley nicht klar, was er gesehen hatte – dann wandte er rasch den Kopf zurück, um noch einmal hinzuschauen. ^2
+
+*[[1 Ein Junge überlebt#^3|^]]* An der Einbiegung zum Ligusterweg stand eine getigerte Katze, aber eine Straßenkarte war nicht zu sehen. ^3
+
+*[[1 Ein Junge überlebt#^4|^]]* Woran er nur wieder gedacht hatte! ^4
+
+*[[1 Ein Junge überlebt#^5|^]]* Das musste eine Sinnestäuschung gewesen sein. ^5
+
+*[[1 Ein Junge überlebt#^6|^]]* Mr Dursley blinzelte und starrte die Katze an. ^6
+
+*[[1 Ein Junge überlebt#^7|^]]* Die Katze starrte zurück. ^7
+
+*[[1 Ein Junge überlebt#^8|^]]* Während Mr Dursley um die Ecke bog und die Straße entlangfuhr, beobachtete er die Katze im Rückspiegel. ^8
+
+*[[1 Ein Junge überlebt#^9|^]]* Jetzt las sie das Schild mit dem Namen Ligusterweg – nein, sie blickte auf das Schild. ^9
+
+*[[1 Ein Junge überlebt#^10|^]]* Katzen konnten weder Karten nochSchilder lesen. ^10
+
+*[[1 Ein Junge überlebt#^11|^]]* Mr Dursley gab sich einen kleinen Ruck und verjagte die Katze aus seinen Gedanken. ^11
+
+*[[1 Ein Junge überlebt#^12|^]]* Während er in Richtung Stadt fuhr, hatte er nur noch den großen Auftrag für Bohrmaschinen im Sinn, der heute hoffentlich eintreffen würde. ^12
+
+
 
 Doch am Stadtrand wurden die Bohrmaschinen von etwas anderem aus seinen Gedanken verdrängt. Er saß im üblichen morgendlichen Stau fest und konnte nicht umhin zu bemerken, dass offenbar eine Menge seltsam gekleideter Menschen unterwegs waren. Menschen in langen und weiten Umhängen. Mr Dursley konnte Leute nicht ausstehen, die sich komisch anzogen – wie sich die jungen Leute HARRY POTTER und der Stein der Weisen Seite 4 von 4 herausputzten! Das musste wohl irgendeine dumme neue Mode sein. Er trommelte mit den Fingern auf das Lenkrad und sein Blick fiel auf eine Ansammlung dieser merkwürdigen Gestalten nicht weit von ihm. Ganz aufgeregt flüsterten sie miteinander. Erzürnt stellte Mr Dursley fest, dass einige von ihnen überhaupt nicht jung waren; nanu, dieser Mann dort musste älter sein als er und trug einen smaragdgrünen Umhang! Der hatte vielleicht Nerven! Doch dann fiel Mr Dursley plötzlich ein, dass dies wohl eine verrückte Verkleidung sein musste – die Leute sammelten offenbar für irgendetwas … ja, so musste es sein. Die Autoschlange bewegte sich, und ein paar Minuten später fuhr Mr Dursley auf den Parkplatz seiner Firma, die Gedanken wieder bei den Bohrern. 
 

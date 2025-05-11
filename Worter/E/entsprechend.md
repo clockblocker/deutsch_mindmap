@@ -34,4 +34,4 @@ P: [[entsprechenden]], [[entsprechenderen]], [[entsprechendsten]]
 
 ---
 [[entsprechen]], [[Worter/S/sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
-, [[jeweilig]], [[erwartungsgemäß]], [[zufolge]], [[Anstieg]]
+, [[jeweilig]], [[erwartungsgemäß]], [[zufolge]], [[Anstieg]], [[derartig]]

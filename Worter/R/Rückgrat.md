@@ -1,1 +1,1 @@
-, [[Schulter]]
+, [[Schulter]], [[Lendenwirbel]], [[Wirbelsäule]]

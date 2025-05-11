@@ -8,3 +8,5 @@ die [[Person]]
 
 Man, [[Menschen]], [[Leut]], [[s1 e1]]
 , [[Mensch]]
+
+#Plural , [[Grammatik-Pronomen-Relativ-Possessiv]]

@@ -1,2 +1,2 @@
 , [[jener]]
-, [[dieser]]
+, [[dieser]], [[derjenige]]

@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 🤢 [[geschmacklos]], [ɡəˈʃmakloːs] ≠ [[geschmackvoll]]
 
 ---

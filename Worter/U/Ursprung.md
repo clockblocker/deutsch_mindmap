@@ -1,1 +1,1 @@
-, [[Quelle]], [[Geburt]], [[Anfang]], [[Herkunft]]
+, [[Quelle]], [[Geburt]], [[Anfang]], [[Herkunft]], [[ursprünglich]]

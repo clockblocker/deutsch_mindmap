@@ -1,7 +1,14 @@
+[[Grammatik-Konjunktoren-Coordinating-Satzadverbien]]
+
+---
+
 [[deswegen]], [dɛsˈveːɡən]
 
 ---
 Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird. 
+
+*[[C1-Lesen-T1-001-Text#^28|^]]* (2) [[Deswegen]] erinnert sie sich [[zuverlässig]] an Gerüche – oft für sie [[lebenswichtig]], etwa bei der [[Futtersuche]]. ^28
+
 
 *[[08-C1-Schreiben-T2-M#^9|^]]* Die aktuellen [[Engpässe]] auf dem Firmenparkplatz und die [[Streitigkeiten]] [[deswegen]] zwischen Mitarbeitern, wer jetzt einen Parkplatz bekommt, sind nicht mehr [[tragbar]]. ^9
 

@@ -1,1 +1,1 @@
-, [[decken]], [[Decke]]
+, [[decken]], [[Decke]], [[bedecken]]

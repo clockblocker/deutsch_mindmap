@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Subordinating-Konsekutiv]]
+
+---
+
 ⚖️ [[sodass]], [zoˈdas]
 
 ---

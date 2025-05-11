@@ -1,3 +1,36 @@
+🧬 🟢 das [[Gen]], [ɡeːn](https://youglish.com/pronounce/Gen/german)
+die [[Gene]]
+
+---
+Das [[verraten]] die [[Gene]] des [[Pompejaners]]
+
+---
+= [[Erbanlage]], [[Erbgut]]
+≈ [[DNA]], [[Chromosom]]
+≠ [[Umwelt]]
+
+---
+gene  
+ген
+
+---
+[[genetisch]], [[Genetik]]
+
+---
+[[Gen]]
+
+
+---
+N: das [[Gen]], die [[Gene]]
+A: das [[Gen]], die [[Gene]]
+G: des [[Gens]], der [[Gene]]
+D: dem [[Gen]], den [[Genen]]
+
+#Neuter 
+
+---
+---
+---
 🔖 [[gen]]
 Präposition
 

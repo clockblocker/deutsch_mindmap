@@ -1,4 +1,7 @@
+---> [[Ingredinet-Action-Nomen]] <---
 ---> [[Ingredient-Bedürfnis]] <---
+
+---
 
 die [[Tätigkeit]], [ˈtɛːtɪçkaɪt]
 die [[Tätigkeiten]]

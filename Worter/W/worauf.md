@@ -1,1 +1,1 @@
-, [[woran]], [[wodurch]]
+, [[woran]], [[wodurch]], [[Grammatik-Pronomen-Interrogative]]

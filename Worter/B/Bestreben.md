@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 💪 [[bestreben]], [bəˈʃtʁeːbn̩] | [[bestrebte]], haben [[bestrebt]]
 
 ---

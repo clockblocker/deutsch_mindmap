@@ -1,3 +1,4 @@
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 [[verkürzen]] + Akk, [fɛɐ̯ˈkʏʁt͡sən]
 [[verkürzte]]
 haben [[verkürzt]]
@@ -33,4 +34,4 @@ Morpheme: [[ver]][[kürz]][[en]]
 Partizip I: [[verkürzend]], Partizip II: [[verkürzt]]
 
 [[verkürzen]] - [[ver]] = [[kürzen]]
-, [[Abkürzung]], [[ergänzen]], [[verringern]], [[Vervollständigen]]
+, [[Abkürzung]], [[ergänzen]], [[verringern]], [[Vervollständigen]], [[vergrößern]]

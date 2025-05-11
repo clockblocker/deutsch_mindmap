@@ -1,1 +1,1 @@
-, [[Montagsdemonstration]], [[Arbeiteraufstand]], [[Aufstand]]
+, [[Montagsdemonstration]], [[Arbeiteraufstand]], [[Aufstand]], [[Spießbürgertum]]

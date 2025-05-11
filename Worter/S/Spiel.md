@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🕹️ 🟢 das [[Spiel]], [ʃpiːl](https://youglish.com/pronounce/Spiel/german)
 
 ---
@@ -28,4 +31,4 @@ A: das [[Spiel]], die [[Spiele]]
 G: des [[Spieles]], der [[Spiele]]
 D: dem [[Spiel]], den [[Spielen]]
 
-#Neuter , [[Spielweise]]
+#Neuter , [[Spielweise]], [[Wetteinsatz]], [[Einsatz]]

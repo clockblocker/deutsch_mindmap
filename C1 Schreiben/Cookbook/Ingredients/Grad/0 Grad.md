@@ -6,6 +6,7 @@
 ---> 🧩 [[Grad-Ganzheit]] <---
 ---> 💸 [[Grad-Preis]] <---
 ---> ⚠️ [[Grad-Risiko]] <---
+Grad-gut
 
 
 

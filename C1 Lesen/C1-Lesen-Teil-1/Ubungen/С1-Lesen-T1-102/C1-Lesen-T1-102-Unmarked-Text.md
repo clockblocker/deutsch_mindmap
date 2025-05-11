@@ -95,4 +95,3 @@ Generell darf man aber Folgendes nicht vergessen: Nacktschnecken sind quasi die 
 
 Die Schnecke mag im Garten nerven, aber sie hat doch ihre Berechtigung wie jedes Lebewesen.
 
-Ready for me to do the Filmpsychologie text in this same layout next?

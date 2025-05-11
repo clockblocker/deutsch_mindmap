@@ -1,1 +1,1 @@
-, [[Verleumdung]]
+, [[Verleumdung]], [[Beschimpfung]]

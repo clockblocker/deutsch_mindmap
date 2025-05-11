@@ -4,6 +4,9 @@
 ---
 In einem Monat werden sie das Land [[verlassen]].
 
+*[[C1-Lesen-T1-001-Text#^37|^]]* Das Team um Volk (8) [[verlässt]] zwar auf Hundenasen, weil die ihre [[Eignung]] zum [[Aufspüren]] von Krankheiten aller Art [[bewiesen]] hätten. ^37
+
+
 - Erläutern Sie, warum Menschen ihr [[Herkunftsland]] [[verlassen]].
 
 [[17 zu inf#^2|(q)]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2

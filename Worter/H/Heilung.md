@@ -1,1 +1,1 @@
-, [[Behandlung]], [[Heiliger]], [[Vorbeugung]], [[Abstrich]]
+, [[Behandlung]], [[Heiliger]], [[Vorbeugung]], [[Abstrich]], [[heilen]]

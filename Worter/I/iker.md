@@ -1,1 +1,1 @@
-, [[Historikern]], [[Historiker]]
+, [[Historikern]], [[Historiker]], [[Epileptiker]]

@@ -41,4 +41,4 @@ Morpheme: [[handel]][[en]]
 Partizip I: [[handelnd]], Partizip II: [[gehandelt]]
 
 [[handeln]] - untrennbar, [[tun]], [[warten]], [[abwarten]], [[nachdenken]], [[überlegen]], [[wirken]], [[zögern]], [[Handlung]], [[verhalten]], [[Vorgehen]], [[begehen]]
-, [[verträumen]], [[vermarkten]]
+, [[verträumen]], [[vermarkten]], [[Einschreiten]]

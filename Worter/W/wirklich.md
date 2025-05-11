@@ -29,4 +29,4 @@ SAM: Ja [[wirklich]], Anna? Und warum?
 - [[wahrhaft]]
 - [[ernsthaft]]
 
-[[allerdings]], [[bald]], [[eigentlich]], [[angehen]], [[sogenannt]], [[scheinbar]], [[s1 e1]], [[Abtönungspartikeln]]
+[[allerdings]], [[bald]], [[eigentlich]], [[angehen]], [[sogenannt]], [[scheinbar]], [[s1 e1]], [[Abtönungspartikeln]], [[verwirklichen]]

@@ -1,3 +1,3 @@
 , [[dieselbe]]
 , [[dieser]]
-, [[welcher]]
+, [[welcher]], [[der]], [[Grammatik-Pronomen-Relativ-Selbständige]], [[diejenige]]

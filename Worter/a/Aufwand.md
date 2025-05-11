@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 💪 🔵 der [[Aufwand]], [ˈaʊ̯fvant](https://youglish.com/pronounce/Aufwand/german)
 die [[Aufwände]]
 
@@ -33,4 +36,4 @@ G: des [[Aufwandes]], der [[Aufwände]]
 D: dem [[Aufwand]], den [[Aufwänden]]
 
 
-#Maskulin 
+#Maskulin , [[aufwendig]]

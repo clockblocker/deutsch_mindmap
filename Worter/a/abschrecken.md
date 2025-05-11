@@ -43,4 +43,4 @@ sie, [[schrecken ab]], [[schreckten ab]], [[schrecken ab]], [[schreckten ab]], [
 Adjektive: [[abschreckend]], [[abschreckender]], [[abschreckendst]]
 
 ---
-[[abschreckender]], [[abschreckendes]], [[abschreckende]], [[abschreckenden]], [[abschreckendem]], [[abschreckenderer]], [[abschreckenderes]], [[abschreckendere]], [[abschreckenderen]], [[abschreckenderem]], [[abschreckendster]], [[abschreckendstes]], [[abschreckendste]], [[abschreckendsten]], [[abschreckendstem]]
+[[abschreckender]], [[abschreckendes]], [[abschreckende]], [[abschreckenden]], [[abschreckendem]], [[abschreckenderer]], [[abschreckenderes]], [[abschreckendere]], [[abschreckenderen]], [[abschreckenderem]], [[abschreckendster]], [[abschreckendstes]], [[abschreckendste]], [[abschreckendsten]], [[abschreckendstem]], [[locken]]

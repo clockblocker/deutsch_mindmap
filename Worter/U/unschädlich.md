@@ -1,2 +1,2 @@
 ---> ⚠️ [[Grad-Risiko]] <---
-, [[tödlich]], [[gefährlich]], [[Schädliches]]
+, [[tödlich]], [[gefährlich]], [[Schädliches]], [[schaden]]

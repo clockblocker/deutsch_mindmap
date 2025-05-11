@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🤝 🔴 die [[Beteiligung]], [bəˈteːlɪɡʊŋ]
 die [[Beteiligungen]]
 
@@ -25,4 +28,3 @@ N: die [[Beteiligung]], die [[Beteiligungen]]
 A: die [[Beteiligung]], die [[Beteiligungen]]  
 G: der [[Beteiligung]], der [[Beteiligungen]]  
 D: der [[Beteiligung]], den [[Beteiligungen]]
-, [[Interesse]], [[Anteil]]

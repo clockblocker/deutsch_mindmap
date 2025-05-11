@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Spur]], [[Spur]], [[Spur]], [[Spur]], [[Spur]], [[Spur]], [[Spur]], [[Spuren]]
 
 ---
-#Substantiv #Maskulin, [[Fußabdruck]], [[aufspüren]]
+#Substantiv #Maskulin, [[Fußabdruck]], [[aufspüren]], [[Überrest]]

@@ -1,2 +1,2 @@
 
-, [[Reisekosten]], [[Betriebskosten]], [[Lebenshaltungskosten]]
+, [[Reisekosten]], [[Betriebskosten]], [[Lebenshaltungskosten]], [[Erlös]]

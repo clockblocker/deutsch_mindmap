@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🟢 📋 die [[Maßnahme]], [ˈmaːsnaːmə]
 die [[Maßnahmen]]
 

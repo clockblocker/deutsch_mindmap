@@ -1,2 +1,2 @@
 , [[erhöhen]]
-, [[abziehen]], [[abschwächen]], [[beeinträchtigen]], [[abbauen]], [[verschlechtern]], [[verlangsamen]]
+, [[abziehen]], [[abschwächen]], [[beeinträchtigen]], [[abbauen]], [[verschlechtern]], [[verlangsamen]], [[verstärken]], [[vermehren]]

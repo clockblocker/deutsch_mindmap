@@ -1,1 +1,1 @@
-, [[Beleidigung]], [[Nachrede]], [[Verleumdung]]
+, [[Beleidigung]], [[Nachrede]], [[Verleumdung]], [[Beschimpfung]]

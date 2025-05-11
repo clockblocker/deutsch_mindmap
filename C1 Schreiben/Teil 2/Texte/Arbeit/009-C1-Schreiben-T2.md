@@ -27,11 +27,7 @@ Allerdings [[bietet]] sich nicht oft die [[Chance]], ein MBA-Studium an der Harv
 Seit zwei Jahren versuche ich darum, ein Studienvisum zu [[erhalten]] und einen Platz im Programm zu sichern. Das Studium findet jedoch vor Ort statt, und um daran teilzunehmen, benötige ich eine sechsmonatige Bildungsfreistellung. ^3
 
 
-Am Ende des Programms könnte ich nicht nur meinen aktuellen Aufgabenbereich erweitern, sondern auch neue Netzwerke einbringen
-
-contribute
-
- – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann. ^4
+Am Ende des Programms könnte ich nicht nur meinen aktuellen Aufgabenbereich erweitern, sondern auch neue Netzwerke einbringen – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann. ^4
 
 
 Wenn keine längere Freistellung momentan ermöglicht werden kann, schlage ich vor, mir dauerhaftes Homeoffice für sechs Monate zu erlauben. ^5
@@ -41,7 +37,5 @@ Ich freue mich auf ihre Rückmeldung und danke Ihnen im Voraus.
 
 Mit freundlichen Grüßen
 Denis Popov
-
-
 
 

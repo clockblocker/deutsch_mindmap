@@ -1,1 +1,1 @@
-, [[gereizt]], [[herausfordern]]
+, [[gereizt]], [[herausfordern]], [[locken]]

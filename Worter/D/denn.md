@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Coordinating-Kausal]]
+
+---
+
 [[Was tut denn weh?]]
 
 NIC: [[Wer bist du denn]]?
@@ -15,4 +19,4 @@ so then
 
 #empasis
 
-, [[riechen]], [[dennoch]], [[Konnektoren]], [[desto]], [[daß]], [[Abtönungspartikeln]], [[Konjunktoren]]
+, [[riechen]], [[dennoch]], [[Konnektoren]], [[desto]], [[daß]], [[Abtönungspartikeln]], [[Konjunktoren]], [[zumal]]

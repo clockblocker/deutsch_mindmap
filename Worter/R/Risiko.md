@@ -1,4 +1,7 @@
+---> [[Ingredinet-Action-Nomen]] <---
 ---> [[Ingredient-Risiko-Schutz-Nomen]] <---
+
+---
 
 das [[Risiko]], [ˈʁɪzɪko]
 die [[Risiken]]
@@ -32,4 +35,4 @@ D: dem [[Risiko]], den [[Risiken]]
 , [[Risiko]], [[eigentlich]], [[Schutz]], [[Geburtsvorbereitung]]
 , [[Versicherung]], [[Lebensversicherung]], [[Pfand]], [[Erfolgsfaktor]], [[Notfallschutz]], [[risikoreich]], [[aufs Spiel setzen]]
 
-#Neuter , [[Garantie]], [[Stolpergefahr]]
+#Neuter , [[Garantie]], [[Stolpergefahr]], [[Wetteinsatz]], [[Einsatz]]

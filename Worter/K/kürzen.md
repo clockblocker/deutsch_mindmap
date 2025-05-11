@@ -1,3 +1,5 @@
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+
 📏 [[kürzen]] + Akk, [ˈkʏʁtsn̩]
 [[kürzte]]
 haben [[gekürzt]]

@@ -13,4 +13,4 @@ Synonyme:
 **Übersetzung**: style
 
 ---
-#Substantiv #Maskulin, [[Lebensstil]], [[Interpunktion]], [[Textsorte]]
+#Substantiv #Maskulin, [[Lebensstil]], [[Interpunktion]], [[Textsorte]], [[Kleidungsstil]], [[Sprechweise]]

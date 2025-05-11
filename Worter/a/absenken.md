@@ -1,4 +1,4 @@
----> [[Ingredient-Verb-Wachstum-Steigerung]] <---
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 
 ⬇️ [[absenken]], [ˈapˌzɛŋkn̩](https://youglish.com/pronounce/absenken/german) → [[senkte ab]] → [[abgesenkt]]
 

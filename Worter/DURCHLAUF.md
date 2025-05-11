@@ -1,7 +1,7 @@
 🚶 🔵 der [[Durchlauf]], [ˈdʊʁçˌlaʊ̯f](https://youglish.com/pronounce/Durchlauf/german)
 
 ---
-###### [[DURCHLAUF]] BEENDEN
+###### [[Durchlauf]] BEENDEN
 
 
 ---

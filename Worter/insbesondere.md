@@ -21,4 +21,4 @@ in particular, especially
 [[in]]|[[sonder]]|[[e]]
 [[insbesondere]]
 
-, [[fürchten]], [[Konnektivpartikeln]]
+, [[fürchten]], [[Konnektivpartikeln]], [[zumal]]

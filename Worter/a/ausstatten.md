@@ -1,3 +1,5 @@
+ --> [[Ingredient-Add-Remove]] <--
+
 🛋️ [[ausstatten]], [ˈaʊ̯sˌʃtatn̩](https://youglish.com/pronounce/ausstatten/german) → [[stattete aus]] → haben [[ausgestattet]]
 
 ---

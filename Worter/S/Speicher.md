@@ -1,1 +1,1 @@
-, [[Lager]], [[Bedarfsraum]]
+, [[Lager]], [[Bedarfsraum]], [[Gedächtnis]]

@@ -41,4 +41,4 @@ PI: [[treffend]], PII: [[getroffen]], Zu+inf: [[zu treffen]]
 , [[Verabredung]]
 , [[kennenlernen]], [[messe]], [[stoßen]]
 
-#Feminin 
+#Feminin , [[Trefferquote]]

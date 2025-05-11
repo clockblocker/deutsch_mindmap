@@ -1,3 +1,5 @@
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+
 🧮 [[zusammenrechnen]] + Akk, [ˌtsʊˈzamənʁɛçnən]
 [[rechnete zusammen]]
 haben [[zusammengerechnet]]

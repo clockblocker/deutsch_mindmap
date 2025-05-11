@@ -1,3 +1,6 @@
+[[Grammatik-Konjunktoren-Subordinating-Konditional|Konditional Subordinating Konjunktoren]]
+
+---
 [[Nebensatz Conector]]
 [[ob]], [ˈɔp], 
 

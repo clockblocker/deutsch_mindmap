@@ -1,1 +1,2 @@
-[[schade]], [[jämmerlich]], [[schmerzend]], [[schrecklich]], [[erfreuen]]
+---> [[Grad-gut]] <--
+

@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Subordinating-Temporale|Temporale Subordinating Konjunktor]]
+
+---
+
 🔗 während, [ˈveːʀʌnt]
 
 ---
@@ -6,6 +10,8 @@
 Wenn Sie keine Möglichkeit haben, [[vorübergehend]] von zu Hause aus zu arbeiten, schlage ich vor, den Hund [[während]] der Arbeitszeit [[betreuen]] zu lassen. 
 
 ![[Sprechen-T1#^4|^]]
+
+*[[C1-Lesen-T1-000-Text#^5|^]]* [[Bisher]] konzentrierten sich die Reinigungsmaßnahmen vor allem auf [[Küsten]] und die [[Wasseroberfläche]], [[während]] aber den Meeresboden zu säubern [[aufwendiger]] und für Taucher [[gefährlich]] ist. ^5
 
 
 [[16 Plusquamperfekt#^26|(q)]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon [[während]] seines Lebens und auch nach seinem Tod hatte er großen [[Erfolg]]. ^26
@@ -47,4 +53,4 @@ Morpheme:
 
 ---
 #Präposition, [[s1 e1]], [[warten]], [[innerhalb]], [[Konjunktoren]], [[Konnektoren]], [[Währenddessen]], [[wobei]], [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]
-, [[als]], [[indem]], [[im Laufe]]
+, [[als]], [[indem]], [[im Laufe]], [[aufwendig]]

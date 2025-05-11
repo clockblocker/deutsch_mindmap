@@ -1,1 +1,1 @@
-, [[abdecken]], [[decken]]
+, [[abdecken]], [[decken]], [[bedecken]], [[abschiermen]]

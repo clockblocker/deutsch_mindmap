@@ -28,4 +28,4 @@ Dative: der [[Umwelt]], den [[Umwelten]]
 ---
 [[umweltfreundlich]], [[umweltbewusst]], [[Umweltschutz]], [[Umweltverschmutzung]], [[Umweltpolitik]], [[Luftverschmutzung]], [[Umweltbelastung]], [[Klimabedingung]]
 
-#Feminin , [[Arbeitsumgebung]], [[Grünsteuer]]
+#Feminin , [[Arbeitsumgebung]], [[Grünsteuer]], [[gen]], [[Erbgut]], [[Umwelteinfluss]]

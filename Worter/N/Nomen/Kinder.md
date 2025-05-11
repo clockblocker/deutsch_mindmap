@@ -16,4 +16,4 @@ Translation:
 ---
 
 #Substantiv #Neuter  
-, [[manchmal]], [[Kita]], [[Kindererziehung]], [[Nachwuchs]]
+, [[manchmal]], [[Kita]], [[Kindererziehung]], [[Nachwuchs]], [[Grammatik-Pronomen-Relativ-Selbständige]]

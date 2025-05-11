@@ -21,4 +21,4 @@ by what, through what, by means of which
 
 ---
 [[womit]], [[wodurch]], [[wofür]], [[woran]], [[wobei]], [[worauf]]
-[[Konnektivpartikeln]]
+[[Konnektivpartikeln]], [[Grammatik-Pronomen-Interrogative]]

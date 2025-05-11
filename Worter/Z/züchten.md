@@ -43,4 +43,4 @@ sie, [[züchten]], [[züchteten]], [[züchten]], [[züchteten]], [[züchten]]
 Adjektive: [[züchtend]], [[züchtender]], [[züchtendst]]
 
 ---
-[[züchtender]], [[züchtendes]], [[züchtende]], [[züchtenden]], [[züchtendem]], [[züchtenderer]], [[züchtenderes]], [[züchtendere]], [[züchtenderen]], [[züchtenderem]], [[züchtendster]], [[züchtendstes]], [[züchtendste]], [[züchtendsten]], [[züchtendstem]]
+[[züchtender]], [[züchtendes]], [[züchtende]], [[züchtenden]], [[züchtendem]], [[züchtenderer]], [[züchtenderes]], [[züchtendere]], [[züchtenderen]], [[züchtenderem]], [[züchtendster]], [[züchtendstes]], [[züchtendste]], [[züchtendsten]], [[züchtendstem]], [[wegzüchten]]

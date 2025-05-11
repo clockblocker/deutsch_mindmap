@@ -1,3 +1,7 @@
+[[Grammatik-Konjunktoren-Coordinating-Satzadverbien]]
+
+---
+
 ➡️ [[daher]], [daˈheːɐ̯](https://youglish.com/pronounce/daher/german)
 
 ---
@@ -29,4 +33,4 @@ therefore, hence
 
 , [[deshalb]]
 , [[Texte/Misc/Anki]]
-, [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]]
+, [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]], [[demnach]]

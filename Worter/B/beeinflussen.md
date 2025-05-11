@@ -56,4 +56,4 @@ sie, [[beeinflussen]], [[beeinflussten]], [[beeinflussen]], [[beeinflussten]], [
 Adjektive: [[beeinflussend]], [[beeinflussender]], [[beeinflussendst]]
 
 ---
-[[beeinflussender]], [[beeinflussendes]], [[beeinflussende]], [[beeinflussenden]], [[beeinflussendem]], [[beeinflussenderer]], [[beeinflussenderes]], [[beeinflussendere]], [[beeinflussenderen]], [[beeinflussenderem]], [[beeinflussendster]], [[beeinflussendstes]], [[beeinflussendste]], [[beeinflussendsten]], [[beeinflussendstem]]
+[[beeinflussender]], [[beeinflussendes]], [[beeinflussende]], [[beeinflussenden]], [[beeinflussendem]], [[beeinflussenderer]], [[beeinflussenderes]], [[beeinflussendere]], [[beeinflussenderen]], [[beeinflussenderem]], [[beeinflussendster]], [[beeinflussendstes]], [[beeinflussendste]], [[beeinflussendsten]], [[beeinflussendstem]], [[Umwelteinfluss]]

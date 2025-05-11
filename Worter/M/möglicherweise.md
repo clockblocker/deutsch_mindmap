@@ -18,4 +18,4 @@ possibly, perhaps
 
 ---
 [[Möglichkeit]], [[möglich]], [[mögen]]
-, [[höchstwahrscheinlich]]
+, [[höchstwahrscheinlich]], [[womöglich]]

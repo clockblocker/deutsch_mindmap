@@ -20,4 +20,4 @@ Morpheme:
 
 ---
 #Adverb
-```, [[Woraus]], [[wodurch]], [[s1 e1]], [[wobei]]
+```, [[Woraus]], [[wodurch]], [[s1 e1]], [[wobei]], [[Grammatik-Interrogativepronomen]]

@@ -1,3 +1,5 @@
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+
 🤸‍♀️[[strecken]] + Akk, [ˈʃtrɛkən]
 [[streckte]]
 haben [[gestreckt]]

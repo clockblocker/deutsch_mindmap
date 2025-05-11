@@ -1,7 +1,12 @@
+[[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien|Demonstrativ-Pronominaladverb]]
+
 ⚙️ [[dabei]], [daˈbaɪ̯]
 
 ---
 [[Dabei]] sieht er gut aus in seinem Arztkittel …  
+
+*[[C1-Lesen-T1-000-Text#^9|^]]* [[Dabei]] kann er mitunter auf starke Strömungen treffen, gegen die er sich durchsetzen muss. ^9
+
 
 *[[C1-Lesen-T1-000-Loesung#^11|^]]* „[[Dabei]]“ kann hier im Sinne von „bei dieser [[Gelegenheit]]“ oder „[[währenddessen]]“ [[verwendet]] werden und leitet eine mögliche Schwierigkeit ein, die [[auftreten]] kann, wenn sich der Roboter dem Müll [[nähert]]. ^11
 

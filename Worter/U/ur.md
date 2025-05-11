@@ -1,1 +1,1 @@
-, [[uralte]], [[Agentur]], [[Urkunde]], [[Urteile]], [[Urlaub]], [[Hauptursache]], [[Ursache]]
+, [[uralte]], [[Agentur]], [[Urkunde]], [[Urteile]], [[Urlaub]], [[Hauptursache]], [[Ursache]], [[ursprünglich]]

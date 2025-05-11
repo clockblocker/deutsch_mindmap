@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 😡 [[bös]], [bøːs]
 nicht [[gut]], [[freundlich]] 
 

@@ -28,4 +28,4 @@ A: die [[Wiedergutmachung]], die [[Wiedergutmachungen]]
 G: der [[Wiedergutmachung]], der [[Wiedergutmachungen]]
 D: der [[Wiedergutmachung]], den [[Wiedergutmachungen]]
 
-#Feminin 
+#Feminin , [[schaden]]

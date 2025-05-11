@@ -6,6 +6,9 @@
 ---
 Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
 
+*[[C1-Lesen-T1-001-Text#^38|^]]* Aber in der Studie heißt es auch, dass [[zusätzliche]] Labortests [[durchgeführt]] werden müssen, um eine bestimmte Krankheit [[abschließend]] zu diagnostizieren. ^38
+
+
 *[[100-C1-Schreiben-T2#^5|^]]* Wenn keine [[zusätzliche]] Steckdosen momentan [[eingebaut]] werden können, schlage ich vor, die Nutzung von Powerbanks bis zum Ende der Umbauarbeiten zu [[erlauben]]. ^5
 
 

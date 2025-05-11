@@ -1,0 +1,1 @@
+#Feminin , [[der]], [[derjenige]]

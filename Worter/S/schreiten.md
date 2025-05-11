@@ -1,2 +1,2 @@
 , [[gehen]], [[stolpern]], [[laufen]]
-, [[entlanggehen]]
+, [[entlanggehen]], [[Einschreiten]]

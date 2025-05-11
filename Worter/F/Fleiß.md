@@ -1,2 +1,5 @@
+---> [[Ingredinet-Action-Nomen]] <---
 
-, [[Anstrengung]], [[Schweinehund]]
+---
+
+, [[Anstrengung]], [[Schweinehund]], [[Untätigkeit]]

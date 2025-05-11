@@ -27,4 +27,4 @@ N: [[ähnliches]], [[ähnlicheres]], [[ähnlichstes]]
 P: [[ähnlichen]], [[ähnlicheren]], [[ähnlichsten]]  
 
 ---
-[[Ähnlichkeit]], [[ähneln]], [[unähnlich]], [[annähernd]], [[vergleichen]], [[ebenso]]
+[[Ähnlichkeit]], [[ähneln]], [[unähnlich]], [[annähernd]], [[vergleichen]], [[ebenso]], [[derartig]], [[gleichaltrig]]

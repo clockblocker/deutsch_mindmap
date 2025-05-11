@@ -1,7 +1,11 @@
 ➕ [[ausrechnen]], [ˈaʊ̯sˌʁɛçnən] | [[rechnete aus]], haben [[ausgerechnet]]
 
 ---
-[[Eine Extrawurst bekommen.md#^6|(q)]] [[Ausgerechnet]] zu Tante Gisela, die Kinder doch sowieso nicht [[leiden]] kann! Das [[Schlimmste]] aber ist: Tim muss nicht mitkommen. ^6
+[[Eine Extrawurst bekommen.md#^6|(q)]] [[ausgerechnet]] zu Tante Gisela, die Kinder doch sowieso nicht [[leiden]] kann! Das [[Schlimmste]] aber ist: Tim muss nicht mitkommen. ^6
+
+
+*[[C1-Lesen-T1-102-Text#^3|^]]* Sie zieht [[vielerorts]] ihre [[Schleimspur]] – jedoch [[ausgerechnet]] in Spanien nur (1) ___ [[vereinzelt]], wie Forschende in den vergangenen Jahren [[herausfanden]]. ^3
+
 
 ---
 = [[berechnen]], [[ermitteln]], [[kalkulieren]]

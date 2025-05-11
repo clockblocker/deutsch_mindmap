@@ -1,2 +1,2 @@
 
-, [[Rabatt]]
+, [[Rabatt]], [[Beet]]

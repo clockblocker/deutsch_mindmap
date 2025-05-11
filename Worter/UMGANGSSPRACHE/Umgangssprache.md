@@ -1,1 +1,1 @@
-, [[Behördensprache]], [[Amtssprache]]
+, [[Behördensprache]], [[Amtssprache]], [[Jugendsprache]]

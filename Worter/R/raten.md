@@ -35,4 +35,4 @@ Morpheme: [[rat]][[en]]
 
 Partizip I: [[ratend]], Partizip II: [[geraten]]
 [[raten]] - [[rat]] = [[en]], [[vorschlagen]], [[ablehnen]], [[beraten]], [[Rat]]
-, [[empfehlen]]
+, [[empfehlen]], [[abraten]]

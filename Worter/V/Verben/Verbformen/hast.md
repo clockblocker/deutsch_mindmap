@@ -1,1 +1,1 @@
-💼 [[Worter/H/haben]]  , [[verständigen]], [[verfassen]]
+💼 [[Worter/H/haben]]  , [[verständigen]], [[verfassen]], [[verwahren]]

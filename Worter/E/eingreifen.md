@@ -29,4 +29,4 @@ PI: [[eingreifend]], PII: [[eingegriffen]], Zu+inf: [[einzugreifen]]
 
 ---
 [[Eingriff]], [[Eingreifer]], [[Eingreifkraft]], [[eingreifend]], [[Eingriffsrecht]]
-, [[beherzt]]
+, [[beherzt]], [[Einschreiten]]

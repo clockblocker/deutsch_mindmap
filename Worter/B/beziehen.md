@@ -41,4 +41,4 @@ PI: [[beziehend]], PII: [[bezogen]], Zu+inf: [[zu beziehen]]
 
 , [[erhalten]], [[Bezug]], [[berufsbezogen]], [[bezogen]]
 , [[beziehungsweise]], [[Worter/Beziehung]], [[Beziehung]], [[anspielen]]
-, [[bekommen]], [[anmieten]]
+, [[bekommen]], [[anmieten]], [[einfließen]]

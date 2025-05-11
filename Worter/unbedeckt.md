@@ -15,4 +15,4 @@ uncovered, exposed, revealed
 [[un]]|[[be]]|[[deckt]]
 
 ---
-[[decken]], [[Bedeckung]], [[Deckel]], [[Aufdeckung]], [[unbedeckt]]
+[[decken]], [[Bedeckung]], [[Deckel]], [[Aufdeckung]], [[unbedeckt]], [[bedecken]]

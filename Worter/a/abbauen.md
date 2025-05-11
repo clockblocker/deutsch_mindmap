@@ -1,4 +1,4 @@
----> [[Ingredient-Verb-Wachstum-Steigerung]] <---
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 📉 [[abbauen]], [ˈapˌbaʊ̯ən](https://youglish.com/pronounce/abbauen/german) → [[baute ab]] → [[abgebaut]]
 
 ---
@@ -47,4 +47,4 @@ sie, [[bauen ab]], [[bauten ab]], [[bauen ab]], [[bauten ab]], [[bauen ab]]
 Adjektive: [[abbauend]], [[abbauender]], [[abbauendst]]
 
 ---
-[[abbauender]], [[abbauendes]], [[abbauende]], [[abbauenden]], [[abbauendem]], [[abbauenderer]], [[abbauenderes]], [[abbauendere]], [[abbauenderen]], [[abbauenderem]], [[abbauendster]], [[abbauendstes]], [[abbauendste]], [[abbauendsten]], [[abbauendstem]], [[Stressabbau]]
+[[abbauender]], [[abbauendes]], [[abbauende]], [[abbauenden]], [[abbauendem]], [[abbauenderer]], [[abbauenderes]], [[abbauendere]], [[abbauenderen]], [[abbauenderem]], [[abbauendster]], [[abbauendstes]], [[abbauendste]], [[abbauendsten]], [[abbauendstem]], [[Stressabbau]], [[anbringen]]

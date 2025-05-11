@@ -1,1 +1,1 @@
-, [[wieso]], [[Woraus]], [[weshalb]]
+, [[wieso]], [[Woraus]], [[weshalb]], [[Grammatik-Pronomen-Interrogative]]

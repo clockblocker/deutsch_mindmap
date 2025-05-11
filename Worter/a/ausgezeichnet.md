@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 💯 [[ausgezeichnet]], [ˈaʊ̯sɡəˌt͡saɪ̯çnət](https://youglish.com/pronounce/ausgezeichnet/german) ≠ [[schlecht]]
 
 ---

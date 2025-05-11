@@ -4,6 +4,9 @@ die [[Gebiete]]
 ---
 mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
 
+*[[C1-Lesen-T1-101-Text#^2|^]]* Dabei [[herausfinden|fanden]] sie heraus, dass der Mann [[womöglich]] von Sardinien [[stammte]] und seine [[Vorfahren]] über das [[Gebiet]] des heutigen Irans und über Anatolien nach Europa [[gelangt]] (1) [[waren]]. ^2
+
+
 *[[06-C1-Schreiben-T2-M#^2|^]]* Leider steht das Gebäude in einem industriellen [[Gebiet]]. ^2
 
 
@@ -47,4 +50,4 @@ D: dem [[Gebiet]], den [[Gebieten]]
 , [[Sektor]], [[Auflistung]], [[enthalten]], [[Geburtsort]], [[1 Präpositionen Übungen]], [[Hauptbereich]]
 
 
-#Neuter , [[Gelände]], [[Ort]]
+#Neuter , [[Gelände]], [[Ort]], [[Forschungsgebiet]]

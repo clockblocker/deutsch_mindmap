@@ -24,4 +24,4 @@ G: [[deiner]]
 D: [[dir]]  
 
 ---
-[[duzen]], [[Duzen]], [[Anrede]], [[Worter/P/Pronomen/Pronomen]], [[Du]], [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]]
+[[duzen]], [[Duzen]], [[Anrede]], [[Worter/P/Pronomen/Pronomen]], [[Du]], [[Worter/P/Pronomen/Pronomen]], [[Texte/Untitled]], [[Pronomen]], [[Grammatik-Pronomen-Personal]]

@@ -1,5 +1,6 @@
 ---> 🧱[[Grad-Gewicht]] <---
 
+
 📚 [[umfangreich]], [ˈʊmfaŋˌʁaɪ̯ç](https://youglish.com/pronounce/umfangreich/german) ≠ [[begrenzt]]
 
 ---
@@ -57,4 +58,4 @@ extensive, comprehensive
 Adjektive: [[umfangreich]], [[umfangreicher]], [[umfangreichst]]
 
 ---
-[[umfangreicher]], [[umfangreiches]], [[umfangreiche]], [[umfangreichen]], [[umfangreichem]], [[umfangreicherer]], [[umfangreicheres]], [[umfangreichere]], [[umfangreicheren]], [[umfangreicherem]], [[umfangreichster]], [[umfangreichstes]], [[umfangreichste]], [[umfangreichsten]], [[umfangreichstem]], [[inhaltlich]]
+[[umfangreicher]], [[umfangreiches]], [[umfangreiche]], [[umfangreichen]], [[umfangreichem]], [[umfangreicherer]], [[umfangreicheres]], [[umfangreichere]], [[umfangreicheren]], [[umfangreicherem]], [[umfangreichster]], [[umfangreichstes]], [[umfangreichste]], [[umfangreichsten]], [[umfangreichstem]], [[inhaltlich]], [[aufwendig]]

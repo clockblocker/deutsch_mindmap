@@ -1,2 +1,4 @@
+[[Grammatik-Pronomen-Demonstrativ-Einfach]]
+
 , [[jener]], [[Texte/Misc/Anki]]
-, [[dieser]]
+, [[dieser]], [[diejenige]], [[jenige]]

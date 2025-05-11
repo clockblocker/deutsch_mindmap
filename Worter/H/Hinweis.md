@@ -33,4 +33,4 @@ D: der [[Hinweis]], den [[hinweisen]]
 , [[Beweis]]
 , [[Richtungsangabe]], [[Vorschlag]]
 
-#Feminin , [[Lösungsvorschlag]], [[Rückmeldung]], [[Punkt]], [[Anregung]]
+#Feminin , [[Lösungsvorschlag]], [[Rückmeldung]], [[Punkt]], [[Anregung]], [[hindeuten]]

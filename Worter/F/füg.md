@@ -1,3 +1,3 @@
 , [[anfügen]], [[verfügen]], [[hinzufügen]]
 , [[einfügen]]
-, [[verfügbar]], [[Verfügung]], [[zufügen]]
+, [[verfügbar]], [[Verfügung]], [[zufügen]], [[Zeichenfolge]]

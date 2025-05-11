@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🟢 📋 das [[Training]], [ˈtʁeːnɪŋ]
 die [[Trainings]]
 

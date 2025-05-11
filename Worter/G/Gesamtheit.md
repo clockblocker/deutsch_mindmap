@@ -1,1 +1,1 @@
-, [[Sektor]], [[Drittel]], [[Allgemeine]], [[insgesamt]], [[Bestandteil]], [[Abschnitt]], [[Aspekt]], [[Bruchteil]], [[Rest]], [[Anteil]]
+, [[Sektor]], [[Drittel]], [[Allgemeine]], [[insgesamt]], [[Bestandteil]], [[Abschnitt]], [[Aspekt]], [[Bruchteil]], [[Rest]], [[Anteil]], [[Überrest]]

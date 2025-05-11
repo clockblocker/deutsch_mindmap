@@ -1,1 +1,1 @@
-, [[beschimpfen]], [[schmähen]]
+, [[beschimpfen]], [[schmähen]], [[Beschimpfung]]

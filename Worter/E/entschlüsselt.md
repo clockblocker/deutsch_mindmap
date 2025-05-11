@@ -1,1 +1,1 @@
-, [[gelöst]]
+🗝️ [[entschlüsseln]]

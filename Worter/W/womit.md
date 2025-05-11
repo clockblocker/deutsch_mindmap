@@ -1,1 +1,1 @@
-, [[Woraus]], [[woran]], [[dadurch]], [[wodurch]], [[wobei]]
+, [[Woraus]], [[woran]], [[dadurch]], [[wodurch]], [[wobei]], [[Grammatik-Pronomen-Interrogative]]

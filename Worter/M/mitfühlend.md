@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 ❤️ [[mitfühlend]], [ˈmɪtˌfyːlənt]
 
 ---

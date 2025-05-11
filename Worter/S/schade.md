@@ -1,2 +1,3 @@
+---> [[Grad-gut]] <--
+
 , [[schaden]]
-, [[gut]], [[vorteilhaft]]

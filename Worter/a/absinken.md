@@ -1,3 +1,5 @@
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+
 ⬇️ [[absinken]], [ˈapˌzɪŋkn̩](https://youglish.com/pronounce/absinken/german) | [[sank ab]], ist [[abgesunken]]
 
 ---

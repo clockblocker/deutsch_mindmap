@@ -4,6 +4,9 @@ die [[Entfernungen]]
 ---
 [[Dativ Verben]]: **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
 
+*[[C1-Lesen-T1-102-Text#^1|^]]* [[Gelockt]] wird sie von [[Gemüse]], das sie aus [[Dutzenden]] Metern [[Entfernung]] [[riechen]] kann. ^1
+
+
 ---
 = [[Distanz]], [[Abstand]], [[Länge]]
 ≈ [[Weite]], [[Interval]], [[Raum]], [[Spanne]]
@@ -23,3 +26,5 @@ D: der [[Entfernung]], den [[Entfernungen]]
 
 ---
 [[entfernen]], [[entfernt]], [[fernhalten]], [[Distanz]], [[Rückzug]], [[Streichung]], [[Abwesenheit]], [[Präsenz]], [[Umkreis]], [[Reichweite]]
+
+#Feminin 

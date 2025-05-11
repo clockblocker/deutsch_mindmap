@@ -1,13 +1,15 @@
 [[0 Grad]]
 ---> 🧮 [[Grad-Quantität]] <---
 #### 🟢 [[hoch]] 
-1) [[viel]] *(a lot)*
-2) [[zahlreich]] *(numerous)*
-3) [[in großem Umfang]] *(on a large scale)*
-4) [[Unmenge]] *(huge amount; often emotional)*
-5) [[Fülle]] *(plenty / abundance)*
-6) [[Großteil]] *(major part)*
-7) [[Mehrheit]] *(majority)*  - [[Minderheit]] *(minority)*
+1) [[unzählbar]] *(uncountable)*
+2) [[viel]] *(a lot)*
+3) [[zahlreich]] *(numerous)*
+4) [[in großem Umfang]] *(on a large scale)*
+5) [[Unmenge]] *(huge amount; often emotional)*
+6) [[Fülle]] *(plenty / abundance)*
+7) [[Großteil]] *(major part)*
+8) [[Mehrheit]] *(majority)*  - [[Minderheit]] *(minority)*
+9) [[massenhaft]] *(massive, in large numbers  )*
 #### 🟡 [[ausreichend]] 
 1) [[Anzahl]] *(number of…)*  
 2) [[Zugang]] *(access – conceptual availability)*
@@ -24,7 +26,13 @@
 6) [[mehrere]] *(several)*
 7) [[ein paar]] *(a couple of)*
 8) [[einzelne]] *(individuals / scattered items)*
-9) [[Einzelheit]] *(single detail / unit)*
+9) [[einzeln]] *(individual, single, separately)*
+10) [[vereinzeln]] *(isolated, sporadic)*
+11) [[Einzelheit]] *(single detail / unit)*
+12) [[einziger]] *(only, sole, single)*
+13) [[einzelnen]] *(individual, single, separate)*
+14) [[einsam]] *(lonely, solitary, alone)*
+15) 
 #### 🔴 [[nicht vorhanden]]
 1) [[kaum]] *(hardly)*
 2) like [[mangelhaft]] *(deficient; lacking in quality or amount)*

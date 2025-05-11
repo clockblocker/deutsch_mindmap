@@ -31,4 +31,4 @@ PI: [[aufdeckend]], PII: [[aufgedeckt]], Zu+inf: [[aufzudecken]]
 [[Aufdeckung]], [[Aufdeckungsprozess]], [[decken]], [[Deckel]], [[aufgedeckt]], [[Enthüllung]]
 
 , [[enthüllen]], [[hüllen]], [[abdecken]], [[decken]], [[verdecken]], [[verkleiden]], [[Verheimlichen]], [[demaskieren]]
-, [[herausfinden]], [[aufspüren]]
+, [[herausfinden]], [[aufspüren]], [[bedecken]]

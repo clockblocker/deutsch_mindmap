@@ -18,4 +18,4 @@ about what, about which, regarding what, regarding which
 Morpheme:
 [[wor]][[Worter/Ü/über]]
 
----, [[Woraus]], [[woran]]
+---, [[Woraus]], [[woran]], [[Grammatik-Pronomen-Interrogative]]

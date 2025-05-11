@@ -1,6 +1,9 @@
 😤 [[beweisen]], [bəˈvaɪ̯zn̩] | [[bewies]], haben [[bewiesen]]
 
 ---
+*[[C1-Lesen-T1-001-Text#^37|^]]* Das Team um Volk (8) [[verlässt]] zwar auf Hundenasen, weil die ihre [[Eignung]] zum [[Aufspüren]] von Krankheiten aller Art [[bewiesen]] hätten. ^37
+
+
 [[2 prap.md#^3|(q)]] [[anhand]] von neueren Studien, anhand von [[Beweisen]] ^3
 
 [[15 genetiv#^6|(q)]] »Auf keinen Fall!« rief der junge Mann laut. »Sie sind [[verrückt]]! Das müssen Sie mir erst [[beweisen]].« ^6

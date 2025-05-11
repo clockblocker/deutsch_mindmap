@@ -25,3 +25,4 @@ D: dem [[Kaninchen]], den [[Kaninchen]]
 ---
 [[kaninchenartig]], [[Kaninchenfell]], [[Kaninchenstall]]
 
+#Neuter 

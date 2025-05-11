@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 🌟 [[herrlich]], [ˈhɛɐ̯lɪç]
 nicht [[schrecklich]]
 

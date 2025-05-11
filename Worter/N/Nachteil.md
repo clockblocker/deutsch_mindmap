@@ -30,4 +30,4 @@ G: des [[Nachteils]], der [[Nachteile]]
 D: dem [[Nachteil]], den [[Nachteilen]]
 
 
-#Maskulin 
+#Maskulin , [[schaden]]

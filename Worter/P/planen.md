@@ -62,4 +62,4 @@ sie, [[planen]], [[planten]], [[planen]], [[planten]], [[planen]]
 Adjektive: [[planend]], [[planender]], [[planendst]]
 
 ---
-[[planender]], [[planendes]], [[planende]], [[planenden]], [[planendem]], [[planenderer]], [[planenderes]], [[planendere]], [[planenderen]], [[planenderem]], [[planendster]], [[planendstes]], [[planendste]], [[planendsten]], [[planendstem]]
+[[planender]], [[planendes]], [[planende]], [[planenden]], [[planendem]], [[planenderer]], [[planenderes]], [[planendere]], [[planenderen]], [[planenderem]], [[planendster]], [[planendstes]], [[planendste]], [[planendsten]], [[planendstem]], [[anstreben]]

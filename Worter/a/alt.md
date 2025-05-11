@@ -2,4 +2,4 @@
  
  
  [[frisch]], [[uralte]], [[ehemalige]], [[Altstadt]], [[heutig]], [[neu]]
-, [[althochdeutsch]], [[veraltet]]
+, [[althochdeutsch]], [[veraltet]], [[gleichaltrig]], [[Gleichaltrige]]

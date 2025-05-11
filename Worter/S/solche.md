@@ -1,3 +1,7 @@
+[[Grammatik-Pronomen-Demonstrativ-Zusammengesetzt]]
+
+---
+
 solche, [ˈzɔlçə]
 nicht [[andere]]
 
@@ -34,4 +38,4 @@ Deklination:
 - Feminin: [[solche]], [[solcher]], [[solcher]], [[solche]]
 - Neutral: [[solches]], [[solchen]], [[solchem]], [[solches]]
 - Plural: [[solche]], [[solcher]], [[solchen]], [[solche]]
-, [[beschließen]], [[s1 e1]]
+, [[beschließen]], [[s1 e1]], [[diejenige]], [[jenige]]

@@ -1,4 +1,4 @@
-[[0-Lesen-Teil-1-Lochtype]]
+[[0-Lesen-T1-Ubungen]]
 
 ---
 

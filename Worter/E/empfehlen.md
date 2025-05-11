@@ -3,6 +3,9 @@
 ---
 Ich [[empfehle]] dir Euro zu kaufen.
 
+Vielmehr wird [[empfohlen]], nur morgens zu gießen und [[Beete]] mit einem kleinen [[Zaun]] (7) zu [[umgeben]] .  
+
+
 Sie [[empfehlt]] eine Zeitschrift zu nehmen  
 
 ---

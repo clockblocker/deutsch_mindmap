@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 🟠 [[jämmerlich]], [ˈjæmɐlɪç]
 nicht [[glücklich]]
 

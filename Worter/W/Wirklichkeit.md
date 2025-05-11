@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Wirklichkeit]], [[Wirklichkeiten]]
 #Substantiv #Feminin
 
 
-nicht [[Zaubertrick]], [[Wahrheit]]
+nicht [[Zaubertrick]], [[Wahrheit]], [[Phantasie]], [[verwirklichen]]

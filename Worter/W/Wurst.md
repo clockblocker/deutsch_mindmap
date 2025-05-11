@@ -1,2 +1,2 @@
 
-, [[Wurstessern]]
+, [[Wurstessern]], [[Gemüse]]

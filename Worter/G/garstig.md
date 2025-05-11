@@ -1,3 +1,5 @@
+---> [[Grad-gut]] <--
+
 😖 [[garstig]], [ˈɡaʁstɪç]
 nicht [[freundlich]]
 

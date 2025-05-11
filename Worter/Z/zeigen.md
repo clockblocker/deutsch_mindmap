@@ -4,6 +4,9 @@
 *[[01-C1-Schreiben-T2-M#^11|^]]* - Eröffnen Sie Ihr Schreiben höflich, [[indem]] Sie Verständnis für [[Sachzwänge]] [[zeigen]] ^11
 
 
+*[[C1-Lesen-T1-100-Text#^4|^]]* (2) [[Das zeigt sich]] in der Ausübung immer extremerer Sportarten, in [[skurrilen]] [[Kleidungsstilen]] und [[letztendlich]] auch in ausgefallenen [[Sprechweisen]]. ^4
+
+
 ANNA: Hey Sam, komm … Wir [[zeigen]] dir die Wohnung.
 ANNA: Ja, [[zeig]] es uns ‘mal!  
 Ich [[zeig]] es dir!  
@@ -83,4 +86,4 @@ sie, [[zeigen]], [[zeigten]], [[zeigen]], [[zeigten]], [[zeigen]]
 Adjektive: [[zeigend]], [[zeigender]], [[zeigendst]]
 
 ---
-[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]], [[Sachzwang]], [[bewähren]]
+[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]], [[Sachzwang]], [[bewähren]], [[belegen]]

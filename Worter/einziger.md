@@ -1,3 +1,5 @@
+---> 🧮 [[Grad-Quantität]] <---
+
 🟢 [[einziger]], [ˈaɪ̯ntsɪɡɐ]
 nicht [[mehrere]]
 

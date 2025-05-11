@@ -5,6 +5,7 @@ Er war [[frisch]] [[verheiratet]] und er hat seine Frau lange nicht gesehen. Sie
 
 [[16 Plusquamperfekt#^27|(q)]] 1904 in Figueras bei Barcelona geboren, zeigte er schon als Kind eine [[ungewöhnliche]] künstlerische [[Begabung]].  ^27
 
+
 ---
 = [[außergewöhnlich]], [[besonder]], [[einzigartig]], [[seltsam]], [[merkwürdige]],
 ≈ [[seltsam]], [[wunderlich]], [[kurios]], [[originell]], [[unüblich]],  [[selten]], [[fremd]], 
@@ -27,3 +28,6 @@ P: [[ungewöhnlichen]], [[ungewöhnlicheren]], [[ungewöhnlichsten]]
 
 ---
 [[Gewohnheit]], [[gewöhnlich]], [[unwohnlich]], [[wohnlich]], [[wohnen]], [[banal]], [[rekordverdächtig]]
+
+
+[[gross]], [[skurril]], [[gang und gäbe]]

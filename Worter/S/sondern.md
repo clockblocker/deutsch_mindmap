@@ -1,3 +1,6 @@
+[[Grammatik-Konjunktoren-Coordinating-Adversativ]]
+
+---
 Nicht er mag Fußball, [[sondern]] seine Schwester.
 
 [[16 Plusquamperfekt#^13|(q)]] Also gaben ihr die Freunde kein Geld, [[sondern]] luden sie manchmal zum Essen oder auf Partys ein. ^13

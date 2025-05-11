@@ -1,3 +1,6 @@
+---> [[Ingredinet-Action-Nomen]] <---
+
+---
 🔵 der [[Bewerb]], [bəˈvɛʁp] | [[bewerben]]
 die [[Bewerbe]]
 

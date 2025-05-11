@@ -22,7 +22,6 @@ Away from the original state (makes something become different)
 #### Error / Failure / Negative Outcome
 Away from the good (mistake or badness)
 - [[verlaufen]] *to get lost, to go wrong (path)*
-- [[verirren]], [[verirrte]] *to lose one's way, lost person*
 - [[verraten]] *to betray, to give away (a secret)*
 - [[verderben]] *to spoil, to ruin*
 - [[verdrehen]] *to twist, to distort*
@@ -39,7 +38,6 @@ Away from the good (mistake or badness)
 - [[verzeihen]] *to forgive*
 - [[versehentlich]] *accidentally, by mistake*
 - [[vergeuden]] *to waste (time, resources)*
-- [[versumpfen]] *to stagnate, to degenerate*
 - [[vergeigen]] *to screw up badly (repeats — see above)*
 
 #### Completion / Totality
@@ -83,9 +81,7 @@ Away physically (movement / displacement)
 - [[versetzen]] *to relocate, to transfer (someone/something)*
 - [[verschwinden]] *to disappear*
 - [[verschieben]] *to postpone, to move something*
-- [[verschiffen]] *to ship (goods by sea)*
 - [[versenden]], [[Versand]] *to send, shipment*
-- [[verschleppen]] *to abduct, to drag away*
 - [[verstoßen]] *to expel, to breach (a law or rule)*
 - [[verstreuen]] *to scatter, to disperse*
 - [[verjagen]] *to chase away*
@@ -95,7 +91,6 @@ Away physically (movement / displacement)
 (“ver-” = dynamic effort)
 - [[versuchen]], [[Versuch]] *to attempt, attempt/trial*
 - [[verspotten]] *to mock, to ridicule*
-- [[versüßen]] *to sweeten, to make something more pleasant*
 - [[verschaffen]] *to procure, to secure (something for someone)*
 - [[vermitteln]] *to mediate, to convey (information or agreements)*
 - [[verspüren]] *to feel, to sense (emotionally or physically)*
@@ -106,7 +101,6 @@ Away emotionally (emotional state shifts)
 - [[verabscheuen]] *to loathe, to abhor*
 - [[verärgern]] *to annoy, to anger*
 - [[verunsichern]] *to unsettle, to make insecure*
-- [[vereinsamen]] *to become lonely*
 - [[verwundern]] *to astonish, to amaze*
 - [[vergnügen]] *to enjoy, to have fun*
 - [[verzweifeln]] *to despair*
@@ -129,8 +123,7 @@ Away monetarily (exchange / trade / market)
 - [[verbreiten]] *to spread (can be information, goods)*
 - [[vermarkten]] *to market, to commercialize*
 - [[verspielen]] *to gamble away, to lose through risk*
-- [[verpachten]] *to lease out (land, property)*
 
 ----
 
-[[verstehe]], [[verdammen]], [[verlassen]], [[vermischen]], [[verquirlen]], [[Veränderung]], [[verändern]], [[verloren]], [[verlieren]], [[vergleichen]], [[verschiedene]], [[vertrauen]], [[Verlangen]], [[verderben]], [[verirrt]], [[verwirrt]], [[verhandelen]], [[Verhandlung]], [[Vernunft]], [[verletzt]], [[verletzen]], [[verboten]], [[verbieten]], [[verbrannt]], [[verbrennen]], [[verdienen]], [[vergehen]], [[verschwinden]], [[vergangen]], [[verscheuchen]], [[versuchen]], [[verwandt]], [[verwenden]], [[Verwandte]], [[versinken]], [[verwundern]], [[vergebens]], [[verziehen]], [[verkürzt]], [[verkürzen]], [[verschwenden]], [[verschicken]], [[Versteigerung]], [[versteigen]], [[verkaufen]], [[verbeugen]], [[verplempern]], [[verrückt]], [[verfolgen]], [[verdecken]], [[versprechen]], [[verzichten]], [[verlaufen]], [[versammeln]], [[verantworten]], [[verbuchen]], [[verbessern]], [[verraten]], [[vereinbaren]], [[verschlafen]], [[verbringen]], [[verscheiden]], [[verbinden]], [[verzweifeln]], [[verfeinden]], [[vertragen]], [[Vernichtung]], [[verhalten]], [[verkleiden]], [[Wiedervereinigung]], [[verheiratet]], [[verheiraten]], [[verspotten]], [[Vereinsbeitrag]], [[Versicherungspflicht]], [[Versicherung]], [[Sozialversicherungsausweis]], [[verbannt]], [[verbannen]], [[vergnügen]], [[vereinbar]], [[vereinen]], [[vertreten]], [[Verteidigungsposition]], [[verteidigen]], [[Verfahren]], [[vergilben]], [[vermuten]], [[verdrehen]], [[verbiegen]], [[Verheimlichen]], [[Verwaltung]], [[verwalten]], [[versorgen]], [[verhaften]], [[Verfassung]], [[verurteilten]], [[verstoßen]], [[Verdienstorden]], [[Verhältniswahlrecht]], [[Vergebung]], [[Einverständnis]], [[Versorgung]], [[Verbreitung]], [[Gemeindeverwaltung]], [[Verpflichtung]], [[Stellvertreter]], [[Verhaftungen]], [[Verfolgung]], [[Verwaltungsaufbau]], [[vergessen]], [[Verabschiedung]], [[Bezirksverordnetenversammlung]], [[verstricken]], [[verschieden]], [[versäumen]], [[verpassen]], [[Bürgerversammlung]], [[Verbindung]], [[Vergleich]], [[Verwendung]], [[verlieben]], [[Verruf]], [[verlinkungen]], [[verinnerlichen]], [[Vergangenheit]], [[versüssen]], [[veröffentlichen]], [[Verbrecher]], [[verbrauchen]], [[vernichten]], [[Verrückte]], [[Verantwortungsbewusstsein]], [[verfügen]], [[Versehen]], [[verreisen]], [[verdauen]], [[Verspätung]], [[verspäten]], [[verabscheuen]], [[Versandadresse]], [[versenden]], [[Versandt]], [[Verantwortung]], [[verdreht]], [[verstummen]], [[unverbesserlich]], [[verzeihen]], [[versehentlich]], [[vermeiden]], [[Versuch]], [[Verabredung]], [[verträumen]], [[verträumt]], [[verschaffen]], [[Vermieter]], [[einverstanden]], [[verabreden]], [[verfügbar]], [[verschmutzen]], [[Luftverschmutzung]], [[Verfügung]], [[vermarkten]], [[versichern]], [[verbreiten]], [[verabschieden]], [[verwandeln]], [[verspielen]], [[vernetzt]], [[verarbeiten]], [[unzuverlässig]], [[Verschwendung]], [[verbot]], [[Autoverbot]], [[verursachen]], [[vergeigen]], [[verstopfen]], [[verringern]], [[Verkauf]], [[verständigen]], [[veranschaulichen]], [[verträglich]], [[rekordverdächtig]], [[verzögern]], [[Verhältnis]], [[verfassen]], [[verfehlen]], [[Verknüpfung]], [[Verknüpfung]], [[meiden]], [[verantwortungsvoll]], [[vermitteln]], [[verhindern]], [[Verdienst]], [[Verringerung]], [[Verbesserung]], [[Verzögerung]], [[Vertraulichkeit]], [[verbilligen]], [[Hausverwaltung]], [[verweigern]],, [[Verpflegung]], [[verschlechtern]], [[veraltet]], [[Vervollständigen]], [[Sichtverhältnis]], [[verlangsamen]], [[verzeichnen]]
+[[verstehe]], [[verdammen]], [[verlassen]], [[vermischen]], [[verquirlen]], [[Veränderung]], [[verändern]], [[verloren]], [[verlieren]], [[vergleichen]], [[verschiedene]], [[vertrauen]], [[Verlangen]], [[verderben]], [[verirrt]], [[verwirrt]], [[verhandelen]], [[Verhandlung]], [[Vernunft]], [[verletzt]], [[verletzen]], [[verboten]], [[verbieten]], [[verbrannt]], [[verbrennen]], [[verdienen]], [[vergehen]], [[verschwinden]], [[vergangen]], [[verscheuchen]], [[versuchen]], [[verwandt]], [[verwenden]], [[Verwandte]], [[versinken]], [[verwundern]], [[vergebens]], [[verziehen]], [[verkürzt]], [[verkürzen]], [[verschwenden]], [[verschicken]], [[Versteigerung]], [[versteigen]], [[verkaufen]], [[verbeugen]], [[verplempern]], [[verrückt]], [[verfolgen]], [[verdecken]], [[versprechen]], [[verzichten]], [[verlaufen]], [[versammeln]], [[verantworten]], [[verbuchen]], [[verbessern]], [[verraten]], [[vereinbaren]], [[verschlafen]], [[verbringen]], [[verscheiden]], [[verbinden]], [[verzweifeln]], [[verfeinden]], [[vertragen]], [[Vernichtung]], [[verhalten]], [[verkleiden]], [[Wiedervereinigung]], [[verheiratet]], [[verheiraten]], [[verspotten]], [[Vereinsbeitrag]], [[Versicherungspflicht]], [[Versicherung]], [[Sozialversicherungsausweis]], [[verbannt]], [[verbannen]], [[vergnügen]], [[vereinbar]], [[vereinen]], [[vertreten]], [[Verteidigungsposition]], [[verteidigen]], [[Verfahren]], [[vergilben]], [[vermuten]], [[verdrehen]], [[verbiegen]], [[Verheimlichen]], [[Verwaltung]], [[verwalten]], [[versorgen]], [[verhaften]], [[Verfassung]], [[verurteilten]], [[verstoßen]], [[Verdienstorden]], [[Verhältniswahlrecht]], [[Vergebung]], [[Einverständnis]], [[Versorgung]], [[Verbreitung]], [[Gemeindeverwaltung]], [[Verpflichtung]], [[Stellvertreter]], [[Verhaftungen]], [[Verfolgung]], [[Verwaltungsaufbau]], [[vergessen]], [[Verabschiedung]], [[Bezirksverordnetenversammlung]], [[verstricken]], [[verschieden]], [[versäumen]], [[verpassen]], [[Bürgerversammlung]], [[Verbindung]], [[Vergleich]], [[Verwendung]], [[verlieben]], [[Verruf]], [[verlinkungen]], [[verinnerlichen]], [[Vergangenheit]], [[versüssen]], [[veröffentlichen]], [[Verbrecher]], [[verbrauchen]], [[vernichten]], [[Verrückte]], [[Verantwortungsbewusstsein]], [[verfügen]], [[Versehen]], [[verreisen]], [[verdauen]], [[Verspätung]], [[verspäten]], [[verabscheuen]], [[Versandadresse]], [[versenden]], [[Versandt]], [[Verantwortung]], [[verdreht]], [[verstummen]], [[unverbesserlich]], [[verzeihen]], [[versehentlich]], [[vermeiden]], [[Versuch]], [[Verabredung]], [[verträumen]], [[verträumt]], [[verschaffen]], [[Vermieter]], [[einverstanden]], [[verabreden]], [[verfügbar]], [[verschmutzen]], [[Luftverschmutzung]], [[Verfügung]], [[vermarkten]], [[versichern]], [[verbreiten]], [[verabschieden]], [[verwandeln]], [[verspielen]], [[vernetzt]], [[verarbeiten]], [[unzuverlässig]], [[Verschwendung]], [[verbot]], [[Autoverbot]], [[verursachen]], [[vergeigen]], [[verstopfen]], [[verringern]], [[Verkauf]], [[verständigen]], [[veranschaulichen]], [[verträglich]], [[rekordverdächtig]], [[verzögern]], [[Verhältnis]], [[verfassen]], [[verfehlen]], [[Verknüpfung]], [[Verknüpfung]], [[meiden]], [[verantwortungsvoll]], [[vermitteln]], [[verhindern]], [[Verdienst]], [[Verringerung]], [[Verbesserung]], [[Verzögerung]], [[Vertraulichkeit]], [[verbilligen]], [[Hausverwaltung]], [[verweigern]],, [[Verpflegung]], [[verschlechtern]], [[veraltet]], [[Vervollständigen]], [[Sichtverhältnis]], [[verlangsamen]], [[verzeichnen]], [[zuverlässig]], [[Verwertung]], [[verwahren]], [[Bedeutungsverschiebung]], [[Verlauf]], [[Vermengen]], [[Vermengung]], [[vergrößern]], [[verstärken]], [[verwirklichen]], [[vermehren]], [[verdrängen]], [[versauen]]

@@ -1,1 +1,1 @@
-, [[verletzt]], [[verbrannt]], [[entzwei]], [[heilig]], [[Heiliger]]
+, [[verletzt]], [[verbrannt]], [[entzwei]], [[heilig]], [[Heiliger]], [[heilen]]

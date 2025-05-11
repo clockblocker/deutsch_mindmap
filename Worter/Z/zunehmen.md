@@ -1,9 +1,12 @@
----> [[Ingredient-Verb-Wachstum-Steigerung]] <---
+---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 
 📈 [[zunehmen]], [ˈtsuːˌneːmən] | [[nahm zu]], haben [[zugenommen]]
 
 ---
 *[[Sprechen-T1#^4|^]]* Heute wird kontrovers darüber diskutiert, wie Städte mit dem [[zunehmenden]] [[Verkehrsaufkommen]] umgehen sollen, insbesondere im [[Hinblick]] auf Umwelt- und Lebensqualitätsfragen. ^4
+
+
+*[[C1-Lesen-T1-100-Text#^14|^]]* [[zuwenden|Wendet]] man sich der heutigen Sprechweise der Jugendlichen zu, so [[auffallen|fällt]] auf, dass die [[Anzahl]] der Wörter aus dem Englischen, Arabischen und Türkischen immer weiter [[zunimmt]], dass Präpositionen und Artikel weggelassen werden und [[Bedeutungsverschiebungen]] (8) [[gang und gäbe]] sind. ^14
 
 
 Wer kennt das nicht: Man hat [[zugenommen]] und muss den Gürtel ganz weit machen.
@@ -54,4 +57,4 @@ sie, [[nehmen zu]], [[nahmen zu]], [[nehmen zu]], [[nähmen zu]], [[nehmen zu]]
 Adjektive: [[zunehmend]], [[zunehmender]], [[zunehmendst]]
 
 ---
-[[zunehmender]], [[zunehmendes]], [[zunehmende]], [[zunehmenden]], [[zunehmendem]], [[zunehmenderer]], [[zunehmenderes]], [[zunehmendere]], [[zunehmenderen]], [[zunehmenderem]], [[zunehmendster]], [[zunehmendstes]], [[zunehmendste]], [[zunehmendsten]], [[zunehmendstem]], [[absinken]], [[Diät]]
+[[zunehmender]], [[zunehmendes]], [[zunehmende]], [[zunehmenden]], [[zunehmendem]], [[zunehmenderer]], [[zunehmenderes]], [[zunehmendere]], [[zunehmenderen]], [[zunehmenderem]], [[zunehmendster]], [[zunehmendstes]], [[zunehmendste]], [[zunehmendsten]], [[zunehmendstem]], [[absinken]], [[Diät]], [[vermehren]]

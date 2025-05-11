@@ -29,4 +29,4 @@ G: des [[Teams]], der [[Teams]]
 D: dem [[Team]], den [[Teams]]
 
 
-#Neuter 
+#Neuter , [[Forschungsteam]]
