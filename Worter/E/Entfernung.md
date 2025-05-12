@@ -4,7 +4,7 @@ die [[Entfernungen]]
 ---
 [[Dativ Verben]]: **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
 
-*[[C1-Lesen-T1-102-Text#^1|^]]* [[Gelockt]] wird sie von [[Gemüse]], das sie aus [[Dutzenden]] Metern [[Entfernung]] [[riechen]] kann. ^1
+*[[C1-Lesen-T2-102-Text#^1|^]]* [[Gelockt]] wird sie von [[Gemüse]], das sie aus [[Dutzenden]] Metern [[Entfernung]] [[riechen]] kann. ^1
 
 
 ---

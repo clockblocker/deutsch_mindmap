@@ -2,7 +2,7 @@
 die [[Erbträger]]
 
 ---
-*[[C1-Lesen-T1-101-Text#^5|^]]* Normalerweise zerstört große Hitze Knochenstrukturen und (5) [[damit]] auch den [[Erbträger]] DNA. ^5
+*[[C1-Lesen-T2-101-Text#^5|^]]* Normalerweise zerstört große Hitze Knochenstrukturen und (5) [[damit]] auch den [[Erbträger]] DNA. ^5
 
 ---
 = [[Genträger]], [[Träger der Erbanlagen]]

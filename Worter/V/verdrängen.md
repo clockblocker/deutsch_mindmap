@@ -1,7 +1,7 @@
 ➡️ [[verdrängen]], [fɛɐ̯ˈdʁɛŋən](https://youglish.com/pronounce/verdrängen/german) → [[verdrängte]] → [[verdrängt]]
 
 ---
-*[[C1-Lesen-T1-102-Text#^9|^]]* Klar ist allerdings jetzt schon, dass diese Schnecken [[verwandte]] Arten (5) [[verdrängen]] . ^9
+*[[C1-Lesen-T2-102-Text#^9|^]]* Klar ist allerdings jetzt schon, dass diese Schnecken [[verwandte]] Arten (5) [[verdrängen]] . ^9
 
 
 ---

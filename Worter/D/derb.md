@@ -1,7 +1,7 @@
 💪 [[derb]], [dɛɐ̯p](https://youglish.com/pronounce/derb/german)
 
 ---
-*[[C1-Lesen-T1-100-Text#^11|^]]* Das gemeinsame Singen von [[derben]] Studentenliedern mit [[Beschimpfungen]] und [[Beleidigungen]] erinnert stark (6) an die heutige Rapper-Szene. ^11
+*[[C1-Lesen-T2-100-Text#^11|^]]* Das gemeinsame Singen von [[derben]] Studentenliedern mit [[Beschimpfungen]] und [[Beleidigungen]] erinnert stark (6) an die heutige Rapper-Szene. ^11
 
 
 ---

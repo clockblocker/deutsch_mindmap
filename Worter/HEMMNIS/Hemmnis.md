@@ -1,1 +1,1 @@
-, [[Hindernis]], [[Hemmung]], [[hemmen]]
+, [[Hindernis]], [[Hemmung]], [[hemmen]], [[Anreiz]]

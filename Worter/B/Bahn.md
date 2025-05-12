@@ -1,13 +1,13 @@
-[[Spur]], [[Weg]], [[Wildbahn]]
-🔵 die [[Bahn]]
+die [[Bahn]]
 die [[Bahnen]]
 
 ---
-
+[[Laufbahn]]
 
 ---
 Synonyme:
-- [[Zug]], [[Verkehrsmittel]], [[Eisenbahn]], [[Schiene]], [[Transport]]
+[[Zug]], [[Verkehrsmittel]], [[Eisenbahn]], [[Schiene]], [[Transport]], [[Spur]], [[Weg]], [[Wildbahn]]
+
 
 ---
 train, railway
@@ -24,3 +24,5 @@ Dative: der [[Bahn]], den [[Bahnen]]
 
 ---
 [[bahnen]], [[bahnbrechend]], [[Bahnhof]], [[Bahnsteig]], [[Bahnline]], [[Laufbahn]], [[ÖPNV]]
+
+#Feminin 

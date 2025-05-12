@@ -1,1 +1,1 @@
-, [[Schrebergarten]]
+, [[Schrebergarten]], [[Park]]

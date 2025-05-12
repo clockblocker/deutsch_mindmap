@@ -1,2 +1,2 @@
 
-, [[Erschöpfung]], [[Muskelkater]]
+, [[Erschöpfung]], [[Muskelkater]], [[Langeweile]]

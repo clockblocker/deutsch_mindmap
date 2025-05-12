@@ -1,8 +1,13 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 🔵 der [[Bereich]], [bəˈʁaɪ̯ç]
 die [[Bereiche]]
 
 ---
 Diesen [[Bereich]] darf niemand [[betreten]].
+
+*[[C1-Lesen-T2-101-Text#^7|^]]* Das haben schon unsere Großeltern gesagt und das gilt in vielen [[Bereichen]], zum Beispiel auch bei Spielzeug für Kinder. ^7
+
 
 [[1 Wer bin ich und was mache ich hier?#^1|(q)]] Von der Schule an interessierte ich mich für Mathematik, Informatik und Linguistik. Das waren die [[Hauptbereiche]] meines Interesses, abgesehen von Büchern und Computerspielen. ^1
  

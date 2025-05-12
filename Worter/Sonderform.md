@@ -2,7 +2,7 @@
 die [[Sonderformen]]
 
 ---
-*[[C1-Lesen-T1-100-Text#^5|^]]* Nach Meinung (3) [[zahlreicher]] Sprachforschenden handelt es sich bei der Jugendsprache – oder richtiger den Jugendsprachen – um eine [[Sonderform]] der Landessprache, da sie eine soziale Funktion hat und ihre Nutzer:innen auch die [[übergeordnete]] [[Standardsprache]] beherrschen. ^5
+*[[C1-Lesen-T2-100-Text#^5|^]]* Nach Meinung (3) [[zahlreicher]] Sprachforschenden handelt es sich bei der Jugendsprache – oder richtiger den Jugendsprachen – um eine [[Sonderform]] der Landessprache, da sie eine soziale Funktion hat und ihre Nutzer:innen auch die [[übergeordnete]] [[Standardsprache]] beherrschen. ^5
 
 
 ---

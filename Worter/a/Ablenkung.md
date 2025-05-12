@@ -3,6 +3,11 @@
 ---
 Außerdem sind viele Mitarbeiter, die am [[heimischen]] Schreibtisch arbeiten, effizienter, weil die [[Ablenkung]] durch Kollegen [[entfällt]].
 
+Ablenumg durch Kollegen entfällt
+
+*[[C1-Lesen-T2-101-Text#^18|^]]* Liegt zum Beispiel im Kleinkindalter zu viel Spielzeug [[griffbereit]], so führt das zur [[Ablenkung]] und das [[Spielverhalten]] wird gestört. ^18
+
+
 ---
 = [[Zerstreuung]], [[Störung]], [[Ablenkungsmanöver]]
 ≈ [[Unterbrechung]], [[Irritation]], [[Verwirrung]]

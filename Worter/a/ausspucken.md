@@ -1,1 +1,1 @@
-, [[spucken]], [[schlucken]], [[zubeißen]]
+, [[spucken]], [[schlucken]], [[zubeißen]], [[verschlucken]]

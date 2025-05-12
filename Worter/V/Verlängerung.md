@@ -1,1 +1,1 @@
-, [[Kündigung]]
+, [[Kündigung]], [[verlängern]]

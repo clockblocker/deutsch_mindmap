@@ -1,1 +1,1 @@
-, [[Lust]], [[vergnügen]], [[Schweinehund]], [[Vorliebe]], [[Motivation]]
+, [[Lust]], [[vergnügen]], [[Schweinehund]], [[Vorliebe]], [[Motivation]], [[Langeweile]]

@@ -3,6 +3,10 @@
 ---
 *[[Lektionen/Bekker/verben/2#^15|^]]* Meistens gibt es ja nur [[außerhalb]] der Städte [[freie]] [[Flächen]], etwa in den [[Schrebergärten]] am Stadtrand. ^15
 
+
+*[[C1-Lesen-T2-101-Text#^2|^]]* Gerade in [[Großstädten]] müssen Bedingungen geschaffen werden, damit Kinder im [[Freien]] spielen können. ^2
+
+
 ---
 [[befreien]] - [[be]] = [[freien]] / to free, to liberate, to release
 

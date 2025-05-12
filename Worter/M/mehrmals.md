@@ -25,3 +25,4 @@ several times
 [[mehr]]|[[mals]]
 [[mehrmals]]
 
+, [[viermal]]

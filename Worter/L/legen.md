@@ -3,7 +3,7 @@
 ---
  Machen Sie sich frei, [[legen]] Sie sich hin!  
 
-*[[C1-Lesen-T1-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
+*[[C1-Lesen-T2-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
 
 
 ---

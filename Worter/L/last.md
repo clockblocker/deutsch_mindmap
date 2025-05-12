@@ -29,4 +29,4 @@ D: der [[Last]], den [[Lasten]]
 ---
 [[lasten]], [[belasten]], [[entlasten]], [[schwer]], [[bürdenartig]], [[recht]], [[Lastenrad]], [[Umweltbelastung]]
 
-#Feminin , [[auslasten]], [[Auslastung]], [[Überlastung]]
+#Feminin , [[auslasten]], [[Auslastung]], [[Überlastung]], [[unbelastet]]

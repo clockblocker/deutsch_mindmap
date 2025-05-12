@@ -2,7 +2,7 @@
 🦠 [[einschleppen]], [ˈaɪ̯nˌʃlɛpn̩](https://youglish.com/pronounce/einschleppen/german) → [[schleppte ein]] → [[eingeschleppt]]
 
 ---
-*[[C1-Lesen-T1-102-Text#^4|^]]* Anders als lange [[angenommen]], wurde sie [[demnach]] wohl nicht durch Obst- und Gemüseimporte nach dem Zweiten Weltkrieg von der Iberischen Halbinsel [[eingeschleppt]] – der Name führt also in die [[Irre]].  ^4
+*[[C1-Lesen-T2-102-Text#^4|^]]* Anders als lange [[angenommen]], wurde sie [[demnach]] wohl nicht durch Obst- und Gemüseimporte nach dem Zweiten Weltkrieg von der Iberischen Halbinsel [[eingeschleppt]] – der Name führt also in die [[Irre]].  ^4
 
 ---
 = [[einführen]], [[importieren]], [[verschleppen]]

@@ -4,7 +4,7 @@
 *[[002-C1-Schreiben-T2#^6|^]]* Aus diesem Grund benötige ich einen [[ruhigen]], [[abgegrenzten]] Arbeitsplatz, der vertrauliche Gespräche ermöglicht. ^6
 
 
-*[[C1-Lesen-T1-100-Text#^3|^]]* Gleichzeitig ist die heutige Jugend (1) aufgrund der wachsenden Toleranz, aber auch [[Gleichgültigkeit]] der Erwachsenenwelt, mehr denn je gezwungen, immer [[ausgefallenere]] Jugendkulturen [[hervorzubringen]], weil sie sich doch gegenüber der [[Gesellschaft]] und insbesondere den Erwachsenen [[abgrenzen]]. ^3
+*[[C1-Lesen-T2-100-Text#^3|^]]* Gleichzeitig ist die heutige Jugend (1) aufgrund der wachsenden Toleranz, aber auch [[Gleichgültigkeit]] der Erwachsenenwelt, mehr denn je gezwungen, immer [[ausgefallenere]] Jugendkulturen [[hervorzubringen]], weil sie sich doch gegenüber der [[Gesellschaft]] und insbesondere den Erwachsenen [[abgrenzen]]. ^3
 
 
 Aus diesem Grund wäre ein ruhiger, [[abgegrenzter]] Arbeitsplatz [[wünschenswert]], der [[vertrauliche]] Gespräche [[ermöglicht]].

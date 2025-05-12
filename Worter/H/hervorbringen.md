@@ -3,7 +3,7 @@
 🌱 [[hervorbringen]], [hɛɐ̯ˈfɔɐ̯ˌbʁɪŋən](https://youglish.com/pronounce/hervorbringen/german) → [[brachte hervor]] → haben [[hervorgebracht]]
 
 ---
-*[[C1-Lesen-T1-100-Text#^3|^]]* Gleichzeitig ist die heutige Jugend (1) aufgrund der wachsenden Toleranz, aber auch [[Gleichgültigkeit]] der Erwachsenenwelt, mehr denn je gezwungen, immer [[ausgefallenere]] Jugendkulturen [[hervorzubringen]], weil sie sich doch gegenüber der [[Gesellschaft]] und insbesondere den Erwachsenen [[abgrenzen]]. ^3
+*[[C1-Lesen-T2-100-Text#^3|^]]* Gleichzeitig ist die heutige Jugend (1) aufgrund der wachsenden Toleranz, aber auch [[Gleichgültigkeit]] der Erwachsenenwelt, mehr denn je gezwungen, immer [[ausgefallenere]] Jugendkulturen [[hervorzubringen]], weil sie sich doch gegenüber der [[Gesellschaft]] und insbesondere den Erwachsenen [[abgrenzen]]. ^3
 
 
 ---

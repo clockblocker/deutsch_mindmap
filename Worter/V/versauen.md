@@ -1,7 +1,7 @@
 😩 [[versauen]], [fɛɐ̯ˈzaʊ̯ən](https://youglish.com/pronounce/versauen/german) → [[versaute]] → [[versaut]]
 
 ---
-*[[C1-Lesen-T1-102-Text#^10|^]]* [[Zudem]] töte Salz gar nicht sicher und [[versaue]] den Gartenboden. ^10
+*[[C1-Lesen-T2-102-Text#^10|^]]* [[Zudem]] töte Salz gar nicht sicher und [[versaue]] den Gartenboden. ^10
 
 ---
 = [[verderben]], [[verpfuschen]], [[ruinieren]], [[spülen]]

@@ -3,6 +3,8 @@
 ---
 Der Staat [[entscheidet]] [[Worter/Ü/über]] [[Gesetze]] und [[Steuern]].
 
+[[Gegenstände]], die das Kind in eine [[bestimmte]] [[Laufbahn]] [[steuern]].  
+
 171. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
 	- [ ] [[steuert]] sich allein nach [[Angebot]] und [[Nachfrage]].
 
@@ -33,4 +35,4 @@ PI: [[steuernd]], PII: [[gesteuert]], Zu+inf: [[zusteuern]]
 ---
 [[Steuerung]], [[Steuerrad]], [[Steuermann]], [[Steuergerät]], [[steuerbar]]
 
-, [[Texte/Misc/Anki]], [[beeinflussen]], [[Grünsteuer]]
+, [[Texte/Misc/Anki]], [[beeinflussen]], [[Grünsteuer]], [[lenken]], [[dirigieren]]

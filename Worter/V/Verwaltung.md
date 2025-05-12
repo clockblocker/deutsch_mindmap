@@ -1,3 +1,6 @@
+---> [[⛪ Ingredient-Plazt]] <---
+
+---
 🔴 die [[Verwaltung]], [fɛɐ̯ˈvaltʊŋ]
 die [[Verwaltungen]]
 

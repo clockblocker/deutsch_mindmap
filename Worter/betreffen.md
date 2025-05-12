@@ -3,7 +3,9 @@
 ---
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
- 
+*[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren. ^16
+
+
  Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
 
 ---

@@ -1,3 +1,5 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 die [[Gründung]], [ˈɡʁʏndʊŋ]
 die [[Gründungen]]
 

@@ -1,3 +1,7 @@
+---> [[⛪ Ingredient-Plazt]] <---
+
+---
+
 🔴 die [[Umgebung]], [ˈʊmɡəbʊŋ]
 die [[Umgebungen]]
 
@@ -28,4 +32,4 @@ Dative: der [[Umgebung]], den [[Umgebungen]]
 , [[Szene]], [[Landschaft]], [[Umwelt]]
 , [[quietschen]], [[Nähe]], [[Arbeitsumfeld]], [[Bürosituation]]
 
-#Feminin , [[Arbeitsumgebung]]
+#Feminin , [[Arbeitsumgebung]], [[Nachbarschaft]]

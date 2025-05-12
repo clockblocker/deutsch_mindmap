@@ -11,12 +11,14 @@
 8) [[Mehrheit]] *(majority)*  - [[Minderheit]] *(minority)*
 9) [[massenhaft]] *(massive, in large numbers  )*
 #### 🟡 [[ausreichend]] 
-1) [[Anzahl]] *(number of…)*  
-2) [[Zugang]] *(access – conceptual availability)*
-3) [[Menge]] *(neutral: amount)*
-4) [[Reihe]] *(a number / series)*
-5) [[ausreichend]] *(sufficient)*
-6) [[vorhanden]] *(present; available)*
+1) [[Quantität]]
+2) [[Mengenangabe]] *(quantity, amount)*
+3) [[Anzahl]] *(number of…)*  
+4) [[Zugang]] *(access – conceptual availability)*
+5) [[Menge]] *(neutral: amount)*
+6) [[Reihe]] *(a number / series)*
+7) [[ausreichend]] *(sufficient)*
+8) [[vorhanden]] *(present; available)*
 #### 🟠 [[gering]] 
 1) [[wenig]] *(a little)*
 2) [[gering]] *(low in amount or value)*

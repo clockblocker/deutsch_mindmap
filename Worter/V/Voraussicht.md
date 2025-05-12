@@ -1,1 +1,1 @@
-, [[Zukunft]]
+, [[Zukunft]], [[vorausahnen]]

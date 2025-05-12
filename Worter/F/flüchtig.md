@@ -1,8 +1,8 @@
-💨 [[flüchtig]], [ˈflʏçtɪç](https://youglish.com/pronounce/flüchtig/german)
+---> 🧱[[Grad-Gewicht]] <---
 ---> ⏱️ [[Temporal-Dauerhaft]] <---
 
 ---
-
+💨 [[flüchtig]], [ˈflʏçtɪç](https://youglish.com/pronounce/flüchtig/german)
 
 ---
 = [[vergänglich]], [[vorübergehend]], [[kurzlebig]]
@@ -26,4 +26,4 @@ fleeting, transient
 Adjektive: [[flüchtig]], [[flüchtiger]], [[flüchtigst]]
 
 ---
-[[flüchtiger]], [[flüchtiges]], [[flüchtige]], [[flüchtigen]], [[flüchtigem]], [[flüchtigerer]], [[flüchtigeres]], [[flüchtigere]], [[flüchtigeren]], [[flüchtigerem]], [[flüchtigster]], [[flüchtigstes]], [[flüchtigste]], [[flüchtigsten]], [[flüchtigstem]]
+[[flüchtiger]], [[flüchtiges]], [[flüchtige]], [[flüchtigen]], [[flüchtigem]], [[flüchtigerer]], [[flüchtigeres]], [[flüchtigere]], [[flüchtigeren]], [[flüchtigerem]], [[flüchtigster]], [[flüchtigstes]], [[flüchtigste]], [[flüchtigsten]], [[flüchtigstem]], [[oberflächlich]]

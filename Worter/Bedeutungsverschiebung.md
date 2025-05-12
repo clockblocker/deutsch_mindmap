@@ -2,7 +2,7 @@
 die [[Bedeutungsverschiebungen]]
 
 ---
-*[[C1-Lesen-T1-100-Text#^14|^]]* [[zuwenden|Wendet]] man sich der heutigen Sprechweise der Jugendlichen zu, so [[auffallen|fällt]] auf, dass die [[Anzahl]] der Wörter aus dem Englischen, Arabischen und Türkischen immer weiter [[zunimmt]], dass Präpositionen und Artikel weggelassen werden und [[Bedeutungsverschiebungen]] (8) [[gang und gäbe]] sind. ^14
+*[[C1-Lesen-T2-100-Text#^14|^]]* [[zuwenden|Wendet]] man sich der heutigen Sprechweise der Jugendlichen zu, so [[auffallen|fällt]] auf, dass die [[Anzahl]] der Wörter aus dem Englischen, Arabischen und Türkischen immer weiter [[zunimmt]], dass Präpositionen und Artikel weggelassen werden und [[Bedeutungsverschiebungen]] (8) [[gang und gäbe]] sind. ^14
 
 
 ---

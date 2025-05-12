@@ -1,1 +1,5 @@
-, [[Szene]], [[Umgebung]], [[Nähe]], [[Rahmenbedingung]], [[Arbeitsumfeld]], [[Umkreis]]
+---> [[⛪ Ingredient-Plazt]] <---
+
+---
+
+, [[Szene]], [[Umgebung]], [[Nähe]], [[Rahmenbedingung]], [[Arbeitsumfeld]], [[Umkreis]], [[Nachbarschaft]]

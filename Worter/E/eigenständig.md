@@ -1,7 +1,7 @@
 🧍 [[eigenständig]], [ˈaɪ̯ɡn̩ˌʃtɛndɪç](https://youglish.com/pronounce/eigenständig/german)
 
 ---
-*[[C1-Lesen-T1-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15
+*[[C1-Lesen-T2-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15
 
 
 ---

@@ -33,7 +33,7 @@
 ---
 
 *[[Lesen-Teil-1-Verb]]*  
-*[[C1-Lesen-T1-100-Text#^6|^]]* Die [[verschiedenen]] [[Sprechweisen]] der Jugendlichen lassen sich deshalb linguistisch gesehen nicht als Sprache(n) (4) ___ , weil unter Sprache ein [[Zeichenefüge]] mit eigener Grammatik, differenziertem Wortschatz und normativer [[Gültigkeit]] verstanden wird. ^6
+*[[C1-Lesen-T2-100-Text#^6|^]]* Die [[verschiedenen]] [[Sprechweisen]] der Jugendlichen lassen sich deshalb linguistisch gesehen nicht als Sprache(n) (4) ___ , weil unter Sprache ein [[Zeichenefüge]] mit eigener Grammatik, differenziertem Wortschatz und normativer [[Gültigkeit]] verstanden wird. ^6
 
 *a) angeben \ to state*
 *b) ausdrücken \ to express*  
@@ -44,7 +44,7 @@
 ---
 
 *[[Lesen-Teil-1-Verb]]* 
-*[[C1-Lesen-T1-101-Text#^2|^]]* Dabei [[herausfinden|fanden]] sie heraus, dass der Mann [[womöglich]] von Sardinien [[stammte]] und seine [[Vorfahren]] über das [[Gebiet]] des heutigen Irans und über Anatolien nach Europa [[gelangt]] (1) ___. ^2
+*[[C1-Lesen-T2-101-Text#^2|^]]* Dabei [[herausfinden|fanden]] sie heraus, dass der Mann [[womöglich]] von Sardinien [[stammte]] und seine [[Vorfahren]] über das [[Gebiet]] des heutigen Irans und über Anatolien nach Europa [[gelangt]] (1) ___. ^2
 
 *a) haben*  
 *b) hatten*  
@@ -55,7 +55,7 @@
 ---
 
 *[[Lesen-Teil-1-Verb]]*  
-*[[C1-Lesen-T1-101-Text#^9|^]]* Außerdem stammten 4,4 Prozent von westlichen Jägern und Sammlern und 13,5 Prozent von der Jamnaja-Kultur, die sich in der Bronzezeit aus der Region nördlich des Schwarzen Meeres bis weit nach Europa (7) ___ . ^9
+*[[C1-Lesen-T2-101-Text#^9|^]]* Außerdem stammten 4,4 Prozent von westlichen Jägern und Sammlern und 13,5 Prozent von der Jamnaja-Kultur, die sich in der Bronzezeit aus der Region nördlich des Schwarzen Meeres bis weit nach Europa (7) ___ . ^9
 
 *a) [[erweiterte]] \ expanded*  
 *b) [[verbreitete]] \ spread*
@@ -65,7 +65,7 @@
 ---
 
 *[[Lesen-Teil-1-Verb]]*  
-*[[C1-Lesen-T1-102-Text#^6|^]]* Aber sicher ist: Sie [[vermehrt]] sich schneller als andere Spezies, frisst mehr und setzt sich notfalls zum Fressen in die pralle Sonne, ohne Schaden zu (3) ___ . ^6
+*[[C1-Lesen-T2-102-Text#^6|^]]* Aber sicher ist: Sie [[vermehrt]] sich schneller als andere Spezies, frisst mehr und setzt sich notfalls zum Fressen in die pralle Sonne, ohne Schaden zu (3) ___ . ^6
 
 *a) machen*  
 *b) nehmen*  
@@ -77,7 +77,7 @@
 
 
 *[[Lesen-Teil-1-Verb]]*  
-*[[C1-Lesen-T1-102-Text#^9|^]]* Klar ist allerdings jetzt schon, dass diese Schnecken verwandte Arten (5) ___ . ^9
+*[[C1-Lesen-T2-102-Text#^9|^]]* Klar ist allerdings jetzt schon, dass diese Schnecken verwandte Arten (5) ___ . ^9
 
 *a) [[entfernen]] \ remove*  
 *b) [[verbannen]] \ banish**  
@@ -87,7 +87,7 @@
 ---
 
 *[[Lesen-Teil-1-Verb]]*  
-*[[C1-Lesen-T1-102-Text#^11|^]]* (6) ___ sei auch von Schneckengift. „Es gibt immer die Gefahr, dass der Falsche davon frisst.“ ^11
+*[[C1-Lesen-T2-102-Text#^11|^]]* (6) ___ sei auch von Schneckengift. „Es gibt immer die Gefahr, dass der Falsche davon frisst.“ ^11
 
 *a) Abzuraten \ To advise against*  
 *b) Zu beraten \ To advise*  

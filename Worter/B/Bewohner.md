@@ -5,6 +5,9 @@ die [[Bewohner]]
 ---
 [[Dorfbewohner]]
 
+a) Bewohnerinnen und [[Bewohner]] sollten durch den [[Lärm]] von Kindern nicht [[gestört]] werden.  
+
+
 Die [[Bewohner]] das südlichen Wasserstamms stehen im Schnee und warten auf sie. Die Kinder werden bei Aangs Anblick überglücklich
 
 ---

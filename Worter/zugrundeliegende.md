@@ -1,7 +1,7 @@
-🔗 [[zugrundeliegende]], [tsuˈɡʁʊndəˌliːɡəndə]
-
 ---> 🧱[[Grad-Gewicht]] <---
 
+---
+🔗 [[zugrundeliegende]], [tsuˈɡʁʊndəˌliːɡəndə]
 
 ---
 Um komplexe Verben zu bilden, kombinieren wir zum Beispiel Wörter wie _gehen_ mit Präfixen wie _be-_. Das [[zugrundeliegende]] Wort bildet die Basis; das  Präfix wird [[vorne]] [[angefügt]] - lateinisch _praefigere_ 'vorne anheften' - und leitet die Basis ab. 

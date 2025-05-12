@@ -1,1 +1,1 @@
-, [[wählen]], [[Wähler]]
+, [[wählen]], [[Wähler]], [[auswählen]]

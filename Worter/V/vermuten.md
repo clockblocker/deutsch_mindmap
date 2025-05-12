@@ -32,4 +32,4 @@ PI: [[vermutend]], PII: [[vermutet]], Zu+inf: [[zu vermuten]]
 [[Vermutung]], [[Mutmaßung]], [[vermutet]], [[Vermutende]], [[unvermutet]]
 
 [[meinen]], [[wiegen]], [[glaub]], [[rechnen]], [[raten]], [[befürchten]], [[erwarten]]
-, [[ahnen]], [[zweifeln]], [[fürchten]], [[Unmut]]
+, [[ahnen]], [[zweifeln]], [[fürchten]], [[Unmut]], [[vorausahnen]]

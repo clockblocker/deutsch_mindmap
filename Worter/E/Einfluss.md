@@ -2,7 +2,7 @@
 die [[Einflüsse]]
 
 ---
-*[[C1-Lesen-T1-102-Text#^8|^]]* Viel [[Forschungsbedarf]] gibt es noch beim [[Einfluss]] auf die Tierwelt. ^8
+*[[C1-Lesen-T2-102-Text#^8|^]]* Viel [[Forschungsbedarf]] gibt es noch beim [[Einfluss]] auf die Tierwelt. ^8
 
 
 - `Unter` de*r* Regierung Wilhelms II.  

@@ -1,3 +1,6 @@
+---> [[⛪ Ingredient-Plazt]] <---
+
+---
 🏡 🔵 der [[Schrebergarten]], [ˈʃʁeːbɐˌɡaʁtn̩]
 die [[Schrebergärten]]
 

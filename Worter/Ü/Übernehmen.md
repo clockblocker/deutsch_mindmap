@@ -42,4 +42,4 @@ Morpheme: [[Worter/Ü/über]][[nehm]][[en]]
 
 Partizip I: [[übernehmend]], Partizip II: [[übernommen]]
 
-[[übernehmen]] - [[Worter/Ü/über]] = [[nehmen]], [[ablehnen]], [[Deutschland]], [[vertreten]], [[auffordern]], [[entlehnen]], [[ausleihen]], [[erben]]
+[[übernehmen]] - [[Worter/Ü/über]] = [[nehmen]], [[ablehnen]], [[Deutschland]], [[vertreten]], [[auffordern]], [[entlehnen]], [[ausleihen]], [[erben]], [[erobern]]

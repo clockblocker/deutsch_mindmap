@@ -1,1 +1,1 @@
-, [[Kauf]], [[Einkaufsleiterin]], [[Einkaufsbereich]]
+, [[Kauf]], [[Einkaufsleiterin]], [[Einkaufsbereich]], [[Einkaufsverhalten]]

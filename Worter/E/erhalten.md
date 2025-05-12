@@ -5,10 +5,10 @@ haben [[erhalten]]
 ---
 Du [[erhältst]] morgen ein Geschenk.
 
-*[[C1-Lesen-T1-101-Text#^7|^]]* In den Knochen eines Toten – genannt Individuum A – fanden Scorrano und Kolleginnen und Kollegen gut [[erhaltene]] DNA. ^7
+*[[C1-Lesen-T2-101-Text#^7|^]]* In den Knochen eines Toten – genannt Individuum A – fanden Scorrano und Kolleginnen und Kollegen gut [[erhaltene]] DNA. ^7
 
 
-*[[C1-Lesen-T1-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15
+*[[C1-Lesen-T2-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15
 
 
 Seit zwei Jahren versuche ich darum, ein Studienvisum zu [[erhalten]] und einen Platz im Programm zu sichern. 

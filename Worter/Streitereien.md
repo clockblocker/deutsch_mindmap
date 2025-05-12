@@ -1,0 +1,1 @@
+🥊 [[streiten]] | 🔴 die [[Streiterei]] 🥊

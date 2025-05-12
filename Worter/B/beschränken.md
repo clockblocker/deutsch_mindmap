@@ -5,7 +5,7 @@
 haben [[beschränkt]]
 
 ---
-*[[C1-Lesen-T1-101-Text#^10|^]]* Das Forscherteam [[beschränkte]] sich nicht auf genetische Analysen, sondern [[untersuchte]] auch anatomische [[Eigenschaften]] des Pompejaners. ^10
+*[[C1-Lesen-T2-101-Text#^10|^]]* Das Forscherteam [[beschränkte]] sich nicht auf genetische Analysen, sondern [[untersuchte]] auch anatomische [[Eigenschaften]] des Pompejaners. ^10
 
 
 die [[Schranke]]

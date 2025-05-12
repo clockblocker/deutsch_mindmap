@@ -1,1 +1,1 @@
-, [[leiten]], [[direkt]], [[Geschäftsführung]]
+, [[leiten]], [[direkt]], [[Geschäftsführung]], [[dirigieren]]

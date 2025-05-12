@@ -5,6 +5,9 @@ haben [[getobt]]
 ---
 Da draußen [[tobt]] immerhin ein Krieg!
 
+c) Kinder brauchen mehr [[Gelegenheit]]en zum [[Toben]].
+
+
 ---
 Synonyme: [[rasen]], [[wüten]], [[schreien]], [[randalieren]], [[rumbrüllen]]
 Antonyme: [[beruhigen]], [[stillsein]], [[ruhig sein]]
@@ -25,4 +28,4 @@ Morpheme: [[tob]][[en]]
 | Ihr | [[tobt]] | [[tobtet]] | [[tobt]] | [[tobet]] | [[tobtet]] |
 | Sie | [[toben]] | [[tobten]] | [[toben Sie]] | [[toben]] | [[tobten]] |
 
-Partizip I: [[tobend]], Partizip II: [[getobt]], [[stürmen]], [[s1 e1]]
+Partizip I: [[tobend]], Partizip II: [[getobt]], [[stürmen]], [[s1 e1]], [[Herumtollen]]

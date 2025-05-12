@@ -1,10 +1,11 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 🌳 🔴 die [[Grünfläche]], [ˈɡʁyːnˌflɛçə]
 die [[Grünflächen]]
 
 ---
 *[[Lektionen/Bekker/verben/2#^2|^]]* Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]. ^2
 
-, [[Wiesen]], [[Gras]], [[Wiese]], [[rasen]]
 
 ---
 = [[Grünanlage]], [[Park]], [[Wiese]]
@@ -28,4 +29,5 @@ N: die [[Grünfläche]], die [[Grünflächen]]
 A: die [[Grünfläche]], die [[Grünflächen]]  
 G: der [[Grünfläche]], der [[Grünflächen]]  
 D: der [[Grünfläche]], den [[Grünflächen]]
-, [[Wildblumenwiese]], [[Rasenfläche]]
+
+#Feminin 

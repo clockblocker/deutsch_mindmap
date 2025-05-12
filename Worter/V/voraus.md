@@ -26,4 +26,4 @@ Morpheme:
 [[vor]] [[aus]]
 
 ---
-, [[hinterdrein]], [[vorderen]], [[einen Schritt voraus sein]], [[voraussetzen]]
+, [[hinterdrein]], [[vorderen]], [[einen Schritt voraus sein]], [[voraussetzen]], [[vorausahnen]]

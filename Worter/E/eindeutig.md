@@ -6,7 +6,7 @@
 ---
 Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - [[eindeutig]] ja".
 
-*[[C1-Lesen-T1-102-Text#^5|^]]* Nach wie vor ist nicht [[eindeutig]] geklärt, woher die (2) [[Eigenart]] [[ursprünglich]] stammt. ^5
+*[[C1-Lesen-T2-102-Text#^5|^]]* Nach wie vor ist nicht [[eindeutig]] geklärt, woher die (2) [[Eigenart]] [[ursprünglich]] stammt. ^5
 
 
 ---

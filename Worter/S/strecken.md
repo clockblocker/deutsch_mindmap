@@ -31,4 +31,4 @@ Morpheme: [[streck]][[en]]
 | Sie       | [[strecken]]         | [[streckten]]         | [[strecken Sie]]  | [[strecken]]           | [[streckten]]           |
 
 Partizip I: [[streckend]], Partizip II: [[gestreckt]]
-, [[biegen]], [[winden]], [[knicken]], [[verbiegen]], [[s1 e1]]
+, [[biegen]], [[winden]], [[knicken]], [[verbiegen]], [[s1 e1]], [[verlängern]]

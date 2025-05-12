@@ -1,7 +1,7 @@
 🧺 [[absammeln]], [ˈapˌzaml̩n](https://youglish.com/pronounce/absammeln/german) → [[sammelte ab]] → [[abgesammelt]]
 
 ---
-*[[C1-Lesen-T1-102-Text#^12|^]]* Auch Absammeln sei eine Möglichkeit. ^12
+*[[C1-Lesen-T2-102-Text#^12|^]]* Auch Absammeln sei eine Möglichkeit. ^12
 
 
 ---

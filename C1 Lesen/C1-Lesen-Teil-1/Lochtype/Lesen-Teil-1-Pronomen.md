@@ -31,7 +31,7 @@
 
 
 *[[Lesen-Teil-1-Pronomen]]*  
-*[[C1-Lesen-T1-100-Text#^4|^]]* (2) ___ zeigt sich in der Ausübung immer extremerer Sportarten, in skurrilen Kleidungsstilen und letztendlich auch in ausgefallenen Sprechweisen. ^4
+*[[C1-Lesen-T2-100-Text#^4|^]]* (2) ___ zeigt sich in der Ausübung immer extremerer Sportarten, in skurrilen Kleidungsstilen und letztendlich auch in ausgefallenen Sprechweisen. ^4
 
 *a) [[Daraus]]*  
 *b) Das*  

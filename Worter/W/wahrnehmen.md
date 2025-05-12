@@ -3,7 +3,7 @@
 ---
 Würde ein Kind das Überwachungsgeheimnis entdecken, *würden* seine Eltern `als` Femde `statt` Freunde [[wahrgenommen]] *werden*.
 
-*[[C1-Lesen-T1-100-Text#^8|^]]* Interessanterweise sind Wörter aus Jugendsprachen vergangener Generationen in das Standarddeutsch [[eingeflossen]] und werden kaum noch als umgangssprachlich, [[geschweige]] denn jugendsprachlich, [[wahrgenommen]]. ^8
+*[[C1-Lesen-T2-100-Text#^8|^]]* Interessanterweise sind Wörter aus Jugendsprachen vergangener Generationen in das Standarddeutsch [[eingeflossen]] und werden kaum noch als umgangssprachlich, [[geschweige]] denn jugendsprachlich, [[wahrgenommen]]. ^8
 
 
 *[[C1-Lesen-T1-001-Text#^30|^]]* Die Tiere können eine [[Veränderung]] des [[Körpergeruchs]] kurz vor einem epileptischen [[Anfall]] [[wahrnehmen]]. ^30

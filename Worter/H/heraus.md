@@ -3,6 +3,8 @@
 ---
 Und Nic (von nebenan) [[herausfinden|findet]]  heraus, dass Sam sehr, sehr reich ist.  
 
+*[[C1-Lesen-T2-101-Text#^12|^]]* Die Wissenschaftler fanden dabei [[heraus]], dass [[diejenigen]] Kinder viel kreativer waren, die weniger Spielzeug zur [[Verfügung]] hatten. ^12
+
 
 ---
 = [[hinaus]], [[aus]]

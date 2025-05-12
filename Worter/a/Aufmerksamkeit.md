@@ -3,6 +3,9 @@
 ---
 🔴 👁️ die [[Aufmerksamkeit]], [ˈaʊ̯fmerkˌzaːmkɐɪ̯t]
 
+*[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren. ^16
+
+
 ---
 [[1 ADHD#^8|(q)]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]. ^8  
 

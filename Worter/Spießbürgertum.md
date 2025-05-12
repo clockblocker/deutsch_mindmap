@@ -1,7 +1,7 @@
 😠 🟢 das [[Spießbürgertum]], [ˈʃpiːsbʏɐ̯ɡɐˌtuːm](https://youglish.com/pronounce/Spießbürgertum/german)
 
 ---
-*[[C1-Lesen-T1-100-Text#^10|^]]* Die damaligen Studierenden wollten sich vor allem sprachlich vom [[Spießbürgertum]] unterscheiden. ^10
+*[[C1-Lesen-T2-100-Text#^10|^]]* Die damaligen Studierenden wollten sich vor allem sprachlich vom [[Spießbürgertum]] unterscheiden. ^10
 
 ---
 = [[Kleinbürgertum]], [[Philistertum]]

@@ -1,3 +1,5 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 der [[Raum]], [ʁaʊ̯m]
 die [[Räume]]
 
@@ -26,6 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Raumes]], [[Raum]], [[Räume]], [[Räumen]]
 
 ---
-#Maskulin  , [[Entfernung]], [[Zelle]], [[Flur]], [[Halle]], [[Fläche]], [[Gymnastikraum]], [[Pausenraum]], [[Büroraum]], [[Räumlichkeit]], [[Großraumbüro]], [[Raummitte]]
-
-, [[Telefonzelle]], [[Open Space]], [[Raumaufteilung]], [[Besprechungsraum]], [[Arbeitsraum]], [[Bedarfsraum]]
+#Maskulin , [[Zeitraum]]

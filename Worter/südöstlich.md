@@ -1,7 +1,7 @@
 🧭 [[südöstlich]], [zyːtˈʔœstlɪç](https://youglish.com/pronounce/südöstlich/german)
 
 ---
-*[[C1-Lesen-T1-101-Text#^3|^]]* Im Jahr 79 kam es zu mehreren [[gewaltigen]] [[Ausbrüchen]] des [[südöstlich]] von Neapel [[gelegenen]] Vulkans Vesuv. ^3
+*[[C1-Lesen-T2-101-Text#^3|^]]* Im Jahr 79 kam es zu mehreren [[gewaltigen]] [[Ausbrüchen]] des [[südöstlich]] von Neapel [[gelegenen]] Vulkans Vesuv. ^3
 
 
 ---

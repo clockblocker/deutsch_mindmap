@@ -1,3 +1,5 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 🏢 🔴 die [[Anlage]], [ˈanˌlaːɡə](https://youglish.com/pronounce/Anlage/german) | [[anlegen]],
 die [[Anlagen]]
 
@@ -27,3 +29,4 @@ N: die [[Anlage]], die [[Anlagen]]
 A: die [[Anlage]], die [[Anlagen]]  
 G: der [[Anlage]], der [[Anlagen]]  
 D: der [[Anlage]], den [[Anlagen]]
+, [[Park]]

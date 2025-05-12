@@ -1,1 +1,1 @@
-🚧 [[übertreten]] | 🔵 der [[Übertritt]]
+🚧 [[übertreten]] | 🔵 der [[Übertritt]], [[übergehen]]

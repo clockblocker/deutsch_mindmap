@@ -1,3 +1,5 @@
+---> 🧱[[Grad-Gewicht]] <---
+
 😌 [[sorgsam]], [ˈzɔʁkzɐm] ≠ [[nachlässig]]
 
 ---

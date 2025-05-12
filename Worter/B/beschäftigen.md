@@ -4,7 +4,10 @@
 [[2 ADHD.md#^10|(q)]] Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu. ^10
 
 
-*[[C1-Lesen-T1-100-Text#^12|^]]* Selbst Goethe hat sich mit der Sprechweise der Studierenden seinerzeit [[beschäftigt]].  
+*[[C1-Lesen-T2-101-Text#^20|^]]* Die Kids [[beschäftigen]] sich dann [[oberflächlich]] mit einem Spielzeug und [[übergehen|gehen]] einfach zum nächsten über. ^20
+
+
+*[[C1-Lesen-T2-100-Text#^12|^]]* Selbst Goethe hat sich mit der Sprechweise der Studierenden seinerzeit [[beschäftigt]].  
 
 Erläutern Sie, wie [[Weiterbildung]] [[Beschäftigte]] auf diese [[Veränderungen]] vorbereiten kann.  
 

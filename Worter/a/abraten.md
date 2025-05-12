@@ -1,7 +1,7 @@
 ⛔ [[abraten]], [ˈapˌʁaːtn̩](https://youglish.com/pronounce/abraten/german) → [[riet ab]] → [[abgeraten]]
 
 ---
-*[[C1-Lesen-T1-102-Text#^11|^]]* (6) [[Abzuraten]] sei auch von [[Schneckengift]]. „Es gibt immer die [[Gefahr]], dass der Falsche davon frisst.“ ^11
+*[[C1-Lesen-T2-102-Text#^11|^]]* (6) [[Abzuraten]] sei auch von [[Schneckengift]]. „Es gibt immer die [[Gefahr]], dass der Falsche davon frisst.“ ^11
 
 
 ---

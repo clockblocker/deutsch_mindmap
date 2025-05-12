@@ -1,7 +1,7 @@
 🌳 [[entstammen]], [ɛntˈʃtamən](https://youglish.com/pronounce/entstammen/german) → [[entstammte]] → sein [[entstammt]]
 
 ---
-*[[C1-Lesen-T1-100-Text#^9|^]]* Wörter [[etwa]] Blamage, Pech oder mogeln [[entstammen]] der Studentensprache des 18 und 19 Jahrhunderts. ^9
+*[[C1-Lesen-T2-100-Text#^9|^]]* Wörter [[etwa]] Blamage, Pech oder mogeln [[entstammen]] der Studentensprache des 18 und 19 Jahrhunderts. ^9
 
 
 ---

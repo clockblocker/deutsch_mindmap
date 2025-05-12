@@ -29,3 +29,4 @@ G: der [[Spielweise]], der [[Spielweisen]]
 D: der [[Spielweise]], den [[Spielweisen]]
 
 #Feminin 
+, [[Spielverhalten]]

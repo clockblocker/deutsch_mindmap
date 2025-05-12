@@ -1,7 +1,7 @@
 ☠️ 🟢 das [[Schneckengift]], [ˈʃnɛkŋ̩ˌɡɪft](https://youglish.com/pronounce/Schneckengift/german)
 
 ---
-*[[C1-Lesen-T1-102-Text#^11|^]]* (6) [[Abzuraten]] sei auch von [[Schneckengift]]. „Es gibt immer die [[Gefahr]], dass der Falsche davon frisst.“ ^11
+*[[C1-Lesen-T2-102-Text#^11|^]]* (6) [[Abzuraten]] sei auch von [[Schneckengift]]. „Es gibt immer die [[Gefahr]], dass der Falsche davon frisst.“ ^11
 
 
 ---

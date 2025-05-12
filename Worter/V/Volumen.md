@@ -1,1 +1,1 @@
-, [[Mengenangabe]], [[Fläche]], [[Umfang]], [[Lautstärke]]
+, [[Mengenangabe]], [[Fläche]], [[Umfang]], [[Lautstärke]], [[Quantität]]

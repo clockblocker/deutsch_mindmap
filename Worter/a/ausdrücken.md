@@ -4,7 +4,7 @@
 *[[C1-Lesen-T1-000-Loesung#^1|^]]* Die Präposition „[[gegenüber]]“ [[drückt aus|drückt]] ein [[Verhältnis]] der [[Entgegensetzung]] oder des [[Vergleichs]] aus. Dies passt nicht zum Kontext der [[Mengenangabe]]. ^1
 
 
-*[[C1-Lesen-T1-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
+*[[C1-Lesen-T2-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
 
 
 *[[C1-Lesen-T1-000-Loesung#^8|^]]* „[[Dabei]]“ kann sich auf eine Tätigkeit oder einen Umstand beziehen. Es passt hier nicht, um [[auszudrücken]], dass die Drohne etwas [[bewirkt]]. ^8

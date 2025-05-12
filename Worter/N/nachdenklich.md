@@ -1,3 +1,5 @@
+---> 🧱[[Grad-Gewicht]] <---
+
 🤔 [[nachdenklich]], [ˈnaːxˌdɛŋklɪç] ≠ [[unbekümmert]]
 
 ---

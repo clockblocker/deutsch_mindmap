@@ -2,7 +2,7 @@
 die [[Erträge]]
 
 ---
-*[[C1-Lesen-T1-101-Text#^11|^]]* Bei ihr war der (8) [[Ertrag]] an genetischem Material jedoch für weitere Analysen zu [[gering]]. ^11
+*[[C1-Lesen-T2-101-Text#^11|^]]* Bei ihr war der (8) [[Ertrag]] an genetischem Material jedoch für weitere Analysen zu [[gering]]. ^11
 
 
 ---

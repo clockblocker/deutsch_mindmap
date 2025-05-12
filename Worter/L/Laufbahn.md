@@ -3,6 +3,8 @@
 ---
 ###### 🎓 Akademische [[Laufbahn]] oder [[Ausbildung]]? Wer hat bessere Chancen?
 
+[[Gegenstände]], die das Kind in eine [[bestimmte]] [[Laufbahn]] [[steuern]].  
+
 ---
 = [[Karriere]], [[Werdegang]], [[Berufsweg]]
 ≈ [[Entwicklung]], [[Fortschritt]], [[Erfahrung]], [[Profession]]

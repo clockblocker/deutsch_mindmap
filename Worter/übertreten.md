@@ -31,4 +31,4 @@ PI: [[übertretend]], PII: [[übertreten]], Zu+inf: [[übertreten]]
 [[übertreten]] - [[Worter/Ü/über]] = [[treten]] / to transgress, to violate, to overstep
 
 ---
-[[Übertretung]], [[Gesetzesübertretung]], [[übertreten]], [[Überschreitung]], [[Verletzer]]
+[[Übertretung]], [[Gesetzesübertretung]], [[übertreten]], [[Überschreitung]], [[Verletzer]], [[übergehen]]

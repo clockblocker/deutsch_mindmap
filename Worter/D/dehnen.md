@@ -1,1 +1,1 @@
-, [[spannen]], [[strecken]]
+, [[spannen]], [[strecken]], [[verlängern]]

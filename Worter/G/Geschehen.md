@@ -5,6 +5,8 @@
 ---
 Niemand weiß, was wirklich [[geschehen]] ist.
 
+10. Was [[geschieht]], wenn man Kindern weniger Spielzeug anbietet?
+
 *[[C1-Lesen-T1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet bewirken, dass etwas geschieht. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
 
 

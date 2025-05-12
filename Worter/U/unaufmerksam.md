@@ -1,3 +1,4 @@
+---> 🧱[[Grad-Gewicht]] <---
 😵 [[unaufmerksam]], [ˈʊnʔaʊ̯fˌmɛʁkzaːm] ≠ [[aufmerksam]]
 
 ---
@@ -28,4 +29,4 @@ P: [[unaufmerksamen]], [[unaufmerksameren]], [[unaufmerksamsten]]
 
 ---
 [[Aufmerksamkeit]], [[aufmerksam]], [[Unaufmerksamkeit]]
-, [[ungestört]], [[aufopfernd]]
+, [[ungestört]], [[aufopfernd]], [[oberflächlich]]

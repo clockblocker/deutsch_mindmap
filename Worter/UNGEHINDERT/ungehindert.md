@@ -1,1 +1,1 @@
-, [[mobilitätseingeschränkt]]
+, [[mobilitätseingeschränkt]], [[unbelastet]]

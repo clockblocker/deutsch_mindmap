@@ -1,3 +1,5 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 🔴 die [[Stelle]], [ˈʃtɛlə] | 🛠️ [[stellen]]  
 die [[Stellen]]
 
@@ -29,3 +31,5 @@ D: der [[Stelle]], den [[Stellen]]
 
 ---
 [[stellen]], [[stellvertretend]], [[Stellvertretung]], [[Stellenanzeige]], [[stellenweise]], [[stehen]], [[Texte/Misc/Anki]], [[Arbeitsstelle]], [[Stellenwert]], [[abstellen]], [[Punkt]]
+
+#Feminin 

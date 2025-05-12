@@ -3,7 +3,11 @@
 ➕ [[erweitern]], [ɛɐ̯ˈvaɪ̯tɐn](https://youglish.com/pronounce/erweitern/german) → [[erweiterte]] → [[erweitert]]
 
 ---
-*[[009-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke einbringen – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann. 
+*[[009-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke [[einbringen]] – [[wodurch]] die Firma potenziell neue Partner und Kunden [[gewinnen]] kann. 
+
+Am Ende des Programms könnte ich nicht nur mein aktuellen Aufgabenberich erweatern, sonder auch die neue Netzwerte einbringen - woduch die Firma poteziell neue Parnern und Kunden gewinnen kann.
+
+*[[C1-Lesen-T2-101-Text#^13|^]]* Sie spielten doppelt so lange wie die anderen Kinder und [[ausdachten|dachten]] sich neue Nutzungsmöglichkeiten für ihr Spielzeug aus, [[verlängerten]] und [[erweiterten]] also ihr Spiel. ^13
 
 
 *a) [[erweiterte]] \ expanded*  

@@ -1,1 +1,1 @@
-, [[Stadt]]
+, [[Stadt]], [[Großstadt]]

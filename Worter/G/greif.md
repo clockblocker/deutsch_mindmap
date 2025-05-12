@@ -1,1 +1,1 @@
-, [[angreifen]], [[greifen]], [[begreifen]]
+, [[angreifen]], [[greifen]], [[begreifen]], [[griffbereit]]

@@ -1,4 +1,6 @@
-, [[rasen]]
+---> [[⛪ Ingredient-Plazt]] <---
+
+---
 🌳 🔴 die [[Rasenfläche]], [ˈʁaːzn̩ˌflɛçə]
 die [[Rasenflächen]]
 

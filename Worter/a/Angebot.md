@@ -36,4 +36,4 @@ G: des [[Angebotes]], der [[Angebote]]
 D: dem [[Angebot]], den [[Angeboten]]
 
 
-#Neuter , [[Unterstützungsangebot]], [[Kompromissvorschlag]], [[Pitch]], [[Firmenangebot]]
+#Neuter , [[Unterstützungsangebot]], [[Kompromissvorschlag]], [[Pitch]], [[Firmenangebot]], [[Übergangebot]]

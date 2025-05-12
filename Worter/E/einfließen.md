@@ -1,7 +1,7 @@
 💧 [[einfließen]], [ˈaɪ̯nˌfliːsn̩](https://youglish.com/pronounce/einfließen/german) → [[floss ein]] → sein [[eingeflossen]]
 
 ---
-*[[C1-Lesen-T1-100-Text#^8|^]]* Interessanterweise sind Wörter aus Jugendsprachen vergangener Generationen in das Standarddeutsch [[eingeflossen]] und werden kaum noch als umgangssprachlich, [[geschweige]] denn jugendsprachlich, [[wahrgenommen]]. ^8
+*[[C1-Lesen-T2-100-Text#^8|^]]* Interessanterweise sind Wörter aus Jugendsprachen vergangener Generationen in das Standarddeutsch [[eingeflossen]] und werden kaum noch als umgangssprachlich, [[geschweige]] denn jugendsprachlich, [[wahrgenommen]]. ^8
 
 
 ---

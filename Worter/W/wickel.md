@@ -1,1 +1,1 @@
-, [[entwickeln]], [[Stadtentwicklung]], [[Persönlichkeitsentwicklung]], [[Teamentwicklung]]
+, [[entwickeln]], [[Stadtentwicklung]], [[Persönlichkeitsentwicklung]], [[Teamentwicklung]], [[weiterentwickeln]]

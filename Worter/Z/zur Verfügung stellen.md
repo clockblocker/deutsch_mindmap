@@ -3,4 +3,7 @@
 
 `zur` Verfügung stellen
 
+To make [[available]].
+
+
 [[Verfügung]], [[bereitstellen]]

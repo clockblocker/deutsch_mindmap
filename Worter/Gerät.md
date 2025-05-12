@@ -1,4 +1,4 @@
-🟢 📱 das [[Gerät]], [ɡəˈʁɛːt]
+🟢 📱 das [[Gerät]], [ɡəˈʁɛːt] | [[raten]]
 die [[Geräte]]
 
 ---

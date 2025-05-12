@@ -1,3 +1,6 @@
+---> [[⛪ Ingredient-Plazt]] <---
+
+---
 🔴 die [[Abteilung]], [apˈtaɪ̯lʊŋ]
 die [[Abteilungen]]
 

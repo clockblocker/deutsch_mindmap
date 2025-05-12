@@ -1,3 +1,5 @@
+---> 🧱[[Grad-Gewicht]] <---
+
 gründlich, [ˈɡʁʏntlɪç]
 nicht [[oberflächlich]]
 

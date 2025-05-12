@@ -1,3 +1,5 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 🔵 🌳 der [[Park]], [paʁk]
 die [[Parks]]
 
@@ -24,3 +26,5 @@ D: dem [[Park]], den [[Parks]]
 
 ---
 parken, parkend, Parkanlage, Parkbank, Parkplatz, [[Rasenfläche]], [[Parkberechtigung]]
+
+#Maskulin 

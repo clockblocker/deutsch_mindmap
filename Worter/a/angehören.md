@@ -5,6 +5,9 @@
 ---
 [[Staatsangehörige]]
 
+*[[C1-Lesen-T2-101-Text#^5|^]]* Und [[Klage]]n aus der [[Nachbarschaft]] wegen zu laut spielender Kinder sollten der [[Vergangenheit]] [[angehören]]. ^5
+
+
 ---
 = [[zugehören]], [[dazugehören]], [[Teil sein]]
 ≈ [[verbunden sein]], [[assoziiert sein]], [[zugeordnet sein]]

@@ -6,6 +6,9 @@ haben [[geraten]]
 SAM: [[raten|Rate]] mal!  
 NIC: Mensch Sam, das ist ja Klasse!  
 
+*[[C1-Lesen-T2-101-Text#^26|^]]* Immer [[vorausgesetzt]], dass das Kind nicht in [[Gefahr]] [[gerät]], zum Beispiel durch [[verschluckbare]] Teile. ^26
+
+
 „[[Bewirb]] dich um einen Studienplatz in Kanada!“, [[rät]] ihr Bruder. 
 
 „[[Falls]] Ihnen noch eine Frage unter den Nägeln brennt, sollten Sie diese jetzt stellen …“, riet er ihr. 

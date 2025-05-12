@@ -1,1 +1,1 @@
-, [[Besteck]], [[Zeug]]
+, [[Besteck]], [[Zeug]], [[Küchenutensil]]

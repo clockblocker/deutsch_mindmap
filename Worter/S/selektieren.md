@@ -1,1 +1,1 @@
-[[aussuchen]], [[wählen]], [[auslesen]]
+[[aussuchen]], [[wählen]], [[auslesen]], [[auswählen]]

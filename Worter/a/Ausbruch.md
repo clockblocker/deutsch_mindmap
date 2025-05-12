@@ -5,10 +5,10 @@ die [[Ausbrüche]]
 [[2 prap.md#^17|(q)]] [[infolge]] des [[Unwetters]], infolge des [[Kriegsausbruchs]] ^17
 
 
-*[[C1-Lesen-T1-101-Text#^3|^]]* Im Jahr 79 kam es zu mehreren [[gewaltigen]] [[Ausbrüchen]] des [[südöstlich]] von Neapel [[gelegenen]] Vulkans Vesuv. ^3
+*[[C1-Lesen-T2-101-Text#^3|^]]* Im Jahr 79 kam es zu mehreren [[gewaltigen]] [[Ausbrüchen]] des [[südöstlich]] von Neapel [[gelegenen]] Vulkans Vesuv. ^3
 
 
-*[[C1-Lesen-T1-101-Text#^1|^]]* Wissenschaftlerinnen und Wissenschaftler aus Italien haben erstmals große Teile des Erbguts eines Menschen sequenziert, der vor fast 2000 Jahren in Pompeji (0) während [[Ausbruch]] des Vesuvs [[umgekommen]] ist. ^1
+*[[C1-Lesen-T2-101-Text#^1|^]]* Wissenschaftlerinnen und Wissenschaftler aus Italien haben erstmals große Teile des Erbguts eines Menschen sequenziert, der vor fast 2000 Jahren in Pompeji (0) während [[Ausbruch]] des Vesuvs [[umgekommen]] ist. ^1
 
 
 ---

@@ -1,4 +1,6 @@
-🟢 ⚖️ die [[Mengenangabe]], [ˈmɛŋənʔanˌɡaːbə]
+---> 🧮 [[Grad-Quantität]] <---
+
+ ⚖️ die [[Mengenangabe]], [ˈmɛŋənʔanˌɡaːbə]
 die [[Mengenangaben]]
 
 ---
@@ -31,4 +33,4 @@ D: der [[Mengenangabe]], den [[Mengenangaben]]
 ---
 [[mengenmäßig]], [[mengenweise]], [[mengenbedingt]], [[mengenabhängig]], [[fehlen]]
 
-#Neuter 
+#Feminin 

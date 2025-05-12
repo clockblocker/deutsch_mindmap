@@ -6,6 +6,8 @@
 *[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus.  ^9
 
 
+c) Vor allem [[pädagogisch]] und [[ökologisch]] [[nachhaltiges]] Spielzeug.
+
 ---
 = [[dauerhaft]], [[langfristig]], [[ökologisch]]
 ≈ [[umweltfreundlich]], [[ressourcenschonend]], [[zukunftsfähig]]

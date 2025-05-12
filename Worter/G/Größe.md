@@ -1,1 +1,1 @@
-, [[Anzahl]], [[Mengenangabe]], [[Fläche]], [[Quadratmeter]], [[Umfang]], [[Plakatgröße]]
+, [[Anzahl]], [[Mengenangabe]], [[Fläche]], [[Quadratmeter]], [[Umfang]], [[Plakatgröße]], [[Quantität]]

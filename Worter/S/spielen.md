@@ -2,4 +2,4 @@
 
 [[ver]] + [[spielen]] = [[verspielen]] // проигрывать
 [[an]] + [[spielen]] = [[anspielen]] // to allude to, to hint at
-, [[Brettspiel]], [[Spiel]], [[Spielweise]]
+, [[Brettspiel]], [[Spiel]], [[Spielweise]], [[Herumtollen]]

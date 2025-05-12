@@ -6,7 +6,10 @@ die [[Gefahren]]
 ---
 Katara, du hättest nicht zu diesem Schiff gehen dürfen. Jetzt sind alle im Dorf in [[Gefahr]]
 
-*[[C1-Lesen-T1-102-Text#^11|^]]* (6) [[Abzuraten]] sei auch von [[Schneckengift]]. „Es gibt immer die [[Gefahr]], dass der Falsche davon frisst.“ ^11
+*[[C1-Lesen-T2-101-Text#^26|^]]* Immer [[vorausgesetzt]], dass das Kind nicht in [[Gefahr]] [[gerät]], zum Beispiel durch [[verschluckbare]] Teile. ^26
+
+
+*[[C1-Lesen-T2-102-Text#^11|^]]* (6) [[Abzuraten]] sei auch von [[Schneckengift]]. „Es gibt immer die [[Gefahr]], dass der Falsche davon frisst.“ ^11
 
 
 Erläutern Sie mögliche [[Gefahren]] durch den [[Einsatz]] von KI am Arbeitsplatz.  

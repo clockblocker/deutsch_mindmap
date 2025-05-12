@@ -1,2 +1,2 @@
 , [[Begegnung]], [[Verbindung]], [[verlinkungen]]
-, [[Beziehung]], [[Teamfähigkeit]], [[Gemeinschaft]], [[Austausch]], [[Interaktion]], [[Zugehörigkeit]], [[Kommunikation]], [[Zusammenarbeit]], [[Entfremdung]], [[Kommunikationsform]], [[Kontakt]], [[Gruppendynamik]]
+, [[Beziehung]], [[Teamfähigkeit]], [[Gemeinschaft]], [[Austausch]], [[Interaktion]], [[Zugehörigkeit]], [[Kommunikation]], [[Zusammenarbeit]], [[Entfremdung]], [[Kommunikationsform]], [[Kontakt]], [[Gruppendynamik]], [[Nachbarschaft]]

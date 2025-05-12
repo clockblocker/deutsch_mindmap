@@ -1,3 +1,7 @@
+---> [[⛪ Ingredient-Plazt]] <---
+
+---
+
 Singular: der [[Nachbarn]]
 Plural: die [[Nachbarn]]
 
@@ -15,3 +19,4 @@ Translation:
 
 #Substantiv
 #Maskulin  | #Feminin | #Neuter 
+, [[Nachbarschaft]]

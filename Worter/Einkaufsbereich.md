@@ -1,3 +1,6 @@
+---> [[⛪ Ingredient-Plazt]] <---
+
+---
 🛒 🔵 der [[Einkaufsbereich]], [ˈaɪ̯nkaʊ̯fsbəˌʁaɪ̯ç](https://youglish.com/pronounce/Einkaufsbereich/german)
 die [[Einkaufsbereiche]]
 

@@ -38,4 +38,4 @@ Partizip I: [[ladend]], Partizip II: [[geladen]]
 [[laden]] - [[la]] = [[d]]en, [[abfeuern]], [[Aufrufen]]
 
 
-#Maskulin 
+#Maskulin , [[Spielzeuggeschäft]]

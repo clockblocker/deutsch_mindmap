@@ -1,1 +1,1 @@
-, [[Techniker]]
+, [[Techniker]], [[Automechatronikerin]]

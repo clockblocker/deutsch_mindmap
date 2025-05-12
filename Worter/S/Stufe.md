@@ -4,6 +4,9 @@ die [[Stufen]]
 ---
 Ihr werdet mir jetzt die [[nächsthöhere]] [[Stufe]] [[beibringen]] klar?!
 
+*[[C1-Lesen-T2-101-Text#^25|^]]* Spielzeug soll [[anregen]] und helfen, die nächste [[Stufe]] der Entwicklung zu [[erobern]]. ^25
+
+
 69. Die Bundesrepublik Deutschland hat einen [[dreistufigen]] [[Verwaltungsaufbau]]. Wie heißt die [[unterste]] politische [[Stufe]]? (77%)
 	- [ ] [[Stadträte]]
 	- [ ] [[Landräte]]

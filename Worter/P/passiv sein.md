@@ -1,1 +1,1 @@
-[[handeln]], [[intervenieren]], [[agieren]]
+[[handeln]], [[intervenieren]], [[agieren]], [[dirigieren]]

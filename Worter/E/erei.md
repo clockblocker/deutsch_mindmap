@@ -1,1 +1,1 @@
-, [[Fragerei]]
+, [[Fragerei]], [[Streiterei]]

@@ -1,4 +1,5 @@
-, [[Ausrüstung]], [[Bekleidung]], [[Zubehör]]
+--> [[⛪ Ingredient-Plazt]] <---
+
 🛠️ 🔴 die [[Ausstattung]], [ˈaʊ̯sˌʃtatʊŋ](https://youglish.com/pronounce/Ausstattung/german)
 die [[Ausstattungen]]
 
@@ -9,6 +10,8 @@ Zunächst möchte ich erst einmal feststellen, dass das Arbeiten von zu Hause au
 = [[Einrichtung]], [[Inventar]], [[Zubehör]]
 ≈ [[Dekoration]], [[Mobiliar]], [[Equipment]]
 ≠ [[Leere]], [[Entblößung]]
+, [[Ausrüstung]], [[Bekleidung]], [[Zubehör]]
+
 
 ---
 equipment, furnishings  

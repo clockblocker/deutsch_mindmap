@@ -1,1 +1,2 @@
-, [[Vernichtung]], [[Erhaltung]], [[zerstörten]], [[Sanierung]], [[Erhalt]], [[Anlage]], [[Bauart]], [[Einrichtung]]
+--> [[⛪ Ingredient-Plazt]] <---
+

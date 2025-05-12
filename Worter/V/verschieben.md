@@ -1,7 +1,7 @@
 ➡️ [[verschieben]], [fɛɐ̯ˈʃiːbn̩](https://youglish.com/pronounce/verschieben/german) → [[verschob]] → haben [[verschoben]]
 
 ---
-*[[C1-Lesen-T1-100-Text#^14|^]]* [[Bedeutungsverschiebungen]] (8) [[gang und gäbe]] sind. ^14
+*[[C1-Lesen-T2-100-Text#^14|^]]* [[Bedeutungsverschiebungen]] (8) [[gang und gäbe]] sind. ^14
 
 
 ---

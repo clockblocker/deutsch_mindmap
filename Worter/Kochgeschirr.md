@@ -24,4 +24,4 @@ G: des [[Kochgeschirrs]], der [[Kochgeschirre]]
 D: dem [[Kochgeschirr]], den [[Kochgeschirren]]  
 
 ---
-[[kochen]], [[Geschirr]], [[Küchengeschirr]], [[Töpfe]], [[Pfannen]]
+[[kochen]], [[Geschirr]], [[Küchengeschirr]], [[Töpfe]], [[Pfannen]], [[Küchenutensil]]

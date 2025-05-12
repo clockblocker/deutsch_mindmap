@@ -29,4 +29,4 @@ Zu+infinitive: [[vorherzusagen]]
 [[vorhersagen]] - [[vor]] - [[her]] = [[sagen]] / forecast
 
 ---
-[[Vorhersage]], [[Vorhersagbarkeit]], [[Vorhersagewert]], [[Wettervorhersage]], [[Zukunftsvorhersage]]
+[[Vorhersage]], [[Vorhersagbarkeit]], [[Vorhersagewert]], [[Wettervorhersage]], [[Zukunftsvorhersage]], [[vorausahnen]]

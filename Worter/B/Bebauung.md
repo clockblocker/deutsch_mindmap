@@ -1,1 +1,1 @@
-, [[Grünfläche]]
+, [[Grünfläche]], [[Park]]

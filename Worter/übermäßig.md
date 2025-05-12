@@ -27,4 +27,4 @@ P: [[übermäßigen]], [[übermäßigeren]], [[übermäßigsten]]
 
 ---
 [[Maß]], [[übertreiben]], [[Übermaß]], [[übermütig]]
-, [[gemäßigt]]
+, [[gemäßigt]], [[Zuviel]]

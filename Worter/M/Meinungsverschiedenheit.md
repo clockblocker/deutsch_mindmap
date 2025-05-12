@@ -1,1 +1,1 @@
-, [[Konflikt]], [[Konsens]]
+, [[Konflikt]], [[Konsens]], [[Streiterei]]

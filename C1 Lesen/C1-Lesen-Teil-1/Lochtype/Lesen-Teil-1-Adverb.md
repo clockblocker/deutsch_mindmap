@@ -45,7 +45,7 @@ Wenn das System erst einmal (9) ___ einsatzfähig ist, soll es Unterwasserabfäl
 
 
 *[[Lesen-Teil-1-Adverb]]*  
-*[[C1-Lesen-T1-100-Text#^9|^]]* Wörter (5) ___ Blamage, Pech oder mogeln entstammen der Studentensprache des 18 und 19 Jahrhunderts. ^9
+*[[C1-Lesen-T2-100-Text#^9|^]]* Wörter (5) ___ Blamage, Pech oder mogeln entstammen der Studentensprache des 18 und 19 Jahrhunderts. ^9
 
 *a) als*  
 *b) beispielsweise*  
@@ -55,7 +55,7 @@ Wenn das System erst einmal (9) ___ einsatzfähig ist, soll es Unterwasserabfäl
 ---
 
 *[[Lesen-Teil-1-Adverb]]*  
-*[[C1-Lesen-T1-100-Text#^13|^]]* (7) ___ ist die äußerst produktive Vorsilbe sau- bemerkenswert, sie wird auch heute gerne noch zur Bedeutungsverstärkung des Grundwortes benutzt, z. B. in saukomisch (sehr komisch) oder saublöd (äußerst blöd). ^13
+*[[C1-Lesen-T2-100-Text#^13|^]]* (7) ___ ist die äußerst produktive Vorsilbe sau- bemerkenswert, sie wird auch heute gerne noch zur Bedeutungsverstärkung des Grundwortes benutzt, z. B. in saukomisch (sehr komisch) oder saublöd (äußerst blöd). ^13
 
 *a) Hieraus | From this*  
 *b) Hierbei | In this context**  
@@ -66,7 +66,7 @@ Wenn das System erst einmal (9) ___ einsatzfähig ist, soll es Unterwasserabfäl
 ---
 
 *[[Lesen-Teil-1-Adverb]]*  
-*[[C1-Lesen-T1-101-Text#^5|^]]* Normalerweise zerstört große Hitze Knochenstrukturen und (5) ___ auch den Erbträger DNA. ^5
+*[[C1-Lesen-T2-101-Text#^5|^]]* Normalerweise zerstört große Hitze Knochenstrukturen und (5) ___ auch den Erbträger DNA. ^5
 
 *a) dafür*  
 *b) damit*  
@@ -77,7 +77,7 @@ Wenn das System erst einmal (9) ___ einsatzfähig ist, soll es Unterwasserabfäl
 ---
 
 *[[Lesen-Teil-1-Adverb]]*  
-*[[C1-Lesen-T1-102-Text#^2|^]]* (0) ___ erinnert sie sich an die Orte leckerer Mahlzeiten und kehrt zu ihnen zurück. ^2
+*[[C1-Lesen-T2-102-Text#^2|^]]* (0) ___ erinnert sie sich an die Orte leckerer Mahlzeiten und kehrt zu ihnen zurück. ^2
 
 *a) Deshalb \ Therefore*
 *b) Hinzu \ In addition*  
@@ -88,7 +88,7 @@ Wenn das System erst einmal (9) ___ einsatzfähig ist, soll es Unterwasserabfäl
 
 
 *[[Lesen-Teil-1-Adverb]]*  
-*[[C1-Lesen-T1-102-Text#^3|^]]* Sie zieht [[vielerorts]] ihre [[Schleimspur]] – jedoch [[ausgerechnet]] in Spanien nur (1) ___ [[vereinzelt]], wie Forschende in den vergangenen Jahren [[herausfanden]]. ^3
+*[[C1-Lesen-T2-102-Text#^3|^]]* Sie zieht [[vielerorts]] ihre [[Schleimspur]] – jedoch [[ausgerechnet]] in Spanien nur (1) ___ [[vereinzelt]], wie Forschende in den vergangenen Jahren [[herausfanden]]. ^3
 
 *a) ganz \ completely*
 *b) gar \ at all*

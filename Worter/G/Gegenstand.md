@@ -6,6 +6,9 @@ die [[Gegenstände]]
 
 1. Ein Fahrrad, mit dem man größere [[Gegenstände]] transportieren kann: das [[Lastenrad]]
 
+a) Alle [[Gegenstände]], die zur [[Entfaltung]] des Kindes [[beitragen]].  
+[[Gegenstände]], die das Kind in eine [[bestimmte]] [[Laufbahn]] [[steuern]].  
+
 ---
 = [[Objekt]], [[Ding]], [[Artikel]], [[Sache]]
 ≈ [[Sache]], [[Objekt]], [[Artikel]], [[Produkt]]
@@ -27,3 +30,5 @@ D: dem [[Gegenstand]], den [[Gegenständen]]
 ---
 [[gegen]], [[stehen]], [[gegenständlich]], [[Gegenstandsbezeichnung]], [[Gegenstandswert]]
 , [[gegenwärtig]]
+
+#Maskulin 

@@ -1,3 +1,5 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 🔴 die [[Wiese]]
 die [[Wiesen]]
 
@@ -26,4 +28,4 @@ Dative: der [[Wiese]], den [[Wiesen]]
 [[wiesen]], [[wiesig]], [[wiesenartig]], [[Wiesenblume]], [[Wiesenkraut]]
 
 , [[Wiesen]], [[Gras]], [[Feld]], [[Blumenwiese]]
-, [[weisen]], [[Acker]], [[Wildblumenwiese]], [[Rasenfläche]], [[Waldabschnitt]], [[Büsch]]
+, [[weisen]], [[Acker]], [[Wildblumenwiese]], [[Rasenfläche]], [[Waldabschnitt]], [[Büsch]], [[Park]]

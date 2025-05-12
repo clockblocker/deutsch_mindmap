@@ -1,7 +1,7 @@
 💀 [[umkommen]], [ˈʊmˌkɔmən](https://youglish.com/pronounce/umkommen/german) → [[kam um]] → sein [[umgekommen]]
 
 ---
-*[[C1-Lesen-T1-101-Text#^1|^]]* Wissenschaftlerinnen und Wissenschaftler aus Italien haben erstmals große Teile des Erbguts eines Menschen sequenziert, der vor fast 2000 Jahren in Pompeji (0) während [[Ausbruch]] des Vesuvs [[umgekommen]] ist. ^1
+*[[C1-Lesen-T2-101-Text#^1|^]]* Wissenschaftlerinnen und Wissenschaftler aus Italien haben erstmals große Teile des Erbguts eines Menschen sequenziert, der vor fast 2000 Jahren in Pompeji (0) während [[Ausbruch]] des Vesuvs [[umgekommen]] ist. ^1
 
 
 ---

@@ -5,7 +5,7 @@
 ---
 Endlich [[gelingt]] es Mona, sie [[anzusprechen]].
 
-*[[C1-Lesen-T1-101-Text#^2|^]]* Dabei [[herausfinden|fanden]] sie heraus, dass der Mann [[womöglich]] von Sardinien [[stammte]] und seine [[Vorfahren]] über das [[Gebiet]] des heutigen Irans und über Anatolien nach Europa [[gelangt]] (1) [[waren]]. ^2
+*[[C1-Lesen-T2-101-Text#^2|^]]* Dabei [[herausfinden|fanden]] sie heraus, dass der Mann [[womöglich]] von Sardinien [[stammte]] und seine [[Vorfahren]] über das [[Gebiet]] des heutigen Irans und über Anatolien nach Europa [[gelangt]] (1) [[waren]]. ^2
 
 
 Es [[gelingt]] dem Schüler nicht, die Aufgabe zu lösen

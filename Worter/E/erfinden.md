@@ -28,4 +28,4 @@ Morpheme: [[er]][[find]][[en]]
 | Sie       | [[erfinden]]  | [[erfanden]] | [[erfinden Sie]] | [[erfinden]]  | [[erfänden]]  |
 
 Partizip I: [[erfindend]], Partizip II: [[erfunden]]
-[[erfinden]] - [[er]] = [[finden]]
+[[erfinden]] - [[er]] = [[finden]], [[ausdenken]]

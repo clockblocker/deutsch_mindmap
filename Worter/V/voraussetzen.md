@@ -2,7 +2,11 @@
 ✅ [[voraussetzen]], [fɛɐ̯ˈʁaʊ̯sˌzɛt͡sn̩](https://youglish.com/pronounce/voraussetzen/german) → [[setzte voraus]] → [[vorausgesetzt]]
 
 ---
-*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrechte]] _als_ [[richtungsgebende]] _Linie_ [[vorausgesetzt]] _werden, um strafbare von legalen_ [[Äußerungen]] _und_ [[Worter/V/Verben/Verbformen/taten]] _zu_ [[unterscheiden]]. ^5
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrechte]] _als_ [[richtungsgebende]] _Linie_ [[vorausgesetzt]] _werden, um strafbare von legalen_ [[Äußerungen]] _und_ [[Worter/V/Verben/Verbformen/taten]] _zu_ [[unterscheiden]]. ^5ź
+
+
+*[[C1-Lesen-T2-101-Text#^26|^]]* Immer [[vorausgesetzt]], dass das Kind nicht in Gefahr [[gerät]], zum Beispiel durch [[verschluckbare]] Teile. ^26
+
 
 
 ---

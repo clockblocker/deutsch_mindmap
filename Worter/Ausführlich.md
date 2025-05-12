@@ -1,3 +1,5 @@
+---> 🧱[[Grad-Gewicht]] <---
+
 🧐 [[ausführlich]], [ˈaʊ̯sˌfyːɐ̯lɪç]
 nicht [[kurz]]
 

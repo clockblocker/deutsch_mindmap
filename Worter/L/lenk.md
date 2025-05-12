@@ -1,3 +1,3 @@
 
 , [[ablenken]]
-, [[ablenkbar]], [[Ablenkung]]
+, [[ablenkbar]], [[Ablenkung]], [[lenken]]

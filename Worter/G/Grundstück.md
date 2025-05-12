@@ -1,3 +1,5 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 🏡 🟢 das [[Grundstück]], [ˈɡʁʊntʃtʏk]
 die [[Grundstücke]]
 
@@ -26,4 +28,3 @@ N: das [[Grundstück]], die [[Grundstücke]]
 A: das [[Grundstück]], die [[Grundstücke]]  
 G: des [[Grundstücks]], der [[Grundstücke]]  
 D: dem [[Grundstück]], den [[Grundstücken]]
-, [[Fläche]]

@@ -1,1 +1,1 @@
-, [[Küchenmagd]], [[Küchenfenster]]
+, [[Küchenmagd]], [[Küchenfenster]], [[Küchenutensil]]

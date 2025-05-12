@@ -1,7 +1,7 @@
 🗣️ 🔴 die [[Jugendsprache]], [ˈjuːɡn̩tˌʃpʁaːxə](https://youglish.com/pronounce/Jugendsprache/german)
 
 ---
-*[[C1-Lesen-T1-100-Text#^1|^]]* Jedes Jahr wird in Deutschland aus der [[Jugendsprache]] das Jugendwort des Jahres gewählt. Aber was genau ist Jugendsprache? ^1
+*[[C1-Lesen-T2-100-Text#^1|^]]* Jedes Jahr wird in Deutschland aus der [[Jugendsprache]] das Jugendwort des Jahres gewählt. Aber was genau ist Jugendsprache? ^1
 
 
 ---

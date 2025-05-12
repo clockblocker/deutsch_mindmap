@@ -1,8 +1,14 @@
+---> [[⛪ Ingredient-Plazt]] <---
+
+---
 🏠 die [[Lage]], [ˈlaːɡə], 🏠 die [[Lage]] | 🧘 [[liegen]]
 die [[Lagen]]
 
 ---
 Wer war nicht schon einmal in einer schwierigen [[Lage]]? Gut, wenn man dann nicht alleine ist. 
+
+*[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren. ^16
+
 
 Wie ist die [[Lage]] nach den Wahlen im Land?
 

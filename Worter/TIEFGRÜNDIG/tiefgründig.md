@@ -1,0 +1,3 @@
+---> 🧱[[Grad-Gewicht]] <---
+
+, [[oberflächlich]]

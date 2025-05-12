@@ -7,6 +7,9 @@ daraus, [daˈʁaʊ̯s]
 ---
 Katrin seufzt. „Werner, jetzt mach doch keine [[Doktorarbeit]] [[daraus]]. Das Foto ist sehr schön, und wir werden uns immer gerne an diesen Urlaub erinnern, [[egal]], wie der Rahmen aussieht.“ 
 
+*[[C1-Lesen-T2-101-Text#^24|^]]* Aber man sollte keine Ideologie [[daraus]] machen. ^24
+
+
 
 ---
 Synonyme: [[davon]], [[aus diesem Grund]], [[daraufhin]], [[deswegen]]

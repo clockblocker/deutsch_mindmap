@@ -13,4 +13,4 @@
 ---
 
 
-#Neuter , [[Essenwagen]], [[Verpflegung]], [[Büfett]]
+#Neuter , [[Essenwagen]], [[Verpflegung]], [[Büfett]], [[verschlucken]]

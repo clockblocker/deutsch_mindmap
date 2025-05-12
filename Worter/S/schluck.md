@@ -1,1 +1,1 @@
-, [[schlucken]]
+, [[schlucken]], [[verschlucken]]

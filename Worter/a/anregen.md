@@ -5,6 +5,9 @@
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
 	- [ ] um [[wirtschaftlichen]] [[Wettbewerb]] [[anzuregen]]
 
+*[[C1-Lesen-T2-101-Text#^25|^]]* Spielzeug soll [[anregen]] und helfen, die nächste [[Stufe]] der Entwicklung zu [[erobern]]. ^25
+
+
 ---
 = [[inspirieren]], [[motivieren]], [[stimulieren]], [[vorschlagen]]
 ≈ [[ermutigen]], [[begeistern]], [[aktivieren]], [[anregen]]

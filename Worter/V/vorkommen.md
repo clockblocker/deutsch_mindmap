@@ -3,7 +3,7 @@
 ---
 Stürme wie dieser [[vorkommen|kommen]] in der Region [[häufig]] vor.
 
-*[[C1-Lesen-T1-101-Text#^6|^]]* Es wurde jedoch festgestellt, dass auch genau das Gegenteil [[vorkommen]] kann: die pyroklastischen Materialien bedecken die [[Überreste]] und somit (6) wird die DNA vor [[Umwelteinflüssen]] [[abschirmt]]. ^6
+*[[C1-Lesen-T2-101-Text#^6|^]]* Es wurde jedoch festgestellt, dass auch genau das Gegenteil [[vorkommen]] kann: die pyroklastischen Materialien bedecken die [[Überreste]] und somit (6) wird die DNA vor [[Umwelteinflüssen]] [[abschirmt]]. ^6
 
 
 *[[3 Sollte das Internet stärker reguliert werden?#^1|^]]* _Als regelmäßiger Internetnutzer_ [[vorkommen|kommt]] _es mir_ [[gelegentlich]] _so vor, als würden manche Personen das Internet als einen_ [[rechtsfreien]] _Raum ansehen._ ^1

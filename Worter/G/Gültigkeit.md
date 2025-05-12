@@ -1,7 +1,7 @@
 ✅ 🔴 die [[Gültigkeit]], [ˈɡʏltɪçkaɪ̯t](https://youglish.com/pronounce/Gültigkeit/german)
 
 ---
-*[[C1-Lesen-T1-100-Text#^6|^]]* Die [[verschiedenen]] [[Sprechweisen]] der Jugendlichen lassen sich deshalb linguistisch gesehen nicht als Sprache(n) [[bezeichnen]] , weil unter Sprache ein [[Zeichenefüge]] mit eigener Grammatik, differenziertem Wortschatz und normativer [[Gültigkeit]] verstanden wird. ^6
+*[[C1-Lesen-T2-100-Text#^6|^]]* Die [[verschiedenen]] [[Sprechweisen]] der Jugendlichen lassen sich deshalb linguistisch gesehen nicht als Sprache(n) [[bezeichnen]] , weil unter Sprache ein [[Zeichenefüge]] mit eigener Grammatik, differenziertem Wortschatz und normativer [[Gültigkeit]] verstanden wird. ^6
 
 
 ---

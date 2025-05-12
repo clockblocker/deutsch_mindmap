@@ -3,7 +3,7 @@
 ---
 [[Forschungsteam]] [[entschlüsselt]] 2000 Jahre altes [[Erbgut]]
 
-*[[C1-Lesen-T1-101-Text#^8|^]]* Vergleiche des rekonstruierten [[Erbguts]] mit Genomen in verschiedenen Gen-Datenbanken ergaben, dass der Mann zu 30,5 Prozent Gene aus der iranischen Jungsteinzeit und zu 51,6 Prozent Gene aus der anatolischen Jungsteinzeit in sich trug. ^8
+*[[C1-Lesen-T2-101-Text#^8|^]]* Vergleiche des rekonstruierten [[Erbguts]] mit Genomen in verschiedenen Gen-Datenbanken ergaben, dass der Mann zu 30,5 Prozent Gene aus der iranischen Jungsteinzeit und zu 51,6 Prozent Gene aus der anatolischen Jungsteinzeit in sich trug. ^8
 
 
 ---

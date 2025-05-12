@@ -1,1 +1,1 @@
-[[mittel]], [[Werkzeug]]
+[[mittel]], [[Werkzeug]], [[Küchenutensil]]

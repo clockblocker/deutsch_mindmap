@@ -38,4 +38,4 @@ Zu+infinifive: [[zu erwarten]]
 
 
 
-, [[bedürfen]], [[erwartungsgemäß]], [[bevorstehen]]
+, [[bedürfen]], [[erwartungsgemäß]], [[bevorstehen]], [[vorausahnen]]

@@ -14,7 +14,7 @@ durch einen mehrere 100 Grad Celsius heißen pyroklastischen Strom – ein (4) _
 
 
 *[[Lesen-Teil-1-Nomen]]*  
-*[[C1-Lesen-T1-101-Text#^11|^]]* Bei ihr war der (8) ___ an genetischem Material jedoch für weitere Analysen zu gering. ^11
+*[[C1-Lesen-T2-101-Text#^11|^]]* Bei ihr war der (8) ___ an genetischem Material jedoch für weitere Analysen zu gering. ^11
 
 *a) [[Ergebnis]] \ result**  
 *b) [[Erlös]] \ proceeds*  
@@ -24,7 +24,7 @@ durch einen mehrere 100 Grad Celsius heißen pyroklastischen Strom – ein (4) _
 ---
 
 Lesen-Teil-1-Nomen]]*  
-*[[C1-Lesen-T1-102-Text#^5|^]]* Nach wie vor ist nicht eindeutig geklärt, woher die (2) ___ ursprünglich stammt. ^5
+*[[C1-Lesen-T2-102-Text#^5|^]]* Nach wie vor ist nicht eindeutig geklärt, woher die (2) ___ ursprünglich stammt. ^5
 
 *a) Art \ kind*  
 *b) [[Eigenart]]  

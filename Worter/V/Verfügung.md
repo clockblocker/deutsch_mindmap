@@ -1,10 +1,15 @@
-[[zur Verfügung stellen]]
+---> [[⛪ Ingredient-Plazt]] <---
 
+---
 📜 🔴 die [[Verfügung]], [fɛɐ̯ˈfyːɡʊŋ](https://youglish.com/pronounce/Verfügung/german)
 die [[Verfügungen]]
 
 ---
-1. Ein Auto, das einem vom Arbeitgeber zur [[Verfügung]] gestellt wird: der Dienstwagen
+Ein Auto, das einem vom Arbeitgeber zur [[Verfügung]] gestellt wird: der Dienstwagen
+
+*[[C1-Lesen-T2-101-Text#^12|^]]* Die Wissenschaftler fanden dabei [[heraus]], dass [[diejenigen]] Kinder viel kreativer waren, die weniger Spielzeug zur [[Verfügung]] hatten. ^12
+
+[[zur Verfügung stellen]]
 
  *[[Atom#^8|^]]* Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]] ^8
 

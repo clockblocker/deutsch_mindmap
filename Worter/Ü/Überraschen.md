@@ -29,4 +29,4 @@ Morpheme: [[Worter/Ü/über]][[rasch]][[en]]
 | Sie       | [[überraschen]]      | [[überraschten]]      | [[überraschen Sie]] | [[überraschen]]      | [[überraschten]]        |
 
 Partizip I: [[überraschend]], Partizip II: [[überrascht]]
-[[überraschen]] - [[Worter/Ü/über]] = [[raschen]], [[Deutschland]], [[beeindrucken]]
+[[überraschen]] - [[Worter/Ü/über]] = [[raschen]], [[Deutschland]], [[beeindrucken]], [[vorausahnen]]

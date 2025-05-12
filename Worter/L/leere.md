@@ -1,1 +1,4 @@
-, [[leer]], [[Zeug]], [[Dichte]], [[Ausstattung]], [[Einrichtung]], [[Überfüllung]], [[Überbelegung]]
+--> [[⛪ Ingredient-Plazt]] <---
+
+--> [[⛪ Ingredient-Plazt]] <---
+

@@ -1,13 +1,17 @@
+--> [[⛪ Ingredient-Plazt]] <---
+
 🏢 🔴 die [[Einrichtung]], [ˈaɪ̯nˌʁɪçtʊŋ](https://youglish.com/pronounce/Einrichtung/german)
 die [[Einrichtungen]]
 
 ---
-, [[Behörde]], [[Gerät]], [[Amt]], [[einrichten]], [[Anlage]], [[Ausstattung]]
+b) Es sollten mehr [[Einrichtung]]en für Kinder [[gebaut]] werden.  
+ 
 
 ---
 = [[Ausstattung]], [[Mobiliar]], [[Institution]] | [[Gründung]], [[Errichtung]]
 ≈ [[Möbel]], [[Inventar]], [[Apparatur]] | [[Aufbau]], [[Etablierung]]
 ≠ [[Leere]], [[Unordnung]] | [[Zerstörung]], [[Auflösung]]
+ [[Behörde]], [[Gerät]], [[Amt]], [[einrichten]], [[Anlage]], [[Ausstattung]]
 
 ---
 facility, institution, furnishing | establishment, setup

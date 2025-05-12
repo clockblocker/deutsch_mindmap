@@ -53,6 +53,27 @@
 [[überflüssig]] *(superfluous; more emotional or stylistic)*
 [[entbehrlich]] *(dispensable; rarely used but elegant)*
 [[wertlos]] / [[nutzlos]] *(worthless, valueless)*
-    - 
 [[unnötig]] *(not needed; common and direct)*
 [[egal]] *(doesn’t matter; lowest rhetorical weight)*
+
+
+---
+#### 🌀 Tiefenbehandlung – Depth / Thoroughness of Attention
+
+- **🧠 Deep / Thorough**
+	- [[gründlich]] *(thorough)*
+	- [[ausführlich]] *(detailed, comprehensive)*
+	- [[sorgsam]] *(careful, conscientious)*
+	- [[tiefgründig]] *(deep, thoughtful)*
+	- [[nachdenklich]] *(reflective)*
+	- [[ernst]] *(serious — tonal)*
+
+- **📉 Shallow / Cursory**
+	- [[flüchtig]] *(fleeting, quick glance)*
+	- [[oberflächlich]] *(superficial)*
+	- [[unaufmerksam]] *(inattentive)*
+	- [[schlampig]] *(sloppy, careless)*
+
+- **⚙️ Foundational Conceptual**
+	- [[grundlegend]] *(foundational)*
+	- [[zugrundeliegende]] *(underlying)*

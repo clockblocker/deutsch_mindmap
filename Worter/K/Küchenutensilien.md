@@ -1,1 +1,1 @@
-, [[Kochgeschirr]]
+[[Küchenutensil]]

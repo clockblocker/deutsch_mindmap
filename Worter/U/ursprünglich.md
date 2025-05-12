@@ -1,7 +1,7 @@
 ursprünglich, [ʊrˈʃpʁʊŋlɪç], nicht [[abgeleitet]]
 
 ---
-*[[C1-Lesen-T1-102-Text#^5|^]]* Nach wie vor ist nicht [[eindeutig]] geklärt, woher die (2) [[Eigenart]] [[ursprünglich]] stammt. ^5
+*[[C1-Lesen-T2-102-Text#^5|^]]* Nach wie vor ist nicht [[eindeutig]] geklärt, woher die (2) [[Eigenart]] [[ursprünglich]] stammt. ^5
 
 
 Also bedeutet **“weihnachten”** wörtlich **“heilige nächte”**, weil das fest [[ursprünglich]] als eine zeit der [[geweih­ten]]/[[gesegneten]] Nächte [[galt]]. Es hat [[wurzeln]] in alten germanischen und christlichen Traditionen.

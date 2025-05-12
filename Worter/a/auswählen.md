@@ -4,6 +4,8 @@
 *[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^4|^]]* Die Frage, nach welchen Kriterien man „seinen“ neuen Arbeitsplatz [[auswählt]], ist dabei nicht immer so einfach zu beantworten. ^4
 
 
+Was für Spielzeug sollten Eltern [[auswählen]]
+
 ---
 = [[aussuchen]], [[selektieren]], [[wählen]]
 ≈ [[bestimmen]], [[entscheiden]], [[auserwählen]], [[vorziehen]]

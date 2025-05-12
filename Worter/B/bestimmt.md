@@ -4,6 +4,8 @@
 ---
 Ich bin mir sicher, das Bild wird [[bestimmt]] gut.
 
+[[Gegenstände]], die das Kind in eine [[bestimmte]] [[Laufbahn]] [[steuern]].  
+
 • “zu + infinitiv” → [[einfaches]] Infinitiv-Konstrukt nach [[bestimmten]] Wörtern
 
 1. Wer [[bestimmen|bestimmt]] in Deutschland die [[Schulpolitik]]? (83%)

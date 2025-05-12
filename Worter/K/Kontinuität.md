@@ -1,1 +1,1 @@
-, [[ununterbrochen]], [[Wende]]
+, [[ununterbrochen]], [[Wende]], [[Dauer]]

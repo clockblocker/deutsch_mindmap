@@ -3,7 +3,10 @@
 ---
 Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind.
 
-*[[C1-Lesen-T1-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15
+*[[C1-Lesen-T2-101-Text#^14|^]]* [[Fehlten]] aus dem Spielzeugangebot der anderen Gruppe [[plötzlich]] mehrere Spiele, arrangierten sich die Kinder schnell mit dem [[übriggebliebenen]] Spielzeug und wurden kreativer und sogar sozialer: Sie teilten sich das Spielzeug, obwohl es während der Zeit des [[Übergangebot]]s [[ständig]] [[Streitereien]] gab. ^14
+
+
+*[[C1-Lesen-T2-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15
 
 
 •	Arbeitsmaterialien [[fehlen]] oder sind [[veraltet]]
@@ -103,4 +106,4 @@ N: das [[fehlen]], -
 A: das [[fehlen]], -
 G: des [[Fehlens]], -
 D: dem [[fehlen]], -
-#Neuter , [[abwesend]], [[Präsenz]], [[belaufen]], [[Bestand]], [[existieren]], [[ungenügen]], [[teilnehmen]]
+#Neuter , [[abwesend]], [[Präsenz]], [[belaufen]], [[Bestand]], [[existieren]], [[ungenügen]], [[teilnehmen]], [[übrigbleiben]]
