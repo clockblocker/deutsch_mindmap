@@ -2,7 +2,8 @@ der [[Laden]] - store
 [[laden]] + Akk/Dat, [ˈlaːdn̩], [[lud]] , haben [[geladen]]
 
 ---
-Man kann zum Beispiel das Fahrrad statt des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, [[anstatt]] in modischen [[Geschäften]] ständig [[Neues]] zu [[erwerben]].
+*[[001-C1-Schreiben-T1#^3|^]]* Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]. ^3
+
 
 Eigentlich [[versteht]] Uli viel von Computern, aber hier ist er wirklich [[ratlos]]. Also bringt er den [[Rechner]] zurück in den [[Laden]]. 
 
@@ -38,4 +39,4 @@ Partizip I: [[ladend]], Partizip II: [[geladen]]
 [[laden]] - [[la]] = [[d]]en, [[abfeuern]], [[Aufrufen]]
 
 
-#Maskulin , [[Spielzeuggeschäft]]
+#Maskulin , [[Spielzeuggeschäft]], [[Boutique]], [[herunterladen]]

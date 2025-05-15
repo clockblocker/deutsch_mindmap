@@ -26,4 +26,4 @@ subordinate, secondary, junior
 Adjektive: [[nachrangig]], [[nachrangiger]], [[nachrangigst]]
 
 ---
-[[nachrangiger]], [[nachrangiges]], [[nachrangige]], [[nachrangigen]], [[nachrangigem]], [[nachrangigerer]], [[nachrangigeres]], [[nachrangigere]], [[nachrangigeren]], [[nachrangigerem]], [[nachrangigster]], [[nachrangigstes]], [[nachrangigste]], [[nachrangigsten]], [[nachrangigstem]]
+[[nachrangiger]], [[nachrangiges]], [[nachrangige]], [[nachrangigen]], [[nachrangigem]], [[nachrangigerer]], [[nachrangigeres]], [[nachrangigere]], [[nachrangigeren]], [[nachrangigerem]], [[nachrangigster]], [[nachrangigstes]], [[nachrangigste]], [[nachrangigsten]], [[nachrangigstem]], [[zweitrangig]]

@@ -14,7 +14,7 @@ monetary, financial
 денежный, финансовый
 
 ---
-[[Worter/G/Geld]], [[geldwert]], [[geldgierig]], [[geldlos]]
+[[Worter/G/Geld]], [[Geldwert]], [[geldgierig]], [[geldlos]]
 
 ---
 [[Worter/G/Geld]]|[[lich]]

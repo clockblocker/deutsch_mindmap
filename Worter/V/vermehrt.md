@@ -1,2 +1,3 @@
 , [[Weniger]]
 ➕ [[vermehren]]
+, [[Vermehrung]]

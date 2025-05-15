@@ -27,4 +27,4 @@ A: den [[Sprössling]], die [[Sprösslinge]]
 G: des [[Sprösslings]], der [[Sprösslinge]]
 D: dem [[Sprössling]], den [[Sprösslingen]]
 
-#Maskulin 
+#Maskulin , [[Säugling]], [[Setzling]]

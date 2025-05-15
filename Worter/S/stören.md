@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 🚫 [[stören]] + Akk, [ˈʃtøːʁən]
 [[störte]]  

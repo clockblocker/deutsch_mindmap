@@ -1,2 +1,2 @@
 
-, [[weichen]], [[weich]]
+, [[weichen]], [[weich]], [[männlich]]

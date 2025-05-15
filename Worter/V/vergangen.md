@@ -1,11 +1,10 @@
 ---> ⏱️ [[Temporal-Zeitpunkt]] <---
 
-
 vergangen, [fɛɐ̯ˈɡaŋən]
 nicht [[zukünftig]]
 
 ---
-In den [[vergangenen]] zehn Jahren wurden nahezu jeden Sommer neue Temperaturrekorde verzeichnet; mittlerweile ist die Zahl der Hitzewellen und Waldbrände deutlich gestiegen.
+*[[001-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
 
 
 Meine Großmutter [[erzählte]] mir oft [[Geschichten]] über eine längst [[vergangene]] Zeit, von einer Zeit des [[Friedens]].

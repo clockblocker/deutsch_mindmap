@@ -43,4 +43,4 @@ D: der [[Bedingung]], den [[Bedingungen]]
 #Feminin 
 
 
-, [[Rahmenbedingung]], [[Sachzwang]], [[Arbeitsbedingung]]
+, [[Rahmenbedingung]], [[Sachzwang]], [[Arbeitsbedingung]], [[unabdingbar]]

@@ -23,4 +23,4 @@ D: der [[Erkenntnis]], den [[Erkenntnissen]]
 
 ---
 [[erkennen]], [[erkennen]] (untrennbar), [[ernst]], [[kenntnisreich]], [[spontanen]]
-, [[erkennbar]], [[Einblick]], [[Information]]
+, [[erkennbar]], [[Einblick]], [[Information]], [[Auffassung]]

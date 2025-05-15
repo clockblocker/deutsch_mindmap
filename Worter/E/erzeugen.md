@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 ⚙️ [[erzeugen]], [ɛɐ̯ˈt͡sɔɪ̯ɡən](https://youglish.com/pronounce/erzeugen/german) | [[erzeugte]], haben [[erzeugt]]
 

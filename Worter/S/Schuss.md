@@ -1,1 +1,1 @@
-, [[Kick]], [[Schussradius]]
+, [[Kick]], [[Schussradius]], [[Zuschuss]]

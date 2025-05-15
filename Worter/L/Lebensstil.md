@@ -1,7 +1,10 @@
 🧘 🔵 der [[Lebensstil]], [ˈleːbn̩sˌʃtiːl](https://youglish.com/pronounce/Lebensstil/german)
 
 ---
-* Nennen Sie andere Möglichkeiten für einen [[ausgewogenen]] [[Lebensstil]].
+*[[000-C1-Schreiben-T1#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt sich die [[Frage]], wie man einen [[ausgewogenen]] [[Lebensstil]] mit sozialen Medien im [[Alltag]] [[erreichen]] kann. ^9
+
+
+Nennen Sie andere Möglichkeiten für einen [[ausgewogenen]] [[Lebensstil]].
 
 ---
 = [[Lebensweise]], [[Lifestyle]]

@@ -1,1 +1,1 @@
-, [[Einkaufsverhalten]]
+, [[Einkaufsverhalten]], [[Konsum]]

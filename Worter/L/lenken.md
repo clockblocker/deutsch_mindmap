@@ -3,6 +3,8 @@
 ---
 c) Man soll das [[Interesse]] des Kindes auch auf [[andere]] Spiele [[lenken]].
 
+a) bewies, dass Gene [[gelenkt]] werden können.  
+
 ---
 [[ablenken]] - [[ab]] = [[lenken]] / to distract, to divert
 

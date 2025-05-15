@@ -3,6 +3,9 @@
 am [[freiesten]]
 
 ---
+*[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]. ^13
+
+
 ANNA: Du hast doch ein [[freies]] Zimmer! Bitte.
 
 122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)

@@ -3,6 +3,8 @@
 ---
 Midorima to Taiga: Aber unterschätz mich nicht
 
+0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]. ✅ a
+
 *[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderungen]] [[unterschätzt]] werden ^32
 
 

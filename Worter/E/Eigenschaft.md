@@ -5,6 +5,8 @@ die [[Eigenschaften]]
 [[2 Unter Druck nach oben#^16|(q)]] Auch bei den wichtigsten persönlichen [[Eigenschaften]] der [[Anwärter]] auf [[Spitzenpositionen]] [[fordern]] die Firmen [[vorrangig]] [[weiche]] [[Werte]], [[sogenannte]] Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikationsstärke liegen weit vorn. ^16
 
 
+###### Welche [[Eigenschaft]] macht das [[Kiriholz]] in der [[Baubranche]] so beliebt?
+
 *[[C1-Lesen-T2-101-Text#^10|^]]* Das Forscherteam [[beschränkte]] sich nicht auf genetische Analysen, sondern [[untersuchte]] auch anatomische [[Eigenschaften]] des Pompejaners. ^10
 
 

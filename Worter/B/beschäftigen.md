@@ -67,4 +67,4 @@ Zu+infinitive: [[zu beschäftigen]]
 ---
 [[Beschäftigung]], [[Beschäftigter]], [[Beschäftigte]], [[Vollbeschäftigung]], [[Arbeitsbeschäftigung]], [[selbstbeschäftigt]]
 
-, [[Gastarbeiter]], [[anwerben]]
+, [[Gastarbeiter]], [[anwerben]], [[Hauptbeschäftigung]]

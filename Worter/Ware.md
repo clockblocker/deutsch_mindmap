@@ -2,6 +2,9 @@
 die [[Waren]]
 
 ---
+*[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den Kunstgegenstand [[verlangen]] kann. ^6
+
+
 *[[3 Sollte das Internet stärker reguliert werden?#^2|^]]* _Dazu zählen neben dem_ [[Finanzwesen]] _auch Webseiten von_ [[Gemeinden]], _Firmen und alles, bei dem es um An- und Verkauf von_ [[Waren]] _und deren Bezahlung geht, wie z. B. eBay._ ^2
 
 

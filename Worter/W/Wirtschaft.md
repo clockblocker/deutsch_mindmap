@@ -39,4 +39,4 @@ D: der [[Worter/W/Wirtschaft]], den [[Wirtschaften]]
 , [[Wirtschaftsform]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]]
 
 #Feminin
-, [[Finanzwesen]], [[Restaurant]]
+, [[Finanzwesen]], [[Restaurant]], [[Finanzbereich]]

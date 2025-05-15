@@ -1,1 +1,1 @@
-, [[gering]]
+, [[gering]], [[Geringschätzung]]

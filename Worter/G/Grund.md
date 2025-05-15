@@ -2,6 +2,8 @@
 die [[Gründe]]
 
 ---
+[[Aus diesem Grund]]
+
 *[[07-C1-Schreiben-T2-M#^4|^]]* * Zeigen Sie Verständnis dafür, dass aus finanziellen/personellen [[Gründen]] eine [[längere]] [[Einführung]] in neue [[Softwareprogramme]] schwierig sein kann. ^4
 
 
@@ -35,4 +37,4 @@ D: dem [[Grund]], den [[Gründen]]
 
 , [[zugrunde]]
 
-#Maskulin , [[Wasseroberfläche]]
+#Maskulin , [[Wasseroberfläche]], [[Antriebsfaktor]]

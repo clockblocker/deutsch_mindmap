@@ -6,7 +6,7 @@
 2) [[durchgehend]] *(consistently across whole)*
 3) [[weitgehend]] *(for the most part; near-total)*
 4) [[flächendeckend]] *(nationwide / system-wide)*
-
+5) [[ausnahmslos]] *(без исключения)*
 #### 🟡 [[größtenteils]] *(mostly / to a large extent)*
 1) [[größtenteils]] *(majority portion)*
 2) [[überwiegend]] *(predominantly)*

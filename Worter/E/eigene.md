@@ -4,6 +4,10 @@ nicht [[fremd]]
 ---
 NIC: Dann können wir jetzt unsere [[eigene]] süße Musik spielen, Babe …  
 
+26 [[Eigenen]] Mitarbeitenden wird die Chance zur Weiterbildung genommen.  
+
+*[[C1-Lesen-T2-103-Text#^4|^]]* [[Nach]] [[eigenen]] [[Angaben]] ist ihr Unternehmen We Grow Marktführer unter den europäischen Produzenten. ^4
+
 
 ---
 Synonyme: [[persönlich]], [[individuell]], [[selbst]], [[spezifisch]], [[eigen]]

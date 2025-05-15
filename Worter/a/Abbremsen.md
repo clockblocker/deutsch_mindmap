@@ -1,1 +1,1 @@
-, [[Richtungsänderung]], [[verlangsamen]]
+, [[Richtungsänderung]], [[verlangsamen]], [[bremsen]]

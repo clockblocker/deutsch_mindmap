@@ -1,1 +1,1 @@
-, [[Frucht]]
+, [[Frucht]], [[fruchtbar]]

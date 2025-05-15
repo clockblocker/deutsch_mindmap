@@ -1,2 +1,2 @@
 , [[bewusst]], [[sorgsam]]
-, [[unaufmerksam]]
+, [[unaufmerksam]], [[ungewogen]]

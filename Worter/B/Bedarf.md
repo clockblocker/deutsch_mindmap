@@ -1,7 +1,8 @@
  🔵 der [[Bedarf]], [bəˈdaʁf](https://youglish.com/pronounce/Bedarf/german)
 
 ---
--
+###### 12 [[Weshalb]] ist die [[Nachfrage]] nach neuen [[Hölzern]] so [[hoch]]?
+a) Das [[Angebot]] an Holz kann den [[Bedarf]] nicht [[decken]].  
 
 ---
 = [[Notwendigkeit]], [[Erfordernis]], [[Anforderung]]

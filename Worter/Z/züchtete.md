@@ -1,1 +1,1 @@
-, [[züchten]]
+, [[züchten]], [[gedeihen]]

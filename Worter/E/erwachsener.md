@@ -1,1 +1,1 @@
-, [[erwachsen]], [[Jugendliche]], [[Bursche]], [[Grundschulkind]]
+, [[erwachsen]], [[Jugendliche]], [[Bursche]], [[Grundschulkind]], [[Säugling]]

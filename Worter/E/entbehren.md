@@ -1,4 +1,4 @@
 , [[brauchen]], [[unentbehrlich]], [[hungern]]
 , [[zusammenbekommen]]
 , [[bekommen]]
-, [[mangeln]], [[bedürfen]], [[benötigen]], [[fehlen]], [[verzichten]]
+, [[mangeln]], [[bedürfen]], [[benötigen]], [[fehlen]], [[verzichten]], [[erfordern]]

@@ -32,4 +32,4 @@ Verwandte Ausdrücke:
 [[manchmal]] ≠ [[nie]]
 [[manchmal]] ≈ [[selten]]
 
-[[manchmalig]], [[häufig]], [[teilweise]], [[stellenweise]]
+[[manchmalig]], [[häufig]], [[teilweise]], [[stellenweise]], [[ausnahmslos]]

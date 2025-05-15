@@ -1,2 +1,2 @@
 , [[reich]]
-, [[Auftragslage]]
+, [[Auftragslage]], [[Zahlungskräftig]]

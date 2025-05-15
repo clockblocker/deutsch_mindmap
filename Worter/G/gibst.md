@@ -1,1 +1,1 @@
-, [[geben]], [[freigeben]], [[angeben]]
+, [[geben]], [[freigeben]], [[angeben]], [[weitergeben]]

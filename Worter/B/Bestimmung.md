@@ -1,1 +1,1 @@
-, [[bestimmt]], [[Gesetz]], [[festlegen]], [[Auszählung]], [[bestimmen]], [[Festlegung]], [[Garantiebestimmung]], [[Bedingung]], [[Verfügung]], [[Herkunft]], [[verbot]], [[Regelung]], [[Ausnahmeregelung]], [[Schätzung]]
+, [[bestimmt]], [[Gesetz]], [[festlegen]], [[Auszählung]], [[bestimmen]], [[Festlegung]], [[Garantiebestimmung]], [[Bedingung]], [[Verfügung]], [[Herkunft]], [[verbot]], [[Regelung]], [[Ausnahmeregelung]], [[Schätzung]], [[Regulierung]]

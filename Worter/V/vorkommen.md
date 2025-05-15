@@ -33,4 +33,4 @@ PI: [[vorkommend]], PII: [[vorgekommen]], Zu+inf: [[vorzukommen]]
 [[vorkommen]] - [[vor]] = [[kommen]] / to happen, to occur, to exist
 
 ---
-[[Vorkommen]], [[Vorkommnis]], [[vorkommend]], [[hervorkommend]], [[aufkommen]], [[stattfinden]], [[rechtsfrei]]
+[[Vorkommen]], [[Vorkommnis]], [[vorkommend]], [[hervorkommend]], [[aufkommen]], [[stattfinden]], [[rechtsfrei]], [[anfallen]]

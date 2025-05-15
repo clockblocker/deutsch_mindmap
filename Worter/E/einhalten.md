@@ -1,3 +1,4 @@
+ --> [[Ingredient-Add-Remove]] <--
 ---> [[Ingredient-Einhaltung]] <---
 ---> [[Ingredient-Pflege]] <---
 🕰️ [[einhalten]], [ˈaɪ̯nˌhaltən] | [[hielt ein]], haben [[eingehalten]]
@@ -36,4 +37,4 @@ PI: [[einhaltend]], PII: [[eingehalten]], Zu+inf: [[einzuhalten]]
 [[einhalten]] - [[ein]] = [[halten]] / to observe, to comply with, to keep
 
 ---
-[[Einhaltung]], [[Einhalten]], [[Haltung]], [[Vorschrift]], [[Worter/R/Regel]], [[versäumen]]
+[[Einhaltung]], [[Einhalten]], [[Haltung]], [[Vorschrift]], [[Regel]], [[versäumen]]

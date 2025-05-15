@@ -2,6 +2,8 @@
 die [[Einkommen]]
 
 ---
+*[[C1-Lesen-T4-100-Text#^20|^]]* Wenn da der Partner oder die Partnerin nicht durch ein [[geregeltes]] [[Einkommen]] helfen kann, ist ein Überleben fast unmöglich. ^20
+
 
 291. Warum muss man in Deutschland bei der [[Steuererklärung]] [[aufschreiben]], ob man zu einer Kirche gehört oder nicht? Weil … (97%)
 	- [x] es eine [[Kirchensteuer]] gibt, die an die [[Einkommen]]- und [[Lohnsteuer]] [[geknüpft]] ist.
@@ -27,4 +29,4 @@ D: dem [[Einkommen]], den [[Einkommen]]
 ---
 [[einkommen]], [[einkommensteuerpflichtig]], [[einkommensabhängig]], [[Einkommenssteuer]], [[Nominallohn]]
 
-#Neuter , [[Bruttojahresgehalt]], [[Erwerb]], [[Verdienst]]
+#Neuter , [[Bruttojahresgehalt]], [[Erwerb]], [[Verdienst]], [[Provision]]

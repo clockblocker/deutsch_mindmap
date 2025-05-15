@@ -36,4 +36,4 @@ sie, [[belegen]], [[belegten]], [[belegen]], [[belegten]], [[belegen]]
 Adjektive: [[belegend]], [[belegender]], [[belegendst]]
 
 ---
-[[belegender]], [[belegendes]], [[belegende]], [[belegenden]], [[belegendem]], [[belegenderer]], [[belegenderes]], [[belegendere]], [[belegenderen]], [[belegenderem]], [[belegendster]], [[belegendstes]], [[belegendste]], [[belegendsten]], [[belegendstem]]
+[[belegender]], [[belegendes]], [[belegende]], [[belegenden]], [[belegendem]], [[belegenderer]], [[belegenderes]], [[belegendere]], [[belegenderen]], [[belegenderem]], [[belegendster]], [[belegendstes]], [[belegendste]], [[belegendsten]], [[belegendstem]], [[ausweisen]]

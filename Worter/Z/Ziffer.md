@@ -1,1 +1,1 @@
-, [[Zahl]]
+, [[Zahl]], [[Entzifferung]], [[entziffern]]

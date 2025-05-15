@@ -3,6 +3,10 @@
 ---
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
+30 Das [[Desinteresse]] am Sparen [[betrifft]] nicht nur den [[Finanzbereich]].
+
+a) Die [[Betroffenen]] haben im Alter [[häufig]] Herzprobleme und Diabetes. 
+
 *[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren. ^16
 
 

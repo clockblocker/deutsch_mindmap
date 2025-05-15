@@ -1,1 +1,1 @@
-, [[Gewicht]]
+, [[Gewicht]], [[Übergewichtigkeit]], [[Fettleibigkeit]]

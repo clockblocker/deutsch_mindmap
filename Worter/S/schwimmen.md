@@ -1,1 +1,1 @@
-, [[tauchten]], [[paddeln]], [[gleiten]], [[Schwimmbad]]
+, [[tauchten]], [[paddeln]], [[gleiten]], [[Schwimmbad]], [[Ausdauertraining]]

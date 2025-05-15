@@ -1,1 +1,1 @@
-, [[Welt]]
+, [[Welt]], [[Weltall]]

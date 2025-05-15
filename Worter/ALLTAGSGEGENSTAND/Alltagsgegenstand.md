@@ -1,1 +1,1 @@
-, [[Alltag]]
+, [[Alltag]], [[Kunstgegenstand]]

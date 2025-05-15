@@ -1,1 +1,1 @@
-, [[Grünsteuer]]
+, [[Grünsteuer]], [[Fördermittel]], [[Zuschuss]], [[Förderbetrag]]

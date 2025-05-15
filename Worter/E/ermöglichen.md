@@ -1,5 +1,5 @@
 ---> ✅ [[Ingredient-erlauben-verbieten]] <---
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 ---> [[Management-Coordination-Allocation]] <---
 
 🔓 [[ermöglichen]], [ɛɐ̯ˈmøːɡlɪçən] | [[ermöglichte]], haben [[ermöglicht]]

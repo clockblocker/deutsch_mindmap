@@ -1,2 +1,2 @@
 , [[achten]], [[genießen]], [[bewundern]], [[respektieren]], [[schmähen]], [[verabscheuen]]
-, [[schnüffeln]], [[verlieben]], [[übergehen]]
+, [[schnüffeln]], [[verlieben]], [[übergehen]], [[verlangen]]

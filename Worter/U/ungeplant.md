@@ -1,1 +1,1 @@
-, [[zufällig]], [[spontan]]
+, [[zufällig]], [[spontan]], [[terminlich]]

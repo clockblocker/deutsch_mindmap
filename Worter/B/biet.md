@@ -1,1 +1,1 @@
-, [[verbieten]], [[anbieten]], [[Gebiet]]
+, [[verbieten]], [[anbieten]], [[Gebiet]], [[Anbieter]]

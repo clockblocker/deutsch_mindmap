@@ -1,7 +1,7 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 ---> 📈 [[Grad-Vergleich]] <---
 
-🏔️ [[steigen]] + Dat/Akk, [ˈʃtaɪ̯gən]
+🏔️ [[steigen]],  [ˈʃtaɪ̯gən]
 [[stieg]], [[stiegen]]
 sein [[gestiegen]]
 
@@ -9,10 +9,14 @@ sein [[gestiegen]]
 *[[100-C1-Schreiben-T2#^2|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeiten]] nicht alle [[Bedürfnisse]] [[berücksichtigen]] kann - insbesondere, da die [[Besucherzahl]] zum [[Jahresende]] deutlich [[gestiegen]] ist. ^2
 
 
-Nicht nur würde die [[alltäglich]]e [[Mobilität]] ohne Autos erheblich erschwert, sondern auch die [[Lebenshaltungskosten]] würden durch [[sogenannte]] „[[Grünsteuern]]“ [[steigen]].
+*[[000-C1-Schreiben-T1#^1|^]]* In den letzten fünf [[Jahrzehnten]] ist die [[Zahl]] der [[Internetnutzer]]:innen [[exponentiell]] [[gestiegen]]. ^1
 
 
-In den vergangenen zehn Jahren wurden [[nahezu]] jeden Sommer neue [[Temperaturrekorde]] [[verzeichnet]], und [[sowohl]] die [[Zahl]] der [[Hitzewellen]] als auch der [[Waldbrände]] ist deutlich [[gestiegen]]. 
+*[[001-C1-Schreiben-T1#^5|^]]* Nicht nur würde die [[alltägliche]] Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuer]]n“ [[steigen]] – [[etwa]] in Form höherer [[Energiepreise]], [[kostspieliger]] recycelbarer [[Verpackungen]] oder teurer Bio-[[Lebensmittel]]. ^5
+
+
+*[[001-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
+
 
 110 Millionen Besucher kommen im Jahr, Tendenz [[steigend]].
 
@@ -56,4 +60,4 @@ Partizip I: [[steigend]], Partizip II: [[gestiegen]]
 [[steigen]] - [[en]] = [[steig]]
 , [[versteigen]], [[steigende]], [[klettern]], [[s1 e1]]
 , [[umsteigen]]
-, [[aussteigen]], [[Aufstieg]], [[absinken]], [[Anstieg]], [[Grünsteuer]]
+, [[aussteigen]], [[Aufstieg]], [[absinken]], [[Anstieg]], [[Grünsteuer]], [[Preisanstieg]], [[Umstieg]]

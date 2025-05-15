@@ -4,20 +4,146 @@
     "type": "split",
     "children": [
       {
-        "id": "84c5d0b4612c1cbe",
+        "id": "e6d350de37d9e725",
         "type": "tabs",
+        "dimension": 76.52582159624414,
         "children": [
           {
-            "id": "3d064ef1e0ff8910",
+            "id": "084cd07b2217ce47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/009-C1-Schreiben-T2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "009-C1-Schreiben-T2"
+            }
+          },
+          {
+            "id": "eb565adf78d323dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 2/0-T2-Schreiben-Ubungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-T2-Schreiben-Ubungen"
+            }
+          },
+          {
+            "id": "76b8eaaf9191ddca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/0010-C1-Schreiben-T2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0010-C1-Schreiben-T2"
+            }
+          },
+          {
+            "id": "c9ed7df699202f88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 2/0-T2-Schreiben-Ubungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-T2-Schreiben-Ubungen"
+            }
+          },
+          {
+            "id": "f48fe105ca3380eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 1/Texte/000-C1-Schreiben-T1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-C1-Schreiben-T1"
+            }
+          },
+          {
+            "id": "9f4933f9527ee95d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Lesen/C1-Lesen-Teil-2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-100/C1-Lesen-T2-100-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Lesen-T2-100-Text"
+            }
+          },
+          {
+            "id": "023154faa32ce488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Lesen/C1-Lesen-Teil-1/0-C1-Lesen-T1-Ubung-List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-C1-Lesen-T1-Ubung-List"
             }
           }
-        ]
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "3d434d9b08a9a564",
+        "type": "tabs",
+        "dimension": 23.474178403755868,
+        "children": [
+          {
+            "id": "90b3f43752291c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 1/Texte/000-C1-Schreiben-T1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000-C1-Schreiben-T1"
+            }
+          },
+          {
+            "id": "c3c4d457576c226e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 367.50271224975586
   },
   "right": {
     "id": "66459609b2a42235",
@@ -167,46 +293,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d064ef1e0ff8910",
+  "active": "023154faa32ce488",
   "lastOpenFiles": [
-    "C1 Lesen/C1-Lesen-Teil-1/0-Lesen-T1-Ubungen.md",
-    "C1 Lesen/C1-Lesen-Teil-2/Ubungen/С1-Lesen-T2-102/C1-Lesen-T2-102-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-1/Lochtype/Lesen-Teil-1-Verb.md",
-    "Worter/E/entfernen.md",
-    "C1 Lesen/C1-Lesen-Teil-2/Ubungen/С1-Lesen-T2-101/C1-Lesen-T2-101-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-2/0-Lesen-T2-Ubungen.md",
-    "Worter/A/Aufmerksamkeit.md",
-    "Worter/N/nachhaltiges.md",
-    "Worter/nachhaltig.md",
-    "Worter/pädagogisch.md",
-    "Worter/Gegenstände.md",
-    "Worter/G/Gegenstand.md",
-    "Worter/B/Bestimmte.md",
-    "Worter/B/bestimmt.md",
-    "Worter/L/Laufbahn.md",
-    "Worter/B/Bahn.md",
-    "Worter/S/Steuern.md",
-    "Worter/B/beitragen.md",
-    "Worter/Entfaltung.md",
-    "Worter/AUSWÄHLENDSTEM/auswählendstem.md",
-    "Worter/AUSWÄHLENDSTEM",
-    "Worter/AUSWÄHLENDSTEN/auswählendsten.md",
-    "Worter/AUSWÄHLENDSTEN",
-    "Worter/AUSWÄHLENDSTE/auswählendste.md",
-    "Worter/AUSWÄHLENDSTE",
-    "Worter/AUSWÄHLENDSTES/auswählendstes.md",
-    "Worter/AUSWÄHLENDSTES",
-    "Worter/AUSWÄHLENDSTER/auswählendster.md",
-    "Worter/AUSWÄHLENDSTER",
-    "Worter/AUSWÄHLENDEREM/auswählenderem.md",
-    "Worter/AUSWÄHLENDEREM",
-    "Worter/AUSWÄHLENDEREN/auswählenderen.md",
-    "Worter/AUSWÄHLENDEREN",
-    "Worter/AUSWÄHLENDERE",
-    "Worter/AUSWÄHLENDERES",
-    "Worter/AUSWÄHLENDERER",
-    "Anhänge/Pasted image 20250511162847.png",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301/C1-Lesen-T4-301-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301/C1-Lesen-T4-301-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301/C1-Lesen-T4-301-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-303/C1-Lesen-T4-303-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-303/C1-Lesen-T4-303-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-302/C1-Lesen-T4-302-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-303/C1-Lesen-T4-303-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-302/C1-Lesen-T4-302-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-302/C1-Lesen-T4-302-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-300/C1-Lesen-T4-300-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-300/C1-Lesen-T4-300-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-300/C1-Lesen-T4-300-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-303",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-302",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-300",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-203/C1-Lesen-T4-203-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-203/C1-Lesen-T4-203-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-203/C1-Lesen-T4-203-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-202/C1-Lesen-T4-202-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-202/C1-Lesen-T4-202-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-202/C1-Lesen-T4-202-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-201/C1-Lesen-T4-201-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-201/C1-Lesen-T4-201-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-201/C1-Lesen-T4-201-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-200/C1-Lesen-T4-200-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-200/C1-Lesen-T4-200-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-200/C1-Lesen-T4-200-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-203",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-202",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-201",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-200",
+    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2",
+    "C1 Lesen/C1-Lesen-Teil-4/0-C1-Lesen-T4-Ubung-List.md",
+    "C1 Lesen/C1-Lesen-Teil-2/0-C1-Hoehen-T2-Ubung-List.md",
+    "Anhänge/Pasted image 20250514073109.png",
+    "Anhänge/Pasted image 20250512100609.png",
     "Anhänge/Pasted image 20250511162708.png",
+    "Anhänge/Pasted image 20250512095424.png",
+    "Anhänge/Pasted image 20250511162847.png",
+    "Anhänge/Pasted image 20250512081738.png",
     "Anhänge/Pasted image 20250511162236.png",
     "Anhänge/Pasted image 20250511161628.png",
     "Anhänge/Pasted image 20250511123740.png"

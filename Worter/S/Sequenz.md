@@ -1,1 +1,1 @@
-[[Reihenfolge]][[Serie]], [[Reihe]], [[s1 e1]], [[Zeichenfolge]]
+[[Reihenfolge]][[Serie]], [[Reihe]], [[s1 e1]], [[Zeichenfolge]], [[Video]]

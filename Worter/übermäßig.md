@@ -4,6 +4,9 @@
 [[1 ADHD#^19|(q)]] ist unruhig oder [[übermäßig]] aktiv. ^19
 
 
+27 Die [[Vertreter]] des Staates [[befürworten]] den [[übermäßigen]] [[Konsum]].
+
+
 ---
 = [[exzessiv]], [[extrem]], [[unangemessen]]
 ≈ [[übertrieben]], [[übertrieben]], [[zu viel]], [[ausufernd]]

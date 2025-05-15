@@ -6,6 +6,8 @@
 *[[C1-Lesen-T2-102-Text#^6|^]]* Aber sicher ist: Sie [[vermehrt]] sich schneller als andere Spezies, frisst mehr und setzt sich [[notfalls]] zum Fressen in die [[pralle]] Sonne, ohne [[Schaden]] zu (3) [[nehmen]] . ^6
 
 
+c) [[vermehrt]] sich die Muskelmasse.
+
 ---
 = [[steigern]], [[erhöhen]], [[vervielfachen]]
 ≈ [[wachsen]], [[zunehmen]], [[ausweiten]]

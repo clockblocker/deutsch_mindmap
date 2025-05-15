@@ -1,1 +1,1 @@
-, [[Lösungsansatz]]
+, [[Lösungsansatz]], [[Methode]]

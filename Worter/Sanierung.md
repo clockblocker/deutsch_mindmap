@@ -25,4 +25,4 @@ D: der [[Sanierung]], den [[Sanierungen]]
 
 ---
 [[sanieren]], [[Sanierungsbedürftig]], [[Sanierungskosten]], [[Sanierungsmaßnahme]], [[sanierungsfähig]]
-, [[Stadtentwicklung]], [[Baustelle]]
+, [[Stadtentwicklung]], [[Baustelle]], [[Heilung]]

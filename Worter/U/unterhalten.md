@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 ---> [[Management-Coordination-Allocation]] <---
 
 🗣️ [[unterhalten]], [ˌʊntɐˈhaltn̩](https://youglish.com/pronounce/unterhalten/german) | [[unterhielt]], haben [[unterhalten]]

@@ -1,1 +1,1 @@
-, [[herstellen]]
+, [[herstellen]], [[Konsum]]

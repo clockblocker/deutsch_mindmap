@@ -1,8 +1,8 @@
-, [[Aufgabenerfüllung]], [[umsetzen]], [[Realisierung]]
 ⚙️ 🔴 die [[Umsetzung]], [ˈʊmˌzɛt͡sʊŋ](https://youglish.com/pronounce/Umsetzung/german)
 
 ---
-Auf der anderen Seite sind viele der festen Überzeugung, dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[einfach]]er gesagt alt getan ist.
+*[[001-C1-Schreiben-T1#^4|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher klimafreundlichen [[Handlungen]] im [[Alltag]] [[leichter]] gesagt als getan ist. ^4
+
 
 ---
 = [[Realisierung]], [[Implementierung]], [[Durchführung]]

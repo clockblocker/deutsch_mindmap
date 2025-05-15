@@ -1,1 +1,1 @@
-, [[verzichten]]
+, [[verzichten]], [[Verzicht]]

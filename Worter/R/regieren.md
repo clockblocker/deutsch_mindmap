@@ -34,4 +34,4 @@ PI: [[regierend]], PII: [[regiert]], Zu+inf: [[zuregieren]]
 [[Regierung]], [[Regent]], [[regierend]], [[Regierungszeit]], [[regierungsfähig]]
 
 [[beherrschen]], [[Regierung]], [[Bundesregierung]], [[regierend]], [[Regierungspartei]], [[Fürstentum]]
-, [[recht]], [[Regierungschef]], [[Staatsoberhaupt]], [[Stadtoberhaupt]]
+, [[recht]], [[Regierungschef]], [[Staatsoberhaupt]], [[Stadtoberhaupt]], [[vorherrschen]]

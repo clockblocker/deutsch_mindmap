@@ -4,6 +4,8 @@ die [[Deutungen]]
 ---
 Erinnerst du dich, wie ich Harry [[beigebracht]] habe, Löffel zu [[verbiegen]]? Wenn es so [[erschien]], als ob sie immer [[ahnen]] konnten, was du gerade [[dachtest]] — diese Technik nennt sich kalte [[Deutung]] oder cold reading
 
+a) Die Organisation und [[Deutung]] der Untersuchungen seien fraglich.  
+
 
 ---
 = [[Interpretation]], [[Erklärung]], [[Auslegung]]
@@ -23,4 +25,6 @@ G: der [[Deutung]], der [[Deutungen]]
 D: der [[Deutung]], den [[Deutungen]]  
 
 ---
-[[deuten]], [[deutlich]], [[bedeuten]], [[bedeutsam]], [[undeutlich]], [[eindeutig]]
+[[deuten]], [[deutlich]], [[bedeuten]], [[bedeutsam]], [[undeutlich]], [[eindeutig]], [[Entzifferung]]
+
+#Feminin

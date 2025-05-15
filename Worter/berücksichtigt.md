@@ -1,1 +1,1 @@
-🤔 [[berücksichtigen]], [[Städteplanung]]
+🤔 [[berücksichtigen]], [[Städteplanung]], [[Praktikabilität]]

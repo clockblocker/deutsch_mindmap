@@ -1,1 +1,1 @@
-, [[effizient]]
+, [[effizient]], [[unfruchtbar]], [[fruchtbar]]

@@ -1,1 +1,1 @@
-, [[breit]], [[schmale]], [[breiten]], [[weit und breit]], [[Fachrichtung]], [[Umfang]]
+, [[breit]], [[schmale]], [[breiten]], [[weit und breit]], [[Fachrichtung]], [[Umfang]], [[verbreitern]]

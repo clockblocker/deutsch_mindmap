@@ -1,1 +1,1 @@
-, [[Bank]], [[Finanzwesen]]
+, [[Bank]], [[Finanzwesen]], [[Finanzbereich]]

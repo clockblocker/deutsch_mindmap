@@ -5,6 +5,10 @@ haben [[angesprochen]]
 ---
 Endlich [[gelingt]] es Mona, sie [[anzusprechen]].
 
+###### Welche [[Vorzüge]] des [[Kiribaumes]] werden [[u.a.]] [[angesprochen]]?
+a) Er lässt sich leicht fällen.
+b) Sein [[Holz]] ist sehr robust.
+
 *[[04-C1-Schreiben-T2-M#^3|^]]* Obwohl Sie den [[Hundebesitzer]] schon [[mehrmals]] [[darauf]] [[angesprochen]] haben, hat sich bis jetzt nichts [[geändert]]. ^3
 
 
@@ -38,4 +42,4 @@ Morpheme: [[an]][[sprech]][[en]]
 | Sie | [[sprechen an]] | [[sprachen an]] | [[sprechen Sie an]] | [[sprechen an]] | [[sprächen an]] |
 
 Partizip I: [[ansprechend]], Partizip II: [[angesprochen]]
-[[ansprechen]] - [[an]] = [[Worter/S/sprechen]] // to address, to speak to, to approach, [[Anspruch]], [[Ansprechpartner]], [[umgehen]], [[anspruchsvoll]], [[Aufrufen]], [[thematisieren]]
+[[ansprechen]] - [[an]] = [[Worter/S/sprechen]] // to address, to speak to, to approach, [[Anspruch]], [[Ansprechpartner]], [[umgehen]], [[anspruchsvoll]], [[Aufrufen]], [[thematisieren]], [[verlangen]]

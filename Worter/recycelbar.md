@@ -1,7 +1,8 @@
 ♻️ [[recycelbar]], [ʁeˈsaɪ̯kl̩ˌbaːɐ̯](https://youglish.com/pronounce/recycelbar/german), ♻️ [[recyceln]] 
 
 ---
-Die Staatliche Regulierung kann sich zum Beispiel darauf beziehen, wie [[recycelbar]] Kleidung ist oder ob Plastik als Verpackungsmaterial verwendet werden darf.
+*[[001-C1-Schreiben-T1#^7|^]]* Außerdem kann [[staatliche]] [[Regulierung]] [[Unternehmen]] beim [[Umstieg]] auf [[recycelbar]]e [[Verpackungsmaterialien]] durch [[Fördermittel]] und [[steuerliche]] [[Anreize]] unterstützen. ^7
+
 
 ---
 = [[wiederverwertbar]]

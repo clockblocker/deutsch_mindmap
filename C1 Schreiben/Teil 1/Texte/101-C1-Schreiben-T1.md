@@ -5,3 +5,5 @@
 * Nennen Sie andere Möglichckeiten für einen ausgewogenen Lebensstil.
 
 Schreiben Sie circa 230 Wörter.
+
+

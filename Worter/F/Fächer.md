@@ -23,7 +23,7 @@ subject, fan, folding fan
 N: der [[Fächer]], die [[Fächer]]  
 A: den [[Fächer]], die [[Fächer]]  
 G: des [[Fächers]], der [[Fächer]]  
-D: dem [[Fächer]], den [[Fächern]] 
+D: dem [[Fächer]], den [[fächern]] 
 
 ---
 fächerartig, fächern, auffächern, verzweigen

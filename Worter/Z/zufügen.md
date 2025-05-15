@@ -10,7 +10,7 @@ Der **Frost Tower** setzt eine Nova frei, die alles in seinem Radius [[verlangsa
 
 ---
 = [[beifügen]], [[hinzufügen]], [[verursachen]]
-≈ [[antun]], [[verabreichen]], [[zusetzen]]
+≈ [[antun]], [[Verabreichen]], [[zusetzen]]
 ≠ [[entfernen]], [[wegnehmen]]
 
 ---

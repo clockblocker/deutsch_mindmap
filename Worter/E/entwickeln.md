@@ -7,6 +7,9 @@ haben [[entwickelt]]
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
 
+*[[000-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
+
+
 Ich interessiere mich dafür, wie sich unsere [[Gesellschaft]] [[entwickelt]].
 
 [[1.1 text#^7|(q)]] Das Geschäftsmodell für das Start-up hat Sophia zusammen mit einer [[ehemaligen]] Verkaufsleiterin [[entwickelt]]. ^7
@@ -45,4 +48,4 @@ Partizip I: [[entwickelnd]], Partizip II: [[entwickelt]]
 
 , [[Aufwachsen]], [[erfinden]]
 , [[erstellen]], [[Entwicklung]], [[ableiten]], [[entwerfen]], [[Entfaltung]], [[Texte/Misc/Anki]], [[bleiben]]
-, [[fehlentwicklung]], [[Persönlichkeitsentwicklung]], [[Teamentwicklung]], [[erweitern]], [[weiterentwickeln]], [[voranbringen]]
+, [[fehlentwicklung]], [[Persönlichkeitsentwicklung]], [[Teamentwicklung]], [[erweitern]], [[weiterentwickeln]], [[voranbringen]], [[ausbauen]]

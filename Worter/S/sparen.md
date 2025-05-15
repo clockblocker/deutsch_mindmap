@@ -7,6 +7,8 @@ NIC: Ja! Genau, genau und du hast das Geld [[dafür]] [[sparen|gespart
 
 Wenn man aber die Gespräche um 50 Prozent verkürzt, [[spart]] man eine Menge* Zeit.
 
+26 Der [[Verzicht]] aufs [[Sparen]] ist nicht [[vertretbar]].
+
 
 
 ---
@@ -33,4 +35,4 @@ Morpheme: [[spar]][[en]]
 
 Partizip I: [[sparend]], Partizip II: [[gespart]]
 , [[schwenden]], [[verplempern]], [[Taschengeld]], [[verbrauchen]]
-, [[kosten]], [[abheben]]
+, [[kosten]], [[abheben]], [[Konsum]]

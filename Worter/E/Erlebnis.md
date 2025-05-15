@@ -24,4 +24,4 @@ G: des [[Erlebnis­ses]], der [[Erlebnisse]]
 D: dem [[Erlebnis]], den [[Erlebnissen]]  
 
 ---
-[[erleben]], [[erlebnisreich]], [[Erlebnisbericht]], [[Erlebnispädagogik]]
+[[erleben]], [[erlebnisreich]], [[Erlebnisbericht]], [[Erlebnispädagogik]], [[Trauma]]

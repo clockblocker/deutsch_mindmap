@@ -1,1 +1,1 @@
-, [[recherchieren]], [[ermitteln]], [[erkundigen]]
+, [[recherchieren]], [[ermitteln]], [[erkundigen]], [[erforschen]]

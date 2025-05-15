@@ -1,1 +1,1 @@
-, [[Kamera]]
+, [[Kamera]], [[Video]]

@@ -1,1 +1,2 @@
 👑 [[herrschen]]
+, [[vorherrschen]]

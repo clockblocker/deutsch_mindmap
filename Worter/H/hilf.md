@@ -1,2 +1,2 @@
 [[helfen]]
-, [[Hilfsverb]], [[hilfsbereit]], [[mithilfe]]
+, [[Hilfsverb]], [[hilfsbereit]], [[mithilfe]], [[hilfreich]]

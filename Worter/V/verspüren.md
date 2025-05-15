@@ -1,1 +1,1 @@
-, [[fühlen]]
+, [[fühlen]], [[empfinden]]

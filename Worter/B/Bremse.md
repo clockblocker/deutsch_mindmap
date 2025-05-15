@@ -1,2 +1,2 @@
 , [[Vollbremsung]]
-, [[Motor]], [[Anreiz]]
+, [[Motor]], [[Anreiz]], [[bremsen]]

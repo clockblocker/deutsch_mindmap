@@ -6,6 +6,12 @@ nicht [[undeutlich]]
 ---
 Ich kann dich nicht verstehen, bitte sprich [[deutlich]].
 
+*[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+
+
+*[[001-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
+
+
 Allerdings ist es durch den neuen Arbeitsplatz im Büro [[deutlich]] [[eng]]er geworden. ^6
 
 
@@ -36,4 +42,4 @@ N: [[deutliches]], [[deutlicheres]], [[deutlichstes]]
 P: [[deutlichen]], [[deutlicheren]], [[deutlichsten]]  
 
 ---
-[[Deutlichkeit]], [[verdeutlichen]], [[Bedeutung]], [[deuten]], [[undeutlich]], [[geheimnisvolle]], [[Texte/Misc/Anki]], [[laut]], [[leise]], [[bemerkbar]], [[ausdrücklich]], [[hindeuten]]
+[[Deutlichkeit]], [[verdeutlichen]], [[Bedeutung]], [[deuten]], [[undeutlich]], [[geheimnisvolle]], [[Texte/Misc/Anki]], [[laut]], [[leise]], [[bemerkbar]], [[ausdrücklich]], [[hindeuten]], [[eklatant]]

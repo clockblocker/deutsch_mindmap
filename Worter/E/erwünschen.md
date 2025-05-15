@@ -1,1 +1,1 @@
-, [[erwünscht]], [[benötigen]]
+, [[erwünscht]], [[benötigen]], [[verlangen]]

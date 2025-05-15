@@ -48,4 +48,4 @@ sie, [[schmelzen]], [[schmolzen]], [[schmelzen]], [[schmolzen]], [[schmelzen]]
 Adjektive: [[schmelzend]], [[schmelzender]], [[schmelzendst]]
 
 ---
-[[schmelzender]], [[schmelzendes]], [[schmelzende]], [[schmelzenden]], [[schmelzendem]], [[schmelzenderer]], [[schmelzenderes]], [[schmelzendere]], [[schmelzenderen]], [[schmelzenderem]], [[schmelzendster]], [[schmelzendstes]], [[schmelzendste]], [[schmelzendsten]], [[schmelzendstem]], [[Schmelzwasser]]
+[[schmelzender]], [[schmelzendes]], [[schmelzende]], [[schmelzenden]], [[schmelzendem]], [[schmelzenderer]], [[schmelzenderes]], [[schmelzendere]], [[schmelzenderen]], [[schmelzenderem]], [[schmelzendster]], [[schmelzendstes]], [[schmelzendste]], [[schmelzendsten]], [[schmelzendstem]], [[Schmelzwasser]], [[Verschmelzung]]

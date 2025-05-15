@@ -3,7 +3,8 @@
 💰 [[erwerben]], [ɛɐ̯ˈvɛʁbn̩](https://youglish.com/pronounce/erwerben/german) → [[erwarb]] → [[erworben]]
 
 ---
- Man kann zum Beispiel das Fahrrad statt des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, [[anstatt]] in modischen [[Geschäften]] ständig [[Neues]] zu [[erwerben]]. 
+
+*[[001-C1-Schreiben-T1#^3|^]]* Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]. ^3
 
 
 *[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^2|^]]* Oft ist der Arbeitsplatzwechsel auch eine [[Persönlichkeitsentwicklung]], bei dem Menschen Kulturen, die andere Arbeitsweisen in ihrem Leben [[erworben]] haben, man lernt oft eine oder sogar mehrere neue Sprachen und eine neue Arbeitskultur kennen. ^2

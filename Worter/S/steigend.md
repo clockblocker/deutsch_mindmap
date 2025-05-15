@@ -1,2 +1,2 @@
 ---> 📈 [[Grad-Vergleich]] <---
-, [[steigen]], [[steigende]], [[aufwärts]]
+, [[steigen]], [[steigende]], [[aufwärts]], [[exponentiell]]

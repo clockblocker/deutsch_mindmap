@@ -1,1 +1,1 @@
-, [[Wirklichkeit]], [[Umstand]], [[Rahmenbedingung]]
+, [[Wirklichkeit]], [[Umstand]], [[Rahmenbedingung]], [[Tatsache]]

@@ -35,4 +35,4 @@ Partizip I: [[angreifend]], Partizip II: [[angegriffen]]
 
 [[angreifen]] - [[an]] = [[greifen]], [[Aggression]], [[beschützen]], [[Angriffsgeschrei]]
 , [[weichen]]
-, [[umkämpfen]], [[zubeißen]]
+, [[umkämpfen]], [[zubeißen]], [[anfallen]]

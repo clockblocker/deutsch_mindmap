@@ -6,6 +6,8 @@
 
 Allerdings [[darstellen|stellt]] sein [[ständiges]] Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und [[Kundengespräche]] erheblich, sondern [[beeinträchtigt]] auch die [[allgemeine]] Konzentration. 
 
+*[[C1-Lesen-T4-100-Text#^27|^]]* So [[erfuhren]] die Kunstschaffenden eine Art [[Befreiung]], denn sie konnten nun wählen, was sie wie sie etwas [[darstellen]] wollten. ^27
+
 
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^10|^]]* Ein solches hybride Modell [[berücksichtigt]] sowohl ökonomische Vorteile als auch das [[Wohlbefinden]] der Mitarbeiter und [[darstellen|stellt]] somit eine zukunftsweisende Arbeitsform dar. ^10
 

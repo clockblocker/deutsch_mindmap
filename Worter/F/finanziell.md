@@ -26,4 +26,4 @@ Feminine: [[finanzielle]], [[finanzielere]], [[finanzielste]]
 Neuter: [[finanzielles]], [[finanzielleres]], [[finanziellstes]]  
 Plural: [[finanziellen]], [[finanzielteren]], [[finanzielsten]]  
 
-[[Finanzen]], [[Finanzierung]], [[finanzieren]], [[Finanzwesen]]
+[[Finanzen]], [[Finanzierung]], [[finanzieren]], [[Finanzwesen]], [[Geldwert]], [[Finanzbereich]]

@@ -28,4 +28,4 @@ A: den [[Ertrag]], die [[Erträge]]
 G: des [[Ertrags]], der [[Erträge]]
 D: dem [[Ertrag]], den [[Erträgen]]
 
-#Maskulin , [[schaden]]
+#Maskulin , [[schaden]], [[nutzen]]

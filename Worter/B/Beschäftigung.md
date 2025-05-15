@@ -30,4 +30,4 @@ D: der [[Beschäftigung]], den [[Beschäftigungen]]
 [[beschäftigen]], [[schäftig]], [[Beschäftigungsgrad]], [[Beschäftigungstherapie]], [[Beschäftigungsverbot]]
 , [[Arbeitsstelle]], [[Berufstätigkeit]], [[Beschäftigte]], [[Betriebszugehörigkeit]]
 
-[[Beruf]], [[Tätigkeit]], [[beschäftigen]], [[schäftigen]], [[erwerbstätig]], [[Entlassung]], [[Arbeit]], [[Erlebnis]], [[Arbeitsbedingungen]]
+[[Beruf]], [[Tätigkeit]], [[beschäftigen]], [[schäftigen]], [[erwerbstätig]], [[Entlassung]], [[Arbeit]], [[Erlebnis]], [[Arbeitsbedingungen]], [[Hauptbeschäftigung]]

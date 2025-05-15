@@ -1,1 +1,1 @@
-, [[Abgeordnete]], [[Stellvertreter]]
+, [[Abgeordnete]], [[Stellvertreter]], [[Vertreter]]

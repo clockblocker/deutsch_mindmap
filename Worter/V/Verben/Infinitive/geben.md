@@ -61,4 +61,4 @@ to give
 ---
 
 **Morphems of only infinitive:**  
-- [[geb]][[en]], [[vorenthalten]]
+- [[geb]][[en]], [[vorenthalten]], [[Verabreichen]]

@@ -1,29 +1,33 @@
-🟣 [[bemannt]], [bəˈmant]
-nicht [[unbemannt]]
+#### Normal form = Grundform = Inf for Verbs
+*Commad + Shift + `G` = 
+1) *`G`enetate* 
+2) *incert the clipboard contetns to the context block of the NOTE* 
+3) *paste the NOTE to this file*
+
+👨‍🚀 [[bemannt]], [bəˈmant](https://youglish.com/pronounce/bemannt/german)
 
 ---
-*Ich nehm mein Schicksal in die Hand*  
-*Mein Verlangen ist [[bemannt]]*  
+*[[Navigation-Tutorial#^1|^]]* Menschen sind Robotern weit voraus, deshalb [[brauchen]] wir [[bemannte]] Flüge. ^1
 
 ---
-Synonyme: [[besetzt]], [[bedient]], [[bekleidet]], [[mit Mannschaft versehen]]
-Antonyme: [[unbemannt]], [[leer]], [[unbesetzt]], [[unbesetzt]]
+= [[besetzt]], [[mit Personen besetzt]]
+≈ [[besetzt]], [[mit Crew]]
+≠ [[unbemannt]], [[automatisch]]
 
 ---
-**Übersetzung**:
-fullfilled, manned, staffed, crewed
+manned, crewed  
+пилотируемый, экипажный
 
 ---
-#Adjective [[bemannt]]
+[[bemannen]], [[Mann]]
 
 ---
-Morpheme:
-[[be]][[mann]][[t]]
+[[be]]|[[mann]]|[[t]]
+[[bemannt]]
+
 
 ---
+Adjektive: [[bemannt]], [[bemannter]], [[bemanntest]]
 
-
-Einzigartige mögliche Formen: 
-[[bemannt]], [[bemannter]], [[bemannte]], [[bemanntes]], [[bemannten]], [[bemanntein]], [[bemannter]], [[bemannten]]
-[[bemannter]], [[bemanterer]], [[bemantere]], [[bemanteres]], [[bemarteren]], [[bemanterem]], [[bemanterer]], [[bemarteren]]
-[[bemanntest]], [[bemannter]], [[bemannste]], [[bemannstes]], [[bemannsten]], [[bemannsteim]], [[bemannster]], [[bemannsten]]
+---
+[[bemannter]], [[bemanntes]], [[bemannte]], [[bemannten]], [[bemanntem]], [[bemannterer]], [[bemannteres]], [[bemanntere]], [[bemannteren]], [[bemannterem]], [[bemanntester]], [[bemanntestes]], [[bemannteste]], [[bemanntesten]], [[bemanntestem]]

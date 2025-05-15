@@ -6,6 +6,12 @@ die [[Angebote]]
 ---
 ANNA: Okay – hier: Job-[[Angebote]] …
 
+*[[C1-Lesen-T4-100-Text#^5|^]]* Es ist doch ganz einfach: Wie jede andere Ware unterliegen auch Kunstobjekte dem Prinzip von [[Angebot]] und [[Nachfrage]]. ^5
+
+
+###### 12 [[Weshalb]] ist die [[Nachfrage]] nach neuen [[Hölzern]] so [[hoch]]?
+a) Das [[Angebot]] an Holz kann den [[Bedarf]] nicht [[decken]].  
+
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebote]] wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
 
 
@@ -36,4 +42,4 @@ G: des [[Angebotes]], der [[Angebote]]
 D: dem [[Angebot]], den [[Angeboten]]
 
 
-#Neuter , [[Unterstützungsangebot]], [[Kompromissvorschlag]], [[Pitch]], [[Firmenangebot]], [[Übergangebot]]
+#Neuter , [[Unterstützungsangebot]], [[Kompromissvorschlag]], [[Pitch]], [[Firmenangebot]], [[Übergangebot]], [[Anbieter]], [[Unterhaltungsangebot]]

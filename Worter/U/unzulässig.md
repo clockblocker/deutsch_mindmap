@@ -1,1 +1,1 @@
-, [[verboten]], [[verfassungswidrig]]
+, [[verboten]], [[verfassungswidrig]], [[vertretbar]]

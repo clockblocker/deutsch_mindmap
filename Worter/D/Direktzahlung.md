@@ -1,1 +1,1 @@
-, [[Sozialabgaben]]
+, [[Sozialabgaben]], [[Einmalzahlung]]

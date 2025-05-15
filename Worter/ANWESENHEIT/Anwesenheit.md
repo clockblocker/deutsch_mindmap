@@ -1,1 +1,1 @@
-, [[fehlen]], [[abwesend]], [[Abwesenheit]], [[Präsenz]]
+, [[fehlen]], [[abwesend]], [[Abwesenheit]], [[Präsenz]], [[Teilnahme]]

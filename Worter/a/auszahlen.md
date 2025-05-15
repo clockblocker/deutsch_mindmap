@@ -27,3 +27,4 @@ PI: [[auszahlend]], PII: [[ausgezahlt]], Zu+inf: [[auszuzahlen]]
 
 ---
 [[Auszahlung]], [[Auszahlungsbeleg]], [[Auszahlungsbetrag]], [[Auszahlungsschein]], [[abheben]]
+

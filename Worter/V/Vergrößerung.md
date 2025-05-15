@@ -1,2 +1,2 @@
 ---> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
-, [[Kürzung]], [[Osterweiterung]], [[Erhöhung]], [[Nahaufnahme]], [[vergrößern]]
+, [[Kürzung]], [[Osterweiterung]], [[Erhöhung]], [[Nahaufnahme]], [[vergrößern]], [[Ausbau]]

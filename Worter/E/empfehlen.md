@@ -1,10 +1,15 @@
 👍 [[empfehlen]], [ɛmˈpfeːlən] | [[empfahl]], haben [[empfohlen]]
 
 ---
+*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]. ^14
+
+
+*[[000-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+
+
 Ich [[empfehle]] dir Euro zu kaufen.
 
 Vielmehr wird [[empfohlen]], nur morgens zu gießen und [[Beete]] mit einem kleinen [[Zaun]] (7) zu [[umgeben]] .  
-
 
 Sie [[empfehlt]] eine Zeitschrift zu nehmen  
 
@@ -31,4 +36,4 @@ PI: [[empfehlend]], PII: [[empfohlen]], Zu+inf: [[zu empfehlen]]
 
 ---
 [[Empfehlung]], [[Fehl]], [[empfehlenswert]]
-, [[befürworten]]
+, [[befürworten]], [[Empfehlungssystem]], [[Empfehlungsalgorithmus]]

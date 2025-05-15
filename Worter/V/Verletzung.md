@@ -1,1 +1,1 @@
-, [[Stich]], [[antun]], [[verletzen]], [[Einhaltung]], [[Beleidigung]], [[Wunde]]
+, [[Stich]], [[antun]], [[verletzen]], [[Einhaltung]], [[Beleidigung]], [[Wunde]], [[Trauma]], [[Heilung]]

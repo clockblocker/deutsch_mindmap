@@ -23,4 +23,4 @@ soft, tender
 Adjektive: [[weich]], [[weicher]], [[weichst]]
 
 ---
-[[weicher]], [[weiches]], [[weiche]], [[weichen]], [[weichem]], [[weicherer]], [[weicheres]], [[weichere]], [[weicheren]], [[weicherem]], [[weichster]], [[weichstes]], [[weichste]], [[weichsten]], [[weichstem]]
+[[weicher]], [[weiches]], [[weiche]], [[weichen]], [[weichem]], [[weicherer]], [[weicheres]], [[weichere]], [[weicheren]], [[weicherem]], [[weichster]], [[weichstes]], [[weichste]], [[weichsten]], [[weichstem]], [[Abweichung]]

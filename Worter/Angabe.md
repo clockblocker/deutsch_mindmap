@@ -8,6 +8,9 @@ die [[Angaben]]
 	- [ ] Sie schreiben Karten und Briefe mit der [[Angabe]] des [[Wahllokals]].
 	- [x] Sie zählen die Stimmen nach dem Ende der Wahl.
 
+*[[C1-Lesen-T2-103-Text#^4|^]]* [[Nach]] [[eigenen]] [[Angaben]] ist ihr Unternehmen We Grow Marktführer unter den europäischen Produzenten. ^4
+
+
 
 ---
 = [[Mitteilung]], [[Information]], [[Erklärung]]

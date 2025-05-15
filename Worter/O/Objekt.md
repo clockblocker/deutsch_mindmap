@@ -1,2 +1,2 @@
 
-, [[Gegenstand]]
+, [[Gegenstand]], [[Kunstgegenstand]]

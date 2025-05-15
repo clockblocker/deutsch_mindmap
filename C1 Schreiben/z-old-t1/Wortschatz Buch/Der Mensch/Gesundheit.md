@@ -175,7 +175,7 @@
 ###### jdm. ein Medikament [[verschreiben]]
 *Der Arzt* [[verschreibt]] *der Patientin ein Medikament, das sie dreimal täglich einnehmen soll.*
 
-###### jdm. ein Medikament [[verabreichen]]
+###### jdm. ein Medikament [[Verabreichen]]
 *Das Pflegepersonal* [[verabreicht]] *den Patienten die notwendigen Medikamente.*
 
 ###### die [[Nebenwirkungen]] (Plural)

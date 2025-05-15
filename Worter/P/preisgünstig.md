@@ -1,1 +1,1 @@
-, [[teuer]]
+, [[teuer]], [[preiswert]]

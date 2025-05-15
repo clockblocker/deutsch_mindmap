@@ -1,3 +1,3 @@
 ---> [[Grad-gut]] <--
 
-[[prima]], [[ausgezeichnet]]
+[[prima]], [[ausgezeichnet]], [[Vorzug]]

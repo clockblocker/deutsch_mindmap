@@ -1,1 +1,1 @@
-, [[Zusammenstoß]]
+, [[Zusammenstoß]], [[Aufschlag]]

@@ -29,4 +29,4 @@ N: die [[Änderung]], die [[Änderungen]]
 A: die [[Änderung]], die [[Änderungen]]
 G: der [[Änderung]], der [[Änderungen]]
 D: der [[Änderung]], den [[Änderungen]]
-#Feminin 
+#Feminin , [[Umstieg]]

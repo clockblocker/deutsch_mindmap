@@ -1,1 +1,1 @@
-, [[Großleinwand]]
+, [[Großleinwand]], [[Leinwand]]

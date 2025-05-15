@@ -1,1 +1,1 @@
-, [[Reiche]]
+, [[Reiche]], [[unfruchtbar]], [[fruchtbar]], [[gutbetucht]]

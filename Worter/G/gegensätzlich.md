@@ -1,1 +1,1 @@
-, [[vereinbar]], [[ebenso]]
+, [[vereinbar]], [[ebenso]], [[konträr]]

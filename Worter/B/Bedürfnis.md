@@ -19,7 +19,7 @@ Ich habe vollstes Verständnis dafür, dass ein [[Umzug]] unter Zeitdruck nicht 
 
 ---
 = [[Bedarf]], [[Erfordernis]], [[Anforderung]]
-≈ [[Wunsch]], [[Verlangen]], [[Sehnsucht]], [[Notwendigkeit]]
+≈ [[Wunsch]], [[verlangen]], [[Sehnsucht]], [[Notwendigkeit]]
 ≠ [[Überfluss]], [[Entbehrung]], [[Mangel]]
 
 ---

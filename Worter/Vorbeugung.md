@@ -28,4 +28,4 @@ G: der [[Vorbeugung]], der [[Vorbeugungen]]
 D: der [[Vorbeugung]], den [[Vorbeugungen]]
 
 
-#Feminin 
+#Feminin , [[Heilung]]

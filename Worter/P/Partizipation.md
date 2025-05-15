@@ -1,4 +1,4 @@
 ---> [[Ingredinet-Action-Nomen]] <---
 
 ---
-, [[Beteiligung]]
+, [[Beteiligung]], [[Teilnahme]]

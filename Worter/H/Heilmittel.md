@@ -1,1 +1,1 @@
-, [[Arzenei]], [[heilen]]
+, [[Arzenei]], [[heilen]], [[Heilung]]

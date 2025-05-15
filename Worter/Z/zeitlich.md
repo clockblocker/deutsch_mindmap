@@ -1,1 +1,1 @@
-, [[früh]], [[endlos]], [[Weile]], [[mittlerweile]]
+, [[früh]], [[endlos]], [[Weile]], [[mittlerweile]], [[terminlich]]

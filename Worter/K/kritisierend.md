@@ -1,1 +1,1 @@
-, [[kritisieren]]
+, [[kritisieren]], [[missbilligend]]

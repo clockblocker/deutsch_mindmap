@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Zusammenstoßes]], [[Zusammenstoß]], [[Zusammenstöße]], [[Zusammenstößen]]
 
 ---
-#Substantiv #Maskulin, [[Verkehrsunfall]], [[Straßenunfall]]
+#Substantiv #Maskulin, [[Verkehrsunfall]], [[Straßenunfall]], [[Aufschlag]]

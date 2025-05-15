@@ -67,7 +67,7 @@
 
 ## In der Schule
 ###### das [[Fach]], die Fächer
-*Die Schüler haben Unterricht in verschiedenen naturwissenschaftlichen* [[Fächern]].
+*Die Schüler haben Unterricht in verschiedenen naturwissenschaftlichen* [[fächern]].
 
 ###### das [[Hauptfach]], -fächer
 *Der Unterricht in den* [[Hauptfächern]] *Deutsch, Englisch und Mathematik wird als besonders wichtig angesehen.*

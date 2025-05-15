@@ -1,2 +1,2 @@
 , [[Ansprechpartner]]
-, [[Immobilienmakler]], [[vermitteln]]
+, [[Immobilienmakler]], [[vermitteln]], [[Vertreter]]

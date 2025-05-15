@@ -24,4 +24,4 @@ non-profit, charitable
 Adjektive: [[gemeinnützig]], [[gemeinnütziger]], [[gemeinnützigst]]
 
 ---
-[[gemeinnütziger]], [[gemeinnütziges]], [[gemeinnützige]], [[gemeinnützigen]], [[gemeinnützigem]], [[gemeinnützigerer]], [[gemeinnützigeres]], [[gemeinnützigere]], [[gemeinnützigeren]], [[gemeinnützigerem]], [[gemeinnützigster]], [[gemeinnützigstes]], [[gemeinnützigste]], [[gemeinnützigsten]], [[gemeinnützigstem]]
+[[gemeinnütziger]], [[gemeinnütziges]], [[gemeinnützige]], [[gemeinnützigen]], [[gemeinnützigem]], [[gemeinnützigerer]], [[gemeinnützigeres]], [[gemeinnützigere]], [[gemeinnützigeren]], [[gemeinnützigerem]], [[gemeinnützigster]], [[gemeinnützigstes]], [[gemeinnützigste]], [[gemeinnützigsten]], [[gemeinnützigstem]], [[nutzen]]

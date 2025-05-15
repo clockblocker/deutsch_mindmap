@@ -1,6 +1,20 @@
  --> [[Ingredient-Add-Remove]] <--
-#### ➕ Add / Insert / Attach
 
+
+❤️ [[Regulierung]] [[einführen]]                              *(Introduce)*
+[[Regulierung]] [[durchsetzen]]                              *(Enforce)*
+[[Regulierung]] klimafreundlich [[gestalten]]       *(Shape)*
+[[Regulierung]] [[umsetzen]]                                 *(Implement)*
+
+❤️ [[Regel]]n [[etablieren]]       *(Establish / Normalize)*
+[[Regel]]n [[aufstellen]]            *(Set up / Formulate)*
+[[Regel]]n [[einhalten]]             *(Follow / Comply with)*
+[[Regel]]n [[befolgen]]             *(Obey / Adhere to)*
+[[Regel]]n [[durchsetzen]]       *(Enforce / Impose)*
+[[Regel]]n [[anpassen]]           *(Adapt / Modify)*
+[[Regel]]n [[übertreten]]         *(Violate / Break)*
+
+#### ➕ Add / Insert / Attach
 - **🔩 Functional insertion / integration**
 	- [[einsetzen]] *(to insert, deploy)*
 	- [[einbauen]] *(to install, embed)*

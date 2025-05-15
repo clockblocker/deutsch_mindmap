@@ -2,6 +2,9 @@
 
 ---
  "Auf den Bildern sind nur die vom Menschen [[gezüchteten]] Pflanzen / die vom Menschen angebauten Pflanzen."
+*[[C1-Lesen-T2-103-Text#^1|^]]* 
+[[Dissenbacher]] [[züchtete]] [[zunächst]] den Kiri-Hybrid Nordmax21, der auch im strengen mitteleuropäischen Klima wächst und [[gedeiht]]. ^1
+ 
  
 ---
 = [[kultivieren]], [[aufziehen]], [[züchten]], [[rauchen]]
@@ -43,4 +46,4 @@ sie, [[züchten]], [[züchteten]], [[züchten]], [[züchteten]], [[züchten]]
 Adjektive: [[züchtend]], [[züchtender]], [[züchtendst]]
 
 ---
-[[züchtender]], [[züchtendes]], [[züchtende]], [[züchtenden]], [[züchtendem]], [[züchtenderer]], [[züchtenderes]], [[züchtendere]], [[züchtenderen]], [[züchtenderem]], [[züchtendster]], [[züchtendstes]], [[züchtendste]], [[züchtendsten]], [[züchtendstem]], [[wegzüchten]]
+[[züchtender]], [[züchtendes]], [[züchtende]], [[züchtenden]], [[züchtendem]], [[züchtenderer]], [[züchtenderes]], [[züchtendere]], [[züchtenderen]], [[züchtenderem]], [[züchtendster]], [[züchtendstes]], [[züchtendste]], [[züchtendsten]], [[züchtendstem]], [[wegzüchten]], [[Neuzüchtung]]

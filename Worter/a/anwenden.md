@@ -33,3 +33,4 @@ PI: [[anwendend]], PII: [[angewandt]], Zu+inf: [[anzuwenden]]
 
 ---
 [[Anwendung]], [[Anwender]], [[anwendbar]], [[Anwendbarkeit]], [[anwendungsorientiert]]
+, [[handhaben]], [[Verabreichen]]

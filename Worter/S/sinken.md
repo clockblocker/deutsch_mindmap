@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 🌊 [[sinken]]
 [[sank]]
@@ -6,6 +6,9 @@ sein [[gesunken]]
 
 ---
 Tot [[zusinken|sank]] dieser zu Boden und die restliche Herde raste in panischem Schrecken davon.
+
+*[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+
 
 *[[C1-Lesen-T1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
 
@@ -79,4 +82,4 @@ Konjunktiv II:
 - Wenn er sich gehen lässt, [[sänke]] er auf den Grund.
 - Wenn wir schwerer wären, [[sänken]] wir schneller.
 - Wenn ihr mutiger wäret, [[sänket]] ihr tiefer.
-- Wenn sie aufgeben, [[sänken]] sie ab., [[steigen]], [[tauchten]], [[schweben]], [[zunehmen]], [[absinken]]
+- Wenn sie aufgeben, [[sänken]] sie ab., [[steigen]], [[tauchten]], [[schweben]], [[zunehmen]], [[absinken]], [[zurückgehen]]

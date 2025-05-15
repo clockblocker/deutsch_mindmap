@@ -26,3 +26,4 @@ D: dem [[Forscher]], den [[Forschern]]
 [[forschen]], [[Forschung]], [[forschend]], [[Forscherin]], [[Forschungsinstitut]]
 
 , [[Recher]], [[Abenteurer]]
+, [[erforschen]]

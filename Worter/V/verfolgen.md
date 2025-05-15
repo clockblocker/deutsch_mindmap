@@ -7,6 +7,9 @@
 
 [[Verfolgung]] der Juden
 
+*[[C1-Lesen-T4-100-Text#^16|^]]* Auf diese Weise kann ich meinen künstlerischen Weg konsequent [[verfolgen]], ohne auf die Wünsche [[zahlungskräftiger]] Kunden [[eingehen]] zu müssen. ^16
+
+
 Die beiden Firmen [[verfolgen]] ein [[gemeinsames]] Ziel.
 
 Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war.

@@ -35,4 +35,4 @@ Morpheme: [[Worter/T/Tat]][[sächlich]]
 
 
 [[allerdings]], [[eigentlich]], [[echt]]
-, [[begrüßen]], [[zerbrechen]], [[erwarten]], [[sogenannt]], [[Texte/Misc/Anki]], [[erfüllen]], [[Tat]]
+, [[begrüßen]], [[zerbrechen]], [[erwarten]], [[sogenannt]], [[Texte/Misc/Anki]], [[erfüllen]], [[Tat]], [[Tatsache]]

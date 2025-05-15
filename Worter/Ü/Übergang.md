@@ -1,2 +1,2 @@
 ---> ⏱️ [[Temporal-Status]] <---
-, [[Brücke]], [[gehen]], [[Beitritt]], [[Übergangslösung]], [[übergehen]]
+, [[Brücke]], [[gehen]], [[Beitritt]], [[Übergangslösung]], [[übergehen]], [[Umstieg]]

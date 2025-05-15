@@ -20,7 +20,7 @@ Antonyme: [[vermeiden]], [[ignorieren]], [[ablehnen 1]]
 
 
 ---
-Morpheme: [[nutz]][[en]]
+Morpheme: [[Nutz]][[en]]
  #Verb  #Untrennbar
 
 ---
@@ -51,7 +51,7 @@ Antonyme: [[vermeiden]], [[ablehnen 1]], [[ignorieren]]
 Übersetzung: to use, to utilize, to make use of
 
 ---
-Morpheme: [[nutz]][[en]]
+Morpheme: [[Nutz]][[en]]
  #Verb  #Untrennbar
 
 ---
@@ -66,4 +66,38 @@ Morpheme: [[nutz]][[en]]
 | Sie       | [[nutzen]]| [[nutzten]]| [[nutzen Sie]]| [[nutzen]]   | [[nutzten]]   |
 
 Partizip I: [[nutzend]], Partizip II: [[genutzt]]
-, [[ablehnen]], [[Vorteil]], [[Nützliches]], [[nutzlos]], [[w-l]], [[Informationswert]], [[Gebrauch]], [[Nutzungsdaten]], [[gemeinnützig]], [[Mehrwert]], [[verarbeiten]], [[Ertrag]]
+
+---
+---
+---
+
+✅ 🔵 der [[Nutzen]], [ˈnʊt͡sn̩](https://youglish.com/pronounce/Nutzen/german)
+
+---
+*[[000-C1-Schreiben-T1#^4|^]]* Auf der einen Seite ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:
+
+---
+= [[Vorteil]], [[Ertrag]], [[Gewinn]]
+≈ [[Nutzeffekt]], [[Leistung]], [[Ergebnis]]
+≠ [[Nachteil]], [[Verlust]], [[Schaden]]
+, [[ablehnen]], [[Vorteil]], [[Nützliches]], [[nutzlos]], [[w-l]], [[Informationswert]], [[Gebrauch]], [[Nutzungsdaten]], [[gemeinnützig]], [[Mehrwert]], [[verarbeiten]], [[Ertrag]], [[Vorzug]], [[Internetnutzer]]
+
+---
+benefit, use  
+польза, выгода
+
+---
+[[nutzen]], [[nützlich]]
+
+---
+[[Nutz]]
+
+
+---
+N: der [[Nutzen]], die [[Nutzen]]
+A: den [[Nutzen]], die [[Nutzen]]
+G: des [[Nutzens]], der [[Nutzen]]
+D: dem [[Nutzen]], den [[Nutzen]]
+
+
+#Maskulin 

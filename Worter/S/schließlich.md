@@ -4,6 +4,9 @@
 ---
 Wir haben [[uns]] total [[verlaufen]], aber [[schließlich]] sind wir doch noch ans Ziel gekommen.
 
+*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
+
+
 Er war etwas [[zerknittert]] - [[schließlich]] hatte er zwölf Jahre im Koffer gelegen - aber sonst in gutem [[Zustand]]. [[17 zu inf#^15|(q)]]
 
 Dann soll man [[Speisen]] kochen: Fleisch, Fisch, Gemüse, Salate machen und große Kuchen backen. [[Schließlich]] ist man müde.

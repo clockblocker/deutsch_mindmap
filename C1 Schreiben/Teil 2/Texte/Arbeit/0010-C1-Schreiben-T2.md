@@ -1,4 +1,4 @@
-[[T2-Schreiben-Ubungen]]
+[[0-T2-Schreiben-Ubungen]]
 
 Frau König aus der Kommunikationsabteilung plant, die Kantine Ihrer Firma in ein sogenanntes „Bedarfszimmer“ umzuwandeln. Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Ebert.
 - Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für den Bedarf an zusätzlichen Funktionsräumen zeigen
@@ -9,15 +9,13 @@ Frau König aus der Kommunikationsabteilung plant, die Kantine Ihrer Firma in ei
 
 Sehr geehrte Frau Ebert,
 
-ich wende mich an Sie, um auf die geplante Schließung unserer Kantine einzugehen.
+ich habe vollstes Verständnis dafür, dass neue geplante Funktionsräume die interne Kommunikation fördern sollten – ein Aspekt, der im Arbeitsalltag [[unabdingbar]] ist.
 
-Ich habe vollstes Verständnis dafür, wie notwendig klare Kommunikation ist – insbesondere in kreativen Branchen wie der Werbung, deren Abteilung ich derzeit leite.
+Die Kantine bietet jedoch der gesamten Belegschaft die Möglichkeit, preiswert eine warme Mahlzeit einzunehmen und sich dabei zu erholen. Das wirkt sich positiv auf die Arbeitsatmosphäre aus und steigert die allgemeine Produktivität.
 
-Allerdings befindet sich unser Büro in einem industriellen Gebiet, wo es weder Restaurants noch Supermärkte gibt. Aus diesem Grund wäre ich gezwungen, mein Essen täglich zu Hause vorzubereiten – wofür ich leider keine Zeit habe.
+Da sich unser Büro in einem Industriegebiet befindet, in dem weder Restaurants noch Supermärkte gibt, wäre ich ohne die Kantine gezwungen, mein Mittagessen täglich selbst zu Hause vorzubereiten – wofür mir leider die Zeit fehlt.
 
-Die Kantine bietet den Mitarbeitenden die Möglichkeit, preiswert etwas Warmes zu essen und sich dabei zu entspannen. Dadurch verbessert sich die Arbeitsatmosphäre, und die Produktivität steigt.
-
-Wenn die Entscheidung zur Schließung der Kantine nicht rückgängig gemacht werden kann, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren.
+Sollte die Entscheidung zur Schließung der Kantine nicht rückgängig gemacht werden können, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren.
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
@@ -25,3 +23,8 @@ Mit freundlichen Grüßen
 Denis Popov
 
 ---
+
+Mitarbeitenden 
+
+
+ *, – insbesondere in kreativen Branchen wie der Werbung, deren Abteilung ich derzeit leite.*

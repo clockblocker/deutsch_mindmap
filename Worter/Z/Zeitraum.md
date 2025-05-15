@@ -4,6 +4,9 @@
 *[[C1-Lesen-T2-101-Text#^11|^]]* Die eine [[Hälfte]] der Kinder musste innerhalb von 30 Minuten in einem Raum mit vier Spielzeugen spielen, die andere Hälfte im gleichen [[Zeitraum]] in einem Raum mit [[viermal]] so viel Spielzeug. ^11
 
 
+*[[C1-Lesen-T4-100-Text#^23|^]]* Modern Art [[umfasst]] den [[Zeitraum]] von 1870 bis 1970 und ist sehr breit [[gefächert]]. ^23
+
+
 ---
 = [[Periode]], [[Zeitspanne]], [[Abschnitt]]
 ≈ [[Dauer]], [[Epoche]], [[Ära]]
@@ -29,4 +32,4 @@ G: des [[Zeitraums]], der [[Zeiträume]]
 D: dem [[Zeitraum]], den [[Zeiträumen]]
 
 
-#Maskulin 
+#Maskulin , [[umfassen]], [[Jahrzehnt]]

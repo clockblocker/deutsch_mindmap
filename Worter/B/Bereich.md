@@ -6,6 +6,8 @@ die [[Bereiche]]
 ---
 Diesen [[Bereich]] darf niemand [[betreten]].
 
+24 Menschen sind oft [[ungeeignet]], bestimmte [[Bereiche]] zu [[erforschen]].  b?
+
 *[[C1-Lesen-T2-101-Text#^7|^]]* Das haben schon unsere Großeltern gesagt und das gilt in vielen [[Bereichen]], zum Beispiel auch bei Spielzeug für Kinder. ^7
 
 
@@ -35,4 +37,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bereichs]], [[Bereichen]]
 
 ---
-#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Texte/Misc/Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]], [[Abteilung]], [[Abschnitt]], [[Hinsicht]], [[Pausenraum]], [[Einkaufsbereich]], [[Umkreis]], [[Buchhaltungsbereich]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Reichweite]]
+#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Texte/Misc/Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]], [[Abteilung]], [[Abschnitt]], [[Hinsicht]], [[Pausenraum]], [[Einkaufsbereich]], [[Umkreis]], [[Buchhaltungsbereich]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Reichweite]], [[Finanzbereich]], [[Wissenschaftszweig]]

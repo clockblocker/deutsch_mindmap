@@ -1,1 +1,1 @@
-, [[feststellen]], [[Personalausweis]], [[beweisen]], [[belegen]]
+, [[feststellen]], [[Personalausweis]], [[beweisen]], [[belegen]], [[ausweisen]]

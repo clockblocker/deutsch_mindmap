@@ -33,4 +33,4 @@ Tags:
 ---
 
 Morphems:
-[[Saft]][[ig]], [[Fruchtsaft]]
+[[Saft]][[ig]], [[Fruchtsaft]], [[fruchtbar]], [[dürr]]

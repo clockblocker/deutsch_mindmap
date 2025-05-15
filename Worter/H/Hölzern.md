@@ -4,6 +4,9 @@ nicht aus [[Metall]], nicht aus [[Stein]]
 ---
 Sie nahmen ihm seine schönen Kleider weg, zogen ihm einen grauen, alten [[Kittel]] an und gaben ihm [[hölzerne]] Schuhe. 
 
+###### 12 [[Weshalb]] ist die [[Nachfrage]] nach neuen [[Hölzern]] so [[hoch]]?
+a) Das [[Angebot]] an Holz kann den [[Bedarf]] nicht [[decken]].  
+
 [[Holz]]
 
 ---

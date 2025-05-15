@@ -1,1 +1,1 @@
-, [[Forscher]], [[forschen]]
+, [[Forscher]], [[forschen]], [[erforschen]]

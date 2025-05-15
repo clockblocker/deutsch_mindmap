@@ -29,4 +29,4 @@ PI: [[ahnend]], PII: [[geahnt]], Zu+inf: [[zu ahnen]]
 [[ahnen]] / to suspect, to have a hunch, to sense
 
 ---
-[[Ahnung]], [[ahnungslos]], [[ahnungsvoll]], [[Ahnungslosigkeit]], [[Vorahnung]], [[vorausahnen]]
+[[Ahnung]], [[ahnungslos]], [[ahnungsvoll]], [[Ahnungslosigkeit]], [[Vorahnung]], [[vorausahnen]], [[Nachwuchs]]

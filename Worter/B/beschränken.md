@@ -8,15 +8,15 @@ haben [[beschränkt]]
 *[[C1-Lesen-T2-101-Text#^10|^]]* Das Forscherteam [[beschränkte]] sich nicht auf genetische Analysen, sondern [[untersuchte]] auch anatomische [[Eigenschaften]] des Pompejaners. ^10
 
 
-die [[Schranke]]
-der [[Schrank]]
-
-
+*[[000-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]. ^12
 
 
 ---
 Synonyme: [[einschränken]], [[begrenzen]], [[limitieren]], [[reduzieren]], [[eingrenzen]]
 Antonyme: [[erweitern]], [[erhöhen]], [[vergrößern]]
+
+---
+die [[Schranke]], der [[Schrank]]
 
 ---
 Übersetzung: to limit, to restrict, to constrain

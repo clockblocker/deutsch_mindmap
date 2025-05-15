@@ -35,4 +35,4 @@ PI: [[vermeidend]], PII: [[vermieden]], Zu+inf: [[zu vermeiden]]
 ---
 [[Meide]], [[Vermeidung]], [[vermeidbar]], [[vermeidlich]]
 , [[kennenlernen]]
-, [[beabsichtigen]], [[fernhalten]], [[abarbeiten]], [[auseinandersetzen]], [[verursachen]], [[Erkunden]], [[vorbeugen]], [[befassen]], [[verzichten]], [[erleiden]], [[hervorrufen]]
+, [[beabsichtigen]], [[fernhalten]], [[abarbeiten]], [[auseinandersetzen]], [[verursachen]], [[Erkunden]], [[vorbeugen]], [[befassen]], [[verzichten]], [[erleiden]], [[hervorrufen]], [[verschulden]], [[erfordern]]

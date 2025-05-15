@@ -1,1 +1,1 @@
-, [[entstehen]]
+, [[entstehen]], [[Entstehung]]

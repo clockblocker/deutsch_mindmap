@@ -1,2 +1,2 @@
 , [[leichtsinnig]], [[überstürzen]]
-🤔 [[überlegen]] | 😕 [[unüberlegt]], [[willkürlich]]
+🤔 [[überlegen]] | 😕 [[unüberlegt]], [[willkürlich]], [[ungewogen]]

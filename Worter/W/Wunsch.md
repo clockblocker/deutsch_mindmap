@@ -4,6 +4,8 @@ die [[Wünsche]]
 ---
 Mutter Birgit seufzt: „Wie sollen wir all diese [[Wünsche]] unter einen Hut bringen?“ 
 
+*[[000-C1-Schreiben-T1#^4|^]]* Auf der einen Seite ist der [[Nutz]]en sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:
+
 Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfungen]].
 
 Er hat den [[Wunsch]] seinen Urlaub auf dem Lande zu [[verbringen]].
@@ -21,7 +23,7 @@ Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu 
 
 ---
 Synonyme:
-- [[Verlangen]], [[Begehren]], [[Sehnsucht]], [[Bedürfnis]], [[Traum]]
+- [[verlangen]], [[Begehren]], [[Sehnsucht]], [[Bedürfnis]], [[Traum]]
 
 ---
 Übersetzung: wish, desire, want
@@ -45,5 +47,5 @@ Deklinationstabelle:
 | Akkusativ| den Wunsch  | die Wünsche|
 
 
-, [[Verlangen]]
+, [[verlangen]]
 , [[erwarten]], [[Anliegen]], [[Streben]], [[wünschenswert]]

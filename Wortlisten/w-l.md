@@ -47,4 +47,4 @@
 47. er hat mich nicht [[anrufen|angerufen]], weil er seine chance nicht [[nutzen|genutzt]] hat.  
 48. sie hat uns nicht [[anrufen|angerufen]], weil ihre taktik nicht [[aufgehen|aufgegangen]] ist.  
 49. wir haben sie nicht [[anrufen|angerufen]], weil ihr projekt nicht [[klappen|geklappt]] hat.  
-, [[zusammenbrechen]], [[bewältigen]], [[durchsetzen]]
+, [[zusammenbrechen]], [[bewältigen]], [[durchsetzen]], [[nutzen]]

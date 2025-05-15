@@ -1,1 +1,1 @@
-, [[Widerspruch]]
+, [[Widerspruch]], [[konträr]]

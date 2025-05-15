@@ -3,6 +3,9 @@
 ---
 [[Entgegen]] meinem [[Rat]] hat er es gemacht.
 
+###### 13. Demenz …
+a) kann man [[entgegenwirken]].  
+
 ---
 [[entgegenfiebern]] - [[entgegen]] = [[fiebern]]
 

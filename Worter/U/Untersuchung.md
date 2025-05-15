@@ -4,6 +4,8 @@ die [[Untersuchungen]]
 ---
 Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
+c) Die [[Untersuchung]]en würden sich nur auf den männlichen [[Nachwuch]]s [[beziehen]].
+
 *[[C1-Lesen-T2-101-Text#^8|^]]* Eine aktuelle [[Untersuchung]] zu diesem Thema, die jüngst in einer deutschen Zeitschrift [[veröffentlicht]] wurde, hat ergeben: Kaufen oder schenken wir unseren Kindern zu viele Spielsachen, leidet deren Kreativität sowie die Spielqualität und die Kinder werden leichter [[abgelenkt]]. ^8
 
 

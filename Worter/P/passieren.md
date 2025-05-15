@@ -39,4 +39,4 @@ Morpheme: [[pass]][[ier]][[en]]
 
 Partizip I: [[passierend]], Partizip II: [[passiert]]
 , [[Erfolgen]], [[Passant]], [[s1 e1]], [[ergehen]]
-, [[entlanggehen]], [[übergehen]]
+, [[entlanggehen]], [[übergehen]], [[anfallen]]

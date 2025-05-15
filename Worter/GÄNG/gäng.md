@@ -1,1 +1,1 @@
-, [[Schulabgängerin]], [[Schulabgänger]]
+, [[Schulabgängerin]], [[Schulabgänger]], [[zugänglich]]

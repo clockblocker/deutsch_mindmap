@@ -12,4 +12,4 @@ Bei  die Arbeit trinke ich Tee
 die Kinder essen [[bei]] Freunden.
 
 Ich [[beim]] [[Frühstück]]
-, [[dabei]], [[Herbei]], [[nebenbei]], [[vorbeikommen]], [[beibringen]], [[bringen]], [[da]], [[Beitritt]], [[beitreten]], [[Vereinsbeitrag]], [[beistehen]], [[beibehalten]], [[stehen]], [[wobei]], [[Arbeitsbedingungen]], [[beitragen]], [[hierbei]]
+, [[dabei]], [[Herbei]], [[nebenbei]], [[vorbeikommen]], [[beibringen]], [[bringen]], [[da]], [[Beitritt]], [[beitreten]], [[Vereinsbeitrag]], [[beistehen]], [[beibehalten]], [[stehen]], [[wobei]], [[Arbeitsbedingungen]], [[beitragen]], [[hierbei]], [[Beihilfe]]

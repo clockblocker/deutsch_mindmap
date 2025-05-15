@@ -4,6 +4,9 @@
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^10|^]]* Ohne diese persönlichen [[Interaktion]]en kann es zu einem [[Rückgang]] der kreativen [[Zusammenarbeit]] und einer [[allgemeinen]] [[Entfremdung]] unter Kollegen kommen. ^10
 
 
+*[[C1-Lesen-T4-100-Text#^3|^]]* Moderne Kunst [[erzielt]] trotz [[allgemeiner]] [[Geringschätzung]] enorme Preise. ^3
+
+
 der [[allgemeinen]] Religionsfreiheit
 
 ---

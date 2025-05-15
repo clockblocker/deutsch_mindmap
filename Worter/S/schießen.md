@@ -36,4 +36,4 @@ Partizip II: [[geschossen]]
 Zu+infinitive: [[zuschießen]]
 
 ---
-[[Schuss]], [[Schießen]], [[Schießerei]], [[Schießbude]], [[Schießstand]], [[Schießpulver]], [[Schießgewehr]], [[Schießlehrer]]
+[[Schuss]], [[Schießen]], [[Schießerei]], [[Schießbude]], [[Schießstand]], [[Schießpulver]], [[Schießgewehr]], [[Schießlehrer]], [[Zuschuss]]

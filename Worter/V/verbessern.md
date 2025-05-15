@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 🔧 [[verbessern]], [fɛɐ̯ˈbɛsɐn] | [[verbesserte]], haben [[verbessert]]
 
@@ -38,4 +38,4 @@ Zu+infinitive: [[zu verbessern]]
 
 ---
 [[Verbesserung]], [[Verbesserungspotenzial]], [[Verbesserungsvorschlag]], [[Verbesserungsmaßnahme]], [[Selbstverbesserung]], [[antun]], [[am besten]], [[ergänzen]]
-, [[unverbesserlich]], [[stärken]], [[steigern]], [[versauen]], [[weiterentwickeln]], [[voranbringen]]
+, [[unverbesserlich]], [[stärken]], [[steigern]], [[versauen]], [[weiterentwickeln]], [[voranbringen]], [[ausbauen]]

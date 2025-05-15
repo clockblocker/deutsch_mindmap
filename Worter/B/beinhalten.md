@@ -1,1 +1,1 @@
-, [[einschließen]], [[enthalten]]
+, [[einschließen]], [[enthalten]], [[umfassen]]

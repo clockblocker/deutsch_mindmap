@@ -1,2 +1,2 @@
 , [[kündigen]]
-, [[verabreden]]
+, [[verabreden]], [[terminlich]]

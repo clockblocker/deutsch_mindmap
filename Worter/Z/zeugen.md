@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 🧬 [[zeugen]], [ˈtsɔɪ̯gən] | [[zeugte]], haben [[gezeugt]]
 

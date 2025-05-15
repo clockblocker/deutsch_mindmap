@@ -1,1 +1,1 @@
-, [[Tschechien]]
+, [[Tschechien]], [[mitteleuropäisch]]

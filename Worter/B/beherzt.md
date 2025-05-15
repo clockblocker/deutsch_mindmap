@@ -26,3 +26,4 @@ P: [[beherzten]], [[beherzteren]], [[beherztesten]]
 
 ---
 [[Herz]], [[beherzigen]], [[Herzens]], [[herzlich]], [[beherzigt]]
+, [[eingreifen]]

@@ -1,1 +1,1 @@
-, [[Einsatzes]], [[Anlage]], [[Aufwand]]
+, [[Einsatzes]], [[Anlage]], [[Aufwand]], [[Kapitalanlage]]

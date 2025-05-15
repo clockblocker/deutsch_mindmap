@@ -1,1 +1,1 @@
-, [[fallen]], [[fliegen]], [[überstürzen]], [[stürmen]]
+, [[fallen]], [[fliegen]], [[überstürzen]], [[stürmen]], [[aufschlagen]]

@@ -1,1 +1,1 @@
-, [[bepflanzen]]
+, [[bepflanzen]], [[abholzen]]

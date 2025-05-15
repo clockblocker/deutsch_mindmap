@@ -32,4 +32,4 @@ A: die [[Einschränkung]], die [[Einschränkungen]]
 G: der [[Einschränkung]], der [[Einschränkungen]]
 D: der [[Einschränkung]], den [[Einschränkungen]]
 
-#Feminin 
+#Feminin , [[Ausbau]]

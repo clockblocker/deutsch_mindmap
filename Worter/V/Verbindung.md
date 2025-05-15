@@ -33,4 +33,4 @@ D: der [[Verbindung]], den [[Verbindungen]]
 
 , [[Abstand]], [[Beziehung]], [[binden]], [[zusammenschrauben]], [[verbinden]], [[Bezug]], [[Zusammenschluss]], [[Scheidung]]
 , [[Worter/Beziehung]], [[Beziehung]], [[Texte/Misc/Anki]]
-, [[Achse]], [[Gemeinschaft]], [[Zugang]], [[Abhängigkeit]], [[Austausch]], [[Interaktion]], [[Zusammenarbeit]], [[Internetzugang]], [[Stromanschluss]], [[Anschluss]]
+, [[Achse]], [[Gemeinschaft]], [[Zugang]], [[Abhängigkeit]], [[Austausch]], [[Interaktion]], [[Zusammenarbeit]], [[Internetzugang]], [[Stromanschluss]], [[Anschluss]], [[Netzwerk]], [[Verschmelzung]]

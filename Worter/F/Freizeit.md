@@ -35,4 +35,4 @@ G: der [[Worter/F/Freizeit]], -
 D: der [[Worter/F/Freizeit]], -
 
 
-#Feminin , [[Privatleben]], [[Berufsleben]], [[Meeting]], [[Kurs]], [[Spiel]], [[Bürosituation]], [[Urlaubstag]], [[Arbeitsumgebung]], [[Bauarbeit]], [[Arbeitsbelastung]], [[Dienstreise]], [[Bildungsurlaub]]
+#Feminin , [[Privatleben]], [[Berufsleben]], [[Meeting]], [[Kurs]], [[Spiel]], [[Bürosituation]], [[Urlaubstag]], [[Arbeitsumgebung]], [[Bauarbeit]], [[Arbeitsbelastung]], [[Dienstreise]], [[Bildungsurlaub]], [[Hauptbeschäftigung]]

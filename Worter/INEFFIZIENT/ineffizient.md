@@ -1,2 +1,2 @@
 ---> 💸 [[Grad-Preis]] <---
-, [[effizient]]
+, [[effizient]], [[zeitsparend]]

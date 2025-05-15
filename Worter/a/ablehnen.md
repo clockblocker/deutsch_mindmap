@@ -5,6 +5,9 @@
 ---
 Simon muss also damit [[rechnen]], dass Jannis seine [[Bitte]] [[ablehnen]] wird. Deshalb greift er zu einem kleinen Trick: Er [[schmiert]] seinem Chef [[Jemandem Honig um den Bart schmieren|Honig um den]] [[Bart]].
 
+*[[C1-Lesen-T4-100-Text#^30|^]]* Es scheint, dass die Mehrheit der [[Bevölkerung]] moderne Kunstwerke [[ablehnt]]; [[dennoch]] erreichen diese Werke einen hohen Geldwert. ^30
+
+
 - Ich [[ablehne|lehne]] ... ab, weil / denn ...
 
 
@@ -37,7 +40,7 @@ Zu+infinifive: [[abzulehnen]]
 [[Ablehnung]], [[Ablehnend]], [[Ablehnungsgrund]], [[Ablehnungsschreiben]]
 
 
-[[übernehmen]][[lernen]][[aussuchen]][[behandeln]], [[Trinken]], [[bestellt]], [[hassen]], [[meinen]], [[zugeben]], [[brauchen]], [[gehören]], [[bewerben]], [[nehm]], [[Verlangen]], [[verhandelen]], [[frönen]], [[tun]], [[bieten]], [[nachbringen]], [[einladen]], [[mögen]], [[kümmern]], [[gefallen]], [[verwenden]], [[zuneigen]], [[neigen]], [[zuwenden]], [[nutzen]], [[wählen]], [[gieren]], [[pflichten]], [[missfallen]], [[ertragen]], [[verzichten]], [[nehmen]], [[raten]], [[begrüßen]], [[vorschlagen]], [[nicken]], [[vereinbaren]], [[wünschen]], [[entgegenfiebern]], [[anbieten]], [[bitten]], [[schmieren]], [[genießen]], [[löffeln]], [[beschließen]], [[vertragen]], [[erlauben]], [[empfangen]], [[ungerechtfertigen]], [[überreden]], [[vorziehen]], [[unterstützen]], [[vertreten]], [[bestechen]], [[beherbergen]], [[wollen]], [[freien]], [[vorhaben]], [[umarmen]], [[fordern]], [[auffordern]], [[haften]], [[beraten]], [[verstoßen]], [[entwerfen]], [[gewähren]], [[stimmen]], [[gewöhnen]], [[aufnehmen]], [[verlieben]], [[Küssen]], [[verinnerlichen]], [[ausprobieren]], [[beweisen]], [[liebgewinnen]], [[verabscheuen]]
+[[übernehmen]][[lernen]][[aussuchen]][[behandeln]], [[Trinken]], [[bestellt]], [[hassen]], [[meinen]], [[zugeben]], [[brauchen]], [[gehören]], [[bewerben]], [[nehm]], [[verlangen]], [[verhandelen]], [[frönen]], [[tun]], [[bieten]], [[nachbringen]], [[einladen]], [[mögen]], [[kümmern]], [[gefallen]], [[verwenden]], [[zuneigen]], [[neigen]], [[zuwenden]], [[nutzen]], [[wählen]], [[gieren]], [[pflichten]], [[missfallen]], [[ertragen]], [[verzichten]], [[nehmen]], [[raten]], [[begrüßen]], [[vorschlagen]], [[nicken]], [[vereinbaren]], [[wünschen]], [[entgegenfiebern]], [[anbieten]], [[bitten]], [[schmieren]], [[genießen]], [[löffeln]], [[beschließen]], [[vertragen]], [[erlauben]], [[empfangen]], [[ungerechtfertigen]], [[überreden]], [[vorziehen]], [[unterstützen]], [[vertreten]], [[bestechen]], [[beherbergen]], [[wollen]], [[freien]], [[vorhaben]], [[umarmen]], [[fordern]], [[auffordern]], [[haften]], [[beraten]], [[verstoßen]], [[entwerfen]], [[gewähren]], [[stimmen]], [[gewöhnen]], [[aufnehmen]], [[verlieben]], [[Küssen]], [[verinnerlichen]], [[ausprobieren]], [[beweisen]], [[liebgewinnen]], [[verabscheuen]]
 , [[zufriedengeben]]
 , [[loben]]
 , [[bevorzugen]]

@@ -20,7 +20,7 @@ Aomine zu Kuro: Es sind [[nutzlose]] [[Bemühungen]]
 useless, pointless
 
 ---
-[[nutz]]|[[los]]
+[[Nutz]]|[[los]]
 
 ---
 N: [[nutzlos]], [[nutzloser]], [[nutzlosester]]  
@@ -32,4 +32,4 @@ N: [[nutzloses]], [[nutzloseres]], [[nutzlosestes]]
 P: [[nutzlosen]], [[nutzloseren]], [[nutzlosesten]]  
 
 ---
-[[Nutzlosigkeit]], [[Nutzung]], [[nutzen]], [[unnütz]], [[nützlich]]
+[[Nutzlosigkeit]], [[Nutzung]], [[nutzen]], [[unnütz]], [[nützlich]], [[hilfreich]]

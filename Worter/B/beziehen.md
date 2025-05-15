@@ -4,6 +4,8 @@
  [Player to the team] -- Wie habt ihr Kaijo [[beziegt]]? 
  Durch pure [[Willenskraft]] oder?
 
+c) Die [[Untersuchung]]en würden sich nur auf den männlichen [[Nachwuchs]] [[beziehen]].
+
 *[[C1-Lesen-T1-000-Loesung#^6|^]]* „Damalig“ [[bezieht]] sich auf eine frühere Zeit. Die Bedrohung durch Plastikmüll ist jedoch [[gegenwärtig]], nicht nur in der Vergangenheit. ^6
 
 
@@ -41,4 +43,4 @@ PI: [[beziehend]], PII: [[bezogen]], Zu+inf: [[zu beziehen]]
 
 , [[erhalten]], [[Bezug]], [[berufsbezogen]], [[bezogen]]
 , [[beziehungsweise]], [[Worter/Beziehung]], [[Beziehung]], [[anspielen]]
-, [[bekommen]], [[anmieten]], [[einfließen]]
+, [[bekommen]], [[anmieten]], [[einfließen]], [[herunterladen]]

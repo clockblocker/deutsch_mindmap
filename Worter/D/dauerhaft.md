@@ -8,8 +8,13 @@
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
 
 
+*[[000-C1-Schreiben-T1#^6|^]]* Auf der anderen Seite sind viele der [[fest]]en [[Überzeugung]], dass die [[dauerhaft]]e [[Verschmelzung]] von Online- und [[Realwelt]] [[zahlreich]]e [[Gefahr]]en mit sich [[mitbringen|bringt]]. ^6
 
-- Erklären Sie, welche Folgen ein [[dauerhaftes]] Ungleichgewicht zwischen Arbeit und Freizeit haben kann.
+
+*[[000-C1-Schreiben-T1#^2|^]]* Einer der wichtigsten [[Antriebsfaktor]]en dafür ist das enorme [[Angebot]] an sozialen Medien: Sie ermöglichen [[sowohl]] [[dauerhaft]]en sozialen [[Kontakt]] als auch [[grenzenlos]]e [[Unterhaltung]]. ^2
+
+
+Erklären Sie, welche Folgen ein [[dauerhaftes]] Ungleichgewicht zwischen Arbeit und Freizeit haben kann.
 
 ---
 = [[beständig]], [[permanent]], [[langfristig]]

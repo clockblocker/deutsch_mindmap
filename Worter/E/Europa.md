@@ -1,1 +1,1 @@
-, [[europäisch]], [[Ostasien]], [[westeuropäisch]]
+, [[europäisch]], [[Ostasien]], [[westeuropäisch]], [[mitteleuropäisch]]

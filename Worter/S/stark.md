@@ -36,4 +36,4 @@ Adjektive: [[stark]], [[stärker]], [[stärkst]]
 - *Die* [[Worter/S/stärkste.md|stärkste]] *Mutter und ein* [[Worter/S/stärkster.md|stärkster]] *Sohn gaben* [[Worter/S/stärkstem.md|stärkstem]] *Vater ein* [[Worter/S/stärkstes.md|stärkstes]] *Geschenk* [[Worter/S/stärksten.md|stärksten]] *Onkels*
 
 
-[[schmal]], [[erheblich]], [[beträchtlich]], [[heftig]]
+[[schmal]], [[erheblich]], [[beträchtlich]], [[heftig]], [[männlich]]

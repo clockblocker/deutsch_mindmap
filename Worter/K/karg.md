@@ -1,1 +1,1 @@
-, [[trocken]]
+, [[trocken]], [[unfruchtbar]], [[fruchtbar]], [[dürr]]

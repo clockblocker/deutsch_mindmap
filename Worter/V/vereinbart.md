@@ -1,1 +1,1 @@
-, [[vereinbaren]], [[Vereinbarkeit]]
+, [[vereinbaren]], [[Vereinbarkeit]], [[geregelt]]

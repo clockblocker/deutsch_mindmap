@@ -1,1 +1,1 @@
-, [[europäisch]]
+, [[europäisch]], [[mitteleuropäisch]]

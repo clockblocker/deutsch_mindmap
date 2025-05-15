@@ -4,6 +4,9 @@ die [[Entwicklungen]]
 ---
 Der Film zeigt die [[Entwicklung]] eines Menschen von der Geburt bis zum Tod.
 
+*[[000-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+
+
 Zurzeit [[leite]] ich ein Team von sechs Softwareingenieur:innen bei der [[Entwicklung]] unseres [[intern]]en „E-Ledger“-Projekts für den [[Buchhaltungsbereich]]. ^2
 
 
@@ -38,4 +41,4 @@ D: der [[Entwicklung]], den [[Entwicklungen]]
 [[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Texte/Misc/Anki]], [[Wendung]]
 , [[fehlentwicklung]], [[Karriere]], [[Stadtentwicklung]], [[Persönlichkeitsentwicklung]], [[Laufbahn]], [[Kindesalter]], [[Verbesserung]], [[Teamentwicklung]], [[Technologie]], [[Ausarbeitung]]
 
-#Feminin , [[Open Space]], [[Ablauf]], [[Bedeutungsverschiebung]], [[Verlauf]]
+#Feminin , [[Open Space]], [[Ablauf]], [[Bedeutungsverschiebung]], [[Verlauf]], [[Neuzüchtung]], [[Wandel]], [[Ausbau]]

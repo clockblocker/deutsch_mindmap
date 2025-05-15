@@ -3,6 +3,9 @@
 ---
 Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind.
 
+###### ###### 9. Welche Folgen kann [[fehlende]] [[Geborgenheit]] für einen [[Säugling]] haben?
+a) Er kann später [[Belastung]]en schwieriger [[handhaben]].  
+
 *[[C1-Lesen-T2-101-Text#^14|^]]* [[Fehlten]] aus dem Spielzeugangebot der anderen Gruppe [[plötzlich]] mehrere Spiele, arrangierten sich die Kinder schnell mit dem [[übriggebliebenen]] Spielzeug und wurden kreativer und sogar sozialer: Sie teilten sich das Spielzeug, obwohl es während der Zeit des [[Übergangebot]]s [[ständig]] [[Streitereien]] gab. ^14
 
 

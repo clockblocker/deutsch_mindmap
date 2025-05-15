@@ -1,3 +1,3 @@
 , [[Grundlage]]
 , [[Unterlage]]
-, [[Grund]], [[Grundvoraussetzung]]
+, [[Grund]], [[Grundvoraussetzung]], [[Standbein]]

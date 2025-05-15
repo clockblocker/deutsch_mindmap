@@ -31,4 +31,4 @@ Synonyme:
 
 #Substantiv
 #Neuter[[handel]], [[Geschäftsleben]], [[Texte/Misc/Anki]], [[Zoogeschäft]]
-, [[Angelegenheit]], [[Geschäftsidee]], [[Verkauf]], [[Geschäftsreise]], [[Geschäftsführung]], [[Spielzeuggeschäft]]
+, [[Angelegenheit]], [[Geschäftsidee]], [[Verkauf]], [[Geschäftsreise]], [[Geschäftsführung]], [[Spielzeuggeschäft]], [[Boutique]]

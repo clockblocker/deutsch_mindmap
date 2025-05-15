@@ -1,18 +1,21 @@
 🙋‍♂️ [[vertreten]], [fɛɐ̯ˈtʁeːtn̩] | [[vertrat]], haben [[vertreten]]
 
 ---
+*[[001-C1-Schreiben-T1#^2|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt. ^2
+
+
 141. Wer [[berät]] in Deutschland Personen bei Rechtsfragen und [[vertritt]] sie vor [[Gericht]]? (87%)
 	- [x] ein [[Rechtsanwalt]] / eine Rechtsanwältin
 
-26. Wen [[vertreten]] die [[Gewerkschaften]] in Deutschland? (89%)
+142. Wen [[vertreten]] die [[Gewerkschaften]] in Deutschland? (89%)
 	- [x] [[Arbeitnehmer]] und Arbeitnehmerinnen
 
 
-139. Wann kommt es in Deutschland zu einem Prozess vor [[Gericht]]? Wenn jemand … (93%)
+143. Wann kommt es in Deutschland zu einem Prozess vor [[Gericht]]? Wenn jemand … (93%)
 	- [x] eine [[Straftat]] begangen hat und [[angeklagt]] wird.
 	- [ ] eine andere Meinung als die der [[Regierung]] [[vertritt]].
 
-41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
+144. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
 ---
 = [[repräsentieren]], [[vertreten]], [[stellvertretend sein]]

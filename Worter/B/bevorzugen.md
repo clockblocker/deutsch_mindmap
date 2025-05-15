@@ -3,6 +3,10 @@
 ---
 [[Eine Extrawurst bekommen.md#^4|(q)]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
 
+
+25 Aus Kostengründen sollte man unbemannte [[Raumflüge]] [[bevorzugen]].  a
+
+
 ---
 = [[präferieren]], [[vorziehen]], [[begünstigen]], [[mögen]],
 ≈ [[wählen]], [[auswählen]], [[favorisieren]],  [[unterstützen]], 

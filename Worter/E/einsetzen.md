@@ -5,7 +5,7 @@
 ---
 [[einsetzen|Setzen]] Sie die richtigen Wörter in die Lücken im Satz ein.
 
-- Erklären Sie, in welchen [[Berufsfeldern]] KI [[bereits]] [[eingesetzt]] wird.
+Erklären Sie, in welchen [[Berufsfeldern]] KI [[bereits]] [[eingesetzt]] wird.
 
 *[[3 Soll man Geld spenden?#^7|^]]* Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine `gemeinnützige | ehrenamtlich` Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit [[einsetzt]]. ^7
 
@@ -39,5 +39,4 @@ Zu+infinifive: [[einzusetzen]]
 ---
 [[Einsatz]], [[Einsetzen]], [[Einsetzung]], [[Einsatzbereit]], [[Einsatzleiter]], [[Einsatzfahrzeug]]
 
-, [[benutzen]], [[herausnehmen]], [[verwenden]], [[nutzen]], [[stecken]], [[schäftigen]], [[Einsatzes]]
-, [[anwenden]], [[einführen]], [[aufs Spiel setzen]], [[Wetteinsatz]]
+[[steigen]]

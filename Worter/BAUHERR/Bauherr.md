@@ -1,1 +1,1 @@
-, [[Bauarbeiter]]
+, [[Bauarbeiter]], [[Bauplan]]

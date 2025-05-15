@@ -1,4 +1,4 @@
 ---> [[Ingredient-Bedürfnis]] <---
 
 , [[Versicherungspflicht]], [[unentbehrlich]], [[Notwendigkeit]]
-, [[erforderlich]], [[Voraussetzung]], [[Grundvoraussetzung]], [[Bedürfnis]], [[Sachzwang]], [[Bedarf]], [[Forschungsbedarf]]
+, [[erforderlich]], [[Voraussetzung]], [[Grundvoraussetzung]], [[Bedürfnis]], [[Sachzwang]], [[Bedarf]], [[Forschungsbedarf]], [[erfordern]]

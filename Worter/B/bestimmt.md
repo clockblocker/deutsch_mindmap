@@ -4,6 +4,9 @@
 ---
 Ich bin mir sicher, das Bild wird [[bestimmt]] gut.
 
+*[[C1-Lesen-T4-100-Text#^7|^]]* Der [[Geldwert]] wird nicht nur durch Größe, [[Aufwand]] und Materialien [[bestimmt]], sondern auch durch den [[Bekanntheitsgrad]] des Objekts oder des Kunstschaffenden. ^7
+
+
 [[Gegenstände]], die das Kind in eine [[bestimmte]] [[Laufbahn]] [[steuern]].  
 
 • “zu + infinitiv” → [[einfaches]] Infinitiv-Konstrukt nach [[bestimmten]] Wörtern
@@ -34,4 +37,4 @@ N: [[bestimmtes]], [[bestimmteres]], [[bestimmtestes]]
 P: [[bestimmten]], [[bestimmteren]], [[bestimmtesten]]  
 
 ---
-[[bestimmen]], [[Bestimmung]], [[unbestimmt]], [[Bestimmtheit]], [[bestimmbar]], [[s1 e1]], [[Texte/Misc/Anki]], [[speziell]], [[zielgerichtet]], [[womöglich]]
+[[bestimmen]], [[Bestimmung]], [[unbestimmt]], [[Bestimmtheit]], [[bestimmbar]], [[s1 e1]], [[Texte/Misc/Anki]], [[speziell]], [[zielgerichtet]], [[womöglich]], [[geregelt]]

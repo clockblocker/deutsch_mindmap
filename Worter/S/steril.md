@@ -1,1 +1,1 @@
-[[sauber]], [[schwanger]], [[trocken]]
+[[sauber]], [[schwanger]], [[trocken]], [[unfruchtbar]], [[fruchtbar]]

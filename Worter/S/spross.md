@@ -1,1 +1,1 @@
-, [[sprießen]], [[Sprössling]]
+, [[sprießen]], [[Sprössling]], [[Nachwuchs]]

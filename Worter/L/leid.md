@@ -18,4 +18,4 @@ Morphems:
 [[leid]]
 
 ---
-#Substantiv #Neuter, [[Herzeleid]], [[Freudiges]], [[Wohlbefinden]], [[erleiden]]
+#Substantiv #Neuter, [[Herzeleid]], [[Freudiges]], [[Wohlbefinden]], [[erleiden]], [[Trauma]]

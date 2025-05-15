@@ -1,1 +1,1 @@
-, [[Ausgleich]], [[Sanierung]]
+, [[Ausgleich]], [[Sanierung]], [[Heilung]]

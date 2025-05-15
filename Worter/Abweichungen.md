@@ -1,0 +1,1 @@
+📉 [[abweichen]] | 🔴 die [[Abweichung]] 📉

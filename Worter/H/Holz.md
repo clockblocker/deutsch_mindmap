@@ -4,7 +4,9 @@ die [[Hölzer]]
 ---
 Wir sitzen an einem Tisch aus [[Holz]].
 
-, [[Hölzchen]]
+###### Welche [[Vorzüge]] des [[Kiribaumes]] werden [[u.a.]] [[angesprochen]]?
+b) Sein [[Holz]] ist sehr robust.
+
 
 ---
 Synonyme: 
@@ -21,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Holzes]], [[Holze]], [[Hölzer]], [[Hölzern]]
 
 ---
-#Substantiv #Neuter, [[Streichholz]], [[Holzplatte]], [[Bambus]]
+#Substantiv #Neuter, [[Streichholz]], [[Holzplatte]], [[Bambus]], [[Kalamitätsholz]], [[abholzen]]

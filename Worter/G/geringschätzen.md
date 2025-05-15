@@ -1,1 +1,1 @@
-, [[bewundern]]
+, [[bewundern]], [[Geringschätzung]]

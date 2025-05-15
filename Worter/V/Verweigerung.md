@@ -1,2 +1,3 @@
 ---> 🤝 [[Ingredient-Interaktion]] <---
 
+, [[Teilnahme]], [[Zuwendung]]

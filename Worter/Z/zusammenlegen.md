@@ -1,2 +1,2 @@
 , [[aufteilen]]
-, [[zusammenbrechen]]
+, [[zusammenbrechen]], [[fächern]]

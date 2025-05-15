@@ -1,5 +1,5 @@
 ---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 🌱 [[wachsen]], [ˈvaksn̩] | [[wuchs]], [[sein gewachsen]]
 

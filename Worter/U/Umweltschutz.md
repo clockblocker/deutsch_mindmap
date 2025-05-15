@@ -1,1 +1,1 @@
-, [[Umweltprojekt]], [[Umwelt]], [[Naturschutz]], [[Umweltbelastung]]
+, [[Umweltprojekt]], [[Umwelt]], [[Naturschutz]], [[Umweltbelastung]], [[Klimaschutz]]

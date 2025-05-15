@@ -2,13 +2,9 @@
 ---> ⏱️ [[Temporal-Frequenz]] <---
 #### 🟢 [[immer]] 
 1) [[stets]] *(formal immer)*
-	- 
 2) [[dauerhaft]] *(permanent, enduring)*
-	- 
 3) [[konstant]] *(consistent)*
-	- 
 4) [[durchgehend]] *(uninterrupted)*
-	- 
 #### 🟡 [[oft]] 
 1) [[regelmäßig]] *(regularly)*
 	- 

@@ -3,6 +3,12 @@
 ---
 Ich sah den Mann [[zunächst]] nicht, bis er [[winkte]]
 
+[[Dissenbacher]] [[züchtete]] [[zunächst]] den Kiri-Hybrid Nordmax21, der auch im strengen [[mitteleuropäischen]] Klima wächst und [[gedeiht]]. ^1
+
+
+**10. Die [[Neuzüchtung]] …**  
+b) hatte [[zunächst]] Probleme dem [[mitteleuropäischen]] [[Klima]] [[standzuhalten]].  
+
 *[[C1-Lesen-T1-000-Text#^13|^]]* [[Sobald]] ein Stück Müll identifiziert und [[geortet]] wurde, muss sich der Roboter [[zunächst]] in [[dessen]] Nähe bewegen. ^13
 
 
@@ -29,4 +35,4 @@ Komparativ: nicht üblich
 Superlativ: nicht üblich
 
 ---
-[[zunächst einmal]], [[bis zunächst]], [[vorerst]], [[Konnektoren]], [[winken]], [[Texte/Misc/Anki]], [[einmal]], [[Konnektivpartikeln]], [[wiederum]], [[letztendlich]]
+[[zunächst einmal]], [[bis zunächst]], [[vorerst]], [[Konnektoren]], [[winken]], [[Texte/Misc/Anki]], [[einmal]], [[Konnektivpartikeln]], [[wiederum]], [[letztendlich]], [[gedeihen]]

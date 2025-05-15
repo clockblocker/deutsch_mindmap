@@ -32,4 +32,4 @@ Einzigartige mögliche Formen:
 [[fett]], [[fetter]], [[fette]], [[fettes]], [[fetten]], [[fettem]], [[fetter]], [[fetten]]
 [[fettere]], [[fetteren]], [[fetteres]], [[fetterer]], [[fetterem]], [[fettesten]], [[fettester]]
 [[fettsten]], [[fettster]], [[fettste]], [[fettstes]], [[fettsten]], [[fettstem]], [[fettster]], [[fettsten]]
-''', [[s1 e1]]
+''', [[s1 e1]], [[Fettleibigkeit]]

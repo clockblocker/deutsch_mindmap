@@ -32,6 +32,6 @@ P: [[langen]], [[längeren]], [[längsten]]
 
 ---
 [[Länge]], [[langsam]], [[verlängern]]
-[[kurz]][[speziellen]], [[Verlangen]], [[klein]], [[langweilen]], [[langweilig]], [[speziell]]
+[[kurz]][[speziellen]], [[verlangen]], [[klein]], [[langweilen]], [[langweilig]], [[speziell]]
 , [[entlang]]
 , [[entlanggehen]], [[langfristig]], [[langjährig]], [[langanhaltend]], [[Langeweile]]

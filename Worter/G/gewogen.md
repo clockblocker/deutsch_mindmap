@@ -1,1 +1,1 @@
-[[wiegen]]
+[[wiegen]], [[abwägen]], [[ungewogen]]

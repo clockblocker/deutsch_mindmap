@@ -3,6 +3,9 @@
 ---
 Ich [[beziehe]] mich [[Worter/A/auf]] das, was Sie [[vorhin]] [[erwähnt]] haben.  
 
+*[[C1-Lesen-T4-100-Text#^24|^]]* [[Erwähnt]] man aber die [[Kunstepoche]] gegenüber [[Straßenpassanten]], so stellen sich viele nur eine wilde [[Kleck]]­serei vor und [[schütteln]] [[missbilligend]] den Kopf. ^24
+
+
 **“von etwas sprechen”** → wenn du etwas [[erwähnst]] oder auf etwas [[anspielst]]
 • bei diskussionen: **über etwas sprechen**
 • bei [[Erwähnungen]]/[[hinweisen]]: **von etwas sprechen**

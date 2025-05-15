@@ -1,1 +1,1 @@
-, [[bewusst]], [[vorsichtig]], [[verantwortungsbewusst]]
+, [[bewusst]], [[vorsichtig]], [[verantwortungsbewusst]], [[abwägen]], [[ungewogen]]

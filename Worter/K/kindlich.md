@@ -1,1 +1,1 @@
-, [[elterlich]], [[frühkindlich]]
+, [[elterlich]], [[frühkindlich]], [[Kindheit]]

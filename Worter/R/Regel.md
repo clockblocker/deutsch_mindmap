@@ -1,10 +1,21 @@
-die [[Worter/R/Regel]], [ˈʁeːɡl̩]
+ --> [[Ingredient-Add-Remove]] <--
+
+die [[Regel]], [ˈʁeːɡl̩]
 die [[Regeln]]
 
 ---
-In der [[Worter/R/Regel]] ist es gefährlich, wenn das Eis bricht, zum Beispiel auf einem zugefrorenen See. 
+❤️ [[Regel]]n [[etablieren]]       *(Establish / Normalize)*
 
-[[2 prap.md#^15|(q)]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Worter/R/Regel]] ^15
+*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
+
+
+*[[000-C1-Schreiben-T1#^10|^]]* *[[Leider]] ist das [[leichter gesagt als getan]], denn es [[erfordert]] enorme [[Disziplin]],* 
+[[praktikable]] [[Regel]]n zu [[etablieren]], 
+*um die Online-Zeit [[konsequent]] zu [[begrenzen]].*
+
+In der [[Regel]] ist es gefährlich, wenn das Eis bricht, zum Beispiel auf einem zugefrorenen See. 
+
+[[2 prap.md#^15|(q)]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
 
 ---
 Synonyme:
@@ -15,21 +26,12 @@ Synonyme:
 
 ---
 Morpheme:
-[[Worter/R/Regel]]
+[[Regel]]
 
 ---
-Einzigartige mögliche Formen: [[Worter/R/Regel]], [[Regeln]], [[Regels]], [[Regels]]
+Einzigartige mögliche Formen: [[Regel]], [[Regeln]], [[Regels]], [[Regels]]
 
 ---
 #Substantiv #Feminin 
 
-Bedeutungen:
-1. Allgemeine Vorschrift oder Anweisung, die ein bestimmtes Verhalten oder Vorgehen festlegt
-2. In der Mathematik: Eine Handlungsanweisung zur Lösung einer Aufgabe
-3. In der Grammatik: Eine sprachliche Norm oder Struktur
-4. Biologisch: Ein wiederkehrendes Muster oder Prozess
-
-Beispielsätze:
-- "Die Regel besagt, dass man pünktlich sein soll."
-- "Es gibt immer Ausnahmen von der Regel."
-- "Die Grammatikregel hilft beim richtigen Schreiben.", [[zufrieren]], [[Ordnung]], [[Richtlinie]], [[einhalten]], [[verbot]], [[Regelung]], [[Ausnahmeregelung]], [[Ausnahme]], [[Einzelfallregelung]]
+ [[zufrieren]], [[Ordnung]], [[Richtlinie]], [[einhalten]], [[verbot]], [[Regelung]], [[Ausnahmeregelung]], [[Ausnahme]], [[Einzelfallregelung]], [[geregelt]], [[Regulierung]]

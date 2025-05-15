@@ -1,2 +1,2 @@
 , [[Abrechnung]]
-, [[Zahlung]]
+, [[Zahlung]], [[Einmalzahlung]]

@@ -1,4 +1,3 @@
-
 💰 🔵 der [[Betrag]], [bəˈtʁaːk](https://youglish.com/pronounce/Betrag/german)
 die [[Beträge]]
 
@@ -27,3 +26,6 @@ A: den [[Betrag]], die [[Beträge]]
 G: des [[Betrags]], der [[Beträge]]
 D: dem [[Betrag]], den [[Beträgen]]
 , [[belaufen]]
+
+
+#Maskulin , [[Förderbetrag]]

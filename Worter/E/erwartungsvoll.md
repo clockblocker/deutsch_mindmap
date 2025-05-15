@@ -1,1 +1,1 @@
-, [[erwartungsgemäß]]
+, [[erwartungsgemäß]], [[Erwartung]]

@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 ---> [[Ingredient-Pflege]] <---
 🎨 [[designen]], [dɪˈzaɪ̯nən] | [[designte]], haben [[designt]]
 

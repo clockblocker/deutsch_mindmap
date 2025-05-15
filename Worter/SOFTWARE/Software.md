@@ -30,4 +30,4 @@ G: der [[Software]], der [[Softwares]]
 D: der [[Software]], den [[Softwares]]
 
 
-#Feminin , [[Softwareprogramm]], [[Server]]
+#Feminin , [[Softwareprogramm]], [[Server]], [[Empfehlungsalgorithmus]]

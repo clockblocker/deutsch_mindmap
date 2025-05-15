@@ -37,4 +37,4 @@ G: der [[Förderung]], der [[Förderungen]]
 D: der [[Förderung]], den [[Förderungen]]
 
 
-#Feminin
+#Feminin, [[Fördermittel]], [[Ausbau]], [[Zuschuss]]

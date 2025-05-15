@@ -4,10 +4,13 @@
 *[[Atom#^33|^]]* Im schlimmsten Fall [[verzögert]] sich das Projekt – und sie können die Natur an ihrem Traumstrand noch etwas länger [[genießen]]. ^33
 
 
+27 Missionen im [[Weltall]] sollten [[terminlich]] [[verzögert]] werden.  a?? b
+
+
 ---
 = [[verspäten]], [[aufschieben]], [[hinauszögern]], , [[hinhalten]], [[verspäten]]
 ≈ [[verlangsamen]], [[hemmen]], [[behindern]], [[aufhalten]]
-≠ [[beschleunigen]], [[fördern]], [[beschleunigen]], [[vorantreiben]]
+≠ [[beschleunigen]], [[fördern]], [[beschleunigen]], [[vorantreiben]], [[bald]],  [[zügig]], [[kurzfristig]]
 
 ---
 to delay, to postpone
@@ -46,4 +49,4 @@ sie, [[verzögern]], [[verzögerten]], [[verzögern]], [[verzögerten]], [[verz�
 Adjektive: [[verzögernd]], [[verzögernder]], [[verzögerndst]]
 
 ---
-[[verzögernder]], [[verzögerndes]], [[verzögernde]], [[verzögernden]], [[verzögerndem]], [[verzögernderer]], [[verzögernderes]], [[verzögerndere]], [[verzögernderen]], [[verzögernderem]], [[verzögerndster]], [[verzögerndstes]], [[verzögerndste]], [[verzögerndsten]], [[verzögerndstem]]
+[[verzögernder]], [[verzögerndes]], [[verzögernde]], [[verzögernden]], [[verzögerndem]], [[verzögernderer]], [[verzögernderes]], [[verzögerndere]], [[verzögernderen]], [[verzögernderem]], [[verzögerndster]], [[verzögerndstes]], [[verzögerndste]], [[verzögerndsten]], [[verzögerndstem]], [[bremsen]]

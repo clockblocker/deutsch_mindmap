@@ -29,4 +29,4 @@ occasionally
 Adjektive: [[gelegentlich]], [[gelegentlicher]], [[am gelegentlichsten]]
 
 ---
-[[gelegentlicher]], [[gelegentliches]], [[gelegentliche]], [[gelegentlichen]], [[gelegentlichem]], [[gelegentlicherer]], [[gelegentlicheres]], [[gelegentlichere]], [[gelegentlicheren]], [[gelegentlicherem]], [[am gelegentlichstener]], [[am gelegentlichstenes]], [[am gelegentlichstene]], [[am gelegentlichstenen]], [[am gelegentlichstenem]], [[rechtsfrei]], [[unaufhörlich]]
+[[gelegentlicher]], [[gelegentliches]], [[gelegentliche]], [[gelegentlichen]], [[gelegentlichem]], [[gelegentlicherer]], [[gelegentlicheres]], [[gelegentlichere]], [[gelegentlicheren]], [[gelegentlicherem]], [[am gelegentlichstener]], [[am gelegentlichstenes]], [[am gelegentlichstene]], [[am gelegentlichstenen]], [[am gelegentlichstenem]], [[rechtsfrei]], [[unaufhörlich]], [[ausnahmslos]]

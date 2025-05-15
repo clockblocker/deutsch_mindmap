@@ -1,1 +1,1 @@
-, [[Leitung]], [[zusteuern]], [[Steuern]], [[Bedienung]]
+, [[Leitung]], [[zusteuern]], [[Steuern]], [[Bedienung]], [[Regulierung]]

@@ -25,4 +25,4 @@ portable, wearable
 Adjektive: [[tragbar]], [[tragbarer]], [[tragbarst]]
 
 ---
-[[tragbarer]], [[tragbares]], [[tragbare]], [[tragbaren]], [[tragbarem]], [[tragbarerer]], [[tragbareres]], [[tragbarere]], [[tragbareren]], [[tragbarerem]], [[tragbarster]], [[tragbarstes]], [[tragbarste]], [[tragbarsten]], [[tragbarstem]]
+[[tragbarer]], [[tragbares]], [[tragbare]], [[tragbaren]], [[tragbarem]], [[tragbarerer]], [[tragbareres]], [[tragbarere]], [[tragbareren]], [[tragbarerem]], [[tragbarster]], [[tragbarstes]], [[tragbarste]], [[tragbarsten]], [[tragbarstem]], [[vertretbar]]

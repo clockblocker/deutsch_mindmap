@@ -10,7 +10,7 @@ Ihm wurde die [[Zufahrt]] zum [[Gelände]] [[verweigert]]
 = [[ablehnen]], [[zurückweisen]], [[versagen]]
 ≈ [[ignorieren]], [[entziehen]], [[verpassen]]
 ≠ [[gewähren]], [[genehmigen]], [[bewilligen]], [[zulassen]], [[Worter/E/einlassen]], [[hineinlassen]], [[ermöglichen]], [[übergeben]]
-!≈ [[anbieten]], [[bieten]], [[annehmen]], [[einladen]], [[zugeben]], [[Verlangen]], [[frönen]], [[tun]], [[ertragen]], [[versprechen]], [[raten]], [[befragen]], [[vereinbaren]], [[wünschen]], [[bitten]], [[vertragen]], [[bezahlen]], [[abgeben]], [[überreden]], [[schlucken]], [[wollen]], [[auffordern]], [[stiften]], [[hinschicken]], [[zufriedengeben]], [[widmen]],
+!≈ [[anbieten]], [[bieten]], [[annehmen]], [[einladen]], [[zugeben]], [[verlangen]], [[frönen]], [[tun]], [[ertragen]], [[versprechen]], [[raten]], [[befragen]], [[vereinbaren]], [[wünschen]], [[bitten]], [[vertragen]], [[bezahlen]], [[abgeben]], [[überreden]], [[schlucken]], [[wollen]], [[auffordern]], [[stiften]], [[hinschicken]], [[zufriedengeben]], [[widmen]],
 
 ---
 to refuse, to deny  
@@ -66,4 +66,4 @@ entziehen, verpassen, übergeben, zugeben, Verlangen, frönen, tun, ertragen, ve
 
 withdraw, miss, hand over, admit, demand, indulge, do, endure, promise, advise, question, wish, ask, tolerate, pay, submit, persuade, swallow, want, request, donate, send, satisfy, dedicate
 
-entziehen, [[bereitstellen]], [[zustimmen]]
+entziehen, [[bereitstellen]], [[zustimmen]], [[Verabreichen]]

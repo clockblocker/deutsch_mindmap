@@ -6,6 +6,9 @@
 ---
 Diese Arbeiter bekommen nur [[gering]] [[Löhne]].
 
+###### Welche [[Eigenschaft]] macht das [[Kiriholz]] in der [[Baubranche]] so beliebt?
+a) Sein [[geringes]] [[Gewicht]].  
+
 *[[100-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die [[geringe]] [[Anzahl]] der Arbeitsplätze in der [[Universitätsbibliothek]] einzugehen. ^1
 
 
@@ -41,4 +44,4 @@ P: [[geringen]], [[geringeren]], [[geringsten]]
 [[Geringfügigkeit]], [[geringschätzig]], [[Geringverdiener]], [[Geringfügigkeit]]
 
 [[speziellen]], [[prima]], [[breit]], [[bitterlich]], [[gewaltigen]], [[gewaltig]], [[klein]], [[speziell]]
-, [[viel]], [[verringern]], [[Million]], [[erheblich]], [[Verringerung]], [[zahlreich]], [[unschätzbar]], [[unzureichend]], [[beträchtlich]]
+, [[viel]], [[verringern]], [[Million]], [[erheblich]], [[Verringerung]], [[zahlreich]], [[unschätzbar]], [[unzureichend]], [[beträchtlich]], [[Geringschätzung]]

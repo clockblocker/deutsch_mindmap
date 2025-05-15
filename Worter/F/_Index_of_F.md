@@ -30,7 +30,7 @@
  [[Worter/F/Fachbuch|Fachbuch]]
  [[Worter/F/fachen|fachen]]
  [[Worter/F/Fächer|Fächer]]
- [[Worter/F/Fächern|Fächern]]
+ [[fächern|fächern]]
  [[Worter/F/Fächers|Fächers]]
  [[Worter/F/Faches|Faches]]
  [[Worter/F/Fachfrau|Fachfrau]]

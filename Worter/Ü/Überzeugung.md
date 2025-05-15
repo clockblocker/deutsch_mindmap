@@ -3,6 +3,12 @@
 ---
 - Ich bin der [[Überzeugung]], dass ...
 
+*[[001-C1-Schreiben-T1#^4|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher klimafreundlichen [[Handlungen]] im [[Alltag]] [[leichter]] gesagt als getan ist. ^4
+
+
+*[[000-C1-Schreiben-T1#^6|^]]* Auf der anderen Seite sind viele der [[fest]]en [[Überzeugung]], dass die [[dauerhaft]]e [[Verschmelzung]] von Online- und [[Realwelt]] [[zahlreich]]e [[Gefahr]]en mit sich [[mitbringen|bringt]]. ^6
+
+
 
 ---
 = [[Glaube]], [[Meinung]], [[Ansicht]]

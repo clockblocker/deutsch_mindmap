@@ -1,1 +1,1 @@
-, [[vollschlank]]
+, [[vollschlank]], [[männlich]]

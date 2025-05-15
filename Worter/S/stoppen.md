@@ -1,2 +1,2 @@
 ---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
-, [[in Gang kommen]]
+, [[in Gang kommen]], [[bremsen]]

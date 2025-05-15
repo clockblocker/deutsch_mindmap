@@ -4,6 +4,8 @@
 ---
 „Ich wollte nicht, dass du es [[erfährst]]“, [[flüsterte]] Petunia. „aber es ist [[wahr]]. Ich habe Sachen gesehen …“
 
+*[[C1-Lesen-T4-100-Text#^27|^]]* So [[erfuhren]] die Kunstschaffenden eine Art [[Befreiung]], denn sie konnten nun wählen, was sie wie sie etwas [[darstellen]] wollten. ^27
+
 
 Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
 

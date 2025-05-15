@@ -5,6 +5,9 @@ NIC: Und du hast Apfelsinen [[statt]] Äpfel gekauft!
 Ich [[nehme]] [[statt]] der Suppe einen Salat
 ANNA: Sam hat 10 Kilo Apfelsinen eingekauft – [[statt]] 10 Äpfel.
 
+*[[001-C1-Schreiben-T1#^3|^]]* Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]. ^3
+
+
 Das Training findet ab 10.2.25 wieder regulär [[statt]] (diese Woche sind Winterferien)[[emails.md#^3|(Quelle: emails)]]
 
 ---

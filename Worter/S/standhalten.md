@@ -3,6 +3,10 @@
 ---
 *[[3  Ein Selbstversuch als Hobbybäuerin#^31|^]]* Sie konnten nicht einmal [[banalen]] Dingen [[standhalten]]. ^31
 
+
+**10. Die [[Neuzüchtung]] …**  
+b) hatte [[zunächst]] Probleme dem [[mitteleuropäischen]] [[Klima]] [[standzuhalten]].
+
 ---
 = [[widerstehen]], [[aushalten]], [[ertragen]], [[durchhalten]], [[mithalten]],  [[überleben]],
 ≈ [[beharren]], [[trotzen]], [[durchhalten]], [[resistent sein]], [[überreden]],  [[standhaft]],

@@ -1,1 +1,1 @@
-, [[öffentlich]], [[Publikumsverkehr]], [[Privatleben]], [[Vertraulichkeit]]
+, [[öffentlich]], [[Publikumsverkehr]], [[Privatleben]], [[Vertraulichkeit]], [[Betriebsgeheimnis]]

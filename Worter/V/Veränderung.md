@@ -31,4 +31,4 @@ Einzigartige mögliche Formen: [[Veränderung]], [[Veränderungen]], [[Veränder
 
 ---
 #Substantiv #Feminin, [[Entwicklung]], [[Wende]], [[Wendung]], [[Zustand]]
-, [[Stimmungsschwankung]], [[Wechsel]], [[Bedeutungsverschiebung]]
+, [[Stimmungsschwankung]], [[Wechsel]], [[Bedeutungsverschiebung]], [[Abweichung]], [[Umstieg]]

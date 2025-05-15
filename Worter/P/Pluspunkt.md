@@ -1,1 +1,1 @@
-, [[Vorteil]], [[Punktabzug]]
+, [[Vorteil]], [[Punktabzug]], [[Vorzug]]

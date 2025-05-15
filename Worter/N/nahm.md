@@ -1,2 +1,2 @@
 ✋ [[nehmen]]
-, [[nehm]], [[Einflussnahme]], [[Ausnahme]]
+, [[nehm]], [[Einflussnahme]], [[Ausnahme]], [[ausnahmslos]]

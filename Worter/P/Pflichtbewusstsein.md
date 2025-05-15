@@ -1,2 +1,2 @@
 , [[Verantwortungsbewusstsein]]
-, [[Sorgfalt]]
+, [[Sorgfalt]], [[Disziplin]]

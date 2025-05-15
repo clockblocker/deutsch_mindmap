@@ -1,1 +1,1 @@
-[[Ausgabe]], [[Betriebskosten]], [[Lebenshaltungskosten]], [[Erlös]]
+[[Ausgabe]], [[Betriebskosten]], [[Lebenshaltungskosten]], [[Erlös]], [[Energiepreis]]

@@ -1,3 +1,3 @@
 ---> ✅ [[Ingredient-erlauben-verbieten]] <---
 
-, [[einfließen]], [[einschleppen]], [[verdrängen]], [[auswählen]]
+, [[einfließen]], [[einschleppen]], [[verdrängen]], [[auswählen]], [[umfassen]], [[eingreifen]]

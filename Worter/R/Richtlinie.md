@@ -11,7 +11,7 @@ die [[Richtlinien]]
 
 ---
 = [[Vorschrift]], [[Anweisung]], [[Direktive]], [[Anleitung]]
-≈ [[Norm]], [[Worter/R/Regel]], [[Leitfaden]], [[Vorgabe]], [[Prinzip]]
+≈ [[Norm]], [[Regel]], [[Leitfaden]], [[Vorgabe]], [[Prinzip]]
 ≠ [[Willkür]], [[Beliebigkeit]], [[Unverbindlichkeit]]
 
 ---

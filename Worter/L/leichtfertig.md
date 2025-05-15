@@ -1,1 +1,1 @@
-, [[vorsichtig]]
+, [[vorsichtig]], [[abwägen]], [[ungewogen]]

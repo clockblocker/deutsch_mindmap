@@ -1,1 +1,1 @@
-, [[entlasten]]
+, [[entlasten]], [[Entlastung]]

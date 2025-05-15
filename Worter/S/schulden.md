@@ -1,1 +1,1 @@
-, [[begleichen]], [[bezahlen]], [[Reparationsleistung]], [[Schuldenpaket]]
+, [[begleichen]], [[bezahlen]], [[Reparationsleistung]], [[Schuldenpaket]], [[verschulden]]

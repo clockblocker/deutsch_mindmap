@@ -1,1 +1,1 @@
-, [[Agentur]], [[Außendienstmitarbeiter]], [[agieren]]
+, [[Agentur]], [[Außendienstmitarbeiter]], [[agieren]], [[Vertreter]]

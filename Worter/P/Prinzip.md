@@ -1,1 +1,1 @@
-, [[Worter/R/Regel]], [[Richtlinie]]
+, [[Regel]], [[Richtlinie]]

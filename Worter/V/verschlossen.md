@@ -1,1 +1,1 @@
-[[abgepackt]], [[offen]]
+[[abgepackt]], [[offen]], [[zugänglich]]

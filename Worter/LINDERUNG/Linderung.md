@@ -1,1 +1,1 @@
-, [[Erleichterung]]
+, [[Erleichterung]], [[Heilung]]

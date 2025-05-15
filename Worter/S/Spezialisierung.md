@@ -1,1 +1,1 @@
-, [[Fachrichtung]]
+, [[Fachrichtung]], [[Wissenschaftszweig]]

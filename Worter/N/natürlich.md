@@ -25,4 +25,4 @@ Adjektive: [[natürlich]], [[natürlicher]], [[natürlichst]]
 ---
 [[natürlicher]], [[natürliches]], [[natürliche]], [[natürlichen]], [[natürlichem]], [[natürlicherer]], [[natürlicheres]], [[natürlichere]], [[natürlicheren]], [[natürlicherem]], [[natürlichster]], [[natürlichstes]], [[natürlichste]], [[natürlichsten]], [[natürlichstem]]
 
-[[stehen]], [[spontan]]
+[[stehen]], [[spontan]], [[naturgetreu]]

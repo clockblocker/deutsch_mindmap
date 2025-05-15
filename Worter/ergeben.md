@@ -1,9 +1,12 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 📊 [[ergeben]], [ɛɐ̯ˈɡeːbn̩] | [[ergab]], haben [[Worter/E/ergeben]]
 
 ---
 Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
+
+*[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den Kunstgegenstand [[verlangen]] kann. ^6
+
 
 ![[Sprechen-T1#^4|^]]
 

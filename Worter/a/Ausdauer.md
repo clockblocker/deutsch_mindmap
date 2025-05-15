@@ -1,2 +1,2 @@
 , [[geduld]], [[Willenskraft]]
-, [[Durchhaltevermögen]]
+, [[Durchhaltevermögen]], [[Ausdauertraining]]

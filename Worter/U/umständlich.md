@@ -1,1 +1,1 @@
-, [[Umstand]], [[umgehen]], [[direkt]]
+, [[Umstand]], [[umgehen]], [[direkt]], [[zeitsparend]]

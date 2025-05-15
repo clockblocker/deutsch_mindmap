@@ -1,1 +1,1 @@
-, [[laden]], [[einladen]]
+, [[laden]], [[einladen]], [[herunterladen]]

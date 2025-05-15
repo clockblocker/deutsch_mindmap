@@ -30,4 +30,4 @@ G: des [[Modells]], der [[Modelle]]
 D: dem [[Modell]], den [[Modellen]]
 
 
-#Neuter , [[Version]]
+#Neuter , [[Version]], [[Bauplan]]

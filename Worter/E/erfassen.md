@@ -47,4 +47,4 @@ sie, [[erfassen]], [[erfassten]], [[erfassen]], [[erfassten]], [[erfassen]]
 Adjektive: [[erfassend]], [[erfassender]], [[erfassendst]]
 
 ---
-[[erfassender]], [[erfassendes]], [[erfassende]], [[erfassenden]], [[erfassendem]], [[erfassenderer]], [[erfassenderes]], [[erfassendere]], [[erfassenderen]], [[erfassenderem]], [[erfassendster]], [[erfassendstes]], [[erfassendste]], [[erfassendsten]], [[erfassendstem]], [[einsammeln]]
+[[erfassender]], [[erfassendes]], [[erfassende]], [[erfassenden]], [[erfassendem]], [[erfassenderer]], [[erfassenderes]], [[erfassendere]], [[erfassenderen]], [[erfassenderem]], [[erfassendster]], [[erfassendstes]], [[erfassendste]], [[erfassendsten]], [[erfassendstem]], [[einsammeln]], [[Auffassung]]

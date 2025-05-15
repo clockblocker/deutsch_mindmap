@@ -28,4 +28,4 @@ G: des [[Kunden]], der [[Kunden]]
 D: dem [[Kunden]], den [[Kunden]]
 
 
-#Maskulin , [[Kundengespräch]]
+#Maskulin , [[Kundengespräch]], [[Auftraggeber]], [[Vertreter]]

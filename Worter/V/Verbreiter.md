@@ -1,1 +1,1 @@
-, [[verbreiten]]
+, [[verbreiten]], [[verbreitern]]

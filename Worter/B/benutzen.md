@@ -13,7 +13,7 @@ Antonyme: [[nicht verwenden]], [[meiden]], [[vermeiden]], [[unterlassen]], [[unt
 Übersetzung: to use, to utilize
 
 ---
-Morpheme: [[be]][[nutz]][[en]]
+Morpheme: [[be]][[Nutz]][[en]]
  #Verb  #Trennbar
 
 ---

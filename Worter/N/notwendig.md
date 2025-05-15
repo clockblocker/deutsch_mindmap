@@ -8,6 +8,9 @@ nicht [[unnötig]]
 ---
 Tun wir nicht manchmal Dinge, die absolut nicht [[notwendig]] sind?
 
+*[[C1-Lesen-T4-100-Text#^11|^]]* Nur wer [[hochdotierte]] Kunstpreise bekommt, vielleicht noch eine Professur hat, über die [[notwendige]] mediale Aufmerksamkeit [[verfügt]] und in bekannten Museen [[ausstellt]], darf auf dem [[Kunstolymp]] Platz nehmen. ^11
+
+
 *[[3 Soll man Geld spenden?#^3|^]]* Ob es sich um die Teilung der [[Ernte]] mit Armen, den [[Kirchenzehnten]] oder formalisierte Steuern [[handelt]], der gesellschaftliche Konsens besagte auf die eine oder andere Weise, dass es für das Leben mit anderen Menschen [[notwendig]] ist, einen Teil des persönlichen [[Wohlstands]] für das [[Gemeinwohl]] auszugeben. ^3
 
 
@@ -37,4 +40,4 @@ Einzigartige mögliche Formen:
 [[notwendigsten]], [[notwendigster]], [[notwendigste]], [[notwendigstes]], [[notwendigsten]], [[notwendigstem]], [[notwendigster]], [[notwendigsten]]
 
 
-, [[unentbehrlich]], [[Notwendigkeit]], [[angelegen]], [[bedürftig]], [[unverzichtbar]], [[dringend]]
+, [[unentbehrlich]], [[Notwendigkeit]], [[angelegen]], [[bedürftig]], [[unverzichtbar]], [[dringend]], [[unabdingbar]]

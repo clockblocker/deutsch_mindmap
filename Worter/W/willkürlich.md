@@ -28,4 +28,4 @@ N: [[willkürliches]], [[willkürlicheres]], [[willkürlichstes]]
 P: [[willkürlichen]], [[willkürlicheren]], [[willkürlichsten]]  
 
 ---
-[[Willkür]], [[willkürlich]], [[Willkürlichkeit]], [[willkürlichkeit]], [[unwillkürlich]]
+[[Willkür]], [[willkürlich]], [[Willkürlichkeit]], [[willkürlichkeit]], [[unwillkürlich]], [[wahllos]]

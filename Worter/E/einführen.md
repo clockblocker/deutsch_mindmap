@@ -3,6 +3,8 @@
 🚶‍♀️ [[einführen]], [ˈaɪ̯nˌfyːʁən] | [[führte ein]], haben [[eingeführt]]
 
 ---
+❤️ [[Regulierung]] [[einführen]]                              *(Introduce)*
+
 Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
 *[[07-C1-Schreiben-T2-M#^7|^]]* wie Sie wissen, wurde vor Kurzem eine neue Software zur [[Zeiterfassung]] unserer [[Produktionsabläufe]] [[eingeführt]]. ^7

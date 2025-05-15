@@ -1,2 +1,2 @@
 
-, [[nah]], [[unweit]], [[quasi]]
+, [[nah]], [[unweit]], [[quasi]], [[nahezu]]

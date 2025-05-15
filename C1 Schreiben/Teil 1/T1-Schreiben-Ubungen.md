@@ -6,10 +6,10 @@
 - [ ] [[000-C1-Schreiben-T1|000]] Soziale Medien – Fluxh oder Segen?
 
 ###### [[Thema-Klima]]
-- [ ] [[001-C1-Schreiben-T1|001]] Klimaschutz – aber wie?
+- [x] [[001-C1-Schreiben-T1|001]] Klimaschutz – aber wie?
 
-###### [[Thema-Arbeit]]
-- [x] [[001-C1-Schreiben-T1|001]] 002-C1-Schreiben-T1
+###### [[Thema-Arbeit]] + [[Thema-Kinder]]
+- [ ] [[002-C1-Schreiben-T1|002]] 002-C1-Schreiben-T1
 
 
 ###### [[Thema-Homeoffice]]

@@ -6,6 +6,7 @@ haben [[überlegt]]
 Die Katze [[Worter/Ü/über]][[legte]] noch, wie sie das [[anstellen]] sollte,
 Überheblich, überlegen  
 
+
 Jetzt [[überlegt]] er: Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand gegenüber vom Fenster? 
 
 – Wir wollen den Hauskauf nicht übers Knie brechen. (Wir wollen nicht [[überstürzt]] und [[unüberlegt]] handeln)
@@ -44,6 +45,8 @@ As an adjective:
 nicht [[unterlegen]]
 
 ---
+
+26 Roboter werden dem Menschen `in` [[Bezug]] `auf` Kompetenzen [[überlegen]] sein.  
 
 ---
 Synonyme: [[klug]], [[intelligent]], [[geschickt]], [[gewitzt]], [[schlau]]

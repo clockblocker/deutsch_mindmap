@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Werkes]], [[Werke]], [[Werken]]
 ---
 #Substantiv #Neuter
 , [[schaffen]], [[Werkzeug]], [[Arbeit]]
-, [[Werksgelände]], [[Geschichtsbuch]], [[Kohlekraftwerk]], [[Tat]], [[Leistung]], [[Studierendenwerk]]
+, [[Werksgelände]], [[Geschichtsbuch]], [[Kohlekraftwerk]], [[Tat]], [[Leistung]], [[Studierendenwerk]], [[Netzwerk]]

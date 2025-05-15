@@ -1,1 +1,1 @@
-, [[Verruf]], [[Nachrede]]
+, [[Verruf]], [[Nachrede]], [[Imageschaden]]

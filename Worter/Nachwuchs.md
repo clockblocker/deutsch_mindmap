@@ -1,28 +1,32 @@
-👶 🔵 der [[Nachwuchs]], [ˈnaːxˌvʊks]
-(no plural)
+👶 🔵 der [[Nachwuchs]], [ˈnaːxˌvʊks](https://youglish.com/pronounce/Nachwuchs/german)
 
 ---
+c) Die [[Untersuchung]]en würden sich nur auf den männlichen [[Nachwuchs]] [[beziehen]].
+
 [[2 Unter Druck nach oben#^6|(q)]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
 
----
-= [[Jugend]], [[Nachkommen]], [[zukünftige Generation]]
-≈ [[Kinder]], [[Jugendliche]], [[Talente]], [[Ersatz]]
-≠ [[Alte]], [[Eltern]], [[Vorfahren]]
 
 ---
-youngsters, offspring, new generation
-молодое поколение, потомство
+= [[Kinder]], [[Jugend]], [[Generation]], [[Spross]]
+≈ [[Familie]], [[Erben]], [[Zukunft]], [[Kindeskinder]]
+≠ [[Eltern]], [[Vorfahren]], [[Ahnen]]
 
 ---
-[[wachsen]], [[Nachkommen]], [[Nachwuchsförderung]]
+offspring, young generation  
+потомство, молодежь
+
+---
+[[Nachwuchsförderung]], [[Nachwuchskräfte]], [[Nachwuchssorgen]]
 
 ---
 [[Nach]]|[[wuchs]]
 [[Nachwuchs]]
+
 
 ---
 N: der [[Nachwuchs]], -
 A: den [[Nachwuchs]], -
 G: des [[Nachwuchses]], -
 D: dem [[Nachwuchs]], -
-, [[Nachwuchsmanager]]
+
+#Maskulin 

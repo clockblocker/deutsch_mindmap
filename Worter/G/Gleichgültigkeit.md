@@ -31,3 +31,4 @@ G: der [[Gleichgültigkeit]], der [[Gleichgültigkeiten]]
 D: der [[Gleichgültigkeit]], den [[Gleichgültigkeiten]]
 
 #Feminin 
+, [[verlangen]]

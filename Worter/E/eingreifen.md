@@ -3,6 +3,9 @@
 ---
 [[2 prap.md#^10|(q)]] [[dank]] seinem [[beherzten]] [[Eingreifen]] wurde ich nicht Verletzt ^10
 
+
+24 Der Staat sollte intensiver [[eingreifen]].  
+
 ---
 = [[intervenieren]], [[sich einmischen]], [[eingreifen]]
 ≈ [[helfen]], [[unterstützen]], [[eingreifen]], [[sich beteiligen]], [[krallen]],  [[abwarten]], 

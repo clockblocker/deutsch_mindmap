@@ -1,1 +1,1 @@
-, [[Raumaufteilung]]
+, [[Raumaufteilung]], [[Bauplan]]

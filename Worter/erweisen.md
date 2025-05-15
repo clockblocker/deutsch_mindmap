@@ -3,6 +3,10 @@
 ---
 4.	[[2 Unter Druck nach oben#^25|(q)]] Zur Suche nach [[geeigneten]] Bewerbern kann sich ein Bewerbungsgespräch als hilfreich [[erweisen]]. `X` ^25
 
+
+*[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]. ^13
+
+
 ---
 = [[beweisen]], [[zeigen]], [[darlegen]]
 ≈ [[offenbaren]], [[aufzeigen]], [[bestätigen]], [[belegen]]

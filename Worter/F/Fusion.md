@@ -1,1 +1,1 @@
-, [[Vereinigung]], [[Zusammenschluss]]
+, [[Vereinigung]], [[Zusammenschluss]], [[Verschmelzung]]

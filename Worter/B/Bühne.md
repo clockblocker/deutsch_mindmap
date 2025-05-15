@@ -1,1 +1,1 @@
-, [[Szene]], [[Bühnenmaler]]
+, [[Szene]], [[Bühnenmaler]], [[Plattform]]

@@ -32,7 +32,7 @@ Deutschland ist ein Rechtsstaat. Was ist damit gemeint? (94%)
 	- [x] Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die [[Gesetze]] halten.
 
 ---
-= [[Vorschrift]], [[Worter/R/Regel]], [[Bestimmung]]
+= [[Vorschrift]], [[Regel]], [[Bestimmung]]
 ≈ [[Verordnung]], [[Erlass]], [[Verfahrensregel]], [[Norm]]
 ≠ [[Willkür]], [[Chaos]], [[Anarchie]]
 

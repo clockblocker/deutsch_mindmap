@@ -1,2 +1,2 @@
 , [[rechtzeitig]]
-, [[pünktlich]]
+, [[pünktlich]], [[terminlich]]

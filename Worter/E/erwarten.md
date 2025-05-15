@@ -3,6 +3,9 @@
 ---
 Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] erfüllt. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
 
+*[[001-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
+
+
 [[1 ADHD#^5|(q)]] steht auf, obwohl Sitzenbleiben [[erwartet]] wird. ^5
 
 
@@ -38,4 +41,4 @@ Zu+infinifive: [[zu erwarten]]
 
 
 
-, [[bedürfen]], [[erwartungsgemäß]], [[bevorstehen]], [[vorausahnen]]
+, [[bedürfen]], [[erwartungsgemäß]], [[bevorstehen]], [[vorausahnen]], [[verlangen]]

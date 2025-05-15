@@ -1,1 +1,1 @@
-, [[Ehre]], [[Verruf]]
+, [[Ehre]], [[Verruf]], [[Bekanntheitsgrad]]

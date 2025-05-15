@@ -30,3 +30,4 @@ Partizip I: [[wandelnd]], Partizip II: [[gewandelt]]
 [[wandeln]] = [[wand]][[el]][[n]]
 
 [[ändern]]
+, [[Wandel]]

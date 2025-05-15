@@ -44,4 +44,4 @@ sie, [[entschlüsseln]], [[entschlüsselten]], [[entschlüsseln]], [[entschlüss
 Adjektive: [[entschlüsselnd]], [[entschlüsselnder]], [[entschlüsselndst]]
 
 ---
-[[entschlüsselnder]], [[entschlüsselndes]], [[entschlüsselnde]], [[entschlüsselnden]], [[entschlüsselndem]], [[entschlüsselnderer]], [[entschlüsselnderes]], [[entschlüsselndere]], [[entschlüsselnderen]], [[entschlüsselnderem]], [[entschlüsselndster]], [[entschlüsselndstes]], [[entschlüsselndste]], [[entschlüsselndsten]], [[entschlüsselndstem]]
+[[entschlüsselnder]], [[entschlüsselndes]], [[entschlüsselnde]], [[entschlüsselnden]], [[entschlüsselndem]], [[entschlüsselnderer]], [[entschlüsselnderes]], [[entschlüsselndere]], [[entschlüsselnderen]], [[entschlüsselnderem]], [[entschlüsselndster]], [[entschlüsselndstes]], [[entschlüsselndste]], [[entschlüsselndsten]], [[entschlüsselndstem]], [[entziffern]]

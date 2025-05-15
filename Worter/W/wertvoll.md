@@ -31,4 +31,4 @@ Feminine: [[wertvolle]], [[wertvollere]], [[wertvollste]]
 Neuter: [[wertvolles]], [[wertvolleres]], [[wertvollstes]]  
 Plural: [[wertvollen]], [[wertvolleren]], [[wertvollsten]]  
 
-[[Wertvolles]], [[Wertschätzung]], [[Wertigkeit]], [[wertschätzen]], [[nutzlos]], [[Wert]], [[teuer]], [[geldlich]], [[Selbstwert]], [[unschätzbar]], [[Verwertung]]
+[[Wertvolles]], [[Wertschätzung]], [[Wertigkeit]], [[wertschätzen]], [[nutzlos]], [[Wert]], [[teuer]], [[geldlich]], [[Selbstwert]], [[unschätzbar]], [[Verwertung]], [[Geldwert]], [[hochdotiert]], [[lohnenswert]], [[kostspielig]], [[hilfreich]]

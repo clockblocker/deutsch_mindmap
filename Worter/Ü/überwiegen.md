@@ -1,2 +1,2 @@
 
-, [[überwiegend]]
+, [[überwiegend]], [[vorherrschen]]

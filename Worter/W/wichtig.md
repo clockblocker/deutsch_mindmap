@@ -4,9 +4,7 @@
 nicht [[unbedeutend]]
 
 ---
-= [[wesentlich]] = [[bedeutend]]
-≈ [[grundlegend]] = [[grundsätzlich]] = [[zugrundeliegende]] 
-
+*[[001-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en. ^5
 
 
 Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
@@ -41,4 +39,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[wichtig]], [[wichtiger]], [[wichtige]], [[wichtiges]], [[wichtigen]], [[wichtigem]], [[wichtiger]], [[wichtigen]]
 [[wichtigste]], [[wichtigster]], [[wichtigste]], [[wichtigstes]], [[wichtigsten]], [[wichtigstem]], [[wichtigster]], [[wichtigsten]], [[notwendig]], [[egal]], [[wertvoll]], [[unentbehrlich]], [[s1 e1]], [[unnötig]], [[angelegen]], [[grundlegend]], [[vorrangig]], [[unverzichtbar]], [[bedeutend]], [[wesentlich]], [[unschätzbar]]
-, [[dringend]], [[lebenswichtig]], [[bemerkenswert]]
+, [[dringend]], [[lebenswichtig]], [[bemerkenswert]], [[zweitrangig]]

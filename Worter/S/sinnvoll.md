@@ -4,6 +4,9 @@ nicht [[sinnlos]]
 ---
 Nun ist es nicht [[sinnvoll]], auf den Klatsch zu verzichten, denn aus den Fehlern der anderen können wir ja selbst etwas lernen.
 
+*[[000-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]. ^12
+
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
 
 
@@ -34,4 +37,4 @@ Einzigartige mögliche Formen:
 [[sinnvoll]], [[sinnvoller]], [[sinnvolle]], [[sinnvolles]], [[sinnvollen]], [[sinnvollem]], [[sinnvoller]], [[sinnvollen]]
 [[sinnvoller]], [[sinnvollerer]], [[sinnvollere]], [[sinnvolleres]], [[sinnvolleren]], [[sinnvollerem]], [[sinnvollerer]], [[sinnvolleren]]
 [[sinnvollsten]], [[sinnvollster]], [[sinnvollste]], [[sinnvollstes]], [[sinnvollsten]], [[sinnvollstem]], [[sinnvollster]], [[sinnvollsten]]
-, [[eigentlich]], [[Einwand]], [[nutzlos]], [[umsonst]]
+, [[eigentlich]], [[Einwand]], [[nutzlos]], [[umsonst]], [[lohnenswert]]

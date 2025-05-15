@@ -25,4 +25,4 @@ N: [[nützliches]], [[nützlicheres]], [[nützlichstes]]
 P: [[nützlichen]], [[nützlicheren]], [[nützlichsten]]  
 
 ---
-[[Nutzen]], [[nützen]], [[Nützlichkeit]], [[benützen]], [[unnütz]], [[Nützliches]]
+[[Nutzen]], [[nützen]], [[Nützlichkeit]], [[benützen]], [[unnütz]], [[Nützliches]], [[nutzen]]

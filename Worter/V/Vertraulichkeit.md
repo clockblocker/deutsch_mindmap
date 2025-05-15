@@ -29,4 +29,4 @@ A: die [[Vertraulichkeit]], die [[Vertraulichkeiten]]
 G: der [[Vertraulichkeit]], der [[Vertraulichkeiten]]
 D: der [[Vertraulichkeit]], den [[Vertraulichkeiten]]
 
-#Feminin 
+#Feminin , [[Betriebsgeheimnis]]

@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 💥 [[auslösen]], [ˈaʊ̯sˌløːzn̩](https://youglish.com/pronounce/auslösen/german) → [[löste aus]] → haben [[ausgelöst]]
 

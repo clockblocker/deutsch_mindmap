@@ -25,4 +25,4 @@ A: den [[Anreiz]], die [[Anreize]]
 G: des [[Anreizes]], der [[Anreize]]
 D: dem [[Anreiz]], den [[Anreizen]]
 
-#Maskulin 
+#Maskulin , [[Antriebsfaktor]]

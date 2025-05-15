@@ -31,4 +31,4 @@ A: die [[Perspektive]], die [[Perspektiven]]
 G: der [[Perspektive]], der [[Perspektiven]]
 D: der [[Perspektive]], den [[Perspektiven]]
 
-#Feminin 
+#Feminin , [[Standpunkt]]

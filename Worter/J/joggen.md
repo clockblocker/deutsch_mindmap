@@ -1,1 +1,1 @@
-, [[laufen]], [[rennen]]
+, [[laufen]], [[rennen]], [[Ausdauertraining]]

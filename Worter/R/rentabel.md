@@ -1,2 +1,2 @@
 ---> 💸 [[Grad-Preis]] <---
-, [[wirtschaftlich]], [[kostengünstig]]
+, [[wirtschaftlich]], [[kostengünstig]], [[Geldwert]], [[Geldwert]], [[hochdotiert]], [[lohnenswert]]

@@ -32,4 +32,4 @@ PI: [[stürmend]], PII: [[gestürmt]], Zu+inf: [[zustürmen]]
 [[Sturm]], [[stürmisch]], [[Stürmung]], [[Sturmwind]], [[Stürmer]]
 
 , [[angreifen]], [[zulaufen]]
-, [[vorstürmen]]
+, [[vorstürmen]], [[anfallen]]

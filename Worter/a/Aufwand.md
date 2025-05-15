@@ -5,7 +5,12 @@
 die [[Aufwände]]
 
 ---
-![[006-C1-Schreiben-T2#^5|^]] 
+0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]. ✅ a
+
+*[[C1-Lesen-T4-100-Text#^7|^]]* Der [[Geldwert]] wird nicht nur durch Größe, [[Aufwand]] und Materialien [[bestimmt]], sondern auch durch den [[Bekanntheitsgrad]] des Objekts oder des Kunstschaffenden. ^7
+
+
+![[006-C1-Schreiben-T2#^3|^]] 
 
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^3|^]]* Unternehmen [[wiederum]] [[senken]] durch die Reduktion von [[Bürofläche]]n und [[Betriebskosten]] ihren finanziellen [[Aufwand]] und verbessern ihre Kosteneffizienz. ^3
 
@@ -36,4 +41,4 @@ G: des [[Aufwandes]], der [[Aufwände]]
 D: dem [[Aufwand]], den [[Aufwänden]]
 
 
-#Maskulin , [[aufwendig]]
+#Maskulin , [[aufwendig]], [[Ausgabe]]

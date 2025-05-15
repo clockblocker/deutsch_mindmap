@@ -3,6 +3,9 @@
 ---
 Обладать большим талантом. Über ein großes Talent [[verfügen]].
 
+*[[C1-Lesen-T4-100-Text#^11|^]]* Nur wer [[hochdotierte]] Kunstpreise bekommt, vielleicht noch eine Professur hat, über die [[notwendige]] mediale Aufmerksamkeit [[verfügt]] und in bekannten Museen [[ausstellt]], darf auf dem [[Kunstolymp]] Platz nehmen. ^11
+
+
 [[3 ADHD.md#^11|(q)]] Als Kind im Alter von 8 bis 10 Jahren [[verfügte]] ich über eine gute [[motorische]] ^11
 
 
@@ -29,4 +32,4 @@ PI: [[verfügend]], PII: [[verfügt]], Zu+inf: [[zuverfügen]]
 
 ---
 [[verfügen]] - [[ver]] = [[fügen]] / to dispose, to command, to decree
-, [[verfügbar]], [[Verfügung]], [[anweisen]], [[Dauerverfügbarkeit]]
+, [[verfügbar]], [[Verfügung]], [[anweisen]], [[Dauerverfügbarkeit]], [[Verabreichen]]

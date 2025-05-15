@@ -5,6 +5,10 @@
 ---
 *[[Atom#^27|^]]* Damit repräsentieren sie den Trend. Laut einer repräsentativen [[Umfrage]] [[befürworten]] über 90% der Polen den Bau von Atomkraftwerken – trotz vieler offener Fragen. ^27
 
+
+27 Die [[Vertreter]] des Staates [[befürworten]] den [[übermäßigen]] [[Konsum]].
+
+
 ---
 = [[unterstützen]], [[billigen]], [[gutheißen]]
 ≈ [[empfehlen]], [[propagieren]], [[plädieren]]

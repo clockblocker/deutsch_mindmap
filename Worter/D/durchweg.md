@@ -1,2 +1,2 @@
 ---> 🧩 [[Grad-Ganzheit]] <---
-, [[völlig]], [[allenthalben]]
+, [[völlig]], [[allenthalben]], [[ausnahmslos]]

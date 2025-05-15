@@ -1,1 +1,1 @@
-, [[Worter/Ü/Übung]], [[Anwendung]], [[Umsetzung]], [[Alltag]]
+, [[Worter/Ü/Übung]], [[Anwendung]], [[Umsetzung]], [[Alltag]], [[praktikabel]]

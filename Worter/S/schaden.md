@@ -7,6 +7,9 @@
 *[[C1-Lesen-T2-102-Text#^6|^]]* Aber sicher ist: Sie [[vermehrt]] sich schneller als andere Spezies, frisst mehr und setzt sich [[notfalls]] zum Fressen in die [[pralle]] Sonne, ohne [[Schaden]] zu (3) [[nehmen]] . ^6
 
 
+*[[C1-Lesen-T2-103-Text#^5|^]]* Für neue [[Flächen]] gibt es [[Bedarf]], denn [[Stürme]], [[Dürren]], [[Hitzewellen]] und die starke [[Vermehrung]] des [[Borkenkäfers]] haben in deutschen Wäldern seit einigen Jahren massiv [[geschadet]]. ^5
+
+
 ---
 = [[beeinträchtigen]], [[beschädigen]], [[gefährden]], [[antun]]
 ≈ [[verletzen]], [[beeinträchtigen]], [[stören]]
@@ -61,4 +64,4 @@ PI: [[schadend]], PII: [[geschadet]], Zu+inf: [[zuschaden]]
 [[schaden]] / to harm, to damage, to be detrimental
 
 ---
-[[Schaden]], [[Schadensersatz]], [[schädlich]], [[beschädigen]], [[unschädlich]], [[Schädliches]], [[Mehrwert]], [[Nachteil]], [[Ruf]], [[Wiedergutmachung]], [[beitragen]], [[Ertrag]], [[Schädling]]
+[[Schaden]], [[Schadensersatz]], [[schädlich]], [[beschädigen]], [[unschädlich]], [[Schädliches]], [[Mehrwert]], [[Nachteil]], [[Ruf]], [[Wiedergutmachung]], [[beitragen]], [[Ertrag]], [[Schädling]], [[Provision]], [[Imageschaden]], [[nutzen]]

@@ -1,1 +1,1 @@
-, [[Kunstschaffende]], [[Produktionssystem]]
+, [[Kunstschaffende]], [[Produktionssystem]], [[Anbieter]]

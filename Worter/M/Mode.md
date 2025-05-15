@@ -1,1 +1,1 @@
-, [[Minirock]], [[Hot]], [[Modebegriff]], [[Kleidungsstil]]
+, [[Minirock]], [[Hot]], [[Modebegriff]], [[Kleidungsstil]], [[modisch]]

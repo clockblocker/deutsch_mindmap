@@ -1,2 +1,2 @@
 ---> 💥 [[Grad-Intensität]] <---
-, [[gewaltig]], [[klein]], [[riesig]], [[wenige]], [[zumindest]], [[mindest]], [[gering]], [[knapp]], [[winzig]], [[beträchtlich]]
+, [[gewaltig]], [[klein]], [[riesig]], [[wenige]], [[zumindest]], [[mindest]], [[gering]], [[knapp]], [[winzig]], [[beträchtlich]], [[niedrig]]

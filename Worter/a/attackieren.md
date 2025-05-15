@@ -1,1 +1,1 @@
-, [[beißen]], [[Aggression]], [[verteidigen]]
+, [[beißen]], [[Aggression]], [[verteidigen]], [[anfallen]]

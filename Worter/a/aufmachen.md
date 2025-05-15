@@ -38,3 +38,4 @@ PI: [[aufmachend]], PII: [[aufgemacht]], Zu+inf: [[aufzumachen]]
 
 ---
 [[Aufmachung]], [[Worter/A/auf]], [[machen]], [[Aufwand]], [[Aufgabe]]
+, [[aufschlagen]]

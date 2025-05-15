@@ -3,8 +3,11 @@
 haben [[geschlagen]]
 
 ---
-*Er [[schlagen|schlug]] die Stuhl und Vögel tot,*  
-*die Katzen litten große Not.*  
+*[[C1-Lesen-T2-103-Text#^6|^]]* Drei Viertel des [[geschlagenen]] Holzes war im letzten Jahr [[sogenanntes]] [[Kalamitätsholz]], also solches von Bäumen, die wegen Schäden gefällt werden mussten. ^6
+
+
+Er [[schlagen|schlug]] die Stuhl und Vögel tot,  
+die Katzen litten große Not.  
 
 *und [[schlug]] den Hund, der heulte sehr,*  
 *und trat und schlug ihn immer mehr.*
@@ -90,4 +93,4 @@ Konjunktiv II:
 - Wenn er schneller wäre, [[schlüge]] er zuerst.
 - Wenn wir gut vorbereitet wären, [[schlügen]] wir das Zelt schneller auf.
 - Wenn ihr euch beeiltet, [[schlüget]] ihr noch pünktlich zu.
-- Wenn sie trainieren würden, [[schlügen]] sie ihre Gegner.[[Quirlen]], [[klopfen]], [[peitschen]], [[herausschlagen]], [[totschlagen]], [[einschlagen]], [[wegshlagen]], [[klapfen]], [[vorschlagen]], [[stupsen]], [[um­schlagen]], [[watschen]], [[Schlagwort]], [[Schlacht]], [[ticken]], [[stoßen]]
+- Wenn sie trainieren würden, [[schlügen]] sie ihre Gegner.[[Quirlen]], [[klopfen]], [[peitschen]], [[herausschlagen]], [[totschlagen]], [[einschlagen]], [[wegshlagen]], [[klapfen]], [[vorschlagen]], [[stupsen]], [[um­schlagen]], [[watschen]], [[Schlagwort]], [[Schlacht]], [[ticken]], [[stoßen]], [[abholzen]], [[niederschlagen]], [[aufschlagen]]

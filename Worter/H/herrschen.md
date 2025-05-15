@@ -72,4 +72,4 @@ Konjunktiv II:
 - Wenn er hier wäre, [[herrschte]] er mit Strenge.
 - Wenn wir mehr Einfluss hätten, [[herrschten]] wir anders.
 - Wenn ihr die Kontrolle hättet, [[herrschtet]] ihr friedlich.
-- Wenn sie das Sagen hätten, [[herrschten]] sie mit Güte., [[dienen]], [[11 08]], [[beherrschen]], [[Fürstentum]]
+- Wenn sie das Sagen hätten, [[herrschten]] sie mit Güte., [[dienen]], [[11 08]], [[beherrschen]], [[Fürstentum]], [[vorherrschen]]

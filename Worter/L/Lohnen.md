@@ -8,7 +8,6 @@ haben [[gelohnt]]
 
 Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
 
-
 *Ohne dich zähl ich die Stunden, ohne dich*  
 *Mit dir stehen die Sekunden*  
 *[[lohnen]] nicht*  
@@ -37,4 +36,4 @@ Morpheme: [[Lohn]][[en]]
 | Sie       | [[lohnen]]           | [[lohnten]]           | [[lohnen Sie]]    | [[lohnen]]             | [[lohnten]]             |
 
 Partizip I: [[lohnend]], Partizip II: [[gelohnt]]
-, [[Lohnsteuer]]
+, [[Lohnsteuer]], [[lohnenswert]]

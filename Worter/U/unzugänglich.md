@@ -1,2 +1,2 @@
 , [[erreichbar]]
-, [[verfügbar]], [[barrierefrei]]
+, [[verfügbar]], [[barrierefrei]], [[zugänglich]]

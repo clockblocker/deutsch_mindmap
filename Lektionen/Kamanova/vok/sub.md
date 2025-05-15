@@ -129,7 +129,7 @@
 - [[Stress]] - стресс
 
 ##### Feminin (f)
-- [[Worter/R/Regel]], [[Regeln]] - правило
+- [[Regel]], [[Regeln]] - правило
 - [[Flasche]], [[Flaschen]] - бутылка
 - [[Worter/G/Gesundheit]] - здоровье
 - [[Zitrone]], [[Zitronen]] - лимон

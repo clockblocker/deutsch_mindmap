@@ -49,4 +49,4 @@ sie, [[beherrschen]], [[beherrschten]], [[beherrschen]], [[beherrschten]], [[beh
 Adjektive: [[beherrschend]], [[beherrschender]], [[beherrschendst]]
 
 ---
-[[beherrschender]], [[beherrschendes]], [[beherrschende]], [[beherrschenden]], [[beherrschendem]], [[beherrschenderer]], [[beherrschenderes]], [[beherrschendere]], [[beherrschenderen]], [[beherrschenderem]], [[beherrschendster]], [[beherrschendstes]], [[beherrschendste]], [[beherrschendsten]], [[beherrschendstem]]
+[[beherrschender]], [[beherrschendes]], [[beherrschende]], [[beherrschenden]], [[beherrschendem]], [[beherrschenderer]], [[beherrschenderes]], [[beherrschendere]], [[beherrschenderen]], [[beherrschenderem]], [[beherrschendster]], [[beherrschendstes]], [[beherrschendste]], [[beherrschendsten]], [[beherrschendstem]], [[handhaben]], [[vorherrschen]], [[unterwerfen]]

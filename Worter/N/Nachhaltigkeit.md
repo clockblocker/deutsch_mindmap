@@ -1,1 +1,1 @@
-, [[Umweltbelastung]], [[nachhaltig]]
+, [[Umweltbelastung]], [[nachhaltig]], [[Klimaschutz]]

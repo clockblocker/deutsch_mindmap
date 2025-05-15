@@ -1,1 +1,1 @@
-, [[trocken]], [[Regen]], [[Erntemenge]], [[Monsun]], [[Klimabedingung]]
+[[dürr]]

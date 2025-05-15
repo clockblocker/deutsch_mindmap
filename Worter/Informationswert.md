@@ -22,4 +22,4 @@ G: des [[Informationswerts]], der [[Informationswerte]]
 D: dem [[Informationswert]], den [[Informationswerten]]  
 
 ---
-[[informieren]], [[informativ]], [[Informationsquelle]], [[desinformieren]]
+[[informieren]], [[informativ]], [[Informationsquelle]], [[desinformieren]], [[nutzen]]

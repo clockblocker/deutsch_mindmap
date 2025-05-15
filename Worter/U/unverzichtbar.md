@@ -28,4 +28,4 @@ indispensable, essential
 Adjektive: [[unverzichtbar]], [[unverzichtbarer]], [[unverzichtbarst]]
 
 ---
-[[unverzichtbarer]], [[unverzichtbares]], [[unverzichtbare]], [[unverzichtbaren]], [[unverzichtbarem]], [[unverzichtbarerer]], [[unverzichtbareres]], [[unverzichtbarere]], [[unverzichtbareren]], [[unverzichtbarerem]], [[unverzichtbarster]], [[unverzichtbarstes]], [[unverzichtbarste]], [[unverzichtbarsten]], [[unverzichtbarstem]]
+[[unverzichtbarer]], [[unverzichtbares]], [[unverzichtbare]], [[unverzichtbaren]], [[unverzichtbarem]], [[unverzichtbarerer]], [[unverzichtbareres]], [[unverzichtbarere]], [[unverzichtbareren]], [[unverzichtbarerem]], [[unverzichtbarster]], [[unverzichtbarstes]], [[unverzichtbarste]], [[unverzichtbarsten]], [[unverzichtbarstem]], [[unabdingbar]]

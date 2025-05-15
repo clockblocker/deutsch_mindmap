@@ -34,4 +34,4 @@ Zu+infinifive: [[anzulegen]]
 
 
 , [[einhängen]], [[landen]]
-, [[errichteten]], [[abheben]]
+, [[errichteten]], [[abheben]], [[Kapitalanlage]]

@@ -24,4 +24,4 @@ G: der [[Frucht]], der [[Früchte]]
 D: der [[Frucht]], den [[Früchten]]  
 
 ---
-[[fruchtig]], [[fruchtbar]], [[Früchtekorb]], [[fruchten]], [[Fruchtbarkeit]]
+[[fruchtig]], [[fruchtbar]], [[Früchtekorb]], [[fruchten]], [[Fruchtbarkeit]], [[unfruchtbar]]

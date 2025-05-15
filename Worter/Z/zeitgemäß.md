@@ -28,4 +28,4 @@ contemporary, up-to-date
 Adjektive: [[zeitgemäß]], [[zeitgemäßer]], [[zeitgemäßest]]
 
 ---
-[[zeitgemäßer]], [[zeitgemäßes]], [[zeitgemäße]], [[zeitgemäßen]], [[zeitgemäßem]], [[zeitgemäßerer]], [[zeitgemäßeres]], [[zeitgemäßere]], [[zeitgemäßeren]], [[zeitgemäßerem]], [[zeitgemäßester]], [[zeitgemäßestes]], [[zeitgemäßeste]], [[zeitgemäßesten]], [[zeitgemäßestem]], [[Arbeitnehmerrecht]], [[Zeitalter]]
+[[zeitgemäßer]], [[zeitgemäßes]], [[zeitgemäße]], [[zeitgemäßen]], [[zeitgemäßem]], [[zeitgemäßerer]], [[zeitgemäßeres]], [[zeitgemäßere]], [[zeitgemäßeren]], [[zeitgemäßerem]], [[zeitgemäßester]], [[zeitgemäßestes]], [[zeitgemäßeste]], [[zeitgemäßesten]], [[zeitgemäßestem]], [[Arbeitnehmerrecht]], [[Zeitalter]], [[modisch]]

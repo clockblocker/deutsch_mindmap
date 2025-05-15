@@ -4,6 +4,11 @@
 ---
 Sie lebt in New York dem [[sogenannten]] Big Apple.
 
+
+*[[C1-Lesen-T2-103-Text#^6|^]]* Drei Viertel des [[geschlagenen]] Holzes war im letzten Jahr [[sogenanntes]] [[Kalamitätsholz]], also solches von Bäumen, die wegen Schäden gefällt werden mussten. ^6
+
+
+
 Nicht nur würde die [[alltäglich]]e [[Mobilität]] ohne Autos erheblich erschwert, sondern auch die [[Lebenshaltungskosten]] würden durch [[sogenannte]] „[[Grünsteuern]]“ [[steigen]].
 
 [[2 Unter Druck nach oben#^16|(q)]] Auch bei den wichtigsten persönlichen [[Eigenschaften]] der [[Anwärter]] auf [[Spitzenpositionen]] [[fordern]] die Firmen [[vorrangig]] [[weiche]] [[Werte]], [[sogenannte]] Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikationsstärke liegen weit vorn. ^16

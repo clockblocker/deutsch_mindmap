@@ -1,1 +1,1 @@
-, [[Kunst]], [[Malbuch]], [[malen]], [[bemalen]], [[Zeichnung]]
+, [[Kunst]], [[Malbuch]], [[malen]], [[bemalen]], [[Zeichnung]], [[Kleck­serei]]

@@ -3,6 +3,9 @@
 ---
 [[Eigenlob stinkt]]
 
+###### Professor Rohner …
+b) [[lobt]] den [[vielfältigen]] [[Einsatz]] dieser [[Baumart]].  
+
 ---
 = [[preisen]], [[würdigen]], [[auszeichnen]], [[schmeicheln]], 
 ≈ [[ehren]], [[anerkennen]], [[wertschätzen]], [[applaudieren]]

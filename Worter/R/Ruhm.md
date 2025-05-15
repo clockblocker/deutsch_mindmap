@@ -1,2 +1,2 @@
 , [[Ehre]], [[Verruf]]
-, [[Lob]]
+, [[Lob]], [[Bekanntheitsgrad]]

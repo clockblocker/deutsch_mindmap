@@ -1,1 +1,1 @@
-, [[widerstandsfähig]], [[sensibel]]
+, [[widerstandsfähig]], [[sensibel]], [[empfinden]]

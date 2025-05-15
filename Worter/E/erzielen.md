@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 🎯 [[erzielen]] + Akk, [ɛɐ̯ˈtsiːlən]
 [[erzielte]]
@@ -6,6 +6,9 @@ haben [[erzielt]]
 
 ---
 Das bisher höchste Ergebnis erzielte ein Gemälde von Claude Monet mit einem Preis von 36,5 Millionen Pfund
+
+*[[C1-Lesen-T4-100-Text#^3|^]]* Moderne Kunst [[erzielt]] trotz [[allgemeiner]] [[Geringschätzung]] enorme Preise. ^3
+
 
 Was [[nützt]] es, wenn man einen Tropfen Wasser auf einen heißen Stein fallen lässt? Nicht viel. Der Tropfen [[verdampft]] sofort. Um einen [[messbaren]] Effekt zu [[erzielen]], braucht es schon [[deutlich]] mehr.
 

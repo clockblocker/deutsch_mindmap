@@ -1,3 +1,3 @@
 Genetivfom des bestimmen [[Wörter/Artikels]] [[der]]
 
-, [[deshalb]], [[desillusionieren]], [[Bundeskanzlerin]], [[Konnektivpartikeln]]
+, [[deshalb]], [[desillusionieren]], [[Bundeskanzlerin]], [[Konnektivpartikeln]], [[Desinteresse]]

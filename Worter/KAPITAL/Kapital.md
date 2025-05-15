@@ -1,0 +1,1 @@
+, [[Kapitalanlage]], [[Zins]]

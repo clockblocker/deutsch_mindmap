@@ -34,4 +34,4 @@ P: [[nahen]], [[näheren]], [[nächsten]]
 
 ---
 [[Nähe]], [[nahezu]], [[Nachbar]], [[Nachbarschaft]]
-, [[Personennahverkehr]], [[Nahaufnahme]], [[nähern]]
+, [[Personennahverkehr]], [[Nahaufnahme]], [[nähern]], [[näherkommen]]

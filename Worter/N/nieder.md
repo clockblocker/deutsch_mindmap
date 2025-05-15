@@ -1,1 +1,1 @@
-, [[Wahlniederlage]], [[Niederlassung]], [[Niedergang]], [[unterhalb]]
+, [[Wahlniederlage]], [[Niederlassung]], [[Niedergang]], [[unterhalb]], [[niederschlagen]], [[niedrig]]

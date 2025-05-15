@@ -3,6 +3,9 @@
 ---
 - [[eingehen|Gehen]] *Sie auf die Situation in Ihrem Heimatland oder einem anderen Land* [[eingehen|ein]]
 
+*[[C1-Lesen-T4-100-Text#^16|^]]* Auf diese Weise kann ich meinen künstlerischen Weg konsequent [[verfolgen]], ohne auf die Wünsche [[zahlungskräftiger]] Kunden [[eingehen]] zu müssen. ^16
+
+
 *[[08-C1-Schreiben-T2-M#^8|^]]* ich möchte kurz auf die neue Parkplatzregelung [[eingehen]]. ^8
 
 

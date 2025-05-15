@@ -1,1 +1,1 @@
-, [[möglich]], [[schaffen]]
+, [[möglich]], [[schaffen]], [[praktikabel]]

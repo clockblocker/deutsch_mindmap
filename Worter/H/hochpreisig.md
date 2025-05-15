@@ -1,2 +1,2 @@
 ---> 💸 [[Grad-Preis]] <---
-, [[billig]]
+, [[billig]], [[preiswert]], [[kostspielig]]

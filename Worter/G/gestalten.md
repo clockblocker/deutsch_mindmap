@@ -1,3 +1,4 @@
+ --> [[Ingredient-Add-Remove]] <--
 ---> [[Management-Coordination-Allocation]] <---
 🎨 [[gestalten]] + Akk, [gəˈʃtaltən], 🧑‍🤝‍🧑 🔴 die [[Gestalt]]
 [[gestaltete]]

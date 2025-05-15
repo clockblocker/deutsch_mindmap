@@ -1,7 +1,7 @@
 ---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 ---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 --->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 ⛔ [[verhindern]], [fɛɐ̯ˈhɪndɐn](https://youglish.com/pronounce/verhindern/german) → [[verhinderte]] → [[verhindert]]
 
@@ -12,6 +12,9 @@
 
 
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^8|^]]* Nur so lässt sich [[langfristig]] die Gesundheit der [[Belegschaft]] [[sichern]] und ein Burnout [[verhindern]]. ^8
+
+###### 13. Demenz …
+b) lässt sich auch noch im Alter [[verhindern]].  
 
 
 ---
@@ -56,4 +59,4 @@ sie, [[verhindern]], [[verhinderten]], [[verhindern]], [[verhinderten]], [[verhi
 Adjektive: [[verhindernd]], [[verhindernder]], [[verhinderndst]]
 
 ---
-[[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]], [[durchsetzen]], [[auslösen]], [[hervorrufen]], [[beitragen]]
+[[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]], [[durchsetzen]], [[auslösen]], [[hervorrufen]], [[beitragen]], [[verschulden]]

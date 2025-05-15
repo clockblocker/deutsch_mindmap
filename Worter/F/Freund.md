@@ -2,6 +2,7 @@
 die [[Freunde]]
 
 ---
+Freude, [[Freund]], [[Krieg]]
 
 ---
 = [[Kumpel]], [[Bekannter]], [[Gefährte]]

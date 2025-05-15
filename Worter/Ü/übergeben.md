@@ -7,7 +7,7 @@ haben [[übergeben]]
 - 
 
 ---
-Synonyme: [[aushändigen]], [[zustellen]], [[Worter/Ü/überlassen]], [[ausliefern]], [[verabreichen]], [[übermitteln]]
+Synonyme: [[aushändigen]], [[zustellen]], [[Worter/Ü/überlassen]], [[ausliefern]], [[Verabreichen]], [[übermitteln]]
 Antonyme: [[behalten]], [[zurückhalten]], [[verweigern]], [[abweisen]], [[verwehren]]
 
 ---

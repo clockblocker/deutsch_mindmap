@@ -4,7 +4,10 @@
 [[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
 
 
-- Nennen Sie Probleme, die durch die Schließung [[entstehen]] könnten.
+*[[000-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+
+
+Nennen Sie Probleme, die durch die Schließung [[entstehen]] könnten.
 
 *[[03-C1-Schreiben-T2-M#^9|^]]* Leider ist durch den zusätzlichen Schreibtisch in unserem [[Großraumbüro]] ein Platzproblem [[entstanden]]. ^9
 
@@ -47,4 +50,4 @@ PI: [[entstehend]], PII: [[entstanden]], Zu+inf: [[entstehen]]
 
 ---
 [[Entstehung]], [[Entstehungsgeschichte]], [[Entstehungsjahr]], [[entstehend]], [[entstanden]]
-, [[verschwinden]], [[resultieren]], [[sprießen]]
+, [[verschwinden]], [[resultieren]], [[sprießen]], [[anfallen]]

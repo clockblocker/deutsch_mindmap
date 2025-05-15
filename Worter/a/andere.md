@@ -3,7 +3,10 @@ nicht [[gleiche]]
 
 ---
 ANNA: Nic, Sam, ihr habt bestimmt viel Spaß [[miteinander]]
- 
+
+*[[C1-Lesen-T4-100-Text#^4|^]]* Durch finanzielle [[Unabhängigkeit]] ist man frei von den [[Erwartungen]] [[anderer]] ^4
+
+
  mit normalem Waschmittel waschen und das [[andere]] mit dem neuen Powerpep  
 
 Alle [[anderen]] 

@@ -27,4 +27,4 @@ Morphems:
 
 ---
 #Substantiv #Maskulin 
-, [[schlichten]], [[Abkommen]], [[Einigkeit]], [[Texte/Misc/Anki]], [[Konsens]], [[strittig]], [[geraten]], [[Einklang]], [[umstreiten]], [[Streiterei]]
+, [[schlichten]], [[Abkommen]], [[Einigkeit]], [[Texte/Misc/Anki]], [[Konsens]], [[strittig]], [[geraten]], [[Einklang]], [[umstreiten]], [[Streiterei]], [[unbestreitbar]]

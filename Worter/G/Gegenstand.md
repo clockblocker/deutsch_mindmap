@@ -31,4 +31,4 @@ D: dem [[Gegenstand]], den [[Gegenständen]]
 [[gegen]], [[stehen]], [[gegenständlich]], [[Gegenstandsbezeichnung]], [[Gegenstandswert]]
 , [[gegenwärtig]]
 
-#Maskulin 
+#Maskulin , [[Kunstgegenstand]]

@@ -1,4 +1,4 @@
 , [[Bauch]]🔵 der [[Leib]] 🧍
 
 
-#Maskulin 
+#Maskulin , [[Fettleibigkeit]]

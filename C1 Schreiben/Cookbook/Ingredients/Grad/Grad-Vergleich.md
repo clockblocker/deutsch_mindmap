@@ -4,6 +4,8 @@
 - ist die Universitätsbibliothek [[zunehmend]] überfüllt
 - [[zusätzlich]]e Steckdosen
 - da die [[Besucherzahl]] `zum` *Jahresende* deutlich [[gestiegen]] ist
+- [[zurückgehen|ging]] die [[Anzahl]] von Krebspatienten zurück.  
+
 #### Mehr
 1) [[mehr]] *(more; simple additive)*
 2) ❤️ [[zusätzlich]] *(additionally, extra, furthermore)*
@@ -23,6 +25,7 @@
 2) [[abnehmend]] *(decreasing; trend-based)*
 3) [[seltener]] *(less frequent)*
 4) [[reduziert]] *(reduced; measurable)*
+5) [[zurückgehen]] *(to decrease)*  
 
 #### 🔴 [[ungleich / verschoben]] *(unequal / skewed)*
 1) [[unverhältnismäßig]] *(disproportionate)*

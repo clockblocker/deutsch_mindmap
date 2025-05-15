@@ -26,4 +26,4 @@ primarily, mainly, preferentially
 Adjektive: [[vorrangig]], [[vorrangiger]], [[vorrangigst]]
 
 ---
-[[vorrangiger]], [[vorrangiges]], [[vorrangige]], [[vorrangigen]], [[vorrangigem]], [[vorrangigerer]], [[vorrangigeres]], [[vorrangigere]], [[vorrangigeren]], [[vorrangigerem]], [[vorrangigster]], [[vorrangigstes]], [[vorrangigste]], [[vorrangigsten]], [[vorrangigstem]]
+[[vorrangiger]], [[vorrangiges]], [[vorrangige]], [[vorrangigen]], [[vorrangigem]], [[vorrangigerer]], [[vorrangigeres]], [[vorrangigere]], [[vorrangigeren]], [[vorrangigerem]], [[vorrangigster]], [[vorrangigstes]], [[vorrangigste]], [[vorrangigsten]], [[vorrangigstem]], [[zweitrangig]]

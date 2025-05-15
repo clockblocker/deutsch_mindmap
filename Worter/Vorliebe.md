@@ -2,7 +2,8 @@
 die [[Vorlieben]]
 
 ---
--
+*[[C1-Lesen-T4-100-Text#^2|^]]* Die [[Vorlieben]] auf dem Kunstmarkt werden sich auch in Zukunft immer wieder ändern. ^2
+
 
 ---
 = [[Präferenz]], [[Neigung]], [[Leidenschaft]]

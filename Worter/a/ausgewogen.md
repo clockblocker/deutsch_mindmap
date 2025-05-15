@@ -2,7 +2,10 @@
 ⚖️ [[ausgewogen]], [ˈaʊ̯sɡəˌvoːɡn̩](https://youglish.com/pronounce/ausgewogen/german)
 
 ---
-* Nennen Sie andere Möglichkeiten für einen [[ausgewogenen]] [[Lebensstil]].
+*[[000-C1-Schreiben-T1#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt sich die [[Frage]], wie man einen [[ausgewogenen]] [[Lebensstil]] mit sozialen Medien im [[Alltag]] [[erreichen]] kann. ^9
+
+
+*Nennen Sie andere Möglichkeiten für einen [[ausgewogenen]] [[Lebensstil]].
 
 *[[2 Work Life Balance#^2|^]]* _Das moderne Leben fordert von uns, die_ [[Erwerbstätigkeit]] _, das_ [[Familienleben]] _und die persönliche Zeit in ein_ [[ausgewogenes]] [[Verhältnis]] _zu bringen, was nicht immer leicht ist. ^2
 

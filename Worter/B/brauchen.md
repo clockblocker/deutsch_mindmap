@@ -1,8 +1,6 @@
 ---> [[Ingredient-Verben-Bedürfnis]] <---
 
-🙏  [[brauchen]]  
-[[brauchte]]  
-haben [[gebraucht]]
+🙏 [[brauchen]], [ˈbʁaʊ̯xn̩](https://youglish.com/pronounce/brauchen/german) → [[brauchte]] → haben [[gebraucht]]
 
 ---
 ###### 4 [[Der gestiefelte Kater.md######4|Der gestiefelte Kater.md]]
@@ -18,28 +16,45 @@ SAM: Toll! Ich gehe einkaufen. [[Brauchst]] du etwas?
 
 Was du brauchst, ist Nics Training für Fernsehreporter!  
 
----
-Synonyme: [[benötigen]], [[verwenden]], [[nötig haben]], [[erforderlich sein]], [[in Anspruch nehmen]]
-Antonyme: [[entbehren]], [[verzichten]], [[ablehnen 1]], [[verschmähen]], [[missen]]
 
 ---
-Übersetzung: to need, to require
+= [[benötigen]], [[erfordern]], [[benötigen]]
+≈ [[erwünschen]], [[verlangen]], [[dürfen]]
+≠ [[entbehren]], [[vermissen]], [[verzichten]]
 
 ---
-Morpheme: [[brau]][[ch]][[en]]
- #Verb #Untrennbar
+to need  
+нуждаться
 
 ---
+[[Bedarf]], [[gebrauchen]], [[brauchbar]]
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[brauche]]          | [[brauchte]]          | -                 | [[brauche]]            | [[bräuchte]]            |
-| Du        | [[brauchst]]         | [[brauchtest]]        | [[brauche]]       | [[brauchest]]          | [[bräuchtest]]          |
-| Er/sie/es | [[braucht]]          | [[brauchte]]          | -                 | [[brauche]]            | [[bräuchte]]            |
-| Wir       | [[brauchen]]         | [[brauchten]]         | -                 | [[brauchen]]           | [[bräuchten]]           |
-| Ihr       | [[braucht]]          | [[brauchtet]]         | [[braucht]]       | [[brauchet]]           | [[bräuchtet]]           |
-| Sie       | [[brauchen]]         | [[brauchten]]         | [[brauchen Sie]]  | [[brauchen]]           | [[bräuchten]]           |
+---
+[[brauch]]|[[en]]
 
-Partizip I: [[brauchend]], Partizip II: [[gebraucht]]
 
-[[brauchen]] - [[brau]] = [[ch]][[en]], [[Brauch]], [[ablehnen]], [[s1 e1]], [[verbrauchen]], [[bedürfen]]
+---
+###### [[brauchen]] jN
+- Was [[brauchst]] du?
+- Ein neues Auto.
+
+- Was [[brauchen]] wir?
+- Mehr Zeit.
+
+- Warum [[hat]] er Hilfe [[gebraucht]]?
+- Weil er es alleine nicht geschafft hat.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[brauch]] / [[brauche]], [[brauchte]], [[brauche]], [[brauchte]], -
+du, [[brauchst]], [[brauchtest]], [[brauchest]], [[brauchtest]], [[brauch]] / [[brauche]]
+er, [[braucht]], [[brauchte]], [[brauche]], [[brauchte]], -
+wir, [[brauchen]], [[brauchten]], [[brauchen]], [[brauchten]], [[brauchen]]
+ihr, [[braucht]], [[brauchtet]], [[brauchet]], [[brauchtet]], [[braucht]]
+sie, [[brauchen]], [[brauchten]], [[brauchen]], [[brauchten]], [[brauchen]]
+
+*Zu + Inf*: zu [[brauchen]], *P2*: [[gebraucht]]
+Adjektive: [[brauchend]], [[brauchender]], [[brauchendst]]
+
+---
+[[brauchender]], [[brauchendes]], [[brauchende]], [[brauchenden]], [[brauchendem]], [[brauchenderer]], [[brauchenderes]], [[brauchendere]], [[brauchenderen]], [[brauchenderem]], [[brauchendster]], [[brauchendstes]], [[brauchendste]], [[brauchendsten]], [[brauchendstem]]

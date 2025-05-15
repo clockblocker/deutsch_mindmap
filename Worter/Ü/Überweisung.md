@@ -1,2 +1,2 @@
 , [[Gehaltszahlungen]]
-, [[Zahlung]]
+, [[Zahlung]], [[Einmalzahlung]]

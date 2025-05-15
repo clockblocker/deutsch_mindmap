@@ -1,11 +1,14 @@
-🌟 [[gewiss]], [ɡəˈvɪs]
 ---> 🧩 [[Grad-Wahrheit]] <---
 
+🌟 [[gewiss]], [ɡəˈvɪs]
 
 ---
 Hast du nicht eine [[gewisse]] Sache vergessen?
 
+29 Es existiert ein [[gewisses]] Risiko aufgrund der [[Preisgabe]] von [[Betriebsgeheimnissen]].  
+
 *[[3 Soll man Geld spenden?#^8|^]]* Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[gewissen]] [[Mehrwert]] zu bieten. ^8
+
 
 ---
 = [[sicher]], [[bestimmt]], [[zweifellos]]
@@ -31,3 +34,4 @@ P: [[gewissen]], [[gewisseren]], [[gewissesten]]
 [[Gewissheit]], [[gewissenhaft]], [[ungewiss]], [[gewisslich]]
 
 , [[bestimmt]], [[sicher]], [[manche]]
+, [[unbestreitbar]]

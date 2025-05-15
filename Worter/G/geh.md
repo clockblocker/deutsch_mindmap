@@ -1,3 +1,3 @@
 , [[eingehen]], [[gehen]], [[weitergehen]], [[Vorgehen]], [[begehen]], [[umgehen]], [[ergehen]], [[hingehen]]
 , [[vorangehen]]
-, [[entlanggehen]], [[vorübergehend]], [[Vorgehensweise]], [[übergehen]]
+, [[entlanggehen]], [[vorübergehend]], [[Vorgehensweise]], [[übergehen]], [[zurückgehen]]

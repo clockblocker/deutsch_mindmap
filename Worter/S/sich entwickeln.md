@@ -1,1 +1,1 @@
-, [[werden]], [[wachsen]], [[entstehen]], [[geraten]], [[Persönlichkeitsentwicklung]], [[nähern]], [[in Gang kommen]]
+, [[werden]], [[wachsen]], [[entstehen]], [[geraten]], [[Persönlichkeitsentwicklung]], [[nähern]], [[in Gang kommen]], [[zurückgehen]], [[gedeihen]]

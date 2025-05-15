@@ -5,6 +5,10 @@ die [[Umwelteinflüsse]]
 *[[C1-Lesen-T2-101-Text#^6|^]]* Es wurde jedoch festgestellt, dass auch genau das Gegenteil [[vorkommen]] kann: die pyroklastischen Materialien bedecken die [[Überreste]] und somit (6) wird die DNA vor [[Umwelteinflüssen]] [[abschirmt]]. ^6
 
 
+###### 13. Demenz …
+c) wird durch frühe [[Umwelteinflüsse]] [[geprägt]].
+
+
 ---
 = [[Umwelteinwirkung]], [[Umweltfaktor]]
 ≈ [[Einfluss]], [[Auswirkung]], [[Umweltbelastung]]

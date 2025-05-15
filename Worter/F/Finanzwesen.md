@@ -27,4 +27,4 @@ A: das [[Finanzwesen]], die [[Finanzwesen]]
 G: des [[Finanzwesens]], der [[Finanzwesen]]
 D: dem [[Finanzwesen]], den [[Finanzwesen]]
 
-#Neuter , [[Ware]]
+#Neuter , [[Ware]], [[Finanzbereich]]

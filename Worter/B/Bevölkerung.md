@@ -7,7 +7,10 @@ die [[Bevölkerungen]]
 
 225. In welchem anderen Land gibt es eine große deutschsprachige [[Bevölkerung]]? (97%)
 
-226. Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke [[versorgt]]. Welcher [[Umstand]] war dafür verantwortlich? (81%)
+*[[C1-Lesen-T4-100-Text#^30|^]]* Es scheint, dass die Mehrheit der [[Bevölkerung]] moderne Kunstwerke [[ablehnt]]; [[dennoch]] erreichen diese Werke einen hohen Geldwert. ^30
+
+
+225. Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke [[versorgt]]. Welcher [[Umstand]] war dafür verantwortlich? (81%)
 	- [ ] Für Frankreich war eine [[Versorgung]] der West-Berliner [[Bevölkerung]] mit dem Flugzeug [[kostengünstiger]].
 	- [x] Die Sowjetunion [[unterbrach]] den [[gesamten]] Verkehr auf dem Landwege.
 

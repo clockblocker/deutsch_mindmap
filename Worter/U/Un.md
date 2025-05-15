@@ -3,4 +3,4 @@
 , [[unverbesserlich]]
 , [[ungestüm]]
 , [[unaufmerksam]]
-, [[ungehorsam]], [[ungestört]], [[unbändig]], [[Unmenge]], [[unerbittlich]], [[Unkraut]], [[unzuverlässig]], [[Straßenunfall]], [[unverzichtbar]], [[unweit]], [[unangemessen]], [[unschätzbar]], [[unaufhörlich]], [[Unmut]], [[unsicher]], [[unzureichend]], [[unbeteiligt]], [[ungenügen]], [[Untätigkeit]], [[ungeachtet]], [[unbelastet]]
+, [[ungehorsam]], [[ungestört]], [[unbändig]], [[Unmenge]], [[unerbittlich]], [[Unkraut]], [[unzuverlässig]], [[Straßenunfall]], [[unverzichtbar]], [[unweit]], [[unangemessen]], [[unschätzbar]], [[unaufhörlich]], [[Unmut]], [[unsicher]], [[unzureichend]], [[unbeteiligt]], [[ungenügen]], [[Untätigkeit]], [[ungeachtet]], [[unbelastet]], [[unfruchtbar]], [[Unabhängigkeit]], [[unbestreitbar]], [[ungewogen]], [[unabdingbar]]

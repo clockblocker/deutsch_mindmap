@@ -1,1 +1,1 @@
-, [[selbst]], [[selbständig]], [[geschlechtsabhängig]], [[Abhängigkeit]], [[eigenständig]]
+, [[selbst]], [[selbständig]], [[geschlechtsabhängig]], [[Abhängigkeit]], [[eigenständig]], [[Unabhängigkeit]]

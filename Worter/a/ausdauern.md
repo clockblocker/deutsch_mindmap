@@ -1,2 +1,2 @@
 
-, [[durchhalten]]
+, [[durchhalten]], [[Ausdauertraining]]

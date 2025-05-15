@@ -10,6 +10,9 @@ die [[Nutzungen]]
 ---
 die [[Nutzung]] *des Parkplatzes* zu [[gewähren]]. 
 
+*[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+
+
 Der größte Zeitkiller aber ist die multimediale Nutzung unseres Smartphones, die das Fernsehen als Zeiträuber Nummer eins in den letzten Jahren abgelöst hat. 
 
 ---
@@ -21,7 +24,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[nutz]][[ung]]
+[[Nutz]][[ung]]
 
 ---
 Einzigartige mögliche Formen: [[Nutzung]], [[Nutzungen]]
@@ -31,4 +34,4 @@ Einzigartige mögliche Formen: [[Nutzung]], [[Nutzungen]]
 
 , [[nutzlos]], [[Nutzungsdaten]], [[Handhabung]], [[Bedienung]]
 
-, [[Auslastung]], [[Verwertung]]
+, [[Auslastung]], [[Verwertung]], [[Konsum]]

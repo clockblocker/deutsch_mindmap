@@ -1,2 +1,2 @@
 , [[retten]], [[morden]], [[verderben]], [[wehrten]], [[behalten]], [[verbrennen]], [[schwenden]], [[schützen]], [[beschützen]], [[schütten]], [[verteidigen]], [[einbrechen]], [[enthalten]], [[beibehalten]]
-, [[aufrechterhalten]], [[verwandeln]], [[sichern]], [[aufs Spiel setzen]], [[gefährden]]
+, [[aufrechterhalten]], [[verwandeln]], [[sichern]], [[aufs Spiel setzen]], [[gefährden]], [[vergeuden]]

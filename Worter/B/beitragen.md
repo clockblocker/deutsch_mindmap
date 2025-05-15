@@ -3,6 +3,9 @@
 ---
 Machen Sie einen Vorschlag, wie jeder [[Einzelne]] zum Klimaschutz [[beitragen]] kann.
 
+*[[001-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en. ^5
+
+
 a) Alle [[Gegenstände]], die zur [[Entfaltung]] des Kindes [[beitragen]].  
 
 *[[C1-Lesen-T2-102-Text#^13|^]]* Generell darf man aber Folgendes nicht vergessen: Nacktschnecken sind quasi die Geier der Gärten und Wiesen: Sie beseitigen Kot und Kadaver, bringen die Kompostierung auf Trab und [[beitragen|tragen]] damit (8) `zur` Gesundheit des kleinen Ökosystems [[bei]]. ^13

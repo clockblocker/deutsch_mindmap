@@ -1,1 +1,1 @@
-💼 [[Worter/H/haben]]  , [[verständigen]], [[verfassen]], [[verwahren]], [[verlängern]], [[voranbringen]], [[verschlucken]]
+💼 [[Worter/H/haben]]  , [[verständigen]], [[verfassen]], [[verwahren]], [[verlängern]], [[voranbringen]], [[verschlucken]], [[verlangen]]

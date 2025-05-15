@@ -1,1 +1,1 @@
-, [[zugunsten]], [[günstig]]
+, [[zugunsten]], [[günstig]], [[Vorzug]]

@@ -1,1 +1,1 @@
-, [[steigen]], [[Aufstieg]], [[Anstieg]]
+, [[steigen]], [[Aufstieg]], [[Anstieg]], [[Preisanstieg]], [[Umstieg]]

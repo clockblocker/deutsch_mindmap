@@ -1,1 +1,1 @@
-, [[Eröffnungsfeier]]
+, [[Eröffnungsfeier]], [[Unternehmenseröffnung]]

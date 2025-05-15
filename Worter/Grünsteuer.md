@@ -2,7 +2,8 @@
 die [[Grünsteuern]]
 
 ---
-Nicht nur würde die [[alltäglich]]e [[Mobilität]] ohne Autos erheblich erschwert, sondern auch die [[Lebenshaltungskosten]] würden durch [[sogenannte]] „[[Grünsteuern]]“ [[steigen]].
+*[[001-C1-Schreiben-T1#^5|^]]* Nicht nur würde die [[alltägliche]] Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuern]]“ [[steigen]] – [[etwa]] in Form höherer [[Energiepreise]], [[kostspieliger]] recycelbarer [[Verpackungen]] oder teurer Bio-[[Lebensmittel]]. ^5
+
 
 ---
 = [[Ökosteuer]], [[Umweltsteuer]]
@@ -26,3 +27,6 @@ N: die [[Grünsteuer]], die [[Grünsteuern]]
 A: die [[Grünsteuer]], die [[Grünsteuern]]
 G: der [[Grünsteuer]], der [[Grünsteuern]]
 D: der [[Grünsteuer]], den [[Grünsteuern]]
+
+
+#Feminin 

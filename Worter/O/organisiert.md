@@ -1,1 +1,1 @@
-, [[verwirrt]], [[gegliedert]], [[strukturell]]
+, [[verwirrt]], [[gegliedert]], [[strukturell]], [[geregelt]]

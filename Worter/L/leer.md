@@ -36,4 +36,4 @@ Einzigartige mögliche Formen:
 [[leer]], [[leerer]], [[leere]], [[leeres]], [[leeren]], [[leerem]], [[leerer]], [[leeren]]
 [[leerer]], [[leererer]], [[leerere]], [[leereres]], [[leereren]], [[leeserem]], [[leererer]], [[leereren]]
 [[leersten]], [[leerster]], [[leerste]], [[leerstes]], [[leersten]], [[leerstem]], [[leerster]], [[leersten]], [[bemannt]], [[dicht]]
-, [[Leerzeichen]]
+, [[Leerzeichen]], [[unfruchtbar]]

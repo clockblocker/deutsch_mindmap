@@ -1,1 +1,1 @@
-, [[erfolgreich]], [[erwerbstätig]], [[effizient]]
+, [[erfolgreich]], [[erwerbstätig]], [[effizient]], [[unfruchtbar]], [[fruchtbar]]

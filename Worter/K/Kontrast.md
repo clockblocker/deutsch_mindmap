@@ -1,1 +1,1 @@
-, [[Unterschied]], [[Entgegensetzung]]
+, [[Unterschied]], [[Entgegensetzung]], [[konträr]]

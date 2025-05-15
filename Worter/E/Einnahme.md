@@ -1,1 +1,1 @@
-, [[Umsatz]], [[Gewinn]], [[einnehmen]]
+, [[Umsatz]], [[Gewinn]], [[einnehmen]], [[Ausgabe]]

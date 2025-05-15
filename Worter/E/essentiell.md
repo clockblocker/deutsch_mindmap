@@ -1,2 +1,2 @@
 ---> 🧱[[Grad-Gewicht]] <---
-, [[unentbehrlich]], [[angelegen]], [[unverzichtbar]], [[lebenswichtig]]
+, [[unentbehrlich]], [[angelegen]], [[unverzichtbar]], [[lebenswichtig]], [[unabdingbar]]

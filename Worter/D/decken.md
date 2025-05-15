@@ -3,7 +3,12 @@
 haben [[gedeckt]]
 
 ---
-1. Die Gäste sitzen an dem [[festlich]] [[gedeckten]] Tisch.
+
+###### 12 [[Weshalb]] ist die [[Nachfrage]] nach neuen [[Hölzern]] so [[hoch]]?
+a) Das [[Angebot]] an Holz kann den [[Bedarf]] nicht [[decken]].  
+
+Die Gäste sitzen an dem [[festlich]] [[gedeckten]] Tisch.
+
 
 ---
 [[abdecken]] - [[ab]] = [[decken]] / shield, protect

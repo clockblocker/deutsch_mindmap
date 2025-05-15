@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 💥 [[verursachen]], [fɛɐ̯ˈʔuʁzaχn̩] | [[verursachte]], haben [[verursacht]]
 
@@ -46,4 +46,4 @@ sie, [[verursachen]], [[verursachten]], [[verursachen]], [[verursachten]], [[ver
 Adjektive: [[verursachend]], [[verursachender]], [[verursachendst]]
 
 ---
-[[verursachender]], [[verursachendes]], [[verursachende]], [[verursachenden]], [[verursachendem]], [[verursachenderer]], [[verursachenderes]], [[verursachendere]], [[verursachenderen]], [[verursachenderem]], [[verursachendster]], [[verursachendstes]], [[verursachendste]], [[verursachendsten]], [[verursachendstem]], [[zugrunde]], [[vorbeugen]], [[zufügen]]
+[[verursachender]], [[verursachendes]], [[verursachende]], [[verursachenden]], [[verursachendem]], [[verursachenderer]], [[verursachenderes]], [[verursachendere]], [[verursachenderen]], [[verursachenderem]], [[verursachendster]], [[verursachendstes]], [[verursachendste]], [[verursachendsten]], [[verursachendstem]], [[zugrunde]], [[vorbeugen]], [[zufügen]], [[verschulden]]

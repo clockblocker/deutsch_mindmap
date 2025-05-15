@@ -4,7 +4,9 @@ nicht [[zufrieden]]
 ---
 Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. [[14 perfekt#^16|(q)]]
 
-1. Das Mädchen ist so [[enttäuscht]] wie ein Kind.
+b) [[enttäuschte]] viele [[Erwartung]]en.  
+
+Das Mädchen ist so [[enttäuscht]] wie ein Kind.
 
 [[16 Plusquamperfekt#^15|(q)]] Sie war so [[enttäuscht]], kraftlos und schwach, dass ihr alles aus den Händen fiel. ^15
 

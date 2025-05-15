@@ -1,1 +1,1 @@
-, [[Punktabzug]]
+, [[Punktabzug]], [[Vorzug]]

@@ -1,1 +1,1 @@
-, [[geldlich]]
+, [[geldlich]], [[Geldwert]], [[Geldwert]]

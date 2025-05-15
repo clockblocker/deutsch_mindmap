@@ -1,25 +1,27 @@
-🔵 der [[Krieg]], [krɪk]
+💣 🔵 der [[Krieg]], [kʁiːk](https://youglish.com/pronounce/Krieg/german)
 die [[Kriege]]
 
+---
+Freude, Frieden, Freunde, Fremde
 
 ---
-- [[kriegen]]
+= [[Konflikt]], [[Auseinandersetzung]], [[Kampf]]
+≈ [[Kriegsführung]], [[Feindseligkeit]], [[Kriegszustand]]
+≠ [[Frieden]], [[Versöhnung]], [[Eintracht]]
 
 ---
-Synonyme:
-- [[Konflikt]], [[Kämpfe]], [[Schlacht]], [[Fehde]], [[Auseinandersetzung]]
+war  
+война
 
 ---
-Übersetzung: war
+[[kriegen]], [[Krieger]], [[kriegerisch]], [[Kriegsführung]]
 
 ---
-Morpheme:
 [[Krieg]]
 
----
-Einzigartige mögliche Formen: [[Krieges]], [[Kriege]], [[Kriegen]]
 
 ---
-#Substantiv #Maskulin, [[aufzukriegen]], [[Weltkrieg]], [[Kriegsbemalung]], [[Kriegsschiff]], [[s1 e1]]
-, [[Gefecht]]
-, [[Kriegsausbruch]]
+N: der [[Krieg]], die [[Kriege]]
+A: den [[Krieg]], die [[Kriege]]
+G: des [[Krieges]], der [[Kriege]]
+D: dem [[Kriege]], den [[Kriegen]]

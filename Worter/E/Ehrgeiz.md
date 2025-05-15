@@ -1,1 +1,1 @@
-, [[Karrierebewusstsein]], [[Schweinehund]], [[Streben]], [[Motivation]]
+, [[Karrierebewusstsein]], [[Schweinehund]], [[Streben]], [[Motivation]], [[Disziplin]]

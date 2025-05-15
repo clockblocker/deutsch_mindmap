@@ -1,1 +1,1 @@
-, [[nass]], [[trocken]], [[feucht]]
+, [[nass]], [[trocken]], [[feucht]], [[dürr]]

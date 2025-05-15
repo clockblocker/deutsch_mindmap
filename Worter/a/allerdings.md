@@ -1,9 +1,8 @@
  [[allerdings]], [ˈalɐdɪŋs]
 
 ---
-- sie sind ganz frisch, [[allerdings]] kosten sie 2 DM
-- MARIA: Ja, [[allerdings]] …  
-  MARIA: Er liebt mich!  
+*[[000-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
+
 
 Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nutzen sie [[vielfach]], [[allerdings]] [[ausschließlich]], um Verben zu bilden. 
 

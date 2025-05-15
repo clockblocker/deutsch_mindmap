@@ -1,1 +1,1 @@
-, [[Ertrag]]
+, [[Ertrag]], [[unfruchtbar]], [[fruchtbar]]

@@ -1,9 +1,16 @@
  --> [[Ingredient-Add-Remove]] <--
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
+
 🏢 [[etablieren]], [etaˈbliːʁən](https://youglish.com/pronounce/etablieren/german) | [[etablierte]], haben [[etabliert]]
 
 ---
+❤️ [[Regel]]n [[etablieren]]       *(Establish / Normalize)*
+
 *[[Große Koalition#^3|^]]* Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der Begriff **Kleine Koalition** (auch **kleine Koalition**). 
+
+*[[000-C1-Schreiben-T1#^10|^]]* *[[Leider]] ist das [[leichter gesagt als getan]], denn es [[erfordert]] enorme [[Disziplin]],* 
+[[praktikable]] [[Regel]]n zu [[etablieren]], 
+*um die Online-Zeit [[konsequent]] zu [[begrenzen]].*
 
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
 
@@ -67,3 +74,5 @@ Adjektive: [[etablierend]], [[etablierender]], [[etablierendst]]
 
 ---
 [[etablierender]], [[etablierendes]], [[etablierende]], [[etablierenden]], [[etablierendem]], [[etablierenderer]], [[etablierenderes]], [[etablierendere]], [[etablierenderen]], [[etablierenderem]], [[etablierendster]], [[etablierendstes]], [[etablierendste]], [[etablierendsten]], [[etablierendstem]], [[initiieren]]
+
+

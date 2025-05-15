@@ -1,1 +1,1 @@
-, [[Worter/G/Geld]], [[finanziell]], [[Worter/W/Wirtschaft]], [[Finanzsenator]], [[Buchhaltungsbereich]]
+, [[Worter/G/Geld]], [[finanziell]], [[Worter/W/Wirtschaft]], [[Finanzsenator]], [[Buchhaltungsbereich]], [[Finanzbereich]]

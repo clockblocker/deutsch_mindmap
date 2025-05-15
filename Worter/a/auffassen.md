@@ -1,2 +1,2 @@
 , [[deuten]]
-, [[auffangen]]
+, [[auffangen]], [[Auffassung]]

@@ -1,1 +1,2 @@
 , [[Schwachstellen]]
+🔵 der [[Vorzug]] 👍

@@ -1,1 +1,1 @@
-, [[Ausweis]], [[Asyl]]
+, [[Ausweis]], [[Asyl]], [[ausweisen]]

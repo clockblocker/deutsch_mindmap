@@ -1,4 +1,4 @@
----> [[Ingredient-Result-Verb]] <---
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 🚗 [[führen]] + Akk, [ˈfyːʁən], [[führte]], haben [[geführt]]
 

@@ -35,4 +35,4 @@ Einzigartige mögliche Formen:
 [[höher]], [[höherer]], [[höhere]], [[höheres]], [[höheren]], [[höherem]], [[höherer]], [[höheren]]
 [[höchsten]], [[höchster]], [[höchste]], [[höchstes]], [[höchsten]], [[höchstem]], [[höchster]], [[höchsten]]
 ''', [[hochschrecken]], [[schrecken]], [[Hochfahren]], [[Hochzeit]], [[s1 e1]], [[speziell]]
-, [[althochdeutsch]], [[höchstwahrscheinlich]], [[heben]], [[Erhöhung]]
+, [[althochdeutsch]], [[höchstwahrscheinlich]], [[heben]], [[Erhöhung]], [[hochdotiert]]

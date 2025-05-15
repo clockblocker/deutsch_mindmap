@@ -1,10 +1,16 @@
 ---> ⏱️ [[Temporal-Status]] <---
 ---> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
+
 🔴 die [[Erwartung]], [ˈʔɛɐ̯ˌvɑʁtʊŋ]
 die [[Erwartungen]]
 
 ---
 Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] erfüllt. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
+
+*[[C1-Lesen-T4-100-Text#^4|^]]* Durch finanzielle [[Unabhängigkeit]] ist man frei von den [[Erwartungen]] anderer ^4
+
+
+b) [[enttäuschte]] viele [[Erwartung]]en.  
 
 
 ---

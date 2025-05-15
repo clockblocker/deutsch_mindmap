@@ -1,1 +1,1 @@
-, [[Mücke]], [[Wespe]]
+, [[Mücke]], [[Wespe]], [[Biene]], [[Borkenkäfer]]

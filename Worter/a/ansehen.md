@@ -7,6 +7,9 @@ haben [[angesehen]]
 ---
 Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 
+*[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+
+
 *[[3. Schuldenpaket. Vergeigen es die Grünen?#^1|^]]* Ich kann es mir [[kaum]] mit [[ansehen]]. ^1
 
 *da sah sie plötzlich vor sich stehn*  
@@ -48,4 +51,4 @@ Morpheme: [[an]][[seh]][[en]]
 
 Partizip I: [[ansehend]], Partizip II: [[angesehen]], Zuinf: [[anzusehen]]
 
-[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]], [[anschauen]], [[anblicken]], [[Ansichtskarte]], [[Verruf]], [[Abrechnung]]
+[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]], [[anschauen]], [[anblicken]], [[Ansichtskarte]], [[Verruf]], [[Abrechnung]], [[Bekanntheitsgrad]]

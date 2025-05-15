@@ -2,4 +2,4 @@
 
 [[Konjunktion/Positionen/auf]]
 
-[[Position]]
+[[Position]], [[Kapitalanlage]]

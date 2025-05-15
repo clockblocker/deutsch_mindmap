@@ -4,7 +4,11 @@ die [[Begriffe]]
 ---
 [[Schönheit]] ist ein [[relativer]] [[Begriff]].
 
+*[[000-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssystem]]e auf [[Plattform]]en wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+
+
 *[[Große Koalition#^2|^]]* Der [[Begriff]] wird [[hauptsächlich]] in Deutschland und Österreich benutzt. ^2
+
 
 *[[Große Koalition#^3|^]]* Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der [[Begriff]] **Kleine Koalition** (auch **kleine Koalition**). 
 
@@ -42,3 +46,5 @@ D: dem [[Begriff]], den [[Begriffen]]
 ---
 [[begreifen]], [[begrifflich]], [[begriffslos]], [[Begriffswelt]], [[Begriffsklärung]]
 , [[Gegenstand]], [[Modebegriff]]
+
+#Maskulin 

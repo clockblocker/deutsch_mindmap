@@ -1,1 +1,1 @@
-, [[fragen]], [[befragen]], [[Fragerei]], [[Befragung]], [[Umfrage]]
+, [[fragen]], [[befragen]], [[Fragerei]], [[Befragung]], [[Umfrage]], [[hinterfragen]]

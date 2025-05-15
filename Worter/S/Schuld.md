@@ -20,7 +20,7 @@ Katara hat keine [[Schuld]]. Ich hab sie [[überredet]]. _[Sieht [[schuldbewuss
 	- [x] [[entscheidet]] mit [[Richtern]] / Richterinnen über [[Schuld]] und Strafe.
 ---
 Synonyme:
-- [[Verantwortung]], [[Haftung]], [[Verschulden]], [[Straftat]], [[Vergehen]]  
+- [[Verantwortung]], [[Haftung]], [[verschulden]], [[Straftat]], [[Vergehen]]  
 
 ---
 Übersetzung: guilt, fault, blame

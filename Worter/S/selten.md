@@ -5,6 +5,8 @@ nicht [[häufig]]
 ---
 Wir [[zweifeln]] [[selten]]
 
+*[[C1-Lesen-T4-100-Text#^31|^]]* Das liegt natürlich auch daran, dass echte Meisterwerke, egal aus welcher Epoche, [[selten]] sind. ^31
+
 *[[3  Ein Selbstversuch als Hobbybäuerin#^16|^]]* Andere Freunde riefen mich immer [[seltener]] an, weil sie [[befürchteten]], ich könnte sie um Hilfe bitten. ^16
 
 Das gibt es nur [[selten]]. Glück im Spiel und in der Liebe haben nur [[wenige]]
@@ -34,4 +36,4 @@ Superlativ: [[seltensten]]
 
 [[täglich]][[normal]], [[meist]], [[bald]], [[Öfteren]]
 , [[manchmal]], [[üblich]], [[tausendfach]], [[zweifeln]]
-, [[überwiegend]], [[einmalig]], [[einzigartig]], [[außergewöhnlich]], [[allwöchentlich]], [[Negationspartikel]], [[Seltenheit]], [[unaufhörlich]], [[mehrmals]], [[gang und gäbe]], [[vielerorts]]
+, [[überwiegend]], [[einmalig]], [[einzigartig]], [[außergewöhnlich]], [[allwöchentlich]], [[Negationspartikel]], [[Seltenheit]], [[unaufhörlich]], [[mehrmals]], [[gang und gäbe]], [[vielerorts]], [[ausnahmslos]], [[alltäglich]]

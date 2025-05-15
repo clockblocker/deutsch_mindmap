@@ -2,6 +2,9 @@
 
 Ich komme [[nach]] Deutschland
 
+*[[C1-Lesen-T2-103-Text#^4|^]]* [[Nach]] [[eigenen]] [[Angaben]] ist ihr Unternehmen We Grow Marktführer unter den europäischen Produzenten. ^4
+
+
 CINDY: Kopf [[nach]] rechts und links und rechts und noch einmal.  
 
 \[ Wenn \] [[fliegt]] eins in die Lüfte, [[nachfliegen|fliegen]] alle nach. 

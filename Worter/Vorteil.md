@@ -43,4 +43,4 @@ G: des [[Vorteils]], der [[Vorteile]]
 D: dem [[Vorteil]], den [[Vorteilen]]
 
 
-#Maskulin 
+#Maskulin , [[nutzen]]

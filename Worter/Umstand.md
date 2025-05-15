@@ -31,4 +31,4 @@ D: dem [[Umstand]], den [[Umständen]]
 ---
 [[umständlich]], [[umstehen]], [[Umstandsform]], [[Umstandswort]], [[Umstandssatz]], [[umgehen]], [[Begebenheit]], [[Verhältnis]], [[Rahmenbedingung]], [[Sachzwang]]
 
-#Maskulin 
+#Maskulin , [[Tatsache]]

@@ -1,1 +1,1 @@
-, [[Wachstum]], [[Verringerung]], [[Rückgang]]
+, [[Wachstum]], [[Verringerung]], [[Rückgang]], [[Vermehrung]]

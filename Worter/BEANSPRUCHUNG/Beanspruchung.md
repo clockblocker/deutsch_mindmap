@@ -1,1 +1,1 @@
-, [[Belastung]]
+, [[Belastung]], [[Verzicht]]

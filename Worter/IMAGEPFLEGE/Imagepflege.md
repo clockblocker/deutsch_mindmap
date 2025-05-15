@@ -1,1 +1,1 @@
-, [[Selbstdarstellung]]
+, [[Selbstdarstellung]], [[Imageschaden]]

@@ -50,4 +50,4 @@ sie, [[setzen voraus]], [[setzten voraus]], [[setzen voraus]], [[setzten voraus]
 Adjektive: [[voraussetzend]], [[voraussetzender]], [[voraussetzendst]]
 
 ---
-[[voraussetzender]], [[voraussetzendes]], [[voraussetzende]], [[voraussetzenden]], [[voraussetzendem]], [[voraussetzenderer]], [[voraussetzenderes]], [[voraussetzendere]], [[voraussetzenderen]], [[voraussetzenderem]], [[voraussetzendster]], [[voraussetzendstes]], [[voraussetzendste]], [[voraussetzendsten]], [[voraussetzendstem]]
+[[voraussetzender]], [[voraussetzendes]], [[voraussetzende]], [[voraussetzenden]], [[voraussetzendem]], [[voraussetzenderer]], [[voraussetzenderes]], [[voraussetzendere]], [[voraussetzenderen]], [[voraussetzenderem]], [[voraussetzendster]], [[voraussetzendstes]], [[voraussetzendste]], [[voraussetzendsten]], [[voraussetzendstem]], [[erfordern]]

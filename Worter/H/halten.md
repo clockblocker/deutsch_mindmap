@@ -3,6 +3,9 @@
 haben [[gehalten]]
 
 ---
+*[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]. ^13
+
+
 *[[Hielt]] man für Ufos aus dem All*
 *Darum schickte ein General*  
 

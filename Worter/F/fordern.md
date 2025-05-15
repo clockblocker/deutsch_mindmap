@@ -38,4 +38,4 @@ PI: [[fordernd]], PII: [[gefordert]], Zu+inf: [[zufordern]]
 [[fordern]] - [[Stamm]] = [[fordern]] / to demand, to request, to challenge
 
 ---
-[[Forderung]], [[Herausforderung]], [[Anspruch]], [[forschend]], [[fordernd]], [[Forderer]], [[Forderung]], [[erforderlich]], [[überfordern]], [[benötigen]], [[Aufrufen]], [[dringen]], [[Überforderung]]
+[[Forderung]], [[Herausforderung]], [[Anspruch]], [[forschend]], [[fordernd]], [[Forderer]], [[Forderung]], [[erforderlich]], [[überfordern]], [[benötigen]], [[Aufrufen]], [[dringen]], [[Überforderung]], [[erfordern]]

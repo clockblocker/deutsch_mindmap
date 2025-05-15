@@ -24,4 +24,4 @@ N: [[zügiges]], [[zügigeres]], [[zügigsten]]
 P: [[zügigen]], [[zügigeren]], [[zügigsten]]  
 
 ---
-[[Zug]], [[züglich]], [[Zügigkeit]], [[beschleunigen]], [[rasch]], [[Schnell]]
+[[Zug]], [[züglich]], [[Zügigkeit]], [[beschleunigen]], [[rasch]], [[Schnell]], [[zeitsparend]]

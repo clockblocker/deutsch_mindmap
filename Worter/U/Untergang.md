@@ -1,1 +1,1 @@
-, [[Niederlage]], [[Niedergang]]
+, [[Niederlage]], [[Niedergang]], [[Entstehung]]

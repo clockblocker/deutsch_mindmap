@@ -1,1 +1,1 @@
-, [[leicht]]
+, [[leicht]], [[leichter gesagt als getan]]

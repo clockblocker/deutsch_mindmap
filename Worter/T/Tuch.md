@@ -26,4 +26,4 @@ Synonyme:
 ---
 
 #Substantiv
-#Neuter, [[Tischtuch]], [[Leinewand]], [[Tüchlein]]
+#Neuter, [[Tischtuch]], [[Leinewand]], [[Tüchlein]], [[gutbetucht]], [[Leinwand]]

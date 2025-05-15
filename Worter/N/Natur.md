@@ -1,2 +1,2 @@
 , [[Umwelt]], [[Naturschutz]], [[natürlich]]
-, [[Werksgelände]], [[Naturschützer]]
+, [[Werksgelände]], [[Naturschützer]], [[naturgetreu]]

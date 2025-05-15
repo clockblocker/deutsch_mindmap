@@ -3,13 +3,13 @@
 😌 🔴 die [[Geborgenheit]], [ɡəˈbɔʁɡn̩haɪ̯t](https://youglish.com/pronounce/Geborgenheit/german)
 
 ---
-Geborgenheit
+###### ###### 9. Welche Folgen kann [[fehlende]] [[Geborgenheit]] für einen [[Säugling]] haben?
+a) Er kann später [[Belastung]]en schwieriger [[handhaben]].  
 
 ---
 = [[Sicherheit]], [[Schutz]], [[Geborgenheit]]
 ≈ [[Vertrauen]], [[Wohlbefinden]], [[Frieden]]
 ≠ [[Unsicherheit]], [[Angst]], [[Verlassenheit]]
-
 , [[Sicherheit]], [[Gemütlichkeit]], [[Gefahr]], [[Bedrohung]]
 
 

@@ -6,7 +6,7 @@ die [[Ordnungen]]
 
 ---
 Synonyme:
-- [[System]], [[Struktur]], [[Worter/R/Regel]], [[Organisation]], [[Arrangement]]
+- [[System]], [[Struktur]], [[Regel]], [[Organisation]], [[Arrangement]]
 
 ---
 order, arrangement, system, discipline
@@ -22,4 +22,4 @@ Genitive: der [[Ordnung]], der [[Ordnungen]]
 Dative: der [[Ordnung]], den [[Ordnungen]]  
 
 ---
-[[ordnen]], [[ordentlich]], [[unordentlich]], [[Rechtsordnung]], [[Weltordnung]], [[Hausordnung]], [[Arbeiteraufstand]], [[Aufstand]], [[Ordnungsamt]], [[Faustrecht]], [[Reihe]], [[Server]], [[Störung]], [[Ordnen]]
+[[ordnen]], [[ordentlich]], [[unordentlich]], [[Rechtsordnung]], [[Weltordnung]], [[Hausordnung]], [[Arbeiteraufstand]], [[Aufstand]], [[Ordnungsamt]], [[Faustrecht]], [[Reihe]], [[Server]], [[Störung]], [[Ordnen]], [[Kleck­serei]], [[Disziplin]]

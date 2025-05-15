@@ -1,3 +1,4 @@
+ --> [[Ingredient-Add-Remove]] <--
 ---> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
 
 💪 [[durchsetzen]], [ˈdʊɐ̯çˌzɛtsn̩](https://youglish.com/pronounce/durchsetzen/german) → [[setzte durch]] → [[durchgesetzt]]

@@ -1,2 +1,3 @@
 ---> 🧩 [[Grad-Wahrheit]] <---
 😡 [[Lügen]]
+, [[Tatsache]]

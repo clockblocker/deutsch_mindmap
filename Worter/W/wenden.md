@@ -71,4 +71,4 @@ sie, [[wenden]], [[wandten]] / [[wendeten]], [[wenden]], [[wandten]] / [[wendete
 Adjektive: [[wendend]], [[wendender]], [[wendendst]]
 
 ---
-[[wendender]], [[wendendes]], [[wendende]], [[wendenden]], [[wendendem]], [[wendenderer]], [[wendenderes]], [[wendendere]], [[wendenderen]], [[wendenderem]], [[wendendster]], [[wendendstes]], [[wendendste]], [[wendendsten]], [[wendendstem]], [[umstellen]], [[aufwendig]]
+[[wendender]], [[wendendes]], [[wendende]], [[wendenden]], [[wendendem]], [[wendenderer]], [[wendenderes]], [[wendendere]], [[wendenderen]], [[wendenderem]], [[wendendster]], [[wendendstes]], [[wendendste]], [[wendendsten]], [[wendendstem]], [[umstellen]], [[aufwendig]], [[Zuwendung]]

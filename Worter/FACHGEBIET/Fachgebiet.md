@@ -1,1 +1,1 @@
-, [[Forschungsgebiet]]
+, [[Forschungsgebiet]], [[Wissenschaftszweig]]

@@ -1,7 +1,11 @@
 🗓️ 🔵 der [[Alltag]], [ˈalˌtaːk](https://youglish.com/pronounce/Alltag/german)
 
 ---
-Auf der anderen Seite sind viele der festen Überzeugung, dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[einfach]]er gesagt alt getan ist.
+*[[001-C1-Schreiben-T1#^4|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher klimafreundlichen [[Handlungen]] im [[Alltag]] [[leichter]] gesagt als getan ist. ^4
+
+
+*[[000-C1-Schreiben-T1#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt sich die [[Frage]], wie man einen [[ausgewogenen]] [[Lebensstil]] mit sozialen Medien im [[Alltag]] [[erreichen]] kann. ^9
+
 
 ---
 = [[Tagesablauf]], [[Routine]], [[Gewohnheit]]
@@ -29,3 +33,6 @@ N: der [[Alltag]], die [[Alltage]]
 A: den [[Alltag]], die [[Alltage]]
 G: des [[Alltags]], der [[Alltage]]
 D: dem [[Alltag]], den [[Alltagen]]
+
+
+#Maskulin 

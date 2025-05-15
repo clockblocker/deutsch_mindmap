@@ -37,4 +37,4 @@ D: der [[Weiterbildung]], den [[Weiterbildungen]]
 [[weiterbilden]], [[weiterbildend]], [[weiterbildungsorientiert]], [[Bildung]], [[Erlernung]]
 
 
-#Feminin , [[Bildungsfreistellung]]
+#Feminin , [[Bildungsfreistellung]], [[weitergeben]]

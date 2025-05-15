@@ -22,7 +22,7 @@ Antonyme: [[unregelmäßig]], [[sporadisch]], [[zufällig]], [[unberechenbar]]
 **regular, steady, consistent**
 
 ---
-[[Worter/R/Regel]][[mäßig]]
+[[Regel]][[mäßig]]
 
 ---
 
@@ -35,4 +35,4 @@ Feminine: [[regelmäßige]], [[regelmäßigere]], [[regelmäßigste]]
 Neuter: [[regelmäßiges]], [[regelmäßigeres]], [[regelmäßigstes]]  
 Plural: [[regelmäßigen]], [[regelmäßigeren]], [[regelmäßigsten]]  
 
-[[Regelmäßigkeit]], [[regelmäßig]], [[unregelmäßig]], [[Regelmäßigkeiten]], [[geduld]], [[befürchten]], [[häufig]], [[allwöchentlich]], [[gelegentlich]]
+[[Regelmäßigkeit]], [[regelmäßig]], [[unregelmäßig]], [[Regelmäßigkeiten]], [[geduld]], [[befürchten]], [[häufig]], [[allwöchentlich]], [[gelegentlich]], [[alltäglich]]

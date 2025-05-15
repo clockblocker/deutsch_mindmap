@@ -5,6 +5,9 @@ haben [[ausgestellt]]
 ---
 die [[Ausstellung]]
 
+*[[C1-Lesen-T4-100-Text#^11|^]]* Nur wer [[hochdotierte]] Kunstpreise bekommt, vielleicht noch eine Professur hat, über die [[notwendige]] mediale Aufmerksamkeit [[verfügt]] und in bekannten Museen [[ausstellt]], darf auf dem [[Kunstolymp]] Platz nehmen. ^11
+
+
 140. Was macht ein [[Schöffe]] / eine Schöffin in Deutschland? Er / Sie … (82%)
 	- [x] [[entscheidet]] mit [[Richtern]] / Richterinnen über [[Schuld]] und Strafe.
 	- [ ] [[ausstellen|stellt]] [[Urkunden]] aus.

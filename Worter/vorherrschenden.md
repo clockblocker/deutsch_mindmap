@@ -1,0 +1,1 @@
+👑 [[vorherrschen]] | 👑 [[vorherrschend]]

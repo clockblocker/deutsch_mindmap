@@ -1,5 +1,5 @@
 [[C1-Schreiben-2025]]
-[[T2-Schreiben-Ubungen]]
+[[0-T2-Schreiben-Ubungen]]
 [[Location-Arbeit]]
 [[Format-Teil-2-Komplaint]] 
 [[Thema-Weiterbildung]], [[Thema-Personalmangel]], [[Thema-Homeoffice]]
@@ -18,19 +18,21 @@ Sehr geehrte Frau Keller,
 
 *ich wende mich an Sie, um auf meine geplante Aufstiegsfortbildung einzugehen.*
 
-Ich habe vollstes Verständnis dafür, dass die Firma unter Personalmangel und Arbeitsdruck nicht alle Bedürfnisse berücksichtigen kann – insbesondere, da die Vorstellung des Projekts bereits in den nächsten Monaten ansteht. ^1
+Ich habe vollstes Verständnis dafür, dass die Firma unter Personalmangel und Arbeitsdruck nicht alle Bedürfnisse berücksichtigen kann *– insbesondere, da die Vorstellung des Projekts bereits in den nächsten Monaten ansteht*. ^1
 
 
 Allerdings [[bietet]] sich nicht oft die [[Chance]], ein MBA-Studium an der Harvard-Universität [[aufzunehmen]]. ^2
 
 
-Seit zwei Jahren versuche ich darum, ein Studienvisum zu [[erhalten]] und einen Platz im Programm zu sichern. Das Studium findet jedoch vor Ort statt, und um daran teilzunehmen, benötige ich eine sechsmonatige Bildungsfreistellung. ^3
+Seit zwei Jahren versuche ich darum, ein Studienvisum zu [[erhalten]] und einen Platz im Programm zu sichern. 
+
+Das Studium findet jedoch vor Ort statt, und um daran teilzunehmen, benötige ich eine sechsmonatige Bildungsfreistellung. ^3
 
 
-Am Ende des Programms könnte ich nicht nur meinen aktuellen Aufgabenbereich erweitern, sondern auch neue Netzwerke einbringen – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann. ^4
+Am Ende des Programms könnte ich nicht nur meinen aktuellen Aufgabenbereich erweitern, sondern auch neue Netzwerke mitbringen – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann. ^4
 
 
-Wenn keine längere Freistellung momentan ermöglicht werden kann, schlage ich vor, mir dauerhaftes Homeoffice für sechs Monate zu erlauben. ^5
+Sollte keine längere Freistellung momentan ermöglicht werden können, schlage ich vor, mir während des Programms das vollständig remote Arbeiten zu erlauben.­ ^5
 
 
 Ich freue mich auf ihre Rückmeldung und danke Ihnen im Voraus.
