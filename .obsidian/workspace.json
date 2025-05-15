@@ -84,16 +84,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Lesen/C1-Lesen-Teil-2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-100/C1-Lesen-T2-100-Text.md",
+                "file": "C1 Lesen/C1-Lesen-Teil-1/0-C1-Lesen-T1-Ubung-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Lesen-T2-100-Text"
+              "title": "0-C1-Lesen-T1-Ubung-List"
             }
           },
           {
-            "id": "023154faa32ce488",
+            "id": "53682abc38e548fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-300/C1-Lesen-T1-300-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Lesen-T1-300-Text"
+            }
+          },
+          {
+            "id": "34e525bd9ff2751f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,9 +119,51 @@
               "icon": "lucide-file",
               "title": "0-C1-Lesen-T1-Ubung-List"
             }
+          },
+          {
+            "id": "7d79ba952ef272dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T2/0-C1-Hoehen-T2-Ubung-List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-C1-Hoehen-T2-Ubung-List"
+            }
+          },
+          {
+            "id": "13ee17bcb802a396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-1/C1-Hoehen-T1-101/C1-Hoehen-T1-101-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Hoehen-T1-101-Text"
+            }
+          },
+          {
+            "id": "7f0370f139a4947b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T1/0-C1-Hoehen-T1-Ubung-List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-C1-Hoehen-T1-Ubung-List"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "3d434d9b08a9a564",
@@ -293,44 +349,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "023154faa32ce488",
+  "active": "34e525bd9ff2751f",
   "lastOpenFiles": [
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301/C1-Lesen-T4-301-Unmarked-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301/C1-Lesen-T4-301-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301/C1-Lesen-T4-301-Loesung.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-303/C1-Lesen-T4-303-Unmarked-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-303/C1-Lesen-T4-303-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-302/C1-Lesen-T4-302-Loesung.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-303/C1-Lesen-T4-303-Loesung.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-302/C1-Lesen-T4-302-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-302/C1-Lesen-T4-302-Unmarked-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-300/C1-Lesen-T4-300-Unmarked-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-300/C1-Lesen-T4-300-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-300/C1-Lesen-T4-300-Loesung.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-303",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-302",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-300",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-3",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-203/C1-Lesen-T4-203-Unmarked-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-203/C1-Lesen-T4-203-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-203/C1-Lesen-T4-203-Loesung.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-202/C1-Lesen-T4-202-Unmarked-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-202/C1-Lesen-T4-202-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-202/C1-Lesen-T4-202-Loesung.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-201/C1-Lesen-T4-201-Unmarked-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-201/C1-Lesen-T4-201-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-201/C1-Lesen-T4-201-Loesung.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-200/C1-Lesen-T4-200-Unmarked-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-200/C1-Lesen-T4-200-Text.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-200/C1-Lesen-T4-200-Loesung.md",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-203",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-202",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-201",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2/C1-Lesen-T4-200",
-    "C1 Lesen/C1-Lesen-Teil-4/Ubungen/C1-Lesen-T4-2",
-    "C1 Lesen/C1-Lesen-Teil-4/0-C1-Lesen-T4-Ubung-List.md",
-    "C1 Lesen/C1-Lesen-Teil-2/0-C1-Hoehen-T2-Ubung-List.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-300/C1-Lesen-T1-300-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/0-C1-Lesen-T1-Ubung-List.md",
+    "C1 Lesen/C1-Lesen-Teil-2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-100/C1-Lesen-T2-100-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-303/C1-Lesen-T1-303-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-303/C1-Lesen-T1-303-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-303/C1-Lesen-T1-303-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-302/C1-Lesen-T1-302-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-301/C1-Lesen-T1-301-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-302/C1-Lesen-T1-302-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-302/C1-Lesen-T1-302-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-301/C1-Lesen-T1-301-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-301/C1-Lesen-T1-301-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-300/C1-Lesen-T1-300-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-300/C1-Lesen-T1-300-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-302",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-303",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-301",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3/C1-Lesen-T1-300",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-3",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-103/C1-Lesen-T1-103-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-103/C1-Lesen-T1-103-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-103/C1-Lesen-T1-103-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-102/C1-Lesen-T1-102-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-102/C1-Lesen-T1-102-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-102/C1-Lesen-T1-102-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-101/C1-Lesen-T1-101-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-101/C1-Lesen-T1-101-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-101/C1-Lesen-T1-101-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-100/C1-Lesen-T1-100-Unmarked-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-100/C1-Lesen-T1-100-Text.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-100/C1-Lesen-T1-100-Loesung.md",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-103",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-102",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-101",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1/C1-Lesen-T1-100",
+    "C1 Lesen/C1-Lesen-Teil-1/Ubungen/C1-Lesen-T1-1",
     "Anhänge/Pasted image 20250514073109.png",
     "Anhänge/Pasted image 20250512100609.png",
     "Anhänge/Pasted image 20250511162708.png",

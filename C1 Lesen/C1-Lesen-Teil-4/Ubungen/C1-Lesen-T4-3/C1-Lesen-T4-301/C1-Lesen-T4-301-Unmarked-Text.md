@@ -1,4 +1,4 @@
-[[0-C1-Lesen-T4-Ubung-List|]]
+[[0-C1-Lesen-T4-Ubung-List|Ubung-List]]
 
 ---
 
