@@ -1,1 +1,1 @@
-, [[frieren]], [[erfrieren]], [[abkühlen]]
+, [[frieren]], [[erfrieren]], [[abkühlen]], [[wärmen]]

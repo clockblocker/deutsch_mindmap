@@ -2,9 +2,11 @@
 die [[Worter/B/Beziehungen]]
 
 ---
-– Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Beziehung]] gelöst.)
+Wir haben mit dieser Familie gebrochen. (Wir haben unsere [[Beziehung]] gelöst.)
 
-- Argumentieren Sie, ob digitale [[Nähe]] echte soziale [[Beziehung]]en [[ersetzen]] kann.  
+6 Es werden auch [[zwischenmenschliche]] [[Beziehungen]] beschrieben.  
+
+Argumentieren Sie, ob digitale [[Nähe]] echte soziale [[Beziehung]]en [[ersetzen]] kann.  
 
 [[Außenbeziehungen]]
 
@@ -12,7 +14,7 @@ Es ist ihre Traum, [[beziehungsweisse]] Wunch, Polizistin zu werden.
 
 ---
 = [[Verhältnis]], [[Kontakt]], [[Bindung]]
-≈ [[Partnerschaft]], [[Freundschaft]], [[Verbindung]], [[Verwandtschaft]]
+≈ [[Partnerschaft]], [[Freundschaft]], [[Verbindung]], [[Verwandtschaft]], [[Außenbeziehungen]], [[Beziehung]], [[verlinkungen]]
 ≠ [[Trennung]], [[Entfremdung]], [[Isolation]]
 
 ---
@@ -33,3 +35,6 @@ A: die [[Beziehung]], die [[Worter/B/Beziehungen]]
 G: der [[Beziehung]], der [[Worter/B/Beziehungen]]
 D: der [[Beziehung]], den [[Worter/B/Beziehungen]]
 , [[Interaktion]], [[Kommunikation]], [[Anschluss]], [[Unabhängigkeit]]
+
+
+#Feminin , [[Zusammenspiel]]

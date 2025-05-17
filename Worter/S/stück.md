@@ -26,4 +26,4 @@ D: dem [[Stück]], den [[Stücken]]
 ---
 , [[Scheibe]], 
 [[stückeln]], [[stückweise]], [[stückgutartig]], [[stückweise]], [[stück]]
-, [[bestücken]], [[Grundstück]], [[Bruchteil]], [[Plastikteil]]
+, [[bestücken]], [[Grundstück]], [[Bruchteil]], [[Plastikteil]], [[komplett]]

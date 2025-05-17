@@ -7,6 +7,8 @@ die [[Anzahlen]]
 *[[100-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die [[geringe]] [[Anzahl]] der Arbeitsplätze in der [[Universitätsbibliothek]] einzugehen. ^1
 
 
+*[[C1-Hoehen-T1-100-Text#^21|^]]* Auch wenn es kaum möglich sein wird, in bestimmten Stadtteilen eine [[Mietpreisspirale]] [[durchzusetzen]], für Städte die Möglichkeit, private [[Wohnungsbestände]] [[aufzukaufen]] und die [[Anzahl]] von Sozialwohnungen zu [[erhöhen]].
+
 *[[C1-Lesen-T2-100-Text#^14|^]]* [[zuwenden|Wendet]] man sich der heutigen Sprechweise der Jugendlichen zu, so [[auffallen|fällt]] auf, dass die [[Anzahl]] der Wörter aus dem Englischen, Arabischen und Türkischen immer weiter [[zunimmt]], dass Präpositionen und Artikel weggelassen werden und [[Bedeutungsverschiebungen]] (8) [[gang und gäbe]] sind. ^14
 
 

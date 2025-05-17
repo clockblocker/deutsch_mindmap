@@ -1,30 +1,30 @@
-🔵 die [[Darstellung]], [ˈdaɐ̯ˌʃtɛlʊŋ], [[darstellen]]
+🖼️ 🔴 die [[Darstellung]], [ˈdaːɐ̯ʃtɛlʊŋ](https://youglish.com/pronounce/Darstellung/german)
 die [[Darstellungen]]
 
 ---
+2 Neben der [[Darstellung]] sozialer Probleme werden auch [[juristische]] Fragen [[behandelt]].  
+
+---
+= [[Präsentation]], [[Abbildung]], [[Repräsentation]]
+≈ [[Beschreibung]], [[Erläuterung]], [[Wiedergabe]],[[bericht]], [[Vorstellung]], [[Angabe]], [[Abbildung]], [[Zeichnung]], [[Modellierung]], [[Erklärung]], [[Selbstdarstellung]]
+≠ [[Verheimlichung]], [[Verschweigen]]
+
+---
+representation, presentation  
+представление, изображение
+
+---
+[[darstellen]], [[gestellt]], [[Darsteller]]
+
+---
+[[Dar]]|[[stell]]|[[ung]]
+[[Darstellung]]
 
 
 ---
-Synonyme:
-- [[Präsentation]], [[Beschreibung]], [[Schilderung]], [[Vorführung]], [[Interpretation]]
+N: die [[Darstellung]], die [[Darstellungen]]
+A: die [[Darstellung]], die [[Darstellungen]]
+G: der [[Darstellung]], der [[Darstellungen]]
+D: der [[Darstellung]], den [[Darstellungen]]
 
----
-Übersetzung: representation, presentation, depiction, portrayal
-
----
-Morpheme:
-[[dar]][[stell]][[ung]]
-
----
-Einzigartige mögliche Formen: [[Darstellung]], [[Darstellungen]], [[Darstellungs]]
-
----
-#Substantiv #Feminin #Nominalisation
-
-Herkunft: 
-- Nominalisierung des Verbs [[darstellen]]
-- Zusammengesetzt aus [[dar-]] (Präfix) + [[stellen]] + [[-ung]] (Nominalisierungssuffix)
-
-
-
-[[bericht]], [[Vorstellung]], [[Angabe]], [[Abbildung]], [[Zeichnung]], [[Modellierung]], [[Erklärung]], [[Selbstdarstellung]]
+#Feminin 

@@ -1,3 +1,3 @@
 , [[Menschen]]
 
-#Plural , [[ÖPNV]], [[Personennahverkehr]]
+#Plural , [[ÖPNV]], [[Personennahverkehr]], [[Betroffene]]

@@ -7,6 +7,9 @@ haben [[angefangen]]
 Am [[Anfang]] сначала
 ANNA: Also … wo [[anfangen|fangen]] wir an …?  
 
+*[[C1-Lesen-T4-101-Text#^9|^]]* Als ich vor zwanzig Jahren [[anfing]] zu studieren, hieß es: [[Spätestens]] ab dem nächsten Jahrzehnt werden wir über intelligente Roboter [[verfügen]], die den Menschen im [[Weltraum]] komplett [[ersetzen]] werden. ^9
+
+
 Laura [[fängt]] [[an]] zu weinen: „Meine Eltern lassen sich scheiden!“ Oh je, denkt Tanja, das ist nicht leicht für das Mädchen.
 
 Tochter Sunita hat vor Kurzem [[angefangen]], Portugiesisch zu lernen, und will deshalb nach Portugal fliegen.

@@ -27,4 +27,4 @@ A: das [[Lebensmittel]], die [[Lebensmittel]]
 G: des [[Lebensmittels]], der [[Lebensmittel]]
 D: dem [[Lebensmittel]], den [[Lebensmitteln]]
 
-#Neuter 
+#Neuter , [[Nahrung]], [[Futter]]

@@ -56,4 +56,4 @@ sie, [[lassen zu]], [[ließen zu]], [[lassen zu]], [[ließen zu]], [[ließen zu]
 Adjektive: [[zulassend]], [[zulassender]], [[zulassendst]]
 
 ---
-[[zulassender]], [[zulassendes]], [[zulassende]], [[zulassenden]], [[zulassendem]], [[zulassenderer]], [[zulassenderes]], [[zulassendere]], [[zulassenderen]], [[zulassenderem]], [[zulassendster]], [[zulassendstes]], [[zulassendste]], [[zulassendsten]], [[zulassendstem]], [[freigeben]], [[einlassen]], [[verdrängen]]
+[[zulassender]], [[zulassendes]], [[zulassende]], [[zulassenden]], [[zulassendem]], [[zulassenderer]], [[zulassenderes]], [[zulassendere]], [[zulassenderen]], [[zulassenderem]], [[zulassendster]], [[zulassendstes]], [[zulassendste]], [[zulassendsten]], [[zulassendstem]], [[freigeben]], [[einlassen]], [[verdrängen]], [[drängen]]

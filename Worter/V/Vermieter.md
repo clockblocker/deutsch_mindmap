@@ -24,3 +24,4 @@ D: dem [[Vermieter]], den [[Vermietern]]
 
 ---
 [[vermieten]], [[Vermietung]], [[Miete]]
+, [[Mieterinitiative]]

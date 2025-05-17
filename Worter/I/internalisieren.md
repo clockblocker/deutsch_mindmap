@@ -1,1 +1,1 @@
-, [[verinnerlichen]]
+, [[verinnerlichen]], [[auslagern]]

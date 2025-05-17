@@ -4,6 +4,9 @@ nicht [[eng]]
 ---
 Der Junge wirft einen Speer zu Sokka, der ihn fängt und sofort einen [[weiteren]] [[Angriff]] auf Zuko startet.
 
+*[[C1-Lesen-T4-101-Text#^16|^]]* Menschen sind Robotern [[weit]] [[voraus]], deshalb brauchen wir bemannte [[Flüge]]. ^16
+
+
 *Sie leben hinterm Sonnenschein*  
 *getrennt von uns unendlich [[weit]].*  
 
@@ -52,4 +55,4 @@ Einzigartige mögliche Formen:
 , [[fernab]], [[weit und breit]], [[begrenzen]], [[speziell]]
 , [[althochdeutsch]]
 , [[anstoßen]]
-, [[lang]], [[unweit]], [[weitgehend]], [[weiterleiten]], [[weiterhin]], [[weltweit]], [[erweitern]]
+, [[lang]], [[unweit]], [[weitgehend]], [[weiterleiten]], [[weiterhin]], [[weltweit]], [[erweitern]], [[weitaus]], [[Flug]]

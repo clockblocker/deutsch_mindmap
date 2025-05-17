@@ -3,6 +3,12 @@
 ---
 Bitte [[beschreibe]] mir dein Haus, damit ich es finde.
 
+*[[C1-Hoehen-T1-200-Text#^15|^]]* Das letzte von mir [[ausgesuchte]] Sachbuch „Quo vadis, Wald?“ von Amelie Lennartz [[beschreibt]] den Wald als Ökosystem. ^15
+
+
+*[[C1-Hoehen-T1-100-Text#^3|^]]* Es [[beschreibt]] [[ausführlich]], wie sich in den letzten Jahrzehnten die [[Bevölkerungsstruktur]] in diesem [[Stadtteil]] [[geändert]] hat. ^3
+
+
 *[[Große Koalition#^3|^]]* Für [[westeuropäische]] Staaten wird der Begriff in der Regel [[verwendet]], um eine Koalition zwischen den beiden größten (mandatsstärksten) in einem von zwei so genannten Volksparteien dominierten Parteiensystem zu [[beschreiben]]. ^3
 
 

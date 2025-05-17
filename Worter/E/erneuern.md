@@ -1,17 +1,22 @@
-, [[verderben]], [[bessern]], [[umbauen]], [[vergilben]], [[Worter/W/Wiederholung]], [[ersetzen]], [[erneuerbar]], [[wiederholen]]
-
 🔄 [[erneuern]], [ɛɐ̯ˈnɔʏ̯ɐn](https://youglish.com/pronounce/erneuern/german) → [[erneuerte]] → [[erneuert]]
 
 ---
 *[[032-C1-Schreiben-T2#^7|^]]* [[Wiedergutmachung]]: bestelltes [[Büfett]] mit 20% [[Rabatt]] [[erneut]] [[liefern]], falsch [[geliefertes]] Büfett nicht bezahlen ^7
 
 
-Danach gilt eine globale [[Abklingzeit]] von 15 Sek., bevor der Effekt [[erneut]] [[eintreten]] kann.
+*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es [[erneut]] zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
 
+
+
+*[[C1-Hoehen-T1-100-Text#^7|^]]* Beide [[austauschen|tauschen]] ihre Argumente aus, das Buch [[verlässt]] [[erneut]] die [[Erzählstruktur]] und gibt einen [[fundierten]] [[Überblick]] über das Leben im [[Stadtteil]] früher und heute. ^7
+
+
+Danach gilt eine globale [[Abklingzeit]] von 15 Sek., bevor der Effekt [[erneut]] [[eintreten]] kann.
 
 ---
 = [[verlängern]], [[auffrischen]], [[modernisieren]]
-≈ [[aktualisieren]], [[restaurieren]], [[renovieren]]
+≈ [[aktualisieren]], [[restaurieren]], [[renovieren]], [[verderben]], [[bessern]], [[umbauen]], [[vergilben]], [[Worter/W/Wiederholung]], [[ersetzen]], [[erneuerbar]], [[wiederholen]]
+
 ≠ [[veralten]], [[zerstören]]
 
 ---
@@ -62,3 +67,5 @@ Adjektive: [[erneuernd]], [[erneuernder]], [[erneuerndst]]
 
 ---
 [[erneuernder]], [[erneuerndes]], [[erneuernde]], [[erneuernden]], [[erneuerndem]], [[erneuernderer]], [[erneuernderes]], [[erneuerndere]], [[erneuernderen]], [[erneuernderem]], [[erneuerndster]], [[erneuerndstes]], [[erneuerndste]], [[erneuerndsten]], [[erneuerndstem]]
+
+, [[wiederum]], [[Wiedergutmachung]]

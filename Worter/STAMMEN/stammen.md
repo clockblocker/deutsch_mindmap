@@ -4,6 +4,11 @@
 *[[C1-Lesen-T2-101-Text#^2|^]]* Dabei [[herausfinden|fanden]] sie heraus, dass der Mann [[womöglich]] von Sardinien [[stammte]] und seine [[Vorfahren]] über das [[Gebiet]] des heutigen Irans und über Anatolien nach Europa [[gelangt]] (1) [[waren]]. ^2
 
 
+Das Licht [[stammt]] von einer unglaublich starken Quelle, das muss er sein!
+
+*[[C1-Hoehen-T1-100-Text#^1|^]]* Das erste Buch, das ich [[empfehlen]] möchte, [[stammt]] von Helene Schmidt, die [[bereits]] als Autorin vieler spannender Frankfurt [[Krimis]] bekannt geworden ist. ^1
+
+
 ---
 = [[herkommen]], [[abstammen]], [[herrühren]], [[entstammen]]
 ≈ [[ursprünglich sein]], [[ableiten]], [[entspringen]]

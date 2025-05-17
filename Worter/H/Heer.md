@@ -22,3 +22,4 @@ Einzigartige mögliche Formen: [[Heeres]], [[Heere]], [[Heeren]]
 ---
 #Substantiv #Neuter #Militär
 
+, [[verheeren]]

@@ -1,2 +1,2 @@
 [[sowie]], [[überhaupt]]
-, [[nie]], [[Negationspartikel]]
+, [[nie]], [[Negationspartikel]], [[durchaus]]

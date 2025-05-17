@@ -6,6 +6,9 @@
 ---
 Die Firma [[anbieten|bietet]] mir einen Job [[an]].
 
+*[[C1-Hoehen-T1-100-Loesung#^2|^]]* Werden mehr Wohnungen [[nachgefragt]] als [[angeboten]], erhöht sich der Preis, also die Miete. ^2
+
+
 *[[06-C1-Schreiben-T2-M#^12|^]]* Bei meiner [[kurzweiligen]] Recherche habe ich [[herausgefunden]], dass die Firma ABC diesen [[Lieferservice]] für [[denselben]] Preis wie für unsere Kantine [[anbietet]]. ^12
 
 

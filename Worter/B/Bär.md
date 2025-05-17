@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Bären]], [[Bären]], [[Bären]], [[Bären]], [
 ---
 #Substantiv #Maskulin
 
-, [[Bärenhunger]]
+, [[Bärenhunger]], [[Waschbär]]

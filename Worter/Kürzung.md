@@ -27,4 +27,4 @@ G: der [[Kürzung]], der [[Kürzungen]]
 D: der [[Kürzung]], den [[Kürzungen]]  
 
 ---
-[[kürzen]], [[kurz]], [[kürzlich]], [[kürzbar]], [[Abkürzung]], [[Mittelzuweisung]], [[Reduktion]], [[Streichung]], [[Erhöhung]]
+[[kürzen]], [[kurz]], [[kürzlich]], [[kürzbar]], [[Abkürzung]], [[Mittelzuweisung]], [[Reduktion]], [[Streichung]], [[Erhöhung]], [[Zulage]]

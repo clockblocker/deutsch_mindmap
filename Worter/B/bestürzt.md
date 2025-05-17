@@ -1,1 +1,1 @@
-, [[entsetzt]]
+, [[entsetzt]], [[Betroffen]]

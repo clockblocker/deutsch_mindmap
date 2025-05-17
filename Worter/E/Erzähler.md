@@ -1,1 +1,1 @@
-, [[erzählen]], [[Erzählung]]
+, [[erzählen]], [[Erzählung]], [[Erzählstruktur]]

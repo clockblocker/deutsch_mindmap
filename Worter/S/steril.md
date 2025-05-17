@@ -1,1 +1,1 @@
-[[sauber]], [[schwanger]], [[trocken]], [[unfruchtbar]], [[fruchtbar]]
+[[sauber]], [[schwanger]], [[trocken]], [[unfruchtbar]], [[fruchtbar]], [[Sterilisation]]

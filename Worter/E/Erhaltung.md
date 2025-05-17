@@ -25,4 +25,4 @@ G: der [[Erhaltung]], der [[Erhaltungen]]
 D: der [[Erhaltung]], den [[Erhaltungen]]  
 
 ---
-[[erhalten]], [[erhaltsam]], [[Denkmalerhaltung]], [[Naturerhaltung]], [[Kulturerhaltung]], [[Erhalt]]
+[[erhalten]], [[erhaltsam]], [[Denkmalerhaltung]], [[Naturerhaltung]], [[Kulturerhaltung]], [[Erhalt]], [[Umwandlung]]

@@ -4,6 +4,9 @@
 💥 [[scheitern]], [ˈʃaɪ̯tɐn] | [[scheiterte]], sein [[gescheitert]]
 
 ---
+*[[C1-Lesen-T4-101-Text#^14|^]]* Mein Vorschlag: Sollte es bei der bemannten [[Raumfahrt]] [[tatsächlich]] am Geld [[scheitern]], dann müsste man die Raumfahrtprogramme [[eben]] [[zeitlich]] [[strecken]]. ^14
+
+
 Er hat mich gestern nicht angerufen, weil er noch einmal [[gescheitert]] ist.
 *Он не позвонил мне вчера, потому что он опять потерпел неудачу.*
 
@@ -34,4 +37,4 @@ PI: [[scheiternd]], PII: [[gescheitert]], Zu+inf: [[zu scheitern]]
 ---
 [[Scheitern]], [[Niederlage]], [[Misserfolg]], [[erfolglos]], [[gescheitert]], [[w-l]]
 , [[Versuch]]
-, [[durchhalten]], [[Karriere]], [[gelangen]], [[bemüht]], [[Aufgabenerfüllung]], [[standhalten]], [[bewältigen]], [[umsetzen]], [[bestehen]], [[vergeigen]], [[ausfallen]], [[kollabieren]], [[Realisierung]], [[verfehlen]], [[beherrschen]], [[Neuanfang]], [[Anhieb]], [[Anhieb]], [[Laufbahn]], [[Bildungserfolg]], [[Projekt]], [[Pitch]], [[durchsetzen]], [[meistern]], [[bewähren]], [[verwirklichen]], [[gedeihen]], [[Standbein]]
+, [[durchhalten]], [[Karriere]], [[gelangen]], [[bemüht]], [[Aufgabenerfüllung]], [[standhalten]], [[bewältigen]], [[umsetzen]], [[bestehen]], [[vergeigen]], [[ausfallen]], [[kollabieren]], [[Realisierung]], [[verfehlen]], [[beherrschen]], [[Neuanfang]], [[Anhieb]], [[Anhieb]], [[Laufbahn]], [[Bildungserfolg]], [[Projekt]], [[Pitch]], [[durchsetzen]], [[meistern]], [[bewähren]], [[verwirklichen]], [[gedeihen]], [[Standbein]], [[ausreifen]], [[reifen]], [[erbringen]], [[zurückfallen]]

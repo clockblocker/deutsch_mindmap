@@ -1,11 +1,12 @@
 🔨 🔴 die [[Vorarbeit]], [ˈfoːɐ̯ʔaʁbaɪ̯t](https://youglish.com/pronounce/Vorarbeit/german)
 
 ---
-#Neuter, [[Spitze]], [[Schluss]], [[Abschluss]], [[Geburt]], [[Abschied]], [[Vorsitzende]], [[Einführung]], [[Anfang]], [[müssen]], [[Herkunft]], [[Abspann]], [[Einleitung]], [[Neuanfang]]
+*[[C1-Lesen-T4-101-Text#^23|^]]* Roboter können aber auch [[gezielte]] [[Vorarbeit]] [[leisten]], bevor eine bemannte Mission zum Mars oder zum Mond startet.
+
 
 ---
 = [[Vorbereitung]], [[Vorentwurf]], [[Grundlage]]
-≈ [[Planung]], [[Vorbereitungen]], [[Grundlagenarbeit]]
+≈ [[Planung]], [[Vorbereitungen]], [[Grundlagenarbeit]], [[Spitze]], [[Schluss]], [[Abschluss]], [[Geburt]], [[Abschied]], [[Vorsitzende]], [[Einführung]], [[Anfang]], [[müssen]], [[Herkunft]], [[Abspann]], [[Einleitung]], [[Neuanfang]]
 ≠ [[Nacharbeit]], [[Endarbeit]]
 
 ---

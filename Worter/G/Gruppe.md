@@ -1,1 +1,1 @@
-, [[Minderheit]], [[Gesellschaft]], [[Häuflein]], [[Menge]], [[Ansammlung]], [[Partei]], [[Erwachsenenanfängergruppe]], [[Gemeinschaft]], [[Menschenmenge]], [[Berufsgruppe]], [[Abteilung]], [[Team]], [[Forschungsteam]], [[Dutzend]]
+, [[Minderheit]], [[Gesellschaft]], [[Häuflein]], [[Menge]], [[Ansammlung]], [[Partei]], [[Erwachsenenanfängergruppe]], [[Gemeinschaft]], [[Menschenmenge]], [[Berufsgruppe]], [[Abteilung]], [[Team]], [[Forschungsteam]], [[Dutzend]], [[Bevölkerungsgruppe]]

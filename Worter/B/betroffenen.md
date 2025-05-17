@@ -1,2 +1,2 @@
 , [[dahinter]]
-🤔 [[betreffen]] | 🤔 [[betroffen]]
+🤔 [[betreffen]] | 🤔 [[Betroffen]], [[Betroffene]]

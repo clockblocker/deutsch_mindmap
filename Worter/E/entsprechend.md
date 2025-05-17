@@ -5,6 +5,9 @@
 ---
 [[Entsprechend]] unserem [[Vorschlag]] 
 
+*[[C1-Lesen-T4-102-Text#^20|^]]* Letzteres vor allem durch die [[Spezialisierung]] der [[Drittfirmen]], denen bestimmte [[Dienstleistung]]en [[übertragen]] wurden, da sie ja im [[Normalfall]] Expertinnen und Experten auf dem [[entsprechenden]] [[Gebiet]] sind. ^20
+
+
 *[[1 lesen StadtTours#^10|^]]* Jede Stadt hat ihren ganz eigenen Charme. [[Entsprechend]] hat jedes StadtTours-Team überall einzigartige Programme für seine Besucherinnen und Besucher vorbereitet. ^10
 
 

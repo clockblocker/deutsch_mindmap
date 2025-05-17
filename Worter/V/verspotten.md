@@ -27,4 +27,4 @@ PI: [[verspottend]], PII: [[verspottet]], Zu+inf: [[zuverspotten]]
 [[verspotten]] - [[ver]] = [[spotten]] / to mock, to ridicule, to deride
 
 ---
-[[Verspottung]], [[Spott]], [[spöttisch]], [[spotten]], [[verspottenswert]]
+[[Verspottung]], [[Spott]], [[spöttisch]], [[spotten]], [[verspottenswert]], [[bemitleiden]]

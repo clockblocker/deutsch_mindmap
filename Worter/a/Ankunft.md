@@ -22,4 +22,4 @@ G: der [[Ankunft]], der [[Ankünfte]]
 D: der [[Ankunft]], den [[Ankünften]]  
 
 ---
-[[ankommen]], [[Ankommender]], [[ankünftiger]], [[Ankunftszeit]], [[Reise]], [[Einwanderung]], [[Rückkehr]]
+[[ankommen]], [[Ankommender]], [[ankünftiger]], [[Ankunftszeit]], [[Reise]], [[Einwanderung]], [[Rückkehr]], [[Zuzug]]

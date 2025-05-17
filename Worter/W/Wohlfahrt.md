@@ -1,1 +1,1 @@
-, [[Wohlstand]], [[Wohlbefinden]]
+, [[Wohlstand]], [[Wohlbefinden]], [[Wohlergehen]]

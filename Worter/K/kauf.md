@@ -24,4 +24,4 @@ D: dem [[Kauf]], den [[Käufen]]
 
 ---
 [[kaufen]], [[käuflich]], [[Käufer]], [[Verkauf]], [[einkaufen]]
-, [[Miete]], [[Ausleihsystem]], [[Einkaufsleiterin]], [[Einkaufsbereich]]
+, [[Miete]], [[Ausleihsystem]], [[Einkaufsleiterin]], [[Einkaufsbereich]], [[aufkaufen]]

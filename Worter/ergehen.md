@@ -27,4 +27,4 @@ PI: [[ergehend]], PII: [[ergangen]], Zu+inf: [[zu ergehen]]
 [[ergehen]] - [[er]] = [[gehen]] / to happen to, to befall, to fare
 
 ---
-[[Ergehen]], [[Geschehen]], [[Vorfall]], [[Ereignis]], [[Schicksal]]
+[[Ergehen]], [[Geschehen]], [[Vorfall]], [[Ereignis]], [[Schicksal]], [[Wohlergehen]]

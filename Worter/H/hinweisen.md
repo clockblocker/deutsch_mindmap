@@ -37,4 +37,4 @@ PI: [[hinweisend]], PII: [[hingewiesen]], Zu+inf: [[hinzuweisen]]
 [[Hinweis]]
 
 ---
-[[Hinweis]], [[hinweisend]], [[Hinweisschild]], [[hinweisbar]], [[aufzeigen]], [[besagen]], [[hindeuten]]
+[[Hinweis]], [[hinweisend]], [[Hinweisschild]], [[hinweisbar]], [[aufzeigen]], [[besagen]], [[hindeuten]], [[warnen]]

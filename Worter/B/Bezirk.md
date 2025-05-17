@@ -30,4 +30,4 @@ D: dem [[Bezirk]], den [[Bezirken]]
 [[bezirklich]], [[Bezirksgericht]], [[Bezirksamt]], [[Bezirksgrenze]]
 
 , [[Gebiet]], [[Bundesbezirk]]
-, [[Bezirksverordnetenversammlung]], [[Viertel]]
+, [[Bezirksverordnetenversammlung]], [[Viertel]], [[Stadtteil]]

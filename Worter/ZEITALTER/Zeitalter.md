@@ -28,4 +28,4 @@ G: des [[Zeitalters]], der [[Zeitalter]]
 D: dem [[Zeitalter]], den [[Zeitaltern]]
 
 
-#Neuter 
+#Neuter , [[zeitlich]]

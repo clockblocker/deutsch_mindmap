@@ -28,3 +28,4 @@ P: [[mitfühlenden]], [[mitfühlenderen]], [[mitfühlendsten]]
 
 ---
 [[Mitgefühl]], [[fühlen]], [[mitfühlen]], [[gefühlvoll]]
+, [[rücksichtslos]]

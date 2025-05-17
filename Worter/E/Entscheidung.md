@@ -4,12 +4,13 @@ die [[Entscheidungen]]
 ---
 Ich habe eine [[Entscheidung]] [[getroffen]]: Diesen Monat konzentriere ich mich nur auf Kamanova.
 
-*[[1. 606 Euro mehr Diät für Abgeordnete? 😱#^3|^]]* Das ist tatsächlich eine der ersten [[Entscheidungen]], die der neue Bundestag zu treffen hat. ^3
+*[[1. 606 Euro mehr Diät für Abgeordnete? 😱#^3|^]]* Das ist [[tatsächlich]] eine der ersten [[Entscheidung]]en, die der neue Bundestag zu [[treffen]] hat. 
 
+*[[1. 606 Euro mehr Diät für Abgeordnete? 😱#^3|^]]* Das ist tatsächlich eine der ersten [[Entscheidung]]en, die der neue Bundestag zu treffen hat. 
 
 Wir treffen eine [[Entscheidung]], [[nachdem]] jeder seine [[Ansichten]] mit uns [[geteilt]] hat.
 
-Manchmal muss man schwierige [[Entscheidungen]] [[treffen]] 
+Manchmal muss man schwierige [[Entscheidung]]en [[treffen]] 
 
 Deine [[Entscheidung]] wird [[Folgen]] haben.
 
@@ -31,10 +32,10 @@ decision, determination
 
 ---
 Case: Singular, Plural  
-Nominative: die [[Entscheidung]], die [[Entscheidungen]]  
-Accusative: die [[Entscheidung]], die [[Entscheidungen]]  
-Genitive: der [[Entscheidung]], der [[Entscheidungen]]  
-Dative: der [[Entscheidung]], den [[Entscheidungen]]  
+Nominative: die [[Entscheidung]], die [[Entscheidung]]en  
+Accusative: die [[Entscheidung]], die [[Entscheidung]]en  
+Genitive: der [[Entscheidung]], der [[Entscheidung]]en  
+Dative: der [[Entscheidung]], den [[Entscheidung]]en  
 
 ---
 [[entscheiden]], [[entscheidend]], [[unentschieden]], [[Entscheidungsträger]], [[Entscheidungsfindung]]

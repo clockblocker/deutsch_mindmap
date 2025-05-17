@@ -4,6 +4,9 @@ die [[lieben]]
 ---
 Der wahre Traum der Liebe
 
+*[[C1-Hoehen-T1-200-Text#^2|^]]* Hier beschreibt der Autor, wie er sich als [[eingefleischt]]er Stadtmensch jedes Wochenende in den [[Thüringer]] Wald [[zurückzieht]], um sich dort in einer [[einsamen]] Hütte wegen einer [[ent­täuschten]] [[Liebe]] selbst zu [[bemitleiden]].
+
+
 *Es ist was es ist*  
 *sagt die [[Liebe]]*
 

@@ -1,2 +1,2 @@
 , [[weit]], [[weit]], [[weit und breit]], [[knapp]], [[dicht]]
-, [[lang]], [[umfangreich]]
+, [[lang]], [[umfangreich]], [[weitaus]]

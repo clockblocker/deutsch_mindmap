@@ -44,4 +44,4 @@ sie, [[kühlen ab]], [[kühlten ab]], [[kühlen ab]], [[kühlten ab]], [[kühlen
 Adjektive: [[abkühlend]], [[abkühlender]], [[abkühlendst]]
 
 ---
-[[abkühlender]], [[abkühlendes]], [[abkühlende]], [[abkühlenden]], [[abkühlendem]], [[abkühlenderer]], [[abkühlenderes]], [[abkühlendere]], [[abkühlenderen]], [[abkühlenderem]], [[abkühlendster]], [[abkühlendstes]], [[abkühlendste]], [[abkühlendsten]], [[abkühlendstem]]
+[[abkühlender]], [[abkühlendes]], [[abkühlende]], [[abkühlenden]], [[abkühlendem]], [[abkühlenderer]], [[abkühlenderes]], [[abkühlendere]], [[abkühlenderen]], [[abkühlenderem]], [[abkühlendster]], [[abkühlendstes]], [[abkühlendste]], [[abkühlendsten]], [[abkühlendstem]], [[wärmen]]

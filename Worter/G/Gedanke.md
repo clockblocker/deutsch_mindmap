@@ -4,6 +4,9 @@ die [[Gedanken]]
 ---
 Leider kann sie nicht lange mit ihr sprechen, denn sie hat Aufsicht auf dem Pausenhof. Und in [[Gedanken]] ist sie immer noch bei Laura
 
+*[[C1-Lesen-T4-102-Text#^14|^]]* Im [[Gesundheitswesen]] sollten solche [[Gedanke]]n jedoch dem [[Wohlergehen]] der Bürgerinnen und Bürger [[untergeordnet]] werden. ^14
+
+
 ---
 Synonyme:
 - [[Idee]], [[Vorstellung]], [[Überlegung]], [[Einfall]], [[Konzept]]

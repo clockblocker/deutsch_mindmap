@@ -1,1 +1,1 @@
-, [[speziell]]
+, [[speziell]], [[Spezialisierung]]

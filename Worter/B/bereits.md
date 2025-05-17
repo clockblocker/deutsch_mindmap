@@ -5,6 +5,9 @@
 ---
 Du musst nicht noch einkaufen gehen, ich habe es [[bereits]] [[erledigt]].
 
+*[[C1-Hoehen-T1-100-Text#^1|^]]* Das erste Buch, das ich [[empfehlen]] möchte, [[stammt]] von Helene Schmidt, die [[bereits]] als Autorin vieler spannender Frankfurt [[Krimis]] bekannt geworden ist. ^1
+
+
 Allerdings [[anstehen|steht]] die [[Vorstellung]] des Projekts [[bereits]] nächste Woche an.
 
 „[[Zukünftig]]“ bezieht sich auf etwas, das erst in der Zukunft passieren wird. Die Bedrohung durch Plastikmüll ist [[bereits]] real.

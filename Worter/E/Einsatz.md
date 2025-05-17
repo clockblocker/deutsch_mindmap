@@ -9,6 +9,9 @@
 *[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] (6) [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden. ^34
 
 
+*[[C1-Lesen-T4-101-Text#^3|^]]* Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]. ^3
+
+
 ###### Professor Rohner …
 b) [[lobt]] den [[vielfältigen]] [[Einsatz]] dieser [[Baumart]].  
 Erläutern Sie mögliche [[Gefahren]] durch den [[Einsatz]] von KI am Arbeitsplatz.  

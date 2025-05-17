@@ -1,1 +1,1 @@
-, [[Nominallohn]]
+, [[Nominallohn]], [[Lohnniveau]]

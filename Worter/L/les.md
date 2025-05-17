@@ -1,1 +1,1 @@
-, [[vorlesen]], [[auslesen]]
+, [[vorlesen]], [[auslesen]], [[Lesenswert]], [[Leser]]

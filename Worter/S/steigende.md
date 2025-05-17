@@ -4,6 +4,9 @@ nicht [[fallende]]
 ---
 Das richtige „Bildgefühl" ist auch bei Ikea der Grund für die [[steigende]] [[Nachfrage]].
 
+*[[C1-Hoehen-T1-200-Text#^9|^]]* Die seit Jahrzehnten zu [[beobachtenden]] [[steigenden]] Temperaturen haben [[dazu]] geführt, dass zahlreiche Pflanzen und Tiere zu den [[jeweilig]]en [[Polen]] der Erde [[wandern]] oder sich in [[tiefere]] [[Gewässer]] [[zurückziehen]]. ^9
+
+
 Im Radius des **Frost Towers** [[erleiden]] Gegner pro Sekunde [[steigenden]] **Schaden**.
 
 Die Episode beginnt damit, dass man das steigende Leuchtgeschoss sehen kann, dass Aang [[versehentlich]] in der vorherigen Episode in die Luft [[gestartet]] hat

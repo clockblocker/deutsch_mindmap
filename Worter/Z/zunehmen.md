@@ -6,6 +6,9 @@
 *[[Sprechen-T1#^4|^]]* Heute wird kontrovers darüber diskutiert, wie Städte mit dem [[zunehmenden]] [[Verkehrsaufkommen]] umgehen sollen, insbesondere im [[Hinblick]] auf Umwelt- und Lebensqualitätsfragen. ^4
 
 
+*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
+
+
 *[[C1-Lesen-T2-100-Text#^14|^]]* [[zuwenden|Wendet]] man sich der heutigen Sprechweise der Jugendlichen zu, so [[auffallen|fällt]] auf, dass die [[Anzahl]] der Wörter aus dem Englischen, Arabischen und Türkischen immer weiter [[zunimmt]], dass Präpositionen und Artikel weggelassen werden und [[Bedeutungsverschiebungen]] (8) [[gang und gäbe]] sind. ^14
 
 

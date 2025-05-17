@@ -3,6 +3,9 @@
 ---
 Er [[lehrt]] mich Deutsch sprechen.
 
+*[[C1-Hoehen-T1-200-Text#^14|^]]* Eine spannende und [[lehrreiche]] Lektüre, die ich [[wärmstens]] [[empfehlen]] kann. ^14
+
+
 ---
 = [[unterrichten]], [[dozieren]], [[beibringen]], [[ausbilden]], 
 ≈ [[ausbilden]], [[in­struieren]], [[erklären]]

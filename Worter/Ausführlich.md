@@ -4,6 +4,9 @@
 nicht [[kurz]]
 
 ---
+*[[C1-Hoehen-T1-100-Text#^3|^]]* Es [[beschreibt]] [[ausführlich]], wie sich in den letzten Jahrzehnten die [[Bevölkerungsstruktur]] in diesem [[Stadtteil]] [[geändert]] hat. ^3
+
+
 Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
 
 ---
@@ -28,4 +31,4 @@ Neuter: [[ausführliches]], [[ausführlicheres]], [[ausführlichstes]]
 Plural: [[ausführlichen]], [[ausführlicheren]], [[ausführlichsten]]  
 
 [[Ausführlichkeit]], [[ausführen]], [[Ausführung]]
-🧐 [[ausführen]] | 🔵 der [[Ausführliche]], [[Ausführlich]]
+🧐 [[ausführen]] | 🔵 der [[Ausführliche]], [[Ausführlich]], [[komplett]]

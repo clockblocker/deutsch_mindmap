@@ -1,9 +1,10 @@
-📋 [[übernehmen]] + Akk, [ˈyːbɐˌneːmən]
-[[übernahm|übernahm]]  
-haben [[übernommen]]
+🤝 [[übernehmen]], [ˈyːbɐˌneːmən](https://youglish.com/pronounce/übernehmen/german) → [[übernahm]] → haben [[übernommen]]
 
 ---
 Weniger nutzen wir Präfixe, die nicht einheimisch, sondern aus anderen Sprachen [[übernommen]] sind: Vor allem aus klassischen Sprachen haben wir Präfixe [[entlehnt]] wie  [[re]] in _reaktivieren, rekonstruieren_ oder [[de]] mit den Varianten _des-_ und _dis-_ in [[demaskieren]], [[desillusionieren]], disqualifizieren_. 
+
+*[[C1-Lesen-T4-101-Text#^5|^]]* Zudem können Roboter auch viel [[gefährlichere]] Missionen [[übernehmen]], auf die wir Astronautinnen und Astronauten aus Sicherheitsgründen niemals-- schicken würden. ^5
+
 
 *[[Lektionen/Bekker/verben/2#^6|^]]* Jetzt hat eine [[Schulklasse]] eine [[Patenschaft]] für diese Bäume [[übernommen]]. ^6
 
@@ -18,28 +19,44 @@ Weniger nutzen wir Präfixe, die nicht einheimisch, sondern aus anderen Sprachen
 	- [x] [[Wahlhelfer]] / Wahlhelferin
 
 ---
-Synonyme: [[überkommen]], [[auf sich nehmen]], [[annehmen]], [[adopieren]], [[erwerben]]
-Antonyme: [[abgeben]], [[ausschlagen]], [[loslassen]], [[ablehnen 1]]
+= [[akzeptieren]], [[annehmen]], [[akquirieren]]
+≈ [[ergreifen]], [[anpacken]], [[verantworten]], [[leisten]]
+≠ [[ablehnen]], [[verweigern]], [[zurückweisen]]
 
 ---
-Übersetzung: to take over, to assume
+to take over, to assume  
+принимать, брать на себя
 
 ---
-Morpheme: [[Worter/Ü/über]][[nehm]][[en]]
- #Verb  #Trennbar
- 
+[[Übernahme]], [[Übernehmer]], [[übernehmbar]], [[übernehmend]]
+
 ---
+[[über]]|[[nehm]]|[[en]]
+[[über]] + [[nehmen]]
 
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[nehme über]] | [[übernahm]] | - | [[nehme über]] | [[übernähme]] |
-| Du | [[nimmst über]] | [[übernahmst]] | [[nimm über]] | [[nehmest über]] | [[übernähmest]] |
-| Er/sie/es | [[nimmt über]] | [[übernahm]] | - | [[nehme über]] | [[übernähme]] |
-| Wir | [[nehmen über]] | [[übernahmen]] | - | [[nehmen über]] | [[übernähmen]] |
-| Ihr | [[nehmt über]] | [[übernahmt]] | [[nehmt über]] | [[nehmet über]] | [[übernähmet]] |
-| Sie | [[nehmen über]] | [[übernahmen]] | [[nehmen Sie über]] | [[nehmen über]] | [[übernähmen]] |
+---
+###### [[übernehmen]] jN
+- Was [[übernimmst]] du?
+- Die Verantwortung.
 
-Partizip I: [[übernehmend]], Partizip II: [[übernommen]]
+- Was [[übernehmen]] wir?
+- Die Kosten.
 
-[[übernehmen]] - [[Worter/Ü/über]] = [[nehmen]], [[ablehnen]], [[Deutschland]], [[vertreten]], [[auffordern]], [[entlehnen]], [[ausleihen]], [[erben]], [[erobern]]
+- Warum [[hat]] er die Aufgabe [[übernommen]]?
+- Weil er sich zuständig fühlte.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[übernehm]] / [[übernehme]], [[übernahm]], [[übernehme]], [[übernähme]], -
+du, [[übernimmst]], [[übernahmst]], [[übernehmest]], [[übernähmest]], [[übernimm]] / [[übernehme]]
+er, [[übernimmt]], [[übernahm]], [[übernehme]], [[übernähme]], -
+wir, [[übernehmen]], [[übernahmen]], [[übernehmen]], [[übernähmen]], [[übernehmen]]
+ihr, [[übernehmt]], [[übernahmt]], [[übernehmet]], [[übernähmet]], [[übernehmt]]
+sie, [[übernehmen]], [[übernahmen]], [[übernehmen]], [[übernähmen]], [[übernehmen]]
+
+*Zu + Inf*: zu [[übernehmen]], *P2*: [[übernommen]]
+Adjektive: [[übernehmend]], [[übernehmender]], [[übernehmendst]]
+
+---
+[[übernehmender]], [[übernehmendes]], [[übernehmende]], [[übernehmenden]], [[übernehmendem]], [[übernehmenderer]], [[übernehmenderes]], [[übernehmendere]], [[übernehmenderen]], [[übernehmenderem]], [[übernehmendster]], [[übernehmendstes]], [[übernehmendste]], [[übernehmendsten]], [[übernehmendstem]]

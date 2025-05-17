@@ -5,6 +5,9 @@
 *den Wilhelm und den Ludewig,*  
 *den Kaspar auch, der [[wehrte]] sich.*  
 
+*[[C1-Hoehen-T1-100-Text#^5|^]]* Eva Meisner, Hausbesitzerin im Ostend, möchte an dieser [[Entwicklung]] [[teilhaben]] und mit ihren Wohnungen einen [[höchstmöglichen]] [[Gewinn]] [[erzielen]], wie so viele Mieter [[wehren]]. ^5
+
+
 280. Wenn Sie sich in Deutschland gegen einen falschen [[Steuerbescheid]] [[wehren]] wollen, müssen Sie … (93%)
 	- [ ] nichts machen.
 	- [ ] den [[Bescheid]] [[wegwerfen]].

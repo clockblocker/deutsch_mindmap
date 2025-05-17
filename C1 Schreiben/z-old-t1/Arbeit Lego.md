@@ -20,7 +20,7 @@
 - **Teamgeist** & **Kollaboration** werden gestärkt
 
 ### ❌ Homeoffice ungeeignet für bestimmte Berufsgruppen
-- z. B. **Pflegekräfte**, **Erzieher*innen**, **Einzelhandel**
+- z. B. **Pflegekräfte**, **Erzieher:innen**, **Einzelhandel**
 - Tätigkeiten mit **physischer Präsenzpflicht**
 
 ---

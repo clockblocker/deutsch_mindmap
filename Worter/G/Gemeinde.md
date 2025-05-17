@@ -4,6 +4,8 @@ die [[Gemeinden]]
 ---
 [[Ordnungsamt]] der [[Gemeinde]]
 
+*[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinden]], wie das Wohnungsproblem [[gelöst]] werden kann. 
+
 *[[3 Sollte das Internet stärker reguliert werden?#^2|^]]* _Dazu zählen neben dem_ [[Finanzwesen]] _auch Webseiten von_ [[Gemeinden]], _Firmen und alles, bei dem es um An- und Verkauf von_ [[Worter/W/Waren]] _und deren Bezahlung geht, wie z. B. eBay._ ^2
 
 

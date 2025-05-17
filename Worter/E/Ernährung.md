@@ -1,1 +1,1 @@
-, [[Landwirtschaft]], [[Diät]], [[Futtersuche]]
+, [[Landwirtschaft]], [[Diät]], [[Futtersuche]], [[Nahrung]], [[Essensversorgung]]

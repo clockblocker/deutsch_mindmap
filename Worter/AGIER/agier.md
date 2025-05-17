@@ -1,1 +1,1 @@
-, [[agieren]]
+, [[agieren]], [[reagieren]]

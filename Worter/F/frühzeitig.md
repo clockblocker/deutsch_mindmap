@@ -1,1 +1,1 @@
-, [[früh]], [[Frühjahrsmantel]], [[früher]], [[terminlich]]
+, [[früh]], [[Frühjahrsmantel]], [[früher]], [[terminlich]], [[zeitlich]]

@@ -1,2 +1,2 @@
 
-, [[Immobilienmakler]], [[Bürofläche]]
+, [[Immobilienmakler]], [[Bürofläche]], [[Immobilienpreis]], [[Eigentumswohnung]]

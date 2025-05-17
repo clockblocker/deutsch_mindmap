@@ -1,2 +1,3 @@
 --> [[⛪ Ingredient-Plazt]] <---
 
+, [[Erzählstruktur]], [[Vernichtung]]

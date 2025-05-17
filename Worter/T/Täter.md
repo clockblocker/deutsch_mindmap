@@ -1,1 +1,1 @@
-, [[Opfer]], [[Polizist]], [[Tatzeit]], [[Tat]]
+, [[Opfer]], [[Polizist]], [[Tatzeit]], [[Tat]], [[Betroffene]]

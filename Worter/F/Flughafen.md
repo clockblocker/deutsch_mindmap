@@ -1,1 +1,1 @@
-, [[Flugzeug]]
+, [[Flugzeug]], [[Flug]]

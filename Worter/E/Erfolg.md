@@ -35,4 +35,4 @@ Dative: dem [[Erfolg]], den [[Erfolgen]]
 ---
 [[erfolgen]], [[erfolgreich]], [[erfolglos]], [[erfolgsorientiert]], [[verbuchen]], [[gelingen]], [[gutgehen]], [[gelungen]], [[Niederlage]], [[Hot]]
 , [[fehlentwicklung]]
-, [[Versuch]], [[Karriere]], [[Erfolgsfaktor]], [[Großtat]], [[Aufgabenerfüllung]], [[Fehlgriff]], [[Bildungserfolg]]
+, [[Versuch]], [[Karriere]], [[Erfolgsfaktor]], [[Großtat]], [[Aufgabenerfüllung]], [[Fehlgriff]], [[Bildungserfolg]], [[erbringen]]

@@ -46,4 +46,4 @@ Tags:
 Morphems:
 [[arm]]
 
-, [[armer]], [[armen]], [[Unterarm]], [[umarmen]], [[Umarmung]], [[Armut]], [[Reiche]], [[gutbetucht]]
+, [[armer]], [[armen]], [[Unterarm]], [[umarmen]], [[Umarmung]], [[Armut]], [[Reiche]], [[gutbetucht]], [[einkommensschwach]]

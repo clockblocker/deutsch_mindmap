@@ -55,4 +55,4 @@ sie, [[erkundigen]], [[erkundigten]], [[erkundigen]], [[erkundigten]], [[erkundi
 Adjektive: [[erkundigend]], [[erkundigender]], [[erkundigendst]]
 
 ---
-[[erkundigender]], [[erkundigendes]], [[erkundigende]], [[erkundigenden]], [[erkundigendem]], [[erkundigenderer]], [[erkundigenderes]], [[erkundigendere]], [[erkundigenderen]], [[erkundigenderem]], [[erkundigendster]], [[erkundigendstes]], [[erkundigendste]], [[erkundigendsten]], [[erkundigendstem]]
+[[erkundigender]], [[erkundigendes]], [[erkundigende]], [[erkundigenden]], [[erkundigendem]], [[erkundigenderer]], [[erkundigenderes]], [[erkundigendere]], [[erkundigenderen]], [[erkundigenderem]], [[erkundigendster]], [[erkundigendstes]], [[erkundigendste]], [[erkundigendsten]], [[erkundigendstem]], [[nachfragen]]

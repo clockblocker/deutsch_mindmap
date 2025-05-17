@@ -1,2 +1,2 @@
 ---> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
-, [[Erhöhung]]
+, [[Erhöhung]], [[Mieterhöhung]]

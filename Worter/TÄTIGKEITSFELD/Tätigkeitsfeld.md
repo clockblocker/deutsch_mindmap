@@ -1,1 +1,1 @@
-, [[Berufsgruppe]], [[Berufsfeld]], [[Aufgabenbereich]]
+, [[Berufsgruppe]], [[Berufsfeld]], [[Aufgabenbereich]], [[Kerngeschäft]]

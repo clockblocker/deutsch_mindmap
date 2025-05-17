@@ -7,6 +7,12 @@ haben [[erzielt]]
 ---
 Das bisher höchste Ergebnis erzielte ein Gemälde von Claude Monet mit einem Preis von 36,5 Millionen Pfund
 
+*[[C1-Hoehen-T1-100-Text#^5|^]]* Eva Meisner, Hausbesitzerin im Ostend, möchte an dieser [[Entwicklung]] [[teilhaben]] und mit ihren Wohnungen einen [[höchstmöglichen]] [[Gewinn]] [[erzielen]], wie so viele Mieter [[wehren]]. ^5
+
+
+*[[C1-Lesen-T4-101-Text#^4|^]]* Würde man dieses Geld bei [[rein]] robotischen Missionen [[verwenden]], könnte man ungleich mehr wissenschaftliche [[Ergebnis]]se [[erzielen]] als bei bemannten [[Raumflügen]]. ^4
+
+
 *[[C1-Lesen-T4-100-Text#^3|^]]* Moderne Kunst [[erzielt]] trotz [[allgemeiner]] [[Geringschätzung]] enorme Preise. ^3
 
 

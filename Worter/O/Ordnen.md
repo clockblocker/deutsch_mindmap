@@ -55,4 +55,4 @@ sie, [[ordnen]], [[ordneten]], [[ordnen]], [[ordneten]], [[ordnen]]
 Adjektive: [[ordnend]], [[ordnender]], [[ordnendst]]
 
 ---
-[[ordnender]], [[ordnendes]], [[ordnende]], [[ordnenden]], [[ordnendem]], [[ordnenderer]], [[ordnenderes]], [[ordnendere]], [[ordnenderen]], [[ordnenderem]], [[ordnendster]], [[ordnendstes]], [[ordnendste]], [[ordnendsten]], [[ordnendstem]], [[Ordnen]], [[überordnen]]
+[[ordnender]], [[ordnendes]], [[ordnende]], [[ordnenden]], [[ordnendem]], [[ordnenderer]], [[ordnenderes]], [[ordnendere]], [[ordnenderen]], [[ordnenderem]], [[ordnendster]], [[ordnendstes]], [[ordnendste]], [[ordnendsten]], [[ordnendstem]], [[Ordnen]], [[überordnen]], [[untergeordnet]]

@@ -1,1 +1,1 @@
-, [[Hauptbereich]]
+, [[Hauptbereich]], [[Kerngeschäft]]

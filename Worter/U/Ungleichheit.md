@@ -23,4 +23,4 @@ G: der [[Ungleichheit]], der [[Ungleichheiten]]
 D: der [[Ungleichheit]], den [[Ungleichheiten]]  
 
 ---
-[[ungleich]], [[ungleichmäßig]], [[angleichen]], [[vergleichen]], [[Bildungschance]]
+[[ungleich]], [[ungleichmäßig]], [[angleichen]], [[vergleichen]], [[Bildungschance]], [[Sozialdumping]]

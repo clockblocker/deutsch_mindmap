@@ -1,3 +1,3 @@
 , [[abbestellen]]
 , [[Arbeitsauftrag]]
-, [[Auftrag]], [[anweisen]], [[Auftraggeber]]
+, [[Auftrag]], [[anweisen]], [[Auftraggeber]], [[auftraggeben]]

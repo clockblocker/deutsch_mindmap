@@ -1,1 +1,1 @@
-, [[Trieb]], [[dringen]]
+, [[Trieb]], [[dringen]], [[drängen]]

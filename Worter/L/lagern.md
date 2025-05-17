@@ -49,4 +49,4 @@ sie, [[lagern]], [[lagerten]], [[lagern]], [[lagerten]], [[lagern]]
 Adjektive: [[lagernd]], [[lagernder]], [[lagerndst]]
 
 ---
-[[lagernder]], [[lagerndes]], [[lagernde]], [[lagernden]], [[lagerndem]], [[lagernderer]], [[lagernderes]], [[lagerndere]], [[lagernderen]], [[lagernderem]], [[lagerndster]], [[lagerndstes]], [[lagerndste]], [[lagerndsten]], [[lagerndstem]], [[abstellen]], [[ablagern]], [[verwahren]]
+[[lagernder]], [[lagerndes]], [[lagernde]], [[lagernden]], [[lagerndem]], [[lagernderer]], [[lagernderes]], [[lagerndere]], [[lagernderen]], [[lagernderem]], [[lagerndster]], [[lagerndstes]], [[lagerndste]], [[lagerndsten]], [[lagerndstem]], [[abstellen]], [[ablagern]], [[verwahren]], [[verlagern]]

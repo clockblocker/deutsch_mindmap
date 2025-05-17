@@ -1,2 +1,2 @@
 ---> ⚠️ [[Grad-Risiko]] <---
-, [[gefährlich]], [[risikoreich]]
+, [[gefährlich]], [[risikoreich]], [[bedrohen]], [[existenzbedrohend]]

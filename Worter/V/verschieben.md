@@ -57,4 +57,4 @@ sie, [[verschieben]], [[verschoben]], [[verschieben]], [[verschöben]], [[versch
 Adjektive: [[verschiebend]], [[verschiebender]], [[verschiebendst]]
 
 ---
-[[verschiebender]], [[verschiebendes]], [[verschiebende]], [[verschiebenden]], [[verschiebendem]], [[verschiebenderer]], [[verschiebenderes]], [[verschiebendere]], [[verschiebenderen]], [[verschiebenderem]], [[verschiebendster]], [[verschiebendstes]], [[verschiebendste]], [[verschiebendsten]], [[verschiebendstem]]
+[[verschiebender]], [[verschiebendes]], [[verschiebende]], [[verschiebenden]], [[verschiebendem]], [[verschiebenderer]], [[verschiebenderes]], [[verschiebendere]], [[verschiebenderen]], [[verschiebenderem]], [[verschiebendster]], [[verschiebendstes]], [[verschiebendste]], [[verschiebendsten]], [[verschiebendstem]], [[verlagern]]

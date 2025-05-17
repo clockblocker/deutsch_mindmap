@@ -29,4 +29,4 @@ PI: [[anflehend]], PII: [[angefleht]], Zu+inf: [[anzuflehen]]
 [[anflehen]] - [[an]] = [[flehen]] / to implore, to beseech
 
 ---
-[[Flehen]], [[Bitte]], [[Beschwörung]], [[flehentlich]], [[Flehentlichkeit]]
+[[Flehen]], [[Bitte]], [[Beschwörung]], [[flehentlich]], [[Flehentlichkeit]], [[appellieren]]

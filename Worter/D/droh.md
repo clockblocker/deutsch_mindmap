@@ -1,1 +1,1 @@
-, [[drohen]], [[Bedrohung]]
+, [[drohen]], [[Bedrohung]], [[bedrohen]], [[existenzbedrohend]]

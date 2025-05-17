@@ -1,1 +1,1 @@
-[[nötig]], [[Versicherungspflicht]], [[müssen]], [[unabdingbar]]
+[[nötig]], [[Versicherungspflicht]], [[müssen]], [[unabdingbar]], [[unumgänglich]]

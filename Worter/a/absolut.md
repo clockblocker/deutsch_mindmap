@@ -46,4 +46,4 @@ Tags:
 Morphems:
 [[absolut]][[er]]
 
-[[überhaupt]], [[völlig]]
+[[überhaupt]], [[völlig]], [[durchaus]]

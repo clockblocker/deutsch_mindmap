@@ -26,4 +26,4 @@ D: der [[Feier]], den [[Feiern]]
 
 ---
 [[feiern]], [[feierlich]], [[Feiertag]], [[Feierabend]], [[Feierlichkeit]]
-, [[Eröffnungsfeier]]
+, [[Eröffnungsfeier]], [[Straßenfest]]

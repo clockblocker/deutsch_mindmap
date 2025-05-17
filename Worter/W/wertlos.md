@@ -27,4 +27,4 @@ worthless, valueless
 Adjektive: [[wertlos]], [[wertloser]], [[wertlosest]]
 
 ---
-[[wertloser]], [[wertloses]], [[wertlose]], [[wertlosen]], [[wertlosem]], [[wertloserer]], [[wertloseres]], [[wertlosere]], [[wertloseren]], [[wertloserem]], [[wertlosester]], [[wertlosestes]], [[wertloseste]], [[wertlosesten]], [[wertlosestem]], [[Geldwert]], [[Geldwert]]
+[[wertloser]], [[wertloses]], [[wertlose]], [[wertlosen]], [[wertlosem]], [[wertloserer]], [[wertloseres]], [[wertlosere]], [[wertloseren]], [[wertloserem]], [[wertlosester]], [[wertlosestes]], [[wertloseste]], [[wertlosesten]], [[wertlosestem]], [[Geldwert]], [[Geldwert]], [[Lesenswert]]

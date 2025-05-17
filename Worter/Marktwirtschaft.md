@@ -2,6 +2,8 @@
 die [[Marktwirtschaften]]
 
 ---
+→ In Buch 1 wird [[zwar]] [[dargestellt]], dass die Mieten steigen, aber *keine* [[Erklärung]] zur [[Marktwirtschaft]] gegeben.
+
 50. Die [[Wirtschaftsform]] in Deutschland nennt man … (80%)
 	- [ ] freie Zentralwirtschaft.
 	- [x] soziale [[Marktwirtschaft]].
@@ -29,3 +31,5 @@ D: der [[Marktwirtschaft]], den [[Marktwirtschaften]]
 
 ---
 [[marktwirtschaftlich]], [[wirtschaften]], [[Marktwirtschaftler]], [[Markt]], [[Wirtschaftsform]], [[berücksichtigen]], [[Wettbewerbsgesellschaft]], [[Angebot]]
+
+#Neuter , [[Marktgesetz]]

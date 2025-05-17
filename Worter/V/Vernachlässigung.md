@@ -1,1 +1,1 @@
-, [[Kindererziehung]], [[Erzie­hung]], [[Erziehung]], [[Behandlung]], [[Einhaltung]], [[Untersuchung]], [[Sanierung]], [[Anwendung]], [[Patenschaft]], [[Nachlässigkeit]], [[Pflege]], [[Bearbeitung]], [[Handhabung]], [[Hinblick]], [[Ausarbeitung]], [[Vorbereitung]], [[Ausübung]]
+, [[Kindererziehung]], [[Erzie­hung]], [[Erziehung]], [[Behandlung]], [[Einhaltung]], [[Untersuchung]], [[Sanierung]], [[Anwendung]], [[Patenschaft]], [[Nachlässigkeit]], [[Pflege]], [[Bearbeitung]], [[Handhabung]], [[Hinblick]], [[Ausarbeitung]], [[Vorbereitung]], [[Ausübung]], [[Erkundung]]

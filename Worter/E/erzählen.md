@@ -7,6 +7,9 @@
 *[[Die halbe Miete sein.md#^2|^]]* Anja und Fatima arbeiten schon lange zusammen. [[Mittlerweile]] sind sie sogar Freundinnen und [[erzählen]] sich alles. ^2
 
 
+*[[C1-Hoehen-T1-100-Text#^17|^]]* Mehrere Familien [[erzählen]] ihre Geschichte, [[berichten]] über ihre [[Erfahrung]]en. ^17
+
+
 „Und die Weihnachtsfeier?“, möchte Peter wissen. „Wir gehen zu einem Konzert. Sie hat Karten organisiert, und das war ganz schön schwer. Und sie [[freut]] sich so sehr darauf!“, [[erzählt]] Leo.
 
 *[[17 zu inf#^16|^]]* Ich [[überredete]] meine Frau, den Mantel ein wenig zu [[bügeln]], während ich mit Herrn Kolhaas ein Glas [[Sherry]] trank, und er mir [[von]] einigen Klavieren [[erzählte]], die er [[gestimmt]] hatte.  ^16
@@ -37,4 +40,4 @@ Partizip: [[erzählend]],  [[erzählt]], [[zuerzählen]]
 ---
 [[Erzählung]], [[Erzähler]], [[Erzählerin]], [[Erzählkunst]], [[Erzählstil]], [[Kurzerzählung]]
 
-[[sagen]], [[aussagen]], [[s1 e1]]
+[[sagen]], [[aussagen]], [[s1 e1]], [[Erzählstruktur]]

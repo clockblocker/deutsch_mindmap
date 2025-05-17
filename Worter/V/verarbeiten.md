@@ -2,7 +2,9 @@
 ⚙️ [[verarbeiten]], [fɛɐ̯ˈʔaʁbaɪ̯tn̩] | [[verarbeitete]], haben [[verarbeitet]]
 
 ---
-*[[Lektionen/Bekker/verben/2#^18|^]]* Es gibt viele Architekten, die diese Idee in ihren [[Entwürfen]] [[verarbeiten]]. ^18
+*[[Lektionen/Bekker/verben/2#^18|^]]* Es gibt viele Architekten, die diese Idee in ihren [[Entwürfen]] [[verarbeiten]].
+
+*[[C1-Lesen-T4-101-Text#^11|^]]* Menschen können im Gegensatz zu Robotern die Vielzahl von [[unterschiedlichen]] Informationen zwar langsamer, dafür aber oft auch besser, [[verarbeiten]].
 
 ---
 = [[bearbeiten]], [[verarbeiten]], [[aufbereiten]]

@@ -3,6 +3,8 @@
 🤫 [[vorenthalten]], [foːɐ̯ˈʔɛnthaltn̩](https://youglish.com/pronounce/vorenthalten/german) → [[enthielt vor]] → [[vorenthalten]]
 
 ---
+*[[C1-Lesen-T4-102-Text#^16|^]]* Das bedeutet, dass den Angestellten der [[ausgelagerten]] [[Abteilung]]en möglicherweise zu wenig bezahlt wird und ihnen eventuell [[zustehende]] [[Zulage]]n, [[Zuschläge]] und [[Sonderzahlung]]en [[vorenthalten]] werden.
+
 *„Die Nutzung wird den Mitarbeitenden de facto [[vorenthalten]].“*
 
 ---

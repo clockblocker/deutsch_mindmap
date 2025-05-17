@@ -33,4 +33,4 @@ PI: [[versorgend]], PII: [[versorgt]], Zu+inf: [[zuversorgen]]
 [[versorgen]] - [[ver]] = [[sorgen]] / to supply, to provide, to take care of
 
 ---
-[[Versorgung]], [[Versorger]], [[Versorgerin]], [[versorgt]], [[Grundversorgung]], [[Wasserversorgung]], [[Internetversorgung]], [[Energieversorgung]]
+[[Versorgung]], [[Versorger]], [[Versorgerin]], [[versorgt]], [[Grundversorgung]], [[Wasserversorgung]], [[Internetversorgung]], [[Energieversorgung]], [[Essensversorgung]]

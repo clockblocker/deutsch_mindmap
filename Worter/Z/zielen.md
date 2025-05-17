@@ -3,6 +3,9 @@
 haben [[gezielt]]
 
 ---
+*[[C1-Lesen-T4-101-Text#^23|^]]* Roboter können aber auch [[gezielte]] Vorarbeit [[leisten]], bevor eine bemannte Mission zum Mars oder zum Mond startet. ^23
+
+
 [[gezielte]] [[Sonderregelungen]]
 
 

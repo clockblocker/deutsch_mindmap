@@ -3,13 +3,14 @@
 #### 🟢 [[hoch]] 
 1) [[unzählbar]] *(uncountable)*
 2) [[viel]] *(a lot)*
-3) [[zahlreich]] *(numerous)*
-4) [[in großem Umfang]] *(on a large scale)*
-5) [[Unmenge]] *(huge amount; often emotional)*
-6) [[Fülle]] *(plenty / abundance)*
-7) [[Großteil]] *(major part)*
-8) [[Mehrheit]] *(majority)*  - [[Minderheit]] *(minority)*
-9) [[massenhaft]] *(massive, in large numbers  )*
+3) [[weitaus]] *(by far, much)*  
+4) [[zahlreich]] *(numerous)*
+5) [[in großem Umfang]] *(on a large scale)*
+6) [[Unmenge]] *(huge amount; often emotional)*
+7) [[Fülle]] *(plenty / abundance)*
+8) [[Großteil]] *(major part)*
+9) [[Mehrheit]] *(majority)*  - [[Minderheit]] *(minority)*
+10) [[massenhaft]] *(massive, in large numbers  )*
 #### 🟡 [[ausreichend]] 
 1) [[Quantität]]
 2) [[Mengenangabe]] *(quantity, amount)*
@@ -51,3 +52,4 @@
 11) [[Großteil]] *(major part)*  
 12) [[Unmenge]] *(a huge amount)*  
 13) [[Einzelheit]] *(individual item / detail)*
+, [[weitaus]]

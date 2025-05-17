@@ -1,1 +1,1 @@
-, [[Bächlein]], [[Fluss]], [[Strom]]
+, [[Bächlein]], [[Fluss]], [[Strom]], [[Gewässer]]

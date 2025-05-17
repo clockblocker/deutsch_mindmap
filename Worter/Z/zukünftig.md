@@ -29,4 +29,4 @@ future, prospective
 Adjektive: [[zukünftig]], [[zukünftiger]], [[zukünftigst]]
 
 ---
-[[zukünftiger]], [[zukünftiges]], [[zukünftige]], [[zukünftigen]], [[zukünftigem]], [[zukünftigerer]], [[zukünftigeres]], [[zukünftigere]], [[zukünftigeren]], [[zukünftigerem]], [[zukünftigster]], [[zukünftigstes]], [[zukünftigste]], [[zukünftigsten]], [[zukünftigstem]], [[gegenwärtig]]
+[[zukünftiger]], [[zukünftiges]], [[zukünftige]], [[zukünftigen]], [[zukünftigem]], [[zukünftigerer]], [[zukünftigeres]], [[zukünftigere]], [[zukünftigeren]], [[zukünftigerem]], [[zukünftigster]], [[zukünftigstes]], [[zukünftigste]], [[zukünftigsten]], [[zukünftigstem]], [[gegenwärtig]], [[einstig]]

@@ -37,4 +37,4 @@ P: [[aufmerksamen]], [[aufmerksameren]], [[aufmerksamsten]]
 
 [[zerstreut]], [[neugierig]], [[verständnislos]], [[bewusst]]
 , [[vorsichtig]]
-, [[ablenkbar]]
+, [[ablenkbar]], [[rücksichtslos]]

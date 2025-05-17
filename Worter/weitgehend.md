@@ -26,4 +26,4 @@ largely, extensively
 Adjektive: [[weitgehend]], [[weitgehender]], [[weitgehendst]]
 
 ---
-[[weitgehender]], [[weitgehendes]], [[weitgehende]], [[weitgehenden]], [[weitgehendem]], [[weitgehenderer]], [[weitgehenderes]], [[weitgehendere]], [[weitgehenderen]], [[weitgehenderem]], [[weitgehendster]], [[weitgehendstes]], [[weitgehendste]], [[weitgehendsten]], [[weitgehendstem]]
+[[weitgehender]], [[weitgehendes]], [[weitgehende]], [[weitgehenden]], [[weitgehendem]], [[weitgehenderer]], [[weitgehenderes]], [[weitgehendere]], [[weitgehenderen]], [[weitgehenderem]], [[weitgehendster]], [[weitgehendstes]], [[weitgehendste]], [[weitgehendsten]], [[weitgehendstem]], [[weitaus]]

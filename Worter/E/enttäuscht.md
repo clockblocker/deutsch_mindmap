@@ -4,6 +4,8 @@ nicht [[zufrieden]]
 ---
 Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. [[14 perfekt#^16|(q)]]
 
+*[[C1-Hoehen-T1-200-Text#^20|^]]* Wer hier auf ein Buch hofft, das den Wald [[verklärt]] oder romantisiert, wird [[enttäuscht]] sein
+
 b) [[enttäuschte]] viele [[Erwartung]]en.  
 
 Das Mädchen ist so [[enttäuscht]] wie ein Kind.

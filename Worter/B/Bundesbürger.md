@@ -1,1 +1,1 @@
-, [[Deutsche]]
+, [[Deutsche]], [[Thüringer]]

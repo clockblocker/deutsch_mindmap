@@ -59,4 +59,4 @@ sie, [[stellen ab]], [[stellten ab]], [[stellen ab]], [[stellten ab]], [[stellen
 Adjektive: [[abstellend]], [[abstellender]], [[abstellendst]]
 
 ---
-[[abstellender]], [[abstellendes]], [[abstellende]], [[abstellenden]], [[abstellendem]], [[abstellenderer]], [[abstellenderes]], [[abstellendere]], [[abstellenderen]], [[abstellenderem]], [[abstellendster]], [[abstellendstes]], [[abstellendste]], [[abstellendsten]], [[abstellendstem]], [[Parkberechtigung]]
+[[abstellender]], [[abstellendes]], [[abstellende]], [[abstellenden]], [[abstellendem]], [[abstellenderer]], [[abstellenderes]], [[abstellendere]], [[abstellenderen]], [[abstellenderem]], [[abstellendster]], [[abstellendstes]], [[abstellendste]], [[abstellendsten]], [[abstellendstem]], [[Parkberechtigung]], [[einschalten]]

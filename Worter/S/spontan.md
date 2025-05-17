@@ -28,4 +28,4 @@ spontaneous
 Adjektive: [[spontan]], [[spontaner]], [[spontansten]]
 
 ---
-[[spontaner]], [[spontanes]], [[spontane]], [[spontanen]], [[spontanem]], [[spontanerer]], [[spontaneres]], [[spontanere]], [[spontaneren]], [[spontanerem]], [[spontanstener]], [[spontanstenes]], [[spontanstene]], [[spontanstenen]], [[spontanstenem]]
+[[spontaner]], [[spontanes]], [[spontane]], [[spontanen]], [[spontanem]], [[spontanerer]], [[spontaneres]], [[spontanere]], [[spontaneren]], [[spontanerem]], [[spontanstener]], [[spontanstenes]], [[spontanstene]], [[spontanstenen]], [[spontanstenem]], [[unerwartet]]

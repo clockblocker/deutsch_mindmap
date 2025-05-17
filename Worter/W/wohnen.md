@@ -31,4 +31,4 @@ Morpheme: [[wohn]][[en]]
 | Sie | [[wohnen]] | [[wohnten]] | [[wohnen Sie]] | [[wohnen]] | [[wohnten]] |
 
 Partizip I: [[wohnend]], Partizip II: [[gewohnt]]
-, [[Wohnort]], [[einziehen]], [[beziehen]], [[s1 e1]], [[ungewöhnlich]], [[Wohnzimmer]], [[Studierendenwohnheim]]
+, [[Wohnort]], [[einziehen]], [[beziehen]], [[s1 e1]], [[ungewöhnlich]], [[Wohnzimmer]], [[Studierendenwohnheim]], [[Wohnraum]]

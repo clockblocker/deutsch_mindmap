@@ -5,6 +5,8 @@ haben [[abgehangen]]
 ---
 „Zugang zu Hochschulen darf nicht vom [[Einkommen]] [[abhängen]].“
 
+*[[C1-Lesen-T4-102-Text#^22|^]]* Außerdem bekommen die [[Fremdfirmen]] [[Einsicht]] in [[betrieblich]]e Interna und man macht sich [[abhängig]] von ihnen. ^22
+
 
 Weil ihre [[Ehre]] nicht davon [[abhing]], dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
 
@@ -16,7 +18,7 @@ Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen un
 
 
 ---
-Synonyme: [[beeinflussen]], [[bestimmen]], [[determinieren]], [[bedingen]]
+Synonyme: [[beeinflussen]], [[bestimmen]], [[determinieren]], [[bedingen]], [[selbst]], [[selbständig]], [[geschlechtsabhängig]], [[Abhängigkeit]], [[eigenständig]], [[Unabhängigkeit]]
 Antonyme: [[unabhängig sein]], [[selbstständig sein]]
 
 ---

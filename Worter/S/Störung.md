@@ -30,4 +30,4 @@ G: der [[Störung]], der [[Störungen]]
 D: der [[Störung]], den [[Störungen]]
 
 
-#Feminin , [[Systemabsturz]], [[Papierstau]]
+#Feminin , [[Systemabsturz]], [[Papierstau]], [[Funktionsweise]]

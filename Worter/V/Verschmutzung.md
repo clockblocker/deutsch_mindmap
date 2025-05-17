@@ -1,1 +1,1 @@
-, [[verschmutzen]], [[Luftverschmutzung]]
+, [[verschmutzen]], [[Luftverschmutzung]], [[Sterilisation]]

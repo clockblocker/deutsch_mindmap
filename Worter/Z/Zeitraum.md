@@ -32,4 +32,4 @@ G: des [[Zeitraums]], der [[Zeiträume]]
 D: dem [[Zeitraum]], den [[Zeiträumen]]
 
 
-#Maskulin , [[umfassen]], [[Jahrzehnt]]
+#Maskulin , [[umfassen]], [[Jahrzehnt]], [[zeitlich]], [[Zyklus]]

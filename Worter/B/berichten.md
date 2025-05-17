@@ -3,6 +3,9 @@
 ---
 Die Zeitungen [[berichten]] von einem [[Unfall]].
 
+*[[C1-Hoehen-T1-100-Text#^17|^]]* Mehrere Familien [[erzählen]] ihre Geschichte, [[berichten]] über ihre [[Erfahrung]]en. ^17
+
+
 ---
 = [[melden]], [[mitteilen]], [[informieren]]
 ≈ [[kommunizieren]], [[verkünden]], [[referieren]], [[vermelden]]
@@ -30,3 +33,4 @@ PI: [[berichtend]], PII: [[berichtet]], Zu+inf: [[zuberichten]]
 [[Bericht]], [[Berichterstatter]], [[Berichterstattung]], [[berichtswürdig]], [[Berichtsheft]]
 
 [[sagen]], [[erzählen]], [[Abschlussbericht]], [[anzeigen]], [[aussagen]], [[s1 e1]]
+, [[schildern]]

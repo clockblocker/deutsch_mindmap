@@ -3,6 +3,9 @@
 ---
 Dieses Hotel [[bietet]] [[ebenfalls]] einen Blick aufs Meer.
 
+*[[C1-Hoehen-T1-100-Text#^9|^]]* Das zweite Buch *Der Wandel der Städte* von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwacher]] [[Bevölkerungsgruppen]] aus ihren [[Stadtteilen]], da sie die Mieten nicht mehr [[bezahlen]] können. ^9
+
+
 *[[C1-Lesen-T1-000-Loesung#^7|^]]* „[[Früher]]“ bezieht sich [[ebenfalls]] auf eine vergangene Zeit. Die Bedrohung besteht [[weiterhin]]. ^7
 
 

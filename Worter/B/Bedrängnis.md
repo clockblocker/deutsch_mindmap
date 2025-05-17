@@ -33,3 +33,4 @@ D: der [[Bedrängnis]], den [[Bedrängnissen]]
 
 #Feminin 
 
+, [[drängen]]

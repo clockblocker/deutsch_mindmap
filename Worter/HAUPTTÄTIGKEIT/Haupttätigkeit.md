@@ -1,1 +1,1 @@
-, [[Hauptbeschäftigung]]
+, [[Hauptbeschäftigung]], [[Kerngeschäft]]

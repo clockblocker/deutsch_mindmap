@@ -59,4 +59,4 @@ Adjektive: [[pünktlich]], [[pünktlicher]], [[pünktlichst]]
 [[pünktlicher]], [[pünktliches]], [[pünktliche]], [[pünktlichen]], [[pünktlichem]], [[pünktlicherer]], [[pünktlicheres]], [[pünktlichere]], [[pünktlicheren]], [[pünktlicherem]], [[pünktlichster]], [[pünktlichstes]], [[pünktlichste]], [[pünktlichsten]], [[pünktlichstem]]
 
 [[aufpassen]]
-, [[terminlich]]
+, [[terminlich]], [[zeitlich]]

@@ -1,2 +1,2 @@
 
-, [[empfehlen]], [[Empfehlung]]
+, [[empfehlen]], [[Empfehlung]], [[Lesenswert]]

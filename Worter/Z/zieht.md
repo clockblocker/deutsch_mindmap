@@ -1,2 +1,2 @@
 [[ziehen]]
-, [[weiterziehen]]
+, [[weiterziehen]], [[zurückziehen]]

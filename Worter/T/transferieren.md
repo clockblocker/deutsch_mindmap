@@ -1,2 +1,2 @@
 , [[überweisen]], [[übermachen]], [[forttragen]], [[entlehnen]]
-, [[umsteigen]], [[weiterleiten]]
+, [[umsteigen]], [[weiterleiten]], [[übertragen]]

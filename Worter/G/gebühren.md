@@ -1,1 +1,1 @@
-, [[ziemen]]
+, [[ziemen]], [[zustehen]]

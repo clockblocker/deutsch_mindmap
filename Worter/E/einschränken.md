@@ -39,4 +39,4 @@ PI: [[einschränkend]], PII: [[eingeschränkt]], Zu+inf: [[einzuschränken]]
 ---
 [[Einschränkung]], [[beschränken]], [[Beschränkung]], [[schränken]], [[eingeschränkt]]
 [[beschränken]], [[begrenzen]], [[behindern]]
-, [[ausbauen]]
+, [[ausbauen]], [[eindämmen]]

@@ -2,3 +2,21 @@
 
 ---
 
+Sie hören einen Vortrag über den Einfluss der Farben auf den Menschen und die Gesellschaft.  
+Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 24 bis 30. Dazu haben Sie 90 Sekunden Zeit.  
+
+Sehr geehrte Damen und Herren, ich begrüße Sie zu meinem Vortrag!  
+Ich möchte Ihnen gerne einen Einblick in die Welt der Farben, deren Geschichte und Einfluss auf unsere Gesellschaft vermitteln. Bereits im Kindesalter entscheiden Farben darüber, ob uns etwas schmeckt, ob es uns gefällt oder ob wir etwas zurückschrecken. Schon unsere Vorfahren konnten sich dem **Einfluss der Farben nicht entziehen**, sie waren jedoch oft auch **praktisch fremdgesteuert**, denn hinter den Farben verbirgt sich ein **evolutionärer Code** (24), der über Leben und Tod entscheiden kann.  
+
+Beispielsweise signalisiert die Farbe Rot in der Natur, dass etwas reif oder süß ist oder auch, dass etwas giftig ist. Rot ist also eine starke Signalfarbe, vor allem in unseren Kulturen, die man auch mit **Aggression in Verbindung** bringt. Würden Sie das Kinderzimmer rot streichen? Wohl eher nicht. In **buddhistischen Tempeln** hingegen ist Rot die dominierende Farbe. Wer kennt sie nicht, die **tibetansichen Mönche**, die in ihren roten Gewändern in **rot gestrichenen Räumen** in tiefste Ruhe und Meditation versenken? Der Mensch assoziiert Farben also **abhängig von seiner Erfahrung und seiner Denkkultur** (25).  
+
+Hier sind wir eigentlich in der Illusion, alles mit Hilfe der Brechung des Lichts. Nun hat aber der Mensch die Möglichkeit, diese wunderschöne Illusion auch in sein Selbstbild zu holen. Also bemalt er schon seit jeher seinen Körper, um sich eine **individuelle Note zu geben oder um bestimmten Gruppen zu signalisieren** (26), der er angehört. Übrigens sind Grün und Rot die ältesten Farben der Welt. Grün entstand mit dem Auftreten erster Pflanzen und Rot später mit dem Auftreten von Früchten.  
+
+Mit der Farbe Rot wurden **über Jahrtausende hinweg Herrschaftsansprüche untermalt, bis es im 19. Jahrhundert zum Sinnbild sozialer Aufstände der Unterprivilegierten wurde** (27). Dieser Umschwung war auch den neuen Produktionsformen geschuldet: Der rote Farbstoff war nicht mehr länger einer langwierigen Gewinnung unterworfen, sondern er konnte nun für die breite Masse erschwinglich hergestellt werden. Wir alle kennen Rot in der Fahne der Arbeiterbewegung. Rot wurde zum politischen Kalkül: Um die Arbeiter für die eigene Partei zu begeistern, erscheint Rot von nun an auf vielen Fahnen verschiedenster – oft auch konträrer – Parteien.  
+Umso erstaunlicher ist es, dass zehn Prozent der Männer eine Rot-Grün-Blindheit haben, aber nicht einmal ein Prozent der Frauen, was sich vielleicht aus der Evolution heraus erklären lässt. **Frauen können nämlich auch mehr Farbnuancen wahrnehmen als Männer** (28), was möglicherweise darauf zurückzuführen ist, dass Frauen in Urzeiten für die Nahrungssuche, also das Sammeln von Beeren und Früchten, verantwortlich waren. Sie konnten schon von Weitem entscheiden, ob eine Pflanze oder deren Frucht zum Verzehr geeignet war, ohne sie erst probieren zu müssen.  
+
+Wenden wir uns nun einer anderen Farbe zu: dem Blau. Blau wurde erst vor ca. 9000 Jahren im heutigen Afghanistan entdeckt, als sogenanntes Lapislazuli. Zunächst von autoritären Königen und Königinnen für Schmuck vorbehalten, wechselte das blaue Gestein bald in den gewerblichen Bereich weltweiter Begehrlichkeiten – von Asien über Nordafrika bis hin zur Nordsee – und wurde dann auf Stoffe und Wände gemalt. **Die Lapislazulistraße ist übrigens der Vorläufer der heute so berühmten Seidenstraße und öffnete neue Wege zum beginnenden weltweiten Handel** (29).  
+
+Blau ist die Lieblingsfarbe der meisten Menschen auf der ganzen Welt, verbindet man doch diese Farbe mit dem unendlichen Himmel und dem weiten Meer; der Glanz dieses Farbtons ist, im wahrsten Sinne des Wortes. **Blau wird auch in der Werbebranche verwendet**, um Seriosität zu vermitteln. So werden beispielsweise Slogans oder sozialen Netzwerken **in Blau gehalten, um Vertrauen und Treue zu suggerieren** (30).  
+
+Ich bedanke mich für Ihre Aufmerksamkeit!

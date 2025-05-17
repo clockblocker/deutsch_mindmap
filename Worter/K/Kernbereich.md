@@ -1,1 +1,1 @@
-, [[Hauptbereich]], [[Brennpunkt]]
+, [[Hauptbereich]], [[Brennpunkt]], [[Kerngeschäft]]

@@ -1,7 +1,10 @@
 ❓ [[inwiefern]], [ɪnˈviːfɛɐ̯n](https://youglish.com/pronounce/inwiefern/german)
 
 ---
-- Argumentieren Sie, [[inwiefern]] das [[Streben]] nach [[Anerkennung]] online problematisch sein kann.
+*[[C1-Hoehen-T1-200-Text#^16|^]]* Die meisten [[Leser]] werden überrascht davon sein, [[inwieweit]] der Klimawandel schon heute in die Natur [[eingegriffen]] hat. ^16
+
+
+Argumentieren Sie, [[inwiefern]] das [[Streben]] nach [[Anerkennung]] online problematisch sein kann.
 
 ---
 = [[inwieweit]], [[in welchem Ausmaß]]

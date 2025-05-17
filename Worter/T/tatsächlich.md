@@ -1,13 +1,20 @@
-🤔 tatsächlich, [tatˈzɛçlɪç]
 ---> 🧩 [[Grad-Wahrheit]] <---
+
+🤔 tatsächlich, [tatˈzɛçlɪç]
 
 ---
 Ich habe [[tatsächlich]] den Job bekommen.
 
-*[[1. 606 Euro mehr Diät für Abgeordnete? 😱#^3|^]]* Das ist [[tatsächlich]] eine der ersten [[Entscheidungen]], die der neue Bundestag zu [[treffen]] hat. ^3
+*[[C1-Hoehen-T1-200-Text#^21|^]]* Dennoch [[liest]] es sich wie ein Roman und [[zeitweise]] hat man den [[Eindruck]] [[tatsächlich]] ein Wald zu sein.
+
+*[[1. 606 Euro mehr Diät für Abgeordnete? 😱#^3|^]]* Das ist [[tatsächlich]] eine der ersten [[Entscheidung]]en, die der neue Bundestag zu [[treffen]] hat. 
+
+*[[C1-Lesen-T4-101-Text#^14|^]]* Mein Vorschlag: Sollte es bei der bemannten [[Raumfahrt]] [[tatsächlich]] am Geld [[scheitern]], dann müsste man die Raumfahrtprogramme [[eben]] [[zeitlich]] [[strecken]]. ^14
 
 
-*[[4 Autofrei#^21|^]]* [[Tatsächlich]] findet man eine so drastische [[Veränderung]] wie das [[Autoverbot]] als [[risikoreich]]. ^10 ^21
+*[[C1-Lesen-T4-101-Text#^10|^]]* Ich war damals schon skeptisch und wie sich später [[herausstellte]], war das [[tatsächlich]] eine totale [[Fehleinschätzung]]. 
+
+*[[4 Autofrei#^21|^]]* [[Tatsächlich]] findet man eine so drastische [[Veränderung]] wie das [[Autoverbot]] als [[risikoreich]]. 
 
 Ein Haar in der Suppe? Das möchte doch niemand haben. Aber es gibt [[tatsächlich]] Menschen, die extra [[danach]] suchen. Und sie freuen sich, wenn sie ein Haar in der Suppe gefunden haben. Aber warum ist das so?
 

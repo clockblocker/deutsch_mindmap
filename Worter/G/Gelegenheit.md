@@ -35,4 +35,4 @@ D: der [[Gelegenheit]], den [[Gelegenheiten]]
 [[gelegen]], [[legen]], [[Gelegenheitsarbeit]], [[Gelegenheitskauf]], [[Gelegenheitsfund]]
 , [[gelegentlich]], [[Mitfahrgelegenheit]]
 
-#Feminin , [[nähern]]
+#Feminin , [[nähern]], [[Zufall]]

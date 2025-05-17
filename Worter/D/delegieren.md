@@ -1,1 +1,1 @@
-, [[überlassen]]
+, [[überlassen]], [[übertragen]]

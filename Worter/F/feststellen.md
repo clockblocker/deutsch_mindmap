@@ -6,6 +6,9 @@ haben [[festgestellt]]
 *[[01-C1-Schreiben-T2-M#^10|^]]* Bei Ihrer [[Rückkehr]] [[feststellen|stellen]] Sie überrascht fest, dass Sie nicht mehr allein, sondern zusammen mit sechs Kolleginnen und Kollegen in einem Raum sitzen. ^10
 
 
+*[[C1-Lesen-T4-102-Text#^11|^]]* Leider musste der [[Betriebsrat]] in den letzten Jahren [[feststellen]], dass die [[Abfallentsorgung]], Krankentransporte, [[Reinigung]], [[Sterilisation]] und die gesamte [[Essensversorgung]] praktisch über Nacht an ein Fremdunternehmen [[ausgelagert]] wurden. ^11
+
+
 *[[01-C1-Schreiben-T2-M#^2|^]]* Nach meiner Rückkehr habe ich [[festgestellt]], dass ich den Raum noch mit sechs Kolleginnen und Kollegen zu [[teilen]] habe, die [[teilweise]] für den [[Verkauf]] in unserer Firma [[tätig]] sind. ^2
 
 
@@ -40,4 +43,4 @@ Morpheme: [[fest]][[stell]][[en]]
 Partizip I: [[festellend]], Partizip II: [[festgestellt]]
 
 [[feststellen]] - [[fest]] = [[stellen]]
-, [[ausrechnen]], [[herausfinden]], [[besagen]], [[Rückkehr]], [[orten]]
+, [[ausrechnen]], [[herausfinden]], [[besagen]], [[Rückkehr]], [[orten]], [[herausstellen]]

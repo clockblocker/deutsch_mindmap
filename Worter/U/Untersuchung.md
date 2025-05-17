@@ -35,4 +35,4 @@ D: der [[Untersuchung]], den [[Untersuchungen]]
 , [[Texte/Misc/Anki]], [[ergeben]], [[Studie]], [[Abstrich]]
 
 
-#Feminin 
+#Feminin , [[Erkundung]]

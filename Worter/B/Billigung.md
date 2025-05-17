@@ -1,1 +1,1 @@
-, [[Erlaubnis]], [[Einspruch]], [[Einverständnis]], [[missbilligend]]
+, [[Erlaubnis]], [[Einspruch]], [[Einverständnis]], [[missbilligend]], [[Reklamation]]

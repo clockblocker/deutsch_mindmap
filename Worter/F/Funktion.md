@@ -1,1 +1,1 @@
-, [[Tätigkeit]], [[Stelle]], [[Verwendung]], [[Bedienung]], [[Störung]], [[Zuständigkeit]], [[Programm]], [[Aufgabenbereich]]
+, [[Tätigkeit]], [[Stelle]], [[Verwendung]], [[Bedienung]], [[Störung]], [[Zuständigkeit]], [[Programm]], [[Aufgabenbereich]], [[Funktionsweise]]

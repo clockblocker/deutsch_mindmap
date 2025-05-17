@@ -1,1 +1,1 @@
-, [[Weltall]]
+, [[Weltall]], [[Weltraum]]

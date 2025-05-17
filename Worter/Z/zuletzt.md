@@ -19,4 +19,4 @@ Synonyme:
 
 #Adverb, [[erst]], [[endlich]]
 , [[anstoßen]]
-, [[allererst]], [[letztendlich]]
+, [[allererst]], [[letztendlich]], [[Spätestens]]

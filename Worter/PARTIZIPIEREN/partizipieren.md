@@ -1,1 +1,1 @@
-, [[teilnehmen]]
+, [[teilnehmen]], [[teilhaben]]

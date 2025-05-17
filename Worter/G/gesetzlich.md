@@ -35,4 +35,4 @@ N: [[gesetzliches]], [[gesetzlicheres]], [[gesetzlichstes]]
 P: [[gesetzlichen]], [[gesetzlicheren]], [[gesetzlichsten]]  
 
 ---
-[[Gesetz]], [[Legalität]], [[gesetzeskonform]], [[ungesetzlich]], [[Gesetzlichkeit]], [[Grundgesetz]],, [[Versicherungspflicht]], [[erlassen]], [[rechtsfrei]], [[behördlich]], [[staatlich]]
+[[Gesetz]], [[Legalität]], [[gesetzeskonform]], [[ungesetzlich]], [[Gesetzlichkeit]], [[Grundgesetz]],, [[Versicherungspflicht]], [[erlassen]], [[rechtsfrei]], [[behördlich]], [[staatlich]], [[juristisch]], [[Gesetzgeber]]

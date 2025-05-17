@@ -31,4 +31,4 @@ A: das [[Spiel]], die [[Spiele]]
 G: des [[Spieles]], der [[Spiele]]
 D: dem [[Spiel]], den [[Spielen]]
 
-#Neuter , [[Spielweise]], [[Wetteinsatz]], [[Einsatz]], [[Spielverhalten]], [[kostspielig]]
+#Neuter , [[Spielweise]], [[Wetteinsatz]], [[Einsatz]], [[Spielverhalten]], [[kostspielig]], [[Zusammenspiel]]

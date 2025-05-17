@@ -1,1 +1,1 @@
-, [[Abgeordnete]], [[politisch]], [[Bundestagsabgeordnete]]
+, [[Abgeordnete]], [[politisch]], [[Bundestagsabgeordnete]], [[Gesetzgeber]]

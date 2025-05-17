@@ -1,1 +1,1 @@
-, [[Schaft]], [[tragen]], [[Erbträger]]
+, [[Schaft]], [[tragen]], [[Erbträger]], [[übertragen]]

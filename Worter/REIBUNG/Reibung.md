@@ -1,1 +1,1 @@
-, [[zerreiben]]
+, [[zerreiben]], [[reibungslos]]

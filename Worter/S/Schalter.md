@@ -1,1 +1,1 @@
-, [[knopf]], [[abschalten]]
+, [[knopf]], [[abschalten]], [[einschalten]]

@@ -29,3 +29,4 @@ G: des [[Aufschlags]], der [[Aufschläge]]
 D: dem [[Aufschlag]], den [[Aufschlägen]]
 
 #Maskulin 
+, [[Zuschlag]]

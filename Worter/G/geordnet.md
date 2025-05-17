@@ -1,2 +1,2 @@
 [[Ordnen]]  
-, [[wuschelig]], [[wild]], [[willkürlich]], [[geregelt]]
+, [[wuschelig]], [[wild]], [[willkürlich]], [[geregelt]], [[untergeordnet]]

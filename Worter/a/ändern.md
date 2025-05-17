@@ -1,8 +1,11 @@
 🔄 [[ändern]], [ˈɛndɐn](https://youglish.com/pronounce/ändern/german) | [[änderte]], haben [[geändert]]
 
 ---
-- Ach Maria! [[Sieh an|Sieh]] dich [[ansehen|an]]! Du [[änderst]] dich nie! 
-- Heute werden Sie eine [[Veränderung]] im Beruf haben, für mehr Geld
+Ach Maria! [[Sieh an|Sieh]] dich [[ansehen|an]]! Du [[änderst]] dich nie! 
+Heute werden Sie eine [[Veränderung]] im Beruf haben, für mehr Geld
+
+*[[C1-Hoehen-T1-100-Text#^3|^]]* Es [[beschreibt]] [[ausführlich]], wie sich in den letzten Jahrzehnten die [[Bevölkerungsstruktur]] in diesem [[Stadtteil]] [[geändert]] hat. ^3
+
 
 *[[04-C1-Schreiben-T2-M#^3|^]]* Obwohl Sie den [[Hundebesitzer]] schon [[mehrmals]] [[darauf]] [[angesprochen]] haben, hat sich bis jetzt nichts [[geändert]]. ^3
 

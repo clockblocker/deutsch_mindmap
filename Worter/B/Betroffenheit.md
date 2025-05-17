@@ -1,1 +1,1 @@
-, [[betreffen]]
+, [[betreffen]], [[Betroffene]], [[Betroffen]]

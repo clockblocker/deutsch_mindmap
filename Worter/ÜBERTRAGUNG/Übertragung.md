@@ -1,1 +1,1 @@
-, [[Übersetzung]]
+, [[Übersetzung]], [[übertragen]]

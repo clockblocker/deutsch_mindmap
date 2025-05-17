@@ -1,1 +1,1 @@
-, [[auslachen]], [[verspotten]], [[schmähen]]
+, [[auslachen]], [[verspotten]], [[schmähen]], [[bemitleiden]]

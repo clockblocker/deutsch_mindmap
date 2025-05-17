@@ -1,1 +1,1 @@
-, [[Untersuchung]], [[erforschen]]
+, [[Untersuchung]], [[erforschen]], [[Erkundung]]

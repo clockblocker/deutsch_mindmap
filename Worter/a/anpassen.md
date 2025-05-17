@@ -1,11 +1,13 @@
  --> [[Ingredient-Add-Remove]] <--
+ 
 🎽 [[anpassen]], [ˈanˌpasn̩](https://youglish.com/pronounce/anpassen/german) | [[passte an]], haben [[angepasst]]
 
 ---
 *[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]]
 
-*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^3|^]]* In diesem Prozess lernt man auch, sich flexibel an die Umwelt [[anzupassen]]. ^3
+*[[C1-Hoehen-T1-200-Text#^12|^]]* [[Gleichzeitig]] erfährt man aber auch, dass die Natur [[recht]] [[robust]] ist und sich [[durchaus]] [[anpassen]] kann, wie frühere Klimaveränderungen [[gezeigt]] haben.
 
+*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^3|^]]* In diesem Prozess lernt man auch, sich flexibel an die Umwelt [[anzupassen]].
 
 ---
 = [[adaptieren]], [[angleichen]], [[modifizieren]],  [[profilieren]]

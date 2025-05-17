@@ -1,79 +1,61 @@
-🔌 [[einschalten]]
-[[schaltete ein]]
-haben [[eingeschaltet]]
+💡 [[einschalten]], [ˈaɪ̯nˌʃaltn̩](https://youglish.com/pronounce/einschalten/german) → [[schaltete ein]] → [[eingeschaltet]]
 
 ---
 Waschmaschine an die Steckdose anschließen oder:
-Hauptschalter [[einschalten]].
+Hauptschalter [[einschalten]]
+
+*[[C1-Hoehen-T1-200-Text#^23|^]]* Vielen Dank, dass ihr [[eingeschaltet]] habt
 
 ---
-
-Synonyme:
-- [[anmachen]], [[aktivieren]], [[in Betrieb nehmen]]
-
----
-
-Beispiele:
-
-- Ich [[schalte]] das Licht [[ein]].
-- Du [[schaltest]] den Computer [[ein]].
-- Er [[Schaltet]] den Fernseher [[ein]].
-- Es [[Schaltet]] sich [[ein]], wenn es dunkel wird.
-- Wir [[Schalten]] die Heizung [[ein]].
-- Ihr [[Schaltet]] das Radio [[ein]].
-- Sie [[Schalten]] das Handy [[ein]].
+= [[anmachen]], [[aktivieren]], [[betätigen]]
+≈ [[starten]], [[in Betrieb nehmen]], [[benutzen]]
+≠ [[ausschalten]], [[deaktivieren]], [[abstellen]]
 
 ---
-**Übersetzung**: to turn on, to switch on
+to switch on, to turn on  
+включать
 
 ---
-
-Morphems of only infinitive:
-[[ein]][[Schalten]]
+[[Schalter]], [[Einschaltung]], [[eingeschaltet]], [[ausschalten]]
 
 ---
-Tags: 
-#Verb #Trennbar
+[[ein]]|[[schalt]]|[[en]]
+[[ein]] + [[schalten]]
+
 
 ---
+###### [[einschalten]] jN
+- Was [[schaltest]] du [[ein]]?
+- Den Fernseher.
 
-Präteritum:
+- Was [[schalten]] wir [[ein]]?
+- Das Licht.
 
-- Ich [[schaltete ein|schaltete]] das Licht [[ein]].
-- Du [[schaltetest ein|schaltetest]] den Computer [[ein]].
-- Er [[schaltete ein|schaltete]] den Fernseher [[ein]].
-- Es [[schaltete ein|schaltete]] sich [[ein]], als es dunkel wurde.
-- Wir [[schalteten ein|schalteten]] die Heizung [[ein]].
-- Ihr [[schaltetet ein|schaltetet]] das Radio [[ein]].
-- Sie [[schalteten ein|schalteten]] das Handy [[ein]].
-
----
-
-Imperativ:
-
-- [[Schalte ein|schalte]] das Licht [[ein]]!
-- [[Schaltet ein|schaltet]] den Fernseher [[ein]]!
-- [[Schalten wir ein|schalten]] die Heizung [[ein]]!
-- [[Schalten Sie ein|schalten]] das Radio [[ein]]!
+- Warum [[hat]] er den Motor [[eingeschaltet]]?
+- Um loszufahren.
 
 ---
+###### [[einschalten]] *[[sich]]*
+- Worin [[schaltest]] du *[[dich]]* [[ein]]?
+- In die Diskussion.
 
-Konjunktiv I:
+- Warum [[schalten]] wir *[[uns]]* nicht [[ein]]?
+- Weil wir uns nicht trauen.
 
-- Er sagt, ich [[Schalte ein]], wenn es dunkel wird.
-- Sie meint, du [[schaltest ein]] den Fernseher.
-- Er behauptet, er [[Schalte ein]] das Licht.
-- Wir erklären, wir [[schalten ein]] die Heizung.
-- Ihr sagt, ihr [[Schaltet ein]] das Radio.
-- Sie sagen, sie [[schalten ein]] den Computer.
+- Wie [[hat]] sie *[[sich]]* [[eingeschaltet]]?
+- Durch eine Frage.
 
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[schalte ein]] / [[schalte ein]], [[schaltete ein]], [[schalte ein]], [[schaltete ein]], -
+du, [[schaltest ein]], [[schaltetest ein]], [[schaltest ein]], [[schaltetest ein]], [[schalte ein]] / [[schalte ein]]
+er, [[schaltet ein]], [[schaltete ein]], [[schalte ein]], [[schaltete ein]], -
+wir, [[schalten ein]], [[schalteten ein]], [[schalten ein]], [[schalteten ein]], [[schalten ein]]
+ihr, [[schaltet ein]], [[schaltetet ein]], [[schaltet ein]], [[schaltetet ein]], [[schaltet ein]]
+sie, [[schalten ein]], [[schalteten ein]], [[schalten ein]], [[schalteten ein]], [[schalten ein]]
 
-Konjunktiv II:
+*Zu + Inf*: [[einzuschalten]], *P2*: [[eingeschaltet]]
+Adjektive: [[einschaltend]], [[einschaltender]], [[einschaltendst]]
 
-- Wenn ich den Fernseher schauen wollte, [[schaltete ein|schaltete]] ich ihn [[ein]].
-- Wenn du Musik hören möchtest, [[schaltetest ein|schaltetest]] du das Radio [[ein]].
-- Wenn er das Licht brauchte, [[schaltete ein|schaltete]] er es [[ein]].
-- Wenn wir Wärme bräuchten, [[schalteten ein|schalteten]] wir die Heizung [[ein]].
-- Wenn ihr telefonieren wolltet, [[schaltetet ein|schaltetet]] ihr das Handy [[ein]].
-- Wenn sie es benutzen müssten, [[schalteten ein|schalteten]] sie den Computer [[ein]]., [[aufdrehen]], [[abschalten]]
+---
+[[einschaltender]], [[einschaltendes]], [[einschaltende]], [[einschaltenden]], [[einschaltendem]], [[einschaltenderer]], [[einschaltenderes]], [[einschaltendere]], [[einschaltenderen]], [[einschaltenderem]], [[einschaltendster]], [[einschaltendstes]], [[einschaltendste]], [[einschaltendsten]], [[einschaltendstem]]

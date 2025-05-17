@@ -1,1 +1,1 @@
-, [[Abfall]]
+, [[Abfall]], [[Abfallentsorgung]]

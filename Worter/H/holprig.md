@@ -1,1 +1,1 @@
-, [[fließend]]
+, [[fließend]], [[reibungslos]]

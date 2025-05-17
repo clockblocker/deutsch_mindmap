@@ -1,2 +1,2 @@
 , [[Herd]]
-, [[hitzig]], [[Heiztemperatur]]
+, [[hitzig]], [[Heiztemperatur]], [[wärmen]]

@@ -1,1 +1,1 @@
-, [[geben]], [[anweisen]]
+, [[geben]], [[anweisen]], [[entziehen]]

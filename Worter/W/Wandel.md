@@ -28,4 +28,4 @@ A: den [[Wandel]], die [[Wandel]]
 G: des [[Wandels]], der [[Wandel]]
 D: dem [[Wandel]], den [[Wandeln]]
 
-#Maskulin , [[Klimawandel]]
+#Maskulin , [[Klimawandel]], [[Umwandlung]]

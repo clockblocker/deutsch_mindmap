@@ -1,3 +1,3 @@
 , [[Miethaus]]
 , [[Miete]]
-, [[Vermieter]], [[mieten]], [[anmieten]]
+, [[Vermieter]], [[mieten]], [[anmieten]], [[Mietrecht]], [[Mietpreisspirale]]

@@ -35,4 +35,4 @@ PI: [[anmeldend]], PII: [[angemeldet]], Zu+inf: [[anzumelden]]
 [[anmelden]] - [[an]] = [[melden]] / to register, to sign up, to log in
 
 ---
-[[Anmeldung]], [[Anmelder]], [[Anmelderin]], [[anmeldbar]], [[Anmeldetermin]], [[Einwohnermeldeamt]]
+[[Anmeldung]], [[Anmelder]], [[Anmelderin]], [[anmeldbar]], [[Anmeldetermin]], [[Einwohnermeldeamt]], [[zurückziehen]]

@@ -1,1 +1,1 @@
-, [[enttäuscht]]
+, [[enttäuscht]], [[enttäuschen]]

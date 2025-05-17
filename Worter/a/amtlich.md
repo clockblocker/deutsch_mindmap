@@ -1,1 +1,1 @@
-, [[Amtssitz]], [[Behörde]], [[Ordnungsamt]], [[Schulamt]], [[Gesundheitsamt]], [[Amtsgericht]], [[Amt]], [[offiziell]], [[Behördensprache]], [[Behördengang]], [[Amtssprache]], [[Landessprache]], [[behördlich]], [[staatlich]]
+, [[Amtssitz]], [[Behörde]], [[Ordnungsamt]], [[Schulamt]], [[Gesundheitsamt]], [[Amtsgericht]], [[Amt]], [[offiziell]], [[Behördensprache]], [[Behördengang]], [[Amtssprache]], [[Landessprache]], [[behördlich]], [[staatlich]], [[juristisch]]

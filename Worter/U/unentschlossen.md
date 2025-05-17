@@ -1,2 +1,2 @@
 , [[entschlossen]], [[entschließen]], [[zaghaft]]
-, [[zielstrebig]], [[zielgerichtet]]
+, [[zielstrebig]], [[zielgerichtet]], [[eingefleischt]]

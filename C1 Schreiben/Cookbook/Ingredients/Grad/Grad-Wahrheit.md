@@ -20,6 +20,7 @@
 17) [[speziell]] *(specifically; precise scope)*
 18) [[besonders]] *(especially; emphasis on importance)*
 19) [[faktisch]] *(factually; neutral tone)*  
+20) weitaus
 
 #### 🤔 [[relativierend]] 
 1) [[eigentlich]] *(actually / technically / in essence; often hedging)*

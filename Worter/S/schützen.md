@@ -7,7 +7,10 @@ haben [[geschützt]]
 ---
 Auch manche Menschen müssen ein dickes Fell haben, um sich zu [[schützen]].
 
-* *Nennen Sie Alternativen, wie man Menschen vor den* [[Gefahr]]*en, die durch das Internet* [[entstehen]], [[schützen]] *könnte.* 
+*[[C1-Lesen-T4-102-Text#^18|^]]* Davor müssten wir vom [[Gesetzgeber]] stärker [[geschützt]] werden. ^18
+
+
+Nennen Sie Alternativen, wie man Menschen vor den [[Gefahr]]en, die durch das Internet [[entstehen]], [[schützen]] könnte. 
 
 ---
 Synonyme: [[verteidigen]], [[bewahren]], [[beschirmen]], [[sichern]], [[behüten]]

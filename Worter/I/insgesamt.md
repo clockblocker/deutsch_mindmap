@@ -29,4 +29,4 @@ overall, in total
 Adjektive: [[insgesamt]], [[insgesamter]], [[insgesamtst]]
 
 ---
-[[insgesamter]], [[insgesamtes]], [[insgesamte]], [[insgesamten]], [[insgesamtem]], [[insgesamterer]], [[insgesamteres]], [[insgesamtere]], [[insgesamteren]], [[insgesamterem]], [[insgesamtster]], [[insgesamtstes]], [[insgesamtste]], [[insgesamtsten]], [[insgesamtstem]], [[zusammen]], [[insbesondere]]
+[[insgesamter]], [[insgesamtes]], [[insgesamte]], [[insgesamten]], [[insgesamtem]], [[insgesamterer]], [[insgesamteres]], [[insgesamtere]], [[insgesamteren]], [[insgesamterem]], [[insgesamtster]], [[insgesamtstes]], [[insgesamtste]], [[insgesamtsten]], [[insgesamtstem]], [[zusammen]], [[insbesondere]], [[komplett]]

@@ -1,1 +1,1 @@
-, [[üblich]], [[durchgängig]], [[gang und gäbe]]
+, [[üblich]], [[durchgängig]], [[gang und gäbe]], [[unumgänglich]]

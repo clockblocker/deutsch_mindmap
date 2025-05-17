@@ -47,4 +47,4 @@ sie, [[verlängern]], [[verlängerten]], [[verlängern]], [[verlängerten]], [[v
 Adjektive: [[verlängernd]], [[verlängernder]], [[verlängerndst]]
 
 ---
-[[verlängernder]], [[verlängerndes]], [[verlängernde]], [[verlängernden]], [[verlängerndem]], [[verlängernderer]], [[verlängernderes]], [[verlängerndere]], [[verlängernderen]], [[verlängernderem]], [[verlängerndster]], [[verlängerndstes]], [[verlängerndste]], [[verlängerndsten]], [[verlängerndstem]], [[verbreitern]]
+[[verlängernder]], [[verlängerndes]], [[verlängernde]], [[verlängernden]], [[verlängerndem]], [[verlängernderer]], [[verlängernderes]], [[verlängerndere]], [[verlängernderen]], [[verlängernderem]], [[verlängerndster]], [[verlängerndstes]], [[verlängerndste]], [[verlängerndsten]], [[verlängerndstem]], [[verbreitern]], [[erneuern]]

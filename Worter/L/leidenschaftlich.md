@@ -1,2 +1,2 @@
 , [[überdrüssig]], [[sachlich]]
-, [[hitzig]]
+, [[hitzig]], [[eingefleischt]]

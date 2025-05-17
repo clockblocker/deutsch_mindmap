@@ -1,1 +1,1 @@
-, [[hineingezogen]]
+, [[hineingezogen]], [[zurückziehen]]

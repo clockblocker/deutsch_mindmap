@@ -1,1 +1,1 @@
-, [[Hausverwaltung]]
+, [[Hausverwaltung]], [[Wohnungsmarkt]]

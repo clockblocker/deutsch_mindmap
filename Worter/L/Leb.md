@@ -1,1 +1,1 @@
-, [[Leben]], [[Lebzeiten]], [[überlebt]], [[überleben]], [[Erlebnis]], [[lebendig]], [[beleben]]
+, [[Leben]], [[Lebzeiten]], [[überlebt]], [[überleben]], [[Erlebnis]], [[lebendig]], [[beleben]], [[Lebewesen]]

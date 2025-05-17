@@ -17,4 +17,4 @@ Morphems:
 [[Vog]][[el]]
 
 ---
-#Substantiv #Maskulin, [[Zaunkönig]], [[Spatz]], [[Gans]], [[Papagei]], [[Kleintier]]
+#Substantiv #Maskulin, [[Zaunkönig]], [[Spatz]], [[Gans]], [[Papagei]], [[Kleintier]], [[Zugvogel]]

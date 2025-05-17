@@ -30,4 +30,4 @@ Morpheme: [[be]][[Nutz]][[en]]
 
 Partizip I: [[benutzend]], Partizip II: [[benutzt]]
 
-[[benutzen]] - [[be]] = [[nutzen]], [[anwenden]]
+[[benutzen]] - [[be]] = [[nutzen]], [[anwenden]], [[einschalten]]

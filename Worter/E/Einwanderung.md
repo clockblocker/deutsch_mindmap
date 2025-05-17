@@ -28,4 +28,4 @@ G: der [[Einwanderung]], der [[Einwanderungen]]
 D: der [[Einwanderung]], den [[Einwanderungen]]
 , [[Migrantin]]
 
-#Feminin 
+#Feminin , [[Zuzug]]

@@ -1,2 +1,2 @@
 , [[weitergehen]], [[vorderen]], [[Vorgehen]], [[Fortschritt]]
-, [[vorangehen]], [[umkehren]]
+, [[vorangehen]], [[umkehren]], [[fortschreiten]]

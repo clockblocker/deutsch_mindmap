@@ -1,1 +1,1 @@
-, [[Geburt]], [[Anfang]], [[Anhieb]], [[Anhieb]], [[Ende]], [[Unternehmenseröffnung]]
+, [[Geburt]], [[Anfang]], [[Anhieb]], [[Anhieb]], [[Ende]], [[Unternehmenseröffnung]], [[Garaus]]

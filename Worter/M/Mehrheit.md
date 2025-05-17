@@ -35,4 +35,4 @@ D: der [[Mehrheit]], den [[Mehrheiten]]
 -
 , [[Vielzahl]]
 
-#Feminin 
+#Feminin , [[Bevölkerungsgruppe]]

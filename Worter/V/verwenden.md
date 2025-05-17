@@ -4,6 +4,9 @@
 ---
 Ich [[verwende]] mein Telefon auch, um Fotos zu machen.
 
+*[[C1-Lesen-T4-101-Text#^4|^]]* Würde man dieses Geld bei [[rein]] robotischen Missionen [[verwenden]], könnte man ungleich mehr wissenschaftliche [[Ergebnis]]se [[erzielen]] als bei bemannten [[Raumflügen]]. ^4
+
+
 Die Staatliche Regulierung kann sich zum Beispiel darauf beziehen, wie recycelbar Kleidung ist oder ob Plastik als Verpackungsmaterial [[verwenden]] werden darf.
 
 *[[C1-Lesen-T1-000-Loesung#^11|^]]* „[[Dabei]]“ kann hier im Sinne von „bei dieser [[Gelegenheit]]“ oder „[[währenddessen]]“ [[verwendet]] werden und [[einleitet|leitet]] eine mögliche Schwierigkeit ein, die [[auftreten]] kann, wenn sich der Roboter dem Müll [[nähert]]. ^11

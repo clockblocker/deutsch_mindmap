@@ -3,12 +3,11 @@
 🆙 [[fördern]], [ˈfœʁdɐn] | [[förderte]], haben [[gefördert]]
 
 ---
-[[M1A1.md#^1|(q)]] Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn? ^1
+[[M1A1.md#^1|(q)]] Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn?
 
+*[[C1-Hoehen-T1-200-Text#^18|^]]* Doch gerade der Mensch macht dem Wald den [[Garaus]]: [[Verheerende]] [[Waldbrände]], von der Industrie [[geförderte]], [[rücksichtslose]] [[Rodungen]] und falsche Agrarökonomie führen zur [[Vernichtung]] des Waldes.
 
-*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^9|^]]* Die [[informell]]en [[Gespräch]]e in der [[Kaffeepause]] oder der direkte [[Blickkontakt]] bei [[Meetings]] tragen [[entscheidend]] zur [[Teamentwicklung]] bei und [[fördern]] ein [[Gefühl]] der [[Zugehörigkeit]]. ^9
-
-
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^9|^]]* Die [[informell]]en [[Gespräch]]e in der [[Kaffeepause]] oder der direkte [[Blickkontakt]] bei [[Meetings]] tragen [[entscheidend]] zur [[Teamentwicklung]] bei und [[fördern]] ein [[Gefühl]] der [[Zugehörigkeit]].
 
 Diskutieren Sie, wie ein [[bewusster]] Umgang mit digitalen Medien [[gefördert]] werden könnte.  
 
@@ -43,4 +42,4 @@ PI: [[fördernd]], PII: [[gefördert]], Zu+inf: [[zufördern]]
 ---
 [[Förderung]], [[Förderer]], [[Förderung]], [[förderlich]], [[Förderband]]
 , [[schaden]], [[unterstützen]]
-, [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]], [[steigern]], [[beitragen]], [[verstärken]], [[ausbauen]], [[Fördermittel]], [[Förderbetrag]]
+, [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]], [[steigern]], [[beitragen]], [[verstärken]], [[ausbauen]], [[Fördermittel]], [[Förderbetrag]], [[betreiben]], [[forcieren]], [[eindämmen]]

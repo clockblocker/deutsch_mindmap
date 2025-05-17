@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Tiers]], [[Tiere]], [[Tieren]], [[Tieren]]
 
 ---
 #Substantiv #Maskulin, [[Wappentier]], [[Esel]]
-, [[Mensch]], [[Schwein]], [[Kleintier]]
+, [[Mensch]], [[Schwein]], [[Kleintier]], [[Dachs]], [[Waschbär]], [[Zugvogel]]

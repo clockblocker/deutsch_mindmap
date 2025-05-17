@@ -1,1 +1,1 @@
-, [[Einwanderer]], [[einwandern]]
+, [[Einwanderer]], [[einwandern]], [[wandern]]

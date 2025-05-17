@@ -30,4 +30,4 @@ PI: [[verantwortend]], PII: [[verantwortet]], Zu+inf: [[zu verantworten]]
 ---
 [[Verantwortung]], [[verantwortlich]], [[Verantwortungsbewusstsein]], [[Antwort]]
 [[Verantwortung]], [[Verantwortlichkeit]], [[Verantwortungsvolle]], [[Verantwortungsträger]], [[Verantwortungsbewusstsein]], [[verantwortlich]], [[haften]]
-, [[verantwortungsvoll]], [[verantwortungsbewusst]]
+, [[verantwortungsvoll]], [[verantwortungsbewusst]], [[übernehmen]]

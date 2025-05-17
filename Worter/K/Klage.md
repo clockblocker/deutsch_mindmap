@@ -27,4 +27,4 @@ D: der [[Klage]], den [[Klagen]]
 ---
 [[klagen]], [[klagbar]], [[klagend]], [[anklagen]], [[beklagen]], [[Kläger]], [[Klägerin]]
 
-#Feminin 
+#Feminin , [[Reklamation]]

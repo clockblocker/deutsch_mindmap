@@ -26,4 +26,4 @@ G: der [[Gesetzgebung]], der [[Gesetzgebungen]]
 D: der [[Gesetzgebung]], den [[Gesetzgebungen]]  
 
 ---
-[[gesetzgebend]], [[Gesetzgeber]], [[Gesetzestext]], [[legislativ]]
+[[gesetzgebend]], [[Gesetzgeber]], [[Gesetzestext]], [[legislativ]], [[Mietrecht]]

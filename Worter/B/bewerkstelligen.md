@@ -1,1 +1,1 @@
-, [[Leisten]], [[schaffen]], [[erreichen]], [[vollziehen]], [[ermöglichen]], [[gewähren]], [[erfüllen]]
+, [[Leisten]], [[schaffen]], [[erreichen]], [[vollziehen]], [[ermöglichen]], [[gewähren]], [[erfüllen]], [[erbringen]]

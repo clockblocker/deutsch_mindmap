@@ -1,1 +1,1 @@
-[[Wetter]], [[Himmel]], [[Stimmung]]
+[[Wetter]], [[Himmel]], [[Stimmung]], [[Weltraum]], [[Kohlendioxid]]

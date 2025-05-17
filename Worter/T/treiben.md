@@ -44,4 +44,4 @@ Zu+infinitive: [[zu treiben]]
 ---
 [[Trieb]], [[Treiber]], [[Antrieb]], [[Treibstoff]], [[Treibhaus]], [[Treibjagd]], [[Windtreiben]]
 , [[paddeln]], [[schweben]] 
-, [[aufmachen]], [[windgetrieben]]
+, [[aufmachen]], [[windgetrieben]], [[betreiben]]

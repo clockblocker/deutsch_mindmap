@@ -1,1 +1,1 @@
-, [[Trauernden]]
+, [[Trauernden]], [[Betroffene]]

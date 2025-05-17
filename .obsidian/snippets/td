@@ -1,0 +1,139 @@
+tornado = {
+    plain: {
+        damage: 50,
+        d_damage: 10,
+        
+        crit_damage: 1.8,
+        d_crit_damage: 0.4,
+
+        crit_chance: 0.05,
+        d_crit_chance: 0.1,
+        
+        fire_rate: 0.3,
+        d_fire_rate: 0.06,
+    },
+    
+}
+
+arrow = {
+    adwanced: {
+        damage: 30,
+        d_damage: 6,
+        
+        crit_damage: 1.8,
+        d_crit_damage: 0.4,
+
+        crit_chance: 0.1,
+        d_crit_chance: 0.1,
+        
+        fire_rate: 0.81,
+        d_fire_rate: 0.1,
+    },
+    
+}
+
+beam = {
+    normal: {
+        damage: 218,
+        d_damage: 15,
+        
+        crit_damage: 1.8,
+        d_crit_damage: 0.4,
+
+        crit_chance: 0.05,
+        d_crit_chance: 0.1,
+        
+        fire_rate: 7,
+        d_fire_rate: 1.4,
+    },
+     oneoff: {
+        damage: 2019,
+        d_damage: 15,
+        
+        crit_damage: 3,
+        d_crit_damage: 0.4,
+
+        crit_chance: 35,
+        d_crit_chance: 0.1,
+        
+        fire_rate: 20,
+        d_fire_rate: 1.4,
+    },
+    
+}
+
+let {damage,
+d_damage,
+crit_damage,
+d_crit_damage,
+fire_rate,
+d_fire_rate,
+crit_chance,
+d_crit_chance,
+} = beam["oneoff"];
+
+const dps = ({ damage, crit_damage, crit_chance, fire_rate }) => {
+    return damage * fire_rate * crit_chance * crit_damage + (damage * fire_rate * 1 - crit_chance);
+}
+
+for (let i = 0; i < 25; i++) {
+    const arr = [
+        {name: 'damage', value: dps({damage: damage + d_damage, crit_damage, fire_rate, crit_chance})},
+        {name: 'crit_damage', value: dps({damage, crit_damage: crit_damage + d_crit_damage, fire_rate, crit_chance})},
+        {name: 'fire_rate', value: dps({damage, crit_damage, fire_rate: fire_rate + d_fire_rate, crit_chance})},
+        {name: 'crit_chance', value: dps({damage, crit_damage, fire_rate, crit_chance: crit_chance + d_crit_chance})},
+    ];
+
+    const brr = arr.sort((a, b) => b.value - a.value);
+
+    const [max, ...rest] = brr;
+
+    switch (max.name) { 
+        case 'damage':
+            damage += d_damage;
+            console.log('damage', max.value);
+            break;
+        case 'crit_damage':  
+            crit_damage += d_crit_damage;
+            console.log('crit_damage', max.value);
+            break;
+        case 'fire_rate':   
+            fire_rate += d_fire_rate;
+            console.log('fire_rate', max.value);
+            break;
+        case 'crit_chance':   
+            crit_chance += d_crit_chance;
+            console.log('crit_chance', max.value);
+            break;
+    }
+}
+
+
+
+
+
+// fire_rate 1995.958
+// fire_rate 2328.6259999999997
+// crit_chance 2713.078
+// fire_rate 3100.6820000000007
+// crit_chance 3540.0700000000006
+// fire_rate 3982.6100000000006
+// crit_chance 4476.934
+// fire_rate 4974.410000000001
+// crit_chance 5523.670000000001
+// fire_rate 6076.082
+// crit_damage 6680.378000000001
+// crit_chance 7418.862000000001
+// crit_damage 8157.446
+// crit_chance 9030.218
+// crit_damage 9903.09
+// crit_chance 10910.15
+// crit_damage 11917.31
+// crit_chance 13058.658
+// fire_rate 14245.885999999999
+// crit_damage 15491.101999999999
+// crit_chance 16882.713999999996
+// fire_rate 18289.685999999998
+// crit_damage 19797.374
+// crit_chance 21463.665999999997
+crit_damage 23130.058

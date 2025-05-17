@@ -1,1 +1,1 @@
-, [[trösten]], [[trocken]]
+, [[trösten]], [[trocken]], [[amüsant]]

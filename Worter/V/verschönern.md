@@ -1,1 +1,1 @@
-, [[schmücken]]
+, [[schmücken]], [[verklären]]

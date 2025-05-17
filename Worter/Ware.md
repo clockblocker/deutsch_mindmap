@@ -5,6 +5,9 @@ die [[Waren]]
 *[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den Kunstgegenstand [[verlangen]] kann. ^6
 
 
+*[[C1-Lesen-T4-102-Text#^4|^]]* Ich brauche ein Kundencenter für [[Reklamation]]en, dann muss die [[Ware]] [[versandt]] werden, der [[Umsatz]] muss dokumentiert und kontrolliert werden und einen [[Steuerberater]] brauche ich natürlich auch noch. ^4
+
+
 *[[3 Sollte das Internet stärker reguliert werden?#^2|^]]* _Dazu zählen neben dem_ [[Finanzwesen]] _auch Webseiten von_ [[Gemeinden]], _Firmen und alles, bei dem es um An- und Verkauf von_ [[Waren]] _und deren Bezahlung geht, wie z. B. eBay._ ^2
 
 

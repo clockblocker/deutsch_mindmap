@@ -25,3 +25,5 @@ N: die [[Unternehmenseröffnung]], die [[Unternehmenseröffnungen]]
 A: die [[Unternehmenseröffnung]], die [[Unternehmenseröffnungen]]
 G: der [[Unternehmenseröffnung]], der [[Unternehmenseröffnungen]]
 D: der [[Unternehmenseröffnung]], den [[Unternehmenseröffnungen]]
+
+#Feminin 

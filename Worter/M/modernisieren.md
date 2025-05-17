@@ -1,1 +1,1 @@
-, [[umbauen]], [[weiterentwickeln]]
+, [[umbauen]], [[weiterentwickeln]], [[erneuern]]

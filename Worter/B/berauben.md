@@ -1,1 +1,1 @@
-[[überfallen]], [[einbrechen]]
+[[überfallen]], [[einbrechen]], [[entziehen]]

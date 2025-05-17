@@ -1,1 +1,1 @@
-, [[Kleintier]]
+, [[Kleintier]], [[Dachs]], [[Waschbär]]

@@ -29,4 +29,4 @@ at least, at the very least
 ---
 [[mindest]], [[zumindestens]]
 
-, [[wenigstens]], [[immerhin]], [[behaupten]]
+, [[wenigstens]], [[immerhin]], [[behaupten]], [[Spätestens]]

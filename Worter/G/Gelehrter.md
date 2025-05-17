@@ -1,1 +1,1 @@
-, [[Forscher]]
+, [[Forscher]], [[Ignorant]]

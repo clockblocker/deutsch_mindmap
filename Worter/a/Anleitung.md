@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Anleitung]], [[Anleitung]], [[Anleitungen]], [[Anleitungen]]
 
 ---
-#Substantiv #Maskulin, [[vorlesen]], [[Extra 8]], [[erst]], [[leiten]]
+#Substantiv #Maskulin, [[vorlesen]], [[Extra 8]], [[erst]], [[leiten]], [[Ratgeber]]

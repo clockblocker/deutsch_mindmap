@@ -1,1 +1,1 @@
-, [[unbeteiligt]]
+, [[unbeteiligt]], [[Betroffene]]

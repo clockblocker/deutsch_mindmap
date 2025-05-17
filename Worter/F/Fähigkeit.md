@@ -4,6 +4,12 @@ die [[Fähigkeiten]]
 ---
 Und obwohl seine [[Fähigkeiten]] erstaunlich sind, muss er noch eine Menge lernen. 
 
+*[[C1-Lesen-T4-101-Text#^17|^]]* Unsere sensorischen und kognitiven [[Fähigkeit]]en kann keine Maschine [[aufweisen]]. ^17
+
+
+*[[C1-Lesen-T4-101-Text#^6|^]]* Und wir sollten die [[Tatsache]] nicht vergessen, dass die [[Fähigkeit]]en von Robotern immer besser werden. ^6
+
+
 [[Eigenlob stinkt.md#^2|(q)]] [[Selbstbewusste]] Menschen haben es leichter im Leben. Sie [[beeindrucken]] andere durch ihre [[Fähigkeiten]] und Talente. ^2
 
 e) Er [[zweifelt]] manchmal an seinen [[Fähigkeiten]].  

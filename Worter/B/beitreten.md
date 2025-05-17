@@ -31,4 +31,4 @@ PI: [[beitretend]], PII: [[beigetreten]], Zu+inf: [[beizutreten]]
 [[beitreten]] - [[bei]] = [[treten]] / to join, to become a member
 
 ---
-[[Beitritt]], [[Mitgliedschaft]], [[Teilnahme]], [[Anschluss]], [[Vereinigung]]
+[[Beitritt]], [[Mitgliedschaft]], [[Teilnahme]], [[Anschluss]], [[Vereinigung]], [[zurückziehen]]

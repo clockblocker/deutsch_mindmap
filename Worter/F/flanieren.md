@@ -1,1 +1,1 @@
-, [[wandeln]]
+, [[wandeln]], [[wandern]]

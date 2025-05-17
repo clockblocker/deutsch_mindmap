@@ -26,4 +26,4 @@ former, of that time
 Adjektive: [[damalig]], [[damaliger]], [[damaligst]]
 
 ---
-[[damaliger]], [[damaliges]], [[damalige]], [[damaligen]], [[damaligem]], [[damaligerer]], [[damaligeres]], [[damaligere]], [[damaligeren]], [[damaligerem]], [[damaligster]], [[damaligstes]], [[damaligste]], [[damaligsten]], [[damaligstem]]
+[[damaliger]], [[damaliges]], [[damalige]], [[damaligen]], [[damaligem]], [[damaligerer]], [[damaligeres]], [[damaligere]], [[damaligeren]], [[damaligerem]], [[damaligster]], [[damaligstes]], [[damaligste]], [[damaligsten]], [[damaligstem]], [[einstig]]

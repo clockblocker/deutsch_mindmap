@@ -3,6 +3,8 @@
 ---
 Und Nic (von nebenan) [[herausfinden|findet]]  heraus, dass Sam sehr, sehr reich ist.  
 
+*[[C1-Lesen-T4-101-Text#^8|^]]* Interessante Forschungsmissonen mit Robotern oder Sonden könnten aus finanziellen Motiven [[heraus auf der Strecke bleiben]], wenn wir [[weiterhin]] bemannte Raumflüge [[forcieren]].
+
 *[[C1-Lesen-T2-101-Text#^12|^]]* Die Wissenschaftler fanden dabei [[heraus]], dass [[diejenigen]] Kinder viel kreativer waren, die weniger Spielzeug zur [[Verfügung]] hatten. ^12
 
 

@@ -2,6 +2,7 @@
 die [[Mischungen]]
 
 ---
+0 Das Buch ist eine [[Mischung]] aus Roman und Sachbuch.  
 
 
 ---

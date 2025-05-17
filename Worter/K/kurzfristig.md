@@ -6,6 +6,9 @@
 ---
 •	Wichtige interne [[Schulungen]] werden [[kurzfristig]] [[abgesagt]]
 
+*[[C1-Lesen-T4-102-Text#^9|^]]* So kann ich [[kurzfristig]] zu einem [[günstigeren]] Anbieter wechseln. ^9
+
+
 ---
 = [[zeitnah]], [[bald]], [[demnächst]]
 ≈ [[schnell]], [[rasch]], [[umgehend]]

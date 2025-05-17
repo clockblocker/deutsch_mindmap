@@ -1,1 +1,1 @@
-, [[Ware]]
+, [[Ware]], [[Güterproduktion]]

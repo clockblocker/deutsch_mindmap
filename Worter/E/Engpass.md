@@ -31,4 +31,4 @@ A: den [[Engpass]], die [[Engpässe]]
 G: des [[Engpasses]], der [[Engpässe]]
 D: dem [[Engpass]], den [[Engpässen]]
 
-#Maskulin 
+#Maskulin , [[Wohnungsknappheit]]

@@ -4,6 +4,8 @@
 ---
 Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]].
 
+*[[C1-Lesen-T4-102-Text#^7|^]]* Außerdem übernehmen ja Expertinnen und Experten diese [[ausgelagerten]] [[Aufgabe]]n und [[erledigen]] das bestimmt viel professioneller und effizienter als ich das kann. 
+
 *[[07-C1-Schreiben-T2-M#^2|^]]* Als [[Folge]] [[dauern]] bei Ihnen und Ihrem Team viele [[Arbeitsprozess]]e nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der [[geforderten]] Zeit zu [[erledigen]]. ^2
 
 

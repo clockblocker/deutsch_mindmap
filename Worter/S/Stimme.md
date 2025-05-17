@@ -17,4 +17,4 @@ Morphems:
 [[Stimm]][[e]]
 
 ---
-#Substantiv #Feminin, [[Zweitstimme]], [[Erststimme]], [[Stimmabgabe]], [[Wählerstimmen]], [[zustimmen]]
+#Substantiv #Feminin, [[Zweitstimme]], [[Erststimme]], [[Stimmabgabe]], [[Wählerstimmen]], [[zustimmen]], [[abstimmen]]

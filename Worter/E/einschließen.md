@@ -34,4 +34,4 @@ Morpheme: [[ein]][[schließ]][[en]]
 Partizip I: [[einschließend]], Partizip II: [[eingeschlossen]]
 
 [[einschließen]] - [[ein]] = [[schließen]], [[hineingezogen]]
-, [[einschließlich]]
+, [[einschließlich]], [[umgeben]]

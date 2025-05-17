@@ -24,4 +24,4 @@ considerable, substantial
 Adjektive: [[beträchtlich]], [[beträchtlicher]], [[beträchtlichst]]
 
 ---
-[[beträchtlicher]], [[beträchtliches]], [[beträchtliche]], [[beträchtlichen]], [[beträchtlichem]], [[beträchtlicherer]], [[beträchtlicheres]], [[beträchtlichere]], [[beträchtlicheren]], [[beträchtlicherem]], [[beträchtlichster]], [[beträchtlichstes]], [[beträchtlichste]], [[beträchtlichsten]], [[beträchtlichstem]]
+[[beträchtlicher]], [[beträchtliches]], [[beträchtliche]], [[beträchtlichen]], [[beträchtlichem]], [[beträchtlicherer]], [[beträchtlicheres]], [[beträchtlichere]], [[beträchtlicheren]], [[beträchtlicherem]], [[beträchtlichster]], [[beträchtlichstes]], [[beträchtlichste]], [[beträchtlichsten]], [[beträchtlichstem]], [[weitaus]]

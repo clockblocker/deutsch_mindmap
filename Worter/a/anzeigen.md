@@ -3,6 +3,9 @@
 ---
 dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
 
+*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
+
+
 *[[04-C1-Schreiben-T2-M#^15|^]]* Auf der Seite hundesitting.de finden Sie [[zahlreiche]] [[Anzeige]] von Menschen, die diese [[Aufgabe]] gegen [[Bezahlung]] übernehmen. ^15
 
 

@@ -2,7 +2,7 @@
 die [[Erklärungen]]
 
 ---
-Erklärung
+→ In Buch 1 wird [[zwar]] [[dargestellt]], dass die Mieten steigen, aber *keine* [[Erklärung]] zur [[Marktwirtschaft]] gegeben.
 
 ---
 = [[Erläuterung]], [[Auslegung]], [[Definition]]
@@ -62,3 +62,5 @@ A: die [[Erklärung]], die [[Erklärungen]]
 G: der [[Erklärung]], der [[Erklärungen]]
 D: der [[Erklärung]], den [[Erklärungen]]
 , [[Entzifferung]]
+
+#Feminin 

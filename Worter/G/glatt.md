@@ -1,1 +1,1 @@
-[[seidig]], [[eben]], [[scharfen]], [[pelzig]], [[wuschelig]], [[ungebügelt]], [[Schnurrbart]], [[fließend]]
+[[seidig]], [[eben]], [[scharfen]], [[pelzig]], [[wuschelig]], [[ungebügelt]], [[Schnurrbart]], [[fließend]], [[reibungslos]]

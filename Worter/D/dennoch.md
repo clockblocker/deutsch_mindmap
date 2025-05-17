@@ -3,6 +3,9 @@
 ---
 [[Dennoch]] [[erschwert]] neue Bürosituation meine Arbeit [[erheblich]].
 
+*[[C1-Lesen-T4-101-Text#^18|^]]* [[Dennoch]] sind Roboter in der Raumfahrt sehr wichtig. ^18
+
+
 *[[C1-Lesen-T4-100-Text#^30|^]]* Es scheint, dass die Mehrheit der [[Bevölkerung]] moderne Kunstwerke [[ablehnt]]; [[dennoch]] erreichen diese Werke einen hohen Geldwert. ^30
 
 

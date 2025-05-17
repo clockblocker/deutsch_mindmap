@@ -6,6 +6,9 @@ die [[Gebiete]]
 ---
 mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
 
+*[[C1-Lesen-T4-102-Text#^20|^]]* Letzteres vor allem durch die [[Spezialisierung]] der [[Drittfirmen]], denen bestimmte [[Dienstleistung]]en [[übertragen]] wurden, da sie ja im [[Normalfall]] Expertinnen und Experten auf dem [[entsprechenden]] [[Gebiet]] sind. ^20
+
+
 *[[C1-Lesen-T2-101-Text#^2|^]]* Dabei [[herausfinden|fanden]] sie heraus, dass der Mann [[womöglich]] von Sardinien [[stammte]] und seine [[Vorfahren]] über das [[Gebiet]] des heutigen Irans und über Anatolien nach Europa [[gelangt]] (1) [[waren]]. ^2
 
 

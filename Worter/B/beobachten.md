@@ -1,35 +1,52 @@
 ---> [[Ingredient-Pflege]] <---
-🕵️ [[beobachten]] + Akk, [bəˈʔoːbaxtən]
-[[beobachtete]]
-haben [[beobachtet]]
+
+👁️ [[beobachten]], [bəˈʔɔpˌʔaxtn̩](https://youglish.com/pronounce/beobachten/german) → [[beobachtete]] → [[beobachtet]]
 
 ---
 _Zuko [[beobachtet]] die Beiden mit einem Fernrohr._
 
----
-Synonyme: [[untersuchen]], [[analysieren]], [[überwachen]], [[wahrnehmen]], [[begutachten]]
-Antonyme: [[ignorieren]], [[übersehen]], [[vernachlässigen]]
+*[[C1-Hoehen-T1-200-Text#^9|^]]* Die seit Jahrzehnten zu [[beobachtenden]] [[steigenden]] Temperaturen haben [[dazu]] geführt, dass zahlreiche Pflanzen und Tiere zu den [[jeweilig]]en [[Polen]] der Erde [[wandern]] oder sich in [[tiefere]] [[Gewässer]] [[zurückziehen]]. ^9
 
----
-Übersetzung: to observe, to watch, to monitor
 
 ---
-Morpheme: [[be]][[obacht]][[en]]
- #Verb #Untrennbar
+= [[betrachten]], [[verfolgen]], [[achten]]
+≈ [[untersuchen]], [[prüfen]], [[studieren]]
+≠ [[ignorieren]], [[übersehen]], [[vermissen]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[beobachte]] | [[beobachtete]] | - | [[beobachte]] | [[beobachtete]] |
-| Du | [[beobachtest]] | [[beobachtetest]] | [[beobachte]] | [[beobachtest]] | [[beobachtetest]] |
-| Er/sie/es | [[beobachtet]] | [[beobachtete]] | - | [[beobachte]] | [[beobachtete]] |
-| Wir | [[beobachten]] | [[beobachteten]] | - | [[beobachten]] | [[beobachteten]] |
-| Ihr | [[beobachtet]] | [[beobachtetet]] | [[beobachtet]] | [[beobachtet]] | [[beobachtetet]] |
-| Sie | [[beobachten]] | [[beobachteten]] | [[beobachten Sie]] | [[beobachten]] | [[beobachteten]] |
+---
+to observe  
+наблюдать
 
-Partizip I: [[beobachtend]], Partizip II: [[beobachtet]]
-[[beobachten]] - [[be]] = [[obachten]]
+---
+[[Beobachtung]], [[Beobachter]], [[beobachtbar]]
 
-[[kontrollieren]], [[sehen]], [[gucken]], [[abwarten]], [[wachen]], [[blicken]]
+---
+[[be]]|[[obacht]]|[[en]]
+[[beobachten]]
 
 
-, [[aufsehen]], [[s1 e1]], [[hinüberspähen]], [[betrachten]], [[zugucken]], [[intervenieren]]
+---
+###### [[beobachten]] jN
+- Wen [[beobachtest]] du?
+- Die Vögel.
+
+- Was [[beobachten]] wir?
+- Den Sonnenuntergang.
+
+- Wie lange [[hast]] du sie [[beobachtet]]?
+- Den ganzen Tag.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[beobachte]], [[beobachtete]], [[beobachte]], [[beobachtete]], -
+du, [[beobachtest]], [[beobachtetest]], [[beobachtest]], [[beobachtetest]], [[beobachte]]
+er, [[beobachtet]], [[beobachtete]], [[beobachte]], [[beobachtete]], -
+wir, [[beobachten]], [[beobachteten]], [[beobachten]], [[beobachteten]], [[beobachten]]
+ihr, [[beobachtet]], [[beobachtet]], [[beobachtet]], [[beobachtet]], [[beobachtet]]
+sie, [[beobachten]], [[beobachteten]], [[beobachten]], [[beobachteten]], [[beobachten]]
+
+*Zu + Inf*: zu [[beobachten]], *P2*: [[beobachtet]]
+Adjektive: [[beobachtend]], [[beobachtender]], [[beobachtendst]]
+
+---
+[[beobachtender]], [[beobachtendes]], [[beobachtende]], [[beobachtenden]], [[beobachtendem]], [[beobachtenderer]], [[beobachtenderes]], [[beobachtendere]], [[beobachtenderen]], [[beobachtenderem]], [[beobachtendster]], [[beobachtendstes]], [[beobachtendste]], [[beobachtendsten]], [[beobachtendstem]]

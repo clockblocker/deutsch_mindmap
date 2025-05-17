@@ -1,1 +1,1 @@
-, [[verbieten]], [[verursachen]], [[verhindern]]
+, [[verbieten]], [[verursachen]], [[verhindern]], [[eindämmen]]

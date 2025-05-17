@@ -29,4 +29,4 @@ PI: [[verstummend]], PII: [[verstummt]], Zu+inf: [[zu verstummen]]
 
 ---
 [[Verstummen]], [[Stummheit]], [[stumm]]
-, [[brausen]], [[ticken]]
+, [[brausen]], [[ticken]], [[reagieren]]

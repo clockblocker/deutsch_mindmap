@@ -1,7 +1,7 @@
 🤝 🔵 der [[Auftraggeber]], [ˈaʊ̯ftʁaːkˌɡeːbɐ](https://youglish.com/pronounce/Auftraggeber/german)
 
 ---
-28 Es besteht die [[Gefahr]] eines [[Imageschadens]] des [[Auftraggebers]].
+28 Es besteht die [[Gefahr]] eines [[Imageschaden]]s des [[Auftraggeber]]s. 
 
 ---
 = [[Kunde]], [[Besteller]], [[Klient]]
@@ -26,4 +26,4 @@ A: den [[Auftraggeber]], die [[Auftraggeber]]
 G: des [[Auftraggebers]], der [[Auftraggeber]]
 D: dem [[Auftraggeber]], den [[Auftraggebern]]
 
-#Maskulin , [[Vertreter]]
+#Maskulin , [[Vertreter]], [[auftraggeben]]

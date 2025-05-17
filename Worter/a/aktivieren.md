@@ -1,1 +1,1 @@
-, [[anmachen]], [[Hochfahren]], [[anregen]], [[abschalten]]
+, [[anmachen]], [[Hochfahren]], [[anregen]], [[abschalten]], [[einschalten]]

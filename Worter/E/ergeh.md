@@ -1,1 +1,1 @@
-, [[ergehen]]
+, [[ergehen]], [[Wohlergehen]]

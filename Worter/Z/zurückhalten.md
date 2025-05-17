@@ -1,3 +1,3 @@
 ---> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
 
-, [[weitergeben]], [[Verabreichen]]
+, [[weitergeben]], [[Verabreichen]], [[unterbreiten]], [[übertragen]]

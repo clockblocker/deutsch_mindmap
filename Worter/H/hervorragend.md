@@ -3,6 +3,7 @@
 🌟 [[hervorragend]], [ɛɐ̯vɔʁˈʁaːgnt]
 
 ---
+*[[C1-Lesen-T4-101-Text#^19|^]]* Mensch und Roboter können sich [[hervorragend]] [[ergänzen]]. ^19
 
 
 ---

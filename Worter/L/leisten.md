@@ -3,9 +3,11 @@
 ---
 Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
-[[0 checklist#^5|(q)]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]. ^5
+*[[C1-Lesen-T4-101-Text#^23|^]]* Roboter können aber auch [[gezielte]] [[Vorarbeit]] [[leisten]], bevor eine bemannte Mission zum Mars oder zum Mond startet.
 
-[[2 Unter Druck nach oben#^22|(q)]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat. ^22
+[[0 checklist#^5|(q)]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]
+
+[[2 Unter Druck nach oben#^22|(q)]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat.
 
 Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[leisten]] und [[genießt]] das Leben. So stellen sich manche Leute das Leben in Frankreich vor. 
 
@@ -39,4 +41,4 @@ Zu+infinitive: [[zu leisten]]
 ---
 [[Leistung]], [[Leistungsträger]], [[Leistungsfähigkeit]], [[Leistungssport]], [[Selbstleistung]]
 
-, [[vorstellen]], [[anlegen]], [[Reparationsleistung]], [[erfüllen]]
+, [[vorstellen]], [[anlegen]], [[Reparationsleistung]], [[erfüllen]], [[übernehmen]], [[Dienstleistung]]

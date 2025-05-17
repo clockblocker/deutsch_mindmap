@@ -1,2 +1,2 @@
 , [[bestrafen]], [[vorwerfen]]
-, [[verzeihen]]
+, [[verzeihen]], [[rechtfertigen]]

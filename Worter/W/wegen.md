@@ -1,5 +1,8 @@
 [[wegen]] meiner Krankheit arbeite ich nicht. 
 
+*[[C1-Lesen-T4-102-Text#^17|^]]* Sollten dann bestimmte Bereiche noch ins [[Ausland]] [[verlagert]] werden, [[wegen]] eines [[niedrigeren]] [[Lohnniveaus]] und einer billigeren [[Güterproduktion]], [[entsteht]] gegenüber [[einheimischen]] Firmen ein klarer [[Exportvorteil]], was zu einem [[ungleich]]en Wettbewerb schafft. ^17
+
+
 *[[06-C1-Schreiben-T2-M#^1|^]]* Die [[Kantine]] Ihrer Firma soll nun für zwei Monate [[wegen]] [[Umbauarbeiten]] schließen. ^1
 
 

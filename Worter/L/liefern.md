@@ -5,11 +5,11 @@
 ---
 Teamleiter [[liefert]] wichtige [[Unterlagen]] für eine Präsentation nicht [[rechtzeitig]].
 
-*[[032-C1-Schreiben-T2#^7|^]]* [[Wiedergutmachung]]: bestelltes [[Büfett]] mit 20% [[Rabatt]] [[erneut]] [[liefern]], falsch [[geliefertes]] Büfett nicht bezahlen ^7
+*[[C1-Hoehen-T1-200-Text#^17|^]]* Die Autorin erklärt, wie der Wald den [[Wasserkreislauf]] reguliert, der Atmosphäre [[Kohlendioxid]] [[entzieht]] und der Umwelt – und somit auch dem Menschen – [[Sauerstoff]] und [[Nahrung]] [[liefert]].
 
+*[[032-C1-Schreiben-T2#^7|^]]* [[Wiedergutmachung]]: bestelltes [[Büfett]] mit 20% [[Rabatt]] [[erneut]] [[liefern]], falsch [[geliefertes]] Büfett nicht bezahlen
 
-*[[C1-Lesen-T1-000-Text#^8|^]]* Dann wird ein Beobachtungsroboter ins Wasser gelassen, der [[Nahaufnahmen]] des Meeresbodens [[liefert]]. ^8
-
+*[[C1-Lesen-T1-000-Text#^8|^]]* Dann wird ein Beobachtungsroboter ins Wasser gelassen, der [[Nahaufnahmen]] des Meeresbodens [[liefert]].
 
 
 ---

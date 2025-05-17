@@ -1,1 +1,1 @@
-, [[fallen]], [[auffallen]], [[ausfallen]], [[anfallen]]
+, [[fallen]], [[auffallen]], [[ausfallen]], [[anfallen]], [[zurückfallen]]

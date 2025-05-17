@@ -1,1 +1,1 @@
-, [[Antrag]], [[bitten]], [[auffordern]], [[Petition]]
+, [[Antrag]], [[bitten]], [[auffordern]], [[Petition]], [[appellieren]]

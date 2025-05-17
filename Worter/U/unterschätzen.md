@@ -1,7 +1,7 @@
 🔍 [[unterschätzen]], [ˈʊntɐʃɛtsn̩] | [[unterschätzte]], haben [[unterschätzt]]
 
 ---
-Midorima to Taiga: Aber unterschätz mich nicht
+Midorima to Taiga: Aber [[unterschätz]] mich nicht
 
 0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]. ✅ a
 

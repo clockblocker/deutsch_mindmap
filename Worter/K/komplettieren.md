@@ -1,1 +1,1 @@
-, [[ergänzen]], [[Vervollständigen]]
+, [[ergänzen]], [[Vervollständigen]], [[komplett]]

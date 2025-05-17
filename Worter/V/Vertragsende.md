@@ -1,1 +1,1 @@
-, [[Kündigungsfrist]]
+, [[Kündigungsfrist]], [[Vertragslaufzeit]]

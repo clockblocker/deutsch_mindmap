@@ -6,6 +6,8 @@
 ---
 [[grundlegend]] = [[grundsätzlich]] = [[zugrundeliegende]] = [[wesentlich]] = [[bedeutend]]
 
+Natürlich ist es [[wesentlich]] [[kostengünstiger]], die [[Erkundung]] von Planeten mit Robotern zu [[betreiben]].
+
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^3|^]]* Dennoch gibt es auch [[wesentliche]] Nachteile, die sowohl für Arbeitnehmer als auch für Arbeitgeber ins [[Gewicht]] fallen können. ^3
 
 

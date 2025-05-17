@@ -49,4 +49,4 @@ sie, [[verzögern]], [[verzögerten]], [[verzögern]], [[verzögerten]], [[verz�
 Adjektive: [[verzögernd]], [[verzögernder]], [[verzögerndst]]
 
 ---
-[[verzögernder]], [[verzögerndes]], [[verzögernde]], [[verzögernden]], [[verzögerndem]], [[verzögernderer]], [[verzögernderes]], [[verzögerndere]], [[verzögernderen]], [[verzögernderem]], [[verzögerndster]], [[verzögerndstes]], [[verzögerndste]], [[verzögerndsten]], [[verzögerndstem]], [[bremsen]]
+[[verzögernder]], [[verzögerndes]], [[verzögernde]], [[verzögernden]], [[verzögerndem]], [[verzögernderer]], [[verzögernderes]], [[verzögerndere]], [[verzögernderen]], [[verzögernderem]], [[verzögerndster]], [[verzögerndstes]], [[verzögerndste]], [[verzögerndsten]], [[verzögerndstem]], [[bremsen]], [[forcieren]]

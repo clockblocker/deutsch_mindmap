@@ -30,4 +30,4 @@ D: der [[Gerechtigkeit]], den [[Gerechtigkeiten]]
 , [[Aufgabengerechtigkeit]], [[Menschenrecht]], [[frühkindlich]]
 
 
-#Feminin 
+#Feminin , [[Sozialdumping]]

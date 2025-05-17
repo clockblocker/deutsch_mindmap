@@ -32,3 +32,4 @@ P: [[erforderlichen]], [[erforderlicheren]], [[erforderlichsten]]
 
 ---
 -
+, [[unumgänglich]]

@@ -7,6 +7,8 @@ die [[Schutze]] oder [[Schutzarten]]
 *[[001-C1-Schreiben-T1#^2|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt. ^2
 
 
+*[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnungen]]. ^19
+
 
 Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es [[zahlreiche]] persönliche [[Maßnahmen]] zum [[Schutz]] der [[Umwelt]] gibt.
 
@@ -40,4 +42,4 @@ D: dem [[Schutz]], den [[Schutzen]]
 , [[Versicherung]], [[Asyl]], [[Folter]], [[Kündigungsschutzklage]], [[Erhaltung]], [[Überfall]], [[Verfolgung]], [[Unantastbarkeit]], [[Vorbeugung]], [[Erhalt]], [[Stadtmauer]], [[Notfallschutz]]
 
 
-#Maskulin , [[Datenschutz]], [[Geborgenheit]], [[Klimaschutz]]
+#Maskulin , [[Datenschutz]], [[Geborgenheit]], [[Klimaschutz]], [[Mieterschutz]]

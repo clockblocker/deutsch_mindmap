@@ -1,1 +1,1 @@
-[[üben]], [[ausüben]], [[weiterüben]], [[anwenden]], [[befolgen]], [[handhaben]]
+[[üben]], [[ausüben]], [[weiterüben]], [[anwenden]], [[befolgen]], [[handhaben]], [[betreiben]]

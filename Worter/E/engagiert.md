@@ -1,2 +1,2 @@
 , [[faul]], [[tätig]], [[lustlos]]
-, [[zielstrebig]], [[unbeteiligt]]
+, [[zielstrebig]], [[unbeteiligt]], [[eingefleischt]]

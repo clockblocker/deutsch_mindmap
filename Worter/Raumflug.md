@@ -4,6 +4,8 @@ die [[Raumflüge]]
 ---
 25 Aus Kostengründen sollte man unbemannte [[Raumflüge]] [[bevorzugen]].  a
 
+*[[C1-Lesen-T4-101-Text#^4|^]]* Würde man dieses Geld bei [[rein]] robotischen Missionen [[verwenden]], könnte man ungleich mehr wissenschaftliche [[Ergebnis]]se [[erzielen]] als bei bemannten [[Raumflügen]]. ^4
+
 ---
 = [[Weltraumflug]], [[Orbitflug]]
 ≈ [[Flug]], [[Reise]], [[Expedition]]

@@ -6,8 +6,8 @@
 
 *200 - 2023 Prüfungstraining*
 - [ ] [[C1-Hoehen-T1-200-Text|200]]
-- [ ] [[C1-Hoehen-T1-201-Text|201]]
-- [ ] [[C1-Hoehen-T1-202-Text|202]]
+- [ ] [[C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-201/C1-Hoehen-T1-201-Text|201]]
+- [ ] [[C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-202/C1-Hoehen-T1-202-Text|202]]
 - [ ] [[C1-Hoehen-T1-203-Text|203]]
 
 *300 - 2023 Prüfungs Express*

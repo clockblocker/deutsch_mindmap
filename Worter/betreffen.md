@@ -1,4 +1,4 @@
-🎯 [[betreffen]], [bəˈtʁɛfən] | [[betraf]], haben [[betroffen]]
+🎯 [[betreffen]], [bəˈtʁɛfən] | [[betraf]], haben [[Betroffen]]
 
 ---
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
@@ -33,7 +33,7 @@ Wir: [[betreffen]], [[betrafen]], -, [[betreffen]], [[beträfen]]
 Ihr: [[betrefft]], [[befraft]], [[betrefft]], [[betreffet]], [[beträfet]]  
 
 Partizip I: [[betreffend]], 
-Partizip II: [[betroffen]]
+Partizip II: [[Betroffen]]
 Zu+infinifive: [[zu betreffen]]
 
 [[betreffen]] - [[be]] = [[treffen]] / to concern, to affect, to touch

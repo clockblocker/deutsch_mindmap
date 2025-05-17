@@ -1,3 +1,3 @@
 --> [[⛪ Ingredient-Plazt]] <---
 
-, [[Entstehung]]
+, [[Entstehung]], [[Vernichtung]]

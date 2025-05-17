@@ -1,1 +1,1 @@
-, [[Essenswagen]], [[Essenwagen]]
+, [[Essenswagen]], [[Essenwagen]], [[Essensversorgung]]

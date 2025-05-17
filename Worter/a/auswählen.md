@@ -51,4 +51,4 @@ sie, [[wählen aus]], [[wählten aus]], [[wählen aus]], [[wählten aus]], [[wä
 Adjektive: [[auswählend]], [[auswählender]], [[auswählendst]]
 
 ---
-[[auswählender]], [[auswählendes]], [[auswählende]], [[auswählenden]], [[auswählendem]], [[auswählenderer]], [[auswählenderes]], [[auswählendere]], [[auswählenderen]], [[auswählenderem]], [[auswählendster]], [[auswählendstes]], [[auswählendste]], [[auswählendsten]], [[auswählendstem]]
+[[auswählender]], [[auswählendes]], [[auswählende]], [[auswählenden]], [[auswählendem]], [[auswählenderer]], [[auswählenderes]], [[auswählendere]], [[auswählenderen]], [[auswählenderem]], [[auswählendster]], [[auswählendstes]], [[auswählendste]], [[auswählendsten]], [[auswählendstem]], [[abstimmen]]

@@ -1,6 +1,12 @@
 💰 [[bezahlen]], [bəˈtsaːlən] | [[bezahlte]], haben [[bezahlt]]
 
 ---
+*[[C1-Hoehen-T1-100-Text#^9|^]]* Das zweite Buch *Der Wandel der Städte* von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwacher]] [[Bevölkerungsgruppen]] aus ihren [[Stadtteilen]], da sie die Mieten nicht mehr [[bezahlen]] können. ^9
+
+
+*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
+
+
 97. Was [[bezahlt]] man in Deutschland automatisch, wenn man [[fest]] [[angestellt]] ist? (96%)
 	- [x] [[Sozialversicherung]]
 

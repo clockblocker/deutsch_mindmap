@@ -4,6 +4,9 @@
 ---
 Lauras Traum war es schon immer, ein Haus mit Garten zu haben. 20 Jahre lang [[legte an|legte]] sie ihr Geld in Aktien an, um sich ein Haus [[Leisten]] zu können. 
 
+*[[C1-Hoehen-T1-200-Text#^5|^]]* Seine [[Wahrnehmung]] der Natur verändert sich und aus einem [[einstigen]] [[Leugner]] des Klimawandels wird ein ganz [[passabler]] Naturschützer, der sich auch mal mit [[Ignoranten]] aus der Stadt [[anlegt]].
+
+
 ---
 Synonyme: [[anbinden]], [[befestigen]], [[festmachen]], [[andocken]], [[landen]]
 Antonyme: [[ablegen]], [[losfahren]], [[abfahren]]

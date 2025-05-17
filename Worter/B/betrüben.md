@@ -1,1 +1,1 @@
-[[freuen]], [[vergnügen]], [[unterhalten]]
+[[freuen]], [[vergnügen]], [[unterhalten]], [[enttäuschen]]

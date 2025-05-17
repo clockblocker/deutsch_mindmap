@@ -32,4 +32,4 @@ PI: [[abziehend]], PII: [[abgezogen]], Zu+inf: [[abzuziehen]]
 
 ---
 [[Abzug]], [[Abzieher]], [[Abziehung]], [[abziehbar]], [[Abzugshaube]]
-, [[Punktabzug]]
+, [[Punktabzug]], [[zurückziehen]], [[entziehen]]

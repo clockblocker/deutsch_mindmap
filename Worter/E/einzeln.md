@@ -5,6 +5,9 @@
 ---
 Ich spreche jedes Wort [[einzeln]].
 
+*[[C1-Lesen-T4-102-Text#^19|^]]* Outsourcing, bei dem [[entweder]] [[einzeln]]e [[Arbeitsschritte]] oder gar [[komplett]]e [[Bereich]]e und [[Abteilung]]en eines Unternehmens an eine andere Firma [[ausgelagert]] werden, hat natürlich [[Kosteneinsparung]] und [[Qualitätssteigerung]] zum Ziel, was für den heutigen globalen [[Wettbewerb]] [[unumgänglich]] ist. ^19
+
+
 ---
 = [[individuell]], [[separat]], [[gesondert]]
 ≈ [[allein]], [[alleinstehend]], [[vereinzelt]], [[einziger]]

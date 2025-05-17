@@ -30,4 +30,4 @@ PI: [[aussteigend]], PII: [[ausgestiegen]], Zu+inf: [[auszusteigen]]
 
 ---
 [[Ausstieg]], [[Steig]], [[steigen]]
-, [[antreten]]
+, [[antreten]], [[Aussteiger]]

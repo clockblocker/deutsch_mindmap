@@ -4,6 +4,9 @@
 *[[C1-Lesen-T2-102-Text#^9|^]]* Klar ist allerdings jetzt schon, dass diese Schnecken [[verwandte]] Arten (5) [[verdrängen]] . ^9
 
 
+*[[C1-Hoehen-T1-100-Text#^4|^]]* [[Immobilienpreise]] und [[Mieten]] steigen, viele Mieterinnen und Mieter können das nicht mehr bezahlen und werden [[verdrängt]]. ^4
+
+
 ---
 = [[verdrängen]], [[ausschließen]], [[verdrängen]]
 ≈ [[ersetzen]], [[verdrängen]], [[verdrängen]]

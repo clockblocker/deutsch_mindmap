@@ -46,4 +46,4 @@ sie, [[handhaben]], [[handhabten]], [[handhaben]], [[handhabten]], [[handhaben]]
 Adjektive: [[handhabend]], [[handhabender]], [[handhabendst]]
 
 ---
-[[handhabender]], [[handhabendes]], [[handhabende]], [[handhabenden]], [[handhabendem]], [[handhabenderer]], [[handhabenderes]], [[handhabendere]], [[handhabenderen]], [[handhabenderem]], [[handhabendster]], [[handhabendstes]], [[handhabendste]], [[handhabendsten]], [[handhabendstem]]
+[[handhabender]], [[handhabendes]], [[handhabende]], [[handhabenden]], [[handhabendem]], [[handhabenderer]], [[handhabenderes]], [[handhabendere]], [[handhabenderen]], [[handhabenderem]], [[handhabendster]], [[handhabendstes]], [[handhabendste]], [[handhabendsten]], [[handhabendstem]], [[betreiben]]

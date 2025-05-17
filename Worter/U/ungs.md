@@ -1,1 +1,1 @@
-, [[Einwanderungsstopp]], [[Besatzungszone]], [[Besatzungsmacht]], [[Verteidigungspolitik]], [[beziehungsweise]]
+, [[Einwanderungsstopp]], [[Besatzungszone]], [[Besatzungsmacht]], [[Verteidigungspolitik]], [[beziehungsweise]], [[reibungslos]]

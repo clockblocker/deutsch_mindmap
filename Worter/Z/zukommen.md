@@ -30,4 +30,4 @@ Zu+infinifive: [[zuzukommen]]
 [[zukommen]] auf sie [[zu]] = [[kommen]]
 
 ---
-[[Zukommen]], [[Annäherung]], [[Näherkommen]], [[neulich]], [[zukünftig]]
+[[Zukommen]], [[Annäherung]], [[Näherkommen]], [[neulich]], [[zukünftig]], [[zustehen]]

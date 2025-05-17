@@ -1,1 +1,1 @@
-, [[Anwalt]], [[Richter]]
+, [[Anwalt]], [[Richter]], [[juristisch]]

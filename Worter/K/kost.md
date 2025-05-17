@@ -91,4 +91,4 @@ G: der [[Kost]], der [[Kosten]]
 D: der [[Kost]], den [[Kosten]]
 
 
-#Feminin 
+#Feminin , [[Futter]]

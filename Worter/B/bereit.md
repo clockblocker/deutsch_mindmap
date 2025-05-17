@@ -33,4 +33,4 @@ Einzigartige mögliche Formen:
 [[bereiter]], [[bereiterer]], [[bereitere]], [[bereiteres]], [[bereitereren]], [[bereiterem]], [[bereiterer]], [[bereitereren]]
 [[bereitesten]], [[bereitester]], [[bereiteste]], [[bereitestes]], [[bereitesten]], [[bereitstem]], [[bereitester]], [[bereitesten]], [[erledigt]], [[vorbereiten]], [[s1 e1]]
 , [[einverstanden]]
-, [[verfügbar]], [[Lernbereitschaft]], [[Risikobereitschaft]], [[hilfsbereit]], [[Wegbereiter]], [[bereitstellen]], [[Vorbereitung]], [[griffbereit]]
+, [[verfügbar]], [[Lernbereitschaft]], [[Risikobereitschaft]], [[hilfsbereit]], [[Wegbereiter]], [[bereitstellen]], [[Vorbereitung]], [[griffbereit]], [[unterbreiten]]

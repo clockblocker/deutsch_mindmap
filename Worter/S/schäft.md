@@ -1,1 +1,1 @@
-, [[schäftigen]], [[Zoogeschäft]]
+, [[schäftigen]], [[Zoogeschäft]], [[Kerngeschäft]]

@@ -4,6 +4,8 @@ nicht [[abstrakt]]
 ---
 Doch kein anderes Museum stellt das Leben und Aufwachsen in der DDR auf eine so [[anschauliche]] Weise dar.
 
+*[[C1-Hoehen-T1-200-Text#^11|^]]* Die Biologin Jawara zeigt beispielsweise [[anschaulich]], was passiert, wenn [[Zugvögel]] an ihrem Standort bleiben, aber im Winter kein [[Futter]] mehr finden können. ^11
+
 
 ---
 Synonyme: [[illustrativ]], [[bildlich]], [[konkret]], [[verständlich]], [[deutlich]]

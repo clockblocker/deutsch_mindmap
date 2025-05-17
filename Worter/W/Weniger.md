@@ -30,4 +30,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[weniger]], [[wenigere]], [[wenigeres]], [[wenigeren]], [[wenigerem]], [[wenigerer]], [[wenigeren]]
-[[am wenigsten]], [[wenigste]], [[wenigster]], [[wenigstes]], [[wenigsten]], [[wenigstem]], [[wenigster]], [[wenigsten]], [[bald]]
+[[am wenigsten]], [[wenigste]], [[wenigster]], [[wenigstes]], [[wenigsten]], [[wenigstem]], [[wenigster]], [[wenigsten]], [[bald]], [[weitaus]]

@@ -1,1 +1,2 @@
 🔥 [[Waldbrand]] | 🔴 die [[Waldbrände]] 🔥
+, [[Rodung]]

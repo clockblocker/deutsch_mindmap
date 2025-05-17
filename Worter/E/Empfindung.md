@@ -1,1 +1,1 @@
-, [[Gefühl]], [[Eindruck]], [[Bewusstsein]], [[Stimmung]], [[empfinden]]
+, [[Gefühl]], [[Eindruck]], [[Bewusstsein]], [[Stimmung]], [[empfinden]], [[Wahrnehmung]]

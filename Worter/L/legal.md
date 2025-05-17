@@ -49,4 +49,4 @@ legal
 Adjektive: [[legal]], [[legaler]], [[legalst]]
 
 ---
-[[legaler]], [[legales]], [[legale]], [[legalen]], [[legalem]], [[legalerer]], [[legaleres]], [[legalere]], [[legaleren]], [[legalerem]], [[legalster]], [[legalstes]], [[legalste]], [[legalsten]], [[legalstem]]
+[[legaler]], [[legales]], [[legale]], [[legalen]], [[legalem]], [[legalerer]], [[legaleres]], [[legalere]], [[legaleren]], [[legalerem]], [[legalster]], [[legalstes]], [[legalste]], [[legalsten]], [[legalstem]], [[juristisch]]

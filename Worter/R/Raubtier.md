@@ -1,2 +1,2 @@
 
-, [[Kaninchen]]
+, [[Kaninchen]], [[Waschbär]]

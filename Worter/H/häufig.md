@@ -5,6 +5,9 @@
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 
+*[[C1-Lesen-T4-101-Text#^2|^]]* Andererseits ist das [[häufig]] [[erwähnte]] Argument, dass beispielsweise Geologinnen und Geologen vor Ort nicht zu [[ersetzen]] seien, nicht von der Hand zu weisen. ^2
+
+
 a) Die [[Betroffenen]] haben im Alter [[häufig]] Herzprobleme und Diabetes. 
 
 

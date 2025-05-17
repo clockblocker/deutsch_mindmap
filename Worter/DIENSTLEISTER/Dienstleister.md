@@ -1,1 +1,1 @@
-, [[Auftraggeber]], [[Anbieter]]
+, [[Auftraggeber]], [[Anbieter]], [[Drittfirma]], [[Dienstleistung]], [[Fremdfirma]]

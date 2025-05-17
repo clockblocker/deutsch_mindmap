@@ -15,7 +15,7 @@ Aber dem wird sie die Suppe schon noch versalzen! Beim nächsten Termin mit ihre
 Und fragt dann ganz freundlich: „Bastian, wie ist denn deine [[Meinung]] dazu?“ 
 Bastian [[zögert]]: „Ähm, also … ja, darüber muss ich mal [[nachdenken]].“ 
  
- Als Lena abends nach Hause geht, hat sie die [[Projektleitung]] in der Tasche. Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen]] [[sammeln]], [[meint]] der Chef.
+ Als Lena abends nach Hause geht, hat sie die [[Projektleitung]] in der Tasche. Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrung]]en [[sammeln]], [[meint]] der Chef.
 
 https://learngerman.dw.com/de/jemandem-die-suppe-versalzen/l-19368370/lm
 

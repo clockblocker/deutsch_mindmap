@@ -1,1 +1,1 @@
-, [[schrecken]], [[ängstlich]], [[abschrecken]]
+, [[schrecken]], [[ängstlich]], [[abschrecken]], [[bedrohen]]

@@ -3,6 +3,9 @@
 ---
 Lena hat einen neuen Kollegen: Bastian. Ihr Chef ist [[begeistert]] von Bastians Qualifikationen: Studium an einer teuren Privatuniversität, Auslandserfahrung, sehr gute Englischkenntnisse.
 
+*[[C1-Hoehen-T1-200-Text#^22|^]]* Ich hoffe, ich konnte euch für [[mindestens]] ein Buch [[begeistern]]. ^22
+
+
 Den werden wir für unsere Räder [[begeistern]] können
 
 ---

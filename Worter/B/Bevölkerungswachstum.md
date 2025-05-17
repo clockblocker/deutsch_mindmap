@@ -1,1 +1,1 @@
-, [[Bevölkerung]], [[Geburtenrate]]
+, [[Bevölkerung]], [[Geburtenrate]], [[Bevölkerungsstruktur]]

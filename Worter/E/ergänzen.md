@@ -5,6 +5,9 @@
 ---
  [[Ergänze]] die richtige Präposition
 
+*[[C1-Lesen-T4-101-Text#^19|^]]* Mensch und Roboter können sich [[hervorragend]] [[ergänzen]]. ^19
+
+
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^7|^]]* Um die Vorteile beider Büro- und Homeoffice-Arbeit sinnvoll zu kombinieren, sollten Unternehmen hybride Modelle etablieren, in denen digitale Meetings mit regelmäßig geplanten persönlichen Treffen [[ergänzt]] werden. ^7
 
 

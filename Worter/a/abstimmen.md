@@ -1,6 +1,9 @@
 👍 [[abstimmen]], [ˈapʃtɪmən](https://youglish.com/pronounce/abstimmen/german) → [[stimmte ab]] → [[abgestimmt]]
 
 ---
+*[[C1-Lesen-T4-102-Text#^21|^]]* Allerdings steigt dadurch auch der [[Kommunikationsaufwand]], da sich ja die [[verschiedenen]] Unternehmen gut [[untereinander]] [[abstimmen]] müssen. ^21
+
+
 [[Zielabstimmung]]
 
 ---

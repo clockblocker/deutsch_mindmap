@@ -14,4 +14,4 @@ Synonyme:
 **Übersetzung**: thirst
 
 ---
-#Substantiv #Maskulin, [[Geschmack]], [[11 08]], [[dürsten]]
+#Substantiv #Maskulin, [[Geschmack]], [[11 08]], [[dürsten]], [[Nahrung]]

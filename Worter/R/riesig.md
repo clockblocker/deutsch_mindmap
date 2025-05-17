@@ -1,7 +1,12 @@
+---> 🧱[[Grad-Gewicht]] <---
+
 [[riesig]]
 
 ---
 NIC: … und [[zwar]] jeden Abend … um Punkt sechs, vor einem [[riesigen]] [[Publikum]]!  
+
+*[[C1-Lesen-T4-101-Text#^3|^]]* Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]. ^3
+
 
 *[[Golfstorm#^9|^]]* Die AMOC funktioniert wie eine Art [[riesiges]] globales [[Förderband]]: Sie transportiert warmes, sehr salziges Wasser aus den [[Tropen]] [[Richtung]] [[nördlicher]] [[Polarkreis]], wo das Wasser [[abkühlt]] und [[wegen]] seiner größeren [[Dichte]] [[absinkt]]. ^9
 

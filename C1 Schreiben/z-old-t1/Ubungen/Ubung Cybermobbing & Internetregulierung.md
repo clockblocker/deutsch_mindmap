@@ -26,6 +26,6 @@
 
 ###### #GPT Cybermobbing – ein gesellschaftliches Problem?
   - Erklären Sie, was unter Cybermobbing verstanden wird und wer betroffen ist.
-  - Nennen Sie Gründe, warum Täter*innen online oft ungestraft bleiben.
+  - Nennen Sie Gründe, warum Täter:innen online oft ungestraft bleiben.
   - Diskutieren Sie, welche Verantwortung Schulen, Eltern und Plattformen tragen.
   - Machen Sie Vorschläge, wie man Jugendliche für die Risiken des Internets sensibilisieren kann.

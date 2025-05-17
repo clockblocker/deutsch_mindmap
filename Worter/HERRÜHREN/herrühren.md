@@ -1,1 +1,1 @@
-, [[entstammen]]
+, [[entstammen]], [[stammen]]

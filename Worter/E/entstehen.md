@@ -1,9 +1,62 @@
-🤔 [[entstehen]], [ɛntˈʃteːən] | [[entstand]], haben [[entstanden]]
+🌌 [[entstehen]], [ɛntˈʃteːən](https://youglish.com/pronounce/entstehen/german) → [[entstand]] → sein [[entstanden]]
 
 ---
 [[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
 
 
+*[[C1-Lesen-T4-102-Text#^17|^]]* Sollten dann bestimmte Bereiche noch ins [[Ausland]] [[verlagert]] werden, wegen eines [[niedrigeren]] [[Lohnniveaus]] und einer billigeren [[Güterproduktion]], [[entsteht]] gegenüber [[einheimischen]] Firmen ein klarer [[Exportvorteil]], was zu einem [[ungleich]]en Wettbewerb schafft.
+
+*[[C1-Lesen-T4-101-Text#^3|^]]* Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]. ^3
+
+
+*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
+
+
+*[[C1-Lesen-T4-101-Text#^3|^]]* Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]. ^3
+
+
+---
+= [[sich bilden]], [[auftreten]], [[erscheinen]]
+≈ [[wachsen]], [[werden]], [[geschehen]], [[passieren]]
+≠ [[verschwinden]], [[vergehen]], [[zerfallen]]
+
+---
+to arise, to originate, to emerge  
+возникать, появляться
+
+---
+[[Entstehung]], [[entstanden]], [[entstehend]], [[Entstehungsgeschichte]]
+
+---
+[[in]] [[all]] [[entsteh]]|[[en]]
+[[in]] + [[All]] + [[entstehen]]
+
+
+---
+###### [[entstehen]]
+- Wo [[entsteht]] das?
+- Im Weltall.
+
+- Was [[entsteht]] hier?
+- Ein neues Problem.
+
+- Wie [[ist]] das [[entstanden]]?
+- Durch einen Zufall.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[entsteh]] / [[entstehe]], [[entstand]], [[entstehe]], [[entstände]], -
+du, [[entstehst]], [[entstandst]], [[entstehest]], [[entständest]], [[entsteh]] / [[entstehe]]
+er, [[entsteht]], [[entstand]], [[entstehe]], [[entstände]], -
+wir, [[entstehen]], [[entstanden]], [[entstehen]], [[entständen]], [[entstehen]]
+ihr, [[entsteht]], [[entstandt]], [[entstehet]], [[entständet]], [[entsteht]]
+sie, [[entstehen]], [[entstanden]], [[entstehen]], [[entständen]], [[entstehen]]
+
+*Zu + Inf*: zu [[entstehen]], *P2*: [[entstanden]]
+Adjektive: [[entstehend]], [[entstehender]], [[entstehendst]]
+
+---
+[[entstehender]], [[entstehendes]], [[entstehende]], [[entstehenden]], [[entstehendem]], [[entstehenderer]], [[entstehenderes]], [[entstehendere]], [[entstehenderen]], [[entstehenderem]], [[entstehendster]], [[entstehendstes]], [[entstehendste]], [[entstehendsten]], [[entstehendstem]]
 *[[000-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
 
 

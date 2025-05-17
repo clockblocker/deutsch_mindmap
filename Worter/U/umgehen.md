@@ -30,4 +30,4 @@ PI: [[umgehend]], PII: [[umgangen]], Zu+inf: [[umzugehen]]
 [[umgehen]] - [[um]] = [[gehen]] / to bypass, to avoid, to circumvent
 
 ---
-[[Umgehung]], [[Umstand]], [[herumgehen]], [[Umweg]], [[umständlich]], [[ergehen]], [[durchmachen]], [[auseinandersetzen]], [[Umgang]], [[meiden]], [[handhaben]]
+[[Umgehung]], [[Umstand]], [[herumgehen]], [[Umweg]], [[umständlich]], [[ergehen]], [[durchmachen]], [[auseinandersetzen]], [[Umgang]], [[meiden]], [[handhaben]], [[unumgänglich]]

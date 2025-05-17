@@ -1,1 +1,1 @@
-, [[Gehaltszahlungen]], [[unbezahlt]], [[Gehalt]], [[Lohn]], [[Nominallohn]], [[Belohnung]], [[Provision]], [[Geldleistung]]
+, [[Gehaltszahlungen]], [[unbezahlt]], [[Gehalt]], [[Lohn]], [[Nominallohn]], [[Belohnung]], [[Provision]], [[Geldleistung]], [[Zulage]]

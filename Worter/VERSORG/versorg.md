@@ -1,1 +1,1 @@
-, [[Wasserversorgung]], [[Internetversorgung]], [[Energieversorgung]]
+, [[Wasserversorgung]], [[Internetversorgung]], [[Energieversorgung]], [[Essensversorgung]]

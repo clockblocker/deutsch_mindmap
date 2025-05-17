@@ -1,1 +1,1 @@
-, [[Straftat]], [[legal]], [[strafbar]]
+, [[Straftat]], [[legal]], [[strafbar]], [[Krimi]]

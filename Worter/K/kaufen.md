@@ -34,4 +34,4 @@ Morpheme: [[Kauf]][[en]]
 
 Partizip I: [[kaufend]], Partizip II: [[gekauft]]
 , [[angeln]], [[ausleihen]]
-, [[Spende]], [[mieten]], [[beliefern]]
+, [[Spende]], [[mieten]], [[beliefern]], [[aufkaufen]]

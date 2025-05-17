@@ -1,1 +1,1 @@
-, [[Sanierung]], [[erneuerbar]], [[Neuanfang]]
+, [[Sanierung]], [[erneuerbar]], [[Neuanfang]], [[erneuern]]

@@ -5,6 +5,9 @@
 ---
 die günstiger sind und eine gute Ausbildung bieten
 
+*[[C1-Lesen-T4-102-Text#^9|^]]* So kann ich [[kurzfristig]] zu einem [[günstigeren]] Anbieter wechseln. ^9
+
+
 ---
 = [[preiswert]], [[vorteilhaft]], [[billig]]
 ≈ [[angemessen]], [[akzeptabel]], [[ermäßigt]]

@@ -1,1 +1,1 @@
-, [[Hochfahren]]
+, [[Hochfahren]], [[einschalten]]

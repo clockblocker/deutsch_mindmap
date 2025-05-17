@@ -32,4 +32,4 @@ G: der [[Teilnahme]], der [[Teilnahmen]]
 D: der [[Teilnahme]], den [[Teilnahmen]]
 
 
-#Feminin 
+#Feminin , [[teilhaben]]

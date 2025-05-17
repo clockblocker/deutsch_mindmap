@@ -3,6 +3,9 @@
 ---
 Обладать большим талантом. Über ein großes Talent [[verfügen]].
 
+*[[C1-Lesen-T4-101-Text#^9|^]]* Als ich vor zwanzig Jahren [[anfing]] zu studieren, hieß es: [[Spätestens]] ab dem nächsten Jahrzehnt werden wir über intelligente Roboter [[verfügen]], die den Menschen im [[Weltraum]] komplett [[ersetzen]] werden. ^9
+
+
 *[[C1-Lesen-T4-100-Text#^11|^]]* Nur wer [[hochdotierte]] Kunstpreise bekommt, vielleicht noch eine Professur hat, über die [[notwendige]] mediale Aufmerksamkeit [[verfügt]] und in bekannten Museen [[ausstellt]], darf auf dem [[Kunstolymp]] Platz nehmen. ^11
 
 
@@ -32,4 +35,4 @@ PI: [[verfügend]], PII: [[verfügt]], Zu+inf: [[zuverfügen]]
 
 ---
 [[verfügen]] - [[ver]] = [[fügen]] / to dispose, to command, to decree
-, [[verfügbar]], [[Verfügung]], [[anweisen]], [[Dauerverfügbarkeit]], [[Verabreichen]]
+, [[verfügbar]], [[Verfügung]], [[anweisen]], [[Dauerverfügbarkeit]], [[Verabreichen]], [[aufweisen]]

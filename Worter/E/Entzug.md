@@ -1,1 +1,1 @@
-, [[Verlust]], [[Mittelzuweisung]], [[Beitrag]], [[Zuwendung]]
+, [[Verlust]], [[Mittelzuweisung]], [[Beitrag]], [[Zuwendung]], [[entziehen]]

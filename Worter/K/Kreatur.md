@@ -1,2 +1,2 @@
 
-, [[Mensch]]
+, [[Mensch]], [[Lebewesen]]

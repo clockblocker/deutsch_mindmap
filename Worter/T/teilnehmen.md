@@ -46,4 +46,4 @@ sie, [[nehmen teil]], [[nahmen teil]], [[nehmen teil]], [[nähmen teil]], [[nehm
 Adjektive: [[teilnehmend]], [[teilnehmender]], [[teilnehmendst]]
 
 ---
-[[teilnehmender]], [[teilnehmendes]], [[teilnehmende]], [[teilnehmenden]], [[teilnehmendem]], [[teilnehmenderer]], [[teilnehmenderes]], [[teilnehmendere]], [[teilnehmenderen]], [[teilnehmenderem]], [[teilnehmendster]], [[teilnehmendstes]], [[teilnehmendste]], [[teilnehmendsten]], [[teilnehmendstem]]
+[[teilnehmender]], [[teilnehmendes]], [[teilnehmende]], [[teilnehmenden]], [[teilnehmendem]], [[teilnehmenderer]], [[teilnehmenderes]], [[teilnehmendere]], [[teilnehmenderen]], [[teilnehmenderem]], [[teilnehmendster]], [[teilnehmendstes]], [[teilnehmendste]], [[teilnehmendsten]], [[teilnehmendstem]], [[teilhaben]]

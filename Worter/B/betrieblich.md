@@ -1,6 +1,8 @@
 🏢 [[betrieblich]], [bəˈtriːplɪç](https://youglish.com/pronounce/betrieblich/german)
 
 ---
+*[[C1-Lesen-T4-102-Text#^22|^]]* Außerdem bekommen die [[Fremdfirmen]] [[Einsicht]] in [[betrieblich]]e Interna und man macht sich [[abhängig]] von ihnen.
+
 - Verspätete Information über wichtige [[betriebliche]] [[Änderungen]]
 - Unflexible Home-Office-Regelung trotz [[betrieblicher]] Möglichkeiten
 

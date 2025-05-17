@@ -26,4 +26,4 @@ justifiable, acceptable
 Adjektive: [[vertretbar]], [[vertretbarer]], [[vertretbarst]]
 
 ---
-[[vertretbarer]], [[vertretbares]], [[vertretbare]], [[vertretbaren]], [[vertretbarem]], [[vertretbarerer]], [[vertretbareres]], [[vertretbarere]], [[vertretbareren]], [[vertretbarerem]], [[vertretbarster]], [[vertretbarstes]], [[vertretbarste]], [[vertretbarsten]], [[vertretbarstem]]
+[[vertretbarer]], [[vertretbares]], [[vertretbare]], [[vertretbaren]], [[vertretbarem]], [[vertretbarerer]], [[vertretbareres]], [[vertretbarere]], [[vertretbareren]], [[vertretbarerem]], [[vertretbarster]], [[vertretbarstes]], [[vertretbarste]], [[vertretbarsten]], [[vertretbarstem]], [[passabel]]

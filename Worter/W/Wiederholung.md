@@ -30,3 +30,4 @@ PI: [[wiederholend]], PII: [[wiederholt]], Zu+inf: [[wiederzuholen]]
 [[Worter/W/Wiederholung]], [[Wiederholungstäter]], [[wiederholbar]], [[unwiederholbar]], [[Wiederholungsfall]]
 
 , [[Doppelte]], [[Wiederholungskarte]]
+, [[Zyklus]]

@@ -3,6 +3,9 @@
 ---
 Ich versuche, ihn [[eben]] auf dem Handy zu [[erreichen]].
 
+*[[C1-Lesen-T4-101-Text#^14|^]]* Mein Vorschlag: Sollte es bei der bemannten [[Raumfahrt]] [[tatsächlich]] am Geld [[scheitern]], dann müsste man die Raumfahrtprogramme [[eben]] [[zeitlich]] [[strecken]]. ^14
+
+
 «[[Nötig]] nicht,» sagte ich, «aber es ist [[eben]] sehr nett.» [[17 zu inf#^22|(q)]]
 
 Das kann man [[eben]] nicht ändern.

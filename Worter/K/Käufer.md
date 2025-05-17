@@ -1,1 +1,1 @@
-, [[Kauf]], [[Kunde]], [[Anbieter]]
+, [[Kauf]], [[Kunde]], [[Anbieter]], [[aufkaufen]]

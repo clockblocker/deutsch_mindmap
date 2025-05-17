@@ -101,4 +101,4 @@ sie, [[bestehen]], [[bestanden]], [[bestehen]], [[bestünden]], [[bestehen]]
 Adjektive: [[bestehend]], [[bestehender]], [[bestehendst]]
 
 ---
-[[bestehender]], [[bestehendes]], [[bestehende]], [[bestehenden]], [[bestehendem]], [[bestehenderer]], [[bestehenderes]], [[bestehendere]], [[bestehenderen]], [[bestehenderem]], [[bestehendster]], [[bestehendstes]], [[bestehendste]], [[bestehendsten]], [[bestehendstem]], [[dringen]]
+[[bestehender]], [[bestehendes]], [[bestehende]], [[bestehenden]], [[bestehendem]], [[bestehenderer]], [[bestehenderes]], [[bestehendere]], [[bestehenderen]], [[bestehenderem]], [[bestehendster]], [[bestehendstes]], [[bestehendste]], [[bestehendsten]], [[bestehendstem]], [[dringen]], [[spicken]]

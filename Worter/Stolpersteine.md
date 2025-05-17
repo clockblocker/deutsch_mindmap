@@ -2,6 +2,9 @@
 die [[Stolpersteine]]
 
 ---
+*[[C1-Hoehen-T1-200-Text#^6|^]]* Sehr zur Freude von Paul, waren dieser Freundschaft doch zu Beginn einige [[Stolpersteine]] in den Weg [[gelegt]]. ^6
+
+
 206. [[Woran]] [[erinnern]] die [[sogenannten]] „[[Stolpersteine]]“ in Deutschland? (100%)
 	- [ ] an [[berühmte]] deutsche Politikerinnen und Politiker
 	- [x] an die [[Opfer]] des Nationalsozialismus
@@ -28,3 +31,5 @@ D: den [[Stolpersteinen]], den [[Stolpersteinen]]
 
 ---
 [[stolpern]], [[erinnern]], [[gedenken]], [[Erinnerungskultur]]
+
+#Feminin 

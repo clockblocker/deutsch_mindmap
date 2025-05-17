@@ -12,8 +12,8 @@ Texte: [[1.1 Home-Office|Model]], [[4 Home-Office|Mein]]
 ---
 ###### Home-Office oder Büro – Wo arbeitet man besser? #GPT
   - Erklären Sie, unter welchen Bedingungen Home-Office effektiv sein kann.
-  - Nennen Sie Vorteile und Nachteile für Arbeitnehmer*innen.
-  - Erläutern Sie mögliche Argumente von Arbeitgeber*innen gegen Home-Office.
+  - Nennen Sie Vorteile und Nachteile für Arbeitnehmer:innen.
+  - Erläutern Sie mögliche Argumente von Arbeitgeber:innen gegen Home-Office.
   - Geben Sie Beispiele für Berufe, bei denen Home-Office nicht möglich ist.
 
 ---

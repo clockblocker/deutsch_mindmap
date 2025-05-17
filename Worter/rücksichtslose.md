@@ -1,0 +1,2 @@
+😠 [[rücksichtslos]]
+, [[Rodung]]

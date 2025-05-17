@@ -7,6 +7,9 @@
 ---
 Er hat viel Geld gespart, [[deshalb]] möchte er sich ein Auto kaufen.  
 
+*[[C1-Lesen-T4-101-Text#^16|^]]* Menschen sind Robotern [[weit]] [[voraus]], [[deshalb]] brauchen wir bemannte [[Flüge]]. ^16
+
+
 Es gibt bald Regen, [[deshalb]] sollten wir ins Haus gehen.
 
 1. Zwei Freunde wollen in ein öffentliches [[Schwimmbad]] in Deutschland. Beide haben eine dunkle [[Hautfarbe]] und werden [[deshalb]] nicht [[hineingelassen]]. Welches Recht wird in dieser Situation [[verletzt]]? 
@@ -40,4 +43,4 @@ Morpheme:
 
 , [[sterben]], [[bald]], [[Konnektoren]], [[dadurch]], [[somit]], [[hierfür]], [[Texte/Misc/Anki]]
 
-, [[1 Präpositionen Übungen]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]], [[demnach]]
+, [[1 Präpositionen Übungen]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]], [[demnach]], [[Flug]]

@@ -1,1 +1,1 @@
-, [[verbessern]], [[verschlechtern]]
+, [[verbessern]], [[verschlechtern]], [[ausreifen]], [[reifen]]

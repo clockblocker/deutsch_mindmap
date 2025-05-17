@@ -24,4 +24,4 @@ official, administrative
 Adjektive: [[behördlich]], [[behördlicher]], [[behördlichst]]
 
 ---
-[[behördlicher]], [[behördliches]], [[behördliche]], [[behördlichen]], [[behördlichem]], [[behördlicherer]], [[behördlicheres]], [[behördlichere]], [[behördlicheren]], [[behördlicherem]], [[behördlichster]], [[behördlichstes]], [[behördlichste]], [[behördlichsten]], [[behördlichstem]], [[Einwanderung]]
+[[behördlicher]], [[behördliches]], [[behördliche]], [[behördlichen]], [[behördlichem]], [[behördlicherer]], [[behördlicheres]], [[behördlichere]], [[behördlicheren]], [[behördlicherem]], [[behördlichster]], [[behördlichstes]], [[behördlichste]], [[behördlichsten]], [[behördlichstem]], [[Einwanderung]], [[juristisch]]

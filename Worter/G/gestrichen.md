@@ -5,8 +5,11 @@ haben [[gestrichen]]
 ---
 Freddie und Amelie haben sich ein Haus gekauft – in einer ruhigen Wohngegend mit weiß [[gestrichenen]] Häusern und gepflegten Gärten. 
 
+Der Flug ist [[gestrichen]] worden
+
+
 ---
-Synonyme: [[malen]], [[anstreichen]], [[streicheln]], [[beschmieren]], [[wischen]]
+Synonyme: [[malen]], [[anstreichen]], [[streicheln]], [[beschmieren]], [[wischen]], [[heraus auf der Strecke bleiben]]
 Antonyme: [[lassen]], [[stehen]], [[ignorieren]]
 
 ---

@@ -31,4 +31,4 @@ extremely, very
 Adjektive: [[äußerst]], [[äußerster]], [[äußerstest]]
 
 ---
-[[äußerster]], [[äußerstes]], [[äußerste]], [[äußersten]], [[äußerstem]], [[äußersterer]], [[äußersteres]], [[äußerstere]], [[äußersteren]], [[äußersterem]], [[äußerstester]], [[äußerstestes]], [[äußersteste]], [[äußerstesten]], [[äußerstestem]], [[Gegnerhorde]]
+[[äußerster]], [[äußerstes]], [[äußerste]], [[äußersten]], [[äußerstem]], [[äußersterer]], [[äußersteres]], [[äußerstere]], [[äußersteren]], [[äußersterem]], [[äußerstester]], [[äußerstestes]], [[äußersteste]], [[äußerstesten]], [[äußerstestem]], [[Gegnerhorde]], [[weitaus]]

@@ -46,4 +46,4 @@ sie, [[umfassen]], [[umfassten]], [[umfassen]], [[umfassten]], [[umfassen]]
 Adjektive: [[umfassend]], [[umfassender]], [[umfassendst]]
 
 ---
-[[umfassender]], [[umfassendes]], [[umfassende]], [[umfassenden]], [[umfassendem]], [[umfassenderer]], [[umfassenderes]], [[umfassendere]], [[umfassenderen]], [[umfassenderem]], [[umfassendster]], [[umfassendstes]], [[umfassendste]], [[umfassendsten]], [[umfassendstem]]
+[[umfassender]], [[umfassendes]], [[umfassende]], [[umfassenden]], [[umfassendem]], [[umfassenderer]], [[umfassenderes]], [[umfassendere]], [[umfassenderen]], [[umfassenderem]], [[umfassendster]], [[umfassendstes]], [[umfassendste]], [[umfassendsten]], [[umfassendstem]], [[umgeben]]

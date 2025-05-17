@@ -8,6 +8,9 @@ Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
 wenn du [[gleichzeitig]] hörst und liest, bekommst du:
 ✔ bessere aussprache + intonation
 
+*[[C1-Hoehen-T1-200-Text#^12|^]]* [[Gleichzeitig]] erfährt man aber auch, dass die Natur [[recht]] [[robust]] ist und sich [[durchaus]] [[anpassen]] kann, wie frühere Klimaveränderungen [[gezeigt]] haben. ^12
+
+
 1. In Deutschland … (92%)
 	- [x] darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.
 	- [ ] kann man mehrere [[Ehepartner]] / Ehepartnerinnen [[gleichzeitig]] haben.

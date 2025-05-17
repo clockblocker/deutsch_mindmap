@@ -17,5 +17,5 @@
 ###### #GPT Wer trägt Verantwortung im digitalen Raum?
   - Erklären Sie, welche Akteure Inhalte in sozialen Netzwerken beeinflussen.
   - Nennen Sie Beispiele für fehlende oder unklare Verantwortung.
-  - Diskutieren Sie, wie Nutzer*innen, Plattformen und Staaten zusammenwirken sollten.
+  - Diskutieren Sie, wie Nutzer:innen, Plattformen und Staaten zusammenwirken sollten.
   - Machen Sie Vorschläge für ein transparentes und faires Regelwerk.

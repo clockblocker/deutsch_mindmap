@@ -1,4 +1,5 @@
-, [[Entwicklung]]
+[[Fortschritt]] =  [[Entwicklung]]
+
 🚀 der [[Fortschritt]], [ˈfɔɐ̯tʃʁɪt]
 die [[Fortschritte]]
 
@@ -25,3 +26,5 @@ D: dem [[Fortschritt]], den [[Fortschritten]]
 ---
 [[fortschrittlich]], [[fortschreiten]], [[voranschreiten]], [[progressiv]]
 , [[fehlentwicklung]], [[Karriere]], [[Niedergang]], [[Wachstum]], [[Persönlichkeitsentwicklung]], [[Laufbahn]], [[Technologie]], [[Wandel]]
+
+#Maskulin , [[Qualitätssteigerung]]

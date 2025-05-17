@@ -3,6 +3,9 @@
 ---
 [[Eher]] [[ziehe]] ich wieder zu meinen Eltern, [[als-zu|als]] einen Tag länger bei dir zu wohnen.
 
+*[[C1-Hoehen-T1-100-Text#^14|^]]* Das letzte Buch, das ich vorstellen möchte, *Raus aus der Wohnung – und jetzt?* von der Initiative *Wir bleiben* ist [[eher]] ein [[Ratgeber]]. ^14
+
+
 Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[auskennen]]. Doch wer über den [[Tellerrand]] schaut, kann viel entdecken: Einen [[Becher]] und [[Besteck]] findet man dabei [[eher]] nicht, aber ganz bestimmt neue Perspektiven.  
 
 ---

@@ -41,4 +41,4 @@ G: des [[Aufwandes]], der [[Aufwände]]
 D: dem [[Aufwand]], den [[Aufwänden]]
 
 
-#Maskulin , [[aufwendig]], [[Ausgabe]]
+#Maskulin , [[aufwendig]], [[Ausgabe]], [[Kommunikationsaufwand]]

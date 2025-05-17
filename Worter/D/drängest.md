@@ -1,1 +1,1 @@
-, [[dringen]]
+, [[dringen]], [[drängen]]

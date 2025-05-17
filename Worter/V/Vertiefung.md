@@ -1,1 +1,1 @@
-[[Schacht]], [[loch]], [[Graben]]
+[[Schacht]], [[loch]], [[Graben]], [[Spezialisierung]]

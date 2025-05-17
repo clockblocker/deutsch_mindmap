@@ -1,4 +1,4 @@
-🟢 👥 die [[Bevölkerung]], [bəˈvœlkʁʊŋ]
+ 👥 die [[Bevölkerung]], [bəˈvœlkʁʊŋ]
 die [[Bevölkerungen]]
 
 ---
@@ -34,4 +34,4 @@ D: der [[Bevölkerung]], den [[Bevölkerungen]]
 ---
 [[bevölkern]], [[Bevölkerungsdichte]], [[Bevölkerungsgruppe]], [[Bevölkerungswachstum]][[Menschen]]
 
-#Feminin , [[Gesamtgesellschaft]]
+#Feminin , [[Gesamtgesellschaft]], [[Bevölkerungsstruktur]]

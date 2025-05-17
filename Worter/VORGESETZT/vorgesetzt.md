@@ -1,1 +1,1 @@
-, [[Vorgesetzte]]
+, [[Vorgesetzte]], [[untergeordnet]]

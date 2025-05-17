@@ -30,4 +30,4 @@ Zu+infinitive: [[zu entschließen]]
 [[entschließen]] - [[ent]] = [[schließen]]
 
 ---
-[[Entschluss]], [[Entschlossenheit]], [[Entscheider]], [[Entscheidung]], [[unentschlossen]]
+[[Entschluss]], [[Entschlossenheit]], [[Entscheider]], [[Entscheidung]], [[unentschlossen]], [[abstimmen]]

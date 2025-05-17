@@ -77,4 +77,4 @@ Konjunktiv II:
 
 
 
-, [[abschalten]]
+, [[abschalten]], [[einschalten]]

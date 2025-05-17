@@ -1,11 +1,9 @@
 🟢 das [[Ausland]]
 die [[Ausländer]]
 
-Beispiele:
+---
+*[[C1-Lesen-T4-102-Text#^17|^]]* Sollten dann bestimmte Bereiche noch ins [[Ausland]] [[verlagert]] werden, wegen eines [[niedrigeren]] [[Lohnniveaus]] und einer billigeren [[Güterproduktion]], [[entsteht]] gegenüber [[einheimischen]] Firmen ein klarer [[Exportvorteil]], was zu einem [[ungleich]]en Wettbewerb schafft.
 
-- Ich plane eine Reise ins [[Ausland]].
-- Viele Studenten studieren im [[Ausland]].
-- Die [[Ausländer]] sind oft neugierig auf deutsche Kultur.
 
 ---
 Synonyme:

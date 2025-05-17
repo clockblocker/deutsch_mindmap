@@ -1,1 +1,1 @@
-, [[Lebensjahr]], [[Saison]], [[Zeitalter]], [[Frist]], [[Zeitraum]], [[Kunstepoche]], [[Jahrzehnt]]
+, [[Lebensjahr]], [[Saison]], [[Zeitalter]], [[Frist]], [[Zeitraum]], [[Kunstepoche]], [[Jahrzehnt]], [[Zyklus]]

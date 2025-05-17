@@ -6,6 +6,11 @@ die [[Angebote]]
 ---
 ANNA: Okay – hier: Job-[[Angebote]] …
 
+*[[C1-Hoehen-T1-100-Loesung#^1|^]]* Den [[Zusammenhang]] zwischen [[Wohnungsknappheit]] und den [[Marktgesetz]]en erläutert die Autorin durch das [[Zusammenspiel]] von [[Angebot]] und [[Nachfrage]].
+
+*[[C1-Hoehen-T1-100-Text#^10|^]]* Die Autorin erklärt diese [[Entwicklung]] [[anfang]]s ökonomisch: Städte werden attraktiver, dadurch erhöht sich die [[Nachfrage]] nach [[Wohnraum]] bei [[gering]]em [[Angebot]], wodurch die Preise, also die Mieten, steigen. ^10
+
+
 *[[C1-Lesen-T4-100-Text#^5|^]]* Es ist doch ganz einfach: Wie jede andere Ware unterliegen auch Kunstobjekte dem Prinzip von [[Angebot]] und [[Nachfrage]]. ^5
 
 
@@ -42,4 +47,4 @@ G: des [[Angebotes]], der [[Angebote]]
 D: dem [[Angebot]], den [[Angeboten]]
 
 
-#Neuter , [[Unterstützungsangebot]], [[Kompromissvorschlag]], [[Pitch]], [[Firmenangebot]], [[Übergangebot]], [[Anbieter]], [[Unterhaltungsangebot]]
+#Neuter , [[Unterstützungsangebot]], [[Kompromissvorschlag]], [[Pitch]], [[Firmenangebot]], [[Übergangebot]], [[Anbieter]], [[Unterhaltungsangebot]], [[Dienstleistung]]

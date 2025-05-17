@@ -5,9 +5,11 @@ haben [[behandelt]]
 ---
 SASCHA: Meine Mutter [[behandelt]] mich auch wie ein Baby 
 
+2 Neben der [[Darstellung]] sozialer Probleme werden auch [[juristische]] Fragen [[behandelt]].
+
 Wenn Sie die Situation falsch verstanden haben, kann es sein, dass Sie keinen Punkt richtig [[behandelt]] haben
 
-Es ist wichtig, dass Sie alle Themenpunkte [[behandeln]] und keinen Punkt vergessen. ==Versuchen Sie zu jedem Punkt zwei Sätze zu schreiben.==
+Es ist wichtig, dass Sie alle Themenpunkte [[behandeln]] und keinen Punkt vergessen. Versuchen Sie zu jedem Punkt zwei Sätze zu schreiben.
 
 284. Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)
 	- [x] Ich kann mich beim [[Behördenleiter]] / bei der Behördenleiterin [[beschweren]].

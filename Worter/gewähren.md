@@ -37,4 +37,4 @@ PI: [[gewährend]], PII: [[gewährt]], Zu+inf: [[zugewähren]]
 
 ---
 [[Gewährung]], [[Gewährsmann]], [[Gewährleistung]], [[gewährbar]], [[begewähren]], [[Texte/Misc/Anki]]
-, [[verschaffen]], [[gönnen]]
+, [[verschaffen]], [[gönnen]], [[entziehen]]

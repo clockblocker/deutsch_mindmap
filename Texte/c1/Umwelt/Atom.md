@@ -79,7 +79,7 @@ Der [[Hauptgrund]]: Raus aus der Kohle
 
 *[[Atom#^30|^]]* *In Polen?*  ^30
 
-Wir [[austauschen|tauschen]] unsere [[Erfahrungen]] aus.
+Wir [[austauschen|tauschen]] unsere [[Erfahrung]]en aus.
 
 
 ### Ein ambitionierter Plan

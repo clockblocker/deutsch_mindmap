@@ -2,3 +2,22 @@
 
 ---
 
+Sehr geehrte Damen und Herren, herzlich willkommen zu meinem Vortrag!  
+Heute geht es um globale Kinderpolitik. Unsere heutige Welt ist so stark vernetzt und digitalisiert, dass sich kaum jemand den Auswirkungen unseres globalen Handelns entziehen kann. Das betrifft auch die Lebenswelt unserer Kinder. Durch die Globalisierung werden Umgebungen, Kinder und Jugendliche veränderte Lebensbedingungen vorfinden, die deren Recht auf Leben, Überleben und Entwicklung sowie auf Wahrung des Kindeswohls ernsthaft gefährden könnten. Es liegt in der Hand der internationalen Gemeinschaft, der zunehmenden Kinderarmut und strukturellen Ungleichheit in der Gesellschaft entgegenzuwirken. So ist es in der Kinderrechtskonvention von 1989 festgelegt, welche eine weltweit anerkannte Rechtschur darstellt (24).
+
+Der Weg bis zur Anerkennung der Kinder als Wesen mit eigenen Rechten, die man schützen und fördern muss, war lang.  
+Das Leiden der Kinder während und nach den grauenhaften Weltkriegen des 20. Jahrhunderts führte dazu, dass politische Rahmenbedingungen geschaffen wurden, um den Herausforderungen von Gewalt und Ungleichheit zu begegnen. Das hatte es früher noch nie gegeben. Somit wurde das 20. Jahrhundert zum wichtigsten in der Geschichte der Kinderrechte. Und zwar mit der Verabschiedung der Kinderrechtskonvention (25) durch die Vereinten Nationen.
+
+Selbstverständlich beeinflusst globale Kinderpolitik auch nationale Kinderpolitiken und umgekehrt. Je nachdem wie in einem Land kulturelle, religiöse oder gesellschaftliche Einflüsse ausgeprägt sind, wird die Rolle des Kindes und seiner Rechte in diesem Land wahrgenommen und umgesetzt (26). Beispielsweise kann in Ländern, wo Kinder zum Lebensunterhalt ihrer Familie beitragen müssen, die Umsetzung des Artikels 32 der UN-Kinderrechtskonvention, welcher Kinderarbeit verbietet, fatale Folgen haben: Die Familie rutscht noch mehr in die Armut ab oder das Kind wird, wenn es dennoch arbeitet, in die Illegalität getrieben.
+
+Der Begriff *Kindheit* – ein Konstrukt der Gegenwart – bezeichnet eine Lebensphase, die sich von Erwachsenen unterscheidet.  
+Im Mittelalter hingegen sprach man lediglich von den ersten Lebensjahren eines Kindes, die besonders gefährlich waren und überwunden werden mussten. Dann begann relativ schnell das harte Arbeitsleben der Kinder bzw. die strenge Erziehung von Kindern aus den privilegierten Schichten. Während der Epoche der Aufklärung im 18. Jahrhundert kam die Forderung auf, Kinder in ihrer ersten Lebensjahren besonders zu schützen und zu fördern und es entstanden neue Ideen hinsichtlich der Pädagogik und Erziehung (27).
+
+Mit dem Beginn des Kapitalismus verschlechterten sich die Lebensbedingungen der Menschen und auch die der Kinder rasant.  
+Dazu die Entstehung einer revolutionären Arbeiterklasse im 19. Jahrhundert, die zunehmend begann, auch mit sozialen Fragen zu beschäftigen. Fordernd nach Menschenrechten, wie das Recht auf Bildung, wurde laut. Dabei ist das Konzept der Menschenrechte nicht neu. Überall in der Geschichte, wo es zu versuchen, wäre die Menschen sich vor der Willkür der Herrschenden zu schützen. Aber selbst die Französische Revolution mit ihrer Erklärung zu Menschen- und Bürgerrechten ließ Kinder und Frauen außen vor, denn unter Mensch verstand man damals hauptsächlich Mann (28).
+
+Ende des 19. Jahrhunderts wurden schließlich mit den Frauenrechtsbewegungen die Rechte der Kinder in den Fokus der Politik gestellt. Beispielsweise drängte der polnische Kinderarzt und Pädagoge Janusz Korczak auf die Achtung der Persönlichkeit eines jeden Kindes, auf Gleichwertigkeit und Respekt. Er forderte u.a., dass Kinder von Geburt an als kompetente Menschen angesehen werden und ihnen das Recht, sich an der Gestaltung ihres Lebens zu beteiligen über den Förder- und Schutzbedarf hinaus zugestanden werden muss (29). Ein absolutes Novum damals.
+
+Zum Schluss noch einige Worte dazu, wie wir es schaffen können, dass Kinder und Jugendliche in Würde aufwachsen können.  
+Kriege, Flucht, Armut und Pandemien hindern Millionen von Kindern weltweit daran, sich gesund und gewaltfrei zu entfalten. Auch die Klimakrise ist eine enorme Herausforderung für eine weltweit erfolgreiche Kinderpolitik. Ohne die Partizipation der Kinder an der internationalen Gemeinschaft zu stärken, haben wir keine Chance, die Kinderrechte im Sinne unserer Nachkommen durchzusetzen (30).  
+Ich danke Ihnen für Ihre Aufmerksamkeit!

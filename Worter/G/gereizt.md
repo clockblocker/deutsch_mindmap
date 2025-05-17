@@ -31,4 +31,4 @@ P: [[gereizten]], [[gereiztere]], [[gereiztest]]
 ---
 [[reizen]], [[Gereiztheit]], [[Reizbarkeit]], [[aufreizen]], [[erregen]]
 , [[hitzig]]
-, [[launisch]]
+, [[launisch]], [[mürrisch]]

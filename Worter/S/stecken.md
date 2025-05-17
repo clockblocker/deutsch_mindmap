@@ -8,6 +8,12 @@ haben/sein [[gesteckt]]
 *[[C1-Lesen-T1-001-Text#^3|^]]* Schließlich [[steckt]] die [[schwarzhaarige]] Berner Sennenhündin ihre [[bernsteinbraune]], [[feuchte]] Nase ganz in das Loch. ^3
 
 
+*[[C1-Lesen-T4-102-Text#^2|^]]* Aber hinter solch einem Unternehmen [[steckt]] noch [[weitaus]] mehr als nur eine Website. ^2
+
+
+*[[C1-Lesen-T4-101-Text#^25|^]]* Ein ganz anderes Kapitel ist der Weltraumtourismus, welcher noch in den Kinderschuhen [[steckt]]. ^25
+
+
 Aber er ist etwas besonderes, das merke ich. Er [[steckt]] voller Weisheit, ich spüre es.
 
 „Die [[stecken]] alle unter einer [[Decke]]“, sagt sein Kollege. [[Unter einer Decke stecken]]

@@ -26,4 +26,4 @@ under, below, beneath
 [[untergehen]], [[gehen]], [[untertauchen]], [[unterbrechen]], [[unter vier Augen]], [[unterhalten]], [[da]], [[unten]], [[Religionsunterricht]], [[unterstützen]], [[stützen]], [[Unternehmerverband]], [[Unterarm]], [[Geschichtsunterricht]], [[Politikunterricht]], [[Sprachunterricht]], [[Unterstützung]], [[unterschätzen]], [[Unterhaltung]], [[unterliegen]], [[unterworfen]]
 
 , [[Unterschied]], [[unterscheiden]], [[Untersuchung]], [[untersuchen]], [[Wechselpräposition]], [[unterwegs]]
-, [[Unterlage]], [[Konnektivpartikeln]], [[Unterbringung]], [[unterlassen]], [[untersagen]], [[unter die Haut gehen]], [[unterwerfen]]
+, [[Unterlage]], [[Konnektivpartikeln]], [[Unterbringung]], [[unterlassen]], [[untersagen]], [[unter die Haut gehen]], [[unterwerfen]], [[unterbreiten]], [[untergeordnet]]

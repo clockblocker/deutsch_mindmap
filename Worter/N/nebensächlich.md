@@ -1,2 +1,2 @@
 ---> 🧱[[Grad-Gewicht]] <---
-, [[zweitrangig]]
+, [[zweitrangig]], [[untergeordnet]]

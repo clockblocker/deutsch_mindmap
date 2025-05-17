@@ -1,8 +1,11 @@
 🚶 [[zurückziehen]], [t͡suˈʁʏkˌt͡siːən](https://youglish.com/pronounce/zurückziehen/german) → [[zog zurück]] → [[zurückgezogen]]
 
 ---
-*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebot]]e wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]. ^5
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebot]]e wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]
 
+*[[C1-Hoehen-T1-200-Text#^9|^]]* Die seit Jahrzehnten zu [[beobachtenden]] [[steigenden]] Temperaturen haben [[dazu]] geführt, dass zahlreiche Pflanzen und Tiere zu den [[jeweilig]]en [[Polen]] der Erde [[wandern]] oder sich in [[tiefere]] [[Gewässer]] [[zurückziehen]]
+
+*[[C1-Hoehen-T1-200-Text#^2|^]]* Hier beschreibt der Autor, wie er sich als [[eingefleischt]]er Stadtmensch jedes Wochenende in den [[Thüringer]] Wald [[zurückzieht]], um sich dort in einer [[einsamen]] Hütte wegen einer [[ent­täuschten]] Liebe selbst zu [[bemitleiden]].
 
 ---
 = [[zurücknehmen]], [[zurücktreten]], [[abziehen]]
@@ -58,4 +61,4 @@ sie, [[ziehen zurück]], [[zogen zurück]], [[ziehen zurück]], [[zögen zurück
 Adjektive: [[zurückziehend]], [[zurückziehender]], [[zurückziehendst]]
 
 ---
-[[zurückziehender]], [[zurückziehendes]], [[zurückziehende]], [[zurückziehenden]], [[zurückziehendem]], [[zurückziehenderer]], [[zurückziehenderes]], [[zurückziehendere]], [[zurückziehenderen]], [[zurückziehenderem]], [[zurückziehendster]], [[zurückziehendstes]], [[zurückziehendste]], [[zurückziehendsten]], [[zurückziehendstem]]
+[[zurückziehender]], [[zurückziehendes]], [[zurückziehende]], [[zurückziehenden]], [[zurückziehendem]], [[zurückziehenderer]], [[zurückziehenderes]], [[zurückziehendere]], [[zurückziehenderen]], [[zurückziehenderem]], [[zurückziehendster]], [[zurückziehendstes]], [[zurückziehendste]], [[zurückziehendsten]], [[zurückziehendstem]], [[tief]]

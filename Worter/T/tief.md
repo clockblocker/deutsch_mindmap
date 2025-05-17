@@ -4,6 +4,8 @@
 ---
 [[wer hoch steigt, der wird tief fallen]]
 
+*[[C1-Hoehen-T1-200-Text#^9|^]]* Die seit Jahrzehnten zu [[beobachtenden]] [[steigenden]] Temperaturen haben [[dazu]] geführt, dass zahlreiche Pflanzen und Tiere zu den [[jeweilig]]en [[Polen]] der Erde [[wandern]] oder sich in [[tiefere]] [[Gewässer]] [[zurückziehen]].
+
 *Da biß der Hund ihn in das Bein,*  
 *recht [[tief]] bis in das Blut hinein.*  
 

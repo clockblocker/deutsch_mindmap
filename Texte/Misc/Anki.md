@@ -28,7 +28,7 @@ Niemand weiß, was wirklich [[geschehen]] ist.
 
 Ich bin krank, [[daher]] kann ich nicht zur Party kommen.
 
-Wir [[austauschen|tauschen]] unsere [[Erfahrungen]] aus.
+Wir [[austauschen|tauschen]] unsere [[Erfahrung]]en aus.
 
 Ich [[sorge]] für meine Kinder.
 
@@ -195,7 +195,7 @@ Musik [[verbindet]] die Menschen.
 
 In einem Monat werden sie das Land [[verlassen]].
 
-Manchmal muss man schwierige [[Entscheidungen]] [[treffen]] 
+Manchmal muss man schwierige [[Entscheidung]]en [[treffen]] 
 
 An der [[Grenze]] kontrolliert die Polizei die Autos.
 

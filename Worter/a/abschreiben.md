@@ -1,1 +1,1 @@
-, [[auslesen]]
+, [[auslesen]], [[spicken]]

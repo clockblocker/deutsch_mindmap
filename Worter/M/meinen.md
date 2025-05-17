@@ -7,7 +7,7 @@ ANNA: Ah … Sam … [[meinst]] du, das ist richtig so?
 
 Psychologen [[meinen]], dass 60 Prozent aller Gespräche von Menschen handeln, die nicht anwesend sind. 
 
-Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrungen]] [[sammeln]], [[meint]] der Chef.
+Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrung]]en [[sammeln]], [[meint]] der Chef.
 
 231. Was bedeutet der [[Begriff]] „europäische Integration“? (92%)
 	- [ ] Damit sind amerikanische [[Einwanderer]] in Europa [[gemeint]].

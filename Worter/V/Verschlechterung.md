@@ -1,1 +1,1 @@
-, [[Zustand]], [[Verbesserung]], [[verschlechtern]]
+, [[Zustand]], [[Verbesserung]], [[verschlechtern]], [[Qualitätssteigerung]]

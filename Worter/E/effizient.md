@@ -41,4 +41,4 @@ P: [[effizienten]], [[effizienteren]], [[effizientesten]]
 ---
 📊 **Konjugierte Indefinitzahlen**  *(if applicable)*  
 (none for effizient)
-, [[zeitsparend]]
+, [[zeitsparend]], [[reibungslos]]

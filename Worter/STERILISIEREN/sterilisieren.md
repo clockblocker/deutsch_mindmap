@@ -1,1 +1,1 @@
-, [[infizieren]]
+, [[infizieren]], [[Sterilisation]]

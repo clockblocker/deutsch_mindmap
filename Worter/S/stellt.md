@@ -1,2 +1,2 @@
 \🛠️ [[stellen]]  
-, [[einstellen]], [[darstellen]], [[vorstellen]], [[umstellen]]
+, [[einstellen]], [[darstellen]], [[vorstellen]], [[umstellen]], [[herausstellen]]

@@ -1,1 +1,1 @@
-, [[einsatzfähig]]
+, [[einsatzfähig]], [[Funktionsweise]]

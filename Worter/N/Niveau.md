@@ -28,4 +28,4 @@ D: dem [[Niveau]], den [[Niveaus]]
 ---
 [[niveauvoll]], [[nivellieren]], [[Niveau]]
 
-#Neuter  
+#Neuter  , [[Lohnniveau]]

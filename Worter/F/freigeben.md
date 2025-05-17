@@ -60,4 +60,4 @@ sie, [[geben frei]], [[gaben frei]], [[geben frei]], [[gäben frei]], [[gäben f
 Adjektive: [[freigebend]], [[freigebender]], [[freigebendst]]
 
 ---
-[[freigebender]], [[freigebendes]], [[freigebende]], [[freigebenden]], [[freigebendem]], [[freigebenderer]], [[freigebenderes]], [[freigebendere]], [[freigebenderen]], [[freigebenderem]], [[freigebendster]], [[freigebendstes]], [[freigebendste]], [[freigebendsten]], [[freigebendstem]], [[sperren]]
+[[freigebender]], [[freigebendes]], [[freigebende]], [[freigebenden]], [[freigebendem]], [[freigebenderer]], [[freigebenderes]], [[freigebendere]], [[freigebenderen]], [[freigebenderem]], [[freigebendster]], [[freigebendstes]], [[freigebendste]], [[freigebendsten]], [[freigebendstem]], [[sperren]], [[drängen]]

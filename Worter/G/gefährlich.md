@@ -6,6 +6,12 @@ nicht [[ungefährlich]]
 ---
 Sie geht alleine nach Hause, [[obwohl]] sie weiß, dass es [[gefährlich]] ist.
 
+*[[C1-Lesen-T4-101-Text#^22|^]]* Sie können auch [[gefährliche]] Aufgaben übernehmen, wie beispielsweise die Untersuchung von Asteroiden, die unsere Erde [[bedrohen]]. ^22
+
+
+*[[C1-Lesen-T4-101-Text#^5|^]]* Zudem können Roboter auch viel [[gefährlichere]] Missionen [[übernehmen]], auf die wir Astronautinnen und Astronauten aus Sicherheitsgründen niemals-- schicken würden. ^5
+
+
 *[[C1-Lesen-T1-000-Text#^5|^]]* [[Bisher]] konzentrierten sich die [[Reinigungsmaßnahmen]] vor allem auf [[Küsten]] und die [[Wasseroberfläche]], [3] den [[Meeresboden]] zu säubern ist [[aufwendiger]] und für [[Taucher]] [[gefährlich]]. ^5
 
 
@@ -45,4 +51,4 @@ Einzigartige mögliche Formen:
 [[gefährlichste]], [[gefährlichster]], [[gefährlichste]], [[gefährlichstes]], [[gefährlichsten]], [[gefährlichstem]], [[gefährlichster]], [[gefährlichsten]]
 
 , [[tödlich]]
-, [[Gefahr]], [[Schädliches]], [[Texte/Misc/Anki]], [[risikoreich]], [[gefährden]], [[aufwendig]]
+, [[Gefahr]], [[Schädliches]], [[Texte/Misc/Anki]], [[risikoreich]], [[gefährden]], [[aufwendig]], [[existenzbedrohend]]

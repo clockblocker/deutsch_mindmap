@@ -1,1 +1,1 @@
-, [[vertretbar]]
+, [[vertretbar]], [[passabel]]

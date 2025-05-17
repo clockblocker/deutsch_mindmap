@@ -3,6 +3,10 @@
 ---
 *[[Golfstorm#^18|^]]* Die Meeresströmungen [[abschwächten|schwächten]] sich unter diesen [[Bedingungen]] [[erwartungsgemäß]] ab – aber sie [[kollabierten]] nicht. ^18
 
+
+*[[C1-Hoehen-T1-200-Text#^10|^]]* Das könnte das [[Kollabieren]] natürlicher [[Zyklen]] nach sich [[ziehen]]. ^10
+
+
 ---
 = [[zusammenbrechen]], [[scheitern]], [[versagen]]
 ≈ [[einstürzen]], [[verfallen]], [[kapitulieren]], [[aufgeben]]

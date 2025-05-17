@@ -25,3 +25,5 @@ N: der [[Imageschaden]], die [[Imageschäden]]
 A: den [[Imageschaden]], die [[Imageschäden]]
 G: des [[Imageschadens]], der [[Imageschäden]]
 D: dem [[Imageschaden]], den [[Imageschäden]]
+
+#Maskulin 

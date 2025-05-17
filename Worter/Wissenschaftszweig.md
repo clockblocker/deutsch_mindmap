@@ -1,3 +1,4 @@
+
 🔬 🔵 der [[Wissenschaftszweig]], [ˈvɪsn̩ʃaftsˌt͡svaɪ̯k](https://youglish.com/pronounce/Wissenschaftszweig/german)
 
 ---

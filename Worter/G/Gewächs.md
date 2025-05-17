@@ -1,1 +1,1 @@
-, [[Baum]], [[Blume]], [[Blum]], [[Unkraut]], [[Setzling]]
+, [[Baum]], [[Blume]], [[Blum]], [[Unkraut]], [[Setzling]], [[Baumart]]

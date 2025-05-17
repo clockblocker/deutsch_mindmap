@@ -47,4 +47,4 @@ sie, [[bringen hervor]], [[brachten hervor]], [[bringen hervor]], [[brächten he
 Adjektive: [[hervorbringend]], [[hervorbringender]], [[hervorbringendst]]
 
 ---
-[[hervorbringender]], [[hervorbringendes]], [[hervorbringende]], [[hervorbringenden]], [[hervorbringendem]], [[hervorbringenderer]], [[hervorbringenderes]], [[hervorbringendere]], [[hervorbringenderen]], [[hervorbringenderem]], [[hervorbringendster]], [[hervorbringendstes]], [[hervorbringendste]], [[hervorbringendsten]], [[hervorbringendstem]]
+[[hervorbringender]], [[hervorbringendes]], [[hervorbringende]], [[hervorbringenden]], [[hervorbringendem]], [[hervorbringenderer]], [[hervorbringenderes]], [[hervorbringendere]], [[hervorbringenderen]], [[hervorbringenderem]], [[hervorbringendster]], [[hervorbringendstes]], [[hervorbringendste]], [[hervorbringendsten]], [[hervorbringendstem]], [[erbringen]]

@@ -1,1 +1,1 @@
-, [[Reise]], [[Geschäftsreise]], [[Dienstreise]]
+, [[Reise]], [[Geschäftsreise]], [[Dienstreise]], [[Flug]]

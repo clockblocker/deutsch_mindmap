@@ -1,1 +1,1 @@
-[[Veränderung]], [[umstellen]], [[Änderung]], [[Umstieg]]
+[[Veränderung]], [[umstellen]], [[Änderung]], [[Umstieg]], [[Umwandlung]]

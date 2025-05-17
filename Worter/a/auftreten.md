@@ -59,4 +59,4 @@ sie, [[treten auf]], [[traten auf]], [[treten auf]], [[träten auf]], [[treten a
 Adjektive: [[auftretend]], [[auftretender]], [[auftretendst]]
 
 ---
-[[auftretender]], [[auftretendes]], [[auftretende]], [[auftretenden]], [[auftretendem]], [[auftretenderer]], [[auftretenderes]], [[auftretendere]], [[auftretenderen]], [[auftretenderem]], [[auftretendster]], [[auftretendstes]], [[auftretendste]], [[auftretendsten]], [[auftretendstem]], [[Selbstdarstellung]], [[existieren]], [[nähern]], [[anfallen]]
+[[auftretender]], [[auftretendes]], [[auftretende]], [[auftretenden]], [[auftretendem]], [[auftretenderer]], [[auftretenderes]], [[auftretendere]], [[auftretenderen]], [[auftretenderem]], [[auftretendster]], [[auftretendstes]], [[auftretendste]], [[auftretendsten]], [[auftretendstem]], [[Selbstdarstellung]], [[existieren]], [[nähern]], [[anfallen]], [[zurückziehen]]

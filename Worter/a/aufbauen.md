@@ -1,10 +1,14 @@
 ---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+
 ⚒️ [[aufbauen]] + Akk, [ˈaʊ̯fbauən] 
 [[baute auf|baute auf]]
 haben [[aufgebaut]]
 
 ---
 SAM: Ich helfe dir beim [[aufbauen]] … Wo ist die Anleitung?  
+
+*[[C1-Lesen-T4-102-Text#^6|^]]* Hätte ich all diese [[Bereich]]e als [[Abteilung]]en in meinem eigenen Unternehmen [[aufgebaut]], hätte mich das viel mehr Zeit und Geld gekostet. ^6
+
 
 Ihr Text soll nicht nur insgesamt, sondern auch innerhalb der einzelnen [[Abschnitte]] logisch [[aufgebaut]] und für die Leserinnen und Leser gut [[nachvollziehbar]] sein. 
 
@@ -44,4 +48,4 @@ Partizip I: [[aufbauend]], Partizip II: [[aufgebaut]], [[aufzubauen]]
 
 [[aufbauen]] - [[Worter/A/auf]] = [[bauen]]
 , [[Extra 8]], [[abreißen]], [[aufstellen]], [[stellen]], [[umwerfen]], [[abnehmen]], [[errichteten]], [[zerstörten]], [[Verwaltungsaufbau]], [[vernichten]]
-, [[zusammenbrechen]], [[etablieren]], [[Textaufbau]], [[zugrunde]], [[zerreiben]]
+, [[zusammenbrechen]], [[etablieren]], [[Textaufbau]], [[zugrunde]], [[zerreiben]], [[verheeren]]

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Raumstationen]], [[Raumstation]], [[Raumstationen]]
 
 ---
-#Substantiv #Neuter, [[Raumflug]]
+#Substantiv #Neuter, [[Raumflug]], [[Raumfahrt]]

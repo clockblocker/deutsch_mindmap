@@ -1,1 +1,1 @@
-[[schwierig]], [[fehlerhaft]], [[Erziehungsproblem]], [[widrig]]
+[[schwierig]], [[fehlerhaft]], [[Erziehungsproblem]], [[widrig]], [[reibungslos]]

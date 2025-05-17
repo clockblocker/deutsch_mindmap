@@ -1,1 +1,1 @@
-, [[hinüberspähen]], [[Modellrechnung]], [[Blickkontakt]]
+, [[hinüberspähen]], [[Modellrechnung]], [[Blickkontakt]], [[Erkundung]], [[Wahrnehmung]], [[beobachten]]

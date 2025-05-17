@@ -39,4 +39,4 @@ PI: [[beweisend]], PII: [[bewiesen]], Zu+inf: [[zu beweisen]]
 [[beweisen]] - [[be]] = [[weisen]] / to prove, to demonstrate, to verify
 
 ---
-[[Beweis]], [[Beweiser]], [[Beweisführung]], [[Beweiskraft]], [[unwiderlegbar]], [[ergeben]], [[vorweisen]], [[erweisen]], [[bewähren]]
+[[Beweis]], [[Beweiser]], [[Beweisführung]], [[Beweiskraft]], [[unwiderlegbar]], [[ergeben]], [[vorweisen]], [[erweisen]], [[bewähren]], [[rechtfertigen]]

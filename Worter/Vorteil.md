@@ -1,7 +1,10 @@
 👍 🔵 der [[Vorteil]], [ˈfɔʁˌtaɪ̯l](https://youglish.com/pronounce/Vorteil/german)
 
 ---
-* Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance.
+Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance.
+
+*[[C1-Lesen-T4-101-Text#^3|^]]* Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]. ^3
+
 
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
 
@@ -43,4 +46,4 @@ G: des [[Vorteils]], der [[Vorteile]]
 D: dem [[Vorteil]], den [[Vorteilen]]
 
 
-#Maskulin , [[nutzen]]
+#Maskulin , [[nutzen]], [[Exportvorteil]]

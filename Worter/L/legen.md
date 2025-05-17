@@ -3,6 +3,8 @@
 ---
  Machen Sie sich frei, [[legen]] Sie sich hin!  
 
+*[[C1-Hoehen-T1-200-Text#^6|^]]* Sehr zur Freude von Paul, waren dieser Freundschaft doch zu Beginn einige [[Stolpersteine]] in den Weg [[gelegt]]. 
+
 *[[C1-Lesen-T2-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
 
 

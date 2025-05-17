@@ -1,2 +1,2 @@
 
-, [[Korkenzieher]]
+, [[Korkenzieher]], [[Mietpreisspirale]]

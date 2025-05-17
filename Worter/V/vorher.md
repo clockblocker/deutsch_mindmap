@@ -1,10 +1,12 @@
-🕰️ [[vorher]], [ˈfoːɐ̯heːɐ̯](https://youglish.com/pronounce/vorher/german)
-
 ---> ⏱️ [[Temporal-Zeitpunkt]] <---
 
+🕰️ [[vorher]], [ˈfoːɐ̯heːɐ̯](https://youglish.com/pronounce/vorher/german)
 
 ---
 SASCHA: Aber [[vorher]] gehen wir aus!  
+
+*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
+
 
 Lesen Sie [[vorher]] die Situation genau durch.
 

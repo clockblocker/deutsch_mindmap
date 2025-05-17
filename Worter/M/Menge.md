@@ -5,6 +5,9 @@ die [[Mengen]]
 ---
 Und obwohl seine Fähigkeiten erstaunlich sind, muss er noch eine [[Menge]] lernen. 
 
+*[[C1-Hoehen-T1-200-Text#^7|^]]* [[Amüsant]] zu lesen und mit einer [[Menge]] [[Selbstironie]] [[gespickt]]. ^7
+
+
 *[[C1-Lesen-T1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]. ^3
 
 

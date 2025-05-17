@@ -25,3 +25,5 @@ N: die [[Verpflegung]], die [[Verpflegungen]]
 A: die [[Verpflegung]], die [[Verpflegungen]]
 G: der [[Verpflegung]], der [[Verpflegungen]]
 D: der [[Verpflegung]], den [[Verpflegungen]]
+
+#Feminin , [[Essensversorgung]]

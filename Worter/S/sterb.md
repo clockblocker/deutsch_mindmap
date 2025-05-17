@@ -1,1 +1,1 @@
-, [[sterben]], [[aussterben]]
+, [[sterben]], [[aussterben]], [[Waldsterben]]

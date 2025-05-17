@@ -43,4 +43,4 @@ G: der [[Regierung]], der [[Regierungen]]
 D: der [[Regierung]], den [[Regierungen]]  
 
 ---
-[[regieren]], [[regierend]], [[Worter/R/Regierungschef]], [[Regierungsbildung]], [[regierungsfähig]], [[Bundeskanzleramt]], [[Bundesregierung]], [[Regierungspartei]], [[Regierungschef]], [[verhaften]], [[Bundesverfassungsgericht]], [[Familienministerium]], [[Stadtverwaltung]], [[Staat]]
+[[regieren]], [[regierend]], [[Worter/R/Regierungschef]], [[Regierungsbildung]], [[regierungsfähig]], [[Bundeskanzleramt]], [[Bundesregierung]], [[Regierungspartei]], [[Regierungschef]], [[verhaften]], [[Bundesverfassungsgericht]], [[Familienministerium]], [[Stadtverwaltung]], [[Staat]], [[Gesetzgeber]]

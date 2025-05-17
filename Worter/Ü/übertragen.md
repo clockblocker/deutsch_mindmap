@@ -1,30 +1,61 @@
-🔄 [[übertragen]] sich auf, [ˈyːbɐˌtʁaːɡn̩]
-[[übertrug|übertrug]]
-haben [[übertragen]]
+➡️ [[übertragen]], [ˈyːbɐˌtʁaːɡn̩](https://youglish.com/pronounce/übertragen/german) → [[übertragen]] → [[übertragen]]
 
 ---
 Der Atem wird im Körper zu Energie umgewandelt. Die Energie [[überträgt]] sich direkt auf die Gliedmaßen und wird zu Feuer!
 
----
-Synonyme: [[übermitteln]], [[weiterleiten]], [[transportieren]], [[projizieren]], [[transformieren]]
-Antonyme: [[zurückhalten]], [[blockieren]], [[verhindern]]
+*[[C1-Lesen-T4-102-Text#^20|^]]* Letzteres vor allem durch die [[Spezialisierung]] der [[Drittfirmen]], denen bestimmte [[Dienstleistung]]en [[übertragen]] wurden, da sie ja im [[Normalfall]] Expertinnen und Experten auf dem [[entsprechenden]] [[Gebiet]] sind. ^20
+
 
 ---
-Übersetzung: to transfer, to transmit, to broadcast
+= [[verlegen]], [[transferieren]], [[delegieren]]
+≈ [[weitergeben]], [[übermitteln]], [[vermitteln]]
+≠ [[behalten]], [[zurückhalten]]
 
 ---
-Morpheme: [[Worter/Ü/über]][[trag]][[en]]
- #Verb  #Trennbar
+to transfer, to transmit  
+передавать, переносить
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[übertrage]] | [[übertrug]] | - | [[übertrage]] | [[übertrüge]] |
-| Du | [[überträgst]] | [[übertrugs]] | [[übertrag]] | [[übertragest]] | [[übertrügest]] |
-| Er/sie/es | [[überträgt]] | [[übertrug]] | - | [[übertrage]] | [[übertrüge]] |
-| Wir | [[übertragen]] | [[übertrugen]] | - | [[übertragen]] | [[übertrügen]] |
-| Ihr | [[übertragt]] | [[übertrugt]] | [[übertragt]] | [[übertraget]] | [[übertrüget]] |
-| Sie | [[übertragen]] | [[übertrugen]] | [[übertragen Sie]] | [[übertragen]] | [[übertrügen]] |
+---
+[[Träger]], [[Übertragung]], [[übertragbar]], [[tragen]]
 
-Partizip I: [[übertragend]], Partizip II: [[übertragen]]
-[[übertragen]] - [[Worter/Ü/über]] = [[tragen]]
-''', [[funkten]], [[s1 e1]], [[versenden]], [[vermitteln]], [[infizieren]], [[einschleppen]]
+---
+[[über]]|[[trag]]|[[en]]
+[[über]] + [[tragen]]
+
+
+---
+###### [[übertragen]] jN jM
+- Was [[überträgst]] du ihm?
+- Die Verantwortung.
+
+- Wem [[übertragen]] wir die Aufgabe?
+- Unserem neuen Mitarbeiter.
+
+- Warum [[hat]] er die Aufgabe ihm [[übertragen]]?
+- Weil er ihm vertraut.
+
+---
+###### [[übertragen]] jN `auf` jN
+- `Worauf` [[überträgst]] du die Daten?
+- `Auf` einen neuen Server.
+
+- `Auf` wen [[hat]] sie die Verantwortung [[übertragen]]?
+- `Auf` ihren Nachfolger.
+
+- Warum [[hat]] er die Rechte `darauf` [[übertragen]]?
+- Weil er nicht mehr zuständig war.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[übertrag]] / [[übertrage]], [[trug über]], [[übertrage]], [[trüge über]], -
+du, [[überträgst]], [[trugst über]], [[übertrage]], [[trügest über]], [[übertrag]] / [[übertrage]]
+er, [[überträgt]], [[trug über]], [[übertrage]], [[trüge über]], -
+wir, [[übertragen]], [[trugen über]], [[übertragen]], [[trügen über]], [[übertragen]]
+ihr, [[übertragt]], [[trugt über]], [[übertragt]], [[trüget über]], [[übertragt]]
+sie, [[übertragen]], [[trugen über]], [[übertragen]], [[trügen über]], [[übertragen]]
+
+*Zu + Inf*: zu [[übertragen]], *P2*: [[übertragen]]
+Adjektive: [[übertragend]], [[übertragender]], [[übertragendst]]
+
+---
+[[übertragender]], [[übertragendes]], [[übertragende]], [[übertragenden]], [[übertragendem]], [[übertragenderer]], [[übertragenderes]], [[übertragendere]], [[übertragenderen]], [[übertragenderem]], [[übertragendster]], [[übertragendstes]], [[übertragendste]], [[übertragendsten]], [[übertragendstem]]

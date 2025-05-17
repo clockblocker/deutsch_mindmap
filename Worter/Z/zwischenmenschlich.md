@@ -4,6 +4,9 @@
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^12|^]]* So kann der [[effiziente]] [[Einsatz]] digitaler [[Technologie]]n [[optimal]] mit dem [[unschätzbaren]] [[Wert]] [[zwischenmenschlicher]] [[Kontakte]] [[verbunden]] werden. ^12
 
 
+6 Es werden auch [[zwischenmenschliche]] [[Beziehungen]] beschrieben.  
+
+
 ---
 = [[interpersonal]], [[sozial]], [[human]]
 ≈ [[kommunikativ]], [[beziehungsfähig]], [[sozial]]

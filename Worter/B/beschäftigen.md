@@ -4,6 +4,9 @@
 [[2 ADHD.md#^10|(q)]] Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu. ^10
 
 
+*[[C1-Hoehen-T1-100-Text#^9|^]]* Das zweite Buch *Der Wandel der Städte* von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwacher]] [[Bevölkerungsgruppen]] aus ihren [[Stadtteilen]], da sie die Mieten nicht mehr [[bezahlen]] können. ^9
+
+
 *[[C1-Lesen-T2-101-Text#^20|^]]* Die Kids [[beschäftigen]] sich dann [[oberflächlich]] mit einem Spielzeug und [[übergehen|gehen]] einfach zum nächsten über. ^20
 
 

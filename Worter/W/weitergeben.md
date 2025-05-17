@@ -46,4 +46,4 @@ sie, [[geben weiter]], [[gaben weiter]], [[geben weiter]], [[gäben weiter]], [[
 Adjektive: [[weitergebend]], [[weitergebender]], [[weitergebendst]]
 
 ---
-[[weitergebender]], [[weitergebendes]], [[weitergebende]], [[weitergebenden]], [[weitergebendem]], [[weitergebenderer]], [[weitergebenderes]], [[weitergebendere]], [[weitergebenderen]], [[weitergebenderem]], [[weitergebendster]], [[weitergebendstes]], [[weitergebendste]], [[weitergebendsten]], [[weitergebendstem]]
+[[weitergebender]], [[weitergebendes]], [[weitergebende]], [[weitergebenden]], [[weitergebendem]], [[weitergebenderer]], [[weitergebenderes]], [[weitergebendere]], [[weitergebenderen]], [[weitergebenderem]], [[weitergebendster]], [[weitergebendstes]], [[weitergebendste]], [[weitergebendsten]], [[weitergebendstem]], [[übertragen]]

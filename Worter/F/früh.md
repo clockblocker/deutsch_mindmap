@@ -46,4 +46,4 @@ early
 Adjektive: [[früh]], [[früher]], [[frühst]]
 
 ---
-[[früher]], [[frühes]], [[frühe]], [[frühen]], [[frühem]], [[früherer]], [[früheres]], [[frühere]], [[früheren]], [[früherem]], [[frühster]], [[frühstes]], [[frühste]], [[frühsten]], [[frühstem]], [[ursprünglich]]
+[[früher]], [[frühes]], [[frühe]], [[frühen]], [[frühem]], [[früherer]], [[früheres]], [[frühere]], [[früheren]], [[früherem]], [[frühster]], [[frühstes]], [[frühste]], [[frühsten]], [[frühstem]], [[ursprünglich]], [[zeitlich]]

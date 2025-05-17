@@ -29,4 +29,4 @@ sufficient, adequate
 Adjektive: [[ausreichend]], [[ausreichender]], [[ausreichendst]]
 
 ---
-[[ausreichender]], [[ausreichendes]], [[ausreichende]], [[ausreichenden]], [[ausreichendem]], [[ausreichenderer]], [[ausreichenderes]], [[ausreichendere]], [[ausreichenderen]], [[ausreichenderem]], [[ausreichendster]], [[ausreichendstes]], [[ausreichendste]], [[ausreichendsten]], [[ausreichendstem]]
+[[ausreichender]], [[ausreichendes]], [[ausreichende]], [[ausreichenden]], [[ausreichendem]], [[ausreichenderer]], [[ausreichenderes]], [[ausreichendere]], [[ausreichenderen]], [[ausreichenderem]], [[ausreichendster]], [[ausreichendstes]], [[ausreichendste]], [[ausreichendsten]], [[ausreichendstem]], [[passabel]]

@@ -1,1 +1,1 @@
-, [[kaufen]]
+, [[kaufen]], [[aufkaufen]]

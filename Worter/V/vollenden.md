@@ -1,2 +1,2 @@
 
-, [[fertigstellen]], [[absolvieren]]
+, [[fertigstellen]], [[absolvieren]], [[ausreifen]], [[reifen]]

@@ -1,1 +1,1 @@
-, [[vergangen]], [[früher]]
+, [[vergangen]], [[früher]], [[einstig]]

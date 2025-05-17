@@ -32,4 +32,4 @@ P: [[schwachen]], [[schwächeren]], [[schwächsten]]
 
 ---
 [[Schwäche]], [[abschwächen]], [[schwachsinnig]], [[schwachköpfig]], [[schwachstellen]]
-, [[bedürftig]], [[heftig]], [[niedrig]]
+, [[bedürftig]], [[heftig]], [[niedrig]], [[einkommensschwach]]

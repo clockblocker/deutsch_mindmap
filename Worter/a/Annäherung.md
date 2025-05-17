@@ -2,12 +2,14 @@
 die [[Annäherungen]]
 
 ---
+3 In dem Buch geht es um die [[Annäherung]] an die Natur.  
+
 [[Dativ Verben]] 2. **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
 
 
 ---
 = [[Näherung]], [[Herangehensweise]], [[zukommen]]
-≈ [[Kontaktaufnahme]], [[Vorstoß]], [[Versuch]]
+≈ [[Kontaktaufnahme]], [[Vorstoß]], [[Versuch]], [[Auszählung]]
 ≠ [[Distanz]], [[Rückzug]], [[Abstand]]
 
 ---
@@ -24,4 +26,5 @@ D: der [[Annäherung]], den [[Annäherungen]]
 
 ---
 [[annähern]], [[angenähert]], [[Annäherungsversuch]], [[annäherungsweise]]
-, [[Auszählung]]
+
+#Feminin 

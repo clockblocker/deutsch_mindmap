@@ -4,6 +4,8 @@
 die [[Vernichtungen]]
 
 ---
+*[[C1-Hoehen-T1-200-Text#^18|^]]* Doch gerade der Mensch macht dem Wald den [[Garaus]]: [[Verheerende]] [[Waldbrände]], von der Industrie [[geförderte]], [[rücksichtslose]] [[Rodungen]] und falsche Agrarökonomie führen zur [[Vernichtung]] des Waldes.
+
 111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
 	- [x] Der öffentliche [[Aufruf]] zur [[Vernichtung]] Israels.
 
@@ -25,4 +27,6 @@ G: der [[Vernichtung]], der [[Vernichtungen]]
 D: der [[Vernichtung]], den [[Vernichtungen]]  
 
 ---
-[[vernichten]], [[vernichtend]], [[unvernichtbar]], [[Vernichter]], [[Vernichtungslager]], [[Erhalt]], [[Verwertung]]
+[[vernichten]], [[vernichtend]], [[unvernichtbar]], [[Vernichter]], [[Vernichtungslager]], [[Erhalt]], [[Verwertung]], [[Garaus]], [[Rodung]]
+
+#Feminin 

@@ -1,1 +1,1 @@
-, [[beleidigen]], [[trösten]]
+, [[beleidigen]], [[trösten]], [[enttäuschen]]

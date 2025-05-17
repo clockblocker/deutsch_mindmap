@@ -2,7 +2,8 @@
 die [[Arbeitsstellen]]
 
 ---
-Arbeitsstelle
+*[[C1-Lesen-T4-102-Text#^23|^]]* Es schafft natürlich auch eine [[gewisse]] Unruhe unter den Mitarbeitenden, weil diese [[befürchten]], dass eines Tages auch ihre [[Arbeitsstelle]] [[ausgelagert]] werden könnte.
+
 
 ---
 = [[Arbeitsplatz]], [[Stelle]], [[Job]]

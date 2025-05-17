@@ -36,4 +36,4 @@ G: der [[Eigenschaft]], der [[Eigenschaften]]
 D: der [[Eigenschaft]], den [[Eigenschaften]]
 
 
-#Feminin , [[Eigenart]]
+#Feminin , [[Eigenart]], [[Beschaffenheit]]

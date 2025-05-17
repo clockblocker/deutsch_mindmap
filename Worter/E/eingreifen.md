@@ -4,6 +4,11 @@
 [[2 prap.md#^10|(q)]] [[dank]] seinem [[beherzten]] [[Eingreifen]] wurde ich nicht Verletzt ^10
 
 
+*[[C1-Hoehen-T1-200-Text#^16|^]]* Die meisten [[Leser]] werden überrascht davon sein, [[inwieweit]] der Klimawandel schon heute in die Natur [[eingegriffen]] hat.
+
+*[[C1-Hoehen-T1-100-Text#^13|^]]* Auch wenn [[Mieterhöhungen]] nicht gegen Gesetze [[verstoßen]], sei es [[Aufgabe]] der Politik, hier [[mieterunterstützend]] [[einzugreifen]]. ^13
+
+
 24 Der Staat sollte intensiver [[eingreifen]].  
 
 ---

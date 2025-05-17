@@ -1,1 +1,1 @@
-, [[zufrieden]], [[neidisch]], [[missbilligend]]
+, [[zufrieden]], [[neidisch]], [[missbilligend]], [[mürrisch]]

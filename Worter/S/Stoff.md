@@ -71,4 +71,4 @@ Deklinationstabelle:
 | Nominativ | der Stoff      | die Stoffe    |
 | Genitiv   | des Stoffs     | der Stoffe    |
 | Dativ     | dem Stoff      | den Stoffen   |
-| Akkusativ | den Stoff      | die Stoffe    |, [[Leinewand]], [[Kunststoffabfall]], [[Kunststoffreste]], [[Abwehrstoff]], [[Stoffwechsel]]
+| Akkusativ | den Stoff      | die Stoffe    |, [[Leinewand]], [[Kunststoffabfall]], [[Kunststoffreste]], [[Abwehrstoff]], [[Stoffwechsel]], [[Sauerstoff]]

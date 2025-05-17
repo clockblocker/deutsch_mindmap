@@ -32,4 +32,4 @@ PI: [[weisend]], PII: [[gewiesen]], Zu+inf: [[zuweisen]]
 [[weisen]] - to point, to indicate, to show
 
 ---
-[[Weisung]], [[Anweisung]], [[hinweisen]], [[zuweisen]], [[verweisen]], [[Wegweiser]], [[beziehungsweise]], [[s1 e1]], [[beweisen]], [[vorweisen]], [[erweisen]], [[anweisen]]
+[[Weisung]], [[Anweisung]], [[hinweisen]], [[zuweisen]], [[verweisen]], [[Wegweiser]], [[beziehungsweise]], [[s1 e1]], [[beweisen]], [[vorweisen]], [[erweisen]], [[anweisen]], [[aufweisen]], [[Hinweis]]

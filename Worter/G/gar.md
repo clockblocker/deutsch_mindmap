@@ -7,4 +7,4 @@ NIC: [[Gar nichts]] … Tja, Ladies … eines Tages werdet ihr sagen.
 *Er peitschte seine Gretchen [[gar]]!*
 
 *Und Minz und Maunz, die schreien*  
-*[[gar]] jämmerlich zu zweien:*  , [[ganz und gar]], [[garstig]], [[Gartenzaun]], [[Abtönungspartikeln]]
+*[[gar]] jämmerlich zu zweien:*  , [[ganz und gar]], [[garstig]], [[Gartenzaun]], [[Abtönungspartikeln]], [[Garaus]]

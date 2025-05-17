@@ -9,7 +9,7 @@ Da fing eines Tages der Fischer einen großen Fisch. Der sprach:
 ---
 = [[erkenntlich]], [[verbunden]], [[verpflichtet]]
 ≈ [[dankend]], [[erkenntlich]], [[verbunden]]
-≠ [[undankbar]], [[gleichgültig]], [[undankbar]], [[ignorant]]
+≠ [[undankbar]], [[gleichgültig]], [[undankbar]], [[Ignorant]]
 
 ---
 grateful, thankful

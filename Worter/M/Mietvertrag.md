@@ -1,2 +1,2 @@
 , [[Miethaus]]
-, [[Miete]], [[mieten]]
+, [[Miete]], [[mieten]], [[Mietrecht]]

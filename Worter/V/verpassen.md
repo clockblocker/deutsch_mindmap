@@ -36,4 +36,4 @@ PI: [[verpassend]], PII: [[verpasst]], Zu+inf: [[zu verpassen]]
 ---
 [[Verpassung]], [[Versäumnis]], [[verpassbar]], [[unverpasst]]
 , [[zusammenbekommen]]
-, [[mitbekommt]], [[verspielen]], [[raffen]], [[stoßen]], [[wahrnehmen]], [[verweigern]]
+, [[mitbekommt]], [[verspielen]], [[raffen]], [[stoßen]], [[wahrnehmen]], [[verweigern]], [[beschaffen]]

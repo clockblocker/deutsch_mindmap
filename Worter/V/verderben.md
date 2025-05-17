@@ -33,4 +33,4 @@ Morpheme: [[ver]][[derb]][[en]]
 
 Partizip I: [[verderbend]], Partizip II: [[verdorben]]
 
-[[verderben]] - [[ver]] = [[derben]], [[versauen]]
+[[verderben]] - [[ver]] = [[derben]], [[versauen]], [[ausreifen]], [[reifen]], [[verheeren]]

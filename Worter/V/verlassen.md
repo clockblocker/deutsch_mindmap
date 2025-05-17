@@ -4,6 +4,9 @@
 ---
 In einem Monat werden sie das Land [[verlassen]].
 
+*[[C1-Hoehen-T1-100-Text#^7|^]]* Beide [[austauschen|tauschen]] ihre Argumente aus, das Buch [[verlässt]] [[erneut]] die [[Erzählstruktur]] und gibt einen [[fundierten]] [[Überblick]] über das Leben im [[Stadtteil]] früher und heute. ^7
+
+
 *[[C1-Lesen-T1-001-Text#^37|^]]* Das Team um Volk (8) [[verlässt]] zwar auf Hundenasen, weil die ihre [[Eignung]] zum [[Aufspüren]] von Krankheiten aller Art [[bewiesen]] hätten. ^37
 
 
@@ -57,4 +60,4 @@ Partizip I: [[verlassend]], Partizip II: [[verlassen]]
 , [[anstoßen]]
 , [[abfahren]]
 , [[kennenlernen]]
-, [[aussteigen]], [[widmen]], [[verabschieden]], [[hinauslaufen]], [[schleppen]], [[geraten]], [[unzuverlässig]], [[landen]], [[hinstehen]], [[initiieren]], [[abströmen]], [[aufhalten]], [[einnehmen]], [[Herkunftsland]], [[betreuen]], [[lenken]], [[erobern]]
+, [[aussteigen]], [[widmen]], [[verabschieden]], [[hinauslaufen]], [[schleppen]], [[geraten]], [[unzuverlässig]], [[landen]], [[hinstehen]], [[initiieren]], [[abströmen]], [[aufhalten]], [[einnehmen]], [[Herkunftsland]], [[betreuen]], [[lenken]], [[erobern]], [[zurückziehen]]

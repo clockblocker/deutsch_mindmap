@@ -1,1 +1,1 @@
-, [[erkundigen]], [[Erkunden]]
+, [[erkundigen]], [[Erkunden]], [[Erkundung]]

@@ -1,2 +1,2 @@
 , [[Freude]], [[Herzeleid]]
-, [[zufriedengeben]], [[Wohlbefinden]], [[Unmut]], [[Mitarbeiterzufriedenheit]]
+, [[zufriedengeben]], [[Wohlbefinden]], [[Unmut]], [[Mitarbeiterzufriedenheit]], [[Wohlergehen]]

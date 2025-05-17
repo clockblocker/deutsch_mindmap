@@ -1,1 +1,1 @@
-, [[Vernichtung]], [[abschaffen]], [[beseitigen]]
+, [[Vernichtung]], [[abschaffen]], [[beseitigen]], [[Entsorgung]]

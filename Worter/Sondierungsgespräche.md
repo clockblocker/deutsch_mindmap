@@ -9,7 +9,7 @@ Programm CDU + SPD
 ---
 = [[Vorgespräche]], [[Erkundungsgespräche]]
 ≈ [[Verhandlungen]], [[Gespräche]], [[Beratungen]]
-≠ [[Entscheidungen]], [[Festlegungen]]
+≠ [[Entscheidung]]en, [[Festlegungen]]
 
 ---
 exploratory talks, preliminary talks

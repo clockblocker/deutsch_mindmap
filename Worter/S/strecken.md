@@ -7,6 +7,8 @@ haben [[gestreckt]]
 ---
 So, ich gehe jetzt ins Bett! ([[Gähnt]] und streckt sich) Ja, das hab ich mir heute redlich verdient. 
 
+*[[C1-Lesen-T4-101-Text#^14|^]]* Mein Vorschlag: Sollte es bei der bemannten [[Raumfahrt]] [[tatsächlich]] am Geld [[scheitern]], dann müsste man die Raumfahrtprogramme [[eben]] [[zeitlich]] [[strecken]]. ^14
+
 
 ---
 Synonyme: [[ausdehnen]], [[recken]], [[dehnen]], [[ausbreiten]], [[spannen]], [[bücken]]

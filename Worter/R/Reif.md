@@ -25,7 +25,7 @@ Morpheme:
 
 
 Einzigartige mögliche Formen: 
-[[Reif]], [[reifer]], [[reife]], [[reifes]], [[reifen]], [[reifem]], [[reifer]], [[reifen]]
+[[Reif]], [[reifer]], [[Reife]], [[reifes]], [[reifen]], [[reifem]], [[reifer]], [[reifen]]
 [[reiferen]], [[reiferer]], [[reifere]], [[reiferes]], [[reiferen]], [[reirerem]], [[reiferer]], [[reiferen]]
 [[reifsten]], [[reifster]], [[reifste]], [[reifstes]], [[reifsten]], [[reifestem]], [[reifster]], [[reifsten]]
 
@@ -35,4 +35,4 @@ Einzigartige mögliche Formen:
 *und brachte seinen runden [[Reif]].*  
 
 hoop
-, [[Ring]]
+, [[Ring]], [[ausreifen]]

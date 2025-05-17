@@ -6,6 +6,14 @@ die [[Bereiche]]
 ---
 Diesen [[Bereich]] darf niemand [[betreten]].
 
+*[[C1-Lesen-T4-102-Text#^19|^]]* Outsourcing, bei dem [[entweder]] [[einzeln]]e [[Arbeitsschritt]]e oder gar [[komplett]]e [[Bereich]]e und [[Abteilung]]en eines Unternehmens an eine andere Firma [[ausgelagert]] werden, hat natürlich [[Kosteneinsparung]] und [[Qualitätssteigerung]] zum Ziel, was für den heutigen globalen [[Wettbewerb]] [[unumgänglich]] ist. ^19
+
+
+*[[C1-Lesen-T4-102-Text#^6|^]]* Hätte ich all diese [[Bereich]]e als [[Abteilung]]en in meinem eigenen Unternehmen [[aufgebaut]], hätte mich das viel mehr Zeit und Geld gekostet. ^6
+
+
+*[[C1-Lesen-T4-102-Text#^5|^]]* Diese [[Bereich]]e musste ich alle [[auslagern]], also outsourcen, damit ich mich auf die [[eigentlich]]en [[Aufgabe]]n meines Online-Handels, das sogenannte [[Kerngeschäft]], konzentrieren konnte.
+
 24 Menschen sind oft [[ungeeignet]], bestimmte [[Bereiche]] zu [[erforschen]].  b?
 
 *[[C1-Lesen-T2-101-Text#^7|^]]* Das haben schon unsere Großeltern gesagt und das gilt in vielen [[Bereichen]], zum Beispiel auch bei Spielzeug für Kinder. ^7

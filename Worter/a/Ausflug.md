@@ -22,4 +22,4 @@ G: des [[Ausflugs]], der [[Ausflüge]]
 D: dem [[Ausflug]], den [[Ausflügen]]  
 
 ---
-[[Ausflugslokal]], [[Ausflugsgaststätte]], [[Ausflugsfahrt]], [[Ausflugsziel]], [[Ausflügler]], [[Spaziergang]], [[Dienstreise]]
+[[Ausflugslokal]], [[Ausflugsgaststätte]], [[Ausflugsfahrt]], [[Ausflugsziel]], [[Ausflügler]], [[Spaziergang]], [[Dienstreise]], [[Flug]]

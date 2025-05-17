@@ -3,6 +3,12 @@
 ---
 Ich [[beziehe]] mich [[Worter/A/auf]] das, was Sie [[vorhin]] [[erwähnt]] haben.  
 
+*[[C1-Lesen-T4-101-Text#^3|^]]* Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]. ^3
+
+
+*[[C1-Lesen-T4-101-Text#^2|^]]* Andererseits ist das [[häufig]] [[erwähnte]] Argument, dass beispielsweise Geologinnen und Geologen vor Ort nicht zu [[ersetzen]] seien, nicht von der Hand zu weisen. ^2
+
+
 *[[C1-Lesen-T4-100-Text#^24|^]]* [[Erwähnt]] man aber die [[Kunstepoche]] gegenüber [[Straßenpassanten]], so stellen sich viele nur eine wilde [[Kleck]]­serei vor und [[schütteln]] [[missbilligend]] den Kopf. ^24
 
 

@@ -1,3 +1,3 @@
 [[Waschmittel]]
 
-[[Waschen]], [[Waschbecken]]
+[[Waschen]], [[Waschbecken]], [[Waschbär]]

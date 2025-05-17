@@ -1,1 +1,1 @@
-, [[Kürzung]], [[Osterweiterung]]
+, [[Kürzung]], [[Osterweiterung]], [[Verharmlosung]]

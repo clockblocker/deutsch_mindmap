@@ -3,6 +3,9 @@
 ---
 Er kann links und rechts nicht [[unterscheiden]].
 
+*[[C1-Hoehen-T1-200-Text#^3|^]]* Zunächst kann er `kaum` [[Dachs]] `von` [[Waschbär]] [[unterscheiden]], ganz zu schweigen von den vielen [[Baumarten]], die ihn [[umgeben]]. ^3
+
+
 *[[C1-Lesen-T2-100-Text#^10|^]]* Die damaligen Studierenden wollten sich vor allem sprachlich vom [[Spießbürgertum]] unterscheiden. ^10
 
 

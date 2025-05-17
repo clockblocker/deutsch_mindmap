@@ -38,4 +38,4 @@ Morpheme: [[um]][[zieh]][[en]]
 Partizip I: [[umziehend]], Partizip II: [[umgezogen]]
 
 [[umziehen]] - [[um]] = [[ziehen]] / to move (house)
-, [[Umzug]]
+, [[Umzug]], [[verlagern]]

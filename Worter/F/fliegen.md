@@ -47,4 +47,4 @@ Partizip I: [[fliegend]], Partizip II: [[geflogen]]
 
 , [[krabbeln]], [[s1 e1]], [[Flugzeug]], [[aufliegen]]
 , [[anstoßen]]
-, [[schwirren]], [[herumkriechen]]
+, [[schwirren]], [[herumkriechen]], [[Flug]]

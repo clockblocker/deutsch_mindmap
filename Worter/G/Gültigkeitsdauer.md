@@ -1,1 +1,1 @@
-, [[gültig]]
+, [[gültig]], [[Vertragslaufzeit]]

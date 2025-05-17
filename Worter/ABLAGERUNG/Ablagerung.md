@@ -1,1 +1,1 @@
-, [[ablagern]]
+, [[ablagern]], [[Entsorgung]]

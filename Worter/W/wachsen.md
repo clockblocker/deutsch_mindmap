@@ -35,4 +35,4 @@ PI: [[wachsend]], PII: [[gewachsen]], Zu+inf: [[zu wachsen]]
 
 , [[eingehen]], [[schrumpfen]], [[zusammenschrumpfen]], [[schwinden]], [[entstehen]]
 , [[aufwachen]]
-, [[rasieren]], [[Nachwuchs]], [[Fassade]], [[vermehren]]
+, [[rasieren]], [[Nachwuchs]], [[Fassade]], [[vermehren]], [[fortschreiten]]

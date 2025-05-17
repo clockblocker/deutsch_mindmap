@@ -1,1 +1,1 @@
-, [[fehlen]], [[benötigen]]
+, [[fehlen]], [[benötigen]], [[beobachten]]

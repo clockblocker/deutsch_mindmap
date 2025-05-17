@@ -3,6 +3,8 @@
 ---
 Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird. 
 
+*[[C1-Lesen-T4-102-Text#^23|^]]* Es schafft natürlich auch eine [[gewisse]] Unruhe unter den Mitarbeitenden, weil diese [[befürchten]], dass eines Tages auch ihre [[Arbeitsstelle]] [[ausgelagert]] werden könnte.
+
 *[[3  Ein Selbstversuch als Hobbybäuerin#^16|^]]* Andere Freunde [[anriefen|riefen]] mich immer [[seltener]] an, weil sie [[befürchteten]], ich könnte sie um Hilfe bitten. ^16
 
 ---

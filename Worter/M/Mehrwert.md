@@ -26,3 +26,5 @@ A: den [[Mehrwert]], die [[Mehrwerte]]
 G: des [[Mehrwertes]], der [[Mehrwerte]]  
 D: dem [[Mehrwert]], den [[Mehrwerten]]
 , [[schaden]], [[nutzen]]
+
+#Maskulin 

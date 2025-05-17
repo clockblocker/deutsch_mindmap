@@ -1,1 +1,1 @@
-, [[armer]], [[armen]], [[reich]], [[Reiche]], [[bedürftig]], [[Wohlstand]], [[gutbetucht]]
+, [[armer]], [[armen]], [[reich]], [[Reiche]], [[bedürftig]], [[Wohlstand]], [[gutbetucht]], [[einkommensschwach]]

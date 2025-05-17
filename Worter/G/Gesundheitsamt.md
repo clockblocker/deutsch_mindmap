@@ -27,4 +27,4 @@ G: des [[Gesundheitsamts]], der [[Gesundheitsämter]]
 D: dem [[Gesundheitsamt]], den [[Gesundheitsämtern]]  
 
 ---
-[[gesund]], [[Amt]], [[Worter/G/Gesundheit]], [[amtlich]], [[Behörde]], [[Worter/G/Gesundheit]]
+[[gesund]], [[Amt]], [[Worter/G/Gesundheit]], [[amtlich]], [[Behörde]], [[Worter/G/Gesundheit]], [[Gesundheitswesen]]

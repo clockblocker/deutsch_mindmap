@@ -1,1 +1,1 @@
-, [[vergnügen]]
+, [[vergnügen]], [[amüsant]]

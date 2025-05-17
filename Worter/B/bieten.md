@@ -5,6 +5,9 @@ haben [[geboten]]
 ---
 Dieses Hotel [[bietet]] [[ebenfalls]] einen Blick aufs Meer.
 
+*[[3 Soll man Geld spenden?#^8|^]]* Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[gewissen]] [[Mehrwert]] zu [[bieten]]. ^8
+
+
 *[[100-C1-Schreiben-T2#^3|^]]* Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3
 
 

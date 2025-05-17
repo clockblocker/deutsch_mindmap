@@ -3,6 +3,7 @@
 ---
 [[2 prap.md#^5|(q)]] [[aufgrund]] / auf Grund des Streiks, aufgrund / auf Grund der [[widrigen]] [[Umstände]] ^5  
 
+
 - Im neuen Büro besteht kein [[Zugang]] `zu` Wasser, da die Kantine [[aufgrund]] von Umbauarbeiten geschlossen ist
 
 ---

@@ -1,2 +1,2 @@
 [[fahren]], [[Ostasienfahrt]]
-, [[abfahren]], [[Reise]], [[Vorfahrt]]
+, [[abfahren]], [[Reise]], [[Vorfahrt]], [[Raumfahrt]]

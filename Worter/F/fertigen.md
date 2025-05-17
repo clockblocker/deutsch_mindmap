@@ -1,1 +1,1 @@
-[[Fertig]], [[bauen]], [[machen]], [[ungerechtfertigen]], [[herstellen]]
+[[Fertig]], [[bauen]], [[machen]], [[ungerechtfertigen]], [[herstellen]], [[rechtfertigen]]

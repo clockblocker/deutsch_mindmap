@@ -1,1 +1,1 @@
-, [[Hauptaufgabe]]
+, [[Hauptaufgabe]], [[Kerngeschäft]]

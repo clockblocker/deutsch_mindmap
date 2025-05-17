@@ -1,1 +1,1 @@
-, [[verderben]], [[zerstörten]], [[vernichten]], [[versauen]]
+, [[verderben]], [[zerstörten]], [[vernichten]], [[versauen]], [[verheeren]]

@@ -32,3 +32,4 @@ G: der [[Interaktion]], der [[Interaktionen]]
 D: der [[Interaktion]], den [[Interaktionen]]
 
 #Feminin 
+, [[Zusammenspiel]]

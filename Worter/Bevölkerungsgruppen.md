@@ -1,0 +1,1 @@
+🔴 die [[Bevölkerungsgruppe]] 🧑‍🤝‍🧑

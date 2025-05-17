@@ -3,7 +3,7 @@
 haben [[gelesen]]
 
 ---
-
+*[[C1-Hoehen-T1-200-Text#^21|^]]* Dennoch [[liest]] es sich wie ein Roman und [[zeitweise]] hat man den [[Eindruck]] [[tatsächlich]] ein Wald zu sein.
 
 ---
 Synonyme: [[studieren]], [[durchblättern]], [[überfliegen]], [[betrachten]], [[konsultieren]]
@@ -31,4 +31,4 @@ Partizip I: [[lesend]], Partizip II: [[gelesen]]
 
 [[lesen]] + [[vor]] = [[vorlesen]]  
 , [[Zwischen den Zeilen lesen]], [[auslesen]]
-, [[Leseverstehen]], [[Absammeln]], [[entziffern]]
+, [[Leseverstehen]], [[Absammeln]], [[entziffern]], [[Lesenswert]], [[Leser]]
