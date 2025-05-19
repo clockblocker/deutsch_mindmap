@@ -7,7 +7,7 @@ Statt zu arbeiten, [[erholt]] er sich [[ständig]]
 
 Wir fahren nach Süden, um uns zu [[erholen]]
 
-[[erholen.md#^1|(q)]] sich selbst aus der [[Erschöpfung]] [[zurückholen]] ^1
+[[erholen.md#^1|^]] sich selbst aus der [[Erschöpfung]] [[zurückholen]] ^1
 
 1. Он умеет хорошо отдыхать. Er kann sich gut [[erholen]]
 

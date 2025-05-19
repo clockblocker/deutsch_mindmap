@@ -1,1 +1,1 @@
-, [[reisen]], [[herumkriechen]]
+, [[reisen]], [[herumkriechen]], [[radeln]]

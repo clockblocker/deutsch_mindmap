@@ -5,7 +5,7 @@ nicht [[Reif]]
 ---
  Du bist das sexistischste, unreifste Erbsenhirn, das ich kenne! 
 
-[[3 ADHD.md#^12|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich eine Tendenz zur [[Unreife]]. ^12
+[[3 ADHD.md#^12|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich eine Tendenz zur [[Unreife]]. ^12
 
 
 ---

@@ -1,2 +1,2 @@
 , [[ehren]], [[Bundesverdienstkreuz]]
-, [[loben]], [[ausgezeichnet]]
+, [[loben]], [[ausgezeichnet]], [[Auszeichnung]]

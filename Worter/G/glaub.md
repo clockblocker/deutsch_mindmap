@@ -1,6 +1,7 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🔵 der [[Glaub]], [ɡlaʊ̯p], 🗣️ [[glauben]], [ˈɡlaʊ̯bn̩]
 die [[Glauben]]
-
 
 ---
 

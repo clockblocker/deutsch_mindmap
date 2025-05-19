@@ -51,4 +51,4 @@ G: der [[Präsentation]], der [[Präsentationen]]
 D: der [[Präsentation]], den [[Präsentationen]]
 
 
-#Feminin , [[Pitch]]
+#Feminin , [[Pitch]]---> [[🗣️ Ingredient-Meinung]] <---

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ruh]], [[Ruhes]], [[Ruhe]], [[Ruhen]]
 
 ---
-#Substantiv #Neuter, [[unruhig]]
+#Substantiv #Neuter, [[unruhig]], [[beruhen]]

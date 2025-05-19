@@ -1,2 +1,2 @@
 Inf: [[glauben]]
-, [[glaub]]
+, [[Glaub]]

@@ -4,74 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2587b4ffe65ca755",
+        "id": "45c2a3cbe24a40a2",
         "type": "tabs",
-        "dimension": 82.26072607260726,
         "children": [
           {
-            "id": "b930f190a5df6392",
+            "id": "686acd413faa7012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-102/C1-Lesen-T2-102-Text.md",
+                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-201/C1-Hoehen-T1-201-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Lesen-T2-102-Text"
+              "title": "C1-Hoehen-T1-201-Text"
             }
           },
           {
-            "id": "a87e7dc359abf133",
+            "id": "a5079d0fc8868a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Z/zeitweise.md",
+                "file": "Worter/Ü/überzeugt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zeitweise"
+              "title": "überzeugt"
             }
           },
           {
-            "id": "4affbdf580925107",
+            "id": "055fd2a7240cae09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/G/Gewässer.md",
+                "file": "Worter/Ü/überzeugen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gewässer"
+              "title": "überzeugen"
             }
           }
-        ]
-      },
-      {
-        "id": "ac40ba83a6a3dbaf",
-        "type": "tabs",
-        "dimension": 17.73927392739274,
-        "children": [
-          {
-            "id": "aca5204f4b53988c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-200/C1-Hoehen-T1-200-Unmarked-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Hoehen-T1-200-Unmarked-Text"
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 224.50390243530273
   },
   "right": {
     "id": "66459609b2a42235",
@@ -222,53 +200,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b930f190a5df6392",
+  "active": "055fd2a7240cae09",
   "lastOpenFiles": [
-    "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-101/C1-Lesen-T2-101-Text.md",
-    "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-100/C1-Lesen-T2-100-Text.md",
-    "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-2/C1-Lesen-T2-201/C1-Lesen-T2-201-Text.md",
-    "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-2/C1-Lesen-T2-201/C1-Lesen-T2-201-Loesung.md",
+    "Worter/Ü/überzeugt.md",
     "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-201/C1-Hoehen-T1-201-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-200/C1-Hoehen-T1-200-Text.md",
-    "Worter/EINSCHALTENDSTEM/einschaltendstem.md",
-    "Worter/EINSCHALTENDSTEM",
-    "Worter/EINSCHALTENDSTEN/einschaltendsten.md",
-    "Worter/EINSCHALTENDSTEN",
-    "Worter/EINSCHALTENDSTE/einschaltendste.md",
-    "Worter/EINSCHALTENDSTE",
-    "Worter/EINSCHALTENDSTES/einschaltendstes.md",
-    "Worter/EINSCHALTENDSTES",
-    "Worter/EINSCHALTENDSTER/einschaltendster.md",
-    "Worter/EINSCHALTENDSTER",
-    "Worter/EINSCHALTENDEREM/einschaltenderem.md",
-    "Worter/EINSCHALTENDEREM",
-    "Worter/EINSCHALTENDEREN/einschaltenderen.md",
-    "Worter/EINSCHALTENDEREN",
-    "Worter/EINSCHALTENDERE/einschaltendere.md",
-    "Worter/EINSCHALTENDERE",
-    "Worter/EINSCHALTENDERES/einschaltenderes.md",
-    "Worter/EINSCHALTENDERES",
-    "Worter/EINSCHALTENDERER/einschaltenderer.md",
-    "Worter/EINSCHALTENDERER",
-    "Worter/EINSCHALTENDEM/einschaltendem.md",
-    "Worter/EINSCHALTENDEN/einschaltenden.md",
-    "Worter/EINSCHALTENDE/einschaltende.md",
-    "Worter/EINSCHALTENDES/einschaltendes.md",
-    "Worter/EINSCHALTENDST/einschaltendst.md",
-    "Worter/EINSCHALTENDER/einschaltender.md",
-    "Worter/EINSCHALTEND/einschaltend.md",
-    "Worter/E/eingeschaltet.md",
-    "Worter/E/einschalten.md",
-    "Worter/EINZUSCHALTEN/einzuschalten.md",
+    "Worter/N/Nöte.md",
+    "Worter/N/Not.md",
+    "Worter/D/Dorf.md",
+    "Worter/V/verlässt.md",
+    "Worter/V/verlassen.md",
+    "Worter/Tatendrang.md",
+    "Worter/TATENDRANG(E)S/Tatendrang(e)s.md",
+    "Worter/TATENDRANG(E)S",
+    "Worter/ELAN/Elan.md",
+    "Worter/ELAN",
+    "Worter/HANDLUNGSWILLE/Handlungswille.md",
+    "Worter/HANDLUNGSWILLE",
+    "Worter/Z/zurechtfinden.md",
+    "Worter/TIEFGRÜNDIG/tiefgründig.md",
+    "Worter/ZURECHTFINDENDSTEM/zurechtfindendstem.md",
+    "Worter/ZURECHTFINDENDSTEM",
+    "Worter/ZURECHTFINDENDSTEN/zurechtfindendsten.md",
+    "Worter/ZURECHTFINDENDSTEN",
+    "Worter/ZURECHTFINDENDSTE/zurechtfindendste.md",
+    "Worter/ZURECHTFINDENDSTE",
+    "Worter/ZURECHTFINDENDSTES/zurechtfindendstes.md",
+    "Worter/ZURECHTFINDENDSTES",
+    "Worter/ZURECHTFINDENDSTER/zurechtfindendster.md",
+    "Worter/ZURECHTFINDENDSTER",
+    "Worter/ZURECHTFINDENDEREM/zurechtfindenderem.md",
+    "Worter/ZURECHTFINDENDEREM",
+    "Worter/ZURECHTFINDENDEREN/zurechtfindenderen.md",
+    "Worter/ZURECHTFINDENDEREN",
+    "Worter/ZURECHTFINDENDERE/zurechtfindendere.md",
+    "Worter/ZURECHTFINDENDERES/zurechtfindenderes.md",
+    "Worter/ZURECHTFINDENDERER/zurechtfindenderer.md",
+    "Worter/ZURECHTFINDENDEM/zurechtfindendem.md",
+    "Worter/ZURECHTFINDENDEN/zurechtfindenden.md",
+    "Worter/ZURECHTFINDENDE/zurechtfindende.md",
+    "Anhänge/Pasted image 20250518110508.png",
+    "Anhänge/Pasted image 20250518110417.png",
+    "Anhänge/Pasted image 20250518110147.png",
     "Anhänge/Pasted image 20250517092641.png",
+    "Anhänge/Pasted image 20250518103117.png",
     "Anhänge/Pasted image 20250516052135.png",
     "Anhänge/Pasted image 20250516052120.png",
     "Anhänge/Pasted image 20250516052104.png",
     "Anhänge/Pasted image 20250516052046.png",
-    "Anhänge/Pasted image 20250515091240.png",
-    "Anhänge/Pasted image 20250515091148.png",
-    "Anhänge/Pasted image 20250515091030.png",
-    "Anhänge/Pasted image 20250515090856.png",
-    "Anhänge/Pasted image 20250514073109.png"
+    "Anhänge/Pasted image 20250515091240.png"
   ]
 }

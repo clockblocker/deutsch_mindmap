@@ -13,7 +13,7 @@ Es ist ihr Traum ==beziehungsweise== ==der== Wunsch, Polizistin zu werden.
 
 
 
-[[Ein Auge zudrücken.md#^1|(q)]] Aber was bedeutet es, wenn man nur ein Auge schließt [[bzw.]] zudrückt?
+[[Ein Auge zudrücken.md#^1|^]] Aber was bedeutet es, wenn man nur ein Auge schließt [[bzw.]] zudrückt?
 
 ---
 = [[oder]], [[respektive]], [[bzw.]]

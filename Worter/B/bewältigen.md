@@ -50,4 +50,4 @@ sie, [[bewältigen]], [[bewältigten]], [[bewältigen]], [[bewältigten]], [[bew
 Adjektive: [[bewältigend]], [[bewältigender]], [[bewältigendst]]
 
 ---
-[[bewältigender]], [[bewältigendes]], [[bewältigende]], [[bewältigenden]], [[bewältigendem]], [[bewältigenderer]], [[bewältigenderes]], [[bewältigendere]], [[bewältigenderen]], [[bewältigenderem]], [[bewältigendster]], [[bewältigendstes]], [[bewältigendste]], [[bewältigendsten]], [[bewältigendstem]], [[abarbeiten]], [[absolvieren]]
+[[bewältigender]], [[bewältigendes]], [[bewältigende]], [[bewältigenden]], [[bewältigendem]], [[bewältigenderer]], [[bewältigenderes]], [[bewältigendere]], [[bewältigenderen]], [[bewältigenderem]], [[bewältigendster]], [[bewältigendstes]], [[bewältigendste]], [[bewältigendsten]], [[bewältigendstem]], [[abarbeiten]], [[absolvieren]], [[zurechtfinden]]

@@ -3,7 +3,7 @@
 die [[Sprüche]]
 
 ---
-[[2 Unter Druck nach oben#^8|(q)]] „In zehn Jahren will ich Ihren Posten“ – der Kandidat mit diesem [[Spruch]] hätte [[verspielt]]. ^8
+[[2 Unter Druck nach oben#^8|^]] „In zehn Jahren will ich Ihren Posten“ – der Kandidat mit diesem [[Spruch]] hätte [[verspielt]]. ^8
 
 ---
 = [[Aussage]], [[Redewendung]], [[Sentenz]],  [[Redensart]], [[Sprichwort]],
@@ -27,4 +27,4 @@ N: der [[Spruch]], die [[Sprüche]]
 A: den [[Spruch]], die [[Sprüche]]
 G: des [[Spruches]], der [[Sprüche]]
 D: dem [[Spruch]], den [[Sprüchen]]
-, [[anspruchsvoll]]
+, [[anspruchsvoll]], [[beanspruchen]]---> [[🗣️ Ingredient-Meinung]] <---

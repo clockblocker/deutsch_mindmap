@@ -3,11 +3,14 @@
 
 
 ---
-[[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. [[14 perfekt#^14|(q)]]
+[[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. [[14 perfekt#^14|^]]
+
+*[[C1-Hoehen-T1-201-Text#^4|^]]* Bereits in den ersten Szenen [[erfahren]] die [[Zuschauer]], dass das [[Urteil]] im [[bevorstehend]]en Prozess [[eigentlich]] bereits [[feststeht]]. ^4
+
 
 Achtest du [[eigentlich]] auf deine Kinder? Ты вообще обращаешь внимание на своих детей?
 
-«Die Pilze habe ich auf dem Tisch gefunden. Woher kommen sie [[eigentlich]]?» [[17 zu inf#^20|(q)]]
+«Die Pilze habe ich auf dem Tisch gefunden. Woher kommen sie [[eigentlich]]?» [[17 zu inf#^20|^]]
 
 Manchmal sagt er Nein zu Dingen, die [[eigentlich]] ganz [[sinnvoll]] wären. Bestimmt wird er alle [[möglichen]] [[Einwände]] haben: Wo soll er das Geld [[herholen]]?
 

@@ -1,8 +1,11 @@
+---> [[🎯 Ingredient-Result-Verb]] <---
 
 🛑 [[hemmen]], [ˈhɛmən](https://youglish.com/pronounce/hemmen/german) → [[hemmte]] → [[gehemmt]]
 
 ---
-- Nennen Sie ein Beispiel, wie Standards Schüler:innen helfen oder [[hemmen]] können.
+Nennen Sie ein Beispiel, wie Standards Schüler:innen helfen oder [[hemmen]] können.
+
+*[[C1-Lesen-T2-102-Text#^32|^]]* Bei intensiven [[Kurzzeitbelastung]]en wird also im menschlichen Körper besonders viel Lac-Phe [[freigesetzt]]. Ob das auch besonders stark den Appetit [[hemmt]], wurde allerdings nicht [[überprüft]]
 
 ---
 = [[verhindern]], [[blockieren]], [[aufhalten]]
@@ -13,7 +16,7 @@
 
 
 ---
-to inhibit, to impede  
+🛑 [[hemmen]] *(to inhibit, to impede)*  
 тормозить, препятствовать
 
 ---

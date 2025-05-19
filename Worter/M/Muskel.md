@@ -1,1 +1,1 @@
-, [[Fleisch]], [[Muskelkater]]
+, [[Fleisch]], [[Muskelkater]], [[muskelbepackt]], [[Muskelaufbau]]

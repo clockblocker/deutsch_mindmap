@@ -3,7 +3,7 @@
 die [[Öffnungszeiten]]
 
 ---
-[[2 prap.md#^8|(q)]] [[Außerhalb]] dieses [[Gebiets]], [[außerhalb]] unserer [[Öffnungszeiten]] ^8
+[[2 prap.md#^8|^]] [[Außerhalb]] dieses [[Gebiets]], [[außerhalb]] unserer [[Öffnungszeiten]] ^8
 
 ---
 = [[Geschäftszeiten]], [[Servicezeiten]]

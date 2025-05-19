@@ -1,1 +1,1 @@
-, [[treiben]], [[betreiben]]
+, [[treiben]], [[betreiben]], [[hochtreiben]], [[schweißtreibend]]

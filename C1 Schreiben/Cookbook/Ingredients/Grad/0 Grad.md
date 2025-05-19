@@ -11,8 +11,6 @@ Grad-gut
 
 
 
-
-
 #### 🔢 [[Zahlwörter]] – Numeric Amount Markers
 1) [[Anzahl]] *(number of…)*  
 2) [[Menge]] *(amount; volume)*  

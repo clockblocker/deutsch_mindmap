@@ -1,1 +1,1 @@
-, [[berücksichtigen]], [[Hinsicht]], [[Sichtverhältnis]]
+, [[berücksichtigen]], [[Hinsicht]], [[Sichtverhältnis]], [[Sichtweise]]

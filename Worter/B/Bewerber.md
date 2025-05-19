@@ -2,7 +2,7 @@
 die [[Bewerber]]
 
 ---
-[[2 Unter Druck nach oben#^7|(q)]] Wenn der Marketing-Manager der [[Beiersdorf]] AG Holger Welters mit einem [[Bewerber]] für seine Firma spricht, dann [[schreckt ab|schreckt]] ihn zum Beispiel [[ausgesprochenes]] [[Karrierebewusstsein]] ab. ^7
+[[2 Unter Druck nach oben#^7|^]] Wenn der Marketing-Manager der [[Beiersdorf]] AG Holger Welters mit einem [[Bewerber]] für seine Firma spricht, dann [[schreckt ab|schreckt]] ihn zum Beispiel [[ausgesprochenes]] [[Karrierebewusstsein]] ab. ^7
 
 
 

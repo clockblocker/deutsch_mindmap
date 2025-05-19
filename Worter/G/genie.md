@@ -1,7 +1,7 @@
 🌟 [[Genie]], [ˈɡeːniː]
 
 ---
-> [[16 Plusquamperfekt#^37|(q)]] «Wenn du ein [[Genie]] spielst, wirst du eins.» ^37
+> [[16 Plusquamperfekt#^37|^]] «Wenn du ein [[Genie]] spielst, wirst du eins.» ^37
 
 ---
 

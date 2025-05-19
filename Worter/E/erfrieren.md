@@ -3,7 +3,7 @@
 ---
 Sag du es uns! Wie bist du in das Eis gekommen und warum bist du gar nicht [[erfroren]]? (Tippt Aang mit dem der Rückseite des Speers an)
 
-[[Keine Lust.md#^3|(q)]] *Hab keine Lust, vom Schnee zu gehen*  
+[[Keine Lust.md#^3|^]] *Hab keine Lust, vom Schnee zu gehen*  
 *Hab keine Lust zu [[erfrieren]], rah* ^3
 
 ---

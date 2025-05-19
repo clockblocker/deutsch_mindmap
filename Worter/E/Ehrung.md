@@ -1,2 +1,2 @@
 , [[Anerkennung]], [[geehrt]], [[ehren]], [[Verdienstorden]], [[Ehrentitel]]
-, [[Lob]], [[Beleidigung]]
+, [[Lob]], [[Beleidigung]], [[Auszeichnung]]

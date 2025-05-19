@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 ❗ 🔴 die [[Abweichung]], [ˈapˌvaɪ̯çʊŋ](https://youglish.com/pronounce/Abweichung/german)
 die [[Abweichungen]]
 

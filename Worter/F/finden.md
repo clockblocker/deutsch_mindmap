@@ -5,7 +5,7 @@ haben [[gefunden]]
 ---
 Weil ihre Ehre nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
 
-Aber was er [[fand]], waren nur falsche Buddhas. Dann in einem Geschäft neben dem Bahnhof brachte der Verkäufer den richtigen. Auf dem [[Zettel]] stand der Preis: 1750 Mark. [[14 perfekt#^7|(q)]]
+Aber was er [[fand]], waren nur falsche Buddhas. Dann in einem Geschäft neben dem Bahnhof brachte der Verkäufer den richtigen. Auf dem [[Zettel]] stand der Preis: 1750 Mark. [[14 perfekt#^7|^]]
 
 ---
 [[erfinden]] - [[er]] = [[finden]] / invent
@@ -39,4 +39,4 @@ Partizip I: [[findend]], Partizip II: [[gefunden]]
 
 
 [[verlieren]], [[suchen]], [[entdeckten]]
-, [[erfinden]], [[befinden]], [[s1 e1]], [[Diebstahl]], [[stattfinden]], [[gelangen]], [[herausfinden]], [[bergen]], [[Erschnüffeln]]
+, [[erfinden]], [[befinden]], [[s1 e1]], [[Diebstahl]], [[stattfinden]], [[gelangen]], [[herausfinden]], [[bergen]], [[Erschnüffeln]], [[zurechtfinden]]

@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 ---> 🤝 [[Ingredient-Interaktion]] <---
 
 🧐 🔴 die [[Einschätzung]], [ˈaɪ̯nˌʃɛt͡sʊŋ]
@@ -29,3 +30,5 @@ N: die [[Einschätzung]], die [[Einschätzungen]]
 A: die [[Einschätzung]], die [[Einschätzungen]]
 G: der [[Einschätzung]], der [[Einschätzungen]]
 D: der [[Einschätzung]], den [[Einschätzungen]]
+
+#Feminin 

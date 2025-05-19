@@ -1,1 +1,1 @@
-, [[geschwind]], [[bald]], [[schleppen]], [[langsam]]
+, [[geschwind]], [[bald]], [[schleppen]], [[langsam]], [[gemächlich]], [[flott]]

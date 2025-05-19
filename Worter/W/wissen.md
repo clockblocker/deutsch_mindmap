@@ -8,6 +8,9 @@ haben [[gewusst]]
 - Keiner [[Weiß]] wie lang 
 - NIC: Hey Sam, du bist ein echter Freund … [[weißt]] du Geld ist wirklich nicht alles 
 
+*[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] [[wissen]]. ^13
+
+
 _[Ärgerlich]_ Ich [[wusste]] es doch! Du hast der Feuermarine ein Lichtsignal [[gegeben]], oder?
 
 ---
@@ -82,4 +85,4 @@ Konjunktiv II:
 - Wenn er aufmerksamer wäre, [[wüsste]] er, was er tun soll.
 - Wenn wir besser vorbereitet wären, [[wüssten]] wir die Lösung.
 - Wenn ihr mehr zuhören würdet, [[wüsstet]] ihr Bescheid.
-- Wenn sie mehr lesen würden, [[wüssten]] sie viel über die Welt., [[irren]], [[raten]], [[auskennen]], [[vermuten]], [[erfahren]], [[ahnen]], [[Erkenntnis]], [[Versehen]], [[Fachwissen]], [[Verständnis]], [[beherrschen]], [[Information]]
+- Wenn sie mehr lesen würden, [[wüssten]] sie viel über die Welt., [[irren]], [[raten]], [[auskennen]], [[vermuten]], [[erfahren]], [[ahnen]], [[Erkenntnis]], [[Versehen]], [[Fachwissen]], [[Verständnis]], [[beherrschen]], [[Information]]---> [[🗣️ Ingredient-Meinung]] <---

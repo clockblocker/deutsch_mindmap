@@ -17,7 +17,7 @@ slander, backbiting
 [[nachreden]], [[reden]], [[Rede]]
 
 ---
-[[Nach]]|[[rede]]
+[[Nach]]|[[Rede]]
 [[Nachrede]]
 
 
@@ -28,4 +28,4 @@ G: der [[Nachrede]], der [[Nachreden]]
 D: der [[Nachrede]], den [[Nachreden]]
 
 
-#Feminin 
+#Feminin ---> [[🗣️ Ingredient-Meinung]] <---

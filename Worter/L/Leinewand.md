@@ -26,3 +26,5 @@ Dative: der [[Leinewand]], den [[Leinewänden]]
 
 ---
 [[leinewandig]], [[bespannen]], [[geweben]]
+
+#Feminin 

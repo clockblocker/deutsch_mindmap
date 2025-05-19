@@ -2,7 +2,7 @@
 die [[Herrchen]]
 
 ---
-[[M1A1.md#^2|(q)]] **Vincke:** … weil ich im Fernsehen gesehen habe –, Sie suchen immer neue [[Herrchen]] oder Frauchen für die Hunde, die bei Ihnen gelandet sind. ^2
+[[M1A1.md#^2|^]] **Vincke:** … weil ich im Fernsehen gesehen habe –, Sie suchen immer neue [[Herrchen]] oder Frauchen für die Hunde, die bei Ihnen gelandet sind. ^2
 
 ---
 = [[Besitzer]], [[Herr]]

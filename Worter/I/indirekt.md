@@ -1,1 +1,1 @@
-, [[eben]], [[gerade]], [[direkt]]
+, [[eben]], [[gerade]], [[direkt]], [[geradezu]]

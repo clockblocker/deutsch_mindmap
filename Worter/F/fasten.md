@@ -1,1 +1,1 @@
-, [[fressen]], [[hungern]], [[Diät]], [[Verpflegung]], [[Nahrung]]
+, [[fressen]], [[hungern]], [[Diät]], [[Verpflegung]], [[Nahrung]], [[Zehrung]]

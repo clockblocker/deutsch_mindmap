@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 ---> 🤝 [[Ingredient-Interaktion]] <---
 ---> [[Ingredinet-Action-Nomen]] <---
 
@@ -34,4 +35,4 @@ G: der [[Motivation]], der [[Motivationen]]
 D: der [[Motivation]], den [[Motivationen]]
 
 
-#Feminin , [[Mitarbeiterzufriedenheit]], [[Anregung]], [[Antriebsfaktor]]
+#Feminin , [[Mitarbeiterzufriedenheit]], [[Anregung]], [[Antriebsfaktor]], [[Tatendrang]]

@@ -6,7 +6,7 @@
 die [[Beschäftigungen]]
 
 ---
-[[1 ADHD#^25|(q)]] [[unterbricht]] andere beim Arbeiten oder anderen [[Beschäftigungen]]. ^25
+[[1 ADHD#^25|^]] [[unterbricht]] andere beim Arbeiten oder anderen [[Beschäftigungen]]. ^25
 
 ---
 = [[Arbeit]], [[Tätigkeit]], [[Job]]

@@ -1,3 +1,4 @@
+---> 📈 [[Grad-Vergleich]] <---
 ---> 🧮 [[Grad-Quantität]] <---
 ---> 🧩 [[Grad-Ganzheit]] <---
 

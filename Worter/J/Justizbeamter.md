@@ -1,1 +1,1 @@
-, [[Richter]], [[Justizsenator]]
+, [[Richter]], [[Justizsenator]], [[Justiz]]

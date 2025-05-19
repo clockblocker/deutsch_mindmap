@@ -1,7 +1,7 @@
 😃 🔴 die [[Entscheidungsfreude]], [ɛntˈʃaɪ̯dʊŋsˌfʁɔɪ̯də]
 
 ---
-[[2 Unter Druck nach oben#^17|(q)]] [[Scheinbar]] typische Manager-Qualitäten wie [[Entscheidungsfreude]], [[Durchsetzungsvermögen]], [[Karriereorientierung]] und [[Risikobereitschaft]] rangieren am Schluss. ^17
+[[2 Unter Druck nach oben#^17|^]] [[Scheinbar]] typische Manager-Qualitäten wie [[Entscheidungsfreude]], [[Durchsetzungsvermögen]], [[Karriereorientierung]] und [[Risikobereitschaft]] rangieren am Schluss. ^17
 
 ---
 = [[Entscheidungsfreudigkeit]], [[Entschlussfreude]]

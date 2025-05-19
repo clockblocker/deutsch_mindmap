@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 ---> [[Ingredient-Bedürfnis]] <---
 
 🔴 die [[Grundlage]], [ˈɡrʊntˌlaːɡə]

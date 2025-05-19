@@ -1,1 +1,1 @@
-[[Diät]]
+[[Diät]], [[Abspecken]]

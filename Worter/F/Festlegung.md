@@ -25,4 +25,4 @@ G: der [[Festlegung]], der [[Festlegungen]]
 D: der [[Festlegung]], den [[Festlegungen]]  
 
 ---
-[[festlegen]], [[festgelegt]], [[verbindlich]], [[bestimmen]]
+[[festlegen]], [[festgelegt]], [[verbindlich]], [[bestimmen]], [[feststehen]]

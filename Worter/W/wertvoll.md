@@ -8,7 +8,7 @@ nicht [[wertlos]]
 
 *[[4 Autofrei#^9|^]]* Dann gibt es den Punkt "Ohne Autos braucht die Stadt keine Parkplätze": Es ist natürlich sehr unpraktisch, die [[geldlich]] [[wertvollen]] [[Quadratmeter]] der Innenstädte als Parkplätze zu nutzen. ^9
 
-[[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
+[[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 
 ---
 Synonyme: [[bedeutsam]], [[kostbar]], [[wertig]], [[hochwertig]], [[wichtig]]

@@ -2,7 +2,7 @@
 die [[Herausforderungen]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^12|(q)]] Diese Anwendung hat das Sprachenlernen für mich in ein spannendes Spiel und den politischen Druck in eine spannende [[Herausforderung]] [[verwandelt]]. ^12
+[[1 Wer bin ich und was mache ich hier?#^12|^]] Diese Anwendung hat das Sprachenlernen für mich in ein spannendes Spiel und den politischen Druck in eine spannende [[Herausforderung]] [[verwandelt]]. ^12
 
 
 Heute wird kontrovers darüber diskutiert, was die Menschen für die Klimaschutz tun könnte, um die [[Herausforderungen]] des Klimawechsels zu [[bewältigen]].
@@ -16,10 +16,10 @@ Heute wird kontrovers darüber diskutiert, was die Menschen für die Klimaschutz
 *[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderungen]] [[unterschätzt]] werden ^32
 
 
-[[1 Präpositionen Übungen.md#^8|(q)]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, ___ den [[Herausforderungen]] zu lernen. ^8
+[[1 Präpositionen Übungen.md#^8|^]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, ___ den [[Herausforderungen]] zu lernen. ^8
 
 
-[[1 ADHD#^9|(q)]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
+[[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 
 *[[06-C1-Schreiben-T2-M#^9|^]]* Leider stehen wir Mitarbeitende nun durch das Schließen der Kantine vor einer größeren [[Herausforderung]]: Wie Sie sicher wissen, gibt es keine anderen Restaurants oder Supermärkte im [[Umkreis]] und selbst, wenn wir uns unser Essen mitbringen würden, könnten wir es dennoch nicht warm machen, da die Teeküchen nicht dafür [[ausgestattet]] sind. ^9

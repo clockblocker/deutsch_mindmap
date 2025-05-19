@@ -1,7 +1,7 @@
 🤦 [[tollpatschig]], [ˈtɔlpɑt͡ʃɪç]
 
 ---
-[[Ein Auge zudrücken.md#^2|(q)]] Der neue Kellner Roman ist ziemlich [[tollpatschig]]. Immer wieder fällt ihm etwas aus der Hand oder er gießt den Wein [[daneben]]. ^2
+[[Ein Auge zudrücken.md#^2|^]] Der neue Kellner Roman ist ziemlich [[tollpatschig]]. Immer wieder fällt ihm etwas aus der Hand oder er gießt den Wein [[daneben]]. ^2
 
 ---
 = [[ungeschickt]], [[unbeholfen]], [[trottelig]]

@@ -18,7 +18,7 @@ massive, in large numbers
 [[Masse]], [[Haft]]
 
 ---
-[[Masse]]|[[haft]]
+[[Masse]]|[[Haft]]
 [[massenhaft]]
 
 

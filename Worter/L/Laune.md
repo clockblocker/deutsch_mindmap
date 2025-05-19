@@ -1,10 +1,11 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 🔴 🌈 die [[Laune]], [ˈlaʊ̯nə]
 die [[launen]]
 
 ---
 Kaufen Sie ein neues [[Parfum]]. Ein schöner [[Duft]] bringt gute [[Laune]].
 
-[[3 ADHD.md#^9|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich starke [[Stimmungsschwankungen]] und war [[launisch]]. ^9
+[[3 ADHD.md#^9|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich starke [[Stimmungsschwankungen]] und war [[launisch]]. ^9
 
 ---
 = [[Stimmung]], [[Gemütszustand]]

@@ -1,7 +1,7 @@
 🏋️ [[schwer]], [ʃveːɐ̯] ≠ [[leicht]]
 
 ---
-[[15 genetiv#^10|(q)]] »Das macht gar nichts. Im Gegenteil. Zum Beispiel das hier. Lag gestern schon auf dem Tisch. Und die [[schweren]] [[Kugeln]] auch.« ^10
+[[15 genetiv#^10|^]] »Das macht gar nichts. Im Gegenteil. Zum Beispiel das hier. Lag gestern schon auf dem Tisch. Und die [[schweren]] [[Kugeln]] auch.« ^10
 
 
 ---
@@ -25,4 +25,4 @@ N: [[schweres]], [[schwereres]], [[schwerstes]], [[Schwere]]
 P: [[schweren]], [[schwereren]], [[schwersten]], [[Schwere]]  
 
 ---
-[[erschweren]], [[erschwerend]], [[Schwierigkeit]], [[schwerfällig]], [[Schwerkraft]], [[Beschwerde]]
+[[erschweren]], [[erschwerend]], [[Schwierigkeit]], [[schwerfällig]], [[Schwerkraft]], [[Beschwerde]], [[schweißtreibend]]

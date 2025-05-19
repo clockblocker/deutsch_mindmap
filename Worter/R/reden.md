@@ -33,9 +33,9 @@ Morpheme: [[red]][[en]]
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
 | --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[rede]] | [[redete]] | - | [[rede]] | [[redete]] |
-| Du | [[redest]] | [[redetest]] | [[rede]] | [[redetest]] | [[redest]] |
-| Er/sie/es | [[redet]] | [[redete]] | - | [[rede]] | [[redete]] |
+| Ich | [[Rede]] | [[redete]] | - | [[Rede]] | [[redete]] |
+| Du | [[redest]] | [[redetest]] | [[Rede]] | [[redetest]] | [[redest]] |
+| Er/sie/es | [[redet]] | [[redete]] | - | [[Rede]] | [[redete]] |
 | Wir | [[reden]] | [[redeten]] | - | [[reden]] | [[redeten]] |
 | Ihr | [[redet]] | [[redetet]] | [[redet]] | [[redet]] | [[redetet]] |
 | Sie | [[reden]] | [[redeten]] | [[reden Sie]] | [[reden]] | [[redeten]] |
@@ -43,4 +43,4 @@ Morpheme: [[red]][[en]]
 Partizip I: [[redend]], Partizip II: [[geredet]]
 
 [[reden]] - [[red]][[en]], [[Redewendung]], [[überreden]], [[Schweige]], [[flöten]]
-, [[Verabredung]], [[pfeifen]], [[Nachrede]]
+, [[Verabredung]], [[pfeifen]], [[Nachrede]], [[renommieren]]

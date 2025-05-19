@@ -1,1 +1,1 @@
-, [[bemühen]], [[mühen]], [[Bemühung]]
+, [[bemühen]], [[mühen]], [[Bemühung]], [[Mühe]]

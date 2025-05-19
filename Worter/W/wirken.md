@@ -3,6 +3,8 @@
 ---
 ALTER: zwanzig, … nein, dreißig – das [[wirkt]] besser.  
 
+Denn während die [[muskelbepackten]] Sprinter mehr Statisten aus einem Gladiatorenfilm [[wirken]], möchte man den [[ausgezehrten]] [[Ausdauersportlern]] [[eher]] mal ein Drei-[[Gänge]]-Menü [[spendieren]].
+
 "In Ordnung", denkt Werner. Aber vielleicht würde das Bild ohne Rahmen besser [[wirken]]. 
 
 ---
@@ -29,4 +31,4 @@ Partizip I: [[wirkend]], Partizip II: [[gewirkt]]
 
 
 - [[Wirk]][[en]], [[aussehen]], [[spinnen]]
-, [[Auswirkung]], [[bemüht]], [[bestreben]], [[auswirken]], [[Auswirkung]], [[Wirkung]], [[reagieren]]
+, [[Auswirkung]], [[bemüht]], [[bestreben]], [[auswirken]], [[Auswirkung]], [[Wirkung]], [[reagieren]], [[Zehrung]]

@@ -1,2 +1,2 @@
 , [[Vorsicht]]
-, [[Sorgfalt]], [[Nachlässigkeit]]
+, [[Sorgfalt]], [[Nachlässigkeit]]---> [[🗣️ Ingredient-Meinung]] <---

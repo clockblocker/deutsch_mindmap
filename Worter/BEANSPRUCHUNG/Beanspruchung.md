@@ -1,1 +1,1 @@
-, [[Belastung]], [[Verzicht]]
+, [[Belastung]], [[Verzicht]], [[beanspruchen]]

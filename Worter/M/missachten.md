@@ -1,4 +1,4 @@
 ---> [[Ingredient-Einhaltung]] <---
 ---> [[Ingredient-Pflege]] <---
 ---> [[Ingredient-Verben-Bedürfnis]] <---
-, [[befolgen]], [[übergehen]]
+, [[befolgen]], [[übergehen]], [[vernachlässigen]]

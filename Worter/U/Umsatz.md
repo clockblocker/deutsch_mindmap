@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Umsatzes]], [[Umsatz]], [[Umsätze]], [[Umsätzen]]
 
 ---
-#Substantiv #Maskulin, [[Umsatzsteuer]], [[umsetzen]], [[Verkauf]]
+#Substantiv #Maskulin, [[Umsatzsteuer]], [[umsetzen]], [[Verkauf]], [[Energiegrundumsatz]]

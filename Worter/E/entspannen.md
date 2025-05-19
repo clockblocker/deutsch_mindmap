@@ -3,7 +3,7 @@
 haben [[entspannt]]
 
 ---
-[[1 Präpositionen Übungen.md#^7|(q)]]  Ich freue mich auf die Ferien um mich zu [[entspannen]] ^7
+[[1 Präpositionen Übungen.md#^7|^]]  Ich freue mich auf die Ferien um mich zu [[entspannen]] ^7
 
 [[entspannt]]
 

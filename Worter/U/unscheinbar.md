@@ -1,3 +1,6 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+---> 💥 [[Grad-Intensität]] <---
+
 🕵️ [[unscheinbar]], [ˈʊnˌʃaɪ̯nbɐ], [[scheinbar]]
 
 ---

@@ -27,4 +27,4 @@ G: der [[Benachrichtigung]], der [[Benachrichtigungen]]
 D: der [[Benachrichtigung]], den [[Benachrichtigungen]]  
 
 ---
-[[benachrichtigen]], [[benachrichtigt]], [[Nachricht]], [[informieren]]
+[[benachrichtigen]], [[benachrichtigt]], [[Nachricht]], [[informieren]]---> [[🗣️ Ingredient-Meinung]] <---

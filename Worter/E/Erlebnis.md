@@ -2,7 +2,7 @@
 die [[Erlebnisse]]
 
 ---
-[[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
+[[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 
 *[[Text mit Reflexivpronomen#^17|^]]* Wir konnten (22) noch an viele [[Erlebnisse]] aus der Schulzeit erinnern. ^17
 

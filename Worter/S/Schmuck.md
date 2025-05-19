@@ -18,4 +18,4 @@ Morphems:
 
 ---
 #Substantiv #Maskulin , [[11 08]], [[schmücken]], [[Besatz]]
-, [[Ring]]
+, [[Ring]], [[Ringerung]]

@@ -2,7 +2,7 @@
 die [[Klavierstimmer]]
 
 ---
-[[17 zu inf#^6|(q)]] Später kam der [[Klavierstimmer]].  ^6
+[[17 zu inf#^6|^]] Später kam der [[Klavierstimmer]].  ^6
 
 
 ---

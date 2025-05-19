@@ -3,7 +3,7 @@
 🔢 [[einmal]], [ˈaɪ̯nˌmaːl]
 
 ---
-[[Aschenputtel.md#^1|(q)]] Es trug sich zu, daß der Vater [[einmal]] in die Messe ziehen wollte, da fragte er die beiden Stieftöchter, was er ihnen [[mitbringen]] sollte.  ^1
+[[Aschenputtel.md#^1|^]] Es trug sich zu, daß der Vater [[einmal]] in die Messe ziehen wollte, da fragte er die beiden Stieftöchter, was er ihnen [[mitbringen]] sollte.  ^1
 
 ---
 = [[ein Mal]], [[ein einziges Mal]]

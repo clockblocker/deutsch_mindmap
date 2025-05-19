@@ -2,7 +2,7 @@
 📦 [[abschicken]], [ˈapʃɪkn̩] | [[schickte ab]], haben [[abgeschickt]]
 
 ---
-[[17 zu inf#^10|(q)]] Ich [[einpacken|packte]] den Mantel [[sorgsam]] ein, trug das Paket zur Post und [[abschicken|schickte]] es ab.  ^10
+[[17 zu inf#^10|^]] Ich [[einpacken|packte]] den Mantel [[sorgsam]] ein, trug das Paket zur Post und [[abschicken|schickte]] es ab.  ^10
 
 ---
 = [[senden]], [[verschicken]], [[zusenden]]

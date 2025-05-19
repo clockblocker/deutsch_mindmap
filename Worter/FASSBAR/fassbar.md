@@ -1,1 +1,1 @@
-, [[erfassen]], [[umfassen]]
+, [[erfassen]], [[umfassen]], [[greifbar]]

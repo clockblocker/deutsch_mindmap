@@ -1,7 +1,7 @@
 🔴 😩 die [[Erschöpfung]], [ɛɐ̯ˈʃpœp͡fʊŋ]
 
 ---
-[[erholen.md#^1|(q)]] sich selbst aus der [[Erschöpfung]] [[zurückholen]] ^1
+[[erholen.md#^1|^]] sich selbst aus der [[Erschöpfung]] [[zurückholen]] ^1
 
 ---
 = [[Ermüdung]], [[Auszehrung]], [[Kraftlosigkeit]]

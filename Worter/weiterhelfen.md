@@ -1,7 +1,7 @@
 👍 [[weiterhelfen]], [ˈvaɪ̯tɐˌhɛlfn̩] | [[half weiter]], haben [[weitergeholfen]]
 
 ---
-[[M1A1.md#^7|(q)]] Vincke:** [[gut|Guten]] [[tag|Tag]], Herr Laupsien, mein [[Name]] ist Vincke. Ich [[haben|habe]] ein [[Problem|Problem]], [[vielleicht]] [[können]] Sie mir da [[weiterhelfen]]. ^7
+[[M1A1.md#^7|^]] Vincke:** [[gut|Guten]] [[tag|Tag]], Herr Laupsien, mein [[Name]] ist Vincke. Ich [[haben|habe]] ein [[Problem|Problem]], [[vielleicht]] [[können]] Sie mir da [[weiterhelfen]]. ^7
 
 ---
 = [[unterstützen]], [[beistehen]], [[assistieren]]

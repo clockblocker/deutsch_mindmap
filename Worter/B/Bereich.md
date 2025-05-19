@@ -6,6 +6,8 @@ die [[Bereiche]]
 ---
 Diesen [[Bereich]] darf niemand [[betreten]].
 
+*[[C1-Lesen-T2-102-Text#^12|^]]* So zählt beispielsweise auch das Herz zu den Muskeln, und das wächst beim Ausdauersport, oder der Puls dabei [[ungefähr]] im [[Bereich]] von 180 minus [[Lebensalter]] liegt.
+
 *[[C1-Lesen-T4-102-Text#^19|^]]* Outsourcing, bei dem [[entweder]] [[einzeln]]e [[Arbeitsschritt]]e oder gar [[komplett]]e [[Bereich]]e und [[Abteilung]]en eines Unternehmens an eine andere Firma [[ausgelagert]] werden, hat natürlich [[Kosteneinsparung]] und [[Qualitätssteigerung]] zum Ziel, was für den heutigen globalen [[Wettbewerb]] [[unumgänglich]] ist. ^19
 
 
@@ -19,7 +21,7 @@ Diesen [[Bereich]] darf niemand [[betreten]].
 *[[C1-Lesen-T2-101-Text#^7|^]]* Das haben schon unsere Großeltern gesagt und das gilt in vielen [[Bereichen]], zum Beispiel auch bei Spielzeug für Kinder. ^7
 
 
-[[1 Wer bin ich und was mache ich hier?#^1|(q)]] Von der Schule an interessierte ich mich für Mathematik, Informatik und Linguistik. Das waren die [[Hauptbereiche]] meines Interesses, abgesehen von Büchern und Computerspielen. ^1
+[[1 Wer bin ich und was mache ich hier?#^1|^]] Von der Schule an interessierte ich mich für Mathematik, Informatik und Linguistik. Das waren die [[Hauptbereiche]] meines Interesses, abgesehen von Büchern und Computerspielen. ^1
  
 Neben den Museumsbesuchen und dem [[Kauf]] von Bildern [[widerspiegelt|spiegelt]] sich das [[gewachsene]] [[Kunstinteresse]] in der [[Anzahl]] der Studierenden im [[Bereich]] der bildenden Kunst wider.
 

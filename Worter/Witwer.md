@@ -2,7 +2,7 @@
 die [[Witwer]]
 
 ---
-Kommissar Nissen fuhr zum [[Witwer]], einem jungen netten Mann. [[15 genetiv#^3|(q)]]
+Kommissar Nissen fuhr zum [[Witwer]], einem jungen netten Mann. [[15 genetiv#^3|^]]
 
 
 ---

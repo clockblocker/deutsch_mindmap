@@ -2,7 +2,7 @@
 die [[Taschenbücher]]
 
 ---
-[[17 zu inf#^17|(q)]] Da Sie so nett waren, mir ein «[[Taschenbuch]] für Pilzsammler» in die Tasche zu stecken ^17
+[[17 zu inf#^17|^]] Da Sie so nett waren, mir ein «[[Taschenbuch]] für Pilzsammler» in die Tasche zu stecken ^17
 
 ---
 = [[Büchlein]], [[Heft]], [[Romanheft]]

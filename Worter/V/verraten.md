@@ -6,7 +6,7 @@
 
 Das [[verraten]] die [[Gene]] des [[Pompejaners]]  
 
-[[0 checklist#^7|(q)]] Unsere sieben Tipps für die Wohnungssuche [[verraten]] dir, worauf Vermieter [[Wert]] legen und wie die ideale [[Wohnungsbewerbung]] aussieht. ^7
+[[0 checklist#^7|^]] Unsere sieben Tipps für die Wohnungssuche [[verraten]] dir, worauf Vermieter [[Wert]] legen und wie die ideale [[Wohnungsbewerbung]] aussieht. ^7
 
  
 ---

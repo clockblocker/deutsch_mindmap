@@ -1,8 +1,10 @@
 ---> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
+
 📉 🔴 die [[Verringerung]], [fɛɐ̯ˈʁɪŋərʊŋ](https://youglish.com/pronounce/Verringerung/german)
 die [[Verringerungen]]
 
 ---
+*[[C1-Lesen-T2-102-Text#^15|^]]* Gerade im [[fortgeschritten]]em Alter ist das ein nicht zu [[vernachlässigend]]er Aspekt, denn der [[Verlust]] von drei Kilo Muskeln bedeutete eine [[Verringerung]] des [[Energiegrundumsatz]]es um etwa 100 Kalorien pro Tag. ^15
 
 
 ---
@@ -21,7 +23,7 @@ reduction, decrease
 
 ---
 [[Ver]]|[[ring]]|[[er]]|[[ung]]
-[[Verringerung]]
+[[Ver]] + [[Ringerung]]
 
 
 ---

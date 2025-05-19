@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🔵 der [[Selben]], [deːɐ̯ˈzɛlbən]
 die [[Selben]]
 

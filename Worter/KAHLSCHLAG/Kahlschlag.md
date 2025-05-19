@@ -1,1 +1,1 @@
-, [[Rodung]]
+, [[Rodung]], [[Abholzung]]

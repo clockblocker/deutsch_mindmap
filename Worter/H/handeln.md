@@ -5,6 +5,8 @@ haben [[gehandelt]]
 ---
 Die Geschichte [[handelt]] [[von]] Tieren
 
+*[[C1-Hoehen-T1-201-Text#^7|^]]* Obwohl es sich um eine [[Verwechslung]]skomödie [[handelt]], wird ein ernster Blick auf korrupte Rechtssysteme [[gelenkt]]
+
 *[[3 Soll man Geld spenden?#^7|^]]* Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine `gemeinnützige | ehrenamtlich` Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit einsetzt. ^7
 
 *[[3 Soll man Geld spenden?#^3|^]]* Ob es sich um die Teilung der [[Ernte]] mit Armen, den [[Kirchenzehnten]] oder formalisierte Steuern [[handelt]], der gesellschaftliche Konsens [[besagte]] auf die eine oder andere Weise, dass es für das Leben mit anderen Menschen [[notwendig]] ist, einen Teil des persönlichen [[Wohlstands]] für das [[Gemeinwohl]] auszugeben. ^3

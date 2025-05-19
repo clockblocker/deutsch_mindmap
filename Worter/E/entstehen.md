@@ -1,7 +1,7 @@
 🌌 [[entstehen]], [ɛntˈʃteːən](https://youglish.com/pronounce/entstehen/german) → [[entstand]] → sein [[entstanden]]
 
 ---
-[[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
+[[Aschenputtel.md#^2|^]] Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
 
 
 *[[C1-Lesen-T4-102-Text#^17|^]]* Sollten dann bestimmte Bereiche noch ins [[Ausland]] [[verlagert]] werden, wegen eines [[niedrigeren]] [[Lohnniveaus]] und einer billigeren [[Güterproduktion]], [[entsteht]] gegenüber [[einheimischen]] Firmen ein klarer [[Exportvorteil]], was zu einem [[ungleich]]en Wettbewerb schafft.

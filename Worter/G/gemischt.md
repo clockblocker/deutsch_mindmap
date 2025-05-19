@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🔀 [[gemischt]], [ɡəˈmɪʃt] | [[mischen]]
  
 ---

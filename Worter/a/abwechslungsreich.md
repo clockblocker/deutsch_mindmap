@@ -1,4 +1,5 @@
-, [[facettenreich]], [[wechselvoll]]
+---> 📈 [[Grad-Vergleich]] <---
+
 🤩 [[abwechslungsreich]], [ˈapˌvɛkslʊŋsʁaɪ̯ç](https://youglish.com/pronounce/abwechslungsreich/german)
 
 ---
@@ -8,6 +9,7 @@ Hier wird [[bewertet]], ob Ihr Wortschatz und die Strukturen, die Sie [[verwende
 = [[vielfältig]], [[variabel]], [[bunt]]
 ≈ [[unterschiedlich]], [[abwechselnd]], [[verschiedenartig]]
 ≠ [[eintönig]], [[monoton]], [[gleichförmig]]
+, [[facettenreich]], [[wechselvoll]]
 
 ---
 varied, diverse  

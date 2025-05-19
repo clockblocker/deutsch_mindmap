@@ -3,7 +3,7 @@
 💪 [[verschaffen]], [fɛɐ̯ˈʃafn̩] | [[verschaffte]], haben [[verschafft]]
 
 ---
-[[0 checklist#^1|(q)]] [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1 ^1
+[[0 checklist#^1|^]] [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1 ^1
 
 ---
 = [[beschaffen]], [[besorgen]], [[erlangen]]

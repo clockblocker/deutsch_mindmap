@@ -2,7 +2,7 @@
 die [[Gefühlsausbrüche]]
 
 ---
-[[3 ADHD.md#^3|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich [[Wutanfälle]] und [[Gefühlsausbrüche]]. ^3
+[[3 ADHD.md#^3|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich [[Wutanfälle]] und [[Gefühlsausbrüche]]. ^3
 
 ---
 = [[Emotionale Explosion]], [[Affekthandlung]], [[Wutausbruch]]

@@ -1,1 +1,1 @@
-, [[derartig]], [[ungleich]]
+, [[derartig]], [[ungleich]], [[ähnlich]]

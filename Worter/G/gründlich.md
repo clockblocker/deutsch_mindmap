@@ -1,3 +1,4 @@
+---> 🧩 [[Grad-Wahrheit]] <---
 ---> 🧱[[Grad-Gewicht]] <---
 
 gründlich, [ˈɡʁʏntlɪç]

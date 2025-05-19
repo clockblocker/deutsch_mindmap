@@ -25,4 +25,4 @@ busy, fully occupied
 Adjektive: [[ausgelastet]], [[ausgelasteter]], [[ausgelastetest]]
 
 ---
-[[ausgelasteter]], [[ausgelastetes]], [[ausgelastete]], [[ausgelasteten]], [[ausgelastetem]], [[ausgelasteterer]], [[ausgelasteteres]], [[ausgelastetere]], [[ausgelasteteren]], [[ausgelasteterem]], [[ausgelastetester]], [[ausgelastetestes]], [[ausgelasteteste]], [[ausgelastetesten]], [[ausgelastetestem]]
+[[ausgelasteter]], [[ausgelastetes]], [[ausgelastete]], [[ausgelasteten]], [[ausgelastetem]], [[ausgelasteterer]], [[ausgelasteteres]], [[ausgelastetere]], [[ausgelasteteren]], [[ausgelasteterem]], [[ausgelastetester]], [[ausgelastetestes]], [[ausgelasteteste]], [[ausgelastetesten]], [[ausgelastetestem]], [[beanspruchen]]

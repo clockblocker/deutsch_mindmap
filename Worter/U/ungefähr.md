@@ -1,8 +1,12 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 [[ungefähr]] = nicht [[genau]]
 
 ---
 *[[01-C1-Schreiben-T2-M#^8|^]]* [[Ungefähr]] [[belaufen]] sich die Kosten auf 100,00 Euro. ^8
 
+
+*[[C1-Lesen-T2-102-Text#^12|^]]* So zählt beispielsweise auch das Herz zu den Muskeln, und das wächst beim Ausdauersport, oder der Puls dabei [[ungefähr]] im [[Bereich]] von 180 minus [[Lebensalter]] liegt.
 
 Wie oft haben Sie schon auf den Fahrstuhl gewartet und während des Wartens ungefähr siebenmal auf den Fahrstuhlknopf gedrückt?
 

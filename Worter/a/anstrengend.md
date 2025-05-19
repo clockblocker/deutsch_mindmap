@@ -27,4 +27,4 @@ strenuous, exhausting
 Adjektive: [[anstrengend]], [[anstrengender]], [[anstrengenst]]
 
 ---
-[[anstrengender]], [[anstrengendes]], [[anstrengende]], [[anstrengenden]], [[anstrengendem]], [[anstrengenderer]], [[anstrengenderes]], [[anstrengendere]], [[anstrengenderen]], [[anstrengenderem]], [[anstrengenster]], [[anstrengenstes]], [[anstrengenste]], [[anstrengensten]], [[anstrengenstem]]
+[[anstrengender]], [[anstrengendes]], [[anstrengende]], [[anstrengenden]], [[anstrengendem]], [[anstrengenderer]], [[anstrengenderes]], [[anstrengendere]], [[anstrengenderen]], [[anstrengenderem]], [[anstrengenster]], [[anstrengenstes]], [[anstrengenste]], [[anstrengensten]], [[anstrengenstem]], [[schweißtreibend]]

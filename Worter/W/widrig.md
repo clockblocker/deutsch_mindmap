@@ -3,7 +3,7 @@
 ---
 [[verfassungswidrig]]
 
-[[2 prap.md#^5|(q)]] [[aufgrund]] / auf Grund des Streiks, aufgrund / auf Grund der [[widrigen]] [[Umstände]] ^5  
+[[2 prap.md#^5|^]] [[aufgrund]] / auf Grund des Streiks, aufgrund / auf Grund der [[widrigen]] [[Umstände]] ^5  
 
 ---
 = [[ungünstig]], [[unvorteilhaft]], [[misslich]]

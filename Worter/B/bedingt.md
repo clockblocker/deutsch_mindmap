@@ -1,1 +1,1 @@
-[[überhaupt]], [[unbedingt]], [[Bedingung]], [[relativ]], [[krankheitsbedingt]], [[Konstruktionsbedingt]]
+[[überhaupt]], [[unbedingt]], [[Bedingung]], [[relativ]], [[krankheitsbedingt]], [[Konstruktionsbedingt]], [[bedingen]]

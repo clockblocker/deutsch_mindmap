@@ -3,7 +3,7 @@
 haben [[versprochen]]
 
 ---
-Er hat ihr [[versprochen]], dass er einen [[echten]] alten Buddha [[unbedingt]] findet.  [[14 perfekt#^3|(q)]]
+Er hat ihr [[versprochen]], dass er einen [[echten]] alten Buddha [[unbedingt]] findet.  [[14 perfekt#^3|^]]
 
 | **Aang** | Gut ich komme mit. Wenn du [[versprichst]], die anderen in Frieden zu lassen! |
 | -------- | ----------------------------------------------------------------------------- |

@@ -1,7 +1,7 @@
 🚀 [[versenden]], [fɛɐ̯ˈzɛndn̩] | [[versendete]], haben [[versendet]]
 
 ---
-[[amazon.md#^8|(q)]] [[Versandadresse]] ^8
+[[amazon.md#^8|^]] [[Versandadresse]] ^8
 
 ---
 = [[abschicken]], [[weglegen]], [[zusenden]], [[überweisen]], [[verschicken]], [[schicken]], 

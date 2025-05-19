@@ -2,13 +2,13 @@
 <iframe src="https://learngerman.dw.com/de/einen-kater-haben/l-18745482/lm" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 
-[[Einen Kater haben.md#^1|(q)]] Es [[fängt]] meistens so an: Die Party ist gut, alle Freunde sind da, der Alkohol fließt, die [[Stimmung]] steigt. ^1
+[[Einen Kater haben.md#^1|^]] Es [[fängt]] meistens so an: Die Party ist gut, alle Freunde sind da, der Alkohol fließt, die [[Stimmung]] steigt. ^1
 
-[[Einen Kater haben.md#^2|(q)]]  Es ist seit langer Zeit die beste Party! Aber irgendwann wacht man auf, und er ist da! Wer hat ihn [[bloß]] gerufen? ^2
+[[Einen Kater haben.md#^2|^]]  Es ist seit langer Zeit die beste Party! Aber irgendwann wacht man auf, und er ist da! Wer hat ihn [[bloß]] gerufen? ^2
 
 Marie war gestern mit [[ihren]] [[Freunden]] aus. Eigentlich wollten sie irgendwo gemütlich sitzen und ein Bier trinken.
 
-[[Einen Kater haben.md#^3|(q)]] Doch dann [[kommen|kamen]] immer mehr [[Freund|Freunde]] dazu, und am [[Ende]] [[landen|landeten]] alle auf einer [[cool|coolen]] [[Party]]. ^3
+[[Einen Kater haben.md#^3|^]] Doch dann [[kommen|kamen]] immer mehr [[Freund|Freunde]] dazu, und am [[Ende]] [[landen|landeten]] alle auf einer [[cool|coolen]] [[Party]]. ^3
 
 *[[Einen Kater haben#^18|^]]* Der DJ [[auflegen|legte]] genau die [[richtig|richtige]] [[Musik]] [[auflegen|auf]], die [[Stimmung]] war [[fantastisch]], und irgendwie hatte Marie [[andauernd]] einen [[neu|neuen]] [[Drink]] in der [[Hand]]. ^18
 

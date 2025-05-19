@@ -1,5 +1,3 @@
-[[übergeben]], [[zufügen]]
-
 💉 [[verabreichen]], [fɛɐ̯ˈʔapʁaɪ̯çn̩](https://youglish.com/pronounce/verabreichen/german) → [[verabreichte]] → [[verabreicht]]
 
 ---
@@ -9,8 +7,8 @@ b) Bequemlichkeit.
 c) [[Fettleibigkeit]].
 
 ---
-= [[geben]], [[verabreichen]], [[austeilen]], [[verfügen]]
-≈ [[verabreichen]], [[dosieren]], [[verabreichen]], [[anwenden]]
+= [[injizieren]], [[geben]], [[verabreichen]], [[austeilen]], [[verfügen]]
+≈ [[verabreichen]], [[dosieren]], [[verabreichen]], [[anwenden]], [[übergeben]], [[zufügen]]
 ≠ [[entziehen]], [[verweigern]], [[zurückhalten]]
 
 ---
@@ -49,4 +47,4 @@ sie, [[verabreichen]], [[verabreichten]], [[verabreichen]], [[verabreichten]], [
 Adjektive: [[verabreichend]], [[verabreichender]], [[verabreichendst]]
 
 ---
-[[verabreichender]], [[verabreichendes]], [[verabreichende]], [[verabreichenden]], [[verabreichendem]], [[verabreichenderer]], [[verabreichenderes]], [[verabreichendere]], [[verabreichenderen]], [[verabreichenderem]], [[verabreichendster]], [[verabreichendstes]], [[verabreichendste]], [[verabreichendsten]], [[verabreichendstem]], [[Verabreichen]]
+[[verabreichender]], [[verabreichendes]], [[verabreichende]], [[verabreichenden]], [[verabreichendem]], [[verabreichenderer]], [[verabreichenderes]], [[verabreichendere]], [[verabreichenderen]], [[verabreichenderem]], [[verabreichendster]], [[verabreichendstes]], [[verabreichendste]], [[verabreichendsten]], [[verabreichendstem]], [[Verabreichen]], [[injizieren]]

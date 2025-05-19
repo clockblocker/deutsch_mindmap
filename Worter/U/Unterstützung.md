@@ -7,7 +7,7 @@ die [[Unterstützungen]]
 *Außerdem kann staatliche Regulierung Unternehmen beim [[Umstieg]] auf recycelbare Verpackungsmaterialien* 
 durch [[Fördermittel]] und steuerliche [[Anreiz]]e [[unterstützen]]. 
 
-[[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
+[[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 
 Ich [[versichere]] dich meiner [[Unterstützung]]
 
@@ -47,4 +47,4 @@ D: der [[Unterstützung]], den [[Unterstützungen]]
 [[unterstützen]], [[unterstützend]], [[Unterstützer]], [[Unterstützerin]], [[Unterstützung­sanspruch]], [[beistehen]], [[Versorgung]], [[unter]], [[1 Präpositionen Übungen]], [[Gegenwind]]
 , [[Spende]], [[Mittelzuweisung]], [[Beitrag]], [[Wohltätigkeit]], [[Patenschaft]], [[Pflege]], [[mithilfe]], [[Hindernis]], [[Unterstützungsangebot]], [[Notbetreuung]], [[Fördermittel]]
 
-#Feminin 
+#Feminin , [[mieterunterstützend]]

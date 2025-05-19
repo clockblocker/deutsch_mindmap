@@ -5,7 +5,7 @@ die [[Stühle]]
 *Er schlug die [[Stuhl]] und Vögel tot,*  
 *die Katzen litten große Not.*  
 
-Die Polizisten saßen auf ihren [[Stühlen]] und [[schwiegen]]. [[14 perfekt#^13|(q)]]
+Die Polizisten saßen auf ihren [[Stühlen]] und [[schwiegen]]. [[14 perfekt#^13|^]]
 
 
 ---

@@ -1,7 +1,7 @@
 ➕ [[übermäßig]], [ˈyːbɐˌmɛːsɪç] ≠ [[mäßig]]
 
 ---
-[[1 ADHD#^19|(q)]] ist unruhig oder [[übermäßig]] aktiv. ^19
+[[1 ADHD#^19|^]] ist unruhig oder [[übermäßig]] aktiv. ^19
 
 
 27 Die [[Vertreter]] des Staates [[befürworten]] den [[übermäßigen]] [[Konsum]].

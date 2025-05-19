@@ -3,7 +3,7 @@ die [[Aufführungen]]
 
 
 ---
-[[17 zu inf#^23|(q)]] «Die Karte, die du gefunden hast,» sagte ich, «ist zu einer [[Aufführung]] von ‹Tannhäuser›, aber die war vor zwölf Jahren!» ^23
+[[17 zu inf#^23|^]] «Die Karte, die du gefunden hast,» sagte ich, «ist zu einer [[Aufführung]] von ‹Tannhäuser›, aber die war vor zwölf Jahren!» ^23
 
 
 ---

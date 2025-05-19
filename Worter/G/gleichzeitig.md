@@ -1,9 +1,11 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🕰️ [[gleichzeitig]], [ˈɡlaɪ̯çˌtsaɪ̯tɪç]
 
 ---
 Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
 
-[[Eine Extrawurst bekommen.md#^7|(q)]] Hannah und Lara [[aufspringen|springen]] auf: „Das ist unfair!“, rufen sie fast [[gleichzeitig]]. ^7
+[[Eine Extrawurst bekommen.md#^7|^]] Hannah und Lara [[aufspringen|springen]] auf: „Das ist unfair!“, rufen sie fast [[gleichzeitig]]. ^7
 
 wenn du [[gleichzeitig]] hörst und liest, bekommst du:
 ✔ bessere aussprache + intonation

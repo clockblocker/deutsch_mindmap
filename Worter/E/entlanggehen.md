@@ -2,7 +2,7 @@
 
 ---
 Zur [[Richtungsangabe]] (wohin?) mit Akkusativ; entlang steht dann hinter seinem [[Bezugswort]]:  
-[[2 prap.md#^13|(q)]] Sie [[entlanggehen|gingen]] den Fluss [[entlang]]. ^13
+[[2 prap.md#^13|^]] Sie [[entlanggehen|gingen]] den Fluss [[entlang]]. ^13
 
 ---
 = [[entlanglaufen]], [[passieren]], [[vorbeigehen]]

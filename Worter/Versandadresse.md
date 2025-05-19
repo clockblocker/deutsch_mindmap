@@ -2,7 +2,7 @@
 die [[Versandadressen]]
 
 ---
-[[amazon.md#^8|(q)]] [[Versandadresse]] ^8
+[[amazon.md#^8|^]] [[Versandadresse]] ^8
 
 ---
 = [[Lieferadresse]], [[Empfängeradresse]]

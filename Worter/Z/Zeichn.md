@@ -1,1 +1,1 @@
-, [[Zeichner]], [[Zeichnung]], [[ausgezeichnet]], [[verzeichnen]]
+, [[Zeichner]], [[Zeichnung]], [[ausgezeichnet]], [[verzeichnen]], [[Auszeichnung]]

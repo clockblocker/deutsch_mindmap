@@ -5,7 +5,7 @@ nicht [[unehrlich]]
 SAM: Wir haben kein Poptastisch Popcorn in the USA, but we make great popcorn
 ANNA: [[Ehrlich]]?  
 
-[[14 perfekt#^12|(q)]] «Ich bin ein [[unehrlicher]] Mensch, ein [[Dieb]], ein [[Verbrecher]]! Ich vergesse diese [[Geschichte]] nie in meinem Leben!» Und er ging ins Museum zurück.  ^12
+[[14 perfekt#^12|^]] «Ich bin ein [[unehrlicher]] Mensch, ein [[Dieb]], ein [[Verbrecher]]! Ich vergesse diese [[Geschichte]] nie in meinem Leben!» Und er ging ins Museum zurück.  ^12
 
 | Ich werd einen Wasserbändiger suchen! Und damit du's weißt, Aang bringt mich zum Nordpol! |
 | ----------------------------------------------------------------------------------------- |

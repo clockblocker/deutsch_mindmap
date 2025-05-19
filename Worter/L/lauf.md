@@ -31,4 +31,4 @@ run, course
 [[laufen]], [[Läufer]], [[Läuferin]], [[Laufbahn]], [[Laufzeit]]
 
 
-#Maskulin , [[im Laufe]], [[Verlauf]], [[Vertragslaufzeit]], [[Wasserkreislauf]]
+#Maskulin , [[im Laufe]], [[Verlauf]], [[Vertragslaufzeit]], [[Wasserkreislauf]], [[Langstreckenlauf]], [[Laufrad]]

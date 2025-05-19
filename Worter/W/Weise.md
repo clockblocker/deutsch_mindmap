@@ -4,6 +4,8 @@ nicht [[dumm]]
 ---
 Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]].
 
+*[[C1-Lesen-T2-102-Text#^8|^]]* Sie lösen einen [[Stoffwechselmechanismus]] aus, der auf eine andere Art und [[Weise]] das [[Traumgewicht]] in [[greifbare]] Nähe [[rücken]] kann.
+
 *[[C1-Lesen-T1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden. ^2
 
 
@@ -58,4 +60,4 @@ Einzigartige mögliche Formen: [[Weisen]], [[Weisen]], [[Weisen]]
 #Substantiv #Maskulin #Plural
 
 , [[zwangsweise]], [[beziehungsweise]]
-, [[erledigen]], [[vernünftig]], [[vorweisen]], [[erweisen]], [[teilweise]], [[Zugriff]], [[stellenweise]], [[Vorgehensweise]], [[Spielweise]], [[Sprechweise]], [[Methode]], [[Funktionsweise]]
+, [[erledigen]], [[vernünftig]], [[vorweisen]], [[erweisen]], [[teilweise]], [[Zugriff]], [[stellenweise]], [[Vorgehensweise]], [[Spielweise]], [[Sprechweise]], [[Methode]], [[Funktionsweise]], [[Sichtweise]], [[Betrachtungsweise]], [[zeitweise]]

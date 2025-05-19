@@ -1,1 +1,1 @@
-, [[Zaubertrick]], [[Wirklichkeit]], [[Wahrheit]], [[Modellierung]], [[Realisierung]], [[Modell]], [[Foto]], [[Phantasie]], [[Tatsache]], [[Realwelt]]
+---> [[🗣️ Ingredient-Meinung]] <---

@@ -1,1 +1,1 @@
-, [[ungefähr]], [[ziemlich]], [[relativ]], [[nahezu]]
+, [[ungefähr]], [[ziemlich]], [[relativ]], [[nahezu]], [[ähnlich]]

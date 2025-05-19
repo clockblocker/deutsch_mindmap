@@ -1,7 +1,7 @@
 ✅ [[bestätigen]], [bəˈʃtɛːtɪɡən | [[bestätigte]], haben [[bestätigt]]
 
 ---
-[[15 genetiv#^5|(q)]] »Da habe ich meinen Geburtstag gefeiert - in diesem Zimmer. Meine Tante und meine Gäste werden es Ihnen [[bestätigen]].« ^5
+[[15 genetiv#^5|^]] »Da habe ich meinen Geburtstag gefeiert - in diesem Zimmer. Meine Tante und meine Gäste werden es Ihnen [[bestätigen]].« ^5
 
 ---
 = [[beglaubigen]], [[vergewissen]], [[bezeugen]]

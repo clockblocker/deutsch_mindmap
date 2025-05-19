@@ -1,1 +1,1 @@
-[[schwierig]], [[schwer]], [[unbequem]], [[leicht]], [[bemüht]], [[anstrengend]]
+[[schwierig]], [[schwer]], [[unbequem]], [[leicht]], [[bemüht]], [[anstrengend]], [[schweißtreibend]]

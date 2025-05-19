@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 ≠ [[ungleich]], [ˈʊnˌɡlaɪ̯ç](https://youglish.com/pronounce/ungleich/german)
 
 ---

@@ -1,7 +1,7 @@
 💭 [[verträumt]], [fɛɐ̯ˈtʁɔɪ̯mt] ≠ [[realistisch]] | 😴 [[verträumen]] 
 
 ---
-[[3 ADHD.md#^2|(q)]] Als Kind im Alter von 8 bis 10 Jahren war ich [[unaufmerksam]] und [[verträumt]]. ^2
+[[3 ADHD.md#^2|^]] Als Kind im Alter von 8 bis 10 Jahren war ich [[unaufmerksam]] und [[verträumt]]. ^2
 
 ---
 = [[gedankenverloren]], [[phantasievoll]], [[träumerisch]], [[zerstreut]]

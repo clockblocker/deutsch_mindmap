@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🔴 der [[Unterschied]], [ˈʊntɐʃiːt]
 die [[Unterschiede]]
 

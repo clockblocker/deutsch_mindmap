@@ -1,4 +1,6 @@
+---> 🧩 [[Grad-Wahrheit]] <---
 ---> ⏱️ [[Temporal-Perspektive]] <---
+
 , [[eben]], [[gerade]], [[fern]], [[Direktkandidat]], [[ausweichend]]
 ➡️ [[direkt]], [diˈʁɛkt](https://youglish.com/pronounce/direkt/german)
 
@@ -37,4 +39,4 @@ direct, straight
 Adjektive: [[direkt]], [[direkter]], [[direktest]]
 
 ---
-[[direkter]], [[direktes]], [[direkte]], [[direkten]], [[direktem]], [[direkterer]], [[direkteres]], [[direktere]], [[direkteren]], [[direkterem]], [[direktester]], [[direktestes]], [[direkteste]], [[direktesten]], [[direktestem]], [[offen]]
+[[direkter]], [[direktes]], [[direkte]], [[direkten]], [[direktem]], [[direkterer]], [[direkteres]], [[direktere]], [[direkteren]], [[direkterem]], [[direktester]], [[direktestes]], [[direkteste]], [[direktesten]], [[direktestem]], [[offen]], [[geradezu]]

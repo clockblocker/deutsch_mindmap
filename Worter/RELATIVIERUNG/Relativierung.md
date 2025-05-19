@@ -1,1 +1,1 @@
-, [[Verharmlosung]]
+, [[Verharmlosung]], [[relativierend]]

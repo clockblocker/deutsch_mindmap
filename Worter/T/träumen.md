@@ -2,7 +2,7 @@
 😴 [[träumen]] von D, [ˈtʁɔɪ̯mən] | [[träumte]], haben [[geträumt]]
 
 ---
-[[1 Präpositionen Übungen.md#^4|(q)]] c) Er [[träumt]] schon lange [[von]] einer Reise nach Japan.   ^4
+[[1 Präpositionen Übungen.md#^4|^]] c) Er [[träumt]] schon lange [[von]] einer Reise nach Japan.   ^4
 
 ---
 = [[schlafen]], [[schlummern]], [[dösen]], [[spinnen]], [[erwachen]]

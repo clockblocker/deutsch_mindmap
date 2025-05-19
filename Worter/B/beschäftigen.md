@@ -1,7 +1,7 @@
 🏢 [[beschäftigen]], [bəˈʃɛftɪgən] | [[Beschäftigte]], haben [[beschäftigt]]
 
 ---
-[[2 ADHD.md#^10|(q)]] Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu. ^10
+[[2 ADHD.md#^10|^]] Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu. ^10
 
 
 *[[C1-Hoehen-T1-100-Text#^9|^]]* Das zweite Buch *Der Wandel der Städte* von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwacher]] [[Bevölkerungsgruppen]] aus ihren [[Stadtteilen]], da sie die Mieten nicht mehr [[bezahlen]] können. ^9
@@ -20,10 +20,10 @@ Erläutern Sie, wie [[Weiterbildung]] [[Beschäftigte]] auf diese [[Veränderung
 *[[Text mit Reflexivpronomen#^12|^]]* [[Beruflich]] [[beschäftigt]] er (17) mit dem [[Verkauf]] von Küchenmaschinen. ^12
 
 
-[[2 Unter Druck nach oben#^1|(q)]] Der Mann, der Karriere machen will, sollte größer als 1,80 Meter sein, [[schlank]] und [[dunkelhaarig]], verheiratet, aber kinderlos, und sich in der Freizeit am liebsten mit sich selbst [[beschäftigen]]. ^1
+[[2 Unter Druck nach oben#^1|^]] Der Mann, der Karriere machen will, sollte größer als 1,80 Meter sein, [[schlank]] und [[dunkelhaarig]], verheiratet, aber kinderlos, und sich in der Freizeit am liebsten mit sich selbst [[beschäftigen]]. ^1
 
 
-[[1 Wer bin ich und was mache ich hier?#^5|(q)]] In der Partei [[Beschäftigte]] ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]] / (zammeln?) Menschen und Geld an und war öffentlich [[tätig]]. ^5x
+[[1 Wer bin ich und was mache ich hier?#^5|^]] In der Partei [[Beschäftigte]] ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]] / (zammeln?) Menschen und Geld an und war öffentlich [[tätig]]. ^5x
 
 1. [[Womit]] beschäftigst du dich die letzte Zeit? Чем ты занимаешься последнее время? 
 2. [[Mit]] [[wem]] beschäftigst du dich jetzt? Кем ты занимаешься сейчас?
@@ -39,7 +39,7 @@ Julian arbeitet zwei Tage pro Woche im Homeoffice. Normalerweise klappt das prob
 	- [x] bei einer Firma oder [[Behörde]] [[beschäftigt]].
 
 
-[[1 ADHD#^20|(q)]] ist manchmal mit etwas so [[beschäftigt]], dass sie nichts um sich herum [[mitbekommt]]; ^20
+[[1 ADHD#^20|^]] ist manchmal mit etwas so [[beschäftigt]], dass sie nichts um sich herum [[mitbekommt]]; ^20
 
 ---
 Synonyme: [[Arbeiten]], [[anstellen]], [[unterhalten]], [[tätig sein]], [[engagieren]]

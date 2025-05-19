@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🤔 🔴 die [[Konsequenz]], [kɔnzəˈkvɛnt͡s](https://youglish.com/pronounce/Konsequenz/german)
 die [[Konsequenzen]]
 
@@ -26,4 +28,4 @@ N: die [[Konsequenz]], die [[Konsequenzen]]
 A: die [[Konsequenz]], die [[Konsequenzen]]
 G: der [[Konsequenz]], der [[Konsequenzen]]
 D: der [[Konsequenz]], den [[Konsequenzen]]
-, [[Wirkung]], [[Disziplin]]
+, [[Wirkung]], [[Disziplin]], [[Umkehrschluss]]

@@ -3,7 +3,7 @@
 die [[Immobilienmakler]]
 
 ---
-[[0 checklist#^3|(q)]] Ziel jedes [[Vermieters]] und [[Immobilienmaklers]] ist der perfekte [[Mieter]]. ^3
+[[0 checklist#^3|^]] Ziel jedes [[Vermieters]] und [[Immobilienmaklers]] ist der perfekte [[Mieter]]. ^3
 
 ---
 = [[Makler]], [[Immobilienvermittler]]

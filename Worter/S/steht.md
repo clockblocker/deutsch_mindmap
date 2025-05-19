@@ -1,2 +1,2 @@
 , [[stehen]], [[beistehen]], [[Texte/Misc/Anki]]
-, [[bevorstehen]]
+, [[bevorstehen]], [[feststehen]]

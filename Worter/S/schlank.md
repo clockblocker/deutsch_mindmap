@@ -3,7 +3,7 @@
 ---
 ANNA: Groß, [[schlank]] .. ein cooler Amerikaner.
 
-[[2 Unter Druck nach oben#^1|(q)]] Der Mann, der Karriere machen will, sollte größer als 1,80 Meter sein, [[schlank]] und [[dunkelhaarig]], verheiratet, aber kinderlos, und sich in der Freizeit am liebsten mit sich selbst [[beschäftigen]]. ^1
+[[2 Unter Druck nach oben#^1|^]] Der Mann, der Karriere machen will, sollte größer als 1,80 Meter sein, [[schlank]] und [[dunkelhaarig]], verheiratet, aber kinderlos, und sich in der Freizeit am liebsten mit sich selbst [[beschäftigen]]. ^1
 
 ---
 = [[dünn]], [[zierlich]], [[leicht]]
@@ -24,4 +24,4 @@ slim, slender
 Adjektive: [[schlank]], [[schlanker]], [[schlankst]]
 
 ---
-[[schlanker]], [[schlankes]], [[schlanke]], [[schlanken]], [[schlankem]], [[schlankerer]], [[schlankeres]], [[schlankere]], [[schlankeren]], [[schlankerem]], [[schlankster]], [[schlankstes]], [[schlankste]], [[schlanksten]], [[schlankstem]]
+[[schlanker]], [[schlankes]], [[schlanke]], [[schlanken]], [[schlankem]], [[schlankerer]], [[schlankeres]], [[schlankere]], [[schlankeren]], [[schlankerem]], [[schlankster]], [[schlankstes]], [[schlankste]], [[schlanksten]], [[schlankstem]], [[übergewichtig]]

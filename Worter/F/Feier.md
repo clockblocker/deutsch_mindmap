@@ -2,7 +2,7 @@
 die [[Feiern]]
 
 ---
-[[2 prap.md#^4|(q)]] Anstatt / anstelle / an Stelle der [[Feier]] gab es nur einen [[Stehempfang]]. ^4
+[[2 prap.md#^4|^]] Anstatt / anstelle / an Stelle der [[Feier]] gab es nur einen [[Stehempfang]]. ^4
 
 der [[Feiertag]]
 

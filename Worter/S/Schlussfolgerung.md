@@ -1,1 +1,1 @@
-, [[Lösung]], [[Schlusssatz]]
+, [[Lösung]], [[Schlusssatz]], [[Umkehrschluss]]

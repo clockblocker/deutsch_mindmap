@@ -1,23 +1,29 @@
-flott, [ˈflɔt], nicht [[lahm]]
+🏃 [[flott]], [flɔt](https://youglish.com/pronounce/flott/german)
 
 ---
 Der letzte Luftbändiger. Ganz schön [[flott]] für sein hohes Alter. (Dreht sich um)
 
+*[[C1-Lesen-T2-102-Text#^35|^]]* Was im [[Umkehrschluss]] natürlich heißt, dass man mit [[flott]]em [[Gehen]] [[ähnlich]] [[absprecken]] kann wie mit [[schweißtreibend]]em Hochintensiv-Training
 
 ---
-Synonyme: [[schnell]], [[zügig]], [[rasant]], [[dynamisch]], [[fix]], [[hurtig]], [[leicht]]
-Antonyme: [[langsam]], [[träge]], [[behäbig]], [[gemächlich]]
+= [[zügig]], [[schnell]], [[rasch]], [[schnell]], [[zügig]], [[rasant]], [[dynamisch]], [[fix]], [[hurtig]], [[leicht]], , [[rasch]]
+≈ [[flink]], [[munter]], [[dynamisch]]
+≠ [[langsam]], [[träge]], [[schleppend]],  [[langsam]], [[träge]], [[behäbig]], [[gemächlich]]
 
 ---
-**Übersetzung**:
-fast, quick, snappy, cool
+fast, brisk  
+быстрый, бойкий
 
 ---
-#Adjective [[flott]]
+[[Flottheit]], [[flotten]]
+
+---
+[[flott]]
+[[flott]]
 
 
-Einzigartige mögliche Formen: 
-[[flott]], [[flotter]], [[flotte]], [[flottes]], [[flotten]], [[flottem]], [[flotter]], [[flotten]]
-[[flotterer]], [[flottere]], [[flotteres]], [[flotteren]], [[flotterem]], [[flotterer]], [[flotteren]]
-[[flottest]], [[flottester]], [[flotteste]], [[flottestes]], [[flottetsten]], [[flottetestem]], [[flottetester]], [[flottetesten]]
-''', [[s1 e1]], [[Schnell]], [[rasch]]
+---
+Adjektive: [[flott]], [[flotter]], [[flottest]]
+
+---
+[[flotter]], [[flottes]], [[flotte]], [[flotten]], [[flottem]], [[flotterer]], [[flotteres]], [[flottere]], [[flotteren]], [[flotterem]], [[flottester]], [[flottestes]], [[flotteste]], [[flottesten]], [[flottestem]]

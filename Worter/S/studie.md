@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 📚 🔴 die [[Studie]], [ˈʃtuːdi̯ə]
 die [[Studien]]
 
@@ -6,6 +8,8 @@ die [[Studien]]
 
 
 , [[Farbstudie]], [[Untersuchung]], [[Befragung]], [[Umfrage]]
+, [[Studie]], [[Modellrechnung]], [[Studienfach]], [[Ausarbeitung]], [[studienbegleitend]], [[Überlegung]], [[Dissertation]], [[Fachliteraturrecherche]], [[Erkundung]]
+
 
 
 ---
@@ -29,4 +33,5 @@ N: die [[Studie]], die [[Studien]]
 A: die [[Studie]], die [[Studien]]  
 G: der [[Studie]], der [[Studien]]  
 D: der [[Studie]], den [[Studien]]
-, [[Studie]], [[Modellrechnung]], [[Studienfach]], [[Ausarbeitung]], [[studienbegleitend]], [[Überlegung]], [[Dissertation]], [[Fachliteraturrecherche]], [[Erkundung]]
+
+#Feminin 

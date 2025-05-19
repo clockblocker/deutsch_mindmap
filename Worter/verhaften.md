@@ -10,7 +10,7 @@
 *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Hier sollte immer die Meinungsfreiheit im_ [[Mittelpunkt]] _stehen, denn eine zu starke Regulierung im Netz kann sich auf die Qualität der_ [[Berichterstattung]] _durch die_ [[Worter/Medien]] [[auswirken]], _oder Menschen werden_ [[verhaftet]], _weil sie ihre Meinung im Internet_ [[kundgetan]] _haben._ ^5
 
 
-Hein Martens nahm den kleinen Buddha aus der Tasche. «Ob sie hier schon etwas über den [[Diebstahl]] wissen?» dachte er. «Sie können mich jetzt [[verhaften]].» [[14 perfekt#^15|(q)]]
+Hein Martens nahm den kleinen Buddha aus der Tasche. «Ob sie hier schon etwas über den [[Diebstahl]] wissen?» dachte er. «Sie können mich jetzt [[verhaften]].» [[14 perfekt#^15|^]]
 
 ---
 = [[festnehmen]], [[verhören]], [[gefangennehmen]]
@@ -21,7 +21,7 @@ Hein Martens nahm den kleinen Buddha aus der Tasche. «Ob sie hier schon etwas �
 to arrest, to detain
 
 ---
-[[ver]]|[[haft]]|[[et]]
+[[ver]]|[[Haft]]|[[et]]
 
 ---
 ich: [[verhaftet]], [[verhaftete]], –, [[verhaftet]], [[verhaftete]]

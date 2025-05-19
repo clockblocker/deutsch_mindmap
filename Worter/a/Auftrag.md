@@ -6,7 +6,7 @@ die [[Aufträge]]
 ---
 Falls wir bis Ende der Woche mit einer ersten Version der Präsentation nicht fertig sind, können wir den [[Auftrag]] [[gefährden]] – und damit monatelange [[Vorarbeit]] aufs Spiel setzen. 
 
-[[1 ADHD#^24|(q)]] hat Schwierigkeiten, [[Arbeitsaufträge]] oder [[Schularbeiten]] [[fertigzustellen]]. ^24
+[[1 ADHD#^24|^]] hat Schwierigkeiten, [[Arbeitsaufträge]] oder [[Schularbeiten]] [[fertigzustellen]]. ^24
 
 
 ---

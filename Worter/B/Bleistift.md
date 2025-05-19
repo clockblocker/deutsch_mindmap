@@ -4,7 +4,7 @@ die [[Bleistifte]]
 ---
 1. Der Junge zeichnet mit dem [[Bleistift]]. (**zeichnen**)
 
-2. [[1 ADHD#^1|(q)]] verliert Dinge, die für Aufgaben oder Aktivitäten wichtig sind  
+2. [[1 ADHD#^1|^]] verliert Dinge, die für Aufgaben oder Aktivitäten wichtig sind  
    (z. B. [[Aufgabenheft]], [[Bleistifte]], Bücher, [[Werkzeuge]]). ^1
 
 ---

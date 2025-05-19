@@ -13,7 +13,7 @@ haben [[unterbrochen]]
 
 Viele glauben, dass der Avatar nicht wiedergeboren wurde und dass der [[Kreislauf]] für immer [[unterbrochen]] ist.
 
-[[1 ADHD#^25|(q)]] [[unterbricht]] andere beim Arbeiten oder anderen [[Beschäftigungen]]. ^25
+[[1 ADHD#^25|^]] [[unterbricht]] andere beim Arbeiten oder anderen [[Beschäftigungen]]. ^25
 
 Sie stellt [[ununterbrochen]] Fragen. 
 

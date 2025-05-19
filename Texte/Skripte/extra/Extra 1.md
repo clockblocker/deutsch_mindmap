@@ -23,10 +23,10 @@ https://readlang.com/shelf/571aec12f654850e459a4f11
 
 Episode One: Sams [[Ankunft]]
 
-[[Extra 1#^2|(q)]] Das ist die [[Geschichte]] von *Sascha* und Anna. ^2
+[[Extra 1#^2|^]] Das ist die [[Geschichte]] von *Sascha* und Anna. ^2
 
 Sie [[wohnen]] [[zusammen]] in Berlin.  
-[[Extra 1.md#^1|(q)]] Sie haben einen [[Nachbarn]]: Nic.   ^1
+[[Extra 1.md#^1|^]] Sie haben einen [[Nachbarn]]: Nic.   ^1
 
 *[[Extra 1#^3|^]]* Nic ist in Sascha [[verliebt]]. ^3
 

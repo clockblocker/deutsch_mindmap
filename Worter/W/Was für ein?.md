@@ -1,7 +1,7 @@
 ❓ [[was für ein]], [vas fyːɐ̯ aɪ̯n] | [[Artikelwörter]]
 
 ---
-[[Artikelwörter.md#^1|(q)]] - [[Was für ein?]] – *Was für ein Auto möchtest du kaufen?*
+[[Artikelwörter.md#^1|^]] - [[Was für ein?]] – *Was für ein Auto möchtest du kaufen?*
 
 Интересный момент – между *Welcher?* и *Was für ein?* все-таки есть небольшая разница. Первое слово предлагает выбор из предложенных вариантов, второе – выбор вообще. ^1
  

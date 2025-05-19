@@ -1,7 +1,7 @@
 😤 [[vernichten]], [fɛɐ̯ˈnɪçtn̩] | [[vernichtete]], haben [[vernichtet]]
 
 ---
-[[16 Plusquamperfekt#^19|(q)]] Als die junge Frau das ganze Geld [[verbraucht]] hatte, [[vernichtete]] sie alle ihre Werke, fuhr zum [[Fernsehturm]] und sprang 139 Meter in die Tiefe. ^19
+[[16 Plusquamperfekt#^19|^]] Als die junge Frau das ganze Geld [[verbraucht]] hatte, [[vernichtete]] sie alle ihre Werke, fuhr zum [[Fernsehturm]] und sprang 139 Meter in die Tiefe. ^19
 
 [[Vernichtung]],  [[Vernichtungslager]], 
 

@@ -1,2 +1,3 @@
-[[schlampig]], [[genau]], [[ungefähr]], [[gründlich]], [[richtig]], [[deutlich]], [[Ausführlich]], [[dumpf]], [[scharf]], [[ausweichend]], [[knapp]], [[sorgsam]]
-, [[pünktlich]], [[eindeutig]], [[direkt]], [[grob]], [[Präzision]], [[akribisch]]
+---> 🧩 [[Grad-Wahrheit]] <---
+
+, [[klar]]

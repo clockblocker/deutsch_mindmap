@@ -1,1 +1,1 @@
-, [[einschränken]]
+, [[einschränken]], [[relativierend]]

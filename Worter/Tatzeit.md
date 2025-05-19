@@ -1,7 +1,7 @@
 🔵 🕒 die [[Tatzeit]], [ˈtaːtʦaɪ̯t]
 
 ---
-»Und für die [[Tatzeit]] - gestern um 23 Uhr - haben Sie ein Alibi?« [[15 genetiv#^4|(q)]]
+»Und für die [[Tatzeit]] - gestern um 23 Uhr - haben Sie ein Alibi?« [[15 genetiv#^4|^]]
 
 
 ---

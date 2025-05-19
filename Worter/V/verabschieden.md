@@ -1,7 +1,7 @@
 👋 [[verabschieden]], [fɛɐ̯ˈʔapʃiːdn̩] | [[verabschiedete]], haben [[verabschiedet]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^8|(q)]] Vor einem Jahr [[verabschiedete]] die deutsche Regierung ein Gesetz über die Einbürgerung nach drei Jahren mit der Möglichkeit der doppelten Staatsbürgerschaft. ^8
+[[1 Wer bin ich und was mache ich hier?#^8|^]] Vor einem Jahr [[verabschiedete]] die deutsche Regierung ein Gesetz über die Einbürgerung nach drei Jahren mit der Möglichkeit der doppelten Staatsbürgerschaft. ^8
 
 
 *[[Atom#^22|^]]* Andere europäische Länder haben sich längst [[verabschiedet]]: Deutschland, Spanien. ^22
@@ -68,4 +68,4 @@ sie, [[verabschieden]], [[verabschiedeten]], [[verabschieden]], [[verabschiedete
 Adjektive: [[verabschiedend]], [[verabschiedender]], [[verabschiedendst]]
 
 ---
-[[verabschiedender]], [[verabschiedendes]], [[verabschiedende]], [[verabschiedenden]], [[verabschiedendem]], [[verabschiedenderer]], [[verabschiedenderes]], [[verabschiedendere]], [[verabschiedenderen]], [[verabschiedenderem]], [[verabschiedendster]], [[verabschiedendstes]], [[verabschiedendste]], [[verabschiedendsten]], [[verabschiedendstem]], [[entlassen]]
+[[verabschiedender]], [[verabschiedendes]], [[verabschiedende]], [[verabschiedenden]], [[verabschiedendem]], [[verabschiedenderer]], [[verabschiedenderes]], [[verabschiedendere]], [[verabschiedenderen]], [[verabschiedenderem]], [[verabschiedendster]], [[verabschiedendstes]], [[verabschiedendste]], [[verabschiedendsten]], [[verabschiedendstem]], [[entlassen]], [[emeritieren]]

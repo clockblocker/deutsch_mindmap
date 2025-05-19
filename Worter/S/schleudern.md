@@ -1,7 +1,7 @@
 😤 [[schleudern]], [ʃləʊ̯dɐn] | [[schleuderte]], [[habe]] [[geschleudert]]
 
 ---
-,»Ach, das«, antwortete Zeiser. »Das ist ein Spielzeug, eine [[Schleuder]] meiner Jugend. Ich habe sie meinen Gästen gezeigt.« [[15 genetiv#^11|(q)]]
+,»Ach, das«, antwortete Zeiser. »Das ist ein Spielzeug, eine [[Schleuder]] meiner Jugend. Ich habe sie meinen Gästen gezeigt.« [[15 genetiv#^11|^]]
 
 ---
 = [[werfen]], [[katapultieren]], [[wegschleudern]], [[zugeworfen]], 

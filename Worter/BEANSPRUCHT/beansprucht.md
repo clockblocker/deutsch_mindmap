@@ -1,1 +1,1 @@
-, [[auslasten]]
+💪 [[beanspruchen]]

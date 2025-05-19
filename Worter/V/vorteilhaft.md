@@ -18,7 +18,7 @@ advantageous, beneficial
 [[Vorteil]], [[Nachteil]], [[vorteilhaftigkeit]]
 
 ---
-[[Vorteil]]|[[haft]]
+[[Vorteil]]|[[Haft]]
 [[vorteilhaft]]
 
 

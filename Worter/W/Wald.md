@@ -24,4 +24,4 @@ D: dem [[Wald]], den [[Wäldern]]
 
 ---
 [[Waldbrand]], [[Waldarbeiter]], [[Waldweg]], [[Waldmeister]]
-, [[Rasenfläche]], [[Waldabschnitt]], [[Park]], [[Waldsterben]]
+, [[Rasenfläche]], [[Waldabschnitt]], [[Park]], [[Waldsterben]], [[Abholzung]]

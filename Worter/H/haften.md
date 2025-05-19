@@ -14,11 +14,11 @@
 to be liable, to adhere, to stick
 
 ---
-[[haft]]|[[en]]
+[[Haft]]|[[en]]
 
 ---
 ich: [[hafte]], [[haftete]], –, [[hafte]], [[haftete]]
-du: [[haftest]], [[haftetetest]], [[hafte]] | [[haft]] | [[hafte]], [[haftest]], [[haftetetest]]
+du: [[haftest]], [[haftetetest]], [[hafte]] | [[Haft]] | [[hafte]], [[haftest]], [[haftetetest]]
 er/sie/es: [[haftet]], [[haftete]], –, [[hafte]], [[haftete]]
 wir: [[haften]], [[hafteten]], [[haften wir|haften]], [[haften]], [[hafteten]]
 ihr: [[haftet]], [[haftetet]], [[haftet]], [[haftet]], [[haftetet]]

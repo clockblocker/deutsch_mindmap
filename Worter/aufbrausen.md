@@ -1,7 +1,7 @@
 😡 [[aufbrausen]], [ˈaʊ̯fˌbʁaʊ̯zn̩] | [[brauste auf]], sind [[aufgebraust]]
 
 ---
-[[1 ADHD#^4|(q)]]  ist leicht [[aufbrausend]]/hat ein [[hitziges]] Temperament. ^4
+[[1 ADHD#^4|^]]  ist leicht [[aufbrausend]]/hat ein [[hitziges]] Temperament. ^4
 
 ---
 = [[explodieren]], [[ausrasten]], [[wüten]]

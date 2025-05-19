@@ -14,7 +14,7 @@ Synonyme:
 faulty, defective, incorrect
 
 ---
-[[Fehl]][[er]][[haft]]
+[[Fehl]][[er]][[Haft]]
 
 ---
 Case: Singular, Plural  

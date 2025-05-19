@@ -3,7 +3,7 @@
 haben [[abgewartet]]
 
 ---
-[[2 ADHD.md#^11|(q)]] Mir fällt es schwer [[abzuwarten]], bis andere [[ausgesprochen]] haben. Ich falle anderen ins Wort. ^11
+[[2 ADHD.md#^11|^]] Mir fällt es schwer [[abzuwarten]], bis andere [[ausgesprochen]] haben. Ich falle anderen ins Wort. ^11
 
 Appa ist nur müde. Eine kleine Verschnaufpause und er wird sich in den Himmel schwingen. [[Wartet]]'s [[ab]]!
 

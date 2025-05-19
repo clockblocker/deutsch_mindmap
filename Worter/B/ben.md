@@ -1,3 +1,3 @@
-, [[schieben]], [[glaub]], [[umschreiben]], [[sterben]], [[erben]]
+, [[schieben]], [[Glaub]], [[umschreiben]], [[sterben]], [[erben]]
 , [[zufriedengeben]]
 , [[sträuben]]

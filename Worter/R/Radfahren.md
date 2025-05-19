@@ -1,1 +1,1 @@
-, [[Radschnellweg]], [[Ausdauertraining]]
+, [[Radschnellweg]], [[Ausdauertraining]], [[radeln]]

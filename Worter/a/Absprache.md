@@ -1,1 +1,1 @@
-, [[Vereinbarung]], [[vereinbaren]]
+, [[Vereinbarung]], [[vereinbaren]], [[absprechen]]

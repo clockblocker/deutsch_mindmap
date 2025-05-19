@@ -2,7 +2,7 @@
 die [[Staus]]
 
 ---
-[[Lektionen/Bekker/verben/1#^1|(q)]] Auf Radschnellwegen kommt man zur Arbeit, zur Schule oder zum Einkaufen in die Stadt – ohne [[Staus]], Schäden für die Umwelt und ohne lange nach einem Parkplatz zu suchen. ^1
+[[Lektionen/Bekker/verben/1#^1|^]] Auf Radschnellwegen kommt man zur Arbeit, zur Schule oder zum Einkaufen in die Stadt – ohne [[Staus]], Schäden für die Umwelt und ohne lange nach einem Parkplatz zu suchen. ^1
  
 
 ---

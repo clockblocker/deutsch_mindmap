@@ -1,2 +1,1 @@
-, [[ausprobieren]]
-, [[Versuch]], [[Studie]], [[Modellrechnung]]
+---> [[🗣️ Ingredient-Meinung]] <---

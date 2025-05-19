@@ -3,7 +3,7 @@ die [[Zeichner]]
 
 ---
 In der dritten Woche kam ihr plötzlich die Idee, dass sie die Kunst  
-der anderen Maler und [[Zeichner]] wieder studieren sollte.  [[16 Plusquamperfekt#^6|(q)]]
+der anderen Maler und [[Zeichner]] wieder studieren sollte.  [[16 Plusquamperfekt#^6|^]]
 
 , [[zeichnen]]
 

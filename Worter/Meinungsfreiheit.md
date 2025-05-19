@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🗽 die [[Meinungsfreiheit]], [ˈmaɪ̯nʊŋsˌfʁaɪ̯haɪ̯t]
 die [[Meinungsfreiheiten]]
 
@@ -30,3 +32,5 @@ D: der [[Meinungsfreiheit]], den [[Meinungsfreiheiten]]
 
 ---
 [[meinen]], [[frei]], [[Meinung]], [[Freiheit]], [[Grundrecht]], [[Demokratie]], [[Pressezensur]], [[Meinungsbildung]]
+
+#Feminin 

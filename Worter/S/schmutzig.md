@@ -2,7 +2,7 @@
 nicht [[sauber]]
 
 ---
-[[16 Plusquamperfekt#^22|(q)]] Die Fenster in den Zimmern waren [[schmutziger]], als die Gläser in der Küche. Der Kühlschrank war ganz leer. Die Wäsche in der Badewanne hatte einen [[schlechten]] [[Geruch]]. 
+[[16 Plusquamperfekt#^22|^]] Die Fenster in den Zimmern waren [[schmutziger]], als die Gläser in der Küche. Der Kühlschrank war ganz leer. Die Wäsche in der Badewanne hatte einen [[schlechten]] [[Geruch]]. 
 
 Die U-Bahn in London ist viel [[schmutziger]] als die U-Bahn in Moskau 
 

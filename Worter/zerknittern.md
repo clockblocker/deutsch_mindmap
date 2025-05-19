@@ -1,7 +1,7 @@
 😤 [[zerknittern]], [ˈʦɛɐ̯ˌknɪtɐn] | [[zerknittert]], hat [[zerknittert]]
 
 ---
-Er war etwas [[zerknittert]] - [[schließlich]] hatte er zwölf Jahre im Koffer gelegen - aber sonst in gutem Zustand. [[17 zu inf#^15|(q)]]
+Er war etwas [[zerknittert]] - [[schließlich]] hatte er zwölf Jahre im Koffer gelegen - aber sonst in gutem Zustand. [[17 zu inf#^15|^]]
 
 ---
 = [[knittern]], [[verknüllen]]

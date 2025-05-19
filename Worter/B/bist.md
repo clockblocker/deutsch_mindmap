@@ -1,1 +1,1 @@
-, [[sein]], [[gelangen]], [[geraten]], [[landen]], [[herumkriechen]], [[antreten]], [[umkehren]], [[hinstehen]], [[stoßen]], [[rennen]], [[Fehlgriff]], [[Einschreiten]], [[umkommen]], [[übergehen]], [[zurückgehen]], [[zurückfallen]]
+, [[sein]], [[gelangen]], [[geraten]], [[landen]], [[herumkriechen]], [[antreten]], [[umkehren]], [[hinstehen]], [[stoßen]], [[rennen]], [[Fehlgriff]], [[Einschreiten]], [[umkommen]], [[übergehen]], [[zurückgehen]], [[zurückfallen]], [[radeln]]

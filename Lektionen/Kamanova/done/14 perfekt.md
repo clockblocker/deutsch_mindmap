@@ -1,7 +1,7 @@
 DAS FESTGESCHENK (nach Hans Fallada)
-[[14 perfekt#^1|(q)]] Als das Schiff «[[Fröhlicher]] [[Neptun]]» nach fast einem Jahr [[Ostasienfahrt]] am 22. Dezember nach Hamburg kam, waren siebenunddreißig sehr fröhliche Männer am Bord - und ein sehr trauriger Mann, der zweite Offizier Hein Martens. ^1
+[[14 perfekt#^1|^]] Als das Schiff «[[Fröhlicher]] [[Neptun]]» nach fast einem Jahr [[Ostasienfahrt]] am 22. Dezember nach Hamburg kam, waren siebenunddreißig sehr fröhliche Männer am Bord - und ein sehr trauriger Mann, der zweite Offizier Hein Martens. ^1
 
-[[14 perfekt#^2|(q)]] Er war [[frisch]] [[verheiratet]] und er hat seine Frau lange nicht gesehen. Sie war eine [[ungewöhnliche]] Frau. Hein Martens vermisste sie sehr. Vor der Fahrt erzählte er ihr abends über die Länder und Städte im Ausland, über die Menschen und ihr Leben, über die [[fremden]] [[besonderen]] Sachen.  ^2
+[[14 perfekt#^2|^]] Er war [[frisch]] [[verheiratet]] und er hat seine Frau lange nicht gesehen. Sie war eine [[ungewöhnliche]] Frau. Hein Martens vermisste sie sehr. Vor der Fahrt erzählte er ihr abends über die Länder und Städte im Ausland, über die Menschen und ihr Leben, über die [[fremden]] [[besonderen]] Sachen.  ^2
 
 Zusammen besuchten sie Museen und sahen die Sachen aus fremden Ländern an. In einem Museum hat seine Frau zum ersten Mal Buddhas gesehen. Es gab dort viele [[verschiedene]] Buddhas: so kleine, dass man sie in die [[Tasche]] stecken konnte und so große wie drei Männer. Und alle lächelten ein bisschen dumm, fand Hein Martens.
 
@@ -9,37 +9,37 @@ Zusammen besuchten sie Museen und sahen die Sachen aus fremden Ländern an. In e
 
 «Ach ja, ich habe so was in meinem Leben nie gesehen!»
 
-Als Hein Martens im Februar ins Ausland - nach Indien, Japan und China - fahren sollte, wusste er ganz genau, was er seiner Frau zu Weihnachten mitbringt. [[14 perfekt#^3|(q)]] Er hat ihr [[versprochen]], dass er einen [[echten]] alten Buddha [[unbedingt]] findet.  ^3
+Als Hein Martens im Februar ins Ausland - nach Indien, Japan und China - fahren sollte, wusste er ganz genau, was er seiner Frau zu Weihnachten mitbringt. [[14 perfekt#^3|^]] Er hat ihr [[versprochen]], dass er einen [[echten]] alten Buddha [[unbedingt]] findet.  ^3
 
-Er hat ihn gefunden. Es war in Nagasaki, wo Herr Mikimoto ihm einen kleinen Buddha aus rotem Stein zum Dank für seine Hilfe schenkte. [[14 perfekt#^4|(q)]] Was für ein Glück! Aber dieses Glück [[dauerte]] nicht lange. ^4
+Er hat ihn gefunden. Es war in Nagasaki, wo Herr Mikimoto ihm einen kleinen Buddha aus rotem Stein zum Dank für seine Hilfe schenkte. [[14 perfekt#^4|^]] Was für ein Glück! Aber dieses Glück [[dauerte]] nicht lange. ^4
 
-Auf dem Weg zurück hat Hein Martens diesen Buddha verloren. Der Kleine fiel ins Wasser, als Hein Martens ihn einmal jemandem am Bord zeigte. [[14 perfekt#^5|(q)]] Es war nur seine [[Schuld]]. Jetzt lag der Buddha unten im Wasser und lächelte. ^5
+Auf dem Weg zurück hat Hein Martens diesen Buddha verloren. Der Kleine fiel ins Wasser, als Hein Martens ihn einmal jemandem am Bord zeigte. [[14 perfekt#^5|^]] Es war nur seine [[Schuld]]. Jetzt lag der Buddha unten im Wasser und lächelte. ^5
 
-Hein Martens war sehr traurig. [[14 perfekt#^6|(q)]] «Aber in Hamburg,» - dachte er, - «kann man sicher auch genug Buddhas kaufen.» Und er suchte [[überall]], in allen Geschäften, in allen Straßen, auf allen Plätzen. ^6
+Hein Martens war sehr traurig. [[14 perfekt#^6|^]] «Aber in Hamburg,» - dachte er, - «kann man sicher auch genug Buddhas kaufen.» Und er suchte [[überall]], in allen Geschäften, in allen Straßen, auf allen Plätzen. ^6
 
-[[14 perfekt#^7|(q)]] Aber was er [[fand]], waren nur falsche Buddhas. Dann in einem Geschäft neben dem Bahnhof brachte der Verkäufer den richtigen. Auf dem [[Zettel]] stand der Preis: 1750 Mark. ^7
+[[14 perfekt#^7|^]] Aber was er [[fand]], waren nur falsche Buddhas. Dann in einem Geschäft neben dem Bahnhof brachte der Verkäufer den richtigen. Auf dem [[Zettel]] stand der Preis: 1750 Mark. ^7
 
-[[14 perfekt#^8|(q)]] «Aber das ist doch [[unmöglich]]!» rief Hein Martens. «So viel Geld für den Buddha! Sehen Sie, ich habe schon einen Buddha gehabt, aber er ist in die See gefallen.» ^8
+[[14 perfekt#^8|^]] «Aber das ist doch [[unmöglich]]!» rief Hein Martens. «So viel Geld für den Buddha! Sehen Sie, ich habe schon einen Buddha gehabt, aber er ist in die See gefallen.» ^8
 
-[[14 perfekt#^9|(q)]] «Ihr [[Pech]],» - sagte der Verkäufer und stellte seinen Buddha auf das Regal zurück. ^9
+[[14 perfekt#^9|^]] «Ihr [[Pech]],» - sagte der Verkäufer und stellte seinen Buddha auf das Regal zurück. ^9
 
 Hein Martens wusste nicht, was er machen konnte. Es blieb nur eine Möglichkeit. Er ging sofort ins Museum. Es war kein Mensch dort. 
 
-[[14 perfekt#^10|(q)]] Ohne [[Mühe]] fand er einen kleinen Buddha aus rotem Stein und steckte ihn in die Tasche. ^10
+[[14 perfekt#^10|^]] Ohne [[Mühe]] fand er einen kleinen Buddha aus rotem Stein und steckte ihn in die Tasche. ^10
 
- [[14 perfekt#^11|(q)]] Alles ging schnell, und bald stand er schon wieder auf der Straße. Er ging langsam zur [[Haltestelle]].  ^11
+ [[14 perfekt#^11|^]] Alles ging schnell, und bald stand er schon wieder auf der Straße. Er ging langsam zur [[Haltestelle]].  ^11
 
 Der Santaklaus fragte ihn nach der Zeit. Er sah auf die Uhr, es war schon drei. «Was habe ich gemacht?» dachte er plötzlich. 
 
-[[14 perfekt#^12|(q)]] «Ich bin ein [[unehrlicher]] Mensch, ein [[Dieb]], ein [[Verbrecher]]! Ich vergesse diese [[Geschichte]] nie in meinem Leben!» Und er ging ins Museum zurück.  ^12
+[[14 perfekt#^12|^]] «Ich bin ein [[unehrlicher]] Mensch, ein [[Dieb]], ein [[Verbrecher]]! Ich vergesse diese [[Geschichte]] nie in meinem Leben!» Und er ging ins Museum zurück.  ^12
 
 Aber die Tür war schon zu. Wer hatte den Schlüssel? Es gab ab jetzt wieder nur eine Möglichkeit: er sollte zur Polizei gehen.
 
-[[14 perfekt#^13|(q)]] Die Polizisten saßen auf ihren [[Stühlen]] und [[schwiegen]]. ^13
+[[14 perfekt#^13|^]] Die Polizisten saßen auf ihren [[Stühlen]] und [[schwiegen]]. ^13
 
 «Was wollen Sie denn?» fragte ihn ein Polizist.
 
-[[14 perfekt#^14|(q)]] [[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. ^14
+[[14 perfekt#^14|^]] [[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. ^14
 
 «Warum wollen Sie denn die Adresse haben?»
 
@@ -47,11 +47,11 @@ Aber die Tür war schon zu. Wer hatte den Schlüssel? Es gab ab jetzt wieder nur
 
 «Heute ist doch Weihnachten! Aber zeigen Sie uns, was Sie für ihn haben.»
 
-[[14 perfekt#^15|(q)]] Hein Martens nahm den kleinen Buddha aus der Tasche. «Ob sie hier schon etwas über den [[Diebstahl]] wissen?» dachte er. «Sie können mich jetzt [[verhaften]].» ^15
+[[14 perfekt#^15|^]] Hein Martens nahm den kleinen Buddha aus der Tasche. «Ob sie hier schon etwas über den [[Diebstahl]] wissen?» dachte er. «Sie können mich jetzt [[verhaften]].» ^15
 
 «Ach so, eine Puppe!» sagte der Polizist. «Also fahren Sie zu Professor ..., Straße ...»
 
-[[14 perfekt#^16|(q)]] Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. ^16
+[[14 perfekt#^16|^]] Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. ^16
 
 «Also!» sagte der Professor. «Ich denke doch, Sie haben etwas gelernt. Und jetzt stecken Sie den Buddha wieder in die Tasche! Nein, nur für heute! Morgen Nachmittag um fünf Uhr bringen Sie mir den Buddha wieder zurück. Heute sehen Sie noch, was Ihre Frau wirklich wollte. Fröhliche Weihnachten!»
 
@@ -395,7 +395,7 @@ nicht [[genau]]: [[zu]] = [[Worter/P/Platzwechsel]], [[bei]] = [[Location]]
 2. Нам нужен был их адрес, но мы не нашли его дома.
 3. Я забыл, какая у тебя была идея.
 4. В первый раз я увидел этого человека четыре года назад.
- Тогда я его еще не знал.  [[14 perfekt#^17|(q)]] Das erste Mal, dass ich diesen Menschen gesehen habe, war vor vier Jahren. [[Damals]] kannte ich ihn noch nicht ^17
+ Тогда я его еще не знал.  [[14 perfekt#^17|^]] Das erste Mal, dass ich diesen Menschen gesehen habe, war vor vier Jahren. [[Damals]] kannte ich ihn noch nicht ^17
 
  
  Das erste Mal, dass ich diesen Menschen gesehen habe, war vor fier Jahren.

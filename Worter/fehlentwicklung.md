@@ -2,7 +2,7 @@
 die [[Fehlentwicklungen]]
 
 ---
-[[ver.md#^1|(q)]] „ver-“ als präfix kann [[richtungsänderung]], [[fehlentwicklung]] oder intensität bedeuten ^1
+[[ver.md#^1|^]] „ver-“ als präfix kann [[richtungsänderung]], [[fehlentwicklung]] oder intensität bedeuten ^1
 
 ---
 = [[Fehlfunktion]], [[Fehlschlag]], [[Fehler]]

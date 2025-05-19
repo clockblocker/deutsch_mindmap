@@ -3,19 +3,19 @@ Setze die richtige Präposition ein (z. B. mit, über, für, an, auf, [[wegen]],
 Konnectoren =( H + H )
 Konnectoren = ( N + H )
 
-a) [[1 Präpositionen Übungen.md#^2|(q)]] Ich [[interessiere]] mich [[für]] moderne Kunst, besonders für abstrakte Malerei. ^2
+a) [[1 Präpositionen Übungen.md#^2|^]] Ich [[interessiere]] mich [[für]] moderne Kunst, besonders für abstrakte Malerei. ^2
 
-[[1 Präpositionen Übungen.md#^3|(q)]] b) [[Wegen]] des schlechten [[Wetters]] entschieden wir uns, die [[Wanderung]] [[abzusagen]]. ^3
+[[1 Präpositionen Übungen.md#^3|^]] b) [[Wegen]] des schlechten [[Wetters]] entschieden wir uns, die [[Wanderung]] [[abzusagen]]. ^3
 
-[[1 Präpositionen Übungen.md#^4|(q)]] c) Er [[träumt]] schon lange [[von]] einer Reise nach Japan.  ^4
+[[1 Präpositionen Übungen.md#^4|^]] c) Er [[träumt]] schon lange [[von]] einer Reise nach Japan.  ^4
 
-[[1 Präpositionen Übungen.md#^5|(q)]] d) Das Buch, [[von]] dem ich dir [[erzählt]] habe, liegt auf dem Tisch. ^5
+[[1 Präpositionen Übungen.md#^5|^]] d) Das Buch, [[von]] dem ich dir [[erzählt]] habe, liegt auf dem Tisch. ^5
 
-[[1 Präpositionen Übungen.md#^6|(q)]] e) Sie hat sich [[Worter/A/auf]] die schwierige Prüfung intensiv [[vorbereitet]]. ^6
+[[1 Präpositionen Übungen.md#^6|^]] e) Sie hat sich [[Worter/A/auf]] die schwierige Prüfung intensiv [[vorbereitet]]. ^6
 
 ---
 #### **2. Kombiniere die Sätze mit einer Präposition**
-[[1 Präpositionen Übungen.md#^1|(q)]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1
+[[1 Präpositionen Übungen.md#^1|^]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1
 
 a) Er musste [[absagen]]. Er war krank. (Wahrend seiner Krankheit musste er absagen.)  
 b) Weil sie Urlaub hatte, besuchte sie ihre Großeltern
@@ -40,7 +40,7 @@ Ihre Freund hatte Geburtstag, deshalb feierten sie eine Party.
 
 Bilde einen [[einzigen]] komplexen Satz mit einer Präposition aus den [[folgend]] [[einfachen]] Sätzen:
 
-[[1 Präpositionen Übungen.md#^7|(q)]] Ich freue mich auf die Ferien um mich zu [[entspannen]] ^7
+[[1 Präpositionen Übungen.md#^7|^]] Ich freue mich auf die Ferien um mich zu [[entspannen]] ^7
 b) Der Zug hatte [[Verspätung]]. Wir mussten lange warten.  
 
 Wegen der [[Verspätung]] 
@@ -69,9 +69,9 @@ Ergänze die [[fehlenden]] Präpositionen:
 
 [[auswendig]] 
 
-[[1 Präpositionen Übungen.md#^8|(q)]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, [[aus]] den [[Herausforderungen]] zu [[lernen]]. ^8
+[[1 Präpositionen Übungen.md#^8|^]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, [[aus]] den [[Herausforderungen]] zu [[lernen]]. ^8
 
-[[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
+[[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 
 ---
 #### **5. Ergänze die richtige Präposition**

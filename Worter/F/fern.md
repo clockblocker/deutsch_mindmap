@@ -8,7 +8,7 @@ die [[Fernbedienung]]
 
 *Der [[Haut]] so [[nah]], dem Auge [[fern]]*  
 
-[[fern.md#^1|(q)]] [[Etymologisch]] [[kommen|kommt]] das aus dem [[althochdeutsch|althochdeutschen]] „[[fern]]“ oder „[[fer]]“—also nix [[fancy]], einfach „[[weit]] [[weg]]“. ^1
+[[fern.md#^1|^]] [[Etymologisch]] [[kommen|kommt]] das aus dem [[althochdeutsch|althochdeutschen]] „[[fern]]“ oder „[[fer]]“—also nix [[fancy]], einfach „[[weit]] [[weg]]“. ^1
 
 
 ---

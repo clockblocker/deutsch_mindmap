@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 🔍 [[grundsätzlich]], [ˈgʁʊntsɛtslɪç]
 
 ---> 🧱[[Grad-Gewicht]] <---

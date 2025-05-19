@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 🗣️ die [[Aussage]], [ˈaʊ̯sˌzaːɡə]
 die [[aussagen]]
 
@@ -28,6 +29,3 @@ D: der [[Aussage]], den [[aussagen]]
 
 ---
 [[aussagen]], [[aussagekräftig]], [[Aussagekraft]], [[Zeugenaussage]], [[Falschaussage]]
-
-[[sagen]], [[Behauptung]], [[Meinungsäußerung]], [[Inhalt]]
-, [[Spruch]], [[Befragung]], [[Umfrage]], [[besagen]], [[verringern]], [[Botschaft]], [[Argument]]

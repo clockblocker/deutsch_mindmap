@@ -5,7 +5,7 @@ haben [[aufgeräumt]]
 ---
 Werner hat beim [[aufräumen]] ein altes Urlaubsfoto gefunden. Er hat einen Rahmen dafür gekauft und will es im Wohnzimmer aufhängen.
 
-»Entschuldigung, Herr Kommissar«, sagte Klaus Zeiser. »Ich habe noch nicht [[aufgeräumt]] - [[überall]] Sachen von der Party ...« [[15 genetiv#^9|(q)]]
+»Entschuldigung, Herr Kommissar«, sagte Klaus Zeiser. »Ich habe noch nicht [[aufgeräumt]] - [[überall]] Sachen von der Party ...« [[15 genetiv#^9|^]]
 
 Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]. Martin ist [[sauer]]: „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“ 
 

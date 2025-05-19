@@ -2,7 +2,7 @@
 
 
 ---
-»Nicht nur [[gezeigt]]!« sagte der Kommissar. »[[15 genetiv#^12|(q)]] Sie haben eine bunte [[Glaskugel]] für diese [[Schleuder]] benutzt. ^12
+»Nicht nur [[gezeigt]]!« sagte der Kommissar. »[[15 genetiv#^12|^]] Sie haben eine bunte [[Glaskugel]] für diese [[Schleuder]] benutzt. ^12
 
 
 ---

@@ -1,2 +1,2 @@
 ---> 🧱[[Grad-Gewicht]] <---
-, [[dringend]], [[zweitrangig]]
+, [[dringend]], [[zweitrangig]], [[prestigeträchtig]]

@@ -1,1 +1,1 @@
-, [[umsehen]], [[richten]], [[Ergebnisorientierung]], [[bedürfnisorientiert]]
+, [[umsehen]], [[richten]], [[Ergebnisorientierung]], [[bedürfnisorientiert]], [[zurechtfinden]]

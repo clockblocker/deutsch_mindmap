@@ -2,7 +2,7 @@
 die [[Begabungen]]
 
 ---
-[[16 Plusquamperfekt#^27|(q)]] 1904 in Figueras bei Barcelona geboren, zeigte er schon als Kind eine [[ungewöhnliche]] künstlerische [[Begabung]].  ^27
+[[16 Plusquamperfekt#^27|^]] 1904 in Figueras bei Barcelona geboren, zeigte er schon als Kind eine [[ungewöhnliche]] künstlerische [[Begabung]].  ^27
 
 [[begabt]] sein
 

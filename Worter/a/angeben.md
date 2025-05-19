@@ -60,4 +60,4 @@ sie, [[geben an]], [[gaben an]], [[geben an]], [[gäben an]], [[gäben an]]
 Adjektive: [[angebend]], [[angebender]], [[angebendst]]
 
 ---
-[[angebender]], [[angebendes]], [[angebende]], [[angebenden]], [[angebendem]], [[angebenderer]], [[angebenderes]], [[angebendere]], [[angebenderen]], [[angebenderem]], [[angebendster]], [[angebendstes]], [[angebendste]], [[angebendsten]], [[angebendstem]]
+[[angebender]], [[angebendes]], [[angebende]], [[angebenden]], [[angebendem]], [[angebenderer]], [[angebenderes]], [[angebendere]], [[angebenderen]], [[angebenderem]], [[angebendster]], [[angebendstes]], [[angebendste]], [[angebendsten]], [[angebendstem]], [[renommieren]]

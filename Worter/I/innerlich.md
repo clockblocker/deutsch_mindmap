@@ -1,9 +1,9 @@
 🧠 [[innerlich]], [ˈɪnɐlɪç] ≠ [[äußerlich]]
 
 ---
-[[1 ADHD#^10|(q)]] fühlt sich [[innerlich]] unruhig, selbst wenn sie still sitzt. ^10
+[[1 ADHD#^10|^]] fühlt sich [[innerlich]] unruhig, selbst wenn sie still sitzt. ^10
 
-[[2 ADHD.md#^5|(q)]] Ich mag solche Arbeiten nicht oder [[sträube]] mich [[innerlich]] dagegen. ^5
+[[2 ADHD.md#^5|^]] Ich mag solche Arbeiten nicht oder [[sträube]] mich [[innerlich]] dagegen. ^5
 
 , [[verinnerlichen]]
 

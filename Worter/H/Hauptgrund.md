@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🥇 🔵 der [[Hauptgrund]], [ˈhaʊ̯ptˌɡrʊnt](https://youglish.com/pronounce/Hauptgrund/german) =  [[Hauptursache]]
 die [[Hauptgründe]]
 

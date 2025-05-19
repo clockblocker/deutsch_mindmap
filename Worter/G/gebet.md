@@ -1,6 +1,7 @@
 ---> 🤝 [[Ingredient-Interaktion]] <---
 
 [[geben]], [[Gebetshaus]], [[Bettag]]
+
 🟢 🙏 das [[Gebet]], [ɡəˈbeːt]
 die [[Gebete]]
 
@@ -27,3 +28,6 @@ D: dem [[Gebet]], den [[Gebeten]]
 
 ---
 [[beten]], [[betend]], [[gebetsartig]], [[Gebetbuch]], [[Gebetskette]]
+
+
+#Neuter 

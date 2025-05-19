@@ -1,7 +1,7 @@
 💼 [[unternehmerisch]], [ˈʊntɐˌneːmərɪʃ]
 
 ---
-[[2 Unter Druck nach oben#^19|(q)]] Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]. ^19
+[[2 Unter Druck nach oben#^19|^]] Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]. ^19
 
 ---
 = [[wirtschaftlich]], [[geschäftlich]], [[unternehmungslustig]]

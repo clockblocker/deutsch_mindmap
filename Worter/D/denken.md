@@ -48,6 +48,6 @@ Morpheme: [[denk]][[en]]
 | Sie | [[denken]] | [[dachten]] | [[denken Sie]] | [[denken]] | [[dächten]] |
 
 Partizip I: [[denkend]], Partizip II: [[gedacht]]
-- [[denk]][[en]], [[meinen]], [[glaub]]
+- [[denk]][[en]], [[meinen]], [[Glaub]]
 , [[Gedanke]], [[s1 e1]]
 , [[nachdenklich]], [[ausdenken]]

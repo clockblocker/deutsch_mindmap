@@ -28,3 +28,5 @@ D: dem [[Mindestanteil]], den [[Mindestanteilen]]
 
 ---
 [[mindestens]], [[Anteil]], [[anteilig]], [[Beteiligung]], [[mindest]]
+
+#Maskulin 

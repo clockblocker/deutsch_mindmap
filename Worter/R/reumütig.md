@@ -1,7 +1,7 @@
 😔 [[reumütig]], [ˈʁɔɪ̯ˌmyːtɪç]
 
 ---
-[[Ein Auge zudrücken.md#^7|(q)]] „Wollen wir mal nicht so sein!“, sagte er zu Roman, der sich [[reumütig]] entschuldigte. „Ich will mal ein Auge zudrücken!“ ^7
+[[Ein Auge zudrücken.md#^7|^]] „Wollen wir mal nicht so sein!“, sagte er zu Roman, der sich [[reumütig]] entschuldigte. „Ich will mal ein Auge zudrücken!“ ^7
 
 ---
 = [[zerknirscht]], [[reuevoll]], [[schuldig]], [[schuldbewusst]]

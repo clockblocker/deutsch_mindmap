@@ -1,4 +1,1 @@
-, [[Vorsicht]]
-, [[Flüchtigkeitsfehler]]
-, [[Sorgfaltsfehler]]
-, [[Sorgfalt]], [[Nachlässigkeit]], [[Haltung]], [[Überlegung]]
+---> [[🗣️ Ingredient-Meinung]] <---

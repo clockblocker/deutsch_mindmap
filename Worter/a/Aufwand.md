@@ -7,8 +7,9 @@ die [[Aufwände]]
 ---
 0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]. ✅ a
 
-*[[C1-Lesen-T4-100-Text#^7|^]]* Der [[Geldwert]] wird nicht nur durch Größe, [[Aufwand]] und Materialien [[bestimmt]], sondern auch durch den [[Bekanntheitsgrad]] des Objekts oder des Kunstschaffenden. ^7
+*[[C1-Lesen-T2-102-Text#^36|^]]* Der Unterschied mache jedoch, wie der Studienleiter betont, der [[Aufwand]]: Die Walker waren täglich 40 Minuten unterwegxs, die Intensiv-Sportler nur knapp 24
 
+*[[C1-Lesen-T4-100-Text#^7|^]]* Der [[Geldwert]] wird nicht nur durch Größe, [[Aufwand]] und Materialien [[bestimmt]], sondern auch durch den [[Bekanntheitsgrad]] des Objekts oder des Kunstschaffenden
 
 ![[006-C1-Schreiben-T2#^3|^]] 
 
@@ -16,12 +17,10 @@ die [[Aufwände]]
 
 
 ---
-= [[Kosten]], [[Einsatz]], [[Mühe]]
-≈ [[Anstrengung]], [[Investition]], [[Verbrauch]]
+= [[Kosten]], [[Einsatz]], [[Mühe]], [[Einsatzes]], [[Bemühung]]
+≈ [[Anstrengung]], [[Investition]], [[Verbrauch]], [[Betrag]]
 ≠ [[Ertrag]], [[Gewinn]], [[Ersparnis]]
 
-, [[Einsatzes]], [[Bemühung]]
-, [[aufmachen]], [[Betrag]], [[senken]], [[senken]]
 
 ---
 effort, expense  

@@ -1,2 +1,2 @@
 
-, [[Ring]]
+, [[Ring]], [[Ringerung]]

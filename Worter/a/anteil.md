@@ -6,12 +6,12 @@ die [[Anteile]]
 ---
 Der DPS-[[Anstieg]] pro Sekunde durch **Eisiger Tod** wird [[entsprechend]] einem [[Anteil]] von **Fokusrune** erhöht.
 
----
-= [[Anpart]], [[Anspruch]], [[Beteiligung]]
-≈ [[Quote]], [[Prozentsatz]], [[Anregung]]
-≠ [[Ganzes]], [[Gesamtheit]]
+[[Körperfettanteil]], [[Mindestanteil]], [[Großteil]]
 
-, [[Mindestanteil]], [[Drittel]], [[Großteil]], [[Bruchteil]], [[Anstieg]]
+---
+= [[Anpart]], [[Anspruch]], [[Beteiligung]], [[Bruchteil]]
+≈ [[Quote]], [[Prozentsatz]], [[Anregung]], [[Drittel]],  [[Anstieg]]
+≠ [[Ganzes]], [[Gesamtheit]]
 
 
 ---
@@ -30,3 +30,6 @@ N: der [[Anteil]], die [[Anteile]]
 A: den [[Anteil]], die [[Anteile]]
 G: des [[Anteils]], der [[Anteile]]
 D: dem [[Anteil]], den [[Anteilen]]
+
+#Maskulin 
+

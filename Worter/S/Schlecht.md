@@ -5,7 +5,7 @@
 nicht [[gut]]
 
 ---
-[[16 Plusquamperfekt#^22|(q)]] Die Fenster in den Zimmern waren [[schmutziger]], als die Gläser in der Küche. Der Kühlschrank war ganz leer. Die Wäsche in der Badewanne hatte einen [[schlechten]] [[Geruch]]. ^22
+[[16 Plusquamperfekt#^22|^]] Die Fenster in den Zimmern waren [[schmutziger]], als die Gläser in der Küche. Der Kühlschrank war ganz leer. Die Wäsche in der Badewanne hatte einen [[schlechten]] [[Geruch]]. ^22
 
 
 ---

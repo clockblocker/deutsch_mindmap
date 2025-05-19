@@ -3,4 +3,4 @@
 🔵 der [[Worter/K/Körper]] 🧍
 
 #Maskulin 
-, [[Körperflüssigkeit]]
+, [[Körperflüssigkeit]], [[Körperfett]], [[Körperfettanteil]]

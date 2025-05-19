@@ -1,3 +1,4 @@
+---> 📈 [[Grad-Vergleich]] <---
 ---> 🤝 [[Ingredient-Interaktion]] <---
 
 🔵 🔍 der [[Vergleich]], [fɛɐ̯ˈglаɪ̯ç]
@@ -73,4 +74,4 @@ PI: [[vergleichend]], PII: [[verglichen]], Zu+inf: [[zu vergleichen]]
 , [[Texte/Misc/Anki]], [[Analogie]]
 
 
-#Maskulin 
+#Maskulin ---> [[🗣️ Ingredient-Meinung]] <---

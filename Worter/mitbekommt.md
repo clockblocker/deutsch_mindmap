@@ -1,7 +1,7 @@
 👂 [[mitbekommen]], [ˈmɪtbəˌkɔmən] | [[bekam mit]], haben [[mitbekommen]]
 
 ---
-[[1 ADHD#^20|(q)]] ist manchmal mit etwas so [[beschäftigt]], dass sie nichts um sich herum [[mitbekommt]]; ^20
+[[1 ADHD#^20|^]] ist manchmal mit etwas so [[beschäftigt]], dass sie nichts um sich herum [[mitbekommt]]; ^20
 
 ---
 = [[erfahren]], [[mitkriegen]], [[vernehmen]]

@@ -2,9 +2,11 @@
 die [[Erfolge]]
 
 ---
-[[16 Plusquamperfekt#^26|(q)]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon **[[während]] seines Lebens und auch nach seinem Tod** hatte er großen [[Erfolg]]. ^26
+[[16 Plusquamperfekt#^26|^]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon **[[während]] seines Lebens und auch nach seinem Tod** hatte er großen [[Erfolg]]. ^26
 
 Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfwungen]].
+
+*[[C1-Lesen-T2-102-Text#^2|^]]* Vergleicht man die schnellsten 100-Meter-Läufer mit den besten [[Marathonläufern]] der Welt, so fällt einem sofort ins Auge: [[Ausdauersport]] scheint zum [[Erfolg]] zu führen
 
 STEFAN: … Ja Sascha, und mit deiner Figur ... wirst du auch viel [[Erfolg]] haben …  
 
@@ -35,4 +37,6 @@ Dative: dem [[Erfolg]], den [[Erfolgen]]
 ---
 [[erfolgen]], [[erfolgreich]], [[erfolglos]], [[erfolgsorientiert]], [[verbuchen]], [[gelingen]], [[gutgehen]], [[gelungen]], [[Niederlage]], [[Hot]]
 , [[fehlentwicklung]]
-, [[Versuch]], [[Karriere]], [[Erfolgsfaktor]], [[Großtat]], [[Aufgabenerfüllung]], [[Fehlgriff]], [[Bildungserfolg]], [[erbringen]]
+, [[Versuch]], [[Karriere]], [[Erfolgsfaktor]], [[Großtat]], [[Aufgabenerfüllung]], [[Fehlgriff]], [[Bildungserfolg]], [[erbringen]], [[Ausdauersport]]
+
+#Maskulin 

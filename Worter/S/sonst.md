@@ -3,9 +3,9 @@
 ---
 Maggie isst kein Brot, [[sonst]] wird ihr [[schlecht]].
 
-[[2 ADHD.md#^1|(q)]] Bei der Arbeit oder [[sonstigen]] Aktivitäten (z.B. Lesen, Fernsehen, Spiel) fällt es mir schwer, konzentriert [[durchzuhalten]]. ^2
+[[2 ADHD.md#^1|^]] Bei der Arbeit oder [[sonstigen]] Aktivitäten (z.B. Lesen, Fernsehen, Spiel) fällt es mir schwer, konzentriert [[durchzuhalten]]. ^2
 
-Was konnte ich ihm [[sonst]] [[anbieten]]? Ich ging in den Keller und fand in einem alten Koffer den hellgrauen Mantel meines Vetters.  [[17 zu inf#^14|(q)]]
+Was konnte ich ihm [[sonst]] [[anbieten]]? Ich ging in den Keller und fand in einem alten Koffer den hellgrauen Mantel meines Vetters.  [[17 zu inf#^14|^]]
 
 Habt ihr [[sonst]] noch Fragen?
 - Eisenteller nicht mitwaschen. [[Sonst]] Rostflecken.

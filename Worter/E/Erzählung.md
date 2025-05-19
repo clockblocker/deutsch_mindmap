@@ -2,7 +2,7 @@
 die [[Erzählungen]]
 
 ---
-[[Eigenlob stinkt.md#^6|(q)]] Normalerweise tut Lisa so, als würde sie sich für Peters [[Erzählungen]] interessieren, und versucht, an was anderes zu denken. Aber heute verliert sie die Nerven. ^6
+[[Eigenlob stinkt.md#^6|^]] Normalerweise tut Lisa so, als würde sie sich für Peters [[Erzählungen]] interessieren, und versucht, an was anderes zu denken. Aber heute verliert sie die Nerven. ^6
 
 ---
 = [[Geschichte]], [[Bericht]], [[Erzählwerk]]

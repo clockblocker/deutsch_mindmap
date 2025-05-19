@@ -27,3 +27,6 @@ N: der [[Stoffwechsel]], die [[Stoffwechsel]]
 A: den [[Stoffwechsel]], die [[Stoffwechsel]]
 G: des [[Stoffwechsels]], der [[Stoffwechsel]]
 D: dem [[Stoffwechsel]], den [[Stoffwechseln]]
+, [[Stoffwechselmechanismus]]
+
+#Maskulin , [[Energiegrundumsatz]]

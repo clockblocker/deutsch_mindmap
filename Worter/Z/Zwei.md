@@ -1,1 +1,1 @@
-, [[Spielkarten]], [[zweifelt]], [[zweifeln]], [[Zweifel]]
+, [[Spielkarten]], [[zweifelt]], [[zweifeln]], [[Zweifel]], [[zweideutig]]

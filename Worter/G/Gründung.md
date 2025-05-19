@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 --> [[⛪ Ingredient-Plazt]] <---
 
 die [[Gründung]], [ˈɡʁʏndʊŋ]

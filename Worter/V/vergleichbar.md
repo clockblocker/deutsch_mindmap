@@ -1,2 +1,1 @@
 ---> 📈 [[Grad-Vergleich]] <---
-, [[Vergleich]]

@@ -2,7 +2,7 @@
 die [[Haltestellen]]
 
 ---
-Alles ging schnell, und bald stand er schon wieder auf der Straße. Er ging langsam zur [[Haltestelle]].  [[14 perfekt#^11|(q)]]
+Alles ging schnell, und bald stand er schon wieder auf der Straße. Er ging langsam zur [[Haltestelle]].  [[14 perfekt#^11|^]]
 
 
 ---

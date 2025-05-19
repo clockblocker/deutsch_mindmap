@@ -8,7 +8,7 @@ haben [[gewogen]]
 _Er [[wog]] vielleicht ein halbes Lot –_  
 _und war am fünften Tage tot._
 
-[[Keine Lust.md#^5|(q)]] *Hab keine Lust, mich zu [[wiegen]]*  
+[[Keine Lust.md#^5|^]] *Hab keine Lust, mich zu [[wiegen]]*  
 *Hab keine Lust, im [[Fett]] zu liegen* ^5
 
 ---

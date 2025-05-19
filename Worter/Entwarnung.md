@@ -9,7 +9,7 @@ die [[Entwarnungen]]
 
 
 ---
-= [[Freigabe]], [[Aufhebung der Warnung]]
+= [[Freigabe]], [[Aufhebung der Warnung]], [[Verharmlosung]]
 ≈ [[Beruhigung]], [[Sicherheitsmeldung]]
 ≠ [[Warnung]], [[Alarm]], [[Gefahrenmeldung]]
 

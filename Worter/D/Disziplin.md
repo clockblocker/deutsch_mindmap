@@ -26,4 +26,4 @@ A: die [[Disziplin]], die [[Disziplinen]]
 G: der [[Disziplin]], der [[Disziplinen]]
 D: der [[Disziplin]], den [[Disziplinen]]
 
-#Feminin , [[Wissenschaftszweig]]
+#Feminin , [[Wissenschaftszweig]]---> [[🗣️ Ingredient-Meinung]] <---

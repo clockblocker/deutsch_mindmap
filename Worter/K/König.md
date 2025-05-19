@@ -1,1 +1,1 @@
-, [[Spielkarten]], [[Zaunkönig]], [[Monarch]]
+, [[Spielkarten]], [[Zaunkönig]], [[Monarch]], [[Königsweg]]

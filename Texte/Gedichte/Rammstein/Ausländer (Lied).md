@@ -3,10 +3,10 @@ Ich reise viel, ich reise gern
 Ich bin zu Hause [[überall]]  
 Meine Sprache: International
 
-[[Ausländer (lied)#^1|(q)]] Ich mache es gern jedem recht  
+[[Ausländer (lied)#^1|^]] Ich mache es gern jedem recht  
 Ja, mein [[Sprachschatz]] ist nicht schlecht ^1
 
-[[Ausländer (lied)#^2|(q)]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
+[[Ausländer (lied)#^2|^]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
 Mit dem anderen [[Geschlecht]] ^2
 
 Ich bin kein Mann für eine Nacht  

@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🔭 🔴 die [[Perspektive]], [pɛʁspɛkˈtiːvə](https://youglish.com/pronounce/Perspektive/german)
 
 ---
@@ -31,4 +33,4 @@ A: die [[Perspektive]], die [[Perspektiven]]
 G: der [[Perspektive]], der [[Perspektiven]]
 D: der [[Perspektive]], den [[Perspektiven]]
 
-#Feminin , [[Standpunkt]]
+#Feminin , [[Standpunkt]], [[Grundeinstellung]], [[Einstellung]], [[Betrachtungsweise]]

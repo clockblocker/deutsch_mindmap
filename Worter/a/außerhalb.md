@@ -6,13 +6,13 @@ _Aang nimmt Katara in die Arme und mit einem Sprung sind sie [[außerhalb]] des 
 *[[08-C1-Schreiben-T2-M#^1|^]]* Da der [[betriebseigene]] Parkplatz Ihrer Firma regelmäßig [[ausgelastet]] ist, hat Frau Weiß von der [[Geschäftsführung]] [[beschlossen]], dass nur noch Mitarbeitende, die von [[außerhalb]] zur Arbeit kommen, den Parkplatz benutzen dürfen. ^1
 
 
-[[2 Unter Druck nach oben#^22|(q)]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat. ^22
+[[2 Unter Druck nach oben#^22|^]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat. ^22
 
 Unser Haus steht [[außerhalb]] der Stadt
 
-[[2 prap.md#^8|(q)]] [[Außerhalb]] dieses [[Gebiets]], [[außerhalb]] unserer [[Öffnungszeiten]] ^8
+[[2 prap.md#^8|^]] [[Außerhalb]] dieses [[Gebiets]], [[außerhalb]] unserer [[Öffnungszeiten]] ^8
 
-[[Lektionen/Bekker/verben/1#^2|(q)]] Autos und Transporter [[verschmutzen]] nicht mehr die Luft durch [[Abgase]], denn Lastenräder bringen die Waren von [[außerhalb]] der Stadt bis zum Geschäft. ^2
+[[Lektionen/Bekker/verben/1#^2|^]] Autos und Transporter [[verschmutzen]] nicht mehr die Luft durch [[Abgase]], denn Lastenräder bringen die Waren von [[außerhalb]] der Stadt bis zum Geschäft. ^2
 
 ---
 Synonyme: [[draußen]], [[extern]], [[Außen]], [[draußerhalb]], [[hinaus]], [[durchs]]

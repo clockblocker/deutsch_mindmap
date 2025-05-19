@@ -1,8 +1,9 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 🌐 die [[Erkenntnis]], [eʶɐ̯ˈkɛntnɪs]
 die [[Erkenntnisse]]
 
 ---
-[[16 Plusquamperfekt#^28|(q)]] Seit dieser Zeit [[durchmachen|machte]] seine Kunst große [[Veränderungen]] durch - vom Impressionismus zum Kubismus, vom Kubismus zum Surrealismus, einer spontanen Methode der irrationalen [[Erkenntnis]].  ^28
+[[16 Plusquamperfekt#^28|^]] Seit dieser Zeit [[durchmachen|machte]] seine Kunst große [[Veränderungen]] durch - vom Impressionismus zum Kubismus, vom Kubismus zum Surrealismus, einer spontanen Methode der irrationalen [[Erkenntnis]].
 
 ---
 = [[Einsicht]], [[Wissen]], [[Verständnis]]
@@ -23,4 +24,6 @@ D: der [[Erkenntnis]], den [[Erkenntnissen]]
 
 ---
 [[erkennen]], [[erkennen]] (untrennbar), [[ernst]], [[kenntnisreich]], [[spontanen]]
-, [[erkennbar]], [[Einblick]], [[Information]], [[Auffassung]], [[Wahrnehmung]]
+, [[erkennbar]], 
+
+#Feminin 

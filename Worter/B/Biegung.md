@@ -1,1 +1,1 @@
-, [[verbiegen]]
+, [[verbiegen]], [[zurechtbiegen]]

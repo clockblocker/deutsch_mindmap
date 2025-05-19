@@ -1,7 +1,7 @@
 👩🏽 [[dunkelhaarig]], [ˈdʊŋkəlˌhaːʁɪç] ≠ [[blond]]
 
 ---
-[[2 Unter Druck nach oben#^1|(q)]] Der Mann, der Karriere machen will, sollte größer als 1,80 Meter sein, [[schlank]] und [[dunkelhaarig]], verheiratet, aber kinderlos, und sich in der Freizeit am liebsten mit sich selbst [[beschäftigen]]. ^1
+[[2 Unter Druck nach oben#^1|^]] Der Mann, der Karriere machen will, sollte größer als 1,80 Meter sein, [[schlank]] und [[dunkelhaarig]], verheiratet, aber kinderlos, und sich in der Freizeit am liebsten mit sich selbst [[beschäftigen]]. ^1
 
 ---
 = [[schwarzhaarig]], [[braunhaarig]]

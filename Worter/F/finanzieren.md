@@ -1,1 +1,1 @@
-, [[Finanzkrise]], [[finanziell]], [[Finanzsenator]], [[stiften]], [[unterhalten]]
+, [[Finanzkrise]], [[finanziell]], [[Finanzsenator]], [[stiften]], [[unterhalten]], [[spendieren]]

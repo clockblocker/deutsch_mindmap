@@ -3,4 +3,4 @@
 ---
 , [[Einsatzes]]
 , [[Aufmerksamkeit]]
-, [[Anstrengung]], [[Lernbereitschaft]], [[Beteiligung]], [[Motivation]], [[Interesse]], [[Mitarbeiterzufriedenheit]], [[Einsatz]], [[Gleichgültigkeit]], [[Teilnahme]]
+, [[Anstrengung]], [[Lernbereitschaft]], [[Beteiligung]], [[Motivation]], [[Interesse]], [[Mitarbeiterzufriedenheit]], [[Einsatz]], [[Gleichgültigkeit]], [[Teilnahme]], [[Tatendrang]]

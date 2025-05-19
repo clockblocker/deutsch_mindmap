@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🗣️ 🔴 die [[Äußerung]], [ˈɔɪ̯səʁʊŋ](https://youglish.com/pronounce/Äußerung/german)
 die [[Äußerungen]]
 

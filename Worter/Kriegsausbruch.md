@@ -2,7 +2,7 @@
 die [[Kriegsausbrüche]]
 
 ---
-[[2 prap.md#^17|(q)]] [[infolge]] des [[Unwetters]], infolge des [[Kriegsausbruchs]] ^17
+[[2 prap.md#^17|^]] [[infolge]] des [[Unwetters]], infolge des [[Kriegsausbruchs]] ^17
  
 
 ---

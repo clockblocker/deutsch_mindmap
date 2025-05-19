@@ -1,1 +1,1 @@
-, [[Vergleich]], [[untersuchen]], [[prüfen]]
+, [[Vergleich]], [[untersuchen]], [[prüfen]], [[überprüfen]]

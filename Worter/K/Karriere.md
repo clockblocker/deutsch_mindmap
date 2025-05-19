@@ -2,7 +2,7 @@
 die [[Karrieren]]
 
 ---
-[[1.1 text#^4|(q)]] Eigentlich hatte Sophia Ofuso vor, nach ihrem Studium der Ingenieurwissenschaften in einem großen Unternehmen zu arbeiten und [[Karriere]] zu machen. ^4
+[[1.1 text#^4|^]] Eigentlich hatte Sophia Ofuso vor, nach ihrem Studium der Ingenieurwissenschaften in einem großen Unternehmen zu arbeiten und [[Karriere]] zu machen. ^4
 
 ---
 = [[Laufbahn]], [[Berufsweg]], [[Werdegang]]

@@ -40,4 +40,4 @@ PI: [[bezahlend]], PII: [[bezahlt]], Zu+inf: [[zu bezahlen]]
 
 ---
 [[Bezahlung]], [[Zahlung]], [[Worter/G/Geld]], [[Kosten]], [[Rechnung]], [[Gebühr]], [[unbezahlt]], [[Gehalt]]
-, [[kosten]]
+, [[kosten]], [[spendieren]]

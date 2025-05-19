@@ -2,7 +2,7 @@
 die [[Saiteninstrumente]]
 
 ---
-[[17 zu inf#^8|(q)]] Er [[stimmte]] nicht nur Klaviere, sondern reparierte auch [[Saiteninstrumente]] und gab [[Blockflötenunterricht]].  ^8
+[[17 zu inf#^8|^]] Er [[stimmte]] nicht nur Klaviere, sondern reparierte auch [[Saiteninstrumente]] und gab [[Blockflötenunterricht]].  ^8
 
 ---
 = [[Streicher]], [[Zupfinstrument]], [[Schlaginstrument]]

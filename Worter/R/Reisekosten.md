@@ -1,7 +1,7 @@
 💰 die [[Reisekosten]], [ˈʁaɪ̯zəˌkɔstn̩]
 
 ---
-[[2 prap.md#^7|(q)]] [[ausschließlich]] der [[Reisekosten]] ^7
+[[2 prap.md#^7|^]] [[ausschließlich]] der [[Reisekosten]] ^7
 
 , [[verreisen]]
 

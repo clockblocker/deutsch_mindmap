@@ -18,9 +18,9 @@ a) Sein [[geringes]] [[Gewicht]].
 *[[C1-Lesen-T2-101-Text#^11|^]]* Bei ihr war der (8) [[Ertrag]] an genetischem Material jedoch für weitere Analysen zu [[gering]]. ^11
 
 
-[[2 Unter Druck nach oben#^2|(q)]] Wenn dieser [[Aufsteiger]] endlich an der Spitze der Firma angekommen ist, dann [[plagen]] ihn meist Angst und Ressentiments, [[geringes]] [[Selbstwertgefühl]] und ein [[unbändiges]] [[Bedürfnis]] nach [[Anerkennung]]. Das ist wissenschaftlich erwiesen. ^2
+[[2 Unter Druck nach oben#^2|^]] Wenn dieser [[Aufsteiger]] endlich an der Spitze der Firma angekommen ist, dann [[plagen]] ihn meist Angst und Ressentiments, [[geringes]] [[Selbstwertgefühl]] und ein [[unbändiges]] [[Bedürfnis]] nach [[Anerkennung]]. Das ist wissenschaftlich erwiesen. ^2
 
-[[3 ADHD.md#^4|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich ein [[geringes]] [[Durchhaltevermögen]], [[abbrechen|brach]] ich [[Tätigkeiten]] vor deren [[Beendigung]] ab. ^5
+[[3 ADHD.md#^4|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich ein [[geringes]] [[Durchhaltevermögen]], [[abbrechen|brach]] ich [[Tätigkeiten]] vor deren [[Beendigung]] ab. ^5
 
 
 ---
@@ -47,4 +47,4 @@ P: [[geringen]], [[geringeren]], [[geringsten]]
 [[Geringfügigkeit]], [[geringschätzig]], [[Geringverdiener]], [[Geringfügigkeit]]
 
 [[speziellen]], [[prima]], [[breit]], [[bitterlich]], [[gewaltigen]], [[gewaltig]], [[klein]], [[speziell]]
-, [[viel]], [[verringern]], [[Million]], [[erheblich]], [[Verringerung]], [[zahlreich]], [[unschätzbar]], [[unzureichend]], [[beträchtlich]], [[Geringschätzung]]
+, [[viel]], [[verringern]], [[Million]], [[erheblich]], [[Verringerung]], [[zahlreich]], [[unschätzbar]], [[unzureichend]], [[beträchtlich]], [[Geringschätzung]], [[mäßig]], [[prestigeträchtig]]

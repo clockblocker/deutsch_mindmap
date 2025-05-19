@@ -59,4 +59,4 @@ G: der [[Folge]], der [[Folgen]]
 D: der [[Folge]], den [[Folgen]]
 
 
-#Feminin , [[zufolge]], [[Zeichenfolge]]
+#Feminin , [[zufolge]], [[Zeichenfolge]]---> [[🗣️ Ingredient-Meinung]] <---

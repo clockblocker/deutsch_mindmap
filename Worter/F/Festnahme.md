@@ -1,1 +1,1 @@
-, [[verhaften]], [[Verhaftungen]], [[festnehmen]]
+, [[verhaften]], [[Verhaftungen]], [[festnehmen]], [[Haft]]

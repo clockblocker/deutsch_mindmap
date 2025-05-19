@@ -10,7 +10,7 @@
 
 • Heutigen [[Tageshöchstwert]] für neue Karten [[erhöhen]]
 
-[[0 checklist#^6|(q)]] Eine gut [[bestückte]] [[Bewerbungsmappe]] [[erhöht]] die [[Chancen]], auf dem heiß [[umkämpften]] Wohnungsmarkt deine Traumwohnung zu finden. ^6
+[[0 checklist#^6|^]] Eine gut [[bestückte]] [[Bewerbungsmappe]] [[erhöht]] die [[Chancen]], auf dem heiß [[umkämpften]] Wohnungsmarkt deine Traumwohnung zu finden. ^6
 
 ---
 = [[steigern]], [[aufbessern]], [[anheben]]
@@ -39,4 +39,4 @@ PI: [[erhöhend]], PII: [[erhöht]], Zu+inf: [[zuerhöhen]]
 [[Erhöhung]], [[erhöht]], [[Höhe]], [[höher]], [[erhaben]]
 
 [[beschränken]], [[nächsthöher]], [[herabziehen]], [[höherstellen]], [[Tageshöchstwert]]
-, [[abschwächen]], [[verbilligen]]
+, [[abschwächen]], [[verbilligen]], [[hochtreiben]], [[zulegen]]

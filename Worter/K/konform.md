@@ -1,1 +1,2 @@
-, [[Einheitliche]], [[vereinbar]], [[passend]]
+---> 📈 [[Grad-Vergleich]] <---
+

@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 👯 [[gleichaltrig]], [ˈɡlaɪ̯çˌʔaltʁɪç](https://youglish.com/pronounce/gleichaltrig/german)
 
 ---

@@ -5,8 +5,13 @@
 die [[Anstrengungen]]
 
 ---
-[[2 ADHD.md#^5|(q)]] Ich gehe Aufgaben, die [[geistige]] [[Anstrengung]] [[erforderlich]] machen, am liebsten aus dem Weg. ^5
+[[2 ADHD.md#^5|^]] Ich gehe Aufgaben, die [[geistige]] [[Anstrengung]] [[erforderlich]] machen, am liebsten aus dem Weg. 
 
+*[[C1-Lesen-T2-102-Text#^30|^]]* Das Ergebnis: Bei allen Trainingsformen ging der Lac-Phe-Pegel nach oben, doch am deutlichsten war der Anstieg in [[Anstrengung]] – das hochintensive Intervalltraining
+
+*[[C1-Lesen-T2-102-Text#^23|^]]* Lac-Phe entsteht immer dann, wenn die [[Anstrengung]] sehr hoch ist
+
+*[[C1-Lesen-T2-102-Text#^7|^]]* Denn bereits wenige sehr kurzen [[Anstrengung]]en nicht selten viele Kalorien verbrauchen
 
 Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
 
@@ -33,4 +38,4 @@ D: der [[Anstrengung]], den [[Anstrengungen]]
 [[anstrengen]], [[streng]], [[anstrengend]], [[Anstrengungsbereitschaft]], [[Anstrengungsgrad]]
 , [[bestreben]], [[Belastung]], [[Aufwand]]
 
-#Feminin 
+#Feminin , [[Kurzzeitbelastung]]

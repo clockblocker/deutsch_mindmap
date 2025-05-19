@@ -2,7 +2,7 @@
 die [[Ausbrüche]]
 
 ---
-[[2 prap.md#^17|(q)]] [[infolge]] des [[Unwetters]], infolge des [[Kriegsausbruchs]] ^17
+[[2 prap.md#^17|^]] [[infolge]] des [[Unwetters]], infolge des [[Kriegsausbruchs]] ^17
 
 
 *[[C1-Lesen-T2-101-Text#^3|^]]* Im Jahr 79 kam es zu mehreren [[gewaltigen]] [[Ausbrüchen]] des [[südöstlich]] von Neapel [[gelegenen]] Vulkans Vesuv. ^3

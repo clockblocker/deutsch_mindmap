@@ -5,7 +5,7 @@
 die [[Arbeitsaufträge]]
 
 ---
-[[1 ADHD#^24|(q)]] hat Schwierigkeiten, [[Arbeitsaufträge]] oder [[Schularbeiten]] [[fertigzustellen]]. ^24
+[[1 ADHD#^24|^]] hat Schwierigkeiten, [[Arbeitsaufträge]] oder [[Schularbeiten]] [[fertigzustellen]]. ^24
 
 ---
 = [[Aufgabe]], [[Auftrag]], [[Job]]

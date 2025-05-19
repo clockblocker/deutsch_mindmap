@@ -2,7 +2,7 @@
 die [[Tugenden]]
 
 ---
-[[2 Unter Druck nach oben#^12|(q)]] Nach dem [[Niedergang]] der [[ruppigen]] New Economy und dem [[Vertrauensschwund]] durch [[Betrugsmanöver]] [[geldgieriger]] Firmenbosse steigt wieder der Wert traditioneller [[Tugenden]]. ^12
+[[2 Unter Druck nach oben#^12|^]] Nach dem [[Niedergang]] der [[ruppigen]] New Economy und dem [[Vertrauensschwund]] durch [[Betrugsmanöver]] [[geldgieriger]] Firmenbosse steigt wieder der Wert traditioneller [[Tugenden]]. ^12
 
 ---
 = [[Moral]], [[Rechtschaffenheit]], [[Vorbildlichkeit]]
@@ -24,3 +24,4 @@ N: die [[Tugend]], die [[Tugenden]]
 A: die [[Tugend]], die [[Tugenden]]
 G: der [[Tugend]], der [[Tugenden]]
 D: der [[Tugend]], den [[Tugenden]]
+---> [[🗣️ Ingredient-Meinung]] <---

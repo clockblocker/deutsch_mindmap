@@ -1,7 +1,7 @@
 🧠 [[geistig]], [ˈɡaɪ̯stɪç] ≠ [[körperlich]]
 
 ---
-[[2 ADHD.md#^5|(q)]] Ich gehe Aufgaben, die [[geistige]] [[Anstrengung]] [[erforderlich]] machen, am liebsten aus dem Weg. ^5
+[[2 ADHD.md#^5|^]] Ich gehe Aufgaben, die [[geistige]] [[Anstrengung]] [[erforderlich]] machen, am liebsten aus dem Weg. ^5
 
 1. Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf politischem, [[wirtschaftlichem]], kulturellem, [[geistigem]] oder sozialem [[Gebiet]] eine [[besondere]] [[Leistung]] [[erbracht]] hat? Mit dem … (85%)
 	- [ ] Bundesadler

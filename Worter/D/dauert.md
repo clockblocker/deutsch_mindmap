@@ -1,2 +1,2 @@
 🕰️ [[dauern]], [ˈdaʊ̯ɐn], [[sicher]], [[Extra 8]]
-, [[s1 e1]], [[andauern]]
+, [[s1 e1]], [[andauern]], [[ausdauern]]

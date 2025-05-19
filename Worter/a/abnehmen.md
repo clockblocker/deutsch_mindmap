@@ -6,10 +6,12 @@
 haben [[abgenommen]]
 
 ---
+*[[C1-Lesen-T2-102-Text#^1|^]]* [[Bisher]] war der [[Königsweg]] klar definiert: Wer [[abnehmen]] will, soll [[ausdauernd]] trainieren
+
 Die anderen kommen dazu und [[nehmen]] den beiden ein paar von den schweren Kisten [[ab]]. Miriam ist erleichtert: Das Eis zwischen Sebastian und ihren Freunden ist gebrochen!	
 
 ---
-Synonyme: [[reduzieren]], [[verlieren]], [[abspecken]], [[gewichtreduzieren]], [[schlanker werden]]
+Synonyme: [[reduzieren]], [[verlieren]], [[Abspecken]], [[gewichtreduzieren]], [[schlanker werden]]
 Antonyme: [[zunehmen]], [[aufbauen]], [[ansetzen]]
 
 ---
@@ -38,4 +40,4 @@ Partizip I: [[abnehmend]], Partizip II: [[abgenommen]]
 
 , [[schwinden]], [[anheften]], [[entfernen]], [[verringern]], [[absinken]], [[Diät]], [[beliefern]]
 
-, [[zurückgehen]]
+, [[zurückgehen]], [[zulegen]]

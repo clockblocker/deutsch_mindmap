@@ -4,6 +4,8 @@
 [[Behörde]]
 [[gang und gäbe]]
 
+*[[C1-Lesen-T2-102-Text#^3|^]]* Denn während die [[muskelbepackten]] Sprinter mehr Statisten aus einem Gladiatorenfilm [[wirken]], möchte man den [[ausgezehrten]] [[Ausdauersportlern]] [[eher]] mal ein Drei-[[Gänge]]-Menü [[spendieren]].
+
 ---
 = [[Schritt]], [[Bewegung]], [[Fortbewegung]] | [[Korridor]], [[Flur]]
 ≈ [[Gehen]], [[Marsch]] | [[Weg]], [[Passage]]

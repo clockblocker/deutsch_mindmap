@@ -3,7 +3,7 @@
 🛑 [[abbrechen]], [ˈapˌbʁɛçn̩] | [[brach ab]], haben [[abgebrochen]]
 
 ---
-[[3 ADHD.md#^4|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich ein [[geringes]] [[Durchhaltevermögen]], [[abbrechen|brach]] ich [[Tätigkeiten]] vor deren [[Beendigung]] ab. ^5
+[[3 ADHD.md#^4|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich ein [[geringes]] [[Durchhaltevermögen]], [[abbrechen|brach]] ich [[Tätigkeiten]] vor deren [[Beendigung]] ab. ^5
 
 ---
 = [[beenden]], [[unterbrechen]], [[aufgeben]]

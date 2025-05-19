@@ -1,1 +1,1 @@
-, [[abkühlen]], [[beleben]]
+, [[abkühlen]], [[beleben]], [[auszehren]]

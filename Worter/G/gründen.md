@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 ---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
 🏛️ [[gründen]], [ˈgʁʏndən] | [[gründete]], haben [[gegründet]]
 
@@ -43,4 +44,4 @@ PI: [[gründend]], PII: [[gegründet]], Zu+inf: [[zugründen]]
 [[gründen]] - [[gründ]] = [[Grund]] / to found, to establish, to create
 
 ---
-[[Gründer]], [[Gründung]], [[gegründet]], [[Begründung]], [[grundlegend]], [[errichteten]], [[eröffnen]], [[Gründungsmitglied]]
+[[Gründer]], [[Gründung]], [[gegründet]], [[Begründung]], [[grundlegend]], [[errichteten]], [[eröffnen]], [[Gründungsmitglied]], [[beruhen]], [[tiefgründig]]

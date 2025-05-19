@@ -22,4 +22,4 @@ Er peitschte seine Gretchen gar!
 
 like
 
-[[sowie]], [[sowieso]], [[wieso]], [[irgendwie]], [[darauf]], [[s1 e1]], [[Nebensatz Conector]], [[Konjunktoren]], [[inwiefern]], [[Grammatik-Pronomen-Interrogative]]
+[[sowie]], [[sowieso]], [[wieso]], [[irgendwie]], [[darauf]], [[s1 e1]], [[Nebensatz Conector]], [[Konjunktoren]], [[inwiefern]], [[Grammatik-Pronomen-Interrogative]], [[inwieweit]]

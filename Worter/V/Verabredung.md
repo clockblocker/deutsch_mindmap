@@ -4,7 +4,7 @@
 die [[Verabredungen]]
 
 ---
-[[2 ADHD.md#^7|(q)]] Ich vergesse [[Verabredungen]], Termine oder telefonische [[Rückrufe]]. ^7
+[[2 ADHD.md#^7|^]] Ich vergesse [[Verabredungen]], Termine oder telefonische [[Rückrufe]]. ^7
 
 ---
 = [[Termin]], [[Treffen]], [[Abmachung]], [[Begegnung]]

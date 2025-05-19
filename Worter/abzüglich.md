@@ -1,7 +1,7 @@
 ➖ [[abzüglich]], [ˈapˌt͡sʏklɪç]
 
 ---
-[[2 prap.md#^1|(q)]] Abzüglich aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
+[[2 prap.md#^1|^]] Abzüglich aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
 
 ---
 = [[unter Ausschluss]], [[ohne]], [[ausgenommen]]

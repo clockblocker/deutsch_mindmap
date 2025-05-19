@@ -1,2 +1,3 @@
 ---> [[🎯 Ingredient-Result-Verb]] <---
 
+, [[bedingen]]

@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🔴 die [[Ursache]]
 die [[Ursachen]]
 
@@ -23,4 +25,4 @@ Morphems:
 [[Ur]][[Sache]]
 
 ---
-#Substantiv #Feminin, [[Hauptursache]], [[verursachen]], [[Hauptgrund]], [[Auswirkung]], [[Konsequenz]], [[Wirkung]]
+#Substantiv #Feminin,

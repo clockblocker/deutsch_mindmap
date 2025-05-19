@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🕵️ [[geheimnisvolle]], [ɡəˈhaɪ̯mnɪsˌfɔlə]
 nicht [[offensichtlich]]
 

@@ -1,0 +1,2 @@
+😩 [[auszehren]]
+, [[Zehrung]]

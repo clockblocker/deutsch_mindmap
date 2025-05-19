@@ -13,7 +13,7 @@ nicht [[mutig]]
 timid, hesitant, shy
 
 ---
-[[zag]]|[[haft]]
+[[zag]]|[[Haft]]
 
 ---
 N: [[zaghaft]], [[zaghafter]], [[zaghaftester]]  

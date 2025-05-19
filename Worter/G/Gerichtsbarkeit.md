@@ -1,1 +1,1 @@
-, [[Gericht]], [[Rechtsprechung]]
+, [[Gericht]], [[Rechtsprechung]], [[Justiz]]

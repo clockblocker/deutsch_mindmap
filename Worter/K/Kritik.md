@@ -1,3 +1,3 @@
 ---> 🤝 [[Ingredient-Interaktion]] <---
 
-, [[Ratgeber]]
+, [[Ratgeber]], [[Auszeichnung]]

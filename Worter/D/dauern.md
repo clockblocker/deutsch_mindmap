@@ -9,7 +9,7 @@ ANNA: Das [[dauert]] sicher nur eine Woche …
 
 1. Их поездка длилась две недели. Ihre Reise [[dauerte]] zwei Wochen.
 
-Was für ein Glück! Aber dieses Glück [[dauerte]] nicht lange. [[14 perfekt#^4|(q)]]
+Was für ein Glück! Aber dieses Glück [[dauerte]] nicht lange. [[14 perfekt#^4|^]]
 
 Der Krieg [[dauert]] schon 100 Jahre. Und du weißt nichts über ihn, weil du aus irgendeinem Grund die ganze Zeit da drin warst! 
 
@@ -44,4 +44,4 @@ Morpheme: [[daur]][[en]]
 
 Partizip I: [[dauernd]], Partizip II: [[gedauert]]
 
-[[dauern]] - no prefix, [[daur]] = [[daur]], [[en]] = [[en]], [[bleiben]], [[Dauer]]
+[[dauern]] - no prefix, [[daur]] = [[daur]], [[en]] = [[en]], [[bleiben]], [[Dauer]], [[ausdauern]]

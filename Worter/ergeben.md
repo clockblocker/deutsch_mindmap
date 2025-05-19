@@ -19,7 +19,7 @@ Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 *[[03-C1-Schreiben-T2-M#^2|^]]* Durch den [[zusätzlichen]] Arbeitsplatz hat sich jedoch in Ihrem Büro ein [[Platzproblem]] [[ergeben]]. ^2
 
 
-[[2 Unter Druck nach oben#^11|(q)]] Die Personalchefs großer deutscher Unternehmen, so [[ergaben]] [[Befragungen]] des SPIEGEL, halten Examensnoten, Titel und schlichtes [[Fachwissen]] für wenig [[aussagekräftig]]. ^11
+[[2 Unter Druck nach oben#^11|^]] Die Personalchefs großer deutscher Unternehmen, so [[ergaben]] [[Befragungen]] des SPIEGEL, halten Examensnoten, Titel und schlichtes [[Fachwissen]] für wenig [[aussagekräftig]]. ^11
 
 
 ---

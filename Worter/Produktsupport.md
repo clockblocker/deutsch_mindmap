@@ -3,7 +3,7 @@ die [[Produktsupportuns]]
 
 
 ---
-[[amazon.md#^2|(q)]] [[Produktsupport]] [[erhalten]] ^2
+[[amazon.md#^2|^]] [[Produktsupport]] [[erhalten]] ^2
 
 
 ---

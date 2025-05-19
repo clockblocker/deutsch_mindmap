@@ -3,7 +3,7 @@
 die [[Freizeitaktivitäten]]
 
 ---
-[[1 ADHD#^3|(q)]] wird bei [[Freizeitaktivitäten]] [[raustogig]] oder [[ungestüm]]. ^3
+[[1 ADHD#^3|^]] wird bei [[Freizeitaktivitäten]] [[raustogig]] oder [[ungestüm]]. ^3
 
 ---
 = [[Hobby]], [[Freizeitbeschäftigung]], [[Aktivität]]

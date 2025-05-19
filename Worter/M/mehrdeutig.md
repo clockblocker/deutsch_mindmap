@@ -1,1 +1,3 @@
-, [[offensichtlich]], [[deutlich]], [[eindeutig]]
+---> 🧩 [[Grad-Wahrheit]] <---
+
+, [[offensichtlich]], [[deutlich]], [[eindeutig]], [[zweideutig]], [[klar]]

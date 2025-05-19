@@ -2,4 +2,4 @@
 
 [[Grund]]
 
-#Maskulin 
+#Maskulin , [[tiefgründig]]

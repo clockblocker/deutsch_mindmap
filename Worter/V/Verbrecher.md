@@ -2,7 +2,7 @@
 die [[Verbrecher]]
 
 ---
-«Ich bin ein [[unehrlicher]] Mensch, ein [[Dieb]], ein [[Verbrecher]]! Ich vergesse diese Geschichte nie in meinem Leben!» Und er ging ins Museum zurück.  [[14 perfekt#^12|(q)]]
+«Ich bin ein [[unehrlicher]] Mensch, ein [[Dieb]], ein [[Verbrecher]]! Ich vergesse diese Geschichte nie in meinem Leben!» Und er ging ins Museum zurück.  [[14 perfekt#^12|^]]
 
 
 ---

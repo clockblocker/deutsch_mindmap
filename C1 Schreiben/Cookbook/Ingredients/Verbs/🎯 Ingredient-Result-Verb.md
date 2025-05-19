@@ -34,6 +34,9 @@ like 🩹 [[beeinträchtigen]] *(to impair; partial damage, softer tone)*
 🚧 [[behindern]] *(to hinder, to impede, to obstruct)*
 🚫 [[stören]] *(to disturb, to bother, to interfere)*
 ⛔ [[verhindern]] *(to prevent, to hinder)*
+🛑 [[hemmen]] *(to inhibit, to impede)*  
+🛑 [[bremsen]] *(тормозить)*
+
 
 ---
 

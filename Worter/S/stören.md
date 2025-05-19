@@ -11,7 +11,7 @@ haben [[gestört]]
 Du versuchst mich zu [[stören]]. _Ты пытаешься мне помешать._
 
 
-[[17 zu inf#^13|(q)]] «Dann will ich nicht weiter [[stören]]», sagte Herr Kohlaas und wollte schon [[von]] uns [[Abschied]] [[nehmen]], aber ich sagte: 
+[[17 zu inf#^13|^]] «Dann will ich nicht weiter [[stören]]», sagte Herr Kohlaas und wollte schon [[von]] uns [[Abschied]] [[nehmen]], aber ich sagte: 
 «Warten Sie, Sie können den Mantel von meinem Vetter bekommen.» ^13
 
 

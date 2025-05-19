@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 ⚖️ [[gleichermaßen]], [ˈɡlaɪ̯çɐˌmaːsn̩]
 
 ---

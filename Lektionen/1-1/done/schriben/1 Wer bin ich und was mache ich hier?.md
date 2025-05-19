@@ -1,10 +1,10 @@
 Mein Name ist Denis Popov. Ich bin 1997 in der Stadt Nachodka, Region Primorje, Russland, geboren. Ich habe eine vollständige Familie: Mutter, Vater und Schwester (acht Jahre jünger  ich).
 
 
-[[1 Wer bin ich und was mache ich hier?#^1|(q)]] Von der Schule an interessierte ich mich für Mathematik, Informatik und Linguistik. Das waren die Hauptbereiche meines Interesses, abgesehen von Büchern und Computerspielen. 
+[[1 Wer bin ich und was mache ich hier?#^1|^]] Von der Schule an interessierte ich mich für Mathematik, Informatik und Linguistik. Das waren die Hauptbereiche meines Interesses, abgesehen von Büchern und Computerspielen. 
 ^1
 
-[[1 Wer bin ich und was mache ich hier?#^2|(q)]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]. ^2
+[[1 Wer bin ich und was mache ich hier?#^2|^]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]. ^2
 
 Ich habe ab dem zweiten Studienjahr gearbeitet, zuerst in lokalen IT-Unternehmen in Samara und dann in einer [[Analogie]] von Google - dem Unternehmen Yandex in St. Petersburg.
 
@@ -17,26 +17,26 @@ Nach dem Studium bin ich nach Moskau gezogen wo ich bei die Deutsche Bank zu arb
 ###### Correction
 Nach dem Studium bin ich nach Moskau gezogen==,== wo ich bei ==der== ==Deutsche== Bank zu arbeiten begann.
 
-[[1 Wer bin ich und was mache ich hier?#^3|(q)]] Nach meinem Umzug nach Moskau lernte ich in einer speziellen App, die über Bekannte [[verbreitet]] wurde, meine [[zukünftige]] Frau kennen. Wir begannen, zusammenzuleben. ^3
+[[1 Wer bin ich und was mache ich hier?#^3|^]] Nach meinem Umzug nach Moskau lernte ich in einer speziellen App, die über Bekannte [[verbreitet]] wurde, meine [[zukünftige]] Frau kennen. Wir begannen, zusammenzuleben. ^3
 
-[[1 Wer bin ich und was mache ich hier?#^4|(q)]] Dort wurde ich auch ein aktives [[Mitglied]] der Liberalen Urbanistischen Oppositionspartei in Russland. ^4
+[[1 Wer bin ich und was mache ich hier?#^4|^]] Dort wurde ich auch ein aktives [[Mitglied]] der Liberalen Urbanistischen Oppositionspartei in Russland. ^4
 
-[[1 Wer bin ich und was mache ich hier?#^5|(q)]] In der Partei [[Beschäftigte]] ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]]  Menschen und Geld an und war öffentlich [[tätig]]. ^5
+[[1 Wer bin ich und was mache ich hier?#^5|^]] In der Partei [[Beschäftigte]] ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]]  Menschen und Geld an und war öffentlich [[tätig]]. ^5
 
 Einige Monate, nachdem die ersten Wahlen [[stattfanden]], an denen ich teilgenommen hatte, erklärte Russland den Krieg, und alles änderte sich.
 
-[[1 Wer bin ich und was mache ich hier?#^6|(q)]] Jede politische Aktivität oder auch nur [[irgendeine]] [[Beziehung]] dazu wurde potenziell strafbar. ^6
+[[1 Wer bin ich und was mache ich hier?#^6|^]] Jede politische Aktivität oder auch nur [[irgendeine]] [[Beziehung]] dazu wurde potenziell strafbar. ^6
 
 
-[[1 Wer bin ich und was mache ich hier?#^7|(q)]] Glücklicherweise bot uns die Deutsche Bank gleichzeitig die Möglichkeit, inach Berlin umzuzien und in der Berliner [[Niederlassung]] zu arbeiten. ^7
+[[1 Wer bin ich und was mache ich hier?#^7|^]] Glücklicherweise bot uns die Deutsche Bank gleichzeitig die Möglichkeit, inach Berlin umzuzien und in der Berliner [[Niederlassung]] zu arbeiten. ^7
 
-[[1 Wer bin ich und was mache ich hier?#^8|(q)]] Vor einem Jahr [[verabschiedete]] die deutsche Regierung ein Gesetz über die Einbürgerung nach drei Jahren mit der Möglichkeit der doppelten Staatsbürgerschaft. ^8
+[[1 Wer bin ich und was mache ich hier?#^8|^]] Vor einem Jahr [[verabschiedete]] die deutsche Regierung ein Gesetz über die Einbürgerung nach drei Jahren mit der Möglichkeit der doppelten Staatsbürgerschaft. ^8
 
-[[1 Wer bin ich und was mache ich hier?#^9|(q)]] Und im letzten Jahr habe ich mich [[bemüht]], die Kriterien für den Erhalt eines deutschen Passes zu erfüllen. ^9
+[[1 Wer bin ich und was mache ich hier?#^9|^]] Und im letzten Jahr habe ich mich [[bemüht]], die Kriterien für den Erhalt eines deutschen Passes zu erfüllen. ^9
 
-[[1 Wer bin ich und was mache ich hier?#^10|(q)]] Meine Bekannten, die sich mit deutscher Politik [[auskennen]], sagen, dass die Wahrscheinlichkeit einer [[Aufhebung]] des Gesetzes über die doppelte Staatsbürgerschaft groß ist. ^10
+[[1 Wer bin ich und was mache ich hier?#^10|^]] Meine Bekannten, die sich mit deutscher Politik [[auskennen]], sagen, dass die Wahrscheinlichkeit einer [[Aufhebung]] des Gesetzes über die doppelte Staatsbürgerschaft groß ist. ^10
 
-[[1 Wer bin ich und was mache ich hier?#^11|(q)]] Dies und die Schwierigkeiten beim [[Erhalt]] konsularischer Dienstleistungen vom russischen Staat im Zusammenhang mit dem politischen Engagement [[zwingen]] mich, mich ausschließlich dem Erlernen der Sprache zu [[widmen]]. ^11 // *vielleicht frönen, stiften*
+[[1 Wer bin ich und was mache ich hier?#^11|^]] Dies und die Schwierigkeiten beim [[Erhalt]] konsularischer Dienstleistungen vom russischen Staat im Zusammenhang mit dem politischen Engagement [[zwingen]] mich, mich ausschließlich dem Erlernen der Sprache zu [[widmen]]. ^11 // *vielleicht frönen, stiften*
 
 So begann mein Projekt "Deutsch C1 von Grund auf in einem Jahr bestehen, kombiniert mit Arbeit".
 
@@ -44,7 +44,7 @@ Ich verwende dafür eine selbst entwickelte Sprachlernmethode, die auf der aktiv
 
 Um mir dabei zu helfen, habe ich eine spezielle [[Anwendung]] geschrieben, die für Menschen, die Deutsch lernen, sehr nützlich ist.
 
-[[1 Wer bin ich und was mache ich hier?#^12|(q)]] Diese Anwendung hat das Sprachenlernen für mich in ein spannendes Spiel und den politischen Druck in eine spannende [[Herausforderung]] [[verwandelt]]. ^12
+[[1 Wer bin ich und was mache ich hier?#^12|^]] Diese Anwendung hat das Sprachenlernen für mich in ein spannendes Spiel und den politischen Druck in eine spannende [[Herausforderung]] [[verwandelt]]. ^12
 
 Ich mag sehr, was ich in den letzten sechs Monaten mache, und ich denke, ich kann sehr vielen Menschen sehr viel Gutes tun.
 

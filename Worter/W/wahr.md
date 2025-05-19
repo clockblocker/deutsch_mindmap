@@ -1,8 +1,7 @@
-🟡 [[wahr]], [vaːɐ̯]
-nicht [[Falsch]]
-
 ---> 🧩 [[Grad-Wahrheit]] <---
 
+🟡 [[wahr]], [vaːɐ̯]
+nicht [[Falsch]]
 
 ---
 ANNA: Ja, wir gehen auch immer in die Bücherei, [[nicht wahr]]?

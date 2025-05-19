@@ -53,4 +53,4 @@ sie, [[steigern]], [[steigerten]], [[steigern]], [[steigerten]], [[steigern]]
 Adjektive: [[steigernd]], [[steigernder]], [[steigerndst]]
 
 ---
-[[steigernder]], [[steigerndes]], [[steigernde]], [[steigernden]], [[steigerndem]], [[steigernderer]], [[steigernderes]], [[steigerndere]], [[steigernderen]], [[steigernderem]], [[steigerndster]], [[steigerndstes]], [[steigerndste]], [[steigerndsten]], [[steigerndstem]], [[Erhöhung]], [[vermehren]], [[Qualitätssteigerung]]
+[[steigernder]], [[steigerndes]], [[steigernde]], [[steigernden]], [[steigerndem]], [[steigernderer]], [[steigernderes]], [[steigerndere]], [[steigernderen]], [[steigernderem]], [[steigerndster]], [[steigerndstes]], [[steigerndste]], [[steigerndsten]], [[steigerndstem]], [[Erhöhung]], [[vermehren]], [[Qualitätssteigerung]], [[hochtreiben]], [[zulegen]]

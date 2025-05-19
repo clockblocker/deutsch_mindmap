@@ -1,7 +1,7 @@
 ➕ [[einschließlich]], [ˈaɪ̯nʃlɪslɪç]
 
 ---
-[[2 prap.md#^11|(q)]] [[einschließlich]] der gesamten Kosten // including, 
+[[2 prap.md#^11|^]] [[einschließlich]] der gesamten Kosten // including, 
 
 ---
 = [[inklusive]], [[mit]], [[samt]]

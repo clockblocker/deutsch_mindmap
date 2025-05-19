@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🧐 🔵 der [[Hinblick]], [ˈhɪnblɪk](https://youglish.com/pronounce/Hinblick/german)
 
 ---

@@ -1,1 +1,1 @@
-, [[ausgezeichnet]]
+, [[ausgezeichnet]], [[Auszeichnung]]

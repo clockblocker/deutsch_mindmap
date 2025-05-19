@@ -24,7 +24,7 @@ deficient, inadequate
 [[Mangel]], [[mangeln]], [[Mangelware]], [[Mangelerscheinung]]
 
 ---
-[[mangel]]|[[haft]]
+[[mangel]]|[[Haft]]
 [[mangelhaft]]
 
 

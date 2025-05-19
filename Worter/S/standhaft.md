@@ -14,7 +14,7 @@ nicht [[wankelmütig]]
 steadfast, resolute
 
 ---
-[[stand]]|[[haft]]
+[[stand]]|[[Haft]]
 
 ---
 N: [[standhaft]], [[standhafter]], [[standhaftester]]  

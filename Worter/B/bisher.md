@@ -5,6 +5,9 @@
 ---
 [[Bisher]] gab es noch keinen Regen, aber bestimmt [[bald]].
 
+*[[C1-Lesen-T2-102-Text#^1|^]]* [[Bisher]] war der [[Königsweg]] klar definiert: Wer [[abnehmen]] will, soll [[ausdauernd]] trainieren. ^1
+
+
 *[[C1-Lesen-T1-000-Text#^5|^]]* [[Bisher]] konzentrierten sich die Reinigungsmaßnahmen vor allem auf [[Küsten]] und die [[Wasseroberfläche]], [[während]] aber den Meeresboden zu säubern [[aufwendiger]] und für Taucher [[gefährlich]] ist. ^5
 
 

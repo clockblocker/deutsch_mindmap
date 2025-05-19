@@ -1,1 +1,1 @@
-, [[innerhalb]], [[Sozialstunde]]
+, [[innerhalb]], [[Sozialstunde]], [[stundenlang]]

@@ -1,2 +1,2 @@
 , [[offensichtlich]], [[Unbekannten]], [[geheimnisvolle]]
-, [[erkennbar]], [[bemerkbar]], [[eklatant]]
+, [[erkennbar]], [[bemerkbar]], [[eklatant]], [[sichtbar]], [[ersichtlich]]

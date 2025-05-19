@@ -1,16 +1,16 @@
-[[0 checklist#^1|(q)]] [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1 ^1
+[[0 checklist#^1|^]] [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1 ^1
 
-[[0 checklist#^2|(q)]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die Bewerbung? ^2
+[[0 checklist#^2|^]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die Bewerbung? ^2
 
-[[0 checklist#^3|(q)]] Ziel jedes [[Vermieters]] und [[Immobilienmaklers]] ist der perfekte [[Mieter]]. ^3
+[[0 checklist#^3|^]] Ziel jedes [[Vermieters]] und [[Immobilienmaklers]] ist der perfekte [[Mieter]]. ^3
 
-[[0 checklist#^4|(q)]] Um zu zeigen, dass du genau das bist, ist vor allem der erste [[Eindruck]] wichtig. ^4
+[[0 checklist#^4|^]] Um zu zeigen, dass du genau das bist, ist vor allem der erste [[Eindruck]] wichtig. ^4
 
-[[0 checklist#^5|(q)]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]. ^5
+[[0 checklist#^5|^]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]. ^5
 
-[[0 checklist#^6|(q)]] Eine gut [[bestückte]] [[Bewerbungsmappe]] [[erhöht]] die [[Chancen]], auf dem heiß [[umkämpften]] Wohnungsmarkt deine Traumwohnung zu finden. ^6
+[[0 checklist#^6|^]] Eine gut [[bestückte]] [[Bewerbungsmappe]] [[erhöht]] die [[Chancen]], auf dem heiß [[umkämpften]] Wohnungsmarkt deine Traumwohnung zu finden. ^6
 
-[[0 checklist#^7|(q)]] Unsere sieben Tipps für die Wohnungssuche [[verraten]] dir, worauf Vermieter [[Wert]] legen und wie die ideale [[Wohnungsbewerbung]] aussieht. ^7
+[[0 checklist#^7|^]] Unsere sieben Tipps für die Wohnungssuche [[verraten]] dir, worauf Vermieter [[Wert]] legen und wie die ideale [[Wohnungsbewerbung]] aussieht. ^7
 
 #### 1. [[Konkurrenz]] checken
 

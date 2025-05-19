@@ -40,4 +40,4 @@ PI: [[ermöglichend]], PII: [[ermöglicht]], Zu+inf: [[zu ermöglichen]]
 
 ---
 [[Ermöglichung]], [[möglich]], [[Möglichkeit]], [[unmöglich]], [[Möglichkeiten]], [[gewähren]]
-, [[verschaffen]], [[Worter/E/einlassen]], [[gewährleisten]], [[aufhalten]], [[hemmen]], [[einlassen]], [[verdrängen]]
+, [[verschaffen]], [[Worter/E/einlassen]], [[gewährleisten]], [[aufhalten]], [[hemmen]], [[einlassen]], [[verdrängen]], [[bedingen]], [[freisetzen]]

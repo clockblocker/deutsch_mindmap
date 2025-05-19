@@ -1,10 +1,11 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 ---> ✅ [[Ingredient-erlauben-verbieten]] <---
 
 🔴 🍀 die [[Gelegenheit]], [ɡəˈleːɡn̩haɪ̯t]
 die [[Gelegenheiten]]
 
 ---
-[[1 ADHD#^21|(q)]] bei anderen [[Gelegenheiten]] wird sie von allem [[abgelenkt]]. ^21
+[[1 ADHD#^21|^]] bei anderen [[Gelegenheiten]] wird sie von allem [[abgelenkt]]. ^21
 
 
 c) Kinder brauchen mehr [[Gelegenheit]]en zum [[Toben]].

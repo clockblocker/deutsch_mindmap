@@ -2,7 +2,7 @@
 die [[Erfolgsfaktoren]]
 
 ---
-[[2 Unter Druck nach oben#^13|(q)]] „[[Menschliche]] Qualitäten werden bei [[Führungskräften]] immer stärker zum [[Erfolgsfaktor]].“ ^13
+[[2 Unter Druck nach oben#^13|^]] „[[Menschliche]] Qualitäten werden bei [[Führungskräften]] immer stärker zum [[Erfolgsfaktor]].“ ^13
 
 ---
 = [[Erfolgsbedingung]], [[Schlüsselfaktor]]

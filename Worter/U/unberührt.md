@@ -1,1 +1,1 @@
-, [[frisch]], [[beeindruckt]], [[gemähter]], [[unbelastet]], [[Betroffen]]
+, [[frisch]], [[beeindruckt]], [[gemähter]], [[unbelastet]], [[Betroffen]], [[rein]]

@@ -59,4 +59,4 @@ Einzigartige mögliche Formen:
 
 
 , [[ziemlich]], [[zurechtkommen]], [[rechtlich]], [[Anspruch]], [[Grundrecht]], [[Faustrecht]], [[Gleichbehandlung]], [[Schweigerecht]], [[Mehrheitswahlrecht]], [[Verhältniswahlrecht]], [[Männerwahlrecht]], [[rechtsprechend]], [[s1 e1]], [[Gerechtigkeit]]
-, [[aufrechterhalten]], [[rechtsfrei]], [[Menschenrecht]], [[Arbeitnehmerrecht]], [[Arbeitsform]], [[Bildrecht]], [[Vorfahrt]], [[rechtfertigen]], [[Mietrecht]]
+, [[aufrechterhalten]], [[rechtsfrei]], [[Menschenrecht]], [[Arbeitnehmerrecht]], [[Arbeitsform]], [[Bildrecht]], [[Vorfahrt]], [[rechtfertigen]], [[Mietrecht]], [[Justiz]], [[zurechtbiegen]], [[zurechtfinden]]

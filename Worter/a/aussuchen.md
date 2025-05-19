@@ -9,7 +9,7 @@ Ich [[suche]] mir fünf Zahlen aus
 1. Was versteht man unter dem Recht der „[[Freizügigkeit]]“ in Deutschland? (77%)
 	- [x] Man darf sich seinen [[Wohnort]] selbst [[aussuchen]].
 
-[[3 ADHD.md#^11|(q)]] Als Kind im Alter von 8 bis 10 Jahren [[verfügte]] ich über eine gute [[motorische]][[Koordinationsfähigkeit]] und wurde immer zuerst als Mitspieler [[ausgesucht]]. ^11
+[[3 ADHD.md#^11|^]] Als Kind im Alter von 8 bis 10 Jahren [[verfügte]] ich über eine gute [[motorische]][[Koordinationsfähigkeit]] und wurde immer zuerst als Mitspieler [[ausgesucht]]. ^11
 
 ---
 = [[wählen]], [[auswählen]], [[selektieren]]

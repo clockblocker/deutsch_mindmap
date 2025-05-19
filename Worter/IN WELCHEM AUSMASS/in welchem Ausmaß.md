@@ -1,1 +1,1 @@
-, [[inwiefern]]
+, [[inwiefern]], [[inwieweit]]

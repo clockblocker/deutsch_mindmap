@@ -5,7 +5,7 @@
 👍 [[aufrechterhalten]], [ˈaʊ̯fˌʁɛçtʔɛɐ̯ˌhaltn̩] | [[erhielt aufrecht]], haben [[aufrechterhalten]]
 
 ---
-[[1 ADHD#^8|(q)]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]. ^8  
+[[1 ADHD#^8|^]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]. ^8  
 
 ---
 = [[beibehalten]], [[erhalten]], [[bewahren]], [[stützen

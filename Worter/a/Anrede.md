@@ -29,4 +29,4 @@ N: die [[Anrede]], die [[Anreden]]
 A: die [[Anrede]], die [[Anreden]]
 G: der [[Anrede]], der [[Anreden]]
 D: der [[Anrede]], den [[Anreden]]
-, [[Briefanfang]]
+, [[Briefanfang]]---> [[🗣️ Ingredient-Meinung]] <---

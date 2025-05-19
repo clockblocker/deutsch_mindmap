@@ -1,7 +1,7 @@
 😩 [[plagen]], [ˈplaːɡn̩] | [[plagte]], haben [[geplagt]]
 
 ---
-[[2 Unter Druck nach oben#^2|(q)]] Wenn dieser [[Aufsteiger]] endlich an der Spitze der Firma angekommen ist, dann [[plagen]] ihn meist Angst und Ressentiments, [[geringes]] [[Selbstwertgefühl]] und ein [[unbändiges]] [[Bedürfnis]] nach [[Anerkennung]]. Das ist wissenschaftlich erwiesen. ^2
+[[2 Unter Druck nach oben#^2|^]] Wenn dieser [[Aufsteiger]] endlich an der Spitze der Firma angekommen ist, dann [[plagen]] ihn meist Angst und Ressentiments, [[geringes]] [[Selbstwertgefühl]] und ein [[unbändiges]] [[Bedürfnis]] nach [[Anerkennung]]. Das ist wissenschaftlich erwiesen. ^2
 
 *[[3  Ein Selbstversuch als Hobbybäuerin#^29|^]]* Wenn ich mich mal nicht [[aufraffte]], zum Feld zu fahren, [[plagte]] mich das schlechte Gewissen. ^29
 

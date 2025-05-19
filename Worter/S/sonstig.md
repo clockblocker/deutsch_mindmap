@@ -1,7 +1,7 @@
 ➕ [[sonstig]], [ˈzɔnstɪç]
 
 ---
-[[2 ADHD.md#^1|(q)]] Bei der Arbeit oder [[sonstigen]] Aktivitäten (z.B. Lesen, Fernsehen, Spiel) fällt es mir schwer, konzentriert [[durchzuhalten]]. ^2
+[[2 ADHD.md#^1|^]] Bei der Arbeit oder [[sonstigen]] Aktivitäten (z.B. Lesen, Fernsehen, Spiel) fällt es mir schwer, konzentriert [[durchzuhalten]]. ^2
 
 ---
 = [[andere]], [[übrige]], [[weiter]]

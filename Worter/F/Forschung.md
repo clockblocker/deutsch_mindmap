@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 🔬 🔴 die [[Forschung]], [ˈfɔʁʃʊŋ]
 die [[Forschungen]]
 
@@ -8,8 +9,9 @@ Die Forscher forschen die Forschung
 
 ---
 = [[Erforschung]], [[Studie]], [[Untersuchung]]
-≈ [[Worter/W/Wissenschaft]], [[Analyse]], [[Erkenntnis]], [[Worter/S/Studium]]
+≈ [[Wissenschaft]], [[Analyse]], [[Erkenntnis]], [[Studium]]
 ≠ [[Ignoranz]], [[Unwissenheit]], [[Untersuchung]]
+, [[Studie]], [[Rechercheergebnis]], [[Forschungsteam]], [[Forschungsbedarf]], [[erforschen]]
 
 ---
 research
@@ -27,4 +29,3 @@ N: die [[Forschung]], die [[Forschungen]]
 A: die [[Forschung]], die [[Forschungen]]  
 G: der [[Forschung]], der [[Forschungen]]  
 D: der [[Forschung]], den [[Forschungen]]
-, [[Studie]], [[Rechercheergebnis]], [[Forschungsteam]], [[Forschungsbedarf]], [[erforschen]]

@@ -6,7 +6,7 @@
 *[[01-C1-Schreiben-T2-M#^2|^]]* Nach meiner Rückkehr habe ich [[festgestellt]], dass ich den Raum noch mit sechs Kolleginnen und Kollegen zu [[teilen]] habe, die [[teilweise]] für den [[Verkauf]] in unserer Firma [[tätig]] sind. ^2
 
 
-[[1 Wer bin ich und was mache ich hier?#^5|(q)]] In der Partei beschäftigte ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]] Menschen und Geld an und war öffentlich [[tätig]]. ^5
+[[1 Wer bin ich und was mache ich hier?#^5|^]] In der Partei beschäftigte ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]] Menschen und Geld an und war öffentlich [[tätig]]. ^5
 
 
 ---
@@ -29,4 +29,4 @@ active, employed
 Adjektive: [[tätig]], [[tätiger]], [[tätigst]]
 
 ---
-[[tätiger]], [[tätiges]], [[tätige]], [[tätigen]], [[tätigem]], [[tätigerer]], [[tätigeres]], [[tätigere]], [[tätigeren]], [[tätigerem]], [[tätigster]], [[tätigstes]], [[tätigste]], [[tätigsten]], [[tätigstem]], [[wohltätig]], [[Wohltätigkeit]], [[beruflich]], [[Großtat]], [[Erwerbstätigkeit]], [[Tat]], [[Berufstätigkeit]], [[Untätigkeit]]
+[[tätiger]], [[tätiges]], [[tätige]], [[tätigen]], [[tätigem]], [[tätigerer]], [[tätigeres]], [[tätigere]], [[tätigeren]], [[tätigerem]], [[tätigster]], [[tätigstes]], [[tätigste]], [[tätigsten]], [[tätigstem]], [[wohltätig]], [[Wohltätigkeit]], [[beruflich]], [[Großtat]], [[Erwerbstätigkeit]], [[Tat]], [[Berufstätigkeit]], [[Untätigkeit]], [[Tatendrang]]

@@ -3,9 +3,9 @@
 ---
 [[Sogar]] du kannst die Welt ein bisschen verbessern!
 
-[[16 Plusquamperfekt#^23|(q)]] Aber es ist ganz klar, dass die junge Künstlerin die tragischen Motive [[sogar]] in ihren ersten naiven Werken gehabt hatte. ^23
+[[16 Plusquamperfekt#^23|^]] Aber es ist ganz klar, dass die junge Künstlerin die tragischen Motive [[sogar]] in ihren ersten naiven Werken gehabt hatte. ^23
 
-Ihre Bilder können [[sogar]] einen ganz guten [[Eindruck]] aufs Publikum machen. Aber es gibt in ihnen nicht genug Tiefe.»   [[16 Plusquamperfekt#^3|(q)]]
+Ihre Bilder können [[sogar]] einen ganz guten [[Eindruck]] aufs Publikum machen. Aber es gibt in ihnen nicht genug Tiefe.»   [[16 Plusquamperfekt#^3|^]]
 
 Mr und Mrs Dursley im Ligusterweg Nummer 4 waren [[stolz]] darauf, ganz und gar normal zu sein, sehr stolz [[sogar]].
 

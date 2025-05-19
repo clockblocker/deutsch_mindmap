@@ -1,1 +1,1 @@
-, [[ausweichend]], [[Verpflichtung]]
+, [[ausweichend]], [[Verpflichtung]], [[ernsthaft]]

@@ -4,7 +4,7 @@
  Als die beiden nach zehn Minuten immer noch streiten, [[verliert]] sie die [[Geduld]]: 
  „Also, ich möchte mich ja nicht [[einmischen]] …“, sagt sie, „aber wie wäre es, wenn ihr einen [[Putzplan]] [[aufstellt]]? Würde das die [[Sache]] nicht einfacher machen?“
 
-[[1 ADHD#^18|(q)]] [[einmischt|mischt]] sich in die Aktivitäten anderer Leute ein. ^18
+[[1 ADHD#^18|^]] [[einmischt|mischt]] sich in die Aktivitäten anderer Leute ein. ^18
  
 ---
 Synonyme: [[dazwischenfahren]], [[interferieren]], [[intervenieren]], [[eingreifen]], [[dazwischenreden]]

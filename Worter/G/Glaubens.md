@@ -1,1 +1,1 @@
-, [[glaub]], [[Glaubensfreiheit]]
+, [[Glaub]], [[Glaubensfreiheit]]

@@ -1,7 +1,7 @@
 📤 [[zurücksenden]], [ˌtsuːʁʏkˈzɛndn̩] | [[sandte zurück]], haben [[zurückgesandt]]
 
 ---
-[[amazon.md#^4|(q)]] Artikel [[zurücksenden]] oder [[ersetzen]] ^4
+[[amazon.md#^4|^]] Artikel [[zurücksenden]] oder [[ersetzen]] ^4
 
 ---
 = [[zurückschicken]], [[wiederkehren]], [[wiedergeben]], [[wiederschicken]]

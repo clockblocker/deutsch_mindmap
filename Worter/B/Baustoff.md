@@ -1,1 +1,1 @@
-, [[Stoff]]
+, [[Stoff]], [[Aufbau]]

@@ -25,4 +25,4 @@ well-founded, sound
 Adjektive: [[fundiert]], [[fundierter]], [[fundiertest]]
 
 ---
-[[fundierter]], [[fundiertes]], [[fundierte]], [[fundierten]], [[fundiertem]], [[fundierterer]], [[fundierteres]], [[fundiertere]], [[fundierteren]], [[fundierterem]], [[fundiertester]], [[fundiertestes]], [[fundierteste]], [[fundiertesten]], [[fundiertestem]]
+[[fundierter]], [[fundiertes]], [[fundierte]], [[fundierten]], [[fundiertem]], [[fundierterer]], [[fundierteres]], [[fundiertere]], [[fundierteren]], [[fundierterem]], [[fundiertester]], [[fundiertestes]], [[fundierteste]], [[fundiertesten]], [[fundiertestem]], [[tiefgründig]]

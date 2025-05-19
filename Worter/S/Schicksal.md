@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 das [[Schicksal]], [ˈʃɪkzal]
 die [[Schicksale]]
 

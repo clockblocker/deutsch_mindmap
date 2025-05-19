@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 😰 [[zögern]], [ˈtsøːɡɐn] | [[zögerte]], haben [[gezögert]]
 
 ---

@@ -2,7 +2,7 @@
 die [[Bambusse]]
 
 ---
-[[1.1 text#^3|(q)]] Eine von ihnen ist die Start-up-Gründerin Sophia Ofuso.  Die 32-Jährige stellt mit ihrer Firma *Bamboorad* Fahrräder aus [[Bambus]] her. ^3
+[[1.1 text#^3|^]] Eine von ihnen ist die Start-up-Gründerin Sophia Ofuso.  Die 32-Jährige stellt mit ihrer Firma *Bamboorad* Fahrräder aus [[Bambus]] her. ^3
  
 
 

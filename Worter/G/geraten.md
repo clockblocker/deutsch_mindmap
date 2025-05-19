@@ -4,7 +4,9 @@
 *[[3  Ein Selbstversuch als Hobbybäuerin#^13|^]]* Wir [[gerieten]] über die Frage, wie weit man Salat von [[Radieschen]] [[fernhalten]] sollte, in einen [[lächerlichen]] [[Streit]]. ^13
 
 
-- Erklären Sie, warum klassische [[Arbeitszeitmodelle]] durch Digitalisierung unter Druck [[geraten]]. 
+*[[C1-Lesen-T2-102-Text#^22|^]]* Ein [[Stoff]] namens Lac-Phe ist dabei in den Fokus der Wissenschaftler [[geraten]]
+
+Erklären Sie, warum klassische [[Arbeitszeitmodelle]] durch Digitalisierung unter Druck [[geraten]]. 
 
 
 💡 [[raten]], [[gelangen]]

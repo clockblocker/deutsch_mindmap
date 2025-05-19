@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 [[andere]], [ˈandɛrə]
 nicht [[gleiche]]
 

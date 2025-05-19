@@ -27,4 +27,4 @@ PI: [[aufbringend]], PII: [[aufgebracht]], Zu+inf: [[aufzubringen]]
 [[aufbringen]] - [[Worter/A/auf]] = [[bringen]] / to raise, to generate, to muster
 
 ---
-[[Aufbringung]], [[Aufbringungsfähigkeit]], [[aufbringlich]], [[bringen]], [[Bringschuld]]
+[[Aufbringung]], [[Aufbringungsfähigkeit]], [[aufbringlich]], [[bringen]], [[Bringschuld]], [[hochtreiben]]

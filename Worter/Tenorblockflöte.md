@@ -2,7 +2,7 @@
 die [[Tenorblockflöten]]
 
 ---
-[[17 zu inf#^24|(q)]] Heute morgen kam wieder ein Brief von Eduard mit der Bitte, ihm eine [[Tenorblockflöte]] zu schicken. ^2
+[[17 zu inf#^24|^]] Heute morgen kam wieder ein Brief von Eduard mit der Bitte, ihm eine [[Tenorblockflöte]] zu schicken. ^2
 
 ---
 = [[Sopranblockflöte]], [[Altblockflöte]]

@@ -2,7 +2,7 @@
 die [[Scherben]]
 
 ---
-[[Ein Auge zudrücken.md#^5|(q)]] Und fällt ihm in der Küche ein Teller aus der Hand, so fegt er sofort die [[Scherben]] auf und macht alles wieder [[sauber]]. ^5
+[[Ein Auge zudrücken.md#^5|^]] Und fällt ihm in der Küche ein Teller aus der Hand, so fegt er sofort die [[Scherben]] auf und macht alles wieder [[sauber]]. ^5
 
 
 ---

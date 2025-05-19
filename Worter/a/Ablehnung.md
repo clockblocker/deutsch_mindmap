@@ -33,4 +33,4 @@ D: der [[Ablehnung]], den [[Ablehnungen]]
 
 #Feminin 
 
-, [[Geringschätzung]], [[Empfehlung]]
+, [[Geringschätzung]], [[Empfehlung]], [[Auszeichnung]]

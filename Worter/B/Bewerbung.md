@@ -4,9 +4,9 @@
 die [[Bewerbungen]]
 
 ---
-[[0 checklist#^1|(q)]] [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1 ^1
+[[0 checklist#^1|^]] [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1 ^1
 
-[[0 checklist#^2|(q)]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die [[Bewerbung]]? ^2
+[[0 checklist#^2|^]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die [[Bewerbung]]? ^2
 
 
 ---

@@ -1,2 +1,2 @@
 
-, [[infolge]], [[zufolge]]
+, [[infolge]], [[zufolge]], [[Umkehrschluss]]

@@ -1,1 +1,1 @@
-, [[brauchen]]
+, [[brauchen]], [[beanspruchen]]

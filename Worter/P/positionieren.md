@@ -1,1 +1,1 @@
-[[setzen]], [[hinstellen]], [[aufstellen]], [[einsetzen]], [[legen]], [[profilieren]]
+[[setzen]], [[hinstellen]], [[aufstellen]], [[einsetzen]], [[legen]], [[profilieren]], [[Position]]

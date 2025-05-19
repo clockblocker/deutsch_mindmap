@@ -12,7 +12,7 @@ Unser Großraumbüro ist für sieben Personen [[ausgelegt]], [[sodass]] für den
 
 *[[Einen Korb bekommen#^10|^]]* Doch in den letzten Wochen hat sie sich [[kaum]] [[gemeldet]]. ^10
 
-[[15 genetiv#^1|(q)]] Das Wohnzimmer sah aus wie nach einer Explosion: [[Scherben]] und kaputte Möbel. Dazwischen lag das tote Mädchen. Sie hieß Elenor Zeiser. Kommissar Nissen konnte [[kaum]] glauben, was er sah. ^1
+[[15 genetiv#^1|^]] Das Wohnzimmer sah aus wie nach einer Explosion: [[Scherben]] und kaputte Möbel. Dazwischen lag das tote Mädchen. Sie hieß Elenor Zeiser. Kommissar Nissen konnte [[kaum]] glauben, was er sah. ^1
 
 Das Licht ist so hell, ich kann [[kaum]] etwas sehen.
 

@@ -2,7 +2,7 @@
 die [[Umschläge]]
 
 ---
- Ich öffnete den [[Umschlag]]. Eine Theaterkarte und ein [[Zettel]] fielen heraus. [[17 zu inf#^18|(q)]]
+ Ich öffnete den [[Umschlag]]. Eine Theaterkarte und ein [[Zettel]] fielen heraus. [[17 zu inf#^18|^]]
 
 
 ---

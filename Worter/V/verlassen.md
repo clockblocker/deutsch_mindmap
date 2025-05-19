@@ -4,6 +4,8 @@
 ---
 In einem Monat werden sie das Land [[verlassen]].
 
+*[[C1-Hoehen-T1-201-Text#^12|^]]* Max ist 18 und voller [[Tatendrang]] und Träume, als er sein [[Dorf]] [[verlässt]]
+
 *[[C1-Hoehen-T1-100-Text#^7|^]]* Beide [[austauschen|tauschen]] ihre Argumente aus, das Buch [[verlässt]] [[erneut]] die [[Erzählstruktur]] und gibt einen [[fundierten]] [[Überblick]] über das Leben im [[Stadtteil]] früher und heute. ^7
 
 
@@ -12,7 +14,7 @@ In einem Monat werden sie das Land [[verlassen]].
 
 - Erläutern Sie, warum Menschen ihr [[Herkunftsland]] [[verlassen]].
 
-[[17 zu inf#^2|(q)]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2
+[[17 zu inf#^2|^]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2
 
 Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
 

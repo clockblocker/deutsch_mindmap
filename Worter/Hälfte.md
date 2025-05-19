@@ -4,6 +4,8 @@ die [[Hälften]]
 ---
 Leider hatte sie nicht mit der [[Finanzkrise]] [[gerechnet]]. [[Innerhalb]] von wenigen Wochen war ihr [[gesamtes]] [[Vermögen]] auf die [[Hälfte]] [[zusammengeschrumpft]]. Laura war [[verzweifelt]]. 
 
+*[[C1-Lesen-T2-102-Text#^16|^]]* Das Gewicht eines normal gebauten Menschen [[beruht]] zu etwa einem Drittel bis knapp der [[Hälfte]] auf Muskelmasse
+
 *[[C1-Lesen-T2-101-Text#^11|^]]* Die eine [[Hälfte]] der Kinder musste innerhalb von 30 Minuten in einem Raum mit vier Spielzeugen spielen, die andere Hälfte im gleichen [[Zeitraum]] in einem Raum mit [[viermal]] so viel Spielzeug. ^11
 
 
@@ -29,4 +31,4 @@ Dative: der [[Hälfte]], den [[Hälften]]
 ---
 [[halbieren]], [[halbtags]], [[halbwegs]], [[halbherzig]], [[zusammenschrumpfen]], [[Kohlekraftwerk]]
 
-#Feminin 
+#Feminin , [[beruhen]]

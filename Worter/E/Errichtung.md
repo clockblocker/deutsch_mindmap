@@ -1,1 +1,1 @@
-, [[Gründung]], [[errichteten]], [[Aufhebung]], [[Einrichtung]]
+, [[Gründung]], [[errichteten]], [[Aufhebung]], [[Einrichtung]], [[Aufbau]]

@@ -1,7 +1,7 @@
 😠 [[rebellisch]], [ʁeˈbɛlɪʃ] ≠ [[folgsam]]
 
 ---
-[[3 ADHD.md#^6|(q)]] Als Kind im Alter von 8 bis 10 Jahren war ich [[ungehorsam]], [[rebellisch]] und [[aufsässig]]. ^6
+[[3 ADHD.md#^6|^]] Als Kind im Alter von 8 bis 10 Jahren war ich [[ungehorsam]], [[rebellisch]] und [[aufsässig]]. ^6
 
 ---
 = [[aufmüpfig]], [[aufsässig]], [[widerspenstig]], [[ungehorsam]], [[aufsässig]]

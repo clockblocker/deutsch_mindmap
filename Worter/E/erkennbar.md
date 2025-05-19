@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 👁️ [[erkennbar]], [ɛɐ̯ˈkɛnbaːɐ̯] ≠ [[unerkennbar]]
 
 ---
@@ -6,7 +8,7 @@ Ein Nomen ohne Begleiter im Plural steht im Dativ, wenn der Genitiv nicht [[erke
 
 1. [[stellenweise]] [[erkennbar]]  
 
-2.	[[2 Unter Druck nach oben#^23|(q)]] Es gibt keine [[erkennbaren]] Gründe dafür, dass die Bedeutung der Sozialkompetenz in den letzten Jahren [[zunahm]] `-` ^23
+2.	[[2 Unter Druck nach oben#^23|^]] Es gibt keine [[erkennbaren]] Gründe dafür, dass die Bedeutung der Sozialkompetenz in den letzten Jahren [[zunahm]] `-` ^23
 
 
 ---
@@ -15,7 +17,7 @@ Ein Nomen ohne Begleiter im Plural steht im Dativ, wenn der Genitiv nicht [[erke
 ≠ [[unerkennbar]], [[verdeckt]], [[verborgen]], [[undeutlich]],  [[Unbekannten]]
 
 ---
-recognizable, discernible
+👁️ [[erkennbar]] *(recognizable, discernible)*
 узнаваемый, различимый
 
 ---
@@ -32,4 +34,4 @@ P: [[erkennbaren]], [[erkennbareren]], [[erkennbarsten]]
 
 ---
 [[erkennen]], [[Erkenntnis]], [[Erkennung]], [[unerkennbar]], [[wiedererkennbar]]
-, [[bemerkbar]]
+, [[bemerkbar]], [[relativierend]], [[ersichtlich]]

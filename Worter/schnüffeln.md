@@ -1,7 +1,7 @@
 👃 [[schnüffeln]] an den, [ˈʃnʏfl̩n] | [[schnüffelte]], haben [[geschnüffelt]]
 
 ---
-[[Eigenlob stinkt.md#^7|(q)]] „Weißt du was, Peter? Eigenlob stinkt!“, sagt sie. Peter [[verstummt]] nachdenklich. Dann [[schnüffelt]] er an seinen [[Achseln]]. ^7
+[[Eigenlob stinkt.md#^7|^]] „Weißt du was, Peter? Eigenlob stinkt!“, sagt sie. Peter [[verstummt]] nachdenklich. Dann [[schnüffelt]] er an seinen [[Achseln]]. ^7
 
 ---
 = [[riechen]], [[wittern]], [[schnuppern]]

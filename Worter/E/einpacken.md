@@ -2,7 +2,7 @@
 📦 [[einpacken]], [aɪ̯nˈpakŋ] | [[packte ein]], haben [[eingepackt]]
 
 ---
-[[17 zu inf#^10|(q)]] Ich [[einpacken|packte]] den Mantel [[sorgsam]] ein, trug das Paket zur Post und [[abschicken|schickte]] es ab.  ^10
+[[17 zu inf#^10|^]] Ich [[einpacken|packte]] den Mantel [[sorgsam]] ein, trug das Paket zur Post und [[abschicken|schickte]] es ab.  ^10
 
 ---
 = [[packen]], [[verpacken]]

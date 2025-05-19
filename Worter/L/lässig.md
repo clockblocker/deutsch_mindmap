@@ -71,4 +71,4 @@ Tags:
 
 ---
 Morphems:
-[[lässig]][[schlampig]], [[faul]], [[Nachlässigkeit]]
+[[lässig]][[schlampig]], [[faul]], [[Nachlässigkeit]], [[vernachlässigen]]

@@ -1,4 +1,3 @@
-[[Kündigung]], [[Kündigungsschutzklage]]
 🔴 die [[Entlassung]], [ɛntˈlasʊŋ]
 die [[Entlassungen]]
 
@@ -11,7 +10,7 @@ die [[Entlassungen]]
 
 ---
 = [[Kündigung]], [[Freilassung]], [[Abschied]]
-≈ [[Ausscheiden]], [[Beendigung]], [[Wegschicken]]
+≈ [[Ausscheiden]], [[Beendigung]], [[Wegschicken]],[Kündigungsschutzklage]]
 ≠ [[Einstellung]], [[Anstellung]], [[Beschäftigung]]
 
 ---
@@ -28,3 +27,5 @@ D: der [[Entlassung]], den [[Entlassungen]]
 
 ---
 [[entlassen]], [[Entlassener]], [[entlassungswürdg]], [[Entlassungsurkunde]], [[Verhaftungen]], [[wegschicken]], [[Betriebszugehörigkeit]], [[Schulung]], [[Fortbildung]], [[Massenentlassung]]
+
+#Feminin , [[Haft]]

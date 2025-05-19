@@ -38,4 +38,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[berühmt]], [[berühmter]], [[berühmte]], [[berühmtes]], [[berühmten]], [[berühmtem]], [[berühmter]], [[berühmten]]
 [[berühmter]], [[berühmterer]], [[berühmtere]], [[berühmteres]], [[berühmteren]], [[berühmterem]], [[berühmterer]], [[berühmteren]]
-[[berühmtesten]], [[berühmtester]], [[berühmteste]], [[berühmtestes]], [[berühmtesten]], [[berühmtestem]], [[berühmtester]], [[berühmtesten]]
+[[berühmtesten]], [[berühmtester]], [[berühmteste]], [[berühmtestes]], [[berühmtesten]], [[berühmtestem]], [[berühmtester]], [[berühmtesten]], [[prestigeträchtig]]

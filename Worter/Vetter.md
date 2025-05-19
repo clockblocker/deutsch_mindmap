@@ -2,7 +2,7 @@
 die [[Vettern]]
 
 ---
-[[17 zu inf#^1|(q)]] Vor zwei Monaten - wir saßen gerade beim Frühstück - kam ein Brief von meinem [[Vetter]] Eduard.  ^1
+[[17 zu inf#^1|^]] Vor zwei Monaten - wir saßen gerade beim Frühstück - kam ein Brief von meinem [[Vetter]] Eduard.  ^1
 
 
 ---

@@ -7,7 +7,7 @@
 
 
 ---
-[[1 ADHD#^8|(q)]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]. ^8  
+[[1 ADHD#^8|^]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]. ^8  
 
 *Vielen Dank `für` Ihre* [[Aufmerksamkeit]].
 

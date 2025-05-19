@@ -2,7 +2,7 @@
 die [[Geheimnisse]]
 
 ---
-> [[16 Plusquamperfekt#^33|(q)]] «Die Leute lieben das [[Geheimnis]], und das ist es, warum sie meine Bilder lieben.»  ^33
+> [[16 Plusquamperfekt#^33|^]] «Die Leute lieben das [[Geheimnis]], und das ist es, warum sie meine Bilder lieben.»  ^33
 
 Die Dursleys [[besaßen]] alles, was sie wollten, doch sie hatten auch ein [[Geheimnis]], und dass es jemand [[aufdecken]] könnte, war ihre größte [[Sorge]]
 

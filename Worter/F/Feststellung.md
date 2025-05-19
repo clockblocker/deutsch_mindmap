@@ -1,1 +1,2 @@
-, [[Auszählung]], [[Behauptung]], [[Festlegung]], [[Aussage]], [[Befragung]], [[Umfrage]], [[Schätzung]]
+---> [[🗣️ Ingredient-Meinung]] <---
+, [[feststehen]]

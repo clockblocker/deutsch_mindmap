@@ -1,7 +1,7 @@
 🤝 [[zusammenbekommen]], [t͡suˈzamənˌbɛkɔmən] | [[bekam zusammen]], haben [[zusammenbekommen]]
 
 ---
-[[Die halbe Miete sein.md#^1|(q)]] Kein Vermieter der Welt würde sich einfach so mit der halben Miete [[zufriedengeben]]. Aber es gibt Situationen im Leben, da sollte man sich freuen, dass man [[immerhin]] die halbe Miete [[zusammenbekommen]] hat. ^1
+[[Die halbe Miete sein.md#^1|^]] Kein Vermieter der Welt würde sich einfach so mit der halben Miete [[zufriedengeben]]. Aber es gibt Situationen im Leben, da sollte man sich freuen, dass man [[immerhin]] die halbe Miete [[zusammenbekommen]] hat. ^1
 
 ---
 = [[erlangen]], [[erreichen]], [[beschaffen]]

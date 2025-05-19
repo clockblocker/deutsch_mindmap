@@ -44,4 +44,4 @@ sie, [[resultieren]], [[resultierten]], [[resultieren]], [[resultierten]], [[res
 Adjektive: [[resultierend]], [[resultierender]], [[resultierendst]]
 
 ---
-[[resultierender]], [[resultierendes]], [[resultierende]], [[resultierenden]], [[resultierendem]], [[resultierenderer]], [[resultierenderes]], [[resultierendere]], [[resultierenderen]], [[resultierenderem]], [[resultierendster]], [[resultierendstes]], [[resultierendste]], [[resultierendsten]], [[resultierendstem]], [[auswirken]], [[hervorbringen]]
+[[resultierender]], [[resultierendes]], [[resultierende]], [[resultierenden]], [[resultierendem]], [[resultierenderer]], [[resultierenderes]], [[resultierendere]], [[resultierenderen]], [[resultierenderem]], [[resultierendster]], [[resultierendstes]], [[resultierendste]], [[resultierendsten]], [[resultierendstem]], [[auswirken]], [[hervorbringen]], [[beruhen]]

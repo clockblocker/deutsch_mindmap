@@ -3,7 +3,7 @@
 🔮 [[zukünftig]], [ˈt͡suːˌkʏnftɪç] ≠ [[vergangen]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^3|(q)]] Nach meinem Umzug nach Moskau lernte ich in einer speziellen App, die über Bekannte [[verbreitet]] wurde, meine [[zukünftige]] Frau kennen. Wir begannen, zusammenzuleben. ^3
+[[1 Wer bin ich und was mache ich hier?#^3|^]] Nach meinem Umzug nach Moskau lernte ich in einer speziellen App, die über Bekannte [[verbreitet]] wurde, meine [[zukünftige]] Frau kennen. Wir begannen, zusammenzuleben. ^3
 
 
 „[[Zukünftig]]“ bezieht sich auf etwas, das erst in der Zukunft passieren wird. Die Bedrohung durch Plastikmüll ist [[bereits]] real.

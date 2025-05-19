@@ -8,7 +8,7 @@
 Der Doctor hat jetzt [[angefangen]],  dem Kind zu untersuchen
 ("jetzt" ist [[überflüssig]])
 
-[[18#^1|(q)]] “ankommen” wird oft ohne [[zusätzliche]] präposition benutzt, also das “an” am ende ist hier [[überflüssig]]. ^1
+[[18#^1|^]] “ankommen” wird oft ohne [[zusätzliche]] präposition benutzt, also das “an” am ende ist hier [[überflüssig]]. ^1
 
 
 ---

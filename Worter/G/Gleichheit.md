@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🏳️ 🤝 die [[Gleichheit]], [ˈɡlaɪ̯çhaɪ̯t]
 die [[Gleichheiten]]
 

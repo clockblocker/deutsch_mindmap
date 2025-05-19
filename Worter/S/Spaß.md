@@ -21,3 +21,4 @@ Morphems:
 ---
 #Substantiv #Maskulin 
 
+, [[Mühe]]

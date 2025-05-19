@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 die [[Meinung]], [ˈmaɪ̯nʊŋ]
 die [[Meinungen]]
 
@@ -15,7 +17,7 @@ Definition: Gedanke, Ansicht, Überzeugung einer Person zu einem bestimmten Them
 
 ---
 Synonyme:
-- [[Ansicht]], [[Standpunkt]], [[Auffassung]], [[Einschätzung]], [[Überzeugung]], [[glaub]]
+- [[Ansicht]], [[Standpunkt]], [[Auffassung]], [[Einschätzung]], [[Überzeugung]], [[Glaub]]
 
 ---
 Übersetzung: opinion, view, stance
@@ -55,4 +57,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Meinung]], [[Meinungen]], [[Meinungs]]
 
 ---
-#Substantiv #Neuter, [[zögern]], [[Meinungsfreiheit]], [[Behauptung]], [[Meinungsäußerung]], [[Studie]], [[Äußerung]], [[Haltung]], [[Meinungsbildung]]
+#Substantiv #Neuter

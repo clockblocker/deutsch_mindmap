@@ -28,4 +28,4 @@ G: des [[Rechtsprechung­s]], der [[Rechtsprechungen]]
 D: dem [[Rechtsprechung]], den [[Rechtsprechungen]]  
 
 ---
-[[Rechtsprechungsakt]], [[Rechtsprechungsebene]], [[rechtsprechend]], [[Gericht]], [[Bundesverfassungsgericht]], [[Urteile]], [[rechtsprechend]], [[Gerechtigkeit]], [[Arbeitnehmerrecht]]
+[[Rechtsprechungsakt]], [[Rechtsprechungsebene]], [[rechtsprechend]], [[Gericht]], [[Bundesverfassungsgericht]], [[Urteile]], [[rechtsprechend]], [[Gerechtigkeit]], [[Arbeitnehmerrecht]], [[Justiz]], [[Urteil]]

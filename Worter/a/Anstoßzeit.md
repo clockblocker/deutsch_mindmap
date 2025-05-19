@@ -1,2 +1,2 @@
 
-, [[anstoßen]]
+, [[anstoßen]], [[Anstoß]]

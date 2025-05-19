@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🤔 🔴 die [[Überzeugung]], [yːbɐˈtsɔʏ̯ɡʊŋ](https://youglish.com/pronounce/Überzeugung/german)
 
 ---
@@ -15,7 +17,7 @@
 ≈ [[Einstellung]], [[Ansicht]], [[Vertrauen]]
 ≠ [[Zweifel]], [[Skepsis]], [[Unglaube]]
 
-, [[glaub]], [[Meinung]], [[überzeugen]], [[überreden]], [[Zweifel]]
+, [[Glaub]], [[Meinung]], [[überzeugen]], [[überreden]], [[Zweifel]]
 
 
 ---

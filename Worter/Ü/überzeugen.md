@@ -3,15 +3,16 @@
 ---
 Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[Leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
-> *[[Atom#^29|^]]* *Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.* ^29
+*[[C1-Hoehen-T1-201-Text#^13|^]]* Er ist davon [[überzeugt]], ein großer Star in der Musikszene zu werden
 
+*[[Atom#^29|^]]* Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.
 
-[[1.1 text#^8|(q)]] Sophia und ihre Geschäftspartnerin konnten eine Bank von ihrem Finanzplan [[überzeugen]]. ^8
+[[1.1 text#^8|^]] Sophia und ihre Geschäftspartnerin konnten eine Bank von ihrem Finanzplan [[überzeugen]]. ^8
 
 - Wir müssen versuchen, die anderen [[von]] diesem Plan zu [[überzeugen]]
 - Ich bin [[davon]] [[überzeugt]], dass wir es schaffen werden
 
-[[Eine Extrawurst bekommen.md#^2|(q)]] Tim ist ein guter Fußballspieler – finden seine Eltern. Sie sind davon [[überzeugt]], dass er später einmal Profi werden kann. ^2
+[[Eine Extrawurst bekommen.md#^2|^]] Tim ist ein guter Fußballspieler – finden seine Eltern. Sie sind davon [[überzeugt]], dass er später einmal Profi werden kann. ^2
 
 ---
 Synonyme: [[beweisen]], [[argumentieren]], [[bewirken]], [[bestärken]], [[motivieren]]

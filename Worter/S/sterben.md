@@ -1,7 +1,7 @@
 💀 [[sterben]], [ˈʃtɛʁbn̩](https://youglish.com/pronounce/sterben/german) | [[starb]], sind [[gestorben]]
 
 ---
-[[16 Plusquamperfekt#^17|(q)]] Dann hat sie unerwartet 30 000 Mark von ihrer alten Tante, die in Baden-Baden [[starb]], [[geerbt]]. Mit diesem Geld lebte sie drei Jahre lang. ^17
+[[16 Plusquamperfekt#^17|^]] Dann hat sie unerwartet 30 000 Mark von ihrer alten Tante, die in Baden-Baden [[starb]], [[geerbt]]. Mit diesem Geld lebte sie drei Jahre lang. ^17
 
 
 *[[C1-Lesen-T1-000-Text#^4|^]]*  Für viele Tiere im Ozean sind die [[Plastikteile]] eine [[akute]] _2_ [[Bedrohung]], denn oft [[fressen]] sie sie [[irrtümlich]] und [[sterben]] [[daran]]. ^4

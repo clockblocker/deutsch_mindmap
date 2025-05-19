@@ -35,4 +35,4 @@ Morpheme: [[spar]][[en]]
 
 Partizip I: [[sparend]], Partizip II: [[gespart]]
 , [[schwenden]], [[verplempern]], [[Taschengeld]], [[verbrauchen]]
-, [[kosten]], [[abheben]], [[Konsum]]
+, [[kosten]], [[abheben]], [[Konsum]], [[spendieren]]

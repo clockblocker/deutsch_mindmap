@@ -1,7 +1,7 @@
 😥 [[unglücklich]], [ˈʊnɡlʏkˌlɪç] ≠ [[glücklich]]
 
 ---
-Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. [[14 perfekt#^16|(q)]]
+Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. [[14 perfekt#^16|^]]
 
 
 ---

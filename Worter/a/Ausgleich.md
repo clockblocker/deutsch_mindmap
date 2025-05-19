@@ -1,4 +1,5 @@
-[[mitteln]]
+---> 📈 [[Grad-Vergleich]] <---
+
 🤝 der [[Ausgleich]], [ˈaʊ̯sˌɡlaɪ̯ç]
 die [[Ausgleiche]]
 
@@ -9,7 +10,7 @@ die [[Ausgleiche]]
 
 ---
 = [[Kompensation]], [[Ersatz]], [[Ausbalancierung]]
-≈ [[Entschädigung]], [[Regulierung]], [[Wiederherstellung]], [[Vermittlung]]
+≈ [[Entschädigung]], [[Regulierung]], [[Wiederherstellung]], [[Vermittlung]], [[mitteln]]
 ≠ [[Ungleichgewicht]], [[Konflikt]], [[Uneinigkeit]], [[Unstimmigkeit]]
 
 ---

@@ -3,9 +3,9 @@
 ---
 [[Ein Auge zudrücken]]
 
-[[Ein Auge zudrücken.md#^1|(q)]] Aber was bedeutet es, wenn man nur ein Auge schließt [[bzw.]] [[zudrückt]]? ^1
+[[Ein Auge zudrücken.md#^1|^]] Aber was bedeutet es, wenn man nur ein Auge schließt [[bzw.]] [[zudrückt]]? ^1
 
-[[Ein Auge zudrücken.md#^3|(q)]] Das nervt ein bisschen. Aber Irene – und die Gäste übrigens auch – können Roman nicht so richtig böse sein und [[zudrücken|drücken]] immer wieder ein Auge [[zudrücken|zu]]. ^3
+[[Ein Auge zudrücken.md#^3|^]] Das nervt ein bisschen. Aber Irene – und die Gäste übrigens auch – können Roman nicht so richtig böse sein und [[zudrücken|drücken]] immer wieder ein Auge [[zudrücken|zu]]. ^3
 
 ---
 = [[zukneifen]], [[schließen]], [[verschließen]]

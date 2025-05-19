@@ -25,7 +25,7 @@ Antonyme: [[zweifeln]], [[bezweifeln]], [[ungläubig sein]]
 Übersetzung: to believe
 
 ---
-Morpheme: [[glaub]][[en]]
+Morpheme: [[Glaub]][[en]]
  #Verb  #Untrennbar
 
 ---
@@ -33,7 +33,7 @@ Morpheme: [[glaub]][[en]]
 | Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
 | --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
 | Ich       | [[glaube]]           | [[glaubte]]           | -                 | [[glaube]]             | [[glaubte]]             |
-| Du        | [[glaubst]]          | [[glaubtest]]         | [[glaub]]         | [[glaubest]]           | [[glaubtest]]           |
+| Du        | [[glaubst]]          | [[glaubtest]]         | [[Glaub]]         | [[glaubest]]           | [[glaubtest]]           |
 | Er/sie/es | [[glaubt]]           | [[glaubte]]           | -                 | [[glaube]]             | [[glaubte]]             |
 | Wir       | [[glauben]]          | [[glaubten]]          | -                 | [[glauben]]            | [[glaubten]]            |
 | Ihr       | [[glaubt]]           | [[glaubtet]]          | [[glaubt]]        | [[glaubet]]            | [[glaubtet]]            |

@@ -2,7 +2,7 @@
 die [[Garantiepläne]]
 
 ---
-[[amazon.md#^3|(q)]] Einen [[Garantieplan]] [[hinzufügen]] ^3
+[[amazon.md#^3|^]] Einen [[Garantieplan]] [[hinzufügen]] ^3
 
 ---
 = [[Garantieversicherung]]

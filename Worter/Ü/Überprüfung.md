@@ -1,1 +1,1 @@
-, [[Prüfung]]
+, [[Prüfung]], [[überprüfen]]

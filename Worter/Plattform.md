@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 💻 🔴 die [[Plattform]], [ˈplatfɔʁm](https://youglish.com/pronounce/Plattform/german)
 
 ---

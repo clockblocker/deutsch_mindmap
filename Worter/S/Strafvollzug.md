@@ -1,1 +1,1 @@
-, [[Todesstrafe]]
+, [[Todesstrafe]], [[Haft]]

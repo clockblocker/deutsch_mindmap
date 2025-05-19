@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🗣️ 🔴 die [[Meinungsbildung]], [ˈmaɪ̯nʊŋsˌbɪldʊŋ](https://youglish.com/pronounce/Meinungsbildung/german)
 (no plural form)
 

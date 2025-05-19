@@ -1,4 +1,5 @@
-, [[Gleichbehandlung]], [[Gleichheit]]
+---> 📈 [[Grad-Vergleich]] <---
+
 🔴 die [[Ungleichheit]], [ˈʊnˌɡlaɪ̯çhaɪ̯t]
 die [[Ungleichheiten]]
 
@@ -9,6 +10,7 @@ die [[Ungleichheiten]]
 = [[Disparität]], [[Diskrepanz]], [[Unterschiedlichkeit]]
 ≈ [[Verschiedenheit]], [[Asymmetrie]], [[Differenz]]
 ≠ [[Gleichheit]], [[Einheitlichkeit]], [[Uniformität]]
+, [[Gleichbehandlung]], [[Gleichheit]]
 
 ---
 inequality, disparity

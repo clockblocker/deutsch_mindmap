@@ -7,7 +7,7 @@ haben [[gezählt]]
 *Mit dir stehen die Sekunden*, *Lohnen nicht*  
 
 *Ich bleibe einfach liegen*  
-*Und wieder [[zähle]] ich die [[Fliegen]]*   [[Keine Lust.md#^6|(q)]]
+*Und wieder [[zähle]] ich die [[Fliegen]]*   [[Keine Lust.md#^6|^]]
 
 
 ---

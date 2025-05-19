@@ -18,7 +18,7 @@ heroic, valiant
 [[Held]], [[Heldentum]], [[Heldin]], [[Heldenmut]], [[heldenmütig]]
 
 ---
-[[held]]|[[en]]|[[haft]]
+[[held]]|[[en]]|[[Haft]]
 [[heldenhaft]]
 
 

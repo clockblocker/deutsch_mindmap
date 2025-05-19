@@ -1,1 +1,1 @@
-, [[Kümmer]]
+, [[Kümmer]], [[vernachlässigen]]

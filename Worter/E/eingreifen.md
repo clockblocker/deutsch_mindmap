@@ -1,7 +1,7 @@
 ✋ [[eingreifen]], [ˈaɪ̯nˌɡʁaɪ̯fn̩] | [[griff ein]], haben [[eingegriffen]]
 
 ---
-[[2 prap.md#^10|(q)]] [[dank]] seinem [[beherzten]] [[Eingreifen]] wurde ich nicht Verletzt ^10
+[[2 prap.md#^10|^]] [[dank]] seinem [[beherzten]] [[Eingreifen]] wurde ich nicht Verletzt ^10
 
 
 *[[C1-Hoehen-T1-200-Text#^16|^]]* Die meisten [[Leser]] werden überrascht davon sein, [[inwieweit]] der Klimawandel schon heute in die Natur [[eingegriffen]] hat.

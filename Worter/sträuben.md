@@ -1,7 +1,7 @@
 🙅 [[sträuben]], [ˈʃtʁɔɪ̯bn̩] | [[sträubte]], haben [[gesträubt]]
 
 ---
-[[2 ADHD.md#^5|(q)]] Ich mag solche Arbeiten nicht oder [[sträube]] mich [[innerlich]] dagegen. ^5
+[[2 ADHD.md#^5|^]] Ich mag solche Arbeiten nicht oder [[sträube]] mich [[innerlich]] dagegen. ^5
 
 ---
 = [[sich weigern]], [[sich widersetzen]], [[sich sperren]]

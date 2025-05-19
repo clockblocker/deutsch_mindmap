@@ -1,4 +1,6 @@
+---> 📈 [[Grad-Vergleich]] <---
 ---> 🧮 [[Grad-Quantität]] <---
+
 🔵 [[mehrere]], [ˈmeːʁəʁə]
 
 ---

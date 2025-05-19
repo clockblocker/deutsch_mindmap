@@ -1,7 +1,7 @@
 🫂 [[sozial]], [zoˈtsi̯aːl]
 
 ---
-[[2 Unter Druck nach oben#^18|(q)]] Allerdings reichen [[ausschließlich]] kommunikative und [[soziale]] Kompetenzen nicht, um sich für Höheres zu [[profilieren]]. ^18
+[[2 Unter Druck nach oben#^18|^]] Allerdings reichen [[ausschließlich]] kommunikative und [[soziale]] Kompetenzen nicht, um sich für Höheres zu [[profilieren]]. ^18
 
 , [[Sozialstunde]], [[Sozialversicherung]], [[Sozialabgaben]], [[Sozialversicherungsausweis]]
 

@@ -35,4 +35,4 @@ PI: [[laufend]], PII: [[gelaufen]], Zu+inf: [[zu laufen]]
 [[Läufer]], [[Lauf]], [[laufend]], [[Laufstrecke]], [[Laufband]], [[anlaufen]], [[verlaufen]]
 
 , [[gehen]], [[stolpern]]
-, [[s1 e1]], [[hinauslaufen]], [[ticken]], [[Laufbahn]], [[belaufen]], [[im Laufe]], [[wandern]]
+, [[s1 e1]], [[hinauslaufen]], [[ticken]], [[Laufbahn]], [[belaufen]], [[im Laufe]], [[wandern]], [[radeln]], [[Langstreckenlauf]], [[Laufrad]]

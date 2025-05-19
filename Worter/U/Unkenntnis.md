@@ -1,2 +1,2 @@
-, [[Auskunft]], [[Erfahrung]]
-, [[Sprachschatz]], [[Einblick]], [[Beschreibung]], [[Wahrnehmung]]
+---> [[🗣️ Ingredient-Meinung]] <---
+

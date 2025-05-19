@@ -1,1 +1,1 @@
-, [[verirrt]], [[irren]], [[irrtümlich]]
+, [[verirrt]], [[irren]], [[irrtümlich]], [[Irrtum]]

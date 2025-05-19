@@ -24,9 +24,9 @@ Seit zwei Jahren versuche ich darum, ein Studienvisum zu [[erhalten]] und einen 
 *[[02-C1-Schreiben-T2-M#^2|^]]* Ihr Teamleiter sollte Ihnen schon vor einer Woche eine [[Grobplanung]] für die Präsentation schicken, die Sie [[bisher]] - trotz [[wiederholter]] [[Nachfrage]] - noch nicht [[erhalten]] haben. ^2
 
 
-[[amazon.md#^2|(q)]] [[Produktsupport]] [[erhalten]] ^2
+[[amazon.md#^2|^]] [[Produktsupport]] [[erhalten]] ^2
 
-[[1 Präpositionen Übungen.md#^9|(q)]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
+[[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 
 *[[1 lesen StadtTours#^5|^]]* Die teilnehmenden Besucherinnen und Besucher [[erhalten]] [[Einblicke]] in kulturelle, politische und wirtschaftliche [[Zusammenhänge]] und bekommen so ein [[facettenreiches]] Bild von historischen [[Entwicklungen]] und Bräuchen der Stadt, die z. B. auch 2 [[mithilfe]] von Fotos oder Anekdoten [[veranschaulicht]] werden. ^5
 
@@ -81,4 +81,4 @@ Partizip I: [[erhaltend]], Partizip II: [[erhalten]]
 , [[beibehalten]], [[überlebt]], [[erben]], [[vernichten]], [[1 Präpositionen Übungen]], [[versenden]]
 , [[kosten]]
 , [[zusammenbekommen]]
-, [[aufrechterhalten]], [[Erhalt]], [[verspielen]], [[einnehmen]], [[wegzüchten]], [[zustehen]]
+, [[aufrechterhalten]], [[Erhalt]], [[verspielen]], [[einnehmen]], [[wegzüchten]], [[zustehen]], [[spendieren]]

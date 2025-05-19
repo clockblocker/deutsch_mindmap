@@ -5,6 +5,7 @@ haben [[gebaut]]
 ---
 Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
 
+*[[C1-Lesen-T2-102-Text#^16|^]]* Das Gewicht eines normal [[gebauten]] Menschen [[beruht]] zu etwa einem Drittel bis knapp der [[Hälfte]] auf Muskelmasse
 
 1. Wann [[baute]] die DDR die Mauer in Berlin? (88%)
 	- [x] 1961

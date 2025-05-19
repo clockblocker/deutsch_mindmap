@@ -37,4 +37,4 @@ Tags:
 
 ---
 Morphems:
-[[sicht]][[lich]]
+[[sicht]][[lich]], [[ersichtlich]]

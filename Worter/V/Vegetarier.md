@@ -2,7 +2,7 @@
 die [[Vegetarier]]
 
 ---
-[[Eine Extrawurst bekommen.md#^1|(q)]] Die Deutschen sind ein Volk von [[Wurstessern]]. Und [[zwar]] so sehr, dass sich hier sogar [[Vegetarier]] über eine Wurst freuen können – [[zumindest]], wenn es sich [[redensartlich]] um eine Extrawurst handelt. ^1
+[[Eine Extrawurst bekommen.md#^1|^]] Die Deutschen sind ein Volk von [[Wurstessern]]. Und [[zwar]] so sehr, dass sich hier sogar [[Vegetarier]] über eine Wurst freuen können – [[zumindest]], wenn es sich [[redensartlich]] um eine Extrawurst handelt. ^1
 
 ---
 = [[Gemüseesser]], [[Pflanzenesser]]

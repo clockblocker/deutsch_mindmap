@@ -1,1 +1,1 @@
-[[ansehen]], [[berühmt]], [[beliebtes]]
+[[ansehen]], [[berühmt]], [[beliebtes]], [[prestigeträchtig]]

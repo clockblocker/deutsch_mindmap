@@ -2,6 +2,8 @@
 die [[Angeklagten]]
 
 ---
+*[[C1-Hoehen-T1-201-Text#^5|^]]* Der Witz dabei ist, dass die [[Angeklagten]] gar keine Umweltschützer sind, sondern ihnen der Klimawandel herzlich egal ist
+
 140. Was macht ein [[Schöffe]] / eine Schöffin in Deutschland? Er / Sie … (82%)
 	- [x] [[entscheidet]] mit [[Richtern]] / Richterinnen über [[Schuld]] und Strafe.
 	- [ ] [[verteidigt]] den [[Angeklagten]] / die Angeklagte.

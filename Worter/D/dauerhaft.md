@@ -32,7 +32,7 @@ permanent, lasting
 [[Dauer]], [[haften]], [[Dauerhaftigkeit]], [[andauern]]
 
 ---
-[[dauer]]|[[haft]]
+[[dauer]]|[[Haft]]
 [[dauerhaft]]
 
 
@@ -40,4 +40,4 @@ permanent, lasting
 Adjektive: [[dauerhaft]], [[dauerhafter]], [[dauerhaftest]]
 
 ---
-[[dauerhafter]], [[dauerhaftes]], [[dauerhafte]], [[dauerhaften]], [[dauerhaftem]], [[dauerhafterer]], [[dauerhafteres]], [[dauerhaftere]], [[dauerhafteren]], [[dauerhafterem]], [[dauerhaftester]], [[dauerhaftestes]], [[dauerhafteste]], [[dauerhaftesten]], [[dauerhaftestem]], [[mangeln]], [[langjährig]], [[langanhaltend]]
+[[dauerhafter]], [[dauerhaftes]], [[dauerhafte]], [[dauerhaften]], [[dauerhaftem]], [[dauerhafterer]], [[dauerhafteres]], [[dauerhaftere]], [[dauerhafteren]], [[dauerhafterem]], [[dauerhaftester]], [[dauerhaftestes]], [[dauerhafteste]], [[dauerhaftesten]], [[dauerhaftestem]], [[mangeln]], [[langjährig]], [[langanhaltend]], [[stundenlang]], [[zeitweise]]

@@ -1,8 +1,9 @@
-
 🧐 [[erfahren]], [ɛɐ̯ˈfaːʁən] | [[erfuhr]], haben [[erfahren]]
 
 ---
 „Ich wollte nicht, dass du es [[erfährst]]“, [[flüsterte]] Petunia. „aber es ist [[wahr]]. Ich habe Sachen gesehen …“
+
+*[[C1-Hoehen-T1-201-Text#^4|^]]* Bereits in den ersten Szenen [[erfahren]] die [[Zuschauer]], dass das [[Urteil]] im [[bevorstehend]]en Prozess [[eigentlich]] bereits [[feststeht]]
 
 5 Man [[erfährt]] etwas über die Geschichte des [[Stadtteils]].  
 
@@ -13,7 +14,7 @@ Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] En
 
 2 Man [[erfährt]] etwas [[darüber]], wie die [[Natur]] auf den [[Klimawandel]] [[reagiert]].  
 
-[[16 Plusquamperfekt#^24|(q)]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]]  
+[[16 Plusquamperfekt#^24|^]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]]  
 hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
 
 [[Auslandserfahrung]]

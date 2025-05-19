@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 ↔️ [[separat]], [zeːpaˈʁaːt](https://youglish.com/pronounce/separat/german)
 
 ---

@@ -5,41 +5,41 @@ Eine junge [[Künstlerin]] aus Stuttgart bekam bei ihrer ersten
 Ausstellung den Brief von einem Kritiker: «Es ist sehr gut, was Sie  
 machen, aber Sie haben noch zu wenig [[Tiefe]].»  
 
-[[16 Plusquamperfekt#^1|(q)]] Die junge Frau verstand nicht, was der Kritiker meinte, und sie hat seine Meinung [[bald]] vergessen.  ^1
+[[16 Plusquamperfekt#^1|^]] Die junge Frau verstand nicht, was der Kritiker meinte, und sie hat seine Meinung [[bald]] vergessen.  ^1
 
-[[16 Plusquamperfekt#^2|(q)]] Aber am [[übernächsten]] Tag stand in der Zeitung ein Artikel dieses Kritikers: «Die junge Künstlerin besitzt viel Talent, ihre Arbeiten zeigen auf den ersten Blick, dass sie [[begabt]] ist. ^2
+[[16 Plusquamperfekt#^2|^]] Aber am [[übernächsten]] Tag stand in der Zeitung ein Artikel dieses Kritikers: «Die junge Künstlerin besitzt viel Talent, ihre Arbeiten zeigen auf den ersten Blick, dass sie [[begabt]] ist. ^2
 
-[[16 Plusquamperfekt#^3|(q)]] Ihre Bilder können [[sogar]] einen ganz guten [[Eindruck]] aufs Publikum machen. Aber es gibt in ihnen nicht genug Tiefe.»   ^3
+[[16 Plusquamperfekt#^3|^]] Ihre Bilder können [[sogar]] einen ganz guten [[Eindruck]] aufs Publikum machen. Aber es gibt in ihnen nicht genug Tiefe.»   ^3
 
 Als die Künstlerin am Abend zu ihrer Ausstellung kam, konnte sie  
 von überall genau hören: «Tiefe hat sie keine. Das ist es. Sie ist nicht  
 schlecht, aber leider hat sie keine Tiefe.»  
 
-[[16 Plusquamperfekt#^4|(q)]] In der ganzen [[folgend]] Woche [[zeichnete]] die junge Frau nichts.  ^4
+[[16 Plusquamperfekt#^4|^]] In der ganzen [[folgend]] Woche [[zeichnete]] die junge Frau nichts.  ^4
 
 Sie saß [[stumm]] in ihrer Wohnung und hatte immer nur einen Gedanken  
 im Kopf: «Warum habe ich keine Tiefe? Warum habe ich keine Tiefe?»  
 
-In der zweiten Woche konnte sie auch nicht zeichnen. [[16 Plusquamperfekt#^5|(q)]] Sie war  
+In der zweiten Woche konnte sie auch nicht zeichnen. [[16 Plusquamperfekt#^5|^]] Sie war  
 nervös, unruhig und [[verbrachte]] alle Tage und Nächte ganz allein.  ^5
 
 Sie suchte eine Lösung, aber sie konnte keine finden.  
 
-[[16 Plusquamperfekt#^6|(q)]] In der dritten Woche kam ihr plötzlich die Idee, dass sie die Kunst  
+[[16 Plusquamperfekt#^6|^]] In der dritten Woche kam ihr plötzlich die Idee, dass sie die Kunst  
 der anderen Maler und [[Zeichner]] wieder studieren sollte.  ^6
 
-[[16 Plusquamperfekt#^8|(q)]] Sie ging in die Galerien, Museen, Buchhandlungen, saß über den [[verschiedenen]] kunsttheoretischen Büchern und großen [[Bildbänden]] lange Stunden zu  
+[[16 Plusquamperfekt#^8|^]] Sie ging in die Galerien, Museen, Buchhandlungen, saß über den [[verschiedenen]] kunsttheoretischen Büchern und großen [[Bildbänden]] lange Stunden zu  
 Hause.  ^8
 
-[[16 Plusquamperfekt#^7|(q)]]  Sie hat die ganze Welt der Kunst wieder studiert. Aber alles war [[umsonst]]. ^7
+[[16 Plusquamperfekt#^7|^]]  Sie hat die ganze Welt der Kunst wieder studiert. Aber alles war [[umsonst]]. ^7
 
 Bei einer Ausstellung im Stadtmuseum «500 Jahre europäische  
 Zeichnung» fragte sie plötzlich einen Künstler vor dem Werk Leonardo  
 da Vincis: 
 
-[[16 Plusquamperfekt#^9|(q)]] «Verzeihen Sie - können Sie mir sagen, ob diese [[Zeichnung]] Tiefe besitzt?» ^9
+[[16 Plusquamperfekt#^9|^]] «Verzeihen Sie - können Sie mir sagen, ob diese [[Zeichnung]] Tiefe besitzt?» ^9
 
-[[16 Plusquamperfekt#^10|(q)]] «Wenn Sie über mich [[lachen]] wollen, dann müssen Sie früher  
+[[16 Plusquamperfekt#^10|^]] «Wenn Sie über mich [[lachen]] wollen, dann müssen Sie früher  
 [[aufstehen]],» antwortete der Künstler ärgerlich. ^10
 
 Die junge Frau ging nach Hause und weinte. Ihr Leben hatte  
@@ -49,79 +49,79 @@ Angst vor der Tiefe des Schlafes. Sie achtete nicht mehr auf ihre Kleidung. Und 
 
 Als ein Kunsthändler aus Berlin sie anrief und um ihre Zeichnungen bat, schrie sie laut und deutlich ins Telefon: «Lassen Sie mich in Ruhe! Ich habe keine Tiefe!»
 
-[[16 Plusquamperfekt#^11|(q)]] [[Reiche]] und auch arme Freunde der Künstlerin wollten ihr helfen.  ^11
+[[16 Plusquamperfekt#^11|^]] [[Reiche]] und auch arme Freunde der Künstlerin wollten ihr helfen.  ^11
 
-[[16 Plusquamperfekt#^12|(q)]] Sie sagten: «Sie hat eine [[Krise]]. Kann sein, es ist die Krise [[menschlicher]] Art, oder sie ist [[künstlerischer]] Art, oder die Krise ist finanziell. Im ersten Fall kann man nichts machen, im zweiten Fall muss sie da durch, und im dritten Fall können wir Geld für sie [[sammeln]], aber [[wahrscheinlich]] nimmt sie es nicht.» ^12
+[[16 Plusquamperfekt#^12|^]] Sie sagten: «Sie hat eine [[Krise]]. Kann sein, es ist die Krise [[menschlicher]] Art, oder sie ist [[künstlerischer]] Art, oder die Krise ist finanziell. Im ersten Fall kann man nichts machen, im zweiten Fall muss sie da durch, und im dritten Fall können wir Geld für sie [[sammeln]], aber [[wahrscheinlich]] nimmt sie es nicht.» ^12
 
-[[16 Plusquamperfekt#^13|(q)]] Also gaben ihr die Freunde kein Geld, [[sondern]] luden sie manchmal zum Essen oder auf Partys ein. ^13
+[[16 Plusquamperfekt#^13|^]] Also gaben ihr die Freunde kein Geld, [[sondern]] luden sie manchmal zum Essen oder auf Partys ein. ^13
 
-[[16 Plusquamperfekt#^14|(q)]] Aber sie nahm die Einladungen nicht an. Sie [[absagen|sagte]] immer aus dem Grund ab, dass sie arbeiten musste. ^14
+[[16 Plusquamperfekt#^14|^]] Aber sie nahm die Einladungen nicht an. Sie [[absagen|sagte]] immer aus dem Grund ab, dass sie arbeiten musste. ^14
 
-[[16 Plusquamperfekt#^15|(q)]] Sie war so [[enttäuscht]], kraftlos und schwach, dass ihr alles aus den Händen fiel. ^15
+[[16 Plusquamperfekt#^15|^]] Sie war so [[enttäuscht]], kraftlos und schwach, dass ihr alles aus den Händen fiel. ^15
 
-[[16 Plusquamperfekt#^16|(q)]] Die junge Frau, die früher so schön [[gezeichnet]] hatte, ging nicht mehr aus und niemand war zu Besuch bei ihr. Sie wurde dick, konnte ihre schönen Hosen, Jacken und Anzüge nicht mehr tragen und sah viel älter aus. ^16
+[[16 Plusquamperfekt#^16|^]] Die junge Frau, die früher so schön [[gezeichnet]] hatte, ging nicht mehr aus und niemand war zu Besuch bei ihr. Sie wurde dick, konnte ihre schönen Hosen, Jacken und Anzüge nicht mehr tragen und sah viel älter aus. ^16
 
-[[16 Plusquamperfekt#^17|(q)]] Dann hat sie unerwartet 30 000 Mark von ihrer alten Tante, die in Baden-Baden [[starb]], [[geerbt]]. Mit diesem Geld lebte sie drei Jahre lang. ^17
+[[16 Plusquamperfekt#^17|^]] Dann hat sie unerwartet 30 000 Mark von ihrer alten Tante, die in Baden-Baden [[starb]], [[geerbt]]. Mit diesem Geld lebte sie drei Jahre lang. ^17
 
-[[16 Plusquamperfekt#^18|(q)]] Einmal in dieser Zeit machte sie eine Reise nach Neapel. Kein Mensch
+[[16 Plusquamperfekt#^18|^]] Einmal in dieser Zeit machte sie eine Reise nach Neapel. Kein Mensch
 wusste, warum. Wer sie fragte, bekam nur ein unverständliches
 [[Murmeln]] zur Antwort. ^18
 
-[[16 Plusquamperfekt#^19|(q)]] Als die junge Frau das ganze Geld [[verbraucht]] hatte, [[vernichtete]] sie alle ihre Werke, fuhr zum [[Fernsehturm]] und sprang 139 Meter in die Tiefe. ^19
+[[16 Plusquamperfekt#^19|^]] Als die junge Frau das ganze Geld [[verbraucht]] hatte, [[vernichtete]] sie alle ihre Werke, fuhr zum [[Fernsehturm]] und sprang 139 Meter in die Tiefe. ^19
 
-[[16 Plusquamperfekt#^20|(q)]] Der [[Selbstmord]] einer [[begabten]] Künstlerin, die auch [[hübsch]] gewesen war, hatte einen großen [[Informationswert]] in der Boulevardpresse. ^20
+[[16 Plusquamperfekt#^20|^]] Der [[Selbstmord]] einer [[begabten]] Künstlerin, die auch [[hübsch]] gewesen war, hatte einen großen [[Informationswert]] in der Boulevardpresse. ^20
 
-[[16 Plusquamperfekt#^21|(q)]] Der [[Zustand]] ihrer Wohnung war so schrecklich, dass man unglaubliche Fotos machen konnte: Tausend leere Flaschen, kaputte Bilder, Plastikklumpen an den Wänden, Müll in den [[Zimmerecken]]. ^21
+[[16 Plusquamperfekt#^21|^]] Der [[Zustand]] ihrer Wohnung war so schrecklich, dass man unglaubliche Fotos machen konnte: Tausend leere Flaschen, kaputte Bilder, Plastikklumpen an den Wänden, Müll in den [[Zimmerecken]]. ^21
 
-[[16 Plusquamperfekt#^22|(q)]] Die Fenster in den Zimmern waren [[schmutziger]], als die Gläser in der Küche. Der Kühlschrank war ganz leer. Die Wäsche in der Badewanne hatte einen [[schlechten]] [[Geruch]]. ^22
+[[16 Plusquamperfekt#^22|^]] Die Fenster in den Zimmern waren [[schmutziger]], als die Gläser in der Küche. Der Kühlschrank war ganz leer. Die Wäsche in der Badewanne hatte einen [[schlechten]] [[Geruch]]. ^22
 
 Der bekannte Kritiker, der den ersten Artikel über die Künstlerin geschrieben hatte, gab auch einen theoretischen Kommentar zu diesem Unfall.
 
 Er schrieb: «Was kann man tun, wenn ein junger talentierter Mensch die Kraft für die weitere Arbeit nicht findet? Es ist kaum möglich, dass ein paar kritische Worte den [[Zustand]] eines Künstlers ganz plötzlich schlechter machen können. 
 
-[[16 Plusquamperfekt#^23|(q)]] Aber es ist ganz klar, dass die junge Künstlerin die tragischen Motive [[sogar]] in ihren ersten naiven Werken gehabt hatte. ^23
+[[16 Plusquamperfekt#^23|^]] Aber es ist ganz klar, dass die junge Künstlerin die tragischen Motive [[sogar]] in ihren ersten naiven Werken gehabt hatte. ^23
 
-[[16 Plusquamperfekt#^24|(q)]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]]  
+[[16 Plusquamperfekt#^24|^]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]]  
 hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
 
-[[16 Plusquamperfekt#^25|(q)]] Sie war bestimmt begabt und konnte noch einen großen [[Erfolg]] haben. Aber sie stand unter dem [[Eindruck]] des [[Unglücks]] und konnte nur an Tiefe denken. Ihr Selbstmord war nichts anderes, als ihr persönlicher starker Zwang zur Tiefe.» ^25
+[[16 Plusquamperfekt#^25|^]] Sie war bestimmt begabt und konnte noch einen großen [[Erfolg]] haben. Aber sie stand unter dem [[Eindruck]] des [[Unglücks]] und konnte nur an Tiefe denken. Ihr Selbstmord war nichts anderes, als ihr persönlicher starker Zwang zur Tiefe.» ^25
 
 
 ----
 
 *Salvator Dali*  
 
-[[16 Plusquamperfekt#^26|(q)]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon [[während]] seines Lebens und auch nach seinem Tod hatte er großen [[Erfolg]]. ^26
+[[16 Plusquamperfekt#^26|^]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon [[während]] seines Lebens und auch nach seinem Tod hatte er großen [[Erfolg]]. ^26
 
 Er hat mehr Kommentare zu seinen Bildern geschrieben, als alle anderen Künstler.  
 
-[[16 Plusquamperfekt#^27|(q)]] 1904 in Figueras bei Barcelona geboren, zeigte er schon als Kind eine [[ungewöhnliche]] künstlerische [[Begabung]].  ^27
+[[16 Plusquamperfekt#^27|^]] 1904 in Figueras bei Barcelona geboren, zeigte er schon als Kind eine [[ungewöhnliche]] künstlerische [[Begabung]].  ^27
 
-[[16 Plusquamperfekt#^28|(q)]] Seit dieser Zeit [[durchmachen|machte]] seine Kunst große [[Veränderungen]] durch - vom Impressionismus zum Kubismus, vom Kubismus zum Surrealismus, einer [[spontanen]] Methode der irrationalen [[Erkenntnis]].  ^28
+[[16 Plusquamperfekt#^28|^]] Seit dieser Zeit [[durchmachen|machte]] seine Kunst große [[Veränderungen]] durch - vom Impressionismus zum Kubismus, vom Kubismus zum Surrealismus, einer [[spontanen]] Methode der irrationalen [[Erkenntnis]].  ^28
 
-[[16 Plusquamperfekt#^29|(q)]] Salvator Dali arbeitete «wie ein Medium». Das war etwas absolut Neues in der Kunst. 
+[[16 Plusquamperfekt#^29|^]] Salvator Dali arbeitete «wie ein Medium». Das war etwas absolut Neues in der Kunst. 
 [[Damals]] gab es noch kein Konzept surrealistischer Malerei. ^29
 
 Heute kann man aber bestimmt sagen, dass Surrealismus und Dali eins ist. 
 
-[[16 Plusquamperfekt#^30|(q)]] Das Dali-Museum in seinem [[Geburtsort]] Figueras zeigt es am besten: ein richtiges Panoptikum surrealistischer [[Träume]].  ^30
+[[16 Plusquamperfekt#^30|^]] Das Dali-Museum in seinem [[Geburtsort]] Figueras zeigt es am besten: ein richtiges Panoptikum surrealistischer [[Träume]].  ^30
 
-[[16 Plusquamperfekt#^31|(q)]] Seine Aussagen sind [[genauso]] interessant wie seine Bilder: ^31  
+[[16 Plusquamperfekt#^31|^]] Seine Aussagen sind [[genauso]] interessant wie seine Bilder: ^31  
 
-> [[16 Plusquamperfekt#^33|(q)]] «Die Leute lieben das [[Geheimnis]], und das ist es, warum sie meine Bilder lieben.»  ^33
+> [[16 Plusquamperfekt#^33|^]] «Die Leute lieben das [[Geheimnis]], und das ist es, warum sie meine Bilder lieben.»  ^33
 
-> [[16 Plusquamperfekt#^32|(q)]] «Das Bild ist wie ein Spiel mit der Technik der [[Bildmotive]].» ^32
+> [[16 Plusquamperfekt#^32|^]] «Das Bild ist wie ein Spiel mit der Technik der [[Bildmotive]].» ^32
 
-> [[16 Plusquamperfekt#^34|(q)]] «Der einzige Unterschied zwischen einem [[Verrückten]] und mir ist der, dass ich nicht [[verrückt]] bin.»   ^34
+> [[16 Plusquamperfekt#^34|^]] «Der einzige Unterschied zwischen einem [[Verrückten]] und mir ist der, dass ich nicht [[verrückt]] bin.»   ^34
 
 > «Kochen steht dem Malen sehr nahe. Wenn man etwas kocht, nimmt man ein bisschen von diesem, ein bisschen von dem anderen ... das ist wie Farbenmischen.»  
 
-> [[16 Plusquamperfekt#^35|(q)]] «[[Politisierung]] ist der größte Fehler, den ein Künstler machen kann. Niemand weiß, ob die Venus von Michelangelo kommunistisch oder faschistisch war.»   ^35
+> [[16 Plusquamperfekt#^35|^]] «[[Politisierung]] ist der größte Fehler, den ein Künstler machen kann. Niemand weiß, ob die Venus von Michelangelo kommunistisch oder faschistisch war.»   ^35
 
-> [[16 Plusquamperfekt#^36|(q)]] «Die beiden größten [[Glücksfälle]], die einem Maler passieren können, sind:  
+> [[16 Plusquamperfekt#^36|^]] «Die beiden größten [[Glücksfälle]], die einem Maler passieren können, sind:  
 > 1. Spanier zu sein; 2. Dali zu heißen.» ^36
 
-> [[16 Plusquamperfekt#^37|(q)]] «Wenn du ein [[Genie]] spielst, wirst du eins.» ^37
+> [[16 Plusquamperfekt#^37|^]] «Wenn du ein [[Genie]] spielst, wirst du eins.» ^37
   
 
 ### Die Fragen:  
@@ -138,7 +138,7 @@ Heute kann man aber bestimmt sagen, dass Surrealismus und Dali eins ist.
 10. Was zeigt am besten, dass Surrealismus und Dali eins sind?  Dass es damals nur ein Konzept surrealistischer Malerei gab: er
 11. Was ist genauso interessant wie Dalis Bilder?  Seine Aussagen
 12. Welche Aussage des Künstlers gefällt Ihnen am besten?  Der einzige Unterschied zwischen einem Verrückten und mir ist der, dass ich nicht verrückt bin 
-13. > [[16 Plusquamperfekt#^34|(q)]] «Der einzige Unterschied zwischen einem [[Verrückten]] und mir ist der, dass ich nicht [[verrückt]] bin.»   ^34
+13. > [[16 Plusquamperfekt#^34|^]] «Der einzige Unterschied zwischen einem [[Verrückten]] und mir ist der, dass ich nicht [[verrückt]] bin.»   ^34
 14. Nennen Sie andere Künstler des 20. Jahrhunderts.  
 
 

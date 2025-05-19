@@ -26,3 +26,4 @@ N: die [[Modellrechnung]], die [[Modellrechnungen]]
 A: die [[Modellrechnung]], die [[Modellrechnungen]]
 G: der [[Modellrechnung]], der [[Modellrechnungen]]
 D: der [[Modellrechnung]], den [[Modellrechnungen]]
+---> [[🗣️ Ingredient-Meinung]] <---

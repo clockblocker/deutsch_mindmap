@@ -1,2 +1,2 @@
 [[finden]]  
-, [[herausfinden]]
+, [[herausfinden]], [[zurechtfinden]]

@@ -1,7 +1,8 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🧐 [[ernsthaft]], [ˈʔɛʁnstˌhaft]
 nicht [[oberflächlich]]
 
----> 🧩 [[Grad-Wahrheit]] <---
 
 
 ---
@@ -16,7 +17,7 @@ nicht [[oberflächlich]]
 seriously, earnestly, genuinely
 
 ---
-[[ernst]]|[[haft]]
+[[ernst]]|[[Haft]]
 
 ---
 N: [[ernsthaft]], [[ernsterhafter]], [[ernsthaftester]]  

@@ -1,1 +1,1 @@
-, [[zustehen]]
+, [[zustehen]], [[beanspruchen]]

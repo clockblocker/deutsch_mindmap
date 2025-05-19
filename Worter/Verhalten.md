@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 🧘 [[verhalten]] sich wie, [fɛɐ̯ˈhaltən] | [[verhielt]], haben [[verhalten]]
 
 ---

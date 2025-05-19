@@ -2,7 +2,7 @@
 die [[Berichte]]
 
 ---
-[[15 genetiv#^7|(q)]] Der Kommissar und Kramer warteten auf den [[Bericht]] des Experten. ^7
+[[15 genetiv#^7|^]] Der Kommissar und Kramer warteten auf den [[Bericht]] des Experten. ^7
 
 *[[Text mit Reflexivpronomen#^13|^]]* [[Während]] des Essens im Restaurant habe ich (18) seinen [[Bericht]] über die neuesten Küchenmaschinen mit großem Interesse [[angehört]]. ^13
 

@@ -1,7 +1,7 @@
 ✨ [[verwandeln]], [fɛɐ̯ˈvandl̩n] | [[verwandelte]], haben [[verwandelt]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^12|(q)]] Diese Anwendung hat das Sprachenlernen für mich in ein spannendes Spiel und den politischen Druck in eine spannende [[Herausforderung]] [[verwandelt]]. ^12
+[[1 Wer bin ich und was mache ich hier?#^12|^]] Diese Anwendung hat das Sprachenlernen für mich in ein spannendes Spiel und den politischen Druck in eine spannende [[Herausforderung]] [[verwandelt]]. ^12
 
 [[Verwandte]]
 

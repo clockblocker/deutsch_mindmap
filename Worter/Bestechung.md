@@ -26,3 +26,5 @@ D: der [[Bestechung]], den [[Bestechungen]]
 
 ---
 [[bestechen]], [[Bestechlichkeit]], [[Bestechliches]], [[Korruption]], [[Schmiergeldzahlung]]
+
+#Feminin 

@@ -2,16 +2,18 @@
 die [[Gerichte]]
 
 ---
+*[[C1-Hoehen-T1-201-Text#^2|^]]* Drei Personen, die gegen eine [[Abholzung]] des nahen Waldes protestiert haben sollen, stehen vor [[Gericht]]
+
 80. Welches [[Gericht]] in Deutschland ist [[zuständig]] für die [[Auslegung]] des Grundgesetzes? (79%)
 	- [ ] [[Oberlandesgericht]]
 	- [ ] [[Amtsgericht]]
 	- [x] [[Bundesverfassungsgericht]]
 	- [ ] [[Verwaltungsgericht]]
 
-146. Wie nennt man in Deutschland ein [[Verfahren]] vor einem [[Gericht]]? (91%)
+81. Wie nennt man in Deutschland ein [[Verfahren]] vor einem [[Gericht]]? (91%)
 	- [x] [[Prozess]]
 
-141. Wer [[berät]] in Deutschland Personen bei Rechtsfragen und [[vertritt]] sie vor [[Gericht]]? (87%)
+82. Wer [[berät]] in Deutschland Personen bei Rechtsfragen und [[vertritt]] sie vor [[Gericht]]? (87%)
 	- [x] ein [[Rechtsanwalt]] / eine Rechtsanwältin
 
 
@@ -47,3 +49,5 @@ D: dem [[Gericht]], den [[Gerichten]]
 [[richten]], [[gerichtlich]], [[Richter]], [[Rechtsprechung]], [[verurteilen]]
 [[Braten]], [[Arbeitsgericht]], [[Standesamt]]
 , [[Amtsgericht]], [[verurteilten]], [[Bundesverfassungsgericht]], [[rechtsprechend]]
+
+#Neuter , [[Urteil]]

@@ -2,7 +2,7 @@
 die [[Politisierungen]]
 
 ---
-> [[16 Plusquamperfekt#^35|(q)]] «[[Politisierung]] ist der größte Fehler, den ein Künstler machen kann. Niemand weiß, ob die Venus von Michelangelo kommunistisch oder faschistisch war.»   ^35
+> [[16 Plusquamperfekt#^35|^]] «[[Politisierung]] ist der größte Fehler, den ein Künstler machen kann. Niemand weiß, ob die Venus von Michelangelo kommunistisch oder faschistisch war.»   ^35
 
 ---
 = [[Einmischung in die Politik]], [[Einfluss der Politik]]

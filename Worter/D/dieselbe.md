@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🔴 dieselbe, [ˈdiːzəlbə]
 
 ---

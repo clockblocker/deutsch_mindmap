@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🔍 [[vergleichen]] + Akk, [fɛɐ̯ˈɡlaɪ̯çən]
 [[verglich|verglich]]
 haben [[verglichen]]
@@ -35,4 +37,4 @@ Morpheme: [[ver]][[gleich]][[en]]
 
 Partizip I: [[vergleichend]], Partizip II: [[verglichen]]
 
-[[vergleichen]] - [[ver]] = [[gleichen]], [[Ungleichheit]]
+[[vergleichen]] - [[ver]] = [[gleichen]], [[Ungleichheit]], [[ähnlich]]

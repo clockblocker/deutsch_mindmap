@@ -2,7 +2,7 @@
 die [[Geschäftsideen]]
 
 ---
-[[1.1 text#^2|(q)]] Unter ihnen sind auch viele Gründerinnen und [[Gründer]] von Startups – jungen Unternehmen mit besonders innovativen [[Geschäftsideen]]. ^2
+[[1.1 text#^2|^]] Unter ihnen sind auch viele Gründerinnen und [[Gründer]] von Startups – jungen Unternehmen mit besonders innovativen [[Geschäftsideen]]. ^2
 
 ---
 = [[Unternehmensidee]], [[Businessplan]]

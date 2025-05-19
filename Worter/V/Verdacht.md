@@ -26,4 +26,4 @@ Dative: dem [[Verdacht]], den [[Verdächten]]
 [[verdächtigen]], [[verdächtig]], [[argwöhnisch]], [[misstrauisch]]
 
 , [[Ahnung]], [[verdächtig]]🔵 der [[Verdacht]]
-, [[bezigen]], [[Zweifel]]
+, [[bezigen]], [[Zweifel]], [[Urteil]]

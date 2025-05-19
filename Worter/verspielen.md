@@ -1,7 +1,7 @@
 😟 [[verspielen]], [fɛɐ̯ˈʃpiːlən] | [[verspielte]], haben [[verspielt]]
 
 ---
-[[2 Unter Druck nach oben#^8|(q)]] „In zehn Jahren will ich Ihren Posten“ – der Kandidat mit diesem [[Spruch]] hätte [[verspielt]]. ^8
+[[2 Unter Druck nach oben#^8|^]] „In zehn Jahren will ich Ihren Posten“ – der Kandidat mit diesem [[Spruch]] hätte [[verspielt]]. ^8
 
 ---
 = [[vergeuden]], [[verpassen]], [[verlieren]]

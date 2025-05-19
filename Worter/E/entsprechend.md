@@ -1,9 +1,13 @@
-➡️ [[entsprechend]], [ɛntˈʃpʁɛçn̩t]  |  [[entsprechen]]
-
+---> 📈 [[Grad-Vergleich]] <---
 ---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
+➡️ [[entsprechend]], [ɛntˈʃpʁɛçn̩t]  |  [[entsprechen]]
 
 ---
 [[Entsprechend]] unserem [[Vorschlag]] 
+
+*[[C1-Lesen-T2-102-Text#^19|^]]* [[Entsprechend]] weniger Kalorien verbrennt man. ^19
+
 
 *[[C1-Lesen-T4-102-Text#^20|^]]* Letzteres vor allem durch die [[Spezialisierung]] der [[Drittfirmen]], denen bestimmte [[Dienstleistung]]en [[übertragen]] wurden, da sie ja im [[Normalfall]] Expertinnen und Experten auf dem [[entsprechenden]] [[Gebiet]] sind. ^20
 
@@ -37,4 +41,3 @@ P: [[entsprechenden]], [[entsprechenderen]], [[entsprechendsten]]
 
 ---
 [[entsprechen]], [[Worter/S/sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
-, [[jeweilig]], [[erwartungsgemäß]], [[zufolge]], [[Anstieg]], [[derartig]]

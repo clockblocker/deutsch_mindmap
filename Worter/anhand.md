@@ -6,7 +6,7 @@
 - Argumentieren Sie [[anhand]] eines Beispiels für ein Studienfach .
 
 [[Steht]] das [[nachfolgende]] Nomen im Plural ohne [[vorangehenden]] Artikel, [[weicht]] man oft auf die Konstruktion anhand von + Dativ aus:  
-[[2 prap.md#^3|(q)]] [[anhand]] von neueren Studien, anhand von [[Beweisen]] ^3
+[[2 prap.md#^3|^]] [[anhand]] von neueren Studien, anhand von [[Beweisen]] ^3
 
 
 ---

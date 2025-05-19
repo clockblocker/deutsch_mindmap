@@ -1,7 +1,9 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🤪 [[verdreht]], [fɛɐ̯ˈdʁeːt] ≠ [[gerade]]
 
 ---
-[[Eigenlob stinkt.md#^4|(q)]] „Ich bin der beste Radfahrer dieser Stadt“, [[behauptet]] Peter. Lisa [[verdreht]] die Augen. ^4
+[[Eigenlob stinkt.md#^4|^]] „Ich bin der beste Radfahrer dieser Stadt“, [[behauptet]] Peter. Lisa [[verdreht]] die Augen. ^4
 
 ---
 = [[verkehrt]], [[verwirrt]], [[verzerrt]]

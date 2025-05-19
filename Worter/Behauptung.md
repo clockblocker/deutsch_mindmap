@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🔴 die [[Behauptung]], [bəˈhaʊ̯ptʊŋ]
 die [[Behauptungen]]
 
@@ -24,3 +26,5 @@ D: der [[Behauptungen]], den [[Behauptung]]
 
 ---
 [[behaupten]], [[behaupteterweise]], [[unbegründet]], [[unbehauptet]], [[Meinungsäußerung]], [[Argument]]
+
+#Feminin 

@@ -1,7 +1,7 @@
 😠 [[unverbesserlich]], [ʊnfɛɐ̯ˈbɛsɐlɪç] != [[verbessern]]
 
 ---
-[[Eigenlob stinkt.md#^8|(q)]] „Du, das muss mein neues Deodorant sein. Ich kaufe morgen direkt ein besseres!“ Lisa [[aufgeben|gibt]] auf. Manche Menschen sind einfach [[unverbesserlich]]. ^8
+[[Eigenlob stinkt.md#^8|^]] „Du, das muss mein neues Deodorant sein. Ich kaufe morgen direkt ein besseres!“ Lisa [[aufgeben|gibt]] auf. Manche Menschen sind einfach [[unverbesserlich]]. ^8
 
 
 ---

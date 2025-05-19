@@ -3,6 +3,9 @@
 ---
 Dieses Hotel [[bietet]] [[ebenfalls]] einen Blick aufs Meer.
 
+*[[C1-Lesen-T2-102-Text#^11|^]]* Durch regelmäßiges Joggen und Radfahren komme es [[ebenfalls]] zum [[Muskelaufbau]], auch wenn der nicht so sichtbar ist. ^11
+
+
 *[[C1-Hoehen-T1-100-Text#^9|^]]* Das zweite Buch *Der Wandel der Städte* von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwacher]] [[Bevölkerungsgruppen]] aus ihren [[Stadtteilen]], da sie die Mieten nicht mehr [[bezahlen]] können. ^9
 
 
@@ -34,4 +37,4 @@ Morpheme: [[eben]][[fall]][[s]]
 
 ---
 #Adverb
-, [[seinerseits]], [[zudem]], [[Konnektivpartikeln]], [[ferner]]
+, [[seinerseits]], [[zudem]], [[Konnektivpartikeln]], [[ferner]], [[sichtbar]]

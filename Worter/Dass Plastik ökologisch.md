@@ -1,6 +1,6 @@
-[[Dass Plastik ökologisch.md#^1|(q)]] [[Dass]] [[Plastik]] [[ökologisch]] eine [[Gefahr]] für den [[Planeten]] [[darstellen|darstellt]], [[sein|ist]] [[inzwischen]] [[allgemein]] [[bekannt]]. [[Nur]] ein [[winzig]] Teil der [[Kunststoffabfälle]] [[werden]] [[recyceln|recycelt]], ein [[Worter/T/Teil]] [[werden]] [[verbrennen|verbrannt]], der [[Rest]] [[landen|landet]] in den [[Ozeanen]]. Wie [[lange]] es [[dauern|dauert]], bis [[Plastik]] [[zersetz|ist]], [[variieren|variiert]] [[stark]]. ^1
+[[Dass Plastik ökologisch.md#^1|^]] [[Dass]] [[Plastik]] [[ökologisch]] eine [[Gefahr]] für den [[Planeten]] [[darstellen|darstellt]], [[sein|ist]] [[inzwischen]] [[allgemein]] [[bekannt]]. [[Nur]] ein [[winzig]] Teil der [[Kunststoffabfälle]] [[werden]] [[recyceln|recycelt]], ein [[Worter/T/Teil]] [[werden]] [[verbrennen|verbrannt]], der [[Rest]] [[landen|landet]] in den [[Ozeanen]]. Wie [[lange]] es [[dauern|dauert]], bis [[Plastik]] [[zersetz|ist]], [[variieren|variiert]] [[stark]]. ^1
 
-[[Dass Plastik ökologisch.md#^2|(q)]] Bei der [[Herstellung]] der [[Plastikalternative]] [[werden]] [[Chitinschichten]] aus [[Krabbenschalen]] und [[Zellulose]] [[Baumfasern]] miteinander [[verbinden|verbunden]].
+[[Dass Plastik ökologisch.md#^2|^]] Bei der [[Herstellung]] der [[Plastikalternative]] [[werden]] [[Chitinschichten]] aus [[Krabbenschalen]] und [[Zellulose]] [[Baumfasern]] miteinander [[verbinden|verbunden]].
 </ideal_output>
 </example>
 </ideal_output>

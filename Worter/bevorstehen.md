@@ -1,7 +1,12 @@
+---> ⏱️ [[Temporal-Zeitpunkt]] <---
+
 ⏳ [[bevorstehen]], [bəˈfoːɐ̯ˌʃteːən](https://youglish.com/pronounce/bevorstehen/german) → [[stand bevor]] → [[bevorgestanden]]
 
 ---
 ich wende mich an Sie, um auf unsere [[bevorstehende]] Präsentation noch einmal einzugehen.
+
+*[[C1-Hoehen-T1-201-Text#^4|^]]* Bereits in den ersten Szenen [[erfahren]] die [[Zuschauer]], dass das [[Urteil]] im [[bevorstehend]]en Prozess [[eigentlich]] bereits [[feststeht]]
+
 
 ---
 = [[anstehen]], [[erwarten]], [[bevorliegen]]

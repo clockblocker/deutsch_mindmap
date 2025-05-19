@@ -1,3 +1,1 @@
-, [[gleich]], [[ebenso]]
-, [[entsprechend]]↔️ [[analog]]
-, [[Analogie]]
+---> 📈 [[Grad-Vergleich]] <---

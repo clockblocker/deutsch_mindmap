@@ -1,4 +1,6 @@
+---> 🧩 [[Grad-Wahrheit]] <---
 ---> 🧱[[Grad-Gewicht]] <---
+
 🟨 [[schlampig]], [ˈʃlampɪç]
 nicht [[sorgfältig]]
 

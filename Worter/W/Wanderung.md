@@ -2,7 +2,7 @@
 die [[Wanderungen]]
 
 ---
-b) [[Wegen]] des schlechten [[Wetters]] entschieden wir uns, die [[Wanderung]] [[abzusagen]].   [[1 Präpositionen Übungen.md#^3|(q)]]
+b) [[Wegen]] des schlechten [[Wetters]] entschieden wir uns, die [[Wanderung]] [[abzusagen]].   [[1 Präpositionen Übungen.md#^3|^]]
 
 ---
 = [[Spaziergang]], [[Ausflug zu Fuß]], [[Fußmarsch]]

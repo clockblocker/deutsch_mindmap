@@ -1,8 +1,10 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🧍‍♀️ 🔴 die [[Haltung]], [ˈhaltʊŋ](https://youglish.com/pronounce/Haltung/german)
 die [[Haltungen]]
 
 ---
-*[[Atom#^25|^]]* Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]: ^25
+*[[Atom#^25|^]]* Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]:
 
 ---
 = [[Einstellung]], [[Position]], [[Benehmen]]
@@ -15,7 +17,6 @@ attitude, posture, stance
 
 ---
 [[halten]], [[haltbar]], [[Aufhaltung]], [[Haltungsnote]]
-, [[Unterhaltung]]
 
 ---
 [[Halt]]|[[ung]]
@@ -27,3 +28,5 @@ N: die [[Haltung]], die [[Haltungen]]
 A: die [[Haltung]], die [[Haltungen]]  
 G: der [[Haltung]], der [[Haltungen]]  
 D: der [[Haltung]], den [[Haltungen]]
+
+#Feminin 

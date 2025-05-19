@@ -26,3 +26,6 @@ N: der [[Proband]], die [[Probanden]]
 A: den [[Probanden]], die [[Probanden]]
 G: des [[Probanden]], der [[Probanden]]
 D: dem [[Probanden]], den [[Probanden]]
+
+
+#Maskulin 

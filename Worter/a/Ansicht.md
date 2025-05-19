@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🔴 die [[Ansicht]], [ˈanˌzɪçt]
 die [[Ansichten]]
 
@@ -25,5 +27,5 @@ D: der [[Ansicht]], den [[Ansichten]]
 ---
 [[ansehen]], [[sehen]], [[anschauen]], [[betrachten]]
 
-[[glaub]], [[Meinung]], [[Meinungsäußerung]]
-, [[Überzeugung]]
+
+#Feminin 

@@ -1,1 +1,1 @@
-[[rede]] [[kein]]e [[Dummheiten]][[reden]], [[11 08]]
+[[Rede]] [[kein]]e [[Dummheiten]][[reden]], [[11 08]]

@@ -6,7 +6,7 @@ haben [[gefangen]]
 *Er [[fing]] die Fliegen in dem Haus*  
 *und riß ihnen die Flügel aus.*  
 
-[[Einen Kater haben.md#^1|(q)]] Es [[fängt]] meistens so an: Die Party ist gut, alle Freunde sind da, der Alkohol fließt, die Stimmung steigt. ^1
+[[Einen Kater haben.md#^1|^]] Es [[fängt]] meistens so an: Die Party ist gut, alle Freunde sind da, der Alkohol fließt, die Stimmung steigt. ^1
 
 *gleich [[fing]] er wieder an zu schrein:*  
 *»Ich esse keine Suppe! nein!*  

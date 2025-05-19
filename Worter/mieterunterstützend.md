@@ -17,8 +17,8 @@ tenant-supporting
 [[Mieter]], [[unterstützen]], [[Unterstützung]]
 
 ---
-[[Mieter]]|[[unterstütz]]|[[end]]
-[[Mieterunterstützend]]
+miet | er | unter | stütz | end
+[[Mieter]] + [[Unterstützung]]
 
 
 ---

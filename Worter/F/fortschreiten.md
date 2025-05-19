@@ -1,12 +1,13 @@
-, [[weitergehen]], [[Fortschritt]]
-
 ⏩ [[fortschreiten]], [ˈfɔʁtˌʃʁaɪ̯tn̩](https://youglish.com/pronounce/fortschreiten/german) → [[schritt fort]] → sein [[fortgeschritten]]
 
 ---
 *[[C1-Lesen-T4-101-Text#^15|^]]* Außerdem müssen wir dank [[fortschreitender]] Technik nicht mehr so viele Bereiche vor Ort erforschen, sondern können das von der Erde aus tun. 
 
+*[[C1-Lesen-T2-102-Text#^15|^]]* Gerade im [[fortgeschritten]]em Alter ist das ein nicht zu [[vernachlässigend]]er Aspekt, denn der Verlust von drei Kilo Muskeln bedeutete eine [[Verringerung]] des [[Energiegrundumsatz]]es um etwa 100 Kalorien pro Tag. ^15
+
+
 ---
-= [[voranschreiten]], [[weitergehen]], [[sich entwickeln]]
+= [[voranschreiten]], [[weitergehen]], [[sich entwickeln]], [[weitergehen]], [[Fortschritt]]
 ≈ [[sich verbessern]], [[sich entwickeln]], [[wachsen]]
 ≠ [[zurückbleiben]], [[stocken]], [[aufhören]]
 

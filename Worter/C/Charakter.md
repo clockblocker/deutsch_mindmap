@@ -1,2 +1,1 @@
-, [[Persönlichkeit]]
-, [[Char]], [[Tugend]], [[Integrität]], [[Haltung]]
+---> [[🗣️ Ingredient-Meinung]] <---

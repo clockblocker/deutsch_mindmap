@@ -5,9 +5,9 @@ Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[�
 
 *[[C1-Lesen-T4-101-Text#^23|^]]* Roboter können aber auch [[gezielte]] [[Vorarbeit]] [[leisten]], bevor eine bemannte Mission zum Mars oder zum Mond startet.
 
-[[0 checklist#^5|(q)]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]
+[[0 checklist#^5|^]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]
 
-[[2 Unter Druck nach oben#^22|(q)]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat.
+[[2 Unter Druck nach oben#^22|^]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat.
 
 Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[leisten]] und [[genießt]] das Leben. So stellen sich manche Leute das Leben in Frankreich vor. 
 

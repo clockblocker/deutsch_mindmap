@@ -6,7 +6,7 @@ Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und kein
 
 Sie [[behauptet]], dass sie die [[Zukunft]] sehen kann
 
-[[Eigenlob stinkt.md#^4|(q)]] „Ich bin der beste Radfahrer dieser Stadt“, [[behauptet]] Peter. Lisa [[verdreht]] die Augen. ^4
+[[Eigenlob stinkt.md#^4|^]] „Ich bin der beste Radfahrer dieser Stadt“, [[behauptet]] Peter. Lisa [[verdreht]] die Augen. ^4
 
 ---
 Synonyme: [[bekennen]], [[verkünden]], [[erklären]], [[versichern]], [[postulieren]], [[sagen]]

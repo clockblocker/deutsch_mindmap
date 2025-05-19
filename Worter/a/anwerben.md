@@ -1,7 +1,7 @@
 , [[wegschicken]]🤝 [[anwerben]], [ˈanˌvɛʁbn̩] | [[warb an]], haben [[angeworben]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^5|(q)]] In der Partei beschäftigte ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]] Menschen und Geld an und war öffentlich [[tätig]]. ^5
+[[1 Wer bin ich und was mache ich hier?#^5|^]] In der Partei beschäftigte ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]] Menschen und Geld an und war öffentlich [[tätig]]. ^5
 
 ---
 = [[rekrutieren]], [[einstellen]], [[werben]]

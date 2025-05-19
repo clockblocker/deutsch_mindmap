@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🤨 [[unangemessen]], [ˈʊnʔanɡəˌmeːsn̩](https://youglish.com/pronounce/unangemessen/german)
 
 ---

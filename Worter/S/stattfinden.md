@@ -4,7 +4,7 @@
  Das Studium findet jedoch `vor` [[Ort]] statt, und um daran teilzunehmen, benötige ich eine Bildungsfreistellung.
 
 
-ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. [[Texte/Misc/GPT#^1|(q)]]
+ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. [[Texte/Misc/GPT#^1|^]]
 
 ![[Section-Teil-2-Verständnis#^26|^]]
 

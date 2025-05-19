@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🧩 [[knapp]], [ˈknap]
 
 ---

@@ -5,7 +5,7 @@ sein [[gekommen]]
 ---
 Fahrt ihr im [[kommenden]] Sommer an die Nordsee?
 
-[[Einen Kater haben.md#^3|(q)]] Doch dann [[kommen|kamen]] immer mehr [[Freund|Freunde]] dazu, und am [[Ende]] [[landen|landeten]] alle auf einer [[cool|coolen]] [[Party]]. ^3
+[[Einen Kater haben.md#^3|^]] Doch dann [[kommen|kamen]] immer mehr [[Freund|Freunde]] dazu, und am [[Ende]] [[landen|landeten]] alle auf einer [[cool|coolen]] [[Party]]. ^3
 
 
 ---

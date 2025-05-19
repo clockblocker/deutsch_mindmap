@@ -28,4 +28,4 @@ D: der [[Prüfung]], den [[Prüfungen]]
 
 , [[Führerscheinprüfung]], [[Herausforderung]], [[Gesellenprüfung]], [[Vergleich]], [[Untersuchung]]
 , [[Lückentext]]
-, [[Schularbeit]]
+, [[Schularbeit]], [[überprüfen]]

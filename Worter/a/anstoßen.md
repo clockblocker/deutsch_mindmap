@@ -1,7 +1,7 @@
 🥂 [[anstoßen]], [ˈanˌʃtoːsn̩] | [[stieß an]], haben [[angestoßen]]
 
 ---
-[[9 Die Geschichte vom fliegenden Robert.md#^1|(q)]] Und der [[Hut]] [[fliegen|fliegt]] [[weit]] [[voran]],  
+[[9 Die Geschichte vom fliegenden Robert.md#^1|^]] Und der [[Hut]] [[fliegen|fliegt]] [[weit]] [[voran]],  
 [[anstoßen|stößt]] [[zuletzt]] am [[Himmel]] [[anstoßen|an]]. ^1
 
 ---

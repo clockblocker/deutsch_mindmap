@@ -1,7 +1,7 @@
 ✈️ [[verreisen]], [fɛɐ̯ˈʁaɪ̯zn] | [[verreiste]], sind [[verreist]]
 
 ---
-Ich schicke Dir eine Karte zu ‹[[Tannhäuser]]› nächsten Montag, von der ich keinen [[Gebrauch]] machen werde, da ich [[verreisen]] möchte. Vielleicht hast du [[Lust]], [[hinzugehen]]. [[17 zu inf#^19|(q)]]
+Ich schicke Dir eine Karte zu ‹[[Tannhäuser]]› nächsten Montag, von der ich keinen [[Gebrauch]] machen werde, da ich [[verreisen]] möchte. Vielleicht hast du [[Lust]], [[hinzugehen]]. [[17 zu inf#^19|^]]
 
 ---
 = [[reisen]], [[auf Reisen gehen]], [[wegfahren]], [[fortfahren]]

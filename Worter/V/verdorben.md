@@ -1,1 +1,1 @@
-, [[frisch]], [[verderben]], [[genießbar]], [[bessern]], [[Worter/essbar]]
+, [[frisch]], [[verderben]], [[genießbar]], [[bessern]], [[Worter/essbar]], [[rein]]

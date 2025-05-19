@@ -1,7 +1,7 @@
 💪 [[durchhalten]], [ˈdʊʁçˌhaltn̩] | [[hielt durch]], haben [[durchgehalten]]
 
 ---
-[[2 ADHD.md#^1|(q)]] Bei der Arbeit oder [[sonstigen]] Aktivitäten (z.B. Lesen, Fernsehen, Spiel) fällt es mir schwer, konzentriert [[durchzuhalten]]. ^2
+[[2 ADHD.md#^1|^]] Bei der Arbeit oder [[sonstigen]] Aktivitäten (z.B. Lesen, Fernsehen, Spiel) fällt es mir schwer, konzentriert [[durchzuhalten]]. ^2
 
 ---
 = [[aushalten]], [[ausdauern]], [[weitermachen]], [[aushalten]], [[durchmachen]]

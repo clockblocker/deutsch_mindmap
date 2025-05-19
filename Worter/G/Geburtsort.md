@@ -4,7 +4,7 @@
 die [[Geburtsorte]]
 
 ---
-[[16 Plusquamperfekt#^30|(q)]] Das Dali-Museum in seinem [[Geburtsort]] Figueras zeigt es am besten: ein richtiges Panoptikum surrealistischer [[Träume]].  ^30
+[[16 Plusquamperfekt#^30|^]] Das Dali-Museum in seinem [[Geburtsort]] Figueras zeigt es am besten: ein richtiges Panoptikum surrealistischer [[Träume]].  ^30
 
 , [[Geburt]]
 

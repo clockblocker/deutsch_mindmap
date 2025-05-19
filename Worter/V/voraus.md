@@ -6,7 +6,7 @@ Wir müssen unseren [[Gegnern]] immer [[einen]] [[Schritt]] [[voraus]] sein.
 *[[C1-Lesen-T4-101-Text#^16|^]]* Menschen sind Robotern [[weit]] [[voraus]], [[deshalb]] brauchen wir bemannte [[Flüge]]. ^16
 
 
-[[17 zu inf#^5|(q)]] Im [[Voraus]] vielen Dank. ^5
+[[17 zu inf#^5|^]] Im [[Voraus]] vielen Dank. ^5
 
 *Der Mohr [[voraus]] im Sonnenschein,*  
 *die Tintenbuben hinterdrein;*  

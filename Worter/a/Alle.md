@@ -1,7 +1,7 @@
 👥 [[Worter/A/Alle]], [ˈalə] | [[Artikelwörter]]
 
 ---
-[[Artikelwörter.md#^3|(q)]] - [[Worter/A/Alle]] – *Er ist hier mit allen Leuten bekannt.* ^3
+[[Artikelwörter.md#^3|^]] - [[Worter/A/Alle]] – *Er ist hier mit allen Leuten bekannt.* ^3
  
 
 ---

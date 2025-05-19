@@ -15,7 +15,7 @@ die [[Regeln]]
 
 In der [[Regel]] ist es gefährlich, wenn das Eis bricht, zum Beispiel auf einem zugefrorenen See. 
 
-[[2 prap.md#^15|(q)]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
+[[2 prap.md#^15|^]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
 
 ---
 Synonyme:

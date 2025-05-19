@@ -1,33 +1,13 @@
-🔵 der [[rücken]], [ˈʁʏkn̩]
-die [[rücken]]
-
----
-SAM: Nein danke, Nic - ich muss gehen! Aahh! Mein [[rücken]]!  
-Ich [[rücke]] dir die Daumen.
-
-
----
-Synonyme:
-- [[Wirbelsäule]], [[Kreuz]], [[Nacken]], [[Schulter]]
-
----
-Übersetzung: back
-
----
-Morpheme:
-[[rücken]]
-
----
-Einzigartige mögliche Formen: [[Rückens]], [[rücken]], [[rücken]], [[rücken]], [[rücken]], [[rücken]], [[rücken]], [[rücken]]
-
----
-#Substantiv #Maskulin, [[Ruck]], [[s1 e1]]
-
----
 🚌 [[rücken]], [ˈʁʏkən] | [[rückte]], haben/sein [[gerückt]]
 
 ---
 Ich [[rücke]] dir die Daumen.
+
+SAM: Nein danke, Nic - ich muss gehen! Aahh! Mein [[rücken]]!  
+Ich [[rücke]] dir die Daumen.
+
+*[[C1-Lesen-T2-102-Text#^7|^]]* Denn bereits wenige sehr kurzen [[Anstrengung]]en nicht selten viele Kalorien verbrauchen. ^7
+
 
 ---
 = [[bewegen]], [[verschieben]], [[schieben]]

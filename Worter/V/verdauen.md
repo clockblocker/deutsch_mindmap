@@ -1,7 +1,7 @@
 😤 [[verdauen]], [fɛɐ̯ˈdaʊ̯ən] | [[verdaut]], haben [[verdaut]]
 
 ---
-[[Keine Lust.md#^4|(q)]] *Ich habe keine Lust, etwas zu [[kauen]]*  
+[[Keine Lust.md#^4|^]] *Ich habe keine Lust, etwas zu [[kauen]]*  
 *Denn ich hab keine Lust, es zu [[verdauen]]*   ^4
 
 ---

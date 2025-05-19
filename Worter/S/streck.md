@@ -1,1 +1,1 @@
-, [[strecken]], [[Strecke]]
+, [[strecken]], [[Strecke]], [[Langstreckenlauf]]

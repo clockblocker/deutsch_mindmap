@@ -45,4 +45,4 @@ Einzigartige mögliche Formen:
 
 
 [[schwierig]][[einfachen]], [[schwer]], [[unbequem]], [[ernst]], [[einfach]]
-, [[bitterlich]], [[leichtsinnig]], [[tief]], [[hellblau]], [[erleichtern]], [[leichtern]], [[beschwert]], [[bequem]], [[schlank]], [[anspruchsvoll]], [[Erleichterung]], [[leichter gesagt als getan]]
+, [[bitterlich]], [[leichtsinnig]], [[tief]], [[hellblau]], [[erleichtern]], [[leichtern]], [[beschwert]], [[bequem]], [[schlank]], [[anspruchsvoll]], [[Erleichterung]], [[leichter gesagt als getan]], [[schweißtreibend]]

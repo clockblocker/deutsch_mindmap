@@ -12,7 +12,7 @@ b) Sein [[Holz]] ist sehr robust.
 *[[04-C1-Schreiben-T2-M#^3|^]]* Obwohl Sie den [[Hundebesitzer]] schon [[mehrmals]] [[darauf]] [[angesprochen]] haben, hat sich bis jetzt nichts [[geändert]]. ^3
 
 
-[[Die halbe Miete sein.md#^3|(q)]] Seit einiger Zeit ist Anja ein wenig [[nachdenklich]]. Daher [[ansprechen|spricht]] Fatima ihre Freundin in der Mittagspause darauf an. ^3
+[[Die halbe Miete sein.md#^3|^]] Seit einiger Zeit ist Anja ein wenig [[nachdenklich]]. Daher [[ansprechen|spricht]] Fatima ihre Freundin in der Mittagspause darauf an. ^3
 
 *So [[sprach]] sie ihren Liebsten [[an]]*  
 *Ob er es ihr steigen kann*

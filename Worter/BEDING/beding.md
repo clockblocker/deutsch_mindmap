@@ -1,1 +1,1 @@
-, [[Rahmenbedingung]]
+, [[Rahmenbedingung]], [[bedingen]]

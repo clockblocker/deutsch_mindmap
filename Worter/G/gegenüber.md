@@ -9,7 +9,7 @@ Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand [
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^8|^]]* _Nicht nur die Immigrantinnen und Immigranten fühlen sich schneller mit dem Land verbunden, wenn sie die Landessprache sprechen, auch die_ [[einheimische]] [[Bevölkerung]] _ist oft viel_ [[toleranter]] _den Menschen_ [[gegenüber]] _, die versuchen, die_ [[Zielsprache]] _zu erlernen. ^8
 
 
-[[2 ADHD.md#^1|(q)]] Ich bin [[unaufmerksam]] [[gegenüber]] Details oder mache [[Sorgfaltsfehler]] bei der Arbeit. ^1
+[[2 ADHD.md#^1|^]] Ich bin [[unaufmerksam]] [[gegenüber]] Details oder mache [[Sorgfaltsfehler]] bei der Arbeit. ^1
 
 
 Wir kaufen Blumen [[entweder]] im Geschäft [[gegenüber]] der [[Bibliothek]] oder in einem anderen Blumengeschäft gegenüber dem Kino.

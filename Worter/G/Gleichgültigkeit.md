@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+---> 📈 [[Grad-Vergleich]] <---
 ---> [[Ingredinet-Action-Nomen]] <---
 
 ---

@@ -1,7 +1,7 @@
 🤷 [[Versehen]], [fɛɐ̯ˈzeːən] | [[versah]], haben [[versehen]]
 
 ---
-[[17 zu inf#^12|(q)]] «Warum nach Australien?» fragte meine Frau. 
+[[17 zu inf#^12|^]] «Warum nach Australien?» fragte meine Frau. 
 «Aus [[Versehen]]», sagte ich.  ^12
 
 ---

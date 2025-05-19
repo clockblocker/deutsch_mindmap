@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 [[unterschiedlich]], [ˈʊntɛɐ̯ʃiːdlɪç] | [[Unterschied]]
 nicht [[gleich]]
 
@@ -7,7 +9,7 @@ Bei einem [[Streit]] gibt es [[unterschiedliche]] Meinungen.
 *[[C1-Lesen-T4-101-Text#^11|^]]* Menschen können im Gegensatz zu Robotern die Vielzahl von [[unterschiedlichen]] Informationen zwar langsamer, dafür aber oft auch besser, [[verarbeiten]]. ^11
 
 
-[[2 Unter Druck nach oben#^4|(q)]] Bei der Analyse des Aufstiegs einiger deutscher Topmanager wird [[deutlich]], dass der Weg nach oben sehr [[unterschiedlich]] aussehen kann. ^4
+[[2 Unter Druck nach oben#^4|^]] Bei der Analyse des Aufstiegs einiger deutscher Topmanager wird [[deutlich]], dass der Weg nach oben sehr [[unterschiedlich]] aussehen kann. ^4
 
 Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]
 
@@ -36,5 +38,4 @@ Neuter: [[unterschiedliches]], [[unterschiedlicheres]], [[unterschiedlichstes]]
 Plural: [[unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]  
 
 [[Unterschiedlichkeit]], [[unterschiedlich]], [[unterschiedlich sein]]
-[[andere]][[anders]], [[verschiedene]], [[gleich]], [[auseinander]], [[solche]], [[dieselbe]]
-, [[einziger]], [[Einheitliche]], [[gleichzeitig]], [[Unterschied]], [[unterscheiden]], [[ebenso]], [[gemischt]], [[abwechslungsreich]], [[separat]]
+[[andere]][[anders]], [[verschiedene]]

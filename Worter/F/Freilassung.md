@@ -1,1 +1,1 @@
-, [[Entlassung]], [[Verhaftungen]], [[entlassen]]
+, [[Entlassung]], [[Verhaftungen]], [[entlassen]], [[Verurteilung]], [[Haft]]

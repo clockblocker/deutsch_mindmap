@@ -1,7 +1,7 @@
 ✅ [[allgemeingültig]], [aˈlɡəˌmaɪ̯nˈɡʏltɪç] ≠ [[speziell]]
 
 ---
-[[2 Unter Druck nach oben#^5|(q)]] Fest steht nur eins: Sie [[Worter/T/Taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
+[[2 Unter Druck nach oben#^5|^]] Fest steht nur eins: Sie [[Worter/T/Taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
 
 
 ---

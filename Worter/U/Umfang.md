@@ -27,4 +27,4 @@ G: des [[Umfangs]], der [[Umfänge]]
 D: dem [[Umfang]], den [[Umfängen]]
 
 
-#Maskulin 
+#Maskulin , [[Taillenumfang]]

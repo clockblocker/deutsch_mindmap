@@ -1,1 +1,1 @@
-, [[Basiswert]], [[zugrunde]]
+, [[Basiswert]], [[zugrunde]], [[beruhen]]

@@ -1,1 +1,1 @@
-, [[bestätigen]], [[Geschenkbestätigung]]
+, [[bestätigen]], [[Geschenkbestätigung]], [[affirmierend]]

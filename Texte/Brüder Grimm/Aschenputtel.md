@@ -19,9 +19,9 @@ Sie nahmen ihm seine schönen Kleider weg, zogen ihm einen grauen, alten [[Kitte
 
 Abends, wenn es sich müde gearbeitet hatte, kam es in kein Bett, sondern mußte sich neben den [[Herd]] in die Asche legen. Und weil es darum immer [[staubig]] und [[schmutzig]] [[aussah]], [[nannten]] sie es Aschenputtel.
 
-[[Aschenputtel.md#^1|(q)]] Es trug sich zu, daß der Vater [[einmal]] in die Messe ziehen wollte, da fragte er die beiden Stieftöchter, was er ihnen [[mitbringen]] sollte.  ^1
+[[Aschenputtel.md#^1|^]] Es trug sich zu, daß der Vater [[einmal]] in die Messe ziehen wollte, da fragte er die beiden Stieftöchter, was er ihnen [[mitbringen]] sollte.  ^1
 
-[[Aschenputtel.md#^2|(q)]] Neben unserem Haus [[entsteht]] ein neues Gebäude. ^2
+[[Aschenputtel.md#^2|^]] Neben unserem Haus [[entsteht]] ein neues Gebäude. ^2
 
 Ich hab [[sagen|gesagt]]: [[aufstehen|steh]] [[aufstehen|auf]]!
 

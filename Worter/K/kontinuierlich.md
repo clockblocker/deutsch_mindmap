@@ -29,4 +29,4 @@ Einzigartige mögliche Formen:
 [[kontinuierlich]], [[kontinuierlichere]], [[kontinuierliche]], [[kontinuierliches]], [[kontinuierlichen]], [[kontinuierlichem]], [[kontinuierlicher]], [[kontinuierlichen]]
 [[kontinuierlicher]], [[kontinuierlicherer]], [[kontinuierlichere]], [[kontinuierlicheres]], [[kontinuierlicheren]], [[kontinuierlichetem]], [[kontinuierlicherer]], [[kontinuierlicheren]]
 [[kontinuierlichsten]], [[kontinuierlichster]], [[kontinuierlichste]], [[kontinuierlichstes]], [[kontinuierlichsten]], [[kontinuierlichstem]], [[kontinuierlichster]], [[kontinuierlichsten]]
-''', [[ständig]], [[langfristig]], [[durchgängig]], [[langanhaltend]]
+''', [[ständig]], [[langfristig]], [[durchgängig]], [[langanhaltend]], [[gleichmäßig]]

@@ -51,4 +51,4 @@ Adjektive: [[verringernd]], [[verringernder]], [[verringerndst]]
 
 
 
-, [[absinken]], [[abbauen]], [[verschlechtern]]
+, [[absinken]], [[abbauen]], [[verschlechtern]], [[hochtreiben]]

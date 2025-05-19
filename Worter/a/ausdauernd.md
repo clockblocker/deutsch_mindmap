@@ -1,1 +1,2 @@
-, [[geduldig]]
+💪 [[ausdauern]] | 😌 [[ausdauernd]]
+, [[Königsweg]]

@@ -3,9 +3,9 @@
 👋 [[aufgeben]], [ˈaʊ̯fˌgeːbm̩] | [[gab auf]], haben [[aufgegeben]]
 
 ---
-[[amazon.md#^7|(q)]] [[Bestellung]] [[aufgegeben]] ^7
+[[amazon.md#^7|^]] [[Bestellung]] [[aufgegeben]] ^7
 
-[[Eigenlob stinkt.md#^8|(q)]] „Du, das muss mein neues Deodorant sein. Ich kaufe morgen direkt ein besseres!“ Lisa [[aufgeben|gibt]] auf. Manche Menschen sind einfach [[unverbesserlich]]. ^8
+[[Eigenlob stinkt.md#^8|^]] „Du, das muss mein neues Deodorant sein. Ich kaufe morgen direkt ein besseres!“ Lisa [[aufgeben|gibt]] auf. Manche Menschen sind einfach [[unverbesserlich]]. ^8
 
  [[Aufgabe]], [[Hauptaufgabe]],
  
@@ -42,4 +42,4 @@ PI: [[aufgebend]], PII: [[aufgegeben]], Zu+inf: [[aufzugeben]]
 , [[zusammenbrechen]]
 , [[umkämpfen]]
 , [[beabsichtigen]]
-, [[Streben]], [[bemüht]], [[bestreben]], [[aufraffen]], [[standhalten]], [[bewältigen]], [[umsetzen]], [[initiieren]], [[kollabieren]], [[erwerben]], [[einnehmen]], [[durchsetzen]], [[anstreben]], [[verwirklichen]], [[weiterentwickeln]], [[lenken]], [[erobern]], [[verlangen]], [[betreiben]], [[zurückziehen]]
+, [[Streben]], [[bemüht]], [[bestreben]], [[aufraffen]], [[standhalten]], [[bewältigen]], [[umsetzen]], [[initiieren]], [[kollabieren]], [[erwerben]], [[einnehmen]], [[durchsetzen]], [[anstreben]], [[verwirklichen]], [[weiterentwickeln]], [[lenken]], [[erobern]], [[verlangen]], [[betreiben]], [[zurückziehen]], [[ausdauern]]

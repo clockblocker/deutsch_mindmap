@@ -2,7 +2,7 @@
 die [[Firmenname]]
 
 ---
-»Moment mal!« sagte der Kommissar. »Hier auf dem Boden [[aufliegen|liegt]] ein kleines Stück des Fernsehers mit dem [[Firmennamen]] auf. Ein neues Modell, sehen Sie. Und es war keine Zeitbombe drin.« [[15 genetiv#^2|(q)]]
+»Moment mal!« sagte der Kommissar. »Hier auf dem Boden [[aufliegen|liegt]] ein kleines Stück des Fernsehers mit dem [[Firmennamen]] auf. Ein neues Modell, sehen Sie. Und es war keine Zeitbombe drin.« [[15 genetiv#^2|^]]
 
 ---
 = [[Unternehmensname]]

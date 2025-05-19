@@ -3,6 +3,9 @@
 🔌 🔵 der [[Anschluss]], [ˈanʃlʊs](https://youglish.com/pronounce/Anschluss/german)
 
 ---
+*[[C1-Lesen-T2-102-Text#^29|^]]* Im [[Anschluss]] an die [[jeweilig]]en [[Einheit]]en wurde der Lac-Phe-Wert im Blut gemessen. ^29
+
+
 ![[Sprechen-T1#^4|^]]
 
 ---
@@ -14,7 +17,7 @@
 
 
 ---
-connection, link, attachment  
+connection, link, attachment, following
 соединение, подключение
 
 ---

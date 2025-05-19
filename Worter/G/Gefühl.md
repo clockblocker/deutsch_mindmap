@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 🟢 das [[Gefühl]], [gəˈfyːl]
 die [[Gefühle]]
 
@@ -27,6 +28,3 @@ Einzigartige mögliche Formen: [[Gefühls]], [[Gefühle]], [[Gefühlen]]
 ---
 #Substantiv #Neuter
 
-The dictionary entry follows the noun template, capturing the essential linguistic characteristics of the word "Gefühl". I chose a green emoji (🟢) to indicate its neutral grammatical gender, and included various linguistic details such as pronunciation, plural form, synonyms, translation, morphological breakdown, and possible inflected forms., [[Ahnung]], [[Eindruck]], [[Bewusstsein]]
-, [[Gefühlsausbruch]]
-, [[Selbstwertgefühl]], [[fühlen]], [[Stimmung]]

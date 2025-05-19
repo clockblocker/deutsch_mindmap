@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🔴 die [[Ungleichbehandlung]], [ˈʊnˌɡlaɪ̯çbəˌhandlʊŋ]
 die [[Ungleichbehandlungen]]
 

@@ -8,7 +8,7 @@ Die zweite Regel. [[Treiben]] Sie Sport.
 
 Du [[triebst]] mich in den [[Wahnsinn]]
 
-[[1 ADHD#^2|(q)]] 3. ist immer auf [[Achse]], wie von einem [[Motor]] [[getrieben]]. ^2
+[[1 ADHD#^2|^]] 3. ist immer auf [[Achse]], wie von einem [[Motor]] [[getrieben]]. ^2
 
 *Aber ihr, ihr beiden andern,*  
 *[[aufmachen|macht]] euch auf, mit uns zu [[wandern]],*  
@@ -44,4 +44,4 @@ Zu+infinitive: [[zu treiben]]
 ---
 [[Trieb]], [[Treiber]], [[Antrieb]], [[Treibstoff]], [[Treibhaus]], [[Treibjagd]], [[Windtreiben]]
 , [[paddeln]], [[schweben]] 
-, [[aufmachen]], [[windgetrieben]], [[betreiben]]
+, [[aufmachen]], [[windgetrieben]], [[betreiben]], [[hochtreiben]], [[schweißtreibend]]

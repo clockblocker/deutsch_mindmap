@@ -2,7 +2,7 @@
 die [[Gegenstände]]
 
 ---
-[[2 ADHD.md#^6|(q)]] Ich verlege wichtige [[Gegenstände]] (z.B. Schlüssel, Portemonnaie, Werkzeuge). ^6
+[[2 ADHD.md#^6|^]] Ich verlege wichtige [[Gegenstände]] (z.B. Schlüssel, Portemonnaie, Werkzeuge). ^6
 
 1. Ein Fahrrad, mit dem man größere [[Gegenstände]] transportieren kann: das [[Lastenrad]]
 

@@ -8,7 +8,7 @@ die [[Leiter]]
 	- [ ] der [[Leiter]] / die Leiterin einer Schule.
 	- [x] das [[Oberhaupt]] einer [[Gemeinde]].
 
-[[Die halbe Miete sein.md#^7|(q)]] Aber vielleicht könnte ich dir helfen. Ich kenne nämlich die [[Leiterin]] einer Kindertagesstätte ganz in deiner Nähe.“ ^7
+[[Die halbe Miete sein.md#^7|^]] Aber vielleicht könnte ich dir helfen. Ich kenne nämlich die [[Leiterin]] einer Kindertagesstätte ganz in deiner Nähe.“ ^7
 
 [[Behördenleiter]]
 

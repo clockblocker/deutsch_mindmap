@@ -3,7 +3,7 @@
 ---
 Um das Sofa herum [[stapeln]] sich alte Zeitungen, [[ungebügelte]] [[Wäsche]] und leere [[Getränkekisten]]. 
 
-[[17 zu inf#^16|(q)]] Ich [[überredete]] meine Frau, den Mantel ein wenig zu [[bügeln]], während ich mit Herrn Kolhaas ein Glas [[Sherry]] trank, und er mir von einigen Klavieren [[erzählte]], die er [[gestimmt]] hatte.  ^16
+[[17 zu inf#^16|^]] Ich [[überredete]] meine Frau, den Mantel ein wenig zu [[bügeln]], während ich mit Herrn Kolhaas ein Glas [[Sherry]] trank, und er mir von einigen Klavieren [[erzählte]], die er [[gestimmt]] hatte.  ^16
 
 ---
 Synonyme: [[plätten]], [[glätten]], [[falten]], [[glattmachen]], [[aufbereiten]]

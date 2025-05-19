@@ -1,3 +1,3 @@
-, [[Vergleich]], [[Rezension]]
-, [[Selbsteinschätzung]]
-, [[beurteilen]], [[Einschätzung]]
+---> [[🗣️ Ingredient-Meinung]] <---
+---> [[🗣️ Ingredient-Meinung]] <---
+

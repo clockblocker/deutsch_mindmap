@@ -26,4 +26,4 @@ Morphems:
 [[Blut]]
 
 ---
-#Substantiv #Neuter, [[Haut]]
+#Substantiv #Neuter, [[Haut]], [[Cholesterinwert]]

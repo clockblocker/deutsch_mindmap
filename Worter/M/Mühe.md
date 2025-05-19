@@ -1,15 +1,12 @@
-🔵 💪 die [[Mühe]], [ˈmyːə]
-die [[Mühen]]
+💪 die [[Mühe]], [ˈmyːə] | die [[Mühen]] | 💪 [[mühen]]
 
 ---
 Ohne [[Mühe]], lernt man keine [[Fremdsprache]]
 
 1. Sich (D) die [[Mühe]] geben.
 
-, [[Bemühung]], 💪 [[mühen]]
-
 ---
-= [[Anstrengung]], [[Arbeit]], [[Plage]]
+= [[Anstrengung]], [[Arbeit]], [[Plage]], [[Bemühung]]
 ≈ [[Kraftanwendung]], [[Aufgabe]], [[Last]]
 ≠ [[Leichtigkeit]], [[Entspannung]], [[Spaß]], [[Freude]]
 
@@ -27,3 +24,5 @@ D: der [[Mühe]], den [[Mühen]]
 
 ---
 [[mühselig]], [[mühen]], [[mühevoll]], [[bemühen]], [[bemüht]], [[Aufwand]]
+
+#Feminin 

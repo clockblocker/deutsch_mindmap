@@ -1,1 +1,1 @@
-, [[unterstützen]], [[Unterstützung]], [[zugunsten]], [[hilfsbereit]], [[studienbegleitend]], [[hilfreich]]
+, [[unterstützen]], [[Unterstützung]], [[zugunsten]], [[hilfsbereit]], [[studienbegleitend]], [[hilfreich]], [[mieterunterstützend]]

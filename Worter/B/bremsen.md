@@ -1,3 +1,5 @@
+---> [[🎯 Ingredient-Result-Verb]] <---
+
 🛑 [[bremsen]], [ˈbʁɛmzn̩](https://youglish.com/pronounce/bremsen/german) → [[bremste]] → [[gebremst]]
 
 ---
@@ -6,13 +8,12 @@ c) Intensives Training [[bremste]] den Hunger.
 ---
 = [[abbremsen]], [[verlangsamen]], [[stoppen]]
 ≈ [[verzögern]], [[hemmen]], [[blockieren]]
-≠ [[beschleunigen]], [[gas geben]], [[anfeuern]]
-, [[durchknallen]], [[Vollbremsung]], [[überfahren]], [[hemmen]], [[verlangsamen]]
+≠ [[beschleunigen]], [[gas geben]], [[anfeuern]], [[durchknallen]], [[Vollbremsung]], [[überfahren]], [[hemmen]], [[verlangsamen]]
 
 
 ---
 to brake  
-тормозить
+🛑 [[bremsen]] *(тормозить)*
 
 ---
 [[Bremse]], [[Bremsbelag]], [[Bremsweg]], [[Bremskraft]]

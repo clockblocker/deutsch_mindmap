@@ -5,19 +5,19 @@ DER HELLGRAUE FRÜHJAHRSMANTEL
 
 [[keymaker]] 
 
-[[17 zu inf#^1|(q)]] Vor zwei Monaten - wir saßen gerade beim Frühstück - kam ein Brief von meinem [[Vetter]] Eduard.  ^1
+[[17 zu inf#^1|^]] Vor zwei Monaten - wir saßen gerade beim Frühstück - kam ein Brief von meinem [[Vetter]] Eduard.  ^1
 
-[[17 zu inf#^2|(q)]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2
+[[17 zu inf#^2|^]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2
 
 Seitdem hat niemand etwas von ihm gehört. Der Brief kam aus Sidney in Australien. Ich öffnete ihn und las:
 
 Lieber Paul!
 
-[[17 zu inf#^3|(q)]] Kannst du mir meinen hellgrauen [[Frühjahrsmantel]] nachschicken? Ich kann ihn [[nämlich]] brauchen, weil es hier oft kalt ist, vor allem nachts. ^3
+[[17 zu inf#^3|^]] Kannst du mir meinen hellgrauen [[Frühjahrsmantel]] nachschicken? Ich kann ihn [[nämlich]] brauchen, weil es hier oft kalt ist, vor allem nachts. ^3
 
-[[17 zu inf#^4|(q)]] In der linken Tasche ist ein «Taschenbuch für [[Pilzsammler]]». Das kannst du [[behalten]]. [[Essbare]] [[Pilze]] gibt es hier nämlich nicht. ^4
+[[17 zu inf#^4|^]] In der linken Tasche ist ein «Taschenbuch für [[Pilzsammler]]». Das kannst du [[behalten]]. [[Essbare]] [[Pilze]] gibt es hier nämlich nicht. ^4
 
-[[17 zu inf#^5|(q)]] Im [[Voraus]] vielen Dank. ^5
+[[17 zu inf#^5|^]] Im [[Voraus]] vielen Dank. ^5
 
 *Mit herzlichen Grüßen*
 *Dein Eduard*
@@ -26,19 +26,19 @@ Ich sagte zu meiner Frau: «Ich habe einen Brief von meinem Vetter Eduard aus Au
 
 «Dass er seinen hellgrauen Mantel braucht und dass es in Australien keine essbaren Pilze gibt.» - «Dann soll er doch etwas anderes essen», sagte sie. - «Da hast du Recht», sagte ich.
 
-[[17 zu inf#^6|(q)]] Später kam der [[Klavierstimmer]].  ^6
+[[17 zu inf#^6|^]] Später kam der [[Klavierstimmer]].  ^6
 
-[[17 zu inf#^7|(q)]] Er war ein etwas [[zerstreuter]] Mann, ein wenig [[weltfremd]] sogar, aber er war sehr nett, und natürlich sehr musikalisch.  ^7
+[[17 zu inf#^7|^]] Er war ein etwas [[zerstreuter]] Mann, ein wenig [[weltfremd]] sogar, aber er war sehr nett, und natürlich sehr musikalisch.  ^7
 
-[[17 zu inf#^8|(q)]] Er [[stimmte]] nicht nur Klaviere, sondern reparierte auch [[Saiteninstrument]] und gab [[Blockflötenunterricht]].  ^8
+[[17 zu inf#^8|^]] Er [[stimmte]] nicht nur Klaviere, sondern reparierte auch [[Saiteninstrument]] und gab [[Blockflötenunterricht]].  ^8
 
 Er hieß Kohlaas. Als ich vom Tisch aufstand, hörte ich ihn schon im Nebenzimmer eine Melodie spielen.
 
-In der Garderobe sah ich den hellgrauen Mantel hängen. [[17 zu inf#^9|(q)]] Meine Frau hatte ihn also aus dem [[Keller]] [[geholt]]. ^9
+In der Garderobe sah ich den hellgrauen Mantel hängen. [[17 zu inf#^9|^]] Meine Frau hatte ihn also aus dem [[Keller]] [[geholt]]. ^9
 
-[[17 zu inf#^10|(q)]] Ich [[einpacken|packte]] den Mantel [[sorgsam]] ein, trug das Paket zur Post und [[abschicken|schickte]] es ab.  ^10
+[[17 zu inf#^10|^]] Ich [[einpacken|packte]] den Mantel [[sorgsam]] ein, trug das Paket zur Post und [[abschicken|schickte]] es ab.  ^10
 
-[[17 zu inf#^11|(q)]] Erst dann [[einfallen|fiel]] mir ein, dass ich vergessen hatte, das Pilzbuch herauszunehmen. Aber ich bin kein Pilzsammler. ^11
+[[17 zu inf#^11|^]] Erst dann [[einfallen|fiel]] mir ein, dass ich vergessen hatte, das Pilzbuch herauszunehmen. Aber ich bin kein Pilzsammler. ^11
 
 Ich ging noch ein bisschen spazieren. Es regnete leise, die Straßen waren nass. Auch ich bin vom Regen nass geworden. Als ich endlich nach Hause kam, sah ich den Klavierstimmer und meine Frau etwas suchen.
 
@@ -47,17 +47,17 @@ Ich ging noch ein bisschen spazieren. Es regnete leise, die Straßen waren nass.
 «Wir suchen Herrn Kolhaas' Mantel», sagte meine Frau.
 
 «Ach so», sagte ich fast ruhig, «ich habe ihn gerade nach Australien geschickt.»
-[[17 zu inf#^12|(q)]] «Warum nach Australien?» fragte meine Frau. 
+[[17 zu inf#^12|^]] «Warum nach Australien?» fragte meine Frau. 
 «Aus [[Versehen]]», sagte ich.  ^12
 
-[[17 zu inf#^13|(q)]] «Dann will ich nicht weiter [[stören]]», sagte Herr Kohlaas und wollte schon [[von]] uns [[Abschied]] [[nehmen]], aber ich sagte: 
+[[17 zu inf#^13|^]] «Dann will ich nicht weiter [[stören]]», sagte Herr Kohlaas und wollte schon [[von]] uns [[Abschied]] [[nehmen]], aber ich sagte: 
 «Warten Sie, Sie können den Mantel von meinem Vetter bekommen.» ^13
 
-[[17 zu inf#^14|(q)]] Was konnte ich ihm [[sonst]] [[anbieten]]? Ich ging in den Keller und fand in einem alten Koffer den hellgrauen Mantel meines Vetters.  ^14
+[[17 zu inf#^14|^]] Was konnte ich ihm [[sonst]] [[anbieten]]? Ich ging in den Keller und fand in einem alten Koffer den hellgrauen Mantel meines Vetters.  ^14
 
-[[17 zu inf#^15|(q)]] Er war etwas [[zerknittert]] - [[schließlich]] hatte er zwölf Jahre im Koffer gelegen - aber sonst in gutem Zustand. ^15
+[[17 zu inf#^15|^]] Er war etwas [[zerknittert]] - [[schließlich]] hatte er zwölf Jahre im Koffer gelegen - aber sonst in gutem Zustand. ^15
 
-[[17 zu inf#^16|(q)]] Ich [[überredete]] meine Frau, den Mantel ein wenig zu [[bügeln]], während ich mit Herrn Kolhaas ein Glas [[Sherry]] trank, und er mir von einigen Klavieren [[erzählte]], die er [[gestimmt]] hatte.  ^16
+[[17 zu inf#^16|^]] Ich [[überredete]] meine Frau, den Mantel ein wenig zu [[bügeln]], während ich mit Herrn Kolhaas ein Glas [[Sherry]] trank, und er mir von einigen Klavieren [[erzählte]], die er [[gestimmt]] hatte.  ^16
 
 Dann zog er den Mantel an, grüßte uns und ging.
 
@@ -65,7 +65,7 @@ Wenige Tage später bekamen wir ein Paket. Darin waren Pilze, etwa ein Kilo. Auf
 
 Lieber Herr Holle (so heiße ich),
 
-[[17 zu inf#^17|(q)]] Da Sie so nett waren, mir ein «[[Taschenbuch]] für Pilzsammler» in die Tasche zu stecken ^17
+[[17 zu inf#^17|^]] Da Sie so nett waren, mir ein «[[Taschenbuch]] für Pilzsammler» in die Tasche zu stecken ^17
 
 , möchte ich Ihnen als Dank das Resultat meiner ersten Pilzsuche schicken und hoffe, dass es Ihnen schmecken wird. 
 
@@ -73,31 +73,31 @@ Außerdem fand ich in der anderen Tasche einen Brief, den Sie mir [[zufällig]] 
 
  *Ihr A.M. Kohlaas*
 
-Das war der Brief, den mein Vetter vor zwölf Jahren in den Kasten stecken wollte. Er war an Herrn Bernhard Haase, den Freund meines Vetters.[[17 zu inf#^18|(q)]] Ich öffnete den [[Umschlag]]. Eine Theaterkarte und ein [[Zettel]] fielen heraus. ^18
+Das war der Brief, den mein Vetter vor zwölf Jahren in den Kasten stecken wollte. Er war an Herrn Bernhard Haase, den Freund meines Vetters.[[17 zu inf#^18|^]] Ich öffnete den [[Umschlag]]. Eine Theaterkarte und ein [[Zettel]] fielen heraus. ^18
 
 Auf dem Zettel stand:
 
 Lieber Bernhard!
 
-[[17 zu inf#^19|(q)]] Ich schicke Dir eine Karte zu ‹[[Tannhäuser]]› nächsten Montag, von der ich keinen [[Gebrauch]] machen werde, da ich [[verreisen]] möchte. Vielleicht hast du [[Lust]], [[hinzugehen]]. ^19
+[[17 zu inf#^19|^]] Ich schicke Dir eine Karte zu ‹[[Tannhäuser]]› nächsten Montag, von der ich keinen [[Gebrauch]] machen werde, da ich [[verreisen]] möchte. Vielleicht hast du [[Lust]], [[hinzugehen]]. ^19
 
 *Mit herzlichen Grüßen, dein Eduard*
 
-Zum Mittagessen gab es die Pilze. [[17 zu inf#^20|(q)]] «Die Pilze habe ich auf dem Tisch gefunden. Woher kommen sie [[eigentlich]]?» ^20
+Zum Mittagessen gab es die Pilze. [[17 zu inf#^20|^]] «Die Pilze habe ich auf dem Tisch gefunden. Woher kommen sie [[eigentlich]]?» ^20
 
-fragte meine Frau. «Herr Kohlaas hat sie geschickt.» - [[17 zu inf#^21|(q)]] «Wie nett von ihm. Es war doch gar nicht [[nötig]] gewesen.» ^21
+fragte meine Frau. «Herr Kohlaas hat sie geschickt.» - [[17 zu inf#^21|^]] «Wie nett von ihm. Es war doch gar nicht [[nötig]] gewesen.» ^21
 
-[[17 zu inf#^22|(q)]] «[[Nötig]] nicht,» sagte ich, «aber es ist [[eben]] sehr nett.» ^22
+[[17 zu inf#^22|^]] «[[Nötig]] nicht,» sagte ich, «aber es ist [[eben]] sehr nett.» ^22
 
 «Hoffentlich sind sie nicht giftig. - Übrigens habe ich auch eine Theaterkarte gefunden. Was wird denn gespielt?»
 
-[[17 zu inf#^23|(q)]] «Die Karte, die du gefunden hast,» sagte ich, «ist zu einer [[Aufführung]] von ‹Tannhäuser›, aber die war vor zwölf Jahren!» ^23
+[[17 zu inf#^23|^]] «Die Karte, die du gefunden hast,» sagte ich, «ist zu einer [[Aufführung]] von ‹Tannhäuser›, aber die war vor zwölf Jahren!» ^23
 
 «Na ja,» sagte meine Frau, «zu dieser Oper "Tannhäuser" habe ich überhaupt keine Lust.»
 
-[[17 zu inf#^24|(q)]] Heute morgen kam wieder ein Brief von Eduard mit der Bitte, ihm eine [[Tenorblockflöte]] zu schicken. ^24
+[[17 zu inf#^24|^]] Heute morgen kam wieder ein Brief von Eduard mit der Bitte, ihm eine [[Tenorblockflöte]] zu schicken. ^24
 
-[[17 zu inf#^25|(q)]] Er hat in dem Kohlaas' Mantel ein Buch zur [[Erlernung]] des Blockflötenspiels gefunden und wollte jetzt spielen lernen. Aber es gab keine Flöten in Australien. ^25
+[[17 zu inf#^25|^]] Er hat in dem Kohlaas' Mantel ein Buch zur [[Erlernung]] des Blockflötenspiels gefunden und wollte jetzt spielen lernen. Aber es gab keine Flöten in Australien. ^25
 
 «Wieder ein Brief von Eduard,» sagte ich zu meiner Frau.
 
@@ -242,15 +242,15 @@ Ich habe vergessen, **den Kollegen anzurufen**.
 Unser Chef hat vergessen, dem Psychologen und dem Experten persönlich für ihre gute Arbeit zu danken
 1. Наш знакомый надеется в следующем году хорошо провести отпуск в Испании.
  Unser [[Bekannter]] hofft, im nächsten Jahr einen schönen Urlaub in Spanien zu [[verbringen]] 
-2. Доктор тол Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
+2. Доктор тол Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|^]]
 ько что начал обследовать этого ребенка. Der Doctor hat jetzt [[angefangen]], das Kind zu untersuchen
 3. Наши соседи после Рождества неожиданно прекратили заниматься спортом.
 Unsere Nachbarn haben nach Weihnachten überraschend aufgehört, Sport zu treiben.
 
-[[17 zu inf.md#^26|(q)]]  Unsere [[Nachbaren]] nach Weihnachten überraschend aufgehört Sporten zu treiben ^26
+[[17 zu inf.md#^26|^]]  Unsere [[Nachbaren]] nach Weihnachten überraschend aufgehört Sporten zu treiben ^26
 
 _[[Kreide]]_
- Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|(q)]]
+ Unsere Nachbaren nach Weihnachten überraschend aufgehört Sporten zu treiben [[17 zu inf.md#^26|^]]
 
 
  Unsere nachbaren haben nach Weihnachten überraschend aufgehört Sport zu treiben 

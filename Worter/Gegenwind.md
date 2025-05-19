@@ -1,7 +1,7 @@
 🌬️ der [[Gegenwind]], [ˈgeːɡn̩vɪnt]
 
 ---
-[[BEI MAISCHBERGER.md#^3|(q)]] Ihre Kritik an Russland habe zu starkem [[Gegenwind]] geführt. ^3
+[[BEI MAISCHBERGER.md#^3|^]] Ihre Kritik an Russland habe zu starkem [[Gegenwind]] geführt. ^3
 
 ---
 = [[Widerstand]], [[Hindernis]], [[Schwierigkeit]]

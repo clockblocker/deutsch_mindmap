@@ -37,4 +37,4 @@ Zu+infinifive: [[anzustellen]]
 [[anstellen]] - [[an]] = [[stellen]]
 
 ---
-[[Anstellung]], [[Angestellter]], [[Angestellte]], [[Anstellungsvertrag]], [[Anstellungsbedingungen]]
+[[Anstellung]], [[Angestellter]], [[Angestellte]], [[Anstellungsvertrag]], [[Anstellungsbedingungen]], [[emeritieren]]

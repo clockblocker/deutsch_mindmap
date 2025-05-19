@@ -7,7 +7,7 @@ Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 Niemand ist ohne [[Schuld]].
 
 Es war nur seine [[Schuld]]. Jetzt lag der Buddha unten im Wasser und lächelte.
- [[14 perfekt#^5|(q)]]
+ [[14 perfekt#^5|^]]
 
 Ist es jetzt noch meine [[Schuld]], ja?!
 [[SCHULDSCHEIN]]

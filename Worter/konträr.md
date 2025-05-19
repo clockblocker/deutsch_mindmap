@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 ↔️ [[konträr]], [kɔnˈtʁɛːɐ̯](https://youglish.com/pronounce/konträr/german)
 
 ---

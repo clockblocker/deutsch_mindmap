@@ -2,7 +2,7 @@
 die [[Bedeckungen]]
 
 ---
-[[nackt.md#^3|(q)]]     ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]] ^3
+[[nackt.md#^3|^]]     ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]] ^3
 
 , [[Decke]]
 

@@ -1,14 +1,14 @@
 👉 [[ablenken]], [ˈapˌlɛŋkn̩] | [[lenkte ab]], haben [[abgelenkt]]
 
 ---
-[[1 ADHD#^11|(q)]] ist beim [[Versuch]], sich zu konzentrieren, leicht [[abgelenkt]] durch Dinge, die sie sieht oder hört. ^11
+[[1 ADHD#^11|^]] ist beim [[Versuch]], sich zu konzentrieren, leicht [[abgelenkt]] durch Dinge, die sie sieht oder hört. ^11
 
 *[[C1-Lesen-T2-101-Text#^8|^]]* Eine aktuelle [[Untersuchung]] zu diesem Thema, die jüngst in einer deutschen Zeitschrift [[veröffentlicht]] wurde, hat ergeben: Kaufen oder schenken wir unseren Kindern zu viele Spielsachen, leidet deren Kreativität sowie die Spielqualität und die Kinder werden leichter [[abgelenkt]]. ^8
 
 
-[[2 ADHD.md#^6|(q)]] Ich lasse mich bei [[Tätigkeiten]] leicht [[ablenken]]. ^6
+[[2 ADHD.md#^6|^]] Ich lasse mich bei [[Tätigkeiten]] leicht [[ablenken]]. ^6
 
-[[1 ADHD#^27|(q)]] ist [[ablenkbar]], wenn um sie herum Dinge geschehen. ^27
+[[1 ADHD#^27|^]] ist [[ablenkbar]], wenn um sie herum Dinge geschehen. ^27
 
 ---
 = [[zerstreuen]], [[distrahieren]], [[abweichen]], [[wegdrehen]],  [[zerstreut]], [[zusteuern]],

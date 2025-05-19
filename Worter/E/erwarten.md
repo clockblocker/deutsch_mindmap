@@ -6,7 +6,7 @@ Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu 
 *[[001-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
 
 
-[[1 ADHD#^5|(q)]] steht auf, obwohl Sitzenbleiben [[erwartet]] wird. ^5
+[[1 ADHD#^5|^]] steht auf, obwohl Sitzenbleiben [[erwartet]] wird. ^5
 
 
 ---

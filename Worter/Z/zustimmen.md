@@ -61,4 +61,4 @@ sie, [[stimmen zu]], [[stimmten zu]], [[stimmen zu]], [[stimmten zu]], [[stimmen
 Adjektive: [[zustimmend]], [[zustimmender]], [[zustimmendst]]
 
 ---
-[[zustimmender]], [[zustimmendes]], [[zustimmende]], [[zustimmenden]], [[zustimmendem]], [[zustimmenderer]], [[zustimmenderes]], [[zustimmendere]], [[zustimmenderen]], [[zustimmenderem]], [[zustimmendster]], [[zustimmendstes]], [[zustimmendste]], [[zustimmendsten]], [[zustimmendstem]]
+[[zustimmender]], [[zustimmendes]], [[zustimmende]], [[zustimmenden]], [[zustimmendem]], [[zustimmenderer]], [[zustimmenderes]], [[zustimmendere]], [[zustimmenderen]], [[zustimmenderem]], [[zustimmendster]], [[zustimmendstes]], [[zustimmendste]], [[zustimmendsten]], [[zustimmendstem]], [[absprechen]]

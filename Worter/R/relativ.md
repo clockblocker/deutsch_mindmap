@@ -28,3 +28,4 @@ P: [[relativen]], [[relativeren]], [[relativsten]]
 [[Relativität]], [[relativieren]], [[relativ zu]], [[Relativismus]], [[relativisch]]
 
 [[völlig]], [[ziemlich]]
+, [[relativierend]]

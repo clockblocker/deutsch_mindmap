@@ -1,8 +1,11 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+---> 💥 [[Grad-Intensität]] <---
+
 🧐 [[offensichtlich]], [ˈɔfn̩zɪçtlɪç]
 nicht [[verborgen]]
 
 ---
-  Fahren sie [[offensichtlich]] von zu Hause in den Klub? Keine Ahnung. Sie kommen sehr spät nach Hause 
+Fahren sie [[offensichtlich]] von zu Hause in den Klub? Keine Ahnung. Sie kommen sehr spät nach Hause 
 
 ---
 = [[deutlich]], [[klar]], [[ersichtlich]]
@@ -10,7 +13,7 @@ nicht [[verborgen]]
 ≠ [[verborgen]], [[undeutlich]], [[unklar]], [[mehrdeutig]]
 
 ---
-obvious, evident, clear
+*(obvious, evident, clear)*
 
 ---
 [[offen]]|[[sicht]]|[[lich]]
@@ -28,4 +31,4 @@ P: [[offensichtlichen]], [[offensichtlicheren]], [[offensichtlichsten]]
 [[Sicht]], [[sehen]], [[offensichtlichkeit]], [[ersichtlich]], [[unübersehbar]]
 
 , [[offensichtlich]], [[scheinbar]], [[deutlich]], [[Unbekannten]], [[geheimnisvolle]]
-, [[erkennbar]], [[natürlich]], [[bemerkbar]], [[eklatant]], [[unbestreitbar]]
+, [[erkennbar]], [[natürlich]], [[bemerkbar]], [[eklatant]], [[unbestreitbar]], [[sichtbar]], [[zweideutig]]

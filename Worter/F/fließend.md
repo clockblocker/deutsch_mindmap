@@ -6,7 +6,7 @@ Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^4|^]]* _Allerdings würde das bedeuten, dass es für alle_ [[Beamten]] [[Voraussetzung]] _wäre,_ [[fließend]] _Englisch zu_ [[beherrschen]] _. ^4
 
 
-[[2 Unter Druck nach oben#^10|(q)]] Die [[üblichen]] [[Voraussetzungen]] [[erfüllen]] die Bewerber beim Nivea-Konzern [[ohnehin]] meistens – eine gute Universität oder Business-School, Auslandspraktika, [[fließendes]] Englisch und noch ein paar [[zusätzliche]] Zertifikate. ^10
+[[2 Unter Druck nach oben#^10|^]] Die [[üblichen]] [[Voraussetzungen]] [[erfüllen]] die Bewerber beim Nivea-Konzern [[ohnehin]] meistens – eine gute Universität oder Business-School, Auslandspraktika, [[fließendes]] Englisch und noch ein paar [[zusätzliche]] Zertifikate. ^10
 
 
 ---

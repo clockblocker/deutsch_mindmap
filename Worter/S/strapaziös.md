@@ -1,1 +1,1 @@
-, [[anstrengend]]
+, [[anstrengend]], [[schweißtreibend]]

@@ -1,1 +1,1 @@
-, [[Mehrheit]], [[Übergewichtigkeit]], [[Fettleibigkeit]]
+, [[Mehrheit]], [[Übergewichtigkeit]], [[Fettleibigkeit]], [[Traumgewicht]], [[übergewichtig]]

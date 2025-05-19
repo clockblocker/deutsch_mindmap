@@ -32,5 +32,5 @@ Einzigartige mögliche Formen:
 [[Vorstellungen]], [[Vorstellungen]]
 
 ---
-, [[glaub]], [[Aussicht]], [[Gedanke]]
+, [[Glaub]], [[Aussicht]], [[Gedanke]]
 , [[Eindruck]], [[Auftritt]], [[Begriff]], [[Gehaltsvorstellungen]], [[Aufführung]], [[Pitch]]

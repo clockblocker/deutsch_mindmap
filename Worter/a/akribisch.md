@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🧐 [[akribisch]], [aˈkʁiːbɪʃ](https://youglish.com/pronounce/akribisch/german)
 
 ---

@@ -73,4 +73,4 @@ sie, [[stellen ein]], [[stellten ein]], [[stellen ein]], [[stellten ein]], [[ste
 Adjektive: [[einstellend]], [[einstellender]], [[einstellendst]]
 
 ---
-[[einstellender]], [[einstellendes]], [[einstellende]], [[einstellenden]], [[einstellendem]], [[einstellenderer]], [[einstellenderes]], [[einstellendere]], [[einstellenderen]], [[einstellenderem]], [[einstellendster]], [[einstellendstes]], [[einstellendste]], [[einstellendsten]], [[einstellendstem]], [[entlassen]], [[betreiben]]
+[[einstellender]], [[einstellendes]], [[einstellende]], [[einstellenden]], [[einstellendem]], [[einstellenderer]], [[einstellenderes]], [[einstellendere]], [[einstellenderen]], [[einstellenderem]], [[einstellendster]], [[einstellendstes]], [[einstellendste]], [[einstellendsten]], [[einstellendstem]], [[entlassen]], [[betreiben]], [[emeritieren]]

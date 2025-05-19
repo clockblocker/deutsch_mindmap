@@ -12,15 +12,15 @@ Und wenn es keine entscheidende Wende im Bereich der Plastikprodukte gibt, könn
 
 Für einen kleinen Lichtblick bei der Bekämpfung der Plastikberge sorgen einige Erfindungen im Bereich der Verpackungsindustrie. Schon seit Längerem suchen Wissenschaftler nach neuen Materialien aus nachhaltigen natürlichen Ressourcen, die biologisch komplett abbaubar sind.
 
-[[kse.md#^3|(q)]] Einen [[interessanten]] Ansatz haben z.B. Forscher des Georgia Institute of Technology. Sie verwendeten als Ausgangsmaterialien für ihr neues Produkt Krabbenschalen und Baumfasern. ^3
+[[kse.md#^3|^]] Einen [[interessanten]] Ansatz haben z.B. Forscher des Georgia Institute of Technology. Sie verwendeten als Ausgangsmaterialien für ihr neues Produkt Krabbenschalen und Baumfasern. ^3
 
-[[kse.md#^3|(q)]] Einen [[interessant|interessanten]] [[Ansatz]] haben [[zum Beispiel|z.B.]] [[Forscher]] des Georgia Institute of Technology. Sie [[verwenden|verwendeten]] als [[Ausgangsmaterial|Ausgangsmaterialien]] für ihr [[neu|neues]] [[Produkt]] [[Krabbenschale|Krabbenschalen]] und [[Baumfaser|Baumfasern]]. ^3
+[[kse.md#^3|^]] Einen [[interessant|interessanten]] [[Ansatz]] haben [[zum Beispiel|z.B.]] [[Forscher]] des Georgia Institute of Technology. Sie [[verwenden|verwendeten]] als [[Ausgangsmaterial|Ausgangsmaterialien]] für ihr [[neu|neues]] [[Produkt]] [[Krabbenschale|Krabbenschalen]] und [[Baumfaser|Baumfasern]]. ^3
 
 
 
-[[kse.md#^2|(q)]] Einen [[interessant|interessanten]] [[Ansatz]] haben [[zum Beispiel|z.B.]] [[Forscher]] des Georgia Institute of Technology. Sie [[verwenden|verwendeten]] als [[Ausgangsmaterial|Ausgangsmaterialien]] für ihr [[neu|neues]] [[Produkt]] [[Krabbenschale|Krabbenschalen]] und [[Baumfaser|Baumfasern]]. ^1
+[[kse.md#^2|^]] Einen [[interessant|interessanten]] [[Ansatz]] haben [[zum Beispiel|z.B.]] [[Forscher]] des Georgia Institute of Technology. Sie [[verwenden|verwendeten]] als [[Ausgangsmaterial|Ausgangsmaterialien]] für ihr [[neu|neues]] [[Produkt]] [[Krabbenschale|Krabbenschalen]] und [[Baumfaser|Baumfasern]]. ^1
 
-[[kse.md#^1|(q)]] [[Einen]] [[interessant|interessanten]] [[Ansatz]] [[haben]] [[z.B.]] [[Forscher]] des Georgia Institute of Technology. Sie [[verwendeten]] als [[Ausgangsmaterial|Ausgangsmaterialien]] für ihr [[neu|neues]] [[Produkt]] [[Krabbenschale|Krabbenschalen]] und [[Baumfaser|Baumfasern]]. ^2
+[[kse.md#^1|^]] [[Einen]] [[interessant|interessanten]] [[Ansatz]] [[haben]] [[z.B.]] [[Forscher]] des Georgia Institute of Technology. Sie [[verwendeten]] als [[Ausgangsmaterial|Ausgangsmaterialien]] für ihr [[neu|neues]] [[Produkt]] [[Krabbenschale|Krabbenschalen]] und [[Baumfaser|Baumfasern]]. ^2
 
 
 Einen interessanten Ansatz haben z.B. Forscher des Georgia Institute of Technology. Sie verwendeten als Ausgangsmaterialien für ihr neues Produkt Krabbenschalen und Baumfasern. 

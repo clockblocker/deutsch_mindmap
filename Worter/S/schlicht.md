@@ -1,7 +1,7 @@
 😌 [[schlicht]], [ʃlɪçt]
 
 ---
-[[2 Unter Druck nach oben#^11|(q)]] Die Personalchefs großer deutscher Unternehmen, so [[ergaben]] [[Befragungen]] des SPIEGEL, halten Examensnoten, Titel und ==[[schlichtes]]== [[Fachwissen]] für wenig [[aussagekräftig]]. ^11z
+[[2 Unter Druck nach oben#^11|^]] Die Personalchefs großer deutscher Unternehmen, so [[ergaben]] [[Befragungen]] des SPIEGEL, halten Examensnoten, Titel und ==[[schlichtes]]== [[Fachwissen]] für wenig [[aussagekräftig]]. ^11z
 
 ---
 = [[einfach]], [[simpel]], [[bescheiden]], 

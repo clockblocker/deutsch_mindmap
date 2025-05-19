@@ -1,2 +1,2 @@
 , [[tadeln]], [[Bundesverdienstkreuz]], [[Verdienstorden]], [[vorwerfen]]
-, [[Lob]]
+, [[Lob]], [[Auszeichnung]]

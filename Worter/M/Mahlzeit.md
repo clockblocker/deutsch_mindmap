@@ -28,4 +28,4 @@ A: die [[Mahlzeit]], die [[Mahlzeiten]]
 G: der [[Mahlzeit]], der [[Mahlzeiten]]
 D: der [[Mahlzeit]], den [[Mahlzeiten]]
 
-#Feminin , [[Büfett]]
+#Feminin , [[Büfett]], [[Zehrung]]

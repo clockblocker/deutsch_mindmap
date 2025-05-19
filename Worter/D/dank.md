@@ -3,7 +3,7 @@
 🔗 [[dank]], [daŋk]
 
 ---
-[[2 prap.md#^10|(q)]] [[dank]] seinem [[beherzten]] [[Eingreifen]] / dank seines beherzten Eingreifens ^10
+[[2 prap.md#^10|^]] [[dank]] seinem [[beherzten]] [[Eingreifen]] / dank seines beherzten Eingreifens ^10
 
 ---
 = [[aufgrund]], [[wegen]], [[infolge]]

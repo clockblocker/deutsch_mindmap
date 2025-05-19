@@ -1,1 +1,1 @@
-, [[paddeln]]
+, [[paddeln]], [[Strampeln]]

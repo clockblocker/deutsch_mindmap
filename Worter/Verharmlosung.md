@@ -5,7 +5,7 @@ die [[Verharmlosungen]]
 4 Vor der [[Verharmlosung]] des [[Klimawandels]] wird [[gewarnt]].
 
 ---
-= [[Bagatellisierung]], [[Verkleinerung]], [[Beschönigung]]
+= [[Bagatellisierung]], [[Verkleinerung]], [[Beschönigung]], [[Entwarnung]]
 ≈ [[Relativierung]], [[Untertreibung]], [[Täuschung]]
 ≠ [[Übertreibung]], [[Verschärfung]], [[Vergrößerung]]
 

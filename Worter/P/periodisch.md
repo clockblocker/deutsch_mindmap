@@ -1,1 +1,1 @@
-, [[regelmäßig]], [[allwöchentlich]], [[langfristig]], [[zeitlich]]
+, [[regelmäßig]], [[allwöchentlich]], [[langfristig]], [[zeitlich]], [[zeitweise]]

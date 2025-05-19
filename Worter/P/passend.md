@@ -1,7 +1,12 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 👍 [[passend]], [ˈpasn̩t] ≠ [[unpassend]]
 
 ---
-[[1 Präpositionen Übungen.md#^1|(q)]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1
+[[1 Präpositionen Übungen.md#^1|^]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1
+
+
+*[[C1-Hoehen-T1-201-Text#^6|^]]* Dabei werden die [[tatsächlichen]] [[Ereignisse]] jedoch so [[zurechtgebogen]], dass man [[passende]] Gesetze findet und [[erfindet]], um es am Ende zu einer [[Verurteilung]] kommen zu lassen
 
 
 ---

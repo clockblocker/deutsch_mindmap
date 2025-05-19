@@ -1,7 +1,7 @@
 😔 [[bedrückt]], [bəˈdʁʏkt] ≠ [[fröhlich]]
 
 ---
-[[Die halbe Miete sein.md#^4|(q)]] „Du, ich hab das Gefühl, dass dich etwas [[bedrückt]]. Magst du mir von deinen Sorgen erzählen?“ „Ja, du hast recht“, sagt Anja, ^4
+[[Die halbe Miete sein.md#^4|^]] „Du, ich hab das Gefühl, dass dich etwas [[bedrückt]]. Magst du mir von deinen Sorgen erzählen?“ „Ja, du hast recht“, sagt Anja, ^4
 
 ---
 = [[betrübt]], [[deprimiert]], [[niedergeschlagen]], [[deprimiert]]

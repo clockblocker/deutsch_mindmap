@@ -3,7 +3,7 @@
 haben [[zurückgekehrt]]
 
 ---
-[[17 zu inf#^2|(q)]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2
+[[17 zu inf#^2|^]] Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]].  ^2
 
 Aber ich habe die Hoffnung nicht aufgegeben. Ich glaube daran, dass der Avatar irgendwann [[zurückkehrt]] und die Welt rettet.
 

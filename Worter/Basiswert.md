@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 🔵 der [[Basiswert]], [ˈbaːzɪsˌvɛʁt]
 die [[Basiswerte]]
 

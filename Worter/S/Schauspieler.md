@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schauspielers]], [[Schauspieler]], [[Schauspielem]], [[Schauspieler]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Rollenbesetzung]]

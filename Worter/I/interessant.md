@@ -2,7 +2,7 @@
 nicht [[langweilig]], nicht [[uninteressant]]
 
 ---
-[[kse.md#^3|(q)]] Einen [[interessanten]] Ansatz haben z.B. Forscher des Georgia Institute of Technology. Sie verwendeten als Ausgangsmaterialien für ihr neues Produkt Krabbenschalen und Baumfasern. ^
+[[kse.md#^3|^]] Einen [[interessanten]] Ansatz haben z.B. Forscher des Georgia Institute of Technology. Sie verwendeten als Ausgangsmaterialien für ihr neues Produkt Krabbenschalen und Baumfasern. ^
 
 
 ---

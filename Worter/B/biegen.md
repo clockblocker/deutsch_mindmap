@@ -34,4 +34,4 @@ Besonderheit: Kann sowohl mit haben als auch mit sein konstruiert werden, abhän
 - mit haben: beim Verbiegen ohne Ortsveränderung
 - mit sein: bei Bewegung oder Richtungswechsel
 
-[[biegen]] - keine Vorsilbe = Grundverb, [[knicken]]
+[[biegen]] - keine Vorsilbe = Grundverb, [[knicken]], [[zurechtbiegen]]

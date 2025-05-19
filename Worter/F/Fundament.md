@@ -1,3 +1,2 @@
-, [[Grundlage]]
-, [[Unterlage]]
-, [[Grund]], [[Grundvoraussetzung]], [[Standbein]]
+---> [[🗣️ Ingredient-Meinung]] <---
+

@@ -57,4 +57,4 @@ Partizip I: [[machend]], Partizip II: [[gemacht]]
 
 +[[frei]] = [[freimachen]]
 , [[tun]], [[Sorgen]], [[anmachen]], [[mitmachen]], [[weitermachen]], [[übermachen]], [[durchmachen]]
-, [[zumachen]], [[durchführen]], [[direkt]], [[Wiedergutmachung]]
+, [[zumachen]], [[durchführen]], [[direkt]], [[Wiedergutmachung]], [[Filmemacher]]

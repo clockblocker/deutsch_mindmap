@@ -1,1 +1,1 @@
-, [[vorkommen]], [[Begebenheit]]
+, [[vorkommen]], [[Begebenheit]], [[Ereignis]]

@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 📈 [[exponentiell]], [ɛkspoˈnɛnt͡si̯ɛl](https://youglish.com/pronounce/exponentiell/german)
 
 ---

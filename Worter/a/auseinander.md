@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🔍 [[auseinander]], [ˌaʊ̯sˈʔaɪ̯nˌʔandɐ]
 
 ---

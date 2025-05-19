@@ -1,7 +1,7 @@
 😍 [[liebgewinnen]], [liːpɡəˈvɪnən] | [[liebgewann]], haben [[liebgewonnen]]
 
 ---
-[[M1A1.md#^3|(q)]] **Vincke:** Nein, das könnte ich nie. Wie sollte ich da überhaupt meinem Kind in die Augen sehen können? Das den Hund [[liebgewonnen]] hat. ^3
+[[M1A1.md#^3|^]] **Vincke:** Nein, das könnte ich nie. Wie sollte ich da überhaupt meinem Kind in die Augen sehen können? Das den Hund [[liebgewonnen]] hat. ^3
 
 ---
 = [[zuneigung empfinden]], [[mögen]], [[gern haben]]

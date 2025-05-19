@@ -1,1 +1,1 @@
-, [[Lösungsansatz]], [[Methode]]
+, [[Lösungsansatz]], [[Methode]], [[Königsweg]]

@@ -1,7 +1,7 @@
 🔵 🏰 der [[Diebstahl]], [diːpˈʃtaːl]
 
 ---
-Hein Martens nahm den kleinen Buddha aus der Tasche. «Ob sie hier schon etwas über den [[Diebstahl]] wissen?» dachte er. «Sie können mich jetzt [[verhaften]].» [[14 perfekt#^15|(q)]]
+Hein Martens nahm den kleinen Buddha aus der Tasche. «Ob sie hier schon etwas über den [[Diebstahl]] wissen?» dachte er. «Sie können mich jetzt [[verhaften]].» [[14 perfekt#^15|^]]
 
 ---
 = [[Entwendung]], [[Raub]], [[Dieb]]

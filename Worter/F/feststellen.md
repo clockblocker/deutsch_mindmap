@@ -43,4 +43,4 @@ Morpheme: [[fest]][[stell]][[en]]
 Partizip I: [[festellend]], Partizip II: [[festgestellt]]
 
 [[feststellen]] - [[fest]] = [[stellen]]
-, [[ausrechnen]], [[herausfinden]], [[besagen]], [[Rückkehr]], [[orten]], [[herausstellen]]
+, [[ausrechnen]], [[herausfinden]], [[besagen]], [[Rückkehr]], [[orten]], [[herausstellen]], [[feststehen]]

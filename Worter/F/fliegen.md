@@ -9,7 +9,7 @@ haben [[geflogen]]
 Katara und Sokka [[fliegen]] in hohem Bogen aus dem Boot und landen auf einer großen Scholle. 
 
 *Ich bleibe einfach liegen*  
-*Und wieder [[zähle]] ich die [[Fliegen]]*   [[Keine Lust.md#^6|(q)]]
+*Und wieder [[zähle]] ich die [[Fliegen]]*   [[Keine Lust.md#^6|^]]
 
 
 ---

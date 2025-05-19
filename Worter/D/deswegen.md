@@ -13,7 +13,7 @@ Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langs
 *[[08-C1-Schreiben-T2-M#^9|^]]* Die aktuellen [[Engpässe]] auf dem Firmenparkplatz und die [[Streitigkeiten]] [[deswegen]] zwischen Mitarbeitern, wer jetzt einen Parkplatz bekommt, sind nicht mehr [[tragbar]]. ^9
 
 
-[[Eine Extrawurst bekommen.md#^3|(q)]] [[Deswegen]] fahren sie ihn viermal die Woche zum Training und [[erlauben]] ihm, jede freie Minute mit seinen Freunden Fußball zu spielen. ^3
+[[Eine Extrawurst bekommen.md#^3|^]] [[Deswegen]] fahren sie ihn viermal die Woche zum Training und [[erlauben]] ihm, jede freie Minute mit seinen Freunden Fußball zu spielen. ^3
 
  
 -- Lily war immer schöner als ich und ich … ich war [[gemein]] zu ihr, [[deswegen]], und dann konnte sie _zaubern_, kannst du dir [[vorstellen]], wie ich mich gefühlt habe? 

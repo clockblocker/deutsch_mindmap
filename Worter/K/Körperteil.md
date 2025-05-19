@@ -1,1 +1,1 @@
-, [[Glied]], [[Gliedmaße]], [[Schulter]], [[Unterarm]]
+, [[Glied]], [[Gliedmaße]], [[Schulter]], [[Unterarm]], [[Oberschenkel]]

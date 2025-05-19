@@ -2,7 +2,7 @@
 die [[Unglücke]]
 
 ---
-[[16 Plusquamperfekt#^24|(q)]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
+[[16 Plusquamperfekt#^24|^]] Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht.  ^24
 
 *Es ist [[Unglück]]*  
 *sagt die [[Berechnung]]*  

@@ -1,7 +1,7 @@
 😬 [[versehentlich]], [fɛɐ̯ˈzeːəntlɪç]
 
 ---
-[[Ein Auge zudrücken.md#^6|(q)]] Selbst der Chefkoch konnte sich vor ein paar Tagen nicht so richtig [[aufregen]], [[obwohl]] Roman [[versehentlich]] Zucker in die Suppe getan hatte. ^6
+[[Ein Auge zudrücken.md#^6|^]] Selbst der Chefkoch konnte sich vor ein paar Tagen nicht so richtig [[aufregen]], [[obwohl]] Roman [[versehentlich]] Zucker in die Suppe getan hatte. ^6
 
 
 ---

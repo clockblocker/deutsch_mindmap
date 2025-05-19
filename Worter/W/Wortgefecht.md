@@ -2,7 +2,7 @@
 die [[Wortgefechte]]
 
 ---
-[[Ausländer (Lied)#^2|(q)]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
+[[Ausländer (Lied)#^2|^]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
 Mit dem anderen Geschlecht ^2
 
 ---
@@ -25,3 +25,4 @@ D: dem [[Wortgefecht]], den [[Wortgefechten]]
 
 ---
 [[Worter/W/Wort]], [[Gefecht]], [[gefechten]], [[Wortwahl]], [[Wortmeldung]]
+---> [[🗣️ Ingredient-Meinung]] <---

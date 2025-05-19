@@ -57,4 +57,4 @@ sie, [[kehren um]], [[kehrten um]], [[kehren um]], [[kehrten um]], [[kehren um]]
 Adjektive: [[umkehrend]], [[umkehrender]], [[umkehrendst]]
 
 ---
-[[umkehrender]], [[umkehrendes]], [[umkehrende]], [[umkehrenden]], [[umkehrendem]], [[umkehrenderer]], [[umkehrenderes]], [[umkehrendere]], [[umkehrenderen]], [[umkehrenderem]], [[umkehrendster]], [[umkehrendstes]], [[umkehrendste]], [[umkehrendsten]], [[umkehrendstem]]
+[[umkehrender]], [[umkehrendes]], [[umkehrende]], [[umkehrenden]], [[umkehrendem]], [[umkehrenderer]], [[umkehrenderes]], [[umkehrendere]], [[umkehrenderen]], [[umkehrenderem]], [[umkehrendster]], [[umkehrendstes]], [[umkehrendste]], [[umkehrendsten]], [[umkehrendstem]], [[Umkehrschluss]]

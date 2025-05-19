@@ -4,7 +4,7 @@
 die [[Aufhebungen]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^10|(q)]] Meine Bekannten, die sich mit deutscher Politik [[auskennen]], sagen, dass die Wahrscheinlichkeit einer [[Aufhebung]] des Gesetzes über die doppelte Staatsbürgerschaft groß ist. ^10
+[[1 Wer bin ich und was mache ich hier?#^10|^]] Meine Bekannten, die sich mit deutscher Politik [[auskennen]], sagen, dass die Wahrscheinlichkeit einer [[Aufhebung]] des Gesetzes über die doppelte Staatsbürgerschaft groß ist. ^10
 
 ---
 = [[Abschaffung]], [[Annullierung]], [[Auflösung]], [[abschaffen]]

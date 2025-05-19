@@ -3,9 +3,12 @@
 ---
 Simon muss also damit [[rechnen]], dass Jannis seine [[Bitte]] [[ablehnen]] wird. Deshalb greift er zu einem kleinen Trick: Er [[schmiert]] seinem Chef [[Jemandem Honig um den Bart schmieren|Honig um den]] [[Bart]].
 
-1. Er sah mich [[bittend]] an.
+*[[C1-Lesen-T2-102-Text#^28|^]]* Also wurden auch junge Männer [[gebeten]], drei unterschiedliche Formen des Körpertrainings zu [[absolvieren]]: ein 90-minütiges [[Strampeln]] auf dem [[Heimfahrrad]], ein Krafttraining am [[Hantelgewicht]] und ein Training am Hometrainer – allerdings eines, bei dem in mehreren 30-Sekunden-Intervallen in größtmöglicher Intensität [[gestrampelt]] werden musste. ^28
 
-[[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. [[14 perfekt#^14|(q)]]
+
+ Er sah mich [[bittend]] an.
+
+[[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. [[14 perfekt#^14|^]]
 
 ---
 Synonyme: [[ersuchen]], [[flehen]], [[betteln]], [[anfragen]], [[erbitten]]
@@ -15,7 +18,7 @@ Antonyme: [[ablehnen]], [[verweigern]], [[ignorieren]]
 to ask, to request, to beg
 
 ---
-[[bitt]][[en]]
+[[bitt]][[en]], [[Gebet]]
    
 
 ---

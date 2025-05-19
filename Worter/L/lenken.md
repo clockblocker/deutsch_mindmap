@@ -1,6 +1,8 @@
 🕹️ [[lenken]], [ˈlɛŋkn̩](https://youglish.com/pronounce/lenken/german) → [[lenkte]] → haben [[gelenkt]]
 
 ---
+*[[C1-Hoehen-T1-201-Text#^7|^]]* Obwohl es sich um eine [[Verwechslung]]skomödie [[handelt]], wird ein ernster Blick auf korrupte Rechtssysteme [[gelenkt]]
+
 c) Man soll das [[Interesse]] des Kindes auch auf [[andere]] Spiele [[lenken]].
 
 a) bewies, dass Gene [[gelenkt]] werden können.  

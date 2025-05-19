@@ -3,7 +3,7 @@
 ---
 Katara und Sokka fliegen in hohem Bogen aus dem Boot und [[landen]] auf einer großen Scholle.
 
-[[Einen Kater haben.md#^3|(q)]] Doch dann [[kommen|kamen]] immer mehr [[Freund|Freunde]] dazu, und am [[Ende]] [[landen|landeten]] alle auf einer [[cool|coolen]] [[Party]]. ^3
+[[Einen Kater haben.md#^3|^]] Doch dann [[kommen|kamen]] immer mehr [[Freund|Freunde]] dazu, und am [[Ende]] [[landen|landeten]] alle auf einer [[cool|coolen]] [[Party]]. ^3
 
 ---
 = [[ankommen]], [[aufsetzen]], [[eintreffen]]

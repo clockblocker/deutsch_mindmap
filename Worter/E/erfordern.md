@@ -45,4 +45,4 @@ sie, [[erfordern]], [[erforderten]], [[erfordern]], [[erforderten]], [[erfordern
 Adjektive: [[erfordernd]], [[erfordernder]], [[erforderndst]]
 
 ---
-[[erfordernder]], [[erforderndes]], [[erfordernde]], [[erfordernden]], [[erforderndem]], [[erfordernderer]], [[erfordernderes]], [[erforderndere]], [[erfordernderen]], [[erfordernderem]], [[erforderndster]], [[erforderndstes]], [[erforderndste]], [[erforderndsten]], [[erforderndstem]]
+[[erfordernder]], [[erforderndes]], [[erfordernde]], [[erfordernden]], [[erforderndem]], [[erfordernderer]], [[erfordernderes]], [[erforderndere]], [[erfordernderen]], [[erfordernderem]], [[erforderndster]], [[erforderndstes]], [[erforderndste]], [[erforderndsten]], [[erforderndstem]], [[bedingen]]

@@ -2,7 +2,7 @@
 die [[Sprachschätze]]
 
 ---
-[[Ausländer#^1|(q)]] Ich mache es gern jedem recht  
+[[Ausländer#^1|^]] Ich mache es gern jedem recht  
 Ja, mein [[Sprachschatz]] ist nicht schlecht ^1
  
 

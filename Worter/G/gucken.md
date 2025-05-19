@@ -5,7 +5,7 @@ haben [[geguckt]]
 ---
 Katara und Sokka [[gucken]] [[erschrocken]] nach vorne.
 
-[[Eine Extrawurst bekommen.md#^8|(q)]] „Tim bekommt immer eine Extrawurst!“ Ihre Eltern [[gucken]] [[erstaunt]]. ^8
+[[Eine Extrawurst bekommen.md#^8|^]] „Tim bekommt immer eine Extrawurst!“ Ihre Eltern [[gucken]] [[erstaunt]]. ^8
 
 Sokka sieht Katara an und [[guckt]] dann auf den Eisberg vor ihnen.
 

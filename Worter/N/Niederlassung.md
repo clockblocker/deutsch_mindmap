@@ -2,7 +2,7 @@
 die [[Niederlassungen]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^7|(q)]] Glücklicherweise bot uns die Deutsche Bank gleichzeitig die Möglichkeit, in die Berliner [[Niederlassung]] umzuziehen. ^7
+[[1 Wer bin ich und was mache ich hier?#^7|^]] Glücklicherweise bot uns die Deutsche Bank gleichzeitig die Möglichkeit, in die Berliner [[Niederlassung]] umzuziehen. ^7
 
 ---
 = [[Filiale]], [[Zweigstelle]], [[Dependance]]

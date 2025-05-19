@@ -29,4 +29,4 @@ G: der [[Auffassung]], der [[Auffassungen]]
 D: der [[Auffassung]], den [[Auffassungen]]
 
 
-#Feminin 
+#Feminin ---> [[🗣️ Ingredient-Meinung]] <---

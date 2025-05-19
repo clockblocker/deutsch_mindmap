@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🔊 [[dumpf]], [ˈdʊmpf] ≠ [[klar]], [[hell]]
 
 ---

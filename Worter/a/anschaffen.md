@@ -1,1 +1,1 @@
-, [[loswerden]], [[erwerben]]
+, [[loswerden]], [[erwerben]], [[zulegen]]

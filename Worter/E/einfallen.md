@@ -3,7 +3,7 @@
 sein [[eingefallen]]
 
 ---
-[[17 zu inf#^11|(q)]] Erst dann [[einfallen|fiel]] mir ein, dass ich vergessen hatte, das Pilzbuch herauszunehmen. Aber ich bin kein Pilzsammler. ^11
+[[17 zu inf#^11|^]] Erst dann [[einfallen|fiel]] mir ein, dass ich vergessen hatte, das Pilzbuch herauszunehmen. Aber ich bin kein Pilzsammler. ^11
 
 SASCHA: Mir [[einfallen|fällt]] schon was ein … Anna! Lass Fräulein Berg herein!  
 

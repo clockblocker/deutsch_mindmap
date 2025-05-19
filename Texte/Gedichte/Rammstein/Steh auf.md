@@ -33,7 +33,7 @@ Steh auf!
 Warum muss ich immer warten?
 Warum immer weinen?
 Warum all die schwarzen [[Löcher]]  
-[[Steh auf.md#^1|(q)]] In den [[Arm|Armen]], in den [[Bein|Beinen]]?
+[[Steh auf.md#^1|^]] In den [[Arm|Armen]], in den [[Bein|Beinen]]?
 [[Mama]], [[aufstehen|steh]] [[aufstehen|auf]], [[aufstehen|steh]] [[wieder]] [[aufstehen|auf]] ^1
 
 

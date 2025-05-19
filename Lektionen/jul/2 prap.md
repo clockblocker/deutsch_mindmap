@@ -1,17 +1,17 @@
 abzüglich → Genitiv  
-[[2 prap.md#^1|(q)]] Abzüglich aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
+[[2 prap.md#^1|^]] Abzüglich aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
 
-[[2 prap.md#^2|(q)]] Ein stark dekliniertes Nomen im Singular und Nomen ohne [[Begleiter]] bleibt [[jedoch]] undekliniert: ^2
+[[2 prap.md#^2|^]] Ein stark dekliniertes Nomen im Singular und Nomen ohne [[Begleiter]] bleibt [[jedoch]] undekliniert: ^2
 *abzüglich [[Rabatt]] (nicht: Rabatts)*  
 
 Ein Nomen ohne Begleiter im Plural steht im Dativ, wenn der Genitiv nicht [[erkennbar]] ist:  
-[[2 prap.md#^6|(q)]] *[[Abzüglich]] Geldern aus [[Spenden]] (statt: abzüglich Gelder aus Spenden)* ^6
+[[2 prap.md#^6|^]] *[[Abzüglich]] Geldern aus [[Spenden]] (statt: abzüglich Gelder aus Spenden)* ^6
 
 anhand → Genitiv  
 [[anhand]] meiner [[Unterlagen]]  
 
 Steht das [[nachfolgende]] Nomen im Plural ohne [[vorangehenden]] Artikel, [[weicht]] man oft auf die Konstruktion anhand **von + Dativ** aus:  
-[[2 prap.md#^3|(q)]] [[anhand]] von neueren Studien, anhand von [[Beweisen]] ^3
+[[2 prap.md#^3|^]] [[anhand]] von neueren Studien, anhand von [[Beweisen]] ^3
 [[anhand]] meiner Studien,                anhand meiner [[Beweisen]]
 
 [[anhand]] von den [[Unterlagen]]
@@ -19,15 +19,15 @@ Steht das [[nachfolgende]] Nomen im Plural ohne [[vorangehenden]] Artikel, [[wei
 
 
 anstatt, anstelle / an Stelle  
-[[2 prap.md#^4|(q)]] Anstatt / anstelle / an Stelle der [[Feier]] gab es nur einen [[Stehempfang]]. ^4
+[[2 prap.md#^4|^]] Anstatt / anstelle / an Stelle der [[Feier]] gab es nur einen [[Stehempfang]]. ^4
 
 → wie statt  
 
 aufgrund / auf Grund → Genitiv  
-[[2 prap.md#^5|(q)]] [[aufgrund]] / auf Grund des Streiks, aufgrund / auf Grund der [[widrigen]] [[Umstände]] ^5  
+[[2 prap.md#^5|^]] [[aufgrund]] / auf Grund des Streiks, aufgrund / auf Grund der [[widrigen]] [[Umstände]] ^5  
 
 ausschließlich → Genitiv  
-[[2 prap.md#^7|(q)]] [[ausschließlich]] der [[Reisekosten]] ^7
+[[2 prap.md#^7|^]] [[ausschließlich]] der [[Reisekosten]] ^7
 → wie abzüglich  
 
 außer → Dativ  
@@ -43,7 +43,7 @@ Außer ist dann allerdings keine Präposition mehr, sondern zur Konjunktion gewo
 Außer mit Genitiv in der Wendung: außer Landes  
 
 außerhalb → Genitiv  
-[[2 prap.md#^8|(q)]] [[Außerhalb]] dieses [[Gebiets]], [[außerhalb]] unserer [[Öffnungszeiten]] ^8
+[[2 prap.md#^8|^]] [[Außerhalb]] dieses [[Gebiets]], [[außerhalb]] unserer [[Öffnungszeiten]] ^8
 
 bis → Akkusativ  
 bis nächsten Monat, bis letztes Jahr  
@@ -55,13 +55,13 @@ Bis steht meist zusammen mit einer anderen Präposition, die dann den Fall des f
 bis zum bitteren Ende, bis vor kurzer Zeit, bis nach Budapest  
 
 dank → Dativ / Genitiv  
-[[2 prap.md#^10|(q)]] [[dank]] seinem beherzten Eingreifen / dank seines beherzten Eingreifens ^10
+[[2 prap.md#^10|^]] [[dank]] seinem beherzten Eingreifen / dank seines beherzten Eingreifens ^10
 
 Bezugswörter im Plural stehen jedoch fast immer im Genitiv:  
 dank Ihrer Bemühungen, dank seiner Erfahrungen  
 
 [[einschließlich]] → Genitiv  
-[[2 prap.md#^11|(q)]] [[einschließlich]] der gesamten Kosten ^11
+[[2 prap.md#^11|^]] [[einschließlich]] der gesamten Kosten ^11
 
 Aber: einschließlich [[Getränk]], einschließlich Getränken  
 
@@ -69,27 +69,27 @@ Aber: einschließlich [[Getränk]], einschließlich Getränken
 
 [[entlang]] → Genitiv / Dativ  
 Zur Ortsangabe (wo?) mit Genitiv oder Dativ:  
-[[2 prap.md#^12|(q)]] Ein entlang des Hauptkanals / [[entlang]] dem Hauptkanal [[gelegenes]] [[Werksgelände]] ^12
+[[2 prap.md#^12|^]] Ein entlang des Hauptkanals / [[entlang]] dem Hauptkanal [[gelegenes]] [[Werksgelände]] ^12
 
 Zur [[Richtungsangabe]] (wohin?) mit Akkusativ; entlang steht dann hinter seinem [[Bezugswort]]:  
-[[2 prap.md#^13|(q)]] Sie [[entlanggehen|gingen]] den Fluss [[entlang]]. ^13
+[[2 prap.md#^13|^]] Sie [[entlanggehen|gingen]] den Fluss [[entlang]]. ^13
 
 
 entsprechend → Dativ  
-[[2 prap.md#^14|(q)]] [[Entsprechend]] unserem [[Vorschlag]] ^14
+[[2 prap.md#^14|^]] [[Entsprechend]] unserem [[Vorschlag]] ^14
 
 gemäß → Dativ  
-[[2 prap.md#^15|(q)]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
+[[2 prap.md#^15|^]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
 
 
 Gemäß kann im Singular auch ohne Begleiter benutzt werden:  
 gemäß Vorschrift, gemäß Vertrag  
 
 infolge → Genitiv  
-[[2 prap.md#^17|(q)]] [[infolge]] des [[Unwetters]], infolge des [[Kriegsausbruchs]] ^17
+[[2 prap.md#^17|^]] [[infolge]] des [[Unwetters]], infolge des [[Kriegsausbruchs]] ^17
 
 inklusive → Genitiv  
-[[2 prap.md#^18|(q)]] [[inklusive]] der Speisen und Getränke ^18
+[[2 prap.md#^18|^]] [[inklusive]] der Speisen und Getränke ^18
   
 Aber: inklusive Meerblick, inklusive Handtüchern  
 → wie abzüglich  

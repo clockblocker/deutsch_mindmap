@@ -1,7 +1,7 @@
 💪 [[beherzt]], [bəˈhɛɐ̯t͡st] ≠ [[furchtsam]]
 
 ---
-[[2 prap.md#^10|(q)]] [[dank]] seinem [[beherzten]] [[Eingreifen]] wurde ich nicht Verletzt ^10
+[[2 prap.md#^10|^]] [[dank]] seinem [[beherzten]] [[Eingreifen]] wurde ich nicht Verletzt ^10
 
 ---
 = [[mutig]], [[tapfer]], [[entschlossen]]

@@ -41,4 +41,4 @@ Einzigartige mögliche Formen:
 , [[lichterloh]], [[leis]], [[Flüsternd]], [[unbeeindruckt]], [[beruhig]], [[beruhigen]], [[beruhigenden]], [[ungeduldig]], [[wild]], [[zornig]], [[entspannter]], [[zittern]], [[entsetzt]], [[aufgebracht]], [[wütend]], [[gereizt]], [[leise]]
 , [[ungestüm]]
 , [[hitzig]]
-, [[zappelig]], [[ungestört]], [[Abtönungspartikeln]], [[langsam]]
+, [[zappelig]], [[ungestört]], [[Abtönungspartikeln]], [[langsam]], [[gemächlich]]

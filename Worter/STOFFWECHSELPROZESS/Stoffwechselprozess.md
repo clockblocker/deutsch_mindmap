@@ -1,1 +1,1 @@
-, [[Stoffwechsel]]
+, [[Stoffwechsel]], [[Stoffwechselmechanismus]]

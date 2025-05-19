@@ -1,2 +1,2 @@
 
-, [[erkennbar]], [[bemerkbar]], [[wahrnehmen]], [[Wahrnehmung]]
+, [[erkennbar]], [[bemerkbar]], [[wahrnehmen]], [[Wahrnehmung]], [[sichtbar]]

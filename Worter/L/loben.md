@@ -3,6 +3,8 @@
 ---
 [[Eigenlob stinkt]]
 
+Der [[Moderator]] [[lobt]] den [[Witz]] der [[Filmemacher]]
+
 ###### Professor Rohner …
 b) [[lobt]] den [[vielfältigen]] [[Einsatz]] dieser [[Baumart]].  
 

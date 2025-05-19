@@ -1,7 +1,7 @@
 📍 [[gelegen]], [ɡəˈleːɡn̩] ≠ [[ungelegen]]
 
 ---
-[[2 prap.md#^12|(q)]] Ein entlang des Hauptkanals / [[entlang]] dem Hauptkanal [[gelegenes]] [[Werksgelände]] ^12
+[[2 prap.md#^12|^]] Ein entlang des Hauptkanals / [[entlang]] dem Hauptkanal [[gelegenes]] [[Werksgelände]] ^12
 
 
 *[[C1-Lesen-T2-101-Text#^3|^]]* Im Jahr 79 kam es zu mehreren [[gewaltigen]] [[Ausbrüchen]] des [[südöstlich]] von Neapel [[gelegenen]] Vulkans Vesuv. ^3

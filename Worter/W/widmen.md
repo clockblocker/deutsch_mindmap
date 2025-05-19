@@ -1,7 +1,7 @@
 ✍️ [[widmen]], [ˈvɪtmən] | [[widmete]], haben [[gewidmet]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^11|(q)]] Dies und die Schwierigkeiten beim [[Erhalt]] konsularischer Dienstleistungen vom russischen Staat im Zusammenhang mit dem politischen Engagement [[zwingen]] mich, mich ausschließlich dem Erlernen der Sprache zu [[widmen]]. ^11
+[[1 Wer bin ich und was mache ich hier?#^11|^]] Dies und die Schwierigkeiten beim [[Erhalt]] konsularischer Dienstleistungen vom russischen Staat im Zusammenhang mit dem politischen Engagement [[zwingen]] mich, mich ausschließlich dem Erlernen der Sprache zu [[widmen]]. ^11
 
 
 

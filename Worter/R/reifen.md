@@ -45,4 +45,4 @@ sie, [[reifen]], [[reiften]], [[reifen]], [[reiften]], [[reifen]]
 Adjektive: [[reifend]], [[reifender]], [[reifendst]]
 
 ---
-[[reifender]], [[reifendes]], [[reifende]], [[reifenden]], [[reifendem]], [[reifenderer]], [[reifenderes]], [[reifendere]], [[reifenderen]], [[reifenderem]], [[reifendster]], [[reifendstes]], [[reifendste]], [[reifendsten]], [[reifendstem]]
+[[reifender]], [[reifendes]], [[reifende]], [[reifenden]], [[reifendem]], [[reifenderer]], [[reifenderes]], [[reifendere]], [[reifenderen]], [[reifenderem]], [[reifendster]], [[reifendstes]], [[reifendste]], [[reifendsten]], [[reifendstem]], [[Laufrad]]

@@ -1,1 +1,1 @@
-, [[bitten]], [[Gebet]]
+[[bitten]], [[Hantelgewicht]]

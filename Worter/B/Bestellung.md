@@ -2,7 +2,7 @@
 die [[Bestellungen]]
 
 ---
-[[amazon.md#^7|(q)]] [[Bestellung]] [[aufgegeben]] ^7
+[[amazon.md#^7|^]] [[Bestellung]] [[aufgegeben]] ^7
 
 
 ---

@@ -3,7 +3,7 @@
 ---
 [[Eindruck]]
 
-[[Eigenlob stinkt.md#^2|(q)]] [[Selbstbewusste]] Menschen haben es leichter im Leben. Sie [[beeindrucken]] andere durch ihre [[Fähigkeiten]] und Talente. ^2
+[[Eigenlob stinkt.md#^2|^]] [[Selbstbewusste]] Menschen haben es leichter im Leben. Sie [[beeindrucken]] andere durch ihre [[Fähigkeiten]] und Talente. ^2
 
 ---
 = [[faszinieren]], [[begeistern]], [[erstaunen]]

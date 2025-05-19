@@ -1,7 +1,7 @@
 🗣️ [[murmeln]], [ˈmʊʁmɛln]
 
 ---
-[[16 Plusquamperfekt#^18|(q)]] Einmal in dieser Zeit machte sie eine Reise nach Neapel. Kein Mensch
+[[16 Plusquamperfekt#^18|^]] Einmal in dieser Zeit machte sie eine Reise nach Neapel. Kein Mensch
 
 ---
 = [[flüstern]], [[leise reden]], [[brummen]]

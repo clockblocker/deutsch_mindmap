@@ -1,7 +1,7 @@
 🔵 🎁 das [[Geschenkbestätigung]], [geˈʃɛŋkbcˌʃtaːtɪgʊŋ]
 
 ---
-[[amazon.md#^5|(q)]] [[Geschenkbestätigung]] [[teilen]] ^5
+[[amazon.md#^5|^]] [[Geschenkbestätigung]] [[teilen]] ^5
 
 
 ---

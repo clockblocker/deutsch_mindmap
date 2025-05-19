@@ -1,1 +1,1 @@
-, [[Fettleibigkeit]]
+, [[Fettleibigkeit]], [[übergewichtig]]

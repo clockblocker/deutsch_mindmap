@@ -25,3 +25,6 @@ N: der [[Betroffene]], die [[Betroffenen]]
 A: den [[Betroffenen]], die [[Betroffenen]]
 G: des [[Betroffenen]], der [[Betroffenen]]
 D: dem [[Betroffenen]], den [[Betroffenen]]
+
+#Plural 
+

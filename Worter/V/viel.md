@@ -4,7 +4,7 @@
 ➕ [[viel]], [fiːl] | [[Artikelwörter]] 
 
 ---
-[[Artikelwörter.md#^4|(q)]] - [[Viel]] Zucker.**  
+[[Artikelwörter.md#^4|^]] - [[Viel]] Zucker.**  
 - **Viel Sand.**  
 - **Viele Menschen.**  
 - **Er ist mit vielen Leuten bekannt.**  

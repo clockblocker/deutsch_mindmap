@@ -5,7 +5,8 @@
 😔 [[vernachlässigen]], [fɛɐ̯ˈnaxˌlɛsɪɡn̩](https://youglish.com/pronounce/vernachlässigen/german) → [[vernachlässigte]] → haben [[vernachlässigt]]
 
 ---
-der Mensch nicht mehr abschalten kann
+*[[C1-Lesen-T2-102-Text#^15|^]]* Gerade im [[fortgeschritten]]em Alter ist das ein nicht zu [[vernachlässigend]]er Aspekt, denn der [[Verlust]] von drei Kilo Muskeln bedeutete eine [[Verringerung]] des [[Energiegrundumsatz]]es um etwa 100 Kalorien pro Tag. ^15
+
 
 ---
 = [[außer Acht lassen]], [[ignorieren]], [[verwahrlosen]]
@@ -48,4 +49,4 @@ sie, [[vernachlässigen]], [[vernachlässigten]], [[vernachlässigen]], [[vernac
 Adjektive: [[vernachlässigend]], [[vernachlässigender]], [[vernachlässigst]]
 
 ---
-[[vernachlässigender]], [[vernachlässigendes]], [[vernachlässigende]], [[vernachlässigenden]], [[vernachlässigendem]], [[vernachlässigenderer]], [[vernachlässigenderes]], [[vernachlässigendere]], [[vernachlässigenderen]], [[vernachlässigenderem]], [[vernachlässigster]], [[vernachlässigstes]], [[vernachlässigste]], [[vernachlässigsten]], [[vernachlässigstem]], [[erziehen]], [[unterlassen]], [[ausarbeiten]], [[prüfen]], [[betreuen]], [[weiterentwickeln]], [[handhaben]], [[erforschen]], [[betreiben]]
+[[vernachlässigender]], [[vernachlässigendes]], [[vernachlässigende]], [[vernachlässigenden]], [[vernachlässigendem]], [[vernachlässigenderer]], [[vernachlässigenderes]], [[vernachlässigendere]], [[vernachlässigenderen]], [[vernachlässigenderem]], [[vernachlässigster]], [[vernachlässigstes]], [[vernachlässigste]], [[vernachlässigsten]], [[vernachlässigstem]], [[erziehen]], [[unterlassen]], [[ausarbeiten]], [[prüfen]], [[betreuen]], [[weiterentwickeln]], [[handhaben]], [[erforschen]], [[betreiben]], [[überprüfen]]

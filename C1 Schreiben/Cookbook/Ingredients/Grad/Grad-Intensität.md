@@ -7,20 +7,22 @@ die [[geringe]] [[Anzahl]] der Arbeitsplätze
 	- Dennoch wirkt sich die neue Bürosituation [[erheblich]] auf meine Arbeit aus. [[002-C1-Schreiben-T2#^3|^]]
 2) ❤️ [[beträchtlich]] *(considerable, substantial )*
 3) ❤️ [[deutlich]] *(clearly perceptible)*
-4) ❗ [[akut]] *(acute, urgent)*
-5) [[ausgeprägt]] *(clearly marked or distinct)*
-6) [[überwältigend]] *(emotionally overpowering)*
-7) [[gewaltig]] *(immense; overwhelming; physical or emotional power)*  
-8) [[stark]] *(strong; general high-impact)*  
-9) [[signifikant]] *(statistically or rhetorically meaningful)*  
-10) [[drastisch]] *(radical, often negative)*
-11) [[massiv]] *(heavy, overwhelming in tone or scale)*
-12) [[Groß]] *(heavy, overwhelming in tone or scale)*
-13) [[intensiv]] *(sustained and focused intensity — emotional, intellectual, sensory)*
-14) [[heftig]] *(intense, fierce — emotionally or physically strong, often sudden or overwhelming)*
-15) [[ungestüm]] *(impulsive, stormy — strong but uncontrolled)*
-16) [[unbändig]] *(uncontainable — wild inner force, often positive or vital)*
-17) [[gewaltigen]] *(tremendous, enormous, mighty)*
+4) 👁️ [[sichtbar]] *(visible)*  
+5) 🧐 [[offensichtlich]] *(obvious, evident, clear)*
+6) ❗ [[akut]] *(acute, urgent)*
+7) [[ausgeprägt]] *(clearly marked or distinct)*
+8) [[überwältigend]] *(emotionally overpowering)*
+9) [[gewaltig]] *(immense; overwhelming; physical or emotional power)*  
+10) [[stark]] *(strong; general high-impact)*  
+11) [[signifikant]] *(statistically or rhetorically meaningful)*  
+12) [[drastisch]] *(radical, often negative)*
+13) [[massiv]] *(heavy, overwhelming in tone or scale)*
+14) [[Groß]] *(heavy, overwhelming in tone or scale)*
+15) [[intensiv]] *(sustained and focused intensity — emotional, intellectual, sensory)*
+16) [[heftig]] *(intense, fierce — emotionally or physically strong, often sudden or overwhelming)*
+17) [[ungestüm]] *(impulsive, stormy — strong but uncontrolled)*
+18) [[unbändig]] *(uncontainable — wild inner force, often positive or vital)*
+19) [[gewaltigen]] *(tremendous, enormous, mighty)*
 #### 🟡 [[moderat]] 
 1) [[spürbar]] *(noticeable; low-key intensity)*
 2) [[mäßig]] *(moderate; neutral / academic tone)*
@@ -49,3 +51,4 @@ die [[geringe]] [[Anzahl]] der Arbeitsplätze
 #### 🟣 emotional / sensory edge
 1) 😭 [[bitterlich]] *(sorrowfully intense — grief or emotional overflow)*  
 2) 🔪 [[scharf]] *(sharp, piercing — verbal, visual, or sensory intensity)*  
+, [[sichtbar]]

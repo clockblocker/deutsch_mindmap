@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 👀 [[bemerkbar]], [bəˈmɛʁkbaːɐ̯](https://youglish.com/pronounce/bemerkbar/german) ≠ [[unmerklich]]
 
 ---

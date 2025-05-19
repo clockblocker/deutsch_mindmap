@@ -1,1 +1,1 @@
-, [[Freiheitsstrafe]], [[Geldstrafe]], [[haften]]
+, [[Freiheitsstrafe]], [[Geldstrafe]], [[haften]], [[Haft]]

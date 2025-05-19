@@ -4,7 +4,7 @@ nicht [[geduldig]]
 ---
 Nein. Ihr seid zu [[ungeduldig]]. Ihr müsst zuerst die Grundlagen richtig beherrschen! Weiterüben.
 
-[[2 ADHD.md#^12|(q)]] Ich bin [[ungeduldig]] und kann nicht warten, bis ich an der [[Reihe]] bin (z.B. beim Einkaufen). ^12
+[[2 ADHD.md#^12|^]] Ich bin [[ungeduldig]] und kann nicht warten, bis ich an der [[Reihe]] bin (z.B. beim Einkaufen). ^12
 
 ---
 Synonyme: [[nervös]], [[unruhig]], [[rastlos]], [[ungefasst]], [[aufgebracht]]

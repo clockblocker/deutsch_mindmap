@@ -1,7 +1,7 @@
 1️⃣ [[einig]], [ˈaɪ̯nɪç]
 
 ---
-[[Artikelwörter.md#^2|(q)]] - [[Manche]] – *Manche Kinder spielen Fußball gern.*
+[[Artikelwörter.md#^2|^]] - [[Manche]] – *Manche Kinder spielen Fußball gern.*
 - [[Einige]] – *Einige Kinder spielen Volleyball gern.* ^2
  
 

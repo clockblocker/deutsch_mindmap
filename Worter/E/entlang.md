@@ -2,7 +2,7 @@
 ➡️ [[entlang]], [ɛntˈlaŋ]
 
 ---
-[[2 prap.md#^12|(q)]] Ein [[entlang]] des Hauptkanals / entlang dem Hauptkanal gelegenes Werksgelände ^12
+[[2 prap.md#^12|^]] Ein [[entlang]] des Hauptkanals / entlang dem Hauptkanal gelegenes Werksgelände ^12
 
 ---
 = [[hinunter]], [[vorbei]], [[nach]]

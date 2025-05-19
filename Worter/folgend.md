@@ -8,7 +8,7 @@
 
 Bilde einen [[einzigen]] komplexen Satz mit einer Präposition aus den [[folgend]] [[einfachen]] Sätzen:
 
-[[16 Plusquamperfekt#^4|(q)]] In der ganzen [[folgend]] Woche [[zeichnete]] die junge Frau nichts.  ^4
+[[16 Plusquamperfekt#^4|^]] In der ganzen [[folgend]] Woche [[zeichnete]] die junge Frau nichts.  ^4
 
 ---
 = [[nächster]], [[kommender]], [[nachfolgender]]

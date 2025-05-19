@@ -1,7 +1,7 @@
 [[0-C1-Hoehen-T1-Ubung-List|Ubung-List]]
 
 ---
-Hören, Teil 1
+![[002_PT_Goethe_C1 1.mp3]]
 
 Sie hören einen Podcast über neue Bücher.
 Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe, zu welchem Buch die Aussage passt.
@@ -15,39 +15,36 @@ c Buch 3 – Raus aus der Wohnung – und jetzt?
 
 1 Das Buch stellt ==negative und positive ==[[Entwicklung]]en auf dem ==[[Wohnungsmarkt]] gegenüber.  ==
 a Buch 1  
-b Buch 2  +
+b Buch 2 -
 c Buch 3
 
-2 Neben der [[Darstellung]] sozialer Probleme werden auc==h [[juristische]] Fragen== [[behandelt]].  
+2 Neben der [[Darstellung]] sozialer Probleme werden auch ==[[juristische]] Fragen== [[behandelt]].  
 a Buch 1  
-b Buch 2  +
-c Buch 3  
+b Buch 2 
+c Buch 3  -
 
 3 Der ==[[Zusammenhang]]== zwischen ==[[Wohnungsknappheit]]== und den [[allgemeinen]] Regeln der ==[[Marktwirtschaft]] wird erläutert.  ==
 a Buch 1  
-b Buch 2  +
+b Buch 2 -
 c Buch 3
 
-4 ==Ideen für eine andere== [[Wohnungspolitik]] werden [[unterbreitet]].  
+4 ==Ideen== für eine ==andere [[Wohnungspolitik]]== werden [[unterbreitet]].  
 a Buch 1  
 b Buch 2  
-c Buch 3  +
+c Buch 3 -
 
-5 Man [[erfährt]] etwas über die G==eschichte des [[Stadtteils]].  ==
-a Buch 1  +
+5 Man [[erfährt]] etwas über die ==Geschichte des [[Stadtteils]].  ==
+a Buch 1 -
 b Buch 2  
 c Buch 3
 
 6 Hier kommen ==mehrere [[Betroffene]]== zu Wort.  
 a Buch 1  
 b Buch 2  
-c Buch 3 +
+c Buch 3 -
 
-
-1b 2c 3b 4c 5a 6c
 
 ---
-![[002_PT_Goethe_C1 1.mp3]]
 
 *[[C1-Hoehen-T1-100-Text#^1|^]]* Das erste Buch, das ich [[empfehlen]] möchte, [[stammt]] von Helene Schmidt, die [[bereits]] als Autorin vieler spannender Frankfurt [[Krimis]] bekannt geworden ist. ^1
 
@@ -91,7 +88,7 @@ c Buch 3 +
 
 *[[C1-Hoehen-T1-100-Text#^18|^]]* Es werden [[Hinweis]]s zum [[Mietrecht]] und zum [[Mieterschutz]] gegeben, gerade in Zeiten, in denen es immer weniger Wohnungen als Wohnungsuchende gibt. ^18
 
-*[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnungen]]. ^19
+*[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnung]]en. ^19
 
 *[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinden]], wie das Wohnungsproblem [[gelöst]] werden kann. ^20
 

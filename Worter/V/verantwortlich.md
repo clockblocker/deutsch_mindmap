@@ -2,7 +2,7 @@
 nicht [[unverantwortlich]]
 
 ---
-[[BEI MAISCHBERGER.md#^1|(q)]] [[Baerbock]] macht russische [[Einflussnahme]] für ihre [[Wahlniederlage]] als Kanzlerkandidatin [[verantwortlich]] ^1
+[[BEI MAISCHBERGER.md#^1|^]] [[Baerbock]] macht russische [[Einflussnahme]] für ihre [[Wahlniederlage]] als Kanzlerkandidatin [[verantwortlich]] ^1
 
 1. Warum muss man in Deutschland bei der [[Steuererklärung]] [[aufschreiben]], ob man zu einer Kirche gehört oder nicht? Weil … (97%)
 	- [x] es eine [[Kirchensteuer]] gibt, die an die Einkommen- und [[Lohnsteuer]] [[geknüpft]] ist.

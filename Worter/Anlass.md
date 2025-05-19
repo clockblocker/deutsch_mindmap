@@ -1,3 +1,5 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+
 🔵 📆 der [[Anlass]], [ˈanlas]
 
 ---
@@ -25,3 +27,5 @@ D: dem [[Anlass]], den [[Anlässen]]
 anlassen, veranlassen, Anlassfall, Anlassgeber, [[1 Präpositionen Übungen]]
 , [[Gelegenheit]], [[Hauptgrund]], [[Auswirkung]]
 
+
+#Maskulin 

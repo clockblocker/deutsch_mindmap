@@ -27,4 +27,4 @@ G: der [[Reife]], der [[Reifen]]
 D: der [[Reife]], den [[Reifen]]
 
 
-#Feminin 
+#Feminin , [[Lebensalter]]

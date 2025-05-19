@@ -29,4 +29,4 @@ Einzigartige mögliche Formen:
 [[munter]], [[munterer]], [[muntere]], [[munteres]], [[munteren]], [[munterm]], [[munterer]], [[munteren]]
 [[munterer]], [[munterera]], [[munteere]], [[munteeres]], [[münteren]], [[münterem]], [[münterer]], [[münteren]]
 [[muntesten]], [[muntester]], [[munteste]], [[muntestes]], [[muntesten]], [[munterstem]], [[muntester]], [[muntesten]]
-''',  [[s1 e1]], [[froh]], [[gelaunt]], [[lebendig]]
+''',  [[s1 e1]], [[froh]], [[gelaunt]], [[lebendig]], [[flott]]

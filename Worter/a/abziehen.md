@@ -4,7 +4,7 @@
 ➖ [[abziehen]], [ˈapˌt͡siːən] | [[zog ab]], haben [[abgezogen]]
 
 ---
-[[2 prap.md#^1|(q)]] [[Abzüglich]] aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
+[[2 prap.md#^1|^]] [[Abzüglich]] aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
 
 ---
 = [[entfernen]], [[wegnehmen]], [[reduzieren]]

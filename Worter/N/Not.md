@@ -1,7 +1,8 @@
 🔴 die [[Not]]
 die [[Nöte]]
 
-Beispiele:
+---
+*[[C1-Hoehen-T1-201-Text#^11|^]]* In Wirklichkeit war es ein [[tiefgründig]]er Film über die [[Nöte]] eines jungen Mannes, der sich in Wien [[zurechtfinden]] muss
 
 *Er schlug den Stuhl und Vogel tot,*  
 *die Katzen litten große [[Not]].* 

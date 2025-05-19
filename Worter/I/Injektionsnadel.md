@@ -1,1 +1,1 @@
-[[Spritze]]
+[[Spritze]], [[injizieren]]

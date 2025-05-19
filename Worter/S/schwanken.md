@@ -1,7 +1,7 @@
 ↔️ [[schwanken]], [ˈʃvaŋkn̩] | [[schwankte]], haben [[geschwankt]]
 
 ---
-[[3 ADHD.md#^9|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich starke [[Stimmungsschwankungen]] und war [[launisch]]. ^9
+[[3 ADHD.md#^9|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich starke [[Stimmungsschwankungen]] und war [[launisch]]. ^9
 
 ---
 = [[wanken]], [[schaukeln]], [[pendeln]], [[zucken]], [[zögern]], [[stolpern]], [[zweifeln]]

@@ -4,6 +4,10 @@
 *[[C1-Hoehen-T1-200-Text#^7|^]]* [[Amüsant]] zu lesen und mit einer [[Menge]] [[Selbstironie]] [[gespickt]]. ^7
 
 
+Der Film ist am Anfang [[amüsant]], wird dann aber [[ernst]]
+
+
+
 ---
 = [[unterhaltsam]], [[lustig]], [[belustigend]], [[witzig]], [[lustig]]
 ≈ [[witzig]], [[komisch]], [[vergnüglich]]

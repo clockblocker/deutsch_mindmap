@@ -1,1 +1,1 @@
-, [[Ausdauertraining]]
+, [[Ausdauertraining]], [[Muskelaufbau]]

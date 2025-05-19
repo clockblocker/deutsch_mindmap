@@ -1,1 +1,1 @@
-, [[geistig]], [[geisteswissenschaftlich]]
+, [[geistig]], [[geisteswissenschaftlich]], [[tiefgründig]]

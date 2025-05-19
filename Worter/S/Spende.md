@@ -4,7 +4,7 @@
 die [[Spenden]]
 
 ---
-[[2 prap.md#^6|(q)]] *[[Abzüglich]] Geldern aus [[Spenden]] (statt: abzüglich Gelder aus Spenden)* ^6
+[[2 prap.md#^6|^]] *[[Abzüglich]] Geldern aus [[Spenden]] (statt: abzüglich Gelder aus Spenden)* ^6
 
 ---
 = [[Zuwendung]], [[Gabe]], [[Schenkung]]
@@ -26,4 +26,4 @@ D: der [[Spende]], den [[Spenden]]
 
 ---
 [[spenden]], [[Spender]], [[Spendenaktion]], [[Spendenaufruf]], [[Spendenquittung]]
-, [[Kirchenzehnt]]
+, [[Kirchenzehnt]], [[spendieren]]

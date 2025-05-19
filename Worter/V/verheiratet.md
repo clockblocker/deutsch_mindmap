@@ -1,7 +1,7 @@
  💍 [[verheiratet]], [fɛɐ̯ˈhaɪ̯ʁatɛt] ≠ [[ledig]] | 💍 [[verheiraten]]
 
 ---
-Er war [[frisch]] [[verheiratet]] und er hat seine Frau lange nicht gesehen. Sie war eine [[ungewöhnliche]] Frau. Hein Martens vermisste sie sehr. Vor der Fahrt erzählte er ihr abends über die Länder und Städte im Ausland, über die Menschen und ihr Leben, über die [[fremden]] [[besonderen]] Sachen.  [[14 perfekt#^2|(q)]]
+Er war [[frisch]] [[verheiratet]] und er hat seine Frau lange nicht gesehen. Sie war eine [[ungewöhnliche]] Frau. Hein Martens vermisste sie sehr. Vor der Fahrt erzählte er ihr abends über die Länder und Städte im Ausland, über die Menschen und ihr Leben, über die [[fremden]] [[besonderen]] Sachen.  [[14 perfekt#^2|^]]
 
 
 1. Welche [[Lebensform]] ist in Deutschland nicht [[erlaubt]]? (97%)

@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 ---> 🤝 [[Ingredient-Interaktion]] <---
 
  📊 🔴 die [[Schätzung]], [ˈʃɛtsʊŋ](https://youglish.com/pronounce/Schätzung/german)

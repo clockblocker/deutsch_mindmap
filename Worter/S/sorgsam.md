@@ -1,9 +1,10 @@
+---> 🧩 [[Grad-Wahrheit]] <---
 ---> 🧱[[Grad-Gewicht]] <---
 
 😌 [[sorgsam]], [ˈzɔʁkzɐm] ≠ [[nachlässig]]
 
 ---
-[[17 zu inf#^10|(q)]] Ich [[einpacken|packte]] den Mantel [[sorgsam]] ein, trug das Paket zur Post und [[abschicken|schickte]] es ab.  ^10
+[[17 zu inf#^10|^]] Ich [[einpacken|packte]] den Mantel [[sorgsam]] ein, trug das Paket zur Post und [[abschicken|schickte]] es ab.  ^10
 
 ---
 = [[vorsichtig]], [[behutsam]], [[akkurat]]

@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=nRBXT1QSbeQ
 
-[[1 Payback und Co. - Wer profitiert von Punktesystemen.md#^1|(q)]] "[[Sammeln]] Sie Punkte? Dankeschön. Tja, diese Frage hört man mittlerweile an jeder Supermarktkasse und Millionen [[von]] Deutschen machen jeden Tag mit" ^1
+[[1 Payback und Co. - Wer profitiert von Punktesystemen.md#^1|^]] "[[Sammeln]] Sie Punkte? Dankeschön. Tja, diese Frage hört man mittlerweile an jeder Supermarktkasse und Millionen [[von]] Deutschen machen jeden Tag mit" ^1
 
 . Aber warum eigentlich? Wir haben den größten Punktelieferanten Payback besucht und herausgefunden, ob er den [[Kunden]] wirklich etwas zurückbezahlt, wie der Name verspricht. 
 

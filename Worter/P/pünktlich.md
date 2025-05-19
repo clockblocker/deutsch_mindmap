@@ -1,7 +1,7 @@
 ⏰ [[pünktlich]], [ˈpʏŋktlɪç] ≠ [[unpünktlich]]
 
 ---
-[[0 checklist#^5|(q)]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]. ^5
+[[0 checklist#^5|^]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]. ^5
 
 Obwohl sie heute [[pünktlich]] gekommen sind, [[verspäten]] sie sich [[gewöhnlich]]
 

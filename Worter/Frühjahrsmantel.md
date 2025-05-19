@@ -1,7 +1,7 @@
 🔵 🧥 der [[Frühjahrsmantel]], [ˈfʁyːjaːʁsmantl]
 
 ---
-[[17 zu inf#^3|(q)]] Kannst du mir meinen hellgrauen [[Frühjahrsmantel]] nachschicken? Ich kann ihn [[nämlich]] brauchen, weil es hier oft kalt ist, vor allem nachts. ^3
+[[17 zu inf#^3|^]] Kannst du mir meinen hellgrauen [[Frühjahrsmantel]] nachschicken? Ich kann ihn [[nämlich]] brauchen, weil es hier oft kalt ist, vor allem nachts. ^3
 
 
 ---

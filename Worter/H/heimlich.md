@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🔵 [[heimlich]], [ˈhaɪ̯mlɪç]
 nicht [[öffentlich]], nicht [[offenkundig]]
 

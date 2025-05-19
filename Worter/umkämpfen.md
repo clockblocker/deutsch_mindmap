@@ -1,7 +1,7 @@
 ⚔️ [[umkämpfen]], [ˈʊmˌkɛmp͡fn̩] | [[umkämpfte]], haben [[umkämpft]]
 
 ---
-[[0 checklist#^6|(q)]] Eine gut [[bestückte]] [[Bewerbungsmappe]] [[erhöht]] die [[Chancen]], auf dem heiß [[umkämpften]] Wohnungsmarkt deine Traumwohnung zu finden. ^6
+[[0 checklist#^6|^]] Eine gut [[bestückte]] [[Bewerbungsmappe]] [[erhöht]] die [[Chancen]], auf dem heiß [[umkämpften]] Wohnungsmarkt deine Traumwohnung zu finden. ^6
 
 ---
 = [[bekämpfen]], [[erobern]], [[streitig machen]]

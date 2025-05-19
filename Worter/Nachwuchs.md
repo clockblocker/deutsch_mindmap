@@ -3,7 +3,7 @@
 ---
 c) Die [[Untersuchung]]en würden sich nur auf den männlichen [[Nachwuchs]] [[beziehen]].
 
-[[2 Unter Druck nach oben#^6|(q)]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
+[[2 Unter Druck nach oben#^6|^]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
 
 
 ---

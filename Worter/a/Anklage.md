@@ -1,1 +1,1 @@
-, [[anklagen]], [[bezigen]], [[Angeklagte]], [[vorwerfen]]
+, [[anklagen]], [[bezigen]], [[Angeklagte]], [[vorwerfen]], [[Urteil]], [[Verurteilung]]

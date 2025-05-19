@@ -2,7 +2,7 @@
 die [[Niedergänge]]
 
 ---
-[[2 Unter Druck nach oben#^12|(q)]] Nach dem [[Niedergang]] der [[ruppigen]] New Economy und dem [[Vertrauensschwund]] durch [[Betrugsmanöver]] [[geldgieriger]] Firmenbosse steigt wieder der Wert traditioneller [[Tugenden]]. ^12
+[[2 Unter Druck nach oben#^12|^]] Nach dem [[Niedergang]] der [[ruppigen]] New Economy und dem [[Vertrauensschwund]] durch [[Betrugsmanöver]] [[geldgieriger]] Firmenbosse steigt wieder der Wert traditioneller [[Tugenden]]. ^12
 
 ---
 = [[verfall]], [[Abstieg]], [[Zerfall]]

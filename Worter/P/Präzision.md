@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🎯 🔴 die [[Präzision]], [pʁɛt͡siˈzi̯oːn](https://youglish.com/pronounce/Präzision/german)
 
 ---

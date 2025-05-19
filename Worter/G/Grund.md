@@ -1,3 +1,6 @@
+---> [[🗣️ Ingredient-Meinung]] <---
+---> [[Ingredient-Pflege]] <---
+
 🔵 [[Grund]], [ɡʁʊnt]
 die [[Gründe]]
 
@@ -14,8 +17,6 @@ die [[Gründe]]
 = [[Ursache]], [[Anlass]], [[Motiv]]
 ≈ [[Basis]], [[Fundament]], [[Boden]], [[Begründung]]
 ≠ [[Folge]], [[Wirkung]], [[Konsequenz]], [[Zufall]]
-
-, [[Gründung]], [[Grundlage]], [[gründen]], [[Grundgesetz]], [[Privatgrundstück]], [[grundsätzlich]], [[Grundrecht]], [[zugrundeliegende]], [[Begründung]], [[Anlass]], [[aus irgendeinem Grund]], [[Gründer]], [[grundlegend]], [[Grundvoraussetzung]], [[Grundstück]], [[Grundschulkind]], [[Hauptgrund]], [[Auswirkung]], [[Decke]]
 
 ---
 reason, cause, ground
@@ -37,4 +38,4 @@ D: dem [[Grund]], den [[Gründen]]
 
 , [[zugrunde]]
 
-#Maskulin , [[Wasseroberfläche]], [[Antriebsfaktor]]
+#Maskulin , [[Wasseroberfläche]], [[Antriebsfaktor]], [[Energiegrundumsatz]], [[Grundeinstellung]], [[tiefgründig]]

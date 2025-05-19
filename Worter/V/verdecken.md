@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🕵️ [[verdecken]] + Akk, [fɛɐ̯ˈdɛkən]
 [[verdeckte]]
 haben [[verdeckt]]

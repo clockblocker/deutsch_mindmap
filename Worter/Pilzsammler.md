@@ -1,7 +1,7 @@
 🔵 🍄 der [[Pilzsammler]], [ˈpɪltsˌzamlɐ]
 
 ---
-[[17 zu inf#^4|(q)]] In der linken Tasche ist ein «Taschenbuch für [[Pilzsammler]]». Das kannst du [[behalten]]. [[Worter/essbar]] [[Pilze]] gibt es hier nämlich nicht. ^4
+[[17 zu inf#^4|^]] In der linken Tasche ist ein «Taschenbuch für [[Pilzsammler]]». Das kannst du [[behalten]]. [[Worter/essbar]] [[Pilze]] gibt es hier nämlich nicht. ^4
 
 
 ---

@@ -1,7 +1,7 @@
 🐝 [[schwirren]], [ˈʃvɪʁən] | [[schwirrte]], sind [[geschwirrt]]
 
 ---
-[[0 checklist#^2|(q)]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die Bewerbung? ^2
+[[0 checklist#^2|^]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die Bewerbung? ^2
  
 
 ---

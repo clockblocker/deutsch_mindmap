@@ -3,7 +3,7 @@
 🕰️ [[damals]], [ˈdaːmals]
 
 ---
-Das erste Mal, dass ich diesen Menschen gesehen habe, war vor vier Jahren. [[Damals]] kannte ich ihn noch nicht [[14 perfekt#^17|(q)]]
+Das erste Mal, dass ich diesen Menschen gesehen habe, war vor vier Jahren. [[Damals]] kannte ich ihn noch nicht [[14 perfekt#^17|^]]
 
 *[[C1-Lesen-T2-100-Text#^2|^]]* Eine Hoffnung, die sich nicht [[erfüllte]], hatte man doch [[damals]] noch keinen [[Einblick]] in die Tatsache, dass Gene nicht nur [[steuern]], sondern auch gesteuert werden können. ^2
 

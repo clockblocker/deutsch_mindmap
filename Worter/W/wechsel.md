@@ -65,4 +65,4 @@ G: des [[Wechsels]], der [[Wechsel]]
 D: dem [[Wechsel]], den [[Wechseln]]
 
 
-#Maskulin , [[Stoffwechsel]], [[Wandel]], [[Umstieg]]
+#Maskulin , [[Stoffwechsel]], [[Wandel]], [[Umstieg]], [[Stoffwechselmechanismus]], [[Verwechslung]]

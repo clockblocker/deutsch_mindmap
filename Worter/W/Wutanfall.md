@@ -2,9 +2,9 @@
 die [[Wutanfälle]]
 
 ---
-[[1 ADHD#^6|(q)]]  hat noch immer [[Wutanfälle]]. ^6
+[[1 ADHD#^6|^]]  hat noch immer [[Wutanfälle]]. ^6
 
-[[3 ADHD.md#^3|(q)]] Als Kind im Alter von 8 bis 10 Jahren hatte ich [[Wutanfälle]] und [[Gefühlsausbrüche]]. ^3
+[[3 ADHD.md#^3|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich [[Wutanfälle]] und [[Gefühlsausbrüche]]. ^3
 
 ---
 = [[Tobsuchtsanfall]], [[Zornausbruch]], [[Raserei]]

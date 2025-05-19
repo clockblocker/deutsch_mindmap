@@ -28,4 +28,4 @@ PI: [[verbiegend]], PII: [[verbogen]], Zu+inf: [[zuverbiegen]]
 [[verbiegen]] - [[ver]] = [[biegen]] / to bend, to distort, to warp
 
 ---
-[[Biegung]], [[Verbiegung]], [[biegsam]], [[verformt]], [[Verzerrung]], [[Ahne]]
+[[Biegung]], [[Verbiegung]], [[biegsam]], [[verformt]], [[Verzerrung]], [[Ahne]], [[zurechtbiegen]]

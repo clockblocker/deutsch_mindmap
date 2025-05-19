@@ -1,7 +1,7 @@
 🔥 [[hitzig]], [ˈhɪt͡sɪç] ≠ [[kühl]]
 
 ---
-[[1 ADHD#^4|(q)]]  ist leicht [[aufbrausend]]/hat ein [[hitziges]] Temperament. ^4
+[[1 ADHD#^4|^]]  ist leicht [[aufbrausend]]/hat ein [[hitziges]] Temperament. ^4
 
 ---
 = [[feurig]], [[leidenschaftlich]], [[temperamentvoll]]

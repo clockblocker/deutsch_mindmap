@@ -1,1 +1,1 @@
-, [[Meinungsäußerung]]
+---> [[🗣️ Ingredient-Meinung]] <---

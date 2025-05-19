@@ -1,1 +1,1 @@
-, [[Freiheitsstrafe]], [[Urteile]]
+, [[Freiheitsstrafe]], [[Urteile]], [[Urteil]], [[Verurteilung]]

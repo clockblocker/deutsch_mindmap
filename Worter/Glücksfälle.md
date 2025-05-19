@@ -1,7 +1,7 @@
 🔵 🍀 die [[Glücksfälle]], [ˈɡlʏksˌfɛlə]
 
 ---
-> [[16 Plusquamperfekt#^36|(q)]] «Die beiden größten [[Glücksfälle]], die einem Maler passieren können, sind:  
+> [[16 Plusquamperfekt#^36|^]] «Die beiden größten [[Glücksfälle]], die einem Maler passieren können, sind:  
 > 1. Spanier zu sein; 2. Dali zu heißen.» ^36
 
 ---

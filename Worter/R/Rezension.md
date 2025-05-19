@@ -27,3 +27,4 @@ D: der [[Rezension]], den [[Rezensionen]]
 
 ---
 [[rezensieren]], [[Rezensent]], [[rezensierend]], [[Rezession]]
+---> [[🗣️ Ingredient-Meinung]] <---

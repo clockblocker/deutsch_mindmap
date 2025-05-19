@@ -2,7 +2,7 @@
 die [[Scherben]]
 
 ---
-[[15 genetiv#^1|(q)]] Das Wohnzimmer sah aus wie nach einer Explosion: [[Scherben]] und kaputte Möbel. Dazwischen lag das tote Mädchen. Sie hieß Elenor Zeiser. Kommissar Nissen konnte [[kaum]] glauben, was er sah. ^1
+[[15 genetiv#^1|^]] Das Wohnzimmer sah aus wie nach einer Explosion: [[Scherben]] und kaputte Möbel. Dazwischen lag das tote Mädchen. Sie hieß Elenor Zeiser. Kommissar Nissen konnte [[kaum]] glauben, was er sah. ^1
 
 
 ---

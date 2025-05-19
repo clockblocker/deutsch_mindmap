@@ -2,7 +2,7 @@
 die [[Gefechte]]
 
 ---
-[[Ausländer#^2|(q)]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
+[[Ausländer#^2|^]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
 Mit dem anderen Geschlecht ^2
 
 

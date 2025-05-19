@@ -2,7 +2,7 @@
 die [[Fahrradmessen]]
 
 ---
-[[1.1 text#^1|(q)]] Unser Reporter Jens Ewert besucht die [[Fahrradmesse]] *Bikes & More.* Jedes Jahr präsentieren dort Hunderte Unternehmen die neuesten Produkte und Trends rund  um das Fahrrad. ^1
+[[1.1 text#^1|^]] Unser Reporter Jens Ewert besucht die [[Fahrradmesse]] *Bikes & More.* Jedes Jahr präsentieren dort Hunderte Unternehmen die neuesten Produkte und Trends rund  um das Fahrrad. ^1
 
 ---
 = [[Fahrradausstellung]], [[Bike Show]]

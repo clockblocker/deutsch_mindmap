@@ -27,4 +27,4 @@ D: der [[Deutung]], den [[Deutungen]]
 ---
 [[deuten]], [[deutlich]], [[bedeuten]], [[bedeutsam]], [[undeutlich]], [[eindeutig]], [[Entzifferung]]
 
-#Feminin
+#Feminin, [[zweideutig]]

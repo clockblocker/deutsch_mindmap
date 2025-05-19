@@ -1,7 +1,7 @@
 😤 [[durchmachen]], [ˈdʊɐ̯çmaχn̩] | [[machte durch]], haben [[durchgemacht]]
 
 ---
-[[16 Plusquamperfekt#^28|(q)]] Seit dieser Zeit [[durchmachen|machte]] seine Kunst große [[Veränderungen]] durch - vom Impressionismus zum Kubismus, vom Kubismus zum Surrealismus, einer spontanen Methode der irrationalen [[Erkenntnis]].  ^28
+[[16 Plusquamperfekt#^28|^]] Seit dieser Zeit [[durchmachen|machte]] seine Kunst große [[Veränderungen]] durch - vom Impressionismus zum Kubismus, vom Kubismus zum Surrealismus, einer spontanen Methode der irrationalen [[Erkenntnis]].  ^28
 
 ---
 = [[aushalten]], [[ertragen]], [[erleben]], [[überstehen]] 

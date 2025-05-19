@@ -4,7 +4,7 @@ nicht [[ruhig]]
 ---
 _Sokka dreht sich [[wütend]] zu Katara um._
 
-[[Eine Extrawurst bekommen.md#^5|(q)]] Aber heute sind sie so richtig [[wütend]]: Beim Abendessen haben ihnen die Eltern gerade erzählt, dass sie nächstes Wochenende alle zu Tante Gisela fahren werden. ^5
+[[Eine Extrawurst bekommen.md#^5|^]] Aber heute sind sie so richtig [[wütend]]: Beim Abendessen haben ihnen die Eltern gerade erzählt, dass sie nächstes Wochenende alle zu Tante Gisela fahren werden. ^5
 
 ([[Dreht um|Dreht]] sich [[wütend]] zu Iroh um) 
 

@@ -2,7 +2,7 @@
 die [[Achsen]]
 
 ---
-[[1 ADHD#^2|(q)]] 3. ist immer auf [[Achse]], wie von einem [[Motor]] [[getrieben]]. ^2
+[[1 ADHD#^2|^]] 3. ist immer auf [[Achse]], wie von einem [[Motor]] [[getrieben]]. ^2
  
 
 ---

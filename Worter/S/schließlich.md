@@ -7,7 +7,7 @@ Wir haben [[uns]] total [[verlaufen]], aber [[schließlich]] sind wir doch noch 
 *[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
 
 
-Er war etwas [[zerknittert]] - [[schließlich]] hatte er zwölf Jahre im Koffer gelegen - aber sonst in gutem [[Zustand]]. [[17 zu inf#^15|(q)]]
+Er war etwas [[zerknittert]] - [[schließlich]] hatte er zwölf Jahre im Koffer gelegen - aber sonst in gutem [[Zustand]]. [[17 zu inf#^15|^]]
 
 Dann soll man [[Speisen]] kochen: Fleisch, Fisch, Gemüse, Salate machen und große Kuchen backen. [[Schließlich]] ist man müde.
 
@@ -15,7 +15,7 @@ Dann soll man [[Speisen]] kochen: Fleisch, Fisch, Gemüse, Salate machen und gro
 
 ---
 [[ausschließlich]] der Reisekosten   / exclusivly
-[[2 prap.md#^11|(q)]] [[einschließlich]] der gesamten Kosten // including, 
+[[2 prap.md#^11|^]] [[einschließlich]] der gesamten Kosten // including, 
 
 [[gleich]] 
 

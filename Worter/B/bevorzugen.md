@@ -1,7 +1,7 @@
 👍 [[bevorzugen]], [bəˈfoːɐ̯ˌtsuːɡn̩] | [[bevorzugte]], haben [[bevorzugt]]
 
 ---
-[[Eine Extrawurst bekommen.md#^4|(q)]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
+[[Eine Extrawurst bekommen.md#^4|^]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
 
 
 25 Aus Kostengründen sollte man unbemannte [[Raumflüge]] [[bevorzugen]].  a

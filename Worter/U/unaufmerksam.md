@@ -2,9 +2,9 @@
 😵 [[unaufmerksam]], [ˈʊnʔaʊ̯fˌmɛʁkzaːm] ≠ [[aufmerksam]]
 
 ---
-[[2 ADHD.md#^1|(q)]] Ich bin [[unaufmerksam]] [[gegenüber]] Details oder mache [[Sorgfaltsfehler]] bei der Arbeit. ^1
+[[2 ADHD.md#^1|^]] Ich bin [[unaufmerksam]] [[gegenüber]] Details oder mache [[Sorgfaltsfehler]] bei der Arbeit. ^1
 
-[[3 ADHD.md#^2|(q)]] Als Kind im Alter von 8 bis 10 Jahren war ich [[unaufmerksam]] und [[verträumt]]. ^2
+[[3 ADHD.md#^2|^]] Als Kind im Alter von 8 bis 10 Jahren war ich [[unaufmerksam]] und [[verträumt]]. ^2
 
 ---
 = [[zerstreut]], [[achtlos]], [[unachtsam]], [[zerstreut]], [[ablenkbar]]

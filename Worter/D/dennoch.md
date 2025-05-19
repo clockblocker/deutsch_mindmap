@@ -13,7 +13,7 @@ c) [[zeitsparend]] und [[dennoch]] effizient ist.
 
 Gloria hat morgen [[Führerscheinprüfung]]. Sie ist gut [[vorbereitet]], hat aber [[dennoch]] Angst. 
 
-[[2 Unter Druck nach oben#^6|(q)]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
+[[2 Unter Druck nach oben#^6|^]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
 
 
 ---

@@ -2,7 +2,7 @@
 die [[Zustellungen]]
 
 ---
-[[amazon.md#^11|(q)]] [[Zustellung]] heute bis 22h ^11
+[[amazon.md#^11|^]] [[Zustellung]] heute bis 22h ^11
 
 Freigabeprobleme gelöst. Sendung zur Zustellung freigegeben
 

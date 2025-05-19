@@ -1,1 +1,1 @@
-, [[Lastenrad]], [[Radschnellweg]]
+, [[Lastenrad]], [[Radschnellweg]], [[radeln]], [[Laufrad]]

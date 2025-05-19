@@ -1,1 +1,1 @@
-, [[Weisheit]], [[Erkenntnis]]
+, [[Weisheit]], [[Erkenntnis]]---> [[🗣️ Ingredient-Meinung]] <---

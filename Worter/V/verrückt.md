@@ -2,9 +2,9 @@
 nicht [[normal]]
 
 ---
-> [[16 Plusquamperfekt#^34|(q)]] «Der einzige Unterschied zwischen einem [[Verrückten]] und mir ist der, dass ich nicht [[verrückt]] bin.»   ^34
+> [[16 Plusquamperfekt#^34|^]] «Der einzige Unterschied zwischen einem [[Verrückten]] und mir ist der, dass ich nicht [[verrückt]] bin.»   ^34
 
-»Auf keinen Fall!« rief der junge Mann laut. »Sie sind [[verrückt]]! Das müssen Sie mir erst beweisen.« [[15 genetiv#^6|(q)]]
+»Auf keinen Fall!« rief der junge Mann laut. »Sie sind [[verrückt]]! Das müssen Sie mir erst beweisen.« [[15 genetiv#^6|^]]
 
 Schon [[verrückt]]! Da drinnen friert aber auch alles.
 

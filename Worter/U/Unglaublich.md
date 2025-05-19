@@ -20,7 +20,7 @@ incredible, unbelievable
 
 ---
 Morpheme:
-[[un]][[glaub]][[lich]]
+[[un]][[Glaub]][[lich]]
 
 ---
 

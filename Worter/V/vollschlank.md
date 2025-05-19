@@ -23,4 +23,4 @@ curvaceous, full-figured
 Adjektive: [[vollschlank]], [[vollschlanker]], [[vollschlankst]]
 
 ---
-[[vollschlanker]], [[vollschlankes]], [[vollschlanke]], [[vollschlanken]], [[vollschlankem]], [[vollschlankerer]], [[vollschlankeres]], [[vollschlankere]], [[vollschlankeren]], [[vollschlankerem]], [[vollschlankster]], [[vollschlankstes]], [[vollschlankste]], [[vollschlanksten]], [[vollschlankstem]]
+[[vollschlanker]], [[vollschlankes]], [[vollschlanke]], [[vollschlanken]], [[vollschlankem]], [[vollschlankerer]], [[vollschlankeres]], [[vollschlankere]], [[vollschlankeren]], [[vollschlankerem]], [[vollschlankster]], [[vollschlankstes]], [[vollschlankste]], [[vollschlanksten]], [[vollschlankstem]], [[übergewichtig]]

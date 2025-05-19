@@ -1,3 +1,4 @@
+---> [[🗣️ Ingredient-Meinung]] <---
 📝 [[Begründung]], [bəˈɡʁʏndʊŋ], [[Gründung]], [[gründen]]
 die [[Begründungen]]
 

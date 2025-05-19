@@ -1,7 +1,7 @@
 🔵 ⏱️ der [[Termindruck]], [ˈtɛʁmɪnˌdʁʊk]
 
 ---
-[[1 ADHD#^15|(q)]] erledigt [[Angelegenheiten]] nicht, außer unter hohem äußeren [[Termindruck]]. ^15
+[[1 ADHD#^15|^]] erledigt [[Angelegenheiten]] nicht, außer unter hohem äußeren [[Termindruck]]. ^15
 
 ---
 = [[Zeitdruck]], [[Deadline]], [[Zeitnot]]

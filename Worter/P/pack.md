@@ -1,1 +1,1 @@
-[[abgepackt]][[abpacken]], [[packen]], [[einpacken]]
+[[abgepackt]][[abpacken]], [[packen]], [[einpacken]], [[muskelbepackt]]

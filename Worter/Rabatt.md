@@ -2,7 +2,7 @@
 die [[Rabatte]]
 
 ---
-[[2 prap.md#^1|(q)]] Abzüglich aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
+[[2 prap.md#^1|^]] Abzüglich aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
 
 ---
 = [[Nachlass]], [[Preisnachlass]], [[Skonto]]

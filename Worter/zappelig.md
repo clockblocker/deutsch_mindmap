@@ -2,7 +2,7 @@
 
 
 ---
-[[1 ADHD#^16|(q)]] ist [[zappelig]] (mit Händen oder Füßen) oder [[rutscht]] auf ihrem Stuhl herum. ^16
+[[1 ADHD#^16|^]] ist [[zappelig]] (mit Händen oder Füßen) oder [[rutscht]] auf ihrem Stuhl herum. ^16
 
 ---
 = [[unruhig]], [[nervös]], [[hibbelig]]

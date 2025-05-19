@@ -1,1 +1,1 @@
-, [[zappeln]], [[löffeln]], [[wurzeln]], [[murmeln]]
+, [[zappeln]], [[löffeln]], [[wurzeln]], [[murmeln]], [[radeln]]

@@ -1,1 +1,1 @@
-, [[schmücken]], [[garstig]], [[designen]], [[versauen]]
+, [[schmücken]], [[garstig]], [[designen]], [[versauen]], [[zurechtbiegen]]

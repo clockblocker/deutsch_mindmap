@@ -1,1 +1,1 @@
-, [[anschauliche]], [[bezogen]], [[weltfremd]], [[naturgetreu]]
+, [[anschauliche]], [[bezogen]], [[weltfremd]], [[naturgetreu]], [[greifbar]]

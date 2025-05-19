@@ -32,4 +32,4 @@ G: des [[Verständnisses]], der [[Verständnisse]]
 D: dem [[Verständnis]], den [[Verständnissen]]
 
 
-#Neuter , [[verständnisvoll]], [[Rücksicht]], [[Auffassung]], [[Wahrnehmung]]
+#Neuter , [[verständnisvoll]], [[Rücksicht]], [[Auffassung]], [[Wahrnehmung]]---> [[🗣️ Ingredient-Meinung]] <---

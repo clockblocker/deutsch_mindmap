@@ -1,3 +1,5 @@
+---> 🧩 [[Grad-Wahrheit]] <---
+
 🌳 [[natürlich]], [naˈtyːɐ̯lɪç] ≠ [[künstlich]]
 
 ---

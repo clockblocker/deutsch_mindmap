@@ -1,1 +1,1 @@
-, [[umkehren]]
+, [[umkehren]], [[Umkehrschluss]]

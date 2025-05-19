@@ -2,7 +2,7 @@
 die [[Flüchtigkeitsfehler]]
 
 ---
-[[1 ADHD#^17|(q)]] macht [[Flüchtigkeitsfehler]] oder hat [[Schwierigkeiten]], auf Details zu achten. ^17
+[[1 ADHD#^17|^]] macht [[Flüchtigkeitsfehler]] oder hat [[Schwierigkeiten]], auf Details zu achten. ^17
 
 ---
 = [[Fehler]], [[Irrtum]], [[Versehen]]

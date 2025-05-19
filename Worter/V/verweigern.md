@@ -66,4 +66,4 @@ entziehen, verpassen, übergeben, zugeben, Verlangen, frönen, tun, ertragen, ve
 
 withdraw, miss, hand over, admit, demand, indulge, do, endure, promise, advise, question, wish, ask, tolerate, pay, submit, persuade, swallow, want, request, donate, send, satisfy, dedicate
 
-entziehen, [[bereitstellen]], [[zustimmen]], [[Verabreichen]], [[übernehmen]], [[unterbreiten]], [[teilhaben]]
+entziehen, [[bereitstellen]], [[zustimmen]], [[Verabreichen]], [[übernehmen]], [[unterbreiten]], [[teilhaben]], [[absprechen]]

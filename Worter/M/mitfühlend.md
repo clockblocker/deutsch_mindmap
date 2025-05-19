@@ -3,7 +3,7 @@
 ❤️ [[mitfühlend]], [ˈmɪtˌfyːlənt]
 
 ---
-[[Die halbe Miete sein.md#^6|(q)]] Fatima nickt [[mitfühlend]]. „Ich kenne das Problem“, sagt sie zu Anja. „Du weißt ja, dass ich auch lange einen Kitaplatz für meinen Sohn gesucht habe. ^6
+[[Die halbe Miete sein.md#^6|^]] Fatima nickt [[mitfühlend]]. „Ich kenne das Problem“, sagt sie zu Anja. „Du weißt ja, dass ich auch lange einen Kitaplatz für meinen Sohn gesucht habe. ^6
 
 ---
 = [[empathisch]], [[sympathisch]], [[verständnisvoll]],  [[Barmherzigen]]

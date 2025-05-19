@@ -17,7 +17,7 @@ Wer kennt das nicht: Man hat [[zugenommen]] und muss den Gürtel ganz weit mache
 *[[Golfstorm#^12|^]]* Ohne die Meeresströmungen würde Europa abkühlen, zudem könnten über dem Atlantik [[Wirbelstürme]] [[zunehmen]] und es schwächere [[Monsune]] in Afrika und Asien geben. ^12
 
 
-2.	[[2 Unter Druck nach oben#^23|(q)]] Es gibt keine [[erkennbaren]] Gründe dafür, dass die Bedeutung der Sozialkompetenz in den letzten Jahren [[zunahm]] `-` ^23
+2.	[[2 Unter Druck nach oben#^23|^]] Es gibt keine [[erkennbaren]] Gründe dafür, dass die Bedeutung der Sozialkompetenz in den letzten Jahren [[zunahm]] `-` ^23
 
 ---
 = [[wachsen]], [[ansteigen]], [[sich erhöhen]]
@@ -60,4 +60,4 @@ sie, [[nehmen zu]], [[nahmen zu]], [[nehmen zu]], [[nähmen zu]], [[nehmen zu]]
 Adjektive: [[zunehmend]], [[zunehmender]], [[zunehmendst]]
 
 ---
-[[zunehmender]], [[zunehmendes]], [[zunehmende]], [[zunehmenden]], [[zunehmendem]], [[zunehmenderer]], [[zunehmenderes]], [[zunehmendere]], [[zunehmenderen]], [[zunehmenderem]], [[zunehmendster]], [[zunehmendstes]], [[zunehmendste]], [[zunehmendsten]], [[zunehmendstem]], [[absinken]], [[Diät]], [[vermehren]], [[zurückgehen]]
+[[zunehmender]], [[zunehmendes]], [[zunehmende]], [[zunehmenden]], [[zunehmendem]], [[zunehmenderer]], [[zunehmenderes]], [[zunehmendere]], [[zunehmenderen]], [[zunehmenderem]], [[zunehmendster]], [[zunehmendstes]], [[zunehmendste]], [[zunehmendsten]], [[zunehmendstem]], [[absinken]], [[Diät]], [[vermehren]], [[zurückgehen]], [[zulegen]], [[Abspecken]]

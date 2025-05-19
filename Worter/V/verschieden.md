@@ -4,7 +4,7 @@ nicht [[gleich]]
 ---
 Alle Menschen sind [[verschieden]].
 
-[[16 Plusquamperfekt#^8|(q)]] Sie ging in die Galerien, Museen, Buchhandlungen, saß über den [[verschiedenen]] kunsttheoretischen Büchern und großen [[Bildbänden]] lange Stunden zu  
+[[16 Plusquamperfekt#^8|^]] Sie ging in die Galerien, Museen, Buchhandlungen, saß über den [[verschiedenen]] kunsttheoretischen Büchern und großen [[Bildbänden]] lange Stunden zu  
 
 Es gibt [[verschiedene]] [[Arten]] von Tieren.
 

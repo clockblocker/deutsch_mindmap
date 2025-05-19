@@ -1,3 +1,5 @@
+---> 📈 [[Grad-Vergleich]] <---
+
 🤝 die [[Gleichbehandlung]], [ˈɡlaɪ̯çbəˌhandlʊŋ]
 die [[Gleichbehandlungen]]
 

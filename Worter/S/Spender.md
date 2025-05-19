@@ -1,2 +1,2 @@
 , [[Spendengeldern]], [[erben]]
-, [[Spende]]
+, [[Spende]], [[spendieren]]

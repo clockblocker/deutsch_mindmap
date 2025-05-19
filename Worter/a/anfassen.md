@@ -3,7 +3,7 @@
 ---
 *Dann wollen wir schaffen, komm, [[anfassen|fass' an]]* 
 
-[[Keine Lust.md#^1|(q)]] *Ich habe keine Lust, mich nicht zu hassen*  
+[[Keine Lust.md#^1|^]] *Ich habe keine Lust, mich nicht zu hassen*  
 *Hab keine Lust, mich [[anzufassen]]*   ^1
 
 *[[Lustlos]] [[anfassen|fasse]] ich mich an*  

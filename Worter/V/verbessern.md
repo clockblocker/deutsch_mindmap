@@ -8,7 +8,7 @@
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^4|^]]* Damit wird nicht nur die [[Vereinbarkeit]] von Beruf und Privatleben [[verbessert]], sondern auch Raum geschaffen, in dem Mitarbeitende [[eigenverantwortlich]] und in ihrem individuellen Tempo arbeiten können. ^4
 
 
-[[Eigenlob stinkt.md#^8|(q)]] „Du, das muss mein neues Deodorant sein. Ich kaufe morgen direkt ein besseres!“ Lisa [[aufgeben|gibt]] auf. Manche Menschen sind einfach [[unverbesserlich]]. ^8
+[[Eigenlob stinkt.md#^8|^]] „Du, das muss mein neues Deodorant sein. Ich kaufe morgen direkt ein besseres!“ Lisa [[aufgeben|gibt]] auf. Manche Menschen sind einfach [[unverbesserlich]]. ^8
 
 ---
 Synonyme: [[korrigieren]], [[berichtigen]], [[optimieren]], [[vervollkommnen]], [[optimieren]]
@@ -38,4 +38,4 @@ Zu+infinitive: [[zu verbessern]]
 
 ---
 [[Verbesserung]], [[Verbesserungspotenzial]], [[Verbesserungsvorschlag]], [[Verbesserungsmaßnahme]], [[Selbstverbesserung]], [[antun]], [[am besten]], [[ergänzen]]
-, [[unverbesserlich]], [[stärken]], [[steigern]], [[versauen]], [[weiterentwickeln]], [[voranbringen]], [[ausbauen]]
+, [[unverbesserlich]], [[stärken]], [[steigern]], [[versauen]], [[weiterentwickeln]], [[voranbringen]], [[ausbauen]], [[zurechtbiegen]]

@@ -5,7 +5,7 @@ haben [[aufgesprungen]]
 ---
 _Aang springt auf, sieht sich um und Sokka geht in Kampfstellung
 
-[[Eine Extrawurst bekommen.md#^7|(q)]] Hannah und Lara [[aufspringen|springen]] auf: „Das ist unfair!“, rufen sie fast [[gleichzeitig]]. ^7
+[[Eine Extrawurst bekommen.md#^7|^]] Hannah und Lara [[aufspringen|springen]] auf: „Das ist unfair!“, rufen sie fast [[gleichzeitig]]. ^7
 
 ---
 Synonyme: [[hochspringen]], [[emporschnellen]], [[aufspringen]]

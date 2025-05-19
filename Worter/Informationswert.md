@@ -1,7 +1,7 @@
 🟢 ℹ️ der [[Informationswert]], [ɪnfɔʁˈmatsioːnsvɛɐ̯t]
 
 ---
-[[16 Plusquamperfekt#^20|(q)]] Der [[Selbstmord]] einer [[begabten]] Künstlerin, die auch [[hübsch]] gewesen war, hatte einen großen [[Informationswert]] in der Boulevardpresse. ^20
+[[16 Plusquamperfekt#^20|^]] Der [[Selbstmord]] einer [[begabten]] Künstlerin, die auch [[hübsch]] gewesen war, hatte einen großen [[Informationswert]] in der Boulevardpresse. ^20
 
 ---
 = [[Informationsgehalt]], [[Aussagefähigkeit]]

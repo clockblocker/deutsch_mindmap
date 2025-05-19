@@ -4,7 +4,7 @@
 die [[Produktrezensionen]]
 
 ---
-[[amazon.md#^6|(q)]] Schreib eine [[Produktrezension]] ^6
+[[amazon.md#^6|^]] Schreib eine [[Produktrezension]] ^6
 
 ---
 = [[Produktbewertung]], [[Rezension]]

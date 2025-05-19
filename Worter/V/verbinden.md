@@ -9,7 +9,7 @@ w
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^3|^]]* Der [[Wegfall]] langer [[Geschäftsreise]]n reduziert den Stress und den damit [[verbundenen]] physischen als auch psychischen Druck, der durch ständige [[Abwesenheiten]] [[entstehen]] kann. ^3
 
 
-[[1 Präpositionen Übungen.md#^1|(q)]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1
+[[1 Präpositionen Übungen.md#^1|^]] [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]: ^1
 
 Normalerweise [[verbindet]] man das Herz mit Liebe und Romantik. Man kann zum Beispiel sein Herz an jemanden verlieren oder jemandem das Herz brechen. Aber was bedeutet es, wenn einem das Herz in die Hose [[rutscht]]?
 
