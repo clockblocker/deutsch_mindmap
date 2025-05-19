@@ -1,2 +1,2 @@
 , [[Missverständnis]], [[ratlos]], [[Begriff]], [[Deutung]], [[Auslegung]], [[Hinweis]]
-, [[Richtungsangabe]], [[Erklärung]], [[Ablenkung]], [[Beschreibung]], [[Verwechslung]]
+, [[Richtungsangabe]], [[Erklärung]], [[Ablenkung]], [[Beschreibung]], [[Verwechslung]], [[Irrung]], [[Wirrung]]

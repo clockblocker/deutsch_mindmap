@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 schön, [ʃøːn]
 etwas nicht [[hässlich]]

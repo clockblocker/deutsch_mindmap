@@ -30,4 +30,4 @@ Zusätzliche Informationen:
 Verwandte Begriffe:
 - [[Enkelin]] (weibliche Form)
 - [[Großeltern]]
-- [[Enkelkind]]
+- [[Enkelkind]], [[Nachfahre]]

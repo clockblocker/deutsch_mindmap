@@ -1,4 +1,4 @@
----> 📊 [[Grad-Verteilung]] <---
+--> 📊 [[Grad-Verteilung]] <--
 , [[aufteilen]], [[Verbreitung]]
 
 Verteilung

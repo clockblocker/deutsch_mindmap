@@ -1,1 +1,1 @@
-, [[Hobbybäuerin]], [[Ackerheldin]]
+, [[Hobbybäuerin]], [[Ackerheldin]], [[Bauer]]

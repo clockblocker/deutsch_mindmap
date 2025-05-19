@@ -1,4 +1,4 @@
----> 📊 [[Grad-Verteilung]] <---
----> 🧩 [[Grad-Ganzheit]] <---
+--> 📊 [[Grad-Verteilung]] <--
+--> 🧩 [[Grad-Ganzheit]] <--
 , [[hauptsächlich]], [[mehrheitlich]]
 , [[überwiegend]], [[weitgehend]]

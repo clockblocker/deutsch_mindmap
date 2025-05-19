@@ -1,5 +1,5 @@
 [[0 Temporal-Freunde]]
----> ⏱️ [[Temporal-Status]] <---
+--> ⏱️ [[Temporal-Status]] <--
 
 #### 🟢 [[Vergangenheit bis jetzt]]  
 1) [[bereits]] *(already; completed earlier than expected or assumed)*  

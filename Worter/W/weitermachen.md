@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🏃 [[weitermachen]] | [[machte weiter|machte weiter]], haben [[weitergemacht]]
 
 ---

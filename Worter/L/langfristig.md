@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Perspektive]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--
 ⏳ [[langfristig]], [ˈlaŋˌfʁɪstɪç](https://youglish.com/pronounce/langfristig/german)
 
 

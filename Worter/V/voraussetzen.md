@@ -1,4 +1,4 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 ✅ [[voraussetzen]], [fɛɐ̯ˈʁaʊ̯sˌzɛt͡sn̩](https://youglish.com/pronounce/voraussetzen/german) → [[setzte voraus]] → [[vorausgesetzt]]
 
 ---

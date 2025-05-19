@@ -1,6 +1,6 @@
 🕰️ [[kürzlich]], [ˈkʏʁtslɪç], vor [[Kurzem]],
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

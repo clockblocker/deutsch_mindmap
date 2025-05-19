@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 💜 [[verschiedene]], [fɛɐ̯ˈʃiːdənə] | [[verschieden]]
 nicht [[gleich]], nicht [[einheitlich]]

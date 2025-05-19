@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
 🤕 [[chronisch]], [ˈkʁoːnɪʃ](https://youglish.com/pronounce/chronisch/german)
 

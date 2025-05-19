@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 🔴 📄 die [[Unterlage]], [ˈʊntɐˌlaːɡə]
 die [[Unterlagen]]
 

@@ -28,4 +28,4 @@ G: des [[Kurses]], der [[Kurse]]
 D: dem [[Kurs]], den [[Kursen]]
 
 #Maskulin 
-, [[Sprachenzentrum]], [[Fortbildung]], [[Bildungsfreistellung]], [[Bildungsurlaub]]
+, [[Sprachenzentrum]], [[Fortbildung]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Spotpreis]]

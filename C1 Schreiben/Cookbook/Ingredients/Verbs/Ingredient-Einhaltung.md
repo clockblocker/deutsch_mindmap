@@ -1,6 +1,6 @@
 ⚖️ [[Einhaltung]] – *Respect, Application, Fulfillment of Standards*
 
----> [[Ingredient-Einhaltung]] <---
+--> [[Ingredient-Einhaltung]] <--
 #### ✅ Beachtung / Befolgung (Observing Rules)
 👀 [[beachten]] *(to observe; notice and respect rules or conditions)*
 🫡  [[befolgen]] *(to follow, to obey)*

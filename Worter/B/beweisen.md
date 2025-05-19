@@ -4,11 +4,13 @@
 *[[C1-Lesen-T1-001-Text#^37|^]]* Das Team um Volk (8) [[verlässt]] zwar auf Hundenasen, weil die ihre [[Eignung]] zum [[Aufspüren]] von Krankheiten aller Art [[bewiesen]] hätten. ^37
 
 
-[[2 prap.md#^3|^]] [[anhand]] von neueren Studien, anhand von [[Beweisen]] ^3
+*[[C1-Hoehen-T1-201-Text#^22|^]]* [[Verkörpert]] werden sie von Alexandra Heilmann und Marco Rufbach, eine [[Auswahl]], mit der Regisseur Eric Hofmann ein [[glückliches]] [[Händchen]] [[bewiesen]] hat
 
-[[15 genetiv#^6|^]] »Auf keinen Fall!« rief der junge Mann laut. »Sie sind [[verrückt]]! Das müssen Sie mir erst [[beweisen]].« ^6
+[[2 prap.md#^3|^]] [[anhand]] von neueren Studien, anhand von [[Beweisen]]
 
-[[15 genetiv#^8|^]] Der Experte erklärte, dass der Mord nur durchs Fenster kommen konnte. Aber wie sollte man es [[beweisen]]? ^8
+[[15 genetiv#^6|^]] »Auf keinen Fall!« rief der junge Mann laut. »Sie sind [[verrückt]]! Das müssen Sie mir erst [[beweisen]]
+
+[[15 genetiv#^8|^]] Der Experte erklärte, dass der Mord nur durchs Fenster kommen konnte. Aber wie sollte man es [[beweisen]]?
 
 [[Beweis]]
 

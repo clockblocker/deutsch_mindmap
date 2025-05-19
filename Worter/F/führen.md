@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🚗 [[führen]] + Akk, [ˈfyːʁən], [[führte]], haben [[geführt]]
 
@@ -46,4 +46,4 @@ Partizip I: [[führend]], Partizip II: [[geführt]]
 
 [[fahren]], [[steuere]]
 , [[Schwierigkeit]], [[regieren]], [[verwalten]], [[vorsitzen]], [[Staatsoberhaupt]], [[Stadtoberhaupt]]
-, [[vorangehen]], [[Führungskraft]], [[tragen]], [[durchführen]], [[mangeln]], [[chronisch]], [[Geschäftsführung]], [[dirigieren]]
+, [[vorangehen]], [[Führungskraft]], [[tragen]], [[durchführen]], [[mangeln]], [[chronisch]], [[Geschäftsführung]], [[dirigieren]], [[entführen]]

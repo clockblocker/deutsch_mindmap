@@ -1,6 +1,6 @@
 💯 [[essenziell]], [ɛsɛnˈt͡si̯ɛl](https://youglish.com/pronounce/essenziell/german)
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 
 ---

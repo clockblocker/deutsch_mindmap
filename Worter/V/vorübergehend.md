@@ -1,5 +1,5 @@
----> ⏱️ [[Temporal-Perspektive]] <---
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
 ⏳ [[vorübergehend]], [foːɐ̯ˈyːbɐˌɡeːənt](https://youglish.com/pronounce/vorübergehend/german)
 

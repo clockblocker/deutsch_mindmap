@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 📍 🔴 die [[Position]], [poziˈt͡si̯oːn](https://youglish.com/pronounce/Position/german)
 die [[Positionen]]

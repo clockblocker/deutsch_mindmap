@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 🌐 die [[Erkenntnis]], [eʶɐ̯ˈkɛntnɪs]
 die [[Erkenntnisse]]
 

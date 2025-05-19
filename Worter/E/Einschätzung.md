@@ -1,5 +1,5 @@
----> [[🗣️ Ingredient-Meinung]] <---
----> 🤝 [[Ingredient-Interaktion]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🧐 🔴 die [[Einschätzung]], [ˈaɪ̯nˌʃɛt͡sʊŋ]
 die [[Einschätzungen]]

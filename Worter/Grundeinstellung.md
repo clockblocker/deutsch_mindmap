@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🤔 🔴 die [[Grundeinstellung]], [ˈɡʁʊntʔaɪ̯nˌʃtɛlʊŋ](https://youglish.com/pronounce/Grundeinstellung/german)
 die [[Grundeinstellungen]]

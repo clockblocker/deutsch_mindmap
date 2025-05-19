@@ -1,4 +1,4 @@
----> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 ---
 🏠 die [[Lage]], [ˈlaːɡə], 🏠 die [[Lage]] | 🧘 [[liegen]]
@@ -35,4 +35,4 @@ Einzigartige mögliche Formen:
 , [[befinden]], [[legen]], [[Niederlage]], [[Umstand]], [[Vorlage]], [[Wahlniederlage]]
 , [[Unterlage]]
 , [[gelegen]]
-, [[Auftragslage]], [[Kapitalanlage]]
+, [[Auftragslage]], [[Kapitalanlage]], [[Lebenslage]]

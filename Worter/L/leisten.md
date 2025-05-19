@@ -3,6 +3,8 @@
 ---
 Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[leisten]] muss, um ein Ziel zu [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
+*[[C1-Hoehen-T1-202-Text#^5|^]]* Und dafür sind oft die [[Niedriglohnkräfte]] [[riesig]]er [[Plantagen]], auf denen unsere Lebensmittel produziert werden – nicht zu Lasten des Klimas, sondern auch heimische [[Bauern]], die ihre [[Milchhöfe]] aufgeben müssen, weil sie sich den Preiskrieg der Discounter nicht mehr [[leisten]] können
+
 *[[C1-Lesen-T4-101-Text#^23|^]]* Roboter können aber auch [[gezielte]] [[Vorarbeit]] [[leisten]], bevor eine bemannte Mission zum Mars oder zum Mond startet.
 
 [[0 checklist#^5|^]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]

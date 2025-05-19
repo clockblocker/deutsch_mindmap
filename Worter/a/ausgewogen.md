@@ -1,4 +1,4 @@
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 ⚖️ [[ausgewogen]], [ˈaʊ̯sɡəˌvoːɡn̩](https://youglish.com/pronounce/ausgewogen/german)
 
 ---

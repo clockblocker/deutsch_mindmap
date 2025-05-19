@@ -26,4 +26,4 @@ N: die [[Botschaft]], die [[Botschaften]]
 A: die [[Botschaft]], die [[Botschaften]]
 G: der [[Botschaft]], der [[Botschaften]]
 D: der [[Botschaft]], den [[Botschaften]]
-, [[Ruf]]---> [[🗣️ Ingredient-Meinung]] <---
+, [[Ruf]]--> [[🗣️ Ingredient-Meinung]] <--

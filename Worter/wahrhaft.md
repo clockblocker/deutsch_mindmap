@@ -1,1 +1,1 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--

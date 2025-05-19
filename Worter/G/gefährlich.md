@@ -1,4 +1,4 @@
----> ⚠️ [[Grad-Risiko]] <---
+--> ⚠️ [[Grad-Risiko]] <--
 
 🟥 [[gefährlich]], [ɡəˈfɛːɐ̯lɪç]
 nicht [[ungefährlich]]

@@ -1,4 +1,4 @@
----> [[Ingredient-Zugang-Zugriff]] <---
+--> [[Ingredient-Zugang-Zugriff]] <--
 #### 🔓 [[Zugang]]
 *→ literally “entrance”, metaphorically “access”*
 

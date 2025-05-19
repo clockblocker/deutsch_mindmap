@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🔴 die [[Petition]], [peˈtiːtsi̯oːn]
 die [[Petitionen]]

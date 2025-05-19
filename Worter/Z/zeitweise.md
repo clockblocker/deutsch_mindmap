@@ -1,6 +1,6 @@
----> ⏱️ [[Temporal-Template]] <---
----> ⏱️ [[Temporal-Perspektive]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Template]] <--
+--> ⏱️ [[Temporal-Perspektive]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 ⏱️ [[zeitweise]], [ˈtsaɪ̯tˌvaɪ̯zə](https://youglish.com/pronounce/zeitweise/german)
 

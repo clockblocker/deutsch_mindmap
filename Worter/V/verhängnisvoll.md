@@ -1,1 +1,1 @@
-, [[tödlich]]
+, [[tödlich]], [[tragisch]]

@@ -1,1 +1,1 @@
-, [[Kraft]]
+, [[Kraft]], [[Niedriglohnkraft]]

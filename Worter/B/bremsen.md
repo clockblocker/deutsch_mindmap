@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🛑 [[bremsen]], [ˈbʁɛmzn̩](https://youglish.com/pronounce/bremsen/german) → [[bremste]] → [[gebremst]]
 

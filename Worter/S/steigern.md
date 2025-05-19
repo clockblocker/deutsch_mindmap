@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 📈 [[steigern]], [ˈʃtaɪ̯ɡɐn](https://youglish.com/pronounce/steigern/german) → [[steigerte]] → haben/sein [[gesteigert]]
 
 ---

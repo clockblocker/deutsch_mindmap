@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 🔢 🔴 die [[Quantität]], [kvantiˈtɛːt](https://youglish.com/pronounce/Quantität/german)
 

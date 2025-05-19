@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 🔴 die [[Lust]], [lʊst] 
 
 ---

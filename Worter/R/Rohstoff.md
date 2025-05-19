@@ -1,1 +1,1 @@
-, [[Stoff]], [[Gerät]], [[Abfall]], [[Ressource]]
+, [[Stoff]], [[Gerät]], [[Abfall]], [[Ressource]], [[Verpackungsmüll]]

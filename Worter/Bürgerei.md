@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🏛️ 🔴 die [[Bürgerei]], [ˈbʏʁɡəˌʁaɪ̯]
 die [[Bürgereien]]

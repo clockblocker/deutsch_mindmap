@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 💯 [[optimal]], [ɔpˈtiːmaːl](https://youglish.com/pronounce/optimal/german)
 

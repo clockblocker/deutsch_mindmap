@@ -85,4 +85,4 @@ Konjunktiv II:
 - Wenn er aufmerksamer wäre, [[wüsste]] er, was er tun soll.
 - Wenn wir besser vorbereitet wären, [[wüssten]] wir die Lösung.
 - Wenn ihr mehr zuhören würdet, [[wüsstet]] ihr Bescheid.
-- Wenn sie mehr lesen würden, [[wüssten]] sie viel über die Welt., [[irren]], [[raten]], [[auskennen]], [[vermuten]], [[erfahren]], [[ahnen]], [[Erkenntnis]], [[Versehen]], [[Fachwissen]], [[Verständnis]], [[beherrschen]], [[Information]]---> [[🗣️ Ingredient-Meinung]] <---
+- Wenn sie mehr lesen würden, [[wüssten]] sie viel über die Welt., [[irren]], [[raten]], [[auskennen]], [[vermuten]], [[erfahren]], [[ahnen]], [[Erkenntnis]], [[Versehen]], [[Fachwissen]], [[Verständnis]], [[beherrschen]], [[Information]]--> [[🗣️ Ingredient-Meinung]] <--

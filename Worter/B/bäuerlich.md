@@ -1,1 +1,1 @@
-, [[Bauernhof]]
+, [[Bauernhof]], [[Bauer]]

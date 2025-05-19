@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🔵 📝 der [[Auftrag]], [ˈaʊ̯fˌtʁaːk]
 die [[Aufträge]]

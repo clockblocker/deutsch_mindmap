@@ -72,4 +72,4 @@ sie, [[wecken]], [[weckten]], [[wecken]], [[weckten]], [[wecken]]
 Adjektive: [[weckend]], [[weckender]], [[weckendst]]
 
 ---
-[[weckender]], [[weckendes]], [[weckende]], [[weckenden]], [[weckendem]], [[weckenderer]], [[weckenderes]], [[weckendere]], [[weckenderen]], [[weckenderem]], [[weckendster]], [[weckendstes]], [[weckendste]], [[weckendsten]], [[weckendstem]]
+[[weckender]], [[weckendes]], [[weckende]], [[weckenden]], [[weckendem]], [[weckenderer]], [[weckenderes]], [[weckendere]], [[weckenderen]], [[weckenderem]], [[weckendster]], [[weckendstes]], [[weckendste]], [[weckendsten]], [[weckendstem]], [[sensibilisieren]]

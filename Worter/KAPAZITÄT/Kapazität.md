@@ -1,11 +1,11 @@
----> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
+--> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <--
 , [[Ressource]]
 
 💡 🔴 die [[Kapazität]], [kapatsiˈtɛːt](https://youglish.com/pronounce/Kapazität/german)
 die [[Kapazitäten]]
 
 ---
----> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
+--> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <--
 
 ---
 = [[Fassungsvermögen]], [[Leistungsfähigkeit]], [[Fähigkeit]]

@@ -1,2 +1,2 @@
 
-, [[Rabatt]], [[günstig]]
+, [[Rabatt]], [[günstig]], [[Schnäppchen]]

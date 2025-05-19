@@ -1,5 +1,5 @@
----> ⏱️ [[Temporal-Template]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Template]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 
 NIC: [[nie]][[mal]]! Das will ich sehen.

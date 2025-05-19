@@ -5,6 +5,8 @@
 1. Сын радует отца. Der Sohn [[erfreust]] den Vater
 2. Отец радуется сыну. Der Vater [[freut]] sich [[Worter/Ü/über]] seinen Sohn.
 
+*[[C1-Hoehen-T1-202-Text#^1|^]]* Wer von uns hat sich nicht schon mal über ein sogenanntes [[Schnäppchen]] [[gefreut]], also darüber, dass er ein [[scheinbar]] teures Produkt zu einem [[erschwinglichen]] Preis bekommen hat?
+
 *[[Text mit Reflexivpronomen#^24|^]]* Er würde (30) auf ein [[Wiedersehen]] mit dir [[freuen]]. ^24
 
 *Paulinchen aber [[freut]] sich sehr*  

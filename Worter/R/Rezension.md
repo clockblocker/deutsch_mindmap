@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🔴 📖 die [[Rezension]], [ʁezɛnˈziːoːn]
 die [[Rezensionen]]
@@ -27,4 +27,4 @@ D: der [[Rezension]], den [[Rezensionen]]
 
 ---
 [[rezensieren]], [[Rezensent]], [[rezensierend]], [[Rezession]]
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--

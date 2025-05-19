@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🔗 [[unterbrechen]] + Akk, [ˌʊntɐˈbrɛçən]
 [[unterbrach|unterbrach]]
 haben [[unterbrochen]]
@@ -46,4 +46,4 @@ Partizip I: [[unterbrechend]], Partizip II: [[unterbrochen]]
 
 [[stören]], [[bestehen]], [[losschießen]]
 , [[verbringen]], [[ausführen]], [[eröffnen]]
-, [[fertigstellen]], [[auflegen]], [[abschalten]]
+, [[fertigstellen]], [[auflegen]], [[abschalten]], [[dazwischenfunken]]

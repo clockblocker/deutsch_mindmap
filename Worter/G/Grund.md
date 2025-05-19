@@ -1,5 +1,5 @@
----> [[🗣️ Ingredient-Meinung]] <---
----> [[Ingredient-Pflege]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> [[Ingredient-Pflege]] <--
 
 🔵 [[Grund]], [ɡʁʊnt]
 die [[Gründe]]

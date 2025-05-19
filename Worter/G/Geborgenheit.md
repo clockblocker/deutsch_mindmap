@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Nomen]] <---
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
 😌 🔴 die [[Geborgenheit]], [ɡəˈbɔʁɡn̩haɪ̯t](https://youglish.com/pronounce/Geborgenheit/german)
 

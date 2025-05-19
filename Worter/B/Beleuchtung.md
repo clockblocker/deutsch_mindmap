@@ -1,1 +1,1 @@
-, [[licht]], [[Sonnenlicht]], [[beleuchten]], [[ausleuchten]]
+, [[licht]], [[Sonnenlicht]], [[beleuchten]], [[ausleuchten]], [[Spot]]

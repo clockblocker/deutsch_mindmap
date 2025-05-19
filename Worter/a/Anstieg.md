@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 📈 🔵 der [[Anstieg]], [ˈanˌʃtiːk](https://youglish.com/pronounce/Anstieg/german)
 die [[Anstiege]]

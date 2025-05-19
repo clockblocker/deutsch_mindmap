@@ -1,1 +1,1 @@
-, [[Pausenhof]], [[Bauernhof]]
+, [[Pausenhof]], [[Bauernhof]], [[Milchhof]]

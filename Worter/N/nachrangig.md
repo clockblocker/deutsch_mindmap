@@ -1,6 +1,6 @@
 📉 [[nachrangig]], [ˈnaːxˌʁaŋɪç](https://youglish.com/pronounce/nachrangig/german)
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 ---
 , [[vorrangig]]

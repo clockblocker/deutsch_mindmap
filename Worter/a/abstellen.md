@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 🅿️ [[abstellen]], [ˈapˌʃtɛlən](https://youglish.com/pronounce/abstellen/german) → [[stellte ab]] → [[abgestellt]]
 
 ---

@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🔒[[abschließen]] + Akk, [ˈapˌʃliːsən]
 [[schloss ab|schloss ab]]  
 haben [[abgeschlossen]]

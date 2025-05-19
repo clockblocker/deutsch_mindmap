@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🔵 🌳 der [[Park]], [paʁk]
 die [[Parks]]

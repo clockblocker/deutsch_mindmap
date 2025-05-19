@@ -1,1 +1,1 @@
-[[erzählen]], [[erklären]], [[beweisen]], [[vorweisen]], [[erweisen]], [[ausweisen]], [[aufweisen]]
+[[erzählen]], [[erklären]], [[beweisen]], [[vorweisen]], [[erweisen]], [[ausweisen]], [[aufweisen]], [[klarmachen]]

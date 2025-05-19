@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Ganzheit]] <---
+--> 🧩 [[Grad-Ganzheit]] <--
 
 🌍 [[weltweit]], [ˈvɛltˌvaɪ̯t](https://youglish.com/pronounce/weltweit/german)
 

@@ -1,5 +1,5 @@
----> [[Ingredient-Einhaltung]] <---
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Einhaltung]] <--
+--> [[Ingredient-Pflege]] <--
 🧐 [[beachten]], [bəˈʔaxtən] | [[beachtete]], haben [[beachtet]]
 
 ---

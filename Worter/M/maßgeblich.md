@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 , [[entscheidend]], [[richtungsgebend]]
 

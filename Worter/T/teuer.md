@@ -1,4 +1,4 @@
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 💰 [[teuer]], [ˈtɔɪ̯ɐ] ≠ [[billig]]
 
 ---
@@ -28,4 +28,4 @@ P: [[teuren]], [[teuereren]], [[teuerste]]
 
 ---
 [[Teuerung]], [[teuerlich]], [[teuern]], [[teuernde]], [[drehen]]
-, [[umsonst]], [[aufwendig]]
+, [[umsonst]], [[aufwendig]], [[Schnäppchen]]

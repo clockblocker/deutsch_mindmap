@@ -1,4 +1,4 @@
----> 📊 [[Grad-Verteilung]] <---
+--> 📊 [[Grad-Verteilung]] <--
 🗳️ [[mehrheitlich]], [ˈmeːɐ̯haɪ̯tlɪç]
 
 ---

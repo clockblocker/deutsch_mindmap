@@ -1,6 +1,6 @@
 🙅‍♀️ [[unnötig]], [ˈʊnˌnøːtɪç] ≠ [[notwendig]]
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 
 ---

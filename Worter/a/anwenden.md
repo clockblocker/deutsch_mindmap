@@ -1,5 +1,5 @@
----> [[Ingredient-Einhaltung]] <---
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Einhaltung]] <--
+--> [[Ingredient-Pflege]] <--
 🔧 [[anwenden]], [ˈanˌvɛndən] | [[wandte an]], haben [[angewandt]]
 
 ---

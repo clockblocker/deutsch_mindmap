@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🏢 🔴 die [[Anlage]], [ˈanˌlaːɡə](https://youglish.com/pronounce/Anlage/german) | [[anlegen]],
 die [[Anlagen]]

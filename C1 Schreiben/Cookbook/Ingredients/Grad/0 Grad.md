@@ -1,11 +1,11 @@
----> 🧮 [[Grad-Quantität]] <---
----> 💥 [[Grad-Intensität]] <---
----> 📊 [[Grad-Verteilung]] <---
----> 📈 [[Grad-Vergleich]] <---
----> 🧱 [[Grad-Gewicht]] <---
----> 🧩 [[Grad-Ganzheit]] <---
----> 💸 [[Grad-Preis]] <---
----> ⚠️ [[Grad-Risiko]] <---
+--> 🧮 [[Grad-Quantität]] <--
+--> 💥 [[Grad-Intensität]] <--
+--> 📊 [[Grad-Verteilung]] <--
+--> 📈 [[Grad-Vergleich]] <--
+--> 🧱 [[Grad-Gewicht]] <--
+--> 🧩 [[Grad-Ganzheit]] <--
+--> 💸 [[Grad-Preis]] <--
+--> ⚠️ [[Grad-Risiko]] <--
 Grad-gut
 
 

@@ -22,3 +22,4 @@ Einzigartige mögliche Formen: [[Tragödie]], [[Tragödien]], [[Tragödie]], [[T
 ---
 #Substantiv #Feminin
 
+, [[tragisch]]

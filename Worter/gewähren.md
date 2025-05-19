@@ -1,4 +1,4 @@
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredient-erlauben-verbieten]] <--
 
 🤝 [[gewähren]], [ɡəˈvɛːʁən] | [[gewährte]], haben [[gewährt]]
 

@@ -1,9 +1,11 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 [[riesig]]
 
 ---
 NIC: … und [[zwar]] jeden Abend … um Punkt sechs, vor einem [[riesigen]] [[Publikum]]!  
+
+*[[C1-Hoehen-T1-202-Text#^6|^]]* Oder [[Produzent]]en, die sich dem [[Preisdiktat]] [[riesig]]er Discounter [[beugen]] müssen
 
 *[[C1-Lesen-T4-101-Text#^3|^]]* Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]. ^3
 
@@ -18,6 +20,8 @@ Er springt auf ein [[riesiges]] pelziges Tier, das vor sich hin grummelt.*
 _Lachend fahren sie durch einen Eistunnel, bis sie an einem [[riesigen]] Schiffswrack ankommen._
 
 Doch fast alle haben vor kurzer Zeit viel Geld [[ausgegeben]]. Einer hat sich ein neues Auto gekauft. Ein anderer hat den Garten [[umbauen]] lassen. Ein Dritter hat sich einen [[riesigen]] Fernseher gekauft. 
+
+*[[C1-Hoehen-T1-202-Text#^5|^]]* Und dafür sind oft die [[Niedriglohnkräfte]] [[riesig]]er [[Plantagen]], auf denen unsere Lebensmittel produziert werden – nicht zu Lasten des Klimas, sondern auch heimische [[Bauern]], die ihre Milchhöfe aufgeben müssen, weil sie sich den Preiskrieg der Discounter nicht mehr [[leisten]] können
 
 
 ---

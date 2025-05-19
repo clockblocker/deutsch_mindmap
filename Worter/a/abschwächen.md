@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 📉 [[abschwächen]], [ˈapˌʃvɛçn̩](https://youglish.com/pronounce/abschwächen/german) | [[schwächt ab]] | [[abgeschwächt]]
 

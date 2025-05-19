@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 😡 [[Lügen]]
 [[log]]
 haben [[gelogen]]
@@ -15,7 +15,7 @@ haben [[gelogen]]
 
 **Beispiele:**
 
-- Ich [[lüge]], wenn ich sage, dass ich es nicht wusste.
+- Ich [[Lüge]], wenn ich sage, dass ich es nicht wusste.
 - Du [[lügst]], um dich aus der Affäre zu ziehen.
 - Er [[lügt]], um die Wahrheit zu verbergen.
 - Es [[lügt]], um keine Strafe zu bekommen.
@@ -52,20 +52,20 @@ to lie
 
 **Imperativ:**
 
-- Ich [[lüge]] nicht.
+- Ich [[Lüge]] nicht.
 - Du [[lüg]] nicht.
-- Er [[lüge]] nicht.
-- Es [[lüge]] nicht.
-- Sie [[lüge]] nicht.
+- Er [[Lüge]] nicht.
+- Es [[Lüge]] nicht.
+- Sie [[Lüge]] nicht.
 - Wir [[Lügen]] nicht.
 - Ihr [[lügt]] nicht.
 - Sie [[Lügen]] nicht.
 
 ---
 Konjunktiv I:
-- Er sagt, ich [[lüge]] nicht.
+- Er sagt, ich [[Lüge]] nicht.
 - Sie meint, du [[lügest]] immer.
-- Er behauptet, er [[lüge]] nie.
+- Er behauptet, er [[Lüge]] nie.
 - Wir erklären, wir [[Lügen]] nicht.
 - Ihr sagt, ihr [[lüget]] nicht.
 - Sie sagen, sie [[Lügen]] nie.

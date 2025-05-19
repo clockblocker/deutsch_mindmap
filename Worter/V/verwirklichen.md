@@ -1,4 +1,4 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 
 ✅ [[verwirklichen]], [fɛɐ̯ˈvɪʁklɪçn̩](https://youglish.com/pronounce/verwirklichen/german) → [[verwirklichte]] → [[verwirklicht]]
 

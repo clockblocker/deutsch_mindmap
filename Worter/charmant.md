@@ -1,7 +1,9 @@
 😍 [[charmant]], [ʃaʁˈmɑ̃ː]
 
 ---
-[[Ein Auge zudrücken.md#^4|^]] Denn Roman ist der [[charmanteste]] Mensch der Welt. Hat er mal wieder den Wein danebengegossen, entschuldigt er sich so nett beim Gast, dass dieser ihm sofort [[verzeiht]]. ^4
+[[Ein Auge zudrücken.md#^4|^]] Denn Roman ist der [[charmanteste]] Mensch der Welt. Hat er mal wieder den Wein danebengegossen, entschuldigt er sich so nett beim Gast, dass dieser ihm sofort [[verzeiht]]
+
+*[[C1-Hoehen-T1-201-Text#^21|^]]* Hier geht es um ein [[charmantes]], allerdings auch sehr naives Paar, das gerade frisch verliebt ist, auch wenn die beiden selbst nicht mehr ganz so frisch sind
  
 ---
 = [[anziehend]], [[liebenswürdig]], [[gewinnend]]

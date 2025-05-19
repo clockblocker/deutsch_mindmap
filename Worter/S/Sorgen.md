@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 
 🔴 die [[Sorgen]], [ˈzɔʁɡən]
 die [[Sorgen]]

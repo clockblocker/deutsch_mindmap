@@ -27,4 +27,4 @@ A: die [[Worter/W/Wissenschaft]], die [[Wissenschaften]]
 G: der [[Worter/W/Wissenschaft]], der [[Wissenschaften]]
 D: der [[Worter/W/Wissenschaft]], den [[Wissenschaften]]
 
-#Feminin , [[Technologie]], [[Forschungsteam]], [[Wissenschaftszweig]]---> [[🗣️ Ingredient-Meinung]] <---
+#Feminin , [[Technologie]], [[Forschungsteam]], [[Wissenschaftszweig]]--> [[🗣️ Ingredient-Meinung]] <--

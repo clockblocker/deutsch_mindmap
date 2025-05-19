@@ -1,3 +1,3 @@
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 
 , [[verschwinden]], [[Verschwendung]]

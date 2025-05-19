@@ -1,1 +1,1 @@
-, [[Naturschutz]]
+, [[Naturschutz]], [[Schonung]]

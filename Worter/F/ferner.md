@@ -1,7 +1,7 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 ➡️ [[ferner]], [ˈfɛʁnɐ](https://youglish.com/pronounce/ferner/german)
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

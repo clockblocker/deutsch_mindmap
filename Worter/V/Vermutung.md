@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 Singular: die [[Vermutung]]
 Plural: die [[Vermutungen]]
 

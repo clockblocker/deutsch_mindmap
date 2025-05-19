@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
 ↔️ [[durchgängig]], [ˈdʊɐ̯çˌɡɛŋɪç](https://youglish.com/pronounce/durchgängig/german)
 

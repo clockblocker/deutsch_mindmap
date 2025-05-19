@@ -27,4 +27,4 @@ A: die [[Abholzung]], die [[Abholzungen]]
 G: der [[Abholzung]], der [[Abholzungen]]
 D: der [[Abholzung]], den [[Abholzungen]]
 
-#Feminin 
+#Feminin , [[Schonung]]

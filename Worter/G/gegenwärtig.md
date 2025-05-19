@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 🗓️ [[gegenwärtig]], [ˈɡeːɡn̩vaɐ̯tɪç](https://youglish.com/pronounce/gegenwärtig/german) ≠ [[vergangen]]
 

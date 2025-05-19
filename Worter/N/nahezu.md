@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Ganzheit]] <---
+--> 🧩 [[Grad-Ganzheit]] <--
 
 🤏 [[nahezu]], [ˈnaːˌt͡suː](https://youglish.com/pronounce/nahezu/german)
 

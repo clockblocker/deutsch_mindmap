@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🔵 🚫 der [[Widerspruch]], [ˈvɪdɐʃpʁʊx]
 die [[Widersprüche]]

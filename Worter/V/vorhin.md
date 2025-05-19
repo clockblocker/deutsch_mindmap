@@ -1,6 +1,6 @@
 🕰️ [[vorhin]], [fɔɐ̯ˈhɪn]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

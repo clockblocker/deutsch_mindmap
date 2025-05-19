@@ -5,6 +5,8 @@ haben [[gebeugt]]
 ---
 CINDY: … Und eins und zwei und Knie [[beugen]] …  
 
+*[[C1-Hoehen-T1-202-Text#^6|^]]* Oder [[Produzent]]en, die sich dem [[Preisdiktat]] [[riesig]]er Discounter [[beugen]] müssen
+
 ---
 [[verbeugen]] - [[ver]] = [[beugen]]
 

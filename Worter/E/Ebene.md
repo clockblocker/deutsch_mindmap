@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🔴 die [[Ebene]], [ˈeːbənə]
 die [[Ebenen]]

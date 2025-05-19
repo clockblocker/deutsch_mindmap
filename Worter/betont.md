@@ -1,2 +1,2 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 🔊 [[betonen]] | 😌 [[betont]], [[ausdrücklich]]

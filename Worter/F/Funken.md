@@ -1,1 +1,1 @@
-, [[Funkenstoß]], [[funkten]]
+, [[Funkenstoß]], [[funkten]], [[Funk]]

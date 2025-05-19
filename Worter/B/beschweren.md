@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 😤 [[beschweren]] über + Akk.  , [bəˈʃveːʁən] | [[beschwerte]], haben [[beschwert]], [[beschwert]]
 

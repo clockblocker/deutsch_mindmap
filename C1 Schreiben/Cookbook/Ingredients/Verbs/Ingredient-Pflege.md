@@ -1,6 +1,6 @@
 📚 [[Pflege]] / [[Betreuung]] / [[Verantwortung]] *Attention, Care, Responsibility*
 
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 #### Sorgfalt / Aufmerksamkeit 
 🧹 [[pflegen]] *(to maintain; care for)*
 🛡️ [[vorbeugend]] *(preventive)*

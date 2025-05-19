@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 🔴 die [[Osterweiterung]], [ˈoːstɐˌveɪ̯tɐʊ̯ŋ]
 die [[Osterweiterungen]]

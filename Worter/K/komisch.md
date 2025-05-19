@@ -69,4 +69,4 @@ Der [[Typ]] ist [[komisch]]!
 ---
 Tags: 
 #Adjective
-, [[witzig]], [[lustig]], [[s1 e1]], [[amüsant]]
+, [[witzig]], [[lustig]], [[s1 e1]], [[amüsant]], [[tragisch]]

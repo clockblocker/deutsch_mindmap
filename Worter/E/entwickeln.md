@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 🔬[[entwickeln]] + Akk, [ɛntˈvɪkl̩n]
 [[entwickelte]]

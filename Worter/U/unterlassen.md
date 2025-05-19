@@ -46,4 +46,4 @@ sie, [[unterlassen]], [[unterließen]], [[unterlassen]], [[unterließen]], [[unt
 Adjektive: [[unterlassend]], [[unterlassender]], [[unterlassendst]]
 
 ---
-[[unterlassender]], [[unterlassendes]], [[unterlassende]], [[unterlassenden]], [[unterlassendem]], [[unterlassenderer]], [[unterlassenderes]], [[unterlassendere]], [[unterlassenderen]], [[unterlassenderem]], [[unterlassendster]], [[unterlassendstes]], [[unterlassendste]], [[unterlassendsten]], [[unterlassendstem]]
+[[unterlassender]], [[unterlassendes]], [[unterlassende]], [[unterlassenden]], [[unterlassendem]], [[unterlassenderer]], [[unterlassenderes]], [[unterlassendere]], [[unterlassenderen]], [[unterlassenderem]], [[unterlassendster]], [[unterlassendstes]], [[unterlassendste]], [[unterlassendsten]], [[unterlassendstem]], [[dazwischenfunken]]

@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 🚶 [[nähern]], [ˈnɛːɐ̯n](https://youglish.com/pronounce/nähern/german) → [[näherte]] → [[genähert]] | [[sich nähern]]
 
 ---

@@ -1,4 +1,4 @@
---->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+-->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
 
 🚧 [[eindämmen]], [ˈaɪ̯nˌdɛmən](https://youglish.com/pronounce/eindämmen/german) → [[dämmte ein]] → haben [[eingedämmt]]
 

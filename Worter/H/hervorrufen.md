@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🗣️ [[hervorrufen]], [hɛɐ̯ˈfoːɐ̯ˌʁuːfn̩](https://youglish.com/pronounce/hervorrufen/german) → [[rief hervor]] → [[hervorgerufen]]
 

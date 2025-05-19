@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 [[nachher]], [[anschließen]], [[folgend]]

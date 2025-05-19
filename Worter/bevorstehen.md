@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 ⏳ [[bevorstehen]], [bəˈfoːɐ̯ˌʃteːən](https://youglish.com/pronounce/bevorstehen/german) → [[stand bevor]] → [[bevorgestanden]]
 

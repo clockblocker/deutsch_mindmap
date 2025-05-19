@@ -1,4 +1,4 @@
----> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 ---
 #### 🧱 1. General Physical Areas

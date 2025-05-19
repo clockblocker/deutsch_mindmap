@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 💯 [[äußerst]], [ˈɔɪ̯sɐst](https://youglish.com/pronounce/äußerst/german)
 

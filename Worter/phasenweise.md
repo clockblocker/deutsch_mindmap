@@ -1,3 +1,3 @@
----> 📊 [[Grad-Verteilung]] <---
----> 🧩 [[Grad-Ganzheit]] <---
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> 📊 [[Grad-Verteilung]] <--
+--> 🧩 [[Grad-Ganzheit]] <--
+--> ⏱️ [[Temporal-Dauerhaft]] <--

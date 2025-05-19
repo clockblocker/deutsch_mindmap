@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 [[ernst]], [ˈɛʁnst]
 nicht [[leicht]], [[schwer]]

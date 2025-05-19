@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 😠 [[aussetzen]], [ˈaʊ̯sˌzɛt͡sn̩] | [[setzte aus]], haben [[ausgesetzt]]
 
 ---

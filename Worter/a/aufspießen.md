@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 🍢 [[aufspießen]] + Akk, [ˈaʊ̯fˌʃpiːsn̩]
 [[spießte auf|spießte auf]]

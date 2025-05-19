@@ -1,6 +1,6 @@
 [[0 Grad]]
----> ⚠️ [[Grad-Risiko]] <---
----> [[Ingredient-Risiko-Schutz-Nomen]] <---
+--> ⚠️ [[Grad-Risiko]] <--
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
 #### 🔴 [[gefährlich]]  
 *(direct threat or high potential for harm — general danger zone)*  

@@ -1,1 +1,1 @@
-, [[repräsentieren]], [[anspielen]]
+, [[repräsentieren]], [[anspielen]], [[verkörpern]]

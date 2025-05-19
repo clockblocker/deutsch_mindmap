@@ -1,1 +1,1 @@
-, [[Stoß]], [[Bogen]]
+, [[Stoß]], [[Bogen]], [[schwenken]]

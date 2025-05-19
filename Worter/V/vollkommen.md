@@ -1,3 +1,3 @@
----> Grad-Modifikatoren <---
+--> Grad-Modifikatoren <--
 
 [[überhaupt]], [[komplett]]

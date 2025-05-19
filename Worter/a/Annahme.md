@@ -1,2 +1,2 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 [[annehmen]], [[Verzicht]]

@@ -1,5 +1,5 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
----> [[Management-Coordination-Allocation]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
+--> [[Management-Coordination-Allocation]] <--
 
 🤝 [[anbieten]] | [[bot an|bot an]], haben [[angeboten]]
 

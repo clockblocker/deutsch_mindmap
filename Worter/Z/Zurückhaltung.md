@@ -1,5 +1,5 @@
----> [[🗣️ Ingredient-Meinung]] <---
----> [[Ingredinet-Action-Nomen]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 , [[zurückgehen]]

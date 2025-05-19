@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 ✅ [[genau]], [ɡəˈnaʊ̯]
 

@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
  ⚖️ die [[Mengenangabe]], [ˈmɛŋənʔanˌɡaːbə]
 die [[Mengenangaben]]

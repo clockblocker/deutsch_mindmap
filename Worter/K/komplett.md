@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Ganzheit]] <---
+--> 🧩 [[Grad-Ganzheit]] <--
 
 
 ✅ [[komplett]], [kɔmˈplɛt](https://youglish.com/pronounce/komplett/german)

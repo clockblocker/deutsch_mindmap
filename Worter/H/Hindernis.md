@@ -1,4 +1,4 @@
----> [[Ingredinet-Hindernis-Nomen]] <--
+--> [[Ingredinet-Hindernis-Nomen]] <--
 
 🚧 🟢 das [[Hindernis]], [ˈhɪndɐnɪs](https://youglish.com/pronounce/Hindernis/german)
 die [[Hindernisse]]

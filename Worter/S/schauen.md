@@ -43,4 +43,4 @@ Morpheme: [[schau]][[en]]
 | Sie | [[schauen]] | [[schauten]] | [[schauen Sie]] | [[schauen]] | [[schauten]] |
 
 Partizip I: [[schauend]], Partizip II: [[geschaut]]
-, [[anblicken]], [[anfassen]]
+, [[anblicken]], [[anfassen]], [[hinschauen]]

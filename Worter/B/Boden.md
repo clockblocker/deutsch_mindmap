@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 Singular: der [[Boden]]
 Plural: die [[Böden]]

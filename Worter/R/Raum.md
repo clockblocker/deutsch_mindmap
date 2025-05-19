@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 der [[Raum]], [ʁaʊ̯m]
 die [[Räume]]

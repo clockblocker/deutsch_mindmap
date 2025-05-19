@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 die [[Minderheit]], [ˈmɪndɐˌhaɪ̯t]
 die [[Minderheiten]]
 

@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🤝 der [[Ausgleich]], [ˈaʊ̯sˌɡlaɪ̯ç]
 die [[Ausgleiche]]

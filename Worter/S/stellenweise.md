@@ -1,6 +1,6 @@
----> 📊 [[Grad-Verteilung]] <---
----> 🧩 [[Grad-Ganzheit]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
+--> 📊 [[Grad-Verteilung]] <--
+--> 🧩 [[Grad-Ganzheit]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 📍 [[stellenweise]], [ˈʃtɛlənˌvaɪ̯zə](https://youglish.com/pronounce/stellenweise/german)
 

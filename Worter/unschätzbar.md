@@ -1,6 +1,6 @@
 💎 [[unschätzbar]], [ˈʊnʃɛt͡sbaːɐ̯](https://youglish.com/pronounce/unschätzbar/german)
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 
 ---

@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 📚 🔴 die [[Studie]], [ˈʃtuːdi̯ə]
 die [[Studien]]

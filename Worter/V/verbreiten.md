@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
  📢 [[verbreiten]], [fɛɐ̯ˈbʁaɪ̯tn̩] | [[verbreitete]], haben [[verbreitet]]
 

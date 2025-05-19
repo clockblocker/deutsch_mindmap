@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
  
  
  [[frisch]], [[uralte]], [[ehemalige]], [[Altstadt]], [[heutig]], [[neu]]

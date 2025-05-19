@@ -1,5 +1,5 @@
----> 🧩 [[Grad-Wahrheit]] <---
----> 🧱[[Grad-Gewicht]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
+--> 🧱[[Grad-Gewicht]] <--
 
 🧐 [[ausführlich]], [ˈaʊ̯sˌfyːɐ̯lɪç]
 nicht [[kurz]]
@@ -32,4 +32,4 @@ Neuter: [[ausführliches]], [[ausführlicheres]], [[ausführlichstes]]
 Plural: [[ausführlichen]], [[ausführlicheren]], [[ausführlichsten]]  
 
 [[Ausführlichkeit]], [[ausführen]], [[Ausführung]]
-🧐 [[ausführen]] | 🔵 der [[Ausführliche]], [[Ausführlich]], [[komplett]], [[stundenlang]]
+🧐 [[ausführen]] | 🔵 der [[Ausführliche]], [[Ausführlich]], [[komplett]], [[stundenlang]], [[differenziert]]

@@ -1,4 +1,4 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 
 🔧 [[vollziehen]], [fɔlˈtsiːən] | [[vollzog]], haben [[vollzogen]]
 

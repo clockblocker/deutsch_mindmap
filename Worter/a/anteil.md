@@ -1,4 +1,4 @@
----> 📊 [[Grad-Verteilung]] <---
+--> 📊 [[Grad-Verteilung]] <--
 
 🤝 🔵 der [[Anteil]], [ˈanˌtaɪ̯l](https://youglish.com/pronounce/Anteil/german)
 die [[Anteile]]

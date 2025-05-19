@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 ✅ [[erledigen]], [ɛɐ̯ˈleːdɪɡn̩] | [[erledigte]], haben [[erledigt]]
 
 ---

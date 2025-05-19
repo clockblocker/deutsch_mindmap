@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 🤪 [[verdreht]], [fɛɐ̯ˈdʁeːt] ≠ [[gerade]]
 

@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 💌 [[einladen]], [ˈaɪ̯nˌlaːdn̩] | [[lud ein]], haben [[eingeladen]]
 

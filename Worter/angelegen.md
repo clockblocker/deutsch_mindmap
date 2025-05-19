@@ -1,6 +1,6 @@
 🟡 angelegen, [anˈɡeːlɛɡn]
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 
 ---

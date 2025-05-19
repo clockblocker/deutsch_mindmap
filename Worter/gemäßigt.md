@@ -1,4 +1,4 @@
----> 💥 [[Grad-Intensität]] <---
+--> 💥 [[Grad-Intensität]] <--
 😌 [[gemäßigt]], [ɡəˈmɛːsɪçt](https://youglish.com/pronounce/gemäßigt/german) ≠ [[unmäßig]]
 
 ---

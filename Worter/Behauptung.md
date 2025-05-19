@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🔴 die [[Behauptung]], [bəˈhaʊ̯ptʊŋ]
 die [[Behauptungen]]

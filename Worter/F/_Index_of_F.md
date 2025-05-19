@@ -2275,7 +2275,7 @@
  [[Worter/F/fünfzehnte|fünfzehnte]]
  [[Worter/F/Fungi|Fungi]]
  [[Worter/F/fungieren|fungieren]]
- [[Worter/F/funk|funk]]
+ [[Funk|Funk]]
  [[Worter/F/funke|funke]]
  [[Worter/F/funkeln|funkeln]]
  [[Worter/F/funkelnd|funkelnd]]

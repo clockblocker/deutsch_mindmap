@@ -1,9 +1,9 @@
 🔴 die [[Sendung]]
 die [[Sendungen]]
 
-Beispiele:
-- Das ist Saschas Lieblings[[Sendung]] …  
-- Freigabeprobleme gelöst. [[Sendung]] zur Zustellung freigegeben
+---
+1 Die [[Sendung]] weist auf [[ideelle Werte]] hin.  
+
 
 ---
 Synonyme:

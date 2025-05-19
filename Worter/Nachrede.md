@@ -28,4 +28,4 @@ G: der [[Nachrede]], der [[Nachreden]]
 D: der [[Nachrede]], den [[Nachreden]]
 
 
-#Feminin ---> [[🗣️ Ingredient-Meinung]] <---
+#Feminin --> [[🗣️ Ingredient-Meinung]] <--

@@ -1,5 +1,5 @@
----> 📊 [[Grad-Verteilung]] <---
----> 🧩 [[Grad-Wahrheit]] <---
+--> 📊 [[Grad-Verteilung]] <--
+--> 🧩 [[Grad-Wahrheit]] <--
 
 😐 [[einigermaßen]], [ˈaɪ̯nɪɡɐˌmɛːsən]
 

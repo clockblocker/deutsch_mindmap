@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Nomen]] <---
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
 ✅ 🔴 die [[Garantie]], [ɡaʁanˈtiː](https://youglish.com/pronounce/Garantie/german)
 die [[Garantien]]

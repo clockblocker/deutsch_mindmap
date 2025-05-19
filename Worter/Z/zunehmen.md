@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 📈 [[zunehmen]], [ˈtsuːˌneːmən] | [[nahm zu]], haben [[zugenommen]]
 

@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Nomen]] <---
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
 , [[Risiko]], [[Versicherung]], [[Gefahr]], [[Lebensversicherung]], [[Bedrohung]]
 

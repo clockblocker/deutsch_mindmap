@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 [[wichtig]]
 nicht [[unbedeutend]]

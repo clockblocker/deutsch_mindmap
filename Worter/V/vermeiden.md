@@ -1,17 +1,17 @@
---->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+-->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
+
 🙅 [[vermeiden]], [fɛɐ̯ˈmaɪ̯dn̩] | [[vermied]], haben [[vermieden]]
 
 ---
 [[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 
+*[[C1-Hoehen-T1-202-Text#^10|^]]* Schritt für Schritt wird uns erklärt, wie wir Müll in allen [[Lebenslage]]n [[vermeiden]] können und dass das weder schwer noch teuer sein muss
+
 ---
 = [[ausweichen]], [[entgehen]], [[umgehen]]
 ≈ [[meiden]], [[unterlassen]], [[verhindern]], [[auslassen]]
 ≠ [[suchen]], [[anstreben]], [[erstreben]], [[herbeiführen]]
-
-[[wiedersehen]], [[benutzen]], [[suchen]], [[treffen]], [[versuchen]], [[verwenden]], [[antippen]], [[anstarrten]], [[nutzen]], [[begegnen]], [[vorziehen]], [[herausfordern]], [[begehen]], [[umgehen]], [[ergehen]], [[wagen]], [[ausprobieren]], [[durchmachen]]
-, [[anstoßen]]
 
 ---
 to avoid, to evade
@@ -34,5 +34,5 @@ PI: [[vermeidend]], PII: [[vermieden]], Zu+inf: [[zu vermeiden]]
 
 ---
 [[Meide]], [[Vermeidung]], [[vermeidbar]], [[vermeidlich]]
-, [[kennenlernen]]
-, [[beabsichtigen]], [[fernhalten]], [[abarbeiten]], [[auseinandersetzen]], [[verursachen]], [[Erkunden]], [[vorbeugen]], [[befassen]], [[verzichten]], [[erleiden]], [[hervorrufen]], [[verschulden]], [[erfordern]]
+
+[[kennenlernen]], [[beabsichtigen]], [[fernhalten]], [[abarbeiten]], [[auseinandersetzen]], [[verursachen]], [[Erkunden]], [[vorbeugen]], [[befassen]], [[verzichten]], [[erleiden]], [[hervorrufen]], [[verschulden]], [[erfordern]], [[wiedersehen]], [[benutzen]], [[suchen]], [[treffen]], [[versuchen]], [[verwenden]], [[antippen]], [[anstarrten]], [[nutzen]], [[begegnen]], [[vorziehen]], [[herausfordern]], [[begehen]], [[umgehen]], [[ergehen]], [[wagen]], [[ausprobieren]], [[durchmachen]], [[anstoßen]]

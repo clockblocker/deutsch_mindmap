@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien|Demonstrativ-Pronominaladverb]]
 
 Er war groß und [[bullig]] und hatte fast keinen Hals, dafür aber einen sehr großen [[Schnurrbart]].

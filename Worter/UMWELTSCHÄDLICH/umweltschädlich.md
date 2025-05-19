@@ -1,1 +1,1 @@
-, [[klimafreundlich]]
+, [[klimafreundlich]], [[plastikintensiv]]

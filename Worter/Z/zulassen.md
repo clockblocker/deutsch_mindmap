@@ -1,4 +1,4 @@
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredient-erlauben-verbieten]] <--
 
 ✅ [[zulassen]], [ˈtsuːˌlasn̩](https://youglish.com/pronounce/zulassen/german) → [[ließ zu]] → [[zugelassen]]
 

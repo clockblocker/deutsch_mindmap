@@ -1,3 +1,3 @@
 , [[Herausforderung]]
 , [[erforderlich]], [[überfordern]], [[Überforderung]]💪 [[fordern]]
-, [[erfordern]]
+, [[erfordern]], [[einfordern]]

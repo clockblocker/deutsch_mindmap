@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 📏 [[grob]], [ɡʁoːp](https://youglish.com/pronounce/grob/german)
 

@@ -1,5 +1,5 @@
 🎯 [[bestimmt]], [bəˈʃtɪmnt]
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 ---
 Ich bin mir sicher, das Bild wird [[bestimmt]] gut.

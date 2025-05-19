@@ -1,4 +1,4 @@
----> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
 🔗 [[je mehr]], [ˈdʒeː ˈmeːɐ̯]
 
 ---

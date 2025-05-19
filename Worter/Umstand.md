@@ -1,5 +1,5 @@
----> [[🗣️ Ingredient-Meinung]] <---
----> [[Ingredient-Bedürfnis]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> [[Ingredient-Bedürfnis]] <--
 
 🔵 der [[Umstand]] 😟, [ˈʊmʃtant]
 die [[Umstände]]

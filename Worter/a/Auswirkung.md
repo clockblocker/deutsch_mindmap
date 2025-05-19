@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 ✨ 🔴 die [[Auswirkung]], [ˈaʊ̯sˌvɪʁkʊŋ](https://youglish.com/pronounce/Auswirkung/german)
 die [[Auswirkungen]]

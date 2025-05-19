@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 🔴 die [[Menge]], [ˈmɛŋɡə]
 die [[Mengen]]
 

@@ -1,5 +1,5 @@
----> [[🎯 Ingredient-Result-Verb]] <---
----> 📈 [[Grad-Vergleich]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
+--> 📈 [[Grad-Vergleich]] <--
 
 🏔️ [[steigen]],  [ˈʃtaɪ̯gən]
 [[stieg]], [[stiegen]]

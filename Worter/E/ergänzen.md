@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 📈 [[ergänzen]], [ɛʁˈɡɛntsn̩] | [[ergänzte]], haben [[ergänzt]]
 

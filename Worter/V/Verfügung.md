@@ -1,4 +1,4 @@
----> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 ---
 📜 🔴 die [[Verfügung]], [fɛɐ̯ˈfyːɡʊŋ](https://youglish.com/pronounce/Verfügung/german)

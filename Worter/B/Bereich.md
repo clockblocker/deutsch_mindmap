@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🔵 der [[Bereich]], [bəˈʁaɪ̯ç]
 die [[Bereiche]]

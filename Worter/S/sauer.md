@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 [[Grammatik/Morphem/Stamm/List/s/sauer (Stamm)|sauer]]
 

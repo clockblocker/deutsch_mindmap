@@ -1,2 +1,2 @@
----> ⚠️ [[Grad-Risiko]] <---
+--> ⚠️ [[Grad-Risiko]] <--
 , [[Abenteuer 1]]

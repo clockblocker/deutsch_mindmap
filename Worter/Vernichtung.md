@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🔴 die [[Vernichtung]], [fɛɐ̯ˈnɪçtʊŋ]
 die [[Vernichtungen]]

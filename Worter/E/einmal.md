@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 🔢 [[einmal]], [ˈaɪ̯nˌmaːl]
 

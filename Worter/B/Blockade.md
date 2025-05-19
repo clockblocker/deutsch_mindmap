@@ -1,3 +1,3 @@
----> [[Ingredinet-Hindernis-Nomen]] <--
+--> [[Ingredinet-Hindernis-Nomen]] <--
 
 , [[Block]], [[Gegenwind]], [[Förderband]], [[Hemmung]]

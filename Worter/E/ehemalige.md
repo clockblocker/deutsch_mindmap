@@ -1,7 +1,7 @@
 ehemalige, [eˈheːmalɪɡə]
 nicht [[aktuell]]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

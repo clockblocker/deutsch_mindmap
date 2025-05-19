@@ -1,6 +1,6 @@
  [[überflüssig]], [ˌyːbɐˈflʏsɪç]
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 ---
 *Du ([[übermächtig]], [[überflüssig]])*  

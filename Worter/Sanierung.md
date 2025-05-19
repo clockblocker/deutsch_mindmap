@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🏗️ 🔴 die [[Sanierung]], [zaniːˈʁʊŋ]
 die [[Sanierungen]]

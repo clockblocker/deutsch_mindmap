@@ -1,1 +1,1 @@
-, [[gemäßigt]]
+, [[gemäßigt]], [[Hardliner]]

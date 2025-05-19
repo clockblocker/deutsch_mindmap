@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 🧐 [[betrachten]], [bəˈtʁaxtən] | [[betrachtete]], haben [[betrachtet]]
 
 ---
@@ -41,4 +41,4 @@ PI: [[betrachtend]], PII: [[betrachtet]], Zu+inf: [[zu betrachten]]
 
 
 [[ansehen]], [[lesen]], [[sehen]], [[gucken]], [[angucken]], [[schauen]], [[mustern]], [[anschauen]], [[anblicken]], [[berücksichtigen]]
-, [[zugucken]], [[Hinsicht]], [[beträchtlich]], [[betreuen]], [[Betrachtungsweise]]
+, [[zugucken]], [[Hinsicht]], [[beträchtlich]], [[betreuen]], [[Betrachtungsweise]], [[hinschauen]]

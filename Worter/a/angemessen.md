@@ -1,5 +1,5 @@
----> 📈 [[Grad-Vergleich]] <---
----> 💸 [[Grad-Preis]] <---
+--> 📈 [[Grad-Vergleich]] <--
+--> 💸 [[Grad-Preis]] <--
 
 ⚖️ [[angemessen]], [ˈaŋɡəˌmeːsn̩](https://youglish.com/pronounce/angemessen/german)
 

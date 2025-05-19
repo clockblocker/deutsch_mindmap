@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 🎁 [[gönnen]], [ˈɡœnən] | [[gönnte]], haben [[gegönnt]]
 

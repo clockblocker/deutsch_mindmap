@@ -1,3 +1,3 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 [[einig]]

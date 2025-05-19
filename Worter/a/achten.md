@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 🧐 [[achten]], [ˈaxtən] | [[achtete]], haben [[geachtet]]
 
 ---
@@ -41,4 +41,4 @@ PI: [[achtend]], PII: [[geachtet]], Zu+inf: [[zu achten]]
 
 ---
 [[Achtung]], [[achtbar]], [[achtsam]], [[Achtsamkeit]], [[verachten]], [[beachten]], [[schätzen]], [[s1 e1]], [[zuhören]]
-, [[aufpassen]], [[ungeachtet]], [[beobachten]]
+, [[aufpassen]], [[ungeachtet]], [[beobachten]], [[hinschauen]]

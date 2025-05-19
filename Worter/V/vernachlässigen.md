@@ -1,6 +1,6 @@
----> [[Ingredient-Einhaltung]] <---
----> [[Ingredient-Pflege]] <---
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Einhaltung]] <--
+--> [[Ingredient-Pflege]] <--
+--> [[Ingredient-Verben-Bedürfnis]] <--
 
 😔 [[vernachlässigen]], [fɛɐ̯ˈnaxˌlɛsɪɡn̩](https://youglish.com/pronounce/vernachlässigen/german) → [[vernachlässigte]] → haben [[vernachlässigt]]
 

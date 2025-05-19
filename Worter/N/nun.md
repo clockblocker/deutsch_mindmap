@@ -1,6 +1,6 @@
 ⏱️ [[nun]], [nʊn]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

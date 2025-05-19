@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 🧐 [[ernsthaft]], [ˈʔɛʁnstˌhaft]
 nicht [[oberflächlich]]

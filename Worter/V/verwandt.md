@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🔵 [[verwandt]], [fɛɐˈvant]
 nicht [[fremd]], [[verwandten]]

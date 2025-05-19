@@ -1,1 +1,1 @@
-, [[Schutz]]
+, [[Schutz]], [[Schonung]]

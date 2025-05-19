@@ -32,4 +32,4 @@ D: der [[Unterhaltung]], den [[Unterhaltungen]]
 ---
 [[unterhalten]], [[unterhaltsam]], [[Unterhaltungswert]], [[Unterhaltungsmedium]], [[unter]], [[Brettspiel]], [[Spiel]], [[Kundengespräch]]
 
-#Feminin , [[Unterhaltungsangebot]]
+#Feminin , [[Unterhaltungsangebot]], [[Unterhaltungskino]]

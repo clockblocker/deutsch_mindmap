@@ -1,4 +1,4 @@
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 
  ✅ [[vertretbar]], [fɛɐ̯ˈtʁeːtbaːɐ̯](https://youglish.com/pronounce/vertretbar/german)
 

@@ -1,8 +1,8 @@
----> 🧩 [[Grad-Ganzheit]] <---
+--> 🧩 [[Grad-Ganzheit]] <--
 ganz, [ɡants]
 nicht [[halb]], [[teilweise]], [[partiell]]
 
----> [[Grad-Verstärker-Mod]] <---
+--> [[Grad-Verstärker-Mod]] <--
 
 
 ---

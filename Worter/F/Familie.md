@@ -11,4 +11,4 @@ die [[Familien]]
 #Feminin
 
 ---
-, [[Haushalt]], [[Familienministerium]], [[Verwandte]], [[Privatleben]], [[Nachwuchs]]
+, [[Haushalt]], [[Familienministerium]], [[Verwandte]], [[Privatleben]], [[Nachwuchs]], [[Nachfahre]]

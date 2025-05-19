@@ -1,1 +1,1 @@
-, [[Angemessenheit]], [[Genauigkeit]], [[Präzision]], [[Gültigkeit]], [[Irrtum]], [[Verwechslung]]
+, [[Angemessenheit]], [[Genauigkeit]], [[Präzision]], [[Gültigkeit]], [[Irrtum]], [[Verwechslung]], [[Irrung]], [[Lüge]]

@@ -1,7 +1,7 @@
----> ⏱️ [[Temporal-Template]] <---
----> 📊 [[Grad-Verteilung]] <---
----> 🧮 [[Grad-Quantität]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Template]] <--
+--> 📊 [[Grad-Verteilung]] <--
+--> 🧮 [[Grad-Quantität]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 ---
 [[Kaum]] hat man ein Mädchen dabei, schon geht alles [[schief]]!

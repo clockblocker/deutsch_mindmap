@@ -1,4 +1,4 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 😩 [[verfehlen]], [fɛɐ̯ˈfeːlən](https://youglish.com/pronounce/verfehlen/german) → [[verfehlte]] → haben [[verfehlt]]
 
 ---

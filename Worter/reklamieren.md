@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 😤 [[reklamieren]], [ʁeklaˈmiːʁən] | [[reklamierte]], haben [[reklamiert]]
 

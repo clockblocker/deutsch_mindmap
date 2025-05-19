@@ -1,5 +1,5 @@
----> [[Ingredinet-Action-Nomen]] <---
----> [[Ingredient-Bedürfnis]] <---
+--> [[Ingredinet-Action-Nomen]] <--
+--> [[Ingredient-Bedürfnis]] <--
 
 ---
 

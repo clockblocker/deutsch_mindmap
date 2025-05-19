@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 😍 [[attraktiv]], [aˈtʁaktɪf]
 
@@ -28,4 +28,4 @@ attractive
 Adjektive: [[attraktiv]], [[attraktiver]], [[attraktivst]]
 
 ---
-[[attraktiver]], [[attraktives]], [[attraktive]], [[attraktiven]], [[attraktivem]], [[attraktiverer]], [[attraktiveres]], [[attraktivere]], [[attraktiveren]], [[attraktiverem]], [[attraktivster]], [[attraktivstes]], [[attraktivste]], [[attraktivsten]], [[attraktivstem]], [[hochdotiert]]
+[[attraktiver]], [[attraktives]], [[attraktive]], [[attraktiven]], [[attraktivem]], [[attraktiverer]], [[attraktiveres]], [[attraktivere]], [[attraktiveren]], [[attraktiverem]], [[attraktivster]], [[attraktivstes]], [[attraktivste]], [[attraktivsten]], [[attraktivstem]], [[hochdotiert]], [[charmant]]

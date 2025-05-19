@@ -1,1 +1,1 @@
-, [[Zufall]]---> [[🗣️ Ingredient-Meinung]] <---
+, [[Zufall]]--> [[🗣️ Ingredient-Meinung]] <--

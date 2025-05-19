@@ -1,1 +1,1 @@
-, [[Wertschätzung]], [[Respekt]], [[Geringschätzung]]
+, [[Wertschätzung]], [[Respekt]], [[Geringschätzung]], [[Spot]]

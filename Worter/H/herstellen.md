@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 
 🏭 [[herstellen]], [ˈheːɐ̯ʃtɛlən] | [[herstellte]], haben [[hergestellt]]
@@ -35,3 +35,4 @@ PI: [[herstellend]], PII: [[hergestellt]], Zu+inf: [[herzustellen]]
 [[Herstellung]], [[Hersteller]], [[herstellbar]], [[Produktionsbetrieb]], [[Produktion]]s
 
 , [[bauen]], [[machen]], [[schaffen]], 
+, [[Herstellungsprozess]]

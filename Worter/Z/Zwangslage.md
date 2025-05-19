@@ -1,3 +1,3 @@
----> [[Ingredient-Bedürfnis]] <---
+--> [[Ingredient-Bedürfnis]] <--
 
 , [[gezwungen]], [[Zwang]], [[Sachzwang]], [[Bedrängnis]]

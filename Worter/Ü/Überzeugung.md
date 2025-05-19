@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🤔 🔴 die [[Überzeugung]], [yːbɐˈtsɔʏ̯ɡʊŋ](https://youglish.com/pronounce/Überzeugung/german)
 

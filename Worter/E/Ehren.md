@@ -1,4 +1,4 @@
----> [[Ingredient-Einhaltung]] <---
+--> [[Ingredient-Einhaltung]] <--
 🏆 [[ehren]], [ˈeːʁən]
 
 ---

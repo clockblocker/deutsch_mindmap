@@ -1,18 +1,19 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 🔧[[stecken]], [ˈʃtɛkən]
 [[steckte]]
 haben/sein [[gesteckt]]
 
 ---
-*[[C1-Lesen-T1-001-Text#^3|^]]* Schließlich [[steckt]] die [[schwarzhaarige]] Berner Sennenhündin ihre [[bernsteinbraune]], [[feuchte]] Nase ganz in das Loch. ^3
+*[[C1-Lesen-T1-001-Text#^3|^]]* Schließlich [[steckt]] die schwarzhaarige Berner Sennenhündin ihre [[bernsteinbraune]], [[feuchte]] Nase ganz in das Loch
 
+*[[C1-Hoehen-T1-202-Text#^8|^]]* Also, ich habe durch diese Sendung wieder gelernt, die Arbeit, die in Produkten [[steckt]], [[wert]] zu [[schätzen]]
 
-*[[C1-Lesen-T4-102-Text#^2|^]]* Aber hinter solch einem Unternehmen [[steckt]] noch [[weitaus]] mehr als nur eine Website. ^2
+*[[C1-Hoehen-T1-201-Text#^17|^]]* Dennoch bekommt auch Max seine Chance und [[erkennt]] am Ende, dass die ihm unbekannte Welt voller neuer Möglichkeiten [[steckt]]
 
+*[[C1-Lesen-T4-102-Text#^2|^]]* Aber hinter solch einem Unternehmen [[steckt]] noch [[weitaus]] mehr als nur eine Website
 
-*[[C1-Lesen-T4-101-Text#^25|^]]* Ein ganz anderes Kapitel ist der Weltraumtourismus, welcher noch in den Kinderschuhen [[steckt]]. ^25
-
+*[[C1-Lesen-T4-101-Text#^25|^]]* Ein ganz anderes Kapitel ist der Weltraumtourismus, welcher noch in den Kinderschuhen [[steckt]]
 
 Aber er ist etwas besonderes, das merke ich. Er [[steckt]] voller Weisheit, ich spüre es.
 

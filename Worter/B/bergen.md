@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Verben]] <---
+--> [[Ingredient-Risiko-Schutz-Verben]] <--
 
 ⛰️ [[bergen]], [ˈbɛʁɡn̩](https://youglish.com/pronounce/bergen/german) → [[barg]]/[[borg]] → [[geborgen]]
 

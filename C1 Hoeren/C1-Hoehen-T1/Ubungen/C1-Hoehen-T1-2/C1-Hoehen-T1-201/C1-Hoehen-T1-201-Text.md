@@ -1,40 +1,39 @@
 [[0-C1-Hoehen-T1-Ubung-List|Ubung-List]]
 
 ---
-![[002_PT_Goethe_C1 1.mp3]]
 
-0. (Beispiel) In dem Film geht es um die Verfälschung von Tatsachen.  
+0 (Beispiel) In dem Film geht es um die Verfälschung von Tatsachen.  
    - [x] a Film 1 – *Alles, was recht ist*  
    - [ ] b Film 2 – *Wien ruft*  
    - [ ] c Film 3 – *Alter schützt vor Toren nicht*
 
-0. Die [[Erwartung]]en der Protagonisten werden [[enttäuscht]]
+1 Die [[Erwartung]]en der Protagonisten werden [[enttäuscht]]
    - [ ] a Film 1  
+   - [x] b Film 2  
+   - [ ] c Film 3  
+
+2 Die [[Rollenbesetzung]] ist dem [[Regisseur]] [[geglückt]]
+   - [ ] a Film 1  
+   - [ ] b Film 2  
+   - [x] c Film 3  
+
+3 Der [[Moderator]] [[lobt]] den [[Witz]] der [[Filmemacher]]
+   - [ ] a Film 1  
+   - [ ] b Film 2  
+   - [x] c Film 3 
+
+4  Der Film thematisiert die [[Bestechlichkeit]] innerhalb der [[Justiz]]
+   - [x] a Film 1  
    - [ ] b Film 2  
    - [ ] c Film 3  
 
-0. Die [[Rollenbesetzung]] ist dem [[Regisseur]] [[geglückt]]
-   - [ ] a Film 1  
-   - [ ] b Film 2  
-   - [ ] c Film 3  
-
-0. Der [[Moderator]] [[lobt]] den [[Witz]] der [[Filmemacher]]
-   - [ ] a Film 1  
-   - [ ] b Film 2  
-   - [ ] c Film 3 
-
-0. Der Film thematisiert die [[Bestechlichkeit]] innerhalb der [[Justiz]]
-   - [ ] a Film 1  
-   - [ ] b Film 2  
-   - [ ] c Film 3  
-
-0. Der Film ist am Anfang [[amüsant]], wird dann aber [[ernst]]
+5 Der Film ist am Anfang [[amüsant]], wird dann aber [[ernst]]
    - [ ] a Film 1 
-   - [ ] b Film 2  
+   - [x] b Film 2  
    - [ ] c Film 3  
 
-6. Der Film hat gute Chancen, Filmpreise zu gewinnen.  
-   - [ ] a Film 1 
+6 Der Film hat gute Chancen, Filmpreise zu gewinnen.  
+   - [x] a Film 1 
    - [ ] b Film 2  
    - [ ] c Film 3  
 
@@ -92,17 +91,17 @@ Herzlich willkommen zu meinem Podcast Kinozeit. Heute möchte ich euch drei neue
 
 *[[C1-Hoehen-T1-201-Text#^20|^]]* Der dritte Film, der aus der Schweiz kommt, heißt „Alter schützt vor Toren nicht“ und ist wieder eine Komödie. ^20
 
-*[[C1-Hoehen-T1-201-Text#^21|^]]* Hier geht es um ein charmantes, allerdings auch sehr naives Paar, das gerade frisch verliebt ist, auch wenn die beiden selbst nicht mehr ganz so frisch sind. ^21
+*[[C1-Hoehen-T1-201-Text#^21|^]]* Hier geht es um ein [[charmantes]], allerdings auch sehr naives Paar, das gerade frisch verliebt ist, auch wenn die beiden selbst nicht mehr ganz so frisch sind. ^21
 
-*[[C1-Hoehen-T1-201-Text#^22|^]]* Verkörpert werden sie von Alexandra Heilmann und Marco Rufbach, eine Auswahl, mit der Regisseur Eric Hofmann ein glückliches Händchen bewiesen hat. ^22
+*[[C1-Hoehen-T1-201-Text#^22|^]]* [[Verkörpert]] werden sie von Alexandra Heilmann und Marco Rufbach, eine [[Auswahl]], mit der Regisseur Eric Hofmann ein [[glückliches]] [[Händchen]] [[bewiesen]] hat. ^22
 
-*[[C1-Hoehen-T1-201-Text#^23|^]]* Auch die Neben­darsteller machen einen guten Job. ^23
+*[[C1-Hoehen-T1-201-Text#^23|^]]* Auch die [[Nebendarsteller]] machen einen guten Job. ^23
 
-*[[C1-Hoehen-T1-201-Text#^24|^]]* Als Nachbarn, Verwandte und Freunde müssen sie dem Paar natürlich dazwischenfunken. ^24
+*[[C1-Hoehen-T1-201-Text#^24|^]]* Als Nachbarn, [[Verwandte]] und Freunde müssen sie dem Paar natürlich [[dazwischenfunken]]. ^24
 
-*[[C1-Hoehen-T1-201-Text#^25|^]]* Einiges ist in diesem Film überzogen, aber es handelt sich ja schließlich um eine Komödie mit allen Irrungen und Wirrungen der Liebe. ^25
+*[[C1-Hoehen-T1-201-Text#^25|^]]* Einiges ist in diesem Film [[überzogen]], aber es handelt sich ja schließlich um eine Komödie mit allen [[Irrungen]] und [[Wirrungen]] der Liebe. ^25
 
-*[[C1-Hoehen-T1-201-Text#^26|^]]* Dennoch ist der Film keine reine Blödelei, sondern fein mit Schweizerischem Humor und hintergründiger Kritik und Selbstkritik gespickt. ^26
+*[[C1-Hoehen-T1-201-Text#^26|^]]* Dennoch ist der Film keine [[rein]]e [[Blödelei]], sondern fein mit Schweizerischem Humor und [[hintergründig]]er Kritik und Selbstkritik gespickt. ^26
 
 *[[C1-Hoehen-T1-201-Text#^27|^]]* Und damit verabschiede ich mich für heute von euch. ^27
 

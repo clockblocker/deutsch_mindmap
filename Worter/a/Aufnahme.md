@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🔴 die [[Aufnahme]], [ˈaʊ̯fˌnaːmə]
 die [[Aufnahmen]]

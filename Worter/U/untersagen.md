@@ -1,4 +1,4 @@
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredient-erlauben-verbieten]] <--
 
 🚫 [[untersagen]], [ʊntɐˈzaːɡn̩](https://youglish.com/pronounce/untersagen/german) → [[untersagte]] → [[untersagt]]
 

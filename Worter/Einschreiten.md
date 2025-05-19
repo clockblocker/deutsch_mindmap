@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 👮 [[einschreiten]], [ˈaɪ̯nˌʃʁaɪ̯tn̩](https://youglish.com/pronounce/einschreiten/german) → [[schritt ein]] → sein [[eingeschritten]]

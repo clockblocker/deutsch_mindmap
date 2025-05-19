@@ -1,5 +1,5 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
----> [[🎯 Ingredient-Result-Verb]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🎯 [[erreichen]], [ɛˈʁaɪ̯çn̩] | [[erreichte]], haben [[erreicht]]
 

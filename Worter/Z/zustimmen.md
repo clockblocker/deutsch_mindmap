@@ -1,5 +1,5 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
----> 🤝 [[Ingredient-Interaktion]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
+--> 🤝 [[Ingredient-Interaktion]] <--
 👍 [[zustimmen]], [ˈtsuːʃtɪmən](https://youglish.com/pronounce/zustimmen/german) → [[stimmte zu]] → [[zugestimmt]]
 
 ---

@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 🟢 das [[Gefühl]], [gəˈfyːl]
 die [[Gefühle]]
 

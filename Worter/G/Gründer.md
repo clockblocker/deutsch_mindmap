@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 👨‍💼 🔵 der [[Gründer]], [ˈɡʁʏndɐ]
 die [[Gründer]]
 

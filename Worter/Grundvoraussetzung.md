@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🔑 🔴 die [[Grundvoraussetzung]], [ˈɡʁuːntfɔːɐ̯ˌʁaʊ̯sətsʊŋ]
 die [[Grundvoraussetzungen]]

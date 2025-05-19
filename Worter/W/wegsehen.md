@@ -1,1 +1,1 @@
-[[ansehen]], [[gucken]], [[starren]]
+[[ansehen]], [[gucken]], [[starren]], [[hinschauen]]

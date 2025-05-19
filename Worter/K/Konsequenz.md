@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🤔 🔴 die [[Konsequenz]], [kɔnzəˈkvɛnt͡s](https://youglish.com/pronounce/Konsequenz/german)
 die [[Konsequenzen]]

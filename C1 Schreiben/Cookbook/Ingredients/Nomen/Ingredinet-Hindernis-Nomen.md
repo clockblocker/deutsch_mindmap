@@ -1,6 +1,6 @@
----> [[Ingredinet-Hindernis-Nomen]] <--
+--> [[Ingredinet-Hindernis-Nomen]] <--
 
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredient-erlauben-verbieten]] <--
 #### 🚧 Barriere / Blockade – Hard Obstacles
 - 🚧 [[Hindernis]] *(obstacle; general barrier)*
 - 🚧 [[Blockade]] *(blockade; intentional or enforced barrier)*

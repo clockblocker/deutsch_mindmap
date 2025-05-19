@@ -1,5 +1,5 @@
----> 🧱[[Grad-Gewicht]] <---
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> 🧱[[Grad-Gewicht]] <--
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
 ---
 💨 [[flüchtig]], [ˈflʏçtɪç](https://youglish.com/pronounce/flüchtig/german)

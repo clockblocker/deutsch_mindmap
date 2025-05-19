@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 🐌 [[verlangsamen]], [fɛɐ̯ˈlaŋzaːmən](https://youglish.com/pronounce/verlangsamen/german) → [[verlangsamte]] → haben [[verlangsamt]]
 

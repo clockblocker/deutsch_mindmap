@@ -1,4 +1,4 @@
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 💰 [[aufwendig]], [ˈaʊ̯fˌvɛndɪç](https://youglish.com/pronounce/aufwendig/german)
 
 ---

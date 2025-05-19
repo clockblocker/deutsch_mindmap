@@ -1,5 +1,5 @@
----> ⏱️ [[Temporal-Perspektive]] <---
----> 💥 [[Grad-Intensität]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--
+--> 💥 [[Grad-Intensität]] <--
 
  ❗ [[akut]], [aˈkuːt](https://youglish.com/pronounce/akut/german)
 

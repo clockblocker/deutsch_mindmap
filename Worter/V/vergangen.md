@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 vergangen, [fɛɐ̯ˈɡaŋən]
 nicht [[zukünftig]]

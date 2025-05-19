@@ -1,6 +1,6 @@
----> 📈 [[Grad-Vergleich]] <---
----> 🧮 [[Grad-Quantität]] <---
----> 🧩 [[Grad-Ganzheit]] <---
+--> 📈 [[Grad-Vergleich]] <--
+--> 🧮 [[Grad-Quantität]] <--
+--> 🧩 [[Grad-Ganzheit]] <--
 
 🔒 [[begrenzt]] [bəˈɡʁɛnts] | 🔒 [[begrenzen]] 
 nicht [[unbegrenzt]]

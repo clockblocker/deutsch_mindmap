@@ -29,4 +29,4 @@ G: der [[Fehleinschätzung]], der [[Fehleinschätzungen]]
 D: der [[Fehleinschätzung]], den [[Fehleinschätzungen]]
 
 
-#Feminin ---> [[🗣️ Ingredient-Meinung]] <---
+#Feminin --> [[🗣️ Ingredient-Meinung]] <--

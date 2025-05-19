@@ -26,3 +26,4 @@ Adjektive: [[niedrig]], [[niedriger]], [[niedrigste]]
 
 ---
 [[niedriger]], [[niedriges]], [[niedrige]], [[niedrigen]], [[niedrigem]], [[niedrigerer]], [[niedrigeres]], [[niedrigere]], [[niedrigeren]], [[niedrigerem]], [[niedrigsteer]], [[niedrigstees]], [[niedrigstee]], [[niedrigsteen]], [[niedrigsteem]]
+, [[Niedriglohnkraft]]

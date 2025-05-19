@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Verben]] <---
+--> [[Ingredient-Risiko-Schutz-Verben]] <--
 
 🚶‍♂️ [[ausgehen]] + Dat, [ˈʔaʊ̯sˌɡeːən]
 [[ging aus|ging aus]]

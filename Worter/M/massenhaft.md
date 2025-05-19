@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 👥 [[massenhaft]], [ˈmasn̩ˌhaft](https://youglish.com/pronounce/massenhaft/german)
 

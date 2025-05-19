@@ -1,1 +1,1 @@
-, [[stecken]], [[dahinter]], [[betreffen]]
+[[stecken]], [[dahinter]], [[betreffen]]

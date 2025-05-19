@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 ✅ [[freigeben]], [ˈfʁaɪ̯ˌɡeːbn̩](https://youglish.com/pronounce/freigeben/german) → [[gab frei]] → [[freigegeben]]
 

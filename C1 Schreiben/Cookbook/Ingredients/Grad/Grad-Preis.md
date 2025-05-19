@@ -1,5 +1,5 @@
 [[0 Grad]]
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 
 #### 🟢 [[preiswert]]  
 *(positive valuation: good value for cost, efficient, justified)*  

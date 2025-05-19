@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 🔍 [[untersuchen]], [ˈʊntɐˌzuːxn̩] | [[untersuchte]], haben [[untersucht]]
 
 ---

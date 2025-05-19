@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[lackiertes]], [[lackierter]], [[lackierte]], [[lackiertes]], [[lackierten]], [[lackiertem]], [[lackierter]], [[lackierten]]
 [[lacktierter]], [[lacktiertere]], [[lacktiertes]], [[lacktierten]], [[lacktiererem]], [[lacktierter]], [[lacktierten]]
-[[lacktiersten]], [[lacktierster]], [[lacktierste]], [[lacktterstes]], [[lacktiersten]], [[lacktterstem]], [[lacktierster]], [[lacktiersten]], [[Extra 8]]
+[[lacktiersten]], [[lacktierster]], [[lacktierste]], [[lacktterstes]], [[lacktiersten]], [[lacktterstem]], [[lacktierster]], [[lacktiersten]], [[Extra 8]], [[überziehen]]

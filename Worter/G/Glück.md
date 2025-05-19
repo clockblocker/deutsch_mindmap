@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 das [[Glück]]  
 die [[Glücke]]
 
@@ -34,4 +34,4 @@ Plural forms:
 Morphems:
 - [[Glück]]
 
----[[Glückstag]][[Unglück]], [[Freude]], [[Glückwunsch]], [[Glücksspiel]], [[gelingen]], [[Herzeleid]], [[Glücksfälle]], [[Wohlbefinden]], [[Zufall]], [[Wohlergehen]]
+---[[Glückstag]][[Unglück]], [[Freude]], [[Glückwunsch]], [[Glücksspiel]], [[gelingen]], [[Herzeleid]], [[Glücksfälle]], [[Wohlbefinden]], [[Zufall]], [[Wohlergehen]], [[Lebenslage]]

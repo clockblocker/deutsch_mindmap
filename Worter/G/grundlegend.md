@@ -1,5 +1,5 @@
----> [[🗣️ Ingredient-Meinung]] <---
----> 🧱[[Grad-Gewicht]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> 🧱[[Grad-Gewicht]] <--
 🧱 [[grundlegend]], [ˈɡʁuːntˌleːɡn̩t]
 
 ---

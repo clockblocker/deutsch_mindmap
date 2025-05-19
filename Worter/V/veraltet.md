@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 👴 [[veraltet]], [fɛɐ̯ˈʔaltət](https://youglish.com/pronounce/veraltet/german)
 

@@ -1,6 +1,6 @@
 🔗 [[folgend]], [ˈfɔlgənt]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

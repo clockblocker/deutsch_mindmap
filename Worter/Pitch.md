@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 🎤 🔵 der [[Pitch]], [pɪtʃ](https://youglish.com/pronounce/Pitch/german)
 
 ---

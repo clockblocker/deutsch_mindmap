@@ -1,5 +1,5 @@
----> ⏱️ [[Temporal-Template]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Template]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 🗓️ [[gelegentlich]], [ɡəˈleːɡn̩tlɪç](https://youglish.com/pronounce/gelegentlich/german)
 

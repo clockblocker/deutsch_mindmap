@@ -1,1 +1,1 @@
-, [[Müller]], [[Hobbybäuerin]], [[Landwirtschaft]], [[Saatgutsammler]]
+, [[Müller]], [[Hobbybäuerin]], [[Landwirtschaft]], [[Saatgutsammler]], [[Bauer]]

@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 [[spät]][[nachher]], [[demnächst]], [[hinterdrein]], [[bald]], [[bereits]], [[zuvor]], [[früh]], [[zurzeit]], [[vorhin]]

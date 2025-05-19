@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 📏 [[verlängern]], [fɛɐ̯ˈlɛŋɐn](https://youglish.com/pronounce/verlängern/german) → [[verlängerte]] → haben [[verlängert]]
 

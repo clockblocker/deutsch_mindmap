@@ -4,7 +4,7 @@ nicht [[zufrieden]]
 ---
 Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. [[14 perfekt#^16|^]]
 
-0. Die [[Erwartung]]en der Protagonisten werden [[enttäuscht]]
+Die [[Erwartung]]en der Protagonisten werden [[enttäuscht]]
 
 *[[C1-Hoehen-T1-200-Text#^20|^]]* Wer hier auf ein Buch hofft, das den Wald [[verklärt]] oder romantisiert, wird [[enttäuscht]] sein
 

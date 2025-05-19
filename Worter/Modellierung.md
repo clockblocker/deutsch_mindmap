@@ -25,4 +25,4 @@ N: die [[Modellierung]], die [[Modellierungen]]
 A: die [[Modellierung]], die [[Modellierungen]]
 G: der [[Modellierung]], der [[Modellierungen]]
 D: der [[Modellierung]], den [[Modellierungen]]
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--

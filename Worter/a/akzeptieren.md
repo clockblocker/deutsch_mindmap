@@ -1,3 +1,3 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 , [[verdrängen]], [[hinterfragen]], [[übernehmen]]

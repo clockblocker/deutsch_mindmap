@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 👀 [[aufpassen]], [ˈaʊ̯fˌpasn̩] | [[passte auf]], haben [[aufgepasst]]
 
 ---

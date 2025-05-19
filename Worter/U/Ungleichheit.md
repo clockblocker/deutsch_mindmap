@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🔴 die [[Ungleichheit]], [ˈʊnˌɡlaɪ̯çhaɪ̯t]
 die [[Ungleichheiten]]

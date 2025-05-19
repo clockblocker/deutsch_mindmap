@@ -1,4 +1,4 @@
----> [[Ingredient-Einhaltung]] <---
+--> [[Ingredient-Einhaltung]] <--
 
 [[eignen]], [[zufriedenstellen]], [[passen]]
 📝 [[entsprechen]], [ˈɛntʃpʁɛçən] | [[entsprach]], haben [[entsprochen]]

@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🏢 🟢 das [[Großraumbüro]], [ˈɡʁoːsʁaʊ̯mˌbyːʁoː](https://youglish.com/pronounce/Großraumbüro/german)
 die [[Großraumbüros]]

@@ -1,5 +1,5 @@
 ![[Pasted image 20250511162236.png]]
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 
 ###### 4 [[Der gestiefelte Kater.md######4|Der gestiefelte Kater.md]]
 "Hör", fing der Kater an, der alles verstanden hatte, "du brauchst mich nicht zu töten, um ein Paar schlechte Handschuhe aus meinem Pelz zu kriegen;

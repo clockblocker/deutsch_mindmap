@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🙅‍♀️ 🔴 die [[Ablehnung]], [ˈapˌleːnʊŋ](https://youglish.com/pronounce/Ablehnung/german)
 die [[Ablehnungen]]

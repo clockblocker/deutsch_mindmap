@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Ganzheit]] <---
+--> 🧩 [[Grad-Ganzheit]] <--
 🌍 [[überall]], [ˈyːbɐˌʔal]
 
 ---

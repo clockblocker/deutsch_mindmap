@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🏡 🟢 das [[Grundstück]], [ˈɡʁʊntʃtʏk]
 die [[Grundstücke]]

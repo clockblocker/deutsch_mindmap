@@ -1,5 +1,6 @@
- --> [[Ingredient-Add-Remove]] <--
----> [[Management-Coordination-Allocation]] <---
+--> [[Ingredient-Add-Remove]] <--
+--> [[Management-Coordination-Allocation]] <--
+
 🎨 [[gestalten]] + Akk, [gəˈʃtaltən], 🧑‍🤝‍🧑 🔴 die [[Gestalt]]
 [[gestaltete]]
 haben [[gestaltet]]
@@ -8,9 +9,12 @@ haben [[gestaltet]]
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]* Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten. ^7
 
 
+*[[C1-Hoehen-T1-202-Text#^14|^]]* In der Sendung lernen wir, wie ihr jedes Zimmer eurer Wohnung [[preiswert]] und ökologisch [[gestalten]] könnt
+
+
 Die Kamera schwenkt nach unten, und die [[Gestalten]] von Aang und Katara erscheinen über dem Horizont.
 
-- Diskutieren Sie, wie ein ausgewogenes Homeoffice-Modell [[gestaltet]] werden könnte.  
+Diskutieren Sie, wie ein ausgewogenes Homeoffice-Modell [[gestaltet]] werden könnte.  
 
 
 ---

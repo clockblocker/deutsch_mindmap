@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🏢 🔴 die [[Räumlichkeit]], [ˈʁɔɪ̯mlɪçˌkaɪ̯t](https://youglish.com/pronounce/Räumlichkeit/german)
 die [[Räumlichkeiten]]

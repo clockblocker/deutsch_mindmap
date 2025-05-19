@@ -1,5 +1,5 @@
----> [[Ingredient-Einhaltung]] <---
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Einhaltung]] <--
+--> [[Ingredient-Pflege]] <--
 🧐 [[übersehen]] | [[übersah]], haben [[übersehen]]
 
 ---
@@ -38,4 +38,4 @@ Zu+infinifive: [[zu übersehen]]
 , [[befinden]], [[auslesen]], [[beachten]], [[begreifen]], [[mustern]], [[erfahren]], [[anschauen]], [[anblicken]], [[überwachen]], [[berücksichtigen]], [[vergessen]], [[versäumen]], [[verpassen]], [[Vergleich]], [[untersuchen]], [[hinüberspähen]], [[betrachten]], [[aufnehmen]]
 , [[zichten]]
 , [[schnüffeln]]
-, [[mitbekommt]], [[Erkunden]], [[verzeichnen]], [[übergehen]], [[nachfragen]]
+, [[mitbekommt]], [[Erkunden]], [[verzeichnen]], [[übergehen]], [[nachfragen]], [[hinschauen]]

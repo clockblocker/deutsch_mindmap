@@ -1,5 +1,5 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
----> [[Ingredinet-Hindernis-Nomen]] <--
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
+--> [[Ingredinet-Hindernis-Nomen]] <--
 
 💥 [[scheitern]], [ˈʃaɪ̯tɐn] | [[scheiterte]], sein [[gescheitert]]
 

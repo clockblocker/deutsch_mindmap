@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 🤝 [[verträglich]], [fɛɐ̯ˈtʁɛːplɪç](https://youglish.com/pronounce/verträglich/german) ≠ [[unverträglich]] | [[vertragen]]
 

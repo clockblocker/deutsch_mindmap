@@ -1,2 +1,2 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 , [[gewährleisten]]

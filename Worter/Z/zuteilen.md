@@ -1,2 +1,2 @@
----> [[Management-Coordination-Allocation]] <---
+--> [[Management-Coordination-Allocation]] <--
 , [[überlassen]]

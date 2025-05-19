@@ -1,5 +1,5 @@
- --> [[Ingredient-Add-Remove]] <--
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[Ingredient-Add-Remove]] <--
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 🏋️[[abnehmen]] + Akk, [ˈapneːmən]
 [[nahm ab|nahm ab]]  

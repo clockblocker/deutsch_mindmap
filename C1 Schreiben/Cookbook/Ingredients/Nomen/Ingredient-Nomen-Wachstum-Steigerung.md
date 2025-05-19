@@ -1,6 +1,6 @@
 
----> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 #### 📈 Wachstum / Steigerung – Increase, Growth
 - 📈 [[Steigerung]] *(increase; often intensity or performance)*

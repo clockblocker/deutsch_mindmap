@@ -1,5 +1,5 @@
 [[0 Temporal-Freunde]]
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 #### 🟢 [[jetzt]] 
 1) [[gegenwärtig]] *(at present; formal or academic tone)* 
 2) [[zurzeit]] *(currently)* 

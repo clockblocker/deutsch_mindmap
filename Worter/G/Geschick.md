@@ -1,1 +1,1 @@
-, [[Schicksal]], [[Begabung]], [[Talent]]
+, [[Schicksal]], [[Begabung]], [[Talent]], [[Händchen]]

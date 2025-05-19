@@ -1,5 +1,5 @@
----> [[Grad-gut]] <--
----> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+--> [[Grad-gut]] <--
+--> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
 
 🤕 [[schaden]], [ˈʃaːdn̩]
 

@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🧐 🔵 der [[Hinblick]], [ˈhɪnblɪk](https://youglish.com/pronounce/Hinblick/german)
 
@@ -29,4 +29,4 @@ G: des [[Hinblickes]], der [[Hinblicke]]
 D: dem [[Hinblick]], den [[Hinblicken]]
 
 
-#Maskulin 
+#Maskulin , [[hinschauen]]

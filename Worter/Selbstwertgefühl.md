@@ -25,4 +25,4 @@ D: dem [[Selbstwertgefühl]], den [[Selbstwertgefühlen]]
 
 ---
 [[Selbst]], [[Wert]], [[Gefühl]], [[selbstbewusst]], [[Selbstwertgefühl]]
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--

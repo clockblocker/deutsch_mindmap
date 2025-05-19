@@ -1,5 +1,5 @@
 🗑️ [[wertlos]], [ˈveːɐ̯tloːs](https://youglish.com/pronounce/wertlos/german)
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 ---
 

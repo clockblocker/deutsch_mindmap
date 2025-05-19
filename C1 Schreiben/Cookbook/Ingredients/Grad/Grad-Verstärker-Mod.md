@@ -1,4 +1,4 @@
----> [[Grad-Verstärker-Mod]] <---
+--> [[Grad-Verstärker-Mod]] <--
 #### ⚪ [[total]] [[verstärkend]]
 1) [[ungeheuer]] *(tremendous; more dramatic/formal)*
 2) [[völlig]] *(entirely)*

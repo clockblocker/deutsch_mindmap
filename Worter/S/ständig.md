@@ -1,10 +1,13 @@
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 🕰️ [[ständig]], [ˈʃtɛndɪç]
 nicht [[vorübergehend]]
 
 ---
 [[Eine Extrawurst bekommen.md#^4|^]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
+
+
+*[[C1-Hoehen-T1-201-Text#^19|^]]* Durch die [[ständig]]en Hochs und Tiefs, die Max durchleben muss, bleibt der Film bis zum Schluss spannend. ^19
 
 
 Als Projektmanager [[teilnehmen|nehme]] ich [[ständig]] an [[virtuell]]en [[Meeting]]s mit [[extern]]en [[Partner]]n teil. 
@@ -14,8 +17,7 @@ Als Projektmanager [[teilnehmen|nehme]] ich [[ständig]] an [[virtuell]]en [[Mee
 
 Allerdings [[darstellen|stellt]] sein [[ständiges]] Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und [[Kundengespräche]] erheblich, sondern [[beeinträchtigt]] auch die [[allgemeine]] Konzentration. 
 
-
-- Nennen Sie ein Beispiel, wie der [[ständig]]e Nachrichtenstrom die [[Meinungsbildung]] [[erschwert]].  
+Nennen Sie ein Beispiel, wie der [[ständig]]e Nachrichtenstrom die [[Meinungsbildung]] [[erschwert]].  
 
 Statt zu arbeiten, [[erholt]] er sich [[ständig]] 
 

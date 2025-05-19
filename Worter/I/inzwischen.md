@@ -1,6 +1,6 @@
 🕰️ inzwischen, [ɪntˈsvaɪ̯ʃn̩] = [[bereits]]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

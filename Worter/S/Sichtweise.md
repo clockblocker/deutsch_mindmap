@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 👁️ 🔴 die [[Sichtweise]], [ˈzɪçtˌvaɪ̯zə](https://youglish.com/pronounce/Sichtweise/german)
 

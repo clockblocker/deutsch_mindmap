@@ -1,4 +1,4 @@
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredient-erlauben-verbieten]] <--
 
 👍 [[genehmigen]], [ɡəˈneːmɪɡn̩](https://youglish.com/pronounce/genehmigen/german) → [[genehmigte]] → [[genehmigt]]
 

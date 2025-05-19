@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 📣 [[veröffentlichen]], [fɛɐ̯ˈʔɪçlɪçn̩] | [[veröffentlichte]], haben [[veröffentlicht]]
 

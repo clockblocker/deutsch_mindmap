@@ -1,5 +1,5 @@
 [[0 Grad]]
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 #### Ontological “Realness” — what simply is  
 ✅ [[wirklich]] *(really: as real as it gets, no cap)*  
 🌍 [[real]] *(real: not virtual, not fake, just real)*  

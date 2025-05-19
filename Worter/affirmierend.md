@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 👍 [[affirmierend]], [afɪʁˈmiːʁənt](https://youglish.com/pronounce/affirmierend/german)
 

@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 💡 [[resultieren]], [ʁezʊlˈtiːʁən] | [[resultierte]], haben [[resultiert]]
 

@@ -1,5 +1,5 @@
----> 📈 [[Grad-Vergleich]] <---
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> 📈 [[Grad-Vergleich]] <--
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 ➡️ [[entsprechend]], [ɛntˈʃpʁɛçn̩t]  |  [[entsprechen]]
 

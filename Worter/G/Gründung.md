@@ -1,5 +1,5 @@
----> [[🗣️ Ingredient-Meinung]] <---
---> [[⛪ Ingredient-Plazt]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> [[⛪ Ingredient-Plazt]] <--
 
 die [[Gründung]], [ˈɡʁʏndʊŋ]
 die [[Gründungen]]

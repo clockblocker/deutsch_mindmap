@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🚧 [[behindern]], [bəˈhɪndəʁn] | [[behinderte]], haben [[behindert]]
 

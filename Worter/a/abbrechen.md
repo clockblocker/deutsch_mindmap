@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 
 🛑 [[abbrechen]], [ˈapˌbʁɛçn̩] | [[brach ab]], haben [[abgebrochen]]
 

@@ -1,5 +1,5 @@
----> 🧩 [[Grad-Wahrheit]] <---
----> 💥 [[Grad-Intensität]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
+--> 💥 [[Grad-Intensität]] <--
 
 🧐 [[offensichtlich]], [ˈɔfn̩zɪçtlɪç]
 nicht [[verborgen]]

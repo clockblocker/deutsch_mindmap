@@ -1,5 +1,5 @@
 [[0 Grad]]
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 - ist die Universitätsbibliothek [[zunehmend]] überfüllt
 - [[zusätzlich]]e Steckdosen

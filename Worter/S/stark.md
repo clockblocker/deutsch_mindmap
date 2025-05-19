@@ -1,4 +1,4 @@
----> 💥 [[Grad-Intensität]] <---
+--> 💥 [[Grad-Intensität]] <--
 💪 [[stark]], [ʃtaʁk](https://youglish.com/pronounce/stark/german) ≠ [[schwach]]
 
 ---

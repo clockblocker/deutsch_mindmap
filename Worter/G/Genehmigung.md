@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🔴 die [[Genehmigung]], [ɡəˈneːmɪɡʊŋ]
 die [[Genehmigungen]]

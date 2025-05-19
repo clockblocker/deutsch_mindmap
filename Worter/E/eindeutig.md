@@ -1,5 +1,5 @@
----> 🧩 [[Grad-Wahrheit]] <---
----> 💥 [[Grad-Intensität]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
+--> 💥 [[Grad-Intensität]] <--
 
 ✅ [[eindeutig]], [ˈaɪ̯ndɔɪ̯tɪç]
 

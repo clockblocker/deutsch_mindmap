@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 🛠️ [[einlegen]], [ˈaɪ̯nˌleːɡən] | [[legte ein]], haben [[eingelegt]]
 

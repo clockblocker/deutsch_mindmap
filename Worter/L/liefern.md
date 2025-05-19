@@ -1,4 +1,4 @@
----> [[Management-Coordination-Allocation]] <---
+--> [[Management-Coordination-Allocation]] <--
 
 🚚 [[liefern]], [ˈliːfɐn](https://youglish.com/pronounce/liefern/german) → [[lieferte]] → haben [[geliefert]]
 

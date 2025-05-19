@@ -28,4 +28,4 @@ A: die [[Verpackung]], die [[Verpackungen]]
 G: der [[Verpackung]], der [[Verpackungen]]
 D: der [[Verpackung]], den [[Verpackungen]]
 
-#Feminin 
+#Feminin , [[Verpackungsmüll]]

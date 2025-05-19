@@ -1,3 +1,3 @@
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 , [[betreffen]], [[jeweilig]]

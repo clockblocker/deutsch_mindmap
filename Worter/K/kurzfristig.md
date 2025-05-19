@@ -1,5 +1,5 @@
----> ⏱️ [[Temporal-Perspektive]] <---
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
 ⏱️ [[kurzfristig]], [ˈkʊʁt͡sˌfʁɪstɪç](https://youglish.com/pronounce/kurzfristig/german)
 

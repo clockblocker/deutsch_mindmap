@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🤔 🔴 die [[Einstellung]], [ˈaɪ̯nˌʃtɛlʊŋ](https://youglish.com/pronounce/Einstellung/german)
 die [[Einstellungen]]

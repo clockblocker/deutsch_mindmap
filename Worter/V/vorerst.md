@@ -1,2 +1,2 @@
----> ⏱️ [[Temporal-Status]] <---
+--> ⏱️ [[Temporal-Status]] <--
 , [[erst]], [[zunächst]]

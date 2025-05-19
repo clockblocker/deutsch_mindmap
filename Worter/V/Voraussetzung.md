@@ -1,4 +1,4 @@
----> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <---
+--> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <--
 ✅ 🔴 die [[Voraussetzung]], [fɛɐ̯ˈʔaʊ̯sˌzɛt͡sʊŋ]
 die [[Voraussetzungen]]
 

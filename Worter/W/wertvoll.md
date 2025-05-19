@@ -1,7 +1,7 @@
 💎 [[wertvoll]], [ˈvɛʁtfɔl]
 nicht [[wertlos]]
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 ---
  Als Lena abends nach Hause geht, hat sie die [[Projektleitung]] in der Tasche. Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrung]]en [[sammeln]], meint der Chef.

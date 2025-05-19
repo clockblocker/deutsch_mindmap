@@ -1,6 +1,6 @@
---->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
----> [[Management-Coordination-Allocation]] <---
----> [[Ingredient-Pflege]] <---
+-->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
+--> [[Management-Coordination-Allocation]] <--
+--> [[Ingredient-Pflege]] <--
 
 👍 [[aufrechterhalten]], [ˈaʊ̯fˌʁɛçtʔɛɐ̯ˌhaltn̩] | [[erhielt aufrecht]], haben [[aufrechterhalten]]
 

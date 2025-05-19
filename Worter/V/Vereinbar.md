@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🤝 [[vereinbar]], [fɛɐ̯ˈaɪ̯nbɐr]
 

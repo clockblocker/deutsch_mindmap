@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🤔 🔴 die [[Analogie]], [anaˈloːɡi̯ə]
 die [[Analogien]]

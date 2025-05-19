@@ -1,2 +1,2 @@
----> ⏱️ [[Temporal-Perspektive]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--
 , [[demnächst]]

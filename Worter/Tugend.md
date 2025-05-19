@@ -24,4 +24,4 @@ N: die [[Tugend]], die [[Tugenden]]
 A: die [[Tugend]], die [[Tugenden]]
 G: der [[Tugend]], der [[Tugenden]]
 D: der [[Tugend]], den [[Tugenden]]
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--

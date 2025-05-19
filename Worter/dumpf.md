@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 🔊 [[dumpf]], [ˈdʊmpf] ≠ [[klar]], [[hell]]
 

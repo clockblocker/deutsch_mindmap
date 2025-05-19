@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🏢 🔴 die [[Einrichtung]], [ˈaɪ̯nˌʁɪçtʊŋ](https://youglish.com/pronounce/Einrichtung/german)
 die [[Einrichtungen]]

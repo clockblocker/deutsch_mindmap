@@ -1,5 +1,5 @@
---->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
----> [[Ingredient-Pflege]] <---
+-->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
+--> [[Ingredient-Pflege]] <--
 
 🛡️ [[beschützen]], [bəˈʃʊtsən] | [[beschützte]], haben [[beschützt]]
 

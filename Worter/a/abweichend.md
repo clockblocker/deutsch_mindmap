@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
----> ⏱️ [[Temporal-Template]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
+--> 📈 [[Grad-Vergleich]] <--
+--> ⏱️ [[Temporal-Template]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
 

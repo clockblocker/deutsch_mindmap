@@ -1,4 +1,4 @@
----> [[Ingredinet-Hindernis-Nomen]] <--
+--> [[Ingredinet-Hindernis-Nomen]] <--
 
 ⛔ 🔴 die [[Einschränkung]], [ˈaɪ̯nʃʁɛŋkʊŋ](https://youglish.com/pronounce/Einschränkung/german)
 

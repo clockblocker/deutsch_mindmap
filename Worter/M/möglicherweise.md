@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 🤔 [[möglicherweise]], [ˈmøːɡlɪçɐˌvaɪ̯zə]
 
 ---

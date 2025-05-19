@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🚀 [[Hochfahren]] | [[fuhr hoch|fuhr hoch]], sein [[hochgefahren]]
 
 ---

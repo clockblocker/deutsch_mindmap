@@ -29,4 +29,4 @@ N: die [[Nachlässigkeit]], die [[Nachlässigkeiten]]
 A: die [[Nachlässigkeit]], die [[Nachlässigkeiten]]  
 G: der [[Nachlässigkeit]], der [[Nachlässigkeiten]]  
 D: der [[Nachlässigkeit]], den [[Nachlässigkeiten]]
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--

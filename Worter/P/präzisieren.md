@@ -1,1 +1,1 @@
-, [[klären]], [[nämlich]], [[erläutern]]
+, [[klären]], [[nämlich]], [[erläutern]], [[klarmachen]]

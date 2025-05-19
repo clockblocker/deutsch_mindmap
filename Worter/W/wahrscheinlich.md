@@ -1,6 +1,6 @@
 🟢 wahrscheinlich, [vaːɐ̯ˈʃaɪ̯nlɪç]
 nicht [[unwahrscheinlich]]
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 ---
 [[0 wiederholung.md#^2|^]] [[Wahrscheinlich]] werden sie heute [[wieder]] verloren. Возможно, сегодня они опять проиграют.

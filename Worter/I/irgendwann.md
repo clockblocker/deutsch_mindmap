@@ -1,6 +1,6 @@
 🔀 [[irgendwann]], [ˈɪɐ̯gəntˌvɛn]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

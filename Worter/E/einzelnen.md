@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 🔴 einzelnen, [ˈaɪ̯nʒəlnən]
 nicht [[zusammen]], nicht [[mehrere]]

@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🔍 [[vergleichen]] + Akk, [fɛɐ̯ˈɡlaɪ̯çən]
 [[verglich|verglich]]

@@ -21,4 +21,4 @@ G: der [[Künstlerin]], der [[Künstlerinnen]]
 D: der [[Künstlerin]], den [[Künstlerinnen]]  
 
 ---
-[[Kunst]], [[künstlerisch]], [[künstlerhaft]], [[künstlern]]
+[[Kunst]], [[künstlerisch]], [[künstlerhaft]], [[künstlern]], [[Regisseurin]]

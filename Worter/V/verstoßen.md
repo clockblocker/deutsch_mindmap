@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 🚫 [[verstoßen]], [fɛɐ̯ˈʃtɔsən] | [[verstieß]], haben [[verstoßen]]
 

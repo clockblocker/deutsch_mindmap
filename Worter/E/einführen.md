@@ -1,5 +1,5 @@
- --> [[Ingredient-Add-Remove]] <--
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> [[Ingredient-Add-Remove]] <--
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🚶‍♀️ [[einführen]], [ˈaɪ̯nˌfyːʁən] | [[führte ein]], haben [[eingeführt]]
 
 ---

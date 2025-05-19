@@ -1,4 +1,4 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 
 🤔 [[benötigen]], [bəˈnøːtɪɡn̩] | [[benötigte]], haben [[benötigt]]
 

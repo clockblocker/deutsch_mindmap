@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 🗑️ [[abschaffen]], [ˈapˌʃafən] | [[schaffte ab]], haben [[abgeschafft]]
 

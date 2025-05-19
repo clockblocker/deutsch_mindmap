@@ -1,4 +1,4 @@
----> [[Management-Coordination-Allocation]] <---
+--> [[Management-Coordination-Allocation]] <--
 🗓️ [[planen]], [ˈplaːnən](https://youglish.com/pronounce/planen/german) → [[plante]] → haben [[geplant]]
 
 ---

@@ -1,4 +1,4 @@
----> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+--> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
 
 ⚠️ [[gefährden]], [ɡəˈfɛːɐ̯dn̩](https://youglish.com/pronounce/gefährden/german) → [[gefährdete]] → haben [[gefährdet]]
 

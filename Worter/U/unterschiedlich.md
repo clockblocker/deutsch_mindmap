@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 [[unterschiedlich]], [ˈʊntɛɐ̯ʃiːdlɪç] | [[Unterschied]]
 nicht [[gleich]]
@@ -38,4 +38,4 @@ Neuter: [[unterschiedliches]], [[unterschiedlicheres]], [[unterschiedlichstes]]
 Plural: [[unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]  
 
 [[Unterschiedlichkeit]], [[unterschiedlich]], [[unterschiedlich sein]]
-[[andere]][[anders]], [[verschiedene]]
+[[andere]][[anders]], [[verschiedene]], [[differenziert]]

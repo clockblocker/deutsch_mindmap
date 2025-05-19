@@ -1,1 +1,1 @@
-, [[Ergebnis]], [[Abschluss]], [[Ernte]], [[Bilanz]], [[resultieren]], [[Auswirkung]], [[Bildungserfolg]], [[Konsequenz]], [[Leistung]], [[Wirkung]], [[Ertrag]]---> [[🗣️ Ingredient-Meinung]] <---
+, [[Ergebnis]], [[Abschluss]], [[Ernte]], [[Bilanz]], [[resultieren]], [[Auswirkung]], [[Bildungserfolg]], [[Konsequenz]], [[Leistung]], [[Wirkung]], [[Ertrag]]--> [[🗣️ Ingredient-Meinung]] <--

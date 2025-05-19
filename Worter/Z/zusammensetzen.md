@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 🧩 [[zusammensetzen]], [ˈtsuːzəˌmənˌzɛtsn̩](https://youglish.com/pronounce/zusammensetzen/german) → [[setzte zusammen]] → [[zusammengesetzt]]
 

@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 #### Opinion & Perspective  
 🗣️ [[Meinung]] *(opinion — hot take)*  
 🌄 [[Perspektive]] *(perspective — mental camera angle)*  
@@ -60,7 +60,7 @@
 
 
 #### Ignorance & Bias  
-❌ [[Irrtum]] *(error)*  
+❌ [[Irrung]], [[Irrtum]] *(error)*  
 ⚠️ [[Vorurteil]] *(prejudice)*  
 🙈 [[Unkenntnis]] *(ignorance)*  
 💤 [[Ignoranz]] *(ignorance — willful not-knowing)*  

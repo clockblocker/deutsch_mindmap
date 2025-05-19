@@ -1,6 +1,6 @@
----> ⏱️ [[Temporal-Template]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⏱️ [[Temporal-Template]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
 🕰️ [[dauerhaft]], [ˈdaʊ̯ɐhaft](https://youglish.com/pronounce/dauerhaft/german)
 

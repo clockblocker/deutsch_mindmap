@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Template]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Template]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 [[rund]], [[kontinuierlich]], [[regelmäßig]], [[allwöchentlich]], [[geregelt]], [[gleichmäßig]]

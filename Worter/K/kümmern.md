@@ -1,7 +1,7 @@
 ---
 
 ---
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 🤝 [[kümmern]], [ˈkʏmɐn] | [[kümmerte]], haben [[gekümmert]]
 
 ---

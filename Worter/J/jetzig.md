@@ -1,6 +1,6 @@
 🕰️ [[jetzig]], [ˈjɛtsɪç] ≠ [[vergangen]], [[zukünftig]]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

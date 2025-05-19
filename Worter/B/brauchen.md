@@ -1,4 +1,4 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 
 🙏 [[brauchen]], [ˈbʁaʊ̯xn̩](https://youglish.com/pronounce/brauchen/german) → [[brauchte]] → haben [[gebraucht]]
 

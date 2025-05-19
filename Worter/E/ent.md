@@ -2,4 +2,4 @@
 , [[entlang]]
 , [[entlanggehen]]
 , [[entsprechend]]
-, [[versehentlich]], [[Stadtentwicklung]], [[Entwarnung]], [[entscheidend]], [[entlassen]], [[entfallen]], [[Persönlichkeitsentwicklung]], [[entlasten]], [[Teamentwicklung]], [[Entfremdung]], [[vorenthalten]], [[entstammen]], [[entschlüsseln]], [[weiterentwickeln]], [[Entzifferung]], [[entziffern]], [[Entstehung]], [[Abfallentsorgung]], [[Entsorgung]], [[enttäuschen]], [[entziehen]]
+, [[versehentlich]], [[Stadtentwicklung]], [[Entwarnung]], [[entscheidend]], [[entlassen]], [[entfallen]], [[Persönlichkeitsentwicklung]], [[entlasten]], [[Teamentwicklung]], [[Entfremdung]], [[vorenthalten]], [[entstammen]], [[entschlüsseln]], [[weiterentwickeln]], [[Entzifferung]], [[entziffern]], [[Entstehung]], [[Abfallentsorgung]], [[Entsorgung]], [[enttäuschen]], [[entziehen]], [[entführen]]

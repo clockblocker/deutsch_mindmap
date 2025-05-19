@@ -1,5 +1,5 @@
- --> [[Ingredient-Add-Remove]] <--
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> [[Ingredient-Add-Remove]] <--
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 ⚙️ [[einstellen]], [ˈaɪ̯nˌʃtɛlən](https://youglish.com/pronounce/einstellen/german) | [[stellte ein]], haben [[eingestellt]]
 
 ---

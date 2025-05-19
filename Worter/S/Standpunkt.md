@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🧍 🔵 der [[Standpunkt]], [ˈʃtantpʊŋkt](https://youglish.com/pronounce/Standpunkt/german)
 

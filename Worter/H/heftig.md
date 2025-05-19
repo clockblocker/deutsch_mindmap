@@ -1,4 +1,4 @@
----> 💥 [[Grad-Intensität]] <---
+--> 💥 [[Grad-Intensität]] <--
 
 💥 [[heftig]], [ˈhɛftɪç](https://youglish.com/pronounce/heftig/german)
 

@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🕰️ [[dauern]], [ˈdaʊ̯ɐn], [[dauerte]], haben [[gedauert]]
 
 ---

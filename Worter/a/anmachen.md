@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 💡 [[anmachen]] + Akk, [ˈanˌmaxn̩]
 [[machte an|machte an]]  
 haben [[angemacht]]

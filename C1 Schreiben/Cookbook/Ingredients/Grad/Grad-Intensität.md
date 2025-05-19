@@ -1,5 +1,5 @@
 [[0 Grad]]
----> 💥 [[Grad-Intensität]] <---
+--> 💥 [[Grad-Intensität]] <--
 
 die [[geringe]] [[Anzahl]] der Arbeitsplätze
 #### 🟢 [[stark]] 

@@ -1,1 +1,1 @@
-, [[Dorfbewohner]]
+, [[Dorfbewohner]], [[Bauer]]

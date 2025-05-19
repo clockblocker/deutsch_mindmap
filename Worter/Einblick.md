@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 👁️ 🔵 der [[Einblick]], [ˈaɪ̯nblɪk](https://youglish.com/pronounce/Einblick/german)
 die [[Einblicke]]
 

@@ -1,6 +1,6 @@
 🎯 [[entscheidend]], [ɛntˈʃaɪ̯dnt](https://youglish.com/pronounce/entscheidend/german) |  [[entscheiden]] | [[Entscheidung]]
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
  
 ---

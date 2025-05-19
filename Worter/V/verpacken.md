@@ -1,1 +1,1 @@
-[[abpacken]], [[einpacken]], [[Mantel]], [[Verpackung]]
+[[abpacken]], [[einpacken]], [[Mantel]], [[Verpackung]], [[Verpackungsmüll]]

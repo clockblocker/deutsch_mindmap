@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🆚 🔴 die [[Entgegensetzung]], [ɛntˈɡeːɡənˌzɛtsʊŋ](https://youglish.com/pronounce/Entgegensetzung/german)
 die [[Entgegensetzungen]]

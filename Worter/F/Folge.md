@@ -3,6 +3,10 @@
 ---
 Und hier ist die [[nächste]] [[Folge]] von Extra!
 
+*[[C1-Hoehen-T1-202-Text#^2|^]]* Aber welche katastrophalen [[Folge]]n kann so ein [[Kauf]] haben?
+
+6 Die Sendung beschreibt die [[Folge]]n falschen [[Konsumverhalten]]s
+
 *[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] wissen. ^13
 
 
@@ -59,4 +63,4 @@ G: der [[Folge]], der [[Folgen]]
 D: der [[Folge]], den [[Folgen]]
 
 
-#Feminin , [[zufolge]], [[Zeichenfolge]]---> [[🗣️ Ingredient-Meinung]] <---
+#Feminin , [[zufolge]], [[Zeichenfolge]]--> [[🗣️ Ingredient-Meinung]] <--

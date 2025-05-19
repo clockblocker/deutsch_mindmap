@@ -1,5 +1,5 @@
----> 📊 [[Grad-Verteilung]] <---
----> 🧩 [[Grad-Wahrheit]] <---
+--> 📊 [[Grad-Verteilung]] <--
+--> 🧩 [[Grad-Wahrheit]] <--
 
 Kann ich bitte etwas [[zu]] trinken haben?
 Ich vergesse nie etwas!

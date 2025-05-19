@@ -1,1 +1,1 @@
-, [[Übersetzung]], [[übertragen]]
+, [[Übersetzung]], [[übertragen]], [[Funk]]

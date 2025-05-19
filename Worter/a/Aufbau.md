@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🏗️ 🔵 der [[Aufbau]], [ˈaʊ̯fˌbaʊ̯](https://youglish.com/pronounce/Aufbau/german) | 🧍 🔵 der [[Aufbau]], [ˈaʊ̯fˌbaʊ̯]
 die [[Aufbauten]] | kein Plural

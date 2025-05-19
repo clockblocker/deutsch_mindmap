@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🤸 🔵 der [[Gymnastikraum]], [ɡʏmˈnastɪkˌʁaʊ̯m](https://youglish.com/pronounce/Gymnastikraum/german)
 die [[Gymnastikräume]]

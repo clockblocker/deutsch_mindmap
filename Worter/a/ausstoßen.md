@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 😤 [[ausstoßen]], [ˈaʊ̯sˌʃtoːsən] | [[stieß aus]], haben [[ausgestoßen]]
 

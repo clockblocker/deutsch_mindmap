@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 📞 der [[Aufruf]], [ˈaʊ̯fʁuːf]
 die [[Aufrufe]]

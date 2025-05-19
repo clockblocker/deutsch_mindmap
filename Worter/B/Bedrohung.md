@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Nomen]] <---
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
 ⚠️ 🔴 die [[Bedrohung]], [bəˈdʁoːʊ̯ʊŋ](https://youglish.com/pronounce/Bedrohung/german)
 

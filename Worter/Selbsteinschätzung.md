@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🔴 🧐 die [[Selbsteinschätzung]], [ˈzɛlpstʔaɪ̯nˌʃɛt͡sʊŋ]
 die [[Selbsteinschätzungen]]
@@ -26,4 +26,4 @@ D: der [[Selbsteinschätzung]], den [[Selbsteinschätzungen]]
 
 ---
 [[Selbst]], [[einschätzen]], [[Einschätzung]], [[Selbsterkenntnis]], [[Selbstreflexion]]
-, [[Schätzung]]---> [[🗣️ Ingredient-Meinung]] <---
+, [[Schätzung]]--> [[🗣️ Ingredient-Meinung]] <--

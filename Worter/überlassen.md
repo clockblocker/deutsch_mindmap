@@ -1,4 +1,4 @@
----> [[Management-Coordination-Allocation]] <---
+--> [[Management-Coordination-Allocation]] <--
 💁 [[überlassen]], [ˈyːbɐlasn̩] | [[überließ]], haben [[überlassen]]
 
 ---

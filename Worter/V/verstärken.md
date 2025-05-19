@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 💪 [[verstärken]], [fɛɐ̯ˈʃtɛʁkn̩](https://youglish.com/pronounce/verstärken/german) → [[verstärkte]] → haben [[verstärkt]]
 
 ---

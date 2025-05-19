@@ -1,2 +1,2 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 , [[verplempern]], [[durchsetzen]]

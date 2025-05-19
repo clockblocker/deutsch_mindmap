@@ -1,1 +1,1 @@
----> ⏱️ [[Temporal-Perspektive]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--

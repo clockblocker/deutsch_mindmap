@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 🚪 [[einlassen]], [ˈaɪ̯nˌlasn̩](https://youglish.com/pronounce/einlassen/german) → [[ließ ein]] → [[eingelassen]]
 

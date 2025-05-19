@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 🍽️ [[bereiten]], [bəˈraɪ̯tən] | [[bereitete]], haben [[bereitet]]
 
 ---

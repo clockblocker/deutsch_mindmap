@@ -1,5 +1,5 @@
----> [[🗣️ Ingredient-Meinung]] <---
----> 🤝 [[Ingredient-Interaktion]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> 🤝 [[Ingredient-Interaktion]] <--
 
  📊 🔴 die [[Schätzung]], [ˈʃɛtsʊŋ](https://youglish.com/pronounce/Schätzung/german)
 die [[Schätzungen]]

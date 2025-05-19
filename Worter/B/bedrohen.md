@@ -1,4 +1,4 @@
----> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+--> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
 
 😠 [[bedrohen]], [bəˈdʁoːən](https://youglish.com/pronounce/bedrohen/german) → [[bedrohte]] → haben [[bedroht]]
 

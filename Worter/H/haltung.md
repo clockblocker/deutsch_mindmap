@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🧍‍♀️ 🔴 die [[Haltung]], [ˈhaltʊŋ](https://youglish.com/pronounce/Haltung/german)
 die [[Haltungen]]

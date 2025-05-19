@@ -1,5 +1,5 @@
 [[0 Grad]]
----> 📊 [[Grad-Verteilung]] <---
+--> 📊 [[Grad-Verteilung]] <--
 
 #### 🟢 [[vollständig]] *(complete / total)*
 1) [[ausschließlich]] *(exclusively)*

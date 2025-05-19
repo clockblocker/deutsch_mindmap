@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Perspektive]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--
 
 🚨 [[dringend]], [ˈdʁɪŋənt](https://youglish.com/pronounce/dringend/german)
 🏃‍♀️ [[dringen]] 

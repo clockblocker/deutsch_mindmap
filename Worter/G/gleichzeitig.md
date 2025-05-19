@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🕰️ [[gleichzeitig]], [ˈɡlaɪ̯çˌtsaɪ̯tɪç]
 

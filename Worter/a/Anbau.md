@@ -1,1 +1,1 @@
-, [[Gemüseanbau]]
+, [[Gemüseanbau]], [[Plantage]]

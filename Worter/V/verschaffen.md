@@ -1,5 +1,5 @@
- --> [[Ingredient-Add-Remove]] <--
----> [[Management-Coordination-Allocation]] <---
+--> [[Ingredient-Add-Remove]] <--
+--> [[Management-Coordination-Allocation]] <--
 💪 [[verschaffen]], [fɛɐ̯ˈʃafn̩] | [[verschaffte]], haben [[verschafft]]
 
 ---

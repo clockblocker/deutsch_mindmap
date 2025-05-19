@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 🪑 [[hinstellen]] + Akk, [ˈhɪnˌʃtɛlən]
 [[stellte hin|stellte hin]]

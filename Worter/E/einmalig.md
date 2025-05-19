@@ -1,5 +1,5 @@
----> ⏱️ [[Temporal-Frequenz]] <---
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⏱️ [[Temporal-Frequenz]] <--
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
 🥇 [[einmalig]], [ˈaɪ̯nmaːlɪç] ≠ [[wiederholt]]
 

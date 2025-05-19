@@ -1,4 +1,4 @@
----> 💥 [[Grad-Intensität]] <---
+--> 💥 [[Grad-Intensität]] <--
 ⬆️ [[erheblich]], [ɛɐ̯ˈheːplɪç](https://youglish.com/pronounce/erheblich/german)
 
 ---

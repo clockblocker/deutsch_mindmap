@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 😠 [[schmollen]], [ˈʃmɔlən] | [[schmollte]], haben [[geschmollt]]
 

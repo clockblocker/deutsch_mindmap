@@ -1,1 +1,1 @@
-, [[Sozialdumping]]
+, [[Sozialdumping]], [[Ressourcenschonung]], [[Schonung]]

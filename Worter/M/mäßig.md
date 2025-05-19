@@ -1,4 +1,4 @@
----> 💥 [[Grad-Intensität]] <---
+--> 💥 [[Grad-Intensität]] <--
 
 
 ⚖️ [[mäßig]], [ˈmɛːsɪç](https://youglish.com/pronounce/mäßig/german)

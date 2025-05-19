@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 🕹️ 🟢 das [[Spiel]], [ʃpiːl](https://youglish.com/pronounce/Spiel/german)

@@ -1,4 +1,4 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 
 #### ✅ Ausdruck von Bedarf / Bedürfnis (Expressing Need)
 🧲 [[brauchen]] *(to need; neutral everyday)*

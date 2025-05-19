@@ -1,4 +1,4 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 
 neue [[Partner]] und [[Kunde]]n [[gewinnen]]
 aktuellen [[Aufgabenbereich]] erweitern

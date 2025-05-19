@@ -1,5 +1,5 @@
----> ⏱️ [[Temporal-Template]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Template]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 🔤 [[regelmäßig]], [ˈʁeːɡl̩ˌmɛsɪç]
 nicht [[unregelmäßig]]

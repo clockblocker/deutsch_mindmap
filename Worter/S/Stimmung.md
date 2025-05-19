@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 😊 🔴 die [[Stimmung]], [ˈʃtɪmʊŋ](https://youglish.com/pronounce/Stimmung/german)
 die [[Stimmungen]]

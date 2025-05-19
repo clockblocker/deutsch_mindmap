@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 ⚖️ [[gleichmäßig]], [ˈɡlaɪ̯çˌmɛːsɪç](https://youglish.com/pronounce/gleichmäßig/german)
 

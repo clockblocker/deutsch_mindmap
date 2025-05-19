@@ -1,5 +1,5 @@
 
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 🔒 [[begrenzen]], [bəˈɡʁɛntsən] | [[begrenzte]], haben [[begrenzt]]
 
 ---

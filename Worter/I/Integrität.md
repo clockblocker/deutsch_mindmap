@@ -23,4 +23,4 @@ N: die [[Integrität]], die [[Integritäten]]
 A: die [[Integrität]], die [[Integritäten]]
 G: der [[Integrität]], der [[Integritäten]]
 D: der [[Integrität]], den [[Integritäten]]
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--

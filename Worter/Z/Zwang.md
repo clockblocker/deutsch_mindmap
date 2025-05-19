@@ -1,4 +1,4 @@
----> [[Ingredient-Bedürfnis]] <---
+--> [[Ingredient-Bedürfnis]] <--
 
 🔵 der [[Zwang]]
 die [[Zwänge]]

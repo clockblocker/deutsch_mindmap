@@ -23,4 +23,4 @@ banal, trite
 Adjektive: [[banal]], [[banaler]], [[banalst]]
 
 ---
-[[banaler]], [[banales]], [[banale]], [[banalen]], [[banalem]], [[banalerer]], [[banaleres]], [[banalere]], [[banaleren]], [[banalerem]], [[banalster]], [[banalstes]], [[banalste]], [[banalsten]], [[banalstem]]
+[[banaler]], [[banales]], [[banale]], [[banalen]], [[banalem]], [[banalerer]], [[banaleres]], [[banalere]], [[banaleren]], [[banalerem]], [[banalster]], [[banalstes]], [[banalste]], [[banalsten]], [[banalstem]], [[hintergründig]]

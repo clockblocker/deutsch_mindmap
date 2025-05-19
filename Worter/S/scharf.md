@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 🔪 [[scharf]], [ˈʃaɐ̯f] | [[scharfen]]
 nicht [[stumpf]]

@@ -1,4 +1,4 @@
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 
 💸 [[kostspielig]], [ˈkɔstˌʃpiːlɪç](https://youglish.com/pronounce/kostspielig/german)
 

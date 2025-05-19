@@ -1,5 +1,5 @@
----> 🧮 [[Grad-Quantität]] <---
-----> [[viel-wenig]] <----
+--> 🧮 [[Grad-Quantität]] <--
+---> [[viel-wenig]] <---
 
 мало
 

@@ -1,5 +1,5 @@
----> ⏱️ [[Temporal-Perspektive]] <---
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 [[Jetzt geht das wieder los]], [
 

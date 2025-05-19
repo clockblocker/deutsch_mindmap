@@ -1,4 +1,4 @@
----> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
 
 📉 🔴 die [[Verringerung]], [fɛɐ̯ˈʁɪŋərʊŋ](https://youglish.com/pronounce/Verringerung/german)
 die [[Verringerungen]]

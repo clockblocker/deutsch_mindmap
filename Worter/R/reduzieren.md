@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 📉 [[reduzieren]], [ʁeˈduːt͡siːʁən](https://youglish.com/pronounce/reduzieren/german) → [[reduzierte]] → haben [[reduziert]]
 

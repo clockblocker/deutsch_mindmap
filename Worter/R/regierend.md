@@ -1,6 +1,6 @@
 🕰️ [[regierend]], [ʁeˈɡiːʁənt] ≠ [[opposition]]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 ---
 13. Im Parlament steht der [[Begriff]] „Opposition“ für… (96%)

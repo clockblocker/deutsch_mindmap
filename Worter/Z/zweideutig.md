@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 🤔 [[zweideutig]], [ˈt͡svaɪ̯ˌdɔɪ̯tɪç](https://youglish.com/pronounce/zweideutig/german)
 

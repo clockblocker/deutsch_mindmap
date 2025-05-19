@@ -23,4 +23,4 @@ complex, complicated
 Adjektive: [[komplex]], [[komplexer]], [[komplexest]]
 
 ---
-[[komplexer]], [[komplexes]], [[komplexe]], [[komplexen]], [[komplexem]], [[komplexerer]], [[komplexeres]], [[komplexere]], [[komplexeren]], [[komplexerem]], [[komplexester]], [[komplexestes]], [[komplexeste]], [[komplexesten]], [[komplexestem]], [[komplett]], [[tiefgründig]]
+[[komplexer]], [[komplexes]], [[komplexe]], [[komplexen]], [[komplexem]], [[komplexerer]], [[komplexeres]], [[komplexere]], [[komplexeren]], [[komplexerem]], [[komplexester]], [[komplexestes]], [[komplexeste]], [[komplexesten]], [[komplexestem]], [[komplett]], [[tiefgründig]], [[hintergründig]], [[differenziert]]

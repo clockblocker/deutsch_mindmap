@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 😴 🔴 die [[Untätigkeit]], [ˈʊnˌtɛːtiçkaɪ̯t](https://youglish.com/pronounce/Untätigkeit/german)

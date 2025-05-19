@@ -26,4 +26,4 @@ Morpheme: [[schnapp]][[en]]
 | Sie | [[schnappen]] | [[schnappten]] | [[schnappen Sie]] | [[schnappen]] | [[schnappten]] |
 
 Partizip I: [[schnappend]], Partizip II: [[geschnappt]]
-, [[s1 e1]], [[raffen]]
+, [[s1 e1]], [[raffen]], [[Schnäppchen]]

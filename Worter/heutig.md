@@ -1,6 +1,6 @@
 🕰️ [[heutig]], [ˈhɔɪ̯tɪç] ≠ [[veraltet]]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

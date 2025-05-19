@@ -1,2 +1,2 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 , [[zunehmen]], [[absinken]], [[Anstieg]], [[zurückgehen]], [[Preisanstieg]]

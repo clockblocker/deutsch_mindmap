@@ -1,5 +1,5 @@
----> [[Ingredinet-Action-Nomen]] <---
----> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
+--> [[Ingredinet-Action-Nomen]] <--
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
 
 ---
 🔵 der [[Verlust]], [fɛɐ̯ˈlʊst]

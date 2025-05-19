@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 🏃‍♀️ [[ausweichend]], [ˈaʊ̯sˌvaɪ̯çənt]
 

@@ -1,4 +1,4 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 ✅ [[bestehen]], [bəˈʃteːən] | [[Bestand]], haben [[bestanden]]
 
 ---

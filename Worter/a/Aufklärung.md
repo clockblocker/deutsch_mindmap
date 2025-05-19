@@ -1,1 +1,1 @@
-, [[Erkenntnis]]---> [[🗣️ Ingredient-Meinung]] <---
+, [[Erkenntnis]]--> [[🗣️ Ingredient-Meinung]] <--

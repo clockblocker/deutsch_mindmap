@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 👁️ [[erkennbar]], [ɛɐ̯ˈkɛnbaːɐ̯] ≠ [[unerkennbar]]
 

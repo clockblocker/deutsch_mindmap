@@ -23,4 +23,4 @@ G: des [[Talentes]], der [[Talente]]
 D: dem [[Talent]], den [[Talenten]]  
 
 ---
-[[Talentiertheit]], [[talentiert]], [[talentvoll]], [[talentfrei]], [[talentlos]]
+[[Talentiertheit]], [[talentiert]], [[talentvoll]], [[talentfrei]], [[talentlos]], [[Händchen]]

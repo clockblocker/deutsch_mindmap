@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 [[verkürzen]] + Akk, [fɛɐ̯ˈkʏʁt͡sən]
 [[verkürzte]]
 haben [[verkürzt]]

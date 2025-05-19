@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🔴 👶 der [[Geburtsort]], [ˈɡeːbʊʁtsˌʔɔʁt]
 die [[Geburtsorte]]

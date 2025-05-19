@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 ♾️ [[unzählbar]], [ˈʊnt͡səːlb̥aːɐ̯] ≠ [[zählbar]]
 

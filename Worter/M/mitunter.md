@@ -1,5 +1,5 @@
----> ⏱️ [[Temporal-Template]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Template]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 🤔 [[mitunter]], [ˈmɪtˌʊntɐ](https://youglish.com/pronounce/mitunter/german)
 

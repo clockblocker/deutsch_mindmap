@@ -1,3 +1,3 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 , [[Doppelte]], [[zweideutig]], [[klar]]

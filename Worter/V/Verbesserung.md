@@ -1,4 +1,4 @@
----> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
 👍 🔴 die [[Verbesserung]], [fɛɐ̯ˈbɛsərʊŋ](https://youglish.com/pronounce/Verbesserung/german)
 die [[Verbesserungen]]
 

@@ -1,6 +1,6 @@
 ⏱️ [[derzeit]], [ˈdeːɐ̯ˌtsaɪ̯t](https://youglish.com/pronounce/derzeit/german)
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

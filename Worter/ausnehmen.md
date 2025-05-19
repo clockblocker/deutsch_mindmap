@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 🛠️ [[ausnehmen]], [ˈaʊ̯sneːmən] | [[nahm aus]], haben [[ausgenommen]]
 

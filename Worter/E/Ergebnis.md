@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🟢 das [[Ergebnis]], [ˈeɐ̯ɡeːbnɪs]
 die [[Ergebnisse]]

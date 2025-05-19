@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Nomen]] <---
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
 🔴 ⚠️ die [[Gefahr]], [ɡəˈfaːɐ̯]
 die [[Gefahren]]

@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 verkürzt, [fɛɐ̯ˈkʏʁtst], [[verkürzen]]
 nicht [[verlängert]]

@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 🤫 [[schweigen]], [ˈʃvaɪ̯ɡən] | [[schwieg]], haben [[geschwiegen]]
 
 ---

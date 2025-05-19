@@ -1,5 +1,5 @@
----> 💥 [[Grad-Intensität]] <---
----> 🧱[[Grad-Gewicht]] <---
+--> 💥 [[Grad-Intensität]] <--
+--> 🧱[[Grad-Gewicht]] <--
 
 ⭐ [[bedeutend]], [bəˈdɔɪ̯tn̩t](https://youglish.com/pronounce/bedeutend/german)
 

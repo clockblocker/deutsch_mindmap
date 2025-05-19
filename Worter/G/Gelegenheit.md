@@ -1,5 +1,5 @@
----> [[🗣️ Ingredient-Meinung]] <---
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 🔴 🍀 die [[Gelegenheit]], [ɡəˈleːɡn̩haɪ̯t]
 die [[Gelegenheiten]]
@@ -36,4 +36,4 @@ D: der [[Gelegenheit]], den [[Gelegenheiten]]
 [[gelegen]], [[legen]], [[Gelegenheitsarbeit]], [[Gelegenheitskauf]], [[Gelegenheitsfund]]
 , [[gelegentlich]], [[Mitfahrgelegenheit]]
 
-#Feminin , [[nähern]], [[Zufall]]
+#Feminin , [[nähern]], [[Zufall]], [[Schnäppchen]]

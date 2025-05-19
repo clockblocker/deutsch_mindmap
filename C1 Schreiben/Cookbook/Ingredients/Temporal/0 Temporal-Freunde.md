@@ -1,20 +1,20 @@
 *oft-selten*
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Frequenz]] <--
 
 *langfristig*
----> ⏱️ [[Temporal-Perspektive]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--
 
 *heutzutage*
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 *anschließend*
----> ⏱️ [[Temporal-Konnektivpartikeln]] <---
+--> ⏱️ [[Temporal-Konnektivpartikeln]] <--
 
 *beständig*
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
 *Bisher, bald, bereits*
----> ⏱️ [[Temporal-Status]] <---
+--> ⏱️ [[Temporal-Status]] <--
 
 ❗ [[akut]] *(acute, urgent)*
 

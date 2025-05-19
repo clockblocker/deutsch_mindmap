@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Status]] <---
+--> ⏱️ [[Temporal-Status]] <--
 
 🕰️ [[bereits]], [bəˈreɪ̯ts]
 

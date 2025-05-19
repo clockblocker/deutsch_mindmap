@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 
 #### 🟢 [[Beginn]]  
 1) [[anfangen]] *(to begin — colloquial-neutral)*  

@@ -1,4 +1,4 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 🧘 [[überleben]], [ˈyːbɐˌleːbən] | [[überlebte]], haben [[überlebt]]
 
 ---

@@ -1,2 +1,2 @@
 
-, [[Konkurrenz]], [[Wettbewerbsgesellschaft]]
+, [[Konkurrenz]], [[Wettbewerbsgesellschaft]], [[Preisdiktat]]

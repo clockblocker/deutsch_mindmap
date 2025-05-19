@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🎁 🟢 das [[Angebot]], [ˈaŋɡəˌboːt](https://youglish.com/pronounce/Angebot/german)
 die [[Angebote]]
@@ -47,4 +47,4 @@ G: des [[Angebotes]], der [[Angebote]]
 D: dem [[Angebot]], den [[Angeboten]]
 
 
-#Neuter , [[Unterstützungsangebot]], [[Kompromissvorschlag]], [[Pitch]], [[Firmenangebot]], [[Übergangebot]], [[Anbieter]], [[Unterhaltungsangebot]], [[Dienstleistung]]
+#Neuter , [[Unterstützungsangebot]], [[Kompromissvorschlag]], [[Pitch]], [[Firmenangebot]], [[Übergangebot]], [[Anbieter]], [[Unterhaltungsangebot]], [[Dienstleistung]], [[Schnäppchen]]

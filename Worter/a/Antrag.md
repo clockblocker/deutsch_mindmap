@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🔵 der [[Antrag]], [ˈantʁaːk]
 die [[Anträge]]

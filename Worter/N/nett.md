@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 🤗 [[nett]], [nɛt]
 nicht [[unhöflich]], nicht [[unfreundlich]]

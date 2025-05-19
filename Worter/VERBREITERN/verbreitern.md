@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 ↔️ [[verbreitern]], [fɛɐ̯ˈbʁaɪ̯tɐn](https://youglish.com/pronounce/verbreitern/german) → [[verbreiterte]] → [[verbreitert]]
 

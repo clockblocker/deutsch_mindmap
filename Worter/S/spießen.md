@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 🍢 [[spießen]] + Akk, [ˈʃpiːsən]
 [[spieß]]

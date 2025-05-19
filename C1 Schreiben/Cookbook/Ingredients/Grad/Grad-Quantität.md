@@ -1,5 +1,5 @@
 [[0 Grad]]
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 #### 🟢 [[hoch]] 
 1) [[unzählbar]] *(uncountable)*
 2) [[viel]] *(a lot)*

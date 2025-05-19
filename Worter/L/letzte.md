@@ -1,6 +1,6 @@
 [[letzte]]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 ---
 SASCHA: Ja, Sven Väth war [[letzte]] Woche auch da!  

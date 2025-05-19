@@ -1,4 +1,4 @@
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 🧐 [[anspruchsvoll]], [ˈanʃpʁʊxsˌfɔl]
 
 ---
@@ -27,4 +27,4 @@ demanding, challenging
 Adjektive: [[anspruchsvoll]], [[anspruchsvoller]], [[anspruchsvollsten]]
 
 ---
-[[anspruchsvoller]], [[anspruchsvolles]], [[anspruchsvolle]], [[anspruchsvollen]], [[anspruchsvollem]], [[anspruchsvollerer]], [[anspruchsvolleres]], [[anspruchsvollere]], [[anspruchsvolleren]], [[anspruchsvollerem]], [[anspruchsvollstener]], [[anspruchsvollstenes]], [[anspruchsvollstene]], [[anspruchsvollstenen]], [[anspruchsvollstenem]], [[banal]], [[anstrengend]], [[komplex]], [[aufwendig]], [[beanspruchen]], [[tiefgründig]]
+[[anspruchsvoller]], [[anspruchsvolles]], [[anspruchsvolle]], [[anspruchsvollen]], [[anspruchsvollem]], [[anspruchsvollerer]], [[anspruchsvolleres]], [[anspruchsvollere]], [[anspruchsvolleren]], [[anspruchsvollerem]], [[anspruchsvollstener]], [[anspruchsvollstenes]], [[anspruchsvollstene]], [[anspruchsvollstenen]], [[anspruchsvollstenem]], [[banal]], [[anstrengend]], [[komplex]], [[aufwendig]], [[beanspruchen]], [[tiefgründig]], [[hintergründig]]

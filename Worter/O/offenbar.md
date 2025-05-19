@@ -1,5 +1,5 @@
----> 🧩 [[Grad-Wahrheit]] <---
----> 💥 [[Grad-Intensität]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
+--> 💥 [[Grad-Intensität]] <--
 
 offenbar, [ˈɔfn̩baːɐ̯]
 sichtbar, deutlich

@@ -1,1 +1,1 @@
-, [[Richtungsänderung]]
+, [[Richtungsänderung]], [[schwenken]]

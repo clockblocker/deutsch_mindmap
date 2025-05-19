@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 📈 [[erhöhen]], [ɛɐ̯ˈhøːən] | [[erhöhte]], haben [[erhöht]]
 
 ---

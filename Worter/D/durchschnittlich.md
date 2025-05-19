@@ -1,2 +1,2 @@
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 , [[hervorragend]], [[großartig]], [[gewöhnlich]], [[rekordverdächtig]]

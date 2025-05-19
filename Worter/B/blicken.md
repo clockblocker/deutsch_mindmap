@@ -31,4 +31,4 @@ Morpheme: [[blick]][[en]]
 Partizip I: [[blickend]], Partizip II: [[geblickt]], Zu infinitive: zu blicken
 
 [[blicken]] - keine Vorsilbe = [[blick]]
-, [[sehen]], [[gucken]], [[7 Die Geschichte vom Zappel-Philipp]], [[aufsehen]], [[anblicken]], [[Blickkontakt]]
+, [[sehen]], [[gucken]], [[7 Die Geschichte vom Zappel-Philipp]], [[aufsehen]], [[anblicken]], [[Blickkontakt]], [[hinschauen]]

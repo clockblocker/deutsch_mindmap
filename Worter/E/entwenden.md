@@ -1,1 +1,1 @@
-[[stehlen]], [[rauben]]
+[[stehlen]], [[rauben]], [[entführen]]

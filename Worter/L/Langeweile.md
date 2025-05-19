@@ -1,5 +1,5 @@
----> [[🗣️ Ingredient-Meinung]] <---
----> [[Ingredinet-Action-Nomen]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 😩 🔴 die [[Langeweile]], [ˈlaŋəˌvaɪ̯lə](https://youglish.com/pronounce/Langeweile/german)

@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 [[einsam]], [ˈaɪ̯n.zaːm]
 nicht [[gesellig]], [[Allein]]

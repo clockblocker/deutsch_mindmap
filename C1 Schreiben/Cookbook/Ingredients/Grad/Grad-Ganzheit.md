@@ -1,5 +1,5 @@
 [[0 Grad]]
----> 🧩 [[Grad-Ganzheit]] <---
+--> 🧩 [[Grad-Ganzheit]] <--
 
 wurden [[nahezu]] jeden Sommer neue Temperaturrekorde verzeichnet
 #### ⚪ [[vollständig]]

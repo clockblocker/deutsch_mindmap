@@ -1,7 +1,7 @@
 🚫 [[nutzlos]], [ˈnʊtsloz]
 nicht [[nützlich]]
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 
 ---

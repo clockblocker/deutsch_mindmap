@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 🌿 [[pflegen]], [ˈpfleːɡən] | [[pflegte]], haben [[gepflegt]]
 
 ---

@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🤔 🔵 der [[Irrtum]], [ˈɪɐ̯ˌtuːm](https://youglish.com/pronounce/Irrtum/german)
 die [[Irrtümer]]
@@ -30,4 +30,4 @@ A: den [[Irrtum]], die [[Irrtümer]]
 G: des [[Irrtums]], der [[Irrtümer]]
 D: dem [[Irrtum]], den [[Irrtümern]]
 
-#Maskulin , [[Verwechslung]]
+#Maskulin , [[Verwechslung]], [[Irrung]]

@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 🔮 [[zukünftig]], [ˈt͡suːˌkʏnftɪç] ≠ [[vergangen]]
 

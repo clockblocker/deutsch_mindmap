@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 🧠 [[tiefgründig]], [tiːfˈɡʁʏndɪç](https://youglish.com/pronounce/tiefgründig/german)
 
@@ -26,4 +26,4 @@ profound, deep
 Adjektive: [[tiefgründig]], [[tiefgründiger]], [[tiefgründigst]]
 
 ---
-[[tiefgründiger]], [[tiefgründiges]], [[tiefgründige]], [[tiefgründigen]], [[tiefgründigem]], [[tiefgründigerer]], [[tiefgründigeres]], [[tiefgründigere]], [[tiefgründigeren]], [[tiefgründigerem]], [[tiefgründigster]], [[tiefgründigstes]], [[tiefgründigste]], [[tiefgründigsten]], [[tiefgründigstem]]
+[[tiefgründiger]], [[tiefgründiges]], [[tiefgründige]], [[tiefgründigen]], [[tiefgründigem]], [[tiefgründigerer]], [[tiefgründigeres]], [[tiefgründigere]], [[tiefgründigeren]], [[tiefgründigerem]], [[tiefgründigster]], [[tiefgründigstes]], [[tiefgründigste]], [[tiefgründigsten]], [[tiefgründigstem]], [[hintergründig]]

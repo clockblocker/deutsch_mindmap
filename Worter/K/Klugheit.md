@@ -1,1 +1,1 @@
-, [[Einsicht]], [[Weisheit]]
+, [[Einsicht]], [[Weisheit]], [[Blödelei]]

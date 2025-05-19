@@ -1,1 +1,1 @@
-, [[Verschwendung]], [[Kosteneffizienz]]
+, [[Verschwendung]], [[Kosteneffizienz]], [[Ressourcenschonung]]

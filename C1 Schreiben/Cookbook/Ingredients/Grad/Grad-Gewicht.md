@@ -1,5 +1,5 @@
 [[0 Grad]]
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 #### 🧱 [[Essentiell]] – Indispensable / Foundational
 [[unverzichtbar]] *(indispensable; cannot be omitted)*
 [[unentbehrlich]] *(indispensable; formal)*

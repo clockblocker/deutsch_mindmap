@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🔴 die [[Stelle]], [ˈʃtɛlə] | 🛠️ [[stellen]]  
 die [[Stellen]]

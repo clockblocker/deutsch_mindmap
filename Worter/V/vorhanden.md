@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 ✅ [[vorhanden]], [foɐ̯ˈhandn̩](https://youglish.com/pronounce/vorhanden/german) ≠ [[fehlend]]
 

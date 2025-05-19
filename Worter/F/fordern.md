@@ -1,4 +1,4 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 🏋️ [[fordern]], [ˈfɔʁdɐn] | [[forderte]], haben [[gefordert]]
 
 ---
@@ -38,4 +38,4 @@ PI: [[fordernd]], PII: [[gefordert]], Zu+inf: [[zufordern]]
 [[fordern]] - [[Stamm]] = [[fordern]] / to demand, to request, to challenge
 
 ---
-[[Forderung]], [[Herausforderung]], [[Anspruch]], [[forschend]], [[fordernd]], [[Forderer]], [[Forderung]], [[erforderlich]], [[überfordern]], [[benötigen]], [[Aufrufen]], [[dringen]], [[Überforderung]], [[erfordern]], [[drängen]], [[appellieren]]
+[[Forderung]], [[Herausforderung]], [[Anspruch]], [[forschend]], [[fordernd]], [[Forderer]], [[Forderung]], [[erforderlich]], [[überfordern]], [[benötigen]], [[Aufrufen]], [[dringen]], [[Überforderung]], [[erfordern]], [[drängen]], [[appellieren]], [[einfordern]]

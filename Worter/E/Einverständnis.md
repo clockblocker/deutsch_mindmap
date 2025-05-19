@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🟢 📝 das [[Einverständnis]], [ˈaɪ̯nfɛɐ̯ˌʃtɛndnɪs]
 die [[Einverständnisse]]

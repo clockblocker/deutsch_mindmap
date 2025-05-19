@@ -6253,7 +6253,7 @@ var require_purify = __commonJS({
           var returnNode = void 0;
           IS_EMPTY_INPUT = !dirty;
           if (IS_EMPTY_INPUT) {
-            dirty = "<!--->";
+            dirty = "<!-->";
           }
           if (typeof dirty !== "string" && !_isNode(dirty)) {
             if (typeof dirty.toString !== "function") {
@@ -6286,7 +6286,7 @@ var require_purify = __commonJS({
           if (IN_PLACE)
             ;
           else if (dirty instanceof Node) {
-            body = _initDocument("<!---->");
+            body = _initDocument("<!--->");
             importedNode = body.ownerDocument.importNode(dirty, true);
             if (importedNode.nodeType === 1 && importedNode.nodeName === "BODY") {
               body = importedNode;

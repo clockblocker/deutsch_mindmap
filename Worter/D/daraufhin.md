@@ -1,6 +1,6 @@
 ➡️ [[daraufhin]], [daˈʁaʊ̯fˌhɪn]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 ---
 [[1.1 text#^5|^]] Doch dann besuchte sie [[Verwandte]] in Ghana, hatte dort eine Geschäftsidee und machte sich [[daraufhin]] selbstständig. ^5

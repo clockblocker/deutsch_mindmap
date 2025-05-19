@@ -30,4 +30,4 @@ D: dem [[Argument]], den [[Argumenten]]
 
 
 
-#Neuter ---> [[🗣️ Ingredient-Meinung]] <---
+#Neuter --> [[🗣️ Ingredient-Meinung]] <--

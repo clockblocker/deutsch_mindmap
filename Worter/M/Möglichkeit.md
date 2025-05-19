@@ -1,4 +1,4 @@
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredient-erlauben-verbieten]] <--
 
 die [[Möglichkeit]], [ˈmøːklɪçkaɪ̯t]
 die [[Möglichkeiten]]

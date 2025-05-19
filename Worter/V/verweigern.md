@@ -1,5 +1,5 @@
----> 🤝 [[Ingredient-Interaktion]] <---
----> [[Ingredient-erlauben-verbieten]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
+--> [[Ingredient-erlauben-verbieten]] <--
 
 🙅 [[verweigern]], [fɛɐ̯ˈvaɪ̯ɡɐn](https://youglish.com/pronounce/verweigern/german) → [[verweigerte]] → [[verweigert]]
 

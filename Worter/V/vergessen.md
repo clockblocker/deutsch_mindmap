@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 🤔 [[vergessen]], [fɛɐ̯ˈɡɛsn̩] | [[vergaß]], haben [[vergessen]]
 
 ---

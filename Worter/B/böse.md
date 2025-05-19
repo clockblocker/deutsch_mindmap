@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 🟣 böse, [ˈbœzə]
 nicht [[gut]], nicht [[nett]], nicht [[freundlich]]

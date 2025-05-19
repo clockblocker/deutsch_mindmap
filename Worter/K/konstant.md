@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Template]] <---
----> ⏱️ [[Temporal-Frequenz]] <---
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⏱️ [[Temporal-Template]] <--
+--> ⏱️ [[Temporal-Frequenz]] <--
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 , [[exponentiell]], [[gleichmäßig]]

@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 🗳️ 🔴 die [[Mehrheit]], [ˈmeːɐ̯haɪ̯t]
 die [[Mehrheiten]]
 

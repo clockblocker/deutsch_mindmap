@@ -1,1 +1,1 @@
-, [[erkennen]], [[s1 e1]]
+[[erkennen]]

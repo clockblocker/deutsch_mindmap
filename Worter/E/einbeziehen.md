@@ -1,2 +1,2 @@
----> [[Ingredient-Einhaltung]] <---
+--> [[Ingredient-Einhaltung]] <--
 , [[beteiligen]], [[berücksichtigen]]

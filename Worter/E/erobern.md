@@ -1,4 +1,4 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 
 ---
 ⚔️ [[erobern]], [eɐ̯ˈʁoːbɐn](https://youglish.com/pronounce/erobern/german) → [[eroberte]] → haben [[erobert]]

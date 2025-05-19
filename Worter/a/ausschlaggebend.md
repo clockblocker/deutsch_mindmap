@@ -1,6 +1,6 @@
 🔑 [[ausschlaggebend]], [ˈaʊ̯sʃlaːkˌɡeːbn̩t](https://youglish.com/pronounce/ausschlaggebend/german)
 
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 
 ---

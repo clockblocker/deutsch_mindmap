@@ -3,6 +3,10 @@
 ---
 Du musst den [[Wert]] des Geldes kennen.
 
+*[[C1-Hoehen-T1-202-Text#^8|^]]* Also, ich habe durch diese Sendung wieder gelernt, die Arbeit, die in Produkten [[steckt]], [[wert]] zu [[schätzen]]
+
+1 Die [[Sendung]] [[hinweist|weist]] auf [[ideell]]e [[Wert]]e hin.  
+
 *[[C1-Lesen-T2-100-Text#^2|^]]* Jugendliche [[legen]] in der [[Mehrzahl]] [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
 
 

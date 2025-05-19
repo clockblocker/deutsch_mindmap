@@ -1,4 +1,4 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 
 ✅ [[erforderlich]], [ɛɐ̯ˈfɔʁdɐlɪç] ≠ [[unnötig]]
 

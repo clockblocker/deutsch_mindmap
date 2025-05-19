@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 🤝 [[beteiligen]] + an + Dat, [bəˈtaɪ̯lɪɡən]
 [[beteiligte]]

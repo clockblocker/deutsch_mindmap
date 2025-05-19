@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 🔴 die [[Reihe]], [ˈʁaɪ̯ə]
 die [[Reihen]]

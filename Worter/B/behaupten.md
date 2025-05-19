@@ -1,4 +1,4 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 🗣️ [[behaupten]], [bəˈhaʊ̯ptən] | [[behauptete]], haben [[behauptet]]
 
 ---

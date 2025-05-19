@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Verben]] <---
+--> [[Ingredient-Risiko-Schutz-Verben]] <--
 
 🔵 [[drohen]] + Dat/Akk, [ˈdroːən]
 [[drohte]]  

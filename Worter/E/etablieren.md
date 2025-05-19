@@ -1,5 +1,5 @@
- --> [[Ingredient-Add-Remove]] <--
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[Ingredient-Add-Remove]] <--
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🏢 [[etablieren]], [etaˈbliːʁən](https://youglish.com/pronounce/etablieren/german) | [[etablierte]], haben [[etabliert]]
 

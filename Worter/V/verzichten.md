@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 🙅 [[verzichten]], [fɛɐ̯ˈt͡sɪçtn̩] | [[verzichtete]], haben [[verzichtete]]
 
 ---
@@ -48,4 +48,4 @@ sie, [[verzichten]], [[verzichteten]], [[verzichten]], [[verzichteten]], [[verzi
 Adjektive: [[verzichtend]], [[verzichtender]], [[verzichtendst]]
 
 ---
-[[verzichtender]], [[verzichtendes]], [[verzichtende]], [[verzichtenden]], [[verzichtendem]], [[verzichtenderer]], [[verzichtenderes]], [[verzichtendere]], [[verzichtenderen]], [[verzichtenderem]], [[verzichtendster]], [[verzichtendstes]], [[verzichtendste]], [[verzichtendsten]], [[verzichtendstem]], [[bestreben]], [[bedürfen]], [[benötigen]], [[dringen]], [[meiden]], [[Streben]], [[durchsetzen]], [[verlangen]]
+[[verzichtender]], [[verzichtendes]], [[verzichtende]], [[verzichtenden]], [[verzichtendem]], [[verzichtenderer]], [[verzichtenderes]], [[verzichtendere]], [[verzichtenderen]], [[verzichtenderem]], [[verzichtendster]], [[verzichtendstes]], [[verzichtendste]], [[verzichtendsten]], [[verzichtendstem]], [[bestreben]], [[bedürfen]], [[benötigen]], [[dringen]], [[meiden]], [[Streben]], [[durchsetzen]], [[verlangen]], [[einfordern]]

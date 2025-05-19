@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 [[hübsch]]
 nicht [[unattraktiv]], nicht [[häßlich]]

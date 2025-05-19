@@ -1,4 +1,4 @@
---->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+-->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
 #### ⚡ Bedrohung / Risiko – Threats and Risks  
 ⚡ [[bergen]] *(to contain; harbor latent risk)*  
 🚨 [[drohen]] *(to threaten; imminent or looming)*  

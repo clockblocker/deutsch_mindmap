@@ -1,5 +1,5 @@
----> [[Ingredient-Zugang-Zugriff]] <---
----> 🧮 [[Grad-Quantität]] <---
+--> [[Ingredient-Zugang-Zugriff]] <--
+--> 🧮 [[Grad-Quantität]] <--
 
 🚪 🔵 der [[Zugang]], [ˈt͡suːɡaŋ]
 die [[Zugänge]]

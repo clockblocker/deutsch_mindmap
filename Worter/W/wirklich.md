@@ -1,6 +1,6 @@
 [[wirken|Wirk]][[lich]]
 
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 
 ---

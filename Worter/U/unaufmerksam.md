@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 😵 [[unaufmerksam]], [ˈʊnʔaʊ̯fˌmɛʁkzaːm] ≠ [[aufmerksam]]
 
 ---

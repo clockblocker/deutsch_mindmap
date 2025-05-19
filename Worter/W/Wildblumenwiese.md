@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🌼 🔴 die [[Wildblumenwiese]], [ˈvɪltˌbluːmənˌviːzə]
 die [[Wildblumenwiesen]]

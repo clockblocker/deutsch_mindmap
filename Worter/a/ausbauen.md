@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 🏗️ [[ausbauen]], [ˈaʊ̯sˌbaʊ̯ən](https://youglish.com/pronounce/ausbauen/german) → [[baute aus]] → [[ausgebaut]]
 

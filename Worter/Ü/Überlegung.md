@@ -28,4 +28,4 @@ G: der [[Überlegung]], der [[Überlegungen]]
 D: der [[Überlegung]], den [[Überlegungen]]
 
 
-#Feminin ---> [[🗣️ Ingredient-Meinung]] <---
+#Feminin --> [[🗣️ Ingredient-Meinung]] <--

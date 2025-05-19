@@ -1,4 +1,4 @@
----> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 ---
 🏢 🔴 die [[Hierarchie]], [hi̯eʁarˈçiː](https://youglish.com/pronounce/Hierarchie/german)

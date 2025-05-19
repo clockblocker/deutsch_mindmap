@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 , [[ehemaligen]], [[letzen]], [[vorherigen]], [[folgend]], [[kürzlich]]

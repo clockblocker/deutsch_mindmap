@@ -12,11 +12,11 @@ Wir brauchen hur ein [[Funkten]]
 to spark, to send signals, to communicate
 
 ---
-[[funk]]|[[en]]
+[[Funk]]|[[en]]
 
 ---
 ich: [[funke]], [[funkte]], –, [[funke]], [[funkte]]
-du: [[funkst]], [[funktest]], [[funke]] | [[funk]], [[funkest]], [[funkteset]]
+du: [[funkst]], [[funktest]], [[funke]] | [[Funk]], [[funkest]], [[funkteset]]
 er/sie/es: [[funkt]], [[funkte]], –, [[funke]], [[funkte]]
 wir: [[funken]], [[funkten]], [[funken wir|funken]], [[funken]], [[funkten]]
 ihr: [[funkt]], [[funktet]], [[funkt]], [[funktet]], [[funktet]]

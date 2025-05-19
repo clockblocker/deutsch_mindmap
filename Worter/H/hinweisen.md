@@ -1,11 +1,11 @@
 🚩 [[hinweisen]], [ˈhɪnˌvaɪ̯zən] | [[wies hin]], haben [[hingewiesen]]
 
 ---
-*[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]. ^6
+*[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]
 
+1 Die [[Sendung]] [[hinweist|weist]] auf [[ideell]]e [[Wert]]e hin.  
 
-*[[07-C1-Schreiben-T2-M#^10|^]]* Trotzdem muss ich Sie darauf [[hinweisen]], dass wir jetzt bei jedem unserer [[Arbeitsschritte]] die Zeiten [[manuell]] [[erfassen]] müssen, was bis zu 1,5 Stunden Arbeitszeit fehlt. ^10
-
+*[[07-C1-Schreiben-T2-M#^10|^]]* Trotzdem muss ich Sie darauf [[hinweisen]], dass wir jetzt bei jedem unserer [[Arbeitsschritte]] die Zeiten [[manuell]] [[erfassen]] müssen, was bis zu 1,5 Stunden Arbeitszeit fehlt
 
 **“von etwas sprechen”** → wenn du etwas [[erwähnst]] oder auf etwas [[anspielst]]
 • bei diskussionen: **über etwas sprechen**

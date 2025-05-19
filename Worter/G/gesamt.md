@@ -1,14 +1,16 @@
----> 🧩 [[Grad-Ganzheit]] <---
+--> 🧩 [[Grad-Ganzheit]] <--
 gesamt, [gəˈzamt]
 nicht [[teilweise]]
 
 ---
 Aang, das hier ist unser [[gesamtes]] Dorf. Gesamtes Dorf, Aang.
 
+*[[C1-Hoehen-T1-202-Text#^12|^]]* Wir können nämlich leider nicht den [[gesamt]]en [[Herstellungsprozess]] eines Produktes [[verfolgen]] und kontrollieren
+
 178. Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke [[versorgt]]. Welcher [[Umstand]] war dafür verantwortlich? (81%)
 	- [x] Die Sowjetunion [[unterbrach]] den [[gesamten]] Verkehr auf dem Landwege.
 
-🔴 die [[Gesamtschule]], [gəˈzamtˌʃuːlə]
+[[Gesamtschule]]
 
 Leider hatte sie nicht mit der [[Finanzkrise]] [[gerechnet]]. [[Innerhalb]] von wenigen Wochen war ihr [[gesamtes]] [[Vermögen]] auf die Hälfte [[zusammengeschrumpft]]. Laura war [[verzweifelt]]. 
 

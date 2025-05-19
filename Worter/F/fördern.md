@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🆙 [[fördern]], [ˈfœʁdɐn] | [[förderte]], haben [[gefördert]]
 

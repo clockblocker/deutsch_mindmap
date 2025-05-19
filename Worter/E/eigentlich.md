@@ -1,9 +1,12 @@
+--> 🧩 [[Grad-Wahrheit]] <--
+
 🤔 eigentlich, [ˈaɪ̯kəntlɪç]
----> 🧩 [[Grad-Wahrheit]] <---
 
 
 ---
-[[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. [[14 perfekt#^14|^]]
+[[14 perfekt#^14|^]] [[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. 
+
+*[[C1-Hoehen-T1-202-Text#^7|^]]* Der Autor will uns also helfen, durch sorgsames Kaufen [[klarzumachen]], dass wir beim Einkaufen differenziert [[hinschauen]], was wir [[eigentlich]] [[unterstützen]]
 
 *[[C1-Hoehen-T1-201-Text#^4|^]]* Bereits in den ersten Szenen [[erfahren]] die [[Zuschauer]], dass das [[Urteil]] im [[bevorstehend]]en Prozess [[eigentlich]] bereits [[feststeht]]. ^4
 

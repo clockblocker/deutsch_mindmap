@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 ⛔ [[beschränken]] + Akk, [bəˈʃʁɛŋkn̩]
 [[beschränkte]]

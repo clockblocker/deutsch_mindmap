@@ -1,6 +1,6 @@
 🕰️ zuvor, [tsuˈfoːɐ̯]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

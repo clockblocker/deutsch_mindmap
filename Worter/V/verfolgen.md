@@ -3,6 +3,8 @@
 ---
 [[Lieferung]] [[verfolgen]]
 
+*[[C1-Hoehen-T1-202-Text#^12|^]]* Wir können nämlich leider nicht den [[gesamt]]en [[Herstellungsprozess]] eines Produktes [[verfolgen]] und kontrollieren
+
 8: Selig, die [[verfolgt]] werden um der [[Gerechtigkeit]] willen; denn ihnen gehört das Himmelreich.
 
 [[Verfolgung]] der Juden

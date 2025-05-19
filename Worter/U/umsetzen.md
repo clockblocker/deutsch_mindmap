@@ -1,5 +1,5 @@
- --> [[Ingredient-Add-Remove]] <--
----> [[Ingredient-Einhaltung]] <---
+--> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Einhaltung]] <--
 ⚙️ [[umsetzen]], [ˈʊmˌzɛt͡sn̩] | [[setzte um]], haben [[umgesetzt]]
 
 ---

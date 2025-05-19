@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Verben]] <---
+--> [[Ingredient-Risiko-Schutz-Verben]] <--
 🔒 [[sichern]], [ˈziːçɐn](https://youglish.com/pronounce/sichern/german) → [[sicherte]] → [[gesichert]]
 
 ---

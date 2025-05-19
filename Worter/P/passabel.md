@@ -1,5 +1,5 @@
----> 📊 [[Grad-Verteilung]] <---
----> 🧩 [[Grad-Wahrheit]] <---
+--> 📊 [[Grad-Verteilung]] <--
+--> 🧩 [[Grad-Wahrheit]] <--
 
 👍 [[passabel]], [paˈsaːbl̩](https://youglish.com/pronounce/passabel/german)
 

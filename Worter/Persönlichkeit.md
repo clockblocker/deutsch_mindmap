@@ -23,4 +23,4 @@ G: der [[Persönlichkeit]], der [[Persönlichkeiten]]
 D: der [[Persönlichkeit]], den [[Persönlichkeiten]]  
 
 ---
-[[persönlich]], [[personifizieren]], [[charakterstark]], [[individuell]], [[Persönlichkeitsentwicklung]]---> [[🗣️ Ingredient-Meinung]] <---
+[[persönlich]], [[personifizieren]], [[charakterstark]], [[individuell]], [[Persönlichkeitsentwicklung]]--> [[🗣️ Ingredient-Meinung]] <--

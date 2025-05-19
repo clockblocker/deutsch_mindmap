@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 📉 [[verbilligen]], [fɛɐ̯ˈbɪlɪɡn̩](https://youglish.com/pronounce/verbilligen/german) → [[verbilligte]] → haben [[verbilligt]]
 

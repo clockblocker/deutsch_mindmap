@@ -1,2 +1,2 @@
----> ⚠️ [[Grad-Risiko]] <---
+--> ⚠️ [[Grad-Risiko]] <--
 , [[Grenze]], [[Grenz]]

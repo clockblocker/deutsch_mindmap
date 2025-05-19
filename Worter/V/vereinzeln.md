@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 📍 [[vereinzeln]], [fɛɐ̯ˈʔaɪ̯nt͡sl̩tə](https://youglish.com/pronounce/vereinzeln/german), [[einzelne]]
 

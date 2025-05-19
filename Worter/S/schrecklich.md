@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 [[schrecklich]], [ˈʃʁɛklɪç]
 nicht [[gut]], [[angenehm 1]]

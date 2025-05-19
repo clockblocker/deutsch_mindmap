@@ -1,2 +1,2 @@
 , [[interessant]]
-, [[anziehen]], [[attraktiv]]
+, [[anziehen]], [[attraktiv]], [[charmant]]

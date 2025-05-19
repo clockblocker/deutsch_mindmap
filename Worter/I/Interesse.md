@@ -1,5 +1,5 @@
----> [[Ingredinet-Action-Nomen]] <---
----> 🤝 [[Ingredient-Interaktion]] <---
+--> [[Ingredinet-Action-Nomen]] <--
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 ---
 🤔 🟢 das [[Interesse]], [ɪntəˈʁɛsə](https://youglish.com/pronounce/Interesse/german)

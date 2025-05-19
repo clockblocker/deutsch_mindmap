@@ -1,4 +1,4 @@
----> [[Ingredient-Zugang-Zugriff]] <---
+--> [[Ingredient-Zugang-Zugriff]] <--
 
 💡 🔴 die [[Ressource]], [ʁeˈsʊʁsə](https://youglish.com/pronounce/Ressource/german)
 die [[Ressourcen]]
@@ -28,4 +28,4 @@ G: der [[Ressource]], der [[Ressourcen]]
 D: der [[Ressource]], den [[Ressourcen]]
 
 
-#Feminin 
+#Feminin , [[Ressourcenschonung]]

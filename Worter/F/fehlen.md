@@ -3,6 +3,8 @@
 ---
 Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind.
 
+*[[C1-Hoehen-T1-201-Text#^16|^]]* Doch weit [[gefehlt]]: Nachdem Max in Wien ankommt, [[schwenkt]] die [[Regisseurin]] ins [[Tragische]]
+
 ###### ###### 9. Welche Folgen kann [[fehlende]] [[Geborgenheit]] für einen [[Säugling]] haben?
 a) Er kann später [[Belastung]]en schwieriger [[handhaben]].  
 

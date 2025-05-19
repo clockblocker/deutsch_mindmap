@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 ⏰ [[früh]], [fʁyː](https://youglish.com/pronounce/früh/german)
 

@@ -3,6 +3,8 @@
 ---
 Ich [[schätze]] ich fliege erstmal nach Hause und suche die Luftbändiger. Ach du [[Heiliger]]... Ich hab mein Zimmer seit hundert Jahren nicht mehr [[aufgeräumt]]. Das wird [[garantiert]] kein [[vergnügen]]
 
+*[[C1-Hoehen-T1-202-Text#^8|^]]* Also, ich habe durch diese Sendung wieder gelernt, die Arbeit, die in Produkten [[steckt]], [[wert]] zu [[schätzen]]
+
 ---
 [[unterschätzen]] - [[unter]] = [[schätzen]] / to underestimate
 

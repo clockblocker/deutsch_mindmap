@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🌱 [[hervorbringen]], [hɛɐ̯ˈfɔɐ̯ˌbʁɪŋən](https://youglish.com/pronounce/hervorbringen/german) → [[brachte hervor]] → haben [[hervorgebracht]]
 

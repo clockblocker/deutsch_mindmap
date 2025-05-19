@@ -1,2 +1,2 @@
----> 💸 [[Grad-Preis]] <---
+--> 💸 [[Grad-Preis]] <--
 , [[einziger]], [[ausschließlich]], [[teuer]], [[anspruchsvoll]], [[prestigeträchtig]]

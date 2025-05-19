@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🟢 👏 das [[Lob]], [loːp]
 die [[Lobe]]
@@ -26,4 +26,4 @@ D: dem [[Lob]], den [[Loben]]
 
 ---
 [[loben]], [[loblich]], [[Lobeshymne]], [[Eigenlob]]
-, [[Beleidigung]], [[Nachrede]], [[Verleumdung]], [[Beschwerde]], [[Beschimpfung]]
+, [[Beleidigung]], [[Nachrede]], [[Verleumdung]], [[Beschwerde]], [[Beschimpfung]], [[Spot]]

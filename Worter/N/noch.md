@@ -1,5 +1,5 @@
 [[Grammatik-Konjunktoren-Coordinating-Kopulativ|Kopulativ]] | [[Grammatik-Konjunktoren-Coordinating-Alternativ|Alternativ]]
----> ⏱️ [[Temporal-Status]] <---
+--> ⏱️ [[Temporal-Status]] <--
 
 ---
 

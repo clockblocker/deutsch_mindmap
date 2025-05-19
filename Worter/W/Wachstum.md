@@ -1,4 +1,4 @@
----> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
 📈 🟢 das [[Wachstum]], [ˈvaksˌtuːm]
 die [[Wachstümer]]
 

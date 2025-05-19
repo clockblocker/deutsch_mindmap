@@ -1,5 +1,5 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
----> 🧱[[Grad-Gewicht]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
+--> 🧱[[Grad-Gewicht]] <--
 
 notwendig, [ˈnoːtvɛndɪç]
 nicht [[unnötig]]

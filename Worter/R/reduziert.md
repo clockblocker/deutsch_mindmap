@@ -1,2 +1,2 @@
----> 📈 [[Grad-Vergleich]] <---
----> 💸 [[Grad-Preis]] <---
+--> 📈 [[Grad-Vergleich]] <--
+--> 💸 [[Grad-Preis]] <--

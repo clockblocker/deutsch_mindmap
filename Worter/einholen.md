@@ -3,6 +3,8 @@
 ---
 Es ist unmöglich ein [[Kriegsschiff]] mit so einem Kanu [[einzuhohlen]]
 
+*[[C1-Hoehen-T1-201-Text#^14|^]]* Doch die Wirklichkeit [[einholen|holt]] ihn schnell ein
+
 *[[02-C1-Schreiben-T2-M#^9|^]]* Ich muss aber unbedingt bis [[Ende]] der Woche eine erste [[Version]] der Präsentation [[entwerfen]], da wir noch die Bildrechte für die Fotos [[einholen]] müssen. ^9
 
 

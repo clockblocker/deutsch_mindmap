@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 [[losschießen]] + Akk, [lɔsˈʃiːsən]
 [[schoss los|schoss los]]  
 haben [[losgeschossen]]

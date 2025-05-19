@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🧐 🔴 die [[Betrachtungsweise]], [bəˈtʁaxtʊŋsˌvaɪ̯zə](https://youglish.com/pronounce/Betrachtungsweise/german)
 die [[Betrachtungsweisen]]

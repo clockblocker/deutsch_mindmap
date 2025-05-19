@@ -1,3 +1,3 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 
 , [[aufhören]], [[klappen]], [[öffnen]], [[w-l]], [[sprießen]], [[schmelzen]]

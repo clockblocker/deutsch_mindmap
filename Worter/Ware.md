@@ -34,4 +34,4 @@ G: der [[Ware]], der [[Waren]]
 D: der [[Ware]], den [[Waren]]
 
 
-#Feminin 
+#Feminin , [[Billigprodukt]]

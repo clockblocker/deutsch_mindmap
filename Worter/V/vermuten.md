@@ -3,6 +3,8 @@
 ---
 „Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
 
+*[[C1-Hoehen-T1-201-Text#^15|^]]* Der Film beginnt im Dorf des jungen Mannes mit recht [[heiter]]en Szenen, die [[vermuten]] lassen, dass man ins [[Unterhaltungskino]] [[entführt]] wird
+
 *[[C1-Hoehen-T1-201-Text#^10|^]]* Beim zweiten Film, den ich euch vorstellen möchte, hatte ich bei dem Titel „Wien ruft“ zunächst [[vermutet]], dass es sich um eine österreichische Komödie handelt. ^10
 
 

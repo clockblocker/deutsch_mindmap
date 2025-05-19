@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 🏛️ 🟢 das [[Grundgesetz]], [ˈɡʁʊntˌɡeˌzɛts]
 die [[Grundgesetze]]
 

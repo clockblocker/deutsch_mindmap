@@ -55,4 +55,4 @@ sie, [[veranschaulichen]], [[veranschaulichten]], [[veranschaulichen]], [[verans
 Adjektive: [[veranschaulichend]], [[veranschaulichender]], [[veranschaulichendst]]
 
 ---
-[[veranschaulichender]], [[veranschaulichendes]], [[veranschaulichende]], [[veranschaulichenden]], [[veranschaulichendem]], [[veranschaulichenderer]], [[veranschaulichenderes]], [[veranschaulichendere]], [[veranschaulichenderen]], [[veranschaulichenderem]], [[veranschaulichendster]], [[veranschaulichendstes]], [[veranschaulichendste]], [[veranschaulichendsten]], [[veranschaulichendstem]]
+[[veranschaulichender]], [[veranschaulichendes]], [[veranschaulichende]], [[veranschaulichenden]], [[veranschaulichendem]], [[veranschaulichenderer]], [[veranschaulichenderes]], [[veranschaulichendere]], [[veranschaulichenderen]], [[veranschaulichenderem]], [[veranschaulichendster]], [[veranschaulichendstes]], [[veranschaulichendste]], [[veranschaulichendsten]], [[veranschaulichendstem]], [[verkörpern]]

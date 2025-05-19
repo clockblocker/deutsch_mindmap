@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 👍 [[passend]], [ˈpasn̩t] ≠ [[unpassend]]
 

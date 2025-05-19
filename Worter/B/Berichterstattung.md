@@ -31,4 +31,4 @@ D: der [[Berichterstattung]], den [[Berichterstattungen]]
 #Feminin 
 
 , [[berichten]]
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--

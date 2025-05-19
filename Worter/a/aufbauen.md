@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 
 ⚒️ [[aufbauen]] + Akk, [ˈaʊ̯fbauən] 
 [[baute auf|baute auf]]

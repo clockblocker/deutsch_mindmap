@@ -1,1 +1,1 @@
-, [[herstellen]], [[Konsum]], [[Güterproduktion]]
+, [[herstellen]], [[Konsum]], [[Güterproduktion]], [[Herstellungsprozess]]

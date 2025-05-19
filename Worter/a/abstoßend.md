@@ -1,2 +1,2 @@
 , [[eklig]], [[abstoßen]], [[garstig]], [[hässlich]]
-, [[geschmacklos]], [[attraktiv]], [[fies]]
+, [[geschmacklos]], [[attraktiv]], [[fies]], [[charmant]]

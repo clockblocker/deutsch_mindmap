@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 🟢 📋 die [[Untersuchung]], [ˈʊntɐˌzuːxʊŋ]
 die [[Untersuchungen]]
 

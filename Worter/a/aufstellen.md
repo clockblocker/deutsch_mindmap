@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 📋 [[aufstellen]] + Akk, [ˈaʊ̯fˌʃtɛlən]
 [[stellte auf|stellte auf]]  

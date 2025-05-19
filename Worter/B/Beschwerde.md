@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 😠 🔴 die [[Beschwerde]], [bəˈʃveːɐ̯də](https://youglish.com/pronounce/Beschwerde/german)
 die [[Beschwerden]]

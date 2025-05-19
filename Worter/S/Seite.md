@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🔴 die [[Seite]], [ˈzaɪ̯tə]
 die [[Seiten]]

@@ -1,2 +1,2 @@
---->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+-->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
 , [[abkühlen]]

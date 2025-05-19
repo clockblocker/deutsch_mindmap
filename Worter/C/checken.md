@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 📱 [[checken]] + Akk, [ˈtʃɛkən]
 [[checkte]]
 haben [[gecheckt]]

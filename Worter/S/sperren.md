@@ -1,4 +1,4 @@
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredient-erlauben-verbieten]] <--
 
 🔒 [[sperren]], [ˈʃpɛʁən](https://youglish.com/pronounce/sperren/german) → [[sperrte]] → [[gesperrt]]
 

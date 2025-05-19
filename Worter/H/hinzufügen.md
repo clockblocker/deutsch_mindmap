@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 ➕ [[hinzufügen]], [hɪnˈtsuːˌfʏːɡən] | [[hinzugefügt]], haben [[hinzugefügt]]
 

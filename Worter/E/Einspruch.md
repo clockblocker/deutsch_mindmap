@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🏛️ der [[Einspruch]], [ˈaɪ̯nʃpʁʊx]
 die [[Einsprüche]]

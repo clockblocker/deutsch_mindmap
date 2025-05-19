@@ -1,1 +1,1 @@
-, [[erklären]], [[klären]], [[deutlich]], [[nämlich]], [[veranschaulichen]], [[erläutern]], [[herausstellen]]
+, [[erklären]], [[klären]], [[deutlich]], [[nämlich]], [[veranschaulichen]], [[erläutern]], [[herausstellen]], [[klarmachen]]

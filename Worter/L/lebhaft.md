@@ -1,4 +1,4 @@
----> 💥 [[Grad-Intensität]] <---
+--> 💥 [[Grad-Intensität]] <--
 
 lebhaft, [ˈleːpˌhaft]
 nicht [[träge]]

@@ -1,4 +1,4 @@
----> [[Ingredient-Einhaltung]] <---
+--> [[Ingredient-Einhaltung]] <--
 🩹 [[verletzen]], [fɛɐ̯ˈlɛtsn̩] | [[verletzte]], haben [[verletzt]]
 
 ---

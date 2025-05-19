@@ -1,1 +1,1 @@
-, [[Umweltprojekt]], [[Umwelt]], [[nachhaltig]], [[erneuerbar]], [[recycelbar]], [[klimafreundlich]]
+, [[Umweltprojekt]], [[Umwelt]], [[nachhaltig]], [[erneuerbar]], [[recycelbar]], [[klimafreundlich]], [[plastikintensiv]]

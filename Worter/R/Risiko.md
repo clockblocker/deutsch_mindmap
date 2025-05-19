@@ -1,5 +1,5 @@
----> [[Ingredinet-Action-Nomen]] <---
----> [[Ingredient-Risiko-Schutz-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
 ---
 

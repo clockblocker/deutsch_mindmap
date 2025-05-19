@@ -1,6 +1,6 @@
 🤏 [[beschränkt]], [bəˈʃʁɛŋkt](https://youglish.com/pronounce/beschränkt/german)
 
-----> [[viel-wenig]] <----
+---> [[viel-wenig]] <---
 
 
 ---

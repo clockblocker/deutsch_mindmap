@@ -1,6 +1,6 @@
----> [[Ingredinet-Action-Nomen]] <---
----> [[Ingredient-Zugang-Zugriff]] <---
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredinet-Action-Nomen]] <--
+--> [[Ingredient-Zugang-Zugriff]] <--
+--> [[Ingredient-erlauben-verbieten]] <--
 
 ---
 die [[Nutzung]], [ˈnʊtsʊŋ], [[nutzen]]

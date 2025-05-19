@@ -1,6 +1,6 @@
 🔮 [[künftig]], [ˈkʏnftɪç](https://youglish.com/pronounce/künftig/german) ≠ [[vergangen]]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
 ---

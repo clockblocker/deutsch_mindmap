@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🤝 🔴 die [[Interaktion]], [ɪntɐʁakˈt͡si̯oːn](https://youglish.com/pronounce/Interaktion/german)
 die [[Interaktionen]]

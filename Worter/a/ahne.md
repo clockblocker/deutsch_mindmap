@@ -21,4 +21,4 @@ G: des [[ahnen]], der [[ahnen]]
 D: dem [[ahnen]], den [[ahnen]]  
 
 ---
-[[ahnen]], [[ahnenvoll]], [[ahnungslos]], [[Ahnengalerie]], [[Ahnenforschung]], [[Ahne]]
+[[ahnen]], [[ahnenvoll]], [[ahnungslos]], [[Ahnengalerie]], [[Ahnenforschung]], [[Ahne]], [[Nachfahre]]

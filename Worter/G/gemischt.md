@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🔀 [[gemischt]], [ɡəˈmɪʃt] | [[mischen]]
  

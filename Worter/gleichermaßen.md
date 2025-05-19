@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 ⚖️ [[gleichermaßen]], [ˈɡlaɪ̯çɐˌmaːsn̩]
 

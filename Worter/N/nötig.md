@@ -1,4 +1,4 @@
----> [[Ingredient-Verben-Bedürfnis]] <---
+--> [[Ingredient-Verben-Bedürfnis]] <--
 
  [[nötig]], [ˈnøːtɪç]
 nicht [[unnötig]]

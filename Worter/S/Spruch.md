@@ -27,4 +27,4 @@ N: der [[Spruch]], die [[Sprüche]]
 A: den [[Spruch]], die [[Sprüche]]
 G: des [[Spruches]], der [[Sprüche]]
 D: dem [[Spruch]], den [[Sprüchen]]
-, [[anspruchsvoll]], [[beanspruchen]]---> [[🗣️ Ingredient-Meinung]] <---
+, [[anspruchsvoll]], [[beanspruchen]]--> [[🗣️ Ingredient-Meinung]] <--

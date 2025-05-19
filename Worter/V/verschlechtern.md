@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 📉 [[verschlechtern]], [fɛɐ̯ˈʃlɛçtɐn](https://youglish.com/pronounce/verschlechtern/german) → [[verschlechterte]] → haben [[verschlechtert]]
 

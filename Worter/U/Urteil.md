@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 ⚖️ 🟢 das [[Urteil]], [ˈʊʁtaɪ̯l](https://youglish.com/pronounce/Urteil/german)
 die [[Urteile]]

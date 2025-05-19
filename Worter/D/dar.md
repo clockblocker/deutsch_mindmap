@@ -1,1 +1,1 @@
-, [[stellen]], [[darstellen]], [[Darstellung]], [[Selbstdarstellung]]
+, [[stellen]], [[darstellen]], [[Darstellung]], [[Selbstdarstellung]], [[Nebendarsteller]]

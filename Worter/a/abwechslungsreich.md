@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🤩 [[abwechslungsreich]], [ˈapˌvɛkslʊŋsʁaɪ̯ç](https://youglish.com/pronounce/abwechslungsreich/german)
 

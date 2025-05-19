@@ -1,4 +1,4 @@
----> 💥 [[Grad-Intensität]] <---
+--> 💥 [[Grad-Intensität]] <--
 💨 [[ungestüm]], [ˈʊnɡəˌʃtʏm] ≠ [[sanft]]
 
 ---

@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 🗣️ die [[Aussage]], [ˈaʊ̯sˌzaːɡə]
 die [[aussagen]]
 

@@ -1,6 +1,6 @@
----> [[🗣️ Ingredient-Meinung]] <---
----> 📈 [[Grad-Vergleich]] <---
----> [[Ingredinet-Action-Nomen]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
+--> 📈 [[Grad-Vergleich]] <--
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 😒 🔴 die [[Gleichgültigkeit]], [ˈɡlaɪ̯çˌɡʏltɪçkaɪ̯t](https://youglish.com/pronounce/Gleichgültigkeit/german)

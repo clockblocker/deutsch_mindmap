@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Nomen]] <---
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
 🔴 die [[Sicherheit]], [ˈzɪçɐhaɪt]
 die [[Sicherheiten]]

@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 🟡 [[wahr]], [vaːɐ̯]
 nicht [[Falsch]]

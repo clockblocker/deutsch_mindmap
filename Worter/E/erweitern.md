@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 ➕ [[erweitern]], [ɛɐ̯ˈvaɪ̯tɐn](https://youglish.com/pronounce/erweitern/german) → [[erweiterte]] → [[erweitert]]
 

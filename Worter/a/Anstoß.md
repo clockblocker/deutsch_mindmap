@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 ⚽ 🔵 der [[Anstoß]], [ˈanʃtɔs](https://youglish.com/pronounce/Anstoß/german)
 

@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 die [[Regel]], [ˈʁeːɡl̩]
 die [[Regeln]]

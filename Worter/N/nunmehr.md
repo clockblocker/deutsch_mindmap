@@ -1,3 +1,3 @@
----> ⏱️ [[Temporal-Status]] <---
+--> ⏱️ [[Temporal-Status]] <--
 , [[mittlerweile]]
 , [[nun]]

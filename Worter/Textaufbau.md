@@ -1,4 +1,4 @@
----> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 ---
 📝 🔵 der [[Textaufbau]], [ˈtɛkstˌʔaʊ̯fbaʊ̯](https://youglish.com/pronounce/Textaufbau/german)

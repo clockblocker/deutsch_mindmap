@@ -1,4 +1,4 @@
 , [[neidisch]], [[jüdisch]], [[europäisch]], [[misstrauisch]], [[politisch]], [[preußisch]], [[einheimisch]], [[künstlerischer]]
 , [[rebellisch]]
 , [[launisch]]
-, [[motorische]], [[unternehmerisch]], [[heimisch]], [[akribisch]]
+, [[motorische]], [[unternehmerisch]], [[heimisch]], [[akribisch]], [[tragisch]]

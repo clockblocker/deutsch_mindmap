@@ -1,5 +1,5 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
----> [[Ingredient-Nomen-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
 [[Anzahl]] der Wörter immer weiter [[zunimmt]]
 
 #### 📊 Wachstum vs. Reduktion – Paired Verbs

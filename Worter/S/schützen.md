@@ -1,4 +1,4 @@
---->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <---
+-->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
 
 🛡️ [[schützen]] + Akk, [ˈʃʏtsən]
 [[schützte]]

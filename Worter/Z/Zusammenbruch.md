@@ -1,4 +1,4 @@
----> [[Ingredinet-Hindernis-Nomen]] <--
+--> [[Ingredinet-Hindernis-Nomen]] <--
 
 
 , [[zusammenbrechen]]

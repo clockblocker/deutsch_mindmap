@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 🧠 🔴 die [[Lernbereitschaft]], [ˈlɛʁnbəˌʁaɪ̯tʃaft]

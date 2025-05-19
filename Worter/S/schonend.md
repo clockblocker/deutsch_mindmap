@@ -1,1 +1,1 @@
-, [[sanft]], [[schonen]]
+, [[sanft]], [[schonen]], [[Schonung]]

@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 
 ✂️ [[ausschneiden]] + Akk, [ˈaʊ̯sˌʃnaɪ̯dn̩]
 [[schnitt aus|schnitt aus]]  

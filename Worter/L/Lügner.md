@@ -21,4 +21,4 @@ Morphems:
 [[Lügen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Lüge]]

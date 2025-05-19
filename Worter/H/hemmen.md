@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🛑 [[hemmen]], [ˈhɛmən](https://youglish.com/pronounce/hemmen/german) → [[hemmte]] → [[gehemmt]]
 

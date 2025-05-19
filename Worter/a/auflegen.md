@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 📞 [[auflegen]], [ˈaʊ̯fˌleːɡn̩] | [[legte auf]], haben [[aufgelegt]]
 
 ---

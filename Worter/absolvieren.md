@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 
 ✅ [[absolvieren]], [ˌapzoˈviːʁən](https://youglish.com/pronounce/absolvieren/german) → [[absolvierte]] → haben [[absolviert]]
 

@@ -1,4 +1,4 @@
----> ⚠️ [[Grad-Risiko]] <---
+--> ⚠️ [[Grad-Risiko]] <--
 mutig, [muːtɪç]
 nicht [[feige]]
 

@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🤔 [[veranlassen]], [fɛɐ̯ˈʔanlasn̩](https://youglish.com/pronounce/veranlassen/german) → [[veranlasste]] → [[veranlasst]]
 
 ---

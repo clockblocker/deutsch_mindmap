@@ -1,1 +1,1 @@
-, [[nachhaltig]], [[erneuerbar]]
+, [[nachhaltig]], [[erneuerbar]], [[Ressourcenschonung]]

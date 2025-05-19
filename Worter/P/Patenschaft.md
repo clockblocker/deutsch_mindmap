@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🤝 🔴 die [[Patenschaft]], [ˈpaːtn̩ʃaft]
 die [[Patenschaften]]

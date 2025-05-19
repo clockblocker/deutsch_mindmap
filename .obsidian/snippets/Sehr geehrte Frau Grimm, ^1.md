@@ -1,33 +1,57 @@
-[
-    {
-        text: `Sie und Ihr Teamleiter Herr Lehmann sollen in der nächsten Woche gemeinsam ein neues Produkt präsentieren. Ihr Teamleiter sollte Ihnen schon vor einer Woche eine Grobplanung für die Präsentation schicken, die Sie bisher - trotz wiederholter Nachfrage - noch nicht erhalten haben. Schreiben Sie eine E-Mail an Ihren Teamleiter.
-        * Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für die Verzögerung zeigen.
-        * Nennen Sie Probleme, die durch sein Verhalten entstehen können.
-        * Beschreiben Sie mögliche Konsequenzen, sollte die Präsentation nicht erfolgreich sein.
-        * Machen Sie einen Vorschlag für das weitere Vorgehen.
-        
-        Schreiben Sie circa 120 Wörter.`,
+[[0 Grad]]
+--> 🧱[[Grad-Gewicht]] <--
+#### 🧱 [[Essentiell]] – Indispensable / Foundational
+- [[unverzichtbar]] *(indispensable; cannot be omitted)*
+- [[unentbehrlich]] *(indispensable; formal)*
+- [[notwendig]] *(necessary; required)*
+- [[essenziell]] *(essential; especially academic/technical)*
+- [[entscheidend]] *(crucial; turning point / key factor)*
+- [[grundlegend]] *(foundational; forms the basis of something)*
+- [[zugrundeliegende]] *(underlying; structural)*
+- [[unschätzbar]] *(invaluable; immeasurable worth)*
+---
+#### 🟢 [[Wichtig]] – High Importance / Strong Value
+[[umfangreich]]
 
-        summary: `Kollege liefert wichtige Unterlagen nicht rechtzeitig`,
-        location: [`#Arbeit`],
-        thema: [`#Abläufe/Blocker`, `#Zeitdruck/Deadline`],
-    }, 
+- [[wesentlich]] *(essential; key component of a whole)*
+- [[bedeutend]] *(important; notable / large in scope)*
+- [[bedeutsam]] *(significant; emotionally or formally important)*
+- [[relevant]] *(relevant; applicable / important to context)*
+- [[zentral]] *(central; core idea or issue)*
+- [[vorrangig]] *(priority; should be addressed first)*
+- [[signifikant]] *(statistically / rhetorically notable)*
+- [[wertvoll]] *(valuable; emotionally / materially)*
+- [[angelegen]] *(„es ist mir ein Anliegen“ → personally important)*
+---
+#### 🟡 [[Maßgeblich]] – Determining / Influencing Importance
 
-        {
-        text: `Während Ihres Urlaubs ist Ihre Firma in ein anderes Gebäude umgezogen. Bei Ihrer Rückkehr stellen Sie überrascht fest, dass Sie nicht mehr allein, sondern zusammen mit sechs Kolleginnen und Kollegen in einem Raum sitzen.
-        Schreiben Sie eine Beschwerde an Ihre Vorgesetzte, Frau Grimm
-        - Eröffnen Sie Ihr Schreiben höflich, indem Sie Verständnis für Sachzwänge zeigen
-        - Nennen Sie Tätigkeiten, die durch den neuen Platz erschwert werden
-        - Beschreiben Sie Arbeitsbedingungen, die für Sie akzeptabel wären
-        - Machen Sie einen Kompromissvorschlag
+- [[maßgeblich]] *(decisive; sets the standard / leads others)*
+- [[ausschlaggebend]] *(deciding factor / tipping point)*
+- [[nicht unwesentlich]] *(not insignificant; soft intensifier)*
+---
+#### 🟠 [[Teilweise]] [[Relevant]] – Moderate / Conditional Value
 
-        Schreiben Sie circa 120 Wörter.`,
+- [[grundsätzlich]] *(generally)*
+- [[von Bedeutung]] *(of importance; context-dependent)*
+- [[bedeutsam]] *(contextually significant; softer than „bedeutend“)*
+---
+#### 🟣 [[Nachrangig]] – Secondary / Low Priority
 
-        summary: `Firma zieht um. Neuer Arbeitsplatz: kein Einzelbüro mehr, sondern Großraumbüro`,
-        location: [`#Arbeit`],
-        thema: [`#Umzug #Platzmangel/Großraumbüro `],
-    }, 
+- [[sekundär]] *(secondary; less immediate)*
+- [[nebensächlich]] *(incidental; not central)*
+- [[untergeordnet]] *(subordinate; of lesser weight)*
+---
+#### 🔴 [[Unwichtig]] – Irrelevant / Dismissible
 
+- [[unwichtig]] *(unimportant; common and blunt)*
+- [[unbedeutend]] *(insignificant; less personal tone)*
+- [[unwesentlich]] *(non-essential; polite de-emphasis)*
+- [[geringfügig]] *(minor; slight effect)*
+- [[unerheblich]] *(legally / technically irrelevant)*
+- [[überflüssig]] *(superfluous; more emotional or stylistic)*
+- [[entbehrlich]] *(dispensable; rarely used but elegant)*
+- [[wertlos]] / [[nutzlos]] *(worthless, valueless)*
+  - 
 
-]
-
+- [[unnötig]] *(not needed; common and direct)*
+- [[egal]] *(doesn’t matter; lowest rhetorical weight)

@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 🕰️ [[vorher]], [ˈfoːɐ̯heːɐ̯](https://youglish.com/pronounce/vorher/german)
 

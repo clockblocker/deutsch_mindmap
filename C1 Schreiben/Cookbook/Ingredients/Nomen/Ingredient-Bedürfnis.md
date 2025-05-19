@@ -1,4 +1,4 @@
----> [[Ingredient-Bedürfnis]] <---
+--> [[Ingredient-Bedürfnis]] <--
 #### 📚 Bedürfnisse – Human / Functional Needs
 
 📚 [[Bedürfnis]] *(need; general personal or collective requirement)*

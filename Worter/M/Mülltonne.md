@@ -23,4 +23,4 @@ Genitive: der [[Mülltonne]], der [[Mülltonnen]]
 Dative: der [[Mülltonne]], den [[Mülltonnen]]  
 
 ---
-[[entsorgen]], [[Mülltrennung]], [[Müllabfuhr]], [[Müllsack]], [[Müllsammel]], [[Müllspäher]]
+[[entsorgen]], [[Mülltrennung]], [[Müllabfuhr]], [[Müllsack]], [[Müllsammel]], [[Müllspäher]], [[Verpackungsmüll]]

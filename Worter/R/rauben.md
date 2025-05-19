@@ -32,4 +32,4 @@ Morpheme: [[raub]][[en]]
 | Sie       | [[rauben]]           | [[raubten]]           | [[rauben Sie]]    | [[rauben]]             | [[räubten]]             |
 
 Partizip I: [[raubend]], Partizip II: [[geraubt]]
-, [[Raub]]
+, [[Raub]], [[entführen]]

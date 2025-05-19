@@ -3,6 +3,11 @@
 ---
 Babys [[erkennen]] ihre Mütter [[an]] ihren Stimmen.
 
+*[[C1-Hoehen-T1-201-Text#^17|^]]* Dennoch bekommt auch Max seine Chance und [[erkennt]] am Ende, dass die ihm unbekannte Welt voller neuer Möglichkeiten [[steckt]]. ^17
+
+
+*[[C1-Hoehen-T1-201-Text#^17|^]]* Dennoch bekommt auch Max seine Chance und [[erkennt]] am Ende, dass die ihm unbekannte Welt voller neuer Möglichkeiten [[steckt]]
+
 *[[C1-Lesen-T1-001-Text#^1|^]]* Hunde haben sich beim [[Erkennen]] von Corona-[[Viren]] [[bewährt]]. Und sie [[taugen]] auch zum [[Erschnüffeln]] von anderen Krankheiten. ^1
 
 

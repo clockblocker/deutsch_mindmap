@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 ⚖️ [[relativierend]], [ʁelatiˈviːʁənt](https://youglish.com/pronounce/relativierend/german)
 

@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 ➕ [[vergrößern]], [fɛɐ̯ˈɡʁøːsɐn](https://youglish.com/pronounce/vergrößern/german) → [[vergrößerte]] → [[vergrößert]]
 
@@ -49,4 +49,4 @@ sie, [[vergrößern]], [[vergrößerten]], [[vergrößern]], [[vergrößerten]],
 Adjektive: [[vergrößernd]], [[vergrößernder]], [[vergrößerndst]]
 
 ---
-[[vergrößernder]], [[vergrößerndes]], [[vergrößernde]], [[vergrößernden]], [[vergrößerndem]], [[vergrößernderer]], [[vergrößernderes]], [[vergrößerndere]], [[vergrößernderen]], [[vergrößernderem]], [[vergrößerndster]], [[vergrößerndstes]], [[vergrößerndste]], [[vergrößerndsten]], [[vergrößerndstem]], [[verlängern]], [[eindämmen]], [[zulegen]]
+[[vergrößernder]], [[vergrößerndes]], [[vergrößernde]], [[vergrößernden]], [[vergrößerndem]], [[vergrößernderer]], [[vergrößernderes]], [[vergrößerndere]], [[vergrößernderen]], [[vergrößernderem]], [[vergrößerndster]], [[vergrößerndstes]], [[vergrößerndste]], [[vergrößerndsten]], [[vergrößerndstem]], [[verlängern]], [[eindämmen]], [[zulegen]], [[überziehen]]

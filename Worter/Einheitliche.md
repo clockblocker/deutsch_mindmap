@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 🤝 [[einheitlich]], [ˈaɪ̯nhаɪ̯tlɪç] ≠ [[unterschiedlich]]
 

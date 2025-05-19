@@ -1,4 +1,4 @@
----> ⏱️ [[Temporal-Perspektive]] <---
+--> ⏱️ [[Temporal-Perspektive]] <--
 
 ♻️ [[nachhaltig]], [ˈnaːxˌhaltɪç](https://youglish.com/pronounce/nachhaltig/german) ≠ [[unhaltbar]]
 

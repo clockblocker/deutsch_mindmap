@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
 🔵 📝 das [[Produktrezension]], [\u202Fprɔˌdʊktʁeˈt͡sɛnzi̯oːn]
 die [[Produktrezensionen]]

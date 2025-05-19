@@ -1,4 +1,4 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🔄 [[umkehren]], [ˈʊmˌkeːʁən](https://youglish.com/pronounce/umkehren/german) | [[kehrte um]], sind/haben [[umgekehrt]]
 
 ---

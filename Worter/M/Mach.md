@@ -1,3 +1,3 @@
 [[machen]], [[durchmachen]]
 , [[zumachen]]
-, [[aufmachen]], [[Wiedergutmachung]]
+, [[aufmachen]], [[Wiedergutmachung]], [[klarmachen]]

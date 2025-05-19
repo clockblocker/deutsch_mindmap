@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 👍 [[ausreichend]], [ˈaʊ̯sˌʁaɪ̯çənt](https://youglish.com/pronounce/ausreichend/german)
 
 ---

@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 🔴 🌈 die [[Laune]], [ˈlaʊ̯nə]
 die [[launen]]
 

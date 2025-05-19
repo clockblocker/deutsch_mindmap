@@ -1,4 +1,4 @@
----> 📈 [[Grad-Vergleich]] <---
+--> 📈 [[Grad-Vergleich]] <--
 
 [[anders]], [ˈandɐs]
 nicht [[gleich]], nicht [[identisch]]

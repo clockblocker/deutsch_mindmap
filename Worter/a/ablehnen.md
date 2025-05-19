@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 🚫 [[ablehnen]] | [[lehnte ab|lehnte ab]], haben [[abgelehnt]]
 

@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 🔴 die [[Wahrheit]], [ˈvaːrhaɪ̯t]
 die [[Wahrheiten]]
 
@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Wahrheit]], [[Wahrheiten]]
 
 ---
-#Substantiv #Feminin, [[Betrugsmanöver]], [[wahrnehmen]], [[Gültigkeit]], [[Irrtum]]
+#Substantiv #Feminin, [[Betrugsmanöver]], [[wahrnehmen]], [[Gültigkeit]], [[Irrtum]], [[Irrung]], [[Lüge]]

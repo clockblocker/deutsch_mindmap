@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 💪 🔵 der [[Aufwand]], [ˈaʊ̯fvant](https://youglish.com/pronounce/Aufwand/german)

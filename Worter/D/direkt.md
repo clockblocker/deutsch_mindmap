@@ -1,5 +1,5 @@
----> 🧩 [[Grad-Wahrheit]] <---
----> ⏱️ [[Temporal-Perspektive]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
+--> ⏱️ [[Temporal-Perspektive]] <--
 
 , [[eben]], [[gerade]], [[fern]], [[Direktkandidat]], [[ausweichend]]
 ➡️ [[direkt]], [diˈʁɛkt](https://youglish.com/pronounce/direkt/german)

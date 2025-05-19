@@ -18,4 +18,4 @@ Morphems:
 [[durch]][[ein]][[ander]] [[einander]]
 
 ---
-#Substantiv #Neuter, [[11 08]], [[Reihe]], [[Auflistung]], [[gemischt]]
+#Substantiv #Neuter, [[11 08]], [[Reihe]], [[Auflistung]], [[gemischt]], [[Wirrung]]

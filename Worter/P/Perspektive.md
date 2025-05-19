@@ -1,4 +1,4 @@
----> [[🗣️ Ingredient-Meinung]] <---
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🔭 🔴 die [[Perspektive]], [pɛʁspɛkˈtiːvə](https://youglish.com/pronounce/Perspektive/german)
 

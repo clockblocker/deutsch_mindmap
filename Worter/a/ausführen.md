@@ -1,4 +1,4 @@
----> [[Ingredient-Einhaltung]] <---
+--> [[Ingredient-Einhaltung]] <--
 🚀 [[ausführen]] | [[führte aus|führte aus]], haben [[ausgeführt]]
 
 ---

@@ -1,2 +1,2 @@
 [[glücklich]], [[fröhlich]], [[erfreut]], [[entmutigt]]
-, [[bedrückt]], [[froh]], [[Betroffen]]
+, [[bedrückt]], [[froh]], [[Betroffen]], [[heiter]]

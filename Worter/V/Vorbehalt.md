@@ -1,5 +1,5 @@
----> 🤝 [[Ingredient-Interaktion]] <---
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 🔵 der [[Vorbehalt]], [ˈfoɐ̯bəhalt]
 die [[Vorbehalte]]

@@ -1,1 +1,1 @@
-, [[Einwohner]]
+, [[Einwohner]], [[Bauer]]

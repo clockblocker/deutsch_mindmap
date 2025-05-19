@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 🟠 [[jämmerlich]], [ˈjæmɐlɪç]
 nicht [[glücklich]]

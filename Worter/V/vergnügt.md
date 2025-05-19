@@ -1,2 +1,2 @@
 [[glücklich]], [[fröhlich]], [[vergnügen]]
-, [[raustogig]], [[froh]]
+, [[raustogig]], [[froh]], [[heiter]]

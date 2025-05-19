@@ -24,4 +24,4 @@ D: dem [[Bewusstsein]]
 
 ---
 [[bewusst]], [[bewusstlos]], [[Bewusstlosigkeit]], [[Bewusstwerdung]], [[Selbstbewusstsein]]
-, [[Karrierebewusstsein]], [[verantwortungsbewusst]]---> [[🗣️ Ingredient-Meinung]] <---
+, [[Karrierebewusstsein]], [[verantwortungsbewusst]]--> [[🗣️ Ingredient-Meinung]] <--

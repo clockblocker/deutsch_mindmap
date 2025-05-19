@@ -1,4 +1,4 @@
----> [[Ingredient-Pflege]] <---
+--> [[Ingredient-Pflege]] <--
 
 👁️ [[beobachten]], [bəˈʔɔpˌʔaxtn̩](https://youglish.com/pronounce/beobachten/german) → [[beobachtete]] → [[beobachtet]]
 
@@ -49,4 +49,4 @@ sie, [[beobachten]], [[beobachteten]], [[beobachten]], [[beobachteten]], [[beoba
 Adjektive: [[beobachtend]], [[beobachtender]], [[beobachtendst]]
 
 ---
-[[beobachtender]], [[beobachtendes]], [[beobachtende]], [[beobachtenden]], [[beobachtendem]], [[beobachtenderer]], [[beobachtenderes]], [[beobachtendere]], [[beobachtenderen]], [[beobachtenderem]], [[beobachtendster]], [[beobachtendstes]], [[beobachtendste]], [[beobachtendsten]], [[beobachtendstem]]
+[[beobachtender]], [[beobachtendes]], [[beobachtende]], [[beobachtenden]], [[beobachtendem]], [[beobachtenderer]], [[beobachtenderes]], [[beobachtendere]], [[beobachtenderen]], [[beobachtenderem]], [[beobachtendster]], [[beobachtendstes]], [[beobachtendste]], [[beobachtendsten]], [[beobachtendstem]], [[hinschauen]]

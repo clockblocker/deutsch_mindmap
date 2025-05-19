@@ -1,5 +1,5 @@
----> [[Ingredinet-Action-Nomen]] <---
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
+--> [[Ingredinet-Action-Nomen]] <--
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 
 ---
 

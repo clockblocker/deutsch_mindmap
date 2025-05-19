@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 ✍️ [[verfassen]], [fɛɐ̯ˈfasn̩](https://youglish.com/pronounce/verfassen/german) → [[verfasste]] → haben [[verfasst]]
 
 ---

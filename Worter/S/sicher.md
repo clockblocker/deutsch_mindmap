@@ -1,4 +1,4 @@
----> ⚠️ [[Grad-Risiko]] <---
+--> ⚠️ [[Grad-Risiko]] <--
 🌟 [[sicher]], [ˈzɪçɐ]
 nicht [[unsicher]]
 

@@ -1,4 +1,4 @@
----> 📊 [[Grad-Verteilung]] <---
+--> 📊 [[Grad-Verteilung]] <--
 
 💯 [[ausnahmslos]], [ˈaʊ̯sˌnaːmzlɔs](https://youglish.com/pronounce/ausnahmslos/german)
 

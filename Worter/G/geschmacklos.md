@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 🤢 [[geschmacklos]], [ɡəˈʃmakloːs] ≠ [[geschmackvoll]]
 

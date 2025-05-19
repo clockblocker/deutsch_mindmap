@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 💰 🔵 der [[Wetteinsatz]], [ˈvɛtˌʔaɪ̯nzats](https://youglish.com/pronounce/Wetteinsatz/german)

@@ -1,5 +1,5 @@
----> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <---
----> [[🎯 Ingredient-Result-Verb]] <---
+--> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🏗️ [[schaffen]], [ˈʃafən] | [[schuf]], haben [[geschaffen]]
 

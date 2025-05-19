@@ -1,5 +1,5 @@
 [[0 Temporal-Freunde]]
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
  [[vorübergehend]] von zu Hause aus zu arbeiten
 #### 🟢 [[dauerhaft]] 

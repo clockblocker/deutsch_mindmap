@@ -1,4 +1,4 @@
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredient-erlauben-verbieten]] <--
 
 🤝 [[erlauben]], [ɛɐ̯ˈlaʊ̯bən] | [[erlaubte]], haben [[erlaubt]]
 

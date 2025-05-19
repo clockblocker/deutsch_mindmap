@@ -1,4 +1,4 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 #### 🟢 Aktive Erlaubnis / Freigabe  
 *(explicit approval or granting of permission; speaker authorizes directly)*  

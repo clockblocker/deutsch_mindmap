@@ -1,4 +1,4 @@
----> [[Ingredinet-Hindernis-Nomen]] <--
+--> [[Ingredinet-Hindernis-Nomen]] <--
 
 ⏳ 🔴 die [[Verzögerung]], [fɛɐ̯ˈtsøːɡɐʁʊŋ](https://youglish.com/pronounce/Verzögerung/german)
 die [[Verzögerungen]]

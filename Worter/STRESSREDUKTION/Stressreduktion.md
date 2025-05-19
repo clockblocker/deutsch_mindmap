@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 🧘 🔴 die [[Stressreduktion]], [ˈʃtʁɛsʁeˌdʊkt͡si̯oːn](https://youglish.com/pronounce/Stressreduktion/german)
 die [[Stressreduktionen]]

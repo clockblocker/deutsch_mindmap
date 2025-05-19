@@ -1,4 +1,4 @@
----> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <---
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
 ➕ [[vermehren]], [fɛɐ̯ˈmeːɐ̯ən](https://youglish.com/pronounce/vermehren/german) → [[vermehrte]] → [[vermehrt]]
 

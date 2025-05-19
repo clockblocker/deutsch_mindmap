@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 💡 [[klar]], [klaːɐ̯](https://youglish.com/pronounce/klar/german)
 
@@ -33,4 +33,4 @@ Adjektive: [[klar]], [[klarer]], [[klarst]]
 
 = [[deutlich]], [[offensichtlich]], [[eindeutig]]
 ≈ [[verständlich]], [[präzise]], [[rein]]
-≠ [[unklar]], [[undeutlich]], [[zweideutig]],
+≠ [[unklar]], [[undeutlich]], [[zweideutig]],, [[klarmachen]]

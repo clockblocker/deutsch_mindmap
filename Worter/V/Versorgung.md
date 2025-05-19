@@ -1,4 +1,4 @@
----> [[Ingredient-Zugang-Zugriff]] <---
+--> [[Ingredient-Zugang-Zugriff]] <--
 
 🔴 die [[Versorgung]], [fɛɐ̯ˈzɔʁgʊŋ] |  [[versorgen]]
 die [[Versorgungen]]

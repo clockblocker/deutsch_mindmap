@@ -1,4 +1,4 @@
----> [[Management-Coordination-Allocation]] <---
+--> [[Management-Coordination-Allocation]] <--
 #### 🔧 Setup / Providing
 🛠️ [[organisieren]] *(to organize; set up logistics)*
 🛠️ [[arrangieren]] *(to arrange; coordinate services/events)*

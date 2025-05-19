@@ -1,6 +1,6 @@
 🌐 🔴 die [[Internetversorgung]], [ˈɪntɐnɛt fɛɐ̯ˈzɔʁɡʊŋ](https://youglish.com/pronounce/Internetversorgung/german)
 
----> [[Ingredient-Zugang-Zugriff]] <---
+--> [[Ingredient-Zugang-Zugriff]] <--
 
 
 ---

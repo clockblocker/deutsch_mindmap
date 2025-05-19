@@ -1,9 +1,11 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 
 🚦 [[angehen]] | [[ging an|ging an]], haben [[angegangen]]
 
 ---
  Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[angehen|geht]] [[dich]] nun wirklich [[nichts]] [[an]]!“
+
+*[[C1-Hoehen-T1-202-Text#^13|^]]* Aber wir können die Nachfrage nach beispielsweise [[plastikintensiv]]en Produkten senken, indem wir diese nicht kaufen und somit helfen, das Plastikproblem unseres Planeten [[anzugehen]]
 
 *[[C1-Lesen-T1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] [[anzugehen]], entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das [[Kunststoffabfälle]] unter Wasser [[orten]] und [[einsammeln]] kann. ^1
 

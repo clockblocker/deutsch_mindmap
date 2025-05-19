@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 🔧 [[verbessern]], [fɛɐ̯ˈbɛsɐn] | [[verbesserte]], haben [[verbessert]]
 

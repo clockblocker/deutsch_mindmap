@@ -1,2 +1,2 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 , [[wahr]], [[richtig]], [[unrecht]], [[irrtümlich]]

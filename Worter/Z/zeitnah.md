@@ -1,3 +1,3 @@
----> ⏱️ [[Temporal-Status]] <---
----> ⏱️ [[Temporal-Perspektive]] <---
+--> ⏱️ [[Temporal-Status]] <--
+--> ⏱️ [[Temporal-Perspektive]] <--
 , [[zeitgemäß]], [[kurzfristig]], [[akut]]

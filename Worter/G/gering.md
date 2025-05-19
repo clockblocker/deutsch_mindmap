@@ -1,5 +1,5 @@
----> 💥 [[Grad-Intensität]] <---
----> 🧮 [[Grad-Quantität]] <---
+--> 💥 [[Grad-Intensität]] <--
+--> 🧮 [[Grad-Quantität]] <--
 
 🐭 [[gering]], [ɡəˈʁɪŋə] ≠ [[groß]]
 

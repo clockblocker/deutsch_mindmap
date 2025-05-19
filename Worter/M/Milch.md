@@ -1,2 +1,2 @@
 die [[Milch]] | #Substantiv #Feminin | milk
-, [[Sherry]]
+, [[Sherry]], [[Milchhof]]

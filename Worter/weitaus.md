@@ -1,4 +1,4 @@
----> 🧮 [[Grad-Quantität]] <---
+--> 🧮 [[Grad-Quantität]] <--
 
 ⬆️ [[weitaus]], [ˈvaɪ̯taʊ̯s](https://youglish.com/pronounce/weitaus/german)
 

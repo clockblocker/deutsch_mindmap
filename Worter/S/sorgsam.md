@@ -1,5 +1,5 @@
----> 🧩 [[Grad-Wahrheit]] <---
----> 🧱[[Grad-Gewicht]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
+--> 🧱[[Grad-Gewicht]] <--
 
 😌 [[sorgsam]], [ˈzɔʁkzɐm] ≠ [[nachlässig]]
 

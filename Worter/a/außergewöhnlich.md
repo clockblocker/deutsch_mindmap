@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 ✨ [[außergewöhnlich]], [ˈaʊ̯sɐɡəˌvœːnlɪç] ≠ [[gewöhnlich]]
 

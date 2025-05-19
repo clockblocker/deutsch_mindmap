@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🏢 🔵 der [[Bedarfsraum]], [bəˈdaʁfsˌʁaʊ̯m](https://youglish.com/pronounce/Bedarfsraum/german)
 die [[Bedarfsräume]]

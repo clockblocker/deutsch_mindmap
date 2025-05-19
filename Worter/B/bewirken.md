@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 ✨ [[bewirken]], [bəˈvɪʁkn̩](https://youglish.com/pronounce/bewirken/german) → [[bewirkte]] → [[bewirkt]]
 

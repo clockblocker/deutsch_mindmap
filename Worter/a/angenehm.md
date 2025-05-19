@@ -1,4 +1,4 @@
----> [[Grad-gut]] <--
+--> [[Grad-gut]] <--
 
 😊 [[angenehm]], [ˈaŋɡəˌneːm](https://youglish.com/pronounce/angenehm/german)
 

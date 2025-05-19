@@ -1,6 +1,6 @@
----> ⏱️ [[Temporal-Status]] <---
----> ⏱️ [[Temporal-Perspektive]] <---
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Status]] <--
+--> ⏱️ [[Temporal-Perspektive]] <--
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 🟢 [[bald]], [balt]
 nicht [[langsam]]

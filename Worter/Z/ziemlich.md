@@ -1,5 +1,5 @@
----> 📊 [[Grad-Verteilung]] <---
----> 🧩 [[Grad-Wahrheit]] <---
+--> 📊 [[Grad-Verteilung]] <--
+--> 🧩 [[Grad-Wahrheit]] <--
 
 ziemlich, [ˈtsiːmlɪç]
 nicht [[völlig]], nicht [[ganz]]

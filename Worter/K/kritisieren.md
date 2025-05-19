@@ -1,4 +1,4 @@
----> 🤝 [[Ingredient-Interaktion]] <---
+--> 🤝 [[Ingredient-Interaktion]] <--
 
  🗣️ [[kritisieren]], [kʁiˈtiːziːʁən] | [[kritisierte]], haben [[kritisiert]]
 

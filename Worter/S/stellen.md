@@ -1,4 +1,4 @@
----> [[Ingredient-erlauben-verbieten]] <---
+--> [[Ingredient-erlauben-verbieten]] <--
 
 \🛠️ [[stellen]], [[stellte]], haben [[gestellt]]
 

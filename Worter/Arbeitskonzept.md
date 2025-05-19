@@ -1,4 +1,4 @@
----> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 ---
 📝 🟢 das [[Arbeitskonzept]], [ˈaʁbaɪ̯t͡skɔnˌt͡sɛpt](https://youglish.com/pronounce/Arbeitskonzept/german)

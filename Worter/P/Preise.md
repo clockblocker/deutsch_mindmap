@@ -1,1 +1,1 @@
-, [[Preis]], [[Energiepreis]]
+, [[Preis]], [[Energiepreis]], [[Spotpreis]]

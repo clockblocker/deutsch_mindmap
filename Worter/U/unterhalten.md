@@ -1,5 +1,5 @@
----> [[🎯 Ingredient-Result-Verb]] <---
----> [[Management-Coordination-Allocation]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
+--> [[Management-Coordination-Allocation]] <--
 
 🗣️ [[unterhalten]], [ˌʊntɐˈhaltn̩](https://youglish.com/pronounce/unterhalten/german) | [[unterhielt]], haben [[unterhalten]]
 
@@ -73,4 +73,4 @@ Adjektive: [[unterhaltend]], [[unterhaltender]], [[unterhaltendst]]
 
 [[geselschaft]]
 
-[[buroangestelle]]
+[[buroangestelle]], [[Unterhaltungskino]]

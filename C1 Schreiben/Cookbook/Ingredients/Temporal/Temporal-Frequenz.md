@@ -1,5 +1,5 @@
 [[0 Temporal-Freunde]]
----> ⏱️ [[Temporal-Frequenz]] <---
+--> ⏱️ [[Temporal-Frequenz]] <--
 #### 🟢 [[immer]] 
 1) [[stets]] *(formal immer)*
 2) [[dauerhaft]] *(permanent, enduring)*

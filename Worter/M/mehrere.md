@@ -1,5 +1,5 @@
----> 📈 [[Grad-Vergleich]] <---
----> 🧮 [[Grad-Quantität]] <---
+--> 📈 [[Grad-Vergleich]] <--
+--> 🧮 [[Grad-Quantität]] <--
 
 🔵 [[mehrere]], [ˈmeːʁəʁə]
 

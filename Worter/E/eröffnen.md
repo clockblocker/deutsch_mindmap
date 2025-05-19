@@ -1,5 +1,5 @@
----> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <---
----> [[Management-Coordination-Allocation]] <---
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
+--> [[Management-Coordination-Allocation]] <--
 🚪 [[eröffnen]], [ˈʔɛʁˌʔœfnən] | [[eröffnete]], haben [[eröffnet]]
 
 ---

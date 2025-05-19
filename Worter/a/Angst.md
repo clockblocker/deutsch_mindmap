@@ -1,4 +1,4 @@
----> [[Ingredient-Risiko-Schutz-Nomen]] <---
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
 🔴 die [[Angst]], [ˈaŋkst], die [[Ängste]]
 [[vor]] dem ... haben Angst 

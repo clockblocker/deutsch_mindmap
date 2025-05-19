@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 
 📚 [[umfangreich]], [ˈʊmfaŋˌʁaɪ̯ç](https://youglish.com/pronounce/umfangreich/german) ≠ [[begrenzt]]

@@ -1,4 +1,4 @@
- --> [[Ingredient-Add-Remove]] <--
+--> [[Ingredient-Add-Remove]] <--
 🦠 [[einschleppen]], [ˈaɪ̯nˌʃlɛpn̩](https://youglish.com/pronounce/einschleppen/german) → [[schleppte ein]] → [[eingeschleppt]]
 
 ---

@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 😒 [[oberflächlich]], [ˈoːbɐˌflɛçlɪç](https://youglish.com/pronounce/oberflächlich/german)
 
 ---
@@ -30,4 +30,4 @@ superficial, shallow
 Adjektive: [[oberflächlich]], [[oberflächlicher]], [[oberflächlichst]]
 
 ---
-[[oberflächlicher]], [[oberflächliches]], [[oberflächliche]], [[oberflächlichen]], [[oberflächlichem]], [[oberflächlicherer]], [[oberflächlicheres]], [[oberflächlichere]], [[oberflächlicheren]], [[oberflächlicherem]], [[oberflächlichster]], [[oberflächlichstes]], [[oberflächlichste]], [[oberflächlichsten]], [[oberflächlichstem]], [[übergehen]], [[ernsthaft]]
+[[oberflächlicher]], [[oberflächliches]], [[oberflächliche]], [[oberflächlichen]], [[oberflächlichem]], [[oberflächlicherer]], [[oberflächlicheres]], [[oberflächlichere]], [[oberflächlicheren]], [[oberflächlicherem]], [[oberflächlichster]], [[oberflächlichstes]], [[oberflächlichste]], [[oberflächlichsten]], [[oberflächlichstem]], [[übergehen]], [[ernsthaft]], [[hintergründig]]

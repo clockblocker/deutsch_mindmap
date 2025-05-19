@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 ⬇️ [[untergeordnet]], [ˈʊntɐɡəˌʔɔʁdnət](https://youglish.com/pronounce/untergeordnet/german)
 

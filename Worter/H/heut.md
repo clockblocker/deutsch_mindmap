@@ -1,6 +1,6 @@
 🕗 [[heut]], [hɔʏ̯t]
 
----> ⏱️ [[Temporal-Zeitpunkt]] <---
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 ---
 Sie wird [[heut]] Nacht nicht untergehen  

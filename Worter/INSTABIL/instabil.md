@@ -1,5 +1,5 @@
----> ⚠️ [[Grad-Risiko]] <---
----> ⏱️ [[Temporal-Dauerhaft]] <---
+--> ⚠️ [[Grad-Risiko]] <--
+--> ⏱️ [[Temporal-Dauerhaft]] <--
 
 
 , [[tragfähig]]

@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 🛠️ 🔴 die [[Ausstattung]], [ˈaʊ̯sˌʃtatʊŋ](https://youglish.com/pronounce/Ausstattung/german)
 die [[Ausstattungen]]

@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 , [[Handlung]], [[Maßnahme]], [[Worter/S/Sport]]

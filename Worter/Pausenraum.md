@@ -1,4 +1,4 @@
---> [[⛪ Ingredient-Plazt]] <---
+--> [[⛪ Ingredient-Plazt]] <--
 
 ☕ 🔵 der [[Pausenraum]], [ˈpaʊ̯zn̩ˌʁaʊ̯m](https://youglish.com/pronounce/Pausenraum/german)
 die [[Pausenräume]]

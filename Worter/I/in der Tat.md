@@ -1,3 +1,3 @@
----> 🧩 [[Grad-Wahrheit]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
 
 [[allerdings]], [[tatsächlich]]

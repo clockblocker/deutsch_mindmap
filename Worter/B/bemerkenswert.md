@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 
 😲 [[bemerkenswert]], [bəˈmɛʁkənsˌvɛɐ̯t](https://youglish.com/pronounce/bemerkenswert/german)
 

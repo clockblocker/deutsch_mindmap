@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 🔴 👁️ die [[Aufmerksamkeit]], [ˈaʊ̯fmerkˌzaːmkɐɪ̯t]

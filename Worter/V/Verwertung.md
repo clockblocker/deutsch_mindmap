@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 ♻️ 🔴 die [[Verwertung]], [fɛɐ̯ˈvɛʁtʊŋ](https://youglish.com/pronounce/Verwertung/german)

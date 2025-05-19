@@ -1,4 +1,4 @@
----> 🧩 [[Grad-Ganzheit]] <---
+--> 🧩 [[Grad-Ganzheit]] <--
 💚 [[voll]], [fɔl]
 nicht ist das Gegenteil von [[leer]]
 

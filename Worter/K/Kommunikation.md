@@ -28,4 +28,4 @@ G: der [[Kommunikation]], der [[Kommunikationen]]
 D: der [[Kommunikation]], den [[Kommunikationen]]
 
 
-#Feminin , [[Kommunikationsform]], [[Kommunikationsaufwand]]
+#Feminin , [[Kommunikationsform]], [[Kommunikationsaufwand]], [[Funk]]

@@ -5,6 +5,8 @@ haben [[aufgeräumt]]
 ---
 Werner hat beim [[aufräumen]] ein altes Urlaubsfoto gefunden. Er hat einen Rahmen dafür gekauft und will es im Wohnzimmer aufhängen.
 
+*[[C1-Hoehen-T1-202-Text#^3|^]]* Der Autor der Sendung [[räumt auf|räumt]] mit der [[Lüge]] von [[Spot]] [[tpreisen]] auf
+
 »Entschuldigung, Herr Kommissar«, sagte Klaus Zeiser. »Ich habe noch nicht [[aufgeräumt]] - [[überall]] Sachen von der Party ...« [[15 genetiv#^9|^]]
 
 Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]. Martin ist [[sauer]]: „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“ 

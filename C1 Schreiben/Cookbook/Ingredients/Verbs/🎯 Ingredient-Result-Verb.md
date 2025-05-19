@@ -1,4 +1,4 @@
----> [[🎯 Ingredient-Result-Verb]] <---
+--> [[🎯 Ingredient-Result-Verb]] <--
 
 - Konzentration [[beeinträchtigen]] 
 #### ✅ Resultat / Konsequenz – Neutral Outcome

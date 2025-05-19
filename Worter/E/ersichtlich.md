@@ -1,5 +1,5 @@
----> 🧩 [[Grad-Wahrheit]] <---
----> 💥 [[Grad-Intensität]] <---
+--> 🧩 [[Grad-Wahrheit]] <--
+--> 💥 [[Grad-Intensität]] <--
 
 👁️ [[ersichtlich]], [ɛɐ̯ˈzɪçtlɪç](https://youglish.com/pronounce/ersichtlich/german)
 

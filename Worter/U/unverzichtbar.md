@@ -1,4 +1,4 @@
----> 🧱[[Grad-Gewicht]] <---
+--> 🧱[[Grad-Gewicht]] <--
 💯 [[unverzichtbar]], [ˈʊnfɛɐ̯ˌt͡sɪçtbaːɐ̯](https://youglish.com/pronounce/unverzichtbar/german) ≠ [[verzichbar]]
 
 ---

@@ -1,6 +1,6 @@
----> ✅ [[Ingredient-erlauben-verbieten]] <---
----> [[🎯 Ingredient-Result-Verb]] <---
----> [[Management-Coordination-Allocation]] <---
+--> ✅ [[Ingredient-erlauben-verbieten]] <--
+--> [[🎯 Ingredient-Result-Verb]] <--
+--> [[Management-Coordination-Allocation]] <--
 
 🔓 [[ermöglichen]], [ɛɐ̯ˈmøːɡlɪçən] | [[ermöglichte]], haben [[ermöglicht]]
 

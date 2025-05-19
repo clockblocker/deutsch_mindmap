@@ -1,4 +1,4 @@
----> [[Ingredinet-Action-Nomen]] <---
+--> [[Ingredinet-Action-Nomen]] <--
 
 ---
 🔵 📝 der [[Arbeitsauftrag]], [ˈaʁbaɪ̯t͡sʔaʊ̯fˌtʁaːk]

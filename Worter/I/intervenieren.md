@@ -56,4 +56,4 @@ sie, [[intervenieren]], [[intervenierten]], [[intervenieren]], [[intervenierten]
 Adjektive: [[intervenierend]], [[intervenierender]], [[intervenierendst]]
 
 ---
-[[intervenierender]], [[intervenierendes]], [[intervenierende]], [[intervenierenden]], [[intervenierendem]], [[intervenierenderer]], [[intervenierenderes]], [[intervenierendere]], [[intervenierenderen]], [[intervenierenderem]], [[intervenierendster]], [[intervenierendstes]], [[intervenierendste]], [[intervenierendsten]], [[intervenierendstem]], [[Einschreiten]]
+[[intervenierender]], [[intervenierendes]], [[intervenierende]], [[intervenierenden]], [[intervenierendem]], [[intervenierenderer]], [[intervenierenderes]], [[intervenierendere]], [[intervenierenderen]], [[intervenierenderem]], [[intervenierendster]], [[intervenierendstes]], [[intervenierendste]], [[intervenierendsten]], [[intervenierendstem]], [[Einschreiten]], [[dazwischenfunken]]
