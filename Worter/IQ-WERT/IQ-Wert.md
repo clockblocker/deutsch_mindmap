@@ -1,0 +1,1 @@
+, [[Intelligenzgrad]], [[Intelligenzquotient]]

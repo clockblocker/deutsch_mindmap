@@ -40,4 +40,4 @@ D: der [[Äußerung]], den [[Äußerungen]]
 
 
 
-#Feminin 
+#Feminin , [[Ausdruck]]

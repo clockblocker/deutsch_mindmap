@@ -30,4 +30,4 @@ A: den [[Irrtum]], die [[Irrtümer]]
 G: des [[Irrtums]], der [[Irrtümer]]
 D: dem [[Irrtum]], den [[Irrtümern]]
 
-#Maskulin , [[Verwechslung]], [[Irrung]]
+#Maskulin , [[Verwechslung]], [[Irrung]], [[Denkweise]]

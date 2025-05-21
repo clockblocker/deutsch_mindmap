@@ -26,4 +26,4 @@ A: den [[Leistungssport]], die [[Leistungssportarten]]
 G: des [[Leistungssports]], der [[Leistungssportarten]]
 D: dem [[Leistungssport]], den [[Leistungssportarten]]
 
-#Maskulin 
+#Maskulin , [[Ausdauersportart]]

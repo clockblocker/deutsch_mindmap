@@ -33,4 +33,4 @@ PI: [[verschwindend]], PII: [[verschwunden]], Zu+inf: [[zu verschwinden]]
 ---
 [[Verschwinden]], [[Verschwundensein]], [[verschwenderisch]], [[unversehens]]
 , [[eingehen]]
-, [[entstehen]], [[vorkommen]], [[auftreten]], [[bestehen]], [[existieren]], [[anfallen]], [[dastehen]]
+, [[entstehen]], [[vorkommen]], [[auftreten]], [[bestehen]], [[existieren]], [[anfallen]], [[dastehen]], [[ankommen]]

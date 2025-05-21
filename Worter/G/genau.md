@@ -5,6 +5,8 @@
 ---
 Katara sieht den Eisberg [[genauer]] an und erkennt einen Jungen mit leuchtenden Pfeilen auf dem Kopf und den Händen. 
 
+*[[C1-Hoehen-T2-200-Text#^1|^]]* 7 Frau Avar arbeitet an einer [[genau]]en [[Begriffsbestimmung]] für Intelligenz
+
 *[[Einen Korb bekommen#^11|^]]* [[Genauer]] gesagt: Seit sie mit Katharina zusammen ist. ^11
 
  nicht [[genau]]: [[zu]] = [[Worter/P/Platzwechsel]], [[bei]] = [[Location]]

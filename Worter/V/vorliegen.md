@@ -1,7 +1,9 @@
 📄 [[vorliegen]], [fɔɐ̯ˈliːɡn̩] | [[lag vor]], haben [[vorgelegen]]
 
 ---
-	- [ ] Man darf andere Personen benachteiligen, wenn [[ausreichende]] persönliche Gründe [[hierfür]] [[vorliegen]].
+*[[C1-Hoehen-T2-200-Text#^28|^]]* Wir haben Studierenden Fotos von Männern und Frauen [[vorgelegt]] und die Probandinnen und Probanden mussten [[angeben]], wen sie für intelligent [[hielten]]
+
+- [ ] Man darf andere Personen benachteiligen, wenn [[ausreichende]] persönliche Gründe [[hierfür]] [[vorliegen]].
 
 ---
 = [[existieren]], [[vorhanden sein]], [[verfügbar sein]]

@@ -1,1 +1,1 @@
-, [[zeugen]], [[schwanger]], [[Geburt]], [[Geburtsvorbereitung]], [[Wochenbett]], [[Geburtenrate]]
+, [[zeugen]], [[schwanger]], [[Geburt]], [[Geburtsvorbereitung]], [[Wochenbett]], [[Geburtenrate]], [[angeboren]], [[hineingeboren]]

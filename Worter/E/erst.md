@@ -4,6 +4,8 @@
 SASCHA: … und ich [[erst]] … mir geht’s noch schlechter ...
 man muss immer [[erst]] die [[Anleitung]] lesen.  
 
+*[[C1-Hoehen-T2-200-Text#^20|^]]* Nur sind sie [[unterschiedlich]] stark [[ausgeprägt]] und [[ergeben]] [[erst]] in ihrem [[Zusammenspiel]] ein vollständiges Bild der Persönlichkeit eines Menschen)
+
 *[[Erst]] wenn die Wolken schlafen gehen,*  
 *kann man uns am Himmel sehen.*  
 

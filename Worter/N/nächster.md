@@ -1,2 +1,2 @@
 [[nächst]]
-, [[nah]], [[folgend]]
+, [[nah]], [[folgend]], [[Mitmensch]]

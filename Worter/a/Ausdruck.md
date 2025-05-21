@@ -1,27 +1,33 @@
-🔵 der [[Ausdruck]], [ˈaʊ̯sdrʊk]
-die [[Ausdrücke]]
-
+🗣️ | 🎭 der [[Ausdruck]], die [[Ausdrücke]]  [ˈaʊ̯sdʁʊk](https://youglish.com/pronounce/Ausdruck/german) 
 
 ---
 Wird richtig sauer, macht einen bösen [[Gesichtsausdruck]] und fuchtelt mit den Armen
 
+*[[C1-Hoehen-T2-200-Text#^7|^]]* 13 Bei der [[Einschätzung]] von Intelligenz spielt auch der [[Ausdruck]] von Emotionen eine Rolle
+
+[[Gesichtsausdruck]]
 
 ---
-Synonyme:
-- [[Bezeichnung]], [[Begriff]], [[Formulierung]], [[Redewendung]], [[Phrase]]
+= [[Redewendung]], [[Wortschatz]],  [[Äußerung]],[[Bezeichnung]], [[Begriff]], [[Formulierung]], [[Redewendung]], [[Phrase]], [[Wort]], [[Phrase]] | [[Mienenspiel]], [[Gesichtsausdruck]], [[aussprechen]], 
+≈ [[Formulierung]], [[Begriff]], [[Wortwahl]] | [[Erscheinung]], [[Haltung]], [[Gebärde]],  [[Modebegriff]],
+≠ [[Stille]], [[Schweigen]] | [[Unbeteiligt]], [[Ausdruckslosigkeit]]
 
 ---
-Übersetzung: expression, term
+expression, term | expression, look
+выражение, термин | выражение, вид
 
 ---
-Morpheme:
-[[aus]][[druck]]
+[[ausdrücken]], [[ausdrücklich]], [[Ausdrucksweise]] | [[ausdrücken]], [[ausdrucksstark]], [[Ausdruckslosigkeit]]
 
 ---
-Einzigartige mögliche Formen: [[Ausdrucks]], [[Ausdrucke]], [[Ausdrücke]], [[ausdrücken]]
+[[aus]]|[[druck]]
+[[Ausdruck]]
+
 
 ---
-#Substantiv #Maskulin
+N: der [[Ausdruck]], die [[Ausdrücke]]
+A: den [[Ausdruck]], die [[Ausdrücke]]
+G: des [[Ausdrucks]], der [[Ausdrücke]]
+D: dem [[Ausdruck]], den [[Ausdrücken]]
 
-, [[Worter/W/Wort]], [[Gesichtsausdruck]]
-, [[aussprechen]], [[Modebegriff]], [[ausdrücklich]], [[Wortschatz]]
+#Maskulin 

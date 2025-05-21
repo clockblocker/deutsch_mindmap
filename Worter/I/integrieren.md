@@ -1,2 +1,2 @@
 , [[einbauen]], [[verbannen]], [[vereinen]], [[verstoßen]], [[anfügen]], [[ausstoßen]]
-, [[einfügen]], [[Integrität]], [[einfließen]], [[miteinbeziehen]]
+, [[einfügen]], [[Integrität]], [[einfließen]], [[miteinbeziehen]], [[aufsaugen]]

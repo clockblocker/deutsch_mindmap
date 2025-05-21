@@ -1,3 +1,3 @@
 , [[kriegen]], [[verdienen]], [[erzielen]], [[erreichten]]
 , [[zusammenbekommen]]
-, [[verschaffen]], [[erwerben]]
+, [[verschaffen]], [[erwerben]], [[aneignen]]

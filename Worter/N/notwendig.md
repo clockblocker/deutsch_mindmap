@@ -40,4 +40,4 @@ Einzigartige mögliche Formen:
 [[notwendigsten]], [[notwendigster]], [[notwendigste]], [[notwendigstes]], [[notwendigsten]], [[notwendigstem]], [[notwendigster]], [[notwendigsten]]
 
 
-, [[unentbehrlich]], [[Notwendigkeit]], [[angelegen]], [[bedürftig]], [[unverzichtbar]], [[dringend]], [[unabdingbar]], [[unumgänglich]]
+, [[unentbehrlich]], [[Notwendigkeit]], [[angelegen]], [[bedürftig]], [[unverzichtbar]], [[dringend]], [[unabdingbar]], [[unumgänglich]], [[zwangsläufig]]

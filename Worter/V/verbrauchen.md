@@ -34,4 +34,4 @@ PI: [[verbrauchend]], PII: [[verbraucht]], Zu+inf: [[zuverbrauchen]]
 [[verbrauchen]] - [[ver]] = [[brauchen]] / to consume, to use up, to exhaust
 
 ---
-[[Verbrauch]], [[Verbraucher]], [[Verbraucherin]], [[verbrauchbar]], [[Verbrauchsmaterial]], [[lagern]], [[übrigbleiben]], [[vergeuden]]
+[[Verbrauch]], [[Verbraucher]], [[Verbraucherin]], [[verbrauchbar]], [[Verbrauchsmaterial]], [[lagern]], [[übrigbleiben]], [[vergeuden]], [[Beiseitelegen]], [[anhäufen]]

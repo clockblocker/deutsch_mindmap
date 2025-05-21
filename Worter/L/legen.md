@@ -3,6 +3,8 @@
 ---
  Machen Sie sich frei, [[legen]] Sie sich hin!  
 
+*[[C1-Hoehen-T2-200-Text#^21|^]]* Ja, aber gehören denn sprachliche, musische, empathische [[Begabung]]en usw. nicht eher zu Soft Skills, die man sich durch Lernen, Üben und [[Erfahrung]] auch [[aneignen]] kann, die einem also nicht unbedingt in die [[Wiege]] [[gelegt]] wurden?
+
 *[[C1-Hoehen-T1-200-Text#^6|^]]* Sehr zur Freude von Paul, waren dieser Freundschaft doch zu Beginn einige [[Stolpersteine]] in den Weg [[gelegt]]. 
 
 *[[C1-Lesen-T2-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
@@ -39,4 +41,4 @@ PI: [[legend]], PII: [[gelegt]], Zu+inf: [[zu legen]]
 
 ---
 [[Lage]], [[Lagerung]], [[Ablage]], [[Legung]], [[Verlegung]], [[Vorlage]], [[festlegen]], [[angelegen]]
-, [[Gelegenheit]], [[auflegen]], [[grundlegend]], [[erlegen]], [[gelegentlich]], [[auslegen]], [[zulegen]]
+, [[Gelegenheit]], [[auflegen]], [[grundlegend]], [[erlegen]], [[gelegentlich]], [[auslegen]], [[zulegen]], [[Beiseitelegen]]

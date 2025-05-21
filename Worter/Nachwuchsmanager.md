@@ -2,7 +2,7 @@
 die [[Nachwuchsmanager]]
 
 ---
-[[2 Unter Druck nach oben#^22|^]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat. ^22
+[[2 Unter Druck nach oben#^22|^]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat
 
 ---
 = [[Jungmanager]], [[angehender Manager]]

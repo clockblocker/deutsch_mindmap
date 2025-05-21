@@ -3,6 +3,8 @@
 ---
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]].
 
+*[[C1-Hoehen-T2-200-Text#^26|^]]* Aber darüber [[streitet]] ja die Wissenschaft schon seit der Antike: Welchen [[Stellenwert]] [[genießt]] das [[angeborene]] Talent und welche Rolle spielt die [[Umgebung]], in die das Kind [[hineingeboren]] wird?
+
 Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[Leisten]] und [[genießt]] das Leben. So stellen sich manche Leute das Leben in Frankreich vor. 
 
 ---

@@ -31,4 +31,4 @@ A: die [[Unabhängigkeit]], die [[Unabhängigkeiten]]
 G: der [[Unabhängigkeit]], der [[Unabhängigkeiten]]
 D: der [[Unabhängigkeit]], den [[Unabhängigkeiten]]
 
-#Feminin 
+#Feminin , [[Wechselwirkung]]

@@ -1,1 +1,1 @@
-, [[lutschen]]
+, [[lutschen]], [[aufsaugen]]

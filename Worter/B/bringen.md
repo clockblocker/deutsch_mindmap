@@ -4,6 +4,8 @@
 - Er hat unsere Milch [[zurückgebracht]]
 - Ich hab' euch etwas [[mitgebracht]]  
 
+*[[C1-Lesen-T4-103-Text#^15|^]]* Die rasch wachsende Wirtschaft [[brachte]] [[zwar]] den [[Massenwohlstand]]
+
 *Und auch der Wilhelm war nicht steif*  
 *und [[brachte]] seinen runden Reif.*  
 

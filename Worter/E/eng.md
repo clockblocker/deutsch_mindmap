@@ -3,19 +3,20 @@
 ---
 Um den Gürtel enger schnallen zu können, muss man weniger essen. 
 
+*[[C1-Hoehen-T2-200-Text#^5|^]]* 11 In der Antike war man der [[Auffassung]], dass Intelligenz [[eng]] an natürliche [[Begabung]] [[gekoppelt]] ist
+
 Allerdings ist es durch den neuen Arbeitsplatz im Büro [[deutlich]] [[eng]]er geworden. ^6
 
 
-[[Engpass]]
+[[Engpass]] `auf` dem Firmenparkplatz
 
 ---
-= [[schmal]], [[knapp]], [[dicht]]
+= [[schmal]], [[knapp]], [[dicht]], [[schmale]]
 ≈ [[klein]], [[begrenzt]], [[nah]]
-≠ [[weit]], [[locker]], [[geräumig]]
+≠ [[weit]], [[locker]], [[geräumig]], [[breit]], [[locker]],[[umfangreich]], 
 
-, [[breit]], [[locker]], [[weit]], [[schmale]], [[nah]]
- [[enger]]
-, [[dicht]], [[umfangreich]], 
+
+
 
 
 ---

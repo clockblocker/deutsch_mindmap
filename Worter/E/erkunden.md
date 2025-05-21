@@ -33,4 +33,4 @@ sie, [[erkunden]], [[erkundeten]], [[erkunden]], [[erkundeten]], [[erkunden]]
 Adjektive: [[erkundend]], [[erkundender]], [[erkundendst]]
 
 ---
-[[erkundender]], [[erkundendes]], [[erkundende]], [[erkundenden]], [[erkundendem]], [[erkundenderer]], [[erkundenderes]], [[erkundendere]], [[erkundenderen]], [[erkundenderem]], [[erkundendster]], [[erkundendstes]], [[erkundendste]], [[erkundendsten]], [[erkundendstem]], [[Erkunden]]
+[[erkundender]], [[erkundendes]], [[erkundende]], [[erkundenden]], [[erkundendem]], [[erkundenderer]], [[erkundenderes]], [[erkundendere]], [[erkundenderen]], [[erkundenderem]], [[erkundendster]], [[erkundendstes]], [[erkundendste]], [[erkundendsten]], [[erkundendstem]], [[Erkunden]], [[umschauen]]

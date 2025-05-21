@@ -48,4 +48,4 @@ sie, [[bewerten]], [[bewerteten]], [[bewerten]], [[bewerteten]], [[bewerten]]
 Adjektive: [[bewertend]], [[bewertender]], [[bewertendst]]
 
 ---
-[[bewertender]], [[bewertendes]], [[bewertende]], [[bewertenden]], [[bewertendem]], [[bewertenderer]], [[bewertenderes]], [[bewertendere]], [[bewertenderen]], [[bewertenderem]], [[bewertendster]], [[bewertendstes]], [[bewertendste]], [[bewertendsten]], [[bewertendstem]]
+[[bewertender]], [[bewertendes]], [[bewertende]], [[bewertenden]], [[bewertendem]], [[bewertenderer]], [[bewertenderes]], [[bewertendere]], [[bewertenderen]], [[bewertenderem]], [[bewertendster]], [[bewertendstes]], [[bewertendste]], [[bewertendsten]], [[bewertendstem]], [[einzuschätzen]]

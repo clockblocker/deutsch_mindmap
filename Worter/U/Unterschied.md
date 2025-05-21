@@ -1,10 +1,12 @@
 --> 📈 [[Grad-Vergleich]] <--
 
-🔴 der [[Unterschied]], [ˈʊntɐʃiːt]
+der [[Unterschied]], [ˈʊntɐʃiːt]
 die [[Unterschiede]]
 
 ---
 Der [[Unterschied]] zwischen einer [[Vorlesung]] und einem Seminar ist, dass die Studenten im Seminar mehr diskutieren dürfen.
+
+*[[C1-Hoehen-T2-200-Text#^13|^]]* Bei deren [[Erforschung]] helfen uns auch Intelligenztests, die uns die [[Unterschied]]e in den [[Denkweisen]] von Personen zeigen
 
 
 ---
@@ -29,3 +31,5 @@ D: dem [[Unterschied]], den [[Unterschieden]]
 
  [[verschieden]], [[Vergleich]], [[Bedeutungsunterschied]]
 , [[Analogie]], [[Geschlecht]]
+
+#Maskulin 

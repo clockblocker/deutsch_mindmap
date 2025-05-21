@@ -1,2 +1,1 @@
-🗣️ [[behaupten]] , [[Redewendung]]
-, [[verdreht]]
+🗣️ [[behaupten]] 

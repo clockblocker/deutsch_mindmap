@@ -35,4 +35,4 @@ Morphems:
 [[Lieb]][[e]]
 
 ---
-#Substantiv #Feminin, [[Liebestanz]], [[Traum]], [[verlieben]], [[liebgewinnen]], [[Liebhaber]], [[Vorliebe]]
+#Substantiv #Feminin, [[Liebestanz]], [[Traum]], [[verlieben]], [[liebgewinnen]], [[Liebhaber]], [[Vorliebe]], [[Partnerwahl]]

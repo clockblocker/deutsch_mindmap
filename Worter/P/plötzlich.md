@@ -44,4 +44,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[plötzlich]]
 ''', [[bald]], [[vorläufig]]
- [[plötzlich]] | 😲 [[plötzlich werden]], [[anblicken]], [[s1 e1]]
+ [[plötzlich]] | 😲 [[plötzlich werden]], [[anblicken]], [[s1 e1]], [[unvorhergesehen]]

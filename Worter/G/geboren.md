@@ -1,2 +1,2 @@
 • Sie ist im Januar [[geboren]].
-, [[Geburt]]
+, [[Geburt]], [[angeboren]], [[hineingeboren]]

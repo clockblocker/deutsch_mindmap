@@ -31,4 +31,4 @@ P: [[offensichtlichen]], [[offensichtlicheren]], [[offensichtlichsten]]
 [[Sicht]], [[sehen]], [[offensichtlichkeit]], [[ersichtlich]], [[unübersehbar]]
 
 , [[offensichtlich]], [[scheinbar]], [[deutlich]], [[Unbekannten]], [[geheimnisvolle]]
-, [[erkennbar]], [[natürlich]], [[bemerkbar]], [[eklatant]], [[unbestreitbar]], [[sichtbar]], [[zweideutig]]
+, [[erkennbar]], [[natürlich]], [[bemerkbar]], [[eklatant]], [[unbestreitbar]], [[sichtbar]], [[zweideutig]], [[ausgeprägt]]

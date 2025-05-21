@@ -3,10 +3,11 @@
 sein [[aufgewachsen]]
 
 ---
-Doch kein anderes Museum stellt das Leben und [[Aufwachsen]] in der DDR auf eine so anschauliche Weise dar.
+Doch kein anderes Museum stellt das Leben und [[Aufwachsen]] in der DDR auf eine so anschauliche Weise dar
 
-Er [[wuchs]] in den Orten Reichenau und Waltersdorf [[Worter/A/auf]].
+*[[C1-Hoehen-T2-200-Text#^24|^]]* Es ist eine [[Wechselwirkung]], denn was nützt einem Kind sein musikalisches Talent, wenn es in einer [[Umgebung]] [[aufwächst]], wo Musik kaum eine Rolle spielt?!
 
+Er [[wuchs]] in den Orten Reichenau und Waltersdorf [[auf]]
 
 
 ---
@@ -34,3 +35,4 @@ Morpheme: [[Worter/A/auf]][[wachs]][[en]]
 Partizip I: [[aufwachsend]], Partizip II: [[aufgewachsen]]
 
 [[Aufwachsen]] - [[Worter/A/auf]] = [[wachsen]]
+, [[hineingeboren]]

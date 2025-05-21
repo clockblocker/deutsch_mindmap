@@ -1,2 +1,2 @@
 , [[wiegen]], [[schätzen]], [[mustern]]
-, [[beurteilen]], [[bewerten]]
+, [[beurteilen]], [[bewerten]], [[einzuschätzen]], [[einschätzen]]

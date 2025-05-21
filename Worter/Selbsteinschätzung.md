@@ -1,10 +1,11 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
+--> [[🗣️ Ingredient-Meinung]] <--
 
 🔴 🧐 die [[Selbsteinschätzung]], [ˈzɛlpstʔaɪ̯nˌʃɛt͡sʊŋ]
 die [[Selbsteinschätzungen]]
 
 ---
-[[3 ADHD.md#^7|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich ein geringes [[Selbstwertgefühl]] bzw. eine niedrige [[Selbsteinschätzung]]. ^7
+[[3 ADHD.md#^7|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich ein geringes [[Selbstwertgefühl]] bzw. eine niedrige [[Selbsteinschätzung]]
 
 ---
 = [[Selbstbeurteilung]], [[Selbstbewertung]], [[Eigenbeurteilung]]
@@ -26,4 +27,6 @@ D: der [[Selbsteinschätzung]], den [[Selbsteinschätzungen]]
 
 ---
 [[Selbst]], [[einschätzen]], [[Einschätzung]], [[Selbsterkenntnis]], [[Selbstreflexion]]
-, [[Schätzung]]--> [[🗣️ Ingredient-Meinung]] <--
+, [[Schätzung]]
+
+#Feminin 

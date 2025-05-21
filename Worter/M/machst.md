@@ -1,1 +1,1 @@
-, [[machen]], [[klarmachen]]
+, [[machen]], [[klarmachen]], [[festmachen]]

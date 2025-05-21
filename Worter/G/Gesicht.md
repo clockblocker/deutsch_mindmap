@@ -4,6 +4,8 @@ die [[Gesichter]]
 ---
 NIC: Sagen wir [[einfach]] - dass du dieses [[Gesicht]] …  
 
+Kann man Intelligenz eigentlich am [[Gesicht]] [[ablesen]]?  
+
 MARIA: Eure [[Gesichter]]! Also, seid ihr beide?  
 
 *Mich interessiert kein Gleichgewicht*  

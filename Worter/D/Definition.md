@@ -1,1 +1,1 @@
-, [[Festlegung]], [[Erklärung]], [[Beschreibung]]
+, [[Festlegung]], [[Erklärung]], [[Beschreibung]], [[Begriffsbestimmung]]

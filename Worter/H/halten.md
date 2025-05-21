@@ -3,7 +3,11 @@
 haben [[gehalten]]
 
 ---
-*[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]. ^13
+*[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
+
+*[[C1-Hoehen-T2-200-Text#^35|^]]* [[Bemerkenswert]] ist aber, dass jemand für intelligenter [[gehalten]] wird, wenn er [[lächelt]] oder andere positive [[Gefühle]] zeigt
+
+*[[C1-Hoehen-T2-200-Text#^28|^]]* Wir haben Studierenden Fotos von Männern und Frauen [[vorgelegt]] und die Probandinnen und Probanden mussten [[angeben]], wen sie für intelligent [[hielten]]
 
 
 *[[Hielt]] man für Ufos aus dem All*

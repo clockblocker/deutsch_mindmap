@@ -21,6 +21,8 @@ misjudgment, miscalculation
 [[Fehl]]|[[ein]]|[[schätz]]|[[ung]]
 [[Fehleinschätzung]]
 
+[[Fehle]]
+
 
 ---
 N: die [[Fehleinschätzung]], die [[Fehleinschätzungen]]

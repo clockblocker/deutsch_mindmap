@@ -1,1 +1,1 @@
-, [[nehmen]], [[auslesen]], [[rausholen]], [[ausleihen]], [[ausnehmen]], [[abheben]]
+, [[nehmen]], [[auslesen]], [[rausholen]], [[ausleihen]], [[ausnehmen]], [[abheben]], [[ablesen]]

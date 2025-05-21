@@ -1,1 +1,1 @@
-, [[vorlesen]], [[aufsagen]], [[wiederholen]]
+, [[vorlesen]], [[aufsagen]], [[wiederholen]], [[ablesen]]

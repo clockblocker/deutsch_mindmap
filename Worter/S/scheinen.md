@@ -3,6 +3,8 @@
 ---
  [[von]] Schmuck [[scheint]] er nicht viel zu verstehen.
 
+*[[C1-Lesen-T4-103-Text#^24|^]]* [[Somit]] [[scheint]] Konsum oder Schulden zu machen die bessere Alternative zu sein
+
 *[[000-C1-Schreiben-T1#^5|^]]* Über WhatsApp bleiben Eltern auch aus dem Ausland [[erreichbar]], Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[unbeschränkt]]. ^5
 
 

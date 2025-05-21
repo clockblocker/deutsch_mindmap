@@ -23,4 +23,4 @@ G: des [[Grabes]], der [[Gräber]]
 D: dem [[Grab]], den [[Gräbern]] 
 
 ---
-[[graben]], [[begraben]], [[grabend]], [[Grabstein]], [[Grabmal]]
+[[graben]], [[begraben]], [[grabend]], [[Grabstein]], [[Grabmal]], [[Wiege]]

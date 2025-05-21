@@ -2,12 +2,11 @@
 ✅ [[voraussetzen]], [fɛɐ̯ˈʁaʊ̯sˌzɛt͡sn̩](https://youglish.com/pronounce/voraussetzen/german) → [[setzte voraus]] → [[vorausgesetzt]]
 
 ---
-*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrechte]] _als_ [[richtungsgebende]] _Linie_ [[vorausgesetzt]] _werden, um strafbare von legalen_ [[Äußerungen]] _und_ [[Worter/V/Verben/Verbformen/taten]] _zu_ [[unterscheiden]]. ^5ź
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrechte]] _als_ [[richtungsgebende]] _Linie_ [[vorausgesetzt]] _werden, um strafbare von legalen_ [[Äußerungen]] _und_ [[taten]] _zu_ [[unterscheiden]]
 
+*[[C1-Hoehen-T2-200-Text#^3|^]]* 9 Frau Avar hat [[herausgefunden]], dass eine hohe Intelligenz [[verschiedene]] Arten von Intelligenz [[voraussetzt]]
 
-*[[C1-Lesen-T2-101-Text#^26|^]]* Immer [[vorausgesetzt]], dass das Kind nicht in Gefahr [[gerät]], zum Beispiel durch [[verschluckbare]] Teile. ^26
-
-
+*[[C1-Lesen-T2-101-Text#^26|^]]* Immer [[vorausgesetzt]], dass das Kind nicht in Gefahr [[gerät]], zum Beispiel durch [[verschluckbare]] Teile
 
 ---
 = [[angenommen]], [[unter der Bedingung]], [[sofern]]
@@ -15,7 +14,7 @@
 ≠ [[ausgeschlossen]], [[verworfen]], [[abgelehnt]]
 
 ---
-provided that, assuming  
+provided that, assuming, requiring
 при условии, что
 
 ---

@@ -5,8 +5,7 @@
 😔 [[vernachlässigen]], [fɛɐ̯ˈnaxˌlɛsɪɡn̩](https://youglish.com/pronounce/vernachlässigen/german) → [[vernachlässigte]] → haben [[vernachlässigt]]
 
 ---
-*[[C1-Lesen-T2-102-Text#^15|^]]* Gerade im [[fortgeschritten]]em Alter ist das ein nicht zu [[vernachlässigend]]er Aspekt, denn der [[Verlust]] von drei Kilo Muskeln bedeutete eine [[Verringerung]] des [[Energiegrundumsatz]]es um etwa 100 Kalorien pro Tag. ^15
-
+*[[C1-Lesen-T2-102-Text#^15|^]]* Gerade im [[fortgeschritten]]em Alter ist das ein nicht zu [[vernachlässigend]]er Aspekt, denn der [[Verlust]] von drei Kilo Muskeln bedeutete eine [[Verringerung]] des [[Energiegrundumsatz]]es um etwa 100 Kalorien pro Tag
 
 ---
 = [[außer Acht lassen]], [[ignorieren]], [[verwahrlosen]]

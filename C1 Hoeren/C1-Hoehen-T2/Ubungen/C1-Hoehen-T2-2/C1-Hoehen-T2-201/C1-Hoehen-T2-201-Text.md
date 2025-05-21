@@ -2,109 +2,186 @@
 
 ---
 
-7. Frau Friedrich kritisiert die Art der Vermittlung mathematischer Kenntnisse.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+*[[C1-Hoehen-T2-201-Text#^1|^]]* 7 Frau Friedrich kritisiert die Art der [[Vermittlung]] mathematischer [[Kenntnisse]] ^1
 
-8. Frau Friedrich findet, dass durch digitales Lernen die Realität verfälscht wird.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+- [ ] a stimmt ?  
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  
 
-9. Die Regierung sollte den Lehrerberuf angemessen honorieren.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+*[[C1-Hoehen-T2-201-Text#^2|^]]* 8 Frau Friedrich findet, dass durch digitales Lernen die Realität [[verfälscht]] wird ^2
 
-10. Es gibt Jugendliche, die das Abstraktionsvermögen mit steigendem Alter verlieren.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+- [ ] a stimmt?
+- [ ] b stimmt nicht ?
+- [ ] c dazu wird nichts gesagt
 
-11. Defizite im Fach Mathematik sind auch zeitlichen Restriktionen geschuldet.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+*[[C1-Hoehen-T2-201-Text#^3|^]]* 9 Die Regierung sollte den [[Lehrerberuf]] [[angemessen]] honorieren ^3
 
-12. Im Lehramtsstudium sollte vermittelt werden, dass es unterschiedliche Lerntypen gibt.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+- [ ] a stimmt  2
+- [ ] b stimmt nicht 
+- [ ] c dazu wird nichts gesagt  
 
-13. Frau Friedrich arbeitet mit Schülerinnen und Schülern an einem Projekt zur Berechnung der jährlichen Weizenernte.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+*[[C1-Hoehen-T2-201-Text#^4|^]]* 10 Es gibt Jugendliche, die das Abstraktionsvermögen mit steigendem Alter verlieren. ^4
 
-14. Frau Friedrich plädiert für die individuelle Förderung einzelner Lernender innerhalb der Lerngruppe.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+- [ ] a stimmt  
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  ?
 
-15. Schreiben und Rechnen sind geschichtlich gesehen parallel entstanden.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+*[[C1-Hoehen-T2-201-Text#^5|^]]* 11 Defizite im Fach Mathematik sind auch zeitlichen Restriktionen geschuldet ^5
+
+- [ ] a stimmt 
+- [ ] b stimmt nicht 
+- [ ] c dazu wird nichts gesagt ?
+
+*[[C1-Hoehen-T2-201-Text#^6|^]]* 12 Im Lehramtsstudium sollte vermittelt werden, dass es unterschiedliche Lerntypen gibt ^6
+
+- [ ] a stimmt  
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  
+
+*[[C1-Hoehen-T2-201-Text#^7|^]]* 13 Frau Friedrich arbeitet mit Schülerinnen und Schülern an einem Projekt zur Berechnung der jährlichen Weizenernte ^7
+
+- [ ] a stimmt  ?
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  
+
+*[[C1-Hoehen-T2-201-Text#^8|^]]* 14 Frau Friedrich plädiert für die individuelle Förderung einzelner Lernender innerhalb der Lerngruppe ^8
+
+- [ ] a stimmt  ?
+- [ ] b stimmt nicht  
+- [ ] c   wird nichts gesagt  
+
+*[[C1-Hoehen-T2-201-Text#^9|^]]* 15 Schreiben und Rechnen sind geschichtlich gesehen parallel entstanden ^9
+
+- [ ] a stimmt  
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  
 
 ----
 
 ###### Moderator:  
-Herzlich willkommen zu unserer Sendung *Angstfach Mathe*. Dazu begrüße ich heute Professorin Franciska Friedrich, Mathematikerin an der Universität Jena.  
+*[[C1-Hoehen-T2-201-Text#^10|^]]* Herzlich willkommen zu unserer Sendung *Angstfach Mathe*. Dazu begrüße ich heute Professorin Franciska Friedrich, Mathematikerin an der Universität Jena. ^10
+
 
 ###### Frau Friedrich:  
 Guten Tag.  
 
 ###### Moderator:  
-Sie haben eine spannende Sendung im Fernsehen moderiert, und zwar zum Thema *Mathematik*, um dieses doch recht unbeliebte Fach den Menschen näherzubringen.  
+*[[C1-Hoehen-T2-201-Text#^11|^]]* Sie haben eine spannende Sendung im Fernsehen moderiert, und zwar zum Thema *Mathematik*, um dieses doch recht unbeliebte Fach den Menschen näherzubringen. ^11
+
 
 ###### Frau Friedrich:  
-Richtig. Wobei ich sagen muss, dass die Menschen Mathematik entweder lieben und schon fast verehren oder als notwendiges Übel betrachten. Letzteres liegt vor allem daran, dass dieses Fach leider viel zu häufig langweilig, abstrakt und ohne jeglichen Bezug zur Realität gelehrt wird.  
+*[[C1-Hoehen-T2-201-Text#^12|^]]* Richtig. ^12
+
+*[[C1-Hoehen-T2-201-Text#^13|^]]* Wobei ich sagen muss, dass die Menschen Mathematik entweder lieben und schon fast verehren oder als notwendiges Übel betrachten. ^13
+
+*[[C1-Hoehen-T2-201-Text#^14|^]]* Letzteres liegt vor allem daran, dass dieses Fach leider viel zu häufig langweilig, abstrakt und ohne jeglichen Bezug zur Realität gelehrt wird. ^14
+  
 
 ###### Moderator:  
-Kann da vielleicht der Digitalunterricht helfen?  
+*[[C1-Hoehen-T2-201-Text#^15|^]]* Kann da vielleicht der Digitalunterricht helfen? ^15
+
 
 ###### Frau Friedrich:  
-Wenn ich mir am Bildschirm ansehen kann, wie Mathematik auf die Natur anwendbar ist, wenn ich verstehe, wie uns komplizierte Gleichungen im Alltag begegnen können, dann bekomme ich einen anderen Zugang zur Mathematik. Ich befürworte allerdings nicht, dass man Mathematik nur noch digital und mit Bildern oder Filmen lehrt. Die Lehrkraft kann durch Computeranimation nicht ersetzt werden.  
+*[[C1-Hoehen-T2-201-Text#^16|^]]* Wenn ich mir am Bildschirm ansehen kann, wie Mathematik auf die Natur anwendbar ist, wenn ich verstehe, wie uns komplizierte Gleichungen im Alltag begegnen können, dann bekomme ich einen anderen Zugang zur Mathematik. ^16
+
+*[[C1-Hoehen-T2-201-Text#^17|^]]* Ich befürworte allerdings nicht, dass man Mathematik nur noch digital und mit Bildern oder Filmen lehrt. ^17
+
+*[[C1-Hoehen-T2-201-Text#^18|^]]* Die Lehrkraft kann durch Computeranimation nicht ersetzt werden. ^18
+
 
 ###### Moderator:  
-Ich glaube, dass dieses Problem in der Anerkennung des Lehrerberufs schlechthin liegt. Ich meine damit nicht die Eltern oder Schülerinnen und Schüler. Es erfolgt seitens der Politik keine adäquate finanzielle Würdigung. Das kann auch den leidenschaftlichsten Mathematikfan davon abhalten, Lehrer zu werden.  
+*[[C1-Hoehen-T2-201-Text#^19|^]]* Ich glaube, dass dieses Problem in der Anerkennung des Lehrerberufs schlechthin liegt. ^19
+
+*[[C1-Hoehen-T2-201-Text#^20|^]]* Ich meine damit nicht die Eltern oder Schülerinnen und Schüler. ^20
+
+*[[C1-Hoehen-T2-201-Text#^21|^]]* Es erfolgt seitens der Politik keine adäquate finanzielle Würdigung. ^21
+
+*[[C1-Hoehen-T2-201-Text#^22|^]]* Das kann auch den leidenschaftlichsten Mathematikfan davon abhalten, Lehrer zu werden. ^22
+
 
 ###### Moderator:  
-Man sieht ja immer wieder, dass Grundschülerinnen und -schüler weniger oder gar keine Angst vor Mathe haben, während sich das ändert, je mehr es auf die nächste Klasse zugeht. Wie erklären Sie sich das?  
+*[[C1-Hoehen-T2-201-Text#^23|^]]* Man sieht ja immer wieder, dass Grundschülerinnen und -schüler weniger oder gar keine Angst vor Mathe haben, während sich das ändert, je mehr es auf die nächste Klasse zugeht. Wie erklären Sie sich das? ^23
+
 
 ###### Frau Friedrich:  
-In den unteren Klassenstufen habe ich noch nie erlebt, dass die Kinder Angst vor Mathe haben. Sie gehen mit Neugier, Spaß und viel Motivation an den Unterricht heran. Später steigt der Abstraktionsgehalt in diesen Fächern und das reglementierte Lernen fällt viele Kinder bzw. Teenager, weil sie denken, dass sie dieses Verständnis nicht mehr erwerben können. Das hat mit ihren tatsächlichen Fähigkeiten meistens wenig zu tun.  
+*[[C1-Hoehen-T2-201-Text#^24|^]]* In den unteren Klassenstufen habe ich noch nie erlebt, dass die Kinder Angst vor Mathe haben. ^24
+
+*[[C1-Hoehen-T2-201-Text#^25|^]]* Sie gehen mit Neugier, Spaß und viel Motivation an den Unterricht heran. ^25
+
+*[[C1-Hoehen-T2-201-Text#^26|^]]* Später steigt der Abstraktionsgehalt in diesen Fächern und das reglementierte Lernen fällt viele Kinder bzw. ^26
+
+*[[C1-Hoehen-T2-201-Text#^27|^]]* Teenager, weil sie denken, dass sie dieses Verständnis nicht mehr erwerben können. ^27
+
+*[[C1-Hoehen-T2-201-Text#^28|^]]* Das hat mit ihren tatsächlichen Fähigkeiten meistens wenig zu tun. ^28
+
 
 ###### Moderator:  
-Hmm ... *(zustimmend)* Und die Schule selbst? Wo ist da das Problem?  
+*[[C1-Hoehen-T2-201-Text#^29|^]]* Hmm ... *(zustimmend)* Und die Schule selbst? Wo ist da das Problem? ^29
+
 
 ###### Frau Friedrich:  
-Wir haben eigentlich zu wenig Unterrichtszeit im Vergleich zu der Fülle der Lehrinhalte in Mathematik, die ja unterrichtet werden müssen. Das führt dazu, dass man viele Themen zu schnell und oberflächlich abhandelt.  
+*[[C1-Hoehen-T2-201-Text#^30|^]]* Wir haben eigentlich zu wenig Unterrichtszeit im Vergleich zu der Fülle der Lehrinhalte in Mathematik, die ja unterrichtet werden müssen. Das führt dazu, dass man viele Themen zu schnell und oberflächlich abhandelt. ^30
+
 
 ###### Moderator:  
-Bereiten denn die Bildungseinrichtungen angehende Mathelehrkräfte genügend auf den Beruf vor?  
+*[[C1-Hoehen-T2-201-Text#^31|^]]* Bereiten denn die Bildungseinrichtungen angehende Mathelehrkräfte genügend auf den Beruf vor? ^31
+
 
 ###### Frau Friedrich:  
-Viele Studierende auf Lehramt haben in ihrer Schulzeit schon selbst erlebt, dass der Mathematikunterricht allem abstrakt durchgeführt wurde und sind damit gut zurechtgekommen. Denen müssen wir an unseren Unis beibringen, dass jeder anders lernt. Der eine ist über Experimente erreichbar, der andere über Abstraktion und wieder ein anderer über reale gesellschaftliche Fragestellungen, zum Beispiel der Vor­aus­berechnung des Klimas.  
+*[[C1-Hoehen-T2-201-Text#^32|^]]* Viele Studierende auf Lehramt haben in ihrer Schulzeit schon selbst erlebt, dass der Mathematikunterricht allem abstrakt durchgeführt wurde und sind damit gut zurechtgekommen. ^32
+
+*[[C1-Hoehen-T2-201-Text#^33|^]]* Denen müssen wir an unseren Unis beibringen, dass jeder anders lernt. ^33
+
+*[[C1-Hoehen-T2-201-Text#^34|^]]* Der eine ist über Experimente erreichbar, der andere über Abstraktion und wieder ein anderer über reale gesellschaftliche Fragestellungen, zum Beispiel der Vor­aus­berechnung des Klimas. ^34
+
 
 ###### Moderator:  
-Sie betonen ja immer wieder, mathematische Inhalte mit realen Phänomenen in Verbindung zu bringen. Haben Sie ein Beispiel dafür parat?  
+*[[C1-Hoehen-T2-201-Text#^35|^]]* Sie betonen ja immer wieder, mathematische Inhalte mit realen Phänomenen in Verbindung zu bringen. Haben Sie ein Beispiel dafür parat? ^35
+
 
 ###### Frau Friedrich:  
-Ich denke da an das berühmte Schachbrett. Legt man auf das erste Quadrat eines Schachbretts ein Weizenkorn, auf das nächste die doppelte Menge, auf das darauffolgende die doppelte Menge des vorhergehenden usw. bräuchte man am Ende ungefähr 730 Mrd. Tonnen Weizen. Das entspricht etwa dem Tausendfachen der weltweiten Weizenernte eines Jahres. Und für die Ausführung des Projekts bräuchte man 585 Milliarden Jahre. Besser kann man Potenzrechnung nicht veranschaulichen.  
+*[[C1-Hoehen-T2-201-Text#^36|^]]* Ich denke da an das berühmte Schachbrett. ^36
+
+*[[C1-Hoehen-T2-201-Text#^37|^]]* Legt man auf das erste Quadrat eines Schachbretts ein Weizenkorn, auf das nächste die doppelte Menge, auf das darauffolgende die doppelte Menge des vorhergehenden usw. ^37
+
+*[[C1-Hoehen-T2-201-Text#^38|^]]* bräuchte man am Ende ungefähr 730 Mrd. ^38
+
+*[[C1-Hoehen-T2-201-Text#^39|^]]* Tonnen Weizen. ^39
+
+*[[C1-Hoehen-T2-201-Text#^40|^]]* Das entspricht etwa dem Tausendfachen der weltweiten Weizenernte eines Jahres. ^40
+
+*[[C1-Hoehen-T2-201-Text#^41|^]]* Und für die Ausführung des Projekts bräuchte man 585 Milliarden Jahre. ^41
+
+*[[C1-Hoehen-T2-201-Text#^42|^]]* Besser kann man Potenzrechnung nicht veranschaulichen. ^42
+ 
 
 ###### Moderator:  
-Interessant. Nun haben ja nicht alle Schülerinnen und Schüler das gleiche Lernniveau ...  
+*[[C1-Hoehen-T2-201-Text#^43|^]]* Interessant. Nun haben ja nicht alle Schülerinnen und Schüler das gleiche Lernniveau ... ^43
+
 
 ###### Frau Friedrich:  
-Genau da kann uns die Digitalisierung im Unterricht weiterhelfen. Die Lernenden sollen im Unterricht ein gemeinsames Grundprogramm absolvieren, so dass alle ein bestimmtes Level erreichen. Und die, die schneller und schon weiter im Verständnis sind, können am Computer ihren Lerntempo individuell angepasste weiterführende Aufgaben lösen.  
+*[[C1-Hoehen-T2-201-Text#^44|^]]* Genau da kann uns die Digitalisierung im Unterricht weiterhelfen. ^44
+
+*[[C1-Hoehen-T2-201-Text#^45|^]]* Die Lernenden sollen im Unterricht ein gemeinsames Grundprogramm absolvieren, so dass alle ein bestimmtes Level erreichen. ^45
+
+*[[C1-Hoehen-T2-201-Text#^46|^]]* Und die, die schneller und schon weiter im Verständnis sind, können am Computer ihren Lerntempo individuell angepasste weiterführende Aufgaben lösen. ^46
+
 
 ###### Moderator:  
-Sie haben ja in Ihrer Sendung immer wieder den Bezug zwischen der Geschichte der Mathematik und der Praxis hergestellt.  
+*[[C1-Hoehen-T2-201-Text#^47|^]]* Sie haben ja in Ihrer Sendung immer wieder den Bezug zwischen der Geschichte der Mathematik und der Praxis hergestellt. ^47
+
 
 ###### Frau Friedrich:  
-Ja, richtig. Das ist, wie gesagt, unglaublich wichtig. Ab einem bestimmten Alter sollte man den Kindern begreiflich machen, dass die Menschen nicht schon immer zählen konnten, dass es also eine Entwicklungsstufe in der Menschheitsgeschichte ist, die dem Schreiben vorausging. Man sollte mit den Schülerinnen und Schülern raus aus dem Schulgebäude gehen und den Satz des Thales oder Pythagoras anwenden, indem sie beispielsweise die Höhe eines Turmes oder Baumes bestimmen sollen. So entsteht der Aha-Effekt und dann macht Mathe auch Spaß.  
+*[[C1-Hoehen-T2-201-Text#^48|^]]* Ja, richtig. ^48
+
+*[[C1-Hoehen-T2-201-Text#^49|^]]* Das ist, wie gesagt, unglaublich wichtig. ^49
+
+*[[C1-Hoehen-T2-201-Text#^50|^]]* Ab einem bestimmten Alter sollte man den Kindern begreiflich machen, dass die Menschen nicht schon immer zählen konnten, dass es also eine Entwicklungsstufe in der Menschheitsgeschichte ist, die dem Schreiben vorausging. ^50
+
+*[[C1-Hoehen-T2-201-Text#^51|^]]* Man sollte mit den Schülerinnen und Schülern raus aus dem Schulgebäude gehen und den Satz des Thales oder Pythagoras anwenden, indem sie beispielsweise die Höhe eines Turmes oder Baumes bestimmen sollen. ^51
+
+*[[C1-Hoehen-T2-201-Text#^52|^]]* So entsteht der Aha-Effekt und dann macht Mathe auch Spaß. ^52
+
 
 ###### Moderator:  
-Frau Friedrich, ich bedanke mich für das interessante Gespräch.
+*[[C1-Hoehen-T2-201-Text#^53|^]]* Frau Friedrich, ich bedanke mich für das interessante Gespräch. ^53

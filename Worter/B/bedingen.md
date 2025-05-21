@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T2-102-Text#^25|^]]* Besonders wirkte Lac-Phe bei sogenannten Knock-out-Mäusen, in denen man genetisch [[bedingten]] chronischen Heißhunger [[ausgelöst]] hatte, [[geradezu]] einen chronischen Heißhunger, und sie legten selbst dann noch Gewicht zu, wenn sie nur im [[Laufrad]] [[bewegt]] wurden.
 
+*[[C1-Hoehen-T2-200-Text#^8|^]]* 14 Frau Avar [[behauptet]], dass Attraktivität und Karriere einander [[bedingen]]
+
 ---
 = [[verursachen]], [[auslösen]], [[zur Folge haben]], [[abhängen]],
 ≈ [[erfordern]], [[voraussetzen]], [[ermöglichen]]

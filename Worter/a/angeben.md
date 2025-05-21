@@ -1,7 +1,9 @@
 🗣️ [[angeben]], [ˈanˌɡeːbn̩](https://youglish.com/pronounce/angeben/german) → [[gab an]] → [[angegeben]]
 
 ---
-*[[C1-Lesen-T1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden. ^2
+*[[C1-Lesen-T1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden
+
+*[[C1-Hoehen-T2-200-Text#^28|^]]* Wir haben Studierenden Fotos von Männern und Frauen [[vorgelegt]] und die Probandinnen und Probanden mussten [[angeben]], wen sie für intelligent [[hielten]]
 
 
 ---

@@ -1,1 +1,1 @@
-, [[berühmt]], [[unscheinbar]], [[prächtig]], [[bemerkbar]], [[bemerkenswert]], [[eklatant]]
+, [[berühmt]], [[unscheinbar]], [[prächtig]], [[bemerkbar]], [[bemerkenswert]], [[eklatant]], [[ausgeprägt]]

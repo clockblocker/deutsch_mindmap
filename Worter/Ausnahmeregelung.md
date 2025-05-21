@@ -27,3 +27,5 @@ N: die [[Ausnahmeregelung]], die [[Ausnahmeregelungen]]
 A: die [[Ausnahmeregelung]], die [[Ausnahmeregelungen]]
 G: der [[Ausnahmeregelung]], der [[Ausnahmeregelungen]]
 D: der [[Ausnahmeregelung]], den [[Ausnahmeregelungen]]
+
+#Feminin 

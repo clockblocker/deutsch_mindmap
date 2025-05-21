@@ -1,1 +1,1 @@
-, [[unterschätzen]], [[letztendlich]], [[Qualitätszeit]]
+[[unterschätzen]]

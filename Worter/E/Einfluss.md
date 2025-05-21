@@ -37,4 +37,4 @@ D: dem [[Einfluss]], den [[Einflüssen]]
 , [[Stellenwert]], [[einfließen]], [[Umwelteinfluss]]
 
 
-#Maskulin 
+#Maskulin , [[Einflussfaktor]]

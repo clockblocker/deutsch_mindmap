@@ -6,6 +6,8 @@ haben [[gelohnt]]
 *[[C1-Lesen-T1-001-Text#^19|^]]* Es hat sich [[gelohnt]]: Aus einer Metallbox [[fällt]] ihr ein [[Leckerbissen]] vor die [[Füße]]. ^19
 
 
+*[[C1-Lesen-T4-103-Text#^20|^]]* [[Gewiss]]e äußere [[Einflussfaktor]]en führen [[womöglich]] dazu, dass sich das [[Beiseitelegen]] von Geld nicht mehr [[derart]] [[lohnt]] wie noch vor [[einig]]en Jahren
+
 Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
 
 *Ohne dich zähl ich die Stunden, ohne dich*  

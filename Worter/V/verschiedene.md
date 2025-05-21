@@ -6,11 +6,13 @@ nicht [[gleich]], nicht [[einheitlich]]
 ---
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
-*[[C1-Lesen-T4-102-Text#^21|^]]* Allerdings steigt dadurch auch der [[Kommunikationsaufwand]], da sich ja die [[verschiedenen]] Unternehmen gut [[untereinander]] [[abstimmen]] müssen. ^21
+*[[C1-Hoehen-T2-200-Text#^12|^]]* Wobei es uns nicht auf eine Definition von Intelligenz [[ankommt]], was sich `in` der [[Praxis]] als sehr schwierig [[gestaltet]], sondern auf die [[verschiedenen]] Arten der Intelligenz.
 
+*[[C1-Hoehen-T2-200-Text#^3|^]]* 9 Frau Avar hat [[herausgefunden]], dass eine hohe Intelligenz [[verschiedene]] Arten von Intelligenz [[voraussetzt]]
 
-*[[C1-Lesen-T2-100-Text#^6|^]]* Die [[verschiedenen]] [[Sprechweisen]] der Jugendlichen lassen sich deshalb linguistisch gesehen nicht als Sprache(n) [[bezeichnen]] , weil unter Sprache ein [[Zeichenefüge]] mit eigener Grammatik, differenziertem Wortschatz und normativer [[Gültigkeit]] verstanden wird. ^6
+*[[C1-Lesen-T4-102-Text#^21|^]]* Allerdings steigt dadurch auch der [[Kommunikationsaufwand]], da sich ja die [[verschiedenen]] Unternehmen gut [[untereinander]] [[abstimmen]] müssen.
 
+*[[C1-Lesen-T2-100-Text#^6|^]]* Die [[verschiedenen]] [[Sprechweisen]] der Jugendlichen lassen sich deshalb linguistisch gesehen nicht als Sprache(n) [[bezeichnen]] , weil unter Sprache ein [[Zeichenefüge]] mit eigener Grammatik, differenziertem Wortschatz und normativer [[Gültigkeit]] verstanden wird
 
 *[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
 

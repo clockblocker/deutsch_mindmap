@@ -25,4 +25,4 @@ inevitable, unavoidable
 Adjektive: [[unumgänglich]], [[unumgänglicher]], [[unumgänglichst]]
 
 ---
-[[unumgänglicher]], [[unumgängliches]], [[unumgängliche]], [[unumgänglichen]], [[unumgänglichem]], [[unumgänglicherer]], [[unumgänglicheres]], [[unumgänglichere]], [[unumgänglicheren]], [[unumgänglicherem]], [[unumgänglichster]], [[unumgänglichstes]], [[unumgänglichste]], [[unumgänglichsten]], [[unumgänglichstem]]
+[[unumgänglicher]], [[unumgängliches]], [[unumgängliche]], [[unumgänglichen]], [[unumgänglichem]], [[unumgänglicherer]], [[unumgänglicheres]], [[unumgänglichere]], [[unumgänglicheren]], [[unumgänglicherem]], [[unumgänglichster]], [[unumgänglichstes]], [[unumgänglichste]], [[unumgänglichsten]], [[unumgänglichstem]], [[zwangsläufig]]

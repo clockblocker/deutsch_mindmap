@@ -4,6 +4,7 @@ die [[Vorsichten]]
 ---
 Hey, [[Vorsicht]]! _[Sie sieht eine Sackgasse]_ Nach links, nach links!
 
+*[[C1-Hoehen-T2-200-Text#^36|^]]* Aber [[Vorsicht]]: Es wäre [[vermessen]] zu [[behaupten]], dass jemand, der intelligent [[aussieht]], es auch [[zwangsläufig]] ist
 
 ---
 Synonyme:

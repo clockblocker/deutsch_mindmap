@@ -24,4 +24,4 @@ Morphems:
 ---
 #Substantiv #Maskulin 
 
-, [[Schwachsinn]], [[Blödelei]]
+, [[Schwachsinn]], [[Blödelei]], [[Logikaufgabe]]

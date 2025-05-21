@@ -25,4 +25,4 @@ Morphems:
 [[Ur]][[Sache]]
 
 ---
-#Substantiv #Feminin,
+#Substantiv #Feminin,, [[Einflussfaktor]]

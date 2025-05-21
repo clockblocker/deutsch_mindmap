@@ -2,10 +2,10 @@
 
 *100 - 2023 Mit Erfolg Modellsätzen*
 - [x] [[C1-Hoehen-T2-100-Text|100]]
-- [ ] [[C1-Hoehen-T2-101-Text|101]]
+- [x] ~~[[C1-Hoehen-T2-101-Text|101]]~~
 
 *200 - 2023 Prüfungstraining*
-- [ ] [[C1-Hoehen-T2-200-Text|200]]
+- [x] [[C1-Hoehen-T2-200-Text|200]]
 - [ ] [[C1-Hoehen-T2-201-Text|201]]
 - [ ] [[C1-Hoehen-T2-202-Text|202]]
 - [ ] [[C1-Hoehen-T2-203-Text|203]]

@@ -2,7 +2,7 @@
 - [x] [[C1-Lesen-T4-100-Text|100]]
 - [x] [[C1-Lesen-T4-101-Text|101]]
 - [x] [[C1-Lesen-T4-102-Text|102]]
-- [ ] [[C1-Lesen-T4-103-Text|103]]
+- [x] [[C1-Lesen-T4-103-Text|103]]
 
 *200 - 2023 Prüfungstraining*
 - [ ] [[C1-Lesen-T4-200-Text|200]]

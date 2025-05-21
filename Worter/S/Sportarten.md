@@ -1,1 +1,1 @@
-, [[Worter/S/Sport]]
+, [[Worter/S/Sport]], [[Ausdauersportart]]

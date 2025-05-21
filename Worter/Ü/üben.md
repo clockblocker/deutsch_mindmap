@@ -6,6 +6,8 @@ haben [[geübt]]
 NIC: Sam- ich muss [[üben]]!
 [[Worter/Ü/Übung]]
 
+*[[C1-Hoehen-T2-200-Text#^22|^]]* Natürlich kann man `durch` [[Fleiß]] `und` [[Üben]] seine [[Fähigkeit]]en [[ausbauen]]
+
 Nein, es reicht! Ich hab diese Sequenz den ganzen Tag lang [[geübt]]. Bringt mir die nächste bei! Ich bin schon lange soweit
 
 ---
@@ -38,3 +40,5 @@ Morpheme: [[üb]][[en]]
 
 Partizip I: [[übend]], Partizip II: [[geübt]]
 , [[s1 e1]], [[üblich]], [[Übungsbuch]]
+
+#Maskulin 

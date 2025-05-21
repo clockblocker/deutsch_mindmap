@@ -1,4 +1,3 @@
-, [[studieren]]
 🔵 📚 das [[Worter/S/Studium]], [ˈʃtuːdi̯ʊm]
 die [[Studien]]
 
@@ -25,3 +24,5 @@ D: dem [[Worter/S/Studium]], den [[Studien]]
 
 ---
 [[studieren]], [[Studiengang]], [[Studienjahr]], [[Student]], [[studienorientiert]], [[Erlernung]], [[Studie]], [[Studienfach]], [[Studierendenwohnheim]], [[Studierendenwerk]], [[studienbegleitend]], [[MBA-Studium]], [[Studienvisum]]--> [[🗣️ Ingredient-Meinung]] <--
+
+#Neuter 

@@ -3,18 +3,16 @@
 ---
 *[[C1-Lesen-T2-102-Text#^9|^]]* [[Vorweg]]: Sport sollte so intensiv sein, dass das Muskelwachstum [[angeregt]] wird.
 
-c) wird der [[Stoffwechsel]] [[angeregt]].
-
-41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
-	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
-	- [ ] um [[wirtschaftlichen]] [[Wettbewerb]] [[anzuregen]]
-
 ###### Beim kurzen Intensivtraining ...
 c) wird der [[Stoffwechsel]] [[angeregt]].
 
+*[[C1-Hoehen-T2-200-Text#^50|^]]* Vielleicht zum Schluss noch ein Tipp: [[Ausdauersportart]]en [[fördern]] das [[Denkvermögen]] und die [[Merkfähigkeit]], denn es wird die Bildung neuer [[Blutgefäß]]e und [[Nervenzellenverbindungen]] [[angeregt]]
 
-*[[C1-Lesen-T2-101-Text#^25|^]]* Spielzeug soll [[anregen]] und helfen, die nächste [[Stufe]] der Entwicklung zu [[erobern]]. ^25
+Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
+- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
+- [ ] um [[wirtschaftlichen]] [[Wettbewerb]] [[anzuregen]]
 
+*[[C1-Lesen-T2-101-Text#^25|^]]* Spielzeug soll [[anregen]] und helfen, die nächste [[Stufe]] der Entwicklung zu [[erobern]]
 
 ---
 = [[inspirieren]], [[motivieren]], [[stimulieren]], [[vorschlagen]]

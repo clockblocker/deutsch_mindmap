@@ -2,7 +2,6 @@
 die [[Auszählungen]]
 
 ---
-
 115. Was bedeutet „aktives Wahlrecht“ in Deutschland? (85%)
 	- [x] Man kann wählen.
 	- [ ] Man muss zur [[Auszählung]] der Stimmen gehen.

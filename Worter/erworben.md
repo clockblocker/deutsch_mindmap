@@ -1,1 +1,1 @@
-[[erwerben]], [[Persönlichkeitsentwicklung]]
+[[erwerben]], [[Persönlichkeitsentwicklung]], [[angeboren]]

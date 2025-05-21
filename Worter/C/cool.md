@@ -1,1 +1,1 @@
-, [[ungeduldig]], [[entspannt]], [[aufgeregt]]
+, [[ungeduldig]], [[entspannt]], [[aufgeregt]], [[lässig]]

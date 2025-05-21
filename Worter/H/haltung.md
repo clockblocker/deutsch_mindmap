@@ -30,3 +30,4 @@ G: der [[Haltung]], der [[Haltungen]]
 D: der [[Haltung]], den [[Haltungen]]
 
 #Feminin 
+, [[Ausdruck]]

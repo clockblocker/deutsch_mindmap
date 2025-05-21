@@ -24,3 +24,5 @@ D: der [[Vorlesung]], den [[Vorlesungen]]
 
 ---
 [[vorlesen]], [[Vorlesender]], [[vorlesungsfrei]], [[Vorlesungsverzeichnis]], [[Vorlesungssaal]]
+
+#Feminin 

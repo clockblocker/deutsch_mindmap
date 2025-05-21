@@ -1,1 +1,1 @@
-, [[Erlernung]]
+, [[Erlernung]], [[aneignen]]

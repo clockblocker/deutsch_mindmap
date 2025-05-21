@@ -3,7 +3,11 @@
 ---
 Midorima to Taiga: Aber [[unterschätz]] mich nicht
 
+*[[C1-Hoehen-T2-200-Text#^23|^]]* Aber dennoch spielen die Gene eine nicht zu [[unterschätzende]] Rolle
+
 0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]. ✅ a
+
+*[[C1-Hoehen-T2-200-Text#^6|^]]* 12 Untersuchungen [[zeigten]], dass man die Intelligenz von Frauen [[unterschätzt]]
 
 *[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderung]]en [[unterschätzt]] werden ^32
 
@@ -13,11 +17,12 @@ Midorima to Taiga: Aber [[unterschätz]] mich nicht
 
 ---
 = [[nicht würdigen]], [[gering schätzen]], [[unterschätzen]]
-≈ [[herabsetzen]], [[geringschätzig sein]], [[nicht ernst nehmen]]
+≈ [[herabsetzen]], [[geringschätzig sein]], [[nicht ernst nehmen]], [[letztendlich]], [[Qualitätszeit]]
 ≠ [[überschätzen]], [[würdigen]], [[anerkennen]], [[respektieren]]
 
 ---
 to underestimate
+
 
 ---
 [[unter]]|[[schätzen]]
@@ -35,4 +40,4 @@ PI: [[unterschätzend]], PII: [[unterschätzt]], Zu+inf: [[unterschätzen]]
 [[unterschätzen]] - [[unter]] = [[schätzen]] / to underestimate
 
 ---
-[[Unterschätzung]], [[Schätzung]], [[einschätzen]], [[abschätzen]], [[überschätzen]], [[repräsentieren]], [[Vergleich]], [[überziehen]]
+[[Unterschätzung]], [[Schätzung]], [[einschätzen]], [[abschätzen]], [[überschätzen]], [[repräsentieren]], [[Vergleich]], [[überziehen]], [[einzuschätzen]], [[vermessen]]

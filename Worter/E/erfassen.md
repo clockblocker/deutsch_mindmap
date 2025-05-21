@@ -4,6 +4,8 @@
 *[[07-C1-Schreiben-T2-M#^10|^]]* Trotzdem muss ich Sie darauf [[hinweisen]], dass wir jetzt bei jedem unserer [[Arbeitsschritte]] die Zeiten [[manuell]] [[erfassen]] müssen, was bis zu 1,5 Stunden Arbeitszeit fehlt. ^10
 
 
+*[[C1-Hoehen-T2-200-Text#^17|^]]* Intelligenz lässt sich nicht nur an der [[Fähigkeit]] [[festmachen]], wie schnell man logische [[Zusammenhänge]] [[erfasst]]
+
 ---
 = [[erfassen]], [[erfassen]], [[registrieren]]
 ≈ [[aufnehmen]], [[verzeichnen]], [[dokumentieren]]

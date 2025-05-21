@@ -6,8 +6,9 @@ die [[Auffassungen]]
 ---
 *[[C1-Lesen-T4-100-Text#^25|^]]* Geschuldet ist diese [[Auffassung]] von Moderner Kunst der [[Tatsache]], dass die Künstlerinnen und Künstler nicht mehr [[naturgetreu]] darstellen mussten
 
-*[[C1-Hoehen-T2-100-Text#^20|^]]* Andere Wissenschaftler sehen das kritischer, da sie der [[Auffassung]] sind, bestimmte Sozialleistungen müssten auch nach [[Einführung]] des bedingungslosen Grundeinkommens [[bestehen]] bleiben. ^20
+*[[C1-Hoehen-T2-200-Text#^5|^]]* 11 In der Antike war man der [[Auffassung]], dass Intelligenz eng an natürliche [[Begabung]] [[gekoppelt]] ist
 
+*[[C1-Hoehen-T2-100-Text#^20|^]]* Andere Wissenschaftler sehen das kritischer, da sie der [[Auffassung]] sind, bestimmte Sozialleistungen müssten auch nach [[Einführung]] des bedingungslosen Grundeinkommens [[bestehen]] bleiben
 
 13 Hansen ist der [[Auffassung]], dass [[Unabhängigkeit]] auch eine [[Herausforderung]] sein kann.  
 

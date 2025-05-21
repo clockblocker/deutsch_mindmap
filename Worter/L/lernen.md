@@ -38,4 +38,4 @@ Morpheme: [[lern]][[en]]
 Partizip I: [[lernend]], Partizip II: [[gelernt]]
 
 [[lernen]] - [[en]] = [[lern]], [[ablehnen]], [[Weiterbildung]], [[erfahren]], [[Wiederholungskarte]], [[Erwachsenenanfängergruppe]], [[Erlernung]], [[lehren]], [[auswendig]]
-, [[kennenlernen]], [[Lernbereitschaft]], [[Zielsprache]], [[Klassenstufe]], [[spicken]]
+, [[kennenlernen]], [[Lernbereitschaft]], [[Zielsprache]], [[Klassenstufe]], [[spicken]], [[aneignen]], [[lernfähig]]

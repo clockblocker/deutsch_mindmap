@@ -4,6 +4,8 @@
 *[[01-C1-Schreiben-T2-M#^11|^]]* - Eröffnen Sie Ihr Schreiben höflich, [[indem]] Sie Verständnis für [[Sachzwänge]] [[zeigen]] ^11
 
 
+*[[C1-Hoehen-T2-200-Text#^6|^]]* 12 Untersuchungen [[zeigten]], dass man die Intelligenz von Frauen [[unterschätzt]]
+
 *[[C1-Lesen-T2-100-Text#^4|^]]* (2) [[Das zeigt sich]] in der Ausübung immer extremerer Sportarten, in [[skurrilen]] [[Kleidungsstilen]] und [[letztendlich]] auch in ausgefallenen [[Sprechweisen]]. ^4
 
 

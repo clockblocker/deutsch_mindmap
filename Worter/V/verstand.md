@@ -1,2 +1,2 @@
 [[verstehen]], [[Bewusstsein]]
-, [[Geist]], [[Gedächtnis]]
+, [[Geist]], [[Gedächtnis]], [[Intelligenzgrad]], [[Zahlenverständnis]], [[Klugheit]], [[Intelligenzquotient]], [[Denkvermögen]]

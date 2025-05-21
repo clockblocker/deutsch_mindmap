@@ -28,4 +28,4 @@ N: [[Auswärtiges]], [[auswärtigeres]], [[auswärtigstes]]
 P: [[auswärtigen]], [[auswärtigeren]], [[auswärtigsten]]  
 
 ---
-[[Auswärtiges]], [[auswärts]], [[Auswärtsspiel]], [[Auswärtsfahrt]], [[Außenbeziehungen]]
+[[Auswärtiges]], [[auswärts]], [[Auswärtsspiel]], [[Auswärtsfahrt]], [[Außenbeziehungen]], [[hiesig]]

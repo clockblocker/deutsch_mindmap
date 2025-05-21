@@ -29,4 +29,4 @@ PI: [[ausstoßend]], PII: [[ausgestoßen]], Zu+inf: [[auszustoßen]]
 [[ausstoßen]] - [[aus]] = [[stoßen]] / to expel, to emit, to banish
 
 ---
-[[Ausstoß]], [[Ausstoßung]], [[Ausschluss]], [[ausstoßbar]], [[abstoßen]]
+[[Ausstoß]], [[Ausstoßung]], [[Ausschluss]], [[ausstoßbar]], [[abstoßen]], [[aufsaugen]]

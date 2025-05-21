@@ -1,1 +1,1 @@
-, [[Häuflein]]
+, [[Häuflein]], [[anhäufen]]

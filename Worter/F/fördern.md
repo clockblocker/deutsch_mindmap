@@ -3,7 +3,11 @@
 🆙 [[fördern]], [ˈfœʁdɐn] | [[förderte]], haben [[gefördert]]
 
 ---
-[[M1A1.md#^1|^]] Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn?
+*[[M1A1.md#^1|^]]* Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn?
+
+*[[C1-Hoehen-T2-200-Text#^50|^]]* Vielleicht zum Schluss noch ein Tipp: [[Ausdauersportart]]en [[fördern]] das [[Denkvermögen]] und die [[Merkfähigkeit]], denn es wird die Bildung neuer [[Blutgefäße]] und [[Nervenzellenverbindungen]] [[angeregt]]
+
+*[[C1-Hoehen-T2-200-Text#^25|^]]* Es muss natürlich [[gefördert]] und motiviert werden
 
 *[[C1-Hoehen-T1-200-Text#^18|^]]* Doch gerade der Mensch macht dem Wald den [[Garaus]]: [[Verheerende]] [[Waldbrände]], von der Industrie [[geförderte]], [[rücksichtslose]] [[Rodungen]] und falsche Agrarökonomie führen zur [[Vernichtung]] des Waldes.
 
@@ -11,10 +15,9 @@
 
 Diskutieren Sie, wie ein [[bewusster]] Umgang mit digitalen Medien [[gefördert]] werden könnte.  
 
-
-1. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört nicht dazu? (93%)
-	- [x] Er bezahlt für alle [[Staatsangehörigen]] Urlaubsreisen.
-	- [ ] Er [[fördert]] Sportler und Sportlerinnen.
+Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört nicht dazu? (93%)
+- [x] Er bezahlt für alle [[Staatsangehörigen]] Urlaubsreisen.
+- [ ] Er [[fördert]] Sportler und Sportlerinnen.
 
 ---
 = [[unterstützen]], [[begünstigen]], [[helfen]]

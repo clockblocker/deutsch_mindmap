@@ -1,1 +1,1 @@
-, [[erinnern]], [[Gedächtnis]]
+, [[erinnern]], [[Gedächtnis]], [[Merkfähigkeit]]

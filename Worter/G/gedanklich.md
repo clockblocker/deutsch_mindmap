@@ -1,2 +1,2 @@
 , [[geistig]]
-, [[nachdenklich]]
+, [[nachdenklich]], [[Denkweise]]

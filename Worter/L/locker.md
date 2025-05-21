@@ -2,7 +2,9 @@
 nicht [[fest]]
 
 ---
-6. Wäsche [[locker]] und trocken einfüllen.
+*[[C1-Hoehen-T2-200-Text#^47|^]]* [[Logikaufgabe]]n können auch von älteren Menschen [[locker]] [[gelöst]] werden
+
+Wäsche [[locker]] und trocken einfüllen.
 
 Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
 
@@ -34,3 +36,4 @@ Einzigartige mögliche Formen:
 
 [[abgepackt]], [[streng]], [[trocken]], [[leicht]], [[entspannt]]
 
+, [[lässig]]

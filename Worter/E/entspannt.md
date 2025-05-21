@@ -1,2 +1,2 @@
 , [[bequem]], [[aufgebracht]], [[ausgeruht]], [[friedlich]], [[unruhig]], [[entspannen]]
-, [[zappelig]], [[anstrengend]], [[gemächlich]], [[schweißtreibend]]
+, [[zappelig]], [[anstrengend]], [[gemächlich]], [[schweißtreibend]], [[lässig]]

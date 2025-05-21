@@ -1,1 +1,1 @@
-, [[auswirken]]
+, [[auswirken]], [[Ausstrahlung]]

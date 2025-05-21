@@ -3,6 +3,8 @@
 ---
 Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern.
 
+*[[C1-Hoehen-T2-200-Text#^34|^]]* Aber ein längliches Gesicht allein oder eine bestimmte Nasenform [[ausreichen|reichen]] nicht aus, um jemanden als intelligent oder weniger intelligent [[einzuschätzen]]
+
 ---
 = [[genügen]], [[hinreichen]], [[langreichen]]
 ≈ [[suffizient]], [[reichlich]], [[adäquat]]

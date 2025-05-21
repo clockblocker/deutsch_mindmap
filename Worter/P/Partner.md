@@ -32,4 +32,4 @@ D: dem [[Partner]], den [[Partnern]]
 
 
 #Maskulin 
-, [[Auftraggeber]]
+, [[Auftraggeber]], [[Partnerwahl]]

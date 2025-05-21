@@ -43,4 +43,4 @@ D: der [[Aufgabe]], den [[Aufgaben]]
 , [[Schularbeit]]
 , [[aufmachen]], [[Erhalt]], [[bestreben]], [[Aufgabenerfüllung]], [[Aufgabengerechtigkeit]], [[Anhieb]], [[Anhieb]], [[Projekt]]
 
-#Feminin , [[Arbeitsschritt]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Verzicht]], [[Mühe]]
+#Feminin , [[Arbeitsschritt]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Verzicht]], [[Mühe]], [[Logikaufgabe]]

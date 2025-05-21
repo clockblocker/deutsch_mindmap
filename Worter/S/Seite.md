@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Seite]], [[Seiten]], [[Seite]], [[Seiten]], [[Seite]], [[Seiten]], [[Seite]], [[Seiten]]
 
 ---
-#Substantiv #Feminin, [[Rückseite]], [[Seitenzahlen]], [[seinerseits]], [[einerseits]], [[Aspekt]], [[beseitigen]]
+#Substantiv #Feminin, [[Rückseite]], [[Seitenzahlen]], [[seinerseits]], [[einerseits]], [[Aspekt]], [[beseitigen]], [[Beiseitelegen]]

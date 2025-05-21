@@ -105,4 +105,4 @@ PI: [[entstehend]], PII: [[entstanden]], Zu+inf: [[entstehen]]
 
 ---
 [[Entstehung]], [[Entstehungsgeschichte]], [[Entstehungsjahr]], [[entstehend]], [[entstanden]]
-, [[verschwinden]], [[resultieren]], [[sprießen]], [[anfallen]]
+, [[verschwinden]], [[resultieren]], [[sprießen]], [[anfallen]], [[hineingeboren]]

@@ -25,4 +25,4 @@ N: [[zwangsweises]], [[zwangsweiseres]], [[zwangsweisestes]]
 P: [[zwangsweisen]], [[zwangsweiseren]], [[zwangsweisesten]]  
 
 ---
-[[Zwang]], [[zwingen]], [[Zwangsmaßnahme]], [[zwangshaft]], [[Zwangsarbeit]]
+[[Zwang]], [[zwingen]], [[Zwangsmaßnahme]], [[zwangshaft]], [[Zwangsarbeit]], [[zwangsläufig]]

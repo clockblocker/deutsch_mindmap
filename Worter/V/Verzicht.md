@@ -6,8 +6,7 @@
 ---
 = [[Entsagung]], [[Aufgabe]], [[Verzichtleistung]]
 ≈ [[Abstand]], [[Verzichtserklärung]], [[Resignation]]
-≠ [[Annahme]], [[Beanspruchung]], [[Forderung]]
-, [[Anspruch]], [[Versicherungspflicht]], [[unverzichtbar]], [[Erwerb]], [[verzichten]]
+≠ [[Annahme]], [[Beanspruchung]], [[Forderung]], [[Anspruch]], [[Versicherungspflicht]], [[unverzichtbar]], [[Erwerb]], [[verzichten]]
 
 ---
 renunciation, waiver  

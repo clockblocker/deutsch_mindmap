@@ -3,7 +3,9 @@
 📏 [[grob]], [ɡʁoːp](https://youglish.com/pronounce/grob/german)
 
 ---
+*[[C1-Lesen-T4-103-Text#^25|^]]* Trotzdem finde ich es [[grob]] [[fahrlässig]], jetzt einfach nicht mehr zu sparen und nur noch zu konsumieren
 
+[[Grobplanung]]
 
 ---
 = [[ungefähr]], [[ungezählt]], [[schätzungsweise]]

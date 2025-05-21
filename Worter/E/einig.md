@@ -1,6 +1,8 @@
 1️⃣ [[einig]], [ˈaɪ̯nɪç]
 
 ---
+*[[C1-Lesen-T4-103-Text#^20|^]]* [[Gewiss]]e äußere [[Einflussfaktor]]en führen [[womöglich]] dazu, dass sich das [[Beiseitelegen]] von Geld nicht mehr [[derart]] [[lohnt]] wie noch vor [[einig]]en Jahren
+
 [[Artikelwörter.md#^2|^]] - [[Manche]] – *Manche Kinder spielen Fußball gern.*
 - [[Einige]] – *Einige Kinder spielen Volleyball gern.* ^2
  

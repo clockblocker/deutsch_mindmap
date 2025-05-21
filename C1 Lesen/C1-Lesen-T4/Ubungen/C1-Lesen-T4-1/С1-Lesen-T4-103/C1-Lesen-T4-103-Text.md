@@ -4,13 +4,13 @@
 
 0 Trotz [[niedriger]] [[Zinsen]] sparen einige Bürgerinnen und Bürger immer noch. ✅ a
 
-24 Unsere [[Gesellschaft]] [[vergeudet]] [[Geld]]er und ist gleichzeitig hoch [[verschuldet]].  
-25 In der Zukunft wird Sparen wieder attraktiver werden.  
-26 Der [[Verzicht]] aufs Sparen ist nicht [[vertretbar]].  a?
-27 Die [[Vertreter]] des Staates [[befürworten]] den [[übermäßig]]en [[Konsum]].   a!
-28 Schon früher wurde das Thema *Sparen* [[konträr]] diskutiert.  a!
-29 Es gibt interessante Alternativen zum Sparen.  
-30 Das [[Desinteresse]] am Sparen [[betrifft]] nicht nur den [[Finanzbereich]].
+24 Unsere [[Gesellschaft]] [[vergeudet]] [[Geld]]er und ist gleichzeitig hoch [[verschuldet]] 
+25 In der Zukunft wird Sparen wieder attraktiver werden.
+26 Der [[Verzicht]] aufs Sparen ist nicht [[vertretbar]]. 
+27 Die [[Vertreter]] des Staates [[befürworten]] den [[übermäßig]]en [[Konsum]].
+28 Schon früher wurde das Thema *Sparen* [[konträr]] diskutiert.
+29 Es gibt interessante Alternativen zum Sparen. 
+30 Das [[Desinteresse]] am Sparen [[betrifft]] nicht nur den [[Finanzbereich]]
 
 ---
 
@@ -45,13 +45,31 @@
 
 *[[C1-Lesen-T4-103-Text#^13|^]]* Aber auch im [[Umgang]] mit Umwelt und Ressourcen fehlt es uns am [[Wille]]n zu sparen. ^13
 
-*[[C1-Lesen-T4-103-Text#^14|^]]* Und die Politikerinnen und Politiker wissen schon lange: Jede Sparmaßnahme kann [[Wählerstimme]]n kosten, also werden Gelder verschwendet. ^14
+*[[C1-Lesen-T4-103-Text#^14|^]]* Und die Politikerinnen und Politiker wissen schon lange: Jede Sparmaßnahme kann [[Wählerstimme]]n kosten, also werden Gelder [[verschwendet]]. ^14
 
-*[[C1-Lesen-T4-103-Text#^15|^]]* Die rasch wachsende Wirtschaft brachte zwar den Massenwohlstand. ^15
+*[[C1-Lesen-T4-103-Text#^15|^]]* Die rasch wachsende Wirtschaft [[brachte]] [[zwar]] den [[Massenwohlstand]]. ^15
 
-*[[C1-Lesen-T4-103-Text#^16|^]]* Doch ist unserem System auf vielen Ebenen die Nachhaltigkeit verloren gegangen. ^16
+*[[C1-Lesen-T4-103-Text#^16|^]]* Doch ist unserem System auf vielen [[Ebene]] die [[Nachhaltigkeit]] verloren gegangen. ^16
 
 
 ###### c Dr. Torsten Iwersen, Investmentanalyst
 
-Sparen ist wichtig! Das ist eine Überzeugung, die die älteren Deutschen bereits mit der Muttermilch aufgesogen haben. Es gehört automatisch zur Altersvorsorge dazu und soll auch vor unvorhergesehenen Ereignissen schützen. Gewisse äußere Einflussfaktoren führen womöglich dazu, dass sich das Beiseitelegen von Geld nicht mehr derart lohnt wie noch vor einigen Jahren. Mit Zinsen ist es schließlich vorbei. Kein Zweifel: Immer wenn die Inflation ansteigt, sind Investoren verunsichert, denn das Geld, das nur auf der Bank liegt, verliert Jahr für Jahr an Wert. Man wird nicht mehr für das Sparen in Form von Zinsen und Rendite belohnt, sondern sogar bestraft, weil man es wagt, ein Vermögen anzuhäufen. Somit scheint Konsum oder Schulden zu machen die bessere Alternative zu sein. Trotzdem finde ich es grob fahrlässig, jetzt einfach nicht mehr zu sparen und nur noch zu konsumieren. Wir müssen mit den sich verändernden Zeiten neue Wege finden, um altbekannte Probleme zu lösen.
+*[[C1-Lesen-T4-103-Text#^17|^]]* Sparen ist wichtig! ^17
+
+*[[C1-Lesen-T4-103-Text#^18|^]]* Das ist eine Überzeugung, die die älteren Deutschen [[bereits]] mit der Muttermilch [[aufgesogen]] haben. ^18
+
+*[[C1-Lesen-T4-103-Text#^19|^]]* Es gehört automatisch zur [[Altersvorsorge]] dazu und soll auch vor [[unvorhergesehen]]en [[Ereignis]]sen schützen. ^19
+
+*[[C1-Lesen-T4-103-Text#^20|^]]* [[Gewiss]]e äußere [[Einflussfaktor]]en führen [[womöglich]] dazu, dass sich das [[Beiseitelegen]] von Geld nicht mehr [[derart]] [[lohnt]] wie noch vor [[einig]]en Jahren. ^20
+
+*[[C1-Lesen-T4-103-Text#^21|^]]* Mit [[Zins]]en ist es schließlich vorbei. ^21
+
+*[[C1-Lesen-T4-103-Text#^22|^]]* Kein [[Zweifel]]: Immer wenn die Inflation ansteigt, sind Investoren [[verunsichert]], denn das Geld, das nur auf der Bank liegt, verliert Jahr für Jahr an Wert. ^22
+
+*[[C1-Lesen-T4-103-Text#^23|^]]* Man wird nicht mehr für das Sparen in Form von [[Zins]]en und [[Rendite]] [[belohnt]], sondern sogar bestraft, weil man es wagt, ein Vermögen [[anzuhäufen]]. ^23
+
+*[[C1-Lesen-T4-103-Text#^24|^]]* [[Somit]] [[scheint]] Konsum oder Schulden zu machen die bessere Alternative zu sein. ^24
+
+*[[C1-Lesen-T4-103-Text#^25|^]]* Trotzdem finde ich es [[grob]] [[fahrlässig]], jetzt einfach nicht mehr zu sparen und nur noch zu konsumieren. ^25
+
+*[[C1-Lesen-T4-103-Text#^26|^]]* Wir müssen mit den sich [[verändernden]] Zeiten neue Wege finden, um altbekannte Probleme zu lösen. ^26

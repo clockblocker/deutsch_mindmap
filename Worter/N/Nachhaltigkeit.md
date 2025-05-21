@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-202-Text#^17|^]]* So werden [[Nachhaltigkeit]] und damit Klimaschutz [[erlebbar]]
 
+*[[C1-Lesen-T4-103-Text#^16|^]]* Doch ist unserem System auf vielen [[Ebene]]n die [[Nachhaltigkeit]] verloren gegangen
+
 *[[C1-Hoehen-T1-202-Text#^22|^]]* Interessant war für mich dabei zu [[erfahren]], dass sich schon römische Kaiser für [[Nachhaltigkeit]] [[ausgesprochen]] hatten
 
 ---

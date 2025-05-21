@@ -1,1 +1,1 @@
-, [[abmessen]], [[messbar]], [[Messer]], [[messe]]
+, [[abmessen]], [[messbar]], [[Messer]], [[messe]], [[gemessen]], [[vermessen]]

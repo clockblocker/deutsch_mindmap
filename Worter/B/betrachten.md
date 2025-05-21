@@ -4,11 +4,11 @@
 ---
 Ich [[betrachte]] diese [[Aussage]] als nicht relevant
 
-*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^5|^]]* Zunächst einmal sollte man sich selbst fragen: „Was ist mir persönlich wichtig?“, weiter, in [[Hinblick]] auf einen beruflichen Wechsel, sollte man sich auf persönliche Fragen wie die beruflichen Chancen auf persönliches [[Wachstum]], [[Weiterbildung]] und [[zusätzliche]] Qualifikationen hat, auch das [[Gehalt]] sollte man im [[Vergleich]] zum [[jetzigen]] [[Bruttojahresgehalt]] genauer [[betrachten]]. ^5
+*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^5|^]]* Zunächst einmal sollte man sich selbst fragen: „Was ist mir persönlich wichtig?“, weiter, in [[Hinblick]] auf einen beruflichen Wechsel, sollte man sich auf persönliche Fragen wie die beruflichen Chancen auf persönliches [[Wachstum]], [[Weiterbildung]] und [[zusätzliche]] Qualifikationen hat, auch das [[Gehalt]] sollte man im [[Vergleich]] zum [[jetzigen]] [[Bruttojahresgehalt]] genauer [[betrachten]]
 
+*[[C1-Hoehen-T2-200-Text#^4|^]]* 10 Die verschiedenen Arten von Intelligenz müssen in ihrer Interaktion [[betrachtet]] werden
 
-*[[3 Soll man Geld spenden?#^4|^]]* Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja". ^4
-
+*[[3 Soll man Geld spenden?#^4|^]]* Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - `eindeutig | deutlich | bestimmt` ja"
 
 [[2 Unter Druck nach oben#^19|^]] Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]. ^19
 
@@ -41,4 +41,4 @@ PI: [[betrachtend]], PII: [[betrachtet]], Zu+inf: [[zu betrachten]]
 
 
 [[ansehen]], [[lesen]], [[sehen]], [[gucken]], [[angucken]], [[schauen]], [[mustern]], [[anschauen]], [[anblicken]], [[berücksichtigen]]
-, [[zugucken]], [[Hinsicht]], [[beträchtlich]], [[betreuen]], [[Betrachtungsweise]], [[hinschauen]]
+, [[zugucken]], [[Hinsicht]], [[beträchtlich]], [[betreuen]], [[Betrachtungsweise]], [[hinschauen]], [[umschauen]]

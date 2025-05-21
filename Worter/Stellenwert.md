@@ -3,6 +3,8 @@
 ---
 die Frage, was KI alles leisten kann und welchen [[Stellenwert]] sie in unserer Gesellschaft einnehmen soll, finde ich auch sehr spannend.
 
+*[[C1-Hoehen-T2-200-Text#^26|^]]* Aber darüber [[streitet]] ja die Wissenschaft schon seit der Antike: Welchen [[Stellenwert]] [[genießt]] das [[angeborene]] Talent und welche Rolle spielt die [[Umgebung]], in die das Kind [[hineingeboren]] wird?
+
 ---
 = [[Bedeutung]], [[Wichtigkeit]], [[Relevanz]]
 ≈ [[Wert]], [[Gewicht]], [[Signifikanz]], [[Einfluss]]

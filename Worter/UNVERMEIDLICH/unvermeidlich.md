@@ -1,1 +1,1 @@
-, [[unumgänglich]]
+, [[unumgänglich]], [[zwangsläufig]]

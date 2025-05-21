@@ -1,1 +1,1 @@
-, [[Behandlung]], [[Vorbeugung]], [[Symptombehandlung]]
+, [[Behandlung]], [[Vorbeugung]], [[Symptombehandlung]], [[Praxis]]

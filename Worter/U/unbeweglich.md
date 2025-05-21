@@ -1,2 +1,2 @@
 , [[wenden]], [[wendig]]
-, [[motorische]], [[flexibel]]
+, [[motorische]], [[flexibel]], [[kinästhetisch]]

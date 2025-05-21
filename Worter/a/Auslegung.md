@@ -23,4 +23,4 @@ G: der [[Auslegung]], der [[Auslegungen]]
 D: der [[Auslegung]], den [[Auslegungen]]  
 
 ---
-[[auslegen]], [[auslegen]], [[interpretieren]], [[deuten]], [[erklären]]
+[[auslegen]], [[auslegen]], [[interpretieren]], [[deuten]], [[erklären]], [[Begriffsbestimmung]]

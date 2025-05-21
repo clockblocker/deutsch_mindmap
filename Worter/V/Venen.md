@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Vene]], [[Venen]], [[Venen]], [[Venen]]
 
 ---
-#Substantiv #Feminin[[drücken]]
+#Substantiv #Feminin[[drücken]], [[Blutgefäß]]

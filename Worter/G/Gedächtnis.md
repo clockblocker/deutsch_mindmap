@@ -29,4 +29,4 @@ G: des [[Gedächtnisses]], der [[Gedächtnisse]]
 D: dem [[Gedächtnis]], den [[Gedächtnissen]]
 
 
-#Neuter 
+#Neuter , [[Merkfähigkeit]]

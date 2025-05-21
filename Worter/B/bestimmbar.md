@@ -1,1 +1,1 @@
-, [[messbar]], [[bestimmt]], [[bestimmen]]
+, [[messbar]], [[bestimmt]], [[bestimmen]], [[Begriffsbestimmung]]

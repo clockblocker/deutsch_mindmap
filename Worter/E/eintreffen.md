@@ -1,1 +1,1 @@
-, [[kommen]], [[einreisen]], [[Ankunft]], [[treffen]], [[landen]]
+, [[kommen]], [[einreisen]], [[Ankunft]], [[treffen]], [[landen]], [[ankommen]]

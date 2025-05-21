@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 🤦‍♀️ 🔴 die [[Nachlässigkeit]], [ˈnaːxˌlɛsɪçkaɪ̯t]
 die [[Nachlässigkeiten]] nicht [[Sorgfalt]]
 
@@ -29,4 +31,5 @@ N: die [[Nachlässigkeit]], die [[Nachlässigkeiten]]
 A: die [[Nachlässigkeit]], die [[Nachlässigkeiten]]  
 G: der [[Nachlässigkeit]], der [[Nachlässigkeiten]]  
 D: der [[Nachlässigkeit]], den [[Nachlässigkeiten]]
---> [[🗣️ Ingredient-Meinung]] <--
+
+#Feminin 

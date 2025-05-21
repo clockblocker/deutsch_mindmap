@@ -1,2 +1,2 @@
 , [[fest]], [[Herausforderung]]
-, [[Feier]], [[Kreativität]], [[Alltag]]
+, [[Feier]], [[Kreativität]], [[Alltag]], [[Praxis]]

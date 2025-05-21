@@ -1,1 +1,1 @@
-, [[vergessen]]
+, [[vergessen]], [[Merkfähigkeit]]

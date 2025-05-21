@@ -1,1 +1,1 @@
-, [[schätzen]], [[unterschätzen]]
+, [[schätzen]], [[unterschätzen]], [[einzuschätzen]], [[einschätzen]]

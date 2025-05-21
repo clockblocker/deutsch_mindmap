@@ -1,1 +1,1 @@
-, [[Gestalt]], [[Vorschein]]
+, [[Gestalt]], [[Vorschein]], [[Ausdruck]], [[Ausstrahlung]]

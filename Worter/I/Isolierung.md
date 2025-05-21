@@ -1,1 +1,1 @@
-, [[Abschottung]], [[Zusammenhang]], [[Strom]], [[Wärmedämmung]]
+, [[Abschottung]], [[Zusammenhang]], [[Strom]], [[Wärmedämmung]], [[Wechselwirkung]], [[Nervenzellenverbindung]]

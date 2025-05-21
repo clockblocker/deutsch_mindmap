@@ -1,2 +1,2 @@
 [[schauen]]  
-, [[hinschauen]]
+, [[hinschauen]], [[umschauen]]

@@ -2,50 +2,50 @@
 
 ---
 
-7. Frau Friedrich kritisiert die Art der Vermittlung mathematischer Kenntnisse.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+7 Frau Friedrich kritisiert die Art der Vermittlung mathematischer Kenntnisse.  
+- [ ] a stimmt ?  
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  
 
-8. Frau Friedrich findet, dass durch digitales Lernen die Realität verfälscht wird.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+8 Frau Friedrich findet, dass durch digitales Lernen die Realität verfälscht wird.  
+- [ ] a stimmt?
+- [ ] b stimmt nicht ?
+- [ ] c dazu wird nichts gesagt
 
-9. Die Regierung sollte den Lehrerberuf angemessen honorieren.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+9 Die Regierung sollte den Lehrerberuf angemessen honorieren.  
+- [ ] a stimmt  
+- [ ] b stimmt nicht 
+- [ ] c dazu wird nichts gesagt  
 
-10. Es gibt Jugendliche, die das Abstraktionsvermögen mit steigendem Alter verlieren.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+10 Es gibt Jugendliche, die das Abstraktionsvermögen mit steigendem Alter verlieren.
+- [ ] a stimmt  
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  ?
 
-11. Defizite im Fach Mathematik sind auch zeitlichen Restriktionen geschuldet.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+11 Defizite im Fach Mathematik sind auch zeitlichen Restriktionen geschuldet.  
+- [ ] a stimmt 
+- [ ] b stimmt nicht 
+- [ ] c dazu wird nichts gesagt ?
 
-12. Im Lehramtsstudium sollte vermittelt werden, dass es unterschiedliche Lerntypen gibt.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+12 Im Lehramtsstudium sollte vermittelt werden, dass es unterschiedliche Lerntypen gibt.  
+- [ ] a stimmt  
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  
 
-13. Frau Friedrich arbeitet mit Schülerinnen und Schülern an einem Projekt zur Berechnung der jährlichen Weizenernte.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+13 Frau Friedrich arbeitet mit Schülerinnen und Schülern an einem Projekt zur Berechnung der jährlichen Weizenernte.  
+- [ ] a stimmt  ?
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  
 
-14. Frau Friedrich plädiert für die individuelle Förderung einzelner Lernender innerhalb der Lerngruppe.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+14 Frau Friedrich plädiert für die individuelle Förderung einzelner Lernender innerhalb der Lerngruppe.  
+- [ ] a stimmt  ?
+- [ ] b stimmt nicht  
+- [ ] c   wird nichts gesagt  
 
-15. Schreiben und Rechnen sind geschichtlich gesehen parallel entstanden.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
+15 Schreiben und Rechnen sind geschichtlich gesehen parallel entstanden.  
+- [ ] a stimmt  
+- [ ] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  
 
 ----
 
@@ -104,7 +104,7 @@ Genau da kann uns die Digitalisierung im Unterricht weiterhelfen. Die Lernenden 
 Sie haben ja in Ihrer Sendung immer wieder den Bezug zwischen der Geschichte der Mathematik und der Praxis hergestellt.  
 
 ###### Frau Friedrich:  
-Ja, richtig. Das ist, wie gesagt, unglaublich wichtig. Ab einem bestimmten Alter sollte man den Kindern begreiflich machen, dass die Menschen nicht schon immer zählen konnten, dass es also eine Entwicklungsstufe in der Menschheitsgeschichte ist, die dem Schreiben vorausging. Man sollte mit den Schülerinnen und Schülern raus aus dem Schulgebäude gehen und den Satz des Thales oder Pythagoras anwenden, indem sie beispielsweise die Höhe eines Turmes oder Baumes bestimmen sollen. So entsteht der Aha-Effekt und dann macht Mathe auch Spaß. 
+Ja, richtig. Das ist, wie gesagt, unglaublich wichtig. Ab einem bestimmten Alter sollte man den Kindern begreiflich machen, dass die Menschen nicht schon immer zählen konnten, dass es also eine Entwicklungsstufe in der Menschheitsgeschichte ist, die dem Schreiben vorausging. Man sollte mit den Schülerinnen und Schülern raus aus dem Schulgebäude gehen und den Satz des Thales oder Pythagoras anwenden, indem sie beispielsweise die Höhe eines Turmes oder Baumes bestimmen sollen. So entsteht der Aha-Effekt und dann macht Mathe auch Spaß.  
 
 ###### Moderator:  
 Frau Friedrich, ich bedanke mich für das interessante Gespräch.

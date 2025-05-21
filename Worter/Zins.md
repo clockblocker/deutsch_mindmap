@@ -3,6 +3,8 @@
 ---
 0 Trotz [[niedriger]] [[Zinsen]] sparen einige Bürgerinnen und Bürger immer noch. ✅ a
 
+*[[C1-Lesen-T4-103-Text#^21|^]]* Mit [[Zinsen]] ist es schließlich vorbei
+
 ---
 = [[Zinssatz]], [[Verzinsung]]
 ≈ [[Kredit]], [[Geld]], [[Kapital]]

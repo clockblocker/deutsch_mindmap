@@ -1,27 +1,29 @@
-🟢 📋 das [[Garantiebestimmung]], [ɡaʁanˈtiːbəˌʃtɪmʊŋ]
-die [[Garantiebestimmungen]]
+📜 [[Garantiebestimmung]], [ɡaˈʁantiːbəˌʃtɪmʊŋ](https://youglish.com/pronounce/Garantiebestimmung/german)
 
 ---
-
 Meine Frage [[bezieht]] sich [[Worter/A/auf]] die [[Garantiebestimmungen]].
 
 ---
-= [[Gewährleistungsbedingungen]], [[Garantiebedingungen]]
-≈ [[Vertragsbestimmungen]], [[Garantieerklärung]], [[Garantieregelungen]]
-≠ [[Kaufbedingungen]], [[Rückgaberecht]], [[Kulanzregelung]]
+= [[Garantiebedingungen]], [[Gewährleistungsbestimmung]]
+≈ [[Garantieerklärung]], [[Rechtsvorschrift]], [[Bedingung]]
+≠ [[Ausschluss]], [[Verzicht]]
 
 ---
-warranty terms, guarantee conditions
+warranty provision, warranty clause  
+гарантийное положение, условие гарантии
 
 ---
-[[Garantie]]+[[Bestimmungen]]
-[[Ga]]|[[ran]]|[[tie]]|[[Be]]|[[stim]]|[[mung]]|[[en]]
+[[Garantie]], [[bestimmen]], [[Bedingung]], [[Gewährleistung]]
 
 ---
-N: das [[Garantiebestimmung]], die [[Garantiebestimmungen]]  
-A: das [[Garantiebestimmung]], die [[Garantiebestimmungen]]  
-G: des [[Garantiebestimmungs]], der [[Garantiebestimmungen]]  
-D: dem [[Garantiebestimmung]], den [[Garantiebestimmungen]]  
+[[Garantie]]|[[bestimmung]]
+[[Garantie]] + [[Bestimmung]]
+
 
 ---
-[[garantieren]], [[Garantie]], [[Bestimmung]], [[Vertragsbestimmungen]], [[Garantieleistung]]
+N: die [[Garantiebestimmung]], die [[Garantiebestimmungen]]
+A: die [[Garantiebestimmung]], die [[Garantiebestimmungen]]
+G: der [[Garantiebestimmung]], der [[Garantiebestimmungen]]
+D: der [[Garantiebestimmung]], den [[Garantiebestimmungen]]
+
+#Feminin 

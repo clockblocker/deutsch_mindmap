@@ -1,1 +1,1 @@
-, [[Wahllokals]], [[auswärtig]], [[einheimisch]], [[heimisch]], [[Restaurant]], [[weltweit]]
+, [[Wahllokals]], [[auswärtig]], [[einheimisch]], [[heimisch]], [[Restaurant]], [[weltweit]], [[hiesig]]

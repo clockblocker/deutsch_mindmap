@@ -5,6 +5,9 @@
 ---
 Du musst nicht noch einkaufen gehen, ich habe es [[bereits]] [[erledigt]].
 
+*[[C1-Lesen-T4-103-Text#^18|^]]* Das ist eine Überzeugung, die die älteren Deutschen [[bereits]] mit der Muttermilch [[aufgesogen]] haben. ^18
+
+
 *[[C1-Hoehen-T1-100-Text#^1|^]]* Das erste Buch, das ich [[empfehlen]] möchte, [[stammt]] von Helene Schmidt, die [[bereits]] als Autorin vieler spannender Frankfurt [[Krimis]] bekannt geworden ist. ^1
 
 

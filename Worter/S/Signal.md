@@ -1,2 +1,2 @@
 , [[Zeichen]], [[Leuchtrakete]], [[Klingelbeil]]🟢 das [[Signal]] 📣
-#Neuter , [[aussenden]], [[Funk]]
+#Neuter , [[aussenden]], [[Funk]], [[Indiz]]

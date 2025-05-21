@@ -30,4 +30,4 @@ D: der [[Scheidung]], den [[Scheidungen]]
 [[scheiden]], [[scheidend]], [[geschieden]], [[Geschiedene]], [[Scheidungsgrund]], [[Scheidungsklage]]
 
 , [[Heiratsantrag]], [[Ehescheidung]], [[Hochzeit]]
-, [[Vermengung]]
+, [[Vermengung]], [[Partnerwahl]]

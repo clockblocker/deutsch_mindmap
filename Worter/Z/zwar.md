@@ -3,6 +3,8 @@
 ---
 Wir kommen am Nachmittag an, und [[zwar]] um 14:37 Uhr.
 
+*[[C1-Lesen-T4-103-Text#^15|^]]* Die rasch wachsende Wirtschaft [[brachte]] [[zwar]] den [[Massenwohlstand]]
+
 *[[C1-Hoehen-T1-203-Text#^14|^]]* In den meisten Profisportarten werden [[zwar]] [[mittlerweile]] gleiche Preisgelder auf Top-Niveau gezahlt
 
 *[[C1-Hoehen-T1-202-Text#^26|^]]* Heute fordern die [[Vereinten]] Nationen eine Entwicklung beim Klimaschutz, die den [[Erfordernis]]sen der heutigen Generationen [[zwar]] [[entspricht]], ohne jedoch die Bedürfnisse künftiger Generationen zu [[gefährden]]

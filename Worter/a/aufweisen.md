@@ -1,8 +1,9 @@
 ✅ [[aufweisen]], [ˈaʊ̯fˌvaɪ̯zn̩](https://youglish.com/pronounce/aufweisen/german) → [[wies auf]] → haben [[aufgewiesen]]
 
 ---
-*[[C1-Lesen-T4-101-Text#^17|^]]* Unsere sensorischen und kognitiven [[Fähigkeit]]en kann keine Maschine [[aufweisen]]. ^17
+*[[C1-Lesen-T4-101-Text#^17|^]]* Unsere sensorischen und kognitiven [[Fähigkeit]]en kann keine Maschine [[aufweisen]]
 
+*[[C1-Hoehen-T2-200-Text#^44|^]]* Ich denke [[vielmehr]], dass [[Vorgesetzte]] bestimmte [[Fähigkeit]]en [[aufweisen]], die sie für diesen Posten eher qualifizieren: [[Fachwissen]], [[Ausstrahlung]], [[Durchsetzungsvermögen]] usw
 
 ---
 = [[zeigen]], [[darlegen]], [[präsentieren]], [[ergeben]]

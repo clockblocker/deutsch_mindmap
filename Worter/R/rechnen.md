@@ -41,4 +41,4 @@ Morpheme: [[rechn]][[en]]
 
 Partizip I: [[rechnend]], Partizip II: [[gerechnet]]
 , [[bitten]], [[schmieren]]
-, [[ausrechnen]], [[Modellrechnung]], [[ausgerechnet]]
+, [[ausrechnen]], [[Modellrechnung]], [[ausgerechnet]], [[Zahlenverständnis]]

@@ -1,1 +1,1 @@
-, [[Übersetzung]], [[übertragen]], [[Funk]]
+, [[Übersetzung]], [[übertragen]], [[Funk]], [[Ausstrahlung]]

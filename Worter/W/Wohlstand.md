@@ -29,4 +29,4 @@ A: den [[Wohlstand]], die [[Wohlstände]]
 G: des [[Wohlstandes]], der [[Wohlstände]]  
 D: dem [[Wohlstand]], den [[Wohlständen]]
 
-#Maskulin 
+#Maskulin , [[Massenwohlstand]]

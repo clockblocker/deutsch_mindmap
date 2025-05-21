@@ -24,4 +24,4 @@ as expected, predictably
 Adjektive: [[erwartungsgemäß]], [[erwartungsgemäßer]], [[erwartungsgemäßest]]
 
 ---
-[[erwartungsgemäßer]], [[erwartungsgemäßes]], [[erwartungsgemäße]], [[erwartungsgemäßen]], [[erwartungsgemäßem]], [[erwartungsgemäßerer]], [[erwartungsgemäßeres]], [[erwartungsgemäßere]], [[erwartungsgemäßeren]], [[erwartungsgemäßerem]], [[erwartungsgemäßester]], [[erwartungsgemäßestes]], [[erwartungsgemäßeste]], [[erwartungsgemäßesten]], [[erwartungsgemäßestem]]
+[[erwartungsgemäßer]], [[erwartungsgemäßes]], [[erwartungsgemäße]], [[erwartungsgemäßen]], [[erwartungsgemäßem]], [[erwartungsgemäßerer]], [[erwartungsgemäßeres]], [[erwartungsgemäßere]], [[erwartungsgemäßeren]], [[erwartungsgemäßerem]], [[erwartungsgemäßester]], [[erwartungsgemäßestes]], [[erwartungsgemäßeste]], [[erwartungsgemäßesten]], [[erwartungsgemäßestem]], [[erstaunlicherweise]]

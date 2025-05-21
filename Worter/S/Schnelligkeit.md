@@ -1,1 +1,1 @@
-, [[Schnell]], [[Tempo]]
+, [[Schnell]], [[Tempo]], [[Geschwindigkeit]]

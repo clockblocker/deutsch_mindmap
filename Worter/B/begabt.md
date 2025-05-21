@@ -20,4 +20,4 @@ gifted, talented
 begabt - [[be]] = [[gabt]] / gifted, talented
 
 ---
-[[begabt]], [[Begabung]], [[begabt]], [[Begabtenerziehung]], [[begeben]]
+[[begabt]], [[Begabung]], [[begabt]], [[Begabtenerziehung]], [[begeben]], [[veranlagt]], [[lernfähig]]

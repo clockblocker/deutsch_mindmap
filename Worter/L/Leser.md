@@ -30,4 +30,4 @@ A: den [[Leser]], die [[Leser]]
 G: des [[Lesers]], der [[Leser]]
 D: dem [[Leser]], den [[Lesern]]
 
-#Maskulin 
+#Maskulin , [[ablesen]]

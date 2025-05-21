@@ -26,4 +26,4 @@ A: das [[Ausdauertraining]], die [[Ausdauertrainings]]
 G: des [[Ausdauertrainings]], der [[Ausdauertrainings]]
 D: dem [[Ausdauertraining]], den [[Ausdauertrainings]]
 
-#Neuter 
+#Neuter , [[Ausdauersportart]]

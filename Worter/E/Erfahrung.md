@@ -4,6 +4,10 @@ die [[Erfahrung]]en
 ---
 *[[16 Plusquamperfekt#^24|^]]* Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht.
 
+*[[C1-Hoehen-T2-200-Text#^49|^]]* Also kommt die [[Klugheit]] aus der [[Erfahrung]] und nicht aus der Verbesserung des Intelligenzquotienten)
+
+*[[C1-Hoehen-T2-200-Text#^21|^]]* Ja, aber gehören denn sprachliche, musische, empathische [[Begabung]]en usw. nicht eher zu Soft Skills, die man sich durch Lernen, Üben und [[Erfahrung]] auch [[aneignen]] kann, die einem also nicht unbedingt in die [[Wiege]] gelegt wurden? 
+
 Es gibt weltweit noch zu wenige [[Erfahrung]]en mit einem bedingungslosen Grundeinkommen.
 
 *[[1 lesen StadtTours#^7|^]]* Ob Historiker:innen, Geograf:innen, Journalist:innen, Schauspieler:innen oder Schriftsteller:innen: All diese Expertinnen und Experten bringen nicht nur Fachkompetenz, [[sondern]] [[darüber]] [[hinaus]] auch [[Erfahrung]] im [[Umgang]] mit Gruppen mit.
@@ -48,4 +52,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen:
-[[Erfahrung]], [[Erfahrung]], [[Erfahrung]]en, [[Erfahrung]]en, [[erfahren]], [[erfahrenen]], [[Erlebnis]], [[1 Präpositionen Übungen]], [[Fachwissen]], [[Laufbahn]], [[erlebbar]], [[Einzelschicksal]]
+[[Erfahrung]], [[Erfahrung]], [[Erfahrung]]en, [[Erfahrung]]en, [[erfahren]], [[erfahrenen]], [[Erlebnis]], [[1 Präpositionen Übungen]], [[Fachwissen]], [[Laufbahn]], [[erlebbar]], [[Einzelschicksal]], [[Praxis]]

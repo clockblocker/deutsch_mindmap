@@ -1,1 +1,1 @@
-, [[Worter/S/Sport]], [[Grippe]], [[Muskelkater]], [[Worter/G/Gesundheit]], [[Fitnessstudio]], [[Muskelaufbau]], [[Hantelgewicht]]
+, [[Worter/S/Sport]], [[Grippe]], [[Muskelkater]], [[Worter/G/Gesundheit]], [[Fitnessstudio]], [[Muskelaufbau]], [[Hantelgewicht]], [[Ausdauersportart]]

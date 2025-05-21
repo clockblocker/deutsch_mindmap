@@ -1,1 +1,1 @@
-, [[Auffassung]]
+, [[Auffassung]], [[Denkweise]]

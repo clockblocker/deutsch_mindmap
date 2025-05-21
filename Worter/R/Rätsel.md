@@ -1,1 +1,1 @@
-, [[Geheimnis]], [[Geheim]], [[Erklärung]]
+, [[Geheimnis]], [[Geheim]], [[Erklärung]], [[Logikaufgabe]]

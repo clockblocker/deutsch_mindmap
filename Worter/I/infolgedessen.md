@@ -20,4 +20,4 @@ consequently, therefore
 [[in]]|[[folge]]|`s`|[[en]]
 [[infolge]] + `s` + [[dessen]]
 
-, [[demnach]]
+, [[demnach]], [[derart]]

@@ -1,1 +1,1 @@
-, [[Worter/Religion]]
+, [[Worter/Religion]], [[Denkweise]]

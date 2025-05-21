@@ -32,4 +32,4 @@ Feminine: [[erstaunte]], [[erstaunte]], [[erstaunte]]
 Neuter: [[erstauntes]], [[erstauntes]], [[erstauntes]]  
 Plural: [[erstaunten]], [[erstaunteren]], [[erstauntetsten]]  
 
-[[Erstaunen]], [[Verblüffung]], [[erstaunt sein]], [[erschrocken]]
+[[Erstaunen]], [[Verblüffung]], [[erstaunt sein]], [[erschrocken]], [[erstaunlicherweise]]

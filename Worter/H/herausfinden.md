@@ -4,6 +4,8 @@
 [[2 Unter Druck nach oben#^6|^]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
 
 
+*[[C1-Hoehen-T2-200-Text#^3|^]]* 9 Frau Avar hat [[herausgefunden]], dass eine hohe Intelligenz [[verschiedene]] Arten von Intelligenz [[voraussetzt]]
+
 *[[C1-Lesen-T2-102-Text#^3|^]]* Sie zieht [[vielerorts]] ihre [[Schleimspur]] – jedoch [[ausgerechnet]] in Spanien nur (1) ganz [[vereinzelt]], wie Forschende in den vergangenen Jahren [[herausfanden]]. ^3
 
 

@@ -26,9 +26,9 @@ Morpheme: [[wi]][[eg]][[en]]
 
 | Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
 | --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[wiege]]            | [[wog]]               | -                 | [[wiege]]              | [[wöge]]                |
-| Du        | [[wiegst]]           | [[wogst]]             | [[wiege]]         | [[wiegest]]            | [[wögest]]              |
-| Er/sie/es | [[wiegt]]            | [[wog]]               | -                 | [[wiege]]              | [[wöge]]                |
+| Ich       | [[Wiege]]            | [[wog]]               | -                 | [[Wiege]]              | [[wöge]]                |
+| Du        | [[wiegst]]           | [[wogst]]             | [[Wiege]]         | [[wiegest]]            | [[wögest]]              |
+| Er/sie/es | [[wiegt]]            | [[wog]]               | -                 | [[Wiege]]              | [[wöge]]                |
 | Wir       | [[wiegen]]           | [[wogen]]             | -                 | [[wiegen]]             | [[wögen]]               |
 | Ihr       | [[wiegt]]            | [[wogt]]              | [[wiegt]]         | [[wieget]]             | [[wöget]]               |
 | Sie       | [[wiegen]]           | [[wogen]]             | [[wiegen Sie]]    | [[wiegen]]             | [[wögen]]               |

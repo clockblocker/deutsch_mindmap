@@ -31,4 +31,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Verlustes]], [[Verluste]], [[Verlusten]], [[Verlustens]]
 
 ---
-#Substantiv #Maskulin, [[Kauf]], [[Lohn]], [[Wahlniederlage]], [[Erhalt]], [[Ernte]], [[Mehrwert]], [[Bilanz]], [[Betrag]], [[Mangel]], [[Verdienst]], [[fehlen]], [[Rückgang]], [[Kurs]], [[Bestand]], [[Wiedergutmachung]], [[Einsatz]], [[Erlös]], [[Kontrollverlust]], [[Standbein]], [[Provision]], [[Imageschaden]], [[nutzen]], [[Siegerprämie]], [[Preisgeld]], [[Ersparnis]]
+#Substantiv #Maskulin, [[Kauf]], [[Lohn]], [[Wahlniederlage]], [[Erhalt]], [[Ernte]], [[Mehrwert]], [[Bilanz]], [[Betrag]], [[Mangel]], [[Verdienst]], [[fehlen]], [[Rückgang]], [[Kurs]], [[Bestand]], [[Wiedergutmachung]], [[Einsatz]], [[Erlös]], [[Kontrollverlust]], [[Standbein]], [[Provision]], [[Imageschaden]], [[nutzen]], [[Siegerprämie]], [[Preisgeld]], [[Ersparnis]], [[Rendite]]

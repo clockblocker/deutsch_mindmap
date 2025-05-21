@@ -27,4 +27,4 @@ PI: [[schleudernd]], PII: [[geschleudert]], Zu+inf: [[zuschleudern]]
 [[schleudern]] - [[schleuder]] = [[n]] / to fling, to hurl, to catapult
 
 ---
-[[Schleuder]], [[Schleudertrauma]], [[Steinschleuder]], [[Schleuderkurs]], [[Steinschleudern]]
+[[Schleuder]], [[Schleudertrauma]], [[Steinschleuder]], [[Schleuderkurs]], [[Steinschleudern]], [[aufsaugen]]

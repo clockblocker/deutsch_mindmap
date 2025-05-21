@@ -1,1 +1,1 @@
-, [[Nachlässigkeit]]
+, [[Nachlässigkeit]], [[lässig]]

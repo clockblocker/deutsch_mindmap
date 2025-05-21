@@ -29,4 +29,4 @@ N: [[menschliches]], [[menschlicheres]], [[menschlichstes]]
 P: [[menschlichen]], [[menschlicheren]], [[menschlichsten]]  
 
 ---
-[[Menschlichkeit]], [[Mensch]], [[Menschenbild]], [[menschenmöglich]], [[menschenunwürdig]], [[Menschenmenge]]
+[[Menschlichkeit]], [[Mensch]], [[Menschenbild]], [[menschenmöglich]], [[menschenunwürdig]], [[Menschenmenge]], [[Mitmensch]]

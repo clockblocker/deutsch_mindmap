@@ -7,6 +7,10 @@ die [[Einschätzungen]]
 ---
 Wie ist Ihre [[Einschätzung]]?
 
+*[[C1-Hoehen-T2-200-Text#^31|^]]* Hier gab es kaum richtige [[Einschätzungen]]
+
+*[[C1-Hoehen-T2-200-Text#^7|^]]* 13 Bei der [[Einschätzung]] von Intelligenz spielt auch der [[Ausdruck]] von Emotionen eine Rolle
+
 [[Selbsteinschätzung]]
 
 ---
@@ -32,3 +36,4 @@ G: der [[Einschätzung]], der [[Einschätzungen]]
 D: der [[Einschätzung]], den [[Einschätzungen]]
 
 #Feminin 
+, [[einzuschätzen]]

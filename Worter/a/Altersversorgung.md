@@ -1,1 +1,1 @@
-, [[Rente]], [[Pension]]
+, [[Rente]], [[Pension]], [[Altersvorsorge]]

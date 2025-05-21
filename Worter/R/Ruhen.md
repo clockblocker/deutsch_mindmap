@@ -1,2 +1,2 @@
 --> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
-, [[Herumtollen]], [[Strampeln]]
+, [[Herumtollen]], [[Strampeln]], [[schlummern]]

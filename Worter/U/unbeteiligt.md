@@ -27,4 +27,4 @@ uninvolved, detached
 Adjektive: [[unbeteiligt]], [[unbeteiligter]], [[unbeteiligtest]]
 
 ---
-[[unbeteiligter]], [[unbeteiligtes]], [[unbeteiligte]], [[unbeteiligten]], [[unbeteiligtem]], [[unbeteiligterer]], [[unbeteiligteres]], [[unbeteiligtere]], [[unbeteiligteren]], [[unbeteiligterem]], [[unbeteiligtester]], [[unbeteiligtestes]], [[unbeteiligteste]], [[unbeteiligtesten]], [[unbeteiligtestem]], [[Betroffen]], [[eingefleischt]]
+[[unbeteiligter]], [[unbeteiligtes]], [[unbeteiligte]], [[unbeteiligten]], [[unbeteiligtem]], [[unbeteiligterer]], [[unbeteiligteres]], [[unbeteiligtere]], [[unbeteiligteren]], [[unbeteiligterem]], [[unbeteiligtester]], [[unbeteiligtestes]], [[unbeteiligteste]], [[unbeteiligtesten]], [[unbeteiligtestem]], [[Betroffen]], [[eingefleischt]], [[Ausdruck]]

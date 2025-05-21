@@ -1,1 +1,1 @@
-, [[Modellrechnung]], [[Schätzung]], [[Taillenumfang]]
+, [[Modellrechnung]], [[Schätzung]], [[Taillenumfang]], [[gemessen]], [[vermessen]]

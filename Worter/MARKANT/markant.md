@@ -1,1 +1,1 @@
-, [[eklatant]]
+, [[eklatant]], [[ausgeprägt]]

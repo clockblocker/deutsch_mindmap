@@ -26,4 +26,4 @@ PI: [[erwachend]], PII: [[erwacht]], Zu+inf: [[zu erwachen]]
 [[erwachen]] - [[er]] = [[wachen]] / to awaken, to wake up
 
 ---
-[[Erwachen]], [[Erwachung]], [[wach]], [[aufwachen]], [[Aufwachen]], [[aufstehen]], [[wecken]]
+[[Erwachen]], [[Erwachung]], [[wach]], [[aufwachen]], [[Aufwachen]], [[aufstehen]], [[wecken]], [[schlummern]]

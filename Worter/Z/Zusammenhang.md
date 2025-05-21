@@ -3,6 +3,8 @@
 ---
 Es gibt keinen [[Zusammenhang]] zwischen Geld und Glück.
 
+*[[C1-Hoehen-T2-200-Text#^17|^]]* Intelligenz lässt sich nicht nur an der [[Fähigkeit]] [[festmachen]], wie schnell man logische [[Zusammenhänge]] [[erfasst]]
+
 *[[C1-Hoehen-T1-100-Loesung#^1|^]]* Den [[Zusammenhang]] zwischen [[Wohnungsknappheit]] und den [[Marktgesetzen]] erläutert die Autorin durch das Zusammenspiel von [[Angebot]] und [[Nachfrage]]. ^1
 
 
@@ -35,4 +37,4 @@ G: des [[Zusammenhangs]], der [[Zusammenhänge]]
 D: dem [[Zusammenhang]], den [[Zusammenhängen]]
 
 
-#Maskulin , [[Zeichenfolge]], [[Unabhängigkeit]], [[Zusammenspiel]]
+#Maskulin , [[Zeichenfolge]], [[Unabhängigkeit]], [[Zusammenspiel]], [[Wechselwirkung]]

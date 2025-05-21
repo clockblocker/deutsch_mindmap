@@ -38,4 +38,4 @@ G: der [[Schätzung]], der [[Schätzungen]]
 D: der [[Schätzung]], den [[Schätzungen]]
 
 #Feminin s
-, [[Geringschätzung]]
+, [[Geringschätzung]], [[einzuschätzen]], [[einschätzen]]

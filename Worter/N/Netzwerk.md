@@ -26,4 +26,4 @@ A: das [[Netzwerk]], die [[Netzwerke]]
 G: des [[Netzwerks]], der [[Netzwerke]]
 D: dem [[Netzwerk]], den [[Netzwerken]]
 
-#Neuter 
+#Neuter , [[Nervenzellenverbindung]]

@@ -53,22 +53,23 @@
 
 ###### 🔴 Interviewerin:  
 Herzlich willkommen zu unserer Sendung "Neues aus Wirtschaft und Sozialem".  
-*[[C1-Hoehen-T2-100-Text#^1|^]]* Stellen Sie sich vor, jeder bekäme zur [[Existenzsicherung]] vom Staat ein [[Grundeinkommen]], sein ganzes Leben lang, automatisch, unbürokratisch und bedingungslos, ч Prüfung, ob er oder sie [[bedürftig]] ist. ^1
+*[[C1-Hoehen-T2-100-Text#^1|^]]* Stellen Sie sich vor, jeder bekäme zur [[Existenzsicherung]] vom Staat ein [[Grundeinkommen]], sein ganzes Leben lang, automatisch, unbürokratisch und bedingungslos, ohne Prüfung, ob er oder sie [[bedürftig]] ist. ^1
 
 
 *[[C1-Hoehen-T2-100-Text#^2|^]]* Mit dem Sozialwissenschaftler Jens Hansen wollen wir heute über dieses Thema sprechen. Herr Hansen, Sie [[beschäftigen]] sich seit vielen Jahren mit diesem Thema. ^2
 
-*[[C1-Hoehen-T2-100-Text#^3|^]]* Wäre ein bedingungsloses Grundeinkommen eine Alternative zu unserem heutigen Sozialsystem oder ist das eher eine Utopie? ^3
+*[[C1-Hoehen-T2-100-Text#^3|^]]* Wäre ein bedingungsloses Grundeinkommen eine Alternative zu unserem heutigen Sozialsystem oder ist das [[eher]] eine Utopie? ^3
 
 
 ###### 🟠 Herr Hansen:  
-*[[C1-Hoehen-T2-100-Text#^4|^]]* Guten Tag. Ja, vielleicht zuerst noch einmal als [[Erklärung]]: Wie Sie [[einleitend]] schon gesagt haben, die Idee ist, dass jeder vom Staat zur Existenzsicherung monatlich Geld [[erhält]], ein Grund- oder [[Basiseinkommen]], egal, ob man arbeitet oder nicht. ^4
+*[[C1-Hoehen-T2-100-Text#^4|^]]* Guten Tag. Ja, vielleicht zuerst noch einmal als [[Erklärung]]: Wie Sie [[einleiten]]d schon gesagt haben, die Idee ist, dass jeder vom Staat zur Existenzsicherung monatlich Geld [[erhält]], ein Grund- oder [[Basiseinkommen]], egal, ob man arbeitet oder nicht. ^4
 
 *[[C1-Hoehen-T2-100-Text#^5|^]]* Und das automatisch, ohne [[Prüfung]] der [[Bedürftigkeit]], also bedingungslos. Alle bekommen es.  
 Heute gibt es [[Sozialleistung]]en nur für [[bedürftig]]e Menschen. ^5
  
-*[[C1-Hoehen-T2-100-Text#^6|^]]* Bei [[denjenig]]en Menschen, die aktuell Sozialleistungen [[beziehen]], könnte ein bedingungsloses Grundeinkommen die meisten dieser [[Leistung]]en ersetzen.  
-Sie wären dann nicht mehr notwendig. ^6
+*[[C1-Hoehen-T2-100-Text#^6|^]]* Bei [[denjenig]]en Menschen, die aktuell Sozialleistungen [[beziehen]], könnte ein bedingungsloses Grundeinkommen die meisten dieser [[Leistung]]en [[ersetzen]]. ^6
+
+Sie wären dann nicht mehr notwendig.
 
 
 ###### 🔴 Interviewerin:  
@@ -151,16 +152,4 @@ Wie hoch würde das Grundeinkommen denn sein und wie wäre es finanzierbar?
 *[[C1-Hoehen-T2-100-Text#^34|^]]* Ganz [[abgesehen]] davon werden ja durch die Digitalisierung der Arbeitswelt immer mehr unattraktive Arbeiten von Maschinen [[übernommen]] und andere Jobs werden [[entstehen]]. ^34
 
 
-
-- Krankenversicherung
-Nachweis über die Beitragshöhe
-
-
- - Krankenversicherung
-    Nachweis über die Beitragshöhe
-
-   * voluntary membership in the statutory
-     health insurance or
-   * the existing private
-     health insurance
 

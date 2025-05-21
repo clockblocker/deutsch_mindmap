@@ -1,2 +1,2 @@
 
-, [[unverbesserlich]]
+, [[unverbesserlich]], [[lernfähig]]

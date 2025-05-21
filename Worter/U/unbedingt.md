@@ -2,7 +2,11 @@
  💯 [[unbedingt]], [ˈʊnbəˌdɪŋt]
 
 ---
-12. Mein Bruder möchte uns heute [[unbedingt]] besuchen.  
+Mein Bruder möchte uns heute [[unbedingt]] besuchen.  
+
+*[[C1-Hoehen-T2-200-Text#^39|^]]* Sie sind nicht [[unbedingt]] klüger, werden aber von ihren [[Mitmenschen]] oft als klüger [[eingeschätzt]]
+
+*[[C1-Hoehen-T2-200-Text#^16|^]]* Aber er ist nicht [[unbedingt]] intelligenter als beispielsweise ein [[musikalisch]] [[veranlagter]] Mensch
 
 *[[3  Ein Selbstversuch als Hobbybäuerin#^6|^]]* Nicht, weil ich [[unbedingt]] mit einer [[Großtat]] in die [[Geschichtsbuch]] eingehen wollte, sondern vor einer weiteren [[Herausforderung]] stehe. ^6
 

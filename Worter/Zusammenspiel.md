@@ -3,6 +3,9 @@
 ---
 *[[C1-Hoehen-T1-100-Loesung#^1|^]]* Den [[Zusammenhang]] zwischen [[Wohnungsknappheit]] und den [[Marktgesetz]]en erläutert die Autorin durch das [[Zusammenspiel]] von [[Angebot]] und [[Nachfrage]].
 
+*[[C1-Hoehen-T2-200-Text#^20|^]]* Nur sind sie [[unterschiedlich]] stark [[ausgeprägt]] und [[ergeben]] [[erst]] in ihrem [[Zusammenspiel]] ein vollständiges Bild der Persönlichkeit eines Menschen)
+
+
 ---
 = [[Interaktion]], [[Kooperation]], [[Zusammenwirken]]
 ≈ [[Zusammenarbeit]], [[Beziehung]], [[Verbindung]]

@@ -39,4 +39,4 @@ Dative: dem [[Erfolg]], den [[Erfolgen]]
 , [[fehlentwicklung]]
 , [[Versuch]], [[Karriere]], [[Erfolgsfaktor]], [[Großtat]], [[Aufgabenerfüllung]], [[Fehlgriff]], [[Bildungserfolg]], [[erbringen]], [[Ausdauersport]]
 
-#Maskulin 
+#Maskulin , [[Rendite]]

@@ -1,1 +1,1 @@
-, [[Ansammlung]]
+, [[Ansammlung]], [[anhäufen]]

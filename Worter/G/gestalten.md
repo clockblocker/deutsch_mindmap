@@ -6,8 +6,13 @@
 haben [[gestaltet]]
 
 ---
-*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]* Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten. ^7
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]* Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten
 
+*[[C1-Hoehen-T2-200-Text#^30|^]]* Bei Frauen [[gestaltete]] sich das [[schwieriger]]
+
+*[[C1-Hoehen-T2-200-Text#^12|^]]* *Wobei es uns nicht auf eine Definition von Intelligenz [[ankommt]], was* 
+`sich` `in` der [[Praxis]] `als` *sehr schwierig* [[gestaltet]], 
+*sondern auf die [[verschiedenen]] Arten der Intelligenz.*
 
 *[[C1-Hoehen-T1-202-Text#^14|^]]* In der Sendung lernen wir, wie ihr jedes Zimmer eurer Wohnung [[preiswert]] und ökologisch [[gestalten]] könnt
 

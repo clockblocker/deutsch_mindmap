@@ -1,1 +1,1 @@
-, [[langsam]], [[Tempo]], [[verlangsamen]], [[Langeweile]]
+, [[langsam]], [[Tempo]], [[verlangsamen]], [[Langeweile]], [[Geschwindigkeit]]

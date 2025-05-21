@@ -30,4 +30,4 @@ N: [[einheimisches]], [[einheimischeres]], [[einheimischstes]]
 P: [[einheimischen]], [[einheimischeren]], [[einheimischsten]]  
 
 ---
-[[Heimat]], [[einheimisch]], [[heimisch]], [[Herkunft]], [[ansässig]]
+[[Heimat]], [[einheimisch]], [[heimisch]], [[Herkunft]], [[ansässig]], [[hiesig]]

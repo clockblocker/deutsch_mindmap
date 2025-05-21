@@ -26,3 +26,5 @@ D: der [[Festlegung]], den [[Festlegungen]]
 
 ---
 [[festlegen]], [[festgelegt]], [[verbindlich]], [[bestimmen]], [[feststehen]]
+
+#Feminin , [[festmachen]]

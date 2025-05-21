@@ -31,4 +31,4 @@ Deklinationstabelle:
 Bemerkungen:
 - Substantiv, das aus dem Verb [[missverstehen]] abgeleitet ist
 - Typisches Nominalisierungssuffix [-nis] zur Substantivierung
-- Bezeichnet eine Situation des Nichtverstehens oder falschen Verstehens, [[Deutung]], [[Auslegung]], [[Hinweis]], [[Erkenntnis]], [[Erklärung]], [[Verständnis]], [[Kommunikation]]--> [[🗣️ Ingredient-Meinung]] <--, [[Verwechslung]], [[Irrung]]
+- Bezeichnet eine Situation des Nichtverstehens oder falschen Verstehens, [[Deutung]], [[Auslegung]], [[Hinweis]], [[Erkenntnis]], [[Erklärung]], [[Verständnis]], [[Kommunikation]]--> [[🗣️ Ingredient-Meinung]] <--, [[Verwechslung]], [[Irrung]], [[Begriffsbestimmung]]

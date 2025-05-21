@@ -47,4 +47,4 @@ sie, [[verarbeiten]], [[verarbeiteten]], [[verarbeiten]], [[verarbeiteten]], [[v
 Adjektive: [[verarbeitend]], [[verarbeitender]], [[verarbeitendst]]
 
 ---
-[[verarbeitender]], [[verarbeitendes]], [[verarbeitende]], [[verarbeitenden]], [[verarbeitendem]], [[verarbeitenderer]], [[verarbeitenderes]], [[verarbeitendere]], [[verarbeitenderen]], [[verarbeitenderem]], [[verarbeitendster]], [[verarbeitendstes]], [[verarbeitendste]], [[verarbeitendsten]], [[verarbeitendstem]]
+[[verarbeitender]], [[verarbeitendes]], [[verarbeitende]], [[verarbeitenden]], [[verarbeitendem]], [[verarbeitenderer]], [[verarbeitenderes]], [[verarbeitendere]], [[verarbeitenderen]], [[verarbeitenderem]], [[verarbeitendster]], [[verarbeitendstes]], [[verarbeitendste]], [[verarbeitendsten]], [[verarbeitendstem]], [[aufsaugen]]

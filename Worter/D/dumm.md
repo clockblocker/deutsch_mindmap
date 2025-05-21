@@ -23,4 +23,4 @@ stupid
 Adjektive: [[dumm]], [[dümmer]], [[dümmst]]
 
 ---
-[[dummer]], [[dummes]], [[dumme]], [[dummen]], [[dummem]], [[dümmerer]], [[dümmeres]], [[dümmere]], [[dümmeren]], [[dümmerem]], [[dümmster]], [[dümmstes]], [[dümmste]], [[dümmsten]], [[dümmstem]], [[geistreich]]
+[[dummer]], [[dummes]], [[dumme]], [[dummen]], [[dummem]], [[dümmerer]], [[dümmeres]], [[dümmere]], [[dümmeren]], [[dümmerem]], [[dümmster]], [[dümmstes]], [[dümmste]], [[dümmsten]], [[dümmstem]], [[geistreich]], [[lernfähig]]

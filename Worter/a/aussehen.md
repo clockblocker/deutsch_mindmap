@@ -5,8 +5,9 @@ haben [[ausgesehen]]
 ---
 Aber er [[aussehen|sieht]] total gut aus!  
 
-*[[C1-Hoehen-T2-100-Text#^12|^]]* Eine [[würdevoll]]e Existenzsicherung [[aussehen|sieht]] anders aus
+*[[C1-Hoehen-T2-200-Text#^36|^]]* Aber [[Vorsicht]]: Es wäre [[vermessen]] zu [[behaupten]], dass jemand, der intelligent [[aussieht]], es auch [[zwangsläufig]] ist
 
+*[[C1-Hoehen-T2-100-Text#^12|^]]* Eine [[würdevoll]]e Existenzsicherung [[aussehen|sieht]] anders aus
 
 _Wir waschen das Auto, damit es neu [[aussieht]]._
 

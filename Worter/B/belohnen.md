@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-100-Text#^21|^]]* Würde man dann [[überhaupt]] noch arbeiten gehen? Kritiker der bedingungslosen Grundeinkommens sagen ja, [[hierdurch]] werde [[Faulheit]] [[belohnt]].
 
+*[[C1-Lesen-T4-103-Text#^23|^]]* Man wird nicht mehr für das Sparen in Form von [[Zins]]en und [[Rendite]] [[belohnt]], sondern sogar bestraft, weil man es [[wagt]], ein [[Vermögen]] [[anzuhäufen]]
+
 ---
 = [[entlohnen]], [[honorieren]], [[auszeichnen]]
 ≈ [[vergüten]], [[prämieren]], [[würdigen]]

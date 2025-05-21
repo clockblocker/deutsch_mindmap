@@ -32,4 +32,4 @@ Morpheme:
 
 Einzigartige mögliche Formen: 
 [[geschwind]], [[geschwindere]], [[geschwindere]], [[geschwinderes]], [[geschwinderen]], [[geschwinderem]], [[geschwinderer]], [[geschwinderen]]
-[[geschwindesten]], [[geschwindester]], [[geschwindeste]], [[geschwindestes]], [[geschwindesten]], [[geschwindestem]], [[geschwindester]], [[geschwindesten]], [[Schnell]]
+[[geschwindesten]], [[geschwindester]], [[geschwindeste]], [[geschwindestes]], [[geschwindesten]], [[geschwindestem]], [[geschwindester]], [[geschwindesten]], [[Schnell]], [[Geschwindigkeit]]

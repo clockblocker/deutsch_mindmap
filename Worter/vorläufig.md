@@ -1,28 +1,27 @@
-🤔 [[vorläufig]]
+⏳ [[vorläufig]], [ˈfoːɐ̯ˌlɔɪ̯fɪç](https://youglish.com/pronounce/vorläufig/german)
 
 ---
 Julian spricht gerade über den [[vorläufigen]] [[Zeitplan]] und alle sind konzentriert bei der Sache. [[Plötzlich]] steht Maja neben ihm. Er hat sie gar nicht kommen hören. 
 
+---
+= [[provisorisch]], [[zeitweilig]], [[interimistisch]], [[kurzlebig]]
+≈ [[vorübergehend]], [[behelfsmäßig]], [[vorab]]
+≠ [[endgültig]], [[definitiv]], [[dauerhaft]],  [[letztendlich]],
 
 ---
-Synonyme:
-- [[vorübergehend]], [[temporär]], [[interimistisch]], [[provisorisch]], [[einstweilig]]
+provisional, temporary  
+предварительный, временный
 
 ---
-provisional, temporary, preliminary
+[[Vorlauf]], [[Lauf]], [[vorlaufen]], [[Vorläufigkeit]],
 
 ---
-[[vor]][[läufig]]
+[[vor]]|[[läufig]]
+[[vorläufig]]
+
 
 ---
-Form: Positive, Comparative, Superlative  
-Nominative: [[vorläufig]], [[vorläufiger]], [[vorläufigster]]  
-Accusative: [[vorläufigen]], [[vorläufigeren]], [[vorläufigsten]]  
-Genitive: [[vorläufiger]], [[vorläufigerer]], [[vorläufigster]]  
-Dative: [[vorläufigem]], [[vorläufigorem]], [[vorläufigostem]]  
-Feminine: [[vorläufige]], [[vorläufigere]], [[vorläufigste]]  
-Neuter: [[vorläufiges]], [[vorläufigeres]], [[vorläufigestes]]  
-Plural: [[vorläufigen]], [[vorläufigeren]], [[vorläufigsten]]  
+Adjektive: [[vorläufig]], [[vorläufiger]], [[vorläufigst]]
 
-[[Vorläufigkeit]], [[vorläufig sein]]
-, [[vorliegen]], [[letztendlich]], [[kurzlebig]]
+---
+[[vorläufiger]], [[vorläufiges]], [[vorläufige]], [[vorläufigen]], [[vorläufigem]], [[vorläufigerer]], [[vorläufigeres]], [[vorläufigere]], [[vorläufigeren]], [[vorläufigerem]], [[vorläufigster]], [[vorläufigstes]], [[vorläufigste]], [[vorläufigsten]], [[vorläufigstem]]

@@ -1,1 +1,1 @@
-[[trennen]], [[verbinden]], [[knüpfen]], [[verlinkungen]], [[gliedern]], [[durchtrennen]], [[Verknüpfung]], [[Verknüpfung]]
+[[trennen]], [[verbinden]], [[knüpfen]], [[verlinkungen]], [[gliedern]], [[durchtrennen]], [[Verknüpfung]], [[Verknüpfung]], [[koppeln]]

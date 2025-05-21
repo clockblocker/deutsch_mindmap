@@ -4,6 +4,9 @@
 Da [[kommt]] der wilde Jägersmann*  
 *zuletzt beim tiefen Brünnchen [[an]].*  
 
+*[[C1-Hoehen-T2-200-Text#^12|^]]* Wobei es uns nicht auf eine Definition von Intelligenz [[ankommt]], was sich in der [[Praxis]] als sehr schwierig [[gestaltet]], sondern auf die [[verschiedenen]] Arten der Intelligenz. ^12
+
+
 Wenn ein Modalverb da ist, klingt Präteritum oft natürlicher als Passiv. Wenn es kein Modalverb gibt, dann [[ankommen|kommt]] es auf den Kontext [[an]].
 
 ---

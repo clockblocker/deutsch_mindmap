@@ -6,6 +6,8 @@ nicht [[gleich]]
 ---
 Bei einem [[Streit]] gibt es [[unterschiedliche]] Meinungen.
 
+*[[C1-Hoehen-T2-200-Text#^20|^]]* Nur sind sie [[unterschiedlich]] stark [[ausgeprägt]] und [[ergeben]] erst in ihrem [[Zusammenspiel]] ein vollständiges Bild der Persönlichkeit eines Menschen)
+
 *[[C1-Lesen-T4-101-Text#^11|^]]* Menschen können im Gegensatz zu Robotern die Vielzahl von [[unterschiedlichen]] Informationen zwar langsamer, dafür aber oft auch besser, [[verarbeiten]]. ^11
 
 

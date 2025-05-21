@@ -27,4 +27,4 @@ A: den [[Ausdauersport]], die [[Ausdauersportarten]]
 G: des [[Ausdauersports]], der [[Ausdauersportarten]]
 D: dem [[Ausdauersport]], den [[Ausdauersportarten]]
 
-#Maskulin , [[Ausdauersportler]]
+#Maskulin , [[Ausdauersportler]], [[Ausdauersportart]]

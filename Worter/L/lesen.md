@@ -31,4 +31,4 @@ Partizip I: [[lesend]], Partizip II: [[gelesen]]
 
 [[lesen]] + [[vor]] = [[vorlesen]]  
 , [[Zwischen den Zeilen lesen]], [[auslesen]]
-, [[Leseverstehen]], [[Absammeln]], [[entziffern]], [[Lesenswert]], [[Leser]]
+, [[Leseverstehen]], [[Absammeln]], [[entziffern]], [[Lesenswert]], [[Leser]], [[ablesen]]

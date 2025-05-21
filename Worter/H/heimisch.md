@@ -24,4 +24,4 @@ domestic, native
 Adjektive: [[heimisch]], [[heimischer]], [[heimischst]]
 
 ---
-[[heimischer]], [[heimisches]], [[heimische]], [[heimischen]], [[heimischem]], [[heimischerer]], [[heimischeres]], [[heimischere]], [[heimischeren]], [[heimischerem]], [[heimischster]], [[heimischstes]], [[heimischste]], [[heimischsten]], [[heimischstem]]
+[[heimischer]], [[heimisches]], [[heimische]], [[heimischen]], [[heimischem]], [[heimischerer]], [[heimischeres]], [[heimischere]], [[heimischeren]], [[heimischerem]], [[heimischster]], [[heimischstes]], [[heimischste]], [[heimischsten]], [[heimischstem]], [[hiesig]]

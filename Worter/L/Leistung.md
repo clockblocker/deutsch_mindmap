@@ -21,7 +21,7 @@ Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf
 ≠ [[Misserfolg]], [[Versagen]], [[Niederlage]], [[Schwäche]]
 
 ---
-performance, achievement, accomplishment
+benefit, performance, achievement, accomplishment
 
 ---
 [[Leist]]|[[ung]]
@@ -37,4 +37,4 @@ D: der [[Leistung]], den [[Leistungen]]
 , [[Anstrengung]], [[Großtat]], [[Aufgabenerfüllung]], [[Strom]], [[Bildungserfolg]], [[Angebot]], [[Unterstützungsangebot]]
 
 
-#Feminin , [[Kapazität]], [[Trefferquote]], [[nutzen]], [[Geldleistung]], [[Dienstleistung]], [[erbringen]], [[Leistungssportler]], [[Sozialleistung]]
+#Feminin , [[Kapazität]], [[Trefferquote]], [[nutzen]], [[Geldleistung]], [[Dienstleistung]], [[erbringen]], [[Leistungssportler]], [[Sozialleistung]], [[Leistungsabbau]]

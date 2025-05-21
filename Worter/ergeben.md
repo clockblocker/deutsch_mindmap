@@ -5,6 +5,8 @@
 ---
 Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
+*[[C1-Hoehen-T2-200-Text#^20|^]]* Nur sind sie [[unterschiedlich]] stark [[ausgeprägt]] und [[ergeben]] erst in ihrem [[Zusammenspiel]] ein vollständiges Bild der Persönlichkeit eines Menschen)
+
 *[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den Kunstgegenstand [[verlangen]] kann. ^6
 
 

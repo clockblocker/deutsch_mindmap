@@ -28,4 +28,4 @@ such, of that kind
 Adjektive: [[derartig]], [[derartiger]], [[derartigst]]
 
 ---
-[[derartiger]], [[derartiges]], [[derartige]], [[derartigen]], [[derartigem]], [[derartigerer]], [[derartigeres]], [[derartigere]], [[derartigeren]], [[derartigerem]], [[derartigster]], [[derartigstes]], [[derartigste]], [[derartigsten]], [[derartigstem]]
+[[derartiger]], [[derartiges]], [[derartige]], [[derartigen]], [[derartigem]], [[derartigerer]], [[derartigeres]], [[derartigere]], [[derartigeren]], [[derartigerem]], [[derartigster]], [[derartigstes]], [[derartigste]], [[derartigsten]], [[derartigstem]], [[derart]]

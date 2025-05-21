@@ -1,1 +1,1 @@
-, [[gegenseitig]]
+, [[gegenseitig]], [[Wechselwirkung]]

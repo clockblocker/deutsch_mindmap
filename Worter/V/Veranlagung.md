@@ -1,1 +1,1 @@
-, [[Talent]]
+, [[Talent]], [[veranlagt]]

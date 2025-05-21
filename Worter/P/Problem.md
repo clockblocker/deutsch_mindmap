@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Problems]], [[Probleme]], [[Problemen]]
 ---
 #Substantiv #Neuter , [[Sache]], [[Herausforderung]], [[Erziehungsproblem]]
 , [[Angelegenheit]], [[Nachteil]], [[Aufgabenstellung]], [[Hindernis]], [[Lösungsansatz]], [[Platzproblem]]
- , [[Lösungsvorschlag]], [[Engpass]], [[Bedrängnis]], [[Lärmproblem]], [[Störung]], [[Papierstau]]
+ , [[Lösungsvorschlag]], [[Engpass]], [[Bedrängnis]], [[Lärmproblem]], [[Störung]], [[Papierstau]], [[Logikaufgabe]]

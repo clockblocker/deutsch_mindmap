@@ -3,8 +3,9 @@
 🏗️ [[ausbauen]], [ˈaʊ̯sˌbaʊ̯ən](https://youglish.com/pronounce/ausbauen/german) → [[baute aus]] → [[ausgebaut]]
 
 ---
-*[[001-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
+*[[C1-Hoehen-T2-200-Text#^22|^]]* Natürlich kann man durch [[Fleiß]] und Üben seine [[Fähigkeit]]en [[ausbauen]]
 
+*[[001-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]
 
 ---
 = [[erweitern]], [[vergrößern]], [[entwickeln]]

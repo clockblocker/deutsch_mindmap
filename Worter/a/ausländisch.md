@@ -28,4 +28,4 @@ foreign
 Adjektive: [[ausländisch]], [[ausländischer]], [[ausländischst]]
 
 ---
-[[ausländischer]], [[ausländisches]], [[ausländische]], [[ausländischen]], [[ausländischem]], [[ausländischerer]], [[ausländischeres]], [[ausländischere]], [[ausländischeren]], [[ausländischerem]], [[ausländischster]], [[ausländischstes]], [[ausländischste]], [[ausländischsten]], [[ausländischstem]], [[extern]]
+[[ausländischer]], [[ausländisches]], [[ausländische]], [[ausländischen]], [[ausländischem]], [[ausländischerer]], [[ausländischeres]], [[ausländischere]], [[ausländischeren]], [[ausländischerem]], [[ausländischster]], [[ausländischstes]], [[ausländischste]], [[ausländischsten]], [[ausländischstem]], [[extern]], [[hiesig]]

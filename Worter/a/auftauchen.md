@@ -46,4 +46,4 @@ sie, [[tauchen auf]], [[tauchten auf]], [[tauchen auf]], [[tauchten auf]], [[tau
 Adjektive: [[auftauchend]], [[auftauchender]], [[auftauchendst]]
 
 ---
-[[auftauchender]], [[auftauchendes]], [[auftauchende]], [[auftauchenden]], [[auftauchendem]], [[auftauchenderer]], [[auftauchenderes]], [[auftauchendere]], [[auftauchenderen]], [[auftauchenderem]], [[auftauchendster]], [[auftauchendstes]], [[auftauchendste]], [[auftauchendsten]], [[auftauchendstem]]
+[[auftauchender]], [[auftauchendes]], [[auftauchende]], [[auftauchenden]], [[auftauchendem]], [[auftauchenderer]], [[auftauchenderes]], [[auftauchendere]], [[auftauchenderen]], [[auftauchenderem]], [[auftauchendster]], [[auftauchendstes]], [[auftauchendste]], [[auftauchendsten]], [[auftauchendstem]], [[ankommen]]

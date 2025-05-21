@@ -9,4 +9,4 @@
 , [[aufwachen]]
 , [[aufmachen]]
 , [[auffangen]]
-, [[aufpassen]], [[auflegen]], [[Aufhebung]], [[Aufsteiger]], [[selbstauferlegen]], [[auferlegen]], [[aufraffen]], [[aufopfernd]], [[auftreten]], [[Konnektivpartikeln]], [[Aufstieg]], [[heben]], [[Aufrufen]], [[aufhalten]], [[aufs Spiel setzen]], [[Raumaufteilung]], [[Nahaufnahme]], [[aufspüren]], [[aufwendig]], [[aufschlagen]], [[Aufschlag]], [[Auffassung]], [[aufweisen]], [[aufkaufen]], [[auftraggeben]], [[Muskelaufbau]], [[Aufbau]]
+, [[aufpassen]], [[auflegen]], [[Aufhebung]], [[Aufsteiger]], [[selbstauferlegen]], [[auferlegen]], [[aufraffen]], [[aufopfernd]], [[auftreten]], [[Konnektivpartikeln]], [[Aufstieg]], [[heben]], [[Aufrufen]], [[aufhalten]], [[aufs Spiel setzen]], [[Raumaufteilung]], [[Nahaufnahme]], [[aufspüren]], [[aufwendig]], [[aufschlagen]], [[Aufschlag]], [[Auffassung]], [[aufweisen]], [[aufkaufen]], [[auftraggeben]], [[Muskelaufbau]], [[Aufbau]], [[aufsaugen]]

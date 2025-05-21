@@ -30,4 +30,4 @@ PI: [[ausruhend]], PII: [[ausgeruht]], Zu+inf: [[auszuruhen]]
 [[Ausruhen]], [[Ruhe]], [[Entspannung]], [[Erholung]], [[Pause]], [[ausspannen]]
 
 , [[mühen]], [[lauben]]
-, [[schlafen]]
+, [[schlafen]], [[schlummern]]

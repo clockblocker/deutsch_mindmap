@@ -1,1 +1,1 @@
-, [[geistig]], [[Körpergeruch]], [[krankheitsbedingt]]
+, [[geistig]], [[Körpergeruch]], [[krankheitsbedingt]], [[kinästhetisch]]

@@ -1,1 +1,1 @@
-, [[Schneemasse]], [[Unmenge]], [[Menschenmenge]], [[Gewicht]], [[Massenentlassung]]
+, [[Schneemasse]], [[Unmenge]], [[Menschenmenge]], [[Gewicht]], [[Massenentlassung]], [[Massenwohlstand]]
