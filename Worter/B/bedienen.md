@@ -28,4 +28,4 @@ Morpheme: [[be]][[dien]][[en]]
 | Sie       | [[bedienen]]         | [[bedienten]]         | [[bedienen Sie]]  | [[bedienen]]           | [[bedienten]]           |
 
 Partizip I: [[bedienend]], Partizip II: [[bedient]]
-[[bedienen]] - [[be]] = [[dienen]], [[Bedienung]]
+[[bedienen]] - [[be]] = [[dienen]], [[Bedienung]], [[abspeisen]]

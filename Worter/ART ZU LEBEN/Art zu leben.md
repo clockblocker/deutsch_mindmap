@@ -1,1 +1,1 @@
-, [[Lebensstil]]
+, [[Lebensstil]], [[Lebensweise]]

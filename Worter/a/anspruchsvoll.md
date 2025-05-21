@@ -27,4 +27,4 @@ demanding, challenging
 Adjektive: [[anspruchsvoll]], [[anspruchsvoller]], [[anspruchsvollsten]]
 
 ---
-[[anspruchsvoller]], [[anspruchsvolles]], [[anspruchsvolle]], [[anspruchsvollen]], [[anspruchsvollem]], [[anspruchsvollerer]], [[anspruchsvolleres]], [[anspruchsvollere]], [[anspruchsvolleren]], [[anspruchsvollerem]], [[anspruchsvollstener]], [[anspruchsvollstenes]], [[anspruchsvollstene]], [[anspruchsvollstenen]], [[anspruchsvollstenem]], [[banal]], [[anstrengend]], [[komplex]], [[aufwendig]], [[beanspruchen]], [[tiefgründig]], [[hintergründig]]
+[[anspruchsvoller]], [[anspruchsvolles]], [[anspruchsvolle]], [[anspruchsvollen]], [[anspruchsvollem]], [[anspruchsvollerer]], [[anspruchsvolleres]], [[anspruchsvollere]], [[anspruchsvolleren]], [[anspruchsvollerem]], [[anspruchsvollstener]], [[anspruchsvollstenes]], [[anspruchsvollstene]], [[anspruchsvollstenen]], [[anspruchsvollstenem]], [[banal]], [[anstrengend]], [[komplex]], [[aufwendig]], [[beanspruchen]], [[tiefgründig]], [[hintergründig]], [[selbsternannt]]

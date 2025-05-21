@@ -1,1 +1,1 @@
-, [[Wettbewerb]], [[Worter/S/Sport]], [[Spiel]], [[Langstreckenlauf]]
+, [[Wettbewerb]], [[Worter/S/Sport]], [[Spiel]], [[Langstreckenlauf]], [[Zweikampf]], [[Leistungssport]]

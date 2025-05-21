@@ -1,1 +1,1 @@
-, [[Schauspieler]], [[Akteur]], [[Rollenbesetzung]], [[Nebendarsteller]]
+, [[Schauspieler]], [[Akteur]], [[Rollenbesetzung]], [[Nebendarsteller]], [[Zuschauer]]

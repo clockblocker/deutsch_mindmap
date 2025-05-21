@@ -8,6 +8,8 @@ nicht [[völlig]], nicht [[ganz]]
 ---
 Für andere kann das [[ziemlich]] nervig sein.
 
+Das [[anhört|hört]] sich alles [[ziemlich]] kompliziert an.
+
 Sie ist sich [[ziemlich]] sicher, dass sie die Prüfung [[bestanden]] hat.
 
 gibt es viele Leute, die alles unter einen Hut bringen wollen, damit jeder zufrieden ist. Aber das kann manchmal [[ziemlich]] schwierig sein. 

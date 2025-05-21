@@ -27,3 +27,5 @@ D: der [[Ungleichbehandlung]], den [[Ungleichbehandlungen]]
 
 ---
 [[ungleich]], [[behandeln]], [[gleichberechtigt]], [[diskriminieren]]
+
+#Feminin 

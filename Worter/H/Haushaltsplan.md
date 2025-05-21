@@ -1,1 +1,1 @@
-, [[Haushalt]], [[Putzplan]]
+, [[Haushalt]], [[Putzplan]], [[Sozialhaushalt]], [[Sozialhaushalt]]

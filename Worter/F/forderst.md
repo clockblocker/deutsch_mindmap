@@ -1,1 +1,1 @@
-, [[fordern]], [[einfordern]]
+, [[fordern]], [[einfordern]], [[herausfordern]]

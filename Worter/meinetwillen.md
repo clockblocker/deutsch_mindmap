@@ -12,8 +12,8 @@
 for my sake, on my account
 
 ---
-[[mein]]|[[et]]|[[willen]]
+[[mein]]|[[et]]|[[Willen]]
 
 ---
 [[Selbstbezug]], [[Eigeninteresse]], [[Rücksicht]]
-</ideal_output>
+, [[Wille]]

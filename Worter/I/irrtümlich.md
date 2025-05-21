@@ -25,4 +25,4 @@ erroneously, mistakenly
 Adjektive: [[irrtümlich]], [[irrtümlicher]], [[irrtümlichst]]
 
 ---
-[[irrtümlicher]], [[irrtümliches]], [[irrtümliche]], [[irrtümlichen]], [[irrtümlichem]], [[irrtümlicherer]], [[irrtümlicheres]], [[irrtümlichere]], [[irrtümlicheren]], [[irrtümlicherem]], [[irrtümlichster]], [[irrtümlichstes]], [[irrtümlichste]], [[irrtümlichsten]], [[irrtümlichstem]]
+[[irrtümlicher]], [[irrtümliches]], [[irrtümliche]], [[irrtümlichen]], [[irrtümlichem]], [[irrtümlicherer]], [[irrtümlicheres]], [[irrtümlichere]], [[irrtümlicheren]], [[irrtümlicherem]], [[irrtümlichster]], [[irrtümlichstes]], [[irrtümlichste]], [[irrtümlichsten]], [[irrtümlichstem]], [[Versehen]]

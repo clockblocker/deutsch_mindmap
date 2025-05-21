@@ -1,1 +1,1 @@
-, [[Parkberechtigung]]
+, [[Parkberechtigung]], [[Gerechtberechtigung]], [[Berechtigung]]

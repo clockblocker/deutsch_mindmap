@@ -23,4 +23,4 @@ Genitive: des [[Haushalts]] / [[Haushaltes]], der [[Haushalte]]
 Dative: dem [[Haushalt]], den [[Haushalten]] 
 
 ---
-[[haushalten]], [[haushälterisch]], [[Haushaltsplan]], [[Haushaltsposten]], [[Haushaltsgerät]]
+[[haushalten]], [[haushälterisch]], [[Haushaltsplan]], [[Haushaltsposten]], [[Haushaltsgerät]], [[Sozialhaushalt]], [[Sozialhaushalt]]

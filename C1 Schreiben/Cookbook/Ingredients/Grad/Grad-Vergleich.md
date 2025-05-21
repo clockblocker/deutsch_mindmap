@@ -54,6 +54,7 @@
 🌀 [[unterschiedlich]] *(different: values don’t line up)*  
 🪜 [[Unterschied]] *(difference: the gap itself)*  
 🚷 [[unangemessen]] *(inappropriate: out of proportion, unfair)*
+😠 [[Ungerechtigkeit]] *(несправедливость)*
 
 #### Difference & Contrast — mild → sharp  
 🎲 [[anders]] *(different: not the same)*  

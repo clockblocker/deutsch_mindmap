@@ -1,2 +1,2 @@
 
-, [[empfehlen]]
+, [[empfehlen]], [[ausloben]]

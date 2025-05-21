@@ -38,4 +38,4 @@ D: dem [[Grund]], den [[Gründen]]
 
 , [[zugrunde]]
 
-#Maskulin , [[Wasseroberfläche]], [[Antriebsfaktor]], [[Energiegrundumsatz]], [[Grundeinstellung]], [[tiefgründig]]
+#Maskulin , [[Wasseroberfläche]], [[Antriebsfaktor]], [[Energiegrundumsatz]], [[Grundeinstellung]], [[tiefgründig]], [[Grundeinkommen]]

@@ -1,1 +1,1 @@
-, [[Schritt]], [[Handlung]], [[Maßnahme]], [[Bewegung]], [[Akteur]], [[Tat]], [[Interaktion]], [[agieren]], [[Spielverhalten]]
+, [[Schritt]], [[Handlung]], [[Maßnahme]], [[Bewegung]], [[Akteur]], [[Tat]], [[Interaktion]], [[agieren]], [[Spielverhalten]], [[Initiative]], [[Vorstoß]]

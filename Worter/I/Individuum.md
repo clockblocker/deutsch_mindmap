@@ -1,2 +1,2 @@
 , [[Leut]], [[Bevölkerung]]
-, [[Mensch]], [[Bürgerei]]
+, [[Mensch]], [[Bürgerei]], [[Zeitgenosse]]

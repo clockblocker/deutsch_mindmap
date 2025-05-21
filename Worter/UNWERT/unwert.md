@@ -1,1 +1,1 @@
-, [[wertlos]]
+, [[wertlos]], [[lebenswert]]

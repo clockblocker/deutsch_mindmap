@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Weltmeisters]], [[Weltmeistern]]
 #Substantiv #Maskulin
 #Sport #Auszeichnung
 
-Zusätzliche Erklärung: Ein Weltmeister ist eine Person oder Mannschaft, die in einem bestimmten Wettbewerb oder einer Sportart den höchsten internationalen Titel gewonnen hat.
+Zusätzliche Erklärung: Ein Weltmeister ist eine Person oder Mannschaft, die in einem bestimmten Wettbewerb oder einer Sportart den höchsten internationalen Titel gewonnen hat., [[weltbest]]

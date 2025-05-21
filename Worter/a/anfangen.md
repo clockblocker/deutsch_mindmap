@@ -46,4 +46,4 @@ Partizip I: [[anfangend]], Partizip II: [[angefangen]]
 
 [[anfangen]] - [[an]] = [[fangen]] // to begin, to start
 [[Extra 8]], [[Anfänger]], [[aufgeben]]
-, [[fertigstellen]], [[Neuanfang]]
+, [[fertigstellen]], [[Neuanfang]], [[auslaufen]]

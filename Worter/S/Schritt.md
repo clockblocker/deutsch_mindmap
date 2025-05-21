@@ -5,6 +5,8 @@ die [[Schritte]]
 ---
 Wir müssen unseren [[Gegnern]] immer [[einen Schritt voraus sein]].
 
+*[[C1-Hoehen-T2-100-Text#^29|^]]* Aber in diesem Fall bedeutet das Grundeinkommen ja gerade auch einen [[Schritt]] zur finanziellen Unabhängigkeit.
+
 *Der Kaspar kam mit schnellem [[Schritt]]*  
 *und brachte seine Brezel mit.*  
 

@@ -47,4 +47,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bereichs]], [[Bereichen]]
 
 ---
-#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Texte/Misc/Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]], [[Abteilung]], [[Abschnitt]], [[Hinsicht]], [[Pausenraum]], [[Einkaufsbereich]], [[Umkreis]], [[Buchhaltungsbereich]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Reichweite]], [[Finanzbereich]], [[Wissenschaftszweig]]
+#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Texte/Misc/Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]], [[Abteilung]], [[Abschnitt]], [[Hinsicht]], [[Pausenraum]], [[Einkaufsbereich]], [[Umkreis]], [[Buchhaltungsbereich]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Reichweite]], [[Finanzbereich]], [[Wissenschaftszweig]], [[bereichern]]

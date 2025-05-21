@@ -28,3 +28,6 @@
 💧 [[versorgen]] *(to supply resources or care)*
 🔄 [[aufrechterhalten]] *(to maintain / sustain conditions)*
 🎭 [[unterhalten]] *(to maintain / entertain; context dependent)*
+
+
+[[teilen]], [[breiten]], [[ansammeln]], [[sammeln]], [[streuen]], [[zerstreuen]], [[stapeln]], [[aufteilen]], [[Verbreitung]], [[verbreiten]], [[weitergeben]]

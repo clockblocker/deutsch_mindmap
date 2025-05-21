@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T2-102-Text#^32|^]]* Bei intensiven [[Kurzzeitbelastung]]en wird also im menschlichen Körper besonders viel Lac-Phe [[freigesetzt]]. Ob das auch besonders stark den Appetit [[hemmt]], wurde allerdings nicht [[überprüft]]
 
+###### Schritt 3: Beim zweiten Hören Lösungen [[überprüfen]] und offene Aufgaben lösen
+
 ---
 = [[kontrollieren]], [[testen]], [[untersuchen]], [[kontrollieren]], [[checken]], [[durchchecken]], [[zichten]], [[prüfen]]
 ≈ [[prüfen]], [[verifizieren]], [[evaluieren]]

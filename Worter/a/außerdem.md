@@ -30,4 +30,4 @@ in addition, also, moreover, furthermore
 
 ---
 Morpheme:
-[[aus]][[er]][[dem]], [[Konnektoren]], [[obendrein]], [[antreten]], [[Konnektivpartikeln]], [[weiterhin]]
+[[aus]][[er]][[dem]], [[Konnektoren]], [[obendrein]], [[antreten]], [[Konnektivpartikeln]], [[weiterhin]], [[vielmehr]]

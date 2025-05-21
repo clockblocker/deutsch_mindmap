@@ -86,6 +86,6 @@ Wir [[austauschen|tauschen]] unsere [[Erfahrung]]en aus.
 
 *[[Atom#^31|^]]* Polen hat [[keinerlei]] [[Erfahrung]] mit Kernenergie. ^31
 
-*[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderungen]] [[unterschätzt]] werden ^32
+*[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderung]]en [[unterschätzt]] werden ^32
 
 *[[Atom#^33|^]]* Im schlimmsten Fall [[verzögert]] sich das Projekt – und sie können die Natur an ihrem Traumstrand noch etwas länger [[genießen]]. ^33

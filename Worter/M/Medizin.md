@@ -1,1 +1,1 @@
-, [[Arzenei]], [[Symptombehandlung]], [[medizinisch]], [[Gesundheitswesen]]
+, [[Arzenei]], [[Symptombehandlung]], [[medizinisch]], [[Gesundheitswesen]], [[Balsam]]

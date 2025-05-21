@@ -3,9 +3,10 @@
 
 ✅ [[eindeutig]], [ˈaɪ̯ndɔɪ̯tɪç]
 
-
 ---
 Dann, wenn man also die Frage nach der [[Pflicht]] eines Menschen, Geld zu spenden, stellt und den gesellschaftlichen Konsens als Quelle der Ethik [[betrachtet]], [[lautet]] die Antwort: "Für einigermaßen große Gesellschaften - [[eindeutig]] ja".
+
+*[[C1-Lesen-T4-103-Text#^3|^]]* Für den [[Urvater]] der modernen Wirtschaftswissenschaft, Adam Smith, war die Antwort [[eindeutig]]: Sparen sei eine [[Tugend]], denn nur das Sparen ermögliche dem Menschen [[Wohlstand]]
 
 *[[C1-Lesen-T2-102-Text#^5|^]]* Nach wie vor ist nicht [[eindeutig]] geklärt, woher die (2) [[Eigenart]] [[ursprünglich]] stammt. ^5
 

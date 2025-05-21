@@ -1,1 +1,1 @@
-, [[Genehmigung]], [[Zulassungsgrenze]], [[hineinlassen]], [[lassen]], [[verbot]], [[Autoverbot]], [[zulassen]], [[Zutritt]], [[Verdrängung]]
+, [[Genehmigung]], [[Zulassungsgrenze]], [[hineinlassen]], [[lassen]], [[verbot]], [[Autoverbot]], [[zulassen]], [[Zutritt]], [[Verdrängung]], [[Berechtigung]]

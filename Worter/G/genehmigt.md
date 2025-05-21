@@ -1,2 +1,1 @@
-, [[erlaubt]], [[Genehmigung]], [[ungefragt]]
-, [[einverstanden]], [[genehmigen]]
+[[genehmigen]]

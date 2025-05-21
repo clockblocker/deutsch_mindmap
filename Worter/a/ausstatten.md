@@ -64,4 +64,4 @@ sie, [[statten aus]], [[statteten aus]], [[statten aus]], [[statteten aus]], [[s
 Adjektive: [[ausstattend]], [[ausstattender]], [[ausstattendst]]
 
 ---
-[[ausstattender]], [[ausstattendes]], [[ausstattende]], [[ausstattenden]], [[ausstattendem]], [[ausstattenderer]], [[ausstattenderes]], [[ausstattendere]], [[ausstattenderen]], [[ausstattenderem]], [[ausstattendster]], [[ausstattendstes]], [[ausstattendste]], [[ausstattendsten]], [[ausstattendstem]]
+[[ausstattender]], [[ausstattendes]], [[ausstattende]], [[ausstattenden]], [[ausstattendem]], [[ausstattenderer]], [[ausstattenderes]], [[ausstattendere]], [[ausstattenderen]], [[ausstattenderem]], [[ausstattendster]], [[ausstattendstes]], [[ausstattendste]], [[ausstattendsten]], [[ausstattendstem]], [[Versehen]]

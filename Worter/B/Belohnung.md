@@ -27,4 +27,4 @@ A: die [[Belohnung]], die [[Belohnungen]]
 G: der [[Belohnung]], der [[Belohnungen]]
 D: der [[Belohnung]], den [[Belohnungen]]
 
-#Feminin 
+#Feminin , [[Siegerprämie]], [[Preisgeld]]

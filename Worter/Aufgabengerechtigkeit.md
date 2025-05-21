@@ -29,3 +29,6 @@ N: die [[Aufgabengerechtigkeit]], die [[Aufgabengerechtigkeiten]]
 A: die [[Aufgabengerechtigkeit]], die [[Aufgabengerechtigkeiten]]
 G: der [[Aufgabengerechtigkeit]], der [[Aufgabengerechtigkeiten]]
 D: der [[Aufgabengerechtigkeit]], den [[Aufgabengerechtigkeiten]]
+
+
+#Feminin 

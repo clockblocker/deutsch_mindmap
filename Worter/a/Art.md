@@ -31,4 +31,4 @@ Einzigartige mögliche Formen: [[Art]], [[Arten]], [[Artart]], [[Artenreichtum]]
 
 
 ---
-[[Lebensart]], [[Redensart]], [[Kundstart]], , [[Bauart]], [[derartig]], [[Sprechweise]], [[Eigenart]], [[Baumart]]
+[[Lebensart]], [[Redensart]], [[Kundstart]], , [[Bauart]], [[derartig]], [[Sprechweise]], [[Eigenart]], [[Baumart]], [[Geschlecht]]

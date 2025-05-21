@@ -3,7 +3,7 @@
 📉 [[abschwächen]], [ˈapˌʃvɛçn̩](https://youglish.com/pronounce/abschwächen/german) | [[schwächt ab]] | [[abgeschwächt]]
 
 ---
-*[[Golfstorm#^7|^]]* Die Arbeit wurde im Fachjournal »Nature« veröffentlicht und gibt [[zumindest]] [[teilweise]] [[Entwarnung]]: Das Strömungssystem könnte sich bis 2100 deutlich [[abschwächen]], die [[Forschenden]] fanden jedoch keine [[Hinweise]] auf einen [[vollständigen]] Kollaps. 
+*[[Golfstorm#^7|^]]* Die Arbeit wurde im Fachjournal »Nature« veröffentlicht und gibt [[zumindest]] [[teilweise]] [[Entwarnung]]: Das Strömungssystem könnte sich bis 2100 deutlich [[abschwächen]], die [[Forschenden]] fanden jedoch keine [[Hinweis]]e auf einen [[vollständigen]] Kollaps. 
 
 *[[Golfstorm#^18|^]]* Die Meeresströmungen [[abschwächten|schwächten]] sich unter diesen [[Bedingungen]] [[erwartungsgemäß]] ab – aber sie [[kollabierten]] nicht. ^18
 ^7

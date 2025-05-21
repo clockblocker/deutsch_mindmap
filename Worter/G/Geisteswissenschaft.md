@@ -1,2 +1,2 @@
 
-, [[Geist]], [[geisteswissenschaftlich]]
+, [[Geist]], [[geisteswissenschaftlich]], [[geistreich]]

@@ -2,4 +2,4 @@
 
 , [[Risiko]], [[Versicherung]], [[Gefahr]], [[Lebensversicherung]], [[Bedrohung]]
 
-#Feminin , [[gefährden]]
+#Feminin , [[gefährden]], [[Sicherung]]

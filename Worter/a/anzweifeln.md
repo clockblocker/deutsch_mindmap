@@ -1,1 +1,1 @@
-, [[vertrauen]], [[stätigen]], [[umstreiten]]
+, [[vertrauen]], [[stätigen]], [[umstreiten]], [[bestreiten]]

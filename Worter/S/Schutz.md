@@ -42,4 +42,4 @@ D: dem [[Schutz]], den [[Schutzen]]
 , [[Versicherung]], [[Asyl]], [[Folter]], [[Kündigungsschutzklage]], [[Erhaltung]], [[Überfall]], [[Verfolgung]], [[Unantastbarkeit]], [[Vorbeugung]], [[Erhalt]], [[Stadtmauer]], [[Notfallschutz]]
 
 
-#Maskulin , [[Datenschutz]], [[Geborgenheit]], [[Klimaschutz]], [[Mieterschutz]], [[Schonung]]
+#Maskulin , [[Datenschutz]], [[Geborgenheit]], [[Klimaschutz]], [[Mieterschutz]], [[Schonung]], [[Existenzsicherung]], [[Sicherung]]

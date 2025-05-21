@@ -1,1 +1,1 @@
-, [[Kosteneffizienz]]
+, [[Kosteneffizienz]], [[Finanzierbarkeit]]

@@ -17,7 +17,7 @@ die [[Menschenwürden]]
 human dignity
 
 ---
-[[Menschen]]|[[würde]]
+[[Menschen]]|[[Würde]]
 
 ---
 N: die [[Menschenwürde]], die [[Menschenwürden]]  

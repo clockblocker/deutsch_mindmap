@@ -25,4 +25,4 @@ accessible, available
 Adjektive: [[zugänglich]], [[zugänglicher]], [[zugänglichst]]
 
 ---
-[[zugänglicher]], [[zugängliches]], [[zugängliche]], [[zugänglichen]], [[zugänglichem]], [[zugänglicherer]], [[zugänglicheres]], [[zugänglichere]], [[zugänglicheren]], [[zugänglicherem]], [[zugänglichster]], [[zugänglichstes]], [[zugänglichste]], [[zugänglichsten]], [[zugänglichstem]], [[erschwinglich]]
+[[zugänglicher]], [[zugängliches]], [[zugängliche]], [[zugänglichen]], [[zugänglichem]], [[zugänglicherer]], [[zugänglicheres]], [[zugänglichere]], [[zugänglicheren]], [[zugänglicherem]], [[zugänglichster]], [[zugänglichstes]], [[zugänglichste]], [[zugänglichsten]], [[zugänglichstem]], [[erschwinglich]], [[erlebbar]]

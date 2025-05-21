@@ -1,1 +1,1 @@
-, [[damalige]], [[langfristig]], [[vorübergehend]], [[dauerhaft]], [[Zeitraum]], [[zeitweise]]
+, [[damalige]], [[langfristig]], [[vorübergehend]], [[dauerhaft]], [[Zeitraum]], [[zeitweise]], [[kurzlebig]]

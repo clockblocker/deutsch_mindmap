@@ -1,2 +1,2 @@
 , [[anreißen]], [[anzünden]], [[zünden]], [[brennen]], [[laden]], [[tippen]], [[aufschreiben]], [[reinschreiben]], [[malen]], [[erstellen]], [[schreiben]], [[zeichnen]], [[ergänzen]], [[entfernen]]
-, [[einfügen]]
+, [[einfügen]], [[ankreuzen]]

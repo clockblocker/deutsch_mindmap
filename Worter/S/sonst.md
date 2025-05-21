@@ -34,7 +34,6 @@ Alfred [[gehört]] zu den Menschen, die immer den [[Kick]] suchen. Er braucht [[
 „Entschuldigung!“, antwortet Carola. Sie muss wirklich besser aufpassen. [[Sonst]] [[klappt]] es heute bestimmt nicht mit der Prüfung.
 
 
-
 ---
 Synonyme:
 - [[andernfalls]], [[ansonsten]], [[übrigens]], [[im Übrigen]], [[außerdem]], [[ferner]], [[darüber hinaus]], [[zusätzlich]], [[weiterhin]]

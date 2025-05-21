@@ -1,1 +1,1 @@
-, [[männlich]]
+, [[männlich]], [[weiblich]]

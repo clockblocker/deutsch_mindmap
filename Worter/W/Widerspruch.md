@@ -4,9 +4,10 @@
 die [[Widersprüche]]
 
 ---
-27. Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen [[Behörde]] bekommen? (89%)
-	- [ ] Ich lasse die Rechnung liegen.
-	- [x] Ich [[lege ein|lege]] [[Widerspruch]] bei der [[Behörde]] ein.
+Der [[Inhalt]] der [[Aussage]] steht im [[Widerspruch]] zu konkreten [[Aussagen]] im Hörtext
+
+Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen [[Behörde]] bekommen? (89%)
+- [x] Ich [[lege ein|lege]] [[Widerspruch]] bei der [[Behörde]] ein.
 
 ---
 = [[Gegensatz]], [[Einwand]], [[Protest]]
@@ -28,3 +29,6 @@ D: dem [[Widerspruch]], den [[Widersprüchen]]
 ---
 [[widersprechen]], [[widersprüchlich]], [[Widersprüchlichkeit]], [[bestreiten]], [[widerlegen]]
 
+
+
+#Maskulin 

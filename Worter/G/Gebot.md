@@ -1,1 +1,1 @@
-, [[Notwendigkeit]]
+, [[Notwendigkeit]], [[Zwang]]

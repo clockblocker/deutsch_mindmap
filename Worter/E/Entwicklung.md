@@ -6,6 +6,8 @@ die [[Entwicklungen]]
 ---
 Der Film zeigt die [[Entwicklung]] eines Menschen von der Geburt bis zum Tod.
 
+Regelmäßig wurde untersucht, wie sie sich fühlten und ob diese [[Leistung]] für sie ein positiver [[Anreiz]] für ihre persönliche [[Entwicklung]] [[darstellte]]
+
 *[[C1-Hoehen-T1-100-Text#^5|^]]* Eva Meisner, Hausbesitzerin im Ostend, möchte an dieser [[Entwicklung]] [[teilhaben]] und mit ihren Wohnungen einen [[höchstmöglichen]] [[Gewinn]] [[erzielen]], wie so viele Mieter [[wehren]]. ^5
 
 
@@ -48,4 +50,4 @@ D: der [[Entwicklung]], den [[Entwicklungen]]
 [[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]], [[Texte/Misc/Anki]], [[Wendung]]
 , [[fehlentwicklung]], [[Karriere]], [[Stadtentwicklung]], [[Persönlichkeitsentwicklung]], [[Laufbahn]], [[Kindesalter]], [[Verbesserung]], [[Teamentwicklung]], [[Technologie]], [[Ausarbeitung]]
 
-#Feminin , [[Open Space]], [[Ablauf]], [[Bedeutungsverschiebung]], [[Verlauf]], [[Neuzüchtung]], [[Wandel]], [[Ausbau]]
+#Feminin , [[Open Space]], [[Ablauf]], [[Bedeutungsverschiebung]], [[Verlauf]], [[Neuzüchtung]], [[Wandel]], [[Ausbau]], [[Schwangerschaft]], [[Entwicklungspotenzial]]

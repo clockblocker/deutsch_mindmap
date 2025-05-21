@@ -5,6 +5,8 @@ kein Plural
 *[[C1-Lesen-T4-100-Text#^4|^]]* Durch finanzielle [[Unabhängigkeit]] ist man frei von den [[Erwartungen]] anderer ^4
 
 
+13 Hansen ist der [[Auffassung]], dass [[Unabhängigkeit]] auch eine [[Herausforderung]] sein kann.  
+
 ---
 = [[Freiheit]], [[Autonomie]], [[Selbstständigkeit]]
 ≈ [[Souveränität]], [[Eigenständigkeit]], [[Loslösung]]

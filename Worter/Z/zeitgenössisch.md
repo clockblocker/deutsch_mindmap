@@ -2,4 +2,4 @@
 
 
 , [[zeitgenössische]], [[heutig]], [[jetzig]], [[preußisch]]
-, [[althochdeutsch]]
+, [[althochdeutsch]], [[Zeitgenosse]]

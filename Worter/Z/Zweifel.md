@@ -21,4 +21,4 @@ G: des [[Zweifels]], der [[Zweifel]]
 D: dem [[Zweifel]], den [[Zweifeln]]  
 
 ---
-zweifelhaft, zweifellos, zweifeln, zweifach, zweifeln, [[Vertrauensschwund]]
+zweifelhaft, zweifellos, zweifeln, zweifach, zweifeln, [[Vertrauensschwund]], [[Wille]]

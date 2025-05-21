@@ -15,4 +15,4 @@ Synonyme:
 
 ---
 #Substantiv #Maskulin e
-, [[Ergebnis]], [[Tür]], [[Ernte]], [[Zugang]], [[Ende]]
+, [[Ergebnis]], [[Tür]], [[Ernte]], [[Zugang]], [[Ende]], [[ausgehen]]

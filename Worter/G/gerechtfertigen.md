@@ -1,1 +1,1 @@
-, [[ungerechtfertigen]]
+, [[ungerechtfertigen]], [[Gerechtberechtigung]]

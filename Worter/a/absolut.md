@@ -8,6 +8,9 @@ nicht [[relativ]]
 ---
 Ich bin 19 und ein [[absoluter]] Tierfan.  
 
+*[[C1-Hoehen-T1-203-Text#^8|^]]* Früher bedeutete eine [[Schwangerschaft]] im [[Leistungssport]] das [[absolute]] aus
+
+
 ---
 
 Synonyme:
@@ -46,4 +49,4 @@ Tags:
 Morphems:
 [[absolut]][[er]]
 
-[[überhaupt]], [[völlig]], [[durchaus]]
+[[überhaupt]], [[völlig]], [[durchaus]], [[bedingungslos]]

@@ -24,4 +24,4 @@ Alle Formen:
 | Nominative  | die Höh'         | die Höhen      |
 | Accusative  | die Höh'         | die Höhen      |
 | Dative      | der Höh'         | den Höhen      |
-| Genitive    | der Höh'         | der Höhen      |, [[erhöhen]], [[Erhöhung]]
+| Genitive    | der Höh'         | der Höhen      |, [[erhöhen]], [[Erhöhung]], [[höchstmögliche]]

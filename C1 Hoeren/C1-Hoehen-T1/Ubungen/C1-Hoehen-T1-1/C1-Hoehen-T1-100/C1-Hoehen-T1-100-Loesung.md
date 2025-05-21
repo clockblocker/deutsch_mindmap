@@ -114,7 +114,7 @@ trotz aller Probleme (Gentrifizierung) auch *positive Entwicklungen* gibt.
 - *c) Buch 3* ✅
 
 *c ist richtig.*  
-Buch 3 spricht nicht nur über soziale Fragen ([[Verdrängung]] von Mieterinnen und Mietern, Thema Spekulation), sondern gibt [[Hinweise]] zum [[Mietrecht]], [[Kündigungsschutz]], Schutz bei [[Umwandlung]] in [[Eigentumswohnung]]en (= juristische Fragen).  
+Buch 3 spricht nicht nur über soziale Fragen ([[Verdrängung]] von Mieterinnen und Mietern, Thema Spekulation), sondern gibt [[Hinweis]]e zum [[Mietrecht]], [[Kündigungsschutz]], Schutz bei [[Umwandlung]] in [[Eigentumswohnung]]en (= juristische Fragen).  
 
 → Neben der Darstellung sozialer Probleme werden also auch *juristische Fragen* behandelt.
 

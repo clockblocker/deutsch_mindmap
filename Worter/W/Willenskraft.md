@@ -24,3 +24,5 @@ D: der [[Willenskraft]], den [[Willenskräften]]
 
 ---
 [[willensstark]], [[willenschwach]], [[willentlich]], [[willens]], [[wollen]], [[Kraft]]
+
+#Feminin 

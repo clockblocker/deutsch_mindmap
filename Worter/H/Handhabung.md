@@ -4,6 +4,9 @@
 🛠️ 🔴 die [[Handhabung]], [ˈhantˌhaːbʊŋ](https://youglish.com/pronounce/Handhabung/german)
 
 ---
+*[[C1-Hoehen-T1-203-Text#^12|^]]* Durch diese Dokumentation wird deutlich, dass es `im` [[Hinblick]] `auf` die [[Handhabung]] von Mutterschaft durch die [[Verbände]] noch viel [[Entwicklungspotenzial]] gibt. ^12
+
+
 *[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]. ^6
 
 

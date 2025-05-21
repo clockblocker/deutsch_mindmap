@@ -1,1 +1,1 @@
-, [[insgesamt]]
+, [[insgesamt]], [[Summe]]

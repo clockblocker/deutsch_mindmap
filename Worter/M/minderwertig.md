@@ -1,1 +1,1 @@
-, [[wertvoll]], [[Schlecht]], [[hervorragend]], [[mangelhaft]], [[wertlos]]
+, [[wertvoll]], [[Schlecht]], [[hervorragend]], [[mangelhaft]], [[wertlos]], [[weltbest]]

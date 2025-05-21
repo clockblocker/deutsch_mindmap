@@ -5,6 +5,9 @@
 ---
 Falls wir bis Ende der Woche mit einer ersten Version der Präsentation nicht fertig sind, können wir den [[Auftrag]] [[gefährden]] – und damit monatelange [[Vorarbeit]] aufs Spiel setzen. 
 
+*[[C1-Hoehen-T1-202-Text#^26|^]]* *Heute fordern die [[Vereinten]] Nationen eine Entwicklung beim Klimaschutz, die den [[Erfordernis]]sen der heutigen Generationen [[zwar]] [[entspricht]],* 
+ohne jedoch die [[Bedürfnis]]se künftiger Generationen zu [[gefährden]]
+
 ---
 = [[bedrohen]], [[riskieren]], [[schaden]]
 ≈ [[beeinträchtigen]], [[schädigen]], [[verletzen]]

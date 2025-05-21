@@ -1,1 +1,1 @@
-, [[Theatersaal]]
+, [[Theatersaal]], [[Zuschauer]]

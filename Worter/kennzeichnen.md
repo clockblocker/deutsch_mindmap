@@ -28,4 +28,4 @@ PI: [[kennzeichnend]], PII: [[gekennzeichnet]], Zu+inf: [[zu kennzeichnen]]
 [[kennzeichnen]] - [[kenn]] = [[zeichnen]] / to mark, to label, to characterize
 
 ---
-[[Kennzeichen]], [[Kennzeichnung]], [[Markierung]], [[charakteristisch]], [[bezeichnen]], [[weisen]]
+[[Kennzeichen]], [[Kennzeichnung]], [[Markierung]], [[charakteristisch]], [[bezeichnen]], [[weisen]], [[ankreuzen]]

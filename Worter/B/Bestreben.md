@@ -76,4 +76,4 @@ endeavor, aspiration
 N: das [[bestreben]], die [[Bestrebungen]]  
 A: das [[bestreben]], die [[Bestrebungen]]  
 G: des [[Bestrebens]], der [[Bestrebungen]]  
-D: dem [[bestreben]], den [[Bestrebungen]]
+D: dem [[bestreben]], den [[Bestrebungen]], [[Wille]]

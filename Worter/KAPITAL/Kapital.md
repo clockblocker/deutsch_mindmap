@@ -1,1 +1,1 @@
-, [[Kapitalanlage]], [[Zins]]
+, [[Kapitalanlage]], [[Zins]], [[Ersparnis]]

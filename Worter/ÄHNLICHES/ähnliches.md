@@ -1,1 +1,1 @@
-, [[ähnlich]]
+, [[ähnlich]], [[Gegenteil]]

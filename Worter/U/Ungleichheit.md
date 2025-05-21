@@ -6,6 +6,8 @@ die [[Ungleichheiten]]
 ---
 [[Dativ Verben]]: **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], [[Ungleichheit]]**: 
 
+2 Die [[Ungleichheit]] bei den [[Siegerprämien]] wird [[wirtschaftlich]] begründet
+
 ---
 = [[Disparität]], [[Diskrepanz]], [[Unterschiedlichkeit]]
 ≈ [[Verschiedenheit]], [[Asymmetrie]], [[Differenz]]
@@ -26,3 +28,5 @@ D: der [[Ungleichheit]], den [[Ungleichheiten]]
 
 ---
 [[ungleich]], [[ungleichmäßig]], [[angleichen]], [[vergleichen]], [[Bildungschance]], [[Sozialdumping]]
+
+#Feminin 

@@ -4,128 +4,184 @@
     "type": "split",
     "children": [
       {
-        "id": "45c2a3cbe24a40a2",
+        "id": "34b6eebf598da8d8",
         "type": "tabs",
-        "dimension": 77.15289982425307,
+        "dimension": 75.29498525073747,
         "children": [
           {
-            "id": "e0a5158e601c2802",
+            "id": "eb8f9e414a4669d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/hinweist.md",
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-100/C1-Hoehen-T2-100-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hinweist"
+              "title": "C1-Hoehen-T2-100-Text"
             }
           },
           {
-            "id": "686acd413faa7012",
+            "id": "becefc558145127c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-202/C1-Hoehen-T1-202-Text.md",
+                "file": "C1 Lesen/C1-Lesen-T4/0-C1-Lesen-T4-Ubung-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Hoehen-T1-202-Text"
+              "title": "0-C1-Lesen-T4-Ubung-List"
             }
           },
           {
-            "id": "ee9fb68d1ff330ed",
+            "id": "c2aa405947926e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/P/preiswert.md",
+                "file": "C1 Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-1/С1-Lesen-T4-103/C1-Lesen-T4-103-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "preiswert"
+              "title": "C1-Lesen-T4-103-Text"
             }
           },
           {
-            "id": "6ca99e5654f0beb1",
+            "id": "d86cfe68d66dd931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/G/gestalten.md",
+                "file": "Worter/Z/zuvor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gestalten"
+              "title": "zuvor"
             }
           },
           {
-            "id": "a7ab521876ea6dd7",
+            "id": "58d155e5c47d5aa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/G/gefreut.md",
+                "file": "C1 Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-1/С1-Lesen-T4-103/C1-Lesen-T4-103-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gefreut"
+              "title": "C1-Lesen-T4-103-Text"
             }
           },
           {
-            "id": "1e982b21205a6158",
+            "id": "3c90bad2bc51ef98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/F/freuen.md",
+                "file": "Worter/Wählerstimme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "freuen"
+              "title": "Wählerstimme"
             }
           },
           {
-            "id": "11adfb8918bbed5f",
+            "id": "3f7371a74bcf6efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/H/hinweisen.md",
+                "file": "Worter/V/Versehen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hinweisen"
+              "title": "Versehen"
+            }
+          },
+          {
+            "id": "4076364f5be5a8d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Steuerzahlenden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steuerzahlenden"
+            }
+          },
+          {
+            "id": "e64640641e94e6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-2/C1-Hoehen-T2-200/C1-Hoehen-T2-200-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Hoehen-T2-200-Text"
+            }
+          },
+          {
+            "id": "34580ab5c424f9aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/W/Würde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Würde"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
-        "id": "34b6eebf598da8d8",
+        "id": "b900ac31be5a4a77",
         "type": "tabs",
-        "dimension": 22.847100175746924,
+        "dimension": 24.705014749262535,
         "children": [
           {
-            "id": "bf85bc89f7e40f6c",
+            "id": "e124e1c90e7c0f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-201/C1-Hoehen-T1-201-Loesung.md",
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-100/C1-Hoehen-T2-100-Loesung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Hoehen-T1-201-Loesung"
+              "title": "C1-Hoehen-T2-100-Loesung"
+            }
+          },
+          {
+            "id": "dbc4034afb070a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-100/C1-Hoehen-T2-100-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Hoehen-T2-100-Text"
             }
           }
         ]
@@ -185,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.50271224975586
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "66459609b2a42235",
@@ -278,44 +335,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ca99e5654f0beb1",
+  "active": "58d155e5c47d5aa0",
   "lastOpenFiles": [
-    "Worter/P/preiswert.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-202/C1-Hoehen-T1-202-Text.md",
-    "Worter/plastikintensiv.md",
-    "Worter/A/anzugehen.md",
-    "Worter/A/angehen.md",
-    "Worter/PLASTIKINTENSIVSTEM/plastikintensivstem.md",
-    "Worter/PLASTIKINTENSIVSTEM",
-    "Worter/PLASTIKINTENSIVSTEN/plastikintensivsten.md",
-    "Worter/PLASTIKINTENSIVSTEN",
-    "Worter/PLASTIKINTENSIVSTE/plastikintensivste.md",
-    "Worter/PLASTIKINTENSIVSTE",
-    "Worter/PLASTIKINTENSIVSTES/plastikintensivstes.md",
-    "Worter/PLASTIKINTENSIVSTES",
-    "Worter/PLASTIKINTENSIVSTER/plastikintensivster.md",
-    "Worter/PLASTIKINTENSIVSTER",
-    "Worter/PLASTIKINTENSIVEREM/plastikintensiverem.md",
-    "Worter/PLASTIKINTENSIVEREM",
-    "Worter/PLASTIKINTENSIVEREN/plastikintensiveren.md",
-    "Worter/PLASTIKINTENSIVEREN",
-    "Worter/PLASTIKINTENSIVERE/plastikintensivere.md",
-    "Worter/PLASTIKINTENSIVERE",
-    "Worter/PLASTIKINTENSIVERES/plastikintensiveres.md",
-    "Worter/PLASTIKINTENSIVERES",
-    "Worter/PLASTIKINTENSIVERER/plastikintensiverer.md",
-    "Worter/PLASTIKINTENSIVERER",
-    "Worter/PLASTIKINTENSIVEM/plastikintensivem.md",
-    "Worter/PLASTIKINTENSIVEN/plastikintensiven.md",
-    "Worter/PLASTIKINTENSIVE/plastikintensive.md",
-    "Worter/PLASTIKINTENSIVES/plastikintensives.md",
-    "Worter/PLASTIKINTENSIVST/plastikintensivst.md",
-    "Worter/PLASTIKINTENSIVER/plastikintensiver.md",
-    "Worter/PLASTIKFREI/plastikfrei.md",
-    "Worter/PLASTIKHALTIG/plastikhaltig.md",
-    "Worter/KUNSTSTOFFINTENSIV/kunststoffintensiv.md",
-    "Worter/G/gesamt.md",
-    "Worter/HERSTELLUNGSPROZESS/Herstellungsprozess.md",
+    "Worter/Wählerstimme.md",
+    "Worter/Wählerstimmen.md",
+    "C1 Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-1/С1-Lesen-T4-103/C1-Lesen-T4-103-Text.md",
+    "Worter/U/Umgang.md",
+    "Worter/W/Wille.md",
+    "Worter/T/Tilgung.md",
+    "Worter/Vernichtung.md",
+    "Worter/ERSPARNIS/Ersparnis.md",
+    "Worter/Steuerzahlenden.md",
+    "Worter/Steuerzahler.md",
+    "Worter/Sparenden.md",
+    "Worter/SPARER/Sparer.md",
+    "Worter/A/Aufbau.md",
+    "Worter/vergeudet.md",
+    "Worter/V/vergeuden.md",
+    "Worter/werdenden.md",
+    "Worter/W/werden.md",
+    "Worter/S/Schuld.md",
+    "Worter/Z/zuvor.md",
+    "Lektionen/jul/1 Präpositionen Übungen.md",
+    "Worter/F/ferner.md",
+    "Worter/S/sowohl.md",
+    "Worter/W/wiederum.md",
+    "Worter/O/obendrein.md",
+    "Worter/Z/zudem.md",
+    "Worter/S/sonst.md",
+    "Worter/FERNREGELUNG",
+    "Worter/FERNSTEUERUNG",
+    "Worter/VERURTEILENDSTEM",
+    "Worter/VERURTEILENDSTEN",
+    "Worter/VERURTEILENDSTE",
+    "Worter/VERURTEILENDSTES",
+    "Worter/VERURTEILENDSTER",
+    "Worter/VERURTEILENDEREM",
+    "Worter/VERURTEILENDEREN",
+    "Worter/VERURTEILENDERE",
+    "Anhänge/Pasted image 20250519072123.png",
     "Anhänge/Pasted image 20250518110508.png",
     "Anhänge/Pasted image 20250518110417.png",
     "Anhänge/Pasted image 20250518110147.png",
@@ -324,7 +382,6 @@
     "Anhänge/Pasted image 20250516052135.png",
     "Anhänge/Pasted image 20250516052120.png",
     "Anhänge/Pasted image 20250516052104.png",
-    "Anhänge/Pasted image 20250516052046.png",
-    "Anhänge/Pasted image 20250515091240.png"
+    "Anhänge/Pasted image 20250516052046.png"
   ]
 }

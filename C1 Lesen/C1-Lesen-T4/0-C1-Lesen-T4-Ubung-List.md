@@ -1,7 +1,7 @@
 *100 - 2023 Mit Erfolg Modellsätzen*
-- [ ] [[C1-Lesen-T4-100-Text|100]]
-- [ ] [[C1-Lesen-T4-101-Text|101]]
-- [ ] [[C1-Lesen-T4-102-Text|102]]
+- [x] [[C1-Lesen-T4-100-Text|100]]
+- [x] [[C1-Lesen-T4-101-Text|101]]
+- [x] [[C1-Lesen-T4-102-Text|102]]
 - [ ] [[C1-Lesen-T4-103-Text|103]]
 
 *200 - 2023 Prüfungstraining*

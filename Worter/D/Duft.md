@@ -23,4 +23,4 @@ G: des [[Duftes]], der [[Düfte]]
 D: dem [[Duft]], den [[Düften]]  
 
 ---
-[[duften]], [[duftend]], [[duftlos]], [[Duftkerze]], [[Duftnote]], [[Körpergeruch]], [[Riechsinn]]
+[[duften]], [[duftend]], [[duftlos]], [[Duftkerze]], [[Duftnote]], [[Körpergeruch]], [[Riechsinn]], [[Balsam]]

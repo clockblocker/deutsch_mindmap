@@ -1,1 +1,1 @@
-, [[verurteilten]]
+[[verurteilten]], [[verurteilen]]

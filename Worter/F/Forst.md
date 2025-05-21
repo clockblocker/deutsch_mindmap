@@ -1,1 +1,1 @@
-, [[Forstamt]], [[Waldabschnitt]]
+, [[Forstamt]], [[Waldabschnitt]], [[Forstwirtschaft]]

@@ -36,4 +36,4 @@ Typische Verwendungen:
 - Formell
 - Rechtlich verbindlich
 - Schriftliche Kommunikation, [[Bewerbung]], [[Bewerb]], [[Petition]]
-, [[Wohnungsbewerbung]], [[Vorschlag]], [[Beantragung]], [[Lösungsvorschlag]]
+, [[Wohnungsbewerbung]], [[Vorschlag]], [[Beantragung]], [[Lösungsvorschlag]], [[beantragen]]

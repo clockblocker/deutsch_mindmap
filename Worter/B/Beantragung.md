@@ -1,12 +1,12 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
 
-, [[Bestellung]]📝 🔴 die [[Beantragung]], [bəˈʔantʁaːɡʊŋ](https://youglish.com/pronounce/Beantragung/german)
+📝 🔴 die [[Beantragung]], [bəˈʔantʁaːɡʊŋ](https://youglish.com/pronounce/Beantragung/german)
 
 ---
-*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^10|^]]* Die Arbeitsweise, die Kommunikation, die Regeln, die [[Hierarchien]], die [[Übersetzung]] von Dokumenten und die [[Beantragung]] des [[Visums]] kosten viel Zeit und Nerven kosten. ^10
+*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^10|^]]* Die Arbeitsweise, die Kommunikation, die Regeln, die [[Hierarchien]], die [[Übersetzung]] von Dokumenten und die [[Beantragung]] des [[Visums]] kosten viel Zeit und Nerven kosten
 
 ---
-= [[Antragstellung]], [[Anforderung]], [[Gesuch]]
+= [[Antragstellung]], [[Anforderung]], [[Gesuch]], [[Bestellung]]
 ≈ [[Einreichung]], [[Stellung]], [[Forderung]]
 ≠ [[Ablehnung]], [[Verweigerung]]
 
@@ -27,3 +27,6 @@ N: die [[Beantragung]], die [[Beantragungen]]
 A: die [[Beantragung]], die [[Beantragungen]]
 G: der [[Beantragung]], der [[Beantragungen]]
 D: der [[Beantragung]], den [[Beantragungen]]
+
+
+#Feminin 

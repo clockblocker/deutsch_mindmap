@@ -4,10 +4,12 @@ die [[Leben]]
 ---
 Toni raucht nicht mehr und [[lebt]] [[dadurch]] [[gesünder]].
 
-- *Keiner weiß wie lang* 
-  *Ja, für ein [[Leben]] ohne Zwang* 
+9 [[Laut]] Hansen haben heute die meisten Menschen Schwierigkeite `von` ihrer Arbeit zu [[leben]].  
+
+ *Keiner weiß wie lang* 
+*Ja, für ein [[Leben]] ohne Zwang* 
   
--  Hast du in deinem [[Leben]] schon mal ein Regal aufgebaut? 
+Hast du in deinem [[Leben]] schon mal ein Regal aufgebaut? 
 
 ---
 Synonyme:
@@ -61,4 +63,4 @@ Morpheme: [[leb]][[en]]
 
 Partizip I: [[lebend]], Partizip II: [[gelebt]]
 [[Leben]] - keine Vorsilbe
-, [[Geschäftsleben]], [[wohnen]], [[erfrieren]], [[verscheiden]], [[Lebensform]], [[Lebensjahr]], [[Lebensversicherung]], [[Grab]], [[s1 e1]], [[Todesfall]], [[lebendig]], [[Lebensstil]], [[Privatleben]], [[Berufsleben]], [[Lebenshaltungskosten]], [[Alltag]], [[lebenswichtig]], [[beleben]], [[Lebewesen]], [[Lebensalter]], [[Lebenslage]]
+, [[Geschäftsleben]], [[wohnen]], [[erfrieren]], [[verscheiden]], [[Lebensform]], [[Lebensjahr]], [[Lebensversicherung]], [[Grab]], [[s1 e1]], [[Todesfall]], [[lebendig]], [[Lebensstil]], [[Privatleben]], [[Berufsleben]], [[Lebenshaltungskosten]], [[Alltag]], [[lebenswichtig]], [[beleben]], [[Lebewesen]], [[Lebensalter]], [[Lebenslage]], [[Lebensweise]], [[kurzlebig]], [[lebenswert]]

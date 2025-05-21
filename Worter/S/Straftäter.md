@@ -1,1 +1,1 @@
-, [[Straftat]], [[Einbrecher]], [[Verbrecher]]
+, [[Straftat]], [[Einbrecher]], [[Verbrecher]], [[verurteilen]]

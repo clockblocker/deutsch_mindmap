@@ -1,1 +1,1 @@
-, [[rächen]]
+, [[rächen]], [[belohnen]]

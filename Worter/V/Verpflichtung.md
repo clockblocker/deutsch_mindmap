@@ -28,4 +28,4 @@ D: der [[Verpflichtung]], den [[Verpflichtungen]]
 ---
 [[verpflichten]], [[verpflichtet]], [[unverbindlich]], [[verbindlich]]
 , [[Freizeitaktivität]]
-, [[Auftrag]], [[Entlastung]]
+, [[Auftrag]], [[Entlastung]], [[Zwang]]

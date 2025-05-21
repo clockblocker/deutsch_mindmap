@@ -59,4 +59,4 @@ sie, [[sichern]], [[sicherten]], [[sichern]], [[sicherten]], [[sichern]]
 Adjektive: [[sichernd]], [[sichernder]], [[sicherndst]]
 
 ---
-[[sichernder]], [[sicherndes]], [[sichernde]], [[sichernden]], [[sicherndem]], [[sichernderer]], [[sichernderes]], [[sicherndere]], [[sichernderen]], [[sichernderem]], [[sicherndster]], [[sicherndstes]], [[sicherndste]], [[sicherndsten]], [[sicherndstem]], [[bergen]], [[verwahren]]
+[[sichernder]], [[sicherndes]], [[sichernde]], [[sichernden]], [[sicherndem]], [[sichernderer]], [[sichernderes]], [[sicherndere]], [[sichernderen]], [[sichernderem]], [[sicherndster]], [[sicherndstes]], [[sicherndste]], [[sicherndsten]], [[sicherndstem]], [[bergen]], [[verwahren]], [[Existenzsicherung]]

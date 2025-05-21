@@ -1,1 +1,1 @@
-, [[verurteilten]], [[missbilligend]]
+[[verurteilen]], [[missbilligend]], [[verurteilen]]

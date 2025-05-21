@@ -28,3 +28,5 @@ D: dem [[Versuch]], den [[Versuchen]]
 ---
 [[versuchen]], [[versucht]], [[Versuchsreihe]], [[Versuchsleiter]], [[Versuchsplanung]], [[Versuchsaufbau]]
 , [[ablenken]], [[Anhieb]]
+
+#Maskulin 

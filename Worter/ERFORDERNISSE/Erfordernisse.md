@@ -1,1 +1,1 @@
-, [[erfordern]]
+, [[erfordern]], [[Erfordernis]]

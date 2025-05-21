@@ -1,1 +1,1 @@
-, [[Abschottung]], [[Zusammenhang]], [[Strom]]
+, [[Abschottung]], [[Zusammenhang]], [[Strom]], [[Wärmedämmung]]

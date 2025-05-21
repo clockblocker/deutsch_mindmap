@@ -1,1 +1,1 @@
-, [[ungerechtfertigen]], [[Begründung]], [[rechtfertigen]]
+, [[ungerechtfertigen]], [[Begründung]], [[rechtfertigen]], [[Gerechtberechtigung]]

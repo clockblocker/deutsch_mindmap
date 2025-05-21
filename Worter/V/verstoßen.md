@@ -35,4 +35,4 @@ PI: [[verstoßend]], PII: [[verstoßen]], Zu+inf: [[zu verstoßen]]
 ---
 [[Verstoß]], [[Ausstoßung]], [[Verbannung]], [[verstoßen]], [[stoßen]]
 [[verbannt]], [[übertreten]], [[Strafgesetz]]
-, [[befolgen]]
+, [[befolgen]], [[abandonieren]]

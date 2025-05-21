@@ -5,7 +5,7 @@ Midorima to Taiga: Aber [[unterschätz]] mich nicht
 
 0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]. ✅ a
 
-*[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderungen]] [[unterschätzt]] werden ^32
+*[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderung]]en [[unterschätzt]] werden ^32
 
 
 [[Letztendlich]] _sind wir selbst dafür verantwortlich, dass es uns und unserer Familie gut geht._ [[Qualitätszeit]] _mit Freunden und Familie zu_ [[verbringen]] _wird oft_ [[unterschätzt]] _, da es nicht „rentabel“ ist. ^10

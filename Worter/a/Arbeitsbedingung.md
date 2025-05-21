@@ -1,9 +1,10 @@
-, [[Arbeitsbedingungen]]
 🏢 🔴 die [[Arbeitsbedingung]], [ˈaʁbaɪ̯tsbəˌdɪŋʊŋ](https://youglish.com/pronounce/Arbeitsbedingung/german)
 die [[Arbeitsbedingungen]]
 
 ---
-*[[01-C1-Schreiben-T2-M#^11|^]]* - Beschreiben Sie [[Arbeitsbedingung]]en, die für Sie akzeptabel wären ^11
+*[[01-C1-Schreiben-T2-M#^11|^]]* - Beschreiben Sie [[Arbeitsbedingung]]en, die für Sie akzeptabel wären
+
+14 Laut Herrn Hansen könnte ein bedingungsloses Grundeinkommen positive Effekte auf die [[Arbeitsbedingung]]en haben.  
 
 ---
 = [[Arbeitsverhältnis]], [[Arbeitsumstände]]

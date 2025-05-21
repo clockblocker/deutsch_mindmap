@@ -27,3 +27,6 @@ D: der [[Freiheitsstrafe]], den [[Freiheitsstrafen]]
 
 ---
 [[strafen]], [[verurteilen]], [[Freiheit]], [[einsperren]], [[inhaftieren]], [[Todesstrafe]]
+
+
+#Feminin 

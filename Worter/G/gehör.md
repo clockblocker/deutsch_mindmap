@@ -1,1 +1,1 @@
-, [[gehören]], [[angehören]], [[Zugehörigkeit]]
+, [[gehören]], [[angehören]], [[Zugehörigkeit]], [[Ohr]]

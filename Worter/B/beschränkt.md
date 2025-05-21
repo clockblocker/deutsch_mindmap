@@ -30,4 +30,4 @@ limited, restricted
 Adjektive: [[beschränkt]], [[beschränkter]], [[beschränktest]]
 
 ---
-[[beschränkter]], [[beschränktes]], [[beschränkte]], [[beschränkten]], [[beschränktem]], [[beschränkterer]], [[beschränkteres]], [[beschränktere]], [[beschränkteren]], [[beschränkterem]], [[beschränktester]], [[beschränktestes]], [[beschränkteste]], [[beschränktesten]], [[beschränktestem]]
+[[beschränkter]], [[beschränktes]], [[beschränkte]], [[beschränkten]], [[beschränktem]], [[beschränkterer]], [[beschränkteres]], [[beschränktere]], [[beschränkteren]], [[beschränkterem]], [[beschränktester]], [[beschränktestes]], [[beschränkteste]], [[beschränktesten]], [[beschränktestem]], [[dumm]]

@@ -1,2 +1,2 @@
 , [[bestens]], [[am besten]]
-, [[gut]], [[Bestenliste]]
+, [[gut]], [[Bestenliste]], [[weltbest]]

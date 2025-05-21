@@ -27,4 +27,4 @@ subordinate, inferior
 Adjektive: [[untergeordnet]], [[untergeordneter]], [[untergeordnetest]]
 
 ---
-[[untergeordneter]], [[untergeordnetes]], [[untergeordnete]], [[untergeordneten]], [[untergeordnetem]], [[untergeordneterer]], [[untergeordneteres]], [[untergeordnetere]], [[untergeordneteren]], [[untergeordneterem]], [[untergeordnetester]], [[untergeordnetestes]], [[untergeordneteste]], [[untergeordnetesten]], [[untergeordnetestem]]
+[[untergeordneter]], [[untergeordnetes]], [[untergeordnete]], [[untergeordneten]], [[untergeordnetem]], [[untergeordneterer]], [[untergeordneteres]], [[untergeordnetere]], [[untergeordneteren]], [[untergeordneterem]], [[untergeordnetester]], [[untergeordnetestes]], [[untergeordneteste]], [[untergeordnetesten]], [[untergeordnetestem]], [[unabhängig]]

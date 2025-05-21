@@ -1,1 +1,1 @@
-, [[Versicherungspflicht]], [[freiwillig]]
+, [[Versicherungspflicht]], [[freiwillig]], [[Zwang]]

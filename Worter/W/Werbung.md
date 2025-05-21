@@ -24,4 +24,4 @@ Morphems:
 
 ---
 #Substantiv #Feminin, [[Anzeige]], [[Produktrezension]]
-, [[Inserat]], [[anwerben]], [[Datenbank]], [[Ausstattung]]
+, [[Inserat]], [[anwerben]], [[Datenbank]], [[Ausstattung]], [[Werbeobjekt]], [[Werbevertrag]]

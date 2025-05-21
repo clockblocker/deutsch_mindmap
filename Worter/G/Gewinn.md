@@ -36,4 +36,4 @@ Dative: dem [[Gewinn]], den [[Gewinnen]]
 
 
 
-#Maskulin , [[Wetteinsatz]], [[Einsatz]], [[Erlös]], [[Ausgabe]], [[nutzen]]
+#Maskulin , [[Wetteinsatz]], [[Einsatz]], [[Erlös]], [[Ausgabe]], [[nutzen]], [[Preisgeld]]

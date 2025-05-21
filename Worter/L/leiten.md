@@ -35,4 +35,4 @@ Zu+infinifive: [[zu leiten]]
 
 ---
 [[Leiter]], [[Leitung]], [[Anleitung]], [[Geschäftsführung]], [[Verwaltung]], [[Direktion]], [[Projektleitung]], [[Behördenleiter]], [[verwalten]], [[Vereinstrainer]], [[vorsitzen]], [[ableiten]], [[Stadtoberhaupt]], [[anstrengen]]
-, [[vorangehen]], [[Teamleiter]], [[Einkaufsleiterin]], [[weiterleiten]], [[vorherrschen]]
+, [[vorangehen]], [[Teamleiter]], [[Einkaufsleiterin]], [[weiterleiten]], [[vorherrschen]], [[einleiten]], [[verleiten]]

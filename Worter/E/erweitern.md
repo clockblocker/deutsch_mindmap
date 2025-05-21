@@ -57,4 +57,4 @@ sie, [[erweitern]], [[erweiterten]], [[erweitern]], [[erweiterten]], [[erweitern
 Adjektive: [[erweiternd]], [[erweiternder]], [[erweiterndst]]
 
 ---
-[[erweiternder]], [[erweiterndes]], [[erweiternde]], [[erweiternden]], [[erweiterndem]], [[erweiternderer]], [[erweiternderes]], [[erweiterndere]], [[erweiternderen]], [[erweiternderem]], [[erweiterndster]], [[erweiterndstes]], [[erweiterndste]], [[erweiterndsten]], [[erweiterndstem]], [[ausbauen]]
+[[erweiternder]], [[erweiterndes]], [[erweiternde]], [[erweiternden]], [[erweiterndem]], [[erweiternderer]], [[erweiternderes]], [[erweiterndere]], [[erweiternderen]], [[erweiternderem]], [[erweiterndster]], [[erweiterndstes]], [[erweiterndste]], [[erweiterndsten]], [[erweiterndstem]], [[ausbauen]], [[bereichern]]

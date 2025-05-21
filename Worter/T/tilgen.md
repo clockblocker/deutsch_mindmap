@@ -1,1 +1,1 @@
-, [[anreißen]], [[begleichen]], [[bezahlen]], [[abschaffen]]
+, [[anreißen]], [[begleichen]], [[bezahlen]], [[abschaffen]], [[Tilgung]]

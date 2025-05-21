@@ -1,1 +1,1 @@
-, [[anständig]], [[eher]], [[ehren]], [[Ehrentitel]]
+, [[anständig]], [[eher]], [[ehren]], [[Ehrentitel]], [[würdevoll]], [[tugendhaft]]

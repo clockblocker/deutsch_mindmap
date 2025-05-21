@@ -3,6 +3,8 @@
 ---
 Lily war immer schöner als ich und ich … ich war [[gemein]] zu ihr, [[deswegen]], und dann konnte sie _zaubern_, kannst du dir [[vorstellen]], wie ich mich gefühlt habe? 
 
+*[[C1-Hoehen-T2-100-Text#^27|^]]* Ich hoffe nicht und kann mir das auch schwer [[vorstellen]].
+
 Tina ist eine ganz normale Frau. Sie lebt in Köln und fliegt am liebsten nach Australien. Sie kann sich einfach alles [[Leisten]] und [[genießt]] das Leben. So [[vorstellen|stellen]] sich manche Leute das Leben in Frankreich [[vorstellen|vor]]. 
 
 ---
@@ -66,4 +68,4 @@ _[[gewöhnen]]_
 
 [[keymaker]]
 
-, [[ankündigen]]
+, [[ankündigen]], [[unvorstellbar]]

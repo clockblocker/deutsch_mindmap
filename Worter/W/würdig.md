@@ -1,1 +1,1 @@
-, [[Menschenwürde]], [[merkwürdige]], [[Sehenswürdigkeit]]
+, [[Menschenwürde]], [[merkwürdige]], [[Sehenswürdigkeit]], [[Würde]], [[würdevoll]]

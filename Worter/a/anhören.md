@@ -5,6 +5,8 @@ haben [[angehört]]
 ---
 Und manche Menschen [[hören]] [[sich]] dabei fast so [[an]] wie ein Vogel
 
+Das [[anhört|hört]] sich alles [[ziemlich]] kompliziert an.
+
 *[[Text mit Reflexivpronomen#^13|^]]* [[Während]] des Essens im Restaurant habe ich (18) seinen [[Bericht]] über die neuesten Küchenmaschinen mit großem Interesse [[angehört]]. ^13
 
 Linda ist gerade [[aufgestanden]] und hat keine [[Lust]], sich einen Kaffee-[[Vortrag]] [[anzuhören]]. Sie ignoriert ihren Mitbewohner und [[vorbereitet|bereitet]] weiter ihr Frühstück vor. 

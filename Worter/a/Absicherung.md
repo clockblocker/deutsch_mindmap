@@ -1,1 +1,1 @@
-, [[Versicherung]], [[Lebensversicherung]]
+, [[Versicherung]], [[Lebensversicherung]], [[Existenzsicherung]], [[Sicherung]]

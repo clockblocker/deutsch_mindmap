@@ -4,6 +4,8 @@
 ---
 Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
 
+*[[C1-Hoehen-T2-100-Text#^20|^]]* Andere Wissenschaftler sehen das kritischer, da sie der [[Auffassung]] sind, bestimmte Sozialleistungen müssten auch nach [[Einführung]] des bedingungslosen Grundeinkommens [[bestehen]] bleiben
+
 Deshalb entwickeln nun Wissenschaftlerinnen und Wissenschaftler der Technischen Universität München gemeinsam mit ausländischen Partner-Instituten ein System, dessen Aufgabe darin [[besteht]], Müll unter Wasser einzusammeln.  
 
 *[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]. ^6

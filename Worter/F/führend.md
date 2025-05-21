@@ -1,4 +1,4 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
-, [[führen]], [[regierend]]
+, [[führen]], [[regierend]], [[weltbest]]

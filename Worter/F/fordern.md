@@ -4,6 +4,8 @@
 ---
 Sie [[fordern]] den gleichen [[Lohn]] für alle.
 
+*[[C1-Hoehen-T1-202-Text#^24|^]]* Oder der [[sächsische]] Oberberghauptmann Carl von Carlowitz äußerte bereits 1713 für eine schonende [[Forstwirtschaft]] und [[nachhaltig]]e Nutzung der [[Holzreserven]], indem er eine bessere [[Wärmedämmung]] der Häuser [[forderte]]
+
 *[[07-C1-Schreiben-T2-M#^2|^]]* Als [[Folge]] [[dauern]] bei Ihnen und Ihrem Team viele [[Arbeitsprozess]]e nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der [[geforderten]] Zeit zu [[erledigen]]. ^2
 
 
@@ -38,4 +40,4 @@ PI: [[fordernd]], PII: [[gefordert]], Zu+inf: [[zufordern]]
 [[fordern]] - [[Stamm]] = [[fordern]] / to demand, to request, to challenge
 
 ---
-[[Forderung]], [[Herausforderung]], [[Anspruch]], [[forschend]], [[fordernd]], [[Forderer]], [[Forderung]], [[erforderlich]], [[überfordern]], [[benötigen]], [[Aufrufen]], [[dringen]], [[Überforderung]], [[erfordern]], [[drängen]], [[appellieren]], [[einfordern]]
+[[Forderung]], [[Herausforderung]], [[Anspruch]], [[forschend]], [[fordernd]], [[Forderer]], [[Forderung]], [[erforderlich]], [[überfordern]], [[benötigen]], [[Aufrufen]], [[dringen]], [[Überforderung]], [[erfordern]], [[drängen]], [[appellieren]], [[einfordern]], [[Erfordernis]], [[beantragen]]

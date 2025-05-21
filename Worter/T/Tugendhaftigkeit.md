@@ -1,1 +1,1 @@
-, [[Tugend]]
+, [[Tugend]], [[tugendhaft]]

@@ -32,4 +32,4 @@ D: dem [[Geist]], den [[Geistern]]
 , [[geisteswissenschaftlich]]
 
 #Maskulin 
-, [[Gedächtnis]]
+, [[Gedächtnis]], [[geistreich]]

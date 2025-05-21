@@ -37,4 +37,4 @@ A: die [[Entsorgung]], die [[Entsorgungen]]
 G: der [[Entsorgung]], der [[Entsorgungen]]
 D: der [[Entsorgung]], den [[Entsorgungen]]
 
-#Feminin 
+#Feminin , [[Müllabfuhr]]

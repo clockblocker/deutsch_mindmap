@@ -40,4 +40,4 @@ permanent, lasting
 Adjektive: [[dauerhaft]], [[dauerhafter]], [[dauerhaftest]]
 
 ---
-[[dauerhafter]], [[dauerhaftes]], [[dauerhafte]], [[dauerhaften]], [[dauerhaftem]], [[dauerhafterer]], [[dauerhafteres]], [[dauerhaftere]], [[dauerhafteren]], [[dauerhafterem]], [[dauerhaftester]], [[dauerhaftestes]], [[dauerhafteste]], [[dauerhaftesten]], [[dauerhaftestem]], [[mangeln]], [[langjährig]], [[langanhaltend]], [[stundenlang]], [[zeitweise]]
+[[dauerhafter]], [[dauerhaftes]], [[dauerhafte]], [[dauerhaften]], [[dauerhaftem]], [[dauerhafterer]], [[dauerhafteres]], [[dauerhaftere]], [[dauerhafteren]], [[dauerhafterem]], [[dauerhaftester]], [[dauerhaftestes]], [[dauerhafteste]], [[dauerhaftesten]], [[dauerhaftestem]], [[mangeln]], [[langjährig]], [[langanhaltend]], [[stundenlang]], [[zeitweise]], [[kurzlebig]]

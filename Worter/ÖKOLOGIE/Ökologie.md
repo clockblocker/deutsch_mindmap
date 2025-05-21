@@ -1,1 +1,1 @@
-, [[Klimaschutz]], [[Ressourcenschonung]]
+, [[Klimaschutz]], [[Ressourcenschonung]], [[Nachhaltigkeit]]

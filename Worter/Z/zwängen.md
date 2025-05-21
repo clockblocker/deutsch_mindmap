@@ -1,1 +1,3 @@
-, [[zwingen]]
+[[Zwang]]
+[[zwingen]]
+

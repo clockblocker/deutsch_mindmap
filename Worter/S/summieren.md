@@ -1,1 +1,1 @@
-, [[zählen]], [[zusammenrechnen]], [[rechnen]]
+, [[zählen]], [[zusammenrechnen]], [[rechnen]], [[Summe]]

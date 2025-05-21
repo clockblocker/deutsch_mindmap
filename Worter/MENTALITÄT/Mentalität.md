@@ -1,1 +1,1 @@
-, [[Grundeinstellung]]
+, [[Grundeinstellung]], [[Lebensweise]]

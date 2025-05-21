@@ -2,7 +2,7 @@
 die [[Umwandlungen]]
 
 ---
-*[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnungen]]. ^19
+*[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnung]]en
 
 
 ---

@@ -4,6 +4,8 @@ die [[Prüfungen]]
 ---
 Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfungen]].
 
+*[[C1-Hoehen-T2-100-Text#^5|^]]* Und das automatisch, ohne [[Prüfung]] der [[Bedürftigkeit]], also bedingungslos. Alle bekommen es.  
+
 
 ---
 = [[Worter/T/Test]], [[Examen]], [[Probe]]
@@ -29,3 +31,5 @@ D: der [[Prüfung]], den [[Prüfungen]]
 , [[Führerscheinprüfung]], [[Herausforderung]], [[Gesellenprüfung]], [[Vergleich]], [[Untersuchung]]
 , [[Lückentext]]
 , [[Schularbeit]], [[überprüfen]]
+
+#Feminin 

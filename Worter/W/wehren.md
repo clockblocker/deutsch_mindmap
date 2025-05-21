@@ -1,4 +1,5 @@
-, [[wehrten]]
+-->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
+
 🛡️ [[wehren]], [ˈveːʁn̩] | [[wehrte]], haben [[gewehrt]]
 
 ---

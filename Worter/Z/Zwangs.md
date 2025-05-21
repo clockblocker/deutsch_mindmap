@@ -1,1 +1,1 @@
-, [[Zwangsarbeit]], [[zwangsweise]]
+, [[Zwangsarbeit]], [[zwangsweise]], [[Zwang]]

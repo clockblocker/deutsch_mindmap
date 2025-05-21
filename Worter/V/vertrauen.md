@@ -11,7 +11,7 @@ NIC: Ja ich kenn mich da aus Sam, [[vertrau]] mir!
 
 Die [[Zuschauer]] müssen dir [[vertrauen]].  
 
-[[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
+[[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderung]]en [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 ---
 = [[glauben]], [[sich verlassen auf]], [[zuversichtlich sein]]

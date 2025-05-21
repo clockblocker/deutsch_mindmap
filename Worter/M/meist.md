@@ -3,6 +3,8 @@
 ---
 Am [[meisten]] gefällt mir das rote Kleid.
 
+*[[C1-Hoehen-T2-100-Text#^6|^]]* Bei [[denjenig]]en Menschen, die aktuell Sozialleistungen [[beziehen]], könnte ein bedingungsloses Grundeinkommen die [[meisten]] dieser [[Leistung]]en [[ersetzen]]
+
 25. Wahlen in Deutschland gewinnt die Partei, die … (89%)
 	- [x] die [[meisten]] Stimmen bekommt.
 

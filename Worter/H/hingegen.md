@@ -2,7 +2,10 @@
 ↔️ [[hingegen]], [ˈhɪnˌɡeːɡn̩](https://youglish.com/pronounce/hingegen/german)
 
 ---
-*[[Atom#^23|^]]* Italien [[hingegen]] will nach 35 Jahren wieder [[einsteigen]]. ^23
+*[[Atom#^23|^]]* Italien [[hingegen]] will nach 35 Jahren wieder [[einsteigen]]
+
+*[[C1-Lesen-T4-103-Text#^5|^]]* Sein [[Zeitgenosse]] im [[preußisch]]en Königsberg, der Philosoph Immanuel Kant, meinte [[hingegen]], dass [[Sparsamkeit]] nichts [[tugendhaft]]es an sich habe, denn sparen könne auch der [[Dümmste]], während man unter den [[Verschwendern]] und [[Schuldnern]] die [[aufgewecktesten]] und [[geistreichsten]] Persönlichkeiten finde
+
 
 ---
 = [[dagegen]], [[andererseits]], [[im Gegensatz dazu]]

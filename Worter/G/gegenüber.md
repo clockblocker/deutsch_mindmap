@@ -36,4 +36,4 @@ Verwendungsbeispiele:
 Varianten:
 - [[gegenüber]] + Dativ
 - [[gegenüber von]] + Dativ
-''', [[wider]], [[entgegen]]
+''', [[wider]], [[entgegen]], [[Gegenteil]]

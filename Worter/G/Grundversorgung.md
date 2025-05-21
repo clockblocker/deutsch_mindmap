@@ -1,1 +1,1 @@
-, [[versorgen]], [[Versorgung]]
+, [[versorgen]], [[Versorgung]], [[Existenzsicherung]]

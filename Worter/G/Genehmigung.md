@@ -30,4 +30,6 @@ D: der [[Genehmigung]], den [[Genehmigungen]]
 ---
 [[genehmigen]], [[genehmigt]], [[Genehmigungsprozess]], [[Genehmigungsbehörde]], [[lassen]], [[Einverständnis]], [[verbot]], [[Zugriff]], [[Parkberechtigung]], [[Zutritt]]
 
-, [[Studienvisum]], [[angenehm]]
+, [[Studienvisum]], [[angenehm]], [[Berechtigung]]
+
+#Feminin 

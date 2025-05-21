@@ -24,4 +24,4 @@ unlimited, unrestricted
 Adjektive: [[unbeschränkt]], [[unbeschränkter]], [[unbeschränktest]]
 
 ---
-[[unbeschränkter]], [[unbeschränktes]], [[unbeschränkte]], [[unbeschränkten]], [[unbeschränktem]], [[unbeschränkterer]], [[unbeschränkteres]], [[unbeschränktere]], [[unbeschränkteren]], [[unbeschränkterem]], [[unbeschränktester]], [[unbeschränktestes]], [[unbeschränkteste]], [[unbeschränktesten]], [[unbeschränktestem]]
+[[unbeschränkter]], [[unbeschränktes]], [[unbeschränkte]], [[unbeschränkten]], [[unbeschränktem]], [[unbeschränkterer]], [[unbeschränkteres]], [[unbeschränktere]], [[unbeschränkteren]], [[unbeschränkterem]], [[unbeschränktester]], [[unbeschränktestes]], [[unbeschränkteste]], [[unbeschränktesten]], [[unbeschränktestem]], [[bedingungslos]]

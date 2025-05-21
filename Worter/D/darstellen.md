@@ -4,6 +4,8 @@
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^1|^]]* _Deutschland ist schon lange ein_ [[Einwanderungsland]] _und für viele Migrantinnen und Migranten_ [[darstellen|stellt]] _die deutsche Sprache eine besondere_ [[Hürde]] _dar. ^1
 
 
+Regelmäßig wurde untersucht, wie sie sich fühlten und ob diese [[Leistung]] für sie ein positiver [[Anreiz]] für ihre persönliche [[Entwicklung]] [[darstellte]]
+
 → In Buch 1 wird [[zwar]] [[dargestellt]], dass die Mieten steigen, aber *keine* [[Erklärung]] zur [[Marktwirtschaft]] gegeben.
 
 Allerdings [[darstellen|stellt]] sein [[ständiges]] Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und [[Kundengespräche]] erheblich, sondern [[beeinträchtigt]] auch die [[allgemeine]] Konzentration. 

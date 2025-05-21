@@ -1,1 +1,1 @@
-, [[Ehrentitel]], [[Demut]], [[Beleidigung]]
+, [[Ehrentitel]], [[Demut]], [[Beleidigung]], [[Würde]]

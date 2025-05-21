@@ -1,4 +1,5 @@
 -->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
+
 🛡️ [[verteidigen]], [fɛɐ̯ˈtaɪ̯dɪɡn̩] | [[verteidigte]], haben [[verteidigt]]
 
 ---

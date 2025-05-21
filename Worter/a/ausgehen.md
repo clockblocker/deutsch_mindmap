@@ -1,14 +1,14 @@
 --> [[Ingredient-Risiko-Schutz-Verben]] <--
 
-🚶‍♂️ [[ausgehen]] + Dat, [ˈʔaʊ̯sˌɡeːən]
-[[ging aus|ging aus]]
-sein [[ausgegangen]]
+🚶 [[ausgehen]], [ˈaʊ̯sˌɡeːən](https://youglish.com/pronounce/ausgehen/german) → [[ging aus]] → [[ausgegangen]] |
+💡 [[ausgehen]], [ˈaʊ̯sˌɡeːən] → [[ging aus]] → [[ausgegangen]]
 
 ---
 Wir [[ausgehen|gehen]] davon aus, dass du kommst.
 
-*[[Golfstorm#^5|^]]* Einige Studien [[ausgehen|gehen]] sogar von einem Kollaps bis zur [[Jahrhundertmitte]] aus. ^5
+*[[C1-Hoehen-T2-100-Text#^17|^]]* Es gibt hier verschiedene Vorschläge, die meisten [[ausgehen|gehen]] von 1000 bis 1200 Euro monatlich aus.
 
+*[[Golfstorm#^5|^]]* Einige Studien [[ausgehen|gehen]] sogar von einem Kollaps bis zur [[Jahrhundertmitte]] aus
  
  Er [[ausgehen|geht]] mit mir aus! He, Nic, Schätzchen! Du siehst spitze aus!  
 
@@ -19,28 +19,55 @@ Wir [[ausgehen|gehen]] davon aus, dass du kommst.
 	- [ ] [[Bundesverfassungsgericht]] aus.
 
 ---
-Synonyme: [[verlassen]], [[hinausgehen]], [[herausgehen]], [[weggehen]], [[fortgehen]]
-Antonyme: [[heimgehen]], [[eintreten]], [[reinkommen]], [[bleiben]], [[hineingehen]]
+= [[weggehen]], [[verlassen]], [[fortgehen]] | [[erlöschen]], [[verlöschen]], [[erlischt]]
+≈ [[sich entfernen]], [[wegfahren]] | [[verstummen]], [[enden]]
+≠ [[ankommen]], [[bleiben]], [[hereinkommen]] | [[brennen]], [[leuchten]], [[scheinen]]
 
 ---
-Übersetzung: assume, to go out
+Исходить, to go out, to go out (of)  | to go out, to be extinguished  
+выходить, уходить | гаснуть, выключаться
 
 ---
-Morpheme: [[aus]][[geh]][[en]]
- #Verb  #Trennbar
+[[Ausgang]], [[gehen]], [[ausgehen von]] | [[Ausgang]], [[gehen]], [[ausgegangen]]
 
 ---
+[[aus]]|[[geh]]|[[en]]
+[[aus]] + [[gehen]]
 
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[gehe aus]] | [[ging aus]] | - | [[gehe aus]] | [[ginge aus]] |
-| Du | [[gehst aus]] | [[gingst aus]] | [[geh aus]] | [[gehest aus]] | [[gingest aus]] |
-| Er/sie/es | [[geht aus]] | [[ging aus]] | - | [[gehe aus]] | [[ginge aus]] |
-| Wir | [[gehen aus]] | [[gingen aus]] | - | [[gehen aus]] | [[gingen aus]] |
-| Ihr | [[geht aus]] | [[gingt aus]] | [[geht aus]] | [[gehet aus]] | [[ginget aus]] |
-| Sie | [[gehen aus]] | [[gingen aus]] | [[gehen Sie aus]] | [[gehen aus]] | [[gingen aus]] |
+---
+###### [[ausgehen]] `von` jM
+- `Wovon` [[gehst]] du [[aus]]?
+- `Von` der Annahme, dass es klappt.
 
-Partizip I: [[ausgehend]], Partizip II: [[ausgegangen]]
+- `Von` wem [[gehen]] wir [[aus]]?
+- `Von` unseren Erfahrungen.
 
-[[ausgehen]] - [[aus]] = [[gehen]], [[Extra 8]], [[brennen]], [[münden]]
+- Warum [[ist]] er `davon` [[ausgegangen]]?
+- Weil er optimistisch war.
+
+---
+###### [[ausgehen]]
+- Wohin [[gehst]] du [[aus]]?
+- In die Stadt.
+
+- Warum [[gehen]] wir [[aus]]?
+- Um uns zu amüsieren.
+
+- Wann [[bist]] du [[ausgegangen]]?
+- Gestern Abend.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[geh aus]] / [[gehe aus]], [[ging aus]], [[gehe aus]], [[ginge aus]], -
+du, [[gehst aus]], [[gingst aus]], [[geh aus]], [[gingest aus]], [[geh aus]] / [[gehe aus]]
+er, [[geht aus]], [[ging aus]], [[gehe aus]], [[ginge aus]], -
+wir, [[gehen aus]], [[gingen aus]], [[gehen aus]], [[gingen aus]], [[gehen aus]]
+ihr, [[geht aus]], [[gingt aus]], [[geht aus]], [[ginget aus]], [[geht aus]]
+sie, [[gehen aus]], [[gingen aus]], [[gehen aus]], [[gingen aus]], [[gehen aus]]
+
+*Zu + Inf*: [[auszugehen]], *P2*: [[ausgegangen]]
+Adjektive: [[ausgehend]], [[ausgehender]], [[ausgehendst]]
+
+---
+[[ausgehender]], [[ausgehendes]], [[ausgehende]], [[ausgehenden]], [[ausgehendem]], [[ausgehenderer]], [[ausgehenderes]], [[ausgehendere]], [[ausgehenderen]], [[ausgehenderem]], [[ausgehendster]], [[ausgehendstes]], [[ausgehendste]], [[ausgehendsten]], [[ausgehendstem]]

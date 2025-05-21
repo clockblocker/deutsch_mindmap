@@ -18,7 +18,7 @@ Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] En
 
 [[1.1 text#^9|^]] Sophias Unternehmen ist auch deshalb so [[erfolgreich]], weil jedes Rad [[einmalig]] ist. ^9
  
-Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderungen]], die so groß sind, dass man daraus ein Sprichwort machen muss.
+Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderung]]en, die so groß sind, dass man daraus ein Sprichwort machen muss.
 
 [[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 

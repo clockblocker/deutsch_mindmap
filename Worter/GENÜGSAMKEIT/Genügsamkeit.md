@@ -1,1 +1,1 @@
-, [[ungenügen]]
+, [[ungenügen]], [[Sparsamkeit]]

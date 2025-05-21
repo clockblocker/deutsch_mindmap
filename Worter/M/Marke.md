@@ -1,1 +1,1 @@
-, [[vermarkten]], [[Beiersdorf]]
+, [[vermarkten]], [[Beiersdorf]], [[Werbeobjekt]]

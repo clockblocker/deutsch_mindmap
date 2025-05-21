@@ -31,3 +31,4 @@ G: des [[Sachzwangs]], der [[Sachzwänge]]
 D: dem [[Sachzwang]], den [[Sachzwängen]]
 
 #Maskulin 
+, [[Zwang]]

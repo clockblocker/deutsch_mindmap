@@ -1,7 +1,7 @@
 🏘️ 🔴 die [[Eigentumswohnung]], [ˈaɪ̯ɡn̩tuːmsˌvoːnʊŋ](https://youglish.com/pronounce/Eigentumswohnung/german)
 
 ---
-*[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnungen]]. 
+*[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnung]]en
 
 ---
 = [[Eigentumswohnung]]

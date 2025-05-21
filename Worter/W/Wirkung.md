@@ -32,4 +32,4 @@ D: der [[Wirkung]], den [[Wirkungen]]
 
 
 
-#Feminin , [[bewirken]]
+#Feminin , [[bewirken]], [[entgegenwirken]]

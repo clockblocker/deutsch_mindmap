@@ -1,2 +1,2 @@
 --> 💸 [[Grad-Preis]] <--
-, [[kostengünstig]], [[aufwendig]]
+, [[kostengünstig]], [[aufwendig]], [[Sparsamkeit]]

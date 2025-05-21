@@ -13,6 +13,7 @@
 8) [[sparsam]] *(frugal; minimal waste in spending)*  
 9) [[effizient]] *(efficient; productive per unit cost/effort)*  
 10) [[lohnenswert]] *(worthwhile; return outweighs input)*  
+11) 💰 [[aufwändig]] *(expensive, elaborate)*  
 
 #### 🟡 [[mittelpreisig]]  
 *(neutral or balanced cost: justifiable but not low)*  

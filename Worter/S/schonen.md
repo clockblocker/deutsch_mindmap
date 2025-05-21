@@ -48,4 +48,4 @@ sie, [[schonen]], [[schonten]], [[schonen]], [[schonten]], [[schonen]]
 Adjektive: [[schonend]], [[schonender]], [[schonendst]]
 
 ---
-[[schonender]], [[schonendes]], [[schonende]], [[schonenden]], [[schonendem]], [[schonenderer]], [[schonenderes]], [[schonendere]], [[schonenderen]], [[schonenderem]], [[schonendster]], [[schonendstes]], [[schonendste]], [[schonendsten]], [[schonendstem]], [[belästigen]], [[vergeuden]], [[Ressourcenschonung]]
+[[schonender]], [[schonendes]], [[schonende]], [[schonenden]], [[schonendem]], [[schonenderer]], [[schonenderes]], [[schonendere]], [[schonenderen]], [[schonenderem]], [[schonendster]], [[schonendstes]], [[schonendste]], [[schonendsten]], [[schonendstem]], [[belästigen]], [[vergeuden]], [[Ressourcenschonung]], [[herausfordern]]

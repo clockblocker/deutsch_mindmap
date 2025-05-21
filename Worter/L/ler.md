@@ -1,1 +1,1 @@
-, [[Adler]], [[Wählerstimmen]], [[Müller]], [[künstlerischer]], [[Muttersprachler]], [[Ausdauersportler]]
+, [[Adler]], [[Wählerstimme]]n, [[Müller]], [[künstlerischer]], [[Muttersprachler]], [[Ausdauersportler]], [[Leistungssportler]], [[Spitzensportlerin]]

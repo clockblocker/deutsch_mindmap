@@ -5,11 +5,8 @@
 Beispiel  
 0 Das Buch ist das erste Werk der Autorin.  
 ☒ a Buch 1 –  
-    Messen statt raten  
 ☐ b Buch 2 –  
-    Iss dich gesund  
 ☐ c Buch 3 –  
-    Alte Medizin, neu genutzt  
 
 1 Hier wird den Erkenntnissen mentaler Widerstandsfähigkeit nachgegangen.  
 ☐ a Buch 1  

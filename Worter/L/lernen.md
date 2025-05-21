@@ -3,7 +3,7 @@
 haben [[gelernt]]
 
 ---
-[[1 Präpositionen Übungen.md#^8|^]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, [[aus]] den [[Herausforderungen]] zu [[lernen]]. ^8
+[[1 Präpositionen Übungen.md#^8|^]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, [[aus]] den [[Herausforderung]]en zu [[lernen]]. ^8
 
 von jdm
 aus etwa (A)

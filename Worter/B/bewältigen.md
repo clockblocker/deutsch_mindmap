@@ -6,7 +6,7 @@
 *[[3  Ein Selbstversuch als Hobbybäuerin#^35|^]]* Man muss auch beim [[Bewältigen]] der [[Erntemengen]] Ideen sprießen lassen, schließlich wird vieles gleichzeitig reif. ^35
 
 
-Heute wird kontrovers darüber diskutiert, was die Menschen für die Klimaschutz tun könnte, um die [[Herausforderungen]] des Klimawechsels zu [[bewältigen]].
+Heute wird kontrovers darüber diskutiert, was die Menschen für die Klimaschutz tun könnte, um die [[Herausforderung]]en des Klimawechsels zu [[bewältigen]].
 
 
 ---

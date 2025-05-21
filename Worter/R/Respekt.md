@@ -28,4 +28,4 @@ G: des [[Respekts]], -
 D: dem [[Respekt]], -
 
 
-#Maskulin , [[Rücksicht]], [[Geringschätzung]]
+#Maskulin , [[Rücksicht]], [[Geringschätzung]], [[Würde]]

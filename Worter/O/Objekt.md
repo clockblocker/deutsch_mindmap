@@ -1,2 +1,2 @@
 
-, [[Gegenstand]], [[Kunstgegenstand]]
+, [[Gegenstand]], [[Kunstgegenstand]], [[Werbeobjekt]]

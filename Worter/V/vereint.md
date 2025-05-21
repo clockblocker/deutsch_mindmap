@@ -2,6 +2,9 @@
 nicht [[getrennt]], nicht [[zerstreut]]
 
 ---
+*[[C1-Hoehen-T1-202-Text#^26|^]]* Heute fordern die [[Vereinten]] Nationen eine Entwicklung beim Klimaschutz, die den [[Erfordernissen]] der heutigen Generationen [[zwar]] [[entspricht]], ohne jedoch die Bedürfnisse künftiger Generationen zu [[gefährden]]. ^26
+
+
 *Im Geist getrennt* 
 *Im Herz [[vereint]] (vereint, vereint, vereint, vereint)*
 

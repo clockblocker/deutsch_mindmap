@@ -22,4 +22,4 @@ G: der [[Differenz]], der [[Differenzen]]
 D: der [[Differenz]], den [[Differenzen]]  
 
 ---
-[[differieren]], [[different]], [[differenzieren]], [[Differenzierung]], [[differenziert]]
+[[differieren]], [[different]], [[differenzieren]], [[Differenzierung]], [[differenziert]], [[Summe]], [[Gegenteil]]

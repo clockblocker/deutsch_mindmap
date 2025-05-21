@@ -1,1 +1,1 @@
-, [[umsetzen]], [[Umsetzung]], [[Praktikabilität]]
+, [[umsetzen]], [[Umsetzung]], [[Praktikabilität]], [[Finanzierbarkeit]]

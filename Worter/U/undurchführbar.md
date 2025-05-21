@@ -1,1 +1,1 @@
-, [[möglich]], [[unmöglich]], [[praktikabel]]
+, [[möglich]], [[unmöglich]], [[praktikabel]], [[machbar]]

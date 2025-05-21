@@ -1,4 +1,3 @@
-🔴 ⚖️ die [[Gerechtigkeit]], [ɡeˈʁɛçtɪçkaɪ̯t]
 die [[Gerechtigkeiten]]
 
 ---

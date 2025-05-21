@@ -6,8 +6,9 @@ Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
 Niemand ist ohne [[Schuld]].
 
+*[[C1-Lesen-T4-103-Text#^10|^]]* Denen stehen die von Jahr zu Jahr größer [[werdenden]] [[Schuld]]en der öffentlichen Hand gegenüber
+
 Es war nur seine [[Schuld]]. Jetzt lag der Buddha unten im Wasser und lächelte.
- [[14 perfekt#^5|^]]
 
 Ist es jetzt noch meine [[Schuld]], ja?!
 [[SCHULDSCHEIN]]
@@ -33,6 +34,6 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schulde]], [[Schulden]], [[Schuldest]], [[Schuldig]], [[Schuldiger]], [[Schuldigen]], [[Schuldiges]]
 
 ---
-#Substantiv #Feminin, [[s1 e1]], [[verurteilten]], [[Texte/Misc/Anki]], [[Pfand]], [[Abrechnung]]
+#Substantiv #Feminin, [[s1 e1]][[verurteilen]], [[Texte/Misc/Anki]], [[Pfand]], [[Abrechnung]]
 , [[Spende]]
-, [[Zahlung]], [[ergeben]], [[Schuldenpaket]], [[Betrag]]
+, [[Zahlung]], [[ergeben]], [[Schuldenpaket]], [[Betrag]], [[Schuldner]], [[Schuldenberg]]

@@ -4,6 +4,11 @@ die [[Einführungen]]
 ---
 Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
+*[[C1-Hoehen-T2-100-Text#^20|^]]* Andere Wissenschaftler sehen das kritischer, da sie der [[Auffassung]] sind, bestimmte Sozialleistungen müssten auch nach [[Einführung]] des bedingungslosen Grundeinkommens [[bestehen]] bleiben
+
+*[[C1-Hoehen-T2-100-Text#^19|^]]* Wenn man bei [[Einführung]] des [[bedingungslos]]en [[Grundeinkommen]]s gleichzeitig [[bestehend]]e [[Ausgabe]]n für Sozialleistungen [[abschaffen]] würde, wäre die Finanzierung machbar. ^19
+
+
 An Ihrem Arbeitsplatz ist eine neue Software eingeführt worden, zu der es jedoch nur eine 10-minütige [[Einführung]] gab.
 
 *[[07-C1-Schreiben-T2-M#^12|^]]* Deshalb bitte ich Sie, dass wir so lange die alte Software nutzen dürfen, bis unsere [[Abteilung]] eine 2- bis 3-stündige [[Einführung]] zu der Software [[erhalten]] kann. ^12

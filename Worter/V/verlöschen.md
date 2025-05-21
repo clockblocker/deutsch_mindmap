@@ -1,1 +1,1 @@
-, [[flackern]], [[leuchten]], [[scheinen]], [[aufleuchten]]
+, [[flackern]], [[leuchten]], [[scheinen]], [[aufleuchten]], [[ausgehen]]

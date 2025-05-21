@@ -26,3 +26,4 @@ G: des [[Konsums]], der [[Konsume]]
 D: dem [[Konsum]], den [[Konsumen]]
 
 #Maskulin 
+, [[Verschwendungsgesellschaft]]

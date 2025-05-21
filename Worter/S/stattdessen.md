@@ -23,4 +23,4 @@ Related Words:
 [[statt]], [[dessen]], [[Alternative]]
 
 , [[Damit]]
-, [[Konnektivpartikeln]], [[Konjunktoren]]
+, [[Konnektivpartikeln]], [[Konjunktoren]], [[vielmehr]]

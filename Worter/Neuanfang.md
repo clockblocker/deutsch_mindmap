@@ -6,7 +6,7 @@
 
 ---
 = [[Neubeginn]], [[Neustart]], [[Neubruch]]
-≈ [[Anfang]], [[Start]], [[Wiedergeburt]], [[Erneuerung]]
+≈ [[Anfang]], [[Start]], [[Wiedergeburt]], [[Erneuerung]], [[Pitch]], [[Vorarbeit]], [[Umstieg]]
 ≠ [[Ende]], [[Scheitern]], [[Stillstand]]
 
 ---
@@ -26,4 +26,6 @@ N: der [[Neuanfang]], die [[Neuanfänge]]
 A: den [[Neuanfang]], die [[Neuanfänge]]
 G: des [[Neuanfangs]], der [[Neuanfänge]]
 D: dem [[Neuanfang]], den [[Neuanfängen]]
-, [[Pitch]], [[Vorarbeit]], [[Umstieg]]
+
+
+#Maskulin 

@@ -1,9 +1,13 @@
-
 🍂 🔵 der [[Fall]], [fal](https://youglish.com/pronounce/Fall/german)
 die [[Fälle]]
 
 ---
 NIC: [[Auf keinen Fall]]! Der Typ ist nicht mein Problem.
+
+[[anKreuzen|Kreuzen]] Sie [[auf jeden Fall]] etwas an, denn für falsche Antworten gibt es keinen Punktabzug.
+
+*[[C1-Hoehen-T1-202-Text#^27|^]]* Ein spannender [[Fall]], wie ich finde. ^27
+
 
 *[[Einen Kater haben#^14|^]]* In Maries [[Fall]] ist das nämlich kein süßes Haustier, sondern die [[Bezeichnung]] für die schmerzhaften Folgen von zu viel Alkohol. ^14
 
@@ -36,3 +40,5 @@ G: des [[Falles]], der [[Fälle]]
 D: dem [[Fall]], den [[Fällen]]
 
 , [[Abfall]], [[ausfallen]], [[entfallen]], [[Wegfall]], [[Einzelfallregelung]], [[Anfall]], [[anfallen]], [[Zufall]], [[zurückfallen]]
+
+#Maskulin 

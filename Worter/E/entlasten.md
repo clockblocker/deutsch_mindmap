@@ -8,7 +8,7 @@
 ≈ [[unterstützen]], [[helfen]], [[unterstützen]]
 ≠ [[belasten]], [[erschweren]], [[beschweren]]
 
-, [[anspannen]], [[ledig]], [[erleichtern]], [[leichtern]], [[anklagen]], [[bezigen]], [[Last]], [[verurteilten]], [[vorwerfen]], [[zeihen]], [[plagen]], [[überfordern]]
+, [[anspannen]], [[ledig]], [[erleichtern]], [[leichtern]], [[anklagen]], [[bezigen]], [[Last]][[verurteilen]], [[vorwerfen]], [[zeihen]], [[plagen]], [[überfordern]]
 
 ---
 to relieve, to unburden  
@@ -46,4 +46,4 @@ sie, [[entlasten]], [[entlasteten]], [[entlasten]], [[entlasteten]], [[entlasten
 Adjektive: [[entlastend]], [[entlastender]], [[entlastendst]]
 
 ---
-[[entlastender]], [[entlastendes]], [[entlastende]], [[entlastenden]], [[entlastendem]], [[entlastenderer]], [[entlastenderes]], [[entlastendere]], [[entlastenderen]], [[entlastenderem]], [[entlastendster]], [[entlastendstes]], [[entlastendste]], [[entlastendsten]], [[entlastendstem]], [[belästigen]], [[beanspruchen]]
+[[entlastender]], [[entlastendes]], [[entlastende]], [[entlastenden]], [[entlastendem]], [[entlastenderer]], [[entlastenderes]], [[entlastendere]], [[entlastenderen]], [[entlastenderem]], [[entlastendster]], [[entlastendstes]], [[entlastendste]], [[entlastendsten]], [[entlastendstem]], [[belästigen]], [[beanspruchen]], [[verurteilen]]

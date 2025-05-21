@@ -22,4 +22,4 @@ Genitive: der [[Geltung]], der [[Geltungen]]
 Dative: der [[Geltung]], den [[Geltungen]]  
 
 ---
-[[gelten]], [[geltend]], [[geltend machen]], [[geltungsbedürftig]], [[Einfluss]], [[Gültigkeit]]
+[[gelten]], [[geltend]], [[geltend machen]], [[geltungsbedürftig]], [[Einfluss]], [[Gültigkeit]], [[Würde]]

@@ -1,1 +1,1 @@
-, [[Not]], [[Versorgung]], [[Armut]], [[Krise]], [[Bedrängnis]]
+, [[Not]], [[Versorgung]], [[Armut]], [[Krise]], [[Bedrängnis]], [[Bedürftigkeit]]

@@ -28,3 +28,5 @@ D: dem [[Arbeitsauftrag]], den [[Arbeitsaufträgen]]
 ---
 [[Arbeit]], [[Auftrag]], [[beauftragen]], [[Arbeitsplatz]], [[Arbeitszeit]], [[Arbeitsweg]]
 , [[Arbeitsform]]
+
+#Maskulin 

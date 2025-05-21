@@ -1,1 +1,1 @@
-, [[Begabung]], [[Kapazität]]
+, [[Begabung]], [[Kapazität]], [[Entwicklungspotenzial]]

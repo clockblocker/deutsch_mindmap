@@ -1,1 +1,1 @@
-, [[halbes]], [[begrenzt]], [[unbegrenzt]]
+, [[halbes]], [[begrenzt]], [[unbegrenzt]], [[bedingungslos]]

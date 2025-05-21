@@ -23,7 +23,7 @@ Statt zu arbeiten, [[erholt]] er sich [[ständig]]
 
 Tanja will den Eltern erklären, dass ihr Sohn nicht mehr lernt, seit er [[ständig]] mit seinen Freunden Party macht. 
 
-Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderungen]], die so groß sind, dass man daraus ein Sprichwort machen muss.
+Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderung]]en, die so groß sind, dass man daraus ein Sprichwort machen muss.
 
 ---
 Synonyme: [[permanent]], [[kontinuierlich]], [[fortlaufend]], [[unaufhörlich]], [[andauernd]]

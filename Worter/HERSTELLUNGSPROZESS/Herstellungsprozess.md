@@ -26,3 +26,5 @@ N: der [[Herstellungsprozess]], die [[Herstellungsprozesse]]
 A: den [[Herstellungsprozess]], die [[Herstellungsprozesse]]
 G: des [[Herstellungsprozesses]], der [[Herstellungsprozesse]]
 D: dem [[Herstellungsprozess]], den [[Herstellungsprozessen]]
+
+#Maskulin 

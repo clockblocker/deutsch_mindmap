@@ -7,6 +7,8 @@ haben [[angesehen]]
 ---
 Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 
+*[[C1-Hoehen-T2-100-Text#^18|^]]* Was die [[Finanzierbarkeit]] [[betrifft]], so [[ansehen|sehen]] einige Modelle und auch ich die Finanzierbarkeit als [[machbar]] an, während andere das [[bestreiten]]
+
 *[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 
@@ -51,4 +53,4 @@ Morpheme: [[an]][[seh]][[en]]
 
 Partizip I: [[ansehend]], Partizip II: [[angesehen]], Zuinf: [[anzusehen]]
 
-[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]], [[anschauen]], [[anblicken]], [[Ansichtskarte]], [[Verruf]], [[Abrechnung]], [[Bekanntheitsgrad]]
+[[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]], [[anschauen]], [[anblicken]], [[Ansichtskarte]], [[Verruf]], [[Abrechnung]], [[Bekanntheitsgrad]], [[Würde]]

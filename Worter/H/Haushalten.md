@@ -1,1 +1,1 @@
-, [[Haushalt]]
+, [[Haushalt]], [[Sparsamkeit]]

@@ -25,3 +25,5 @@ D: dem [[Interessenverband]], den [[Interessenverbänden]]
 
 ---
 [[interessieren]], [[Verband]], [[Interessenpolitik]], [[verbandlich]], [[Interessenvertretung]]
+
+#Maskulin 

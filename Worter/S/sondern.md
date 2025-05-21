@@ -36,4 +36,4 @@ Tags:
 
 Morphems:
 [[sondern]], [[Konnektoren]], [[Texte/Misc/Anki]]
-, [[als]], [[Konjunktoren]]
+, [[als]], [[Konjunktoren]], [[vielmehr]]

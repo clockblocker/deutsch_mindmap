@@ -1,4 +1,4 @@
 --> [[Ingredinet-Action-Nomen]] <--
 
 ---
-, [[Schweinehund]], [[Bewegungsmangel]], [[Motivation]], [[Untätigkeit]], [[Tatendrang]]
+, [[Schweinehund]], [[Bewegungsmangel]], [[Motivation]], [[Untätigkeit]], [[Tatendrang]], [[Initiative]], [[Faulheit]]

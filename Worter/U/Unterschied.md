@@ -28,4 +28,4 @@ D: dem [[Unterschied]], den [[Unterschieden]]
 [[unterscheiden]], [[unterschiedlich]], [[unterschiedslos]], [[ununterscheidbar]]
 
  [[verschieden]], [[Vergleich]], [[Bedeutungsunterschied]]
-, [[Analogie]]
+, [[Analogie]], [[Geschlecht]]

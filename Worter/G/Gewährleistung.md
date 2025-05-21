@@ -2,4 +2,4 @@
 
 , [[gewähren]], [[gewährleisten]]
 
-#Feminin , [[Garantie]]
+#Feminin , [[Garantie]], [[Sicherung]]

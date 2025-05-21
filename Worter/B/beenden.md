@@ -1,2 +1,2 @@
 --> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
-, [[absolvieren]]
+, [[absolvieren]], [[einleiten]], [[auslaufen]]

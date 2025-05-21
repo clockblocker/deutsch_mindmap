@@ -3,6 +3,8 @@
 ---
 Ich [[annehmen|nehme]] an, dass die guten Studenten die Prüfung bestehen.
 
+*[[C1-Hoehen-T2-100-Text#^24|^]]* Ich wäre nicht gezwungen, eine Arbeit [[anzunehmen]], die mir gar nicht gefällt.
+
 *[[C1-Lesen-T2-102-Text#^4|^]]* Anders als lange [[angenommen]], wurde sie [[demnach]] wohl nicht durch Obst- und Gemüseimporte nach dem Zweiten Weltkrieg von der Iberischen Halbinsel [[eingeschleppt]] – der Name führt also in die [[Irre]].  ^4
 
 
@@ -43,4 +45,4 @@ Zu+infinifive: [[anzunehmen]]
 
 [[übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]], [[Glaub]], [[raten]], [[erhalten]], [[ablehnen]]
 , [[empfangen]], [[vermuten]], [[verstoßen]], [[verinnerlichen]], [[wiederschicken]], [[zweifelt]], [[zweifeln]]
-, [[bekommen]], [[einnehmen]], [[beeinflussen]], [[liefern]], [[verzichten]], [[angenehm]]
+, [[bekommen]], [[einnehmen]], [[beeinflussen]], [[liefern]], [[verzichten]], [[angenehm]], [[abandonieren]], [[bestreiten]]

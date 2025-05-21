@@ -8,4 +8,4 @@ Möchten Sie hier sitzen? ... oder [[Da]]?
 
 там[[Dazu]], [[dagegen]], [[davon]], [[daran]], [[dahinter]], [[darauf]], [[daß]], [[dadurch]], [[unter]], [[Nebensatz Conector]], [[Nutzungsdaten]], [[fehlend]]
 , [[durch]]
-, [[als]], [[vorhanden]], [[Konjunktoren]], [[abwesend]], [[zumal]], [[dazwischenfunken]]
+, [[als]], [[vorhanden]], [[Konjunktoren]], [[abwesend]], [[zumal]], [[dazwischenfunken]], [[dastehen]]

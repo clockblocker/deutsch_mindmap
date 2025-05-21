@@ -1,8 +1,9 @@
 🚦 [[einleiten]], [ˈaɪ̯nˌlaɪ̯tn̩](https://youglish.com/pronounce/einleiten/german) → [[leitete ein]] → [[eingeleitet]]
 
 ---
-*[[C1-Lesen-T1-000-Loesung#^11|^]]* „[[Dabei]]“ kann hier im Sinne von „bei dieser [[Gelegenheit]]“ oder „[[währenddessen]]“ [[verwendet]] werden und [[einleitet|leitet]] eine mögliche Schwierigkeit ein, die [[auftreten]] kann, wenn sich der Roboter dem Müll [[nähert]]. ^11
+*[[C1-Lesen-T1-000-Loesung#^11|^]]* „[[Dabei]]“ kann hier im Sinne von „bei dieser [[Gelegenheit]]“ oder „[[währenddessen]]“ [[verwendet]] werden und [[einleitet|leitet]] eine mögliche Schwierigkeit ein, die [[auftreten]] kann, wenn sich der Roboter dem Müll [[nähert]]
 
+*[[C1-Hoehen-T2-100-Text#^4|^]]* Guten Tag. Ja, vielleicht zuerst noch einmal als [[Erklärung]]: Wie Sie [[einleitend]] schon gesagt haben, die Idee ist, dass jeder vom Staat zur Existenzsicherung monatlich Geld erhält, ein Grund- oder Basiseinkommen, egal, ob man arbeitet oder nicht
 
 
 ---

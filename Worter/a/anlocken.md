@@ -1,1 +1,1 @@
-, [[verscheuchen]], [[scheuchen]], [[abschrecken]], [[locken]]
+, [[verscheuchen]], [[scheuchen]], [[abschrecken]], [[locken]], [[verleiten]]

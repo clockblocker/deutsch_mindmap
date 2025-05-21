@@ -1,1 +1,1 @@
-, [[Finanzkrise]], [[finanziell]], [[Kirchensteuer]], [[Kirchensteuern]], [[Mittelzuweisung]], [[Finanzwesen]], [[Förderung]], [[Grünsteuer]], [[Finanzbereich]], [[Fördermittel]], [[Zuschuss]], [[Geldleistung]], [[Förderbetrag]]
+, [[Finanzkrise]], [[finanziell]], [[Kirchensteuer]], [[Kirchensteuern]], [[Mittelzuweisung]], [[Finanzwesen]], [[Förderung]], [[Grünsteuer]], [[Finanzbereich]], [[Fördermittel]], [[Zuschuss]], [[Geldleistung]], [[Förderbetrag]], [[Grundeinkommen]], [[Basiseinkommen]], [[Finanzierbarkeit]]

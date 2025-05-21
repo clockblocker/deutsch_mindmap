@@ -6,10 +6,13 @@
 ---
 Das [[entspricht]] unserer Idee.
 
-*[[C1-Lesen-T1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]. ^3
+*[[C1-Hoehen-T2-100-Text#^19|^]]* Wenn jeder 1000 Euro im Monat bekäme, [[entspräche]] das bei den 83 Millionen Menschen, die in Deutschland leben, [[ungefähr]] den Kosten des aktuellen [[Sozialhaushalt]]
 
+*[[C1-Hoehen-T1-202-Text#^26|^]]* Heute fordern die [[Vereinten]] Nationen eine Entwicklung beim Klimaschutz, die den [[Erfordernis]]sen der heutigen Generationen [[zwar]] [[entspricht]], ohne jedoch die [[Bedürfnis]]se künftiger Generationen zu [[gefährden]]
 
-[[2 prap.md#^14|^]] [[Entsprechend]] unserem [[Vorschlag]] ^14
+*[[C1-Lesen-T1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]
+
+*[[2 prap.md#^14|^]]* [[Entsprechend]] unserem [[Vorschlag]]
 
 ---
 = [[übereinstimmen]], [[gleichen]], [[genügen]]

@@ -30,4 +30,4 @@ Antonyme:
 , [[löffeln]], [[fressen]], [[selbständig]], [[Selbstjustiz]], [[seinerseits]], [[s1 e1]], [[Selbstmord]]
 , [[selbstbewusst]]
 , [[Selbstwertgefühl]]
-, [[Selbsteinschätzung]], [[selbstauferlegen]], [[Konnektivpartikeln]], [[Selbstdarstellung]], [[Selbstwert]], [[derselbe]]
+, [[Selbsteinschätzung]], [[selbstauferlegen]], [[Konnektivpartikeln]], [[Selbstdarstellung]], [[Selbstwert]], [[derselbe]], [[selbsternannt]]

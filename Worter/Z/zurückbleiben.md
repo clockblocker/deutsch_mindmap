@@ -1,2 +1,2 @@
 , [[mithalten]], [[hinterherlaufen]], [[losziehen]], [[rangehen]], [[vorhergehen]], [[entwickeln]], [[herankam]], [[zustürmen]], [[vorderen]], [[einholen]]
-, [[vorangehen]], [[fortschreiten]], [[zurückfallen]]
+, [[vorangehen]], [[fortschreiten]], [[zurückfallen]], [[verbleiben]]

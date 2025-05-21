@@ -1,1 +1,1 @@
-das [[Ohr]] / die [[Ohren]] | #Substantiv #Neuter | ear
+das [[Ohr]] 

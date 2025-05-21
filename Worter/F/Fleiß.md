@@ -2,4 +2,4 @@
 
 ---
 
-, [[Anstrengung]], [[Schweinehund]], [[Untätigkeit]]
+, [[Anstrengung]], [[Schweinehund]], [[Untätigkeit]], [[Faulheit]]

@@ -9,8 +9,8 @@ Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bü
 [[erfüllen]] - [[er]] = [[füllen]] / to fulfill, to realize, to accomplish
 
 ---
-Synonyme: [[befüllen]], [[auffüllen]], [[ausfüllen]], [[ergänzen]], [[beladen]]
-Antonyme: [[entleeren]], [[ausschütten]], [[ausräumen]], [[leeren]]
+Synonyme: [[befüllen]], [[auffüllen]], [[ausfüllen]], [[ergänzen]], [[beladen]], [[voll]]
+Antonyme: [[entleeren]], [[ausschütten]], [[ausräumen]], [[leeren]], [[leer]], 
 
 ---
 Übersetzung: to fill

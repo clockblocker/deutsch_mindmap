@@ -1,3 +1,3 @@
 , [[achten]], [[beschimpfen]], [[respektieren]], [[verspotten]], [[unterschätzen]], [[ehren]], [[Menschenwürde]]
 , [[anstoßen]]
-, [[loben]]
+, [[loben]], [[belohnen]]

@@ -29,4 +29,4 @@ PI: [[überredend]], PII: [[überredet]], Zu+inf: [[überzureden]]
 [[überreden]] - [[Worter/Ü/über]] = [[reden]] / to persuade, to convince
 
 ---
-[[Überredung]], [[Überredungskunst]], [[Redegewandt]], [[Überzeugung]], [[überredend]]
+[[Überredung]], [[Überredungskunst]], [[Redegewandt]], [[Überzeugung]], [[überredend]], [[verleiten]]

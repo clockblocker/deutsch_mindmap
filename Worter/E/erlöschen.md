@@ -1,1 +1,1 @@
-, [[eingehen]]
+, [[eingehen]], [[ausgehen]]

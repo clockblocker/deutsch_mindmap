@@ -24,4 +24,4 @@ tangible, graspable
 Adjektive: [[greifbar]], [[greifbarer]], [[greifbarst]]
 
 ---
-[[greifbarer]], [[greifbares]], [[greifbare]], [[greifbaren]], [[greifbarem]], [[greifbarerer]], [[greifbareres]], [[greifbarere]], [[greifbareren]], [[greifbarerem]], [[greifbarster]], [[greifbarstes]], [[greifbarste]], [[greifbarsten]], [[greifbarstem]]
+[[greifbarer]], [[greifbares]], [[greifbare]], [[greifbaren]], [[greifbarem]], [[greifbarerer]], [[greifbareres]], [[greifbarere]], [[greifbareren]], [[greifbarerem]], [[greifbarster]], [[greifbarstes]], [[greifbarste]], [[greifbarsten]], [[greifbarstem]], [[erlebbar]]

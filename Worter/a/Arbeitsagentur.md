@@ -1,1 +1,1 @@
-, [[Arbeitsamt]], [[Berufsinformationszentrum]]
+, [[Arbeitsamt]], [[Berufsinformationszentrum]], [[Arbeitslosengeld]]

@@ -35,4 +35,4 @@ G: der [[Motivation]], der [[Motivationen]]
 D: der [[Motivation]], den [[Motivationen]]
 
 
-#Feminin , [[Mitarbeiterzufriedenheit]], [[Anregung]], [[Antriebsfaktor]], [[Tatendrang]]
+#Feminin , [[Mitarbeiterzufriedenheit]], [[Anregung]], [[Antriebsfaktor]], [[Tatendrang]], [[Wille]]

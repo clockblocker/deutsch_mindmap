@@ -116,4 +116,4 @@ sie, [[verlangen]], [[verlangten]], [[verlangen]], [[verlangten]], [[verlangen]]
 Adjektive: [[verlangend]], [[verlangender]], [[verlangendst]]
 
 ---
-[[verlangender]], [[verlangendes]], [[verlangende]], [[verlangenden]], [[verlangendem]], [[verlangenderer]], [[verlangenderes]], [[verlangendere]], [[verlangenderen]], [[verlangenderem]], [[verlangendster]], [[verlangendstes]], [[verlangendste]], [[verlangendsten]], [[verlangendstem]], [[erfordern]], [[drängen]], [[einfordern]]
+[[verlangender]], [[verlangendes]], [[verlangende]], [[verlangenden]], [[verlangendem]], [[verlangenderer]], [[verlangenderes]], [[verlangendere]], [[verlangenderen]], [[verlangenderem]], [[verlangendster]], [[verlangendstes]], [[verlangendste]], [[verlangendsten]], [[verlangendstem]], [[erfordern]], [[drängen]], [[einfordern]], [[beantragen]]

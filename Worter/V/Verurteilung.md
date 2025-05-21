@@ -6,7 +6,7 @@ die [[Verurteilungen]]
 
 ---
 = [[Aburteilung]], [[Bestrafung]], [[Urteilsspruch]]
-≈ [[Anklage]], [[Gerichtsverfahren]], [[Strafmaß]], [[Freispruch]], [[Freiheitsstrafe]], [[Todesstrafe]], [[verurteilten]], [[Urteil]]
+≈ [[Anklage]], [[Gerichtsverfahren]], [[Strafmaß]], [[Freispruch]], [[Freiheitsstrafe]], [[Todesstrafe]][[verurteilen]], [[Urteil]]
 ≠ [[Freispruch]], [[Freilassung]], [[Begnadigung]]
 
 ---
@@ -28,3 +28,4 @@ G: der [[Verurteilung]], der [[Verurteilungen]]
 D: der [[Verurteilung]], den [[Verurteilungen]]
 
 #Feminin 
+, [[Gerechtberechtigung]]

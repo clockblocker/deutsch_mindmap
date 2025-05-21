@@ -1,4 +1,4 @@
 , [[außer]]
 [[ausnehmen]]
 , [[abzüglich]]
-, [[einschließlich]], [[samt]]
+, [[einschließlich]], [[samt]], [[absehen]]

@@ -1,27 +1,32 @@
-Singular: die [[Fernbedienung]]
-Plural: die [[Fernbedienungen]]
+🕹️ 🔴 die [[Fernbedienung]], [fɛʁn.bəˈdiːnʊŋ](https://youglish.com/pronounce/Fernbedienung/german)
+die [[Fernbedienungen]]
 
-Beispiele:
+---
 ANNA: Und hier ist die [[fern]][[bedien]][[ung]].
 
-Anna … [[Fernbedienung]] …  
+Anna … [[Fernbedienung]] …
 
 ---
-Translation:
-remote control
+= [[Fernsteuerung]], [[Fernregelung]]
+≈ [[Steuerung]], [[Kontrolle]], [[Gerät]]
+≠ -
 
 ---
-
-#Substantiv
-#Feminin
+remote control  
+пульт дистанционного управления
 
 ---
+[[fern]], [[bedienen]], [[Fernseher]]
 
-Alle Formen:
+---
+[[Fern]]|[[bedien]]|[[ung]]
+[[Fernbedienung]]
 
-| Case       | Singular          | Plural              |
-| ---------- | ----------------- | ------------------- |
-| Nominative | die Fernbedienung | die Fernbedienungen |
-| Accusative | die Fernbedienung | die Fernbedienungen |
-| Dative     | der Fernbedienung | den Fernbedienungen |
-| Genitive   | der Fernbedienung | der Fernbedienungen |, [[bedienen]], [[Fernsehturm]], [[ferner]]
+
+---
+N: die [[Fernbedienung]], die [[Fernbedienungen]]
+A: die [[Fernbedienung]], die [[Fernbedienungen]]
+G: der [[Fernbedienung]], der [[Fernbedienungen]]
+D: der [[Fernbedienung]], den [[Fernbedienungen]]
+
+#Feminin 

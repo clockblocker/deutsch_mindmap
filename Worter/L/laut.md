@@ -3,6 +3,8 @@
 ---
 [[Laut]] der Zeitung scheint heute die Sonne.
 
+9 [[Laut]] Hansen haben heute die meisten Menschen Schwierigkeite `von` ihrer Arbeit zu [[leben]].  
+
 
 ---
 = [[leise]], [[geräuschvoll]], [[lärmend]], [[vernehmbar]]

@@ -1,10 +1,12 @@
 🕊️ [[befreien]], [bəˈfʁaɪ̯ən] | [[befreite]], haben [[befreit]]
 
 ---
-Sokka ist es während dessen [[gelungen]], sich aus dem Schnee zu [[befreien]] und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu. 
+Sokka ist es während dessen [[gelungen]], sich aus dem Schnee zu [[befreien]] und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu.
+
+12 Laut Herrn Hansen würde ein bedingungsloses Grundeinkommen [[befreiend]] [[wirken]].
 
 ---
-= [[erlösen]], [[retten]], [[entbinden]]
+= [[erlösen]], [[retten]], [[entbinden]], [[unabhängig]], [[Unabhängigkeit]]
 ≈ [[freilassen]], [[lösen]], [[emanzipieren]], [[losmachen]]
 ≠ [[gefangennehmen]], [[unterdrücken]], [[versklaven]]
 

@@ -5,7 +5,7 @@
 die [[Vorbehalte]]
 
 ---
-
+*[[C1-Hoehen-T2-100-Text#^31|^]]* Ich kenne diesen [[Vorbehalt]]
 
 ---
 = [[Einschränkung]], [[Reservierung]], [[Rücksicht]]
@@ -26,3 +26,5 @@ D: dem [[Vorbehalt]], den [[Vorbehalten]]
 
 ---
 [[vorbehalten]], [[vorbehaltslos]], [[Vorbehaltsklausel]], [[Vorbehaltszahlung]], [[vorenthalten]]
+
+#Maskulin 

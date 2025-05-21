@@ -1,1 +1,2 @@
 🤔 [[abhängen]] | 😌 [[abhängig]]
+, [[unabhängig]]

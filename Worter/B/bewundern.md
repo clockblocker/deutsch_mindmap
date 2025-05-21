@@ -1,7 +1,10 @@
 🌟 [[bewundern]] aus, [bəˈvʊndɐn] | [[bewunderte]], haben [[bewundert]]
 
 ---
-Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] erfüllt. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
+In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
+
+*[[C1-Hoehen-T1-203-Text#^13|^]]* Ich kann den Mut der Spitzensportlerinnen, die als Mütter trotzdem weiter trainieren, nur [[bewundern]]
+
 
 ---
 Synonyme: [[verehren]], [[hochachten]], [[bewundern]], [[respektieren]], [[schätzen]]

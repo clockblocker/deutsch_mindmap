@@ -36,4 +36,6 @@ D: dem [[Abschied]], den [[Abschieden]]
 ---
 [[abscheiden]], [[abschiedlich]], [[Abschiednahme]], [[verabschieden]], [[Entlassung]]
 , [[Stehempfang]]
-, [[Empfang]], [[Anrede]], [[Pitch]], [[Vorarbeit]]
+, [[Empfang]], [[Anrede]], [[Pitch]], [[Vorarbeit]], [[Abschiedsbrief]]
+
+#Maskulin 

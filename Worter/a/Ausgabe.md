@@ -29,4 +29,4 @@ G: der [[Ausgabe]], der [[Ausgaben]]
 D: der [[Ausgabe]], den [[Ausgaben]]
 
 
-#Feminin , [[Version]]
+#Feminin , [[Version]], [[Ersparnis]]

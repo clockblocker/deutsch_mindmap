@@ -1,1 +1,1 @@
-, [[Mülltonne]], [[Abfall]], [[Kunststoffabfall]], [[Müllspäher]], [[Unterwasserabfall]], [[recycelbar]], [[Kunststoffreste]], [[Verpackungsmüll]]
+, [[Mülltonne]], [[Abfall]], [[Kunststoffabfall]], [[Müllspäher]], [[Unterwasserabfall]], [[recycelbar]], [[Kunststoffreste]], [[Verpackungsmüll]], [[Müllabfuhr]]

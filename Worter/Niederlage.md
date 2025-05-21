@@ -4,6 +4,8 @@ die [[Niederlagen]]
 ---
 [[Niederlage]] gegen Aomine 
 
+3 Die Doku beschreibt die [[Niederlage]] eines arroganten Mannes  
+
 ---
 = [[Scheitern]], [[Misserfolg]], [[Versagen]]
 ≈ [[Rückschlag]], [[Misserfolg]], [[Fehlschlag]], [[Untergang]]
@@ -24,3 +26,5 @@ D: der [[Niederlage]], den [[Niederlagen]]
 ---
 [[niederlagen]], [[niederlegen]], [[sieglos]], [[verlieren]], [[unterliegen]], [[scheitern]], [[w-l]], [[Wahlniederlage]]
 , [[nie]], [[Leistung]]
+
+#Feminin 

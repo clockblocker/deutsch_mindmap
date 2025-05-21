@@ -1,1 +1,1 @@
-, [[tragbar]]
+, [[tragbar]], [[Finanzierbarkeit]]

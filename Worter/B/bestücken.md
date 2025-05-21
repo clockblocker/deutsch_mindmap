@@ -31,3 +31,4 @@ PI: [[bestückend]], PII: [[bestückt]], Zu+inf: [[zu bestücken]]
 
 ---
 [[Bestückung]], [[Stück]], [[bestückt]]
+, [[Versehen]]

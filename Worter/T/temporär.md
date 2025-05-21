@@ -1,4 +1,4 @@
 --> ⏱️ [[Temporal-Perspektive]] <--
 --> ⏱️ [[Temporal-Dauerhaft]] <--
 
-, [[vorläufig]], [[vorübergehend]], [[zeitweise]]
+, [[vorläufig]], [[vorübergehend]], [[zeitweise]], [[kurzlebig]]

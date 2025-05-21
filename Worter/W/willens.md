@@ -1,1 +1,1 @@
-, [[Willenskraft]]
+, [[Willenskraft]], [[Wille]]

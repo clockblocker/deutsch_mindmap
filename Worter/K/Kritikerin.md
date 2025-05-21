@@ -1,1 +1,1 @@
-, [[kritisieren]]
+, [[kritisieren]], [[Verfechterin]]

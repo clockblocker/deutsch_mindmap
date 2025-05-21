@@ -1,27 +1,30 @@
-Singular: das [[Gegenteil]]
-Plural: die [[Gegenteile]]
-
-Beispiele:
-[[voll]] ist das [[Gegenteil]] von [[leer]].
+🔄 🟢 das [[Gegenteil]], [ˈɡeːɡn̩ˌtaɪ̯l](https://youglish.com/pronounce/Gegenteil/german)
+die [[Gegenteile]]
 
 ---
-Translation:
-opposite
+*[[C1-Hoehen-T2-100-Loesung#^1|^]]* Achten Sie nur auf die Aufgaben zum Text, welche Textstellen den markierten Schlüsselwörtern entsprechen, [[ähnlich]] sind oder vielleicht das [[Gegenteil]] [[ausdrücken]]
 
 ---
-
-#Substantiv
-#Neuter
+= [[Kontrast]], [[Gegenstück]], [[Antithese]]
+≈ [[Gegensatz]], [[Differenz]], [[Abweichung]]
+≠ [[Gleiches]], [[Ähnliches]], [[Identisches]]
 
 ---
+opposite  
+противоположность
 
-Alle Formen:
+---
+[[gegenüber]], [[gegenüberstellen]], [[Gegensatz]], [[Teil]]
 
-| Case        | Singular           | Plural           |
-|-------------|--------------------|------------------|
-| Nominative  | das Gegenteil      | die Gegenteile   |
-| Accusative  | das Gegenteil      | die Gegenteile   |
-| Dative      | dem Gegenteil      | den Gegenteilen  |
-| Genitive    | des Gegenteils     | der Gegenteile   |
+---
+[[Gegen]]|[[teil]]
+[[Gegenteil]]
 
-, [[fern]], [[nah]], [[Argument]]
+
+---
+N: das [[Gegenteil]], die [[Gegenteile]]
+A: das [[Gegenteil]], die [[Gegenteile]]
+G: des [[Gegenteils]], der [[Gegenteile]]
+D: dem [[Gegenteil]], den [[Gegenteilen]]
+
+#Neuter 

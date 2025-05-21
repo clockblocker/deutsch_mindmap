@@ -3,6 +3,8 @@
 ---
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
+*[[C1-Hoehen-T2-100-Text#^18|^]]* Was die [[Finanzierbarkeit]] [[betrifft]], so [[ansehen|sehen]] einige Modelle und auch ich die Finanzierbarkeit als [[machbar]] an, während andere das [[bestreiten]]
+
 30 Das [[Desinteresse]] am Sparen [[betrifft]] nicht nur den [[Finanzbereich]].
 
 a) Die [[Betroffenen]] haben im Alter [[häufig]] Herzprobleme und Diabetes. 

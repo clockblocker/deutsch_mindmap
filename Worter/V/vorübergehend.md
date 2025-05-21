@@ -45,4 +45,4 @@ P: [[vorübergehenden]], [[vorübergehenderen]], [[vorübergehendsten]]
 ---
 📊 **Konjugierte Indefinitzahlen** *(if applicable)*
 (none for vorübergehend)
-, [[chronisch]], [[unaufhörlich]], [[langjährig]], [[langanhaltend]], [[zeitweise]]
+, [[chronisch]], [[unaufhörlich]], [[langjährig]], [[langanhaltend]], [[zeitweise]], [[kurzlebig]]

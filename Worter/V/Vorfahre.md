@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Vorfahren]], [[Vorfahren]], [[Vorfahren]], [[Vorfahren]]
 
 ---
-#Substantiv #Maskulin, [[Sprössling]], [[Nachfahre]]
+#Substantiv #Maskulin, [[Sprössling]], [[Nachfahre]], [[Urvater]], [[Zeitgenosse]]

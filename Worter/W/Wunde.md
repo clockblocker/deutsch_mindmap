@@ -26,4 +26,4 @@ G: der [[Wunde]], der [[Wunden]]
 D: der [[Wunde]], den [[Wunden]]
 
 
-#Feminin 
+#Feminin , [[verband]]

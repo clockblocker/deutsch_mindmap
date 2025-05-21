@@ -1,30 +1,49 @@
-🌊 [[ergehen]], [ɛɐ̯ˈgeːən] | [[erging]], sein [[ergangen]]
+🚶 [[ergehen]], [ɛɐ̯ˈɡeːən](https://youglish.com/pronounce/ergehen/german) → [[erging]] → sein [[ergangen]]
 
 ---
+*[[C1-Hoehen-T1-203-Text#^9|^]]* Die Dokumentation zeigt [[anschaulich]], `wie` `es` den [[Spitzensportlerin]]nen in Deutschland heute [[ergeht]]
+
 Da war er traurig und sprach zu sich selbst: "Mir ist es doch recht schlimm [[ergangen]], mein ältester Bruder kann mahlen, mein zweiter auf seinem Esel reiten - was kann ich mit dem Kater anfangen? [[Der gestiefelte Kater.md######2|(Quelle: Der gestiefelte Kater)]]
 
 ---
-= [[geschehen]], [[passieren]], [[widerfahren]]
-≈ [[zuteilwerden]], [[begegnen]], [[zustoßen]]
-≠ [[vermeiden]], [[verhindern]], [[umgehen]]
+= [[geschehen]], [[passieren]], [[sich ereignen]]
+≈ [[vorfallen]], [[stattfinden]], [[ablaufen]]
+≠ [[verhindern]], [[unterlassen]]
 
 ---
-to happen to, to befall, to fare
+to happen, to occur  
+происходить, случаться
+
+---
+[[Gang]], [[Ereignis]], [[Ereignis]]
 
 ---
 [[er]]|[[geh]]|[[en]]
+[[er]] + [[gehen]]
+
 
 ---
-ich: [[ergehe]], [[erging]], –, [[ergehe]], [[erginge]]
-du: [[ergehst]], [[ergingest]], [[ergehe]] | [[ergeh]], [[ergehest]], [[ergingest]]
-er/sie/es: [[ergeht]], [[erging]], –, [[ergehe]], [[erginge]]
-wir: [[ergehen]], [[ergingen]], [[ergehen wir|ergehen]], [[ergehen]], [[ergingen]]
-ihr: [[ergeht]], [[erginget]], [[ergeht]], [[ergehet]], [[erginget]]
+###### [[ergehen]]
+- Wie [[ergeht]] es dir?
+- Gut.
 
-PI: [[ergehend]], PII: [[ergangen]], Zu+inf: [[zu ergehen]]
+- Wie [[ergeht]] es uns?
+- Sehr gut.
+
+- Wie [[ist]] es ihm [[ergangen]]?
+- Schlecht.
 
 ---
-[[ergehen]] - [[er]] = [[gehen]] / to happen to, to befall, to fare
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[ergeh]] / [[ergehe]], [[erging]], [[ergehe]], [[ergänge]], -
+du, [[ergiehst]], [[ergingst]], [[ergehest]], [[ergängest]], [[ergeh]] / [[ergehe]]
+er, [[ergeht]], [[erging]], [[ergehe]], [[ergänge]], -
+wir, [[ergehen]], [[ergingen]], [[ergehen]], [[ergängen]], [[ergehen]]
+ihr, [[ergeht]], [[ergingt]], [[ergehet]], [[ergänget]], [[ergeht]]
+sie, [[ergehen]], [[ergingen]], [[ergehen]], [[ergängen]], [[ergehen]]
+
+*Zu + Inf*: zu [[ergehen]], *P2*: [[ergangen]]
+Adjektive: [[ergehend]], [[ergehender]], [[ergehendst]]
 
 ---
-[[Ergehen]], [[Geschehen]], [[Vorfall]], [[Ereignis]], [[Schicksal]], [[Wohlergehen]]
+[[ergehender]], [[ergehendes]], [[ergehende]], [[ergehenden]], [[ergehendem]], [[ergehenderer]], [[ergehenderes]], [[ergehendere]], [[ergehenderen]], [[ergehenderem]], [[ergehendster]], [[ergehendstes]], [[ergehendste]], [[ergehendsten]], [[ergehendstem]]

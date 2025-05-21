@@ -1,12 +1,14 @@
 🌱 [[werden]] , [[wurde]], sein [[geworden]]
 
 ---
-ANNA: Ich [[würde]] dir antworten …  
+ANNA: Ich [[Würde]] dir antworten …  
 Bella und Struppi! … Aber … Wir [[dachten]], ihr [[wärt]] Tänzerinnen ...  
 NIC: Sam – hier [[werden]] wir sie finden. Girls, Girls, Girls! 
 Tja, Ladies [[eines Tages werdet ihr sagen]] Johnny Depp? Nein, danke!  
 Es [[wird]] genug für alle sein 
 Und das [[wird]] keine Plagerei 
+
+*[[C1-Lesen-T4-103-Text#^10|^]]* Denen stehen die von Jahr zu Jahr größer [[werdenden]] [[Schuld]]en der öffentlichen Hand gegenüber
 
 Irgendwie [[werden]] wir den Weg finden.
 
@@ -49,9 +51,9 @@ Morpheme:
 
 | Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
 | --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[werde]]            | [[wurde]]             | -                 | [[werde]]              | [[würde]]               |
+| Ich       | [[werde]]            | [[wurde]]             | -                 | [[werde]]              | [[Würde]]               |
 | Du        | [[wirst]]            | [[wurdest]]           | [[werde]]         | [[werdest]]            | [[würdest]]             |
-| Er/sie/es | [[wird]]             | [[wurde]]             | -                 | [[werde]]              | [[würde]]               |
+| Er/sie/es | [[wird]]             | [[wurde]]             | -                 | [[werde]]              | [[Würde]]               |
 | Wir       | [[werden]]           | [[wurden]]            | -                 | [[werden]]             | [[würden]]              |
 | Ihr       | [[werdet]]           | [[wurdet]]            | [[werdet]]        | [[werdet]]             | [[würdet]]              |
 | Sie       | [[werden]]           | [[wurden]]            | [[werden Sie]]    | [[werden]]             | [[würden]]              |

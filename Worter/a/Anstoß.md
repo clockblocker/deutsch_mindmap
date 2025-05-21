@@ -5,9 +5,8 @@
 ---
 
 
-
 ---
-= [[Start]], [[Beginn]], [[Eröffnung]], [[Stoß]], [[Anlass]]
+= [[Start]], [[Beginn]], [[Eröffnung]], [[Stoß]], [[Anlass]], [[Initiative]]
 ≈ [[Impuls]], [[Initiierung]]
 ≠ [[Ende]], [[Schluss]]
 
@@ -28,3 +27,5 @@ N: der [[Anstoß]], die [[Anstöße]]
 A: den [[Anstoß]], die [[Anstöße]]
 G: des [[Anstoßes]], der [[Anstöße]]
 D: dem [[Anstoß]], den [[Anstößen]]
+
+#Maskulin 

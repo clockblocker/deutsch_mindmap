@@ -39,4 +39,4 @@ Zu+infinifive: [[auszugeben]]
 , [[verdienen]], [[sparen]]
 
 , [[verbrauchen]]
-, [[kosten]], [[lagern]], [[vergeuden]]
+, [[kosten]], [[lagern]], [[vergeuden]], [[verteilen]]

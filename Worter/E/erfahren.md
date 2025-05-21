@@ -3,6 +3,8 @@
 ---
 „Ich wollte nicht, dass du es [[erfährst]]“, [[flüsterte]] Petunia. „aber es ist [[wahr]]. Ich habe Sachen gesehen …“
 
+*[[C1-Hoehen-T1-202-Text#^22|^]]* Interessant war für mich dabei zu [[erfahren]], dass sich schon römische Kaiser für [[Nachhaltigkeit]] [[ausgesprochen]] hatten
+
 *[[C1-Hoehen-T1-201-Text#^4|^]]* Bereits in den ersten Szenen [[erfahren]] die [[Zuschauer]], dass das [[Urteil]] im [[bevorstehend]]en Prozess [[eigentlich]] bereits [[feststeht]]
 
 5 Man [[erfährt]] etwas über die Geschichte des [[Stadtteils]].  

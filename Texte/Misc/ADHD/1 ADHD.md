@@ -17,7 +17,7 @@ redet zu viel.
  
 [[1 ADHD#^8|^]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]. ^8  
 
-[[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
+[[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderung]]en [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 [[1 ADHD#^10|^]] fühlt sich [[innerlich]] unruhig, selbst wenn sie still sitzt. ^10
 

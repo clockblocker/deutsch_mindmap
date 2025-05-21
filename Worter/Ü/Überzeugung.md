@@ -3,7 +3,9 @@
 🤔 🔴 die [[Überzeugung]], [yːbɐˈtsɔʏ̯ɡʊŋ](https://youglish.com/pronounce/Überzeugung/german)
 
 ---
-- Ich bin der [[Überzeugung]], dass ...
+ Ich bin der [[Überzeugung]], dass ...
+
+*[[C1-Hoehen-T1-203-Text#^5|^]]* Als [[selbsternannt]]er [[Chauvinist]] war er der [[fest]]en [[Überzeugung]], dass ein Mann selbst in seinem Alter die Tennisspielerin schlagen könne
 
 *[[001-C1-Schreiben-T1#^4|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher klimafreundlichen [[Handlungen]] im [[Alltag]] [[leichter]] gesagt als getan ist. ^4
 

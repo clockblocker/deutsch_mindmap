@@ -5,6 +5,8 @@ haben [[abgehangen]]
 ---
 „Zugang zu Hochschulen darf nicht vom [[Einkommen]] [[abhängen]].“
 
+*[[C1-Hoehen-T2-100-Text#^26|^]]* Besteht nicht die Möglichkeit, dass Menschen, die aus verschiedenen Gründen nicht [[erwerbstätig]] sind oder sein können, durch das [[bedingungslos]]e Grundeinkommen dazu [[verleitet]] werden, in ihrer [[derzeitig]]en Situation zu [[verbleiben]] und dadurch möglicherweise von anderen [[abhängig]]er zu werden?
+
 *[[C1-Lesen-T4-102-Text#^22|^]]* Außerdem bekommen die [[Fremdfirmen]] [[Einsicht]] in [[betrieblich]]e Interna und man macht sich [[abhängig]] von ihnen. ^22
 
 
@@ -38,4 +40,4 @@ Morpheme: [[ab]][[häng]][[en]]
 | Sie | [[hängen ab]] | [[hingen ab]] | [[hängen Sie ab]] | [[hängen ab]] | [[hingen ab]] |
 
 Partizip I: [[abhängend]], Partizip II: [[abgehangen]]
-[[abhängen]] - [[ab]] = [[hängen]], [[fernab]], [[s1 e1]], [[Hang]], [[Abhängigkeit]], [[Unabhängigkeit]]
+[[abhängen]] - [[ab]] = [[hängen]], [[fernab]], [[s1 e1]], [[Hang]], [[Abhängigkeit]], [[Unabhängigkeit]], [[unabhängig]]

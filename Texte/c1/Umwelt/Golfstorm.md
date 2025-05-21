@@ -18,7 +18,7 @@ Worüber bist du dir nicht sicher?
  
 *[[Golfstorm#^6|^]]* Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
 
-*[[Golfstorm#^7|^]]* Die Arbeit wurde im Fachjournal »Nature« veröffentlicht und gibt [[zumindest]] [[teilweise]] [[Entwarnung]]: Das Strömungssystem könnte sich bis 2100 deutlich [[abschwächen]], die [[Forschenden]] fanden jedoch keine [[Hinweise]] auf einen [[vollständigen]] Kollaps. ^7
+*[[Golfstorm#^7|^]]* Die Arbeit wurde im Fachjournal »Nature« veröffentlicht und gibt [[zumindest]] [[teilweise]] [[Entwarnung]]: Das Strömungssystem könnte sich bis 2100 deutlich [[abschwächen]], die [[Forschenden]] fanden jedoch keine [[Hinweis]]e auf einen [[vollständigen]] Kollaps. ^7
 
 *[[Golfstorm#^8|^]]* [[Stattdessen]] führe der [[windgetriebene]] [[Aufstieg]] von Tiefenwasser im Südlichen Ozean dazu, dass die AMOC weiter zirkuliert. ^8
 

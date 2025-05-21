@@ -29,3 +29,4 @@ PI: [[abfahrend]], PII: [[abgefahren]], Zu+inf: [[abzufahren]]
 
 ---
 [[Abfahrt]], [[Fahrt]], [[fahren]], [[Abfahrtszeit]], [[abfahrbereit]]
+, [[Müllabfuhr]]

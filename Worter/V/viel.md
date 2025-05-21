@@ -33,4 +33,4 @@ D: [[viel]], [[mehr]], [[meist]]
 
 ---
 [[viele]], [[vielfach]], [[vielfältig]], [[Vielheit]], [[Vielzahl]]
-, [[Vielfalt]], [[beträchtlich]], [[vielerorts]], [[Zuviel]], [[weitaus]]
+, [[Vielfalt]], [[beträchtlich]], [[vielerorts]], [[Zuviel]], [[weitaus]], [[vielmehr]]

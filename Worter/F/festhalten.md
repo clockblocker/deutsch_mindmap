@@ -63,4 +63,4 @@ sie, [[halten fest]], [[hielten fest]], [[halten fest]], [[hielten fest]], [[hal
 Adjektive: [[festhaltend]], [[festhaltender]], [[festhaltendst]]
 
 ---
-[[festhaltender]], [[festhaltendes]], [[festhaltende]], [[festhaltenden]], [[festhaltendem]], [[festhaltenderer]], [[festhaltenderes]], [[festhaltendere]], [[festhaltenderen]], [[festhaltenderem]], [[festhaltendster]], [[festhaltendstes]], [[festhaltendste]], [[festhaltendsten]], [[festhaltendstem]], [[verzeichnen]], [[freisetzen]], [[schwenken]]
+[[festhaltender]], [[festhaltendes]], [[festhaltende]], [[festhaltenden]], [[festhaltendem]], [[festhaltenderer]], [[festhaltenderes]], [[festhaltendere]], [[festhaltenderen]], [[festhaltenderem]], [[festhaltendster]], [[festhaltendstes]], [[festhaltendste]], [[festhaltendsten]], [[festhaltendstem]], [[verzeichnen]], [[freisetzen]], [[schwenken]], [[abandonieren]]

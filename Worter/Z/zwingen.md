@@ -27,7 +27,7 @@ to force, to compel, to coerce
 ich: [[zwinge]], [[zwang]], –, [[zwinge]], [[zwänge]]
 du: [[zwingst]], [[zwangst]], [[zwinge]] | [[zwingende]], [[zwingtest]]
 er/sie/es: [[zwingt]], [[zwang]], –, [[zwinge]], [[zwänge]]
-wir: [[zwingen]], [[zwangen]], [[zwingen wir|zwingen]], [[zwingen]], [[zwängen]]
+wir: [[zwingen]], [[zwangen]], [[zwingen wir|zwingen]], [[zwingen]], [[Zwängen]]
 ihr: [[zwingt]], [[zwangt]], [[zwingt]], [[zwinget]], [[zwänget]]
 
 PI: [[zwingend]], PII: [[gezwungen]], Zu+inf: [[zu zwingen]]

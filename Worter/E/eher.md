@@ -31,4 +31,4 @@ Superlativ: [[am ehesten]]
 
 
 [[nachher]], [[zuvor]], [[Besteck]], [[Bestecken]]
-, [[als-zu]], [[Texte/Misc/Anki]]
+, [[als-zu]], [[Texte/Misc/Anki]], [[vielmehr]]

@@ -1,1 +1,1 @@
-, [[selbständig]], [[eigenständig]]
+, [[selbständig]], [[eigenständig]], [[unabhängig]]

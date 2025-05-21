@@ -30,4 +30,4 @@ Morpheme: [[be]][[gegn]][[en]]
 
 Partizip I: [[begegnend]], Partizip II: [[begegnet]]
 [[begegnen]] - [[be]] = [[gegnen]], [[Begegnung]], [[s1 e1]], [[vorkommen]], [[ergehen]], [[Begebenheit]]
-, [[kennenlernen]], [[fernhalten]], [[meiden]], [[berufstätig]]
+, [[kennenlernen]], [[fernhalten]], [[meiden]], [[berufstätig]], [[entgegenwirken]]

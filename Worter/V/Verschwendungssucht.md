@@ -1,1 +1,1 @@
-, [[Verschwendung]]
+, [[Verschwendung]], [[Sparsamkeit]], [[Verschwender]]

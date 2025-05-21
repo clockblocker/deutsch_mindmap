@@ -24,4 +24,4 @@ maximum possible
 Adjektive: [[größtmöglich]], [[größtmöglicher]], [[größtmöglichst]]
 
 ---
-[[größtmöglicher]], [[größtmögliches]], [[größtmögliche]], [[größtmöglichen]], [[größtmöglichem]], [[größtmöglicherer]], [[größtmöglicheres]], [[größtmöglichere]], [[größtmöglicheren]], [[größtmöglicherem]], [[größtmöglichster]], [[größtmöglichstes]], [[größtmöglichste]], [[größtmöglichsten]], [[größtmöglichstem]], [[Hantelgewicht]]
+[[größtmöglicher]], [[größtmögliches]], [[größtmögliche]], [[größtmöglichen]], [[größtmöglichem]], [[größtmöglicherer]], [[größtmöglicheres]], [[größtmöglichere]], [[größtmöglicheren]], [[größtmöglicherem]], [[größtmöglichster]], [[größtmöglichstes]], [[größtmöglichste]], [[größtmöglichsten]], [[größtmöglichstem]], [[Hantelgewicht]], [[höchstmögliche]]

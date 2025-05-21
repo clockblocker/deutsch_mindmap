@@ -1,29 +1,36 @@
-Singular: das [[Geschlecht]]
-Plural: die [[Geschlechter]]
-
-Beispiele:
-*Mein [[Geschlecht]] schimpft mich Verräter*  
-*Ich bin der Albtraum aller Väter*  
-
-[[Ausländer (lied)#^2|^]] Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
-Mit dem anderen [[Geschlecht]] ^2
+🚻 🟢 das [[Geschlecht]], [ɡəˈʃlɛçt](https://youglish.com/pronounce/Geschlecht/german)
+die [[Geschlechter]]
 
 ---
-Translation:
-gender, sex
+*[[C1-Hoehen-T1-203-Text#^1|^]]* Als erste Doku habe ich „Kampf der [[Geschlechter]]“ ausgewählt
+
+Mein [[Geschlecht]] schimpft mich Verräter  
+Ich bin der Albtraum aller Väter
+
+*[[Ausländer (lied)#^2|^]]* Ein [[scharfes]] [[Schwert]] im [[Wortgefecht]]  
+Mit dem anderen [[Geschlecht]]
 
 ---
-
-#Substantiv
-#Neuter
+= [[Genus]], [[Sex]]
+≈ [[Art]], [[Gattung]], [[Sorte]]
+≠ [[Unterschied]]
 
 ---
+gender, sex  
+пол, род
 
-Alle Formen:
+---
+[[geschlechtlich]], [[Geschlechtsverkehr]], [[Geschlechtsorgan]]
 
-| Case        | Singular             | Plural              |
-|-------------|----------------------|---------------------|
-| Nominative  | das Geschlecht       | die Geschlechter    |
-| Accusative  | das Geschlecht       | die Geschlechter    |
-| Dative      | dem Geschlecht       | den Geschlechtern   |
-| Genitive    | des Geschlechts      | der Geschlechter    |, [[geschlechtsabhängig]]
+---
+[[Geschlecht]]|`er`
+[[Geschlechter]]
+
+
+---
+N: das [[Geschlecht]], die [[Geschlechter]]
+A: das [[Geschlecht]], die [[Geschlechter]]
+G: des [[Geschlechts]], der [[Geschlechter]]
+D: dem [[Geschlecht]], den [[Geschlechtern]]
+
+#Neuter 

@@ -1,7 +1,8 @@
-🐝 [[summen]], [ˈzʊmən](https://youglish.com/pronounce/summen/german) | [[summte]], haben [[gesummt]]
+ [[Summe]] <- 
+ 🐝 [[summen]], [ˈzʊmən](https://youglish.com/pronounce/summen/german) | [[summte]], haben [[gesummt]]
 
 ---
-*[[Einen Ohrwurm haben#^5|^]]* Gut [[gelaunt]] steht Thomas auf und [[summt]] die Melodie mit. ^5
+*[[Einen Ohrwurm haben#^5|^]]* Gut [[gelaunt]] steht Thomas auf und [[summt]] die Melodie mit
 
 ---
 = [[schwirren]], [[brummen]], [[surren]], [[murmeln]]
@@ -43,4 +44,4 @@ sie, [[summen]], [[summten]], [[summen]], [[summten]], [[summen]]
 Adjektive: [[summend]], [[summender]], [[summendst]]
 
 ---
-[[summender]], [[summendes]], [[summende]], [[summenden]], [[summendem]], [[summenderer]], [[summenderes]], [[summendere]], [[summenderen]], [[summenderem]], [[summendster]], [[summendstes]], [[summendste]], [[summendsten]], [[summendstem]]
+[[summender]], [[summendes]], [[summende]], [[summenden]], [[summendem]], [[summenderer]], [[summenderes]], [[summendere]], [[summenderen]], [[summenderem]], [[summendster]], [[summendstes]], [[summendste]], [[summendsten]], [[summendstem]], [[Summe]]

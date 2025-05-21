@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Reinigung]], [[Reinigungen]], [[Reinigung]], [[Reinigung]], [[Reinigung]], [[Reinigung]], [[Reinigung]], [[Reinigungen]]
 
 ---
-#Substantiv #Feminin, [[Strom]]
+#Substantiv #Feminin, [[Strom]], [[Müllabfuhr]]

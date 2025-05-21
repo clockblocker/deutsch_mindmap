@@ -1,24 +1,22 @@
 💬  [[ausdrücken]] | [[drückte aus|drückte aus]], haben [[ausgedrückt]]
 
 ---
-*[[C1-Lesen-T1-000-Loesung#^1|^]]* Die Präposition „[[gegenüber]]“ [[drückt aus|drückt]] ein [[Verhältnis]] der [[Entgegensetzung]] oder des [[Vergleichs]] aus. Dies passt nicht zum Kontext der [[Mengenangabe]]. ^1
+*[[C1-Lesen-T1-000-Loesung#^1|^]]* Die Präposition „[[gegenüber]]“ [[drückt aus|drückt]] ein [[Verhältnis]] der [[Entgegensetzung]] oder des [[Vergleichs]] aus. Dies passt nicht zum Kontext der [[Mengenangabe]]
 
+*[[C1-Hoehen-T2-100-Loesung#^1|^]]* Achten Sie nur auf die Aufgaben zum Text, welche Textstellen den markierten Schlüsselwörtern entsprechen, [[ähnlich]] sind oder vielleicht das [[Gegenteil]] [[ausdrücken]]
 
-*[[C1-Lesen-T2-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
+*[[C1-Lesen-T2-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]
 
+*[[C1-Lesen-T1-000-Loesung#^8|^]]* „[[Dabei]]“ kann sich auf eine Tätigkeit oder einen Umstand beziehen. Es passt hier nicht, um [[auszudrücken]], dass die Drohne etwas [[bewirkt]]
 
-*[[C1-Lesen-T1-000-Loesung#^8|^]]* „[[Dabei]]“ kann sich auf eine Tätigkeit oder einen Umstand beziehen. Es passt hier nicht, um [[auszudrücken]], dass die Drohne etwas [[bewirkt]]. ^8
+*[[C1-Lesen-T1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]
 
+Oder wie es Elena [[ausdrücken]] würde: „Man kann es ihr nie recht machen!“ Elenas Chefin sucht gerne das Haar in der Suppe. Das heißt natürlich nicht, dass sie jeden Suppenteller nach Haaren [[durchsucht]], [[sondern]] dass sie oft das Schlechte [[hervorhebt]] und dabei viel Gutes [[übersieht]]
 
-*[[C1-Lesen-T1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]. ^3
+Auf dem Niveau C1 können Sie auch feine [[Bedeutungsunterschiede]] mit dem [[jeweils]] [[zutreffenden]] Wortschatz [[ausdrücken]], es kommt hier also auch auf Nuancen an
 
-
-Oder wie es Elena [[ausdrücken]] würde: „Man kann es ihr nie recht machen!“ Elenas Chefin sucht gerne das Haar in der Suppe. Das heißt natürlich nicht, dass sie jeden Suppenteller nach Haaren [[durchsucht]], [[sondern]] dass sie oft das Schlechte [[hervorhebt]] und dabei viel Gutes [[übersieht]]. 
-
-Auf dem Niveau C1 können Sie auch feine [[Bedeutungsunterschiede]] mit dem [[jeweils]] [[zutreffenden]] Wortschatz [[ausdrücken]], es kommt hier also auch auf Nuancen an.
-
-181. Was wollte Willy Brandt mit seinem Kniefall 1970 im [[ehemaligen]] jüdischen Ghetto in Warschau [[ausdrücken]]? (81%)
-	- [x] Er bat Polen und die polnischen Juden um [[Vergebung]].
+Was wollte Willy Brandt mit seinem Kniefall 1970 im [[ehemaligen]] jüdischen Ghetto in Warschau [[ausdrücken]]? (81%)
+- [x] Er bat Polen und die polnischen Juden um [[Vergebung]].
 
 
 ---
@@ -30,7 +28,7 @@ to express, to press out
 
 ---
 [[aus]][[drück]][[en]]
- 
+
 ---
 
 Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  

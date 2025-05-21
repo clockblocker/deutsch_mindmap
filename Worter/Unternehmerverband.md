@@ -23,3 +23,6 @@ D: dem [[Unternehmerverband]], den [[Unternehmerverbänden]]
 
 ---
 [[Unternehmen]], [[Unternehmer]], [[verbandelich]], [[verbandlich]], [[Verbandspolitik]], [[unter]]
+
+
+#Maskulin 

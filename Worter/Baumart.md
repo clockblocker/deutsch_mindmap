@@ -2,8 +2,9 @@
 die [[Baumarten]]
 
 ---
-*[[C1-Hoehen-T1-200-Text#^3|^]]* Zunächst kann er `kaum` [[Dachs]] `von` [[Waschbär]] [[unterscheiden]], ganz zu schweigen von den vielen [[Baumarten]], die ihn [[umgeben]]. ^3
+*[[C1-Hoehen-T1-200-Text#^3|^]]* Zunächst kann er `kaum` [[Dachs]] `von` [[Waschbär]] [[unterscheiden]], ganz zu schweigen von den vielen [[Baumarten]], die ihn [[umgeben]]
 
+*[[C1-Hoehen-T1-202-Text#^23|^]]* So schützte Kaiser Hadrian schon im zweiten Jahrhundert die Libanonzedern, eine [[Baumart]], die besonders für den [[Schiffbau]] genutzt wurde
 
 ---
 = [[Baumgattung]], [[Baumsorte]]

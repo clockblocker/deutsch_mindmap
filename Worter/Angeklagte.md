@@ -27,3 +27,5 @@ D: der [[Angeklagten]], den [[Angeklagten]]
 
 ---
 [[anklagen]], [[Anklage]], [[Angeklagter]], [[gerichtlich]], [[verurteilen]]
+
+#Feminin 

@@ -1,1 +1,1 @@
-, [[Wähler]], [[Wählerstimmen]]
+, [[Wähler]], [[Wählerstimme]]n

@@ -28,4 +28,4 @@ G: der [[Abfallentsorgung]], der [[Abfallentsorgungen]]
 D: der [[Abfallentsorgung]], den [[Abfallentsorgungen]]
 
 
-#Feminin 
+#Feminin , [[Müllabfuhr]]

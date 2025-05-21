@@ -1,4 +1,3 @@
-, [[Vereinigung]], [[Wiedervereinigung]]
 🤝 der [[Zusammenschluss]], [ˈtsuˌzamənʃlʊs]
 die [[Zusammenschlüsse]]
 
@@ -11,7 +10,7 @@ die [[Zusammenschlüsse]]
 
 ---
 = [[Verbindung]], [[Vereinigung]], [[Fusion]]
-≈ [[Allianz]], [[Verband]], [[Koalition]], [[Bündnis]]
+≈ [[Allianz]], [[Verband]], [[Koalition]], [[Bündnis]], [[Vereinigung]], [[Wiedervereinigung]]
 ≠ [[Trennung]], [[Spaltung]], [[Auflösung]], [[Zerfall]]
 
 ---
@@ -27,4 +26,7 @@ G: des [[Zusammenschlusses]], der [[Zusammenschlüsse]]
 D: dem [[Zusammenschluss]], den [[Zusammenschlüssen]]  
 
 ---
-[[zusammenschließen]], [[verbinden]], [[vereinen]], [[fusionieren]], [[Scheidung]], [[zusammen]], [[Verschmelzung]]
+[[zusammenschließen]], [[verbinden]], [[vereinen]], [[fusionieren]], [[Scheidung]], [[zusammen]], [[Verschmelzung]], [[verband]]
+
+
+#Maskulin 

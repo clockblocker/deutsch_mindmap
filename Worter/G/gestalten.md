@@ -11,7 +11,6 @@ haben [[gestaltet]]
 
 *[[C1-Hoehen-T1-202-Text#^14|^]]* In der Sendung lernen wir, wie ihr jedes Zimmer eurer Wohnung [[preiswert]] und ökologisch [[gestalten]] könnt
 
-
 Die Kamera schwenkt nach unten, und die [[Gestalten]] von Aang und Katara erscheinen über dem Horizont.
 
 Diskutieren Sie, wie ein ausgewogenes Homeoffice-Modell [[gestaltet]] werden könnte.  

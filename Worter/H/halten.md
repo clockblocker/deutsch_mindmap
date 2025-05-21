@@ -105,4 +105,4 @@ Konjunktiv II:
 - Wenn ihr geduldiger wäret, [[hieltet]] ihr durch.
 - Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]], [[fassen]], [[aushalten]], [[aufhalten]], [[mithalten]], [[schieben]], [[s1 e1]], [[abhalten]], [[hinhalten]], [[Einhaltung]], [[enthalten]], [[beibehalten]], [[verhalten]], [[einhalten]], [[packen]]
 , [[aufrechterhalten]]
-, [[durchhalten]], [[fernhalten]], [[gefangenzuhalten]], [[tragen]], [[Haltung]], [[Lebenshaltungskosten]]
+, [[durchhalten]], [[fernhalten]], [[gefangenzuhalten]], [[tragen]], [[Haltung]], [[Lebenshaltungskosten]], [[Nachhaltigkeit]]

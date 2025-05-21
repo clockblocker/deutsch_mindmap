@@ -2,4 +2,4 @@
 
 [[bejahen]]
 
-, [[feststellen]], [[nicken]], [[behaupten]], [[leugnen]], [[stimmen]], [[beweisen]], [[versichern]], [[absprechen]]
+, [[feststellen]], [[nicken]], [[behaupten]], [[leugnen]], [[stimmen]], [[beweisen]], [[versichern]], [[absprechen]], [[bestreiten]]

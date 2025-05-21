@@ -26,3 +26,5 @@ D: dem [[Schwert]], den [[Schwertern]]
 ---
 [[schweren]], [[Schwertkampf]], [[Schwertscheide]], [[Schwertlilie]], [[Schwertransport]]
 , [[Gefecht]]
+
+#Neuter 

@@ -2,4 +2,4 @@
 
 ---
 , [[Handlung]], [[Maßnahme]], [[Worter/S/Sport]]
-, [[Freizeitaktivität]], [[Akteur]], [[Bewegungsmangel]], [[Einsatz]], [[Untätigkeit]], [[Tatendrang]]
+, [[Freizeitaktivität]], [[Akteur]], [[Bewegungsmangel]], [[Einsatz]], [[Untätigkeit]], [[Tatendrang]], [[Faulheit]]

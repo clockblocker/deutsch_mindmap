@@ -3,6 +3,9 @@
 ---
 4 Man erfährt etwas über [[frühe]] [[Maßnahme]]n zur [[Ressourcenschonung]].
 
+*[[C1-Hoehen-T1-202-Text#^25|^]]* Diese Maßnahmen [[dienten]] natürlich der [[Ressourcenschonung]]
+
+
 ---
 = [[Umweltschutz]], [[Nachhaltigkeit]]
 ≈ [[Sparsamkeit]], [[Effizienz]], [[Ökologie]]

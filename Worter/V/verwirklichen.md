@@ -3,7 +3,9 @@
 ✅ [[verwirklichen]], [fɛɐ̯ˈvɪʁklɪçn̩](https://youglish.com/pronounce/verwirklichen/german) → [[verwirklichte]] → [[verwirklicht]]
 
 ---
+*[[C1-Hoehen-T2-100-Text#^25|^]]* Ich könnte mit etwas Ruhe und Zeit der [[Tätigkeit]] nachgehen, die mich interessiert, wäre [[unabhängig]]er von [[Zwängen]], könnte mich leichter in meiner Arbeit [[verwirklichen]]
 
+Aber kaum einer [[lebt]] lange genug, um seine [[Pläne]] zu [[verwirklichen]]
 
 ---
 = [[realisieren]], [[umsetzen]], [[ausführen]]

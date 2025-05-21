@@ -1,1 +1,1 @@
-, [[Nutzungsdaten]], [[Internetnutzer]]
+, [[Nutzungsdaten]], [[Internetnutzer]], [[Konsument]]

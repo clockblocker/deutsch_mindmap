@@ -1,1 +1,1 @@
-, [[entgegen]], [[Gegnern]]
+, [[entgegen]], [[Gegnern]], [[entgegenwirken]]

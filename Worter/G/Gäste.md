@@ -1,1 +1,1 @@
-, [[Gästehaus]]
+, [[Gästehaus]], [[Zuschauer]]

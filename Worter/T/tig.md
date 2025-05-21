@@ -1,1 +1,1 @@
-, [[gültig]], [[prächtig]], [[bestätigen]], [[zukünftig]]
+, [[gültig]], [[prächtig]], [[bestätigen]], [[zukünftig]], [[Bedürftigkeit]]

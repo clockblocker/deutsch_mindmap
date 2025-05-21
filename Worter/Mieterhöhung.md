@@ -2,7 +2,7 @@
 die [[Mieterhöhungen]]
 
 ---
-*[[C1-Hoehen-T1-100-Text#^13|^]]* Auch wenn [[Mieterhöhungen]] nicht gegen Gesetze [[verstoßen]], sei es [[Aufgabe]] der Politik, hier [[mieterunterstützend]] [[einzugreifen]]. ^13
+*[[C1-Hoehen-T1-100-Text#^13|^]]* Auch wenn [[Mieterhöhung]]en nicht gegen Gesetze [[verstoßen]], sei es [[Aufgabe]] der Politik, hier [[mieterunterstützend]] [[einzugreifen]]
 
 
 ---

@@ -30,4 +30,4 @@ Synonyme:
 
 
 [[bericht]], [[Auskunft]], [[Bescheid]], [[Meldung]], [[Benachrichtigung]], [[Texte/Misc/Anki]]
-, [[Inserat]]
+, [[Inserat]], [[Abschiedsbrief]]

@@ -1,1 +1,1 @@
-, [[Lebzeiten]]
+, [[Lebzeiten]], [[kurzlebig]]

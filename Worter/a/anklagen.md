@@ -35,6 +35,6 @@ PI: [[anklagend]], PII: [[angeklagt]], Zu+inf: [[anzuklagen]]
 ---
 [[Anklage]], [[Ankläger]], [[anklagbar]], [[Anklageschrift]], [[Anklagebank]]
 [[verdammen]]
-, [[bezigen]], [[verurteilten]], [[Angeklagte]]
+, [[bezigen]][[verurteilen]], [[Angeklagte]]
 , [[verzeihen]]
 , [[zeihen]], [[rechtfertigen]]

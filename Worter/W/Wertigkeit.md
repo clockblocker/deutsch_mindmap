@@ -1,1 +1,1 @@
-, [[wertvoll]], [[Geldwert]], [[Geldwert]]
+, [[wertvoll]], [[Geldwert]], [[Geldwert]], [[Würde]]

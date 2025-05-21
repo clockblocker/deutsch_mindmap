@@ -3,6 +3,8 @@
 ---
 c) Die [[Untersuchung]]en würden sich nur auf den männlichen [[Nachwuchs]] [[beziehen]].
 
+*[[C1-Hoehen-T1-203-Text#^10|^]]* Obwohl es zahlreiche Beispiele für ein erfolgreiches Comeback von [[Müttern]] im Spitzensport gibt, fühlen sich leider noch immer viele von ihnen im [[Stich]] [[gelassen]], [[sobald]] sie [[Nachwuchs]] erwarten
+
 [[2 Unter Druck nach oben#^6|^]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
 
 

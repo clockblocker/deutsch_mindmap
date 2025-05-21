@@ -17,3 +17,4 @@ including, inclusive
 
 ---
 [[schließen]], [[Schluss]], [[Schlüssel]], [[einschließen]], [[ausschließen]]
+, [[absehen]]

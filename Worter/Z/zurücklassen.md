@@ -1,1 +1,1 @@
-[[verlassen]][[abholen]], [[mitbringen]], [[abschleppen]]
+[[verlassen]][[abholen]], [[mitbringen]], [[abschleppen]], [[abandonieren]]

@@ -5,12 +5,13 @@
 ---
 Die [[Abschaffung]] der [[Abtreibung]]  
 
+*[[C1-Hoehen-T2-100-Text#^19|^]]* Wenn man bei [[Einführung]] des [[bedingungslos]]en [[Grundeinkommen]]s gleichzeitig [[bestehend]]e [[Ausgabe]]n für Sozialleistungen [[abschaffen]] würde, wäre die Finanzierung machbar
 
-134. Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
-	- [x] Ich [[beteilige]] mich an einer Bürgerinitiative für die [[Erhaltung]] der Buslinie oder gründe [[selber]] eine Initiative.
+Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
+- [x] Ich [[beteilige]] mich an einer Bürgerinitiative für die [[Erhaltung]] der Buslinie oder gründe [[selber]] eine Initiative.
 
-12. Eine Partei im Deutschen Bundestag will die Pressefreiheit [[abschaffen]]. Ist das [[möglich]]? (87%)
-	- [x] Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht [[abgeschafft]] werden.
+Eine Partei im Deutschen Bundestag will die Pressefreiheit [[abschaffen]]. Ist das [[möglich]]? (87%)
+- [x] Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht [[abgeschafft]] werden.
 
 ---
 = [[eliminieren]], [[beseitigen]], [[aufheben]]

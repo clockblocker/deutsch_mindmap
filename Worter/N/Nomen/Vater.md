@@ -16,4 +16,4 @@ Translation:
 ---
 
 #Substantiv #Maskulin  
-, [[s1 e1]]
+, [[s1 e1]], [[Urvater]]

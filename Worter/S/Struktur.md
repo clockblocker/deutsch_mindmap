@@ -1,1 +1,1 @@
-, [[Ordnung]], [[Bauart]], [[Textaufbau]], [[Hierarchie]], [[strukturell]], [[System]], [[Netzwerk]], [[Bevölkerungsstruktur]], [[Erzählstruktur]], [[Aufbau]]
+, [[Ordnung]], [[Bauart]], [[Textaufbau]], [[Hierarchie]], [[strukturell]], [[System]], [[Netzwerk]], [[Bevölkerungsstruktur]], [[Erzählstruktur]], [[Aufbau]], [[Sozialsystem]]

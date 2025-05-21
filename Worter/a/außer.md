@@ -25,4 +25,4 @@ Typische Konstruktionen:
 - außer + Akkusativ
 - außer + Dativ
 - außer jemandem/etwas
-''', [[statt]], [[außergewöhnlich]]
+''', [[statt]], [[außergewöhnlich]], [[absehen]]

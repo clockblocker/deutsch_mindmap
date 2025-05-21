@@ -1,7 +1,7 @@
 🔰 [[mindest]], [ˈmɪndəst]
 
 ---
-121. Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen [[Mindestanteil]] an [[Wählerstimmen]] haben. Das heißt … (93%)
+121. Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen [[Mindestanteil]] an [[Wählerstimme]]n haben. Das heißt … (93%)
 	- [x] 5 %-Hürde.
 	- [ ] [[Zulassungsgrenze]].
 	- [ ] [[Basiswert]].

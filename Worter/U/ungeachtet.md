@@ -24,3 +24,4 @@ regardless of, notwithstanding
 [[ungeachtet]]
 
 
+, [[absehen]]

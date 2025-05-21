@@ -1,7 +1,7 @@
 🏘️ 🟢 das [[Mietrecht]], [ˈmiːtˌʁɛçt](https://youglish.com/pronounce/Mietrecht/german)
 
 ---
-*[[C1-Hoehen-T1-100-Text#^18|^]]* Es werden [[Hinweise]] zum [[Mietrecht]] und zum [[Mieterschutz]] gegeben, gerade in Zeiten, in denen es immer weniger Wohnungen als Wohnungsuchende gibt.
+*[[C1-Hoehen-T1-100-Text#^18|^]]* Es werden [[Hinweis]]e zum [[Mietrecht]] und zum [[Mieterschutz]] gegeben, gerade in Zeiten, in denen es immer weniger Wohnungen als Wohnungsuchende gibt.
 
 
 ---

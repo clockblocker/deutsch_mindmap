@@ -22,4 +22,4 @@ Morphems:
 [[Speis]][[e]]
 
 ---
-#Substantiv #Feminin, [[fressen]], [[Linsen]], [[Nahrung]], [[Futter]]
+#Substantiv #Feminin, [[fressen]], [[Linsen]], [[Nahrung]], [[Futter]], [[abspeisen]]

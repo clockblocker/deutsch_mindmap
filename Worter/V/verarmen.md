@@ -1,1 +1,1 @@
-, [[Armut]]
+, [[Armut]], [[bereichern]]

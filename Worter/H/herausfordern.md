@@ -1,30 +1,60 @@
-🤺 [[herausfordern]], [hɛʁˈaʊ̯sˌfɔʁdɐn] | [[forderte heraus]], haben [[herausgefordert]]
+🥊 [[herausfordern]], [hɛˈʁaʊ̯sˌfɔʁdɐn](https://youglish.com/pronounce/herausfordern/german) → [[forderte heraus]] → haben [[herausgefordert]]
 
 ---
+*[[C1-Hoehen-T1-203-Text#^4|^]]* 1973 änderte sich dies jedoch, als der [[ehemalig]]e Tennisprofi Bobby Riggs, damals schon 55, die zu der Zeit [[weltbest]]e Tennisspielerin, Billie Jean King, zu einem [[Zweikampf]] [[herausfordert]]e
+
 [[Herausforderung]]
 
 ---
-= [[provozieren]], [[auffordern]], [[herauslocken]]
-≈ [[konfrontieren]], [[reizen]], [[anstacheln]], [[trotzen]]
-≠ [[nachgeben]], [[vermeiden]], [[zurückziehen]], [[kapitulieren]]
+= [[provozieren]], [[auffordern]], [[fordern]]
+≈ [[anfechten]], [[reizen]], [[herausfordern]]
+≠ [[schonen]], [[schützen]], [[schonen]]
 
 ---
-to challenge, to provoke, to dare
+to challenge, to provoke  
+вызывать, бросать вызов
 
 ---
-[[heraus]]|[[fordern]]
+[[heraus]], [[fordern]], [[Herausforderung]]
 
 ---
-ich: [[fordere heraus]], [[forderte heraus]], –, [[fordere heraus]], [[forderte heraus]]
-du: [[forderst heraus]], [[fordertest heraus]], [[fordere heraus]] | [[fordre heraus]], [[forderest heraus]], [[fordertest heraus]]
-er/sie/es: [[fordert heraus]], [[forderte heraus]], –, [[fordere heraus]], [[forderte heraus]]
-wir: [[fordern heraus]], [[forderten heraus]], [[fordern wir heraus|fordern heraus]], [[fordern heraus]], [[forderten heraus]]
-ihr: [[fordert heraus]], [[fordertet heraus]], [[fordert heraus]], [[forderet heraus]], [[fordertet heraus]]
+[[heraus]]|[[forder]]|[[n]]
+[[heraus]] + [[fordern]]
 
-PI: [[herausfordernd]], PII: [[herausgefordert]], Zu+inf: [[herauszufordern]]
 
 ---
-[[herausfordern]] - [[heraus]] = [[fordern]] / to challenge, to provoke, to dare
+###### [[herausfordern]] jN jM
+- Wen [[forderst]] du [[heraus]]?
+- Meinen Gegner.
+
+- Was [[fordern]] wir ihn [[heraus]]?
+- Zu einem Spiel.
+
+- Warum [[hat]] er sie [[herausgefordert]]?
+- Um seine Fähigkeiten zu beweisen.
 
 ---
-[[Herausforderung]], [[Herausforderer]], [[Herausforderin]], [[fordernd]], [[Aufforderung]], [[wagen]], [[anstrengen]]
+###### [[herausfordern]] jN
+- Wen [[forderst]] du [[heraus]]?
+- Den Chef.
+
+- Was [[fordern]] wir [[heraus]]?
+- Eine Antwort.
+
+- Warum [[hat]] er die Situation [[herausgefordert]]?
+- Um eine Veränderung zu bewirken.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[fordere heraus]], [[forderte heraus]], [[fordere heraus]], [[forderte heraus]], -
+du, [[forderst heraus]], [[fordertest heraus]], [[forderest heraus]], [[fordertest heraus]], [[forder heraus]] / [[fordere heraus]]
+er, [[fordert heraus]], [[forderte heraus]], [[fordere heraus]], [[forderte heraus]], -
+wir, [[fordern heraus]], [[forderten heraus]], [[fordern heraus]], [[forderten heraus]], [[fordern heraus]]
+ihr, [[fordert heraus]], [[fordertet heraus]], [[fordert heraus]], [[fordertet heraus]], [[fordert heraus]]
+sie, [[fordern heraus]], [[forderten heraus]], [[fordern heraus]], [[forderten heraus]], [[fordern heraus]]
+
+*Zu + Inf*: [[herauszufordern]], *P2*: [[herausgefordert]]
+Adjektive: [[herausfordernd]], [[herausfordernder]], [[herausforderndst]]
+
+---
+[[herausfordernder]], [[herausforderndes]], [[herausfordernde]], [[herausfordernden]], [[herausforderndem]], [[herausfordernderer]], [[herausfordernderes]], [[herausforderndere]], [[herausfordernderen]], [[herausfordernderem]], [[herausforderndster]], [[herausforderndstes]], [[herausforderndste]], [[herausforderndsten]], [[herausforderndstem]]

@@ -4,6 +4,8 @@ nicht [[unaufmerksam]]
 ---
 _Hinter einer hohen Schneedüne kommt Appa zum [[Vorschein]]. Er [[brüllt]] und macht [[somit]] auf sich [[aufmerksam]]._
 
+1 Die Doku macht darauf [[aufmerksam]], dass viele [[Leistungssportlerinnen]] oft ohne [[Unterstützung]] [[dastehen]]
+
 *[[04-C1-Schreiben-T2-M#^4|^]]* [[Verfassen]] Sie ein Schreiben an den Besitzer, Herrn Jung, in dem Sie ihn auf das Problem [[aufmerksam]] machen. ^4
 
 

@@ -3,4 +3,4 @@
 [[völlig]], [[begrenzt]], [[unbegrenzt]]
 🚧 [[einschränken]] | 😕 [[eingeschränkt]], [[Meinungsäußerung]], 
 
-[[mobilitätseingeschränkt]]
+[[mobilitätseingeschränkt]], [[bedingungslos]]

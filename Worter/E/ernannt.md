@@ -1,1 +1,1 @@
-, [[ernennen]]
+, [[ernennen]], [[selbsternannt]]

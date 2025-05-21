@@ -14,9 +14,7 @@ employment, gainful employment
 трудовая деятельность, занятость
 
 ---
-[[erwerben]], [[Tätigkeit]], [[Arbeitnehmer]], [[Arbeitgeber]], [[Erwerbseinkommen]]
-, [[erwerbstätig]]
-, [[Beschäftigung]], [[Rente]], [[Pension]]
+[[erwerben]], [[Tätigkeit]], [[Arbeitnehmer]], [[Arbeitgeber]], [[Erwerbseinkommen]], [[erwerbstätig]], [[Beschäftigung]], [[Rente]], [[Pension]]
 
 ---
 [[Erwerb]]|`s`|[[tätig]]|[[keit]]

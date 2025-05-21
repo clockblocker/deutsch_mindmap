@@ -3,7 +3,10 @@
 haben [[gedient]]
 
 ---
-*[[TD#^2|^]]* **WARNUNG:** Dieser Modus ist [[äußerst]] schwierig und [[dient]] dem [[Messen]] gegen starke [[Gegnerhorden]]. ^2
+*[[TD#^2|^]]* **WARNUNG:** Dieser Modus ist [[äußerst]] schwierig und [[dient]] dem [[Messen]] gegen starke [[Gegnerhorden]]
+
+*[[C1-Hoehen-T1-202-Text#^25|^]]* Diese Maßnahmen [[dienten]] natürlich der [[Ressourcenschonung]]. ^25
+
 
 
 ---

@@ -1,1 +1,1 @@
-, [[kern]], [[Inhalt]], [[essenziell]]
+, [[kern]], [[Inhalt]], [[essenziell]], [[Balsam]]

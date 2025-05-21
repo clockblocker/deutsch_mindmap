@@ -3,21 +3,22 @@
 haben [[angesprochen]]
 
 ---
-Endlich [[gelingt]] es Mona, sie [[anzusprechen]].
+Endlich [[gelingt]] es Mona, sie [[anzusprechen]]
+
+Der Inhalt der Aussage [[anspricht|spricht]] ein anderes Thema als das, was im Hörtext [[angesprochen]] wird, an.
 
 ###### Welche [[Vorzüge]] des [[Kiribaumes]] werden [[u.a.]] [[angesprochen]]?
 a) Er lässt sich leicht fällen.
 b) Sein [[Holz]] ist sehr robust.
 
-*[[04-C1-Schreiben-T2-M#^3|^]]* Obwohl Sie den [[Hundebesitzer]] schon [[mehrmals]] [[darauf]] [[angesprochen]] haben, hat sich bis jetzt nichts [[geändert]]. ^3
+*[[04-C1-Schreiben-T2-M#^3|^]]* Obwohl Sie den [[Hundebesitzer]] schon [[mehrmals]] [[darauf]] [[angesprochen]] haben, hat sich bis jetzt nichts [[geändert]]
 
-
-[[Die halbe Miete sein.md#^3|^]] Seit einiger Zeit ist Anja ein wenig [[nachdenklich]]. Daher [[ansprechen|spricht]] Fatima ihre Freundin in der Mittagspause darauf an. ^3
+*[[Die halbe Miete sein.md#^3|^]]* Seit einiger Zeit ist Anja ein wenig [[nachdenklich]]. Daher [[ansprechen|spricht]] Fatima ihre Freundin in der Mittagspause darauf an
 
 *So [[sprach]] sie ihren Liebsten [[an]]*  
 *Ob er es ihr steigen kann*
 
-Laura ist seit ein paar Tagen sehr unkonzentriert fällt ihr auf. Nach dem Unterricht [[ansprechen|spricht]] sie sie deshalb [[an]]. 
+Laura ist seit ein paar Tagen sehr unkonzentriert fällt ihr auf. Nach dem Unterricht [[ansprechen|spricht]] sie sie deshalb [[an]]
 
 Sebastian steht ein bisschen verloren da, als ihn einer von Miriams Freunden [[anspricht]]: „Hey, ich bin Nasim. Hilfst du mir mal mit den Getränken? Die sind noch im Auto.“ 
 

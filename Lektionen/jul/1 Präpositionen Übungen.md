@@ -69,7 +69,7 @@ Ergänze die [[fehlenden]] Präpositionen:
 
 [[auswendig]] 
 
-[[1 Präpositionen Übungen.md#^8|^]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, [[aus]] den [[Herausforderungen]] zu [[lernen]]. ^8
+[[1 Präpositionen Übungen.md#^8|^]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, [[aus]] den [[Herausforderung]]en zu [[lernen]]. ^8
 
 [[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
 

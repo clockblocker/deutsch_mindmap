@@ -68,4 +68,4 @@ sie, [[verabschieden]], [[verabschiedeten]], [[verabschieden]], [[verabschiedete
 Adjektive: [[verabschiedend]], [[verabschiedender]], [[verabschiedendst]]
 
 ---
-[[verabschiedender]], [[verabschiedendes]], [[verabschiedende]], [[verabschiedenden]], [[verabschiedendem]], [[verabschiedenderer]], [[verabschiedenderes]], [[verabschiedendere]], [[verabschiedenderen]], [[verabschiedenderem]], [[verabschiedendster]], [[verabschiedendstes]], [[verabschiedendste]], [[verabschiedendsten]], [[verabschiedendstem]], [[entlassen]], [[emeritieren]]
+[[verabschiedender]], [[verabschiedendes]], [[verabschiedende]], [[verabschiedenden]], [[verabschiedendem]], [[verabschiedenderer]], [[verabschiedenderes]], [[verabschiedendere]], [[verabschiedenderen]], [[verabschiedenderem]], [[verabschiedendster]], [[verabschiedendstes]], [[verabschiedendste]], [[verabschiedendsten]], [[verabschiedendstem]], [[entlassen]], [[emeritieren]], [[Abschiedsbrief]]

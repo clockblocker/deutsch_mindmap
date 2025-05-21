@@ -1,1 +1,1 @@
-, [[möglich]], [[unmöglich]], [[reichen]], [[erreichen]], [[erreichbar]], [[griffbereit]]
+, [[möglich]], [[unmöglich]], [[reichen]], [[erreichen]], [[erreichbar]], [[griffbereit]], [[erlebbar]]

@@ -44,4 +44,4 @@ sie, [[verschulden]], [[verschuldeten]], [[verschulden]], [[verschuldeten]], [[v
 Adjektive: [[verschuldend]], [[verschuldender]], [[verschuldendst]]
 
 ---
-[[verschuldender]], [[verschuldendes]], [[verschuldende]], [[verschuldenden]], [[verschuldendem]], [[verschuldenderer]], [[verschuldenderes]], [[verschuldendere]], [[verschuldenderen]], [[verschuldenderem]], [[verschuldendster]], [[verschuldendstes]], [[verschuldendste]], [[verschuldendsten]], [[verschuldendstem]]
+[[verschuldender]], [[verschuldendes]], [[verschuldende]], [[verschuldenden]], [[verschuldendem]], [[verschuldenderer]], [[verschuldenderes]], [[verschuldendere]], [[verschuldenderen]], [[verschuldenderem]], [[verschuldendster]], [[verschuldendstes]], [[verschuldendste]], [[verschuldendsten]], [[verschuldendstem]], [[Schuldenberg]]

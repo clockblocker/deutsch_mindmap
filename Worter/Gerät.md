@@ -36,4 +36,4 @@ D: dem [[Gerät]], den [[Geräten]]
 [[geräten]], [[gerätetechnisch]], [[Geräteraum]], [[Gerätschaft]], [[Werkzeug]], [[Zeug]], [[geraten]], [[Tool]]
 
 
-#Neuter , [[Drucker]]
+#Neuter , [[Drucker]], [[Fernbedienung]]

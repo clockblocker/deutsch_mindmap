@@ -1,4 +1,4 @@
-[[Gericht]], [[Amtsgericht]], [[Anwalt]]
+
 🔵 ⚖️ der [[Richter]], [ˈʁɪçtɐ]
 die [[Richter]]
 
@@ -13,10 +13,11 @@ die [[Richter]]
 	- [x] [[entscheidet]] mit [[Richtern]] / Richterinnen über [[Schuld]] und Strafe.
 	- [ ] gibt Bürgern / Bürgerinnen [[rechtlichen]] [[Rat]].
 	- [ ] [[ausstellen|stellt]] [[Urkunden]] aus.
-	- [ ] [[verteidigt]] den [[Angeklagten]] / die Angeklagte.
+	- [ ] [[verteidigt]] den [[Angeklagten]] / die Angeklagte
+
 ---
 = [[Jurist]], [[Justizbeamter]]
-≈ [[Gerichtsherr]], [[Rechtssprecher]], [[Rechtspfleger]]
+≈ [[Gerichtsherr]], [[Rechtssprecher]], [[Rechtspfleger]],[[Gericht]], [[Amtsgericht]], [[Anwalt]]
 ≠ [[Angeklagter]], [[Anwalt]], [[Staatsanwalt]]
 
 ---
@@ -32,4 +33,6 @@ G: des [[Richters]], der [[Richter]]
 D: dem [[Richter]], den [[Richtern]]  
 
 ---
-[[richten]], [[richterlich]], [[Rechtsprechung]], [[urteilen]], [[verurteilen]], [[verurteilten]], [[Angeklagte]], [[Urteile]], [[rechtsprechend]], [[Gerichtsschöffe]], [[Justizsenator]], [[Verbrecher]], [[Gesetzgeber]], [[Urteil]]
+[[richten]], [[richterlich]], [[Rechtsprechung]], [[urteilen]], [[verurteilen]][[verurteilen]], [[Angeklagte]], [[Urteile]], [[rechtsprechend]], [[Gerichtsschöffe]], [[Justizsenator]], [[Verbrecher]], [[Gesetzgeber]], [[Urteil]]
+
+#Maskulin 

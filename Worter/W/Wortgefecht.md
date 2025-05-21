@@ -26,3 +26,4 @@ D: dem [[Wortgefecht]], den [[Wortgefechten]]
 ---
 [[Worter/W/Wort]], [[Gefecht]], [[gefechten]], [[Wortwahl]], [[Wortmeldung]]
 --> [[🗣️ Ingredient-Meinung]] <--
+#Neuter 

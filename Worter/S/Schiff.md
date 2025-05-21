@@ -19,4 +19,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schiffes]], [[Schiffe]], [[Schiffen]]
 
 ---
-#Substantiv #Neuter, [[Kriegsschiff]], [[s1 e1]], [[wagen]]
+#Substantiv #Neuter, [[Kriegsschiff]], [[s1 e1]], [[wagen]], [[Schiffbau]]

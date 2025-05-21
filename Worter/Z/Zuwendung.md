@@ -33,4 +33,4 @@ G: der [[Zuwendung]], der [[Zuwendungen]]
 D: der [[Zuwendung]], den [[Zuwendungen]]
 
 #Feminin 
-, [[Sonderzahlung]]
+, [[Sonderzahlung]], [[Sozialleistung]]

@@ -1,2 +1,2 @@
-[[verdammen]], [[anklagen]], [[bezigen]], [[verurteilten]], [[festnehmen]]
-, [[zeihen]]
+[[verdammen]], [[anklagen]], [[bezigen]][[verurteilen]], [[festnehmen]]
+, [[zeihen]], [[verurteilen]]

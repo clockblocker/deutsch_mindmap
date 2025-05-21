@@ -27,4 +27,4 @@ A: die [[Rückkehr]], die [[Rückkehren]]
 G: der [[Rückkehr]], der [[Rückkehren]]
 D: der [[Rückkehr]], den [[Rückkehren]]
 
-#Feminin 
+#Feminin , [[Vorstoß]]

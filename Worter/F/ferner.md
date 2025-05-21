@@ -1,15 +1,15 @@
 --> [[Ingredient-Add-Remove]] <--
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
+ [[Konnektivpartikeln]]
+ 
 ➡️ [[ferner]], [ˈfɛʁnɐ](https://youglish.com/pronounce/ferner/german)
 
---> ⏱️ [[Temporal-Zeitpunkt]] <--
+---
 
 
 ---
-, [[sonst]], [[fern]], [[obendrein]], [[zudem]], [[Konnektivpartikeln]], [[wiederum]]
-
----
-= [[außerdem]], [[darüber hinaus]], [[des Weiteren]]
-≈ [[zusätzlich]], [[ebenfalls]], [[auch]], [[weiterhin]]
+= [[außerdem]], [[darüber hinaus]], [[des Weiteren]], [[zudem]], [[obendrein]], [[sowohl]]
+≈ [[zusätzlich]], [[ebenfalls]], [[auch]], [[weiterhin]], [[sonst]], [[wiederum]]
 ≠ [[zuvor]], [[früher]], [[vorher]]
 
 ---
@@ -26,4 +26,3 @@ furthermore, moreover, besides
 [[fern]]|[[er]]
 [[fern]] + [[er]]
 
-, [[sowohl]]

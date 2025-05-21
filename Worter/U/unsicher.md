@@ -1,6 +1,7 @@
 --> ⚠️ [[Grad-Risiko]] <--
 --> ⚠️ [[Grad-Risiko]] <--
 --> 🧩 [[Grad-Wahrheit]] <--
+
 😟 [[unsicher]], [ˈʊnˌzɪçɐ](https://youglish.com/pronounce/unsicher/german)
 
 ---

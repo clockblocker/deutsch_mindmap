@@ -23,4 +23,4 @@ D: dem [[Mensch]], den [[Menschen]]
 
 ---
 [[menschlich]], [[Menschheit]], [[Menschenfreund]], [[Menschenwürde]], [[Menschenverstand]], [[unmenschlich]]
-, [[Menschenmenge]], [[Menschenrecht]], [[zwischenmenschlich]], [[Lebewesen]]
+, [[Menschenmenge]], [[Menschenrecht]], [[zwischenmenschlich]], [[Lebewesen]], [[Zeitgenosse]]

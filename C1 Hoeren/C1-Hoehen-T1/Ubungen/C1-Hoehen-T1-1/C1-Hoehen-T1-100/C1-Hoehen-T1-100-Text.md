@@ -54,7 +54,7 @@ c Buch 3 -
 
 *[[C1-Hoehen-T1-100-Text#^4|^]]* [[Immobilienpreise]] und [[Mieten]] steigen, viele Mieterinnen und Mieter können das nicht mehr bezahlen und werden [[verdrängt]]. ^4
 
-*[[C1-Hoehen-T1-100-Text#^5|^]]* Eva Meisner, Hausbesitzerin im Ostend, möchte an dieser [[Entwicklung]] [[teilhaben]] und mit ihren Wohnungen einen [[höchstmöglichen]] [[Gewinn]] [[erzielen]], wie so viele Mieter [[wehren]]. ^5
+*[[C1-Hoehen-T1-100-Text#^5|^]]* Eva Meisner, Hausbesitzerin im Ostend, möchte an dieser [[Entwicklung]] [[teilhaben]] und mit ihren Wohnungen einen [[höchstmögliche]]n [[Gewinn]] [[erzielen]], wie so viele Mieter [[wehren]]. ^5
 
 *[[C1-Hoehen-T1-100-Text#^6|^]]* Auf einem [[Straßenfest]] der Mieterinitiative Ostend lernt sie einen der [[Hauptaktivisten]] der [[Initiative]] kennen. ^6
 
@@ -65,15 +65,15 @@ c Buch 3 -
 
 ---
 
-*[[C1-Hoehen-T1-100-Text#^9|^]]* Das zweite Buch *Der Wandel der Städte* von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwacher]] [[Bevölkerungsgruppen]] aus ihren [[Stadtteilen]], da sie die Mieten nicht mehr [[bezahlen]] können. ^9
+*[[C1-Hoehen-T1-100-Text#^9|^]]* Das zweite Buch *Der Wandel der Städte* von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwach]]er [[Bevölkerungsgruppe]]n aus ihren [[Stadtteil]]en, da sie die Mieten nicht mehr [[bezahlen]] können. ^9
 
 *[[C1-Hoehen-T1-100-Text#^10|^]]* Die Autorin erklärt diese [[Entwicklung]] [[anfang]]s ökonomisch: Städte werden attraktiver, dadurch erhöht sich die [[Nachfrage]] nach [[Wohnraum]] bei [[gering]]em [[Angebot]], wodurch die Preise, also die Mieten, steigen. ^10
 
-*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es [[erneut]] zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
+*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es [[erneut]] zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppe]]n kommen konnte. ^11
 
 *[[C1-Hoehen-T1-100-Text#^12|^]]* Nach ihrer Analyse des sich verändernden Wohnungsmarkts [[appelliert]] die Autorin an die Politik. ^12
 
-*[[C1-Hoehen-T1-100-Text#^13|^]]* Auch wenn [[Mieterhöhungen]] nicht gegen Gesetze [[verstoßen]], sei es [[Aufgabe]] der Politik, hier [[mieterunterstützend]] [[einzugreifen]]. ^13
+*[[C1-Hoehen-T1-100-Text#^13|^]]* Auch wenn [[Mieterhöhung]]en nicht gegen Gesetze [[verstoßen]], sei es [[Aufgabe]] der Politik, hier [[mieterunterstützend]] [[einzugreifen]]. ^13
 
 
 ---
@@ -90,7 +90,9 @@ c Buch 3 -
 
 *[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnung]]en. ^19
 
-*[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinden]], wie das Wohnungsproblem [[gelöst]] werden kann. ^20
+*[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinde]]n, wie das Wohnungsproblem [[gelöst]] werden kann. ^20
 
 *[[C1-Hoehen-T1-100-Text#^21|^]]* Auch wenn es kaum möglich sein wird, in bestimmten Stadtteilen eine [[Mietpreisspirale]] [[durchzusetzen]], für Städte die Möglichkeit, private [[Wohnungsbestände]] [[aufzukaufen]] und die Anzahl von Sozialwohnungen zu erhöhen. ^21
+
+
 

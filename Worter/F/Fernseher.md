@@ -25,4 +25,4 @@ Alle Formen:
 
 
 [[Fernsehwerbung]]
-, [[Großleinwand]]
+, [[Großleinwand]], [[Fernbedienung]]

@@ -2,8 +2,9 @@
 💰 [[aufwendig]], [ˈaʊ̯fˌvɛndɪç](https://youglish.com/pronounce/aufwendig/german)
 
 ---
-*[[C1-Lesen-T1-000-Text#^5|^]]* [[Bisher]] konzentrierten sich die Reinigungsmaßnahmen vor allem auf [[Küsten]] und die [[Wasseroberfläche]], [[während]] aber den Meeresboden zu säubern [[aufwendiger]] und für Taucher [[gefährlich]] ist. ^5
+*[[C1-Lesen-T1-000-Text#^5|^]]* [[Bisher]] konzentrierten sich die Reinigungsmaßnahmen vor allem auf [[Küsten]] und die [[Wasseroberfläche]], [[während]] aber den Meeresboden zu säubern [[aufwendiger]] und für Taucher [[gefährlich]] ist.
 
+*[[C1-Hoehen-T2-100-Text#^10|^]]* Diese werden aber oft erst nach einer [[aufwändig]]en Prüfung durch das Jobcenter zur [[Sicherung]] der Existenz [[genehmigt]]
 
 ---
 = [[kostspielig]], [[teuer]], [[anspruchsvoll]]

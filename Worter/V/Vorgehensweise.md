@@ -1,7 +1,9 @@
 🤔 die [[Vorgehensweise]], [ˈfoːɐ̯ɡeːnsˌvaɪ̯zə](https://youglish.com/pronounce/Vorgehensweise/german)
 
 ---
-- Beschreiben Sie eine [[Vorgehensweise]], die für Sie akzeptabel wäre.
+Beschreiben Sie eine [[Vorgehensweise]], die für Sie akzeptabel wäre.
+
+*[[C1-Hoehen-T1-203-Text#^21|^]]* Jedoch zeigt die Doku interessante Möglichkeiten, wie man dieser [[Vorgehensweise]] [[entgegenwirken]] könnte
 
 
 ---

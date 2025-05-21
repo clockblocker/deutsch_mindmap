@@ -1,1 +1,1 @@
-, [[entscheiden]], [[Richter]], [[verurteilten]], [[Urteile]], [[Urteil]]
+, [[entscheiden]], [[Richter]][[verurteilen]], [[Urteile]], [[Urteil]], [[verurteilen]]

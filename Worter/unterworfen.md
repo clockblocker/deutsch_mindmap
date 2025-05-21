@@ -1,1 +1,2 @@
 🙇 [[unterwerfen]]
+, [[unabhängig]], [[Zwang]]

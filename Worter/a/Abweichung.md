@@ -29,4 +29,4 @@ A: die [[Abweichung]], die [[Abweichungen]]
 G: der [[Abweichung]], der [[Abweichungen]]
 D: der [[Abweichung]], den [[Abweichungen]]
 
-#Feminin 
+#Feminin , [[Gegenteil]]

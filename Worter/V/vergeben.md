@@ -1,2 +1,2 @@
 , [[Vergebung]]
-, [[verzeihen]], [[auftraggeben]]
+, [[verzeihen]], [[auftraggeben]], [[verteilen]]

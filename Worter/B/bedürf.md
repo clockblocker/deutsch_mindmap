@@ -1,1 +1,1 @@
-, [[bedürfen]]
+, [[bedürfen]], [[Bedürftigkeit]]

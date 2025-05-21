@@ -112,4 +112,4 @@
 	- 📤 [[Ausschuss]] *(exclusion, dismissal)*  
 	- 🔚 [[Ruhestand]] *(retirement; formal withdrawal from action)*
 
-, [[nutzen]]
+

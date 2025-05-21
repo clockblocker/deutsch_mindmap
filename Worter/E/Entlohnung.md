@@ -1,1 +1,1 @@
-, [[Gehaltszahlungen]], [[Verdienst]], [[Provision]], [[Geldleistung]]
+, [[Gehaltszahlungen]], [[Verdienst]], [[Provision]], [[Geldleistung]], [[Preisgeld]]

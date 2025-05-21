@@ -3,9 +3,11 @@
 ---
 Ich möchte dir meinen tiefen Dank [[aussprechen]].
 
-[[2 ADHD.md#^11|^]] Mir fällt es schwer [[abzuwarten]], bis andere [[ausgesprochen]] haben. Ich falle anderen ins Wort. ^11
+*[[C1-Hoehen-T1-202-Text#^22|^]]* Interessant war für mich dabei zu [[erfahren]], dass sich schon römische Kaiser für [[Nachhaltigkeit]] [[ausgesprochen]] hatten
 
-[[2 Unter Druck nach oben#^7|^]] Wenn der Marketing-Manager der [[Beiersdorf]] AG Holger Welters mit einem [[Bewerber]] für seine Firma spricht, dann [[schreckt ab|schreckt]] ihn zum Beispiel [[ausgesprochenes]] [[Karrierebewusstsein]] ab. ^7
+[[2 ADHD.md#^11|^]] Mir fällt es schwer [[abzuwarten]], bis andere [[ausgesprochen]] haben. Ich falle anderen ins Wort
+
+[[2 Unter Druck nach oben#^7|^]] Wenn der Marketing-Manager der [[Beiersdorf]] AG Holger Welters mit einem [[Bewerber]] für seine Firma spricht, dann [[schreckt ab|schreckt]] ihn zum Beispiel [[ausgesprochenes]] [[Karrierebewusstsein]] ab
 
 ---
 = [[verlautbaren]], [[äußern]], [[formulieren]]

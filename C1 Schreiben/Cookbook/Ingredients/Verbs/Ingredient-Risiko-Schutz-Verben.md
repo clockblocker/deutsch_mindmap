@@ -17,6 +17,7 @@
 
 #### 🛡️ Schutz / Absicherung – Protection and Safeguarding  
 🛡️ [[sichern]] *(to secure; establish safety)*  
+🛡️ [[wehren]] *(to defend; to resist)*
 🛡️ [[absichern]] *(to safeguard; pre-emptive protection)*  
 🛡️ [[schützen]] *(to protect; general-use)*  
 🛡️ [[beschützen]] *(to shield; personal, affective connotation)*  

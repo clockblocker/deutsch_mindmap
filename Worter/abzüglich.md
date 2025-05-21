@@ -23,4 +23,4 @@ D: [[abzüglich]]
 
 ---
 [[abziehen]], [[Abzug]], [[abziehen]], [[abgezogen]]
-, [[Spende]]
+, [[Spende]], [[absehen]]

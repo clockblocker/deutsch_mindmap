@@ -1,2 +1,2 @@
 
-, [[abzüglich]], [[Nachteil]]
+, [[abzüglich]], [[Nachteil]], [[Summe]]

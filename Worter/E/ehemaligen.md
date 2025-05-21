@@ -1,3 +1,3 @@
 [[ehemalige]], [[ehe]]
 
-, [[gegenwärtig]]
+, [[gegenwärtig]], [[ehemalig]]

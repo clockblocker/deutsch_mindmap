@@ -4,6 +4,8 @@ sehr positiv [[beliebt]]
 ---
 Das DDR-Museum in Berlin Mitte - ein sehr [[beliebtes]] Museum in der Hauptstadt 
 
+*[[C1-Hoehen-T1-203-Text#^11|^]]* Es werden Beispiele gezeigt, wie junge Mütter, die [[zuvor]] ein [[beliebtes]] [[Werbeobjekt]] waren, statt weiterer Unterstützung mit der [[Schwangerschaft]] einen [[Abschiedsbrief]] bekommen haben
+
 *[[1 Das KaDeWe#^1|^]]* Es hat eine [[wechselvolle]] [[Geschichte]] hinter sich und ist eine der [[beliebtesten]] [[Sehenswürdigkeiten]] der Stadt: das Kaufhaus des Westens in Berlin. Legendär ist seine Lebensmittelabteilung, die zu den größten der Welt zählt. ^1
 
 

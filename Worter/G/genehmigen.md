@@ -3,12 +3,12 @@
 👍 [[genehmigen]], [ɡəˈneːmɪɡn̩](https://youglish.com/pronounce/genehmigen/german) → [[genehmigte]] → [[genehmigt]]
 
 ---
+*[[C1-Hoehen-T2-100-Text#^10|^]]* Diese werden aber oft erst nach einer [[aufwändig]]en Prüfung durch das Jobcenter zur [[Sicherung]] der Existenz [[genehmigt]]
 
 ---
-= [[billigen]], [[bewilligen]], [[erlauben]], [[gestatten]]
+= [[billigen]], [[bewilligen]], [[erlauben]], [[gestatten]], [[erlaubt]], [[einverstanden]]
 ≈ [[akzeptieren]], [[zulassen]], [[autorisieren]]
-≠ [[untersagen]], [[verbieten]], [[ablehnen]], [[verweigern]]
-
+≠ [[untersagen]], [[verbieten]], [[ablehnen]], [[verweigern]], [[ungefragt]]
 
 ---
 to approve, to authorize  

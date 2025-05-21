@@ -14,9 +14,10 @@
 9) [[heutzutage]] *(these days; contemporary era)* 
 10) [[heut]] *(short form of „heute“, used in compounds)* 
 11) [[heute]] *(short form of „heute“, used in compounds)* 
+12) 🗓️ [[derzeitig]] *(current, present)*  
 	
-12) [[jetzig]] *(the current one)* 
-13) [[augenblicklich]] *(right now; emotional or emphatic tone)* 
+13) [[jetzig]] *(the current one)* 
+14) [[augenblicklich]] *(right now; emotional or emphatic tone)* 
 
 
 #### 🟠 [[früher]] 

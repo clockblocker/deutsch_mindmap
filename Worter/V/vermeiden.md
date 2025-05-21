@@ -3,7 +3,7 @@
 🙅 [[vermeiden]], [fɛɐ̯ˈmaɪ̯dn̩] | [[vermied]], haben [[vermieden]]
 
 ---
-[[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
+[[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderung]]en [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 
 *[[C1-Hoehen-T1-202-Text#^10|^]]* Schritt für Schritt wird uns erklärt, wie wir Müll in allen [[Lebenslage]]n [[vermeiden]] können und dass das weder schwer noch teuer sein muss

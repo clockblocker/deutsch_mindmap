@@ -4,4 +4,4 @@
 🔴 die [[Kontrolle]] ✅
 
 #Feminin 
-, [[Kontrollverlust]], [[Regulierung]]
+, [[Kontrollverlust]], [[Regulierung]], [[Zwang]], [[Fernbedienung]]

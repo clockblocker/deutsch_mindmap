@@ -30,4 +30,4 @@ PI: [[ernennend]], PII: [[ernannt]], Zu+inf: [[zu ernennen]]
 [[ernennen]] - [[er]] = [[nennen]] / to appoint, to nominate
 
 ---
-[[Ernennung]], [[Ernenner]], [[Ernennerin]], [[ernennbar]], [[Ernennungsurkunde]]
+[[Ernennung]], [[Ernenner]], [[Ernennerin]], [[ernennbar]], [[Ernennungsurkunde]], [[selbsternannt]]

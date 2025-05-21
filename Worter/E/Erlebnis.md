@@ -1,13 +1,13 @@
-🔵 🌱 das [[Erlebnis]], [ˈɛːɐ̯lɛpnɪs]
+🌱 das [[Erlebnis]], [ˈɛːɐ̯lɛpnɪs]
 die [[Erlebnisse]]
 
 ---
-[[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
+[[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." 
 
-*[[Text mit Reflexivpronomen#^17|^]]* Wir konnten (22) noch an viele [[Erlebnisse]] aus der Schulzeit erinnern. ^17
+*[[Text mit Reflexivpronomen#^17|^]]* Wir konnten (22) noch an viele [[Erlebnis]]se aus der Schulzeit erinnern.
 
 ---
-= [[Begebenheit]], [[Geschichte]], [[Ereignis]], , [[Abenteuer]]
+= [[Begebenheit]], [[Geschichte]], [[Ereignis]], [[Abenteuer]]
 ≈ [[Abenteuer]], [[Anekdote]], [[Erfahrung]]
 ≠ [[Tätigkeit]], [[Arbeit]], [[Beschäftigung]]
 
@@ -24,4 +24,6 @@ G: des [[Erlebnis­ses]], der [[Erlebnisse]]
 D: dem [[Erlebnis]], den [[Erlebnissen]]  
 
 ---
-[[erleben]], [[erlebnisreich]], [[Erlebnisbericht]], [[Erlebnispädagogik]], [[Trauma]]
+[[erleben]], [[erlebnisreich]], [[Erlebnisbericht]], [[Erlebnispädagogik]], [[Trauma]], [[erlebbar]]
+
+#Neuter 

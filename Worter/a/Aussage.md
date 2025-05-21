@@ -1,9 +1,12 @@
 --> [[🗣️ Ingredient-Meinung]] <--
+
 🗣️ die [[Aussage]], [ˈaʊ̯sˌzaːɡə]
 die [[aussagen]]
 
 ---
 Ich [[betrachte]] diese [[Aussage]] als nicht relevant.
+
+Der [[Inhalt]] der [[Aussage]] steht im [[Widerspruch]] zu konkreten [[Aussagen]] im Hörtext
 
 Sie wartet auf die Reaktionen auf ihre [[Aussage]].
 
@@ -29,3 +32,6 @@ D: der [[Aussage]], den [[aussagen]]
 
 ---
 [[aussagen]], [[aussagekräftig]], [[Aussagekraft]], [[Zeugenaussage]], [[Falschaussage]]
+
+
+#Feminin 

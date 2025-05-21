@@ -1,1 +1,1 @@
-, [[anständig]]
+, [[anständig]], [[tugendhaft]]

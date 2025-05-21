@@ -4,10 +4,13 @@
 die [[Vernichtungen]]
 
 ---
-*[[C1-Hoehen-T1-200-Text#^18|^]]* Doch gerade der Mensch macht dem Wald den [[Garaus]]: [[Verheerende]] [[Waldbrände]], von der Industrie [[geförderte]], [[rücksichtslose]] [[Rodungen]] und falsche Agrarökonomie führen zur [[Vernichtung]] des Waldes.
+*[[C1-Hoehen-T1-200-Text#^18|^]]* Doch gerade der Mensch macht dem Wald den [[Garaus]]: [[Verheerende]] [[Waldbrände]], von der Industrie [[geförderte]], [[rücksichtslose]] [[Rodungen]] und falsche Agrarökonomie führen zur [[Vernichtung]] des Waldes
 
-111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
-	- [x] Der öffentliche [[Aufruf]] zur [[Vernichtung]] Israels.
+*[[C1-Lesen-T4-103-Text#^12|^]]* Und zwar mithilfe von neuen oder höheren Steuern oder der inflationären [[Tilgung]] öffentlicher Schulden und der gleichzeitigen [[Vernichtung]] aller [[Ersparnis]]se
+
+
+Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
+- [x] Der öffentliche [[Aufruf]] zur [[Vernichtung]] Israels.
 
 ---
 = [[Zerstörung]], [[Auslöschung]], [[Eliminierung]]

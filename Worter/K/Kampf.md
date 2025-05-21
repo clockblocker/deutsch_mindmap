@@ -1,3 +1,3 @@
 , [[Kampfstellung]]
 , [[Gefecht]]
-, [[umkämpfen]], [[Schlacht]]
+, [[umkämpfen]], [[Schlacht]], [[Zweikampf]]

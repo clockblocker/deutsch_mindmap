@@ -27,4 +27,4 @@ pleasant, agreeable
 Adjektive: [[angenehm]], [[angenehmer]], [[angenehmsten]]
 
 ---
-[[angenehmer]], [[angenehmes]], [[angenehme]], [[angenehmen]], [[angenehmem]], [[angenehmerer]], [[angenehmeres]], [[angenehmere]], [[angenehmeren]], [[angenehmerem]], [[angenehmstener]], [[angenehmstenes]], [[angenehmstene]], [[angenehmstenen]], [[angenehmstenem]]
+[[angenehmer]], [[angenehmes]], [[angenehme]], [[angenehmen]], [[angenehmem]], [[angenehmerer]], [[angenehmeres]], [[angenehmere]], [[angenehmeren]], [[angenehmerem]], [[angenehmstener]], [[angenehmstenes]], [[angenehmstene]], [[angenehmstenen]], [[angenehmstenem]], [[lebenswert]]

@@ -1,1 +1,1 @@
-, [[Bundestagswahl]], [[Wahl]], [[Wähler]], [[Landtagswahl]], [[Briefwahl]], [[Wahltag]], [[Wählerstimmen]], [[Wahllokals]]
+, [[Bundestagswahl]], [[Wahl]], [[Wähler]], [[Landtagswahl]], [[Briefwahl]], [[Wahltag]], [[Wählerstimme]]n, [[Wahllokals]]

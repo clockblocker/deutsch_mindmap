@@ -1,1 +1,1 @@
-[[sowie]], [[bald]], [[weder]], [[Vernichtung]], [[vernichten]], [[Konnektivpartikeln]], [[Negationspartikel]], [[Konjunktoren]]
+[[sowie]], [[bald]], [[weder]], [[Vernichtung]], [[vernichten]], [[Konnektivpartikeln]], [[Negationspartikel]], [[Konjunktoren]], [[vielmehr]]

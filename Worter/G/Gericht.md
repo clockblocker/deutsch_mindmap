@@ -48,6 +48,6 @@ D: dem [[Gericht]], den [[Gerichten]]
 ---
 [[richten]], [[gerichtlich]], [[Richter]], [[Rechtsprechung]], [[verurteilen]]
 [[Braten]], [[Arbeitsgericht]], [[Standesamt]]
-, [[Amtsgericht]], [[verurteilten]], [[Bundesverfassungsgericht]], [[rechtsprechend]]
+, [[Amtsgericht]][[verurteilen]], [[Bundesverfassungsgericht]], [[rechtsprechend]]
 
 #Neuter , [[Urteil]]

@@ -1,6 +1,7 @@
 --> [[🗣️ Ingredient-Meinung]] <--
 #### Opinion & Perspective  
 🗣️ [[Meinung]] *(opinion — hot take)*  
+🧠 [[Auffassung]] *(opinion, view)* 
 🌄 [[Perspektive]] *(perspective — mental camera angle)*  
 📍 [[Standpunkt]] *(stand-point — ideological coordinates)*  
 🧭 [[Ansicht]] *(view — head-canon with confidence)*  

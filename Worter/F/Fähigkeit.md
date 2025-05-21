@@ -14,7 +14,7 @@ Und obwohl seine [[Fähigkeiten]] erstaunlich sind, muss er noch eine Menge lern
 
 e) Er [[zweifelt]] manchmal an seinen [[Fähigkeiten]].  
 
-[[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderungen]] [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
+[[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderung]]en [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 ---
 Synonyme:

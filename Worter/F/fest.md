@@ -4,6 +4,8 @@ nicht [[locker]], nicht [[weich]]
 ---
 Das Haus steht auf [[festem]] Boden.
 
+*[[C1-Hoehen-T1-203-Text#^5|^]]* Als [[selbsternannt]]er [[Chauvinist]] war er der [[fest]]en [[Überzeugung]], dass ein Mann selbst in seinem Alter die Tennisspielerin schlagen könne
+
 *[[000-C1-Schreiben-T1#^6|^]]* Auf der anderen Seite sind viele der [[fest]]en [[Überzeugung]], dass die [[dauerhaft]]e [[Verschmelzung]] von Online- und [[Realwelt]] [[zahlreich]]e [[Gefahr]]en mit sich [[mitbringen|bringt]]. ^6
 
 

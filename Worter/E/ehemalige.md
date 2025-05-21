@@ -38,4 +38,4 @@ Einzigartige mögliche Formen:
 [[ehemalige]], [[ehemaliger]], [[ehemaligen]], [[ehemaliges]], [[ehemaligem]]
 [[ehemalige]], [[ehemaliger]], [[ehemaligen]], [[ehemaliges]], [[ehemaligem]]
 [[ehemaligsten]], [[ehemaligster]], [[ehemaligste]], [[ehemalingstes]], [[ehemaligsten]], [[ehemalingstem]]
-, [[jetzig]]
+, [[jetzig]], [[ehemalig]]

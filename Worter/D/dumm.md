@@ -1,40 +1,26 @@
+🤡 [[dumm]], [dʊm](https://youglish.com/pronounce/dumm/german)
+
+---
+*[[C1-Lesen-T4-103-Text#^5|^]]* Sein [[Zeitgenosse]] im [[preußisch]]en Königsberg, der Philosoph Immanuel Kant, meinte [[hingegen]], dass [[Sparsamkeit]] nichts [[tugendhaft]]es an sich habe, denn sparen könne auch der [[Dümmste]], während man unter den [[Verschwendern]] und [[Schuldnern]] die [[aufgewecktesten]] und [[geistreichsten]] Persönlichkeiten finde
+
+---
+= [[blöd]], [[doof]], [[ungelehrig]]
+≈ [[unintelligent]], [[einfältig]], [[beschränkt]]
+≠ [[klug]], [[schlau]], [[intelligent]]
+
+---
+stupid  
+глупый
+
+---
+[[Dummheit]], [[verdummen]]
+
+---
 [[dumm]]
-[[dümmer]]
-[[am]] [[dümmsten]]
 
-nicht [[klug]]
 
 ---
+Adjektive: [[dumm]], [[dümmer]], [[dümmst]]
 
 ---
-
-Synonyme:
-- [[blöd]], [[albern]], [[unintelligent]]
-
----
-Beispiele:
-
-- Das war eine [[dumme]] Entscheidung.
-- Er hat einen [[dummen]] Fehler gemacht.
-- Sie ist nicht [[dumm]].
-
-- Das war eine [[dümmere]] Entscheidung.
-- Er hat einen [[dümmeren]] Fehler gemacht.
-- Sie ist nicht [[dümmer]] als er.
-
-- Das war die [[dümmste]] Entscheidung.
-- Er hat den [[dümmsten]] Fehler gemacht.
-- Sie ist [[am dümmsten]], wenn sie müde ist.
-
----
-**Übersetzung**:
-stupid, foolish
-
----
-
-Tags: 
-#Adjective
-
----
-Morphems:
-[[dumm]], [[schlauen]], [[Weise]], [[überlegen]], [[doof]], [[begabt]], [[vernünftig]]
+[[dummer]], [[dummes]], [[dumme]], [[dummen]], [[dummem]], [[dümmerer]], [[dümmeres]], [[dümmere]], [[dümmeren]], [[dümmerem]], [[dümmster]], [[dümmstes]], [[dümmste]], [[dümmsten]], [[dümmstem]], [[geistreich]]

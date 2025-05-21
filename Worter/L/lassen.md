@@ -3,6 +3,8 @@
 ---
 „Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
 
+*[[C1-Hoehen-T1-203-Text#^10|^]]* Obwohl es zahlreiche Beispiele für ein erfolgreiches Comeback von [[Müttern]] im Spitzensport gibt, fühlen sich leider noch immer viele von ihnen im [[Stich]] [[gelassen]], sobald sie [[Nachwuchs]] erwarten
+
 Und ach ... [[Lass]] die Tarantel nicht rein
 
 *[[stehen lassen|laß stehn]]! sonst brennst du lichterloh!"*

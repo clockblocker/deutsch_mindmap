@@ -4,6 +4,8 @@ die [[Erklärungen]]
 ---
 → In Buch 1 wird [[zwar]] [[dargestellt]], dass die Mieten steigen, aber *keine* [[Erklärung]] zur [[Marktwirtschaft]] gegeben.
 
+*[[C1-Hoehen-T2-100-Text#^4|^]]* Guten Tag. Ja, vielleicht zuerst noch einmal als [[Erklärung]]: Wie Sie [[einleitend]] schon gesagt haben, die Idee ist, dass jeder vom Staat zur Existenzsicherung monatlich Geld erhält, ein Grund- oder Basiseinkommen, egal, ob man arbeitet oder nicht
+
 ---
 = [[Erläuterung]], [[Auslegung]], [[Definition]]
 ≈ [[Begründung]], [[Auskunft]], [[Information]], [[Darstellung]]

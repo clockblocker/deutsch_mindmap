@@ -1,2 +1,2 @@
 , [[eingehen]], [[zusinken]], [[kollabieren]]
-[[verfall]]
+[[verfall]], [[auslaufen]]

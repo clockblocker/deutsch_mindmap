@@ -27,4 +27,4 @@ Einzigartige mögliche Formen: [[Friedens]], [[Frieden]], [[Friedens]], [[Friede
 , [[Unwetter]]
 , [[Kriegsausbruch]]
 , [[zufriedengeben]]
-, [[Wutanfall]], [[Schlacht]], [[Einklang]], [[Geborgenheit]], [[Streiterei]]
+, [[Wutanfall]], [[Schlacht]], [[Einklang]], [[Geborgenheit]], [[Streiterei]], [[Zweikampf]]

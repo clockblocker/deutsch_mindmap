@@ -3,13 +3,14 @@
 ---
 Weniger nutzen wir Präfixe, die nicht einheimisch, sondern aus anderen Sprachen [[übernommen]] sind: Vor allem aus klassischen Sprachen haben wir Präfixe [[entlehnt]] wie  [[re]] in _reaktivieren, rekonstruieren_ oder [[de]] mit den Varianten _des-_ und _dis-_ in [[demaskieren]], [[desillusionieren]], disqualifizieren_. 
 
+*[[C1-Hoehen-T2-100-Text#^34|^]]* Ganz [[abgesehen]] davon werden ja durch die Digitalisierung der Arbeitswelt immer mehr unattraktive Arbeiten von Maschinen [[übernommen]] und andere Jobs werden [[entstehen]]
+
 *[[C1-Lesen-T4-101-Text#^5|^]]* Zudem können Roboter auch viel [[gefährlichere]] Missionen [[übernehmen]], auf die wir Astronautinnen und Astronauten aus Sicherheitsgründen niemals-- schicken würden. ^5
 
 
 *[[Lektionen/Bekker/verben/2#^6|^]]* Jetzt hat eine [[Schulklasse]] eine [[Patenschaft]] für diese Bäume [[übernommen]]. ^6
 
 - [[übernehmen]], übergeben  
-
 
  Er würde gern mehr [[Verantwortung]] [[übernehmen]], hat er zum Chef gesagt.
 

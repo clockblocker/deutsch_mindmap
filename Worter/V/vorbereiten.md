@@ -49,4 +49,4 @@ Zu+infinitive: [[vorzubereiten]]
 [[vorbereiten]] - [[vor]] = [[bereiten]]
 
 ---
-[[Vorbereitung]], [[Vorbereitungszeit]], [[Vorbereitungskurs]], [[Vorbereitungsraum]], [[Vorbereitungsteam]], [[Geburtsvorbereitung]], [[ausrichten]], [[Vorarbeit]], [[bereitstellen]]
+[[Vorbereitung]], [[Vorbereitungszeit]], [[Vorbereitungskurs]], [[Vorbereitungsraum]], [[Vorbereitungsteam]], [[Geburtsvorbereitung]], [[ausrichten]], [[Vorarbeit]], [[bereitstellen]], [[einleiten]]

@@ -3,6 +3,7 @@
 ---
 Musik [[verbindet]] die Menschen.
 
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^12|^]]* So kann der [[effiziente]] [[Einsatz]] digitaler [[Technologie]]n [[optimal]] mit dem [[unschätzbaren]] [[Wert]] [[zwischenmenschlicher]] [[Kontakt]]e [[verbunden]] werden. ^12
 w
 
@@ -34,9 +35,9 @@ to connect, to link, to join
 ---
 
 Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
-Ich: [[verbinde]], [[verband]], -, [[verbinde]], [[verbände]]  
+Ich: [[verbinde]], [[verband]], -, [[verbinde]], [[Verbände]]  
 Du: [[verbindest]], [[verbandst]], [[verbinde]], [[verbindest]], [[verbändest]]  
-Er/sie/es: [[verbindet]], [[verband]], -, [[verbinde]], [[verbände]]  
+Er/sie/es: [[verbindet]], [[verband]], -, [[verbinde]], [[Verbände]]  
 Wir: [[verbinden]], [[verbanden]], -, [[verbinden]], [[verbänden]]  
 Ihr: [[verbindet]], [[verbandet]], [[verbindet]], [[verbindet]], [[verbändet]]  
 
