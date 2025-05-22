@@ -33,4 +33,4 @@ PI: [[erstellend]], PII: [[erstellt]], Zu+inf: [[zu erstellen]]
 [[erstellen]] - [[er]] = [[stellen]] / to create, to produce, to generate
 
 ---
-[[Erstellung]], [[Ersteller]], [[Erstellerin]], [[erstellbar]], [[Erstellungsdatum]], [[recht]]
+[[Erstellung]], [[Ersteller]], [[Erstellerin]], [[erstellbar]], [[Erstellungsdatum]], [[Recht]]

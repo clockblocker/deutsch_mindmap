@@ -1,1 +1,1 @@
-, [[Kunde]], [[Konsument]]
+, [[Kunde]], [[Konsument]], [[Verbraucher]]

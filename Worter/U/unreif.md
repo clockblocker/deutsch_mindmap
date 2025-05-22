@@ -27,4 +27,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[unreif]], [[unreifer]], [[Unreife]], [[unreifes]], [[unreifen]], [[unreifem]], [[unreifer]], [[unreifen]]
-[[unreifste]], [[unreifster]], [[unreifste]], [[unreifstes]], [[unreifsten]], [[unreifstem]], [[unreifster]], [[unreifsten]]
+[[unreifste]], [[unreifster]], [[unreifste]], [[unreifstes]], [[unreifsten]], [[unreifstem]], [[unreifster]], [[unreifsten]], [[jugendlich]]

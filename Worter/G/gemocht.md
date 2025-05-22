@@ -1,1 +1,1 @@
-[[mögen]], [[beliebtes]]
+[[mögen]], [[beliebtes]], [[unbeliebt]]

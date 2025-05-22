@@ -18,7 +18,7 @@ die [[Mehrheitswahlrechte]]
 majority voting system, first-past-the-post electoral system
 
 ---
-[[Mehr]]|[[heits]]|[[wahl]]|[[recht]]
+[[Mehr]]|[[heits]]|[[wahl]]|[[Recht]]
 
 ---
 N: das [[Mehrheitswahlrecht]], die [[Mehrheitswahlrechte]]  

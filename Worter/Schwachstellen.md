@@ -1,3 +1,5 @@
+--> 🧮 [[Grad-Quantität]] <--
+
 🔴 die [[Schwachstellen]], [ˈʃvaxˌʃtɛlən]
 die [[Schwachstellen]]
 
@@ -25,4 +27,6 @@ G: der [[Schwachstellen]], der [[Schwachstellen]]
 D: den [[Schwachstellen]], den [[Schwachstellen]]  
 
 ---
-[[schwach]], [[schwächeln]], [[schwächen]], [[schwachstellen]], [[stärken]]
+[[schwach]], [[schwächeln]], [[schwächen]], [[schwachstellen]], [[stärken]], [[Defizit]]
+
+#Feminin 

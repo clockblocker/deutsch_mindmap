@@ -1,2 +1,2 @@
 , [[Schuld]], [[verantwortlich]], [[schuldbewusst]]
-, [[reumütig]], [[Schuldner]]
+, [[reumütig]], [[Schuldner]], [[schulden]]

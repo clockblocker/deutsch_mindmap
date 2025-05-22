@@ -1,1 +1,1 @@
-, [[Düse]], [[Besatz]], [[Artikel]]
+, [[Düse]], [[Besatz]], [[Artikel]], [[Referat]], [[Abhandlung]]

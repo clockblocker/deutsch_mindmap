@@ -25,4 +25,4 @@ G: des [[Rechtsanwalts]], der [[Rechtsanwälte]]
 D: dem [[Rechtsanwalt]], den [[Rechtsanwälten]]  
 
 ---
-[[anwaltlich]], [[Rechtsanwältin]], [[Rechtsanwaltschaft]], [[Rechtsprechung]], [[Anwaltskanzlei]]
+[[anwaltlich]], [[Rechtsanwältin]], [[Rechtsanwaltschaft]], [[Rechtsprechung]], [[Anwaltskanzlei]], [[Recht]], [[Recht]]

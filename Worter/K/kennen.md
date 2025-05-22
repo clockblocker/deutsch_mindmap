@@ -9,7 +9,7 @@
 
 ---
 
-Synonyme: [[wissen]], [[verstehen]], [[erkennen]], [[bekannt sein]], [[vertraut sein]]
+Synonyme: [[Wissen]], [[verstehen]], [[erkennen]], [[bekannt sein]], [[vertraut sein]]
 Antonyme: [[unbekannt]], [[fremd]], [[unvertraut]], [[ignorieren]]
 
 ---

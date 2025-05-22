@@ -1,3 +1,4 @@
+ ! [[Passiv-Ingredient-POV]] !
 👏 [[loben]], [ˈloːbn̩] | [[lobte]], haben [[gelobt]], [[Lob]]
 
 ---

@@ -1,3 +1,5 @@
+ ! [[Passiv-Ingredient-POV]] !
+
 🩺 [[behandeln]] + Akk, [bəˈhandl̩n]
 [[behandelte]]
 haben [[behandelt]]
@@ -16,7 +18,8 @@ Es ist wichtig, dass Sie alle Themenpunkte [[behandeln]] und keinen Punkt verges
 
 285. In Deutschland sind [[Jugendliche]] ab 14 Jahren [[strafmündig]]. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen [[Strafgesetze]] [[verstoßen]], … (85%)
 	- [x] werden bestraft.
-	- [ ] werden wie [[Erwachsene]] [[behandelt]].
+	- [ ] werden wie [[Erwachsene]] [[behandelt]]
+
 ---
 Synonyme: [[untersuchen]], [[pflegen]], [[versorgen]], [[kuratieren]], [[umgehen mit]]
 Antonyme: [[vernachlässigen]], [[ignorieren]], [[ablehnen 1]]
@@ -44,4 +47,4 @@ Partizip I: [[behandelnd]], Partizip II: [[behandelt]]
 
 [[behandeln]] - [[be]] = [[handeln]], [[ablehnen]], [[Gleichbehandlung]]
 🩺 [[behandeln]], [[Ungleichbehandlung]]
-, [[anhand]], [[auseinandersetzen]], [[thematisieren]], [[Symptombehandlung]], [[befassen]], [[heilen]], [[handhaben]], [[abspeisen]]
+, [[anhand]], [[auseinandersetzen]], [[thematisieren]], [[Symptombehandlung]], [[befassen]], [[heilen]], [[handhaben]], [[abspeisen]], [[Abhandlung]], [[abhandeln]]

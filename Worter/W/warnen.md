@@ -1,3 +1,4 @@
+ ! [[Passiv-Ingredient-POV]] !
 ⚠️ [[warnen]], [ˈvaʁnən](https://youglish.com/pronounce/warnen/german) → [[warnte]] → [[gewarnt]]
 
 ---

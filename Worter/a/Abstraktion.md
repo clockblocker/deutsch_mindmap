@@ -1,2 +1,2 @@
 , [[Abbildung]]
-, [[Gegenstand]]
+, [[Gegenstand]], [[Abstraktionsvermögen]], [[Abstraktionsgehalt]]

@@ -5,6 +5,8 @@ die [[Mengen]]
 ---
 Und obwohl seine Fähigkeiten erstaunlich sind, muss er noch eine [[Menge]] lernen. 
 
+*[[C1-Hoehen-T2-201-Text#^37|^]]* Legt man auf das erste Quadrat eines Schachbretts ein [[Weizenkorn]], auf das nächste die doppelte [[Menge]], auf das [[darauffolgende]] die doppelte Menge des [[vorhergehenden]] usw. bräuchte man am Ende ungefähr 730 Mrd Tonnen Weizen
+
 *[[C1-Hoehen-T1-200-Text#^7|^]]* [[Amüsant]] zu lesen und mit einer [[Menge]] [[Selbstironie]] [[gespickt]]. ^7
 
 

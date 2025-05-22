@@ -26,4 +26,4 @@ A: die [[Zuständigkeit]], die [[Zuständigkeiten]]
 G: der [[Zuständigkeit]], der [[Zuständigkeiten]]
 D: der [[Zuständigkeit]], den [[Zuständigkeiten]]
 
-#Feminin , [[zustehen]]
+#Feminin , [[zustehen]], [[Ressort]]

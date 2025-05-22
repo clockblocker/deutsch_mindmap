@@ -16,7 +16,7 @@
 legal, lawful, juridical
 
 ---
-[[recht]][[lich]]
+[[Recht]][[lich]]
 
 ---
 N: [[rechtlich]], [[rechtlicher]], [[rechtlichster]]  

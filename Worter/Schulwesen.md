@@ -27,3 +27,5 @@ D: dem [[Schulwesen]], den [[Schulwesen]]
 
 ---
 [[Schule]], [[schulisch]], [[Schulpolitik]], [[Bildungspolitik]], [[Lehrerschaft]]
+
+#Neuter 

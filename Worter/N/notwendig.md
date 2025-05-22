@@ -8,6 +8,8 @@ nicht [[unnötig]]
 ---
 Tun wir nicht manchmal Dinge, die absolut nicht [[notwendig]] sind?
 
+*[[C1-Hoehen-T2-201-Text#^13|^]]* [[Wobei]] ich sagen muss, dass die Menschen Mathematik entweder lieben und schon fast [[verehren]] oder als [[notwendig]]es [[Übel]] [[betrachten]]
+
 *[[C1-Lesen-T4-100-Text#^11|^]]* Nur wer [[hochdotierte]] Kunstpreise bekommt, vielleicht noch eine Professur hat, über die [[notwendige]] mediale Aufmerksamkeit [[verfügt]] und in bekannten Museen [[ausstellt]], darf auf dem [[Kunstolymp]] Platz nehmen. ^11
 
 

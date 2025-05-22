@@ -14,6 +14,9 @@
 - 🌀 [[Begrenzung]] *(limitation; formal framing)*
 - 📉 [[Reduzierung]] *(reduction; weakening availability)*
 - 🌀 [[Absperrung]] *(physical cordoning off; often spatial)*
+- ⛔ die [[Restriktion]] *(restriction)*  
+- ⛔ die [[Beschränkung]] *(restriction, limitation)*  
+- 
 
 ---
 
@@ -28,4 +31,4 @@
 #### 🚫 Scheitern / Versagen – Failure and Breakdown
 - 🚫 [[Scheitern]] *(failure; general project or action failure)*
 - 🚫 [[Versagen]] *(breakdown; internal failure of function or system)*
-- 🚫 [[Zusammenbruch]] *(collapse; full structural failure)*  
+- 🚫 [[Zusammenbruch]] *(collapse; full structural failure)*  , [[Restriktion]]

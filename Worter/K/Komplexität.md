@@ -1,1 +1,1 @@
-, [[komplex]]
+, [[komplex]], [[Abstraktionsgehalt]]

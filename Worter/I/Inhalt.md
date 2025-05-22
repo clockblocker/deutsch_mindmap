@@ -2,7 +2,9 @@
 die [[Inhalte]]
 
 ---
-Der [[Inhalt]] der [[Aussage]] steht im [[Widerspruch]] zu konkreten [[Aussagen]] im Hörtext
+Der [[Inhalt]] der [[Aussage]] steht im [[Widerspruch]] zu konkreten [[Aussage]]n im Hörtext
+
+*[[C1-Hoehen-T2-201-Text#^35|^]]* Sie [[betonen]] ja immer wieder, mathematische [[Inhalt]]e mit realen Phänomenen in [[Verbindung]] zu bringen. Haben Sie ein Beispiel dafür parat?
 
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^5|^]]* _Neben den_ [[Inhalten]] _der Arbeit und der Gesetze müssen diese Angestellten auch höflich,_ [[hilfsbereit]] _und vor allem_ [[verständnisvoll]] _im_ [[Umgang]] _mit Menschen und ihren_ [[Anliegen]] _sein
 
@@ -32,4 +34,4 @@ D: dem [[Inhalt]], den [[Inhalten]]
 ---
 [[inhaltsreich]], [[inhaltlich]], [[inhaltsarm]], [[nachfüllen]], [[enthalten]], [[Reparationsleistung]], [[Informationswert]], [[Nutzungsdaten]], [[Textsorte]], [[Inhaltspunkt]]
 
-#Maskulin 
+#Maskulin , [[Lehrinhalt]]

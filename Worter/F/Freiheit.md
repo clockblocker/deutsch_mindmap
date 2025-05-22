@@ -29,5 +29,5 @@ D: der [[Freiheit]], den [[Freiheiten]]
 [[frei]], [[befreien]], [[befreit]], [[freiheitlich]], [[Freiheitskampf]]
 
 [[Pflicht]], [[Freiheitsstrafe]], [[Meinungsfreiheit]], [[Gefängnis]], [[Zügel]], [[Folter]]
-, [[Versammlungsfreiheit]], [[Freizügigkeit]], [[recht]], [[Glaubensfreiheit]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[Verpflichtung]], [[Verfolgung]], [[Befreiung]], [[Bedingung]], [[Zelle]], [[Einflussnahme]], [[Verantwortung]]
-, [[Auftrag]], [[Kirchenzehnt]], [[Stadtmauer]], [[rechtsfrei]], [[Menschenrecht]], [[Hemmung]], [[Belastung]], [[Abwesenheit]], [[Sachzwang]], [[Bedrängnis]], [[Existenzdruck]], [[Haft]], [[Zwang]]
+, [[Versammlungsfreiheit]], [[Freizügigkeit]], [[Recht]], [[Glaubensfreiheit]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[Verpflichtung]], [[Verfolgung]], [[Befreiung]], [[Bedingung]], [[Zelle]], [[Einflussnahme]], [[Verantwortung]]
+, [[Auftrag]], [[Kirchenzehnt]], [[Stadtmauer]], [[rechtsfrei]], [[Menschenrecht]], [[Hemmung]], [[Belastung]], [[Abwesenheit]], [[Sachzwang]], [[Bedrängnis]], [[Existenzdruck]], [[Haft]], [[Zwang]], [[Restriktion]], [[Beschränkung]]

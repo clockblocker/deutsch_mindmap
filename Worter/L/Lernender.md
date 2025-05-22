@@ -1,1 +1,1 @@
-, [[Schüler]], [[Grundschulkind]]
+[[Lernende]]

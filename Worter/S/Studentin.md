@@ -1,1 +1,1 @@
-, [[studieren]], [[Schulabgängerin]]
+, [[studieren]], [[Schulabgängerin]], [[Lernende]]

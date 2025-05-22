@@ -1,12 +1,13 @@
 ⚙️ [[durchführen]], [ˈdʊɐ̯çˌfyːʁən](https://youglish.com/pronounce/durchführen/german) → [[führte durch]] → haben [[durchgeführt]]
 
 ---
-*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^3|^]]* _Es stellt sich daher die Frage, ob es sinnvoll wäre, Englisch als zweite_ [[Amtssprache]] _in Deutschland_ [[einzuführen]] _. Sicherlich würde es für viele Menschen eine große [[Erleichterung]] sein, wenn sie ihre [[Behördenkorrespondenz]] auf Englisch [[durchführen]] könnten. ^3
-
+*[[C1-Hoehen-T2-201-Text#^32|^]]* Viele [[Studierende]] auf [[Lehramt]] haben in ihrer Schulzeit schon selbst [[erlebt]], dass der Mathematikunterricht allem abstrakt [[durchgeführt]] wurde und sind damit gut [[zurechtgekommen]]
 
 *[[C1-Hoehen-T2-200-Text#^27|^]]* Auch dazu haben wir Experimente [[durchgeführt]]
 
-*[[C1-Lesen-T1-001-Text#^38|^]]* Aber in der Studie heißt es auch, dass [[zusätzliche]] Labortests [[durchgeführt]] werden müssen, um eine bestimmte Krankheit [[abschließend]] zu diagnostizieren. ^38
+*[[C1-Lesen-T1-001-Text#^38|^]]* Aber in der Studie heißt es auch, dass [[zusätzliche]] Labortests [[durchgeführt]] werden müssen, um eine bestimmte Krankheit [[abschließend]] zu diagnostizieren
+
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^3|^]]* _Es stellt sich daher die Frage, ob es sinnvoll wäre, Englisch als zweite_ [[Amtssprache]] _in Deutschland_ [[einzuführen]] _. Sicherlich würde es für viele Menschen eine große [[Erleichterung]] sein, wenn sie ihre [[Behördenkorrespondenz]] auf Englisch [[durchführen]] könnten. ^3
 
 
 

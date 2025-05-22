@@ -16,7 +16,7 @@ justice, fairness
 справедливость
 
 ---
-[[ge]]|[[recht]]|[[igkeit]]
+[[ge]]|[[Recht]]|[[igkeit]]
 
 ---
 N: die [[Gerechtigkeit]], die [[Gerechtigkeiten]]  

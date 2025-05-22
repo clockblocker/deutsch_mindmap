@@ -1,1 +1,1 @@
-, [[Vernunft]], [[Intelligenzgrad]], [[Klugheit]], [[Intelligenzquotient]], [[Denkvermögen]]
+, [[Vernunft]], [[Intelligenzgrad]], [[Klugheit]], [[Intelligenzquotient]], [[Denkvermögen]], [[Abstraktionsvermögen]]

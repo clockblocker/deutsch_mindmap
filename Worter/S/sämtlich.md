@@ -26,4 +26,4 @@ P: [[sämtlichen]], [[sämtlicheren]], [[sämtlichsten]]
 
 ---
 [[Sämtlichkeit]], [[samtartig]], [[Samtleben]]
-, [[Worter/A/Alle]]
+, [[Worter/A/Alle]], [[jeglich]]

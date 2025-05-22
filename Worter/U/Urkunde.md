@@ -28,3 +28,5 @@ D: dem [[Urkunde]], den [[Urkunden]]
 [[urkundlich]], [[beurkunden]], [[Urkundenfälschung]], [[Urkundenvorlage]]
 [[Standesamt]]
 , [[ursprünglich]]
+
+#Neuter 

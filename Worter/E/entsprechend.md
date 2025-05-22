@@ -17,7 +17,6 @@
 
 Der DPS-[[Anstieg]] pro Sekunde durch **Eisiger Tod** wird [[entsprechend]] einem [[Anteil]] von **Fokusrune** erhöht.
 
-
 ---
 = [[gemäß]], [[dementsprechend]], [[analog]], [[derselben]], [[gleich]],  [[ebenso]],
 ≈ [[passend]], [[angemessen]], [[korrekt]], [[adäquat]],  [[solche]], [[vereinbar]], [[jeweils]],  [[passend]]

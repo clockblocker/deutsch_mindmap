@@ -1,9 +1,12 @@
+ ! [[Passiv-Ingredient-POV]] !
 --> 🤝 [[Ingredient-Interaktion]] <--
 
  🗣️ [[kritisieren]], [kʁiˈtiːziːʁən] | [[kritisierte]], haben [[kritisiert]]
 
 ---
 Seit gestern ist Katja aber ein kleiner Star. Sie hat einen Artikel über den [[Zustand]] der [[Bonner]] Schulen geschrieben. Sie [[kritisiert]] darin die [[Stadtverwaltung]], weil sie nicht genug Geld in die [[Sanierung]] der [[Schulgebäude]] stecke.  [[Den Nagel auf den Kopf treffen.md#^2|(Quelle: Den Nagel auf den Kopf treffen)]] 
+
+*[[C1-Hoehen-T2-201-Text#^1|^]]* 7 Frau Friedrich [[kritisiert]] die Art der [[Vermittlung]] mathematischer [[Kenntnis]]ee
 
 ---
 = [[bemängeln]], [[beanstanden]], [[tadeln]]

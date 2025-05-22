@@ -20,7 +20,7 @@ right (as opposed to left)
 
 ---
 Morpheme:
-[[recht]]
+[[Recht]]
 
 ---
 

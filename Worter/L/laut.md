@@ -1,3 +1,5 @@
+ ! [[Passiv-Ingredient-POV]] !
+
 🔊 [[laut]], [laʊ̯t] | 🗣️ [[lauten]] | 🗣️ [[laut]]
 
 ---

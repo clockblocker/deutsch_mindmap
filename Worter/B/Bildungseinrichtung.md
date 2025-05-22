@@ -2,15 +2,14 @@
 die [[Bildungseinrichtungen]]
 
 ---
-- Diskutieren Sie, wie [[Bildungseinrichtungen]] digitale Kompetenz vermitteln sollten.
+Diskutieren Sie, wie [[Bildungseinrichtung]]en digitale Kompetenz vermitteln sollten.
+
+*[[C1-Hoehen-T2-201-Text#^31|^]]* [[Vorbereiten|Bereiten]] denn die [[Bildungseinrichtung]]en [[angehende]] Mathelehrkräfte [[genügend]] auf den Beruf vor?
 
 ---
-= [[Schule]], [[Universität]], [[Hochschule]]
+= [[Schule]], [[Universität]], [[Hochschule]],  [[Schulamt]], [[Abendgymnasium]],
 ≈ [[Institut]], [[Akademie]], [[Lernort]]
 ≠ [[Fabrik]], [[Büro]]
-
-, [[Schule]], [[Schulamt]], [[Abendgymnasium]], [[Universität]]
-
 
 ---
 educational institutions  
@@ -20,8 +19,8 @@ educational institutions
 [[Bildung]], [[einrichten]], [[Bildungsstätte]], [[Bildungswesen]]
 
 ---
-[[Bildung]]|`s`|[[einricht]]|[[ung]]|[[en]]
-[[Bildung]] + [[Einrichtungen]]
+[[Bildung]]|`s`|[[einricht]]|[[ung]]
+[[Bildung]] + [[Einrichtung]]
 
 
 ---
@@ -32,3 +31,4 @@ D: der [[Bildungseinrichtung]], den [[Bildungseinrichtungen]]
 
 
 #Feminin 
+

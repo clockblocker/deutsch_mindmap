@@ -79,4 +79,4 @@ simple, easy | simple, plain
 Adjektive: [[einfach]], [[einfacher]], [[einfachsten]]
 
 ---
-[[einfacher]], [[einfaches]], [[einfache]], [[einfachen]], [[einfachem]], [[einfacherer]], [[einfacheres]], [[einfachere]], [[einfacheren]], [[einfacherem]], [[einfachstener]], [[einfachstenes]], [[einfachstene]], [[einfachstenen]], [[einfachstenem]], [[tiefgründig]], [[hintergründig]]
+[[einfacher]], [[einfaches]], [[einfache]], [[einfachen]], [[einfachem]], [[einfacherer]], [[einfacheres]], [[einfachere]], [[einfacheren]], [[einfacherem]], [[einfachstener]], [[einfachstenes]], [[einfachstene]], [[einfachstenen]], [[einfachstenem]], [[tiefgründig]], [[hintergründig]], [[schlechthin]]

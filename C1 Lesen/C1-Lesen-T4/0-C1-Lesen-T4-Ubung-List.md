@@ -8,7 +8,6 @@
 - [ ] [[C1-Lesen-T4-200-Text|200]]
 - [ ] [[C1-Lesen-T4-201-Text|201]]
 - [ ] [[C1-Lesen-T4-202-Text|202]]
-- [ ] [[C1-Lesen-T4-203-Text|203]]
 
 *300 - 2023 Prüfungs Express*
 - [ ] [[C1-Lesen-T4-300-Text|300]]

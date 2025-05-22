@@ -1,4 +1,5 @@
 --> 🧮 [[Grad-Quantität]] <--
+
 🔵 🔢 der [[einzelne]], [ˈaɪ̯ntsəlnə]
 die [[einzelnen]]
 

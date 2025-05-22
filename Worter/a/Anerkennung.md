@@ -4,6 +4,8 @@ die [[Anerkennungen]]
 ---
 Am Ende sei das ja nur ein [[Gewinn]] für die Firma und Jannis könne [[enwdlich]] die [[Anerkennung]] bekommen, die er [[verdiene]]. 
 
+*[[C1-Hoehen-T2-201-Text#^19|^]]* Ich glaube, dass dieses Problem in der [[Anerkennung]] des [[Lehrerberufs]] [[schlechthin]] liegt
+
 
 ---
 Synonyme:
@@ -23,4 +25,7 @@ Genitive: der [[Anerkennung]], der [[Anerkennungen]]
 Dative: der [[Anerkennung]], den [[Anerkennungen]]  
 
 ---
-[[anerkennen]], [[anerkennend]], [[anerkennenswert]], [[unerkannt]], [[Verdienstorden]], [[Menschenwürde]], [[Dankbarkeit]], [[Nachrede]], [[Verleumdung]], [[inwiefern]], [[Streben]], [[Bedürfnis]], [[Belohnung]], [[Auszeichnung]], [[Spot]], [[Prämie]]
+[[anerkennen]], [[anerkennend]], [[anerkennenswert]], [[unerkannt]], [[Verdienstorden]], [[Menschenwürde]], [[Dankbarkeit]], [[Nachrede]], [[Verleumdung]], [[inwiefern]], [[Streben]], [[Bedürfnis]], [[Belohnung]], [[Auszeichnung]], [[Spot]], [[Prämie]], [[Kritik]]
+
+
+#Feminin 

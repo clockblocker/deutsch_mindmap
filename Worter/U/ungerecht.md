@@ -6,7 +6,7 @@ nicht [[gerecht]]
 
 ---
 = [[unfair]], [[ungleich]], [[parteiisch]]
-≈ [[recht]], [[voreingenommen]], [[diskriminierend]], [[benachteiligend]]
+≈ [[Recht]], [[voreingenommen]], [[diskriminierend]], [[benachteiligend]]
 ≠ [[gerecht]], [[fair]], [[gleichberechtigt]], [[unparteiisch]]
 
 ---

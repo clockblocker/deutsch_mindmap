@@ -32,4 +32,4 @@ PI: [[lehrend]], PII: [[gelehrt]], Zu+inf: [[zulehren]]
 ---
 [[Lehrer]], [[Lehrerin]], [[Lehre]], [[Lehrbuch]], [[Unterricht]]
 
- [[Geschichtsunterricht]], [[erziehen]], [[Lehrkraft]]
+ [[Geschichtsunterricht]], [[erziehen]], [[Lehrkraft]], [[Lehrerberuf]], [[Lehramt]], [[Lehrinhalt]]

@@ -7,21 +7,19 @@
 *[[3 Sollte das Internet stärker reguliert werden?#^3|^]]* _Auch wenn sich Menschen besonders oft auf diesen Seiten_ [[unangemessen]] [[äußern]], _so bleibt es doch ein privater Rahmen und niemand ist gezwungen, sich dort_ [[aufzuhalten]]. ^3
 
 
-1. alle 4 Sprachfunktionen [[inhaltlich]] und [[umfangreich]] [[angemessen]]  
+*[[C1-Hoehen-T2-201-Text#^3|^]]* 9 Die Regierung sollte den [[Lehrerberuf]] [[angemessen]] honorieren
 
-2. überwiegend [[angemessen]]  
+alle 4 Sprachfunktionen [[inhaltlich]] und [[umfangreich]] [[angemessen]]  
+
+überwiegend [[angemessen]]  
 
 Hier wird [[bewertet]], ob Ihr Wortschatz und die Strukturen, die Sie [[verwenden]], [[angemessen]] und [[abwechslungsreich]] sind. E
 
 ---
-= [[passend]], [[geeignet]], [[verhältnismäßig]]
-≈ [[richtig]], [[zutreffend]], [[adäquat]]
-≠ [[unangemessen]], [[unpassend]], [[unverhältnismäßig]]
+= [[passend]], [[geeignet]], [[verhältnismäßig]], [[entsprechend]], [[ausgewogen]]
+≈ [[richtig]], [[zutreffend]], [[adäquat]], [[gelegen]], [[gemäßigt]], [[inhaltlich]]
+≠ [[unangemessen]], [[unpassend]], [[unverhältnismäßig]], [[übermäßig]],
 
-, [[passend]]
-, [[gelegen]]
-, [[entsprechend]]
-, [[übermäßig]], [[gemäßigt]], [[ausgewogen]], [[Angemessenheit]], [[inhaltlich]]
 
 ---
 appropriate, adequate  

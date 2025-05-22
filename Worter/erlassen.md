@@ -31,5 +31,5 @@ PI: [[erlassend]], PII: [[erlassen]], Zu+inf: [[zu erlassen]]
 [[erlassen]] - [[er]] = [[lassen]] / to decree, to enact, to grant
 
 ---
-[[Erlass]], [[Erlassung]], [[Verordnung]], [[Dekret]], [[gesetzlich]], [[verfügen]], [[recht]]
+[[Erlass]], [[Erlassung]], [[Verordnung]], [[Dekret]], [[gesetzlich]], [[verfügen]], [[Recht]]
 , [[verzeihen]], [[auferlegen]]

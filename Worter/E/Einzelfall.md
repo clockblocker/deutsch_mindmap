@@ -1,1 +1,1 @@
-, [[einzelne]], [[Einzelfallregelung]]
+, [[einzelne]], [[Einzelfallregelung]], [[einzeln]]

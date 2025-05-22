@@ -1,3 +1,4 @@
+ ! [[Passiv-Ingredient-POV]] !
 --> [[🗣️ Ingredient-Meinung]] <--
 
 die [[Meinung]], [ˈmaɪ̯nʊŋ]

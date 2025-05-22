@@ -53,4 +53,4 @@ D: dem [[Gebiet]], den [[Gebieten]]
 
 
 
-#Neuter 
+#Neuter , [[Abteil]]

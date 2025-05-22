@@ -1,2 +1,2 @@
 --> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
-, [[weitergeben]], [[ausdauern]]
+, [[weitergeben]], [[ausdauern]], [[weiterführen]]

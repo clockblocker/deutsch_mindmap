@@ -1,4 +1,4 @@
-🟢 📊 das [[Rentenberechnung]], [ˈʁɛntənbəʁɛçnʊŋ]
+💰 🔴 die [[Rentenberechnung]], [ˈʁɛntn̩bəˌʁɛçnʊŋ](https://youglish.com/pronounce/Rentenberechnung/german)
 die [[Rentenberechnungen]]
 
 ---
@@ -9,22 +9,27 @@ die [[Rentenberechnungen]]
 	- [ ] [[Krankenversicherung]].
 
 ---
-= [[Pensionsberechnung]], [[Altersvorsorgeberechnung]]
-≈ [[Ruhegehaltsermittlung]], [[Altersbezugsberechnung]], [[Sozialleistungsberechnung]]
-≠ [[Willkürliche Schätzung]], [[Zufallsberechnung]]
+= [[Rentenermittlung]], [[Pensionsberechnung]]
+≈ [[Kalkulation]], [[Schätzung]]
+≠ [[Fehler]]
 
 ---
-pension calculation, retirement benefit computation
+pension calculation  
+расчет пенсии
 
 ---
-[[Renten]]+[[berechnung]]
-[[Ren]]|[[ten]]|[[be]]|[[rech]]|[[nung]]
+[[Rente]], [[berechnen]], [[Rentenanspruch]], [[Rentenversicherung]]
 
 ---
-N: das [[Rentenberechnung]], die [[Rentenberechnungen]]  
-A: das [[Rentenberechnung]], die [[Rentenberechnungen]]  
-G: des [[Rentenberechnungs]], der [[Rentenberechnungen]]  
-D: dem [[Rentenberechnung]], den [[Rentenberechnungen]]  
+[[Rente]]|`n`|[[berechnung]]
+[[Rente]] + [[Berechnung]]
+
 
 ---
-[[Rente]], [[berechnen]], [[Rentner]], [[Rentenversicherung]], [[Altersvorsorge]]
+N: die [[Rentenberechnung]], die [[Rentenberechnungen]]
+A: die [[Rentenberechnung]], die [[Rentenberechnungen]]
+G: der [[Rentenberechnung]], der [[Rentenberechnungen]]
+D: der [[Rentenberechnung]], den [[Rentenberechnungen]]
+
+
+#Feminin 

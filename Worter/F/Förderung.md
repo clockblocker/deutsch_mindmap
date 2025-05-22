@@ -1,6 +1,7 @@
 🌱 🔴 die [[Förderung]], [ˈfœɐ̯dərʊŋ](https://youglish.com/pronounce/Förderung/german)
 
 ---
+*[[C1-Hoehen-T2-201-Text#^8|^]]* 14 Frau Friedrich [[plädiert]] für die individuelle [[Förderung]] [[einzelner]] Lernender innerhalb der Lerngruppe
 
 
 ---
@@ -9,13 +10,6 @@
 ≠ [[Hemmung]], [[Behinderung]], [[Benachteiligung]]
 
 , [[Erzie­hung]], [[Erziehung]], [[fördern]], [[Unterstützung]], [[vorderen]], [[Mittelzuweisung]], [[Patenschaft]], [[mithilfe]], [[Förderband]]
-
-
-= [[Support]], [[Help]], [[Attention]]
-≈ [[Funding]], [[Assistance]], [[Sponsorship]]
-≠ [[Inhibition]], [[Impairment]], [[Disadvantage]]
-
-, [[Education]], [[Upbringing]], [[Promote]], [[Support]], [[Front]], [[Allocation of funds]], [[Sponsorship]], [[With the help of]], [[Conveyor belt]]
 
 
 ---

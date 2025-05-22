@@ -5,6 +5,9 @@
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]].
 
+*[[C1-Hoehen-T2-201-Text#^14|^]]* Letzteres liegt vor allem daran, dass dieses Fach leider viel zu [[häufig]] [[langweilig]], abstrakt und ohne [[jeglichen]] [[Bezug]] zur Realität gelehrt wird. ^14
+
+
 *[[C1-Lesen-T4-101-Text#^2|^]]* Andererseits ist das [[häufig]] [[erwähnte]] Argument, dass beispielsweise Geologinnen und Geologen vor Ort nicht zu [[ersetzen]] seien, nicht von der Hand zu weisen. ^2
 
 

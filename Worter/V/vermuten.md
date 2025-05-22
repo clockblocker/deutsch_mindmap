@@ -13,7 +13,7 @@ Ich [[vermute]], dass der Zug wieder zu spät kommt.
 ---
 = [[annehmen]], [[glauben]], [[mutmaßen]]
 ≈ [[spekulieren]], [[vermögen]], [[argwöhnen]]
-≠ [[wissen]], [[bestätigen]], [[beweisen]]
+≠ [[Wissen]], [[bestätigen]], [[beweisen]]
 
 ---
 to suppose, to suspect, to presume

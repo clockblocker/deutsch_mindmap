@@ -36,4 +36,4 @@ Adjektive: [[gegenwärtig]], [[gegenwärtiger]], [[gegenwärtigst]]
 [[gegenwärtiger]], [[gegenwärtiges]], [[gegenwärtige]], [[gegenwärtigen]], [[gegenwärtigem]], [[gegenwärtigerer]], [[gegenwärtigeres]], [[gegenwärtigere]], [[gegenwärtigeren]], [[gegenwärtigerem]], [[gegenwärtigster]], [[gegenwärtigstes]], [[gegenwärtigste]], [[gegenwärtigsten]], [[gegenwärtigstem]]
 
 , [[heut]], [[vergangen]], [[anwesend]], [[ehemaligen]], [[ehemalige]], [[zeitgenössische]], [[zurzeit]], [[heutig]], [[jetzig]], [[regierend]], [[jeweilig]], [[heutzutage]]
-, [[damalige]], [[damalig]], [[einstig]]
+, [[damalige]], [[damalig]], [[einstig]], [[geschichtlich]]

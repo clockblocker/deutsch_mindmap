@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bretts]], [[Brette]], [[Brettern]]
 
 ---
-#Substantiv #Neuter, [[Extra 8]], [[Holz]], [[Block]], [[Brettspiel]]
+#Substantiv #Neuter, [[Extra 8]], [[Holz]], [[Block]], [[Brettspiel]], [[Schachbrett]]

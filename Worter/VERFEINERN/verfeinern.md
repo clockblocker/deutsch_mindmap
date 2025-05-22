@@ -1,1 +1,1 @@
-, [[ausarbeiten]], [[weiterentwickeln]]
+, [[ausarbeiten]], [[weiterentwickeln]], [[Einzelheit]]

@@ -1,3 +1,4 @@
+ ! [[Passiv-Ingredient-POV]] !
 🕵️ [[herausfinden]], [hɛˈʁaʊ̯sˌfɪndn̩] | [[fand heraus]], haben [[herausgefunden]]
 
 ---

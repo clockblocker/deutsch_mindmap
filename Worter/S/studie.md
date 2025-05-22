@@ -34,4 +34,4 @@ A: die [[Studie]], die [[Studien]]
 G: der [[Studie]], der [[Studien]]  
 D: der [[Studie]], den [[Studien]]
 
-#Feminin 
+#Feminin , [[Abhandlung]]

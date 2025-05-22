@@ -1,1 +1,1 @@
-[[getrennt]], [[einzelnen]], [[separat]]
+[[getrennt]][[einzeln]], [[separat]]

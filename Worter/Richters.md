@@ -1,1 +1,1 @@
-🔵 [[Richter]], [[recht]]
+🔵 [[Richter]], [[Recht]]

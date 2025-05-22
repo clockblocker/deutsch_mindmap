@@ -22,4 +22,4 @@ Alle Formen:
 |-------------|------------------|----------------|
 | Nominative  | das Korn         | die Körner     |
 | Accusative  | das Korn         | die Körner     |
-| Dative​⬤
+| Dative​⬤, [[Weizen]], [[Weizenkorn]]

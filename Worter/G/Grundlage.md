@@ -30,4 +30,4 @@ Einzigartige mögliche Formen:
 ---
 #Substantiv #Maskulin
 , [[Basiswert]], [[zugrundeliegende]], [[s1 e1]]
-, [[Achse]], [[grundlegend]], [[Hauptursache]], [[zugrunde]], [[Vorarbeit]], [[Standbein]], [[Plattform]], [[Basiseinkommen]]
+, [[Achse]], [[grundlegend]], [[Hauptursache]], [[zugrunde]], [[Vorarbeit]], [[Standbein]], [[Plattform]], [[Basiseinkommen]], [[Grundprogramm]]

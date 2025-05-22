@@ -2,10 +2,11 @@
 die [[Studienfächer]]
 
 ---
-Laura
+Für welches [[Studienfach]] sollte man sich entscheiden?
+
 
 ---
-= [[Fach]], [[Studienrichtung]], [[Hauptfach]]
+= [[Fach]], [[Studienrichtung]], [[Hauptfach]], [[Wissenschaftszweig]]
 ≈ [[Bereich]], [[Disziplin]], [[Worter/T/thema]]
 ≠  -
 
@@ -26,4 +27,6 @@ N: das [[Studienfach]], die [[Studienfächer]]
 A: das [[Studienfach]], die [[Studienfächer]]
 G: des [[Studienfachs]], der [[Studienfächer]]
 D: dem [[Studienfach]], den [[Studienfächern]]
-, [[Wissenschaftszweig]]
+
+
+#Neuter , [[Lehramtsstudium]]

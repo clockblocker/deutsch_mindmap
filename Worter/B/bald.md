@@ -107,7 +107,7 @@ nicht [[sehr]]
 
 
 ---
-Synonyme: [[recht]], [[einigermaßen]], [[relativ]], [[verhältnismäßig]], [[annähernd]]
+Synonyme: [[Recht]], [[einigermaßen]], [[relativ]], [[verhältnismäßig]], [[annähernd]]
 Antonyme: [[extrem]], [[völlig]], [[total]], [[absolut]]
 
 ---

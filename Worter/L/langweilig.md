@@ -1,6 +1,7 @@
  [[langweilig]] | 🥱 [[langweilen]]
 
 ---
+*[[C1-Hoehen-T2-201-Text#^14|^]]* Letzteres liegt vor allem daran, dass dieses Fach leider viel zu [[häufig]] [[langweilig]], abstrakt und ohne [[jeglichen]] [[Bezug]] zur Realität gelehrt wird. ^14
 
 
 ---

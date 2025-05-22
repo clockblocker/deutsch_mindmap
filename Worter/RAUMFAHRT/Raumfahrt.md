@@ -26,3 +26,4 @@ N: die [[Raumfahrt]], die [[Raumfahrten]]
 A: die [[Raumfahrt]], die [[Raumfahrten]]
 G: der [[Raumfahrt]], der [[Raumfahrten]]
 D: der [[Raumfahrt]], den [[Raumfahrten]]
+

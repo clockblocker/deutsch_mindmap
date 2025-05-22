@@ -30,4 +30,4 @@ PI: [[besprechend]], PII: [[besprochen]], Zu+inf: [[zubersprechen]]
 
 ---
 [[Besprechung]], [[Besprochenes]]
-, [[thematisieren]], [[Besprechungsraum]]
+, [[thematisieren]], [[Besprechungsraum]], [[abhandeln]]

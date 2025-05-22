@@ -1,1 +1,1 @@
-, [[Gerechtberechtigung]], [[Berechtigung]]
+, [[Gerechtberechtigung]], [[Berechtigung]], [[Recht]], [[Recht]]

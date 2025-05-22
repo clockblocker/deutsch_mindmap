@@ -27,4 +27,4 @@ G: der [[Gleichbehandlung]], der [[Gleichbehandlungen]]
 D: der [[Gleichbehandlung]], den [[Gleichbehandlungen]]  
 
 ---
-[[gleich]], [[behandeln]], [[Gleichheit]], [[Recht]], [[Diskriminierung]], [[recht]], [[benachteiligen]]
+[[gleich]], [[behandeln]], [[Gleichheit]], [[Recht]], [[Diskriminierung]], [[Recht]], [[benachteiligen]]

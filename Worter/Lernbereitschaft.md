@@ -28,3 +28,5 @@ N: die [[Lernbereitschaft]], die [[Lernbereitschaften]]
 A: die [[Lernbereitschaft]], die [[Lernbereitschaften]]
 G: der [[Lernbereitschaft]], der [[Lernbereitschaften]]
 D: der [[Lernbereitschaft]], den [[Lernbereitschaften]]
+
+#Feminin 

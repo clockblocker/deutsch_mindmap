@@ -1,7 +1,11 @@
+ ! [[Passiv-Ingredient-POV]] !
+
 🔓 [[aufmachen]], [ˈaʊ̯fˌmaxn̩] | [[machte auf]], haben [[aufgemacht]] != [[zumachen]]
 
 ---
 [[Damit]] hat er die Schränke [[aufgemacht]]
+
+*1 Die Doku* [[aufmachen|macht]] `darauf` [[aufmerksam]]*, dass viele [[Leistungssportlerinnen]] oft ohne [[Unterstützung]] [[dastehen]]*
 
 *Aber ihr, ihr beiden andern,*  
 *[[aufmachen|macht]] euch auf, mit uns zu [[wandern]],*  

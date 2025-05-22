@@ -37,4 +37,4 @@ Dative: dem [[Bescheid]], den [[Bescheiden]]
 , [[Steuerbescheid]], [[Geschenkbestätigung]]
 
 
-#Neuter 
+#Neuter , [[Wissen]]

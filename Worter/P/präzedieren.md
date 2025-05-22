@@ -1,2 +1,2 @@
 , [[vorhergehen]]
-, [[vorangehen]]
+, [[vorangehen]], [[vorausgehen]]

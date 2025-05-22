@@ -1,14 +1,14 @@
-📚 [[wissen]]
+📚 [[Wissen]]
 [[wusste]]
 haben [[gewusst]]
 
 ---
 - SASCHA:[[ Ich hab’s gewusst]]. Was machst du nur? Spinnst du?  
-- Ja, das [[wissen|weiß]] ich. Aber wo ist Sascha?
+- Ja, das [[Wissen|weiß]] ich. Aber wo ist Sascha?
 - Keiner [[Weiß]] wie lang 
 - NIC: Hey Sam, du bist ein echter Freund … [[weißt]] du Geld ist wirklich nicht alles 
 
-*[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] [[wissen]]. ^13
+*[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] [[Wissen]]. ^13
 
 
 _[Ärgerlich]_ Ich [[wusste]] es doch! Du hast der Feuermarine ein Lichtsignal [[gegeben]], oder?
@@ -28,9 +28,9 @@ _[Ärgerlich]_ Ich [[wusste]] es doch! Du hast der Feuermarine ein Lichtsignal 
 - Er [[Weiß]] nicht, was er tun soll.
 - Es [[Weiß]] alles.
 - Sie [[Weiß]] das Geheimnis.
-- Wir [[wissen]] die Lösung.
+- Wir [[Wissen]] die Lösung.
 - Ihr [[wisst]] Bescheid.
-- Sie [[wissen]] viel über die Welt.
+- Sie [[Wissen]] viel über die Welt.
 
 ---
 **Übersetzung**:
@@ -65,18 +65,18 @@ to know
 - Er [[wisse]] es.
 - Es [[wisse]] Bescheid.
 - Sie [[wisse]] das.
-- Wir [[wissen]] es.
+- Wir [[Wissen]] es.
 - Ihr [[wisst]] das.
-- Sie [[wissen]] es.
+- Sie [[Wissen]] es.
 
 ---
 Konjunktiv I:
 - Er sagt, ich [[wisse]] die Antwort.
 - Sie meint, du [[wissest]] viel über Geschichte.
 - Er behauptet, er [[wisse]] nicht, was er tun soll.
-- Wir erklären, wir [[wissen]] die Lösung.
+- Wir erklären, wir [[Wissen]] die Lösung.
 - Ihr sagt, ihr [[wisset]] Bescheid.
-- Sie sagen, sie [[wissen]] viel über die Welt.
+- Sie sagen, sie [[Wissen]] viel über die Welt.
 
 ---
 Konjunktiv II:
@@ -85,4 +85,34 @@ Konjunktiv II:
 - Wenn er aufmerksamer wäre, [[wüsste]] er, was er tun soll.
 - Wenn wir besser vorbereitet wären, [[wüssten]] wir die Lösung.
 - Wenn ihr mehr zuhören würdet, [[wüsstet]] ihr Bescheid.
-- Wenn sie mehr lesen würden, [[wüssten]] sie viel über die Welt., [[irren]], [[raten]], [[auskennen]], [[vermuten]], [[erfahren]], [[ahnen]], [[Erkenntnis]], [[Versehen]], [[Fachwissen]], [[Verständnis]], [[beherrschen]], [[Information]]--> [[🗣️ Ingredient-Meinung]] <--
+- Wenn sie mehr lesen würden, [[wüssten]] sie viel über die Welt.,
+ 
+🧠 🟢 das [[Wissen]], [ˈvɪsn̩](https://youglish.com/pronounce/Wissen/german)
+
+---
+
+---
+= [[Kenntnis]], [[Erkenntnis]]
+≈ [[Information]], [[Erfahrung]], [[Bildung]]
+≠ [[Unwissen]], [[Ignoranz]], [[Ahnungslosigkeit]]
+
+---
+knowledge  
+знание
+
+---
+[[wissen]], [[wissend]], [[wissenschaftlich]], [[Wissenschaft]]
+
+---
+[[Wiss]]|[[en]]
+[[Wissen]]
+
+
+---
+N: das [[Wissen]], -
+A: das [[Wissen]], -
+G: des [[Wissens]], -
+D: dem [[Wissen]], -
+
+
+#Neuter , [[Versehen]]

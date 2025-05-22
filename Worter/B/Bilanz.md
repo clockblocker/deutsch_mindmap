@@ -25,3 +25,5 @@ N: die [[Bilanz]], die [[Bilanzen]]
 A: die [[Bilanz]], die [[Bilanzen]]  
 G: der [[Bilanz]], der [[Bilanzen]]  
 D: der [[Bilanz]], den [[Bilanzen]]
+
+#Feminin 

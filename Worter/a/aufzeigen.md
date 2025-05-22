@@ -1,1 +1,1 @@
-, [[hinweisen]], [[aufdecken]], [[vorweisen]], [[erweisen]], [[herausstellen]], [[aufweisen]], [[klarmachen]]
+, [[hinweisen]], [[aufdecken]], [[vorweisen]], [[erweisen]], [[herausstellen]], [[aufweisen]], [[klarmachen]], [[verdeutlichen]]

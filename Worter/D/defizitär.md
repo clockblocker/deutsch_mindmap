@@ -1,2 +1,2 @@
 --> 💸 [[Grad-Preis]] <--
-, [[wirtschaftlich]], [[unzureichend]], [[mangelhaft]]
+, [[wirtschaftlich]], [[unzureichend]], [[mangelhaft]], [[Defizit]]

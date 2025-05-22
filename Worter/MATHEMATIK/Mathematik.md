@@ -1,1 +1,1 @@
-, [[Zahlenverständnis]]
+, [[Zahlenverständnis]], [[Potenzrechnung]]

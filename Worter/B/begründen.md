@@ -1,3 +1,4 @@
+ ! [[Passiv-Ingredient-POV]] !
 📜 [[begründen]], [bəˈgʁʏndən] | [[begründete]], haben [[begründet]]
 
 ---

@@ -2,9 +2,11 @@
 die [[Gehälter]]
 
 ---
-*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^5|^]]* Zunächst einmal sollte man sich selbst fragen: „Was ist mir persönlich wichtig?“, weiter, in [[Hinblick]] auf einen beruflichen Wechsel, sollte man sich auf persönliche Fragen wie die beruflichen Chancen auf persönliches [[Wachstum]], [[Weiterbildung]] und [[zusätzliche]] Qualifikationen hat, auch das [[Gehalt]] sollte man im [[Vergleich]] zum [[jetzigen]] [[Bruttojahresgehalt]] genauer [[betrachten]]
-
 *[[C1-Hoehen-T1-203-Text#^19|^]]* Also erhalten sie höhere [[Gehälter]] und größere [[Prämien]].
+
+*[[C1-Hoehen-T2-201-Text#^26|^]]* Später steigt der [[Abstraktionsgehalt]] in diesen [[Fächern]] und das reglementierte Lernen fällt viele Kinder bzw
+
+*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^5|^]]* Zunächst einmal sollte man sich selbst fragen: „Was ist mir persönlich wichtig?“, weiter, in [[Hinblick]] auf einen beruflichen Wechsel, sollte man sich auf persönliche Fragen wie die beruflichen Chancen auf persönliches [[Wachstum]], [[Weiterbildung]] und [[zusätzliche]] Qualifikationen hat, auch das [[Gehalt]] sollte man im [[Vergleich]] zum [[jetzigen]] [[Bruttojahresgehalt]] genauer [[betrachten]]
 
 Frau Frost arbeitet als [[fest]] [[angestellte]] [[Mitarbeiterin]] in einem Büro. Was muss sie nicht von ihrem [[Gehalt]] bezahlen? (75%)
 - [x] [[Umsatzsteuer]]
@@ -33,4 +35,4 @@ D: dem [[Gehalt]], den [[Gehältern]]
 [[Bedeutung]], [[Gehaltsvorstellungen]], [[Gehaltszahlungen]], [[unbezahlt]]
 , [[Nominallohn]], [[Verdienst]], [[Provision]], [[Lohnniveau]]
 
-#Maskulin 
+#Maskulin , [[Abstraktionsgehalt]]

@@ -1,3 +1,4 @@
+ ! [[Passiv-Ingredient-POV]] !
 --> [[🗣️ Ingredient-Meinung]] <--
 --> 🤝 [[Ingredient-Interaktion]] <--
 
@@ -36,4 +37,4 @@ G: der [[Einschätzung]], der [[Einschätzungen]]
 D: der [[Einschätzung]], den [[Einschätzungen]]
 
 #Feminin 
-, [[einzuschätzen]]
+, [[einzuschätzen]], [[Abwägung]]

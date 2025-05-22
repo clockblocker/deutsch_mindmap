@@ -17,8 +17,8 @@ to justify, to vindicate
 [[Rechtfertigung]], [[gerechtfertigt]], [[Rechtfertigungsgründe]]
 
 ---
-[[recht]]|[[fertig]]|[[en]]
-[[recht]] + [[fertigen]]
+[[Recht]]|[[fertig]]|[[en]]
+[[Recht]] + [[fertigen]]
 
 
 ---

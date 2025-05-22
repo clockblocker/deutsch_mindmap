@@ -1,1 +1,1 @@
-, [[schlicht]], [[geradezu]]
+, [[schlicht]], [[geradezu]], [[schlechthin]]

@@ -1,1 +1,1 @@
-, [[passend]], [[anpassen]], [[ergonomisch]]
+[[anpassen]]

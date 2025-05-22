@@ -63,11 +63,11 @@ Frau Tischbein legte den Arm um seine Schulter und transportierte ihn nach der K
 
 --Grüße sie alle schön von mir. Und paß gut auf. In Berlin geht es anders zu als bei uns in Neustadt. Und am Sonntag gehst du mit Onkel Robert ins KaiserFriedrich-Museum. Und benimm dich anständig, damit es nicht heißt, wir hier wüßten nicht, was sich gehört.
 
---[[Grüßen|Grüße]] sie alle [[schön]] von mir. Und [[passen|paß]] [[gut]] [[aufpassen|auf]]. In Berlin [[gehen|geht]] es [[anders]] zu als bei uns in [[Neustadt]]. Und am [[Sonntag]] [[gehen|gehst]] du mit [[Onkel]] Robert ins KaiserFriedrich-Museum. Und  [[benehmen|benimm]] dich [[anständig]], damit es nicht [[heißen|heißt]], wir hier [[wissen|wüßten]] nicht, was sich [[gehören|gehört]].
+--[[Grüßen|Grüße]] sie alle [[schön]] von mir. Und [[passen|paß]] [[gut]] [[aufpassen|auf]]. In Berlin [[gehen|geht]] es [[anders]] zu als bei uns in [[Neustadt]]. Und am [[Sonntag]] [[gehen|gehst]] du mit [[Onkel]] Robert ins KaiserFriedrich-Museum. Und  [[benehmen|benimm]] dich [[anständig]], damit es nicht [[heißen|heißt]], wir hier [[Wissen|wüßten]] nicht, was sich [[gehören|gehört]].
 
 --Grüße sie alle schön von mir. Und paß gut auf. In Berlin geht es anders zu als bei uns in Neustadt. Und am Sonntag gehst du mit Onkel Robert ins KaiserFriedrich-Museum. Und benimm dich anständig, damit es nicht heißt, wir hier wüßten nicht, was sich gehört.
 
---[[Grüßen|Grüße]] sie alle [[schön]] von mir. Und [[aufpassen|paß]] [[gut]] [[aufpassen|auf]]. In Berlin [[gehen|geht]] es [[anders]] zu als bei uns in [[Neustadt]]. Und am [[Sonntag]] [[gehen|gehst]] du mit [[Onkel]] Robert ins KaiserFriedrich-Museum. Und  [[benehmen|benimm]] dich [[anständig]], damit es nicht [[heißen|heißt]], wir hier [[wissen|wüßten]] nicht, was sich [[gehören|gehört]].
+--[[Grüßen|Grüße]] sie alle [[schön]] von mir. Und [[aufpassen|paß]] [[gut]] [[aufpassen|auf]]. In Berlin [[gehen|geht]] es [[anders]] zu als bei uns in [[Neustadt]]. Und am [[Sonntag]] [[gehen|gehst]] du mit [[Onkel]] Robert ins KaiserFriedrich-Museum. Und  [[benehmen|benimm]] dich [[anständig]], damit es nicht [[heißen|heißt]], wir hier [[Wissen|wüßten]] nicht, was sich [[gehören|gehört]].
 
 
 

@@ -1,1 +1,1 @@
-, [[zurechtbiegen]], [[zurechtfinden]]
+, [[zurechtbiegen]], [[zurechtfinden]], [[zurechtkommen]]

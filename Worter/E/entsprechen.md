@@ -6,6 +6,8 @@
 ---
 Das [[entspricht]] unserer Idee.
 
+*[[C1-Hoehen-T2-201-Text#^40|^]]* Das [[entspricht]] [[etwa]] dem [[Tausendfachen]] der [[weltweiten]] [[Weizenernte]] eines Jahres
+
 *[[C1-Hoehen-T2-100-Text#^19|^]]* Wenn jeder 1000 Euro im Monat bekäme, [[entspräche]] das bei den 83 Millionen Menschen, die in Deutschland leben, [[ungefähr]] den Kosten des aktuellen [[Sozialhaushalt]]
 
 *[[C1-Hoehen-T1-202-Text#^26|^]]* Heute fordern die [[Vereinten]] Nationen eine Entwicklung beim Klimaschutz, die den [[Erfordernis]]sen der heutigen Generationen [[zwar]] [[entspricht]], ohne jedoch die [[Bedürfnis]]se künftiger Generationen zu [[gefährden]]

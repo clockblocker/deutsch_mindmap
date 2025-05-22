@@ -16,7 +16,7 @@ to find one's way, to cope
 [[finden]], [[Recht]], [[Zurechtweisung]], [[Zurechtfinden]]
 
 ---
-[[zu]]|[[recht]]|[[find]]|[[en]]
+[[zu]]|[[Recht]]|[[find]]|[[en]]
 [[zu]] + [[rechtfinden]]
 
 

@@ -1,2 +1,2 @@
 , [[Selbstjustiz]]
-, [[rechter]], [[rechtsfrei]]
+, [[rechter]], [[rechtsfrei]], [[Recht]], [[Recht]]

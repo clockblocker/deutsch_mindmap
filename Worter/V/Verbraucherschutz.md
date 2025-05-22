@@ -1,1 +1,1 @@
-, [[Verbraucherzentrale]]
+, [[Verbraucherzentrale]], [[Verbraucher]]

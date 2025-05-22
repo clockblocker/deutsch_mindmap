@@ -27,3 +27,5 @@ D: dem [[Schulamt]], den [[Schulämtern]]
 
 ---
 [[schulisch]], [[Schule]], [[amtlich]], [[Amt]], [[Schulleiter]]
+
+#Neuter 

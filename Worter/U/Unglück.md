@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Unglücks]], [[Unglücke]], [[Unglücken]]
 
 ---
-#Substantiv #Neuter, [[Pech]], [[Verkehrsunfall]], [[Wohlergehen]]
+#Substantiv #Neuter, [[Pech]], [[Verkehrsunfall]], [[Wohlergehen]], [[Versehen]]

@@ -5,6 +5,12 @@
 ---
  Tanja und Hans schauen sie genervt an. „Musst du wirklich immer zu allem deinen Senf dazugeben“, sagt Tanja, „das [[angehen|geht]] [[dich]] nun wirklich [[nichts]] [[an]]!“
 
+*[[C1-Hoehen-T2-201-Text#^31|^]]* [[Vorbereiten|Bereiten]] denn die [[Bildungseinrichtung]]en 
+[[angehende]] Mathelehrkräfte 
+*([[prospective]] math teachers)*
+[[genügend]] auf den Beruf vor?
+
+
 *[[C1-Hoehen-T1-202-Text#^13|^]]* Aber wir können die Nachfrage nach beispielsweise [[plastikintensiv]]en Produkten senken, indem wir diese nicht kaufen und somit helfen, das Plastikproblem unseres Planeten [[anzugehen]]
 
 *[[C1-Lesen-T1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] [[anzugehen]], entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das [[Kunststoffabfälle]] unter Wasser [[orten]] und [[einsammeln]] kann. ^1

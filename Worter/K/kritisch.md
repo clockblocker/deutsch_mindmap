@@ -1,1 +1,1 @@
-, [[ungläubig]], [[misstrauisch]], [[kritisieren]], [[risikoreich]], [[entscheidend]], [[akut]], [[existenzbedrohend]]
+, [[ungläubig]], [[misstrauisch]], [[kritisieren]], [[risikoreich]], [[entscheidend]], [[akut]], [[existenzbedrohend]], [[Kritik]]

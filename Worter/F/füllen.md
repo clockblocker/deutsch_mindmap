@@ -24,9 +24,9 @@ Morpheme: [[fül]][[len]]
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
 | --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[fülle]] | [[füllte]] | - | [[fülle]] | [[füllte]] |
+| Ich | [[Fülle]] | [[füllte]] | - | [[Fülle]] | [[füllte]] |
 | Du | [[füllst]] | [[fülltest]] | [[füll]] | [[füllest]] | [[fülltest]] |
-| Er/sie/es | [[füllt]] | [[füllte]] | - | [[fülle]] | [[füllte]] |
+| Er/sie/es | [[füllt]] | [[füllte]] | - | [[Fülle]] | [[füllte]] |
 | Wir | [[füllen]] | [[füllten]] | - | [[füllen]] | [[füllten]] |
 | Ihr | [[füllt]] | [[fülltet]] | [[füllt]] | [[füllet]] | [[fülltet]] |
 | Sie | [[füllen]] | [[füllten]] | [[füllen Sie]] | [[füllen]] | [[füllten]] |

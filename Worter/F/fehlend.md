@@ -1,3 +1,3 @@
 [[fehlen]]
 
-[[erfahren]], [[abwesend]]
+[[erfahren]], [[abwesend]], [[Fehlbetrag]]

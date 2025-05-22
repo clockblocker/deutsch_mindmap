@@ -47,7 +47,7 @@ Je mehr „[[Zweitstimmen]]“ eine [[Partei]] bei einer [[Bundestagswahl]] beko
 	- [x] [[Jugendamt]].
 
 ---
-[[aufrechterhalten]] - [[Worter/A/auf]] - [[recht]] = [[erhalten]] / to maintain, to uphold
+[[aufrechterhalten]] - [[Worter/A/auf]] - [[Recht]] = [[erhalten]] / to maintain, to uphold
 
 
 ---
@@ -81,4 +81,4 @@ Partizip I: [[erhaltend]], Partizip II: [[erhalten]]
 , [[beibehalten]], [[überlebt]], [[erben]], [[vernichten]], [[1 Präpositionen Übungen]], [[versenden]]
 , [[kosten]]
 , [[zusammenbekommen]]
-, [[aufrechterhalten]], [[Erhalt]], [[verspielen]], [[einnehmen]], [[wegzüchten]], [[zustehen]], [[spendieren]], [[verbleiben]]
+, [[aufrechterhalten]], [[Erhalt]], [[verspielen]], [[einnehmen]], [[wegzüchten]], [[zustehen]], [[spendieren]], [[verbleiben]], [[schulden]]

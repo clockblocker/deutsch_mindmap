@@ -4,6 +4,8 @@ nicht [[unbekannt]]
 ---
 Wenn ich [[berühmt]] bin, ja, dann werde ich auch "süß" sein.  
 
+*[[C1-Hoehen-T2-201-Text#^36|^]]* Ich denke da an das [[berühmte]] [[Schachbrett]]
+
 Er ist [[zwar]] noch jung, [[aber]] schon sehr [[berühmt]].
 
 Er schreibt das Buch, um [[berühmt]] zu werden. Он пишет книгу, чтобы стать знаменитым.

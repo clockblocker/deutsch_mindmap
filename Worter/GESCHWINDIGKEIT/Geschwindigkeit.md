@@ -26,3 +26,4 @@ G: der [[Geschwindigkeit]], der [[Geschwindigkeiten]]
 D: der [[Geschwindigkeit]], den [[Geschwindigkeiten]]
 
 #Feminin 
+, [[Lerntempo]]

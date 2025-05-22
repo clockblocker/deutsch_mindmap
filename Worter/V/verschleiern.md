@@ -1,1 +1,1 @@
-[[bedeuten]][[erzählen]], [[erklären]], [[enthüllen]], [[spiegeln]], [[klären]], [[verdecken]], [[ermitteln]], [[Verheimlichen]], [[kennzeichnen]], [[demaskieren]], [[aufdecken]], [[veranschaulichen]], [[verkörpern]], [[klarmachen]]
+[[bedeuten]][[erzählen]], [[erklären]], [[enthüllen]], [[spiegeln]], [[klären]], [[verdecken]], [[ermitteln]], [[Verheimlichen]], [[kennzeichnen]], [[demaskieren]], [[aufdecken]], [[veranschaulichen]], [[verkörpern]], [[klarmachen]], [[verdeutlichen]]

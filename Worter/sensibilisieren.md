@@ -1,3 +1,4 @@
+ ! [[Passiv-Ingredient-POV]] !
 😌 [[sensibilisieren]], [zɛnzibiˈliːɐ̯zn̩](https://youglish.com/pronounce/sensibilisieren/german) → [[sensibilisierte]] → haben [[sensibilisiert]]
 
 ---

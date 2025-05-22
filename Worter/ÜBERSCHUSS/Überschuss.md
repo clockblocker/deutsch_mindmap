@@ -1,1 +1,1 @@
-, [[Mangel]], [[Bedarf]]
+, [[Mangel]], [[Bedarf]], [[Defizit]], [[Fehlbetrag]]

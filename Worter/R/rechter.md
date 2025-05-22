@@ -3,7 +3,7 @@ die [[Rechten]]
 
 ---
 [[aufrechterhalten]] - [[Worter/A/auf]] - [[rechter]] = [[halten]] / to maintain, to uphold
-, [[rechte]], [[recht]]
+, [[rechte]], [[Recht]]
 
 ---
 = [[Anhänger der Rechten]], [[Konservativer]]
@@ -24,4 +24,4 @@ G: des [[Rechten]], der [[Rechten]]
 D: dem [[Rechten]], den [[Rechten]]
 
 ---
-[[recht]], [[Recht]], [[Rechtsextremismus]], [[Rechtsradikalismus]], [[Rechtsstaat]]
+[[Recht]], [[Recht]], [[Rechtsextremismus]], [[Rechtsradikalismus]], [[Rechtsstaat]]

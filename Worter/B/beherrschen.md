@@ -10,7 +10,7 @@ Nein. Ihr seid zu ungeduldig. Ihr müsst zuerst die Grundlagen richtig [[beherrs
 
 ---
 = [[können]], [[meistern]], [[verstehen]]
-≈ [[kennen]], [[wissen]], [[verfügen über]]
+≈ [[kennen]], [[Wissen]], [[verfügen über]]
 ≠ [[scheitern]], [[versagen]], [[verfehlen]]
 
 ---

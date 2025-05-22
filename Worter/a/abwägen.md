@@ -33,4 +33,4 @@ sie, [[wägen ab]], [[wogen ab]], [[wägen ab]], [[wögen ab]], [[wägen ab]]
 Adjektive: [[abwägend]], [[abwägender]], [[abwägendst]]
 
 ---
-[[abwägender]], [[abwägendes]], [[abwägende]], [[abwägenden]], [[abwägendem]], [[abwägenderer]], [[abwägenderes]], [[abwägendere]], [[abwägenderen]], [[abwägenderem]], [[abwägendster]], [[abwägendstes]], [[abwägendste]], [[abwägendsten]], [[abwägendstem]]
+[[abwägender]], [[abwägendes]], [[abwägende]], [[abwägenden]], [[abwägendem]], [[abwägenderer]], [[abwägenderes]], [[abwägendere]], [[abwägenderen]], [[abwägenderem]], [[abwägendster]], [[abwägendstes]], [[abwägendste]], [[abwägendsten]], [[abwägendstem]], [[Abwägung]]

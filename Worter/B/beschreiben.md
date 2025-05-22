@@ -1,3 +1,5 @@
+ ! [[Passiv-Ingredient-POV]] !
+
 📝 [[beschreiben]], [bəˈʃʁaɪ̯bən] | [[beschrieb]], haben [[beschrieben]]
 
 ---

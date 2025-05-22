@@ -3,8 +3,9 @@
 ✅ [[absolvieren]], [ˌapzoˈviːʁən](https://youglish.com/pronounce/absolvieren/german) → [[absolvierte]] → haben [[absolviert]]
 
 ---
-*[[C1-Lesen-T1-001-Text#^20|^]]* Cordula ist einer von [[insgesamt]] 15 Hunden, die im [[Rahmen]] einer [[Studie]] ein [[einwöchiges]] Spezialtraining [[absolviert]] haben. ^20
+*[[C1-Lesen-T1-001-Text#^20|^]]* Cordula ist einer von [[insgesamt]] 15 Hunden, die im [[Rahmen]] einer [[Studie]] ein [[einwöchiges]] Spezialtraining [[absolviert]] haben
 
+*[[C1-Hoehen-T2-201-Text#^45|^]]* Die [[Lernenden]] sollen im Unterricht ein [[gemeinsam]]es [[Grundprogramm]] [[absolvieren]], so dass alle ein bestimmtes Level erreichen
 
 *[[C1-Lesen-T2-102-Text#^28|^]]* Also wurden auch junge Männer [[gebeten]], drei unterschiedliche Formen des Körpertrainings zu [[absolvieren]]: ein 90-minütiges [[Strampeln]] auf dem [[Heimfahrrad]], ein Krafttraining am [[Hantelgewicht]] und ein Training am Hometrainer – allerdings eines, bei dem in mehreren 30-Sekunden-Intervallen in größtmöglicher Intensität [[gestrampelt]] werden musste. ^28
 

@@ -26,3 +26,5 @@ D: der [[Abrechnung]], den [[Abrechnungen]]
 
 ---
 [[abrechnen]], [[abrechenbar]], [[abrechnungsfähig]], [[abrechnungspflichtig]], [[Abrechnung]]
+
+#Feminin 

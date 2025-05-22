@@ -8,10 +8,10 @@ Die [[meisten]] Menschen [[wohlfühlen|fühlen]] sich dort wohl, wo sie sich [[a
 
 *[[Text mit Reflexivpronomen#^6|^]]* Nicht jeder [[hilfsbereite]] Nachbar [[eignet]] sich für diesen Freundschaftsdienst, wenn er sich mit der [[Pflege]] von Katzen nicht [[auskennt]]. ^6
 
-[[1 Wer bin ich und was mache ich hier?#^10|^]] Meine Bekannten, die sich mit deutscher Politik [[auskennen]], sagen, dass die Wahrscheinlichkeit einer [[Aufhebung]] des Gesetzes über die doppelte Staatsbürgerschaft groß ist. ^10
+[[1 Wer bin ich und was mache ich hier?#^10|^]] Meine Bekannten, die sich mit deutscher Politik [[auskennen]], sagen, dass die Wahrscheinlichkeit einer [[Aufhebung]] des Gesetzes über die doppelte Staatsbürgerschaft groß ist.
 
 ---
-Synonyme: [[wissen]], [[verstehen]], [[beherrschen]], [[informiert sein]], [[vertraut sein]]
+Synonyme: [[Wissen]], [[verstehen]], [[beherrschen]], [[informiert sein]], [[vertraut sein]]
 Antonyme: [[unwissend]], [[uninformiert]], [[ratlos]], [[verloren]]
 
 ---

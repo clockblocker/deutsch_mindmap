@@ -1,1 +1,1 @@
-[[zimmer]][[Stube]], [[Raum]], [[Zelle]], [[Halle]]
+[[zimmer]][[Stube]], [[Raum]], [[Zelle]], [[Halle]], [[Abteil]]

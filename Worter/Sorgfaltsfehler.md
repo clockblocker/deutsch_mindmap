@@ -2,7 +2,7 @@
 die [[Sorgfaltsfehler]]
 
 ---
-[[2 ADHD.md#^1|^]] Ich bin [[unaufmerksam]] [[gegenüber]] Details oder mache [[Sorgfaltsfehler]] bei der Arbeit. ^1
+[[2 ADHD.md#^1|^]] Ich bin [[unaufmerksam]] [[gegenüber]] Details oder mache [[Sorgfaltsfehler]] bei der Arbeit
 
 ---
 = [[Fehler]], [[Irrtum]], [[Versehen]]

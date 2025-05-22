@@ -22,4 +22,4 @@ G: [[irgendeines]], [[irgendeiner]], [[irgendeinen]]
 D: [[irgendeinem]], [[irgendeiner]], [[irgendeinem]]
 
 ---
-[[irgendwas]], [[irgendwer]], [[irgendwo]], [[irgendwie]]
+[[irgendwas]], [[irgendwer]], [[irgendwo]], [[irgendwie]], [[jeglich]]

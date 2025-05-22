@@ -1,1 +1,1 @@
-[[bringen]], [[einbringen]], [[anbringen]], [[voranbringen]]
+[[bringen]], [[einbringen]], [[anbringen]], [[voranbringen]], [[näherbringen]]

@@ -1,1 +1,1 @@
-, [[folgen]], [[ablösen]], [[vorhergehen]]
+, [[folgen]], [[ablösen]], [[vorhergehen]], [[vorausgehen]]

@@ -1,1 +1,1 @@
-, [[Nachfahre]]
+, [[Nachfahre]], [[vorausgehen]]

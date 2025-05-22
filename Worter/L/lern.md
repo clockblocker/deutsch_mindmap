@@ -1,2 +1,2 @@
 [[lernen]], [[Erlernung]]
-, [[kennenlernen]], [[Lernbereitschaft]], [[lernfähig]]
+, [[kennenlernen]], [[Lernbereitschaft]], [[lernfähig]], [[Lerntyp]], [[Lernende]], [[Lernniveau]], [[Lerntempo]]

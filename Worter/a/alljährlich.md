@@ -1,3 +1,3 @@
 --> ⏱️ [[Temporal-Frequenz]] <--
 
-, [[Worter/A/Alle]]
+, [[Worter/A/Alle]], [[jährlich]]

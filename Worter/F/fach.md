@@ -1,35 +1,43 @@
 --> [[⛪ Ingredient-Plazt]] <--
 
-🟢 das [[Fach]]
-die [[Fächer]]
+🧑‍🏫 🟢 das [[Fach]], [fax](https://youglish.com/pronounce/Fach/german) | 📦 🟢 das [[Fach]], [fax]
+die [[Fächer]] | die [[Fächer]]
 
 ---
-[[Fachverkäufer]]
+*[[C1-Hoehen-T2-201-Text#^5|^]]* 11 [[Defizit]]e im [[Fach]] Mathematik sind auch [[zeitlich]]en [[Restriktion]]en [[geschuldet]]
 
-- *Für welches Studien*[[Fach]] *sollte man sich entscheiden?*
+*[[C1-Hoehen-T2-201-Text#^26|^]]* Später steigt der [[Abstraktionsgehalt]] in diesen [[Fächern]] und das reglementierte Lernen fällt viele Kinder bzw
 
-- das schwerste [[Fach]]
+*[[C1-Hoehen-T2-201-Text#^11|^]]* *Sie haben eine spannende Sendung im Fernsehen moderiert, und zwar zum Thema Mathematik, um dieses* 
+doch [[Recht]] [[unbeliebte]] [[Fach]] den Menschen [[näherzubringen]]
+*([[rather]] [[unpopular]] subject to people)*
+
+
+Für welches [[Studienfach]] sollte man sich entscheiden?
+
+das schwerste [[Fach]]
 
 ---
-Synonyme:
-- [[Disziplin]], [[Bereich]], [[Gebiet]], [[Abteilung]], [[Ressort]]
-[[einfachen]], [[einfach]], 
+= [[Disziplin]], [[Studienfach]], [[Lehrbereich]] | [[Abteil]],[[Disziplin]], [[Bereich]], [[Gebiet]], [[Abteilung]], [[Ressort]]
+≈ [[Gebiet]], [[Bereich]], [[Sparte]] | [[Schublade]], [[Kasten]]
+≠ [[Unwissenheit]] | [[Ganzes]]
 
 ---
-subject, field, discipline, специальность
+subject, discipline | compartment, slot
+предмет, дисциплина | отделение, отсек
+
+---
+[[fachlich]], [[fachkundig]], [[fachmännisch]], [[fachspezifisch]], [[Fachmann]], [[Fachfrau]], [[Fachkraft]], [[Fach]], [[Fachrichtung]], [[tausendfachen]], [[tausendfach]], [[Fachwissen]], [[Schublade]], [[Studienfach]]
+[[Fachmann]], [[Fachfrau]], [[Fachwissen]], [[Fachbereich]] | [[Fachboden]], [[Fachwerk]], [[Fachhandel]], [[einfach]], [[Fachverkäufer]]
 
 ---
 [[Fach]]
 
----
-Case: Singular, Plural  
-Nominative: das [[Fach]], die [[Fächer]]  
-Accusative: das [[Fach]], die [[Fächer]]  
-Genitive: des [[Fachs]] oder [[Faches]], der [[Fächer]]  
-Dative: dem [[Fach]], den [[fächern]]
 
 ---
-[[fachlich]], [[fachkundig]], [[fachmännisch]], [[fachspezifisch]], [[Fachmann]], [[Fachfrau]], [[Fachkraft]], [[Fach]], [[Fachrichtung]], [[tausendfachen]], [[tausendfach]], [[Fachwissen]], [[Schublade]], [[Studienfach]]
+N: das [[Fach]], die [[Fächer]]
+A: das [[Fach]], die [[Fächer]]
+G: des [[Fachs]], der [[Fächer]]
+D: dem [[Fach]], den [[Fächern]]
 
-
-#Neuter , [[Fachliteraturrecherche]]
+#Neuter

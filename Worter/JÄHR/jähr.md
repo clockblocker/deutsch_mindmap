@@ -1,1 +1,1 @@
-, [[langjährig]]
+, [[langjährig]], [[jährlich]]

@@ -10,13 +10,13 @@
 ---
 = [[falsch]], [[inkorrekt]], [[unrechtmäßig]]
 ≈ [[unrichtig]], [[fehlerhaft]], [[tadelnswert]]
-≠ [[recht]], [[gerecht]], [[rechtmäßig]], [[korrekt]]
+≠ [[Recht]], [[gerecht]], [[rechtmäßig]], [[korrekt]]
 
 ---
 wrong, incorrect, unjust
 
 ---
-[[un]]|[[recht]]
+[[un]]|[[Recht]]
 
 ---
 N: [[unrecht]], [[unrechter]], [[unrechtest]]  

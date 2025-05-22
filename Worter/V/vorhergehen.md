@@ -5,6 +5,9 @@ sein [[vorher gegangen]]
 ---
 Die Episode beginnt damit, dass man das steigende Leuchtgeschoss sehen kann, dass Aang versehentlich in der [[vorherigen]] Episode in die Luft gestartet hat
 
+*[[C1-Hoehen-T2-201-Text#^37|^]]* Legt man auf das erste Quadrat eines Schachbretts ein [[Weizenkorn]], auf das nächste die doppelte [[Menge]], auf das [[darauffolgende]] die doppelte Menge des [[vorhergehenden]] usw. bräuchte man am Ende [[ungefähr]] 730 Mrd Tonnen Weizen
+
+
 ---
 Synonyme: [[vorausgehen]], [[vorangehen]], [[vorauseilen]], [[präzedieren]]
 Antonyme: [[nachfolgen]], [[zurückbleiben]], [[hinterherkommen]]
@@ -26,4 +29,4 @@ Morpheme: [[vorher]][[geh]][[en]]
 | Sie       | [[gehen vorher]] | [[gingen vorher]] | [[gehen Sie vorher]] | [[gehen vorher]]  | [[gingen vorher]]  |
 
 Partizip I: [[vorhergehend]], Partizip II: [[vorher gegangen]]
-[[vorhergehen]] - [[vorher]] = [[gehen]]
+[[vorhergehen]] - [[vorher]] = [[gehen]], [[darauffolgen]]

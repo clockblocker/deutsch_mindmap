@@ -33,4 +33,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[böse]], [[böser]], [[böse]], [[böses]], [[bösen]], [[bösen]], [[böser]], [[bösen]]
 [[böser]], [[böserer]], [[bösere]], [[böseres]], [[böseren]], [[böserem]], [[böserer]], [[böseren]]
-[[bösesten]], [[bösester]], [[böheste]], [[bösestes]], [[bösesten]], [[böhestem]], [[bösester]], [[bösesten]], [[s1 e1]], [[fies]]
+[[bösesten]], [[bösester]], [[böheste]], [[bösestes]], [[bösesten]], [[böhestem]], [[bösester]], [[bösesten]], [[s1 e1]], [[fies]], [[übel]]

@@ -28,3 +28,5 @@ D: der [[Rechnung]], den [[Rechnungen]]
 [[Rechnungsamt]], [[Rechnungswesen]], [[Rechnungshof]], [[Abrechnung]], [[einrechnen]], [[Geschenkbestätigung]]
 , [[Spende]]
 , [[ausrechnen]], [[Modellrechnung]]
+
+#Feminin , [[Berechnung]], [[Potenzrechnung]]

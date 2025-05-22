@@ -3,7 +3,9 @@
 🏃‍♂️[[vorbereiten]] | [[bereitete vor|bereitete vor]], haben [[vorbereitet]]
 
 ---
-Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]].
+Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]]
+
+*[[C1-Hoehen-T2-201-Text#^31|^]]* [[Vorbereiten|Bereiten]] denn die [[Bildungseinrichtung]]en [[angehende]] Mathelehrkräfte genügend auf den Beruf vor?
 
 ![[006-C1-Schreiben-T2#^5|^]] 
 

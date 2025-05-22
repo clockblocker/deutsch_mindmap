@@ -4,6 +4,9 @@ die [[Verbindungen]]
 ---
 Entschuldige, die [[Verbindung]] ist schlecht.
 
+*[[C1-Hoehen-T2-201-Text#^35|^]]* Sie [[betonen]] ja immer wieder, mathematische [[Inhalt]]e mit realen Phänomenen 
+in [[Verbindung]] zu bringen. Haben Sie ein Beispiel dafür parat?
+
 *[[08-C1-Schreiben-T2-M#^15|^]]* Der [[ÖPNV]] bietet hier keine gute [[Verbindung]] an. ^15
 
 
@@ -34,3 +37,6 @@ D: der [[Verbindung]], den [[Verbindungen]]
 , [[Abstand]], [[Beziehung]], [[binden]], [[zusammenschrauben]], [[verbinden]], [[Bezug]], [[Zusammenschluss]], [[Scheidung]]
 , [[Worter/Beziehung]], [[Beziehung]], [[Texte/Misc/Anki]]
 , [[Achse]], [[Gemeinschaft]], [[Zugang]], [[Abhängigkeit]], [[Austausch]], [[Interaktion]], [[Zusammenarbeit]], [[Internetzugang]], [[Stromanschluss]], [[Anschluss]], [[Netzwerk]], [[Verschmelzung]], [[Zusammenspiel]], [[Nervenzellenverbindung]]
+
+
+#Feminin 

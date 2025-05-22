@@ -22,7 +22,7 @@
 
 #### 🟡 [[moderat]] [[verstärkend]] 
 1) [[ziemlich]] *(fairly / quite)*
-2) [[recht]] *(rather; neutral, slightly dated in tone)*
+2) [[Recht]] *(rather; neutral, slightly dated in tone)*
 3) [[einigermaßen]] *(somewhat / reasonably)*
 4) [[annähernd]] *(approximately; low-impact boost)*
 5) [[relativ]] *(relatively; hedged and common in formal writing)*

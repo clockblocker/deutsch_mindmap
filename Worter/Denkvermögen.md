@@ -26,4 +26,4 @@ A: das [[Denkvermögen]], die [[Denkvermögen]]
 G: des [[Denkvermögens]], der [[Denkvermögen]]
 D: dem [[Denkvermögen]], den [[Denkvermögen]]
 
-#Neuter 
+#Neuter , [[Abstraktionsvermögen]]

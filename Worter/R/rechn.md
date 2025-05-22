@@ -1,2 +1,2 @@
 , [[zusammenrechnen]], [[rechnen]]
-, [[ausrechnen]], [[ausgerechnet]]
+, [[ausrechnen]], [[ausgerechnet]], [[Potenzrechnung]]

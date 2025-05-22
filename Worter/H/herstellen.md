@@ -1,15 +1,15 @@
 --> [[🎯 Ingredient-Result-Verb]] <--
 
-
 🏭 [[herstellen]], [ˈheːɐ̯ʃtɛlən] | [[herstellte]], haben [[hergestellt]]
 
 ---
 Mr Dursley war Direktor einer Firma namens Grunnings, die [[Bohrmaschinen]] [[herstellte]].
 
-[[erstellen]]
+*[[C1-Hoehen-T2-201-Text#^47|^]]* Sie haben ja `in` Ihrer Sendung immer wieder den [[Bezug]] `zwischen` der Geschichte der Mathematik und der Praxis [[hergestellt]]
+
 
 ---
-= [[produzieren]], [[erzeugen]], [[fertigen]]
+= [[produzieren]], [[erzeugen]], [[fertigen]], [[erstellen]]
 ≈ [[anfertigen]], [[fabrizieren]], [[erschaffen]], [[kreieren]]
 ≠ [[zerstören]], [[vernichten]], [[abbauen]], [[auflösen]]
 

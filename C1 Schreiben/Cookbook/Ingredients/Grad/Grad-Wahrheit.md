@@ -36,7 +36,7 @@
 🤔 [[wahrscheinlich]] *(probably: odds are good)*  
 🤷 [[eigentlich]] *(actually: technically, maybe)*  
 🟠 [[ziemlich]] *(pretty: not very, but leaning that way)*  
-🤏 [[recht]] *(fairly: mid-strong qualifier)*  
+🤏 [[Recht]] *(fairly: mid-strong qualifier)*  
 ⚖️ [[einigermaßen]] *(somewhat: holding the middle ground)*  
 🪫 [[etwas]] *(somewhat: vague and small)*  
 🚶‍♂️ [[halbwegs]] *(halfway: barely passing)*  

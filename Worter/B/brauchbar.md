@@ -1,2 +1,2 @@
 , [[Nützliches]], [[nutzlos]]
-, [[gut]], [[einsatzfähig]], [[praktikabel]]
+, [[gut]], [[einsatzfähig]], [[praktikabel]], [[anwendbar]]

@@ -1,4 +1,4 @@
 --> 🧩 [[Grad-Wahrheit]] <--
-, [[wahr]], [[richtig]], [[echt]], [[Ehrlich]], [[recht]], [[unrecht]], [[unehrlicher]], [[Gebrauch]], [[passend]]
+, [[wahr]], [[richtig]], [[echt]], [[Ehrlich]], [[Recht]], [[unrecht]], [[unehrlicher]], [[Gebrauch]], [[passend]]
 , [[entsprechend]]
 , [[verdreht]], [[natürlich]], [[treulos]], [[genau]]

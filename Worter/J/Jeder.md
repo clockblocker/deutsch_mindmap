@@ -29,4 +29,4 @@ Mögliche Formen:
 
 , [[sämtlich]], [[Je]], [[jeweils]]
 , [[Artikelwörter]]
-, [[Worter/A/Alle]]
+, [[Worter/A/Alle]], [[jeglich]]

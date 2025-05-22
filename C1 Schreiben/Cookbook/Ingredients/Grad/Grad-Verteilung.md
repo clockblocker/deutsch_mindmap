@@ -12,13 +12,12 @@
 2) [[überwiegend]] *(predominantly)*
 3) [[zum Großteil]] *(for the most part)*
 4) [[mehrheitlich]] *(by majority)*
-
+5) [[Großteil]] *(major part)*
 #### 🟠 [[teilweise]] *(partly / in part)*
 1) [[teilweise]] *(partially)*
 2) [[in Teilen]] *(in parts / regions)*
 3) [[stellenweise]] *(in places / sporadically)*
 4) [[phasenweise]] *(in phases)*
-
 #### 🔴 [[kaum]] *(hardly / barely distributed)*
 1) [[kaum vorhanden]] *(barely present)*
 2) [[vereinzelt]] *(isolated cases)*
@@ -32,7 +31,7 @@
 
 #### 🤔 [[relativierend]] *(softening or hedging strength / certainty)*
 1) [[ziemlich]] *(fairly; mild intensifier)*
-2) [[recht]] *(rather; similar to „ziemlich“, slightly more detached)*  
+2) [[Recht]] *(rather; similar to „ziemlich“, slightly more detached)*  
 3) [[verhältnismäßig]] *(relatively; soft analytical hedge)*  
 4) [[etwas]] *(somewhat; weak modifier)*  
 5) [[halbwegs]] *(halfway; informal but vivid hedge)*  

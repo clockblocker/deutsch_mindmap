@@ -8,6 +8,7 @@
 
 *[[C1-Hoehen-T2-100-Text#^19|^]]* Wenn jeder 1000 Euro im Monat bekäme, [[entspräche]] das bei den 83 Millionen Menschen, die in Deutschland leben, [[ungefähr]] den Kosten des aktuellen [[Sozialhaushalt]]s
 
+*[[C1-Hoehen-T2-201-Text#^37|^]]* Legt man auf das erste Quadrat eines Schachbretts ein [[Weizenkorn]], auf das nächste die doppelte [[Menge]], auf das [[darauffolgende]] die doppelte Menge des [[vorhergehenden]] usw. bräuchte man am Ende [[ungefähr]] 730 Mrd Tonnen Weizen
 
 *[[C1-Lesen-T2-102-Text#^12|^]]* So zählt beispielsweise auch das Herz zu den Muskeln, und das wächst beim Ausdauersport, oder der Puls dabei [[ungefähr]] im [[Bereich]] von 180 minus [[Lebensalter]] liegt.
 

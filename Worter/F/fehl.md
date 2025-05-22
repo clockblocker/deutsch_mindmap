@@ -1,3 +1,3 @@
 , [[fehlen]], [[fehlerhaft]], [[fehlend]]
 , [[fehlentwicklung]]
-, [[empfehlen]], [[Fehlgriff]], [[verfehlen]], [[Fehleinschätzung]]
+, [[empfehlen]], [[Fehlgriff]], [[verfehlen]], [[Fehleinschätzung]], [[Fehlbetrag]]

@@ -24,3 +24,6 @@ D: dem [[Flüchtigkeitsfehler]], den [[Flüchtigkeitsfehlern]]
 
 ---
 [[Flüchtigkeit]], [[Fehler]], [[flüchtig]], [[fehlerhaft]], [[Fehleranalyse]]
+
+
+#Maskulin 

@@ -30,4 +30,4 @@ helpful, obliging, willing to help
 Adjektive: [[hilfsbereit]], [[hilfsbereiter]], [[hilfsbereitest]]
 
 ---
-[[hilfsbereiter]], [[hilfsbereites]], [[hilfsbereite]], [[hilfsbereiten]], [[hilfsbereitem]], [[hilfsbereiterer]], [[hilfsbereiteres]], [[hilfsbereitere]], [[hilfsbereiteren]], [[hilfsbereiterem]], [[hilfsbereitester]], [[hilfsbereitestes]], [[hilfsbereiteste]], [[hilfsbereitesten]], [[hilfsbereitestem]]
+[[hilfsbereiter]], [[hilfsbereites]], [[hilfsbereite]], [[hilfsbereiten]], [[hilfsbereitem]], [[hilfsbereiterer]], [[hilfsbereiteres]], [[hilfsbereitere]], [[hilfsbereiteren]], [[hilfsbereiterem]], [[hilfsbereitester]], [[hilfsbereitestes]], [[hilfsbereiteste]], [[hilfsbereitesten]], [[hilfsbereitestem]], [[weiterhelfen]]

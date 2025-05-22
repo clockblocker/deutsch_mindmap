@@ -16,7 +16,7 @@ to straighten out, to adjust
 [[biegen]], [[Biegung]], [[Zurechtweisung]], [[richtig]], [[Recht]]
 
 ---
-[[zu]]|[[recht]]|[[bieg]]|[[en]]
+[[zu]]|[[Recht]]|[[bieg]]|[[en]]
 [[zu]] + [[rechtbiegen]]
 
 

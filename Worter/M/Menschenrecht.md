@@ -17,7 +17,7 @@ human right
 [[Mensch]], [[Recht]], [[menschenrechtlich]]
 
 ---
-[[Mensch]]|[[en]]|[[recht]]
+[[Mensch]]|[[en]]|[[Recht]]
 [[Menschenrecht]]
 
 

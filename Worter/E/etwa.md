@@ -7,6 +7,8 @@ formal for [[wie]]
 ---
 *[[Golfstorm#^17|^]]* Die Autoren der aktuellen Studie simulierten eine Welt unter extremen [[Klimabedingungen]] wie einem viel höheren CO₂-Gehalt in der Atmosphäre und einem massiven Zustrom von 
 
+*[[C1-Hoehen-T2-201-Text#^40|^]]* Das [[entspricht]] [[etwa]] dem [[Tausendfachen]] der [[weltweiten]] [[Weizenernte]] eines Jahres
+
 *[[001-C1-Schreiben-T1#^5|^]]* Nicht nur würde die [[alltägliche]] Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuer]]n“ [[steigen]] – [[etwa]] in Form höherer [[Energiepreise]], [[kostspieliger]] recycelbarer [[Verpackungen]] oder teurer Bio-[[Lebensmittel]]. ^5
 
 

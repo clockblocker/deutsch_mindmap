@@ -1,3 +1,3 @@
 --> [[Grad-gut]] <--
 
-, [[schaden]]
+, [[schaden]], [[übel]]

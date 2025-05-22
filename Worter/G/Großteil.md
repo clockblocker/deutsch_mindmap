@@ -1,5 +1,6 @@
 --> 🧮 [[Grad-Quantität]] <--
-, [[Mehrheit]], [[Vielzahl]]
+--> 📊 [[Grad-Verteilung]] <--
+
 💯 🔵 der [[Großteil]], [ˈɡʁoːsˌtaɪ̯l](https://youglish.com/pronounce/Großteil/german)
 die [[Großteile]]
 

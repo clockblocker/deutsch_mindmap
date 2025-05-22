@@ -47,4 +47,4 @@ sie, [[forschen]], [[forschten]], [[forschen]], [[forschten]], [[forschen]]
 Adjektive: [[forschend]], [[forschender]], [[forschendst]]
 
 ---
-[[forschender]], [[forschendes]], [[forschende]], [[forschenden]], [[forschendem]], [[forschenderer]], [[forschenderes]], [[forschendere]], [[forschenderen]], [[forschenderem]], [[forschendster]], [[forschendstes]], [[forschendste]], [[forschendsten]], [[forschendstem]], [[Forschungsgebiet]], [[Forschungsteam]]
+[[forschender]], [[forschendes]], [[forschende]], [[forschenden]], [[forschendem]], [[forschenderer]], [[forschenderes]], [[forschendere]], [[forschenderen]], [[forschenderem]], [[forschendster]], [[forschendstes]], [[forschendste]], [[forschendsten]], [[forschendstem]], [[Forschungsgebiet]], [[Forschungsteam]], [[nachgehen]]

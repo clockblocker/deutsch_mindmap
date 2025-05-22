@@ -1,7 +1,7 @@
-👐 [[fächern]], [ˈfɛçɐn](https://youglish.com/pronounce/fächern/german) → [[fächerte]] → haben [[gefächert]] | [[Fächer]]
+👐 [[fächern]], [ˈfɛçɐn](https://youglish.com/pronounce/fächern/german) → [[fächerte]] → haben [[gefächert]] | [[Fächer]] | [[Fach]]
 
 ---
-*[[C1-Lesen-T4-100-Text#^23|^]]* Modern Art [[umfasst]] den [[Zeitraum]] von 1870 bis 1970 und ist sehr breit [[gefächert]]. ^23
+*[[C1-Lesen-T4-100-Text#^23|^]]* Modern Art [[umfasst]] den [[Zeitraum]] von 1870 bis 1970 und ist sehr breit [[gefächert]]
 
 
 ---

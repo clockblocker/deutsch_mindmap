@@ -26,4 +26,4 @@ G: der [[Kreativität]], der [[Kreativitäten]]
 D: der [[Kreativität]], den [[Kreativitäten]]
 
 
-#Feminin 
+#Feminin , [[Abstraktionsvermögen]]

@@ -15,8 +15,8 @@ die [[Schweigerechte]]
 right to remain silent
 
 ---
-[[Schweige]]+[[recht]]
-[[Schwei]]|[[ge]]+[[recht]]
+[[Schweige]]+[[Recht]]
+[[Schwei]]|[[ge]]+[[Recht]]
 
 ---
 N: das [[Schweigerecht]], die [[Schweigerechte]]  

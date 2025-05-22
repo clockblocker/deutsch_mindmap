@@ -1,1 +1,1 @@
-[[existenzbedrohend]]
+[[existenzbedrohend]], [[Wissen]]

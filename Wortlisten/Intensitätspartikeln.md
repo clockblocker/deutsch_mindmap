@@ -16,7 +16,7 @@
 [[kaum]] – hardly
 [[leidlich]] – tolerably, fairly
 [[mehr]] oder weniger – more or less
-[[recht]] – fairly, quite
+[[Recht]] – fairly, quite
 [[relativ]] – relatively
 [[richtig]] – really, truly
 [[schlichtweg]] – simply, outright

@@ -8,7 +8,7 @@ SASCHA: Ich [[Ahne]] etwas …
 ---
 = [[vermuten]], [[mutmaßen]], [[erahnen]]
 ≈ [[spüren]], [[vorhersehen]], [[befürchten]], [[vermuteten]]
-≠ [[wissen]], [[sicher sein]], [[ausschließen]]
+≠ [[Wissen]], [[sicher sein]], [[ausschließen]]
 
 ---
 to suspect, to have a hunch, to sense

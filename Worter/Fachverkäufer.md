@@ -4,7 +4,6 @@ die [[Fachverkäufer]]
 ---
 Der [[Fachverkäufer]] im Computerladen ist [[zunächst]] nicht [[besonders]] freundlich. „Sind Sie ganz sicher, dass Sie alles richtig installiert haben?“, fragt er Uli, „unsere Kunden waren bisher immer [[zufrieden]]. Es hat sich niemand über dieses Modell [[beschwert]].“ 
 
-
 ---
 Synonyme:
 - [[Verkäufer]], [[Einzelhandelsfachkraft]], [[Handelsspezialist]], [[Warenfachmann]]
@@ -24,3 +23,5 @@ Dative: dem [[Fachverkäufer]], den [[Fachverkäufern]]
 
 ---
 [[verkaufen]], [[Fachhandel]], [[Fachkraft]], [[Fach]]
+
+#Maskulin 

@@ -1,1 +1,1 @@
-, [[verirrt]], [[zurechtkommen]]
+[[zurechtkommen]]

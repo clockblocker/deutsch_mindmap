@@ -1,1 +1,1 @@
-, [[vermitteln]], [[direkt]]
+[[vermitteln]]

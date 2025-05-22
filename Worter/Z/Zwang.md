@@ -20,7 +20,7 @@ die [[Zwänge]]
 
 ---
 = [[Nötigung]], [[Pflicht]], [[Verpflichtung]]
-≈ [[Druck]], [[Kontrolle]], [[Gebot]],  [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]], [[Folter]], [[recht]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[unterworfen]], [[zwangsweise]], [[Notwendigkeit]], [[Sachzwang]]
+≈ [[Druck]], [[Kontrolle]], [[Gebot]],  [[Auswahl]], [[Gewalt]], [[Wahl]], [[gezwungen]], [[zwingen]], [[Folter]], [[Recht]], [[Gewissensfreiheit]], [[Zwangsarbeit]], [[unterworfen]], [[zwangsweise]], [[Notwendigkeit]], [[Sachzwang]]
 ≠ [[Freiheit]], [[Freiwilligkeit]], [[Ungezwungenheit]]
 
 ---

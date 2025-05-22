@@ -1,1 +1,1 @@
-, [[lernfähig]], [[Merkfähigkeit]]
+, [[lernfähig]], [[Merkfähigkeit]], [[Lernende]]

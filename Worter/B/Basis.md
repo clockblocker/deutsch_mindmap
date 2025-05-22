@@ -1,3 +1,3 @@
 --> [[🗣️ Ingredient-Meinung]] <--
 
-, [[Basiseinkommen]]
+, [[Basiseinkommen]], [[Potenzrechnung]]

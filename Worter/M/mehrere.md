@@ -26,4 +26,4 @@ D: [[mehreren]]
 
 ---
 [[Mehrzahl]], [[mehrfach]], [[Mehrdeutigkeit]], [[vermehren]], [[Texte/Misc/Anki]], [[zahlreich]], [[Großteil]]
-[[Indefinitpronomen]], [[jeden]], [[einzelnen]], [[zahlreiche]], [[einziger]]
+[[Indefinitpronomen]], [[jeden]][[einzeln]], [[zahlreiche]], [[einziger]]

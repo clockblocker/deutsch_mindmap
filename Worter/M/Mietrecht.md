@@ -17,7 +17,7 @@ rental law, tenancy law
 [[Miete]], [[Recht]], [[Mietvertrag]], [[Mietrechtsstreit]]
 
 ---
-[[Miet]]|[[recht]]
+[[Miet]]|[[Recht]]
 [[Mietrecht]]
 
 

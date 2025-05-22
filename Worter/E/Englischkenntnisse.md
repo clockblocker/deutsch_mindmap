@@ -13,7 +13,7 @@ Synonyme:
 English skills, English proficiency
 
 ---
-[[Englisch]][[kenntnisse]]
+[[Englisch]][[Kenntnisse]]
 
 ---
 Case: Singular, Plural  
@@ -24,3 +24,5 @@ Dative: dem [[Englischkenntnisse]], den [[Englischkenntnissen]]
 
 ---
 [[Englisch]], [[kennen]], [[Sprachkenntnisse]]
+
+#Neuter 

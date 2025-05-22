@@ -4,10 +4,12 @@ die [[Neugieren]]
 ---
 Wir reden immer wieder so gerne von der [[Neugier]] und dem [[Vergnügen]] an Wissenschaft
 
+*[[C1-Hoehen-T2-201-Text#^25|^]]* Sie gehen mit [[Neugier]], Spaß und viel Motivation an den Unterricht heran
+
 ---
 = [[Wissbegierde]], [[Interesse]], [[Forscherdrang]]
 ≈ [[Gespanntheit]], [[Erwartung]], [[Neigung]], [[Begierde]]
-≠ [[Desinteresse]], [[Apathie]], [[Gleichgültigkeit]], [[Langeweile]]
+≠ [[Desinteresse]], [[Apathie]], [[Gleichgültigkeit]], [[Langeweile]], [[Lernbereitschaft]]
 
 ---
 curiosity
@@ -27,5 +29,5 @@ D: der [[Neugier]], den [[Neugieren]]
 
 
 ---
--
-, [[Lernbereitschaft]]
+
+#Feminin 

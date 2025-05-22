@@ -12,4 +12,4 @@ die [[Schriben/schriben/Themen]]
 ---
 
   **Translation:** The topics in the meeting were very diverse., [[Inhalt]]
-, [[Angelegenheit]], [[Studienfach]], [[Textsorte]], [[Inhaltspunkt]], [[Aufgabenstellung]], [[thematisieren]]
+, [[Angelegenheit]], [[Studienfach]], [[Textsorte]], [[Inhaltspunkt]], [[Aufgabenstellung]], [[thematisieren]], [[Lehrinhalt]]

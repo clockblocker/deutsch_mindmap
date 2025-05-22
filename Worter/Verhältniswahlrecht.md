@@ -18,8 +18,8 @@ die [[Verhältniswahlrechte]]
 proportional representation voting system, proportional electoral system
 
 ---
-[[Verhältnis]]+[[Wahl]]+[[recht]]
-[[Ver]]|[[hältnis]]|[[wahl]]|[[recht]]
+[[Verhältnis]]+[[Wahl]]+[[Recht]]
+[[Ver]]|[[hältnis]]|[[wahl]]|[[Recht]]
 
 ---
 N: das [[Verhältniswahlrecht]], die [[Verhältniswahlrechte]]  

@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Handels]], [[Handel]], [[Händler]], [[Händler
 
 ---
 
-#Substantiv #Maskulin[[handeln]], [[verhandelen]], [[Verhandlung]], [[behandeln]], [[Worter/W/Wirtschaft]], [[Landwirtschaft]], [[Spielzeuggeschäft]]
+#Substantiv #Maskulin[[handeln]], [[verhandelen]], [[Verhandlung]], [[behandeln]], [[Worter/W/Wirtschaft]], [[Landwirtschaft]], [[Spielzeuggeschäft]], [[abhandeln]]

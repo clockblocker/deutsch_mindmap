@@ -28,4 +28,4 @@ G: des [[Aspekts]], der [[Aspekte]]
 D: dem [[Aspekt]], den [[Aspekten]]
 
 
-#Maskulin 
+#Maskulin , [[Einzelheit]]

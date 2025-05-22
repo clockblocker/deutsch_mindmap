@@ -13,32 +13,32 @@ a Buch 1 – Die Spekulantin
 b Buch 2 – Der Wandel der Städte  
 c Buch 3 – Raus aus der Wohnung – und jetzt?
 
-1 Das Buch stellt ==negative und positive ==[[Entwicklung]]en auf dem ==[[Wohnungsmarkt]] gegenüber.  ==
+1 Das Buch stellt negative und positive [[Entwicklung]]en auf dem [[Wohnungsmarkt]] gegenüber
 a Buch 1  
 b Buch 2 -
 c Buch 3
 
-2 Neben der [[Darstellung]] sozialer Probleme werden auch ==[[juristische]] Fragen== [[behandelt]].  
+2 Neben der [[Darstellung]] sozialer Probleme werden auch [[juristische]] Fragen [[behandelt]].  
 a Buch 1  
 b Buch 2 
 c Buch 3  -
 
-3 Der ==[[Zusammenhang]]== zwischen ==[[Wohnungsknappheit]]== und den [[allgemeinen]] Regeln der ==[[Marktwirtschaft]] wird erläutert.  ==
+3 Der [[Zusammenhang]] zwischen [[Wohnungsknappheit]] und den [[allgemeinen]] Regeln der [[Marktwirtschaft]] wird erläutert.
 a Buch 1  
 b Buch 2 -
 c Buch 3
 
-4 ==Ideen== für eine ==andere [[Wohnungspolitik]]== werden [[unterbreitet]].  
+4 Ideen für eine andere [[Wohnungspolitik]] werden [[unterbreitet]].  
 a Buch 1  
 b Buch 2  
 c Buch 3 -
 
-5 Man [[erfährt]] etwas über die ==Geschichte des [[Stadtteils]].  ==
+5 Man [[erfährt]] etwas über die Geschichte des [[Stadtteils]]
 a Buch 1 -
 b Buch 2  
 c Buch 3
 
-6 Hier kommen ==mehrere [[Betroffene]]== zu Wort.  
+6 Hier kommen mehrere [[Betroffene]] zu Wort.  
 a Buch 1  
 b Buch 2  
 c Buch 3 -
@@ -82,15 +82,15 @@ c Buch 3 -
 
 *[[C1-Hoehen-T1-100-Text#^15|^]]* Wir sind wieder in Frankfurt, im Stadtteil Ostend. ^15
 
-*[[C1-Hoehen-T1-100-Text#^16|^]]* Im ersten Teil werden konkrete Beispiele der [[Verdrängung]] aus dem [[Wohnungsmarkt]] [[geschildert]]. ^16
+*[[C1-Hoehen-T1-100-Text#^16|^]]* Im ersten Teil werden konkrete Beispiele der [[Verdrängung]] aus dem [[Wohnungsmarkt]] [[verdeutlicht]]. ^16
 
-*[[C1-Hoehen-T1-100-Text#^17|^]]* Mehrere Familien [[erzählen]] ihre Geschichte, [[berichten]] über ihre [[Erfahrung]]en. ^17
+*[[C1-Hoehen-T1-100-Text#^17|^]]* Mehrere Familien [[erzählen]] ihre Geschichte und [[berichten]] über ihre [[Erfahrung]]en. ^17
 
 *[[C1-Hoehen-T1-100-Text#^18|^]]* Es werden [[Hinweis]]s zum [[Mietrecht]] und zum [[Mieterschutz]] gegeben, gerade in Zeiten, in denen es immer weniger Wohnungen als Wohnungsuchende gibt. ^18
 
 *[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnung]]en. ^19
 
-*[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinde]]n, wie das Wohnungsproblem [[gelöst]] werden kann. ^20
+*[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinde]]n, wie das Wohnungsproblem [[langfristig]] [[gelöst]] werden kann. ^20
 
 *[[C1-Hoehen-T1-100-Text#^21|^]]* Auch wenn es kaum möglich sein wird, in bestimmten Stadtteilen eine [[Mietpreisspirale]] [[durchzusetzen]], für Städte die Möglichkeit, private [[Wohnungsbestände]] [[aufzukaufen]] und die Anzahl von Sozialwohnungen zu erhöhen. ^21
 

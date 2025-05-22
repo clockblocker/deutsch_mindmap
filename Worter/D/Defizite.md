@@ -1,1 +1,1 @@
-, [[Schwachstellen]]
+[[Defizit]]

@@ -3,6 +3,10 @@
 ---
 Die [[Sendung]] [[sensibilisiert]] die [[Konsument]]en `in` [[Bezug]] `auf` [[Billigprodukt]]e.  
 
+*[[C1-Hoehen-T2-201-Text#^47|^]]* Sie haben ja `in` Ihrer Sendung immer wieder den [[Bezug]] `zwischen` der Geschichte der Mathematik und der Praxis [[hergestellt]]
+
+*[[C1-Hoehen-T2-201-Text#^14|^]]* Letzteres liegt vor allem daran, dass dieses Fach leider viel zu [[häufig]] [[langweilig]], abstrakt und ohne [[jeglich]]en [[Bezug]] zur Realität gelehrt wird
+
 Roboter werden dem Menschen `in` [[Bezug]] `auf` Kompetenzen [[überlegen]] sein.  
 
 Was fand die Wissenschaft `in` [[Bezug]] `auf` [[Trauma]]ta heraus?

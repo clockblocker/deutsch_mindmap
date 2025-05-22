@@ -1,1 +1,1 @@
-, [[Vorgesetzte]], [[Hinweis]]
+[[Vorgesetzte]]

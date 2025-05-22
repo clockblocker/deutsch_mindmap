@@ -16,10 +16,10 @@ expertise, specialist knowledge
 специальные знания, опыт
 
 ---
-[[Fach]], [[wissen]], [[fachkundig]], [[Fachmann]], [[Fachfrau]]
+[[Fach]], [[Wissen]], [[fachkundig]], [[Fachmann]], [[Fachfrau]]
 
 ---
-[[Fach]]|[[wissen]]
+[[Fach]]|[[Wissen]]
 [[Fachwissen]]
 
 ---

@@ -1,4 +1,4 @@
-🔴 📖 das [[Taschenbuch]], [ˈtaʃn̩ˌbuːx]
+📖 das [[Taschenbuch]], [ˈtaʃn̩ˌbuːx]
 die [[Taschenbücher]]
 
 ---

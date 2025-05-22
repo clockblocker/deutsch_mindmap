@@ -1,1 +1,1 @@
-, [[verlieben]]
+, [[verlieben]], [[verehren]]

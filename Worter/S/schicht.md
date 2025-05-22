@@ -25,4 +25,4 @@ D: der [[Schicht]], den [[Schichten]]
 
 ---
 [[schichten]], [[schichtig]], [[Schichtarbeit]], [[Schichtleiter]]
-, [[Geschichtsbuch]]
+, [[Geschichtsbuch]], [[geschichtlich]]

@@ -1,1 +1,1 @@
-, [[Erlernung]], [[Lernbereitschaft]]
+, [[Erlernung]], [[Lernbereitschaft]], [[Lernende]]

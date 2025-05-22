@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Schülers]], [[Schülern]], [[Schüler]], [[Schülers]], [[Schülern]], [[Schülern]]
 
 ---
-#Substantiv #Maskulin, [[Grundschulkind]], [[Schulklasse]], [[Schulabgänger]], [[Lehrkraft]], [[Schulung]]
+#Substantiv #Maskulin, [[Grundschulkind]], [[Schulklasse]], [[Schulabgänger]], [[Lehrkraft]], [[Schulung]], [[Lehrerberuf]], [[Lehramt]], [[Lernende]]

@@ -1,6 +1,7 @@
 [[sehen]] + Akk, [ˈzeːən], [[sah]], haben [[gesehen]]
 
 ---
+*[[C1-Hoehen-T2-201-Text#^9|^]]* 15 Schreiben und Rechnen sind [[geschichtlich]] [[gesehen]] parallel [[entstanden]]
 
 ---
 [[anderessehen]] - [[anders]] = [[sehen]] /  to see differently, to view from another perspective

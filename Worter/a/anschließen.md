@@ -36,4 +36,4 @@ Partizip I: [[anschließend]], Partizip II: [[angeschlossen]]
 
 [[anschließen]] - [[an]] = [[schließen]]
 , [[einhängen]], [[unterbrechen]], [[beitreten]]
-, [[umsteigen]], [[abschalten]], [[Stromanschluss]], [[Anschluss]]
+, [[umsteigen]], [[abschalten]], [[Stromanschluss]], [[Anschluss]], [[darauffolgen]]

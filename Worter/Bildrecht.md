@@ -17,7 +17,7 @@ image rights
 [[Bild]], [[Recht]]
 
 ---
-[[Bild]]|[[recht]]
+[[Bild]]|[[Recht]]
 [[Bild]] + [[Recht]]
 
 

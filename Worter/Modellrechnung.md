@@ -2,7 +2,7 @@
 die [[Modellrechnungen]]
 
 ---
-*[[Golfstorm#^6|^]]* Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
+*[[Golfstorm#^6|^]]* Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]
 
 ---
 = [[Simulation]], [[Berechnung]], [[Prognose]]
@@ -27,3 +27,5 @@ A: die [[Modellrechnung]], die [[Modellrechnungen]]
 G: der [[Modellrechnung]], der [[Modellrechnungen]]
 D: der [[Modellrechnung]], den [[Modellrechnungen]]
 --> [[🗣️ Ingredient-Meinung]] <--
+
+#Feminin 

@@ -1,1 +1,1 @@
-, [[herstellen]], [[Beiersdorf]], [[Einzelhändler]], [[Konsument]]
+, [[herstellen]], [[Beiersdorf]], [[Einzelhändler]], [[Konsument]], [[Verbraucher]]

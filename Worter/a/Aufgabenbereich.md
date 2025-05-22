@@ -4,7 +4,6 @@ die [[Aufgabenbereiche]]
 ---
 *[[009-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke einbringen – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann. 
 
-
 ---
 = [[Tätigkeitsfeld]], [[Zuständigkeitsbereich]]
 ≈ [[Bereich]], [[Arbeitsfeld]], [[Funktion]], [[Ressort]]

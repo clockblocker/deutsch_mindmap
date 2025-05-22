@@ -136,4 +136,4 @@
 - **≈ Related / Contextual**
 	- [[Wohngegend]] *(residential area)*
 	- [[Umfeld]] *(environment, context — slightly abstract)*
-	- [[Nachbarnschaft]] *(neighboring area — less common synonym)*
+	- [[Nachbarnschaft]] *(neighboring area — less common synonym)*, [[Referat]]

@@ -3,6 +3,12 @@
 ---
 Was soll das? Aang ist nicht unser Feind! [[Begreift]] ihr's nicht? Aang hat uns etwas [[gebracht]], dass wir seit langer Zeit nicht mehr hatten! Spaß.
 
+*[[C1-Hoehen-T2-201-Text#^50|^]]* Ab einem bestimmten Alter sollte man den Kindern [[begreiflich]] machen, 
+*(From a certain age, you should make it [[understandable]] to the children,)*
+*dass die Menschen nicht schon immer zählen konnten, dass es also eine [[Entwicklungsstufe]] in der [[Menschheitsgeschichte]] ist, die dem Schreiben [[vorausging]]*
+
+*[[C1-Hoehen-T2-201-Text#^50|^]]* Ab einem bestimmten Alter sollte man den Kindern [[begreiflich]] machen, dass die Menschen nicht schon immer zählen konnten, dass es also eine [[Entwicklungsstufe]] in der Menschheitsgeschichte ist, die dem Schreiben vorausging
+
 ---
 = [[verstehen]], [[erfassen]], [[kapieren]]
 ≈ [[erkennen]], [[wahrnehmen]], [[nachvollziehen]], [[einsehen]]
@@ -27,4 +33,4 @@ PI: [[begreifend]], PII: [[begriffen]], Zu+inf: [[zu begreifen]]
 [[begreifen]] - [[be]] = [[greifen]] / to comprehend, to understand
 
 ---
-[[Begreifen]], [[Begreifbarkeit]], [[begreiflich]], [[unbegreiflich]], [[Verständnis]], [[lehren]], [[raffen]], [[umfassen]], [[Auffassung]], [[greifbar]], [[zurechtfinden]]
+[[Begreifen]], [[Begreifbarkeit]], [[begreiflich]], [[unbegreiflich]], [[Verständnis]], [[lehren]], [[raffen]], [[umfassen]], [[Auffassung]], [[greifbar]], [[zurechtfinden]], [[Wissen]]

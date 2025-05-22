@@ -1,1 +1,1 @@
-, [[Lehrling]], [[Lehrstellensuche]], [[lehren]], [[Lehrkraft]]
+, [[Lehrling]], [[Lehrstellensuche]], [[lehren]], [[Lehrkraft]], [[Lehramtsstudium]], [[Lehramt]], [[Lehrinhalt]]

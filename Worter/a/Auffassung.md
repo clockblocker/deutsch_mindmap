@@ -1,3 +1,4 @@
+ ! [[Passiv-Ingredient-POV]] !
 --> [[🗣️ Ingredient-Meinung]] <--
 
 🧠 🔴 die [[Auffassung]], [ˈaʊ̯fˌfasʊŋ](https://youglish.com/pronounce/Auffassung/german)

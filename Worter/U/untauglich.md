@@ -1,1 +1,1 @@
-, [[geeignet]], [[Fähig]], [[taugen]]
+, [[geeignet]], [[Fähig]], [[taugen]], [[anwendbar]]

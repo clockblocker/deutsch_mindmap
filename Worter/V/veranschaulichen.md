@@ -1,7 +1,9 @@
 🖼️ [[veranschaulichen]], [fɛɐ̯ˈʔanʃaʊ̯lɪçən](https://youglish.com/pronounce/veranschaulichen/german) | [[veranschaulichte]], haben [[veranschaulicht]]
 
 ---
-*[[1 lesen StadtTours#^5|^]]* Die teilnehmenden Besucherinnen und Besucher [[erhalten]] [[Einblicke]] in kulturelle, politische und wirtschaftliche [[Zusammenhänge]] und bekommen so ein [[facettenreiches]] Bild von historischen [[Entwicklungen]] und Bräuchen der Stadt, die z. B. auch 2 [[mithilfe]] von Fotos oder Anekdoten [[veranschaulicht]] werden. ^5
+*[[1 lesen StadtTours#^5|^]]* Die teilnehmenden Besucherinnen und Besucher [[erhalten]] [[Einblicke]] in kulturelle, politische und wirtschaftliche [[Zusammenhänge]] und bekommen so ein [[facettenreiches]] Bild von historischen [[Entwicklungen]] und Bräuchen der Stadt, die z. B. auch 2 [[mithilfe]] von Fotos oder Anekdoten [[veranschaulicht]] werden
+
+*[[C1-Hoehen-T2-201-Text#^42|^]]* Besser kann man [[Potenzrechnung]] nicht [[veranschaulichen]]
 
 ---
 = [[verdeutlichen]], [[erläutern]], [[illustrieren]], [[vormachen]]

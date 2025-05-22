@@ -77,4 +77,4 @@ D: dem [[verhalten]], den [[verhalten]]
 ---
 [[verhalten]], [[Verhaltensmuster]], [[Verhaltensweise]], [[verhaltensneutral]], [[verhaltensnah]]
 
-#Neuter , [[Spielverhalten]], [[Einkaufsverhalten]]
+#Neuter , [[Spielverhalten]], [[Einkaufsverhalten]], [[Wissen]], [[Verbraucher]]

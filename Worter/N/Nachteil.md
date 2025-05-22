@@ -1,3 +1,5 @@
+--> 🧮 [[Grad-Quantität]] <--
+
 👎 🔵 der [[Nachteil]], [ˈnaːxˌtaɪ̯l](https://youglish.com/pronounce/Nachteil/german)
 die [[Nachteile]]
 
@@ -5,18 +7,17 @@ die [[Nachteile]]
 Man darf aber auch nicht vergessen, dass es für den Arbeitgeber auch einen entscheidenden [[Nachteil]] gibt: 
 
 ---
-= [[Nachteil]], [[Schaden]], [[Minus]]
+= [[Nachteil]], [[Schaden]], [[Minus]], [[Nachteiligkeit]],
 ≈ [[Problem]], [[Schwierigkeit]], [[Defizit]]
-≠ [[Vorteil]], [[Vorteil]], [[Plus]]
+≠ [[Vorteil]], [[Vorteil]], [[Plus]], [[Gelegenheit]], [[Mehrwert]],  [[vorteilhaft]]
 
 ---
 disadvantage, drawback  
 недостаток, минус
 
 ---
-[[nachteilig]], [[Nachteiligkeit]],
-, [[Nachteile]], [[benachteiligen]]
-, [[Gelegenheit]], [[Mehrwert]], [[vorteilhaft]]
+[[nachteilig]], [[benachteiligen]]
+
 
 ---
 [[Nach]]|[[teil]]

@@ -24,4 +24,4 @@ G: der [[Steuererklärung]], der [[Steuererklärungen]]
 D: der [[Steuererklärung]], den [[Steuererklärungen]]  
 
 ---
-[[Steuern]], [[erklären]], [[Steuerbescheid]], [[Steuerberater]], [[Finanzamt]]
+[[Steuern]], [[erklären]], [[Steuerbescheid]], [[Steuerberater]], [[Finanzamt]], [[Rentenberechnung]]

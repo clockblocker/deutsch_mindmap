@@ -27,7 +27,7 @@ duty, obligation
 
 ---
 [[pflichten]], [[pflichtgemäß]], [[pflichtbewusst]], [[Pflichtgefühl]], [[Pflichtverletzung]]
-, [[Wahlpflicht]], [[Schulpflicht]], [[Schweigepflicht]], [[Religionspflicht]], [[Grundrecht]], [[Versicherungspflicht]], [[recht]], [[Anwesenheitspflicht]], [[s1 e1]], [[Notwendigkeit]]
+, [[Wahlpflicht]], [[Schulpflicht]], [[Schweigepflicht]], [[Religionspflicht]], [[Grundrecht]], [[Versicherungspflicht]], [[Recht]], [[Anwesenheitspflicht]], [[s1 e1]], [[Notwendigkeit]]
 , [[Freizeitaktivität]]
 , [[Arbeitsauftrag]], [[Urlaub]]
 

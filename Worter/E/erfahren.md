@@ -1,3 +1,5 @@
+ ! [[Passiv-Ingredient-POV]] !
+
 🧐 [[erfahren]], [ɛɐ̯ˈfaːʁən] | [[erfuhr]], haben [[erfahren]]
 
 ---

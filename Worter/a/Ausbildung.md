@@ -27,4 +27,4 @@ Einzigartige mögliche Formen: [[Ausbildung]], [[Ausbildungen]]
 #Substantiv #Neuter, [[Gesellenprüfung]], [[Erzie­hung]], [[Weiterbildung]], [[Lehrstellensuche]], [[Studiengang]]
 
 
-#Feminin , [[Klassenstufe]], [[Laufbahn]], [[Fortbildung]], [[MBA-Studium]], [[Entstehung]]
+#Feminin , [[Klassenstufe]], [[Laufbahn]], [[Fortbildung]], [[MBA-Studium]], [[Entstehung]], [[Lehramtsstudium]]

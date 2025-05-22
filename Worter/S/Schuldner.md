@@ -30,3 +30,4 @@ D: dem [[Schuldner]], den [[Schuldnern]]
 #Maskulin 
 
 
+, [[schulden]]

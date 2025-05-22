@@ -29,4 +29,4 @@ Morpheme:
 [[vor]] [[aus]]
 
 ---
-, [[hinterdrein]], [[vorderen]], [[einen Schritt voraus sein]], [[voraussetzen]], [[vorausahnen]], [[Flug]]
+, [[hinterdrein]], [[vorderen]], [[einen Schritt voraus sein]], [[voraussetzen]], [[vorausahnen]], [[Flug]], [[vorausgehen]]

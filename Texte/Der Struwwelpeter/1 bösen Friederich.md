@@ -25,7 +25,7 @@ und [[trat]] und [[schlug]] ihn immer [[mehr]].
 
 
 Da [[beißen|biß]] der Hund ihn in das [[Bein]],  
-[[recht]] [[tief]] bis in das [[Blut]] [[hinein]].  
+[[Recht]] [[tief]] bis in das [[Blut]] [[hinein]].  
 Der bitterböse Friederich,  
 der [[schreien|schrie]] und [[weinen|weinte]] [[bitterlich]].  
 [[Jedoch]] nach Hause [[lief]] der Hund  

@@ -37,4 +37,4 @@ G: des [[Zusammenhangs]], der [[Zusammenhänge]]
 D: dem [[Zusammenhang]], den [[Zusammenhängen]]
 
 
-#Maskulin , [[Zeichenfolge]], [[Unabhängigkeit]], [[Zusammenspiel]], [[Wechselwirkung]]
+#Maskulin , [[Zeichenfolge]], [[Unabhängigkeit]], [[Zusammenspiel]], [[Wechselwirkung]], [[Gleichung]]

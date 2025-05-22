@@ -14,4 +14,4 @@ Translation:
 ---
 
 #Substantiv #Feminin 
-, [[Frühjahr]], [[Wetter]], [[Saison]], [[Monsun]], [[Wechsel]]
+, [[Frühjahr]], [[Wetter]], [[Saison]], [[Monsun]], [[Wechsel]], [[jährlich]]

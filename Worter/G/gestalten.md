@@ -26,7 +26,7 @@ Synonyme: [[formen]], [[kreieren]], [[entwerfen]], [[modellieren]], [[bilden]]
 Antonyme: [[zerstören]], [[auflösen]], [[vernichten]]
 
 ---
-Übersetzung: to shape, to design, to form
+Übersetzung: proovet to be, to shape, to design, to form
 
 ---
 Morpheme: [[ge]][[stalt]][[en]]

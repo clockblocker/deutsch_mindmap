@@ -1,1 +1,1 @@
-, [[Überblick]], [[Zusammenfassung]]
+, [[Überblick]], [[Zusammenfassung]], [[Einzelheit]]

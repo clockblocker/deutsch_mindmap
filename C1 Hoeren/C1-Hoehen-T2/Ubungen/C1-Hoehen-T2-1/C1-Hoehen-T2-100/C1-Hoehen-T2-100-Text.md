@@ -52,7 +52,7 @@
 ---
 
 ###### 🔴 Interviewerin:  
-Herzlich willkommen zu unserer Sendung "Neues aus Wirtschaft und Sozialem".  
+Herzlich willkommen zu unserer Sendung "Wirtschaft und Sozialem".  
 *[[C1-Hoehen-T2-100-Text#^1|^]]* Stellen Sie sich vor, jeder bekäme zur [[Existenzsicherung]] vom Staat ein [[Grundeinkommen]], sein ganzes Leben lang, automatisch, unbürokratisch und bedingungslos, ohne Prüfung, ob er oder sie [[bedürftig]] ist. ^1
 
 
@@ -153,3 +153,4 @@ Wie hoch würde das Grundeinkommen denn sein und wie wäre es finanzierbar?
 
 
 
+[[C1-Hoehen-T1-100-Text]]

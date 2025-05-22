@@ -2,7 +2,7 @@
 die [[Fehlgriffe]]
 
 ---
-	2. [[vereinzelte]] [[Fehlgriffe]] [[beeinträchtigen]] den Lesefluss nicht  
+ [[vereinzelte]] [[Fehlgriffe]] [[beeinträchtigen]] den Lesefluss nicht  
 
 ---
 = [[Fehler]], [[Irrtum]], [[Missgriff]]
@@ -37,3 +37,5 @@ N: der [[Fehlgriff]], die [[Fehlgriffe]]
 A: den [[Fehlgriff]], die [[Fehlgriffe]]
 G: des [[Fehlgriffs]], der [[Fehlgriffe]]
 D: dem [[Fehlgriff]], den [[Fehlgriffen]]
+
+#Maskulin 

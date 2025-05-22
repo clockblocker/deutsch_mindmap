@@ -1,1 +1,1 @@
-, [[Einschränkung]]
+, [[Einschränkung]], [[Restriktion]], [[Beschränkung]]

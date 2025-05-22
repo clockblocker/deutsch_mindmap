@@ -29,6 +29,55 @@ PI: [[versehend]], PII: [[versehen]], Zu+inf: [[zuversehen]]
 
 ---
 [[Versehen]], [[versehentlich]], [[Versehentlichkeit]], [[Verseher]], [[Verseuchung]]
-, [[Flüchtigkeitsfehler]]
-, [[Sorgfaltsfehler]]
-, [[bestücken]], [[Fehlgriff]], [[ausstatten]], [[irrtümlich]], [[Wille]]
+
+🤔 🟢 das [[Versehen]], [fɛɐ̯ˈzeːən](https://youglish.com/pronounce/Versehen/german)
+
+---
+
+
+---
+= [[Irrtum]], [[Fehler]], [[Missverständnis]]
+≈ [[Unglück]], [[Zufall]], [[Pech]]
+≠ [[Absicht]], [[Vorsatz]], [[Plan]]
+
+---
+mistake, oversight  
+ошибка, недосмотр
+
+---
+[[versehen]], [[versehentlich]], [[Versehenheit]]
+
+---
+[[ver]]|[[seh]]|[[en]]
+[[ver]] + [[sehen]]
+
+
+---
+###### [[versehen]] jN
+- Was [[hat]] er [[versehen]]?
+- Das Essen mit Salz.
+
+- Was [[haben]] wir [[versehen]]?
+- Den Vertrag mit einem Fehler.
+
+- Warum [[hat]] sie das [[versehen]]?
+- Weil sie unaufmerksam war.
+
+---
+###### [[versehen]] *[[sich]]*
+- Worin [[hast]] du *[[dich]]* [[versehen]]?
+- In der Uhrzeit.
+
+- Worin [[haben]] wir *[[uns]]* [[versehen]]?
+- In der Entfernung.
+
+- Warum [[hat]] er *[[sich]]* [[versehen]]?
+- Weil er müde war.
+
+---
+N: das [[Versehen]], die [[Versehen]]
+A: das [[Versehen]], die [[Versehen]]
+G: des [[Versehens]], der [[Versehen]]
+D: dem [[Versehen]], den [[Versehen]]
+
+#Neuter 

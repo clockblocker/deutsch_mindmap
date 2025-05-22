@@ -28,4 +28,4 @@ G: des [[Lebewesens]], der [[Lebewesen]]
 D: dem [[Lebewesen]], den [[Lebewesen]]
 
 
-#Neuter 
+#Neuter , [[Wissen]]

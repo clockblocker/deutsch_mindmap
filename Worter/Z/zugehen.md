@@ -5,6 +5,8 @@ sein [[zugegangen]]
 ---
 _Aang [[geht]] auf das Schiff [[zu]]._
 
+*[[C1-Hoehen-T2-201-Text#^23|^]]* Man sieht ja immer wieder, dass Grundschülerinnen und -schüler weniger oder gar keine Angst vor Mathe haben, während sich das ändert, je mehr es auf die nächste Klasse [[zugeht]]. Wie erklären Sie sich das?
+
 [[2 ADHD.md#^10|^]] Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu. ^10
 
 Nach der Pause hat sie ein Elterngespräch. Da [[geht]] es hoffentlich etwas ruhiger [[zu]].
@@ -32,4 +34,4 @@ Morpheme: [[zu]][[geh]][[en]]
 | Sie | [[gehen zu]] | [[gingen zu]] | [[gehen Sie zu]] | [[gehen zu]] | [[gingen zu]] |
 
 Partizip I: [[zugehend]], Partizip II: [[zugegangen]]
-[[zugehen]] - [[zu]] = [[gehen]], [[hoffentlich]], [[herankam]], [[s1 e1]], [[widmen]]
+[[zugehen]] - [[zu]] = [[gehen]], [[hoffentlich]], [[herankam]], [[s1 e1]], [[widmen]], [[nachgehen]]

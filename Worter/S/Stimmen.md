@@ -1,7 +1,9 @@
 🔴 die [[Stimme]] | ✅ [[stimmen]], [ˈʃtɪmən] | [[stimmte]], haben [[gestimmt]]
 
 ---
-Alle [[stimmen]] gegen Ninas Idee.
+Alle [[stimmen]] gegen Ninas Idee
+
+*[[C1-Hoehen-T2-200-Text#^29|^]]* [[Erstaunlicherweise]] [[stimmten]] [[Wahrnehmung]] und [[gemessene]] Intelligenz vor allem bei den Fotos von Männern überein
 
 [[17 zu inf#^16|^]] Ich [[überredete]] meine Frau, den Mantel ein wenig zu [[bügeln]], während ich mit Herrn Kolhaas ein Glas [[Sherry]] trank, und er mir von einigen Klavieren [[erzählte]], die er [[gestimmt]] hatte.  ^16
 

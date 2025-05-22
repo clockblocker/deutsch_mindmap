@@ -1,2 +1,2 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-, [[ablesen]]
+, [[ablesen]], [[näherbringen]], [[abhandeln]]

@@ -1,4 +1,4 @@
 Inf: [[zeigen]]
 
 
-, [[s1 e1]], [[Glaskugel]]
+, [[s1 e1]], [[Glaskugel]], [[Recht]], [[Recht]]

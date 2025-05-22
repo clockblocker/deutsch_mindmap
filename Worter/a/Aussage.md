@@ -6,7 +6,7 @@ die [[aussagen]]
 ---
 Ich [[betrachte]] diese [[Aussage]] als nicht relevant.
 
-Der [[Inhalt]] der [[Aussage]] steht im [[Widerspruch]] zu konkreten [[Aussagen]] im Hörtext
+Der [[Inhalt]] der [[Aussage]] steht im [[Widerspruch]] zu konkreten [[Aussage]]n im Hörtext
 
 Sie wartet auf die Reaktionen auf ihre [[Aussage]].
 

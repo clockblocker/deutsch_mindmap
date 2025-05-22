@@ -1,1 +1,1 @@
-, [[beschreiben]], [[Stadtteil]]
+[[beschreiben]]

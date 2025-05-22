@@ -1,1 +1,1 @@
-, [[beschränken]], [[einschränken]], [[mobilitätseingeschränkt]], [[Einschränkung]]
+, [[beschränken]], [[einschränken]], [[mobilitätseingeschränkt]], [[Einschränkung]], [[Beschränkung]]

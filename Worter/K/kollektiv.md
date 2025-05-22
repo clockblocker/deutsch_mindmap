@@ -1,1 +1,1 @@
-, [[einzelnen]], [[gemeinsam]], [[einzelne]], [[Band]], [[gesellschaftlich]], [[zusammen]], [[gemeinschaftlich]]
+[[einzeln]], [[gemeinsam]], [[einzelne]], [[Band]], [[gesellschaftlich]], [[zusammen]], [[gemeinschaftlich]], [[einzeln]]

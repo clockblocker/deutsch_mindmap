@@ -1,1 +1,1 @@
-, [[Telefonkabine]]
+, [[Telefonkabine]], [[Abteil]]

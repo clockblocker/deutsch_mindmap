@@ -17,7 +17,7 @@ gibt es viele Leute, die alles unter einen Hut bringen wollen, damit jeder zufri
 Sebastian selbst sieht das weniger entspannt. Er ist [[ziemlich]] nervös, als sie auf die Gruppe zugehen, die sich um den Grill versammelt hat. 
 
 ---
-Synonyme: [[recht]], [[einigermaßen]], [[relativ]], [[annähernd]], [[ungefähr]], [[bald]]
+Synonyme: [[Recht]], [[einigermaßen]], [[relativ]], [[annähernd]], [[ungefähr]], [[bald]]
 Antonyme: [[sehr]], [[total]], [[vollständig]], [[extrem]]
 
 ---

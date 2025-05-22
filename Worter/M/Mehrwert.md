@@ -1,3 +1,5 @@
+--> 🧮 [[Grad-Quantität]] <--
+
 ➕ 🔵 der [[Mehrwert]], [ˈmeːɐ̯ˌvɛʁt]
 
 ---

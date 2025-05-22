@@ -1,12 +1,11 @@
-🔴 der [[Artikel]], [ˈaʁtɪkl̩]
+der [[Artikel]], [ˈaʁtɪkl̩]
 die [[Artikel]]
 
 ---
-, [[Zeitungsausschnitt]], [[Artikelverwendung]]
 
 
 ---
-= [[Schriftstück]], [[Text]], [[Beitrag]]
+= [[Schriftstück]], [[Text]], [[Beitrag]], [[Gegenstand]], [[Ware]], [[Billigprodukt]], [[Werbeobjekt]]
 ≈ [[Essay]], [[Aufsatz]], [[Abhandlung]], [[Bericht]]
 ≠ [[Buch]], [[Roman]], [[Monographie]]
 
@@ -23,5 +22,6 @@ G: des [[Artikels]], der [[Artikel]]
 D: dem [[Artikel]], den [[Artikeln]]  
 
 ---
-[[artikulieren]], [[artikuliert]], [[Artikelwort]], [[Artikulierung]]
-, [[Gegenstand]], [[Ware]], [[Billigprodukt]], [[Werbeobjekt]]
+[[artikulieren]], [[artikuliert]], [[Artikelwort]], [[Artikulierung]], [[Zeitungsausschnitt]], [[Artikelverwendung]]
+
+#Maskulin 

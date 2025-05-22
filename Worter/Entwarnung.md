@@ -32,4 +32,4 @@ G: der [[Entwarnung]], der [[Entwarnungen]]
 D: der [[Entwarnung]], den [[Entwarnungen]]
 
 
-#Feminin 
+#Feminin , [[Wissen]]

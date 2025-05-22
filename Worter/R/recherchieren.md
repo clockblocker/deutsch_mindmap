@@ -32,4 +32,4 @@ Morpheme: [[re]][[cherch]][[ier]][[en]]
 
 Partizip I: [[recherchierend]], Partizip II: [[recherchiert]]
 
-, [[Rechercheergebenis]], [[herausfinden]], [[forschen]], [[erkundigen]], [[Rechercheergebnis]], [[Fachliteraturrecherche]], [[nachfragen]]
+, [[Rechercheergebenis]], [[herausfinden]], [[forschen]], [[erkundigen]], [[Rechercheergebnis]], [[Fachliteraturrecherche]], [[nachfragen]], [[nachgehen]]

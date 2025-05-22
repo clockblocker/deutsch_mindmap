@@ -2,7 +2,9 @@
 😒 [[oberflächlich]], [ˈoːbɐˌflɛçlɪç](https://youglish.com/pronounce/oberflächlich/german)
 
 ---
-*[[C1-Lesen-T2-101-Text#^20|^]]* Die Kids [[beschäftigen]] sich dann [[oberflächlich]] mit einem Spielzeug und [[übergehen|gehen]] einfach zum nächsten über. ^20
+*[[C1-Lesen-T2-101-Text#^20|^]]* Die Kids [[beschäftigen]] sich dann [[oberflächlich]] mit einem Spielzeug und [[übergehen|gehen]] einfach zum nächsten über
+
+*[[C1-Hoehen-T2-201-Text#^30|^]]* Wir haben eigentlich zu wenig Unterrichtszeit im [[Vergleich]] zu der [[Fülle]] der [[Lehrinhalt]]e in Mathematik, die ja unterrichtet werden müssen. Das führt dazu, dass man viele Themen zu schnell und [[oberflächlich]] [[abhandelt]]
 
 
 ---

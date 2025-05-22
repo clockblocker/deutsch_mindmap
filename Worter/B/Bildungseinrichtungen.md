@@ -1,2 +1,1 @@
-, [[Schulwesen]]
-[[Bildungseinrichtung]], [[vermitteln]]
+[[Bildungseinrichtung]]

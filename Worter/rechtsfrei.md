@@ -19,7 +19,7 @@ lawless, outside the law
 [[Recht]], [[Freiheit]], [[Rechtsstaat]], [[Rechtswidrigkeit]]
 
 ---
-[[recht]]|`s`|[[frei]]|[[er]]
+[[Recht]]|`s`|[[frei]]|[[er]]
 [[Recht]] + `s` + [[frei]] + [[er]]
 
 

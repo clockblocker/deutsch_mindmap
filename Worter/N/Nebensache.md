@@ -1,1 +1,1 @@
-, [[Kleinigkeit]], [[Hauptbereich]], [[Grundvoraussetzung]], [[Brennpunkt]], [[Inhaltspunkt]]
+, [[Kleinigkeit]], [[Hauptbereich]], [[Grundvoraussetzung]], [[Brennpunkt]], [[Inhaltspunkt]], [[Lehrinhalt]]

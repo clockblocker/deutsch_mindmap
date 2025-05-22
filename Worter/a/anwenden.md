@@ -5,8 +5,9 @@
 ---
 Und ich habe sie [[angefleht]], ein bisschen Magie auf mich [[anzuwenden]], damit ich auch [[hübsch]] wäre, selbst wenn ich nicht zaubern konnte, so könnte ich wenigstens hübsch sein.“
 
+*[[C1-Hoehen-T2-201-Text#^51|^]]* Man sollte mit den Schülerinnen und Schülern raus aus dem Schulgexfbäude gehen und den Satz des Thales oder Pythagoras [[anwenden]], indem sie beispielsweise die Höhe eines Turmes oder Baumes [[bestimmen]] sollen
 
-[[1 Wer bin ich und was mache ich hier?#^2|^]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]. ^2
+[[1 Wer bin ich und was mache ich hier?#^2|^]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]
 
 ---
 = [[benutzen]], [[verwenden]], [[einsetzen]],  [[nutzen]]

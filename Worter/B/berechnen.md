@@ -1,3 +1,3 @@
 , [[zusammenrechnen]], [[rechnen]], [[Rentenberechnung]]
 , [[kosten]]
-, [[ausrechnen]], [[Modellrechnung]]
+, [[ausrechnen]], [[Modellrechnung]], [[Berechnung]]

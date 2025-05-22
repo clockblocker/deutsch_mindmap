@@ -36,4 +36,4 @@ Superlativ: [[seltensten]]
 
 [[täglich]][[normal]], [[meist]], [[bald]], [[Öfteren]]
 , [[manchmal]], [[üblich]], [[tausendfach]], [[zweifeln]]
-, [[überwiegend]], [[einmalig]], [[einzigartig]], [[außergewöhnlich]], [[allwöchentlich]], [[Negationspartikel]], [[Seltenheit]], [[unaufhörlich]], [[mehrmals]], [[gang und gäbe]], [[vielerorts]], [[ausnahmslos]], [[alltäglich]]
+, [[überwiegend]], [[einmalig]], [[einzigartig]], [[außergewöhnlich]], [[allwöchentlich]], [[Negationspartikel]], [[Seltenheit]], [[unaufhörlich]], [[mehrmals]], [[gang und gäbe]], [[vielerorts]], [[ausnahmslos]], [[alltäglich]], [[jährlich]]

@@ -35,4 +35,4 @@ Dative: der [[Nähe]], den [[Nähen]]
 [[nahe]], [[näher]], [[genähert]], [[annähern]], [[erwarten]], [[Entfernung]]
 , [[nah]], [[unweit]]
 
-#Feminin , [[Entfremdung]], [[nähern]]
+#Feminin , [[Entfremdung]], [[nähern]], [[näherbringen]]

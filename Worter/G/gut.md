@@ -31,4 +31,4 @@ P: [[guten]], [[besseren]], [[besten]]
  [[am besten]], 
 , [[Saatgutsammler]]
 
-, [[Wiedergutmachung]], [[Erbgut]], [[gutbetucht]], [[Güterproduktion]], [[tugendhaft]]
+, [[Wiedergutmachung]], [[Erbgut]], [[gutbetucht]], [[Güterproduktion]], [[tugendhaft]], [[übel]]

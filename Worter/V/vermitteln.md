@@ -1,17 +1,19 @@
 🗣️ [[vermitteln]], [fɛɐ̯ˈmɪtln̩](https://youglish.com/pronounce/vermitteln/german) → [[vermittelte]] → haben [[vermittelt]] | 🤝 [[vermitteln]], [fɛɐ̯ˈmɪtln̩] → [[vermittelte]] → haben [[vermittelt]]
 
 ---
-- Diskutieren Sie, wie [[Bildungseinrichtungen]] digitale Kompetenz [[vermitteln]] sollten.
+Diskutieren Sie, wie [[Bildungseinrichtungen]] digitale Kompetenz [[vermitteln]] sollten
+
+*[[C1-Hoehen-T2-201-Text#^6|^]]* 12 Im [[Lehramtsstudium]] sollte [[vermittelt]] werden, dass es [[unterschiedliche]] [[Lerntypen]] gibt
 
 *[[C1-Lesen-T4-100-Text#^14|^]]* Das [[gelingt]] mir, da ich mir einfach ein zweites [[Standbein]] [[geschaffen]] habe, indem ich in meinem [[Atelier]] junge, talentierte Künstlerinnen und Künstler ausbilde, dadurch [[Freude]] an der Kunst [[vermittle]] und so [[genügend]] Geld verdiene, um davon leben zu können. ^14
 
 
 ---
-= [[erklären]], [[darstellen]], [[präsentieren]] | [[verbinden]], [[vereinbaren]], [[schlichten]]
-≈ [[übertragen]], [[weitergeben]], [[kommunizieren]] | [[aushandeln]], [[schlichten]], [[kompromissbereit sein]]
-≠ [[verschweigen]], [[verheimlichen]] | [[streiten]], [[zerstreiten]]
+= [[erklären]], [[darstellen]], [[präsentieren]] | [[verbinden]], [[vereinbaren]], [[schlichten]], [[beibringen]], [[mitteln]],  [[erzählen]]
+≈ [[übertragen]], [[weitergeben]], [[kommunizieren]] | [[aushandeln]], [[schlichten]], [[kompromissbereit sein]], [[schlichten]], [[übersetzen]], [[intervenieren]]
+≠ [[verschweigen]], [[verheimlichen]] | [[streiten]], [[zerstreiten]], [[direkt]],
 
-, [[beibringen]], [[schlichten]], [[mitteln]], [[erzählen]], [[übersetzen]], [[intervenieren]]
+
 
 
 ---
@@ -61,4 +63,4 @@ sie, [[vermitteln]], [[vermittelten]], [[vermitteln]], [[vermittelten]], [[vermi
 Adjektive: [[vermittelnd]], [[vermittelnder]], [[vermittelndst]]
 
 ---
-[[vermittelnder]], [[vermittelndes]], [[vermittelnde]], [[vermittelnden]], [[vermittelndem]], [[vermittelnderer]], [[vermittelnderes]], [[vermittelndere]], [[vermittelnderen]], [[vermittelnderem]], [[vermittelndster]], [[vermittelndstes]], [[vermittelndste]], [[vermittelndsten]], [[vermittelndstem]]
+[[vermittelnder]], [[vermittelndes]], [[vermittelnde]], [[vermittelnden]], [[vermittelndem]], [[vermittelnderer]], [[vermittelnderes]], [[vermittelndere]], [[vermittelnderen]], [[vermittelnderem]], [[vermittelndster]], [[vermittelndstes]], [[vermittelndste]], [[vermittelndsten]], [[vermittelndstem]], [[näherbringen]]

@@ -24,4 +24,4 @@ G: der [[Krankenversicherung]], der [[Krankenversicherungen]]
 D: der [[Krankenversicherung]], den [[Krankenversicherungen]]  
 
 ---
-[[versichern]], [[krankhaft]], [[Versicherung]], [[Krankenkasse]], [[Versicherungsschutz]]
+[[versichern]], [[krankhaft]], [[Versicherung]], [[Krankenkasse]], [[Versicherungsschutz]], [[Rentenberechnung]]

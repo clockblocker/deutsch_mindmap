@@ -1,18 +1,13 @@
+ ! [[Passiv-Ingredient-POV]] !
 explain
 
 [[klären]], [[verantworten]], [[umschreiben]], [[veranschaulichen]]
 *clarify, account for, rewrite, illustrate*
 
-
-
-
-
-
 🗣️ [[erläutern]], [ɛɐ̯ˈlɔɪ̯tɐn](https://youglish.com/pronounce/erläutern/german) → [[erläuterte]] → haben [[erläutert]]
 
 ---
 	+	[[Erläutern]] Sie mögliche Argumente des Arbeitgebers gegen Home-Office.
-
 
 ---
 = [[erklären]], [[verdeutlichen]], [[ausführen]]
@@ -55,4 +50,4 @@ sie, [[erläutern]], [[erläuterten]], [[erläutern]], [[erläuterten]], [[erlä
 Adjektive: [[erläuternd]], [[erläuternder]], [[erläuterndst]]
 
 ---
-[[erläuternder]], [[erläuterndes]], [[erläuternde]], [[erläuternden]], [[erläuterndem]], [[erläuternderer]], [[erläuternderes]], [[erläuterndere]], [[erläuternderen]], [[erläuternderem]], [[erläuterndster]], [[erläuterndstes]], [[erläuterndste]], [[erläuterndsten]], [[erläuterndstem]], [[schildern]], [[klarmachen]]
+[[erläuternder]], [[erläuterndes]], [[erläuternde]], [[erläuternden]], [[erläuterndem]], [[erläuternderer]], [[erläuternderes]], [[erläuterndere]], [[erläuternderen]], [[erläuternderem]], [[erläuterndster]], [[erläuterndstes]], [[erläuterndste]], [[erläuterndsten]], [[erläuterndstem]], [[schildern]], [[klarmachen]], [[näherbringen]]

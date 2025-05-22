@@ -33,4 +33,4 @@ G: der [[Ernte]], der [[Ernten]]
 D: der [[Ernte]], den [[Ernten]]
 , [[bedürftig]], [[Erntehelferin]], [[Erntemenge]], [[Gemüseanbau]]
 
-#Feminin 
+#Feminin , [[Weizenernte]]

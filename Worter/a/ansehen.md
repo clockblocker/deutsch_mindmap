@@ -7,6 +7,8 @@ haben [[angesehen]]
 ---
 Ach Maria! [[Sieh an|Sieh]] dich an! Du änderst dich nie! 
 
+*[[C1-Hoehen-T2-201-Text#^16|^]]* Wenn ich mir am [[Bildschirm]] [[ansehen]] kann, wie Mathematik auf die Natur [[anwendbar]] ist, wenn ich verstehe, wie uns komplizierte [[Gleichung]]en im [[Alltag]] [[begegnen]] können, dann bekomme ich einen anderen [[Zugang]] zur Mathematik
+
 *[[C1-Hoehen-T2-100-Text#^18|^]]* Was die [[Finanzierbarkeit]] [[betrifft]], so [[ansehen|sehen]] einige Modelle und auch ich die Finanzierbarkeit als [[machbar]] an, während andere das [[bestreiten]]
 
 *[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7

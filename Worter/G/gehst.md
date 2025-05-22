@@ -1,1 +1,1 @@
-, [[gehen]], [[direkt]], [[Vorgehensweise]], [[übergehen]], [[zurückgehen]], [[ausgehen]]
+, [[gehen]], [[direkt]], [[Vorgehensweise]], [[übergehen]], [[zurückgehen]], [[ausgehen]], [[nachgehen]], [[vorausgehen]]

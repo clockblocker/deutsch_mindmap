@@ -1,1 +1,1 @@
-, [[beleidigen]], [[beschimpfen]], [[schmähen]], [[verklären]]
+, [[beleidigen]], [[beschimpfen]], [[schmähen]], [[verklären]], [[verehren]]

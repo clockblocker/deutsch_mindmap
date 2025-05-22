@@ -24,4 +24,4 @@ virtually, downright
 Adjektive: [[geradezu]], [[geradezuer]], [[geradezuest]]
 
 ---
-[[geradezuer]], [[geradezues]], [[geradezue]], [[geradezuen]], [[geradezuem]], [[geradezuerer]], [[geradezueres]], [[geradezuere]], [[geradezueren]], [[geradezuerem]], [[geradezuester]], [[geradezuestes]], [[geradezueste]], [[geradezuesten]], [[geradezuestem]]
+[[geradezuer]], [[geradezues]], [[geradezue]], [[geradezuen]], [[geradezuem]], [[geradezuerer]], [[geradezueres]], [[geradezuere]], [[geradezueren]], [[geradezuerem]], [[geradezuester]], [[geradezuestes]], [[geradezueste]], [[geradezuesten]], [[geradezuestem]], [[schlechthin]]

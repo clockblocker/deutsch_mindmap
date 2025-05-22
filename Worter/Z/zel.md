@@ -1,1 +1,1 @@
-, [[einzelnen]], [[Zelle]]
+[[einzeln]], [[Zelle]]

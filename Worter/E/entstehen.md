@@ -1,8 +1,10 @@
 🌌 [[entstehen]], [ɛntˈʃteːən](https://youglish.com/pronounce/entstehen/german) → [[entstand]] → sein [[entstanden]]
 
 ---
-*[[Aschenputtel.md#^2|^]]* Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]. ^2
+*[[Aschenputtel.md#^2|^]]* Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]
 
+*[[C1-Hoehen-T2-201-Text#^9|^]]* 15 Schreiben und Rechnen sind [[geschichtlich]] [[gesehen]] parallel ==[[entstanden]]==
+*(15 Writing and arithmetic [[historically]] [[speaking]] ==arose== in parallel.)*
 
 *[[C1-Hoehen-T2-100-Text#^34|^]]* Ganz [[abgesehen]] davon werden ja durch die Digitalisierung der Arbeitswelt immer mehr unattraktive Arbeiten von Maschinen [[übernommen]] und andere Jobs werden [[entstehen]]
 
@@ -19,7 +21,7 @@
 
 ---
 = [[sich bilden]], [[auftreten]], [[erscheinen]]
-≈ [[wachsen]], [[werden]], [[geschehen]], [[passieren]]
+≈ [[wachsen]], [[werden]], [[geschehen]], [[passieren]], [[Ruhestörung]], 
 ≠ [[verschwinden]], [[vergehen]], [[zerfallen]]
 
 ---

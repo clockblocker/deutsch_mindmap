@@ -17,7 +17,7 @@ die [[Faustrechte]]
 law of the fist, rule of force, might is right
 
 ---
-[[Faust]]|[[recht]]
+[[Faust]]|[[Recht]]
 
 ---
 N: das [[Faustrecht]], die [[Faustrechte]]  

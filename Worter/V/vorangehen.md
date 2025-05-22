@@ -30,4 +30,4 @@ PI: [[vorangehend]], PII: [[vorangegangen]], Zu+inf: [[voranzugehen]]
 
 ---
 [[Vorgang]], [[Vorangehen]], [[Vorangegangene]], [[Vorangemeldet]], [[Vorangegangene]]
-, [[zurückgehen]]
+, [[zurückgehen]], [[darauffolgen]]

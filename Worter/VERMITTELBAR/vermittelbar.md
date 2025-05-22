@@ -1,1 +1,1 @@
-, [[vermitteln]]
+, [[vermitteln]], [[Vermittlung]]

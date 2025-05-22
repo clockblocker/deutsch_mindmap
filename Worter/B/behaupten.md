@@ -1,4 +1,6 @@
+ ! [[Passiv-Ingredient-POV]] !
 --> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
+
 🗣️ [[behaupten]], [bəˈhaʊ̯ptən] | [[behauptete]], haben [[behauptet]]
 
 ---

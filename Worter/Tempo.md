@@ -27,4 +27,4 @@ A: das [[Tempo]], die [[Tempi]]
 G: des [[Tempos]], der [[Tempi]]
 D: dem [[Tempo]], den [[Tempi]]
 
-#Neuter 
+#Neuter , [[Lerntempo]]

@@ -6,7 +6,7 @@ haben [[geirrt]]
 
 ---
 Synonyme: [[sich täuschen]], [[falsch liegen]], [[einen Fehler machen]], [[sich verkalkulieren]]
-Antonyme: [[wissen]], [[richtig liegen]], [[treffen]]
+Antonyme: [[Wissen]], [[richtig liegen]], [[treffen]]
 
 ---
 Übersetzung: to be mistaken, to err

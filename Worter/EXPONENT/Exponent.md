@@ -1,1 +1,1 @@
-, [[exponentiell]]
+, [[exponentiell]], [[Potenzrechnung]]

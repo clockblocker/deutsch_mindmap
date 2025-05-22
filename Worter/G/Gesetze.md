@@ -1,1 +1,1 @@
-, [[Gesetz]], [[recht]], [[Texte/Misc/Anki]], [[einhalten]]
+, [[Gesetz]], [[Recht]], [[Texte/Misc/Anki]], [[einhalten]]

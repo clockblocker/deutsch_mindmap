@@ -1,3 +1,4 @@
+ ! [[Passiv-Ingredient-POV]] !
 🗣️ [[erklären]] + Akk, [ɛʀˈklɛːʁən]
 [[erklärte]]
 haben [[erklärt]]
@@ -31,4 +32,4 @@ Morpheme: [[er]][[kläre]]
 
 Partizip I: [[erklärend]], Partizip II: [[erklärt]]
 [[erklären]] - [[er]] = [[klären]]
-''', [[deuten]], [[vormachen]], [[Antworten]], [[beibringen]], [[verantworten]], [[behaupten]], [[haupten]], [[Steuererklärung]], [[Auslegung]], [[aussagen]], [[beleuchten]], [[nämlich]], [[sagen]], [[lehren]], [[gestehen]], [[besagen]], [[verständigen]], [[veranschaulichen]], [[Erklärung]], [[erläutern]], [[vermitteln]], [[angeben]], [[auslegen]], [[entschlüsseln]], [[rechtfertigen]], [[klarmachen]]
+''', [[deuten]], [[vormachen]], [[Antworten]], [[beibringen]], [[verantworten]], [[behaupten]], [[haupten]], [[Steuererklärung]], [[Auslegung]], [[aussagen]], [[beleuchten]], [[nämlich]], [[sagen]], [[lehren]], [[gestehen]], [[besagen]], [[verständigen]], [[veranschaulichen]], [[Erklärung]], [[erläutern]], [[vermitteln]], [[angeben]], [[auslegen]], [[entschlüsseln]], [[rechtfertigen]], [[klarmachen]], [[näherbringen]], [[abhandeln]]

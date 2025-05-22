@@ -1,1 +1,1 @@
-, [[ahnen]]
+, [[ahnen]], [[Wissen]]

@@ -1,1 +1,1 @@
-, [[Mehrwert]], [[Nachteil]]
+, [[Mehrwert]], [[Nachteil]], [[Defizit]]

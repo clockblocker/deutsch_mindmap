@@ -36,3 +36,5 @@ A: die [[Aufgabenstellung]], die [[Aufgabenstellungen]]
 G: der [[Aufgabenstellung]], der [[Aufgabenstellungen]]
 D: der [[Aufgabenstellung]], den [[Aufgabenstellungen]]
 , [[thematisieren]]
+
+#Feminin 

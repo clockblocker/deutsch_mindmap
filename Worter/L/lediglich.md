@@ -1,3 +1,5 @@
+[[Grad-Vergleich]]
+
 🤏 [[lediglich]], [ˈleːdɪklɪç]
 
 ---
@@ -11,7 +13,7 @@ dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwend
 ≠ [[mehr]], [[zusätzlich]], [[außerdem]], [[sondern]]
 
 ---
-only, merely, just
+ 🤏 [[lediglich]] *(only, merely, just)*
 только, лишь
 
 ---

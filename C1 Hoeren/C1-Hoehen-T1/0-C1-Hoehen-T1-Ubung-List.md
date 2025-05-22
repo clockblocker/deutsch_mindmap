@@ -1,7 +1,7 @@
 [[Hoeren-C1-Alle-Ubungen]]
 
 *100 - 2023 Mit Erfolg Modellsätzen*
-- [x] [[C1-Hoehen-T1-100-Text|100]] Gentrifizierung
+- [ ] [[C1-Hoehen-T1-100-Text|100]] Gentrifizierung
 - [ ] [[C1-Hoehen-T1-101-Text|101]]
 
 *200 - 2023 Prüfungstraining*

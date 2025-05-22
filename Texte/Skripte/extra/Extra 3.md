@@ -179,7 +179,7 @@ Findest du Millionäre super?
 Dann schreib uns eine E-Mail! Wir sind Nic und Sam – die Millionärs-Brüder.  
 SASCHA: Hah! Die haben [[einfach]] ihre Fotos auf das Auto [[geklebt]]!  
 ANNA: Das ist doch ein [[Witz]]! Und [[dafür]] bekommen sie E-Mails von 633 Frauen.  
-SASCHA: Ja, aber sie [[wissen]] noch nicht, dass sie 633 E-Mails haben. Oder?  
+SASCHA: Ja, aber sie [[Wissen]] noch nicht, dass sie 633 E-Mails haben. Oder?  
 ANNA: Nein….Das wissen sie nicht!  
 SASCHA: Komm, wir gehen ins Internet-Café. Ich hab’ eine Idee …  
 SAM: I can’t wait.  

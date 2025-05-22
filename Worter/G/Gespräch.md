@@ -30,4 +30,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gesprächs]], [[Gespräche]], [[Gesprächen]]
 
 ---
-#Substantiv #Neuter, [[Partygespräch]], [[Sondierungsgespräche]], [[Feedbackgespräch]], [[Meeting]], [[Kommunikation]], [[Argument]], [[Kundenbesuch]], [[Kundengespräch]]
+#Substantiv #Neuter, [[Partygespräch]], [[Sondierungsgespräche]], [[Feedbackgespräch]], [[Meeting]], [[Kommunikation]], [[Argument]], [[Kundenbesuch]], [[Kundengespräch]], [[Referat]], [[Abhandlung]]

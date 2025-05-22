@@ -50,3 +50,4 @@ G: der [[Tätigkeit]], der [[Tätigkeiten]]
 D: der [[Tätigkeit]], den [[Tätigkeiten]]
 
 #Feminin
+, [[Lehrerberuf]], [[Lehramt]]

@@ -30,7 +30,7 @@ G: des [[Anspruchs]], der [[Ansprüche]]
 D: dem [[Anspruch]], den [[Ansprüchen]]  
 
 ---
-[[ansprechen]], [[anspruchsvoll]], [[beanspruchen]], [[Anspruchsdenken]], [[anspruchslos]], [[recht]], [[fordern]], [[Spruch]]
+[[ansprechen]], [[anspruchsvoll]], [[beanspruchen]], [[Anspruchsdenken]], [[anspruchslos]], [[Recht]], [[fordern]], [[Spruch]]
 
 
 #Maskulin , [[Anteil]], [[Reklamation]], [[Erfordernis]]

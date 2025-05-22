@@ -26,3 +26,5 @@ D: der [[Auszählung]], den [[Auszählungen]]
 
 ---
 [[auszählen]], [[zählen]], [[Zählung]], [[auszählbar]], [[Wahlzählung]]
+
+#Feminin 

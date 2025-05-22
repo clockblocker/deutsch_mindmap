@@ -28,4 +28,4 @@ D: dem [[Betrag]], den [[Beträgen]]
 , [[belaufen]]
 
 
-#Maskulin , [[Förderbetrag]]
+#Maskulin , [[Förderbetrag]], [[Fehlbetrag]]

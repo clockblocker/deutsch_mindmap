@@ -8,7 +8,7 @@
 ≠ [[getrennt]], [[allein]], [[isoliert]], [[einzeln]]
 
 [[miteinander]]
-[[getrennt]][[vereint]][[beide]], [[einzelnen]], [[aneinander]], [[zu zweit]], [[einsam]], [[zusammenrechnen]], [[rechnen]], [[zusammenbrechen]], [[gemeinsam]], [[zusammenstellen]], [[auseinander]], [[entzwei]], [[wider]], [[zusammenschrauben]], [[zusammenschrumpfen]], [[Zusammenschluss]], [[einzelne]], [[insgesamt]], [[Zusammenhang]], [[Zusammenfassung]], [[zusammenfassen]]
+[[getrennt]][[vereint]][[beide]][[einzeln]], [[aneinander]], [[zu zweit]], [[einsam]], [[zusammenrechnen]], [[rechnen]], [[zusammenbrechen]], [[gemeinsam]], [[zusammenstellen]], [[auseinander]], [[entzwei]], [[wider]], [[zusammenschrauben]], [[zusammenschrumpfen]], [[Zusammenschluss]], [[einzelne]], [[insgesamt]], [[Zusammenhang]], [[Zusammenfassung]], [[zusammenfassen]]
 , [[bekommen]], [[samt]]
 
 

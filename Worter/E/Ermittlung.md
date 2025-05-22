@@ -1,1 +1,1 @@
-, [[ermitteln]], [[Auszählung]], [[Erkundung]]
+, [[ermitteln]], [[Auszählung]], [[Erkundung]], [[Berechnung]]

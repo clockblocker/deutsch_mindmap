@@ -14,27 +14,27 @@ a Buch 1  ??
 b Buch 2  ?
 c Buch 3  -
 
-2 Man [[erfährt]] etwas [[darüber]], wie die ==[[Natur]] auf den [[Klimawandel]] [[reagiert]].==  
+2 Man [[erfährt]] etwas [[darüber]], wie die [[Natur]] auf den [[Klimawandel]] [[reagiert]].  
 a Buch 1  
 b Buch 2  - 
 c Buch 3
 
-3 In dem Buch geht es um die ==[[Annäherung]] an die Natur.  ==
+3 In dem Buch geht es um die [[Annäherung]] an die Natur.  
 a Buch 1  -
 b Buch 2  
 c Buch 3
 
-4 Vor der ==[[Verharmlosung]] ==des [[Klimawandels]] wird [[gewarnt]].  
+4 Vor der [[Verharmlosung]] des [[Klimawandels]] wird [[gewarnt]].  
 a Buch 1  
 b Buch 2 -
 c Buch 3
 
-Es thematisiert die ==[[Ursache]]e des [[Waldsterben]]s.==
+Es thematisiert die [[Ursache]]e des [[Waldsterben]]s.
 a Buch 1  
 b Buch 2  
 c Buch 3  ? -
 
-6 Es werden auch ==[[zwischenmenschlich]]e [[Beziehung]]en== beschrieben.  
+6 Es werden auch [[zwischenmenschlich]]e [[Beziehung]]en beschrieben.  
 a Buch 1  - 
 b Buch 2  
 c Buch 3
@@ -66,9 +66,9 @@ Als Nächstes möchte ich euch das Sachbuch „Wald der Zukunft“ von Mansali J
 
 *[[C1-Hoehen-T1-200-Text#^11|^]]* Die Biologin Jawara zeigt beispielsweise [[anschaulich]], was passiert, wenn [[Zugvögel]] an ihrem Standort bleiben, aber im Winter kein [[Futter]] mehr finden können. ^11
 
-*[[C1-Hoehen-T1-200-Text#^12|^]]* [[Gleichzeitig]] erfährt man aber auch, dass die Natur [[recht]] [[robust]] ist und sich [[durchaus]] [[anpassen]] kann, wie frühere Klimaveränderungen [[gezeigt]] haben. ^12
+*[[C1-Hoehen-T1-200-Text#^12|^]]* [[Gleichzeitig]] erfährt man aber auch, dass die Natur [[Recht]] [[robust]] ist und sich [[durchaus]] [[anpassen]] kann, wie frühere Klimaveränderungen [[gezeigt]] haben. ^12
 
-*[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] [[wissen]]. ^13
+*[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] [[Wissen]]. ^13
 
 *[[C1-Hoehen-T1-200-Text#^14|^]]* Eine spannende und [[lehrreiche]] Lektüre, die ich [[wärmstens]] [[empfehlen]] kann. ^14
 

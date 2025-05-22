@@ -8,7 +8,7 @@
 *[[3 Soll man Geld spenden?#^2|^]]* Seit jeher hielt der gesellschaftliche Konsens jeder [[einigermaßen]] großen [[Gemeinschaft]] die monetäre [[Beteiligung]] jedes Teilnehmers an der gemeinsamen Sache für richtig. ^2
 
 ---
-= [[ziemlich]], [[recht]], [[verhältnismäßig]], [[ziemlich]]
+= [[ziemlich]], [[Recht]], [[verhältnismäßig]], [[ziemlich]]
 ≈ [[etwas]], [[halbwegs]], [[passabel]], [[akzeptabel]]
 ≠ [[sehr]], [[äußerst]], [[überaus]], [[gar nicht]]
 

@@ -5,7 +5,6 @@ die [[Einrichtungen]]
 
 ---
 b) Es sollten mehr [[Einrichtung]]en für Kinder [[gebaut]] werden.  
- 
 
 ---
 = [[Ausstattung]], [[Mobiliar]], [[Institution]] | [[Gründung]], [[Errichtung]]
@@ -18,7 +17,7 @@ facility, institution, furnishing | establishment, setup
 учреждение, обстановка | создание, учреждение
 
 ---
-[[einrichten]], [[Einrichter]], [[Einrichtungsgegenstand]], [[Einrichtungsstil]] | [[Einrichtung]]
+[[einrichten]], [[Einrichter]], [[Einrichtungsgegenstand]], [[Einrichtungsstil]] | [[Einrichtung]], [[Bildungseinrichtung]]
 
 ---
 [[ein]]|[[richt]]|[[ung]]

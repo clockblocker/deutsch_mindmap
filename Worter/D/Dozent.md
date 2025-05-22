@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Dozenten]], [[Dozents]], [[Dozentens]]
 Zusätzliche Informationen:
 - Typischerweise an Universitäten und Hochschulen tätig
 - Hält Vorlesungen, Seminare und Übungen
-- Hat in der Regel einen akademischen Grad (Doktor oder Habilitation)
+- Hat in der Regel einen akademischen Grad (Doktor oder Habilitation), [[Lernende]]

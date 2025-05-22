@@ -6,8 +6,9 @@
 > *[[Atom#^29|^]]* *Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.* ^29
 
 
-*[[nur-Symptombehandlung#^2|^]]* [[Langfristig]] braucht das Problem jedoch eine [[strukturelle]] Lösung. ^2
+*[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinde]]n, wie das Wohnungsproblem [[langfristig]] [[gelöst]] werden kann
 
+*[[nur-Symptombehandlung#^2|^]]* [[Langfristig]] braucht das Problem jedoch eine [[strukturelle]] Lösung. ^2
 
 
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^8|^]]* Nur so lässt sich [[langfristig]] die Gesundheit der [[Belegschaft]] [[sichern]] und ein Burnout [[verhindern]]. ^8

@@ -1,1 +1,1 @@
-[[Worter/E/Energie]], [[Kraft]]
+[[Worter/E/Energie]], [[Kraft]], [[Potenzrechnung]]

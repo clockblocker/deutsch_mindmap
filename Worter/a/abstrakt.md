@@ -1,1 +1,1 @@
-, [[anschauliche]], [[bezogen]], [[weltfremd]], [[naturgetreu]], [[greifbar]]
+, [[anschauliche]], [[bezogen]], [[weltfremd]], [[naturgetreu]], [[greifbar]], [[Abstraktionsvermögen]]

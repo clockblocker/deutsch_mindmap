@@ -5,6 +5,10 @@ sein [[begegnet]]
 ---
 Öh, nein. Ich weiß nicht. Ich meine, ich kannte Leute die ihm [[begegnet]] sind. Ich aber nicht.
 
+*[[C1-Hoehen-T2-201-Text#^16|^]]* *Wenn ich mir am [[Bildschirm]] [[ansehen]] kann, wie Mathematik auf die Natur [[anwendbar]] ist, wenn ich verstehe, wie uns komplizierte [[Gleichung]]en* 
+im [[Alltag]] [[begegnen]] können, 
+*dann bekomme ich einen anderen [[Zugang]] zur Mathematik*
+
 Also Männer, Es ist wichtig, dass ihr keine Angst zeigt, wenn ihr einem Feuerbändiger [[begegnet]]. 
 
 ---

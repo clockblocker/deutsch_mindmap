@@ -1,1 +1,1 @@
-, [[besonders]], [[Merkmal]], [[Eigenschaft]], [[Seltenheit]], [[Ausnahme]], [[Alltag]], [[Sonderform]], [[Eigenart]]
+, [[besonders]], [[Merkmal]], [[Eigenschaft]], [[Seltenheit]], [[Ausnahme]], [[Alltag]], [[Sonderform]], [[Eigenart]], [[Einzelheit]]

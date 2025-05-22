@@ -5,6 +5,8 @@
 ---
 Damit hat sie ein Thema angesprochen, das viele [[bewegt]]: Ihr Artikel wurde über 20.000 Mal [[geteilt]] und [[tausendfach]] kommentiert.  [[Den Nagel auf den Kopf treffen.md#^3|(Quelle: Den Nagel auf den Kopf treffen)]] 
 
+*[[C1-Hoehen-T2-201-Text#^40|^]]* Das [[entspricht]] [[etwa]] dem [[Tausendfachen]] der [[weltweiten]] [[Weizenernte]] eines Jahres
+
 ---
 = [[vervielfachen]], [[multiplizieren]]
 ≈ [[vergrößern]], [[steigern]], [[erweitern]]

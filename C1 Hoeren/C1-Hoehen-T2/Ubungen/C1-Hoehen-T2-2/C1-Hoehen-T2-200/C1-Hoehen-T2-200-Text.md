@@ -99,7 +99,7 @@ Sondern?
 
 
 ###### Moderator:  
-*[[C1-Hoehen-T2-200-Text#^21|^]]* Ja, aber gehören denn sprachliche, musische, empathische [[Begabung]]en usw. nicht eher zu Soft Skills, die man sich durch Lernen, Üben und [[Erfahrung]] auch [[aneignen]] kann, die einem also nicht unbedingt in die [[Wiege]] [[gelegt]] wurden? ^21
+*[[C1-Hoehen-T2-200-Text#^21|^]]* Ja, aber gehören denn sprachliche, musische, empathische [[Begabung]]en usw. nicht eher zu Soft Skills, die man sich durch Lernen, Üben und [[Erfahrung]] auch [[aneignen]] kann, die einem also nicht unbedingt in die [[Wiexge]] [[gelegt]] wurden? ^21
 
 
 ###### Frau Avar:  
@@ -122,7 +122,7 @@ Kann man Intelligenz eigentlich am [[Gesicht]] [[ablesen]]?
 
 *[[C1-Hoehen-T2-200-Text#^28|^]]* Wir haben Studierenden Fotos von Männern und Frauen [[vorgelegt]] und die Probandinnen und Probanden mussten [[angeben]], wen sie für intelligent [[hielten]]. ^28
 
-*[[C1-Hoehen-T2-200-Text#^29|^]]* [[Erstaunlicherweise]] stimmten [[Wahrnehmung]] und [[gemessene]] Intelligenz vor allem bei den Fotos von Männern überein. ^29
+*[[C1-Hoehen-T2-200-Text#^29|^]]* [[Erstaunlicherweise]] [[stimmten]] [[Wahrnehmung]] und [[gemessene]] Intelligenz vor allem bei den Fotos von Männern überein. ^29
 
 *[[C1-Hoehen-T2-200-Text#^30|^]]* Bei Frauen [[gestaltete]] sich das [[schwieriger]]. ^30
 

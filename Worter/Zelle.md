@@ -24,3 +24,6 @@ D: der [[Zelle]], den [[Zellen]]
 
 ---
 [[zellig]], [[Zellteilung]], [[Zellwand]], [[zellulärer]], [[Zellstruktur]], [[Telefonzelle]], [[Telefonkabine]], [[Nervenzellenverbindung]]
+
+
+#Feminin 

@@ -4,6 +4,8 @@ die [[Bildschirme]]
 ---
 Auf dem [[Bildschirm]] [[erscheint]] ein [[seltsames]] Symbol.
 
+*[[C1-Hoehen-T2-201-Text#^16|^]]* Wenn ich mir am [[Bildschirm]] [[ansehen]] kann, wie Mathematik auf die Natur [[anwendbar]] ist, wenn ich verstehe, wie uns komplizierte [[Gleichung]]en im [[Alltag]] [[begegnen]] können, dann bekomme ich einen anderen [[Zugang]] zur Mathematik. ^16
+
 
 ---
 = [[Display]], [[Monitor]], [[Anzeige]]
@@ -24,3 +26,5 @@ D: dem [[Bildschirm]], den [[Bildschirmen]]
 
 ---
 [[bilden]], [[schirmen]], [[bildschirmfreundlich]], [[Bildschirmarbeit]], [[Bildschirmgerät]], [[Texte/Misc/Anki]], [[Großleinwand]], [[Leinwand]]
+
+#Neuter 

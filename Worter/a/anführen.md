@@ -1,2 +1,2 @@
 , [[führen]], [[leiten]], [[vorsitzen]], [[erwähnen]]
-, [[vorangehen]]
+, [[vorangehen]], [[vorausgehen]]

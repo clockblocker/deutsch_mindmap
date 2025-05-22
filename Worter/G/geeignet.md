@@ -35,4 +35,4 @@ Neuter: [[geeignetes]], [[geeigneteres]], [[geeignetestes]]
 Plural: [[geeigneten]], [[geeigneteren]], [[geeignetesten]]  
 
 [[Eignung]], [[Geeignetheit]], [[Tauglichkeit]], [[Qualifikation]], [[Fähig]]
-, [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]], [[angemessen]], [[unangemessen]], [[einsatzfähig]], [[wünschenswert]], [[praktikabel]], [[veranlagt]], [[aneignen]]
+, [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]], [[angemessen]], [[unangemessen]], [[einsatzfähig]], [[wünschenswert]], [[praktikabel]], [[veranlagt]], [[aneignen]], [[anwendbar]], [[adäquat]]

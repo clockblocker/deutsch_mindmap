@@ -9,7 +9,6 @@
 2) ❤️ [[zusätzlich]] *(additionally, extra, furthermore)*
 3) ❤️ [[steigend]] *(rising; data-driven)
 
-
 #### Equality Gradient — identical → analog  
 🟢 [[gleich]] *(same: A ≡ B)*  
 🔁 [[dieselbe]] *(the very same: copy-paste twin)*  
@@ -71,7 +70,6 @@
 📦 [[mehrere]] *(several: more than two)*  
 📊 [[zahlreich]] *(numerous: big head-count)*  
 🎈 [[manche]] *(some: subset only)*  
-
 #### Quantity Trend — Increase (strong → mild)  
 💪 [[verstärkt]] *(intensified: amp dial up)*  
 🌱 [[wachsend]] *(growing: upward curve)*  
@@ -90,6 +88,7 @@
 ✂️ [[verkürzt]] *(shortened: cut back in length or amount)*  
 🚧 [[begrenzt]] *(limited: cap in place)*  
 📉 [[Reduktion]] *(reduction: noun for cutting down)*  
+ 🤏 [[lediglich]] *(only, merely, just)*
 
 #### Comparison Tools & Acts  
 🔍 [[Vergleich]] *(comparison: side-by-side test)*  

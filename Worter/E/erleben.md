@@ -5,6 +5,10 @@ haben [[erlebt]]
 ---
 So einen schönen Tag [[erlebt]] man nur einmal im Leben.
 
+*[[C1-Hoehen-T2-201-Text#^32|^]]* Viele [[Studierende]] auf [[Lehramt]] haben in ihrer Schulzeit schon selbst [[erlebt]], dass der Mathematikunterricht allem abstrakt [[durchgeführt]] wurde und sind damit gut [[zurechtgekommen]]
+
+*[[C1-Hoehen-T2-201-Text#^24|^]]* In den unteren Klassenstufen habe ich noch nie [[erlebt]], dass die Kinder Angst vor Mathe haben
+
 Im DDR-Museum können die Besucher ein Stück DDR-Kultur [[erleben]]: Wie ist das Gefühl, wenn die Staatssicherheit die Wohnung abhört?
 
 Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. Egal, wie man sich [[anstellt]], es klappt nicht! Da muss der [[Wurm]] [[drin]] sein …

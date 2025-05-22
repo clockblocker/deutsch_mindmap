@@ -19,7 +19,7 @@ men's suffrage, male voting rights
 
 ---
 [[Männer]]+[[Wahlrecht]]
-[[Männer]]|[[wahl]]|[[recht]]
+[[Männer]]|[[wahl]]|[[Recht]]
 
 ---
 N: das [[Männerwahlrecht]], die [[Männerwahlrechte]]  
