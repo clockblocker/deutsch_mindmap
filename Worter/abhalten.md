@@ -32,4 +32,4 @@ PI: [[abhaltend]], PII: [[abgehalten]], Zu+inf: [[abzuhalten]]
 [[abhalten]] - [[ab]] = [[halten]] / to hold, to conduct, to prevent
 
 ---
-[[Abhaltung]], [[Veranstaltung]], [[Durchführung]], [[Verhinderung]], [[abhaltbar]], [[verleiten]]
+[[Abhaltung]], [[Veranstaltung]], [[Durchführung]], [[Verhinderung]], [[abhaltbar]], [[verleiten]], [[verführen]]

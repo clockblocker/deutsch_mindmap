@@ -22,4 +22,4 @@ Morpheme:
 [[Worter/Ü/über]][[ig]][[ens]]
 
 ---
-Übrigens kann man das Adverb [[übrigens]] an unterschiedlichen Stellen im Satz verwenden, um zusätzliche Informationen oder Nebengedanken einzubringen., [[sonst]], [[umschreiben]]
+Übrigens kann man das Adverb [[übrigens]] an unterschiedlichen Stellen im Satz verwenden, um zusätzliche Informationen oder Nebengedanken einzubringen., [[sonst]], [[umschreiben]], [[apropos]]

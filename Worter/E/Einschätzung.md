@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
  ! [[Passiv-Ingredient-POV]] !
 --> [[🗣️ Ingredient-Meinung]] <--
 --> 🤝 [[Ingredient-Interaktion]] <--

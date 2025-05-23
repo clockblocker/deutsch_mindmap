@@ -55,4 +55,4 @@ sie, [[verklären]], [[verklärten]], [[verklären]], [[verklärten]], [[verklä
 Adjektive: [[verklärend]], [[verklärender]], [[verklärendst]]
 
 ---
-[[verklärender]], [[verklärendes]], [[verklärende]], [[verklärenden]], [[verklärendem]], [[verklärenderer]], [[verklärenderes]], [[verklärendere]], [[verklärenderen]], [[verklärenderem]], [[verklärendster]], [[verklärendstes]], [[verklärendste]], [[verklärendsten]], [[verklärendstem]]
+[[verklärender]], [[verklärendes]], [[verklärende]], [[verklärenden]], [[verklärendem]], [[verklärenderer]], [[verklärenderes]], [[verklärendere]], [[verklärenderen]], [[verklärenderem]], [[verklärendster]], [[verklärendstes]], [[verklärendste]], [[verklärendsten]], [[verklärendstem]], [[pathologisieren]]

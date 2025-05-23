@@ -1,1 +1,1 @@
-, [[Trauma]], [[Heilung]], [[Sucht]]
+, [[Trauma]], [[Heilung]], [[Sucht]], [[Suchtform]]

@@ -1,1 +1,1 @@
-, [[auseinanderzuhalten]], [[Differenz]], [[Abgrenzung]], [[differenziert]]
+, [[auseinanderzuhalten]], [[Differenz]], [[Abgrenzung]], [[differenziert]], [[differenzieren]]

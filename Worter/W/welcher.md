@@ -2,7 +2,8 @@
 
 ---
 #### [[Grammatik-Pronomen-Interrogative]] 
-- [[Welcher]] Tag ist heute?
+[[Welcher]] Tag ist heute?
+*[[C1-Hoehen-T2-203-Text#^29|^]]* Es wird nämlich nicht darüber diskutiert, die [[exzessiv]] genutzt werden, sondern [[welche]]
 
 #### [[Grammatik-Pronomen-Relativ]] 
 - Der Tag, [[welcher]] so lang war… 
@@ -15,3 +16,5 @@
 | Gen  | [[welches]]      | [[welcher]]     | [[welches]]    | [[welcher]]    |
 
 , [[der]], [[Grammatik-Pronomen-Relativ-Selbständige]], [[derselbe]], [[derjenige]]
+
+

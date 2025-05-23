@@ -1,1 +1,1 @@
-, [[aussehen]], [[erscheinen]], [[auftreten]], [[dastehen]]
+, [[aussehen]], [[erscheinen]], [[auftreten]], [[dastehen]], [[auftauchen]]

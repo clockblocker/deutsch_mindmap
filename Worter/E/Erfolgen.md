@@ -2,11 +2,13 @@
 🔄 [[erfolgen]], [ɛɐ̯ˈfɔlɡən] | [[erfolgte]], sein [[erfolgt]]
 
 ---
- Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Worter/Herausforderung]], die so groß sind, dass man daraus ein Sprichwort machen muss.
+*[[C1-Hoehen-T2-203-Text#^38|^]]* Solche [[Verhaltensweise]]n müssen über einen [[Zeitraum]] von mindestens einem Jahr [[erfolgen]], um als [[exzessiv]]es [[Verhalten]] zu gelten
 
 *[[C1-Hoehen-T2-201-Text#^21|^]]* Es [[erfolgt]] [[seitens]] der Politik keine [[adäquate]] finanzielle [[Würdigung]]
 
-29 Der [[vollständige]] [[Ersatz]] des Menschen durch Roboter [[erfolgt]] in den nächsten Jahrzehnten.  b? 
+Der [[vollständige]] [[Ersatz]] des Menschen durch Roboter [[erfolgt]] in den nächsten Jahrzehnten.  b? 
+
+Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderung]], die so groß sind, dass man daraus ein Sprichwort machen muss.
 
 
 ---

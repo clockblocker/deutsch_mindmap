@@ -1,1 +1,1 @@
-, [[rechtsprechend]]
+, [[rechtsprechend]], [[urteilen]]

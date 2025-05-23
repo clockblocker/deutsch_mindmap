@@ -24,4 +24,4 @@ D: der [[Zahlung]], den [[Zahlungen]]
 
 ---
 [[zahlen]], [[Zahler]], [[Zahlerin]], [[zahlbar]], [[zahlungspflichtig]]
-, [[Ausgabe]], [[Zahlungskräftig]], [[Einmalzahlung]], [[Geldleistung]], [[Sonderzahlung]]
+, [[Ausgabe]], [[Zahlungskräftig]], [[Einmalzahlung]], [[Geldleistung]], [[Sonderzahlung]], [[Zahlungsmittel]]

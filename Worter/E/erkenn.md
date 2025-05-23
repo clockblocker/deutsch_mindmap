@@ -1,1 +1,1 @@
-, [[wiedererkennen]], [[anerkennen]]
+, [[wiedererkennen]], [[anerkennen]], [[Anerkennung]]

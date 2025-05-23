@@ -22,7 +22,7 @@ to sniff out, to detect by sniffing
 [[Schnüffeln]], [[Schnüffler]]
 
 ---
-[[er]]|[[schnüffel]]|[[n]]
+[[er]]|[[Schnüffel]]|[[n]]
 [[Erschnüffeln]]
 
 

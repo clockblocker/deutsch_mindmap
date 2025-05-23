@@ -1,1 +1,1 @@
-[[handel]], [[Vertrag]], [[einigen]]
+[[Handel]], [[Vertrag]], [[einigen]]

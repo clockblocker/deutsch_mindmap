@@ -25,5 +25,5 @@ D: dem [[Abkommen]], den [[Abkommen]]
 
 ---
 [[abkommen]], [[abkommend]], [[vereinbaren]], [[vertraglich]]
-[[handel]], [[Vertrag]]
+[[Handel]], [[Vertrag]]
 , [[Werbevertrag]]

@@ -1,1 +1,1 @@
-, [[eifersüchtig]], [[Sucht]]
+, [[eifersüchtig]], [[Sucht]], [[Internetsucht]], [[Computerspielsucht]], [[Suchtform]]

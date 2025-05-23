@@ -1,1 +1,1 @@
-, [[aussichtslos]], [[enttäuscht]], [[frustriert]]
+, [[aussichtslos]], [[enttäuscht]], [[frustriert]], [[Hoffnung]]

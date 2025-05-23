@@ -27,4 +27,4 @@ PI: [[vertragend]], PII: [[vertragen]], Zu+inf: [[zu vertragen]]
 [[vertragen]] - [[ver]] = [[tragen]] / to tolerate, to endure, to get along
 
 ---
-[[Vertragung]], [[Toleranz]], [[Duldung]], [[verträglich]], [[Verträglichkeit]], [[fürchten]]
+[[Vertragung]], [[Toleranz]], [[Duldung]], [[verträglich]], [[Verträglichkeit]], [[fürchten]], [[Vertrag]]

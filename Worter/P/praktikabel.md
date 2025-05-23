@@ -25,4 +25,4 @@ practicable, feasible
 Adjektive: [[praktikabel]], [[praktikabler]], [[praktikabelst]]
 
 ---
-[[praktikabeler]], [[praktikabeles]], [[praktikabele]], [[praktikabelen]], [[praktikabelem]], [[praktikablerer]], [[praktikableres]], [[praktikablere]], [[praktikableren]], [[praktikablerem]], [[praktikabelster]], [[praktikabelstes]], [[praktikabelste]], [[praktikabelsten]], [[praktikabelstem]]
+[[praktikabeler]], [[praktikabeles]], [[praktikabele]], [[praktikabelen]], [[praktikabelem]], [[praktikablerer]], [[praktikableres]], [[praktikablere]], [[praktikableren]], [[praktikablerem]], [[praktikabelster]], [[praktikabelstes]], [[praktikabelste]], [[praktikabelsten]], [[praktikabelstem]], [[umsetzbar]]

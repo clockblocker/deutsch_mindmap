@@ -1,1 +1,1 @@
-, [[befinden]]
+, [[befinden]], [[pathologisieren]]

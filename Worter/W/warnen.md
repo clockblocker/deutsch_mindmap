@@ -46,4 +46,4 @@ sie, [[warnen]], [[warnten]], [[warnen]], [[warnten]], [[warnen]]
 Adjektive: [[warnend]], [[warnender]], [[warnendst]]
 
 ---
-[[warnender]], [[warnendes]], [[warnende]], [[warnenden]], [[warnendem]], [[warnenderer]], [[warnenderes]], [[warnendere]], [[warnenderen]], [[warnenderem]], [[warnendster]], [[warnendstes]], [[warnendste]], [[warnendsten]], [[warnendstem]]
+[[warnender]], [[warnendes]], [[warnende]], [[warnenden]], [[warnendem]], [[warnenderer]], [[warnenderes]], [[warnendere]], [[warnenderen]], [[warnenderem]], [[warnendster]], [[warnendstes]], [[warnendste]], [[warnendsten]], [[warnendstem]], [[verführen]]

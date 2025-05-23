@@ -1,28 +1,47 @@
-😋 [[gieren]], [ˈɡiːʁən], [[gierig]]
-[[gierte]]
-haben [[gegiert]]
+🤤 [[gieren]], [ˈɡiːʁən](https://youglish.com/pronounce/gieren/german) → [[gierte]] → [[gegiert]]
 
 ---
+*[[C1-Hoehen-T2-203-Text#^23|^]]* Likes und Smilies spielen hier auch eine enorme Rolle, denn wir [[gieren]] nach [[Anerkennung]] durch andere
 
 ---
-Synonyme: [[begehren]], [[verlangen]], [[sich sehnen]], [[lechzen]]
-Antonyme: [[ablehnen 1]], [[verabscheuen]], [[ignorieren]]
+= [[begehren]], [[verlangen]], [[lechzen]]
+≈ [[wünschen]], [[streben]], [[ersehnen]]
+≠ [[verachten]], [[ablehnen]], [[verschmähen]]
 
 ---
-Übersetzung: to long for, to crave, to yearn
+to crave, to lust after  
+жаждать, алкать
 
 ---
-Morpheme: [[gier]][[en]]
- #Verb #Untrennbar
+[[Gier]], [[gierig]], [[Gierhals]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[giere]] | [[gierte]] | - | [[giere]] | [[gierte]] |
-| Du | [[gierst]] | [[giertest]] | [[gier]] | [[gierest]] | [[giertest]] |
-| Er/sie/es | [[giert]] | [[gierte]] | - | [[giere]] | [[gierte]] |
-| Wir | [[gieren]] | [[gierten]] | - | [[gieren]] | [[gierten]] |
-| Ihr | [[giert]] | [[giertet]] | [[giert]] | [[gieret]] | [[giertet]] |
-| Sie | [[gieren]] | [[gierten]] | [[gieren Sie]] | [[gieren]] | [[gierten]] |
+---
+[[gier]]|[[en]]
+[[gieren]]
 
-Partizip I: [[gierend]], Partizip II: [[gegiert]]
-, [[ablehnen]]
+
+---
+###### [[gieren]] `nach` jD
+- `Wonach` [[gierst]] du?
+- `Nach` Ruhm und Ehre.
+
+- `Nach` was [[gieren]] sie?
+- `Nach` dem Erfolg.
+
+- Warum [[hat]] er `danach` [[gegiert]]?
+- Weil er es unbedingt wollte.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[giere]], [[gierte]], [[giere]], [[gierte]], -
+du, [[gierst]], [[gierst]], [[gierest]], [[gierst]], [[gier]]
+er, [[gier]], [[gierte]], [[giere]], [[gierte]], -
+wir, [[gieren]], [[giereten]], [[gieren]], [[giereten]], [[gieren]]
+ihr, [[gieret]], [[gieret]], [[gieret]], [[gieret]], [[gieret]]
+sie, [[gieren]], [[giereten]], [[gieren]], [[giereten]], [[gieren]]
+
+*Zu + Inf*: zu [[gieren]], *P2*: [[gegiert]]
+Adjektive: [[gierend]], [[gierender]], [[gierendst]]
+
+---
+[[gierender]], [[gierendes]], [[gierende]], [[gierenden]], [[gierendem]], [[gierenderer]], [[gierenderes]], [[gierendere]], [[gierenderen]], [[gierenderem]], [[gierendster]], [[gierendstes]], [[gierendste]], [[gierendsten]], [[gierendstem]]

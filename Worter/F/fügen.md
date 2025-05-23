@@ -1,2 +1,2 @@
 , [[anfügen]], [[verfügen]]
-, [[einfügen]], [[zusammensetzen]], [[zufügen]]
+, [[einfügen]], [[zusammensetzen]], [[zufügen]], [[beugen]]

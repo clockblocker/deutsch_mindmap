@@ -1,1 +1,1 @@
-, [[brauchen]], [[genießen]], [[löffeln]], [[freien]], [[Küssen]]
+, [[brauchen]], [[genießen]], [[löffeln]], [[freien]], [[Küssen]], [[gieren]]

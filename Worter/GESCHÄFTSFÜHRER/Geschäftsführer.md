@@ -1,1 +1,1 @@
-, [[Manager]], [[Geschäftsführung]]
+, [[Manager]], [[Geschäftsführung]], [[Geschäft]]

@@ -16,7 +16,7 @@ Antonyme: [[ablehnen 1]], [[ignorieren]], [[verweifen]]
 Übersetzung: to negotiate, to discuss
 
 ---
-Morpheme: [[ver]][[handel]][[en]]
+Morpheme: [[ver]][[Handel]][[en]]
  #Verb  #Trennbar
  
 ---
@@ -33,4 +33,4 @@ Morpheme: [[ver]][[handel]][[en]]
 
 Partizip I: [[verhandelnd]], Partizip II: [[verhandelt]]
 
-[[verhandelen]] - [[ver]] = [[handel]][[en]], [[ablehnen]]
+[[verhandelen]] - [[ver]] = [[Handel]][[en]], [[ablehnen]]

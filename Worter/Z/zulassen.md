@@ -3,6 +3,9 @@
 ✅ [[zulassen]], [ˈtsuːˌlasn̩](https://youglish.com/pronounce/zulassen/german) → [[ließ zu]] → [[zugelassen]]
 
 ---
+*[[C1-Hoehen-T2-203-Text#^19|^]]* So [[entsteht]] ein Profil über jeden Nutzer, welches sogar [[Prognose]]n über [[künftig]]es [[Kaufverhalten]] [[zulässt]]
+
+---
 = [[genehmigen]], [[erlauben]], [[gestatten]]
 ≈ [[bewilligen]], [[autorisieren]], [[akzeptieren]]
 ≠ [[verbieten]], [[untersagen]], [[verweigern]]

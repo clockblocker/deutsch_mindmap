@@ -1,11 +1,8 @@
 🔴 🧾 die [[Angelegenheit]], [ˌanɡəˈleːɡn̩haɪ̯t]
 die [[Angelegenheiten]]
 
-
 ---
-, [[Sache]], [[angehen]]
-
-[[1 ADHD#^15|^]] erledigt [[Angelegenheiten]] nicht, außer unter hohem äußeren [[Termindruck]]. ^15
+[[1 ADHD#^15|^]] [[erledigt]] [[Angelegenheit]]en nicht, außer unter hohem äußeren [[Termindruck]]
 
 ---
 = [[Sache]], [[Worter/T/thema]], [[Frage]]
@@ -26,3 +23,5 @@ D: der [[Angelegenheit]], den [[Angelegenheiten]]
 
 ---
 [[angelegen]], [[angelegenlich]], [[gelegen]], [[Gelegenheit]]
+
+#Feminin 

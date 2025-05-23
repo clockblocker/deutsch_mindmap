@@ -43,4 +43,4 @@ sie, [[setzen frei]], [[setzten frei]], [[setzen frei]], [[setzten frei]], [[set
 Adjektive: [[freisetzend]], [[freisetzender]], [[freisetzendst]]
 
 ---
-[[freisetzender]], [[freisetzendes]], [[freisetzende]], [[freisetzenden]], [[freisetzendem]], [[freisetzenderer]], [[freisetzenderes]], [[freisetzendere]], [[freisetzenderen]], [[freisetzenderem]], [[freisetzendster]], [[freisetzendstes]], [[freisetzendste]], [[freisetzendsten]], [[freisetzendstem]]
+[[freisetzender]], [[freisetzendes]], [[freisetzende]], [[freisetzenden]], [[freisetzendem]], [[freisetzenderer]], [[freisetzenderes]], [[freisetzendere]], [[freisetzenderen]], [[freisetzenderem]], [[freisetzendster]], [[freisetzendstes]], [[freisetzendste]], [[freisetzendsten]], [[freisetzendstem]], [[ausschütten]]

@@ -1,42 +1,41 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 --> ⏱️ [[Temporal-Status]] <--
 --> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <--
 
-🔴 die [[Erwartung]], [ˈʔɛɐ̯ˌvɑʁtʊŋ]
-die [[Erwartungen]]
+🤔 die [[Erwartung]], [ɛɐ̯ˈvaʁtʊŋ](https://youglish.com/pronounce/Erwartung/german)
 
 ---
 Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] erfüllt. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
 
-0. Die [[Erwartung]]en der Protagonisten werden [[enttäuscht]]
+Die [[Erwartung]]en der Protagonisten werden [[enttäuscht]]
 
 *[[C1-Lesen-T4-100-Text#^4|^]]* Durch finanzielle [[Unabhängigkeit]] ist man frei von den [[Erwartungen]] anderer ^4
 
 
-b) [[enttäuschte]] viele [[Erwartung]]en.  
+[[enttäuschte]] viele [[Erwartung]]en.
+
+---
+= [[Hoffnung]], [[Vermutung]], [[Erwartung]]
+≈ [[Vorstellung]], [[Annahme]], [[Erwartung]]
+≠ [[Überraschung]], [[Enttäuschung]]
+
+---
+expectation, anticipation  
+ожидание, предвкушение
+
+---
+[[erwarten]], [[wartend]], [[Erwartungswert]]
+
+---
+[[erwart]]|[[ung]]
+[[Erwartung]]
 
 
 ---
-Synonyme:
-- [[Hoffnung]], [[Vorhersage]], [[Prognose]], [[Vermutung]], [[Antizipatpation]]
+N: die [[Erwartung]], die [[Erwartungen]]
+A: die [[Erwartung]], die [[Erwartungen]]
+G: der [[Erwartung]], der [[Erwartungen]]
+D: der [[Erwartung]], den [[Erwartungen]]
 
----
-expectation
-
----
-[[Er]][[wart]][[ung]]
-
----
-Case: Singular, Plural  
-Nominative: die [[Erwartung]], die [[Erwartungen]]  
-Accusative: die [[Erwartung]], die [[Erwartungen]]  
-Genitive: der [[Erwartung]], der [[Erwartungen]]  
-Dative: der [[Erwartung]], den [[Erwartungen]]  
-
----
-[[erwarten]], [[erwartungsvoll]], [[unerwartet]], [[erwartungsgemäß]]
-
-
-, [[Hoffnung]], [[entgegenfiebern]]
-, [[Anspruch]], [[Neugier]], [[Befürchtung]], [[Ausblick]]
-
-#Feminin 
+#Feminin , [[Zuversicht]]

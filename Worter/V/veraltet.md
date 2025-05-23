@@ -29,4 +29,4 @@ outdated, obsolete
 Adjektive: [[veraltet]], [[veralteter]], [[veraltetst]]
 
 ---
-[[veralteter]], [[veraltetes]], [[veraltete]], [[veralteten]], [[veraltetem]], [[veralteterer]], [[veralteteres]], [[veraltetere]], [[veralteteren]], [[veralteterem]], [[veraltetster]], [[veraltetstes]], [[veraltetste]], [[veraltetsten]], [[veraltetstem]]
+[[veralteter]], [[veraltetes]], [[veraltete]], [[veralteten]], [[veraltetem]], [[veralteterer]], [[veralteteres]], [[veraltetere]], [[veralteteren]], [[veralteterem]], [[veraltetster]], [[veraltetstes]], [[veraltetste]], [[veraltetsten]], [[veraltetstem]], [[künftig]]

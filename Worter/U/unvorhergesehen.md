@@ -6,7 +6,7 @@
 ---
 = [[unerwartet]], [[unvermutet]], [[plötzlich]]
 ≈ [[überraschend]], [[unangemeldet]], [[unvorhersehbar]]
-≠ [[vorhergesehen]], [[erwartet]], [[voraussichtlich]], [[erwartungsgemäß]],
+≠ [[Vorhergesehen]], [[erwartet]], [[voraussichtlich]], [[erwartungsgemäß]],
 
 ---
 unforeseen  
@@ -16,7 +16,7 @@ unforeseen
 [[vorhersehen]], [[vorhergesagt]], [[Vorhersage]]
 
 ---
-[[un]]|[[vorhergesehen]]
+[[un]]|[[Vorhergesehen]]
 [[unvorhergesehen]]
 
 

@@ -1,1 +1,1 @@
-, [[Exzess]]
+, [[Exzess]], [[Internetsucht]], [[Computerspielsucht]]

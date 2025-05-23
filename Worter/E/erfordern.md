@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 🤔 [[erfordern]], [ɛɐ̯ˈfɔʁdɐn](https://youglish.com/pronounce/erfordern/german) → [[erforderte]] → [[erfordert]]
 
 ---

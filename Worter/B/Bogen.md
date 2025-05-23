@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Bogens]], [[Bogen]], [[Bögen]], [[Bögen]]
 
 ---
 #Substantiv #Maskulin, [[s1 e1]], [[Heft]], [[Schleuder]]
-, [[Schwert]], [[Spirale]]
+, [[Schwert]], [[Spirale]], [[beugen]]

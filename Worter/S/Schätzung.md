@@ -16,9 +16,6 @@ die [[Schätzungen]]
 ≈ [[Annahme]], [[Vermutung]], [[Prognose]], [[Berechnung]]
 ≠ [[Messung]], [[Feststellung]], [[Bestimmung]]
 
-, [[Berechnung]], [[Nebenkostenabrechnung]], [[schätzen]], [[unterschätzen]], [[Auszählung]]
-, [[Selbsteinschätzung]], [[Einschätzung]], [[Wertschätzung]], [[unschätzbar]]
-
 ---
 estimation, assessment  
 оценка

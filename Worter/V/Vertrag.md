@@ -1,33 +1,31 @@
-🔵 der [[Vertrag]], [fɛɐ̯ˈtʁaːk]
-die [[Verträge]]
+🤝 🔵 der [[Vertrag]], [fɛɐ̯ˈtʁaːk](https://youglish.com/pronounce/Vertrag/german) | die [[Verträge]]
+
+---
+*[[C1-Hoehen-T2-203-Text#^18|^]]* Und da [[belohnt]], egal ob man spielt oder [[chattet]], die sogenannten Cookies spionieren genau unsere Interessen und unser [[Kaufverhalten]] aus, denn die [[Betreiber]] der Websites haben mit der Verbindung einen [[Vertrag]] zum [[Schnüffelgeschäft]]:
+
+Der [[Kaufmann]] brach den [[Vertrag]]. (Er [[verletzte]] ihn.)
 
 
 ---
-239. Durch welche [[Verträge]] schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen [[Wirtschaftsgemeinschaft]] zusammen? (69%)
-	- [ ] durch die „Hamburger Verträge“
-	- [x] durch die „Römischen [[Verträge]]“
-
-Der Kaufmann brach den [[Vertrag]]. (Er [[verletzte]] ihn.)
-
-Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]. Martin ist [[sauer]]: „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“ 
-
-237. 2007 wurde das 50-jährige [[Jubiläum]] der „Römischen [[Verträge]]“ [[gefeiert]]. Was war der [[Inhalt]] der Verträge? (78%)
-	- [x] Gründung der Europäischen [[Wirtschaftsgemeinschaft]] (EWG)
-
+= [[Abkommen]], [[Vereinbarung]], [[Kontrakt]],  [[Verpflichtung]], [[Vereinbarung]]
+≈ [[Übereinkunft]], [[Abmachung]], [[Bündnis]]
+≠ [[Streit]], [[Zerwürfnis]]
 
 ---
-Synonyme:
-- [[Abkommen]], [[Kontrakt]], [[Vereinbarung]], [[Pakt]], [[Übereinkommen]]
+contract, agreement  
+договор, контракт
 
 ---
-Übersetzung: contract, agreement
+[[vertragen]], [[Vertrags]], [[Vertraglich]], [[verträglich]], [[Vertragslaufzeit]],[[Werbevertrag]]
 
 ---
-Morpheme:
 [[Vertrag]]
 
----
-Einzigartige mögliche Formen: [[Vertrags]], [[Verträge]], [[Verträgen]], [[Vertrag]]
 
 ---
-#Substantiv #Maskulin, [[vertragen]], [[Verpflichtung]], [[verträglich]], [[Vertragslaufzeit]], [[Werbevertrag]]
+N: der [[Vertrag]], die [[Verträge]]
+A: den [[Vertrag]], die [[Verträge]]
+G: des [[Vertrags]], der [[Verträge]]
+D: dem [[Vertrag]], den [[Verträgen]]
+
+#Maskulin 

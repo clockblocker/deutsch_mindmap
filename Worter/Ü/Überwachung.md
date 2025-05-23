@@ -1,1 +1,1 @@
-, [[Aufsicht]], [[Einhaltung]], [[überwachen]], [[Regulierung]]
+, [[Aufsicht]], [[Einhaltung]], [[überwachen]], [[Regulierung]], [[Schnüffelgeschäft]]

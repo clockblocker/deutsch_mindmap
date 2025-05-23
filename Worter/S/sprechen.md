@@ -5,6 +5,8 @@ haben [[gesprochen]]
 ---
 Sprich mit der Kamera wie mit einer schönen Frau …  
 
+*[[C1-Hoehen-T2-203-Text#^25|^]]* [[Apropos]] Gehirn: `Ab` wann kann man denn `von` einer Online-[[Sucht]] [[sprechen]]?
+
 (Hängt mit der Zunge an seinem Stab und [[spricht]] undeutlich)
 
 ---

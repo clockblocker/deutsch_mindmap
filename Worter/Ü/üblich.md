@@ -1,12 +1,15 @@
 --> 💸 [[Grad-Preis]] <--
+
 🔄 [[üblich]], [ˈʔyːblɪç] ≠ [[unüblich]]
 
 ---
-“als dank” ist eine feste [[Wendung]], die im deutschen [[üblich]] ist (wie “aus [[Dankbarkeit]]”).
+“als dank” ist eine feste [[Wendung]], die im deutschen [[üblich]] ist (wie “aus [[Dankbarkeit]]”)
 
-[[2 Unter Druck nach oben#^10|^]] Die [[üblichen]] [[Voraussetzungen]] [[erfüllen]] die Bewerber beim Nivea-Konzern [[ohnehin]] meistens – eine gute Universität oder Business-School, Auslandspraktika, [[fließendes]] Englisch und noch ein paar [[zusätzliche]] Zertifikate. ^10
+*[[C1-Hoehen-T2-203-Text#^11|^]]* Social Media und Kommunikation sind bei den Frauen [[üblich]]er
 
-[[nackt.md#^3|^]]     ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]] ^3
+*[[2 Unter Druck nach oben#^10|^]]* Die [[üblichen]] [[Voraussetzung]]en [[erfüllen]] die [[Bewerber]] beim Nivea-Konzern [[ohnehin]] meistens – eine gute Universität oder Business-School, Auslandspraktika, [[fließendes]] Englisch und noch ein paar [[zusätzliche]] Zertifikate
+
+*[[nackt.md#^3|^]]* ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]]
 
 ---
 = [[gewöhnlich]], [[normal]], [[gängig]], [[normal]], 

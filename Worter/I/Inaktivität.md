@@ -1,2 +1,2 @@
 , [[Worter/S/Sport]]
-, [[Öffnungszeit]], [[Ergebnisorientierung]], [[Bewegungsmangel]], [[Tat]], [[Produktionssystem]], [[Untätigkeit]]
+, [[Öffnungszeit]], [[Ergebnisorientierung]], [[Bewegungsmangel]], [[Tat]], [[Produktionssystem]], [[Untätigkeit]], [[Verhaltensweise]]

@@ -37,6 +37,7 @@
 #### 🟠 [[Teilweise]] [[Relevant]] – Moderate / Conditional Value
 [[grundsätzlich]] *(generally)*
 ✅ [[genügend]] *(sufficient, enough)*  
+[[schlechthin]] *(simply, absolutely)*  
 [[von Bedeutung]] *(of importance; context-dependent)*
 [[bedeutsam]] *(contextually significant; softer than „bedeutend“)*
 

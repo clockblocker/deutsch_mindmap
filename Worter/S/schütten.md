@@ -30,3 +30,4 @@ PI: [[schüttend]], PII: [[geschüttet]], Zu+inf: [[zuschütten]]
 [[Schüttung]], [[Schüssel]], [[schütteln]], [[ausgießen]], [[einschenken]]
 
 , [[gießen]]
+, [[ausschütten]]

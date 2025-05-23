@@ -13,7 +13,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[ver]][[handel]][[ung]]
+[[ver]][[Handel]][[ung]]
 
 ---
 Einzigartige mögliche Formen: [[Verhandlung]], [[Verhandlung]], [[Verhandlung]], [[Verhandlungen]], [[Verhandlung]], [[Verhandlung]], [[Verhandlung]], [[Verhandlungen]]

@@ -1,1 +1,1 @@
-[[reden]], [[unterhalten]], [[rumquatschen]]
+[[reden]], [[unterhalten]], [[rumquatschen]], [[chatten]]

@@ -1,45 +1,84 @@
-👟 [[treten]] + Akk, [ˈtreːtn̩]
-[[trat]]
-haben/sein [[getreten]]
+👣 [[treten]], [ˈtʁeːtn̩](https://youglish.com/pronounce/treten/german) → [[trat]] → [[getreten]] | 🎭 [[treten]], [ˈtʁeːtn̩] → [[trat]] → [[getreten]]
 
 ---
-*und schlug den Hund, der heulte sehr,*  
-*und [[trat]] und schlug ihn immer mehr.*  
-
+*[[C1-Hoehen-T2-203-Text#^39|^]]* Weil immer neue Technologien [[auftauchen]], [[tritt]] sofort die Diskussion der Abhängigkeit davon in den [[Vordergrund]]
 
 ([[Tritt]] vor) Seit 100 Jahren hat niemand von uns einen Luftbändiger gesehen
 
----
-[[betreten]] - [[be]] = [[treten]] /  to enter, to step into
-[[eintreten]] - [[ein]] = [[treten]] / to enter, to step in
-[[auftreten]] - [[Worter/A/auf]] = [[treten]] / to appear, to occur, to perform
-[[beitreten]] - [[bei]] = [[treten]] / to join, to become a member
-[[übertreten]] - [[Worter/Ü/über]] = [[treten]] / to transgress, to violate, to overstep
-[[vertreten]] - [[ver]] = [[treten]] / to represent, to substitute, to stand in for
-
+*und schlug den Hund, der heulte sehr,*  
+*und [[trat]] und schlug ihn immer mehr.*  
 
 ---
-Synonyme: [[schreiten]], [[steigen]], [[stampfen]], [[betreten]], [[auftreten]]
-Antonyme: [[stehenbleiben]], [[verweilen]], [[ruhen]]
+= [[schreiten]], [[gehen]], [[laufen]] | [[auftreten]], [[erscheinen]],  [[stupsen]], [[antreten]], [[radeln]], [[Strampeln]]
+≈ [[bewegen]], [[sich fortbewegen]] | [[erscheinen]], [[vorkommen]]
+≠ [[stehenbleiben]], [[verweilen]] | [[verschwinden]], [[ausbleiben]]
 
 ---
-Übersetzung: to step, to tread, to kick
+to step, to kick | to appear, to perform  
+ступать, пинать | выступать, появляться
 
 ---
-Morpheme: [[tret]][[en]]
- #Verb  #Untrennbar
- 
+[[Tritt]], [[Treter]], [[Betreten]] | [[Auftritt]], [[Treten]], [[beitreten]], [[übertreten]], [[vertreten]]
+
 ---
+[[tret]]|[[en]]
+[[treten]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[trete]] | [[trat]] | - | [[trete]] | [[träte]] |
-| Du | [[trittst]] | [[tratst]] | [[tritt]] | [[tretest]] | [[trätest]] |
-| Er/sie/es | [[tritt]] | [[trat]] | - | [[trete]] | [[träte]] |
-| Wir | [[treten]] | [[traten]] | - | [[treten]] | [[träten]] |
-| Ihr | [[tretet]] | [[tratet]] | [[tretet]] | [[tretet]] | [[trätet]] |
-| Sie | [[treten]] | [[traten]] | [[treten Sie]] | [[treten]] | [[träten]] |
 
-Partizip I: [[tretend]], Partizip II: [[getreten]]
+---
+###### [[treten]] jN
+- Was [[trittst]] du?
+- Den Ball.
 
-, [[beitreten]], [[übertreten]], [[vertreten]], [[stupsen]], [[antreten]], [[radeln]], [[Strampeln]]
+- Was [[treten]] wir?
+- Die Bremse.
+
+- Warum [[hat]] er gegen die Tür [[getreten]]?
+- Weil er wütend war.
+
+---
+###### [[treten]] `in` jA
+- `Worin` [[trittst]] du?
+- `In` eine Pfütze.
+
+- `In` was [[sind]] wir [[getreten]]?
+- `In` eine Falle.
+
+- Warum [[ist]] er `in` das Fettnäpfchen [[getreten]]?
+- Weil er unachtsam war.
+
+---
+###### [[treten]] `gegen` jN
+- `Wogegen` [[trittst]] du?
+- `Gegen` den Baum.
+
+- `Gegen` wen [[trittst]] du?
+- `Gegen` den Gegner.
+
+- Warum [[hat]] er `dagegen` [[getreten]]?
+- Weil er sich verteidigen wollte.
+
+---
+###### [[treten]] [[auf]] jA
+- Worauf [[trittst]] du?
+- [[Auf]] den Rasen.
+
+- Worauf [[sind]] wir [[getreten]]?
+- [[Auf]] eine Mine.
+
+- Warum [[ist]] er [[auf]] den Knopf [[getreten]]?
+- Um die Maschine zu starten.
+
+---
+ich, [[trete]], [[trat]], [[trete]], [[träte]], -
+du, [[trittst]], [[tratst]], [[tretst]], [[trätest]], [[tritt]]
+er, [[tritt]], [[trat]], [[trete]], [[träte]], -
+wir, [[treten]], [[traten]], [[treten]], [[träten]], [[treten]]
+ihr, [[tretet]], [[tretet]], [[tretet]], [[trätet]], [[tretet]]
+sie, [[treten]], [[traten]], [[treten]], [[träten]], [[treten]]
+
+*Zu + Inf*: zu [[treten]], *P2*: [[getreten]]
+Adjektive: [[tretend]], [[tretender]], [[tretendst]]
+
+---
+[[tretender]], [[tretendes]], [[tretende]], [[tretenden]], [[tretendem]], [[tretenderer]], [[tretenderes]], [[tretendere]], [[tretenderen]], [[tretenderem]], [[tretendster]], [[tretendstes]], [[tretendste]], [[tretendsten]], [[tretendstem]]

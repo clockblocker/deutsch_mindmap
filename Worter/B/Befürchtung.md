@@ -1,8 +1,10 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 😟 🔴 die [[Befürchtung]], [bəˈfʏʁçtʊŋ](https://youglish.com/pronounce/Befürchtung/german) | [[befürchten]]
 die [[Befürchtungen]]
 
 ---
-*[[Golfstorm#^2|^]]* Diese [[Befürchtungen]] [[äußerten]] Wissenschaftler in den vergangenen Jahren immer wieder. ^2
+*[[Golfstorm#^2|^]]* Diese [[Befürchtungen]] [[äußerten]] Wissenschaftler in den vergangenen Jahren immer wieder
 
 ---
 = [[Angst]], [[Besorgnis]], [[Furcht]], [[Sorgen]]
@@ -26,3 +28,5 @@ N: die [[Befürchtung]], die [[Befürchtungen]]
 A: die [[Befürchtung]], die [[Befürchtungen]]
 G: der [[Befürchtung]], der [[Befürchtungen]]
 D: der [[Befürchtung]], den [[Befürchtungen]]
+
+#Feminin 

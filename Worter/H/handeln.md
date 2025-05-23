@@ -26,7 +26,7 @@ Antonyme: [[passiv sein]], [[untätig sein]], [[stillhalten]]
 Übersetzung: to act, to deal, to trade
 
 ---
-Morpheme: [[handel]][[en]]
+Morpheme: [[Handel]][[en]]
  #Verb  #Untrennbar
 
 ---
@@ -34,7 +34,7 @@ Morpheme: [[handel]][[en]]
 | Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
 | --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
 | Ich       | [[handle]]           | [[handelte]]          | -                 | [[handle]]             | [[handelte]]            |
-| Du        | [[handelst]]         | [[handeltest]]        | [[handel]]        | [[handelest]]          | [[handeltest]]          |
+| Du        | [[handelst]]         | [[handeltest]]        | [[Handel]]        | [[handelest]]          | [[handeltest]]          |
 | Er/sie/es | [[handelt]]          | [[handelte]]          | -                 | [[handle]]             | [[handelte]]            |
 | Wir       | [[handeln]]          | [[handelten]]         | -                 | [[handeln]]            | [[handelten]]           |
 | Ihr       | [[handelt]]          | [[handeltet]]         | [[handelt]]       | [[handelet]]           | [[handeltet]]           |

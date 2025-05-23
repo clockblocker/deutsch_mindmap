@@ -1,1 +1,1 @@
-, [[Verkauf]]
+, [[Verkauf]], [[Geschäft]]

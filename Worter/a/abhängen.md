@@ -1,43 +1,56 @@
-🛠️[[abhängen]] von + Dat., [ˈapˌhɛŋən]
-[[hing ab|hing ab]]
-haben [[abgehangen]]
+🤔 [[abhängen]], [ˈapˌhɛŋən](https://youglish.com/pronounce/abhängen/german) → [[hing ab]] → [[abgehangen]]
 
 ---
-„Zugang zu Hochschulen darf nicht vom [[Einkommen]] [[abhängen]].“
+„Zugang zu Hochschulen darf nicht `vom` [[Einkommen]] [[abhängen]].“
+
+*[[C1-Hoehen-T2-203-Text#^28|^]]* Sind bestimmte Menschen wirklich `vom` Internet [[abhängig]] oder nur von bestimmten [[Inhalt]]en?
 
 *[[C1-Hoehen-T2-100-Text#^26|^]]* Besteht nicht die Möglichkeit, dass Menschen, die aus verschiedenen Gründen nicht [[erwerbstätig]] sind oder sein können, durch das [[bedingungslos]]e Grundeinkommen dazu [[verleitet]] werden, in ihrer [[derzeitig]]en Situation zu [[verbleiben]] und dadurch möglicherweise von anderen [[abhängig]]er zu werden?
 
-*[[C1-Lesen-T4-102-Text#^22|^]]* Außerdem bekommen die [[Fremdfirmen]] [[Einsicht]] in [[betrieblich]]e Interna und man macht sich [[abhängig]] von ihnen. ^22
+*[[C1-Lesen-T4-102-Text#^22|^]]* Außerdem bekommen die [[Fremdfirmen]] [[Einsicht]] in [[betrieblich]]e Interna und man macht sich [[abhängig]] `von` ihnen. ^22
 
 
-Weil ihre [[Ehre]] nicht davon [[abhing]], dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
-
-Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist [[mutig]] und hat [[weder]] Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]]. 
-
-- Alles [[hängt]] [[von]] deiner Entscheidung [[ab]].  
-- [[Wovon]] [[hängt]] es [[ab]]?   
-- Es [[hängt]] [[davon]] [[ab]], ob wir noch genug Zeit haben werden oder nicht.
+Weil ihre [[Ehre]] nicht `davon` [[abhing]], dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es reicht!
 
 
 ---
-Synonyme: [[beeinflussen]], [[bestimmen]], [[determinieren]], [[bedingen]], [[selbst]], [[selbständig]], [[geschlechtsabhängig]], [[Abhängigkeit]], [[eigenständig]], [[Unabhängigkeit]]
-Antonyme: [[unabhängig sein]], [[selbstständig sein]]
+= [[abhängig sein]], [[beruhen]], [[abhängen von]]
+≈ [[abhängen von]], [[abhängig machen]], [[beeinflussen]]
+≠ [[unabhängig sein]], [[unabhängig machen]]
 
 ---
-Übersetzung: to depend on, to hang down
+to depend on  
+зависеть от
 
 ---
-Morpheme: [[ab]][[häng]][[en]]
- #Verb  #Trennbar
+[[Abhängigkeit]], [[abhängig]], [[Abhängigkeitserkrankung]] [[Abhängigkeit]], [[Unabhängigkeit]], [[Hang]], [[unabhängig]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[hänge ab]] | [[hing ab]] | - | [[hänge ab]] | [[hinge ab]] |
-| Du | [[hängst ab]] | [[hingst ab]] | [[häng ab]] | [[hängest ab]] | [[hingest ab]] |
-| Er/sie/es | [[hängt ab]] | [[hing ab]] | - | [[hänge ab]] | [[hinge ab]] |
-| Wir | [[hängen ab]] | [[hingen ab]] | - | [[hängen ab]] | [[hingen ab]] |
-| Ihr | [[hängt ab]] | [[hingt ab]] | [[hängt ab]] | [[hänget ab]] | [[hinget ab]] |
-| Sie | [[hängen ab]] | [[hingen ab]] | [[hängen Sie ab]] | [[hängen ab]] | [[hingen ab]] |
+---
+[[ab]]|[[häng]]|[[en]]
+[[ab]] + [[hängen]]
 
-Partizip I: [[abhängend]], Partizip II: [[abgehangen]]
-[[abhängen]] - [[ab]] = [[hängen]], [[fernab]], [[s1 e1]], [[Hang]], [[Abhängigkeit]], [[Unabhängigkeit]], [[unabhängig]]
+
+---
+###### [[abhängen]] `von` jD
+- `Wovon` [[hängt]] das ab?
+- `Von` deinen Entscheidungen.
+
+- `Von` wem [[hängt]] das ab?
+- `Von` unseren Eltern.
+
+- Warum [[hat]] es `davon` [[abgehangen]]?
+- Weil es wichtig war.
+
+---
+ich, [[hänge ab]] / [[hänge ab]], [[hing ab]], [[hänge ab]], [[hinge ab]], -
+du, [[hängst ab]], [[hingst ab]], [[hängst ab]], [[hingest ab]], [[häng ab]] / [[hänge ab]]
+er, [[hängt ab]], [[hing ab]], [[hänge ab]], [[hinge ab]], -
+wir, [[hängen ab]], [[hingen ab]], [[hängen ab]], [[hingen ab]], [[hängen ab]]
+ihr, [[hängt ab]], [[hingt ab]], [[hängt ab]], [[hinget ab]], [[hängt ab]]
+sie, [[hängen ab]], [[hingen ab]], [[hängen ab]], [[hingen ab]], [[hängen ab]]
+
+*Zu + Inf*: [[abzuhängen]], *P2*: [[abgehangen]]
+Adjektive: [[abhängend]], [[abhängender]], [[abhängendst]]
+
+---
+[[abhängender]], [[abhängendes]], [[abhängende]], [[abhängenden]], [[abhängendem]], [[abhängenderer]], [[abhängenderes]], [[abhängendere]], [[abhängenderen]], [[abhängenderem]], [[abhängendster]], [[abhängendstes]], [[abhängendste]], [[abhängendsten]], [[abhängendstem]]

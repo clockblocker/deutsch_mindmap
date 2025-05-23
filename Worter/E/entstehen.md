@@ -3,12 +3,16 @@
 ---
 *[[Aschenputtel.md#^2|^]]* Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]
 
+*[[C1-Hoehen-T2-203-Text#^19|^]]* So [[entsteht]] ein Profil über jeden Nutzer, welches sogar [[Prognose]]n über [[künftig]]es [[Kaufverhalten]] [[zulässt]]
+
 Viele Internetnutzer sind sich der [[Gefahr]]en bewusst, die durch das [[Veröffentlichen]] von Privatfotos [[entstehen]]
 
 *[[C1-Hoehen-T2-201-Text#^9|^]]* 15 Schreiben und Rechnen sind [[geschichtlich]] [[gesehen]] parallel ==[[entstanden]]==
 *(15 Writing and arithmetic [[historically]] [[speaking]] ==arose== in parallel.)*
 
 *[[C1-Hoehen-T2-100-Text#^34|^]]* Ganz [[abgesehen]] davon werden ja durch die Digitalisierung der Arbeitswelt immer mehr unattraktive Arbeiten von Maschinen [[übernommen]] und andere Jobs werden [[entstehen]]
+
+*[[C1-Hoehen-T2-203-Text#^18|^]]* Und da [[belohnt]], egal ob man spielt oder [[chattet]], die sogenannten Cookies [[ausspionieren|spionieren]] genau unsere Interessen und unser [[Kaufverhalten]] aus, denn die [[Betreiber]] der Websites haben mit der Verbindung einen [[Vertrag]] `zum` [[Schnüffelgeschäft]]: So [[entsteht]] ein Profil über jeden Nutzer, welches sogar [[Prognos]]en über künftiges [[Kaufverhalten]] [[zulässt]].die [[Betreiber]]
 
 *[[C1-Lesen-T4-102-Text#^17|^]]* Sollten dann bestimmte Bereiche noch ins [[Ausland]] [[verlagert]] werden, wegen eines [[niedrigeren]] [[Lohnniveaus]] und einer billigeren [[Güterproduktion]], [[entsteht]] gegenüber [[einheimischen]] Firmen ein klarer [[Exportvorteil]], was zu einem [[ungleich]]en Wettbewerb schafft.
 
@@ -109,4 +113,4 @@ PI: [[entstehend]], PII: [[entstanden]], Zu+inf: [[entstehen]]
 
 ---
 [[Entstehung]], [[Entstehungsgeschichte]], [[Entstehungsjahr]], [[entstehend]], [[entstanden]]
-, [[verschwinden]], [[resultieren]], [[sprießen]], [[anfallen]], [[hineingeboren]]
+, [[verschwinden]], [[resultieren]], [[sprießen]], [[anfallen]], [[hineingeboren]], [[auftauchen]]

@@ -1,16 +1,13 @@
-🔮 [[künftig]], [ˈkʏnftɪç](https://youglish.com/pronounce/künftig/german) ≠ [[vergangen]]
-
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
 
+🔮 [[künftig]], [ˈkʏnftɪç](https://youglish.com/pronounce/künftig/german) ≠ [[vergangen]]
 
 ---
-
 *[[Golfstorm#^4|^]]* Die sogenannte Atlantische meridionale [[Umwälzzirkulation]] (AMOC) sorgt in Nordeuropa für ein [[gemäßigtes]] Klima, könnte [[künftig]] aber schwächer [[ausfallen]]. ^4
 
 
-
-
-
+*[[C1-Hoehen-T2-203-Text#^19|^]]* So [[entsteht]] ein Profil über jeden Nutzer, 
+welches sogar [[Prognose]]n über [[künftig]]es [[Kaufverhalten]] [[zulässt]]
 
 ---
 = [[zukünftig]], [[später]], [[demnächst]]

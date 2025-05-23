@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 --> [[Ingredient-Bedürfnis]] <--
 
 ✅ 🟢 das [[Erfordernis]], [ɛɐ̯ˈfɔʁdɐnɪs](https://youglish.com/pronounce/Erfordernis/german)

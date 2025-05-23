@@ -27,4 +27,4 @@ D: dem [[Betrieb]], den [[Betrieben]]
 [[Haushalt]]
 , [[Anlage]], [[Bedienung]], [[Betriebssport]]
 
-#Maskulin , [[Betriebskosten]], [[Betriebszugehörigkeit]], [[betriebseigen]], [[Systemabsturz]], [[Betriebsgeheimnis]]
+#Maskulin , [[Betriebskosten]], [[Betriebszugehörigkeit]], [[betriebseigen]], [[Systemabsturz]], [[Betriebsgeheimnis]], [[Betreiber]]

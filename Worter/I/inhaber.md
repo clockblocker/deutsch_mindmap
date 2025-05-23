@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Inhabers]], [[Inhabern]], [[Inhaber]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Betreiber]]

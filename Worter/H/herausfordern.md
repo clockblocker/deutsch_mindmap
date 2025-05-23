@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 🥊 [[herausfordern]], [hɛˈʁaʊ̯sˌfɔʁdɐn](https://youglish.com/pronounce/herausfordern/german) → [[forderte heraus]] → haben [[herausgefordert]]
 
 ---
@@ -57,4 +59,4 @@ sie, [[fordern heraus]], [[forderten heraus]], [[fordern heraus]], [[forderten h
 Adjektive: [[herausfordernd]], [[herausfordernder]], [[herausforderndst]]
 
 ---
-[[herausfordernder]], [[herausforderndes]], [[herausfordernde]], [[herausfordernden]], [[herausforderndem]], [[herausfordernderer]], [[herausfordernderes]], [[herausforderndere]], [[herausfordernderen]], [[herausfordernderem]], [[herausforderndster]], [[herausforderndstes]], [[herausforderndste]], [[herausforderndsten]], [[herausforderndstem]]
+[[herausfordernder]], [[herausforderndes]], [[herausfordernde]], [[herausfordernden]], [[herausforderndem]], [[herausfordernderer]], [[herausfordernderes]], [[herausforderndere]], [[herausfordernderen]], [[herausfordernderem]], [[herausforderndster]], [[herausforderndstes]], [[herausforderndste]], [[herausforderndsten]], [[herausforderndstem]], [[Aufforderung]]

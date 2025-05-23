@@ -1,7 +1,7 @@
 😵 [[überfordern]], [ˈyːbɐˌfɔrdɐn] | [[überforderte]], haben [[überfordert]]
 
 ---
-*[[3  Ein Selbstversuch als Hobbybäuerin#^42|^]]* Ich kann jedem, der sich in [[solchen]] Situationen [[überfordert]] fühlt, nur raten, nicht zu perfektionistisch an eine Sache heranzugehen. ^42
+*[[3  Ein Selbstversuch als Hobbybäuerin#^42|^]]* Ich kann jedem, der sich in [[solchen]] Situationen [[überfordert]] fühlt, nur raten, nicht zu perfektionistisch an eine Sache heranzugehen
 
 ---
 = [[überlasten]], [[überanstrengen]], [[überstrapazieren]]

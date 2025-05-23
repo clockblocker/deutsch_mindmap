@@ -1,7 +1,7 @@
 👃 [[schnüffeln]] an den, [ˈʃnʏfl̩n] | [[schnüffelte]], haben [[geschnüffelt]]
 
 ---
-[[Eigenlob stinkt.md#^7|^]] „Weißt du was, Peter? Eigenlob stinkt!“, sagt sie. Peter [[verstummt]] nachdenklich. Dann [[schnüffelt]] er an seinen [[Achseln]]. ^7
+[[Eigenlob stinkt.md#^7|^]] „Weißt du was, Peter? Eigenlob stinkt!“, sagt sie. Peter [[verstummt]] nachdenklich. Dann [[schnüffelt]] er an seinen [[Achseln]]
 
 ---
 = [[riechen]], [[wittern]], [[schnuppern]]
@@ -17,7 +17,7 @@ to sniff, to snoop
 
 ---
 ich: [[schnüffele]], [[schnüffelte]], –, [[schnüffele]], [[schnüffelte]]
-du: [[schnüffelst]], [[schnüffeltest]], [[schnüffele]] | [[schnüffel]], [[schnüffeltest]]
+du: [[schnüffelst]], [[schnüffeltest]], [[schnüffele]] | [[Schnüffel]], [[schnüffeltest]]
 er/sie/es: [[schnüffelt]], [[schnüffelte]], –, [[schnüffele]], [[schnüffelte]]
 wir: [[schnüffeln]], [[schnüffelten]], [[schnüffeln wir|schnüffeln]], [[schnüffeln]], [[schnüffelten]]
 ihr: [[schnüffelt]], [[schnüffeltet]], [[schnüffelt]], [[schnüffelt]], [[schnüffeltet]]
@@ -25,8 +25,9 @@ ihr: [[schnüffelt]], [[schnüffeltet]], [[schnüffelt]], [[schnüffelt]], [[sch
 PI: [[schnüffelnd]], PII: [[geschnüffelt]], Zu+inf: [[zu schnüffeln]]
 
 ---
-[[schnüffeln]] - [[schnüffel]] = [[n]] / to sniff, to snoop
+[[schnüffeln]] - [[Schnüffel]] = [[n]] / to sniff, to snoop
 
 ---
 [[Schnüffeln]], [[Schnüffler]], [[schnüffelig]]
-, [[Erschnüffeln]]
+, [[Erschnüffeln]], [[Schnüffelgeschäft]]
+

@@ -1,1 +1,1 @@
-, [[Weniger]], [[verringern]]
+[[verringern]]

@@ -7,6 +7,8 @@ der [[Laden]] - store
 
 Eigentlich [[versteht]] Uli viel von Computern, aber hier ist er wirklich [[ratlos]]. Also bringt er den [[Rechner]] zurück in den [[Laden]]. 
 
+*[[C1-Hoehen-T2-203-Text#^21|^]]* Ja, und wir [[laden]] sogar Fotos auf sozialen Netzwerken hoch, obwohl wir wissen, dass diese [[missbräuchlich]] genutzt werden können. ^21
+
 
 
 ---
@@ -39,4 +41,4 @@ Partizip I: [[ladend]], Partizip II: [[geladen]]
 [[laden]] - [[la]] = [[d]]en, [[abfeuern]], [[Aufrufen]]
 
 
-#Maskulin , [[Spielzeuggeschäft]], [[Boutique]], [[herunterladen]]
+#Maskulin , [[Spielzeuggeschäft]], [[Boutique]], [[herunterladen]], [[Geschäft]]

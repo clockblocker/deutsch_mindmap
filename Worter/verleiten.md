@@ -1,7 +1,11 @@
 😈 [[verleiten]], [fɛɐ̯ˈlaɪ̯tn̩](https://youglish.com/pronounce/verleiten/german) → [[verleitete]] → [[verleitet]]
 
 ---
-*[[C1-Hoehen-T2-100-Text#^26|^]]* Besteht nicht die Möglichkeit, dass Menschen, die aus verschiedenen Gründen nicht [[erwerbstätig]] sind oder sein können, durch das [[bedingungslos]]e Grundeinkommen dazu [[verleitet]] werden, in ihrer [[derzeitig]]en Situation zu [[verbleiben]] und dadurch möglicherweise von anderen [[abhängig]]er zu werden?
+*[[C1-Hoehen-T2-203-Text#^13|^]]* Es gibt nun aber auch Applikationen, also Apps, die uns dazu [[verleiten]], dass wir immer länger dranbleiben?
+
+*[[C1-Hoehen-T2-100-Text#^26|^]]* *Besteht nicht die Möglichkeit, dass Menschen, die aus verschiedenen Gründen nicht [[erwerbstätig]] sind oder sein können, durch das [[bedingungslos]]e Grundeinkommen* 
+dazu [[verleitet]] werden, in ihrer [[derzeitig]]en Situation zu [[verbleiben]] und dadurch möglicherweise von anderen [[abhängig]]er zu werden?
+
 
 ---
 = [[verführen]], [[anlocken]], [[versuchen]]

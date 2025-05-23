@@ -28,7 +28,7 @@ Antonyme: [[vernachlässigen]], [[ignorieren]], [[ablehnen 1]]
 Übersetzung: to treat, to handle
 
 ---
-Morpheme: [[be]][[handel]][[n]]
+Morpheme: [[be]][[Handel]][[n]]
  #Verb  #Trennbar
 
 ---

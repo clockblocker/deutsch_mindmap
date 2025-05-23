@@ -44,4 +44,4 @@ sie, [[beruhen]], [[beruhten]], [[beruhen]], [[beruhten]], [[beruhen]]
 Adjektive: [[beruhend]], [[beruhender]], [[beruhendst]]
 
 ---
-[[beruhender]], [[beruhendes]], [[beruhende]], [[beruhenden]], [[beruhendem]], [[beruhenderer]], [[beruhenderes]], [[beruhendere]], [[beruhenderen]], [[beruhenderem]], [[beruhendster]], [[beruhendstes]], [[beruhendste]], [[beruhendsten]], [[beruhendstem]]
+[[beruhender]], [[beruhendes]], [[beruhende]], [[beruhenden]], [[beruhendem]], [[beruhenderer]], [[beruhenderes]], [[beruhendere]], [[beruhenderen]], [[beruhenderem]], [[beruhendster]], [[beruhendstes]], [[beruhendste]], [[beruhendsten]], [[beruhendstem]], [[abhängen]]

@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 ➕ 🔴 die [[Vorausberechnung]], [foˈʁaʊ̯sbəˌʁɛçnʊŋ](https://youglish.com/pronounce/Vorausberechnung/german)
 die [[Vorausberechnungen]]
 

@@ -1,1 +1,1 @@
-, [[Machtmissbrauch]]
+, [[Machtmissbrauch]], [[missbräuchlich]]

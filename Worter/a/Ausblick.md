@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 🔭 🔵 der [[Ausblick]], [ˈaʊ̯sblɪk](https://youglish.com/pronounce/Ausblick/german)
 die [[Ausblicke]]
 

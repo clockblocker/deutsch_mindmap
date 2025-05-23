@@ -1,3 +1,5 @@
+[[Grad-Gewicht]]
+
 💯 [[schlechthin]], [ˈʃlɛçthɪn](https://youglish.com/pronounce/schlechthin/german)
 
 ---
@@ -9,7 +11,7 @@
 ≠ [[keineswegs]], [[überhaupt nicht]]
 
 ---
-simply, absolutely  
+[[schlechthin]] *(simply, absolutely)*  
 просто, безусловно
 
 ---

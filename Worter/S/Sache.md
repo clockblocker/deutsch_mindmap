@@ -26,4 +26,4 @@ Genitive: der [[Sache]], der [[Sachen]]
 Dative: der [[Sache]], den [[Sachen]]  
 
 ---
-[[sachlich]], [[Sachverhalt]], [[Sachkenntnis]], [[sachgemäß]], [[Sachbearbeiter]], [[Ursache]]
+[[sachlich]], [[Sachverhalt]], [[Sachkenntnis]], [[sachgemäß]], [[Sachbearbeiter]], [[Ursache]], [[Geschäft]]

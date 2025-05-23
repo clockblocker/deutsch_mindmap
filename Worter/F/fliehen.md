@@ -46,4 +46,4 @@ sie, [[fliehen]], [[flohen]], [[fliehen]], [[flöhen]], [[fliehen]]
 Adjektive: [[fliehend]], [[fliehender]], [[fliehendst]]
 
 ---
-[[fliehender]], [[fliehendes]], [[fliehende]], [[fliehenden]], [[fliehendem]], [[fliehenderer]], [[fliehenderes]], [[fliehendere]], [[fliehenderen]], [[fliehenderem]], [[fliehendster]], [[fliehendstes]], [[fliehendste]], [[fliehendsten]], [[fliehendstem]]
+[[fliehender]], [[fliehendes]], [[fliehende]], [[fliehenden]], [[fliehendem]], [[fliehenderer]], [[fliehenderes]], [[fliehendere]], [[fliehenderen]], [[fliehenderem]], [[fliehendster]], [[fliehendstes]], [[fliehendste]], [[fliehendsten]], [[fliehendstem]], [[räumen]]

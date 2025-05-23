@@ -1,1 +1,1 @@
-, [[Realisierung]]
+, [[Realisierung]], [[pathologisieren]]

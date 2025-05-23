@@ -30,4 +30,4 @@ PI: [[verzeihend]], PII: [[verziehen]], Zu+inf: [[zu verzeihen]]
 
 ---
 [[Verzeihung]], [[verzeihlich]], [[verzeihbar]]
-, [[rächen]]
+, [[rächen]], [[urteilen]]

@@ -27,3 +27,5 @@ D: dem [[Lob]], den [[Loben]]
 ---
 [[loben]], [[loblich]], [[Lobeshymne]], [[Eigenlob]]
 , [[Beleidigung]], [[Nachrede]], [[Verleumdung]], [[Beschwerde]], [[Beschimpfung]], [[Spot]], [[ausloben]], [[Würdigung]]
+
+#Neuter

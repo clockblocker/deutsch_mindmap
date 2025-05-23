@@ -1,1 +1,1 @@
-, [[unter]], [[überordnen]], [[untergeordnet]]
+, [[unter]], [[überordnen]], [[untergeordnet]], [[beugen]]

@@ -40,4 +40,4 @@ PI: [[veröffentlichend]], PII: [[veröffentlicht]], Zu+inf: [[zu veröffentlich
 , [[öffentlich]]
 , [[kundtun]], [[aussenden]], [[ankündigen]], [[weitergeben]]
 
-#Neuter 
+#Neuter , [[preisgeben]]

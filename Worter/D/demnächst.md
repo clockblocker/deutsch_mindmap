@@ -19,4 +19,4 @@ Morpheme:
 [[dem]][[nächst]]
 
 ---
-#Adverb, [[Extra 8]], [[kurzfristig]]
+#Adverb, [[Extra 8]], [[kurzfristig]], [[künftig]]

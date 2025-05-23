@@ -25,3 +25,6 @@ N: die [[Geschäftsidee]], die [[Geschäftsideen]]
 A: die [[Geschäftsidee]], die [[Geschäftsideen]]  
 G: der [[Geschäftsidee]], der [[Geschäftsideen]]  
 D: der [[Geschäftsidee]], den [[Geschäftsideen]]
+
+
+#Feminin

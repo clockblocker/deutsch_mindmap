@@ -1,1 +1,1 @@
-, [[Seltenheit]]
+, [[Seltenheit]], [[Alltagsverhaltensweise]]

@@ -1,34 +1,41 @@
-das [[Geschäft]]
-[[Geschäfte]]
+🏢 | 🤝 das [[Geschäft]], [ɡəˈʃɛft](https://youglish.com/pronounce/Geschäft/german)
 
 ---
- Man kann zum Beispiel das Fahrrad statt des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, [[anstatt]] in modischen [[Geschäften]] ständig [[Neues]] zu [[erwerben]].
+Man kann zum Beispiel das Fahrrad statt des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, [[anstatt]] in modischen [[Geschäften]] ständig [[Neues]] zu [[erwerben]].
 
+Man kann zum Beispiel das Fahrad statt des Autos als Verrkehrsmittel nutzuen der Kleidung in Secong-Hand-Läden kausen, anstatt im modlichen Geschäften ständig Neues zu erweben 
+
+*[[C1-Hoehen-T2-203-Text#^14|^]]* Das ist natürlich ein [[riesig]]es [[Geschäft]]
 
 Das [[Geschäft]] schließt heute schon um fünf Uhr.
 
 Man soll ins [[Geschäft]] gehen, viel Essen und viele Getränke kaufen.
 
-163. In welchem Jahr [[zerstörten]] die Nationalsozialisten Synagogen und jüdische [[Geschäfte]] in Deutschland? (81%)
-	- [x] 1938
-
 Björn sitzt vor seinem Schreibtisch. Dort liegen viele Rechnungen. Sein [[Geschäft]] läuft zurzeit nicht gut und sein Konto ist fast leer. 
 
-Jannis kenne das [[Geschäft]] ja besser als er, ein Mann mit seiner [[Erfahrung]] wisse ja, wie das ist. Mit etwas mehr Geld könne man neue Software kaufen und sich einen besseren Programmierer leisten. 
+Jannis kenne das [[Geschäft]] ja besser als er, ein Mann mit seiner [[Erfahrung]] wisse ja, wie das ist. 
+
+---
+= [[Laden]], [[Handel]], [[Unternehmen]] | [[Angelegenheit]], [[Sache]], [[Transaktion]], [[Angelegenheit]], [[Boutique]],  [[Firma]]
+≈ [[Bude]], [[Verkaufsstelle]] | [[Vorgang]], [[Aktivität]],  [[Verkauf]],
+≠ [[Privat]], [[Zuhause]] | [[Ruhe]], [[Untätigkeit]]
+
+---
+shop, business | business, deal  
+магазин, дело | дело, сделка
+
+---
+[[Geschäftsführer]], [[Geschäftsmann]] | [[Geschäftsbeziehung]], [[Geschäftsidee]], [[Geschäftsleben]],[[Zoogeschäft]], [[Geschäftsidee]], [[Geschäftsreise]], [[Geschäftsführung]], [[Spielzeuggeschäft]],[[Kerngeschäft]],
+
+---
+[[Geschäft]]
 
 
 ---
+N: das [[Geschäft]], die [[Geschäfte]]
+A: das [[Geschäft]], die [[Geschäfte]]
+G: des [[Geschäftes]], der [[Geschäfte]]
+D: dem [[Geschäft]], den [[Geschäften]]
 
-Synonyme:
-- [[Laden]]
-- [[Unternehmen]]
-- [[Firma]]
-
----
-**Übersetzung**: business, shop
-
----
-
-#Substantiv
-#Neuter[[handel]], [[Geschäftsleben]], [[Texte/Misc/Anki]], [[Zoogeschäft]]
-, [[Angelegenheit]], [[Geschäftsidee]], [[Verkauf]], [[Geschäftsreise]], [[Geschäftsführung]], [[Spielzeuggeschäft]], [[Boutique]], [[Kerngeschäft]]
+#Neuter
+, [[Schnüffelgeschäft]]

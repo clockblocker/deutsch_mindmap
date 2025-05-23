@@ -1,2 +1,2 @@
 [[Ordnen]]  
-, [[überordnen]]
+, [[überordnen]], [[zuordnen]]

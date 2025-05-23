@@ -1,3 +1,4 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 
+, [[künftig]]

@@ -1,1 +1,1 @@
-, [[Geschäftsidee]]
+, [[Geschäftsidee]], [[Geschäft]], [[Kaufmann]]

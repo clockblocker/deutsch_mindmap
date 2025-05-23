@@ -28,4 +28,4 @@ G: der [[Abhängigkeit]], der [[Abhängigkeiten]]
 D: der [[Abhängigkeit]], den [[Abhängigkeiten]]
 
 
-#Feminin 
+#Feminin , [[Internetsucht]], [[Computerspielsucht]]

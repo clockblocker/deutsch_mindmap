@@ -6,7 +6,7 @@
       {
         "id": "a39245af8c9b9317",
         "type": "tabs",
-        "dimension": 66.66666666666666,
+        "dimension": 66.66666666666667,
         "children": [
           {
             "id": "aaacfb4de3922226",
@@ -107,54 +107,516 @@
             }
           },
           {
-            "id": "e2fd878f2f8ba7c2",
+            "id": "d23e1c5cb554511b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Kanälen.md",
+                "file": "Worter/R/riesig.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kanälen"
+              "title": "riesig"
             }
           },
           {
-            "id": "d1787e8045ed2a22",
+            "id": "7fafad92b3691355",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Cookbook/Ingredients/Passiv/Passiv-Vocab-Operation-Room.md",
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-2/C1-Hoehen-T2-203/C1-Hoehen-T2-203-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Passiv-Vocab-Operation-Room"
+              "title": "C1-Hoehen-T2-203-Text"
             }
           },
           {
-            "id": "ac39d66eb556fe2c",
+            "id": "0214fe9ffc817d78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/S/Sucht.md",
+                "file": "Worter/belohnt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sucht"
+              "title": "belohnt"
+            }
+          },
+          {
+            "id": "50559caccbe18f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/B/belohnen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "belohnen"
+            }
+          },
+          {
+            "id": "d5b4eb7448d0dd12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/chattet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chattet"
+            }
+          },
+          {
+            "id": "9d91396ea2b51ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/chatten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chatten"
+            }
+          },
+          {
+            "id": "c943e0adbeb7671c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/KAUFVERHALTEN/Kaufverhalten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaufverhalten"
+            }
+          },
+          {
+            "id": "830c543c89b7c118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/A/ausspionieren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ausspionieren"
+            }
+          },
+          {
+            "id": "5763e8713d18db1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/KAUFVERHALTEN/Kaufverhalten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaufverhalten"
+            }
+          },
+          {
+            "id": "5027da0157f2dbed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/BETREIBER/Betreiber.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Betreiber"
+            }
+          },
+          {
+            "id": "00ba5d10108ec69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/V/Vertrag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vertrag"
+            }
+          },
+          {
+            "id": "62d628a2cdb6b3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Schnüffelgeschäft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schnüffelgeschäft"
+            }
+          },
+          {
+            "id": "98fe559398e2b091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/entsteht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entsteht"
+            }
+          },
+          {
+            "id": "12fae0b80252066e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/E/entstehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entstehen"
+            }
+          },
+          {
+            "id": "7bac7d34504f59ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/entsteht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entsteht"
+            }
+          },
+          {
+            "id": "159967c36e11c2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/E/entstehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entstehen"
+            }
+          },
+          {
+            "id": "a1119b9ab45ea23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Prognos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prognos"
+            }
+          },
+          {
+            "id": "ad6b8fa5fbc24da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/P/Prognose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prognose"
+            }
+          },
+          {
+            "id": "ca8ac9c2d022152e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/K/künftig.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "künftig"
+            }
+          },
+          {
+            "id": "9266479c2ccc45f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/P/Prognose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prognose"
+            }
+          },
+          {
+            "id": "905d2775c1b899e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/zulässt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zulässt"
+            }
+          },
+          {
+            "id": "94292cd6e023a244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Z/zulassen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zulassen"
+            }
+          },
+          {
+            "id": "ad0120f2fa37a2a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/BETREIBER/Betreiber.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Betreiber"
+            }
+          },
+          {
+            "id": "db9995d0d3035553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-2/C1-Hoehen-T2-203/C1-Hoehen-T2-203-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Hoehen-T2-203-Text"
+            }
+          },
+          {
+            "id": "350112db19eb35dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/belohnt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "belohnt"
+            }
+          },
+          {
+            "id": "c49de02c35a1eb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/B/belohnen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "belohnen"
+            }
+          },
+          {
+            "id": "17726427e7116455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/chattet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chattet"
+            }
+          },
+          {
+            "id": "e8830c9b0f86ebf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/chatten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chatten"
+            }
+          },
+          {
+            "id": "f5f767da89c05ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-2/C1-Hoehen-T2-203/C1-Hoehen-T2-203-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Hoehen-T2-203-Text"
+            }
+          },
+          {
+            "id": "5a5cccacaef626e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/entsteht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entsteht"
+            }
+          },
+          {
+            "id": "0892fddcf03f6acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/E/entstehen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "entstehen"
+            }
+          },
+          {
+            "id": "385b7906bbac807b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Prognos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prognos"
+            }
+          },
+          {
+            "id": "7cf8aacd6999e25c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/P/Prognose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prognose"
+            }
+          },
+          {
+            "id": "4f4147bf847a3d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-2/C1-Hoehen-T2-203/C1-Hoehen-T2-203-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Hoehen-T2-203-Text"
+            }
+          },
+          {
+            "id": "a97de69e77acd8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/U/urteilen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "urteilen"
+            }
+          },
+          {
+            "id": "021db4d0c0afab20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/R/räumen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "räumen"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 40
       },
       {
         "id": "13acb9177a6420bc",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "3c8743f689ca26a0",
@@ -348,44 +810,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2fd878f2f8ba7c2",
+  "active": "fd625bdd23c69566",
   "lastOpenFiles": [
-    "Worter/KANALS/Kanals.md",
-    "Worter/KANALS",
-    "Worter/KANÄLE/Kanäle.md",
-    "Worter/KANÄLE",
-    "Worter/KANALLISTE/Kanalliste.md",
-    "Worter/KANALLISTE",
-    "Worter/KANALBETREIBER/Kanalbetreiber.md",
-    "Worter/KANALBETREIBER",
-    "Worter/K/Kanal.md",
-    "Worter/KANALBAU/Kanalbau.md",
-    "Worter/KANALBAU",
-    "Worter/FESTLAND/Festland.md",
-    "Worter/FESTLAND",
-    "Worter/WASSERSTRASSE/Wasserstraße.md",
-    "Worter/WASSERSTRASSE",
-    "Worter/WASSERWEG/Wasserweg.md",
-    "Worter/WASSERWEG",
-    "Worter/G/Grabe.md",
-    "Worter/Kanälen.md",
+    "Worter/V/vorschnell.md",
     "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-2/C1-Hoehen-T2-203/C1-Hoehen-T2-203-Text.md",
-    "Worter/Dauerunterbrechung.md",
-    "Worter/U/Unterbrechung.md",
-    "Worter/A/Ablauf.md",
-    "Worter/Dauerverfügbarkeit.md",
-    "Worter/A/Ablenkung.md",
-    "Worter/B/Betrieb.md",
-    "Worter/DAUERUNTERBRECHUNGEN/Dauerunterbrechungen.md",
-    "Worter/DAUERUNTERBRECHUNGEN",
-    "Worter/STÄNDIGE UNTERBRECHUNG/ständige Unterbrechung.md",
-    "Worter/STÄNDIGE UNTERBRECHUNG",
-    "Worter/PERMANENTE UNTERBRECHUNG/permanente Unterbrechung.md",
-    "Worter/F/feststellen.md",
-    "Worter/M/Messung.md",
-    "C1 Schreiben/Cookbook/Ingredients/Nomen/🗣️ Ingredient-Meinung.md",
-    "Worter/C/circa.md",
-    "Worter/zweieinhalb.md",
+    "Worter/U/urteilen.md",
+    "Worter/V/verurteilen.md",
+    "Worter/U/Urteil.md",
+    "Worter/URTEILENDSTEM/urteilendstem.md",
+    "Worter/URTEILENDSTEM",
+    "Worter/URTEILENDSTEN/urteilendsten.md",
+    "Worter/URTEILENDSTEN",
+    "Worter/URTEILENDSTE/urteilendste.md",
+    "Worter/URTEILENDSTE",
+    "Worter/URTEILENDSTES/urteilendstes.md",
+    "Worter/URTEILENDSTES",
+    "Worter/URTEILENDSTER/urteilendster.md",
+    "Worter/URTEILENDSTER",
+    "Worter/URTEILENDEREM/urteilenderem.md",
+    "Worter/URTEILENDEREM",
+    "Worter/URTEILENDEREN/urteilenderen.md",
+    "Worter/URTEILENDEREN",
+    "Worter/URTEILENDERE/urteilendere.md",
+    "Worter/URTEILENDERE",
+    "Worter/URTEILENDERES/urteilenderes.md",
+    "Worter/URTEILENDERES",
+    "Worter/URTEILENDERER/urteilenderer.md",
+    "Worter/URTEILENDERER",
+    "Worter/URTEILENDEM/urteilendem.md",
+    "Worter/URTEILENDEN/urteilenden.md",
+    "Worter/URTEILENDE/urteilende.md",
+    "Worter/URTEILENDES/urteilendes.md",
+    "Worter/URTEILENDST/urteilendst.md",
+    "Worter/URTEILENDER/urteilender.md",
+    "Worter/URTEILTET/urteiltet.md",
+    "Worter/URTEILTEN/urteilten.md",
+    "Worter/URTEILT/urteilt.md",
+    "Worter/URTEILEST/urteilest.md",
+    "Worter/URTEILTEST/urteiltest.md",
     "Anhänge/Pasted image 20250517092641.png",
     "Anhänge/Pasted image 20250519072123.png",
     "Anhänge/Pasted image 20250518110508.png",

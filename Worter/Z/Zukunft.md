@@ -70,4 +70,4 @@ G: [[Zukunft]], [[Zukunft]]
 D: [[Zukunft]], [[Zukunft]]  
 
 ---
-[[zukünftig]], [[zukünftiglich]], [[Zukunftsforschung]], [[Geschichte]], [[Ausblick]], [[Nachwuchs]]
+[[zukünftig]], [[zukünftiglich]], [[Zukunftsforschung]], [[Geschichte]], [[Ausblick]], [[Nachwuchs]], [[Rückblick]], [[künftig]]

@@ -3,12 +3,16 @@
 ---
 *Die Weltgesundheitsorganisation (WHO)* [[anerkennt|erkennt]] *bestimmte Online-Exzesse* `als` *Sucht* [[an]]
 
+*[[C1-Hoehen-T2-203-Text#^31|^]]* [[Computerspielsucht]] könnte die erste Sucht sein, die tatsächlich als [[Sucht]] [[anerkannt]] wird
+
+Warum tut sich die WHO so schwer, Internetsucht als Diagnose [[anzuerkennen]]?
+
 ---
 = [[akzeptieren]], [[bestätigen]], [[billigen]]
 ≈ [[würdigen]], [[respektieren]], [[anerkennen]]
 ≠ [[ablehnen]], [[verweigern]], [[leugnen]]
 , [[zugeben]], [[Anerkennung]], [[leugnen]], [[respektieren]], [[unterschätzen]], [[ehren]], [[kritisieren]]
-, [[loben]], [[honorieren]]
+, [[loben]], [[honorieren]], [[bekannt]], [[geehrt]], [[offiziell]], [[allgemeingültig]], [[wertschätzen]], [[anerkennen]], [[Anerkennung]]
 
 ---
 to recognize, to acknowledge  

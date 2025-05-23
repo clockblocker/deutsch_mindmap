@@ -1,2 +1,2 @@
 [[mittel]]
-, [[übermäßig]], [[gemäßigt]], [[mäßig]], [[überziehen]]
+, [[übermäßig]], [[gemäßigt]], [[mäßig]], [[überziehen]], [[exzessiv]]

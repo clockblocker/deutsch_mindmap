@@ -5,4 +5,4 @@
 
 [[Kindererziehung]], [[Gebrauch]], [[Anwendung]], [[Handhabung]], [[Machtmissbrauch]]
 
-#Maskulin 
+#Maskulin , [[missbräuchlich]]

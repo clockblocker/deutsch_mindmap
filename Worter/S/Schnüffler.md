@@ -1,2 +1,2 @@
 
-, [[schnüffeln]], [[Erschnüffeln]], [[schnuppern]]
+, [[schnüffeln]], [[Erschnüffeln]], [[schnuppern]], [[Schnüffelgeschäft]]

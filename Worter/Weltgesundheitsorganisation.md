@@ -3,6 +3,12 @@
 ---
 Die [[Weltgesundheitsorganisation]] ([[WHO]]) [[anerkennen|erkennt]] bestimmte Online-[[Exzesse]] als [[Sucht]] an.
 
+*[[C1-Hoehen-T2-203-Text#^32|^]]* [[Computerspielsucht]] könnte die erste Sucht sein, die tatsächlich als [[Sucht]] [[anerkannt]] wird. 
+Da ist die [[Weltgesundheitsorganisation]] ganz [[nah]] [[dran]]
+
+*[[C1-Hoehen-T2-203-Text#^33|^]]* Warum ist solch eine [[Anerkennung]] durch die [[WHO]] wichtig? ^33
+
+
 ---
 = [[WHO]]
 ≈ [[Gesundheit]], [[Organisation]], [[Vereinte Nationen]]

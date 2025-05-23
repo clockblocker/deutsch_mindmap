@@ -1,1 +1,1 @@
-, [[öffnen]], [[Zulassungsgrenze]], [[Um­schlag]], [[Freizügigkeit]], [[Festlegung]], [[Eiserner Vorhang]], [[Vorhang]], [[Lernbereitschaft]], [[Stadtmauer]], [[Vertraulichkeit]], [[offen]]
+, [[öffnen]], [[Zulassungsgrenze]], [[Um­schlag]], [[Freizügigkeit]], [[Festlegung]], [[Eiserner Vorhang]], [[Vorhang]], [[Lernbereitschaft]], [[Stadtmauer]], [[Vertraulichkeit]], [[offen]], [[Schnüffelgeschäft]]

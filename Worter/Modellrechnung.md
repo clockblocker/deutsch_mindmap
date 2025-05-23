@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 🧮 🔴 die [[Modellrechnung]], [moˈdɛlˌʁɛçnʊŋ](https://youglish.com/pronounce/Modellrechnung/german)
 die [[Modellrechnungen]]
 

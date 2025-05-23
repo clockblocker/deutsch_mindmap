@@ -1,1 +1,1 @@
-, [[sortieren]], [[zusammenstellen]], [[versammeln]]
+, [[sortieren]], [[zusammenstellen]], [[versammeln]], [[zuordnen]]

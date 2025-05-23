@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 🧐 🔴 die [[Neugier]], [ˈnɔɪ̯ˌɡiːɐ̯]
 die [[Neugieren]]
 

@@ -1,1 +1,2 @@
-, [[bekannt]], [[geehrt]], [[offiziell]], [[allgemeingültig]], [[wertschätzen]], [[anerkennen]]
+[[anerkennen]]
+

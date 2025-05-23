@@ -26,4 +26,4 @@ Dative: dem [[Fehlerhaften]], den [[Fehlerhaften]]
 ---
 [[fehlerhaft]], [[fehlerlos]], [[fehlerfrei]], [[Fehler]], [[unrecht]]
 , [[Flüchtigkeitsfehler]]
-, [[Sorgfaltsfehler]], [[irrtümlich]]
+, [[Sorgfaltsfehler]], [[irrtümlich]], [[missbräuchlich]]

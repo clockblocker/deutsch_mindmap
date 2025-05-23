@@ -23,3 +23,5 @@ D: dem [[Zoogeschäft]], den [[Zoogeschäften]]
 
 ---
 [[Zoo]], [[Geschäft]], [[Zoologie]], [[Zooladen]], [[Tierhandel]]
+
+#Neuter 

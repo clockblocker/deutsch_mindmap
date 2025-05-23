@@ -1,1 +1,1 @@
-, [[Art]], [[Gestalt]], [[Lebensform]], [[Wirtschaftsform]], [[Inhalt]], [[Bauart]], [[Anrede]], [[Textaufbau]], [[Textsorte]], [[Kommunikationsform]], [[Arbeitsform]], [[Sonderform]], [[Erzählstruktur]]
+, [[Art]], [[Gestalt]], [[Lebensform]], [[Wirtschaftsform]], [[Inhalt]], [[Bauart]], [[Anrede]], [[Textaufbau]], [[Textsorte]], [[Kommunikationsform]], [[Arbeitsform]], [[Sonderform]], [[Erzählstruktur]], [[Suchtform]]

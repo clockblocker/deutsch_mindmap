@@ -32,4 +32,4 @@ Beispielsätze:
 Weitere Bedeutungsnuancen:
 - Mentaler Prozess des Erinnerns
 - Gedächtnisspur eines vergangenen Erlebnisses
-- Gegenstand oder Zeichen, das an etwas erinnert, [[erinnern]], [[s1 e1]], [[Vergangenheit]], [[Merkfähigkeit]]
+- Gegenstand oder Zeichen, das an etwas erinnert, [[erinnern]], [[s1 e1]], [[Vergangenheit]], [[Merkfähigkeit]], [[Rückblick]]

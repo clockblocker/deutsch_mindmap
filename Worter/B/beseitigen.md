@@ -58,4 +58,4 @@ sie, [[beseitigen]], [[beseitigten]], [[beseitigen]], [[beseitigten]], [[beseiti
 Adjektive: [[beseitigend]], [[beseitigender]], [[beseitigendst]]
 
 ---
-[[beseitigender]], [[beseitigendes]], [[beseitigende]], [[beseitigenden]], [[beseitigendem]], [[beseitigenderer]], [[beseitigenderes]], [[beseitigendere]], [[beseitigenderen]], [[beseitigenderem]], [[beseitigendster]], [[beseitigendstes]], [[beseitigendste]], [[beseitigendsten]], [[beseitigendstem]]
+[[beseitigender]], [[beseitigendes]], [[beseitigende]], [[beseitigenden]], [[beseitigendem]], [[beseitigenderer]], [[beseitigenderes]], [[beseitigendere]], [[beseitigenderen]], [[beseitigenderem]], [[beseitigendster]], [[beseitigendstes]], [[beseitigendste]], [[beseitigendsten]], [[beseitigendstem]], [[räumen]]

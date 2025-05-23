@@ -1,2 +1,2 @@
 , [[bestrafen]]
-, [[verzeihen]], [[rächen]], [[verurteilen]]
+, [[verzeihen]], [[rächen]], [[verurteilen]], [[urteilen]]

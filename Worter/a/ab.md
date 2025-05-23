@@ -1,5 +1,7 @@
 *[[weg]] / off, away | completely*
 
+*[[C1-Hoehen-T2-203-Text#^25|^]]* [[Apropos]] Gehirn: `Ab` wann kann man denn `von` einer Online-[[Sucht]] [[sprechen]]?
+
 ###### **Separation / Detachment / Removal**
 _(ab = off, away, un-)_
 🪓 [[abreißen]] *(rip off)*

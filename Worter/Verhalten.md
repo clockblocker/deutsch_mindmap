@@ -4,6 +4,8 @@
 ---
 Du [[verhältst]] dich wie ein Kind.
 
+*[[C1-Hoehen-T2-203-Text#^38|^]]* Solche [[Verhaltensweise]]n müssen über einen [[Zeitraum]] von mindestens einem Jahr [[erfolgen]], um als [[exzessiv]]es [[Verhalten]] zu gelten
+
 Man kann durch [[geschickt]]es [[Verhalten]] das [[Ausspionieren]] durch die [[Werbeindustrie]] [[unterbinden]]
 
 *[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] wissen. ^13
@@ -80,3 +82,4 @@ D: dem [[verhalten]], den [[verhalten]]
 [[verhalten]], [[Verhaltensmuster]], [[Verhaltensweise]], [[verhaltensneutral]], [[verhaltensnah]]
 
 #Neuter , [[Spielverhalten]], [[Einkaufsverhalten]], [[Wissen]], [[Verbraucher]]
+, [[Kaufverhalten]], [[Alltagsverhaltensweise]]

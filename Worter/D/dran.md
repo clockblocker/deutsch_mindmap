@@ -1,30 +1,25 @@
-ANNA: Und ihr Mann ist so ein [[Ekel]] … Du bist [[dran]] …  
-Du bist früh [[dran]]!
+➡️ [[dran]], [dʁaːn](https://youglish.com/pronounce/dran/german)
+
+---
+*[[C1-Hoehen-T2-203-Text#^32|^]]* [[Computerspielsucht]] könnte die erste Sucht sein, die tatsächlich als [[Sucht]] [[anerkannt]] wird. 
+Da ist die [[Weltgesundheitsorganisation]] ganz [[nah]] [[dran]]
 
 Also [[bleibt dran]], hier ist die nächste Folge von Extra.  
 
----
-
-Synonyme:
-- [[an der Reihe]], [[nächste]], [[dabei]]
+Du bist früh [[dran]]!
 
 ---
-
-Beispiele:
-
-- Du bist [[dran]], den Müll rauszubringen.
-- Wer ist als nächstes [[dran]]?
-- Ich bin [[dran]], eine Entscheidung zu treffen.
+= [[dabei]], [[an der Reihe]]
+≈ [[am Zug]], [[bereit]], [[fertig]]
+≠ [[weg]], [[fern]]
 
 ---
-**Übersetzung**: up next, it's your turn
+next, on  
+следующий, на очереди
 
 ---
-
-Tags:
-#Adverb
+[[dran sein]], [[dranbleiben]], [[drannehmen]]
 
 ---
+[[dran]]
 
-Morphems:
-[[dran]], [[früh]]

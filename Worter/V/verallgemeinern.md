@@ -1,1 +1,1 @@
-, [[Einheitliche]], [[Allgemeine]], [[allgemein]]
+, [[Einheitliche]], [[Allgemeine]], [[allgemein]], [[differenzieren]]

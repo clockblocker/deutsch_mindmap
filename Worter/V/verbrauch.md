@@ -1,1 +1,1 @@
-, [[verbrauchen]], [[Aufwand]], [[Verwertung]], [[Ausgabe]], [[Konsum]], [[Verbraucher]]
+, [[verbrauchen]], [[Aufwand]], [[Verwertung]], [[Ausgabe]], [[Konsum]], [[Verbraucher]], [[Kaufverhalten]]

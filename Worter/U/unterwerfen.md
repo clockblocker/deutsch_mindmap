@@ -58,4 +58,4 @@ sie, [[unterwerfen]], [[unterwarfen]], [[unterwerfen]], [[unterwerfen]], [[unter
 Adjektive: [[unterwerfend]], [[unterwerfender]], [[unterwerfendst]]
 
 ---
-[[unterwerfender]], [[unterwerfendes]], [[unterwerfende]], [[unterwerfenden]], [[unterwerfendem]], [[unterwerfenderer]], [[unterwerfenderes]], [[unterwerfendere]], [[unterwerfenderen]], [[unterwerfenderem]], [[unterwerfendster]], [[unterwerfendstes]], [[unterwerfendste]], [[unterwerfendsten]], [[unterwerfendstem]]
+[[unterwerfender]], [[unterwerfendes]], [[unterwerfende]], [[unterwerfenden]], [[unterwerfendem]], [[unterwerfenderer]], [[unterwerfenderes]], [[unterwerfendere]], [[unterwerfenderen]], [[unterwerfenderem]], [[unterwerfendster]], [[unterwerfendstes]], [[unterwerfendste]], [[unterwerfendsten]], [[unterwerfendstem]], [[beugen]]

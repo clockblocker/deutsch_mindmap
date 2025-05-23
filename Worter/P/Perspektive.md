@@ -33,4 +33,4 @@ A: die [[Perspektive]], die [[Perspektiven]]
 G: der [[Perspektive]], der [[Perspektiven]]
 D: der [[Perspektive]], den [[Perspektiven]]
 
-#Feminin , [[Standpunkt]], [[Grundeinstellung]], [[Einstellung]], [[Betrachtungsweise]], [[Denkweise]]
+#Feminin , [[Standpunkt]], [[Grundeinstellung]], [[Einstellung]], [[Betrachtungsweise]], [[Denkweise]], [[Vordergrund]]

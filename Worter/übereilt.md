@@ -1,2 +1,2 @@
 🏃 [[übereilen]]
-, [[eilen]]
+, [[eilen]], [[vorschnell]]

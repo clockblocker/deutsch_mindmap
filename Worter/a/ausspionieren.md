@@ -3,6 +3,10 @@
 ---
 Man kann durch [[geschickt]]es [[Verhalten]] das [[Ausspionieren]] durch die [[Werbeindustrie]] [[unterbinden]]
 
+*[[C1-Hoehen-T2-203-Text#^20|^]]* Auch durch soziale Netzwerke, die wir ja auch sehr regelmäßig besuchen lassen wir vieles [[ausspionieren]] zu
+
+*[[C1-Hoehen-T2-203-Text#^18|^]]* Und da [[belohnt]], egal ob man spielt oder [[chattet]], die sogenannten Cookies [[ausspionieren|spionieren]] genau unsere Interessen und unser [[Kaufverhalten]] aus, denn die [[Betreiber]] der Websites haben mit der Verbindung einen [[Vertrag]] zum [[Schnüffelgeschäft]]:
+
 ---
 = [[auskundschaften]], [[bespitzeln]], [[ausforschen]], [[hinüberspähen]]
 ≈ [[beobachten]], [[überwachen]], [[erforschen]]

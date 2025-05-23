@@ -16,6 +16,29 @@
 🧿 [[Wirklichkeit]] *(reality — what is, beyond opinions)*  
 🔎 [[Wahrheit]] *(truth — verified reality)*
 📏 [[Messung]] *(measurement)*
+🔮 [[Prognose]]
+🔮 [[Vorhersage]] | [[vorhersagen]] | [[vorhersehen]] *(forecast, prediction)*  
+🔮 [[Voraussage]] | [[voraussagen]] *(prediction, forecast)* 
+📢 [[Forderung]] | [[fordern]] *(demand, claim)*  
+🏋️ [[Herausforderung]] | [[herausfordern]] *(challenge)*
+📢 [[Aufforderung]] | [[auffordern]] *(request, invitation, challenge)*
+✅  [[Erfordernis]] | [[erfordern]] *(requirement, necessity)*  
+📢 [[Reklamation]] *(complaint, claim)*  
+🧮 [[Modellrechnung]] *(model calculations)*
+➕ [[Vorausberechnung]] *(precalculation, forecast)*  
+➕ [[Berechnung]] *(calculation)*  
+🤝️ [[Abrechnung]] *(billing, statement)*
+🔭 [[Ausblick]] *(prospect, forecast)*
+⏪ [[Rückblick]] *(retrospect, review)*  
+📊 [[Schätzung]] | [[schätzen]] *(estimation, assessment)* 
+🧐 [[Einschätzung]] *(assessment, evaluation)*
+🗣️ [[Anspruch]] *(claim, reqirement, demand, right)*
+🤔 [[Erwartung]]
+🕊️ [[Hoffnung]]
+😊 [[Zuversicht]] *(confidence, optimism)*  
+🥳 [[entgegenfiebern]] *(to eagerly anticipate, to look forward to)*
+🧐 [[Neugier]] *(curiosity)*
+😟 [[Befürchtung]] *(опасение)*
 
 #### Belief & Attitude  
 🙏 [[Glaub]] *(believe — faith-based processing)*  

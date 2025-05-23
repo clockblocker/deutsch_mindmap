@@ -28,4 +28,4 @@ Alle Formen:
 
 
 
-[[Sorte]], [[Leut]], [[Art]], [[Kerl]], [[s1 e1]], [[Version]], [[Lerntyp]], [[Ausführung]]
+[[Sorte]], [[Leut]], [[Art]], [[Kerl]], [[s1 e1]], [[Version]], [[Lerntyp]], [[Ausführung]], [[Suchtform]]

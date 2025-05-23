@@ -24,3 +24,5 @@ D: dem [[Termindruck]], den [[Termindrücken]]
 ---
 [[Termin]], [[Druck]], [[Terminvereinbarung]], [[Terminplan]], [[Termingerecht]], [[Terminabsprache]]
 , [[Angelegenheit]]
+
+#Maskulin 

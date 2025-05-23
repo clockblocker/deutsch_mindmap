@@ -23,7 +23,7 @@ exchange, interchange
 
 ---
 [[austauschen]], [[Austauschbarkeit]], [[Austauschschüler]]
-[[handel]], [[Gespräch]], [[Diskussion]], [[Unterhaltung]], [[austauschen]], [[Ersatz]]
+[[Handel]], [[Gespräch]], [[Diskussion]], [[Unterhaltung]], [[austauschen]], [[Ersatz]]
 
 
 ---

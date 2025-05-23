@@ -1,3 +1,5 @@
+--> [[🗣️ Ingredient-Meinung]] <--
+
 💰 [[schätzen]], [ˈʃɛtsən] | [[schätzte]], haben [[geschätzt]]
 
 ---
@@ -36,4 +38,4 @@ PI: [[schätzend]], PII: [[geschätzt]], Zu+inf: [[zuschätzen]]
 [[gefallen]], [[hassen]], [[abmessen]], [[wiegen]], [[mögen]], [[rechnen]], [[achten]], [[raten]], [[bewundern]], [[respektieren]]
 , [[liebgewinnen]], [[verabscheuen]]
 , [[Sprachschatz]]
-, [[ausrechnen]], [[wertschätzen]], [[unschätzbar]], [[einzuschätzen]], [[vermessen]], [[honorieren]], [[verehren]]
+, [[ausrechnen]], [[wertschätzen]], [[unschätzbar]], [[einzuschätzen]], [[vermessen]], [[honorieren]], [[verehren]], [[urteilen]]

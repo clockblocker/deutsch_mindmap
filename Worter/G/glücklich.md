@@ -31,4 +31,4 @@ Einzigartige mögliche Formen:
 [[glücklicher]], [[glücklicherer]], [[glücklichere]], [[glücklicheres]], [[glücklicheren]], [[glücklicherem]], [[glücklicherer]], [[glücklicheren]]
 [[glücklichsten]], [[glücklichster]], [[glücklichste]], [[glücklichstes]], [[glücklichsten]], [[glücklichstem]], [[glücklichster]], [[glücklichsten]]
 
-, [[tragisch]]
+, [[tragisch]], [[Glückshormon]]

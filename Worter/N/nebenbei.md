@@ -15,4 +15,4 @@ Morpheme: [[Worter/N/neben]][[bei]]
 
 ---
 #Adverb
-, [[Konnektivpartikeln]]
+, [[Konnektivpartikeln]], [[apropos]]

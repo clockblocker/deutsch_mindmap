@@ -1,7 +1,9 @@
 🤔 [[auftauchen]], [ˈaʊ̯fˌtaʊ̯xən](https://youglish.com/pronounce/auftauchen/german) → [[tauchte auf]] → sind [[aufgetaucht]]
 
 ---
-*Seit dem* [[Auftauchen]] des Begriffs ==“iPad-Kind”== *sind* die Lesefähigkeiten überall [[gesunken]].
+*Seit dem* [[Auftauchen]] des Begriffs “iPad-Kind”*sind* die [[Lesefähigkeiten]] überall [[gesunken]].
+
+*[[C1-Hoehen-T2-203-Text#^39|^]]* Weil immer neue Technologien [[auftauchen]], [[tritt]] sofort die Diskussion der Abhängigkeit davon in den [[Vordergrund]]
 
 ---
 = [[erscheinen]], [[auftreten]], [[erscheinen]]
@@ -47,3 +49,5 @@ Adjektive: [[auftauchend]], [[auftauchender]], [[auftauchendst]]
 
 ---
 [[auftauchender]], [[auftauchendes]], [[auftauchende]], [[auftauchenden]], [[auftauchendem]], [[auftauchenderer]], [[auftauchenderes]], [[auftauchendere]], [[auftauchenderen]], [[auftauchenderem]], [[auftauchendster]], [[auftauchendstes]], [[auftauchendste]], [[auftauchendsten]], [[auftauchendstem]], [[ankommen]]
+
+#Neuter 

@@ -1,1 +1,1 @@
-, [[Sucht]]
+, [[Sucht]], [[Internetsucht]], [[Computerspielsucht]]

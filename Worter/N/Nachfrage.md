@@ -43,4 +43,4 @@ Einzigartige mögliche Formen: [[Nachfrage]], [[Nachfragen]], [[Nachfragen]], [[
 ---
 #Substantiv #Maskulin #Wirtschaft #Kommunikation
 
-, [[steigende]], [[nachfragen]]
+, [[steigende]], [[nachfragen]], [[Kaufverhalten]]

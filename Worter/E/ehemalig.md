@@ -26,4 +26,4 @@ former, ex
 Adjektive: [[ehemalig]], [[ehemaliger]], [[ehemaligst]]
 
 ---
-[[ehemaliger]], [[ehemaliges]], [[ehemalige]], [[ehemaligen]], [[ehemaligem]], [[ehemaligerer]], [[ehemaligeres]], [[ehemaligere]], [[ehemaligeren]], [[ehemaligerem]], [[ehemaligster]], [[ehemaligstes]], [[ehemaligste]], [[ehemaligsten]], [[ehemaligstem]]
+[[ehemaliger]], [[ehemaliges]], [[ehemalige]], [[ehemaligen]], [[ehemaligem]], [[ehemaligerer]], [[ehemaligeres]], [[ehemaligere]], [[ehemaligeren]], [[ehemaligerem]], [[ehemaligster]], [[ehemaligstes]], [[ehemaligste]], [[ehemaligsten]], [[ehemaligstem]], [[künftig]]

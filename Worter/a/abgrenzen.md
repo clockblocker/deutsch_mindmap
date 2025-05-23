@@ -67,4 +67,4 @@ sie, [[grenzen ab]], [[grenzten ab]], [[grenzen ab]], [[grenzten ab]], [[grenzen
 Adjektive: [[abgrenzend]], [[abgrenzender]], [[abgrenzendst]]
 
 ---
-[[abgrenzender]], [[abgrenzendes]], [[abgrenzende]], [[abgrenzenden]], [[abgrenzendem]], [[abgrenzenderer]], [[abgrenzenderes]], [[abgrenzendere]], [[abgrenzenderen]], [[abgrenzenderem]], [[abgrenzendster]], [[abgrenzendstes]], [[abgrenzendste]], [[abgrenzendsten]], [[abgrenzendstem]], [[abschiermen]]
+[[abgrenzender]], [[abgrenzendes]], [[abgrenzende]], [[abgrenzenden]], [[abgrenzendem]], [[abgrenzenderer]], [[abgrenzenderes]], [[abgrenzendere]], [[abgrenzenderen]], [[abgrenzenderem]], [[abgrenzendster]], [[abgrenzendstes]], [[abgrenzendste]], [[abgrenzendsten]], [[abgrenzendstem]], [[abschiermen]], [[differenzieren]]

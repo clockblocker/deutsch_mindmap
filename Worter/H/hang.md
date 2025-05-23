@@ -1,4 +1,3 @@
-
 ⛰️ 🔵 der [[Hang]], [haŋ]
 die [[Hänge]]
 
@@ -28,3 +27,6 @@ N: der [[Hang]], die [[Hänge]]
 A: den [[Hang]], die [[Hänge]]  
 G: des [[Hangs]], der [[Hänge]]  
 D: dem [[Hang]], den [[Hängen]]
+
+
+#Maskulin

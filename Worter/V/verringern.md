@@ -7,7 +7,7 @@
 Der Bonus von **Fokusrune** [[verringert]] sich mit jeder Sekunde (-**10%**/Sekunde).
 
 ---
-= [[reduzieren]], [[mindern]], [[senken]]
+= [[reduzieren]], [[mindern]], [[senken]], [[Weniger]],
 ≈ [[abnehmen]], [[verkleinern]], [[abschwächen]], [[verkürzen]]
 ≠ [[vergrößern]], [[erhöhen]], [[steigern]], [[vermehren]]
 

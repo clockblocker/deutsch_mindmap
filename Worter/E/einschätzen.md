@@ -57,4 +57,4 @@ to assess, to estimate
 Adjektive: [[eingeschätzt]], [[eingeschätzter]], [[eingeschätztest]]
 
 ---
-[[eingeschätzter]], [[eingeschätztes]], [[eingeschätzte]], [[eingeschätzten]], [[eingeschätztem]], [[eingeschätzterer]], [[eingeschätzteres]], [[eingeschätztere]], [[eingeschätzteren]], [[eingeschätzterem]], [[eingeschätztester]], [[eingeschätztestes]], [[eingeschätzteste]], [[eingeschätztesten]], [[eingeschätztestem]]
+[[eingeschätzter]], [[eingeschätztes]], [[eingeschätzte]], [[eingeschätzten]], [[eingeschätztem]], [[eingeschätzterer]], [[eingeschätzteres]], [[eingeschätztere]], [[eingeschätzteren]], [[eingeschätzterem]], [[eingeschätztester]], [[eingeschätztestes]], [[eingeschätzteste]], [[eingeschätztesten]], [[eingeschätztestem]], [[urteilen]]

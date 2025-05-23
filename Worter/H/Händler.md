@@ -1,1 +1,1 @@
-[[handel]], [[Sammler]], [[Tannhäuser]], [[Einzelhändler]], [[Anbieter]]
+[[Handel]], [[Sammler]], [[Tannhäuser]], [[Einzelhändler]], [[Anbieter]], [[Kaufmann]]

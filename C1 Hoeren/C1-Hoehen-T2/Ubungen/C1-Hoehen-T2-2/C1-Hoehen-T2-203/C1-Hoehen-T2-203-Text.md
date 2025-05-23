@@ -91,44 +91,91 @@ Das ist natürlich nicht wenig!
 
 *[[C1-Hoehen-T2-203-Text#^10|^]]* Unterschiede gibt es eher bei den [[Kanälen]], die genutzt werden. ^10
 
-*[[C1-Hoehen-T2-203-Text#^11|^]]* Social Media und Kommunikation sind bei den Frauen üblicher. ^11
+*[[C1-Hoehen-T2-203-Text#^11|^]]* Social Media und Kommunikation sind bei den Frauen [[üblich]]er. ^11
 
 *[[C1-Hoehen-T2-203-Text#^12|^]]* Männer spielen lieber online, reden aber auch sehr häufig am Smartphone. ^12
 
 
 ###### Moderatorin:  
-Es gibt nun aber auch Applikationen, also Apps, die uns dazu verleiten, dass wir immer länger dranbleiben?
+*[[C1-Hoehen-T2-203-Text#^13|^]]* Es gibt nun aber auch Applikationen, also Apps, die uns dazu [[verleiten]], dass wir immer länger dranbleiben? ^13
+
 
 ###### Herr Knizka:  
-Das ist natürlich ein riesiges Geschäft. Denn je länger wir mit diesen Apps beschäftigt, desto mehr Daten geben wir von uns preis. Und diese Daten sind monetär umsetzbar, zum Beispiel in personalisierter Werbung, die wiederum zum Kauf verführt. Im Internetgeschäft sind diese Daten mittlerweile zum Zahlungsmittel geworden.  
-Und da belohnt, egal ob man spielt oder chattet, die sogenannten Cookies spionieren genau unsere Interessen und unser Kaufverhalten aus, denn die Betreiber der Websites haben mit der Verbindung einen Vertrag zum Schnüffelgeschäft: So entsteht ein Profil über jeden Nutzer, welches sogar Prognosen über künftiges Kaufverhalten zulässt.
+*[[C1-Hoehen-T2-203-Text#^14|^]]* Das ist natürlich ein [[riesig]]es [[Geschäft]]. ^14
+
+*[[C1-Hoehen-T2-203-Text#^15|^]]* Denn je länger wir mit diesen Apps beschäftigt, desto mehr Daten [[preisgeben|geben]] wir von uns preis. ^15
+
+*[[C1-Hoehen-T2-203-Text#^16|^]]* Und diese Daten sind monetär [[umsetzbar]], zum Beispiel in personalisierter Werbung, die [[wiederum]] zum Kauf [[verführt]]. ^16
+
+*[[C1-Hoehen-T2-203-Text#^17|^]]* Im Internetgeschäft sind diese Daten [[mittlerweile]] zum [[Zahlungsmittel]] geworden. ^17
+
+*[[C1-Hoehen-T2-203-Text#^18|^]]* Und da [[belohnt]], egal ob man spielt oder [[chattet]], die sogenannten Cookies spionieren genau unsere Interessen und unser [[Kaufverhalten]] aus, denn die [[Betreiber]] der Websites haben mit der Verbindung einen [[Vertrag]] zum [[Schnüffelgeschäft]]: ^18
+
+*[[C1-Hoehen-T2-203-Text#^19|^]]* So [[entsteht]] ein Profil über jeden Nutzer, welches sogar [[Prognose]]n über [[künftig]]es [[Kaufverhalten]] [[zulässt]]. ^19
+
 
 ###### Moderatorin:  
-Auch durch soziale Netzwerke, die wir ja auch sehr regelmäßig besuchen lassen wir vieles ausspionieren zu.
+*[[C1-Hoehen-T2-203-Text#^20|^]]* Auch durch soziale Netzwerke, die wir ja auch sehr regelmäßig besuchen lassen wir vieles [[ausspionieren]] zu. ^20
+
 
 ###### Herr Knizka:  
-Ja, und wir laden sogar Fotos auf sozialen Netzwerken hoch, obwohl wir wissen, dass diese missbräuchlich genutzt werden können.  
-Es liegt ganz einfach in der Natur des Menschen, dass wir soziale Interaktionen brauchen. Likes und Smilies spielen hier auch eine enorme Rolle, denn wir gieren nach Anerkennung durch andere. So wird das Glückshormon Dopamin in unserem Gehirn ausgeschüttet.
+*[[C1-Hoehen-T2-203-Text#^21|^]]* Ja, und wir [[laden]] sogar Fotos auf sozialen Netzwerken hoch, obwohl wir wissen, dass diese [[missbräuchlich]] genutzt werden können. ^21
+
+*[[C1-Hoehen-T2-203-Text#^22|^]]* Es liegt ganz einfach in der Natur des Menschen, dass wir soziale Interaktionen brauchen. ^22
+
+*[[C1-Hoehen-T2-203-Text#^23|^]]* Likes und Smilies spielen hier auch eine enorme Rolle, denn wir [[gieren]] nach [[Anerkennung]] durch andere. ^23
+
+*[[C1-Hoehen-T2-203-Text#^24|^]]* So wird das [[Glückshormon]] Dopamin in unserem Gehirn [[ausgeschüttet]]. ^24
+
 
 ###### Moderatorin:  
-Apropos Gehirn: Ab wann kann man denn von einer Online-Sucht sprechen?
+*[[C1-Hoehen-T2-203-Text#^25|^]]* [[Apropos]] Gehirn: `Ab` wann kann man denn `von` einer Online-[[Sucht]] [[sprechen]]? ^25
+
 
 ###### Herr Knizka:  
-Erstmal sei vorweg gesagt, dass es noch keine Diagnose Internetsucht gibt. Was die Definition so schwierig macht, sind die vielen unterschiedlichen Online-Inhalte. Sind bestimmte Menschen wirklich vom Internet abhängig oder nur von bestimmten Inhalten? Es wird nämlich nicht darüber diskutiert, die exzessiv genutzt werden, sondern welche. Z. B. das Gaming. Computerspielsucht könnte die erste Sucht sein, die tatsächlich als Sucht anerkannt wird. Da ist die Weltgesundheitsorganisation ganz nah dran.
+*[[C1-Hoehen-T2-203-Text#^26|^]]* Erstmal sei [[vorweg]] gesagt, dass es noch keine Diagnose [[Internetsucht]] gibt. ^26
+
+*[[C1-Hoehen-T2-203-Text#^27|^]]* Was die Definition so schwierig macht, sind die vielen unterschiedlichen Online-[[Inhalt]]e. ^27
+
+*[[C1-Hoehen-T2-203-Text#^28|^]]* Sind bestimmte Menschen wirklich vom Internet [[abhängig]] oder nur von bestimmten [[Inhalt]]en? ^28
+
+*[[C1-Hoehen-T2-203-Text#^29|^]]* Es wird nämlich nicht darüber diskutiert, die [[exzessiv]] genutzt werden, sondern [[welche]]. ^29
+
+*[[C1-Hoehen-T2-203-Text#^30|^]]* Z. B. das Gaming. ^30
+
+*[[C1-Hoehen-T2-203-Text#^31|^]]* [[Computerspielsucht]] könnte die erste Sucht sein, die tatsächlich als [[Sucht]] [[anerkannt]] wird. ^31
+
+*[[C1-Hoehen-T2-203-Text#^32|^]]* Da ist die [[Weltgesundheitsorganisation]] ganz [[nah]] [[dran]]. ^32
+
 
 ###### Moderatorin:  
-Warum ist solch eine Anerkennung durch die WHO wichtig?
+*[[C1-Hoehen-T2-203-Text#^33|^]]* Warum ist solch eine [[Anerkennung]] durch die [[WHO]] wichtig? ^33
+
 
 ###### Herr Knizka:  
-Damit hätten wir eine Basis, um auch andere Formen der Sucht erforschen zu können. Gleich ist ja diese Sucht, dass man die eigene Kontrolle über seine Internetnutzung verliert.  
-Man räumt dieser Tätigkeit immer mehr Raum in seinem Alltag ein zu Lasten von anderen Aktivitäten, die man früher gern gemacht hat oder zu Lasten der beruflichen Verpflichtungen. Wir dürfen aber Alltagverhaltensweisen nicht pathologisieren.  
-Solche Verhaltensweisen müssen über einen Zeitraum von mindestens einem Jahr erfolgen, um als exzessives Verhalten zu gelten.
+*[[C1-Hoehen-T2-203-Text#^34|^]]* Damit hätten wir eine Basis, um auch andere Formen der Sucht [[erforschen]] zu können. ^34
+
+*[[C1-Hoehen-T2-203-Text#^35|^]]* Gleich ist ja diese Sucht, dass man die eigene Kontrolle über seine Internetnutzung verliert. ^35
+
+*[[C1-Hoehen-T2-203-Text#^36|^]]* Man [[räumt]] dieser Tätigkeit immer mehr Raum in seinem Alltag ein zu [[Last]]en von anderen Aktivitäten, die man früher gern gemacht hat oder zu Lasten der beruflichen [[Verpflichtung]]en. ^36
+
+*[[C1-Hoehen-T2-203-Text#^37|^]]* Wir dürfen aber [[Alltagverhaltensweisen]] nicht [[pathologisieren]]. ^37
+
+*[[C1-Hoehen-T2-203-Text#^38|^]]* Solche [[Verhaltensweise]]n müssen über einen Zeitraum von mindestens einem Jahr [[erfolgen]], um als [[exzessiv]]es [[Verhalten]] zu gelten. ^38
+
 
 ###### Moderatorin:  
-Warum tut sich die WHO so schwer, Internetsucht als Diagnose anzuerkennen?
+Warum tut sich die WHO so schwer, Internetsucht als Diagnose [[anzuerkennen]]?
 
 ###### Herr Knizka:  
-Weil immer neue Technologien auftauchen, tritt sofort die Diskussion der Abhängigkeit davon in den Vordergrund. Unter Wissenschaftlern wird das sehr stark diskutiert, ob es eine Fernsehsucht oder eine Buchsucht überhaupt geben kann. Aber die Menschen mit Sucht kann man schon noch nicht zu einer Suchtform zuordnen oder differenzieren. Man will da einfach nicht zu vorschnell urteilen.
+*[[C1-Hoehen-T2-203-Text#^39|^]]* Weil immer neue Technologien [[auftauchen]], [[tritt]] sofort die Diskussion der Abhängigkeit davon in den [[Vordergrund]]. ^39
+
+*[[C1-Hoehen-T2-203-Text#^40|^]]* Unter Wissenschaftlern wird das sehr stark diskutiert, ob es eine Fernsehsucht oder eine Buchsucht überhaupt geben kann. ^40
+
+*[[C1-Hoehen-T2-203-Text#^41|^]]* Aber die Menschen mit [[Sucht]] kann man schon noch nicht zu einer [[Suchtform]] [[zuordnen]] oder [[differenzieren]]. ^41
+
+*[[C1-Hoehen-T2-203-Text#^42|^]]* Man will da einfach nicht zu [[vorschnell]] [[urteilen]]. ^42
+
 
 ###### Moderatorin:  
 Herr Knizka, vielen Dank für das Gespräch.

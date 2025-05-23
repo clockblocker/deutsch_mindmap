@@ -128,4 +128,4 @@ Verwendung:
 - Drückt eine mittlere Intensität aus
 '''
 
-I chose this template because "ziemlich" functions both as an adverb and an adjective modifier, indicating degree or intensity. The template highlights its usage, synonyms, and translations while providing context for how the word is typically used in German., [[Konnektivpartikeln]], [[Konjunktoren]], [[kurzfristig]], [[Sobald]]
+I chose this template because "ziemlich" functions both as an adverb and an adjective modifier, indicating degree or intensity. The template highlights its usage, synonyms, and translations while providing context for how the word is typically used in German., [[Konnektivpartikeln]], [[Konjunktoren]], [[kurzfristig]], [[Sobald]], [[künftig]]

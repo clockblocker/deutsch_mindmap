@@ -1,2 +1,2 @@
-[[handel]], [[Kauf]]
-, [[Zahlung]], [[Verkauf]], [[Wohnungsverkauf]]
+[[Handel]], [[Kauf]]
+, [[Zahlung]], [[Verkauf]], [[Wohnungsverkauf]], [[Geschäft]]

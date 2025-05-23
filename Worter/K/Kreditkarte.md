@@ -1,1 +1,1 @@
-, [[Münze]]
+, [[Münze]], [[Zahlungsmittel]]

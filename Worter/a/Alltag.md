@@ -40,4 +40,4 @@ G: des [[Alltags]], der [[Alltage]]
 D: dem [[Alltag]], den [[Alltagen]]
 
 
-#Maskulin , [[Straßenfest]]
+#Maskulin , [[Straßenfest]], [[Alltagsverhaltensweise]]

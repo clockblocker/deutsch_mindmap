@@ -1,2 +1,2 @@
 , [[enttäuscht]], [[ratlos]], [[frustriert]], [[deprimiert]]
-, [[selbstbewusst]], [[unsicher]]
+, [[selbstbewusst]], [[unsicher]], [[Zuversicht]]

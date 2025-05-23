@@ -3,6 +3,9 @@
 ---
 Dein Auto ist [[nah]]. Mein Auto ist [[näher]]. Sein Auto ist am [[nächsten]].
 
+*[[C1-Hoehen-T2-203-Text#^32|^]]* [[Computerspielsucht]] könnte die erste Sucht sein, die tatsächlich als [[Sucht]] [[anerkannt]] wird. 
+Da ist die [[Weltgesundheitsorganisation]] ganz [[nah]] [[dran]]
+
 Das [[Gegenteil]] von “[[fern]]” ist “[[nah]]”.
 
 *Der [[Haut]] so [[nah]], dem Auge [[fern]]*  
