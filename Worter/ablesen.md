@@ -3,6 +3,11 @@
 ---
 Kann man Intelligenz eigentlich am [[Gesicht]] [[ablesen]]?
 
+*[[C1-Hoehen-T2-202-Text#^14|^]]* Man kann es auch dar`an` [[ablesen]], dass sich Menschen in der Politik nicht mehr engagieren oder dass in den großen Parteien ein Mitgliederschwund herrscht. ^14
+
+
+*[[C1-Hoehen-T2-202-Text#^8|^]]* Eine [[eindeutig]]e [[Entwicklung]] lässt sich schwer [[ablesen]]
+
 ---
 = [[entnehmen]], [[erfahren]], [[erkennen]] | [[vorlesen]], [[deuten]]
 ≈ [[interpretieren]], [[verstehen]], [[schließen]] | [[rezitieren]], [[vortragen]], [[interpretieren]]
@@ -55,4 +60,4 @@ sie, [[lesen ab]], [[lasen ab]], [[lesen ab]], [[läsen ab]], [[lesen ab]]
 Adjektive: [[ablesend]], [[ablesender]], [[ablesendst]]
 
 ---
-[[ablesender]], [[ablesendes]], [[ablesende]], [[ablesenden]], [[ablesendem]], [[ablesenderer]], [[ablesenderes]], [[ablesendere]], [[ablesenderen]], [[ablesenderem]], [[ablesendster]], [[ablesendstes]], [[ablesendste]], [[ablesendsten]], [[ablesendstem]]
+[[ablesender]], [[ablesendes]], [[ablesende]], [[ablesenden]], [[ablesendem]], [[ablesenderer]], [[ablesenderes]], [[ablesendere]], [[ablesenderen]], [[ablesenderem]], [[ablesendster]], [[ablesendstes]], [[ablesendste]], [[ablesendsten]], [[ablesendstem]], [[engagieren]]

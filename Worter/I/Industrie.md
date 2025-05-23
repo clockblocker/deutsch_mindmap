@@ -1,1 +1,1 @@
-, [[Landwirtschaft]], [[Berufsfeld]], [[Baubranche]]
+, [[Landwirtschaft]], [[Berufsfeld]], [[Baubranche]], [[Werbeindustrie]]

@@ -33,4 +33,4 @@ D: der [[Meinungsfreiheit]], den [[Meinungsfreiheiten]]
 ---
 [[meinen]], [[frei]], [[Meinung]], [[Freiheit]], [[Grundrecht]], [[Demokratie]], [[Pressezensur]], [[Meinungsbildung]]
 
-#Feminin 
+#Feminin , [[Meinungsumfrage]]

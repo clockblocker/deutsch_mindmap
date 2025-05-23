@@ -1,3 +1,5 @@
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
+
 ➕ 🔴 die [[Vermehrung]], [fɛɐ̯ˈmeːʁʊŋ](https://youglish.com/pronounce/Vermehrung/german) | [[vermehren]]
 die [[Vermehrungen]]
 

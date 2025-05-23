@@ -1,1 +1,1 @@
-, [[regierend]]
+, [[regierend]], [[herrschen]]

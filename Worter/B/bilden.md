@@ -3,7 +3,10 @@
 haben [[gebildet]]
 
 ---
-Durch Kataras Handbewegungen bewegt sich das Wasser und in einem großen Eisberg hinter ihr [[bilden]] sich [[Risse]].
+Durch Kataras Handbewegungen bewegt sich das Wasser und in einem großen Eisberg hinter ihr [[bilden]] sich [[Risse]]
+
+*[[C1-Hoehen-T2-202-Text#^21|^]]* Wenn man weiß, wie ein politisches System funktioniert, kann man sich auch eine Meinung über die aktuelle politische [[Lage]] [[bilden]]
+
 
 ---
 [[ausbilden]] - [[aus]] = [[bilden]]

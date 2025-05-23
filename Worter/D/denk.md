@@ -1,3 +1,3 @@
 [[denken]]
 , [[nachdenken]]
-, [[nachdenklich]], [[ausdenken]], [[Denkweise]], [[Denkvermögen]]
+, [[nachdenklich]], [[ausdenken]], [[Denkweise]], [[Denkvermögen]], [[überdenken]]

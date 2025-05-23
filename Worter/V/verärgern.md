@@ -1,1 +1,1 @@
-, [[ärgern]], [[gefallen]], [[missfallen]], [[versüssen]], [[beeindrucken]]
+, [[ärgern]], [[gefallen]], [[missfallen]], [[versüssen]], [[beeindrucken]], [[verdrießen]]

@@ -35,4 +35,4 @@ Morpheme: [[künd]][[igen]]
 | Sie | [[kündigen]] | [[kündigten]] | [[kündigen Sie]] | [[kündigen]] | [[kündigten]] |
 
 Partizip I: [[kündigend]], Partizip II: [[gekündigt]]
-[[kündigen]] - [[kün]] = [[digen]], [[beschäftigen]], [[anstellen]], [[Kündigung]], [[Kündigungsfrist]], [[absagen]], [[wegschicken]], [[anwerben]], [[entlassen]], [[ankündigen]], [[auftraggeben]]
+[[kündigen]] - [[kün]] = [[digen]], [[beschäftigen]], [[anstellen]], [[Kündigung]], [[Kündigungsfrist]], [[absagen]], [[wegschicken]], [[anwerben]], [[entlassen]], [[ankündigen]], [[auftraggeben]], [[engagieren]]

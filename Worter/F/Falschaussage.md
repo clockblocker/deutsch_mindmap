@@ -1,1 +1,1 @@
-, [[Aussage]], [[Lüge]]
+, [[Aussage]], [[Lüge]], [[Wahlversprechen]]

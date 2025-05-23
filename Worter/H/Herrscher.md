@@ -1,1 +1,1 @@
-, [[Monarch]], [[vorherrschen]]
+, [[Monarch]], [[vorherrschen]], [[herrschen]]

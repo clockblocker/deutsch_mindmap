@@ -51,4 +51,4 @@ sie, [[hemmen]], [[hemmten]], [[hemmen]], [[hemmten]], [[hemmen]]
 Adjektive: [[hemmend]], [[hemmender]], [[hemmendst]]
 
 ---
-[[hemmender]], [[hemmendes]], [[hemmende]], [[hemmenden]], [[hemmendem]], [[hemmenderer]], [[hemmenderes]], [[hemmendere]], [[hemmenderen]], [[hemmenderem]], [[hemmendster]], [[hemmendstes]], [[hemmendste]], [[hemmendsten]], [[hemmendstem]], [[eindämmen]]
+[[hemmender]], [[hemmendes]], [[hemmende]], [[hemmenden]], [[hemmendem]], [[hemmenderer]], [[hemmenderes]], [[hemmendere]], [[hemmenderen]], [[hemmenderem]], [[hemmendster]], [[hemmendstes]], [[hemmendste]], [[hemmendsten]], [[hemmendstem]], [[eindämmen]], [[unterbinden]]

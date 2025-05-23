@@ -1,3 +1,4 @@
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 --> [[⛪ Ingredient-Plazt]] <--
 
 🎁 🔵 der [[Erhalt]], [ɛɐ̯ˈhalt]
@@ -28,3 +29,6 @@ A: den [[Erhalt]], die [[Erhaltungen]]
 G: des [[Erhaltes]], der [[Erhaltungen]]  
 D: dem [[Erhalt]], den [[Erhaltungen]]
 , [[Wegfall]], [[Abgabe]]
+
+
+#Maskulin 

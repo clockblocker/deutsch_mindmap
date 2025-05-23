@@ -1,2 +1,2 @@
 , [[Deutschland]]
-, [[althochdeutsch]], [[Deutsche]]
+, [[althochdeutsch]], [[Deutsche]], [[Durchschnittsdeutsche]]

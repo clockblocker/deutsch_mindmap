@@ -1,1 +1,1 @@
-, [[sagen]], [[Einwilligung]], [[Verpflichtung]], [[Garantie]]
+, [[sagen]], [[Einwilligung]], [[Verpflichtung]], [[Garantie]], [[Wahlversprechen]]

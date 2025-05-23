@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Vernunft]], [[Vernunfts]], [[Vernunfte]], [[Ver
 
 ---
 #Substantiv #Feminin
-''', [[Weisheit]], [[vernünftig]], [[Blödelei]]
+''', [[Weisheit]], [[vernünftig]], [[Blödelei]], [[Aufklärung]]

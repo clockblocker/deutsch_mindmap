@@ -1,3 +1,3 @@
 [[fern]][[sehen]]
 
-сомтреть телевизор, [[Fernsehturm]], [[ferner]], [[Medium]]
+сомтреть телевизор, [[Fernsehturm]], [[ferner]], [[Medium]], [[Kanal]]

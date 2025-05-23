@@ -36,4 +36,4 @@ G: der [[Voraussetzung]], der [[Voraussetzungen]]
 D: der [[Voraussetzung]], den [[Voraussetzungen]]
 , [[Grundvoraussetzung]]
 
-#Feminin , [[Rahmenbedingung]], [[vorausgehen]]
+#Feminin , [[Rahmenbedingung]], [[vorausgehen]], [[Nährboden]]

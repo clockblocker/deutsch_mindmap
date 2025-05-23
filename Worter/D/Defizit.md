@@ -29,4 +29,4 @@ A: das [[Defizit]], die [[Defizite]]
 G: des [[Defizits]], der [[Defizite]]
 D: dem [[Defizit]], den [[Defiziten]]
 
-#Neuter 
+#Neuter , [[Schwund]]

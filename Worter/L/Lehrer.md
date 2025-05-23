@@ -1,1 +1,1 @@
-, [[Erzieher]], [[Dozent]], [[lehren]], [[Schulklasse]], [[Lehrerpult]], [[Lehrkraft]], [[Schulung]], [[Lehrerberuf]], [[Lehramtsstudium]], [[Lehramt]], [[Lernende]]
+, [[Erzieher]], [[Dozent]], [[lehren]], [[Schulklasse]], [[Lehrerpult]], [[Lehrkraft]], [[Schulung]], [[Lehrerberuf]], [[Lehramtsstudium]], [[Lehramt]], [[Lernende]], [[Mathelehrkraft]]

@@ -28,3 +28,5 @@ D: der [[Kürzung]], den [[Kürzungen]]
 
 ---
 [[kürzen]], [[kurz]], [[kürzlich]], [[kürzbar]], [[Abkürzung]], [[Mittelzuweisung]], [[Reduktion]], [[Streichung]], [[Erhöhung]], [[Zulage]]
+
+#Feminin 

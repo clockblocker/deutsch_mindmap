@@ -5,13 +5,15 @@ nicht [[häufig]]
 ---
 Wir [[zweifeln]] [[selten]]
 
-*[[C1-Lesen-T4-100-Text#^31|^]]* Das liegt natürlich auch daran, dass echte Meisterwerke, egal aus welcher Epoche, [[selten]] sind. ^31
+*[[C1-Hoehen-T2-202-Text#^9|^]]* Fast zwei Drittel der Deutschen glauben, dass die Politikerinnen und Politiker heute [[selten]]er die Wahrheit sagen als noch vor 30 Jahren
 
-*[[3  Ein Selbstversuch als Hobbybäuerin#^16|^]]* Andere Freunde riefen mich immer [[seltener]] an, weil sie [[befürchteten]], ich könnte sie um Hilfe bitten. ^16
+*[[C1-Lesen-T4-100-Text#^31|^]]* Das liegt natürlich auch daran, dass echte Meisterwerke, egal aus welcher Epoche, [[selten]] sind
+
+*[[3  Ein Selbstversuch als Hobbybäuerin#^16|^]]* Andere Freunde riefen mich immer [[seltener]] an, weil sie [[befürchteten]], ich könnte sie um Hilfe bitten
 
 Das gibt es nur [[selten]]. Glück im Spiel und in der Liebe haben nur [[wenige]]
 
-Er bekommt sechs Zeitschriften, die 80 Euro im Monat kosten. Und er zahlt 60 Euro im Monat für ein Fitnessstudio, in das er zu [[selten]] geht. 
+Er bekommt sechs Zeitschriften, die 80 Euro im Monat kosten. Und er zahlt 60 Euro im Monat für ein Fitnessstudio, in das er zu [[selten]] geht
 
 ---
 Synonyme: [[ungewöhnlich]], [[rar]], [[sporadisch]], [[vereinzelt]], [[gelegentlich]]

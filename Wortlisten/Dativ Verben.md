@@ -1,5 +1,5 @@
 Die Verben 1–3 beziehen sich auf den Dativ:** 
-1. **Etwas [[Nützliches]], [[Schädliches]], [[Freudiges]], [[Schmerzliches]], Freundliches**: [[nützen]], [[schaden]], [[dienen]], [[helfen]], [[beistehen]], [[bekommen]], [[gefallen]], [[missfallen]], [[gehören]], [[fehlen]], [[schmecken]], [[genügen]], [[gelingen]], [[misslingen]], [[glücken]], [[missglücken]]; [[gehorchen]], [[drohen]], [[zürnen]], [[vertrauen]], [[misstrauen]], [[glauben]], [[lauschen]], [[zuhören]], [[zusehen]], [[schmeicheln]], [[trotzen]], [[widerstehen]] usw. 
+1. **Etwas [[Nützliches]], [[Schädliches]], [[Freudiges]], [[Schmerzliches]], Freundliches**: [[nützen]], [[schaden]], [[dienen]], [[helfen]], [[beistehen]], [[bekommen]], [[gefallen]], [[missfallen]], [[gehören]], [[fehlen]], [[schmecken]], [[genügen]], [[gelingen]], [[misslingen]], [[glücken]], [[missglücken]]; [[gehorchen]], [[drohen]], [[zürnen]], [[vertrauen]], [[Misstrauen]], [[glauben]], [[lauschen]], [[zuhören]], [[zusehen]], [[schmeicheln]], [[trotzen]], [[widerstehen]] usw. 
 
 2. **Eine [[Annäherung]], [[Entfernung]], [[Gleichheit]], Ungleichheit**: sich [[nähern]], [[folgen]], [[begegnen]] (Ausnahme: _treffen_ mit Akkusativ), [[weichen]], [[ausweichen]], [[entweichen]], [[entlaufen]], [[entkommen]], [[entrinnen]], [[entfliehen]], [[entgehen]], [[gleichen]], [[ähneln]] usw. 
 

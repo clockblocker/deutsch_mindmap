@@ -1,1 +1,1 @@
-, [[Oberhaupt]], [[Vorsitzende]]
+, [[Oberhaupt]], [[Vorsitzende]], [[Führungspersönlichkeit]]

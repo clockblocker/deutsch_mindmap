@@ -1,7 +1,10 @@
 ✅ [[bestätigen]], [bəˈʃtɛːtɪɡən | [[bestätigte]], haben [[bestätigt]]
 
 ---
-[[15 genetiv#^5|^]] »Da habe ich meinen Geburtstag gefeiert - in diesem Zimmer. Meine Tante und meine Gäste werden es Ihnen [[bestätigen]].« ^5
+*[[15 genetiv#^5|^]]* »Da habe ich meinen Geburtstag gefeiert - in diesem Zimmer. Meine Tante und meine Gäste werden es Ihnen [[bestätigen]].«
+
+*[[C1-Hoehen-T2-202-Text#^4|^]]* Auch die [[lebhaften]] Diskussionen über Politik in sozialen Netzwerken [[bestätigen]] diesen [[Eindruck]]
+
 
 ---
 = [[beglaubigen]], [[vergewissen]], [[bezeugen]]
@@ -28,4 +31,4 @@ PI: [[bestätigend]], PII: [[bestätigt]], Zu+inf: [[zu bestätigen]]
 
 ---
 [[Bestätigung]], [[Bestätigungsmail]], [[Bestätigungsschreiben]], [[Bestätigungsurkunde]], [[bestätigenswert]]
-</ideal_output>, [[beweisen]], [[Geschenkbestätigung]], [[versichern]], [[erweisen]], [[bewähren]], [[belegen]], [[hinterfragen]], [[verfälschen]]
+</ideal_output>, [[beweisen]], [[Geschenkbestätigung]], [[versichern]], [[erweisen]], [[bewähren]], [[belegen]], [[hinterfragen]], [[verfälschen]], [[anerkennen]]

@@ -1,1 +1,1 @@
-, [[Neugier]], [[Karrierebewusstsein]], [[Motivation]], [[Interesse]], [[Gleichgültigkeit]], [[Tatendrang]], [[Faulheit]]
+, [[Neugier]], [[Karrierebewusstsein]], [[Motivation]], [[Interesse]], [[Gleichgültigkeit]], [[Tatendrang]], [[Faulheit]], [[Politikverdrossenheit]], [[Politikmüdigkeit]]

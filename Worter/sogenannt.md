@@ -41,4 +41,4 @@ N: [[sogenanntes]], [[sogenannters]], [[sogenanntestes]]
 P: [[sogenannten]], [[sogenannteren]], [[sogenanntesten]]  
 
 ---
-[[nennen]], [[genannt]], [[Benennung]], [[Bezeichnung]]
+[[nennen]], [[genannt]], [[Benennung]], [[Bezeichnung]], [[Sog]]

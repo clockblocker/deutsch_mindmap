@@ -1,1 +1,1 @@
-, [[frustriert]]
+, [[frustriert]], [[Politikverdrossenheit]], [[Verdrossenheit]], [[Politikmüdigkeit]]

@@ -1,1 +1,1 @@
-, [[Anerkennung]]
+, [[Anerkennung]], [[anerkennen]]

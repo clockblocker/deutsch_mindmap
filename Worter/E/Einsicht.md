@@ -24,4 +24,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Einsicht]], [[Einsicht]], [[Einsichten]], [[Einsichten]]
 
 ---
-#Substantiv #Feminin, [[Weisheit]], [[Einblick]], [[Wahrnehmung]]--> [[🗣️ Ingredient-Meinung]] <--
+#Substantiv #Feminin, [[Weisheit]], [[Einblick]], [[Wahrnehmung]]--> [[🗣️ Ingredient-Meinung]] <--, [[Aufklärung]]

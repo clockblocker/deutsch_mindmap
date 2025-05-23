@@ -35,4 +35,4 @@ A: die [[Führungskraft]], die [[Führungskräfte]]
 G: der [[Führungskraft]], der [[Führungskräfte]]
 D: der [[Führungskraft]], den [[Führungskräften]]
 
-#Feminin 
+#Feminin , [[Führungsstil]], [[Führungspersönlichkeit]]

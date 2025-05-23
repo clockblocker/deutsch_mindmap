@@ -1,1 +1,1 @@
-[[Haupt]], [[Leitung]], [[Behördenleiter]], [[Regierungschef]], [[Verwaltung]], [[Führungskraft]], [[Geschäftsführung]], [[Ausführung]]
+[[Haupt]], [[Leitung]], [[Behördenleiter]], [[Regierungschef]], [[Verwaltung]], [[Führungskraft]], [[Geschäftsführung]], [[Ausführung]], [[Führungsstil]], [[Führungspersönlichkeit]]

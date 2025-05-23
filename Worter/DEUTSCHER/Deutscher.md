@@ -1,1 +1,1 @@
-, [[Thüringer]]
+, [[Thüringer]], [[Durchschnittsdeutsche]]

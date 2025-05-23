@@ -41,6 +41,8 @@
 - ⬇️ [[abziehen]] *(to subtract: quantity, value)*
 - ⬇️ [[einengen]] *(to constrain: space, options)*
 - ⬇️ [[verkürzen]] *(to shorten: time, text)*
+- 📉 [[Schwund]] *(shrinkage, loss, decline)*  
+- 
 
 ---
 
@@ -50,4 +52,53 @@
 - 💸 [[verbilligen]] *(to make cheaper: inverse growth of price)*
 - 📉 [[Stressreduktion]] *(stress reduction: compound, not verb but relevant)*  
 - 📉 [[Reduktion]] *(reduction: noun, general concept)*
-- ⛔ [[Osterweiterung]] *(contextual, geopolitical expansion — not a verb)*
+- ⛔ [[Osterweiterung]] *(contextual, geopolitical expansion — not a verb)*, [[Schwund]]
+
+
+[[Rückgang]]
+[[Vermehrung]]
+[[Leistungsabbau]]
+[[Mitgliederschwund]]
+[[Abnahme]]
+[[Erhöhung]]
+[[Anstieg]]
+[[Kürzung]]
+[[Zulage]]
+[[Osterweiterung]]
+[[Streichung]]
+[[reduzieren]]
+[[Einschränkung]]
+[[Ausbau]]
+[[Reduzierung]]
+[[Absenkung]]
+[[Minderung]]
+[[Abnahme]]
+[[Zulauf]]
+
+[[Erhalt]]
+
+[[Mehrwert]]
+
+[[Verdienst]]
+[[fehlen]]
+[[Kurs]]
+[[Bestand]]
+[[Wiedergutmachung]]
+[[Einsatz]]
+[[Erlös]]
+[[Kontrollverlust]]
+[[Standbein]]
+[[Provision]]
+[[Imageschaden]]
+[[nutzen]]
+[[Siegerprämie]]
+[[Preisgeld]]
+[[Ersparnis]]
+[[Rendite]]
+[[Fehlbetrag]]
+[[Je mehr]]
+[[zunehmen]]
+[[Reduktion]]
+[[Minderung]]
+[[Verbesserung]]
+[[steigern]]

@@ -1,3 +1,3 @@
 
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
-, [[betreffen]], [[jeweilig]]
+, [[betreffen]], [[jeweilig]], [[diesbezüglich]]

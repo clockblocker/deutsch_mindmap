@@ -1,3 +1,5 @@
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
+
 ✂️ 🔴 die [[Streichung]], [ˈʃtʁaɪ̯çʊŋ](https://youglish.com/pronounce/Streichung/german)
 die [[Streichungen]]
 
@@ -28,3 +30,5 @@ N: die [[Streichung]], die [[Streichungen]]
 A: die [[Streichung]], die [[Streichungen]]
 G: der [[Streichung]], der [[Streichungen]]
 D: der [[Streichung]], den [[Streichungen]]
+
+#Feminin 

@@ -32,4 +32,4 @@ Morphems:
 #Substantiv #Feminin, [[Herzeleid]], [[Freudiges]], [[erfreuen]], [[Entscheidungsfreude]], [[Erleichterung]], [[Unmut]], [[Langeweile]]
 
 
-Freude, [[Freund]], [[Mühe]]
+Freude, [[Freund]], [[Mühe]], [[Verdrossenheit]]

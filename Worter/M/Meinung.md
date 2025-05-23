@@ -58,4 +58,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Meinung]], [[Meinungen]], [[Meinungs]]
 
 ---
-#Substantiv #Neuter
+#Substantiv #Neuter, [[Meinungsumfrage]]

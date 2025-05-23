@@ -32,4 +32,4 @@ Partizip I: [[abwartend]], Partizip II: [[abgewartet]]
 
 , [[durchknallen]], [[warten]]
 
-, [[agieren]]
+, [[agieren]], [[übereilen]]

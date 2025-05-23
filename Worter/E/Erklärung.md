@@ -65,4 +65,4 @@ G: der [[Erklärung]], der [[Erklärungen]]
 D: der [[Erklärung]], den [[Erklärungen]]
 , [[Entzifferung]]
 
-#Feminin , [[Begriffsbestimmung]]
+#Feminin , [[Begriffsbestimmung]], [[Interpretation]]

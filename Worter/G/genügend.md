@@ -1,9 +1,10 @@
 --> 🧮 [[Grad-Quantität]] <--
+-->[[Grad-Gewicht]] <--
 
 ✅ [[genügend]], [ɡəˈnyːɡn̩t](https://youglish.com/pronounce/genügend/german)
 
 ---
-*[[C1-Hoehen-T2-201-Text#^31|^]]* [[Vorbereiten|Bereiten]] denn die [[Bildungseinrichtung]]en [[angehende]] Mathelehrkräfte genügend auf den Beruf vor?
+*[[C1-Hoehen-T2-201-Text#^31|^]]* [[Vorbereiten|Bereiten]] denn die [[Bildungseinrichtung]]en [[angehende]] Mathelehrkräfte [[genügend]] auf den Beruf vor?
 
 ---
 = [[ausreichend]], [[hinreichend]], [[ausgiebig]], [[passabel]]

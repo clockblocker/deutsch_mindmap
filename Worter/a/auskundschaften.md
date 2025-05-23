@@ -1,2 +1,2 @@
 , [[hinüberspähen]]
-, [[schnüffeln]], [[erkundigen]], [[Erkunden]], [[Erschnüffeln]]
+, [[schnüffeln]], [[erkundigen]], [[Erkunden]], [[Erschnüffeln]], [[ausspionieren]]

@@ -67,3 +67,4 @@ PI: [[schwindend]], PII: [[geschwunden]], Zu+inf: [[zu schwinden]]
 
 ---
 [[Schwund]], [[schwindelig]], [[verschwinden]], [[entschwinden]], [[dahinschwinden]]
+, [[Mitgliederschwund]]

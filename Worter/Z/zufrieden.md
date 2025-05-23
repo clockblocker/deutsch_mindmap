@@ -35,4 +35,4 @@ Einzigartige mögliche Formen:
 
 [[glücklich]], [[jämmerlich]], [[erfreut]]
 , [[enttäuscht]], [[beleidigt]]
-, [[zufriedengeben]], [[Mitarbeiterzufriedenheit]]
+, [[zufriedengeben]], [[Mitarbeiterzufriedenheit]][[verdrießen]]

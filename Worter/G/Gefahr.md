@@ -6,6 +6,8 @@ die [[Gefahren]]
 ---
 Katara, du hättest nicht zu diesem Schiff gehen dürfen. Jetzt sind alle im Dorf in [[Gefahr]]
 
+Viele Internetnutzer sind sich der [[Gefahr]]en bewusst, die durch das [[Veröffentlichen]] von Privatfotos [[entstehen]].  
+
 28 Es besteht die [[Gefahr]] eines [[Imageschadens]] des [[Auftraggebers]].  
 
 *[[C1-Lesen-T2-101-Text#^26|^]]* Immer [[vorausgesetzt]], dass das Kind nicht in [[Gefahr]] [[gerät]], zum Beispiel durch [[verschluckbare]] Teile. ^26

@@ -1,3 +1,4 @@
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
 --> 📈 [[Grad-Vergleich]] <--
 
 📈 🔵 der [[Anstieg]], [ˈanˌʃtiːk](https://youglish.com/pronounce/Anstieg/german)
@@ -30,4 +31,4 @@ G: des [[Anstiegs]], der [[Anstiege]]
 D: dem [[Anstieg]], den [[Anstiegen]]
 
 
-#Maskulin 
+#Maskulin , [[Mitgliederschwund]]

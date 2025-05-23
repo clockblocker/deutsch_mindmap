@@ -23,3 +23,5 @@ D: dem [[Umschlag]], den [[Umschlägen]]
 
 ---
 [[umschlagen]], [[Umschlagpapier]], [[Buchumschlag]], [[Klappumschlag]]
+
+#Maskulin 

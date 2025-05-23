@@ -15,7 +15,7 @@
 🖼️ [[Eindruck]] *(impression — mental snapshot)*  
 🧿 [[Wirklichkeit]] *(reality — what is, beyond opinions)*  
 🔎 [[Wahrheit]] *(truth — verified reality)*
-
+📏 [[Messung]] *(measurement)*
 
 #### Belief & Attitude  
 🙏 [[Glaub]] *(believe — faith-based processing)*  

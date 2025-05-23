@@ -24,3 +24,6 @@ Genitive: des [[Koffers]], der [[Koffer]]
 Dative: dem [[Koffer]], den [[Koffern]] 
 
 [[koffern]], [[Kofferraum]], [[Kofferkind]], [[Kofferwort]], [[Schultasche]]
+
+
+#Maskulin 

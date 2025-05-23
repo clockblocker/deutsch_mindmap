@@ -3,6 +3,8 @@
 ---
 *[[Aschenputtel.md#^2|^]]* Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]
 
+Viele Internetnutzer sind sich der [[Gefahr]]en bewusst, die durch das [[Veröffentlichen]] von Privatfotos [[entstehen]]
+
 *[[C1-Hoehen-T2-201-Text#^9|^]]* 15 Schreiben und Rechnen sind [[geschichtlich]] [[gesehen]] parallel ==[[entstanden]]==
 *(15 Writing and arithmetic [[historically]] [[speaking]] ==arose== in parallel.)*
 

@@ -26,4 +26,4 @@ Morpheme: [[Worter/Ü/über]][[stürz]][[en]]
 | Sie | [[überstürzen]] | [[überstürzten]] | [[überstürzen Sie]] | [[überstürzen]] | [[überstürzten]] |
 
 Partizip I: [[überstürzend]], Partizip II: [[überstürzt]]
-[[überstürzen]] - [[Worter/Ü/über]] = [[stürzen]]
+[[überstürzen]] - [[Worter/Ü/über]] = [[stürzen]], [[übereilen]]

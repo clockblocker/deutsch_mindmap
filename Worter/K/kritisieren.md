@@ -36,4 +36,4 @@ PI: [[kritisierend]], PII: [[kritisiert]], Zu+inf: [[zu kritisieren]]
 
 , [[danken]], [[tadeln]], [[schmeicheln]], [[beschweren]], [[reklamieren]], [[vorwerfen]], [[gratulieren]]
 
-, [[empfehlen]]
+, [[empfehlen]], [[verteufeln]]

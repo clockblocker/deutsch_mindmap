@@ -1,4 +1,4 @@
-[[0-C1-Hoehen-T2-Ubung-List|Ubung-List]]
+ [[0-C1-Hoehen-T2-Ubung-List|Ubung-List]]
 
 ---
 
@@ -90,6 +90,9 @@ Guten Tag.
 
 
 ###### Moderator:  
+Matematik Lehrer zu werden ist ja nir für weniger ein Traumberuf...
+
+###### Frau Friedrich:  
 *[[C1-Hoehen-T2-201-Text#^19|^]]* Ich glaube, dass dieses Problem in der [[Anerkennung]] des [[Lehrerberuf]]s [[schlechthin]] liegt. ^19
 
 *[[C1-Hoehen-T2-201-Text#^20|^]]* Ich meine damit nicht die Eltern oder Schülerinnen und Schüler. ^20
@@ -122,7 +125,7 @@ Guten Tag.
 
 
 ###### Moderator:  
-*[[C1-Hoehen-T2-201-Text#^31|^]]* [[Vorbereiten|Bereiten]] denn die [[Bildungseinrichtung]]en [[angehende]] Mathelehrkräfte genügend auf den Beruf vor? ^31
+*[[C1-Hoehen-T2-201-Text#^31|^]]* [[Vorbereiten|Bereiten]] denn die [[Bildungseinrichtung]]en [[angehende]] [[Mathelehrkräfte]] [[genügend]] auf den Beruf vor? ^31
 
 
 ###### Frau Friedrich:  
@@ -179,5 +182,6 @@ Guten Tag.
 
 ###### Moderator:  
 *[[C1-Hoehen-T2-201-Text#^53|^]]* Frau Friedrich, ich bedanke mich für das interessante Gespräch. ^53
+
 
 

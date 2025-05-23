@@ -1,1 +1,1 @@
-, [[Pandemie]]
+, [[Pandemie]], [[Weltgesundheitsorganisation]]

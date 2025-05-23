@@ -28,3 +28,5 @@ N: die [[Übersetzung]], die [[Übersetzungen]]
 A: die [[Übersetzung]], die [[Übersetzungen]]
 G: der [[Übersetzung]], der [[Übersetzungen]]
 D: der [[Übersetzung]], den [[Übersetzungen]]
+
+#Feminin 

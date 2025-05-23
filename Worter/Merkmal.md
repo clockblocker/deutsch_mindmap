@@ -4,11 +4,13 @@ die [[Merkmale]]
 ---
 *[[C1-Hoehen-T2-200-Text#^32|^]]* Gibt es bestimmte [[Merkmal]]e im Gesicht, die ein [[Indiz]] für Intelligenz sind?
 
-30. Was ist kein [[Merkmal]] unserer Demokratie? (80%)
-	- [ ] regelmäßige Wahlen
-	- [x] [[Pressezensur]]
-	- [ ] Meinungsfreiheit
-	- [ ] [[verschiedene]] Parteien
+Herr Knizka sagt, dass alle [[Art]]en von Online-[[Sucht]] ein [[gemeinsam]]es [[Merkmal]] haben
+
+Was ist kein [[Merkmal]] unserer Demokratie? (80%)
+- [ ] regelmäßige Wahlen
+- [x] [[Pressezensur]]
+- [ ] Meinungsfreiheit
+- [ ] [[verschiedene]] Parteien
 
 ---
 = [[Charakteristikum]], [[Kennzeichen]], [[Eigenschaft]]

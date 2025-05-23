@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Meeres]], [[Meere]], [[Meeren]]
 
 ---
-#Substantiv #Neuter, [[s1 e1]], [[Küste]], [[Meeresströmung]], [[Fluss]], [[Gelände]], [[Meeresboden]]
+#Substantiv #Neuter, [[s1 e1]], [[Küste]], [[Meeresströmung]], [[Fluss]], [[Gelände]], [[Meeresboden]], [[Kanal]]

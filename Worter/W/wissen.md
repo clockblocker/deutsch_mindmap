@@ -115,4 +115,4 @@ G: des [[Wissens]], -
 D: dem [[Wissen]], -
 
 
-#Neuter , [[Versehen]]
+#Neuter , [[Versehen]], [[Aufklärung]]

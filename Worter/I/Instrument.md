@@ -1,1 +1,1 @@
-[[mittel]], [[Gerät]], [[Werkzeug]], [[Saiteninstrument]], [[Tool]]
+[[mittel]], [[Gerät]], [[Werkzeug]], [[Saiteninstrument]], [[Tool]], [[Schere]]

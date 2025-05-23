@@ -1,4 +1,3 @@
-
 --> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 

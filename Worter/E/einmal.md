@@ -22,4 +22,4 @@ once, one time
 
 , [[irgendwann]], [[siebenmal]]
 , [[tausendfach]]
-, [[einig]], [[viermal]], [[Einmalzahlung]]
+, [[einig]], [[viermal]], [[Einmalzahlung]], [[einhundertmal]]

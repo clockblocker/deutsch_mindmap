@@ -4,17 +4,21 @@ nicht [[unzuständig]]
 ---
 Meine Kusine, Ihre Vermieterin, hat diese Woche Urlaub - also bin ich [[zuständig]]
 
+*[[C1-Hoehen-T2-202-Text#^32|^]]* Dafür sind ja auch die Oppositionsparteien [[zuständig]]
+
 80. Welches [[Gericht]] in Deutschland ist [[zuständig]] für die [[Auslegung]] des Grundgesetzes? (79%)
 	- [ ] [[Oberlandesgericht]]
 	- [ ] [[Amtsgericht]]
 	- [x] [[Bundesverfassungsgericht]]
 	- [ ] [[Verwaltungsgericht]]
 
-137. Welches [[Gericht]] ist in Deutschland bei [[Konflikten]] in der [[Arbeitswelt]] [[zuständig]]? (93%)
+81. Welches [[Gericht]] ist in Deutschland bei [[Konflikten]] in der [[Arbeitswelt]] [[zuständig]]? (93%)
 	- [x] das [[Arbeitsgericht]]
 
-256. Ein [[Ehepaar]] möchte in Deutschland ein Restaurant [[eröffnen]]. Was braucht es dazu [[unbedingt]]? (93%)
+82. Ein [[Ehepaar]] möchte in Deutschland ein Restaurant [[eröffnen]]. Was braucht es dazu [[unbedingt]]? (93%)
 	- [x] eine [[Gaststättenerlaubnis]] von der [[zuständigen]] [[Behörde]]
+
+
 ---
 Synonyme: [[verantwortlich]], [[kompetent]], [[befugt]], [[beauftragt]], [[autorisiert]]
 Antonyme: [[unzuständig]], [[inkompetent]]

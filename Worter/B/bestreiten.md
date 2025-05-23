@@ -3,6 +3,9 @@
 ---
 *[[C1-Hoehen-T2-100-Text#^18|^]]* Was die [[Finanzierbarkeit]] [[betrifft]], so sehen einige Modelle und auch ich die Finanzierbarkeit als machbar an, während andere das [[bestreiten]]
 
+9 Politikerinnen und Politiker aus [[verschiedenen]] Ländern [[bestreiten]], sie würden die [[Wahrheit]] [[vertuschen]].  
+
+
 ---
 = [[bezahlen]], [[finanzieren]], [[begleichen]] | [[leugnen]], [[abstreiten]], [[verneinen]]
 ≈ [[tragen]], [[decken]] | [[anzweifeln]], [[in Frage stellen]], [[zugeben]], [[leugnen]], [[Widerspruch]], [[bestätigen]], [[umstreiten]], [[unbestreitbar]], [[absprechen]]

@@ -4,6 +4,8 @@
 *[[Sprechen-T1#^3|^]]* diese [[während]] meines Vortrags schriftlich [[festzuhalten]] ^3
 
 
+*[[C1-Hoehen-T2-202-Text#^5|^]]* Ich möchte zunächst einmal [[festhalten]], dass Politikverdrossenheit ein [[umgangssprachlicher]] [[Begriff]] ist
+
 ![[Sprechen-T1#^4|^]]
 
 

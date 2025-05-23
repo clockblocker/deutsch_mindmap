@@ -1,2 +1,2 @@
 , [[wenden]], [[fließend]]
-, [[tollpatschig]]
+, [[tollpatschig]], [[geschickt]]

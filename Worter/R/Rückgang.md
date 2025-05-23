@@ -1,3 +1,5 @@
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
+
 📉 🔵 der [[Rückgang]], [ˈʁʏkɡaŋ](https://youglish.com/pronounce/Rückgang/german)
 die [[Rückgänge]]
 

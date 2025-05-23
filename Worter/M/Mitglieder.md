@@ -1,1 +1,1 @@
-, [[Mitglied]]
+, [[Mitglied]], [[Mitgliederschwund]]

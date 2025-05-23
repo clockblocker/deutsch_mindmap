@@ -1,1 +1,1 @@
-, [[eifersüchtig]]
+, [[eifersüchtig]], [[Sucht]]

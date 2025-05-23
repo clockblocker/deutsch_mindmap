@@ -35,6 +35,7 @@
 #### 🚫 Verhinderung / Prävention – Prevention / Blocking Threats  
 🚫 [[verhindern]] *(to prevent; active interdiction)*  
 🚫 [[vermeiden]] *(to avoid; preemptive avoidance of danger)*  
+🛑 [[unterbinden]] *(предотвращать, пресекать)*
 
 ---
 

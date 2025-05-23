@@ -1,7 +1,10 @@
 🕵️ [[ermitteln]], [ɛɐ̯ˈmɪtn̩] | [[ermittelte]], haben [[ermittelt]]
 
 ---
-In einem kleinen [[Dorf]] wurde ein [[Koffer]] mit sehr viel Geld [[gestohlen]]. Zwei Polizisten [[ermitteln]] und [[befragen]] alle [[Einwohner]] des Ortes, aber keiner hat etwas gesehen. Und niemand weiß von dem Koffer.
+*[[C1-Hoehen-T2-203-Text#^6|^]]* Man hat zu Beginn versucht, mit [[Fragebogen]] diese [[Zeitdauer]] zu [[ermitteln]], was sich jedoch als [[recht]] schwierig [[gestaltete]], denn die [[Einschätzung]]en der Probandinnen und Probanden waren sehr subjektiv und am Ende meist falsch
+
+In einem kleinen [[Dorf]] wurde ein [[Koffer]] mit sehr viel Geld [[gestohlen]]. Zwei Polizisten [[ermitteln]] und [[befragen]] alle [[Einwohner]] des Ortes, aber keiner hat etwas gesehen. Und niemand weiß von dem Koffer
+
 
 ---
 Synonyme: [[untersuchen]], [[recherchieren]], [[nachforschen]], [[erforschen]], [[aufklären]]

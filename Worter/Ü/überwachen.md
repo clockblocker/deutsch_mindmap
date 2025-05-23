@@ -34,4 +34,4 @@ PI: [[überwachend]], PII: [[überwacht]], Zu+inf: [[überzuwachen]]
 [[überwachen]] - [[Worter/Ü/über]] = [[wachen]] / to monitor, to supervise, to watch over
 
 ---
-[[Überwachung]], [[Überwacher]], [[überwachbar]], [[Überwachungsgerät]], [[Kontrollsystem]]
+[[Überwachung]], [[Überwacher]], [[überwachbar]], [[Überwachungsgerät]], [[Kontrollsystem]], [[ausspionieren]]

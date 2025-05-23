@@ -34,4 +34,4 @@ G: der [[Reduktion]], der [[Reduktionen]]
 D: der [[Reduktion]], den [[Reduktionen]]
 
 
-#Feminin , [[Stressreduktion]]
+#Feminin , [[Stressreduktion]], [[Schwund]]

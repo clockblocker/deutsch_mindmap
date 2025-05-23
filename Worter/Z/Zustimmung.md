@@ -1,3 +1,3 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
 
-#Feminin , [[Reklamation]], [[zustehen]]
+#Feminin , [[Reklamation]], [[zustehen]], [[Abnahme]]

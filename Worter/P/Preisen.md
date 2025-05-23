@@ -1,2 +1,2 @@
 , [[Preis]]
-, [[loben]], [[Spotpreis]]
+, [[loben]], [[Spotpreis]], [[verteufeln]]

@@ -1,2 +1,2 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-, [[Abwägung]], [[Berechnung]]
+, [[Abwägung]], [[Berechnung]], [[Interpretation]], [[Auswertung]], [[Meinungsumfrage]], [[Beurteilung]], [[Messung]], [[Erhebung]]

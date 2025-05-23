@@ -1,1 +1,1 @@
-, [[klären]], [[Erklärung]], [[verklären]]
+, [[klären]], [[Erklärung]], [[verklären]], [[Aufklärung]]

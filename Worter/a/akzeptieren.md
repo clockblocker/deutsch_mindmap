@@ -1,3 +1,3 @@
 --> ✅ [[Ingredient-erlauben-verbieten]] <--
 
-, [[verdrängen]], [[hinterfragen]], [[übernehmen]], [[bestreiten]]
+, [[verdrängen]], [[hinterfragen]], [[übernehmen]], [[bestreiten]], [[anerkennen]]

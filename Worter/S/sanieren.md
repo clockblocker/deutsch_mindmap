@@ -1,1 +1,1 @@
-, [[umbauen]], [[Sanierung]]
+, [[umbauen]], [[Sanierung]], [[zerrütten]]

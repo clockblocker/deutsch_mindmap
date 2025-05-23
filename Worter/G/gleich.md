@@ -1,9 +1,12 @@
 --> ⏱️ [[Temporal-Status]] <--
 --> 📈 [[Grad-Vergleich]] <--
+
 [[gleich]], [ɡlaɪ̯ç]  nicht [[unterschiedlich]]
 = immediately = [[wie]]
 
 ---
+*[[C1-Hoehen-T2-202-Text#^30|^]]* Aber wir sollten Misstrauen nicht [[gleich]] [[von vornherein]] [[verteufeln]]
+
 Zuerst grüßten sie mich und fragten, ob die Plätze noch frei sind, und dann [[vergaßen]] sie mich [[gleich]]. [[13 Nebensätze#^2|(Quelle: 13 Nebensätze)]] 
 
 1. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
@@ -64,4 +67,4 @@ Einzigartige mögliche Formen:
 , [[11 08]], [[s1 e1]]
 
 [[geselle]], [[Gesellschaft]], 
-, [[solche]], [[dieselbe]], [[gleichzeitig]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichheit]], [[Ungleichbehandlung]], [[Ausgleich]], [[gleichermaßen]], [[Sobald]], [[gleichaltrig]], [[Gleichaltrige]], [[Gleichgültigkeit]], [[konträr]], [[ungleich]], [[gleichmäßig]], [[Gleichung]]
+, [[solche]], [[dieselbe]], [[gleichzeitig]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichheit]], [[Ungleichbehandlung]], [[Ausgleich]], [[gleichermaßen]], [[Sobald]], [[gleichaltrig]], [[Gleichaltrige]], [[Gleichgültigkeit]], [[konträr]], [[ungleich]], [[gleichmäßig]], [[Gleichung]], [[dergleichen]]

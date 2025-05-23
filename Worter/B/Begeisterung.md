@@ -1,1 +1,1 @@
-, [[begeistern]], [[begeistert]], [[Unmut]], [[Gleichgültigkeit]]
+, [[begeistern]], [[begeistert]], [[Unmut]], [[Gleichgültigkeit]], [[Verdrossenheit]], [[Politikmüdigkeit]]

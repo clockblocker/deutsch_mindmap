@@ -20,4 +20,4 @@ Morphems:
 
 ---
 #Substantiv #Feminin, [[zusammenschrauben]]
-, [[Korkenzieher]]
+, [[Korkenzieher]], [[Spirale]]

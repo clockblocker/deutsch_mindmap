@@ -27,4 +27,4 @@ A: die [[Kindheit]], die [[Kindheiten]]
 G: der [[Kindheit]], der [[Kindheiten]]
 D: der [[Kindheit]], den [[Kindheiten]]
 
-#Feminin , [[Lebensalter]]
+#Feminin , [[Lebensalter]], [[Durchschnittsalter]]

@@ -3,6 +3,10 @@
 ---
 [[Eher]] [[ziehe]] ich wieder zu meinen Eltern, [[als-zu|als]] einen Tag länger bei dir zu wohnen.
 
+*[[C1-Hoehen-T2-202-Text#^25|^]]* Interessant finde ich, dass die Deutschen zum Großteil starke Leitfiguren, die auch mal die Regeln [[missachten]], [[eher]] [[ablehnen]]
+
+11 Herr Josek meint, dass die [[Wahlprogramm]]e [[eher]] den Interessen der älteren Generation [[entsprechen]].
+
 *[[C1-Hoehen-T2-100-Text#^3|^]]* Wäre ein bedingungsloses Grundeinkommen eine Alternative zu unserem heutigen Sozialsystem oder ist das [[eher]] eine Utopie?
 
 Denn während die [[muskelbepackten]] Sprinter mehr Statisten aus einem Gladiatorenfilm [[wirken]], möchte man den [[ausgezehrten]] [[Ausdauersportlern]] [[eher]] mal ein Drei-[[Gänge]]-Menü [[spendieren]].

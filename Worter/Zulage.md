@@ -1,3 +1,5 @@
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
+
 💰 🔴 die [[Zulage]], [ˈtsuːˌlaːɡə](https://youglish.com/pronounce/Zulage/german)
 die [[Zulage]]n
 

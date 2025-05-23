@@ -4,7 +4,9 @@
 die [[Ablehnungen]]
 
 ---
-*[[C1-Lesen-T1-000-Loesung#^10|^]]* „Dagegen“ drückt einen Gegensatz oder eine [[Ablehnung]] aus. Dies passt nicht zum Kontext der Unterstützung bei der Müllerkennung. ^10
+*[[C1-Lesen-T1-000-Loesung#^10|^]]* „Dagegen“ drückt einen Gegensatz oder eine [[Ablehnung]] aus. Dies passt nicht zum Kontext der Unterstützung bei der Müllerkennung
+
+*[[C1-Hoehen-T2-202-Text#^7|^]]* Gemeint ist damit eine negative [[Einstellung]] der Bürgerinnen und Bürger gegenüber der Politik, gepaart von [[Misstrauen]] bis zur [[Ablehnung]]
 
 
 ---
@@ -33,4 +35,4 @@ D: der [[Ablehnung]], den [[Ablehnungen]]
 
 #Feminin 
 
-, [[Geringschätzung]], [[Empfehlung]], [[Auszeichnung]]
+, [[Geringschätzung]], [[Empfehlung]], [[Auszeichnung]], [[Abnahme]]

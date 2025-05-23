@@ -1,3 +1,4 @@
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
 
 ⬆️ 🔴 die [[Erhöhung]], [ɛɐ̯ˈhøːʊŋ](https://youglish.com/pronounce/Erhöhung/german)
 
@@ -31,4 +32,6 @@ N: die [[Erhöhung]], die [[Erhöhungen]]
 A: die [[Erhöhung]], die [[Erhöhungen]]
 G: der [[Erhöhung]], der [[Erhöhungen]]
 D: der [[Erhöhung]], den [[Erhöhungen]]
-, [[Anstieg]], [[Mieterhöhung]]
+, [[Anstieg]], [[Mieterhöhung]], [[Minderung]]
+
+#Feminin 

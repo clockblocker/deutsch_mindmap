@@ -31,3 +31,4 @@ G: der [[Ungerechtigkeit]], der [[Ungerechtigkeiten]]
 D: der [[Ungerechtigkeit]], den [[Ungerechtigkeiten]]
 
 #Feminin 
+, [[Machtmissbrauch]]

@@ -19,4 +19,4 @@ Mögliche Formen:
 [[dies]], [[dieses]], [[diese]], [[diesen]], [[diesem]], [[dieser]]
 
 ---
-Dieser Demonstrativpronom zeigt auf etwas Nahes, das bereits erwähnt wurde oder gerade angesprochen ist.
+Dieser Demonstrativpronom zeigt auf etwas Nahes, das bereits erwähnt wurde oder gerade angesprochen ist., [[diesbezüglich]]

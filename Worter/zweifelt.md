@@ -10,7 +10,7 @@ Ich [[zweifle]] selten.  Du [[zweifelst]] immer.
 
 ---
 = [[bezweifeln]]
-≈ [[misstrauen]], [[nicht glauben]], [[skeptisch sein]]
+≈ [[Misstrauen]], [[nicht glauben]], [[skeptisch sein]]
 ≠ [[vertrauen]], [[glauben]], [[annehmen]], [[sicher sein]]
 
 ---

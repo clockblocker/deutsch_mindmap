@@ -3,6 +3,8 @@
 ---
 [[Lieferung]] [[verfolgen]]
 
+*[[C1-Hoehen-T2-202-Text#^3|^]]* Wir lesen ja immer wieder über die [[angeblich]]e [[Politikverdrossenheit]] der Deutschen, sehen aber andererseits, dass die [[Berichterstattung]] über politische Themen im Fernsehen, in Zeitungen oder Radio immer stärker präsent ist und mit großem Interesse [[verfolgt]] wird.
+
 *[[C1-Hoehen-T1-202-Text#^12|^]]* Wir können nämlich leider nicht den [[gesamt]]en [[Herstellungsprozess]] eines Produktes [[verfolgen]] und kontrollieren
 
 8: Selig, die [[verfolgt]] werden um der [[Gerechtigkeit]] willen; denn ihnen gehört das Himmelreich.

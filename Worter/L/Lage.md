@@ -7,8 +7,9 @@ die [[Lagen]]
 ---
 Wer war nicht schon einmal in einer schwierigen [[Lage]]? Gut, wenn man dann nicht alleine ist. 
 
-*[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren. ^16
+*[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren
 
+*[[C1-Hoehen-T2-202-Text#^21|^]]* Wenn man weiß, wie ein politisches System funktioniert, kann man sich auch eine Meinung über die aktuelle politische [[Lage]] [[bilden]]
 
 Wie ist die [[Lage]] nach den Wahlen im Land?
 

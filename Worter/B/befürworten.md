@@ -51,4 +51,4 @@ sie, [[befürworten]], [[befürworteten]], [[befürworten]], [[befürworteten]],
 Adjektive: [[befürwortend]], [[befürwortender]], [[befürwortendst]]
 
 ---
-[[befürwortender]], [[befürwortendes]], [[befürwortende]], [[befürwortenden]], [[befürwortendem]], [[befürwortenderer]], [[befürwortenderes]], [[befürwortendere]], [[befürwortenderen]], [[befürwortenderem]], [[befürwortendster]], [[befürwortendstes]], [[befürwortendste]], [[befürwortendsten]], [[befürwortendstem]], [[abraten]]
+[[befürwortender]], [[befürwortendes]], [[befürwortende]], [[befürwortenden]], [[befürwortendem]], [[befürwortenderer]], [[befürwortenderes]], [[befürwortendere]], [[befürwortenderen]], [[befürwortenderem]], [[befürwortendster]], [[befürwortendstes]], [[befürwortendste]], [[befürwortendsten]], [[befürwortendstem]], [[abraten]], [[verteufeln]]

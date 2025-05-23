@@ -22,4 +22,4 @@ G: des [[Zirkels]], der [[Zirkel]]
 D: dem [[Zirkel]], den [[Zirkeln]] 
 
 ---
-zirkeln, zirkelförmig, Zirkelschlag
+zirkeln, zirkelförmig, Zirkelschlag, [[circa]]

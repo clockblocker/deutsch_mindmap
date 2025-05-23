@@ -19,4 +19,4 @@ so then
 
 #empasis
 
-, [[riechen]], [[dennoch]], [[Konnektoren]], [[desto]], [[daß]], [[Abtönungspartikeln]], [[Konjunktoren]], [[zumal]]
+, [[riechen]], [[dennoch]], [[Konnektoren]], [[desto]], [[daß]], [[Abtönungspartikeln]], [[Konjunktoren]], [[zumal]], [[insofern]]

@@ -1,2 +1,2 @@
 [[stören]], [[verwundern]], [[beruhigen]], [[missfallen]]
-, [[ablenken]]
+, [[ablenken]], [[verdrießen]]

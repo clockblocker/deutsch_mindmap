@@ -1,3 +1,4 @@
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 --> 🧮 [[Grad-Quantität]] <--
 
 ➕ 🔵 der [[Mehrwert]], [ˈmeːɐ̯ˌvɛʁt]

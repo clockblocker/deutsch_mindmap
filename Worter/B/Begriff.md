@@ -4,6 +4,8 @@ die [[Begriffe]]
 ---
 [[Schönheit]] ist ein [[relativer]] [[Begriff]].
 
+*[[C1-Hoehen-T2-202-Text#^5|^]]* Ich möchte zunächst einmal [[festhalten]], dass Politikverdrossenheit ein [[umgangssprachlicher]] [[Begriff]] ist
+
 *[[000-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssystem]]e auf [[Plattform]]en wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
 
 

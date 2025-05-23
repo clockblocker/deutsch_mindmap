@@ -3,6 +3,9 @@
 ---
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
+*[[C1-Hoehen-T2-202-Text#^1|^]]* Sie [[befassen]] sich mit der [[Auswertung]] und [[Interpretation]] von [[Umfragen]], die die Politik [[betreffen]]. Und dabei insbesondere mit der sogenannten Politikverdrossenheit. ^1
+
+
 *[[C1-Hoehen-T2-200-Text#^48|^]]* Da sich unser Gehirn und damit auch unser Gedächtnis ein Leben lang verändern, kommt es im Alter allerdings zu einem [[Leistungsabbau]], der vor allem die [[Geschwindigkeit]] beim Lösen von Problemen [[betrifft]]
 
 *[[C1-Hoehen-T2-100-Text#^18|^]]* Was die [[Finanzierbarkeit]] [[betrifft]], so [[ansehen|sehen]] einige Modelle und auch ich die Finanzierbarkeit als [[machbar]] an, während andere das [[bestreiten]]
@@ -44,4 +47,4 @@ Zu+infinifive: [[zu betreffen]]
 
 ---
 [[Betroffenheit]], [[Betroffener]], [[Betroffene]], [[betreffen]], [[betreffend]]
-🎯 [[betreffen]]
+🎯 [[betreffen]], [[Interpretation]]

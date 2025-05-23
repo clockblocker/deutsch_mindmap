@@ -15,6 +15,7 @@
 [[umfangreich]] *(extensive, comprehensive)*
 [[ernst]] *(serious, earnest)*
 [[riesig]] *(huge, enormous, gigantic)*
+✅ [[durchaus]] *(certainly, definitely)*  
 [[wesentlich]] *(essential; key component of a whole)*
 [[bedeutend]] *(important; notable / large in scope)*
 [[bedeutsam]] *(significant; emotionally or formally important)*
@@ -35,6 +36,7 @@
 ---
 #### 🟠 [[Teilweise]] [[Relevant]] – Moderate / Conditional Value
 [[grundsätzlich]] *(generally)*
+✅ [[genügend]] *(sufficient, enough)*  
 [[von Bedeutung]] *(of importance; context-dependent)*
 [[bedeutsam]] *(contextually significant; softer than „bedeutend“)*
 

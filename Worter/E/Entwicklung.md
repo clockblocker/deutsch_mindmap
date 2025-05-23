@@ -6,6 +6,8 @@ die [[Entwicklungen]]
 ---
 Der Film zeigt die [[Entwicklung]] eines Menschen von der Geburt bis zum Tod.
 
+*[[C1-Hoehen-T2-202-Text#^8|^]]* Eine [[eindeutig]]e [[Entwicklung]] lässt sich schwer [[ablesen]]
+
 Regelmäßig wurde untersucht, wie sie sich fühlten und ob diese [[Leistung]] für sie ein positiver [[Anreiz]] für ihre persönliche [[Entwicklung]] [[darstellte]]
 
 *[[C1-Hoehen-T1-100-Text#^5|^]]* Eva Meisner, Hausbesitzerin im Ostend, möchte an dieser [[Entwicklung]] [[teilhaben]] und mit ihren Wohnungen einen [[höchstmöglichen]] [[Gewinn]] [[erzielen]], wie so viele Mieter [[wehren]]. ^5

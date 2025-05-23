@@ -1,1 +1,1 @@
-, [[Trieb]], [[Tendenz]], [[Neugier]], [[Vorliebe]], [[Interesse]]
+, [[Trieb]], [[Tendenz]], [[Neugier]], [[Vorliebe]], [[Interesse]], [[neigen]]

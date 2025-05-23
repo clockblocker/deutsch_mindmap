@@ -2,13 +2,13 @@
 nicht [[sinnlos]]
 
 ---
-Nun ist es nicht [[sinnvoll]], auf den Klatsch zu verzichten, denn aus den Fehlern der anderen können wir ja selbst etwas lernen.
+Nun ist es nicht [[sinnvoll]], auf den Klatsch zu verzichten, denn aus den Fehlern der anderen können wir ja selbst etwas lernen
 
-*[[000-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]. ^12
+*[[C1-Hoehen-T2-203-Text#^2|^]]* Es geht dabei darum, ab wann die [[durchaus]] [[sinnvoll]]e Nutzung der digitalen Medien in eine [[Sucht]] [[umschlägt]]
 
+*[[000-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]
 
-*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
-
+*[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden
 
 Mona lächelt: „Ja, im Ernst. Da mache ich etwas [[Sinnvolles]]. Außerdem habe ich mich bisher viel zu wenig mit Naturschutz [[beschäftigt]]. Ich werde bestimmt viel Neues lernen. Man muss nicht unbedingt um die halbe Welt reisen, um über den Tellerrand zu schauen, Brüderchen!“
 

@@ -3,8 +3,10 @@
 🚫 [[ablehnen]] | [[lehnte ab|lehnte ab]], haben [[abgelehnt]]
 
 ---
-Simon muss also damit [[rechnen]], dass Jannis seine [[Bitte]] [[ablehnen]] wird. Deshalb greift er zu einem kleinen Trick: Er [[schmiert]] seinem Chef [[Jemandem Honig um den Bart schmieren|Honig um den]] [[Bart]].
+Simon muss also damit [[rechnen]], dass Jannis seine [[Bitte]] [[ablehnen]] wird. Deshalb greift er zu einem kleinen Trick: Er [[schmiert]] seinem Chef [[Jemandem Honig um den Bart schmieren|Honig um den]] [[Bart]]
 
+*[[C1-Hoehen-T2-202-Text#^25|^]]* Interessant finde ich, dass die Deutschen zum Großteil starke Leitfiguren, die auch mal die Regeln [[missachten]], [[eher]] [[ablehnen]]
+x
 *[[C1-Lesen-T4-100-Text#^30|^]]* Es scheint, dass die Mehrheit der [[Bevölkerung]] moderne Kunstwerke [[ablehnt]]; [[dennoch]] erreichen diese Werke einen hohen Geldwert. ^30
 
 
@@ -44,4 +46,4 @@ Zu+infinifive: [[abzulehnen]]
 , [[zufriedengeben]]
 , [[loben]]
 , [[bevorzugen]]
-, [[Streben]], [[anwerben]], [[Worter/E/einlassen]], [[genehmigen]], [[auswählen]], [[appellieren]], [[abstimmen]], [[absprechen]], [[beantragen]], [[festmachen]], [[plädieren]]
+, [[Streben]], [[anwerben]], [[Worter/E/einlassen]], [[genehmigen]], [[auswählen]], [[appellieren]], [[abstimmen]], [[absprechen]], [[beantragen]], [[festmachen]], [[plädieren]], [[anerkennen]]

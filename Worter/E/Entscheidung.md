@@ -4,6 +4,8 @@ die [[Entscheidungen]]
 ---
 Ich habe eine [[Entscheidung]] [[getroffen]]: Diesen Monat konzentriere ich mich nur auf Kamanova.
 
+*[[C1-Hoehen-T2-202-Text#^31|^]]* Ein gesundes Misstrauen kann ja auch konstruktiv sein, wenn z. B. [[Entscheidung]]en [[hinterfragt]] werden oder wenn die Politikerinnen und Politiker gezwungen werden, eigene Positionen neu zu [[überdenken]]
+
 *[[1. 606 Euro mehr Diät für Abgeordnete? 😱#^3|^]]* Das ist [[tatsächlich]] eine der ersten [[Entscheidung]]en, die der neue Bundestag zu [[treffen]] hat. 
 
 *[[1. 606 Euro mehr Diät für Abgeordnete? 😱#^3|^]]* Das ist tatsächlich eine der ersten [[Entscheidung]]en, die der neue Bundestag zu treffen hat. 

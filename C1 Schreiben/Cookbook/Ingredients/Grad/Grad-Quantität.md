@@ -25,6 +25,8 @@
 8) [[ausreichend]] *(sufficient)*
 9) [[vorhanden]] *(present; available)*
 10) ✅ [[genügend]] *(sufficient, enough)*  
+11) 💰 [[Betrag]] *(amount, sum)*  
+12) 
 #### 🟠 [[gering]] 
 1) [[wenig]] *(a little)*
 2) [[gering]] *(low in amount or value)*

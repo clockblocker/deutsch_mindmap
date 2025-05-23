@@ -32,3 +32,4 @@ Alle Formen:
 | Accusative  | die Vermutung      | die Vermutungen    |
 | Dative      | der Vermutung      | den Vermutungen    |
 | Genitive    | der Vermutung      | der Vermutungen    |die [[Vermutung]]
+, [[Messung]]

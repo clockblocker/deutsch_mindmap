@@ -1,3 +1,5 @@
+--> [[Ingredient-Nomen-Wachstum-Steigerung]] <--
+
 📉 🔵 der [[Leistungsabbau]], [ˈlaɪ̯stʊŋsˌʔapbaʊ̯](https://youglish.com/pronounce/Leistungsabbau/german)
 
 ---

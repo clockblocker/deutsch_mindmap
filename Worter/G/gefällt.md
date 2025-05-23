@@ -1,1 +1,2 @@
-Inf: [[gefallen]], [[s1 e1]]
+[[gefallen]]
+[[fällen]]

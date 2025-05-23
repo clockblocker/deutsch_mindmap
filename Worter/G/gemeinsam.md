@@ -4,6 +4,8 @@ nicht [[getrennt]]
 ---
 Sie wurde [[gemeinsam]] von Historikern und ehemaligen DDR-Bürgern zusammengestellt.
 
+Herr Knizka sagt, dass alle [[Art]]en von Online-[[Sucht]] ein [[gemeinsam]]es [[Merkmal]] haben
+
 *[[C1-Hoehen-T2-201-Text#^45|^]]* Die [[Lernenden]] sollen im Unterricht ein [[gemeinsam]]es [[Grundprogramm]] [[absolvieren]], so dass alle ein bestimmtes Level erreichen
 
 *[[02-C1-Schreiben-T2-M#^7|^]]* wie wir alle in dieser Firma stehen auch Sie unter großem [[Zeitdruck]] und ich bin mir sicher, dass Sie unser [[gemeinsames]] Projekt nicht aus den Augen verloren haben. ^7

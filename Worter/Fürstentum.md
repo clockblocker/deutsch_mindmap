@@ -26,3 +26,5 @@ D: dem [[Fürstentum]], den [[Fürstentümern]]
 
 ---
 [[Fürst]], [[fürstlich]], [[herrschen]], [[regieren]], [[monarchisch]]
+
+#Neuter 

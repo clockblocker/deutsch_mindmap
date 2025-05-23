@@ -29,4 +29,4 @@ everyday, common, ordinary
 Adjektive: [[alltäglich]], [[alltäglicher]], [[alltäglichst]]
 
 ---
-[[alltäglicher]], [[alltägliches]], [[alltägliche]], [[alltäglichen]], [[alltäglichem]], [[alltäglicherer]], [[alltäglicheres]], [[alltäglichere]], [[alltäglicheren]], [[alltäglicherem]], [[alltäglichster]], [[alltäglichstes]], [[alltäglichste]], [[alltäglichsten]], [[alltäglichstem]], [[Grünsteuer]], [[skurril]], [[gang und gäbe]]
+[[alltäglicher]], [[alltägliches]], [[alltägliche]], [[alltäglichen]], [[alltäglichem]], [[alltäglicherer]], [[alltäglicheres]], [[alltäglichere]], [[alltäglicheren]], [[alltäglicherem]], [[alltäglichster]], [[alltäglichstes]], [[alltäglichste]], [[alltäglichsten]], [[alltäglichstem]], [[Grünsteuer]], [[skurril]], [[gang und gäbe]], [[umgangssprachlich]]

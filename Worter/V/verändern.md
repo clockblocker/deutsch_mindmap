@@ -3,6 +3,8 @@
 ---
 Wir wollen die Welt [[verändern]].
 
+9 Politikerinnen und Politiker aus [[verschiedenenändern]] [[bestreiten]], sie würden die [[Wahrheitertuschen]].  
+
 *[[C1-Lesen-T4-103-Text#^26|^]]* Wir müssen mit den sich [[verändernden]] Zeiten neue Wege finden, um altbekannte Probleme zu lösen 
 
 *Die [[Reihenfolge]] der [[Inhaltspunkt]]e wurde in dieser [[Musterlösung]] [[verändert]]. Wichtig ist nicht, dass man die Punkte aus der [[Aufgabenstellung]] nur [[thematisiert]], sondern sie auch logisch miteinander verbindet, sodass ein kohärenter Text entsteht. Es gibt keinen [[Punktabzug]], wenn Sie dabei die [[Reihenfolge]] verändern.

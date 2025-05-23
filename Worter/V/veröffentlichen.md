@@ -5,12 +5,11 @@
 ---
 Katja ist Journalistin. Sie schreibt für eine regionale Zeitung in ihrer [[Heimatstadt]] Bonn. Ihre Artikel werden online [[veröffentlicht]] und auch auf Facebook gepostet. [[Den Nagel auf den Kopf treffen.md#^1|(Quelle: Den Nagel auf den Kopf treffen)]] 
 
+Viele Internetnutzer sind sich der [[Gefahr]]en bewusst, die durch das [[Veröffentlichen]] von Privatfotos [[entstehen]].  
 
-*[[C1-Lesen-T2-101-Text#^8|^]]* Eine aktuelle [[Untersuchung]] zu diesem Thema, die jüngst in einer deutschen Zeitschrift [[veröffentlicht]] wurde, hat ergeben: Kaufen oder schenken wir unseren Kindern zu viele Spielsachen, leidet deren Kreativität sowie die Spielqualität und die Kinder werden leichter [[abgelenkt]]. ^8
+*[[C1-Lesen-T2-101-Text#^8|^]]* Eine aktuelle [[Untersuchung]] zu diesem Thema, die jüngst in einer deutschen Zeitschrift [[veröffentlicht]] wurde, hat ergeben: Kaufen oder schenken wir unseren Kindern zu viele Spielsachen, leidet deren Kreativität sowie die Spielqualität und die Kinder werden leichter [[abgelenkt]]
 
-
-*[[Golfstorm#^6|^]]* Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
-
+*[[Golfstorm#^6|^]]* Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]
 
 ---
 = [[publizieren]], [[herausgeben]], [[verbreiten]]
@@ -40,3 +39,5 @@ PI: [[veröffentlichend]], PII: [[veröffentlicht]], Zu+inf: [[zu veröffentlich
 [[Veröffentlichung]], [[Publikation]], [[Herausgabe]], [[Verbreitung]], [[öffentlich]]
 , [[öffentlich]]
 , [[kundtun]], [[aussenden]], [[ankündigen]], [[weitergeben]]
+
+#Neuter 

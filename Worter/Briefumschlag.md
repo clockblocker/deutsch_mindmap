@@ -23,3 +23,5 @@ D: dem [[Briefumschlag]], den [[Briefumschlägen]]
 
 ---
 [[umschlagen]], [[verschließen]], [[adressieren]], [[frankieren]]
+
+#Maskulin 

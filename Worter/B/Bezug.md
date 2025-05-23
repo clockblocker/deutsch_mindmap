@@ -42,4 +42,4 @@ D: dem [[Bezug]], den [[Bezügen]]
 , [[Bezugswort]]
 , [[Abonnement]], [[Schulabgänger]], [[Hinsicht]]
 
-#Maskulin, [[miteinbeziehen]]
+#Maskulin, [[miteinbeziehen]], [[diesbezüglich]]

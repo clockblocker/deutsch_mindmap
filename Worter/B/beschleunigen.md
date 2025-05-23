@@ -1,1 +1,1 @@
-, [[aufhalten]], [[zügig]], [[hinhalten]], [[Richtungsänderung]], [[verzögern]], [[verlangsamen]], [[bremsen]], [[forcieren]], [[Geschwindigkeit]]
+, [[aufhalten]], [[zügig]], [[hinhalten]], [[Richtungsänderung]], [[verzögern]], [[verlangsamen]], [[bremsen]], [[forcieren]], [[Geschwindigkeit]], [[übereilen]]

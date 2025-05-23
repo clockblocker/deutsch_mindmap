@@ -3,6 +3,8 @@
 ---
 Wird richtig sauer, macht einen bösen [[Gesichtsausdruck]] und fuchtelt mit den Armen
 
+8 [[Politikverdrossenheit]] ist ein `von` [[Wissenschaftler]]n [[geprägter]] [[Ausdruck]]
+
 *[[C1-Hoehen-T2-200-Text#^7|^]]* 13 Bei der [[Einschätzung]] von Intelligenz spielt auch der [[Ausdruck]] von Emotionen eine Rolle
 
 [[Gesichtsausdruck]]

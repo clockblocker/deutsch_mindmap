@@ -49,4 +49,4 @@ sie, [[beobachten]], [[beobachteten]], [[beobachten]], [[beobachteten]], [[beoba
 Adjektive: [[beobachtend]], [[beobachtender]], [[beobachtendst]]
 
 ---
-[[beobachtender]], [[beobachtendes]], [[beobachtende]], [[beobachtenden]], [[beobachtendem]], [[beobachtenderer]], [[beobachtenderes]], [[beobachtendere]], [[beobachtenderen]], [[beobachtenderem]], [[beobachtendster]], [[beobachtendstes]], [[beobachtendste]], [[beobachtendsten]], [[beobachtendstem]], [[hinschauen]], [[umschauen]]
+[[beobachtender]], [[beobachtendes]], [[beobachtende]], [[beobachtenden]], [[beobachtendem]], [[beobachtenderer]], [[beobachtenderes]], [[beobachtendere]], [[beobachtenderen]], [[beobachtenderem]], [[beobachtendster]], [[beobachtendstes]], [[beobachtendste]], [[beobachtendsten]], [[beobachtendstem]], [[hinschauen]], [[umschauen]], [[ausspionieren]]

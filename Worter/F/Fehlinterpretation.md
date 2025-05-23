@@ -1,1 +1,1 @@
-, [[Missverständnis]], [[Auslegung]], [[Verwechslung]]
+, [[Missverständnis]], [[Auslegung]], [[Verwechslung]], [[Interpretation]]

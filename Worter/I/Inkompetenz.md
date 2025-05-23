@@ -1,1 +1,1 @@
-, [[Erfahrung]], [[Kompetenz]], [[Zuständigkeit]]
+, [[Erfahrung]], [[Kompetenz]], [[Zuständigkeit]], [[Führungsstil]]

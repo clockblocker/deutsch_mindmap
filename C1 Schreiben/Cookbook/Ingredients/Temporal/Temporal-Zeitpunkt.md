@@ -32,11 +32,12 @@
 7) [[veraltet]] *(outdated; no longer valid)* 
 8) [[alt]] *(old; context-specific – age, state, object)* 
 9) [[historisch]] *(historical; often neutral/formal)* 
-	
-10) [[vorherig]] *(previous; directly before in sequence)* 
-11) [[vorher]] *(beforehand; time-linking adverb)* 
-12) [[zuvor]] *(previously; formal, often used in reports)* 
-13) [[letzte]] *(last)* 
+
+10) ➡️ [[von vornherein]] *(с самого начала, изначально)* 
+11) [[vorherig]] *(previous; directly before in sequence)* 
+12) [[vorher]] *(beforehand; time-linking adverb)* 
+13) [[zuvor]] *(previously; formal, often used in reports)* 
+14) [[letzte]] *(last)* 
 
 
 #### 🟡 [[zukünftig]] 

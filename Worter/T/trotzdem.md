@@ -49,4 +49,4 @@ Stilistische Nuancen:
 *Adverb* 💪🔥 [[trotzdem]]
 
 [[See]]
-, [[absehen]]
+, [[absehen]], [[insofern]]

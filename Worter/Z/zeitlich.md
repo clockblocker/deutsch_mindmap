@@ -27,4 +27,4 @@ temporal, in terms of time
 Adjektive: [[zeitlich]], [[zeitlicher]], [[zeitlichst]]
 
 ---
-[[zeitlicher]], [[zeitliches]], [[zeitliche]], [[zeitlichen]], [[zeitlichem]], [[zeitlicherer]], [[zeitlicheres]], [[zeitlichere]], [[zeitlicheren]], [[zeitlicherem]], [[zeitlichster]], [[zeitlichstes]], [[zeitlichste]], [[zeitlichsten]], [[zeitlichstem]], [[Restriktion]]
+[[zeitlicher]], [[zeitliches]], [[zeitliche]], [[zeitlichen]], [[zeitlichem]], [[zeitlicherer]], [[zeitlicheres]], [[zeitlichere]], [[zeitlicheren]], [[zeitlicherem]], [[zeitlichster]], [[zeitlichstes]], [[zeitlichste]], [[zeitlichsten]], [[zeitlichstem]], [[Restriktion]], [[Zeitdauer]]

@@ -24,3 +24,5 @@ D: der [[Auslegung]], den [[Auslegungen]]
 
 ---
 [[auslegen]], [[auslegen]], [[interpretieren]], [[deuten]], [[erklären]], [[Begriffsbestimmung]]
+
+#Feminin 

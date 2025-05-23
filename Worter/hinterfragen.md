@@ -3,6 +3,8 @@
 ---
 b) Die Seriosität von Experimenten mit Tieren müsse [[hinterfragt]] werden.
 
+*[[C1-Hoehen-T2-202-Text#^31|^]]* Ein gesundes Misstrauen kann ja auch konstruktiv sein, wenn z. B. [[Entscheidung]]en [[hinterfragt]] werden oder wenn die Politikerinnen und Politiker gezwungen werden, eigene Positionen neu zu [[überdenken]]
+
 ---
 = [[in Frage stellen]], [[bezweifeln]], [[prüfen]], [[untersuchen]]
 ≈ [[analysieren]], [[erforschen]], [[überdenken]], [[kritisch betrachten]]

@@ -1,34 +1,60 @@
-🤔 [[verwundern]] + Akk/[über +Akk], [fɛɐ̯ˈvʊndɐn] 
-[[verwunderte]]
-haben [[verwundert]]
+😲 [[verwundern]], [fɛɐ̯ˈvʊndɐn](https://youglish.com/pronounce/verwundern/german) → [[verwunderte]] → haben [[verwundert]]
 
 ---
 Ein paar Tiger-Seelöwen heben verwundert die Köpfe und jaulen.
 
+*[[C1-Hoehen-T2-202-Text#^35|^]]* [[Insofern]] [[verwundert]] es auch nicht, dass über 60 Prozent der Deutschen der Meinung sind, Deutschland sei [[zerrüttet]]
 
 ---
-Synonyme: [[Überraschen]], [[erstaunen]], [[überraschen]], [[frappieren]], [[staunen]], [[irritieren]]
-Antonyme: [[erwarten]], [[absehen]], [[ahnen]], [[voraussehen]]
+= [[erstaunen]], [[wundern]], [[überraschen]], [[staunend]], [[erstaunt]], [[merkwürdige]]
+≈ [[verblüffen]], [[erstaunen]], [[verwunderlich]]
+≠ [[erwarten]], [[gewöhnen]]
 
 ---
-Übersetzung: to astonish, to amaze, to surprise
+to surprise, to amaze  
+удивлять, изумлять
 
 ---
-Morpheme: [[ver]][[wunder]][[n]]
- #Verb #Untrennbar
+[[Wunder]], [[wunderbar]], [[Verwunderung]]
 
 ---
+[[ver]]|[[wunder]]|[[n]]
+[[verwundern]]
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[verwundere]]       | [[verwunderte]]       | -                 | [[verwundere]]         | [[verwunderte]]         |
-| Du        | [[verwunderst]]      | [[verwundertest]]     | [[verwundere]]    | [[verwunderest]]       | [[verwundertest]]       |
-| Er/sie/es | [[verwundert]]       | [[verwunderte]]       | -                 | [[verwundere]]         | [[verwunderte]]         |
-| Wir       | [[verwundern]]       | [[verwunderten]]      | -                 | [[verwundern]]         | [[verwunderten]]        |
-| Ihr       | [[verwundert]]       | [[verwundert]]        | [[verwundert]]    | [[verwundert]]         | [[verwundert]]          |
-| Sie       | [[verwundern]]       | [[verwunderten]]      | [[verwundern Sie]]| [[verwundern]]         | [[verwunderten]]        |
 
-Partizip I: [[verwundernd]], Partizip II: [[verwundert]]
+---
+###### [[verwundern]] jN
+- Was [[verwundert]] dich?
+- Seine Reaktion.
 
-[[verwundern]] - [[ver]] = [[wundern]]
-''', [[fest]]
+- Wen [[verwundert]] das?
+- Mich.
+
+- Warum [[hat]] es sie [[verwundert]]?
+- Weil es unerwartet war.
+
+---
+###### [[verwundern]] *[[sich]]* `über` jN
+- `Worüber` [[wunderst]] du *[[dich]]*?
+- `Über` seine Ehrlichkeit.
+
+- `Worüber` [[wundert]] ihr *[[euch]]*?
+- `Über` die vielen Fragen.
+
+- Wie lange [[hat]] er *[[sich]]* `darüber` [[gewundert]]?
+- Nur kurz.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[verwundr]] / [[verwundre]], [[verwunderte]], [[verwundre]], [[verwunderte]], -
+du, [[verwunderst]], [[verwundertest]], [[verwunderst]], [[verwundertest]], [[verwundr]] / [[verwundre]]
+er, [[verwundert]], [[verwunderte]], [[verwundre]], [[verwunderte]], -
+wir, [[verwundern]], [[verwunderten]], [[verwundern]], [[verwunderten]], [[verwundern]]
+ihr, [[verwundert]], [[verwundertet]], [[verwundert]], [[verwundertet]], [[verwundert]]
+sie, [[verwundern]], [[verwunderten]], [[verwundern]], [[verwunderten]], [[verwundern]]
+
+*Zu + Inf*: zu [[verwundern]], *P2*: [[verwundert]]
+Adjektive: [[verwundernd]], [[verwundernder]], [[verwunderndst]]
+
+---
+[[verwundernder]], [[verwunderndes]], [[verwundernde]], [[verwundernden]], [[verwunderndem]], [[verwundernderer]], [[verwundernderes]], [[verwunderndere]], [[verwundernderen]], [[verwundernderem]], [[verwunderndster]], [[verwunderndstes]], [[verwunderndste]], [[verwunderndsten]], [[verwunderndstem]]

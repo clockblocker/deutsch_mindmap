@@ -45,4 +45,4 @@ sie, [[erforschen]], [[erforschten]], [[erforschen]], [[erforschten]], [[erforsc
 Adjektive: [[erforschend]], [[erforschender]], [[erforschendst]]
 
 ---
-[[erforschender]], [[erforschendes]], [[erforschende]], [[erforschenden]], [[erforschendem]], [[erforschenderer]], [[erforschenderes]], [[erforschendere]], [[erforschenderen]], [[erforschenderem]], [[erforschendster]], [[erforschendstes]], [[erforschendste]], [[erforschendsten]], [[erforschendstem]]
+[[erforschender]], [[erforschendes]], [[erforschende]], [[erforschenden]], [[erforschendem]], [[erforschenderer]], [[erforschenderes]], [[erforschendere]], [[erforschenderen]], [[erforschenderem]], [[erforschendster]], [[erforschendstes]], [[erforschendste]], [[erforschendsten]], [[erforschendstem]], [[ausspionieren]]

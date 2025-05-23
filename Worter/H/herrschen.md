@@ -1,75 +1,59 @@
-👑 [[herrschen]]
-[[herrschte]]
-haben [[geherrscht]]
+👑 [[herrschen]], [ˈhɛʁʃn̩](https://youglish.com/pronounce/herrschen/german) → [[herrschte]] → haben/sein [[geherrscht]]
 
 ---
 Hier im Schlafzimmer [[herrschen|herrscht]] das größte Durcheinander. 
 
----
-
-Synonyme:
-- [[regieren]], [[dominieren]], [[überwachen]]
+*[[C1-Hoehen-T2-202-Text#^14|^]]* Man kann es auch daran [[ablesen]], dass sich Menschen in der Politik nicht mehr [[engagieren]] oder dass in den großen Parteien ein [[Mitgliederschwund]] [[herrscht]]
 
 ---
-
-Beispiele:
-
-- In diesem Land [[herrscht]] Frieden.
-- Chaos [[herrscht]] nach dem Unfall.
-- Er [[herrscht]] über ein großes Reich.
-- Es [[herrschte]] Stille im Raum.
-- Damals [[herrschten]] andere Regeln.
+= [[regieren]], [[walten]], [[leiten]],  [[beherrschen]], [[Fürstentum]]
+≈ [[beherrschen]], [[dominieren]], [[vorherrschen]]
+≠ [[dienen]], [[gehorchen]], [[untertan sein]]
 
 ---
-**Übersetzung**: to prevail, to rule, to reign
+to rule, to reign  
+править, царствовать
 
 ---
-
-Morphems of only infinitive:
-[[herrsch]][[en]]
+[[Herrschaft]], [[Herrscher]], [[herrschaftlich]], [[beherrschen]]
 
 ---
-Tags:
-#Verb
+[[herrschen]]
+
 
 ---
+###### [[herrschen]]
+- Was [[herrscht]] hier?
+- Ruhe und Ordnung.
 
-Präteritum:
+- Worüber [[herrscht]] er?
+- Über sein Königreich.
 
-- Ich [[herrschte]] über mein eigenes Leben.
-- Du [[herrschtest]] zu dieser Zeit.
-- Er [[herrschte]] mit Weisheit.
-- Wir [[herrschten]] über unser Gebiet.
-- Ihr [[herrschtet]] ohne Gnade.
-- Sie [[herrschten]] viele Jahre.
-
----
-
-Imperativ:
-
-- [[Herrsche]] über dich selbst!
-- [[herrscht]] in Harmonie!
-- [[Herrschen wir]] mit Gerechtigkeit!
-- [[Herrschen Sie]] in Ihrem Bereich!
+- Wie lange [[hat]] er [[geherrscht]]?
+- Über 20 Jahre.
 
 ---
+###### [[herrschen]] `über` jN
+- `Worüber` [[herrscht]] der König?
+- `Über` sein Volk.
 
-Konjunktiv I:
+- `Über` wen [[herrscht]] der Tyrann?
+- `Über` seine Untertanen.
 
-- Er sagt, ich [[Herrsche]] mit Vernunft.
-- Sie meint, du [[herrschest]] mit Weisheit.
-- Er behauptet, er [[Herrsche]] gerecht.
-- Wir erklären, wir [[herrschen]] friedlich.
-- Ihr sagt, ihr [[herrschet]] in eurem Bereich.
-- Sie sagen, sie [[herrschen]] über ihr Gebiet.
+- Wie lange [[hat]] er `darüber` [[geherrscht]]?
+- Seit seiner Jugend.
 
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[herrsch]] / [[herrsche]], [[herrschte]], [[herrsche]], [[herrschte]], -
+du, [[herrschst]], [[herrschtest]], [[herrschest]], [[herrschtest]], [[herrsch]] / [[herrsche]]
+er, [[herrscht]], [[herrschte]], [[herrsche]], [[herrschte]], -
+wir, [[herrschen]], [[herrschten]], [[herrschen]], [[herrschten]], [[herrschen]]
+ihr, [[herrscht]], [[herrschtet]], [[herrschet]], [[herrschtet]], [[herrscht]]
+sie, [[herrschen]], [[herrschten]], [[herrschen]], [[herrschten]], [[herrschen]]
 
-Konjunktiv II:
+*Zu + Inf*: zu [[herrschen]], *P2*: [[geherrscht]]
+Adjektive: [[herrschend]], [[herrschender]], [[herrschendst]]
 
-- Wenn ich König wäre, [[herrschte]] ich weise.
-- Wenn du mehr Macht hättest, [[herrschtest]] du gerecht.
-- Wenn er hier wäre, [[herrschte]] er mit Strenge.
-- Wenn wir mehr Einfluss hätten, [[herrschten]] wir anders.
-- Wenn ihr die Kontrolle hättet, [[herrschtet]] ihr friedlich.
-- Wenn sie das Sagen hätten, [[herrschten]] sie mit Güte., [[dienen]], [[11 08]], [[beherrschen]], [[Fürstentum]], [[vorherrschen]]
+---
+[[herrschender]], [[herrschendes]], [[herrschende]], [[herrschenden]], [[herrschendem]], [[herrschenderer]], [[herrschenderes]], [[herrschendere]], [[herrschenderen]], [[herrschenderem]], [[herrschendster]], [[herrschendstes]], [[herrschendste]], [[herrschendsten]], [[herrschendstem]]

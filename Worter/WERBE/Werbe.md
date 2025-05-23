@@ -1,1 +1,1 @@
-, [[Werbeobjekt]], [[Werbevertrag]]
+, [[Werbeobjekt]], [[Werbevertrag]], [[Werbeindustrie]]

@@ -1,1 +1,1 @@
-, [[Bundestagswahl]], [[Wahl]], [[Landtagswahl]]
+, [[Bundestagswahl]], [[Wahl]], [[Landtagswahl]], [[Wahlprogramm]], [[Wahlversprechen]]

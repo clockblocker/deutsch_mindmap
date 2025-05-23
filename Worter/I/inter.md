@@ -1,1 +1,1 @@
-, [[interessieren]], [[intervenieren]], [[Interpunktion]], [[Interaktion]]
+, [[interessieren]], [[intervenieren]], [[Interpunktion]], [[Interaktion]], [[Interpretation]]

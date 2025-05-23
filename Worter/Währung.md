@@ -1,7 +1,9 @@
-🟢 💰 die [[Währung]], [ˈvɛːʁʊŋ]
+💰 die [[Währung]], [ˈvɛːʁʊŋ]
 die [[Währungen]]
 
 ---
+Persönliche Daten haben laut Simon Knizka den Status einer [[Währung]]
+
 39. Was hat jedes deutsche Bundesland? (82%)
 	- [ ] eine eigene [[Währung]]
 	- [x] eine eigene [[Regierung]]
@@ -26,3 +28,5 @@ D: der [[Währung]], den [[Währungen]]
 
 ---
 [[währen]], [[währungskonform]], [[währungspolitisch]], [[währungsstabil]]
+
+#Feminin 

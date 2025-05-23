@@ -1,3 +1,4 @@
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 --> [[Ingredinet-Hindernis-Nomen]] <--
 
 ⛔ 🔴 die [[Einschränkung]], [ˈaɪ̯nʃʁɛŋkʊŋ](https://youglish.com/pronounce/Einschränkung/german)
@@ -32,4 +33,4 @@ A: die [[Einschränkung]], die [[Einschränkungen]]
 G: der [[Einschränkung]], der [[Einschränkungen]]
 D: der [[Einschränkung]], den [[Einschränkungen]]
 
-#Feminin , [[Ausbau]], [[Restriktion]]
+#Feminin , [[Ausbau]], [[Restriktion]], [[Minderung]]

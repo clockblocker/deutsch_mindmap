@@ -24,3 +24,5 @@ Dative: dem [[Einwohner]], den [[Einwohnern]]
 
 ---
 [[einwohnen]], [[Einwohnermeldeamt]], [[Einwohnerzahl]], [[einwohnerstark]], [[Bevölkerung]], [[Staatsangehörige]], [[Gastarbeiter]], [[Stadtoberhaupt]]
+
+#Maskulin 

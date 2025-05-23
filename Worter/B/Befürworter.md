@@ -1,1 +1,1 @@
-, [[befürworten]], [[Leugner]]
+, [[befürworten]], [[Leugner]], [[Anhänger]]

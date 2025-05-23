@@ -1,3 +1,5 @@
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
+
 🏗️ 🔵 der [[Ausbau]], [ˈaʊ̯sˌbaʊ̯](https://youglish.com/pronounce/Ausbau/german)
 
 ---

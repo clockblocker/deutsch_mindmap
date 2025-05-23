@@ -19,3 +19,4 @@ in such a way, so
 [[der]]|[[Art]]
 [[derart]]
 
+, [[dergleichen]]

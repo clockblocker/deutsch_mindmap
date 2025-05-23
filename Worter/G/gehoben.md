@@ -1,1 +1,1 @@
-, [[heben]]
+, [[heben]], [[umgangssprachlich]]

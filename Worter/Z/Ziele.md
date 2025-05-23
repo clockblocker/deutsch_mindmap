@@ -31,4 +31,4 @@ Einzigartige mögliche Formen:
 
 Hinweis:
 - Häufig verwendet in Kontexten wie Planung, Sport, Karriere und persönlicher Entwicklung
-- Kann sowohl konkrete als auch abstrakte Ziele beschreiben🎯 
+- Kann sowohl konkrete als auch abstrakte Ziele beschreiben🎯 , [[Wahlprogramm]]

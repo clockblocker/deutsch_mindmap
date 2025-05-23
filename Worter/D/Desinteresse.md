@@ -3,6 +3,8 @@
 ---
 30 Das [[Desinteresse]] am Sparen [[betrifft]] nicht nur den [[Finanzbereich]].
 
+7 In den Medien zeigt sich ein [[zunehmend]]es [[Desinteresse]] der Deutschen an Politik
+
 ---
 = [[Interesselosigkeit]], [[Apathie]], [[Gleichgültigkeit]]
 ≈ [[Teilnahmslosigkeit]], [[Desinteressement]]
@@ -30,4 +32,4 @@ G: des [[Desinteresses]], der [[Desinteressen]]
 D: dem [[Desinteresse]], den [[Desinteressen]]
 
 
-#Neuter
+#Neuter, [[Politikverdrossenheit]], [[Politikmüdigkeit]]

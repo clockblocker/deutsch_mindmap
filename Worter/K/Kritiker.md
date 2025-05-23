@@ -1,1 +1,1 @@
-, [[kritisieren]], [[Baumpate]], [[Pate]], [[Kritik]]
+, [[kritisieren]], [[Baumpate]], [[Pate]], [[Kritik]], [[Anhänger]]

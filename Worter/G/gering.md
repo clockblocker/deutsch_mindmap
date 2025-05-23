@@ -6,6 +6,11 @@
 ---
 Diese Arbeiter bekommen nur [[gering]] [[Löhne]].
 
+*[[C1-Hoehen-T2-202-Text#^12|^]]* Wie äußert sich denn ein [[gering]]es [[Vertrauen]] in die Politik? ^12
+
+
+Die [[Spirale]] des [[gering]]eren politischen Interesses: Wie ist denn da der Trend?
+
 *[[C1-Hoehen-T1-100-Text#^10|^]]* Die Autorin erklärt diese [[Entwicklung]] [[anfang]]s ökonomisch: Städte werden attraktiver, dadurch erhöht sich die [[Nachfrage]] nach [[Wohnraum]] bei [[gering]]em [[Angebot]], wodurch die Preise, also die Mieten, steigen. ^10
 
 

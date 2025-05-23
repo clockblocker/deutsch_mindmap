@@ -67,4 +67,4 @@ Adjektive: [[hebend]], [[hebender]], [[hebendst]]
 ---
 [[hebender]], [[hebendes]], [[hebende]], [[hebenden]], [[hebendem]], [[hebenderer]], [[hebenderes]], [[hebendere]], [[hebenderen]], [[hebenderem]], [[hebendster]], [[hebendstes]], [[hebendste]], [[hebendsten]], [[hebendstem]]
 
-[[wenden]]
+[[wenden]], [[Erhebung]]

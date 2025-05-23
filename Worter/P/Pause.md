@@ -31,4 +31,4 @@ G: der [[Pause]], der [[Pausen]]
 D: der [[Pause]], den [[Pausen]]
 
 
-#Feminin , [[Privatleben]], [[Kaffeepause]], [[Meeting]], [[Arbeitsprozess]], [[Mittagspause]]
+#Feminin , [[Privatleben]], [[Kaffeepause]], [[Meeting]], [[Arbeitsprozess]], [[Mittagspause]], [[Dauerunterbrechung]]

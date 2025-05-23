@@ -41,4 +41,4 @@ G: der [[Verzögerung]], der [[Verzögerungen]]
 D: der [[Verzögerung]], den [[Verzögerungen]]
 , [[Zuspätkommen]]
 
-#Feminin , [[Geschwindigkeit]]
+#Feminin , [[Geschwindigkeit]], [[Eile]]

@@ -1,1 +1,1 @@
-, [[Teekanne]]
+, [[Teekanne]], [[Wahlurne]]

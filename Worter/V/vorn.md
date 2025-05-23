@@ -19,4 +19,4 @@ Antonyme: [[hinten]], [[zurück]], [[rückwärts]]
 #Adverb #Lokaladverb
 
 , [[voraus]], [[vorne]]
-, [[s1 e1]]
+, [[s1 e1]], [[von vornherein]]

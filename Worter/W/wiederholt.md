@@ -10,4 +10,4 @@
 
 mehrmals
 Öfteren
-einmalig
+einmalig, [[einhundertmal]]

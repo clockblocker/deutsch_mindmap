@@ -1,1 +1,1 @@
-, [[Manager]]
+, [[Manager]], [[Führungsstil]]

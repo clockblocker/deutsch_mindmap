@@ -1,1 +1,1 @@
-, [[Zweitstimme]], [[Bundestagswahl]], [[Wähler]]
+, [[Zweitstimme]], [[Bundestagswahl]], [[Wähler]], [[Wahlurne]]

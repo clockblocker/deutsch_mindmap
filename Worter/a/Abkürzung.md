@@ -1,4 +1,3 @@
-[[Kürzung]]
 🔴 die [[Abkürzung]], [ˈapkʏʁtsoŋ]
 die [[Abkürzungen]]
 
@@ -27,3 +26,4 @@ D: der [[Abkürzung]], den [[Abkürzungen]]
 
 ---
 [[abkürzen]], [[verkürzen]], [[kurz]], [[kürzlich]], [[usw]]
+

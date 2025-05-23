@@ -1,2 +1,2 @@
 
-, [[anziehen]], [[Ausstrahlung]]
+, [[anziehen]], [[Ausstrahlung]], [[Sog]]

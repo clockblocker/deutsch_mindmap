@@ -44,4 +44,4 @@ Morpheme: [[daur]][[en]]
 
 Partizip I: [[dauernd]], Partizip II: [[gedauert]]
 
-[[dauern]] - no prefix, [[daur]] = [[daur]], [[en]] = [[en]], [[bleiben]], [[Dauer]], [[ausdauern]]
+[[dauern]] - no prefix, [[daur]] = [[daur]], [[en]] = [[en]], [[bleiben]], [[Dauer]], [[ausdauern]], [[Zeitdauer]]

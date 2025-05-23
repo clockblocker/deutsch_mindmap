@@ -29,4 +29,4 @@ G: des [[Senders]], der [[Sender]]
 D: dem [[Sender]], den [[Sendern]]
 
 
-#Maskulin , [[Ausstrahlung]]
+#Maskulin , [[Ausstrahlung]], [[Kanal]]

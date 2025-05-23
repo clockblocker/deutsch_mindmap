@@ -1,6 +1,8 @@
 🎯 [[bestimmen]], [bəˈʃtɪmən] | [[bestimmte]], haben [[bestimmt]]
 
 ---
+*[[C1-Hoehen-T2-203-Text#^5|^]]* Das lässt sich gar nicht so einfach [[bestimmen]]
+
 49. Wer [[bestimmen|bestimmt]] in Deutschland die [[Schulpolitik]]? (83%)
 	- [ ] die Lehrer und Lehrerinnen
 	- [x] die [[Bundesländer]]

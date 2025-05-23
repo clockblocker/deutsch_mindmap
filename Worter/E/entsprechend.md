@@ -40,3 +40,4 @@ P: [[entsprechenden]], [[entsprechenderen]], [[entsprechendsten]]
 
 ---
 [[entsprechen]], [[Worter/S/sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
+, [[dergleichen]]

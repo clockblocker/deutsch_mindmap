@@ -68,6 +68,9 @@ Kann da vielleicht der Digitalunterricht helfen?
 Wenn ich mir am Bildschirm ansehen kann, wie Mathematik auf die Natur anwendbar ist, wenn ich verstehe, wie uns komplizierte Gleichungen im Alltag begegnen können, dann bekomme ich einen anderen Zugang zur Mathematik. Ich befürworte allerdings nicht, dass man Mathematik nur noch digital und mit Bildern oder Filmen lehrt. Die Lehrkraft kann durch Computeranimation nicht ersetzt werden.  
 
 ###### Moderator:  
+Matematik Lehrer zu werden ist ja nir für weniger ein Traumberuf...
+
+###### Frau Friedrich:  
 Ich glaube, dass dieses Problem in der Anerkennung des Lehrerberufs schlechthin liegt. Ich meine damit nicht die Eltern oder Schülerinnen und Schüler. Es erfolgt seitens der Politik keine adäquate finanzielle Würdigung. Das kann auch den leidenschaftlichsten Mathematikfan davon abhalten, Lehrer zu werden.  
 
 ###### Moderator:  

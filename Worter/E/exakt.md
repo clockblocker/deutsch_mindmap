@@ -1,1 +1,1 @@
-, [[genau]], [[ungefähr]], [[usw]], [[akribisch]]
+, [[genau]], [[ungefähr]], [[usw]], [[akribisch]], [[circa]]

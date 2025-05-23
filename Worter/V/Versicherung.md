@@ -24,4 +24,4 @@ G: der [[Versicherung]], der [[Versicherungen]]
 D: der [[Versicherung]], den [[Versicherungen]]  
 
 ---
-[[versichern]], [[versicherbar]], [[Versicherungsfall]], [[Versicherungspolice]], [[Versicherungsnehmer]], [[Sozialversicherungsausweis]], [[Krankenversicherung]], [[Rentenversicherung]], [[Lebensversicherung]], [[Arbeitslosenversicherung]]
+[[versichern]], [[versicherbar]], [[Versicherungsfall]], [[Versicherungspolice]], [[Versicherungsnehmer]], [[Sozialversicherungsausweis]], [[Krankenversicherung]], [[Rentenversicherung]], [[Lebensversicherung]], [[Arbeitslosenversicherung]], [[Wahlversprechen]]

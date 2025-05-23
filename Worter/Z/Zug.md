@@ -1,2 +1,2 @@
 , [[Bahn]], [[Bezug]], [[herabgezogen]], [[Spielzug]], [[zügig]], [[Rückzug]], [[Haltestelle]]
-, [[bevorzugen]], [[Zugriff]], [[Punktabzug]], [[Umzug]], [[Vorzug]], [[Zuzug]], [[Zugvogel]]
+, [[bevorzugen]], [[Zugriff]], [[Punktabzug]], [[Umzug]], [[Vorzug]], [[Zuzug]], [[Zugvogel]], [[Sog]]

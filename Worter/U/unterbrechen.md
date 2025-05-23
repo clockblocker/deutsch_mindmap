@@ -46,4 +46,4 @@ Partizip I: [[unterbrechend]], Partizip II: [[unterbrochen]]
 
 [[stören]], [[bestehen]], [[losschießen]]
 , [[verbringen]], [[ausführen]], [[eröffnen]]
-, [[fertigstellen]], [[auflegen]], [[abschalten]], [[dazwischenfunken]]
+, [[fertigstellen]], [[auflegen]], [[abschalten]], [[dazwischenfunken]], [[unterbinden]], [[Dauerunterbrechung]]

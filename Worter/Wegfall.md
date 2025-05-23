@@ -1,3 +1,5 @@
+--> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
+
 ❌ 🔵 der [[Wegfall]], [ˈveːkfal](https://youglish.com/pronounce/Wegfall/german)
 die [[Wegfälle]]
 

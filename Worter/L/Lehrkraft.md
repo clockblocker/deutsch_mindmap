@@ -32,4 +32,4 @@ G: der [[Lehrkraft]], der [[Lehrkräfte]]
 D: der [[Lehrkraft]], den [[Lehrkräften]]
 
 
-#Feminin 
+#Feminin , [[Mathelehrkraft]]

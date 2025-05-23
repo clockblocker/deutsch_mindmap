@@ -3,6 +3,7 @@ die [[Länder]]
 
 
 ---
+Politikerinnen und Politiker aus [[verschiedenen]] [[Ländern]] [[bestreiten]], sie würden die [[Wahrheitertuschen]].  
 
 
 ---

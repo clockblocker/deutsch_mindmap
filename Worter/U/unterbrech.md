@@ -1,1 +1,1 @@
-, [[unterbrechen]]
+, [[unterbrechen]], [[Dauerunterbrechung]]

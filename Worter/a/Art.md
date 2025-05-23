@@ -2,6 +2,8 @@ die [[Art]], [ˈaʁt]
 die [[Arten]]
 
 ---
+Herr Knizka sagt, dass alle [[Art]]en von Online-[[Sucht]] ein [[gemeinsam]]es [[Merkmal]] haben
+
 Es gibt [[verschiedene]] [[Arten]] von Tieren.
 
 Na ja. [[Sowas in der Art]], noch nicht ganz.

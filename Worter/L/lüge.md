@@ -30,3 +30,4 @@ G: der [[Lüge]], der [[Lügen]]
 D: der [[Lüge]], den [[Lügen]]
 
 #Feminin 
+, [[Wahlversprechen]]

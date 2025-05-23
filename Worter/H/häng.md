@@ -1,1 +1,1 @@
-, [[einhängen]], [[abhängen]], [[aufhängen]], [[Abhängigkeit]]
+, [[einhängen]], [[abhängen]], [[aufhängen]], [[Abhängigkeit]], [[Anhänger]]

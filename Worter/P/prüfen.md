@@ -61,4 +61,4 @@ sie, [[prüfen]], [[prüften]], [[prüfen]], [[prüften]], [[prüfen]]
 Adjektive: [[prüfend]], [[prüfender]], [[prüfendst]]
 
 ---
-[[prüfender]], [[prüfendes]], [[prüfende]], [[prüfenden]], [[prüfendem]], [[prüfenderer]], [[prüfenderes]], [[prüfendere]], [[prüfenderen]], [[prüfenderem]], [[prüfendster]], [[prüfendstes]], [[prüfendste]], [[prüfendsten]], [[prüfendstem]], [[hinterfragen]], [[erforschen]], [[beobachten]], [[nachgehen]]
+[[prüfender]], [[prüfendes]], [[prüfende]], [[prüfenden]], [[prüfendem]], [[prüfenderer]], [[prüfenderes]], [[prüfendere]], [[prüfenderen]], [[prüfenderem]], [[prüfendster]], [[prüfendstes]], [[prüfendste]], [[prüfendsten]], [[prüfendstem]], [[hinterfragen]], [[erforschen]], [[beobachten]], [[nachgehen]], [[überdenken]]

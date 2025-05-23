@@ -4,6 +4,8 @@
 ---
 Du [[verhältst]] dich wie ein Kind.
 
+Man kann durch [[geschickt]]es [[Verhalten]] das [[Ausspionieren]] durch die [[Werbeindustrie]] [[unterbinden]]
+
 *[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] wissen. ^13
 
 

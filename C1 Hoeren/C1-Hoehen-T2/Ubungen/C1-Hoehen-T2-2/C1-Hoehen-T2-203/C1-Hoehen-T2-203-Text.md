@@ -2,14 +2,14 @@
 
 ---
 
-7. Die Verfügbarkeit digitaler Medien erleichtert die Entstehung einer Abhängigkeit.  
+7. Die [[Verfügbarkeit]] digitaler Medien [[erleichtert]] die [[Entstehung]] einer [[Abhängigkeit]].  
    - [ ] a stimmt  
    - [ ] b stimmt nicht  
    - [ ] c dazu wird nichts gesagt  
 
-8. Die Selbsteinschätzungen der Testpersonen stimmten nicht mit der Wirklichkeit überein.  
+8. Die [[Selbsteinschätzung]]en der Testpersonen [[stimmten]] nicht mit der [[Wirklichkeit]] [[überein]].  
    - [ ] a stimmt  
-   - [ ] b stimmt nicht  
+   - [ ] b stimmt nicht
    - [ ] c dazu wird nichts gesagt  
 
 9. Herr Knizka meint, dass Frauen Smartphones länger und häufiger nutzen als Männer.  
@@ -17,22 +17,22 @@
    - [ ] b stimmt nicht  
    - [ ] c dazu wird nichts gesagt  
 
-10. Persönliche Daten haben laut Simon Knizka den Status einer Währung.  
+7. Persönliche Daten haben laut Simon Knizka den Status einer [[Währung]].  
    - [ ] a stimmt  
    - [ ] b stimmt nicht  
    - [ ] c dazu wird nichts gesagt  
 
-11. Man kann durch geschicktes Verhalten das Ausspionieren durch die Werbeindustrie unterbinden.  
-   - [ ] a stimmt  
+7. Man kann durch [[geschicktes]] [[Verhalten]] das [[Ausspionieren]] durch die [[Werbeindustrie]] [[unterbinden]].  
+   - [ ] a stimmt  ?
    - [ ] b stimmt nicht  
+   - [ ] c dazu wird nichts gesagt  ?
+
+7. Viele Internetnutzer sind sich der [[Gefahr]]en bewusst, die durch das [[Veröffentlichen]] von Privatfotos [[entstehen]].  
+   - [ ] a stimmt 
+   - [ ] b stimmt nicht 
    - [ ] c dazu wird nichts gesagt  
 
-12. Viele Internetnutzer sind sich der Gefahren bewusst, die durch das Veröffentlichen von Privatfotos entstehen.  
-   - [ ] a stimmt  
-   - [ ] b stimmt nicht  
-   - [ ] c dazu wird nichts gesagt  
-
-13. Die Weltgesundheitsorganisation (WHO) erkennt bestimmte Online-Exzesse als Sucht an.  
+7. Die [[Weltgesundheitsorganisation]] ([[WHO]]) erkennt bestimmte Online-Exzesse als Sucht an.  
    - [ ] a stimmt  
    - [ ] b stimmt nicht  
    - [ ] c dazu wird nichts gesagt  
@@ -59,21 +59,42 @@ Hallo!
 Herr Knizka, Sie sind Professor für Molekularpsychologie und beschäftigen sich vor allem damit, wie sich die zunehmende Digitalisierung auf unser Gehirn auswirkt.
 
 ###### Herr Knizka:  
-Richtig. Es geht dabei darum, ab wann die durchaus sinnvolle Nutzung der digitalen Medien in eine Sucht umschlägt. Denn wer kann sich schon heutzutage dem digitalen Sog entziehen? Das ist ja auch recht schwierig, zumal Smartphones und Co. immer und überall griffbereit sind.
+*[[C1-Hoehen-T2-203-Text#^1|^]]* Richtig. ^1
+
+*[[C1-Hoehen-T2-203-Text#^2|^]]* Es geht dabei darum, ab wann die [[durchaus]] sinnvolle Nutzung der digitalen Medien in eine [[Sucht]] [[umschlägt]]. ^2
+
+*[[C1-Hoehen-T2-203-Text#^3|^]]* Denn wer kann sich schon heutzutage dem digitalen [[Sog]] [[entziehen]]? ^3
+
+*[[C1-Hoehen-T2-203-Text#^4|^]]* Das ist ja auch recht schwierig, zumal Smartphones und Co. immer und überall griffbereit sind. ^4
+
 
 ###### Moderatorin:  
-Wie viel Zeit verbringt denn der Durchschnittsdeutsche privat am Smartphone?
+Wie viel Zeit [[verbringt]] denn der [[Durchschnittsdeutsche]] privat am Smartphone?
 
 ###### Herr Knizka:  
-Das lässt sich gar nicht so einfach bestimmen. Man hat zu Beginn versucht, mit Fragebogen diese Zeitdauer zu ermitteln, was sich jedoch als recht schwierig gestaltete, denn die Einschätzungen der Probandinnen und Probanden waren sehr subjektiv und am Ende meist falsch.  
-Durch Messungen konnte man feststellen, dass die 14- bis 35-Jährigen circa zweieinhalb Stunden pro Tag am Smartphone sind und circa einhundertmal am Tag auf ihr Smartphone schauen.
+*[[C1-Hoehen-T2-203-Text#^5|^]]* Das lässt sich gar nicht so einfach [[bestimmen]]. ^5
+
+*[[C1-Hoehen-T2-203-Text#^6|^]]* Man hat zu Beginn versucht, mit [[Fragebogen]] diese [[Zeitdauer]] zu [[ermitteln]], was sich jedoch als [[recht]] schwierig [[gestaltete]], denn die [[Einschätzung]]en der Probandinnen und Probanden waren sehr subjektiv und am Ende meist falsch. ^6
+
+*[[C1-Hoehen-T2-203-Text#^7|^]]* Durch [[Messung]]en konnte man [[feststellen]], dass die 14- bis 35-Jährigen [[circa]] [[zweieinhalb]] Stunden pro Tag am Smartphone sind und circa [[einhundertmal]] am Tag auf ihr Smartphone schauen. ^7
+
 
 ###### Moderatorin:  
 Das ist natürlich nicht wenig!
 
 ###### Herr Knizka:  
-Ja, das bedeutet eine Dauerunterbrechung im Alltag. Interessanterweise gibt es da kaum Unterschiede zwischen den weiblichen und den männlichen Probanden.  
-Man denkt ja immer, dass Frauen länger am Smartphone „hängen“ als Männer. Unterschiede gibt es eher bei den Kanälen, die genutzt werden. Social Media und Kommunikation sind bei den Frauen üblicher. Männer spielen lieber online, reden aber auch sehr häufig am Smartphone.
+*[[C1-Hoehen-T2-203-Text#^8|^]]* Ja, das bedeutet eine [[Dauerunterbrechung]] im Alltag. ^8
+
+*[[C1-Hoehen-T2-203-Text#^9|^]]* Interessanterweise gibt es da kaum Unterschiede zwischen den weiblichen und den männlichen Probanden. ^9
+
+*[[C1-Hoehen-T2-203-Text#^9|^]]* Man denkt ja immer, dass Frauen länger am Smartphone „hängen“ als Männer. ^9
+
+*[[C1-Hoehen-T2-203-Text#^10|^]]* Unterschiede gibt es eher bei den [[Kanälen]], die genutzt werden. ^10
+
+*[[C1-Hoehen-T2-203-Text#^11|^]]* Social Media und Kommunikation sind bei den Frauen üblicher. ^11
+
+*[[C1-Hoehen-T2-203-Text#^12|^]]* Männer spielen lieber online, reden aber auch sehr häufig am Smartphone. ^12
+
 
 ###### Moderatorin:  
 Es gibt nun aber auch Applikationen, also Apps, die uns dazu verleiten, dass wir immer länger dranbleiben?

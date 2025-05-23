@@ -1,1 +1,1 @@
-, [[Zuzug]]
+, [[Zuzug]], [[Mitgliederschwund]]

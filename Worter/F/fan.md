@@ -1,2 +1,2 @@
 
-, [[auffangen]], [[Liebhaber]], [[Leser]]
+, [[auffangen]], [[Liebhaber]], [[Leser]], [[Anhänger]]

@@ -1,1 +1,1 @@
-, [[führen]], [[Ausführlich]], [[ausführen]], [[einführen]], [[Einführung]], [[Aufführung]], [[Führungskraft]], [[durchführen]], [[Geschäftsführung]], [[entführen]], [[Ausführung]], [[weiterführen]]
+, [[führen]], [[Ausführlich]], [[ausführen]], [[einführen]], [[Einführung]], [[Aufführung]], [[Führungskraft]], [[durchführen]], [[Geschäftsführung]], [[entführen]], [[Ausführung]], [[weiterführen]], [[Führungsstil]]

@@ -31,4 +31,4 @@ exact, precise, accurate
 Adjektive: [[genau]], [[genauer]], [[genauest]]
 
 ---
-[[genauer]], [[genaues]], [[genaue]], [[genauen]], [[genauem]], [[genauerer]], [[genaueres]], [[genauere]], [[genaueren]], [[genauerem]], [[genauester]], [[genauestes]], [[genaueste]], [[genauesten]], [[genauestem]], [[Konnektivpartikeln]], [[direkt]], [[grob]]
+[[genauer]], [[genaues]], [[genaue]], [[genauen]], [[genauem]], [[genauerer]], [[genaueres]], [[genauere]], [[genaueren]], [[genauerem]], [[genauester]], [[genauestes]], [[genaueste]], [[genauesten]], [[genauestem]], [[Konnektivpartikeln]], [[direkt]], [[grob]], [[circa]]

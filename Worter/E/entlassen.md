@@ -46,4 +46,4 @@ sie, [[entlassen]], [[entließen]], [[entlassen]], [[entließen]], [[entlassen]]
 Adjektive: [[entlassend]], [[entlassender]], [[entlassendst]]
 
 ---
-[[entlassender]], [[entlassendes]], [[entlassende]], [[entlassenden]], [[entlassendem]], [[entlassenderer]], [[entlassenderes]], [[entlassendere]], [[entlassenderen]], [[entlassenderem]], [[entlassendster]], [[entlassendstes]], [[entlassendste]], [[entlassendsten]], [[entlassendstem]], [[einberufen]], [[Massenentlassung]], [[unterwerfen]], [[freisetzen]], [[abspeisen]]
+[[entlassender]], [[entlassendes]], [[entlassende]], [[entlassenden]], [[entlassendem]], [[entlassenderer]], [[entlassenderes]], [[entlassendere]], [[entlassenderen]], [[entlassenderem]], [[entlassendster]], [[entlassendstes]], [[entlassendste]], [[entlassendsten]], [[entlassendstem]], [[einberufen]], [[Massenentlassung]], [[unterwerfen]], [[freisetzen]], [[abspeisen]], [[engagieren]]

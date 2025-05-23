@@ -45,4 +45,4 @@ Zu+infinifive: [[anzunehmen]]
 
 [[übernehmen]], [[meinen]], [[abmessen]], [[nehm]], [[wiegen]], [[Glaub]], [[raten]], [[erhalten]], [[ablehnen]]
 , [[empfangen]], [[vermuten]], [[verstoßen]], [[verinnerlichen]], [[wiederschicken]], [[zweifelt]], [[zweifeln]]
-, [[bekommen]], [[einnehmen]], [[beeinflussen]], [[liefern]], [[verzichten]], [[angenehm]], [[abandonieren]], [[bestreiten]]
+, [[bekommen]], [[einnehmen]], [[beeinflussen]], [[liefern]], [[verzichten]], [[angenehm]], [[abandonieren]], [[bestreiten]], [[Abnahme]]

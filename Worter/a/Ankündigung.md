@@ -1,2 +1,2 @@
 , [[Vorschau]]
-, [[Inserat]], [[Botschaft]], [[ankündigen]], [[Ruf]]
+, [[Inserat]], [[Botschaft]], [[ankündigen]], [[Ruf]], [[Wahlversprechen]]

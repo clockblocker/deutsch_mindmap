@@ -1,7 +1,9 @@
+[[Passiv-Vocab-Operation-Room]]
+ 
  ! [[Passiv-Ingredient-POV]] !
 
 ##### Меянет смысл
-#### Вписываться в защиту / предлагать
+#### + Вписываться в защиту / предлагать
 ###### [[loben]] *(хвалить)*
 - *Der [[Moderator]]* [[loben|lobt]] *den [[Witz]] der [[Filmemacher]]*
 ###### [[sensibilisieren]]
@@ -10,16 +12,34 @@
 - *Frau Friedrich* [[plädieren|plädiert]] *für die individuelle [[Förderung]] [[einzeln]]er [[Lernender]] innerhalb der Lerngruppe* 
 ###### [[unterbreiten]] *(предлагать, представлять)*
 - *Ideen für eine andere [[Wohnungspolitik]] werden* [[unterbreiten|unterbreitet|]]
-#### Китиковать / предупеждать / выстпупать против
+###### [[begrüßen]]
+- *Die Mehrheit der Deutschen würde einen eher autoritären [[Führungsstil]]* [[begrüßen]]
+###### [[neigen]] *(склоняться, быть склонным)*
+- *Deutsche* [[neigen]] *weniger zu Populismus als andere Nationen*
+
+
+#### + Match with
+###### [[entsprechen]] *(to correspond, to match, to comply with)*
+- *Herr Josek meint, dass die [[Wahlprogramm]]e [[eher]] den Interessen der älteren Generation* [[entsprechen]]
+
+###### [[stimmten]] `mit` *(correspond to)*
+*Die Selbsteinschätzungen der Testpersonen* [[stimmten]] *nicht* `mit` *der Wirklichkeit überein*
+#### - Китиковать / предупеждать / выстпупать против
 ###### [[kritisieren]]
 - *Frau Friedrich* [[kritisiert]] *die Art der [[Vermittlung]] mathematischer [[Kenntnis]]ee* 
 ###### [[warnen]]
 - *Vor der [[Verharmlosung]] des [[Klimawandels]] wird* [[gewarnt]]  
+###### [[bestreiten]] *(отрицать, оспаривать)*
+- *Politikerinnen und Politiker aus [[verschiedenen]] Ländern* [[bestreiten]]*, sie würden die [[Wahrheit]] [[vertuschen]]*
+###### [[begegnen]] *(контрить | сталкиваться)*
+- *Man kann der [[Politikverdrossenheit]] mit [[Aufklärung]]* [[begegnen]]
 
 
 ----
 ---
 ---
+
+
 ##### Смысла нет
 #### Cогласно / по мнению
 ###### [[Laut]] *Herrn Hansen
@@ -38,7 +58,7 @@
 ###### `jD` [[behaupten|behauptet]] *(to claim, to assert)*
 - *Frau Avar* [[behaupten|behauptet]]*, dass Attraktivität und Karriere einander [[bedingen]]*
 ###### jD [[findet]]
-*Frau Friedrich* [[findet]] *, dass durch digitales Lernen die Realität [[verfälscht]] wird* 
+- *Frau Friedrich* [[findet]] *, dass durch digitales Lernen die Realität [[verfälscht]] wird* 
 #### Обьяснять/обосновывать
 ###### [[erklären]]
 - [[erklärte]]*, [[weshalb]] [[bestimmte]] Menschen [[erkranken]].*
@@ -84,6 +104,8 @@
 - *Hier wird den Erkenntnissen mentaler Widerstandsfähigkeit* [[nachgegangen]]  
 ###### `Im` [[Umgang]] `mit` `jM` *(The [[handling]] `of`)*  
 - Der [[Umgang]] mit dem Thema *wird an [[Einzelschicksal]]en [[demonstriert]]*
+###### [[typisch]]
+- *[[Machtmissbrauch]] ist* [[typisch]] *für viele [[regierende]] Parteien*
 #### Point out
 ###### [[präsentiert]]
 - *In der Dokumentation werden [[Lösungsansätze]]* [[präsentiert]]
@@ -95,6 +117,18 @@
 - *[[Sendung]]* [[hinweisen|weist]] `auf` *[[ideell]]e [[Wert]]e* [[hinweisen|hin]]  
 ###### jN [[betrachten|betrachtet]] werden *(to consider, to observe, to regard)*
 - *In dem Buch werden Erkenntnisse jahrhundertealter Medizin aus spirituellem Kontext* [[betrachten|betrachtet]]
-#### Остальное
+###### [[zeigt]] `sich`
+- *In den Medien* [[zeigt sich]] *ein [[zunehmend]]es [[Desinteresse]] der Deutschen an Politik*
+###### [[äußert|äußern]] `sich` dar`in`
+*Das [[Misstrauen]] in die Politik* [[äußert]] *sich auch darin, dass große Parteien weniger [[Zulauf]] haben*
+
+## Остальное
 ###### [[gegenüberstellen]]
 - *1 Das Buch* [[stellt]] *negative und positive [[Entwicklung]]en auf dem [[Wohnungsmarkt]]* [[gegenüber]]
+
+#### Решать / Призначать
+###### [[Urteil]] [[fällen]] *(pass judgment)*
+- *Herr Knizka kritisiert, dass die WHO in der [[Vergangenheit]] [[übereilt]]* [[Urteil]]e [[gefällt]] *hat*
+###### [[anerkennen|erkennen]] `jN` `als` `jN` [[an]] *(recognizes)*
+- *Die Weltgesundheitsorganisation (WHO)* [[anerkennt|erkennt]] *bestimmte Online-Exzesse* `als` *[[Sucht]]* [[an]]
+

@@ -1,3 +1,3 @@
 --> [[🗣️ Ingredient-Meinung]] <--
 --> 🤝 [[Ingredient-Interaktion]] <--
-, [[Abwägung]]
+, [[Abwägung]], [[Auswertung]], [[Beurteilung]]

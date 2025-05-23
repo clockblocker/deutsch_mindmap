@@ -1,1 +1,1 @@
-, [[Umfrage]]
+, [[Umfrage]], [[Meinungsumfrage]]

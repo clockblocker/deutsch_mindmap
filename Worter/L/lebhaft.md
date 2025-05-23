@@ -5,7 +5,10 @@ nicht [[träge]]
 
 ---
 Als die beiden mit den Getränkekisten zurückkommen, unterhalten sie sich [[lebhaft]].
-Die anderen kommen dazu und nehmen den beiden ein paar von den schweren Kisten ab. 
+Die anderen kommen dazu und nehmen den beiden ein paar von den schweren Kisten ab.
+
+*[[C1-Hoehen-T2-202-Text#^4|^]]* Auch die [[lebhaften]] Diskussionen über Politik in sozialen Netzwerken [[bestätigen]] diesen [[Eindruck]]
+
 
 ---
 Synonyme: , [[munter]], [[dynamisch]], [[aktiv]], [[energisch]], [[temperamentvoll]], [[lebendig]]

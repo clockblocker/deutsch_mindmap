@@ -1,2 +1,2 @@
 , [[Entfernung]]
-, [[lang]], [[Dauer]]
+, [[lang]], [[Dauer]], [[Zeitdauer]]

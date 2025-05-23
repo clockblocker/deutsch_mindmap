@@ -1,1 +1,1 @@
-, [[Unmut]], [[Mitarbeiterzufriedenheit]]
+, [[Unmut]], [[Mitarbeiterzufriedenheit]], [[Verdrossenheit]]

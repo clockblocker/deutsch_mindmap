@@ -32,4 +32,4 @@ Morpheme: [[ver]][[damm]][[en]]
 Partizip I: [[verdammend]], Partizip II: [[verdammt]]
 
 [[verdammen]] - [[ver]] = [[dammen]]
-, [[Deutschland]][[verurteilen]], [[segnen]]
+, [[Deutschland]][[verurteilen]], [[segnen]], [[verteufeln]]

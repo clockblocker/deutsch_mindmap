@@ -1,1 +1,1 @@
-, [[Kanalisation]]
+, [[Kanalisation]], [[Kanal]]

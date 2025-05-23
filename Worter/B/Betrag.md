@@ -1,3 +1,5 @@
+--> 🧮 [[Grad-Quantität]] <--
+
 💰 🔵 der [[Betrag]], [bəˈtʁaːk](https://youglish.com/pronounce/Betrag/german)
 die [[Beträge]]
 
@@ -10,7 +12,7 @@ die [[Beträge]]
 ---
 
 ---
-amount, sum  
+💰 [[Betrag]] *(amount, sum)*  
 сумма
 
 ---

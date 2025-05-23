@@ -1,1 +1,1 @@
-, [[Sender]]
+, [[Sender]], [[Kanal]]

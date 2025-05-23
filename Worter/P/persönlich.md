@@ -30,4 +30,4 @@ personal, in person
 Adjektive: [[persönlich]], [[persönlicher]], [[persönlichst]]
 
 ---
-[[persönlicher]], [[persönliches]], [[persönliche]], [[persönlichen]], [[persönlichem]], [[persönlicherer]], [[persönlicheres]], [[persönlichere]], [[persönlicheren]], [[persönlicherem]], [[persönlichster]], [[persönlichstes]], [[persönlichste]], [[persönlichsten]], [[persönlichstem]]
+[[persönlicher]], [[persönliches]], [[persönliche]], [[persönlichen]], [[persönlichem]], [[persönlicherer]], [[persönlicheres]], [[persönlichere]], [[persönlicheren]], [[persönlicherem]], [[persönlichster]], [[persönlichstes]], [[persönlichste]], [[persönlichsten]], [[persönlichstem]], [[Führungspersönlichkeit]]

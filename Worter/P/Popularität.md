@@ -1,1 +1,1 @@
-, [[Hot]], [[Bekanntheitsgrad]]
+, [[Hot]], [[Bekanntheitsgrad]], [[Zulauf]]

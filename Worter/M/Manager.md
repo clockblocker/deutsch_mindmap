@@ -28,4 +28,4 @@ A: den [[Manager]], die [[Manager]]
 G: des [[Managers]], der [[Manager]]
 D: dem [[Manager]], den [[Managern]]
 
-#Maskulin , [[Vorgesetzte]], [[Teamleiter]], [[Projektmanager]]
+#Maskulin , [[Vorgesetzte]], [[Teamleiter]], [[Projektmanager]], [[Führungspersönlichkeit]]

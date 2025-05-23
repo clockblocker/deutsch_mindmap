@@ -38,4 +38,4 @@ D: der [[Untersuchung]], den [[Untersuchungen]]
 , [[Texte/Misc/Anki]], [[ergeben]], [[Studie]], [[Abstrich]]
 
 
-#Feminin , [[Erkundung]], [[Abhandlung]]
+#Feminin , [[Erkundung]], [[Abhandlung]], [[Auswertung]], [[Erhebung]]

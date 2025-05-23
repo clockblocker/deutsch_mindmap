@@ -4,6 +4,9 @@
 *[[Sprechen-T1#^2|^]]* und in einem weiteren Punkt werde ich mich mit der Frage [[befassen]], ^2
 
 
+*[[C1-Hoehen-T2-202-Text#^1|^]]* Sie [[befassen]] sich mit der Auswertung und [[Interpretation]] von [[Umfragen]], die die Politik [[betreffen]]. Und dabei insbesondere mit der sogenannten Politikverdrossenheit. ^1
+
+
 ---
 = [[sich beschäftigen]], [[sich widmen]], [[sich auseinandersetzen]]
 ≈ [[behandeln]], [[erörtern]], [[untersuchen]]

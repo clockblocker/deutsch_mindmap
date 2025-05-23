@@ -31,4 +31,4 @@ G: der [[Wählerstimme]], der [[Wählerstimme]]n
 D: der [[Wählerstimme]], den [[Wählerstimme]]n
 
 
-#Feminin 
+#Feminin , [[Wahlurne]]

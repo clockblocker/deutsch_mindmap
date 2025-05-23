@@ -18,4 +18,4 @@ so far, to the extent that, as far as
 ---
 #Adverb #Modaladverb
 
-, [[s1 e1]], [[Konjunktoren]]
+, [[s1 e1]], [[Konjunktoren]], [[insofern]]

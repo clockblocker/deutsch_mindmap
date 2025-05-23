@@ -8,3 +8,4 @@
 🌀 [[zerzausen]] *(to tousle — disordered, tangled chaos, surface-level ruin)*
 🪨 [[zerreiben]] *(to grind down — erasure through friction, turned to dust over time)*
 
+, [[zerrütten]]

@@ -1,2 +1,2 @@
 , [[wendig]], [[begabt]]
-, [[tollpatschig]]
+, [[tollpatschig]], [[geschickt]]

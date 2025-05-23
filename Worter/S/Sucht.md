@@ -1,24 +1,34 @@
-[[suchen]]
+💊 🔴 die [[Sucht]], [zʊxt](https://youglish.com/pronounce/Sucht/german)
 
 ---
-🔵 der [[Sucht]]
-die [[Süchte]]
+*Die Weltgesundheitsorganisation (WHO)* 
+[[anerkennt|erkennt]] *bestimmte Online-Exzesse* `als` [[Sucht]] [[an]]
 
-Beispiele:
+*[[C1-Hoehen-T2-203-Text#^2|^]]* Es geht dabei darum, ab wann die [[durchaus]] sinnvolle Nutzung der digitalen Medien 
+`in` eine [[Sucht]] [[umschlägt]]
 
-- Seine [[Sucht]] nach Alkohol ist besorgniserregend.
-- Die [[Süchte]] der Patienten sind vielfältig.
-
----
-Synonyme:
-- [[Abhängigkeit]], [[Suchtverhalten]], [[Zwang]]
 
 ---
-**Übersetzung**: addiction
+= [[Abhängigkeit]], [[Suchtverhalten]]
+≈ [[Suchtmittel]], [[Abusus]], [[Toxikomanie]]
+≠ [[Abstinenz]], [[Genesung]]
 
 ---
-Morphems:
+addiction  
+зависимость
+
+---
+[[süchtig]], [[süchtig machen]], [[Suchtkranke]], [[Suchterkrankung]]
+
+---
 [[Sucht]]
 
+
 ---
-#Substantiv #Maskulin 
+N: die [[Sucht]], die [[Süchte]]
+A: die [[Sucht]], die [[Süchte]]
+G: der [[Sucht]], der [[Süchte]]
+D: der [[Sucht]], den [[Süchten]]
+
+
+#Feminin 

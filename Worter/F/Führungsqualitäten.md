@@ -1,1 +1,1 @@
-, [[Durchsetzungsvermögen]]
+, [[Durchsetzungsvermögen]], [[Führungsstil]]

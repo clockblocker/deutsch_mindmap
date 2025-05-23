@@ -2,6 +2,8 @@
 die [[Gegenteile]]
 
 ---
+*[[C1-Hoehen-T2-202-Text#^10|^]]* Nur fünf Prozent vom [[Gegenteil]] [[überzeugt]]
+
 *[[C1-Hoehen-T2-100-Loesung#^1|^]]* Achten Sie nur auf die Aufgaben zum Text, welche Textstellen den markierten Schlüsselwörtern entsprechen, [[ähnlich]] sind oder vielleicht das [[Gegenteil]] [[ausdrücken]]
 
 ---

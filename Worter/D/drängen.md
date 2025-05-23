@@ -67,4 +67,4 @@ sie, [[drängen]], [[drängten]], [[drängen]], [[drängten]], [[drängen]]
 Adjektive: [[drängend]], [[drängender]], [[drängendst]]
 
 ---
-[[drängender]], [[drängendes]], [[drängende]], [[drängenden]], [[drängendem]], [[drängenderer]], [[drängenderes]], [[drängendere]], [[drängenderen]], [[drängenderem]], [[drängendster]], [[drängendstes]], [[drängendste]], [[drängendsten]], [[drängendstem]], [[Tatendrang]]
+[[drängender]], [[drängendes]], [[drängende]], [[drängenden]], [[drängendem]], [[drängenderer]], [[drängenderes]], [[drängendere]], [[drängenderen]], [[drängenderem]], [[drängendster]], [[drängendstes]], [[drängendste]], [[drängendsten]], [[drängendstem]], [[Tatendrang]], [[übereilen]]

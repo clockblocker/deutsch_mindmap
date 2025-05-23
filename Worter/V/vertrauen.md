@@ -3,6 +3,9 @@
 ---
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
 
+*[[C1-Hoehen-T2-202-Text#^12|^]]* Wie äußert sich denn ein [[gering]]es [[Vertrauen]] in die Politik? ^12
+
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^7|^]]* Die physische [[Präsenz]] [[unterstützt]] das [[gegenseitige]] [[Vertrauen]] und die [[Motivation]], die in digitalen [[Settings]] nur schwer zu [[erreichen]] sind. ^7
 
 
@@ -16,7 +19,7 @@ Die [[Zuschauer]] müssen dir [[vertrauen]].
 ---
 = [[glauben]], [[sich verlassen auf]], [[zuversichtlich sein]]
 ≈ [[hoffen]], [[glauben]], [[sich verlassen]], [[anvertrauen]]
-≠ [[misstrauen]], [[bezweifeln]], [[argwöhnen]], [[zweifeln]], [[abhören]],  [[befürchten]],  [[zweifelt]], [[Zweifel]]
+≠ [[Misstrauen]], [[bezweifeln]], [[argwöhnen]], [[zweifeln]], [[abhören]],  [[befürchten]],  [[zweifelt]], [[Zweifel]]
 
 ---
 to trust, to confide in

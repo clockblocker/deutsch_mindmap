@@ -25,4 +25,4 @@ N: die [[Politik]], -
 A: die [[Politik]], -
 G: der [[Politik]], -
 D: der [[Politik]], -
-, [[Wohnungspolitik]]
+, [[Wohnungspolitik]], [[Politikverdrossenheit]], [[Wahlprogramm]], [[Politikmüdigkeit]], [[Politikverdrossene]]

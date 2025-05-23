@@ -16,4 +16,4 @@ Morpheme:
 
 ---
 #Numeral #Zahl
-, [[beachten]], [[achten]], [[Achtsamkeitstraining]]
+, [[beachten]], [[achten]], [[Achtsamkeitstraining]], [[missachten]]

@@ -26,4 +26,4 @@ Morpheme: [[zu]][[Lauf]][[en]]
 | Sie | [[laufen zu]] | [[liefen zu]] | [[laufen Sie zu]] | [[laufen zu]] | [[liefen zu]] |
 
 Partizip I: [[zulaufend]], Partizip II: [[zugelaufen]]
-[[zulaufen]] - [[zu]] = [[laufen]]
+[[zulaufen]] - [[zu]] = [[laufen]], [[Zulauf]]

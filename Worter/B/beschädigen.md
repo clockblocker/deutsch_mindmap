@@ -1,1 +1,1 @@
-, [[schaden]], [[verletzen]], [[versauen]], [[verheeren]]
+, [[schaden]], [[verletzen]], [[versauen]], [[verheeren]], [[zerrütten]]

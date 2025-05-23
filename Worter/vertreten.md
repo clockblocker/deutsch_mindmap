@@ -1,7 +1,9 @@
 🙋‍♂️ [[vertreten]], [fɛɐ̯ˈtʁeːtn̩] | [[vertrat]], haben [[vertreten]]
 
 ---
-*[[001-C1-Schreiben-T1#^2|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt. ^2
+*[[001-C1-Schreiben-T1#^2|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt.
+
+*[[C1-Hoehen-T2-202-Text#^16|^]]* Das [[Durchschnittsalter]] der Parteimitglieder ist ja relativ hoch. Sich die Jugend da überhaupt noch [[vertreten]]?
 
 
 141. Wer [[berät]] in Deutschland Personen bei Rechtsfragen und [[vertritt]] sie vor [[Gericht]]? (87%)

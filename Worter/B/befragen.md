@@ -30,4 +30,4 @@ Zu+infinitive: [[zu befragen]]
 [[befragen]] - [[be]] = [[fragen]]
 
 ---
-[[Befragung]], [[Befragter]], [[Befragte]], [[Umfrage]], [[Interview]], [[ungefragt]]
+[[Befragung]], [[Befragter]], [[Befragte]], [[Umfrage]], [[Interview]], [[ungefragt]], [[Meinungsumfrage]]

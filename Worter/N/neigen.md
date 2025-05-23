@@ -1,37 +1,47 @@
-🌊 [[neigen]] + zu + Dat, [ˈnaɪ̯gn̩]
-[[neigte]] 
-haben [[geneigt]]
+🤔 [[neigen]], [ˈnaɪ̯ɡn̩](https://youglish.com/pronounce/neigen/german) → [[neigte]] → [[geneigt]]
 
 ---
+15 Deutsche [[neigen]] weniger zu Populismus als andere Nationen.
+
+---
+= [[tendieren]], [[bevorzugen]], [[hinneigen]],  [[beugen]], [[biegen]],
+≈ [[anlehnen]], [[beugen]], [[veranlagt sein]]
+≠ [[ablehnen]], [[vermeiden]],  [[ablehnen]]
+
+---
+to tend, to incline  
+склоняться, быть склонным
+
+---
+[[Neigung]], [[geneigt]], [[Neigungswinkel]]
+
+---
+[[neig]]|[[en]]
+[[neigen]]
 
 
 ---
-[[zuneigen]] - [[zu]] = [[neigen]]
+###### [[neigen]] `zu` jD
+- `Wozu` [[neigst]] du?
+- `Zu` Optimismus.
 
+- `Zu` was [[neigen]] wir?
+- `Zu` Fehlern.
 
----
-Synonyme: [[tendieren]], [[zuneigen]], [[sich wenden]], [[hang haben]], [[geneigt sein]], [[bücken]],
-Antonyme: [[ablehnen 1]], [[opponieren]], [[widerstehen]]
-
----
-Übersetzung: to incline, to tend, to lean
-
----
-Morpheme: [[nei]][[g]][[en]]
- #Verb  #Untrennbar
- 
+- Warum [[hat]] er `dazu` [[geneigt]]?
+- Weil er müde war.
 
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[neige]], [[neigte]], [[neige]], [[neigte]], -
+du, [[neigst]], [[neigtest]], [[neige]], [[neigtest]], [[neige]]
+er, [[neigt]], [[neigte]], [[neige]], [[neigte]], -
+wir, [[neigen]], [[neigten]], [[neigen]], [[neigten]], [[neigen]]
+ihr, [[neigt]], [[neigtet]], [[neigt]], [[neigtet]], [[neigt]]
+sie, [[neigen]], [[neigten]], [[neigen]], [[neigten]], [[neigen]]
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[neige]]            | [[neigte]]            | -                 | [[neige]]              | [[neigte]]              |
-| Du        | [[neigst]]           | [[neigtest]]          | [[neige]]         | [[neigest]]            | [[neigetest]]           |
-| Er/sie/es | [[neigt]]            | [[neigte]]            | -                 | [[neige]]              | [[neigte]]              |
-| Wir       | [[neigen]]           | [[neigten]]           | -                 | [[neigen]]             | [[neigten]]             |
-| Ihr       | [[neigt]]            | [[neigtet]]           | [[neigt]]         | [[neiget]]             | [[neigtet]]             |
-| Sie       | [[neigen]]           | [[neigten]]           | [[neigen Sie]]    | [[neigen]]             | [[neigten]]             |
+*Zu + Inf*: zu [[neigen]], *P2*: [[geneigt]]
+Adjektive: [[neigend]], [[neigender]], [[neigendst]]
 
-Partizip I: [[neigend]], Partizip II: [[geneigt]]
-
-[[neigen]] - [[nei]] = [[gen]], [[beugen]], [[biegen]], [[ablehnen]]
+---
+[[neigender]], [[neigendes]], [[neigende]], [[neigenden]], [[neigendem]], [[neigenderer]], [[neigenderes]], [[neigendere]], [[neigenderen]], [[neigenderem]], [[neigendster]], [[neigendstes]], [[neigendste]], [[neigendsten]], [[neigendstem]]

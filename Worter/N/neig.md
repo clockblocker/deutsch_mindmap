@@ -1,1 +1,1 @@
-, [[zuneigen]]
+, [[zuneigen]], [[neigen]]

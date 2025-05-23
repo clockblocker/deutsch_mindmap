@@ -28,4 +28,4 @@
 [[dieser]]
 [[welcher]], [[derzeit]], [[Grammatik-Pronomen-Relativ-Selbständige]]
 
-, [[derartig]], [[derselbe]], [[derjenige]], [[derart]]
+, [[derartig]], [[derselbe]], [[derjenige]], [[derart]], [[dergleichen]]

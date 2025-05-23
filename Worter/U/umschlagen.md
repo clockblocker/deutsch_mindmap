@@ -1,7 +1,8 @@
 😤 [[umschlagen]], [ˈʊmʃlaːɡn̩] | [[schlug um]], haben [[umgeschlagen]]
 
 ---
-, [[Briefumschlag]], [[Um­schlag]], [[um­schlagen]]
+*[[C1-Hoehen-T2-203-Text#^2|^]]* Es geht dabei darum, ab wann die [[durchaus]] [[sinnvoll]]e Nutzung der digitalen Medien in eine [[Sucht]] [[umschlägt]]
+
 
 ---
 = [[verändern]], [[wechseln]], [[wenden]]
@@ -27,5 +28,4 @@ PI: [[umschlagend]], PII: [[umgeschlagen]], Zu+inf: [[umzuschlagen]]
 [[umschlagen]] - [[um]] = [[schlagen]] / to turn, to change, to reverse
 
 ---
-[[Umschlag]], [[Umschwung]], [[Umschlagpapier]]
-<dictionary_entry>
+[[Umschlag]], [[Umschwung]], [[Umschlagpapier]], [[Briefumschlag]],

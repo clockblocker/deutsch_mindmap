@@ -6,6 +6,8 @@ die [[Wirklichkeiten]]
 ---
 In [[Wirklichkeit]] ist der Reichstag eine Raumstation mit Aliens.  
 
+Die [[Selbsteinschätzung]]en der Testpersonen [[stimmten]] nicht mit der [[Wirklichkeit]] [[überein]].  
+
 
 ---
 Synonyme:

@@ -35,4 +35,4 @@ Tags:
 ---
 
 Morphems:
-[[mächtig]], [[übermächtig]]
+[[mächtig]], [[übermächtig]], [[Machtmissbrauch]]

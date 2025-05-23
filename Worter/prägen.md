@@ -1,8 +1,10 @@
 🏺 [[prägen]], [ˈpʁɛːɡən] | [[prägte]], haben [[geprägt]]
 
 ---
-295. Welche Religion hat die [[europäische]] und deutsche Kultur [[geprägt]]? (97%)
-	- [x] das [[Christentum]]
+8 [[Politikverdrossenheit]] ist ein `von` [[Wissenschaftler]]n [[geprägter]] [[Ausdruck]]
+
+Welche Religion hat die [[europäische]] und deutsche Kultur [[geprägt]]? (97%)
+- [x] das [[Christentum]]
 
 ###### 13. Demenz …
 c) wird durch frühe [[Umwelteinflüsse]] [[geprägt]].

@@ -1,1 +1,1 @@
-, [[kürzen]], [[kürzlich]], [[Dauer]]
+, [[kürzen]], [[kürzlich]], [[Dauer]], [[Zeitdauer]]

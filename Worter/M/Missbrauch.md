@@ -1,4 +1,8 @@
 --> [[Ingredinet-Action-Nomen]] <--
 
 ---
-, [[Kindererziehung]], [[Gebrauch]], [[Anwendung]], [[Handhabung]]
+[[Machtmissbrauch]]
+
+[[Kindererziehung]], [[Gebrauch]], [[Anwendung]], [[Handhabung]], [[Machtmissbrauch]]
+
+#Maskulin 

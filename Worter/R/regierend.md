@@ -1,8 +1,10 @@
-🕰️ [[regierend]], [ʁeˈɡiːʁənt] ≠ [[opposition]]
-
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
 
+🕰️ [[regierend]], [ʁeˈɡiːʁənt] ≠ [[opposition]]
+
 ---
+14 [[Machtmissbrauch]] ist typisch für viele [[regierende]] Parteien.  
+
 13. Im Parlament steht der [[Begriff]] „Opposition“ für… (96%)
 	- [ ] die [[regierenden]] [[Parteien]].
 	- [x] alle [[Abgeordneten]], die nicht zu der [[Regierungspartei]]/den Regierungsparteien gehören.

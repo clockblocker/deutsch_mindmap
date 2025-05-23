@@ -24,4 +24,4 @@ informal
 Adjektive: [[informell]], [[informeller]], [[informellsten]]
 
 ---
-[[informeller]], [[informelles]], [[informelle]], [[informellen]], [[informellem]], [[informellerer]], [[informelleres]], [[informellere]], [[informelleren]], [[informellerem]], [[informellstener]], [[informellstenes]], [[informellstene]], [[informellstenen]], [[informellstenem]]
+[[informeller]], [[informelles]], [[informelle]], [[informellen]], [[informellem]], [[informellerer]], [[informelleres]], [[informellere]], [[informelleren]], [[informellerem]], [[informellstener]], [[informellstenes]], [[informellstene]], [[informellstenen]], [[informellstenem]], [[umgangssprachlich]]
