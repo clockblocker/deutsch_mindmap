@@ -26,4 +26,4 @@ A: die [[Meinungsumfrage]], die [[Meinungsumfragen]]
 G: der [[Meinungsumfrage]], der [[Meinungsumfragen]]
 D: der [[Meinungsumfrage]], den [[Meinungsumfragen]]
 
-#Feminin 
+#Feminin , [[Zufriedenheitsumfrage]]

@@ -1,40 +1,63 @@
-🔄 [[bilden]] + Akk, [ˈbɪlðn̩]
-[[bildete|bildete]]  
-haben [[gebildet]]
+🎨 [[bilden]], [ˈbɪldn̩](https://youglish.com/pronounce/bilden/german) → [[bildete]] → [[gebildet]]
 
 ---
 Durch Kataras Handbewegungen bewegt sich das Wasser und in einem großen Eisberg hinter ihr [[bilden]] sich [[Risse]]
 
+*[[C1-Hoehen-T1-101-Text#^12|^]]* Wie man sich aber trotzdem einfach und gut [[ernähren]] kann und welche Rolle [[hierbei]] [[Nahrungsergänzungsmittel]] spielen, [[bildet]] den Hauptteil dieses Buches für alle Fans von leckerem und gesundem Essen
+
 *[[C1-Hoehen-T2-202-Text#^21|^]]* Wenn man weiß, wie ein politisches System funktioniert, kann man sich auch eine Meinung über die aktuelle politische [[Lage]] [[bilden]]
 
+---
+= [[formen]], [[erschaffen]], [[kreieren]], [[ausbilden]], [[prägen]],  [[erziehen]],
+≈ [[gestalten]], [[entwickeln]], [[erzeugen]]
+≠ [[zerstören]], [[vernichten]], [[auflösen]]
 
 ---
-[[ausbilden]] - [[aus]] = [[bilden]]
+to form, to create, to educate  
+формировать, создавать, образовывать
+
+---
+[[Bildung]], [[Gebilde]], [[Bildner]], [[abbilden]], [[ausbilden]], [[fortbilden]], [[Eisgebilde]], [[Volksbildung]], [[Bildschirm]], [[Bildband]], [[Meinungsbildung]]
 
 
 ---
-Synonyme: [[formen]], [[gestalten]], [[schaffen]], [[erschaffen]], [[kreieren]], [[produzieren]]
-Antonyme: [[auflösen]], [[zerstören]], [[vernichten]]
+[[bild]]|[[en]]
+[[bilden]]
+
 
 ---
-Übersetzung: to form, to shape, to create
+###### [[bilden]] jN
+- Was [[bildet]] ihr?
+- Eine Arbeitsgruppe.
+
+- Wen [[bilden]] wir aus?
+- Die neuen Mitarbeiter.
+
+- Warum [[hat]] er eine Ausnahme [[gebildet]]?
+- Weil es notwendig war.
 
 ---
-Morpheme: [[bil]][[d]][[en]]
- #Verb  #Trennbar
- 
+###### [[bilden]] *[[sich]]*
+- Worüber [[bildet]] sich das [[Bild]]?
+- Über die Vergangenheit.
+
+- Warum [[hat]] sich das [[gebildet]]?
+- Durch die Reaktion der Chemikalien.
+
+- Wie lange [[hat]] sich das [[gebildet]]?
+- Innerhalb weniger Stunden.
+
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[bild]] / [[bilde]], [[bildete]], [[bilde]], [[bildete]], -
+du, [[bildest]], [[bildetest]], [[bildest]], [[bildetest]], [[bild]] / [[bilde]]
+er, [[bildet]], [[bildete]], [[bilde]], [[bildete]], -
+wir, [[bilden]], [[bildeten]], [[bilden]], [[bildeten]], [[bilden]]
+ihr, [[bildet]], [[bildetet]], [[bildet]], [[bildetet]], [[bildet]]
+sie, [[bilden]], [[bildeten]], [[bilden]], [[bildeten]], [[bilden]]
 
+*Zu + Inf*: zu [[bilden]], *P2*: [[gebildet]]
+Adjektive: [[bildend]], [[bildender]], [[bildendst]]
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[bilde]] | [[bildete]] | - | [[bilde]] | [[bildete]] |
-| Du | [[bildest]] | [[bildetest]] | [[bilde]] | [[bildest]] | [[bildetest]] |
-| Er/sie/es | [[bildet]] | [[bildete]] | - | [[bilde]] | [[bildete]] |
-| Wir | [[bilden]] | [[bildeten]] | - | [[bilden]] | [[bildeten]] |
-| Ihr | [[bildet]] | [[bildetet]] | [[bildet]] | [[bildet]] | [[bildetet]] |
-| Sie | [[bilden]] | [[bildeten]] | [[bilden Sie]] | [[bilden]] | [[bildeten]] |
-
-Partizip I: [[bildend]], Partizip II: [[gebildet]]
-
-[[bilden]] - [[bil]] = [[d]]en, [[s1 e1]], [[ausbilden]], [[prägen]], [[Eisgebilde]], [[Volksbildung]], [[Bildschirm]], [[Bildband]], [[erziehen]], [[Meinungsbildung]]
+---
+[[bildender]], [[bildendes]], [[bildende]], [[bildenden]], [[bildendem]], [[bildenderer]], [[bildenderes]], [[bildendere]], [[bildenderen]], [[bildenderem]], [[bildendster]], [[bildendstes]], [[bildendste]], [[bildendsten]], [[bildendstem]]

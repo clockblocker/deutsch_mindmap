@@ -1,1 +1,1 @@
-, [[gewiss]], [[Wissen]]
+, [[gewiss]], [[Wissen]], [[Wirtschaftswissenschaftler]]

@@ -1,1 +1,1 @@
-, [[Nährboden]]
+, [[Nährboden]], [[Nährstoffgehalt]], [[ernähren]], [[nähren]]

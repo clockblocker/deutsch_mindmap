@@ -2,6 +2,9 @@
 nicht [[schmal]]
 
 ---
+*[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem [[breit]]en [[Bürgertum]] an [[Wissen]] [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]] ^14
+
+
 Sein Nachbar hört ihn schon von [[Weitem]]. Er sieht Moritz’ [[breites]] Lächeln und wie er immer wieder in die Luft springt. 
 
 ---

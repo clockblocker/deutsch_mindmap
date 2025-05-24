@@ -1,7 +1,9 @@
 ⬇️ [[zugrunde]], [ˈtsuːˌɡʁʊndə](https://youglish.com/pronounce/zugrunde/german)
 
 ---
-Die genannten Kriterien liegt immer das Niveau C1 des Gemeinsamen Europäischen [[Referenzrahmens]] [[zugrunde]].
+Die genannten Kriterien liegt immer das Niveau C1 des Gemeinsamen Europäischen [[Referenzrahmen]]s [[zugrunde]]
+
+*[[C1-Hoehen-T1-102-Text#^5|^]]* Anhand zahlreicher Beispiele aus der [[wahren]] Welt der Wirtschaft zeigt sie, wie [[überraschend]] groß der [[Einfluss]] von Unternehmen ist, deren [[Weltanschauung]] ethische [[Prinzip]]ien [[zugrunde]] [[liegen]]
 
 ---
 = [[zugrunde liegen]], [[basieren]], [[beruhen]]

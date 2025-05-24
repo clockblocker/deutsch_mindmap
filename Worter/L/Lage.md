@@ -36,4 +36,4 @@ Einzigartige mögliche Formen:
 , [[befinden]], [[legen]], [[Niederlage]], [[Umstand]], [[Vorlage]], [[Wahlniederlage]]
 , [[Unterlage]]
 , [[gelegen]]
-, [[Auftragslage]], [[Kapitalanlage]], [[Lebenslage]]
+, [[Auftragslage]], [[Kapitalanlage]], [[Lebenslage]], [[Geldanlage]], [[Wertanlage]]

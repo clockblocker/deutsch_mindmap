@@ -44,4 +44,4 @@ sie, [[appellieren]], [[appellierten]], [[appellieren]], [[appellierten]], [[app
 Adjektive: [[appellierend]], [[appellierender]], [[appellierendst]]
 
 ---
-[[appellierender]], [[appellierendes]], [[appellierende]], [[appellierenden]], [[appellierendem]], [[appellierenderer]], [[appellierenderes]], [[appellierendere]], [[appellierenderen]], [[appellierenderem]], [[appellierendster]], [[appellierendstes]], [[appellierendste]], [[appellierendsten]], [[appellierendstem]], [[plädieren]]
+[[appellierender]], [[appellierendes]], [[appellierende]], [[appellierenden]], [[appellierendem]], [[appellierenderer]], [[appellierenderes]], [[appellierendere]], [[appellierenderen]], [[appellierenderem]], [[appellierendster]], [[appellierendstes]], [[appellierendste]], [[appellierendsten]], [[appellierendstem]], [[plädieren]], [[beschwören]]

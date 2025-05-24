@@ -1,1 +1,1 @@
-, [[Worter/W/Wirtschaft]]
+, [[Wirtschaft]]

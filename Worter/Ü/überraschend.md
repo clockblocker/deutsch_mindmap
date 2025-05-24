@@ -1,1 +1,1 @@
-[[Überraschen]], [[erstaunlich]], [[erwartungsgemäß]], [[unerwartet]], [[unvorhergesehen]]
+😲 [[überraschen]] | 😲 [[überraschend]]

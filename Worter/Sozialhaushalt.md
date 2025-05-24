@@ -27,4 +27,4 @@ A: den [[Sozialhaushalt]], die [[Sozialhaushalte]]
 G: des [[Sozialhaushaltes]], der [[Sozialhaushalte]]
 D: dem [[Sozialhaushalt]], den [[Sozialhaushalten]]
 
-#Maskulin 
+#Maskulin , [[Finanz]]

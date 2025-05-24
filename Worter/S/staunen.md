@@ -5,6 +5,8 @@ haben [[gestaunt]]
 ---
 „Ich gebe echt viel Geld aus“, stellt Björn [[staunend]] fest.
 
+*[[C1-Hoehen-T1-102-Text#^6|^]]* Wenn ihr wissen wollt, wie eure [[Kaufentscheidung]]en [[Bildung]], [[Umweltschutz]], [[Menschenrecht]]e und gute [[Arbeitsbedingung]]en [[unterstützen]], investiert die 17,90 € für die [[Taschenbuchausgabe]] und fangt an zu [[staunen]]
+
 Als sie ihre Freunde zum ersten Mal besucht, [[staunt]] sie nicht schlecht: keine laute Musik, die aus offenen Fenstern schallt, keine wild wachsende Blumenwiese vor dem Haus. 
 
 ---

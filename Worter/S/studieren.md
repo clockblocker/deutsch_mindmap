@@ -2,7 +2,10 @@
 🎓 [[studieren]], [ˈʃtuˌdiːʀən] | [[studierte]], haben [[studiert]]
 
 ---
-Über die Jahre kam eine schöne Summe zusammen, und Laura [[studierte]] [[bereits]] die Immobilienangebote in der Zeitung und im Internet. 
+Über die Jahre kam eine schöne Summe zusammen, und Laura [[studierte]] [[bereits]] die Immobilienangebote in der Zeitung und im Internet.
+
+*[[C1-Hoehen-T1-102-Text#^9|^]]* In "Wirtschaftsethik leicht gemacht" vergleicht der [[künftig]]e [[Wirtschaftswissenschaftler]] [[verschieden]]e [[Universität]]en, an denen er [[bspw.]] [[Zufriedenheitsumfrage]]n mit den [[Studierend]]en [[durchgeführt]] hat und spricht auf dieser Basis auch Studien- und [[Universitätsempfehlungen]] aus
+
 
 ---
 Synonyme: [[lernen]], [[forschen]], [[akademisch arbeiten]], [[untersuchen]], [[sich bilden]]
@@ -24,7 +27,7 @@ Er/sie/es: [[studiert]], [[studierte]], -, [[studiere]], [[studierte]]
 Wir: [[studieren]], [[studierten]], -, [[studieren]], [[studierten]]  
 Ihr: [[studiert]], [[studiertet]], [[studiert]], [[studieret]], [[studiertet]]  
 
-Partizip I: [[studierend]], 
+Partizip I: [[Studierend]], 
 Partizip II: [[studiert]]
 Zu+infinitive: [[zu studieren]]
 

@@ -3,13 +3,15 @@
 haben [[geholt]]
 
 ---
-In der Garderobe sah ich den hellgrauen Mantel hängen. [[17 zu inf#^9|^]] Meine Frau hatte ihn also aus dem [[Keller]] [[geholt]]. ^9
+In der Garderobe sah ich den hellgrauen Mantel hängen. [[17 zu inf#^9|^]] Meine Frau hatte ihn also aus dem [[Keller]] [[geholt]]
 
-SAM: Oh, hi, Nic - Ich will meine Hanteln [[holen]] …  
+*[[C1-Hoehen-T1-100-Text#^25|^]]* Hab gehört, die [[Abschaffung]] der Turboeinbürgerung sei ein [[Zugeständnis]] an die AfD-[[Wählerschaft]], um sie näher zur Mitte zu [[holen]]
 
 Hoffentlich hilft ihr der Kaffee, den sie sich gerade im Café um die Ecke [[geholt]] hat.
 
 Frau Schulte sagt: „So kann es auf jeden [[Fall]] nicht [[weitergehen]]. Auch die Mitschüler [[leiden]] unter den [[ständigen]] [[Aggressionen]]. Also, wie [[holen]] wir [[Die Kuh vom Eis holen|die Kuh vom Eis]]?“ 
+
+SAM: Oh, hi, Nic - Ich will meine Hanteln [[holen]] …  
 
 
 ---

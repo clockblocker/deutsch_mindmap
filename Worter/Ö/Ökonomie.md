@@ -1,1 +1,1 @@
-, [[Worter/W/Wirtschaft]], [[Verschwendung]], [[Sparsamkeit]]
+, [[Wirtschaft]], [[Verschwendung]], [[Sparsamkeit]]

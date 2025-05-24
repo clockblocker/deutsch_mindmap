@@ -1,1 +1,1 @@
-, [[beliefern]], [[Lieferservice]], [[Lieferdienst]], [[liefern]]
+, [[beliefern]], [[Lieferservice]], [[Lieferdienst]], [[liefern]], [[ausliefern]]

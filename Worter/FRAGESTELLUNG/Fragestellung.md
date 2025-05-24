@@ -6,7 +6,7 @@ die [[Fragestellungen]]
 
 ---
 = [[Frage]], [[Problemstellung]], [[Aufgabenstellung]]
-≈ [[Thema]], [[Anliegen]], [[Problem]]
+≈ [[Thema]], [[anliegen]], [[Problem]]
 ≠ [[Antwort]], [[Lösung]]
 
 ---

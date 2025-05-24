@@ -36,3 +36,4 @@ PI: [[beschützend]], PII: [[beschützt]], Zu+inf: [[zu beschützen]]
 [[Beschützer]], [[Beschützerin]], [[Schutz]], [[schützen]], [[Beschützung]], [[beschützend]]
 
 [[überfallen]], [[retten]], [[ermorden]], [[morden]], [[wehrten]]
+, [[verprügeln]]

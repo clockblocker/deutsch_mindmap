@@ -1,1 +1,1 @@
-, [[Grenz]]
+, [[Grenz]], [[angrenzen]]

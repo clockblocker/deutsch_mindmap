@@ -23,4 +23,4 @@ G: der [[Lieferung]], der [[Lieferungen]]
 D: der [[Lieferung]], den [[Lieferungen]]  
 
 ---
-[[Lieferschein]], [[Anlieferung]], [[Auslieferung]], [[Lieferant]], [[Lieferadresse]], [[Lieferdienst]], [[Bestellung]], [[beliefern]], [[Lieferservice]], [[Abgabe]]
+[[Lieferschein]], [[Anlieferung]], [[Auslieferung]], [[Lieferant]], [[Lieferadresse]], [[Lieferdienst]], [[Bestellung]], [[beliefern]], [[Lieferservice]], [[Abgabe]], [[ausliefern]]

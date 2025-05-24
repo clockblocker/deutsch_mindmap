@@ -3,7 +3,9 @@
 haben [[gehört]]
 
 ---
-mach es so wie ich - und der Job [[gehört]] dir.  
+
+*[[C1-Hoehen-T1-101-Text#^6|^]]* Zur Therapie [[gehören]] bei der EAV eine [[Beratung]] zur gesunden [[Ernährung]] und bei [[zahlreiche]]n [[Praktizierend]]en eine [[Injektionstherapie]]. ^6
+
 
 *Mann gegen Mann*  
 *Meine Haut [[gehört]] den Herren*  
@@ -12,6 +14,7 @@ So [[gehört]] es heute zu jedem Partygespräch, eine Meinung über Kunst zu hab
 
 Alfred [[gehört]] zu den Menschen, die immer den Kick suchen. Er braucht Abenteuer und Aufregung, weil er sich sonst schnell langweilt. Dazu passt auch sein Hobby: das Glücksspiel. 
 
+mach es so wie ich - und der Job [[gehört]] dir.  
 
 
 ---
@@ -37,4 +40,4 @@ Morpheme: [[ge]][[hör]][[en]]
 | Sie       | [[gehören]]          | [[gehörten]]          | [[gehören Sie]]   | [[gehören]]            | [[gehörten]]            |
 
 Partizip I: [[gehörend]], Partizip II: [[gehört]]
-[[gehören]] - [[ge]] = [[hören]], [[ablehnen]], [[angehören]], [[Zugehörigkeit]]
+[[gehören]] - [[ge]] = [[hören]], [[ablehnen]], [[angehören]], [[Zugehörigkeit]], [[hingehören]]

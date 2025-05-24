@@ -1,1 +1,1 @@
-, [[Impfung]], [[injizieren]]
+, [[Impfung]], [[injizieren]], [[Injektionstherapie]]

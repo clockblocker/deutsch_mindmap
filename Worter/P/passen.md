@@ -38,4 +38,4 @@ PI: [[passend]], PII: [[gepasst]], Zu+inf: [[zu passen]]
 , [[verpassen]], [[stimmen]]
 
 
-[[stellen]], [[taugen]]
+[[stellen]], [[taugen]], [[hingehören]]

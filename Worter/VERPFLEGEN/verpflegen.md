@@ -1,1 +1,1 @@
-, [[Verpflegung]]
+, [[Verpflegung]], [[ernähren]]

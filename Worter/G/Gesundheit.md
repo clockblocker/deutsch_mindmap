@@ -29,4 +29,4 @@ D: der [[Worter/G/Gesundheit]], -
 
 
 #Feminin 
-, [[Anfall]], [[Wohlergehen]], [[Weltgesundheitsorganisation]]
+, [[Anfall]], [[Wohlergehen]], [[Weltgesundheitsorganisation]], [[Giftschaden]], [[Lebenserwartung]]

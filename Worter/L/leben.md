@@ -63,4 +63,4 @@ Morpheme: [[leb]][[en]]
 
 Partizip I: [[lebend]], Partizip II: [[gelebt]]
 [[Leben]] - keine Vorsilbe
-, [[Geschäftsleben]], [[wohnen]], [[erfrieren]], [[verscheiden]], [[Lebensform]], [[Lebensjahr]], [[Lebensversicherung]], [[Grab]], [[s1 e1]], [[Todesfall]], [[lebendig]], [[Lebensstil]], [[Privatleben]], [[Berufsleben]], [[Lebenshaltungskosten]], [[Alltag]], [[lebenswichtig]], [[beleben]], [[Lebewesen]], [[Lebensalter]], [[Lebenslage]], [[Lebensweise]], [[kurzlebig]], [[lebenswert]]
+, [[Geschäftsleben]], [[wohnen]], [[erfrieren]], [[verscheiden]], [[Lebensform]], [[Lebensjahr]], [[Lebensversicherung]], [[Grab]], [[s1 e1]], [[Todesfall]], [[lebendig]], [[Lebensstil]], [[Privatleben]], [[Berufsleben]], [[Lebenshaltungskosten]], [[Alltag]], [[lebenswichtig]], [[beleben]], [[Lebewesen]], [[Lebensalter]], [[Lebenslage]], [[Lebensweise]], [[kurzlebig]], [[lebenswert]], [[langlebig]], [[Lebenswandel]], [[Lebenserwartung]]

@@ -1,1 +1,1 @@
-[[Zauber]], [[anflehen]]
+[[Zauber]], [[anflehen]], [[beschwören]]

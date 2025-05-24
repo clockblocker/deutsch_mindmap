@@ -4,6 +4,8 @@
 Da [[kommt]] der wilde Jägersmann*  
 *zuletzt beim tiefen Brünnchen [[an]].*  
 
+*[[C1-Hoehen-T1-101-Text#^5|^]]* Da helfen Vitamine und Medikamente wenig, da sie gar nicht da [[ankommen]], wo sie [[hingehören]]
+
 *[[C1-Hoehen-T2-200-Text#^12|^]]* Wobei es uns nicht auf eine Definition von Intelligenz [[ankommt]], was sich in der [[Praxis]] als sehr schwierig [[gestaltet]], sondern auf die [[verschiedenen]] Arten der Intelligenz. ^12
 
 

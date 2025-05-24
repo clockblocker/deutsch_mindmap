@@ -58,4 +58,4 @@ sie, [[schalten ein]], [[schalteten ein]], [[schalten ein]], [[schalteten ein]],
 Adjektive: [[einschaltend]], [[einschaltender]], [[einschaltendst]]
 
 ---
-[[einschaltender]], [[einschaltendes]], [[einschaltende]], [[einschaltenden]], [[einschaltendem]], [[einschaltenderer]], [[einschaltenderes]], [[einschaltendere]], [[einschaltenderen]], [[einschaltenderem]], [[einschaltendster]], [[einschaltendstes]], [[einschaltendste]], [[einschaltendsten]], [[einschaltendstem]]
+[[einschaltender]], [[einschaltendes]], [[einschaltende]], [[einschaltenden]], [[einschaltendem]], [[einschaltenderer]], [[einschaltenderes]], [[einschaltendere]], [[einschaltenderen]], [[einschaltenderem]], [[einschaltendster]], [[einschaltendstes]], [[einschaltendste]], [[einschaltendsten]], [[einschaltendstem]], [[ausmachen]]

@@ -1,1 +1,1 @@
-, [[Lebzeiten]], [[kurzlebig]]
+, [[Lebzeiten]], [[kurzlebig]], [[Lebenserwartung]]

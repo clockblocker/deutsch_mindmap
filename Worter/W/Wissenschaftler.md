@@ -2,7 +2,9 @@
 die [[Wissenschaftler]]
 
 ---
-8 [[Politikverdrossenheit]] ist ein von Wissenschaftlerinnen und [[Wissenschaftlern]] [[geprägter]] [[Ausdruck]].
+[[Politikverdrossenheit]] ist ein von Wissenschaftlerinnen und [[Wissenschaftlern]] [[geprägter]] [[Ausdruck]]
+
+[[Renommiert]]e [[Wissenschaftler]]:innen konnten hier ihre [[Theorie]]n in die [[Praxis]] [[übertragen]]  
 
 ---
 = [[Forscher]], [[Akademiker]]
@@ -27,4 +29,4 @@ A: den [[Wissenschaftler]], die [[Wissenschaftler]]
 G: des [[Wissenschaftlers]], der [[Wissenschaftler]]
 D: dem [[Wissenschaftler]], den [[Wissenschaftlern]]
 
-#Maskulin 
+#Maskulin , [[Wirtschaftswissenschaftler]]

@@ -19,4 +19,4 @@ Morphems:
 [[Beispiel]]
 
 ---
-#Substantiv #Neuter, [[Vorlage]], [[Modell]]
+#Substantiv #Neuter, [[Vorlage]], [[Modell]], [[beispielsweise]]

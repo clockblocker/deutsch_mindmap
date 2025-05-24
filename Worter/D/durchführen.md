@@ -3,6 +3,10 @@
 ---
 *[[C1-Hoehen-T2-201-Text#^32|^]]* Viele [[Studierende]] auf [[Lehramt]] haben in ihrer Schulzeit schon selbst [[erlebt]], dass der Mathematikunterricht allem abstrakt [[durchgeführt]] wurde und sind damit gut [[zurechtgekommen]]
 
+*[[C1-Hoehen-T1-102-Text#^9|^]]* In "Wirtschaftsethik leicht gemacht" vergleicht der [[künftig]]e [[Wirtschaftswissenschaftler]] [[verschieden]]e [[Universität]]en, an denen er [[bspw.]] [[Zufriedenheitsumfrage]]n mit den [[Studierend]]en [[durchgeführt]] hat und [[aussprechen|spricht]] auf dieser Basis auch Studien- und [[Universitätsempfehlung]]en aus
+
+*[[C1-Hoehen-T1-101-Text#^3|^]]* Dabei werden elektrische [[Widerstandsmessung]]en an den [[Meridianpunkt]]en [[durchgeführt]]
+
 *[[C1-Hoehen-T2-200-Text#^27|^]]* Auch dazu haben wir Experimente [[durchgeführt]]
 
 *[[C1-Lesen-T1-001-Text#^38|^]]* Aber in der Studie heißt es auch, dass [[zusätzliche]] Labortests [[durchgeführt]] werden müssen, um eine bestimmte Krankheit [[abschließend]] zu diagnostizieren

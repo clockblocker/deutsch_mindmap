@@ -1,2 +1,2 @@
 , [[schaffen]], [[Vernichtung]]
-, [[verschaffen]], [[Entstehung]]
+, [[verschaffen]], [[Entstehung]], [[Abschaffung]]

@@ -58,4 +58,4 @@ Zu+infinitive: [[anzugehen]]
 
 ---
 [[Angang]], [[Angelegenheit]], [[Anfang]], [[Vorgehen]], [[Herangehensweise]], [[betreffen]]
-, [[vorangehen]]
+, [[vorangehen]], [[anliegen]]

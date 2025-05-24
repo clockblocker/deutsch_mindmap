@@ -18,7 +18,7 @@ Antonyme: [[löschen]], [[radieren]], [[streichen]]
 Übersetzung: to type
 
 ---
-Morpheme: [[tipp]][[en]]
+Morpheme: [[Tipp]][[en]]
  #Verb  #Trennbar
  
 ---

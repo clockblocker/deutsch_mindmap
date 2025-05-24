@@ -1,3 +1,3 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
-, [[weitergeben]], [[Verabreichen]], [[unterbreiten]], [[übertragen]], [[freisetzen]], [[ausloben]], [[verteilen]], [[ausschütten]]
+, [[weitergeben]], [[Verabreichen]], [[unterbreiten]], [[übertragen]], [[freisetzen]], [[ausloben]], [[verteilen]], [[ausschütten]], [[ausliefern]]

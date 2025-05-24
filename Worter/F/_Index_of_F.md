@@ -1487,7 +1487,7 @@
  [[Worter/F/forsche|forsche]]
  [[Worter/F/forschen|forschen]]
  [[Worter/F/forschend|forschend]]
- [[Worter/F/forschende|forschende]]
+ [[Forschende|Forschende]]
  [[Worter/F/forschendem|forschendem]]
  [[Worter/F/forschenden|forschenden]]
  [[Worter/F/forschender|forschender]]

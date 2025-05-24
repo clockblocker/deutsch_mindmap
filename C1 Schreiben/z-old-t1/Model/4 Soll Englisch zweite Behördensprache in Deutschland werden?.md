@@ -32,7 +32,7 @@ Deutschland ist schon lange ein Einwanderungsland und für viele Migrantinnen un
 
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^4|^]]* _Meiner Meinung nach gibt es jedoch wichtigere Kriterien, die Angestellte in Behörden mit Publikumsverkehr beherrschen sollten. ^4
 
-*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^5|^]]* _Neben den_ [[Inhalt]]_en _der Arbeit und der Gesetze müssen diese Angestellten auch _ [[höflich]] _ ,_ [[hilfsbereit]] _und vor allem_ [[empathisch]] _im_ [[Umgang]] _mit Menschen und ihren_ [[Anliegen]] _sein. ^5
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^5|^]]* _Neben den_ [[Inhalt]]_en _der Arbeit und der Gesetze müssen diese Angestellten auch _ [[höflich]] _ ,_ [[hilfsbereit]] _und vor allem_ [[empathisch]] _im_ [[Umgang]] _mit Menschen und ihren_ [[anliegen]] _sein. ^5
 
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^6|^]]* _Wenn diese_ [[Voraussetzungen]] _erfüllt werden, dann lässt sich auch das Sprachproblem lösen, denn es sollte ja auch das Ziel der_ [[eingewanderten]] _Personen sein, sich zu integrieren. ^6
 
@@ -79,7 +79,7 @@ Die Einführung von Englisch als zweite Amtssprache könnte in dieser Hinsicht a
 
 - [[einheimische]] [[Bevölkerung]]
 
-- [[Anliegen]] = [[Probleme]]
+- [[anliegen]] = [[Probleme]]
 
 - [[Behörde]] = [[Beamte]] = Angestellte mit [[Publikumsverkehr]]
 - [[Behörde]], [[Behörden]], [[behördlich]]

@@ -1,1 +1,1 @@
-, [[machen]], [[Gewalt]], [[Besatzungsmacht]], [[Kraft]], [[Einfluss]], [[Machtmissbrauch]]
+, [[machen]], [[Gewalt]], [[Besatzungsmacht]], [[Kraft]], [[Einfluss]], [[Machtmissbrauch]], [[ausmachen]]

@@ -1,2 +1,2 @@
 , [[geduld]], [[Willenskraft]]
-, [[Durchhaltevermögen]], [[Ausdauertraining]], [[ausdauern]], [[Ausdauersport]], [[Ausdauersportart]]
+, [[Durchhaltevermögen]], [[Ausdauertraining]], [[ausdauern]], [[Ausdauersport]], [[Ausdauersportart]], [[Widerstandsfähigkeit]]

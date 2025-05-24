@@ -1,1 +1,1 @@
-, [[wärmen]]
+, [[wärmen]], [[Kühlung]]

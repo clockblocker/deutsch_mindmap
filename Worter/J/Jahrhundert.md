@@ -1,1 +1,1 @@
-, [[Jahrhundertmitte]], [[Zeitalter]]
+, [[Jahrhundertmitte]], [[Zeitalter]], [[jahrhundertealt]]

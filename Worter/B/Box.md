@@ -1,1 +1,1 @@
-, [[Kasten]], [[Metallkiste]]
+, [[Kasten]], [[Metallkiste]], [[Truhe]]

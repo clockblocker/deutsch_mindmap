@@ -4,6 +4,8 @@ die [[Arten]]
 ---
 Herr Knizka sagt, dass alle [[Art]]en von Online-[[Sucht]] ein [[gemeinsam]]es [[Merkmal]] haben
 
+*[[C1-Hoehen-T1-102-Text#^11|^]]* "Wirtschaftsethik" [[erläutert]] es [[Normalsterbliche]]n nämlich [[dankenswerterweise]] einmal und zwar als: [[Überbrückung]] des [[Spannungsverhältnis]]ses der [[marktwirtschaftlich]]en [[Gewinnorientierung]] und [[gesellschaftlich]]en [[Moralvorstellung]]en und [[einführen|führt]] auch weitere allgemeine [[Begriff]]e der Wirtschaftsethik auf eine einfache und verständliche [[Art]] und [[Weise]] ein
+
 Es gibt [[verschiedene]] [[Arten]] von Tieren.
 
 Na ja. [[Sowas in der Art]], noch nicht ganz.

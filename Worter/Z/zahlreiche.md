@@ -5,6 +5,8 @@ nicht [[wenige]]
 *[[000-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
 
 
+*[[C1-Hoehen-T1-101-Text#^6|^]]* Zur Therapie [[gehören]] bei der EAV eine [[Beratung]] zur gesunden [[Ernährung]] und bei [[zahlreiche]]n [[Praktizierend]]en eine [[Injektionstherapie]]
+
 *[[001-C1-Schreiben-T1#^2|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt. ^2
 
 

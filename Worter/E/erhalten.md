@@ -5,6 +5,8 @@ haben [[erhalten]]
 ---
 Du [[erhältst]] morgen ein Geschenk.
 
+*[[C1-Hoehen-T1-100-Text#^24|^]]* [[Erdarbeiten]]: [[freiSchaltet|Schaltet]] [[angrenzende]] Felder des [[Ziel]]s [[frei]]. Du [[erhältst]] bis zu 3 Kopien seiner Karte
+
 *[[C1-Lesen-T2-101-Text#^7|^]]* In den Knochen eines Toten – genannt Individuum A – fanden Scorrano und Kolleginnen und Kollegen gut [[erhaltene]] DNA. ^7
 
 

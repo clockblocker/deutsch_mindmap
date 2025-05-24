@@ -4,6 +4,8 @@ die [[Stufen]]
 ---
 Ihr werdet mir jetzt die [[nächsthöhere]] [[Stufe]] [[beibringen]] klar?!
 
+Alle [[angrenzenden]] [[Feld]]er [[verursachen]] nun [[Giftschaden]]. Ein [[Stapel]] Gift pro [[Stufe]].
+
 *[[C1-Lesen-T2-101-Text#^25|^]]* Spielzeug soll [[anregen]] und helfen, die nächste [[Stufe]] der Entwicklung zu [[erobern]]. ^25
 
 

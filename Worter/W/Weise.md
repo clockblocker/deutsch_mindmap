@@ -2,7 +2,9 @@ weise, [ˈvaɪ̯zə]
 nicht [[dumm]]
 
 ---
-Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]].
+Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]]
+
+*[[C1-Hoehen-T1-102-Text#^11|^]]* "Wirtschaftsethik" [[erläutert]] es [[Normalsterbliche]]n nämlich [[dankenswerterweise]] einmal und zwar als: [[Überbrückung]] des [[Spannungsverhältnis]]ses der [[marktwirtschaftlich]]en [[Gewinnorientierung]] und [[gesellschaftlich]]en [[Moralvorstellung]]en und [[einführen|führt]] auch weitere allgemeine [[Begriff]]e der Wirtschaftsethik auf eine einfache und verständliche [[Art]] und [[Weise]] ein
 
 *[[C1-Lesen-T2-102-Text#^8|^]]* Sie lösen einen [[Stoffwechselmechanismus]] aus, der auf eine andere Art und [[Weise]] das [[Traumgewicht]] in [[greifbare]] Nähe [[rücken]] kann.
 
@@ -60,4 +62,4 @@ Einzigartige mögliche Formen: [[Weisen]], [[Weisen]], [[Weisen]]
 #Substantiv #Maskulin #Plural
 
 , [[zwangsweise]], [[beziehungsweise]]
-, [[erledigen]], [[vernünftig]], [[vorweisen]], [[erweisen]], [[teilweise]], [[Zugriff]], [[stellenweise]], [[Vorgehensweise]], [[Spielweise]], [[Sprechweise]], [[Methode]], [[Funktionsweise]], [[Sichtweise]], [[Betrachtungsweise]], [[zeitweise]], [[Lebensweise]], [[Denkweise]], [[erstaunlicherweise]]
+, [[erledigen]], [[vernünftig]], [[vorweisen]], [[erweisen]], [[teilweise]], [[Zugriff]], [[stellenweise]], [[Vorgehensweise]], [[Spielweise]], [[Sprechweise]], [[Methode]], [[Funktionsweise]], [[Sichtweise]], [[Betrachtungsweise]], [[zeitweise]], [[Lebensweise]], [[Denkweise]], [[erstaunlicherweise]], [[Wirkungsweise]], [[Ernährungsweise]], [[beispielsweise]], [[dankenswerterweise]]

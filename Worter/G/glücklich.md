@@ -4,6 +4,8 @@ nicht [[unglücklich]]
 ---
 *[[C1-Hoehen-T1-201-Text#^22|^]]* [[Verkörpert]] werden sie von Alexandra Heilmann und Marco Rufbach, eine [[Auswahl]], mit der Regisseur Eric Hofmann ein [[glückliches]] [[Händchen]] [[bewiesen]] hat
 
+*[[C1-Hoehen-T1-102-Text#^2|^]]* "Kauft sie [[glücklich]]" [[thront]] als Titel auf dem [[Einband]] und ich [[verspreche]] euch, die zweite [[Auflage]] des Spiegel-Bestsellers wird euren Horizont [[erweitern]]
+
 SASCHA: Und wer ist die [[Glückliche]], Sam? 
 
 [[Glücksspiel]], [[gelungen]], [[Glücksfälle]], [[bedrückt]]

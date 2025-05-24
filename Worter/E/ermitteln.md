@@ -36,4 +36,4 @@ Zu+infinitive: [[zu ermitteln]]
 [[Ermittlung]], [[Ermittler]], [[Ermittlerin]], [[Kriminalermittlung]], [[Polizeiermittlung]]
 
 , [[recherchieren]], [[feststellen]]
-, [[ausrechnen]], [[herausfinden]], [[forschen]], [[erkundigen]], [[orten]], [[aufspüren]], [[vermessen]], [[nachgehen]]
+, [[ausrechnen]], [[herausfinden]], [[forschen]], [[erkundigen]], [[orten]], [[aufspüren]], [[vermessen]], [[nachgehen]], [[eruieren]]

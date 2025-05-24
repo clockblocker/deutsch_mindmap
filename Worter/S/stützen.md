@@ -1,6 +1,8 @@
 🤲 [[stützen]], [ˈʃtʏtsən] | [[stützte]], haben [[gestützt]]
 
 ---
+*[[C1-Hoehen-T1-102-Text#^17|^]]* Im [[Anschluss]] erklären [[namhafte]] Wissenschaftler:innen dann sogar noch, wie grüne und ethische Fonds funktionieren und wie wir [[herausfinden]] können, ob eine potenzielle [[Wertanlage]] durch Kinderarbeit oder andere ethisch nicht [[vertretbare]] Konzepte [[gestützt]] wird
+
 [[unterstützen]] - [[unter]] = [[stützen]] / to support, to help, to assist
 
 ---

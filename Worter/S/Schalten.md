@@ -1,80 +1,59 @@
-🔌 [[Schalten]]
-[[schaltete]]
-haben [[geschaltet]]
+⚙️ [[schalten]], [ˈʃaltn̩](https://youglish.com/pronounce/schalten/german) → [[schaltete]] → [[geschaltet]]
 
 ---
+ [[abschalten]] to switch off, to turn off
+ [[einschalten]] to switch on, to turn on  
+ [[freischalten]] to unlock, to activate  
 
-Synonyme:
-- [[umschalten]], [[wechseln]], [[einstellen]], 🔌  [[ausschalten]]
+---
+= [[betätigen]], [[einschalten]], [[verbinden]]
+≈ [[aktivieren]], [[steuern]], [[regeln]]
+≠ [[ausschalten]], [[deaktivieren]]
+
+---
+to switch, to activate  
+переключать, включать
+
+---
+[[Schalter]], [[Schaltung]], [[schaltbar]]
+
+---
+[[schalt]]|[[en]]
+[[schalten]]
 
 
 ---
+###### [[schalten]] jN
+- Was [[schaltest]] du?
+- Das Licht.
 
-Beispiele:
+- Was [[schalten]] wir?
+- Den Fernseher.
 
-- Ich [[schalte]] den Fernseher auf einen anderen Kanal.
-- Du [[schaltest]] den Gang im Auto.
-- Er [[Schaltet]] das Licht ein.
-- Es [[Schaltet]] automatisch um.
-- Wir [[Schalten]] den Modus.
-- Ihr [[Schaltet]] das Programm.
-- Sie [[Schalten]] den Computer ein.
-
----
-**Übersetzung**: to switch, to shift, to control
+- Warum [[hat]] er den Motor [[geschaltet]]?
+- Um loszufahren.
 
 ---
+###### [[schalten]] `auf` jA
+- Worauf [[schaltest]] du?
+- [[Auf]] Kanal 5.
 
-Morphems of only infinitive:
-[[Schalt]][[en]]
+- Worauf [[schalten]] wir?
+- [[Auf]] den Notfallmodus.
 
----
-Tags: 
-#Verb
-
----
-
-Präteritum:
-
-- Ich [[schaltete]] den Fernseher auf einen anderen Kanal.
-- Du [[schaltetest]] den Gang im Auto.
-- Er [[schaltete]] das Licht ein.
-- Es [[schaltete]] automatisch um.
-- Wir [[schalteten]] den Modus.
-- Ihr [[schaltetet]] das Programm.
-- Sie [[schalteten]] den Computer ein.
+- Warum [[hat]] er [[auf]] stumm [[geschaltet]]?
+- Um die Stille zu genießen.
 
 ---
+ich, [[schalte]], [[schaltete]], [[schalte]], [[schaltete]], -
+du, [[schaltest]], [[schaltetest]], [[schaltest]], [[schaltetest]], [[schalt]]
+er, [[schaltet]], [[schaltete]], [[schalte]], [[schaltete]], -
+wir, [[schalten]], [[schalteten]], [[schalten]], [[schalteten]], [[schalten]]
+ihr, [[schaltet]], [[schaltetet]], [[schaltet]], [[schaltetet]], [[schaltet]]
+sie, [[schalten]], [[schalteten]], [[schalten]], [[schalteten]], [[schalten]]
 
-Imperativ:
-
-- [[schalte]] den Fernseher um!
-- [[Schalt]] den Gang!
-- [[Schaltet]] das Licht ein!
-- [[Schalten]] wir den Computer ein!
-
----
-
-Konjunktiv I:
-
-- Er sagt, ich [[schalte]] das Licht ein.
-- Sie meint, du [[schaltest]] den Gang im Auto.
-- Er behauptet, er [[schalte]] den Fernseher um.
-- Wir erklären, wir [[Schalten]] den Modus.
-- Ihr sagt, ihr [[Schaltet]] das Programm.
-- Sie sagen, sie [[Schalten]] den Computer ein.
+*Zu + Inf*: zu [[schalten]], *P2*: [[geschaltet]]
+Adjektive: [[schaltend]], [[schaltender]], [[schaltendst]]
 
 ---
-
-Konjunktiv II:
-
-- Wenn ich den Kanal wechseln müsste, [[schaltete]] ich den Fernseher um.
-- Wenn du das Auto fährst, [[schaltetest]] du den Gang.
-- Wenn er hier wäre, [[schaltete]] er das Licht ein.
-- Wenn wir die Option hätten, [[schalteten]] wir den Modus.
-- Wenn ihr mehr wüsstet, [[schaltetet]] ihr das Programm.
-- Wenn sie die Kontrolle hätten, [[schalteten]] sie den Computer ein.
-
-
-
-, [[abschalten]], [[einschalten]]
+[[schaltender]], [[schaltendes]], [[schaltende]], [[schaltenden]], [[schaltendem]], [[schaltenderer]], [[schaltenderes]], [[schaltendere]], [[schaltenderen]], [[schaltenderem]], [[schaltendster]], [[schaltendstes]], [[schaltendste]], [[schaltendsten]], [[schaltendstem]]

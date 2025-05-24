@@ -7,7 +7,7 @@ Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[wä
 
 ---
 Synonyme:
-- [[Worter/W/Wirtschaft]], [[Betrieb]], [[Hausgemeinschaft]], [[Familie]], [[Budget]]
+- [[Wirtschaft]], [[Betrieb]], [[Hausgemeinschaft]], [[Familie]], [[Budget]]
 
 ---
 household, domestic economy

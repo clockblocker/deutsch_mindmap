@@ -5,11 +5,19 @@ haben [[gehandelt]]
 ---
 Die Geschichte [[handelt]] [[von]] Tieren
 
+*[[C1-Hoehen-T1-102-Text#^4|^]]* Lina Sandrock, selbst [[ehemalig]]e [[BWL]]-erin, beschreibt die [[Folge]]n [[wirtschaftlich]] [[ethisch]]en [[Handeln]]s `von` Klein- und Großunternehmen
+
+Die [[Folge]]n des [[Handeln]]s von [[Konsumenten]] werden hier aufgezeigt.
+*(The consequences of the [[actions]] of consumers are shown here)*
+
+In diesem Werk wird ethisches [[Handeln]] in der [[Wirtschaft]] definiert. 
+*(In this work, ethical [[action]] in the economy is defined)*
+
 *[[C1-Hoehen-T1-201-Text#^7|^]]* Obwohl es sich um eine [[Verwechslung]]skomödie [[handelt]], wird ein ernster Blick auf korrupte Rechtssysteme [[gelenkt]]
 
-*[[3 Soll man Geld spenden?#^7|^]]* Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine `gemeinnützige | ehrenamtlich` Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit einsetzt. ^7
+*[[3 Soll man Geld spenden?#^7|^]]* Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine `gemeinnützige | ehrenamtlich` Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit einsetzt
 
-*[[3 Soll man Geld spenden?#^3|^]]* Ob es sich um die Teilung der [[Ernte]] mit Armen, den [[Kirchenzehnten]] oder formalisierte Steuern [[handelt]], der gesellschaftliche Konsens [[besagte]] auf die eine oder andere Weise, dass es für das Leben mit anderen Menschen [[notwendig]] ist, einen Teil des persönlichen [[Wohlstands]] für das [[Gemeinwohl]] auszugeben. ^3
+*[[3 Soll man Geld spenden?#^3|^]]* Ob es sich um die Teilung der [[Ernte]] mit Armen, den [[Kirchenzehnten]] oder formalisierte Steuern [[handelt]], der gesellschaftliche Konsens [[besagte]] auf die eine oder andere Weise, dass es für das Leben mit anderen Menschen [[notwendig]] ist, einen Teil des persönlichen [[Wohlstands]] für das [[Gemeinwohl]] auszugeben
 
 Psychologen meinen, dass 60 Prozent aller Gespräche von Menschen [[handeln]], die nicht anwesend sind. 
 
@@ -44,3 +52,5 @@ Partizip I: [[handelnd]], Partizip II: [[gehandelt]]
 
 [[handeln]] - untrennbar, [[tun]], [[warten]], [[abwarten]], [[nachdenken]], [[überlegen]], [[wirken]], [[zögern]], [[Handlung]], [[verhalten]], [[Vorgehen]], [[begehen]]
 , [[verträumen]], [[vermarkten]], [[Einschreiten]], [[abhandeln]]
+
+#Neuter 

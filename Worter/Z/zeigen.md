@@ -1,8 +1,9 @@
 👀 [[zeigen]], [ˈtsaɪ̯ɡn̩](https://youglish.com/pronounce/zeigen/german) | [[zeigte]], haben [[gezeigt]]
 
 ---
-*[[01-C1-Schreiben-T2-M#^11|^]]* - Eröffnen Sie Ihr Schreiben höflich, [[indem]] Sie Verständnis für [[Sachzwänge]] [[zeigen]] ^11
+*[[01-C1-Schreiben-T2-M#^11|^]]* - Eröffnen Sie Ihr Schreiben höflich, [[indem]] Sie Verständnis für [[Sachzwänge]] [[zeigen]]
 
+*[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem breiten [[Bürgertum]] an [[Wisse]]n [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]]
 
 *[[C1-Hoehen-T2-200-Text#^6|^]]* 12 Untersuchungen [[zeigten]], dass man die Intelligenz von Frauen [[unterschätzt]]
 
@@ -88,4 +89,4 @@ sie, [[zeigen]], [[zeigten]], [[zeigen]], [[zeigten]], [[zeigen]]
 Adjektive: [[zeigend]], [[zeigender]], [[zeigendst]]
 
 ---
-[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]], [[Sachzwang]], [[bewähren]], [[belegen]], [[ausweisen]], [[herausstellen]], [[aufweisen]]
+[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]], [[Sachzwang]], [[bewähren]], [[belegen]], [[ausweisen]], [[herausstellen]], [[aufweisen]], [[aufzeigen]]

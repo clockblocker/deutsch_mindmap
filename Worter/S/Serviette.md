@@ -1,1 +1,1 @@
-, [[Tischtuch]], [[Tüchlein]]
+, [[Tischtuch]], [[Tüchlein]], [[Taschentuch]]

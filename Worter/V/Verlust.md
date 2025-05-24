@@ -31,4 +31,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Verlustes]], [[Verluste]], [[Verlusten]], [[Verlustens]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Gewinnorientierung]]

@@ -36,4 +36,4 @@ D: der [[Hinweis]], den [[hinweisen]]
 , [[Beweis]]
 , [[Richtungsangabe]], [[Vorschlag]]
 
-#Feminin , [[Lösungsvorschlag]], [[Rückmeldung]], [[Punkt]], [[Anregung]], [[hindeuten]]--> [[🗣️ Ingredient-Meinung]] <--, [[Indiz]]
+#Feminin , [[Lösungsvorschlag]], [[Rückmeldung]], [[Punkt]], [[Anregung]], [[hindeuten]]--> [[🗣️ Ingredient-Meinung]] <--, [[Indiz]], [[Universitätsempfehlung]]

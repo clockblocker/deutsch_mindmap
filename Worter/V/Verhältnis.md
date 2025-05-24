@@ -36,4 +36,4 @@ G: des [[Verhältnisses]], der [[Verhältnisse]]
 D: dem [[Verhältnis]], den [[Verhältnissen]]
 , [[Erwerbstätigkeit]]
 
-#Neuter , [[Sichtverhältnis]]
+#Neuter , [[Sichtverhältnis]], [[Spannungsverhältnis]]

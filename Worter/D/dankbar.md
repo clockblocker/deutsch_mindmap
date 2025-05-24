@@ -30,3 +30,4 @@ P: [[dankbaren]], [[dankbareren]], [[dankbarsten]]
 [[Dank]], [[danken]], [[Dankbarkeit]], [[verdanken]], [[bedanken]]
 
 , [[bedanken]]
+, [[dankenswerterweise]]

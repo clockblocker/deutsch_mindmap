@@ -26,4 +26,4 @@ Dative: dem [[Koffer]], den [[Koffern]]
 [[koffern]], [[Kofferraum]], [[Kofferkind]], [[Kofferwort]], [[Schultasche]]
 
 
-#Maskulin 
+#Maskulin , [[Truhe]]

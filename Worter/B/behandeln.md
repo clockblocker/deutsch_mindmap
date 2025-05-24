@@ -7,6 +7,8 @@ haben [[behandelt]]
 ---
 SASCHA: Meine Mutter [[behandelt]] mich auch wie ein Baby 
 
+Im Buch wird die [[fehlen]]de [[Anerkennung]] der [[Naturheilkunde]] [[seitens]] der [[Schulmedizin]] [[behandelt]]
+
 2 Neben der [[Darstellung]] sozialer Probleme werden auch [[juristische]] Fragen [[behandelt]].
 
 Wenn Sie die Situation falsch verstanden haben, kann es sein, dass Sie keinen Punkt richtig [[behandelt]] haben
@@ -47,4 +49,4 @@ Partizip I: [[behandelnd]], Partizip II: [[behandelt]]
 
 [[behandeln]] - [[be]] = [[handeln]], [[ablehnen]], [[Gleichbehandlung]]
 🩺 [[behandeln]], [[Ungleichbehandlung]]
-, [[anhand]], [[auseinandersetzen]], [[thematisieren]], [[Symptombehandlung]], [[befassen]], [[heilen]], [[handhaben]], [[abspeisen]], [[Abhandlung]], [[abhandeln]]
+, [[anhand]], [[auseinandersetzen]], [[thematisieren]], [[Symptombehandlung]], [[befassen]], [[heilen]], [[handhaben]], [[abspeisen]], [[Abhandlung]], [[abhandeln]], [[Behandlungsform]]

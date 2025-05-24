@@ -1,1 +1,1 @@
-, [[Behandlung]], [[Vorbeugung]], [[Symptombehandlung]], [[Praxis]]
+, [[Behandlung]], [[Vorbeugung]], [[Symptombehandlung]], [[Praxis]], [[Injektionstherapie]], [[Heilkunde]]

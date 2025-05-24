@@ -3,6 +3,8 @@
 ---
 [[Neulich]] war Diana im Supermarkt. Ein Mann [[zukommen|kam]] auf sie zu und fragte: „Kannst du mir helfen? Was bedeutet ‚Sahne‘?“ 
 
+*[[C1-Hoehen-T1-101-Text#^18|^]]* Und welche [[Bedeutung]] [[zukommen|kommt]] der [[Heilkunde]] von [[Hildegard]] von [[Bingen]], einer [[Äbtissin]] und [[Mystikerin]] des [[Mittelalters]] zu? 
+
 ---
 Synonyme: [[sich nähern]], [[herankommen]], [[herannahen]], [[sichähern]]
 Antonyme: [[sich entfernen]], [[weggehen]], [[abfahren]]

@@ -1,1 +1,1 @@
-, [[schnitt]], [[Durchschnittsalter]], [[Durchschnittsdeutsche]]
+, [[schnitt]], [[Durchschnittsalter]], [[Durchschnittsdeutsche]], [[überdurchschnittlich]]

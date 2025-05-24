@@ -27,4 +27,4 @@ D: der [[Bestellung]], den [[Bestellungen]]
 , [[Arbeitsauftrag]]
 , [[Abonnement]]
 
-#Feminin 
+#Feminin , [[Kaufentscheidung]]

@@ -74,4 +74,4 @@ Konjunktiv II:
 - Wenn er keine andere Wahl hätte, [[peitschte]] er zur Strafe.
 - Wenn wir stärker wären, [[peitschten]] wir die Segel.
 - Wenn ihr schneller wäret, [[peitschtet]] ihr durch die Wellen.
-- Wenn sie strenger wären, [[peitschten]] sie härter.
+- Wenn sie strenger wären, [[peitschten]] sie härter., [[verprügeln]]

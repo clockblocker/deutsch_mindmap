@@ -26,4 +26,4 @@ fleeting, transient
 Adjektive: [[flüchtig]], [[flüchtiger]], [[flüchtigst]]
 
 ---
-[[flüchtiger]], [[flüchtiges]], [[flüchtige]], [[flüchtigen]], [[flüchtigem]], [[flüchtigerer]], [[flüchtigeres]], [[flüchtigere]], [[flüchtigeren]], [[flüchtigerem]], [[flüchtigster]], [[flüchtigstes]], [[flüchtigste]], [[flüchtigsten]], [[flüchtigstem]], [[oberflächlich]], [[stundenlang]], [[vorschnell]]
+[[flüchtiger]], [[flüchtiges]], [[flüchtige]], [[flüchtigen]], [[flüchtigem]], [[flüchtigerer]], [[flüchtigeres]], [[flüchtigere]], [[flüchtigeren]], [[flüchtigerem]], [[flüchtigster]], [[flüchtigstes]], [[flüchtigste]], [[flüchtigsten]], [[flüchtigstem]], [[oberflächlich]], [[stundenlang]], [[vorschnell]], [[langlebig]]

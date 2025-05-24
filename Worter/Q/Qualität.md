@@ -1,1 +1,1 @@
-, [[Wert]], [[Erfolgsfaktor]], [[Eigenschaft]], [[Qualitätszeit]], [[Niveau]], [[Quantität]], [[Vorzug]], [[Beschaffenheit]], [[Qualitätssteigerung]]
+, [[Wert]], [[Erfolgsfaktor]], [[Eigenschaft]], [[Qualitätszeit]], [[Niveau]], [[Quantität]], [[Vorzug]], [[Beschaffenheit]], [[Qualitätssteigerung]], [[Nährstoffgehalt]]

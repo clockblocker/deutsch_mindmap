@@ -5,6 +5,8 @@ nicht [[unwirtschaftlich]]
 ---
 *[[4 Autofrei#^4|^]]* Die Punkte, die Pro-Autofreiheit-Gruppen normalerweise [[öffentlich]] präsentieren, lassen sich in zwei Teilen [[gliedern]]: "Die Gesundheit der Burger" und "Die [[wirtschaftlichen]] [[Vorteile]] für die Stadt"
 
+*[[C1-Hoehen-T1-102-Text#^4|^]]* Lina Sandrock, selbst [[ehemalig]]e [[BWL]]-erin, beschreibt die [[Folge]]n [[wirtschaftlich]] [[ethisch]]en [[Handeln]]s von Klein- und Großunternehmen
+
 Die [[Ungleichheit]] bei den [[Siegerprämien]] wird [[wirtschaftlich]] begründet
 
 Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
@@ -23,7 +25,7 @@ Womit kann man in der Bundesrepublik Deutschland [[geehrt]] werden, wenn man auf
 economical, economic, financially viable
 
 ---
-[[Worter/W/Wirtschaft]]|[[lich]]
+[[Wirtschaft]]|[[lich]]
 
 ---
 N: [[wirtschaftlich]], [[wirtschaftlicher]], [[wirtschaftlichster]]  
@@ -35,4 +37,4 @@ N: [[wirtschaftliches]], [[wirtschaftlicheres]], [[wirtschaftlichstes]]
 P: [[wirtschaftlichen]], [[wirtschaftlicheren]], [[wirtschaftlichsten]]  
 
 ---
-[[Worter/W/Wirtschaft]], [[wirtschaften]], [[Wirtschaftlichkeit]], [[Wirtschaftswissenschaft]], [[Wirtschaftsraum]], [[kostengünstig]], [[Wirtschaftsform]], [[Wirtschaftsgemeinschaft]], [[unternehmerisch]], [[geldlich]], [[effizient]], [[zeitsparend]], [[Geldwert]]
+[[Wirtschaft]], [[wirtschaften]], [[Wirtschaftlichkeit]], [[Wirtschaftswissenschaft]], [[Wirtschaftsraum]], [[kostengünstig]], [[Wirtschaftsform]], [[Wirtschaftsgemeinschaft]], [[unternehmerisch]], [[geldlich]], [[effizient]], [[zeitsparend]], [[Geldwert]], [[marktwirtschaftlich]]

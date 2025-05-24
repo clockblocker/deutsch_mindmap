@@ -3,6 +3,8 @@
 ---
 Da es eine [[Vielzahl]] von Ethiken gibt, durch deren Prisma ein Mensch die Realität [[betrachten]] kann, wird im Rahmen dieser [[Überlegung]] [[vorgeschlagen]], den [[gesellschaftlichen]] Konsens als Quelle der Ethik zu nehmen.
 
+*[[C1-Hoehen-T1-102-Text#^11|^]]* "Wirtschaftsethik" [[erläutert]] es [[Normalsterbliche]]n nämlich [[dankenswerterweise]] einmal und zwar als: [[Überbrückung]] des [[Spannungsverhältnis]]ses der [[marktwirtschaftlich]]en [[Gewinnorientierung]] und [[gesellschaftlich]]en [[Moralvorstellung]]en und [[einführen|führt]] auch weitere allgemeine [[Begriff]]e der Wirtschaftsethik auf eine einfache und verständliche Art und [[Weise]] ein
+
 *[[C1-Hoehen-T2-201-Text#^34|^]]* Der eine ist über Experimente erreichbar, der andere über Abstraktion und wieder ein anderer über reale [[gesellschaftlich]]e [[Fragestellung]]en, zum Beispiel der [[Vor­ausberechnung]] des Klimas. ^34
 
 
@@ -33,4 +35,4 @@ social, societal
 Adjektive: [[gesellschaftlich]], [[gesellschaftlicher]], [[gesellschaftlichst]]
 
 ---
-[[gesellschaftlicher]], [[gesellschaftliches]], [[gesellschaftliche]], [[gesellschaftlichen]], [[gesellschaftlichem]], [[gesellschaftlicherer]], [[gesellschaftlicheres]], [[gesellschaftlichere]], [[gesellschaftlicheren]], [[gesellschaftlicherem]], [[gesellschaftlichster]], [[gesellschaftlichstes]], [[gesellschaftlichste]], [[gesellschaftlichsten]], [[gesellschaftlichstem]]
+[[gesellschaftlicher]], [[gesellschaftliches]], [[gesellschaftliche]], [[gesellschaftlichen]], [[gesellschaftlichem]], [[gesellschaftlicherer]], [[gesellschaftlicheres]], [[gesellschaftlichere]], [[gesellschaftlicheren]], [[gesellschaftlicherem]], [[gesellschaftlichster]], [[gesellschaftlichstes]], [[gesellschaftlichste]], [[gesellschaftlichsten]], [[gesellschaftlichstem]], [[ethnisch]]

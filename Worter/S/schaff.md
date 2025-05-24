@@ -1,2 +1,2 @@
 , [[schaffen]], [[abschaffen]]
-, [[verschaffen]], [[beschaffen]], [[Beschaffenheit]]
+, [[verschaffen]], [[beschaffen]], [[Beschaffenheit]], [[Abschaffung]]

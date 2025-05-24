@@ -32,4 +32,4 @@ PI: [[angehörend]], PII: [[angehört]], Zu+inf: [[anzugehören]]
 [[angehören]] - [[an]] = [[gehören]] / to belong to, to be a member of
 
 ---
-[[Zugehörigkeit]], [[Mitgliedschaft]], [[Angehörige]], [[Zugang]], [[Verbundenheit]]
+[[Zugehörigkeit]], [[Mitgliedschaft]], [[Angehörige]], [[Zugang]], [[Verbundenheit]], [[hingehören]]

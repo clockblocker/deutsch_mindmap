@@ -26,4 +26,4 @@ to heal
 Adjektive: [[heilend]], [[heilender]], [[heilendst]]
 
 ---
-[[heilender]], [[heilendes]], [[heilende]], [[heilenden]], [[heilendem]], [[heilenderer]], [[heilenderes]], [[heilendere]], [[heilenderen]], [[heilenderem]], [[heilendster]], [[heilendstes]], [[heilendste]], [[heilendsten]], [[heilendstem]], [[aufschlagen]], [[pathologisieren]]
+[[heilender]], [[heilendes]], [[heilende]], [[heilenden]], [[heilendem]], [[heilenderer]], [[heilenderes]], [[heilendere]], [[heilenderen]], [[heilenderem]], [[heilendster]], [[heilendstes]], [[heilendste]], [[heilendsten]], [[heilendstem]], [[aufschlagen]], [[pathologisieren]], [[Heilkunde]]

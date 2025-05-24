@@ -15,7 +15,7 @@ Zunächst möchte ich erst einmal feststellen, dass das Arbeiten von zu Hause au
 
 32. Wer [[wählt]] in Deutschland die [[Abgeordneten]] zum Bundestag? (89%)
 	- [ ] das [[Militär]]
-	- [ ] die [[Worter/W/Wirtschaft]]
+	- [ ] die [[Wirtschaft]]
 	- [x] das [[wahlberechtigte]] Volk
 	- [ ] die [[Verwaltung]]
 

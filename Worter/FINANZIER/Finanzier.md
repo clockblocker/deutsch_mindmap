@@ -1,1 +1,1 @@
-, [[Finanzierbarkeit]]
+, [[Finanzierbarkeit]], [[Immobilienfinanzierung]]

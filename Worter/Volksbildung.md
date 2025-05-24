@@ -1,4 +1,4 @@
-🟢 📚 die [[Volksbildung]], [ˈfɔlks.bɪlˌdʊŋ]
+📚 die [[Volksbildung]], [ˈfɔlks.bɪlˌdʊŋ]
 die [[Volksbildungen]]
 
 ---
@@ -23,3 +23,6 @@ D: der [[Volksbildung]], den [[Volksbildungen]]
 
 ---
 [[bilden]], [[Volk]], [[Bildung]], [[volksbildend]], [[Volkshochschule]]
+
+
+#Feminin 

@@ -1,1 +1,1 @@
-[[schauen]]  , [[Zuschauer]], [[anschauliche]], [[anschauen]], [[Vorschau]], [[messe]], [[hinschauen]], [[umschauen]]
+[[schauen]]  , [[Zuschauer]], [[anschauliche]], [[anschauen]], [[Vorschau]], [[messe]], [[hinschauen]], [[umschauen]], [[Weltanschauung]]

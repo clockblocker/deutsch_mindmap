@@ -1,1 +1,1 @@
-, [[Aufnahme]]
+, [[Aufnahme]], [[aufzeigen]]

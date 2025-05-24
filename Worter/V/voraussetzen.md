@@ -2,7 +2,7 @@
 ✅ [[voraussetzen]], [fɛɐ̯ˈʁaʊ̯sˌzɛt͡sn̩](https://youglish.com/pronounce/voraussetzen/german) → [[setzte voraus]] → [[vorausgesetzt]]
 
 ---
-*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrechte]] _als_ [[richtungsgebende]] _Linie_ [[vorausgesetzt]] _werden, um strafbare von legalen_ [[Äußerungen]] _und_ [[taten]] _zu_ [[unterscheiden]]
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrecht]]e _als_ [[richtungsgebend]]e _Linie_ [[voraussetzen|vorausgesetzt]] _werden, um [[strafbar]]e von [[legal]]en_ [[Äußerung]]en _und_ [[Tat]]en _zu_ [[unterscheiden]]
 
 *[[C1-Hoehen-T2-200-Text#^3|^]]* 9 Frau Avar hat [[herausgefunden]], dass eine hohe Intelligenz [[verschiedene]] Arten von Intelligenz [[voraussetzt]]
 
@@ -50,3 +50,5 @@ Adjektive: [[voraussetzend]], [[voraussetzender]], [[voraussetzendst]]
 
 ---
 [[voraussetzender]], [[voraussetzendes]], [[voraussetzende]], [[voraussetzenden]], [[voraussetzendem]], [[voraussetzenderer]], [[voraussetzenderes]], [[voraussetzendere]], [[voraussetzenderen]], [[voraussetzenderem]], [[voraussetzendster]], [[voraussetzendstes]], [[voraussetzendste]], [[voraussetzendsten]], [[voraussetzendstem]], [[erfordern]], [[bedingen]]
+
+, [[Voraussetzung]], [[Konnektivpartikeln]], [[Menschenrecht]]

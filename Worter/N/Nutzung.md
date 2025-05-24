@@ -34,4 +34,4 @@ Einzigartige mögliche Formen: [[Nutzung]], [[Nutzungen]]
 
 , [[nutzlos]], [[Nutzungsdaten]], [[Handhabung]], [[Bedienung]]
 
-, [[Auslastung]], [[Verwertung]], [[Konsum]]
+, [[Auslastung]], [[Verwertung]], [[Konsum]], [[Bewirtschaftung]]

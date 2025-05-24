@@ -30,4 +30,4 @@ D: der [[Gemeinschaft]], den [[Gemeinschaften]]
 
 , [[Gesamtgesellschaft]], [[Zusammenarbeit]], [[Gemeinschaftstisch]], [[Staat]], [[Forum]], [[Bevölkerungsgruppe]], [[verband]], [[Sozialsystem]]
 
-#Feminin 
+#Feminin , [[Allgemeinheit]]

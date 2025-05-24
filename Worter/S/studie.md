@@ -34,4 +34,4 @@ A: die [[Studie]], die [[Studien]]
 G: der [[Studie]], der [[Studien]]  
 D: der [[Studie]], den [[Studien]]
 
-#Feminin , [[Abhandlung]], [[Auswertung]], [[Meinungsumfrage]]
+#Feminin , [[Abhandlung]], [[Auswertung]], [[Meinungsumfrage]], [[Zufriedenheitsumfrage]]

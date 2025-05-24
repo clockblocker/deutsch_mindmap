@@ -6,7 +6,7 @@
 *[[Text mit Reflexivpronomen#^6|^]]* Nicht jeder [[hilfsbereite]] Nachbar [[eignet]] sich für diesen Freundschaftsdienst, wenn er sich mit der Pflege von Katzen nicht [[auskennt]]. ^6
 
 
-*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^5|^]]* _Neben den_ [[Inhalten]] _der Arbeit und der Gesetze müssen diese Angestellten auch höflich,_ [[hilfsbereit]] _und vor allem_ [[verständnisvoll]] _im_ [[Umgang]] _mit Menschen und ihren_ [[Anliegen]] _sein. ^5
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^5|^]]* _Neben den_ [[Inhalten]] _der Arbeit und der Gesetze müssen diese Angestellten auch höflich,_ [[hilfsbereit]] _und vor allem_ [[verständnisvoll]] _im_ [[Umgang]] _mit Menschen und ihren_ [[anliegen]] _sein. ^5
 
 
 ---

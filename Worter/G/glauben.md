@@ -42,4 +42,4 @@ Morpheme: [[Glaub]][[en]]
 Partizip I: [[glaubend]], Partizip II: [[geglaubt]]
 
 , [[befürchten]], [[ungläubig]], [[Glaubensfreiheit]], [[s1 e1]], [[zweifelt]]
-, [[vertrauen]], [[hinterfragen]]
+, [[vertrauen]], [[hinterfragen]], [[Weltanschauung]]

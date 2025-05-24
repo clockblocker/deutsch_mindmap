@@ -31,4 +31,4 @@ A: den [[Mangel]], die [[Mängel]]
 G: des [[Mangels]], der [[Mängel]]
 D: dem [[Mangel]], den [[Mängeln]]
 
-#Maskulin , [[Platzproblem]], [[Personalmangel]], [[Engpass]], [[Ressource]], [[Bestand]], [[Übergangebot]], [[Beschaffenheit]], [[Holzreserve]], [[Bedürftigkeit]], [[Fehlbetrag]]
+#Maskulin , [[Platzproblem]], [[Personalmangel]], [[Engpass]], [[Ressource]], [[Bestand]], [[Übergangebot]], [[Beschaffenheit]], [[Holzreserve]], [[Bedürftigkeit]], [[Fehlbetrag]], [[Nährstoffgehalt]]

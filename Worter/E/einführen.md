@@ -5,6 +5,8 @@
 ---
 ❤️ [[Regulierung]] [[einführen]]                              *(Introduce)*
 
+*[[C1-Hoehen-T1-102-Text#^11|^]]* "Wirtschaftsethik" [[erläutert]] es [[Normalsterbliche]]n nämlich [[dankenswerterweise]] einmal und zwar als: [[Überbrückung]] des [[Spannungsverhältnis]]ses der [[marktwirtschaftlich]]en [[Gewinnorientierung]] und [[gesellschaftlich]]en [[Moralvorstellung]]en und [[einführen|führt]] auch weitere allgemeine [[Begriff]]e der Wirtschaftsethik auf eine einfache und verständliche Art und [[Weise]] ein
+
 Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
 *[[07-C1-Schreiben-T2-M#^7|^]]* wie Sie wissen, wurde vor Kurzem eine neue Software zur [[Zeiterfassung]] unserer [[Produktionsabläufe]] [[eingeführt]]. ^7

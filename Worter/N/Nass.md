@@ -27,4 +27,4 @@ N: [[nasses]], [[nasseres]], [[nassestes]]
 P: [[nassen]], [[nasseren]], [[nassesten]]  
 
 ---
-[[nässen]], [[Nässe]], [[benässen]], [[nasswerden]], [[nässer]], [[Regen]], [[dürr]]
+[[nässen]], [[Nässe]], [[benässen]], [[nasswerden]], [[nässer]], [[Regen]], [[dürr]], [[nassmachen]]

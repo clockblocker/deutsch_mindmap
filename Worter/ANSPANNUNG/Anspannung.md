@@ -1,1 +1,1 @@
-, [[Arbeitsdruck]], [[Überforderung]], [[Stressabbau]]
+, [[Arbeitsdruck]], [[Überforderung]], [[Stressabbau]], [[Spannung]]

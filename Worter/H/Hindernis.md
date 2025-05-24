@@ -4,7 +4,7 @@
 die [[Hindernisse]]
 
 ---
-- Erläutern Sie [[Hindernisse]] beim [[Zugang]] zu qualitativer [[frühkindlicher]] Bildung.
+Erläutern Sie [[Hindernis]]se beim [[Zugang]] zu qualitativer [[frühkindlich]]er Bildung.
 
 ---
 = [[Schwierigkeit]], [[Problem]], [[Hürde]], [[Herausforderung]]

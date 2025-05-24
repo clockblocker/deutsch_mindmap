@@ -2,7 +2,9 @@
 die [[Begriffe]]
 
 ---
-[[Schönheit]] ist ein [[relativer]] [[Begriff]].
+[[Schönheit]] ist ein [[relativer]] [[Begriff]]
+
+*[[C1-Hoehen-T1-102-Text#^11|^]]* "Wirtschaftsethik" [[erläutert]] es [[Normalsterbliche]]n nämlich [[dankenswerterweise]] einmal und zwar als: [[Überbrückung]] des [[Spannungsverhältnis]]ses der [[marktwirtschaftlich]]en [[Gewinnorientierung]] und [[gesellschaftlich]]en [[Moralvorstellung]]en und [[einführen|führt]] auch weitere allgemeine [[Begriff]]e der Wirtschaftsethik auf eine einfache und verständliche Art und [[Weise]] ein
 
 *[[C1-Hoehen-T2-202-Text#^5|^]]* Ich möchte zunächst einmal [[festhalten]], dass Politikverdrossenheit ein [[umgangssprachlicher]] [[Begriff]] ist
 

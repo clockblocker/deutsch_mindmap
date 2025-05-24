@@ -1,1 +1,1 @@
-, [[Worter/W/Wirtschaft]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]], [[Landwirtschaft]], [[Forstwirtschaft]]
+, [[Wirtschaft]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]], [[Landwirtschaft]], [[Forstwirtschaft]], [[marktwirtschaftlich]]

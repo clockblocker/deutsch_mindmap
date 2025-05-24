@@ -25,4 +25,6 @@ N: die [[Befragung]], die [[Befragungen]]
 A: die [[Befragung]], die [[Befragungen]]
 G: der [[Befragung]], der [[Befragungen]]
 D: der [[Befragung]], den [[Befragungen]]
-, [[Studie]]
+, [[Studie]], [[Zufriedenheitsumfrage]]
+
+#Feminin 

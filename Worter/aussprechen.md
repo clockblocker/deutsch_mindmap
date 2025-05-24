@@ -3,6 +3,10 @@
 ---
 Ich möchte dir meinen tiefen Dank [[aussprechen]].
 
+*[[C1-Hoehen-T1-102-Text#^13|^]]* Auch in meiner dritten [[Empfehlung]] geht es um Wirtschaft: Kim Leuters [[aussprechen|spricht]] `sich` in seinem neuen Werk "Fit für Finanzen" für das [[Schulfach]] "[[Finanz]]en" aus, das seiner Meinung nach ein Muss in jeder [[Schulform]] sei
+
+*[[C1-Hoehen-T1-102-Text#^9|^]]* In "Wirtschaftsethik leicht gemacht" vergleicht der [[künftig]]e [[Wirtschaftswissenschaftler]] [[verschieden]]e [[Universität]]en, an denen er [[bspw.]] [[Zufriedenheitsumfrage]]n mit den [[Studierend]]en [[durchgeführt]] hat und [[aussprechen|spricht]] auf dieser Basis auch Studien- und [[Universitätsempfehlung]]en aus
+
 *[[C1-Hoehen-T1-202-Text#^22|^]]* Interessant war für mich dabei zu [[erfahren]], dass sich schon römische Kaiser für [[Nachhaltigkeit]] [[ausgesprochen]] hatten
 
 [[2 ADHD.md#^11|^]] Mir fällt es schwer [[abzuwarten]], bis andere [[ausgesprochen]] haben. Ich falle anderen ins Wort

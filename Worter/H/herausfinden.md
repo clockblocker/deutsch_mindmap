@@ -2,8 +2,9 @@
 🕵️ [[herausfinden]], [hɛˈʁaʊ̯sˌfɪndn̩] | [[fand heraus]], haben [[herausgefunden]]
 
 ---
-[[2 Unter Druck nach oben#^6|^]] [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie? ^6
+*[[2 Unter Druck nach oben#^6|^]]* [[Dennoch]] müssen die Unternehmen aus einer [[Vielzahl]] des sich [[anbietenden]] [[Führungskräfte]]-[[Nachwuchses]] die Richtigen [[herausfinden]]. Aber wie?
 
+*[[C1-Hoehen-T1-102-Text#^17|^]]* Im [[Anschluss]] erklären [[namhafte]] Wissenschaftler:innen dann sogar noch, wie grüne und ethische Fonds funktionieren und wie wir [[herausfinden]] können, ob eine potenzielle [[Wertanlage]] durch Kinderarbeit oder andere ethisch nicht [[vertretbare]] Konzepte gestützt wird
 
 *[[C1-Hoehen-T2-200-Text#^3|^]]* 9 Frau Avar hat [[herausgefunden]], dass eine hohe Intelligenz [[verschiedene]] Arten von Intelligenz [[voraussetzt]]
 
@@ -55,4 +56,4 @@ sie, [[finden heraus]], [[fanden heraus]], [[finden heraus]], [[fanden heraus]],
 Adjektive: [[herausfindend]], [[herausfindender]], [[herausfindendst]]
 
 ---
-[[herausfindender]], [[herausfindendes]], [[herausfindende]], [[herausfindenden]], [[herausfindendem]], [[herausfindenderer]], [[herausfindenderes]], [[herausfindendere]], [[herausfindenderen]], [[herausfindenderem]], [[herausfindendster]], [[herausfindendstes]], [[herausfindendste]], [[herausfindendsten]], [[herausfindendstem]]
+[[herausfindender]], [[herausfindendes]], [[herausfindende]], [[herausfindenden]], [[herausfindendem]], [[herausfindenderer]], [[herausfindenderes]], [[herausfindendere]], [[herausfindenderen]], [[herausfindenderem]], [[herausfindendster]], [[herausfindendstes]], [[herausfindendste]], [[herausfindendsten]], [[herausfindendstem]], [[eruieren]]

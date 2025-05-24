@@ -2,9 +2,11 @@ das [[Sprichwort]], [ˈʃpʁɪçvɔʁt]
 die [[Sprichwörter]]
 
 ---
-Das sagt auch ein deutsches [[Sprichwort]].
+Das sagt auch ein deutsches [[Sprichwort]]
 
-Woher kommt die [[Liebe]], wohin geht die Liebe? Das ist ein großes [[Geheimnis]]. Wenn man aber einem [[Sprichwort]] glaubt, dann hat die Liebe ganz viel mit einem Organ zu tun, das wir normalerweise nicht romantisch finden.
+Woher kommt die [[Liebe]], wohin geht die Liebe? Das ist ein großes [[Geheimnis]]. Wenn man aber einem [[Sprichwort]] glaubt, dann hat die Liebe ganz viel mit einem Organ zu tun, das wir normalerweise nicht romantisch finden
+
+*[[C1-Hoehen-T1-100-Text#^26|^]]* Es gibt ein gutes russisches [[Sprichwort]] dazu
 
 ---
 Synonyme:
@@ -14,7 +16,7 @@ Synonyme:
 proverb, saying
 
 ---
-[[Sprech]][[Worter/W/Wort]]
+[[Sprech]], [[Worter/W/Wort]]
 
 ---
 Case: Singular, Plural  
@@ -24,5 +26,6 @@ Genitive: des [[Sprichworts]], der [[Sprichwörter]]
 Dative: dem [[Sprichwort]], den [[Sprichwörtern]]  
 
 ---
-, [[Redensart]]
-[[sprichwörtlich]], [[Worter/S/sprechen]], [[Geheimnis]], [[redensartlich]]
+[[Redensart]], [[sprichwörtlich]], [[Worter/S/sprechen]], [[Geheimnis]], [[redensartlich]]
+
+#Neuter 

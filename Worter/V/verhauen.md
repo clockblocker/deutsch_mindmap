@@ -1,1 +1,1 @@
-, [[prügeln]]
+, [[prügeln]], [[verprügeln]]

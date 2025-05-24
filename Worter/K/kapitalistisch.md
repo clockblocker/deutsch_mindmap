@@ -1,1 +1,1 @@
-, [[geldlich]], [[Geldwert]], [[Geldwert]]
+, [[geldlich]], [[Geldwert]], [[Geldwert]], [[marktwirtschaftlich]]

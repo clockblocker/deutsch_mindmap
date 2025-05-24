@@ -42,4 +42,4 @@ G: des [[Ablaufes]], der [[Abläufe]]
 D: dem [[Ablauf]], den [[Abläufen]]
 
 
-#Maskulin , [[Vorgehensweise]], [[Programm]], [[Durchlauf]], [[Funktionsweise]], [[Zyklus]], [[Herstellungsprozess]]
+#Maskulin , [[Vorgehensweise]], [[Programm]], [[Durchlauf]], [[Funktionsweise]], [[Zyklus]], [[Herstellungsprozess]], [[Wirkungsweise]]

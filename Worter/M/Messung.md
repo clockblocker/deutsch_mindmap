@@ -29,4 +29,4 @@ G: der [[Messung]], der [[Messungen]]
 D: der [[Messung]], den [[Messungen]]
 
 
-#Feminin 
+#Feminin , [[Widerstandsmessung]]

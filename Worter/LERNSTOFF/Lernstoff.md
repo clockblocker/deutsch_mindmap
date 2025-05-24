@@ -1,1 +1,1 @@
-, [[Lernende]], [[Lehrinhalt]], [[Lernniveau]]
+, [[Lernende]], [[Lehrinhalt]], [[Lernniveau]], [[Schulfach]]

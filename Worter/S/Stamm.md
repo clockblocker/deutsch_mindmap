@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Stammes]], [[Stamm]], [[Stämme]], [[Stämmen]]
 
 ---
 #Substantiv #Maskulin 
-, [[Holz]], [[fordern]], [[s1 e1]], [[entstammen]], [[stammen]]
+, [[Holz]], [[fordern]], [[s1 e1]], [[entstammen]], [[stammen]], [[Naturvolk]]

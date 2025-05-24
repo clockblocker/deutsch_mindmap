@@ -1,1 +1,1 @@
-👋 [[zeigen]]
+👋 [[zeigen]], [[aufzeigen]]

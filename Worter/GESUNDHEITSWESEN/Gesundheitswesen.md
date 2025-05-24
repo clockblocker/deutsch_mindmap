@@ -27,4 +27,4 @@ A: das [[Gesundheitswesen]], die [[Gesundheitswesen]]
 G: des [[Gesundheitswesens]], der [[Gesundheitswesen]]
 D: dem [[Gesundheitswesen]], den [[Gesundheitswesen]]
 
-#Neuter 
+#Neuter , [[Heilkunde]]

@@ -1,1 +1,1 @@
-, [[Leitung]], [[mitteln]], [[Behördenleiter]], [[Verwaltung]], [[Betriebsrat]], [[Manager]], [[Geschäftsführung]], [[Gebäudeverwaltung]], [[Projektmanager]], [[Führungsstil]]
+, [[Leitung]], [[mitteln]], [[Behördenleiter]], [[Verwaltung]], [[Betriebsrat]], [[Manager]], [[Geschäftsführung]], [[Gebäudeverwaltung]], [[Projektmanager]], [[Führungsstil]], [[BWL]]

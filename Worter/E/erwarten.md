@@ -41,4 +41,4 @@ Zu+infinifive: [[zu erwarten]]
 
 
 
-, [[bedürfen]], [[erwartungsgemäß]], [[bevorstehen]], [[vorausahnen]], [[verlangen]]
+, [[bedürfen]], [[erwartungsgemäß]], [[bevorstehen]], [[vorausahnen]], [[verlangen]], [[Lebenserwartung]]

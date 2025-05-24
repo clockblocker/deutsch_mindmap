@@ -32,4 +32,4 @@ A: die [[Nachlässigkeit]], die [[Nachlässigkeiten]]
 G: der [[Nachlässigkeit]], der [[Nachlässigkeiten]]  
 D: der [[Nachlässigkeit]], den [[Nachlässigkeiten]]
 
-#Feminin 
+#Feminin , [[Lebenswandel]]

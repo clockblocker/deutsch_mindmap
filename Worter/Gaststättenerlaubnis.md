@@ -27,4 +27,4 @@ G: des [[Gaststättenerlaubnisses]], der [[Gaststättenerlaubnisse]]
 D: dem [[Gaststättenerlaubnis]], den [[Gaststättenerlaubnissen]]  
 
 ---
-[[Gaststätte]], [[erlauben]], [[Worter/W/Wirtschaft]], [[Lizenz]], [[Genehmigung]], [[verbot]]
+[[Gaststätte]], [[erlauben]], [[Wirtschaft]], [[Lizenz]], [[Genehmigung]], [[verbot]]

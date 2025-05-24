@@ -26,3 +26,5 @@ N: die [[Gültigkeit]], die [[Gültigkeiten]]
 A: die [[Gültigkeit]], die [[Gültigkeiten]]
 G: der [[Gültigkeit]], der [[Gültigkeiten]]
 D: der [[Gültigkeit]], den [[Gültigkeiten]]
+
+#Feminin

@@ -1,1 +1,1 @@
-, [[Bank]], [[Wohnungsmarkt]]
+, [[Bank]], [[Wohnungsmarkt]], [[Börsenhai]]

@@ -1,1 +1,1 @@
-, [[wirtschaftlich]], [[Worter/W/Wirtschaft]], [[Wirtschaftsform]], [[Marktwirtschaft]], [[Landwirtschaft]]
+, [[wirtschaftlich]], [[Wirtschaft]], [[Wirtschaftsform]], [[Marktwirtschaft]], [[Landwirtschaft]]

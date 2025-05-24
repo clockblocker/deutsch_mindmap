@@ -6,7 +6,6 @@ Der Manager des Schauspielers kam herein, um [[Bescheid]] zu sagen, dass Jenny n
 
 *[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] wissen. 
 
-
 280. Wenn Sie sich in Deutschland gegen einen falschen [[Steuerbescheid]] [[wehren]] wollen, müssen Sie … (93%)
 	- [ ] nichts machen.
 	- [ ] den [[Bescheid]] [[wegwerfen]].

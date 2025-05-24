@@ -50,4 +50,4 @@ Plural: [[besondere]], [[besondere]], [[besondere]]
 [[Besonderheit]], [[besondersartig]], [[besonderlich]]\
 
 , [[eignen]], [[geeignet]], [[hervorragend]]
-, [[allgemein]], [[s1 e1]], [[Texte/Misc/Anki]], [[üblich]], [[anstrengen]], [[einmalig]], [[banal]], [[insbesondere]], [[Konnektivpartikeln]], [[generell]], [[ausdrücklich]], [[zumal]], [[ausgerechnet]]
+, [[allgemein]], [[s1 e1]], [[Texte/Misc/Anki]], [[üblich]], [[anstrengen]], [[einmalig]], [[banal]], [[insbesondere]], [[Konnektivpartikeln]], [[generell]], [[ausdrücklich]], [[zumal]], [[ausgerechnet]], [[überdurchschnittlich]]

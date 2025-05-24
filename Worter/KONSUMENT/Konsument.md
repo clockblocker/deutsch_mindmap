@@ -2,7 +2,10 @@
 die [[Konsumenten]]
 
 ---
-2 Die Sendung [[sensibilisiert]] die [[Konsumenten]] `in` [[Bezug]] `auf` [[Billigprodukt]]e.
+Die Sendung [[sensibilisiert]] die [[Konsument]]en `in` [[Bezug]] `auf` [[Billigprodukt]]e
+
+Die [[Folge]]n des [[Handeln]]s von [[Konsument]]en werden hier [[aufgezeigt]]
+
 
 ---
 = [[Verbraucher]], [[Käufer]], [[Abnehmer]]

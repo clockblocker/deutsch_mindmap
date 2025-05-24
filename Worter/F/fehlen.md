@@ -1,7 +1,13 @@
 😟 [[fehlen]], [ˈfeːlən](https://youglish.com/pronounce/fehlen/german) | [[fehlte]], haben [[gefehlt]]
 
 ---
-Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind.
+Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind
+
+*[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem breiten [[Bürgertum]] an [[Wissen]] [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]]
+
+*[[C1-Hoehen-T1-101-Text#^15|^]]* Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en Wissen über [[Heilkunde]] [[hierzulande]] und international wuchs
+
+Im Buch wird die [[fehlen]]de [[Anerkennung]] der [[Naturheilkunde]] seitens der Schulmedizin behandelt.  
 
 *[[C1-Hoehen-T1-201-Text#^16|^]]* Doch weit [[gefehlt]]: Nachdem Max in Wien ankommt, [[schwenkt]] die [[Regisseurin]] ins [[Tragische]]
 
@@ -14,7 +20,7 @@ a) Er kann später [[Belastung]]en schwieriger [[handhaben]].
 *[[C1-Lesen-T2-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15
 
 
-•	Arbeitsmaterialien [[fehlen]] oder sind [[veraltet]]
+rbeitsmaterialien [[fehlen]] oder sind [[veraltet]]
 
 *[[03-C1-Schreiben-T2-M#^12|^]]* Dieser Tisch [[fehlt]] uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit. ^12
 

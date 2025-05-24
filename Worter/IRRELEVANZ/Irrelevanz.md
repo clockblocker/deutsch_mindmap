@@ -1,1 +1,1 @@
-, [[Inhaltspunkt]], [[Hinsicht]], [[Stellenwert]]
+, [[Inhaltspunkt]], [[Hinsicht]], [[Stellenwert]], [[Bedeutung]], [[Relevanz]]

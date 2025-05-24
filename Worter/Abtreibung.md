@@ -1,3 +1,30 @@
+🤰 🔴 die [[Abtreibung]], [ˈapˌtʁaɪ̯bʊŋ](https://youglish.com/pronounce/Abtreibung/german)
+
+---
 Die [[Abschaffung]] der [[Abtreibung]]  
-[[Je mehr]] ich an Tag arbeite, [[desto]] müder bin ich ab Abend 
-[[Je mehr]] ich an Tag arbeite, [[um so]] müder bin ich ab Abend 
+
+
+---
+= [[Schwangerschaftsabbruch]]
+≈ [[Abort]], [[Fehlgeburt]]
+≠ [[Geburt]], [[Entbindung]]
+
+---
+abortion  
+аборт
+
+---
+[[abtreiben]], [[Abtreibungsbefürworter]], [[Abtreibungsgegner]]
+
+---
+[[ab]]|[[treib]]|[[ung]]
+[[Ab]] + [[Treibung]]
+
+
+---
+N: die [[Abtreibung]], die [[Abtreibungen]]
+A: die [[Abtreibung]], die [[Abtreibungen]]
+G: der [[Abtreibung]], der [[Abtreibungen]]
+D: der [[Abtreibung]], den [[Abtreibungen]]
+
+#Feminin 

@@ -1,3 +1,3 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
 
-, [[Gefühlsausbruch]], [[Rückmeldung]], [[reagieren]], [[Verhaltensweise]]
+, [[Gefühlsausbruch]], [[Rückmeldung]], [[reagieren]], [[Verhaltensweise]], [[Stoffwechselprozess]]

@@ -1,1 +1,1 @@
-, [[heilen]], [[Heilung]]
+, [[heilen]], [[Heilung]], [[Heilkunde]]

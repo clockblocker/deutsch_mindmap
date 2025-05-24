@@ -1,2 +1,2 @@
 , [[bekannt]], [[berühmt]], [[verwandt]], [[kund]], [[kennen]], [[fremd]], [[erfahren]], [[Unbekannten]], [[sogenannten]], [[auswendig]]
-, [[fern]], [[Verwandte]], [[heimisch]]
+, [[fern]], [[Verwandte]], [[heimisch]], [[Hildegard]], [[Bingen]], [[Zielgruppe]], [[Truhe]], [[Einband]], [[Auflage]], [[BWL]], [[Weltanschauung]], [[Wirtschaftswissenschaftler]], [[beispielsweise]], [[Zufriedenheitsumfrage]], [[Universitätsempfehlung]], [[Schulform]], [[Schulfach]], [[Jahrtausendwende]], [[Immobilienfinanzierung]], [[Einmaleins]], [[namhaft]], [[Wertanlage]]

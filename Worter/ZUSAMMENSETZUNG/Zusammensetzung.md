@@ -1,1 +1,1 @@
-, [[Zusammenbau]], [[zusammensetzen]], [[Gemisch]], [[Mischung]], [[Vermengung]], [[Aufbau]]
+, [[Zusammenbau]], [[zusammensetzen]], [[Gemisch]], [[Mischung]], [[Vermengung]], [[Aufbau]], [[Nährstoffgehalt]]

@@ -1,1 +1,1 @@
-, [[Arzenei]], [[heilen]], [[Heilung]], [[Balsam]]
+, [[Arzenei]], [[heilen]], [[Heilung]], [[Balsam]], [[Gift]], [[Heilkunde]]

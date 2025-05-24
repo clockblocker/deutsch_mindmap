@@ -37,4 +37,4 @@ D: der [[Beziehung]], den [[Worter/B/Beziehungen]]
 , [[Interaktion]], [[Kommunikation]], [[Anschluss]], [[Unabhängigkeit]]
 
 
-#Feminin , [[Zusammenspiel]], [[Wechselwirkung]], [[Partnerwahl]]
+#Feminin , [[Zusammenspiel]], [[Wechselwirkung]], [[Partnerwahl]], [[Spannungsverhältnis]]

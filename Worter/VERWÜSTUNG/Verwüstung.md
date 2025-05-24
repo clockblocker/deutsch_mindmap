@@ -1,1 +1,1 @@
-, [[Städteplanung]]
+, [[Städteplanung]], [[Bewirtschaftung]]

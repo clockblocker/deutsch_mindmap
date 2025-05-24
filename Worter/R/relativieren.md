@@ -1,1 +1,1 @@
-, [[relativ]], [[relativierend]]
+, [[relativ]], [[relativierend]], [[Relevanz]]

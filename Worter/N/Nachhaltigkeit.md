@@ -31,4 +31,4 @@ G: der [[Nachhaltigkeit]], der [[Nachhaltigkeiten]]
 D: der [[Nachhaltigkeit]], den [[Nachhaltigkeiten]]
 
 
-#Feminin 
+#Feminin , [[Überbewirtschaftung]]

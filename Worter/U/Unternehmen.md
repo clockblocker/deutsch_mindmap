@@ -28,7 +28,7 @@ Morpheme:
 Einzigartige mögliche Formen: [[Unternehmens]], [[Unternehmen]], [[Unternehmern]], [[Unternehmen]], [[Unternehmen]], [[Unternehmen]]  
 
 ---
-#Substantiv #Neuter, [[Handelsgesellschaft]], [[Unternehmerverband]], [[Worter/W/Wirtschaft]], [[begehen]], [[Stadtverwaltung]], [[Reise]], [[Beiersdorf]], [[unternehmerisch]], [[Bank]], [[Arbeitsstelle]], [[Abteilung]], [[Unternehmenskultur]], [[Unternehmenseröffnung]], [[Vorstoß]]
+#Substantiv #Neuter, [[Handelsgesellschaft]], [[Unternehmerverband]], [[Wirtschaft]], [[begehen]], [[Stadtverwaltung]], [[Reise]], [[Beiersdorf]], [[unternehmerisch]], [[Bank]], [[Arbeitsstelle]], [[Abteilung]], [[Unternehmenskultur]], [[Unternehmenseröffnung]], [[Vorstoß]]
 
 ---
 

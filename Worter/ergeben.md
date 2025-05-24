@@ -64,4 +64,4 @@ sie, [[Worter/E/ergeben]], [[ergaben]], [[Worter/E/ergeben]], [[ergäben]], [[er
 Adjektive: [[ergebend]], [[ergebender]], [[ergebendst]]
 
 ---
-[[ergebender]], [[ergebendes]], [[ergebende]], [[ergebenden]], [[ergebendem]], [[ergebenderer]], [[ergebenderes]], [[ergebendere]], [[ergebenderen]], [[ergebenderem]], [[ergebendster]], [[ergebendstes]], [[ergebendste]], [[ergebendsten]], [[ergebendstem]], [[ergeben]], [[verursachen]], [[Platzproblem]], [[hervorrufen]]
+[[ergebender]], [[ergebendes]], [[ergebende]], [[ergebenden]], [[ergebendem]], [[ergebenderer]], [[ergebenderes]], [[ergebendere]], [[ergebenderen]], [[ergebenderem]], [[ergebendster]], [[ergebendstes]], [[ergebendste]], [[ergebendsten]], [[ergebendstem]], [[ergeben]], [[verursachen]], [[Platzproblem]], [[hervorrufen]], [[ausmachen]]

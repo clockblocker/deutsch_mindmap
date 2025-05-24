@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tag]], [[Tages]], [[Tage]], [[Tagen]]
 
 ---
-#Substantiv #Maskulin[[erwachen]], [[Feiertag]], [[Gedenktag]], [[Trauertag]], [[Wahltag]], [[Bettag]], [[Tageshöchstwert]], [[s1 e1]], [[Tagebuch]], [[Wetter]], [[heutzutage]], [[Urlaubstag]], [[Alltag]], [[alltäglich]]
+#Substantiv #Maskulin[[erwachen]], [[Feiertag]], [[Gedenktag]], [[Trauertag]], [[Wahltag]], [[Bettag]], [[Tageshöchstwert]], [[s1 e1]], [[Tagebuch]], [[Wetter]], [[heutzutage]], [[Urlaubstag]], [[Alltag]], [[alltäglich]], [[Wintertag]]

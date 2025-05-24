@@ -75,4 +75,4 @@ Konjunktiv II:
 - Wenn ihr nachlässig wäret, [[vergiftetet]] ihr die Wasserquellen.
 - Wenn sie skrupellos wären, [[vergifteten]] sie die Menschen.
 
-, [[verschmutzen]]
+, [[verschmutzen]], [[Gift]]

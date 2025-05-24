@@ -29,4 +29,4 @@ G: des [[Vertreters]], der [[Vertreter]]
 D: dem [[Vertreter]], den [[Vertretern]]
 
 
-#Maskulin
+#Maskulin, [[Vertreterin]]

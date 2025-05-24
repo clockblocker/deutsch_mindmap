@@ -1,1 +1,1 @@
-, [[zeitgemäß]], [[überholt]], [[veraltet]]
+, [[zeitgemäß]], [[überholt]], [[veraltet]], [[jahrhundertealt]]

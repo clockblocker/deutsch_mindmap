@@ -3,8 +3,9 @@
 haben [[überrascht]]
 
 ---
-- [[Überraschen]], überfallen  
-- [[Überraschung]]s ei 
+*[[C1-Hoehen-T1-102-Text#^5|^]]* Anhand zahlreicher Beispiele aus der [[wahren]] Welt der Wirtschaft zeigt sie, wie [[überraschend]] groß der [[Einfluss]] von Unternehmen ist, deren [[Weltanschauung]] ethische [[Prinzip]]ien [[zugrunde]] [[liegen]]
+
+[[Überraschen]], [[überfallen]]  
 
 ---
 Synonyme: [[erstaunen]], [[schocken]], [[verblüffen]], [[erschrecken]], [[verwundern]]
@@ -30,3 +31,4 @@ Morpheme: [[Worter/Ü/über]][[rasch]][[en]]
 
 Partizip I: [[überraschend]], Partizip II: [[überrascht]]
 [[überraschen]] - [[Worter/Ü/über]] = [[raschen]], [[Deutschland]], [[beeindrucken]], [[vorausahnen]]
+[[Überraschen]], [[erstaunlich]], [[erwartungsgemäß]], [[unerwartet]], [[unvorhergesehen]]

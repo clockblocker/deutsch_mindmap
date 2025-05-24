@@ -1,1 +1,1 @@
-, [[antippen]], [[betreffen]], [[anfassen]], [[fühlen]], [[unter die Haut gehen]]
+, [[antippen]], [[betreffen]], [[anfassen]], [[fühlen]], [[unter die Haut gehen]], [[anliegen]]

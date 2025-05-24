@@ -1,1 +1,1 @@
-, [[anständig]], [[tugendhaft]]
+, [[anständig]], [[tugendhaft]], [[ethisch]], [[Moralvorstellung]]

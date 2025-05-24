@@ -23,3 +23,5 @@ Dative: der [[Geltung]], den [[Geltungen]]
 
 ---
 [[gelten]], [[geltend]], [[geltend machen]], [[geltungsbedürftig]], [[Einfluss]], [[Gültigkeit]], [[Würde]]
+
+#Feminin 

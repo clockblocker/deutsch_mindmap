@@ -1,7 +1,9 @@
 👣 🔴 die [[Folge]], [ˈfɔlɡə](https://youglish.com/pronounce/Folge/german) | ➡️ [[folgen]], [ˈfɔlɡn̩] → [[folgte]] → [[gefolgt]]
 
 ---
-Und hier ist die [[nächste]] [[Folge]] von Extra!
+*[[C1-Hoehen-T1-102-Text#^4|^]]* Lina Sandrock, selbst [[ehemalig]]e [[BWL]]-erin, beschreibt die [[Folge]]n [[wirtschaftlich]] [[ethisch]]en [[Handeln]]s von Klein- und Großunternehmen
+
+Die [[Folge]]n des [[Handeln]]s von [[Konsumenten]] werden hier aufgezeigt.  
 
 *[[C1-Hoehen-T1-202-Text#^2|^]]* Aber welche katastrophalen [[Folge]]n kann so ein [[Kauf]] haben?
 
@@ -10,8 +12,10 @@ Und hier ist die [[nächste]] [[Folge]] von Extra!
 *[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] wissen. ^13
 
 
-*[[07-C1-Schreiben-T2-M#^2|^]]* Als [[Folge]] [[dauern]] bei Ihnen und Ihrem Team viele [[Arbeitsprozess]]e nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der [[geforderten]] Zeit zu [[erledigen]]. ^2
+*[[07-C1-Schreiben-T2-M#^2|^]]* Als [[Folge]] [[dauern]] bei Ihnen und Ihrem Team viele [[Arbeitsprozess]]e nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der [[geforderten]] Zeit zu [[erledigen]]
 
+
+Und hier ist die [[nächste]] [[Folge]] von Extra!
 
 
 ---
@@ -63,4 +67,4 @@ G: der [[Folge]], der [[Folgen]]
 D: der [[Folge]], den [[Folgen]]
 
 
-#Feminin , [[zufolge]], [[Zeichenfolge]]--> [[🗣️ Ingredient-Meinung]] <--, [[Wissen]], [[darauffolgen]]
+#Feminin , [[zufolge]], [[Zeichenfolge]]--> [[🗣️ Ingredient-Meinung]] <--, [[Wissen]], [[darauffolgen]], [[Giftschaden]]

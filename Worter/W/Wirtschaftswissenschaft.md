@@ -1,1 +1,1 @@
-, [[wirtschaftlich]], [[Worter/W/Wirtschaft]]
+, [[wirtschaftlich]], [[Wirtschaft]], [[BWL]], [[Wirtschaftswissenschaftler]]

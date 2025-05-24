@@ -5,6 +5,8 @@ nicht ist das Gegenteil von [[leer]]
 ---
 Es reicht, ich hab die Nase [[voll]]!
 
+*[[C1-Hoehen-T1-101-Text#^2|^]]* In ihrem Debüt als Autorin [[eruiert]] die Heilpraktikerin die [[Wirkungsweise]] und [[Wirksamkeit]] der Elektroakupunktur nach [[Voll]], kurz EAV, einer Diagnoseform, die auf die Traditionelle Chinesische Medizin [[zurückgeht]]
+
 Also schön! Du bist kein Spinner, du bist [[völlig]] durchgeknallt!
 
 Aber er ist etwas besonderes, das merke ich. Er steckt [[voller]] Weisheit, ich spüre es.

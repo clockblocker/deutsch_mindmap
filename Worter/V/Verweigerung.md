@@ -1,3 +1,3 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
 
-, [[Teilnahme]], [[Zuwendung]], [[Abnahme]], [[Aufforderung]]
+, [[Teilnahme]], [[Zuwendung]], [[Abnahme]], [[Aufforderung]], [[Zugeständnis]], [[anliegen]]

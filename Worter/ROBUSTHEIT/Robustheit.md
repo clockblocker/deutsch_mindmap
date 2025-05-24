@@ -1,1 +1,1 @@
-, [[robust]]
+, [[robust]], [[Widerstandsfähigkeit]]

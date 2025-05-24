@@ -5,6 +5,8 @@ die [[Einheiten]]
 *[[C1-Lesen-T2-102-Text#^29|^]]* Im [[Anschluss]] an die [[jeweilig]]en [[Einheit]]en wurde der Lac-Phe-Wert im Blut gemessen. ^29
 
 
+[[hinzuFügt|Fügt]] der [[ausgewählten]] [[Truppe]] 9 [[Einheit]]en  hinzu.
+
 215. Wer wird als „Kanzler der Deutschen [[Einheit]]“ [[bezeichnet]]? (76%)
 	- [ ] Gerhard Schröder
 	- [x] Helmut Kohl
@@ -37,4 +39,4 @@ D: der [[Einheit]], den [[Einheiten]]
 ---
 [[einheitlich]], [[vereinen]], [[vereint]], [[Einheitsparty]], [[Einheitsstaat]], [[Zelle]], [[Abteilung]]
 
-#Feminin
+#Feminin, [[Truppe]]

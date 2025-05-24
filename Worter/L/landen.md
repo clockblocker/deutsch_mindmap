@@ -56,4 +56,4 @@ sie, [[landen]], [[landeten]], [[landen]], [[landeten]], [[landen]]
 Adjektive: [[landend]], [[landender]], [[landendst]]
 
 ---
-[[landender]], [[landendes]], [[landende]], [[landenden]], [[landendem]], [[landenderer]], [[landenderes]], [[landendere]], [[landenderen]], [[landenderem]], [[landendster]], [[landendstes]], [[landendste]], [[landendsten]], [[landendstem]]
+[[landender]], [[landendes]], [[landende]], [[landenden]], [[landendem]], [[landenderer]], [[landenderes]], [[landendere]], [[landenderen]], [[landenderem]], [[landendster]], [[landendstes]], [[landendste]], [[landendsten]], [[landendstem]], [[anlegen]]

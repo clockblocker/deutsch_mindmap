@@ -1,1 +1,1 @@
-, [[beruhigen]], [[schweigen]], [[warnen]]
+, [[beruhigen]], [[schweigen]], [[warnen]], [[beschwören]]

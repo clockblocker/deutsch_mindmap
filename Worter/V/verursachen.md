@@ -3,10 +3,11 @@
 💥 [[verursachen]], [fɛɐ̯ˈʔuʁzaχn̩] | [[verursachte]], haben [[verursacht]]
 
 ---
-, [[Worter/ergeben]], [[resultieren]]
+Alle [[angrenzenden]] [[Feld]]er [[verursachen]] nun [[Giftschaden]]. Ein [[Stapel]] [[Gift]] pro [[Stufe]].
+
 
 ---
-= [[bewirken]], [[auslösen]], [[hervorrufen]]
+= [[bewirken]], [[auslösen]], [[hervorrufen]], [[ergeben]], [[resultieren]]
 ≈ [[erzeugen]], [[anrichten]], [[veranlassen]], [[herbeiführen]]
 ≠ [[verhindern]], [[unterbinden]], [[vermeiden]]
 

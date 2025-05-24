@@ -1,1 +1,1 @@
-, [[auffordern]]
+, [[auffordern]], [[beschwören]]

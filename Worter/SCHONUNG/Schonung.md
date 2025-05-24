@@ -27,3 +27,4 @@ G: der [[Schonung]], der [[Schonungen]]
 D: der [[Schonung]], den [[Schonungen]]
 
 #Feminin 
+, [[Überbewirtschaftung]]

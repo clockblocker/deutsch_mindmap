@@ -1,1 +1,1 @@
-, [[Jahrhundertmitte]], [[Zeitalter]], [[Zeitraum]], [[Kunstepoche]], [[Jahrzehnt]]
+, [[Jahrhundertmitte]], [[Zeitalter]], [[Zeitraum]], [[Kunstepoche]], [[Jahrzehnt]], [[Mittelalter]], [[Jahrtausendwende]]

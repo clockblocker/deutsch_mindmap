@@ -1,1 +1,1 @@
-, [[verschwenden]], [[schwenden]]
+, [[verschwenden]], [[schwenden]], [[anlegen]]

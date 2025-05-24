@@ -4,6 +4,9 @@
 *[[Golfstorm#^13|^]]* [[Forschende]] sind sich einig, dass die Klimakrise die AMOC destabilisiert. ^13
 
 
+*[[C1-Hoehen-T1-102-Text#^12|^]]* Außerdem nennt er auch [[Forschende]] [[ausgewählt]]er Hochschulen, deren Studien über Kompatibilität und höheren Nutzen der Kombination beider Konzepte für Unternehmen bereits erfolgreich in die Praxis übertragen werden. ^12
+
+
 *[[Golfstorm#^7|^]]* Die Arbeit wurde im Fachjournal »Nature« veröffentlicht und gibt [[zumindest]] [[teilweise]] [[Entwarnung]]: Das Strömungssystem könnte sich bis 2100 deutlich [[abschwächen]], die [[Forschenden]] fanden jedoch keine [[Hinweis]]e auf einen [[vollständigen]] Kollaps. ^7
 
 ---
@@ -47,4 +50,4 @@ sie, [[forschen]], [[forschten]], [[forschen]], [[forschten]], [[forschen]]
 Adjektive: [[forschend]], [[forschender]], [[forschendst]]
 
 ---
-[[forschender]], [[forschendes]], [[forschende]], [[forschenden]], [[forschendem]], [[forschenderer]], [[forschenderes]], [[forschendere]], [[forschenderen]], [[forschenderem]], [[forschendster]], [[forschendstes]], [[forschendste]], [[forschendsten]], [[forschendstem]], [[Forschungsgebiet]], [[Forschungsteam]], [[nachgehen]], [[Wissenschaftler]]
+[[forschender]], [[forschendes]], [[Forschende]], [[forschenden]], [[forschendem]], [[forschenderer]], [[forschenderes]], [[forschendere]], [[forschenderen]], [[forschenderem]], [[forschendster]], [[forschendstes]], [[forschendste]], [[forschendsten]], [[forschendstem]], [[Forschungsgebiet]], [[Forschungsteam]], [[nachgehen]], [[Wissenschaftler]]

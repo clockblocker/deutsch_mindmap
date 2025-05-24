@@ -1,1 +1,1 @@
-, [[Soldat]], [[Bundeswehr]]
+, [[Soldat]], [[Bundeswehr]], [[Truppe]]

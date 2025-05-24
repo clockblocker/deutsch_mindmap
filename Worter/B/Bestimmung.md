@@ -5,7 +5,7 @@
 
 ---
 = [[Festlegung]], [[Regelung]], [[Vorschrift]] | [[Zweck]], [[Ziel]], [[Absicht]] | [[Identifizierung]], [[Feststellung]]
-≈ [[Anordnung]], [[Verordnung]], [[Gesetz]] | [[Motivation]], [[Grund]], [[Anliegen]] | [[Ermittlung]], [[Diagnose]], [[festlegen]] [[Bedingung]], [[Verfügung]], [[Herkunft]], [[Regelung]], [[Ausnahmeregelung]], [[Schätzung]], [[Regulierung]], 
+≈ [[Anordnung]], [[Verordnung]], [[Gesetz]] | [[Motivation]], [[Grund]], [[anliegen]] | [[Ermittlung]], [[Diagnose]], [[festlegen]] [[Bedingung]], [[Verfügung]], [[Herkunft]], [[Regelung]], [[Ausnahmeregelung]], [[Schätzung]], [[Regulierung]], 
 ≠ [[Zufall]], [[Unbestimmtheit]] | [[Beliebigkeit]], [[Ziellosigkeit]] | [[Verwechslung]], [[Irrtum]],  [[verbot]],
 
 
@@ -26,4 +26,4 @@ A: die [[Bestimmung]], die [[Bestimmungen]]
 G: der [[Bestimmung]], der [[Bestimmungen]]
 D: der [[Bestimmung]], den [[Bestimmungen]]
 
-#Feminin , [[Messung]]
+#Feminin , [[Messung]], [[Auflage]]

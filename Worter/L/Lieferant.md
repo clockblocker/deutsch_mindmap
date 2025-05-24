@@ -29,4 +29,4 @@ G: des [[Lieferanten]], der [[Lieferanten]]
 D: dem [[Lieferanten]], den [[Lieferanten]]
 
 #Maskulin 
-, [[beliefern]]
+, [[beliefern]], [[ausliefern]]

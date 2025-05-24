@@ -1,1 +1,1 @@
-, [[Freizügigkeit]], [[Festlegung]], [[flexibel]], [[Mobilität]]
+, [[Freizügigkeit]], [[Festlegung]], [[flexibel]], [[Mobilität]], [[Resilienz]]

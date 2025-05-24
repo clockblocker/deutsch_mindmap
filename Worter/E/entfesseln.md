@@ -1,1 +1,1 @@
-[[freimachen]], [[bändigen]]
+[[freimachen]], [[bändigen]], [[fesseln]]

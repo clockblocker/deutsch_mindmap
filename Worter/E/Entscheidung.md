@@ -89,4 +89,4 @@ Die wirtschaftlichen Argumente sind vielfältig. Zunächst ist es schlichtweg te
 
 </example>
 
-#Feminin
+#Feminin, [[Kaufentscheidung]]

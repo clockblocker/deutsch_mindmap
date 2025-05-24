@@ -1,1 +1,1 @@
-, [[Lager]], [[stapeln]]
+, [[Lager]], [[stapeln]], [[Stapel]]

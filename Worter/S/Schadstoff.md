@@ -1,1 +1,1 @@
-, [[Abgas]], [[Luftverschmutzung]], [[Autoabgas]], [[Schneckengift]]
+, [[Abgas]], [[Luftverschmutzung]], [[Autoabgas]], [[Schneckengift]], [[Gift]], [[Mineralstoff]]

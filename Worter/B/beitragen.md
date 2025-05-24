@@ -1,10 +1,11 @@
 ➕ [[beitragen]], [ˈbaɪ̯ˌtʁaːɡn̩](https://youglish.com/pronounce/beitragen/german) | [[trug bei]], hat [[beigetragen]]
 
 ---
-Machen Sie einen Vorschlag, wie jeder [[Einzelne]] zum Klimaschutz [[beitragen]] kann.
+Machen Sie einen Vorschlag, wie jeder [[Einzelne]] `zum` Klimaschutz [[beitragen]] kan
 
-*[[001-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en. ^5
+Interviews mit der [[Zielgruppe]] [[beitragen|trugen]] `zur` [[Entstehung]] dieses Buches [[bei]]
 
+*[[001-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] `zum` [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en
 
 a) Alle [[Gegenstände]], die zur [[Entfaltung]] des Kindes [[beitragen]].  
 
@@ -19,7 +20,7 @@ a) Alle [[Gegenstände]], die zur [[Entfaltung]] des Kindes [[beitragen]].
 
 [[Vereinsbeitrag]],
 
-- Diskutieren Sie, wie [[gesellschaftlich]]e [[Rahmenbedingung]]en zu einer besseren Balance [[beitragen]] könnten  
+Diskutieren Sie, wie [[gesellschaftlich]]e [[Rahmenbedingung]]en zu einer besseren Balance [[beitragen]] könnten  
 
 
 ---

@@ -3,8 +3,11 @@
 ---
 *[[C1-Lesen-T2-102-Text#^21|^]]* Amerikanische Forscher haben gerade im [[renommiert]]en Fachjournal *Nature* eine [[Reihe]] von [[Untersuchung]]en publiziert
 
+[[Renommiert]]e [[Wissenschaftler]]:innen konnten hier ihre [[Theorie]]n in die [[Praxis]] [[übertragen]]  
+
+
 ---
-= [[prahlen]], [[angeben]], [[sich rühmen]]
+= [[prahlen]], [[angeben]], [[sich rühmen]], [[prestigeträchtig]]
 ≈ [[sprechen]], [[reden]], [[sich brüsten]]
 ≠ [[verheimlichen]], [[verschweigen]]
 

@@ -1,1 +1,1 @@
-, [[anlegen]], [[Sparer]]
+, [[anlegen]], [[Sparer]], [[Börsenhai]]

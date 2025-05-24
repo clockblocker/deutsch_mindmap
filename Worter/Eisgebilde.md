@@ -23,3 +23,5 @@ D: dem [[Eisgebilde]], den [[Eisgebilden]]
 
 ---
 [[eiskalt]], [[gefrieren]], [[Eisberg]], [[Eiskristall]], [[bilden]]
+
+#Neuter 

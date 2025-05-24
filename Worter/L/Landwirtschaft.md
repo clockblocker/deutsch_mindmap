@@ -1,11 +1,12 @@
 🧑‍🌾 🔴 die [[Landwirtschaft]], [ˈlantvɪʁtʃaft]
 
 ---
-, [[Ährenkranz]], [[Erntedankfest]], [[Hobbybäuerin]], [[Bauernhof]]
+Dieser Titel verbindet Erkenntnisse aus der [[Landwirtschaft]] mit der Medizin.  
+
 
 ---
 = [[Agrarwirtschaft]], [[Ackerbau]], [[Viehzucht]]
-≈ [[Bauernhof]], [[Landwirtschaftsbetrieb]], [[Worter/E/Ernährung]]
+≈ [[Bauernhof]], [[Landwirtschaftsbetrieb]], [[Worter/E/Ernährung]], [[Hobbybäuerin]], [[Bauernhof]], [[Erntehelferin]], [[Gemüseanbau]], [[Milchhof]], [[Forstwirtschaft]], [[Weizenernte]]
 ≠ [[Industrie]], [[Handel]], [[Dienstleistung]]
 
 ---
@@ -25,4 +26,5 @@ N: die [[Landwirtschaft]], die [[Landwirtschaften]]
 A: die [[Landwirtschaft]], die [[Landwirtschaften]]  
 G: der [[Landwirtschaft]], der [[Landwirtschaften]]  
 D: der [[Landwirtschaft]], den [[Landwirtschaften]]
-, [[Erntehelferin]], [[Gemüseanbau]], [[Milchhof]], [[Forstwirtschaft]], [[Weizenernte]]
+
+#Feminin , [[Bewirtschaftung]]

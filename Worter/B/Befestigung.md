@@ -1,1 +1,1 @@
-, [[Stadtmauer]]
+, [[Stadtmauer]], [[Festung]]

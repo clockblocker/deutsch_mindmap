@@ -27,4 +27,4 @@ Einzigartige mögliche Formen:
 [[kühl]], [[kühler]], [[kühle]], [[kühles]], [[kühlen]], [[kühlem]], [[kühler]], [[kühlen]]
 [[kühler]], [[kühlerer]], [[kühlere]], [[kühleres]], [[kühleren]], [[kühlerem]], [[kühlerer]], [[kühleren]]
 [[kühlsten]], [[kühlster]], [[kühlste]], [[kühstes]], [[kühlsten]], [[kühstem]], [[kühlster]], [[kühlsten]]
-, [[hitzig]], [[abkühlen]]
+, [[hitzig]], [[abkühlen]], [[Kühlung]]

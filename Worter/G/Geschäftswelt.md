@@ -1,1 +1,1 @@
-, [[Geschäftsleben]], [[Worter/W/Wirtschaft]]
+, [[Geschäftsleben]], [[Wirtschaft]]

@@ -47,4 +47,4 @@ sie, [[bauen ab]], [[bauten ab]], [[bauen ab]], [[bauten ab]], [[bauen ab]]
 Adjektive: [[abbauend]], [[abbauender]], [[abbauendst]]
 
 ---
-[[abbauender]], [[abbauendes]], [[abbauende]], [[abbauenden]], [[abbauendem]], [[abbauenderer]], [[abbauenderes]], [[abbauendere]], [[abbauenderen]], [[abbauenderem]], [[abbauendster]], [[abbauendstes]], [[abbauendste]], [[abbauendsten]], [[abbauendstem]], [[Stressabbau]], [[anbringen]], [[ausbauen]], [[Leistungsabbau]]
+[[abbauender]], [[abbauendes]], [[abbauende]], [[abbauenden]], [[abbauendem]], [[abbauenderer]], [[abbauenderes]], [[abbauendere]], [[abbauenderen]], [[abbauenderem]], [[abbauendster]], [[abbauendstes]], [[abbauendste]], [[abbauendsten]], [[abbauendstem]], [[Stressabbau]], [[anbringen]], [[ausbauen]], [[Leistungsabbau]], [[anlegen]]

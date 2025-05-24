@@ -1,1 +1,1 @@
-, [[Wert]], [[Informationswert]], [[Einfluss]], [[Stellenwert]]
+, [[Wert]], [[Informationswert]], [[Einfluss]], [[Stellenwert]], [[Bedeutung]], [[Relevanz]]

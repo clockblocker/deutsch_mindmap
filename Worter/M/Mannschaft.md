@@ -1,1 +1,1 @@
-, [[Band]], [[Team]]
+, [[Band]], [[Team]], [[Truppe]]

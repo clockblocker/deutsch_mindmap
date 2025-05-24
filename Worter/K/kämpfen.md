@@ -77,4 +77,4 @@ Konjunktiv II:
 - Wenn ihr Vertrauen hättet, [[kämpftet]] ihr mit Zuversicht.
 - Wenn sie mehr Unterstützung hätten, [[kämpften]] sie mit größerem Einsatz., [[bemühen]], [[verzichten]], [[verzweifeln]], [[s1 e1]]
 , [[zufriedengeben]]
-, [[umkämpfen]], [[Schlacht]]
+, [[umkämpfen]], [[Schlacht]], [[schwertun]]

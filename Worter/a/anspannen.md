@@ -30,4 +30,4 @@ Morpheme: [[an]][[spann]][[en]]
 
 Partizip I: [[anspannend]], Partizip II: [[angespannt]]
 
-[[anspannen]] - [[an]] = [[spannen]], [[s1 e1]], [[überfordern]]
+[[anspannen]] - [[an]] = [[spannen]], [[s1 e1]], [[überfordern]], [[Spannung]]

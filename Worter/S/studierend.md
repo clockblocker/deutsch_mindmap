@@ -1,1 +1,3 @@
-, [[studieren]], [[Studierendenwohnheim]], [[Studierendenwerk]]
+[[studieren]], [[Studierendenwohnheim]], [[Studierendenwerk]]
+
+#Neuter 

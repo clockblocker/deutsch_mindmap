@@ -32,4 +32,4 @@ G: des [[Desinteresses]], der [[Desinteressen]]
 D: dem [[Desinteresse]], den [[Desinteressen]]
 
 
-#Neuter, [[Politikverdrossenheit]], [[Politikmüdigkeit]]
+#Neuter, [[Politikverdrossenheit]], [[Politikmüdigkeit]], [[anliegen]]

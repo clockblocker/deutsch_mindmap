@@ -7,6 +7,8 @@
 ---
 a) [[zurückgehen|ging]] die Anzahl von Krebspatienten zurück.  
 
+*[[C1-Hoehen-T1-101-Text#^2|^]]* In ihrem Debüt als Autorin [[eruiert]] die Heilpraktikerin die [[Wirkungsweise]] und [[Wirksamkeit]] der Elektroakupunktur nach [[Voll]], kurz EAV, einer Diagnoseform, die auf die Traditionelle Chinesische Medizin [[zurückgeht]]
+
 ---
 = [[zurückkehren]], [[zurücktreten]], [[sich zurückziehen]], [[abnehmen]]
 ≈ [[vergehen]], [[sich entwickeln]], [[sich verändern]], [[sinken]]

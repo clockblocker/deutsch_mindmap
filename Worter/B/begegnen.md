@@ -3,6 +3,8 @@
 ---
 Öh, nein. Ich weiß nicht. Ich meine, ich kannte Leute die ihm [[begegnet]] sind. Ich aber nicht.
 
+*[[C1-Hoehen-T1-102-Text#^15|^]]* Für die meisten von uns seien dies aber Themen, die uns irgendwann einmal [[begegnen]] und wir dann diesen [[Börsenhai]] oder auch unserer eigenen [[Dummheit]] [[ausgeliefert]] [[seien]]
+
 12 Man kann der [[Politikverdrossenheit]] mit [[Aufklärung]] [[begegnen]]
 *(One can [[counter]] the [[political apathy]] with [[education]])*
 

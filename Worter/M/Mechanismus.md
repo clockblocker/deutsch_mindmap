@@ -1,1 +1,1 @@
-, [[s1 e1]], [[Funktionsweise]], [[Stoffwechselmechanismus]]
+, [[s1 e1]], [[Funktionsweise]], [[Stoffwechselmechanismus]], [[Wirkungsweise]]

@@ -16,7 +16,7 @@ Antonyme: [[loslassen]], [[ignorieren]], [[vermeiden]]
 Übersetzung: to tap, to touch, to press
 
 ---
-Morpheme: [[an]][[tipp]][[en]]
+Morpheme: [[an]][[Tipp]][[en]]
  #Verb  #Trennbar
  
 ---

@@ -1,1 +1,1 @@
-[[Konsument]]
+[[Konsument]], [[Zielgruppe]]

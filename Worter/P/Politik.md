@@ -6,7 +6,7 @@ mit
 
 ---
 = [[Staatswissenschaft]], [[Regierung]]
-≈ [[Gesellschaft]], [[Diplomatie]], [[Worter/W/Wirtschaft]], [[Macht]]
+≈ [[Gesellschaft]], [[Diplomatie]], [[Wirtschaft]], [[Macht]]
 ≠ [[Privatleben]], [[Individuum]], [[Anarchie]]
 
 ---

@@ -1,1 +1,1 @@
-, [[Strenge]], [[Durchsetzungsvermögen]]
+, [[Strenge]], [[Durchsetzungsvermögen]], [[Zugeständnis]]

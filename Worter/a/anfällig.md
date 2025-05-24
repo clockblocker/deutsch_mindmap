@@ -1,2 +1,2 @@
 
-, [[Wutanfall]], [[widerstandsfähig]], [[Anfall]]
+, [[Wutanfall]], [[widerstandsfähig]], [[Anfall]], [[Infektanfälligkeit]]

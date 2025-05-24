@@ -3,7 +3,8 @@
 🕵️ [[nachgehen]], [ˈnaːxˌɡeːən](https://youglish.com/pronounce/nachgehen/german) → [[ging nach]] → [[nachgegangen]]
 
 ---
-*1 Hier wird den Erkenntnissen mentaler Widerstandsfähigkeit* [[nachgegangen]]  
+Hier wird den [[Erkenntnis]]sen mentaler [[Widerstandsfähigkeit]] [[nachgegangen]]
+
 
 ---
 = [[untersuchen]], [[verfolgen]], [[ermitteln]]

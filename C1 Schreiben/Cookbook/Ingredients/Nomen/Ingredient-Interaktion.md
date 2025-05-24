@@ -33,7 +33,7 @@
 
 #### 📬 [[Anfrage]] / [[Antrag]] / [[Interaktion]]  
 *(request, appeal, submission)*  
-1) [[Anliegen]] *(concern; polite formal request)*  
+1) [[anliegen]] *(concern; polite formal request)*  
 2) [[Beantragung]] *(official application)*  
 3) [[Petition]] *(collective request)*  
 4) [[Gebet]] *(prayer; divine request)*  

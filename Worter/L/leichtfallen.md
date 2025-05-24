@@ -1,1 +1,1 @@
-, [[mühen]]
+, [[mühen]], [[schwertun]]

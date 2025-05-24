@@ -37,4 +37,4 @@ Einzigartige mögliche Formen: [[Menge]], [[Mengen]], [[Menge]], [[Menge]], [[Me
 
 , [[Haufen]], [[Häuflein]]
 
-, [[Zahl]], [[Mengenangabe]], [[Erntemenge]], [[Menschenmenge]], [[Bestand]], [[Besucherzahl]], [[Dutzend]]
+, [[Zahl]], [[Mengenangabe]], [[Erntemenge]], [[Menschenmenge]], [[Bestand]], [[Besucherzahl]], [[Dutzend]], [[Allgemeinheit]]

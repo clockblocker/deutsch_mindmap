@@ -4,6 +4,8 @@ die [[Ziele]]
 ---
 Denn wenn die anderen dieselben Ziele und Interessen haben, findet man zusammen bestimmt eine Lösung.  
 
+*[[C1-Hoehen-T1-100-Text#^24|^]]* [[Erdarbeiten]]: [[freiSchaltet|Schaltet]] [[angrenzende]] Felder des [[Ziel]]s [[frei]]. Du [[erhältst]] bis zu 3 Kopien seiner Karte
+
 Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[Überzeugungsarbeit]] [[Leisten]] muss, um ein [[Ziel]] [[zu]] [[erreichen]], können ein paar nette Worte nicht [[schaden]]. Denn wer bekommt nicht gern ein Kompliment?
 
 ---
@@ -24,4 +26,4 @@ Einzigartige mögliche Formen: [[Ziels]], [[Zielen]]
 #Substantiv #Neuter
 
 , [[zielen]], [[Quelle]]
-, [[zielstrebig]], [[Strecke]], [[Herkunft]], [[bestreben]], [[Anliegen]], [[Zielsprache]], [[Streben]], [[Ende]], [[Zielabstimmung]], [[zielgerichtet]], [[Wille]]
+, [[zielstrebig]], [[Strecke]], [[Herkunft]], [[bestreben]], [[anliegen]], [[Zielsprache]], [[Streben]], [[Ende]], [[Zielabstimmung]], [[zielgerichtet]], [[Wille]], [[Zielgruppe]]

@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T4-103-Text#^20|^]]* [[Gewiss]]e äußere [[Einflussfaktor]]en führen [[womöglich]] dazu, dass sich das [[Beiseitelegen]] von Geld nicht mehr [[derart]] [[lohnt]] wie noch vor [[einig]]en Jahren
 
+*[[C1-Hoehen-T1-101-Text#^16|^]]* Spielen bestimmte [[Ernährungsweise]]n bei [[einig]]en [[Naturvölkern]] eine Rolle bei ihrer langen [[Lebenserwartung]]?
+
 [[Artikelwörter.md#^2|^]] - [[Manche]] – *Manche Kinder spielen Fußball gern.*
 - [[Einige]] – *Einige Kinder spielen Volleyball gern.* ^2
  

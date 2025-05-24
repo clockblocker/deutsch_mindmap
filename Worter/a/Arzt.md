@@ -19,4 +19,4 @@ Morphems:
 [[Arzt]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Schulmedizinerin]]

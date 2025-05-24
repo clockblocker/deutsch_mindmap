@@ -3,6 +3,8 @@
 ---
 🧑‍🏫 [[Frühkindliche]] Bildung – [[Schlüssel]] zur [[Gerechtigkeit]]?
 
+Erläutern Sie [[Hindernis]]se beim [[Zugang]] zu qualitativer [[frühkindlich]]er Bildung.
+
 ---
 = [[kleinkindlich]], [[vorkindlich]]
 ≈ [[kindlich]], [[jugendlich]], [[früh]]

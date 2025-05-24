@@ -1,7 +1,7 @@
 ❤️ [[verständnisvoll]], [fɛɐ̯ˈʃtɛntnɪsˌfɔl](https://youglish.com/pronounce/verständnisvoll/german)
 
 ---
-*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^5|^]]* _Neben den_ [[Inhalten]] _der Arbeit und der Gesetze müssen diese Angestellten auch höflich,_ [[hilfsbereit]] _und vor allem_ [[verständnisvoll]] _im_ [[Umgang]] _mit Menschen und ihren_ [[Anliegen]] _sein. ^5
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^5|^]]* _Neben den_ [[Inhalten]] _der Arbeit und der Gesetze müssen diese Angestellten auch höflich,_ [[hilfsbereit]] _und vor allem_ [[verständnisvoll]] _im_ [[Umgang]] _mit Menschen und ihren_ [[anliegen]] _sein. ^5
 
 
 ---

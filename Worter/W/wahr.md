@@ -1,36 +1,34 @@
 --> 🧩 [[Grad-Wahrheit]] <--
 
-🟡 [[wahr]], [vaːɐ̯]
-nicht [[Falsch]]
+✅ [[wahr]], [vaːɐ̯](https://youglish.com/pronounce/wahr/german)
 
 ---
+*[[C1-Hoehen-T1-102-Text#^5|^]]* Anhand zahlreicher Beispiele aus der [[wahren]] Welt der Wirtschaft zeigt sie, wie [[überraschend]] groß der [[Einfluss]] von Unternehmen ist, deren [[Weltanschauung]] ethische [[Prinzip]]ien [[zugrunde]] [[liegen]]
+
 ANNA: Ja, wir gehen auch immer in die Bücherei, [[nicht wahr]]?
+
 Ist das wirklich wahr?
-*Der wahre Traum der Liebe*
-
- Mach meinen Traum [[wahr]]!  
-
-Wahrheit
 
 
 ---
-Synonyme:
-- [[korrekt]], [[richtig]], [[zutreffend]], [[genau]], [[authentisch]]
-Antonyme:
-- [[falsch]], [[ungenau]], [[unrichtig]], [[unzutreffend]], [[unecht]]
+= [[richtig]], [[zutreffend]], [[echt]],  [[echten]], [[Recht]], 
+≈ [[korrekt]], [[gültig]], [[real]], [[wahrscheinlich]], [[höchstwahrscheinlich]], 
+≠ [[falsch]], [[unwahr]], [[verkehrt]]
 
 ---
-Übersetzung: true, real, genuine
+true  
+истинный
 
 ---
-Morpheme:
+[[Wahrheit]], [[wahren]], [[Wahrheitsgehalt]], [[wahrnehmen]], [[verwahren]], [[Wahrnehmung]]
+
+---
+[[wahr]]
 [[wahr]]
 
----
-#Adjective [[wahr]]
 
 ---
-Einzigartige mögliche Formen: 
-[[wahr]], [[wahre]], [[wahres]], [[wahren]], [[wahrem]]
-[[wahrer]], [[wahrere]], [[wahreres]], [[wahrerem]], [[wahrererer]]
-[[wahrste]], [[wahrster]], [[wahrstes]], [[wahrstem]], [[wahrstesten]], [[echten]], [[Recht]], [[wahrscheinlich]], [[höchstwahrscheinlich]], [[wahrnehmen]], [[verwahren]], [[Wahrnehmung]]
+Adjektive: [[wahr]], [[wahrer]], [[wahrst]]
+
+---
+[[wahrer]], [[wahres]], [[wahre]], [[wahren]], [[wahrem]], [[wahrerer]], [[wahreres]], [[wahrere]], [[wahreren]], [[wahrerem]], [[wahrster]], [[wahrstes]], [[wahrste]], [[wahrsten]], [[wahrstem]]

@@ -32,4 +32,4 @@ A: den [[Buchhaltungsbereich]], die [[Buchhaltungsbereiche]]
 G: des [[Buchhaltungsbereichs]], der [[Buchhaltungsbereiche]]
 D: dem [[Buchhaltungsbereich]], den [[Buchhaltungsbereichen]]
 
-#Maskulin , [[Open Space]]
+#Maskulin , [[Open Space]], [[Finanz]]

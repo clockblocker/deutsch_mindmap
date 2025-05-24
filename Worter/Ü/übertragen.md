@@ -1,10 +1,12 @@
 ➡️ [[übertragen]], [ˈyːbɐˌtʁaːɡn̩](https://youglish.com/pronounce/übertragen/german) → [[übertragen]] → [[übertragen]]
 
 ---
-Der Atem wird im Körper zu Energie umgewandelt. Die Energie [[überträgt]] sich direkt auf die Gliedmaßen und wird zu Feuer!
+Der Atem wird im Körper zu Energie umgewandelt. 
+Die Energie [[überträgt]] sich direkt auf die [[Gliedmaße]]n und wird zu Feuer!
 
-*[[C1-Lesen-T4-102-Text#^20|^]]* Letzteres vor allem durch die [[Spezialisierung]] der [[Drittfirmen]], denen bestimmte [[Dienstleistung]]en [[übertragen]] wurden, da sie ja im [[Normalfall]] Expertinnen und Experten auf dem [[entsprechenden]] [[Gebiet]] sind. ^20
+[[Renommiert]]e [[Wissenschaftler]]:innen konnten hier ihre [[Theorie]]n `in` die [[Praxis]] [[übertragen]]
 
+*[[C1-Lesen-T4-102-Text#^20|^]]* Letzteres vor allem durch die [[Spezialisierung]] der [[Drittfirmen]], denen bestimmte [[Dienstleistung]]en [[übertragen]] wurden, da sie ja im [[Normalfall]] Expertinnen und Experten auf dem [[entsprechenden]] [[Gebiet]] sind
 
 ---
 = [[verlegen]], [[transferieren]], [[delegieren]]

@@ -1,2 +1,2 @@
 
-, [[Gefecht]]
+, [[Gefecht]], [[Schlachtfeld]]

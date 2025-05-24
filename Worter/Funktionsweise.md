@@ -39,4 +39,4 @@ G: der [[Funktionsweise]], der [[Funktionsweisen]]
 D: der [[Funktionsweise]], den [[Funktionsweisen]]
 
 
-#Feminin 
+#Feminin , [[Wirkungsweise]]

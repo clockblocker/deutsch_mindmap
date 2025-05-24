@@ -3,9 +3,8 @@
 🚑 [[versorgen]], [fɛɐ̯ˈzɔʁɡn̩] | [[versorgte]], haben [[versorgt]]
 
 ---
-46. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört dazu? (96%)
-	- [x] Er [[baut]] [[Straßen]] und [[Schulen]].
-	- [ ] Er [[versorgt]] alle [[Einwohner]] und [[Einwohnerinnen]] [[kostenlos ]]mit Zeitungen.
+
+*[[C1-Hoehen-T1-101-Text#^10|^]]* Wenn man in den [[Wintertag]]en [[häufig]]er zum [[Taschentuch]] [[greifen]] muss, kann das nach Bükey-Schneider auch daran [[anliegen|liegen]], dass aufgrund von [[Überbewirtschaftung]] von [[Agrarfläch]]en die Böden die Pflanzen nicht mehr [[ausreichend]] [[versorgen]] können
 
 Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke [[versorgt]]. Welcher [[Umstand]] war dafür verantwortlich? 
 
@@ -33,4 +32,4 @@ PI: [[versorgend]], PII: [[versorgt]], Zu+inf: [[zuversorgen]]
 [[versorgen]] - [[ver]] = [[sorgen]] / to supply, to provide, to take care of
 
 ---
-[[Versorgung]], [[Versorger]], [[Versorgerin]], [[versorgt]], [[Grundversorgung]], [[Wasserversorgung]], [[Internetversorgung]], [[Energieversorgung]], [[Essensversorgung]]
+[[Versorgung]], [[Versorger]], [[Versorgerin]], [[versorgt]], [[Grundversorgung]], [[Wasserversorgung]], [[Internetversorgung]], [[Energieversorgung]], [[Essensversorgung]], [[nähren]]

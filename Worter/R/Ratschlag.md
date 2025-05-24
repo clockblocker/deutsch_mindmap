@@ -25,4 +25,4 @@ Etymologie: Zusammengesetzt aus [[Rat]] (counsel) + [[Schlag]] (strike/hit), urs
 
 Verwendungsbeispiele:
 - "Ein guter Ratschlag kann manchmal wertvoll sein."
-- "Ich folgte seinem Ratschlag und habe es nicht bereut.", [[beraten]]
+- "Ich folgte seinem Ratschlag und habe es nicht bereut.", [[beraten]], [[Universitätsempfehlung]]

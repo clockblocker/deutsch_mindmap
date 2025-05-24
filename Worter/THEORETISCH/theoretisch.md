@@ -1,1 +1,1 @@
-, [[geisteswissenschaftlich]], [[inhaltlich]], [[virtuell]]
+, [[geisteswissenschaftlich]], [[inhaltlich]], [[virtuell]], [[Theorie]]

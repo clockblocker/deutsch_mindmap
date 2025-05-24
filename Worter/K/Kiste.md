@@ -11,4 +11,4 @@ Translation:
 ---
 
 #Substantiv #Feminin 
-, [[Getränkekasten]], [[Metallkiste]]
+, [[Getränkekasten]], [[Metallkiste]], [[Truhe]]

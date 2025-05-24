@@ -33,4 +33,4 @@ Dative: dem [[Vermögen]], den [[Vermögen]]
 , [[zusammenschrumpfen]], [[vermuten]], [[Kraft]], [[können]]
 , [[Durchhaltevermögen]], [[Durchsetzungsvermögen]], [[Schuldenpaket]], [[Beherrschung]], [[Kompetenz]]
 
-#Neuter , [[Ersparnis]], [[Denkvermögen]], [[Abstraktionsvermögen]]
+#Neuter , [[Ersparnis]], [[Denkvermögen]], [[Abstraktionsvermögen]], [[Finanz]]

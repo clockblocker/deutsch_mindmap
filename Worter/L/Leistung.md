@@ -37,4 +37,4 @@ D: der [[Leistung]], den [[Leistungen]]
 , [[Anstrengung]], [[Großtat]], [[Aufgabenerfüllung]], [[Strom]], [[Bildungserfolg]], [[Angebot]], [[Unterstützungsangebot]]
 
 
-#Feminin , [[Kapazität]], [[Trefferquote]], [[nutzen]], [[Geldleistung]], [[Dienstleistung]], [[erbringen]], [[Leistungssportler]], [[Sozialleistung]], [[Leistungsabbau]]
+#Feminin , [[Kapazität]], [[Trefferquote]], [[nutzen]], [[Geldleistung]], [[Dienstleistung]], [[erbringen]], [[Leistungssportler]], [[Sozialleistung]], [[Leistungsabbau]], [[Kassenleistung]]

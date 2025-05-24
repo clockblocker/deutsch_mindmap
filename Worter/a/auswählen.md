@@ -1,18 +1,18 @@
 ✅ [[auswählen]], [ˈaʊ̯sˌveːlən](https://youglish.com/pronounce/auswählen/german) → [[wählte aus]] → [[ausgewählt]]
 
 ---
-*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^4|^]]* Die Frage, nach welchen Kriterien man „seinen“ neuen Arbeitsplatz [[auswählt]], ist dabei nicht immer so einfach zu beantworten. ^4
+*[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^4|^]]* Die Frage, nach welchen Kriterien man „seinen“ neuen Arbeitsplatz [[auswählt]], ist dabei nicht immer so einfach zu beantworten
 
+*[[C1-Hoehen-T1-102-Text#^12|^]]* Außerdem nennt er auch [[Forschende]] [[ausgewählt]]er Hochschulen, deren Studien über Kompatibilität und höheren Nutzen der Kombination beider Konzepte für Unternehmen bereits erfolgreich in die Praxis übertragen werden.
+
+[[hinzuFügt|Fügt]] der [[ausgewählten]]  [[Truppe]] 9 [[Einheiten]]  hinzu.
 
 Was für Spielzeug sollten Eltern [[auswählen]]
 
 ---
-= [[aussuchen]], [[selektieren]], [[wählen]]
-≈ [[bestimmen]], [[entscheiden]], [[auserwählen]], [[vorziehen]]
+= [[aussuchen]], [[selektieren]], [[wählen]], [[aussuchen]], [[wählen]]
+≈ [[bestimmen]], [[entscheiden]], [[auserwählen]], [[vorziehen]], [[vorziehen]],  [[ernennen]], [[bevorzugen]]
 ≠ [[verwerfen]], [[ablehnen]], [[ausschließen]]
-
-[[aussuchen]], [[wählen]], [[vorziehen]], [[ernennen]]
-, [[bevorzugen]]
 
 
 ---

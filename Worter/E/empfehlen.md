@@ -1,7 +1,9 @@
 👍 [[empfehlen]], [ɛmˈpfeːlən] | [[empfahl]], haben [[empfohlen]]
 
 ---
-*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]. ^14
+*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]
+
+*[[C1-Hoehen-T1-102-Text#^10|^]]* Das Buch kann ich euch aber auch [[empfehlen]], wenn ihr gerade nicht studiert. ^10
 
 
 *[[C1-Hoehen-T1-200-Text#^14|^]]* Eine spannende und [[lehrreiche]] Lektüre, die ich [[wärmstens]] [[empfehlen]] kann. ^14
@@ -42,4 +44,4 @@ PI: [[empfehlend]], PII: [[empfohlen]], Zu+inf: [[zu empfehlen]]
 
 ---
 [[Empfehlung]], [[Fehl]], [[empfehlenswert]]
-, [[befürworten]], [[Empfehlungssystem]], [[Empfehlungsalgorithmus]]
+, [[befürworten]], [[Empfehlungssystem]], [[Empfehlungsalgorithmus]], [[Universitätsempfehlung]]

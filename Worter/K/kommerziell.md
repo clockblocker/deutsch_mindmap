@@ -1,1 +1,1 @@
-, [[ehrenamtlich]], [[wirtschaftlich]], [[gemeinnützig]]
+, [[ehrenamtlich]], [[wirtschaftlich]], [[gemeinnützig]], [[marktwirtschaftlich]]

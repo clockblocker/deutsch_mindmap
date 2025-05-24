@@ -4,6 +4,8 @@ die [[Stapel]]
 ---
 Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern.
 
+Alle [[angrenzenden]] [[Feld]]er [[verursachen]] nun [[Giftschaden]]. Ein [[Stapel]] Gift pro [[Stufe]].
+
 
 ---
 = [[Haufen]], [[Turm]], [[Anhäufung]]
@@ -24,3 +26,5 @@ D: dem [[Stapel]], den [[Stapeln]]
 
 ---
 [[stapeln]], [[Stapelplatz]], [[Stapelware]], [[stapelbar]]
+
+#Maskulin 

@@ -2,12 +2,12 @@
 die [[Früchte]]
 
 ---
-, [[Fruchtsaft]]
+*[[C1-Hoehen-T1-101-Text#^11|^]]* Dies [[niederschlägt|schlägt]] `sich` dann im [[Nährstoffgehalt]] der [[Früchte]] nieder
 
 
 ---
 = [[Obst]], [[Erzeugnis]]
-≈ [[Ernte]], [[Ertrag]], [[Produkt]]
+≈ [[Ernte]], [[Ertrag]], [[Produkt]], [[Fruchtsaft]]
 ≠ [[Gemüse]], [[Samen]], [[Blatt]]
 
 ---
@@ -25,3 +25,5 @@ D: der [[Frucht]], den [[Früchten]]
 
 ---
 [[fruchtig]], [[fruchtbar]], [[Früchtekorb]], [[fruchten]], [[Fruchtbarkeit]], [[unfruchtbar]]
+
+#Feminin 

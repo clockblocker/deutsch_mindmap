@@ -1,1 +1,1 @@
-, [[zerbrechen]]
+, [[zerbrechen]], [[Widerstandsfähigkeit]], [[Resilienz]]

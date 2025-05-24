@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-200-Text#^28|^]]* Wir haben Studierenden Fotos von Männern und Frauen [[vorgelegt]] und die Probandinnen und Probanden mussten [[angeben]], wen sie für intelligent [[hielten]]
 
+*[[C1-Hoehen-T1-101-Text#^4|^]]* Sollte ein Patient beispielsweise aus großer [[Infektanfälligkeit]] leiden, aber einen gesunden [[Lebenswandel]] führen, könnte als [[Ursache]] ein Problem mit den [[Schleimhäuten]] [[vorliegen]]
+
 - [ ] Man darf andere Personen benachteiligen, wenn [[ausreichende]] persönliche Gründe [[hierfür]] [[vorliegen]].
 
 ---

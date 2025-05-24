@@ -28,4 +28,4 @@ D: dem [[Kauf]], den [[Käufen]]
 [[kaufen]], [[käuflich]], [[Käufer]], [[Verkauf]], [[einkaufen]]
 , [[Miete]], [[Ausleihsystem]], [[Einkaufsleiterin]], [[Einkaufsbereich]], [[aufkaufen]]
 
-#Maskulin , [[Kaufverhalten]], [[Kaufmann]]
+#Maskulin , [[Kaufverhalten]], [[Kaufmann]], [[Kaufentscheidung]]

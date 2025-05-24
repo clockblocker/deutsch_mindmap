@@ -1,1 +1,1 @@
-, [[Wirbelsäule]]
+, [[Wirbelsäule]], [[Gerüst]]

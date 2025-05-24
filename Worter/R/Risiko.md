@@ -38,4 +38,4 @@ D: dem [[Risiko]], den [[Risiken]]
 , [[Risiko]], [[eigentlich]], [[Schutz]], [[Geburtsvorbereitung]]
 , [[Versicherung]], [[Lebensversicherung]], [[Pfand]], [[Erfolgsfaktor]], [[Notfallschutz]], [[risikoreich]], [[aufs Spiel setzen]]
 
-#Neuter , [[Garantie]], [[Stolpergefahr]], [[Wetteinsatz]], [[Einsatz]], [[Sicherung]]
+#Neuter , [[Garantie]], [[Stolpergefahr]], [[Wetteinsatz]], [[Einsatz]], [[Sicherung]], [[Infektanfälligkeit]]

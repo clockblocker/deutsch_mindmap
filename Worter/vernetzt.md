@@ -28,4 +28,4 @@ networked, interconnected
 Adjektive: [[vernetzt]], [[vernetzter]], [[vernetztest]]
 
 ---
-[[vernetzter]], [[vernetztes]], [[vernetzte]], [[vernetzten]], [[vernetztem]], [[vernetzterer]], [[vernetzteres]], [[vernetztere]], [[vernetzteren]], [[vernetzterem]], [[vernetztester]], [[vernetztestes]], [[vernetzteste]], [[vernetztesten]], [[vernetztestem]]
+[[vernetzter]], [[vernetztes]], [[vernetzte]], [[vernetzten]], [[vernetztem]], [[vernetzterer]], [[vernetzteres]], [[vernetztere]], [[vernetzteren]], [[vernetzterem]], [[vernetztester]], [[vernetztestes]], [[vernetzteste]], [[vernetztesten]], [[vernetztestem]], [[verknüpfen]]

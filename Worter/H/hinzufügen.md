@@ -3,7 +3,10 @@
 ➕ [[hinzufügen]], [hɪnˈtsuːˌfʏːɡən] | [[hinzugefügt]], haben [[hinzugefügt]]
 
 ---
-[[amazon.md#^3|^]] Einen [[Garantieplan]] [[hinzufügen]] ^3
+[[amazon.md#^3|^]] Einen [[Garantieplan]] [[hinzufügen]]
+
+[[hinzuFügt|Fügt]] der [[ausgewählten]]  [[Truppe]] 9 [[Einheiten]]  hinzu.
+
 
 ---
 = [[anfügen]], [[dazutun]], [[zufügen]], [[nachbringen]], [[dazuzählen]], [[anfügen]], [[zusätzlich]], [[ergänzen]]

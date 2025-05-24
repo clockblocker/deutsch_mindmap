@@ -43,4 +43,4 @@ PI: [[vertretend]], PII: [[vertreten]], Zu+inf: [[zu vertreten]]
 [[vertreten]] - [[ver]] = [[treten]] / to represent, to substitute, to stand in for
 
 ---
-[[Vertreter]], [[Vertretung]], [[Stellvertreter]], [[vertrauenswürdig]], [[vertretbar]], [[anregen]], [[Gewerkschaft]]
+[[Vertreter]], [[Vertretung]], [[Stellvertreter]], [[vertrauenswürdig]], [[vertretbar]], [[anregen]], [[Gewerkschaft]], [[Vertreterin]]

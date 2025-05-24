@@ -1,1 +1,1 @@
-, [[Hausverwaltung]], [[Wohnungsmarkt]]
+, [[Hausverwaltung]], [[Wohnungsmarkt]], [[Immobilienfinanzierung]]

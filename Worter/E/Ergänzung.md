@@ -1,1 +1,1 @@
-, [[usw]], [[anfügen]], [[Worter/ergeben]], [[ergänzen]], [[hinzufügen]], [[Streichung]], [[Änderung]]
+, [[usw]], [[anfügen]], [[Worter/ergeben]], [[ergänzen]], [[hinzufügen]], [[Streichung]], [[Änderung]], [[Nahrungsergänzungsmittel]], [[Ergänzungsmittel]]

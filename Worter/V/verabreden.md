@@ -61,4 +61,4 @@ sie, [[verabreden]], [[verabredeten]], [[verabreden]], [[verabredeten]], [[verab
 Adjektive: [[verabredend]], [[verabredender]], [[verabredendst]]
 
 ---
-[[verabredender]], [[verabredendes]], [[verabredende]], [[verabredenden]], [[verabredendem]], [[verabredenderer]], [[verabredenderes]], [[verabredendere]], [[verabredenderen]], [[verabredenderem]], [[verabredendster]], [[verabredendstes]], [[verabredendste]], [[verabredendsten]], [[verabredendstem]]
+[[verabredender]], [[verabredendes]], [[verabredende]], [[verabredenden]], [[verabredendem]], [[verabredenderer]], [[verabredenderes]], [[verabredendere]], [[verabredenderen]], [[verabredenderem]], [[verabredendster]], [[verabredendstes]], [[verabredendste]], [[verabredendsten]], [[verabredendstem]], [[ausmachen]]

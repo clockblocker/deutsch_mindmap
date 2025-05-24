@@ -1,40 +1,73 @@
 --> [[Ingredient-Add-Remove]] <--
-🌊 [[anlegen]] | [[legte an|legte an]], haben [[angelegt]]
+
+🔨 | 💰 [[anlegen]], [ˈanˌleːɡn̩](https://youglish.com/pronounce/anlegen/german) → [[legte an]] → [[angelegt]] 
 
 ---
-Lauras Traum war es schon immer, ein Haus mit Garten zu haben. 20 Jahre lang [[legte an|legte]] sie ihr Geld in Aktien an, um sich ein Haus [[Leisten]] zu können. 
+---
 
-*[[C1-Hoehen-T1-200-Text#^5|^]]* Seine [[Wahrnehmung]] der Natur verändert sich und aus einem [[einstigen]] [[Leugner]] des Klimawandels wird ein ganz [[passabler]] Naturschützer, der sich auch mal mit [[Ignoranten]] aus der Stadt [[anlegt]].
+→ [[anlegen]] `in` `jM` = *(invest in X)*
+*Lauras Traum war es schon immer, ein Haus mit Garten zu haben.* 
+20 Jahre lang [[legte an|legte]] sie ihr Geld `in` Aktien [[an]], 
+*um sich ein Haus [[Leisten]] zu können.* 
+
+---
+
+→ “`sich` [[anlegen]] `mit` *{jM}* = *(to clash, to pick a fight with)*
+*[[C1-Hoehen-T1-200-Text#^5|^]]* *Seine [[Wahrnehmung]] der Natur verändert sich und aus einem [[einstigen]] [[Leugner]] des  Klimawandels wird ein ganz [[passabler]] Naturschützer,*
+der `sich` auch mal `mit` *{[[Ignoranten]] aus der Stadt}* [[anlegt]]
+
+---
+---
+= [[anbringen]], [[befestigen]] | [[investieren]], [[anlegen]]
+≈ [[montieren]], [[installieren]] | [[investieren]], [[sparen]], [[einhängen]], [[landen]], [[errichteten]], [[abheben]],
+≠ [[abbauen]], [[entfernen]] | [[ausgeben]], [[verprassen]]
+
+---
+to apply, to put on | to invest  
+применять, надевать | инвестировать
+
+---
+[[Anlage]], [[Anleger]] | [[Anlage]], [[Anleger]], [[Kapitalanlage]]
+
+---
+[[an]]|[[leg]]|[[en]]
+[[an]] + [[legen]]
 
 
 ---
-Synonyme: [[anbinden]], [[befestigen]], [[festmachen]], [[andocken]], [[landen]]
-Antonyme: [[ablegen]], [[losfahren]], [[abfahren]]
+###### [[anlegen]] jN
+- Was [[legst]] du [[an]]?
+- Ein neues Konto.
+
+- Warum [[legen]] wir Geld [[an]]?
+- Um es zu vermehren.
+
+- Wie lange [[hast]] du das Geld [[angelegt]]?
+- Seit einem Jahr.
 
 ---
-to dock, to put down, to apply, to invest
+###### [[anlegen]] *[[sich]]* `mit` jM
+- Womit [[legst]] du *[[dich]]* [[an]]?
+- `Mit` meinem Chef.
+
+- Warum [[legen]] sie *[[sich]]* `mit` ihm [[an]]?
+- Weil sie anderer Meinung sind.
+
+- Wie lange [[hast]] du *[[dich]]* `mit` ihm [[angelegt]]?
+- Seit einer Stunde.
 
 ---
-[[an]][[leg]][[en]]
- 
----
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[lege an]] / [[lege an]], [[legte an]], [[lege an]], [[legte an]], -
+du, [[legst an]], [[legtest an]], [[legest an]], [[legtest an]], [[leg an]] / [[lege an]]
+er, [[legt an]], [[legte an]], [[lege an]], [[legte an]], -
+wir, [[legen an]], [[legten an]], [[legen an]], [[legten an]], [[legen an]]
+ihr, [[legt an]], [[legtet an]], [[leget an]], [[legtet an]], [[legt an]]
+sie, [[legen an]], [[legten an]], [[legen an]], [[legten an]], [[legen an]]
 
-Person: Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II  
-Ich: [[lege an]], [[legte an]], -, [[lege an]], [[legte an]]  
-Du: [[legst an]], [[legtest an]], [[lege an]], [[legest an]], [[legtest an]]  
-Er/sie/es: [[legt an]], [[legte an]], -, [[lege an]], [[legte an]]  
-Wir: [[legen an]], [[legten an]], -, [[legen an]], [[legten an]]  
-Ihr: [[legt an]], [[legtet an]], [[legt an]], [[leget an]], [[legtet an]]  
-
-Partizip I: [[anlegend]], 
-Partizip II: [[angelegt]]
-Zu+infinifive: [[anzulegen]]
-
-[[anlegen]] - [[an]] = [[legen]] / to dock, to put down, to apply, to invest
+*Zu + Inf*: [[anzulegen]], *P2*: [[angelegt]]
+Adjektive: [[anlegend]], [[anlegender]], [[anlegendst]]
 
 ---
-[[Anlage]], [[Anlegung]], [[Anleger]], [[Anlageform]], [[Anlagestrategie]], [[Hafenanlage]]
-
-
-, [[einhängen]], [[landen]]
-, [[errichteten]], [[abheben]], [[Kapitalanlage]]
+[[anlegender]], [[anlegendes]], [[anlegende]], [[anlegenden]], [[anlegendem]], [[anlegenderer]], [[anlegenderes]], [[anlegendere]], [[anlegenderen]], [[anlegenderem]], [[anlegendster]], [[anlegendstes]], [[anlegendste]], [[anlegendsten]], [[anlegendstem]]
+, [[Geldanlage]], [[Wertanlage]]

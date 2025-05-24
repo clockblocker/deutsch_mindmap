@@ -1,8 +1,7 @@
 🔒 [[verwahren]], [fɛɐ̯ˈvaːʁən](https://youglish.com/pronounce/verwahren/german) → [[verwahrte]] → haben [[verwahrt]]
 
 ---
-*[[C1-Lesen-T1-001-Text#^36|^]]* Neben Corona werden auch Prostatakrebs und bakterielle Infektionen in [[Verwahrten]] [[zuverlässig]] von (7) damit [[ausgebildeten]] Hunden erschnüffelt – Malariaparasiten sogar vor [[Ausbruch]] der Krankheit. ^36
-
+*[[C1-Lesen-T1-001-Text#^36|^]]* Neben Corona werden auch Prostatakrebs und bakterielle Infektionen in [[Verwahrten]] [[zuverlässig]] von (7) damit [[ausgebildeten]] Hunden erschnüffelt – Malariaparasiten sogar vor [[Ausbruch]] der Krankheit
 
 ---
 = [[aufbewahren]], [[lagern]], [[schützen]]

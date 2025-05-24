@@ -50,7 +50,7 @@ Zuallererst liegt es jedoch an uns, dafür zu sorgen, dass es gar nicht erst zu 
 *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Hier sollte immer die Meinungsfreiheit im_ [[Mittelpunkt]] _stehen, denn eine zu starke Regulierung im Netz kann sich auf die Qualität der_ [[Berichterstattung]] _durch die_ [[Worter/Medien]] [[auswirken]], _oder Menschen werden_ [[verhaftet]], _weil sie ihre Meinung im Internet_ [[kundgetan]] _haben._ ^5
 
  
-*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrechte]] _als_ [[richtungsgebende]] _Linie_ [[vorausgesetzt]] _werden, um strafbare von legalen_ [[Äußerungen]] _und_ [[Taten]] _zu_ [[unterscheiden]]. ^5
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrecht]]e _als_ [[richtungsgebend]]e _Linie_ [[voraussetzen|vorausgesetzt]] _werden, um [[strafbar]]e von [[legal]]en_ [[Äußerung]]en _und_ [[Tat]]en _zu_ [[unterscheiden]] ^5
 
  
 *[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Und zu den Menschenrechten gehört eben auch das Recht zur freien Meinungsäußerung._ ^6

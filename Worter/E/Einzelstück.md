@@ -1,1 +1,1 @@
-, [[Vorlage]], [[Dutzend]]
+, [[Vorlage]], [[Dutzend]], [[Stapel]]

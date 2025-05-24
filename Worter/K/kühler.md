@@ -1,1 +1,1 @@
-[[Kühl]], [[Fächer]]
+[[Kühl]], [[Fächer]], [[Kühlung]]

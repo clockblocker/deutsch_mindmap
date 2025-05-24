@@ -1,2 +1,2 @@
 🔴 die [[Umfrage]] 📊
-, [[Interpretation]], [[Meinungsumfrage]]
+, [[Interpretation]], [[Meinungsumfrage]], [[Zufriedenheitsumfrage]]

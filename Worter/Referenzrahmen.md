@@ -26,3 +26,5 @@ N: der [[Referenzrahmen]], die [[Referenzrahmen]]
 A: den [[Referenzrahmen]], die [[Referenzrahmen]]
 G: des [[Referenzrahmens]], der [[Referenzrahmen]]
 D: dem [[Referenzrahmen]], den [[Referenzrahmen]]
+
+#Maskulin 

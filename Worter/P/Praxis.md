@@ -1,7 +1,10 @@
 👩‍⚕️ 🔴 die [[Praxis]], [ˈpʁaksɪs](https://youglish.com/pronounce/Praxis/german) | 🤸 🔴 die [[Praxis]], [ˈpʁaksɪs]
 
 ---
-*[[C1-Hoehen-T2-200-Text#^12|^]]* Wobei es uns nicht auf eine Definition von Intelligenz [[ankommt]], was sich `in` der [[Praxis]] als sehr schwierig [[gestaltet]], sondern auf die [[verschiedenen]] Arten der Intelligenz.
+*[[C1-Hoehen-T2-200-Text#^12|^]]* Wobei es uns nicht auf eine Definition von Intelligenz [[ankommt]], was sich `in` der [[Praxis]] als sehr schwierig [[gestaltet]], sondern auf die [[verschiedenen]] Arten der Intelligenz
+
+[[Renommiert]]e [[Wissenschaftler]]:innen konnten hier ihre [[Theorie]]n `in` die [[Praxis]] [[übertragen]]
+
 
 ---
 = [[Arztpraxis]], [[Medizinische Praxis]] | [[Erfahrung]], [[Übung]], [[Routine]], [[Anwendung]], [[Umsetzung]], [[Alltag]], [[praktikabel]]

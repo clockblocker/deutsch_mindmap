@@ -1,10 +1,11 @@
 🔍 [[unterscheiden]], [ˈʊntɐʃaɪ̯dn̩] | [[unterschied]], haben [[unterschieden]]
 
 ---
-Er kann links und rechts nicht [[unterscheiden]].
+Er kann links und rechts nicht [[unterscheiden]]
 
-*[[C1-Hoehen-T1-200-Text#^3|^]]* Zunächst kann er `kaum` [[Dachs]] `von` [[Waschbär]] [[unterscheiden]], ganz zu schweigen von den vielen [[Baumarten]], die ihn [[umgeben]]. ^3
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrecht]]e _als_ [[richtungsgebend]]e _Linie_ [[voraussetzen|vorausgesetzt]] _werden, um [[strafbar]]e von [[legal]]en_ [[Äußerung]]en _und_ [[Tat]]en _zu_ [[unterscheiden]]
 
+*[[C1-Hoehen-T1-200-Text#^3|^]]* Zunächst kann er `kaum` [[Dachs]] `von` [[Waschbär]] [[unterscheiden]], ganz zu schweigen von den vielen [[Baumarten]], die ihn [[umgeben]]
 
 *[[C1-Lesen-T2-100-Text#^10|^]]* Die damaligen Studierenden wollten sich vor allem sprachlich vom [[Spießbürgertum]] unterscheiden. ^10
 

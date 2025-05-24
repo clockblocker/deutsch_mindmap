@@ -29,4 +29,4 @@ G: der [[Kapitalanlage]], der [[Kapitalanlagen]]
 D: der [[Kapitalanlage]], den [[Kapitalanlagen]]
 
 
-#Feminin 
+#Feminin , [[Wertanlage]]

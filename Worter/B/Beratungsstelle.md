@@ -1,1 +1,1 @@
-, [[Berufsinformationszentrum]]
+, [[Berufsinformationszentrum]], [[Beratung]]

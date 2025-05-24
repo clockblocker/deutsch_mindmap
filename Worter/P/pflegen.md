@@ -39,4 +39,4 @@ Plural: [[gepflegten]], [[gepflegteren]], [[gepflegtesten]]
 
 ---
 [[Pflege]], [[Pfleger]], [[Pflegeheim]], [[Pflegekraft]], [[Pflegeeltern]], [[Pflegestelle]], [[pfleglich]], [[pflegebedürftig]], [[Körperpflege]], [[Hautpflege]], [[pflegeleicht]], [[Pflegeversicherung]], [[s1 e1]]
-, [[aufrechterhalten]], [[züchten]], [[heilen]]
+, [[aufrechterhalten]], [[züchten]], [[heilen]], [[nähren]]

@@ -27,4 +27,4 @@ PI: [[tanzend]], PII: [[getanzt]], Zu+inf: [[zu tanzen]]
 
 ---
 [[Tanz]], [[Tänzer]], [[Tänzerin]], [[Tanzfläche]], [[tanzerisch]], [[Tanzkurs]]
-, [[schwirren]]
+, [[schwirren]], [[Tanzritual]]

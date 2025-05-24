@@ -2,7 +2,9 @@
 nicht [[gleich]]
 
 ---
-Alle Menschen sind [[verschieden]].
+Alle Menschen sind [[verschieden]]
+
+*[[C1-Hoehen-T1-102-Text#^9|^]]* In "Wirtschaftsethik leicht gemacht" vergleicht der künftige [[Wirtschaftswissenschaftler]] [[verschieden]]e [[Universität]]en, an denen er [[bspw.]] Zufriedenheitsumfragen mit den Studierenden durchgeführt hat und spricht auf dieser Basis auch Studien- und Universitätsempfehlungen aus
 
 [[16 Plusquamperfekt#^8|^]] Sie ging in die Galerien, Museen, Buchhandlungen, saß über den [[verschiedenen]] kunsttheoretischen Büchern und großen [[Bildbänden]] lange Stunden zu  
 
@@ -32,4 +34,4 @@ P: [[verschiedenen]], [[verschiedeneren]], [[verschiedensten]]
 ---
 [[Verschiedenheit]], [[unterscheiden]], [[Unterschied]], [[Vielfalt]], [[divergieren]]
 
-, [[Texte/Misc/Anki]], [[gleichermaßen]], [[derselbe]], [[dergleichen]]
+, [[Texte/Misc/Anki]], [[gleichermaßen]], [[derselbe]], [[dergleichen]], [[gleichnamig]]

@@ -28,3 +28,5 @@ A: die [[Aufhebung]], die [[Aufhebungen]]
 G: der [[Aufhebung]], der [[Aufhebungen]]  
 D: der [[Aufhebung]], den [[Aufhebungen]]
 , [[Wegfall]]
+
+#Feminin 

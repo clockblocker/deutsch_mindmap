@@ -1,1 +1,1 @@
-, [[Getränk]]
+, [[Getränk]], [[Kühlung]]

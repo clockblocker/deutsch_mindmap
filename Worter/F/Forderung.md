@@ -28,4 +28,4 @@ A: die [[Forderung]], die [[Forderungen]]
 G: der [[Forderung]], der [[Forderungen]]
 D: der [[Forderung]], den [[Forderungen]]
 
-#Feminin 
+#Feminin , [[Auflage]]

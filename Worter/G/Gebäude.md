@@ -30,4 +30,4 @@ D: dem [[Gebäude]], den [[Gebäuden]]
 , [[Texte/Misc/Anki]], [[Zelle]], [[Halle]], [[Schulgebäude]], [[Anlage]], [[Traufe]], [[Räumlichkeit]]
 
 
-#Neuter , [[Gebäudeverwaltung]]
+#Neuter , [[Gebäudeverwaltung]], [[Agrarfläche]]

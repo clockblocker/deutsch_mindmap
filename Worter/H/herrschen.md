@@ -56,4 +56,4 @@ sie, [[herrschen]], [[herrschten]], [[herrschen]], [[herrschten]], [[herrschen]]
 Adjektive: [[herrschend]], [[herrschender]], [[herrschendst]]
 
 ---
-[[herrschender]], [[herrschendes]], [[herrschende]], [[herrschenden]], [[herrschendem]], [[herrschenderer]], [[herrschenderes]], [[herrschendere]], [[herrschenderen]], [[herrschenderem]], [[herrschendster]], [[herrschendstes]], [[herrschendste]], [[herrschendsten]], [[herrschendstem]]
+[[herrschender]], [[herrschendes]], [[herrschende]], [[herrschenden]], [[herrschendem]], [[herrschenderer]], [[herrschenderes]], [[herrschendere]], [[herrschenderen]], [[herrschenderem]], [[herrschendster]], [[herrschendstes]], [[herrschendste]], [[herrschendsten]], [[herrschendstem]], [[thronen]]

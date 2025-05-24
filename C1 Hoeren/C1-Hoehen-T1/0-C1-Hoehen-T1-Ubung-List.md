@@ -1,10 +1,11 @@
 [[Hoeren-C1-Alle-Ubungen]]
 
-*100 - 2023 Mit Erfolg Modellsätzen*
-- [ ] [[C1-Hoehen-T1-100-Text|100]] Gentrifizierung
-- [ ] [[C1-Hoehen-T1-101-Text|101]]
+*100 - 2023 Prüfungstraining*
+- [x] [[C1-Hoehen-T1-100-Text|100]] Gentrifizierung
+- [x] [[C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-1/C1-Hoehen-T1-101/C1-Hoehen-T1-101-Text|101]] Alternativmedizin
+- [x] [[C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-1/C1-Hoehen-T1-102/C1-Hoehen-T1-102-Text|102]] Wirtschaftsethik
 
-*200 - 2023 Prüfungstraining*
+*200 - 2023 Mit Erfolg Modellsätzen*
 - [x] [[C1-Hoehen-T1-200-Text|200]] Wald
 - [x] [[C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-201/C1-Hoehen-T1-201-Text|201]] Komödie
 - [x] [[C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-202/C1-Hoehen-T1-202-Text|202]] Konsumverhalten

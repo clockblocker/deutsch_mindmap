@@ -1,1 +1,1 @@
-, [[gehören]]
+, [[gehören]], [[hingehören]]

@@ -18,4 +18,4 @@ Morphems:
 [[um]][[schlag]]
 
 ---
-#Substantiv #Maskulin , [[11 08]], [[Um­schlag]], [[um­schlagen]], [[Wendung]]
+#Substantiv #Maskulin , [[11 08]], [[Um­schlag]], [[um­schlagen]], [[Wendung]], [[Einband]]

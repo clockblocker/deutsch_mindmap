@@ -3,7 +3,9 @@
 [[schon]], [ʃoːn]
 
 ---
-Aber [[irgendwie]] macht der Rechner nicht das, was er tun soll. [[Schon]] das [[Hochfahren]] [[klappt]] nicht immer, ein neuer Browser lässt sich nicht installieren, und dann ist da immer wieder diese [[seltsame]] [[Fehlermeldung]]. 
+Aber [[irgendwie]] macht der Rechner nicht das, was er tun soll. [[Schon]] das [[Hochfahren]] [[klappt]] nicht immer, ein neuer Browser lässt sich nicht installieren, und dann ist da immer wieder diese [[seltsame]] [[Fehlermeldung]]
+
+*[[C1-Hoehen-T1-102-Text#^1|^]]* Der erste Schatz aus der [[Truhe]] ist ein Buch, das [[schon]] `ab` dem [[Inhaltsverzeichnis]] [[fesselt]], denn es geht uns alle an
 
 [[Obwohl]] sie [[schon]] [[oft]] ins Deutschland war, sprach sie [[immer]] [[noch]] kein Deutsch
 

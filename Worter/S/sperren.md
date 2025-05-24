@@ -59,4 +59,4 @@ sie, [[sperren]], [[sperrten]], [[sperren]], [[sperrten]], [[sperrten]]
 Adjektive: [[sperrend]], [[sperrender]], [[sperrendst]]
 
 ---
-[[sperrender]], [[sperrendes]], [[sperrende]], [[sperrenden]], [[sperrendem]], [[sperrenderer]], [[sperrenderes]], [[sperrendere]], [[sperrenderen]], [[sperrenderem]], [[sperrendster]], [[sperrendstes]], [[sperrendste]], [[sperrendsten]], [[sperrendstem]]
+[[sperrender]], [[sperrendes]], [[sperrende]], [[sperrenden]], [[sperrendem]], [[sperrenderer]], [[sperrenderes]], [[sperrendere]], [[sperrenderen]], [[sperrenderem]], [[sperrendster]], [[sperrendstes]], [[sperrendste]], [[sperrendsten]], [[sperrendstem]], [[freischalten]]

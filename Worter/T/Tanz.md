@@ -1,1 +1,1 @@
-, [[Liebestanz]], [[tanzen]]
+, [[Liebestanz]], [[tanzen]], [[Tanzritual]]

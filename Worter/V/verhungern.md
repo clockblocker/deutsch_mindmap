@@ -1,1 +1,1 @@
-, [[Atmen]], [[fressen]]
+, [[Atmen]], [[fressen]], [[ernähren]], [[nähren]]

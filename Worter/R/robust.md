@@ -25,4 +25,4 @@ robust
 Adjektive: [[robust]], [[robuster]], [[robustest]]
 
 ---
-[[robuster]], [[robustes]], [[robuste]], [[robusten]], [[robustem]], [[robusterer]], [[robusteres]], [[robustere]], [[robusteren]], [[robusterem]], [[robustester]], [[robustestes]], [[robusteste]], [[robustesten]], [[robustestem]]
+[[robuster]], [[robustes]], [[robuste]], [[robusten]], [[robustem]], [[robusterer]], [[robusteres]], [[robustere]], [[robusteren]], [[robusterem]], [[robustester]], [[robustestes]], [[robusteste]], [[robustesten]], [[robustestem]], [[langlebig]]

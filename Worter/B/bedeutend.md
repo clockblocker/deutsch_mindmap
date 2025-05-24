@@ -28,4 +28,4 @@ significant, important
 Adjektive: [[bedeutend]], [[bedeutender]], [[bedeutendst]]
 
 ---
-[[bedeutender]], [[bedeutendes]], [[bedeutende]], [[bedeutenden]], [[bedeutendem]], [[bedeutenderer]], [[bedeutenderes]], [[bedeutendere]], [[bedeutenderen]], [[bedeutenderem]], [[bedeutendster]], [[bedeutendstes]], [[bedeutendste]], [[bedeutendsten]], [[bedeutendstem]], [[wesentlich]], [[essenziell]], [[unschätzbar]], [[beträchtlich]], [[lebenswichtig]], [[prestigeträchtig]], [[tiefgründig]]
+[[bedeutender]], [[bedeutendes]], [[bedeutende]], [[bedeutenden]], [[bedeutendem]], [[bedeutenderer]], [[bedeutenderes]], [[bedeutendere]], [[bedeutenderen]], [[bedeutenderem]], [[bedeutendster]], [[bedeutendstes]], [[bedeutendste]], [[bedeutendsten]], [[bedeutendstem]], [[wesentlich]], [[essenziell]], [[unschätzbar]], [[beträchtlich]], [[lebenswichtig]], [[prestigeträchtig]], [[tiefgründig]], [[namhaft]]

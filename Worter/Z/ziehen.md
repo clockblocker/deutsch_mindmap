@@ -5,14 +5,14 @@ haben [[gezogen]]
 ---
 _Er [[mustert]] alle Dorfbewohner, [[greift]] plötzlich nach [[vorne]] und zieht Gran Gran nach vorne._
 
-- SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?\
-- Also [[ziehen]] Sie Ihre Strandkleider an!
+*[[C1-Hoehen-T1-100-Text#^22|^]]* Flammenturm: Ein mobiler Turm, der auf das [[Schlachtfeld]] [[zieht]], um Gegner zu verbrennen
 
 *Am Himmel dunkle [[Wolke]]n [[ziehen]]*  
 *Ich nehme artig meine Medizin*  
 
 „Liebe Laura“, sagte sie am Telefon, „ich weiß, wie traurig du bist wegen der Sache mit dem Haus. Ich möchte dir einen [[Vorschlag]] machen. Wie du weißt, [[ziehe]] ich bald ins [[Altersheim]]. Ich [[anbieten|biete]] dir meine kleine Wohnung in der [[Altstadt]] an. Sie ist nicht besonders groß, aber dafür bist du im schönsten Teil der Stadt, und es ist ein riesiger Park in der [[Nähe]], wo du spazieren gehen kannst. Finanziell könnten wir uns bestimmt [[einigen]].“ 
 
+SAM: Ich [[ziehe]] – du kommst. Du bist der Portier right?\
 
 ---
 + [[weiterziehen]] - [[weiter]] = [[ziehen]] / moved on, continued on

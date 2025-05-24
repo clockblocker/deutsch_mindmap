@@ -1,1 +1,1 @@
-[[regnen]], [[trocken]]
+[[regnen]], [[trocken]], [[nassmachen]]

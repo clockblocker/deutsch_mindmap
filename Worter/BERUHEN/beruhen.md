@@ -3,6 +3,9 @@
 ---
 *[[C1-Lesen-T2-102-Text#^16|^]]* Das Gewicht eines normal gebauten Menschen [[beruht]] zu etwa einem Drittel bis knapp der [[Hälfte]] auf Muskelmasse
 
+Es geht um auf langer Tradition [[beruhende]] modernisierte [[Behandlungsformen]]
+
+
 ---
 = [[basieren]], [[gründen]], [[abhangen]], [[zugrunde]]
 ≈ [[entspringen]], [[resultieren]], [[folgen]]

@@ -1,1 +1,1 @@
-, [[Geselle]], [[Meister]], [[räter]], [[Schwuler]], [[Weise]], [[Forscher]], [[Fachmann]], [[Anfänger]], [[Saatgutsammler]], [[Muttersprachler]], [[Techniker]], [[Ignorant]], [[Wissenschaftler]]
+, [[Geselle]], [[Meister]], [[räter]], [[Schwuler]], [[Weise]], [[Forscher]], [[Fachmann]], [[Anfänger]], [[Saatgutsammler]], [[Muttersprachler]], [[Techniker]], [[Ignorant]], [[Wissenschaftler]], [[Wirtschaftswissenschaftler]]

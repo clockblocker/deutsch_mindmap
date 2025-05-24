@@ -25,4 +25,4 @@ Feminine: [[Prominente]], [[prominentere]], [[prominenteste]]
 Neuter: [[prominentes]], [[prominenteres]], [[prominentestes]]  
 Plural: [[prominenten]], [[prominenteren]], [[prominentesten]]  
 
-[[Prominenz]], [[Prominentheit]], [[Prominentenrolle]]
+[[Prominenz]], [[Prominentheit]], [[Prominentenrolle]], [[namhaft]]

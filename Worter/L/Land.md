@@ -22,4 +22,4 @@ Einzigartige mögliche Formen: [[Landes]], [[Lande]], [[Länder]], [[Ländern]]
 
 ---
 #Substantiv #Neuter
-''', [[Lieblingsland]], [[Deutschland]], [[Landtagswahl]], [[Bundesland]], [[Landräte]], [[Bezirk]], [[Küste]], [[Landwirtschaft]], [[Grundstück]], [[landen]], [[Einwanderungsland]], [[einwandern]], [[Landessprache]], [[Einwanderung]], [[Herkunftsland]], [[Meeresboden]], [[Stadt]], [[Gewässer]]
+''', [[Lieblingsland]], [[Deutschland]], [[Landtagswahl]], [[Bundesland]], [[Landräte]], [[Bezirk]], [[Küste]], [[Landwirtschaft]], [[Grundstück]], [[landen]], [[Einwanderungsland]], [[einwandern]], [[Landessprache]], [[Einwanderung]], [[Herkunftsland]], [[Meeresboden]], [[Stadt]], [[Gewässer]], [[hierzulande]]

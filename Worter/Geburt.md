@@ -26,4 +26,4 @@ G: der [[Geburt]], der [[Geburten]]
 D: der [[Geburt]], den [[Geburten]]  
 
 ---
-[[gebären]], [[geboren]], [[Geburtstag]], [[Geburtsort]], [[Geburtstagsfest]], [[Standesamt]], [[Grab]], [[entstehen]], [[sterben]], [[Herkunft]], [[Todesfall]], [[Pitch]], [[Vorarbeit]], [[Geburtenrate]], [[hervorbringen]], [[Garaus]], [[Schwangerschaft]], [[angeboren]], [[hineingeboren]]
+[[gebären]], [[geboren]], [[Geburtstag]], [[Geburtsort]], [[Geburtstagsfest]], [[Standesamt]], [[Grab]], [[entstehen]], [[sterben]], [[Herkunft]], [[Todesfall]], [[Pitch]], [[Vorarbeit]], [[Geburtenrate]], [[hervorbringen]], [[Garaus]], [[Schwangerschaft]], [[angeboren]], [[hineingeboren]], [[Abtreibung]]

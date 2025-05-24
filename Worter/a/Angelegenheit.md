@@ -2,11 +2,11 @@
 die [[Angelegenheiten]]
 
 ---
-[[1 ADHD#^15|^]] [[erledigt]] [[Angelegenheit]]en nicht, außer unter hohem äußeren [[Termindruck]]
+*[[1 ADHD#^15|^]]* [[erledigt]] [[Angelegenheit]]en nicht, außer unter hohem äußeren [[Termindruck]]
 
 ---
 = [[Sache]], [[Worter/T/thema]], [[Frage]]
-≈ [[Anliegen]], [[Geschäft]], [[Aufgabe]], [[Problem]]
+≈ [[anliegen]], [[Geschäft]], [[Aufgabe]], [[Problem]]
 ≠ [[Nichts]], [[Unwichtiges]], [[Nebensächliches]], [[Kleinigkeit]]
 
 ---

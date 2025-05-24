@@ -24,4 +24,4 @@ G: der [[Wende]], der [[Wenden]]
 D: der [[Wende]], den [[Wenden]]  
 
 ---
-[[wenden]], [[wendend]], [[gewendet]], [[unwendbar]], [[Wendepunkt]], [[Wendung]]
+[[wenden]], [[wendend]], [[gewendet]], [[unwendbar]], [[Wendepunkt]], [[Wendung]], [[Jahrtausendwende]]

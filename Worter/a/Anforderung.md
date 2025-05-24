@@ -4,7 +4,7 @@
 die [[Anforderungen]]
 
 ---
-[[0 checklist#^2|^]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die [[Bewerbung]]? ^2
+[[0 checklist#^2|^]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die [[Bewerbung]]?
  
 ---
 = [[Bedarf]], [[Erfordernis]], [[Forderung]], [[Bedingung]]
@@ -26,6 +26,6 @@ D: der [[Anforderung]], den [[Anforderungen]]
 
 ---
 [[anfordern]], [[Anforderer]], [[Anforderin]], [[anfordernd]], [[anforderbar]]
-, [[Bedürfnis]], [[Grundvoraussetzung]], [[Aufgabenstellung]], [[Anliegen]], [[Beantragung]], [[Sachzwang]]
+, [[Bedürfnis]], [[Grundvoraussetzung]], [[Aufgabenstellung]], [[anliegen]], [[Beantragung]], [[Sachzwang]]
 
 #Feminin 

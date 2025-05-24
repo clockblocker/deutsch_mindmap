@@ -1,1 +1,1 @@
-, [[beraten]]
+, [[beraten]], [[Beratung]]

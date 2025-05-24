@@ -27,4 +27,4 @@ Einzigartige mögliche Formen: [[Schnitts]], [[Schnitt]], [[Schnitten]]
 ---
 #Substantiv #Maskulin
 
-, [[durchschnittliches]], [[Waldabschnitt]], [[Abschnitt]]
+, [[durchschnittliches]], [[Waldabschnitt]], [[Abschnitt]], [[überdurchschnittlich]]

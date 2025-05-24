@@ -92,7 +92,7 @@ Fleisch [[enthält]] [[verschiedene]] Proteine.
 
 Sie [[bewegt]] sich [[vorsichtig]] und langsam, um kein [[Geräusch]] zu machen.
 
-Die [[Worter/W/Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
+Die [[Wirtschaft]] [[übt aus|übt]] [[Druck]] auf Politiker aus.
 
 Sie [[verpassen]] den gesamten [[Vortrag]].
 

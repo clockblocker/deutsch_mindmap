@@ -2,8 +2,9 @@
 die [[Entstehungen]]
 
 ---
-*[[C1-Lesen-T4-100-Text#^8|^]]* Alle Kosten, die bei der [[Entstehung]] des Kunstobjekts [[anfallen]], also z. B. Arbeitszeit, Material, Werbung, Transport, Galerie- und Ausstellungskosten, Mieten, [[Lebenshaltungskosten]] und [[Versicherungen]], müssen [[aufgeschlagen]] werden, da es selten Massenproduktionen von Kunstobjekten gibt. ^8
+Interviews mit der [[Zielgruppe]] [[beitragen|trugen]] zur [[Entstehung]] dieses Buches bei.
 
+*[[C1-Lesen-T4-100-Text#^8|^]]* Alle Kosten, die bei der [[Entstehung]] des Kunstobjekts [[anfallen]], also z. B. Arbeitszeit, Material, Werbung, Transport, Galerie- und Ausstellungskosten, Mieten, [[Lebenshaltungskosten]] und [[Versicherungen]], müssen [[aufgeschlagen]] werden, da es selten Massenproduktionen von Kunstobjekten gibt
 
 ---
 = [[Gründung]], [[Bildung]], [[Ursprung]], [[Gründung]], [[Geburt]], [[entstehen]], [[Herkunft]]

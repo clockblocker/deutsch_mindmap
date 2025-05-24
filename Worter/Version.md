@@ -26,4 +26,4 @@ A: die [[Version]], die [[Versionen]]
 G: der [[Version]], der [[Versionen]]
 D: der [[Version]], den [[Versionen]]
 
-#Feminin 
+#Feminin , [[Auflage]]

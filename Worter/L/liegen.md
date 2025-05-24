@@ -1,36 +1,67 @@
-🛏️ [[liegen]] + Dat/Akk, [ˈliːɡn̩]
-[[lag]]
-haben [[gelegen]]
+
+
+
+🛌 [[liegen]], [ˈliːɡn̩](https://youglish.com/pronounce/liegen/german) → [[lag]] → [[gelegen]] | 🏠 die [[Lage]]
 
 ---
-🏠 die [[Lage]]
+
+*[[C1-Hoehen-T1-102-Text#^5|^]]* Anhand zahlreicher Beispiele aus der [[wahren]] Welt der Wirtschaft zeigt sie, wie [[überraschend]] groß der [[Einfluss]] von Unternehmen ist, deren [[Weltanschauung]] ethische [[Prinzip]]ien [[zugrunde]] [[liegen]]
+
+
+---
+= [[sich befinden]], [[ruhen]], [[verweilen]], 
+≈ [[sein]], [[existieren]], [[schlafen]],  [[unterliegen]], [[vorliegen]], [[aufliegen]], [[anliegen]]
+ [[zugrundeliegende]], 
+≠ [[stehen]], [[sitzen]], [[aufstehen]],  [[springen]],
+
+---
+to lie, to be situated  
+лежать, находиться
+
+---
+[[Lage]], [[Liegenschaft]], [[liegenbleiben]]
+
+---
+[[lieg]]|[[en]]
+[[liegen]]
 
 ---
 [[unterliegen]] - [[unter]] = [[liegen]] / to be defeated, to submit, to succumb
 [[vorliegen]] - [[vor]] = [[liegen]]        / to be available, to exist, to be present
 
 ---
-Synonyme: [[sich befinden]], [[positioniert sein]], [[ruhen]], [[verweilen]], [[rasten]], [[pausieren]]
-Antonyme: [[stehen]], [[sitzen]], [[gehen]], [[laufen]], [[rennen]]
+###### [[liegen]]
+- Wo [[liegt]] das Buch?
+- Auf dem Tisch.
+
+- Wo [[liegen]] wir?
+- Im Bett.
+
+- Warum [[hat]] es dort [[gelegen]]?
+- Weil ich es dort hingelegt habe.
 
 ---
-Übersetzung: to lie, to be situated
+###### [[liegen]] `an` jD
+- `Woran` [[liegt]] das Problem?
+- `An` mangelnder Kommunikation.
+
+- `Woran` [[liegt]] es?
+- `An` der schlechten Planung.
+
+- Warum [[hat]] es `daran` [[gelegen]]?
+- Weil die Umstände ungünstig waren.
 
 ---
-Morpheme: [[lieg]][[en]]
- #Verb #Untrennbar
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[lieg]] / [[liege]], [[lag]], [[liege]], [[läge]], -
+du, [[liegst]], [[lagst]], [[liege]], [[lägest]], [[lieg]] / [[liege]]
+er, [[liegt]], [[lag]], [[liege]], [[läge]], -
+wir, [[liegen]], [[lagen]], [[liegen]], [[lägen]], [[liegen]]
+ihr, [[liegt]], [[lagt]], [[liegt]], [[läget]], [[liegt]]
+sie, [[liegen]], [[lagen]], [[liegen]], [[lägen]], [[liegen]]
+
+*Zu + Inf*: zu [[liegen]], *P2*: [[gelegen]]
+Adjektive: [[liegend]], [[liegender]], [[liegendst]]
 
 ---
-
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[liege]]            | [[lag]]               | -                 | [[liege]]              | [[läge]]                |
-| Du        | [[liegst]]           | [[lagst]]             | [[liege]]         | [[liegest]]            | [[lägest]]              |
-| Er/sie/es | [[liegt]]            | [[lag]]               | -                 | [[liege]]              | [[läge]]                |
-| Wir       | [[liegen]]           | [[lagen]]             | -                 | [[liegen]]             | [[lägen]]               |
-| Ihr       | [[liegt]]            | [[lagt]]              | [[liegt]]         | [[lieget]]             | [[läget]]               |
-| Sie       | [[liegen]]           | [[lagen]]             | [[liegen Sie]]    | [[liegen]]             | [[lägen]]               |
-
-Partizip I: [[liegend]], Partizip II: [[gelegen]]
-
-[[liegen]] - no prefix, [[springen]], [[Lage]], [[Sitz]], [[unterliegen]], [[vorliegen]], [[zugrundeliegende]], [[aufliegen]], [[Anliegen]]
+[[liegender]], [[liegendes]], [[liegende]], [[liegenden]], [[liegendem]], [[liegenderer]], [[liegenderes]], [[liegendere]], [[liegenderen]], [[liegenderem]], [[liegendster]], [[liegendstes]], [[liegendste]], [[liegendsten]], [[liegendstem]]

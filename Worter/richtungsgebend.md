@@ -1,8 +1,7 @@
 🧭 [[richtungsgebend]], [ˈʁɪçtʊŋsˌɡeːbn̩t](https://youglish.com/pronounce/richtungsgebend/german)
 
 ---
-*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrechte]] _als_ [[richtungsgebende]] _Linie_ [[vorausgesetzt]] _werden, um strafbare von legalen_ [[Äußerungen]] _und_ [[Worter/T/Taten]] _zu_ [[unterscheiden]]. ^5
-
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrecht]]e _als_ [[richtungsgebend]]e _Linie_ [[voraussetzen|vorausgesetzt]] _werden, um [[strafbar]]e von [[legal]]en_ [[Äußerung]]en _und_ [[Tat]]en _zu_ [[unterscheiden]]
 
 
 ---

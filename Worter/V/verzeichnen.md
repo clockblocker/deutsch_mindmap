@@ -47,4 +47,4 @@ sie, [[verzeichnen]], [[verzeichneten]], [[verzeichnen]], [[verzeichneten]], [[v
 Adjektive: [[verzeichnend]], [[verzeichnender]], [[verzeichnendst]]
 
 ---
-[[verzeichnender]], [[verzeichnendes]], [[verzeichnende]], [[verzeichnenden]], [[verzeichnendem]], [[verzeichnenderer]], [[verzeichnenderes]], [[verzeichnendere]], [[verzeichnenderen]], [[verzeichnenderem]], [[verzeichnendster]], [[verzeichnendstes]], [[verzeichnendste]], [[verzeichnendsten]], [[verzeichnendstem]]
+[[verzeichnender]], [[verzeichnendes]], [[verzeichnende]], [[verzeichnenden]], [[verzeichnendem]], [[verzeichnenderer]], [[verzeichnenderes]], [[verzeichnendere]], [[verzeichnenderen]], [[verzeichnenderem]], [[verzeichnendster]], [[verzeichnendstes]], [[verzeichnendste]], [[verzeichnendsten]], [[verzeichnendstem]], [[Inhaltsverzeichnis]]

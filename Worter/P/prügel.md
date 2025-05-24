@@ -1,1 +1,1 @@
-, [[prügeln]], [[Prügelstrafe]]
+, [[prügeln]], [[Prügelstrafe]], [[verprügeln]]

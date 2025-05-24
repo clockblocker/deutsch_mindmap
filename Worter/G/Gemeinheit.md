@@ -1,1 +1,1 @@
-, [[gemein]]
+, [[gemein]], [[Allgemeinheit]]

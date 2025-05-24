@@ -1,1 +1,1 @@
-, [[Vernichtung]], [[Gebäude]], [[Baustelle]], [[Bauart]], [[Modellierung]], [[Konstruktionsbedingt]], [[Satzkonstruktion]], [[Zusammenbau]], [[Aufbau]], [[Schiffbau]]
+, [[Vernichtung]], [[Gebäude]], [[Baustelle]], [[Bauart]], [[Modellierung]], [[Konstruktionsbedingt]], [[Satzkonstruktion]], [[Zusammenbau]], [[Aufbau]], [[Schiffbau]], [[Gerüst]]

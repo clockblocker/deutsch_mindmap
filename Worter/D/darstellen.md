@@ -58,4 +58,4 @@ sie, [[stellen dar]], [[stellten dar]], [[stellen dar]], [[stellten dar]], [[ste
 – Mehr als zehn Jahre.
 
 
-[[freuen]], [[profilieren]], [[veranschaulichen]], [[erläutern]], [[vermitteln]], [[Selbstdarstellung]], [[auslegen]], [[verdeutlichen]]
+[[freuen]], [[profilieren]], [[veranschaulichen]], [[erläutern]], [[vermitteln]], [[Selbstdarstellung]], [[auslegen]], [[verdeutlichen]], [[ausmachen]]

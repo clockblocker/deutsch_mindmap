@@ -1,4 +1,4 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 , [[zeitgenössische]], [[heutig]], [[Reichskrone]], [[Geschichtsunterricht]], [[preußisch]]
-, [[althochdeutsch]], [[veraltet]], [[damalig]], [[geschichtlich]]
+, [[althochdeutsch]], [[veraltet]], [[damalig]], [[geschichtlich]], [[jahrhundertealt]]

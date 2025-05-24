@@ -75,4 +75,4 @@ Konjunktiv II:
 - Wenn er sich ausruhen wollte, [[schaltete aus|schaltete]] er das Handy [[aus]].
 - Wenn wir fertig wären, [[schalteten aus|schalteten]] wir den Motor [[aus]].
 - Wenn ihr müde wärt, [[schaltetet aus|schaltetet]] ihr das Licht [[aus]].
-- Wenn sie keine Lust hätten, [[schalteten aus|schalteten]] sie das Radio [[aus]]., [[aufdrehen]], [[ermorden]], [[aufleuchten]], [[Hochfahren]], [[vernichten]], [[entfernen]], [[einstellen]], [[abschalten]]
+- Wenn sie keine Lust hätten, [[schalteten aus|schalteten]] sie das Radio [[aus]]., [[aufdrehen]], [[ermorden]], [[aufleuchten]], [[Hochfahren]], [[vernichten]], [[entfernen]], [[einstellen]], [[abschalten]], [[ausmachen]]

@@ -1,13 +1,11 @@
  ! [[Passiv-Ingredient-POV]] !
-explain
-
-[[klären]], [[verantworten]], [[umschreiben]], [[veranschaulichen]]
-*clarify, account for, rewrite, illustrate*
 
 🗣️ [[erläutern]], [ɛɐ̯ˈlɔɪ̯tɐn](https://youglish.com/pronounce/erläutern/german) → [[erläuterte]] → haben [[erläutert]]
 
 ---
-	+	[[Erläutern]] Sie mögliche Argumente des Arbeitgebers gegen Home-Office.
+*[[C1-Hoehen-T1-102-Text#^11|^]]* "Wirtschaftsethik" [[erläutert]] es [[Normalsterbliche]]n nämlich [[dankenswerterweise]] einmal und zwar als: [[Überbrückung]] des [[Spannungsverhältniss]]es der [[marktwirtschaftlich]]en [[Gewinnorientierung]] und [[gesellschaftlich]]en [[Moralvorstellung]]en und [[einführen|führt]] auch weitere allgemeine [[Begriff]]e der Wirtschaftsethik auf eine einfache und verständliche Art und [[Weise]] ein
+
+[[Erläutern]] Sie mögliche Argumente des Arbeitgebers gegen Home-Office.
 
 ---
 = [[erklären]], [[verdeutlichen]], [[ausführen]]
@@ -50,4 +48,4 @@ sie, [[erläutern]], [[erläuterten]], [[erläutern]], [[erläuterten]], [[erlä
 Adjektive: [[erläuternd]], [[erläuternder]], [[erläuterndst]]
 
 ---
-[[erläuternder]], [[erläuterndes]], [[erläuternde]], [[erläuternden]], [[erläuterndem]], [[erläuternderer]], [[erläuternderes]], [[erläuterndere]], [[erläuternderen]], [[erläuternderem]], [[erläuterndster]], [[erläuterndstes]], [[erläuterndste]], [[erläuterndsten]], [[erläuterndstem]], [[schildern]], [[klarmachen]], [[näherbringen]]
+[[erläuternder]], [[erläuterndes]], [[erläuternde]], [[erläuternden]], [[erläuterndem]], [[erläuternderer]], [[erläuternderes]], [[erläuterndere]], [[erläuternderen]], [[erläuternderem]], [[erläuterndster]], [[erläuterndstes]], [[erläuterndste]], [[erläuterndsten]], [[erläuterndstem]], [[schildern]], [[klarmachen]], [[näherbringen]], [[aufzeigen]]

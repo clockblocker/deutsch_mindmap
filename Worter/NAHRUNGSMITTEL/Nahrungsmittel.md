@@ -1,1 +1,1 @@
-, [[Nahrung]]
+, [[Nahrung]], [[Nahrungsergänzungsmittel]]

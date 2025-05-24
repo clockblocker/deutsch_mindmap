@@ -1,1 +1,1 @@
-, [[abschaffen]]
+, [[abschaffen]], [[Abschaffung]]

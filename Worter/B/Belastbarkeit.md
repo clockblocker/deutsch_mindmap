@@ -1,2 +1,2 @@
 
-, [[Durchhaltevermögen]], [[Belastung]]
+, [[Durchhaltevermögen]], [[Belastung]], [[Widerstandsfähigkeit]], [[Resilienz]]

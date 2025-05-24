@@ -1,10 +1,10 @@
-, [[sein]], [[fehlen]]
-
 🟢 [[sein]], [zaɪ̯n]  
 [[war]]
 [[gewesen]]
 
 ---
+*[[C1-Hoehen-T1-102-Text#^15|^]]* Für die meisten von uns seien dies aber Themen, die uns irgendwann einmal [[begegnen]] und wir dann diesen [[Börsenhai]] oder auch unserer eigenen [[Dummheit]] [[ausgeliefert]] [[seien]]
+
 SASCHA: So, die wären wir los!  
 
 *[[Sei]] hübsch ordentlich und fromm,*  

@@ -1,1 +1,1 @@
-, [[bitten]], [[anflehen]], [[Gebet]]
+, [[bitten]], [[anflehen]], [[Gebet]], [[beschwören]]

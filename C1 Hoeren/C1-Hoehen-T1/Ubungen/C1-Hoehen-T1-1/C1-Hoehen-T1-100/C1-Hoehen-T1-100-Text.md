@@ -96,3 +96,43 @@ c Buch 3 -
 
 
 
+
+Alle [[angrenzenden]] [[Felder]] [[verursachen]] nun [[Giftschaden]]. Ein [[Stapel]] Gift pro [[Stufe]].
+
+[[hinzuFügt|Fügt]] der  [[ausgewählten]]  [[Truppe]] 9 [[Einheiten]]  hinzu.
+
+*[[C1-Hoehen-T1-100-Text#^22|^]]* Flammenturm: Ein mobiler Turm, der auf das [[Schlachtfeld]] [[zieht]], um Gegner zu verbrennen. ^22
+
+
+*[[C1-Hoehen-T1-100-Text#^23|^]]* [[Festung]]: [[Beschwört]] Türme, die auf nahe Gegner [[schießen]]. ^23
+
+
+*[[C1-Hoehen-T1-100-Text#^24|^]]* [[Erdarbeiten]]: [[freiSchaltet|Schaltet]] [[angrenzende]] Felder des [[Ziels]] [[frei]]. Du [[erhältst]] bis zu 3 Kopien seiner Karte. ^24
+
+
+
+
+
+Hab gehört, die Abschaffung der Turboeinbürgerung sei ein Zugeständnis an die AFD-base, to move them close to center
+
+Es gibt ein gutes russisches Sprichwort dazu:
+
+Wer sagt „schlagt mich nicht, pinkelt lieber auf mich“, wird am Ende nassgemacht und verprügelt
+
+[[milieu]]
+⸻
+
+could optionally punch up the last line for tone, e.g.:
+
+…wird am ende sowohl nassgemacht als auch verprügelt.
+
+---
+
+
+*[[C1-Hoehen-T1-100-Text#^25|^]]* Hab gehört, die [[Abschaffung]] der Turboeinbürgerung sei ein [[Zugeständnis]] an die AfD-[[Wählerschaft]], um sie näher zur Mitte zu [[holen]]. ^25
+
+
+*[[C1-Hoehen-T1-100-Text#^26|^]]* Es gibt ein gutes russisches [[Sprichwort]] dazu: ^26
+
+
+*[[C1-Hoehen-T1-100-Text#^27|^]]* Wer sagt „Schlagt mich nicht, pinkelt lieber auf mich“, wird am Ende [[nassgemacht]] und [[verprügelt]]. ^27

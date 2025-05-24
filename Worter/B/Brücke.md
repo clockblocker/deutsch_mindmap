@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Brücke]], [[Brücken]], [[Brücke]], [[Brücken]], [[Brücke]], [[Brücke]], [[Brücken]], [[Brücken]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[Überbrückung]], [[Brückung]]

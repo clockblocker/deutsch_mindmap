@@ -5,7 +5,10 @@
 haben [[beteiligt]]
 
 ---
-Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war. Es war an den ersten [[Angriffen]] der Feuernation [[beteiligt]].
+Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war. 
+Es war an den ersten [[Angriff]]en der Feuernation [[beteiligt]].
+
+*[[C1-Hoehen-T1-101-Text#^9|^]]* [[Ausgehend]] davon, dass Aminosäuren, Vitamine und [[Mineralstoffe]] das [[Gerüst]] unseres Körpers [[ausmachen]] und an den [[Stoffwechselprozess]]en [[beteiligt]] sind, wirft die Ökotrophologin Alev Bükey-Schneider in ihrem Ratgeber einen Blick auf den [[Nährstoffgehalt]] von Obst und Gemüse in unseren Supermärkten
 
 *[[C1-Hoehen-T2-202-Text#^20|^]]* Wir müssen den [[Politikverdrossenen]] zeigen, dass es [[durchaus]] Sinn macht, sich an den Wahlen zu [[beteiligen]]
 

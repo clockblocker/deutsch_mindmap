@@ -3,6 +3,8 @@
 ---
 [[Verschwinde]] aus unserem Dorf und [[zwar]] sofort!
 
+*[[C1-Hoehen-T1-101-Text#^15|^]]* Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollenen]] [[Wissen]] über [[Heilkunde]] [[hierzulande]] und international wuchs
+
 Wenn ich das Geld [[verschwende]], ist das Gelt [[verschwunden]]
 
 != [[erscheinen]] 

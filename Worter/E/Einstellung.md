@@ -25,4 +25,4 @@ G: der [[Einstellung]], der [[Einstellungen]]
 D: der [[Einstellung]], den [[Einstellungen]]
 
 
-#Feminin , [[Sichtweise]], [[Denkweise]]
+#Feminin , [[Sichtweise]], [[Denkweise]], [[Abschaffung]], [[Moralvorstellung]]

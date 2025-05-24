@@ -1,7 +1,11 @@
 🥊 [[niederschlagen]], [ˈniːdɐˌʃlaːɡn̩](https://youglish.com/pronounce/niederschlagen/german) → [[schlug nieder]] → haben [[niedergeschlagen]] | 💧 [[niederschlagen]], [ˈniːdɐˌʃlaːɡn̩] → [[schlug nieder]] → haben [[niedergeschlagen]]
 
 ---
-*[[C1-Lesen-T4-100-Text#^3|^]]* Die finanziellen [[Ausgabe]]n [[niederschlagen|schlagen]] sich im Preis des Objekts nieder. ^3
+*[[C1-Lesen-T4-100-Text#^3|^]]* Die finanziellen [[Ausgabe]]n [[niederschlagen|schlagen]] `sich` im Preis des Objekts nieder
+*(The financial expenses are [[reflected]] in the price of the object.)*
+
+*[[C1-Hoehen-T1-101-Text#^11|^]]* Dies [[niederschlägt|schlägt]] `sich` dann im [[Nährstoffgehalt]] der Früchte nieder
+*(This then [[affects]] the nutrient content of the fruits.)*
 
 
 ---
@@ -10,7 +14,7 @@
 ≠ [[aufrichten]], [[erheben]] | [[aufsteigen]], [[verdunsten]]
 
 ---
-reflect, to knock down, to defeat | to precipitate, to condense  
+reflect, affect | to knock down, to defeat | to precipitate, to condense  
 сбить с ног, победить | выпадать в осадок, конденсироваться
 
 ---

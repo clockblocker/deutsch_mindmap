@@ -67,4 +67,4 @@ Einzigartige mögliche Formen:
 , [[11 08]], [[s1 e1]]
 
 [[geselle]], [[Gesellschaft]], 
-, [[solche]], [[dieselbe]], [[gleichzeitig]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichheit]], [[Ungleichbehandlung]], [[Ausgleich]], [[gleichermaßen]], [[Sobald]], [[gleichaltrig]], [[Gleichaltrige]], [[Gleichgültigkeit]], [[konträr]], [[ungleich]], [[gleichmäßig]], [[Gleichung]], [[dergleichen]]
+, [[solche]], [[dieselbe]], [[gleichzeitig]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichheit]], [[Ungleichbehandlung]], [[Ausgleich]], [[gleichermaßen]], [[Sobald]], [[gleichaltrig]], [[Gleichaltrige]], [[Gleichgültigkeit]], [[konträr]], [[ungleich]], [[gleichmäßig]], [[Gleichung]], [[dergleichen]], [[gleichnamig]]

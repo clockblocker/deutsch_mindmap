@@ -2,9 +2,11 @@
 die [[Erfolge]]
 
 ---
-[[16 Plusquamperfekt#^26|^]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon **[[während]] seines Lebens und auch nach seinem Tod** hatte er großen [[Erfolg]]. ^26
+[[16 Plusquamperfekt#^26|^]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon **[[während]] seines Lebens und auch nach seinem Tod** hatte er großen [[Erfolg]]
 
-Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfwungen]].
+Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfwungen]]
+
+*[[C1-Hoehen-T1-101-Text#^7|^]]* Betont wird in diesem Sachbuch, dass sich die Schulmedizin in Deutschland mit alternativer Medizin noch [[schwertut]] und die EAV wohl trotz großer [[Erfolg]]e noch einen langen Weg vor sich hat, bevor sie als [[Kassenleistung]] [[anerkannt]] wird
 
 *[[C1-Lesen-T2-102-Text#^2|^]]* Vergleicht man die schnellsten 100-Meter-Läufer mit den besten [[Marathonläufern]] der Welt, so fällt einem sofort ins Auge: [[Ausdauersport]] scheint zum [[Erfolg]] zu führen
 

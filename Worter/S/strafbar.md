@@ -2,6 +2,8 @@
 👮 [[strafbar]], [ˈʃtʁaːfbaːɐ̯](https://youglish.com/pronounce/strafbar/german)
 
 ---
+*[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrecht]]e _als_ [[richtungsgebend]]e _Linie_ [[voraussetzen|vorausgesetzt]] _werden, um [[strafbar]]e von [[legal]]en_ [[Äußerung]]en _und_ [[Tat]]en _zu_ [[unterscheiden]]
+
 um strafbare von legalen Äußerungen und Taten zu unterscheiden
 
 ---

@@ -1,1 +1,1 @@
-, [[Auflistung]], [[verzeichnen]]
+, [[Auflistung]], [[verzeichnen]], [[Inhaltsverzeichnis]]

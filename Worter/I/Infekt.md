@@ -1,1 +1,1 @@
-, [[Schnupfen]], [[Grippe]]
+, [[Schnupfen]], [[Grippe]], [[Infektanfälligkeit]]

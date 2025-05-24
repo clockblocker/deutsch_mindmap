@@ -24,4 +24,4 @@ G: [[des Angelegenen]], [[der Angelegenheiten]]
 D: [[dem Angelegenen]], [[den Angelegenheiten]]  
 
 ---
-[[angelegen sein]], [[angelegen sein an]], [[Angelegenheit]]
+[[angelegen sein]], [[angelegen sein an]], [[Angelegenheit]], [[anliegen]]

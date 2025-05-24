@@ -32,4 +32,4 @@ G: der [[Umfrage]], der [[Umfragen]]
 D: der [[Umfrage]], den [[Umfragen]]
 
 
-#Feminin 
+#Feminin , [[Zufriedenheitsumfrage]]

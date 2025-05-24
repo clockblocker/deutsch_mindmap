@@ -28,4 +28,4 @@ G: des [[Gewichts]], der [[Gewichte]]
 D: dem [[Gewicht]], den [[Gewichten]]
 
 
-#Neuter , [[Arbeitskonzept]], [[Manager]], [[Übergewichtigkeit]], [[abwägen]], [[ungewogen]], [[Traumgewicht]], [[Körperfett]], [[Hantelgewicht]], [[übergewichtig]]
+#Neuter , [[Arbeitskonzept]], [[Manager]], [[Übergewichtigkeit]], [[abwägen]], [[ungewogen]], [[Traumgewicht]], [[Körperfett]], [[Hantelgewicht]], [[übergewichtig]], [[Relevanz]]

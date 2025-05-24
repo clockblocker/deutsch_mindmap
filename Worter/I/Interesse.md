@@ -14,7 +14,7 @@ die [[Interessen]]
 
 , [[Kunstinteresse]]
 , [[Freizeitaktivität]]
-, [[Aufmerksamkeit]], [[Neugier]], [[Bedürfnis]], [[Lernbereitschaft]], [[Vorliebe]], [[Anliegen]], [[Motivation]]
+, [[Aufmerksamkeit]], [[Neugier]], [[Bedürfnis]], [[Lernbereitschaft]], [[Vorliebe]], [[anliegen]], [[Motivation]]
 
 ---
 interest  
@@ -34,4 +34,4 @@ G: des [[Interesses]], der [[Interessen]]
 D: dem [[Interesse]], den [[Interessen]]
 
 
-#Neuter , [[lenken]], [[verlangen]], [[Zulauf]], [[Politikmüdigkeit]]
+#Neuter , [[lenken]], [[verlangen]], [[Zulauf]], [[Politikmüdigkeit]], [[Relevanz]]

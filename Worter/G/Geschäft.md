@@ -3,6 +3,8 @@
 ---
 Man kann zum Beispiel das Fahrrad statt des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, [[anstatt]] in modischen [[Geschäften]] ständig [[Neues]] zu [[erwerben]].
 
+*[[C1-Hoehen-T1-101-Text#^15|^]]* Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en Wissen über [[Heilkunde]] [[hierzulande]] und international wuchs
+
 Man kann zum Beispiel das Fahrad statt des Autos als Verrkehrsmittel nutzuen der Kleidung in Secong-Hand-Läden kausen, anstatt im modlichen Geschäften ständig Neues zu erweben 
 
 *[[C1-Hoehen-T2-203-Text#^14|^]]* Das ist natürlich ein [[riesig]]es [[Geschäft]]

@@ -1,1 +1,1 @@
-, [[Abbildung]], [[Artikel]], [[Nutzungsdaten]], [[Lückentext]], [[Textaufbau]], [[Textsorte]]
+, [[Abbildung]], [[Artikel]], [[Nutzungsdaten]], [[Lückentext]], [[Textaufbau]], [[Textsorte]], [[Inhaltsverzeichnis]]

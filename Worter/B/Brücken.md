@@ -1,1 +1,1 @@
-, [[Brücke]]
+, [[Brücke]], [[Brückung]]

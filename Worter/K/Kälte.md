@@ -1,1 +1,1 @@
-, [[Erbarmen]], [[abkühlen]], [[Heiztemperatur]], [[Funk]]
+, [[Erbarmen]], [[abkühlen]], [[Heiztemperatur]], [[Funk]], [[Kühlung]]

@@ -24,3 +24,5 @@ N: die [[Schlacht]], die [[Schlachten]]
 A: die [[Schlacht]], die [[Schlachten]]  
 G: der [[Schlacht]], der [[Schlachten]]  
 D: der [[Schlacht]], den [[Schlachten]]
+
+#Feminin 

@@ -1,2 +1,2 @@
 🔴 die [[Speise]]
-, [[Büfett]], [[abspeisen]]
+, [[Büfett]], [[abspeisen]], [[ernähren]], [[nähren]]

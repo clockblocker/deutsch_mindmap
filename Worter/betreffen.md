@@ -47,4 +47,4 @@ Zu+infinifive: [[zu betreffen]]
 
 ---
 [[Betroffenheit]], [[Betroffener]], [[Betroffene]], [[betreffen]], [[betreffend]]
-🎯 [[betreffen]], [[Interpretation]]
+🎯 [[betreffen]], [[Interpretation]], [[anliegen]]

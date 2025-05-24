@@ -1,4 +1,4 @@
 --> ⏱️ [[Temporal-Dauerhaft]] <--
 
 
-, [[Vergangenheit]], [[dauerhaft]], [[kurzlebig]]
+, [[Vergangenheit]], [[dauerhaft]], [[kurzlebig]], [[langlebig]]

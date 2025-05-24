@@ -1,1 +1,1 @@
-, [[knüpfen]], [[Verknüpfung]], [[Verknüpfung]]
+, [[knüpfen]], [[Verknüpfung]], [[Verknüpfung]], [[verknüpfen]]

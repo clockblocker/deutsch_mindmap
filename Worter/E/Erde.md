@@ -1,1 +1,1 @@
-, [[Welt]], [[Erden]], [[Blum]], [[Weltraum]]
+, [[Welt]], [[Erden]], [[Blum]], [[Weltraum]], [[Erdarbeit]]

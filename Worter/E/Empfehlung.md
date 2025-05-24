@@ -3,6 +3,10 @@
 ---
 *[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]
 
+*[[C1-Hoehen-T1-102-Text#^13|^]]* Auch in meiner dritten [[Empfehlung]] geht es um Wirtschaft: Kim Leuters [[aussprechen|spricht]] `sich` in seinem neuen Werk "Fit für Finanzen" für das [[Schulfach]] "[[Finanz]]en" aus, das seiner Meinung nach ein Muss in jeder [[Schulform]] sei
+
+*[[C1-Hoehen-T1-102-Text#^3|^]]* Es [[verknüpft]], wie alle meine [[Empfehlung]]en heute, Wirtschaft mit Ethik
+
 *[[C1-Hoehen-T1-202-Text#^18|^]]* Und da sind wir auch schon bei meiner letzten [[Empfehlung]]. ^18
 
 
@@ -28,4 +32,4 @@ A: die [[Empfehlung]], die [[Empfehlungen]]
 G: der [[Empfehlung]], der [[Empfehlungen]]
 D: der [[Empfehlung]], den [[Empfehlungen]]
 
-#Feminin 
+#Feminin , [[Beratung]], [[Universitätsempfehlung]]

@@ -24,3 +24,5 @@ Dative: der [[Besprechung]], den [[Besprechungen]]
 
 ---
 [[besprechen]], [[besprechend]], [[besprechbar]], [[beschließen]], [[Rezension]], [[Besprechungsraum]]
+
+#Feminin 

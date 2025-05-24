@@ -1,1 +1,1 @@
-, [[Fürstentum]], [[Wachstum]], [[Spießbürgertum]], [[Irrtum]]
+, [[Fürstentum]], [[Wachstum]], [[Spießbürgertum]], [[Irrtum]], [[Bürgertum]]

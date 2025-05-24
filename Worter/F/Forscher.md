@@ -4,6 +4,8 @@ die [[Forscher]]
 ---
 Die [[Forscher]] entwickeln ein neues Medikament.
 
+1 [[Forscher]]:innen geben [[Tipps]] in diesem Buch.  
+
 
 ---
 = [[Wissenschaftler]], [[Wissenschaftlerin]], [[Gelehrter]]
@@ -27,3 +29,5 @@ D: dem [[Forscher]], den [[Forschern]]
 
 , [[Recher]], [[Abenteurer]]
 , [[erforschen]]
+
+#Maskulin 

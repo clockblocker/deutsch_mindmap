@@ -40,4 +40,4 @@ A: die [[Überzeugung]], die [[Überzeugungen]]
 G: der [[Überzeugung]], der [[Überzeugungen]]
 D: der [[Überzeugung]], den [[Überzeugungen]]
 
-#Feminin 
+#Feminin , [[Weltanschauung]]

@@ -1,6 +1,8 @@
 🎯 [[schießen]], [ˈʃiːsən] | [[schoss]], haben [[geschossen]]
 
 ---
+*[[C1-Hoehen-T1-100-Text#^23|^]]* [[Festung]]: [[Beschwört]] Türme, die auf nahe Gegner [[schießen]]
+
 *Er trug die Brille auf der Nas*  
 *und wollte [[schießen]] [[tot]] den Has.*
 

@@ -6,6 +6,9 @@
 ---
 Wir [[ausgehen|gehen]] davon aus, dass du kommst.
 
+*[[C1-Hoehen-T1-101-Text#^9|^]]* [[Ausgehend]] davon, dass Aminosäuren, Vitamine und [[Mineralstoffe]] das [[Gerüst]] unseres Körpers [[ausmachen]] und an den [[Stoffwechselprozessen]] [[beteiligt]] sind, wirft die Ökotrophologin Alev Bükey-Schneider in ihrem Ratgeber einen Blick auf den [[Nährstoffgehalt]] von Obst und Gemüse in unseren Supermärkten. ^9
+
+
 *[[C1-Hoehen-T2-100-Text#^17|^]]* Es gibt hier verschiedene Vorschläge, die meisten [[ausgehen|gehen]] von 1000 bis 1200 Euro monatlich aus.
 
 *[[Golfstorm#^5|^]]* Einige Studien [[ausgehen|gehen]] sogar von einem Kollaps bis zur [[Jahrhundertmitte]] aus

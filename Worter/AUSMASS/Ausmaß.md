@@ -1,1 +1,1 @@
-, [[Umfang]], [[Quantität]]
+, [[Umfang]], [[Quantität]], [[ausmachen]]

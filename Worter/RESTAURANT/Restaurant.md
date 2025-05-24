@@ -5,7 +5,7 @@ die [[Restaurants]]
 
 ---
 = [[Gaststätte]], [[Speiselokal]], [[Gasthaus]]
-≈ [[Lokal]], [[Beiz]], [[Worter/W/Wirtschaft]], [[Imbiss]]
+≈ [[Lokal]], [[Beiz]], [[Wirtschaft]], [[Imbiss]]
 ≠, [[Kantine]]
 
 ---

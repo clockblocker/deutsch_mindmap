@@ -1,1 +1,1 @@
-, [[Weise]], [[verhalten]]
+, [[Weise]], [[verhalten]], [[Wirkungsweise]]

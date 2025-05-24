@@ -2,3 +2,4 @@
 
 --> [[⛪ Ingredient-Plazt]] <--
 
+, [[Nährstoffgehalt]]
