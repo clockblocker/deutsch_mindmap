@@ -3,6 +3,8 @@
 ---
 Machen Sie einen Vorschlag, wie jeder [[Einzelne]] `zum` Klimaschutz [[beitragen]] kan
 
+*[[C1-Hoehen-T2-101-Text#^21|^]]* Die Urbanisierung [[beitragen|trägt]] u. a. dazu bei, dass Kinder und Jugendliche eine immer [[schwäch]]ere [[Bindung]] zu der Natur haben und diese somit immer mehr zu etwas [[Abstraktem]] wird
+
 Interviews mit der [[Zielgruppe]] [[beitragen|trugen]] `zur` [[Entstehung]] dieses Buches [[bei]]
 
 *[[001-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] `zum` [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en

@@ -8,7 +8,7 @@
 *[[C1-Hoehen-T2-100-Text#^28|^]]* Natürlich [[erfordert]] jede [[gewonnene]] Freiheit immer auch, dass man sich aktiv mit den gewonnenen Möglichkeiten [[auseinandersetzt]]
 
 ---
-= [[benötigen]], [[verlangen]], [[fordern]]
+= [[benötigen]], [[Verlangen]], [[fordern]]
 ≈ [[brauchen]], [[notwendig sein]], [[voraussetzen]],  [[bedürfen]],
 ≠ [[vermeiden]], [[entbehren]]
 

@@ -24,4 +24,4 @@ youthful, adolescent
 Adjektive: [[jugendlich]], [[jugendlicher]], [[jugendlichst]]
 
 ---
-[[jugendlicher]], [[jugendliches]], [[jugendliche]], [[jugendlichen]], [[jugendlichem]], [[jugendlicherer]], [[jugendlicheres]], [[jugendlichere]], [[jugendlicheren]], [[jugendlicherem]], [[jugendlichster]], [[jugendlichstes]], [[jugendlichste]], [[jugendlichsten]], [[jugendlichstem]]
+[[jugendlicher]], [[jugendliches]], [[jugendliche]], [[jugendlichen]], [[jugendlichem]], [[jugendlicherer]], [[jugendlicheres]], [[jugendlichere]], [[jugendlicheren]], [[jugendlicherem]], [[jugendlichster]], [[jugendlichstes]], [[jugendlichste]], [[jugendlichsten]], [[jugendlichstem]], [[minderjährig]]

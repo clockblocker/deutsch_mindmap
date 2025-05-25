@@ -5,12 +5,12 @@
 ---
 Das Töten eines Gegners hat eine 5%-Chance, einen [[Strahl]] aus dem Boden [[hervorzurufen]],  
 
+*[[C1-Hoehen-T2-101-Text#^11|^]]* Aufgrund der [[Zunahme]] von individualistischen Strukturen sehen sich in [[derart]] [[geprägt]]en [[Gesellschaft]]en immer mehr Menschen dem Klimawandel [[machtlos]] [[gegenüberstehen]], da ihre [[Weltanschauung]] ja auch eher solche [[Denkweise]]n [[hervorruft]]
+
 ---
-= [[auslösen]], [[verursachen]], [[bewirken]]
+= [[auslösen]], [[verursachen]], [[bewirken]], [[ergeben]], [[verursachen]]
 ≈ [[erzeugen]], [[generieren]], [[provozieren]]
 ≠ [[verhindern]], [[unterdrücken]], [[vermeiden]]
-
-, [[Worter/ergeben]], [[verursachen]]
 
 
 ---

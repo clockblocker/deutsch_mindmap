@@ -1,1 +1,1 @@
-, [[feinden]], [[Feind]], [[Alliierte]]
+, [[feinden]], [[Feind]], [[Alliierte]], [[Anhängerschaft]]

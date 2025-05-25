@@ -13,7 +13,7 @@ Ist aber ganz [[dringend]]!
 
 ---
 = [[eindringen]], [[vordringen]], [[penetrieren]] | [[bestehen auf]], [[beharren]]
-≈ [[eindringen]], [[durchdringen]] | [[verlangen]], [[fordern]]
+≈ [[eindringen]], [[durchdringen]] | [[Verlangen]], [[fordern]]
 ≠ [[zurückweichen]], [[entweichen]] | [[nachgeben]], [[verzichten]]
 
 ---

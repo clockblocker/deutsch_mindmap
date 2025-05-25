@@ -2,10 +2,10 @@
 die [[Herkünfte]]
 
 ---
-3.	[[2 Unter Druck nach oben#^24|^]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine entscheidende Rolle. ^24
+*[[2 Unter Druck nach oben#^24|^]]* [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine entscheidende Rolle. ^24
 
 
-- Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann.  
+Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann.  
 
 
 ---

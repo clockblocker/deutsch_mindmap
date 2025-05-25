@@ -1,1 +1,1 @@
-, [[Zehrung]]
+, [[Zehrung]], [[Küchengut]]

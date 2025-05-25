@@ -1,1 +1,1 @@
-, [[verfeinden]], [[rächen]]
+, [[verfeinden]], [[rächen]], [[unversöhnlich]], [[Versöhnung]]

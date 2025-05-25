@@ -6,80 +6,52 @@
       {
         "id": "9ae62ba49903753d",
         "type": "tabs",
-        "dimension": 69.32966023875115,
+        "dimension": 62.98472385428907,
         "children": [
           {
-            "id": "b67564e2f6a2e611",
+            "id": "25f3708c6d88586d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-1/C1-Hoehen-T1-100/C1-Hoehen-T1-100-Text.md",
+                "file": "Worter/S/schwach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Hoehen-T1-100-Text"
+              "title": "schwach"
             }
           },
           {
-            "id": "de7fe3da2bc69beb",
+            "id": "bb484305ae4133d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/0-C1-Hoehen-T1-Ubung-List.md",
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-101/C1-Hoehen-T2-101-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-C1-Hoehen-T1-Ubung-List"
+              "title": "C1-Hoehen-T2-101-Text"
             }
           },
           {
-            "id": "f4ccbf0f2ea3d61a",
+            "id": "eb7f25c6570c6fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-1/C1-Hoehen-T1-101/C1-Hoehen-T1-101-Text.md",
+                "file": "Worter/B/Bewegung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Hoehen-T1-101-Text"
+              "title": "Bewegung"
             }
           },
           {
-            "id": "92b2bbd29a717f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/0-C1-Hoehen-T1-Ubung-List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0-C1-Hoehen-T1-Ubung-List"
-            }
-          },
-          {
-            "id": "39a3399b9c2d0629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-1/C1-Hoehen-T1-102/C1-Hoehen-T1-102-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Hoehen-T1-102-Text"
-            }
-          },
-          {
-            "id": "91a51f74a545e040",
+            "id": "8aa7246f7a2d5eb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,43 +65,49 @@
             }
           },
           {
-            "id": "50875db482f9cbdb",
+            "id": "2199cdd246ec58e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/E/erläutern.md",
+                "file": "C1 Hoeren/C1-Hoehen-T2/0-C1-Hoehen-T2-Ubung-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "erläutern"
+              "title": "0-C1-Hoehen-T2-Ubung-List"
             }
           },
           {
-            "id": "652f2237ec11cb65",
+            "id": "fae4f7d1a847b32f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/V/verknüpfen.md",
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-100/C1-Hoehen-T2-100-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "verknüpfen"
+              "title": "C1-Hoehen-T2-100-Text"
             }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "b4b3be7f593f040b",
-        "type": "tabs",
-        "dimension": 30.670339761248854,
-        "children": [
+          },
           {
-            "id": "a8a6caa3cc180ef0",
+            "id": "88eec62c1bd4befd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T2/0-C1-Hoehen-T2-Ubung-List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-C1-Hoehen-T2-Ubung-List"
+            }
+          },
+          {
+            "id": "87dd04117534ece5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,6 +118,56 @@
               },
               "icon": "lucide-file",
               "title": "C1-Hoehen-T2-101-Text"
+            }
+          },
+          {
+            "id": "217dc183f33d1812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/A/aufpassen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aufpassen"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "b4b3be7f593f040b",
+        "type": "tabs",
+        "dimension": 37.01527614571093,
+        "children": [
+          {
+            "id": "1af75252fffdcfc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-101/C1-Hoehen-T2-101-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Hoehen-T2-101-Text"
+            }
+          },
+          {
+            "id": "91a51f74a545e040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-100/C1-Hoehen-T2-100-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Hoehen-T2-100-Text"
             }
           }
         ]
@@ -199,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5004348754883
+    "width": 331.50271224975586
   },
   "right": {
     "id": "66459609b2a42235",
@@ -292,45 +320,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91a51f74a545e040",
+  "active": "1af75252fffdcfc5",
   "lastOpenFiles": [
+    "C1 Hoeren/C1-Hoehen-T2/0-C1-Hoehen-T2-Ubung-List.md",
+    "Worter/hervorruft.md",
+    "Worter/H/hervorrufen.md",
     "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-101/C1-Hoehen-T2-101-Text.md",
-    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-101/C1-Hoehen-T2-101-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-102/C1-Hoehen-T2-102-Text.md",
-    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-102/C1-Hoehen-T2-102-Unmarked-Text.md",
-    "Anhänge/008_PT_Goethe_C1 1.mp3",
-    "Anhänge/013_PT_Goethe_C1.mp3",
+    "Worter/zugegebenermaßen.md",
+    "Worter/P/Pflicht.md",
     "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-100/C1-Hoehen-T2-100-Text.md",
-    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-102/C1-Hoehen-T2-102-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-101/C1-Hoehen-T2-101-Loesung.md",
+    "Worter/LEBENSWERT/lebenswert.md",
+    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-102/C1-Hoehen-T2-102-Text.md",
+    "C1 Schreiben/Teil 2/0-T2-Schreiben-Ubungen.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/009-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Texte/Uni/107-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Texte/Uni/108-C1-Schreiben-T2.md",
+    "Worter/Feinstaubbelastung.md",
+    "Worter/S/Staub.md",
+    "Worter/F/Feinstaub.md",
+    "Worter/A/aufpassen.md",
+    "Worter/wegbleibt.md",
+    "Worter/wegbleiben.md",
+    "Worter/M/mancher.md",
+    "Worter/M/manche.md",
+    "Worter/L/Luft.md",
+    "Worter/LÜFTEN/lüften.md",
+    "Worter/LÜFTEN",
+    "Worter/LUFTDRUCK/Luftdruck.md",
+    "Worter/LUFTDRUCK",
+    "Worter/ATEMLUFT/Atemluft.md",
+    "Worter/ATEMLUFT",
+    "Worter/N/nach.md",
+    "Worter/WEGBLEIBENDSTEM",
+    "Worter/WEGBLEIBENDSTEN",
+    "Worter/WEGBLEIBENDSTE",
+    "Worter/WEGBLEIBENDSTES",
+    "Worter/WEGBLEIBENDSTER",
+    "Worter/WEGBLEIBENDEREM",
+    "Worter/WEGBLEIBENDEREN",
     "Anhänge/Pasted image 20250524074135.png",
     "Anhänge/Pasted image 20250524074122.png",
-    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-1/C1-Hoehen-T2-100/C1-Hoehen-T2-100-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/0-C1-Hoehen-T1-Ubung-List.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-1/C1-Hoehen-T1-102/C1-Hoehen-T1-102-Text.md",
-    "Worter/G/gestützt.md",
-    "Worter/S/stützen.md",
-    "Worter/W/Wertanlage.md",
-    "Worter/E/empfehlen.md",
-    "Worter/Universitätsempfehlung.md",
-    "Worter/B/begeistern.md",
-    "Worter/V/verknüpfen.md",
-    "Worter/Umstand.md",
-    "Worter/V/verknüpft.md",
-    "Worter/G/glücklich.md",
-    "Worter/INHALTSVERZEICHNIS/Inhaltsverzeichnis.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-1/C1-Hoehen-T1-102/C1-Hoehen-T1-102-Loesung.md",
-    "Worter/A/Anschluss.md",
-    "Worter/namhafte.md",
-    "Worter/N/namhaft.md",
-    "Worter/AKTIE",
-    "Worter/WERTANLAGEN",
-    "Worter/NAMHAFTESTEM",
-    "Worter/NAMHAFTESTEN",
-    "Worter/NAMHAFTESTE",
-    "Worter/NAMHAFTESTES",
-    "Worter/NAMHAFTESTER",
-    "Worter/NAMHAFTEREM",
     "Anhänge/Pasted image 20250523175923.png",
     "Anhänge/Pasted image 20250523090046.png",
     "Anhänge/Pasted image 20250523090017.png",

@@ -47,4 +47,4 @@ sie, [[verursachen]], [[verursachten]], [[verursachen]], [[verursachten]], [[ver
 Adjektive: [[verursachend]], [[verursachender]], [[verursachendst]]
 
 ---
-[[verursachender]], [[verursachendes]], [[verursachende]], [[verursachenden]], [[verursachendem]], [[verursachenderer]], [[verursachenderes]], [[verursachendere]], [[verursachenderen]], [[verursachenderem]], [[verursachendster]], [[verursachendstes]], [[verursachendste]], [[verursachendsten]], [[verursachendstem]], [[zugrunde]], [[vorbeugen]], [[zufügen]], [[verschulden]], [[beruhen]], [[bedingen]]
+[[verursachender]], [[verursachendes]], [[verursachende]], [[verursachenden]], [[verursachendem]], [[verursachenderer]], [[verursachenderes]], [[verursachendere]], [[verursachenderen]], [[verursachenderem]], [[verursachendster]], [[verursachendstes]], [[verursachendste]], [[verursachendsten]], [[verursachendstem]], [[zugrunde]], [[vorbeugen]], [[zufügen]], [[verschulden]], [[beruhen]], [[bedingen]], [[Hauptverursacher]], [[zurückführen]]

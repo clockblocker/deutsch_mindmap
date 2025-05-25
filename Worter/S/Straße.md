@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Straße]], [[Straßen]], [[Straße]], [[Straße]], [[Straße]], [[Straße]], [[Straße]], [[Straßen]]
 
 ---
-#Substantiv #Feminin, [[Verkehrstote]], [[Straßenunfall]], [[Park]], [[Straßenfest]]
+#Substantiv #Feminin, [[Verkehrstote]], [[Straßenunfall]], [[Park]], [[Straßenfest]], [[Straßenverkehr]]

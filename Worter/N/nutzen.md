@@ -100,4 +100,4 @@ G: des [[Nutzens]], der [[Nutzen]]
 D: dem [[Nutzen]], den [[Nutzen]]
 
 
-#Maskulin 
+#Maskulin , [[heranziehen]]

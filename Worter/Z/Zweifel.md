@@ -25,4 +25,4 @@ D: dem [[Zweifel]], den [[Zweifeln]]
 ---
 zweifelhaft, zweifellos, zweifeln, zweifach, zweifeln, [[Vertrauensschwund]], [[Wille]]
 
-#Maskulin 
+#Maskulin , [[Entschluss]]

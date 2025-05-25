@@ -1,7 +1,9 @@
 ➡️ [[gelangen]], [ɡəˈlaŋən] | [[gelangte]], sind [[gelangt]]
 
 ---
-*[[01-C1-Schreiben-T2-M#^3|^]]* Es ist [[offenbar]] nicht im Interesse des Unternehmens, wenn [[sensible]] Daten wie [[Einkaufspreise]] bzw. -bedingungen an Mitarbeiter [[gelangen]], die keinen [[Zugang]] zu solchen Daten haben sollten. ^4
+*[[01-C1-Schreiben-T2-M#^3|^]]* Es ist [[offenbar]] nicht im Interesse des Unternehmens, wenn [[sensible]] Daten wie [[Einkaufspreise]] bzw. -bedingungen an Mitarbeiter [[gelangen]], die keinen [[Zugang]] zu solchen Daten haben sollten
+
+Für [[gewöhnlich]] [[gelangen]] [[Feinstaubpartikel]] nicht in den [[Blutkreislauf]]
 
 
 ---

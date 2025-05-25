@@ -1,1 +1,1 @@
-, [[generell]]
+, [[generell]], [[tendenziell]]

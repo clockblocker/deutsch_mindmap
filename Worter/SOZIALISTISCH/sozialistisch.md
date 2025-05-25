@@ -1,1 +1,1 @@
-, [[marktwirtschaftlich]]
+, [[marktwirtschaftlich]], [[kollektivistisch]]

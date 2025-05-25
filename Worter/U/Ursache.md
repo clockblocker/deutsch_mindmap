@@ -27,4 +27,4 @@ Morphems:
 [[Ur]][[Sache]]
 
 ---
-#Substantiv #Feminin,, [[Einflussfaktor]]
+#Substantiv #Feminin,, [[Einflussfaktor]], [[Hauptverursacher]]

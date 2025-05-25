@@ -28,4 +28,4 @@ A: das [[Ereignis]], die [[Ereignisse]]
 G: des [[Ereignisses]], der [[Ereignisse]]
 D: dem [[Ereignis]], den [[Ereignissen]]
 
-#Neuter 
+#Neuter , [[Wunder]]

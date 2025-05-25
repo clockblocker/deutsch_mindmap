@@ -12,7 +12,7 @@
 
 #### 📋 Anforderungen stellen (Stating Demands)
 📋 [[fordern]] *(to demand; formal, strong)*
-📋 [[verlangen]] *(to request / demand; slightly softer)*
+📋 [[Verlangen]] *(to request / demand; slightly softer)*
 📋 [[voraussetzen]] *(to presuppose; expectation of availability)*
 
 #### 🔧 Erfüllung ermöglichen (Fulfilling Needs / Requirements)

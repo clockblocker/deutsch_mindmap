@@ -2,7 +2,9 @@
 die [[Pflegen]]
 
 ---
-*[[Text mit Reflexivpronomen#^6|^]]* Nicht jeder [[hilfsbereite]] Nachbar [[eignet]] sich für diesen Freundschaftsdienst, wenn er sich mit der [[Pflege]] von Katzen nicht [[auskennt]]. ^6
+*[[Text mit Reflexivpronomen#^6|^]]* Nicht jeder [[hilfsbereite]] Nachbar [[eignet]] sich für diesen Freundschaftsdienst, wenn er sich mit der [[Pflege]] von Katzen nicht [[auskennt]]
+
+*[[C1-Hoehen-T2-101-Text#^27|^]]* Die [[Pflege]] und der [[Verzehr]] von selbst [[Angebautem]] steigert die [[Wertschätzung]] der Natur selbst. ^27
 
 
 📚 [[Pflege]] / [[Betreuung]] / [[Verantwortung]] *Attention, Care, Responsibility*

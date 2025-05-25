@@ -1,7 +1,9 @@
 📝 [[erfassen]], [ɛɐ̯ˈfasn̩](https://youglish.com/pronounce/erfassen/german) → [[erfasste]] → haben [[erfasst]]
 
 ---
-*[[07-C1-Schreiben-T2-M#^10|^]]* Trotzdem muss ich Sie darauf [[hinweisen]], dass wir jetzt bei jedem unserer [[Arbeitsschritte]] die Zeiten [[manuell]] [[erfassen]] müssen, was bis zu 1,5 Stunden Arbeitszeit fehlt. ^10
+*[[07-C1-Schreiben-T2-M#^10|^]]* Trotzdem muss ich Sie darauf [[hinweisen]], dass wir jetzt bei jedem unserer [[Arbeitsschritte]] die Zeiten [[manuell]] [[erfassen]] müssen, was bis zu 1,5 Stunden Arbeitszeit fehlt
+
+*[[C1-Hoehen-T2-101-Text#^24|^]]* Wir lassen Natur für unsere Kleinsten wieder ganz konkret werden, sodass sie einerseits ihre [[Schönheit]] und ihr [[Wunder]], andererseits aber auch unsere [[Abhängigkeit]] von ihr [[erfassen]] und nicht [[umgekehrt]]
 
 
 *[[C1-Hoehen-T2-200-Text#^17|^]]* Intelligenz lässt sich nicht nur an der [[Fähigkeit]] [[festmachen]], wie schnell man logische [[Zusammenhänge]] [[erfasst]]

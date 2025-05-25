@@ -25,4 +25,4 @@ independent, self-employed
 Adjektive: [[selbstständig]], [[selbstständiger]], [[selbstständigst]]
 
 ---
-[[selbstständiger]], [[selbstständiges]], [[selbstständige]], [[selbstständigen]], [[selbstständigem]], [[selbstständigerer]], [[selbstständigeres]], [[selbstständigere]], [[selbstständigeren]], [[selbstständigerem]], [[selbstständigster]], [[selbstständigstes]], [[selbstständigste]], [[selbstständigsten]], [[selbstständigstem]], [[unternehmerisch]]
+[[selbstständiger]], [[selbstständiges]], [[selbstständige]], [[selbstständigen]], [[selbstständigem]], [[selbstständigerer]], [[selbstständigeres]], [[selbstständigere]], [[selbstständigeren]], [[selbstständigerem]], [[selbstständigster]], [[selbstständigstes]], [[selbstständigste]], [[selbstständigsten]], [[selbstständigstem]], [[unternehmerisch]], [[Individualistisch]]

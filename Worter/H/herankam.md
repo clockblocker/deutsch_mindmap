@@ -29,4 +29,4 @@ Zu+infinifive: [[heranzukommen]]
 [[herankommen]] - [[her]] + [[an]] = [[kommen]]
 
 ---
-[[Herankommen]], [[Heranwachsen]], [[Heranbildung]], [[Heranziehen]], [[Heranführen]]
+[[Herankommen]], [[Heranwachsen]], [[Heranbildung]], [[Heranziehen]], [[Heranführen]], [[heranziehen]]

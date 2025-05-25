@@ -1,0 +1,2 @@
+🔵 der [[Entschluss]] 💡
+[[entschließen]]

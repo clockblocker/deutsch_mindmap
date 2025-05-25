@@ -1,7 +1,10 @@
 😨 [[abschrecken]], [ˈapˌʃʁɛkn̩] | [[schreckte ab]], haben [[abgeschreckt]]
 
 ---
-[[2 Unter Druck nach oben#^7|^]] Wenn der Marketing-Manager der [[Beiersdorf]] AG Holger Welters mit einem [[Bewerber]] für seine Firma spricht, dann [[schreckt ab|schreckt]] ihn zum Beispiel [[ausgesprochenes]] [[Karrierebewusstsein]] ab
+*[[2 Unter Druck nach oben#^7|^]]* Wenn der Marketing-Manager der [[Beiersdorf]] AG Holger Welters mit einem [[Bewerber]] für seine Firma spricht, dann [[schreckt ab|schreckt]] ihn zum Beispiel [[ausgesprochenes]] [[Karrierebewusstsein]] ab
+
+15 Höhere [[Folgekosten]] sollen vor dem [[Kauf]] [[schwergewichtiger]] [[PKW]] [[abschrecken]]
+
 
 ---
 = [[entmutigen]], [[verunsichern]], [[ängstigen]]

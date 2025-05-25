@@ -4,7 +4,7 @@
 *[[C1-Hoehen-T1-202-Text#^11|^]]* Die Produzenten der Sendung sind keine [[Hardliner]], die Null Müll [[einfordern]] wollen, was ja auch schwierig ist
 
 ---
-= [[verlangen]], [[beanspruchen]], [[fordern]]
+= [[Verlangen]], [[beanspruchen]], [[fordern]]
 ≈ [[geltend machen]], [[erheben]], [[beantragen]]
 ≠ [[verzichten]], [[aufgeben]], [[schenken]]
 

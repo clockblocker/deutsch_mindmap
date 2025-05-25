@@ -1,2 +1,2 @@
 👌 [[passen]]
-, [[anpassen]]
+, [[anpassen]], [[aufpassen]]

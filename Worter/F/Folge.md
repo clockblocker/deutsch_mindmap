@@ -67,4 +67,4 @@ G: der [[Folge]], der [[Folgen]]
 D: der [[Folge]], den [[Folgen]]
 
 
-#Feminin , [[zufolge]], [[Zeichenfolge]]--> [[🗣️ Ingredient-Meinung]] <--, [[Wissen]], [[darauffolgen]], [[Giftschaden]]
+#Feminin , [[zufolge]], [[Zeichenfolge]]--> [[🗣️ Ingredient-Meinung]] <--, [[Wissen]], [[darauffolgen]], [[Giftschaden]], [[Folgekosten]]

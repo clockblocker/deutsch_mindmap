@@ -48,4 +48,4 @@ D: der [[Gemeinde]], den [[Gemeinden]]
 , [[Stadt]], [[Minderheit]], [[Dorf]]
 , [[Kirche]], [[Bundesbezirk]], [[gemein]], [[Bundesland]], [[Gemeindeverwaltung]], [[Gemeinderat]], [[Bezirk]], [[Bürgerei]], [[Menschenmenge]]
 
-#Feminin 
+#Feminin , [[Anhängerschaft]]

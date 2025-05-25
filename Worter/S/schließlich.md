@@ -4,6 +4,8 @@
 ---
 Wir haben [[uns]] total [[verlaufen]], aber [[schließlich]] sind wir doch noch ans Ziel gekommen.
 
+*[[C1-Hoehen-T2-101-Text#^19|^]]* [[Konsumverhalten|Konsum]]- und [[Reiseverhalten]], was ja mit den [[Einkommensverhältnis]]sen in [[Verbindung]] steht, [[auswirken|wirkt]] sich [[schließlich]] direkt aufs Klima aus
+
 *[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
 
 

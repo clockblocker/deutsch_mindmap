@@ -20,7 +20,7 @@ Diskutieren Sie, wie Arbeitgeber [[Rücksicht]] auf familiäre [[Bedürfnis]]se 
 
 ---
 = [[Bedarf]], [[Erfordernis]], [[Anforderung]]
-≈ [[Wunsch]], [[verlangen]], [[Sehnsucht]], [[Notwendigkeit]]
+≈ [[Wunsch]], [[Verlangen]], [[Sehnsucht]], [[Notwendigkeit]]
 ≠ [[Überfluss]], [[Entbehrung]], [[Mangel]]
 
 ---

@@ -1,7 +1,7 @@
 💰 [[kosten]], [ˈkɔstn̩] | [[kostete]], haben [[gekostet]]
 
 ---
-[[2 prap.md#^1|^]] Abzüglich aller [[Kosten]], [[abzüglich]] eines [[Rabatts]] ^1
+[[2 prap.md#^1|^]] Abzüglich aller [[Kosten]], [[abzüglich]] eines [[Rabatts]]
 
 ---
 = [[betragen]], [[aufwenden]], [[bezahlen]]
@@ -31,4 +31,4 @@ PI: [[kostend]], PII: [[gekostet]], Zu+inf: [[zu kosten]]
 [[Kosten]], [[Kostbarkeit]], [[kostbar]], [[kostspielig]], [[Kostenaufwand]], [[Kostenfaktor]]
 , [[abziehen]]
 , [[Reisekosten]]
-, [[Miete]], [[Betrag]], [[Kosteneinsparung]], [[Betriebskosten]], [[Aufwand]], [[Kosteneffizienz]], [[Lebenshaltungskosten]], [[Erlös]], [[Ausgabe]], [[Energiepreis]], [[Kommunikationsaufwand]]
+, [[Miete]], [[Betrag]], [[Kosteneinsparung]], [[Betriebskosten]], [[Aufwand]], [[Kosteneffizienz]], [[Lebenshaltungskosten]], [[Erlös]], [[Ausgabe]], [[Energiepreis]], [[Kommunikationsaufwand]], [[Folgekosten]]

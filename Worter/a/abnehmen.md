@@ -1,12 +1,12 @@
 --> [[Ingredient-Add-Remove]] <--
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
-🏋️[[abnehmen]] + Akk, [ˈapneːmən]
-[[nahm ab|nahm ab]]  
-haben [[abgenommen]]
+🏋️[[abnehmen]] + Akk, [ˈapneːmən] | [[nahm ab|nahm ab]] | haben [[abgenommen]]
 
 ---
 *[[C1-Lesen-T2-102-Text#^1|^]]* [[Bisher]] war der [[Königsweg]] klar definiert: Wer [[abnehmen]] will, soll [[ausdauernd]] trainieren
+
+*[[C1-Hoehen-T2-101-Text#^22|^]]* Ihr [[Verlangen]] nach ihr [[abnehmen|nimmt]] also [[tendenziell]] ab
 
 Die anderen kommen dazu und [[nehmen]] den beiden ein paar von den schweren Kisten [[ab]]. Miriam ist erleichtert: Das Eis zwischen Sebastian und ihren Freunden ist gebrochen!	
 

@@ -1,1 +1,1 @@
-, [[Neugier]], [[verlangen]]
+, [[Neugier]], [[Verlangen]]

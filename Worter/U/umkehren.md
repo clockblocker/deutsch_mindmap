@@ -2,7 +2,11 @@
 🔄 [[umkehren]], [ˈʊmˌkeːʁən](https://youglish.com/pronounce/umkehren/german) | [[kehrte um]], sind/haben [[umgekehrt]]
 
 ---
-*[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste berücksichtigt: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme passen sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]] 
+*[[C1-Hoehen-T2-101-Text#^15|^]]* So kann eine individuelle [[Entscheidung]] [[Auswirkung]]en auf die systemische [[Ebene]] haben und [[umgekehrt]]
+
+*[[C1-Hoehen-T2-101-Text#^24|^]]* Wir lassen Natur für unsere Kleinsten wieder ganz konkret werden, sodass sie einerseits ihre [[Schönheit]] und ihr [[Wunder]], andererseits aber auch unsere [[Abhängigkeit]] von ihr [[erfassen]] und nicht [[umgekehrt]]
+
+*[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste berücksichtigt: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme passen sich den Wünschen der Gäste an, nicht [[umgekehrt]] 
 
 ---
 = [[wenden]], [[drehen]], [[zurückkehren]]

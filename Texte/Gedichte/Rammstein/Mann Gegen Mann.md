@@ -4,7 +4,7 @@ Und mir ein [[Geschenk]] [[gemacht]]
 *Der [[Haut]] so [[nah]], dem [[Auge]] [[fern]]*  
 
 Ich [[nehm]] mein [[Schicksal]] in die Hand  
-Mein [[verlangen]] ist [[bemannt]]  
+Mein [[Verlangen]] ist [[bemannt]]  
 
   
 Wo das süße Wasser [[sterben|stirbt]]  

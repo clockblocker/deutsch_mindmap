@@ -1,14 +1,12 @@
 ✨ [[auswirken]], [ˈaʊ̯sˌvɪʁkn̩](https://youglish.com/pronounce/auswirken/german) | [[wirkte aus]], haben [[ausgewirkt]] | | [[Auswirkung]]
 
 ---
-
-![[002-C1-Schreiben-T2#^3|^]]
-
+*[[C1-Hoehen-T2-101-Text#^19|^]]* [[Konsumverhalten|Konsum]]- und [[Reiseverhalten]], was ja mit den [[Einkommensverhältnis]]sen in [[Verbindung]] steht, [[auswirken|wirkt]] sich [[schließlich]] direkt aufs Klima aus
 
 *[[Golfstorm#^3|^]]* Denn die Klimakrise führt nicht nur zu mehr [[Extremwetter]], sondern [[wirkt aus|wirkt]] sich auch auf [[Meeresströmungen]] aus. ^3
 
 
-- Beschreiben Sie, wie sich Homeoffice auf das Familienleben [[auswirkt]].  
+Beschreiben Sie, wie sich Homeoffice auf das Familienleben [[auswirkt]].  
 
 *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Hier sollte immer die Meinungsfreiheit im_ [[Mittelpunkt]] _stehen, denn eine zu starke Regulierung im Netz kann sich auf die Qualität der_ [[Berichterstattung]] _durch die_ [[Worter/Medien]] [[auswirken]], _oder Menschen werden_ [[verhaftet]], _weil sie ihre Meinung im Internet_ [[kundgetan]] _haben._ ^5
 

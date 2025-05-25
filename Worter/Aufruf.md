@@ -12,7 +12,7 @@ die [[Aufrufe]]
 
 ---
 = [[Aufforderung]], [[Anweisung]], [[Proklamation]]
-≈ [[Appell]], [[Mahnung]], [[Ermahnung]], [[Bitte]], [[verlangen]]
+≈ [[Appell]], [[Mahnung]], [[Ermahnung]], [[Bitte]], [[Verlangen]]
 ≠ [[Schweigen]], [[Ignorieren]], [[Ablehnung]]
 
 ---

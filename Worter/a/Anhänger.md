@@ -27,4 +27,4 @@ G: des [[Anhängers]], der [[Anhänger]]
 D: dem [[Anhänger]], den [[Anhängern]]
 
 
-#Maskulin 
+#Maskulin , [[Anhängerschaft]]

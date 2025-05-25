@@ -1,1 +1,1 @@
-, [[Vorsitzende]]
+, [[Vorsitzende]], [[Zuhörer]]

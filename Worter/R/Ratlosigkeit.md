@@ -1,1 +1,1 @@
-, [[Schulterzucken]], [[ratlos]]
+, [[Schulterzucken]], [[ratlos]], [[Hilflosigkeit]]

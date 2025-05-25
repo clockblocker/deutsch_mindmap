@@ -501,7 +501,7 @@
  [[Worter/Einzelhändler|Einzelhändler]]
  [[Worter/EINZELHÄNDLERN/_Index_of_EINZELHÄNDLERN|_Index_of_EINZELHÄNDLERN]]
  [[Worter/EINZELHÄNDLERS/_Index_of_EINZELHÄNDLERS|_Index_of_EINZELHÄNDLERS]]
- [[Worter/einzelne|einzelne]]
+ [[Einzelne|Einzelne]]
  [[Worter/einzigartige|einzigartige]]
  [[Worter/einziger|einziger]]
  [[Worter/einzubringen|einzubringen]]

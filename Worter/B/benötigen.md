@@ -13,7 +13,7 @@ Dies lohnt sich sogar für den Arbeitgeber unter dem Aspekt der [[Kosteneinsparu
 
 ---
 = [[brauchen]], [[erfordern]], [[benötigen]],  [[bedürfen]]
-≈ [[erwünschen]], [[verlangen]], [[fordern]], [[benötigen]]
+≈ [[erwünschen]], [[Verlangen]], [[fordern]], [[benötigen]]
 ≠ [[entbehren]], [[vermissen]], [[verzichten]], [[überflüssig sein]], , [[mangeln]],
 
 ---

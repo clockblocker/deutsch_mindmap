@@ -34,4 +34,4 @@ D: der [[Aussage]], den [[aussagen]]
 [[aussagen]], [[aussagekräftig]], [[Aussagekraft]], [[Zeugenaussage]], [[Falschaussage]]
 
 
-#Feminin 
+#Feminin , [[Erwähnung]]

@@ -28,4 +28,4 @@ G: des [[Verkehrsaufkommens]], -
 D: dem [[Verkehrsaufkommen]], -
 
 
-#Neuter 
+#Neuter , [[Straßenverkehr]]

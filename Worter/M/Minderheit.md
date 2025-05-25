@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Minderheit]], [[Minderheiten]], [[Minderheit]], [[Minderheiten]], [[Minderheit]], [[Minderheiten]], [[Minderheit]], [[Minderheiten]]
 
 ---
-#Substantiv #Feminin , [[Bevölkerung]], [[Wählermehrheit]], [[Großteil]], [[Bevölkerungsgruppe]], [[Minderung]], [[Durchschnittsdeutsche]]
+#Substantiv #Feminin , [[Bevölkerung]], [[Wählermehrheit]], [[Großteil]], [[Bevölkerungsgruppe]], [[Minderung]], [[Durchschnittsdeutsche]], [[minderjährig]]

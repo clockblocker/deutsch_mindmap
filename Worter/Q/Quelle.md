@@ -2,7 +2,9 @@
 die [[Quellen]]
 
 ---
- Das Licht stammt von einer unglaublich starken [[Quelle]], das muss er sein!
+Das Licht stammt von einer unglaublich starken [[Quelle]], das muss er sein!
+
+*[[C1-Hoehen-T2-101-Text#^28|^]]* Und selbst soziale [[Einrichtung]]en wie die [[Tafel]]n [[beziehen]] ihr [[Küchengut]] teilweise aus diesen [[Quelle]]n
 
 *[[C1-Lesen-T1-000-Loesung#^3|^]]* Die Präposition „[[zufolge]]“ gibt eine [[Quelle]] für eine [[Information]] oder [[Schätzung]] an. Hier wird [[ausgedrückt]], dass die genannte [[Menge]] an Plastikmüll Schätzungen [[entspricht]]. ^3
 

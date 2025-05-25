@@ -1,25 +1,26 @@
-[[standhaft]], [[großartig]], [[Schwachstellen]], [[bullig]], [[Schlecht]]
-
-
 💪 [[schwach]], [ʃvax] ≠ [[stark]]
 
 ---
+*[[C1-Hoehen-T2-101-Text#^21|^]]* Die Urbanisierung [[beitragen|trägt]] u. a. dazu bei, dass Kinder und Jugendliche eine immer [[schwäch]]ere [[Bindung]] zu der Natur haben und diese somit immer mehr zu etwas [[Abstraktem]] wird
+
 Sie fühlte sich aber [[einsam]] und [[schwach]].
 
 *Am dritten Tag, o weh und ach!*  
 *wie ist der Kaspar [[dünn]] und [[schwach]]!*  
-§
+
 ---
-= [[kraftlos]], [[schlaff]], [[energiearm]],  [[Schwäche]], 
-≈ [[unfähig]], [[hilflos]], [[verletzlich]], [[weich]]
-≠ [[stark]], [[kräftig]], [[widerstandsfähig]], [[robust]]
+= [[kraftlos]], [[schlaff]], [[energiearm]],  [[Schwäche]],  [[Schlecht]]
+≈ [[unfähig]], [[hilflos]], [[verletzlich]], [[weich]], [[bedürftig]], [[niedrig]], 
+≠ [[stark]], [[kräftig]], [[widerstandsfähig]], [[robust]], [[standhaft]], [[großartig]], [[bullig]], [[heftig]], [[muskelbepackt]],  [[ausgeprägt]]
+
+
 
 ---
 weak, feeble
 слабый
 
 ---
-[[schwach]]
+[[schwach]],
 
 ---
 N: [[schwach]], [[schwächer]], [[schwächste]]
@@ -31,5 +32,5 @@ N: [[schwaches]], [[schwächeres]], [[schwächstes]]
 P: [[schwachen]], [[schwächeren]], [[schwächsten]]
 
 ---
-[[Schwäche]], [[abschwächen]], [[schwachsinnig]], [[schwachköpfig]], [[schwachstellen]]
-, [[bedürftig]], [[heftig]], [[niedrig]], [[einkommensschwach]], [[muskelbepackt]], [[ausgeprägt]]
+[[Schwäche]], [[abschwächen]], [[schwachsinnig]], [[schwachköpfig]], [[schwachstellen]], [[einkommensschwach]], 
+

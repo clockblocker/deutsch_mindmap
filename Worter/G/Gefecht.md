@@ -26,3 +26,5 @@ D: dem [[Gefecht]], den [[Gefechten]]
 
 ---
 [[gefechten]], [[gefechtsmäßig]], [[Gefechtsstand]], [[Gefechtsfeld]], [[Gefechtsordnung]]
+
+#Neuter 

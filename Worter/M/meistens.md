@@ -27,4 +27,4 @@ Morpheme:
 
 ---
 Einzigartige mögliche Formen: 
-[[meistens]], [[hauptsächlich]], [[mehrheitlich]], [[weitgehend]], [[generell]], [[vielerorts]]
+[[meistens]], [[hauptsächlich]], [[mehrheitlich]], [[weitgehend]], [[generell]], [[vielerorts]], [[tendenziell]]

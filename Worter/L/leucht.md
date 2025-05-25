@@ -1,3 +1,3 @@
 , [[leuchten]], [[aufleuchten]], [[leuchtender]], [[leuchtenden]]
 [[Leuchtrakete]]
-, [[beleuchten]]
+, [[beleuchten]], [[einleuchtend]], [[einleuchten]]

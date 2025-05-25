@@ -10,7 +10,7 @@ Der [[Zugang]] `zu` Strom ist `für` Studierende oft eingeschränkt: *In vielen 
 [[Eingeschränkter]] Zugang zu Firmensoftware nach Systemupdate
 
 16. Wann ist die Meinungsfreiheit in Deutschland [[eingeschränkt]]? (80%)
-	- [x] bei der öffentlichen [[Verbreitung]] falscher [[Behauptung]] über [[einzelne]] Personen
+	- [x] bei der öffentlichen [[Verbreitung]] falscher [[Behauptung]] über [[Einzelne]] Personen
 
 ---
 = [[begrenzen]], [[limitieren]], [[reduzieren]]

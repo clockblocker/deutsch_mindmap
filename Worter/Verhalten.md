@@ -82,4 +82,4 @@ D: dem [[verhalten]], den [[verhalten]]
 [[verhalten]], [[Verhaltensmuster]], [[Verhaltensweise]], [[verhaltensneutral]], [[verhaltensnah]]
 
 #Neuter , [[Spielverhalten]], [[Einkaufsverhalten]], [[Wissen]], [[Verbraucher]]
-, [[Kaufverhalten]], [[Alltagsverhaltensweise]], [[Lebenswandel]]
+, [[Kaufverhalten]], [[Alltagsverhaltensweise]], [[Lebenswandel]], [[Reiseverhalten]]

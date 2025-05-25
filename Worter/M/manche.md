@@ -3,10 +3,11 @@
 👥 [[manche]], [ˈmanxə] | [[Artikelwörter]]
 
 ---
-[[Artikelwörter.md#^2|^]] - [[Manche]] – *Manche Kinder spielen Fußball gern.*
-- [[Einige]] – *Einige Kinder spielen Volleyball gern.* ^2
- 
+*[[C1-Hoehen-T2-102-Text#^1|^]]* Beim Thema [[Feinstaubbelastung]] muss so [[mancher]] [[aufpassen]], dass ihm nicht die Luft [[wegbleibt]]
 
+*[[Artikelwörter.md#^2|^]]* [[Manche]] – *Manche Kinder spielen Fußball gern.*
+[[Einige]] – *Einige Kinder spielen Volleyball gern.* ^2
+ 
 
 [[Manche]] Menschen mögen keinen Kaffee.
 

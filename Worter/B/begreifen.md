@@ -3,6 +3,9 @@
 ---
 Was soll das? Aang ist nicht unser Feind! [[Begreift]] ihr's nicht? Aang hat uns etwas [[gebracht]], dass wir seit langer Zeit nicht mehr hatten! Spaß.
 
+*[[C1-Hoehen-T2-101-Text#^14|^]]* [[Begreifen]] wir eine Gesellschaft mal als System
+*(Let's [[understand]] a society as a system.)*
+
 *[[C1-Hoehen-T2-201-Text#^50|^]]* Ab einem bestimmten Alter sollte man den Kindern [[begreiflich]] machen, 
 *(From a certain age, you should make it [[understandable]] to the children,)*
 *dass die Menschen nicht schon immer zählen konnten, dass es also eine [[Entwicklungsstufe]] in der [[Menschheitsgeschichte]] ist, die dem Schreiben [[vorausging]]*

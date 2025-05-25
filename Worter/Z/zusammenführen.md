@@ -1,1 +1,1 @@
-[[teilen]], [[vereinen]]
+[[teilen]], [[vereinen]], [[einteilen]]

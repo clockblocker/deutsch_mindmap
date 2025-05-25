@@ -1,31 +1,60 @@
-🛒 [[bedienen]] + Akk/Gen, [bəˈdiːnən]
-[[bediente]]  
-haben [[bedient]]
+🧑‍🍳 [[bedienen]], [bəˈdiːnən](https://youglish.com/pronounce/bedienen/german) → [[bediente]] → [[bedient]]
 
 ---
-[[Fernbedienung]]
+*[[C1-Hoehen-T2-101-Text#^9|^]]* [[Bedienen]] wir uns doch mal den [[Erkenntnis]]sen der [[Soziologie]]: Ihr [[zufolge]] kann man [[Gesellschaft]]en in [[Individualistisch]]e und [[Kollektivistisch]]e [[einteilen]]
+*(Let's use)* 
+
 
 ---
-Synonyme: [[handhaben]], [[verwalten]], [[Steuern]], [[navigieren]], [[betätigen]]
-Antonyme: [[ignorieren]], [[vernachlässigen]], [[missachten]], [[außer Acht lassen]]
+= [[servieren]], [[behandeln]]
+≈ [[helfen]], [[unterstützen]], [[versorgen]]
+≠ [[ignorieren]], [[vernachlässigen]], [[abspeisen]]
 
 ---
-Übersetzung: to operate, to handle, to serve
+to serve, to operate  
+обслуживать
 
 ---
-Morpheme: [[be]][[dien]][[en]]
- #Verb #Untrennbar
+[[Bedienung]], [[Bedienbarkeit]], [[Bedienungsanleitung]],[[Fernbedienung]],  [[Bedienung]],
 
 ---
+[[bedien]]|[[en]]
+[[bedienen]]
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[bediene]]          | [[bediente]]          | -                 | [[bediene]]            | [[bediente]]            |
-| Du        | [[bedienst]]         | [[bedienstest]]       | [[bediene]]       | [[bedienest]]          | [[bedienetest]]         |
-| Er/sie/es | [[bedient]]          | [[bediente]]          | -                 | [[bediene]]            | [[bediente]]            |
-| Wir       | [[bedienen]]         | [[bedienten]]         | -                 | [[bedienen]]           | [[bedienten]]           |
-| Ihr       | [[bedient]]          | [[bedientet]]         | [[bedient]]       | [[bedienet]]           | [[bedienetet]]          |
-| Sie       | [[bedienen]]         | [[bedienten]]         | [[bedienen Sie]]  | [[bedienen]]           | [[bedienten]]           |
 
-Partizip I: [[bedienend]], Partizip II: [[bedient]]
-[[bedienen]] - [[be]] = [[dienen]], [[Bedienung]], [[abspeisen]]
+---
+###### [[bedienen]] jN
+- Wen [[bedienst]] du?
+- Die Kunden.
+
+- Was [[bedienen]] wir?
+- Die Maschinen.
+
+- Warum [[hat]] er sie [[bedient]]?
+- Um ihnen zu helfen.
+
+---
+###### [[bedienen]] *[[sich]]* `an` jD
+- Wovon [[bedienst]] du *[[dich]]*?
+- `An` dem Buffet.
+
+- Wovon [[bedienen]] wir *[[uns]]*?
+- `An` den Ressourcen.
+
+- Warum [[hat]] er *[[sich]]* `daran` [[bedient]]?
+- Weil er Hunger hatte.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[bedien]] / [[bediene]], [[bediente]], [[bediene]], [[bediente]], -
+du, [[bedienst]], [[bedientest]], [[bedienst]], [[bedientest]], [[bedien]] / [[bediene]]
+er, [[bedient]], [[bediente]], [[bediene]], [[bediente]], -
+wir, [[bedienen]], [[bedienten]], [[bedienen]], [[bedienten]], [[bedienen]]
+ihr, [[bedient]], [[bedientet]], [[bedient]], [[bedientet]], [[bedient]]
+sie, [[bedienen]], [[bedienten]], [[bedienen]], [[bedienten]], [[bedienen]]
+
+*Zu + Inf*: zu [[bedienen]], *P2*: [[bedient]]
+Adjektive: [[bedienend]], [[bedienender]], [[bedienendst]]
+
+---
+[[bedienender]], [[bedienendes]], [[bedienende]], [[bedienenden]], [[bedienendem]], [[bedienenderer]], [[bedienenderes]], [[bedienendere]], [[bedienenderen]], [[bedienenderem]], [[bedienendster]], [[bedienendstes]], [[bedienendste]], [[bedienendsten]], [[bedienendstem]]

@@ -1,2 +1,2 @@
 , [[widerstehen]], [[frönen]], [[aushalten]], [[wehren]], [[herausfordern]], [[fordern]], [[unterliegen]]
-, [[weichen]], [[standhalten]], [[dringen]], [[vorherrschen]]
+, [[weichen]], [[standhalten]], [[dringen]], [[vorherrschen]], [[überwiegen]]

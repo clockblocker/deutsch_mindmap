@@ -1,1 +1,1 @@
-, [[geeignet]], [[arbeitsunfähig]], [[Fähig]], [[begabt]], [[einsatzfähig]], [[veranlagt]]
+, [[geeignet]], [[arbeitsunfähig]], [[Fähig]], [[begabt]], [[einsatzfähig]], [[veranlagt]], [[machtlos]], [[schwach]]

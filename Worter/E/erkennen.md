@@ -3,6 +3,8 @@
 ---
 Babys [[erkennen]] ihre Mütter [[an]] ihren Stimmen.
 
+Kinder sollen [[erkennen]], wie [[abhängig]] die Natur auch `vom` Menschen ist.  
+
 *[[C1-Hoehen-T1-201-Text#^17|^]]* Dennoch bekommt auch Max seine Chance und [[erkennt]] am Ende, dass die ihm unbekannte Welt voller neuer Möglichkeiten [[steckt]]. ^17
 
 

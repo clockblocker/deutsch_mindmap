@@ -1,1 +1,1 @@
-, [[verlangen]], [[gieren]]
+, [[Verlangen]], [[gieren]]

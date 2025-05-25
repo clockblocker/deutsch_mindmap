@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-203-Text#^41|^]]* Aber die Menschen mit [[Sucht]] kann man schon noch nicht zu einer [[Suchtform]] [[zuordnen]] oder [[differenzieren]]
 
+*[[C1-Hoehen-T2-101-Text#^31|^]]* Allerdings handelt es sich [[hierbei]] um eine besondere [[Anhängerschaft]], nämlich gut [[gebildet]]e, oft [[weiblich]]e Jugendliche, die sich eher dem linken Spektrum [[zuordnen]]
+
 ---
 = [[einteilen]], [[klassifizieren]], [[zugehörig machen]], [[verteilen]]
 ≈ [[verbinden]], [[assoziieren]], [[gruppieren]]

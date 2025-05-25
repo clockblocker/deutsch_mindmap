@@ -1,7 +1,9 @@
 👤 🔵 der [[Vertreter]], [fɛɐ̯ˈtʁeːtɐ](https://youglish.com/pronounce/Vertreter/german)
 
 ---
-27 Die [[Vertreter]] des Staates [[befürworten]] den [[übermäßigen]] [[Konsum]].
+Die [[Vertreter]] des Staates [[befürworten]] den [[übermäßigen]] [[Konsum]].
+
+Bei Fridays for Future sind Vertreterinnen und [[Vertreter]] aller [[Gesellschaftsschicht]]en [[gleichermaßen]] aktiv.
 
 ---
 = [[Repräsentant]], [[Agent]], [[Beauftragter]]

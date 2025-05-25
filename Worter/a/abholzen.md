@@ -47,4 +47,4 @@ sie, [[holzen ab]], [[holzten ab]], [[holzen ab]], [[holzten ab]], [[holzen ab]]
 Adjektive: [[abholzend]], [[abholzender]], [[abholzendst]]
 
 ---
-[[abholzender]], [[abholzendes]], [[abholzende]], [[abholzenden]], [[abholzendem]], [[abholzenderer]], [[abholzenderes]], [[abholzendere]], [[abholzenderen]], [[abholzenderem]], [[abholzendster]], [[abholzendstes]], [[abholzendste]], [[abholzendsten]], [[abholzendstem]]
+[[abholzender]], [[abholzendes]], [[abholzende]], [[abholzenden]], [[abholzendem]], [[abholzenderer]], [[abholzenderes]], [[abholzendere]], [[abholzenderen]], [[abholzenderem]], [[abholzendster]], [[abholzendstes]], [[abholzendste]], [[abholzendsten]], [[abholzendstem]], [[anbauen]]

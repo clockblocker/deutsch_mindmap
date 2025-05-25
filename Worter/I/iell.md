@@ -1,1 +1,1 @@
-, [[finanziell]]
+, [[finanziell]], [[tendenziell]]

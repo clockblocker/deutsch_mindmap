@@ -5,6 +5,7 @@
 ---
 Montags von 19:30-21 Uhr trainiert eine [[Erwachsenenanfängergruppe]] und dienstags und donnerstags trainiert eine [[gemischte]] Gruppe [[jeweils]] von 18:30-20 Uhr. [[emails.md#^2|(Quelle: emails)]]
 
+*[[C1-Hoehen-T2-101-Text#^34|^]]* Tatsächlich [[gemischt]]
 
 ---
 = [[vermischt]], [[kombiniert]], [[durcheinander]]

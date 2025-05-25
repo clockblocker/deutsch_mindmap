@@ -3,7 +3,10 @@
 ⚖️ [[gleichermaßen]], [ˈɡlaɪ̯çɐˌmaːsn̩]
 
 ---
-*[[3  Ein Selbstversuch als Hobbybäuerin#^2|^]]* Damit meine ich nicht nur die [[beruflichen]] Ziele, sondern auch meine privaten, denn diese können ja bekanntlich [[gleichermaßen]] [[anspruchsvoll]] sein. ^2
+*[[3  Ein Selbstversuch als Hobbybäuerin#^2|^]]* Damit meine ich nicht nur die [[beruflichen]] Ziele, sondern auch meine privaten, denn diese können ja bekanntlich [[gleichermaßen]] [[anspruchsvoll]] sein
+
+Bei Fridays for Future sind Vertreterinnen und [[Vertreter]] aller [[Gesellschaftsschicht]]en [[gleichermaßen]] aktiv.
+
 
 ---
 = [[ebenso]], [[in gleicher Weise]], [[simultan]]

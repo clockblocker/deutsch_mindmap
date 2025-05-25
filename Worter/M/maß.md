@@ -1,3 +1,3 @@
 [[messen]]
 , [[Maßnahme]]
-, [[übermäßig]], [[messe]], [[gleichermaßen]], [[gemäßigt]], [[Angemessenheit]], [[angemessen]], [[mäßig]], [[gemessen]], [[vermessen]]
+, [[übermäßig]], [[messe]], [[gleichermaßen]], [[gemäßigt]], [[Angemessenheit]], [[angemessen]], [[mäßig]], [[gemessen]], [[vermessen]], [[zugegebenermaßen]]

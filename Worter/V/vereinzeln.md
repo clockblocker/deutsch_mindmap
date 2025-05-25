@@ -1,6 +1,6 @@
 --> 🧮 [[Grad-Quantität]] <--
 
-📍 [[vereinzeln]], [fɛɐ̯ˈʔaɪ̯nt͡sl̩tə](https://youglish.com/pronounce/vereinzeln/german), [[einzelne]]
+📍 [[vereinzeln]], [fɛɐ̯ˈʔaɪ̯nt͡sl̩tə](https://youglish.com/pronounce/vereinzeln/german), [[Einzelne]]
 
 ---
 2. [[vereinzelte]] [[Fehlgriffe]] [[beeinträchtigen]] den [[Lesefluss]] nicht
@@ -9,7 +9,7 @@
 
 
 ---
-= [[einzelne]], [[isolierte]]
+= [[Einzelne]], [[isolierte]]
 ≈ [[seltene]], [[gelegentliche]], [[punktuelle]]
 ≠ [[häufige]], [[zahlreiche]], [[allgemeine]]
 

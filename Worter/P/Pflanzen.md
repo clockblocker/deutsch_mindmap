@@ -1,2 +1,2 @@
 🔴 die [[Pflanze]]
-, [[wurzeln]], [[rupfen]], [[abholzen]]
+, [[wurzeln]], [[rupfen]], [[abholzen]], [[anbauen]]

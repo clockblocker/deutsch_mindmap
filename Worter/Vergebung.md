@@ -25,3 +25,5 @@ D: der [[Vergebung]], den [[Vergebungen]]
 
 ---
 [[vergeben]], [[verzeihen]], [[vergeben können]], [[gnädig]], [[barmherzig]]
+
+#Feminin 

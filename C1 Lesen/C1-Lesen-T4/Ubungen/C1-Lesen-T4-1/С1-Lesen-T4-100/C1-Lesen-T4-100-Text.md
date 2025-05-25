@@ -25,7 +25,7 @@
 ###### a Zoran Jovanovic, Galerist
 *[[C1-Lesen-T4-100-Text#^5|^]]* Es ist doch ganz einfach: Wie jede andere Ware unterliegen auch Kunstobjekte dem Prinzip von [[Angebot]] und [[Nachfrage]]. ^5
 
-*[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den [[Kunstgegenstand]] [[verlangen]] kann. ^6
+*[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den [[Kunstgegenstand]] [[Verlangen]] kann. ^6
 
 *[[C1-Lesen-T4-100-Text#^7|^]]* Der [[Geldwert]] wird nicht nur durch Größe, [[Aufwand]] und Materialien [[bestimmt]], sondern auch durch den [[Bekanntheitsgrad]] des Objekts oder des Kunstschaffenden. ^7
 

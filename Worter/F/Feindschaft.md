@@ -1,2 +1,2 @@
 , [[verfeinden]], [[feinden]], [[Feind]]
-, [[Beziehung]]
+, [[Beziehung]], [[Versöhnung]]

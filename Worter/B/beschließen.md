@@ -42,4 +42,4 @@ Zu+infinitive: [[zu beschließen]]
 [[Beschluss]], [[Beschließung]], [[Entscheidung]], [[Beschlussfähigkeit]], [[Beschlussvorlage]]
 
 , [[entscheiden]], [[entschließen]]
-, [[vorhaben]], [[selbstauferlegen]], [[festmachen]]
+, [[vorhaben]], [[selbstauferlegen]], [[festmachen]], [[Entschluss]]

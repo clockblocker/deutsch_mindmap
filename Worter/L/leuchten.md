@@ -41,4 +41,4 @@ Morpheme: [[leucht]][[en]]
 | Sie       | [[leuchten]]         | [[leuchteten]]        | [[leuchten Sie]]  | [[leuchten]]           | [[leuchteten]]          |
 
 Partizip I: [[leuchtend]], Partizip II: [[geleuchtet]]
-, [[s1 e1]], [[zusammenbrechen]], [[Leuchtrakete]], [[beleuchten]], [[ausleuchten]], [[ausgehen]]
+, [[s1 e1]], [[zusammenbrechen]], [[Leuchtrakete]], [[beleuchten]], [[ausleuchten]], [[ausgehen]], [[einleuchtend]], [[einleuchten]]

@@ -15,7 +15,7 @@ Freund gern. Wir gehen zusammen ins Café, singen "Zum Geburtstag viel Glück!" 
 
 
 ---
-Synonyme: [[begehren]], [[verlangen]], [[herbeisehnen]], [[erhoffen]], [[erbitten]]
+Synonyme: [[begehren]], [[Verlangen]], [[herbeisehnen]], [[erhoffen]], [[erbitten]]
 Antonyme: [[ablehnen 1]], [[verweigern]], [[absagen]], [[verzichten]]
 
 ---

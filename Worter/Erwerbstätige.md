@@ -24,3 +24,5 @@ D: der [[Erwerbstätigen]], den [[Erwerbstätigen]]
 
 ---
 [[erwerbstätig]], [[Erwerbsarbeit]], [[Erwerb]], [[tätig]]
+
+#Feminin 

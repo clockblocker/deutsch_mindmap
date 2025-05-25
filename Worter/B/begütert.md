@@ -1,1 +1,1 @@
-, [[armer]], [[armen]], [[reich]], [[bedürftig]], [[gutbetucht]]
+, [[armer]], [[armen]], [[reich]], [[bedürftig]], [[gutbetucht]], [[wohlhabend]]

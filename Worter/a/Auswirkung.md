@@ -4,11 +4,11 @@
 die [[Auswirkungen]]
 
 ---
-91. In Deutschland kann ein Regierungswechsel in einem Bundesland [[Auswirkung]] auf die Bundespolitik haben. Das Regieren wird … (64%)
-	- [x] schwieriger, wenn [[dadurch]] die Mehrheit im Bundesrat [[verändert]] wird.
+*[[C1-Hoehen-T2-101-Text#^15|^]]* So kann eine individuelle [[Entscheidung]] [[Auswirkung]]en auf die systemische [[Ebene]] haben und [[umgekehrt]]
 
-*[[001-C1-Schreiben-T1#^8|^]]* Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]. ^8
+*[[C1-Hoehen-T2-101-Text#^33|^]]* Und wie ist Ihre [[Einschätzung]] [[bezüglich]] der [[Auswirkung]]en der [[Demonstration]]en?
 
+*[[001-C1-Schreiben-T1#^8|^]]* Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]
 
 ---
 = [[Effekt]], [[Folge]], [[Konsequenz]]

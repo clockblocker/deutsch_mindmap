@@ -1,1 +1,1 @@
-, [[Verlust]], [[Aufstieg]], [[Anstieg]], [[Zulauf]], [[Mitgliederschwund]], [[Schwund]]
+, [[Verlust]], [[Aufstieg]], [[Anstieg]], [[Zulauf]], [[Mitgliederschwund]], [[Schwund]], [[Zunahme]]

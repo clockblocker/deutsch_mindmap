@@ -7,7 +7,7 @@ die [[Meinungsäußerungen]]
 ---
 
 16. Wann ist die Meinungsfreiheit in Deutschland [[eingeschränkt]]? (80%)
-	- [x] bei der öffentlichen [[Verbreitung]] falscher [[Behauptung]] über [[einzelne]] Personen
+	- [x] bei der öffentlichen [[Verbreitung]] falscher [[Behauptung]] über [[Einzelne]] Personen
 	- [ ] bei [[Meinungsäußerungen]] über die [[Bundesregierung]]
 	- [ ] bei Diskussionen über Religionen
 	- [ ] bei [[Kritik]] am Staat

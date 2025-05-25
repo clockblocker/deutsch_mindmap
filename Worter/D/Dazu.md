@@ -38,4 +38,4 @@ Tags:
 Morphems:
 [[Da]][[zu]] 
  
-, [[11 08]], [[Faden]], [[da]], [[s1 e1]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]], [[hierbei]], [[tief]]
+, [[11 08]], [[Faden]], [[da]], [[s1 e1]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]], [[hierbei]], [[tief]], [[hierzu]]

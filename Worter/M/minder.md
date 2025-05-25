@@ -1,1 +1,1 @@
-, [[Weniger]], [[Minderung]]
+, [[Weniger]], [[Minderung]], [[minderjährig]]

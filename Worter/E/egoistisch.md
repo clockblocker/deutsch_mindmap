@@ -1,1 +1,1 @@
-, [[gierig]], [[Sozial]], [[wohltätig]], [[aufopfernd]], [[hilfsbereit]]
+, [[gierig]], [[Sozial]], [[wohltätig]], [[aufopfernd]], [[hilfsbereit]], [[Individualistisch]], [[kollektivistisch]]

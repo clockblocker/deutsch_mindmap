@@ -26,3 +26,5 @@ D: dem [[Arbeiteraufstand]], den [[Arbeiteraufständen]]
 
 ---
 [[aufständisch]], [[Aufstand]], [[Arbeiter]], [[revolutionär]], [[streiken]]
+
+#Maskulin 

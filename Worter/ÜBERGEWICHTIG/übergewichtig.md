@@ -24,4 +24,4 @@ overweight
 Adjektive: [[übergewichtig]], [[übergewichtiger]], [[übergewichtigst]]
 
 ---
-[[übergewichtiger]], [[übergewichtiges]], [[übergewichtige]], [[übergewichtigen]], [[übergewichtigem]], [[übergewichtigerer]], [[übergewichtigeres]], [[übergewichtigere]], [[übergewichtigeren]], [[übergewichtigerem]], [[übergewichtigster]], [[übergewichtigstes]], [[übergewichtigste]], [[übergewichtigsten]], [[übergewichtigstem]]
+[[übergewichtiger]], [[übergewichtiges]], [[übergewichtige]], [[übergewichtigen]], [[übergewichtigem]], [[übergewichtigerer]], [[übergewichtigeres]], [[übergewichtigere]], [[übergewichtigeren]], [[übergewichtigerem]], [[übergewichtigster]], [[übergewichtigstes]], [[übergewichtigste]], [[übergewichtigsten]], [[übergewichtigstem]], [[schwergewichtig]]

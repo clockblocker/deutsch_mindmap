@@ -1,1 +1,1 @@
-, [[Schwachsinn]]
+, [[Schwachsinn]], [[schwach]]

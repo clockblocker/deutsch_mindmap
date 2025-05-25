@@ -1,8 +1,8 @@
-🔵 🤝️ die [[Einflussnahme]], [ˈaɪ̯nflʊsnaːmə]
+🤝️ die [[Einflussnahme]], [ˈaɪ̯nflʊsnaːmə]
 die [[Einflussnahmen]]
 
 ---
-[[BEI MAISCHBERGER.md#^1|^]] [[Baerbock]] macht russische [[Einflussnahme]] für ihre [[Wahlniederlage]] als Kanzlerkandidatin [[verantwortlich]] ^1
+*[[BEI MAISCHBERGER.md#^1|^]]* [[Baerbock]] macht russische [[Einflussnahme]] für ihre [[Wahlniederlage]] als Kanzlerkandidatin [[verantwortlich]]
 
 
 ---
@@ -24,3 +24,6 @@ D: der [[Einflussnahme]], den [[Einflussnahmen]]
 
 ---
 [[Einfluss]], [[einflussreich]], [[einflüstern]], [[selbstbewusst]], [[selbständig]]
+
+
+#Feminin 

@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Tendenz]], [[Tendenzen]], [[Tendenz]], [[Tendenzen]]
 
 ---
-#Substantiv #Feminin
+#Substantiv #Feminin, [[tendenziell]]

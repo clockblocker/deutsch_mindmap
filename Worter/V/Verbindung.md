@@ -2,7 +2,11 @@
 die [[Verbindungen]]
 
 ---
-Entschuldige, die [[Verbindung]] ist schlecht.
+Entschuldige, die [[Verbindung]] ist schlecht
+
+*[[C1-Hoehen-T2-101-Text#^19|^]]* [[Konsumverhalten|Konsum]]- und [[Reiseverhalten]], was ja mit den [[Einkommensverhältnis]]sen 
+`in` [[Verbindung]] `steht`, 
+[[auswirken|wirkt]] sich [[schließlich]] direkt aufs Klima aus
 
 *[[C1-Hoehen-T2-201-Text#^35|^]]* Sie [[betonen]] ja immer wieder, mathematische [[Inhalt]]e mit realen Phänomenen 
 in [[Verbindung]] zu bringen. Haben Sie ein Beispiel dafür parat?

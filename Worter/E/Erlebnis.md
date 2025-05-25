@@ -2,9 +2,9 @@
 die [[Erlebnisse]]
 
 ---
-[[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." 
+*[[1 Präpositionen Übungen.md#^9|^]]* Von meinen Kollegen habe ich [[wertvoll]]e [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnis]]sen bin ich heute [[erfolgreicher]] als je [[zuvor]]."
 
-*[[Text mit Reflexivpronomen#^17|^]]* Wir konnten (22) noch an viele [[Erlebnis]]se aus der Schulzeit erinnern.
+*[[Text mit Reflexivpronomen#^17|^]]* Wir konnten noch an viele [[Erlebnis]]se aus der Schulzeit erinnern.
 
 ---
 = [[Begebenheit]], [[Geschichte]], [[Ereignis]], [[Abenteuer]]

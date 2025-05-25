@@ -3,8 +3,9 @@
 📈 [[zunehmen]], [ˈtsuːˌneːmən] | [[nahm zu]], haben [[zugenommen]]
 
 ---
-*[[Sprechen-T1#^4|^]]* Heute wird kontrovers darüber diskutiert, wie Städte mit dem [[zunehmenden]] [[Verkehrsaufkommen]] umgehen sollen, insbesondere im [[Hinblick]] auf Umwelt- und Lebensqualitätsfragen. ^4
+*[[Sprechen-T1#^4|^]]* Heute wird kontrovers darüber diskutiert, wie Städte mit dem [[zunehmenden]] [[Verkehrsaufkommen]] umgehen sollen, insbesondere im [[Hinblick]] auf Umwelt- und Lebensqualitätsfragen
 
+14 Die [[Nutzung]] von Autos, Bussen und Bahnen wird [[künftig]] stark [[zunehmen]]
 
 *[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
 

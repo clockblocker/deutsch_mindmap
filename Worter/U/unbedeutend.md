@@ -1,4 +1,4 @@
 --> 🧱[[Grad-Gewicht]] <--
 
 
-, [[bemerkenswert]], [[prestigeträchtig]], [[namhaft]]
+, [[bemerkenswert]], [[prestigeträchtig]], [[namhaft]], [[erwähnenswert]]

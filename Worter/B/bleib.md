@@ -1,1 +1,1 @@
-, [[bleiben]], [[übrigbleiben]], [[verbleiben]]
+, [[bleiben]], [[übrigbleiben]], [[verbleiben]], [[wegbleiben]]

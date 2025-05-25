@@ -3,6 +3,8 @@
 ---
 *[[01-C1-Schreiben-T2-M#^11|^]]* - Eröffnen Sie Ihr Schreiben höflich, [[indem]] Sie Verständnis für [[Sachzwänge]] [[zeigen]]
 
+*[[C1-Hoehen-T2-101-Text#^32|^]]* Das haben einige [[Umfrage]]n nun [[gezeigt]]
+
 *[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem breiten [[Bürgertum]] an [[Wisse]]n [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]]
 
 *[[C1-Hoehen-T2-200-Text#^6|^]]* 12 Untersuchungen [[zeigten]], dass man die Intelligenz von Frauen [[unterschätzt]]

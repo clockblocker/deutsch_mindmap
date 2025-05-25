@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-203-Text#^24|^]]* Und die dritte Doku „Sport und [[Gerechtberechtigung]]“ [[beschäftigt]] sich mit dem Thema der ungleichen Bezahlung zwischen männlichen und [[weiblich]]en Athleten
 
+*[[C1-Hoehen-T2-101-Text#^31|^]]* Allerdings handelt es sich [[hierbei]] um eine besondere [[Anhängerschaft]], nämlich gut [[gebildet]]e, oft [[weiblich]]e Jugendliche, die sich eher dem linken Spektrum [[zuordnen]]
+
 *[[C1-Hoehen-T1-203-Text#^20|^]]* [[Verbände]] wenden sich mit dem [[Hinweis]] an die Presse, dass dies eben die [[weiblichen]] Athleten
 
 ---

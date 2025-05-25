@@ -1,1 +1,1 @@
-, [[Beschluss]], [[Willenskraft]], [[Festlegung]], [[Karrierebewusstsein]], [[Entscheidungsfreude]], [[Durchsetzungsvermögen]]
+, [[Beschluss]], [[Willenskraft]], [[Festlegung]], [[Karrierebewusstsein]], [[Entscheidungsfreude]], [[Durchsetzungsvermögen]], [[Entschluss]]

@@ -19,7 +19,7 @@ Was du brauchst, ist Nics Training für Fernsehreporter!
 
 ---
 = [[benötigen]], [[erfordern]], [[benötigen]]
-≈ [[erwünschen]], [[verlangen]], [[dürfen]]
+≈ [[erwünschen]], [[Verlangen]], [[dürfen]]
 ≠ [[entbehren]], [[vermissen]], [[verzichten]]
 
 ---

@@ -1,7 +1,7 @@
 🤔 [[beeinflussen]], [bəˈʔaɪ̯nflʊsn̩](https://youglish.com/pronounce/beeinflussen/german) → [[beeinflusste]] → [[beeinflusst]]
 
 ---
-- Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann.
+Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann.
 
 Informations[[flut]] – Wie [[beeinflussen]] soziale Medien unser Denken?
 
@@ -56,4 +56,4 @@ sie, [[beeinflussen]], [[beeinflussten]], [[beeinflussen]], [[beeinflussten]], [
 Adjektive: [[beeinflussend]], [[beeinflussender]], [[beeinflussendst]]
 
 ---
-[[beeinflussender]], [[beeinflussendes]], [[beeinflussende]], [[beeinflussenden]], [[beeinflussendem]], [[beeinflussenderer]], [[beeinflussenderes]], [[beeinflussendere]], [[beeinflussenderen]], [[beeinflussenderem]], [[beeinflussendster]], [[beeinflussendstes]], [[beeinflussendste]], [[beeinflussendsten]], [[beeinflussendstem]], [[Umwelteinfluss]], [[Einflussfaktor]], [[verführen]]
+[[beeinflussender]], [[beeinflussendes]], [[beeinflussende]], [[beeinflussenden]], [[beeinflussendem]], [[beeinflussenderer]], [[beeinflussenderes]], [[beeinflussendere]], [[beeinflussenderen]], [[beeinflussenderem]], [[beeinflussendster]], [[beeinflussendstes]], [[beeinflussendste]], [[beeinflussendsten]], [[beeinflussendstem]], [[Umwelteinfluss]], [[Einflussfaktor]], [[verführen]], [[wohlhabend]]

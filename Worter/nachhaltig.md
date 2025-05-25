@@ -5,6 +5,8 @@
 ---
 *[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus
 
+*[[C1-Hoehen-T2-101-Text#^2|^]]* Herr Wallmannsberger, ist der [[Einzelne]] denn tatsächlich in der [[Lage]], [[nachhaltig]] etwas gegen die Klimakatastrophe zu bewirken oder wären hier nicht vielmehr die [[Großkonzern]]e in die Pflicht zu nehmen?
+
 *[[C1-Hoehen-T1-202-Text#^24|^]]* Oder der [[sächsische]] Oberberghauptmann Carl von Carlowitz äußerte bereits 1713 für eine schonende [[Forstwirtschaft]] und [[nachhaltig]]e Nutzung der [[Holzreserven]], indem er eine bessere [[Wärmedämmung]] der Häuser [[forderte]]
 
 c) Vor allem [[pädagogisch]] und [[ökologisch]] [[nachhaltiges]] Spielzeug.

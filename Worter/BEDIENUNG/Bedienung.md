@@ -24,3 +24,5 @@ N: die [[Bedienung]], die [[Bedienungen]]
 A: die [[Bedienung]], die [[Bedienungen]]
 G: der [[Bedienung]], der [[Bedienungen]]
 D: der [[Bedienung]], den [[Bedienungen]]
+
+#Feminin 

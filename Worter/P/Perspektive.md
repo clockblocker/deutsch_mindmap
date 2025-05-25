@@ -5,6 +5,8 @@
 ---
 Neue [[Perspektive]]n und [[Kompetenz]]en sind immer ein Gewinn.
 
+*[[C1-Hoehen-T2-101-Text#^8|^]]* Es gibt aber auch andere [[Perspektive]]n [[hierzu]]
+
 ich freue mich sehr, dass unser IT-Infrastruktur-Team durch Herrn Muller [[verstärkt]] wird. Neue [[Perspektive]]n und [[Kompetenz]]en sind immer ein [[Gewinn]]. ^1
 
 

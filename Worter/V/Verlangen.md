@@ -2,11 +2,12 @@
 die [[Verlangen]]
 
 ---
-*[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den Kunstgegenstand [[verlangen]] kann. ^6
+*[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den Kunstgegenstand [[Verlangen]] kann
 
+*[[C1-Hoehen-T2-101-Text#^22|^]]* Ihr [[Verlangen]] nach ihr [[abnehmen|nimmt]] also [[tendenziell]] ab
 
-*Ich nehm mein Schicksal in die Hand*  
-*Mein [[verlangen]] ist [[bemannt]]*  
+Ich nehm mein Schicksal in die Hand
+Mein [[Verlangen]] ist [[bemannt]]
 
 “[[anrufen]]” [[verlangt]] Akkusativ (“mich”), nicht Dativ (“mir”)
 
@@ -21,7 +22,7 @@ desire, longing
 #Neuter 
 
 ---
-[[verlangen]], [[verlangend]], [[verlangt]]
+[[Verlangen]], [[verlangend]], [[verlangt]]
 
 ---
 [[ver]]|[[lang]]|[[en]]
@@ -29,37 +30,37 @@ desire, longing
 
 
 ---
-###### [[verlangen]] jN
+###### [[Verlangen]] jN
 - Was [[verlangst]] du?
 - Eine Erklärung.
 
-- Was [[verlangen]] wir?
+- Was [[Verlangen]] wir?
 - Mehr Freiheit.
 
 - Warum [[hat]] er eine Entschädigung [[verlangt]]?
 - Weil er einen Schaden erlitten hat.
 
 ---
-###### [[verlangen]] `nach` jN
+###### [[Verlangen]] `nach` jN
 - `Wonach` [[verlangst]] du?
 - `Nach` Ruhe.
 
-- `Nach` was [[verlangen]] wir?
+- `Nach` was [[Verlangen]] wir?
 - `Nach` einem Urlaub.
 
 - Wie lange [[hast]] du `danach` [[verlangt]]?
 - Schon immer.
 
 ---
-N: das [[verlangen]], die [[verlangen]]
-A: das [[verlangen]], die [[verlangen]]
-G: des [[Verlangens]], der [[verlangen]]
-D: dem [[verlangen]], den [[verlangen]]
+N: das [[Verlangen]], die [[Verlangen]]
+A: das [[Verlangen]], die [[Verlangen]]
+G: des [[Verlangens]], der [[Verlangen]]
+D: dem [[Verlangen]], den [[Verlangen]]
 
 ---
 ---
 
-🗣️ [[verlangen]], [fɛɐ̯ˈlaŋən](https://youglish.com/pronounce/verlangen/german) → [[verlangte]] → haben [[verlangt]] | ❤️ [[verlangen]], [fɛɐ̯ˈlaŋən] → [[verlangte]] → haben [[verlangt]]
+🗣️ [[Verlangen]], [fɛɐ̯ˈlaŋən](https://youglish.com/pronounce/verlangen/german) → [[verlangte]] → haben [[verlangt]] | ❤️ [[Verlangen]], [fɛɐ̯ˈlaŋən] → [[verlangte]] → haben [[verlangt]]
 
 ---
 
@@ -82,22 +83,22 @@ to demand, to require | to desire, to long for
 
 
 ---
-###### [[verlangen]] jN
+###### [[Verlangen]] jN
 - Was [[verlangst]] du?
 - Eine Erklärung.
 
-- Was [[verlangen]] wir?
+- Was [[Verlangen]] wir?
 - Mehr Freiheit.
 
 - Warum [[hat]] er eine Entschädigung [[verlangt]]?
 - Weil er einen Schaden erlitten hat.
 
 ---
-###### [[verlangen]] `nach` jN
+###### [[Verlangen]] `nach` jN
 - `Wonach` [[verlangst]] du?
 - `Nach` Ruhe.
 
-- `Nach` was [[verlangen]] wir?
+- `Nach` was [[Verlangen]] wir?
 - `Nach` einem Urlaub.
 
 - Wie lange [[hast]] du `danach` [[verlangt]]?
@@ -105,14 +106,14 @@ to demand, to require | to desire, to long for
 
 ---
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
-ich, [[verlang]] / [[verlange]], [[verlangte]], [[verlange]], [[verlangte]], -
-du, [[verlangst]], [[verlangtest]], [[verlangest]], [[verlangtest]], [[verlang]] / [[verlange]]
+ich, [[Verlang]] / [[verlange]], [[verlangte]], [[verlange]], [[verlangte]], -
+du, [[verlangst]], [[verlangtest]], [[verlangest]], [[verlangtest]], [[Verlang]] / [[verlange]]
 er, [[verlangt]], [[verlangte]], [[verlange]], [[verlangte]], -
-wir, [[verlangen]], [[verlangten]], [[verlangen]], [[verlangten]], [[verlangen]]
+wir, [[Verlangen]], [[verlangten]], [[Verlangen]], [[verlangten]], [[Verlangen]]
 ihr, [[verlangt]], [[verlangtet]], [[verlanget]], [[verlangtet]], [[verlangt]]
-sie, [[verlangen]], [[verlangten]], [[verlangen]], [[verlangten]], [[verlangen]]
+sie, [[Verlangen]], [[verlangten]], [[Verlangen]], [[verlangten]], [[Verlangen]]
 
-*Zu + Inf*: zu [[verlangen]], *P2*: [[verlangt]]
+*Zu + Inf*: zu [[Verlangen]], *P2*: [[verlangt]]
 Adjektive: [[verlangend]], [[verlangender]], [[verlangendst]]
 
 ---

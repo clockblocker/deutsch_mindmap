@@ -29,4 +29,4 @@ G: der [[Nahrung]], der [[Nahrungen]]
 D: der [[Nahrung]], den [[Nahrungen]]
 
 
-#Feminin , [[Futter]], [[Zehrung]], [[Nährboden]], [[ernähren]], [[Nahrungsergänzungsmittel]], [[nähren]]
+#Feminin , [[Futter]], [[Zehrung]], [[Nährboden]], [[ernähren]], [[Nahrungsergänzungsmittel]], [[nähren]], [[Verzehr]]

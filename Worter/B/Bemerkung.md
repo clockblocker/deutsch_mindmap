@@ -1,1 +1,1 @@
-, [[Äußerung]], [[bemerkbar]], [[bemerkenswert]]
+, [[Äußerung]], [[bemerkbar]], [[bemerkenswert]], [[Erwähnung]]

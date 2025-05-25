@@ -18,7 +18,7 @@ to surprise, to amaze
 [[Wunder]], [[wunderbar]], [[Verwunderung]]
 
 ---
-[[ver]]|[[wunder]]|[[n]]
+[[ver]]|[[Wunder]]|[[n]]
 [[verwundern]]
 
 

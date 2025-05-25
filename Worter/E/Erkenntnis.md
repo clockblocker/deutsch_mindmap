@@ -6,6 +6,8 @@ die [[Erkenntnisse]]
 ---
 *[[16 Plusquamperfekt#^28|^]]* Seit dieser Zeit [[durchmachen|machte]] seine Kunst große [[Veränderungen]] durch - vom Impressionismus zum Kubismus, vom Kubismus zum Surrealismus, einer spontanen Methode der irrationalen [[Erkenntnis]]
 
+*[[C1-Hoehen-T2-101-Text#^9|^]]* [[Bedienen]] wir uns doch mal den [[Erkenntnis]]sen der [[Soziologie]]: Ihr [[zufolge]] kann man [[Gesellschaft]]en in [[Individualistisch]]e und [[Kollektivistisch]]e [[einteilen]]
+
 In dem Buch werden [[Erkenntnis]]se [[jahrhundertealter]] Medizin aus spirituellem Kontext [[betrachtet]]
 
 Hier wird den [[Erkenntnis]]sen mentaler [[Widerstandsfähigkeit]] [[nachgegangen]].  

@@ -1,1 +1,1 @@
-, [[verlangen]], [[Wunsch]], [[Bedürfnis]]
+, [[Verlangen]], [[Wunsch]], [[Bedürfnis]]

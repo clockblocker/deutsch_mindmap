@@ -1,9 +1,11 @@
 🦊 [[gewöhnlich]], [gəˈvøːnlɪç] ≠ [[ungewöhnlich]] | [[gewöhnen]]
 
 ---
-«Ich fing einen Fisch, aber es war kein [[gewöhnlicher]] Fisch. Er konnte sprechen, und ich gab ihn frei.»  [[12 Past#^3|(Quelle: 12 Past)]] 
+Für [[gewöhnlich]] [[gelangen]] [[Feinstaubpartikel]] nicht in den [[Blutkreislauf]]
 
 Obwohl sie heute [[pünktlich]] gekommen sind, [[verspäten]] sie sich [[gewöhnlich]]
+
+*[[12 Past#^3|^]]* «Ich fing einen Fisch, aber es war kein [[gewöhnlicher]] Fisch. Er konnte sprechen, und ich gab ihn frei.»   
 
 
 ---

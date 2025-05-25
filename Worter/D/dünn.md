@@ -67,4 +67,4 @@ thin
 ---
 
 Tags: 
-#Adjective [[dünn]], [[dick]], [[schmale]], [[fett]], [[bullig]], [[übergewichtig]]
+#Adjective [[dünn]], [[dick]], [[schmale]], [[fett]], [[bullig]], [[übergewichtig]], [[schwergewichtig]]

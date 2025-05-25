@@ -1,1 +1,1 @@
-🐑 🏆 [[beeinflussen]]
+🐑 🏆 [[beeinflussen]], [[unberührt]]

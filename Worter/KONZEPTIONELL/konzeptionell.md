@@ -1,1 +1,1 @@
-, [[Arbeitskonzept]]
+, [[Arbeitskonzept]], [[abstrakt]]

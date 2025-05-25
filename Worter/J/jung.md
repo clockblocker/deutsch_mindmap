@@ -43,4 +43,4 @@ alt (old)
 ---
 Tags: 
 #Adjective
-#Positive | #Comparative | #Superlative, [[Reif]], [[uralte]], [[unreif]], [[Deutschland]], [[jugendlich]]
+#Positive | #Comparative | #Superlative, [[Reif]], [[uralte]], [[unreif]], [[Deutschland]], [[jugendlich]], [[minderjährig]]

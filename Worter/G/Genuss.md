@@ -1,1 +1,1 @@
-, [[genießen]], [[vergnügen]], [[Leckerbissen]]
+, [[genießen]], [[vergnügen]], [[Leckerbissen]], [[Verzehr]]

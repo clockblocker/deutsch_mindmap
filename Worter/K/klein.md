@@ -176,4 +176,4 @@ dsadas
 [[wild]]
 
 
-[[Kohlekraftwerk]], [[Kleintier]], [[niedrig]]
+[[Kohlekraftwerk]], [[Kleintier]], [[niedrig]], [[Kleingärtner]]

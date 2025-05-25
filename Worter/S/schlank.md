@@ -24,4 +24,4 @@ slim, slender
 Adjektive: [[schlank]], [[schlanker]], [[schlankst]]
 
 ---
-[[schlanker]], [[schlankes]], [[schlanke]], [[schlanken]], [[schlankem]], [[schlankerer]], [[schlankeres]], [[schlankere]], [[schlankeren]], [[schlankerem]], [[schlankster]], [[schlankstes]], [[schlankste]], [[schlanksten]], [[schlankstem]], [[übergewichtig]]
+[[schlanker]], [[schlankes]], [[schlanke]], [[schlanken]], [[schlankem]], [[schlankerer]], [[schlankeres]], [[schlankere]], [[schlankeren]], [[schlankerem]], [[schlankster]], [[schlankstes]], [[schlankste]], [[schlanksten]], [[schlankstem]], [[übergewichtig]], [[schwergewichtig]]

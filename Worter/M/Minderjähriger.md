@@ -1,1 +1,1 @@
-, [[Jugendliche]]
+, [[Jugendliche]], [[minderjährig]]

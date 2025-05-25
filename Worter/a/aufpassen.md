@@ -2,6 +2,7 @@
 👀 [[aufpassen]], [ˈaʊ̯fˌpasn̩] | [[passte auf]], haben [[aufgepasst]]
 
 ---
+*[[C1-Hoehen-T2-102-Text#^1|^]]* Beim Thema [[Feinstaubbelastung]] muss so [[mancher]] [[aufpassen]], dass ihm nicht die Luft [[wegbleibt]]
 
 ---
 = [[achten]], [[beachten]], [[aufmerken]]

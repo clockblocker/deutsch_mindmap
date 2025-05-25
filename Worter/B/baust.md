@@ -1,1 +1,1 @@
-, [[bauen]], [[abbauen]], [[ausbauen]]
+, [[bauen]], [[abbauen]], [[ausbauen]], [[anbauen]]

@@ -2,9 +2,12 @@
 die [[Abgase]]
 
 ---
-[[Lektionen/Bekker/verben/1#^2|^]] Autos und Transporter [[verschmutzen]] nicht mehr die Luft durch [[Abgase]], denn Lastenräder bringen die Waren von [[außerhalb]] der Stadt bis zum Geschäft. ^2
+*[[Lektionen/Bekker/verben/1#^2|^]]* Autos und Transporter [[verschmutzen]] nicht mehr die Luft durch [[Abgase]], denn Lastenräder bringen die Waren von [[außerhalb]] der Stadt bis zum Geschäft. ^2
 
-1. Ein Problem für die Umwelt, das durch [[Abgase]] [[entsteht]]: [[Luftverschmutzung]]
+
+Der [[überwiegend]]e Teil der [[Schadstoff]]e entsteht durch [[Abgas]]e
+
+Ein Problem für die Umwelt, das durch [[Abgase]] [[entsteht]]: [[Luftverschmutzung]]
 
 
 ---
@@ -29,3 +32,5 @@ A: das [[Abgas]], die [[Abgase]]
 G: des [[Abgases]], der [[Abgase]]  
 D: dem [[Abgas]], den [[Abgasen]]
 , [[Autoabgas]]
+
+#Neuter 

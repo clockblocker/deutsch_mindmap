@@ -1,1 +1,1 @@
-, [[züchten]], [[bepflanzen]]
+, [[züchten]], [[bepflanzen]], [[anbauen]]

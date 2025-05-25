@@ -3,10 +3,12 @@
 ---
 *[[C1-Hoehen-T2-202-Text#^14|^]]* Man kann es auch daran [[ablesen]], dass sich Menschen in der Politik nicht mehr [[engagieren]] oder dass in den großen Parteien ein [[Mitgliederschwund]] [[herrscht]]
 
+*[[C1-Hoehen-T2-101-Text#^29|^]]* Und wie sieht es mit der Jugend selbst aus? Zeigen [[Bewegung]]en wie Fridays for Future nicht, dass gerade diese Gruppe hier sehr [[engagiert]] ist?
+
 ---
-= [[anheuern]], [[einstellen]], [[verpflichten]] | [[beteiligen]], [[einsetzen]], [[sich einsetzen]],  [[beschäftigen]], [[schäftigen]], [[anstellen]], [[anwerben]], [[einlassen]]
+= [[anheuern]], [[einstellen]], [[verpflichten]] | [[beteiligen]], [[einsetzen]], [[sich einsetzen]],  [[beschäftigen]], [[schäftigen]], [[anstellen]], [[anwerben]], [[einlassen]], [[tätig]], [[zielstrebig]],  [[eingefleischt]],
 ≈ [[beschäftigen]], [[anwerben]] | [[aktiv werden]], [[mitwirken]], [[sich engagieren]], [[einladen]], [[Ehrenamt]]
-≠ [[entlassen]], [[kündigen]] | [[ignorieren]], [[passiv sein]]
+≠ [[entlassen]], [[kündigen]] | [[ignorieren]], [[passiv sein]], [[faul]],  [[lustlos]], [[unbeteiligt]],
 
 ---
 to hire, to employ | to engage, to commit oneself  

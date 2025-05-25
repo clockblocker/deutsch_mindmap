@@ -3,6 +3,8 @@
 ---
 [[Eher]] [[ziehe]] ich wieder zu meinen Eltern, [[als-zu|als]] einen Tag länger bei dir zu wohnen.
 
+*[[C1-Hoehen-T2-101-Text#^10|^]]* Menschen [[wahrnehmen|nehmen]] `sich` also [[entweder]] [[eher]] getrennt von anderen oder verbunden mit ihnen [[wahr]]
+
 *[[C1-Hoehen-T2-202-Text#^25|^]]* Interessant finde ich, dass die Deutschen zum Großteil starke Leitfiguren, die auch mal die Regeln [[missachten]], [[eher]] [[ablehnen]]
 
 11 Herr Josek meint, dass die [[Wahlprogramm]]e [[eher]] den Interessen der älteren Generation [[entsprechen]].
@@ -37,4 +39,4 @@ Superlativ: [[am ehesten]]
 
 
 [[nachher]], [[zuvor]], [[Besteck]], [[Bestecken]]
-, [[als-zu]], [[Texte/Misc/Anki]], [[vielmehr]]
+, [[als-zu]], [[Texte/Misc/Anki]], [[vielmehr]], [[tendenziell]]

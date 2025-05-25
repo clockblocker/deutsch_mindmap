@@ -11,7 +11,7 @@
 ≈ [[einzeln]], [[abgesondert]], [[unterschiedlich]]
 ≠ [[gemeinsam]], [[zusammen]], [[vereint]]
 
-, [[gemeinsam]], [[auseinander]], [[einzelne]], [[insgesamt]]
+, [[gemeinsam]], [[auseinander]], [[Einzelne]], [[insgesamt]]
 
 
 ---

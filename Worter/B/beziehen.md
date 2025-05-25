@@ -1,8 +1,10 @@
 🏠 [[beziehen]] auf **+** Akk , [bəˈtsiːən] | [[bezog]], haben [[bezogen]]
 
 ---
- [Player to the team] -- Wie habt ihr Kaijo [[beziegt]]? 
- Durch pure [[Willenskraft]] oder?
+ [Player to the team] -- Wie habt ihr Kaijo [[beziegt]]? Durch pure [[Willenskraft]] oder?
+ 
+*[[C1-Hoehen-T2-101-Text#^28|^]]* Und selbst soziale [[Einrichtung]]en wie die [[Tafel]]n 
+[[beziehen]] *(obtain)* ihr [[Küchengut]] teilweise aus diesen [[Quelle]]n
 
 *[[C1-Hoehen-T2-100-Text#^6|^]]* Bei [[denjenig]]en Menschen, die aktuell Sozialleistungen [[beziehen]], könnte ein bedingungsloses Grundeinkommen die meisten dieser [[Leistung]]en ersetzen.  
 

@@ -1,3 +1,3 @@
 [[ziehen]]
 
-, [[zurückziehen]], [[überziehen]]
+, [[zurückziehen]], [[überziehen]], [[heranziehen]]

@@ -1,1 +1,1 @@
-, [[Sinn]], [[Ziel]], [[Verwendung]], [[Einflussnahme]]
+, [[Sinn]], [[Ziel]], [[Verwendung]], [[Einflussnahme]], [[Hauptziel]]

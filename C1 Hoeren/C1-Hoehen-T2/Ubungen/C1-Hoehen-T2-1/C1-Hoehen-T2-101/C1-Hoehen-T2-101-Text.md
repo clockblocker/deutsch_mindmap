@@ -4,111 +4,167 @@
 
 ![[008_PT_Goethe_C1 1.mp3]]
 
-7 Die Großkonzerne der Industrienationen sind die Hauptverursacher von Schadstoffen.  
+7 Die [[Großkonzern]]e der [[Industrienation]]en sind die [[Hauptverursacher]] von [[Schadstoff]]en
 - [ ] a stimmt  
+- [ ] b stimmt nicht  
+- [x] c dazu wird nichts gesagt  
+
+8 [[Individualistisch]]e [[Weltanschauung]]en bewirken ein [[Gefühl]] von [[Hilflosigkeit]] beim Thema [[Klimawandel]].  
+- [x] a stimmt  
 - [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
-8 Individualistische Weltanschauungen bewirken ein Gefühl von Hilflosigkeit beim Thema Klimawandel.  
+9 Die [[systemisch]]e [[Ebene]] bleibt von [[individuell]]en [[Entschlüssen]] [[unberührt]]
 - [ ] a stimmt  
+- [x] b stimmt nicht  
+- [ ] c dazu wird nichts gesagt  
+
+10 Insbesondere [[wohlhabend]]e Menschen können den Klimawandel [[beeinflussen]].  
+- [x] a stimmt  
 - [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
-9 Die systemische Ebene bleibt von individuellen Entschlüssen unberührt.  
-- [ ] a stimmt  
-- [ ] b stimmt nicht  
+11 Die [[Verstädterung]] führt bei [[Minderjährig]]en zu einem verstärkten [[Wunsch]] nach Kontakt mit der Natur.  
+- [ ] a stimmt  тпио,
+- [x] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
-10 Insbesondere wohlhabende Menschen können den Klimawandel beeinflussen.  
+12 Kinder sollen erkennen, wie [[abhängig]] die Natur auch vom Menschen ist.  
 - [ ] a stimmt  
-- [ ] b stimmt nicht  
+- [x] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
-11 Die Verstädterung führt bei Minderjährigen zu einem verstärkten Wunsch nach Kontakt mit der Natur.  
+13 [[Kleingärtner]]:innen kultivieren Obst und Gemüse ausschließlich für den [[eigene]]n [[Bedarf]].  
 - [ ] a stimmt  
-- [ ] b stimmt nicht  
+- [x] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
-12 Kinder sollen erkennen, wie abhängig die Natur auch vom Menschen ist.  
+14 Bei Fridays for Future sind Vertreterinnen und [[Vertreter]] aller [[Gesellschaftsschicht]]en [[gleichermaßen]] aktiv.  
 - [ ] a stimmt  
-- [ ] b stimmt nicht  
+- [x] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
-13 Kleingärtner:innen kultivieren Obst und Gemüse ausschließlich für den eigenen Bedarf.  
+15 Gespräche mit Politiker:innen [[verliefen]] [[erfolgreich]]
 - [ ] a stimmt  
-- [ ] b stimmt nicht  
-- [ ] c dazu wird nichts gesagt  
-
-14 Bei Fridays for Future sind Vertreterinnen und Vertreter aller Gesellschaftsschichten gleichermaßen aktiv.  
-- [ ] a stimmt  
-- [ ] b stimmt nicht  
-- [ ] c dazu wird nichts gesagt  
-
-15 Gespräche mit Politiker:innen verliefen erfolgreich.  
-- [ ] a stimmt  
-- [ ] b stimmt nicht  
+- [x] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
 ---
 ---
 
 ###### Moderatorin:  
-Willkommen zu unserem Wissenschaftspodcast „Nachgefragt“, heute mit Herrn Professor Dr. Martin Wallmannsberger, der am Max-Planck-Institut für Meteorologie tätig ist. Schön, dass Sie da sind.
+*[[C1-Hoehen-T2-101-Text#^1|^]]* Willkommen zu unserem Wissenschaftspodcast „Nachgefragt“, heute mit Herrn Professor Dr. Martin Wallmannsberger, der am Max-Planck-Institut für Meteorologie [[tätig]] ist. Schön, dass Sie da sind. ^1
+
 
 ###### Prof. Dr. Wallmannsberger:  
 Vielen Dank für die Einladung.
 
 ###### Moderatorin:  
-Herr Wallmannsberger, ist der Einzelne denn tatsächlich in der Lage, nachhaltig etwas gegen die Klimakatastrophe zu bewirken oder wären hier nicht vielmehr die Großkonzerne in die Pflicht zu nehmen?
+*[[C1-Hoehen-T2-101-Text#^2|^]]* Herr Wallmannsberger, ist der [[Einzelne]] denn tatsächlich in der [[Lage]], [[nachhaltig]] etwas gegen die Klimakatastrophe zu bewirken oder wären hier nicht vielmehr die [[Großkonzerne]] in die [[Pflicht]] zu nehmen? ^2
+
 
 ###### Prof. Dr. Wallmannsberger:  
-Eine sehr gute Frage. Ich würde sagen, beide Parteien können hier etwas bewirken, wobei zugegebenermaßen schon zu beachten ist, dass sich laut einer Analyse des Carbon Disclosure Project 70 % der internationalen Emissionen auf allein 100 Produzenten zurückführen lassen. Und diese 100 Produzenten setzen sich teils aus fossilen Industriezweigen und teils aus Nationen zusammen, die intensiv auf fossile Energien bauen.
+*[[C1-Hoehen-T2-101-Text#^3|^]]* Eine sehr gute Frage. ^3
+
+*[[C1-Hoehen-T2-101-Text#^4|^]]* Ich würde sagen, beide Parteien können hier etwas [[bewirken]], wobei [[zugegebenermaßen]] schon zu beachten ist, dass sich laut einer Analyse des Carbon Disclosure Project 70% der internationalen [[Emission]]en auf allein 100 Produzenten [[zurückführen]] lassen. ^4
+
+*[[C1-Hoehen-T2-101-Text#^5|^]]* Und diese 100 Produzenten setzen sich teils aus fossilen Industriezweigen und teils aus Nationen zusammen, die intensiv auf fossile Energien bauen. ^5
+
 
 ###### Moderatorin:  
-Hm, das klingt ja erstmal so, als ob wir Individuen fast keinen Einfluss nehmen könnten. Ich muss zugeben, dass ich das schon ziemlich entmutigend finde.
+*[[C1-Hoehen-T2-101-Text#^6|^]]* Hm, das klingt ja [[erstmal]] so, als ob wir Individuen fast keinen [[Einfluss]] nehmen könnten. Ich muss [[zugeben]], dass ich das schon [[ziemlich]] [[entmutigend]] finde. ^6
+
 
 ###### Prof. Dr. Wallmannsberger:  
-Das kann ich verstehen. Es gibt aber auch andere Perspektiven hierzu. Bedienen wir uns doch mal den Erkenntnissen der Soziologie: Ihr zufolge kann man Gesellschaften in Individualistische und Kollektivistische einteilen. Menschen nehmen sich also entweder eher getrennt von anderen oder verbunden mit ihnen wahr. Aufgrund der Zunahme von individualistischen Strukturen sehen sich in derart geprägten Gesellschaften immer mehr Menschen dem Klimawandel machtlos gegenüberstehen, da ihre Weltanschauung ja auch eher solche Denkweisen hervorruft.
+*[[C1-Hoehen-T2-101-Text#^7|^]]* Das kann ich verstehen. ^7
+
+*[[C1-Hoehen-T2-101-Text#^8|^]]* Es gibt aber auch andere [[Perspektive]]n [[hierzu]]. ^8
+
+*[[C1-Hoehen-T2-101-Text#^9|^]]* [[Bedienen]] wir uns doch mal den [[Erkenntnis]]sen der [[Soziologie]]: Ihr [[zufolge]] kann man [[Gesellschaft]]en in [[Individualistisch]]e und [[Kollektivistisch]]e [[einteilen]]. ^9
+
+*[[C1-Hoehen-T2-101-Text#^10|^]]* Menschen [[wahrnehmen|nehmen]] `sich` also [[entweder]] [[eher]] getrennt von anderen oder verbunden mit ihnen [[wahr]]. ^10
+
+*[[C1-Hoehen-T2-101-Text#^11|^]]* Aufgrund der [[Zunahme]] von individualistischen Strukturen sehen sich in [[derart]] [[geprägt]]en [[Gesellschaft]]en immer mehr Menschen dem Klimawandel [[machtlos]] [[gegenüberstehen]], da ihre [[Weltanschauung]] ja auch eher solche [[Denkweise]]n [[hervorruft]]. ^11
+
 
 ###### Moderatorin:  
-Diese beiden Denkweisen stehen sich also unversöhnlich gegenüber?
+*[[C1-Hoehen-T2-101-Text#^12|^]]* Diese beiden [[Denkweise]]n [[gegenüberstehen|stehen]] `sich` also [[unversöhnlich]] [[gegenüberstehen|gegenüber]]? ^12
+
 
 ###### Prof. Dr. Wallmannsberger:  
-Klingt erst mal so, aber sie tun es tatsächlich nicht. Begreifen wir eine Gesellschaft mal als System. So kann eine individuelle Entscheidung Auswirkungen auf die systemische Ebene haben und umgekehrt. Denken wir an ein einfaches Beispiel: Man wählt eine Partei und diese bekommt infolgedessen Sitze im Parlament.
+*[[C1-Hoehen-T2-101-Text#^13|^]]* Klingt erst mal so, aber sie tun es [[tatsächlich]] nicht. ^13
+
+*[[C1-Hoehen-T2-101-Text#^14|^]]* [[Begreifen]] wir eine Gesellschaft mal als System. ^14
+
+*[[C1-Hoehen-T2-101-Text#^15|^]]* So kann eine individuelle [[Entscheidung]] [[Auswirkung]]en auf die systemische [[Ebene]] haben und [[umgekehrt]]. ^15
+
+*[[C1-Hoehen-T2-101-Text#^16|^]]* Denken wir an ein einfaches Beispiel: Man wählt eine Partei und diese bekommt [[infolgedessen]] Sitze im Parlament. ^16
+
 
 ###### Moderatorin:  
-Gut, das klingt einleuchtend. Welche Rolle kommt hier aber genau dem Individuum zu?
+*[[C1-Hoehen-T2-101-Text#^17|^]]* Gut, das klingt [[einleuchtend]]. Welche Rolle kommt hier aber genau dem Individuum zu? ^17
+
 
 ###### Prof. Dr. Wallmannsberger:  
-Tja, da gibt es schon Unterschiede, zumal Individuen mit hohem sozioökonomischem Status einen großen negativen Einfluss auf den Klimawandel haben, falls diese einen exzessiven Lebensstil pflegen. Konsum- und Reiseverhalten, was ja mit den Einkommensverhältnissen in Verbindung steht, wirkt sich schließlich direkt aufs Klima aus.  
-Zudem finde ich einen weiteren Faktor erwähnenswert: In den Industrienationen hat sich in den letzten Jahrzehnten der Bezug zur Natur stark verändert. Die Urbanisierung trägt u. a. dazu bei, dass Kinder und Jugendliche eine immer schwächere Bindung zu der Natur haben und diese somit immer mehr zu etwas Abstraktem wird. Ihr Verlangen nach ihr nimmt also tendenziell ab.
+*[[C1-Hoehen-T2-101-Text#^18|^]]* Tja, da gibt es schon Unterschiede, zumal Individuen mit hohem sozioökonomischem Status einen großen negativen [[Einfluss]] auf den Klimawandel haben, falls diese einen [[exzessiv]]en [[Lebensstil]] [[pflegen]]. ^18
+
+*[[C1-Hoehen-T2-101-Text#^19|^]]* [[Konsumverhalten|Konsum]]- und [[Reiseverhalten]], was ja mit den [[Einkommensverhältnis]]sen in [[Verbindung]] steht, [[auswirken|wirkt]] sich [[schließlich]] direkt aufs Klima aus. ^19
+
+*[[C1-Hoehen-T2-101-Text#^20|^]]* Zudem finde ich einen weiteren Faktor [[erwähnenswert]]: In den [[Industrienation]]en hat sich in den letzten Jahrzehnten der [[Bezug]] zur Natur stark verändert. ^20
+
+*[[C1-Hoehen-T2-101-Text#^21|^]]* Die Urbanisierung [[beitragen|trägt]] u. a. dazu bei, dass Kinder und Jugendliche eine immer [[schwäch]]ere [[Bindung]] zu der Natur haben und diese somit immer mehr zu etwas [[Abstraktem]] wird. ^21
+
+*[[C1-Hoehen-T2-101-Text#^22|^]]* Ihr [[Verlangen]] nach ihr [[abnehmen|nimmt]] also [[tendenziell]] ab. ^22
+
 
 ###### Moderatorin:  
-Tja, also ich lebe auf dem Land und meine Kinder kennen dieses Problem nicht. Was aber können denn Eltern, die in der Stadt leben, hier tun?
+*[[C1-Hoehen-T2-101-Text#^23|^]]* Tja, also ich lebe auf dem Land und meine Kinder kennen dieses Problem nicht. Was aber können denn Eltern, die in der Stadt leben, hier tun? ^23
+
 
 ###### Prof. Dr. Wallmannsberger:  
-Wir lassen Natur für unsere Kleinsten wieder ganz konkret werden, sodass sie einerseits ihre Schönheit und ihr Wunder, andererseits aber auch unsere Abhängigkeit von ihr erfassen und nicht umgekehrt.
+*[[C1-Hoehen-T2-101-Text#^24|^]]* Wir lassen Natur für unsere Kleinsten wieder ganz konkret werden, sodass sie einerseits ihre [[Schönheit]] und ihr [[Wunder]], andererseits aber auch unsere [[Abhängigkeit]] von ihr [[erfassen]] und nicht [[umgekehrt]]. ^24
+
 
 ###### Moderatorin:  
-Und wie kann das praktisch geschehen? Haben Sie hierzu Tipps für unsere Zuhörerinnen und Zuhörer?
+*[[C1-Hoehen-T2-101-Text#^25|^]]* Und wie kann das praktisch geschehen? Haben Sie hierzu Tipps für unsere Zuhörerinnen und [[Zuhörer]]? ^25
+
 
 ###### Prof. Dr. Wallmannsberger:  
-Die Schrebergartenbewegung der 30- bis 40-Jährigen kann beispielsweise hierfür herangezogen werden. Die Pflege und der Verzehr von selbst Angebautem steigert die Wertschätzung der Natur selbst. Und selbst soziale Einrichtungen wie die Tafeln beziehen ihr Küchengut teilweise aus diesen Quellen.
+*[[C1-Hoehen-T2-101-Text#^26|^]]* Die [[Schrebergartenbewegung]] der 30- bis 40-Jährigen kann beispielsweise [[hierfür]] [[herangezogen]] werden. ^26
+
+*[[C1-Hoehen-T2-101-Text#^27|^]]* Die [[Pflege]] und der [[Verzehr]] von selbst [[Angebautem]] steigert die [[Wertschätzung]] der Natur selbst. ^27
+
+*[[C1-Hoehen-T2-101-Text#^28|^]]* Und selbst soziale [[Einrichtung]]en wie die [[Tafel]]n [[beziehen]] ihr [[Küchengut]] teilweise aus diesen [[Quelle]]n. ^28
+
 
 ###### Moderatorin:  
-Und wie sieht es mit der Jugend selbst aus? Zeigen Bewegungen wie Fridays for Future nicht, dass gerade diese Gruppe hier sehr engagiert ist?
+*[[C1-Hoehen-T2-101-Text#^29|^]]* Und wie sieht es mit der Jugend selbst aus? Zeigen [[Bewegung]]en wie "Fridays for Future" nicht, dass gerade diese Gruppe hier sehr [[engagiert]] ist? ^29
+
 
 ###### Prof. Dr. Wallmannsberger:  
-Absolut. Allerdings handelt es sich hierbei um eine besondere Anhängerschaft, nämlich gut gebildete, oft weibliche Jugendliche, die sich eher dem linken Spektrum zuordnen. Das haben einige Umfragen nun gezeigt.
+*[[C1-Hoehen-T2-101-Text#^30|^]]* Absolut. ^30
+
+*[[C1-Hoehen-T2-101-Text#^31|^]]* Allerdings handelt es sich [[hierbei]] um eine besondere [[Anhängerschaft]], nämlich gut [[gebildet]]e, oft [[weiblich]]e Jugendliche, die sich eher dem linken Spektrum [[zuordnen]]. ^31
+
+*[[C1-Hoehen-T2-101-Text#^32|^]]* Das haben einige [[Umfrage]]n nun [[gezeigt]]. ^32
+
 
 ###### Moderatorin:  
-Und wie ist Ihre Einschätzung bezüglich der Auswirkungen der Demonstrationen?
+*[[C1-Hoehen-T2-101-Text#^33|^]]* Und wie ist Ihre [[Einschätzung]] [[bezüglich]] der [[Auswirkung]]en der [[Demonstration]]en? ^33
+
 
 ###### Prof. Dr. Wallmannsberger:  
-Tatsächlich gemischt. Das Hauptziel haben sie zugegebenermaßen noch nicht erreicht. Es gab aber Gespräche mit namhaften Abgeordneten, deren mediale Zuwendung dazu führte, dass die Thematik immer größere Wellen schlagen konnte. Auch wenn viele Stimmen den Ausgang dieser Zusammenkünfte recht kritisch betrachten.
+*[[C1-Hoehen-T2-101-Text#^34|^]]* Tatsächlich [[gemischt]]. ^34
+
+*[[C1-Hoehen-T2-101-Text#^35|^]]* Das [[Hauptziel]] haben sie [[zugegebenermaßen]] noch nicht [[erreicht]]. ^35
+
+*[[C1-Hoehen-T2-101-Text#^36|^]]* Es gab aber Gespräche mit [[namhaften]] Abgeordneten, deren mediale [[Zuwendung]] dazu führte, dass die Thematik immer größere [[Welle]]n [[schlagen]] konnte. ^36
+
+*[[C1-Hoehen-T2-101-Text#^37|^]]* Auch wenn viele Stimmen den [[Ausgang]] dieser [[Zusammenkünfte]] recht kritisch [[betrachten]]. ^37
+
 
 ###### Moderatorin:  
 Herzlichen Dank für das Gespräch, Herr Wallmannsberger.
 
 ###### Prof. Dr. Wallmannsberger:  
-Ich danke Ihnen für die Einladung.
+Ich danke Ihnen für die [[Einladung]].

@@ -7,7 +7,7 @@ _Neben_ [[Beleidigungen]], _übler_ [[Nachrede]] _oder_ [[Verleumdung]] [[verfas
 
 ---
 = [[abrufen]], [[ansprechen]], [[appellieren]] | [[starten]], [[öffnen]]
-≈ [[fordern]], [[verlangen]] | [[starten]], [[laden]]
+≈ [[fordern]], [[Verlangen]] | [[starten]], [[laden]]
 ≠ [[verbergen]], [[verheimlichen]] | [[schließen]], [[beenden]]
 
 [[Aufruf]], [[auffordern]], [[rufen]], [[Verleumdung]]

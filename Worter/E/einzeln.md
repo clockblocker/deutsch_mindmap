@@ -1,6 +1,6 @@
 --> 🧮 [[Grad-Quantität]] <--
 
-🧐 [[einzeln]], [ˈaɪ̯ntsəln] | [[einzelnen]] | [[einzelne]],
+🧐 [[einzeln]], [ˈaɪ̯ntsəln] | [[einzelnen]] | [[Einzelne]],
 
 ---
 Ich spreche jedes Wort [[einzeln]]
@@ -27,7 +27,7 @@ N: [[einzeln]], [[einzelner]], [[einzelnster]]
 A: [[einzelnen]], [[einzelneren]], [[einzelnsten]]  
 G: [[einzelner]], [[einzelnerer]], [[einzelnster]]  
 D: [[einzelnem]], [[einzelnerem]], [[einzelnstem]]  
-F: [[einzelne]], [[einzelnere]], [[einzelnste]]  
+F: [[Einzelne]], [[einzelnere]], [[einzelnste]]  
 N: [[einzelnes]], [[einzelneres]], [[einzelnstes]]  
 P: [[einzelnen]], [[einzelneren]], [[einzelnsten]]  
 

@@ -1,1 +1,1 @@
-, [[gesellschaftlich]]
+, [[gesellschaftlich]], [[Soziologie]]

@@ -1,1 +1,1 @@
-, [[anschauliche]], [[veranschaulichen]], [[Weltanschauung]]
+, [[anschauliche]], [[veranschaulichen]], [[Weltanschauung]], [[abstrakt]]

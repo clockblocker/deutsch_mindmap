@@ -1,1 +1,1 @@
-, [[verzweifeln]], [[Herzeleid]], [[Erleichterung]], [[Hoffnung]], [[Zuversicht]]
+, [[verzweifeln]], [[Herzeleid]], [[Erleichterung]], [[Hoffnung]], [[Zuversicht]], [[Hilflosigkeit]]

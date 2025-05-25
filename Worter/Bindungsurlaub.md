@@ -26,4 +26,5 @@ D: dem [[Bindungsurlaub]], den [[Bindungsurlauben]]
 
 
 ---
--
+
+#Maskulin 

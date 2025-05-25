@@ -4,7 +4,7 @@
 
 ---
 = [[brauchen]], [[benötigen]], [[erfordern]]
-≈ [[benötigen]], [[verlangen]], [[erwarten]]
+≈ [[benötigen]], [[Verlangen]], [[erwarten]]
 ≠ [[entbehren]], [[verzichten]], [[überflüssig sein]]
 
 ---

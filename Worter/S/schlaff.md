@@ -1,1 +1,1 @@
-, [[locker]], [[stark]], [[faul]]
+, [[locker]], [[stark]], [[faul]], [[schwach]]

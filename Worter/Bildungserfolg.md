@@ -1,7 +1,7 @@
 🏆 🔵 der [[Bildungserfolg]], [ˈbɪldʊŋsʔɛɐ̯ˌfɔlk](https://youglish.com/pronounce/Bildungserfolg/german)
 
 ---
-- Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann.
+Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann.
 
 ---
 = [[Lernerfolg]], [[Schulerfolg]], [[Abschluss]]

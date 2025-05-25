@@ -2,7 +2,7 @@
 die [[Venedige]]
 
 ---
-Nikita: [[Eben]] so! Aber erzähl mir über die Reise, über [[Venedig]]. [[11 Tren#^1|(Quelle: 11 Tren)]] 
+Nikita: [[eben]] so! Aber erzähl mir über die Reise, über [[Venedig]]. [[11 Tren#^1|(Quelle: 11 Tren)]] 
 
 ---
 = [[Lagunenstadt]], [[Wasserstadt]]

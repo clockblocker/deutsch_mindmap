@@ -1,4 +1,4 @@
-, [[Politikunterricht]], [[politisch]], [[Verteidigungspolitik]], [[Politisierung]]
+
 🏛️ 🔴 die [[Politik]], [poˈliːtɪk](https://youglish.com/pronounce/Politik/german)
 
 ---
@@ -14,7 +14,7 @@ politics, policy
 политика
 
 ---
-[[Politiker]], [[politisch]], [[politisieren]], [[Politikerin]], [[Politologie]]
+[[Politiker]], [[politisch]], [[politisieren]], [[Politikerin]], [[Politologie]], [[Politikunterricht]], [[politisch]], [[Verteidigungspolitik]], [[Politisierung]]
 
 ---
 [[Politik]]
@@ -26,3 +26,5 @@ A: die [[Politik]], -
 G: der [[Politik]], -
 D: der [[Politik]], -
 , [[Wohnungspolitik]], [[Politikverdrossenheit]], [[Wahlprogramm]], [[Politikmüdigkeit]], [[Politikverdrossene]]
+
+#Feminin 

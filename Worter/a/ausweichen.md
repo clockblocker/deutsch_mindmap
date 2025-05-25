@@ -1,3 +1,3 @@
 , [[treffen]], [[steuere]], [[begegnen]], [[überfahren]], [[ausweichend]], [[haften]], [[umgehen]]
 , [[weichen]]
-, [[vermeiden]], [[fernhalten]], [[meiden]]
+, [[vermeiden]], [[fernhalten]], [[meiden]], [[gegenüberstehen]]

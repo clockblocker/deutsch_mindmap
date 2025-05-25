@@ -2,7 +2,11 @@
 die [[Pflichten]]
 
 ---
-Jetzt ist Schluss. Genug gespielt. Katara, denk dran, du hast [[Pflichten]].
+Jetzt ist Schluss. Genug gespielt. Katara, denk dran, du hast [[Pflichten]]
+
+*[[C1-Hoehen-T2-101-Text#^2|^]]* Herr Wallmannsberger, ist der [[Einzelne]] denn tatsächlich in der [[Lage]], [[nachhaltig]] etwas gegen die Klimakatastrophe zu bewirken oder wären hier nicht vielmehr die [[Großkonzerne]] 
+`in` die [[Pflicht]] zu `nehmen`? ^2
+
 
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]* Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten. ^7
 

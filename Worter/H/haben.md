@@ -32,4 +32,4 @@ Morpheme: [[hab]][[en]]
 Partizip I: [[habend]], Partizip II: [[gehabt]]
 
 [[Worter/H/haben]] - [[hab]] = [[en]]
-''', [[geben]], [[s1 e1]], [[Hilfsverb]], [[schleudern]], [[herausfinden]], [[abschrecken]], [[bestehen]], [[etablieren]], [[erkundigen]], [[anpassen]], [[initiieren]], [[lagern]], [[entlassen]], [[erwerben]], [[senken]], [[senken]], [[belaufen]], [[ausstatten]], [[beliefern]], [[erfassen]], [[verbilligen]], [[mithören]], [[einberufen]], [[bewähren]], [[einschleppen]], [[anbringen]], [[beseitigen]], [[handhaben]], [[teilhaben]], [[abstimmen]], [[entführen]], [[sensibilisieren]], [[abandonieren]], [[engagieren]]
+''', [[geben]], [[s1 e1]], [[Hilfsverb]], [[schleudern]], [[herausfinden]], [[abschrecken]], [[bestehen]], [[etablieren]], [[erkundigen]], [[anpassen]], [[initiieren]], [[lagern]], [[entlassen]], [[erwerben]], [[senken]], [[senken]], [[belaufen]], [[ausstatten]], [[beliefern]], [[erfassen]], [[verbilligen]], [[mithören]], [[einberufen]], [[bewähren]], [[einschleppen]], [[anbringen]], [[beseitigen]], [[handhaben]], [[teilhaben]], [[abstimmen]], [[entführen]], [[sensibilisieren]], [[abandonieren]], [[engagieren]], [[wohlhabend]]

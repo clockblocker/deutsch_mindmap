@@ -3,7 +3,7 @@ die [[Verbreitungen]]
 
 ---
  Wann ist die Meinungsfreiheit in Deutschland [[eingeschränkt]]? (80%)
-	- [x] bei der öffentlichen [[Verbreitung]] falscher [[Behauptung]] über [[einzelne]] Personen
+	- [x] bei der öffentlichen [[Verbreitung]] falscher [[Behauptung]] über [[Einzelne]] Personen
 
 
 ---

@@ -24,4 +24,4 @@ historical
 Adjektive: [[geschichtlich]], [[geschichtlicher]], [[geschichtlichst]]
 
 ---
-[[geschichtlicher]], [[geschichtliches]], [[geschichtliche]], [[geschichtlichen]], [[geschichtlichem]], [[geschichtlicherer]], [[geschichtlicheres]], [[geschichtlichere]], [[geschichtlicheren]], [[geschichtlicherem]], [[geschichtlichster]], [[geschichtlichstes]], [[geschichtlichste]], [[geschichtlichsten]], [[geschichtlichstem]]
+[[geschichtlicher]], [[geschichtliches]], [[geschichtliche]], [[geschichtlichen]], [[geschichtlichem]], [[geschichtlicherer]], [[geschichtlicheres]], [[geschichtlichere]], [[geschichtlicheren]], [[geschichtlicherem]], [[geschichtlichster]], [[geschichtlichstes]], [[geschichtlichste]], [[geschichtlichsten]], [[geschichtlichstem]], [[Schicht]]

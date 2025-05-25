@@ -3,6 +3,7 @@
 haben [[zugegeben]]
 
 ---
+*[[C1-Hoehen-T2-101-Text#^6|^]]* Hm, das klingt ja [[erstmal]] so, als ob wir Individuen fast keinen [[Einfluss]] nehmen könnten. Ich muss [[zugeben]], dass ich das schon [[ziemlich]] [[entmutigend]] finde
 
 
 ---
@@ -31,4 +32,4 @@ Morpheme: [[zu]][[geb]][[en]]
 Partizip I: [[zugebend]], Partizip II: [[zugegeben]]
 
 [[zugeben]] - [[zu]] = [[geben]]
-, [[ablehnen]], [[gestehen]]
+, [[ablehnen]], [[gestehen]], [[zugegebenermaßen]]

@@ -13,4 +13,4 @@
 ---
 
 
-#Neuter , [[Essenwagen]], [[Verpflegung]], [[Büfett]], [[verschlucken]], [[Nahrung]], [[Essensversorgung]], [[Futter]], [[Zehrung]], [[ernähren]]
+#Neuter , [[Essenwagen]], [[Verpflegung]], [[Büfett]], [[verschlucken]], [[Nahrung]], [[Essensversorgung]], [[Futter]], [[Zehrung]], [[ernähren]], [[Verzehr]]

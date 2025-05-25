@@ -10,7 +10,7 @@
 
 ---
 = [[ersuchen]], [[bitten]], [[anweisen]]
-≈ [[verlangen]], [[aufrufen]], [[ermahnen]], [[drängen]], [[einladen]], [[ansprechen]]
+≈ [[Verlangen]], [[aufrufen]], [[ermahnen]], [[drängen]], [[einladen]], [[ansprechen]]
 ≠ [[ignorieren]], [[ablehnen]], [[verweigern]]
 
 ---

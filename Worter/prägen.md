@@ -1,7 +1,9 @@
 🏺 [[prägen]], [ˈpʁɛːɡən] | [[prägte]], haben [[geprägt]]
 
 ---
-8 [[Politikverdrossenheit]] ist ein `von` [[Wissenschaftler]]n [[geprägter]] [[Ausdruck]]
+[[Politikverdrossenheit]] ist ein `von` [[Wissenschaftler]]n [[geprägter]] [[Ausdruck]]
+
+*[[C1-Hoehen-T2-101-Text#^11|^]]* Aufgrund der [[Zunahme]] von individualistischen Strukturen sehen sich in [[derart]] [[geprägt]]en [[Gesellschaft]]en immer mehr Menschen dem Klimawandel [[machtlos]] [[gegenüberstehen]], da ihre [[Weltanschauung]] ja auch eher solche [[Denkweise]]n [[hervorruft]]
 
 Welche Religion hat die [[europäische]] und deutsche Kultur [[geprägt]]? (97%)
 - [x] das [[Christentum]]

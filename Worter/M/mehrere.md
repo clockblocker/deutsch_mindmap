@@ -10,7 +10,7 @@ Oft leben [[mehrere]] Familien in einem Haus.
 ---
 = [[verschiedene]], [[einige]], [[etliche]]
 ≈ [[manche]], [[diverse]], [[zahlreiche]]
-≠ [[wenige]], [[einzelne]], [[kein]]
+≠ [[wenige]], [[Einzelne]], [[kein]]
 
 ---
 several, multiple, various

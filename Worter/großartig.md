@@ -5,7 +5,7 @@
 ---
 du machst das [[grossartich]]
 
-1. Я чувствую себя отлично! Ich fühle mich [[großartig]]! 
+ Я чувствую себя отлично! Ich fühle mich [[großartig]]! 
 
 ---
 = 🌟 [[toll]], [[hervorragend]], [[ausgezeichnet]], [[überragend]]

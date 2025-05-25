@@ -1,2 +1,2 @@
 , [[binden]], [[verheiratet]]
-, [[ledig]]
+, [[ledig]], [[Bindung]]

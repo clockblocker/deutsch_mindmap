@@ -99,3 +99,4 @@
 *Nur auf wenigen Inseln findet man noch* [[unberührte]] Strände.
 ###### [[abgelegen]] / [[entlegen]]
 *Um sich vom Alltagsstress zu erholen, suchen manche Urlauber Ruhe in* [[abgelegenen / entlegenen]] Dörfern.
+, [[Reiseverhalten]]

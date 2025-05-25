@@ -23,4 +23,4 @@ structural
 Adjektive: [[strukturell]], [[struktureller]], [[strukturellst]]
 
 ---
-[[struktureller]], [[strukturelles]], [[strukturelle]], [[strukturellen]], [[strukturellem]], [[strukturellerer]], [[strukturelleres]], [[strukturellere]], [[strukturelleren]], [[strukturellerem]], [[strukturellster]], [[strukturellstes]], [[strukturellste]], [[strukturellsten]], [[strukturellstem]]
+[[struktureller]], [[strukturelles]], [[strukturelle]], [[strukturellen]], [[strukturellem]], [[strukturellerer]], [[strukturelleres]], [[strukturellere]], [[strukturelleren]], [[strukturellerem]], [[strukturellster]], [[strukturellstes]], [[strukturellste]], [[strukturellsten]], [[strukturellstem]], [[systemisch]]

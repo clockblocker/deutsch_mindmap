@@ -11,7 +11,7 @@ Max: Es ist [[einfach]] wunderbar hier. Ich möchte dich auch [[einladen]]. Komm
 Nikita: Es [[klappt]] leider nicht. Ich kann jetzt nicht reisen. Heute ist der 16. Oktober, und am 20. Oktober habe ich die Prüfung in Mathematik. Ich muss in Moskau bleiben.
 Max: Ach so! Schade! Aber du musst unbedingt dein Studium in der Uni beenden! [[Wahrscheinlich]] hast du Unterricht noch!
 [[11 Tren#^1|(Quelle: 11 Tren)]]
-Nikita: [[Eben]] so! Aber erzähl mir über die Reise, über [[Venedig]]. ^1
+Nikita: [[eben]] so! Aber erzähl mir über die Reise, über [[Venedig]]. ^1
 Max: Die Stadt ist toll! Die Kanäle, die Kirchen, die Gebäude, die Museen, die Galerien - alles ist toll. Die ganze Stadt steht im Wasser. Es gibt keine Straßenbahn, keine U-Bahn. Man kann nur mit den kleinen Schiffen oder Booten fahren. Morgens stehe ich früh auf und gehe zu Fuß spazieren. Das Wetter ist im Herbst sehr schön hier.
 Nikita: Bringst du Ansichtskarten mit?
 Max: Ja, natürlich! Ich schicke dir sie gern. [[11 Tren#^2|(Quelle: 11 Tren)]]

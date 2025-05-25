@@ -4,6 +4,8 @@
 die [[Einrichtungen]]
 
 ---
+*[[C1-Hoehen-T2-101-Text#^28|^]]* Und selbst soziale [[Einrichtung]]en wie die [[Tafel]]n [[beziehen]] ihr [[Küchengut]] teilweise aus diesen [[Quelle]]n
+
 b) Es sollten mehr [[Einrichtung]]en für Kinder [[gebaut]] werden.  
 
 ---

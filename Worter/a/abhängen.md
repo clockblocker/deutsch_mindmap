@@ -3,6 +3,8 @@
 ---
 „Zugang zu Hochschulen darf nicht `vom` [[Einkommen]] [[abhängen]].“
 
+Kinder sollen [[erkennen]], wie [[abhängig]] die Natur auch `vom` Menschen ist.  
+
 *[[C1-Hoehen-T2-203-Text#^28|^]]* Sind bestimmte Menschen wirklich `vom` Internet [[abhängig]] oder nur von bestimmten [[Inhalt]]en?
 
 *[[C1-Hoehen-T2-100-Text#^26|^]]* Besteht nicht die Möglichkeit, dass Menschen, die aus verschiedenen Gründen nicht [[erwerbstätig]] sind oder sein können, durch das [[bedingungslos]]e Grundeinkommen dazu [[verleitet]] werden, in ihrer [[derzeitig]]en Situation zu [[verbleiben]] und dadurch möglicherweise von anderen [[abhängig]]er zu werden?

@@ -5,7 +5,7 @@
 
 ---
 = [[Durst haben]], [[verdursten]], [[verschmachten]]
-≈ [[lechzen]], [[verlangen]], [[brennend begehren]]
+≈ [[lechzen]], [[Verlangen]], [[brennend begehren]]
 ≠ [[sättigen]], [[stillen]], [[quenchen]]
 
 ---

@@ -2,17 +2,10 @@
 die [[Erziehungen]]
 
 ---
-248. Die [[Erziehung]] der Kinder ist in Deutschland vor allem [[Aufgabe]] … (96%)
-	- [ ] des Staates.
-	- [x] der Eltern.
-	- [ ] der Großeltern.
-	- [ ] der Schulen.
-
-3.	[[2 Unter Druck nach oben#^24|^]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine entscheidende Rolle. ^24
-
+*[[2 Unter Druck nach oben#^24|^]]* [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine entscheidende Rolle
 
 ---
-= [[Bildung]], [[Aufzucht]], [[Ausbildung]]
+= [[Bildung]], [[Aufzucht]], [[Ausbildung]], [[Erziehungsberechtigten]], [[Kindererziehung]], [[alleinerziehend]], [[Erziehungsproblem]], [[Erzie­hung]], [[Prügelstrafe]], [[Volksbildung]], [[Schulwesen]]
 ≈ [[Prägung]], [[Entwicklung]], [[Förderung]], [[Sozialisierung]]
 ≠ [[Vernachlässigung]], [[Verwahrlosung]], [[Misshandlung]]
 
@@ -31,4 +24,5 @@ D: der [[Erziehung]], den [[Erziehungen]]
 ---
 [[erziehen]], [[erzieherisch]], [[Erzieher]], [[Erzieherin]], [[Erziehungsberechtigter]]
 
-, [[Ausbildung]], [[Erziehungsberechtigten]], [[Kindererziehung]], [[alleinerziehend]], [[Erziehungsproblem]], [[Erzie­hung]], [[Prügelstrafe]], [[Volksbildung]], [[Schulwesen]]
+
+#Feminin 

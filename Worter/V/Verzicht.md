@@ -25,4 +25,4 @@ A: den [[Verzicht]], die [[Verzichte]]
 G: des [[Verzichts]], der [[Verzichte]]
 D: dem [[Verzicht]], den [[Verzichten]]
 
-#Maskulin , [[Kaufentscheidung]]
+#Maskulin , [[Kaufentscheidung]], [[Verzehr]]

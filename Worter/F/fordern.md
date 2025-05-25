@@ -19,7 +19,7 @@ Sie [[fordern]] den gleichen [[Lohn]] für alle.
 [[herausfordern]] - [[heraus]] = [[fordern]] / to challenge, to provoke, to dare
 
 ---
-= [[verlangen]], [[beanspruchen]], [[auffordern]]
+= [[Verlangen]], [[beanspruchen]], [[auffordern]]
 ≈ [[erbitten]], [[anfordern]], [[herausfordern]], [[provozieren]]
 ≠ [[ablehnen]], [[verzichten]], [[aufgeben]], [[nachgeben]]
 

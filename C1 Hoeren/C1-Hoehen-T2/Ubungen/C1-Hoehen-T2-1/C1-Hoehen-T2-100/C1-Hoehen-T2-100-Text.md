@@ -2,6 +2,8 @@
 
 ---
 
+![[003_PT_Goethe_C1 2.mp3]]
+
 7 Durch das bedingungslose Grundeinkommen könnten sich die heutigen [[Sozialleistung]]en [[erhöhen]]
 - [ ] a) stimmt  
 - [ ] b) stimmt nicht  

@@ -1,1 +1,1 @@
-, [[Anschluss]]
+, [[Anschluss]], [[Bindung]]

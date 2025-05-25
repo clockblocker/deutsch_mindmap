@@ -7,6 +7,8 @@ die [[Bewegungen]]
 ---
 keine weitere [[Bewegung]]
 
+*[[C1-Hoehen-T2-101-Text#^29|^]]* Und wie sieht es mit der Jugend selbst aus? Zeigen [[Bewegung]]en wie Fridays for Future nicht, dass gerade diese Gruppe hier sehr [[engagiert]] ist?
+
 ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]] war. wenn eine [[Handlung]] in der [[Vergangenheit]] [[stattgefunden]] hat, aber eine [[Richtungsänderung]] [[beschreibt]], bleibt es [[Akkusativ]]. [[Texte/Misc/GPT#^1|^]]
 
 FBI! Keine [[Bewegung]]
@@ -32,4 +34,4 @@ D: der [[Bewegung]], den [[Bewegungen]]
 [[bewegen]], [[Bewegungsablauf]], [[beweglich]], [[bewegend]], [[Bewegungsapparat]]
 [[Schritt]], [[Partei]], [[Spielzug]], [[Worter/S/Sport]], [[begeben]], [[Spaziergang]], [[Umwälzzirkulation]], [[Bewegungsmangel]], [[gang]], [[Lauf]]
 
-#Feminin 
+#Feminin , [[Schrebergartenbewegung]]

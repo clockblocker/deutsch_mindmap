@@ -1,3 +1,3 @@
 --> 🧩 [[Grad-Wahrheit]] <--
 
-Ich will [[real]] ... [[richtige]] ... Freunde …, [[sogenannt]], [[Realisierung]], [[virtuell]], [[Realwelt]], [[greifbar]], [[wahr]]
+Ich will [[real]] ... [[richtige]] ... Freunde …, [[sogenannt]], [[Realisierung]], [[virtuell]], [[Realwelt]], [[greifbar]], [[wahr]], [[abstrakt]]

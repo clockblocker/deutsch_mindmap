@@ -14,7 +14,7 @@ Antonyme: [[verachten]], [[ignorieren]], [[geringschätzen]]
 to admire, to marvel at
 
 ---
-[[be]][[wunder]][[n]]
+[[be]][[Wunder]][[n]]
    
 
 ---

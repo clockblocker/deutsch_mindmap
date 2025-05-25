@@ -1,6 +1,8 @@
 🤝 🔴 die [[Zuwendung]], [ˈt͡suːˌvɛndʊŋ](https://youglish.com/pronounce/Zuwendung/german)
 
 ---
+*[[C1-Hoehen-T2-101-Text#^36|^]]* Es gab aber Gespräche mit [[namhaften]] Abgeordneten, deren mediale [[Zuwendung]] dazu führte, dass die Thematik immer größere [[Welle]]n [[schlagen]] konnte
+
 - [[Einmalzahlung]] *(one-time payment)*
 - [[Zuschuss]] *(subsidy: implies it’s supportive, but not necessarily one-time (can be contextual))*
 - [[Geldleistung]] *(денежное пособие: generic term, dry, bureaucratic)*

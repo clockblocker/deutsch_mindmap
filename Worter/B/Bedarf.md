@@ -4,6 +4,8 @@
 ###### 12 [[Weshalb]] ist die [[Nachfrage]] nach neuen [[Hölzern]] so [[hoch]]?
 a) Das [[Angebot]] an Holz kann den [[Bedarf]] nicht [[decken]].  
 
+13 Kleingärtner:innen kultivieren Obst und Gemüse ausschließlich für den [[eigene]]n [[Bedarf]]
+
 ---
 = [[Notwendigkeit]], [[Erfordernis]], [[Anforderung]]
 ≈ [[Bedarf]], [[Nachfrage]], [[Bedarf]]

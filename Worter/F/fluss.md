@@ -2,7 +2,7 @@
 die [[Flüsse]]
 
 ---
-, [[beeinflussen]], [[fließend]], [[Einflussnahme]], [[Einfluss]]
+[[Feinstaub]] stellt auch für [[Flüsse]] und [[Seen]] ein [[Problem]] dar
 
 
 ---
@@ -15,7 +15,7 @@ river
 река
 
 ---
-[[fließen]], [[Flussbett]], [[Flussufer]], [[Flusslandschaft]]
+[[fließen]], [[Flussbett]], [[Flussufer]], [[Flusslandschaft]], [[beeinflussen]], [[fließend]], [[Einflussnahme]], [[Einfluss]]
 
 ---
 [[Fluss]]

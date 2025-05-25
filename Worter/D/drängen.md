@@ -6,7 +6,7 @@
 
 ---
 = [[zwingen]], [[nötigen]], [[bedrängen]]
-≈ [[fordern]], [[verlangen]], [[dringen]], [[drücken]], [[dringen]], [[zwingen]], [[auffordern]], [[verdrängen]]
+≈ [[fordern]], [[Verlangen]], [[dringen]], [[drücken]], [[dringen]], [[zwingen]], [[auffordern]], [[verdrängen]]
 ≠ [[zulassen]], [[erlauben]], [[freigeben]]
 
 ---

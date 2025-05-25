@@ -23,7 +23,7 @@ Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu 
 
 ---
 Synonyme:
-- [[verlangen]], [[Begehren]], [[Sehnsucht]], [[Bedürfnis]], [[Traum]]
+- [[Verlangen]], [[Begehren]], [[Sehnsucht]], [[Bedürfnis]], [[Traum]]
 
 ---
 Übersetzung: wish, desire, want
@@ -47,5 +47,5 @@ Deklinationstabelle:
 | Akkusativ| den Wunsch  | die Wünsche|
 
 
-, [[verlangen]]
+, [[Verlangen]]
 , [[erwarten]], [[anliegen]], [[Streben]], [[wünschenswert]], [[Wille]], [[Hoffnung]]

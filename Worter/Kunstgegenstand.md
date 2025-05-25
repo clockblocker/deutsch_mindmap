@@ -2,7 +2,7 @@
 die [[Kunstgegenstände]]
 
 ---
-*[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den [[Kunstgegenstand]] [[verlangen]] kann. ^6
+*[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den [[Kunstgegenstand]] [[Verlangen]] kann. ^6
 
 
 ---

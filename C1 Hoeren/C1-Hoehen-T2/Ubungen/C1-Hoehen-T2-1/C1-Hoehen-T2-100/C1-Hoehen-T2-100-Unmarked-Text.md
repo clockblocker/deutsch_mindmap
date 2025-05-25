@@ -1,7 +1,9 @@
 [[0-C1-Hoehen-T2-Ubung-List|Ubung-List]]
 
 ---
-!003_PT_Goethe_C1 1.mp3
+
+![[003_PT_Goethe_C1 2.mp3]]
+
 Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung.  
 
 7 Durch das bedingungslose Grundeinkommen könnten sich die heutigen Sozialleistungen erhöhen.  

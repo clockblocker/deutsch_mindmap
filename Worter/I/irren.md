@@ -25,4 +25,4 @@ Morpheme: [[irr]][[en]]
 | Sie       | [[irren]] | [[irrten]]  | [[irren Sie]] | [[irren]]    | [[irrten]]    |
 
 Partizip I: [[irrend]], Partizip II: [[geirrt]]
-, [[irrtümlich]], [[Irrtum]], [[Irrung]]
+, [[irrtümlich]], [[Irrtum]], [[Irrung]], [[verlaufen]]

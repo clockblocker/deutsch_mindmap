@@ -1,1 +1,1 @@
-, [[Entfernung]]
+, [[Entfernung]], [[unberührt]]

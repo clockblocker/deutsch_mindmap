@@ -1,1 +1,1 @@
-, [[Mineralstoff]]
+, [[Mineralstoff]], [[Schadstoff]]

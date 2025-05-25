@@ -1,1 +1,1 @@
-, [[Spielverhalten]], [[Kaufverhalten]], [[Verhaltensweise]]
+, [[Spielverhalten]], [[Kaufverhalten]], [[Verhaltensweise]], [[Reiseverhalten]]

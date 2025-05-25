@@ -7,6 +7,9 @@ die [[Lagen]]
 ---
 Wer war nicht schon einmal in einer schwierigen [[Lage]]? Gut, wenn man dann nicht alleine ist. 
 
+*[[C1-Hoehen-T2-101-Text#^2|^]]* Herr Wallmannsberger, ist der [[Einzelne]] denn tatsächlich in der [[Lage]], [[nachhaltig]] etwas gegen die Klimakatastrophe zu bewirken oder wären hier nicht vielmehr die [[Großkonzerne]] in die Pflicht zu nehmen? ^2
+
+
 *[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren
 
 *[[C1-Hoehen-T2-202-Text#^21|^]]* Wenn man weiß, wie ein politisches System funktioniert, kann man sich auch eine Meinung über die aktuelle politische [[Lage]] [[bilden]]
@@ -36,4 +39,4 @@ Einzigartige mögliche Formen:
 , [[befinden]], [[legen]], [[Niederlage]], [[Umstand]], [[Vorlage]], [[Wahlniederlage]]
 , [[Unterlage]]
 , [[gelegen]]
-, [[Auftragslage]], [[Kapitalanlage]], [[Lebenslage]], [[Geldanlage]], [[Wertanlage]]
+, [[Auftragslage]], [[Kapitalanlage]], [[Lebenslage]], [[Geldanlage]], [[Wertanlage]], [[Schicht]]

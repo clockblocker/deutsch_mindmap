@@ -1,1 +1,1 @@
-, [[vergehen]], [[stattfinden]], [[Ablauf]], [[auslaufen]]
+, [[vergehen]], [[stattfinden]], [[Ablauf]], [[auslaufen]], [[verlaufen]]

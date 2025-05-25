@@ -4,9 +4,11 @@
 ---
 Mach dir keine Sorgen über die [[erforderlichen]] [[Abonnements]] - die [[überwiegende]] [[Mehrheit]] der kostenpflichtigen Artikel ist in Internetarchiven kostenlos [[verfügbar]].
 
-1. [[überwiegend]] [[erkennbar]]  
+Der [[überwiegende]] Teil der [[Schadstoff]]e entsteht durch [[Abgas]]e
 
-	3. [[überwiegend]] angemessen  
+[[überwiegend]] [[erkennbar]]  
+
+[[überwiegend]] angemessen  
 
 
 ---

@@ -2,8 +2,9 @@
 🌿 [[pflegen]], [ˈpfleːɡən] | [[pflegte]], haben [[gepflegt]]
 
 ---
-*[[Lektionen/Bekker/verben/2#^2|^]]* Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]. ^2
+*[[Lektionen/Bekker/verben/2#^2|^]]* Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]
 
+*[[C1-Hoehen-T2-101-Text#^18|^]]* Tja, da gibt es schon Unterschiede, zumal Individuen mit hohem sozioökonomischem Status einen großen negativen [[Einfluss]] auf den Klimawandel haben, falls diese einen [[exzessiv]]en [[Lebensstil]] [[pflegen]]
 
 ---
 Synonyme: [[betreuen]], [[versorgen]], [[kümmern]], [[umsorgen]], [[behandeln]]

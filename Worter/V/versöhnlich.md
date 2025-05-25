@@ -1,1 +1,1 @@
-, [[schmollen]], [[friedlich]]
+, [[schmollen]], [[friedlich]], [[unversöhnlich]], [[Versöhnung]]

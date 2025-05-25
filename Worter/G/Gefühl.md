@@ -3,6 +3,8 @@
 die [[Gefühle]]
 
 ---
+8 [[Individualistisch]]e [[Weltanschauung]]en bewirken ein [[Gefühl]] von [[Hilflosigkeit]] beim Thema [[Klimawandel]].
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^9|^]]* Die [[informell]]en [[Gespräch]]e in der [[Kaffeepause]] oder der direkte [[Blickkontakt]] bei [[Meetings]] tragen [[entscheidend]] zur [[Teamentwicklung]] bei und [[fördern]] ein [[Gefühl]] der [[Zugehörigkeit]]
 
 *[[C1-Hoehen-T2-200-Text#^35|^]]* [[Bemerkenswert]] ist aber, dass jemand für intelligenter [[gehalten]] wird, wenn er [[lächelt]] oder andere positive [[Gefühle]] zeigt

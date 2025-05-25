@@ -25,4 +25,4 @@ communal, joint
 Adjektive: [[gemeinschaftlich]], [[gemeinschaftlicher]], [[gemeinschaftlichst]]
 
 ---
-[[gemeinschaftlicher]], [[gemeinschaftliches]], [[gemeinschaftliche]], [[gemeinschaftlichen]], [[gemeinschaftlichem]], [[gemeinschaftlicherer]], [[gemeinschaftlicheres]], [[gemeinschaftlichere]], [[gemeinschaftlicheren]], [[gemeinschaftlicherem]], [[gemeinschaftlichster]], [[gemeinschaftlichstes]], [[gemeinschaftlichste]], [[gemeinschaftlichsten]], [[gemeinschaftlichstem]]
+[[gemeinschaftlicher]], [[gemeinschaftliches]], [[gemeinschaftliche]], [[gemeinschaftlichen]], [[gemeinschaftlichem]], [[gemeinschaftlicherer]], [[gemeinschaftlicheres]], [[gemeinschaftlichere]], [[gemeinschaftlicheren]], [[gemeinschaftlicherem]], [[gemeinschaftlichster]], [[gemeinschaftlichstes]], [[gemeinschaftlichste]], [[gemeinschaftlichsten]], [[gemeinschaftlichstem]], [[Individualistisch]], [[kollektivistisch]]

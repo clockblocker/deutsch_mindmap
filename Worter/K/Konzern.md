@@ -1,1 +1,1 @@
-[[Unternehmen]], [[Handelsgesellschaft]], [[Firma]]
+[[Unternehmen]], [[Handelsgesellschaft]], [[Firma]], [[Großkonzern]]

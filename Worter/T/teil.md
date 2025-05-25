@@ -29,4 +29,4 @@ D: dem [[Teil]], den [[Teilen]]
 , [[Bestandteil]], [[Abteilung]]
 
 
-#Maskulin , [[Großteil]], [[Raumaufteilung]], [[Bruchteil]], [[Rest]], [[Plastikteil]], [[teilnehmen]], [[Teilnahme]], [[teilhaben]], [[Stadtteil]], [[verteilen]], [[Gegenteil]]
+#Maskulin , [[Großteil]], [[Raumaufteilung]], [[Bruchteil]], [[Rest]], [[Plastikteil]], [[teilnehmen]], [[Teilnahme]], [[teilhaben]], [[Stadtteil]], [[verteilen]], [[Gegenteil]], [[einteilen]]

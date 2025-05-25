@@ -10,7 +10,7 @@ die [[Ansprüche]]
 
 ---
 = [[Forderung]], [[Erwartung]], [[Recht]]
-≈ [[verlangen]], [[Anrecht]], [[Begehren]], [[Prätention]]
+≈ [[Verlangen]], [[Anrecht]], [[Begehren]], [[Prätention]]
 ≠ [[Verzicht]], [[Aufgabe]], [[Resignation]]
 
 ---

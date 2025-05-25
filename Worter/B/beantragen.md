@@ -5,7 +5,7 @@
 
 ---
 = [[erwirken]], [[stellen]], [[anfordern]],  
-≈ [[fordern]], [[verlangen]], [[einreichen]], [[Elterngeldstelle]], [[einfordern]]
+≈ [[fordern]], [[Verlangen]], [[einreichen]], [[Elterngeldstelle]], [[einfordern]]
 ≠ [[ablehnen]], [[verweigern]], [[zurückweisen]]
 
 ---

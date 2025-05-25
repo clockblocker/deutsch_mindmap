@@ -19,4 +19,4 @@ Morpheme:
 [[Stoff]]
 
 ---
-[[Leinewand]], [[Kunststoffabfall]], [[Kunststoffreste]], [[Abwehrstoff]], [[Stoffwechsel]], [[Sauerstoff]], [[Stoffwechselmechanismus]], [[Mineralstoff]], [[Stoffwechselprozess]], [[Nährstoffgehalt]]
+[[Leinewand]], [[Kunststoffabfall]], [[Kunststoffreste]], [[Abwehrstoff]], [[Stoffwechsel]], [[Sauerstoff]], [[Stoffwechselmechanismus]], [[Mineralstoff]], [[Stoffwechselprozess]], [[Nährstoffgehalt]], [[Schadstoff]]

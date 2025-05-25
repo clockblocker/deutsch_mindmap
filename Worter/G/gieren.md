@@ -4,7 +4,7 @@
 *[[C1-Hoehen-T2-203-Text#^23|^]]* Likes und Smilies spielen hier auch eine enorme Rolle, denn wir [[gieren]] nach [[Anerkennung]] durch andere
 
 ---
-= [[begehren]], [[verlangen]], [[lechzen]]
+= [[begehren]], [[Verlangen]], [[lechzen]]
 ≈ [[wünschen]], [[streben]], [[ersehnen]]
 ≠ [[verachten]], [[ablehnen]], [[verschmähen]]
 

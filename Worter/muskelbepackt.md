@@ -1,8 +1,7 @@
 💪 [[muskelbepackt]], [ˈmʊskl̩bəˌpakt](https://youglish.com/pronounce/muskelbepackt/german)
 
 ---
-*[[C1-Lesen-T2-102-Text#^3|^]]* Denn während die [[muskelbepackten]] Sprinter mehr Statisten aus einem Gladiatorenfilm [[wirken]], möchte man den [[ausgezehrten]] [[Ausdauersportlern]] eher mal ein Drei-Gänge-Menü spendieren. ^3
-
+*[[C1-Lesen-T2-102-Text#^3|^]]* Denn während die [[muskelbepackten]] Sprinter mehr Statisten aus einem Gladiatorenfilm [[wirken]], möchte man den [[ausgezehrten]] [[Ausdauersportlern]] eher mal ein Drei-Gänge-Menü spendieren
 
 ---
 = [[muskulös]], [[stark]]

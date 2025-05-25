@@ -2,25 +2,23 @@
 nicht [[erfolglos]]
 
 ---
-Ich lerne Deutsch, um die Prüfung [[erfolgreich]] zu [[bestehen]].
+Ich lerne Deutsch, um die Prüfung [[erfolgreich]] zu [[bestehen]]
 
-*[[100-C1-Schreiben-T2#^3|^]]* Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3
+Gespräche mit Politiker:innen [[verliefen]] [[erfolgreich]]
 
+*[[100-C1-Schreiben-T2#^3|^]]* Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht
 
 Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
 
+*[[C1-Lesen-T1-000-Text#^15|^]]* [[Bisher]] [[läuft]] die Entwicklung aber trotz dieser erhöhten Schwierigkeiten [[erfolgreich]]: Wenn das System _9_ voll [[einsatzfähig]] ist, soll es [[Unterwasserabfälle]] mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich [[einsammeln]]
 
-*[[C1-Lesen-T1-000-Text#^15|^]]* [[Bisher]] [[läuft]] die Entwicklung aber trotz dieser erhöhten Schwierigkeiten [[erfolgreich]]: Wenn das System _9_ voll [[einsatzfähig]] ist, soll es [[Unterwasserabfälle]] mit einer Quote von 80 Prozent klassifizieren und zu 90 Prozent erfolgreich [[einsammeln]]. ^15
+*[[02-C1-Schreiben-T2-M#^5|^]]* Beschreiben Sie mögliche [[Konsequenzen]], sollte die Präsentation nicht [[erfolgreich]] sein
 
-
-*[[02-C1-Schreiben-T2-M#^5|^]]* * Beschreiben Sie mögliche [[Konsequenzen]], sollte die Präsentation nicht [[erfolgreich]] sein. ^5
-
-
-[[1.1 text#^9|^]] Sophias Unternehmen ist auch deshalb so [[erfolgreich]], weil jedes Rad [[einmalig]] ist. ^9
+*[[1.1 text#^9|^]]* Sophias Unternehmen ist auch deshalb so [[erfolgreich]], weil jedes Rad [[einmalig]] ist. ^9
  
 Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderung]]en, die so groß sind, dass man daraus ein Sprichwort machen muss.
 
-[[1 Präpositionen Übungen.md#^9|^]] Von meinen Kollegen habe ich [[wertvolle]] [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnissen]] bin ich heute [[erfolgreicher]] als je [[zuvor]]." ^9
+*[[1 Präpositionen Übungen.md#^9|^]]* Von meinen Kollegen habe ich [[wertvoll]]e [[Unterstützung]] [[erhalten]], und dank all diesen [[Erlebnis]]sen bin ich heute [[erfolgreicher]] als je [[zuvor]]."
 
 Wir helfen dir dabei, - eine richtig gute Geschäftsidee zu entwickeln, mit der du dich von der Konkurrenz [[abhebst]], - eine [[gründliche]] Konkurrenzanalyse zu machen (um den Markt und deine [[Mitbewerber]] besser kennenzulernen), - einen [[vernünftigen]] Finanzplan zu erstellen, - und dein Produkt [[erfolgreich]] zu vermarkten – auch international.
 

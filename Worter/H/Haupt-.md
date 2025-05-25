@@ -1,1 +1,1 @@
-, [[Hauptursache]], [[Hauptgrund]]
+, [[Hauptursache]], [[Hauptgrund]], [[Hauptverursacher]], [[Hauptziel]]

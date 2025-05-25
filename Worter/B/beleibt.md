@@ -1,1 +1,1 @@
-, [[fett]], [[schlank]], [[übergewichtig]]
+, [[fett]], [[schlank]], [[übergewichtig]], [[schwergewichtig]]

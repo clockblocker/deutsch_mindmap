@@ -55,4 +55,4 @@ sie, [[begegnen]], [[begegneten]], [[begegnen]], [[begegneten]], [[begegnen]]
 Adjektive: [[begegnend]], [[begegnender]], [[begegnendst]]
 
 ---
-[[begegnender]], [[begegnendes]], [[begegnende]], [[begegnenden]], [[begegnendem]], [[begegnenderer]], [[begegnenderes]], [[begegnendere]], [[begegnenderen]], [[begegnenderem]], [[begegnendster]], [[begegnendstes]], [[begegnendste]], [[begegnendsten]], [[begegnendstem]]
+[[begegnender]], [[begegnendes]], [[begegnende]], [[begegnenden]], [[begegnendem]], [[begegnenderer]], [[begegnenderes]], [[begegnendere]], [[begegnenderen]], [[begegnenderem]], [[begegnendster]], [[begegnendstes]], [[begegnendste]], [[begegnendsten]], [[begegnendstem]], [[gegenüberstehen]]

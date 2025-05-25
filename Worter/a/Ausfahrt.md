@@ -1,1 +1,1 @@
-, [[Ausflug]], [[Zufahrt]], [[Zufahrt]]
+, [[Ausflug]], [[Zufahrt]], [[Zufahrt]], [[Ausgang]]

@@ -32,4 +32,4 @@ D: dem [[Gang]], den [[Gängen]]
 
 #Maskulin , [[Rückgang]], [[Internetzugang]], [[Übergangslösung]], [[Ablauf]], [[Lauf]], [[Durchlauf]], [[gang und gäbe]], [[im Gange]], [[in Gang kommen]]
 , [[gehen]], [[s1 e1]], [[Flur]]
-, [[Gassi]], [[Studiengang]], [[Niedergang]], [[Spaziergang]], [[Umgang]], [[durchgängig]], [[Behördengang]], [[Verlauf]]
+, [[Gassi]], [[Studiengang]], [[Niedergang]], [[Spaziergang]], [[Umgang]], [[durchgängig]], [[Behördengang]], [[Verlauf]], [[Ausgang]]

@@ -4,7 +4,7 @@
 *[[C1-Lesen-T2-102-Text#^17|^]]* Muskeln bauen sich aber, wenn sie nicht [[beansprucht]] werden, ab dem 25
 
 ---
-= [[fordern]], [[verlangen]], [[in Anspruch nehmen]], [[verlangen]], [[Anspruch]], [[besetzen]], [[fordern]], [[überfordern]],
+= [[fordern]], [[Verlangen]], [[in Anspruch nehmen]], [[Verlangen]], [[Anspruch]], [[besetzen]], [[fordern]], [[überfordern]],
 ≈ [[belasten]], [[ausnutzen]], [[beanspruchen]], [[anspannen]], [[auslasten]]
 ≠ [[entlasten]], [[schonen]], [[freigeben]], [[geben]],  [[schonen]], [[verzichten]],
 

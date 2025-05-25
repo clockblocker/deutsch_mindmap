@@ -31,4 +31,4 @@ PI: [[reisend]], PII: [[gereist]], Zu+inf: [[zu reisen]]
 
 ---
 [[Reise]], [[Reisender]], [[Reisende]], [[Reisepass]], [[Reiseziel]], [[bereisen]], [[verreisen]], [[Ostasienfahrt]]
-, [[Reisekosten]], [[Dienstreise]]
+, [[Reisekosten]], [[Dienstreise]], [[Reiseverhalten]]

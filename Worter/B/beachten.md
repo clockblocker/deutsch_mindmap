@@ -3,11 +3,8 @@
 🧐 [[beachten]], [bəˈʔaxtən] | [[beachtete]], haben [[beachtet]]
 
 ---
-286. Sie möchten bei einer Firma in Deutschland Ihr [[Arbeitsverhältnis]] beenden. Was müssen Sie [[beachten]]? (95%)
-	- [ ] die [[Gehaltszahlungen]]
-	- [ ] die [[Arbeitszeit]]
-	- [x] die [[Kündigungsfrist]]
-	- [ ] die [[Versicherungspflicht]]
+*[[C1-Hoehen-T2-101-Text#^4|^]]* Ich würde sagen, beide Parteien können hier etwas bewirken, wobei [[zugegebenermaßen]] schon zu [[beachten]] ist, dass sich laut einer Analyse des Carbon Disclosure Project 70% der internationalen [[Emission]]en auf allein 100 Produzenten [[zurückführen]] lassen
+
 
 ---
 = [[berücksichtigen]], [[wahrnehmen]], [[befolgen]]

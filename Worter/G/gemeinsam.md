@@ -40,5 +40,5 @@ Einzigartige mögliche Formen:
 
 
 [[vereint]][[einzeln]], [[aneinander]], [[zu zweit]]
-, [[Gemeinde]], [[einzelne]]
+, [[Gemeinde]], [[Einzelne]]
 , [[einig]], [[Gemeinschaft]], [[gegenseitig]], [[Gemeinschaftstisch]]

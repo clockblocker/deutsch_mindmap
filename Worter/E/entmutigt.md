@@ -2,7 +2,7 @@
 nicht [[ermutigt]]
 
 ---
-
+*[[C1-Hoehen-T2-101-Text#^6|^]]* Hm, das klingt ja [[erstmal]] so, als ob wir Individuen fast keinen [[Einfluss]] nehmen könnten. Ich muss [[zugeben]], dass ich das schon [[ziemlich]] [[entmutigend]] finde
 
 ---
 = [[niedergeschlagen]], [[enttäuscht]], [[desillusioniert]], [[deprimiert]]

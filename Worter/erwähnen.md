@@ -40,4 +40,4 @@ PI: [[erwähnend]], PII: [[erwähnt]], Zu+inf: [[erwähnen]]
 [[erwähnen]] - [[er]] = [[wähnen]] / to mention, to cite
 
 ---
-[[Erwähnung]], [[Erwähnte]], [[genannt]], [[benannt]], [[zitiert]], [[thematisieren]]
+[[Erwähnung]], [[Erwähnte]], [[genannt]], [[benannt]], [[zitiert]], [[thematisieren]], [[erwähnenswert]]

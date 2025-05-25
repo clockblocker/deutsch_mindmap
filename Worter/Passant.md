@@ -24,4 +24,4 @@ G: des [[Passanten]], der [[Passanten]]
 D: dem [[Passanten]], den [[Passanten]]  
 
 ---
-[[passieren]], [[vorbeigehen]], [[wandern]], [[umhergehen]]
+[[passieren]], [[vorbeigehen]], [[wandern]], [[umhergehen]], [[aufpassen]]

@@ -27,3 +27,5 @@ D: der [[Einladung]], den [[Einladungen]]
 
 ---
 [[einladen]], [[einladend]], [[Einlader]], [[Einladerin]], [[einladungsweise]], [[Lieferung]]
+
+#Feminin 

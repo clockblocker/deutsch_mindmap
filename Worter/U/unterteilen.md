@@ -1,1 +1,1 @@
-, [[aufteilen]], [[gliedern]]
+, [[aufteilen]], [[gliedern]], [[einteilen]]

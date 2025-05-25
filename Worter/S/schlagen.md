@@ -3,8 +3,9 @@
 haben [[geschlagen]]
 
 ---
-*[[C1-Lesen-T2-103-Text#^6|^]]* Drei Viertel des [[geschlagenen]] Holzes war im letzten Jahr [[sogenanntes]] [[Kalamitätsholz]], also solches von Bäumen, die wegen Schäden gefällt werden mussten. ^6
+*[[C1-Lesen-T2-103-Text#^6|^]]* Drei Viertel des [[geschlagenen]] Holzes war im letzten Jahr [[sogenanntes]] [[Kalamitätsholz]], also solches von Bäumen, die wegen Schäden gefällt werden mussten
 
+Es gab aber Gespräche mit [[namhaften]] Abgeordneten, deren mediale [[Zuwendung]] dazu führte, dass die Thematik immer größere [[Welle]]n [[schlagen]] konnte
 
 Er [[schlagen|schlug]] die Stuhl und Vögel tot,  
 die Katzen litten große Not.  

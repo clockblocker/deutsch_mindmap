@@ -57,4 +57,4 @@ sie, [[gliedern]], [[gliederten]], [[gliedern]], [[gliederten]], [[gliedern]]
 Adjektive: [[gliedernd]], [[gliedernder]], [[gliederndst]]
 
 ---
-[[gliedernder]], [[gliederndes]], [[gliedernde]], [[gliedernden]], [[gliederndem]], [[gliedernderer]], [[gliedernderes]], [[gliederndere]], [[gliedernderen]], [[gliedernderem]], [[gliederndster]], [[gliederndstes]], [[gliederndste]], [[gliederndsten]], [[gliederndstem]], [[differenzieren]]
+[[gliedernder]], [[gliederndes]], [[gliedernde]], [[gliedernden]], [[gliederndem]], [[gliedernderer]], [[gliedernderes]], [[gliederndere]], [[gliedernderen]], [[gliedernderem]], [[gliederndster]], [[gliederndstes]], [[gliederndste]], [[gliederndsten]], [[gliederndstem]], [[differenzieren]], [[einteilen]]

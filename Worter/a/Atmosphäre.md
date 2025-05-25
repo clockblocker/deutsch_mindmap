@@ -1,2 +1,2 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-[[Wetter]], [[Himmel]], [[Stimmung]], [[Weltraum]], [[Kohlendioxid]]
+[[Wetter]], [[Himmel]], [[Stimmung]], [[Weltraum]], [[Kohlendioxid]], [[Luft]]

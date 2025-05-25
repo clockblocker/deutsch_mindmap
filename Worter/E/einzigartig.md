@@ -24,4 +24,4 @@ unique, singular
 Adjektive: [[einzigartig]], [[einzigartiger]], [[einzigartigst]]
 
 ---
-[[einzigartiger]], [[einzigartiges]], [[einzigartige]], [[einzigartigen]], [[einzigartigem]], [[einzigartigerer]], [[einzigartigeres]], [[einzigartigere]], [[einzigartigeren]], [[einzigartigerem]], [[einzigartigster]], [[einzigartigstes]], [[einzigartigste]], [[einzigartigsten]], [[einzigartigstem]]
+[[einzigartiger]], [[einzigartiges]], [[einzigartige]], [[einzigartigen]], [[einzigartigem]], [[einzigartigerer]], [[einzigartigeres]], [[einzigartigere]], [[einzigartigeren]], [[einzigartigerem]], [[einzigartigster]], [[einzigartigstes]], [[einzigartigste]], [[einzigartigsten]], [[einzigartigstem]], [[individuell]]

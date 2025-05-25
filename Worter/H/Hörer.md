@@ -1,1 +1,1 @@
-, [[hören]], [[Sender]]
+, [[hören]], [[Sender]], [[Zuhörer]]

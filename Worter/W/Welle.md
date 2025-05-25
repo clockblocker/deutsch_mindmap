@@ -5,8 +5,9 @@ die [[Wellen]]
 ---
 Katara und Sokka halten sich an der Eisscholle fest und werden mit ihr von einer [[Welle]] weggespült.
 
-*[[TD#^1|^]]* Du hast alle regulären [[Wellen]] [[gemeistert]] und damit das Spiel abgeschlossen.  
+Es gab aber Gespräche mit [[namhaften]] Abgeordneten, deren mediale [[Zuwendung]] dazu führte, dass die Thematik immer größere [[Welle]]n [[schlagen]] konnte
 
+*[[TD#^1|^]]* Du hast alle regulären [[Wellen]] [[gemeistert]] und damit das Spiel abgeschlossen.  
 
 *Auf den [[Wellen]] wird gefochten*  
 *Wo Fisch und Fleisch zur See geflochten*  

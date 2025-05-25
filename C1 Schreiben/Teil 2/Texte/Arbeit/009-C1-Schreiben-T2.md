@@ -41,3 +41,28 @@ Mit freundlichen Grüßen
 Denis Popov
 
 
+*Sehr geehrte Frau Keller,*
+
+*ich wende mich an Sie, um auf* meine geplante Aufstiegsfortbildung einzugehen
+
+*Ich habe vollstes Verständnis dafür, dass* die Firma unter Personalmangel und Arbeitsdruck nicht alle Bedürfnisse berücksichtigen kann.
+
+*Allerdings* bietet sich nicht oft die Chance, ein MBA-Studium an der Harvard-Universität aufzunehmen
+
+Seit zwei Jahren versuche ich darum, ein Studienvisum zu erhalten und einen Platz im Programm zu sichern. Das Studium findet jedoch vor Ort statt, und um daran teilzunehmen, benötige ich eine sechsmonatige Bildungsfreistellung. ^3
+
+
+Am Ende des Programms könnte ich nicht nur meinen aktuellen Aufgabenbereich erweitern, sondern auch neue Netzwerke mitbringen – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann. ^4
+
+
+*Sollte* keine längere Freistellung *momentan ermöglicht werden können, schlage ich vor,* mir während des Programms das vollständig remote Arbeiten zu erlauben.­ ^5
+
+
+*Ich freue mich auf ihre Rückmeldung und danke Ihnen im Voraus.*
+
+*Mit freundlichen Grüßen*
+*Denis Popov*
+
+
+
+n *– insbesondere, da die Vorstellung des Projekts bereits in den nächsten Monaten ansteht*. ^1

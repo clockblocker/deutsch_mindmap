@@ -1,0 +1,1 @@
+, [[Individualistisch]], [[kollektivistisch]]

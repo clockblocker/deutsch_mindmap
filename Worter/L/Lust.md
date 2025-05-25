@@ -14,7 +14,7 @@ Erst hatte er zwar[[ keine rechte Lust]] -, sagte die Mutter und schrubbte die B
 
 ---
 Synonyme:
-- [[Begehren]], [[verlangen]], [[Begier]], [[Gier]], [[Gelüst]]
+- [[Begehren]], [[Verlangen]], [[Begier]], [[Gier]], [[Gelüst]]
 Antonyme:
 - [[Unlust]], [[Abscheu]], [[Ablehnung]], [[Widerwille]]
 

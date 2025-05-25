@@ -1,1 +1,1 @@
-, [[beachten]], [[bemerkenswert]]
+, [[beachten]], [[bemerkenswert]], [[erwähnenswert]]

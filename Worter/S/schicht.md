@@ -1,9 +1,8 @@
-, [[Geschichte]], [[Schichtarbeiter]], [[Geschichtsunterricht]]
-
 🔴 [[Schicht]], [ʃɪçt]
 die [[Schichten]]
 
 ---
+
 
 ---
 = [[Lage]], [[Schicht]], [[Schicht]]
@@ -24,5 +23,6 @@ G: der [[Schicht]], der [[Schichten]]
 D: der [[Schicht]], den [[Schichten]]
 
 ---
-[[schichten]], [[schichtig]], [[Schichtarbeit]], [[Schichtleiter]]
-, [[Geschichtsbuch]], [[geschichtlich]]
+[[schichten]], [[schichtig]], [[Schichtarbeit]], [[Schichtleiter]], [[Geschichte]], [[Schichtarbeiter]], [[Geschichtsunterricht]], [[Geschichtsbuch]], [[geschichtlich]], [[Gesellschaftsschicht]]
+
+#Feminin 

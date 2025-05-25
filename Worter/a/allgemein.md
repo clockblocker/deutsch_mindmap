@@ -33,4 +33,4 @@ P: [[allgemeinen]], [[allgemeineren]], [[allgemeinsten]]
 [[Allgemeinheit]], [[allgemeinbildend]], [[Allgemeingut]], [[verallgemeinern]], [[Allgemeinwissen]], [[Allgemeine]]
 
 [[eigene]], [[öffentlich]], [[grundsätzlich]], [[bezogen]]
-, [[jeweils]], [[allenthalben]], [[allgemeingültig]], [[insbesondere]], [[persönlich]]
+, [[jeweils]], [[allenthalben]], [[allgemeingültig]], [[insbesondere]], [[persönlich]], [[abstrakt]]

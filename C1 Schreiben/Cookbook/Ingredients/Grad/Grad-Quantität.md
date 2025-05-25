@@ -35,7 +35,7 @@
 5) [[einige]] *(some / a few)*
 6) [[mehrere]] *(several)*
 7) [[ein paar]] *(a couple of)*
-8) [[einzelne]] *(individuals / scattered items)*
+8) [[Einzelne]] *(individuals / scattered items)*
 9) [[einzeln]] *(individual, single, separately)*
 10) [[vereinzeln]] *(isolated, sporadic)*
 11) [[Einzelheit]] *(single detail / unit)*
