@@ -1,2 +1,2 @@
 --> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
-, [[w-l]], [[überwiegen]]
+, [[w-l]], [[überwiegen]], [[hinausgehen]]

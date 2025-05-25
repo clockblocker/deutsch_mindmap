@@ -1,9 +1,11 @@
 📄 [[handeln]] + Akk/mit + Dat, [ˈhandln̩]
-[[handelte]]
-haben [[gehandelt]]
 
 ---
 Die Geschichte [[handelt]] [[von]] Tieren
+
+*[[C1-Hoehen-T4-100-Text#^22|^]]* Sie müssen `gegenüber` dem [[Konsument]]en [[offenlegen]], ob der [[Anbieter]] ein [[Händler]] ist oder ob es sich um ein [[Angebot]] von einer [[Privatperson]] [[handelt]]
+
+*[[C1-Hoehen-T4-100-Text#^25|^]]* Wenn [[Unternehmen]] [[Preisnachlässe]] geben, müssen sie den niedrigsten Preis, den sie in einem [[Zeitraum]] von [[mindestens]] 30 Tagen vor dem [[Preisnachlass]] [[angewendet]] haben, [[angeben]] und so [[nachweisen]], dass es sich um eine echte [[Preissenkung]] [[handelt]]
 
 *[[C1-Hoehen-T1-102-Text#^4|^]]* Lina Sandrock, selbst [[ehemalig]]e [[BWL]]-erin, beschreibt die [[Folge]]n [[wirtschaftlich]] [[ethisch]]en [[Handeln]]s `von` Klein- und Großunternehmen
 
@@ -53,4 +55,4 @@ Partizip I: [[handelnd]], Partizip II: [[gehandelt]]
 [[handeln]] - untrennbar, [[tun]], [[warten]], [[abwarten]], [[nachdenken]], [[überlegen]], [[wirken]], [[zögern]], [[Handlung]], [[verhalten]], [[Vorgehen]], [[begehen]]
 , [[verträumen]], [[vermarkten]], [[Einschreiten]], [[abhandeln]]
 
-#Neuter 
+#Neuter , [[Händler]]

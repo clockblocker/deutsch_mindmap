@@ -5,7 +5,9 @@
 ---
 *[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]
 
-1 Die [[Sendung]] [[hinweist|weist]] auf [[ideell]]e [[Wert]]e hin.  
+*[[C1-Hoehen-T4-100-Text#^23|^]]* In diesem Fall muss `darauf` [[hingewiesen]] werden, dass die Regelungen zum Verbraucherschutz wie [[Recht]] `auf` [[Umtausch]] oder [[Rückgabe]] beim [[Privatkauf]] nicht [[gelten]]
+
+1 Die [[Sendung]] [[hinweist|weist]] `auf` [[ideell]]e [[Wert]]e hin.  
 
 *[[07-C1-Schreiben-T2-M#^10|^]]* Trotzdem muss ich Sie darauf [[hinweisen]], dass wir jetzt bei jedem unserer [[Arbeitsschritte]] die Zeiten [[manuell]] [[erfassen]] müssen, was bis zu 1,5 Stunden Arbeitszeit fehlt
 
@@ -39,4 +41,4 @@ PI: [[hinweisend]], PII: [[hingewiesen]], Zu+inf: [[hinzuweisen]]
 [[Hinweis]]
 
 ---
-[[Hinweis]], [[hinweisend]], [[Hinweisschild]], [[hinweisbar]], [[aufzeigen]], [[besagen]], [[hindeuten]], [[warnen]]
+[[Hinweis]], [[hinweisend]], [[Hinweisschild]], [[hinweisbar]], [[aufzeigen]], [[besagen]], [[hindeuten]], [[warnen]], [[verweisen]]

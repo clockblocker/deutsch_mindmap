@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[beeindruckt]], [[beeindruckter]], [[beeindruckte]], [[beeindrucktes]], [[beeindruckten]], [[beeindrucktem]], [[beeindruckter]], [[beeindruckten]]
 [[beeindruckter]], [[beeindruckterer]], [[beeindrucktere]], [[beeindruckteres]], [[beeindruckteren]], [[beeindruckterem]], [[beeindruckterer]], [[beeindruckteren]]
-[[beeindrucktesten]], [[beeindrucktester]], [[beeindruckteste]], [[beeindrucktestes]], [[beeindrucktesten]], [[beeindrucktstem]], [[beeindrucktester]], [[beeindrucktesten]], [[beeindrucken]]
+[[beeindrucktesten]], [[beeindrucktester]], [[beeindruckteste]], [[beeindrucktestes]], [[beeindrucktesten]], [[beeindrucktstem]], [[beeindrucktester]], [[beeindrucktesten]], [[beeindrucken]], [[eindrücken]]

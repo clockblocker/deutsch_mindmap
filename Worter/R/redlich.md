@@ -21,4 +21,4 @@ Einzigartige mögliche Formen:
 [[redlich]], [[redlicher]], [[redliche]], [[redliches]], [[redlichen]], [[redlichem]], [[redlicher]], [[redlichen]]
 [[redlichere]], [[redlicherer]], [[redlicheres]], [[redlicheren]], [[redlicherem]], [[redlicherer]], [[redlicheren]]
 [[redlichsten]], [[redlichster]], [[redlichste]], [[redlichstes]], [[redlichsten]], [[redlichstem]], [[redlichster]], [[redlichsten]]
-, [[Ehrlich]], [[s1 e1]], [[unehrlicher]]
+, [[Ehrlich]], [[s1 e1]], [[unehrlicher]], [[unlauter]]

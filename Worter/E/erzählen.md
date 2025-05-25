@@ -1,11 +1,11 @@
 📖 [[erzählen]] `von` D, [ɛɐ̯ˈt͡sɛːlən] | [[erzählte]], haben [[erzählt]]
 
 ---
-*[[1 Präpositionen Übungen.md#^5|^]]* d) Das Buch, [[von]] dem ich dir [[erzählt]] habe, liegt auf dem Tisch.   ^5
+*[[1 Präpositionen Übungen.md#^5|^]]* d) Das Buch, [[von]] dem ich dir [[erzählt]] habe, liegt auf dem Tisch
 
+Der Podcast [[erzählt]] die [[Geschichte]] von [[Urlaubsparadies]]en
 
-*[[Die halbe Miete sein.md#^2|^]]* Anja und Fatima arbeiten schon lange zusammen. [[Mittlerweile]] sind sie sogar Freundinnen und [[erzählen]] sich alles. ^2
-
+*[[Die halbe Miete sein.md#^2|^]]* Anja und Fatima arbeiten schon lange zusammen. [[Mittlerweile]] sind sie sogar Freundinnen und [[erzählen]] sich alles
 
 *[[C1-Hoehen-T1-100-Text#^17|^]]* Mehrere Familien [[erzählen]] ihre Geschichte, [[berichten]] über ihre [[Erfahrung]]en. ^17
 

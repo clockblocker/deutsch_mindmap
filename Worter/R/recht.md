@@ -6,6 +6,10 @@ nicht [[falsch]]
 
 ---
 
+*[[C1-Hoehen-T4-100-Text#^27|^]]* Bei digitalen Produkten haben Verbraucher ein volles [[Recht]] `auf` [[Gewährleistung]]
+
+*[[C1-Hoehen-T4-100-Text#^23|^]]* In diesem Fall muss `darauf` [[hingewiesen]] werden, dass die Regelungen zum Verbraucherschutz wie [[Recht]] `auf` [[Umtausch]] oder [[Rückgabe]] beim [[Privatkauf]] nicht [[gelten]]
+
 *[[C1-Hoehen-T2-201-Text#^11|^]]* *Sie haben eine spannende Sendung im Fernsehen moderiert, und zwar zum Thema Mathematik, um dieses* 
 doch [[Recht]] [[unbeliebte]] *Fach den Menschen [[näherzubringen]]*
 *([[rather]] [[unpopular]] subject to people)*
@@ -88,4 +92,4 @@ G: des [[Rechts]], der [[Rechte]]
 D: dem [[Recht]], den [[Rechten]]
 
 
-#Neuter
+#Neuter, [[Verbraucherschutzgesetz]]

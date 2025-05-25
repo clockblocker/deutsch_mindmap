@@ -4,6 +4,9 @@
 
 
 ---
+
+Verbraucher sollen erkennen, ob [[Rabattaktion]]en [[wirklich]]e [[Preisnachlässe]] sind.
+
 Er geht in die Bücherei und wohnt in einem Museum! [[wirklich]]! Hihi!
 Das geht [[wirklich]] nicht.
 NIC: Hey Sam, du bist ein [[echter]] Freund … weißt du Geld ist [[wirklich]] nicht alles 

@@ -2,25 +2,31 @@
 die [[Gesetze]]
 
 ---
-Der Staat [[entscheidet]] [[Worter/Ü/über]] [[Gesetze]] und [[Steuern]].
+[[Gesetz]] [[verabschieden]]
+
+Der Staat [[entscheidet]] `über` [[Gesetze]] und [[Steuern]].
+
+*[[C1-Hoehen-T4-100-Text#^10|^]]* Damit [[Richtlinie]]n [[Verbindlichkeit]] [[erhalten]], müssen sie von den Mitgliedsländern als [[Gesetz]] [[verabschiedet]] werden
+
+*[[C1-Hoehen-T4-100-Text#^2|^]]* Der Verbraucherschutz kann verbessert werden, indem [[Regel]]n aus dem Jahr 2012 von den [[Mitgliedstaaten]] der EU zum [[Gesetz]] werden
 
 17. Die deutschen [[Gesetze]] [[verbieten]] … (78%)
 	- [ ] [[Versammlungsfreiheit]] der Einwohner und Einwohnerinnen.
 	- [x] [[Ungleichbehandlung]] der Bürger und Bürgerinnen durch den Staat.
 
-53. Was bedeutet „Rechtsstaat“ in Deutschland? (83%)
+18. Was bedeutet „Rechtsstaat“ in Deutschland? (83%)
 	- [x] Der Staat muss die [[Gesetze]] [[einhalten]].
 
-148. Was ist eine Aufgabe der Polizei in Deutschland? (87%)
+19. Was ist eine Aufgabe der Polizei in Deutschland? (87%)
 	- [x] die [[Einhaltung]] von [[Gesetzen]] zu [[überwachen]]
 
-38. Was ist die Arbeit eines [[Richters]] / einer Richterin in Deutschland? (88%)
+20. Was ist die Arbeit eines [[Richters]] / einer Richterin in Deutschland? (88%)
 	- [ ] Deutschland [[regieren]]
 	- [x] [[Recht]] sprechen
 	- [ ] Pläne [[erstellen]]
 	- [ ] [[Gesetze]] [[erlassen]]
 
-247. Eine Frau ist [[schwanger]]. Sie ist kurz vor und nach der [[Geburt]] ihres Kindes vom [[Gesetz]] [[besonders]] [[beschützt]]. Wie heißt dieser [[Schutz]]? (99%)
+21. Eine Frau ist [[schwanger]]. Sie ist kurz vor und nach der [[Geburt]] ihres Kindes vom [[Gesetz]] [[besonders]] [[beschützt]]. Wie heißt dieser [[Schutz]]? (99%)
 	- [ ] [[Elternzeit]]
 	- [ ] [[Geburtsvorbereitung]]
 	- [x] [[Mutterschutz]]
@@ -51,4 +57,4 @@ D: dem [[Gesetz]], den [[Gesetzen]]
 ---
 [[gesetzlich]], [[Gesetzgeber]], [[Gesetzgebung]], [[ungesetzlich]], [[Gesetzentwurf]], [[volljährig]], [[Faustrecht]], [[Strafgesetz]], [[gesetzgebend]], [[verbot]]
 
-#Neuter , [[Arbeitnehmerrecht]], [[Regelung]], [[Marktgesetz]], [[Justiz]], [[Prinzip]]
+#Neuter , [[Arbeitnehmerrecht]], [[Regelung]], [[Marktgesetz]], [[Justiz]], [[Prinzip]], [[Verbraucherschutzgesetz]]

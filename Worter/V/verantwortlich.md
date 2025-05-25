@@ -36,4 +36,4 @@ P: [[verantwortlichen]], [[verantwortlicheren]], [[verantwortlichsten]]
 [[Verantwortung]], [[verantworten]], [[Verantwortlichkeit]], [[Verantwortungsbewusstsein]], [[unverantwortlich]]
 
 , [[zuständig]], [[Verantwortung]]
-, [[Wahlniederlage]]
+, [[Wahlniederlage]], [[verpflichten]]

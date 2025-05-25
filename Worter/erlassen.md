@@ -1,6 +1,8 @@
 📜 [[erlassen]], [ɛɐ̯ˈlasn̩] | [[erließ]], haben [[erlassen]]
 
 ---
+*[[C1-Hoehen-T4-100-Text#^1|^]]* Der [[Verbraucherschutz]] kann [[verbessert]] werden, indem die EU [[endlich]] Regeln [[erlässt]]
+
 38. Was ist die Arbeit eines [[Richters]] / einer Richterin in Deutschland? (88%)
 	- [ ] Deutschland [[regieren]]
 	- [x] [[Recht]] sprechen

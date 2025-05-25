@@ -1,1 +1,1 @@
-, [[Wirkung]]
+, [[Wirkung]], [[wirksam]]

@@ -34,4 +34,4 @@ Morpheme: [[heraus]][[zieh]][[en]]
 Partizip I: [[herausziehend]], Partizip II: [[herausgezogen]]
 
 [[herausziehen]] - [[heraus]] = [[ziehen]]
-''', [[spießen]], [[stecken]], [[Bestecken]], [[rausholen]]
+''', [[spießen]], [[stecken]], [[Bestecken]], [[rausholen]], [[eindrücken]]

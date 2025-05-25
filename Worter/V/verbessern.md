@@ -3,12 +3,13 @@
 🔧 [[verbessern]], [fɛɐ̯ˈbɛsɐn] | [[verbesserte]], haben [[verbessert]]
 
 ---
-„Du könntest als Au-pair in Frankreich arbeiten und dein Französisch [[verbessern]]“, sagt ihre Mutter. 
+„Du könntest als Au-pair in Frankreich arbeiten und dein Französisch [[verbessern]]“, sagt ihre Mutter
 
-*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^4|^]]* Damit wird nicht nur die [[Vereinbarkeit]] von Beruf und Privatleben [[verbessert]], sondern auch Raum geschaffen, in dem Mitarbeitende [[eigenverantwortlich]] und in ihrem individuellen Tempo arbeiten können. ^4
+*[[C1-Hoehen-T4-100-Text#^1|^]]* Der [[Verbraucherschutz]] kann [[verbessert]] werden, indem die EU [[endlich]] Regeln [[erlässt]]
 
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^4|^]]* Damit wird nicht nur die [[Vereinbarkeit]] von Beruf und Privatleben [[verbessert]], sondern auch Raum geschaffen, in dem Mitarbeitende [[eigenverantwortlich]] und in ihrem individuellen Tempo arbeiten können
 
-[[Eigenlob stinkt.md#^8|^]] „Du, das muss mein neues Deodorant sein. Ich kaufe morgen direkt ein besseres!“ Lisa [[aufgeben|gibt]] auf. Manche Menschen sind einfach [[unverbesserlich]]. ^8
+*[[Eigenlob stinkt.md#^8|^]]* „Du, das muss mein neues Deodorant sein. Ich kaufe morgen direkt ein besseres!“ Lisa [[aufgeben|gibt]] auf. Manche Menschen sind einfach [[unverbesserlich]]. ^8
 
 ---
 Synonyme: [[korrigieren]], [[berichtigen]], [[optimieren]], [[vervollkommnen]], [[optimieren]]

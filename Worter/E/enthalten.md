@@ -4,6 +4,8 @@
 ---
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
+Der Podcast [[enthält]] die [[Schilderung]]en vieler Menschen
+
 *[[01-C1-Schreiben-T2-M#^7|^]]* Für einen [[Zusammenbau]] braucht man keine [[Bauarbeiter]], die [[Leistungen]] sind im Preis für leichte [[Modulwände]] [[bereits]] [[enthalten]]. ^7
 
 

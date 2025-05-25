@@ -61,3 +61,4 @@ D: der [[Vermittlung]], den [[Vermittlungen]]
 
 #Feminin 
 
+, [[Unmittelbarkeit]]

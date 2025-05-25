@@ -101,7 +101,7 @@
 🔪 [[scharf]] *(sharp: cuts through BS and tomatoes)*  
 🧬 [[akribisch]] *(meticulous: atom-level attention span)*  
 🧽 [[gründlich]] *(thorough: nothing escapes the sponge)*  
-📚 [[Ausführlich]] *(detailed: info dump with footnotes)*  
+📚 [[ausführlich]] *(detailed: info dump with footnotes)*  
 🧵 [[sorgsam]] *(careful: stitched with intention)*  
 💬 [[aussagekräftig]] *(meaningful: heavy with implication)*  
 ✂️ [[knapp]] *(concise: trimmed to the bone)*  

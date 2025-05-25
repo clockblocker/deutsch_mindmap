@@ -2,7 +2,9 @@
 (no plural form)
 
 ---
-- Erläutern Sie, welche Rolle [[Datenschutz]] am Arbeitsplatz spielt.
+Erläutern Sie, welche Rolle [[Datenschutz]] am Arbeitsplatz spielt.
+
+Die [[Regelung]]en zum [[Datenschutz]] werden [[erweitert]].  
 
 ---
 = [[Datensicherheit]], [[Privatsphäre]]
@@ -26,3 +28,5 @@ N: der [[Datenschutz]], -
 A: den [[Datenschutz]], -
 G: des [[Datenschutzes]], -
 D: dem [[Datenschutz]], -
+
+#Maskulin 

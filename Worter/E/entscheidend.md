@@ -1,11 +1,11 @@
-🎯 [[entscheidend]], [ɛntˈʃaɪ̯dnt](https://youglish.com/pronounce/entscheidend/german) |  [[entscheiden]] | [[Entscheidung]]
-
 --> 🧱[[Grad-Gewicht]] <--
 
+🎯 [[entscheidend]], [ɛntˈʃaɪ̯dnt](https://youglish.com/pronounce/entscheidend/german) |  [[entscheiden]] | [[Entscheidung]]
  
 ---
-*[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
+*[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt
 
+Die [[Anzahl]] an positiven [[Bewertung]]en ist nicht allein [[entscheidend]]
 
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^9|^]]* Die [[informell]]en [[Gespräch]]e in der [[Kaffeepause]] oder der direkte [[Blickkontakt]] bei [[Meetings]] tragen [[entscheidend]] zur [[Teamentwicklung]] bei und [[fördern]] ein [[Gefühl]] der [[Zugehörigkeit]]. ^9
 

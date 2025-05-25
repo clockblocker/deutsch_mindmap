@@ -1,1 +1,1 @@
-, [[Schweigepflicht]], [[Briefgeheimnis]]
+, [[Schweigepflicht]], [[Briefgeheimnis]], [[offenlegen]]

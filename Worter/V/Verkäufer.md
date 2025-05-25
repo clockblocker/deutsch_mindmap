@@ -27,4 +27,4 @@ Tags:
 ---
 
 , [[Fachverkäufer]], [[Buchhalter]], [[Sammler]]
-, [[Immobilienmakler]], [[Verkauf]], [[Einzelhändler]], [[Außendienstmitarbeiter]], [[Anbieter]]
+, [[Immobilienmakler]], [[Verkauf]], [[Einzelhändler]], [[Außendienstmitarbeiter]], [[Anbieter]], [[Händler]]

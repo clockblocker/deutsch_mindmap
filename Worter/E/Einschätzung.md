@@ -41,4 +41,4 @@ G: der [[Einschätzung]], der [[Einschätzungen]]
 D: der [[Einschätzung]], den [[Einschätzungen]]
 
 #Feminin 
-, [[einzuschätzen]], [[Abwägung]]
+, [[einzuschätzen]], [[Abwägung]], [[Kundenbewertung]], [[Gesamtbewertung]]

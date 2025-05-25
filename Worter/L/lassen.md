@@ -3,6 +3,8 @@
 ---
 „Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war.
 
+*[[C1-Hoehen-T4-100-Text#^12|^]]* [[Verschiedene]] Studien über den [[Einfluss]] von Online-[[Bewertung]]en auf unser [[Kaufverhalten]] haben gezeigt, dass mehr als zwei Drittel aller [[Kaufentscheidung]]en sich von [[abgegebenen]] [[Bewertung]]en [[beeinflussen]] [[lassen]]
+
 *[[C1-Hoehen-T1-203-Text#^10|^]]* Obwohl es zahlreiche Beispiele für ein erfolgreiches Comeback von [[Müttern]] im Spitzensport gibt, fühlen sich leider noch immer viele von ihnen im [[Stich]] [[gelassen]], sobald sie [[Nachwuchs]] erwarten
 
 Und ach ... [[Lass]] die Tarantel nicht rein
@@ -50,4 +52,4 @@ PI: [[lassend]], PII: [[gelassen]], Zu+inf: [[zu lassen]]
 ---
 [[Erlaubnis]], [[Zulassung]], [[Toleranz]], [[Passivität]], [[Genehmigung]]
 
-[[stören]], [[Quirlen]], [[umschalten]], [[ändern]], [[tun]], [[stehen lassen]], [[versuchen]], [[wechseln]], [[sehen lassen]], [[gestrichen]], , [[Worter/E/einlassen]], [[entlassen]], [[unterlassen]], [[einlassen]]
+[[stören]], [[Quirlen]], [[umschalten]], [[ändern]], [[tun]], [[stehen lassen]], [[versuchen]], [[wechseln]], [[sehen lassen]], [[gestrichen]], , [[Worter/E/einlassen]], [[entlassen]], [[unterlassen]], [[einlassen]], [[Nachlass]], [[nachlassen]], [[hinterlassen]]

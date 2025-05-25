@@ -1,6 +1,6 @@
 Ein Haar in der Suppe? Das möchte doch niemand haben. Aber es gibt [[tatsächlich]] Menschen, die extra [[danach]] suchen. Und sie freuen sich, wenn sie ein Haar in der Suppe gefunden haben. Aber warum ist das so?
   
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]]. 
 
 „Ich habe alles [[reingeschrieben]], was sie wissen soll!“, sagt Elena [[beleidigt]]. Mit „sie“ ist ihre Chefin gemeint, die schwer [[zufriedenzustellen]] ist. 
 

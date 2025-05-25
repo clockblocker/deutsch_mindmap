@@ -5,6 +5,8 @@
 ---
 *[[C1-Hoehen-T1-200-Text#^12|^]]* [[Gleichzeitig]] erfährt man aber auch, dass die Natur [[Recht]] [[robust]] ist und sich [[durchaus]] [[anpassen]] kann, wie frühere Klimaveränderungen [[gezeigt]] haben
 
+*[[C1-Hoehen-T1-301-Text#^10|^]]* Es handelt sich bei dem Podcast vielmehr um eine [[eindrücklich]]e und [[zeitweise]] [[durchaus]] [[beklemmend]]e [[Schilderung]] der [[überwältig]]enden Macht und auch [[Schönheit]] der Natur und der Elemente
+
 *[[C1-Hoehen-T2-203-Text#^2|^]]* Es geht dabei darum, ab wann die [[durchaus]] [[sinnvoll]]e Nutzung der digitalen Medien in eine [[Sucht]] [[umschlägt]]
 
 *[[C1-Hoehen-T2-202-Text#^20|^]]* Wir müssen den [[Politikverdrossenen]] zeigen, dass es [[durchaus]] Sinn macht, sich an den Wahlen zu [[beteiligen]]

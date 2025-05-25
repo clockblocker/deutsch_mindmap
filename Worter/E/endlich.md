@@ -3,6 +3,8 @@ nicht [[unendlich]]
 
 ---
 So lebte die Katze mit dem Löwen zusammen und glaubte, [[endlich]] den mächtigsten Begleiter gefunden zu haben. 
+
+*[[C1-Hoehen-T4-100-Text#^1|^]]* Der [[Verbraucherschutz]] kann [[verbessert]] werden, indem die EU [[endlich]] Regeln [[erlässt]]
  
 Am Ende sei das ja nur ein [[Gewinn]] für die Firma und Jannis könne [[endlich]] die [[Anerkennung]] bekommen, die er verdiene. 
 

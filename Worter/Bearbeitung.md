@@ -26,3 +26,5 @@ A: die [[Bearbeitung]], die [[Bearbeitungen]]
 G: der [[Bearbeitung]], der [[Bearbeitungen]]
 D: der [[Bearbeitung]], den [[Bearbeitungen]]
 , [[sowohl]], [[ausarbeiten]], [[Ausarbeitung]]
+
+#Feminin 

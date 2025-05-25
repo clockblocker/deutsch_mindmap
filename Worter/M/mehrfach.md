@@ -1,4 +1,4 @@
 --> ⏱️ [[Temporal-Frequenz]] <--
 
 
-, [[ausschließlich]], [[mehrere]]
+, [[ausschließlich]], [[mehrere]], [[einzig]]

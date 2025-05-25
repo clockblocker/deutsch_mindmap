@@ -1,9 +1,21 @@
 🗣️ [[angeben]], [ˈanˌɡeːbn̩](https://youglish.com/pronounce/angeben/german) → [[gab an]] → [[angegeben]]
 
 ---
-*[[C1-Lesen-T1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden
+*[[C1-Lesen-T1-000-Loesung#^2|^]]* „[[Halber]]“ ist ein Adjektiv und [[angeben|gibt]] einen [[Bruchteil]] an. 
+*("Half" is an adjective and [[indicates]] a [[fraction]])*
+
+*[[C1-Hoehen-T4-100-Text#^25|^]]* Wenn [[Unternehmen]] [[Preisnachlässe]] geben, müssen sie den niedrigsten Preis, den sie in einem [[Zeitraum]] von [[mindestens]] 30 Tagen vor dem [[Preisnachlass]] [[angewendet]] haben, [[angeben]] und so [[nachweisen]], dass es sich um eine echte [[Preissenkung]] [[handelt]]
 
 *[[C1-Hoehen-T2-200-Text#^28|^]]* Wir haben Studierenden Fotos von Männern und Frauen [[vorgelegt]] und die Probandinnen und Probanden mussten [[angeben]], wen sie für intelligent [[hielten]]
+*(Subjects had to [[indicate]] who they [[considered]] intelligent)*
+
+
+Was müssen Internetplattformen [[zusätzlich]] [[angeben]]?
+*(What do internet platforms have to [[additionally]] [[specify]]?)*
+
+
+Es kann nicht mit einer [[Mengenangabe]] in dieser [[Weise]] [[verwendet]] werden
+*(It cannot be used with a [[quantity]] in this way)*
 
 
 ---

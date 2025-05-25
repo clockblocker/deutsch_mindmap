@@ -32,4 +32,4 @@ D: der [[Prüfung]], den [[Prüfungen]]
 , [[Lückentext]]
 , [[Schularbeit]], [[überprüfen]]
 
-#Feminin , [[Abwägung]], [[Widerstandsmessung]]
+#Feminin , [[Abwägung]], [[Widerstandsmessung]], [[Prüfungsteil]]

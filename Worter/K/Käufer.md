@@ -1,1 +1,1 @@
-, [[Kauf]], [[Kunde]], [[Anbieter]], [[aufkaufen]], [[Konsument]], [[Verbraucher]], [[Kaufverhalten]]
+, [[Kauf]], [[Kunde]], [[Anbieter]], [[aufkaufen]], [[Konsument]], [[Verbraucher]], [[Kaufverhalten]], [[Händler]]

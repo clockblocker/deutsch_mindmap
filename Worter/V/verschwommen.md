@@ -1,1 +1,1 @@
-, [[blindes]], [[deutlich]]
+, [[blindes]], [[deutlich]], [[transparent]]

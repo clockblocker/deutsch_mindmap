@@ -33,4 +33,4 @@ D: dem [[Merkmal]], den [[Merkmalen]]
 [[merken]], [[merklich]], [[kennzeichnend]], [[charakteristisch]], [[Worter/kennzeichnen]], [[Hinweis]]
 , [[Char]], [[Aspekt]], [[Punkt]], [[Eigenart]], [[Beschaffenheit]], [[Indiz]]
 
-#Neuter , [[Merkfähigkeit]], [[Einzelheit]]
+#Neuter , [[Merkfähigkeit]], [[Einzelheit]], [[Grundzug]]

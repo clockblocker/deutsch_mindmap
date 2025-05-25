@@ -29,4 +29,4 @@ A: die [[Sichtweise]], die [[Sichtweisen]]
 G: der [[Sichtweise]], der [[Sichtweisen]]
 D: der [[Sichtweise]], den [[Sichtweisen]]
 
-#Feminin , [[Weltanschauung]]
+#Feminin , [[Weltanschauung]], [[Blickwinkel]]

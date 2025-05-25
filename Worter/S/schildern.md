@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-100-Text#^16|^]]* Im ersten Teil werden konkrete Beispiele der [[Verdrängung]] aus dem [[Wohnungsmarkt]] [[geschildert]]
 
+Die [[Bedeutungslosigkeit]] des Menschen `gegenüber` der Natur wird [[geschildert]]
+
 ---
 = [[beschreiben]], [[darstellen]], [[erzählen]], [[erzählen]], [[beschreiben]]
 ≈ [[erläutern]], [[wiedergeben]], [[berichten]]

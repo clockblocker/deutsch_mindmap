@@ -18,4 +18,4 @@ Morpheme:
 #Adverb [[wider]]
 
 [[widerstehen]]
-, [[dagegen]], [[widerspiegeln]], [[Widerspruch]], [[FUDGEBOW]], [[widerstandsfähig]]
+, [[dagegen]], [[widerspiegeln]], [[Widerspruch]], [[FUDGEBOW]], [[widerstandsfähig]], [[Widerruf]]

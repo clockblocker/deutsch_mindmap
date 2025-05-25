@@ -2,7 +2,9 @@
 die [[Schönheiten]]
 
 ---
-[[Schönheit]] ist ein [[relativer]] [[Begriff]].
+[[Schönheit]] ist ein [[relativer]] [[Begriff]]
+
+*[[C1-Hoehen-T1-301-Text#^6|^]]* Den stärksten [[Eindruck]] – und den stärksten [[Antrieb]] zum [[Engagement]] für diese Welt – [[hinterlassen]] aber die vielen verschiedenen [[Schilderung]]en der [[alltäglich]]en [[Schönheit]] dieser [[Atolle]] durch ihre [[Bewohner]] und Bewohnerinnen
 
 Manche Menschen legen sich [[Gurken]] auf die Augen, um etwas für ihre [[Schönheit]] zu tun. Tomaten benutzt man dafür nicht. [[Trotzdem]] gibt es Leute, die Tomaten auf den Augen haben. Und das kann richtig [[gefährlich]] werden
 

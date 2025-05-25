@@ -1,14 +1,14 @@
 👍 [[zuverlässig]], [ˈtuːɐ̯ˌfɛɐ̯lɛsɪç](https://youglish.com/pronounce/zuverlässig/german)
 
 ---
-*[[C1-Lesen-T1-001-Text#^26|^]]* Man hatte sie nicht nur mit [[Speichelproben]] trainiert, aber sie [[erschnüffelten]] Corona ebenso [[zuverlässig]] in Urin- und Schweißproben. ^26
+*[[C1-Lesen-T1-001-Text#^26|^]]* Man hatte sie nicht nur mit [[Speichelproben]] trainiert, aber sie [[erschnüffelten]] Corona ebenso [[zuverlässig]] in Urin- und Schweißproben
+
+*[[C1-Hoehen-T4-100-Text#^4|^]]* Internetplattformen müssen [[zusätzlich]] [[Zuverlässig]]e Daten über die [[anbietend]]en [[Unternehmen]] ^4
 
 
-*[[C1-Lesen-T1-001-Text#^36|^]]* Neben Corona werden auch Prostatakrebs und bakterielle Infektionen in [[Verwahrten]] [[zuverlässig]] von damit [[ausgebildeten]] Hunden erschnüffelt – Malariaparasiten sogar vor [[Ausbruch]] der Krankheit. ^36
+*[[C1-Lesen-T1-001-Text#^36|^]]* Neben Corona werden auch Prostatakrebs und bakterielle Infektionen in [[Verwahrten]] [[zuverlässig]] von damit [[ausgebildeten]] Hunden erschnüffelt – Malariaparasiten sogar vor [[Ausbruch]] der Krankheit
 
-
-*[[C1-Lesen-T1-001-Text#^28|^]]* (2) [[Deswegen]] erinnert sie sich [[zuverlässig]] an Gerüche – oft für sie [[lebenswichtig]], etwa bei der [[Futtersuche]]. ^28
-
+*[[C1-Lesen-T1-001-Text#^28|^]]* (2) [[Deswegen]] erinnert sie sich [[zuverlässig]] an Gerüche – oft für sie [[lebenswichtig]], etwa bei der [[Futtersuche]]
 
 
 ---

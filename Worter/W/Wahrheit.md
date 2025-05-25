@@ -29,4 +29,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Wahrheit]], [[Wahrheiten]]
 
 ---
-#Substantiv #Feminin, [[Betrugsmanöver]], [[wahrnehmen]], [[Gültigkeit]], [[Irrtum]], [[Irrung]], [[Lüge]], [[wahr]]
+#Substantiv #Feminin, [[Betrugsmanöver]], [[wahrnehmen]], [[Gültigkeit]], [[Irrtum]], [[Irrung]], [[Lüge]], [[wahr]], [[Fehlinformation]]

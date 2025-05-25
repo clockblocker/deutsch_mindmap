@@ -5,6 +5,8 @@
 ---
 Mit einem Krachen bricht der Eisberg [[auseinander]] und versinkt im Wasser.
 
+Der Podcast setzt sich mit den [[Auswirkung]]en des [[Breitentourismus]] [[auseinander]]
+
 [[auseinanderklapfen]]
 
 ---

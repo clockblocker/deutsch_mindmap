@@ -1,6 +1,8 @@
 🚀 [[vorziehen]], [fɔɐ̯ˈtsiːən] | [[zog vor]], haben [[vorgezogen]]
 
 ---
+*[[C1-Hoehen-T4-100-Text#^13|^]]* Dabei spielt natürlich die Bewertung eine Rolle, allerdings [[vorziehen|zieht]] die Mehrheit der Verbraucher ein Produkt mit einer größeren Menge Bewertungen und einem nicht so hohen Ranking einem Produkt mit einer 5-Sternebewertung und wenigen Bewertungen [[vor]]
+
 Katara! Willst du diesen Jungen wirklich deinem eigenen Stamm [[vorziehen]]? Deiner eigenen Familie?
 
 ---

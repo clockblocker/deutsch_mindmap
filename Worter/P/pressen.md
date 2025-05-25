@@ -1,2 +1,2 @@
 [[drücken]], [[wringen]], [[Fruchtsaft]]
-, [[zudrücken]]
+, [[zudrücken]], [[eindrücken]]

@@ -30,5 +30,5 @@ Einzigartige mögliche Formen:
 [[gründlichste]], [[gründlichster]], [[gründlichste]], [[gründlichstes]], [[gründlichsten]], [[gründlichstem]], [[gründlichster]], [[gründlichsten]]
 
 Adverbiale Verwendung: auf eine gründliche Art und Weise
-''', [[Ausführlich]], [[Begründung]]
+''', [[ausführlich]], [[Begründung]]
 , [[Grund]], [[Gründer]]

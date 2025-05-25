@@ -22,4 +22,4 @@ Synonyme:
 
 ---
 #Adverb, [[weit]], [[vorwärts]], [[voraus]], [[weiterüben]], [[enger]], [[weitermachen]], [[Umgebung]], [[quietschen]], [[weitergehen]], [[Weiterbildung]]
-, [[sonstig]], [[weiterleiten]], [[weiterhin]], [[weiterentwickeln]], [[weitergeben]], [[weitaus]], [[weiterhelfen]], [[weiterführen]]
+, [[sonstig]], [[weiterleiten]], [[weiterhin]], [[weiterentwickeln]], [[weitergeben]], [[weitaus]], [[weiterhelfen]], [[weiterführen]], [[Weiterentwicklung]], [[weiterverwenden]]

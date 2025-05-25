@@ -1,8 +1,8 @@
-
 🏛️ 🔴 die [[Politik]], [poˈliːtɪk](https://youglish.com/pronounce/Politik/german)
 
 ---
-mit
+Sie hören einen kurzen Vortrag zu einem aktuellen Thema aus den [[Themenbereich]]en [[Gesellschaft]], [[Politik]] und [[Forschung]].
+
 
 ---
 = [[Staatswissenschaft]], [[Regierung]]

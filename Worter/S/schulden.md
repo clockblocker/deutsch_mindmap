@@ -35,4 +35,4 @@ owed, due to
 Adjektive: [[geschuldet]], [[geschuldeter]], [[geschuldetest]]
 
 ---
-[[geschuldeter]], [[geschuldetes]], [[geschuldete]], [[geschuldeten]], [[geschuldetem]], [[geschuldeterer]], [[geschuldeteres]], [[geschuldetere]], [[geschuldeteren]], [[geschuldeterem]], [[geschuldetester]], [[geschuldetestes]], [[geschuldeteste]], [[geschuldetesten]], [[geschuldetestem]], [[Zahlungsmittel]], [[Finanz]], [[Geldanlage]]
+[[geschuldeter]], [[geschuldetes]], [[geschuldete]], [[geschuldeten]], [[geschuldetem]], [[geschuldeterer]], [[geschuldeteres]], [[geschuldetere]], [[geschuldeteren]], [[geschuldeterem]], [[geschuldetester]], [[geschuldetestes]], [[geschuldeteste]], [[geschuldetesten]], [[geschuldetestem]], [[Zahlungsmittel]], [[Finanz]], [[Geldanlage]], [[verpflichten]]

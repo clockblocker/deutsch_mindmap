@@ -1,11 +1,11 @@
+--> 📈 [[Grad-Vergleich]] <--
+
 🤏 [[beschränkt]], [bəˈʃʁɛŋkt](https://youglish.com/pronounce/beschränkt/german)
 
----> [[viel-wenig]] <---
-
-
 ---
+Bei [[kostenlosen]] personalisierten Produkten ist der [[Verbraucherschutz]] [[beschränkt]].  
 
-
+*[[C1-Hoehen-T4-100-Text#^8|^]]* Ein [[wirksam]]er Verbraucherschutz [[beschränkt]] sich nicht auf ein [[einzig]]es [[Land]]
 
 ---
 = [[begrenzt]], [[limitiert]], [[eingeschränkt]]

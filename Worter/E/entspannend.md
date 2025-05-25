@@ -1,1 +1,1 @@
-, [[beruhigenden]], [[entspannen]]
+, [[beruhigenden]], [[entspannen]], [[beklemmend]]

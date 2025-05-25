@@ -11,7 +11,7 @@
 = [[flüchtig]], [[oberflächlich]], [[oberflächlich]]
 ≈ [[unaufmerksam]], [[flüchtig]], [[oberflächlich]]
 ≠ [[gründlich]], [[tiefgründig]], [[ausführlich]]
-[[schlampig]], [[ernst]], [[tief]], [[gründlich]], [[eigentlich]], [[Ausführlich]], [[zugrundeliegende]], [[sorgsam]]
+[[schlampig]], [[ernst]], [[tief]], [[gründlich]], [[eigentlich]], [[ausführlich]], [[zugrundeliegende]], [[sorgsam]]
 , [[nachdenklich]]
 , [[innerlich]], [[grundlegend]], [[inhaltlich]]
 

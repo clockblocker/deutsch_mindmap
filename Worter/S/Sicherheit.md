@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Sicherheit]], [[Sicherheiten]]
 
 ---
-#Substantiv #Feminin, [[Verkehrstote]], [[Risiko]], [[Versicherung]], [[Gefahr]], [[Verteidigungspolitik]], [[Pfand]], [[Krise]], [[Zweifel]], [[Notfallschutz]], [[Energiesicherheit]], [[Bedrohung]], [[Datenschutz]], [[sichern]], [[unsicher]], [[Garantie]], [[Stolpergefahr]], [[Existenzdruck]], [[Existenzsicherung]], [[Sicherung]]
+#Substantiv #Feminin, [[Verkehrstote]], [[Risiko]], [[Versicherung]], [[Gefahr]], [[Verteidigungspolitik]], [[Pfand]], [[Krise]], [[Zweifel]], [[Notfallschutz]], [[Energiesicherheit]], [[Bedrohung]], [[Datenschutz]], [[sichern]], [[unsicher]], [[Garantie]], [[Stolpergefahr]], [[Existenzdruck]], [[Existenzsicherung]], [[Sicherung]], [[Gewährleistung]], [[Sicherheitsupdate]]

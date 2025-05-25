@@ -1,1 +1,1 @@
-, [[Vergleich]], [[Bilanz]], [[Entgegensetzung]], [[gegenüberstehen]]
+, [[Vergleich]], [[Bilanz]], [[Entgegensetzung]], [[gegenüberstehen]], [[gegenüberstellen]]

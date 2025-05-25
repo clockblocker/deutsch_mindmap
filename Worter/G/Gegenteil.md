@@ -30,3 +30,4 @@ G: des [[Gegenteils]], der [[Gegenteile]]
 D: dem [[Gegenteil]], den [[Gegenteilen]]
 
 #Neuter 
+, [[Textstelle]]

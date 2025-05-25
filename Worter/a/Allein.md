@@ -48,4 +48,4 @@ Tags:
 Morphems of only infinitive:
 - [[Allein]]
 
-, [[alleinerziehend]], [[ausschließlich]], [[lediglich]], [[ungestört]], [[zusammen]], [[Konjunktoren]], [[studienbegleitend]], [[eigenständig]], [[einzeln]]
+, [[alleinerziehend]], [[ausschließlich]], [[lediglich]], [[ungestört]], [[zusammen]], [[Konjunktoren]], [[studienbegleitend]], [[eigenständig]], [[einzeln]], [[einzig]]

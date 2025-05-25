@@ -1,6 +1,9 @@
 🌊 [[dicht]], [dɪçt] ≠ [[offen]]
 
 ---
+*[[C1-Hoehen-T1-301-Text#^2|^]]* Wie der Titel schon [[vermuten]] lässt, [[entführt]] die atmosphärisch und [[klang]]lich sehr [[dicht]] [[gewobene]] Reportage in eines der letzten Paradiese dieser Welt – auf eine der vielen [[Südseeinseln]], die schon [[Gauguin]] als exotische [[Gegenwelt]] in seinen Bildern [[verewigte]]
+
+
 Vor die eignen Füße [[dicht]],  
 ja, da sah der [[Bursche]] nicht,  
 also daß ein jeder ruft:  
@@ -32,3 +35,4 @@ P: [[dichten]], [[dichteren]], [[dichtesten]]
 ---
 [[Dichte]], [[verdichten]], [[Dichtung]], [[dichtmachen]], [[abdichten]]
  [[nah]], [[Gedicht]]
+, [[Südseeinsel]]

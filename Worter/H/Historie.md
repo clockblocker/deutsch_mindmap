@@ -1,1 +1,1 @@
-, [[Geschichte]], [[Mittelalter]]
+, [[Geschichte]], [[Mittelalter]], [[Alltagsgeschichte]], [[Alltagsgeschichte]]

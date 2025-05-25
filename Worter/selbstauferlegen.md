@@ -1,7 +1,7 @@
 🙇 [[selbstauferlegen]], [zɛlpstˈʔaʊ̯fɐˌleːɡn̩] | [[legte sich selbst auf]], haben [[sich selbst auferlegt]]
 
 ---
-*[[3  Ein Selbstversuch als Hobbybäuerin#^7|^]]* Eine [[selbstauferlegte]] Aufgabe, die es zu meistern gilt. ^7
+*[[3  Ein Selbstversuch als Hobbybäuerin#^7|^]]* Eine [[selbstauferlegte]] Aufgabe, die es zu meistern gilt
 
 ---
 = [[auferlegen]], [[verordnen]], [[auferzwängen]]

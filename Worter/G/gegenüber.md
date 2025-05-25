@@ -3,6 +3,8 @@
 ---
 Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand [[gegenüber]] vom Fenster? 
 
+*[[C1-Hoehen-T4-100-Text#^22|^]]* Sie müssen [[gegenüber]] dem [[Konsument]]en [[offenlegen]], ob der Anbieter ein Händler ist oder ob es sich um ein Angebot von einer [[Privatperson]] [[handelt]]
+
 *[[C1-Lesen-T1-000-Loesung#^1|^]]* Die Präposition „gegenüber“ [[drückt aus|drückt]] ein [[Verhältnis]] der [[Entgegensetzung]] oder des [[Vergleichs]] aus. Dies passt nicht zum Kontext der [[Mengenangabe]]. ^1
 
 
@@ -36,4 +38,4 @@ Verwendungsbeispiele:
 Varianten:
 - [[gegenüber]] + Dativ
 - [[gegenüber von]] + Dativ
-''', [[wider]], [[entgegen]], [[Gegenteil]], [[seitens]], [[gegenüberstehen]]
+''', [[wider]], [[entgegen]], [[Gegenteil]], [[seitens]], [[gegenüberstehen]], [[gegenüberstellen]]

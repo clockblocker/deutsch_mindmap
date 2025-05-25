@@ -1,7 +1,9 @@
 [[0-C1-Hoehen-T4-Ubung-List|Ubung-List]]
 
 ---
+
 ![[010_PT_Goethe_C1.mp3]]
+
 24 Homosexuell ...  
 - [ ] a zu empfinden ist laut Studien bereits bei der Geburt festgelegt.  
 - [ ] b und heterosexuell empfindende Männer weisen identische Hirnstrukturen auf.  

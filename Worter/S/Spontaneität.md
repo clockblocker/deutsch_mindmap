@@ -1,1 +1,1 @@
-, [[spontanen]], [[spontan]]
+, [[spontanen]], [[spontan]], [[Unmittelbarkeit]]

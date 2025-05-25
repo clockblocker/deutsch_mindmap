@@ -29,4 +29,4 @@ G: der [[Aufhebung]], der [[Aufhebungen]]
 D: der [[Aufhebung]], den [[Aufhebungen]]
 , [[Wegfall]]
 
-#Feminin 
+#Feminin , [[Widerruf]]

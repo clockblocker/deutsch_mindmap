@@ -4,8 +4,9 @@
 ---
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 
-*[[001-C1-Schreiben-T1#^8|^]]* Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]. ^8
+*[[001-C1-Schreiben-T1#^8|^]]* Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]
 
+*[[C1-Hoehen-T4-100-Text#^11|^]]* In Deutschland wurde sie [[inzwischen]] in das Gesetz gegen [[unlauteren]] [[Wettbewerb]] [[aufgenommen]], ein Gesetz für [[ehrlich]]e Konkurrenz und Verbraucherschutz, etwas, was [[bisher]] in der digitalen Welt noch zu [[wenig]] [[berücksichtigt]] wird
 
 Ich habe vollstes Verständnis dafür, dass ein [[Umzug]] unter Zeitdruck nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann.
 
@@ -21,9 +22,6 @@ Heute wird kontrovers darüber diskutiert, was für Kriterien [[Schulabgängerin
 
 *[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]] 
 
-1. Soziale [[Marktwirtschaft]] bedeutet, die Wirtschaft … (77%)
-	- [ ] [[steuert]] sich allein nach [[Angebot]] und [[Nachfrage]].
-	- [ ] wird vom Staat geplant und [[gesteuert]], Angebot und Nachfrage werden nicht [[berücksichtigt]].
 ---
 = [[beachten]], [[wahrnehmen]], [[einbeziehen]], [[achten]],  [[Sorgen]],
 ≈ [[betrachten]], [[miteinbeziehen]], [[in Betracht ziehen]], [[reflektieren]]

@@ -1,7 +1,9 @@
 ✅ [[zutreffen]], [ˈtsuːˌtʁɛfən](https://youglish.com/pronounce/zutreffen/german) → [[zutraf]] → haben [[zugetroffen]]
 
 ---
-Auf dem Niveau C1 können Sie auch feine [[Bedeutungsunterschiede]] mit dem [[jeweils]] [[zutreffenden]] Wortschatz [[ausdrücken]], es kommt hier also auch auf Nuancen an.
+Auf dem Niveau C1 können Sie auch feine [[Bedeutungsunterschiede]] mit dem [[jeweils]] [[zutreffenden]] Wortschatz [[ausdrücken]], es kommt hier also auch auf Nuancen an
+
+Kreuzen Sie nicht an, was Ihrer Meinung nach [[zutreffen]] könnte, interpretieren Sie nicht selbst.  
 
 *[[C1-Lesen-T1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]. ^5
 

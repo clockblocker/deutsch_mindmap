@@ -6,6 +6,8 @@ nicht [[Falsch]]
 ---
 Wird richtig sauer, macht einen bösen Gesichtsausdruck und fuchtelt mit den Armen
 
+*[[C1-Hoehen-T4-100-Text#^17|^]]* Es ist ein [[richtig]]er [[Handel]] mit falschen [[Bewertung]]en [[entstanden]]
+
 [[2 Unter Druck nach oben#^5|^]] Fest steht nur eins: Sie [[Worter/T/Taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
 
 

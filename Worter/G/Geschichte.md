@@ -33,4 +33,4 @@ A: die [[Geschichte]], die [[Geschichten]]
 G: der [[Geschichte]], der [[Geschichten]]
 D: der [[Geschichte]], den [[Geschichten]]
 
-#Feminin , [[Ereignis]], [[Geschichtspodcast]], [[Mittelalter]]
+#Feminin , [[Ereignis]], [[Geschichtspodcast]], [[Mittelalter]], [[Alltagsgeschichte]], [[Alltagsgeschichte]]

@@ -29,4 +29,4 @@ Zusätzliche Informationen:
 - Plural-Form ist identisch mit dem Wort selbst
 - Stammt vom Verb [[denken]]
 - Häufig verwendet in philosophischen und intellektuellen Kontexten, [[Begriff]]
-, [[Gegenstand]], [[Einstellung]], [[überdenken]]
+, [[Gegenstand]], [[Einstellung]], [[überdenken]], [[Empfindung]]

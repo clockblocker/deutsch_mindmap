@@ -1,1 +1,1 @@
-, [[Reise]], [[aufhalten]], [[Präsenz]]
+, [[Reise]], [[aufhalten]], [[Präsenz]], [[Hotelaufenthalt]]

@@ -1,7 +1,9 @@
 🎨 🔴 die [[Gestaltung]], [ɡəˈʃtaltʊŋ](https://youglish.com/pronounce/Gestaltung/german)
 
 ---
-1. [[Aufgabengerechtkeit]]
+[[Worin]] [[besteht]] die [[Reform]] der [[Preisgestaltung]]?
+
+1. [[Aufgabengerechtigkeit]]
 2. Korrektheit  
 3. Repertoire  
 4. Kommunikative [[Gestaltung]]
@@ -28,4 +30,7 @@ N: die [[Gestaltung]], die [[Gestaltungen]]
 A: die [[Gestaltung]], die [[Gestaltungen]]
 G: der [[Gestaltung]], der [[Gestaltungen]]
 D: der [[Gestaltung]], den [[Gestaltungen]]
-, [[Ausarbeitung]], [[Erzählstruktur]]
+, [[Ausarbeitung]], [[Erzählstruktur]], [[Preisgestaltung]]
+
+
+#Feminin 

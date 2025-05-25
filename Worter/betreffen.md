@@ -3,6 +3,9 @@
 ---
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
+*[[C1-Hoehen-T4-100-Text#^25|^]]* Eine weitere [[Maßnahme]] `zum` Verbraucherschutz [[betrifft]] die [[Deutlichkeit]] der [[Preisgestaltung]]. ^25
+
+
 *[[C1-Hoehen-T2-202-Text#^1|^]]* Sie [[befassen]] sich mit der [[Auswertung]] und [[Interpretation]] von [[Umfragen]], die die Politik [[betreffen]]. Und dabei insbesondere mit der sogenannten Politikverdrossenheit. ^1
 
 

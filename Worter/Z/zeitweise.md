@@ -5,7 +5,10 @@
 ⏱️ [[zeitweise]], [ˈtsaɪ̯tˌvaɪ̯zə](https://youglish.com/pronounce/zeitweise/german)
 
 ---
-*[[C1-Hoehen-T1-200-Text#^21|^]]* Dennoch [[liest]] es sich wie ein Roman und [[zeitweise]] hat man den [[Eindruck]] [[tatsächlich]] ein Wald zu sein.
+*[[C1-Hoehen-T1-200-Text#^21|^]]* Dennoch [[liest]] es sich wie ein Roman und [[zeitweise]] hat man den [[Eindruck]] [[tatsächlich]] ein Wald zu sein
+
+*[[C1-Hoehen-T1-301-Text#^10|^]]* Es handelt sich bei dem Podcast vielmehr um eine [[eindrücklich]]e und [[zeitweise]] [[durchaus]] [[beklemmend]]e [[Schilderung]] der [[überwältig]]enden Macht und auch [[Schönheit]] der Natur und der Elemente
+
 
 ---
 = [[vorübergehend]], [[temporär]], [[gelegentlich]]

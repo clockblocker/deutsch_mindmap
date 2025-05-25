@@ -1,1 +1,1 @@
-, [[Weiterbildung]], [[Fortschritt]], [[Aufstieg]], [[Verbesserung]], [[Technologie]]
+, [[Weiterbildung]], [[Fortschritt]], [[Aufstieg]], [[Verbesserung]], [[Technologie]], [[Weiterentwicklung]]

@@ -1,1 +1,1 @@
-, [[beschwert]], [[beschweren]]
+, [[beschwert]], [[beschweren]], [[Beschwernis]]

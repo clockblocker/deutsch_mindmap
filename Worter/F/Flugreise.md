@@ -1,1 +1,1 @@
-, [[Ostasienfahrt]], [[Flug]]
+, [[Ostasienfahrt]], [[Flug]], [[Fußwanderung]]

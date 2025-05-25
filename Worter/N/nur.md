@@ -12,4 +12,4 @@ Und höre [[nur]], wie bös er war:
 
 только 
 
-[[lacht ihr nur]], [[sonst]], [[bald]], [[nebenbei]], [[usw]], [[ausschließlich]], [[s1 e1]], [[lediglich]], [[Abtönungspartikeln]]
+[[lacht ihr nur]], [[sonst]], [[bald]], [[nebenbei]], [[usw]], [[ausschließlich]], [[s1 e1]], [[lediglich]], [[Abtönungspartikeln]], [[einzig]]

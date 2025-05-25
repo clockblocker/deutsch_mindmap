@@ -39,4 +39,4 @@ Partizip I: [[gebend]], Partizip II: [[gegeben]]
 
 [[übergeben]], [[zugeben]], [[kriegen]], [[schenken]]
 , [[aufgeben]], [[umgeben]], [[vergebens]], [[ausgeben]], [[abgeben]], [[Worter/ergeben]], [[s1 e1]], [[stiften]], [[Begebenheit]], [[begeben]]
-, [[zufriedengeben]], [[ergeben]], [[Arbeitgeber]], [[richtungsgebend]], [[anweisen]], [[freigeben]], [[borgen]], [[existieren]], [[angeben]], [[gang und gäbe]], [[weitergeben]], [[Ratgeber]], [[Gesetzgeber]], [[auftraggeben]], [[entziehen]], [[spendieren]], [[preisgeben]], [[zugegebenermaßen]]
+, [[zufriedengeben]], [[ergeben]], [[Arbeitgeber]], [[richtungsgebend]], [[anweisen]], [[freigeben]], [[borgen]], [[existieren]], [[angeben]], [[gang und gäbe]], [[weitergeben]], [[Ratgeber]], [[Gesetzgeber]], [[auftraggeben]], [[entziehen]], [[spendieren]], [[preisgeben]], [[zugegebenermaßen]], [[herausgeben]], [[Rückgabe]]

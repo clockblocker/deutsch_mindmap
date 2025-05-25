@@ -1,1 +1,1 @@
-, [[Wanderung]]
+, [[Wanderung]], [[Fußwanderung]]

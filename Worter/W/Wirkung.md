@@ -1,3 +1,4 @@
+
 --> [[🗣️ Ingredient-Meinung]] <--
 
 ✨ 🔴 die [[Wirkung]], [ˈvɪʁkʊŋ]

@@ -1,1 +1,1 @@
-, [[Deutschland]], [[Herkunftsland]], [[Gesamtgesellschaft]], [[Staat]], [[Industrienation]]
+, [[Deutschland]], [[Herkunftsland]], [[Gesamtgesellschaft]], [[Staat]], [[Industrienation]], [[Mitgliedstaat]], [[Mitgliedsland]]

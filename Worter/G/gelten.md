@@ -1,19 +1,14 @@
 🌟 [[gelten]], [ˈgɛltn̩] | [[galt]], haben [[gegolten]]
 
 ---
-Also bedeutet **“weihnachten”** wörtlich **“heilige nächte”**, weil das fest [[ursprünglich]] als eine zeit der [[geweih­ten]]/[[gesegneten]] Nächte [[galt]]. Es hat [[wurzeln]] in alten germanischen und christlichen Traditionen.
+Was [[gilt]] `bei` dem [[Erwerb]] von Software, E-Books usw.?
 
+*[[C1-Hoehen-T4-100-Text#^23|^]]* In diesem Fall muss `darauf` [[hingewiesen]] werden, dass die Regelungen zum Verbraucherschutz wie [[Recht]] `auf` [[Umtausch]] oder [[Rückgabe]] `beim` [[Privatkauf]] nicht [[gelten]]
 
-1. In Deutschland dürfen Menschen offen etwas gegen die [[Regierung]] sagen, weil … (91%)
-	- [x] hier [[Meinungsfreiheit]] [[gilt]].
+*[[C1-Hoehen-T4-100-Text#^22|^]]* Diese [[Regelung]]en [[gelten]] auch `für` Plattformen und Marktplätze wie Ebay oder Amazon
 
-2. Was [[gilt]] für die meisten Kinder in Deutschland? (97%)
-	- [x] [[Schulpflicht]]
+Also bedeutet **“weihnachten”** wörtlich **“heilige nächte”**, weil das fest [[ursprünglich]] als eine zeit der [[geweih­ten]]/[[gesegneten]] Nächte [[galt]]. Es hat [[wurzeln]] in alten germanischen und christlichen Traditionen
 
-[[Geltung]], [[gültig]]
-
-3. Welches Grundrecht [[gilt]] in Deutschland nur für Ausländer / Ausländerinnen? Das [[Grundrecht]] auf … (94%)
-	- [x] [[Asyl]]
 ---
 = [[zählen]], [[bedeuten]], [[anerkannt sein]]
 ≈ [[bestehen]], [[existieren]], [[beurteilt werden]]
@@ -38,4 +33,4 @@ PI: [[geltend]], PII: [[gegolten]], Zu+inf: [[zu gelten]]
 [[gelten]] - [[gel]] = [[ten]] / to apply, to be valid, to be considered
 
 ---
-[[Geltung]], [[geltend]], [[Geltungsbereich]], [[Geltungsdrang]], [[geltungssüchtig]], [[Geltungssucht]], [[gültig]], [[allgemeingültig]], [[entfallen]], [[zutreffen]], [[Gültigkeit]], [[anliegen]]
+[[Geltung]], [[geltend]], [[Geltungsbereich]], [[Geltungsdrang]], [[geltungssüchtig]], [[Geltungssucht]], [[gültig]], [[allgemeingültig]], [[entfallen]], [[zutreffen]], [[Gültigkeit]], [[anliegen]], [[Geltung]], [[gültig]]

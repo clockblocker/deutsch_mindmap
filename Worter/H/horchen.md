@@ -1,1 +1,1 @@
-, [[anhören]], [[anhören]], [[zuhören]], [[hören]]
+, [[anhören]], [[anhören]], [[zuhören]], [[hören]], [[lauschen]]

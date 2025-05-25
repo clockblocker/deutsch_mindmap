@@ -2,13 +2,15 @@
 die [[Vorträge]]
 
 ---
-Sie [[verpassen]] den gesamten [[Vortrag]].
+Sie hören einen [[Vortrag]] zum [[Verbraucherschutz]] im Online-[[Handel]]
 
 ![[Sprechen-T1#^4|^]]
 
 - *halten einen kurzen* [[Vortrag]] *zu dem von Ihnen* [[gewählten]] *Thema*
 
 [[Vortrag]] in Magiegeschichte
+
+Sie [[verpassen]] den gesamten [[Vortrag]]
 
 
 ---

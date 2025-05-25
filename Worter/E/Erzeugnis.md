@@ -1,1 +1,1 @@
-, [[Frucht]], [[erzeugen]], [[Abfall]], [[Ware]]
+, [[Frucht]], [[erzeugen]], [[Abfall]], [[Ware]], [[Produkt]]

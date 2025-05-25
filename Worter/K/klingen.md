@@ -3,6 +3,9 @@
 haben [[geklingelt]]
 
 ---
+*[[C1-Hoehen-T1-301-Text#^2|^]]* Wie der Titel schon [[vermuten]] lässt, [[entführt]] die atmosphärisch und [[klang]]lich sehr [[dicht]] [[gewobene]] Reportage in eines der letzten Paradiese dieser Welt – auf eine der vielen [[Südseeinseln]], die schon [[Gauguin]] als exotische [[Gegenwelt]] in seinen Bildern [[verewigte]]
+
+
 SAM: [[Klingt]] klasse!  
 
 Die [[klingt]] ja schrecklich! 

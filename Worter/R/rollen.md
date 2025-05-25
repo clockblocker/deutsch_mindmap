@@ -24,9 +24,9 @@ Morpheme: [[roll]][[en]]
 
 | Person    | Präsens  | Präteritum | Imperativ   | Konjunktiv I | Konjunktiv II |
 | --------- | -------- | ---------- | ----------- | ------------ | ------------- |
-| Ich       | [[rolle]]| [[rollte]] | -           | [[rolle]]    | [[rollte]]    |
-| Du        | [[rollst]]| [[rolltest]]| [[rolle]]   | [[rollest]]  | [[rolltest]]  |
-| Er/sie/es | [[rollt]]| [[rollte]] | -           | [[rolle]]    | [[rollte]]    |
+| Ich       | [[Rolle]]| [[rollte]] | -           | [[Rolle]]    | [[rollte]]    |
+| Du        | [[rollst]]| [[rolltest]]| [[Rolle]]   | [[rollest]]  | [[rolltest]]  |
+| Er/sie/es | [[rollt]]| [[rollte]] | -           | [[Rolle]]    | [[rollte]]    |
 | Wir       | [[rollen]]| [[rollten]]| -           | [[rollen]]   | [[rollten]]   |
 | Ihr       | [[rollt]]| [[rolltet]] | [[rollt]]   | [[rollet]]   | [[rolltet]]   |
 | Sie       | [[rollen]]| [[rollten]]| [[rollen Sie]]| [[rollen]] | [[rollten]]   |

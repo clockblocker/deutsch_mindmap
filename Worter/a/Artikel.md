@@ -24,4 +24,4 @@ D: dem [[Artikel]], den [[Artikeln]]
 ---
 [[artikulieren]], [[artikuliert]], [[Artikelwort]], [[Artikulierung]], [[Zeitungsausschnitt]], [[Artikelverwendung]]
 
-#Maskulin 
+#Maskulin , [[Produkt]]

@@ -1,7 +1,10 @@
 --> [[Ingredient-Pflege]] <--
+
 🤔 [[vergessen]], [fɛɐ̯ˈɡɛsn̩] | [[vergaß]], haben [[vergessen]]
 
 ---
+*[[C1-Hoehen-T1-301-Text#^10|^]]* Wenn man sich auf die [[wortgewaltig]]e [[Unmittelbarkeit]] der [[Erfahrung]]en, [[Empfindung]]en und [[Erlebnis]]se des Naturpilgers Wegorst [[einlässt]], geht man allerdings auf eine Reise, an deren Ende ein in unserer Zivilisation oft [[vergessener]] Respekt vor der [[rohen]] [[Gleichgültigkeit]] der Natur steht – aber auch eine neue [[Einsicht]] in die [[Einfachheit]] der essentiellen Bedürfnisse der Menschheit
+
 NIC: Ich [[vergesse]] nie etwas!
 
 • [[Vergessene]] Karten wiederholen
@@ -31,4 +34,4 @@ PI: [[vergessend]], PII: [[vergessen]], Zu+inf: [[zu vergessen]]
 
 ---
 [[Vergessen]], [[Vergessenheit]], [[vergeßlich]], [[unvergessen]], [[Vergesslichkeit]], [[Worter/W/Wiederholung]]
-, [[verzeihen]], [[wiedererkennen]], [[wiederholen]], [[erfassen]], [[verzeichnen]], [[Gedächtnis]], [[festhalten]]
+, [[verzeihen]], [[wiedererkennen]], [[wiederholen]], [[erfassen]], [[verzeichnen]], [[Gedächtnis]], [[festhalten]], [[verewigen]]

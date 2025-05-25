@@ -1,1 +1,1 @@
-, [[ermitteln]], [[gemessen]]
+[[ermitteln]]

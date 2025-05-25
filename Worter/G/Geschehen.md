@@ -5,7 +5,9 @@
 ---
 Niemand weiß, was wirklich [[geschehen]] ist.
 
-10. Was [[geschieht]], wenn man Kindern weniger Spielzeug anbietet?
+Was [[geschieht]], wenn man Kindern weniger Spielzeug anbietet?
+
+*[[C1-Hoehen-T4-100-Text#^14|^]]* Auch besteht der Wunsch, dass [[Händler]] aktiver [[Stellung]] zu [[schlecht]]en [[Kundenbewertung]]en nehmen, was noch zu wenig [[geschieht]]
 
 *[[C1-Lesen-T1-000-Loesung#^9|^]]* „[[Dafür]] [[sorgen]], dass“ bedeutet bewirken, dass etwas geschieht. Hier sorgt die Drohne dafür, dass weiterer Müll erkannt wird. ^9
 

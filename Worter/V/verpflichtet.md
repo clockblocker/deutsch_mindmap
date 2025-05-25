@@ -1,1 +1,1 @@
-, [[verantwortlich]], [[Verpflichtung]], [[dankbar]], [[schulden]]
+[[verpflichten]]

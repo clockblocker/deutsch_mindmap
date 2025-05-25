@@ -32,4 +32,4 @@ Zu+infinitive: [[zu trösten]]
 
 ---
 [[Trost]], [[Tröster]], [[Tröstern]], [[Trostlosigkeit]], [[trostlos]], [[trostreich]]
-, [[ärgern]], [[plagen]], [[warnen]], [[bemitleiden]]
+, [[ärgern]], [[plagen]], [[warnen]], [[bemitleiden]], [[beklemmen]]

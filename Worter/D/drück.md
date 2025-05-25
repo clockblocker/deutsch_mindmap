@@ -1,3 +1,3 @@
 [[drücken]], [[ausdrücken]]
 , [[bedrückt]]
-, [[zudrücken]], [[ausdrücklich]]
+, [[zudrücken]], [[ausdrücklich]], [[eindrücken]]

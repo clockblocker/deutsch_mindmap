@@ -32,4 +32,4 @@ D: der [[Stelle]], den [[Stellen]]
 ---
 [[stellen]], [[stellvertretend]], [[Stellvertretung]], [[Stellenanzeige]], [[stellenweise]], [[stehen]], [[Texte/Misc/Anki]], [[Arbeitsstelle]], [[Stellenwert]], [[abstellen]], [[Punkt]]
 
-#Feminin , [[Meridianpunkt]]
+#Feminin , [[Meridianpunkt]], [[Textstelle]]

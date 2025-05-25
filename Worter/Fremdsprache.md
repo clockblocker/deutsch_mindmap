@@ -22,3 +22,5 @@ D: der [[Fremdsprache]], den [[Fremdsprachen]]
 
 ---
 [[Fremder]], [[fremdartig]], [[Fremde]], [[fremdeln]], [[Zielsprache]], [[Landessprache]]
+
+#Feminin 

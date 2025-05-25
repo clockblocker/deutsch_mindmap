@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Künstlers]], [[Künstlern]], [[Künstlern]]
 ---
 #Substantiv #Maskulin #Beruf
 
-, [[Kunstschaffende]], [[Einzelausstellung]], [[Künstlerin]], [[Zeichner]], [[künstlerischer]], [[Tannhäuser]], [[Filmemacher]]
+, [[Kunstschaffende]], [[Einzelausstellung]], [[Künstlerin]], [[Zeichner]], [[künstlerischer]], [[Tannhäuser]], [[Filmemacher]], [[Gauguin]]

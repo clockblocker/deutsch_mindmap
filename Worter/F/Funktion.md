@@ -1,1 +1,1 @@
-, [[Tätigkeit]], [[Stelle]], [[Verwendung]], [[Bedienung]], [[Störung]], [[Zuständigkeit]], [[Programm]], [[Aufgabenbereich]], [[Funktionsweise]], [[Stoffwechselmechanismus]], [[dazwischenfunken]]
+, [[Tätigkeit]], [[Stelle]], [[Verwendung]], [[Bedienung]], [[Störung]], [[Zuständigkeit]], [[Programm]], [[Aufgabenbereich]], [[Funktionsweise]], [[Stoffwechselmechanismus]], [[dazwischenfunken]], [[Rolle]]

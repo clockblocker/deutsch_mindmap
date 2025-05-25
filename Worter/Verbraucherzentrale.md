@@ -23,3 +23,5 @@ D: der [[Verbraucherzentrale]], den [[Verbraucherzentralen]]
 
 ---
 [[verbrauchen]], [[Verbraucherschutz]], [[Verbraucherrechte]], [[beraten]], [[informieren]]
+
+#Feminin 

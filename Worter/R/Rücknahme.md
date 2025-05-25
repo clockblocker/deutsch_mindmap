@@ -1,1 +1,1 @@
-, [[Aufhebung]], [[Vorstoß]]
+, [[Aufhebung]], [[Vorstoß]], [[Rückgabe]], [[Widerruf]]

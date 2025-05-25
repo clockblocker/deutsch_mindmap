@@ -25,4 +25,4 @@ N: [[vielfaches]], [[vielfacheres]], [[vielfachstes]]
 P: [[vielfachen]], [[vielfacheren]], [[vielfachsten]]  
 
 ---
-[[Vielfalt]], [[vielfältig]], [[mehlfach]], [[mehrmals]], [[tausendfach]], [[viermal]]
+[[Vielfalt]], [[vielfältig]], [[mehlfach]], [[mehrmals]], [[tausendfach]], [[viermal]], [[einzig]]

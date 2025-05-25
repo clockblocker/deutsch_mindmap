@@ -73,4 +73,4 @@ sie, [[gehen aus]], [[gingen aus]], [[gehen aus]], [[gingen aus]], [[gehen aus]]
 Adjektive: [[ausgehend]], [[ausgehender]], [[ausgehendst]]
 
 ---
-[[ausgehender]], [[ausgehendes]], [[ausgehende]], [[ausgehenden]], [[ausgehendem]], [[ausgehenderer]], [[ausgehenderes]], [[ausgehendere]], [[ausgehenderen]], [[ausgehenderem]], [[ausgehendster]], [[ausgehendstes]], [[ausgehendste]], [[ausgehendsten]], [[ausgehendstem]]
+[[ausgehender]], [[ausgehendes]], [[ausgehende]], [[ausgehenden]], [[ausgehendem]], [[ausgehenderer]], [[ausgehenderes]], [[ausgehendere]], [[ausgehenderen]], [[ausgehenderem]], [[ausgehendster]], [[ausgehendstes]], [[ausgehendste]], [[ausgehendsten]], [[ausgehendstem]], [[hinausgehen]]

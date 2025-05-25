@@ -36,4 +36,4 @@ G: der [[Beschwerde]], der [[Beschwerden]]
 D: der [[Beschwerde]], den [[Beschwerden]]
 
 
-#Feminin 
+#Feminin , [[Beschwernis]]

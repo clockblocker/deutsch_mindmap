@@ -3,6 +3,7 @@
 haben [[gekauft]]
 
 ---
+*[[C1-Hoehen-T4-100-Text#^16|^]]* Verkäufer und Händler können immer wieder positive Bewertungen `bei` [[unseriös]]en [[Anbieter]]n [[kaufen]]
 
 
 ---
@@ -34,4 +35,4 @@ Morpheme: [[Kauf]][[en]]
 
 Partizip I: [[kaufend]], Partizip II: [[gekauft]]
 , [[angeln]], [[ausleihen]]
-, [[Spende]], [[mieten]], [[beliefern]], [[aufkaufen]], [[Kaufverhalten]], [[Kaufmann]], [[Kaufentscheidung]]
+, [[Spende]], [[mieten]], [[beliefern]], [[aufkaufen]], [[Kaufverhalten]], [[Kaufmann]], [[Kaufentscheidung]], [[Privatkauf]]

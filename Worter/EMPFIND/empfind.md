@@ -1,1 +1,1 @@
-, [[empfinden]]
+, [[empfinden]], [[Empfindung]]

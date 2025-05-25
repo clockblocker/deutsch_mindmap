@@ -1,7 +1,11 @@
 🤔 [[beeinflussen]], [bəˈʔaɪ̯nflʊsn̩](https://youglish.com/pronounce/beeinflussen/german) → [[beeinflusste]] → [[beeinflusst]]
 
 ---
-Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann.
+Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann
+
+*[[C1-Hoehen-T4-100-Text#^12|^]]* [[Verschiedene]] Studien über den [[Einfluss]] von Online-[[Bewertung]]en auf unser [[Kaufverhalten]] haben gezeigt, dass mehr als zwei Drittel aller [[Kaufentscheidung]]en sich von [[abgegebenen]] [[Bewertung]]en [[beeinflussen]] [[lassen]]
+
+*[[C1-Hoehen-T4-100-Text#^12|^]]* Wir alle lassen uns von positiven [[Bewertung]]en im Internet [[beeinflussen]], beim Kauf technischer Geräte, bei einem Restaurantbesuch oder beim [[Hotelaufenthalt]]
 
 Informations[[flut]] – Wie [[beeinflussen]] soziale Medien unser Denken?
 

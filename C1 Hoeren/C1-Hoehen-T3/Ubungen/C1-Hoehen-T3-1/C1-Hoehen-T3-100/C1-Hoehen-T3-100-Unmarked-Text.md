@@ -2,7 +2,7 @@
 
 ---
 
-![[003_PT_Goethe_C1.mp3]]
+![[004_PT_Goethe_C1.mp3]]
 
 Sie hören den Text in vier Abschnitten jeweils einmal. Zu jedem
 Abschnitt gibt es zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung. Vor dem Hören eines Abschnitts haben Sie 30 Sekunden Zeit, um die zwei Aufgaben zu lesen.

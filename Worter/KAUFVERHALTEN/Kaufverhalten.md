@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-203-Text#^18|^]]* Und da [[belohnt]], egal ob man spielt oder [[chattet]], die sogenannten Cookies [[ausspionieren|spionieren]] genau unsere Interessen und unser [[Kaufverhalten]] aus, denn die [[Betreiber]] der Websites haben mit der Verbindung einen [[Vertrag]] zum [[Schnüffelgeschäft]]: 
 
+*[[C1-Hoehen-T4-100-Text#^12|^]]* [[Verschiedene]] Studien über den [[Einfluss]] von Online-[[Bewertung]]en auf unser [[Kaufverhalten]] haben gezeigt, dass mehr als zwei Drittel aller [[Kaufentscheidung]]en sich von [[abgegebenen]] [[Bewertung]]en [[beeinflussen]] [[lassen]]
+
 *[[C1-Hoehen-T2-203-Text#^19|^]]* So [[entsteht]] ein Profil über jeden Nutzer, welches sogar [[Prognose]]n über [[künftig]]es [[Kaufverhalten]] [[zulässt]]
 
 

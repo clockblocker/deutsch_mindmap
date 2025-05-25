@@ -1,76 +1,60 @@
-✋ [[mitnehmen]]
-[[nahm mit]]
-haben [[mitgenommen]]
+🎒 [[mitnehmen]], [ˈmɪtˌneːmən](https://youglish.com/pronounce/mitnehmen/german) → [[nahm mit]] → [[mitgenommen]]
 
 ---
 Alles hat er [[mitgenommen]], nur meine Perlenkette nicht.
 
----
-
-Synonyme:
-- [[einpacken]], [[mitführen]], [[transportieren]]
+*[[C1-Hoehen-T1-301-Text#^1|^]]* In unserer ersten Empfehlung „O-Ton aus dem Paradies“ werden Sie zu dem [[Sehnsuchtsort]] [[mitgenommen]]
 
 ---
-
-Beispiele:
-
-- Ich [[nehme]] meinen Regenschirm [[mit]].
-- Du [[nimmst]] das Buch aus der Bibliothek [[mit]].
-- Er [[nimmt]] seinen Laptop zur Arbeit [[mit]].
-- Wir [[nehmen]] ein paar Snacks für die Reise [[mit]].
-- Ihr [[nehmt]] eure Freunde zum Ausflug [[mit]].
-- Sie [[nehmen]] die Katze zum Tierarzt [[mit]].
+= [[nehmen]], [[begleiten]]
+≈ [[tragen]], [[führen]], [[transportieren]], [[abholen]], [[holen]], [[begleiten]], [[mitbringen]], [[forttragen]], [[ausleihen]], [[abstellen]]
+≠ [[zurücklassen]], [[verlassen]]
 
 ---
-**Übersetzung**: to take along, to take with
+to take along, to bring  
+брать с собой
 
 ---
-
-Morphems of only infinitive:
-[[mit]][[nehmen]]
+[[mit]], [[nehmen]]
 
 ---
-Tags:
-#Verb #Trennbar #Unregelmäßige
+[[mit]]|[[nehm]]|[[en]]
+[[mit]] + [[nehmen]]
+
 
 ---
+###### [[mitnehmen]] jN
+- Wen [[nimmst]] du [[mit]]?
+- Meine Freunde.
 
-Präteritum:
+- Was [[nehmen]] wir [[mit]]?
+- Das Gepäck.
 
-- Ich [[nahm mit|nahm]] meinen Regenschirm [[mit]].
-- Du [[nahmst mit|nahmst]] das Buch aus der Bibliothek [[mit]].
-- Er [[nahm mit|nahm]] seinen Laptop zur Arbeit [[mit]].
-- Wir [[nahmen mit|nahmen]] ein paar Snacks für die Reise [[mit]].
-- Ihr [[nahmt mit|nahmt]] eure Freunde zum Ausflug [[mit]].
-- Sie [[nahmen mit|nahmen]] die Katze zum Tierarzt [[mit]].
-
----
-
-Imperativ:
-
-- [[Nimm mit|nimm]] den Regenschirm [[mit]]!
-- [[Nehmt mit|nehmt]] das Buch [[mit]]!
-- [[Nehmen wir mit|nehmen]] die Snacks [[mit]]!
-- [[Nehmen Sie mit|nehmen]] das Kind [[mit]]!
+- Warum [[hat]] er sie [[mitgenommen]]?
+- Um sie zu unterstützen.
 
 ---
+###### [[mitnehmen]] jN `auf` jA
+- Wen [[nimmst]] du [[auf]] die Reise [[mit]]?
+- Meine Familie.
 
-Konjunktiv I:
+- Wen [[nehmen]] wir [[auf]] die Party [[mit]]?
+- Unsere Freunde.
 
-- Er sagt, ich [[nehme]] den Laptop [[mit]].
-- Sie meint, du [[nehmest mit]] das Buch [[mit]].
-- Er behauptet, er [[nehme mit]] den Regenschirm [[mit]].
-- Wir erklären, wir [[nehmen mit]] den Hund [[mit]].
-- Ihr sagt, ihr [[nehmet mit]] eure Freunde [[mit]].
-- Sie sagen, sie [[nehmen mit]] die Katze [[mit]].
+- Warum [[hat]] er sie [[auf]] das Konzert [[mitgenommen]]?
+- Um ihnen eine Freude zu machen.
 
 ---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[nehme mit]] / [[nehme mit]], [[nahm mit]], [[nehme mit]], [[nähme mit]], -
+du, [[nimmst mit]], [[nahmst mit]], [[nimm mit]], [[nähmest mit]], [[nimm mit]] / [[nehme mit]]
+er, [[nimmt mit]], [[nahm mit]], [[nehme mit]], [[nähme mit]], -
+wir, [[nehmen mit]], [[nahmen mit]], [[nehmen mit]], [[nähmen mit]], [[nehmen mit]]
+ihr, [[nehmt mit]], [[nahmt mit]], [[nehmt mit]], [[nähmest mit]], [[nehmt mit]]
+sie, [[nehmen mit]], [[nahmen mit]], [[nehmen mit]], [[nähmen mit]], [[nehmen mit]]
 
-Konjunktiv II:
+*Zu + Inf*: [[mitzunehmen]], *P2*: [[mitgenommen]]
+Adjektive: [[mitnehmend]], [[mitnehmender]], [[mitnehmendst]]
 
-- Wenn ich mehr Platz hätte, [[nähme mit|nähme]] ich mehr Sachen [[mit]].
-- Wenn du früher gekommen wärst, [[nähmest mit|nähmest]] du das Buch [[mit]].
-- Wenn er gewusst hätte, dass es regnet, [[nähme mit|nähme]] er den Schirm [[mit]].
-- Wenn wir das Auto hätten, [[nähmen mit|nähmen]] wir alle unsere Sachen [[mit]].
-- Wenn ihr mehr Zeit hättet, [[nähmet mit|nähmet]] ihr eure Freunde [[mit]].
-- Wenn sie nicht so viel Gepäck hätten, [[nähmen mit|nähmen]] sie das Fahrrad [[mit]].[[abholen]][[holen]], [[begleiten]], [[mitbringen]], [[forttragen]], [[ausleihen]], [[abstellen]]
+---
+[[mitnehmender]], [[mitnehmendes]], [[mitnehmende]], [[mitnehmenden]], [[mitnehmendem]], [[mitnehmenderer]], [[mitnehmenderes]], [[mitnehmendere]], [[mitnehmenderen]], [[mitnehmenderem]], [[mitnehmendster]], [[mitnehmendstes]], [[mitnehmendste]], [[mitnehmendsten]], [[mitnehmendstem]], [[hinterlassen]]

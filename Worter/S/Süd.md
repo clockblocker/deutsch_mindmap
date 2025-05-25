@@ -1,1 +1,1 @@
-, [[Südpol]], [[südöstlich]]
+, [[Südpol]], [[südöstlich]], [[Südseeinsel]]

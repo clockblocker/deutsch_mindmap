@@ -2,7 +2,9 @@
 die [[Erkundungen]]
 
 ---
-*[[C1-Lesen-T4-101-Text#^1|^]]* Natürlich ist es [[wesentlich]] [[kostengünstiger]], die [[Erkundung]] von Planeten mit Robotern zu [[betreiben]]. ^1
+*[[C1-Lesen-T4-101-Text#^1|^]]* Natürlich ist es [[wesentlich]] [[kostengünstiger]], die [[Erkundung]] von Planeten mit Robotern zu [[betreiben]]
+
+*[[C1-Hoehen-T1-301-Text#^8|^]]* Wir [[begleiten]] ihn bei seiner [[Erkundung]] des längsten [[Küstenwanderweg]]s der Welt und [[lauschen]] seinen [[eindrücken]], Kämpfen und [[Erkenntnis]]sen
 
 
 ---

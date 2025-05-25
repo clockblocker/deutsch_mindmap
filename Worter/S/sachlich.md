@@ -2,7 +2,7 @@
 nicht [[emotional]], [[subjektiv]]
 
 ---
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]]. 
 
 
 ---

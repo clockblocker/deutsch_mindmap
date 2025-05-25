@@ -6,7 +6,11 @@
 ---
 Das [[entspricht]] unserer Idee.
 
-11 Herr Josek meint, dass die [[Wahlprogramm]]e [[eher]] den Interessen der älteren Generation [[entsprechen]].
+*[[C1-Hoehen-T1-301-Text#^3|^]]* Aber wie auch schon Gauguin erkennen musste, dass seine Vorstellung vom Paradies nicht der kolonialen Realität [[entsprach]], ist auch der Podcast [[keineswegs]] ein Hör-Reiseprospekt für ein [[Traumziel]]
+
+*[[C1-Hoehen-T4-100-Text#^15|^]]* Davon [[abgesehen]] haben wir oft ein ungutes Gefühl, ob die Bewertungen wirklich der Realität [[entsprechen]]
+
+11 Herr Josek meint, dass die [[Wahlprogramm]]e [[eher]] den Interessen der älteren Generation [[entsprechen]]
 
 *[[C1-Hoehen-T2-201-Text#^40|^]]* Das [[entspricht]] [[etwa]] dem [[Tausendfachen]] der [[weltweiten]] [[Weizenernte]] eines Jahres
 

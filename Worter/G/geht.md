@@ -1,1 +1,1 @@
-, [[gehen]], [[unter die Haut gehen]], [[zurückgehen]]
+, [[gehen]], [[unter die Haut gehen]], [[zurückgehen]], [[hinausgehen]]

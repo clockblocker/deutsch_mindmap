@@ -1,2 +1,2 @@
 , [[wendig]], [[Hölzern]]
-, [[tollpatschig]]
+, [[tollpatschig]], [[wortgewaltig]]

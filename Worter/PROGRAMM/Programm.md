@@ -27,4 +27,4 @@ G: des [[Programms]], der [[Programme]]
 D: dem [[Programm]], den [[Programmen]]
 
 
-#Neuter , [[Unterhaltungsangebot]], [[Empfehlungsalgorithmus]], [[Grundprogramm]], [[Wahlprogramm]], [[Kanal]]
+#Neuter , [[Unterhaltungsangebot]], [[Empfehlungsalgorithmus]], [[Grundprogramm]], [[Wahlprogramm]], [[Kanal]], [[Verbraucheragenda]]

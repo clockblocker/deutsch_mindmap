@@ -1,1 +1,1 @@
-, [[Schnäppchen]]
+, [[Schnäppchen]], [[Rabattaktion]]

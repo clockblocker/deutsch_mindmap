@@ -29,4 +29,4 @@ G: des [[Ausbaus]], der [[Ausbauten]]
 D: dem [[Ausbau]], den [[Ausbauten]]
 
 
-#Maskulin 
+#Maskulin , [[Weiterentwicklung]]

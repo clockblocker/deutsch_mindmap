@@ -27,4 +27,4 @@ N: die [[Präzision]], die [[Präzisionen]]
 A: die [[Präzision]], die [[Präzisionen]]
 G: der [[Präzision]], der [[Präzisionen]]
 D: der [[Präzision]], den [[Präzisionen]]
-#Feminin 
+#Feminin , [[Deutlichkeit]]

@@ -5,6 +5,8 @@ sein [[erschienen]]
 ---
 Auf dem [[Bildschirm]] [[erscheint]] ein [[seltsames]] Symbol.
 
+*[[C1-Hoehen-T4-100-Text#^30|^]]* Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschriften]] [[gehalten]] wird
+
 Zuko wird wütend und lässt [[Feuerdolche]] aus seiner [[Faust]] [[erscheinen]]
 
 Erinnerst du dich, wie ich Harry [[beigebracht]] habe, Löffel zu [[verbiegen]]? Wenn es so [[erschien]], als ob sie immer [[ahnen]] konnten, was du gerade dachtest — diese Technik nennt sich kalte [[Deutung]] oder cold reading

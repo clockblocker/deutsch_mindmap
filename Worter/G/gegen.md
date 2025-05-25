@@ -34,4 +34,4 @@ Morphems:
 
 , [[11 08]], [[entgegen]], [[da]], [[FUDGEBOW]], [[Gegenwind]]
 , [[entlang]]
-, [[Gegenstand]], [[zugunsten]], [[gegenwärtig]], [[gegenseitig]], [[Kunstgegenstand]], [[Gegenteil]], [[gegenüberstehen]]
+, [[Gegenstand]], [[zugunsten]], [[gegenwärtig]], [[gegenseitig]], [[Kunstgegenstand]], [[Gegenteil]], [[gegenüberstehen]], [[gegenüberstellen]], [[Gegenwelt]]

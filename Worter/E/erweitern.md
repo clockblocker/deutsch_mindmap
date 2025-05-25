@@ -3,7 +3,11 @@
 ➕ [[erweitern]], [ɛɐ̯ˈvaɪ̯tɐn](https://youglish.com/pronounce/erweitern/german) → [[erweiterte]] → [[erweitert]]
 
 ---
-*[[009-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke [[einbringen]] – [[wodurch]] die Firma potenziell neue Partner und Kunden [[gewinnen]] kann. 
+*[[009-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke [[einbringen]] – [[wodurch]] die Firma potenziell neue Partner und Kunden [[gewinnen]] kann
+
+Die [[Regelung]]en zum [[Datenschutz]] werden [[erweitert]].  
+
+*[[C1-Hoehen-T4-100-Text#^3|^]]* Der Verbraucherschutz kann verbessert werden, da Deutschland sein [[Verbraucherschutzgesetz]] [[erweitert]] hat
 
 *[[C1-Hoehen-T1-102-Text#^2|^]]* "Kauft sie glücklich" [[thront]] als Titel auf dem [[Einband]] und ich [[verspreche]] euch, die zweite [[Auflage]] des Spiegel-Bestsellers wird euren Horizont [[erweitern]].
 

@@ -1,1 +1,1 @@
-, [[Aufhebung]]
+, [[Aufhebung]], [[Widerruf]]

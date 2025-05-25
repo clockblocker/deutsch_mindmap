@@ -5,6 +5,8 @@ haben [[gefolgt]]
 ---
 Deine [[Entscheidung]] wird [[Folgen]] haben.
 
+📌 Die Aussagen [[folgen]] immer der [[Reihenfolge]] des Hörtextes
+
 *Die Buben aber [[folgten]] nicht*  
 *und lachten ihm ins Angesicht*  
 

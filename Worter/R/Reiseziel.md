@@ -1,1 +1,1 @@
-, [[reisen]], [[Reise]]
+, [[reisen]], [[Reise]], [[Urlaubsparadies]], [[Traumziel]], [[Sehnsuchtsort]]

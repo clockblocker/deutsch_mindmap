@@ -6,6 +6,8 @@ die [[Auswirkungen]]
 ---
 *[[C1-Hoehen-T2-101-Text#^15|^]]* So kann eine individuelle [[Entscheidung]] [[Auswirkung]]en auf die systemische [[Ebene]] haben und [[umgekehrt]]
 
+Der Podcast setzt sich mit den [[Auswirkung]]en des [[Breitentourismus]] [[auseinander]]
+
 *[[C1-Hoehen-T2-101-Text#^33|^]]* Und wie ist Ihre [[Einschätzung]] [[bezüglich]] der [[Auswirkung]]en der [[Demonstration]]en?
 
 *[[001-C1-Schreiben-T1#^8|^]]* Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]

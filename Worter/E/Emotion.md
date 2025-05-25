@@ -1,2 +1,2 @@
 , [[Gefühl]], [[Aufregung]]
-, [[Gefühlsausbruch]]
+, [[Gefühlsausbruch]], [[Empfindung]]

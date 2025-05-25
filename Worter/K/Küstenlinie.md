@@ -1,1 +1,1 @@
-, [[Küste]]
+, [[Küste]], [[Küstenwanderweg]]

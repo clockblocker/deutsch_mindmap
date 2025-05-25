@@ -4,6 +4,8 @@ die [[Inhalte]]
 ---
 Der [[Inhalt]] der [[Aussage]] steht im [[Widerspruch]] zu konkreten [[Aussage]]n im Hörtext
 
+*[[C1-Hoehen-T4-100-Text#^27|^]]* Und eine neue Regelung: Hat der Verbraucher digitale [[Inhalt]]e gegen [[Abgabe]] seiner persönlichen Daten [[erhalten]], darf der Anbieter bei einem [[Widerruf]] des [[Konsument]]en diese persönlichen Daten nicht [[weiterverwenden]]
+
 *[[C1-Hoehen-T2-203-Text#^27|^]]* Was die Definition so schwierig macht, sind die vielen unterschiedlichen Online-[[Inhalt]]e. ^27
 
 

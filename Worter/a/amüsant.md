@@ -29,4 +29,4 @@ amusing
 Adjektive: [[amüsant]], [[amüsanter]], [[amüsantest]]
 
 ---
-[[amüsanter]], [[amüsantes]], [[amüsante]], [[amüsanten]], [[amüsantem]], [[amüsanterer]], [[amüsanteres]], [[amüsantere]], [[amüsanteren]], [[amüsanterem]], [[amüsantester]], [[amüsantestes]], [[amüsanteste]], [[amüsantesten]], [[amüsantestem]]
+[[amüsanter]], [[amüsantes]], [[amüsante]], [[amüsanten]], [[amüsantem]], [[amüsanterer]], [[amüsanteres]], [[amüsantere]], [[amüsanteren]], [[amüsanterem]], [[amüsantester]], [[amüsantestes]], [[amüsanteste]], [[amüsantesten]], [[amüsantestem]], [[Anekdotisch]]

@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-100-Text#^34|^]]* Ganz [[abgesehen]] davon werden ja durch die Digitalisierung der Arbeitswelt immer mehr unattraktive Arbeiten von Maschinen [[übernommen]] und andere Jobs werden [[entstehen]]
 
+*[[C1-Hoehen-T4-100-Text#^15|^]]* Davon [[abgesehen]] haben wir oft ein ungutes Gefühl, ob die Bewertungen wirklich der Realität [[entsprechen]]
+
 ---
 = [[ausgenommen]], [[außer]], [[ohne]]
 ≈ [[ungeachtet]], [[trotzdem]], [[abzüglich]], [[verwundern]], [[verzichten]]

@@ -31,4 +31,4 @@ Einzigartige mögliche Formen:
 [[gesamterer]], [[gesamtere]], [[gesamteres]], [[gesamteren]], [[gesamterem]], [[gesamterer]], [[gesamteren]]
 [[gesamtesten]], [[gesamtester]], [[gesamteste]], [[gesamtestes]], [[gesamtesten]], [[gesamtestem]], [[gesamtester]], [[gesamtesten]]
 , [[Gesamtschule]], [[sämtlich]], [[insgesamt]]
-, [[Worter/A/Alle]], [[Gesamtgesellschaft]]
+, [[Worter/A/Alle]], [[Gesamtgesellschaft]], [[Gesamtbewertung]]

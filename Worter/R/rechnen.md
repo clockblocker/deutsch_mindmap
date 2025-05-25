@@ -5,6 +5,8 @@ haben [[gerechnet]]
 ---
 Simon muss also damit [[rechnen]], dass Jannis seine [[Bitte]] [[ablehnen]] wird. Deshalb greift er zu einem kleinen Trick: Er [[schmiert]] seinem Chef [[Jemandem Honig um den Bart schmieren|Honig um den]] [[Bart]].
 
+Kunden, die [[bewusst]] falsch bewerten, müssen mit einer [[Strafe]] [[rechnen]]
+
 Mit seiner Kamera machte Fred Fotos für seine Freunde zu Hause. Aber dann passierte etwas, womit er nicht [[gerechnet]] hatte: Fred war gerade damit [[beschäftigt]], eine Gruppe Giraffen zu fotografieren, als er hinter sich ein [[Geräusch]] hörte. Er [[drehte]] sich langsam um und stand einem riesigen Löwen gegenüber! 
 
 Leider hatte sie nicht mit der [[Finanzkrise]] [[gerechnet]]. [[Innerhalb]] von wenigen Wochen war ihr gesamtes [[Vermögen]] auf die Hälfte [[zusammengeschrumpft]]. Laura war [[verzweifelt]]. 

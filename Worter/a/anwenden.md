@@ -3,9 +3,11 @@
 🔧 [[anwenden]], [ˈanˌvɛndən] | [[wandte an]], haben [[angewandt]]
 
 ---
-Und ich habe sie [[angefleht]], ein bisschen Magie auf mich [[anzuwenden]], damit ich auch [[hübsch]] wäre, selbst wenn ich nicht zaubern konnte, so könnte ich wenigstens hübsch sein.“
+*[[C1-Hoehen-T4-100-Text#^25|^]]* Wenn [[Unternehmen]] [[Preisnachlässe]] geben, müssen sie den niedrigsten Preis, den sie in einem [[Zeitraum]] von [[mindestens]] 30 Tagen vor dem [[Preisnachlass]] [[angewendet]] haben, [[angeben]] und so [[nachweisen]], dass es sich um eine echte [[Preissenkung]] handelt
 
-*[[C1-Hoehen-T2-201-Text#^51|^]]* Man sollte mit den Schülerinnen und Schülern raus aus dem Schulgexfbäude gehen und den Satz des Thales oder Pythagoras [[anwenden]], indem sie beispielsweise die Höhe eines Turmes oder Baumes [[bestimmen]] sollen
+*[[C1-Hoehen-T2-201-Text#^51|^]]* Man sollte mit den Schülerinnen und Schülern raus aus dem [[Schulgebäude]] gehen und den Satz des Thales oder Pythagoras [[anwenden]], indem sie beispielsweise die Höhe eines Turmes oder Baumes [[bestimmen]] sollen
+
+Und ich habe sie [[angefleht]], ein bisschen Magie auf mich [[anzuwenden]], damit ich auch [[hübsch]] wäre, selbst wenn ich nicht zaubern konnte, so könnte ich wenigstens hübsch sein.“
 
 [[1 Wer bin ich und was mache ich hier?#^2|^]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]
 
@@ -34,4 +36,4 @@ PI: [[anwendend]], PII: [[angewandt]], Zu+inf: [[anzuwenden]]
 
 ---
 [[Anwendung]], [[Anwender]], [[anwendbar]], [[Anwendbarkeit]], [[anwendungsorientiert]]
-, [[handhaben]], [[Verabreichen]], [[heranziehen]]
+, [[handhaben]], [[Verabreichen]], [[heranziehen]], [[weiterverwenden]]

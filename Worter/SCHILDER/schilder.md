@@ -1,1 +1,1 @@
-, [[schildern]]
+, [[schildern]], [[Schilderung]]

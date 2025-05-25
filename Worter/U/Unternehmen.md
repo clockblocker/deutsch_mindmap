@@ -4,6 +4,9 @@ die [[Unternehmen]]
 ---
 *[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnungen]]
 
+*[[C1-Hoehen-T4-100-Text#^25|^]]* Wenn [[Unternehmen]] [[Preisnachlässe]] geben, müssen sie den niedrigsten Preis, den sie in einem [[Zeitraum]] von mindestens 30 Tagen vor dem [[Preisnachlass]] [[angewendet]] haben, [[angeben]] und so [[nachweisen]], dass es sich um eine echte [[Preissenkung]] handelt. ^25
+
+
 „Nun hat man zum Beispiel in Finnland einen [[Versuch]] [[unternommen]], ein [[bedingungslos]]es [[Grundeinkommen]] einzuführen„
 
 Was bedeutet die [[Abkürzung]] EU? (97%)
@@ -78,4 +81,4 @@ sie, [[unternehmen]], [[unternahmen]], [[unternehmen]], [[unternähmen]], [[unte
 Adjektive: [[unternehmend]], [[unternehmender]], [[unternehmendst]]
 
 ---
-[[unternehmender]], [[unternehmendes]], [[unternehmende]], [[unternehmenden]], [[unternehmendem]], [[unternehmenderer]], [[unternehmenderes]], [[unternehmendere]], [[unternehmenderen]], [[unternehmenderem]], [[unternehmendster]], [[unternehmendstes]], [[unternehmendste]], [[unternehmendsten]], [[unternehmendstem]], [[Geschäft]], [[Großkonzern]]
+[[unternehmender]], [[unternehmendes]], [[unternehmende]], [[unternehmenden]], [[unternehmendem]], [[unternehmenderer]], [[unternehmenderes]], [[unternehmendere]], [[unternehmenderen]], [[unternehmenderem]], [[unternehmendster]], [[unternehmendstes]], [[unternehmendste]], [[unternehmendsten]], [[unternehmendstem]], [[Geschäft]], [[Großkonzern]], [[Privatperson]]

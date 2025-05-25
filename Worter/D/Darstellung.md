@@ -27,4 +27,4 @@ A: die [[Darstellung]], die [[Darstellungen]]
 G: der [[Darstellung]], der [[Darstellungen]]
 D: der [[Darstellung]], den [[Darstellungen]]
 
-#Feminin 
+#Feminin , [[Schilderung]]

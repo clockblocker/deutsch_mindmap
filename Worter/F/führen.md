@@ -5,6 +5,8 @@
 ---
 Oder denken Sie an die [[Gespräche]], die Sie jeden Tag mit Kollegen oder Freunden [[führen]]. 
 
+*[[C1-Hoehen-T1-301-Text#^4|^]]* Aus vielen [[Beiträgen]] wie auch aus den Kommentaren und Beschreibungen der durch die Reportage [[führenden]] Klimaaktivistin und Meeresbiologin ergibt sich eine [[bedrohte]], fragile Welt
+
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
 
 
@@ -46,4 +48,4 @@ Partizip I: [[führend]], Partizip II: [[geführt]]
 
 [[fahren]], [[steuere]]
 , [[Schwierigkeit]], [[regieren]], [[verwalten]], [[vorsitzen]], [[Staatsoberhaupt]], [[Stadtoberhaupt]]
-, [[vorangehen]], [[Führungskraft]], [[tragen]], [[durchführen]], [[mangeln]], [[chronisch]], [[Geschäftsführung]], [[dirigieren]], [[entführen]], [[weiterführen]], [[Führungsstil]], [[Führungspersönlichkeit]], [[zurückführen]]
+, [[vorangehen]], [[Führungskraft]], [[tragen]], [[durchführen]], [[mangeln]], [[chronisch]], [[Geschäftsführung]], [[dirigieren]], [[entführen]], [[weiterführen]], [[Führungsstil]], [[Führungspersönlichkeit]], [[zurückführen]], [[mitnehmen]]

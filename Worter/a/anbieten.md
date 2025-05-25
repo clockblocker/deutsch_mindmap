@@ -6,6 +6,9 @@
 ---
 Die Firma [[anbieten|bietet]] mir einen Job [[an]].
 
+*[[C1-Hoehen-T4-100-Text#^4|^]]* Internetplattformen müssen [[zusätzlich]] [[Zuverlässig]]e Daten über die [[anbietend]]en [[Unternehmen]] ^4
+
+
 *[[C1-Hoehen-T1-100-Loesung#^2|^]]* Werden mehr Wohnungen [[nachgefragt]] als [[angeboten]], erhöht sich der Preis, also die Miete. ^2
 
 

@@ -2,7 +2,9 @@
 ⚠️ [[warnen]], [ˈvaʁnən](https://youglish.com/pronounce/warnen/german) → [[warnte]] → [[gewarnt]]
 
 ---
-4 Vor der [[Verharmlosung]] des [[Klimawandels]] wird [[gewarnt]].
+4 Vor der [[Verharmlosung]] des [[Klimawandel]]s wird [[gewarnt]].
+
+*[[C1-Hoehen-T1-301-Text#^9|^]]* Wer aber jetzt [[Anekdotisch]]es über die britischen Inseln und die [[alltäglich]]en [[Beschwernis]]se einer [[Fußwanderung]] erwartet, sei [[gewarnt]]
 
 
 ---

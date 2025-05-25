@@ -1,1 +1,1 @@
-, [[Schuldner]]
+, [[Schuldner]], [[verpflichten]]

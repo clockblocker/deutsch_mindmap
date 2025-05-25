@@ -3,8 +3,9 @@
 😠 [[bedrohen]], [bəˈdʁoːən](https://youglish.com/pronounce/bedrohen/german) → [[bedrohte]] → haben [[bedroht]]
 
 ---
-*[[C1-Lesen-T4-101-Text#^22|^]]* Sie können auch [[gefährliche]] Aufgaben übernehmen, wie beispielsweise die Untersuchung von Asteroiden, die unsere Erde [[bedrohen]]. ^22
+*[[C1-Lesen-T4-101-Text#^22|^]]* Sie können auch [[gefährliche]] Aufgaben übernehmen, wie beispielsweise die Untersuchung von Asteroiden, die unsere Erde [[bedrohen]]
 
+*[[C1-Hoehen-T1-301-Text#^4|^]]* Aus vielen [[Beiträgen]] wie auch aus den Kommentaren und Beschreibungen der durch die Reportage [[führenden]] Klimaaktivistin und Meeresbiologin ergibt sich eine [[bedrohte]], fragile Welt
 
 ---
 = [[drohen]], [[gefährden]], [[bedrängen]]

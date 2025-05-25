@@ -1,1 +1,1 @@
-, [[abbestellen]], [[erlassen]], [[absagen]], [[anweisen]]
+, [[abbestellen]], [[erlassen]], [[absagen]], [[anweisen]], [[Widerruf]]

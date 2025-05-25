@@ -1,1 +1,1 @@
-, [[Künstler]], [[malen]], [[Künstlerin]], [[Zeichner]]
+, [[Künstler]], [[malen]], [[Künstlerin]], [[Zeichner]], [[Gauguin]]

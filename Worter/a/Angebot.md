@@ -4,7 +4,7 @@
 die [[Angebote]]
 
 ---
-ANNA: Okay – hier: Job-[[Angebote]] …
+*[[C1-Hoehen-T4-100-Text#^22|^]]* Sie müssen `gegenüber` dem [[Konsument]]en [[offenlegen]], ob der [[Anbieter]] ein [[Händler]] ist oder ob es sich um ein [[Angebot]] von einer [[Privatperson]] [[handelt]]
 
 *[[C1-Hoehen-T1-100-Loesung#^1|^]]* Den [[Zusammenhang]] zwischen [[Wohnungsknappheit]] und den [[Marktgesetz]]en erläutert die Autorin durch das [[Zusammenspiel]] von [[Angebot]] und [[Nachfrage]].
 

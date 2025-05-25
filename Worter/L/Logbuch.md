@@ -1,1 +1,1 @@
-, [[Tagebuch]]
+, [[Tagebuch]], [[Reisetagebuch]]

@@ -1,10 +1,11 @@
 👋 [[verabschieden]], [fɛɐ̯ˈʔapʃiːdn̩] | [[verabschiedete]], haben [[verabschiedet]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^8|^]] Vor einem Jahr [[verabschiedete]] die deutsche Regierung ein Gesetz über die Einbürgerung nach drei Jahren mit der Möglichkeit der doppelten Staatsbürgerschaft. ^8
+*[[1 Wer bin ich und was mache ich hier?#^8|^]]* Vor einem Jahr [[verabschiedete]] die deutsche Regierung ein [[Gesetz]] über die Einbürgerung nach drei Jahren mit der Möglichkeit der doppelten Staatsbürgerschaft
 
+*[[C1-Hoehen-T4-100-Text#^10|^]]* Damit [[Richtlinie]]n [[Verbindlichkeit]] [[erhalten]], müssen sie von den Mitgliedsländern als [[Gesetz]] [[verabschiedet]] werden
 
-*[[Atom#^22|^]]* Andere europäische Länder haben sich längst [[verabschiedet]]: Deutschland, Spanien. ^22
+*[[Atom#^22|^]]* Andere europäische Länder haben sich längst [[verabschiedet]]: Deutschland, Spanien
 
 ---
 = [[verlassen]], [[gehen]], [[sich trennen]], [[Abschied]], [[Verabschiedung]], [[wegschicken]]

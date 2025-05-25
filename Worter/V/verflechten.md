@@ -1,1 +1,1 @@
-, [[flechten]], [[knüpfen]], [[verknüpfen]]
+, [[flechten]], [[knüpfen]], [[verknüpfen]], [[weben]]

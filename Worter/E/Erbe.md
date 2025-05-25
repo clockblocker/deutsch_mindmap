@@ -1,1 +1,1 @@
-, [[erb]], [[erben]], [[Gründer]], [[Erbträger]], [[Nachfahre]]
+, [[erb]], [[erben]], [[Gründer]], [[Erbträger]], [[Nachfahre]], [[Nachlass]]

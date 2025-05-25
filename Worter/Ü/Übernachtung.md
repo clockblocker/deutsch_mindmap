@@ -1,1 +1,1 @@
-, [[übernachten]]
+, [[übernachten]], [[Hotelaufenthalt]]

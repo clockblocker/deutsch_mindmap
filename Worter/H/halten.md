@@ -1,9 +1,10 @@
 ✋ [[halten]] sich
-[[hielt]]
-haben [[gehalten]]
 
 ---
 *[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
+
+*[[C1-Hoehen-T4-100-Text#^30|^]]* Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschrift]]en [[gehalten]] wird
+*(whether these new regulations are being [[followed]] in practice.)*
 
 *[[C1-Hoehen-T2-200-Text#^35|^]]* [[Bemerkenswert]] ist aber, dass jemand für intelligenter [[gehalten]] wird, wenn er [[lächelt]] oder andere positive [[Gefühle]] zeigt
 
@@ -36,8 +37,6 @@ Katara und Sokka [[halten]] sich an der Eisscholle fest und werden mit ihr von e
 [[abhalten]] - [[ab]] = [[halten]]                  /  to hold, to conduct, to prevent
 [[aufrechterhalten]] - [[Worter/A/auf]] - [[rechter]] = [[halten]] / to maintain, to uphold
 [[stand]] + [[halten]] = [[standhalten]] // to withstand, to resist
-
-
 
 ---
 

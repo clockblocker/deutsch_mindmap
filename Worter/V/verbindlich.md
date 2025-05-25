@@ -1,1 +1,1 @@
-, [[festlegen]], [[gültig]], [[Verpflichtung]], [[Festlegung]], [[Verbindung]]
+, [[festlegen]], [[gültig]], [[Verpflichtung]], [[Festlegung]], [[Verbindung]], [[Verbindlichkeit]]

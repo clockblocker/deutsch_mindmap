@@ -1,1 +1,1 @@
-🌱 [[werden]]  , [[wollen]], [[verwirklichen]], [[wegzüchten]], [[entgegenwirken]]
+🌱 [[werden]]  , [[wollen]], [[verwirklichen]], [[wegzüchten]], [[entgegenwirken]], [[verewigen]]

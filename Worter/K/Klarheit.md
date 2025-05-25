@@ -1,1 +1,1 @@
-, [[Erkenntnis]], [[Sichtverhältnis]], [[klar]]--> [[🗣️ Ingredient-Meinung]] <--, [[Verwechslung]], [[Irrung]], [[Wirrung]], [[klarmachen]]
+, [[Erkenntnis]], [[Sichtverhältnis]], [[klar]]--> [[🗣️ Ingredient-Meinung]] <--, [[Verwechslung]], [[Irrung]], [[Wirrung]], [[klarmachen]], [[Deutlichkeit]], [[Einfachheit]]

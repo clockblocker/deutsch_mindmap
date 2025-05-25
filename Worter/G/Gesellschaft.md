@@ -5,6 +5,10 @@ die [[Gesellschaften]]
 ---
 die Frage, was KI alles leisten kann und welchen [[Stellenwert]] sie in unserer [[Gesellschaft]] [[einnehmen]] soll, finde ich auch sehr spannend
 
+*[[C1-Hoehen-T1-301-Text#^5|^]]* Der Podcast [[zeichnet]] eine [[Gesellschaft]], deren [[Wert]] [[weit]] über den als [[Urlaubsparadies]] [[hinausgeht]]
+
+Sie hören einen kurzen Vortrag zu einem aktuellen Thema aus den [[Themenbereich]]en [[Gesellschaft]], [[Politik]] und [[Forschung]]
+
 *[[C1-Hoehen-T2-101-Text#^11|^]]* Aufgrund der [[Zunahme]] von individualistischen Strukturen sehen sich in [[derart]] [[geprägt]]en [[Gesellschaft]]en immer mehr Menschen dem Klimawandel [[machtlos]] [[gegenüberstehen]], da ihre [[Weltanschauung]] ja auch eher solche [[Denkweise]]n [[hervorruft]]
 
 *[[C1-Hoehen-T2-101-Text#^9|^]]* [[Bedienen]] wir uns doch mal den [[Erkenntnis]]sen der [[Soziologie]]: Ihr [[zufolge]] kann man [[Gesellschaft]]en in [[Individualistisch]]e und [[Kollektivistisch]]e [[einteilen]]

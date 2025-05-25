@@ -40,4 +40,4 @@ A: das [[Fach]], die [[Fächer]]
 G: des [[Fachs]], der [[Fächer]]
 D: dem [[Fach]], den [[Fächern]]
 
-#Neuter, [[Schulfach]]
+#Neuter, [[Schulfach]], [[Einfachheit]]

@@ -28,4 +28,4 @@ D: der [[Ansicht]], den [[Ansichten]]
 [[ansehen]], [[sehen]], [[anschauen]], [[betrachten]]
 
 
-#Feminin , [[Denkweise]], [[Theorie]]
+#Feminin , [[Denkweise]], [[Theorie]], [[Blickwinkel]]

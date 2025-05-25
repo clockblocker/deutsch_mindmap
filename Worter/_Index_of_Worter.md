@@ -186,7 +186,7 @@
  [[Worter/auseinanderzuhalten|auseinanderzuhalten]]
  [[Worter/ausfallen|ausfallen]]
  [[Worter/ausführen, [[erfüllen|ausführen, [[erfüllen]]
- [[Worter/Ausführlich|Ausführlich]]
+ [[ausführlich|ausführlich]]
  [[Worter/ausgeprägter|ausgeprägter]]
  [[ausgerechnet|ausgerechnet]]
  [[Worter/ausgeruht|ausgeruht]]

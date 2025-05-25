@@ -1,1 +1,1 @@
-, [[kern]], [[Hälfte]], [[Grenze]], [[Grenz]], [[Jahrhundertmitte]], [[Mittelpunkt]], [[Raummitte]]
+, [[kern]], [[Hälfte]], [[Grenze]], [[Grenz]], [[Jahrhundertmitte]], [[Mittelpunkt]], [[Raummitte]], [[Unmittelbarkeit]]

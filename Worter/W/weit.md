@@ -2,7 +2,9 @@
 nicht [[eng]]
 
 ---
-Der Junge wirft einen Speer zu Sokka, der ihn fängt und sofort einen [[weiteren]] [[Angriff]] auf Zuko startet.
+Der Junge wirft einen Speer zu Sokka, der ihn fängt und sofort einen [[weiteren]] [[Angriff]] auf Zuko startet
+
+*[[C1-Hoehen-T1-301-Text#^5|^]]* Der Podcast [[zeichnet]] eine [[Gesellschaft]], deren [[Wert]] [[weit]] über den als [[Urlaubsparadies]] [[hinausgeht]]
 
 *[[C1-Lesen-T4-101-Text#^16|^]]* Menschen sind Robotern [[weit]] [[voraus]], deshalb brauchen wir bemannte [[Flüge]]. ^16
 

@@ -5,6 +5,12 @@ haben [[erhalten]]
 ---
 Du [[erhältst]] morgen ein Geschenk.
 
+*[[C1-Hoehen-T4-100-Text#^27|^]]* Und eine neue Regelung: Hat der Verbraucher digitale [[Inhalt]]e gegen [[Abgabe]] seiner persönlichen Daten [[erhalten]], darf der Anbieter bei einem [[Widerruf]] des [[Konsument]]en diese persönlichen Daten nicht [[weiterverwenden]]
+
+*[[C1-Hoehen-T4-100-Text#^10|^]]* Damit [[Richtlinie]]n [[Verbindlichkeit]] [[erhalten]], müssen sie von den Mitgliedsländern als [[Gesetz]] [[verabschiedet]] werden
+
+Wie kann man aktuell weitere Informationen zum Thema [[erhalten]]?
+
 *[[C1-Hoehen-T1-100-Text#^24|^]]* [[Erdarbeiten]]: [[freiSchaltet|Schaltet]] [[angrenzende]] Felder des [[Ziel]]s [[frei]]. Du [[erhältst]] bis zu 3 Kopien seiner Karte
 
 *[[C1-Lesen-T2-101-Text#^7|^]]* In den Knochen eines Toten – genannt Individuum A – fanden Scorrano und Kolleginnen und Kollegen gut [[erhaltene]] DNA. ^7

@@ -3,6 +3,8 @@
 ---
 Du musst den [[Wert]] des Geldes kennen.
 
+*[[C1-Hoehen-T1-301-Text#^5|^]]* Der Podcast [[zeichnet]] eine [[Gesellschaft]], deren [[Wert]] [[weit]] über den als [[Urlaubsparadies]] [[hinausgeht]]
+
 *[[C1-Hoehen-T1-202-Text#^8|^]]* Also, ich habe durch diese Sendung wieder gelernt, die Arbeit, die in Produkten [[steckt]], [[wert]] zu [[schätzen]]
 
 1 Die [[Sendung]] [[hinweist|weist]] auf [[ideell]]e [[Wert]]e hin.  
@@ -47,4 +49,4 @@ D: dem [[Wert]], den [[Werten]]
 , [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]], [[Betrag]]
 
 
-#Maskulin , [[Stellenwert]], [[Selbstwert]], [[wertschätzen]], [[Kurs]], [[wertlos]], [[Verwertung]], [[bemerkenswert]], [[Geldwert]], [[Geldwert]], [[lohnenswert]], [[preiswert]], [[Lesenswert]], [[Cholesterinwert]], [[lebenswert]], [[Auswertung]], [[dankenswerterweise]], [[Wertanlage]], [[erwähnenswert]]
+#Maskulin , [[Stellenwert]], [[Selbstwert]], [[wertschätzen]], [[Kurs]], [[wertlos]], [[Verwertung]], [[bemerkenswert]], [[Geldwert]], [[Geldwert]], [[lohnenswert]], [[preiswert]], [[Lesenswert]], [[Cholesterinwert]], [[lebenswert]], [[Auswertung]], [[dankenswerterweise]], [[Wertanlage]], [[erwähnenswert]], [[Bewertung]]

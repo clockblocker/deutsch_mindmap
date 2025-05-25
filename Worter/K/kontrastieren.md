@@ -1,1 +1,1 @@
-, [[vergleichen]]
+, [[vergleichen]], [[gegenüberstellen]]

@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-201-Text#^32|^]]* Viele [[Studierende]] auf [[Lehramt]] haben in ihrer Schulzeit schon selbst [[erlebt]], dass der Mathematikunterricht allem abstrakt [[durchgeführt]] wurde und sind damit gut [[zurechtgekommen]]
 
+*[[C1-Hoehen-T4-100-Text#^19|^]]* Nach den neuen Regelungen müssen Online-Händler jetzt [[überprüfen]], wie Bewertungen [[durchgeführt]] werden, wer [[bewerten]] darf, wie [[Gesamtbewertung]]en [[ermittelt]] werden
+
 *[[C1-Hoehen-T1-102-Text#^9|^]]* In "Wirtschaftsethik leicht gemacht" vergleicht der [[künftig]]e [[Wirtschaftswissenschaftler]] [[verschieden]]e [[Universität]]en, an denen er [[bspw.]] [[Zufriedenheitsumfrage]]n mit den [[Studierend]]en [[durchgeführt]] hat und [[aussprechen|spricht]] auf dieser Basis auch Studien- und [[Universitätsempfehlung]]en aus
 
 *[[C1-Hoehen-T1-101-Text#^3|^]]* Dabei werden elektrische [[Widerstandsmessung]]en an den [[Meridianpunkt]]en [[durchgeführt]]

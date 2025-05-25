@@ -49,4 +49,4 @@ sie, [[senken]], [[senkten]], [[senken]], [[senkten]], [[senken]]
 Adjektive: [[senkend]], [[senkender]], [[senkendst]]
 
 ---
-[[senkender]], [[senkendes]], [[senkende]], [[senkenden]], [[senkendem]], [[senkenderer]], [[senkenderes]], [[senkendere]], [[senkenderen]], [[senkenderem]], [[senkendster]], [[senkendstes]], [[senkendste]], [[senkendsten]], [[senkendstem]], [[verbilligen]], [[verschlechtern]], [[hochtreiben]]
+[[senkender]], [[senkendes]], [[senkende]], [[senkenden]], [[senkendem]], [[senkenderer]], [[senkenderes]], [[senkendere]], [[senkenderen]], [[senkenderem]], [[senkendster]], [[senkendstes]], [[senkendste]], [[senkendsten]], [[senkendstem]], [[verbilligen]], [[verschlechtern]], [[hochtreiben]], [[rabattieren]], [[Preissenkung]]

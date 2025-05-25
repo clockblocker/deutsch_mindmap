@@ -48,4 +48,4 @@ Zu+infinifive: [[auszudrücken]]
 [[Ausdruck]], [[Ausdruckskraft]], [[Ausdrucksweise]], [[Ausdruckslos]], [[Ausdrucksform]][[ausdrücken]]
 
 [[bedeuten]], [[wringen]], [[auswringen]]
-, [[zutreffen]], [[ausdrücklich]], [[auslegen]], [[verkörpern]]
+, [[zutreffen]], [[ausdrücklich]], [[auslegen]], [[verkörpern]], [[Textstelle]]

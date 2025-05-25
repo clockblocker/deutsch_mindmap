@@ -1,1 +1,1 @@
-, [[Ausführlich]]
+, [[ausführlich]]

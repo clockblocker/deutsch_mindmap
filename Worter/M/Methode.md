@@ -26,4 +26,4 @@ A: die [[Methode]], die [[Methoden]]
 G: der [[Methode]], der [[Methoden]]
 D: der [[Methode]], den [[Methoden]]
 
-#Feminin , [[Funktionsweise]], [[Königsweg]], [[Behandlungsform]]
+#Feminin , [[Funktionsweise]], [[Königsweg]], [[Behandlungsform]], [[Bewertungssystem]]

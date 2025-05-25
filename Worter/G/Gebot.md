@@ -1,1 +1,1 @@
-, [[Notwendigkeit]], [[Zwang]], [[Auflage]]
+, [[Notwendigkeit]], [[Zwang]], [[Auflage]], [[Vorschrift]]

@@ -12,10 +12,8 @@
 - [x] [[C1-Hoehen-T1-203-Text|203]] Frauen und Sport
 
 *300 - 2023 Prüfungs Express*
-- [ ] [[C1-Hoehen-T1-300-Text|300]]
 - [ ] [[C1-Hoehen-T1-301-Text|301]]
 - [ ] [[C1-Hoehen-T1-302-Text|302]]
-- [ ] [[C1-Hoehen-T1-303-Text|303]]
 
 *400 - Project Neue*
 - [ ] [[C1-Hoehen-T1-400-Text|400]]

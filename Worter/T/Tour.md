@@ -1,1 +1,1 @@
-, [[Reise]]
+, [[Reise]], [[Fußwanderung]]

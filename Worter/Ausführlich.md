@@ -5,10 +5,11 @@
 nicht [[kurz]]
 
 ---
-*[[C1-Hoehen-T1-100-Text#^3|^]]* Es [[beschreibt]] [[ausführlich]], wie sich in den letzten Jahrzehnten die [[Bevölkerungsstruktur]] in diesem [[Stadtteil]] [[geändert]] hat. ^3
+*[[C1-Hoehen-T1-100-Text#^3|^]]* Es [[beschreibt]] [[ausführlich]], wie sich in den letzten Jahrzehnten die [[Bevölkerungsstruktur]] in diesem [[Stadtteil]] [[geändert]] hat
 
+*[[C1-Hoehen-T4-100-Text#^29|^]]* Meine Damen und Herren, ich konnte jetzt `nur` `in` [[Grundzügen]] die neuen Regelungen vorstellen, für [[ausführlichere]] Informationen [[verweise]] ich auf meinen YouTube-Kanal
 
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], [[detailliert]], [[sachlich]]
 
 ---
 Synonyme: [[detailliert]], [[genau]], [[umfangreich]], [[gründlich]], [[präzise]]

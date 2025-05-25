@@ -4,8 +4,10 @@
 die [[Branchen]]
 
 ---
-- *der IT-*[[Branche]], [[Werbung]], [[Buchhaltung]] und [[Verwaltung]] *geeignet ist*
 
+*[[C1-Hoehen-T4-100-Text#^26|^]]* Für einige [[Branche]]n gibt es hier [[Ausnahmeregelung]]en
+
+*der IT-*[[Branche]], [[Werbung]], [[Buchhaltung]] und [[Verwaltung]] *[[geeignet]] ist*
 
 Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können. „Stopp!“, ruft Jannis. „Du bekommst ja dein Budget. Und jetzt [[aufhören|hör]] auf, mir Honig um den Bart zu schmieren. Natürlich sehe ich die [[Vorteile]] selbst. Ich arbeite ja schon lange in dieser [[Branche]].“ 
 

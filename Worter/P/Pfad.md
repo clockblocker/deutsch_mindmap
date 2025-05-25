@@ -1,1 +1,1 @@
-, [[Straße]], [[Weg]], [[Strecke]]
+, [[Straße]], [[Weg]], [[Strecke]], [[Küstenwanderweg]]

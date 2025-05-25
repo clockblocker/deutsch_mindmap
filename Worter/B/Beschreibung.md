@@ -26,4 +26,4 @@ A: die [[Beschreibung]], die [[Beschreibungen]]
 G: der [[Beschreibung]], der [[Beschreibungen]]
 D: der [[Beschreibung]], den [[Beschreibungen]]
 
-#Feminin 
+#Feminin , [[Umschreibung]]

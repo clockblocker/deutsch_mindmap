@@ -1,1 +1,1 @@
-, [[Trieb]], [[Stoß]], [[Anregung]], [[Anreiz]], [[Anstoß]]
+, [[Trieb]], [[Stoß]], [[Anregung]], [[Anreiz]], [[Anstoß]], [[Antrieb]]

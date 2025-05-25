@@ -26,3 +26,5 @@ N: der [[Einzelhändler]], die [[Einzelhändler]]
 A: den [[Einzelhändler]], die [[Einzelhändler]]
 G: des [[Einzelhändlers]], der [[Einzelhändler]]
 D: dem [[Einzelhändler]], den [[Einzelhändlern]]
+
+#Maskulin 

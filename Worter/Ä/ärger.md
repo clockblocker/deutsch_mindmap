@@ -1,3 +1,3 @@
 [[arg]]
 , [[ärgern]], [[aufgebracht]]
-, [[Wutanfall]], [[Beschwerde]], [[Unmut]], [[Verdrossenheit]]
+, [[Wutanfall]], [[Beschwerde]], [[Unmut]], [[Verdrossenheit]], [[Beschwernis]]

@@ -3,14 +3,9 @@
 ---
 Bitte [[abgeben|geben]] Sie Ihr Blatt am Ende der Stunde ab.
 
+*[[C1-Hoehen-T4-100-Text#^21|^]]* Auch [[Gutscheine]] oder andere [[Nachlässe]] für [[abgegebene]] positive [[Bewertung]]en sind [[unzulässig]]
 
-301. Was ist bei Bundestags- und [[Landtagswahlen]] in Deutschland [[erlaubt]]? (94%)
-	- [x] Man kann durch [[Briefwahl]] seine [[Stimme]] [[abgeben]].
-	- [ ] Man kann am [[Wahltag]] telefonisch seine Stimme abgeben.
-
-125. In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, … (76%)
-	- [ ] die Bürger und Bürgerinnen zu [[zwingen]], ihre Stimme [[abzugeben]].
-	- [x] nach dem Willen der [[Wählermehrheit]] den Wechsel der Regierung zu [[ermöglichen]].
+*[[C1-Hoehen-T4-100-Text#^12|^]]* [[Verschiedene]] Studien über den [[Einfluss]] von Online-[[Bewertung]]en auf unser [[Kaufverhalten]] haben gezeigt, dass mehr als zwei Drittel aller [[Kaufentscheidung]]en sich von [[abgegebenen]] [[Bewertung]]en [[beeinflussen]] [[lassen]]
 
 ---
 = [[übergeben]], [[weitergeben]], [[abliefern]]

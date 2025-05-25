@@ -2,7 +2,9 @@
 die [[Stellungen]]
 
 ---
-, [[Dauerausstellung]], [[Kampfstellung]]
+*[[C1-Hoehen-T4-100-Text#^14|^]]* Auch besteht der Wunsch, dass Händler aktiver [[Stellung]] zu [[schlecht]]en [[Kundenbewertung]]en nehmen, was noch zu wenig [[geschieht]]
+
+[[Dauerausstellung]], [[Kampfstellung]]
 
 ---
 Synonyme:
@@ -24,4 +26,4 @@ Einzigartige mögliche Formen: [[Stellung]], [[Stellungen]], [[Stellungs]]
 Notes:
 - Can refer to a physical or abstract position
 - Used in various contexts like job position, military stance, or philosophical standpoint
-- Derived from the verb [[stellen]] (to place, to set), [[einstellen]], [[umstellen]], [[Aufgabenstellung]], [[Beantragung]], [[herausstellen]]
+- Derived from the verb [[stellen]] (to place, to set), [[einstellen]], [[umstellen]], [[Aufgabenstellung]], [[Beantragung]], [[herausstellen]], [[Rolle]]

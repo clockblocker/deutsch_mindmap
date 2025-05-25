@@ -33,3 +33,4 @@ G: des [[Ausdrucks]], der [[Ausdrücke]]
 D: dem [[Ausdruck]], den [[Ausdrücken]]
 
 #Maskulin 
+, [[Deutlichkeit]]

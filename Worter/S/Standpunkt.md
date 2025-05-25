@@ -29,4 +29,4 @@ A: den [[Standpunkt]], die [[Standpunkte]]
 G: des [[Standpunkts]], der [[Standpunkte]]
 D: dem [[Standpunkt]], den [[Standpunkten]]
 
-#Maskulin 
+#Maskulin , [[Blickwinkel]]

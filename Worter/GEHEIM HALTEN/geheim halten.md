@@ -1,1 +1,1 @@
-, [[preisgeben]]
+, [[preisgeben]], [[offenlegen]]

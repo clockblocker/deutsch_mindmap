@@ -6,8 +6,9 @@ nicht [[gleich]], nicht [[einheitlich]]
 ---
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
-9 Politikerinnen und Politiker aus [[verschiedenen]] Ländern [[bestreiten]], sie würden die [[Wahrheit]] [[vertuschen]].  
+*[[C1-Hoehen-T4-100-Text#^12|^]]* [[Verschiedene]] Studien über den [[Einfluss]] von Online-[[Bewertung]]en auf unser [[Kaufverhalten]] haben gezeigt, dass mehr als zwei Drittel aller [[Kaufentscheidung]]en sich von [[abgegebenen]] [[Bewertung]]en [[beeinflussen]] [[lassen]]
 
+Politikerinnen und Politiker aus [[verschiedenen]] Ländern [[bestreiten]], sie würden die [[Wahrheit]] [[vertuschen]].  
 
 *[[C1-Hoehen-T2-200-Text#^12|^]]* Wobei es uns nicht auf eine Definition von Intelligenz [[ankommt]], was sich `in` der [[Praxis]] als sehr schwierig [[gestaltet]], sondern auf die [[verschiedenen]] Arten der Intelligenz.
 

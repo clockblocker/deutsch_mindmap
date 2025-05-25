@@ -3,6 +3,8 @@
 ---
 Zu kurze [[Fristen]] für die [[Abgabe]] von Projekten
 
+*[[C1-Hoehen-T4-100-Text#^27|^]]* Und eine neue Regelung: Hat der Verbraucher digitale [[Inhalt]]e gegen [[Abgabe]] seiner persönlichen Daten [[erhalten]], darf der Anbieter bei einem [[Widerruf]] des [[Konsument]]en diese persönlichen Daten nicht [[weiterverwenden]]
+
 ---
 = [[Übergabe]], [[Abgabe]], [[Lieferung]]
 ≈ [[Beitrag]], [[Steuer]], [[Zoll]]

@@ -2,7 +2,9 @@
 die [[Erfahrung]]en
 
 ---
-*[[16 Plusquamperfekt#^24|^]]* Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht.
+*[[16 Plusquamperfekt#^24|^]]* Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht
+
+*[[C1-Hoehen-T1-301-Text#^10|^]]* Wenn man sich auf die [[wortgewaltig]]e [[Unmittelbarkeit]] der [[Erfahrung]]en, [[Empfindung]]en und [[Erlebnis]]se des Naturpilgers Wegorst [[einlässt]], geht man allerdings auf eine Reise, an deren Ende ein in unserer Zivilisation oft [[vergessener]] Respekt vor der [[rohen]] [[Gleichgültigkeit]] der Natur steht – aber auch eine neue [[Einsicht]] in die [[Einfachheit]] der essentiellen Bedürfnisse der Menschheit
 
 *[[C1-Hoehen-T2-200-Text#^49|^]]* Also kommt die [[Klugheit]] aus der [[Erfahrung]] und nicht aus der Verbesserung des Intelligenzquotienten)
 

@@ -8,7 +8,9 @@ nicht [[langsam]]
 ---
 [[Bisher]] gab es noch keinen [[Regen]], aber bestimmt [[bald]].
 
-[[16 Plusquamperfekt#^1|^]] Die junge Frau verstand nicht, was der Kritiker meinte, und sie hat seine Meinung [[bald]] vergessen.  ^1
+*[[C1-Hoehen-T4-100-Text#^30|^]]* Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschriften]] [[gehalten]] wird
+
+[[16 Plusquamperfekt#^1|^]] Die junge Frau verstand nicht, was der Kritiker meinte, und sie hat seine Meinung [[bald]] vergessen
 
 Ich werde [[bald]] als Lehrer arbeiten.
 

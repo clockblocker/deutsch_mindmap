@@ -62,4 +62,4 @@ Einzigartige mögliche Formen: [[Weisen]], [[Weisen]], [[Weisen]]
 #Substantiv #Maskulin #Plural
 
 , [[zwangsweise]], [[beziehungsweise]]
-, [[erledigen]], [[vernünftig]], [[vorweisen]], [[erweisen]], [[teilweise]], [[Zugriff]], [[stellenweise]], [[Vorgehensweise]], [[Spielweise]], [[Sprechweise]], [[Methode]], [[Funktionsweise]], [[Sichtweise]], [[Betrachtungsweise]], [[zeitweise]], [[Lebensweise]], [[Denkweise]], [[erstaunlicherweise]], [[Wirkungsweise]], [[Ernährungsweise]], [[beispielsweise]], [[dankenswerterweise]]
+, [[erledigen]], [[vernünftig]], [[vorweisen]], [[erweisen]], [[teilweise]], [[Zugriff]], [[stellenweise]], [[Vorgehensweise]], [[Spielweise]], [[Sprechweise]], [[Methode]], [[Funktionsweise]], [[Sichtweise]], [[Betrachtungsweise]], [[zeitweise]], [[Lebensweise]], [[Denkweise]], [[erstaunlicherweise]], [[Wirkungsweise]], [[Ernährungsweise]], [[beispielsweise]], [[dankenswerterweise]], [[nachweisen]], [[verweisen]]

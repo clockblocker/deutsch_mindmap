@@ -38,4 +38,4 @@ Dative: dem [[Druck]], den [[Drücken]]
 , [[zudrücken]]
 , [[Termindruck]], [[Zeitdruck]], [[Fußabdruck]], [[Arbeitsdruck]]
 
-#Maskulin , [[Überforderung]], [[Existenzdruck]], [[Ausdruck]], [[Taschenbuchausgabe]], [[Spannung]]
+#Maskulin , [[Überforderung]], [[Existenzdruck]], [[Ausdruck]], [[Taschenbuchausgabe]], [[Spannung]], [[eindrücken]]

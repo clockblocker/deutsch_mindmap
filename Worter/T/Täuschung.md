@@ -1,2 +1,2 @@
 --> 🧩 [[Grad-Wahrheit]] <--
-, [[vorzutäuschen]], [[Fehleinschätzung]], [[Verharmlosung]], [[Verwechslung]], [[Irrung]], [[Lüge]]
+, [[vorzutäuschen]], [[Fehleinschätzung]], [[Verharmlosung]], [[Verwechslung]], [[Irrung]], [[Lüge]], [[Fehlinformation]]

@@ -29,4 +29,4 @@ Adjektive: [[einmalig]], [[einmaliger]], [[einmaligst]]
 [[einmaliger]], [[einmaliges]], [[einmalige]], [[einmaligen]], [[einmaligem]], [[einmaligerer]], [[einmaligeres]], [[einmaligere]], [[einmaligeren]], [[einmaligerem]], [[einmaligster]], [[einmaligstes]], [[einmaligste]], [[einmaligsten]], [[einmaligstem]]
 
 [[besonders]], [[einmal]]
-, [[jährlich]]
+, [[jährlich]], [[einzig]]

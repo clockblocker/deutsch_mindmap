@@ -1,1 +1,1 @@
-[[genehmigen]]
+[[genehmigen]], [[unzulässig]]

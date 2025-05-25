@@ -1,2 +1,2 @@
 , [[schlichten]], [[Konflikt]], [[herausfordern]], [[umgehen]]
-, [[weichen]], [[auseinandersetzen]], [[gegenüberstehen]]
+, [[weichen]], [[auseinandersetzen]], [[gegenüberstehen]], [[gegenüberstellen]]

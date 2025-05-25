@@ -46,4 +46,4 @@ Partizip I: [[brechend]], Partizip II: [[gebrochen]]
 
 , [[unterbrechen]], [[zusammenbrechen]], [[versprechen]], [[übers Knie brechen]], [[einbrechen]], [[einhalten]]
 , [[Ausbruch]]
-, [[abbrechen]], [[Bruchteil]]
+, [[abbrechen]], [[Bruchteil]], [[Zerbrechlichkeit]]

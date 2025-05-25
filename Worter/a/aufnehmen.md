@@ -1,7 +1,14 @@
 📤 [[aufnehmen]], [ˈaʊ̯fˌneːmən] | [[nahm auf]], haben [[aufgenommen]]
 
 ---
+*[[C1-Hoehen-T4-100-Text#^11|^]]* In Deutschland wurde sie [[inzwischen]] in das Gesetz gegen [[unlauteren]] [[Wettbewerb]] [[aufgenommen]], 
+*(In Germany, it has [[now]] been [[included]] in the law against [[unfair]] [[competition]])*
+ein Gesetz für [[ehrliche]] Konkurrenz und Verbraucherschutz, etwas, was [[bisher]] in der digitalen Welt noch zu [[wenig]] [[berücksichtigt]] wird
+
+
 Für zwei Wochen [[aufnehmen|nehmen]] wir einen Schüler aus Amerika bei uns zu Hause auf.
+*For two weeks we are [[taking in]] a student from America at our home*
+
 
 ---
 = [[erheben]], [[erfassen]], [[registrieren]]

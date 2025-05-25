@@ -47,4 +47,4 @@ sie, [[meistern]], [[meisterten]], [[meistern]], [[meisterten]], [[meistern]]
 Adjektive: [[meisternd]], [[meisternder]], [[meisterndst]]
 
 ---
-[[meisternder]], [[meisterndes]], [[meisternde]], [[meisternden]], [[meisterndem]], [[meisternderer]], [[meisternderes]], [[meisterndere]], [[meisternderen]], [[meisternderem]], [[meisterndster]], [[meisterndstes]], [[meisterndste]], [[meisterndsten]], [[meisterndstem]], [[zurechtkommen]]
+[[meisternder]], [[meisterndes]], [[meisternde]], [[meisternden]], [[meisterndem]], [[meisternderer]], [[meisternderes]], [[meisterndere]], [[meisternderen]], [[meisternderem]], [[meisterndster]], [[meisterndstes]], [[meisterndste]], [[meisterndsten]], [[meisterndstem]], [[zurechtkommen]], [[Wältigen]]

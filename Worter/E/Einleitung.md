@@ -28,4 +28,4 @@ G: der [[Einleitung]], der [[Einleitungen]]
 D: der [[Einleitung]], den [[Einleitungen]]
 
 
-#Feminin , [[Schlusssatz]], [[Briefanfang]], [[Pitch]], [[Vorarbeit]]
+#Feminin , [[Schlusssatz]], [[Briefanfang]], [[Pitch]], [[Vorarbeit]], [[Einleitungssatz]]

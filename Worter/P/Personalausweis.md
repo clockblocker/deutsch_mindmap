@@ -29,3 +29,5 @@ D: dem [[Personalausweis]], den [[Personalausweisen]]
 
 ---
 [[Worter/P/Personal]], [[ausweisen]], [[identifizieren]], [[nachweisen]], [[Ausweis]]
+
+#Maskulin 

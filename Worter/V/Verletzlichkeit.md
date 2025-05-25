@@ -1,1 +1,1 @@
-, [[Schwäche]], [[Infektanfälligkeit]], [[Resilienz]]
+, [[Schwäche]], [[Infektanfälligkeit]], [[Resilienz]], [[Zerbrechlichkeit]]

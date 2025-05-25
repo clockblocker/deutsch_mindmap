@@ -6,7 +6,7 @@ die [[Ausführungen]]
 
 ---
 = [[Durchführung]], [[Umsetzung]], [[Realisierung]] | [[Version]], [[Modell]]
-≈ [[Erledigung]], [[Verwirklichung]] | [[Typ]], [[Art]], [[Ausführlich]], [[ausführen]], [[Abkürzung]], [[Vortrag]], [[Zusammenfassung]], [[Bauart]], [[Realisierung]], [[durchführen]], [[Version]], [[Ausarbeitung]], [[Präsentation]], [[Beschreibung]], [[Umsetzung]], [[Ausübung]]
+≈ [[Erledigung]], [[Verwirklichung]] | [[Typ]], [[Art]], [[ausführlich]], [[ausführen]], [[Abkürzung]], [[Vortrag]], [[Zusammenfassung]], [[Bauart]], [[Realisierung]], [[durchführen]], [[Version]], [[Ausarbeitung]], [[Präsentation]], [[Beschreibung]], [[Umsetzung]], [[Ausübung]]
 ≠ [[Unterlassung]], [[Vernachlässigung]]
 
 ---

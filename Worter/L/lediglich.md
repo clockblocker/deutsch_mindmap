@@ -21,3 +21,4 @@ dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwend
 
 ---
 [[lediglich]]
+, [[einzig]]

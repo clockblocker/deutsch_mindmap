@@ -7,7 +7,7 @@ nicht [[unbedeutend]]
 *[[001-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en. ^5
 
 
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]]. 
 
 die [[Worter/Z/zeit]] is wichtig
 

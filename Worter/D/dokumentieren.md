@@ -1,1 +1,1 @@
-, [[aufschreiben]], [[Sozialversicherungsausweis]], [[aufnehmen]], [[schreiben]], [[stätigen]], [[erfassen]], [[verzeichnen]], [[belegen]], [[ausweisen]], [[festhalten]]
+, [[aufschreiben]], [[Sozialversicherungsausweis]], [[aufnehmen]], [[schreiben]], [[stätigen]], [[erfassen]], [[verzeichnen]], [[belegen]], [[ausweisen]], [[festhalten]], [[nachweisen]], [[verewigen]]

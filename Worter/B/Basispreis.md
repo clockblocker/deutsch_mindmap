@@ -1,1 +1,1 @@
-, [[Basiswert]]
+, [[Basiswert]], [[Grundpreis]]

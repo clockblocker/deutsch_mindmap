@@ -2,7 +2,9 @@
 die [[Verbraucher]]
 
 ---
-🔵 das [[Verhalten]] | 🧑‍💼 [[verbrauchen]]
+Das [[Bewertungssystem]] soll für den [[Verbraucher]] [[transparent]] werden
+
+*[[C1-Hoehen-T4-100-Text#^7|^]]* Meine Damen und Herren, in meinem Vortrag heute zum Thema Online-[[Handel]] und [[Verbraucherschutz]] möchte ich mich mit der Frage beschäftigen, wie Verbraucherinnen und [[Verbraucher]] besser vor [[Fehlinformation]]en [[unseriöser]] [[Händler]] geschützt werden können
 
 ---
 = [[Konsument]], [[Käufer]], [[Verbraucherzentrale]], [[verbrauchen]], [[Kunde]], [[Konsument]]
@@ -28,3 +30,4 @@ G: des [[Verbrauchers]], der [[Verbraucher]]
 D: dem [[Verbraucher]], den [[Verbrauchern]]
 
 #Maskulin 
+, [[Verbraucheragenda]]

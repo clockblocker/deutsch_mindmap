@@ -1,1 +1,1 @@
-, [[Schuld]], [[haften]], [[Verantwortung]], [[Bindung]]
+, [[Schuld]], [[haften]], [[Verantwortung]], [[Bindung]], [[Gewährleistung]]

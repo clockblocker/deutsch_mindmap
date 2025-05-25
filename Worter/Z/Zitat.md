@@ -1,1 +1,1 @@
-, [[Spruch]]
+, [[Spruch]], [[Textstelle]]

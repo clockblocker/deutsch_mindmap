@@ -1,1 +1,1 @@
-, [[vergebens]], [[vorteilhaft]], [[zielgerichtet]]
+, [[vergebens]], [[vorteilhaft]], [[zielgerichtet]], [[wirksam]]

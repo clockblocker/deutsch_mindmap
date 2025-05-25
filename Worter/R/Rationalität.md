@@ -1,1 +1,1 @@
-, [[Vernunft]]
+, [[Vernunft]], [[Empfindung]]

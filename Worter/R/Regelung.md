@@ -1,8 +1,12 @@
 📜 🔴 die [[Regelung]], [ˈʁeːɡəlʊŋ](https://youglish.com/pronounce/Regelung/german)
 
 ---
-*[[08-C1-Schreiben-T2-M#^4|^]]* - Denken Sie an einen höflichen E-Mail-/[[Briefanfang]], wobei Sie [[Verständnis]] für die [[getroffene]] [[Regelung]] zeigen. ^4
-xx
+*[[08-C1-Schreiben-T2-M#^4|^]]* Denken Sie an einen höflichen E-Mail-/[[Briefanfang]], wobei Sie [[Verständnis]] für die [[getroffene]] [[Regelung]] zeigen
+
+*[[C1-Hoehen-T4-100-Text#^22|^]]* Diese [[Regelung]]en [[gelten]] auch für Plattformen und Marktplätze wie Ebay oder Amazon. ^22
+
+
+Die [[Regelung]]en zum [[Datenschutz]] werden [[erweitert]].  
 
 ---
 = [[Bestimmung]], [[Vorschrift]], [[Verordnung]]

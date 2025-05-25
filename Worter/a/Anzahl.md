@@ -1,11 +1,12 @@
 --> 🧮 [[Grad-Quantität]] <--
 
-🔵 der [[Anzahl]], [ˈantsa:l]
+🔢 die [[Anzahl]], [ˈant͡saːl](https://youglish.com/pronounce/Anzahl/german)
 die [[Anzahlen]]
 
 ---
-*[[100-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die [[geringe]] [[Anzahl]] der Arbeitsplätze in der [[Universitätsbibliothek]] einzugehen. ^1
+*[[100-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die [[geringe]] [[Anzahl]] der Arbeitsplätze in der [[Universitätsbibliothek]] einzugehen
 
+Die [[Anzahl]] an positiven [[Bewertung]]en ist nicht allein [[entscheidend]]
 
 *[[C1-Hoehen-T1-100-Text#^21|^]]* Auch wenn es kaum möglich sein wird, in bestimmten Stadtteilen eine [[Mietpreisspirale]] [[durchzusetzen]], für Städte die Möglichkeit, private [[Wohnungsbestände]] [[aufzukaufen]] und die [[Anzahl]] von Sozialwohnungen zu [[erhöhen]].
 
@@ -15,20 +16,27 @@ die [[Anzahlen]]
 Neben den Museumsbesuchen und dem [[Kauf]] von Bildern [[widerspiegelt|spiegelt]] sich das [[gewachsene]] [[Kunstinteresse]] in der [[Anzahl]] der Studierenden im [[Bereich]] der bildenden Kunst wider.
 
 ---
-Synonyme:
-- [[Menge]], [[Zahl]], [[Quantität]], [[Summe]], [[Größe]]
+= [[Menge]], [[Zahl]]
+≈ [[Anzahl]], [[Ziffer]], [[Quantität]], [[Unmenge]], [[Vielzahl]], [[Million]], [[Bestand]], [[Universitätsbibliothek]], [[Besucherzahl]], [[Mehrzahl]], [[Dutzend]], [[Menge]], [[Zahl]], [[Quantität]], [[Summe]]
+≠ [[unbekannt]]
 
 ---
-Übersetzung: number, quantity, amount
+number, quantity  
+количество
 
 ---
-Morpheme:
-[[an]][[Zahl]]
+[[Zahl]], [[anzahlen]]
 
 ---
-Einzigartige mögliche Formen: 
-[[Anzahl]], [[Anzahls]], [[Anzahlen]], [[Anzahlen]]
+[[An]]|[[zahl]]
+[[Anzahl]]
+
 
 ---
-#Substantiv #Maskulin
-, [[Unmenge]], [[Vielzahl]], [[Million]], [[Bestand]], [[Universitätsbibliothek]], [[Besucherzahl]], [[Mehrzahl]], [[Dutzend]]
+N: die [[Anzahl]], die [[Anzahlen]]
+A: die [[Anzahl]], die [[Anzahlen]]
+G: der [[Anzahl]], der [[Anzahlen]]
+D: der [[Anzahl]], den [[Anzahlen]]
+
+
+#Substantiv #Feminin 

@@ -1,1 +1,1 @@
-, [[bewältigen]]
+, [[bewältigen]], [[überwältigen]], [[Wältigen]]

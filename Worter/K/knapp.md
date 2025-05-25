@@ -32,6 +32,6 @@ P: [[knappen]], [[knapperen]], [[knappsten]]
 ---
 [[Knappheit]], [[verknappt]], [[Mangel]], [[Verknappung]]
 
-[[weit]], [[Kaum]], [[Ausführlich]]
+[[weit]], [[Kaum]], [[ausführlich]]
 , [[viel]]
 , [[lang]], [[Wohnungsknappheit]]

@@ -33,4 +33,4 @@ PI: [[erinnernd]], PII: [[erinnert]], Zu+inf: [[zu erinnern]]
 [[erinnern]] - [[er]] = [[innern]] / to remember, to recall, to remind
 
 ---
-[[Erinnerung]], [[erinnerlich]], [[Erinnerungsvermögen]], [[Erinnerungsfoto]], [[Erinnerungsstück]]
+[[Erinnerung]], [[erinnerlich]], [[Erinnerungsvermögen]], [[Erinnerungsfoto]], [[Erinnerungsstück]], [[verewigen]]

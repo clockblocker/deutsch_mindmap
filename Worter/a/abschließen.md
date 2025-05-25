@@ -13,7 +13,7 @@ Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] 
 
 1951 begann er mit einem Studium an der Dresdner Kunstakade-5 mie und [[schloss]] es mit einem Wandgemälde als Diplomarbeit [[ab]].
 
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[Ausführlich]], detailliert, [[sachlich]]. 
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]]. 
 
 
 ---

@@ -1,1 +1,1 @@
-, [[überwiegen]]
+, [[überwiegen]], [[hinausgehen]]

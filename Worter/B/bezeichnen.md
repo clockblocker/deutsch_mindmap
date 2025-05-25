@@ -3,6 +3,8 @@
 ---
 Ärzte werden auch als Doktoren [[bezeichnet]].
 
+*[[C1-Hoehen-T1-301-Text#^7|^]]* Einen ganz anderen Weg – entschuldigen Sie bitte diesen Wortwitz – geht der zweite Podcast: „Tausende Schritte“ ist ein persönliches und sehr intimes Hör-[[Reisetagebuch]] des – wie er sich selbst [[bezeichnet]] – [[Naturpilger]]s Reinmar Wegorst
+
 Die Wendung „Es hat sich [[gelohnt]]“ [[bezeichnet]] das [[erfolgreiche]] Ende einer [[Anstrengung]]. Um welchen „[[Lohn]]“ es hier ging, [[erfährt]] man nach dem [[Doppelpunkt]].
 
 *[[C1-Lesen-T2-100-Text#^15|^]]* Beispielsweise wird ein kleiner Junge als Bonsai [[bezeichnet]], [[woraus]] sich das Wort Bonsai zur [[eigenständigen]] neuen Bedeutung [[erhält]]. Sicher ist eins: An [[Phantasie]] [[fehlt]] und fehlt es den Jugendlichen nicht. ^15

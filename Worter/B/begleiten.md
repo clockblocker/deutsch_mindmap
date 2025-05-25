@@ -1,9 +1,9 @@
 👫 [[begleiten]]
-[[begleitete]]
-haben [[begleitet]]
 
 ---
-1. [[Begleitest]] du mich [[bis zu]] der Bushaltestelle? *(auf, bis zu, bei, zu)*  
+[[Begleitest]] du mich [[bis zu]] der Bushaltestelle? *(auf, bis zu, bei, zu)*  
+
+*[[C1-Hoehen-T1-301-Text#^8|^]]* Wir [[begleiten]] ihn bei seiner [[Erkundung]] des längsten [[Küstenwanderweg]]s der Welt und [[lauschen]] seinen [[eindrücken]], Kämpfen und [[Erkenntnis]]sen
 
 Zuerst schloss sie Freundschaft mit dem Hasen und [[begleitete]] ihn überall hin.
 

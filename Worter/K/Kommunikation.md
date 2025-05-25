@@ -1,6 +1,7 @@
 🗣️ 🔴 die [[Kommunikation]], [ˌkɔmuniˈkaːt͡si̯oːn](https://youglish.com/pronounce/Kommunikation/german)
 
 ---
+Sie [[fördern]] die aktive [[Kommunikation]] zwischen [[Anbieter]] und [[Konsument]].
 
 
 ---

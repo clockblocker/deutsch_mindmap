@@ -50,4 +50,4 @@ Zu+infinitive: [[zu verbinden]]
 ---
 [[Verbindung]], [[Verbinder]], [[Verbindlichkeit]], [[Verbindungsstraße]], [[Verbindungsstelle]], [[Verbindungsfehler]]
 
-, [[koppeln]], [[Nervenzellenverbindung]], [[zuordnen]]
+, [[koppeln]], [[Nervenzellenverbindung]], [[zuordnen]], [[verpflichten]]

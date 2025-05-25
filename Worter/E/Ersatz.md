@@ -27,4 +27,4 @@ G: des [[Ersatzes]], der [[Ersätze]]
 D: dem [[Ersatz]], den [[Ersätzen]]
 
 
-#Maskulin
+#Maskulin, [[Umtausch]]

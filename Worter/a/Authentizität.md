@@ -1,1 +1,1 @@
-, [[Wahrheit]]
+, [[Wahrheit]], [[Unmittelbarkeit]]

@@ -1,2 +1,2 @@
 
-, [[Rabatt]], [[Zuschlag]]
+, [[Rabatt]], [[Zuschlag]], [[Preisnachlass]], [[Nachlass]], [[Preissenkung]]

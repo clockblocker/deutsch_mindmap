@@ -1,1 +1,1 @@
-, [[Logikaufgabe]]
+, [[Logikaufgabe]], [[Bedeutungslosigkeit]]

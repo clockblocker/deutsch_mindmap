@@ -1,1 +1,1 @@
-, [[Naturschützer]]
+, [[Naturschützer]], [[Naturpilger]]

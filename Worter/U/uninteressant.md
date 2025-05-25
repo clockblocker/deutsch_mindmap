@@ -1,1 +1,1 @@
-, [[interessant]], [[langweilig]], [[spannend]], [[geistreich]]
+, [[interessant]], [[langweilig]], [[spannend]], [[geistreich]], [[Anekdotisch]]

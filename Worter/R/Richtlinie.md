@@ -2,11 +2,7 @@
 die [[Richtlinien]]
 
 ---
-121. Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen [[Mindestanteil]] an [[Wählerstimme]]n haben. Das heißt … (93%)
-	- [x] 5 %-Hürde.
-	- [ ] [[Zulassungsgrenze]].
-	- [ ] [[Basiswert]].
-	- [ ] [[Richtlinie]].
+*[[C1-Hoehen-T4-100-Text#^10|^]]* Damit [[Richtlinie]]n [[Verbindlichkeit]] [[erhalten]], müssen sie von den Mitgliedsländern als [[Gesetz]] [[verabschiedet]] werden
 
 
 ---
@@ -28,3 +24,5 @@ D: der [[Richtlinie]], den [[Richtlinien]]
 
 ---
 [[richten]], [[richtungsweisend]], [[richtlinienkonform]], [[Richtungslinie]], [[richtungsgebend]]
+
+#Feminin 

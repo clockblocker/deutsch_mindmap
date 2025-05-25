@@ -1,1 +1,1 @@
-, [[Besatz]], [[schlicht]]
+, [[Besatz]], [[schlicht]], [[Einfachheit]]

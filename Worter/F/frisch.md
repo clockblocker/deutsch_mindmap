@@ -34,4 +34,4 @@ Einzigartige mögliche Formen:
 [[frischesten]], [[frischster]], [[frischste]], [[frischstes]], [[frischsten]], [[frischstem]], [[frischster]], [[frischsten]]
 
 [[Kühl]]
-, [[heiß]], [[verbrannt]], [[uralte]], [[ausgeruht]], [[erschöpft]], [[ungewöhnlich]], [[lebendig]], [[jugendlich]]
+, [[heiß]], [[verbrannt]], [[uralte]], [[ausgeruht]], [[erschöpft]], [[ungewöhnlich]], [[lebendig]], [[jugendlich]], [[roh]]

@@ -1,1 +1,1 @@
-, [[erb]], [[erben]]
+, [[erb]], [[erben]], [[Nachlass]]

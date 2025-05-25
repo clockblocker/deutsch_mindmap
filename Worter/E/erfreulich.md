@@ -1,3 +1,3 @@
 --> [[Grad-gut]] <--
 
-, [[lebenswert]], [[übel]]
+, [[lebenswert]], [[übel]], [[beklemmend]]

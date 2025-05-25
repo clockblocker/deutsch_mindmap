@@ -2,7 +2,7 @@
 die [[Verpflichtungen]]
 
 ---
-*[[C1-Hoehen-T2-203-Text#^36|^]]* Man [[räumt]] dieser [[Tätigkeit]] immer mehr Raum in seinem Alltag ein zu [[Last]]en von anderen Aktivitäten, die man früher gern gemacht hat oder zu [[Last]]en der beruflichen [[Verpflichtung]]en.
+*[[C1-Hoehen-T2-203-Text#^36|^]]* Man [[räumt]] dieser [[Tätigkeit]] immer mehr Raum in seinem Alltag ein zu [[Last]]en von anderen Aktivitäten, die man früher gern gemacht hat oder zu [[Last]]en der beruflichen [[Verpflichtung]]en
 
 2007 wurde das 50-jährige [[Jubiläum]] der „Römischen [[Verträge]]“ [[gefeiert]]. Was war der [[Inhalt]] der Verträge? (78%)
 - [x] Gründung der Europäischen [[Wirtschaftsgemeinschaft]] (EWG)

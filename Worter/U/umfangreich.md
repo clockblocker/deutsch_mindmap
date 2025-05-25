@@ -23,7 +23,7 @@ extensive, comprehensive
 
 ---
 [[Umfang]], [[umfassen]], [[Umfangreichtum]]
-, [[breit]], [[Ausführlich]], [[gering]], [[knapp]]
+, [[breit]], [[ausführlich]], [[gering]], [[knapp]]
 
 
 ---

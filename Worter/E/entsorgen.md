@@ -1,1 +1,1 @@
-, [[wegwerfen]], [[Mülltonne]], [[lagern]], [[Kunststoffabfall]], [[Abfallentsorgung]], [[Entsorgung]]
+, [[wegwerfen]], [[Mülltonne]], [[lagern]], [[Kunststoffabfall]], [[Abfallentsorgung]], [[Entsorgung]], [[weiterverwenden]]

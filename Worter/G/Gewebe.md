@@ -1,1 +1,1 @@
-, [[Netz]], [[Stoff]], [[Leinewand]], [[Leinwand]], [[verband]]
+, [[Netz]], [[Stoff]], [[Leinewand]], [[Leinwand]], [[verband]], [[weben]]

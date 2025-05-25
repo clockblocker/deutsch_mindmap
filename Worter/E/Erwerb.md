@@ -2,21 +2,19 @@
 die [[Erwerbe]]
 
 ---
-[[arbeitslos]], [[erwerbslos]]
-, [[Verlust]], [[erwerbstätig]], [[Kauf]], [[Erwerbstätige]], [[Verkauf]], [[Erwerbstätigkeit]], [[erwerben]]
-
+Was [[gilt]] bei dem [[Erwerb]] von Software, E-Books usw.?
 
 ---
-= [[Einkommen]], [[Verdienst]], [[Gewinn]]
+= [[Einkommen]], [[Verdienst]], [[Gewinn]], [[Kauf]]
 ≈ [[Besitz]], [[Eigentum]], [[Anschaffung]]
-≠ [[Verlust]], [[Ausgabe]], [[Verzicht]]
+≠ [[Verlust]], [[Ausgabe]], [[Verzicht]], [[Verkauf]],
 
 ---
 acquisition, earning  
 приобретение, заработок
 
 ---
-[[erwerben]], [[Erwerbstätigkeit]], [[Erwerbstätige]], [[Erwerbsquelle]]
+[[erwerben]], [[Erwerbstätigkeit]], [[Erwerbstätige]], [[Erwerbsquelle]],  [[erwerbstätig]], [[erwerbslos]]
 
 ---
 [[Er]]|[[werb]]
@@ -29,4 +27,4 @@ A: den [[Erwerb]], die [[Erwerbe]]
 G: des [[Erwerbs]], der [[Erwerbe]]
 D: dem [[Erwerb]], den [[Erwerben]]
 
-#Maskulin, [[Verdienst]], [[Konsum]], [[erschwinglich]], [[Kaufentscheidung]]
+#Maskulin, [[Verdienst]], [[Konsum]], [[erschwinglich]], [[Kaufentscheidung]], [[Privatkauf]]

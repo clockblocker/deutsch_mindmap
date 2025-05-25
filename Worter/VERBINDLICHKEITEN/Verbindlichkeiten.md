@@ -1,1 +1,1 @@
-, [[Schuldenberg]]
+, [[Schuldenberg]], [[Verbindlichkeit]]

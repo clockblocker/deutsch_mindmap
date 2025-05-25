@@ -1,2 +1,2 @@
 
-, [[bedrückt]]
+, [[bedrückt]], [[beklemmend]]

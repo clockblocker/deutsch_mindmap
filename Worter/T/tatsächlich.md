@@ -5,6 +5,8 @@
 ---
 Ich habe [[tatsächlich]] den Job bekommen.
 
+*[[C1-Hoehen-T4-100-Text#^24|^]]* Bei [[Kundenbewertung]]en müssen die Plattformen [[überprüfen]], ob diese Kundinnen und Kunden [[tatsächlich]] das [[bewertete]] Produkt [[erworben]] haben
+
 *[[C1-Hoehen-T2-101-Text#^13|^]]* Klingt erst mal so, aber sie tun es [[tatsächlich]] nicht
 
 *[[C1-Hoehen-T1-201-Text#^6|^]]* Dabei werden die [[tatsächlichen]] [[Ereignisse]] jedoch so [[zurechtgebogen]], dass man [[passende]] Gesetze findet und [[erfindet]], um es am Ende zu einer [[Verurteilung]] kommen zu lassen. ^6

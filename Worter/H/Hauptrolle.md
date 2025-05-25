@@ -13,7 +13,7 @@ Synonyme:
 leading role, main role
 
 ---
-[[Haupt]][[rolle]]
+[[Haupt]][[Rolle]]
 
 ---
 Case: Singular, Plural  

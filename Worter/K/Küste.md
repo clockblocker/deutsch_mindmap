@@ -35,4 +35,4 @@ G: der [[Küste]], der [[Küsten]]
 D: der [[Küste]], den [[Küsten]]
 
 
-#Feminin 
+#Feminin , [[Küstenwanderweg]]

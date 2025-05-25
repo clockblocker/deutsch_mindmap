@@ -1,2 +1,2 @@
 , [[Wettbewerb]]
-, [[Konkurrenz]], [[Austausch]], [[Teamentwicklung]], [[Zusammenarbeit]], [[Verschmelzung]], [[Zusammenspiel]]
+, [[Konkurrenz]], [[Austausch]], [[Teamentwicklung]], [[Zusammenarbeit]], [[Verschmelzung]], [[Zusammenspiel]], [[Geschäftsbeziehung]]

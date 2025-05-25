@@ -4,8 +4,12 @@
 die [[Eindrücke]]
 
 ---
-*[[C1-Hoehen-T2-202-Text#^4|^]]* Auch die [[lebhaften]] Diskussionen über Politik in sozialen Netzwerken [[bestätigen]] diesen [[Eindruck]]
+*[[C1-Hoehen-T2-202-Text#^4|^]]* Auch die [[lebhaft]]en Diskussionen über Politik in sozialen Netzwerken [[bestätigen]] diesen [[Eindruck]]
 
+*[[C1-Hoehen-T1-301-Text#^8|^]]* Wir [[begleiten]] ihn bei seiner [[Erkundung]] des längsten [[Küstenwanderweg]]s der Welt und [[lauschen]] seinen [[eindrücken]], Kämpfen und [[Erkenntnis]]sen
+
+*[[C1-Hoehen-T1-301-Text#^6|^]]* Den stärksten [[Eindruck]] – und den stärksten [[Antrieb]] zum [[Engagement]] für diese Welt – [[hinterlassen]] aber die vielen verschiedenen [[Schilderung]]en der [[alltäglich]]en [[Schönheit]] dieser [[Atolle]] durch ihre [[Bewohner]] und Bewohnerinnen
+ 
 *[[0 checklist#^4|^]]* Um zu zeigen, dass du genau das bist, ist vor allem der erste [[Eindruck]] wichtig. ^4
 
 Leider hat sie nicht den [[Eindruck]], dass Bastian sich [[besonders]] [[anstrengt]]. [[Trotzdem]] will er [[unbedingt]] das neue Projekt [[leiten]]
@@ -31,7 +35,7 @@ Case: Singular, Plural
 Nominative: der [[Eindruck]], die [[Eindrücke]]  
 Accusative: den [[Eindruck]], die [[Eindrücke]]  
 Genitive: des [[Eindrucks]], der [[Eindrücke]]  
-Dative: dem [[Eindruck]], den [[Eindrücken]] 
+Dative: dem [[Eindruck]], den [[eindrücken]] 
 
 [[eindrucksvoll]], [[eindrucklos]], [[beeindrucken]], [[Druck]], [[anstrengen]], [[Einschätzung]]
 

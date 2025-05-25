@@ -117,4 +117,4 @@ N: das [[fehlen]], -
 A: das [[fehlen]], -
 G: des [[Fehlens]], -
 D: dem [[fehlen]], -
-#Neuter , [[abwesend]], [[Präsenz]], [[belaufen]], [[Bestand]], [[existieren]], [[ungenügen]], [[teilnehmen]], [[übrigbleiben]], [[dastehen]], [[Fehlbetrag]], [[wegbleiben]]
+#Neuter , [[abwesend]], [[Präsenz]], [[belaufen]], [[Bestand]], [[existieren]], [[ungenügen]], [[teilnehmen]], [[übrigbleiben]], [[dastehen]], [[Fehlbetrag]], [[wegbleiben]], [[Fehlinformation]]

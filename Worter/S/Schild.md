@@ -1,2 +1,2 @@
 
-, [[Schwert]], [[schildern]]
+, [[Schwert]], [[schildern]], [[Schilderung]]

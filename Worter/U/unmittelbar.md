@@ -1,2 +1,2 @@
 --> ⏱️ [[Temporal-Perspektive]] <--
-, [[gerade]], [[fern]], [[direkt]]
+, [[gerade]], [[fern]], [[direkt]], [[Unmittelbarkeit]]

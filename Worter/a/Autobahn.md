@@ -1,1 +1,1 @@
-, [[Radschnellweg]]
+, [[Radschnellweg]], [[Küstenwanderweg]]

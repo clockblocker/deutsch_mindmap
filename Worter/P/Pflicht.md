@@ -47,4 +47,4 @@ G: der [[Pflicht]], der [[Pflichten]]
 D: der [[Pflicht]], den [[Pflichten]]
 
 
-#Feminin 
+#Feminin , [[Verbindlichkeit]], [[verpflichten]]

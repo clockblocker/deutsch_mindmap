@@ -1,1 +1,1 @@
-, [[plagen]], [[Mühe]]
+, [[plagen]], [[Mühe]], [[Beschwernis]]
