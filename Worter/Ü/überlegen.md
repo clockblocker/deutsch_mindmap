@@ -6,6 +6,7 @@ haben [[überlegt]]
 Die Katze [[Worter/Ü/über]][[legte]] noch, wie sie das [[anstellen]] sollte,
 Überheblich, überlegen  
 
+*[[C1-Hoehen-T2-301-Text#^16|^]]* Dies [[aufzubrechen]] hätte [[weitreichend]]e Folgen und will sehr [[wohl]] [[überlegt]] sein
 
 Jetzt [[überlegt]] er: Soll er das Bild neben das Regal hängen oder über das Sofa? Oder an die Wand gegenüber vom Fenster? 
 

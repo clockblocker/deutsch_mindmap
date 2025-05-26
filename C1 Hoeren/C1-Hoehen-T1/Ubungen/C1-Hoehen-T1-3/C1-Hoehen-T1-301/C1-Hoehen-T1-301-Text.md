@@ -4,8 +4,8 @@
 
 ![[01_Pruef_Expr_Goethe_C1_Hoeren_1 2.mp3]]
 
-1 Der Podcast wirft einen Blick auf die europäische [[Alltagsgeschichte]] 
-- [ ] a Podcast 1  ?
+1 Der Podcast wirft einen Blick auf die europäische [[Alltagsgeschichte]]
+- [ ] a Podcast 1 
 - [ ] b Podcast 2 
 - [ ] c Podcast 3  
 
@@ -20,7 +20,7 @@
 - [ ] c Podcast 3   
 
 4 Der Podcast [[enthält]] die [[Schilderung]]en vieler Menschen
-- [x] a Podcast 1  
+- [ ] a Podcast 1  
 - [ ] b Podcast 2  
 - [ ] c Podcast 3  
 
@@ -30,7 +30,7 @@
 - [ ] c Podcast 3  
 
 6 Viele [[Blickwinkel]] auf ein [[Traumziel]] zeigen die [[Zerbrechlichkeit]] der Welt
-- [x] a Podcast 1  
+- [ ] a Podcast 1  
 - [ ] b Podcast 2  
 - [ ] c Podcast 3  
 
@@ -61,17 +61,17 @@ Liebe Hörerinnen und Hörer, willkommen zu unserer wöchentlichen Podcast-Empfe
 
 *[[C1-Hoehen-T1-301-Text#^9|^]]* Wer aber jetzt [[Anekdotisch]]es über die britischen Inseln und die alltäglichen [[Beschwernis]]se einer [[Fußwanderung]] erwartet, sei [[gewarnt]]. ^9
 
-*[[C1-Hoehen-T1-301-Text#^10|^]]* Es handelt sich bei dem Podcast vielmehr um eine [[eindrücklich]]e und [[zeitweise]] [[durchaus]] [[beklemmend]]e [[Schilderung]] der [[überwältig]]enden Macht und auch [[Schönheit]] der Natur und der Elemente. ^10
+*[[C1-Hoehen-T1-301-Text#^10|^]]* Es handelt sich bei dem Podcast vielmehr um eine [[eindrücklich]]e und [[zeitweise]] [[durchaus]] [[beklemmend]]e [[Schilderung]] der [[überwältigen]]den Macht und auch [[Schönheit]] der Natur und der Elemente. ^10
 
-*[[C1-Hoehen-T1-301-Text#^10|^]]* Wenn man sich auf die [[wortgewaltig]]e [[Unmittelbarkeit]] der [[Erfahrung]]en, [[Empfindung]]en und [[Erlebnis]]se des Naturpilgers Wegorst [[einlässt]], geht man allerdings auf eine Reise, an deren Ende ein in unserer Zivilisation oft [[vergessener]] Respekt vor der [[rohen]] [[Gleichgültigkeit]] der Natur steht – aber auch eine neue [[Einsicht]] in die [[Einfachheit]] der essentiellen Bedürfnisse der Menschheit. ^10
+*[[C1-Hoehen-T1-301-Text#^10|^]]* Wenn man sich auf die [[wortgewaltig]]e [[Unmittelbarkeit]] der [[Erfahrung]]en, [[Empfindung]]en und [[Erlebnis]]se des Naturpilgers Wegorst [[einlässt]], geht man allerdings auf eine Reise, an deren Ende ein in unserer Zivilisation oft [[vergessen]]er Respekt vor der [[rohen]] [[Gleichgültigkeit]] der Natur steht – aber auch eine neue [[Einsicht]] in die [[Einfachheit]] der essentiellen Bedürfnisse der Menschheit. ^10
 
 
 ---
 
-*[[C1-Hoehen-T1-301-Text#^11|^]]* Unsere dritte [[Empfehlung]] mit dem trockenen Titel „Nachhaltiger Tourismus“ ist ein kurzweiliger und informativer Einblick in die Geschichte des Tourismus, der als ein „nachhaltiges“ Vergnügen der Reichen begann und nach über einem Jahrhundert der Demokratisierung – und damit natürlich auch der Probleme des Massentourismus, zu dem diese Erschwinglichkeit von Urlaubsreisen führte – zu einer neuen Nachhaltigkeit finden muss. ^11
+*[[C1-Hoehen-T1-301-Text#^11|^]]* Unsere dritte [[Empfehlung]] mit dem [[trocken]]en Titel „[[Nachhaltig]]er Tourismus“ ist ein [[kurzweilig]]er und informativer [[Einblick]] in die Geschichte des Tourismus, der als ein „[[nachhaltig]]es“ [[Vergnügen]] der [[Reichen]] begann und nach über einem Jahrhundert der [[Demokratisierung]] – und damit natürlich auch der Probleme des Massentourismus, zu dem diese [[Erschwinglichkeit]] von Urlaubsreisen führte – zu einer neuen [[Nachhaltigkeit]] finden muss. ^11
 
-*[[C1-Hoehen-T1-301-Text#^12|^]]* Wir erhalten anhand der Geschichte einzelner Traumziele nicht nur einen neuen Blick auf die Geschichte des ausgehenden 19 und 20. ^13
+*[[C1-Hoehen-T1-301-Text#^12|^]]* Wir erhalten anhand der Geschichte [[einzeln]]er [[Traumziele]] nicht nur einen neuen Blick auf die Geschichte des [[ausgehenden]] 19 und 20. ^13
 
-*[[C1-Hoehen-T1-301-Text#^14|^]]* Jahrhunderts jenseits von Kriegen und großen Daten, wir erhalten auch einen entlarvenden, aber doch immer amüsanten Einblick in die europäische Verfasstheit und den immer stärker werdenden Drang zu einem gelungenen und prestigereichen Urlaub. ^14
+*[[C1-Hoehen-T1-301-Text#^14|^]]* Jahrhunderts [[jenseits]] von Kriegen und großen Daten, wir [[erhalten]] auch einen [[entlarven]]den, aber doch immer amüsanten Einblick in die europäische [[Verfasstheit]] und den immer stärker [[werdenden]] [[Drang]] zu einem [[gelungenen]] und prestigereichen Urlaub. ^14
 
 *[[C1-Hoehen-T1-301-Text#^15|^]]* Wir schicken Sie also diese Woche auf die Reise – erholen Sie sich und bis nächste Woche! ^15

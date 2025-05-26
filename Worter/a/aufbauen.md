@@ -7,6 +7,8 @@ haben [[aufgebaut]]
 ---
 SAM: Ich helfe dir beim [[aufbauen]] … Wo ist die Anleitung?  
 
+*[[C1-Hoehen-T2-301-Text#^7|^]]* Die Mütter und Väter unseres Grundgesetzes haben zu Recht [[außerordentlich]] hohe Hürden [[aufgebaut]], als es darum ging, Bürgerinnen und Bürger mit staatlichen [[Zwangsdiensten]] zu konfrontieren
+
 *[[C1-Lesen-T4-102-Text#^6|^]]* Hätte ich all diese [[Bereich]]e als [[Abteilung]]en in meinem eigenen Unternehmen [[aufgebaut]], hätte mich das viel mehr Zeit und Geld gekostet. ^6
 
 

@@ -74,4 +74,4 @@ sie, [[erfüllen]], [[erfüllten]], [[erfüllen]], [[erfüllten]], [[erfüllen]]
 Adjektive: [[erfüllend]], [[erfüllender]], [[erfüllendst]]
 
 ---
-[[erfüllender]], [[erfüllendes]], [[erfüllende]], [[erfüllenden]], [[erfüllendem]], [[erfüllenderer]], [[erfüllenderes]], [[erfüllendere]], [[erfüllenderen]], [[erfüllenderem]], [[erfüllendster]], [[erfüllendstes]], [[erfüllendste]], [[erfüllendsten]], [[erfüllendstem]], [[enttäuschen]]
+[[erfüllender]], [[erfüllendes]], [[erfüllende]], [[erfüllenden]], [[erfüllendem]], [[erfüllenderer]], [[erfüllenderes]], [[erfüllendere]], [[erfüllenderen]], [[erfüllenderem]], [[erfüllendster]], [[erfüllendstes]], [[erfüllendste]], [[erfüllendsten]], [[erfüllendstem]], [[enttäuschen]], [[Ableisten]]

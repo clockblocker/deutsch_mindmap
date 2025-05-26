@@ -2,11 +2,11 @@
 die [[Behinderungen]]
 
 ---
-[[Gleichbehandlung]]
+Viele Menschen mit [[Behinderung]] interessieren sich für ihre Arbeit und sind hochmotiviert
 
 ---
 = [[Körperbeeinträchtigung]], [[Einschränkung]], [[Handicap]]
-≈ [[Invalidität]], [[Gebrechlichkeit]], [[Beeinträchtigung]], [[Unterstützung]]
+≈ [[Invalidität]], [[Gebrechlichkeit]], [[Beeinträchtigung]], [[Unterstützung]], [[Gleichbehandlung]]
 ≠ [[Worter/G/Gesundheit]], [[Leistungsfähigkeit]], [[Vollkommenheit]]
 
 ---

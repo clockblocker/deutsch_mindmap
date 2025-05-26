@@ -1,1 +1,1 @@
-, [[langweilig]], [[Unterhaltung]], [[unterhalten]], [[amüsant]], [[Anekdotisch]]
+, [[langweilig]], [[Unterhaltung]], [[unterhalten]], [[amüsant]], [[Anekdotisch]], [[kurzweilig]]

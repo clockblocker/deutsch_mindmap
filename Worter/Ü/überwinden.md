@@ -5,6 +5,8 @@ haben [[überwunden]]
 ---
 Wenn du eine Bändigerin sein willst, musst du deine Angst [[überwinden]].
 
+Im Grundgesetz gibt es schwer zu [[überwinden]]de [[Hindernis]]se für [[obligatorisch]]e Sozialdienste
+
 Lisa [[schüttelt]] den Kopf: „Das ist doch [[Quatsch]]. Du kannst das, du musst nur endlich mal über deinen eigenen [[Schatten]] springen!“ Jonas nickt. Lisa hat recht. Er muss sich endlich einmal [[überwinden]].
 
 

@@ -5,6 +5,8 @@ die [[Gesetzgeber]]
 *[[C1-Lesen-T4-102-Text#^18|^]]* Davor müssten wir vom [[Gesetzgeber]] stärker geschützt werden. ^18
 
 
+Der [[Gesetzgeber]] möchte das Grundgesetz in [[Kürze]] ändern
+
 ---
 = [[Legislative]], [[Parlament]]
 ≈ [[Politiker]], [[Abgeordneter]], [[Regierung]], [[Gesetz]], [[Gesetzgebung]], [[gesetzgebend]]

@@ -48,4 +48,4 @@ Deklinationstabelle:
 
 
 , [[Verlangen]]
-, [[erwarten]], [[anliegen]], [[Streben]], [[wünschenswert]], [[Wille]], [[Hoffnung]]
+, [[erwarten]], [[anliegen]], [[Streben]], [[wünschenswert]], [[Wille]], [[Hoffnung]], [[Drang]]

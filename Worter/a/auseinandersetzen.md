@@ -1,7 +1,9 @@
 🤔 [[auseinandersetzen]], [aʊ̯sʔaɪ̯ˈnanɐˌzɛt͡sn̩](https://youglish.com/pronounce/auseinandersetzen/german) | [[setzte auseinander]], haben [[auseinandergesetzt]]
 
 ---
- Mit dem [[gewählten]] Thema sollen Sie sich detailliert [[auseinandersetzen]] und Ihre Argumente klar und strukturiert darlegen.
+ Mit dem [[gewählten]] Thema sollen Sie sich detailliert [[auseinandersetzen]] und Ihre Argumente klar und strukturiert darlegen
+
+*[[C1-Hoehen-T2-301-Text#^2|^]]* Heute begrüße ich in unserem Studio Frau Dr. Simone Frentzen, Sozialwissenschaftlerin, die sich seit Langem sehr intensiv mit Themen wie [[Freiwilligendienste]] junger Menschen sowie [[verpflichtende]] soziale Dienste [[auseinandersetzt]]
 
 *[[C1-Hoehen-T2-100-Text#^28|^]]* Natürlich [[erfordert]] jede [[gewonnene]] Freiheit immer auch, dass man sich aktiv mit den gewonnenen Möglichkeiten [[auseinandersetzt]]
 

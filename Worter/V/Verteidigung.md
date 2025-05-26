@@ -2,4 +2,4 @@
 
 , [[Schutz]], [[wehren]], [[Verteidigungsposition]], [[verteidigen]], [[Überfall]], [[Stadtmauer]]
 
-#Feminin 
+#Feminin , [[Landesverteidigung]]

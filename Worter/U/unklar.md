@@ -1,3 +1,3 @@
 --> 🧩 [[Grad-Wahrheit]] <--
 
-, [[offensichtlich]], [[deutlich]], [[nämlich]], [[eindeutig]], [[zweideutig]], [[klar]], [[einleuchtend]]
+, [[offensichtlich]], [[deutlich]], [[nämlich]], [[eindeutig]], [[zweideutig]], [[klar]], [[einleuchtend]], [[nachvollziehbar]]

@@ -1,1 +1,1 @@
-, [[Welle]], [[erschwinglich]]
+, [[Welle]], [[erschwinglich]], [[Erschwinglichkeit]]

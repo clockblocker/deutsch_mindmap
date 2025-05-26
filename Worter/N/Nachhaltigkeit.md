@@ -7,6 +7,8 @@
 
 *[[C1-Hoehen-T1-202-Text#^22|^]]* Interessant war für mich dabei zu [[erfahren]], dass sich schon römische Kaiser für [[Nachhaltigkeit]] [[ausgesprochen]] hatten
 
+*[[C1-Hoehen-T1-301-Text#^11|^]]* Unsere dritte [[Empfehlung]] mit dem [[trocken]]en Titel „[[Nachhaltig]]er Tourismus“ ist ein [[kurzweilig]]er und informativer [[Einblick]] in die Geschichte des Tourismus, der als ein „[[nachhaltig]]es“ [[Vergnügen]] der [[Reichen]] begann und nach über einem Jahrhundert der [[Demokratisierung]] – und damit natürlich auch der Probleme des Massentourismus, zu dem diese [[Erschwinglichkeit]] von Urlaubsreisen führte – zu einer neuen [[Nachhaltigkeit]] finden muss
+
 ---
 = [[Zukunftsfähigkeit]], [[Beständigkeit]], [[Dauerhaftigkeit]], [[Umweltbelastung]], [[nachhaltig]], [[Klimaschutz]], [[Ressourcenschonung]]
 ≈ [[Umweltschutz]], [[Ressourcenschonung]], [[Ökologie]]

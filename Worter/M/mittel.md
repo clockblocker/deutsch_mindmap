@@ -55,4 +55,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Mittels]], [[mitteln]], [[Mittelchen]]
 
 ---
-#Substantiv #Maskulin, [[Verkehrsmittel]], [[mittlerweile]], [[Einflussnahme]], [[Mittelzuweisung]], [[Mittelpunkt]], [[vermitteln]], [[Ressource]], [[mitteleuropäisch]], [[Fördermittel]], [[Vermittlung]], [[Zahlungsmittel]], [[Nahrungsergänzungsmittel]], [[Ergänzungsmittel]]
+#Substantiv #Maskulin, [[Verkehrsmittel]], [[mittlerweile]], [[Einflussnahme]], [[Mittelzuweisung]], [[Mittelpunkt]], [[vermitteln]], [[Ressource]], [[mitteleuropäisch]], [[Fördermittel]], [[Vermittlung]], [[Zahlungsmittel]], [[Nahrungsergänzungsmittel]], [[Ergänzungsmittel]], [[mittelbar]]

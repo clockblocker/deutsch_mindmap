@@ -1,11 +1,14 @@
-, [[spucken]], [[beziehen]], [[besetzen]]
+
 🤝 [[einnehmen]], [ˈaɪ̯nˌneːmən](https://youglish.com/pronounce/einnehmen/german) → [[nahm ein]] → [[eingenommen]]
 
 ---
-die Frage, was KI alles leisten kann und welchen [[Stellenwert]] sie in unserer [[Gesellschaft]] [[einnehmen]] soll, finde ich auch sehr spannend.
+die Frage, was KI alles leisten kann und welchen [[Stellenwert]] sie in unserer [[Gesellschaft]] [[einnehmen]] soll, finde ich auch sehr spannend
+
+*[[C1-Hoehen-T2-301-Text#^3|^]]* Frau Dr. Frentzen, ich möchte mit Ihnen gleich mitten ins Thema mit der Frage [[einsteigen]] *(start)*, welche Position Sie *(in der derzeit wieder sehr kontrovers [[geführten]] Diskussion zum Thema eines verpflichtenden sozialen Jahres für unsere jungen Menschen)* [[einnehmen]]
+
 
 ---
-= [[annehmen]], [[akzeptieren]], [[beziehen]] | [[besetzen]], [[erobern]]
+= [[annehmen]], [[akzeptieren]], [[beziehen]] | [[besetzen]], [[erobern]], [[beziehen]], [[besetzen]]
 ≈ [[erhalten]], [[bekommen]] | [[erobern]], [[besetzen]]
 ≠ [[verlassen]], [[aufgeben]] | [[verlassen]], [[räumen]]
 

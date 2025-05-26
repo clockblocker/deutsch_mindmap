@@ -1,2 +1,2 @@
 , [[erst]], [[zunächst]], [[Konnektoren]], [[mittlerweile]], [[Anfang]]
-, [[allererst]], [[Konnektivpartikeln]], [[letztendlich]], [[von vornherein]]
+, [[allererst]], [[Konnektivpartikeln]], [[letztendlich]], [[von vornherein]], [[zuallererst]]

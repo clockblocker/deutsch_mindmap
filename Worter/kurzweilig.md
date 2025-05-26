@@ -1,8 +1,7 @@
 😄 [[kurzweilig]], [ˈkʊɐ̯ʦvaɪ̯lɪç](https://youglish.com/pronounce/kurzweilig/german)
 
 ---
-*[[06-C1-Schreiben-T2-M#^12|^]]* Bei meiner [[kurzweiligen]] Recherche habe ich [[herausgefunden]], dass die Firma ABC diesen [[Lieferservice]] für [[denselben]] Preis wie für unsere Kantine [[anbietet]]. ^12
-
+*[[06-C1-Schreiben-T2-M#^12|^]]* Bei meiner [[kurzweiligen]] Recherche habe ich [[herausgefunden]], dass die Firma ABC diesen [[Lieferservice]] für [[denselben]] Preis wie für unsere Kantine [[anbietet]]
 
 ---
 = [[unterhaltsam]], [[amüsant]]

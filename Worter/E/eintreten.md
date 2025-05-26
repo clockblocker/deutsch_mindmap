@@ -36,4 +36,4 @@ Zu+infinifive: [[einzutreten]]
 
 ---
 [[Eintritt]], [[Eintreten]], [[Eintrittspreis]], [[Eintrittskarte]], [[Ereigniseintritt]]
-, [[ausgehen]], [[betreten]], [[Erfolgen]], [[vertreten]], [[auftreten]], [[Einschreiten]], [[darauffolgen]]
+, [[ausgehen]], [[betreten]], [[Erfolgen]], [[vertreten]], [[auftreten]], [[Einschreiten]], [[darauffolgen]], [[einsteigen]]

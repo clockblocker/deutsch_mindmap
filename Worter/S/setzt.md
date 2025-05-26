@@ -1,1 +1,1 @@
-[[sitzen]][[setzen]], [[entsetzt]], [[auseinandersetzen]], [[umsetzen]], [[voraussetzen]], [[aufs Spiel setzen]], [[zusammensetzen]], [[durchsetzen]], [[Einsatz]], [[freisetzen]]
+[[sitzen]][[setzen]], [[entsetzt]], [[auseinandersetzen]], [[umsetzen]], [[voraussetzen]], [[aufs Spiel setzen]], [[zusammensetzen]], [[durchsetzen]], [[Einsatz]], [[freisetzen]], [[außer Kraft setzen]]

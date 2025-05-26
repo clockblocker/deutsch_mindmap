@@ -32,4 +32,4 @@ P: [[gewöhnlichen]], [[gewöhnlicheren]], [[gewöhnlichsten]]
 [[Gewohnheit]], [[gewohnt]], [[gewöhnen]], [[ungewöhnlich]], [[gewohnheitsmäßig]]
 
 [[täglich]][[normal]][[besonders]], [[erstaunlich]], [[Unglaublich]], [[durchschnittliches]], [[selten]], [[fremd]], [[seltsam]], [[häufig]], [[großartig]], [[merkwürdige]]
-, [[einmalig]], [[einzigartig]], [[banal]], [[rekordverdächtig]], [[skurril]], [[bemerkenswert]], [[gang und gäbe]], [[umgangssprachlich]], [[überdurchschnittlich]]
+, [[einmalig]], [[einzigartig]], [[banal]], [[rekordverdächtig]], [[skurril]], [[bemerkenswert]], [[gang und gäbe]], [[umgangssprachlich]], [[überdurchschnittlich]], [[außerordentlich]]

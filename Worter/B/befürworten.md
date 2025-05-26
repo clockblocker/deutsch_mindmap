@@ -6,6 +6,9 @@
 *[[Atom#^27|^]]* Damit repräsentieren sie den Trend. Laut einer repräsentativen [[Umfrage]] [[befürworten]] über 90% der Polen den Bau von Atomkraftwerken – trotz vieler offener Fragen. ^27
 
 
+*[[C1-Hoehen-T2-301-Text#^4|^]]* [[Befürworten]] Sie es?
+
+
 *[[C1-Hoehen-T2-201-Text#^17|^]]* Ich [[befürworte]] allerdings nicht, dass man Mathematik nur noch digital und mit Bildern oder Filmen lehrt
 
 27 Die [[Vertreter]] des Staates [[befürworten]] den [[übermäßigen]] [[Konsum]].

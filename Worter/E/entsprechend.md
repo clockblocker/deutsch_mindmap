@@ -6,7 +6,9 @@
 ---
 [[Entsprechend]] unserem [[Vorschlag]] 
 
-*[[C1-Lesen-T2-102-Text#^19|^]]* [[Entsprechend]] weniger Kalorien verbrennt man. ^19
+*[[C1-Lesen-T2-102-Text#^19|^]]* [[Entsprechend]] weniger Kalorien verbrennt man
+
+*[[C1-Hoehen-T2-301-Text#^11|^]]* Für ein allgemein [[verpflichtend]]es soziales Jahr müsste der [[entsprechend]]e Artikel im Grundgesetz geändert werden und dafür bedarf es bekanntlich einer Zweidrittelmehrheit des Bundestags und des Bundesrats
 
 
 *[[C1-Lesen-T4-102-Text#^20|^]]* Letzteres vor allem durch die [[Spezialisierung]] der [[Drittfirmen]], denen bestimmte [[Dienstleistung]]en [[übertragen]] wurden, da sie ja im [[Normalfall]] Expertinnen und Experten auf dem [[entsprechenden]] [[Gebiet]] sind. ^20

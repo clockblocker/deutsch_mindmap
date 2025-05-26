@@ -1,1 +1,1 @@
-, [[Diskriminierung]], [[benachteiligt]], [[benachteiligen]], [[Ungleichbehandlung]], [[Gerechtigkeit]]
+, [[Diskriminierung]], [[benachteiligt]], [[benachteiligen]], [[Ungleichbehandlung]], [[Gerechtigkeit]], [[Demokratisierung]]

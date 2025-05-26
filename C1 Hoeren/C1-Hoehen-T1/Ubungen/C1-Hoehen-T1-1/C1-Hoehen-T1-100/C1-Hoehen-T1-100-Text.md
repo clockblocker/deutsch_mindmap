@@ -65,15 +65,15 @@ c Buch 3 -
 
 ---
 
-*[[C1-Hoehen-T1-100-Text#^9|^]]* Das zweite Buch *Der Wandel der Städte* von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwach]]er [[Bevölkerungsgruppe]]n aus ihren [[Stadtteil]]en, da sie die Mieten nicht mehr [[bezahlen]] können. ^9
+*[[C1-Hoehen-T1-100-Text#^9|^]]* Das zweite [[Buch]] "Der Wandel der Städte" von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwach]]er [[Bevölkerungsgruppe]]n aus ihren [[Stadtteil]]en, da sie die Mieten nicht mehr [[bezahlen]] können. ^9
 
-*[[C1-Hoehen-T1-100-Text#^10|^]]* Die Autorin erklärt diese [[Entwicklung]] [[anfang]]s ökonomisch: Städte werden attraktiver, dadurch erhöht sich die [[Nachfrage]] nach [[Wohnraum]] bei [[gering]]em [[Angebot]], wodurch die Preise, also die Mieten, steigen. ^10
+*[[C1-Hoehen-T1-100-Text#^10|^]]* Die Autorin erklärt diese [[Entwicklung]] [[anfang]]s ökonomisch: Städte werden attraktiver, dadurch erhöht sich die [[Nachfrage]] nach [[Wohnraum]] bei [[gering]]em [[Angebot]], wodurch die Preise, also die [[Miete]]n, steigen. ^10
 
-*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es [[erneut]] zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppe]]n kommen konnte. ^11
+*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der [[Gentrifizierung]] [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in [[Stadtteil]]en neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] [[Arbeitsplatz|Arbeitsplätze]] [[entstanden]] und es [[erneut]] zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppe]]n kommen konnte. ^11
 
-*[[C1-Hoehen-T1-100-Text#^12|^]]* Nach ihrer Analyse des sich verändernden Wohnungsmarkts [[appelliert]] die Autorin an die Politik. ^12
+*[[C1-Hoehen-T1-100-Text#^12|^]]* Nach ihrer Analyse des sich verändernden [[Wohnungsmarkt]]s [[appelliert]] die Autorin an die Politik. ^12
 
-*[[C1-Hoehen-T1-100-Text#^13|^]]* Auch wenn [[Mieterhöhung]]en nicht gegen Gesetze [[verstoßen]], sei es [[Aufgabe]] der Politik, hier [[mieterunterstützend]] [[einzugreifen]]. ^13
+*[[C1-Hoehen-T1-100-Text#^13|^]]* Auch wenn [[Mieterhöhung]]en nicht gegen [[Gesetz]]e [[verstoßen]], sei es [[Aufgabe]] der Politik, hier [[mieterunterstützend]] [[einzugreifen]]. ^13
 
 
 ---
@@ -136,3 +136,7 @@ could optionally punch up the last line for tone, e.g.:
 
 
 *[[C1-Hoehen-T1-100-Text#^27|^]]* Wer sagt „Schlagt mich nicht, pinkelt lieber auf mich“, wird am Ende [[nassgemacht]] und [[verprügelt]]. ^27
+
+
+
+[[Kohlekraftwerk]]

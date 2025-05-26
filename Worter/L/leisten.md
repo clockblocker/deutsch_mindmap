@@ -7,7 +7,7 @@ Manche Leute lassen sich nicht so [[einfach]] [[überzeugen]]. Wenn man erst [[�
 
 *[[C1-Lesen-T4-101-Text#^23|^]]* Roboter können aber auch [[gezielte]] [[Vorarbeit]] [[leisten]], bevor eine bemannte Mission zum Mars oder zum Mond startet.
 
-[[0 checklist#^5|^]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]
+*[[0 checklist#^5|^]]* Die [[geeigneten]] [[Unterlage]]n präsentieren dich als Mieter, der seine [[Zahlung]]en [[pünktlich]] [[leistet]]
 
 [[2 Unter Druck nach oben#^22|^]] Welters [[schaut]] lieber darauf, ob der [[Nachwuchsmanager]] etwas Besonderes [[außerhalb]] des gewöhnlichen [[Studienganges]] [[geleistet]] hat.
 
@@ -43,4 +43,4 @@ Zu+infinitive: [[zu leisten]]
 ---
 [[Leistung]], [[Leistungsträger]], [[Leistungsfähigkeit]], [[Leistungssport]], [[Selbstleistung]]
 
-, [[vorstellen]], [[anlegen]], [[Reparationsleistung]], [[erfüllen]], [[übernehmen]], [[Dienstleistung]], [[Sozialleistung]]
+, [[vorstellen]], [[anlegen]], [[Reparationsleistung]], [[erfüllen]], [[übernehmen]], [[Dienstleistung]], [[Sozialleistung]], [[Ableisten]]

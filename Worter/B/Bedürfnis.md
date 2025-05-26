@@ -42,4 +42,4 @@ G: des [[Bedürfnisses]], der [[Bedürfnisse]]
 D: dem [[Bedürfnis]], den [[Bedürfnissen]]
 
 
-#Neuter , [[Interesse]], [[Bedürftigkeit]]
+#Neuter , [[Interesse]], [[Bedürftigkeit]], [[Drang]]

@@ -1,2 +1,6 @@
 , [[Kohlekraftwerk]]
 
+🔴 die [[Stromerzeugungsanlage]] 💡
+
+#Feminin 
+

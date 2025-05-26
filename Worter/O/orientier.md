@@ -1,1 +1,1 @@
-, [[Ergebnisorientierung]], [[bedürfnisorientiert]], [[Gewinnorientierung]]
+, [[Ergebnisorientierung]], [[bedürfnisorientiert]], [[Gewinnorientierung]], [[Orientierung]]

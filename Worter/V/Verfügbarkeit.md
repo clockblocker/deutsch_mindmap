@@ -1,2 +1,2 @@
 
-, [[verfügbar]], [[Erreichbarkeit]], [[Dauerverfügbarkeit]], [[Präsenz]]
+, [[verfügbar]], [[Erreichbarkeit]], [[Dauerverfügbarkeit]], [[Präsenz]], [[Erschwinglichkeit]]

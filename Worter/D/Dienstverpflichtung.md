@@ -1,1 +1,1 @@
-, [[Zwangsarbeit]]
+, [[Zwangsarbeit]], [[Zwangsdienst]]

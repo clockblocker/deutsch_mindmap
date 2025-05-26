@@ -33,4 +33,4 @@ G: der [[Pflege]], der [[Pflegen]]
 D: der [[Pflege]], den [[Pflegen]]
 
 
-#Feminin , [[Gesundheitswesen]]
+#Feminin , [[Gesundheitswesen]], [[Ersatzdienst]]

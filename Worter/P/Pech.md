@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Pechs]], [[Pechse]], [[Pechern]], [[Pechre]]
 
 ---
-#Substantiv #Maskulin, [[kohlpechrabenschwarzer]], [[Versehen]]
+#Substantiv #Maskulin, [[kohlpechrabenschwarzer]], [[Versehen]], [[Fehlentscheidung]]

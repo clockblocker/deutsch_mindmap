@@ -34,4 +34,4 @@ narrow, tight
 Adjektive: [[eng]], [[enger]], [[engst]]
 
 ---
-[[enger]], [[enges]], [[enge]], [[engen]], [[engem]], [[engerer]], [[engeres]], [[engere]], [[engeren]], [[engerem]], [[engster]], [[engstes]], [[engste]], [[engsten]], [[engstem]]
+[[enger]], [[enges]], [[enge]], [[engen]], [[engem]], [[engerer]], [[engeres]], [[engere]], [[engeren]], [[engerem]], [[engster]], [[engstes]], [[engste]], [[engsten]], [[engstem]], [[weitreichend]]

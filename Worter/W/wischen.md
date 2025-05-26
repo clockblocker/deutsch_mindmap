@@ -3,7 +3,14 @@
 haben [[gewischt]]
 
 ---
-Jonas [[wischt]] sich den [[Schweiß]] von der [[Stirn]]. Er [[zittert]] am ganzen Körper. Seine Schauspielkollegin Lisa kommt zu ihm. 
+Jonas [[wischt]] sich den [[Schweiß]] von der [[Stirn]]. Er [[zittert]] am ganzen Körper. Seine Schauspielkollegin Lisa kommt zu ihm
+
+*[[C1-Hoehen-T2-301-Text#^6|^]]* Es werden [[zuallererst]] juristische Hürden [[aufgezeigt]], die auch 
+nicht ohne [[Weiteres]] vom Tisch [[gewischt]] werden sollten
+*(should not be [[simply]] [[swept]] off the table)*
+
+
+
 
 ---
 [[entwischen]] - [[ent]] = [[wischen]]

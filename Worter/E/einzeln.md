@@ -5,6 +5,8 @@
 ---
 Ich spreche jedes Wort [[einzeln]]
 
+*[[C1-Hoehen-T1-301-Text#^12|^]]* Wir erhalten anhand der Geschichte [[einzeln]]er [[Traumziele]] nicht nur einen neuen Blick auf die Geschichte des [[ausgehenden]] 19 und 20
+
 *[[C1-Hoehen-T2-201-Text#^8|^]]* 14 Frau Friedrich [[plädiert]] für die individuelle [[Förderung]] [[einzelner]] Lernender innerhalb der Lerngruppe
 
 *[[C1-Lesen-T4-102-Text#^19|^]]* Outsourcing, bei dem [[entweder]] [[einzeln]]e [[Arbeitsschritte]] oder gar [[komplett]]e [[Bereich]]e und [[Abteilung]]en eines Unternehmens an eine andere Firma [[ausgelagert]] werden, hat natürlich [[Kosteneinsparung]] und [[Qualitätssteigerung]] zum Ziel, was für den heutigen globalen [[Wettbewerb]] [[unumgänglich]] ist.

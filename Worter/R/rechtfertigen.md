@@ -1,7 +1,9 @@
 ⚖️ [[rechtfertigen]], [ˈʁɛçtfɛɐ̯tɪɡn̩](https://youglish.com/pronounce/rechtfertigen/german) → [[rechtfertigte]] → haben [[gerechtfertigt]]
 
 ---
-*[[C1-Lesen-T4-101-Text#^3|^]]* Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]. ^3
+*[[C1-Lesen-T4-101-Text#^3|^]]* Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]
+
+*[[C1-Hoehen-T2-301-Text#^10|^]]* Das Grundgesetz [[rechtfertigt]] [[einzig]] die Notwendigkeit der [[Landesverteidigung]] und damit die [[Wehrpflicht]] bzw. den sozialen [[Zivildienst]]
 
 
 ---

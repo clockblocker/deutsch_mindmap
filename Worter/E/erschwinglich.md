@@ -25,4 +25,4 @@ affordable
 Adjektive: [[erschwinglich]], [[erschwinglicher]], [[erschwinglichst]]
 
 ---
-[[erschwinglicher]], [[erschwingliches]], [[erschwingliche]], [[erschwinglichen]], [[erschwinglichem]], [[erschwinglicherer]], [[erschwinglicheres]], [[erschwinglichere]], [[erschwinglicheren]], [[erschwinglicherem]], [[erschwinglichster]], [[erschwinglichstes]], [[erschwinglichste]], [[erschwinglichsten]], [[erschwinglichstem]]
+[[erschwinglicher]], [[erschwingliches]], [[erschwingliche]], [[erschwinglichen]], [[erschwinglichem]], [[erschwinglicherer]], [[erschwinglicheres]], [[erschwinglichere]], [[erschwinglicheren]], [[erschwinglicherem]], [[erschwinglichster]], [[erschwinglichstes]], [[erschwinglichste]], [[erschwinglichsten]], [[erschwinglichstem]], [[Erschwinglichkeit]]

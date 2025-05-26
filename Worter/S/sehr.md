@@ -15,4 +15,4 @@ Synonyme:
 
 ---
 #Adverb, [[bitterlich]], [[bald]], [[ziemlich]]
-, [[viel]], [[wahnsinnig]], [[weitaus]]
+, [[viel]], [[wahnsinnig]], [[weitaus]], [[außerordentlich]]

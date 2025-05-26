@@ -7,6 +7,8 @@ die [[Gründe]]
 ---
 [[Aus diesem Grund]]
 
+Dr. Frentzen sagt, dass [[verpflichtende]] soziale [[Einsätze]] [[überzeugen]]de [[Gründe]] haben müssen. 
+
 *[[07-C1-Schreiben-T2-M#^4|^]]* * Zeigen Sie Verständnis dafür, dass aus finanziellen/personellen [[Gründen]] eine [[längere]] [[Einführung]] in neue [[Softwareprogramme]] schwierig sein kann. ^4
 
 

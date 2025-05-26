@@ -7,6 +7,8 @@ die [[Herausforderung]]en
 [[1 Wer bin ich und was mache ich hier?#^12|^]] Diese Anwendung hat das Sprachenlernen für mich in ein spannendes Spiel und den politischen Druck in eine spannende [[Herausforderung]] [[verwandelt]]. ^12
 
 
+*[[C1-Hoehen-T2-301-Text#^12|^]]* Trotzdem darf es aufgrund der vielen zukünftigen [[Herausforderung]]en an unsere Gesellschaft kein [[Denkverbot]] geben
+
 Heute wird kontrovers darüber diskutiert, was die Menschen für die Klimaschutz tun könnte, um die [[Herausforderung]]en des Klimawechsels zu [[bewältigen]].
 
 13 Hansen ist der [[Auffassung]], dass [[Unabhängigkeit]] auch eine [[Herausforderung]] sein kann.  

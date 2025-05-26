@@ -1,1 +1,1 @@
-, [[Militärdienst]]
+, [[Militärdienst]], [[Wehrdienst]]

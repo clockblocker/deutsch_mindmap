@@ -30,3 +30,4 @@ Dative: der [[Diskussion]], den [[Diskussionen]]
 
 
 #Feminin
+, [[Denkverbot]]

@@ -1,1 +1,1 @@
-, [[Volkssouveränität]]
+, [[Volkssouveränität]], [[Demokratisierung]]

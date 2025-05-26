@@ -30,4 +30,4 @@ A: die [[Reichweite]], die [[Reichweiten]]
 G: der [[Reichweite]], der [[Reichweiten]]
 D: der [[Reichweite]], den [[Reichweiten]]
 
-#Feminin 
+#Feminin , [[weitreichend]]

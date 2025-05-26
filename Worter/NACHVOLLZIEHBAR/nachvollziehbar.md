@@ -3,6 +3,8 @@
 ---
 Ihr Text soll nicht nur insgesamt, sondern auch innerhalb der einzelnen [[Abschnitte]] logisch [[aufgebaut]] und für die Leserinnen und Leser gut [[nachvollziehbar]] sein.
 
+*[[C1-Hoehen-T2-301-Text#^8|^]]* Das resultiert natürlich in erster Linie aus der deutschen [[Vergangenheit]] und ist sehr gut [[nachvollziehbar]]
+
 Sie sollen auf dem Niveau C1 in der Lage sein, einen Text so zu strukturieren, dass die Argumente gut [[nachvollziehbar]] und schlüssig dargelegt werden; genau das wird in diesem Kriterium [[bewertet]].
 
 ---

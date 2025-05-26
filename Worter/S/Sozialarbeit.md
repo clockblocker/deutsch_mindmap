@@ -1,1 +1,1 @@
-, [[Sozialstunde]], [[Sozial]]
+, [[Sozialstunde]], [[Sozial]], [[Sozialdienst]], [[Ersatzdienst]]

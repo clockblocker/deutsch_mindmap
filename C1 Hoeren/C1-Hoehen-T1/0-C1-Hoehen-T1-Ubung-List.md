@@ -16,7 +16,6 @@
 - [ ] [[C1-Hoehen-T1-302-Text|302]]
 
 *400 - Project Neue*
-- [ ] [[C1-Hoehen-T1-400-Text|400]]
 - [ ] [[C1-Hoehen-T1-401-Text|401]]
 - [ ] [[C1-Hoehen-T1-402-Text|402]]
 - [ ] [[C1-Hoehen-T1-403-Text|403]]

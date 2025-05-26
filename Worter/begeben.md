@@ -33,3 +33,4 @@ PI: [[begebend]], PII: [[begeben]], Zu+inf: [[zu begeben]]
 ---
 [[Begabung]], [[Begebnis]], [[Gelegenheit]], [[beweglich]], [[Bewegung]], [[Begebenheit]]
 
+, [[einsteigen]]

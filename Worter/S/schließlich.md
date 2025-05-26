@@ -47,4 +47,4 @@ Plural: [[schließlichen]], [[schließlicheren]], [[schließlichsten]]
 
 , [[erst]], [[zuletzt]], [[allerletzten]], [[endlich]]
 , [[Konnektoren]], [[Texte/Misc/Anki]]
-, [[allererst]], [[insgesamt]], [[Konnektivpartikeln]], [[Spätestens]], [[von vornherein]]
+, [[allererst]], [[insgesamt]], [[Konnektivpartikeln]], [[Spätestens]], [[von vornherein]], [[zuallererst]]

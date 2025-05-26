@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[interessant]], [[interessanter]], [[interessante]], [[interessantes]], [[interessanten]], [[interessantem]], [[interessanter]], [[interessanten]]
 [[interessanter]], [[interessanterer]], [[interessantere]], [[interessanteres]], [[interessanteren]], [[interessanterem]], [[interessanterer]], [[interessanteren]]
-[[interessantesten]], [[interessantester]], [[interessanteste]], [[interessantestes]], [[interessantesten]], [[interessantestem]], [[interessantester]], [[interessantesten]], [[Interesse]], [[bemerkenswert]], [[Lesenswert]]
+[[interessantesten]], [[interessantester]], [[interessanteste]], [[interessantestes]], [[interessantesten]], [[interessantestem]], [[interessantester]], [[interessantesten]], [[Interesse]], [[bemerkenswert]], [[Lesenswert]], [[kurzweilig]]

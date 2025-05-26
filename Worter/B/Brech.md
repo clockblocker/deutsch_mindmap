@@ -1,3 +1,3 @@
 , [[einbrechen]], [[Einbrecher]], [[Verbrecher]]
 , [[abbrechen]]
-, [[zusammenbrechen]]
+, [[zusammenbrechen]], [[aufbrechen]]

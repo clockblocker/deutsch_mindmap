@@ -11,14 +11,14 @@
 
 ---
 <span class="block_title block_title_synonyme">Beziehungen</span>
-= [[Kraftwerk]], [[Stromerzeugungsanlage]], [[Stromerzeugungsanlage]]
+= [[Kraftwerk]], [[Stromerzeugungsanlage]]
 ≈ [[Industrieanlage]], [[Fabrik]]
 ≠ [[Windrad]], [[Solaranlage]]
 
 ---
 <span class="block_title block_title_morpheme">Morpheme</span>
-[[Kohle]]|[[kraft]]|[[werk]]|[[e]]
-[[Kohle]] + [[Kraftwerke]]
+[[Kohle]]|[[kraft]]|[[werk]]
+[[Kohle]] + [[Kraftwerk]]
 
 ---
 <span class="block_title block_title_translations">Übersetzung</span>
@@ -38,13 +38,7 @@ D: dem [[Kohlekraftwerk]], den [[Kohlekraftwerken]]
 
 ---
 <span class="block_title block_title_tags">Tags</span>
-#Tag1/subtag #Tag2/another_subtag #Tag1/subtag #Tag2/another_subtag #Tag1/subtag #Tag2/another_subtag #Ablaut #Ableitung #Abtönung
-
-#Form/Agb/fsdsd/asdasd//
+#Nomen #Neuter #Umwelt #Energie 
 
 ---
 
-
-[[Saft]]
-
-, [[Kraft]]

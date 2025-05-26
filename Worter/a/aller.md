@@ -1,3 +1,3 @@
 [[Worter/A/Alle]]
 , [[Worter/A/Alle]]
-, [[allererst]]
+, [[allererst]], [[zuallererst]]

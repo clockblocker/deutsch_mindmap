@@ -56,4 +56,4 @@ sie, [[verfassen]], [[verfassten]], [[verfassen]], [[verfassten]], [[verfassen]]
 Adjektive: [[verfassend]], [[verfassender]], [[verfassendst]]
 
 ---
-[[verfassender]], [[verfassendes]], [[verfassende]], [[verfassenden]], [[verfassendem]], [[verfassenderer]], [[verfassenderes]], [[verfassendere]], [[verfassenderen]], [[verfassenderem]], [[verfassendster]], [[verfassendstes]], [[verfassendste]], [[verfassendsten]], [[verfassendstem]], [[Verleumdung]]
+[[verfassender]], [[verfassendes]], [[verfassende]], [[verfassenden]], [[verfassendem]], [[verfassenderer]], [[verfassenderes]], [[verfassendere]], [[verfassenderen]], [[verfassenderem]], [[verfassendster]], [[verfassendstes]], [[verfassendste]], [[verfassendsten]], [[verfassendstem]], [[Verleumdung]], [[Verfasstheit]]

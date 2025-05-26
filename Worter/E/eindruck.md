@@ -6,7 +6,8 @@ die [[Eindrücke]]
 ---
 *[[C1-Hoehen-T2-202-Text#^4|^]]* Auch die [[lebhaft]]en Diskussionen über Politik in sozialen Netzwerken [[bestätigen]] diesen [[Eindruck]]
 
-*[[C1-Hoehen-T1-301-Text#^8|^]]* Wir [[begleiten]] ihn bei seiner [[Erkundung]] des längsten [[Küstenwanderweg]]s der Welt und [[lauschen]] seinen [[eindrücken]], Kämpfen und [[Erkenntnis]]sen
+*[[C1-Hoehen-T1-301-Text#^8|^]]* Wir [[begleiten]] ihn bei seiner [[Erkundung]] des längsten [[Küstenwanderweg]]s der Welt und [[lauschen]] seinen [[Eindrücken]], Kämpfen und [[Erkenntnis]]sen
+*(his [[impressions]], struggles, and [[insights]])*
 
 *[[C1-Hoehen-T1-301-Text#^6|^]]* Den stärksten [[Eindruck]] – und den stärksten [[Antrieb]] zum [[Engagement]] für diese Welt – [[hinterlassen]] aber die vielen verschiedenen [[Schilderung]]en der [[alltäglich]]en [[Schönheit]] dieser [[Atolle]] durch ihre [[Bewohner]] und Bewohnerinnen
  

@@ -1,4 +1,4 @@
 --> 🧱[[Grad-Gewicht]] <--
 
 
-, [[zugrundeliegende]]
+, [[zugrundeliegende]], [[mittelbar]]

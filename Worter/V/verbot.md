@@ -36,4 +36,4 @@ G: des [[Verbots]], der [[Verbote]]
 D: dem [[Verbot]], den [[Verboten]]
 , [[Autoverbot]], [[Zutritt]]
 
-#Neuter , [[Berechtigung]]
+#Neuter , [[Berechtigung]], [[Denkverbot]]

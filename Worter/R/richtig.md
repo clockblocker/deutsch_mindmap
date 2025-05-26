@@ -30,4 +30,4 @@ Einzigartige mögliche Formen:
 
 [[richtig]], [[wahr]], [[s1 e1]], [[Recht]], [[passend]]
 , [[verdreht]]
-, [[gut]], [[angemessen]], [[zurechtbiegen]], [[adäquat]], [[missbräuchlich]], [[ethisch]]
+, [[gut]], [[angemessen]], [[zurechtbiegen]], [[adäquat]], [[missbräuchlich]], [[ethisch]], [[zurecht]]

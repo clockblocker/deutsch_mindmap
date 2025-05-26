@@ -23,4 +23,4 @@ Genitive: der [[Weile]], der [[Weilen]]
 Dative: der [[Weile]], den [[Weilen]]  
 
 ---
-[[weilen]], [[verweilen]], [[zeitlich]], [[mittlerweile]], [[jeweilig]]
+[[weilen]], [[verweilen]], [[zeitlich]], [[mittlerweile]], [[jeweilig]], [[kurzweilig]]

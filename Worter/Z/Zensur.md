@@ -1,1 +1,1 @@
-, [[Meinungsfreiheit]], [[Pressezensur]], [[Berichterstattung]]
+, [[Meinungsfreiheit]], [[Pressezensur]], [[Berichterstattung]], [[Denkverbot]]

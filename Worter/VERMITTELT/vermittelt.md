@@ -1,1 +1,1 @@
-[[vermitteln]]
+[[vermitteln]], [[mittelbar]]

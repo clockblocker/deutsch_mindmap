@@ -1,1 +1,1 @@
-, [[Erreichbarkeit]], [[Dauerverfügbarkeit]], [[zugänglich]]
+, [[Erreichbarkeit]], [[Dauerverfügbarkeit]], [[zugänglich]], [[Erschwinglichkeit]]

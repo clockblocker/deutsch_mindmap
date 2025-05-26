@@ -30,4 +30,4 @@ P: [[ungewöhnlichen]], [[ungewöhnlicheren]], [[ungewöhnlichsten]]
 [[Gewohnheit]], [[gewöhnlich]], [[unwohnlich]], [[wohnlich]], [[wohnen]], [[banal]], [[rekordverdächtig]]
 
 
-[[gross]], [[skurril]], [[gang und gäbe]], [[überdurchschnittlich]]
+[[gross]], [[skurril]], [[gang und gäbe]], [[überdurchschnittlich]], [[außerordentlich]]

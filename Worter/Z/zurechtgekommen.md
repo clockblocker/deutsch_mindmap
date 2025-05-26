@@ -1,1 +1,1 @@
-[[zurechtkommen]]
+[[zurechtkommen]], [[zurecht]]

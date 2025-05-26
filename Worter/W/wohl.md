@@ -5,8 +5,9 @@
 nicht [[unwohl]]
 
 ---
-*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
+*[[C1-Hoehen-T2-301-Text#^16|^]]* Dies [[aufzubrechen]] hätte [[weitreichend]]e Folgen und will sehr [[wohl]] [[überlegt]] sein
 
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]* [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]
 
 She [[fühlte]] sich nicht [[wohl]]
 Herr W.:  Er hat sie [[wohl]] nicht für echt gehalten.

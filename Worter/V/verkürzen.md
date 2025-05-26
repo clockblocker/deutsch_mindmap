@@ -34,4 +34,4 @@ Morpheme: [[ver]][[kürz]][[en]]
 Partizip I: [[verkürzend]], Partizip II: [[verkürzt]]
 
 [[verkürzen]] - [[ver]] = [[kürzen]]
-, [[Abkürzung]], [[ergänzen]], [[verringern]], [[Vervollständigen]], [[vergrößern]], [[verbreitern]]
+, [[Abkürzung]], [[ergänzen]], [[verringern]], [[Vervollständigen]], [[vergrößern]], [[verbreitern]], [[Kürze]]

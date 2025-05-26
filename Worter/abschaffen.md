@@ -5,6 +5,8 @@
 ---
 Die [[Abschaffung]] der [[Abtreibung]]  
 
+Der Moderator glaubt, dass der [[Wehrdienst]] niemals hätte [[abgeschafft]] werden sollen
+
 *[[C1-Hoehen-T2-100-Text#^19|^]]* Wenn man bei [[Einführung]] des [[bedingungslos]]en [[Grundeinkommen]]s gleichzeitig [[bestehend]]e [[Ausgabe]]n für Sozialleistungen [[abschaffen]] würde, wäre die Finanzierung machbar
 
 Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
@@ -37,4 +39,4 @@ PI: [[abschaffend]], PII: [[abgeschafft]], Zu+inf: [[abzuschaffen]]
 [[abschaffen]] - [[ab]] = [[schaffen]] / to abolish, to eliminate
 
 ---
-[[Abschaffung]], [[Beseitigung]], [[Aufhebung]], [[abschaffbar]], [[unabschaffbar]], [[beibehalten]]
+[[Abschaffung]], [[Beseitigung]], [[Aufhebung]], [[abschaffbar]], [[unabschaffbar]], [[beibehalten]], [[außer Kraft setzen]]

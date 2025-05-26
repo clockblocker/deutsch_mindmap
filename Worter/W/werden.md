@@ -1,6 +1,8 @@
 🌱 [[werden]] , [[wurde]], sein [[geworden]]
 
 ---
+*[[C1-Hoehen-T1-301-Text#^14|^]]* Jahrhunderts [[jenseits]] von Kriegen und großen Daten, wir [[erhalten]] auch einen [[entlarvenden]], aber doch immer amüsanten Einblick in die europäische [[Verfasstheit]] und den immer stärker [[werdenden]] [[Drang]] zu einem [[gelungenen]] und prestigereichen Urlaub
+
 ANNA: Ich [[Würde]] dir antworten …  
 Bella und Struppi! … Aber … Wir [[dachten]], ihr [[wärt]] Tänzerinnen ...  
 NIC: Sam – hier [[werden]] wir sie finden. Girls, Girls, Girls! 

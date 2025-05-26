@@ -26,9 +26,9 @@ Morpheme: [[kürs]][[en]]
 
 | Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
 | --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[kürze]] | [[kürzte]] | - | [[kürze]] | [[kürzte]] |
-| Du | [[kürzest]] | [[kürztesst]] | [[kürze]] | [[kürzest]] | [[kürztesst]] |
-| Er/sie/es | [[kürzt]] | [[kürzte]] | - | [[kürze]] | [[kürzte]] |
+| Ich | [[Kürze]] | [[kürzte]] | - | [[Kürze]] | [[kürzte]] |
+| Du | [[kürzest]] | [[kürztesst]] | [[Kürze]] | [[kürzest]] | [[kürztesst]] |
+| Er/sie/es | [[kürzt]] | [[kürzte]] | - | [[Kürze]] | [[kürzte]] |
 | Wir | [[kürzen]] | [[kürzten]] | - | [[kürzen]] | [[kürzten]] |
 | Ihr | [[kürzt]] | [[kürztet]] | [[kürzt]] | [[kürztet]] | [[kürztet]] |
 | Sie | [[kürzen]] | [[kürzten]] | [[kürzen Sie]] | [[kürzen]] | [[kürzten]] |

@@ -2,7 +2,8 @@
 die [[Zahlungen]]
 
 ---
-[[0 checklist#^5|^]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]. ^5
+*[[0 checklist#^5|^]]* Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlung]]en [[pünktlich]] [[leistet]]
+
 
 ---
 = [[Begleichung]], [[Überweisung]], [[Entrichtung]], [[bezahlen]], 
@@ -25,3 +26,5 @@ D: der [[Zahlung]], den [[Zahlungen]]
 ---
 [[zahlen]], [[Zahler]], [[Zahlerin]], [[zahlbar]], [[zahlungspflichtig]]
 , [[Ausgabe]], [[Zahlungskräftig]], [[Einmalzahlung]], [[Geldleistung]], [[Sonderzahlung]], [[Zahlungsmittel]]
+
+#Feminin 

@@ -38,4 +38,4 @@ D: dem [[Zustand]], den [[Zuständen]]
 , [[Lage]], [[befinden]], [[Umstand]]
 , [[mangeln]]
 
-#Maskulin , [[Anfall]], [[zustehen]], [[Lebenslage]], [[hierzulande]]
+#Maskulin , [[Anfall]], [[zustehen]], [[Lebenslage]], [[hierzulande]], [[Verfasstheit]]

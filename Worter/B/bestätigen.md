@@ -31,4 +31,4 @@ PI: [[bestätigend]], PII: [[bestätigt]], Zu+inf: [[zu bestätigen]]
 
 ---
 [[Bestätigung]], [[Bestätigungsmail]], [[Bestätigungsschreiben]], [[Bestätigungsurkunde]], [[bestätigenswert]]
-</ideal_output>, [[beweisen]], [[Geschenkbestätigung]], [[versichern]], [[erweisen]], [[bewähren]], [[belegen]], [[hinterfragen]], [[verfälschen]], [[anerkennen]], [[nachweisen]]
+</ideal_output>, [[beweisen]], [[Geschenkbestätigung]], [[versichern]], [[erweisen]], [[bewähren]], [[belegen]], [[hinterfragen]], [[verfälschen]], [[anerkennen]], [[nachweisen]], [[außer Kraft setzen]], [[revidieren]]

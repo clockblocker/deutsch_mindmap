@@ -1,1 +1,1 @@
-, [[Mehrheitswahlrecht]], [[Verhältniswahlrecht]]
+, [[Mehrheitswahlrecht]], [[Verhältniswahlrecht]], [[Demokratisierung]]

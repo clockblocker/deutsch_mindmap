@@ -32,4 +32,4 @@ remarkable, noteworthy
 Adjektive: [[bemerkenswert]], [[bemerkenswerter]], [[bemerkenswertest]]
 
 ---
-[[bemerkenswerter]], [[bemerkenswertes]], [[bemerkenswerte]], [[bemerkenswerten]], [[bemerkenswertem]], [[bemerkenswerterer]], [[bemerkenswerteres]], [[bemerkenswertere]], [[bemerkenswerteren]], [[bemerkenswerterem]], [[bemerkenswertester]], [[bemerkenswertestes]], [[bemerkenswerteste]], [[bemerkenswertesten]], [[bemerkenswertestem]]
+[[bemerkenswerter]], [[bemerkenswertes]], [[bemerkenswerte]], [[bemerkenswerten]], [[bemerkenswertem]], [[bemerkenswerterer]], [[bemerkenswerteres]], [[bemerkenswertere]], [[bemerkenswerteren]], [[bemerkenswerterem]], [[bemerkenswertester]], [[bemerkenswertestes]], [[bemerkenswerteste]], [[bemerkenswertesten]], [[bemerkenswertestem]], [[außerordentlich]]

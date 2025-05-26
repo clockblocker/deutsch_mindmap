@@ -29,4 +29,4 @@ PI: [[vollziehend]], PII: [[vollzogen]], Zu+inf: [[vollzuziehen]]
 [[vollziehen]] - [[voll]] = [[ziehen]] / to carry out, to perform, to execute
 
 ---
-[[Vollzug]], [[Vollziehung]], [[vollziehbar]], [[Vollziehbarkeit]], [[Gesetzesvollzug]]
+[[Vollzug]], [[Vollziehung]], [[vollziehbar]], [[Vollziehbarkeit]], [[Gesetzesvollzug]], [[nachvollziehbar]]

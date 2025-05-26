@@ -1,10 +1,11 @@
 🔴 [[völlig]], [ˈfœlɪç], [[voll]]
 
 ---
-Du hast [[völlig]] recht.
+Du hast [[völlig]] recht
 
-* *Erklären Sie, welche Folgen das Internet als* [[völlig]] [[rechtsfreier]] *Raum haben könnte.* 
+*[[C1-Hoehen-T2-301-Text#^15|^]]* Der Schutz der Bürgerinnen und Bürger vor [[willkürlichen]] [[Eingriff]]en des Staates in seine Lebensplanung ist ein sehr hohes politisches Gut, das [[völlig]] [[zurecht]] in der [[Verfassung]] [[verankert]] ist
 
+ *Erklären Sie, welche Folgen das Internet als* [[völlig]] [[rechtsfreier]] *Raum haben könnte.* 
 
 Er sieht [[völlig]] [[erschöpft]] aus!  
 

@@ -26,3 +26,5 @@ D: der [[Miete]], den [[Mieten]]
 [[mieten]], [[Mieter]], [[Mieterin]], [[Mietvertrag]], [[Mietshaus]], [[Mietwagen]]
 , [[Miete]]
 , [[Vermieter]], [[Grundstück]], [[anmieten]], [[Warmmiete]], [[Mieterinitiative]], [[Mieterhöhung]], [[Mietrecht]], [[Wohnungsverkauf]], [[Mietpreisspirale]]
+
+#Feminin 

@@ -24,4 +24,4 @@ Accusative: den [[Wehr]], die [[Wehre]]
 Genitive: des [[Wehres]], der [[Wehre]]  
 Dative: dem [[Wehr]], den [[Wehren]] 
 
-[[wehren]], [[wehrhaft]], [[verwehren]], [[Feuerwehr]], [[Bundeswehr]], [[Stadtmauer]]
+[[wehren]], [[wehrhaft]], [[verwehren]], [[Feuerwehr]], [[Bundeswehr]], [[Stadtmauer]], [[Wehrdienst]], [[Landesverteidigung]]

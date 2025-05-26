@@ -92,4 +92,4 @@ G: des [[Rechts]], der [[Rechte]]
 D: dem [[Recht]], den [[Rechten]]
 
 
-#Neuter, [[Verbraucherschutzgesetz]]
+#Neuter, [[Verbraucherschutzgesetz]], [[zurecht]]

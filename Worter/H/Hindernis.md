@@ -4,6 +4,8 @@
 die [[Hindernisse]]
 
 ---
+Im Grundgesetz gibt es schwer zu [[überwinden]]de [[Hindernis]]se für [[obligatorisch]]e Sozialdienste
+
 Erläutern Sie [[Hindernis]]se beim [[Zugang]] zu qualitativer [[frühkindlich]]er Bildung.
 
 ---

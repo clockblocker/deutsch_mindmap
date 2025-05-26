@@ -1,9 +1,11 @@
 🏆 [[gelungen]], [ɡəˈlʊŋən] = [[gelingen]]
 
 ---
-* Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance.
+Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance
 
-*Sokka ist es [[während]] [[dessen]] [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu*
+*[[C1-Hoehen-T1-301-Text#^14|^]]* Jahrhunderts [[jenseits]] von Kriegen und großen Daten, wir [[erhalten]] auch einen [[entlarvenden]], aber doch immer amüsanten Einblick in die europäische [[Verfasstheit]] und den immer stärker [[werdenden]] [[Drang]] zu einem [[gelungenen]] und prestigereichen Urlaub
+
+Sokka ist es [[während]] [[dessen]] [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu
 
 ---
 = [[erfolgreich]], [[glücklich]], [[meisterhaft]], [[erfolgreich]]

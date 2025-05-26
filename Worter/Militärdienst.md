@@ -25,4 +25,4 @@ G: des [[Militärdienstes]], der [[Militärdienste]]
 D: dem [[Militärdienst]], den [[Militärdiensten]]  
 
 ---
-[[militärisch]], [[Militärangehöriger]], [[Wehrdienst]], [[Soldat]], [[Dienst]]
+[[militärisch]], [[Militärangehöriger]], [[Wehrdienst]], [[Soldat]], [[Dienst]], [[Ersatzdienst]]

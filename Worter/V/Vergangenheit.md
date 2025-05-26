@@ -4,6 +4,8 @@ die [[Vergangenheiten]]
 ---
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
 
+*[[C1-Hoehen-T2-301-Text#^8|^]]* Das resultiert natürlich in erster Linie aus der deutschen [[Vergangenheit]] und ist sehr gut [[nachvollziehbar]]
+
 Herr Knizka kritisiert, dass die WHO in der [[Vergangenheit]] [[übereilt]] [[Urteil]]e [[gefällt]] hat
 
 *[[C1-Lesen-T2-101-Text#^5|^]]* Und Klagen aus der [[Nachbarschaft]] wegen zu laut spielender Kinder sollten der [[Vergangenheit]] [[angehören]]

@@ -1,11 +1,8 @@
 🧩 [[willkürlich]], [ˈvɪlkʏːɐ̯lɪç]
 
 ---
-159. Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus? (77%)
-	- [x] freie Wahlen
-	- [ ] Pressezensur
-	- [ ] [[willkürliche]] [[Verhaftungen]]
-	- [ ] [[Verfolgung]] der Juden
+*[[C1-Hoehen-T2-301-Text#^15|^]]* Der Schutz der Bürgerinnen und Bürger vor [[willkürlich]]en [[Eingriff]]en des Staates in seine Lebensplanung ist ein sehr hohes politisches Gut, das völlig zurecht in der [[Verfassung]] [[verankert]] ist
+
 
 ---
 = [[beliebig]], [[zufällig]], [[planlos]], [[wollen]], 

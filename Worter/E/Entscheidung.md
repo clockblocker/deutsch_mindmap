@@ -91,4 +91,4 @@ Die wirtschaftlichen Argumente sind vielfältig. Zunächst ist es schlichtweg te
 
 </example>
 
-#Feminin, [[Kaufentscheidung]], [[Entschluss]]
+#Feminin, [[Kaufentscheidung]], [[Entschluss]], [[Fehlentscheidung]]

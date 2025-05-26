@@ -2,7 +2,11 @@
 nicht [[ungeeignet]]
 
 ---
-[[0 checklist#^5|^]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]
+*[[0 checklist#^5|^]]* Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlung]]en [[pünktlich]] [[leistet]]
+
+*[[C1-Hoehen-T2-301-Text#^14|^]]* Wäre denn nicht jetzt der [[geeignet]]e Zeitpunkt, dies dadurch zu [[revidieren]], dass man ein obligatorisches soziales Jahr für all die [[einführt]], die sich nicht bei der Bundeswehr [[verpflichten]]? ^14
+
+Dr. Frentzen gibt einen [[vollständig]]en [[Überblick]] über die für ein soziales Praktikum [[geeignet]]en [[Berufsgruppe]]n.  
 
 *[[TD#^3|^]]* Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten. ^3
 
@@ -35,4 +39,4 @@ Neuter: [[geeignetes]], [[geeigneteres]], [[geeignetestes]]
 Plural: [[geeigneten]], [[geeigneteren]], [[geeignetesten]]  
 
 [[Eignung]], [[Geeignetheit]], [[Tauglichkeit]], [[Qualifikation]], [[Fähig]]
-, [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]], [[angemessen]], [[unangemessen]], [[einsatzfähig]], [[wünschenswert]], [[praktikabel]], [[veranlagt]], [[aneignen]], [[anwendbar]], [[adäquat]]
+, [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]], [[angemessen]], [[unangemessen]], [[einsatzfähig]], [[wünschenswert]], [[praktikabel]], [[veranlagt]], [[aneignen]], [[anwendbar]], [[adäquat]], [[zurecht]]

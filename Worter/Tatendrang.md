@@ -26,4 +26,4 @@ A: den [[Tatendrang]], -
 G: des [[Tatendrang(e)s]], -
 D: dem [[Tatendrang]], -
 
-#Maskulin 
+#Maskulin , [[Drang]]

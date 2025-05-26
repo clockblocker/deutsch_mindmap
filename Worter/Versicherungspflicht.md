@@ -29,3 +29,5 @@ D: der [[Versicherungspflicht]], den [[Versicherungspflichten]]
 
 ---
 [[versichern]], [[pflichtversichert]], [[Pflichtversicherung]], [[gesetzlich]], [[obligatorisch]], [[Arbeitsform]]
+
+#Feminin 

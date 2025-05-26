@@ -5,6 +5,9 @@
 ---
 Oder denken Sie an die [[Gespräche]], die Sie jeden Tag mit Kollegen oder Freunden [[führen]]. 
 
+*[[C1-Hoehen-T2-301-Text#^3|^]]* Frau Dr. Frentzen, ich möchte mit Ihnen gleich mitten ins Thema mit der Frage [[einsteigen]] *(start)*, welche Position Sie in der derzeit wieder sehr kontrovers [[geführten]] Diskussion zum Thema eines verpflichtenden sozialen Jahres für unsere jungen Menschen [[einnehmen]]. ^3
+
+
 *[[C1-Hoehen-T1-301-Text#^4|^]]* Aus vielen [[Beiträgen]] wie auch aus den Kommentaren und Beschreibungen der durch die Reportage [[führenden]] Klimaaktivistin und Meeresbiologin ergibt sich eine [[bedrohte]], fragile Welt
 
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1

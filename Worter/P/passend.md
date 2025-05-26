@@ -32,4 +32,4 @@ P: [[passenden]], [[passenderen]], [[passendsten]]
 ---
 [[passen]], [[Passform]], [[Passbild]], [[passend gemacht]], [[passgenau]]
 </ideal_output>
-, [[gelegen]], [[Anpassung]]
+, [[gelegen]], [[Anpassung]], [[zurecht]]

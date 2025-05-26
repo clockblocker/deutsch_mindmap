@@ -26,4 +26,4 @@ excellent, outstanding
 Adjektive: [[ausgezeichnet]], [[ausgezeichneter]], [[ausgezeichnetst]]
 
 ---
-[[ausgezeichneter]], [[ausgezeichnetes]], [[ausgezeichnete]], [[ausgezeichneten]], [[ausgezeichnetem]], [[ausgezeichneterer]], [[ausgezeichneteres]], [[ausgezeichnetere]], [[ausgezeichneteren]], [[ausgezeichneterem]], [[ausgezeichnetster]], [[ausgezeichnetstes]], [[ausgezeichnetste]], [[ausgezeichnetsten]], [[ausgezeichnetstem]], [[ausgeprägt]]
+[[ausgezeichneter]], [[ausgezeichnetes]], [[ausgezeichnete]], [[ausgezeichneten]], [[ausgezeichnetem]], [[ausgezeichneterer]], [[ausgezeichneteres]], [[ausgezeichnetere]], [[ausgezeichneteren]], [[ausgezeichneterem]], [[ausgezeichnetster]], [[ausgezeichnetstes]], [[ausgezeichnetste]], [[ausgezeichnetsten]], [[ausgezeichnetstem]], [[ausgeprägt]], [[außerordentlich]]

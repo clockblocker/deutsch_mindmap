@@ -5,6 +5,8 @@ haben [[erhalten]]
 ---
 Du [[erhältst]] morgen ein Geschenk.
 
+*[[C1-Hoehen-T1-301-Text#^14|^]]* Jahrhunderts [[jenseits]] von Kriegen und großen Daten, wir [[erhalten]] auch einen [[entlarvenden]], aber doch immer amüsanten Einblick in die europäische [[Verfasstheit]] und den immer stärker [[werdenden]] [[Drang]] zu einem [[gelungenen]] und prestigereichen Urlaub
+
 *[[C1-Hoehen-T4-100-Text#^27|^]]* Und eine neue Regelung: Hat der Verbraucher digitale [[Inhalt]]e gegen [[Abgabe]] seiner persönlichen Daten [[erhalten]], darf der Anbieter bei einem [[Widerruf]] des [[Konsument]]en diese persönlichen Daten nicht [[weiterverwenden]]
 
 *[[C1-Hoehen-T4-100-Text#^10|^]]* Damit [[Richtlinie]]n [[Verbindlichkeit]] [[erhalten]], müssen sie von den Mitgliedsländern als [[Gesetz]] [[verabschiedet]] werden

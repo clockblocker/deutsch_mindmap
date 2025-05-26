@@ -29,4 +29,4 @@ D: der [[Kraft]], den [[Kräften]]
 ---
 [[kräftig]], [[kraftvoll]], [[kraftlos]], [[bekräftigen]], [[Kraftwerk]]
 
-#Feminin , [[Zahlungskräftig]], [[Niedriglohnkraft]], [[Mathelehrkraft]], [[Sog]]
+#Feminin , [[Zahlungskräftig]], [[Niedriglohnkraft]], [[Mathelehrkraft]], [[Sog]], [[außer Kraft setzen]]

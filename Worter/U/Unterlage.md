@@ -1,13 +1,14 @@
 --> [[🗣️ Ingredient-Meinung]] <--
+
 🔴 📄 die [[Unterlage]], [ˈʊntɐˌlaːɡə]
 die [[Unterlagen]]
 
 ---
-anhand meiner [[Unterlagen]]  
+anhand meiner [[Unterlage]]n  
 
-[[0 checklist#^5|^]] Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlungen]] [[pünktlich]] [[leistet]]. ^5
+*[[0 checklist#^5|^]]* Die [[geeigneten]] [[Unterlage]]n präsentieren dich als Mieter, der seine [[Zahlung]]en [[pünktlich]] [[leistet]]
 
-, [[Grundlage]]
+[[Grundlage]]
 
 ---
 = [[Dokument]], [[Beleg]], [[Grundlage]]

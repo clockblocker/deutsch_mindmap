@@ -34,4 +34,4 @@ thereby, therewith, in this, in that, along with it
 ---
 Morpheme:
 [[da]][[bei]]
-, [[Arzenei]], [[s1 e1]], [[anwesend]], [[bewirken]], [[nähern]]
+, [[Arzenei]], [[s1 e1]], [[anwesend]], [[bewirken]], [[nähern]], [[Eingriff]]

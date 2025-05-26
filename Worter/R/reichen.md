@@ -1,7 +1,9 @@
  [[reichen]], [ˈʁaɪ̯çən] | [[reichte]], haben [[gereicht]]
 
 ---
-Das Frühstück [[reicht]] für die ganze Familie.
+Das Frühstück [[reicht]] für die ganze Familie
+
+*[[C1-Hoehen-T1-301-Text#^11|^]]* Unsere dritte [[Empfehlung]] mit dem [[trocken]]en Titel „[[Nachhaltig]]er Tourismus“ ist ein [[kurzweilig]]er und informativer [[Einblick]] in die Geschichte des Tourismus, der als ein „[[nachhaltig]]es“ [[Vergnügen]] der [[Reichen]] begann und nach über einem Jahrhundert der [[Demokratisierung]] – und damit natürlich auch der Probleme des Massentourismus, zu dem diese [[Erschwinglichkeit]] von Urlaubsreisen führte – zu einer neuen [[Nachhaltigkeit]] finden muss
 
 Weil ihre Ehre nicht davon abhing, dass sie den Avatar eines Tages fanden. Aber meine schon. 100 Jahre hat er mit uns versteckgespielt. Es [[reicht]]!
 

@@ -1,1 +1,1 @@
-, [[Verfassung]], [[Volkssouveränität]], [[Meinungsumfrage]]
+, [[Verfassung]], [[Volkssouveränität]], [[Meinungsumfrage]], [[Demokratisierung]]

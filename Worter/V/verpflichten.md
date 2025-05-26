@@ -3,6 +3,14 @@
 ---
 *[[C1-Hoehen-T4-100-Text#^28|^]]* Weiter ist der Anbieter [[verpflichtet]], regelmäßig notwendige [[Sicherheitsupdate]]s zu [[liefern]]
 
+*[[C1-Hoehen-T2-301-Text#^14|^]]* Wäre denn nicht jetzt der [[geeignet]]e Zeitpunkt, dies dadurch zu [[revidieren]], dass man ein obligatorisches soziales Jahr für all die [[einführt]], die sich nicht bei der Bundeswehr [[verpflichten]]?
+
+*[[C1-Hoehen-T2-301-Text#^11|^]]* Für ein allgemein [[verpflichtend]]es soziales Jahr müsste der [[entsprechend]]e Artikel im Grundgesetz geändert werden und dafür bedarf es bekanntlich einer Zweidrittelmehrheit des Bundestags und des Bundesrats
+
+*[[C1-Hoehen-T2-301-Text#^2|^]]* Heute begrüße ich in unserem Studio Frau Dr. Simone Frentzen, Sozialwissenschaftlerin, die sich seit Langem sehr intensiv mit Themen wie [[Freiwilligendienste]] junger Menschen sowie [[verpflichtende]] soziale Dienste [[auseinandersetzt]]
+
+Dr. Frentzen sagt, dass [[verpflichtende]] soziale [[Einsätze]] [[überzeugen]]de [[Gründe]] haben müssen. 
+
 ---
 = [[binden]], [[verbinden]], [[zwingen]], [[auferlegen]]
 ≈ [[veranlassen]], [[zwingen]], [[auferlegen]], [[verantwortlich]], [[selbstauferlegen]], [[schulden]]

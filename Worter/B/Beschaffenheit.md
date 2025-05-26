@@ -29,4 +29,4 @@ G: der [[Beschaffenheit]], der [[Beschaffenheiten]]
 D: der [[Beschaffenheit]], den [[Beschaffenheiten]]
 
 
-#Feminin 
+#Feminin , [[Verfasstheit]]

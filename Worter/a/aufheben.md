@@ -1,1 +1,1 @@
-, [[zugeworfen]], [[erlassen]], [[abschaffen]], [[Aufhebung]], [[selbstauferlegen]], [[Beiseitelegen]]
+, [[zugeworfen]], [[erlassen]], [[abschaffen]], [[Aufhebung]], [[selbstauferlegen]], [[Beiseitelegen]], [[außer Kraft setzen]]

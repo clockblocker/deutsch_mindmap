@@ -3,6 +3,8 @@
 ---
 Die [[Folge]]n des [[Handeln]]s von [[Konsument]]en werden hier [[aufgezeigt]]
 
+*[[C1-Hoehen-T2-301-Text#^6|^]]* Es werden [[zuallererst]] juristische Hürden [[aufgezeigt]], die auch nicht ohne [[Weiteres]] vom Tisch [[gewischt]] werden sollten
+
 ---
 = [[darlegen]], [[demonstrieren]], [[erläutern]], [[hinweisen]], [[aufdecken]], [[vorweisen]], [[erweisen]], [[herausstellen]], [[aufweisen]], [[klarmachen]], [[verdeutlichen]]
 ≈ [[zeigen]], [[verdeutlichen]], [[präsentieren]]
@@ -44,4 +46,4 @@ sie, [[zeigen auf]], [[zeigten auf]], [[zeigen auf]], [[zeigten auf]], [[zeigen 
 Adjektive: [[aufzeigend]], [[aufzeigender]], [[aufzeigendst]]
 
 ---
-[[aufzeigender]], [[aufzeigendes]], [[aufzeigende]], [[aufzeigenden]], [[aufzeigendem]], [[aufzeigenderer]], [[aufzeigenderes]], [[aufzeigendere]], [[aufzeigenderen]], [[aufzeigenderem]], [[aufzeigendster]], [[aufzeigendstes]], [[aufzeigendste]], [[aufzeigendsten]], [[aufzeigendstem]]
+[[aufzeigender]], [[aufzeigendes]], [[aufzeigende]], [[aufzeigenden]], [[aufzeigendem]], [[aufzeigenderer]], [[aufzeigenderes]], [[aufzeigendere]], [[aufzeigenderen]], [[aufzeigenderem]], [[aufzeigendster]], [[aufzeigendstes]], [[aufzeigendste]], [[aufzeigendsten]], [[aufzeigendstem]], [[entlarven]]

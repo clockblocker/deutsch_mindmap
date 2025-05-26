@@ -57,4 +57,4 @@ Einzigartige mögliche Formen:
 , [[fernab]], [[weit und breit]], [[begrenzen]], [[speziell]]
 , [[althochdeutsch]]
 , [[anstoßen]]
-, [[lang]], [[unweit]], [[weitgehend]], [[weiterleiten]], [[weiterhin]], [[weltweit]], [[erweitern]], [[weitaus]], [[Flug]], [[inwieweit]], [[weiterhelfen]]
+, [[lang]], [[unweit]], [[weitgehend]], [[weiterleiten]], [[weiterhin]], [[weltweit]], [[erweitern]], [[weitaus]], [[Flug]], [[inwieweit]], [[weiterhelfen]], [[weitreichend]]

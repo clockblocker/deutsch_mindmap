@@ -1,1 +1,1 @@
-, [[selbstauferlegen]], [[auferlegen]]
+, [[selbstauferlegen]], [[auferlegen]], [[Zwangsdienst]]

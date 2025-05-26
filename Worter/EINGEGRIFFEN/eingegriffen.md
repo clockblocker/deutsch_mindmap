@@ -1,1 +1,1 @@
-, [[eingreifen]]
+, [[eingreifen]], [[Eingriff]]

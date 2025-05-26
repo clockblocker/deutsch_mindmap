@@ -1,4 +1,4 @@
-🏘️ 🔵 der [[Stadtteil]], [ˈʃtatˌtaɪ̯l](https://youglish.com/pronounce/Stadtteil/german)
+🏘️ der [[Stadtteil]], [ˈʃtatˌtaɪ̯l](https://youglish.com/pronounce/Stadtteil/german)
 
 ---
 5 Man [[erfährt]] etwas über die Geschichte des [[Stadtteils]].

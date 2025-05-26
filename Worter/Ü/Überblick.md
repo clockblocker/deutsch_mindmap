@@ -4,8 +4,9 @@ die [[Überblicke]]
 ---
 Das neue Museum [[bietet]] einen [[Überblick]] über moderne Kunst.
 
-*[[C1-Hoehen-T1-100-Text#^7|^]]* Beide [[austauschen|tauschen]] ihre Argumente aus, das Buch [[verlässt]] [[erneut]] die [[Erzählstruktur]] und gibt einen [[fundierten]] [[Überblick]] über das Leben im [[Stadtteil]] früher und heute. ^7
+Dr. Frentzen gibt einen [[vollständig]]en [[Überblick]] über die für ein soziales Praktikum [[geeignet]]en [[Berufsgruppe]]n.  
 
+*[[C1-Hoehen-T1-100-Text#^7|^]]* Beide [[austauschen|tauschen]] ihre Argumente aus, das Buch [[verlässt]] [[erneut]] die [[Erzählstruktur]] und gibt einen [[fundierten]] [[Überblick]] über das Leben im [[Stadtteil]] früher und heute
 
 
 ---

@@ -2,11 +2,8 @@
 die [[Berufswahlen]]
 
 ---
-15. Was [[verbietet]] das deutsche Grundgesetz? (87%)
-	- [ ] [[Militärdienst]]
-	- [x] [[Zwangsarbeit]]
-	- [ ] freie [[Berufswahl]]
-	- [ ] Arbeit im Ausland
+Dr. Frentzen meint, dass ein soziales Jahr auch als [[Orientierung]] für die spätere [[Berufswahl]] dienen könnte.
+
 
 ---
 = [[Karriereentscheidung]], [[Arbeitswahl]]
@@ -27,3 +24,6 @@ D: der [[Berufswahl]], den [[Berufswahlen]]
 
 ---
 [[berufen]], [[wählen]], [[Beruf]], [[beruflich]], [[Berufsorientierung]], [[Berufsfeld]]
+
+
+#Feminin 

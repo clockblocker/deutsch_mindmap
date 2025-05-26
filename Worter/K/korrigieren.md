@@ -1,1 +1,1 @@
-, [[umentscheiden]], [[verbessern]], [[bessern]], [[zurechtbiegen]]
+, [[umentscheiden]], [[verbessern]], [[bessern]], [[zurechtbiegen]], [[revidieren]]

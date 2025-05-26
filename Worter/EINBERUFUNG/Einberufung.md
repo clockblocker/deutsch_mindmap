@@ -1,1 +1,1 @@
-, [[einberufen]]
+, [[einberufen]], [[Wehrdienst]], [[Zwangsdienst]]

@@ -1,1 +1,3 @@
-, [[Kohlekraftwerk]]
+, [[Kohlekraftwerk]]🟢 das [[Windrad]] 🌬️
+#Neuter 
+

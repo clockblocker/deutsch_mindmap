@@ -1,7 +1,15 @@
-🤔 [[eindrücken]], [ˈaɪ̯ndʁʏkn̩](https://youglish.com/pronounce/eindrücken/german) → [[drückte ein]] → [[eingedrückt]]
+🤔 [[eindrücken]], [ˈaɪ̯ndʁʏkn̩](https://youglish.com/pronounce/eindrücken/german)
+[[Eindruck]]
 
 ---
-*[[C1-Hoehen-T1-301-Text#^10|^]]* Es handelt sich bei dem Podcast vielmehr um eine [[eindrücklich]]e und [[zeitweise]] [[durchaus]] [[beklemmend]]e [[Schilderung]] der [[überwältig]]enden Macht und auch [[Schönheit]] der Natur und der Elemente
+*[[C1-Hoehen-T1-301-Text#^10|^]]* Es handelt sich bei dem Podcast vielmehr um eine 
+[[eindrücklich]]e und [[zeitweise]] [[durchaus]] [[beklemmend]]e [[Schilderung]] 
+ *([[impressive]] and [[sometimes]] [[quite]] [[oppressive]] [[depiction]])*
+der [[überwältig]]enden Macht und auch [[Schönheit]] der Natur und der Elemente
+
+*[[C1-Hoehen-T1-301-Text#^8|^]]* Wir [[begleiten]] ihn bei seiner [[Erkundung]] des längsten [[Küstenwanderweg]]s der Welt und [[lauschen]] seinen [[Eindrücken]], Kämpfen und [[Erkenntnis]]sen
+*(his [[impressions]], struggles, and [[insights]])*
+
 
 
 ---
@@ -10,7 +18,7 @@
 ≠ [[herausziehen]], [[entfernen]]
 
 ---
-opress, to indent, to press in  
+impressive, opress, to indent, to press in  
 вдавливать
 
 ---

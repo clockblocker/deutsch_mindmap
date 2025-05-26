@@ -32,4 +32,4 @@ G: der [[Kenntnis]], der [[Kenntnisse]]
 D: der [[Kenntnis]], den [[Kenntnissen]]
 
 
-#Feminin 
+#Feminin , [[Orientierung]]

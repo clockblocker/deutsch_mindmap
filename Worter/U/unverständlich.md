@@ -1,1 +1,1 @@
-, [[anschauliche]], [[deutlich]], [[verständnislos]], [[Verständnis]], [[einleuchtend]]
+, [[anschauliche]], [[deutlich]], [[verständnislos]], [[Verständnis]], [[einleuchtend]], [[nachvollziehbar]]

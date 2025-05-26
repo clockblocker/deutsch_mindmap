@@ -1,1 +1,1 @@
-, [[binden]]
+, [[binden]], [[obligatorisch]]

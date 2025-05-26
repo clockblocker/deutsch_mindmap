@@ -38,4 +38,4 @@ Wichtige Konstruktionen:
 '''
 
 , [[Seite]], [[Nachdem]]
-, [[Konjunktoren]], [[gegenseitig]], [[seitens]]
+, [[Konjunktoren]], [[gegenseitig]], [[seitens]], [[jenseits]]

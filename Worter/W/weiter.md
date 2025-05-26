@@ -1,6 +1,4 @@
-[[weiter]]
-
-Beispiele:
+*[[C1-Hoehen-T2-301-Text#^6|^]]* Es werden [[zuallererst]] juristische Hürden [[aufgezeigt]], die auch nicht ohne [[Weiteres]] vom Tisch [[gewischt]] werden sollten
 
 SASCHA: Na [[mach weiter]], Sam!  
 Die Katze saß immer noch auf dem Baum und [[weiterdenken|dachte weiter]] nach

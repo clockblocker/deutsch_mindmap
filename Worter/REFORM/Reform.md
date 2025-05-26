@@ -28,3 +28,4 @@ G: der [[Reform]], der [[Reformen]]
 D: der [[Reform]], den [[Reformen]]
 
 #Feminin 
+, [[Demokratisierung]]

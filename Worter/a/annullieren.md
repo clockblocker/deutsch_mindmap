@@ -1,2 +1,2 @@
 , [[absagen]]
-, [[abbrechen]], [[ausrichten]]
+, [[abbrechen]], [[ausrichten]], [[außer Kraft setzen]]

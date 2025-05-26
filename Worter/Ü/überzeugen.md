@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-202-Text#^10|^]]* Nur fünf Prozent vom [[Gegenteil]] [[überzeugt]]
 
+Dr. Frentzen sagt, dass [[verpflichtende]] soziale [[Einsätze]] [[überzeugen]]de [[Gründe]] haben müssen. 
+
 *[[C1-Hoehen-T1-201-Text#^13|^]]* Er ist davon [[überzeugt]], ein großer Star in der Musikszene zu werden
 
 *[[Atom#^29|^]]* Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.

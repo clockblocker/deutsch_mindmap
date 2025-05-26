@@ -6,6 +6,8 @@
 *[[Golfstorm#^7|^]]* die [[Forschenden]] fanden jedoch keine [[Hinweis]]e auf einen [[vollständigen]] Kollaps. ^7
 
 
+Dr. Frentzen gibt einen [[vollständig]]en [[Überblick]] über die für ein soziales Praktikum [[geeignet]]en [[Berufsgruppe]]n.  
+
 *[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]. ^13
 
 
