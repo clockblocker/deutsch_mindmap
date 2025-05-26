@@ -1,1 +1,0 @@
-, [[volljährig]], [[jährlich]], [[minderjährig]]

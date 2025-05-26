@@ -1,3 +1,0 @@
-, [[rasen]], [[flitzen]]
-, [[brausen]]
-, [[schwirren]]

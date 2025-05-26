@@ -1,0 +1,1 @@
+, [[Versorgung]], [[Armut]], [[Bedürfnis]], [[fehlen]], [[Bedarf]], [[Bedürftigkeit]]

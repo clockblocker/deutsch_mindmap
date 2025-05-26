@@ -1,1 +1,0 @@
-🛒 [[bedienen]] + Akk/Gen, [bəˈdiːnən], [[Fernbedienung]]

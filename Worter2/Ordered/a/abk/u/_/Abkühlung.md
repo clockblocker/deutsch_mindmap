@@ -1,1 +1,0 @@
-, [[Heiztemperatur]], [[Kühlung]]

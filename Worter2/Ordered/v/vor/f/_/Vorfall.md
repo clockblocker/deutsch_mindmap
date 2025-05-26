@@ -1,1 +1,0 @@
-, [[Unfall]], [[Geschichte]], [[Umstand]], [[geschehen]], [[ergehen]], [[Begebenheit]], [[Anfall]], [[Ereignis]]

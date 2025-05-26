@@ -1,1 +1,0 @@
-, [[Stich]], [[anspielen]]

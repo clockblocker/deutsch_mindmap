@@ -1,0 +1,1 @@
+*Form of a* *Verb* 🏚️ [[verfallen]]

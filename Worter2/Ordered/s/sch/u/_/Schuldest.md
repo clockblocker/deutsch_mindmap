@@ -1,1 +1,0 @@
-, [[Schuld]], [[schulden]]

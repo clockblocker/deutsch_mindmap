@@ -1,1 +1,0 @@
-, [[Belohnung]], [[Zulage]], [[Sonderzahlung]], [[Prämie]]

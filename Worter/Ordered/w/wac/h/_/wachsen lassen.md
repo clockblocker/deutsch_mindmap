@@ -1,0 +1,2 @@
+, [[pflückt]], [[pflücken]], [[mähen]]
+, [[rasieren]]

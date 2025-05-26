@@ -1,1 +1,0 @@
-, [[erreichten]], [[erreichen]], [[Verständnis]], [[Wertschätzung]]

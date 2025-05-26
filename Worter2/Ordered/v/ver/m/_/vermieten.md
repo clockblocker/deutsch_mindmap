@@ -1,2 +1,0 @@
-
-, [[Vermieter]], [[mieten]]

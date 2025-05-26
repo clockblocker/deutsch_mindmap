@@ -1,2 +1,0 @@
-, [[unten]]
-, [[Unterlage]], [[Fußboden]]

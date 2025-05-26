@@ -1,0 +1,2 @@
+🔎 [[ahnen]]
+, [[vorausahnen]]

@@ -1,1 +1,0 @@
-, [[bessern]], [[Heilung]]

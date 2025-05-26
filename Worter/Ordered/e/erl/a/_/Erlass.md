@@ -1,0 +1,1 @@
+, [[Beschluss]], [[Gesetz]], [[erlassen]], [[Verfügung]], [[Kirchenzehnt]]

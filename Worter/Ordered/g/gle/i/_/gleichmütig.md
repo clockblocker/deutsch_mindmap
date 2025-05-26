@@ -1,0 +1,1 @@
+, [[geduldig]], [[entsetzt]], [[wütend]]

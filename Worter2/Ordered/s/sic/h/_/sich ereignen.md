@@ -1,1 +1,0 @@
-, [[passieren]], [[vorkommen]], [[auftreten]], [[verlaufen]]

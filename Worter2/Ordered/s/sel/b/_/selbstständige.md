@@ -1,2 +1,0 @@
-💪 [[selbstständig]]
-, [[Büroangestellte]]

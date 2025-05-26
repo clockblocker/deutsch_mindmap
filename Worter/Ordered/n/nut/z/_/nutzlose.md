@@ -1,0 +1,1 @@
+😒 [[nutzlos]] | 🔴 die [[Nutzlosigkeit]]

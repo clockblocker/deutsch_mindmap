@@ -1,1 +1,0 @@
-, [[Lehrling]], [[Praxis]], [[Lernende]]

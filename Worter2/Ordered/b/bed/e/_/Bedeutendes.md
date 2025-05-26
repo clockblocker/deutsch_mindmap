@@ -1,1 +1,0 @@
-, [[Kleinigkeit]], [[bedeutend]]

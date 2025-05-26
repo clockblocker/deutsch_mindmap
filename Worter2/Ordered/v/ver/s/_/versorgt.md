@@ -1,1 +1,0 @@
-🤔 [[versorgen]], [[Versorgung]]

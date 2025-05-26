@@ -1,1 +1,0 @@
-, [[tief]], [[banal]], [[tiefgründig]]

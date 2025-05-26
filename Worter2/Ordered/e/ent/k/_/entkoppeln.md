@@ -1,1 +1,0 @@
-, [[paaren]], [[koppeln]], [[verknüpfen]]

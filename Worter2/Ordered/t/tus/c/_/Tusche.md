@@ -1,1 +1,0 @@
-, [[Tinte]], [[Kreide]]

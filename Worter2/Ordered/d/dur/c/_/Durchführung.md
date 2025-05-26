@@ -1,1 +1,0 @@
-, [[durch]], [[abhalten]], [[Realisierung]], [[durchführen]], [[Umsetzung]], [[Ausübung]], [[Ausführung]]

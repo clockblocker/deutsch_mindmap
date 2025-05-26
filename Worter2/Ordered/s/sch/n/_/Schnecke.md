@@ -1,1 +1,0 @@
-, [[Wegschnecke]], [[Schneckengift]], [[Nacktschnecke]]

@@ -1,0 +1,1 @@
+, [[Umgang]], [[verträglich]], [[unumgänglich]]

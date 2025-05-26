@@ -1,1 +1,0 @@
-📊 [[dazuzählen]] + Akk, [daˈtsuːˌtsɛːlən]

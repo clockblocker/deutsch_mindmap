@@ -1,1 +1,0 @@
-, [[Kohle]], [[Kohlendioxid]]

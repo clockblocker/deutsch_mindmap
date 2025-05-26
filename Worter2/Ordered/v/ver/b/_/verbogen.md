@@ -1,2 +1,0 @@
-, [[verbiegen]]
-, [[verdreht]]

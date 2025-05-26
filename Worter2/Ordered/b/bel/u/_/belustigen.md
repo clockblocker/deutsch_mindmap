@@ -1,2 +1,0 @@
-
-, [[amüsieren]], [[vergnügen]], [[unterhalten]]

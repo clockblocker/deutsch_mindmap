@@ -1,2 +1,0 @@
-, [[Einwanderungsland]]🚶 [[einwandern]]
-, [[Einwanderung]]

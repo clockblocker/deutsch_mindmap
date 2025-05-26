@@ -1,0 +1,1 @@
+🫂 [[bedürfen]] | 🫂 [[bedürftig]] | 🔵 der [[Bedürftige]] 🫂

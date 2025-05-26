@@ -1,1 +1,0 @@
-, [[bedürftig]]🔵 der [[Wohlstand]] 💰

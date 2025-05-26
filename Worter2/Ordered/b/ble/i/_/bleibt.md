@@ -1,2 +1,0 @@
-📍[[bleiben]]
-, [[übrigbleiben]], [[wegbleiben]]

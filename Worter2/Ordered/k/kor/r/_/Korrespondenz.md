@@ -1,1 +1,0 @@
-, [[entsprechen]], [[Analogie]], [[Behördenkorrespondenz]]

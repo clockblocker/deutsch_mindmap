@@ -1,1 +1,0 @@
-🤗 [[umarmen]], [ʊˈmɑʁmən] | [[umarmte]], haben [[umarmt]]

@@ -1,1 +1,0 @@
-, [[Schockraum]], [[Entsetzen]], [[entsetzt]], [[Trauma]]

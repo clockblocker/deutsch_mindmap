@@ -1,2 +1,0 @@
-💥 [[brechen]]
-, [[bringen]]

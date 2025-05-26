@@ -1,0 +1,2 @@
+👃 [[riechen]]
+, [[anfassen]]

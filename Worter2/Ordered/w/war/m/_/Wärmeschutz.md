@@ -1,1 +1,0 @@
-, [[Pelzhandschuhe]], [[Wärmedämmung]]

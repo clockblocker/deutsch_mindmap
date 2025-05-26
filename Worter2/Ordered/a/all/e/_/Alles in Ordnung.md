@@ -1,1 +1,0 @@
-[[Alles]] [[in]] [[Ordnung]]

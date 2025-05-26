@@ -1,2 +1,0 @@
-
-, [[Gefecht]], [[Spiel]], [[Zweikampf]]

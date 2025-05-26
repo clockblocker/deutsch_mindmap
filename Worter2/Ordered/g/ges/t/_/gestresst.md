@@ -1,1 +1,0 @@
-, [[entspannter]], [[entspannt]], [[beschwert]]

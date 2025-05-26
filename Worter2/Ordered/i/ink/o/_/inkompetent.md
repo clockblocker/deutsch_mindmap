@@ -1,1 +1,0 @@
-, [[geeignet]], [[Fähig]]

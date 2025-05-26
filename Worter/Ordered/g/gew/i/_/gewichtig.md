@@ -1,0 +1,1 @@
+, [[schwer]], [[Gewicht]], [[übergewichtig]], [[schwergewichtig]]

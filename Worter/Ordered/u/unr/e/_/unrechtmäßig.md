@@ -1,0 +1,1 @@
+, [[Recht]], [[gesetzlich]], [[unrecht]], [[gültig]], [[rechtsfrei]], [[legal]], [[unzulässig]]

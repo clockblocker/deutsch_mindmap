@@ -1,0 +1,1 @@
+, [[Strenge]], [[Freizügigkeit]]

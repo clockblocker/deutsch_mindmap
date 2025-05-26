@@ -1,0 +1,1 @@
+, [[Zeichen]], [[Merkmal]]

@@ -1,1 +1,0 @@
-, [[fallen]], [[steigende]]

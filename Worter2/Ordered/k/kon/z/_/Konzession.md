@@ -1,1 +1,0 @@
-, [[Gaststättenerlaubnis]], [[Zugeständnis]]

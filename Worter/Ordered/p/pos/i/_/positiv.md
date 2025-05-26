@@ -1,0 +1,1 @@
+, [[widrig]], [[affirmierend]]

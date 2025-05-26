@@ -1,1 +1,0 @@
-🧑‍🤝‍🧑 [[dieselbe]] | 🔵 der [[Dieselbe]]

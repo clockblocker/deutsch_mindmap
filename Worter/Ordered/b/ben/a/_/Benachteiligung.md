@@ -1,0 +1,1 @@
+, [[Diskriminierung]], [[Gleichbehandlung]], [[benachteiligt]], [[benachteiligen]], [[Ungleichbehandlung]], [[Bildungschance]], [[Förderung]], [[Vorfahrt]], [[Ungerechtigkeit]]

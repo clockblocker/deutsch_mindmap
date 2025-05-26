@@ -1,1 +1,0 @@
-, [[zerstörten]], [[bepflanzen]], [[verheeren]]

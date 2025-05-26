@@ -1,1 +1,0 @@
-, [[zärtlich]], [[widerstandsfähig]], [[sensibel]], [[robust]]

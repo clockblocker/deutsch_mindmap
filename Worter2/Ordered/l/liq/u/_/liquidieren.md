@@ -1,1 +1,0 @@
-, [[ermorden]], [[totschlagen]], [[vernichten]]

@@ -1,2 +1,0 @@
-, [[beachten]], [[Einhaltung]]
-, [[Aufmerksamkeit]], [[Interesse]]

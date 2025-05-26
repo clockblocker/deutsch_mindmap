@@ -1,1 +1,0 @@
-[[Handel]], [[Händler]]

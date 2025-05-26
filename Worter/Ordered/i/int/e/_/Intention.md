@@ -1,0 +1,1 @@
+, [[Ziel]], [[Absicht]], [[absichtlich]], [[vorhaben]]

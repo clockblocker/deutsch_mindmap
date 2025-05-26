@@ -1,0 +1,1 @@
+, [[rauchen]], [[verschlucken]], [[Konsum]], [[Konsument]]

@@ -1,1 +1,0 @@
-, [[Gleiter]], [[Flugzeug]]

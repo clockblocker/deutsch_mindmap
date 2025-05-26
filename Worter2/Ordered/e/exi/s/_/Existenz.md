@@ -1,1 +1,0 @@
-, [[Leben]], [[Wirklichkeit]], [[Lebzeiten]], [[Grab]], [[Präsenz]], [[existieren]], [[Existenzdruck]], [[existenzbedrohend]], [[Existenzsicherung]]

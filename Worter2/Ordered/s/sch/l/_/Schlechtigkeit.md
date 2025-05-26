@@ -1,1 +1,0 @@
-, [[Schlecht]], [[Tugend]]

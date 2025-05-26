@@ -1,1 +1,0 @@
-[[Überheblich]], [[stolz]], [[bescheiden]], [[Demut]], [[vermessen]]

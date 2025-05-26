@@ -1,1 +1,0 @@
-🟢 💰 der [[Vereinsbeitrag]], [fɛɐ̯ˈfaɪ̯nzˌbaɪ̯tʁaːk]

@@ -1,0 +1,2 @@
+, [[schwer]]
+, [[viel]], [[schwergewichtig]]

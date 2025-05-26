@@ -1,2 +1,0 @@
---> 📈 [[Grad-Vergleich]] <--
-💪 [[verstärken]]

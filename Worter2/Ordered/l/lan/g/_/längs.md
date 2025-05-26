@@ -1,2 +1,0 @@
-, [[durchs]]
-, [[entlang]]

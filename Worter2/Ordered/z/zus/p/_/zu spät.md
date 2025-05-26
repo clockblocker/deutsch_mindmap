@@ -1,2 +1,0 @@
-, [[rechtzeitig]]
-, [[pünktlich]]

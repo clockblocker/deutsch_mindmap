@@ -1,2 +1,0 @@
-🏃 [[davonlaufen]]
-, [[laufen]]

@@ -1,1 +1,0 @@
-, [[tief]], [[zugrundeliegende]], [[grundlegend]], [[unverzichtbar]], [[wesentlich]], [[essenziell]], [[lebenswichtig]]

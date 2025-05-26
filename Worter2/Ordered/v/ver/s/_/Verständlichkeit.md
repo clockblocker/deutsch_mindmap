@@ -1,1 +1,0 @@
-, [[Verständnis]], [[Deutlichkeit]]

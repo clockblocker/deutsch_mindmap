@@ -1,2 +1,0 @@
-, [[vorziehen]]
-, [[aussuchen]], [[auswählen]]

@@ -1,3 +1,0 @@
-
-🔴 die [[Chance]] 🍀
-, [[Bildungschance]], [[Entwicklungspotenzial]]

@@ -1,3 +1,0 @@
-
-, [[Wutanfall]]
-, [[Gefühlsausbruch]]

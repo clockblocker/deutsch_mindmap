@@ -1,1 +1,0 @@
-, [[Arbeiteraufstand]], [[flüstern]], [[Wetter]]

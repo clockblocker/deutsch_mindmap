@@ -1,1 +1,0 @@
-, [[Einflussnahme]], [[Betrugsmanöver]]

@@ -1,0 +1,2 @@
+
+, [[Mehrheit]], [[vorher]], [[vorherrschen]]

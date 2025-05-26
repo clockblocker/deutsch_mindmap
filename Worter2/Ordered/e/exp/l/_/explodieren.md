@@ -1,2 +1,0 @@
-, [[zerplatzen]], [[krachen]]
-, [[aufbrausen]]

@@ -1,1 +1,0 @@
-, [[Erzieher]], [[Erzie­hung]], [[Erziehung]]

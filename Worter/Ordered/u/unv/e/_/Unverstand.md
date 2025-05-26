@@ -1,0 +1,1 @@
+, [[Intelligenzgrad]], [[Klugheit]], [[Intelligenzquotient]], [[Denkvermögen]]

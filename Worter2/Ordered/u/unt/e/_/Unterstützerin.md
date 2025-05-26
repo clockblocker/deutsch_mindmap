@@ -1,1 +1,0 @@
-, [[unterstützen]], [[Unterstützung]], [[Verfechterin]]

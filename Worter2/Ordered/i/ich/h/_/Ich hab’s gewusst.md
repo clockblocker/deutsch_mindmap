@@ -1,1 +1,0 @@
-Ich hab’s [[gewusst]]. Was machst du nur? Spinnst du?  , [[Wissen]]

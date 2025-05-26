@@ -1,0 +1,2 @@
+, [[verhalten]]
+, [[nachdenklich]], [[abwägen]], [[ungewogen]]

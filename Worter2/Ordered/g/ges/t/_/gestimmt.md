@@ -1,1 +1,0 @@
-, [[stimmen]], [[Stimmung]], [[gelaunt]]

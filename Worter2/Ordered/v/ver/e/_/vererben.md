@@ -1,1 +1,0 @@
-, [[erben]], [[Nachlass]], [[hinterlassen]]

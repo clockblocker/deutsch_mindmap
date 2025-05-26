@@ -1,0 +1,2 @@
+, [[Gründungsmitglied]], [[erben]]
+, [[nachfolgend]], [[Gründer]]

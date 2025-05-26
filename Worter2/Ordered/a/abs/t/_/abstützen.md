@@ -1,1 +1,0 @@
-, [[lehnen]], [[stützen]]

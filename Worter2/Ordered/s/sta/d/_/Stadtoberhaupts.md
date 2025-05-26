@@ -1,1 +1,0 @@
-🟢 👑 das [[Stadtoberhaupt]], [ˈʃtat.ˈoːbɐ.haʊ̯pt]

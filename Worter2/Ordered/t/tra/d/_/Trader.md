@@ -1,1 +1,0 @@
-, [[Börsenhai]], [[Händler]]

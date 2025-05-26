@@ -1,3 +1,0 @@
- ! [[Passiv-Ingredient-POV]] !
-
-📣 [[demonstrieren]]

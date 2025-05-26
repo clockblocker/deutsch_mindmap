@@ -1,1 +1,0 @@
-, [[flechten]], [[spinnen]], [[verstricken]], [[Pelzhandschuhe]], [[weben]]

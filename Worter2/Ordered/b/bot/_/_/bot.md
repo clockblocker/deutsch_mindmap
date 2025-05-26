@@ -1,1 +1,0 @@
-, [[verboten]], [[bieten]], [[verbot]], [[Autoverbot]], [[Botschaft]]

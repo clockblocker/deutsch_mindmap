@@ -1,0 +1,2 @@
+--> 🧩 [[Grad-Ganzheit]] <--
+, [[Jeder]], [[sämtlich]]

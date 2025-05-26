@@ -1,1 +1,0 @@
-🏃‍♂️ [[nachjagen]] + Dat/Akk, [ˌnaːxˈjaːɡn̩]

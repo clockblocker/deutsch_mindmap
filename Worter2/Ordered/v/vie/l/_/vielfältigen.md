@@ -1,2 +1,0 @@
-🌈 [[vielfältig]]
-, [[erfüllen]]

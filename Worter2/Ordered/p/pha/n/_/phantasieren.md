@@ -1,2 +1,0 @@
-, [[spinnen]], [[träumen]]
-, [[verträumen]], [[Phantasie]]

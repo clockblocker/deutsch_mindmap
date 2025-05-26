@@ -1,1 +1,0 @@
-, [[hochschrecken]], [[schrecken]], [[abschrecken]]

@@ -1,2 +1,0 @@
-🔴 die [[karte]]
-, [[Spielkarten]], [[Wiederholungskarte]]

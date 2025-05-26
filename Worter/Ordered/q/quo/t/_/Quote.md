@@ -1,0 +1,1 @@
+, [[Anteil]], [[Trefferquote]]

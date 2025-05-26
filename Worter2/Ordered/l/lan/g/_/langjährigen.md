@@ -1,1 +1,0 @@
-🕰️ [[langjähren]] | 🕰️ [[langjährig]]

@@ -1,2 +1,0 @@
-[[Bis bald]]
-[[Ich geh]]

@@ -1,2 +1,0 @@
-, [[gerade]], [[schief]]
-, [[verdreht]]

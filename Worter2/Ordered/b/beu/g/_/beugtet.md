@@ -1,1 +1,0 @@
-[[bücken]], [[beugen]]

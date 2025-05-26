@@ -1,0 +1,1 @@
+, [[mähen]], [[allmählich]]

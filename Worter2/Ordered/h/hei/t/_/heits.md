@@ -1,1 +1,0 @@
-, [[Gesundheitsamt]], [[Mehrheitswahlrecht]]

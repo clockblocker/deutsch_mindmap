@@ -1,0 +1,1 @@
+, [[redlich]], [[Ehrlich]], [[Integrität]]

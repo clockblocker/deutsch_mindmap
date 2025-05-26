@@ -1,3 +1,0 @@
-, [[weit]], [[weitaus]]
-
-[[weiter]]

@@ -1,1 +1,0 @@
-, [[Bundesverfassungsgericht]], [[Verfassungsorganen]], [[verfassungswidrig]]

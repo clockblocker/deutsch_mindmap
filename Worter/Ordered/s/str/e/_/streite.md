@@ -1,0 +1,2 @@
+⚔️ [[streiten]]
+, [[Streit]]

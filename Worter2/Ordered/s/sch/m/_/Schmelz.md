@@ -1,2 +1,0 @@
-❄️ [[schmelzen]]
-, [[Schmelzwasser]], [[Verschmelzung]]

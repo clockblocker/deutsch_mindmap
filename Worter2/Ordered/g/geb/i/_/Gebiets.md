@@ -1,2 +1,0 @@
-🟢 das [[Gebiet]] 🗺️
-, [[Öffnungszeit]]

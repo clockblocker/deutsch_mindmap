@@ -1,2 +1,0 @@
---> 🧮 [[Grad-Quantität]] <--
-[[viel-wenig]]

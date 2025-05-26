@@ -1,1 +1,0 @@
-, [[offiziell]], [[speziell]], [[generell]], [[strukturell]]

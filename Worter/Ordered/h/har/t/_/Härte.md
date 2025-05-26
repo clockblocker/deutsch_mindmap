@@ -1,0 +1,1 @@
+, [[Strenge]], [[Vergebung]], [[Erbarmen]], [[Zerbrechlichkeit]]

@@ -1,1 +1,0 @@
-, [[wahnsinnig]], [[erziehen]], [[vernachlässigen]]

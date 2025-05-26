@@ -1,1 +1,0 @@
-, [[gang]], [[Lauf]], [[Mobilität]]

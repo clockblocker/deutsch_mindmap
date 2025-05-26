@@ -1,1 +1,0 @@
-, [[Jugendliche]], [[Säugling]]

@@ -1,1 +1,0 @@
-, [[schwer]], [[Last]], [[erschweren]], [[Gewicht]]

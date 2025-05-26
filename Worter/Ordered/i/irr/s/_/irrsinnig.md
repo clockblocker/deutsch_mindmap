@@ -1,0 +1,1 @@
+, [[lächerlich]], [[wahnsinnig]]

@@ -1,1 +1,0 @@
-, [[außer Kraft setzen]]

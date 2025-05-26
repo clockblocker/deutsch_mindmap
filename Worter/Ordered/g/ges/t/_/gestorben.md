@@ -1,0 +1,1 @@
+[[sterben]], [[überlebt]]

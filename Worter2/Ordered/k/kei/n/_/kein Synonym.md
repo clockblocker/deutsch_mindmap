@@ -1,1 +1,0 @@
-, [[Ringerung]], [[Laufrad]], [[Hantelgewicht]], [[Cholesterinwert]], [[Taillenumfang]], [[Umkehrschluss]], [[Grundeinstellung]], [[Einstellung]], [[Betrachtungsweise]], [[inwieweit]], [[Rollenbesetzung]], [[Regisseur]], [[Filmemacher]], [[Justiz]]

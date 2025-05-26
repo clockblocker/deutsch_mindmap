@@ -1,1 +1,0 @@
-, [[Tanne]], [[Backen]], [[Tannenbaum]], [[Zahn]], [[Linde]]

@@ -1,1 +1,0 @@
-, [[Schulabgänger]], [[absolvieren]]

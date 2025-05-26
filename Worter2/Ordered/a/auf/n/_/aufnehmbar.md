@@ -1,1 +1,0 @@
-, [[Aufnahme]], [[aufnehmen]]

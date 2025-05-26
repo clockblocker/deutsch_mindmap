@@ -1,0 +1,1 @@
+, [[Stimmabgabe]], [[Wählerstimme]]n, [[gültig]]

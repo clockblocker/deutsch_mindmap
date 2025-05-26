@@ -1,1 +1,0 @@
-, [[deuten]], [[Auslegung]], [[umschreiben]], [[auslegen]], [[entschlüsseln]], [[entziffern]], [[ablesen]], [[Interpretation]]

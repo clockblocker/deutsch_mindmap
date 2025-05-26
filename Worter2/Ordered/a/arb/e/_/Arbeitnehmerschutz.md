@@ -1,1 +1,0 @@
-, [[Arbeitnehmer]], [[Betriebsrat]]

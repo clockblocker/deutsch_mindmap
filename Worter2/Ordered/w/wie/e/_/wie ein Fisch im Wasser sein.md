@@ -1,1 +1,0 @@
-[[wie]] ein [[Worter/F/fisch]] im [[Wasser]] sein - быть как рыба в воде  

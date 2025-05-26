@@ -1,1 +1,0 @@
-[[sowie]], [[ebenfalls]], [[seinerseits]], [[ebenso]], [[Konnektivpartikeln]]

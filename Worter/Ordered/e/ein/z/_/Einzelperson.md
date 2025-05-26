@@ -1,0 +1,1 @@
+, [[Partei]], [[Gemeinde]], [[Behörde]], [[Bevölkerung]], [[Agentur]], [[Gemeinderat]], [[Stadtverwaltung]], [[Bürgerei]], [[Menschenmenge]], [[Berufsgruppe]], [[verband]], [[einzeln]], [[Truppe]], [[Allgemeinheit]], [[Privatperson]]

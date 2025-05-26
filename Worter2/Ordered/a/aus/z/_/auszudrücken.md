@@ -1,1 +1,0 @@
-, [[ausdrücken]], [[bewirken]]

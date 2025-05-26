@@ -1,1 +1,0 @@
-, [[differenziert]], [[differenzieren]]

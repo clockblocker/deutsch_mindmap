@@ -1,1 +1,0 @@
-[[Das war’s]]! Der Typ fliegt raus!

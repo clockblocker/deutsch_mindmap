@@ -1,0 +1,1 @@
+, [[Bogen]], [[Richtungsänderung]], [[Spirale]]

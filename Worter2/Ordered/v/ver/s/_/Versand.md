@@ -1,1 +1,0 @@
-, [[hinschicken]], [[Lieferung]], [[versenden]], [[Versandt]]

@@ -1,0 +1,4 @@
+, [[Kohlekraftwerk]]
+🔴 die [[Industrieanlage]] 🏭
+
+#Feminin 

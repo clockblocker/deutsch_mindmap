@@ -1,2 +1,0 @@
-🏷️ [[Rabatt]] | 🔵 der [[Rabatt]] 🏷️
-, [[abziehen]]

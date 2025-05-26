@@ -1,1 +1,0 @@
-, [[Bundesverfassungsgericht]], [[Bundespräsident]], [[Verfassungsorganen]]

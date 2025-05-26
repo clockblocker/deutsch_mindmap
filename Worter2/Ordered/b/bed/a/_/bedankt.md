@@ -1,1 +1,0 @@
-🙏 [[bedanken]], [[Entscheidung]]

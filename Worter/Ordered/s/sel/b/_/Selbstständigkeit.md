@@ -1,0 +1,1 @@
+, [[selbständig]], [[Arbeitsverhältnis]], [[Freiheit]], [[Abhängigkeit]], [[Unabhängigkeit]], [[Hilflosigkeit]]

@@ -1,4 +1,0 @@
---> [[⛪ Ingredient-Plazt]] <--
-
----
-, [[Geburtsort]]

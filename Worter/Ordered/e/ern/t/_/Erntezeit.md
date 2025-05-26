@@ -1,0 +1,1 @@
+, [[Ernte]], [[Erntemenge]], [[Weizenernte]]

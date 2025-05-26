@@ -1,1 +1,0 @@
-, [[einziger]], [[1 Präpositionen Übungen]], [[einzig]]

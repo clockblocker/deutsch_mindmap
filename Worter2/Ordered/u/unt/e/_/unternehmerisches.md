@@ -1,1 +1,0 @@
-💼 [[unternehmerisch]] | 🟢 das [[Unternehmerische]] 💼

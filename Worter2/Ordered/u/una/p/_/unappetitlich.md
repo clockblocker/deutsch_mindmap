@@ -1,2 +1,0 @@
-, [[genießbar]], [[garstig]]
-, [[geschmacklos]]

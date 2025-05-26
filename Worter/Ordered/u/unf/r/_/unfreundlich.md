@@ -1,0 +1,1 @@
+, [[unhöflich]], [[nett]], [[Freundliches]], [[hilfsbereit]], [[mürrisch]], [[rücksichtslos]], [[charmant]]

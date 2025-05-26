@@ -1,1 +1,0 @@
-[[stören]], [[leiden]], [[aushalten]], [[ertragen]], [[vertragen]]

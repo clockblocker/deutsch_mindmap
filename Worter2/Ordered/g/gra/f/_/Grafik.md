@@ -1,1 +1,0 @@
-, [[Kunst]], [[Abbildung]], [[Zeichnung]]

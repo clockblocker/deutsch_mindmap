@@ -1,1 +1,0 @@
-, [[Ahne]], [[Sprössling]], [[Nachfahre]]

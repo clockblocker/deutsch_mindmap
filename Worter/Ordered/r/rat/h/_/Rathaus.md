@@ -1,0 +1,1 @@
+, [[Rat]], [[Gemeindeverwaltung]], [[Gemeinderat]], [[Bürgerei]]

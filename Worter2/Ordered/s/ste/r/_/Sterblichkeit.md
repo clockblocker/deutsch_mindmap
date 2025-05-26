@@ -1,1 +1,0 @@
-, [[sterben]], [[Lebenserwartung]], [[Normalsterbliche]]

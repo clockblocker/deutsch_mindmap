@@ -1,1 +1,0 @@
-, [[Sicherheit]], [[Risiko]], [[gewiss]], [[Zweifel]]

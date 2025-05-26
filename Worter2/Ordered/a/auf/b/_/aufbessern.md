@@ -1,1 +1,0 @@
-, [[erhöhen]], [[verschlechtern]]

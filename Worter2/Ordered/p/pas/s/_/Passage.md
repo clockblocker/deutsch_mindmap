@@ -1,1 +1,0 @@
-, [[Abschnitt]], [[gang]], [[Zutritt]], [[Textstelle]]

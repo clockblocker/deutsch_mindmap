@@ -1,0 +1,1 @@
+, [[langjährig]], [[jährlich]], [[minderjährig]]

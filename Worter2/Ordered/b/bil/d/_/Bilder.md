@@ -1,1 +1,0 @@
-Singular: das [[Bild]]

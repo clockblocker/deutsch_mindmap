@@ -1,2 +1,0 @@
-, [[klingen]], [[Dolch]], [[Messer]]
-, [[Schwert]]

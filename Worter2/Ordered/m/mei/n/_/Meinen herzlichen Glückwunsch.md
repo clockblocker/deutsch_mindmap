@@ -1,1 +1,0 @@
-Meinen [[herzlichen]] [[Glückwunsch]]

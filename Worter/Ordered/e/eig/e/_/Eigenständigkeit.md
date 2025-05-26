@@ -1,0 +1,1 @@
+, [[eigenständig]], [[Unabhängigkeit]]

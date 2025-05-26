@@ -1,1 +1,0 @@
-, [[stillen]], [[Futtersuche]], [[Futter]], [[ernähren]], [[nähren]]

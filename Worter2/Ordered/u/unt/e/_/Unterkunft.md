@@ -1,1 +1,0 @@
-[[zimmer]], [[Gästehaus]], [[beherbergen]], [[Haus]], [[Unterbringung]], [[Studierendenwohnheim]], [[Wohnraum]]

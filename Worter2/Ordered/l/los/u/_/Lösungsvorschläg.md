@@ -1,4 +1,0 @@
-[[Lösungsvorschlag]]
-
-#Maskulin 
-

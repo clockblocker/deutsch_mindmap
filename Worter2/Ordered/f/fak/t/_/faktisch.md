@@ -1,3 +1,0 @@
---> 🧩 [[Grad-Wahrheit]] <--
-
-, [[eigentlich]], [[virtuell]]

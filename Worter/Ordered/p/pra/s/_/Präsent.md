@@ -1,0 +1,1 @@
+, [[Geschenk]], [[Anwesenheitspflicht]], [[gegenwärtig]], [[Präsenz]], [[Präsentation]]

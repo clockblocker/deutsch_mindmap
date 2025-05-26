@@ -1,1 +1,0 @@
-, [[Informationswert]], [[aussagekräftig]], [[Information]], [[Lesenswert]]

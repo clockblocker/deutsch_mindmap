@@ -1,1 +1,0 @@
-, [[einverstanden]], [[stimmen]]

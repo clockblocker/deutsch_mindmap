@@ -1,2 +1,0 @@
-, [[Willenskraft]]
-, [[zielstrebig]], [[Karrierebewusstsein]]

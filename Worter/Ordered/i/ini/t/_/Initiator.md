@@ -1,0 +1,1 @@
+, [[Gründungsmitglied]], [[Gründer]], [[Wegbereiter]], [[initiieren]], [[Initiative]]

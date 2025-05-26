@@ -1,0 +1,1 @@
+[[verschwinden]] + [fɛɐ̯ˈʃvɪndn̩], [[s1 e1]]

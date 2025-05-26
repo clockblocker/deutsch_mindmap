@@ -1,1 +1,0 @@
-, [[Lichtstrahl]], [[s1 e1]]

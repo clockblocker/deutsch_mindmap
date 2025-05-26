@@ -1,2 +1,0 @@
-, [[fließend]]
-, [[tollpatschig]]

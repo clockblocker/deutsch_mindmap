@@ -1,0 +1,1 @@
+, [[gleichen]], [[passen]], [[verschieden]]

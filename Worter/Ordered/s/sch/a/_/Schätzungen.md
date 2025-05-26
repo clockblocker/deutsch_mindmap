@@ -1,0 +1,2 @@
+🔴 die [[Schätzung]] 💰
+, [[halber]]

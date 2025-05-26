@@ -1,1 +1,0 @@
-, [[Studiengang]], [[Studienfach]]

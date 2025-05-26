@@ -1,1 +1,0 @@
-, [[Ecke]], [[stück]], [[Sektor]], [[Abschnitt]]

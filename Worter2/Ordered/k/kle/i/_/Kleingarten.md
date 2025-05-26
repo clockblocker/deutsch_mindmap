@@ -1,1 +1,0 @@
-, [[Schrebergarten]], [[Schrebergartenbewegung]], [[Kleingärtner]]

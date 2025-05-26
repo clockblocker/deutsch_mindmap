@@ -1,0 +1,2 @@
+💪 [[ausdauern]] | 😌 [[ausdauernd]]
+, [[Königsweg]], [[langlebig]]

@@ -1,2 +1,0 @@
-
-, [[nachfolgend]], [[Auswirkung]], [[Konsequenz]]

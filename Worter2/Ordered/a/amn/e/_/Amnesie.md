@@ -1,1 +1,0 @@
-, [[Erinnerung]], [[Bewusstsein]], [[Gedächtnis]], [[Merkfähigkeit]]

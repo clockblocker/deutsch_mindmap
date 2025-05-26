@@ -1,0 +1,2 @@
+
+, [[nie]], [[nahezu]], [[durchaus]], [[schlechthin]]

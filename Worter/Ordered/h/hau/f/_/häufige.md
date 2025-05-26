@@ -1,0 +1,1 @@
+🔁 [[häufig]] | 🔵 [[häufen]], [[vereinzeln]], [[Systemabsturz]]

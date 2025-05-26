@@ -1,0 +1,1 @@
+, [[Nachteile]], [[Schwachstellen]], [[Mangel]]

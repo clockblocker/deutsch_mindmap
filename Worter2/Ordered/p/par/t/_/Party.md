@@ -1,3 +1,0 @@
-, [[Partygespräch]]
-, [[Feier]]
-, [[Stehempfang]]

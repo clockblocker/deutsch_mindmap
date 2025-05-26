@@ -1,1 +1,0 @@
-, [[begeistern]], [[trösten]], [[anregen]], [[deprimiert]], [[desillusionieren]], [[abschrecken]], [[stärken]], [[abraten]], [[verleiten]]

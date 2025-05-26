@@ -1,3 +1,0 @@
-
-, [[durchhalten]]
-, [[Durchhaltevermögen]]

@@ -1,3 +1,0 @@
-
-🟢 das [[Unwetter]] ⛈️
-, [[Kriegsausbruch]]

@@ -1,1 +1,0 @@
-, [[Altersheim]], [[vergilben]], [[veraltet]], [[Lebensalter]]

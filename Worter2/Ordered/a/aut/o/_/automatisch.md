@@ -1,1 +1,0 @@
-, [[manuell]], [[zwangsläufig]]

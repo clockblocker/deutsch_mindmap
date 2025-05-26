@@ -1,1 +1,0 @@
-, [[Abkommen]], [[Einheit]], [[Einigkeit]], [[Ausgleich]], [[Zielabstimmung]]

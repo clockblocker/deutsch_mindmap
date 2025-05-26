@@ -1,2 +1,0 @@
-, [[Schule]], [[Schulabschluss]], [[Schulpflicht]], [[Schulamt]], [[Schulwesen]], [[Schulgebäude]]
-, [[Schularbeit]], [[Grundschulkind]], [[Schulklasse]], [[Schultasche]], [[Schulabgängerin]], [[Schulabgänger]], [[Schulung]], [[Schulmedizin]], [[Schulmedizinerin]], [[Schulform]], [[Schulfach]]

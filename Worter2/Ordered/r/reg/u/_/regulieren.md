@@ -1,1 +1,0 @@
-, [[einstellen]], [[mitteln]], [[einschränken]], [[Regulierung]]

@@ -1,2 +1,0 @@
-
-, [[mitfühlend]], [[sensibel]]

@@ -1,0 +1,1 @@
+, [[Deutung]], [[Auslegung]], [[Begründung]], [[Erklärung]], [[erläutern]], [[Präsentation]], [[Beschreibung]], [[Begriffsbestimmung]], [[Interpretation]], [[Umschreibung]]

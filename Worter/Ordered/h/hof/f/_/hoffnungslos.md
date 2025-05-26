@@ -1,0 +1,2 @@
+, [[aussichtslos]], [[verzweifeln]]
+, [[unverbesserlich]], [[Hoffnung]]

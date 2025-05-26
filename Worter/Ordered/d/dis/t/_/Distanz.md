@@ -1,0 +1,1 @@
+, [[Abstand]], [[Begegnung]], [[Annäherung]], [[Entfernung]], [[Umarmung]], [[Verbindung]], [[Worter/Beziehung]], [[Beziehung]], [[Strecke]], [[Schussradius]], [[Reichweite]], [[Unmittelbarkeit]]

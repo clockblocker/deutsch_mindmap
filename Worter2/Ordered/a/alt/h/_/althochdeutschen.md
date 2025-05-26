@@ -1,1 +1,0 @@
-📜 [[althochdeutsch]], [altˈhoːxˌdɔɪ̯t͡ʃən]

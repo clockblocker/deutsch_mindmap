@@ -1,1 +1,0 @@
-, [[gestehen]], [[gönnen]], [[Zugeständnis]]

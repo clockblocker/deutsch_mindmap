@@ -1,2 +1,0 @@
-[[klein]]
-, [[Weniger]]

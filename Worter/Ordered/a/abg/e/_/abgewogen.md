@@ -1,0 +1,1 @@
+[[abwägen]], [[ungewogen]]

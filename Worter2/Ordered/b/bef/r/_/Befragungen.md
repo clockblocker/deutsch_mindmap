@@ -1,2 +1,0 @@
-, [[ergeben]]
-🔴 die [[Befragung]] 🗣️

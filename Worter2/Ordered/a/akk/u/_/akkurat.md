@@ -1,1 +1,0 @@
-, [[ordentlich]], [[sorgsam]]

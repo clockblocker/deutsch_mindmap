@@ -1,1 +1,0 @@
-, [[Gästehaus]], [[Zeltsam]]

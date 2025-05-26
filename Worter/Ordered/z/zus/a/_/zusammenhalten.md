@@ -1,0 +1,1 @@
+[[trennen]], [[zerplatzen]], [[schnallen]]

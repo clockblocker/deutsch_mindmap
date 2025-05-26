@@ -1,2 +1,0 @@
-🔵 der [[Straßenunfall]] 🤕
-, [[Mehrheit]]

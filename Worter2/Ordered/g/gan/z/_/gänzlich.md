@@ -1,2 +1,0 @@
---> 🧩 [[Grad-Ganzheit]] <--
-[[überhaupt]], [[völlig]]

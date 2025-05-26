@@ -1,1 +1,0 @@
-[[Bedarfsraum]] | 🔵 der [[Bedarfsraum]] 🏢

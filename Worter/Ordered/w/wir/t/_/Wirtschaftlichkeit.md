@@ -1,0 +1,1 @@
+, [[wirtschaftlich]], [[kostengünstig]], [[Wirtschaftsform]], [[Verschwendung]], [[Kosteneinsparung]], [[Kosteneffizienz]], [[Finanzierbarkeit]], [[Sparsamkeit]], [[Gewinnorientierung]]

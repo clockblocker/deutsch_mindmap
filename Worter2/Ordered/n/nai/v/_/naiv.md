@@ -1,1 +1,0 @@
-, [[schlauen]], [[Weise]], [[erfahrenen]], [[misstrauisch]], [[weltfremd]]

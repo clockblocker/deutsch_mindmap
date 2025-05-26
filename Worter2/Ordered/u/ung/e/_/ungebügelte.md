@@ -1,2 +1,0 @@
-, [[übernachten]]
-🧺 [[bügeln]] | 🧺 [[ungebügelt]]

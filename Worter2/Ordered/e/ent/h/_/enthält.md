@@ -1,2 +1,0 @@
-[[Auflistung]]
-🔵 [[enthalten]] | 🤲 [[enthalten]]

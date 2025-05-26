@@ -1,1 +1,0 @@
-, [[weitergehen]], [[Entwicklung]], [[Rückkehr]], [[Verlauf]]

@@ -1,1 +1,0 @@
-[[Treu]], [[standhaft]], [[unzuverlässig]], [[zuverlässig]]

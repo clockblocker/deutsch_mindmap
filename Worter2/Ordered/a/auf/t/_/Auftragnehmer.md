@@ -1,3 +1,0 @@
-, [[Aufträgen]]
-, [[Auftrag]]
-, [[Auftragslage]], [[Auftraggeber]]

@@ -1,1 +1,0 @@
-, [[Worter/G/Gesundheit]], [[verkörpern]]

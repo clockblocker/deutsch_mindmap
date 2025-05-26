@@ -1,1 +1,0 @@
-, [[Tragödie]], [[Analogie]]

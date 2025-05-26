@@ -1,2 +1,0 @@
-
-🔵 der [[Arbeitsauftrag]] 📝

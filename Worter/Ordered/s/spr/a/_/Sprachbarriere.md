@@ -1,0 +1,2 @@
+
+, [[Sprachschatz]], [[Kommunikationsstärke]]

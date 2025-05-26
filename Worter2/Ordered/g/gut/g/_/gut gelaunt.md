@@ -1,2 +1,0 @@
-, [[fröhlich]]
-, [[launisch]], [[mürrisch]]

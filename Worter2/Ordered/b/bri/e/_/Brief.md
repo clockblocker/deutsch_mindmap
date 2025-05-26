@@ -1,1 +1,0 @@
-[[Brieffreunde]], [[Briefwahl]], [[Briefumschlag]], [[Briefgeheimnis]], [[Ansichtskarte]], [[Brieffreund]], [[Behördenkorrespondenz]], [[Briefanfang]], [[Abschiedsbrief]]

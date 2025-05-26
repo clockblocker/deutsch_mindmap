@@ -1,0 +1,2 @@
+🔴 die [[Räumlichkeit]] 🏢
+, [[Einkaufsbereich]], [[abgrenzen]]

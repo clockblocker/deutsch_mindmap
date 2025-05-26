@@ -1,1 +1,0 @@
-🪞 [[spiegeln]] + Akk, [ˈʃpiːɡl̩n], [[widerspiegeln]]

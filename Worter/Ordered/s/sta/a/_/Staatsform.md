@@ -1,0 +1,1 @@
+, [[Grundgesetz]], [[Fürstentum]], [[Verfassung]], [[Staatsoberhaupt]], [[Volkssouveränität]], [[Staat]]

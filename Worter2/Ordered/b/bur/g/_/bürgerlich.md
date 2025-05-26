@@ -1,1 +1,0 @@
-, [[Bürgerversammlung]], [[Bürgerei]], [[gesellschaftlich]], [[Bürgertum]]

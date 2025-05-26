@@ -1,2 +1,0 @@
-🔴 die [[Biene]] 🐝
-, [[fruchtbar]]

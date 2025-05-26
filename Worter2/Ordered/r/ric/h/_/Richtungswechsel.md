@@ -1,2 +1,0 @@
-, [[Richtungsänderung]]
-, [[Richtungsangabe]]

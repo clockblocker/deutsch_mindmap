@@ -1,1 +1,0 @@
-, [[Außenministerin]], [[Bundeskanzlerin]]

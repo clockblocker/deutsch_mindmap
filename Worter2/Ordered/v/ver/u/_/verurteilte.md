@@ -1,1 +1,0 @@
-[[verurteilen]], [[Verurteilung]]

@@ -1,0 +1,1 @@
+, [[beeindruckt]], [[neugierig]], [[staunend]], [[begeistert]], [[unbeteiligt]]

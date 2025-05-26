@@ -1,1 +1,0 @@
-, [[wagen]], [[Wahlniederlage]]

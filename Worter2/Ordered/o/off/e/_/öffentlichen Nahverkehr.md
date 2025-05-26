@@ -1,2 +1,0 @@
-[[ÖPNV]]
-🚌 [[öffentlichen Nahverkehr]]

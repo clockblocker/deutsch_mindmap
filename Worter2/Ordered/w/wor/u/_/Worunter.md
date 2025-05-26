@@ -1,1 +1,0 @@
-, [[Grammatik-Pronomen-Interrogative]]

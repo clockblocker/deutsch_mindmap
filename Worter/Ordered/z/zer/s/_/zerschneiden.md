@@ -1,0 +1,1 @@
+, [[reißen]], [[schneiden]], [[aufteilen]], [[rumhacken]]

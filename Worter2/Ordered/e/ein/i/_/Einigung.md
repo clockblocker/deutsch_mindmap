@@ -1,1 +1,0 @@
-, [[einigen]], [[Einigkeit]], [[Versöhnung]]

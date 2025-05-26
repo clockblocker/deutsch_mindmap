@@ -1,1 +1,0 @@
-, [[fehlen]], [[einfallen]], [[passieren]], [[geschehen]], [[vorkommen]], [[stattfinden]], [[auftreten]], [[ausfallen]], [[entfallen]], [[wegbleiben]]

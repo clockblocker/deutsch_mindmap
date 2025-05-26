@@ -1,0 +1,1 @@
+, [[während]], [[Konjunktoren]], [[Konnektivpartikeln]]

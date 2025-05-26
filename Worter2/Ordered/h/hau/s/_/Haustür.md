@@ -1,1 +1,0 @@
-, [[Haustür]], [[zugeworfen]], [[Haus]], [[Tür]]

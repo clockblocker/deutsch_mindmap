@@ -1,2 +1,0 @@
-[[verrückt]]
-, [[Verrückte]]

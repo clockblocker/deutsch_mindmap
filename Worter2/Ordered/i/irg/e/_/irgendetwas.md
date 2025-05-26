@@ -1,3 +1,0 @@
-[[irgend]][[etwas]]
-
- [[Indefinitpronomen]] , [[irgendwas]]

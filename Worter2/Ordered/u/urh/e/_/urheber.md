@@ -1,1 +1,0 @@
-, [[ursprünglich]], [[Hauptverursacher]]

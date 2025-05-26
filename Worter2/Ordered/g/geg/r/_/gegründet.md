@@ -1,2 +1,0 @@
-🏢 [[gründen]]  
-, [[Vorschlag]], [[Äußerung]]

@@ -1,2 +1,0 @@
-💪 [[unbändig]] | 🟢 das [[Unbändige]] 💪
-, [[Bedürfnis]]

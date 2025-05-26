@@ -1,0 +1,1 @@
+, [[Immobilienpreis]], [[Spotpreis]], [[Preisdiktat]]

@@ -1,1 +1,0 @@
-, [[Hals]], [[Landschaft]], [[Wohngegend]], [[Umgebung]], [[Gebiet]], [[s1 e1]], [[Viertel]], [[Umkreis]], [[Ort]], [[Stadtteil]]

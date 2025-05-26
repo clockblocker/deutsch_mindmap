@@ -1,2 +1,0 @@
-
-, [[Selbstwertgefühl]], [[Schweinehund]], [[Selbstwert]]

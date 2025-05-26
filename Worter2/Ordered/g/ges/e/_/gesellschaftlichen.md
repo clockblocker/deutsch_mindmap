@@ -1,1 +1,0 @@
-🤝 [[gesellschaftlich]] | 🟢 das [[Gesellschaftliche]] 🤝

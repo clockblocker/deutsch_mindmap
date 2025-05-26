@@ -1,1 +1,0 @@
-, [[Ecke]], [[rand]], [[Ufer]], [[Rahmen]], [[Winkel]]

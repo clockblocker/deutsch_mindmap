@@ -1,1 +1,0 @@
-, [[Gemütlichkeit]], [[behagen]]

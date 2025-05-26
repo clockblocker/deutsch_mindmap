@@ -1,1 +1,0 @@
-, [[kritisieren]], [[Produktrezension]], [[Rezension]]

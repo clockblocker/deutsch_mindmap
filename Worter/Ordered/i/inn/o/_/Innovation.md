@@ -1,0 +1,1 @@
+, [[Technologie]], [[Kreativität]], [[Neuzüchtung]], [[Weiterentwicklung]]

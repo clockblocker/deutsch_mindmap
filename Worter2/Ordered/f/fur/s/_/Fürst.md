@@ -1,1 +1,0 @@
-, [[Fürstentum]], [[Monarch]]

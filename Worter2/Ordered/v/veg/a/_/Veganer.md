@@ -1,3 +1,0 @@
-
-, [[Wurstessern]]
-, [[Vegetarier]]

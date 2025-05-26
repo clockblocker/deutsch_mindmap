@@ -1,0 +1,1 @@
+[[Worter/E/Energie]], [[Vorteil]], [[Schwäche]], [[Kraft]], [[Begabung]], [[Erfolgsfaktor]], [[Kommunikationsstärke]], [[stark]], [[stärken]], [[Dichte]], [[Lautstärke]], [[verstärken]], [[Widerstandsfähigkeit]], [[Resilienz]], [[Zerbrechlichkeit]]

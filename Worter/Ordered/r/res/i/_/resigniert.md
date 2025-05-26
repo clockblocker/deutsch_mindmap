@@ -1,0 +1,1 @@
+, [[enttäuscht]], [[frustriert]], [[deprimiert]]

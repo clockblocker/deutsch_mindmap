@@ -1,2 +1,0 @@
-, [[Freund]], [[Kumpel]]
-, [[Begleiter]], [[Partner]]

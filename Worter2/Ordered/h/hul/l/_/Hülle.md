@@ -1,1 +1,0 @@
-[[Schale]], [[Um­schlag]], [[Verpackung]]

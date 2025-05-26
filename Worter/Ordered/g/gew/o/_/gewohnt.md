@@ -1,0 +1,2 @@
+Inf: [[wohnen]]
+, [[gewöhnen]], [[gewöhnlich]]

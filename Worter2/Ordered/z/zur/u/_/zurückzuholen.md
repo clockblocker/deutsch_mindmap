@@ -1,1 +1,0 @@
-🔙 [[zurückholen]], [ˈtsuˌʁʏkkˈhoːlən] | [[holte zurück]], haben [[zurückgeholt]]

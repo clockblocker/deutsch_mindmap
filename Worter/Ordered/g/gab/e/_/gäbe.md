@@ -1,0 +1,2 @@
+[[geben]]
+[[gang und gäbe]]

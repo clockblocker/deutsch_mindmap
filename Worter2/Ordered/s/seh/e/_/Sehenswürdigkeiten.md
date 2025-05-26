@@ -1,2 +1,0 @@
-, [[wechselvoll]]
-[[Sehenswürdigkeit]]

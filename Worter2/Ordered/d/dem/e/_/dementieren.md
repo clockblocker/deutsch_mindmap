@@ -1,1 +1,0 @@
-, [[behaupten]], [[leugnen]], [[stätigen]]

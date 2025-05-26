@@ -1,0 +1,2 @@
+
+, [[verfügbar]], [[vorhanden]], [[existieren]]

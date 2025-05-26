@@ -1,1 +1,0 @@
-, [[Erfahrung]], [[Fachwissen]], [[Praxis]]

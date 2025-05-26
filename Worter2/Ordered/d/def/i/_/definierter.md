@@ -1,1 +1,0 @@
-✅ [[definieren]] | 😌 [[definiert]]

@@ -1,1 +1,0 @@
-, [[Verdienst]], [[Provision]], [[honorieren]]

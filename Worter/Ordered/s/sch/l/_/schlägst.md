@@ -1,0 +1,2 @@
+👊 [[schlagen]]
+, [[niederschlagen]], [[aufschlagen]]

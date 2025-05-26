@@ -1,1 +1,0 @@
-, [[facettenreich]], [[komplex]], [[hintergründig]], [[differenziert]]

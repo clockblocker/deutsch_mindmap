@@ -1,0 +1,1 @@
+, [[verderben]], [[zerstörten]], [[vernichten]], [[versauen]], [[verheeren]], [[zerrütten]]

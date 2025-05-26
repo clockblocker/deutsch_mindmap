@@ -1,0 +1,1 @@
+, [[näherkommen]], [[herankam]], [[zukommen]]

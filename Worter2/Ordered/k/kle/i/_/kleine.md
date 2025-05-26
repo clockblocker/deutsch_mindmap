@@ -1,2 +1,0 @@
-*Flexion* *Adjektiv* 🤏 [[klein]]
-

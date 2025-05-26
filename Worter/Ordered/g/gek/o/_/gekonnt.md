@@ -1,0 +1,2 @@
+Inf: [[können]]
+, [[gelungen]]

@@ -1,1 +1,0 @@
-, [[Neugier]], [[Lernbereitschaft]]

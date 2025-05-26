@@ -1,1 +1,0 @@
-, [[bald]], [[zögern]], [[entschlossen]], [[wagend]]

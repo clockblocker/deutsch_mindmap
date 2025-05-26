@@ -1,1 +1,0 @@
-, [[verziehen]], [[widerspiegeln]], [[klären]], [[prägen]], [[verdrehen]], [[verbiegen]], [[übersetzen]], [[verfälschen]]

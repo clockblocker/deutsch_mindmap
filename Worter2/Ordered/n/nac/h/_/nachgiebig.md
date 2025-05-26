@@ -1,1 +1,0 @@
-, [[streng]], [[steif]], [[weich]]

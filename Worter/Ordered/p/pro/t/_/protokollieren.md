@@ -1,0 +1,1 @@
+, [[aufschreiben]], [[verzeichnen]], [[festhalten]]

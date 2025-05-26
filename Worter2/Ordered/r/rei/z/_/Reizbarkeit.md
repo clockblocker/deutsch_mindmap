@@ -1,1 +1,0 @@
-, [[gereizt]], [[Reizüberflutung]]

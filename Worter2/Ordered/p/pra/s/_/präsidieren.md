@@ -1,1 +1,0 @@
-, [[vorsitzen]], [[Bundespräsident]]

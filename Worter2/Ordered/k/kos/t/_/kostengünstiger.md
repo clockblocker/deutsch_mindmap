@@ -1,1 +1,0 @@
-😊 [[kostengünstig]] | 😊 [[verbilligen]], [[Erkundung]]

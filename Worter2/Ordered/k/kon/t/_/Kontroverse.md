@@ -1,2 +1,0 @@
-, [[Konflikt]]
-, [[Wortgefecht]], [[kontrovers]], [[konträr]]

@@ -1,0 +1,2 @@
+
+, [[reumütig]], [[widerstandsfähig]]

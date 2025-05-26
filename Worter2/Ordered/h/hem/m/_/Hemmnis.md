@@ -1,1 +1,0 @@
-, [[Hindernis]], [[Hemmung]], [[hemmen]], [[Anreiz]], [[Nährboden]]

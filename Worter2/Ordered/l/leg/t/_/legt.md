@@ -1,2 +1,0 @@
-📍 [[legen]]  
-, [[festlegen]], [[belegen]]

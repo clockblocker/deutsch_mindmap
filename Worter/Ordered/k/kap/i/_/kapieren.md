@@ -1,0 +1,1 @@
+[[verstehen]], [[begreifen]]

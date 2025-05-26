@@ -1,0 +1,1 @@
+[[schön]], [[hässlich]]

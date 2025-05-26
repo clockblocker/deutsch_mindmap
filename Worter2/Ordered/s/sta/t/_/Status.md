@@ -1,1 +1,0 @@
-, [[Geltung]], [[Mitgliedschaft]], [[höherstellen]], [[Zustand]]

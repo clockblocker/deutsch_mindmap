@@ -1,0 +1,1 @@
+, [[vernetzt]], [[unabhängig]]

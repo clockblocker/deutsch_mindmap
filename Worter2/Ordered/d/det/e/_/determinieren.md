@@ -1,1 +1,0 @@
-, [[abhängen]], [[begrenzen]], [[bestimmen]]

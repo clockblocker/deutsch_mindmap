@@ -1,0 +1,1 @@
+🟢 📜 das [[Abkommen]], [ˈapˌkɔmən]

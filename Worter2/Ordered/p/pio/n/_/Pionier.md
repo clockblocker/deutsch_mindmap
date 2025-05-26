@@ -1,1 +1,0 @@
-, [[Abenteurer]], [[Gründungsmitglied]], [[Gründer]], [[Wegbereiter]]

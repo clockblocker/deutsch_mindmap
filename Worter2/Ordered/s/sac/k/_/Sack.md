@@ -1,1 +1,0 @@
-, [[Sackgasse]], [[Tüte]], [[Tasche]]

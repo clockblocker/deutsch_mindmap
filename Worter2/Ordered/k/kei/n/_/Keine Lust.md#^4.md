@@ -1,1 +1,0 @@
-, [[kauen]], [[verdauen]]

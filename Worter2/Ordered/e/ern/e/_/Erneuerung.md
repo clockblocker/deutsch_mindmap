@@ -1,1 +1,0 @@
-, [[Sanierung]], [[erneuerbar]], [[Neuanfang]], [[erneuern]], [[Reform]]

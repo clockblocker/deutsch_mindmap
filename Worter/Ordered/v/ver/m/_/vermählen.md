@@ -1,0 +1,1 @@
+, [[heiraten]], [[trauen]], [[antrauen]], [[verheiraten]], [[freien]]

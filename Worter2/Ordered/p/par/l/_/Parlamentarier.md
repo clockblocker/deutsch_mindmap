@@ -1,1 +1,0 @@
-, [[Abgeordnete]], [[Bundespräsident]], [[Bundestagsabgeordnete]]

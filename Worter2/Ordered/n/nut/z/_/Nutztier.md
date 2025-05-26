@@ -1,1 +1,0 @@
-, [[Esel]], [[Schädling]]

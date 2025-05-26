@@ -1,1 +1,0 @@
-, [[Förderband]], [[Förderung]], [[Fördermittel]], [[Förderbetrag]]

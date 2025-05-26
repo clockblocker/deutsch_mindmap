@@ -1,1 +1,0 @@
-, [[Nahrung]], [[Nahrungsergänzungsmittel]], [[Küchengut]]

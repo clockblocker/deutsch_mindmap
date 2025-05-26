@@ -1,0 +1,2 @@
+😊 [[Lächeln]]
+, [[bedanken]], [[Entscheidung]]

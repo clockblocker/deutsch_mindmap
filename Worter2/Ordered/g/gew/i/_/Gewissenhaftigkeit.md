@@ -1,2 +1,0 @@
-, [[Treue]], [[Verantwortungsbewusstsein]]
-, [[Sorgfalt]], [[Nachlässigkeit]]

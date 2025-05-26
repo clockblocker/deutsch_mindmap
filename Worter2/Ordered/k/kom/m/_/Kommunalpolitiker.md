@@ -1,1 +1,0 @@
-, [[Stadtoberhaupt]], [[Stadträte]]

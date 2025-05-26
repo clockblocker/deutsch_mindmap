@@ -1,1 +1,0 @@
-😊 [[charmant]] | 🟢 das [[Charmante]] 😊

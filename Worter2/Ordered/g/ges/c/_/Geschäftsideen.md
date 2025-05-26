@@ -1,1 +1,0 @@
-💡 🔴 die [[Geschäftsidee]], [ɡəˈʃɛftsideː]

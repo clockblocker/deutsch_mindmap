@@ -1,0 +1,1 @@
+[[Segen]], [[Vergebung]], [[Barmherzigen]], [[Erbarmen]]

@@ -1,1 +1,0 @@
-, [[Regen]], [[trocken]], [[Saft]], [[Monsun]], [[Schmelzwasser]], [[Flut]]

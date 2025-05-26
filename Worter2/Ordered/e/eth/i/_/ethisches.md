@@ -1,1 +1,0 @@
-😇 [[ethisch]] | 🟢 das [[Ethische]] 😇

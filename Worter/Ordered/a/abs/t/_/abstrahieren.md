@@ -1,0 +1,1 @@
+, [[ableiten]], [[Abstraktionsvermögen]], [[Abstraktionsgehalt]], [[abstrakt]]

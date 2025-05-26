@@ -1,1 +1,0 @@
-, [[fein]], [[wohlgeformt]], [[schlank]]

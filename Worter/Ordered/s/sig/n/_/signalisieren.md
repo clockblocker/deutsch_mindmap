@@ -1,0 +1,1 @@
+[[bedeuten]], [[nicken]], [[anzeigen]], [[funkten]], [[winken]], [[hindeuten]]

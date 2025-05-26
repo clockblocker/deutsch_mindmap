@@ -1,1 +1,0 @@
-, [[Grundlage]], [[Basiswert]]

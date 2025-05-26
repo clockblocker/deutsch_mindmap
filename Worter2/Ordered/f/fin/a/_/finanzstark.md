@@ -1,1 +1,0 @@
-, [[Zahlungskräftig]], [[wohlhabend]]

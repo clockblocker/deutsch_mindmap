@@ -1,0 +1,1 @@
+, [[gleichen]], [[ähnlich]]

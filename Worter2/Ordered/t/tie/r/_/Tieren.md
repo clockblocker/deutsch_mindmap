@@ -1,1 +1,0 @@
-, [[Tier]], [[repräsentieren]], [[existieren]]

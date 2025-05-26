@@ -1,1 +1,0 @@
-💡 [[anregen]] | 🔴 die [[Anregung]] 💡

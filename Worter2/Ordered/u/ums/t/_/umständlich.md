@@ -1,1 +1,0 @@
-, [[Umstand]], [[umgehen]], [[direkt]], [[zeitsparend]], [[geradezu]]

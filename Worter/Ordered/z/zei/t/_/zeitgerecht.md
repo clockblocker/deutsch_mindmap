@@ -1,0 +1,1 @@
+, [[rechtzeitig]], [[zeitgemäß]], [[terminlich]]

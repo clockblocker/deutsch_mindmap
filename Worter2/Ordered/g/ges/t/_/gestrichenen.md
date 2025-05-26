@@ -1,1 +1,0 @@
-✂️ [[streichen]] | 🖌️ [[gestrichen]]

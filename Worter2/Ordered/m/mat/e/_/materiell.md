@@ -1,2 +1,0 @@
-, [[geistig]]
-, [[innerlich]]

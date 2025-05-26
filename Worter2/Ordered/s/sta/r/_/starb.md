@@ -1,2 +1,0 @@
-Inf: [[sterben]]
-, [[erben]]

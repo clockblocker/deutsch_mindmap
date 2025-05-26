@@ -1,1 +1,0 @@
-, [[Laune]], [[Stimmung]]

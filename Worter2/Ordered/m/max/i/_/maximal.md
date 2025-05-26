@@ -1,1 +1,0 @@
-, [[wenigstens]], [[mindest]], [[bis zu]], [[Spätestens]], [[größtmöglich]], [[höchstmögliche]]

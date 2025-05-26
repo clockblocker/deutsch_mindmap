@@ -1,1 +1,0 @@
-, [[Leitung]], [[Strom]], [[Stromanschluss]]

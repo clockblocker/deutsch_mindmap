@@ -1,0 +1,2 @@
+, [[bewusst]], [[aufmerksam]], [[vorsichtig]]
+, [[nachdenklich]]

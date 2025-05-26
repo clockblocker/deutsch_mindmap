@@ -1,1 +1,0 @@
-, [[merkwürdige]], [[geheimnisvolle]]

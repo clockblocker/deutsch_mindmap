@@ -1,0 +1,2 @@
+--> 🧩 [[Grad-Wahrheit]] <--
+, [[zweideutig]], [[klar]]

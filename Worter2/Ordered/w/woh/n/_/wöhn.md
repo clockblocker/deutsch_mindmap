@@ -1,2 +1,0 @@
-, [[ungewöhnlich]]
-, [[gewöhnen]]

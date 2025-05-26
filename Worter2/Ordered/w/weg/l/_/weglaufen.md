@@ -1,1 +1,0 @@
-, [[ausreißen]], [[hinterherlaufen]], [[zurennen]], [[fliehen]]

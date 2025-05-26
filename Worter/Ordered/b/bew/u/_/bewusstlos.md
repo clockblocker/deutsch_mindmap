@@ -1,0 +1,2 @@
+, [[bewusst]], [[Verantwortungsbewusstsein]], [[Bewusstsein]]
+, [[selbstbewusst]]

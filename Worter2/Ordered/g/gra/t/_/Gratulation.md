@@ -1,1 +1,0 @@
-, [[Glückwunsch]], [[gratulieren]]

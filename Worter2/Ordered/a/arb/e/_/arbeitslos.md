@@ -1,1 +1,0 @@
-, [[tätig]], [[Arbeitsamt]], [[erwerbstätig]], [[Arbeitslosenversicherung]], [[arbeitsunfähig]], [[Arbeitsbedingungen]], [[berufstätig]], [[Erwerb]], [[Arbeitslosengeld]]

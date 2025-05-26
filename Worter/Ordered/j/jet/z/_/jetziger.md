@@ -1,0 +1,1 @@
+, [[ehemalige]], [[heutig]], [[jetzig]], [[regierend]]

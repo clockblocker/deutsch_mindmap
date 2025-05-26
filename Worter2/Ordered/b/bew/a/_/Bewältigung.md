@@ -1,1 +1,0 @@
-, [[bewältigen]], [[Überbrückung]], [[Wältigen]]

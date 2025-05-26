@@ -1,0 +1,1 @@
+, [[Praktikabilität]], [[Finanzierbarkeit]], [[machbar]]

@@ -1,1 +1,0 @@
-, [[Kraft]], [[stätigen]]

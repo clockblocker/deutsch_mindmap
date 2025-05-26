@@ -1,0 +1,2 @@
+
+, [[vermeiden]], [[unumgänglich]], [[zwangsläufig]]

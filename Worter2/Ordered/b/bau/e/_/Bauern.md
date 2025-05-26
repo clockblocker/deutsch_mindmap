@@ -1,3 +1,0 @@
-, [[Tannhäuser]], [[Bauernhof]]
-
-👨‍🌾 [[bauen]] | 👨‍🌾 [[Bauer]]

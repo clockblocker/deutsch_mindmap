@@ -1,1 +1,0 @@
-, [[dienen]], [[unterstützen]], [[beistehen]], [[helfen]], [[weiterhelfen]]

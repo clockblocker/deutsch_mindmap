@@ -1,1 +1,0 @@
-, [[mindestens]], [[Tageshöchstwert]]

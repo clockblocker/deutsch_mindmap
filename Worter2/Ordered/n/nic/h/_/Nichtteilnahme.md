@@ -1,3 +1,0 @@
---> [[Ingredinet-Action-Nomen]] <--
-
----

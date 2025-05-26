@@ -1,1 +1,0 @@
-, [[dunkel]], [[transparent]]

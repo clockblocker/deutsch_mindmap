@@ -1,1 +1,0 @@
-, [[betrieblich]], [[Industrienation]], [[Industriestaat]]

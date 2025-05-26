@@ -1,1 +1,0 @@
-, [[Antworten]], [[Passant]], [[Verantwortungsbewusstsein]]

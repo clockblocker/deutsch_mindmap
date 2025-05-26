@@ -1,1 +1,0 @@
-, [[Hitzewelle]], [[Monsun]]

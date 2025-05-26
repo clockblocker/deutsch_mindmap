@@ -1,1 +1,0 @@
-, [[Geltung]], [[Metallrüstung]]

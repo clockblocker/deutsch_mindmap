@@ -1,0 +1,1 @@
+, [[nett]], [[bös]], [[garstig]], [[ruppig]], [[charmant]]

@@ -1,2 +1,0 @@
-, [[friedlich]]
-, [[Kriegsausbruch]]

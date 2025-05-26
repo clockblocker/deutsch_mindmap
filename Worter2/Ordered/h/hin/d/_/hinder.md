@@ -1,1 +1,0 @@
-, [[Behinderung]], [[behindern]], [[verhindern]]

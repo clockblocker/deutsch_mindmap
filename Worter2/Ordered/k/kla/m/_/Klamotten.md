@@ -1,1 +1,0 @@
-BOTH: Aber seine [[Klamotten]]!

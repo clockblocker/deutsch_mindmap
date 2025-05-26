@@ -1,1 +1,0 @@
-, [[danken]], [[bedanken]]

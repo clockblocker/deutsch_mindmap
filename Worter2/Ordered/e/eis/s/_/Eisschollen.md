@@ -1,1 +1,0 @@
-die [[Eisscholle]], [ˈaɪ̯sʃɔlən], [[s1 e1]]

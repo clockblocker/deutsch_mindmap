@@ -1,1 +1,0 @@
-🔄 [[wechseln]] + Akk/Dat, [ˈvɛkslən], [[s1 e1]]

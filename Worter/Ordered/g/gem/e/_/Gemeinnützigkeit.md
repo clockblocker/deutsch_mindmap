@@ -1,0 +1,1 @@
+, [[gemeinnützig]], [[Gewinnorientierung]]

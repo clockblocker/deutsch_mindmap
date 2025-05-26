@@ -1,0 +1,2 @@
+, [[hauptsächlich]], [[mehrheitlich]]
+, [[überwiegend]], [[vorrangig]]

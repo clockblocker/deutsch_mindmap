@@ -1,1 +1,0 @@
-[[Ruhe]], [[Gesetz]], [[Verfahren]], [[Reihe]], [[Verwaltung]], [[Auflistung]], [[Verwaltungsaufbau]], [[Verfügung]], [[Satzklammer]], [[Datenbank]], [[Hierarchie]], [[Unternehmenskultur]], [[Situation]], [[Arbeitskonzept]], [[Regelung]], [[System]], [[Vorgehensweise]], [[Staat]], [[Bauplan]], [[Erzählstruktur]], [[Wirrung]], [[Gerüst]]

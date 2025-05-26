@@ -1,1 +1,0 @@
-, [[kündigen]], [[Kündigungsfrist]]

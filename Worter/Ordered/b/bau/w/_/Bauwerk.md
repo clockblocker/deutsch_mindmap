@@ -1,0 +1,1 @@
+, [[Turm]], [[Gebäude]], [[Schulgebäude]], [[Bauart]], [[Sehenswürdigkeit]]

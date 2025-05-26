@@ -1,1 +1,0 @@
-, [[vorhersagen]], [[sagen]], [[erzählen]], [[ausdrücken]], [[anzeigen]], [[gestehen]]

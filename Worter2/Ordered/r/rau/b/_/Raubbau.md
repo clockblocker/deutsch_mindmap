@@ -1,1 +1,0 @@
-, [[Verschwendung]], [[Überbewirtschaftung]]

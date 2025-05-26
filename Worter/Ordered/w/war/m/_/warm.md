@@ -1,0 +1,1 @@
+[[Kühl]], [[frisch]], [[warmen]], [[heiß]], [[eiskaltem]], [[gemütlich]], [[Warmmiete]], [[wärmen]]

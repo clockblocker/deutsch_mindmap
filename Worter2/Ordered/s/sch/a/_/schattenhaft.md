@@ -1,1 +1,0 @@
-, [[leuchtender]], [[blass]]

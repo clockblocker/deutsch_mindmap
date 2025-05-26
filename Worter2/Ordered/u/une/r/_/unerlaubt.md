@@ -1,1 +1,0 @@
-, [[verboten]], [[erlaubt]], [[erlauben]], [[unzulässig]]

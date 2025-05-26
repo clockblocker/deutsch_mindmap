@@ -1,0 +1,1 @@
+, [[entscheiden]], [[Texte/Misc/Anki]]

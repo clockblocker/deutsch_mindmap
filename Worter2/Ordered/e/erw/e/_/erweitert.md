@@ -1,1 +1,0 @@
-, [[verkürzt]], [[erweitern]]

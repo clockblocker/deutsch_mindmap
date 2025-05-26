@@ -1,1 +1,0 @@
-, [[doof]], [[Kräutervielfalt]], [[Vielfalt]]

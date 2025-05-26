@@ -1,1 +1,0 @@
-, [[Barmherzigen]], [[Erbarmen]], [[unerbittlich]]

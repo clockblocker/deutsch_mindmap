@@ -1,0 +1,1 @@
+[[verändern]], [[umwandeln]], [[übertragen]], [[verkleiden]], [[um­schlagen]], [[verwandeln]], [[umsetzen]]

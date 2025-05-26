@@ -1,1 +1,0 @@
-, [[Bewerber]], [[Anwärter]], [[Interesse]], [[Kunde]], [[Leser]]

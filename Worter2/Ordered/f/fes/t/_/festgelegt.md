@@ -1,1 +1,0 @@
-, [[festlegen]], [[Festlegung]], [[geregelt]]

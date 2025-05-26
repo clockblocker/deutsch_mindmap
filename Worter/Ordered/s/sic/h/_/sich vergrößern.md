@@ -1,0 +1,1 @@
+, [[wachsen]], [[zunehmen]], [[schrumpfen]]

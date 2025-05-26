@@ -1,1 +1,0 @@
-, [[vertreten]], [[vertretbar]], [[Vertreter]], [[Vertreterin]]

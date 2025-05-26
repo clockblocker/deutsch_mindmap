@@ -1,1 +1,0 @@
-, [[Straftat]], [[Gerechtigkeit]], [[Tugend]]

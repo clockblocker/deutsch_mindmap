@@ -1,1 +1,0 @@
-, [[erwerbstätig]], [[Rentner]]

@@ -1,0 +1,1 @@
+[[Indefinitpronomen]], [[manche]], [[mehrere]]

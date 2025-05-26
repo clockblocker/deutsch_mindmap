@@ -1,1 +1,0 @@
-🤔 [[ersinnlich]], [ɛɐ̯ˈzɪnlɪç], [[Linsen]]

@@ -1,1 +1,0 @@
-, [[Adler]], [[Wählerstimme]]n, [[Müller]], [[künstlerischer]], [[Muttersprachler]], [[Ausdauersportler]], [[Leistungssportler]], [[Spitzensportlerin]], [[Wissenschaftler]], [[Wirtschaftswissenschaftler]]

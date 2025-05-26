@@ -1,1 +1,0 @@
-, [[Wert]], [[bedeutend]], [[Bedeutung]], [[Relevanz]]

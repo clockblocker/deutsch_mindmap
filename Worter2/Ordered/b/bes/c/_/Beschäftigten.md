@@ -1,3 +1,0 @@
-, [[beschäftigen]], [[schäftigen]]
-
-[[Beschäftigte]]

@@ -1,1 +1,0 @@
-🦌 [[weihen]] | 🦌, [[geweihen]] | 🟢 🦌 das [[Geweih]]

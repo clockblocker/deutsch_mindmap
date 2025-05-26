@@ -1,2 +1,0 @@
-, [[verkürzen]]
-, [[rasieren]]

@@ -1,1 +1,0 @@
-, [[Metallteile]], [[Bestandteil]], [[Plastikteil]]

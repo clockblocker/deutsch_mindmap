@@ -1,1 +1,0 @@
-[[Mond]], [[Stern]], [[Sonne]]

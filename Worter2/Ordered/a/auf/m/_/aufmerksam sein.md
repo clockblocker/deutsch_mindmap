@@ -1,2 +1,0 @@
-, [[hinhören]], [[gähnen]], [[zuhören]]
-, [[aufpassen]]

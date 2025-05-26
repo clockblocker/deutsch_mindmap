@@ -1,1 +1,0 @@
-, [[Fahne]], [[Ahne]], [[Lohn]], [[Laune]]

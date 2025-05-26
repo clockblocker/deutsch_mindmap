@@ -1,1 +1,0 @@
-, [[Rechercheergebenis]], [[Zwischenergebnis]], [[Ergebnisorientierung]], [[Rechercheergebnis]]

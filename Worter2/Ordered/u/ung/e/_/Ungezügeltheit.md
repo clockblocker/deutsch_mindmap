@@ -1,1 +1,0 @@
-, [[Zügel]], [[Disziplin]]

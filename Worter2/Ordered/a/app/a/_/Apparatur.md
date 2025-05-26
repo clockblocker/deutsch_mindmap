@@ -1,3 +1,0 @@
---> [[⛪ Ingredient-Plazt]] <--
-
-, [[Einrichtung]]

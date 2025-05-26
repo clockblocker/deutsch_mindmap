@@ -1,0 +1,1 @@
+, [[ersinnlich]], [[gewöhnlich]], [[üblich]], [[künstlerischer]]

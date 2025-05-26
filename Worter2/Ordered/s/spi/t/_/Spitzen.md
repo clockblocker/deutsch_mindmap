@@ -1,2 +1,0 @@
-🔴 die [[Spitze]]
-, [[Spitzenposition]], [[Spitzensportlerin]]

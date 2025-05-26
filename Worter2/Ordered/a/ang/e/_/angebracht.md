@@ -1,3 +1,0 @@
-[[anbringen]]
-
-[[Rechercheergebnisse]]

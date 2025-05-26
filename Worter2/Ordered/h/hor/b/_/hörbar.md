@@ -1,2 +1,0 @@
-, [[laut]], [[zuhören]], [[hören]]
-, [[stumm]]

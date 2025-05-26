@@ -1,1 +1,0 @@
-, [[entmutigt]], [[künstlerischer]]

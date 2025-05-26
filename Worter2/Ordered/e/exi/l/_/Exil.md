@@ -1,1 +1,0 @@
-, [[verbannen]], [[verbannt]], [[Heimatstadt]]

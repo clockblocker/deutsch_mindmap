@@ -1,2 +1,0 @@
-
-, [[Vorbild]], [[Motivation]], [[Anregung]]

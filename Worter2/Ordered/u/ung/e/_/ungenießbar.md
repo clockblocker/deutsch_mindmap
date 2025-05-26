@@ -1,1 +1,0 @@
-[[köstlich]], [[genießbar]], [[Worter/essbar]]

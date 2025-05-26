@@ -1,0 +1,1 @@
+, [[Schnell]], [[Tempo]], [[Geschwindigkeit]], [[Eile]]

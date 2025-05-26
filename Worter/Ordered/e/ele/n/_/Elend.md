@@ -1,0 +1,1 @@
+[[Unglück]], [[Not]], [[Armut]], [[Wohlstand]], [[Wohlergehen]]

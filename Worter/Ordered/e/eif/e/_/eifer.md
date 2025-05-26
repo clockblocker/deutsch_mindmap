@@ -1,0 +1,1 @@
+, [[eifersüchtig]], [[Tatendrang]], [[Faulheit]], [[Drang]]

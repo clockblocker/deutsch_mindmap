@@ -1,1 +1,0 @@
-[[Spur]], [[Druck]], [[Fußabdruck]]

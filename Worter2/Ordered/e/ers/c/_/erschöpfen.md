@@ -1,2 +1,0 @@
-
-, [[Erschöpfung]], [[auszehren]]

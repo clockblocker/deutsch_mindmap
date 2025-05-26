@@ -1,1 +1,0 @@
-, [[wertvoll]], [[nutzlos]], [[angelegen]], [[bedeutend]], [[Bedeutungslosigkeit]]

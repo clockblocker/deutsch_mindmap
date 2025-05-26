@@ -1,3 +1,0 @@
-🔴 die [[Handhabung]] 🛠️
-
-#Plural 

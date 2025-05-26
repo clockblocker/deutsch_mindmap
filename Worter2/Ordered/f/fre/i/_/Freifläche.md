@@ -1,2 +1,0 @@
-, [[Pausenhof]]
-, [[Werksgelände]], [[Bürofläche]], [[Räumlichkeit]]

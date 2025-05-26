@@ -1,1 +1,0 @@
-, [[knall]], [[schallen]], [[schallgeschützt]]

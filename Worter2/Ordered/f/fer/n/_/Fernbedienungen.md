@@ -1,1 +1,0 @@
-Singular: die [[Fernbedienung]]

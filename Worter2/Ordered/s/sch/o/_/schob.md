@@ -1,1 +1,0 @@
- [[schieben]], [ˈʃiːbn̩], [[Schubst]]

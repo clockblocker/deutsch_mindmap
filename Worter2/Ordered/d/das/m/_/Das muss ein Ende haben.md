@@ -1,1 +1,0 @@
-Das [[muss]] ein [[Ende]] haben .

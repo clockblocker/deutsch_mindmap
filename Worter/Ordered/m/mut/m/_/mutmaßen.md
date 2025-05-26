@@ -1,0 +1,1 @@
+, [[raten]], [[vermuten]], [[ahnen]], [[entmutigt]]

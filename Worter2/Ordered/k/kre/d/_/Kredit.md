@@ -1,1 +1,0 @@
-, [[Konto]], [[Abrechnung]], [[Zins]], [[Immobilienfinanzierung]]

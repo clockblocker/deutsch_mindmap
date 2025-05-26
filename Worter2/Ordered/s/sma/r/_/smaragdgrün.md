@@ -1,1 +1,0 @@
-, [[grasgrün]], [[smaragdgrüner]]

@@ -1,0 +1,1 @@
+, [[frieren]], [[zufrieren]], [[erfrieren]], [[Eisgebilde]], [[schmelzen]], [[Gefrierknall]]

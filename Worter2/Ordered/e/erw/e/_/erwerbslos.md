@@ -1,1 +1,0 @@
-, [[berufstätig]], [[Erwerb]]

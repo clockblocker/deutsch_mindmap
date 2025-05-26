@@ -1,1 +1,0 @@
-, [[leicht]], [[Einkaufsbereich]], [[abgrenzen]]

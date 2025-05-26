@@ -1,0 +1,1 @@
+, [[bestimmt]], [[ausweichend]], [[bestimmen]], [[nämlich]], [[speziell]], [[gemessen]]

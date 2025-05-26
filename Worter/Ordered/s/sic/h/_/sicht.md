@@ -1,0 +1,2 @@
+, [[offensichtlich]], [[Absicht]], [[absichtlich]], [[berücksichtigen]], [[vorsichtig]]
+, [[beabsichtigen]], [[Ausblick]], [[Hinsicht]], [[Rücksicht]], [[Sichtverhältnis]], [[sichtbar]], [[ersichtlich]], [[Sichtweise]], [[Zuversicht]]

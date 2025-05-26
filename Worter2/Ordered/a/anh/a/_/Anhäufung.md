@@ -1,1 +1,0 @@
-, [[Ansammlung]], [[anhäufen]], [[Stapel]]

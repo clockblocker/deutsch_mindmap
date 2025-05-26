@@ -1,0 +1,1 @@
+, [[nachdenken]], [[überlegen]], [[Zweifel]]

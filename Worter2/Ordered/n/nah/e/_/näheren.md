@@ -1,2 +1,0 @@
-[[nächste]]
-, [[nah]], [[übernächste]]

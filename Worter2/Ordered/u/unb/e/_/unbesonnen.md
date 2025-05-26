@@ -1,1 +1,0 @@
-, [[leichtsinnig]], [[überstürzen]]

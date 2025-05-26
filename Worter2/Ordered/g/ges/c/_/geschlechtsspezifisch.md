@@ -1,1 +1,0 @@
-, [[geschlechtsabhängig]], [[weiblich]]

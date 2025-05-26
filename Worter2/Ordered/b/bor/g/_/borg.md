@@ -1,2 +1,0 @@
-💰 [[borgen]]
-, [[Geborgenheit]], [[bergen]]

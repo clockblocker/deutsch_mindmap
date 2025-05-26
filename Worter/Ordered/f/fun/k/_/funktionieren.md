@@ -1,0 +1,1 @@
+, [[wirken]], [[gelingen]], [[gutgehen]], [[klappen]], [[passen]], [[ticken]], [[bestehen]], [[ausfallen]], [[kollabieren]], [[existieren]], [[Systemabsturz]], [[agieren]], [[taugen]], [[in Gang kommen]], [[Funktionsweise]]

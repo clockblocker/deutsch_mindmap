@@ -1,3 +1,0 @@
-, [[Kohlekraftwerk]]
-
-#Neuter 

@@ -1,1 +1,0 @@
-, [[Verharmlosung]], [[relativierend]]

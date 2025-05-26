@@ -1,1 +1,0 @@
-, [[Einigkeit]], [[Gerechtigkeit]], [[Übergewichtigkeit]]

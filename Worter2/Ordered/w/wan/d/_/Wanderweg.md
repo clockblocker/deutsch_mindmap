@@ -1,1 +1,0 @@
-, [[wandern]], [[Küstenwanderweg]], [[Fußwanderung]]

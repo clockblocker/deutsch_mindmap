@@ -1,1 +1,0 @@
-, [[beleidigen]], [[beschimpfen]], [[schmähen]], [[Verruf]]

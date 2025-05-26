@@ -1,1 +1,0 @@
-, [[gierig]], [[Sozial]], [[wohltätig]], [[aufopfernd]], [[hilfsbereit]], [[Individualistisch]], [[kollektivistisch]]

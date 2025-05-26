@@ -1,1 +1,0 @@
-, [[Gleichgewicht]], [[Einklang]]

@@ -1,2 +1,0 @@
-, [[obendrein]], [[unter]]
-, [[nachfolgend]], [[unterhalb]]

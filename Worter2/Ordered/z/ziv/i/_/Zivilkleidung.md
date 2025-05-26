@@ -1,1 +1,0 @@
-, [[Kriegsbemalung]], [[Metallrüstung]]

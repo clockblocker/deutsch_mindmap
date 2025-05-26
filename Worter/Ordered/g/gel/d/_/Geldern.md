@@ -1,0 +1,1 @@
+, [[Worter/G/Geld]], [[Spendengeldern]]

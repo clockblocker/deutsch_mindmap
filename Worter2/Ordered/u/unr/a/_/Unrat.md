@@ -1,1 +1,0 @@
-, [[Mist]], [[Dreck]], [[Edelsteine]], [[Abfall]], [[Unterwasserabfall]]

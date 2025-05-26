@@ -1,1 +1,0 @@
-, [[schriftlich]], [[mündlich]]

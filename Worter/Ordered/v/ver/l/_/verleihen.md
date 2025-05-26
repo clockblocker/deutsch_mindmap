@@ -1,0 +1,1 @@
+, [[leihen]], [[schenken]], [[erben]], [[borgen]]

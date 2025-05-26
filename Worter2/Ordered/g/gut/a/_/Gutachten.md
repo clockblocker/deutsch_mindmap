@@ -1,1 +1,0 @@
-, [[Ratschlag]], [[Rat]], [[Universitätsempfehlung]]

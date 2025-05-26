@@ -1,0 +1,2 @@
+👊 [[schlagen]]
+, [[wegshlagen]], [[niederschlagen]]

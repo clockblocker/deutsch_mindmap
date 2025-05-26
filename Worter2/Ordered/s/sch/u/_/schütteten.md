@@ -1,2 +1,0 @@
-, [[antun]]
-🚿 [[schütten]] | 🤝 [[schütteln]], [[Linsen]]

@@ -1,2 +1,0 @@
-, [[gehen]]
-, [[entlanggehen]], [[Spaziergang]], [[wandern]]

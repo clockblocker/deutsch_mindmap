@@ -1,1 +1,0 @@
-, [[Hälfte]], [[tausendfachen]], [[halber]]

@@ -1,1 +1,0 @@
-🍎 [[zusammenschrumpfen]] | 🍎 [[schrumpfen]]

@@ -1,1 +1,0 @@
-, [[Leben]], [[Lebzeiten]], [[daß]], [[bestehen]], [[Abwesenheit]], [[Präsenz]], [[dastehen]]

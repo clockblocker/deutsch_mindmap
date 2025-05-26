@@ -1,1 +1,0 @@
-, [[Strenge]], [[Zugeständnis]]

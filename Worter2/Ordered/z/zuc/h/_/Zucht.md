@@ -1,1 +1,0 @@
-, [[züchten]], [[wegzüchten]], [[Disziplin]]

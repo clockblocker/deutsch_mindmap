@@ -1,0 +1,1 @@
+, [[erwidern]], [[widern]], [[widrig]]

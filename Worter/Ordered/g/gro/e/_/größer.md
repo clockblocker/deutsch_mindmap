@@ -1,0 +1,1 @@
+#Adjective [[Groß]], [[Weniger]]

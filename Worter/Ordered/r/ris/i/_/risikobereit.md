@@ -1,0 +1,1 @@
+, [[unternehmerisch]], [[risikoreich]]

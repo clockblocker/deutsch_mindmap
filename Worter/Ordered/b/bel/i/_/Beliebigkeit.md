@@ -1,0 +1,1 @@
+, [[Richtlinie]], [[Verpflichtung]], [[Bedingung]], [[Notwendigkeit]]

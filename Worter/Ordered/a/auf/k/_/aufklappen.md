@@ -1,0 +1,2 @@
+, [[auseinanderklapfen]]
+, [[aufmachen]], [[aufschlagen]]

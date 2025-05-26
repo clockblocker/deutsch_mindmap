@@ -1,1 +1,0 @@
-, [[verwirrt]], [[wuschelig]], [[Wirrung]]

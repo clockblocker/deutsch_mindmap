@@ -1,0 +1,2 @@
+, [[Merkmal]], [[kennzeichnen]]
+, [[Char]]

@@ -1,1 +1,0 @@
-, [[schimpfen]], [[beschimpfen]], [[Verruf]], [[Beschimpfung]]

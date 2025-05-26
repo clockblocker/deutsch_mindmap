@@ -1,0 +1,2 @@
+, [[Kümmer]], [[kümmern]]
+, [[bedrückt]], [[Betroffen]]

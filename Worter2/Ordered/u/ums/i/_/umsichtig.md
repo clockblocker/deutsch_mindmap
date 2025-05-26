@@ -1,1 +1,0 @@
-, [[leichtsinnig]], [[aufmerksam]], [[vorsichtig]], [[vernünftig]], [[verantwortungsbewusst]], [[abwägen]]

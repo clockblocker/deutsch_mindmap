@@ -1,1 +1,0 @@
-, [[knallen]], [[einschlagen]], [[aufschlagen]], [[Zuschlag]]

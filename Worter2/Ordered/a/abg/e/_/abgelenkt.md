@@ -1,3 +1,0 @@
-😵‍💫 [[ablenken]]
-w
-, [[Gelegenheit]]

@@ -1,1 +1,0 @@
-, [[betreten]], [[hinausgehen]]

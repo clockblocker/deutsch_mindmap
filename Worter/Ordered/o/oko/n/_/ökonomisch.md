@@ -1,0 +1,1 @@
+, [[finanziell]], [[wirtschaftlich]]

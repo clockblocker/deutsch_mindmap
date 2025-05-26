@@ -1,2 +1,0 @@
-, [[ernst]]
-, [[raustogig]]

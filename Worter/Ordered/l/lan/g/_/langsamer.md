@@ -1,0 +1,2 @@
+[[langsam]]
+#Adjective, [[bald]]

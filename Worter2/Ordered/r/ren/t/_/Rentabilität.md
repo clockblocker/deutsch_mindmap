@@ -1,1 +1,0 @@
-, [[Kosteneffizienz]], [[Finanzierbarkeit]], [[Gewinnorientierung]]

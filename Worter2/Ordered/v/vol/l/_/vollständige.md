@@ -1,1 +1,0 @@
-✅ [[vollenden]] | 😌 [[vollständig]]

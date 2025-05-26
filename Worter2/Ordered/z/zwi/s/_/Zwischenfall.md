@@ -1,1 +1,0 @@
-, [[Unfall]], [[Krise]]

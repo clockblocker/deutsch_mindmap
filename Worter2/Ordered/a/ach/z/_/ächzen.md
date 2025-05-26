@@ -1,1 +1,0 @@
-, [[seufzen]], [[stöhnen]], [[knarren]]

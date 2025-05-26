@@ -1,2 +1,0 @@
-, [[preußisch]]
-, [[althochdeutsch]]

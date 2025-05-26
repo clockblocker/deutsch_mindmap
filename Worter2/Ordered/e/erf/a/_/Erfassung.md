@@ -1,1 +1,0 @@
-, [[Aufnahme]], [[Zeiterfassung]], [[erfassen]], [[Messung]]

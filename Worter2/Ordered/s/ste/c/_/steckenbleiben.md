@@ -1,1 +1,0 @@
-, [[festsitzen]], [[gleiten]]

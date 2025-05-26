@@ -1,0 +1,2 @@
+💸 [[verschwenden]]
+, [[Verschwender]]

@@ -1,0 +1,1 @@
+, [[erwachsen]], [[volljährig]], [[minderjährig]]

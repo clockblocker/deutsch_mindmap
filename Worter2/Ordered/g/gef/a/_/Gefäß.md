@@ -1,1 +1,0 @@
-[[Schale]], [[Krug]], [[Topf]], [[Schüssel]], [[Eimer]], [[Teekanne]], [[Blutgefäß]]

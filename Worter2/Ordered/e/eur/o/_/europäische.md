@@ -1,1 +1,0 @@
-🌍 [[europäisch]] | 🌍 🔴 die [[Europäerin]], [[Worter/Religion]]

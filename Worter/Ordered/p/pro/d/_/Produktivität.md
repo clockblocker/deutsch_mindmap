@@ -1,0 +1,5 @@
+, [[Zeiträuber]], [[Ergebnisorientierung]]
+
+#Feminin 
+
+

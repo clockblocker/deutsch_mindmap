@@ -1,2 +1,0 @@
-, [[Passant]]
-[[vorübergehend]]

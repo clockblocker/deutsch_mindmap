@@ -1,1 +1,0 @@
-, [[Supermarkt]]

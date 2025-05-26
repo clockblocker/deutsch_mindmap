@@ -1,1 +1,0 @@
-, [[gewaltig]], [[unbegrenzt]], [[unzählbar]]

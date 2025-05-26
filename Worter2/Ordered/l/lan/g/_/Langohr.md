@@ -1,2 +1,0 @@
-, [[Hase]], [[Esel]]
-, [[Kaninchen]]

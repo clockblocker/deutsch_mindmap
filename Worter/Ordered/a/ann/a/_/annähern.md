@@ -1,0 +1,1 @@
+, [[abstoßen]], [[Nähe]], [[Annäherung]], [[fernhalten]], [[nähern]], [[näherkommen]]

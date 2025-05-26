@@ -1,1 +1,0 @@
-, [[begreifen]], [[nachvollziehbar]]

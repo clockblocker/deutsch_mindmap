@@ -1,2 +1,0 @@
-💵 [[zahlen]]  
-, [[unbezahlt]]

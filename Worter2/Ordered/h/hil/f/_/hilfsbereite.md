@@ -1,1 +1,0 @@
-😊 [[helfen]] | 😌 [[hilfsbereit]]

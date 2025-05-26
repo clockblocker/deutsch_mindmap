@@ -1,0 +1,1 @@
+, [[selbständig]], [[Freiheit]], [[Abhängigkeit]], [[Unabhängigkeit]]

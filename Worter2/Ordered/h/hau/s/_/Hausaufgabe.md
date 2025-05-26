@@ -1,1 +1,0 @@
-, [[Haus]], [[Lückentext]]

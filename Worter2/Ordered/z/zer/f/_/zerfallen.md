@@ -1,1 +1,0 @@
-[[scheiden]], [[zusammenbrechen]]

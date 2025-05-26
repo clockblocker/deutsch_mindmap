@@ -1,0 +1,2 @@
+, [[Gewehr]]
+, [[Schwert]]

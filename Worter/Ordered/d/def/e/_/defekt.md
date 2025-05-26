@@ -1,0 +1,2 @@
+, [[schadlos]]
+, [[fehlentwicklung]], [[Störung]], [[einsatzfähig]]

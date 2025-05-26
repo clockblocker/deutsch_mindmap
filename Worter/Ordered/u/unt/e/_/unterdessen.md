@@ -1,0 +1,1 @@
+, [[während]], [[inzwischen]], [[Währenddessen]], [[mittlerweile]], [[Konnektivpartikeln]]

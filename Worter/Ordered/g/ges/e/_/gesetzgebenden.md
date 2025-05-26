@@ -1,0 +1,1 @@
+🏛️ [[gesetzgebend]], [gəˈzɛtsˌɡeːbənt]

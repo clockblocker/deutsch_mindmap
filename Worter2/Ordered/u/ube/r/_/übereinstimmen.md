@@ -1,1 +1,0 @@
-, [[passen]], [[entsprechen]], [[stimmen]]

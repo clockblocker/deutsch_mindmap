@@ -1,2 +1,0 @@
-[[fremd]]
-, [[fernab]], [[Fremde]], [[ungewöhnlich]]

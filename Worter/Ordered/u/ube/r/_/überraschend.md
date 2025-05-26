@@ -1,0 +1,1 @@
+😲 [[überraschen]] | 😲 [[überraschend]]

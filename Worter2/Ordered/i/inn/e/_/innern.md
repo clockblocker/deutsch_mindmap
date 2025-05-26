@@ -1,2 +1,0 @@
-, [[erinnern]]
-, [[innerlich]]

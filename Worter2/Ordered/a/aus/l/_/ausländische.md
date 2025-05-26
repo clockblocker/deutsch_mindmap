@@ -1,1 +1,0 @@
-🌍 [[ausländisch]] | 🔴 die [[Ausländerin]] | 🔵 der [[Ausländer]]

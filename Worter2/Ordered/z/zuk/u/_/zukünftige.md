@@ -1,3 +1,0 @@
-🔮 [[zukünftig]]
-
-, [[übernächste]]

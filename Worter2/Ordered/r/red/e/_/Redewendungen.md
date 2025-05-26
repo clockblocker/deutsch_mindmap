@@ -1,2 +1,0 @@
-, [[Redewendung]]
-, [[Sprachschatz]]

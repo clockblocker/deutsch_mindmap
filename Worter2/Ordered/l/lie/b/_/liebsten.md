@@ -1,2 +1,0 @@
-, [[geeignet]]
-, [[gern]], [[unbeliebt]]

@@ -1,1 +1,0 @@
-🕰️ [[regierend]], [ʁeˈɡiːʁənt] ≠ [[opposition]]

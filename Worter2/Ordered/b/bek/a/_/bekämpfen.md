@@ -1,2 +1,0 @@
-, [[feinden]], [[Gegnern]]
-, [[umkämpfen]], [[entgegenwirken]]

@@ -1,1 +1,0 @@
-🕍 [[jüdisch]] | 🕍 🔴 die [[Jüdin]] | 🕍 🔴 die [[Jüdische]]

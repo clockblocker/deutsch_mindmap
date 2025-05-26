@@ -1,1 +1,0 @@
-, [[Gebetshaus]], [[Moschee]]

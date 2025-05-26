@@ -1,1 +1,0 @@
-, [[bemalen]], [[Hautfarbe]]

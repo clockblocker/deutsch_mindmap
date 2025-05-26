@@ -1,0 +1,1 @@
+, [[leichtsinnig]], [[vorsichtig]], [[sorgsam]], [[ungewogen]], [[rücksichtslos]]

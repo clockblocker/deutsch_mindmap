@@ -1,1 +1,0 @@
-, [[einsatzfähig]], [[Funktionsweise]]

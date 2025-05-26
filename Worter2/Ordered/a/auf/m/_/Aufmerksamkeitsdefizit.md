@@ -1,2 +1,0 @@
-, [[aufmerksam]]
-, [[Aufmerksamkeit]]

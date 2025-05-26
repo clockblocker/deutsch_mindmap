@@ -1,1 +1,0 @@
-🗣️ [[ansprechen]] | 🗣️ [[Worter/S/sprechen]]

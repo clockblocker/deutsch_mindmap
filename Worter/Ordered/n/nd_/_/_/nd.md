@@ -1,0 +1,1 @@
+, [[Flüsternd]], [[aufopfernd]]

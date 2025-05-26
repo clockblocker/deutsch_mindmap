@@ -1,0 +1,1 @@
+, [[Gleichgewicht]], [[Frieden]], [[Konflikt]], [[Einigkeit]], [[Trennungsjahr]], [[Aggression]], [[Konsens]], [[Einklang]], [[Vereinbarkeit]], [[Entgegensetzung]], [[Streiterei]], [[Spannungsverhältnis]]

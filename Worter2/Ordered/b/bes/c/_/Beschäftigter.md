@@ -1,1 +1,0 @@
-, [[beschäftigen]], [[schäftigen]], [[Arbeitnehmer]], [[Angestellte]], [[Niedriglohnkraft]]

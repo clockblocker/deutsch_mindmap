@@ -1,2 +1,0 @@
-, [[bezogen]]
-[[ausrichten]]

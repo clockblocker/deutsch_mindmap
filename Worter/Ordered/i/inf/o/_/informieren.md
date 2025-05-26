@@ -1,0 +1,1 @@
+, [[berichten]], [[melden]], [[anzeigen]], [[Berufsinformationszentrum]], [[beraten]], [[Benachrichtigung]], [[hinweisen]], [[Verbraucherzentrale]], [[Informationswert]], [[erkundigen]], [[verständigen]], [[Information]], [[warnen]]

@@ -1,0 +1,3 @@
+der [[Kunde]]
+
+clients, [[Kundenbewertung]]

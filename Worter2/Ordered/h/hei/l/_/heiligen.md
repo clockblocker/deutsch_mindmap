@@ -1,1 +1,0 @@
-, [[heilig]], [[Heiliger]], [[segnen]], [[weihen]]

@@ -1,1 +1,0 @@
-, [[Erwachsenenanfängergruppe]], [[Schulklasse]], [[Lerntyp]]

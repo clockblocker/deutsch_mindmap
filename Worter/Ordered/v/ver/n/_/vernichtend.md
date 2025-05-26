@@ -1,0 +1,1 @@
+, [[Vernichtung]], [[vernichten]]

@@ -1,2 +1,0 @@
-, [[Haus]]
-, [[Vermieter]], [[Hausverwaltung]]

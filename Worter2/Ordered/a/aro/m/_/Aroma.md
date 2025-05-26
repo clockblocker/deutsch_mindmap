@@ -1,1 +1,0 @@
-, [[Geschmack]], [[Duft]], [[Körpergeruch]], [[Riechsinn]]

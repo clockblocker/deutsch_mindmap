@@ -1,0 +1,1 @@
+, [[wild]], [[grob]], [[strukturell]], [[geregelt]], [[wahllos]]

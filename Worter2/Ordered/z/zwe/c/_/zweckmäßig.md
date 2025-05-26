@@ -1,1 +1,0 @@
-, [[bequem]], [[Nützliches]], [[effizient]], [[zielgerichtet]]

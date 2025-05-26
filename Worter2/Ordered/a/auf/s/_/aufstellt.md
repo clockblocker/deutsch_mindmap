@@ -1,1 +1,0 @@
-🚀 [[aufstellen]] | 🚀 [[aufstellen (verb)]] | 🔵 der [[Aufstellplatz]]

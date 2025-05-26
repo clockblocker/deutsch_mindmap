@@ -1,0 +1,1 @@
+[[Handel]], [[umtauschen]], [[austauschen]], [[Kauf]], [[Austausch]], [[Umtausch]]

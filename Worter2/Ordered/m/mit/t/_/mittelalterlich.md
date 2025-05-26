@@ -1,2 +1,0 @@
-, [[Reichskrone]]
-, [[althochdeutsch]], [[Mittelalter]]

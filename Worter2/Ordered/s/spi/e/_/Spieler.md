@@ -1,1 +1,0 @@
-, [[Vereinstrainer]], [[verspielen]], [[Spiel]], [[Zuschauer]]

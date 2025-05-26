@@ -1,1 +1,0 @@
-[[Waschen]], [[putzen]], [[verschmutzen]]

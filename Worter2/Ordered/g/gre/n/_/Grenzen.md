@@ -1,1 +1,0 @@
-, [[Grenze]], [[begrenzen]], [[begrenzt]], [[Grenz]], [[Ostgrenze]], [[abgrenzen]]

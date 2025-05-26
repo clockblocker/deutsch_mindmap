@@ -1,1 +1,0 @@
-, [[geben]], [[begabt]]

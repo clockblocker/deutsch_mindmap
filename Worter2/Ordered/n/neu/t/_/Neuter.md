@@ -1,1 +1,0 @@
-#Neuter , [[der]], [[derjenige]]

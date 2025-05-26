@@ -1,1 +1,0 @@
-🏛️ [[rechtlich]] | 🏛️ 🔵 der [[Rechtliche]], [[Vorschlag]], [[Äußerung]]

@@ -1,1 +1,0 @@
-, [[Konsens]], [[Kompromissvorschlag]], [[Zugeständnis]]

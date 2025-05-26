@@ -1,0 +1,1 @@
+[[Segen]], [[segnen]]

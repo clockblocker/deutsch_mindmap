@@ -1,1 +1,0 @@
-, [[blühen]], [[aussterben]]

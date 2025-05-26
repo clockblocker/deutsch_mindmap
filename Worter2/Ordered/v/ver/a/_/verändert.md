@@ -1,1 +1,0 @@
-[[verändern]], [[allmählich]], [[Auswirkung]], [[thematisieren]], [[unberührt]]

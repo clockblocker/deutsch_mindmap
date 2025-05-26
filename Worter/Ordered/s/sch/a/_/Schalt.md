@@ -1,0 +1,2 @@
+🔌 [[ausschalten]]
+, [[abschalten]], [[einschalten]], [[freischalten]]

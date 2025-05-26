@@ -1,1 +1,0 @@
-, [[Regierung]], [[Bundesregierung]], [[Abgeordnete]], [[Bundesverfassungsgericht]], [[Bundesversammlung]], [[Gesetzgeber]]

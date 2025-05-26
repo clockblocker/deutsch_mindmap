@@ -1,1 +1,0 @@
-, [[gegen]], [[wider]], [[unter]]

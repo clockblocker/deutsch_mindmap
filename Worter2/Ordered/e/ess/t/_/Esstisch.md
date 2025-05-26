@@ -1,1 +1,0 @@
-, [[Gemeinschaftstisch]], [[Tafel]]

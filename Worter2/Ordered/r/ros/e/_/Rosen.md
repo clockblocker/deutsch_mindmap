@@ -1,1 +1,0 @@
-, [[Rose]], [[Rosenrot]], [[Rosenmontag]]

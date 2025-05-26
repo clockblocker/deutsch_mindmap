@@ -1,0 +1,1 @@
+📢 [[schimpfen]] + auf Akk/über Akk, [ˈʃɪmpfn̩], [[Naturschützer]]

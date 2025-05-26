@@ -1,1 +1,0 @@
-, [[uralte]], [[jahrhundertealt]]

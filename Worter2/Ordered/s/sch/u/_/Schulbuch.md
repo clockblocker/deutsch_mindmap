@@ -1,2 +1,0 @@
-, [[Bildband]]
-, [[Schularbeit]]

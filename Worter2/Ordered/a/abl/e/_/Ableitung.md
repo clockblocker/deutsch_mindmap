@@ -1,1 +1,0 @@
-, [[ableiten]], [[Umkehrschluss]]

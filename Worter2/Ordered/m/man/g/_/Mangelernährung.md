@@ -1,1 +1,0 @@
-, [[Essensversorgung]], [[Ernährungsweise]]

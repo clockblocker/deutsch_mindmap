@@ -1,1 +1,0 @@
-🔄 [[wegdrehen]] + Akk, [veːkˈdʁeːən], [[s1 e1]]

@@ -1,0 +1,1 @@
+, [[selbständig]], [[Volkssouveränität]], [[unterworfen]]

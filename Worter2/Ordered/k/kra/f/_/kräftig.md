@@ -1,1 +1,0 @@
-, [[dick]], [[schmale]], [[salzig]], [[bullig]], [[Kraft]], [[erschöpft]], [[schlank]], [[aussagekräftig]], [[stark]], [[stärken]], [[derb]], [[Zahlungskräftig]], [[robust]], [[muskelbepackt]], [[schwach]]

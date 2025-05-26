@@ -1,1 +1,0 @@
-, [[Oberhaupt]], [[Vorsitzende]], [[Staatsoberhaupt]], [[Bundespräsident]]

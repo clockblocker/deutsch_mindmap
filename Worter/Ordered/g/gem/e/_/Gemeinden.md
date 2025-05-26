@@ -1,0 +1,3 @@
+, [[Gemeinde]], [[unter]]
+
+#Plural, [[Ware]]

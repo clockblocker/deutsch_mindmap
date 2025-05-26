@@ -1,2 +1,0 @@
-, [[Hölzchen]]
-, [[Scherb]]

@@ -1,1 +1,0 @@
-, [[beruhigenden]], [[Aufregung]], [[anregen]]

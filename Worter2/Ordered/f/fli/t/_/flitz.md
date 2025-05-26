@@ -1,1 +1,0 @@
-🚀 [[flitzen]], [ˈflɪtsən] | [[flitzte]], sein [[geflitzt]]

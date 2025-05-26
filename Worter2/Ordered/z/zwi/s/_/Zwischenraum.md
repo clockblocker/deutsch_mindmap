@@ -1,2 +1,0 @@
-, [[Abstand]], [[Lücke]]
-, [[Leerzeichen]]

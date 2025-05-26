@@ -1,1 +1,0 @@
-, [[neidisch]], [[wohltätig]]

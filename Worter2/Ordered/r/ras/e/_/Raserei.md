@@ -1,2 +1,0 @@
-, [[Wahnsinn]]
-, [[Wutanfall]], [[rasch]]

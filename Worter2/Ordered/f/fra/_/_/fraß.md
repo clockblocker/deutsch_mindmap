@@ -1,2 +1,0 @@
-🐾 [[fressen]]
-, [[Futter]]

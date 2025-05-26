@@ -1,0 +1,1 @@
+, [[Wahl]], [[Wähler]], [[wahlberechtigt]]

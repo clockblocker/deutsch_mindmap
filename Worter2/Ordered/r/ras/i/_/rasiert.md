@@ -1,2 +1,0 @@
-, [[gemähter]]
-, [[rasieren]]

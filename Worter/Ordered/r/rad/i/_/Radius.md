@@ -1,0 +1,1 @@
+, [[Umkreis]], [[Schussradius]], [[Reichweite]]

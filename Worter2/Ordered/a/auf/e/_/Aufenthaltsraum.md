@@ -1,1 +1,0 @@
-, [[Wohnzimmer]], [[Pausenraum]], [[Teeküche]]

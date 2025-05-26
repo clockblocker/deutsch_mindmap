@@ -1,2 +1,0 @@
-, [[Barmherzigen]]
-, [[mitfühlend]]

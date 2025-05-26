@@ -1,0 +1,2 @@
+✋ [[nehmen]]
+, [[annehmen]]

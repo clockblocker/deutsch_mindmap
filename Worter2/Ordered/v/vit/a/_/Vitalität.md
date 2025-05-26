@@ -1,2 +1,0 @@
-
-, [[Erschöpfung]], [[Worter/G/Gesundheit]]

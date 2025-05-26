@@ -1,1 +1,0 @@
-🔵 der [[Erwerbstätige]] | 🏢 [[erwerbstätig]], [[selbständig]]

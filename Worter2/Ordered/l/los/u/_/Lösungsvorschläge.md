@@ -1,1 +1,0 @@
-🔵 der [[Lösungsvorschlag]] 💡

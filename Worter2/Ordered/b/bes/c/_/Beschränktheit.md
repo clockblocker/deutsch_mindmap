@@ -1,1 +1,0 @@
-, [[Beschränkung]], [[Kürze]]

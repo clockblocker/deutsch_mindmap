@@ -1,0 +1,1 @@
+, [[aufgeben]], [[bemühen]], [[verzichten]], [[verzweifeln]], [[aufbringen]]

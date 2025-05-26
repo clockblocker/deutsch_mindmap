@@ -1,0 +1,1 @@
+🤔 [[erklären]] | 🔴 die [[Erklärung]] 🤔

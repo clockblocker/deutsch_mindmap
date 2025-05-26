@@ -1,0 +1,1 @@
+, [[ausführlich]], [[Kürze]]

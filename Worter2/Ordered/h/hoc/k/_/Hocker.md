@@ -1,1 +1,0 @@
-, [[Sessel]], [[Stuhl]]

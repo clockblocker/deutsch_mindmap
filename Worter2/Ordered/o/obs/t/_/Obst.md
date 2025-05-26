@@ -1,1 +1,0 @@
-, [[Frucht]], [[Radieschen]], [[Gemüse]]

@@ -1,1 +1,0 @@
-, [[stumm]], [[Schweige]], [[schweigen]], [[wortgewaltig]]

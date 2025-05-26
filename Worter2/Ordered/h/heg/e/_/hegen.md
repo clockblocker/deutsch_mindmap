@@ -1,1 +1,0 @@
-, [[pflückt]], [[kümmern]], [[pflücken]]

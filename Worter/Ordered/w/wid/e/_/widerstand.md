@@ -1,0 +1,1 @@
+, [[widerstehen]], [[Montagsdemonstration]], [[Aufstand]], [[Gegenwind]], [[standhalten]], [[Vorschlag]], [[widerstandsfähig]], [[Widerstandsfähigkeit]], [[Widerstandsmessung]]

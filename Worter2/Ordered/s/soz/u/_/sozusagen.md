@@ -1,1 +1,0 @@
-, [[irgendwie]], [[nämlich]], [[quasi]], [[geradezu]]

@@ -1,0 +1,1 @@
+, [[umdrehen]], [[drehen]], [[rollen]], [[wälzen]]

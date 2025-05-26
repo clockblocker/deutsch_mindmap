@@ -1,1 +1,0 @@
-🚶 [[Passant]], [paˈsantən]

@@ -1,2 +1,0 @@
-, [[Anerkennung]]
-, [[erkennbar]], [[wiedererkennen]]

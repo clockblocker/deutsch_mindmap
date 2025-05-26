@@ -1,1 +1,0 @@
-, [[Naturheilkunde]], [[Schulmedizin]]

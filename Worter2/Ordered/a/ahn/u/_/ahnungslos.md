@@ -1,1 +1,0 @@
-[[bereit]], [[verständnislos]], [[erfahrenen]], [[Ahne]], [[ahnen]]

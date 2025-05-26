@@ -1,1 +1,0 @@
-, [[Zielabstimmung]], [[zielgerichtet]], [[Zielgruppe]]

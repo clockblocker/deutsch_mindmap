@@ -1,1 +1,0 @@
-, [[lösen]], [[gelöst]], [[auslösen]]

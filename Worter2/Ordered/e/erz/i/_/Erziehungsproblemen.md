@@ -1,1 +1,0 @@
-🟢 🧸 das [[Erziehungsproblem]], [ɛɐ̯ˈtsiːʔʊŋsˌpʁoːblɛm]

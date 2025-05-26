@@ -1,1 +1,0 @@
-🍽️ [[gabeln]] | 🔵 die [[Gabel]]

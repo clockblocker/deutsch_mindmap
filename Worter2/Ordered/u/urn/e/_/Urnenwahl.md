@@ -1,1 +1,0 @@
-, [[Briefwahl]], [[Wahlurne]]

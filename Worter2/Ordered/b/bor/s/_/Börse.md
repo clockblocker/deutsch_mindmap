@@ -1,1 +1,0 @@
-, [[Bank]], [[Wohnungsmarkt]], [[Börsenhai]]

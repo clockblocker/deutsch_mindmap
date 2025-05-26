@@ -1,1 +1,0 @@
-, [[überdrüssig]], [[lustlos]]

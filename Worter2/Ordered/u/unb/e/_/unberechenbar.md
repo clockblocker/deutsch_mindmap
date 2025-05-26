@@ -1,1 +1,0 @@
-, [[regelmäßig]], [[manchmal]], [[Je mehr]], [[sicher]], [[willkürlich]]

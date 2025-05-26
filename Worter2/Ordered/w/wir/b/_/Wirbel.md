@@ -1,1 +1,0 @@
-, [[Wirbelsturm]], [[Lendenwirbel]], [[Wirbelsäule]], [[Sog]]

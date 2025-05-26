@@ -1,3 +1,0 @@
-🔴 die [[Klassenstufe]] 🧑‍🏫
-
-#Plural 

@@ -1,0 +1,1 @@
+, [[Verhältnis]], [[Situation]], [[Lebenslage]]

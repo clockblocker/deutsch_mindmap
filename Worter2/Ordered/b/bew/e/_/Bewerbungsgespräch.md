@@ -1,2 +1,0 @@
-, [[bewerben]]
-, [[Bewerbung]], [[Bewerber]]

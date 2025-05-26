@@ -1,0 +1,1 @@
+, [[selbst]], [[selbständig]]

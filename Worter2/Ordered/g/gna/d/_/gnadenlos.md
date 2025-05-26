@@ -1,1 +1,0 @@
-, [[unerbittlich]], [[rücksichtslos]]

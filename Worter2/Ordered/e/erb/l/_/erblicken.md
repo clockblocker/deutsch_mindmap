@@ -1,1 +1,0 @@
-, [[entdeckten]], [[sehen]], [[blicken]], [[anblicken]]

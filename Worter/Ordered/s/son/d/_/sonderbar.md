@@ -1,0 +1,1 @@
+, [[seltsam]], [[merkwürdige]], [[skurril]]

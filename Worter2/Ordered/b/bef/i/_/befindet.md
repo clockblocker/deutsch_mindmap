@@ -1,1 +1,0 @@
-, [[befinden]], [[Präpositionen Übung 1 mit Dativ (WO?)]]

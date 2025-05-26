@@ -1,1 +1,0 @@
-, [[Teamfähigkeit]], [[Team]]

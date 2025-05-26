@@ -1,0 +1,2 @@
+, [[verheiratet]], [[Ehepaar]], [[Ehepartner]]
+, [[ledig]]

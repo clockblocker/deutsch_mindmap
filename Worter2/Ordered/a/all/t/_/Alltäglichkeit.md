@@ -1,1 +1,0 @@
-, [[Seltenheit]], [[alltäglich]]

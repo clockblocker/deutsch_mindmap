@@ -1,0 +1,1 @@
+, [[Opfer]], [[verursachen]], [[Betroffene]], [[Hauptverursacher]]

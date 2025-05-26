@@ -1,2 +1,0 @@
-[[sicher]]
-, [[sichern]]

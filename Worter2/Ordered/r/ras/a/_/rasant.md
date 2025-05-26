@@ -1,1 +1,0 @@
-, [[flott]], [[Schnell]], [[exponentiell]]

@@ -1,0 +1,1 @@
+, [[Jeder]], [[willkürlich]], [[Je]], [[wahllos]], [[jeglich]]

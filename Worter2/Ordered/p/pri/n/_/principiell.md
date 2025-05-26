@@ -1,1 +1,0 @@
-, [[grundsätzlich]], [[standhaft]]

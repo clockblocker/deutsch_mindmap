@@ -1,0 +1,1 @@
+, [[Werk]], [[Stillleben]], [[Einzelausstellung]], [[künstlerischer]], [[Kunstgegenstand]]

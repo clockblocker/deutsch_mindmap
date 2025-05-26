@@ -1,1 +1,0 @@
-, [[nützen]], [[Nützliches]], [[gemeinnützig]]

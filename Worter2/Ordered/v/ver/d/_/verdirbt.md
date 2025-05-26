@@ -1,1 +1,0 @@
- [[verderben]] + Akk, [fɛɐ̯ˈdɛɐ̯bən]

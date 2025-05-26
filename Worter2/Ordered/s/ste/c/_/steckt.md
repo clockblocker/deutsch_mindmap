@@ -1,1 +1,0 @@
-[[stecken]], [[dahinter]], [[betreffen]]

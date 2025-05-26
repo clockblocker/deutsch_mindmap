@@ -1,1 +1,0 @@
-, [[Lebzeiten]], [[Lebensjahr]], [[Lebensalter]]

@@ -1,1 +1,0 @@
-, [[Vorschlag]], [[vorschlagen]], [[Äußerung]]

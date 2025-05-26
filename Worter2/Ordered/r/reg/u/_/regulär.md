@@ -1,1 +1,0 @@
-[[normal]][[mittel]][[besonders]], [[gesetzlich]]

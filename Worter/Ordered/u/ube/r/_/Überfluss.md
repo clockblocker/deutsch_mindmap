@@ -1,0 +1,1 @@
+, [[überquellen]], [[Armut]], [[Bedürfnis]], [[Wohlstand]], [[Mangel]], [[fehlen]], [[Engpass]], [[Bedarf]], [[Übergangebot]], [[Erfordernis]], [[Bedürftigkeit]], [[Verschwendungsgesellschaft]]

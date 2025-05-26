@@ -1,1 +1,0 @@
-, [[freilich]], [[Konnektoren]], [[natürlich]], [[erstaunlicherweise]]

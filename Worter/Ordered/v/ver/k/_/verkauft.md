@@ -1,0 +1,2 @@
+[[verkaufen]]
+, [[ausverkauft]]

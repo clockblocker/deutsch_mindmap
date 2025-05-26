@@ -1,1 +1,0 @@
-, [[geben]], [[Gabel]], [[Begabung]], [[Abgabe]], [[Ausgabe]], [[Rückgabe]]

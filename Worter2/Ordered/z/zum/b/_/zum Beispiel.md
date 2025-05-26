@@ -1,1 +1,0 @@
-, [[übrigens]], [[u. a.]], [[beispielsweise]]

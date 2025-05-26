@@ -1,1 +1,0 @@
-, [[anstarrten]], [[starren]], [[angrinsen]]

@@ -1,0 +1,2 @@
+, [[artig]]
+, [[aufsässig]]

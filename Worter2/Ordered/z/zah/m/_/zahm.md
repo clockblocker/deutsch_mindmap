@@ -1,2 +1,0 @@
-, [[wild]]
-, [[ungestüm]], [[unbändig]]

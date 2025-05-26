@@ -1,2 +1,0 @@
-💡 [[scheinen]]
-[[scheiden]], [[Bahn]]

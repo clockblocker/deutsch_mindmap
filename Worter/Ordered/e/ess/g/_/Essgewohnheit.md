@@ -1,0 +1,1 @@
+, [[Worter/essbar]], [[Ernährungsweise]]

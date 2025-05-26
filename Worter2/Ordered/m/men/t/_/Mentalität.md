@@ -1,1 +1,0 @@
-, [[Grundeinstellung]], [[Lebensweise]], [[Denkweise]]

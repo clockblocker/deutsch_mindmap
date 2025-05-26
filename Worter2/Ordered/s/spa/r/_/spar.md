@@ -1,1 +1,0 @@
-, [[sparen]], [[zeitsparend]], [[Sparsamkeit]], [[Sparer]]

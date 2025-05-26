@@ -1,1 +1,0 @@
-, [[Gesetz]], [[Faustrecht]], [[Gericht]], [[Verfassung]], [[Gesetzgebung]], [[Hierarchie]], [[Unternehmenskultur]], [[Staat]]

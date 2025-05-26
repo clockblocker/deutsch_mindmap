@@ -1,1 +1,0 @@
-[[stehlen]], [[rauben]], [[einbrechen]]

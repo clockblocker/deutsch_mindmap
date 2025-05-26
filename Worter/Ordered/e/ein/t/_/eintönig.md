@@ -1,0 +1,1 @@
+, [[langweilig]], [[Tonfall]], [[wechselvoll]], [[abwechslungsreich]]

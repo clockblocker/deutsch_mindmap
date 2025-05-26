@@ -1,1 +1,0 @@
-, [[knistern]], [[Zischen]], [[flüstern]]
